@@ -45,3 +45,13 @@ Será obligatorio tener a disposición de los servicios de las Administraciones 
 Cuando se hayan utilizado otros azúcares en lugar de la sacarosa, deberán indicarse los mismos en lugar de la palabra «azúcar».
 
 15.9 Leyenda en «extractos de café en pasta» y «extractos de café líquido»: En el caso de los productos definidos en los epígrafes 3.10, 3.11, 3.12 y 3.13 figurará una leyenda con el porcentaje en masa del extracto seco de café contenido en el producto final.
+
+15.10 En el caso de venta a granel de los cafés en grano, deberá figurar en carteles situados junto al producto:
+
+La denominación de venta según lo establecido en el artículo 3 y completada, en su caso, con la expresión descafeinado, recogida en el artículo 4.
+
+La lista de ingredientes, en su caso.
+
+Cuando se trate de café torrefacto, será obligatorio que se incluya, además, la leyenda siguiente: El café torrefacto ha sido tostado con azúcares.
+
+> Se añade el apartado 10 por el art. único.9 del Real Decreto 1372/1997, de 29 de agosto. Ref. BOE-A-1997-19498.

@@ -10,11 +10,11 @@ Además de las manipulaciones incorrectas que no correspondan a una buena práct
 
 8.4 La elaboración de cafés alterados o con caracteres organolépticos anormales.
 
-8.5 El transporte a granel de los productos contemplados en esta Reglamentación.
+8.5 El transporte a granel de los productos contemplados en esta Reglamentación, salvo el que se realice entre fabricantes o entre instalaciones de una misma empresa.
 
 8.6 La venta para el consumo humano de cafés «agotados» y de sus mezclas con otros cafés en cualquier proporción.
 
-8.7 La venta a granel de todos los productos contemplados en esta Reglamentación, no pudiendo fraccionarse sus envases ni aun en presencia del comprador.
+8.7 La venta a granel de todos los productos contemplados en esta reglamentación, excepto la del café en grano si su envasado se realiza en presencia del consumidor y se cumplen los requisitos de envasado y etiquetado establecidos en el ar tículo 13, a excepción de lo relativo a la limitación de tamaños de los formatos, y en el artículo 15, exceptuando lo dispuesto en los apartados 15.1, 15.3, 15.6, 15.8 y 15.9, sin que pueda realizarse la venta en régimen de autoservicio.
 
 8.8 La venta bajo la denominación de «cafés descafeinados» de aquellos que no hayan sido sometidos a un previo proceso de descafeinización, o la venta de mezclas de cafés descafeinados con otros que no hayan sido sometidos a este tratamiento.
 
@@ -31,3 +31,5 @@ Además de las manipulaciones incorrectas que no correspondan a una buena práct
 8.14 La presentación bajo formas y atributos propios del café en etiquetas, impresos o publicidad gráfica, cuando no se trate de productos contemplados en esta Reglamentación Técnico-Sanitaria o productos en los que no haya sido utilizado el café como ingrediente, de modo que pueda inducirse a error o confundir al consumidor en cuanto a la naturaleza y contenido del producto envasado.
 
 En aquellos productos en que intervenga el café como ingrediente no podrá utilizarse la palabra «café» con caracteres de imprenta que se destaquen de aquellos con que aparezcan los restantes ingredientes que compongan su denominación.
+
+> Se modifican los apartados 5 y 7 por el art. único. 5 y 6 del Real Decreto 1372/1997, de 29 de agosto. Ref. BOE-A-1997-19498.

@@ -12,9 +12,9 @@ Granos carbonizados: 5 por 100 máximo.
 
 Cenizas totales: 6 por 100 máximo s/materia seca.
 
-Sólidos solubles del extracto acuoso: Del 20 al 30 por 100.
+Sólidos solubles del extracto acuoso: Del 20 al 35 por 100.
 
-3.2 Café torrefacto: Es el café tostado en grano, con adición de sacarosa o glucosa anhidra, antes de finalizar el proceso de tostación, en una proporción máxima de 15 kilogramos de dichos azúcares por cada 100 kilogramos de café verde.
+3.2 Café torrefacto: es el café tostado en grano, con adición de sacarosa o glucosa, antes de finalizar el proceso de tostación, en una proporción máxima de 15 kilogramos de dichos azúcares (expresados en sustancia seca, si los azúcares se emplean en forma líquida) por cada 100 kilogramos de café verde.
 
 Contendrá:
 
@@ -26,7 +26,7 @@ Granos carbonizados: 5 por 100 máximo.
 
 Cenizas totales: 5,5 por 100 máximo s/materia seca.
 
-Sólidos solubles del extracto acuoso: Del 25 al 35 por 100.
+Sólidos solubles del extracto acuoso: 25 al 40 por 100.
 
 3.3 Café de tueste natural (porcentaje) y café torrefacto (porcentaje): Esta denominación, donde obligatoriamente figurarán los porcentajes, corresponde a las mezclas realizadas con los cafés citados en los puntos 3.1 y 3.2, debiendo ajustarse, por separado, a las especificaciones de dichos epígrafes.
 
@@ -48,7 +48,7 @@ Contendrá:
 
 Humedad: 5 por 100 máximo.
 
-Cantidad de sacarosa o glucosa anhidra: 15 kilogramos como máximo por 100 kilogramos de café verde.
+Cantidad de sacarosa o glucosa: 15 kilogramos, como máximo, de dichos azúcares (expresados en sustancia seca, si los azúcares se emplean en forma líquida) por cada 100 kilogramos de café verde.
 
 3.9. «Café soluble» (porcentaje) y «café torrefacto soluble» (porcentaje). También podrán utilizarse las otras denominaciones de los epígrafes 3.7 y 3.8: Es el extracto de café en forma sólida, soluble en agua, obtenido a partir de los cafés definidos en los epígrafes 3.1 y 3.2.
 
@@ -68,7 +68,7 @@ Contendrá:
 
 Humedad: Comprendida entre el 15 por 100 y el 30 por 100.
 
-Cantidad de sacarosa o glucosa anhidra: 12 kilogramos como máximo por 100 kilogramos de café verde.
+Cantidad de sacarosa o glucosa: 12 kilogramos como máximo de dichos azúcares (expresados en sustancia seca, si los azúcares se emplean en forma líquida) por cada 100 kilogramos de café verde.
 
 3.12 «Extracto de café líquido»: Es el producto en forma líquida obtenido por deshidratación parcial de la infusión acuosa del café de tueste natural.
 
@@ -82,4 +82,6 @@ Contendrá:
 
 Humedad: Comprendida entre el 45 por 100 y el 85 por 100.
 
-Cantidad de sacarosa o glucosa anhidra: 12 kilogramos como máximo por 100 kilogramos de café verde.
+Cantidad de sacarosa o glucosa: 12 kilogramos como máximo de dichos azúcares (expresados en sustancia seca, si los azúcares se emplean en forma líquida) por cada 100 kilogramos de café verde.
+
+> Se modifican los apartados 1, 2, 8, 11 y 13 por el art. único.1 a 4 del Real Decreto 1372/1997, de 29 de agosto. Ref. BOE-A-1997-19498.
