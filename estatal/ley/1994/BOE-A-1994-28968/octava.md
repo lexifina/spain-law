@@ -1,3 +1,5 @@
 ## Disposición adicional octava. Concesión de incentivos fiscales y subvenciones a los residentes en el resto de la Unión Europea que no lo sean en territorio español.
 
-Los residentes en la Unión Europea, que no lo sean en España, y que por su condición de tales, deban someterse a la legislación tributaria del Estado, sin que, por esa circunstancia, puedan acogerse a la de la Comunidad Autónoma o Territorio Histórico del País Vasco o Navarra en el que operen tendrán derecho, en el marco de la normativa comunitaria, al reembolso por la Administración Tributaria del Estado de las cantidades que hubieran pagado efectivamente en exceso con respecto al supuesto de haberse podido acoger a la legislación propia de dichas Comunidades Autónomas o Territorios Históricos, en los términos que reglamentariamente se establezcan.
+(Anulada)
+
+> Se declara la inconstitucionalidad y nulidad por Sentencia del TC 96/2002, de 25 de abril. Ref. BOE-T-2002-9783
