@@ -18,17 +18,19 @@ Intervención Central de Armas y Explosivos.
 
 Delegación o Subdelegación del Gobierno, cuando proceda.
 
-2. Tarjeta de armas que autoriza y documenta para poder llevar y usar las armas en las condiciones establecidas en el artículo 105 del Reglamento.
+2. Tarjeta de armas que autoriza y documenta para poder llevar y usar las armas en las condiciones establecidas en el artículo 105 del Reglamento de Armas.
 
-El ejemplar para el titular será un tríptico en el que figuren los datos personales y las armas que posea, cuyo modelo figura en el anexo 3.
+El ejemplar para el titular será un tríptico en el que figuren los datos personales y las armas que posea, cuyo modelo figura en el anexo 1 [entiéndase anexo 3] de esta Orden.
 
-La información necesaria para los organismos afectados y los antecedentes de la concesión se volcarán en una ficha cuyo modelo figura en el anexo 4.
+La información necesaria para los organismos afectados y los antecedentes de la concesión se volcarán en una ficha cuyo modelo figura en el anexo 2 [entiéndase anexo 4] de esta Orden.
 
 Estos organismos son los siguientes:
 
 Ayuntamiento.
 
-Intervención de Armas de la Demarcación.
+Intervención de Armas y Explosivos de la demarcación.
+
+Ambos modelos estarán confeccionados en bilingüe, en castellano y en la lengua cooficial.
 
 3. Guías de pertenencia que documentan la tenencia de las armas para las que se conceda con arreglo a lo dispuesto en los artículos 89 y 107 del Reglamento, cuyo modelo figura en el anexo 5.
 
@@ -39,5 +41,7 @@ El interesado.
 La Intervención de Armas expedidora.
 
 La Intervención Central de Armas y Explosivos.
+
+> Se modifica el punto 2 por el apartado 1 de la Orden INT/4326/2004, de 17 de diciembre. Ref. BOE-A-2005-143.
 
 > Se modifica el punto 1 por el apartado 1 de la Orden de 12 de septiembre de 1997. Ref. BOE-A-1997-20397.
