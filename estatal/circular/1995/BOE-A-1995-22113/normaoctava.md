@@ -10,4 +10,8 @@ b) También se proporcionará, previa solicitud en la que consten el nombre del 
 
 A fin de asegurar el correcto cumplimiento de lo dispuesto en el párrafo anterior, el Banco de España podrá solicitar a las entidades declarantes la remisión de las autorizaciones a las que se alude en el mismo, así como requerirles la implantación de los procedimientos y controles necesarios a tal efecto.
 
+Las solicitudes de las entidades se formularán con el formato y declaración que recoge el anejo IV bis, y deberán realizarse en soporte magnético o por interconexión de ordenadores. Sólo se admitirán en papel solicitudes que no se refieran a más de cinco titulares.
+
+> Se añade el último párrafo a la letra b) por la norma única de la Circular 8/1999, de 27 de julio. Ref. BOE-A-1999-17037.
+
 > Se modifican las letra a) y b) y se suprime la letra c) por la norma única de la Circular 6/1998, de 29 de mayo. Ref. BOE-A-1998-13844.
