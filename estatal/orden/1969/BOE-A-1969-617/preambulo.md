@@ -1,0 +1,3 @@
+Excelentísimos señores:
+
+Creado el Registro Oficial de Altos Cargos de la Banca por Decreto 702/1969, de 26 de abril, cuya disposición final primera establece que, a partir de 1 de julio de 1969, las personas que no figuren inscritas en el mismo no podrán desempeñar en ninguna Entidad bancaria los cargos de Presidente, Vicepresidente, Consejeros o Administradores, Directores generales o asimilados a estos últimos, urge regular su organización y funcionamiento. A tal fin, este Ministerio, en uso de las facultades que le confiere en su párrafo segundo el artículo primero del referido Decreto, ha tenido a bien disponer lo siguiente:
