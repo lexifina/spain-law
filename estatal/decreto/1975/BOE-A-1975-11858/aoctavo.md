@@ -1,0 +1,5 @@
+## Artículo octavo. Fermentación y destilación.
+
+Uno. El jugo, meladas o jarabes de la caña de azúcar, o las melazas producidas en la fabricación de azúcar de caña, se someterán a una eliminación previa de impurezas extrañas, en el caso de que así proceda. Se adoptará una concentración adecuada y se invertirá la sacarosa para desdoblarla en azúcares fermentescibles. La solución acuosa entrará en fermentación alcohólica en presencia de levadura idónea, conduciendo la operación en régimen de temperatura óptima, de tal forma que se evite, en lo posible, la formación en exceso de alcoholes superiores y la degeneración del proceso fermentativo.
+
+Dos. La destilación de los caldos fermentados se realizará con tecnología adecuada para conseguir la separación de impurezas, «cabezas y colas», perturbadoras para la elaboración del ron, obteniéndose aguardientes y destilados definidos en esta Reglamentación. En todo caso, el producto final, a la salida del último aparato de destilación, tendrá una graduación alcohólica máxima de noventa y cinco coma cinco grados centesimales en volumen.

@@ -1,0 +1,3 @@
+## Artículo treinta y tres. Exportaciones.
+
+Los productos que se destinan a exportación deberán ir amparados por un certificado de análisis expedido por los Centros autorizados al efecto por el Ministerio de Industria, y del certificado de origen, si estuvieran acogidos a una denominación, sin perjuicio de la competencia específica de otros Ministerios.

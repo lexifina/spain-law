@@ -1,0 +1,5 @@
+## Artículo treinta y siete. Sanciones.
+
+Uno. Las infracciones a lo dispuesto en esta Reglamentación se sancionarán de acuerdo con lo que se determina en el título V de la Ley veinticinco/mil novecientos setenta, de dos de diciembre, y su Reglamento, y en el Decreto mil setecientos setenta y cinco/mil novecientos sesenta y siete, de veintidós de julio, sin perjuicio de las competencias sancionadoras que correspondan específicamente a otros Ministerios. Los expedientes se tramitarán de conformidad con lo establecido en el título VI, capítulo II de la Ley de Procedimiento Administrativo de diecisiete de julio de mil novecientos cincuenta y ocho.
+
+Dos. Dentro de los límites que se señalan para las cuantías de las multas establecidas en cada clase de faltas, se aplicarán en su grado mínimo, medio o máximo, atendiendo a la importancia de la transgresión, al grado de culpabilidad del infractor y al peligro que impliquen para la salud de los consumidores y la posible concurrencia de reiteración o reincidencias en la comisión de infracciones en la materia, conforme al Estatuto y a su Reglamento.
