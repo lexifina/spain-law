@@ -38,4 +38,6 @@ Asimismo se hará público al comienzo de cada curso el calendario escolar, que 
 
 g) En cada Facultad se organizará un servicio diario de ordenación e inspección de la vida interna a cargo de un Profesor universitario.
 
+> Se suspenden las letras c) y d), hasta que se promulgue la futura Ley de enseñanza universitaria, por la disposición final 1 del Decreto-Ley 5/1968, de 6 de junio. Ref. BOE-A-1968-650.
+
 > Se modifican las letras d) y e) por el art. único de la Ley de 16 de julio de 1949. Ref. BOE-A-1949-7225.
