@@ -1,0 +1,7 @@
+## Art. 8. Disposiciones generales.
+
+1. Las Sociedades y Fondos de Inversión Inmobiliaria, así como sus correspondientes Sociedades Gestoras, estarán sujetas a las obligaciones de información establecidas en los números 1 a 3 del artículo 10 del Reglamento de la Ley 46/1984.
+
+2. Asimismo, las Sociedades de Inversión Inmobiliaria o, en su caso, la correspondiente Sociedad Gestora, deberán cumplir las obligaciones complementarias de información sobre hechos relevantes a que se refiere el artículo 10.4 del Reglamento de la Ley 46/1984. No obstante, en materia de reembolso de participaciones se considerará hecho relevante todo reembolso superior al 5 por 100 del patrimonio del Fondo. Asimismo tendrán la consideración de hechos relevantes los contemplados en los artículos 18.2, 19.5, 20.2, en cuanto a que un partícipe alcance el 25 por 100; 21, en cuanto al hecho de modificación de las comisiones vigentes, y 28.3 de la presente Orden. También tendrá la consideración de hecho relevante la venta de un inmueble por un precio inferior en un 10 por 100 a su valor de tasación, calculado según lo previsto en el artículo 7.2.
+
+3. Se habilita a la Comisión Nacional del Mercado de Valores para establecer la forma y contenido de los modelos de Folleto Informativo, Memoria Anual e Informes trimestrales de las Instituciones reguladas en la presente Orden, atendiendo a las peculiaridades resultantes en el régimen de inversiones y funcionamiento.
