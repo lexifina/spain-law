@@ -1,8 +1,10 @@
 ## Art. 68.
 
-Los nacimientos, matrimonios y defunciones se inscribirán en el Registro municipal o consular del sitio en que acaecen cualquiera que sea el domicilio de los afectados, la incardinación de la parroquia o el lugar de enterramiento.
+Los nacimientos, matrimonios y defunciones se inscribirán en el Registro Municipal o Consular del sitio en que acaecen, cualquiera que sea el domicilio de los afectados, la incardinación de la parroquia o el lugar de enterramiento.
 
-Cuando sea competente un Registro Consular y se trate de inscripción fuera de plazo puede practicarse antes en el Registro Central y después, por traslado, en el Consular correspondiente.
+Cuando sea competente un Registro Consular, si el promotor está domiciliado en España, deberá practicarse antes la inscripción en el Registro Central, y después, por traslado, en el Consular correspondiente.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. Ref. BOE-A-1978-2206.
 
 > Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. Ref. BOE-A-1969-745.
 

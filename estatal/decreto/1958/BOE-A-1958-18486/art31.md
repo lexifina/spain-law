@@ -1,5 +1,7 @@
 ## Art. 31.
 
-En cuanto a las certificaciones de anotaciones, o a las de inscripciones sobre vecindad civil, o conservación, opción o recuperación de la nacionalidad, se estará, respectivamente, a lo dispuesto en los artículos 145 y 227.
+Las certificaciones no requieren legalización para surtir sus efectos ante cualquier órgano, sin perjuicio de las diligencias de comprobación que éste estime oportuno realizar en caso de duda fundada.
+
+> Se modifica por el art. 1 del Real Decreto 3455/1977, de 1 de diciembre. Ref. BOE-A-1978-2206.
 
 > Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. Ref. BOE-A-1969-745.
