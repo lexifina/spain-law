@@ -1,0 +1,15 @@
+La Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, regula en su Título VII, capítulo I, las cuestiones relativas a la conservación del patrimonio documental como parte integrante del Patrimonio Histórico Español. En su artículo 55 establece que la exclusión o eliminación de bienes del patrimonio documental y bibliográfico contemplados en el artículo 49.2 y de los demás de titularidad pública deberá ser autorizada por la Administración competente, a propuesta de sus propietarios o poseedores, mediante el procedimiento que se establecerá por vía reglamentaria.
+
+El artículo 58 de dicha Ley atribuye el estudio y dictamen de las cuestiones relativas a la calificación y utilización de los documentos de la Administración del Estado y del sector público estatal, así como su integración en los archivos y el régimen de acceso e inutilidad administrativa de tales documentos a la Comisión Superior Calificadora de Documentos Administrativos, cuyas competencias, composición y funciones han sido determinadas por el Real Decreto 139/2000, de 4 de febrero.
+
+En desarrollo de las citadas previsiones legales y con el fin de que la Comisión Superior Calificadora pueda ejercer plenamente sus competencias, es preciso regular la conservación de la documentación histórica, el control de la eliminación de documentos generados por la Administración General del Estado y sus Organismos públicos y su conservación en soporte distinto al original.
+
+Esta normativa es, además, imprescindible para la racionalización del tratamiento de la documentación y consiguiente mejora de la propia gestión de la Administración, a la vez que se asegura la conservación de aquellos de sus documentos que tengan valor histórico.
+
+Al propio tiempo resulta conveniente establecer en esta misma disposición las normas relativas a la conservación de documentos administrativos en soportes distintos al original, de manera que, en su caso, pueda eliminarse con suficientes garantías el soporte papel de determinadas series documentales, manteniendo los soportes digitales u ópticos correspondientes. Esta regulación tiene su base en las previsiones de los artículos 45.5 y 46 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y se relaciona con lo establecido en el Real Decreto 263/1996, de 16 de febrero, sobre utilización de técnicas informáticas, electrónicas y telemáticas en la Administración General del Estado.
+
+Por otra parte, y dado que cuestiones abordadas en el presente Real Decreto han sido ya contempladas específicamente para los archivos militares en el Reglamento aprobado por Real Decreto 2598/1998, de 4 de diciembre, dicho Reglamento queda en ciertos aspectos afectado por la nueva normativa, y a ello se refiere la Disposición adicional segunda.
+
+En su virtud, a propuesta de los Ministros de Educación, Cultura y Deporte, de Defensa, de Hacienda y de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 8 de noviembre de 2002,
+
+## D I S P O N G O :
