@@ -4,7 +4,7 @@ La Directiva citada contempla las obligaciones de los Estados miembros de la Com
 
 A tal efecto, el presente Real Decreto regula las condiciones que estos productos deben cumplir para poder importarse, comercializarse y utilizarse dentro del territorio español de acuerdo con la mencionada Directiva.
 
-Asimismo, establece los requisitos esenciales que, en su caso, deben satisfacer los edificios y las obras de ingeniería civil a los que se incorporen productos de construcción, así como las características que los mismos deben cumplir para obtener la Marca CE.
+Asimismo, establece los requisitos esenciales que, en su caso, deben satisfacer los edificios y las obras de ingeniería civil a los que se incorporen productos de construcción, así como las características que los mismos deben cumplir para obtener el marcado CE.
 
 Por otra parte, se instrumentan sistemas de certificación de conformidad a normas para los productos de construcción, que regulan las condiciones, los procedimientos y las actuaciones a seguir por los fabricantes o sus representantes para que los productos que fabrican, importan o comercializan sean declarados conformes con las exigencias y documentos establecidos en esta disposición.
 
@@ -15,3 +15,5 @@ Con el fin de dar cumplimiento a la Directiva citada, el presente Real Decreto p
 En su virtud, de acuerdo con el Consejo de Estado, a propuesta de los Ministros de Obras Públicas y Transportes y de Industria, Comercio y Turismo, previa deliberación del Consejo de Ministros, en su reunión del día 29 de diciembre de 1992,
 
 ## D I S P O N G O :
+
+> Se modifica el párrafo cuarto por el art. único.1 del Real Decreto 1328/1995, de 28 de julio. Ref. BOE-A-1995-19849.
