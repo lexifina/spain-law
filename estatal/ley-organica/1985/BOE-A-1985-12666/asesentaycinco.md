@@ -20,11 +20,13 @@ En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su compete
 
 3.º De las cuestiones de cesión de jurisdicción en materia penal derivadas del cumplimiento de tratados internacionales en los que España sea parte.
 
-4.º De los procedimientos judiciales de extradición pasiva, sea cual fuere el lugar de residencia o en que hubiese tenido lugar la detención del presunto extradicto.
+4.º Del procedimiento para la ejecución de las órdenes europeas de detención y entrega y de los procedimientos judiciales de extradición pasiva, sea cual fuere el lugar de residencia o en que hubiese tenido lugar la detención del afectado por el procedimiento.
 
 5.º De los recursos establecidos en la Ley contra las sentencias y otras resoluciones de los Juzgados Centrales de lo Penal, de los Juzgados Centrales de Instrucción y del Juzgado Central de Menores.
 
 6.º De cualquier otro asunto que le atribuyan las leyes.
+
+> Se modifica el número 4º por el art. único.1 de la Ley Orgánica 2/2003, de 14 de marzo. Ref. BOE-A-2003-5450
 
 > Se modifica el número 5º por el art. 3.1 de la Ley Orgánica 7/2000, de 22 de diciembre. Ref. BOE-A-2000-23659
 
