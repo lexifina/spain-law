@@ -1,7 +1,9 @@
-## Artículo séptimo. Bases reguladoras de pensiones.
+## Artículo séptimo. Base reguladora de determinadas pensiones.
 
-Uno. La base reguladora de las pensionas por jubilación y por invalidez permanente y por muerte y supervivencia, cualquiera que sea la contingencia de la que aquéllas se deriven, será el cociente que resulte de dividir por veintiocho la suma de las bases de cotización del interesado durante un período ininterrumpido de veinticuatro meses, elegido por los beneficiarios dentro de los siete años inmediatamente anteriores a la fecha en que se origine el derecho a la pensión.
+1. La base reguladora de las pensiones de incapacidad permanente, derivadas de accidente no laboral, será el cociente que resulte de dividir por 28 la suma de las bases de cotización del interesado durante un período ininterrumpido de 24 meses, elegido por el beneficiario dentro de los siete años inmediatamente anteriores a la fecha del hecho causante de la pensión.
 
-Dos. La base reguladora de las pensiones por muerte y supervivencia, cuando el causante, al tiempo de su fallecimiento, fuese pensionista de jubilación o invalidez, será la misma que sirvió para determinar su pensión.
+2. La base reguladora de las pensiones por muerte y supervivencia, derivadas de contingencias comunes, será el cociente que resulte de dividir por 28 la suma de las bases de cotización del interesado durante un período ininterrumpido de 24 meses, elegidos por los beneficiarios dentro de los 15 años inmediatamente anteriores a la fecha del hecho causante de la pensión.
 
-La cuantía de las pensiones que resulte conforme a la base reguladora señalada en el párrafo anterior se incrementará con el importe de las mejoras o revalorizaciones que, para las prestaciones de igual naturaleza por muerte y supervivencia, hayan tenido lugar desde la fecha del hecho causante de la pensión de la que se deriven.
+3. La base reguladora de las pensiones por muerte y supervivencia, cuando el causante, al tiempo de su fallecimiento, fuese pensionista de jubilación o incapacidad permanente, será la misma que sirvió para determinar su pensión. En estos casos, la cuantía de la pensión se incrementará mediante la aplicación de las mejoras o revalorizaciones que, para las prestaciones de igual naturaleza por muerte y supervivencia, hayan tenido lugar desde la fecha del hecho causante de la pensión de la que deriven.
+
+> Se modifica por el art. 2 del Real Decreto 1795/2003, de 26 de diciembre. Ref. BOE-A-2003-23712.
