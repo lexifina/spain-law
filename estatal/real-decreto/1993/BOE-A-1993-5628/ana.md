@@ -20,7 +20,7 @@
 
 9. Real Decreto 1437/1992, de 27 de noviembre, por el que se fijan las normas sanitarias aplicables a la producción y comercialización de los productos pesqueros y de la acuicultura.
 
-10. Directiva 91/495/CEE, de 27 de noviembre de 1990, relativa a los problemas sanitarios y de policía sanitaria en materia de producción y puesta en el mercado de carne de conejo y de caza de cría.
+10. Real Decreto 1543/1994, de 8 de julio, por el que se establecen los requisitos sanitarios y de policía sanitaria aplicables a la producción y a la comercialización de carne de conejo doméstico y de caza de granja.
 
 11. Directiva 91/492/CEE, de 15 de julio de 1991, por la que se fijan las normas sanitarias aplicables a la producción y puesta en el mercado de moluscos bivalvos vivos.
 
@@ -29,6 +29,8 @@
 13. Directiva 92/45/CEE, de 16 de junio de 1992, sobre problemas sanitarios y de policía sanitaria relativos a la caza de animales silvestres y a la comercialización de carne de caza silvestre.
 
 14. Directiva 92/46/CEE, de 16 de junio de 1992, por la que se establecen las normas sanitarias aplicables a la producción y comercialización de leche cruda, leche tratada térmicamente y productos lácteos.
+
+> Se modifica el apartado 10 por la disposición adicional 2 del Real Decreto 1543/1994, de 8 de julio. Ref. BOE-A-1994-20091.
 
 > Se modifica el apartado 12 por la disposición adicional 2 del Real Decreto 1904/1993, de 29 de octubre. Ref. BOE-A-1994-3253.
 
