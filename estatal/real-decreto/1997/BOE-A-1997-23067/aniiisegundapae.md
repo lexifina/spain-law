@@ -87,10 +87,12 @@
 | 59 * | Ponceau SX (número CAS 4548-53-2) (CI 14700) y sus sales. | Colorantes no de oxidación para el teñido del cabello. | 2,0 por 100. |  |  | 30.9.2004 |
 | 60 * | Basic Violet 14 (número CAS 632-99-5) (CI 42510) y sus sales. | a) Colorantes de oxidación para el teñido del cabello. | a) 0,3 por 100. | En combinación con peróxido de hidrógeno, la concentración máxima para su uso es de 0,15 por 100. |  | 30.9.2004 |
 |  |  | b) Colorantes no de oxidación para el teñido del cabello. | b) 0,3 por 100. |  |  |  |
-| 61 | Muskxylene (número CAS 81-15-2). | Todos los productos cosméticos, excepto los productos para higiene bucal. | a) 1,0 por 100 en perfumes. b) 0,4 por 100 en colonias. c) 0,03 por 100 en otros productos. |  |  | 28.2.2005 |
-| 62 | Musk ketone (número CAS 81-15-2). | Todos los productos cosméticos, excepto los productos para higiene bucal. | a) 1,4 por 100 en perfumes. b) 0,56 por 100 en colonias. c) 0,042 por 100 en otros productos. |  |  | 28.2.2005 |
+| 61 | Musk xylene (número CAS 81-15-2). | Todos los productos cosméticos, excepto los productos para higiene bucal. | a) 1,0 por 100 en perfumes. b) 0,4 por 100 en colonias. c) 0,03 por 100 en otros productos. |  |  | 30.9.2004 |
+| 62 | Musk ketone (número CAS 81-15-2). | Todos los productos cosméticos, excepto los productos para higiene bucal. | a) 1,4 por 100 en perfumes. b) 0,56 por 100 en colonias. c) 0,042 por 100 en otros productos. |  |  | 30.9.2004 |
 
 * Lo indicado en este anexo no afecta a la utilización de estas sustancias como colorantes generales en las condiciones expresadas en el anexo IV.
+
+> Se modifican los números 61 y 62 por el apartado 1.2 de la Orden SCO/1448/2003, de 23 de mayo. Ref. BOE-A-2003-11267.
 
 > Se añaden los números 1 a 62 por el apartado 1.3 de la Orden SCO/249/2003, de 5 de febrero.Ref. BOE-A-2003-3007.
 

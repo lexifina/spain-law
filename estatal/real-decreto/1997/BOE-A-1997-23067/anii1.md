@@ -866,13 +866,9 @@ Colorante C.I. 42555-2
 
 416. Ácido 3 imidazol-4-ilacrílico y su éster etílico (ácido urocánico).
 
-417. a) El cráneo, incluidos los sesos y los ojos, las amígdalas y la médula espinal de:
+417. A partir de la fecha a la que se refiere el apartado 1 del artículo 22 del Reglamento (CE) n.o 999/2001 del Parlamento Europeo y del Consejo, los materiales especificados de riesgo tal como figuran en el anexo V de dicho Reglamento, y los ingredientes derivados de los mismos.
 
-Los animales de la especie bovina de más de doce meses de edad.
-
-Los animales de las especies ovina y caprina de más de doce meses de edad que muestren en las encías un incisivo definitivo e ingredientes derivados.
-
-b) El bazo de los animales de las especies ovina y caprina e ingredientes derivados.
+Hasta dicha fecha, los materiales especificados de riesgo, tal como figuran en el capítulo A del anexo XI del Reglamento (CE) n.o 999/2001, y los ingredientes derivados de los mismos.
 
 No obstante, pueden utilizarse derivados de sebo siempre y cuando se hayan aplicado los métodos siguientes, que el fabricante debe certificar estrictamente:
 
@@ -946,7 +942,7 @@ Proceso continuo, a 140º C, 2 bar (2.000 hPa), durante ocho minutos con condici
 
 448. Aceite de verbena (Lippia citriodora Kunth.) (número CAS 8024-12-2), en su uso como ingrediente de fragancia.
 
-449. Metileugenol (número CAS 95-15-2), excepto los contenidos normales que aparezcan en las esencias naturales utilizadas y siempre que la concentración no sobrepase:
+449. Metileugenol (número CAS 93-15-2), excepto los contenidos normales que aparezcan en las esencias naturales utilizadas y siempre que la concentración no sobrepase:
 
 a) 0,01 por 100 en perfumes.
 
@@ -961,6 +957,8 @@ e) 0,0002 por 100 en otros productos de contacto y productos de higiene bucal.
 (1) Se tolerará la presencia de trazas de las sustancias comprendidas en este anexo, cuando éstas sean técnicamente inevitables como consecuencia de la aplicación de las buenas prácticas de fabricación y siempre que se cumpla el articulo cuarto de esta reglamentación.
 
 (a) El nombre de estas sustancias es el recomendado como «denominación común internacional» para las sustancias farmacéuticas publicadas por la Organización Mundial de la Salud. Ginebra 1982.
+
+> Se modifican los números 417 y 449 por el apartado 1.1 de la Orden SCO/1448/2003, de 23 de mayo. Ref. BOE-A-2003-11267.
 
 > Se modifica el número 293 y se añaden los números 421 a 449 por el apartado 1.1.a) y b) de la Orden SCO/249/2003, de 5 de febrero. Ref. BOE-A-2003-3007.
 
