@@ -22,6 +22,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Ocho](ocho.md)
 - [Nueve](nueve.md)
 - [Diez](diez.md)
+- [Diez. bis](diez.bis.md)
 - [Once](once.md)
 - [Doce](doce.md)
 - [Trece](trece.md)

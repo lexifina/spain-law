@@ -8,14 +8,16 @@ a) Por el Jefe del Equipo, Unidad Regional o Unidad de Inspección que haya real
 
 b) En los supuestos a que se refiere el apartado siete.1, de esta Resolución, por el Subjefe de Unidad.
 
-c) Cuando se haya encomendado a un Inspector adjunto al Jefe de la Unidad o a un Subinspector la realización de la totalidad de las actuaciones comprendidas en los capítulos V y VI del título primero del Reglamento General de la Inspección de los Tributos sobre un determinado obligado tributario, firmarán las actas además del Jefe o Subjefe a cargo de la Unidad, el Inspector adjunto o el Subinspector citados.
+c) Cuando se haya encomendado a un Subinspector la realización de la totalidad de las actuaciones comprendidas en los capítulos V y VI del título primero del Reglamento General de la Inspección de los Tributos sobre un determinado obligado tributario, y no resulte de aplicación lo previsto en la letra f) siguiente, firmará las actas, además del Jefe o Subjefe a cargo de la Unidad, el Subinspector citado.
 
-Con carácter excepcional, por vacante o ausencia del Jefe de Unidad o Subjefe a cargo de la misma. el Delegado especial de la Agencia podrá autorizar la ultimación de actuaciones firma de las actas y por otros Subinspectores en puestos de trabajo de nivel inferior.
+Con carácter excepcional, por vacante o ausencia del Jefe de Unidad o Subjefe a cargo de la misma, el Delegado Especial de la Agencia podrá autorizar la ultimación de actuaciones y firma de las actas por otros Subinspectores en puesto de trabajo de nivel inferior.
 
 d) Por el Jefe del Servicio o Sección correspondiente, tratándose de las actuaciones a que se refiere el segundo párrafo del número 2 del apartado uno de esta Resolución.
 
-e) En los supuestos a que se refiere el apartado siete.3 de esta Resolución, el Subinspector que hubiera ultimado las actuaciones.
+e) En los supuestos a que se refiere el apartado siete punto 3 de esta Resolución, las actas serán firmadas por el Subinspector o Subinspectores que hubiesen desarrollado las actuaciones.
 
-f) Los Jefes y Subjefes de Unidades Provinciales de Inspección podrán delegar, de forma expresa y por escrito, la firma de las actas en Subinspectores destinados en su Unidad.
+f) En los supuestos de asignación de firma, por el funcionario o funcionarios a quienes se hubiera asignado. En estos supuestos el visto bueno del Jefe de Equipo, Unidad o Subjefe de Unidad deberá constar en diligencia.
+
+> Se modifican las letras c), e) y f) del punto 2 por el apartado 3 de la Resolución de 16 de abril de 1999. Ref. BOE-A-1999-9532.
 
 > Se añaden las letras e) y f) al punto 2 por el apartado 6 de la Resolución de 24 de marzo de 1998. Ref. BOE-A-1998-7792.
