@@ -12,6 +12,8 @@ d) La de emisión y gestión de tarjetas de crédito.
 
 e) La de concesión de avales y garantías, y suscripción de compromisos similares.
 
+f) Los restantes servicios de pago definidos en el artículo 1 de la Ley de servicios de pago, con las limitaciones que al efecto puedan establecerse reglamentariamente; en particular, las cuentas de pago que abran quedarán sujetas a las mismas condiciones exigibles para las de las entidades de pago.
+
 2. Los establecimientos financieros de crédito no podrán captar fondos reembolsables del público, en forma de depósito, préstamo, cesión temporal de activos financieros u otros análogos, cualquiera que sea su destino.
 
 La captación de fondos reembolsables mediante emisión de valores sujetas a la Ley 24/1988, de 28 de julio, del Mercado de Valores y sus normas de desarrollo podrá efectuarse con sujeción a los requisitos y limitaciones que para estos establecimientos se establezcan específicamente. En particular, no será de aplicación a los establecimientos financieros de crédito la limitación que, en materia de emisión de obligaciones u otros valores que reconozcan o creen una deuda, establece el artículo 282 del Texto refundido de la Ley de Sociedades Anónimas, aprobado por el Real Decreto legislativo 1564/1989, de 22 de diciembre. Reglamentariamente se determinará el límite máximo del importe total de las emisiones que puedan realizar estas entidades.
@@ -43,3 +45,7 @@ d) El procedimiento de transformación de las actuales sociedades de crédito hi
 8. Los actos y documentos legalmente necesarios que, con anterioridad al 1 de enero de 1997, realicen las sociedades de crédito hipotecario, las entidades de financiación, así como las sociedades de arrendamiento financiero, con la finalidad de transformarse en establecimientos financieros de crédito o en otro tipo de entidad de crédito, quedarán exentos del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
 
 Las sociedades de crédito hipotecario, las entidades de financiación, así como las sociedades de arrendamiento financiero gozarán de una reducción del 30 por 100 de los derechos que los notarios y los registradores hayan de percibir como consecuencia de la aplicación de sus respectivos aranceles por los negocios, actos y documentos necesarios para la realización e inscripción registral de las operaciones a que se refiere el párrafo anterior.
+
+> Se añade el apartado 1.f) por la disposición final 6 de la Ley 16/2009, de 13 de noviembre. Ref. BOE-A-2009-18118.
+
+> Se declara que el apartado 5 vulnera las competencias de la Comunidad Autónoma de Cataluña respecto a los establecimientos financieros de crédito por Sentencia, del TC 235/1999, de 16 de diciembre. Ref. BOE-T-2000-1177.
