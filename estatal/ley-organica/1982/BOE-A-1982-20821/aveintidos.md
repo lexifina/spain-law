@@ -1,11 +1,11 @@
 ## Artículo veintidós
 
-Uno. Canarias articula su organización territorial en siete islas, y éstas a su vez en municipios, cuyas instituciones de gobierno local son, respectivamente, los Cabildos Insulares y los Ayuntamientos.
+1. Corresponde a la Comunidad Autónoma la creación y organización de su propia Administración pública, de conformidad con los principios constitucionales y normas básicas del Estado.
 
-Dos. El Cabildo constituye el órgano de gobierno y administración insular. Tendrá autonomía plena en los términos que establece la Constitución y su legislación específica conforme a lo dispuesto en el artículo treinta y dos del presente Estatuto.
+2. La organización de la Administración Pública Canaria responderá a los principios de eficacia, economía, máxima proximidad a los ciudadanos y atención al hecho insular.
 
-Tres. A los Cabildos Insulares les corresponde el ejercicio de las funciones que les son reconocidas como propias; las que se les transfieran o deleguen, por la Comunidad Autónoma, y la colaboración en el desarrollo y la ejecución de los acuerdos adoptados por el Gobierno canario, en los términos que establezcan las Leyes de su Parlamento. Las transferencias y delegaciones llevarán incorporados los medios económicos, materiales y personales que correspondan.
+3. La Comunidad Autónoma podrá ejercer sus funciones administrativas, bien directamente, bien por delegación o encomienda a los Cabildos Insulares y Ayuntamientos, de conformidad con las leyes del Parlamento de Canarias.
 
-Los Cabildos asumen la representación ordinaria en cada isla de la Administración autónoma, y ejecutan en su nombre, cualquier competencia que ésta no ejerza directamente a través de órganos administrativos propios.
+> Se modifica por el art. 1.13 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
 
-Cuatro. El Gobierno canario coordinará la actividad de los Cabildos Insulares en cuanto afecte directamente al interés general de la Comunidad Autónoma.
+> Su anterior numeración era art. 21.

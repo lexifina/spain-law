@@ -1,11 +1,9 @@
 ## Artículo sesenta y tres
 
-Uno. La reforma del Estatuto se ajustará al siguiente procedimiento:
+Uno. Los poderes públicos canarios quedan facultados para constituir un sector público económico autónomo.
 
-a) La iniciativa corresponderá al Parlamento, al Gobierno canario o a las Cortes Generales.
+Dos. En los términos y número que establezca la Legislación general del Estado, la Comunidad Autónoma propondrá las personas que hayan de formar parte de los órganos de administración de aquellas empresas públicas de titularidad estatal implantadas en Canarias que dicha legislación determine. La Comunidad Autónoma podrá elaborar y remitir al Gobierno cualesquiera informe, estudio o propuesta relativo a la gestión de dichas empresas o a su incidencia en la socioeconomía de la región. Dichos informes, estudios o propuestas darán lugar a resolución motivada del Gobierno o de los organismos o entidades titulares de la participación en las empresas.
 
-b) La propuesta habrá de ser aprobada por el Parlamento canario por mayoría absoluta.
+> Se modifica por el art. 3 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
 
-c) Requerirá, en todo caso, la aprobación de las Cortes Generales del Estado mediante Ley Orgánica.
-
-Dos. Si la propuesta de reforma no fuere aprobada por el Parlamento canario o por las Cortes Generales, no podrá ser sometida nuevamente a debate en la misma legislatura de aquél.
+> Su anterior numeración era art. 62.

@@ -1,7 +1,19 @@
 ## Artículo sesenta
 
-Uno. Corresponde al Parlamento la aprobación y fiscalización de los Presupuestos Generales de los Organos de la Comunidad Autónoma, así como controlar las consignaciones de los Presupuestos de los Cabildos Insulares destinados a financiar competencias transferidas o delegadas a los mismos.
+Uno. Corresponde al Gobierno canario en materia del presente título:
 
-Dos. Los Presupuestos, que tendrán carácter anual e igual período que los del Estado, incluirán la totalidad de los ingresos y gastos corrientes y de inversión.
+a) Aprobar los Reglamentos generales de los impuestos propios de la Comunidad.
 
-Tres. Si los presupuestos no fueran aprobados antes del primer día del ejercicio económico correspondiente, los anteriores quedarán automáticamente prorrogados en sus respectivas vigencias.
+b) Elaborar las normas reglamentarias precisas para gestionar los impuestos estatales cedidos de acuerdo con los términos de dicha cesión.
+
+c) Elaborar el proyecto de ley de los Presupuestos Generales de la Comunidad Autónoma.
+
+Dos. Corresponde al Cabildo Insular en el marco de sus competencias y en materias a que se refiere el presente título:
+
+a) La formación y aprobación de sus presupuestos.
+
+b) La elaboración de las normas reglamentarias precisas para la gestión de sus ingresos.
+
+> Se modifica por el art. 3 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
+
+> Su anterior numeración era art. 59.

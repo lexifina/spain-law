@@ -1,9 +1,13 @@
 ## Artículo veintiocho
 
-Uno. La Comunidad Autónoma participará en la fijación de las demarcaciones correspondientes en las Notarías, Registros de la Propiedad y Mercantil radicados en su territorio.
+En relación con la Administración de Justicia, exceptuada la jurisdicción militar, corresponde a la Comunidad Autónoma:
 
-Dos. Los Notarios y Registradores de la Propiedad y Mercantiles serán nombrados por el Gobierno de Canarias de conformidad con las Leyes del Estado y en igualdad de derechos tanto si los aspirantes ejercen dentro o fuera de Canarias.
+1. Ejercer todas las facultades que la Ley Orgánica del Poder Judicial reconozca o atribuya al Gobierno del Estado.
 
-Tres. A instancia del Gobierno de Canarias, el órgano competente convocará los concursos y oposiciones para cubrir las plazas vacantes en Canarias de Magistrados, Jueces, Secretarios judiciales y restante personal al servicio de la Administración de Justicia, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial.
+2. Fijar la delimitación de las demarcaciones territoriales de los órganos jurisdiccionales de Canarias, de conformidad con la Ley Orgánica del Poder Judicial.
 
-Cuatro. Corresponde íntegramente al Estado, de conformidad con las Leyes Generales, la organización y el funcionamiento del Ministerio Fiscal.
+3. La Comunidad Autónoma podrá asignar medios y recursos a los Juzgados y Tribunales de Canarias.
+
+> Se modifica por el art. 1.18 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
+
+> Su anterior numeración era art. 27.

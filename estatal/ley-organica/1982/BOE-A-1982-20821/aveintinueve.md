@@ -1,39 +1,13 @@
 ## Artículo veintinueve
 
-La Comunidad Autónoma de Canarias, de acuerdo con las normas del presente Estatuto, tiene competencia exclusiva en las siguientes materias:
+1. La Comunidad Autónoma participará en la fijación de las demarcaciones correspondientes en las notarías, registros de la propiedad y mercantil radicados en su territorio.
 
-Uno. Organización, régimen y funcionamiento de sus Instituciones de autogobierno y de sus Organismos autónomos.
+2. Los Notarios y Registradores de la Propiedad y Mercantiles serán nombrados por el Gobierno de Canarias de conformidad con las leyes del Estado y en igualdad de derechos, tanto si los aspirantes ejercen dentro o fuera de Canarias.
 
-Dos. Demarcaciones territoriales del archipiélago, alteración de términos municipales y denominación oficial de los municipios.
+3. A instancia del Gobierno de Canarias, el órgano competente convocará los concursos y oposiciones para cubrir las plazas vacantes en Canarias de Magistrados, Jueces, Secretarios Judiciales y restante personal al servicio de la Administración de Justicia, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial.
 
-Tres. Agricultura y ganadería, de acuerdo con la ordenación general de la economía estatal.
+4. Las Administraciones públicas competentes por razón de la materia tendrán en cuenta el coste de la insularidad en la organización y funcionamiento de los Juzgados y Tribunales en Canarias.
 
-Cuatro. Caza.
+> Se modifica por el art. 1.19 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
 
-Cinco. Pesca en aguas interiores, marisqueo y acuicultura sin perjuicio de las competencias del Estado en materia de vigilancia de aguas interiores.
-
-Seis. Aprovechamientos hidráulicos, canales y regadíos, aguas minerales y termales.
-
-Siete. Asistencia social y servicios sociales. Fundaciones y asociaciones de carácter docente, cultural, artístico, asistencial y similares en cuanto desarrollen esencialmente sus funciones en Canarias.
-
-Ocho. Fomento de la investigación científica y técnica, en coordinación con el Estado.
-
-Nueve. Fomento de la cultura. Instituciones relacionadas con el fomento y enseñanza de las Bellas Artes, Artesanía, Patrimonio histórico-artístico, monumental, arqueológico y científico, sin perjuicio de lo establecido en el artículo ciento cuarenta y nueve, uno, veintiocho, de la Constitución. Archivos, Bibliotecas, Museos y Conservatorios de Música de interés de la Comunidad que no sean de titularidad estatal.
-
-Diez. Ferias y mercados interiores.
-
-Once. Ordenación del territorio, urbanismo y vivienda.
-
-Doce. Obras públicas de interés de la Comunidad y que no sean de interés general del Estado.
-
-Trece. Carreteras y ferrocarriles y el transporte desarrollado por estos medios o por cable.
-
-Catorce. Promoción y ordenación del turismo en el archipiélago.
-
-Quince. Deporte, ocio y esparcimiento. Espectáculos.
-
-Dieciséis. Los puertos de refugio, los puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.
-
-Diecisiete. Estadística de interés de la Comunidad Autónoma.
-
-En el ejercicio de estas competencias corresponderá a la Comunidad Autónoma la potestad legislativa, la potestad reglamentaria y la función ejecutiva, que ejercerá respetando, en todo caso, lo dispuesto en la Constitución.
+> Su anterior numeración era art. 28.

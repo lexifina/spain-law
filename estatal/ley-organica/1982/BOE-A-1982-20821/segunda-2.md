@@ -1,13 +1,9 @@
 ## Disposición transitoria segunda.
 
-Uno. Una vez proclamados oficialmente los resultados electorales y en el plazo máximo de quince días desde dicho anuncio, el Presidente del Organo Preautonómico, convocará la primera reunión del Parlamento canario.
+Mientras las Cortes Generales no elaboren la legislación básica o las Leyes marco a que se refieren la Constitución y el presente Estatuto, y la Comunidad Autónoma Canaria no dicte normas sobre las materias de su competencia, continuarán aplicándose las Leyes y disposiciones del Estado que se refieren a dichas materias, sin perjuicio de su ejecución por la Comunidad Autónoma de Canarias en los casos así previstos en este Estatuto.
 
-Dos. En dicha primera reunión, el Parlamento canario:
+No obstante, la Comunidad Autónoma, en el ejercicio de las competencias que le son reconocidas, podrá desarrollar legislativamente los principios o bases contenidos en el Derecho estatal vigente en cada momento, interpretando dicho Derecho conforme a la Constitución.
 
-a) Procederá a su constitución presidido por una Mesa de edad integrada por un Presidente y dos Secretarios y a la elección de la Mesa provisional que estará compuesta por un Presidente, dos Vicepresidentes y dos Secretarios.
+> Se modifica por el art. 3 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
 
-b) Elegirá al Presidente del Gobierno de Canarias conforme a las normas de este Estatuto y a las que puedan dictarse reglamentariamente.
-
-Tres. Elegidos los órganos de la Comunidad Autónoma Canaria, quedarán disueltas las Instituciones Preautonómicas.
-
-Cuatro. En tanto el Parlamento Canario no apruebe sus propias normas reglamentarias, se aplicarán supletoriamente las del vigente Reglamento del Congreso de los Diputados.
+> Su anterior numeración era disposición transitoria 3.

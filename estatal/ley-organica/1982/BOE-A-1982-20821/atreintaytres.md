@@ -1,13 +1,31 @@
 ## Artículo treinta y tres
 
-Corresponde a la Comunidad Autónoma de Canarias, en los términos que establezcan las leyes y normas reglamentarias que en desarrollo de su legislación dicte el Estado, la función ejecutiva en las siguientes materias:
+A la Comunidad Autónoma le corresponde la competencia de ejecución en las siguientes materias:
 
-a) Protección del medio ambiente.
+1. Museos, archivos y bibliotecas de titularidad estatal cuya gestión no se reserve al Estado, a través de los instrumentos de cooperación que, en su caso, puedan establecerse.
 
-b) Museos, Bibliotecas y Archivos y Conservatorios de Música de titularidad estatal de interés para la Comunidad Autónoma que no reserve para sí el Estado, en el marco de los convenios que, en su caso, puedan celebrarse.
+2. Ejecución de la legislación laboral.
 
-c) Comercio interior y defensa del consumidor.
+3. Gestión de las prestaciones sanitarias y sociales del sistema de la Seguridad Social y de los servicios del Instituto Nacional de la Salud, Instituto Nacional de Servicios Sociales e Instituto Social de la Marina.
 
-d) Denominaciones de origen en colaboración con el Estado.
+4. Ferias internacionales que se celebren en el Archipiélago.
 
-e) Industria, sin perjuicio de lo que determinen las normas del Estado por razones de seguridad, sanitarias o de interés militar, y las normas relacionadas con las industrias que estén sujetas a la legislación de minas, hidrocarburos y energía nuclear. Queda reservada a la competencia exclusiva del Estado la autorización para transferencia de tecnología extranjera.
+5. Pesas y medidas. Contraste de metales.
+
+6. Planes estatales de reestructuración de sectores económicos.
+
+7. Productos farmacéuticos.
+
+8. Propiedad industrial e intelectual.
+
+9. Salvamento marítimo.
+
+10. Crédito, banca y seguros.
+
+11. Nombramiento de los corredores de comercio, e intervención, en su caso, en la fijación de las demarcaciones correspondientes.
+
+12. Participación en la gestión del sector público económico estatal, en los casos y actividades que procedan.
+
+13. Puertos y aeropuertos con calificación de interés general, cuando el Estado no se reserve su gestión directa.
+
+> Se modifica por el art. 1.24 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114

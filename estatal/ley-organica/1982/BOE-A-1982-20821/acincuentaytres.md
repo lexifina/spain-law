@@ -1,3 +1,7 @@
 ## Artículo cincuenta y tres
 
-Si de una reforma o modificación del sistema tributario estatal resultase una variación sensible de aquellos ingresos de la Comunidad Autónoma que dependan de los tributos estatales, el Estado deberá adoptar, de acuerdo con la Comunidad Autónoma, las medidas de compensación oportunas.
+El Parlamento canario podrá establecer recargos sobre los impuestos estatales cedidos, así como sobre los no cedidos que graven la renta o el patrimonio de las personas físicas con residencia habitual en Canarias.
+
+> Se modifica por el art. 3 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
+
+> Su anterior numeración era art. 52.

@@ -1,13 +1,15 @@
 ## Artículo cuarenta y siete
 
-El Patrimonio insular estará integrado por:
+Uno. El patrimonio de la Comunidad Autónoma estará integrado por:
 
-a) El patrimonio del respectivo Cabildo a la entrada en vigor del presente Estatuto.
+a) El patrimonio de la Junta de Canarias en el momento de aprobarse el Estatuto.
 
-b) Los bienes afectos a los servicios traspasados a cada Cabildo.
+b) Los bienes afectos a servicios traspasados a la Comunidad Autónoma.
 
-c) Los bienes y derechos que adquiera el Cabildo en el ejercicio de sus competencias y funciones.
+c) Los bienes adquiridos por cualquier título jurídico válido.
 
-d) Los bienes que adquiera el Cabildo por donación, sucesión o cualquier otro título jurídico válido.
+Dos. El patrimonio de la Comunidad Autónoma, su administración, defensa y conservación serán regulados por una Ley del Parlamento Canario.
 
-e) Cualesquiera otros bienes o derechos que le correspondan a tenor de lo dispuesto en el presente Estatuto o por otra disposición legal
+> Se modifica por el art. 3 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
+
+> Su anterior numeración era art. 46.

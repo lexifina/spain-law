@@ -1,7 +1,5 @@
 ## Artículo treinta y cinco
 
-La asunción de las competencias previstas en el artículo anterior, cuyo ejercicio se realizará con sujeción a la legislación del Estado, en los casos en que así lo exija el artículo ciento cuarenta y nueve, uno, de la Constitución, se efectuará por alguno de los procedimientos siguientes:
+La Comunidad Autónoma de Canarias podrá asumir las facultades de legislación y de ejecución en las materias que por Ley Orgánica le transfiera o delegue el Estado.
 
-a) A través de los procedimientos establecidos en los números uno y dos del artículo ciento cincuenta de la Constitución, bien a iniciativa del Parlamento de Canarias, del Gobierno de la Nación, del Congreso de los Diputados o del Senado.
-
-b) Transcurridos los cinco años previstos en el artículo ciento cuarenta y ocho, dos, de la Constitución previo acuerdo del Parlamento de Canarias adoptado por mayoría absoluta y mediante ley orgánica aprobada por las Cortes Generales, según lo previsto en el artículo ciento cuarenta y siete, tres, de la Constitución.
+> Se modifica por el art. 1.26 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114

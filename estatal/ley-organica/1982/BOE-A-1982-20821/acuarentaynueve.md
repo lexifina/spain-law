@@ -1,13 +1,27 @@
 ## Artículo cuarenta y nueve
 
-Los recursos de los Cabildos Insulares estarán constituidos por:
+Los recursos de la Comunidad Autónoma estarán constituidos por:
 
-a) Los establecidos en su legislación específica.
+a) El producto de su patrimonio y los ingresos de derecho privado que le correspondan.
 
-b) Los establecidos en la legislación de régimen local.
+b) Los ingresos procedentes de sus propios impuestos, arbitrios, tasas y contribuciones especiales.
 
-c) Los derivados del régimen económico-fiscal de Canarias.
+c) El rendimiento de los impuestos cedidos por el Estado a la Hacienda Regional Canaria.
 
-d) Las participaciones en los impuestos regionales, en las asignaciones o subvenciones estatales y en las transferencias procedentes del Fondo de Compensación Interterritorial, que puedan otorgarse por Ley del Parlamento Canario.
+d) Los recargos y participaciones en los impuestos y otros ingresos del Estado.
 
-e) Los que se le asignen como consecuencia de las competencias que se les transfieran.
+e) Las asignaciones y subvenciones que se le otorguen con cargo a los Presupuestos Generales del Estado.
+
+f) Las transferencias procedentes del Fondo de Compensación Interterritorial y demás subvenciones de naturaleza privada o pública.
+
+g) Los recursos y otros ingresos que se le asignen como consecuencia de las competencias que se transfieran a la Comunidad Autónoma.
+
+h) El importe de las multas y demás sanciones pecuniarias en el ámbito de su competencia.
+
+i) La emisión de Deuda y el recurso al crédito.
+
+j) Cualesquiera otros que puedan producirse en virtud de Leyes generales y territoriales o como consecuencia de la vinculación a áreas supranacionales.
+
+> Se modifica por el art. 3 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
+
+> Su anterior numeración era art. 48.

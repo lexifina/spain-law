@@ -1,9 +1,19 @@
 ## Artículo treinta y uno
 
-De acuerdo con los procedimientos previstos en el artículo treinta y cinco, la Comunidad Autónoma podrá ejercer las siguientes competencias:
+La Comunidad Autónoma de Canarias, de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria y crediticia estatal y en los términos de lo dispuesto en los artículos 38, 131, 149.1.11.ª y 13.ª de la Constitución, tiene competencia exclusiva sobre las siguientes materias:
 
-Uno. Desarrollo legislativo y ejecución del régimen de radiodifusión y televisión, en los términos y casos establecidos en la Ley reguladora del Estatuto Jurídico de la Radio y de la Televisión; régimen de prensa y demás medios de comunicación social.
+1. Agricultura y ganadería.
 
-Dos. Crear, regular y mantener su propia televisión, radio y prensa y, en general, todos los medios de comunicación social para el cumplimiento de sus fines.
+2. Industria, sin perjuicio de lo que determinen las normas del Estado por razones de seguridad, sanitarias y de interés militar, y las normas relacionadas con las industrias que estén sujetas a la legislación de minas, hidrocarburos y energía nuclear. Queda reservada a la competencia exclusiva del Estado la autorización para la transferencia de tecnología extranjera.
 
-Tres. Desarrollo legislativo del sistema de consultas populares municipales en el ámbito de Canarias de conformidad con lo que dispongan las Leyes a que se refiere el apartado tres, del artículo noventa y dos, y el número dieciocho del apartado uno, del artículo ciento cuarenta y nueve de la Constitución, correspondiendo al Estado la autorización de su convocatoria.
+3. Comercio interior, defensa del consumidor y del usuario, sin perjuicio de la política general de precios y de la legislación sobre defensa de la competencia.
+
+4. Ordenación y planificación de la actividad económica regional en el ejercicio de sus competencias. Sector público de Canarias.
+
+5. Denominaciones de origen, en colaboración con el Estado.
+
+6. Instituciones de crédito cooperativo público y territorial y Cajas de Ahorro.
+
+> Se modifica por el art. 1.25 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
+
+> Su anterior numeración era art. 34.

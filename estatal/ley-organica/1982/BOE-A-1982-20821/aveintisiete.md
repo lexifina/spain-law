@@ -1,7 +1,13 @@
 ## Artículo veintisiete
 
-En relación con la Administración de Justicia, exceptuada la jurisdicción militar, corresponde a la Comunidad Autónoma
+En todo caso, corresponde al Tribunal Superior de Justicia de Canarias:
 
-Uno. Ejercer todas las facultades que las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial reconozcan o atribuyan al Gobierno del Estado.
+1. Conocer de las responsabilidades que se indican en los artículos 10 y 19 de este Estatuto.
 
-Dos. Fijar la delimitación de las demarcaciones territoriales de los órganos jurisdiccionales de Canarias, de conformidad con la Ley Orgánica del Poder Judicial.
+2. Entender de los recursos relacionados con los procesos electorales de la Comunidad Autónoma.
+
+3. Resolver los conflictos de competencia entre órganos judiciales de Canarias.
+
+> Se modifica por el art. 1.17 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
+
+> Su anterior numeración era art. 26.

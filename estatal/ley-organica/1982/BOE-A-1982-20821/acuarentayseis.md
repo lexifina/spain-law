@@ -1,11 +1,11 @@
 ## Artículo cuarenta y seis
 
-Uno. El patrimonio de la Comunidad Autónoma estará integrado por:
+1. Canarias goza de un régimen económico-fiscal especial, propio de su acervo histórico y constitucionalmente reconocido, basado en la libertad comercial de importación y exportación, no aplicación de monopolios y en franquicias aduaneras y fiscales sobre el consumo.
 
-a) El patrimonio de la Junta de Canarias en el momento de aprobarse el Estatuto.
+2. Dicho régimen económico y fiscal incorpora a su contenido los principios y normas aplicables como consecuencia del reconocimiento de Canarias como región ultraperiférica de la Unión Europea, con las modulaciones y derogaciones que permitan paliar las características estructurales permanentes que dificultan su desarrollo.
 
-b) Los bienes afectos a servicios traspasados a la Comunidad Autónoma.
+3. El régimen económico-fiscal de Canarias sólo podrá ser modificado de acuerdo con lo establecido en la disposición adicional tercera de la Constitución, previo informe del Parlamento Canario que, para ser favorable, deberá ser aprobado por las dos terceras partes de sus miembros.
 
-c) Los bienes adquiridos por cualquier título jurídico válido.
+4. El Parlamento Canario deberá ser oído en los proyectos de legislación financiera y tributaria que afecten al régimen económico-fiscal de Canarias.
 
-Dos. El patrimonio de la Comunidad Autónoma, su administración, defensa y conservación serán regulados por una Ley del Parlamento Canario.
+> Se modifica por el art. 1.32 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114

@@ -1,5 +1,9 @@
 ## Artículo veinte
 
-Uno. El Parlamento puede exigir la responsabilidad política del Gobierno mediante la adopción, por mayoría absoluta, de la moción de censura. Toda moción de censura debe incluir el nombre del candidato a la presidencia y ser presentada, al menos, por el quince por ciento de los miembros del Parlamento.
+Uno. El Gobierno cesa tras la celebración de elecciones al Parlamento, en los casos de pérdida de la confianza parlamentaria y por dimisión, incapacidad o fallecimiento del Presidente.
 
-Dos. Los signatarios de una moción de censura rechazada no podrán presentar otra durante el mismo período de sesiones.
+Dos. El Gobierno cesante continuará en sus funciones hasta la toma de posesión del nuevo Gobierno, que tendrá lugar en el plazo máximo de quince días, a contar de la fecha de nombramiento del Presidente.
+
+> Se modifica por el art. 3 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
+
+> Su anterior numeración era art. 19.

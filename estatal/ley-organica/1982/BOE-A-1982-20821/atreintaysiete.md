@@ -1,5 +1,7 @@
 ## Artículo treinta y siete
 
-Uno. La Comunidad Autónoma de Canarias será informada en la elaboración de los tratados y convenios internacionales y en las negociaciones de adhesión a los mismos, así como en los proyectos de legislación aduanera, en cuanto afecten a materias de su específico interés. Recibida la información, el Organo de Gobierno de la Comunidad Autónoma emitirá, en su caso, su parecer.
+1. La Comunidad Autónoma de Canarias podrá elevar al Gobierno las propuestas que estime pertinentes sobre la residencia y trabajo de extranjeros en Canarias.
 
-Dos. La Comunidad Autónoma adoptará las medidas necesarias para la ejecución de los tratados y convenios internacionales en lo que afecten a materias atribuidas a su competencia, según el presente Estatuto.
+2. El Gobierno de Canarias podrá participar en el seno de las delegaciones españolas ante órganos comunitarios europeos cuando se traten temas de específico interés para Canarias, de conformidad con lo que establezca la legislación del Estado en la materia.
+
+> Se modifica por el art. 1.28 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114

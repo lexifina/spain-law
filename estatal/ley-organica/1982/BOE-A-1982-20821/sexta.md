@@ -1,3 +1,9 @@
 ## Disposición transitoria sexta.
 
-La Comunidad Autónoma asumirá la totalidad de derechos y obligaciones de la Junta de Canarias incluido su personal en las condiciones y régimen jurídico que, en el momento de la aplicación del presente Estatuto, resulten de aplicación en cada caso.
+Las competencias, medios y recursos que, de acuerdo con el ordenamiento vigente, corresponden a las Mancomunidades Provinciales Interinsulares, serán traspasados a las Instituciones de la Comunidad Autónoma. A estos efectos, se constituirá una Comisión Mixta formada por los representantes de los poderes de la Comunidad Autónoma y de los Cabildos Insulares, que procederá a la asignación concreta de aquellas competencias, medios y recursos, ajustándose a un calendario aprobado al respecto por los Organos insulares.
+
+A los actuales integrantes de las plantillas de dichos Organismos, les serán respetados todos los derechos, de cualquier orden y naturaleza que le correspondan en el momento del traspaso.
+
+> Se modifica por el art. 3 de la Ley Orgánica 4/1996, de 30 de diciembre. Ref. BOE-A-1996-29114
+
+> Su anterior numeración era disposición transitoria 7.
