@@ -1,0 +1,3 @@
+Madrid, 10 de diciembre de 2003.
+
+TRILLO-FIGUEROA Y MARTÍNEZ-CONDE
