@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+Con objeto de hacer posible la adopción, por parte de las autoridades respectivas de las Comunidades Autónomas, de la decisión relativa a la expedición de títulos, diplomas y certificados en texto bilingüe, a que se refiere el número noveno de la presente Orden, y con objeto asimismo de permitir la introducción de las modificaciones precisas en el procedimiento informático y la concreción del texto que deba fijarse para los mismos, la expedición de títulos, diplomas y certificados en texto bilingüe comenzará a producirse con respecto a los que se obtengan al término del curso académico 1988-1989.

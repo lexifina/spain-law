@@ -1,0 +1,3 @@
+## Primero.
+
+Los títulos correspondientes a los estudios de Educación General Básica, Bachillerato y Formación Profesional de primero y segundo grados, los títulos y diplomas correspondientes a estudios cursados en Conservatorios de Música, Escuela Superior de Canto, Escuelas de Artes Aplicadas y Oficios Artísticos, Escuelas Oficiales de Cerámica y Escuelas de Artes Aplicadas a la Restauración, así como los certificados de Escolaridad de Educación General Básica y de Formación Profesional, serán expedidos por el Ministerio de Educación y Ciencia, en nombre del Rey, previo el cumplimiento de las condiciones que para la obtención de los mismos exige el ordenamiento jurídico general del Estado y de acuerdo con el procedimiento que en la presente Orden se establece.
