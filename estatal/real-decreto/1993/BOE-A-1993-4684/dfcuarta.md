@@ -13,3 +13,5 @@ D) Las disposiciones adicionales primera a cuarta, ambas inclusive, salvo el apa
 E) Las disposiciones transitorias salvo la segunda, el apartado 2 de la tercera y el párrafo segundo de la octava.
 
 F) Las disposiciones finales segunda, salvo su apartado 3 y tercera.
+
+> Se declara, en lo que concierne al art. 2.1.f), que vulnera las competencias de la Generalidad Valenciana según la Sentencia del TC 275/2000, de 16 de noviembre. Ref. BOE-T-2000-22614
