@@ -1,0 +1,9 @@
+La Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, en su artículo 1, apartado 2, establece la posibilidad de dictar normas específicas para adecuarla a las peculiaridades del personal docente y del personal destinado en el extranjero.
+
+Al amparo de la citada ley se aprobó el Real Decreto 1027/1993, de 25 de junio, por el que se regula la acción educativa en el exterior, que ha sido modificado parcialmente por el Real Decreto 1138/2002, de 31 de octubre, por el que se regula la Administración del Ministerio de Educación, Cultura y Deporte en el exterior, afectando dicha modificación principalmente al régimen jurídico del personal, docente y no docente, destinado en las Consejerías de Educación y en los distintos programas de acción educativa en el exterior.
+
+Esta modificación hace necesario un desarrollo normativo con el objeto de sustituir a la Orden de 28 de febrero de 1994, sobre provisión de vacantes de personal docente en el exterior, modificada por la Orden de 30 de enero de 1996, ambas derogadas por el Real Decreto 1138/2002.
+
+Tras la aprobación de la Orden ECD/531/2003, de 10 de marzo, por la que se establece el procedimiento para la provisión por funcionarios docentes de las vacantes en centros, programas y asesorías técnicas en el exterior, quedaba pendiente de regular el régimen de permanencia y prórroga de los Asesores Técnicos y del personal docente destinado al servicio de las acciones educativas en el exterior, a los que se refieren los artículos 10.3, 14 y 17 del Real Decreto 1138/2002, de 31 de octubre, objetivo de la presente Orden.
+
+En atención a lo expuesto, a propuesta de la Dirección General de Programación Económica, Personal y Servicios, previo informe de la Comisión Superior de Personal y consultadas las organizaciones sindicales, de acuerdo con lo dispuesto en el artículo 32 de la Ley 9/1987, de 12 de mayo, y con la aprobación de la Ministra de Administraciones Públicas, he dispuesto:
