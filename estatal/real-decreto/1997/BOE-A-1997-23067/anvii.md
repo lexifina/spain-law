@@ -25,6 +25,7 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER LOS PRODUCTOS COSMÉTICOS
 | 9 | ÁCIDO (2-OXO-3‑BORNILIDENO)4‑ TOLUENSULFÓNICO Y SUS SALES | 6% (Expresado en ácido) |  |  |
 | 10 | ÉSTER 2-ETILHEXÍLICO DEL ÁCIDO 2-CIANO-3,3- DIFENILACRÍLICO (OCTOCRILENO) | 10% (Expresado en ácido) |  |  |
 | 11 | POLIMERO DE N-[(2 Y 4) -[(2‑ OXOBORN-3-ILIDEN)METIL] BENCIIL] ACRILAMIDA | 6% |  |  |
+| 12 | Metoxicinamato de octilo | 10% |  |  |
 
 (1) No se exigirá la mención si la concentración es igual o inferior a 0,5% y si la sustancia se utiliza sólo para proteger el producto.
 
@@ -35,13 +36,15 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER PROVISIONALMENTE LOS PRODUCTO
 | Número de orden | Sustancias | Concentración máxima autorizada | Límites y exigencias | Condiciones de empleo y advertencias que deben figurar obligatoriamente en el etiquetado | Admitido hasta |
 | --- | --- | --- | --- | --- | --- |
 | a | b | c | d | e | f |
-| 2 | ÁCIDO 4-AMINOBENZOICO ETOXILADO | 10% |  |  | 30.6.97 |
-| 5 | DIMETILAMINO-4-BENZOATO DE 2-ETILHEXILO | 8% |  |  | 30.6.97 |
-| 6 | SALICILATO DE 2-ETILHEXILO | 5% |  |  | 30.6.97 |
-| 12 | 4-METOXICINAMATO DE AMILO (MEZCLA DE ISÓMEROS) | 10% |  |  | 30.6.97 |
-| 13 | 4-METOXICINAMATO DE 2-ETILHEXILO | 10% |  |  | 30.6.97 |
-| 17 | SULISOBENZONA Y SULISOBENZONA SÓDICA | 5% (expresado en ácido) |  |  | 30.6.97 |
-| 25 | 3-(4-METILBENCILIDEN-2-BORNANONA) | 6% |  |  | 30.6.97 |
-| 26 | 3-BENCILIDEN-2-BORNANONA | 6% |  |  | 30.6.97 |
-| 29 | SALICITATO DE 4-ISOPROPIL BENCILO | 4% |  |  | 30.6.97 |
-| 32 | 2,4,6,-TRIANILINA-P-(CARBO-2´-ETILHEXILPOXI) 1,3, 5-TRIAZINA | 5% |  |  | 30.6.97 |
+| 2 | ÁCIDO 4-AMINOBENZOICO ETOXILADO | 10% |  |  | 30.6.98 |
+| 5 | DIMETILAMINO-4-BENZOATO DE 2-ETILHEXILO | 8% |  |  | 30.6.98 |
+| 6 | SALICILATO DE 2-ETILHEXILO | 5% |  |  | 30.6.98 |
+| 12 | 4-METOXICINAMATO DE AMILO (MEZCLA DE ISÓMEROS) | 10% |  |  | 30.6.98 |
+| 13 (Suprimido) |  |  |  |  |  |
+| 17 | SULISOBENZONA Y SULISOBENZONA SÓDICA | 5% (expresado en ácido) |  |  | 30.6.98 |
+| 25 | 3-(4-METILBENCILIDEN-2-BORNANONA) | 6% |  |  | 30.6.98 |
+| 26 | 3-BENCILIDEN-2-BORNANONA | 6% |  |  | 30.6.98 |
+| 29 | SALICITATO DE 4-ISOPROPIL BENCILO | 4% |  |  | 30.6.98 |
+| 32 | 2,4,6,-TRIANILINA-P-(CARBO-2´-ETILHEXILPOXI) 1,3, 5-TRIAZINA | 5% |  |  | 30.6.98 |
+
+> Se añade el número 12 en la primera parte, y en la segunda parte se suprime el número 13 y se modifican la fechas del resto de números por el apartado 1.2 de la Orden de 4 de junio de 1998. Ref. BOE-A-1998-13842.

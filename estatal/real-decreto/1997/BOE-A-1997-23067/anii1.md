@@ -858,7 +858,7 @@ Colorante C.I. 42555-2
 
 412. 4-terc-butil-3-metoxi-2,6-dinitrotolueno (almizcle ambreta).
 
-413. Cloruro de diisobutilfenoxietoxietildimetilbencilamonio (cloruro de bencetonio).
+413. (Suprimido)
 
 414. Células, tejidos o productos de origen humano.
 
@@ -866,10 +866,32 @@ Colorante C.I. 42555-2
 
 416. Ácido 3 imidazol-4-ilacrílico y su éster etílico (ácido urocánico).
 
-417. Tejidos y fluidos procedentes del encéfalo, de la médula espinal y de los ojos de bovinos, ovinos y caprinos, y los ingredientes derivados de ellos.
+417.a) El cráneo, incluidos los sesos y los ojos, las amígdalas y la médula espinal de:
+
+Los animales de la especie bovina de más de doce meses de edad.
+
+Los animales de la especies ovina y caprina de más de doce meses de edad que muestren en las encías un incisivo definitivo e ingredientes derivados.
+
+b) El bazo de los animales de las especies ovina y caprina e ingredientes derivados.
+
+No obstante, pueden utilizarse derivados de sebo siempre y cuando se hayan aplicado los métodos siguientes, que el fabricante debe certificar estrictamente:
+
+Transesterificación o hidrólisis a un mínimo de 200 ºC, 40 bars (40.000 hPa), durante veinte minutos (glicerina y ácidos grasos y ésteres).
+
+Saponificación con NaOH 12M (glicerina y jabón):
+
+Proceso discontinuo: a 95 oC durante tres horas, o
+
+Proceso continuo a 140 oC, 2 bar (2.000 hPa), durante ocho minutos con condiciones equivalentes.
+
+418. Alquitranes crudos y refinados.
 
 (1) Se tolerará la presencia de trazas de las sustancias comprendidas en este anexo, cuando éstas sean técnicamente inevitables como consecuencia de la aplicación de las buenas prácticas de fabricación y siempre que se cumpla el articulo cuarto de esta reglamentación.
 
 (a) El nombre de estas sustancias es el recomendado como «denominación común internacional» para las sustancias farmacéuticas publicadas por la Organización Mundial de la Salud. Ginebra 1982.
 
 (b) Se admite la presencia de sustancias radiactivas naturales procedentes de contaminaciones artificiales ambientales, a condición de que dichas sustancias radiactivas no sean enriquecidas antes de utilizarlas en la fabricación de productos cosméticos, y siempre que su concentración no supere los límites establecidos en las directivas que fijan las normas básicas relativas a la protección sanitaria de la población y de los trabajadores, frente a los peligros resultantes de las radiaciones ionizantes («Diario oficial de las Comunidades Europeas», número 11 de 20 de febrero de 1959, página 221/59).
+
+> Se añade el número 418, se suprime el 413 y se modifica el 417 por el apartado 1.1 de la Orden de 4 de junio de 1998. Ref. BOE-A-1998-13842.
+
+> Téngase en cuenta el apartado 4 de la citada Orden en relación con el número 417.
