@@ -24,6 +24,10 @@ Polinizador o polinizadores: el componente de la asociación varietal que emite 
 
 Las semillas de los componentes femenino y masculino se tratarán con productos de colores diferentes.
 
+En las etiquetas de asociaciones varietales, en lugar del nombre de la variedad, se hará constar la indicación "asociación varietal" y su nombre, y se indicarán los porcentajes en peso de los distintos componentes desglosados por variedades. Es suficiente mencionar la denominación de la asociación varietal, si se da por escrito la composición de ésta al comprador, y si dicha denominación se ha registrado oficialmente.
+
+> Se añade el último párrafo de la letra e) por el art. 1.4 de la Orden APA/3321/2003, de 20 de noviembre. Ref. BOE-A-2003-21882.
+
 > Se añade la letra e) por el art. 2 de la Orden APA/1588/2003, de 5 de junio. Ref. BOE-A-2003-12026.
 
 > Se añade el párrafo segundo de la letra b) y se modifica la letra c) por el art. único.3 de la Orden de 19 de mayo de 1999. Ref. BOE-A-1999-11976.
