@@ -41,6 +41,10 @@
 | 10 Pipradrol. |  | 1,1-fifenil-1-(2-peperidi) metanol. |
 | 11 | SPA. | (-)-1-dimetiIamino-1,2-difeniletano. |
 
+> Véase el apartado 1 de la Orden de 27 de febrero de 1992 Ref. BOE-A-1992-6246, en relación a la exclusión de sustancias de la lista I, y el apartado 1 de la Orden de 27 de febrero de 1992 Ref. BOE-A-1992-6247, en relación con la transferencia de determinadas sustancias de la lista I a la lista II.
+
+> Téngase en cuenta para su aplicación los apartados 2 y 3 de ambas Órdenes.
+
 > Véanse los apartados 1.1 y 2 de la Orden de 19 de octubre de 1990 Ref. BOE-A-1990-26177, en relación a la inclusión de sustancias en las listas I y IV.
 
 > Téngase en cuenta para su aplicación los apartados 1.2, 3, 4 y 5.
