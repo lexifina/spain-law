@@ -19,3 +19,7 @@ Si la Sala de Gobierno estimare procedente la concesión de la prórroga, elevar
 8. En los casos a que se refieren los dos párrafos anteriores actuará de ponente en la Sala de Gobierno el Fiscal del respectivo Tribunal.
 
 9. Los trámites que establece este artículo se observarán con la mayor diligencia a fin de que la resolución ministerial pueda ser adoptada antes de que el solicitante de la prórroga cumpla la edad de jubilación.
+
+10. Los Fiscales que, conforme a lo dispuesto en el número 6 de este artículo, obtengan prórrogas de la edad de jubilación no podran desempeñar cargos que impliquen mayor categoría, jefatura o mando que el que sirvan al cumplir los setenta y dos años.
+
+> Se añade el apartado 10 por el art. 2 del Decreto 389/1974, de 7 de febrero. Ref. BOE-A-1974-311.
