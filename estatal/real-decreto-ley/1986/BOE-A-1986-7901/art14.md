@@ -1,0 +1,3 @@
+## Art. 14.
+
+El 75 por 100, como mínimo, del Activo de las Sociedades y Fondos de Capital-Riesgo se materializará en acciones o participaciones de Sociedades que no reúnan los requisitos mínimos previstos en el artículo 32 del Reglamento de las Bolsas Oficiales de Comercio, sin que la participación en cada una de ellas sea inferior al 10 por 100 ni superior al 30 por 100 del capital de las mismas. La participación máxima no podrá ser superada por la participación indirecta en las Sociedades del mismo grupo, entendiéndose como tal el definido en la normativa reguladora de las Instituciones de inversión colectiva.
