@@ -1,9 +1,9 @@
-## Ley 55. Disposición por actos ínter vivos
+## Ley CINCUENTA Y CINCO. Bienes privativos de la mujer
 
-a) Bienes privativos.–Por actos ínter vivos, el marido puede disponer por sí solo de sus bienes propios; la mujer, de los suyos, con licencia del marido. Cuando se trate de bienes dotales cuya propiedad haya sido adquirida por el marido, se observará lo dispuesto en la ley ciento veintiuna.
+Corresponde al marido la administración de los bienes privativos de la mujer que ésta le haya conferido en capitulaciones matrimoniales, así como la de los bienes que tengan la consideración de dote o arras conforme a las Leyes ciento veintiuno y ciento veinticinco.
 
-b) Bienes de conquista.–La disposición ínter vivos de bienes de conquista se rige por lo establecido en la ley ochenta y seis.
+## Bienes de conquista
 
-c) Comunidad universal.–En el régimen de comunidad universal se estará a lo dispuesto en la ley ciento una.
+La administración y disposición ínter vivos de los bienes de conquista se rige por lo establecido en la Ley ochenta y seis.
 
-d) Separación de bienes.–Si se hubiese pactado régimen de separación de bienes, cada cónyuge puede disponer de loe suyos propios, conforme a la ley ciento tres.
+> Se modifica por el Decreto Ley 19/1975, de 26 de diciembre.Ref. BOE-A-1976-400.

@@ -1,5 +1,7 @@
-## Ley 54. Facultades del marido
+## Ley CINCUENTA Y CUATRO. Representación y administración de la sociedad conyugal
 
-Al marido corresponde la administración de sus bienes propios y la representación y administración de los bienes de conquista y de los bienes propios de la mujer que tengan consideración de dote o arras, según lo establecido en las leyes ochenta y seis, ciento veintiuna y ciento veinticinco.. Facultades de la mujer
+En orden a la representación y administración de la sociedad conyugal, se estará a lo pactado en capitulaciones matrimoniales; en su defecto, el marido es el representante y el administrador en los términos establecidos en esta Compilación.
 
-La mujer conserva la representación y administración de sus bienes propios que no tengan la consideración de dote o arras, salvo que haya delegado la administración en el marido. Esta delegación será siempre revocable, a no ser que hubiese sido pactada en capitulaciones matrimoniales.
+En todo caso, cualquiera de los cónyuges por sí solo puede disponer de los bienes y obligar a la sociedad conyugal para atender a las necesidades ordinarias de la familia conforme a las circunstancias de ésta y el uso del lugar, sin perjuicio de los reembolsos que procedieren.
+
+> Se modifica por el Decreto Ley 19/1975, de 26 de diciembre.Ref. BOE-A-1976-400.

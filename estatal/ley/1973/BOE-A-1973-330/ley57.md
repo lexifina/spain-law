@@ -1,19 +1,9 @@
-## Ley 57. Actos sin licencia marital
+## Ley 57. Disposición mortis causa
 
-La mujer casada, sin licencia marital, puede:
+Por actos mortis causa cada uno de los cónyuges puede disponer de sus respectivos bienes privativos y de la parte que a la disolución de la sociedad conyugal le corresponda en los bienes de conquista.
 
-1). Aceptar herencias, legados, donaciones y demás disposiciones a título lucrativo, sin que las cargas impuestas afecten a los demás bienes de la sociedad conyugal.
+Cuando se disponga de bienes determinados que sean de conquista se observará lo que para el legado se establece en la Ley doscientos cincuenta y uno.
 
-2). Otorgar o modificar sus capitulaciones después de contraído el matrimonio.
+> Se modifca por el Decreto Ley 19/1975, de 26 de diciembre.Ref. BOE-A-1976-400.
 
-3). Cumplir las funciones de Pariente Mayor, fiduciario-comisario, heredero de confianza, albacea y contador-partidor, o excusarse de ellas.
-
-4). Aceptar y ejercer las funciones de tutor, protutor o vocal del consejo de familia, o excusarse de ellas.
-
-5). Defenderse en juicio criminal y demandar o defenderse en los pleitos contra su marido.
-
-6). Ejercer los derechos y cumplir los deberes que le incumben respecto de sus hijos de anterior matrimonio y de los naturales que tuviese reconocidos, y sobre los bienes de unos y otros.
-
-En todo caso, la mujer, sin licencia de su marido, puede realizar los actos para las que esté facultada por el régimen de bienes que se haya establecido.
-
-> Redactada conforme a la corrección de errores publicada en "BOE" núm. 129, de 30 de mayo de 1974.Ref. BOE-A-1974-10655.
+> Redactada conforme a la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 1974. Ref. BOE-A-1974-847.

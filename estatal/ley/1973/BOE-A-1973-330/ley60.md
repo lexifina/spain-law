@@ -1,9 +1,9 @@
-## Ley 60. Licencia. Consentimiento
+## Ley 60. Consentimiento
 
-El marido puede prestar a su mujer licencia, y ésta a aquél el consentimiento que exige la ley 86; referidos a uno o varios actos o en términos generales. El acto por el que se concede anticipadamente la licencia o el consentimiento será revocable, a no ser que se haya otorgado en capitulaciones matrimoniales.
+El marido y la mujer pueden prestarse el consentimiento para uno o varios actos o en términos generales. El acto por el que se concedan anticipadamente el consentimiento será revocable, a no ser que se haya otorgado en capitulaciones matrimoniales:
 
-## Poder
+Los cónyuges pueden otorgar uno en favor del otro o ambos recíprocamente, poderes con las facultades que tengan por conveniente, para uno o varios actos, o en términos generales. Estos poderes serán siempre revocables.
 
-Los cónyuges pueden otorgar, uno a favor del otro, o ambos recíprocamente, poderes con las facultades que tengan por conveniente para uno o varios actos, o en términos generales. Estos poderes son siempre revocables.
+> Se modifica por el Decreto Ley 19/1975, de 26 de diciembre.Ref. BOE-A-1976-400.
 
-> Redactada conforme a la corrección de errores publicada en "BOE" núm. 129, de 30 de mayo de 1974.Ref. BOE-A-1974-10655.
+> Redactada conforme a la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 1974. Ref. BOE-A-1974-847.

@@ -1,7 +1,7 @@
-## Ley 76. Contratos y donaciones entre cónyuges
+## Ley 76. Actos jurídicos entre cónyuges
 
-Los cónyuges podrán celebrar entre sí toda clase de estipulaciones y contratos.
+Los cónyuges podrán celebrar entre sí toda clase de estipulaciones, contratos y donaciones.
 
-Son válidas las donaciones entre cónyuges, pero las que hiciere la mujer en favor del marido, si excediesen de los regalos módicos según costumbre, necesitarán la aprobación de los Parientes Mayores de aquella.
+> Se modifica por el Decreto Ley 19/1975, de 26 de diciembre.Ref. BOE-A-1976-400.
 
 > Redactada conforme a la corrección de errores publicada en "BOE" núm. 129, de 30 de mayo de 1974.Ref. BOE-A-1974-10655.
