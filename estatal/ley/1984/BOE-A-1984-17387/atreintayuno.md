@@ -30,6 +30,10 @@ m) Los actos limitativos de la libre expresión de pensamiento, ideas y opinione
 
 n) Haber sido sancionado por la comisión de tres faltas graves en un período de un año.
 
+ñ) El quebrantamiento por parte del personal que preste servicios en los Registros de Actividades y Bienes y Derechos Patrimoniales del deber permanente de mantener en secreto los datos e informaciones que conozca por razón de su trabajo, establecido en la Ley de Incompatibilidades de los miembros del Gobierno de la Nación y de los Altos Cargos de la Administración General del Estado.
+
 2. (Derogado)
+
+> Se añade el apartado 1.ñ) por la disposición adicional 4 de la Ley 12/1995, de 11 de mayo. Ref. BOE-A-1995-11340
 
 > Se deroga el apartado 2 por el art. 36 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903
