@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Normativa específica y autonómica.
+
+En caso de explotaciones cunícolas cuya producción vaya destinada a la obtención de animales o productos sometidos a una normativa específica, deberán cumplirse, además, los requisitos estructurales y de funcionamiento que se señalen en esta. Asimismo, en aquellas comunidades autónomas en que su normativa autonómica exija la obligación de registrar las explotaciones cunícolas de autoconsumo, los datos sobre dichas explotaciones obrantes en los registros gestionados por las comunidades autónomas serán remitidos al Ministerio de Agricultura, Pesca y Alimentación para su inclusión en el Registro general de explotaciones ganaderas.
