@@ -1,3 +1,5 @@
 ## CAPÍTULO I
 
 ## Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1951/2000, de 1 de diciembre. Ref. BOE-A-2000-21832
