@@ -109,3 +109,7 @@ Los mencionados antecedentes deberán ser objeto de remisión a la Dirección Ge
 Las mencionadas liquidaciones deberán quedar ultimadas antes del 30 de noviembre de 1985, tomando como referencia las obligaciones contraídas y los pagos realizados en el período de ampliación y la recaudación líquida de los tributos cedidos y de las tasas y otros ingresos afectados al coste de los servicios transferidos comprendidos tanto los ingresos del presupuesto corriente como los residuos de presupuestos cerrados.
 
 Si como consecuencia de los resultados de la liquidación hubieran de producirse transferencias financieras a las Comunidades, éstas se imputarán a los créditos que deberán habilitarse al efecto en la sección 32 del Presupuesto, hasta la total cobertura de las obligaciones respectivas.
+
+> Tengase en cuenta que este anexo, se deroga en cuanto se oponga a la Ley 43/1984, de 13 de diciembre. Ref. BOE-A-1984-27174, según se establece en su disposición derogatoria.
+
+> Se deroga, en cuanto se oponga a la Ley 43/1984, de 13 de diciembre, según establece su disposición derogatoria. Ref. BOE-A-1984-27174
