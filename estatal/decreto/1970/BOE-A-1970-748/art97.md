@@ -1,0 +1,3 @@
+## Art. 97º. Recargo de prestaciones económicas.
+
+Las indemnizaciones a tanto alzado, las pensiones vitalicias y las cantidades tasadas en el baremo de lesiones no invalidantes que resulten debidas a un trabajador víctima de accidente de trabajo o enfermedad profesional, cuando la lesión se produzca en máquinas, artefactos, instalaciones o centros y lugares de trabajo que carezcan de los dispositivos de precaución reglamentarios, los tengan inutilizados o en malas condiciones o en los que no hayan observado las medidas generales o particulares de seguridad e higiene en el trabajo o las elementales de salubridad o adecuación al trabajo, se aumentarán, según la gravedad de la infracción, en la cuantía, forma y condiciones establecidas para el Régimen General.
