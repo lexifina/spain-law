@@ -1,5 +1,5 @@
 ## Disposición transitoria tercera. Impuesto Municipal sobre Gastos Suntuarios.
 
-No obstante lo establecido en el apartado 1 de la Disposición Transitoria Tercera, y en los apartados 1.d) y 2 de la Disposición Derogatoria, ambas de la Ley 39/1988, de 28 de diciembre, continuará aplicándose, hasta el 31 de diciembre de 1991, el Impuesto Municipal sobre Gastos Suntuarios, regulados en los artículos 372 y siguientes del texto refundido de las disposiciones legales vigentes en materia de Régimen Local, aprobado por Real Decreto Legislativo 81/1986, de 18 de abril, que grave el aprovechamiento de los cotos de caza y pesca, exclusivamente.
+(Derogado)
 
-A tal fin, permanecerán vigentes, hasta la fecha indicada en el párrafo anterior, todas las disposiciones, tanto legales como reglamentarias, por las que se rige el impuesto de referencia, en su modalidad d) del artículo 372 del citado texto refundido. Asimismo, permanecerán vigentes las Ordenanzas fiscales municipales reguladoras del mencionado impuesto y modalidad.
+> Se deroga por la disposición derogatoria del Real Decreto-Ley 4/1990, de 28 de septiembre. Ref. BOE-A-1990-23929
