@@ -1,0 +1,3 @@
+## Disposición transitoria.
+
+Hasta tanto no sean aprobadas por el Ministerio de Industria y Energía las correspondientes instrucciones técnicas de este Reglamento, continuarán vigentes los preceptos técnicos de la Orden del Ministerio de Industria de veintitrés de febrero de mil novecientos cuarenta y nueve, por la que se aprobaron instrucciones de carácter de general y Reglamento sobre Instalaciones y Funcionamiento de Centrales Eléctricas y Centros de Transformación. Según vayan poniéndose en vigor las mencionadas instrucciones técnicas complementarias, quedarán derogadas las normas que figuran en la citada Orden del Ministerio de Industria.
