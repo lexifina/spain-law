@@ -1,3 +1,5 @@
 ## Artículo tercero.
 
-Las leyes aprobatorias de los Presupuestos Generales del Estado señalarán, para el período de su respectiva vigencia, el límite máximo que podrá alcanzar la circulación de moneda metálica.
+(Derogado)
+
+> Se deroga por el art. 77.1 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.

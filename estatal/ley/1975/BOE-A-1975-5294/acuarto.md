@@ -1,11 +1,15 @@
 ## Artículo cuarto.
 
-Dentro del límite señalado para cada año por la Ley de Presupuestos Generales del Estado, el Ministerio de Economía y Hacienda acordará la emisión y acuñación de moneda metálica y en particular.
+El Ministerio de Economía y Hacienda acordará la emisión y acuñación de moneda metálica y en particular:
 
-a) Su aleación, peso, forma y dimensiones.
+a) Su valor facial y el número de piezas.
 
-b) Las leyendas y motivos de su anverso y reverso. Las monedas de una peseta llevarán siempre la imagen de S. M. el Rey, así como el escudo de España al dorso.
+b) Su aleación, peso, forma y dimensiones.
 
-c) Las fechas iniciales de emisión.
+c) Las leyendas y motivos de su anverso y reverso. Las monedas de una peseta llevarán siempre la imagen de S. M. el Rey en el anverso y el escudo de España en el reverso.
+
+d) La fecha inicial de emisión.
+
+> Se modifica por el art. 77.2 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.
 
 > Se modifica por la disposición adicional 14 de la Ley 21/1986, de 23 de diciembre. Ref. BOE-A-1986-33382.

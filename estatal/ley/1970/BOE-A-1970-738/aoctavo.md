@@ -1,13 +1,5 @@
 ## Artículo octavo.
 
-Se constituye un Comité de Seguros de Crédito a la Exportación, que tendrá las siguientes atribuciones:
+El límite máximo de cobertura para nueva contratación, excluida la modalidad de póliza global, que podrá asegurar la "Compañía Española de Seguros de Crédito a la Exportación, S. A.", por cuenta del Estado durante cada ejercicio se fijará en la correspondiente Ley de Presupuestos Generales del Estado. Se autoriza al Ministro de Economía y Hacienda para fijar los criterios de distribución de la cantidad antes referida en función de los riesgos implícitos o de cualquier otro factor que estime relevante.
 
-Primera.–Asistir y asesorar a la Administración en materia de seguro de crédito a la exportación.
-
-Segunda.–Proponer al Gobierno por conducto del Ministro de Hacienda, los límites máximos de cobertura que puede asegurar la «Compañía Española de Seguros de Crédito a la Exportación, S. A.», en función de las distintas modalidades técnicas en que se diversifiquen los riesgos.
-
-Tercera.–Ratificar, con carácter de condición suspensiva a su efectividad, cada uno de los contratos por los que la Compañía asuma la cobertura de riesgos políticos o extraordinarios que rebasen los límites técnicos que establezca el Ministro de Hacienda.
-
-Cuarta.–Aprobar, con carácter previo, los contratos de reaseguros a que se refiere el artículo séptimo de esta Ley.
-
-Quinta.–Vigilar y controlar las relaciones de la Compañía con la Administración Pública. Anualmente se remitirá a las Cortes, por el Ministerio de Hacienda, un informe comprensivo tanto de la gestión como de la situación económica, política y administrativa de la «Compañía Española de Seguros de Crédito a la Exportación, S. A.».
+> Se modifica por la disposición adicional 6.1.3 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.

@@ -42,15 +42,15 @@ B) La sustitución de un pasaporte cuando se ha perdido o se han agotado las pá
 
 C) En los supuestos establecidos en los dos apartados anteriores se añadirá en concepto de coste de la libreta, 2 unidades.
 
-D) El visado en pasaporte extranjero de tránsito o doble tránsito con un plazo de estancia en España inferior a ocho días, 10 unidades.
+D) El visado en pasaporte extranjero de tránsito o doble tránsito con un plazo de estancia en España inferior a ocho días: 16 unidades.
 
-E) Cuando sea válido para permanecer en España menos de treinta y dos días y una sola entrada, 15 unidades.
+E) Cuando sea válido para permanecer en España menos de treinta y dos días y una sola entrada: 16 unidades.
 
-F) El ordinario, válido para permanecer en España hasta noventa días, con tres entradas y tres salidas, 20 unidades.
+F) El ordinario, válido para permanecer en España hasta noventa días, con tres entradas y tres salidas: 32 unidades.
 
-G) Cuando autorice al titular un mayor número de entradas y salidas o tenga un plazo de caducidad superior a los tres meses, 30 unidades,
+G) Cuando autorice al titular un mayor número de entradas y salidas o tenga un plazo de caducidad superior a los tres meses: 48 unidades.
 
-H) El que se concede a los extranjeros que pretendan residir en España, 30 unidades.
+H) El que se concede a los extranjeros que pretendan residir en España: 48 unidades.
 
 IV. Actos de administración y cancillería:
 
@@ -135,3 +135,5 @@ M) Las legalizaciones de documentos públicos extranjeros, por firma, 2 unidades
 N) La expedición de un certificado de Ley o de costumbre, por hoja, 10 unidades.
 
 Ñ) Las traducciones realizadas según lo dispuesto en el artículo 253 del Reglamento Notarial, por hoja de 24 líneas, 100 unidades.
+
+> Se modifican los apartados 3.D) a H) por el art. 104.5 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563

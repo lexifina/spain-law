@@ -1,5 +1,5 @@
 ## Artículo séptimo.
 
-Los riesgos a que se refiere la presente Ley podrán ser cedidos en reaseguro al Consorcio de Compensación de Seguros, a sociedades españolas que reúnan las condiciones exigidas por el Ministerio de Hacienda y a instituciones reaseguradoras extranjeras.
+La "Compañía Española de Seguros de Crédito a la Exportación, S. A.", podrá suscribir contratos de aceptación o cesión en reaseguro de los riesgos a los que se refiere la presente Ley, tanto comerciales como políticos y extraordinarios, derivados del comercio internacional, en los términos que autorice el Ministerio de Economía y Hacienda.
 
-Los contratos de reaseguro deberán someterse a la previa aprobación del Ministerio de Hacienda.
+> Se modifica por la disposición adicional 6.1.2 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.

@@ -1,5 +1,7 @@
 ## Artículo primero.
 
-Los Bancos privados, las Cajas de Ahorros, las Cooperativas de Crédito y demás Entidades que tengan como actividad típica la de tomar dinero de terceros, en forma distinta de la suscripción de acciones o participaciones, a fin de prestarlo o colocarlo en inversiones financieras, quedan obligados a destinar parte de esos recursos a las inversiones establecidas en la presente Ley. Se exceptúan las Entidades cuya regulación específica les obligue a invertir la totalidad o una parte apreciable de sus recursos en activos distintos de los aptos para cubrir dicha obligación, o les prohíba hacerlo en tales activos.
+El Gobierno podrá establecer que los Bancos privados, las Cajas de Ahorro, las Cooperativas de Crédito y las demás Entidades de Crédito queden obligados a destinar parte de los fondos reembolsables que capten de terceros a las inversiones establecidas en la presente Ley, en los términos en ella previstos.
 
 Esta obligación de invertir se establece sin perjuicio de lo ordenado en la Ley 26/1983, de 26 de diciembre, sobre Coeficientes de Caja de los Intermediarios Financieros.
+
+> Se modifica el párrafo primero por la disposición adicional 7 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
