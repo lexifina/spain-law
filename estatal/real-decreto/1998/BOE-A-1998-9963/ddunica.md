@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Disposiciones que se derogan.
+
+Quedan derogados el Real Decreto 670/1983, de 2 de marzo, por el que se aprueba la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de helados; el Real Decreto 1334/1984, de 6 de junio, por el que se modifica el plazo de entrada en vigor del título I del Real Decreto 670/1983; el Real Decreto 340/1987, de 30 de enero, por el que se modifica el artículo 9 del Real Decreto 670/1983; el capítulo XXVIII sobre helados, del Código Alimentario Español, aprobado por Decreto 2484/1967, de 21 de septiembre; así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.

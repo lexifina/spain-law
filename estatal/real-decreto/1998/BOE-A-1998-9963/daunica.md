@@ -1,0 +1,3 @@
+## Disposición adicional única. Título competencial.
+
+El presente Real Decreto, que tiene carácter básico, a excepción del artículo 9.2, del artículo 15.4, del artículo 17.2 y del anexo III, se dicta al amparo de la competencia que atribuye al Estado el artículo 149.1.16.ª de la Constitución Española y en virtud de lo establecido en el artículo 40, 2 y 4, de la Ley 14/1986, de 25 de abril, General de Sanidad. Además, lo establecido en el artículo 18 se dicta también en virtud de las competencias que el artículo 149.1.10.ª de la Constitución Española atribuye al Estado en materia de comercio exterior.
