@@ -1,0 +1,13 @@
+La Ley 14/1986, de 25 de abril, General de Sanidad, en sus artículos 40.7 y 110, y en su disposición final cuarta, obliga a establecer requisitos mínimos para la aprobación y homologación de las instalaciones de centros y servicios y a valorar, por parte de la Administración sanitaria, la seguridad, eficacia y eficiencia de las tecnologías relevantes para la salud y asistencia sanitaria.
+
+Mediante este Real Decreto se incorpora al ordenamiento jurídico español la Directiva 97/43/EURATOM, del Consejo, de 30 de junio, relativa a la protección de la salud frente a los riesgos derivados de las radiaciones ionizantes en exposiciones médicas, por la que se sustituye la Directiva 84/466/EURATOM, en aquellas materias no recogidas en los Reales Decretos 1841/1997, de 5 de diciembre, 1566/1998, de 17 de julio y 1976/1999, de 23 de diciembre, por los que se establecen, respectivamente, los criterios de calidad en medicina nuclear, radioterapia y radiodiagnóstico, en el Real Decreto 1132/1990, de 14 de septiembre, por el que se establecen medidas fundamentales de protección radiológica de las personas sometidas a exámenes y tratamientos médicos, y en el Real Decreto 220/1997, de 14 de febrero, por el que se crea y regula la obtención del título oficial de Especialista en Radiofísica Hospitalaria.
+
+En el artículo 7 de la citada Directiva 97/43/EURATOM, se regula la formación en protección radiológica en las enseñanzas de pregrado en las Facultades de Medicina y Odontología, en las Escuelas Universitarias de Podología y en las Escuelas de Técnicos Superiores en Diagnóstico por Imagen y Radioterapia, así como en las especialidades de Oncología Radioterápica, Radiodiagnóstico y Medicina Nuclear y, en aquellas especialidades médicas en que se utilicen radiaciones ionizantes, quedando recogida esta previsión en el presente Real Decreto que, asimismo, contempla la formación continuada en protección radiológica.
+
+Por otra parte, mediante esta disposición, se obliga a justificar todas las exposiciones médicas con objeto de proteger la salud frente a los riesgos derivados de las radiaciones ionizantes en exposiciones médicas.
+
+El presente Real Decreto, que será de aplicación en todo el territorio nacional, tiene carácter de norma básica, de conformidad con lo dispuesto en el artículo 149.1.16.ª de la Constitución y de acuerdo con lo establecido en el artículo 40.7 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, con el informe favorable del Consejo de Seguridad Nuclear, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 13 de julio de 2001,
+
+DISPONGO:
