@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+En el Servicio Militar de construcciones regirán los preceptos contenidos en las secciones primera, segunda y tercera del Capítulo primero; Sección primera, del Capítulo tercero; Capítulo quinto, sexto, séptimo, octavo y noveno, todos ellos del Título I; los Títulos II y III en su totalidad; la disposición adicional primera; las disposiciones transitorias primera y segunda así como la tercera, salvo la referencia a las normas de carácter retributivo; y las disposiciones finales primera y segunda de este Decreto. En los demás se aplicará la normativa vigente en las Industrias de la Construcción y Obras Públicas.

@@ -1,0 +1,3 @@
+## Artículo cuarenta y tres. Permutas.
+
+Sólo pueden solicitar permuta quienes ostenten la misma categoría o desempeñen cargos de idénticas características. Las peticiones que habrán de fundarse en motivos justificados deberán ser atendidas siempre que las necesidades del servicio lo permitan, que los permutantes tengan aptitud para sus nuevos destinos, que no haya perjuicio para tercero y que por parte de aquéllos no se hubiese hecho uso de este derecho más de dos veces. De realizarse la permuta, los permutantes aceptarán la modificación de retribuciones a que hubiere lugar, no tendrán derecho a indemnización por gastos de traslado y se les aplicará los demás efectos previstos para el traslado voluntario.
