@@ -34,6 +34,12 @@ A efectos de participación en concursos de méritos, los funcionarios que se in
 
 5. Los funcionarios docentes podrán optar por obtener su jubilación a la terminación del curso académico en el que cumplieran los sesenta y cinco años.
 
+No obstante lo indicado en el párrafo anterior, los funcionarios de los Cuerpos docentes universitarios se jubilarán forzosamente cuando cumplan los setenta años. En atención a las peculiaridades de la función docente, dichos funcionarios podrán optar por jubilarse a la finalización del curso académico en el que hubieren cumplido los setenta años.
+
+Los funcionarios a que se refiere el párrafo anterior también podrán jubilarse una vez que hayan cumplido los sesenta y cinco años, siempre que así lo hubieren solicitado en la forma y plazos que se establezcan reglamentariamente. En estos supuestos, la efectividad de la jubilación estará referida, en cada caso, a la finalización del curso académico correspondiente.
+
+Lo indicado en los dos párrafos anteriores se entiende sin perjuicio de los demás supuestos de jubilación voluntaria legalmente previstos.
+
 6. Los funcionarios docentes estarán obligados a participar en los sucesivos concursos ordinarios de traslados hasta la obtención de su primer destino definitivo. Estos concursos no establecerán puntuación mínima para la obtención de un destino. Voluntariamente podrán participar en las convocatorias de puestos docentes de carácter singular siempre que reúnan los requisitos exigidos en cada convocatoria.
 
 Los funcionarios docentes que obtengan un puesto por medio de concurso deberán permanecer en el mismo un mínimo de dos años para poder participar en sucesivos concursos de provisión de puestos de trabajo.
@@ -66,9 +72,11 @@ En el plazo de seis meses, el Gobierno, a propuesta de los Ministros de Educaci�
 
 10. En el marco de las competencias en materia educativa atribuidas por sus respectivos Estatutos de Autonomía, las Comunidades Autónomas ordenarán su función pública docente, de conformidad con lo que se establezca en las normas básicas que regulen los aspectos señalados en el punto 2 de esta disposición adicional.
 
+> Se añade el párrafo segundo y tercero al apartado 5 por el art. único de la Ley 27/1994, de 29 de septiembre. Ref. BOE-A-1994-21316
+
 > Se añade el párrafo segundo al apartado 1 por el art. 28 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
 
-> Se deroga el contenido de los cuatro guiones del párrafo 2.º del apartado 2, en cuanto se oponga a la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172 según establece su disposición final 4.1.
+> Se deroga el contenido de los cuatro guiones del párrafo 2.º del apartado 2, en cuanto se oponga a la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172 según establece su disposición final 4.1
 
 > Se añaden dos párrafos al apartado 7 por el art. 39.6 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
 
