@@ -152,6 +152,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 117](a117.md)
 - [TÍTULO V](tv.md)
 - [Artículo 118](a118.md)
+- [Artículo 118 bis](a118bis.md)
 - [Artículo 119](a119.md)
 - [Artículo 120](a120.md)
 - [Artículo 121](a121.md)
