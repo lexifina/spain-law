@@ -1,0 +1,1 @@
+## Sección segunda. Licenciamiento definitivo

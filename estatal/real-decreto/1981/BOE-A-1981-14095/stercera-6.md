@@ -1,0 +1,1 @@
+## Sección tercera. Racionado común
