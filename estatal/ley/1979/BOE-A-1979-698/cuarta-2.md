@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta.
+
+Se autoriza a la Dirección General de Correos y Telecomunicación para que, excepcionalmente, y por una sola vez, convoque pruebas selectivas restringidas para el acceso a los diferentes Cuerpos y Escalas, a las que podrán concurrir los funcionarios de empleo interinos y el personal contratado de colaboración temporal que estuviera prestando servicios el uno de enero de mil novecientos setenta y ocho. Asimismo alcanzará el citado derecho al personal interino y contratado que hubiere tenido que cesar entre el uno de enero de mil novecientos setenta y seis y la mencionada fecha por incorporación al servicio militar.

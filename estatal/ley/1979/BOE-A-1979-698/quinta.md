@@ -1,0 +1,3 @@
+## Disposición final quinta.
+
+Dada la complejidad que supone la aplicación de la normativa de esta Ley, en cuanto se refiere a la integración de los actuales funcionarios en los nuevos Cuerpos que se crean, proceso que tendrá que desarrollarse durante el ejercicio de mil novecientos setenta y nueve, se autoriza al Gobierno a efectuar las transferencias de crédito que sean necesarias en los conceptos de gasto del capítulo uno de los Servicios de Correos y Telecomunicación e incluso a la apertura de nuevos conceptos durante los ejercicios presupuestarios de mil novecientos setenta y ocho y mil novecientos setenta y nueve.
