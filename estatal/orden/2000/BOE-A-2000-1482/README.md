@@ -1,0 +1,68 @@
+# Orden de 7 de enero de 2000 por la que desarrolla el Real Decreto 161/1997, de 7 de febrero, por el que se aprueba el Reglamento de la Caja General de Depósitos.
+
+- Identificador: BOE-A-2000-1482
+- Rango: Orden
+- Fecha de disposición: 2000-01-07
+- Publicación: 2000-01-25
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2000-1482
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [no](no.md)
+- [preambulo](preambulo.md)
+- [Sección 1](s1.md)
+- [1](A1.md)
+- [2](A2.md)
+- [3](A3.md)
+- [4](A4.md)
+- [5](A5.md)
+- [Sección 2](s2.md)
+- [6](A6.md)
+- [7](A7.md)
+- [8](A8.md)
+- [9](A9.md)
+- [Garantía mediante valores](garantiamediantevalores.md)
+- [10](A10.md)
+- [11](A11.md)
+- [12](A12.md)
+- [13](A13.md)
+- [14](A14.md)
+- [Garantía mediante aval](garantiamedianteaval.md)
+- [15](A15.md)
+- [16](A16.md)
+- [17](A17.md)
+- [18](A18.md)
+- [19](A19.md)
+- [20](A20.md)
+- [Garantía mediante seguro de caución](garantiamediantesegurodecaucion.md)
+- [21](A21.md)
+- [22](A22.md)
+- [23](A23.md)
+- [24](A24.md)
+- [25](A25.md)
+- [26](A26.md)
+- [Sección 3](s3.md)
+- [27](A27.md)
+- [28](A28.md)
+- [29](A29.md)
+- [30](A30.md)
+- [31](A31.md)
+- [32](A32.md)
+- [Actuaciones de la Caja](actuacionesdelacaja.md)
+- [33](A33.md)
+- [34](A34.md)
+- [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
+- [Disposición final primera](dfprimera.md)
+- [Disposición final segunda](dfsegunda.md)
+- [Disposición final tercera](dftercera.md)
+- [firma](firma.md)
+- [ANEXO A](ana.md)
+- [ANEXO B](anb.md)
+- [ANEXO C](anc.md)
+- [ANEXO D](and.md)
+- [ANEXO E](ane.md)
+- [ANEXO F](anf.md)
+- [ANEXO G](ang.md)

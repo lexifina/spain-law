@@ -1,0 +1,1 @@
+## Garantía mediante valores
