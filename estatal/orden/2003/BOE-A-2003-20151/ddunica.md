@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Orden, y expresamente la Orden del Ministro de Comercio y Turismo de 24 de febrero de 1995, por la que se dictan normas de inspección y control para los Centros de Inspección de Comercio Exterior (SOIVRE), modificada por Orden de 18 de Mayo de 1995, así como las Órdenes del Ministro de la Presidencia de 15 de noviembre de 1995, relativa a las funciones de inspección y control de calidad de frutas y hortalizas frescas importadas de países terceros y de 5 de marzo de 1996, relativa a las funciones de inspección y control de calidad de flores cortadas y conos de lúpulo importados de países terceros.
