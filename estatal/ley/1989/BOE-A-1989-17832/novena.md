@@ -1,5 +1,3 @@
 ## Disposición transitoria novena.
 
-(Derogada)
-
-> Se deroga por la disposición derogatoria.3 del Real Decreto Legislativo 1564/1989, de 22 de diciembre. Ref. BOE-A-1989-30361.
+Las acciones propias o de la sociedad dominante poseídas por la sociedad en el momento de entraren vigor la presente Ley, en la medida en que infrinjan lo dispuesto en la Ley de Sociedades Anónimas, habrán de ser enajenadas en el plazo de un año. En el caso en que se omita esta obligación, se aplicará el apartado segundo del artículo 42.a).
