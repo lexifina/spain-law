@@ -10,6 +10,8 @@ Cuando el contrato por tiempo indefinido se concierte a tiempo parcial, se mante
 
 2. Las Cooperativas de Trabajo Asociado que incorporen a trabajadores minusválidos como socios, tendrán derecho a los beneficios establecidos en el número anterior.
 
-3. Tanto las subvenciones como las bonificaciones serán incompatibles con las que, en su caso, otorgue la Unidad Administradora del Fondo Nacional de Protección al Trabajo y con cualquier otra medida de fomento del empleo, salvo lo dispuesto en el artículo 12.
+3. Los beneficios aquí previstos no podrán, en concurrencia con otras ayudas públicas para la misma finalidad, superar el 60 por 100 del coste salarial anual correspondiente al contrato que da derecho a los mismos.
+
+> Se modifica el apartado 3 por la disposición adicional 2.2 del Real Decreto 27/2000, de 14 de enero. Ref. BOE-A-2000-1547
 
 > Se modifica el apartado 1 por el art. único del Real Decreto 4/1999, de 8 de enero. Ref. BOE-A-1999-1824
