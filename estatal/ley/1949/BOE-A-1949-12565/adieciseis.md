@@ -1,0 +1,7 @@
+## Artículo dieciséis.
+
+El porteador, capitán o agente del porteador y el cargador están en libertad, tratándose de mercancías determinadas, cualesquiera que sean, para otorgar contratos, estableciendo la condiciones que crean convenientes relativas a la responsabilidad y a las obligaciones del porteador para estas mercancías, así como los derechos y las exoneraciones del porteador respecto de estas mismas mercancías o concernientes a sus obligaciones en cuanto al estado del buque para navegar, siempre que esta estipulación no sea contraria al orden público o concerniente a los cuidados o diligencias de sus agentes en cuanto a la carga, conservación, estiba, transporte, custodia, cuidado y descarga de las mercancías transportadas por mar, y con tal que en este caso no haya sido expedido ni se expida ningún conocimiento, y que las condiciones del acuerdo recaído se inserten en un recibo, que será un documento no negociable y llevará la indicación de este carácter.
+
+Los convenios celebrados en esta forma tendrán plenos efectos legales.
+
+No obstante, este artículo no se aplicará a los cargamentos comerciales ordinarios hechos en el curso de operaciones comerciales corrientes, sino solamente a otros cargamentos, en los cuales el carácter y la condición de las cosas que hayan de transportarse y las circunstancias, término y condiciones en que el transporte deba hacerse sean de tal naturaleza que justifiquen un convenio especial.

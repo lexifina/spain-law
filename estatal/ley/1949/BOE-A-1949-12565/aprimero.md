@@ -1,0 +1,3 @@
+## Artículo primero.
+
+La presente Ley tiene por objeto regular las relaciones entre los elementos interesados en el transporte de mercancías por mar, y se aplicará solamente al contrato de transporte internacional, formalizado en las condiciones que expresa el artículo siguiente, a las mercancías que en él se mencionan, y por el tiempo transcurrido desde la carga de las mercancías hasta su descarga, realizadas estas operaciones por los medios propios del barco, entendiéndose que cuando se empleen medios ajenos al mismo, el contrato empezará a regir cuando la mercancía se encuentre a bordo del buque.

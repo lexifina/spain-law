@@ -1,0 +1,3 @@
+## Artículo diez.
+
+Toda cláusula, convenio o acuerdo en un contrato de transporte que exonere al porteador o al buque de responsabilidad por pérdida o daños relativos a las mercancías, que provengan de negligencia, falta o incumplimiento de los deberes y obligaciones señalados en los artículos anteriores, o que atenúe dicha responsabilidad en otra forma que no sea la determinada en la presente Ley, será nula, ineficaz y se tendrá por no puesta. Del mismo modo será nula toda cláusula que ceda al porteador el beneficio del seguro contratado por el cargador o cláusula semejante que tenga por objeto eximir a aquél de responsabilidad.
