@@ -1,0 +1,5 @@
+La Reglamentación Técnico-Sanitaria para la elaboración y venta de turrones y mazapanes, aprobada por Decreto dos mil ciento ochenta y dos/mil novecientos setenta y cinco, de doce de septiembre, fue parcialmente modificada por el artículo sexto del Real Decreto mil setecientos setenta y uno/mil novecientos setenta y seis, de dos de julio, y por el Real Decreto mil setecientos setenta y siete/mil novecientos setenta y ocho, de diecinueve de mayo. La experiencia adquirida en la aplicación de esta Reglamentación aconseja proceder a la aprobación de un nuevo texto a fin de evitar una diversificación de disposiciones sobre esta materia, clarificar determinados conceptos y adaptar la Reglamentación a la nueva estructura de la Administración del Estado.
+
+En su virtud, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria, a propuesta de los Ministros de Agricultura, Pesca y Alimentación, Economía y Comercio, Industria y Energía, Sanidad y Consumo y previa deliberación del Consejo de Ministros en su reunión del día catorce de mayo de mil novecientos ochenta y dos,
+
+DISPONGO:
