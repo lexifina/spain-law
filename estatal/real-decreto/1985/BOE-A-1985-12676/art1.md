@@ -4,4 +4,8 @@
 
 2. El valor actual del importe total de la prestación se calculará descontando de la prestación mensual que le corresponda el interés básico del Banco de España.
 
+> Se suprime la referencia a "trabajadores autónomos" del apartado 1 por la disposición adicional 2 de la Ley 22/1992, de 30 de julio. Ref. BOE-A-1992-18488.
+
+> Téngase en cuenta que este inciso ya estaba suprimido por el Real Decreto-ley 1/1992, de 3 de abril.
+
 > Se suprime la referencia a "trabajadores autónomos" del apartado 1 por la disposición adicional 2 del Real Decreto-ley 1/1992, de 3 de abril. Ref. BOE-A-1992-7714.
