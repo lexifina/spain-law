@@ -1,0 +1,1 @@
+Esta ley pasa a denominarse "Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía del Principado de Asturias", según establece el art. único.1 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

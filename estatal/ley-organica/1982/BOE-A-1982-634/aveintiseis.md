@@ -8,4 +8,6 @@ Dos. Gozarán, aún después de haber cesado en su mandato de inviolabilidad por
 
 Tres. Tienen derecho a formular preguntas, interpelaciones y mociones en los términos en que el Reglamento determine. También les asiste el derecho a obtener de las autoridades de la Comunidad Autónoma la información precisa para el desarrollo de sus funciones.
 
-Cuatro. No percibirán retribución fija por su cargo representativo, sino únicamente las dietas que se determinen por el ejercicio del mismo.
+Cuatro. Por el ejercicio de su cargo representativo, los Diputados de la Junta General percibirán retribuciones. Las modalidades de las asignaciones serán fijadas de acuerdo con lo que prevea el Reglamento de la Cámara.
+
+> Se modifica el apartado 4 por el art. único.25 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

@@ -8,4 +8,4 @@ Tres. El presupuesto tendrá carácter anual e incluirá la totalidad de los gas
 
 Cuatro. Si la Ley del Presupuesto no se aprobara antes del primer día del ejercicio económico correspondiente, se considerará prorrogado el Presupuesto del ejercicio anterior hasta la aprobación del nuevo.
 
-Cinco. Transcurridos seis meses desde la iniciación del ejercicio sin que se haya aprobado el nuevo Presupuesto, no se podrán acordar nuevos créditos en tanto no tenga lugar dicha aprobación. Con posterioridad, toda ley de la Comunidad que implique nuevos o mayores gastos en el ejercicio debe indicar los medios para hacerles frente.
+> Se suprime el apartado 5 por el art. único.44 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

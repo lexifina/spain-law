@@ -1,5 +1,7 @@
 ## Artículo 20.
 
-El Principado de Asturias asume desde su constitución todas las competencias, medios y recursos que según la ley correspondan a la Diputación Provincial de Oviedo.
+1. Corresponde a la Comunidad Autónoma del Principado de Asturias la vigilancia y protección de los edificios e instalaciones de la propia Comunidad y la coordinación de las policías locales asturianas, sin perjuicio de su dependencia de las autoridades municipales.
 
-Los órganos de representación y gobierno de la Diputación Provincial establecidos por la legislación de régimen local quedan sustituidos en la provincia de Oviedo por los propios de la Comunidad Autónoma, en los términos de este Estatuto. La Junta General del Principado determinará, según su naturaleza, la distribución de las competencias de la Diputación Provincial entre los distintos órganos del Principado de Asturias previstos en el artículo veintidós de este Estatuto.
+2. Para el ejercicio de la competencia prevista en el apartado anterior, la Comunidad Autónoma podrá convenir con el Estado la adscripción de unidades del Cuerpo Nacional de Policía en los términos y para el ejercicio de las funciones previstas en la Ley Orgánica referida en el artículo 149.1.29.ª de la Constitución.
+
+> Se modifica por el art. único.17 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

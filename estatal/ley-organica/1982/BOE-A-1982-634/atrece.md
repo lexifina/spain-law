@@ -1,7 +1,7 @@
 ## Artículo 13.
 
-Transcurridos los cinco años previstos en el apartado 2 del artículo 148 de la Constitución, previo acuerdo de la Junta General del Principado de Asturias, adoptado por mayoría absoluta, la Comunidad Autónoma podrá ampliar el ámbito de sus competencias en materias que no estén atribuidas en exclusiva al Estado, o que sólo estén atribuidas las bases o principios. El acuerdo de asumir las nuevas competencias se someterá a las Cortes Generales para su aprobación mediante Ley Orgánica.
+De conformidad con las leyes del Estado, el Consejo de Gobierno nombrará a los notarios y registradores de la propiedad y mercantiles, así como a los corredores de comercio y participará en la fijación de las demarcaciones correspondientes.
 
-Asimismo podrán asumir competencias a través de los procedimientos establecidos en los números 1 y 2 del artículo 150 de la Constitución.
+> Se modifica por el art. único.10 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
 
 > Se modifica por el art. único.4 de la Ley Orgánica 1/1994, de 24 de marzo. Ref. BOE-A-1994-6940

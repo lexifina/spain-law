@@ -1,3 +1,5 @@
 ## Artículo 54.
 
-Los reglamentos de la Junta General y los actos, acuerdos y disposiciones de los órganos ejecutivos y administrativos del Principado se someterán al control de la Jurisdicción Contencioso-Administrativa, sin perjuicio de lo establecido en el artículo ciento cincuenta y tres, apartado b) de la Constitución.
+Los actos y disposiciones de la Administración del Principado están sometidos al control de la jurisdicción contencioso-administrativa.
+
+> Se modifica por el art. único.48 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

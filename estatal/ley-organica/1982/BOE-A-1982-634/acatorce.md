@@ -1,7 +1,7 @@
 ## Artículo 14.
 
-Uno. El Principado de Asturias ejercerá la iniciativa legislativa prevista en el artículo ochenta y siete coma dos, de la Constitución para la aprobación por el Estado, en su caso, de las leyes a que se hace referencia en el artículo anterior, en virtud de lo dispuesto en el artículo ciento cincuenta coma dos de la Constitución.
+1. La Junta General del Principado de Asturias podrá ejercer la iniciativa legislativa prevista en el artículo 87.2 de la Constitución para la aprobación por el Estado de las leyes previstas en el artículo 150.1 y 2 de la Constitución.
 
-Dos. Sin perjuicio de lo establecido en los artículos precedentes, el Principado de Asturias, de acuerdo con las correspondientes leyes del Estado a que se hace referencia en el número anterior, podrá asumir otras facultades de titularidad estatal.
+2. En cualquier caso, el Principado de Asturias podrá asumir las demás competencias que la legislación del Estado reserve a las Comunidades Autónomas.
 
-Tres. En cualquier caso el Principado de Asturias podrá asumir las demás competencias que la legislación del Estado reserve a las Comunidades Autónomas.
+> Se modifica por el art. único.11 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

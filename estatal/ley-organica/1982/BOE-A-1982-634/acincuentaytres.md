@@ -1,3 +1,5 @@
 ## Artículo 53.
 
-Además de la Junta General, el Consejo de Gobierno podrá ser parte y personarse en los conflictos constitucionales.
+(Suprimido)
+
+> Se suprime por el art. único.47 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

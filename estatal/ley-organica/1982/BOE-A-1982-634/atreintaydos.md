@@ -10,4 +10,6 @@ Dos. El Presidente del Principado de Asturias es el del Consejo de Gobierno, cuy
 
 Tres. El Presidente del Principado de Asturias responde políticamente ante la Junta General.
 
-Cuatro. Una ley de la Junta, aprobada por el voto favorable de la mayoría de sus miembros determinará el estatuto personal, el procedimiento de elección y cese y las atribuciones del Presidente del Principado de Asturias.
+Cuatro. Una ley del Principado, aprobada por el voto favorable de la mayoría absoluta, determinará el estatuto personal, el procedimiento de elección y cese y las atribuciones del Presidente.
+
+> Se modifica el apartado 4 por el art. único.29 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

@@ -1,3 +1,5 @@
 ## Disposición transitoria octava.
 
-El Gobierno, en el plazo de tres meses a partir de la entrada en vigor de este Estatuto, propondrá a las Cortes Generales el cambio de denominación de la provincia de Oviedo, que pasaría a denominarse provincia de Asturias.
+(Suprimida)
+
+> Se suprime por el art. único.58 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

@@ -1,5 +1,5 @@
 ## Artículo 50.
 
-Uno. El Principado, como poder público, podrá hacer uso de lo dispuesto en el apartado uno del artículo ciento treinta de la Constitución.
+El Principado de Asturias promoverá los objetivos establecidos en los artículos 129.2 y 130.1 de la Constitución.
 
-Dos. Asimismo, de acuerdo con la legislación del Estado en la materia podrá hacer uso de las demás facultades previstas en el apartado dos del artículo ciento veintinueve de la Constitución.
+> Se modifica por el art. único.45 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

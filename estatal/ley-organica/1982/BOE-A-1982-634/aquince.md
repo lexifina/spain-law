@@ -1,8 +1,8 @@
 ## Artículo 15.
 
-Uno. Todas las competencias mencionadas en los artículos anteriores y en los demás del presente Estatuto se entenderán referidas al territorio del Principado de Asturias.
+1. Todas las competencias mencionadas en los artículos anteriores y en los demás del presente Estatuto se entenderán referidas al territorio del Principado de Asturias.
 
-Dos. En el ejercicio de sus competencias, el Principado de Asturias gozará de las potestades y privilegios propios de la Administración del Estado, entre los que se comprenden:
+2. En el ejercicio de sus competencias, el Principado de Asturias gozará de las potestades y privilegios propios de la Administración del Estado, entre los que se comprenden:
 
 a) La presunción de legitimidad y la ejecutoriedad de sus actos, así como los poderes de ejecución forzosa y revisión en vía administrativa.
 
@@ -18,4 +18,6 @@ f) La exención de toda obligación de garantía o caución ante cualquier organ
 
 No se admitirán interdictos contra las actuaciones del Principado en materias de su competencia, realizadas de acuerdo con el procedimiento legal.
 
-Tres. El Derecho estatal es supletorio de las normas del Principado de Asturias en lo que se refiere a las competencias propias del mismo.
+3. En el ejercicio de la competencia prevista en el artículo 10.1.1 del presente Estatuto y de acuerdo con la legislación del Estado, corresponde a la Comunidad Autónoma, entre otras materias, el establecimiento del régimen estatutario de sus funcionarios, el régimen jurídico-administrativo derivado de las competencias asumidas, la regulación de los bienes de dominio público y patrimoniales cuya titularidad corresponda a la Comunidad Autónoma, así como las servidumbres públicas en materia de su competencia y la regulación de los contratos y concesiones administrativas en el ámbito del Principado de Asturias.
+
+> Se modifica el apartado 3 por el art. único.11 bis de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

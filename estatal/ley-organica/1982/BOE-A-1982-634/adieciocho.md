@@ -4,4 +4,8 @@
 
 2. Para garantizar una prestación homogénea y eficaz del servicio público de la educación que permita corregir las desigualdades o desequilibrios que puedan producirse, la Comunidad Autónoma facilitará a la Administración del Estado la información que ésta le solicite sobre el funcionamiento del sistema educativo en sus aspectos cualitativos y cuantitativos y colaborará con la Administración del Estado en las actuaciones de seguimiento y evaluación del sistema educativo nacional.
 
+3. En el ejercicio de estas competencias, la Comunidad Autónoma fomentará la investigación, especialmente la referida a materias o aspectos peculiares del Principado de Asturias, y a la creación de centros universitarios en la Comunidad Autónoma.
+
+> Se añade el apartado 3 por el art. único.14 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
 > Se modifica por el art. único.5 de la Ley Orgánica 1/1994, de 24 de marzo. Ref. BOE-A-1994-6940

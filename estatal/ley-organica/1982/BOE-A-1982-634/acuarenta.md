@@ -1,3 +1,5 @@
 ## Artículo 40.
 
-Corresponde íntegramente al Estado, de conformidad con las leyes generales, la organización y funcionamiento del Ministerio Fiscal.
+(Suprimido)
+
+> Se suprime por el art. único.41 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

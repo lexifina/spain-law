@@ -4,4 +4,4 @@ Uno. El Consejo de Gobierno responde políticamente ante la Junta General de for
 
 Dos. Una ley de la Junta, aprobada por el voto favorable de la mayoría de sus miembros, regulará la responsabilidad establecida en el número anterior y, en general, las relaciones entre dicha Junta y el Consejo.
 
-Tres. El Consejo del Gobierno será informado de los convenios y tratados internacionales que puedan afectar a materias de su específico interés.
+> Se suprime el apartado 3 por el art. único.34 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
