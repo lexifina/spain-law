@@ -1,7 +1,7 @@
 ## Artículo veintiséis.
 
-1. Los miembros de la Asamblea gozarán, aun después de haber cesado su mandato, de la inviolabilidad por los votos y opiniones que emitan en el ejercicio de su cargo. Durante su mandato no podrán ser detenidos ni retenidos en el territorio de la Comunidad sino en caso de flagrante delito, correspondiendo decidir, en todo caso, sobre su inculpación, prisión, procesamiento y juicio al Tribunal Superior de Justicia de la Comunidad, Fuera de dicho territorio la responsabilidad penal será exigible en los mismos términos, ante la Sala de lo Penal del Tribunal Supremo.
+El Reglamento precisará un número mínimo de miembros para la formación de Grupos Parlamentarios, la intervención de éstos en las actividades de la Asamblea, así como las funciones de la Junta de Portavoces, Los Grupos de la Asamblea participarán en todas las Comisiones en proporción a sus miembros.
 
-2. Los miembros de la Asamblea no estarán sujetos a mandato imperativo.
+> Se modifica por la disposición final 1 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225
 
-3. Los miembros de la Asamblea no percibirán retribución fija por su cargo representativo, sino únicamente las dietas que se determinen por el ejercicio del mismo.
+> Su anterior numeración era art. 29.

@@ -1,11 +1,7 @@
 ## Artículo treinta y cuatro.
 
-1. Los candidatos a Presidente serán presentados, al menos, por la cuarta parte de los miembros de la Asamblea.
+1. El Presidente de la Junta de Extremadura, previa deliberación del Consejo de Gobierno y bajo su exclusiva responsabilidad, podrá acordar la disolución de la Asamblea de Extremadura, mediante Decreto en el que se convocarán a su vez elecciones y se establecerán cuantos requisitos exija la legislación electoral aplicable. El mandato de la nueva Asamblea finalizará, en todo caso, cuando debiera hacerlo el de la disuelta.
 
-2. Proclamados los candidatos por el Presidente de la Asamblea expondrán su programa y tras el correspondiente debate se procederá a su elección.
+2. El Decreto de disolución no podrá aprobarse cuando esté en trámite una moción de censura, ni acordarse durante el primer período de sesiones, ni antes de que transcurra un año desde la anterior disolución o reste menos de un año para extinguirse el mandato de la electa. Asimismo, tampoco podrá aprobarse la disolución de la Asamblea cuando se encuentre convocado un proceso electoral estatal.
 
-3. Será proclamado Presidente el candidato que obtuviere la mayoría absoluta De no obtenerla se procederá a una nueva votación cuarenta y ocho horas después de la primera, siendo elegido Presidente quien obtuviera la mayoría simple en la segunda o sucesivas votaciones.
-
-4. Si en el plazo de dos meses, a partir de la primera votación, ninguno hubiera sido proclamado Presidente, la Asamblea quedará disuelta y su Diputación Permanente procederá a convocar nuevas elecciones.
-
-5. El mandato de la nueva Asamblea durará, en todo caso, hasta la fecha en que debiera concluir el de la primera.
+> Se modifica por el art. único.23 de la Ley Orgánica 12/1999 de 6 de mayo. Ref. BOE-A-1999-10225

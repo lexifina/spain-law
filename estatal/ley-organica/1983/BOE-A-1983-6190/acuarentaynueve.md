@@ -1,7 +1,7 @@
 ## Artículo cuarenta y nueve.
 
-1. Las Leyes de la Asamblea de Extremadura estarán excluidas del recurso contencioso-administrativo y únicamente sujetas al control de su constitucionalidad, ejercido por el Tribunal Constitucional.
+1. Las leyes de la Asamblea de Extremadura serán promulgadas en nombre del Rey por el Presidente, en el plazo de quince días, que dispondrá su publicación en el "Diario Oficial'' de la Comunidad Autónoma. Las leyes de la Asamblea serán publicadas igualmente en el "Boletín Oficial del Estado''.
 
-2. Las normas reglamentarias, así como los actos y acuerdos de los órganos ejecutivos y administrativos de la Comunidad Autónoma, serán recurribles ante la jurisdicción contencioso administrativa y, en su caso, ante la jurisdicción competente que corresponda.
+2. Las leyes de la Asamblea de Extremadura entrarán en vigor a los veinte días de su publicación en el "Diario Oficial'', salvo que en ellas se disponga otra cosa.
 
-3. Respecto a la revisión de los actos en vía administrativa se estará a lo dispuesto en la legislación del Estado.
+> Se modifica por el art. único.35 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225

@@ -1,21 +1,13 @@
 ## Artículo veinte.
 
-1. A la Asamblea, que representa al pueblo extremeño, le corresponde:
+1. La Asamblea elegirá, de entre sus miembros, un Presidente, una Mesa y una Diputación Permanente, de acuerdo con lo dispuesto en su Reglamento.
 
-a) El ejercicio de la potestad legislativa de la Comunidad Autónoma.
+2. El Presidente representa a la Asamblea de Extremadura, dirige las sesiones de la misma, sostiene su competencia y ejerce aquellas funciones que le encomiende el Reglamento de la Cámara o la ley.
 
-b) Promover y controlar la acción de la Junta de Extremadura.
+3. La Mesa, que se compone del Presidente y de los Vicepresidentes y Secretarios de la Cámara, en el número que establezca el Reglamento, es el órgano de gobierno interior de la misma, ejerce las potestades administrativas para el funcionamiento de la misma y elabora y ejecuta su Presupuesto, de acuerdo con la ley.
 
-c) Aprobar los presupuestos de la Comunidad Autónoma.
+4. La Diputación Permanente velará por los poderes de la Cámara cuando ésta no se encuentre reunida o se halle disuelta.
 
-d) Designar de entre sus miembros los Senadores correspondientes a la Comunidad Autónoma, según lo establecido en el artículo 69.5 de la Constitución Dichos Senadores serán designados en proporción al número de miembros de los grupos políticos representados en la Asamblea.
+5. El Reglamento de la Cámara determinará el régimen jurídico y elección de estos órganos.
 
-e) Interponer recurso de inconstitucionalidad de acuerdo con lo dispuesto en el artículo 162.1.a), de la Constitución.
-
-f) Solicitar del Gobierno de la Nación la adopción de proyectos de ley o remitir a la Mesa del Congreso de los Diputados proposiciones de ley conforme al artículo 87.2 de la Constitución.
-
-g) El control de los medios de comunicación social dependientes de la Comunidad Autónoma.
-
-h) Y cualquier otra facultad o función que se derive de la Constitución, del presente Estatuto y del Ordenamiento jurídico vigente, instado especialmente por el cumplimiento del principio de solidaridad nacional, expresado en los artículos 2.º y 138 de la Constitución.
-
-2. La Asamblea de Extremadura es inviolable y no podrá ser disuelta salvo en el supuesto previsto en el artículo 34.4 del presente Estatuto.
+> Se modifica por el art. único.15 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225

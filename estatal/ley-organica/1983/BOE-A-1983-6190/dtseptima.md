@@ -1,3 +1,5 @@
-## Séptima.
+## Disposición transitoria séptima.
 
-El Estado otorgará en régimen de concesión a la Comunidad Autónoma la utilización de un tercer canal de TV de titularidad estatal, que deba cerrarse específicamente para su emisión en el territorio de Extremadura, en los términos que prevea la citada concesión.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225

@@ -1,5 +1,9 @@
 ## Artículo treinta y nueve.
 
-1. La Junta de Extremadura es el órgano colegiado que ejerce las funciones ejecutivas y administrativas propias del Gobierno de la Comunidad.
+1. Los miembros de la Junta de Extremadura residirán necesariamente en Extremadura.
 
-2. Asimismo, ejercerá aquellas otras que le sean encomendadas por ley, y en especial, interponer el recurso de inconstitucionalidad, plantear y personarse, por propia iniciativa o previo acuerdo de la Asamblea, ante el Tribunal Constitucional en los conflictos de competencia a que se refiere el artículo 161, 1, c), de la Constitución.
+2. Los miembros de la Junta de Extremadura no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o empresarial alguna.
+
+> Se modifica por la disposición final 1 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225
+
+> Su anterior numeración era art. 41.

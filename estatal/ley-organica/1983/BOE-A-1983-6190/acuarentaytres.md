@@ -1,7 +1,9 @@
 ## Artículo cuarenta y tres.
 
-1. El Tribunal Superior de Justicia de Extremadura, en el que se integrará la actual Audiencia Territorial de Cáceres, es el órgano judicial en el que culminará la organización judicial en su ámbito territorial y ante el que se agotarán las sucesivas instancias procesales, en los términos del artículo 152 de la Constitución y de acuerdo con el presente Estatuto y las Leyes orgánicas del Poder Judicial y del Consejo General del Poder Judicial.
+En relación con la Administración de Justicia corresponderán a la Asamblea de Extremadura, y de acuerdo con las leyes orgánicas y procesales del Estado:
 
-2. El Presidente del Tribunal Superior de Justicia de Extremadura será nombrado por el Rey a propuesta del Consejo General del Poder Judicial.
+a) Fijar por ley la capitalidad de las demarcaciones judiciales de ámbito inferior a la provincia.
 
-El Presidente de la Junta de Extremadura ordenará la publicación de dicho nombramiento en el «Diario Oficial de Extremadura».
+b) Presentar al Consejo General del Poder Judicial la terna de juristas de reconocida competencia y prestigio, para proveer las plazas vacantes que corresponda cubrir en el Tribunal Superior de Justicia, de acuerdo con lo dispuesto en la Ley Orgánica del Poder Judicial.
+
+> Se modifica por el art. único.30 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225

@@ -1,3 +1,7 @@
 ## Artículo cincuenta y cuatro.
 
-Una Ley de la Asamblea, a propuesta de la Junta de Extremadura creará y regulará el funcionamiento de un órgano de carácter consultivo no vinculante que dictaminará, en los casos que la propia Ley determine, sobre la adecuación, al presente Estatuto y al ordenamiento jurídico vigente, de las normas, disposiciones o leyes que hayan de ser aprobadas por los órganos de la Comunidad Autónoma.
+Para el ejercicio y desarrollo de sus competencias, la Comunidad Autónoma gozará de autonomía financiera, dominio público y patrimonio propio de acuerdo con la Constitución, la Ley Orgánica de Financiación de las Comunidades Autónomas y el presente Estatuto.
+
+> Se modifica por la disposición final 1 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225
+
+> Su anterior numeración era art. 55.

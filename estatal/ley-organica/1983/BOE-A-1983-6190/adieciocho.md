@@ -1,5 +1,7 @@
 ## Artículo dieciocho.
 
-La Comunidad Autónoma podrá elaborar y remitir al Gobierno de la Nación cualquier informe estudio o propuesta relativo a la gestión de dichas Empresas o a su incidencia en la situación socioeconómica de la región.
+La Comunidad Autónoma ejercerá sus poderes a través de la Asamblea de Extremadura, de la Junta de Extremadura y de su Presidente.
 
-Los informes, estudios y propuestas darán lugar a resolución motivada del Gobierno de la Nación o de los Organismos o Entidades titulares de la participación de las Empresas.
+> Se modifica por la disposición final 1 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225
+
+> Su anterior numeración era art. 19.

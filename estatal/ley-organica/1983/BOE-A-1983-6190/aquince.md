@@ -1,3 +1,7 @@
 ## Artículo quince.
 
-Tanto en el ejercicio de las competencias propias como de las que la Comunidad reciba del Estado por transferencia o delegación, sus instituciones de gobierno tendrán como objetivo primordial promover, con el apoyo necesario del Estado, las condiciones favorables para el progreso social y económico en la región y velarán por la consecución de un equilibrio económico adecuado y justo con respecto al resto de las Comunidades del Estado español cifrado en un nivel y calidad de vida para todos los que viven y trabajan en Extremadura igual, como mínimo, a los valores medios alcanzados en el resto de España.
+1. La Comunidad Autónoma de Extremadura será informada por el Gobierno de la Nación del proceso de negociación y elaboración de los trabajos y convenios internacionales que afecten a materias de su específico interés, pudiendo emitir, en su caso, su parecer.
+
+2. La Comunidad Autónoma ejecutará los tratados y convenios internacionales suscritos por el Reino de España en lo que afecten a materias de su competencia.
+
+> Se modifica por el art. único.11 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225

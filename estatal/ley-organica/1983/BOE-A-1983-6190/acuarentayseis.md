@@ -1,5 +1,9 @@
 ## Artículo cuarenta y seis.
 
-1. El nombramiento de los Magistrados, Jueces y Secretarios del Tribunal Superior de Justicia de Extremadura se efectuará en la forma prevista en las Leyes Orgánicas del Poder Judicial y de su Consejo General.
+1. Las leyes de la Asamblea de Extremadura estarán excluidas del recurso contencioso-administrativo y únicamente sujetas al control de su constitucionalidad, ejercido por el Tribunal Constitucional.
 
-2. A instancia de la Comunidad Autónoma, el órgano competente deberá convocar los concursos y oposiciones para cubrir las plazas vacantes de Magistrados Jueces y Secretarios en Extremadura, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial.
+2. Las normas reglamentarias, así como los actos y acuerdos de los órganos ejecutivos y administrativos de la Comunidad Autónoma, serán recurribles ante la jurisdicción contencioso-administrativa y, en su caso, ante la jurisdicción competente que corresponda.
+
+3. Respecto a la revisión de los actos en vía administrativa se estará a lo dispuesto en la legislación básica del Estado, sin perjuicio de su desarrollo y de la adaptación a las peculiaridades organizativas de la Comunidad Autónoma de Extremadura.
+
+> Se modifica por el art. único.33 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225

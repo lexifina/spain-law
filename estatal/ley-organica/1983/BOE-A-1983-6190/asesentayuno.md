@@ -1,29 +1,17 @@
 ## Artículo sesenta y uno.
 
-Corresponde a la Junta de Extremadura, sin perjuicio de lo dispuesto en el artículo anterior y concordantes de este Estatuto:
+1. La Comunidad Autónoma, como poder público, mediante acuerdo de la Asamblea y a propuesta de la Junta de Extremadura, podrá hacer uso de las facultades previstas en el artículo 130 de la Constitución, presentando especial atención a las necesidades de la agricultura y la ganadería.
 
-a) La elaboración y ejecución del presupuesto de la Comunidad Autónoma, que se habrá de presentar a la Asamblea para su examen, enmienda, aprobación y control antes del último trimestre del año.
+2. Asimismo, de acuerdo con la legislación del Estado en la materia, podrá fomentar las sociedades cooperativas y hacer uso de las demás facultades previstas en el artículo 129.2 de la Constitución.
 
-Dicho presupuesto será único, con carácter anual, e incluirá la totalidad de los gastos e ingresos de los organismos, instituciones y empresas dependientes de la Comunidad, y en él se consignará el importe de los beneficios fiscales que afecten a tributos cedidos a la Comunidad Autónoma.
+3. Toda la riqueza de la región, en sus distintas formas y sea cualesquiera la titularidad, está subordinada a los intereses generales de la Comunidad.
 
-Si la Ley del Presupuesto no se aprobara antes del primer día del ejercicio económico correspondiente, se considerará prorrogado el Presupuesto del ejercicio anterior hasta la aprobación del nuevo.
+4. De acuerdo con lo establecido en el artículo 8, la Comunidad Autónoma podrá, mediante ley, planificar la actividad económica regional, en el marco de la planificación general del Estado.
 
-b) La conformidad para tramitar toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos presupuestarios.
+5. La Comunidad Autónoma, dentro de las normas generales del Estado, podrá adoptar medidas que posibiliten la captación y afirmación del ahorro regional.
 
-c) La aprobación y aplicación de los reglamentos generales de sus propios tributos.
+6. Se reconoce la iniciativa pública en la actividad económica, mediante ley, y la participación social en organismos e instituciones cuya función afecte a la calidad de vida.
 
-d) La promoción y realización, conjuntamente con el Estado, de proyectos concretos de inversión con la correspondiente aprobación, en cada caso, de la Asamblea de Extremadura, aun cuando los recursos financieros que se comprometan por la Comunidad provengan total o parcialmente de las transferencias del Fondo de Compensación a que tuviera derecho con arreglo a la Ley.
+7. La Comunidad Autónoma podrá, a través de la ley correspondiente, constituir un órgano económico-administrativo que conozca y resuelva las reclamaciones interpuestas contra los actos dictados por la Administración tributaria de la Comunidad Autónoma cuando se trate de tributos propios de ésta, tanto si se sustancian cuestiones de hecho como de derecho.
 
-e) La gestión, liquidación, recaudación e inspección de los tributos propios de la Comunidad Autónoma, así como las atribuciones necesarias para la ejecución y organización de dichas tareas, incluso el establecimiento de la adecuada colaboración con la Administración Tributaria del Estado.
-
-f) Asumir, por delegación del Estado, la gestión, liquidación, inspección y revisión, en su caso, de los tributos cedidos, así como el establecimiento de la adecuada colaboración con la Administración Tributaria del Estado.
-
-g) Realizar operaciones de crédito por plazo inferior a un año, con objeto de cubrir sus necesidades transitorias de Tesorería, dando cuenta a la Asamblea de Extremadura.
-
-h) Cualesquiera otras facultades que, con la aceptación de la Junta de Extremadura, la Administración Tributaria del Estado delegue en la Comunidad Autónoma, en materia de gestión, liquidación recaudación, inspección y revisión de los demás tributos del Estado recaudados en Extremadura.
-
-i) Proponer a la Asamblea de Extremadura para su tramitación, como proyecto de Ley, la constitución de empresas públicas o instituciones que fomenten la plena ocupación y el desarrollo económico y social en el marco de sus competencias.
-
-j) 1. Designar representantes de la Comunidad en los órganos económicos, instituciones financieras y en las empresas públicas del Estado cuya competencia se extienda al territorio de Extremadura y que por su naturaleza no sean objeto de transferencia, de acuerdo con lo que establezcan las leyes del Estado y dando cuenta a la Asamblea de Extremadura.
-
-2. Designar los miembros correspondientes a la Comunidad Autónoma en la Comisión u otros organismos de carácter mixto, dando cuenta a la Asamblea.
+> Se modifica por el art. único.42 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225

@@ -1,3 +1,5 @@
 ## Artículo cincuenta y tres.
 
-Las normas, disposiciones y actos que lo requieran, emanados de los órganos de la Comunidad Autónoma, serán publicados en el «Diario Oficial». Esta publicación será suficiente a todos los efectos para la validez de los actos y la entrada en vigor de tales disposiciones y normas. En relación con la publicación en el «Boletín Oficial del Estado» se estará a lo que disponga la correspondiente norma estatal.
+Una ley de la Asamblea creará y regulará el régimen jurídico y funcionamiento de un órgano de control económico y presupuestario de las instituciones de la Comunidad Autónoma, sin perjuicio de las atribuciones del Tribunal de Cuentas del Estado.
+
+> Se modifica por el art. único.38 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225

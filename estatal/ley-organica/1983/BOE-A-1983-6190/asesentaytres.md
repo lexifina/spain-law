@@ -1,15 +1,7 @@
 ## Artículo sesenta y tres.
 
-La reforma del Estatuto se ajustará al procedimiento siguiente:
+Si el proyecto de reforma no es aprobado por la Asamblea de Extremadura o por las Cortes Generales, no podrá presentarse nuevamente a debate y votación de la Asamblea hasta que haya transcurrido un año, sin perjuicio del plazo de cinco años previsto en el artículo 148, 2, de la Constitución, cuando la modificación del Estatuto implique la asunción de nuevas competencias.
 
-1. La iniciativa de la reforma corresponderá:
+> Se modifica por la disposición final 1 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225
 
-a) A la Junta de Extremadura.
-
-b) A la Asamblea de Extremadura, a propuesta de una tercera parte de sus miembros.
-
-c) A las Cortes Generales.
-
-2. La propuesta de reforma requerirá en todo caso la aprobación de la Asamblea de Extremadura por mayoría de dos tercios de sus miembros.
-
-3. La reforma del Estatuto requerirá la aprobación de las Cortes Generales mediante Ley Orgánica.
+> Su anterior numeración era art. 64.

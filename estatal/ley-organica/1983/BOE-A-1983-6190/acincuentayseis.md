@@ -1,11 +1,11 @@
 ## Artículo cincuenta y seis.
 
-1. El patrimonio de la Comunidad Autónoma estará formado por:
+1. Dentro del principio de solidaridad, la actividad financiera de la Comunidad Autónoma se ejercerá en coordinación con la Hacienda del Estado y de conformidad con los principios generales establecidos en la Ley Orgánica de Financiación de las Comunidades Autónomas.
 
-a) Los bienes y derecho pertenecientes a la Junta Regional de Extremadura.
+2. La Junta de Extremadura, bajo el control de la Asamblea de Extremadura, ejercerá sus poderes en materia fiscal y financiera. de acuerdo con dicho principios generales.
 
-b) Los bienes afectos a Servicios traspasados o que en el futuro se transfieran a la Comunidad Autónoma.
+3. La Comunidad Autónoma extremeña gozará del tratamiento fiscal que la Ley establezca para el Estado.
 
-c) Los bienes y derechos adquiridos por la Comunidad Autónoma por cualquier título jurídico válido.
+> Se modifica por la disposición final 1 de la Ley Orgánica 12/1999, de 6 de mayo. Ref. BOE-A-1999-10225
 
-2. El régimen jurídico de los bienes patrimoniales y de dominio publico de la Comunidad Autónoma, su administración, defensa y conservación serán regulados por una Ley de la Asamblea de Extremadura, en el marco de la legislación básica del Estado.
+> Su anterior numeración era art. 57.
