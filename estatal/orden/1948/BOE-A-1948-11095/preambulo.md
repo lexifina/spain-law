@@ -1,0 +1,7 @@
+Ilmo. Sr.: El Decreto de 4 de junio de 1948, al desarrollar la Ley de 4 de mayo del mismo año, por la que se restableció la legalidad vigente con anterioridad al 14 de abril de 1931, en Grandeza y Títulos del Reino, dispuso en la primera de sus disposiciones transitorias que los expedientes pendientes solo de algún requisito complementario en la expresada fecha, podrían seguir tramitándose a petición de los interesados; siguiendo su curso en el mismo período en que se hallaren y sin retroceder en ningún caso su tramitación.
+
+Mas en alguno de dichos expedientes se han formulado reclamaciones por personas que alegan les asiste mejor derecho que al primer solicitante, a las que no hay posibilidad de atender sin retroceder el trámite del expediente por haber transcurrido el término de los llamamientos que se hicieron con anterioridad al 14 de abril de 1931.
+
+Por ello, se hace preciso arbitrar una fórmula que impida el que pueda concederse la sucesión o rehabilitación de un Título nobiliario a favor de determinada persona, si existe otra de mejor derecho, evitando al propio tiempo que el reclamante tenga que seguir los trámites dilatorios que representa el acudir a los Tribunales de Justicia para el reconocimiento de su derecho, siempre más gravoso que la vía administrativa.
+
+En su virtud, este Ministerio, en uso de la autorización concedida por la disposición final del referido Decreto, ha tenido a bien disponer:
