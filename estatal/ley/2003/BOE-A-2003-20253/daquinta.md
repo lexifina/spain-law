@@ -1,0 +1,9 @@
+## Disposición adicional quinta. El Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información.
+
+1. El Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información, presidido por el Minis tro de Ciencia y Tecnología o por la persona en quien delegue, es un órgano asesor del Gobierno en materia de telecomunicaciones y sociedad de la información.
+
+2. Las funciones del Consejo serán de estudio, deliberación y propuesta en materias relativas a las telecomunicaciones y a la sociedad de la información, sin perjuicio de las competencias que correspondan a los órganos colegiados interministeriales con competencias de informe al Gobierno en materia de política informática.
+
+Le corresponderá, igualmente, informar sobre los asuntos que el Gobierno determine o sobre los que, por propia iniciativa, juzgue conveniente. El informe del Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información equivaldrá a la audiencia a la que se refiere el artículo 24.1.c) de la Ley 50/1997, de 27 de noviembre, del Gobierno.
+
+El Gobierno, mediante real decreto, establecerá la composición y el régimen de funcionamiento del Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información, cuyos miembros representarán a la Administración General del Estado, a las Administraciones autonómicas, a la Administración local a través de sus asociaciones o federaciones más representativas, a los usuarios, incluyendo en todo caso a los discapacitados a través de sus organizaciones más representativas, a los operadores que presten servicios o exploten redes públicas de comunicaciones electrónicas, a los prestadores de servicios de la sociedad de la información, a las industrias fabricantes de equipos de telecomunicaciones y de la sociedad de la información y a los sindicatos más representativos del sector.

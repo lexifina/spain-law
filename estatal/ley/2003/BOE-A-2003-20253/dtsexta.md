@@ -1,0 +1,9 @@
+## Disposición transitoria sexta. Régimen transitorio de las obligaciones en materia de televisión.
+
+1. Seguirán siendo aplicables las disposiciones sobre el sistema de garantía de cobertura de los servicios soporte de los servicios de televisión, establecido actualmente en la Orden de 9 de marzo de 2000, por la que se aprueba el Reglamento de desarrollo de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones, en lo relativo al uso del dominio público radioeléctrico, hasta tanto no se mantengan, modifiquen o eliminen a través del procedimiento de fijación de mercados de referencia y poder significativo en el mercado con obligaciones a los operadores que se designen establecido en esta ley o se impongan, en su caso, las correspondientes obligaciones de servicio público.
+
+2. Igualmente seguirán siendo aplicables las obligaciones contenidas en la Ley 17/1997, de 3 de mayo, por la que se incorpora al derecho español la Directiva 95/47/CE, del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, sobre el uso de normas para la transmisión de señales de televisión y se aprueban medidas adicionales para la liberalización del sector, modificada por el Real Decreto Ley 16/1997, de 13 de septiembre, hasta tanto no se desarrollen reglamentariamente los apartados 1 y 2 de la disposición adicional séptima de esta ley.
+
+Lo dispuesto en los dos apartados anteriores no perjudica la posibilidad de transformar las obligaciones referidas en ellos en otras obligaciones de servicio público conforme al artículo 25 de esta ley.
+
+3. Asimismo, seguirán siendo aplicables las obligaciones de transmisión establecidas en los párrafos e), f) y g) del apartado 1 del artículo 11 de la Ley 42/1995, de 22 de diciembre, de las Telecomunicaciones por Cable, hasta tanto no se supriman, modifiquen o sustituyan conforme a lo dispuesto en el apartado 4 de la disposición adicional séptima de esta ley.

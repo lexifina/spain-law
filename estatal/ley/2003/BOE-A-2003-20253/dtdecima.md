@@ -1,0 +1,11 @@
+## Disposición transitoria décima. Régimen de los servicios de difusión por cable.
+
+Los títulos habilitantes otorgados para los servicios de difusión de radio y televisión por cable y los que se encuentren en proceso de otorgamiento al amparo de la Ley 42/1995, de 22 de diciembre, de Telecomunicaciones por Cable, se transformarán de manera inmediata por la Comisión del Mercado de las Telecomunicaciones en la correspondiente autorización administrativa. Si el ámbito territorial de actuación del servicio no excediera del correspondiente a una comunidad autónoma, la Comisión del Mercado de las Telecomunicaciones comunicará al órgano competente de la comunidad autónoma la transformación en autorización administrativa.
+
+Hasta que se apruebe el reglamento a que se refiere la disposición adicional décima de esta ley, a las autorizaciones que resulten de la transformación prevista en el párrafo anterior les serán de aplicación los artículos 10.1, 10.2 y 12 de la Ley 42/1995, de 22 de diciembre, de Telecomunicaciones por Cable.
+
+No obstante lo dispuesto en la disposición adicional décima, no se otorgarán nuevas autorizaciones para la prestación de los servicios de difusión por cable antes del 31 de diciembre de 2009, salvo que el Gobierno a partir del 31 de diciembre de 2005, previo dictamen razonado de la Comisión de Mercado de las Telecomunicaciones relativo a la situación global de extensión de las redes de cable considere conveniente la modificación de dicho término.
+
+Vencido el término a que se refiere el artículo anterior, el otorgamiento de las autorizaciones se realizará conforme a lo que se establezca por reglamento. En el mismo se establecerán las condiciones de prestación del servicio, que serán aplicables tanto a los titulares previstos en el párrafo anterior como a los que obtengan las autorizaciones mencionadas en éste.
+
+Sin perjuicio de lo establecido en los párrafos anteriores, podrán otorgarse nuevas autorizaciones para la prestación de los servicios de difusión por cable antes de la fecha mencionada, una vez que haya entrado en vigor el reglamento previsto por la disposición adicional décima, dentro del ámbito de las demarcaciones territoriales constituidas conforme a la Ley 42/1995, de 22 de diciembre, de Telecomunicaciones por Cable, en las que hubieran quedado desiertos los concursos convocados a su amparo.

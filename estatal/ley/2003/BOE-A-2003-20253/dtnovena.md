@@ -1,0 +1,3 @@
+## Disposición transitoria novena. Resolución de procedimientos sancionadores por el envío no autorizado de comunicaciones comerciales por correo electrónico iniciados antes de la entrada en vigor de esta ley.
+
+La Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información del Ministerio de Ciencia y Tecnología podrá resolver conforme a la regulación vigente de la Ley de Servicios de la Sociedad de la Información y de Comercio Electrónico a la entrada en vigor de esta ley, los procedimientos sancionadores por el envío no autorizado de comunicaciones comerciales por correo electrónico o medios de comunicación electrónica equivalentes iniciados al amparo de dicha ley, que no hubieran concluido a la entrada en vigor de esta ley.
