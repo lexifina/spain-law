@@ -1,0 +1,5 @@
+## Disposición adicional primera. Habilitación del profesorado de formación profesional.
+
+1. Los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Formación Profesional, sin perjuicio de seguir desempeñando sus funciones en la formación profesional específica, de acuerdo con lo establecido en la disposición adicional décima, apartado 1, de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, y de conformidad con lo que establezcan las normas básicas que determinan la atribución de la competencia docente a los profesores de dichos Cuerpos, podrán desempeñar funciones en los demás ámbitos de la formación profesional regulada en esta Ley, de conformidad con su perfil académico y profesional y con lo que al efecto determinen las Administraciones competentes.
+
+2. A los efectos previstos en el artículo 3 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal Laboral al Servicio de las Administraciones Públicas, la impartición de la formación, en sus distintos ámbitos, tendrá la consideración de interés público.
