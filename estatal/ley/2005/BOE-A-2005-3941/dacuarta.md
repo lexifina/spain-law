@@ -1,0 +1,3 @@
+## Disposición adicional cuarta.
+
+El Gobierno, en el plazo de seis meses desde la entrada en vigor de la presente Ley, remitirá un informe al Congreso de los Diputados, para su debate en el seno de la Comisión de Industria, Turismo y Comercio, en el que se analizará el impacto económico de la aplicación de la Directiva 2003/87/CE, de 13 de octubre, así como de la legislación y normativa de transposición en el Estado español, para los sectores industriales y energéticos en España afectados por las mismas, poniendo especial énfasis en los efectos que afecten a éstos respecto a su competitividad en el mercado interior e internacional.
