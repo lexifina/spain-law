@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+Queda prohibida la salida del territorio español de las pesas, balanzas, instrumentos y, en general, toda clase de objetos metrológicos que posean significación histórica, o tengan una antigüedad superior a cincuenta años, salvo cuando se autorice reglamentariamente su exportación temporal para exhibiciones. Sin perjuicio del cumplimiento de lo dispuesto en la legislación del patrimonio histórico-artístico, el Ministerio de Economía y Hacienda, previa aprobación del Ministerio de la Presidencia, podrá autorizar la exportación definitiva de objetos metrológicos que no poseyendo significación histórica tengan una antigüedad superior a cincuenta años.
