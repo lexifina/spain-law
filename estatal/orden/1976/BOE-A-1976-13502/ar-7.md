@@ -1,0 +1,3 @@
+## Artículo 7.
+
+Los perros que circulen en poblaciones o vías interurbanas desprovistos de collar con la chapa numerada de matrícula, o sin ser conducidos por una persona, así como aquellos cuyo propietario o poseedor no esté en poder de la correspondiente Tarjeta Sanitaria, serán recogidos por los servicios municipales o de las Diputaciones, según lo previsto en la Orden ministerial de 5 de diciembre de 1974, y a su sacrificio procederá en período de retención de tres días, durante el cual podrán ser recogidos por la persona que acredite ser su propietario o poseedor. Cuando tas circunstancias así lo aconsejen, dicho período se reducirá a veinticuatro horas.
