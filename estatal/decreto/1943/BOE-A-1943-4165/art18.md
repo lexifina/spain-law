@@ -1,5 +1,5 @@
-## Art. 18. Incumplimiento de lo legislado e inspecciones.
+## Art. 18. Cumplimiento de las normas reglamentarias.
 
-Si por incumplimiento de lo preceptuado se produjeren daños a la riqueza acuícola, como consecuencia de la incorporación a las aguas de residuos nocivos, además de la multa, cuya cuantía se fijará oportunamente, la entidad industrial satisfará también una indemnización, equivalente al importe de los daños ocasionados, según valoración hecha por el Servicio Piscícola.
+Si la entidad o explotación industrial no adaptara las características de sus vertimientos a las normas señaladas por el Servicio Nacional de Pesca Fluvial y Caza éste, aparte de exigir el pago de daños y perjuicios padecidos por la riqueza piscícola, lo pondrá en conocimiento de la Comisaria de Aguas de la cuenca correspondiente para que ésta obligue al interesado a cumplir las normas reglamentarias.
 
-Este está obligado a inspeccionar la ejecución y funcionamiento de las instalaciones propuestas para cada caso.
+> Se modifica por el art. 1 del Decreto 2237/1966, de 13 de agosto. Ref. BOE-A-1966-15517.

@@ -1,3 +1,5 @@
-## Art. 20. Aguas fecales.
+## Art. 20. Inspecciones.
 
-En los proyectos de alcantarillado para poblaciones se estudiarán y ejecutarán aquellas soluciones que, contribuyendo al aprovechamiento industrial de las aguas residuales, eviten los graves perjuicios ocasionados a la riqueza acuícola por la incorporación de un gran volumen de materias fecales a las masas de agua. El Servicio Piscícola, al que se dará cuenta de las resoluciones propuestas, informará sobre las mismas; y, si por ser el informe contrario no hubiere acuerdo, resolverá la Presidencia del Gobierno.
+En lo que pueda afectar a la riqueza piscícola, compete al Servicio Nacional de Pesca Fluvial y Caza inspeccionar el funcionamiento de las instalaciones industriales, así como las redes de evacuación de las aguas residuales tomando cuantas muestras considere convenientes con el fin de analizar la composición y características de estas aguas.
+
+> Se modifica por el art. 1 del Decreto 2237/1966, de 13 de agosto. Ref. BOE-A-1966-15517.

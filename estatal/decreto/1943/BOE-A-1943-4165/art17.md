@@ -1,3 +1,5 @@
-## Art. 17. Obras fuera de plazo.
+## Art. 17. Plazos para adoptar las medidas depuradoras.
 
-Si la entidad industrial no realizara en el tiempo señalado el plan de medidas aprobado, lo llevará a cabo la Administración por cuenta de aquélla, a la que se impondrá una multa equivalente al cinco por ciento del presupuesto total de ejecución, y satisfará también al Estado un interés que, como máximo, será del siete por ciento al año del capital anticipado por éste para la ejecución de lo proyectado
+En los casos de industrias o explotaciones ya establecidas y cuando el expediente afecte a la competencia del Ministerio de Industria se oirá a dicho Departamento, el cual emitirá informe en el plazo de quince días, correspondiendo al Servicio Nacional de Pesca Fluvial y Caza fijar los plazos en que las mismas deberán corregir sus vertimientos para que las aguas afectadas reúnan las características cualitativas y cuantitativas que señale el referido Servicio a tenor de lo preceptuado en el artículo quince del presente Reglamento. La notificación a los interesados tanto del plazo concedido para corregir los vertimientos como de las características de las aguas afectadas, deberá hacerse a través de los Servicios competentes del Ministerio de Obras Públicas. Transcurrido este plazo el expediente de armonización de los intereses industriales y piscícolas se tramitará en la forma prevista en el artículo anterior.
+
+> Se modifica por el art. 1 del Decreto 2237/1966, de 13 de agosto. Ref. BOE-A-1966-15517.
