@@ -1,0 +1,3 @@
+## Segundo.
+
+Se entiende por «aceite de orujo refinado y de oliva», el aceite constituido por una mezcla de aceite de orujo de aceitunas refinado y de aceite de oliva virgen. Dichos componentes deberán cumplir las exigencias de obtención, características y requisitos que los hacen aptos para usos alimenticios, conforme a la Reglamentación Técnico-Sanitaria de Aceites Vegetales Comestibles, aprobada por Real Decreto 308/1983, de 25 de enero, y modificada o completada por los Reales Decretos 2813/1983, de 13 de octubre, y 259/1985, de 20 de febrero, y demás disposiciones que la desarrollan o complementan.
