@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.30.a de la Constitución, y en uso de la competencia exclusiva del Estado para la regulación de las condiciones para la obtención, expedición y homologación de títulos académicos y profesionales válidos en todo el territorio español, recogida expresamente en la disposición adicional primera, apartado 2, de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y en virtud de la habilitación que confiere al Gobierno la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, en su artículo 43.3, a excepción de los artículos 3 y 4, que tienen carácter de norma básica.
