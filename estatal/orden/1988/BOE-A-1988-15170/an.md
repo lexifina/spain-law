@@ -234,4 +234,6 @@ BOQUILLA PARA GASES DE LA 3 FAMILIA
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/147/15170_008.png)
 
+> Se amplía, hasta el 25 de febrero de 1990, la fecha de entrada en vigor de las ITC MIE-AG 1 y MIE-AG 2 por el apartado 1 de la Orden de 5 de julio de 1989. Ref. BOE-A-1989-16572
+
 > Se amplía, hasta el 25 de mayo de 1989, la fecha de entrada en vigor de las ITC MIE-AG 1 y MIE-AG 2 por el apartado 1 de la Orden de 17 de noviembre de 1988. Ref. BOE-A-1988-27498
