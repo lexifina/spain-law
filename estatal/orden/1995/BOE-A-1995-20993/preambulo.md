@@ -1,0 +1,3 @@
+El punto primero del artículo 38 de la Ley 30/1992, de 16 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, establece que los órganos administrativos llevarán un registro general, en el que se hará el correspondiente asiento de todo escrito o comunicación que sea presentado o que se reciba en cualquier unidad administrativa, anotándose en el mismo la salida de escritos y comunicaciones oficiales dirigidas a otros órganos o particulares.
+
+En su virtud, y a los efectos de determinar, dentro del departamento y organismos adscritos, los registros generales existentes, previa aprobación del Ministro para las Administraciones Públicas, dispongo:
