@@ -1,0 +1,7 @@
+## Art. 45.
+
+1. El Instituto Social de la Marina, con independencia del cumplimiento de todos los demás fines que le atribuye su Ley fundacional y manteniendo la debida separación de recursos, realizará la gestión del Régimen Especial de la Seguridad Social de los Trabajadores del Mar, incluida la de accidentes de trabajo y enfermedades profesionales, teniendo a estos efectos el carácter de Entidad Gestora de la Seguridad Social.
+
+2. Para el cumplimiento de sus fines, el Instituto Social de la Marina tendrá plena capacidad jurídica y patrimonial y gozará del beneficio de pobreza a efectos jurisdiccionales. Disfrutará en la misma medida que el Estado de exención tributaria absoluta, incluidas las tasas y exacciones parafiscales que puedan gravar en favor del Estado y Corporaciones locales y demás entes públicos, los actos que realicen o los bienes que adquieran o posean afectos a sus fines, siempre que los tributos y exacciones de que se trate recaigan directamente sobre el Instituto Social de la Marina en concepto legal de contribuyente y sin que seas posible legalmente la traslación de la carga tributaria a otras personas. Gozará, finalmente, en la misma medida que el Estado de franquicia postal y telegráfica.
+
+3. El Instituto Social de la Marina se considerará comprendido en el artículo 5 de la Ley de 26 de diciembre de 1958 del Régimen Jurídico de las Entidades Estatales Autónomas.
