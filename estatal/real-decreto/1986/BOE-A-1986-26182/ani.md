@@ -1,32 +1,38 @@
 ## ANEXO I
 
-1. Vehículos automóviles y sus partes y piezas
+1. Vehículos Automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_004.png)
 
 2. Tractores agrícolas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_007.png)
+3. Vehículos de 2 ó 3 ruedas y cuatriciclos
 
-3. Vehículos de 2 o 3 ruedas y cuadriciclos
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_009.png)
 
-4. Varios
+4. Vehículos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_010.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_011.png)
+
+> Se modifica por la Orden de 9 de diciembre de 1997. Ref. BOE-A-1998-52.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 66, de 18 de marzo de 1998. Ref. BOE-A-1998-6466.
 
 > Se modifica por la Orden de 25 de abril de 1997. Ref. BOE-A-1997-9873.
 

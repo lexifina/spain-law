@@ -1,10 +1,16 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_014.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_015.png)
+
+> Se modifica por la Orden de 9 de diciembre de 1997. Ref. BOE-A-1998-52.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 66, de 18 de marzo de 1998. Ref. BOE-A-1998-6466.
 
 > Se modifica por la Orden de 25 de abril de 1997. Ref. BOE-A-1997-9873.
 
