@@ -7,3 +7,5 @@
 3. La Comisión Consultiva Nacional de Asuntos Taurinos, o el órgano competente de la Comunidad Autónoma, dará traslado al Consejo General de Colegios Veterinarios de las quejas o denuncias que reciba respecto de cualquier actividad profesional desarrollada por los veterinarios en los espectáculos taurinos.
 
 El Consejo General de Colegios Veterinarios o, en su caso, el Colegio respectivo estarán obligados a comunicar a la Comisión Consultiva Nacional de Asuntos Taurinos y al órgano competente de la Comunidad Autónoma que haya dado traslado de las quejas o denuncias, la resolución recaída en la información o procedimiento que se iniciare.
+
+> Se declara la nulidad del inciso destacado del apartado 2 por Sentencia del TS de 21 de septiembre de 1999. Ref. BOE-A-1999-22821.
