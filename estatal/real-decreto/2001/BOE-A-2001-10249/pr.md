@@ -1,0 +1,15 @@
+La Ley 17/1993, de 23 de diciembre, de acceso a determinados sectores de la función pública de los nacionales de los demás Estados miembros de la Unión Europea, modificada por la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, establece que, de acuerdo con el derecho comunitario, los nacionales de los demás Estados miembros de la Unión Europea podrán acceder en igualdad de condiciones que los españoles a todos los empleos públicos, salvo que impliquen una participación directa o indirecta en el ejercicio del poder público y se trate de funciones que tengan por objeto la salvaguarda de los intereses del Estado o de las Administraciones públicas.
+
+La Ley 17/1993, de 23 de diciembre, modificada por el artículo 37 de la Ley 55/1999, de 29 de diciembre, extiende su aplicación al cónyuge de los españoles y de los nacionales de otros Estados miembros de la Unión Europea, siempre que no estén separados de derecho, así como a sus descendientes y a los de su cónyuge, siempre que no estén separados de derecho, menores de veintiún años o mayores de dicha edad que vivan a sus expensas, al igual que se establece en el Real Decreto 766/1992, de 26 de junio, de entrada y permanencia en España de nacionales de Estados miembros de las Comunidades Europeas parcialmente modificado por los Reales Decretos 737/1995, de 5 de mayo, y 1710/1997, de 14 de noviembre.
+
+El derecho de acceso al empleo público se extiende también a las personas incluidas en el ámbito de aplicación de Tratados internacionales celebrados por la Comunidad Europea y ratificados por España, en los que sea de aplicación la libre circulación de trabajadores.
+
+El artículo 1.3 de la Ley 17/1993, de 23 de diciembre, prevé que el Gobierno o, en su caso, los órganos correspondientes de las Comunidades Autónomas o de las demás Administraciones públicas, en el ámbito de sus respectivas competencias, determinarán los Cuerpos, Escalas, plazas, empleos o puestos a los que no puedan acceder los nacionales de los demás Estados miembros de la Unión Europea.
+
+A tal efecto, el presente Real Decreto recoge el principio de acceso al empleo público de los nacionales de otros Estados en condiciones de igualdad con los españoles, estableciendo el ámbito objetivo y subjetivo de aplicación de dicho principio, y aprueba la relación de Cuerpos y Escalas a los que no podrán acceder los nacionales de otros Estados y que figuran en el anexo, ordenados de acuerdo con su adscripción a los respectivos Departamentos ministeriales u Organismos públicos.
+
+El Real Decreto regula igualmente la reserva en determinados casos de puestos de trabajo para los españoles, los criterios de acceso al empleo público y los requisitos que deben cumplir los nacionales de otros Estados, así como la exigencia del conocimiento del castellano como un contenido necesario de las pruebas selectivas.
+
+En su virtud, a propuesta del Ministro de Administraciones Públicas, previo informe de la Comisión Superior de Personal, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de mayo de 2001,
+
+## D I S P O N G O :
