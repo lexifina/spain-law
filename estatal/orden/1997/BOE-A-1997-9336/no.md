@@ -1,0 +1,7 @@
+El artículo 105.b de la Constitución reconoce a los ciudadanos un derecho de acceso a los archivos y registros administrativos, «salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas». Estas restricciones constitucionales del principio general de libertad acceso se encuentran desarrolladas en diversas leyes, entre las que destacan las reguladoras de los Secretos Oficiales (Ley 9/1968, de 5 de abril, modificada por Ley 48/1978, de 7 de octubre); del Patrimonio Histórico Español (Ley 16/1985, de 25 de junio), y del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común (Ley 30/1992, de 26 de noviembre).
+
+El interés histórico de parte de los fondos documentales que se custodian en el Archivo Central del Ministerio ha generado una corriente relativamente constante de peticiones de consulta, que venían siendo atendidas por aplicación directa de la citada legislación.
+
+La presente Orden establece un cauce procedimental específico para la tramitación de estas solicitudes, con objeto de facilitar en este ámbito la toma de decisiones. Con el mismo objetivo, se constituye la Comisión Calificadora a que se refiere el artículo 58 de la Ley del Patrimonio Histórico Español, en la que se encuentran representados todos los órganos administrativos que depositan documentación en el Archivo Central.
+
+En su virtud, previa aprobación del Ministro de Administraciones Públicas, dispongo:

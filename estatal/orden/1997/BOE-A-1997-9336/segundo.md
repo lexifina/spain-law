@@ -1,0 +1,3 @@
+## Segundo.
+
+Las solicitudes de acceso, que se dirigirán al Secretario general Técnico del Ministerio de la Presidencia, podrán ser presentadas en cualesquiera de los lugares previstos al efecto en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Deberá delimitarse, con la máxima precisión posible, la documentación a que se pretenda acceder. Serán, en este sentido, rechazadas las peticiones que, por su falta de concreción o por el excesivo número de los documentos solicitados, hagan imposible o muy difícil el cumplimiento por los servicios del departamento de los actos de instrucción establecidos en la presente Orden.
