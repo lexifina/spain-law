@@ -1,0 +1,5 @@
+## Disposición transitoria tercera.
+
+1. Los trabajadores que hayan agotado antes del 1 de enero de 1984 las prestaciones complementarias reguladas por la Ley Básica de Empleo o por el Real Decreto 2345/1981, de 4 de septiembre, tendrán derecho, previa solicitud, a la percepción del subsidio por desempleo por un período máximo de nueve meses, siempre que figuren inscritos como demandantes de empleo desde el 1 de noviembre de 1983 y que acrediten, en su caso, carecer de rentas de cualquier naturaleza superiores al salario mínimo interprofesional y tener responsabilidades familiares en el momento de la solicitud.
+
+2. Los trabajadores que hubiesen agotado la prestación por desempleo reconocida de acuerdo con la Ley General de la Seguridad Social o la Ley Básica de Empleo, o las prestaciones complementarias, pero no tuvieren derecho al reconocimiento o ampliación del subsidio y figuren inscritos, sin interrupción, como demandantes de empleo desde el 1 de noviembre de 1983, podrán solicitar la prestación de asistencia sanitaria, si no se le hubiere reconocido el derecho con anterioridad, siempre que reúnan los requisitos del artículo 16 de la Ley 31/1984.

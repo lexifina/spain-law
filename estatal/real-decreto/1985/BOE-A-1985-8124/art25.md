@@ -1,0 +1,5 @@
+## Art. 25. Normas de tramitación comunes a las distintas prestaciones o subsidios por desempleo.
+
+1. Cuando la solicitud se presente sin aportar total o parcialmente la documentación a que se refieren los artículos 21 a 24 de este Real Decreto, el Instituto Nacional de Empleo requerirá al solicitante para que, en el plazo de quince días subsane la falta o presente los documentos preceptivos, con apercibimiento de que, si así no lo hiciese, se archivará la solicitud, sin perjuicio de que el interesado inste nueva solicitud posteriormente si su derecho no hubiera prescrito.
+
+2. En los supuestos de ejercicio del derecho de opción del número 4 del artículo 8.º de la Ley 31/1984 el trabajador deberá, en el plazo de los diez días siguientes a la notificación de la resolución aprobatoria de la prestación de que se trate, pronunciarse expresamente y de forma escrita por la prestación que más convenga a su interés. En otro caso, se entenderá ejercitada la opción por la prestación reconocida y notificada.
