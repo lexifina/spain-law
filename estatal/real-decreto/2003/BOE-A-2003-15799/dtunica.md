@@ -1,0 +1,3 @@
+## Disposición transitoria única. Devengo de retribuciones.
+
+Las retribuciones derivadas de intervenciones en procesos iniciados con anterioridad a la entrada en vigor de este real decreto se realizarán conforme a los módulos y bases económicas establecidas por el Real Decreto 1949/2000, de 1 de diciembre, por el que se modifica el Reglamento de asistencia jurídica gratuita, excepto en el orden penal para aquellos procesos a que se refiere la Ley 38/2002, de 24 de octubre, de reforma parcial de la Ley de Enjuiciamiento Criminal, iniciados con posterioridad a la entrada en vigor de dicha norma, que se retribuirán conforme a los módulos establecidos en este real decreto.
