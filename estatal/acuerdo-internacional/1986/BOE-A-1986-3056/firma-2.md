@@ -1,0 +1,3 @@
+Hecho en París en este día diecisiete de noviembre de 1970, en dos ejemplares auténticos que llevan la firma del Presidente de la Conferencia General, en su 16.ª reunión, y del Director General de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, ejemplares que se depositarán en los archivos de esta Organización, y cuyas copias certificadas conformes se remitirán a todos los Estados a que se refieren los artículos 19 y 20, así como a las Naciones Unidas.
+
+Lo anterior es el texto auténtico de la Convención aprobada en buena y debida forma por la Conferencia General de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, en su 16.ª reunión, celebrada en París y terminada el 14 de noviembre de 1970.
