@@ -25,7 +25,7 @@
 
 | Colorante | Productos alimenticios | Nivel máximo |
 | --- | --- | --- |
-| E 123 Amaranto. | Vinos aromatizados, bebidas alcohólicas con un grado alcohólico inferior al 15 por 100. | 30 mg/l. |
+| E 123 Amaranto | Vinos aromatizados, bebidas espirituosas incluyendo los productos con un grado alcohólico inferior al 15 por cien. | 30 mg/l. |
 | Americano, Bitter soda, Bitter vino (*). | Huevas de pescado. | 30 mg/Kg. |
 | E 160 b Annato, bixina, norbixina. | Margarina, minarina, preparados grasos y grasas no emulsionadas. | 10 mg/Kg. |
 |  | Adornos para confitería, pastelería, repostería, bollería,galletería, caramelos, confites, goma de mascar, sucédáneos de chocolate y helados. | 20 mg/Kg. |
@@ -45,3 +45,5 @@
 |  | Queso Mimolette. | 35 mg/Kg. |
 |  | Cereales de desayuno en copos o expandidos y/o aromatizados con sabor a frutas. | 25 mg/Kg. |
 | (*) La dosis de E 123 Amaranto en Americano, Bitter soda y Bitter vino será la reflejada en anexo 111, dado que no se contempla dosis específica, sino dosis de conjunto con otros colorantes. |
+
+> Se modifica la Parte 2 por el art. único del Real Decreto 485/2001, de 4 de mayo. Ref. BOE-A-2001-9569.
