@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Aplicación de disposiciones más favorables.
+
+1. Lo dispuesto en los artículos 36 y 37 de esta Ley en materia de competencias, facultades y garantías de los Delegados de Prevención se entenderá sin perjuicio del respeto a las disposiciones más favorables para el ejercicio de los derechos de información, consulta y participación de los trabajadores en la prevención de riesgos laborales previstas en los convenios colectivos vigentes en la fecha de su entrada en vigor.
+
+2. Los órganos específicos de representación de los trabajadores en materia de prevención de riesgos laborales que, en su caso, hubieran sido previstos en los convenios colectivos a que se refiere el apartado anterior y que estén dotados de un régimen de competencias, facultades y garantías que respete el contenido mínimo establecido en los artículos 36 y 37 de esta Ley, podrán continuar en el ejercicio de sus funciones, en sustitución de los Delegados de Prevención, salvo que por el órgano de representación legal de los trabajadores se decida la designación de estos Delegados conforme al procedimiento del artículo 35.
+
+3. Lo dispuesto en los apartados anteriores será también de aplicación a los acuerdos concluidos en el ámbito de la función pública al amparo de lo dispuesto en la Ley 7/1990, de 19 de julio, sobre negociación colectiva y participación en la determinación de las condiciones de trabajo de los empleados públicos.
