@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+Cualquier buque pesquero matriculado en la Lista Tercera que no haya sido incluido en el Censo de la Flota Pesquera Operativa en el período comprendido entre el 10 de mayo de 1989 y la fecha de entrada en vigor de la presente Orden, podrá ser dado de alta en el censo indicado mediante un procedimiento de reactivación. La solicitud de alta se remitirá a la Dirección General de Ordenación Pesquera a través de la autoridad periférica competente, adjuntando certificación sobre el último despacho del buque y la etiqueta de identificación fiscal del armador titular en el caso de que se trate de un buque con motor intrabordas. Con carácter previo al alta en el censo, la embarcación será sometida a inspección para verificar su operatividad.
