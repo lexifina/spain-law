@@ -1,3 +1,5 @@
 ## Artículo cuarto.
 
-Cuando la Comisión calificadora no valore positivamente los méritos y las tesis aportadas por los solicitantes, éstos podrán solicitarlo de nuevo transcurridos seis meses, mediante la presentación de un nuevo trabajo de investigación.
+(Derogado)
+
+> Se deroga por la disposición derogatoria del Real Decreto 490/1984, de 8 de febrero. Ref. BOE-A-1984-6132
