@@ -1,3 +1,5 @@
 ## Octavo.
 
-Las Entidades a que se refiere esta Orden remitirán a la Dirección General del Tesoro y Política Financiera un ejemplar de sus estados financieros de carácter público y de su correspondiente informe de auditoría.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Orden de 12 de julio de 1993. Ref. BOE-A-1993-19266.
