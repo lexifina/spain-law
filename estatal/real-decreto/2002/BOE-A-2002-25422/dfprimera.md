@@ -1,0 +1,5 @@
+## Disposición final primera. Otras posibilidades de contratación.
+
+Se autoriza a los consumidores cualificados en baja tensión a contratar la energía con productores en régimen ordinario y especial o accediendo directamente al mercado organizado de producción, siempre que estén dados de alta en la sección tercera del registro administrativo de distribuidores, comercializados y consumidores cualificados del Ministerio de Economía y cumplan todos los requisitos establecidos en la normativa para los agentes compradores del mercado de producción de energía eléctrica. Sólo podrán disponer de un contrato de adquisición de energía con un único sujeto en cada período de liquidación de la energía.
+
+En estos casos deberán disponer de registro de consumo horario, siendo los requisitos de los equipos de medida a instalar los exigibles a los consumidores de alta tensión establecidos en el Real Decreto 2018/1997, de 26 de diciembre, por el que se aprueba el Reglamento de puntos de medida de los consumos y tránsitos de energía eléctrica, con las modificaciones introducidas en el Real Decreto 385/2002, de 26 de abril.
