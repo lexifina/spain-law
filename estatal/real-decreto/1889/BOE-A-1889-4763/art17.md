@@ -1,16 +1,18 @@
 ## Artículo 17.
 
-Son españoles de origen:
+1. Son españoles de origen:
 
-1. Los hijos de padre o madre españoles.
+a) Los nacidos de padre o madre españoles.
 
-2. Los nacidos en España de padres extranjeros si, al menos uno de éstos, hubiera nacido también en España. Se exceptúan los hijos de padre o madre extranjeros adscritos al servicio diplomático o consular.
+b) Los nacidos en España de padres extranjeros si, al menos, uno de ellos hubiera nacido también en España. Se exceptúan los hijos de funcionario diplomático o consular acreditado en España.
 
-3. Los nacidos en España de padres extranjeros si ambos carecieren de nacionalidad o si la legislación de ninguno de ellos atribuye al hijo una nacionalidad.
+c) Los nacidos en España de padres extranjeros, si ambos carecieren de nacionalidad o si la legislación de ninguno de ellos atribuye al hijo una nacionalidad.
 
-4. Los nacidos en España cuya filiación sea desconocida o aunque conocida respecto de uno de los padres la legislación de éste no atribuya al hijo su nacionalidad y los menores hallados en territorio español si no se conoce el lugar de su nacimiento ni su filiación.
+d) Los nacidos en España cuya filiación no resulte determinada. A estos efectos, se presumen nacidos en territorio español los menores de edad cuyo primer lugar conocido de estancia sea territorio español.
 
-La determinación legal de la filiación respecto del padre o madre españoles producirá automáticamente la adquisición de la nacionalidad española de origen.
+2. La filiación o el nacimiento en España, cuya determinación se produzca después de los dieciocho años de edad, no son por sí solos causa de adquisición de la nacionalidad española. El interesado tiene entonces derecho a optar por la nacionalidad española de origen en el plazo de dos años a contar desde aquella determinación.
+
+> Se modifica por el art. único de la Ley 18/1990, de 17 de diciembre. Ref. BOE-A-1990-30520.
 
 > Se modifica por el art. único de la Ley 51/1982, de 13 de julio. Ref. BOE-A-1982-19493.
 

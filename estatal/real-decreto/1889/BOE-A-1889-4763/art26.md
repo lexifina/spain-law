@@ -1,22 +1,22 @@
 ## Artículo 26.
 
-El español que haya perdido esta condición podrá recuperarla cumpliendo con los requisitos siguientes:
+1. El español que haya perdido esta condición podrá recuperarla cumpliendo con los requisitos siguientes:
 
-1. Residencia legal y continuada en España durante un año inmediatamente anterior a la petición.
+a) Ser residente legal en España.
 
-2. Declaración ante el encargado del Registro Civil de su voluntad de recuperar la nacionalidad española.
+Cuando se trate de emigrantes o hijos de emigrantes, este requisito podrá ser dispensado por el Gobierno. En los demás casos, la dispensa sólo será posible si concurren circunstancias especiales.
 
-3. Renuncia ante el encargado del Registro Civil a su nacionalidad extranjera, y
+b) Declarar ante el encargado del Registro Civil su voluntad de recuperar la nacionalidad española y su renuncia, salvo que se trate de naturales de los países mencionados en el artículo 24, a la nacionalidad anterior, y
 
-4. Inscripción de la recuperación en el Registro Civil.
+c) Inscribir la recuperación en el Registro Civil.
 
-El requisito de la residencia será dispensado por el Ministro de Justicia a los españoles emigrantes que justifiquen tal condición. También se dispensará a los españoles que hayan adquirido voluntariamente la nacionalidad de su cónyuge. En los demás casos, la dispensa tendrá carácter discrecional.
+2. No podrán recuperar la nacionalidad española, sin previa habilitación concedida discrecionalmente por el Gobierno:
 
-No podrán recuperar la nacionalidad sin previa habilitación concedida discrecionalmente por el Gobierno:
+a) Los que se encuentren incursos en cualquiera de los supuestos previstos en el artículo anterior.
 
-1. Los que la hayan perdido siendo mayores de catorce años sin haber cumplido en España el servido militar o la prestación social sustitutoria.
+b) Los que hayan perdido la nacionalidad sin haber cumplido el servicio militar español o la prestación social sustitutoria. No obstante, la habilitación no será precisa cuando la declaración de recuperación se formule por varón mayor de cincuenta años.
 
-2. Los que hayan sido privados de la nacionalidad conforme a lo establecido en el artículo 24.
+> Se modifica por el art. único de la Ley 18/1990, de 17 de diciembre. Ref. BOE-A-1990-30520.
 
 > Se modifica por el art. único de la Ley 51/1982, de 13 de julio. Ref. BOE-A-1982-19493.
 

@@ -1,10 +1,16 @@
 ## Artículo 24.
 
-Los españoles que no lo sean de origen perderán la nacionalidad:
+1. Pierden la nacionalidad española los emancipados que, residiendo habitualmente en el extranjero, adquieran voluntariamente otra nacionalidad o utilicen exclusivamente la nacionalidad extranjera que tuvieran atribuida antes de la emancipación.
 
-1. Cuando por sentencia firme fueren condenados a su pérdida conforme a lo establecido en las leyes penales o declarados incursos en falsedad, ocultación o fraude en su adquisición.
+2. La pérdida se producirá una vez que transcurran tres años a contar, respectivamente, desde la adquisición de la nacionalidad extranjera o desde la emancipación.
 
-2. Cuando entren voluntariamente al servicio de las armas o ejerzan cargo público en un Estado extranjero contra la prohibición expresa del Gobierno.
+La adquisición de la nacionalidad de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal, no es bastante para producir, conforme a este apartado la pérdida de la nacionalidad española de origen.
+
+3. En todo caso, pierden la nacionalidad española los españoles emancipados que renuncien expresamente a ella, si tienen otra nacionalidad y residen habitualmente en el extranjero.
+
+4. No se pierde la nacionalidad española, en virtud de lo dispuesto en este precepto, si España se hallare en guerra.
+
+> Se modifica por el art. único de la Ley 18/1990, de 17 de diciembre. Ref. BOE-A-1990-30520.
 
 > Se modifica por el art. único de la Ley 51/1982, de 13 de julio. Ref. BOE-A-1982-19493.
 

@@ -1,8 +1,8 @@
 ## Artículo 18.
 
-El extranjero menor de dieciocho años adoptado en forma plena adquirirá por este hecho la nacionalidad española cuando cualquiera de los adoptantes fuera español.
+La posesión y utilización continuada de la nacionalidad española durante diez años, con buena fe y basada en un título inscrito en el Registro Civil, es causa de consolidación de la nacionalidad, aunque se anule el título que la originó.
 
-Si alguno de los adoptantes era español al tiempo del nacimiento del adoptado, éste tendrá, desde la adopción, la condición de español de origen.
+> Se modifica por el art. único de la Ley 18/1990, de 17 de diciembre. Ref. BOE-A-1990-30520.
 
 > Se modifica por el art. único de la Ley 51/1982, de 13 de julio. Ref. BOE-A-1982-19493.
 

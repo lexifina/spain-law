@@ -1,26 +1,30 @@
 ## Artículo 22.
 
-La nacionalidad española se adquirirá por residencia en España por tiempo de diez años, previa solicitud del interesado y mediante concesión otorgada por el Ministro de Justicia, que podrá denegarla por motivos de orden público o interés nacional.
+1. Para la concesión de la nacionalidad por residencia se requiere que ésta haya durado diez años. Serán suficientes cinco años para los que hayan obtenido asilo o refugio, y dos años cuando se trate de nacionales de origen de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal o de sefardíes.
 
-Serán suficientes dos años, cuando se trate de nacionales de origen de los países Iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal o de sefardíes, que acrediten su respectiva condición.
+2. Bastará el tiempo de residencia de un año para:
 
-Bastará, sin embargo, el tiempo de residencia de un año para:
+a) El que haya nacido en territorio español.
 
-1. El que haya nacido en territorio español.
+b) El que no haya ejercitado oportunamente la facultad de optar.
 
-2. El nacido fuera de España de padre o madre que originariamente hubieran sido españoles.
+c) El que haya estado sujeto legalmente a la tutela, guarda o acogimiento de un ciudadano o institución españoles durante dos años consecutivos, incluso si continuare en esta situación en el momento de la solicitud.
 
-3. El que no haya ejercitado oportunamente la facultad de optar.
+d) El que al tiempo de la solicitud llevare un año casado con español o española y no estuviere separado legalmente o de hecho.
 
-4. Quien se haya casado con español o española, aunque el matrimonio se hubiere disuelto.
+e) El viudo o viuda de española o español, si a la muerte del cónyuge no existiera separación legal o de hecho.
 
-En todos los casos la residencia habrá de ser legal, continuada e inmediatamente anterior a la petición.
+f) El nacido fuera de España de padre o madre que originariamente hubieran sido españoles.
 
-El solicitante deberá ser mayor de dieciocho años o estar emancipado.
+3. En todos los casos la residencia habrá de ser legal, continuada e inmediatamente anterior a la petición.
 
-Para que la concesión tenga eficacia será necesario cumplir los requisitos establecidos en al último párrafo del artículo 20.
+A los efectos de lo previsto en la letra d) del número anterior, se entenderá que tiene residencia legal en España el cónyuge que conviva con funcionario diplomático o consular español acreditado en el extranjero.
 
-La concesión o denegación de la nacionalidad deja a salvo la vía judicial civil.
+4. El interesado deberá justificar, en el expediente regulado por la legislación del Registro Civil, buena conducta cívica y suficiente grado de integración en la sociedad española.
+
+5. La concesión o denegación de la nacionalidad por residencia deja a salvo la vía judicial contencioso-administrativa.
+
+> Se modifica por el art. único de la Ley 18/1990, de 17 de diciembre. Ref. BOE-A-1990-30520.
 
 > Se modifica por el art. único de la Ley 51/1982, de 13 de julio. Ref. BOE-A-1982-19493.
 
