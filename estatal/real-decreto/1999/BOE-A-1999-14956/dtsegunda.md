@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Procedimientos de contratación.
+
+Los acuerdos del Consejo de Administración por los que se aprueban los criterios generales que hayan de observarse en los procedimientos de contratación, de acuerdo con el artículo 7.6 de los Estatutos de la transformada sociedad estatal, se considerarán vigentes, en lo que no se opongan a lo establecido en el artículo 57 de la Ley de Organización y Funcionamiento de la Administración General del Estado y hasta tanto se produzca el desarrollo del Estatuto de la entidad pública empresarial Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda.

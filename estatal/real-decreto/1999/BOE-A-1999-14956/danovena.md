@@ -1,0 +1,3 @@
+## Disposición adicional novena. Viviendas.
+
+Las enajenaciones de viviendas sociales, propiedad de la entidad, a su personal laboral o actuales arrendatarios, de conformidad con sus respectivos contratos y los acuerdos adoptados por los órganos de administración de la entidad, anteriores a la Ley 6/1997, de 14 de abril, y al presente Real Decreto, no se regirán por los artículos 48 y 56 de la Ley citada, por lo que no se producirá la incorporación al Patrimonio del Estado de estos bienes, ni la comunicación previa al Ministerio de Economía y Hacienda, ni su desafectación y demás previsiones de los preceptos señalados, en atención a que, desde su origen, estas viviendas no se encontraban vinculadas a los fines del organismo.

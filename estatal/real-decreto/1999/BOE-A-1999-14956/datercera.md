@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Garantías de prestación de servicios esenciales.
+
+De conformidad con el artículo 10, párrafo 2, y demás concordantes del Real Decreto-ley 17/1977, de 4 de marzo, sobre Relaciones de Trabajo, a la entidad pública empresarial Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda le será de aplicación el Real Decreto 1138/1984, de 11 de abril, de Presidencia del Gobierno, de Garantías de prestación de servicios esenciales en la Fábrica Nacional de Moneda y Timbre, en relación con la fabricación de productos y realización de las actividades que constituyen sus fines de acuerdo con la presente disposición.
