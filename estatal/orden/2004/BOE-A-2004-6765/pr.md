@@ -1,0 +1,13 @@
+El control por el Estado de la fabricación, transporte, importación, exportación y tránsito por el territorio nacional del nitrato amónico de «grado explosivo» está recogido en el Real Decreto 2492/1983, de 29 de junio, por el que se regula la intervención administrativa del Estado sobre el nitrato amónico de «grado explosivo», modificado por el Real Decreto 2261/1985, de 23 de octubre.
+
+De acuerdo con el artículo 2 del Real Decreto citado es nitrato amónico de «grado explosivo» aquél cuyo contenido en nitrógeno es superior al 31,5 por 100 y que cumple las condiciones de su anexo. No obstante, existen productos a base de nitrato amónico de alto contenido en nitrógeno; esto es, aquéllos cuyo contenido en nitrógeno procedente del nitrato amónico es superior al 28% en masa o, lo que es lo mismo, que contienen más de un 80 por 100 de nitrato amónico. Estos productos, con pequeñas alteraciones en determinadas propiedades físicas, como la porosidad, pH, humedad o contenido en materia orgánica, pueden adquirir las propiedades detonantes del nitrato amónico de «grado explosivo».
+
+En consecuencia, era necesario, por razones de seguridad pública y para poder establecer las condiciones de su transporte, someter a estos productos a una prueba de detonabilidad, cuyo objeto es determinar si dichos productos tienen o han adquirido las propiedades detonantes del nitrato amónico de «grado explosivo».
+
+Con este propósito, el Real Decreto 1427/2002, de 27 de diciembre, ha modificado el Real Decreto 2492/1983, añadiéndole una disposición adicional única, en la que se establece la obligación, para los productos a base de nitrato amónico de alto contenido en nitrógeno, de realizar antes de su transporte una prueba de detonabilidad, con el fin de someterlos a las disposiciones en materia de transporte e infracciones de dicho Real Decreto en caso de que el resultado de la prueba sea positivo. La regulación de esta prueba de detonabilidad es objeto de la Orden que ahora se aprueba en desarrollo de lo preceptuado en el Real Decreto 1427/2002.
+
+Esta Orden ha sido sometida al procedimiento de información en materia de normas y reglamentaciones técnicas y de reglamentos relativos a los servicios de la sociedad de la información, previsto en la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio, modificada por la Directiva 98/48/CE, de 20 de julio, así como en el Real Decreto 1337/1999, de 31 de julio, que incorpora ambas Directivas al ordenamiento jurídico español.
+
+En su virtud, a propuesta del Vicepresidente primero del Gobierno y Ministro de Economía y de los Ministros del Interior, de Fomento, y de Ciencia y Tecnología, y de acuerdo con el Consejo de Estado,
+
+DISPONGO:
