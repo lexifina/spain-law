@@ -1,0 +1,9 @@
+Por Orden de 28 de febrero de 1986 se aprobaron las normas para la selección del personal funcionario interino, en desarrollo del artículo 31 del entonces vigente Real Decreto 2223/1984, de 19 de diciembre, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración del Estado.
+
+Con posterioridad, el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles del Estado, vino a sustituir al citado Real Decreto 2223/1984, de 19 de diciembre, estableciendo en su artículo 27 una serie de previsiones sobre los funcionarios interinos.
+
+Si bien la Orden 28 de febrero de 1986 se mantiene en vigor en lo que no se oponga al Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles del Estado, la reciente modificación del apartado 2 del artículo 5 de la Ley de Funcionarios Civiles del Estado de 1964 efectuada por la Ley 24/2001, de 27 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social y la mejor adecuación a aspectos como la necesidad de que la selección de personal se realice con la máxima agilidad en razón a la urgencia requerida para la cobertura transitoria de los puestos de trabajo, exigen la aprobación de una nueva Orden que desarrolle el contenido del artículo 27 del Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles del Estado.
+
+En su virtud, previo informe de la Comisión Superior de Personal, dispongo:
+
+> Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 194, de 14 de agosto de 2002. Ref. BOE-A-2002-16433.
