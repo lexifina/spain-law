@@ -42,7 +42,7 @@ Las alturas de los ensayos 1 y 2 se determinarán de acuerdo con el volumen del 
 
 La equivalente a dos metros de altura de apilado de envases de su mismo tamaño y capacidad dentro de sus respectivos embalajes.
 
-Una vez envasados deben resistir una sobrepresión interna 127,4 Kpa (1,3 kg/cm), sin presentar deformaciones considerables ni salida apreciable del líquido contenido.
+Los envases, una vez llenos, deberán resistir una sobrepresión externa de 127,14 kpa (1,3 kgf/cm2), sin presentar deformaciones considerables ni salida apreciable del líquido contenido.
 
 2.4 Ensayo de estanquidad.
 
@@ -59,5 +59,9 @@ Este requisito se entenderá cumplido cuando exista en su interior una cámara s
 Con el objeto de ayudar a cumplir los márgenes de tolerancia citados en el apartado 5.2 de la Reglamentación Técnico-Sanitaria de Lejías, es aconsejable la opacidad del envase y el evitar la exposición a la luz solar directa.
 
 > Téngase en cuenta la Orden de 23 de diciembre de 1985, por la que se dictan normas complementarias para la homologación de envases de lejías. Ref. BOE-A-1985-26981
+
+> Se modifica el segundo párrafo del apartado 2.3 por el art. único.8 del Real Decreto 349/1993, de 5 marzo. Ref. BOE-A-1993-10258
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
 
 > Véase la Orden de 23 de diciembre de 1985, por la que se dictan normas complementarias para la homologación de envases de lejías. Ref. BOE-A-1985-26981
