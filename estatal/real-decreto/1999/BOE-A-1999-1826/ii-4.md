@@ -56,16 +56,20 @@ A. Siglas de provincias
 | Ceuta | CE |
 | Melilla | ML |
 
-B) Contraseñas de los vehículos pertenecientes al Estado
+B) Contraseñas de los vehículos pertenecientes al Estado:
 
-ET, FN y EA: Para vehículos pertenecientes al Ministerio de Defensa, correspondientes, respectivamente, al Ejército de Tierra, Armada y Ejército del Aire.
+ET, FN y EA: Para los vehículos pertenecientes al Ministerio de Defensa, correspondientes, respectivamente, al Ejército de Tierra, Armada y Ejército del Aire.
 
 MF: Para los del Parque del Ministerio de Fomento.
 
-PMM: Para los del Parque Móvil Ministerial.
+MMA: Para los del Parque del Ministerio de Medio Ambiente.
 
-PGC: Para los de la Dirección General de Guardia Civil.
+PME: Para los del Parque Móvil del Estado.
+
+PGC: Para los de la Dirección General de la Guardia Civil.
 
 DGP: Para los adscritos a la Dirección General de la Policía.
 
 En el caso de vehículos especiales, figurarán las contraseñas anteriores y, separadas por un guión, las letras VE.
+
+> Se modifica el apartado B) por la disposición adicional única de la Orden de 9 de diciembre de 1999. Ref. BOE-A-1999-23609.
