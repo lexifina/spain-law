@@ -1,0 +1,7 @@
+Las difíciles condiciones en que se desenvuelve la actividad agraria en las zonas de montaña y la necesidad de conservar los recursos naturales de las mismas y elevar su nivel de vida se reconoce en el artículo 130 de la Constitución, encomendándose en su apartado primero a los poderes públicos la modernización y desarrollo de la agricultura y ganadería y especificando aún más en el apartado segundo, en el que se prescribe el otorgamiento de «un tratamiento especial a las zonas de montaña».
+
+Al cumplimiento del mandato constitucional subviene la Ley 25/1982, de 30 de junio, de agricultura de montaña, que contiene directrices determinantes de futuras actuaciones, Instrumento esencial para la coordinación y puesta en marcha de la política en esta materia es la Comisión de Agricultura de Montaña, reguladora de los artículos 24 a 26 de la citada Ley 25/1982 y pendiente aún de desarrollo normativo, desarrollo al que se encauza el presente Real Decreto con el que se tiende al establecimiento de bases sólidas de colaboración entre los diversos Departamentos Ministeriales, afectados por la responsabilidad del desarrollo de estas zonas, de un lado, y, de otro, a la coordinación con las Comunidades Autónomas interesadas en impulsar el desarrollo de sus propias zonas de montaña.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación de la Presidencia del Gobierno, de acuerdo con el dictamen del Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 5 de octubre de 1983,
+
+DISPONGO:
