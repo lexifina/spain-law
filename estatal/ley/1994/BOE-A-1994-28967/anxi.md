@@ -356,4 +356,6 @@ Los Monasterios de San Millán de la Cogolla.
 
 ## (En suplemento anexo se publican los cuadros resumen de los Presupuestos Generales del Estado para 1995)
 
+> Se incluyen, a los efectos de la prórroga para 1999 de la disposición adicional 28 de esta Ley, los Monasterios de Yuso y Suso, de San Millán de la Cogolla, en la Rioja; el Palau de la Música Catalana y el Hospital de Sant Pau de Barcelona; las Médulas de León, y el Monte Perdido en los Pirineos, por la disposición adicional 18.1 de la Ley 49/1998 de 30 de diciembre. Ref. BOE-A-1998-30154#dadecimoctava.
+
 > Se incluyen, a los efectos de la prórroga para 1998 de la disposición adicional 28 de esta Ley, los Monasterios de Yuso y Suso, de San Millán de la Cogolla, en La Rioja; el Palau de la Música Catalana y el Hospital de Sant Pau de Barcelona; Las Médulas de León, y el Monte Perdido en los Pirineos, por la disposición adicional 15.1 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052#dadecimoquinta.

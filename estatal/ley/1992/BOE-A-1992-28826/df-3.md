@@ -4,7 +4,9 @@ Con el fin de agilizar y simplificar los trámites necesarios para proceder al r
 
 Asimismo, se faculta a los titulares de los órganos competentes para el reconocimiento y abono de las prestaciones satisfechas con cargo a los créditos de la Sección 07 del Presupuesto del Gasto del Estado, para que establezcan, mediante resolución, las normas que resulten necesarias en orden a una mayor agilización y simplificación de los trámites administrativos correspondientes.
 
-> Se prorroga la facultad conferida en esta disposición durante 1998, según establece la disposición transitoria 4 de la la Ley 65/1997, de 28 de diciembre. Ref. BOE-A-1997-28052#dtcuarta
+> Se prorroga la facultad conferida en esta disposición durante 1999, según establece la disposición transitoria 4 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154#dtcuarta
+
+> Se prorroga la facultad conferida en esta disposición durante 1998, según establece la disposición transitoria 4 de la Ley 65/1997, de 28 de diciembre. Ref. BOE-A-1997-28052#dtcuarta
 
 > Se prorroga la facultad conferida en esta disposición durante 1997, según establece la disposición transitoria 4 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116#dtcuarta
 

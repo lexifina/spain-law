@@ -6,6 +6,8 @@ A los efectos de lo previsto en el artículo 67 de la Ley 30/1994, de 24 de novi
 
 2.º Los proyectos de ayuda oficial al desarrollo a que se refiere la disposición adicional vigésima de esta Ley.
 
+> Se prorroga para el año 1999 por la disposición adicional 18.1 de la Ley 49/1998 de 30 de diciembre. Ref. BOE-A-1998-30154#dadecimoctava.
+
 > Se prorroga para el año 1998 por la disposición adicional 15.1 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052#dadecimoquinta.
 
 > Se prorroga para el año 1997 por la disposición adicional 22 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116#davigesimasegunda.
