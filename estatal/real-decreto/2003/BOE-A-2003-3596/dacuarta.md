@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Protocolos sanitarios.
+
+La Ponencia de Sanidad Ambiental elaborará, antes de enero de 2005, recomendaciones sanitarias para las situaciones más frecuentes de incumplimientos e incidencias, que servirán de orientación a la autoridad sanitaria y al gestor para los estudios de evaluación del riesgo, recomendaciones sanitarias y medidas correctoras y preventivas, medidas de protección; así mismo publicará directrices para la transmisión de la información al consumidor sobre las aguas de consumo humano, sus instalaciones y demás información a que se refiere este Real Decreto.

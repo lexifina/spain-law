@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Muestreo de instalaciones interiores.
+
+La autoridad sanitaria velará para que la administración local antes del 1 de enero del 2012 muestree el agua de consumo humano, en campañas periódicas, en locales, establecimientos públicos o privados y domicilios particulares, representativos de cada abastecimiento, construidos con anterioridad a 1980, con especial atención a la determinación de los parámetros relacionados con los materiales instalados en las instalaciones interiores y aquellos relacionados con el mal mantenimiento de la instalación interior que pudieran representar un riesgo para la salud.
