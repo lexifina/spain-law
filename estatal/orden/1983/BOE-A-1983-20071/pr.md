@@ -1,0 +1,5 @@
+Ilustrísimo señor:
+
+La aplicación de las Órdenes del Ministerio de Industria y Energía de 16 de noviembre de 1981, sobre homologación de los tacógrafos («Boletín Oficial del Estado» de 13 de enero de 1982); de 24 de septiembre de 1982, sobre autorización de talleres para la instalación, reparación, comprobación y revisión periódica de tacógrafos («Boletín Oficial del Estado» de 6 de octubre), y de 14 de octubre de 1982, por la que se aprueban las normas de control e inspección de tacógrafos («Boletín Oficial del Estado» del 23), todas ellas dictadas en desarrollo del Real Decreto 2916/1981, de 30 de octubre, por el que se establece la obligación del uso de los tacógrafos en los vehículos automóviles de transporte de personas y mercancías («Boletín Oficial del Estado» de 12 de diciembre), exige el dictado de las normas oportunas acerca de las características y colocación de los precintos y placa de montaje, así como sobre la cumplimentación del libro de registro de tacógrafos.
+
+En su virtud, este Ministerio ha tenido a bien disponer lo siguiente:
