@@ -1,0 +1,3 @@
+> Información relacionada
+
+> Téngase en cuenta que, con efectos de 6 de octubre de 2020, toda referencia hecha por las normas reguladoras del Régiman de Clases Pasivas a la Dirección General de Personal del Ministerio de Defensa, se entenderá realizada al Instituto Nacional de la Seguridad Social en materia de gestión de prestaciones, en la forma establecida por la disposición adicional 6.6 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#da-6, en relación con la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
