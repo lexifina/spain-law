@@ -4,7 +4,7 @@ Además de las instituciones cuya personalidad jurídica se halla reconocida por
 
 1. Los Concejos que integran los diversos Ayuntamientos, Distritos, Valles, Cendeas y Almiradíos de Navarra.
 
-2. El noble Valle y Universidad de Baztán y las Juntas Generales de los Valles de Roncal y Salazar, sin perjuicio de la personalidad jurídica de los Ayuntamientos que los integran. Estas Corporaciones actuarán siempre conforme a lo establecido en sus últimas Ordenanzas homologadas por la Administración foral competente.
+2. El Noble Valle y Universidad del Baztán y las Juntas Generales de los Valles del Roncal y de Salazar, sin perjuicio de la personalidad jurídica de los Ayuntamientos que los integran. Estas Corporaciones actuarán siempre conforme a lo establecido en sus respectivas Ordenanzas.
 
 3. La Junta de Bardenas Reales, que se regirá por sus Ordenanzas.
 
@@ -14,4 +14,6 @@ Además de las instituciones cuya personalidad jurídica se halla reconocida por
 
 6. Las fundaciones privadas constituidas conforme a la ley siguiente.
 
-> Redactada conforme a la corrección de errores publicada en "BOE" núm. 129, de 30 de mayo de 1974Ref. BOE-A-1974-10655.
+> Se modifica el número 2 por la disposición adicional decimoquinta de la Ley Foral 6/1990, de 2 de julio. Ref. BOE-A-1990-19817.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 1974. Ref. BOE-A-1974-847.
