@@ -1,0 +1,5 @@
+## Art. 27.
+
+1. Las cantidades retenidas se ingresarán en la cuenta que la MUNPAL tendrá abierta en el «Banco de Crédito Local y, una vez comprobado el abono realizado, aquélla lo comunicará a la Corporación Local deudora, imputándose los pagos, en su caso, a la cancelación de los débitos que motivaron la solicitud, por orden de antigüedad. Igualmente se notificara el ingreso a la oficina provincial de la MUNPAL correspondiente, a efectos de su anotación contable.
+
+2. La deducción del importe que se haya acordado se realizará en un solo plazo, salvo que por el Ministro para las Administraciones Públicas, a propuesta de la Dirección Técnica de la MUNPAL, oídas, en su caso, las asociaciones representativas de las Corporaciones Locales de mayor implantación en el ámbito estatal, se apreciase la existencia de circunstancias excepcionales que aconsejasen un fraccionamiento excepcional, con sujeción a los plazos y períodos de amortización previstos en el artículo 17, apartado segundo, de este Real Decreto.
