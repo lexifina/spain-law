@@ -19,3 +19,5 @@ b) El estado de las obligaciones reconocidas y pagos realizados hasta el cierre 
 5. En caso de supresión de determinada subvención en el trámite de un presupuesto a otro, el remanente existente deberá ser reintegrado al Estado, que queda autorizado a realizar las compensaciones que estime pertinentes. En este supuesto, deberá informar la Dirección General de Coordinación con las Haciendas Territoriales.
 
 6. Las cantidades asignadas a cada Comunidad Autónoma se librarán trimestralmente por los Departamentos ministeriales en cuyo presupuesto estén situados los créditos, a las distintas Comunidades Autónomas, con excepción de las prestaciones de carácter personal y social, que se librarán por dozavas partes al comienzo de cada mes si su vencimiento y consiguiente obligación de pago en favor de los beneficiarios tiene esta periodicidad.
+
+> Se declara que el apartado 3 no es contrario a la Constitución interpretado en los términos contenidos en el fundamento jurídico 16 de la Sentencia del TC 96/1990, de 24 de mayo. Ref. BOE-T-1990-14323.

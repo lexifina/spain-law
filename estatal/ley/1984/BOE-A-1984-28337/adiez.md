@@ -41,3 +41,5 @@ Los incrementos de la masa salarial bruta se calcularán en términos de homogen
 Con independencia de lo dispuesto en los párrafos anteriores, se establece un fondo por un importe global de 2.000 millones de pesetas con cargo al cual podrán pactarse incrementos adicionales de la masa salarial del personal laboral de la Administración del Estado y sus Organismos autónomos. Su distribución, dentro de los límites cuantitativos indicados, se realizará por el Ministerio de Economía y Hacienda, previa negociación con las Centrales Sindicales más representativas.
 
 Las indemnizaciones o suplidos de este personal no podrán experimentar crecimientos superiores a los que se establezcan con carácter general para el personal no laboral de la Administración del Estado.
+
+> Se declara que los apartados 2.b), c), i), y párrafo in fine, no son contrarios a la Constitución interpretados en los términos contenidos en el fundamento jurídico 3.° de la Sentencia del TC 96/1990, de 24 de mayo. Ref. BOE-T-1990-14323.
