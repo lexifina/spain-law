@@ -64,8 +64,12 @@ a) La estructura debe ser capaz de soportar las cargas límites sin sufrir efect
 
 b) La estructura debe ser sometida a ensayos para comprobar su resistencia a cargas últimas sin fallo durante un periodo de tiempo no inferior a tres segundos. Para el caso de elementos sustentadores o de control, se puede aceptar el ensayo de una parte representativa, suficientemente grande, que incluya costuras críticas, uniones y puntos de amarre, así como otros elementos sometidos a cargas.
 
-c) Se deberá realizar una prueba final de estructura de la zona destinada a los ocupantes en las condiciones correspondientes al peso máximo autorizado.
+c) Se deberá realizar una prueba final de estructura de la zona destinada a los ocupantes, en las condiciones correspondientes al peso máximo autorizado.
 
-La prueba consistirá en dejar caer libremente la estructura contra una superficie horizontal rígida, de hormigón hidráulico de 175 kilogramos/centímetro cuadrado de resistencia característica, desde una altura de un metro y de forma que la estructura golpee en posición horizontal y en posiciones giradas 30 y 45 grados respecto a la horizontal, en el sentido longitudinal de la aeronave y sin alabeo.
+La prueba consistirá en dejar caer libremente la estructura contra una superficie horizontal rígida de hormigón hidráulico de 175 kilogramos centímetro cuadrado de resistencia característica, desde una altura de un metro, y de forma que la estructura golpee en posición horizontal y en posiciones giradas 30 y 45 grados respecto de la horizontal en el sentido longitudinal de la aeronave y sin alabeo.
 
-Como consecuencia de esta prueba, no deberán producirse en la estructura roturas o deformaciones que pudieran dar lugar a daños graves a los ocupantes.
+Como consecuencia de esta prueba no deberán producirse en la estructura roturas o deformaciones que pudieran dar lugar a daños graves a los ocupantes.
+
+Como alternativa a la realización de esta prueba, el interesado podrá elegir demostrar el cumplimiento con los requisitos que se establecen en el Anexo a esta Orden.
+
+> Se modifica el apartado 3.c) por el art. 1 de la Orden FOM/2225/2003, de 28 de julio. Ref. BOE-A-2003-15692.
