@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Transferencias de cuotas con explotación.
+
+Las transferencias por arrendamiento de la explotación que estén vigentes a la fecha de entrada en vigor de este real decreto y que vayan a expirar sin posibilidades de reanudación en condiciones análogas o en las situaciones que produzcan efectos jurídicos comparables, a falta de acuerdo entre las partes, las cuotas disponibles de las explotaciones afectadas serán transferidas, en todo o en parte, a los productores que vayan a explotarlas, teniendo en cuenta los intereses legítimos de las partes, de acuerdo con la legislación vigente.
