@@ -16,6 +16,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 2](art2.md)
 - [Art 3](art3.md)
 - [Art 4](art4.md)
+- [Art 5](art5.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final primera](primera.md)
 - [Disposición final segunda](segunda.md)
