@@ -1,0 +1,11 @@
+La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, determina el cuerpo básico de garantías y responsabilidades preciso para establecer un adecuado nivel de protección de la salud de los trabajadores frente a los riesgos derivados de las condiciones de trabajo, en el marco de una política coherente, coordinada y eficaz. Según el artículo 6 de la misma serán las normas reglamentarias las que irán fijando y concretando los aspectos más técnicos de las medidas preventivas.
+
+Así, son las normas de desarrollo reglamentario las que deben fijar las medidas mínimas que deben adoptarse para la adecuada protección de los trabajadores. Entre ellas se encuentran las destinadas a garantizar que de la manipulación manual de cargas no se deriven riesgos, en particular dorsolumbares, para los trabajadores.
+
+Igualmente, el Convenio número 127 de la Organización Internacional del Trabajo, ratificado por España el 6 de marzo de 1969, contiene disposiciones relativas al peso máximo de la carga transportada por un trabajador.
+
+En el mismo sentido hay que tener en cuenta que en el ámbito de la Unión Europea se han fijado mediante las correspondientes Directivas criterios de carácter general sobre las acciones en materia de seguridad y salud en los centros de trabajo, así como criterios específicos referidos a medidas de protección contra accidentes y situaciones de riesgo. Concretamente, la Directiva 90/269/CEE, de 29 de mayo, establece las disposiciones mínimas de seguridad y de salud relativas a la manipulación manual de cargas que entrañe riesgos, en particular dorsolumbares, para los trabajadores. Mediante el presente Real Decreto se procede a la transposición al Derecho español del contenido de la Directiva 90/269/CEE, antes mencionada.
+
+En su virtud, de conformidad con el artículo 6 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, a propuesta del Ministro de Trabajo y Asuntos Sociales, consultadas las organizaciones empresariales y sindicales mas representativas, oída la Comisión Nacional de Seguridad y Salud en el Trabajo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de abril de 1997,
+
+DISPONGO:

@@ -1,0 +1,3 @@
+## Disposición final primera. Elaboración de la Guía Técnica para la evaluación y prevención de riesgos.
+
+El Instituto Nacional de Seguridad e Higiene en el Trabajo elaborará y mantendrá actualizada una Guía Técnica para la evaluación y prevención de los riesgos relativos a la manipulación manual de cargas. En dicha Guía se considerarán los valores máximos de carga como referencia para una manipulación manual en condiciones adecuadas de seguridad y salud, así como los factores correctores en función de las características individuales, de la carga y de la forma y frecuencia de su manipulación manual.
