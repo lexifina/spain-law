@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Continuidad en el ejercicio de las funciones de las Delegaciones Provinciales del Instituto Nacional de Estadística.
+
+Las Delegaciones Provinciales del Instituto Nacional de Estadística del grupo 1, contenidas en el anexo del Real Decreto 732/1993, de 14 de mayo, en la redacción dada por el artículo 2 del Real Decreto 1468/1995, de 1 de septiembre, continuarán ejerciendo las funciones de ámbito supraprovincial allí indicadas, en tanto que la Presidencia del Instituto Nacional de Estadística considere, con criterios de funcionalidad estadística, mantener la actual estructura territorial.
