@@ -695,6 +695,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 553](a553.md)
 - [Sustituto](sustituto.md)
 - [Artículo 554](a554.md)
+- [Sustituto](sustituto-2.md)
 - [Artículo 555](a555.md)
 - [Artículo 556](a556.md)
 - [Artículo 557](a557.md)
