@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. Mantenimiento transitorio del procedimiento de declaración de la invalidez permanente.
+
+Hasta tanto se aprueben las normas reglamentarias y se establezcan los órganos de calificación a que se refiere el número 1 del artículo 143 de la Ley General de la Seguridad Social, en la redacción dada por la presente Ley, el procedimiento para la declaración de la situación de invalidez permanente, a efectos del reconocimiento de las prestaciones económicas de la Seguridad Social, seguirá rigiéndose por lo establecido en el Real Decreto 2609/1982, de 24 de septiembre, y demás disposiciones complementarias.

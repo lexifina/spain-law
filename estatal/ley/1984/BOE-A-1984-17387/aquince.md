@@ -20,6 +20,8 @@ Se exceptúan de la regla anterior y podrán desempeñarse por personal laboral:
 
 – los puestos de trabajo en el extranjero con funciones administrativas de trámite y colaboración y auxiliares que comporten manejo de máquinas, archivo y similares.
 
+– Los puestos con funciones auxiliares de carácter instrumental y apoyo administrativo.
+
 Asimismo, los Organismos Públicos de Investigación podrán contratar personal laboral en los términos previstos en el artículo 17 de la Ley13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica.
 
 d) La creación, modificación, refundición y supresión de puestos de trabajo se realizará a través de las relaciones de puestos de trabajo.
@@ -33,6 +35,8 @@ Este requisito no será preciso cuando se trate de realizar tareas de carácter 
 2. Los puestos de trabajo serán de adscripción indistinta para todos los funcionarios incluidos en el ámbito de aplicación de esta Ley. Unicamente podrán adscribirse con carácter exclusivo puestos de trabajo a funcionarios de un determinado Cuerpo o Escala cuando tal adscripción se derive necesariamente de la naturaleza y de la función a desempeñar en ellos y en tal sentido lo determine el Gobierno a propuesta del Ministro de la Presidencia.
 
 3. Las relaciones de puestos de trabajo serán públicas.
+
+> Se añade un nuevo guión al apartado 1.c) por el art. 59 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
 
 > Se modifica el apartado 1 por el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
 

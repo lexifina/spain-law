@@ -1,0 +1,3 @@
+## Disposición adicional decimoséptima. Seguros de Riesgos en Actos de Servicio del Personal de las Fuerzas y Cuerpos de Seguridad del Estado.
+
+Se podrán concertar seguros que cubran el riesgo de accidente profesional y fallecimiento en acto de servicio del personal al servicio de las Fuerzas y Cuerpos de Seguridad del Estado en el que concurran circunstancias que hagan necesaria dicha cobertura. La determinación de las funciones y contingencias concretas que se consideran incluidas en el ámbito del párrafo anterior corresponde al titular del Departamento o autoridad en que haya desconcentrado sus atribuciones o delegado el ejercicio de la competencia para contratar en el ámbito respectivo.

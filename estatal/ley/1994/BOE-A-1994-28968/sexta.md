@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Deducción por dividendos.
+
+Los dividendos o participaciones en beneficios correspondientes a rendimientos bonificados de acuerdo con lo previsto en el artículo 2 de la Ley 22/1993, de 29 de diciembre, por la que se aprueban medidas fiscales, de reforma del régimen jurídico de la función pública y la protección por desempleo no darán derecho a la deducción prevista en el artículo 78, siete: a) de la Ley 18/1991, de 6 de junio, del Impuesto sobre la Renta de las Personas Físicas. En la base imponible del citado Impuesto se integrará el 100 por 100 de dichos dividendos y participaciones en beneficios.

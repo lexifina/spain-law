@@ -1,0 +1,5 @@
+## Disposición transitoria duodécima. Continuidad de las situaciones declaradas de incapacidad transitoria para el servicio e invalidez provisional en el régimen de la Mutualidad General Judicial.
+
+Quienes a la entrada en vigor de la presente Ley se hallaran en las situaciones de incapacidad transitoria para el servicio o invalidez provisional, cualquiera que fuera la contingencia de la que derivaran, continuarán en las mismas en iguales términos y condiciones a los previstos en la legislación precedente, hasta que se produzca la extinción de aquéllas, con los efectos económicos previstos en esta Ley para la incapacidad temporal.
+
+En los supuestos transitorios a que se refiere el párrafo anterior, la extinción de la incapacidad transitoria para el servicio por el transcurso del plazo máximo de duración previsto para la misma, no dará origen, en ningún caso, a la situación de invalidez provisional. En estos casos serán de aplicación las previsiones contenidas en el apartado 3, del punto dos, del artículo 52 de la presente Ley.

@@ -1,0 +1,9 @@
+## Disposición adicional undécima bis. Prestación por maternidad en los Regímenes Especiales.
+
+1. Los trabajadores por cuenta ajena y por cuenta propia incluidos en los distintos Regímenes Especiales del sistema tendrán derecho a la prestación por maternidad con la misma extensión y en los mismos términos y condiciones que los previstos para los trabajadores del Régimen General en el capítulo IV bis del Título II de la presente Ley.
+
+2. En el supuesto de trabajadores por cuenta propia, los períodos durante los que se tendrá derecho a percibir el subsidio por maternidad serán coincidentes, en lo relativo tanto a su duración como a su distribución, con los períodos de descanso laboral establecidos para los trabajadores por cuenta ajena.
+
+3. Tanto para los trabajadores por cuenta propia incluidos en los distintos Regímenes Especiales, como para los trabajadores pertenecientes al Régimen Especial de Empleados de Hogar que sean responsables de la obligación de cotizar, será requisito imprescindible para el reconocimiento y abono de la prestación que los interesados se hallen al corriente en el pago de las cuotas a la Seguridad Social.
+
+> Se añade por el art. 37 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968.

@@ -1,0 +1,3 @@
+## Disposición final segunda. Autorización al Ministro de Economía y Hacienda para efectuar modificaciones presupuestarias para la aplicación del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto legislativo 1/1994, de 20 de junio.
+
+Se autoriza al Ministro de Economía y Hacienda a efectuar las modificaciones presupuestarias que sean precisas para la aplicación de lo previsto en el número 2 del artículo 31 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto legislativo 1/1994, de 20 de junio, en la redacción dada por el artículo 29 de esta Ley.

@@ -1,0 +1,3 @@
+## Disposición adicional vigésima sexta.
+
+El rendimiento obtenido por los sujetos pasivos de alta en el epígrafe 721.2 de la Sección 1.a de las Tarifas del Impuesto sobre Actividades Económicas, por la transmisión de activos fijos inmateriales en los casos de fallecimiento, incapacidad permanente, jubilación, cese de actividad por reestructuración del sector y transmisión a familiares hasta el segundo grado, quedará incluido en el rendimiento neto resultante de la aplicación de la modalidad de signos, índices o módulos del método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas. Reglamentariamente se desarrollará la aplicación de este precepto.
