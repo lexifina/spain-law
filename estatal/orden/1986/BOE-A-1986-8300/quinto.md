@@ -1,0 +1,3 @@
+## Quinto.
+
+Como muestra de la operación realizada por el sistema de grabación que se homologa quedará depositado en el laboratorio que realiza los ensayos una probeta de vidrio de 300 x 300 milímetros grabada con los caracteres y contraseñas ficticios que aparecen en el anexo I, así como con todos los posibles caracteres del alfabeto y dígitos que se puedan utilizar en las diferentes matrículas. Dicha probeta tiene por objeto el poder contrastar la coincidencia de características de una grabación realizada por cualquier concesionario autorizado con la realizada por el sistema de grabación que se homologó en su día.
