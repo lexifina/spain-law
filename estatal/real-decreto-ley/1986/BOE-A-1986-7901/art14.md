@@ -1,10 +1,12 @@
 ## Art. 14.
 
-Las Sociedades y Fondos de Capital-Riesgo adecuarán su política de inversiones a los criterios expresamente establecidos en sus Estatutos o Reglamentos de Inversión, respectivamente.
+Las sociedades y fondos de capital-riesgo adecuarán su política de inversiones a los criterios expresamente establecidos en sus estatutos o reglamentos de gestión, respectivamente.
 
-En todo caso deberán mantener, como mínimo, el 50 por 100 de su activo en acciones o participacionoes en el capital de empresas de las señaladas en el artículo 12.1, sin que, con las condiciones que reglamentariamente se establezcan, puedan adquirir acciones o participaciones en el capital de empresas de otra naturaleza.
+En todo caso deberán mantener, como mínimo, el 50 por 100 de su activo en acciones o participaciones en el capital de empresas de las señaladas en el artículo 12.1. Sin perjuicio de lo anterior podrán excepcionalmente, con las condiciones que reglamentariamente puedan establecerse, adquirir acciones o participaciones en el capital de empresas de otra naturaleza.
 
-Reglamentariamente podrán establecerse limitaciones a la concentración del activo de las Sociedades y Fondos de Capital-Riesgo en una misma empresa o grupo de empresas.
+Reglamentariamente podrán establecerse limitaciones a la concentración del activo de las sociedades y fondos de capital-riesgo en una misma empresa o grupo de empresas.
+
+> Se modifica por la disposición adicional 4.2 de la Ley 3/1994, de 14 de abril. Ref. BOE-A-1994-8489.
 
 > Se modifica por el art. 8.2 de la Ley 28/1992, de 24 de noviembre. Ref. BOE-A-1992-26147.
 

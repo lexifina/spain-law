@@ -16,13 +16,15 @@ f) Como sanción, según lo previsto en la Ley sobre Disciplina e Intervención 
 
 La autorización de una sucursal de un establecimiento de crédito extranjero será revocada, en cualquier caso, cuando sea revocada la autorización del establecimiento de crédito que ha creado la sucursal.
 
-2. El procedimiento previsto en el artículo 57 citado será igualmente aplicable a la tramitación de los restantes supuestos de revocación de la autorización.
+2. El Consejo de Ministros, a propuesta del Ministro de Economía y Hacienda, será competente para acordar la revocación. No obstante, corresponderá la competencia a este último en los casos de renuncia y de revocación de la autorización de una sucursal de una entidad extranjera por habérsele sido retirada la autorización por su autoridad supervisora.
 
-3. Antes de revocar la autorización a la sucursal de un establecimiento de crédito cuya sede social se encuentre en un país miembro de la Comunidad Económica Europea, la autoridad competente en la materia deberá consultar a su homóloga en dicho país.
+3. Cuando el Banco de España tenga conocimiento de que a una entidad de crédito de otro Estado miembro de la Comunidad Europea que opera en España le ha sido revocada su autorización, acordará de inmediato las medidas pertinentes para que la entidad no inicie nuevas actividades, así como para salvaguardar los intereses de los depositantes.
 
 4. La revocación de la autorización llevará implícita la disolución del establecimiento y la apertura del período de la liquidación, que se desarrollará conforme a las normas y estatutos por los que se rija el establecimiento. Las funciones de los liquidadores serán ejercidas por el Fondo de Garantía de Depósitos a que perteneciera el establecimiento o, en otro caso, por la persona o personas que designe la autoridad competente.
 
 5. La revocación de la autorización se hará constar en todos los Registros públicos correspondientes y, tan pronto sea notificada al establecimiento, conllevará el cese del mismo en cuantas operaciones vinieran amparadas por la concesión de la autorización revocada.
+
+> Se modifican los apartados 2 y 3 por el art. 4.2 y 3 de la Ley 3/1994, de 14 de abril.Ref. BOE-A-1994-8489.
 
 > Se modifica el apartado 1.f) por el art. 39.5 de la Ley 26/1988, de 29 de julio. Ref. BOE-A-1988-18845.
 

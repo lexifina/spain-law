@@ -1,3 +1,5 @@
 ## Art. 19.
 
-Podrán ser Sociedades Gestoras y Depositarios de un Fondo de Capital-Riesgo, cualesquiera Entidades que cumplan los requisitos establecidos en el capítulo III de la Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.4 de la Ley 3/1994, de 14 de abril. Ref. BOE-A-1994-8489.

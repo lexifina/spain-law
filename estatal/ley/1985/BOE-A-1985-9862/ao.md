@@ -22,6 +22,8 @@ h) Los rendimientos de participaciones hipotecarias, préstamos u otros derechos
 
 2. Las exclusiones a que hace referencia el apartado precedente no impedirán el cumplimiento de las obligaciones de información, en las condiciones que reglamentariamente se establezcan.
 
+> Se modifica la letra h) del apartado 1 por la disposición adicional 5 de la Ley 3/1994, de 14 de abril. Ref. BOE-A-1994-8489
+
 > Se modifica la letra h) del apartado 1 por el art. 16.2 del Real Decreto-Ley 3/1993, de 26 de febrero. Ref. BOE-A-1993-5716
 
 > Se añade la letra h) al apartado 1 por el art. 4.2 de la Ley 19/1992, de 7 de julio. Ref. BOE-A-1992-16412

@@ -1,0 +1,47 @@
+## Artículo quinto. Se introducen las siguientes modificaciones en el Real Decreto legislativo 1298/1986, de 28 de junio, de adaptación del derecho vigente en materia de entidades de crédito al de las Comunidades Europeas.
+
+Primera. El apartado 2 del artículo 1 quedará redactado como sigue:
+
+«2. Se conceptúan entidades de crédito:
+
+a) El Instituto de Crédito Oficial.
+
+b) Los Bancos.
+
+c) Las Cajas de Ahorro y la Confederación Española de Cajas de Ahorro.
+
+d) Las Cooperativas de Crédito.
+
+Conservarán igualmente la condición de entidades de crédito, hasta el 31 de diciembre de 1996, las sociedades de crédito hipotecario, las entidades de financiación, las sociedades de arrendamiento financiero y las sociedades mediadoras del mercado de dinero.»
+
+Segunda. Se da la siguiente redacción al artículo 6 del citado Real Decreto legislativo:
+
+«Artículo 6.
+
+1. En el ejercicio de sus funciones de inspección de las entidades de crédito, el Banco de España colaborará con las autoridades que tengan encomendadas funciones semejantes en Estados extranjeros, y podrá comunicar informaciones relativas a la dirección, gestión y propiedad de estos establecimientos, así como las que puedan facilitar el control de la solvencia de los mismos.
+
+En el caso de que las autoridades competentes no pertenezcan a otro Estado miembro de la Comunidad Europea, el suministrro de estas informaciones exigirá que exista reciprocidad y que las autoridades competentes estén sometidas al secreto profesional en condiciones que, como mínimo, sean equiparables a las establecidas por las leyes españolas.
+
+2. Los datos, documentos e informaciones que obren en poder del Banco de España en virtud de cuantas funciones le encomiendan las leyes tendrán carácter reservado. La reserva se entenderá levantada desde el momento en que los interesados hagan públicos los hechos a que aquella se refiera.
+
+3. Todas las personas que desempeñen o hayan desempeñado una actividad para el Banco de España y hayan tenido conocimiento de datos de carácter reservado están obligadas a guardar secreto. El incumplimiento de esta obligación determinará las responsabilidades penales y las demás previstas por las leyes. Estas personas no podrán prestar declaración ni testimonio ni publicar, comunicar o exhibir datos o documentos reservados, ni siquiera después de haber cesado en el servicio, salvo permiso expreso otorgado por el órgano competente del Banco de España. Si dicho permiso no fuera concedido, la persona afectada mantendrá el secreto y quedará exenta de responsabilidad que de ello emane.
+
+Se exceptúan de la obligación de secreto establecida en el párrafo anterior:
+
+a) Cuando el interesado consienta expresamente la difusión, publicación o comunicación de los datos.
+
+b) La publicación de datos agregados a fines estadísticos, o las comunicaciones en forma sumaria o agregada de manera que las entidades individuales no puedan ser identificadas ni siquiera indirectamente.
+
+c) Las informaciones requeridas por las autoridades judiciales competentes en un proceso penal.
+
+d) Las informaciones que, en el marco de los procedimientos mercantiles derivados de la suspensión de pagos, quiebra o liquidación forzosa de una entidad de crédito, sean requeridas por las autoridades judiciales, siempre que no versen sobre terceros implicados en el reflotamiento de la entidad.
+
+e) Las informaciones que, en el marco de los recursos administrativos o jurisdiccionales entablados sobre resoluciones administrativas dictadas en materia de ordenación y disciplina de las entidades de crédito, sean requeridas por las autoridades administrativas o judiciales competentes.
+
+f) Las informaciones que el Banco de España tenga que facilitar para el cumplimiento de sus respectivas funciones: A la Comisión Nacional del Mercado de Valores; a la Dirección General de Seguros; a los Fondos de Garantía de Depósitos; a los interventores o síndicos de una entidad de crédito o de una entidad de su grupo, designados en los correspondientes procedimientos administrativos o judiciales; y a los auditores de cuentas de las entidades de crédito y sus grupos.
+
+g) Las informaciones que el Banco de España tenga que facilitar a las autoridades responsables de la lucha contra el blanqueo de capitales; así como las comunicaciones que de modo excepcional puedan realizarse en virtud de lo dispuesto en los artículos 111 y 112 de la Ley General Tributaria, previa autorización indelegable del Ministerio de Economía y Hacienda.
+
+h) Las informaciones que, por razón de supervisión prudencial o sanción de las entidades de crédito, el Banco de España tenga que dar a conocer al Ministerio de Economía y Hacienda o a las autoridades de las Comunidades Autónomas con competencias sobre entidades de crédito.
+
+4. Las autoridades judiciales que reciban del Banco de España información de carácter reservado vendrán obligadas a adoptar las medidas pertinentes que garanticen la reserva durante la sustanciación del proceso de que se trate. Las restantes autoridades, personas o entidades que reciban información de carácter reservado quedarán sujetas al secreto profesional regulado en el presente artículo y no podrán utilizarla sino en el marco del cumplimiento de las funciones que tengan legalmente establecidas.»
