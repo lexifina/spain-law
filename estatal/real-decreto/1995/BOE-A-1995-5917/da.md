@@ -1,0 +1,3 @@
+## Disposición adicional primera. Recurso Cameral Permanente.
+
+Para cumplir lo previsto en los artículos 10, a), y 12.1, a), de la Ley 3/1993, de 22 de marzo, básica de las Cámaras Oficiales de Comercio, Industria y Navegación, la Administración tributaria del Estado entregará anualmente a cada una de las Cámaras Oficiales de Comercio, Industria y Navegación la matrícula del Impuesto sobre Actividades Económicas correspondiente a los sujetos pasivos que ejerzan la actividad en su demarcación territorial, con excepción del importe del elemento tributario constituido por la superficie de los locales en los que se realicen las actividades gravadas y, en su caso, del coeficiente, del índice de situación y del recargo provincial.
