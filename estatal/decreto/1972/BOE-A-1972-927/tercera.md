@@ -1,0 +1,3 @@
+## Tercera.
+
+Respecto a procedimientos de pago, nóminas de pensionistas, facultades ordenadoras e interventoras, traslados de consignaciones, poderes y autorizaciones para el cobro de pensiones, acumulaciones y rehabilitación en el cobro de las mismas, incompatibilidades, revista de Clases Pasivas, retenciones por embargo de haberes pasivos, reintegros al Tesoro, pagas extraordinarias y, en general, cuantas materias entran en la exclusiva competencia de la Dirección General del Tesoro y Presupuestos, será aplicable a las Clases Pasivas Militares lo recogido al respecto en el texto refundido del Reglamento para la aplicación de la Ley de Derechos Pasivos de los Funcionarios de la Administración Civil del Estado, aprobado por Decreto número 2427/1966, de 13 de agosto.

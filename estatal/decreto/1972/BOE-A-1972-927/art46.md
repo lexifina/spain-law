@@ -1,0 +1,7 @@
+## Art. 46.
+
+Uno. La imposibilidad de una persona para ganarse el sustento se estimará que existe cuando padezca enfermedad mental, si media declaración judicial de incapacidad y, en tal caso, será suficiente acompañar, con la solicitud principal que se deduzca, testimonio de la correspondiente resolución.
+
+Dos. El que se halle cumpliendo condena de privación de libertad justificará que está imposibilitado para atender al sustento de su esposa e hijos; con testimonio de la sentencia en la que tal pena se le impuso y con certificación del Jefe de la prisión, expresiva de que continúa en ella. Este último documento se presentará como necesario para cada recibo de haberes.
+
+Tres. Cuando a efectos pasivos sea preciso que con la imposibilidad para atender al propio sustento o al de otras personas concurra la situación de pobreza legal, ésta se justificará en la forma que se establece en eI capítulo IX de este Reglamento.

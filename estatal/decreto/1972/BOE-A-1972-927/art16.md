@@ -1,0 +1,9 @@
+## Art. 16.
+
+Uno. El retiro forzoso por inutilidad física se acordará después de declararse ésta definitivamente en el oportuno expediente, tramitado en la forma prevista en el párrafo siguiente:
+
+Dos. El retiro por inutilidad física podrá declararse de oficio o solicitarse por el interesado, cualquiera que sea la situación militar en que se halle y tanto en uno como en otro caso, sin excepción alguna, habrá que acreditarse en el oportuno expediente de inutilidad, previo necesariamente al retiro.
+
+Tres. Cuando se inicie por petición del interesado, este expediente seguirá los mismos trámites que el del retiro voluntario regulado en el artículo siguiente, debiendo acreditarse la inutilidad o incapacidad en la forma que se expresa en el párrafo cuarto de este artículo.
+
+Cuatro. Se instruirá de oficio el expediente cuando, hallándose el interesado en situación activa, la inutilidad o incapacidad física se presente como evidente y notoria, impidiendo que aquél pueda prestar servicio. A estos efectos, el Jefe inmediato lo pondrá en conocimiento de la superior Autoridad de quien dependa, y si ésta encuentra motivos suficientes, dispondrá la incoación del expediente de inutilidad, que se tramitará conforme a las disposiciones establecidas o que se dicten en lo sucesivo para estos casos por los respectivos Ministerios. El Consejo Supremo de Justicia Militar dictaminará lo que proceda en cuanto a la inutilidad y consiguiente baja en activo del interesado, remitiendo la acordada al Ministerio que corresponda. Si la resolución definitiva adoptada fuese la declaración de inutilidad, la Autoridad superior de quien dependa el inútil dará orden al Jefe del Centro, Cuerpo o Dependencia donde aquél se halle prestando sus servicios, para la tramitación urgente del expediente de retiro, que se iniciará con copia del acuerdo relativo a la inutilidad del propuesto, ajustándose en lo demás a las reglas establecidas anteriormente para el retiro forzosa por edad.

@@ -1,0 +1,3 @@
+## Primera.
+
+Se declaran inaplicables el Reglamento de 21 de noviembre de 1927, con sus disposiciones complementarias, cuando los derechos pasivos causados por los funcionarios militares a su favor o en el de sus familias se determinen con arreglo al texto refundido de la Ley de Derechos Pasivos del Personal Militar y asimilado de las Fuerzas Armadas, Guardia Civil y Policía Armada, aprobado por Decreto número 1211/1972,de 13 de abril. Sin embargo, aquellas disposiciones se consideran como normas de derecho supletorio en cuanto no se opongan a lo que en la Ley-texto refundido y este Reglamento se dispone.
