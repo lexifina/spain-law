@@ -290,12 +290,12 @@ La emisión de SO2 en cualquier instalación siderúrgica se ajustará a lo pres
 
 7. Refinerías de petróleo.
 
-|  | Niveles de emisión – mg/Nm3 |
-| --- | --- |
-| Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
+|  |
+| --- |
+| Niveles de emisión mg/Nm3 Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
 | Emisión de partículas sólidas: |  |  |  |
 | Calderas y hornos | 180 | 150 | 120 |
-| Regeneración de catalizadores de las unidades de cracking catalítico | 100 | 50 | 50 |
+| Regeneración de catalizadores de las unidades de craqueo catalítico en lecho fluido (FCC) | - | 150 | 150 |
 
 Opacidad:
 
@@ -357,6 +357,18 @@ Se admitirá una opacidad del 10 por 100 como máximo en todas las fuentes.
 | --- | --- |
 | Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
 | Emisión de polvos | 300 | 200 | 150 |
+
+11 bis. Fritas de vidrio para esmaltes.
+
+|  |
+| --- |
+| Niveles de emisión mg/Nm3 Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
+| Emisión de flúor en partículas |  |  |  |
+| Zona húmeda de pastizales | 20 | 20 | 20 |
+| Otras zonas | 40 | 40 | 40 |
+| Emisión de flúor gas: |  |  |  |
+| Zona húmeda de pastizales | 20 | 20 | 20 |
+| Otras zonas | 40 | 40 | 40 |
 
 12. Plantas de aglomerados asfálticos.
 
@@ -554,7 +566,7 @@ La opacidad de los humos no superará el número 1 de la escala de Ringelmann.
 | SO2 | mg/Nm3 | 4.300 |
 | CO | p.p.m. | 500 |
 | NOx (medido como NO2) | p.p.m. | 300 |
-| F total | mg/Nm3 | 230 |
+| Flúor total: Zonas húmedas de pastizales Otras zonas | mg/Nm3 mg/Nm3 | 40 80 |
 | Cl | mg/Nm3 | 230 |
 | HCl | mg/Nm3 | 460 |
 | SH2 | mg/Nm3 | 10 |
@@ -562,3 +574,5 @@ La opacidad de los humos no superará el número 1 de la escala de Ringelmann.
 Opacidad:
 
 El índice de ennegrecimiento no será superior al número 1 de la escala de Ringelmann o al número 2 de la escala de Bacharach, que equivale al 20 por 100 de opacidad.
+
+> Se modifica por el art. único del Real Decreto 547/1979, de 20 de febrero. Ref. BOE-A-1979-8096.
