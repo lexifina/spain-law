@@ -1,0 +1,5 @@
+El Real Decreto 1449/2000, de 28 de julio, por el que se modifica y desarrolla la estructura orgánica básica del Ministerio del Interior, define, en su artículo 4, a la Dirección General de la Guardia Civil como el órgano del Ministerio del Interior, integrado en la Secretaría de Estado de Seguridad, encargado de la ordenación, dirección, coordinación y ejecución de las misiones que al Cuerpo de la Guardia Civil le encomienden las disposiciones vigentes, de acuerdo con las directrices y órdenes emanadas de los Ministros del Interior y de Defensa, dentro del ámbito de sus respectivas competencias.
+
+Se hace preciso, por tanto, adaptar la estructura orgánica básica de la Dirección General de la Guardia Civil a la nueva organización creada por el citado Real Decreto y establecer las funciones de las distintas Unidades y Servicios que la integran.
+
+En su virtud, haciendo uso de la autorización concedida por la disposición final primera del Real Decreto 1449/2000, a propuesta del Vicepresidente Primero del Gobierno y Ministro del Interior y del Ministro de Defensa, previa aprobación del Ministro de Administraciones Públicas, dispongo:
