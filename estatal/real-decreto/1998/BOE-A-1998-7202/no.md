@@ -1,0 +1,3 @@
+Téngase en cuenta que, con efectos de 6 de mayo de 2020, el Organismo Autónomo, Instituto para la Reestructuración de la Minería del Carbón y Desarrollo Alternativo de las Comarcas Mineras, O.A., pasa a denominarse, Instituto para la Transición Justa, O.A. y todas las referencias previstas en la normativa vigente al mismo se entenderán hechas al Instituto para la Transición Justa, O.A., según establece la disposición adicional décima del Real Decreto 500/2020, de 28 de abril. Ref. BOE-A-2020-4814#da-10
+
+> Incluye la corrección de erratas publicada en BOE núm. 80, de 3 de abril de 1998. Ref. BOE-A-1998-7940
