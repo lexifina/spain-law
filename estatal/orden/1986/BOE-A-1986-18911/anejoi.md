@@ -10,7 +10,23 @@ a) Autógamas (garbanzo, guisante, judía, lechuga, lenteja y tomate).
 
 – Semilla Certificada: 10 metros.
 
-b) Alógamas (especies de los géneros Beta, Brassica y Allium):
+b1) Beta vulgaris:
+
+1. Con relación a fuentes de polen del género Beta no incluidas a continuación: 1.000 m.
+
+2. Con relación a fuentes de polen de variedades de la misma subespecie, pertenecientes a un grupo diferente de variedades:
+
+Semilla de base y de prebase. 1.000 m.
+
+Semilla certificada: 600 m.
+
+3. Con relación a fuentes de polen de variedades de la misma subespecie, pertenecientes al mismo grupo de variedades:
+
+Semilla de base y de prebase: 600 m.
+
+Semilla certificada: 300 m.
+
+b2) Alógamas (especies de los géneros Brassica y Allium):
 
 1. En relación con parcelas de otras variedades de distinto tipo morfológico, agronómico o de utilización, susceptibles de provocar deterioro serio a causa de su cruce:
 
@@ -49,3 +65,5 @@ d) Achicoria de café.
 – Semilla Certificada: 300 metros.
 
 Todas las distancias anteriormente relacionadas podrán ser modificadas cuando se utilice un medio de aislamiento que, a juicio del Servicio Oficial de Control correspondiente, evite todo tipo de polinización indeseable.
+
+> Se añade el apartado b).1 y se modifica y renumera el anterior b) como b.2) por el apartado 1 de la Orden de 6 de octubre de 1988. Ref. BOE-A-1988-24864.

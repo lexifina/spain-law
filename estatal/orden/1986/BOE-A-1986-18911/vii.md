@@ -2,7 +2,7 @@
 
 VII.1 Tamaño de los lotes.
 
-El tamaño de los lotes no podrá exceder de los diez mil kilogramos, excepto para garbanzo, guisantes, haba, judía y lenteja, cuyo máximo será de veinte mil kilogramos.
+El tamaño de los lotes no podrá exceder de los diez mil kilogramos, excepto para garbanzo, guisantes, haba, judía y lenteja, cuyo máximo será de veinte mil kilogramos. En el peso máximo del lote se admite una tolerancia de hasta el 5 por 100.
 
 VII.2 Identificación de los lotes.
 
@@ -28,4 +28,6 @@ Los Productores de semilla standard antes de proceder a la comercialización de 
 
 El rigor del muestreo, efectuado por el Productor, será verificado mediante comprobaciones aleatorias realizadas por los Servicios Oficiales de Control.
 
-> Redactados losl apartados 4 y 4.1 conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. Ref. BOE-A-1987-10508.
+> Se modifica el apartado 1 por el apartado 1 de la Orden 6 de octubre de 1988. Ref. BOE-A-1988-24864.
+
+> Redactados los apartados 4 y 4.1 conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. Ref. BOE-A-1987-10508.
