@@ -1,9 +1,11 @@
 ## Artículo diez.
 
-Ningún propietario puede exigir nuevas instalaciones, servicios o mejoras no requeridos por la adecuada conservación de habitabilidad del inmueble, según su rango.
+1. Será obligación de la comunidad la realización de las obras necesarias para el adecuado sostenimiento y conservación del inmueble y de sus servicios, de modo que reúna las debidas condiciones estructurales, de estanqueidad, habitabilidad y seguridad.
 
-Cuando se adopten válidamente acuerdos para realizar innovaciones no exigibles a tenor del párrafo anterior y cuya cuota de instalación exceda del importe de una mensualidad ordinaria de gastos comunes, el disidente no resultará obligado, ni se modificará su cuota, incluso en el caso de que no pueda privársele de la mejora o ventaja.
+2. Los propietarios que se opongan o demoren injustificadamente la ejecución de las órdenes dictadas por la autoridad competente responderán individualmente de las sanciones que puedan imponerse en vía administrativa.
 
-Si el disidente desea, en cualquier tiempo, participar de las ventajas de la innovación, habrá de abonar su cuota en los gastos de realización y mantenimiento.
+3. En caso de discrepancia sobre la naturaleza de las obras a realizar resolverá lo procedente la Junta de propietarios. También podrán los interesados solicitar arbitraje o dictamen técnico en los términos establecidos en la ley.
 
-En todo caso, las innovaciones que hagan inservible alguna parte del edificio para el uso y disfrute de un propietario requerirán el consentimiento expreso de éste.
+4. Al pago de los gastos derivados de la realización de las obras de conservación a que se refiere el presente artículo estará afecto el piso o local en los mismos términos y condiciones que los establecidos en el artículo 9 para los gastos generales.
+
+> Se modifica por el art. 6 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858

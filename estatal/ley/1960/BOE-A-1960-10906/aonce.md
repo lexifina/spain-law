@@ -1,3 +1,13 @@
 ## Artículo once.
 
-La construcción de nuevas plantas y cualquier otra alteración en la estructura o fábrica del edificio o en las cosas comunes afectan al título constitutivo y deben someterse al régimen establecido para las modificaciones del mismo. El acuerdo que se adopte fijará la naturaleza de la modificación, las alteraciones que origine en la descripción de la finca y de los pisos o locales, la variación de cuotas y el titular o titulares de los nuevos locales o pisos.
+1. Ningún propietario podrá exigir nuevas instalaciones, servicios o mejoras no requeridos para la adecuada conservación, habitabilidad y seguridad del inmueble, según su naturaleza y características.
+
+2. Cuando se adopten válidamente acuerdos para realizar innovaciones no exigibles a tenor del párrafo anterior y cuya cuota de instalación exceda del importe de tres mensualidades ordinarias de gastos comunes, el disidente no resultará obligado, ni se modificará su cuota, incluso en el caso de que no pueda privársele de la mejora o ventaja.
+
+Si el disidente desea, en cualquier tiempo, participar de las ventajas de la innovación, habrá de abonar su cuota en los gastos de realización y mantenimiento, debidamente actualizados aplicando el correspondiente interés legal.
+
+3. Las innovaciones que hagan inservible alguna parte del edificio para el uso y disfrute de un propietario requerirán, en todo caso, el consentimiento expreso de éste.
+
+4. Las derramas para el pago de mejoras realizadas o por realizar en el inmueble serán a cargo de quien sea propietario en el momento de la exigibilidad de las cantidades afectas al pago de dichas mejoras.
+
+> Se modifica por el art. 7 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858

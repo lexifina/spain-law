@@ -1,7 +1,19 @@
 ## Artículo veinte.
 
-1. Las obligaciones a que se refiere al número quinto del artículo 9.º serán cumplidas por el que tenga la titularidad del piso o local, en el tiempo y forma determinados por la Junta. Si no lo hiciere, podrá el Presidente o el Administrador, si éste hubiere sido autorizado por la Junta, exigirlo por vía judicial sin necesidad de requerimiento previo alguno, salvo si los Estatutos exigiesen el requerimiento.
+1. Corresponde al administrador:
 
-2. Cualquiera que fuere el procedimiento que se utilizare para el cobro, la certificación del acuerdo de la Junta, aprobatorio de la liquidación de la deuda, será documento suficiente, a los efectos del número 1.º del artículo 1.400 de la Ley de Enjuiciamiento Civil, para que pueda decretarse el embargo preventivo de los bienes del deudor, siempre que tal acuerdo haya sido notificado al deudor en el domicilio en España que previamente haya designado o, en su defecto, en el propio piso o local.
+a) Velar por el buen régimen de la casa, sus instalaciones y servicios, y hacer a estos efectos las oportunas advertencias y apercibimientos a los titulares.
+
+b) Preparar con la debida antelación y someter a la Junta el plan de gastos previsibles, proponiendo los medios necesarios para hacer frente a los mismos.
+
+c) Atender a la conservación y entretenimiento de la casa, disponiendo las reparaciones y medidas que resulten urgentes, dando inmediata cuenta de ellas al presidente o, en su caso, a los propietarios.
+
+d) Ejecutar los acuerdos adoptados en materia de obras y efectuar los pagos y realizar los cobros que sean procedentes.
+
+e) Actuar, en su caso, como secretario de la Junta y custodiar a disposición de los titulares la documentación de la comunidad.
+
+f) Todas las demás atribuciones que se confieran por la Junta.
+
+> Se modifica por el art. 16 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
 
 > Se modifica por el art. único.1 de la Ley 2/1988, de 23 de febrero. Ref. BOE-A-1988-4823

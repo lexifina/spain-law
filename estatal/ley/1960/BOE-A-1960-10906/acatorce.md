@@ -1,7 +1,15 @@
 ## Artículo catorce.
 
-La asistencia a la junta de propietarios será personal o por representación legal o voluntaria, bastando para acreditar ésta un escrito firmado por el propietario.
+Corresponde a la Junta de propietarios:
 
-Si algún piso pertenece proindiviso a diferentes propietarios, éstos nombrarán un representante para asistir y votar en las juntas.
+a) Nombrar y remover a las personas que ejerzan los cargos mencionados en el artículo anterior y resolver las reclamaciones que los titulares de los pisos o locales formulen contra la actuación de aquéllos.
 
-Si se hallare en usufructo, la asistencia y el voto corresponden al nudo propietario, quien, salvo manifestación en contrario, se entenderá representado por el usufructuario, debiendo ser expresa la delegación cuando se trate de los acuerdos a que se refiere el número primero del artículo dieciséis, o de obras extraordinarias y de mejora.
+b) Aprobar el plan de gastos e ingresos previsibles y las cuentas correspondientes.
+
+c) Aprobar los presupuestos y la ejecución de todas las obras de reparación de la finca, sean ordinarias o extraordinarias, y ser informada de las medidas urgentes adoptadas por el administrador de conformidad con lo dispuesto en el artículo 20.c).
+
+d) Aprobar o reformar los estatutos y determinar las normas de régimen interior.
+
+e) Conocer y decidir en los demás asuntos de interés general para la comunidad, acordando las medidas necesarias o convenientes para el mejor servicio común.
+
+> Se modifica por el art. 10 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858

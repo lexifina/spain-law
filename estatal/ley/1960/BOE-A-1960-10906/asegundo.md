@@ -1,21 +1,13 @@
 ## Artículo segundo.
 
-Se modifica el número tercero del artículo octavo, al que se añaden dos números más, el cuarto y quinto, y el número undécimo del artículo ciento siete, ambos de la Ley Hipotecaria, que quedan redactados al tenor siguiente:
+Esta Ley será de aplicación:
 
-«Artículo octavo.
+a) A las comunidades de propietarios constituidas con arreglo a lo dispuesto en el artículo 5.
 
-Tercero.–Las fincas urbanas y edificios en general, aunque pertenezcan a diferentes dueños en dominio pleno o menos pleno.
+b) A las comunidades que reúnan los requisitos establecidos en el artículo 396 del Código Civil y no hubiesen otorgado el título constitutivo de la propiedad horizontal.
 
-Cuarto.–Los edificios en régimen de propiedad por pisos cuya construcción esté concluida o, por lo menos, comenzada.
+Estas comunidades se regirán, en todo caso, por las disposiciones de esta Ley en lo relativo al régimen jurídico de la propiedad, de sus partes privativas y elementos comunes, así como en cuanto a los derechos y obligaciones recíprocas de los comuneros.
 
-En la inscripción se describirán, con las circunstancias prescritas por la Ley, además del inmueble en su conjunto, sus distintos pisos o locales susceptibles de aprovechamiento independiente, asignando a éstos un número correlativo, escrito en letra y la cuota de participación que a cada uno corresponde en relación con el inmueble. En la inscripción del solar o del edificio en conjunto se harán constar los pisos meramente proyectados.
+c) A los complejos inmobiliarios privados, en los términos establecidos en esta Ley.
 
-Se incluirán además aquellas reglas contenidas en el título y en los estatutos que configuren el contenido y ejercicio de esta propiedad.
-
-La inscripción se practicará a favor del dueño del inmueble constituyente del régimen o de los titulares de todos y cada uno de sus pisos o locales.
-
-Quinto.–Los pisos o locales de un edificio en régimen de propiedad horizontal, siempre que conste previamente en la inscripción del inmueble la constitución de dicho régimen.»
-
-«Artículo ciento siete.
-
-Undécimo.–Los pisos o locales de un edificio en régimen de propiedad horizontal inscritos conforme a lo que determina el artículo octavo.»
+> Se modifica por el art. 2 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
