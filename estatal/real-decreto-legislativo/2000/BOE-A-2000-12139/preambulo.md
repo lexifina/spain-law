@@ -1,0 +1,15 @@
+La Ley 29/1975, de 27 de junio, sobre Seguridad Social de los Funcionarios Civiles del Estado, determinaba en su disposición adicional segunda que la Seguridad Social del personal al servicio de la Administración de Justicia se regulará por una ley especial, adaptada a las directrices de la Ley 29/1975, y en régimen de mutualismo, a través de una Mutualidad de Funcionarios de la Administración de Justicia.
+
+En cumplimiento de la anterior previsión legal, el Real Decreto-ley 16/1978, de 7 de junio, creó la Mutualidad General Judicial, a través de la cual se gestiona el Régimen especial de Seguridad Social de los Funcionarios de la Administración de Justicia, adoptándose como directrices fundamentales la tendencia a la unidad, la participación de los interesados en el gobierno de la Mutualidad y la prestación por el Estado de la necesaria cobertura económica, de forma que la Mutualidad General Judicial quedaba definitivamente consolidada dentro del sistema de la Seguridad Social española.
+
+Esta norma ha sido objeto de numerosas modificaciones posteriores. Entre las disposiciones con rango de ley que han incidido en ella pueden citarse, sin ánimo exhaustivo, la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial ; el texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto legislativo 676/1987, de 30 de abril ; sucesivas Leyes de Presupuestos Generales del Estado y de Medidas fiscales, administrativas y del orden social y la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero.
+
+Por otra parte, es preciso tener presente que la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, como dispone el artículo 62 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, es de aplicación a esta Mutualidad General Judicial en lo relativo a los Organismos autónomos, con determinadas especialidades que se establecen en el mismo artículo.
+
+Asimismo, el citado artículo 62 de la Ley 50/1998, de 14 de abril, autoriza al Gobierno para que, en el plazo de un año a partir de la entrada en vigor de dicha Ley, proceda a la elaboración, entre otros, de un texto refundido que regularice, aclare y armonice el Real Decreto-ley 16/1978, de 7 de junio, y sus modificaciones posteriores con las disposiciones que hayan incidido en el ámbito del mutualismo administrativo contenidas en norma con rango de ley.
+
+Finalmente, la disposición adicional segunda de la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, prorroga hasta el 30 de junio del año 2000 la autorización otorgada al Gobierno por el artículo 62 anteriormente mencionado.
+
+En su virtud, a propuesta del Ministro de Justicia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de junio de 2000,
+
+## D I S P O N G O :
