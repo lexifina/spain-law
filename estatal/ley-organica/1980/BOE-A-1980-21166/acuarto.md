@@ -8,7 +8,7 @@ b) Sus propios impuestos, tasas y contribuciones especiales.
 
 c) Los tributos cedidos, total o parcialmente, por el Estado.
 
-d) Los recargos que pudieran establecerse sobre los impuestos del Estado.
+d) Los recargos que pudieran establecerse sobre los tributos del Estado.
 
 e) Las participaciones en los ingresos del Estado.
 
@@ -23,5 +23,9 @@ h) Sus propios precios públicos.
 a) Las asignaciones que se establezcan en los Presupuestos Generales del Estado, de acuerdo con lo dispuesto en la presente Ley.
 
 b) Las transferencias del Fondo de Compensación Interterritorial, cuyos recursos tienen el carácter de carga general del Estado a los efectos previstos en los artículos segundo, ciento treinta y ocho y ciento cincuenta y ocho de la Constitución.
+
+> Se modifica el apartado 1.d) por el art. único.2 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+
+> Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
 
 > Se modifica el apartado 1 por el art. 1 de la Ley Orgánica 1/1989, de 13 de abril. Ref. BOE-A-1989-8507

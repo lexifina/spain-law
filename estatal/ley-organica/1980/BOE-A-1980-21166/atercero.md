@@ -1,8 +1,8 @@
 ## Artículo 3.
 
-Uno. Para la adecuada coordinación entre la actividad financiera de las Comunidades Autónomas y de la Hacienda del Estado se crea por esta Ley el Consejo de Política Fiscal y Financiera de las Comunidades Autónomas, que estará constituido por el Ministro de Hacienda, el de Economía, el de Administración Territorial y el Consejero de Hacienda de cada Comunidad Autónoma.
+1. Para la adecuada coordinación entre la actividad financiera de las Comunidades Autónomas y de la Hacienda del Estado se crea por esta Ley el Consejo de Política Fiscal y Financiera de las Comunidades Autónomas, que estará constituido por el Ministro de Economía y Hacienda, el Ministro de Administraciones Públicas y el Consejero de Hacienda de cada Comunidad o Ciudad Autónoma.
 
-Dos. El Consejo de Política Fiscal y Financiera, como órgano consultivo y de deliberación, entenderá de las siguientes materias:
+2. El Consejo de Política Fiscal y Financiera, como órgano consultivo y de deliberación, entenderá de las siguientes materias:
 
 a) La coordinación de la política presupuestaria de las Comunidades Autónomas con la del Estado.
 
@@ -18,4 +18,8 @@ f) La coordinación de la política de inversiones públicas.
 
 g) En general, todo aspecto de la actividad financiera de las Comunidades y de la Hacienda del Estado que, dada su naturaleza, precise de una actuación coordinada.
 
-Tres. Para su adecuado funcionamiento, el Consejo de Política Fiscal y Financiera elaborará un reglamento de régimen interior, que será aprobado por mayoría absoluta de sus miembros.
+3. Para su adecuado funcionamiento, el Consejo de Política Fiscal y Financiera elaborará un reglamento de régimen interior, que será aprobado por mayoría absoluta de sus miembros.
+
+> Se modifica el apartado 1 por el art. único.1 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+
+> Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.

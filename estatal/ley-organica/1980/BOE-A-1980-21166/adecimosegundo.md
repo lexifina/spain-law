@@ -1,5 +1,9 @@
 ## Artículo 12.
 
-Uno. Las Comunidades Autónomas podrán establecer recargos sobre los impuestos estatales cedidos, así como sobre los no cedidos que graven la renta o el patrimonio de las personas físicas con domicilio fiscal en su territorio.
+1. Las Comunidades Autónomas podrán establecer recargos sobre los tributos del Estado susceptibles de cesión.
 
-Dos. Los recargos previstos en el apartado anterior no podrán configurarse de forma que puedan suponer una minoración en los ingresos del Estado por dichos impuestos, ni desvirtuar la naturaleza o estructura de los mismos.
+2. Los recargos previstos en el apartado anterior no podrán configurarse de forma que puedan suponer una minoración en los ingresos del Estado por dichos impuestos, ni desvirtuar la naturaleza o estructura de los mismos.
+
+> Se modifica el apartado 1 por el art. único.6 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+
+> Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.

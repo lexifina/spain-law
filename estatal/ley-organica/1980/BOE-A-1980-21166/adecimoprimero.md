@@ -1,27 +1,21 @@
 ## Artículo 11.
 
-Uno. Pueden ser cedidos a las Comunidades Autónomas en las condiciones que establece la presente Ley los tributos relativos a las siguientes materias tributarias:
+Sólo pueden ser cedidos a las Comunidades Autónomas en las condiciones que establece la presente Ley, los siguientes tributos:
 
-a) Impuesto sobre el Patrimonio Neto.
+a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial con el límite máximo del 30 por 100.
 
-b) Impuesto sobre transmisiones patrimoniales.
+b) Impuesto sobre el Patrimonio.
 
-c) Impuesto sobre sucesiones y donaciones.
+c) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
 
-d) La imposición general sobre las ventas en su fase minorista.
+d) Impuesto sobre Sucesiones y Donaciones.
 
-e) Los impuestos sobre consumos específicos en su fase minorista, salvo los recaudados mediante monopolios fiscales.
+e) La imposición general sobre las ventas en su fase minorista.
 
-f) Las tasas y demás exacciones sobre el juego.
+f) Los impuestos sobre consumos específicos en su fase minorista, salvo los recaudados mediante monopolios fiscales.
 
-Dos. No podrán ser objeto de cesión los siguientes impuestos estatales:
+g) Los tributos sobre el juego.
 
-a) Sobre la renta global de las personas físicas.
+> Se modifica por el art. único.5 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
 
-b) Sobre el beneficio de las Sociedades.
-
-c) Sobre la producción o las ventas, salvo lo dispuesto en el apartado anterior.
-
-d) Sobre el tráfico exterior.
-
-e) Los que actualmente se recaudan a través de monopolios fiscales.
+> Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
