@@ -1,0 +1,7 @@
+## Artículo diecinueve.
+
+1. La entrega de la persona cuya extradición haya sido acordada se realizará por agente de la autoridad española, previa notificación del lugar y fecha fijados, observándose la legislación nacional vigente en este orden. Con aquélla, se entregarán a las autoridades o agentes del Estado requirente acreditados a tal fin los documentos, efectos y dinero que deban ser igualmente puestos a su disposición. Si la entrega del individuo reclamado no puede efectuarse, se procederá a la de dichos documentos, efectos y dinero, quedando a salvo, en todo caso, los derechos que pudieran corresponder sobre los mismos a otros interesados. El lugar y fecha fijados para la entrega serán comunicados asimismo al Tribunal que entendió de la solicitud.
+
+2. Si la persona reclamada se encontrara sometida a procedimiento o condena por los Tribunales españoles o sancionada por cualquier otra clase de organismos o autoridades nacionales, la entrega podrá aplazarse hasta que deje extinguidas sus responsabilidades en España o efectuarse temporal o definitivamente en las condiciones que se fijen de acuerdo con el Estado requirente.
+
+3. Si la persona reclamada no hubiera sido recibida en la fecha y lugar fijados podrá ser puesta en libertad transcurridos quince días a contar de dicha fecha y necesariamente a los treinta, y se podrá denegar su extradición por el mismo hecho si de nuevo se solicitara.
