@@ -1,0 +1,5 @@
+El apartado uno del artículo 66 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, dispone que la Gerencia del Sector de la Construcción Naval adoptará la configuración de entidad pública empresarial de las previstas en el párrafo b) del apartado 1 del artículo 43 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado. El apartado tres del referido artículo 66 de la Ley 50/1998 establece que el Gobierno, mediante Real Decreto, aprobará el Estatuto de la Gerencia del Sector de la Construcción Naval, en el que se contendrán las especificaciones establecidas en el artículo 62 de la citada Ley 6/1997.
+
+En su virtud, a iniciativa de la Ministra de Ciencia y Tecnología, a propuesta conjunta de los Ministros de Administraciones Públicas y de Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 22 de diciembre de 2000,
+
+## D I S P O N G O :
