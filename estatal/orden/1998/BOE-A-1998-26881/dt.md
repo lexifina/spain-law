@@ -1,0 +1,3 @@
+## Disposición transitoria. Proyecto en ejecución.
+
+Sin perjuicio de lo establecido en la disposición derogatoria, las obras y servicios realizados al amparo de lo previsto en la Orden de 2 de marzo de 1994, por la que se establecen las bases para la concesión de subvenciones por el Instituto Nacional de Empleo, en el ámbito de la colaboración con las Corporaciones Locales para la contratación de trabajadores desempleados en la realización de obras o servicios de interés general y social, seguirán rigiéndose por la misma hasta su completa finalización y la emisión de los informes que dicha Orden establece.
