@@ -1,0 +1,5 @@
+El artículo 18 de la Ley Orgánica 5/1992, de 29 de octubre, de Regulación del Tratamiento Automatizado de Datos de Carácter Personal (LORTAD), establece que la creación, modificación o supresión de ficheros automatizados de las Administraciones Públicas sólo podrán hacerse por medio de disposición general publicada en el «Boletín Oficial del Estado» o en el Diario Oficial correspondiente.
+
+En cumplimiento de dicho precepto, se procedió por Orden de 26 de julio de 1994, ampliada por Órdenes posteriores, a la regulación de los ficheros con datos de carácter personal gestionados por el Ministerio del Interior, entre los que se describen y regulan los ficheros ubicados en los sistemas informáticos de los servicios centrales del Departamento.
+
+Por consiguiente, a fin de dar cumplimiento al mandato legal del artículo 18 de la Ley Orgánica 5/1992, sobre modificación y creación de ficheros automatizados, que contengan datos de carácter personal, y asegurar a los administrados el ejercicio de sus legítimos derechos dispongo:
