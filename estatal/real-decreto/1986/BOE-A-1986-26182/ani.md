@@ -2,43 +2,51 @@
 
 1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_006.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_007.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_008.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_009.png)
 
 2. Tractores agrícolas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_013.png)
 
 3. Vehículos de 2 ó 3 ruedas y cuadriciclos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_015.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_016.png)
 
 4. Varios
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_017.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_018.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_016.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_019.png)
+
+> Se modifica por la Orden CTE/3347/2002, de 26 de diciembre. Ref. BOE-A-2003-93.
 
 > Se modifica por la Orden CTE/1612/2002, de 25 de junio. Ref. BOE-A-2002-12763.
 
