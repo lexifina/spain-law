@@ -4,6 +4,8 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_009.png)
 
+> Se modifica por la Orden de 24 de enero de 1992. Ref. BOE-A-1992-2982.
+
 > Se modifica por la Orden de 16 de julio de 1991. Ref. BOE-A-1991-19294.
 
 > Se modifica por la Orden de 24 de noviembre de 1989. Ref. BOE-A-1989-29544.
