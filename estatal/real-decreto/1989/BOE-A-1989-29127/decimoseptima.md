@@ -1,0 +1,5 @@
+## Disposición transitoria decimoséptima.
+
+1. Los que a la promulgación de la Ley de Costas hayan adquirido el derecho a la utilización o aprovechamiento del dominio público marítimo al amparo del artículo 57 del Decreto-ley de Puertos de 1928 deberán solicitar de la Administración del Estado, dentro del plazo de un año desde la entrada en vigor de aquélla, la expedición del título correspondiente que les será otorgado a la vista del acta de notoriedad que a tal efecto aporten. Si no lo solicitaren en dicho plazo se entenderá que han desistido de tal derecho. El título se otorgará por un plazo máximo de diez años (disposición transitoria sexta, 3, de la Ley de Costas).
+
+2. El acta de notoriedad deberá acreditar el cumplimiento de los requisitos establecidos en el artículo 57 de la citada Ley de Puertos y, en particular, que se trate de aprovechamiento para industria marítima y que no ha sufrido variación ni alteración en el transcurso de los veinte años necesarios para la adquisición del derecho.

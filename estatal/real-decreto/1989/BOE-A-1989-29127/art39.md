@@ -1,0 +1,3 @@
+## Artículo 39.
+
+La protección del dominio público marítimo-terrestre comprende la defensa de su integridad y de los fines de uso general a que está destinado; la preservación de sus características y elementos naturales y la prevención de las perjudiciales consecuencias de obras e instalaciones, en los términos de la Ley de Costas (artículo 20 de la Ley de Costas).

@@ -1,0 +1,25 @@
+## Artículo 5.
+
+Pertenecen, asimismo, al dominio público marítimo-terrestre estatal:
+
+1. Las accesiones a la ribera del mar por depósito de materiales o por retirada del mar, cualesquiera que sean las causas.
+
+2. Los terrenos ganados al mar como consecuencia directa o indirecta de obras y los desecados en su ribera.
+
+3. Los terrenos invadidos por el mar que pasen a formar parte de su lecho por cualquier causa.
+
+4. Los acantilados sensiblemente verticales que estén en contacto con el mar o con espacios de dominio público marítimo-terrestre, hasta su coronación.
+
+5. Los terrenos deslindados como dominio público que por cualquier causa han perdido sus características naturales de playa, acantilado, o zona marítimo-terrestre, salvo lo previsto en los artículos 18 de la Ley de Costas y 37 de este Reglamento.
+
+6. Los islotes en aguas interiores y mar territorial.
+
+7. Los terrenos incorporados por los concesionarios para completar la superficie de una concesión de dominio público marítimo-terrestre que les haya sido otorgada, cuando así se establezca en las cláusulas de la concesión.
+
+8. Los terrenos colindantes con la ribera del mar que se adquieran para su incorporación al dominio público marítimo-terrestre.
+
+9. Las obras e instalaciones construidas por el Estado en dicho dominio.
+
+10. Las obras e instalaciones de iluminación de costas y señalización marítima, construidas por el Estado, cualquiera que sea su localización, así como los terrenos afectados al servicio de las mismas salvo lo previsto en los artículos 18 de la Ley de Costas y 37 de este Reglamento.
+
+11. Los puertos e instalaciones portuarias de titularidad estatal, que se regularán por su legislación específica (artículo 4.º de la Ley de Costas).
