@@ -7,3 +7,5 @@ Dos. Las piezas, elementos o conjuntos existentes en el comercio en la fecha de 
 Tres. Las piezas auxiliares, tales como arandelas, pasadores, tornillos, etc., y aquellas otras que por su configuración o tamaño no permitan fijar sobre ellas la marca del fabricante, deberán poder identificarse por la marca del mismo fijada en etiquetas, marchamos o en el estuche o paquete que las contenga.
 
 Cuatro. Las placas de matrícula para vehículos automóviles ostentarán en su parte posterior, en forma legible e indeleble, el nombre o la razón social y el domicilio del establecimiento expedidor.
+
+> Véase el art. 1 del Real Decreto 1672/1977, de 2 de junio sobre la suspensión de la entrada en vigor. Ref. BOE-A-1977-15728.
