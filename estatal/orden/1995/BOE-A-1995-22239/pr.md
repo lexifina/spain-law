@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 258, de 28 de octubre de 1995. Ref. BOE-A-1995-23519.
+Norma derogada, con efectos de 12 de diciembre de 2002, salvo los arts. 26 a 33 y los párrafos uno y dos del art. 36, que serán de aplicación al personal que mantenga su condición de funcionario, según establece la disposición derogatoria única, punto 1, del Real Decreto 1245/2002, de 29 de noviembre. Ref. BOE-A-2002-24045#ddunica.
