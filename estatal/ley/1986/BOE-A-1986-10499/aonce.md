@@ -8,4 +8,4 @@ Serán obligaciones de los ciudadanos con las instituciones y organismos del sis
 
 3. Responsabilizarse del uso adecuado de las prestaciones ofrecidas por el sistema sanitario, fundamentalmente en lo que se refiere a la utilización de servicios, procedimientos de baja laboral o incapacidad permanente y prestaciones terapéuticas y sociales.
 
-4. Firmar el documento de alta voluntaria en los casos de no aceptación del tratamiento. De negarse a ello, la Dirección del correspondiente Centro Sanitario, a propuesta del facultativo encargado del caso, podrá dar el alta.
+> Se deroga el apartado 4 por la disposición derogatoria única de la Ley 41/2002, de 14 de noviembre. Ref. BOE-A-2002-22188.
