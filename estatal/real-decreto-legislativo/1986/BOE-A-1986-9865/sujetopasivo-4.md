@@ -1,0 +1,1 @@
+Sujeto pasivo

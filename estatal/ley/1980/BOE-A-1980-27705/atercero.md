@@ -1,3 +1,5 @@
 ## Artículo tercero.
 
-Todos los Ayuntamientos formarán sus padrones municipales de habitantes cada cinco años, rectificándolos anualmente. En los años terminados en uno, la fecha de su formación coincidirá con la señalada para la de los Censos de Población y Vivienda. En los años terminados en seis, la fecha de su formación será la que se señale por Real Decreto entre el uno de marzo y el treinta y uno de mayo.
+(Derogado)
+
+> Se deroga por la disposición derogatoria 1.5 del Real Decreto Legislativo 781/1986, de 18 de abril. Ref. BOE-A-1986-9865.
