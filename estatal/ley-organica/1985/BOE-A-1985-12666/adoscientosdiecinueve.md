@@ -24,6 +24,10 @@ Son causas de abstención y, en su caso, de recusación:.
 
 11.º Ser una de las partes subordinado del Juez que deba resolver la contienda litigiosa.
 
+12.º Haber ocupado el Juez o Magistrado cargo público con ocasión del cual haya podido formar criterio, en detrimento de la debida imparcialidad, sobre el objeto del pleito o causa, sobre las partes, sus representantes y asesores.
+
+> Se añade el número 12 por el art. 4.1 de la Ley Orgánica 5/1997, de 4 de diciembre. Ref. BOE-A-1997-26034
+
 > Se modifica el número 10 por el art. 3.5 de la Ley Orgánica 7/1988, de 28 de diciembre. Ref. BOE-A-1988-29621
 
 > Redactados los números 10 y 11 conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

@@ -6,6 +6,8 @@ a) Cuando sean autorizados para realizar una misión por período superior a sei
 
 b) Cuando adquieran la condición de funcionarios al servicio de Organismos Internacionales o de carácter supranacional.
 
-c) Cuando sean adscritos al servicio del Tribunal Constitucional o del Defensor del Pueblo.
+c) Cuando sean adscritos al servicio del Tribunal Constitucional o del Defensor del Pueblo u órgano equivalente de las Comunidades Autónomas.
 
 d) Cuando cumplan el servicio militar o la prestación sustitutoria equivalente.
+
+> Se modifica la letra c) por el art. 2 de la Ley Orgánica 5/1997, de 4 de diciembre. Ref. BOE-A-1997-26034

@@ -2,7 +2,7 @@
 
 1. El cargo de Magistrado suplente será remunerado en la forma que reglamentariamente se determine por el Gobierno, dentro de las previsiones presupuestarias.
 
-2. Sólo podrá recaer en quienes reúnan las condiciones necesarias para el ingreso en la Carrera Judicial, excepto las derivadas de la jubilación por edad. No podrá ser propuesto ni actuar como suplente quien haya alcanzado la edad de setenta y dos años.
+2. Sólo podrá recaer en quienes reúnan las condiciones necesarias para el ingreso en la Carrera Judicial, excepto las derivadas de la jubilación por edad. No podrá ser propuesto ni actuar como suplente quien haya alcanzado la edad de setenta y dos años y, para el Tribunal Supremo, quienes no tengan, como mínimo, quince años de experiencia jurídica.
 
 3. Tendrán preferencia los que hayan desempeñado funciones judiciales o de Secretarios Judiciales o de sustitución en la Carrera Fiscal, con aptitud demostrada o ejercido profesiones jurídicas o docentes, siempre que estas circunstancias no resulten desvirtuadas por otras que comporten su falta de idoneidad. En ningún caso recaerá el nombramiento en quienes ejerzan las profesiones de abogado o procurador.
 
@@ -21,5 +21,7 @@ b) Por renuncia, aceptada por el Consejo General del Poder Judicial.
 c) Por cumplir la edad de setenta y dos años.
 
 d) Por acuerdo del Consejo General del Poder Judicial, previa una sumaria información con audiencia del interesado y del Ministerio Fiscal, cuando se advirtiere en ellos falta de aptitud o idoneidad para el ejercicio de cargo, incurrieren en causa de incapacidad o de incompatibilidad o en la infracción de una prohibición, o dejaren de atender diligentemente los deberes del cargo.
+
+> Se modifica el apartado 2 por el art. 5.1 de la Ley Orgánica 5/1997, de 4 de diciembre. Ref. BOE-A-1997-26034
 
 > Se modifica por el art. 4.9 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

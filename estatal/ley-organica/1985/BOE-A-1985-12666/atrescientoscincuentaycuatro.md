@@ -1,5 +1,7 @@
 ## Artículo trescientos cincuenta y cuatro
 
-1. Los Jueces y Magistrados que fueren nombrados para cargo político o de confianza de carácter no permanente deberán comunicar al Consejo General del Poder Judicial la aceptación o renuncia del cargo para el que hubieren sido nombrados dentro de los ocho días siguientes a la publicación del nombramiento en el «Boletín Oficial del Estado» o de la Comunidad Autónoma.
+1. Los Jueces y Magistrados que sean nombrados para cargo político o de confianza, salvo los contemplados en el artículo 352, deberán comunicar al Consejo General del Poder Judicial la aceptación o la renuncia al cargo para el que hubieren sido nombrados dentro de los ocho días hábiles siguientes a la publicación del nombramiento en el "Boletín Oficial del Estado" o de la Comunidad Autónoma.
 
-2. La aceptación o la toma de posesión del expresado cargo determinará automáticamente la situación de servicios especiales del nombrado, con aplicación del régimen prescrito en el artículo 353.
+2. La aceptación o la toma de posesión del expresado cargo determinará el pase a la situación de excedencia voluntaria.
+
+> Se modifica por el art. 2 de la Ley Orgánica 5/1997, de 4 de diciembre. Ref. BOE-A-1997-26034
