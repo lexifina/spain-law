@@ -1,0 +1,1 @@
+Téngase en cuenta que, con fecha 15 de marzo de 2005, ha entrado en vigor el Decreto 27/2005, de 1 de marzo, por el que se aprueba el Plan Rector de Uso y Gestión del Parque Nacional de La Caldera de Taburiente (publicado en el BOCA núm. 52, de 14 de marzo de 2005), determinando la pérdida de vigencia del Plan anterior.
