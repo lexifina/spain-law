@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Enseñanzas y planes de estudios.
+
+1. En virtud de lo establecido en el artículo 1 del presente Real Decreto y hasta tanto se produzca la efectiva integración de las Escuelas Oficiales de Turismo en las Universidades, de acuerdo con lo establecido en las disposiciones transitorias anteriores, éstas podrán impartir o autorizar la impartición de las enseñanzas en aquéllas con el personal propio de estos centros, previo acuerdo con la Administración titular de los mismos.
+
+2. Hasta el momento en que se haga efectivo lo dispuesto en el artículo 4 del presente Real Decreto, mantendrán su vigencia los actuales planes de estudios de las enseñanzas turísticas especializadas aprobados por Orden de 29 de octubre de 1980 («Boletín Oficial del Estado» de 15 de noviembre), así como la prueba de evaluación final aprobada por Orden de 22 de diciembre de 1992 («Boletín Oficial del Estado» de 14 de enero de 1993) y los cursos de especialización aprobados por Orden de 22 de marzo de 1983 («Boletín Oficial del Estado» de 1 de abril), en aquellos centros que cuenten con la autorización prevista en el Real Decreto 865/1980.

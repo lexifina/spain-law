@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Integración de centros.
+
+Con anterioridad al 1 de octubre del año 2001, si se cumplen las previsiones del artículo 16.1 del Real Decreto 557/1991, de 12 de abril, sobre creación y reconocimiento de Universidades y centros universitarios, las Administraciones competentes procederán a la integración de las actuales Escuelas Oficiales de Turismo en las Universidades que correspondan, previo acuerdo con éstas y de conformidad con lo establecido en el artículo 9 de la Ley Orgánica 11/1983, de 25 de agosto.
+
+En tanto se produce la citada integración, las Escuelas Oficiales de Turismo continuarán impartiendo las enseñanzas conducentes a la obtención del título de Técnico de Empresas y Actividades Turísticas. En el caso de que, de acuerdo con lo previsto en el apartado 1 de la disposición transitoria cuarta del presente Real Decreto, las mencionadas Escuelas Oficiales de Turismo sean autorizadas a impartir las enseñanzas a que se refiere el artículo 1 de este mismo Real Decreto, quedarán a extinguir las enseñanzas a que se refiere el inciso anterior.

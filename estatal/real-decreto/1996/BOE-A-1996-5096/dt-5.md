@@ -1,0 +1,9 @@
+## Disposición transitoria quinta. Centros no estatales de enseñanzas especializadas de turismo.
+
+1. Los actuales centros de enseñanzas especializadas de turismo, podrán solicitar y, en su caso, obtener, con anterioridad a 1 de octubre del año 2001, de conformidad con el Real Decreto 557/1991, de 12 de abril, sobre creación y reconocimiento de Universidades y centros universitarios, y demás normativa aplicable, su reconocimiento como Escuelas Universitarias adscritas a la Universidad correspondiente.
+
+En tanto se produzca dicho reconocimiento, los centros continuarán impartiendo las enseñanzas conducentes a la obtención del título de Técnico de Empresas y Actividades Turísticas, que será expedido por el Ministro de Comercio y Turismo o por el órgano correspondiente de la Comunidad Autónoma de la que dependa el centro docente competente para proponer su expedición; permaneciendo adscritos, a los efectos previstos en el artículo 6.2 del Real Decreto 865/1980, de 14 de abril, a la correspondiente Escuela Oficial de Turismo, aunque ésta se integre en la Universidad de acuerdo con lo establecido en la disposición transitoria primera del presente Real Decreto.
+
+2. En el caso de que, transcurrido el plazo señalado en el apartado anterior, no se hubiera producido el reconocimiento del centro como Escuela Universitaria adscrita a la Universidad, quedará sin efecto la autorización para impartir las enseñanzas conducentes a la obtención del título de Técnico de Empresas y Actividades Turísticas. En este supuesto, por la Administración competente se adoptarán las medidas necesarias para que los alumnos de estos centros puedan concluir sus estudios.
+
+En otro caso, se estará a lo que dispongan el convenio de adscripción a la Universidad y la resolución de reconocimiento del centro como Escuela Universitaria adscrita.
