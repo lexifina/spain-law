@@ -1,0 +1,3 @@
+## Disposición adicional decimotercera. De la contratación de personal investigador, científico o técnico conforme a la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica.
+
+Las posibilidades de contratación de personal previstas en esta Ley para las Universidades públicas se entienden sin perjuicio de lo establecido en el artículo 17 de la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica, en la redacción dada por la disposición adicional séptima de la Ley 12/2001, de 9 de julio, de medidas urgentes de reforma del mercado de trabajo para el incremento del empleo y la mejora de su calidad.

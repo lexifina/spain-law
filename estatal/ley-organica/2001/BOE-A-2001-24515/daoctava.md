@@ -1,0 +1,3 @@
+## Disposición adicional octava. Del modelo de financiación de las Universidades públicas.
+
+A efectos de lo previsto en el artículo 79, el Consejo de Coordinación Universitaria elaborará un modelo de costes de referencia de las Universidades públicas que, atendiendo a las necesidades mínimas de éstas, y con carácter meramente indicativo, contemple criterios y variables que puedan servir de estándar para la elaboración de modelos de financiación por los poderes públicos, en el ámbito de sus competencias y dentro del objetivo de estabilidad presupuestaria, y a las Universidades para el desarrollo de sus políticas de financiación.

@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. De los Profesores Numerarios de Escuelas Oficiales de Náutica.
+
+Los funcionarios del cuerpo de Profesores Numerarios de Escuelas Oficiales de Náutica, declarado a extinguir por el apartado 9 de la disposición adicional decimoquinta de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, en la redacción dada por la Ley 23/1988, de 28 de julio, no integrados dentro del cuerpo de Profesores Titulares de Universidad en virtud de lo establecido en la citada Ley, quedan integrados en sus propias plazas, en el mencionado cuerpo, siempre que estén en posesión del título de Doctor, o cuando lo obtengan en el plazo de cinco años, contados a partir de la publicación de la presente Ley.
