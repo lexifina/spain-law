@@ -1,0 +1,3 @@
+## Artículo primero.
+
+El Servicio Especial de Vigilancia Fiscal, que pasará a denominarse en lo sucesivo Servicio de Vigilancia Aduanera, continuará adscrito al Ministerio de Hacienda a través de la Dirección General de Aduanas a Impuestos Especiales en el doble ámbito de su competencia central y territorial, conservando el carácter de Organismo autónomo definido en el artículo segundo de la Ley de Régimen Jurídico de las Entidades Estatales Autónomas de veintiséis de diciembre de mil novecientos cincuenta y ocho y en el artículo cuarto, apartado uno, a), de la Ley General Presupuestaria de cuatro de enero de mil novecientos setenta y siete.
