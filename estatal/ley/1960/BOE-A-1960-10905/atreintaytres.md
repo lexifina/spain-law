@@ -1,3 +1,7 @@
 ## Artículo treinta y tres.
 
-En los Registros mercantiles donde exista sección destinada a la inscrición de las aeronaves y de los actos jurídicos referentes a las mismas, la inscripción será voluntaria, salvo en los casos en que las Leyes dispongan expresametne lo contrario. Cuando tenga lugar la inscripción, se estará a lo establecido en las Leyes y disposiciones vigentes en la materia.
+La inscripción en el Registro Mercantil de los actos y contratos que afecten a la aeronave se regirá por las leyes y reglamentos vigentes en la materia.
+
+Para el otorgamiento, calificación e inscripción en el Registro Mercantil, los Notarios y los Registradores podrán, bajo su responsabilidad, prescindir de la traducción oficial cuando conocieren el idioma en que estén redactados los documentos.
+
+> Se modifica por el art. único de la Ley 113/1969, de 30 de diciembre. Ref. BOE-A-1969-1571.
