@@ -1,0 +1,9 @@
+## Disposición final primera. Desarrollo normativo.
+
+1. Se faculta al Ministro de Ciencia y Tecnología para dictar las disposiciones necesarias para el desarrollo y cumplimiento del presente Real Decreto.
+
+2. El Ministro de Ciencia y Tecnología mediante Orden establecerá los valores de reacción y resistencia al fuego sustitutivos de los establecidos en el apéndice 2 de este Reglamento, cuando dichos valores se deriven de la aplicación de la Directiva 89/106/CEE, del Consejo, de 21 de diciembre de 1988, relativa a la aproximación de las disposiciones legales reglamentarias y administrativas de los Estados miembros sobre los productos de construcción, estableciendo la fecha a partir de la que su utilización será obligatoria.
+
+3. En cumplimiento de lo previsto en el artículo 5 de la Ley 2/1985, de 21 de enero, de Protección Civil, el Ministerio de Ciencia y Tecnología, de acuerdo con el Ministerio del Interior, determinará el catálogo de actividades industriales y de los centros, establecimientos y dependencias en que aquéllos se realicen, que deberán disponer de un sistema de autoprotección dotado de sus propios recursos y del correspondiente plan de emer gencia para acciones de prevención de riesgos, alarma, evacuación y socorro. Todo ello con independencia de lo dispuesto en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales y en el Real Decreto 1254/1999, de 16 de julio, por el que se aprueban las medidas de control de los riesgos inherentes a los accidentes graves en los que intervienen substancias peligrosas, así como de las disposiciones que modifiquen o complementen las normativas citadas.
+
+Asimismo, se determinará aquellos establecimientos industriales que, preceptivamente, deben implantar el sistema de gestión de la seguridad contra incendios en el establecimiento y elaborar el correspondiente «Manual de Seguridad contra Incendios».
