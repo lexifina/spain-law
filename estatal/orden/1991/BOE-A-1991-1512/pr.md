@@ -1,0 +1,7 @@
+La Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, establece en el apartado tres del artículo 77 un nuevo régimen de pago de la tasa fiscal que recae sobre máquinas o aparatos automáticos aptos para la realización de juegos de azar, disponiendo que el ingreso de la tasa se realizará en pagos fraccionados trimestrales iguales entre los días 1 y 20 de los meses de enero, abril, julio y octubre. Asimismo establece que se abonará solamente el 50 por 100 de la tasa cuando la autorización se otorgue después del 1 de julio.
+
+Por otra parte es necesario, en orden a la correcta gestión de este tributo, conocer en el momento del devengo de la tasa la situación administrativa de la máquina, diferenciando las autorizadas en años anteriores de las que son objeto de nueva autorización, así como, en su caso, las circunstancias de haber causado baja definitiva, con o sin sustitución, o encontrarse extinguida, revocada o en suspenso la autorización de explotación que constituye el hecho imponible.
+
+Como consecuencia de estas modificaciones legales y por las necesidades de gestión señaladas, se hace preciso dictar las normas oportunas para realizar el pago de la tasa y aprobar el nuevo modelo para practicar la declaración-liquidación e ingreso de la misma o, en su caso, exclusivamente la declaración, así como el distintivo que constituye prueba de su pago.
+
+En virtud de lo expuesto, este Ministerio se ha servido disponer:
