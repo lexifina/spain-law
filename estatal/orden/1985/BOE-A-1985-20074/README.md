@@ -27,6 +27,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Decimocuarto](de-2.md)
 - [Decimoquinto](de-4.md)
 - [Decimosexto](de-5.md)
+- [Decimoséptimo](de-6.md)
+- [Decimoctavo](de-7.md)
 - [Disposición final](df.md)
 - [Disposiciones transitorias](dt-6.md)
 - [Disposición transitoria primera](dt.md)

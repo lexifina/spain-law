@@ -1,0 +1,7 @@
+## Decimoséptimo.
+
+1. Para que los vagones cisterna, excepto los destinados a materias de la clase 2, matriculados y en circulación en la red ferroviaria nacional en base a las disposiciones transitorias 1.8.1 a 1.8.4, inclusive, del apéndice XI del RID, puedan seguir circulando a partir del 30 de septiembre de 1998, sus propietarios deberán remitir antes de dicha fecha al órgano de la Administración, que emitió el último certificado de autorización especial, certificación de un organismo de control mediante la cual se deje constancia del cumplimiento de los requisitos exigidos en el segundo párrafo de la disposición transitoria 1.8.4 arriba mencionada, en base a inspecciones previamente realizadas en las que se haya verificado su cumplimiento o a una inspección extraordinaria.
+
+2. Los vagones cisterna, excepto los destinados a materias de la clase 2, para ser puestos por primera vez en circulación en la red ferroviaria nacional en base a las disposiciones transitorias 1.8.1 a 1.8.4, inclusive, del apéndice XI del RID, deberán acreditar ante el órgano competente de la Administración el cumplimiento de los requisitos exigidos en el segundo párrafo de la disposición transitoria 1.8.4 arriba mencionada, en base a inspecciones realizadas en el país de procedencia por expertos autorizados por la autoridad competente o a una inspección extraordinaria efectuada por un organismo de control.
+
+> Se añade por el punto primero de la Orden de 26 de agosto de 1998. Ref. BOE-A-1998-20932
