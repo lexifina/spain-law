@@ -1,0 +1,15 @@
+## Disposición adicional primera. Modificaciones de la Orden de 23 de julio de 1997, por la que se desarrolla el Reglamento de la Ley de Ordenación de los Transportes Terrestres en materia de autorizaciones de transportes de mercancías por carretera.
+
+Los preceptos de la Orden de 23 de julio de 1997, por la que se desarrolla el Reglamento de la Ley de Ordenación de los Transportes Terrestres en materia de autorizaciones de transporte de mercancías por carretera que a continuación se indican quedarán redactados en la forma que en cada caso se señala:
+
+a) El primer párrafo del artículo 38 tendrá la siguiente redacción: «Para la realización del visado de las autorizaciones de transporte público para vehículos ligeros será necesario acreditar la subsistencia de los requisitos exigidos en las letras c), f), g) y h) del artículo 9».
+
+b) El artículo 46 tendrá la siguiente redacción: «Las autorizaciones de transporte privado complementario serán intransmisibles en todos los casos».
+
+c) El segundo párrafo del número 3 de la disposición transitoria tercera tendrá la siguiente redacción: «Serán de aplicación, en relación con dichas autorizaciones, las disposiciones contenidas en el capítulo II de esta Orden, con excepción de lo dispuesto en el artículo 7 y en la letra h) del artículo 9».
+
+d) El último párrafo del número 3 de la disposición transitoria tercera tendrá la siguiente redacción: «Las autorizaciones reguladas en este apartado podrán ser transmitidas con arreglo a lo previsto en los artículos 29 y 33, si bien dicha transmisión implicará su transformación en autorizaciones de las previstas en el apartado 2 de esta disposición transitoria del mismo ámbito, las cuales habrán de referirse a semirremolques que no superen los dos años de antigüedad, si el ámbito de la autorización fuera nacional o comarcal, o los seis años, si su ámbito fuera local».
+
+e) El último párrafo del número 1 de la disposición transitoria quinta tendrá la siguiente redacción: «A las personas que vinieran realizando de manera efectiva y permanente la dirección de empresas colectivas titulares de autorizaciones de transporte público para vehículo ligero de ámbito nacional a la entrada en vigor de esta Orden, se les reconocerá la referida capacitación profesional para la realización de transporte con vehículos ligeros exclusivamente, siempre que así lo soliciten en el plazo de seis meses contados desde dicha entrada en vigor, debiendo justificar, a tal efecto, el cumplimiento de los requisitos establecidos en el artículo 11».
+
+f) El segundo párrafo del número 2 de la disposición transitoria quinta tendrá la siguiente redacción: «A las personas que vinieran realizando, de manera efectiva y permanente, la dirección de las empresas colectivas titulares de autorizaciones de transporte público para vehículo ligero de ámbito local, se les reconocerá la referida capacitación profesional para la realización de transporte con vehículos ligeros exclusivamente, desde el momento que se cumplan cuatro años desde que iniciaron su actividad de dirección, debiendo justificar, a tal efecto, la concurrencia de los requisitos establecidos en el artículo 11».
