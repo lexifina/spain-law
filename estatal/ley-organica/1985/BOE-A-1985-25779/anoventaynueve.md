@@ -8,4 +8,4 @@ Fuera de los casos previstos en el artículo anterior, el militar que maltratare
 
 3.° Con la de tres meses y un día a cinco años de prisión en los demás casos.
 
-Estas penas se impondrán en su mitad superior, cuando el hecho se ejecutare en acto de servicio o con ocasión del mismo.
+> Se suprime el párrafo último por la disposición adicional 9 de la Ley Orgánica 2/1989, de 13 de abril. Ref. BOE-A-1989-8712
