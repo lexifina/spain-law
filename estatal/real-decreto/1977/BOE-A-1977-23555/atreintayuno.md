@@ -1,3 +1,7 @@
-## Artículo treinta y uno.
+## Art. 31.
 
-La edad limite para ocupar puestos de trabajo operativos de Control, que no requieran poseer un Curso de Especialización para ejercerlos, será de cincuenta y cinco años. Los puestos de trabajo que podrán ocupar los Controladores de la Circulación Aérea que hayan alcanzado esta edad serán clasificados como no operativos.
+1. La edad límite para ocupar puestos de trabajo operativos de control que no requieran poseer un curso de especialización para ejercerlos será de cincuenta y cinco años, a no ser que voluntariamente el interesado opte por continuar ocupando un puesto de trabajo operativo.
+
+2. Los Controladores de la Circulación Aérea que hayan alcanzado esta edad y no hayan ejercido la opción establecida en el punto anterior podrán ocupar los puestos de trabajo clasificados como no operativos.
+
+> Se modifica por el art. único del Real Decreto 1171/1989, de 22 de septiembre. Ref. BOE-A-1989-23067
