@@ -1,0 +1,11 @@
+## Disposición transitoria primera. Emisiones de centrales térmicas de carbón o de fuel-oil existentes.
+
+1. Sin perjuicio de lo establecido en la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, los grupos de las centrales térmicas de carbón o de fuel-oil que, a los efectos del capítulo II, sean grandes instalaciones de combustión existentes, continuarán cumpliendo con los niveles de emisión específicos de SO2 y de partículas que tienen actualmente vigentes, en aplicación del Decreto 833/1975, de 6 de febrero, a las categorías de instalaciones existentes o nuevas del anexo IV de este, o por estar específicamente fijados en sus correspondientes resoluciones de autorización de la Dirección General de la Energía, referidas a las condiciones de los gases residuales que figuran en los párrafos b) y c) del artículo 3 de este real decreto.
+
+2. Cuando en las centrales mencionadas en el apartado anterior, y que sean anteriores al Decreto 833/1975, de 6 de febrero, haya grupos de carbón, cuya autorización no contenga niveles específicos para las emisiones de SO2 y de partículas, estas emisiones cumplirán los mismos valores que se recojan en la autorización de los grupos posteriores de la misma central, que también sean grandes instalaciones de combustión existentes a los efectos del capítulo II.
+
+3. Tanto en las centrales de carbón como en las de fuel-oil, cuando la expulsión de varios grupos que sean grandes instalaciones de combustión se realicen por una chimenea única, los niveles de emisión se referirán al flujo resultante.
+
+4. Los niveles de emisión de SO2 y de partículas que deben cumplir las grandes instalaciones de combustión existentes a que se refiere esta disposición transitoria, tanto en centrales de carbón como de fuel-oil, estarán sujetos, en el caso de mediciones continuas, a los requisitos que se recogen en los apartados 1 y 2 del artículo 14.
+
+5. Cuando sólo se exijan mediciones discontinuas u otros procedimientos de determinación apropiados, ningún valor de las concentraciones medias trimestrales, entendidas como media ponderada con los caudales, de las concentraciones mensuales, superará el nivel de emisión establecido.

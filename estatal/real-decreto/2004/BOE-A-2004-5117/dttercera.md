@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Exclusión de la aplicación del capítulo II a las turbinas de gas autorizadas antes de la entrada en vigor de este real decreto.
+
+El capítulo II no será de aplicación a las turbinas de gas autorizadas antes de la entrada en vigor de este real decreto o a las que hayan sido objeto de una solicitud de autorización antes de la entrada en vigor de este real decreto, a condición de que la instalación se ponga en funcionamiento a más tardar un año después de dicha entrada en vigor, sin perjuicio de lo dispuesto en el artículo 7.1 y en los apartados A y B del anexo VIII.
