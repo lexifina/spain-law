@@ -1,0 +1,3 @@
+## Disposición adicional única. Informes de aptitud psicofísica.
+
+Los informes de aptitud psicofísica, a que se refiere el artículo 4.2.d) del presente Real Decreto, serán expedidos por los facultativos y psicólogos de las Fuerzas Armadas y, en su caso, por los de la Dirección General de la Guardia Civil, adaptándose los reconocimientos a lo especificado en el anexo IV del Reglamento General de Conductores, aprobado por Real Decreto 772/1997, de 30 de mayo. Cuando no exista en la provincia un centro sanitario de las Fuerzas Armadas o lo aconsejen las necesidades del servicio, el informe de aptitud psicofísica podrá ser expedido por un centro de reconocimiento autorizado en la misma provincia.
