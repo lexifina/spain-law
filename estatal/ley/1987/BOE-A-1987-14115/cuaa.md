@@ -1,3 +1,5 @@
 ## Disposición adicional cuarta.
 
-A efectos de lo establecido en los artículos 6.2 y 7.1 de la Ley Orgánica de Libertad Sindical, las elecciones a los órganos de representación de las Administraciones Públicas tendrán lugar dentro del periodo de computo a que se refiere la disposición adicional primera, 1, de dicha Ley Orgánica.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única de la Ley 11/1994, de 19 de mayo. Ref. BOE-A-1994-11610.
