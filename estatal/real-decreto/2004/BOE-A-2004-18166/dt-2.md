@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Almacenamientos existentes que no puedan cumplir las exigencias establecidas en la ITC.
+
+No obstante lo dispuesto en la disposición transitoria primera, todas las instalaciones de almacenamiento de fertilizantes a base de nitrato amónico con alto contenido en nitrógeno existentes o en trámite de inscripción en la fecha de entrada en vigor de este real decreto, en las que se demuestre que no puedan cumplir alguna de las prescripciones establecidas en la ITC, presentarán para su autorización un proyecto suscrito por un técnico titulado competente y visado por el correspondiente colegio oficial, en el que se justifiquen las razones de tal imposibilidad y en el que se especifiquen las medidas sustitutorias que van a tomarse, teniendo en cuenta el riesgo que presentan las instalaciones actuales para las personas, los bienes y el medio ambiente.
+
+Además del citado proyecto, se presentará junto con la instancia un certificado extendido por un organismo de control autorizado para la aplicación del Reglamento de almacenamiento de productos químicos, en el que se haga constar que las medidas adoptadas tienen un grado de seguridad equivalente o superior que aquellas a las que sustituyen.
+
+La documentación mencionada se presentará en el órgano competente de la comunidad autónoma donde radique el almacenamiento, en el plazo de seis meses contados a partir de la fecha de entrada en vigor de este real decreto.
