@@ -26,6 +26,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo noveno](anoveno.md)
 - [Artículo diez](adiez.md)
 - [Artículo once](aonce.md)
+- [DISPOSICION ADICIONAL](da.md)
 - [DISPOSICIONES FINALES](df.md)
 - [Primera](primera.md)
 - [Segunda](segunda.md)
