@@ -1,0 +1,5 @@
+## Disposición transitoria.
+
+Durante el plazo de 3 años, contados a partir de la publicación de esta reglamentación en el «Boletín Oficial del Estado», se permite la comercialización del brandy en envases de hasta 20 litros, siendo de aplicación para ellos lo dispuesto en el título VII de este Decreto en cuanto les afecte, permitiéndose, en consecuencia, el transvase a recipientes adecuados, con las debidas garantías de procedencia del producto y con la mención expresa, en todo caso, de «brandy a granel».
+
+Las Empresas que no hubieran iniciado las transformaciones que les son precisas dentro del plazo a que se refiere el párrafo anterior, se considerarán infractoras de esta reglamentación y, en consecuencia, caducadas en sus derechos industriales. Las Empresas que hubieran iniciado su modificación dentro de dicho plazo, a satisfacción de la Dirección General competente del Ministerio de Industria, podrán concluir dicha modificación a lo largo de un plazo que en ningún caso podrá exceder de 5 años, contados desde la publicación de este reglamento.
