@@ -15,3 +15,5 @@ c) En el resto de la zona de servidumbre de protección, y en los términos en q
 4. Lo establecido en el último párrafo de la letra c) del apartado 1 para los supuestos de demolición total o parcial, se entiende sin perjuicio de lo prevenido en la disposición transitoria octava, apartado 3, de este Reglamento, en cuyo caso la reedificación será posible en los términos previstos en la citada disposición.
 
 5. El Servicio Periférico de Costas podrá solicitar del Registrador de la Propiedad toma de nota marginal expresiva de las circunstancias que concurren en los inmuebles afectados por lo previsto en la presente disposición.
+
+> Se declara que los incisos destacados de los apartados 1.c) y 3 invaden las competencias de las CCAA y son nulos de pleno derecho según la Sentencia del TC 198/1991, de 17 de octubre. Ref. BOE-T-1991-27590

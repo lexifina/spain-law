@@ -16,4 +16,6 @@
 
 8. La revisión de las concesiones de competencia de las Comunidades Autónomas se realizará por éstas de conformidad con los criterios establecidos en los apartados 1, 2 y 3 de la presente disposición.
 
+> Se declara que no es inconstitucional si se interpreta conforme al fundamento jurídico 8.c) de la Sentencia del TC 198/1991, de 17 de octubre. Ref. BOE-T-1991-27590
+
 > Redactados los apartado 3 y 7 conforme a la corrección de errores publicada en BOE núm. 20, de 23 de enero de 1990. Ref. BOE-A-1990-1717

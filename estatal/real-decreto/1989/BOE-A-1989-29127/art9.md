@@ -10,4 +10,6 @@
 
 5. En caso de emergencia, el Servicio Periférico de Costas podrá autorizar la adopción de medidas provisionales de defensa, previa formalización de las garantías económicas que, en su caso, procedan, conforme a lo establecido en los artículos 36 de la Ley de Costas y 78 de este Reglamento, y compromiso del interesado de solicitar en el plazo de un mes la concesión o autorización pertinente, y de cumplir la resolución que se derive del expediente que se instruya.
 
+> Se declara que el apartado 3 no es inconstitucional si se interpreta conforme al fundamento jurídico 2.f) de la Sentencia del TC 198/1991, de 17 de octubre. Ref. BOE-T-1991-27590
+
 > Redactado el apartado 3 conforme a la corrección de errores pulicada en BOE núm. 20, de 23 de enero de 1990. Ref. BOE-A-1990-1717

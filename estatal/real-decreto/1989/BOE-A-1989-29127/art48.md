@@ -5,3 +5,5 @@
 2. Si la actividad solicitada estuviese vinculada directamente a la utilización del dominio público marítimo-terrestre será necesario, en su caso, disponer previamente del correspondiente título administrativo otorgado conforme a la Ley de Costas (artículo 26 de la Ley de Costas).
 
 3. Las autorizaciones que se otorguen deberán respetar el planeamiento urbanístico en vigor. En defecto de ordenación, podrá condicionarse su otorgamiento a la previa aprobación del planeamiento.
+
+> Se declara que el apartado 1 invade las competencias de las CCAA y es nulo de pleno derecho en cuanto atribuye a la Administración del Estado el otorgamiento de autorizaciones en la zona de servidumbre de protección según la Sentencia del TC 198/1991, de 17 de octubre. Ref. BOE-T-1991-27590
