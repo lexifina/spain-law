@@ -279,6 +279,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO IX](cix.md)
 - [Artículo ciento noventa y seis](acientonoventayseis.md)
 - [Artículo ciento noventa y siete](acientonoventaysiete.md)
+- [Artículo ciento noventa y siete bis](acientonoventaysietebis.md)
 - [Artículo ciento noventa y ocho](acientonoventayocho.md)
 - [Artículo ciento noventa y nueve](acientonoventaynueve.md)
 - [Artículo doscientos](adoscientos.md)
