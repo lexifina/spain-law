@@ -1,9 +1,5 @@
 ## Artículo decimoctavo. Concepto.
 
-Uno. El contrato de edición es aquel por el cual el titular de la propiedad intelectual de una obra de las que hace referencia el artículo tercero de esta Ley, reservándose su titularidad, cede, mediante precio, al editor, el derecho a publicarla en forma de libro, limitando el número de ejemplares a los que expresamente se convenga, sin perjuicio de lo dispuesto en el artículo veinticinco. El contrato habrá de expresar los plazos en que, a partir de la firma de aquél, deberá el autor entregar el ejemplar de su obra al editor, y éste publicar aquélla.
+(Derogado)
 
-Dos. No se incluyen en el concepto anterior aquellos contratos por los cuales el editor adquiere la propiedad de una obra literaria, científica o artística, cuyos contratos, sin perjuicio de lo dispuesto en el artículo dieciséis de esta Ley, se regirán por las normas comunes del ordenamiento jurídico y por las específicas sobre propiedad intelectual.
-
-Tres. Asimismo, no se consideran contratos de edición aquellos por los que el editor encarga al autor la realización de una determinada obra literaria, científica o artística, los cuales se regularán, en su caso, sin perjuicio de lo dispuesto en el artículo dieciséis de esta Ley, por las disposiciones del Código Civil relativas al contrato de arrendamiento de obras y por las específicas sobre propiedad intelectual, que quedará transmitida al editor. Cuando, no obstante el encargo, se pacte expresamente que la propiedad de la obra no se transmita al editor, se entenderá concertado un contrato de edición sin limitación del número de ejemplares.
-
-Cuatro. Tampoco se consideran contratos de edición aquellos por los que el titular de la propiedad intelectual de una obra literaria, científica o artística, con contraprestación o sin ella, obtiene del editor la publicación de la misma. Este contrato, de sello editorial, se regirá por las normas generales del ordenamiento jurídico.
+> Se deroga por la disposición derogatoria de la Ley 22/1987, de 11 de noviembre. Ref. BOE-A-1987-25628.
