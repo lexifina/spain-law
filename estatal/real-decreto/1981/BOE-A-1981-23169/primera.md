@@ -1,0 +1,5 @@
+## Disposición transitoria primera.
+
+Durante el plazo de un año, contado a partir de la publicación de la adjunta Reglamentación en el «Boletín Oficial del Estado», se permite la comercialización de la ginebra en envases de hasta 20 litros, siendo de aplicación para ellos lo dispuesto en el título III de la misma, en cuanto les afecte, permitiéndose, en consecuencia, el trasvase a recipientes adecuados, con las debidas garantías de procedencia del producto y con la mención expresa, en todo caso de «Ginebra a granel».
+
+Las Empresas que no hubieran iniciado las transformaciones que les son precisas, dentro del plazo a que se refiere el párrafo anterior, se considerarán infractoras de esta Reglamentación y, en consecuencia, caducadas en sus derechos industriales. Las empresas que hubieran iniciado su modificación dentro de dicho plazo, a satisfacción de la Dirección General competente del Ministerio de Industria y Energía, podrán concluir dicha modificación a lo largo de un plazo que, en ningún caso, podrá exceder de 5 años, contados desde la publicación de la adjunta Reglamentación.
