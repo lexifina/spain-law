@@ -9,3 +9,5 @@
 4. No podrá ser declarada Bien de Interés Cultural la obra de un autor vivo, salvo si existe autorización expresa de su propietario o media su adquisición por la Administración.
 
 5. De oficio o a instancia del titular de un interés legítimo y directo, podrá tramitarse por el Organismo competente expediente administrativo, que deberá contener el informe favorable y razonado de alguna de las instituciones consultivas, a fin de que se acuerde mediante Real Decreto que la declaración de un determinado Bien de Interés Cultural quede sin efecto.
+
+> Se declara que los apartados 1, 2, y párrafo final del 5, no son contrarios a la Constitución, interpretados como resulta del fundamento jurídico 10, por Sentencia del TC 17/1991, de 31 de enero, Ref. BOE-T-1991-5257, con corrección de errores publicada en BOE núm. 98, de 24 de abril de 1991. Ref. BOE-T-1991-10096
