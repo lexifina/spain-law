@@ -1,0 +1,7 @@
+Los modernos sistemas empleados en telecomunicación y radiodifusión de sonidos e imágenes requieren que las líneas, cables y haces hertzianos que enlazan las estaciones de las redes del Estado cumplan determinadas condiciones para su correcto funcionamiento.
+
+Íntimamente ligada a dicha necesidad surge como consecuencia indeclinable su conjugación con los derechos de los propietarios del suelo, protegidos por fundamentales Leyes de la Nación.
+
+Por ello, y como al promulgarse las normas legales vigentes sobre expropiación forzosa de bienes y derechos e imposición de servidumbre de paso de energía eléctrica para el establecimiento de instalaciones de producción, transformación, transporte y distribución de tal energía, cuando ésta se destine al servicio público, quedó simultánea y expresamente derogada la legislación que venía regulando conjuntamente la materia, se hace preciso, en natural secuela, dictar nuevas reglas para las de telecomunicación y radiodifusión de sonidos e imágenes, que han quedado por su singular destino al margen de la actual normativa legal, y que, por razones también de utilidad pública, postulan igual trato legislativo, acomodado al rango que exige el Fuero de los Españoles, procediendo también a extenderlo a las líneas de enlace que requieran las concesiones que otorguen, dentro de su respectiva competencia, los Ministerios de la Gobernación y de Información y Turismo, en los casos previstos en la vigente legislación.
+
+En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar:
