@@ -1,0 +1,3 @@
+## Disposición adicional vigésima séptima. Modificación de crédito en el caso de que Valencia sea designada Capital Europea de la Cultura.
+
+En el caso de que la ciudad de Valencia fuera designada Capital Europea de la Cultura, el Gobierno realizará la oportuna modificación de crédito al objeto de realizar las inversiones que se estimen necesarias para el adecuado desempeño de la capitalidad cultural por parte de la ciudad de Valencia. Del mismo modo el Gobierno estudiará la adopción de medidas fiscales similares a las aprobadas con ocasión de la designación de otras ciudades españolas como Capitales Europeas de la Cultura.
