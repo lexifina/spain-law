@@ -2,6 +2,8 @@
 
 ## Métodos de análisis de piensos
 
+> Téngase en cuenta que la Orden de 23 de mayo de 1989. Ref. BOE-A-1989-12209, por la que se aprueban los métodos oficiales de análisis de alimentos para animales (piensos) y sus primeras materias, deroga los métodos coincidentes que figuran en la presente Orden.
+
 1. UREA
 
 1.1 Principio.
@@ -894,3 +896,5 @@ Llevar el filtrado al crisol frío, evaporar a sequedad, incinerar y pesar.
 12.6 Referencias.
 
 1. Journal Officiel des Communautés Européennes. Número L 155/20.
+
+> Se deroga en cuanto se oponga, y en particular los métodos coinidentes de análisis, por la disposición derogatoria de la Orden de 23 de mayo de 1989. Ref. BOE-A-1989-12209
