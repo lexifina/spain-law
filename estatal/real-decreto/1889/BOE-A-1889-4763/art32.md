@@ -2,4 +2,4 @@
 
 La personalidad civil se extingue por la muerte de las personas.
 
-La menor edad, la demencia o imbecilidad, la sordomudez, la prodigalidad y la interdicción civil no son más que restricciones de la personalidad jurídica. Los que se hallaren en alguno de esos estados son susceptibles de derechos y aun de obligaciones cuando éstas nacen de los hechos o de relaciones entre los bienes del incapacitado y un tercero.
+> Se suprime el párrafo segundo por el art. 2.1 de la Ley 13/1983, de 24 de octubre. Ref. BOE-A-1983-28123.
