@@ -75,6 +75,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 49](a49.md)
 - [Art 50](a50.md)
 - [Art 51](a51.md)
+- [Artículos 50 a 51](as51a52.md)
 - [Art 52](a52.md)
 - [Art 53](a53.md)
 - [Art 54](a54.md)
