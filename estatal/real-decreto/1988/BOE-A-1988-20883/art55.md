@@ -36,4 +36,10 @@ d) En representación de los usuarios:
 
 Un número de Vocales que, computado el Vicepresidente Segundo, no será inferior al tercio total de Vocales del Consejo. Los Vocales serán elegidos de entre los miembros de la Asamblea de Usuarios, por los representantes en la misma de cada una de las diversas clases de aprovechamientos, respetando la proporcionalidad que existe en la propia Asamblea.
 
+Las organizaciones profesionales del sector agrario con mayor implantación podrán designar un representante en el Consejo por cada cincuenta vocales o fracción de los que integran el mismo.
+
+e) En representación de las organizaciones ecologistas con mayor implantación, un vocal nombrado por el Ministro de Obras Públicas, Transportes y Medio Ambiente, a propuesta de dichas organizaciones, por cada cincuenta vocales o fracción del total de los que integran el Consejo.
+
 2. Como Secretario del Consejo, con voz pero sin voto, actuará el Secretario general del Organismo de cuenca.
+
+> Se añade el párrafo segundo de la letra d) y la letra e) al apartado 1 por el art. 3.1 y 2 del Real Decreto 439/1994, de 11 de marzo. Ref. BOE-A-1994-7652
