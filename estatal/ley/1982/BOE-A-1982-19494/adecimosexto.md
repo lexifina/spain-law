@@ -1,0 +1,3 @@
+## Artículo decimosexto. Régimen de sanciones.
+
+La inobservancia o infracción de la normativa aplicable al Parque Nacional de Ordesa y Monte Perdido será sancionada con arreglo a lo dispuesto en la Ley de Espacios Naturales Protegidos y en el Real Decreto dos mil seiscientos setenta y seis/mil novecientos setenta y siete, de cuatro de marzo, por el que se aprueba el Reglamento para su aplicación y de conformidad con la legislación específica que, a tenor de la naturaleza de la infracción resulte aplicable.
