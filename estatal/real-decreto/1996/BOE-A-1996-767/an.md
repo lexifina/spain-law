@@ -2,6 +2,10 @@
 
 La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957 y E-959 se refiere a los productos alimenticios listos para el consumo, elaborados conforme a las instrucciones del fabricante, incluidos aquellos productos alimenticios que se obtienen al reconstituir un preparado en polvo que da como resultado uno de los productos alimenticios especificados en este anexo.
 
+1. En el caso de la sustancia E-952, ácido ciclámico y sus sales de sodio y calcio, las dosis máximas de empleo se expresan en ácido libre.
+
+2. En el caso de la sustancia E-954, sacarina y sus sales de sodio, potasio y calcio, las dosis máximas de empleo se expresan en Imida libre.
+
 | Número CEE | Denominación | Producto alimenticio | Dosis máxima de empleo |
 | --- | --- | --- | --- |
 | E-420 | Sorbitol. | Cereales para desayuno |  |
@@ -45,8 +49,10 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | Mostazas. | quantum satis. |
 | E-950 | Acesulfamo potásico. | Bebidas alcohólicas (excluida cerveza) |  |
 |  |  | Sidra y perada. | 350 mg/I. |
+|  |  | Bebidas alcohólicas |  |
+|  |  | Bebidas constituidas por una mezcla de cerveza, sidra, perada, bebidas espirituosas o vino con bebidas no alcohólicas. | 350 mg/I. |
+|  |  | Bebidas espirituosas con un contenido de alcohol inferior al 15 % vol. | 350 mg/I. |
 |  |  | Bebidas no alcohólicas |  |
-|  |  | Bebidas aromatizadas a base de agua, de valor energético reducido o sin azúcares añadidos. | 350 mg/I. |
 |  |  | Bebidas a base de leche y productos derivados, de valor energético reducido o sin azúcares añadidos. | 350 mg/l. |
 |  |  | Bebidas a base de zumos de frutas de valor energético reducido reducido o sin azúcares añadidos. | 350 mg/I. |
 |  |  | Cervezas |  |
@@ -54,10 +60,13 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | «Biere de table/tafelbier/table beer» (que contenga menos de un 6 por 100 de mosto primitivo) excepto «Obergaeriges einfachbier». | 350 mg/l. |
 |  |  | Cervezas con una acidez mínima de 30 miliequivalentes expresada en NaOH. | 350 mg/l. |
 |  |  | Cervezas negras del tipo «Oud bruin». | 350 mg/l. |
+|  |  | Cerveza de valor energético reducido. | 25 mg/I. |
+|  |  | Cereales para desayuno |  |
+|  |  | Cereales para desayuno, con un contenido de fibra superior al 15 % y que contengan al menos un 20 % de salvado, de valor energético reducido o sin azúcares añadidos. | 1.200 mg/kg. |
 |  |  | Complementos alimenticios |  |
 |  |  | Complementos de la dieta líquidos. | 350 mg/Kg. |
 |  |  | Complementos de la dieta sólidos. | 500 mg/Kg. |
-|  |  | Complementos de la dieta mono o polivitamínicos. | 2.000 mg/Kg. |
+|  |  | Complementos de la dieta a base de vitaminas y elementos minerales, en forma masticable o de jarabe. | 2.000 mg/Kg. |
 |  |  | Conservas y semiconservas de productos de la pesca |  |
 |  |  | Conservas y semiconservas agridulces de pescado. | 200 mg/Kg. |
 |  |  | Conservas y semiconservas agridulces de marinado de pescado. | 200 mg/Kg. |
@@ -92,16 +101,27 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | Caramelos, confites y golosinas sin azúcares añadidos. | 500 mg/Kg. |
 |  |  | Productos a base de cacao o de frutos secos, de valor energético reducido o sin azúcares añadidos. | 500 mg/Kg. |
 |  |  | Productos a base de almidón, de valor energético reducido o sin azúcares añadidos. | 1.000 mg/Kg. |
+|  |  | Confitería en forma de pastillas de valor energético reducido. | 500 mg/I. |
+|  |  | Micropastillas para refrescar el aliento sin azúcares añadidos. | 2.500 mg/I. |
 |  |  | Productos de pastelería, repostería, bollería y galletería |  |
 |  |  | Productos de pastelería y repostería de valor energético reducido o sin azúcares añadidos. | 1.000 mg/Kg. |
 |  |  | Productos de bollería y galletería de valor energético reducido o sin azúcares añadidos. | 1.000 mg/Kg. |
 |  |  | Productos derivados de cacao, de chocolate y sucedáneos de chocolate de valor energético reducido o sin azúcares añadidos. | 1.000 mg/Kg. |
 |  |  | Turrones y mazapanes de valor energético reducido o sin azúcares añadidos. | 500 mg/Kg. |
+|  |  | Cucuruchos y galletas de barquillo para helados sin azúcares añadidos. | 2.000 mg/I. |
+|  |  | Essoblaten/obleas. | 2.000 mg/I. |
 |  |  | Salsas |  |
 |  |  | Salsas. | 350 mg/Kg. |
 |  |  | Mostazas. | 350 mg/Kg. |
+|  |  | Sopas |  |
+|  |  | Sopas de valor energético reducido.. | 110 mg/l. |
+|  |  | Otros |  |
+|  |  | Feinkostsalat. | 350 mg/kg. |
 | E-951 | Aspartamo. | Bebidas alcohólicas (excluida cerveza) |  |
 |  |  | Sidra y perada. | 600 mg/l. |
+|  |  | Bebidas alcohólicas |  |
+|  |  | Bebidas constituidas por una mezcla de cerveza, sidra, perada, bebidas espirituosas o vino con bebidas no alcohólicas. | 600 mg/I. |
+|  |  | Bebidas espirituosas con un contenido de alcohol inferior al 15 % vol. | 600 mg/I. |
 |  |  | Bebidas no alcohólicas |  |
 |  |  | Bebidas aromatizadas a base de agua, de valor energético reducido o sin azúcares añadidos. | 600 mg/l. |
 |  |  | Bebidas a base de leche y productos derivados, de valor energético reducido o sin azúcares añadidos. | 600 mg/l. |
@@ -111,10 +131,13 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | Biere de table/tafelbier/table beer (que contenga menos de un 6 por 100 de mosto primitivo) excepto «Obergaeriges einfachbier». | 600 mg/l. |
 |  |  | Cervezas con una acidez mínima de 30 miliequivalentes expresada en NaOH. | 600 mg/l. |
 |  |  | Cervezas negras del tipo «Oud bruin». | 600 mg/l. |
+|  |  | Cerveza de valor energético reducido. | 25 mg/I. |
+|  |  | Cereales para el desayuno |  |
+|  |  | Cereales para el desayuno, con un contenido de fibra superior al 15 % y que contengan, al menos, un 20 % de salvado, de valor energético reducido o sin azúcares añadidos. | 1.000 mg/I. |
 |  |  | Complementos alimenticios |  |
 |  |  | Complementos de la dieta líquidos. | 600 mg/l. |
 |  |  | Complementos de la dieta sólidos. | 2.000 mg/Kg. |
-|  |  | Complementos de la dieta mono o polivitamínicos. | 5.500 mg/Kg. |
+|  |  | Complementos de la dieta a base de vitaminas y elementos minerales, en forma masticable o de jarabe. | 5.500 mg/Kg. |
 |  |  | Conservas y semiconservas de productos de la pesca |  |
 |  |  | Conservas y semiconservas agridulces de pescado. | 300 mg/Kg. |
 |  |  | Conservas y semiconservas agridulces de marinado de pescado. | 300 mg/Kg. |
@@ -149,6 +172,8 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | Caramelos, confites y golosinas sin azúcares añadidos. | 1.000 mg/Kg. |
 |  |  | Productos a base de cacao o de frutos secos, de valor energético reducido o sin azúcares añadidos. | 2.000 mg/Kg. |
 |  |  | Productos a base de almidón, de valor energético reducido o sin azúcares añadidos. | 2.000 mg/Kg. |
+|  |  | Micropastillas para refrescar el aliento sin azúcares añadidos. | 6.000 mg/I. |
+|  |  | Pastillas refrescantes muy aromatizadas para la garganta, sin azúcares añadidos. | 2.000 mg/I. |
 |  |  | Productos de pastelería, repostería, bollería y galletería |  |
 |  |  | Productos de pastelería y repostería de valor energético reducido o sin azúcares añadidos. | 1.700 mg/Kg. |
 |  |  | Productos de bollería y galletería de valor energético reducido o sin azúcares añadidos. | 1.700 mg/Kg. |
@@ -157,13 +182,20 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | Salsas |  |
 |  |  | Salsas. | 350 mg/Kg. |
 |  |  | Mostaza. | 350 mg/Kg. |
+|  |  | Sopas |  |
+|  |  | Sopas de valor energético reducido. | 110 mg/l |
+|  |  | Otros |  |
+|  |  | Feinkostsalat. | 350 mg/kg. |
 | E-952 | Ácido ciclámico y sus sales de sodio y calcio. | Bebidas no alcohólicas |  |
 |  |  | Bebidas aromatizadas a base de agua, de valor energético reducido o sin azúcares añadidos. | 400 mg/l. |
 |  |  | Bebidas a base de leche y productos derivados, de valor energético reducido o sin azúcares añadidos. | 400 mg/l. |
 |  |  | Bebidas a base de zumos de frutas de valor energético reducido o sin azúcares añadidos. | 400 mg/l. |
+|  |  | Bebidas alcohólicas |  |
+|  |  | Bebidas constituidas por una mezcla de cerveza, sidra, perada, bebidas espirituosas o vino con bebidas no alcohólicas. | 250 mg/I. |
 |  |  | Complementos alimenticios |  |
 |  |  | Complementos de la dieta líquidos. | 400 mg/Kg. |
 |  |  | Complementos de la dieta sólidos. | 500 mg/Kg. |
+|  |  | Complementos de la dieta a base de vitaminas y/o elementos minerales, en forma masticable o de jarabe. | 1.250 mg/Kg. |
 |  |  | Frutas y hortalizas elaboradas |  |
 |  |  | Fruta enlatada o embotellada de valor energético reducido o sin azúcares añadidos. | 100 mg/Kg. |
 |  |  | Confituras, jaleas y marmalades de valor energético reducido. | 1.000 mg/Kg. |
@@ -190,6 +222,7 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | Caramelos, confites y golosinas sin azúcares añadidos. | 500 mg/Kg. |
 |  |  | Productos a base de cacao o de frutos secos, de valor energético reducido o sin azúcares añadidos. | 500 mg/Kg. |
 |  |  | Productos a base de almidón, de valor energético reducido o sin azúcares añadidos. | 500 mg/Kg. |
+|  |  | Micropastillas para refrescar el aliento sin azúcares añadidos. | 2.500 mg/Kg. |
 |  |  | Productos de pastelería, repostería, bollería y galletería |  |
 |  |  | Productos de pastelería y repostería de valor energético reducido o sin azúcares añadidos. | 1.600 mg/Kg. |
 |  |  | Productos de bollería y galletería de valor energético reducido o sin azúcares añadidos. | 1.600 mg/Kg. |
@@ -197,6 +230,9 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | Turrones y mazapanes de valor energético reducido o sin azúcares añadidos. | 500 mg/Kg. |
 | E-954 | Sacarina y sus sales de sodio, potasio y calcio. | Bebidas alcohólicas (excluida cerveza) |  |
 |  |  | Sidra y perada. | 80 mg/l. |
+|  |  | Bebidas alcohólicas |  |
+|  |  | Bebidas constituidas por una mezcla de cerveza, sidra, perada, bebidas espirituosas o vino con bebidas no alcohólicas. | 80 mg/I. |
+|  |  | Bebidas espirituosas con un contenido de alcohol inferior al 15 % vol. | 80 mg/I. |
 |  |  | Bebidas no alcohólicas |  |
 |  |  | Bebidas aromatizadas a base de agua, de valor energético reducido o sin azúcares añadidos. | 80 mg/l. |
 |  |  | Bebidas a base de leche y productos derivados, de valor energético reducido o sin azúcares añadidos. | 80 mg/l. |
@@ -207,10 +243,12 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | «Biere de table/tafelbier/table beer» (que contenga menos de un 6 por 100 de mosto primitivo) excepto «Obergaeriges einfachbier». | 80 mg/l. |
 |  |  | Cervezas con una acidez mínima de 30 miliequivalentes expresada en NaOH. | 80 mg/l. |
 |  |  | Cervezas negras del tipo «Oud bruin». | 80 mg/l. |
+|  |  | Cereales para desayuno |  |
+|  |  | Cereales para desayuno, con un contenido de fibra superior al 15 % y que contengan, al menos, un 20 % de salvado, de valor energético reducido o sin azúcares añadidos. | 100 mg/Kg. |
 |  |  | Complementos alimenticios |  |
 |  |  | Complementos de la dieta líquidos. | 80 mg/l. |
 |  |  | Complementos de la dieta sólidos. | 500 mg/Kg. |
-|  |  | Complementos de la dieta mono o polivitamínicos. | 1.200 mg/Kg. |
+|  |  | Complementos de la dieta a base de vitaminas y elementos minerales, en forma masticable o de jarabe. | 1.200 mg/Kg. |
 |  |  | Conservas y semiconservas de productos de la pesca |  |
 |  |  | Conservas y semiconservas agridulces de pescado. | 160 mg/Kg. |
 |  |  | Conservas y semiconservas agridulces de marinado de pescado. | 160 mg/Kg. |
@@ -245,24 +283,35 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | Caramelos, confites y golosinas sin azúcares añadidos. | 500 mg/Kg. |
 |  |  | Productos a base de cacao o de frutos secos, de valor energético reducido o sin azúcares añadidos. | 500 mg/Kg |
 |  |  | Productos a base de almidón, de valor energético reducido o sin azúcares añadidos. | 300 mg/Kg. |
+|  |  | Micropastillas para refrescar el aliento sin azúcares añadidos. | 3.000 mg/Kg. |
 |  |  | Productos de pastelería, repostería, bollería y galletería |  |
 |  |  | Productos de pastelería y repostería de valor energético reducido o sin azúcares añadidos. | 170 mg/Kg. |
 |  |  | Productos de bollería y galletería de valor energético reducido o sin azúcares añadidos. | 170 mg/Kg. |
 |  |  | Productos derivados de cacao, de chocolate y sucedáneos de chocolate de valor energético reducido o sin azúcares añadidos. | 170 mg/Kg. |
 |  |  | Turrones y mazapanes de valor energético reducido o sin azúcares añadidos. | 500 mg/Kg. |
 |  |  | «Essoblaten»/obleas. | 800 mg/Kg. |
+|  |  | Cucuruchos y galletas de barquillo para helados sin azúcares añadidos. | 800 mg/Kg. |
 |  |  | Salsas |  |
 |  |  | Salsas. | 160 mg/Kg. |
 |  |  | Mostazas. | 320 mg/Kg. |
+|  |  | Sopas |  |
+|  |  | Sopas de valor energético reducido. | 110 mg/I. |
+|  |  | Otros |  |
+|  |  | Feinkostsalat. | 160 mg/Kg. |
 | E-957 | Taumatina. | Complementos alimenticios |  |
-|  |  | Complementos de la dieta mono o polivitamínicos. | 400 mg/Kg. |
+|  |  | Complementos de la dieta a base de vitaminas y elementos minerales, en forma masticable o de jarabe. | 400 mg/Kg. |
 |  |  | Goma de mascar |  |
 |  |  | Goma de mascar sin azúcares añadidos. | 50 mg/Kg. |
+|  |  | Helados |  |
+|  |  | Helados, sorbetes y tartas heladas, de valor energético reducido o sin azúcares añadidos. | 50 mg/Kg. |
 |  |  | Productos de confitería a base de azúcar: caramelos, confites y golosinas |  |
 |  |  | Caramelos, confites y golosinas, sin azúcares añadidos. | 50 mg/Kg. |
 |  |  | Productos a base de cacao o de frutos secos, de valor energético reducido o sin azúcares añadidos. | 50 mg/Kg. |
 | E-959 | Neohesperidina DC | Bebidas alcohólicas (excluida cerveza) |  |
 |  |  | Sidra y perada. | 20 mg/l. |
+|  |  | Bebidas alcohólicas |  |
+|  |  | Bebidas constituidas por una mezcla de cerveza, sidra, perada, bebidas espirituosas o vino con bebidas no alcohólicas. | 30 mg/I. |
+|  |  | Bebidas espirituosas con un contenido de alcohol inferior al 15 % vol. | 30 mg/I. |
 |  |  | Bebidas no alcohólicas |  |
 |  |  | Bebidas aromatizadas a base de agua, de valor energético reducido o sin azúcares añadidos. | 30 mg/l. |
 |  |  | Bebidas a base de leche y productos derivados, de valor energético reducido o sin azúcares añadidos. | 50 mg/l. |
@@ -272,9 +321,13 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | «Biere de table/tafelbier/table beer» (que contenga menos de un 6 por 100 de mosto primitivo) excepto «Obergaeriges einfachbier». | 10 mg/l. |
 |  |  | Cervezas con una acidez mínima de 30 miliequivalentes expresada en NaOH. | 10 mg/l. |
 |  |  | Cervezas negras del tipo «Oud bruin». | 10 mg/l. |
+|  |  | Cerveza de valor energético reducido. | 10 mg/I. |
+|  |  | Cereales para desayuno |  |
+|  |  | Cereales para desayuno, con un contenido de fibra superior al 15 % y que contengan, al menos, un 20 % de salvado, de valor energético reducido o sin azúcares añadidos. | 50 mg/I. |
 |  |  | Complementos alimenticios |  |
 |  |  | Complementos de la dieta líquidos. | 50 mg/l. |
 |  |  | Complementos de la dieta sólidos. | 100 mg/l. |
+|  |  | Complementos de la dieta a base de vitaminas y/o elementos minerales en forma masticable o de jarabe. | 400 mg/I. |
 |  |  | Conservas y semiconservas de productos de la pesca |  |
 |  |  | Conservas y semiconservas agridulces de pescado. | 30 mg/Kg. |
 |  |  | Conservas y semiconservas agridulces de marinado de pescado. | 30 mg/Kg. |
@@ -302,15 +355,26 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | Productos alimenticios destinados a una alimentación especial |  |
 |  |  | Preparados completos de régimen para el control de peso que reemplacen una comida o el régimen alimenticio de un día. | 100 mg/Kg. |
 |  |  | Productos de pastelería, repostería, bollería y galletería destinados a una alimentación especial. | 150 mg/Kg. |
+|  |  | Productos alimenticios destinados a usos médicos especiales. | 100 mg/I. |
 |  |  | Productos de confitería a base de azúcar: caramelos, confites y golosinas |  |
 |  |  | Caramelos, confites y golosinas sin azúcares añadidos. | 100 mg/Kg. |
 |  |  | Productos a base de cacao o de frutos secos, de valor energético reducido o sin azúcares añadidos. | 100 mg/Kg. |
 |  |  | Productos a base de almidón, de valor energético reducido o sin azúcares añadidos. | 150 mg/Kg. |
+|  |  | Micropastillas para refrescar el aliento sin azúcares añadidos. | 400 mg/I. |
 |  |  | Productos de pastelería, repostería, bollería y galletería |  |
 |  |  | Productos de pastelería y repostería de valor energético reducido o sin azúcares añadidos. | 150 mg/Kg. |
 |  |  | Productos de bollería y galletería de valor energético reducido o sin azúcares añadidos. | 150 mg/Kg. |
 |  |  | Productos derivados de cacao, de chocolate y sucedáneos de chocolate de valor energético reducido o sin azúcares añadidos. | 150 mg/Kg. |
 |  |  | Turrones y mazapanes de valor energético reducido o sin azúcares añadidos. | 100 mg/Kg. |
+|  |  | Cucuruchos y galletas de barquillo para helados sin azúcares añadidos. | 50 mg/Kg. |
+|  |  | Productos de aperitivo |  |
+|  |  | Aperitivos salados y secos a base de almidones o de frutos secos envasados aromatizados. | 50 mg/Kg. |
 |  |  | Salsas |  |
 |  |  | Salsas. | 50 mg/Kg. |
 |  |  | Mostazas. | 50 mg/Kg. |
+|  |  | Sopas |  |
+|  |  | Sopas de valor energético reducido. | 50 mg/I. |
+|  |  | Otros |  |
+|  |  | Feinkostsalat. | 50 mg/I. |
+
+> Se modifica por el art. único.4, 5 y anexo del Real Decreto 2027/1997, de 26 de diciembre. Ref. BOE-A-1998-1005.
