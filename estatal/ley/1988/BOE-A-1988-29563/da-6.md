@@ -17,3 +17,7 @@ Uno. Se modifican los artículos primero, séptimo, octavo y noveno de la Ley 10
 4. Se deroga el artículo noveno.
 
 Dos. El límite máximo de cobertura al que hace referencia la nueva redacción del artículo octavo de la Ley 10/1970, de 4 de julio, por la que se modifica el régimen del Seguro de Crédito a la Exportación, será para el ejercicio 1989 de 250.000 millones de pesetas.
+
+> Se prorroga el apartado 2, en la forma establecida en la disposición adicional 1 del Real Decreto-ley 7/1989, de 29 de diciembre. Ref. BOE-A-1989-30591
+
+> Téngase en cuenta, sobre el ámbito del periodo de prórroga, la disposición adicional 11 del citado Real Decreto-ley.

@@ -11,3 +11,7 @@ En dicho acuerdo se determinará la obra u obras a que se refiere, la cuantía, 
 3. Por Real Decreto, a propuesta de los Ministros de Cultura y de Economía y Hacienda, se regulará el procedimiento y requisitos para el otorgamiento de este compromiso y la forma de hacerlo efectivo en su caso.»
 
 Dos. El importe acumulado de los compromisos otorgados en 1989 por este concepto no puede exceder de 30.000 millones de pesetas.
+
+> Se prorroga el apartado 2, en la forma establecida en la disposición adicional 1 del Real Decreto-ley 7/1989, de 29 de diciembre. Ref. BOE-A-1989-30591
+
+> Téngase en cuenta, sobre el ámbito del periodo de prórroga, la disposición adicional 11 del citado Real Decreto-ley.

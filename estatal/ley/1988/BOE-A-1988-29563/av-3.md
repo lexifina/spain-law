@@ -21,3 +21,5 @@ Conforme a lo dispuesto en el artículo 16 de esta Ley, el coste de personal fun
 | Valladolid. | 3.497.967 | 533.781 |
 | Zaragoza. | 4.214.807 | 629.593 |
 | UNED. | 2.006.178 | 575.309 |
+
+> Se incrementan en un 5 por 100 las cifras contenidas en este anexo por el art. 1 del Real Decreto-ley 7/1989, de 29 de diciembre. Ref. BOE-A-1989-30591
