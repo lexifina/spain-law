@@ -1,5 +1,5 @@
-## Art. 61. Precios de las licencias.
+## Art. 61. Definición del recargo.
 
-Oportunamente se dictará la Orden de este Ministerio que regule los precios de las licencias, teniendo para ello en cuenta la posición económica del solicitante; mientras tanto se seguirán expidiendo con arreglo a las normas actuales, sirviendo de base la última cédula.
+Se entiende por recargo la cantidad que el tenedor de una licencia ha de satisfacer, además del importe de ésta, cuando la pesca recaiga sobre el salmón, la trucha u otras especies que considere como de selección la Dirección General de Montes, Caza y Pesca Fluvial.
 
-Estas licencias quedarán habilitadas para la pesca del salmón mediante un sello especial que en la Jefatura del Servicio se adherirá a las mismas y cuyo importe será de 150 pesetas.
+> Se modifica por el art. 2 del Decreto de 16 de junio de 1950. Ref. BOE-A-1950-8044.
