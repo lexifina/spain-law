@@ -364,6 +364,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 301](a301.md)
 - [CAPÍTULO XXXVII](cxxxvii.md)
 - [Artículo 302](a302.md)
+- [Artículos 302 a 312](as302a312.md)
 - [Artículo 303](a303.md)
 - [Artículo 304](a304.md)
 - [Artículo 305](a305.md)
