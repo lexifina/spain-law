@@ -10,5 +10,8 @@
 | 85/490 de 11 de octubre. | 7 de noviembre de 1985. | 15/Vol. 06 pág. 115. |
 | 87/143 de 10 de febrero. | 27 de febrero de 1987 (número L-57 pág. 56). |  |
 | 90/207, de 4 de abril de 1990. | 28 de abril de 1990 L/108, página 92. |  |
+| 93/73, de 9 de septiembre de 1993. | 14 de septiembre de 1993, L 231, página 34. |  |
+
+> Se modifica por el art. único de la Orden de 17 de mayo de 1995. Ref. BOE-A-1995-12367
 
 > Se modifica por el art. único de la Orden de 19 de octubre de 1990. Ref. BOE-A-1990-26176
