@@ -1,0 +1,3 @@
+## Artículo treinta y siete. Beneficiarios de la pensión.
+
+Tendrán derecho a la pensión de orfandad, en los términos previstos en el artículo ciento sesenta y dos de la Ley de la Seguridad Social y gozarán, en su caso, de la opción prevista en el número tres del artículo ciento sesenta y seis de la misma, los hijos legítimos, legitimados, adoptivos o naturales reconocidos, que al fallecimiento del causante reúnan los requisitos que en el primero de dichos artículos se señalan y siempre que dicho causante tuviere cubierto el periodo de cotización señalado para la pensión de viudedad en el número uno del artículo treinta y dos del presente Reglamento.

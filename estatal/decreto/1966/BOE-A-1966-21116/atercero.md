@@ -1,0 +1,3 @@
+## Artículo tercero. Alcance de la acción protectora.
+
+Quedarán exceptuados de la acción protectora por incapacidad laboral transitoria, no derivada de accidente de trabajo o enfermedad profesional, los trabajadores comprendidos en el campo de aplicación del Régimen General que estén excluidos de asistencia sanitaria de acuerdo con lo previsto en el párrafo primero del apartado a), a’), del artículo ochenta y tres de la Ley de la Seguridad Social; en consecuencia, los padres de familia numerosa que hagan uso de la opción que en dicho apartado se establece gozarán también de la cobertura de este Régimen General respecto a la incapacidad laboral transitoria a que el presente artículo se refiere.

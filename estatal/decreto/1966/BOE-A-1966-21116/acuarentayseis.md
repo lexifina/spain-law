@@ -1,0 +1,5 @@
+## Artículo cuarenta y seis. Cuantía de las prestaciones básicas.
+
+Uno. La cuantía mensual de la prestación económica por desempleo total, bien sea debido a despido definitivo o a suspensión temporal, será el setenta y cinco por ciento del promedio de las bases por las que se haya cotizado durante los seis meses precedentes, sin que se computen a tal efecto las cotizaciones correspondientes a las gratificaciones de 18 de Julio y Navidad, si el trabajador se encontrase percibiendo esta prestación en la fecha en que hayan de abonarse las citadas gratificaciones, percibirá el setenta y cinco por ciento de la base de cotización correspondiente a las mismas, en proporción al tiempo que lleve en esta situación.
+
+Dos. La cuantía del subsidio por desempleo parcial se calculará en igual forma que la prestación económica a que se refiere el número anterior y en proporción a la reducción experimentada; del mismo modo y en la misma proporción se abonarán las gratificaciones de 18 de Julio y Navidad.
