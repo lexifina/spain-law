@@ -42,9 +42,8 @@
 |  |  |
 |  |  |
 | 13 | FORMALDEHÍDO | Preparaciones para endurecer las uñas | – 5% expresado en formaldehído |  | – Protéjanse las cutículas con una sustancia grasa. – Contiene formaldehído (2). |
-| 14 | Hidroquinona. | a) Colorante de oxidación para el cabello. | 0,3 por 100 |  | a) |
-|  |  | 1. Uso personal. . |  |  | 1. No emplear para teñir cejas y pestañas. En caso de contacto con los ojos, lávenlos inmediata y abundantemente con agua. Contiene hidroquinona. |
-|  |  | 2. Uso profesional. |  |  | 2. Reservado a profesionales. Contiene hidroquinona. En caso de contacto con los ojos, lávenlos inmediata y abundantemente con agua |
+| 14 | Hidroquinona * | a) Colorante de oxidación para el teñido del cabeIlo: 1. Uso general. 2. Uso profesional. | 0,3% |  | a) 1. No emplear para teñir las pestañas y las cejas. Enjuagar inmediatamente los ojos en caso de que el producto entre en contacto con ellos. Contiene hidroquinona. 2. Reservado a los profesionales. Contiene hidroquinona. Enjuagar inmediatamente los ojos en caso de que el producto entre en contacto con ellos. |
+|  |  | b) Sistemas de uñas artificiales. | 0,02% (después de la mezcla para su utilización. | Reservado a los profesionales. | b) Reservado a los profesionales. Evítese el contacto con la piel. Léanse las instrucciones de uso. |
 | 15a | HIDRÓXIDO DE POTASIO O HIDRÓXIDO DE SODIO | a) Disolvente de las cutículas de las uñas. | a) 5% en peso (4). |  | a) – Contiene agente alcalino. – Evítese el contacto con los ojos. Peligro de ceguera. – Manténgase fuera del alcance de los niños. |
 |  |  | b) Productos para el alisado del cabello. | b) |  | b) |
 |  |  | 1. Uso general. | 1. 2% en peso (4). |  | 1. – Contiene agente alcalino. – Evítese el contacto con los ojos. Peligro de ceguera. – Manténgase fuera del alcance de los niños. |
@@ -111,15 +110,20 @@
 |  |  | b) Champú y productos de cuidado de la cara. | 2,1% expresado en estroncio. En caso de mezcla con otros compuestos de estroncio autorizados por este anexo, la concentración máxima de estroncio queda fijada en 2,1% |  |  |
 | 58 | ACETATO DE ESTRONCIO (SEMIHIDRATADO) | Dentríficos. | 3,5% expresado en estroncio. En caso de mezcla con otros compuestos de estroncio autorizados por este Anexo, la concentración máxima de estroncio queda fijada en 3,5% |  | – Contiene acetato de estroncio. – Se desaconseja su uso en niños. |
 | 59 | TALCO: SILICATO DE MAGNESIO HIDRATADO | a) Productos pulverulentos para los niños menores de tres años. b) Otros productos |  |  | a) Mantener apartado de la nariz y la boca del niño. |
-| 60 | DIALCANOLAMIDAS DE ÁCIDOS GRASOS. |  | Contenido máximo de dialcanotamina: 0,5%. | – No emplear con agentes nitrosantes. – Contenido máximo de dialcanolamina: 5% (afecta a las materias primas). – Contenido máximo de N-nitrosodialcanolaminas: 50 ug/Kg. – Conservar en recipientes que no contengan nitritos. |  |
-| 61 | MONOALCANOLAMINAS. |  | Contenido máximo de dialcanolamina: 0,5%. | – No emplear con agentes nitrosantes. – Pureza mínima 99%. – Contenido máximo de alcanolaminas secundarias: 5% (afecta a materias primas). – Contenido máximo de N-nitrosodialcanolaminas: 50 ug/kg. – Conservar en recipientes que no contengan nitritos. |  |
-| 62 | TRIALCANOLAMINAS | a) Productos que no requieren aclarado. b) Otros productos. | a) 2,5% | a) b): – No emplear con agentes nitrosantes. – Pureza mínima 99%. – Contenido máximo de alcalonaminas secundarias: 0,5% (afecta a las materias primas). – Contenido máximo de N-nitrosodialcanolaminas: 50 ug/kg. – Conservar en recipientes que no contengan nitritos. |  |
+| 60 | Dialquilamidas y dialcanolamidas de ácidos grasos. |  | Contenido máximo de amina secundaria: 0,5%. . | No emplear con agentes nitrosantes. Contenido máximo de amina secundaria: 5% (aplicable a las materias primas). Contenido máximo de nitrosaminas: 50 gg/kg. Conservar en recipientes que no contengan nitritos. |  |
+| 61 | Monoalquilaminas, monoalcanola minas y sus sales. |  | Contenido máximo de amina secundaria: 0,5%. | No emplear con agentes nitrosantes. Pureza mínima: 99%. Contenido máximo de amina secundaria: 5% (aplicable a las materias primas). Contenido máximo de nitrosaminas: 50 gg/kg. Conservar en recipientes que no contengan nitritos. |  |
+| 62 | Trialquilaminas, trialcanolaminas y sus sales. | a) Productos que no requieren aclarado. b) Otros productos. | a) 2,5% | a), b) No emplear con agentes nitrosantes. Pureza mínima: 99%. Contenido máximo de amina secundaria: 5% (aplicable a las materias primas). Contenido máximo de nitrosaminas: 50 μg/kg. Conservar en recipientes que no contengan nitritos. |  |
 | 63 | HIDRÓXIDO DE ESTRONCIO | Regulador del pH en los productos depilatorios | 3,5% expresado en estroncio pH máximo 12,7 |  | – Mantener fuera del alcance de los niños. – Evitar el contacto con los ojos. |
 | 64 | PERÓXIDO DE ESTRONCIO | Productos para el cuidado del cabello, destinados a ser aclarados después de su aplicación. Uso profesional | 4,5% expresado en estroncio en el producto preparado para el uso | Todos los productos deberán cumplir los requisitos de emisión de peróxido de hidrógeno | – Evitar el contacto con los ojos. – Enjuagar inmediatamente los ojos si el producto entra en contacto con ellos. – Uso profesional. – Usar guantes adecuados. |
 | 65 | Cloruro, bromuro y sacarinato de benzalconio. | b) Productos para el cabello que se eliminan por aclarado. | a) 3 por 100 (expresado en cloruro de benzalconio). | a) En el producto acabado, las concentraciones de cloruro, bromuro y sacarinato de benzalco‑ nio cuya cadena de alquilos sea igual o inferior a C14 no deberán ser superiores al 0,1 por 100 (expresado en clo‑ ruro de benzalconio). | a) Evitar el contacto con los ojos. |
 |  |  | c) Otros productos. | b) 0,1 por 100 (expresado en cloruro de benzalconio). |  | b) Evitar el contacto con los ojos. |
 | 66 | Polyacrylamides. | a) Productos para el cuidado corporal que se dejan en contacto. |  | a) Contenido máximo residual de acrilamida 0,1 mg/kg. |  |
 |  |  | b) Otros productos cosméticos. |  | b) Contenido máximo residual de acrilamida 0,5 mg/kg |  |
+| 93 | 2,4-diaminopirimidina3-óxido (número CAS 74638-76-9) | Producto para el tratamiento del cabello. | 1,5%. |  |  |
+| 94 | Peróxido de benzoilo. | Sistemas de uñas artificiales. | 0,7% (después de la mezcla). | Reservado a profesionales. | Reservado a los profesionales. Evítese el contacto con la piel. Leánse las instrucciones de uso. |
+| 95 | Hidroquinona dimetil éter. | Sistemas de uñas artificiales. | 0,02% (después de la mezcla para su utilización). | Reservado a profesionales. | Reservado a los profesionales. Evítese el contacto con la piel. Leánse las instrucciones de uso. |
+
+* Esta sustancia podrá emplearse por separado o mezclada en cantidades tales que la suma de las proporciones de los contenidos del producto cosmético en cada una de estas sustancias respecto al contenido máximo autorizado respecto a cada una de ellas no exceda de 2.
 
 (1) Estas sustancias pueden ser utilizadas solas o mezclas entre ellas en cantidad tal que la suma de los «cocientes relativos» de cada una de las sustancias no sobrepase la unidad.
 
@@ -132,6 +136,8 @@ Se denomina «cociente relativo» a la relación entre la concentración de una 
 Se denomina «cociente relativo» a la relación entre la concentración de una sustancia y la concentración máxima permitida para esa sustancia.
 
 (4) La cantidad de hidróxido de potasio, sodio o litio se expresa en peso de hidróxido de sodio. En caso de mezclas, la suma no debería sobrepasar los límites establecidos en la columna d).
+
+> Se modifican los números 14, 61, 62 y 63 y se añaden el 93, 94 y 95 por el apartado 1.2 de la Orden SCO/2592/2004, de 21 de julio. Ref. BOE-A-2004-14315.
 
 > Se modifican los números 8, 15b, 15c y 16 y se añade el 66 por el apartado 1.2 de la Orden SCO/249/2003, de 5 de febrero. Ref. BOE-A-2003-3007.
 

@@ -360,11 +360,7 @@ Lacas, pigmentos o sales preparadas a partir de colorantes que figuran con la re
 
 177. Tolboxano.
 
-178. 4-benziloxifenol.
-
-4-metoxifenol.
-
-4-etoxifenol.
+178. 4-Benciloxifenol y 4-etoxifenol.
 
 179. Paretoxicaína (a) y sus sales.
 
@@ -804,7 +800,7 @@ Colorante C.I. 42555-2
 
 385. Amil-4-dimetilaminobenzoato (mezcla de isómeros) [padimato a (a)].
 
-386. Peróxido de benzoilo.
+386. (Suprimido)
 
 387. 2-amino-4-nitrofenol.
 
@@ -850,7 +846,7 @@ Colorante C.I. 42555-2
 
 408. Nitrosaminas.
 
-409. Dialcanolaminas secundarias.
+409. Alquilaminas y alcanolaminas secundarias y sus sales.
 
 410. 4-amino-2-nitrofenol.
 
@@ -957,6 +953,8 @@ e) 0,0002 por 100 en otros productos de contacto y productos de higiene bucal.
 (1) Se tolerará la presencia de trazas de las sustancias comprendidas en este anexo, cuando éstas sean técnicamente inevitables como consecuencia de la aplicación de las buenas prácticas de fabricación y siempre que se cumpla el articulo cuarto de esta reglamentación.
 
 (a) El nombre de estas sustancias es el recomendado como «denominación común internacional» para las sustancias farmacéuticas publicadas por la Organización Mundial de la Salud. Ginebra 1982.
+
+> Se modifican los números 178 y 409 y se suprime el 386 por el apartado 1.1 de la Orden SCO/2592/2004, de 21 de julio. Ref. BOE-A-2004-14315.
 
 > Se modifican los números 417 y 449 por el apartado 1.1 de la Orden SCO/1448/2003, de 23 de mayo. Ref. BOE-A-2003-11267.
 

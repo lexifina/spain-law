@@ -59,7 +59,7 @@ LISTA DE AGENTES CONSERVADORES ADMITIDOS
 | 33 | DIMETILOL DIMETIL HIDANTOINA (+) | 0,6% |  |  |
 | 34 | ALCOHOL BENCÍLICO (+) | 1,0% |  |  |
 | 35 | 1-HIDROXI-4-METIL- 6(2,4,-4-TRIMETILPENTIL) 2- PIRIDÓN Y SU SAL DE MONOETANOLAMINA (+) | 1,0% 0,5% | – Para productos os aclarados. – Para otros productos. |  |
-| 36 | 1,2-DIBROMO-2,4- DICIANOBUTANO | 0,1% | No emplear en productos de protección solar con una concentración superior al 0,025%. |  |
+| 36 | 1,2-dibromo-2,4-dicianobutano (methyldibromo glutaronitrile). | 0,1% | Únicamente en productos que se eliminan por aclarado. |  |
 | 37 | 3,3’-DIBROMO-5,5’- DICLORO-2,2’‑ DIHIDROXIDIFENILMETANO (+) | 0,1% |  |  |
 | 38 | ISOPROPILMETACRESOL | 0,1% |  |  |
 | 39 | 5-CLORO-2-METIL-3,4- ISOTIAZOLONA- + 2- METIL-3,4- ISOTIAZOLONA + CLORURO DE MAGNESIO Y NITRATO DE MAGNESIO. | 0,0015% De una mezcla en la proporción 3:1 de 5‑cloro-2‑metil-3,4‑ isotiazolona y 2-metil‑ 3,4‑ isotiazolona. |  |  |
@@ -93,6 +93,8 @@ LISTA DE AGENTES CONSERVADORES ADMITIDOS PROVISIONALMENTE
 | --- | --- | --- | --- | --- | --- |
 | a | b | c | d | e | f |
 |  |  |  |  |  |  |
+
+> Se modifica el número 36 de la primera parte por el apartado 1.3 de la Orden SCO/2592/2004, de 21 de julio. Ref. BOE-A-2004-14315.
 
 > Se añaden los números 55 y 56 en la primera parte y se suprime el 21 y 29 de la segunda parte por el apartado 1.3 de la Orden de 3 de agosto de 2000. Ref. BOE-A-2000-15557.
 
