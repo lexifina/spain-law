@@ -2,7 +2,15 @@
 
 VII.1 Tamaño de los lotes.
 
-El tamaño de los lotes no podrá exceder de los diez mil kilogramos, excepto para garbanzo, guisantes, haba, judía y lenteja, cuyo máximo será de veinte mil kilogramos. En el peso máximo del lote se admite una tolerancia de hasta el 5 por 100.
+El peso máximo de los lotes no podrá exceder de:
+
+a) Para semillas de Phaseolus vulgaris, Pisum Sativum y Vicia faba: 25 toneladas.
+
+b) Para semillas de tamaño igual o superior al de los granos de trigo, excepto las de Phaseolus vulgaris, Pisum sativum y Vicia faba: 20 toneladas.
+
+c) Para semillas de tamaño inferior al de los granos de trigo: 10 toneladas.
+
+En el peso máximo de los lotes se admite una tolerancia de hasta el 5 por 100.
 
 VII.2 Identificación de los lotes.
 
@@ -20,7 +28,7 @@ VII.4 Requisitos especiales para semilla standard.
 
 El precintado y la toma de muestras correspondiente en esta categoría será responsabilidad del Productor, siguiendo la normativa de este Reglamento.
 
-VII.4.1 Control de precintados de semilla standard.
+VII.4.1 Control de precintados de semilla standard
 
 La reseña detallada de todos los lotes que se precinten en un determinado almacén autorizado se relacionarán en impresos, cuyo modelo figura en el anejo VI, debiendo enviarse por el Productor aI Servicio Oficial de Control correspondiente los impresos que se hayan cumplimentado al finalizar cada trimestre del año, quedándose el Productor con una copia durante un período mínimo de cuatro años.
 
@@ -28,6 +36,8 @@ Los Productores de semilla standard antes de proceder a la comercialización de 
 
 El rigor del muestreo, efectuado por el Productor, será verificado mediante comprobaciones aleatorias realizadas por los Servicios Oficiales de Control.
 
+> Se modifica el apartado 1 por el art. 4 de la Orden de 17 de julio de 1996. Ref. BOE-A-1996-16632.
+
 > Se modifica el apartado 1 por el apartado 1 de la Orden 6 de octubre de 1988. Ref. BOE-A-1988-24864.
 
-> Redactados los apartados 4 y 4.1 conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. Ref. BOE-A-1987-10508.
+> Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. Ref. BOE-A-1987-10508.
