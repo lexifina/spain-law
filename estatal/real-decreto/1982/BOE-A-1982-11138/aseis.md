@@ -1,0 +1,3 @@
+## Artículo seis.
+
+En el caso de que la reclamación sea desestimada por el Director provincial de Trabajo y Seguridad Social, o transcurrido el plazo de treinta días señalado sin que se dicte resolución, en el que se entenderá igualmente desestimada aquélla, podrá el interesado entablar demanda ante la Magistratura de Trabajo que hubiese conocido del juicio por despido, dentro del plazo y con arreglo a las normas procesales que señala el artículo ciento catorce del Real Decreto legislativo mil quinientos sesenta y ocho/mil novecientos ochenta, de trece de junio, que aprueba el texto refundido de la Ley de Procedimiento Laboral.
