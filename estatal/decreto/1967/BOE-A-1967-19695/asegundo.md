@@ -10,9 +10,7 @@ Dos. Tendrán, asimismo, derecho a asistencia sanitaria por enfermedad común o 
 
 a) Cónyuge.
 
-b) Los descendientes legítimos, legitimados o ilegítimos, aunque estos últimos no tengan la condición legal de naturales, y los hijos adoptivos menores de veintiún años de edad, así como los hermanos menores de dieciocho años y los mayores de dichas edades que padezcan una incapacidad permanente y absoluta que les inhabilite por completo para toda profesión u oficio: los descendientes antes indicados podrán serlo de ambos cónyuges o de cualquiera de ellos.
-
-Excepcionalmente, los acogidos de hecho quedarán asimilados, a estos efectos, a los familiares mencionados en el párrafo anterior, previo acuerdo en cada caso del Consejo Provincial del Instituto Nacional de Previsión.
+b) Los descendientes, hijos adoptivos y hermanos, todos ellos hasta que cumplan veintiséis años de edad, y los que, habiendo superado dicha edad padezcan una incapacidad permanente y absoluta que les inhabilite por completo para toda profesión y oficio. Los descendientes antes indicados podrán serlo de ambos cónyuges o de cualquiera de ellos. Excepcionalmente los acogidos de hecho quedarán asimilados, a estos efectos, a los familiares mencionados en el párrafo anterior, previo acuerdo, en cada caso, de la Dirección Provincial del Instituto Nacional de la Seguridad Social.
 
 c) Los ascendientes, cualquiera que sea su condición legal, o por adopción tanto del titular del derecho como de su cónyuge y los cónyuges de tales ascendientes por anteriores nupcias.
 
@@ -27,6 +25,10 @@ No obstante lo dispuesto en los párrafos anteriores, en caso de separación, co
 b) No realizar trabajo remunerado alguno ni percibir renta patrimonial ni pensión alguna superiores al doble del salario mínimo interprofesional de los trabajadores adultos.
 
 c) No tener derecho, por título distinto, a recibir asistencia sanitaria de la Seguridad Social en cualquiera de sus Regímenes, con una extensión y contenido análogos a los establecidos en el Régimen General.
+
+> Se modifica el apartado 2.b) por el art. 1 del Real Decreto 1377/1984, de 4 de julio. Ref. BOE-A-1984-16745.
+
+> Esta modificación tiene efectos a partir de 1 de septiembre de 1984, según establece la disposición final primera.
 
 > Se modifica por el art. único.1 del Decreto 3091/1972, de 2 de noviembre. Ref. BOE-A-1972-1645.
 
