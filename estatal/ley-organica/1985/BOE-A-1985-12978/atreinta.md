@@ -1,0 +1,3 @@
+## Artículo treinta.
+
+El Consejo Escolar del Estado es el órgano de ámbito nacional para la participación de los sectores afectados en la programación general de la enseñanza y de asesoramiento respecto de los proyectos de ley o reglamentos que hayan de ser propuestos o dictados por el Gobierno.
