@@ -1,0 +1,3 @@
+## Disposición adicional novena. Operaciones a crédito y a plazo.
+
+Se autoriza al Ministerio de Economía y Hacienda para establecer el régimen de las operaciones a crédito, tanto de compra, como de venta, acomodándolo a la situación creada por la Ley 24/1988, de 28 de julio, del Mercado de Valores, para señalar los valores y orden de sucesión de las operaciones a plazo que vayan a autorizarse en las Bolsas, de conformidad con los artículos 80 y 81 de su vigente Reglamento, y para regular la situación transitoria de las operaciones a crédito cuyo desarrollo temporal resulte afectado por la entrada en vigor de los preceptos de la mencionada Ley referidos a las Bolsas de Valores.

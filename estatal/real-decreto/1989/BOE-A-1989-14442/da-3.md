@@ -1,0 +1,13 @@
+## Disposición adicional tercera. Constitución de las Sociedades Rectoras de las Bolsas de Valores de Madrid, Barcelona, Bilbao y Valencia.
+
+1. La constitución de las Sociedades Rectoras de las Bolsas de Madrid, Barcelona, Bilbao y Valencia deberá quedar concluida antes del 29 de julio de 1989.
+
+2. La participación como socio fundador en el otorgamiento de la escritura de constitución de las Sociedades Rectoras requerirá la presentación de la certificación a que se refiere el articulo 2 de este Real Decreto o, en su caso, de la mencionada en la disposición adicional anterior.
+
+3. Las Sociedades o Agencias de Valores que, debidamente inscritas en la fecha prevista para el otorgamiento de la escritura de constitución de la Sociedad Rectora, no comparecieran a la firma de la misma, deberán esperar el plazo previsto en el número 4 de esta disposición. Las que no hubieran obtenido todavía la inscripción en los Registros de la Comisión Nacional del Mercado de Valores, habiendo solicitado en el expediente ser miembros de alguna Bolsa, accederán efectivamente a dicha condición si una vez inscritos reiteran ante la Sociedad Rectora dicha intención, aportando la certificación a que se refiere el artículo 2 de este Real Decreto. A tal fin, la Sociedad Rectora procederá a efectuar la correspondiente ampliación de capital, salvo que sus accionistas opten por ceder acciones a los nuevos miembros en la proporción necesaria.
+
+4. Sin perjuicio de lo previsto en el número anterior, hasta que transcurra un año desde la constitución de su Sociedad Rectora no se podrá solicitar el acceso a la condición de miembro de la Bolsa de Valores de que se trate mediante la manifestación a que se refiere el artículo 2 de este Real Decreto. La primera incorporación de nuevos miembros tendrá lugar en el mes de septiembre de 1990.
+
+5. La distribución inicial del capital fundacional de las Sociedades Rectoras de las Bolsas de Valores entre sus miembros se realizará en proporción a los capitales mínimos establecidos para las Sociedades y Agencias de Valores en la letra e) del número 1 del artículo 2 del Real Decreto 276/1989. Este mismo criterio será el aplicable hasta la primera aprobación de cuentas de la Sociedad Rectora que correspondan al primer ejercicio económico coincidente con un año natural completo.
+
+Los Agentes de Cambio y Bolsa que accedan a la condición de miembro de una Bolsa a título individual participarán en ese capital fundacional de su Sociedad Rectora suscribiendo, según libremente decidan, como mínimo la mitad y como máximo toda la participación que corresponde a cada Agencia de Valores.
