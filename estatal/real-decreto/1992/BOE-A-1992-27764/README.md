@@ -11,6 +11,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 ## Bloques
 
 - [preambulo](preambulo.md)
+- [pr](pr.md)
 - [Título preliminar](tpreliminar.md)
 - [Artículo 1](a1.md)
 - [Título I](ti.md)
