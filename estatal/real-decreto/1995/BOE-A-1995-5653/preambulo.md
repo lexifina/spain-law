@@ -1,0 +1,23 @@
+Los medicamentos veterinarios han venido regulándose por el Real Decreto 163/1981, de 23 de enero, sobre productos zoosanitarios y otras sustancias utilizadas en la producción animal, aplicándose tanto a las sustancias medicamentosas como a otras destinadas a la nutrición animal.
+
+La incorporación de España a la Comunidad Europea dio lugar a importantes modificaciones en este sector. La obligación genérica de adaptación de nuestra legislación a la comunitaria, impedía seguir aplicando el mencionado Real Decreto, ya que las sustancias que en él tenían una regulación única, en el ámbito de la Comunidad, pasaban a ser objeto de disposiciones legales diferenciadas.
+
+Este hecho, unido a la promulgación de la Ley 25/1990, de 20 de diciembre, del Medicamento, planteaban la necesidad de actualizar la normativa aplicable a medicamentos veterinarios.
+
+En tal sentido, se transponen mediante esta disposición, las Directivas 81/851/CEE, del Consejo, de 28 de septiembre, relativa a la aproximación de las legislaciones de los Estados miembros sobre medicamentos veterinarios, y 81/852/CEE, del Consejo, de 28 de septiembre, relativa a la aproximación de las legislaciones de los Estados miembros sobre normas y protocolos analíticos, tóxico-farmacológicos y clínicos en materia de pruebas de medicamentos veterinarios, junto con las posteriores modificaciones de las mismas: Directiva 87/20/CEE, del Consejo, de 22 de diciembre de 1986; Directiva 90/676/CEE, del Consejo, de 13 de diciembre; Directiva 90/677/CEE, del Consejo, de 13 de diciembre; Directiva 92/18/CEE, de la Comisión, de 20 de marzo y la Directiva 93/40/CEE, del Consejo, de 14 de junio.
+
+Asimismo, se traspone mediante la presente disposición la Directiva 91/412/CEE, de la Comisión, de 23 de julio, por la que se establecen los principios y directrices de las prácticas correctas de fabricación de medicamentos veterinarios.
+
+Finalmente, con esta disposición se adecua, para los medicamentos veterinarios la legislación española a la Directiva 87/22/CEE, del Consejo, de 22 de diciembre de 1986, sobre la comercialización de medicamentos de alta tecnología, en particular, los obtenidos por biotecnología y la Directiva 78/25/CEE, del Consejo, de 12 de diciembre de 1977, relativa a la aproximación de las legislaciones de los Estados miembros referentes a las materias que puedan añadirse a los medicamentos para su coloración.
+
+Ha de tenerse en cuenta lo previsto en el Reglamento (CEE) 2309/1993, de 22 de julio, por el que se establecen procedimientos comunitarios para la autorización y supervisión de medicamentos de uso humano y veterinario y por el que se crea la Agencia Europea para la Evaluación del Medicamento.
+
+Sobre los medicamentos veterinarios, el presente Real Decreto regula, siguiendo la pauta comunitaria, tanto los farmacológicos como los inmunológicos, incluidas las premezclas destinadas a los piensos medicamentosos, así como los medicamentos veterinarios no preparados de antemano, destinados a tratamientos individualizados. Las demás formas de medicamentos, y productos y material con ellos relacionados, aunque vinculados a la misma, se remiten a sus respectivas y específicas normativas.
+
+En el presente Real Decreto se establecen los requisitos necesarios para la observancia de la seguridad, eficacia y calidad de los medicamentos veterinarios en todo el proceso de su autorización, elaboración, comercio, almacenamiento, suministro y utilización, en relación con los animales de destino, así como, indirectamente, la seguridad, habida cuenta de sus repercusiones sobre la salud pública y el medio ambiente, y articulando, además, los mecanismos precisos para el oportuno control.
+
+En consecuencia el presente Real Decreto, habiendo sido consultados los sectores afectados, se dicta de acuerdo con lo dispuesto en los artículos 149.1.10.ª y 149.1.16.ª de la Constitución que, respectivamente, atribuyen al Estado la competencia exclusiva en materia de comercio exterior y de bases de la sanidad y legislación de productos farmacéuticos. Asimismo, se fundamenta en lo dispuesto en el artículo 40.5 y 6 y en la disposición adicional cuarta de la Ley 14/1986, de 25 de abril, General de Sanidad, y en los artículos 43 al 50 y disposiciones concordantes de la Ley 25/1990, de 20 de diciembre, del Medicamento, cuya disposición final autoriza al Gobierno para que apruebe los reglamentos y normas para la aplicación y desarrollo de dicha Ley.
+
+En su virtud, a propuesta de los Ministros de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, con la aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 27 de enero de 1995,
+
+DISPONGO:
