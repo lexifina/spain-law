@@ -1,3 +1,5 @@
 ## Disposición transitoria primera.
 
 Las entidades de inspección y control reglamentario concesionarias o reconocidas para la inspección de productos, equipos e instalaciones industriales, autorizadas en base al Real Decreto 1407/1987, de 13 de noviembre; las entidades colaboradoras en materia de medio ambiente autorizadas en base al Real Decreto 735/1979, de 20 de febrero, y los laboratorios de ensayo y calibración autorizados en base al Real Decreto 2584/1981, de 18 de septiembre, podrán seguir actuando hasta la terminación del plazo de concesión o autorización o, si éste no existiera, hasta el 23 de julio de 1997, si bien, en todos los casos, se concede el plazo de un año desde la entrada en vigor de la presente disposición para que los citados agentes adapten sus estatutos y adecúen sus actuaciones a lo dispuesto en el Reglamento que se aprueba por este Real Decreto y durante el cual dichas entidades y organismos podrán seguir actuando.
+
+> Se prorroga durante doce meses, a partir del día 7 de febrero de 1997, el plazo establecido, por el art. 1 del Real Decreto 411/1997. Ref. BOE-A-1997-9026.
