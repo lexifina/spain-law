@@ -1,0 +1,3 @@
+## Disposición final primera. Carácter básico.
+
+El presente Real Decreto, que se dicta en uso de las competencias que atribuye al Estado el artículo 149.1, 1.ª, 18.ª y 30.ª, de la Constitución y en virtud de la habilitación que confiere al Gobierno la disposición adicional novena, apartado uno, de la Ley Orgánica de Ordenación General del Sistema Educativo, tiene carácter básico, salvo lo dispuesto en los artículos 5, apartado 2; 6, apartados 1, 2, 4 y 5, y 7, apartado 2 los cuales, no obstante, serán de aplicación, con carácter supletorio, en defecto de la correspondientes normativa de las Comunidades Autónomas que se hallen en el ejercicio de sus competencias educativas.
