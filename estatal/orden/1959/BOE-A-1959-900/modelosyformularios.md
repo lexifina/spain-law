@@ -56,7 +56,7 @@
 
 ## Modelo número 9
 
-## Declaración y parte de alumbramiento de criaturas abortivas
+## Parte de alumbramiento de criaturas abortivas
 
 (Derogado)
 
@@ -64,37 +64,37 @@
 
 ## Expediente para la obtención de fe de vida
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_014.png)
+(Derogado)
 
 ## Modelo número 11
 
 ## Fe de vida y estado
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_015.png)
+(Derogado)
 
 ## Modelo número 12
 
 ## Certificación en extracto de acta de nacimiento
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_016.png)
+(Derogado)
 
 ## Modelo número 13
 
 ## Certificación en extracto de acta de matrimonio
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_017.png)
+(Derogado)
 
 ## Modelo número 14
 
 ## Certificación en extracto de acta de defunción
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_018.png)
+(Derogado)
 
 ## Modelo número 15
 
 ## Certificación en extracto del acta de ...
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_019.png)
+(Derogado)
 
 ## Modelo número 16
 
@@ -119,5 +119,7 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_027.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_028.png)
+
+> Se derogan los modelos 10, 11, 12, 13, 14 y 15 por la disposición final primera de la Orden de 20 julio 1989 Ref. BOE-A-1989-22111.
 
 > Se derogan los modelos número 5, 7 y 9 por la disposición final primera de la Orden de 26 de mayo de 1988. Ref. BOE-A-1988-13633
