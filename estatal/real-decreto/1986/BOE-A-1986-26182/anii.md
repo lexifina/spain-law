@@ -1,10 +1,12 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_013.png)
+
+> Se modifica por la Orden de 25 de abril de 1997. Ref. BOE-A-1997-9873.
 
 > Se modifica por la Orden de 24 de abril de 1996. Ref. BOE-A-1996-10409.
 

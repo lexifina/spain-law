@@ -2,31 +2,33 @@
 
 1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_004.png)
 
 2. Tractores agrícolas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_007.png)
 
 3. Vehículos de 2 o 3 ruedas y cuadriciclos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_009.png)
 
 4. Varios
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/109/09873_010.png)
+
+> Se modifica por la Orden de 25 de abril de 1997. Ref. BOE-A-1997-9873.
 
 > Se modifica por la Orden de 24 de abril de 1996. Ref. BOE-A-1996-10409.
 
@@ -38,7 +40,7 @@
 
 > Se modifica por la Orden de 22 de febrero de 1994. Ref. BOE-A-1994-6014.
 
-> Véase la corrección de errores publicada en BOE núm. 123, de 24 de mayo de 1994. Ref. BOE-A-1994-11551.
+> Véase la corrección de errores publicada en BOE núm. 123, de 24 de mayo de 1994. Ref. BOE-A-1994-11651.
 
 > Se modifica por la Orden de 15 de octubre de 1993. Ref. BOE-A-1993-25901.
 
@@ -52,7 +54,7 @@
 
 > Véase la corrección de errores publicada en BOE núm. 101, de 27 de abril de 1992. Ref. BOE-A-1992-9029.
 
-> Se modifica por la Orden de 16 de julio de 1991. Ref. BOE-A-1991-19294.
+> Se modifica por la Orden de 16 de julio de 1991.Ref. BOE-A-1991-19294.
 
 > Se modifica por la Orden de 24 de noviembre de 1989. Ref. BOE-A-1989-29544.
 
