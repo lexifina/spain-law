@@ -1,0 +1,1 @@
+Se deja sin efecto esta Ley en cuanto se refiere a la creación y reglamentación del funcionamiento de la reserva nacional de caza de las Tablas de Daimiel, según establece la disposición final 3 de la Ley 25/1980, de 3 de mayo. Ref. BOE-A-1980-9323#tercera.

@@ -226,17 +226,9 @@ Oeste.–Límite Oeste del monte El Sotillo, enlazando con los límites de los r
 
 Especies.–Ciervo y corzo.
 
-## Reserva Nacional de Las Tablas de Daimiel.–Está ubicada en terrenos de la provincia de Ciudad Real, términos municipales de Daimiel y Villarrubia de los Ojos y queda delimitada por la sucesión de linderos que se relaciona a continuación:
+## Reserva Nacional de Las Tablas de Daimiel.–
 
-Norte.–Camino de Fuente el Fresno a Daimiel, desde su empalme con el camino de Ciudad Real a Villarrubia de los Ojos, hasta su otro empalme con el camino de La Lagunilla.
-
-Este.–Camino de La Lagunilla, desde su empalme con el camino de Fuente el Fresno a Daimiel hasta Molino Molemocho.
-
-Sur.–Camino desde Molino Molemocho hasta Puente Navarro, carretera de Daimiel a Malagón, desde Puente Navarro hasta su kilómetro 16.
-
-Oeste.–Camino de Ciudad Real a Villarrubia de los Ojos, desde su empalme con la carretera de Daimiel a Malagón hasta su otro empalme con el camino de Fuente el Fresno a Daimiel.
-
-Especies.–Aves acuáticas.
+(Sin efecto)
 
 ## Reserva Nacional de Sierra Nevada.–Está ubicada en terrenos de la provincia de Granada, términos municipales de Monachil, Cañar-Soportujar, Dilar, Guejar-Sierra, Trevélez. Capileira, Bublón, Pampaneira, Lanjarón y Dúrcal y queda delimitada por la sucesión de linderos que se relaciona a continuación:
 
@@ -253,3 +245,5 @@ A la altura del nacimiento del barranco de los Helechares se encuentra, al otro 
 Oeste.–Por este límite y pasando por el Morrón de la Mulata, Peña Caballero (2.190 metros) y Los Pelaos, llega al pico El Caballo (3.015 metros), punto de unión de los términos de Lanjarón, Miguelas y Dúrcal; desde el pico anterior y por la línea de separación de Dúrcal y Niguelas llega al barranco de El Caballo, en Dúrcal; desciende por él hasta el río Dúrcal, en su margen izquierda; continúa aguas abajo hasta que es atravesado el río por el camino del Espinar; sigue este camino, a la derecha del Dúrcal, hasta que corta el límite, con el municipio de Dilar; continúa por este límite hasta el nacimiento del Barranco Cueva de Sauco; por él, en el municipio de Dilar, hasta su confluencia con el río Dilar, por su izquierda; avanza aguas arriba del Dilar hasta que en él confluye, por la derecha, el barranco del Búho, por el cual se asciende hasta llegar al límite de términos con Monachil; sigue esta línea hasta el punto en que se unen los municipios de Dilar, Monachil y La Zubia, en el lugar conocido como Era de los Suspiros; muy próximo a este mojón pasa una línea de tendido eléctrico, la cual sigue el lindero del Coto hasta que pasa por el barranco Seco, en el monte Cerro de Huenes; desciende por dicho barranco hasta que desemboca en la margen izquierda del río Monachil, llegando así al punto de partida.
 
 Especies.–Cabra montés.
+
+> Se deja sin efecto lo referente a la creación y reglamentación del funcionamiento de la Reserva Nacional de Caza de las Tablas de Daimiel, por la disposición final 3 de la Ley 25/1980, de 3 de mayo. Ref. BOE-A-1980-9323.
