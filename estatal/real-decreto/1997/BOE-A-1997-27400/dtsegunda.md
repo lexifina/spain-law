@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Disponibilidad de la reserva nacional en los años 1998 y 1999.
+
+En aplicación de lo dispuesto en el apartado 4 del artículo 33 del Reglamento (CEE) 3886/92, y no obstante lo establecido en el párrafo a) del artículo 11 del presente Real Decreto, los derechos reembolsados a la reserva nacional de derechos a prima a los productores que mantengan vacas nodrizas, como consecuencia de su infrautilización en los años 1997 y 1998 de acuerdo con las condiciones previstas en la disposición transitoria primera, no podrán ser distribuidos entre los productores que soliciten derechos de la reserva nacional con cargo a los años 1998 y 1999.

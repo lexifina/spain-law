@@ -1,0 +1,21 @@
+El Reglamento (CEE) 3013/89, del Consejo, de 25 de septiembre, por el que se establece la Organización Común de Mercados en el sector de las carnes de ovino y caprino, y el Reglamento (CEE) 805/68, del Consejo, de 27 de junio, por el que se establece la Organización Común de Mercados en el sector de la carne de bovino, establecieron a partir de 1993 la fijación de límites máximos por productor de derechos a primas, para los productores de ovino y caprino y para los productores que mantengan vacas nodrizas, respectivamente.
+
+Por otro lado, el Reglamento (CEE) 3567/92, de la Comisión, de 10 de diciembre, establece las disposiciones de aplicación relativas a los límites individuales, reserva nacional y transferencias de derechos previstos en el Reglamento (CEE) 3013/89, antes citado, y el Reglamento (CEE) 3886/92, de la Comisión, de 23 de diciembre, establece las disposiciones de aplicación de los regímenes de prima en el sector de la carne de vacuno.
+
+Para la aplicación de estas disposiciones en España, se publicó el Real Decreto 1394/1995, de 4 de agosto, modificado por el Real Decreto 1212/1997, de 18 de julio, que determinaba las normas para la realización de las transferencias y cesiones de derechos entre productores, así como los criterios para la asignación de los derechos procedentes de las reservas nacionales, con cargo a las campañas de primas vacunas, ovinas y caprinas de 1996 y siguientes.
+
+No obstante, en este período de tiempo han tenido lugar importantes novedades legislativas, tanto en lo que se refiere a la normativa comunitaria en la materia, como en la Legislación española, en particular, el desarrollo de la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias, y la publicación del Real Decreto 204/1996, de 9 de febrero, sobre mejoras estructurales y modernización de las explotaciones agrarias, modificado por el Real Decreto 1153/1997, de 11 de julio, así como la Orden de 13 de diciembre de 1995, por la que se desarrollan determinados apartados de la citada Ley 19/1995.
+
+El artículo 7 de la Ley mencionada dispone que los titulares de las explotaciones prioritarias definidas en la misma tendrán un trato preferente en la asignación de las cuotas o derechos integrados en las reservas nacionales constituidas en aplicación o desarrollo de la normativa reguladora de las correspondientes Organizaciones Comunes de Mercado. Por ello, y puesto que tal es el caso de las reservas nacionales de derechos a prima a los productores de ovino y caprino y a los que mantengan vacas nodrizas, se hace necesaria la modificación de los requisitos y situaciones prioritarias contemplados, hasta ahora, para el acceso a las citadas reservas.
+
+Por otra parte, se han producido recientes modificaciones en la Organización Común de Mercados del sector de la carne de vacuno, regulada por el Reglamento (CEE) 805/68, tendentes a la consecución de un reequilibrio entre la oferta y la demanda en este sector, que han afectado, entre otros aspectos, a los referentes a los derechos a prima a los productores que mantengan vacas nodrizas, modificaciones que parece conveniente introducir en la normativa española en la materia, con el fin de que alcancen la mayor difusión entre los interesados, sin perjuicio de la aplicabilidad directa e inmediata de la reglamentación comunitaria.
+
+Finalmente, ante la necesidad de modificar la normativa y en aras de una mayor claridad y simplicidad, se ha estimado preferible la derogación del Real Decreto 1394/1995, y la publicación de la presente disposición, que será de aplicación a partir del 1 de enero de 1998, con las excepciones contempladas en las disposiciones transitorias, que son de aplicación ya en la campaña 1997, puesto que así lo dispone la reglamentación comunitaria.
+
+El presente Real Decreto se dicta de acuerdo con la competencia atribuida al Estado, en materia de bases y coordinación de la planificación general de la economía, por el artículo 149.1.13.ª de la Constitución.
+
+En el proceso de elaboración de esta norma han sido consultadas las Comunidades Autónomas y los sectores afectados.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 5 de diciembre de 1997,
+
+DISPONGO:
