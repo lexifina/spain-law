@@ -1,0 +1,15 @@
+## Disposición transitoria segunda. Ampliación del objeto social.
+
+1. La transformación no requerirá autorización administrativa cuando no suponga una ampliación del objeto social del nuevo establecimiento financiero de crédito en relación con el que tenía como entidad de crédito de ámbito operativo limitado.
+
+Se entenderá que no supone ampliación del objeto social cuando las entidades de financiación que se transformen en establecimiento financiero de crédito adopten como actividad principal las previstas en los párrafos a), b), d) y e) del artículo 1 de este Real Decreto; cuando las sociedades de arrendamiento financiero adopten como actividad principal lo previsto en el párrafo c) de dicho artículo; y cuando las entidades de «factoring» adopten como actividad principal lo previsto en el párrafo b). En estos casos, la entidad se inscribirá en el Registro Especial del Banco de España una vez haya inscrito el cambio de estatutos en el Registro Mercantil.
+
+2. Cuando se dé el supuesto de transformación previsto en el apartado anterior y el establecimiento financiero de crédito resultante disponga de unos recursos propios inferiores a 850 millones de pesetas, una vez ajustadas con la deducción prevista en el apartado 2 del artículo 5 del presente Real Decreto, deberá, en tanto esté en esa situación, cumplir con las siguientes normas:
+
+a) No podrá reducir su capital social, y sus recursos propios ajustados no podrán descender del mayor nivel que hayan alcanzado a partir de la fecha de su transformación salvo que, como consecuencia de una operación de saneamiento que tenga por objeto reconstituir su solvencia, el Banco de España lo autorice transitoriamente.
+
+b) Deberán elevar sus recursos propios ajustados hasta 850 millones de pesetas, cuando se produzcan cambios en su accionariado que impliquen la existencia de nuevos accionistas dominantes o grupos de control, en el sentido del artículo 4 de la Ley del Mercado de Valores.
+
+c) Cuando se produzca una fusión entre dos o más establecimientos cuyos recursos propios ajustados no alcancen las cifras de capital social mínimo previstas, los recursos propios básicos de la entidad resultante deberán alcanzar, salvo autorización expresa de la autoridad que deba resolver sobre la fusión, el capital mínimo exigido para las entidades de nueva creación, en el momento en que la fusión se inscriba en el Registro Mercantil.
+
+3. Cuando la transformación suponga una ampliación del objeto social requerirá autorización administrativa, que no podrá concederse si la entidad no dispone de los recursos propios mínimos exigidos para la creación de establecimientos financieros de crédito y que se ajustará al procedimiento previsto en el artículo 8 de este Real Decreto para la reforma de los estatutos. Una vez autorizado e inscrito el oportuno cambio de estatutos en el Registro Mercantil se registrará el establecimiento financiero de crédito en el Banco de España. Esta regla también será de aplicación cuando la transformación sea simultánea a la fusión de varias entidades de crédito de ámbito operativo limitado que pertenezcan a categorías diferentes.
