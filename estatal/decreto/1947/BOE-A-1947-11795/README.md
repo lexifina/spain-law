@@ -522,5 +522,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [APÉNDICE NÚMERO 4](apendicenumero4.md)
 - [APÉNDICE NÚMERO 5](apendicenumero5.md)
 - [APÉNDICE NÚMERO 6](apendicenumero6.md)
+- [APÉNDICE NÚMERO 7](apendicenumero7.md)
 - [ANEJO ÚNICO](anejounico.md)
 - [(INFORMACIÓN RELACIONADA)](informacionrelacionada.md)
