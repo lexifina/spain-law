@@ -1,0 +1,17 @@
+La Directiva 98/5/CE del Parlamento Europeo y del Consejo, de 16 de febrero, destinada a facilitar el ejercicio permanente de la profesión de abogado en un Estado miembro distinto de aquel en el que se haya obtenido el título, regula, de forma específica para los abogados, un nuevo sistema de libre establecimiento de profesionales en el ámbito de la Unión Europea, que persigue suprimir obstáculos a la libre circulación de personas y servicios entre los Estados miembros, por tratarse de uno de los objetivos básicos de la Comunidad en cuanto a la efectiva implantación de un mercado interior.
+
+El aspecto más destacado de dicho sistema radica en que se permite el ejercicio profesional permanente en el Estado de acogida con la mera posesión del título profesional de abogado obtenido en cualquier otro Estado miembro, si bien con una serie de limitaciones en cuanto al ámbito de actividad que puede desarrollar el abogado. Estas limitaciones desaparecen, y se produce la plena equiparación al abogado del Estado miembro de acogida, cuando los profesionales que ejerzan con su título de origen justifiquen una actividad efectiva y regular de una duración mínima de tres años en el Estado miembro de acogida en el ámbito del Derecho de este Estado, incluido el Derecho comunitario; justificación que está sujeta a una serie de condiciones y modalidades.
+
+Por otro lado, la Directiva objeto de transposición prevé su coexistencia tanto con la Directiva 77/249/CEE del Consejo, de 22 de marzo, dirigida a facilitar el ejercicio efectivo de la libre prestación de servicios por los abogados, como con la Directiva 89/48/CEE del Consejo, de 21 de diciembre de 1988, relativa a un sistema general de reconocimiento de los títulos de enseñanza superior que sancionan formaciones profesionales de una duración mínima de tres años, transpuesta a nuestro ordenamiento mediante el Real Decreto 1665/1991, de 25 de octubre, desarrollado para la profesión de abogado por Orden del Ministerio de la Presidencia de 30 de abril de 1996. Ello supone que los abogados que ejerzan con su título profesional de origen en un Estado miembro de acogida podrán, en cualquier momento, solicitar el reconocimiento de su título, con objeto de acceder a la profesión de abogado en el Estado miembro de acogida amparándose en el sistema establecido por esta normativa.
+
+Por lo demás, en aplicación de lo dispuesto en el Acuerdo sobre el Espacio Económico Europeo, suscrito en Oporto el 2 de mayo de 1992, y ratificado por España el 26 de noviembre de 1993, resulta necesario extender el ámbito de aplicación de la norma a los distintos Estados signatarios del mismo.
+
+En consecuencia, mediante este Real Decreto se aprueban las normas que permiten hacer efectivo en España lo previsto en la citada Directiva 98/5/CE, con inclusión de las necesarias disposiciones relativas a los abogados con título español que se acojan a la misma en otros países.
+
+El presente Real Decreto se dicta al amparo de lo dispuesto en el artículo 149.1.30.ª de la Constitución Española, y ha sido informado por el Consejo General de la Abogacía Española y por el Consejo General del Poder Judicial.
+
+En su virtud, a propuesta del Ministro de Justicia, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 3 de agosto de 2001,
+
+DISPONGO:
+
+> Redactado el párrafo tercero conforme a la corrección de errores publicada en BOE núm. 220, de 13 de septiembre de 2001. Ref. BOE-A-2001-17314.
