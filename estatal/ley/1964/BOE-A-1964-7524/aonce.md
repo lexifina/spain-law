@@ -1,0 +1,3 @@
+## Artículo once.
+
+Las cantidades necesarias para la ejecución de lo dispuesto en la presente Ley serán abonadas con cargo al crédito que figura en los Presupuestos Generales del Estado. Sección dieciséis, capítulo cien, artículo ciento veinte, bajo el concepto trescientos ocho/ciento veintidós, subconcepto tercero, «Pensiones», a cuyo efecto se suplementa su dotación actual con la cantidad de quinientas mil pesetas, produciéndose baja por igual cuantía en el crédito del concepto trescientos ocho/ciento veintidós, subconcepto primero, partida tercera, «Remuneración por servicios especiales, etc.», de la misma Sección, capítulo y artículo.
