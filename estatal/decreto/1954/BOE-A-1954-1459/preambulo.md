@@ -1,0 +1,13 @@
+Al amparo de la Ley de siete de diciembre de mil novecientos dieciséis, que estableció las condiciones para la declaración de Parques Nacionales, se crearon el de la Montaña de Covadonga o de Peña Santa, en los Picos de Europa asturiano-leonés, y el del Valle de Ordesa o del río Ara en el Pirineo del Alto Aragón; lugares ambos verdaderamente notables por sus condiciones naturales y dotados de excepcionales características agrestes y forestales que componen unos paisajes de inusitada belleza.
+
+El uso mareadamente restrictivo que se ha dado a la facultad de formular tales declaraciones responde al espíritu de la citada Ley, toda vez que conforme a él debe reservarse tan señalada distinción a aquellos parajes del territorio nacional que, como los de Covadonga y Ordesa, reúnan notorias características de acusada belleza o posean fauna, flora, geología o hidrología muy peculiares.
+
+Ahora bien, aun manteniendo el obligado criterio de limitar la declaración de parques nacionales a casos de verdadera excepción, se presenta como plenamente merecedor de ese singular trato el del sugestivo Teide, en el que se dibuja el enorme cráter, de casi verticales paredes, y que con su famoso pico, de tres mil setecientos siete metros, marca la máxima altura de las cumbres españolas, dominando el gran «Circo de las Cañadas», que se extiende por encima de los dos mil metros, con sus pendientes laderas, surcadas de profundos barrancos, integrando todo ello un paisaje de impresionante belleza, que, en unión de las significadas particularidades geológicas de tan admirable roquedo y la peculiaridad de la flora que sustenta, son causa bastante para que pueda hermanarse dignamente el del Teide con los dos Parques Nacionales existentes, constituyendo el tercero de los lugares que han merecido esta preemiencia en España.
+
+El hecho de estar situados los terrenos que ha de abarcar el parque en término municipal de La Orotava, a cuya villa pertenecen, y la circunstancia de estar dichos terrenos consorciados para su reconstitución forestal con el Patrimonio Forestal del Estado, permite y aconseja que por este Organismo se orienten todos los planes necesarios, teniendo en cuenta las características y finalidades derivadas de la declaración del nuevo Parque.
+
+Una Junta residente en Santa Cruz de Tenerife, presidida por el Gobernador civil de la provincia, en relación y dependencia del Director general de Montes, Comisario general de Parques Nacionales, cooperará al fomento y propaganda de los fines del Parque.
+
+En su virtud, a propuesta del Ministro de Agricultura y previa deliberación del Consejo de Ministros,
+
+DISPONGO:
