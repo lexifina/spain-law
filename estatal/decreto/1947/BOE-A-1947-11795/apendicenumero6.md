@@ -56,7 +56,7 @@ La autoridad u Organismo correspondiente suscribirán el certificado de origen d
 
 —Clase específica de las mismas.
 
-Asimismo se indicará la vía de transporte.
+(Párrafo suprimido)
 
 2.1.1.3.2. Los certificados de origen se expedirán a la orden o a nombre de una persona determinada y, en uno u otro caso, podrán ser endosados con cumplimiento de la condición de que el endosatario firme en el certificado la aceptación con la indicación de la fecha, que deberá ser anterior a la de solicitud del despacho ante la Aduana.
 
@@ -189,5 +189,7 @@ Con independencia de la documentación, que con arreglo a las presentes Ordenanz
 ## V. LA JUSTIFICACIÓN DEL ORIGEN O DE LA PROCEDENCIA
 
 El origen o la procedencia deberán ser justificados con arreglo a lo dispuesto en el presente Apéndice o cualesquiera efectos tributarios o no previstos en la legislación nacional en materia de Aduanas.
+
+> Se suprime el último párrafo del apartado 2.1.1.3.1 por el apartado 3 de la Orden de 24 de diciembre de 1974. Ref. BOE-A-1975-1017., y en cuanto a la ampliación de la relación del apartado 2.1.1.1 véase el apartado 2 de esta misma Orden.
 
 > Se añade por el apartado 1 de la Orden de 19 de julio de 1967. Ref. BOE-A-1967-11476.
