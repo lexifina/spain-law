@@ -22,7 +22,7 @@ h) Desempleados admitidos en el programa que contempla la ayuda específica deno
 
 i) Mujeres desempleadas inscritas en la oficina de empleo que sean contratadas en los veinticuatro meses siguientes a la fecha del parto.
 
-1.2 Los trabajadores incluidos en el campo de aplicación del Régimen especial de la Seguridad Social para trabajadores autónomos, dados de alta en el mismo al menos desde el 1 de enero de 2001, que no hayan tenido asalariados a su cargo para el desempeño de su actividad profesional en los doce meses anteriores a la contratación y contraten indefinidamente a su primer trabajador, incluida la contratación de trabajadores fijos discontinuos, cuando éste pertenezca a alguno de los colectivos definidos en el apartado anterior.
+1.2 Los trabajadores incluidos en el campo de aplicación del Régimen especial de la Seguridad Social de Trabajadores Autónomos, dados de alta en el mismo al menos desde el 1 de enero de 2001, que contraten indefinidamente, incluida la contratación de trabajadores fijos discontinuos, a trabajadores desempleados inscritos en la oficina de empleo, incluidos en alguno de los colectivos del apartado anterior.
 
 1.3 Las empresas y las entidades sin ánimo de lucro que contraten, indefinidamente, incluida la contratación de trabajadores fijos discontinuos, o temporalmente, trabajadores desempleados en situación de exclusión social, podrán acogerse a las bonificaciones previstas en esta norma en los términos que en la misma se indican. La situación de exclusión social se acreditará por los servicios sociales competentes y queda determinada por la pertenencia a alguno de los siguientes colectivos:
 
@@ -40,9 +40,13 @@ d) Personas con problemas de drogadicción o alcoholismo que se encuentren en pr
 
 e) Internos de centros penitenciarios cuya situación penitenciaria les permita acceder a un empleo, así como liberados condicionales y ex reclusos.
 
+1.4 Las cooperativas o sociedades laborales a las que se incorporen desempleados incluidos en alguno de los colectivos establecidos en los apartados 1 y 3 de este primer número, como socios trabajadores o de trabajo, con carácter indefinido y siempre que la entidad haya optado por un régimen de Seguridad Social propio de trabajadores por cuenta ajena.
+
 2. Igualmente se incentivará, en los términos previstos en esta norma, la transformación en indefinidos, incluida la modalidad de fijo discontinuo, de los contratos de duración determinada o temporales celebrados con anterioridad a 1 de enero de 2002. Además, se incentivará la transformación en indefinidos de los contratos formativos, de relevo, y de sustitución por anticipación de la edad de jubilación, cualquiera que sea la fecha de su celebración.
 
 3. Asimismo, los contratos de trabajo de carácter indefinido, suscritos con trabajadores de sesenta o más años y con una antigüedad en la empresa de cinco o más años darán derecho a bonificación en los términos previstos en este capítulo.
+
+> Se modifican los apartados 1.1.i) y 1.2 y se añade el 1.4 por las disposiciones adicionales 5.2 y 8.1 de la Ley 45/2002, de 12 de diciembre. Ref. BOE-A-2002-24244.
 
 > Se añade el apartado 3 por el art. 14.1 de la Ley 35/2002, de 12 de julio. Ref. BOE-A-2002-13972.
 

@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Protección por desempleo de trabajadores fijos de carácter discontinuo.
+
+La protección por desempleo de los trabajadores fijos de carácter discontinuo derivada de lo dispuesto en el artículo 208.1.4 del texto refundido de la Ley General de la Seguridad Social será de aplicación tanto a los trabajadores con contratos de fijo discontinuo concertados antes del 4 de marzo de 2001 de conformidad con el artículo 12.3.a) del Estatuto de los Trabajadores en su redacción anterior al Real Decreto-ley 5/2001, de 2 de marzo, de medidas urgentes de reforma del mercado de trabajo para el incremento del empleo y la mejora de su calidad, como a los trabajadores con contratos de fijos discontinuos concertados con posterioridad a dicha fecha.

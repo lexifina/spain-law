@@ -1,0 +1,3 @@
+## Disposición adicional novena. Bonificación de cuotas a la Seguridad Social para contratos de interinidad con los que se sustituyan bajas por incapacidad temporal de discapacitados.
+
+Los contratos de interinidad que se celebren con personas minusválidas desempleadas, para sustituir a trabajadores y trabajadoras minusválidos que tengan suspendido su contrato de trabajo por incapacidad temporal durante el período que persista dicha situación, darán derecho a una bonificación del 100 por 100 de las cuotas empresariales de la Seguridad Social, incluidas las de accidentes de trabajo y enfermedades profesionales y en las aportaciones empresariales de las cuotas de recaudación conjunta.

@@ -14,11 +14,11 @@ e) Contrataciones de desempleados mayores de cincuenta y cinco y hasta los sesen
 
 f) Contratación de perceptores de prestaciones o subsidios por desempleo, a los que les reste un año o más de percepción en el momento de la contratación:
 
-50 por 100 durante el primer año de vigencia del contrato ; 45 por 100 durante el segundo año de vigencia del mismo.
+50 por 100 durante el primer año de vigencia del contrato; 45 por 100 durante el segundo año de vigencia del mismo.
 
-g) Contrataciones de desempleados perceptores del subsidio por desempleo en favor de los trabajadores incluidos en el Régimen especial agrario de la Seguridad Social: 90 por 100 durante el primer año de vigencia del contrato ; 85 por 100 durante el segundo año de vigencia del mismo.
+g) Contrataciones de desempleados perceptores del subsidio por desempleo en favor de los trabajadores incluidos en el Régimen especial agrario de la Seguridad Social: 90 por 100 durante el primer año de vigencia del contrato; 85 por 100 durante el segundo año de vigencia del mismo.
 
-h) Contratación de desempleados admitidos en el programa que contempla la ayuda específica denominada renta activa de inserción: 65 por 100 durante los veinticuatro meses siguientes al inicio de la vigencia del contrato ; 45 por 100 durante el resto de vigencia del mismo en el caso de trabajadores mayores de cuarenta y cinco años y hasta los cincuenta y cinco ; o 50 por 100 durante el resto de vigencia del mismo en el caso de trabajadores mayores de cincuenta y cinco años y hasta los sesenta y cinco.
+h) Contratación de desempleados admitidos en el programa que contempla la ayuda específica denominada renta activa de inserción: 65 por 100 durante los veinticuatro meses siguientes al inicio de la vigencia del contrato; 45 por 100 durante el resto de vigencia del mismo en el caso de trabajadores mayores de cuarenta y cinco años y hasta los cincuenta y cinco; o 50 por 100 durante el resto de vigencia del mismo en el caso de trabajadores mayores de cincuenta y cinco años y hasta los sesenta y cinco.
 
 i) Contratación de mujeres desempleadas inscritas en la oficina de empleo que sean contratadas en los veinticuatro meses siguientes a la fecha de parto: 100 por 100 durante los doce meses siguientes al inicio de la vigencia del contrato.
 
@@ -37,6 +37,10 @@ Darán derecho a la misma bonificación las transformaciones de contratos de pr�
 7. Los contratos de trabajo de carácter indefinido, suscritos con trabajadores de sesenta o más años y con una antigüedad en la empresa de cinco o más años, darán derecho a una bonificación del 50 por 100 de la aportación empresarial en la cotización a la Seguridad Social por contingencias comunes, salvo por incapacidad temporal derivada de las mismas, sobre las cuotas devengadas a partir del 1 de enero del año 2002, incrementándose dicha bonificación en un 10 por 100 en cada ejercicio hasta alcanzar un máximo del 100 por 100.
 
 Si al cumplir sesenta años de edad el trabajador no tuviere una antigüedad en la empresa de cinco años, la bonificación a que se refiere el párrafo anterior será aplicable a partir de la fecha en que alcance la citada antigüedad.
+
+8. La incorporación a las cooperativas o sociedades laborales como socios trabajadores o de trabajo, con carácter indefinido y encuadrados en un régimen por cuenta ajena de Seguridad Social que se produzca hasta el 31 de diciembre de 2002, dará derecho a partir de la fecha de la incorporación a las bonificaciones de la cuota empresarial a la Seguridad Social por contingencias comunes establecidas en los apartados 1, 3, 4 y 5 de este artículo, según el colectivo al que pertenezca el desempleado incorporado.
+
+> Se modifican los apartados 1.h) e i) y se añade el 8 por la disposición adicional 5.3 y 8.3 de la Ley 45/2002, de 12 de diciembre. Ref. BOE-A-2002-24244.
 
 > Se añade el apartado 7 por el art. 14.2 de la Ley 35/2002, de 12 de julio. Ref. BOE-A-2002-13972.
 

@@ -20,6 +20,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [DISPOSICIONES ADICIONALES](da.md)
 - [Primera](primera.md)
 - [Segunda](segunda.md)
+- [Tercera](tercera.md)
 - [DISPOSICIÓN FINAL](df.md)
 - [firma](firma.md)
 - [(Información relacionada)](informacionrelacionada.md)
