@@ -1,3 +1,5 @@
 ## Artículo 6.
 
-Cuando se compruebe por el Órgano Territorial competente de la Administración Pública que la utilización de un tipo homologado resulta manifiestamente peligrosa, podrá ordenar cautelarmente la puesta fuera de servicio del o de los aparatos en que se haya puesto de manifiesto la situación peligrosa e iniciar seguidamente expediente de cancelación de su homologación, elevando la correspondiente propuesta al Centro Directivo competente del Ministerio de Industria y Energía, el cual podrá cancelar la homologación de que se trate. Se seguirán para ello las normas previstas en la Ley de Procedimiento Administrativo.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1314/1997, de 1 de agosto. Ref. BOE-A-1997-20731.
