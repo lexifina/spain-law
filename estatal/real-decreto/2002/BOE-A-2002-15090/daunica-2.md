@@ -1,0 +1,3 @@
+## Disposición adicional única. Coordinación y supervisión de los expedientes de concesión de la Cruz a la Constancia en el Servicio.
+
+De acuerdo con lo dispuesto en el artículo 14 del Real Decreto 1883/1996, de 2 de agosto, de estructura básica del Ministerio de Defensa, modificado por Real Decreto 76/2000, de 21 de enero, la Dirección General de Personal del Ministerio de Defensa es el órgano directivo encargado de la supervisión de los expedientes de concesión de esta recompensa, así como de la coordinación de los requisitos y criterios necesarios para que su concesión sea uniforme, con independencia del Ejército o Cuerpo al que pertenezcan los solicitantes.
