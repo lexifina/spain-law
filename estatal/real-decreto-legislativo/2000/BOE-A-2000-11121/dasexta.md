@@ -1,0 +1,7 @@
+## Disposición adicional sexta. Suministro de información.
+
+1. Por los organismos competentes dependientes del Ministerio de Hacienda o, en su caso, de las Comunidades Autónomas o de las Diputaciones Forales se facilitarán, dentro de cada ejercicio anual, al Instituto Social de las Fuerzas Armadas y a petición del mismo y de conformidad con lo establecido en el artículo 113 de la Ley General Tributaria, los datos relativos a los niveles de renta y demás ingresos de los titulares de prestaciones, en cuanto determinen el derecho a las mismas, así como de los beneficiarios, cónyuges y otros miembros de las unidades familiares, siempre que deban tenerse en cuenta para el reconocimiento, mantenimiento o cuantía de dichas prestaciones, a fin de verificar si aquéllos cumplen en todo momento las condiciones necesarias para la percepción de las prestaciones y en la cuantía legalmente establecida.
+
+2. Por los Registros Civiles, dependientes de la Dirección General de los Registros y del Notariado del Ministerio de Justicia, en colaboración con los correspondientes del Ministerio de Hacienda, se facilitarán al Instituto Social de las Fuerzas Armadas y dentro del plazo de tres meses contados a partir de la fecha en que aparecan los hechos respectivos, los datos personales informatizados de todas las defunciones, así como de los matrimonios de las personas viudas.
+
+3. Los datos que se faciliten deberán identificar, en todo caso, nombre y apellidos, documento nacional de identidad y domicilio.

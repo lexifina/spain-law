@@ -21,3 +21,7 @@ No obstante lo anterior, la ayuda familiar por cónyuge a cargo reconocida para 
 Seis. El Gobierno, a propuesta conjunta de los Ministros de Economía y Hacienda y para las Administraciones Públicas, podrá revisar los tipos de cotización de los funcionarios y de aportación del Estado a aplicar sobre la correspondiente base de cotización, en función de las necesidades de financiación de las respectivas mutualidades.
 
 En tanto que, en su caso, se promulgue la correspondiente norma que establezca los citados tipos, se aplicarán los vigentes en 1991.
+
+> Atención: esta disposición queda derogada en lo referente al Régimen Especial de Seguridad Social de las Fuerzas Armadas.
+
+> Se deroga en lo referente al Régimen Especial de Seguridad Social de las Fuerzas Armadas por la disposición derogatoria 1.f) del Real Decreto Legislativo 1/2000, de 9 de junio. Ref. BOE-A-2000-11121#ddunica.

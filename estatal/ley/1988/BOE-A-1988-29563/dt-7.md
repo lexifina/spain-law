@@ -1,3 +1,5 @@
 ## Disposición transitoria séptima. Régimen Especial de Seguridad Social de las Fuerzas Armadas.
 
-El personal a que se refiere el apartado b) del número uno de la disposición adicional primera de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986, que el 1 de febrero de 1986 esté desempeñando un puesto de trabajo en la Administración Militar o en sus Organismos Autónomos, continuará incluido en el campo de aplicación del Régimen Especial de Seguridad Social de las Fuerzas Armadas, hasta la fecha en que se obtenga destino definitivo en puesto de trabajo no perteneciente a dicha Administración Militar o sus Organismos Autónomos.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1.E).b) del Real Decreto Legislativo 1/2000, de 9 de junio. Ref. BOE-A-2000-11121#ddunica
