@@ -12,3 +12,11 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 - [pae_dispositiva](pae_dispositiva.md)
 - [firma](firma.md)
+- [ANEXO](an.md)
+- [preambulo](preambulo.md)
+- [Primero](primero.md)
+- [Segundo](segundo.md)
+- [Tercero](tercero.md)
+- [Cuarto](cuao.md)
+- [Quinto](quinto.md)
+- [ANEXO. Tabla de códigos ministeriales](an-2.md)
