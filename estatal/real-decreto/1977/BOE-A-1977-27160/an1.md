@@ -41,6 +41,10 @@
 | 10 Pipradrol. |  | 1,1-fifenil-1-(2-peperidi) metanol. |
 | 11 | SPA. | (-)-1-dimetiIamino-1,2-difeniletano. |
 
+> Véase el apartado 1 de la Orden SCO/3685/2003, de 22 de diciembre Ref. BOE-A-2004-52, en relación a la inclusión de sustancias en la lista II.
+
+> Téngase en cuenta para su aplicación el apartado 2.
+
 > Véase el apartado 1 de la Orden SCO/1906/2002, de 15 de julio Ref. BOE-A-2002-15093, en relación a la inclusión de sustancias en la lista I.
 
 > Téngase en cuenta para su aplicación los apartados 2 y 3.
@@ -57,7 +61,7 @@
 
 > Téngase en cuenta para su aplicación los apartados 5 y 6.
 
-> Véase el apartado 1 de la Orden de 27 de febrero de 1992 Ref. BOE-A-1992-6246, en relación a la exclusión de sustancias de la lista I, y el apartado 1 de la Orden de 27 de febrero de 1992 Ref. BOE-A-1992-6247 en relación con la transferencia de determinadas sustancias de la lista I a la lista II.
+> Véase el apartado 1 de la Orden de 27 de febrero de 1992 Ref. BOE-A-1992-6246, en relación a la exclusión de sustancias de la lista I, y el apartado 1 de la Orden de 27 de febrero de 1992 Ref. BOE-A-1992-6247, en relación con la transferencia de determinadas sustancias de la lista I a la lista II.
 
 > Téngase en cuenta para su aplicación los apartados 2 y 3 de ambas Órdenes.
 
@@ -65,7 +69,7 @@
 
 > Téngase en cuenta para su aplicación los apartados 1.2, 3, 4 y 5.
 
-> Véase el apartado 1 de la Orden de 20 de diciembre de 1988 Ref. BOE-A-1989-543, en relación a la inclusión de sustancias en la lista II, y el art. 1 de la Orden de 28 de septiembre de 1989 Ref. BOE-A-1989-23803 en relación a la inclusión de sustancias en la lista III.
+> Véase el apartado 1 de la Orden de 20 de diciembre de 1988 Ref. BOE-A-1989-543, en relación a la inclusión de sustancias en la lista II, y el art. 1 de la Orden de 28 de septiembre de 1989 Ref. BOE-A-1989-23803, en relación a la inclusión de sustancias en la lista III.
 
 > Téngase en cuenta para su aplicación los apartados 2 a 4 de la Orden de 20 de diciembre y arts. 2 a 4 de la Orden de 28 de septiembre de 1989.
 
