@@ -8,4 +8,6 @@ a) Superación de pruebas de aptitud realizadas en el Instituto de Estudios de A
 
 b) Por concurso de méritos entre funcionarios pertenecientes a la categoría de entrada para el resto de las plazas a proveer, que se resolverá por aplicación del baremo de méritos generales.
 
-3. A quienes superen las pruebas señaladas o les corresponda el acceso según el procedimiento previsto en el apartado b) del número anterior, se les realizará la anotación correspondiente en el Registro a que hace referencia el artículo siguiente.
+3. (Derogado)
+
+> Se deroga el apartado 3 por la disposición derogatoria.b) del Real Decreto 731/1993, de 14 de mayo. Ref. BOE-A-1993-14658.

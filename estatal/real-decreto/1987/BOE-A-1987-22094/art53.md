@@ -8,4 +8,6 @@ a) Los que estuvieren en situación de servicios en Comunidades Autónomas y ces
 
 b) Los que, desempeñando puestos de trabajo en virtud de nombramiento provisional, hubieren cesado con arreglo a lo dispuesto en este Real Decreto.
 
-c) Los que hubieran sido destituidos en virtud de expediente disciplinario siempre y cuando no estuvieren suspensos.
+c) (Derogada)
+
+> Se deroga el apartado 2.c) por la disposición derogatoria.e) del Real Decreto 731/1993, de 14 de mayo. Ref. BOE-A-1993-14658.
