@@ -28,7 +28,7 @@
 
 2. A las Salas de Gobierno de los Tribunales Superiores de Justicia, en Pleno o en Comisión, compete además:
 
-1.º Aprobar las normas de reparto de asuntos entre las Secciones de las Audiencias Provinciales y Juzgados del mismo orden jurisdiccional con sede en la Comunidad Autónoma correspondiente.
+1.º Aprobar las normas de reparto de asuntos entre las Salas del Tribunal y entre las Secciones de las Audiencias Provinciales y Juzgados del mismo orden jurisdiccional, con sede en la Comunidad Autónoma correspondiente.
 
 Excepcionalmente, de forma motivada, y cuando las necesidades del servicio así lo exigieren, la Sala de Gobierno podrá ordenar que se libere del reparto de asuntos, total o parcialmente, por tiempo limitado, a una Sección o a un Juez determinado.
 
@@ -37,6 +37,8 @@ Excepcionalmente, de forma motivada, y cuando las necesidades del servicio así 
 3.º Expedir los nombramientos de los Jueces de Paz.
 
 4.º Seleccionar y nombrar a los Jueces de provisión temporal.
+
+> Se modifica el párrafo primero del apartado 2.1º por el art. único.9 de la Ley Orgánica 6/1998, de 13 de julio. Ref. BOE-A-1998-16712
 
 > Se modifica por los arts. 2.3 y del 4.2 al 4.7 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
 

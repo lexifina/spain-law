@@ -8,8 +8,12 @@ En este orden civil, corresponderá a la jurisdicción militar la prevención de
 
 3. Los del orden jurisdiccional penal tendrán atribuido el conocimiento de las causas y juicios criminales, con excepción de los que correspondan a la jurisdicción militar.
 
-4. Los del orden contencioso-administrativo conocerán de las pretensiones que se deduzcan en relación con los actos de la Administración Pública sujetos al Derecho administrativo y con las disposiciones reglamentarias.
+4. Los del orden contencioso-administrativo conocerán de las pretensiones que se deduzcan en relación con la actuación de las Administraciones públicas sujeta al Derecho Administrativo, con las disposiciones generales de rango inferior a la Ley y con los Decretos legislativos en los términos previstos en el artículo 82.6 de la Constitución, de conformidad con lo que establezca la Ley de esa jurisdicción. También conocerán de los recursos contra la inactividad de la Administración y contra sus actuaciones materiales que constituyan vía de hecho.
+
+Conocerán, asimismo, de las pretensiones que se deduzcan en relación con la responsabilidad patrimonial de las Administraciones públicas y del personal a su servicio, cualquiera que sea la naturaleza de la actividad o el tipo de relación de que se derive. Si a la producción del daño hubieran concurrido sujetos privados, el demandante deducirá también frente a ellos su pretensión ante este orden jurisdiccional.
 
 5. Los del orden jurisdiccional social conocerán de las pretensiones que se promuevan dentro de la rama social del derecho, tanto en conflictos individuales como colectivos, así como las reclamaciones en materia de Seguridad Social o contra el Estado cuando le atribuya responsabilidad la legislación laboral.
 
 6. La jurisdicción es improrrogable. Los órganos judiciales apreciarán de oficio la falta de jurisdicción y resolverán sobre la misma con audiencia de las partes y del Ministerio Fiscal. En todo caso, esta resolución será fundada y se efectuará indicando siempre el orden jurisdiccional que se estime competente.
+
+> Se modifica el apartado 4 por el art. único.1 de la Ley Orgánica 6/1998, de 13 de julio. Ref. BOE-A-1998-16712

@@ -14,4 +14,8 @@
 
 2. En las causas a que se refiere el número 4 del apartado anterior se designará de entre los miembros de la Sala, conforme a un turno preestablecido, un instructor que no formará parte de la misma para enjuiciarlos.
 
+3. Una Sección, formada por el Presidente del Tribunal Supremo, el de la Sala de lo Contencioso-administrativo y cinco Magistrados de esta misma Sala, que serán los dos más antiguos y los tres más modernos, conocerá del recurso de casación para la unificación de doctrina cuando la contradicción se produzca entre sentencias dictadas en única instancia por Secciones distintas de dicha Sala.
+
+> Se añade el apartado 3 por el art. único.3 de la Ley Orgánica 6/1998, de 13 de julio. Ref. BOE-A-1998-16712
+
 > Se añade el apartado 2 y se numera el contenido existente como apartado 1 por el art. 1.3 de la Ley Orgánica 7/1988, de 28 de diciembre. Ref. BOE-A-1988-29621

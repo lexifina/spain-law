@@ -1,4 +1,4 @@
-## Artículo ciento sesenta
+## Artículo 160.
 
 Los Presidentes tendrán las siguientes funciones:
 
@@ -18,7 +18,7 @@ Los Presidentes tendrán las siguientes funciones:
 
 8. Dirigir la inspección de los Juzgados y Tribunales en los términos establecidos en esta Ley.
 
-9. Determinar el reparto de asuntos entre las Secciones del Tribunal, de acuerdo con las normas aprobadas por la Sala de Gobierno.
+9. Determinar el reparto de asuntos entre las Salas del Tribunal del mismo orden jurisdiccional y entre las Secciones de éstas de acuerdo con las normas aprobadas por la Sala de Gobierno.
 
 10. Presidir diariamente la reunión de los Presidentes de Salas y Magistrados y cuidar de la composición de las Salas y Secciones conforme al artículo 198 de esta Ley.
 
@@ -29,5 +29,7 @@ Los Presidentes tendrán las siguientes funciones:
 13. Oír las quejas que les hagan los interesados en causas o pleitos, adoptando las prevenciones necesarias.
 
 14. Las demás previstas en la ley.
+
+> Se modifica el apartado 9 por el art. único.10 de la Ley Orgánica 6/1998, de 13 de julio. Ref. BOE-A-1998-16712
 
 > Redactados los puntos 10 y 14 conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

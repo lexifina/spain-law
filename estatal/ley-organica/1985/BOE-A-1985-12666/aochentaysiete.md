@@ -10,7 +10,9 @@ c) De los procedimientos de "hábeas corpus".
 
 d) De los recursos que establezca la ley contra las resoluciones dictadas por los Juzgados de Paz del partido y de las cuestiones de competencia entre éstos.
 
-2. Corresponde también a los Juzgados de Instrucción la autorización en resolución motivada para la entrada en los domicilios y en los restantes edificios o lugares de acceso dependiente del consentimiento de su titular, cuando ello proceda para la ejecución forzosa de los actos de la Administración.
+2. (Suprimido)
+
+> Se suprime el apartado 2 por el art. único.6 de la Ley Orgánica 6/1998, de 13 de julio. Ref. BOE-A-1998-16712
 
 > Se modifica el apartado 1 por el art. 2.2 de la Ley Orgánica 7/1988, de 28 de diciembre. Ref. BOE-A-1988-29621
 

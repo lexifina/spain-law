@@ -1,15 +1,35 @@
-## Artículo setenta y cuatro
+## Artículo 74.
 
-1. La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia conocerá, en única instancia:
+1. Las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia conocerán, en única instancia, de los recursos que se deduzcan en relación con:
 
-a) De los recursos contencioso-administrativos, contra los actos y disposiciones de los órganos de la Administración del Estado que no estén atribuidos o se atribuyan por ley a otros órganos de este orden jurisdiccional.
+a) Los actos de las Entidades locales y de las Administraciones de las Comunidades Autónomas, cuyo conocimiento no esté atribuido a los Juzgados de lo Contencioso-administrativo.
 
-b) De los recursos contencioso-administrativos que se formulen contra los actos y disposiciones administrativas del Consejo de Gobierno de la Comunidad Autónoma, de su Presidente y de los Consejeros, salvo que confirmen en vía administrativa de recurso o en procedimiento de fiscalización o tutela los dictados por órganos o entidades distintos.
+b) Las disposiciones generales emanadas de las Comunidades Autónomas y de las Entidades locales.
 
-c) De los recursos contra disposiciones y actos procedentes de los órganos de Gobierno de la Asamblea legislativa de la Comunidad Autónoma y de sus Comisionados en materia de personal y actos de administración.
+c) Los actos y disposiciones de los órganos de gobierno de las Asambleas legislativas de las Comunidades Autónomas y de las instituciones autonómicas análogas al Tribunal de Cuentas y al Defensor del Pueblo, en materia de personal, administración y gestión patrimonial.
 
-d) Del recurso contencioso-electoral contra los acuerdos de las Juntas electorales sobre proclamación de electos, así como sobre la elección y proclamación de los Presidentes de las Corporaciones Locales.
+d) Los actos y resoluciones dictados por los Tribunales Económico-Administrativos Regionales y Locales que pongan fin a la vía económico-administrativa.
 
-2. En segunda instancia conocerá de los recursos que establezca la ley y que se promuevan contra las resoluciones de los Juzgados de lo Contencioso-Administrativo con sede en la Comunidad Autónoma.
+e) Las resoluciones dictadas en alzada por el Tribunal Económico-Administrativo Central en materia de tributos cedidos.
 
-3. La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia conocerá igualmente de las cuestiones de competencia entre los Juzgados de lo Contencioso-Administrativo con sede en la Comunidad Autónoma.
+f) Los actos y disposiciones de las Juntas Electorales Provinciales y de Comunidades Autónomas, así como los recursos contencioso-electorales contra acuerdos de las Juntas Electorales sobre proclamación de electos y elección y proclamación de Presidentes de Corporaciones locales en los términos de la legislación electoral.
+
+g) Los convenios entre Administraciones públicas cuyas competencias se ejerzan en el ámbito territorial de la correspondiente Comunidad Autónoma.
+
+h) La prohibición o la propuesta de modificación de reuniones previstas en la Ley Orgánica reguladora del Derecho de Reunión.
+
+i) Los actos y resoluciones dictados por órganos de la Administración General del Estado cuya competencia se extienda a todo el territorio nacional y cuyo nivel orgánico sea inferior a Ministro o Secretario de Estado, en materias de personal, propiedades especiales y expropiación forzosa.
+
+j) Cualesquiera otras actuaciones administrativas no atribuidas expresamente a la competencia de otros órganos de este orden jurisdiccional.
+
+2. Conocerán, en segunda instancia, de las apelaciones promovidas contra sentencias y autos dictados por los Juzgados de lo Contencioso-administrativo y de los correspondientes recursos de queja.
+
+3. También les corresponde, con arreglo a lo establecido en esta Ley, el conocimiento de los recursos de revisión contra las sentencias firmes de los Juzgados de lo Contencioso-administrativo.
+
+4. Conocerán de las cuestiones de competencia entre los Juzgados de lo Contencioso-administrativo con sede en la Comunidad Autónoma.
+
+5. Conocerán del recurso de casación para la unificación de doctrina en los casos previstos en la Ley reguladora de la Jurisdicción Contencioso-administrativa.
+
+6. Conocerán del recurso de casación en interés de la Ley en los casos previstos en la Ley reguladora de la Jurisdicción Contencioso-administrativa.
+
+> Se modifica por el art. único.5 de la Ley Orgánica 6/1998, de 13 de julio. Ref. BOE-A-1998-16712

@@ -1,5 +1,7 @@
 ## Artículo sesenta y seis
 
-La Sala de lo Contencioso-Administrativo de la Audiencia Nacional conocerá en única instancia de los recursos contra disposiciones y actos emanados de los Ministros y de los Secretarios de Estado, salvo que confirmen en vía administrativa de recurso o en procedimiento de fiscalización o tutela los dictados por órganos o entidades distintos, cualquiera que sea su ámbito territorial. Asimismo conocerá de los emanados de los Jefes de los Estados Mayores del Ejército de Tierra, de la Armada y del Ejército del Aire, exclusivamente en las materias referidas a ascensos, orden y antigüedad en el escalafón y destinos.
+La Sala de lo Contencioso-administrativo de la Audiencia Nacional conocerá, en única instancia, de los recursos contencioso-administrativos contra disposiciones y actos de los Ministros y Secretarios de Estado que la Ley no atribuya a los Juzgados Centrales de lo Contencioso-administrativo y de los recursos devolutivos que la Ley establezca contra las resoluciones de los Juzgados Centrales de lo Contencioso-administrativo. También conocerá de los recursos no atribuidos a los Tribunales Superiores de Justicia en relación a los convenios entre las Administraciones públicas y a las resoluciones del Tribunal Económico-Administrativo Central. Asimismo, conocerá de las cuestiones de competencia que se puedan plantear entre los Juzgados Centrales de lo Contencioso-administrativo y de aquellos otros recursos que excepcionalmente le atribuya la Ley.
+
+> Se modifica por el art. único.4 de la Ley Orgánica 6/1998, de 13 de julio. Ref. BOE-A-1998-16712
 
 > Se modifica por el art. 13 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
