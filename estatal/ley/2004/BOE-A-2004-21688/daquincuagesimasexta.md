@@ -1,0 +1,3 @@
+## Disposición adicional quincuagésima sexta.
+
+Las memorias explicativas de los programas de gasto de cada ejercicio se extenderán a las inversiones realizadas por el sector público empresarial. Para ello, el Gobierno adjuntará como Anexo las inversiones previstas desagregadas por proyectos, provincias y Comunidades Autónomas, al igual que se hace con el resto de inversiones públicas. Así mismo esta información detallará las inversiones externalizadas o diferidas en el tiempo y los préstamos o aportaciones patrimoniales que el Estado concede a terceros para operaciones de capital o adquisición de activos de capital.

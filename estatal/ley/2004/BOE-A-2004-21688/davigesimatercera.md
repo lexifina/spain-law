@@ -1,0 +1,3 @@
+## Disposición adicional vigésima tercera. Proceso de liquidación del Patronato de Viviendas de la Guardia Civil.
+
+Los recursos obtenidos como consecuencia del proceso de liquidación del Patronato de Viviendas de la Guardia Civil que, de conformidad con lo establecido en el apartado 5 de la disposición final primera del Real Decreto 1885/1996, se ingresen en el Tesoro Público, podrán generar crédito en el Presupuesto del Ministerio del Interior con destino a la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado (GIESE), para financiar la construcción y reforma de Cuarteles de la Guardia Civil y de Comisarías de Policía.

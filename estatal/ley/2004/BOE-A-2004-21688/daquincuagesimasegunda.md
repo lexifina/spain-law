@@ -1,0 +1,3 @@
+## Disposición adicional quincuagésima segunda. Condonación de la deuda contraída con la República de Guinea Ecuatorial.
+
+Se autoriza la condonación de la deuda contraída por la República de Guinea Ecuatorial frente al Banco de España, derivada del caducado Acuerdo Comercial y de Pagos entre España y la República de Guinea Ecuatorial de 15 de junio de 1973, y en cuya posición acreedora se subrogó el Estado español mediante la Disposición adicional decimoctava de la Ley 54/1999, de Presupuestos Generales del Estado para el año 2000. El importe máximo de esta condonación asciende a 9.808.862,40 dólares USA, de los que 7.852.563,94 dólares USA serán incluidos en un Programa de Conversión de deuda en Proyectos de Interés Social en Guinea Ecuatorial.

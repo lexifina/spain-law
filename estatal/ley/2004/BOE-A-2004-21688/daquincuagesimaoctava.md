@@ -1,0 +1,13 @@
+## Disposición adicional quincuagésima octava. Modificación del Real Decreto Legislativo 4/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley del Impuesto sobre Sociedades.
+
+Se modifica el artículo 114 del Real Decreto Legislativo 4/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley del Impuesto sobre Sociedades, que quedará redactado como sigue:
+
+«Artículo 114. Tipo de gravamen.
+
+Las entidades que cumplan las previsiones previstas en el artículo 108 de esta Ley tributarán con arreglo a la siguiente escala, excepto si de acuerdo con lo previsto en el artículo 28 de esta Ley deban tributar a un tipo diferente del general:
+
+a) Por la parte de base imponible comprendida entre 0 y 120.202,41 euros, al tipo 30 por 100.
+
+b) Por la parte de base imponible restante, al tipo del 35 por 100.
+
+Cuando el período impositivo tenga una duración inferior al año, la parte de la base imponible que tributará al tipo del 30 por 100 será la resultante de aplicar a 120.202,41 euros la proporción en la que se hallen el número de días del período impositivo entre 365 días, o la base imponible del período impositivo cuando ésta fuera inferior.»

@@ -1,0 +1,15 @@
+## Disposición adicional cuadragésima. Modificación de la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España.
+
+Con efectos de 1 de enero de 2005 y vigencia indefinida, se da nueva redacción al artículo 16 de la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España, que quedará redactado como sigue:
+
+«Artículo 16. Sistemas de pagos.
+
+1. A fin de promover el buen funcionamiento de los sistemas de pagos, y en el ejercicio de las funciones que le corresponden como integrante del Sistema Europeo de Bancos Centrales, el Banco de España podrá regular, mediante Circular, los sistemas de compensación y liquidación de pagos, pudiendo en particular desarrollar o completar los actos jurídicos dictados por el Banco Central Europeo e incorporar las recomendaciones de los organismos internacionales que constituyan principios aplicables a la seguridad y eficiencia de los sistemas e instrumentos de pago. También podrá gestionar, en su caso, los sistemas de compensación y liquidación de pagos correspondientes.
+
+2. Corresponderá al Banco de España la vigilancia del funcionamiento de los sistemas de compensación y pago. A tal efecto, el Banco de España podrá recabar, tanto de la entidad gestora de un sistema de pagos, como de los proveedores de servicios de pago, incluidas aquellas entidades que proporcionen servicios tecnológicos para los sistemas y servicios citados, cuanta información y documentación considere necesaria para valorar la eficiencia y seguridad de los sistemas e instrumentos de pago.
+
+3. El incumplimiento de las normas establecidas por el Banco de España a que se refiere el apartado 1, de la obligación de remisión de información a que se refiere el apartado 2, por las entidades a que se refiere el apartado 2, una vez transcurrido el plazo determinado por el Banco de España para remediar dicha situación, constituirá infracción a los efectos de lo previsto en el artículo 5, letra f), en los artículos 4, letra i), cuando la falta de remisión de información dificulte la valoración de los riesgos inherentes a los sistemas e instrumentos de pago, y 5, letra l), respectivamente, de la Ley 26/1988, de 28 de julio, de Disciplina e Intervención de las Entidades de Crédito.
+
+Las referencias de la citada Ley a las entidades de crédito se entenderán hechas a las entidades a que se refiere el apartado 2 de este artículo.
+
+4. Por razones de prudencia, el Banco de España podrá suspender la aplicación de las decisiones que adopte la entidad gestora de un sistema de pagos, y adoptar las medidas oportunas, cuando estime que dichas decisiones infringen la normativa vigente o perjudican el adecuado desarrollo de los procesos de compensación y liquidación.»
