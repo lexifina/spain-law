@@ -58,9 +58,9 @@ ACIDEZ GRASA
 
 1. Principio.
 
-Neutralización de los ácidos grasos libres con hidróxido sódico. Se mide la rancidez hidrolítica que se utiliza como índice de deterioro en almacenamiento.
+Neutralización de los ácidos grasos libres con hidróxido sódico, Se mide la rancidez hidrolítica que se utiliza como índice de deterioro en almacenamiento.
 
-Aplicable a granos de cereales y harinas.
+Aplicable a granos de cereales, harinas y pastas alimenticias.
 
 2. Material y aparatos.
 
@@ -94,33 +94,27 @@ Aplicable a granos de cereales y harinas.
 
 4. Procedimiento.
 
-Para que los resultados sean más precisos, el contenido en humedad de los granos no debe exceder del 11 por 100. Se ha comprobado que mayores contenidos en humedad en el momento de la extracción aumentan significativamente los valores de acidez grasa.
+Para que los resultados sean más precisos, el contenido en humedad de la muestra no debe exceder del 11 por 100. Se ha comprobado que mayores contenidos en humedad en el momento de la extracción aumentan significativamente los valores de acidez grasa.
 
-Moler por lo menos 40 gramos de una muestra representativa para granos pequeños, tales como el trigo, o 200 gramos para granos más grandes, tales como el maíz. Preferiblemente, moler la muestra de tal forma que el 90 por 100 o más pase a través del tamiz de 500. Una vez molida la muestra se somete a extracción antes de 1 h. para evitar cambios causados por enzimas lipolíticos. Extraer 10 gramos de muestra molida utilizando éter de petróleo. Evaporar el éter de petróleo del extracto y redisolver el extracto en el matraz de extracción con 50 ml. de solución de BAF. Valorar la solución extraída con hidróxido potásico 0,0178N hasta alcanzar el punto de color patrón.
-
-4.1 Hacer la prueba en blanco valorando 50 ml. de solución de BAF, hasta alcanzar el punto de color patrón 3.4.2.
+Moler por lo menos 200 gramos de una muestra representativa. Preferiblemente, moler la muestra de tal forma que el 90 por 100 o más pase a través del tamiz de 500. Una vez molida la muestra se somete a extracción antes de una hora para evitar cambios causados por enzimas lipolíticos. Extraer 10 gramos de muestra molida utilizando éter de petróleo, Evaporar el éter de petróleo del extracto y redisolver el extracto en el matraz de extracción con 50 mililitros de solución de BAF. Valorar la solución extraída son hidróxido potásico 0,0178N, hasta alcanzar el punto de color patrón.
 
 5. Cálculo.
 
-Expresar la acidez grasa con los miligramos de KOH requeridos para neutralizar los ácidos grasos libres de 100 gramos de grano sobre sustancia seca por la fórmula:
+Expresar la acidez grasa con los miligramos de KOH requeridos para neutralizar los ácidos grasos libres de 100 gramos de pasta sobre sustancia seca por la fórmula:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1975/220/19200_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1976/180/14453_001.png)
 
 donde:
 
-V = volumen en ml. de KOH 0,0178N utilizado para valorar la muestra extraída.
+V = volumen en mililitros de KOH 0,0178N utilizado para valorar la muestra extraída.
 
-V1 = volumen en ml. de KOH 0,0178N utilizado para la valoración en blanco.
+V1 = volumen en mililitros de KOH 0,0178N utilizado para la valoración en blanco,
 
 H = peso en gramos de agua en 100 gramos de muestra.
 
-5.1 Expresión de los resultados.
-
-Los resultados se expresarán en ml. de KOH N/10.
-
 6. Observaciones.
 
-En caso de granos con altos valores de acidez grasa se forman a veces emulsiones durante la valoración que enmascaran parcialmente el punto de color final. Cuando aparecen emulsiones, añadir 50 ml. adicionales de solución BAF para asegurar una solución clara. En este caso el valor de la prueba en blanco es el doble del valor determinado sobre 50 ml.
+En caso de pastas alimenticias con altos valores de acidez de la grasa se forman a veces emulsiones durante la valoración que enmascaran parcialmente el punto de color final. Cuando aparecen emulsiones, añadir 50 mililitros adicionales de solución BAF para asegurar una solución clara. En este caso, el valor de la prueba en blanco es el doble del valor determinado sobre 50 mililitros.
 
 7. Referencia.
 
@@ -224,9 +218,9 @@ Este método es aplicable a los granos, harinas y otros derivados de los cereale
 
 4. Procedimiento.
 
-Pesar un gramo de muestra, molida de forma que las partículas sean inferiores a 500 ml., e introducirla en un matraz Kjeldahl. Añadir 10 g. de sulfato potásico y 0,1 g. de sulfato de cobre. Agregar 20 ml. de ácido sulfúrico concentrado y mezclar todo hasta que toda la sustancia esté mojada por el ácido. Iniciar el ataque a fuego lento para evitar que la espuma arrastre el producto al cuello del matraz. Cuando desaparezca la espuma hacer hervir vigorosamente hasta que la disolución quede limpia y prolongar todavía el ataque otros treinta minutos.
+Pesar un gramo de muestra molida de forma que las partículas sean inferiores a 500 micras, e introducirla en un matraz Kjeldahl. Añadir 10 gramos de sulfato potásico y 0,1 gramos de sulfato de cobre. Agregar 20 mililitros de ácido sulfúrico concentrado y mezclar todo hasta que toda la sustancia esté mojada por el ácido. Iniciar el ataque a fuego lento para evitar que la espuma arrastre el producto al cuello del matraz. Cuando desaparezca la espuma, hacer hervir vigorosamente hasta que la disolución quede limpia y prolongar todavía el ataque otros treinta minutos.
 
-Dejar enfriar. Añadir unos 200 ml. de agua. Agregar 80 ml. de hidróxido sódico al 33 por 100 y proceder al destilado. El líquido que destila se recoge en un vaso que contenga 20 ml. de ácido sulfúrico N/10 y una gota de disolución de indicador, añadiéndose nuevamente una cantidad conocida de ácido sulfúrico N/10 si virase de color durante la destilación, La cantidad de destilado a recoger es de unos 150 ml., dándose por acabada la destilación cuando el líquido que se destila no haga virar a azul el papel rojo de tornasol.
+Dejar enfriar. Añadir unos 200 mililitros de agua. Agregar 80 mililitros de hidróxido sódico al 33 por 100 y proceder al destilado. El líquido que destila se recoge en un vaso que contenga 20 mililitros de ácido sulfúrico N/10 si virase de color durante la destilación. La cantidad de destilado a recoger es de unos 150 mililitros, dándose por acabada la destilación cuando el líquido que se destila no haga virar a azul el papel rojo de tornasol.
 
 Acabada la destilación, valorar el exceso de ácido sulfúrico con disolución valorada de hidróxido sódico 0,1N.
 
@@ -256,10 +250,12 @@ P = Peso de la muestra.
 
 5.3 Dispersión de los resultados.
 
-Se considerarán concordantes las determinaciones duplicadas cuando los resultados, expresados en por ciento, difieran en menos de 0,25.
+Se considerarán concordantes las determinaciones duplicadas cuando los resultados, expresados en tanto por ciento, difieran en menos de 0,25.
 
 6. Referencias.
 
 Instituto de Racionalización del Trabajo. U. N. E. 34.400 h 7.
 
 Métodos de la Asociación Internacional de Química Cerealista (I.C.C.).
+
+> Se modifica por el art. 5 del Real Decreto 1771/1976, de 2 de julio. Ref. BOE-A-1976-14453.
