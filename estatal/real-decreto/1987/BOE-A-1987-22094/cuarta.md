@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta.
+
+1. En atención al elevado número de vacantes existentes en Secretarias de Ayuntamiento que, de acuerdo con las normas anteriormente vigentes, correspondían a los funcionarios del Cuerpo Nacional de Secretarios de Administración Local, en su categoría de Secretarios de tercera, y habida cuenta del nivel de titulación que venía siendo exigido con carácter mínimo, se llevarán a cabo excepcionalmente dos convocatorias para el acceso a la función pública, en los términos establecidos en el apartado siguiente.
+
+2. Los funcionarios que superen las pruebas de ingreso a que se refiere el número anterior se integrarán en la subescala de Secretaría-Intervención de acuerdo con lo establecido en la disposición transitoria primera, 1, d), o quedarán habilitados para desempeñar los puestos de trabajo reservados a funcionarios con habilitación de carácter nacional según lo dispuesto en el apartado 2, e), de la citada disposición transitoria según estén o no en posesión de la titulación correspondiente, sin perjuicio de lo establecido en el apartado 3 de dicha disposición transitoria primera.

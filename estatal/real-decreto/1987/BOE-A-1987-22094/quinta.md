@@ -1,0 +1,9 @@
+## Disposición transitoria quinta.
+
+1. De conformidad con lo establecido en la disposición transitoria octava de la Ley 7/1985, de 2 de abril, no se podrá contratar personal en régimen de Derecho Administrativo o Laboral para el desempeño de los puestos reservados a funcionarios con habilitación de carácter nacional sin perjuicio de la posibilidad de efectuar nombramientos interinos en los términos previstos en el artículo 42.2 de este Real Decreto.
+
+2. El personal contratado e interino que con anterioridad a la entrada en vigor de la Ley 7/1985, de 2 de abril, hubiese venido prestando servicios en las Entidades locales ejerciendo funciones que, de acuerdo con la normativa vigente, corresponden a funcionarios con habilitación de carácter nacional, y que participe en las dos primeras convocatorias de pruebas selectivas de acceso a la subescala correspondiente a partir de la entrada en vigor del presente Real Decreto, tendrá derecho a la valoración de los servicios prestados en los términos que señalen las respectivas convocatorias, que en todo caso serán equivalentes a los contemplados en el Real Decreto 2224/1985, de 20 de noviembre.
+
+Idéntico derecho y con los mismos requisitos señalados en el párrafo anterior se reconocerá a los Secretarios habilitados en propiedad y de la escala «a extinguir» a que se refieren los Reales Decretos 2725/1977, de 15 de octubre, y 2656/1982, de 15 de octubre.
+
+3. El derecho a que se refiere el apartado anterior podrá asimismo ejercerse respecto de las convocatorias a que se refiere la disposición transitoria cuarta, apartado 1, por todos aquellos aspirantes que no estuviesen en posesión de la titulación exigible para el acceso a la subescala de Secretaría-Intervención prevista en el artículo 22 del presente Real Decreto, siempre que estén en posesión del título de Bachiller o equivalente.

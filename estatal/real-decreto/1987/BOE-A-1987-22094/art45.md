@@ -1,0 +1,3 @@
+## Artículo 45.
+
+De acuerdo con lo establecido en los artículos 141.1 y 151, a), del texto refundido de las disposiciones legales vigentes en materia de régimen local aprobado por Real Decreto Legislativo 781/1986, de 18 de abril, los funcionarios con habilitación de carácter nacional gozarán del derecho a la inamovilidad en la residencia y no podrán ser destituidos de los puestos a ellos reservados en las Entidades locales y que desempeñarán en virtud de concurso de méritos, ni separados del servicio, sino por resolución del Ministro para las Administraciones Públicas, adoptada en virtud de expediente disciplinario incoado y tramitado conforme a las disposiciones legales aplicables.

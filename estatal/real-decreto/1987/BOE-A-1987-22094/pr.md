@@ -1,0 +1,13 @@
+El artículo 92.3 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, establece que son funciones públicas necesarias en todas las Corporaciones Locales, cuya responsabilidad administrativa está reservada a funcionarios con habilitación de carácter nacional, la de Secretaría, comprensiva de la fe pública y el asesoramiento legal preceptivo y la de control y fiscalización interna de la gestión económico-financiera y presupuestaria, y la contabilidad, tesorería y recaudación, señalando en el número 4 de dicho precepto que las funciones de contabilidad, tesorería y recaudación podrán ser atribuidas a miembros de la Corporación o funcionarios sin habilitación de carácter nacional, en aquellos supuestos excepcionales en que así se determine por la legislación del Estado.
+
+Por ello, entre los objetivos fundamentales de este Real Decreto se encuentran la descripción detallada del contenido básico de las funciones reservadas, la enumeración y clasificación de los puestos de trabajo mínimos necesarios que deben de existir en todas las Corporaciones Locales a los que se atribuye la responsabilidad de dichas funciones, así como la determinación de los supuestos excepcionales en los que la responsabilidad administrativa de las funciones de contabilidad, tesorería y recaudación no está reservada a funcionarios con habilitación de carácter nacional.
+
+Asimismo, y en desarrollo de los artículos 98 y 99 de la Ley 7/1985, se regula la selección y formación de los funcionarios con habilitación de carácter nacional, la estructura de la habilitación y la provisión de puestos de trabajo a ellos reservados, determinando los criterios básicos de participación de las Comunidades Autónomas en los procedimientos de selección y formación, así como de convocatoria de los concursos de méritos para provisión de los puestos de trabajo.
+
+Por último, el presente Real Decreto, además de estructurar la habilitación de carácter nacional necesaria para el desempeño de las funciones reservadas, integra en las distintas subescalas a los actuales Secretarios, Interventores y Depositarios a los que la Ley 7/1985, de 2 de abril, confiere dicha habilitación con respeto de los derechos de toda índole que pudieran corresponderles.
+
+En su virtud, a propuesta del Ministro para las Administraciones Públicas, previo informe de la Comisión Permanente de la Comisión Nacional de Administración Local, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión de 18 de septiembre de 1987,
+
+DISPONGO:
+
+> Redactado el párrafo cuarto conforme a la corrección de erratas publicada en BOE núm. 249, de 17 de octubre de 1987. Ref. BOE-A-1987-23479
