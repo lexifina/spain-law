@@ -61,6 +61,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 39](a39.md)
 - [Artículo 40](a40.md)
 - [Artículo 41](a41.md)
+- [DISPOSICIÓN ADICIONAL](da.md)
 - [DISPOSICIÓN FINAL](df.md)
 - [DISPOSICIONES TRANSITORIAS](dt.md)
 - [Primera](primera.md)
