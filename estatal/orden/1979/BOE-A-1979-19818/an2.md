@@ -12,6 +12,8 @@ A. Constructivas:
 
 4. Permitirán un fácil acceso al puesto de conducción y una elevada visibilidad desde éste.
 
+5. Cuando se trate de una estructura montada sobre un tractor o arrastrados forestal o sobre un tractor de uso forestal, deberá ser provista de un techo de protección contra la idea de fustes y troncos y, en su caso, de una red metálica resistente intercalada entre el conductor y el torno.
+
 B. De montaje:
 
 1. Las estructuras serán montadas de acuerdo con las instrucciones que sus fabricantes acompañarán a cada unidad y en las que constarán los pares de apriete y/o las llaves dinamométricas que deben emplearse en su ensamblaje y en su acoplamiento a los tractores correspondientes.
@@ -43,3 +45,5 @@ Dicha Estación dictaminará estos casos y aquellos cuya aprobación se le atrib
 3. Identificación de las estructuras revestidas.
 
 Todo revestimiento de un bastidor o cabina será efectuado manteniendo visible el grabado de su marca, modelo y número de serie originales, si la estructura no hubiese sido homologada y el contraste de homologación, al menos, en el caso contrario.
+
+> Se añade el punto 5 al apartado A) por el apartado 2 de la Resolución de 15 de enero de 1981. Ref. BOE-A-1981-1429.
