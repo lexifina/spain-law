@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Particularidades de la adecuación del sistema de información geográfica oleícola al SIGPAC.
+
+No obstante lo previsto en el artículo 5, en aquellas comunidades autónomas en las que la puesta a disposición del sistema de información geográfica oleícola sea anterior a la entrada en funcionamiento del SIGPAC, las funciones allí mencionadas del Comité permanente para la gestión y mantenimiento del sistema de información geográfica oleícola serán desarrolladas por la comunidad autónoma desde la fecha de puesta a disposición del sistema de información geográfica oleícola.
