@@ -1,3 +1,7 @@
-## Artículo trescientos sesenta y dos
+## Artículo 362.
 
-Cuando la suspensión no sea declarada definitiva ni se acuerde la separación, el tiempo de duración de aquélla se computará como de servicio activo y se acordará la inmediata reincorporación del suspenso a su plaza, con reconocimiento de todos los derechos económicos y demás que procedan desde la fecha en que tuvo efecto la suspensión.
+1. La suspensión provisional podrá acordarse durante la tramitación de un procedimiento judicial o disciplinario.
+
+2. La suspensión provisional durante la tramitación de un procedimiento disciplinario no podrá exceder de seis meses, salvo en caso de paralización del procedimiento por causa imputable al interesado.
+
+> Se modifica por el art. único.99 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

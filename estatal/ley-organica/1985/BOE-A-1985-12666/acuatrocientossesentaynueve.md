@@ -1,5 +1,13 @@
-## Artículo cuatrocientos sesenta y nueve
+## Artículo 469.
 
-1. Sin perjuicio de lo demás dispuesto en el presente título, los Jueces y Tribunales podrán recabar el auxilio, colaboración o asesoramiento de cualesquiera funcionarios u órganos técnicos de la Administración Pública, que vendrán obligados a prestárselos.
+1. Son competentes para la incoación de expedientes disciplinarios a los funcionarios del Cuerpo de Secretarios Judiciales, el Ministerio de Justicia, el Secretario de Gobierno y los Secretarios Coordinadores Provinciales. La tramitación de los mismos corresponde al Ministerio de Justicia.
 
-2. Asimismo, podrá disponerse, a solicitud del Consejo General del Poder Judicial, la adscripción, a determinados órganos jurisdiccionales, de funcionarios pertenecientes a Cuerpos Técnicos o Facultativos de la Administración, para desempeño permanente de las facultades señaladas en el apartado anterior, los cuales quedarán en la situación que determine su legislación específica.
+2. Las faltas se clasifican en muy graves, graves y leves, de acuerdo con el catalogo previsto en el artículo 536 de esta ley.
+
+3. Para la imposición de las sanciones serán competentes:
+
+a) el Secretario de Gobierno y el Secretario Coordinador Provincial, para la sanción de apercibimiento.
+
+b) el Ministro de Justicia, para la de suspensión, traslado forzoso y separación del servicio.
+
+> Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

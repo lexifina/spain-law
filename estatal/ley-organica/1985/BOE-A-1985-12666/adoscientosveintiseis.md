@@ -1,3 +1,7 @@
-## Artículo doscientos veintiséis
+## Artículo 226.
 
-En los juicios verbales, cualquiera que sea el orden jurisdiccional, y en los de faltas, si el Juez recusado no aceptare en el acto como cierta la causa de la recusación, pasarán las actuaciones al que corresponda instruir el incidente, quedando entretanto en suspenso el asunto principal. El Instructor acordará que comparezcan las partes a su presencia en el día y hora que fije, dentro de los cinco siguientes, y, oídas las partes y practicada la prueba declarada pertinente, resolverá sobre si ha o no lugar a la recusación, en el mismo acto.
+1. En los procesos que se sustancien por los cauces del juicio verbal cualquiera que sea el orden jurisdiccional, y en los de faltas, si el juez recusado no aceptare en el acto como cierta la causa de recusación, pasarán las actuaciones al que corresponda instruir el incidente, quedando entretanto en suspenso el asunto principal. El instructor acordará que comparezcan las partes a su presencia el día y hora que fije, dentro de los cinco siguientes, y, oídas las partes y practicada la prueba declarada pertinente, resolverá mediante providencia en el mismo acto sobre si ha o no lugar a la recusación.
+
+2. Para la recusación de jueces o magistrados posterior al señalamiento de vistas, se estará a lo dispuesto en los artículos 190 a 192 de la Ley de Enjuiciamiento Civil.
+
+> Se modifica por el art. único.49 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

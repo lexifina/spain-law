@@ -1,9 +1,19 @@
-## Artículo cuatrocientos cincuenta
+## Artículo 450.
 
-1. Las correcciones que puedan imponerse a las personas a que se refieren los dos artículos anteriores son:
+1. La provisión de puestos de trabajo se llevará a cabo por el procedimiento de concurso, que será el sistema ordinario de provisión.
 
-a) Apercibimiento.
+Cuando se trate de puestos de carácter directivo o de especial responsabilidad, podrán cubrirse por el procedimiento de libre designación.
 
-b) Multa cuya máxima cuantía será la prevista en el Código Penal como pena correspondiente a las faltas.
+El nombramiento de secretarios judiciales para puestos de trabajo radicados en el ámbito territorial de una comunidad autónoma con competencias asumidas, que hayan de cubrirse por este procedimiento, requerirá el informe previo del órgano competente de dicha comunidad.
 
-2. La imposición de la corrección de multa se hará atendiendo a la gravedad, antecedentes y circunstancias de los hechos cometidos, y en todo caso se impondrá siempre con audiencia del interesado.
+En todo caso, el sistema de provisión deberá estar determinado en las correspondientes relaciones de puestos de trabajo.
+
+2. Excepcionalmente y cuando las necesidades del servicio lo requieran, los puestos de trabajo también podrán cubrirse de forma temporal mediante adscripción provisional o en comisión de servicios.
+
+3. Reglamentariamente se establecerán las normas y requisitos a los que habrán de ajustarse los procedimientos de provisión de puestos de trabajo.
+
+En todo caso, para poder concursar deberá haber transcurrido un período mínimo de dos años, a contar desde la fecha de la resolución por la que se convocó el concurso de traslados en el que el funcionario obtuvo su último destino definitivo, desde el que participa, o desde la fecha de la resolución en la que se le adjudicó destino definitivo, si se trata de funcionarios de nuevo ingreso. Los secretarios judiciales que no tenga destino definitivo, obligados a participar en los concursos de acuerdo con la normativa vigente, están excluidos de esta limitación temporal.
+
+4. En aquellas comunidades autónomas que gocen de derecho civil, foral o especial, y de idioma oficial propios, el conocimiento de los mismos se valorará como mérito.
+
+> Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -1,3 +1,17 @@
-## Artículo cuatrocientos noventa y seis
+## Artículo 496.
 
-Cada año, al menos, se convocarán pruebas selectivas para proveer todas las vacantes que no hayan sido cubiertas de acuerdo con lo dispuesto en los artículos anteriores.
+Los funcionarios tienen los siguientes derechos colectivos, en los términos establecidos por la Constitución y las leyes:
+
+a) A la libre asociación profesional.
+
+b) A la libre sindicación.
+
+c) A la actividad sindical.
+
+d) De huelga, en los términos contenidos en la legislación general del Estado para funcionarios públicos, garantizándose el mantenimiento de los servicios esenciales de la Administración de Justicia.
+
+e) A la negociación colectiva, a la participación en la determinación de las condiciones de trabajo, para lo cual se establecerán los marcos adecuados que permitan una mayor y más intensa participación de los representantes de los funcionarios al servicio de la Administración de Justicia, a través de grupos de trabajo, mesas o cualquier otro foro de diálogo y negociación.
+
+f) De reunión.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

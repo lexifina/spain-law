@@ -1,0 +1,3 @@
+## Disposición transitoria decimosexta. Régimen aplicable a Jueces y Magistrados en excedencia forzosa.
+
+Los jueces y magistrados que, a la entrada en vigor de esta ley, se encontrasen en situación de excedencia forzosa en virtud de la redacción anterior de los apartados 4, 5 y 6 del artículo 357 de la Ley Orgánica del Poder Judicial, podrán optar entre seguir en tal situación hasta agotar el plazo a que se refería dicho precepto, aplicándose en ese momento el régimen previsto en el actual apartado 3 del artículo 358 de la mencionada ley orgánica, o reingresar en la carrera sin agotar el referido plazo, con idéntica aplicación del citado apartado 3 del artículo 358 de la Ley Orgánica del Poder Judicial.

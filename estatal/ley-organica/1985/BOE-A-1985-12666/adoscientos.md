@@ -6,7 +6,9 @@
 
 3. Dentro de los límites del llamamiento o adscripción, los Magistrados suplentes actuarán, como miembros de la Sala que sean llamados a formar, con los mismos derechos y deberes que los Magistrados titulares.
 
-4. Los miembros de la Carrera Judicial jubilados por edad que sean nombrados para ejercer dicha función tendrán la consideración y tratamiento de Magistrados eméritos.
+4. Los miembros de la Carrera Judicial jubilados por edad que sean nombrados para ejercer dicha función tendrán la consideración y tratamiento de magistrados eméritos. En dicha situación podrán permanecer hasta los 75 años, teniendo el tratamiento retributivo de los magistrados suplentes.
+
+> Se modifica el apartado 4 por el art. único.36 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se añade el apartado 4 por el art. 4.2 de la Ley Orgánica 9/2000, de 22 de diciembre. Ref. BOE-A-2000-23661
 

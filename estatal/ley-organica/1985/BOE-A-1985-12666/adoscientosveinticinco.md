@@ -1,9 +1,17 @@
-## Artículo doscientos veinticinco
+## Artículo 225.
 
-1. Formulada la recusación, pasará el pleito o causa al conocimiento del sustituto y se remitirá, en su caso, el escrito y los documentos de la recusación a aquel a quien corresponda instruir el incidente.
+1. Dentro del mismo día en que finalice el plazo a que se refiere el apartado 3 del artículo 223, o en el siguiente día hábil, pasará el pleito o causa al conocimiento del sustituto, debiendo remitirse al tribunal al que corresponda instruir el incidente el escrito y los documentos de la recusación.
 
-2. Este entregará copia del escrito y documentos al recusado, requiriéndole para que en el plazo de tres días informe sobre la recusación.
+También deberá acompañarse un informe del recusado relativo a si admite o no la causa de recusación.
+
+2. No se admitirán a trámite las recusaciones en las que no se expresaren los motivos en que se funden, o a las que no se acompañen los documentos a que se refiere el apartado 2 del artículo 223.
 
 3. Si el recusado aceptare como cierta la causa de recusación, se resolverá el incidente sin más trámites.
 
-4. En otro caso, ordenará el Instructor la práctica de la prueba, si se hubiere propuesto en forma y fuere pertinente, en el plazo de diez días, y, acto seguido, remitirá lo actuado a la autoridad competente para decidir, que lo hará por medio de auto, oído el Ministerio Fiscal. Cuando el recusado fuere un Juez, la resolución corresponderá al propio Instructor.
+En caso contrario, el instructor, si admitiere a trámite la recusación propuesta, ordenará la práctica, en el plazo de 10 días, de la prueba solicitada que sea pertinente y la que estime necesaria y, acto seguido, remitirá lo actuado al tribunal competente para decidir el incidente.
+
+Recibidas las actuaciones por el tribunal competente para decidir la recusación, se dará traslado de las mismas al Ministerio Fiscal para informe por plazo de tres días. Transcurrido ese plazo, con o sin informe del Ministerio Fiscal, se decidirá el incidente dentro de los cinco días siguientes. Contra dicha resolución no cabrá recurso alguno.
+
+4. La recusación suspenderá el curso del pleito hasta que se decida el incidente de recusación salvo en el orden jurisdiccional penal, en el que el juez de instrucción que legalmente sustituya al recusado continuará con la tramitación de la causa.
+
+> Se modifica por el art. único.48 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

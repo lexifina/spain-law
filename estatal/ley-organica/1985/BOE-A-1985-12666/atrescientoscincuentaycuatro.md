@@ -1,7 +1,9 @@
-## Artículo trescientos cincuenta y cuatro
+## Artículo 354.
 
-1. Los Jueces y Magistrados que sean nombrados para cargo político o de confianza, salvo los contemplados en el artículo 352, deberán comunicar al Consejo General del Poder Judicial la aceptación o la renuncia al cargo para el que hubieren sido nombrados dentro de los ocho días hábiles siguientes a la publicación del nombramiento en el "Boletín Oficial del Estado" o de la Comunidad Autónoma.
+1. Los jueces y magistrados en situación de servicios especiales percibirán la retribución del puesto o cargo que desempeñen, sin perjuicio del derecho a la remuneración por su antigüedad en la carrera judicial.
 
-2. La aceptación o la toma de posesión del expresado cargo determinará el pase a la situación de excedencia voluntaria.
+2. A los jueces y magistrados en situación de servicios especiales se les computará el tiempo que permanezcan en tal situación a efectos de ascensos, antigüedad y derechos pasivos. Tendrán derecho a la reserva de la plaza que ocupasen al pasar a esa situación o la que pudieren obtener durante su permanencia en la misma.
+
+> Se modifica por el art. único.91 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifica por el art. 2 de la Ley Orgánica 5/1997, de 4 de diciembre. Ref. BOE-A-1997-26034

@@ -1,3 +1,9 @@
-## Artículo doscientos treinta y nueve
+## Artículo 239.
 
-Los Jueces o Tribunales cuya actuación se hubiese producido con intimidación o violencia, tan luego como se vean libres de ella, declararán nulo todo lo practicado y promoverán la formación de causa contra los culpables.
+1. Los tribunales cuya actuación se hubiere producido con intimidación o violencia, tan luego como se vean libres de ella, declararán nulo todo lo practicado y promoverán la formación de causa contra los culpables, poniendo los hechos en conocimiento del Ministerio Fiscal.
+
+2. También se declararán nulos los actos de las partes o de personas que intervengan en el proceso si se acredita que se produjeron bajo intimidación o violencia.
+
+La nulidad de estos actos entrañará la de todos los demás relacionados con él o que pudieren haberse visto condicionados o influidos sustancialmente por el acto nulo.
+
+> Se modifica por el art. único.56 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

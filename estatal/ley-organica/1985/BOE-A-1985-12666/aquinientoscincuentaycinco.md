@@ -1,0 +1,7 @@
+## Artículo 555.
+
+1. La corrección se impondrá por la autoridad ante la que se sigan las actuaciones.
+
+2. Podrá imponerse en los propios autos o en procedimiento aparte. En todo caso, por el secretario se hará constar el hecho que motive la actuación correctora, las alegaciones del implicado y el acuerdo que se adopte por el juez o por la sala.
+
+> Se añade por el art. único.125 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -1,7 +1,7 @@
-## Artículo cuatrocientos sesenta y dos
+## Artículo 462.
 
-1. Los Oficiales, Auxiliares y Agentes judiciales están obligados a poner en conocimiento del Juez o Presidente las causas que en ellos concurran y que pudieran justificar su abstención en el pleito o causa.
+Los secretarios judiciales asumirán todas aquéllas otras funciones que legal y reglamentariamente se establezcan.
 
-2. Adoptarán aquellas autoridades, de oficio o a solicitud de parte, con audiencia del funcionario, en su caso, las medidas que procedan para garantizar su imparcialidad en las actuaciones judiciales.
+> Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

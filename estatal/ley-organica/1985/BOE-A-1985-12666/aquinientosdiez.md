@@ -1,0 +1,7 @@
+## Artículo 510.
+
+1. Los funcionarios de los cuerpos a que se refiere este libro serán declarados en situación de excedencia voluntaria, de oficio o a petición del interesado, cuando lo soliciten por interés particular, cuando se encuentren en servicio activo en otro cuerpo o escala de cualquiera de las Administraciones públicas o pasen a prestar servicios en organismos o entidades del sector público y no les corresponda quedar en otra situación y por agrupación familiar, con iguales requisitos y efectos a los establecidos en la legislación aplicable a los funcionarios de la Administración General del Estado.
+
+2. Asimismo, se declarará de oficio la situación de excedencia voluntaria por interés particular de los funcionarios públicos, cuando finalizada la causa que determinó el pase a una situación distinta de la del servicio activo, incumplan la obligación de solicitar el reingreso en el mismo, en los plazos que reglamentariamente se determinen.
+
+> Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

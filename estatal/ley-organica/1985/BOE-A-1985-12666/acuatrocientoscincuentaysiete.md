@@ -1,3 +1,5 @@
-## Artículo cuatrocientos cincuenta y siete
+## Artículo 457.
 
-Podrán aspirar a los Cuerpos que integren el personal al servicio de la Administración de Justicia los españoles mayores de edad que tengan el título exigible en cada caso o estén en condiciones de obtenerlo en la fecha de publicación de la convocatoria, no hayan sido condenados, ni estén procesados ni inculpados por delito doloso, a menos que hubiesen obtenido la rehabilitación o hubiere recaído en la causa auto de sobreseimiento; no se hallen inhabilitados para el ejercicio de funciones públicas, y no hayan sido separados mediante procedimiento disciplinario de un Cuerpo del Estado, de las Comunidades Autónomas o de las Administraciones Locales, ni suspendidos para el ejercicio de funciones públicas, en vía disciplinaria o judicial, salvo que hubiesen sido debidamente rehabilitados.
+Los secretarios judiciales dirigirán en el aspecto técnico-procesal al personal integrante de la Oficina judicial, ordenando su actividad e impartiendo las órdenes e instrucciones que estime pertinentes en el ejercicio de esta función.
+
+> Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -1,0 +1,9 @@
+## Artículo 532.
+
+1. Los concursos específicos serán convocados y resueltos por cada Administración competente en su ámbito territorial, procurando que las convocatorias y su resolución no interfieran en los resultados de los concursos convocados por las respectivas Administraciones, y podrán participar en ellos los funcionarios de la Administración de Justicia, cualquiera que sea el ámbito territorial en que estén destinados.
+
+2. Se valorarán aquellos méritos generales que se determinen en el Reglamento General de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional de los funcionarios de la Administración de Justicia, conforme a los criterios que en el mismo se establezcan.
+
+3. Los méritos específicos serán adecuados a las características de cada puesto y se determinarán en la convocatoria, sin que en ningún caso puedan sobrepasar el porcentaje máximo de la puntuación total establecido en el artículo 526.
+
+> Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

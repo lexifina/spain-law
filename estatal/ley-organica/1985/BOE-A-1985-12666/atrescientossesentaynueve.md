@@ -1,11 +1,5 @@
-## Artículo trescientos sesenta y nueve
+## Artículo 369.
 
-La concurrencia de peticiones para la adjudicación de vacantes, cualquiera que fuere el sistema de su provisión, entre quienes deban reingresar al servicio activo, se resolverá por el siguiente orden de prelación:
+El cambio de la situación administrativa en que se hallen los jueces o magistrados podrá tener lugar siempre que se reúnan los requisitos exigidos en cada caso sin necesidad de reingreso al servicio activo.
 
-1.º Excedentes forzosos.
-
-2.º Suspensos.
-
-3.º Rehabilitados.
-
-4.º Excedentes voluntarios.
+> Se modifica por el art. único.106 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -1,13 +1,15 @@
-## Artículo trescientos cincuenta y dos
+## Artículo 352.
 
-Los Jueces y Magistrados pasarán también a la situación de servicios especiales:
+Los Magistrados del Tribunal Supremo serán declarados en la situación de servicios especiales si fueran designados para desempeñar alguno de los cargos siguientes:
 
-a) Cuando sean nombrados Presidente del Tribunal Supremo o Vocales del Consejo General del Poder Judicial, Fiscal General del Estado, Magistrados del Tribunal Constitucional, Defensor del Pueblo, Consejeros del Tribunal de Cuentas, Presidente y Consejeros Permanentes del Consejo de Estado, Presidente y Vocales del Tribunal de Defensa de la Competencia o miembros de Tribunales internacionales.
+a) Vocal del Consejo General del Poder Judicial.
 
-b) Cuando sean nombrados Letrados del Consejo General del Poder Judicial, Letrados del Tribunal Constitucional o Letrados del Tribunal Supremo.
+b) Magistrado del Tribunal Constitucional.
 
-c) Cuando presten servicio, en virtud de nombramiento por Real Decreto, en cargos relacionados con la Administración de Justicia que no tengan rango superior al de Director general, en cualquier Departamento ministerial.
+c) Miembro de Altos Tribunales Internacionales de Justicia.
 
-d) Cuando desempeñen dichas funciones en órganos equivalentes de las Comunidades Autónomas.
+d) Fiscal General del Estado.
+
+> Se modifica por el art. único.89 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifica por el art. 2 de la Ley Orgánica 5/1997, de 4 de diciembre. Ref. BOE-A-1997-26034

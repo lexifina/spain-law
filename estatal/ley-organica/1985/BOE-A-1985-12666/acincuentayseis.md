@@ -1,4 +1,4 @@
-## Artículo cincuenta y seis
+## Artículo 56.
 
 La Sala de lo Civil del Tribunal Supremo conocerá:
 
@@ -8,4 +8,4 @@ La Sala de lo Civil del Tribunal Supremo conocerá:
 
 3.º De las demandas de responsabilidad civil dirigidas contra Magistrados de la Audiencia Nacional o de los Tribunales Superiores de Justicia por hechos realizados en el ejercicio de sus cargos.
 
-4.º De las peticiones de ejecución de sentencias dictadas por Tribunales extranjeros, a no ser que, con arreglo a lo acordado en los tratados, corresponda su conocimiento a otro Juzgado o Tribunal.
+> Se suprime el apartado 4º por el art. único.4 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

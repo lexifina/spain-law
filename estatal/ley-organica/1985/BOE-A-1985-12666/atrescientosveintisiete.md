@@ -1,7 +1,11 @@
-## Artículo trescientos veintisiete
+## Artículo 327.
 
-1. No podrán concursar los electos, ni los que se encontraren en una situación de las previstas en esta Ley que se lo impida.
+1. No podrán concursar los electos, ni los que se encontraren en una situación de las previstas en esta ley que se lo impida.
 
-2. Tampoco podrán concursar los Jueces y Magistrados que no lleven en el destino ocupado el tiempo que reglamentariamente se determine por el Consejo General del Poder Judicial, teniendo en cuenta su naturaleza y las necesidades de la Administración de Justicia, sin que en ningún caso aquel plazo pueda ser inferior a dos años en destino forzoso y tres en voluntario.
+2. Tampoco podrán concursar los jueces y magistrados que no lleven en el destino ocupado el tiempo que reglamentariamente se determine por el Consejo General del Poder Judicial, teniendo en cuenta su naturaleza y las necesidades de la Administración de Justicia, sin que en ningún caso aquel plazo pueda ser inferior a un año en destino forzoso y dos en voluntario.
+
+3. No obstante, en los demás casos, el Consejo General del Poder Judicial, por resolución motivada, podrá aplazar la efectividad de la provisión de una plaza de juez o magistrado cuando el que hubiere ganado el concurso a dicha plaza debiera dedicar atención preferente al órgano de procedencia atendidos los retrasos producidos por causa imputable al mismo. Dicho aplazamiento tendrá una duración máxima de tres meses, transcurridos los cuales si la situación de pendencia no hubiere sido resuelta en los términos fijados por la resolución motivada de aplazamiento, el juez o magistrado perderá su derecho al nuevo destino.
+
+> Se modifica por el art. único.76 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifica el apartado 2 por el art. 3.4 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

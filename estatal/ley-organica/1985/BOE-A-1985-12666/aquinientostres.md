@@ -1,8 +1,10 @@
-## Artículo quinientos tres
+## Artículo 503.
 
-1. El Ministerio de Justicia, previo informe del Consejo General del Poder Judicial, y en su caso de la Comunidad Autónoma afectada que haya asumido competencias en la materia, determinará las normas de organización y funcionamiento de los Institutos de Medicina Legal y las reglas generales de la actuación de los Médicos Forenses que presten asistencia técnica a los órganos jurisdiccionales, fiscales u Oficinas del Registro Civil.
+1. Por causas justificadas, los funcionarios tendrán derecho a iguales permisos y con la misma extensión que los establecidos en la normativa vigente aplicable a los funcionarios de la Administración General del Estado, con excepción del permiso por asuntos particulares que tendrá una duración de nueve días, los cuales no podrán acumularse en ningún caso a las vacaciones anuales retribuidas.
 
-2. (Derogado)
+2. El disfrute de estos permisos no afectará a los derechos económicos de los funcionarios.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifica el apartado 1 por el art. 21.4 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
 

@@ -1,11 +1,7 @@
-## Artículo quinientos cinco
+## Artículo 505.
 
-1. El Instituto de Toxicología es un órgano técnico adscrito al Ministerio de Justicia cuya misión es auxiliar a la Administración de Justicia.
+1. El Ministerio de Justicia y las comunidades autónomas con competencias asumidas, serán competentes para la concesión de los permisos y licencias establecidos en esta ley orgánica, respecto de los funcionarios que presten servicios en sus respectivos ámbitos territoriales, en la forma y mediante el procedimiento que se establezca en las disposiciones que se dicten al efecto por las mismas.
 
-2. En sus funciones técnicas tendrá carácter independiente y emite sus informes de acuerdo a la reglas de investigación científica que estime adecuadas.
+2. Así mismo les corresponde el control de la incapacidad temporal del personal funcionario al servicio de la Administración de Justicia, pudiendo solicitar el asesoramiento facultativo que en su caso estime necesario, a cuyo fin podrán establecer sistemas de colaboración con aquellos organismos públicos o entidades que en sus respectivos ámbitos asumen la inspección, evaluación y seguimiento del control de la incapacidad temporal del régimen general de la seguridad social y de los regímenes especiales.
 
-3. Son funciones del Instituto de Toxicología.
-
-a) Emitir los informes y dictámenes que soliciten las autoridades judiciales y del Ministerio Fiscal.
-
-b) Practicar los análisis e investigaciones toxicológicas que sean ordenadas por los Médicos Forenses y las autoridades judiciales o gubernativas, o del Ministerio Fiscal.
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

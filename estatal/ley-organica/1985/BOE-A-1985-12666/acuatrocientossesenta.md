@@ -1,5 +1,5 @@
-## Artículo cuatrocientos sesenta
+## Artículo 460.
 
-La forma del juramento o promesa será la siguiente:
+Los secretarios judiciales colaborarán con la Administración tributaria en la gestión de los tributos que les sea encomendada en la normativa específica.
 
-«Juro (o prometo) guardar y hacer guardar fielmente y en todo tiempo la Constitución y el resto del ordenamiento jurídico, lealtad a la Corona y cumplir los deberes de mi cargo frente a todos.»
+> Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

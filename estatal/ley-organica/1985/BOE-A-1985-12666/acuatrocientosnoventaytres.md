@@ -1,3 +1,11 @@
-## Artículo cuatrocientos noventa y tres
+## Artículo 493.
 
-Los Agentes Judiciales con tres años, al menos, de servicios efectivos y sin nota desfavorable en el expediente que, con arreglo a baremo de méritos preestablecido, acrediten condiciones de preparación y responsabilidad para cargo superior y se hallen en posesión del título correspondiente, podrán ingresar en el Cuerpo Auxiliar por un turno restringido, en la forma que reglamentariamente se determine. La mitad de las vacantes que se produzcan se reservarán para su provisión por este turno. Las plazas no cubiertas por este procedimiento acrecerán al turno general.
+Podrán ser rehabilitados mediante el procedimiento que reglamentariamente se establezca:
+
+Los funcionarios que hubiesen perdido la condición de tales, como consecuencia de la pérdida de la nacionalidad española o por incapacidad permanente para el servicio, una vez desaparecida la causa objetiva que la motivó.
+
+Quienes hubiesen perdido la condición de funcionario por inhabilitación absoluta o especial como pena principal o accesoria o por condena a pena privativa de libertad por razón de delito doloso, una vez extinguidas sus responsabilidades civiles y penales y, en su caso, cancelados los antecedentes penales.
+
+Asimismo podrán ser rehabilitados, los funcionarios que hayan sido separados del servicio como consecuencia de sanción disciplinaria.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

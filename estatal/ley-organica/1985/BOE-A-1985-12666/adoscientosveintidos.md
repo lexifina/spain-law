@@ -1,5 +1,5 @@
-## Artículo doscientos veintidós
+## Artículo 222.
 
-1. Cumplido lo dispuesto en el artículo anterior, si el Juez o Magistrado no recibiere en el plazo de cinco días la orden de que continúe en el conocimiento del asunto, se apartará definitivamente de éste y remitirá, en su caso, las actuaciones al que deba sustituirle.
+La abstención y la sustitución del juez o magistrado que se ha abstenido serán comunicadas a las partes, incluyendo el nombre del sustituto.
 
-2. La abstención será comunicada a las partes.
+> Se modifica por el art. único.45 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -1,30 +1,40 @@
-## Artículo doscientos diecinueve
+## Artículo 219.
 
-Son causas de abstención y, en su caso, de recusación:.
+Son causas de abstención y, en su caso, de recusación:
 
-1.º El vínculo matrimonial o situación de hecho asimilable y el parentesco por consanguinidad o afinidad dentro del cuarto grado con cualquiera de los expresados en el artículo anterior.
+1.ª El vínculo matrimonial o situación de hecho asimilable y el parentesco por consanguinidad o afinidad dentro del cuarto grado con las partes o el representante del Ministerio Fiscal.
 
-2.º El vínculo matrimonial o situación de hecho asimilable y el parentesco por consanguinidad o afinidad dentro del segundo grado con el Letrado y el Procurador de cualquiera de las partes que intervengan en el pleito o causa.
+2.ª El vínculo matrimonial o situación de hecho asimilable y el parentesco por consanguinidad o afinidad dentro del segundo grado con el letrado o el procurador de cualquiera de las partes que intervengan en el pleito o causa.
 
-3.º Ser o haber sido defensor judicial o integrante de los organismos tutelares de cualquiera de las partes, o haber estado bajo el cuidado o tutela de alguna de éstas.
+3.ª Ser o haber sido defensor judicial o integrante de los organismos tutelares de cualquiera de las partes, o haber estado bajo el cuidado o tutela de alguna de éstas.
 
-4.º Estar o haber sido denunciado o acusado por alguna de las partes como responsable de algún delito o falta.
+4.ª Estar o haber sido denunciado o acusado por alguna de las partes como responsable de algún delito o falta, siempre que la denuncia o acusación hubieran dado lugar a la incoación de procedimiento penal y éste no hubiera terminado por sentencia absolutoria o auto de sobreseimiento.
 
-5.º Haber sido defensor o representante de alguna de las partes, emitido dictamen sobre el pleito o causa como Letrado, o intervenido en él como Fiscal, perito o testigo.
+5.ª Haber sido sancionado disciplinariamente en virtud de expediente incoado por denuncia o a iniciativa de alguna de las partes.
 
-6.º Ser o haber sido denunciante o acusador de cualquiera de las partes.
+6.ª Haber sido defensor o representante de alguna de las partes, emitido dictamen sobre el pleito o causa como letrado, o intervenido en él como fiscal, perito o testigo.
 
-7.º Tener pleito pendiente con alguna de éstas.
+7.ª Ser o haber sido denunciante o acusador de cualquiera de las partes.
 
-8.º Amistad íntima o enemistad manifiesta con cualquiera de los expresados en el artículo anterior.
+8.ª Tener pleito pendiente con alguna de éstas.
 
-9.º Tener interés directo o indirecto con el pleito o causa.
+9.ª Amistad íntima o enemistad manifiesta con cualquiera de las partes.
 
-10.º Haber actuado como instructor de la causa penal o haber resuelto el pleito o causa en anterior instancia.
+10.ª Tener interés directo o indirecto en el pleito o causa.
 
-11.º Ser una de las partes subordinado del Juez que deba resolver la contienda litigiosa.
+11.ª Haber participado en la instrucción de la causa penal o haber resuelto el pleito o causa en anterior instancia.
 
-12.º Haber ocupado el Juez o Magistrado cargo público con ocasión del cual haya podido formar criterio, en detrimento de la debida imparcialidad, sobre el objeto del pleito o causa, sobre las partes, sus representantes y asesores.
+12.ª Ser o haber sido una de las partes subordinado del juez que deba resolver la contienda litigiosa.
+
+13.ª Haber ocupado cargo público, desempeñado empleo o ejercido profesión con ocasión de los cuales haya participado directa o indirectamente en el asunto objeto del pleito o causa o en otro relacionado con el mismo.
+
+14.ª En los procesos en que sea parte la Administración pública, encontrarse el juez o magistrado con la autoridad o funcionario que hubiese dictado el acto o informado respecto del mismo o realizado el hecho por razón de los cuales se sigue el proceso en alguna de las circunstancias mencionadas en las causas 1.ª a 9.ª, 12.ª, 13.ª y 15.ª de este artículo.
+
+15.ª El vínculo matrimonial o situación de hecho asimilable, o el parentesco dentro del segundo grado de consanguinidad o afinidad, con el juez o magistrado que hubiera dictado resolución o practicado actuación a valorar por vía de recurso o en cualquier fase ulterior del proceso.
+
+16.ª Haber ocupado el juez o magistrado cargo público o administrativo con ocasión del cual haya podido tener conocimiento del objeto del litigio y formar criterio en detrimento de la debida imparcialidad.
+
+> Se modifica por el art. único.43 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se añade el número 12 por el art. 4.1 de la Ley Orgánica 5/1997, de 4 de diciembre. Ref. BOE-A-1997-26034
 

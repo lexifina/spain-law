@@ -1,5 +1,7 @@
-## Artículo trescientos sesenta y seis
+## Artículo 366.
 
-1. Los suspensos definitivamente deberán solicitar el reingreso al servicio activo en el plazo de diez días desde la finalización del período de suspensión. El transcurso de este plazo sin que el interesado solicite el reingreso motivará la declaración de excedencia voluntaria por interés particular, con efectos desde la fecha en que finalizara el período de suspensión.
+1. El juez o magistrado suspenso definitivamente deberá solicitar el reingreso al servicio activo con un mes de antelación a la finalización del período de suspensión. El reingreso producirá efectos económicos y administrativos desde la fecha de extinción de la responsabilidad penal o disciplinaria.
 
-2. Reglamentariamente se establecerán los documentos que deberán acompañarse y los informes que deban ser solicitados.
+2. Si no fuera solicitado el reingreso en el tiempo señalado en el apartado anterior, se le declarará en situación de excedencia voluntaria por interés particular, con efectos desde la fecha en que finalizare el período de suspensión.
+
+> Se modifica por el art. único.103 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

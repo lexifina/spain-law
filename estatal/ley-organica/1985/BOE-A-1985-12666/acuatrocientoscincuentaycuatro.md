@@ -1,7 +1,15 @@
-## Artículo cuatrocientos cincuenta y cuatro
+## Artículo 454.
 
-1. Bajo la denominación de personal al servicio de la Administración de Justicia se comprenden los Secretarios judiciales, los Médicos Forenses, los Oficiales, Auxiliares y Agentes judiciales, así como los miembros de los Cuerpos que puedan crearse, por ley, para el auxilio y colaboración con los Jueces y Tribunales.
+1. Los secretarios judiciales son responsables de la función de documentación que les es propia, así como de la formación de los autos y expedientes, dejando constancia de las resoluciones que dicten los jueces y magistrados, o ellos mismos cuando así lo autorice la ley.
 
-2. Los Cuerpos de funcionarios al servicio de la Administración de Justicia tendrán el carácter de Cuerpos nacionales. En ningún caso serán retribuidos por el sistema de arancel.
+2. Los secretarios judiciales ejercerán competencias de organización, gestión, inspección y dirección del personal en aspectos técnicos procesales, asegurando en todo caso la coordinación con los órganos de gobierno del Poder Judicial y con las comunidades autónomas con competencias transferidas.
+
+3. Garantizarán que el reparto de asuntos se realiza de conformidad con las normas que a tal efecto aprueben las Salas de Gobierno de los Tribunales de Justicia y serán responsables del buen funcionamiento del registro de recepción de documentos, expidiendo en su caso las certificaciones que en esta materia sean solicitadas por las partes.
+
+4. Facilitarán a las partes interesadas y a cuantos manifiesten y justifiquen un interés legítimo y directo, la información que soliciten sobre el estado de las actuaciones judiciales no declaradas secretas ni reservadas.
+
+5. Promoverán el empleo de los medios técnicos, audiovisuales e informáticos de documentación con que cuente la unidad donde prestan sus servicios.
+
+> Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

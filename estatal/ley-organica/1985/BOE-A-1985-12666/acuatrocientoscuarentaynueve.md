@@ -1,11 +1,9 @@
-## Artículo cuatrocientos cuarenta y nueve
+## Artículo 449.
 
-Los Abogados y Procuradores serán también corregidos disciplinariamente por su actuación ante los Juzgados y Tribunales:
+1. Los funcionarios que se encuentren en periodo de prácticas o desarrollando cursos selectivos a los que se refiere el artículo 485 serán nombrados funcionarios en prácticas y percibirán una retribución equivalente al sueldo y las pagas extraordinarias correspondientes al Cuerpo de Secretarios Judiciales de la tercera categoría.
 
-1. Cuando en su actuación forense faltaren oralmente, por escrito o por obra, al respeto debido a los Jueces y Tribunales, Fiscales, Abogados, Secretarios Judiciales o cualquier persona que intervenga o se relacione con el proceso.
+2. Los funcionarios en prácticas que ya estuviesen prestando servicios remunerados en la Administración de Justicia, durante el periodo de prácticas no podrán percibir remuneración alguna por el puesto de trabajo de origen y podrán optar por una remuneración de igual importe a la que les correspondía en el puesto de trabajo de origen o por la que les corresponda como funcionario en prácticas, de acuerdo con lo dispuesto en el apartado anterior.
 
-2. Cuando llamados al orden en las alegaciones orales no obedecieren reiteradamente al que presida el Tribunal.
+3. Si las prácticas se realizasen desempeñando un puesto de trabajo, el importe señalado en el apartado primero se incrementará en las retribuciones complementarias de dicho puesto.
 
-3. Cuando no comparecieren ante el Tribunal sin causa justificada una vez citados en forma.
-
-4. Cuando renuncien injustificadamente a la defensa o representación que ejerzan en un proceso, dentro de los siete días anteriores a la celebración del juicio o vistas señaladas.
+> Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -1,9 +1,13 @@
-## Artículo quinientos ocho
+## Artículo 508.
 
-1. Además de los funcionarios de los Cuerpos citados en los artículos precedentes, podrán prestar servicios en la Administración de Justicia los profesionales y expertos que sean permanente u ocasionalmente necesarios para auxiliarla.
+1. Los funcionarios de los Cuerpos al servicio de la Administración de Justicia serán declarados en la situación de servicios especiales, en iguales supuestos a los establecidos en la legislación aplicable para los funcionarios de la Administración General del Estado, salvo que de conformidad con lo establecido en esta ley les corresponda quedar en otra situación.
 
-2. Los profesionales referidos en el apartado anterior podrán constituir Cuerpos Técnicos o Escalas especializadas al servicio de la Administración de Justicia, y su selección, así como sus derechos, deberes e incompatibilidades específicas se determinarán reglamentariamente, sin perjuicio, para estas últimas, del régimen general establecido para el personal al servicio de las Administraciones Públicas.
+2. A los funcionarios en situación de servicios especiales se les computará el tiempo que permanezcan en tal situación, a efectos de ascensos, trienios y derechos pasivos, excepto para los funcionarios públicos que, habiendo ingresado al servicio de instituciones comunitarias europeas o al de entidades y organismos asimilados, ejerciten el derecho de transferencias establecido en el artículo 11.2 del anexo 8, del Estatuto de los Funcionarios de las Comunidades Europeas, sin perjuicio de los efectos económicos que puedan derivar de los ascensos y trienios consolidados hasta el momento del ejercicio de este derecho.
 
-3. También podrán ser contratados en régimen laboral por el Ministerio de Justicia.
+3. Los funcionarios declarados en esta situación tendrán derecho a reserva de un puesto de trabajo en la misma localidad, en condiciones y con retribuciones similares a las que disfrutaban al pasar a ella, siempre que hubieran pasado a dicha situación, desde la de servicio activo u otra que tuviera reconocido este mismo derecho. Si durante el tiempo de permanencia en la situación de servicios especiales participasen en concursos, la reincorporación se efectuará, con referencia a la localidad y condiciones del destino obtenidas en ellos.
 
-4. Cuando se trate de funcionarios de las Administraciones Públicas, éstos actuarán bajo la dependencia funcional del Tribunal o Juzgado respectivo.
+4. Los funcionarios en la situación de servicios especiales recibirán la retribución del puesto o cargo efectivo que desempeñen y no la que les corresponda como funcionarios, sin perjuicio del derecho a percibir los trienios que tuviesen reconocidos.
+
+5. En ningún caso podrán asesorar pericialmente a órganos jurisdiccionales mientras permanezcan en esta situación.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

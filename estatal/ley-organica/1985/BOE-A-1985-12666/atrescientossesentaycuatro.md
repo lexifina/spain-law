@@ -1,3 +1,5 @@
-## Artículo trescientos sesenta y cuatro
+## Artículo 364.
 
-El reingreso en el servicio activo de los excedentes forzosos se hará por orden de mayor tiempo en esta situación, sin necesidad de solicitud del interesado y con ocasión de la primera vacante para la que reúna las condiciones legales.
+Cuando la suspensión no sea declarada definitiva ni se acuerde la separación, el tiempo de duración de aquélla se computará como de servicio activo y se acordará la inmediata incorporación del suspenso a su plaza, con reconocimiento de todos los derechos económicos y demás que procedan desde la fecha en que la suspensión produjo efectos.
+
+> Se modifica por el art. único.101 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

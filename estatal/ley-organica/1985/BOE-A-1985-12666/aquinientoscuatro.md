@@ -1,7 +1,39 @@
-## Artículo quinientos cuatro
+## Artículo 504.
 
-1. Existirá un Instituto de Medicina Legal en las capitales de provincia en las que tenga su sede un Tribunal Superior de Justicia, así como en las capitales de provincia en las que tengan su sede Salas de Tribunal Superior de Justicia con jurisdicción en una o más provincias. En las restantes ciudades podrán existir Institutos de Medicina Legal, con el ámbito que reglamentariamente se establezca por el Gobierno a propuesta del Ministerio de Justicia o, en su caso, de la Comunidad Autónoma afectada con competencias en la materia.
+1. Por razón de matrimonio, los funcionarios tendrán derecho a una licencia de quince días de duración y se concederá con plenitud de derechos económicos.
 
-2. Tanto en los Institutos Regionales como en los Provinciales prestarán sus servicios los Médicos Forenses necesarios para cubrir las necesidades de todos los órganos judiciales de la respectiva demarcación. Además, en los Institutos Regionales prestarán servicios quienes ejercen docencia en los departamentos de Medicina Legal, en la forma en que reglamentariamente se determine.
+2. Podrán concederse licencias para formación y perfeccionamiento en los siguientes casos:
+
+a) Para la asistencia a cursos de formación incluidos en los planes de formación que se celebren anualmente, organizados por el Ministerio de Justicia, las comunidades autónomas, las organizaciones sindicales u otras entidades públicas o privadas.
+
+La duración y forma de disfrute estarán determinadas por la duración y programación de los cursos a realizar y no supondrán limitación alguna de haberes.
+
+b) Para la asistencia a cursos, congresos o jornadas, siempre que estén relacionadas con las funciones propias del cuerpo al que pertenece el funcionario y supongan completar su formación para el ejercicio de las mismas.
+
+Su concesión estará subordinada a las necesidades del servicio y a las disponibilidades presupuestarias y su duración vendrá determinada por la de los cursos, congresos o jornadas.
+
+Estas licencias darán derecho a percibir las retribuciones básicas y las prestaciones por hijo a cargo.
+
+3. Los funcionarios podrán disfrutar de licencias por asuntos propios sin derecho a retribución alguna, cuya duración acumulada no podrá, en ningún caso, exceder de tres meses cada dos años de servicios efectivos y su concesión estará subordinada a las necesidades del servicio.
+
+4. Quienes, tras la superación de las correspondientes pruebas selectivas hubiesen sido nombrados funcionarios en prácticas y ya estuviesen prestando servicios remunerados en la Administración de Justicia como funcionarios, tendrán derecho a una licencia extraordinaria durante el tiempo que se prolongue dicha situación y percibirán las retribuciones que para los funcionarios en prácticas establezca la normativa vigente.
+
+5. La enfermedad o accidente que impida el normal desempeño de las funciones, darán lugar a licencias por enfermedad.
+
+Sin perjuicio de la obligación de comunicar, en la forma que reglamentariamente se determine, la imposibilidad de asistencia al trabajo por razón de enfermedad durante la jornada laboral del día en que ésta se produzca, los funcionarios deberán solicitar de la autoridad competente, licencia por enfermedad en el cuarto día consecutivo a aquel en que se produjo la ausencia del puesto de trabajo.
+
+La licencia inicial se concederá por el tiempo que el facultativo haya considerado como previsible para la curación y, en ningún caso, por período superior a 15 días. Si el estado de enfermedad persistiera, la licencia inicial se prorrogará automáticamente en la forma que se determine por la autoridad competente para su concesión, quedando sin efecto si con anterioridad se produce la curación.
+
+Tanto la licencia inicial como las prórrogas, se concederán previa presentación del parte de baja o certificación médica que acredite la certeza de la enfermedad y la imposibilidad de asistir al trabajo.
+
+Se concederán licencias por enfermedad derivadas de un mismo proceso patológico, hasta un máximo de 12 meses prorrogables por otros seis, cuando se presuma que durante ellos pueda el trabajador ser dado de alta médica por curación. Transcurridos dichos plazos, se prorrogarán las licencias hasta el momento de la declaración de la jubilación por incapacidad permanente o del alta médica sin que, en ningún caso, puedan exceder de 30 meses desde la fecha de la solicitud de la licencia inicial.
+
+A estos efectos, se entenderá que existe nueva licencia por enfermedad cuando el proceso patológico sea diferente y, en todo caso, cuando las licencias se hayan interrumpido durante un mínimo de un año.
+
+Las licencias por enfermedad darán lugar a plenitud de derechos económicos durante los 6 primeros meses desde la fecha en que se solicitó la licencia inicial, siempre que las mismas se deriven del mismo proceso patológico y de forma continuada o con una interrupción de hasta un mes.
+
+En cualquier caso, el responsable de personal podrá solicitar únicamente de la correspondiente inspección médica, la revisión de un proceso para determinar que las causas que originaron la concesión de la licencia continúan subsistiendo.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifica el apartado 1 por el art. 21.5 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

@@ -1,3 +1,11 @@
-## Artículo doscientos cuarenta y tres
+## Artículo 243.
 
-Los actos de las partes que carezcan de los requisitos exigidos por la ley serán subsanables en los casos, condiciones y plazos previstos por las leyes procesales.
+1. La nulidad de un acto no implicará la de los sucesivos que fueren independientes de aquél ni la de aquéllos cuyo contenido hubiese permanecido invariado aun sin haberse cometido la infracción que dio lugar a la nulidad.
+
+2. La nulidad parcial de un acto no implicará la de las partes del mismo independientes de la declarada nula.
+
+3. El juzgado o tribunal cuidará de que puedan ser subsanados los defectos en que incurran los actos procesales de las partes, siempre que en dichos actos se hubiese manifestado la voluntad de cumplir los requisitos exigidos por la ley.
+
+4. Los actos de las partes que carezcan de los requisitos exigidos por la ley serán subsanables en los casos, condiciones y plazos previstos en las leyes procesales.
+
+> Se modifica por el art. único.60 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

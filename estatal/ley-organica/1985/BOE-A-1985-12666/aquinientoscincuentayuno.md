@@ -1,0 +1,9 @@
+## Artículo 551.
+
+1. La representación y defensa del Estado y de sus organismos autónomos, así como la representación y defensa de los órganos constitucionales, cuyas normas internas no establezcan un régimen especial propio, corresponderá a los Abogados del Estado integrados en el servicio jurídico del Estado. Los Abogados del Estado podrán representar y defender a los restantes organismos y entidades públicos, sociedades mercantiles estatales y fundaciones con participación estatal, en los términos contenidos en la Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica al Estado e Instituciones Públicas y disposiciones de desarrollo. La representación y defensa de las entidades gestoras y de la Tesorería General de la Seguridad Social corresponderá a los Letrados de la Administración de la Seguridad Social, sin perjuicio de que, en ambos casos, y de acuerdo con lo que reglamentariamente se determine, puedan ser encomendadas a abogado colegiado especialmente designado al efecto.
+
+2. La representación y defensa de las Cortes Generales, del Congreso de los Diputados, del Senado, de la Junta Electoral Central y de los órganos e instituciones vinculados o dependientes de aquéllas corresponderá a los Letrados de las Cortes Generales integrados en las secretarías generales respectivas.
+
+3. La representación y defensa de las comunidades autónomas y las de los entes locales corresponderán a los letrados que sirvan en los servicios jurídicos de dichas Administraciones públicas, salvo que designen abogado colegiado que les represente y defienda. Los Abogados del Estado podrán representar y defender a las comunidades autónomas y a los entes locales en los términos contenidos en la Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica al Estado e Instituciones Públicas y su normativa de desarrollo.
+
+> Se añade por el art. único.125 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -1,4 +1,4 @@
-## Artículo ciento siete
+## Artículo 107.
 
 El Consejo General del Poder Judicial tendrá competencias en las siguientes materias:
 
@@ -6,22 +6,26 @@ El Consejo General del Poder Judicial tendrá competencias en las siguientes mat
 
 2. Propuesta por mayoría de tres quintos para el nombramiento de miembros del Tribunal Constitucional cuando así proceda.
 
-3. Inspección de Juzgados y Tribunales.
+3. Inspección de juzgados y tribunales.
 
-4. Selección, formación y perfeccionamiento, provisión de destinos, ascensos, situaciones administrativas y régimen disciplinario de Jueces y Magistrados.
+4. Selección, formación y perfeccionamiento, provisión de destinos, ascensos, situaciones administrativas y régimen disciplinario de jueces y magistrados.
 
-5. Nombramiento mediante Orden de los Jueces y presentación a Real Decreto, refrendado por el Ministro de Justicia, de los nombramientos de Magistrados del Tribunal Supremo, Presidentes y Magistrados.
+5. Nombramiento mediante orden de los jueces y presentación a real decreto, refrendado por el Ministro de Justicia, de los nombramientos de magistrados del Tribunal Supremo, Presidentes y magistrados.
 
-6. Nombramiento de Secretario general y miembros de los Gabinetes o Servicios dependientes del mismo.
+6. Nombramiento de Secretario General y miembros de los gabinetes o servicios dependientes del mismo.
 
-7. Ejercicio de las competencias relativas al centro de selección y formación de Jueces y Magistrados que la Ley le atribuye.
+7. Ejercicio de las competencias relativas a la Escuela Judicial que la ley le atribuye.
 
 8. Elaborar, dirigir la ejecución y controlar el cumplimiento del presupuesto del Consejo.
 
-9. Potestad reglamentaria en los terminos previstos en el articulo 110 de esta ley.
+9. Potestad reglamentaria en los términos previstos en el artículo 110 de esta ley.
 
-10. Publicación oficial de la colección de jurisprudencia del Tribunal Supremo.
+10. Publicación oficial de las sentencias y otras resoluciones que se determinen del Tribunal Supremo y del resto de órganos judiciales.
+
+A tal efecto el Consejo General del Poder Judicial, previo informe de las Administraciones competentes, establecerá reglamentariamente el modo en que habrán de elaborarse los libros electrónicos de sentencias, la recopilación de las mismas, su tratamiento, difusión y certificación, para velar por su integridad, autenticidad y acceso, así como para asegurar el cumplimiento de la legislación en materia de protección de datos personales.
 
 11. Aquellas otras que le atribuyan las leyes.
+
+> Se modifica por el art. único.14 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifican los apartados 4, 7 y 8 por el art. 1.1 y 11.1 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

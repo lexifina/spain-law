@@ -1,5 +1,17 @@
-## Artículo doscientos veintitrés
+## Artículo 223.
 
-1. La recusación deberá proponerse tan luego como se tenga conocimiento de la causa en que se funde. Si dicho conocimiento fuere anterior al pleito, habrá de proponerse al inicio del mismo, pues en otro caso no se admitirá a tramite.
+1. La recusación deberá proponerse tan pronto como se tenga conocimiento de la causa en que se funde, pues, en otro caso, no se admitirá a trámite.
 
-2. La recusación se propondrá por escrito firmado por el recusante, quien deberá ratificarse a presencia judicial. Cuando el escrito lo firme su Procurador, deberá acompañar poder especial para la recusación de que se trate. El escrito en que se proponga la recusación deberá ir firmado por Letrado cuando su intervención fuere necesaria en el pleito.
+Concretamente, se inadmitirán las recusaciones:
+
+1.º Cuando no se propongan en el plazo de 10 días desde la notificación de la primera resolución por la que se conozca la identidad del juez o magistrado a recusar, si el conocimiento de la concurrencia de la causa de recusación fuese anterior a aquél.
+
+2.º Cuando se propusieren, pendiente ya un proceso, si la causa de recusación se conociese con anterioridad al momento procesal en que la recusación se proponga.
+
+2. La recusación se propondrá por escrito que deberá expresar concreta y claramente la causa legal y los motivos en que se funde, acompañando un principio de prueba sobre los mismos. Este escrito estará firmado por el abogado y por procurador si intervinieran en el pleito, y por el recusante, o por alguien a su ruego, si no supiera firmar. En todo caso, el procurador deberá acompañar poder especial para la recusación de que se trate. Si no intervinieren procurador y abogado, el recusante habrá de ratificar la recusación ante el secretario del tribunal de que se trate.
+
+3. Formulada la recusación, se dará traslado a las demás partes del proceso para que, en el plazo común de tres días, manifiesten si se adhieren o se oponen a la causa de recusación propuesta o si, en aquel momento, conocen alguna otra causa de recusación. La parte que no proponga recusación en dicho plazo, no podrá hacerlo con posterioridad, salvo que acredite cumplidamente que, en aquel momento, no conocía la nueva causa de recusación.
+
+El día hábil siguiente a la finalización del plazo previsto en el párrafo anterior, el recusado habrá de pronunciarse sobre si admite o no la causa o causas de recusación formuladas.
+
+> Se modifica por el art. único.46 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -1,7 +1,15 @@
-## Artículo doscientos veintiuno
+## Artículo 221.
 
-1. El Juez o Magistrado en quien concurra alguna de las causas expresadas en los artículos anteriores se abstendrá del conocimiento del asunto sin esperar a que se le recuse.
+1. El magistrado o juez comunicará la abstención, respectivamente, a la Sección o Sala de la que forme parte o al órgano judicial al que corresponda la competencia funcional para conocer de los recursos contra las sentencias que el juez dicte. La comunicación de la abstención se hará por escrito razonado tan pronto como sea advertida la causa que la motive.
 
-2. La abstención será motivada y se comunicará a la Sala de Gobierno del Tribunal respectivo. Cuando el que se abstenga forme parte de un órgano colegiado, la comunicación tendrá lugar por conducto del Presidente de la Sala o Sección.
+El órgano competente para resolver sobre la abstención resolverá en el plazo de 10 días.
 
-3. Si la Sala de Gobierno no estimare justificada la abstención, ordenara al Juez o Magistrado que continúe en el conocimiento del asunto, sin perjuicio del derecho de las partes a hacer valer la recusación y de la imposición al Juez o Magistrado, si hubiera suficiente motivo para ello, de la corrección disciplinaria que proceda, elevándolo en este caso a conocimiento del Consejo General del Poder Judicial para que se haga constar en el expediente personal del Juez o Magistrado a los efectos que corresponda.
+2. La abstención suspenderá el curso del proceso hasta que se resuelva sobre ella o transcurra el plazo previsto para su resolución.
+
+3. Si la Sección o Sala o el órgano judicial a que se refiere el apartado 1 de este artículo no estimare justificada la abstención, ordenará al juez o magistrado que continúe el conocimiento del asunto, sin perjuicio del derecho de las partes a hacer valer la recusación. Recibida la orden, el juez o magistrado dictará la providencia poniendo fin a la suspensión del proceso.
+
+4. Si se estimare justificada la abstención por el órgano competente según el apartado 1, el abstenido dictará auto apartándose definitivamente del asunto y ordenando remitir las actuaciones al que deba sustituirle. Cuando el que se abstenga forme parte de un órgano colegiado, el auto lo dictará la Sala o Sección a que aquél pertenezca. El auto que se pronuncie sobre la abstención no será susceptible de recurso alguno.
+
+5. En todo caso, la suspensión del proceso terminará cuando el sustituto reciba las actuaciones o se integre en la Sala o Sección a que pertenecía el abstenido.
+
+> Se modifica por el art. único.44 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

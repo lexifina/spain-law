@@ -1,9 +1,23 @@
-## Artículo cuatrocientos setenta y ocho
+## Artículo 478.
 
-1. Se reservará en el Cuerpo de Secretarios Judiciales una de cada seis vacantes de la tercera categoría al personal del Cuerpo de Oficiales que esté en posesión del título de licenciado en Derecho y lleve, al menos, cinco años de servicios efectivos en aquél.
+Corresponde al Cuerpo de Auxilio Judicial con carácter general, bajo el principio de jerarquía y de acuerdo con lo establecido en las relaciones de puestos de trabajo, la realización de cuantas tareas tengan carácter de auxilio a la actividad de los órganos judiciales. Asimismo, y entre otras funciones, le corresponderá:
 
-2. La selección de los aspirantes por este turno se hará por concurso, con arreglo a baremo de méritos preestablecido, en función de su historial académico y profesional, y de su antigüedad.
+a) La práctica de los actos de comunicación que consistan en notificaciones, citaciones, emplazamientos y requerimientos, en la forma prevista en las leyes procesales, a cuyo efecto ostentará capacidad de certificación y dispondrá de las credenciales necesarias.
 
-3. Los seleccionados tendrán que superar un curso en el Centro de Estudios Judiciales, en la forma que reglamentariamente se establezca.
+b) Como agente de la autoridad, proceder a la ejecución de embargos, lanzamientos y demás actos cuya naturaleza lo requiera, con el carácter y representación que le atribuyan las leyes.
 
-4. Las vacantes que no se cubran por este turno acrecerán al turno general.
+c) Actuar como Policía Judicial con el carácter de agente de la autoridad, sin perjuicio de las funciones que, en la averiguación de los delitos y en el descubrimiento y aseguramiento de los delincuentes, competen a los miembros de las Fuerzas y Cuerpos de Seguridad.
+
+d) Realizar funciones de archivo de autos y expedientes judiciales, bajo la supervisión del secretario judicial.
+
+e) Velar por las condiciones de utilización de las salas de vistas y mantener el orden en las mismas.
+
+f) Comprobar que los medios técnicos necesarios para el proceso judicial se encuentren en condiciones de utilización, requiriendo, en su caso, la presencia de los servicios técnicos que correspondan, para permitir el adecuado funcionamiento de dichos dispositivos, poniendo en conocimiento del secretario judicial las anomalías detectadas que pudieran impedir la celebración de actos procesales.
+
+g) El desempeño de aquellas jefaturas que en las relaciones de puestos de trabajo de la Oficina judicial estén asignadas a este cuerpo, en la forma y condiciones que en las mismas se establezcan.
+
+h) La posibilidad de ocupar puestos de las unidades administrativas, siempre que se reúnan los requisitos y conocimientos exigidos para su desempeño en las relaciones de puestos de trabajo en las mismas.
+
+i) La realización de todas aquellas funciones que legal o reglamentariamente se establezcan y de cualesquiera otras funciones de naturaleza análoga a todas las anteriores que, inherentes al puesto de trabajo que se desempeñe, sean encomendadas por los superiores jerárquicos, orgánicos o funcionales, en el ejercicio de sus competencias.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

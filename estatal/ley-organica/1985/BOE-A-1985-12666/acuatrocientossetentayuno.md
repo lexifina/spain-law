@@ -1,3 +1,7 @@
-## Artículo cuatrocientos setenta y uno
+## Artículo 471.
 
-En los concursos para la provisión de plazas en el territorio de aquellas Comunidades Autónomas que tengan una lengua oficial propia, se valorará como mérito el conocimiento de ésta en los términos que se establecerán reglamentariamente.
+1. Las competencias respecto de todo el personal al servicio de la Administración de Justicia al que se refiere el artículo anterior, corresponden en los términos establecidos en esta ley, al Ministerio de Justicia o, en su caso, a las comunidades autónomas con competencias asumidas, en todas las materias relativas a su estatuto y régimen jurídico, comprendidas la selección, formación inicial y continuada, provisión de destinos, ascensos, situaciones administrativas, jornada laboral, horario de trabajo y régimen disciplinario.
+
+2. En los mismos términos, el Gobierno o, en su caso, las comunidades autónomas con competencias en la materia, aprobarán los reglamentos que exija el desarrollo de este libro.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

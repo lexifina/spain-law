@@ -1,11 +1,19 @@
-## Artículo cuatrocientos sesenta y cuatro
+## Artículo 464.
 
-1. Serán corregidos disciplinariamente los funcionarios que integran al servicio de la Administración de Justicia, si incurrieren en alguna de las faltas previstas en esta Ley para los Jueces y Magistrados, en cuanto les fueren aplicables o en los supuestos establecidos para los funcionarios de la Administración Civil del Estado, en su caso.
+1. Habrá un Secretario de Gobierno en el Tribunal Supremo, en la Audiencia Nacional, y en cada Tribunal Superior de Justicia, así como en las ciudades de Ceuta y Melilla, elegido entre miembros integrantes del Cuerpo de Secretarios Judiciales que tengan consolidada, al menos, la categoría segunda con un mínimo de 10 años de antigüedad, que ejercerá además las funciones de Secretario de la Sala de Gobierno del respectivo Tribunal.
 
-2. Podrán imponérseles las sanciones previstas para Jueces y Magistrados, por el procedimiento establecido para las mismas. El instructor será un Juez, Magistrado, Secretario o, en su caso, un miembro del Ministerio Fiscal; en ningún caso podrá ser el Instructor el titular del Juzgado o Magistrado de la Sala en la que preste servicios el funcionario expedientado. El Instructor designará un Secretario de la misma o superior categoría que el sujeto a expediente.
+2. El Secretario de Gobierno ostentará, como superior jerárquico, la dirección de los secretarios judiciales que prestan sus servicios en las oficinas judiciales dependientes de dichos Tribunales y en las Ciudades de Ceuta y Melilla. Para ello ejercerá las competencias que esta ley orgánica les reconoce, así como todas aquéllas que reglamentariamente se establezcan.
 
-3. La sanción de advertencia se impondrá por el respectivo Juez o Presidente; las de reprensión, multa y suspensión, por la correspondiente Sala de Gobierno del Tribunal Superior de Justicia; la de traslado forzoso, por el Ministro de Justicia, y la de separación, por el Consejo de Ministros.
+3. Será nombrado y removido libremente por el Ministerio de Justicia. Dicho nombramiento se realizará a propuesta del órgano competente de las comunidades autónomas cuando éstas tuvieren competencias asumidas en materia de Administración de Justicia, que también podrán proponer su cese.
 
-4. Las sanciones, con exclusión de la de advertencia, contra la que sólo cabrá súplica ante el propio órgano que la dictó, serán susceptibles de recurso para ante el Ministro de Justicia cuando hubieran sido impuestas por las Salas de Gobierno del Tribunal Superior de Justicia. Las resoluciones del Ministerio de Justicia resolviendo el recurso anterior o, en su caso, imponiendo el traslado forzoso, así como las del Consejo de Ministros en todo caso, agotarán la vía administrativa.
+En todo caso para su nombramiento se recabará informe de la Sala de Gobierno del Tribunal respectivo así como del Consejo del Secretariado. Para el de las Ciudades de Ceuta y Melilla el informe será emitido por la Sala de Gobierno del Tribunal Superior de Justicia de Andalucía.
 
-5. Las resoluciones sancionadoras que decidan definitivamente en vía gubernativa serán recurribles ante la jurisdicción contencioso-administrativa, de conformidad con lo dispuesto en la ley reguladora de la misma.
+Para el nombramiento del Secretario de Gobierno del Tribunal Supremo y el de la Audiencia Nacional se requerirá informe favorable de sus respectivas Salas de Gobierno.
+
+4. En caso de ausencia, enfermedad, suspensión o vacante del Secretario de Gobierno del Tribunal Supremo o de la Audiencia Nacional así como de las Ciudades de Ceuta y Melilla, asumirá sus funciones el Secretario de mayor antigüedad escalafonal. En estos mismos supuestos y respecto al Secretario de Gobierno de los Tribunales Superiores de Justicia, asumirá sus funciones el Secretario Coordinador de la provincia en donde tenga su sede el respectivo tribunal o, en su defecto, el Secretario de mayor antigüedad escalafonal.
+
+5. Los Secretarios de Gobierno que cesaren en su cargo quedarán adscritos al tribunal en que cesen hasta la consolidación de la plaza correspondiente, o a órgano de su categoría de la ciudad de procedencia, pudiendo optar con carácter preferente, durante los dos años siguientes, a cualquier plaza de su categoría de las que deban proveerse por concurso voluntario.
+
+6. Las Administraciones públicas competentes, en sus respectivos territorios, dotarán a los Secretarios de Gobierno, de los medios materiales y recursos humanos necesarios para el ejercicio de las funciones que tienen atribuidas.
+
+> Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

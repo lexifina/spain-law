@@ -1,13 +1,23 @@
-## Artículo cuatrocientos ochenta y tres
+## Artículo 483.
 
-Los Secretarios serán sustituidos con sujeción a la siguientes reglas:
+1. De acuerdo con los principios contenidos en el artículo 103.1 de la Constitución Española, el personal funcionario de carrera será seleccionado con criterios de objetividad y con arreglo a los principios de igualdad, mérito, capacidad y también de publicidad.
 
-1.ª El Secretario de Gobierno del Tribunal Supremo, por el Vicesecretario y, en su defecto, por el Secretario de Sala más antiguo.
+2. El contenido del temario, así como de las pruebas a realizar serán únicos para cada cuerpo en todo el territorio del Estado, salvo las pruebas que puedan establecerse para la acreditación del conocimiento de la lengua y del derecho civil, foral o especial, propios de las comunidades autónomas con competencias asumidas, que tendrán carácter optativo y, en ningún caso, serán eliminatorias, teniéndose en cuenta la puntuación obtenida conforme al baremo que se establezca, a los solos efectos de adjudicación de destino dentro de la comunidad autónoma correspondiente.
 
-2. Los Secretarios de Gobierno de los restantes Tribunales, por turno entre los Secretarios de Sala.
+3. Las pruebas selectivas, se convocarán y resolverán por el Ministerio de Justicia y se realizarán, de forma territorializada en los distintos ámbitos en los que se hayan agrupado las vacantes. Las convocatorias y sus bases, que serán únicas para cada cuerpo, se ajustarán, en todo caso, a lo dispuesto en esta ley y en el real decreto por el que se apruebe el "Reglamento General de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional de los funcionarios al servicio de la Administración de Justicia" y se publicarán en el "Boletín Oficial del Estado" y en los "Boletines Oficiales" de las comunidades autónomas, de forma simultánea. Si dicha simultaneidad no fuese posible, los términos y plazos establecidos en la convocatoria, se contarán, en todo caso, a partir de la publicación en el "Boletín Oficial del Estado".
 
-3.ª Los Secretarios de Sala y los de las Audiencias Provinciales por los demás de la propia Sala o Audiencia y, en su defecto, por los de las restantes Salas o, por un Oficial, con preferencia para los licenciados en Derecho.
+4. Las bases de la convocatoria serán elaboradas por la Comisión de Selección de Personal y aprobadas por el Ministerio de Justicia, previa negociación con las organizaciones sindicales más representativas.
 
-4.ª Los Secretarios de los Juzgados se sustituirán entre sí dentro del mismo orden jurisdiccional, y cuando no fuere esto posible o lo aconsejaren las necesidades del servicio, sustituirá al Secretario un Oficial, con preferencia de aquel que sea licenciado en Derecho.
+Las citadas bases, que vincularán a la Administración y a los tribunales que han de juzgar las pruebas selectivas, sólo podrán ser modificadas con estricta sujeción a las normas de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-5.ª La designación de Oficial sustituto del Secretario, cuando hubiere más de uno en la Secretaría, corresponderá al Juez o Presidente, a propuesta, en su caso, del titular de ésta.
+5. En las convocatorias se determinará el número de vacantes y el ámbito territorial por el que se ofertan. Las vacantes ubicadas en el territorio de una comunidad autónoma con competencias asumidas, se ofertarán por el ámbito territorial de la comunidad autónoma de que se trate, salvo renuncia expresa de las mismas, en cuyo caso serán objeto de agrupación.
+
+Asimismo, cuando el número de plazas o el mejor desarrollo de los procesos selectivos lo aconseje se podrán agrupar las vacantes correspondientes a uno o varios territorios.
+
+Los aspirantes podrán solicitar exclusivamente su participación por uno de los ámbitos territoriales que se expresen en la convocatoria y de resultar aprobados, serán destinados obligatoriamente, a alguna de las vacantes radicadas en el mismo.
+
+En ningún caso podrá declararse superado el proceso selectivo en cada ámbito a un número mayor de aspirantes que el de plazas objeto de la convocatoria, siendo nulas de pleno derecho las propuestas de aprobados que contravengan esta limitación.
+
+6. En los procesos selectivos serán admitidas las personas con minusvalías en igualdad de condiciones con los demás aspirantes. Las convocatorias no establecerán exclusiones por limitaciones psíquicas o físicas, sin perjuicio de las incompatibilidades con el desempeño de las tareas o funciones correspondientes. Para la realización de las pruebas se establecerán para las personas con minusvalía que lo soliciten las adaptaciones posibles en cuanto a tiempo y medios.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

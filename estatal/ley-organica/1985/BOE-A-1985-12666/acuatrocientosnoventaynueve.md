@@ -1,7 +1,19 @@
-## Artículo cuatrocientos noventa y nueve
+## Artículo 499.
 
-1. Los aspirantes al Cuerpo de Médicos Forenses deberán ser Licenciados en Medicina. Su ingreso se efectuará mediante los sistemas oposición o concurso-oposición, en los que se garanticen los principios de publicidad, igualdad, mérito y capacidad.
+1. La abstención del funcionario se comunicará por escrito motivado a quien sea competente para dictar la resolución que ponga término al pleito o causa en la respectiva instancia. En caso de ser estimada la abstención, será reemplazado en el proceso por quien legalmente deba sustituirle. De ser desestimada, habrá de continuar actuando en el asunto.
 
-2. El Centro de Estudios Judiciales con el asesoramiento y cooperación de los organismos competentes, elaborará los programas de selección y perfeccionamiento.
+2. Su recusación sólo será posible por las causas legalmente previstas y por los trámites previstos para la recusación de los secretarios judiciales con las siguientes excepciones:
+
+a) El incidente gubernativo se instruirá por el secretario del juzgado del que jerárquicamente dependa, y lo decidirá quien sea competente para dictar la resolución que ponga término al pleito o causa en la respectiva instancia.
+
+b) Si, a la vista del escrito de recusación, el secretario judicial estimare que la causa no es de las tipificadas en la ley, inadmitirá en el acto la petición expresando las razones en que se funde tal inadmisión. Contra esta resolución no se dará recurso alguno.
+
+c) Admitido a trámite el escrito de recusación, y en el día siguiente a su recepción, el recusado manifestará al secretario judicial si se da o no la causa alegada. Cuando reconozca como cierta la causa de recusación, el secretario judicial acordará reemplazar al recusado por quien legalmente le deba sustituir. Contra esta resolución no cabrá recurso alguno.
+
+d) Si el recusado niega la certeza de la causa alegada como fundamento de la recusación, el secretario judicial, oído lo que el recusado alegue, dentro del quinto día y practicadas las comprobaciones que el recusado proponga y sean pertinentes o las que él mismo considere necesarias, remitirá lo actuado a quien haya de resolver para que decida el incidente.
+
+3. A los funcionarios del Cuerpo de Médicos Forenses, les serán de aplicación las prescripciones que establezcan las normas procesales respecto a la recusación de peritos.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifica el apartado 1 por el art. 2.5 de la Ley Orgánica 7/1992, de 20 de noviembre. Ref. BOE-A-1992-25817

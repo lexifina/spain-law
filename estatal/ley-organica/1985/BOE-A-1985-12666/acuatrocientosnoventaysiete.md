@@ -1,10 +1,32 @@
-## Artículo cuatrocientos noventa y siete
+## Artículo 497.
 
-1. Los Médicos Forenses constituyen un Cuerpo titulado superior al servicio de la Administración de Justicia.
+Los funcionarios de la Administración de Justicia están obligados a:
 
-2. En el curso de las actuaciones procesales en las que tomen parte como consecuencia de las funciones de asistencia técnica que les sean encomendadas, estarán a las órdenes de los Jueces, Magistrados, Fiscales y Encargados del Registro Civil, en los términos que reglamentariamente se establezcan, sin perjuicio de su dependencia, del Director del Instituto de Medicina Legal correspondiente.
+a) Respetar la Constitución y el resto del ordenamiento jurídico.
 
-3. Además de lo establecido en la legislación sobre incompatibilidades del personal al servicio de las Administraciones Públicas, será, en todo caso, incompatible con la función de médico de empresa o de entidades aseguradoras, con cargos públicos electivos, y no podrán desarrollar actividades que menoscaben el ejercicio de sus funciones.
+b) Ejercer sus tareas, funciones o cargo con lealtad e imparcialidad y servir con objetividad los intereses generales.
+
+c) Cumplir con diligencia las instrucciones profesionales recibidas de su superior jerárquico en el ámbito de sus competencias.
+
+d) Realizar con la debida aplicación las funciones o tareas propias de su puesto de trabajo y aquellas otras que, relacionadas con las anteriores, les encomienden sus jefes o superiores para el cumplimiento de los objetivos de la unidad.
+
+e) Cumplir el régimen de jornada y horario que se establezca.
+
+f) Mantener sigilo de los asuntos que conozcan por razón de sus cargos o funciones y no hacer uso indebido de la información obtenida así como guardar secreto de las materias clasificadas u otras cuya difusión esté prohibida legalmente.
+
+g) Dar cuenta a las autoridades competentes de aquellas órdenes que, a su juicio, fuesen contrarias a la legalidad o constitutivas de delito.
+
+h) Cumplir el régimen de incompatibilidades y prohibiciones.
+
+i) Tratar con atención y respeto a los ciudadanos.
+
+j) Dar a conocer su identidad y categoría a los interesados que lo requieran, salvo cuando ello no fuera posible por razones de seguridad.
+
+k) Velar por la conservación y uso correcto de los locales, material, documentos e información a su cargo, no utilizando los medios propiedad de la Administración en provecho propio ni ejercer sus cometidos de forma que puedan beneficiar ilegítimamente a sí mismos o a otras personas.
+
+l) Tratar con corrección y consideración a los superiores jerárquicos, compañeros y subordinados.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifica el apartado 2 por el art. 21.1 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
 

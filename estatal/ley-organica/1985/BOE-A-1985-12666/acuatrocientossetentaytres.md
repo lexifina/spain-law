@@ -1,11 +1,9 @@
-## Artículo cuatrocientos setenta y tres
+## Artículo 473.
 
-1. Los Secretarios Judiciales ejercen la fe pública y asisten a los Jueces, Tribunales y Secciones de Menores de las Fiscalías, en el ejercicio de sus funciones, de conformidad con lo establecido en esta Ley y restante legislación vigente.
+1. Podrán prestar servicios en la Administración de Justicia funcionarios de otras Administraciones que, con carácter ocasional o permanente, sean necesarios para auxiliarla en el desarrollo de actividades concretas que no sean las propias de los cuerpos de funcionarios a que se refiere este libro y que requieran conocimientos técnicos o especializados.
 
-2. Les corresponde ostentar la jefatura directa del personal de la Secretaría de que son titulares, sin perjuicio de la superior dirección de Jueces y Presidentes, y con respeto a las potestades de organización atribuidas a los Fiscales-Jefes.
+2. Asimismo, cuando no existan cuerpos o escalas de funcionarios cuyos miembros tengan la preparación técnica necesaria para el desempeño de determinadas actividades específicas o para la realización de actividades propias de oficios, así como de carácter instrumental, correspondientes a áreas de mantenimiento y conservación de edificios, equipos o instalaciones u otras análogas, podrá prestar servicios retribuidos en la Administración de Justicia personal contratado en régimen laboral.
 
-3. A los Secretarios corresponde la guarda y deposito de la documentación, su archivo, y la conservación de los bienes y objetos afectos a los expedientes judiciales, así como responden del debido depósito, en las instituciones legales, de cuantas cantidades y valores, consignaciones y fianzas se produzcan.
-
-4. Igualmente estará a su cargo la confección de la estadística judicial.
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifican los apartados 1 y 2 por el art. 7.1 y 2 de la Ley Orgánica 9/2000, de 22 de diciembre. Ref. BOE-A-2000-23661

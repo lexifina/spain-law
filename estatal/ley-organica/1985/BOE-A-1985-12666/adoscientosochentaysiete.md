@@ -1,3 +1,5 @@
 ## Artículo doscientos ochenta y siete
 
-Corresponderá a los Secretarios la llevanza de los libros y el archivo y conservación de las actuaciones, salvo que en ésta u otra ley se encomienden a los Jueces o Presidentes.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.b) de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -1,7 +1,11 @@
-## Artículo trescientos cincuenta y ocho
+## Artículo 358.
 
-1. Los Jueces y Magistrados en excedencia voluntaria por interés particular, por hallarse en servicio activo en otro Cuerpo o Escala de las Administraciones Públicas o de la Carrera Fiscal por ser miembros de las Cámaras y Asambleas Legislativas o de Corporaciones locales, o por desempeñar cargos políticos o de confianza distintos de los relacionados en el artículo 352, no devengarán retribuciones ni les será computado el tiempo que han permanecido en tal situación a efectos de ascensos o antigüedad.
+1. La excedencia voluntaria, en sus distintas modalidades, no produce reserva de plaza. El juez o magistrado, mientras se encuentre en ella, no devengará retribuciones ni le será computado el tiempo que haya permanecido en tal situación a efectos de ascensos, antigüedad y derechos pasivos, salvo lo dispuesto en el apartado 2 de este artículo y lo que establece la normativa de clases pasivas.
 
-2. Excepcionalmente, se computará, a efectos de ascensos y antigüedad, el tiempo en que los Jueces y Magistrados se encuentren en excedencia voluntaria por atender al cuidado de sus hijos.
+2. Se exceptúan de lo previsto en el apartado anterior, las excedencias voluntarias para el cuidado de los hijos y para atender al cuidado de un familiar a que se refieren los párrafos d) y e) del artículo 356, en las que el período de permanencia en dichas situaciones será computable a efectos de trienios y derechos pasivos. Durante el primer año, se tendrá derecho a la reserva de la plaza en la que ejerciesen sus funciones y al cómputo de la antigüedad. Transcurrido este período, dicha reserva lo será a un puesto en la misma provincia y de igual categoría, debiendo solicitar, en el mes anterior a la finalización del período máximo de permanencia en la misma, el reingreso al servicio activo ; de no hacerlo, será declarado de oficio en la situación de excedencia voluntaria por interés particular.
+
+3. Los que se encuentren en la situación de excedencia a la que se refiere el párrafo f) del artículo 356, en caso de que soliciten el reingreso al servicio activo, quedarán adscritos al Presidente del Tribunal Superior de Justicia de la comunidad autónoma de su último destino, teniendo preferencia para obtener puesto de su categoría en la provincia o, en su defecto, Comunidad Autónoma de dicho último destino.
+
+> Se modifica por el art. único.95 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifica por el art. 2 de la Ley Orgánica 5/1997, de 4 de diciembre. Ref. BOE-A-1997-26034

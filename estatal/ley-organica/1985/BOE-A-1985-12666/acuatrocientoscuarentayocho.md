@@ -1,3 +1,15 @@
-## Artículo cuatrocientos cuarenta y ocho
+## Artículo 448.
 
-Los Abogados y Procuradores que intervengan en los pleitos y causas, cuando incumplan las obligaciones que les impone esta ley o las leyes procesales, podrán ser corregidos a tenor de lo dispuesto en este título, siempre que el hecho no constituya delito.
+1. La cuantía del sueldo se establecerá para cada una de las categorías en que se estructura el Cuerpo de Secretarios Judiciales y la antigüedad se remunerará mediante un incremento sucesivo del cinco por ciento del sueldo inicial correspondiente a la categoría de ingreso por cada tres años de servicio. En todo caso se respetará la cuantía de los trienios reconocida a los secretarios judiciales pertenecientes al extinguido Cuerpo de los Secretarios de Magistratura de Trabajo. Los secretarios judiciales tendrán derecho a percibir dos pagas extraordinarias al año por importe, cada una de ellas, de una mensualidad de sueldo y antigüedad y, en su caso, una cantidad proporcional del complemento general de puesto, en los términos que se fijen por ley para la Administración de Justicia, que se harán efectivas en los meses de junio y diciembre, siempre que los perceptores estuvieran en servicio activo o con derecho a devengo del sueldo el día primero de los meses indicados.
+
+2. La cuantía de las retribuciones básicas y de los complementos generales de puesto vendrá determinada en la Ley de Presupuestos Generales del Estado para cada año.
+
+3. Por el Gobierno, mediante real decreto, a propuesta conjunta de los Ministros de Justicia y Hacienda, se determinarán los diferentes tipos de puestos adscritos a los secretarios judiciales a efectos del complemento general de puesto, la asignación inicial de los complementos específicos que correspondan y las retribuciones que procedan por sustituciones que impliquen el desempeño conjunto de otra función.
+
+4. La concreción de la cuantía individual del complemento de productividad y la determinación del número de funcionarios con derecho a su percepción, se llevarán a cabo mediante resolución del Ministerio de Justicia, previa negociación con las organizaciones sindicales más representativas.
+
+5. Mediante orden ministerial, a propuesta conjunta de los Ministros de Justicia y de Hacienda, previa negociación con las organizaciones sindicales, se procederá a la determinación de la remuneración por servicio de guardia.
+
+6. La asignación individual de la cuantía de las gratificaciones y la fijación de los criterios para su percepción se determinarán por resolución del Ministerio de Justicia.
+
+> Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

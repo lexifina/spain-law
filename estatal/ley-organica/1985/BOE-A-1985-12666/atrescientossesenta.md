@@ -1,3 +1,5 @@
-## Artículo trescientos sesenta
+## Artículo 360.
 
-El suspenso provisional tendrá derecho a percibir en esta situación el 75 por 100 de las retribuciones básicas y la totalidad de las retribuciones por razón familiar. No se les acreditará haber alguno en caso de incomparecencia o rebeldía.
+Una vez reincorporado al servicio activo el juez o magistrado en situación de excedencia voluntaria por la causa prevista en el párrafo f) del artículo 356, no podrá acceder, durante los cinco años siguientes, a puesto de la carrera judicial que no sea de los que se proveen por estricta antigüedad.
+
+> Se modifica por el art. único.97 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

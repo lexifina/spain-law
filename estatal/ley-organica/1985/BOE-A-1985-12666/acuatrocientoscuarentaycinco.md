@@ -1,17 +1,9 @@
-## Artículo cuatrocientos cuarenta y cinco
+## Artículo 445.
 
-1. Corresponden específicamente a las unidades de Policía Judicial las siguientes funciones:
+1. Las situaciones administrativas en que se puedan hallar los secretarios judiciales, así como su jubilación serán iguales y procederá su declaración en los supuestos y con los efectos establecidos en esta ley orgánica para jueces y magistrados.
 
-a) La averiguación de los responsables y circunstancias de los hechos delictivos y la detención de los primeros, dando cuenta seguidamente a la autoridad judicial y fiscal, conforme a lo dispuesto en las leyes.
+2. Estarán sujetos a las mismas incapacidades, incompatibilidades y prohibiciones con excepción de las previstas en el artículo 395.
 
-b) El auxilio a la autoridad judicial y fiscal en cuantas actuaciones deba realizar fuera de su sede y requieran la presencia policial.
-
-c) La realización material de las actuaciones que exijan el ejercicio de la coerción y ordenare la autoridad judicial o fiscal.
-
-d) La garantía del cumplimiento de las órdenes y resoluciones de la autoridad judicial o fiscal.
-
-e) Cualesquiera otras de la misma naturaleza en que sea necesaria su cooperación o auxilio y lo ordenare la autoridad judicial o fiscal.
-
-2. En ningún caso podrán encomendarse a los miembros de dichas unidades la práctica de actuaciones que no sean las propias de la Policía Judicial o las derivadas de las mismas.
+> Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Redactada la letra a) del apartado 1 conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

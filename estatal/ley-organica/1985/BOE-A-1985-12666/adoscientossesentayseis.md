@@ -1,5 +1,9 @@
-## Artículo doscientos sesenta y seis
+## Artículo 266.
 
-1. Las sentencias, una vez extendidas y firmadas por el Juez o por todos los Magistrados que las hubieren dictado, serán depositadas en la Secretaría del Juzgado o Tribunal y se permitirá a cualquier interesado el acceso al texto de las mismas.
+1. Las sentencias, una vez extendidas y firmadas por el juez o por todos los Magistrados que las hubieren dictado, serán depositadas en la Oficina judicial y se permitirá a cualquier interesado el acceso al texto de las mismas.
 
-2. Los Secretarios pondrán en los autos certificación literal de la sentencia.
+El acceso al texto de las sentencias, o a determinados extremos de las mismas, podrá quedar restringido cuando el mismo pudiera afectar al derecho a la intimidad, a los derechos de las personas que requieran un especial deber de tutela o a la garantía del anonimato de las víctimas o perjudicados, cuando proceda, así como, con carácter general, para evitar que las sentencias puedan ser usadas con fines contrarios a las leyes.
+
+2. Los secretarios pondrán en los autos certificación literal de la sentencia.
+
+> Se modifica por el art. único.61 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

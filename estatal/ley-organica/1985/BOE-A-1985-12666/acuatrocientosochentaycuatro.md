@@ -1,11 +1,13 @@
-## Artículo cuatrocientos ochenta y cuatro
+## Artículo 484.
 
-1. Los Oficiales, Auxiliares y Agentes son funcionarios de carrera que prestan sus servicios en los Juzgados y Tribunales.
+El acceso a los cuerpos será libre y público y se efectuará a través de los sistemas de oposición, o concurso-oposición.
 
-2. También podrán desempeñar sus funciones en el Consejo General del Poder Judicial y organismos y servicios de la Administración de Justicia.
+1. La selección por oposición es el sistema ordinario de ingreso y consiste en la realización de las pruebas que se establezcan en la convocatoria para determinar la capacidad y aptitud del aspirante.
 
-3. Prestarán servicio en las Fiscalías los Oficiales, Auxiliares y Agentes de la Administración de Justicia necesarios para las atenciones de las mismas, según la plantilla que se fije por el Ministerio de Justicia, oído el Consejo Fiscal.
+2. La selección por concurso-oposición consiste en la realización de las pruebas correspondientes y en la valoración de determinadas condiciones de formación, méritos o niveles de experiencia, en la forma que se establezca en la convocatoria.
 
-4. Sin perjuicio de lo dispuesto en el artículo 455 de esta Ley, en cada Secretaría Judicial actuarán bajo la dependencia directa del Secretario quien responderá de su buen funcionamiento. El Juez o Presidente ostenta, sin embargo, la superior dirección.
+La utilización del sistema de concurso-oposición tendrá carácter excepcional.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifica el apartado 4 por el art. 20 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

@@ -1,14 +1,20 @@
-## Artículo trescientos siete
+## Artículo 307.
 
-1. El curso teórico y práctico de selección en el centro de selección y formación de Jueces y Magistrados, incluirá un período de prácticas tuteladas, como Juez adjunto, en diferentes órganos de todos los órdenes jurisdiccionales, tanto unipersonales como colegiados. El centro elaborará el programa formativo y detallará sus diferentes fases. Durante el período de prácticas los adjuntos ejercerán funciones de auxilio y colaboración con sus titulares. Excepcionalmente, podrán actuar en funciones de sustitución o de refuerzo, conforme a lo establecido en esta Ley.
+1. La Escuela Judicial, configurada como centro de selección y formación de jueces y magistrados dependiente del Consejo General del Poder Judicial, tendrá como objeto proporcionar una preparación integral, especializada y de alta calidad a los miembros de la Carrera Judicial, así como a los aspirantes a ingresar en ella.
 
-2. La duración del período de prácticas, sus circunstancias y el destino y las funciones de los Jueces adjuntos serán regulados por el Consejo General del Poder Judicial a la vista del programa elaborado por el centro de selección y formación de Jueces y Magistrados. La duración del curso teórico de formación no será, en ningún caso, inferior a un año y el práctico de otro año.
+El curso de selección incluirá un programa de formación multidisciplinar y un período de prácticas tuteladas en diferentes órganos de todos los órdenes jurisdiccionales. Durante el período de prácticas los jueces en prácticas tuteladas ejercerán funciones de auxilio y colaboración con sus titulares. Excepcionalmente, podrán actuar en funciones de sustitución o de refuerzo, conforme a lo establecido en esta ley.
 
-En todo caso las funciones de Jueces adjuntos que no actúen en régimen de sustitución o de refuerzo conforme a lo previsto en esta Ley, no podrán exceder de la redacción de borradores o proyectos de resolución que el Juez o Ponente podrá, en su caso, asumir con las modificaciones que estime pertinentes.
+La Escuela Judicial llevará a cabo la coordinación e impartición de la enseñanza inicial, así como de la formación continua, en los términos establecidos en el artículo 433 bis.
 
-3. Los que superen el curso teórico y práctico serán nombrados Jueces por el orden de la propuesta hecha por el centro de selección y formación de Jueces y Magistrados.
+2. La duración del período de prácticas, sus circunstancias y el destino y las funciones de los jueces en prácticas serán regulados por el Consejo General del Poder Judicial a la vista del programa elaborado por la Escuela Judicial. En ningún caso la duración del curso teórico de formación será inferior a nueve meses ni la del práctico inferior a seis meses.
 
-4. El nombramiento se extenderá por el Consejo General del Poder Judicial, mediante orden, y con la toma de posesión quedarán investidos de la condición de Juez.
+En todo caso las funciones de los jueces en prácticas que no actúen en régimen de sustitución o de refuerzo conforme a lo previsto en esta ley no podrán exceder de la redacción de borradores o proyectos de resolución que el juez o ponente podrá, en su caso, asumir con las modificaciones que estime pertinentes.
+
+3. Los que superen el curso teórico y práctico serán nombrados jueces por el orden de la propuesta hecha por la Escuela Judicial.
+
+4. El nombramiento se extenderá por el Consejo General del Poder Judicial, mediante orden, y con la toma de posesión quedarán investidos de la condición de juez.
+
+> Se modifica por el art. único.70 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifica por el art. 1.7 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
 

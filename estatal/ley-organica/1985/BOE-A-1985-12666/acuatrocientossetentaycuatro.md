@@ -1,5 +1,13 @@
-## Artículo cuatrocientos setenta y cuatro
+## Artículo 474.
 
-Los Secretarios Judiciales están sujetos a las incapacidades, incompatibilidades, prohibiciones, situaciones y jubilación establecidos en esta Ley para los Jueces y Magistrados, con excepción de las prohibiciones previstas en el artículo 395.
+1. El personal funcionario de carrera de los Cuerpos al servicio de la Administración de Justicia se regirá por las normas contenidas en esta ley orgánica, en las disposiciones que se dicten en su desarrollo y, con carácter supletorio, en lo no regulado expresamente en las mismas, por la normativa del Estado sobre Función Pública.
+
+2. A los funcionarios interinos les será aplicable el régimen de los funcionarios de carrera en lo que sea adecuado a la naturaleza de su condición y no les será de aplicación el régimen de clases pasivas.
+
+3. Al personal funcionario de otras Administraciones que preste servicios en la Administración de Justicia, para la realización de funciones concretas y especializadas, les será de aplicación lo dispuesto para estas situaciones en la normativa de la Administración pública de la que procedan.
+
+4. El personal laboral se regirá por las disposiciones legales y reglamentarias, por el convenio colectivo que les sea de aplicación y por las estipulaciones de su contrato de trabajo.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifica por el art. 18.2 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

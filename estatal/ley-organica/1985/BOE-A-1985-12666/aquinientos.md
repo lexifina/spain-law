@@ -1,7 +1,23 @@
-## Artículo quinientos
+## Artículo 500.
 
-1. Los puestos de trabajo vacantes de médicos forenses se proveerán mediante los procedimientos de concurso y de libre designación. Este último se aplicará exclusivamente para la cobertura de aquellos puestos de trabajo de carácter directivo o de especial responsabilidad para los que así se determine en las plantillas.
+1. La duración de la jornada general de trabajo efectivo en cómputo anual y de aquellas jornadas que hayan de ser realizadas en régimen de dedicación especial, así como sus especificidades, será fijada por resolución del órgano competente del Ministerio de Justicia, previo informe de las comunidades autónomas con competencias asumidas y negociación con las organizaciones sindicales más representativas.
 
-2. En las convocatorias de los concursos se especificarán los requisitos imprescindibles para el desempeño del puesto, la especialidad o capacitación que, en su caso, resulte necesaria o preferente y el baremo para la puntuación de los méritos de los candidatos.
+Los funcionarios deberán ejercer su actividad en los términos que exijan las necesidades del servicio. A tal efecto, por el Ministerio de Justicia, previo informe de las comunidades autónomas con competencias asumidas y negociación con las organizaciones sindicales, se determinarán las compensaciones horarias y cómputos especiales cuando la atención de actuaciones procesales urgentes e inaplazables suponga un exceso de horas sobre la jornada a realizar.
+
+2. La duración de la jornada general semanal será igual a la establecida para la Administración General del Estado. Los funcionarios podrán realizar jornadas reducidas, en los supuestos y con las condiciones establecidas legal y reglamentariamente.
+
+3. Se podrán establecer jornadas sólo de mañana o jornadas de mañana y tarde para determinados servicios u órganos jurisdiccionales, cuando las necesidades del servicio así lo aconsejen, y en especial en las unidades de atención al público, en las que se tenderá a aumentar el tiempo de atención a los ciudadanos.
+
+La incorporación de los funcionarios a la jornada de mañana y tarde será voluntaria y deberá ir acompañada de medidas incentivadoras.
+
+4. La distribución de la jornada y la fijación de los horarios se determinará a través del calendario laboral que, con carácter anual, se aprobará por el órgano competente del Ministerio de Justicia y de las comunidades autónomas con competencias asumidas, en sus respectivos ámbitos, previo informe favorable del Consejo General del Poder Judicial y negociación con las organizaciones sindicales. El calendario laboral se determinará en función del número de horas anuales de trabajo efectivo. Podrán establecerse flexibilidades horarias a la entrada y salida del trabajo, garantizándose en todo caso un número de horas de obligada concurrencia continuada.
+
+Los horarios que se establezcan deberán respetar en todo caso el horario de audiencia pública.
+
+5. Cuando las peculiaridades de algunos servicios u órganos jurisdiccionales así lo aconsejen, podrán establecerse horarios especiales, que figurarán en las relaciones de puestos de trabajo y serán objeto del complemento retributivo que se determine.
+
+6. El incumplimiento de la jornada dará lugar al descuento automático de las retribuciones correspondientes al tiempo no trabajado, calculado en la forma establecida por la normativa de aplicación. A estos efectos, se considera trabajo efectivo el prestado dentro del horario establecido en la forma que se determine, teniendo en cuenta las compensaciones horarias que procedan y el que corresponda a permisos retribuidos, así como los créditos de horas retribuidas por funciones sindicales.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Se modifica por el art. 2.6 de la Ley Orgánica 7/1992, de 20 de noviembre. Ref. BOE-A-1992-25817

@@ -1,5 +1,5 @@
-## Artículo doscientos cuarenta y dos
+## Artículo 242.
 
-1. La nulidad de un acto no implicará la de los sucesivos que fueren independientes de aquél ni la de aquellos cuyo contenido hubiese permanecido invariable aun sin haberse cometido la infracción que dio lugar a la nulidad.
+Las actuaciones judiciales realizadas fuera del tiempo establecido sólo podrán anularse si lo impusiere la naturaleza del término o plazo.
 
-2. La nulidad de parte de un acto no implicará la de las demás del mismo que sean independientes de aquélla.
+> Se modifica por el art. único.59 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

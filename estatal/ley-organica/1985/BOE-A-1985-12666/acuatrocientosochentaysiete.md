@@ -1,5 +1,13 @@
-## Artículo cuatrocientos ochenta y siete
+## Artículo 487.
 
-Los Agentes Judiciales guardan y hacen guardar Sala; son ejecutores de los embargos, lanzamientos y demás actos cuya naturaleza lo requiera; realizan los actos de comunicación no encomendados a otros funcionarios; actúan como Policía Judicial con carácter de Agentes de la autoridad; y se ocupan de las funciones de vigilancia, custodia, porteo y otras análogas, relacionadas con la función, que les puedan ser encomendadas, dentro de lo que establezcan los reglamentos.
+1. El desarrollo y calificación de las pruebas selectivas, corresponde a los tribunales calificadores que, a tal efecto, se constituirán en cada uno de los ámbitos territoriales por los que se hayan ofertado las vacantes.
+
+Estos tribunales gozarán de autonomía funcional y responderán de la objetividad del procedimiento y del cumplimiento de las normas contenidas en la convocatoria.
+
+2. En el Reglamento General de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional se establecerá, la composición de los tribunales que, en todo caso estarán formados por un número impar de miembros, así como sus normas de funcionamiento, garantizándose la especialización de los integrantes del mismo y la agilidad del proceso selectivo, sin perjuicio de su objetividad, así como el régimen de incompatibilidades, los derechos y deberes de sus miembros.
+
+Los miembros de los tribunales serán nombrados por el Ministerio de Justicia. En los tribunales que se constituyan en los territorios de las comunidades autónomas con competencias asumidas, dos de cada cinco vocales serán propuestos por el órgano competente de dicha comunidad.
+
+> Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

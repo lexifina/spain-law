@@ -1,7 +1,19 @@
-## Artículo doscientos sesenta y siete
+## Artículo 267.
 
-1. Los Jueces y Tribunales no podrán variar las sentencias y autos definitivos que pronuncien después de firmadas, pero si aclarar algún concepto oscuro o suplir cualquier omisión que contengan.
+1. Los tribunales no podrán variar las resoluciones que pronuncien después de firmadas, pero sí aclarar algún concepto oscuro y rectificar cualquier error material de que adolezcan.
 
-2. Los errores materiales manifiestos y los aritméticos podrán ser rectificados en cualquier momento.
+2. Las aclaraciones a que se refiere el apartado anterior podrán hacerse de oficio dentro de los dos días hábiles siguientes al de la publicación de la resolución, o a petición de parte o del Ministerio Fiscal formulada dentro del mismo plazo, siendo en este caso resuelta por el tribunal dentro de los tres días siguientes al de la presentación del escrito en que se solicite la aclaración.
 
-3. Estas aclaraciones o rectificaciones podrán hacerse de oficio dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte o del Ministerio Fiscal presentadas dentro de los dos días siguientes al de la notificación, siendo en este caso resueltas por el órgano jurisdiccional dentro del día siguiente al de la presentación del escrito en que se soliciten la aclaración o rectificación.
+3. Los errores materiales manifiestos y los aritméticos en que incurran las resoluciones judiciales podrán ser rectificados en cualquier momento.
+
+4. Las omisiones o defectos de que pudieren adolecer sentencias y autos y que fuere necesario remediar para llevarlas plenamente a efecto podrán ser subsanadas, mediante auto, en los mismos plazos y por el mismo procedimiento establecido en el apartado anterior.
+
+5. Si se tratase de sentencias o autos que hubieren omitido manifiestamente pronunciamientos relativos a pretensiones oportunamente deducidas y sustanciadas en el proceso, el tribunal, a solicitud escrita de parte en el plazo de cinco días a contar desde la notificación de la resolución, previo traslado de dicha solicitud a las demás partes, para alegaciones escritas por otros cinco días, dictará auto por el que resolverá completar la resolución con el pronunciamiento omitido o no haber lugar a completarla.
+
+6. Si el tribunal advirtiese, en las sentencias o autos que dictara, las omisiones a que se refiere el apartado anterior, podrá, en el plazo de cinco días a contar desde la fecha en que se dicten, proceder de oficio, mediante auto, a completar su resolución, pero sin modificar ni rectificar lo que hubiere acordado.
+
+7. No cabrá recurso alguno contra los autos en que se resuelva acerca de la aclaración, rectificación, subsanación o complemento a que se refieren los anteriores apartados de este artículo, sin perjuicio de los recursos que procedan, en su caso, contra la sentencia o auto a que se refiera la solicitud o actuación de oficio del tribunal.
+
+8. Los plazos para los recursos que procedan contra la resolución de que se trate se interrumpirán desde que se solicite su aclaración, rectificación, subsanación o complemento y, en todo caso, comenzarán a computarse desde el día siguiente a la notificación del auto que reconociera o negase la omisión de pronunciamiento y acordase o denegara remediarla.
+
+> Se modifica por el art. único.62 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

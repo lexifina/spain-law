@@ -1,3 +1,5 @@
 ## TÍTULO IV
 
 ## De la fe pública judicial y de la documentación
+
+> Se deroga por la disposición derogatoria única.b) de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

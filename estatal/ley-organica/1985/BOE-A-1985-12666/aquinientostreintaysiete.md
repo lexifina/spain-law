@@ -1,0 +1,13 @@
+## Artículo 537.
+
+En el Reglamento General de Régimen Disciplinario de los funcionarios al servicio de la Administración de Justicia se fijarán los criterios para la determinación de la graduación de las sanciones que, en todo caso, se basarán en los siguientes principios:
+
+1.º Intencionalidad.
+
+2.º Perjuicio causado a la Administración o a los ciudadanos.
+
+3.º Grado de participación en la comisión de la falta.
+
+4.º Reiteración o reincidencia.
+
+> Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
