@@ -7,3 +7,7 @@
 3. El personal que a la entrada en vigor de la presente ley preste servicios en los Tribunales Tutelares de Menores continuará prestándolos en dichos órganos y desde que se establezcan en los Juzgados de Menores, con sujeción al régimen que en la actualidad les es aplicable, hasta que se dicten los Reglamentos de personal al servicio de la Administración de Justicia, los cuales establecerán las normas para su integración en los distintos Cuerpos de aquélla.
 
 Será aplicable al personal a que se refiere esta disposición, desde la entrada en vigor de la presente ley, el régimen de incompatibilidades establecido en el artículo 489.
+
+> Téngase en cuenta que el apartado 3 queda derogado en lo que concierne al personal de la Escala de Delegados Profesionales Técnicos de los Tribunales Tutelares de Menores.
+
+> Se deroga el apartado 3, en lo que concierne al personal de la Escala de Delegados Profesionales Técnicos de los Tribunales Tutelares de Menores, por la disposición adicional 5.4 de la Ley Orgánica 4/1992, de 5 de junio. Ref. BOE-A-1992-13444
