@@ -4,4 +4,6 @@ La cuantía de los gastos de administración de las Mutuas Patronales durante ca
 
 Los citados importes calculados se llevarán en una cuenta de orden separada, que irá siendo minorada a medida que se produzcan los ingresos reales, que no se imputarán para determinar el límite de gastos de administración en el ejercicio económico que se realicen.
 
-Para las Mutuas Patronales de Accidentes de Trabajo que tengan asociadas empresas con domicilio social en Baleares Ceuta, Melilla e Islas Canarias no contarán a los efectos del límite de gastos de administración el complemento de residencia que se establezca en Convenio Colectivo para el personal de carácter administrativo.
+Para las Mutuas Patronales de Accidentes de Trabajo que tengan personal a su servicio en Baleares Ceuta, Melilla e Islas Canarias no contarán a los efectos del límite de gastos de administración el complemento de residencia que se establezca en Convenio Colectivo para el personal de carácter administrativo.
+
+> Se corrigen errores en el párrafo tercero por el art. único de la Orden de 18 de julio de 1984. Ref. BOE-A-1984-17301.

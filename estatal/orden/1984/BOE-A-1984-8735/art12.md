@@ -1,3 +1,5 @@
 ## Art. 12.
 
-Habrá de comunicarse a la Dirección General de Régimen Económico y Jurídico le la Seguridad Social la sustitución de valores mobiliarios, dentro de los treinta días de su realización cuando la sustitución sea por valores considerados como aptos para la constitución de las reservas a que se refiere el párrafo 2 del artículo 17 de esta Orden. Unicamente requerirá autorización previa de la Dirección General de Régimen Económico y Jurídico de la Seguridad Social cuando no sean de los aptos, entendiéndose concedida en el supuesto de no existir resolución expresa en el plazo de treinta días contados a partir de la solicitud.
+Habrá de comunicarse a la Dirección General de Régimen Económico y Jurídico le la Seguridad Social la sustitución de valores mobiliarios, dentro de los treinta días de su realización cuando la sustitución sea por valores considerados como aptos para la constitución de las reservas a que se refiere el párrafo 2 del artículo 16 de esta Orden. Unicamente requerirá autorización previa de la Dirección General de Régimen Económico y Jurídico de la Seguridad Social cuando no sean de los aptos, entendiéndose concedida en el supuesto de no existir resolución expresa en el plazo de treinta días contados a partir de la solicitud.
+
+> Se corrigen errores por el art. único de la Orden de 18 de julio de 1984. Ref. BOE-A-1984-17301.
