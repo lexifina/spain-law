@@ -1,0 +1,3 @@
+## Disposición transitoria única. Contratos "Foreing Military Sales" (FMS) no finalizados.
+
+En los contratos celebrados con el Gobierno de los Estados Unidos de América mediante el sistema FMS formalizados con anterioridad a la entrada en vigor del Real Decreto 2122/1993, de 3 de diciembre, sobre la gestión financiera de determinados fondos destinados a la adquisición de material militar y servicios complementarios del Ministerio de Defensa, y cuya ejecución no ha finalizado, el Centro de Gestión de Pagos en el Extranjero justificará los fondos y la aplicación de los mismos para todos aquellos pagos posteriores a la entrada en vigor del mismo, siguiendo los procedimientos determinados en el presente Real Decreto.
