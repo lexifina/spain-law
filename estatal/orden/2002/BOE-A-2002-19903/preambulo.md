@@ -1,0 +1,7 @@
+Las Órdenes de 21 de diciembre de 2000, por la que se crea la Comisión Calificadora de Documentos Administrativos del Ministerio del Interior y se regula el acceso a los archivos de él dependientes, y la de 7 de marzo de 2001, por la que se crean, dependientes del Archivo General del Ministerio del Interior, las Secciones de las Direcciones Generales de la Policía y de la Guardia Civil, han supuesto el punto de partida de la articulación del Sistema Archivístico del Departamento para la gestión adecuada de su documentación administrativa.
+
+Por otra parte, el correcto funcionamiento de este Sistema Archivístico exige la implantación de un tratamiento archivístico normalizado y uniforme en todas las unidades del Departamento, independientemente de cuál sea el volumen y naturaleza de sus respectivos fondos documentales. La consecución de este fin aconseja la adopción de un plan de normalización de los distintos aspectos del tratamiento archivístico, dentro del marco de la normativa vigente en materia de archivos estatales.
+
+De conformidad con lo establecido en el artículo 65 de la Ley 16/1985, de 25 de junio, de Patrimonio Histórico Español, que obliga a cada Departamento ministerial a asegurar la coordinación del funcionamiento de todos los Archivos del Ministerio y de los organismos a él vinculados y a regularizar las transferencias a los Archivos del Estado, se dicta la presente Orden que establece las normas básicas sobre organización y funcionamiento del Sistema Archivístico del Departamento.
+
+En su virtud, dispongo:
