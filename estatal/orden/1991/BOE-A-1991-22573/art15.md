@@ -1,0 +1,3 @@
+## Art. 15.
+
+La Junta de Gobierno, integrada por el Presidente y ocho Vocales, es el órgano de gobierno del Colegio, encargado de hacer ejecutar las directrices y políticas diseñadas por la Asamblea general, para lo que se marcarán los objetivos que considere oportunos y tomará los acuerdos que sean necesarios para una efectiva acción de gobierno, con sujeción a lo dispuesto en el presente Reglamento, normas internas de funcionamiento y acuerdos de Asamblea. Prestará especial atención a las funciones representativas y, para la realización de sus tareas administrativas, asistenciales y empresariales, dispondrá de una organización profesionalizada.
