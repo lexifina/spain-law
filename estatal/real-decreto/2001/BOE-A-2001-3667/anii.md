@@ -49,8 +49,8 @@ c) Exigencias específicas: mientras no se prescriba a escala comunitaria ningú
 | Criterio | Banda de concentración | Valor recomendado | Valor máximo admitido |
 | --- | --- | --- | --- |
 | Valores en blanco. | Todas las concentraciones | Despreciable |  |
-| Recuperación de aflatoxina M1 | 0,01-0,5 µg/L > 0,05 µg/L | 60 a 120 % 70 a 110 % |  |
-| Recuperación de aflatoxinas B1, B2, G1, G2. | < 1,0 µg/L 1,10 µg/L > 10 µg/L | 50 a 120 % 70 a 110 % 80 a 110 % |  |
+| Recuperación de aflatoxina M1 | 0,01-0,05 µg/kg > 0,05 µg/kg | 60 a 120 % 70 a 110 % |  |
+| Recuperación de aflatoxinas B1, B2, G1, G2. | < 1,0 µg/kg 1,10 µg/kg > 10 µg/kg | 50 a 120 % 70 a 110 % 80 a 110 % |  |
 | Precisión RSDR. | Todas las concentraciones | Derivado de la ecuación de Horwitz | 2 veces el valor derivado de la ecuación de Horwitz |
 
 La precisión RSDr puede calcularse aplicando el coeficiente de 0,66 a la precisión RSDR correspondiente a la concentración que presente interés.
@@ -78,3 +78,5 @@ Se trata de una ecuación general relativa a la precisión considerada independi
 d) Cálculo de la tasa de recuperación: el resultado analítico se registra bajo forma corregida o no, según la recuperación. Hay que indicar la manera de registrar y la tasa de recuperación.
 
 e) Garantía de calidad aplicable a los laboratorios: los laboratorios deben ajustarse a las disposiciones del Real Decreto 1397/1995, de 4 de agosto, por el que se aprueban medidas adicionales sobre el control oficial de los productos alimenticios.
+
+> Se modifica el cuadro del apartado 4.c) por el art. único y anexo II de la Orden SCO/0388/2003, de 25 de febrero. Ref. BOE-A-2003-4013.
