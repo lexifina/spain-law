@@ -34,6 +34,11 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER LOS PRODUCTOS COSMÉTICOS
 | 18 | 3-(4'-Metilbencilideno)-d-1 alcanfor(4-Methylbenzylidene Camphor). | 4% |  |  |
 | 19 | 3-Bencilideno alcanfor (3-Benzylidene Camphor) | 2% |  |  |
 | 20 | Salicilato de 2-etilhexilo (octyl-salicylate). | 5% |  |  |
+| 21 | 4-dimetil-amino-benzoato de etil-2-hexilo (octil dimetil PABA). | 8 por 100 |  |  |
+| 22 | Ácido 2-hidroxi4-metoxibenzofenona-5-sulfónico (benzofenona-5) y su sal de sodio | 5 por 100 (expresado en ácido) |  |  |
+| 23 | 2,2'-metilen-bis-6-(2H-benzotriazol-2-il)-4-(tetrametil-butil)-1,1,3,3-fenol. | 10 por 100 |  |  |
+| 24 | Sal monosódica del ácido 2-2'-bis-(1,4-fenilen)1H-benzimidazol-4,6-disulfónico. | 10 por 100 (expresado en ácido) |  |  |
+| 25 | (1,3,5)-triazina-2,4-bis{[4-(2etil-hexiloxi)-2hydroxi]-fenilo)-6-(4-metoxifenilo) | 10 por 100 |  |  |
 
 (1) No se exigirá la mención si la concentración es igual o inferior a 0,5% y si la sustancia se utiliza sólo para proteger el producto.
 
@@ -44,16 +49,9 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER PROVISIONALMENTE LOS PRODUCTO
 | Número de orden | Sustancias | Concentración máxima autorizada | Límites y exigencias | Condiciones de empleo y advertencias que deben figurar obligatoriamente en el etiquetado | Admitido hasta |
 | --- | --- | --- | --- | --- | --- |
 | a | b | c | d | e | f |
-| 2 (Suprimido) |  |  |  |  |  |
-| 5 | DIMETILAMINO-4-BENZOATO DE 2-ETILHEXILO | 8% |  |  | 30.6.99 |
-| 6 (Suprimido) |  |  |  |  |  |
-| 12 (Suprimido) |  |  |  |  |  |
-| 13 (Suprimido) |  |  |  |  |  |
-| 17 | SULISOBENZONA Y SULISOBENZONA SÓDICA | 5% (expresado en ácido) |  |  | 30.6.99 |
-| 25 (Suprimido) |  |  |  |  |  |
-| 26 (Suprimido) |  |  |  |  |  |
-| 29 | SALICITATO DE 4-ISOPROPIL BENCILO | 4% |  |  | 30.6.99 |
-| 32 (Suprimido) |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+> Se añaden los números 21 a 25 en la primera parte y se suprime el 5, 17 y 29 de la segunda parte por el apartado 1.4 de la Orden de 3 de agosto de 2000. Ref. BOE-A-2000-15557.
 
 > Se añaden los números 13 a 20 en la primera parte, y en la segunda parte se suprimen los números 2, 6, 12, 25, 26 y 32 y se modifican las fechas del resto por el apartado 1.4 de la Orden de 26 de abril de 1999. Ref. BOE-A-1999-10150.
 

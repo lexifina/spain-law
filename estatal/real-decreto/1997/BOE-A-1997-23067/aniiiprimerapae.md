@@ -6,9 +6,11 @@
 | --- | --- | --- | --- |
 | Campo de aplicación y/o uso | Concentración máxima en producto terminado | Otras limitaciones y exigencias |
 | a | b | c | d | e | f |
-| 1 | ÁCIDO BÓRICO | a) Talco. | – 5 % | a) No utilizar en productos para cuidados de niños menores de tres años. | a) No utilizar para cuidados de niños menores de tres años. |
-|  |  | b) Productos para cuidados bucales. | – 0,5 % |  |  |
-|  |  | c) Otros productos. | – 3 % |  |  |
+| 1a | Ácido bórico, boratos y tetraboratos. | a) Talco. | a) 5 por 100 (expresado en ácido bórico, masa/masa). | a) 1. No utilizar en productos para niños menores de tres años. 2. No utilizar en pieles excoriadas o irritadas si la concentración de borato soluble libre es superior al 1,5 por 100 (expresado en ácido bórico, masa/masa). | a) 1. No utilizar en niños menores de tres años. 2. No utilizar en pieles excoriadas o irritadas. |
+|  |  | b) Productos para la higiene bucal. | b) 0,1 por 100 (expresado en ácido bórico, masa/masa). | b) 1. No utilizar en productos para niños menores de tres años. | b) 1. No tragar. 2. No utilizar en niños menores de tres años |
+|  |  | c) Otros productos a excepción de los productos para el baño y para la ondulación del cabello. | c) 3 por 100 (expresado en ácido bórico, masa/masa). | c) 1. No utilizar en productos para niños menores de tres años. 2. No utilizar en pieles excoriadas o irritadas si la concentración de borato soluble libre es superior al 1,5 por 100 (expresado en ácido bórico, masa/masa). | c) 1. No utilizar en niños menores de tres años. 2. No utilizar en pieles excoriadas o irritadas. |
+| 1b | Tetraboratos. | a) Productos para el baño. | a) 18 por 100 (expresado en ácido bórico, masa/masa). | a) No utilizar en productos para niños menores de tres años. | a) No utilizar para el baño de niños menores de tres años. |
+|  |  | b) Productos para la ondulación del cabello. | b) 8 por 100 (expresado en ácido bórico, masa/masa). |  | b) Aclarar abundantemente. |
 | 2a | ÁCIDO TIOGLICÓLICO Y SUS SALES | a) Productos para el rizado y desrizado del cabello |  | a) b) c) | a) |
 |  |  | – Uso general. | – 8 % dispuesto para su empleo pH 7 a 9,5. | El texto del modo de empleo debe incluir obligatoria mente las siguientes frases: – Evítese el contacto con los ojos. – En caso de contacto con los ojos, lávenlos inmediata y abundantemente con agua y consúltese con un especialista. | – Contiene sales del ácido tioglicólico. – Seguir el modo de empleo. – Manténgase fuera del alcance de los niños. – Reservado a profesionales. |
 |  |  | – Uso profesional. | – 11% dispuesto para su empleo pH 7 a 9.,5 |  |  |
@@ -40,15 +42,9 @@
 |  |  |
 |  |  |
 | 13 | FORMALDEHÍDO | Preparaciones para endurecer las uñas | – 5% expresado en formaldehído |  | – Protéjanse las cutículas con una sustancia grasa. – Contiene formaldehído (2). |
-| 14 | HIDROQUINONA(3) | a) Colorante de oxidación para el teñido del cabello. | – 2% |  | a) |
-|  |  | 1. Uso general. |  |  | 1. – No emplear para teñir cejas y pestañas. – En caso de contacto con los ojos, lávenlos inmediatamente y abundamentemente con agua. – Contiene hidroquinona. |
-|  |  | 2. Uso profesional. |  |  | 2. – Reservado a profesionales. – Contiene hidroquinona. – En caso de contacto con los ojos, lávenlos inmediata y abundantemente con agua. |
-|  |  | b) Agente blanqueante localizado de la piel. | – 2% |  | b) |
-|  |  |  |  |  | – Contiene hidroquinona. |
-|  |  |  |  |  | – Evítese el contacto con los ojos. |
-|  |  |  |  |  | – Aplíquese únicamente sobre pequeñas superficies. |
-|  |  |  |  |  | – En caso de irritación suspéndase el uso. |
-|  |  |  |  |  | – No utilizar en niños menores de 12 años. |
+| 14 | Hidroquinona. | a) Colorante de oxidación para el cabello. | 0,3 por 100 |  | a) |
+|  |  | 1. Uso personal. . |  |  | 1. No emplear para teñir cejas y pestañas. En caso de contacto con los ojos, lávenlos inmediata y abundantemente con agua. Contiene hidroquinona. |
+|  |  | 2. Uso profesional. |  |  | 2. Reservado a profesionales. Contiene hidroquinona. En caso de contacto con los ojos, lávenlos inmediata y abundantemente con agua |
 | 15a | HIDRÓXIDO DE POTASIO O HIDRÓXIDO DE SODIO | a) Disolvente de las cutículas de las uñas. | a) 5% en peso (4). |  | a) – Contiene agente alcalino. – Evítese el contacto con los ojos. Peligro de ceguera. – Manténgase fuera del alcance de los niños. |
 |  |  | b) Productos para el alisado del cabello. | b) |  | b) |
 |  |  | 1. Uso general. | 1. 2% en peso (4). |  | 1. – Contiene agente alcalino. – Evítese el contacto con los ojos. Peligro de ceguera. – Manténgase fuera del alcance de los niños. |
@@ -119,6 +115,8 @@
 | 62 | TRIALCANOLAMINAS | a) Productos que no requieren aclarado. b) Otros productos. | a) 2,5% | a) b): – No emplear con agentes nitrosantes. – Pureza mínima 99%. – Contenido máximo de alcalonaminas secundarias: 0,5% (afecta a las materias primas). – Contenido máximo de N-nitrosodialcanolaminas: 50 ug/kg. – Conservar en recipientes que no contengan nitritos. |  |
 | 63 | HIDRÓXIDO DE ESTRONCIO | Regulador del pH en los productos depilatorios | 3,5% expresado en estroncio pH máximo 12,7 |  | – Mantener fuera del alcance de los niños. – Evitar el contacto con los ojos. |
 | 64 | PERÓXIDO DE ESTRONCIO | Productos para el cuidado del cabello, destinados a ser aclarados después de su aplicación. Uso profesional | 4,5% expresado en estroncio en el producto preparado para el uso | Todos los productos deberán cumplir los requisitos de emisión de peróxido de hidrógeno | – Evitar el contacto con los ojos. – Enjuagar inmediatamente los ojos si el producto entra en contacto con ellos. – Uso profesional. – Usar guantes adecuados. |
+| 65 | Cloruro, bromuro y sacarinato de benzalconio. | b) Productos para el cabello que se eliminan por aclarado. | a) 3 por 100 (expresado en cloruro de benzalconio). | a) En el producto acabado, las concentraciones de cloruro, bromuro y sacarinato de benzalco‑ nio cuya cadena de alquilos sea igual o inferior a C14 no deberán ser superiores al 0,1 por 100 (expresado en clo‑ ruro de benzalconio). | a) Evitar el contacto con los ojos. |
+|  |  | c) Otros productos. | b) 0,1 por 100 (expresado en cloruro de benzalconio). |  | b) Evitar el contacto con los ojos. |
 
 (1) Estas sustancias pueden ser utilizadas solas o mezclas entre ellas en cantidad tal que la suma de los «cocientes relativos» de cada una de las sustancias no sobrepase la unidad.
 
@@ -131,5 +129,7 @@ Se denomina «cociente relativo» a la relación entre la concentración de una 
 Se denomina «cociente relativo» a la relación entre la concentración de una sustancia y la concentración máxima permitida para esa sustancia.
 
 (4) La cantidad de hidróxido de potasio, sodio o litio se expresa en peso de hidróxido de sodio. En caso de mezclas, la suma no debería sobrepasar los límites establecidos en la columna d).
+
+> Se modican los números 1, 14 y 65 por el apartado 1.2 de la Orden de 3 de agosto de 2000. Ref. BOE-A-2000-15557.
 
 > Se modifica el número 57 por el apartado 1.2 de la Orden de 26 de abril de 1999. Ref. BOE-A-1999-10150.

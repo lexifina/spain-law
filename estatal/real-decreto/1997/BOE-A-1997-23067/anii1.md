@@ -738,13 +738,13 @@ En los productos de protección solar y bronceado, la concentración de furocuma
 
 361. Yodotimol.
 
-362. 3’etil-5’,6’,7’,8=tetrahidro-5’,6’,8’,8’-tetrametil-2’-acetonaftona (1,1,4,4,-tetrametil. 6-etil-7-acetil-1,2,3,4,-tetrahidro-naftaleno) (acetiloetiltetrametiltetralina) (aett).
+362. Etil-3'-tetrahidro-5',6',7', 8'-tetrametil-5',5',8',8'-acetonaftona-2' o tetrametil-1,1,4, 4-etil-6-acetil-7-tetrahidro naftaleno-1,2,3,4.
 
 363. 1,2 diaminobenceno y sus sales.
 
 364. 2,4,-diaminotolueno y sus sales.
 
-365. Ácido aristolóquico y sus sales.
+365. Ácido aristolóquico y sus sales, Artistolochia spp. y sus preparados.
 
 366. Cloroformo.
 
@@ -758,7 +758,7 @@ En los productos de protección solar y bronceado, la concentración de furocuma
 
 371. 2,2’dihidroxi-3,3’,5,5’,6,6’-hexaclorodifenilmetano (hexaclorofeno).
 
-372. 6-(1-piperidinil)-2,4-pirimidinodiamina-3-óxido (minoxidil) y sus sales y derivados.
+372. 3-óxido de 6-(piperidinil)-2,4-pirimidina diamina (minoxidil) y sus sales.
 
 373. Estroncio y sus compuestos con excepción de:
 
@@ -776,15 +776,15 @@ Tioglicolato en las condiciones previstas en el anexo III (1.ª parte).
 
 Lacas, pigmentos o sales preparadas a partir de colorantes que figuran con la referencia (3) en el anexo IV.
 
-374. Zirconio y sus compuestos (con excepción de los complejos relacionados en el número 50 del anexo III (1.ª parte) y las lacas, pigmentos o sales de zirconio de los colorantes que figuran con la referencia (3) en el anexo IV (2.ª parte).
+374. Circonio y sus compuestos, excepto las sustancias incluidas en el número de orden 50 de la primera parte del anexo III, y las lacas, pigmentos o sales de circonio de los colorantes incluidos en la primera parte del anexo IV con el número de referencia 3.
 
 375. Lidocaína.
 
 376. Tirotricina.
 
-377. 3,4’,5-tribromosalicilanilida (tribromsalan).
+377. 3,4',5-Tribromosalicilanilida.
 
-378. Especies de phytolacca y sus preparados.
+378. Phytolacca spp. y sus preparados.
 
 379. Tretinoino (a) (ácido retinoico y sus sales).
 
@@ -810,7 +810,7 @@ Colorante C.I. 42555-2
 
 388. 2-amino-5-nitrofenol.
 
-389. 11-hidroxi-4-pregneno-3,2-diona y sus ésteres.
+389. α-hidroxi-11 pregneno-4-diona-3,20 y sus ésteres.
 
 390. Colorante C.I. 42640.
 
@@ -824,7 +824,7 @@ Colorante C.I. 42555-2
 
 395. Acetonitrilo.
 
-396. Tetrizolina (a) y sus sales.
+396. Tetrahidrozolina y sus sales.
 
 397. 8-hidroxiquinoleína y su sulfato con excepción de las aplicaciones previstas en el número 51 de la 1.ª parte del anexo III.
 
@@ -866,23 +866,23 @@ Colorante C.I. 42555-2
 
 416. Ácido 3 imidazol-4-ilacrílico y su éster etílico (ácido urocánico).
 
-417.a) El cráneo, incluidos los sesos y los ojos, las amígdalas y la médula espinal de:
+417. a) El cráneo, incluidos los sesos y los ojos, las amígdalas y la médula espinal de:
 
 Los animales de la especie bovina de más de doce meses de edad.
 
-Los animales de la especies ovina y caprina de más de doce meses de edad que muestren en las encías un incisivo definitivo e ingredientes derivados.
+Los animales de las especies ovina y caprina de más de doce meses de edad que muestren en las encías un incisivo definitivo e ingredientes derivados.
 
 b) El bazo de los animales de las especies ovina y caprina e ingredientes derivados.
 
 No obstante, pueden utilizarse derivados de sebo siempre y cuando se hayan aplicado los métodos siguientes, que el fabricante debe certificar estrictamente:
 
-Transesterificación o hidrólisis a un mínimo de 200 ºC, 40 bars (40.000 hPa), durante veinte minutos (glicerina y ácidos grasos y ésteres).
+Transesterificación o hidrólisis a un mínimo de 200º C a la presión correspondiente apropiada durante veinte minutos (glicerol, ácidos grasos y sus ésteres grasos).
 
 Saponificación con NaOH 12M (glicerina y jabón):
 
-Proceso discontinuo: a 95 oC durante tres horas, o
+Proceso discontinuo, a 95º C durante tres horas, o
 
-Proceso continuo a 140 oC, 2 bar (2.000 hPa), durante ocho minutos con condiciones equivalentes.
+Proceso continuo, a 140º C, 2 bar (2.000 hPa), durante ocho minutos con condiciones equivalentes.
 
 418. Alquitranes crudos y refinados.
 
@@ -895,6 +895,8 @@ Proceso continuo a 140 oC, 2 bar (2.000 hPa), durante ocho minutos con condicion
 (a) El nombre de estas sustancias es el recomendado como «denominación común internacional» para las sustancias farmacéuticas publicadas por la Organización Mundial de la Salud. Ginebra 1982.
 
 (b) Se admite la presencia de sustancias radiactivas naturales procedentes de contaminaciones artificiales ambientales, a condición de que dichas sustancias radiactivas no sean enriquecidas antes de utilizarlas en la fabricación de productos cosméticos, y siempre que su concentración no supere los límites establecidos en las directivas que fijan las normas básicas relativas a la protección sanitaria de la población y de los trabajadores, frente a los peligros resultantes de las radiaciones ionizantes («Diario oficial de las Comunidades Europeas», número 11 de 20 de febrero de 1959, página 221/59).
+
+> Se modifican los números 362, 365, 372, 374, 377, 378, 389, 396 y 417 por el apartado 1.1 de la Orden de 3 de agosto de 2000. Ref. BOE-A-2000-15557.
 
 > Se añaden los números 419 y 420 por el apartado 1.2 de la Orden de 26 de abril de 1999. Ref. BOE-A-1999-10150.
 
