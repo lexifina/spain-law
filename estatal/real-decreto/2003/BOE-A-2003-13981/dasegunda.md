@@ -1,0 +1,13 @@
+## Disposición adicional segunda. Aportación estatal al Plan Único de Obras y Servicios de la Comunidad Autónoma de Cataluña.
+
+De acuerdo con lo previsto en la regla novena del artículo 153.2 del texto refundido de la Ley General Presupuestaria, aprobado por el Real Decreto Legislativo 1091/1988, de 23 de septiembre, en la redacción dada por el artículo 136 de la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, y con el artículo 2 del Real Decreto 2115/1978, de 26 de julio, sobre transferencia de competencias de la Administración del Estado a la Generalidad de Cataluña en materia de interior, en relación con la disposición transitoria sexta.6 del Estatuto de Autonomía de Cataluña, la cooperación económica del Estado a las inversiones de las entidades locales incluidas en el Plan Único de Obras y Servicios de la Comunidad Autónoma de Cataluña se realizará a través de la Generalidad, en los siguientes términos:
+
+a) Las aportaciones del Estado al Plan Único de Obras y Servicios de la Comunidad Autónoma de Cataluña, con cargo al Programa de cooperación económica local del Estado, incluyéndose los proyectos relativos a la red viaria local, determinadas de acuerdo con lo establecido en el artículo 5.2 de este real decreto, serán territorializadas anualmente en la correspondiente Ley de Presupuestos Generales del Estado. El crédito correspondiente se librará a la Comunidad Autónoma de Cataluña, como subvención gestionada, de acuerdo con el artículo 153 del texto refundido de la Ley General Presupuestaria, aprobado por el Real Decreto Legislativo 1091/1988, de 23 de septiembre.
+
+b) No serán de aplicación a la Comunidad Autónoma de Cataluña las normas relativas a la elaboración, aprobación y ejecución de los planes provinciales e insulares de cooperación contenidas en los artículos 8 a 15 de este real decreto.
+
+c) La Comunidad Autónoma de Cataluña remitirá al Ministerio de Administraciones Públicas información sobre el Plan Único de Obras y Servicios una vez aprobado.
+
+d) Compete a la Generalidad de Cataluña elaborar la Encuesta de Infraestructura y Equipamientos Locales relativa a su territorio, de la cual se suministrará información al Ministerio de Administraciones Públicas, a quien le corresponde la colaboración técnica y económica en su elaboración y mantenimiento según lo dispuesto en el artículo 4 de este real decreto.
+
+e) Lo previsto en la disposición adicional primera de este real decreto respecto a la cofinanciación con cargo a los fondos estructurales comunitarios será de aplicación también al Plan Único de Obras y Servicios de la Comunidad Autónoma de Cataluña.
