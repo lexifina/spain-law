@@ -471,6 +471,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 353](a353.md)
 - [Certificaciones especiales](certificacionesespeciales.md)
 - [Artículo 354](a354.md)
+- [Artículo 354 a)](a354a.md)
 - [Artículo 355](a355.md)
 - [TÍTULO NOVENO](tnoveno.md)
 - [Oficina del Registro](oficinadelregistro.md)
