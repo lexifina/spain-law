@@ -1,0 +1,5 @@
+## Disposición adicional tercera
+
+El Gobierno, a propuesta conjunta de los Ministerios de Justicia y de Interior, y previos los informes legalmente procedentes, regulará mediante real decreto la estructura, composición, organización y funcionamiento de la Comisión nacional sobre el uso forense del ADN, a la que corresponderá la acreditación de los laboratorios facultados para contrastar perfiles genéticos en la investigación y persecución de delitos y la identificación de cadáveres, el establecimiento de criterios de coordinación entre ellos, la elaboración de los protocolos técnicos oficiales sobre la obtención, conservación y análisis de las muestras, la determinación de las condiciones de seguridad en su custodia y la fijación de todas aquellas medidas que garanticen la estricta confidencialidad y reserva de las muestras, los análisis y los datos que se obtengan de los mismos, de conformidad con lo establecido en las leyes.
+
+> Se añade por la disposición final 1.4 de la Ley Orgánica 15/2003, de 25 de noviembre. Ref. BOE-A-2003-21538.

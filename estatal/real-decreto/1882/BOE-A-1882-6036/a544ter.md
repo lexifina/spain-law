@@ -1,6 +1,6 @@
 ## Artículo 544 ter.
 
-1. El juez de instrucción dictará orden de protección para las víctimas de violencia doméstica en los casos en que, existiendo indicios fundados de la comisión de un delito o falta contra la vida, integridad física o moral, libertad sexual, libertad o seguridad de alguna de las personas mencionadas en el artículo 153 del Código Penal resulte una situación objetiva de riesgo para la víctima que requiera la adopción de alguna de las medidas de protección reguladas en este artículo.
+1. El Juez de Instrucción dictará orden de protección para las víctimas de violencia doméstica en los casos en que, existiendo indicios fundados de la comisión de un delito o falta contra la vida, integridad física o moral, libertad sexual, libertad o seguridad de alguna de las personas mencionadas en el artículo 173.2 del Código Penal, resulte una situación objetiva de riesgo para la víctima que requiera la adopción de alguna de las medidas de protección reguladas en este artículo.
 
 2. La orden de protección será acordada por el juez de oficio o a instancia de la víctima o persona que tenga con ella alguna de las relaciones indicadas en el apartado anterior, o del Ministerio Fiscal.
 
@@ -35,6 +35,8 @@ Las medidas de carácter civil contenidas en la orden de protección tendrán un
 10. La orden de protección será inscrita en el Registro Central para la Protección de las Víctimas de la Violencia Doméstica.
 
 11. En aquellos casos en que durante la tramitación de un procedimiento penal en curso surja una situación de riesgo para alguna de las personas vinculadas con el imputado por alguna de las relaciones indicadas en el apartado 1 de este artículo, el Juez o Tribunal que conozca de la causa podrá acordar la orden de protección de la víctima con arreglo a lo establecido en los apartados anteriores.
+
+> Se modifica el apartado 1 por la disposición final 1.2.f) de la Ley Orgánica 15/2003, de 25 de noviembre. Ref. BOE-A-2003-21538.
 
 > Se añade por el art. 2 de la Ley 27/2003, de 31 de julio. Ref. BOE-A-2003-15411.
 

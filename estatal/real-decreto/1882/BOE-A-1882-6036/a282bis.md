@@ -20,24 +20,28 @@ b) Delitos relativos a la prostitución previstos en los artículos 187 a 189 de
 
 c) Delitos contra el patrimonio y contra el orden socioeconómico previstos en los artículos 237, 243, 244, 248 y 301 del Código Penal.
 
-d) Delitos contra los derechos de los trabajadores previstos en los artículos 312 y 313 del Código Penal.
+d) Delitos relativos a la propiedad intelectual e industrial previstos en los artículos 270 a 277 del Código Penal.
 
-e) Delitos de tráfico de especies de flora o fauna amenazada previstos en los artículos 332 y 334 del Código Penal.
+e) Delitos contra los derechos de los trabajadores previstos en los artículos 312 y 313 del Código Penal.
 
-f) Delito de tráfico de material nuclear y radiactivo previsto en el artículo 345 del Código Penal.
+f) Delitos de tráfico de especies de flora o fauna amenazada previstos en los artículos 332 y 334 del Código Penal.
 
-g) Delitos contra la salud pública previstos en los artículos 368 a 373 del Código Penal.
+g) Delito de tráfico de material nuclear y radiactivo previsto en el artículo 345 del Código Penal.
 
-h) Delito de falsificación de moneda previsto en el artículo 386 del Código Penal.
+h) Delitos contra la salud pública previstos en los artículos 368 a 373 del Código Penal.
 
-i) Delito de tráfico y depósito de armas, municiones o explosivos previsto en los artículos 566 a 568 del Código Penal.
+i) Delito de falsificación de moneda previsto en el artículo 386 del Código Penal.
 
-j) Delitos de terrorismo previstos en los artículos 571 a 578 del Código Penal.
+j) Delito de tráfico y depósito de armas, municiones o explosivos previsto en los artículos 566 a 568 del Código Penal.
 
-k) Delitos contra el Patrimonio Histórico previstos en el artículo 2.1.e) de la Ley Orgánica 12/1995, de 12 de diciembre, de represión del contrabando.
+k) Delitos de terrorismo previstos en los artículos 571 a 578 del Código Penal.
+
+l) Delitos contra el Patrimonio Histórico previstos en el artículo 2.1.e) de la Ley Orgánica 12/1995, de 12 de diciembre, de represión del contrabando.
 
 5. El agente encubierto estará exento de responsabilidad criminal por aquellas actuaciones que sean consecuencia necesaria del desarrollo de la investigación, siempre que guarden la debida proporcionalidad con la finalidad de la misma y no constituyan una provocación al delito.
 
 Para poder proceder penalmente contra el mismo por las actuaciones realizadas a los fines de la investigación, el Juez competente para conocer la causa deberá, tan pronto tenga conocimiento de la actuación de algún agente encubierto en la misma, requerir informe relativo a tal circunstancia de quien hubiere autorizado la identidad supuesta, en atención al cual resolverá lo que a su criterio proceda.
+
+> Se añade la letra d) al apartado 4 y se reordenan las antiguas letras como e), f), g), h), i), j), k) y l) por la disposición final 1.1.a) de la Ley Orgánica 15/2003, de 25 de noviembre. Ref. BOE-A-2003-21538.
 
 > Se añade por el art. 2 de la Ley Orgánica 5/1999, de 13 de enero. Ref. BOE-A-1999-846.

@@ -6,7 +6,9 @@ En las mismas condiciones podrá imponerle cautelarmente la prohibición de acud
 
 Para la adopción de estas medidas se tendrá en cuenta la situación económica del inculpado y los requerimientos de su salud, situación familiar y actividad laboral. Se atenderá especialmente a la posibilidad de continuidad de esta última, tanto durante la vigencia de la medida como tras su finalización.
 
-En caso de incumplimiento por parte del inculpado de la medida acordada por el juez o tribunal, éste convocará la comparecencia regulada en el artículo 505 de esta ley para la adopción de la prisión provisional en los términos del artículo 503 o de otra medida cautelar que implique una mayor limitación de su libertad personal, para lo cual se tendrán en cuenta la incidencia del incumplimiento, sus motivos, gravedad y circunstancias, sin perjuicio de las responsabilidades que del incumplimiento pudieran resultar.
+En caso de incumplimiento por parte del inculpado de la medida acordada por el juez o tribunal, éste convocará la comparecencia regulada en el artículo 505 para la adopción de la prisión provisional en los términos del artículo 503, de la orden de protección prevista en el artículo 544 ter o de otra medida cautelar que implique una mayor limitación de su libertad personal, para lo cual se tendrán en cuenta la incidencia del incumplimiento, sus motivos, gravedad y circunstancias, sin perjuicio de las responsabilidades que del incumplimiento pudieran resultar.
+
+> Se modifica el párrafo último por la disposición final 1.1.j) de la Ley Orgánica 15/2003, de 25 de noviembre. Ref. BOE-A-2003-21538.
 
 > Se modifica el párrafo último por el art. 3 de la Ley Orgánica 13/2003, de 24 de octubre. Ref. BOE-A-2003-19748.
 
