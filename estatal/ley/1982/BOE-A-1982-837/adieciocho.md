@@ -1,14 +1,18 @@
 ## Artículo dieciocho
 
-1. En la Audiencia Nacional, en los Tribunales Superiores de Justicia y en cada Audiencia Provincial, existirá una Fiscalía bajo la Jefatura directa del Fiscal respectivo, integrada por un Teniente Fiscal y los Fiscales que determine la plantilla. La Fiscalía ante el Tribunal Constitucional, bajo la dirección del Fiscal General del Estado, estará integrada por un Fiscal de Sala y los Fiscales que determine la plantilla. La Fiscalía Especial para la Prevención y Represión del Tráfico Ilegal de Drogas, bajo la dirección del Fiscal General del Estado, estará integrada por un Fiscal de Sala, por un Teniente Fiscal de la categoría segunda y por los Fiscales que determine la plantilla, que podrán pertenecer indistintamente a las categorías segunda y tercera. Del mismo modo, la Fiscalía Especial para la Represión de los Delitos Económicos relacionados con la Corrupción, bajo la dirección del Fiscal General del Estado y con competencias ante cualquier órgano judicial del territorio nacional, estará integrada por un Fiscal de Sala, por un Teniente Fiscal de la categoría segunda y por los Fiscales que determine la plantilla que podrán pertenecer indistintamente a las categorías segunda o tercera. También se considerarán integrados en la misma los Fiscales de las distintas Fiscalías que designe el Fiscal General del Estado en cuanto ejerzan las funciones específicas a que se refiere el artículo 18 ter de esta Ley.
+1. En la Audiencia Nacional, en los Tribunales Superiores de Justicia y en cada Audiencia Provincial existirá una Fiscalía bajo la jefatura directa del Fiscal respectivo, integrada por un Teniente Fiscal y por los Fiscales que determine la plantilla. La Fiscalía ante el Tribunal Constitucional, bajo la dirección del Fiscal general del Estado, estará integrada por un Fiscal de Sala, por un Teniente Fiscal y por los Fiscales que determine la plantilla. La Fiscalía Especial para la Prevención y Represión del Tráfico Ilegal de Drogas, bajo la dirección del Fiscal general del Estado, estará integrada por un Fiscal de Sala, por un Teniente Fiscal de la categoría segunda y por los Fiscales que determine la plantilla, que podrán pertenecer indistintamente a las categorías segunda y tercera. Del mismo modo, la Fiscalía Especial para la Represión de los Delitos Económicos relacionados con la Corrupción, bajo la dirección del Fiscal general del Estado y con competencias ante cualquier órgano judicial del territorio nacional, estará integrada por un Fiscal de Sala, por un Teniente Fiscal de la categoría segunda y por los Fiscales que determine la plantilla, que podrán pertenecer indistintamente a las categorías segunda o tercera. También se considerarán integrados en la misma los Fiscales de las distintas Fiscalías que designe el Fiscal general del Estado en cuanto ejerzan las funciones específicas a que se refiere el artículo 18 ter de esta Ley.
+
+En la Fiscalía de la Audiencia Nacional y en cada Fiscalía de los Tribunales Superiores de Justicia y de las Audiencias Provinciales existirá una Sección de Menores, a la que se encomendarán las funciones y facultades que al Ministerio Fiscal atribuye la Ley Orgánica reguladora de la Responsabilidad Penal de los Menores. A ella serán adscritos Fiscales que pertenezcan a sus respectivas plantillas, teniendo preferencia aquéllos que por razón de las anteriores funciones desempeñadas, cursos impartidos o superados o por cualquier otra circunstancia análoga se hayan especializado en la materia. No obstante, cuando las necesidades del servicio así lo aconsejen, podrán actuar también en otros ámbitos o materias.
+
+En las fiscalías de los Tribunales Superiores de Justicia y en las Audiencias Provinciales podrán existir las adscripciones permanentes que se determinen reglamentariamente.
 
 Corresponde a los Fiscales Jefes de cada órgano:
 
-a) Organizar los servicios y la distribución de trabajo entre los Fiscales de la plantilla, oída la Junta de Fiscalía.
+a) Organizar los servicios y la distribución del trabajo entre los Fiscales de la plantilla y la adscripción de los componentes de la Sección de Menores, oída la Junta de Fiscalía.
 
 b) Conceder los permisos y licencias de su competencia.
 
-c) Ejercer la facultad disciplinaria en los términos que se establezcan en el presente Estatuto y su Reglamento.
+c) Ejercer la facultad disciplinaria en los términos que establezcan el presente Estatuto y su Reglamento.
 
 d) Hacer las propuestas de recompensas, de méritos y las menciones honoríficas que procedan.
 
@@ -17,6 +21,8 @@ e) Las demás facultades que este Estatuto u otras disposiciones le confieran.
 2. El número de las Fiscalías y al plantilla de éstas se fijarán por Real Decreto, a propuesta del Ministro de Justicia, previo informe del Fiscal General del Estado, oído el Consejo Fiscal.
 
 La referida plantilla orgánica tendrá en todo caso, las limitaciones que se deriven de las previsiones presupuestarias y será revisada al menos cada cinco años para adaptarla a las nuevas necesidades.
+
+> Se modifica el apartado 1 por el art. único.3 de la Ley 12/2000, de 28 de diciembre. Ref. BOE-A-2000-24264
 
 > Se modifica el apartado 1 por el art. único.2 de la Ley 10/1995, de 24 de abril. Ref. BOE-A-1995-10066
 
