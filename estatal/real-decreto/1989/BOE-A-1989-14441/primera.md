@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+Las cantidades no invertidas y no ingresadas correspondientes a anticipos de Caja fija concedidos en el ejercicio 1988 y que al amparo de lo previsto en el artículo 25 de la Ley 33/1987, de 23 de diciembre, de Presupuestos Generales del Estado para 1988, se habrían de compensar en las primeras órdenes de pago que se expidieran a favor de las Cajas pagadoras, con el mismo carácter y aplicación al presupuesto de gastos del ejercicio 1989, se compensarán en los primeros mandamientos de pago no presupuestarios que se expidan como consecuencia de la concesión de anticipos de Caja fija prevista en el artículo 3.° de este Real Decreto.
