@@ -2,4 +2,16 @@
 
 Uno. La responsabilidad criminal será exigida ante los Tribunales de Justicia, de conformidad con lo establecido en la legislación penal y por los trámites que establecen las leyes de procedimiento.
 
-Dos. Cuando la Administración tuviere conocimiento de un hecho que pudiera ser constitutivo de delito cometido por medio de la Prensa o Imprenta y sin prejuicio de la obligación de la denuncia en el acto a las autoridades competentes, dando cuenta simultáneamente al Ministerio Fiscal, podrá, con carácter previo a las medidas judiciales que establece el título V del libro IV de la Ley de Enjuiciamiento Criminal, ordenar el secuestro a disposición de la autoridad judicial, del impreso o publicación delictivos donde quiera que éstos se hallaren, así como de sus moldes para evitar la difusión. La autoridad judicial, tan pronto como reciba la denuncia, adoptará la resolución que proceda respecto del secuestro del impreso o publicación, y sus moldes.
+Dos. A) Cuando la Administración tuviere conocimiento de un hecho que pudiera ser constitutivo de delito cometido por medio de impresos gráficos o sonoros dará cuenta al Ministerio Fiscal o lo comunicará al Juez competente, el cual acordará inmediatamente sobre el secuestro de dichos impresos con arreglo al artículo ochocientos dieciséis de la Ley de Enjuiciamiento Criminal.
+
+B) (Derogado)
+
+C) (Derogado)
+
+D) (Derogado)
+
+E) (Derogado)
+
+> Se derogan los apartados B) a E) por la disposición derogatoria de la Ley 62/1978, de 26 de diciembre. Ref. BOE-A-1979-88.
+
+> Se modifica el apartado 2 por el art. 3 del Real Decreto-Ley 24/1977, de 1 de abril. Ref. BOE-A-1977-9008.
