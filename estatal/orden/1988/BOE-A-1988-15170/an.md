@@ -200,7 +200,7 @@ En las cocinas y encimeras mixtas que incorporen placas eléctricas y quemadores
 
 Los aparatos incluidos en esta Instrucción Técnica Complementaria cumplirán las especificaciones de la norma UNE 60-755-81, parte 1, y se someterán para su homologación a las pruebas y ensayos que en la misma se indican.
 
-Para los aparatos previstos por el fabricante para ser encastrados en muebles de cocina dichas especificaciones, pruebas y ensayos, serán los de la citada norma con las adaptaciones contenidas en el anexo.
+Para los aparatos previstos por el fabricante para ser encastrados en muebles de cocina, dichas especificaciones, pruebas y ensayos, serán los de la citada norma con las adaptaciones de la norma UNE 60755-89, 1ª modificación.
 
 Sólo se podrá disponer un conjunto horno-encimera encastrados en el mismo módulo, cuando hayan sido homologados conjuntamente, incluso si uno de los aparatos funciona con una energía distinta del gas combustible. En este último caso, el aparato de gas se ensayará con los mismos criterios que para los aparatos combinados.
 
@@ -233,6 +233,8 @@ BOQUILLA PARA GASES DE LA 1ª Y 2ª FAMILIAS
 BOQUILLA PARA GASES DE LA 3 FAMILIA
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/147/15170_008.png)
+
+> Se modifica el párrafo quinto del apartado 1 de la ITC MIE-AG 6 por el apartado 1.1.1 de la Orden de 15 de febrero de 1991. Ref. BOE-A-1991-5288
 
 > Se amplía, hasta el 25 de febrero de 1990, la fecha de entrada en vigor de las ITC MIE-AG 1 y MIE-AG 2 por el apartado 1 de la Orden de 5 de julio de 1989. Ref. BOE-A-1989-16572
 
