@@ -1,0 +1,9 @@
+La actual regulación del sector vitivinícola se encuentra recogida, sustancialmente, en la Ley 25/1970, de 2 de diciembre, Estatuto de la Viña, del Vino y de los Alcoholes, y en su Reglamento de desarrollo, aprobado por el Decreto 835/1972, de 23 de marzo. No obstante, esta regulación ha sido modificada sustancialmente por la normativa comunitaria, cuya norma básica en este sector es el Reglamento (CE) número 1493/1999 del Consejo de 17 de mayo de 1999, por el que se establece la organización común del mercado vitivinícola.
+
+Asimismo, la distribución competencial resultante del actual Estado de las Autonomías, en el que las Comunidades Autónomas han asumido competencias exclusivas en materia de Agricultura y Denominaciones de Origen, supone un nuevo planteamiento de las relaciones entre las distintas Administraciones públicas.
+
+En la actualidad, se está elaborando un anteproyecto de Ley, que, con el carácter de normativa básica, sustituya al ya obsoleto Estatuto de la Viña, el Vino y los Alcoholes. No obstante, la necesidad de contar con un órgano de asesoramiento y coordinación de las Administraciones Públicas y de los sectores involucrados en una materia de la importancia económica como es la vitivinicultura, que, según estadísticas fiables, ponen de manifiesto que España es el tercer país productor de vino, con una exportación cada año de unos diez millones y medio de hectolitros de vinos y mostos y a pesar de ello con grandes excedentes, aconsejan, a instancias del propio sector, crear el Consejo Español de Vitivinicultura, sin dilatarlo hasta la aprobación de la futura Ley de la Viña y el Vino.
+
+En el procedimiento de elaboración de la presente Orden han sido consultadas las Comunidades Autónomas y los sectores afectados.
+
+En su virtud, previa aprobación del Ministro de Administraciones Públicas, dispongo:
