@@ -16,6 +16,12 @@ b) Empresas, entidades y establecimientos obligados a la adopción de medidas de
 
 2.º Cinco años para las medidas correspondientes a cámaras acorazadas y cámaras de cajas de alquiler.
 
+No será necesaria la adecuación exigida en esta disposición transitoria a los requisitos establecidos por las normas de desarrollo del Reglamento de Seguridad Privada, de las cámaras acorazadas de efectivo que tengan por finalidad exclusiva la de proteger el encaje diario necesario para el funcionamiento de la oficina correspondiente. También será necesaria la adecuación de los compartimentos de alquiler de las cámaras, ni la de las cajas fuertes o armarios blindados en que se ubiquen compartimentos de alquiler.
+
+Las cámaras acorazadas de efectivo, con excepción de las incluidas en el párrafo anterior, y las cámaras de cajas de alquiler instaladas con anterioridad a la fecha de entrada en vigor de las normas de desarrollo del Reglamento de Seguridad Privada, quedarán eximidas del cumplimiento del deber de adaptación a las medidas de seguridad establecidas, cuando los servicios policiales competentes verifiquen la imposibilidad física de llevar a cabo tal adaptación, y siempre que las citadas cámaras se doten de las medidas complementarias de carácter electrónico que se determinen."
+
+Las medidas correspondientes a cámaras acorazadas de efectivo y cámaras de cajas de alquiler reguladas en el Reglamento de Seguridad Privada y normas que lo desarrollen, serán exigibles a aquéllas que se instalen por primera vez a partir de la fecha de entrada en vigor de las citadas normas de desarrollo.
+
 3.º Cinco años para que las oficinas de farmacia instalen el dispositivo a que se refiere el artículo 131.1 de dicho Reglamento.
 
 4.º Cinco años para que las Administraciones de Lotería, Despachos de Apuestas Mutuas y locales de juegos de azar se adapten a lo dispuesto en el artículo 132.1 y 2 y en el artículo 133 del Reglamento, respectivamente.
@@ -31,3 +37,5 @@ B) Sistemas de seguridad electrónicos:
 4.º Cinco años para el resto de sistemas de seguridad electrónicos.
 
 2. Los sistemas de seguridad físicos de los cajeros automáticos y cajas fuertes, regulados en el Reglamento de Seguridad Privada y normas que lo desarrollen, serán exigibles a aquellos que se instalen a partir del año siguiente a la fecha de su entrada en vigor.
+
+> Se modifica el apartado 1.A).b).2 por la disposición adicional 2 del Real Decreto 1123/2001, de 19 de octubre. Ref. BOE-A-2001-21874.

@@ -1,4 +1,4 @@
-## Disposición adicional única. Funciones de las Policías de las Comunidades Autónomas.
+## Disposición adicional primera. Funciones de las Policías de las Comunidades Autónomas.
 
 Los órganos correspondientes y, en su caso, las Policías de las Comunidades Autónomas con competencias para la protección de personas y bienes y para el mantenimiento del orden público, con arreglo a lo dispuesto en sus Estatutos de Autonomía y lo previsto en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, ejercerán las facultades de autorización, inspección y sanción de las empresas de seguridad que tengan su domicilio legal en el territorio de cada Comunidad Autónoma y el ámbito de actuación limitado al mismo. También les corresponderá la denuncia, y puesta en conocimiento de las autoridades competentes, de las infracciones cometidas por las empresas de seguridad que no tengan su domicilio legal en el territorio de la Comunidad Autónoma o su ámbito de aplicación limitado al mismo. Asimismo, ejercerán las facultades en materia de seguridad privada derivadas de la disposición adicional de la Ley Orgánica 1/1992, de 21 de febrero, sobre protección de la seguridad ciudadana. En particular, les corresponden las funciones reguladas en los artículos de este Reglamento que seguidamente se determinan:
 
@@ -12,15 +12,15 @@ Los órganos correspondientes y, en su caso, las Policías de las Comunidades Au
 
 5.ª Artículo 12.2. Cancelación de inscripciones de empresas de seguridad.
 
-6.ª Artículo 15. Control de comienzo de las actividades de las empresas de seguridad inscritas y autorizadas por la Comunidad Autónoma.
+6.ª Artículos 14.1 y 15. Recepción de informaciones relativas a actividades y al personal de las empresas de seguridad. Y control de comienzo de las actividades de las empresas de seguridad inscritas y autorizadas por la Comunidad Autónoma.
 
-7.ª Artículo 17.1 y 2. Solicitud o conocimiento de la apertura de Delegaciones o sucursales de empresas de seguridad.
+7.ª Artículo 17.1 y 2. Solicitud o conocimiento de la apertura de delegaciones o sucursales de empresas de seguridad.
 
-8.ª Artículos 20 y 21. Control de contratos de prestación de servicios.
+8.ª Artículos 19.1.a), 20 y 21. Control de prestación de servicios y de los contratos correspondientes.
 
 9.ª Artículo 24. Determinación de servicios en los que las empresas deberán garantizar la comunicación entre sus sedes y el personal que los desempeñe.
 
-10.ª Artículo 27, apartados 3 y 4, y artículo 28; artículo 29, y artículo 30, apartados 1, 4 y 5.
+10.ª Artículo 27, apartados 3 y 4, y artículo 28 ; artículo 29, y artículo 30, apartados 1, 4 y 5.
 
 11.ª Autorización de actividades de protección de personas, cuando se desarrollen en el ámbito territorial de la Comunidad Autónoma.
 
@@ -42,9 +42,11 @@ Los órganos correspondientes de la Comunidad Autónoma competente darán cuenta
 
 19.ª Artículo 80.2. Autorización de servicios de seguridad en polígonos industriales o urbanizaciones aisladas.
 
-20.ª Artículo 93.3. Autorización de servicios con armas por guardas particulares del campo cuyas actividades se desarrollen en el ámbito territorial de la Comunidad Autónoma. 21.ª Artículo 96.b) y c). Disposición sobre prestación de servicios bajo la dirección de un jefe de seguridad.
+20.ª Artículo 93.3. Autorización de servicios con armas por guardas particulares del campo cuyas actividades se desarrollen en el ámbito territorial de la Comunidad Autónoma.
 
-22.ª Artículo 100. Comunicación de baja de los jefes de seguridad.
+21.ª Artículo 96.b) y c). Disposición sobre prestación de servicios bajo la dirección de un jefe de seguridad.
+
+22.ª Artículo 100. Comunicación de altas y bajas de los jefes de seguridad y de los directores de seguridad.
 
 23.ª Artículos 104, 105 y 107. La apertura de despachos de detectives privados y de sus delegaciones y sucursales, así como los actos constitutivos de sociedades de detectives y sus modificaciones, en el territorio de la Comunidad Autónoma deberán ser comunicadas a ésta por la Dirección General de la Policía, tan pronto como figuren regularizados en el correspondiente Registro.
 
@@ -52,11 +54,15 @@ Los órganos correspondientes de la Comunidad Autónoma competente darán cuenta
 
 25.ª Artículo 112.1. Exigencia a las empresas o entidades para que adopten servicios o sistemas de seguridad.
 
-26.ª Artículo 115. Solicitudes de creación de departamentos de seguridad.
+26.ª Artículo 115. Comunicaciones relativas a la creación de departamentos de seguridad y a la designación de directores de seguridad.
+
+Artículo 115. Solicitudes de creación de departamentos de seguridad.
 
 27.ª Artículo 118. Concesión de dispensas de la implantación o mantenimiento del servicio de vigilantes de seguridad, e inspección por parte de la Policía de la Comunidad Autónoma correspondiente.
 
-28.ª Artículo 120.2, párrafo tercero. Autorización para la sustitución de medidas de seguridad por la implantación del servicio de vigilantes de seguridad.
+28.ª Artículo 120.2, párrafo tercero.
+
+Autorización para la sustitución de medidas de seguridad por la implantación del servicio de vigilantes de seguridad.
 
 29.ª Artículo 124.3. Autorización para el funcionamiento de oficinas de cambio de divisas, bancos móviles y módulos transportables.
 
@@ -70,7 +76,7 @@ Los órganos correspondientes de la Comunidad Autónoma competente darán cuenta
 
 34.ª Artículo 132.4. Adopción de sistemas de seguridad por parte de Administraciones de Lotería y Despachos de Apuestas Mutuas.
 
-35.ª Artículo 136. Comprobaciones, inspección de apertura, y autorización de apertura de establecimientos u oficinas obligados a disponer de medidas de seguridad.
+35.ª Artículo 136. Comprobaciones, inspecciones y autorizaciones de apertura y traslado de establecimientos u oficinas obligados a disponer de medidas de seguridad, y de instalación, modificación y traslado de cajeros automáticos.
 
 36.ª Artículo 137.1. Competencia de control en materia de seguridad privada.
 
@@ -80,11 +86,11 @@ Los órganos correspondientes de la Comunidad Autónoma competente darán cuenta
 
 39.ª Artículo 138. Del informe anual de actividades de las empresas de seguridad que tengan su domicilio social y su ámbito de actuación limitado al territorio de una Comunidad Autónoma competente en la materia, que sea remitido a la Secretaría de Estado de Interior, será enviada copia por dicha Secretaría al órgano correspondiente de la Comunidad Autónoma.
 
-40.ª Artículo 140. Comunicación de modificaciones de empresas de seguridad inscritas en el registro de la Comunidad Autónoma.
+40.ª Artículo 140. Comunicación de modificaciones de empresas de seguridad inscritas en el Registro de la Comunidad Autónoma.
 
 41.ª Artículo 141. De la memoria anual de actividades de los detectives privados con despachos, delegaciones o sucursales sitos exclusivamente en el territorio de una Comunidad Autónoma competente en la materia, que sea remitida a la Secretaría de Estado de Interior, será enviada copia por dicha Secretaría al órgano correspondiente de la Comunidad Autónoma.
 
-42.ª Artículo 143. Disposición de los Libros-Registro de las empresas de seguridad, y de los detectives privados, y acceso a armeros, cámaras acorazadas e instalaciones de aquéllas; todo ello a efectos de inspección y control.
+42.ª Artículo 143. Disposición de los libros-registro de las empresas de seguridad, y de los detectives privados, y acceso a armeros, cámaras acorazadas e instalaciones de aquéllas ; todo ello a efectos de inspección y control.
 
 43.ª Artículo 145. Adopción de la medida cautelar de ocupación o precinto y ratificación de la misma, en su caso.
 
@@ -95,3 +101,5 @@ Los órganos correspondientes de la Comunidad Autónoma competente darán cuenta
 46.ª Artículo 158. Competencia para la instrucción de procedimientos sancionadores a las empresas de seguridad.
 
 47.ª Artículos 160 y 162. Competencia para la emisión de informe y para acordar la publicación de la sanción.
+
+> Se modifican las funciones numeradas como 6ª, 8ª, 22ª, 26ª y 35ª de la presente disposición que pasa a ser disposición adicional primera por el art. 1.47 del Real Decreto 1123/2001, de 19 de octubre. Ref. BOE-A-2001-21874.
