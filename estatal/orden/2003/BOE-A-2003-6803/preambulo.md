@@ -1,0 +1,21 @@
+El Real Decreto 664/1999, de 23 de abril, sobre inversiones exteriores, estableció un mecanismo para llevar a cabo las declaraciones de las mismas, a fin de posibilitar su conocimiento administrativo, estadístico o económico; si bien es la Orden del Ministerio de Economía de 28 de mayo de 2001, la que regula los procedimientos aplicables para las declaraciones previas y posteriores de inversiones exteriores y su liquidación.
+
+Del amplio contenido de la mencionada Orden destacaremos, a los efectos de la presente norma, únicamente los procedimientos de declaraciones posteriores relativas a operaciones de inversión en valores negociables, y que se hallan regulados en el Capítulo IV del Título II (cuando se trate de inversiones extranjeras en España) o en el Capítulo IV del Título III (de inversiones españolas en el exterior).
+
+En ambos casos, las entidades obligadas a realizar estas declaraciones ante la Administración Pública, lo están ante la Dirección General de Comercio e Inversiones, que a su vez se encuentra habilitada por la Disposición Final Segunda de la Orden del Ministerio de Economía de 28 de mayo de 2001, para establecer las especificaciones y requisitos necesarios para que las declaraciones a que se refiere esa Orden puedan presentarse en soporte magnético o bien realizarse mediante la utilización de medios electrónicos, informáticos o telemáticos.
+
+Posteriormente, la Resolución de 31 de mayo de 2001, de la Dirección General de Comercio e Inversiones sobre presentación de las declaraciones de inversiones extranjeras en valores negociables cotizados en mercados españoles y de inversiones españoles en valores negociables cotizados en mercados extranjeros, aprobó los procedimientos de declaración de inversiones en valores negociables realizadas a través de intermediarios financieros tanto por el sistema tradicional como por vía telemática.
+
+Por su parte, el artículo 45 de la Ley 30/92, de 26 de noviembre, de Régimen Jurídico de las Administraciones Publicas y del Procedimiento Administrativo Común, prevé el empleo y aplicación de las técnicas y medios electrónicos, informáticos y telemáticos por las Administraciones Publicas en el desarrollo de su actividad y el ejercicio de sus funciones.
+
+Tal previsión ha sido desarrollada por los Reales Decretos 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado y 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias de documentos, la devolución de originales y el régimen y funcionamiento de las oficinas de Registro.
+
+En este contexto, la iniciativa del Gobierno «INFO XXI» aprobada por reunión del Consejo de Ministros del día 23 de diciembre de 1999, ha supuesto un decidido impulso al desarrollo de la sociedad de la información al promover el uso de las nuevas tecnologías por las Administraciones Publicas tanto en sus relaciones internas como en su vertiente externa de relación con los ciudadanos.
+
+Finalmente, como corolario de todo lo anterior, el Ministerio de Economía ha desarrollado por Orden del Ministerio de Economía de 26 de noviembre de 2001, las aplicaciones y los sistemas de información necesarios para que los interesados, por el cauce de las técnicas electrónicas e informáticas, puedan relacionarse con dicho Departamento y los organismos públicos adscritos al mismo de forma segura y eficaz.
+
+Dicha Orden ha sido modificada por la Orden ECO/97/2003, de 22 de enero, en lo relativo a la habilitación del Subsecretario de Economía para incluir, mediante resolución, nuevos procedimientos y modelos cuyo ámbito competencial se circunscriba a los empleados del Ministerio de Economía.
+
+A sensu contrario, y dado que esta Orden contiene una regulación de carácter general aplicable a la posibilidad de presentación mediante medios informáticos, electrónicos y telemáticos de los documentos relacionados con las declaraciones de inversiones en los valores negociables citados en la Orden del Ministerio de Economía de 28 de mayo de 2001, la competencia corresponde al Ministro de Economía.
+
+En consecuencia, y haciendo uso de las habilitaciones que tengo conferidas, dispongo:
