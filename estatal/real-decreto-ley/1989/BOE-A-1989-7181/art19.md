@@ -1,0 +1,3 @@
+## Art. 19. Otro personal.
+
+Para los funcionarios en prácticas y eventuales, personal contratado y demás personal no incluido en el artículo 18, pero comprendido en el ámbito de aplicación de los artículos 31, 35, 37, 40, 41, 43 y 44 y disposiciones transitorias primera y segunda de la Ley 33/1987, de 23 de diciembre, de Presupuestos Generales del Estado para 1988, el importe de la paga se fija en el 1 por 100 de la retribución devengada durante 1988. A tal efecto, no se tendrán en cuenta las remuneraciones abonadas por gratificaciones que no tengan el carácter de fijas y periódicas, complementos personales y transitorios o conceptos retributivos equivalentes, así como tampoco la ayuda familiar ni las indemnizaciones por razón del servicio.

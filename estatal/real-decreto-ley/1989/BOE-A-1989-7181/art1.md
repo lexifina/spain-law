@@ -1,0 +1,7 @@
+## Art. 1. Revalorización adicional de las pensiones que, durante 1988, hubiesen perdido poder adquisitivo.
+
+Uno. Los pensionistas de la Seguridad Social que hubieran experimentado en 1988 una pérdida del poder adquisitivo de sus pensiones tendrán en 1989 una revalorización de la cuantía de las mismas, que será adicional a la prevista en el artículo 47 de la Ley 37/1988, de 28 de diciembre, de Presupuestos Generales del Estado para 1989, y en el Real Decreto 1584/1988, de 29 de diciembre, sobre revalorización de pensiones del Sistema de la Seguridad Social, y de otras prestaciones de protección social pública para 1989 que lo desarrolla.
+
+Dos. La revalorización adicional señalada en el número anterior será equivalente a aplicar sobre el importe mensual de la pensión a 31 de diciembre de 1988, excluidos los conceptos que se establecen en el artículo 3.° del Real Decreto 1584/1988, de 29 de diciembre, la diferencia existente entre el porcentaje de revalorización en 1988 de la pensión de que se trate o, en su caso, el fijado como revalorización media de las pensiones de la Seguridad Social en dicho ejercicio y el porcentaje de incremento del índice de Precios al Consumo en dicho año.
+
+Tres. Lo previsto en los apartados anteriores no será de aplicación a aquellas pensiones que, conforme a lo previsto en la Ley 33/1987, de 23 de diciembre, de Presupuestos Generales del Estado para 1988, no hubieran experimentado revalorización en 1988.

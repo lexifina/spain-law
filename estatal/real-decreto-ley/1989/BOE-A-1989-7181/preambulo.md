@@ -1,0 +1,53 @@
+Mediante diferentes Resoluciones adoptadas por el Pleno del Congreso de los Diputados, en la sesión celebrada el día 16 de febrero de 1989, se acordó instar al Gobierno para que, entre otras, adoptase las siguientes medidas:
+
+La compensación a quienes perciben retribuciones o pensiones del Estado a través de los Presupuestos y que hayan perdido poder adquisitivo a causa de la desviación de la inflación prevista en 1988, en términos tales que el efecto de la compensación, para los pensionistas, quede consolidado para el ejercicio 1989 y siguientes.
+
+La equiparación, durante la presente legislatura, de la pensión mínima al salario mínimo interprofesional.
+
+La ampliación de la cobertura por desempleo a los colectivos desempleados de larga duración, con consideración especial para los mayores de cuarenta y cinco años y para los que tengan cargas familiares.
+
+El establecimiento para 1989 de la cuantía de las pensiones asistenciales y del subsidio de garantía de ingresos mínimos en 20.000 pesetas/mes, así como el pago de una sola vez, para los beneficiarios de esas prestaciones de una cantidad equivalente a un punto de la masa de tales prestaciones en 1988.
+
+Fijar en sesenta y seis años el límite de edad que diera derecho a ser beneficiario de la pensión asistencial en razón de edad.
+
+En cumplimiento de las Resoluciones adoptadas, el presente Real Decreto-ley prevé que los pensionistas de la Seguridad Social, del Régimen de Clases Pasivas o de la Mutualidad Nacional de Previsión de la Administración Local que hubiesen perdido poder adquisitivo en 1988, a causa de la desviación de la inflación prevista para dicho ejercicio, tendrán derecho a una revalorización de sus pensiones, adicional a la ya establecida para dicho ejercicio, en cumplimiento de lo previsto en la Ley 37/1988, de Presupuestos Generales del Estado para 1989. Dicha revalorización adicional será equivalente a la diferencia existente entre el porcentaje de revalorización de las pensiones en 1988 y el correspondiente a la inflación de dicho ejercicio.
+
+Tal revalorización adicional se aplicará sobre la base de la pensión a 31 de diciembre de 1988, con lo que la compensación del poder adquisitivo queda consolidada para el ejercicio 1989 y siguientes.
+
+A su vez y por lo que respecta a las pensiones de Seguridad Social, el Real Decreto-ley prevé para las pensiones inferiores al salario mínimo una revalorización adicional que, además de compensar la pérdida del poder adquisitivo, mantenga la relación existente en la cuantía de estas pensiones respecto a las de mayor cuantía.
+
+Toda vez que la revalorización señalada es adicional a la ya realizada en base a la Ley de Presupuestos para el ejercicio 1989, el Real Decreto-ley fija la revalorización conjunta de ambas medidas, lo que implica que las pensiones de la Seguridad Social, en el ejercicio indicado, se incrementen en unos porcentajes que se sitúan entre el 5,8 y el 6,3 por 100, sin perjuicio de los importes de las pensiones mínimas que se señalan a continuación.
+
+De otro lado, en el Real Decreto-ley se fijan los nuevos importes de las pensiones mínimas del Sistema de Seguridad Social –los cuales tienen incidencia directa sobre el Régimen de Clases Pasivas y de la Mutualidad Nacional de Previsión de la Administración Local–, importes que facilitarán la equiparación de la pensión mínima familiar a la cuantía líquida del salario mínimo, así como el establecimiento de una relación adecuada entre esta clase de pensión y las demás pensiones mínimas, con la finalidad de que exista una correspondencia entre rentas mínimas de activos y pasivos, en términos homogéneos. En tal sentido y para el ejercicio 1989, las pensiones mínimas se incrementan, respecto a las cuantías de 1988, en los porcentajes del 11,9 por 100 para las pensiones en favor de beneficiarios con cónyuge a cargo, el 7,4 por 100, en el caso de pensiones mínimas sin cónyuge a cargo del beneficiario, y el 21,7 por 100 para las pensiones mínimas de viudedad, cuando el titular tiene sesenta y cinco años. Tales incrementos, además de suponer una mejora sustancial de las cuantías de estas pensiones mínimas, permitirán alcanzar durante la presente legislatura el objetivo de equiparación de la pensión mínima al salario mínimo.
+
+Por último, y por lo que respecta a otras prestaciones de protección social pública, el Real Decreto-ley establece en 20.000 pesetas la cuantía mensual de las pensiones asistenciales y del subsidio de garantía de ingresos mínimos, previendo, además, una reducción en un año el límite de edad para ser beneficiario de las pensiones asistenciales por razón de edad, límite que se sitúa en los sesenta y seis años. A su vez, se contempla el abono, a los beneficiarios de las prestaciones señaladas de una cantidad equivalente a un punto, en cómputo anual, del importe de dichas prestaciones en 1988.
+
+En cumplimiento de la Resolución adoptada por el Pleno del Congreso de los Diputados, se prevé asimismo la percepción por parte del personal funcionario o estatutario al servicio de la Administración del Estado de una paga, no consolidable para ejercicios futuros, por un importe que compense la pérdida del poder adquisitivo experimentado en 1988, estableciendo la misma medida, adaptada a sus peculiaridades para el personal laboral o contratado administrativo de dicha Administración.
+
+Por lo que se refiere a la protección por desempleo, debe significarse que en el actual contexto de la política de empleo y de protección por desempleo, y a pesar de la reactivación del mercado de trabajo que se refleja en la mejora ininterrumpida del empleo desde el segundo trimestre de 1985, la cifra de paro sigue manteniéndose en niveles muy elevados para la sociedad española.
+
+Los colectivos más afectados por esta situación de desempleo pueden identificarse por dos variables: De una parte, por el tiempo que lleven en situación de paro; de otra, la edad. El primer aspecto se produce porque la recuperación económica del empleo no afecta homogéneamente a la población desempleada, sino que, de hecho, se ven menos beneficiados por ella y por distintas razones, los trabajadores que llevan largo tiempo en desempleo. La variable de edad tiene en este contexto una influencia clara, cual es que el agotamiento de las prestaciones afecte en mayor medida a los trabajadores de mayor edad, pues según aumenta la edad de beneficiarios de las prestaciones, éstos encuentran más dificultad para colocarse y, por tanto, llegan a agotar los períodos a los que tienen derecho en mayor medida que los trabajadores más jóvenes, a pesar de tener unos períodos medios de derecho superiores.
+
+La situación en que se encuentran estos diferentes colectivos hace que el objetivo fundamental de la ampliación de las prestaciones deba ser cubrir las necesidades de quienes se encuentren en peor situación, como son los parados de larga duración, en línea con las políticas que se siguen en los Estados miembros de la Comunidad Europea donde la totalidad de la ampliación de las prestaciones por desempleo que se está produciendo se dirige a estos desempleados. Dentro de este colectivo ha de prestarse especial atención a aquéllos de mayor edad y a quienes tienen responsabilidades familiares.
+
+Por ello, de acuerdo con lo establecido en la disposición final séptima de la Ley 37/1988, de 28 de diciembre, así como en la Resolución adoptada por el Pleno del Congreso de los Diputados antes señalada, mediante el presente Real Decreto-ley se modifican determinados artículos de la Ley 31/1984, de 2 de agosto, de protección por desempleo, con objeto de ampliar la protección actualmente vigente a los parados de larga duración, tengan o no responsabilidades familiares, y especialmente a los mayores de cuarenta y cinco años de edad, ampliación que se vincula en algunos supuestos a la existencia de determinados períodos de ocupación cotizada previos a la situación de desempleo, adoptándose las siguientes medidas:
+
+a) Reducción de cincuenta y cinco a cincuenta y dos años de la edad actualmente necesaria para acceder a la prórroga indefinida del subsidio en el caso de desempleados que reúnan todos los requisitos exigidos, salvo la edad, para causar derecho a cualquier tipo de jubilación en el sistema de la Seguridad Social.
+
+b) Reconocimiento de un nuevo subsidio especial de seis meses de duración en favor de los desempleados de larga duración, mayores de cuarenta y cinco años, de cuantía variable entre el 75 y el 125 por 100 del salario mínimo interprofesional, según se tengan o no responsabilidades familiares y el número de las mismas.
+
+c) Ampliación en seis meses de la actual duración máxima del subsidio a desempleados de larga duración, mayores de cuarenta y cinco años, con responsabilidades familiares.
+
+d) Establecimiento de un nuevo subsidio de seis meses de duración para desempleados de larga duración, mayores de cuarenta y cinco años y sin responsabilidades familiares.
+
+e) Ampliación en seis meses de la actual duración máxima del subsidio a desempleados, cualquiera que sea su edad, siempre que lleven más de dos años en paro.
+
+Finalmente, se procede a extender la protección por desempleo a los trabajadores por cuenta ajena retribuidos a la parte que prestan servicios en embarcaciones pesqueras de más de 10 y hasta 20 toneladas de registro bruto, colectivo actualmente no protegido v afectado por una importante problemática de desempleo en los términos previstos en la normativa de desempleo de carácter general.
+
+Toda vez que las obligaciones que se contienen en la presente disposición precisan de los créditos oportunos que den cobertura financiera a aquéllas, se hace preciso proceder a una nueva asignación de los créditos contenidos en la Ley 37/1988, de 28 de diciembre, de Presupuestos Generales del Estado para 1989, redistribuyendo los mismos entré las diferentes secciones y capítulos, aunque respetando al máximo las previsiones reales de inversión.
+
+Como quiera que las medidas anteriormente descritas implican una modificación de disposiciones con rango de Ley, particularmente las citadas Leyes 37/1988, de 28 de diciembre y 31/1984, de 2 de agosto, su establecimiento requiere norma con igual rango. Ahora bien, la urgencia en su implantación efectiva, en cuanto que inciden en el nivel de protección de amplios colectivos sociales, hace aconsejable utilizar el mecanismo previsto en la Constitución, mediante la promulgación del oportuno Real Decreto-ley.
+
+En su virtud, en uso de la autorización contenida en el artículo 86 de la Constitución Española y previa deliberación del Consejo de Ministros en su reunión del día 31 de marzo de 1989,
+
+DISPONGO:

@@ -1,0 +1,3 @@
+## Art. 16. Importe de las pensiones mínimas durante 1989.
+
+Durante el ejercicio de 1989 los importes de las pensiones mínimas de la Mutualidad Nacional de Previsión de la Administración Local, teniendo en cuenta la prestación básica, la mejora y cualquier otro concepto computable a estos efectos, y sin perjuicio de la debida aplicación de las reglas de concurrencia con otras pensiones de carácter público contenidas en el artículo 7 del Real Decreto 92/1989, de 27 de enero, serán los que se reflejan en el anexo B y se concederán, en su caso, atendiendo exclusivamente a las rentas percibidas por el pensionista y no por la unidad familiar de éste.
