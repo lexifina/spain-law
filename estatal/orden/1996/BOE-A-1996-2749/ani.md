@@ -26,6 +26,8 @@ a) Documento MC (Modificaciones de Crédito):
 
 090 Bajas por anulación o rectificación.
 
+095 Aumento por rectificaciones.
+
 b) Documento RC de ejercicio corriente (solicitud de retenciones de crédito y registro de no disponibilidad):
 
 100 Retención de crédito para gastar.
@@ -108,6 +110,12 @@ n) Documento PR (prescripción de obligaciones):
 
 410 Rectificación del saldo inicial de obligaciones reconocidas. Aumento (si es positivo) o disminución (si es negativo).
 
+411. Rectificación del saldo inicial de obligaciones asociadas a proyectos de inversión procedentes de otros entes. Aumento (si es positivo) o disminución (si es negativo). (Uso excepcional).
+
+412. Rectificación del saldo inicial de obligaciones reconocidas sin facilitar datos de proyectos de inversión. Aumento (si es positivo) o disminución (si es negativo). (Uso excepcional).
+
+413. Rectificación del saldo entrante de obligaciones anteriores a 1996 con datos de proyectos de inversión. Aumento (si es positivo) o disminución (si es negativo). (Uso excepcional).
+
 o) Documento I (concesión de Anticipos de Tesorería):
 
 000 Concesión del Anticipo de Tesorería.
@@ -118,9 +126,19 @@ p) Documento PMP (propuesta de mandamiento de pago por devolución de ingresos y
 
 410 Propuesta de mandamiento de pago.
 
+411.1 Anulación de propuesta de mandamiento de pago por devolución de ingresos expedidos en el ejercicio anterior.
+
+Además, se abren claves de operación relativas a recursos locales:
+
+400.0 Propuesta de mandamiento de pago por recursos recaudados.
+
+410.0 Reconocimiento de acreedores por devolución de ingresos.
+
 q) Documento CA (certificaciones anticipadas):
 
-410 Certificaciones anticipadas.
+425. Certificaciones anticipadas.
+
+426. Cesión del derecho de cobro de la certificación anticipada.
 
 r) Documento de periodificación de gastos:
 
@@ -258,7 +276,7 @@ Anticipos al personal.
 
 43. Importe a desglosar o distribuir: Importe que se pretende desglosar o, en su caso, distribuir entre los servicios periféricos.
 
-44. Subconcepto, partida o provincia: Se indicarán los subconceptos en los que se desglosa un concepto, o, en su caso, las partidas en que se desglosa un subconcepto. Cuando se refiera a delegación de créditos, se indicará el código de la provincia a que corresponda el servicio periférico.
+44. Subconcepto, partida, subprograma, elemento de programa o provincia: Se indicarán los subconceptos en los que se desglosa un concepto o, en su caso, las partidas en que se desglosa un subconcepto. Asimismo, se indicarán los subprogramas en los que se desglosa un programa o, en su caso, los elementos de programa en que se desglosa un subprograma. Cuando se refiera a delegación de créditos se indicará el código de la provincia a que corresponda el servicio periférico.
 
 45. Importe desglosado: Importe correspondiente a cada uno de los subconceptos, partidas o provincias a los que se refiere la nota 44 anterior.
 
@@ -563,5 +581,15 @@ Cuando se utilicen documentos «Anexo», en aquellos documentos a los que comple
 195. Parte de los rendimientos implícitos totales periodificados a fin del ejercicio anterior que se imputan a resultados del ejercicio corriente.
 
 196. Importe de los títulos convertidos valorados al precio de conversión.
+
+197. IB: Se indicará el número de operación de inventario procedente del subsistema CIMA a que corresponda la inversión.
+
+198. Tipo de desglose: Se indicará el tipo de desglose que se efectúe: Orgánico, funcional o económico.
+
+(*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifica por el apartado 3.A) y la disposición adicional de la Resolución de 23 de febrero de 1999. Ref. BOE-A-1999-5362.
+
+> Esta modificación surte efectos desde el 1 de enero de 1999, según establece la disposición final.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 58, de 7 de marzo de 1996. Ref. BOE-A-1996-5270.

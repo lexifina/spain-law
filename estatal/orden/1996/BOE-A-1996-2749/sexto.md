@@ -4,7 +4,7 @@
 
 a) Documento MC: Se utilizará en las modificaciones presupuestarias que aumenten o disminuyan los créditos.
 
-b) Documento de desglose: Se utilizará en las operaciones de desglose de conceptos en subconceptos o de subconceptos en partidas. También se utilizará para comunicar la distribución por servicios periféricos de las delegaciones de créditos.
+b) Documento de desglose: Se utilizará en las operaciones de desglose de conceptos en subconceptos o de subconceptos en partidas. Asimismo, se utilizará en las operaciones de desglose de programas en subprogramas o de subprogramas en elementos de programas. También se utilizará para comunicar la distribución por servicios periféricos de las delegaciones de créditos.
 
 c) Documento RC de ejercicio corriente: Se utilizará para solicitar certificado de existencia y retención de crédito en los expedientes de gasto, de transferencias y de desconcentración de créditos. Para el registro de los acuerdos de no disponibilidad se utilizará el documento específico RC-102.
 
@@ -45,3 +45,7 @@ s) Documento PR: Se utilizará para el registro de la prescripción de obligacio
 t) Documento MD: Se utilizará para el registro de las modificaciones o rectificaciones de errores de las obligaciones reconocidas en ejercicios anteriores pendientes de proponer el pago para el supuesto que se indica en el apartado o) anterior y para el caso de otras obligaciones reconocidas con anterioridad a la entrada en vigor de la presente Orden.
 
 2. Cuando se deba proceder a la anulación de cualquiera de las operaciones que se indican en el punto anterior, se expedirá un documento idéntico al confeccionado para el registro de la operación en cuestión pero de signo contrario.
+
+> Se modifica el punto 1.b) por la disposición adicional de la Resolución de 23 de febrero de 1999. Ref. BOE-A-1999-5362.
+
+> Esta modificación surte efectos desde el 1 de enero de 1999, según establece la disposición final.
