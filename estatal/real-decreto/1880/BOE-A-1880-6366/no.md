@@ -1,0 +1,1 @@
+Téngase en cuenta que este Reglamento continúa en vigor siempre que no se oponga a lo establecido en el texto refundido de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril, según establece la disposición transitoria 7 de la citada Ley. Ref. BOE-A-1996-8930#dtseptima.

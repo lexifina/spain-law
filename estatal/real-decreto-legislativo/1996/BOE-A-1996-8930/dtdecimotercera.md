@@ -1,0 +1,5 @@
+## Disposición transitoria decimotercera. Regulación de situaciones especiales en cuanto al plazo de protección.
+
+1. La presente Ley no afectará a ningún acto de explotación realizado antes del 1 de julio de 1995. Los derechos de propiedad intelectual que se establezcan en aplicación de esta Ley no generarán pagos por parte de quienes hubiesen emprendido de buena fe la explotación de las obras y prestaciones correspondientes en el momento en que dichas obras eran de dominio público.
+
+2. Los plazos de protección contemplados en esta Ley se aplicarán a todas las obras y prestaciones que estén protegidas en España o al menos en un Estado miembro de la Unión Europea el 1 de julio de 1995 en virtud de las correspondientes disposiciones nacionales en materia de derechos de propiedad intelectual, o que cumplan los criterios para acogerse a la protección de conformidad con las disposiciones que regulan en esta Ley el derecho de distribución, en cuanto se refiere a obras y prestaciones, así como los derechos de fijación, reproducción y comunicación al público, en cuanto se refieren a prestaciones.

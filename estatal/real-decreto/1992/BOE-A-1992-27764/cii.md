@@ -2,4 +2,8 @@
 
 ## Convenio sobre la remuneración compensatoria.
 
+> Se deroga por la disposición derogatoria única.1.b) del texto refundido aprobado por Real Decreto Legislativo 1/1996, de 12 de abril. Ref. BOE-A-1996-8930.
+
+> Téngase en cuenta que ya está derogado por la Ley 43/1994, de 30 de diciembre.
+
 > Se deroga por la disposición derogatoria única de la Ley 43/1994, de 30 de diciembre. Ref. BOE-A-1994-28969.
