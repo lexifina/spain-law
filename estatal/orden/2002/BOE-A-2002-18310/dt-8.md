@@ -7,3 +7,5 @@ Con el fin de proporcionar un período lo suficientemente amplio para la obtenci
 2. Básico de Buques de Pasaje.
 
 3. Botes de Rescate Rápidos.
+
+> Téngase en cuenta que el periodo a que hace referencia esta disposición se prorrogó hasta el 31 de diciembre de 2005, por el art. único de la Orden FOM/4209/2004, de 16 de diciembre. Ref. BOE-A-2004-21608
