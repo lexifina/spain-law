@@ -1,0 +1,3 @@
+## TÍTULO IV
+
+> Téngase en cuenta que se prohíben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales por el art. 26 de la Constitución Española. Ref. BOE-A-1978-31229#a26.
