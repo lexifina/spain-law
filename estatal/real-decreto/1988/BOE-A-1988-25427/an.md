@@ -6,6 +6,8 @@
 
 UNE 80-301-88. Cementos. Definiciones, clasificación y especificaciones.
 
+UNE 80-301-88 1 M. Cementos. Definiciones, clasificación y especificaciones.
+
 UNE 80-302-85. Cementos. Especificaciones químicas para sus constituyentes.
 
 UNE 80-303-86. Cementos. Cementos con características especiales.
@@ -37,3 +39,7 @@ UNE 80-280-88. Métodos de ensayo de cementos. Ensayos de puzolanicidad para cem
 UNE 80-304-86. Cementos. Cálculo de la composición potencial del clinker portland.
 
 UNE 80-401-87. Cementos. Toma de muestras.
+
+UNE 80-403-88. Cementos. Control de la producción. Criterios de conformidad.
+
+> Se modifica por el apartado 1 de la Orden de 28 de junio de 1989. Ref. BOE-A-1989-15171.
