@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Actas de las declaraciones de nacimiento.
+
+En los casos de delegación a que se refieren las reglas 3.ª y 4.ª del artículo 44 del Reglamento del Registro Civil, en el ámbito de las inscripciones ordinarias de nacimiento, se faculta a los funcionarios delegados para que puedan convertir en acta el propio cuestionario oficial de la declaración del nacimiento, mediante la incorporación de una diligencia de autenticación, autorizada bajo firma de aquél, que recoja la ratificación del contenido del cuestionario por parte del declarante, previa constatación fehaciente de su identidad y capacidad, así como el lugar y momento de su ratificación y subsiguiente firma por el mismo o, en su caso, por dos testigos a su ruego.
