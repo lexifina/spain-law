@@ -1,0 +1,3 @@
+## Disposición final primera.
+
+Se autoriza al Ministro de Educación y Ciencia, previo informe favorable de la Dirección General de Seguros del Ministerio de Economía y Hacienda, para la modificación de los tipos de prestaciones, las cuantías indemnizatorias y los plazos contenidos en el anexo del presente Real Decreto, cuando así lo exija la variación de las especificaciones técnicas contenidas en el mismo y siempre en los términos del ámbito material que se establece en el artículo 2 de esta disposición. En cualquier caso, la actualización de las cuantías indemnizatorias tendrá lugar a los tres años de la entrada en vigor del presente Real Decreto.
