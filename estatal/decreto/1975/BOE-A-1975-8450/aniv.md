@@ -312,7 +312,7 @@ La opacidad no será superior al 20 por 100 o al número 1 de la escala de Riuge
 | Emisión de SO2 |  |  |  |
 | Calderas y hornos | 5.900 | 5.000 | 4.200 |
 | Otras instalaciones | 3.400 | 3.400 | 2.500 |
-| Emisión máxima diaria (1) Tm/día | 7 × C (1) | 5 × C (1) | 20 (1) |
+| Emisión máxima diaria (1) Tm/día | (Derogado) |  |  |
 
 C = Capacidad a nivel de tratamiento de crudo en millones de Tm.
 
@@ -574,5 +574,7 @@ La opacidad de los humos no superará el número 1 de la escala de Ringelmann.
 Opacidad:
 
 El índice de ennegrecimiento no será superior al número 1 de la escala de Ringelmann o al número 2 de la escala de Bacharach, que equivale al 20 por 100 de opacidad.
+
+> Se deroga la disposición del apartado 7 relativa a la emisión máxima diaria de SO2, en Tm/día, en refinerías de petróleo, por la disposición derogatoria única del Real Decreto 1800/1995, de 3 de noviembre. Ref. BOE-A-1995-26525.
 
 > Se modifica por el art. único del Real Decreto 547/1979, de 20 de febrero. Ref. BOE-A-1979-8096.
