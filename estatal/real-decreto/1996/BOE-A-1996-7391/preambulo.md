@@ -1,0 +1,11 @@
+El artículo 30 de la Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y de orden social, crea el Registro de Prestaciones Sociales Públicas, encomendando al Instituto Nacional de la Seguridad Social su gestión y funcionamiento, de acuerdo con las prescripciones contenidas en dicha Ley.
+
+De igual modo, el artículo 31 de la citada Ley prevé que por los organismos dependientes del Ministerio de Justicia e Interior se faciliten a las entidades gestoras de la Seguridad Social, responsables de la gestión de las prestaciones económicas, los datos personales informatizados de todas las defunciones, así como de los matrimonios de las personas viudas.
+
+Se hace, pues, necesario desarrollar las previsiones legales mencionadas, que permitan la constitución efectiva del Registro de Prestaciones Sociales Públicas, que constituye, al igual que su antecedente el Banco de Datos de Pensiones Públicas, un instrumento básico en la gestión pública de la protección social, ya que el tratamiento automatizado de los datos correspondientes, permite de una parte una gestión más ágil y eficaz, en beneficio de los perceptores y solicitantes de las prestaciones sociales públicas, al tiempo que posibilita un control permanente respecto al mantenimiento del derecho a tales prestaciones y, de este modo, facilita las medidas de lucha contra la utilización indebida de la protección y el fraude, que, si siempre es exigible en cualquier actuación pública, lo es más cuando la misma se refiere a prestaciones sociales.
+
+A través del presente Real Decreto se regula la constitución del Registro de Prestaciones Sociales Públicas y de su contenido, así como el funcionamiento de aquél, teniendo en cuenta, a estos efectos, los principios y requisitos exigidos por la Ley Orgánica 5/1992, de 29 de octubre, sobre tratamiento automatizado de los datos de carácter personal.
+
+En su virtud, a propuesta del Ministro de Trabajo y Seguridad Social, previo informe de los Ministerios de Justicia e Interior, de Defensa y de Economía y Hacienda, así como de la Agencia de Protección de Datos, con la aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 1 de marzo de 1996,
+
+DISPONGO:
