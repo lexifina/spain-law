@@ -1,3 +1,5 @@
+> Norma derogada, salvo lo indicado del Título I por la disposición derogatoria única del Real Decreto 1231/2001, de 8 de noviembre. Ref. BOE-A-2001-20934#ddunica.
+
 > Esta norma pasa a denominarse "Real Decreto 1856/1978, de 29 de junio, por el que se aprueban los Estatutos de la Organización Colegial de Diplomados en Enfermería", según establece el art. único.1 del Real Decreto 306/1993, de 26 de febrero. Ref. BOE-A-1993-7366.
 
 El preámbulo de la orden del entonces Ministerio de la Gobernación, de uno de abril de mil novecientos setenta y siete recogía las razones de la conveniencia de que la Organización Colegial de Ayudantes Técnicos Sanitarios se ajustase al principio de colegiación única e indiscriminada, sin perjuicio de que en los Estatutos que, siguiendo la orientación de la Ley dos/mil novecientos setenta y cuatro, de trece de febrero, se confeccionasen, se pudiese establecer la posibilidad de constatación, organización defensa específica de los intereses de las distintas especialidades profesionales legalmente establecidas.
