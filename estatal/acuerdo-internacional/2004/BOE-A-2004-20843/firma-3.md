@@ -1,0 +1,1 @@
+Hecho en Buenos Aires el 3 de diciembre de 1997, en dos ejemplares, siendo ambos textos igualmente auténticos.—Por el Ministerio de Trabajo y Asuntos Sociales, el Subsecretario.—Por el Ministerio de Trabajo y Seguridad Social, el Ministro.
