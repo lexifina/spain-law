@@ -1,3 +1,5 @@
 ## Disposición transitoria décima.
 
-La obligatoriedad de contar con la correspondiente autorización para realizar transporte discrecional de viajeros o de mercancías prevista en esta Ley, no será exigible para los transportes de viajeros en vehículos de más de nueve plazas, o de mercancías, cualquiera que sea su capacidad, que se lleven a cabo íntegramente en suelo urbano, hasta el día 1 de enero de 1988, a no ser que los correspondientes Ayuntamientos establezcan una fecha anterior. Reglamentariamente se determinará el sistema de otorgamiento de las necesarias autorizaciones a las personas que justifiquen que en el momento de entrada en vigor de esta Ley venían realizando legalmente transportes urbanos de los tipos citados.
+(Anulada)
+
+> Se declara la inconstitucionalidad y nulidad por Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381
