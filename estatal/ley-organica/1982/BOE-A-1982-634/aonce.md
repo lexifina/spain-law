@@ -1,23 +1,35 @@
 ## Artículo 11.
 
-En el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, corresponde al Principado de Asturias, para el ejercicio de las competencias establecidas en el artículo ciento cuarenta y ocho de la Constitución el desarrollo legislativo y la ejecución en las siguientes materias:
+En el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, corresponde al Principado de Asturias, para el ejercicio de las competencias establecidas en el artículo 148 de la Constitución el desarrollo legislativo y la ejecución en las siguientes materias:
 
-a) Régimen local en la forma prevista en el artículo ciento cuarenta y ocho coma uno coma segundo de la Constitución y, en especial, la alteración de los términos y denominaciones de los Concejos comprendidos en su territorio, así como la creación de organizaciones de ámbito inferior y superior a los mismos, en los términos establecidos en el artículo sexto de este Estatuto.
+1. Régimen local en la forma prevista en el artículo 148.1.2. de la Constitución y, en especial, la alteración de los términos y denominaciones de los Concejos comprendidos en su territorio, así como la creación de organizaciones de ámbito inferior y superior a los mismos, en los términos establecidos en el artículo sexto de este Estatuto.
 
-b) Montes y aprovechamientos forestales, con especial referencia al régimen jurídico de los montes vecinales en mano común, a los montes comunales, vías pecuarias y pastos, espacios naturales protegidos y régimen de la zona de montaña.
+2. Montes y aprovechamientos forestales, con especial referencia al régimen jurídico de los montes vecinales en mano común, a los montes comunales, vías pecuarias y pastos, espacios naturales protegidos y régimen de la zona de montaña.
 
-c) Instituciones de crédito corporativo público territorial y Cajas de Ahorro.
+3. Instituciones de crédito corporativo público territorial y Cajas de Ahorros.
 
-d) Ordenación y planificación de la actividad económica regional, en el ejercicio de las competencias asumidas en el marco de este Estatuto.
+4. Ordenación y planificación de la actividad económica regional, en el ejercicio de las competencias asumidas en el marco de este Estatuto.
 
-e) Régimen minero y energético.
+5. Investigación en las materias de interés para el Principado de Asturias.
 
-f) Investigación en las materias de interés para el Principado de Asturias.
+6. Sanidad e higiene.
 
-g) Sanidad e higiene.
+7. La coordinación y demás facultades en relación con las policías locales, en los términos que establezca la Ley Orgánica.
 
-h) Especialidades del régimen jurídico-administrativo derivado de las competencias asumidas por el Principado de Asturias.
+8. Coordinación hospitalaria en general, incluida la de la Seguridad Social.
 
-i) La coordinación y demás facultades en relación con las policías locales, en los términos que establezca la Ley Orgánica.
+9. Corporaciones de derecho público representativas de intereses económicos y profesionales.
 
-j) Coordinación hospitalaria en general, incluida la de la Seguridad Social.
+10. Defensa del consumidor y usuario, de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, las bases y coordinación general de la sanidad, en los términos de lo dispuesto en los artículos 38, 131, y en los números 11, 13 y 16 del apartado 1 del artículo 149 de la Constitución.
+
+11. Normas adicionales de protección del medio ambiente.
+
+12. Régimen minero y energético.
+
+13. Prensa, radio, televisión y otros medios de comunicación social, en el marco de las normas básicas que el Estado establezca de acuerdo con el número 27 del apartado 1 del artículo 149 de la Constitución.
+
+14. Ordenación del sector pesquero.
+
+> Se modifica por el art. único.2 de la Ley Orgánica 1/1994, de 24 de marzo. Ref. BOE-A-1994-6940
+
+> Redactado el apartado 7 conforme a la corrección de errores publicada en BOE núm. 57, de 8 de marzo de 1995. Ref. BOE-A-1995-5916
