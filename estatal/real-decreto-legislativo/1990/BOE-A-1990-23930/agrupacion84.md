@@ -32,6 +32,12 @@ Epígrafe 843.5 Servicios técnicos de delineación.
 
 Cuota de: 42.953 pesetas.
 
+Epígrafe 843.6. Inspección técnica de vehículos.
+
+Cuota de 48.318 pesetas.
+
+Nota: Este Epígrafe comprende la realización de todas las actividades que señala la normativa administrativa reguladora del servicio público de inspección técnica de vehículos, incluidas las que se realicen en la zona concesional mediante la utilización de estaciones móviles.
+
 Epígrafe 843.9 Otros servicios técnicos n.c.o.p.
 
 Cuota de: 44.195 pesetas.
@@ -121,6 +127,10 @@ Nota: Este epígrafe comprende la prestación por un mismo sujeto pasivo de una 
 Epígrafe 849.9 Otros servicios independientes n.c.o.p.
 
 Cuota de: 33.638 pesetas.
+
+> Se añade el epígrafe 843.6 por el art. 70.1.1 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785.
+
+> Téngase en cuenta para su aplicación el art. 70.3.
 
 > Se añade el Grupo 847 por el art. 68.1.2 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154.
 

@@ -24,6 +24,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Articulo octavo](aoctavo.md)
 - [Disposición transitoria primera](primera.md)
 - [Disposición transitoria segunda](segunda.md)
+- [Disposición transitoria tercera](tercera.md)
 - [Disposición adicional primera](primera-2.md)
 - [Disposición adicional segunda](segunda-2.md)
 - [Disposición adicional tercera](tercera-2.md)

@@ -75,11 +75,11 @@ d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros
 | Superficie del local | Población de derecho |
 | --- | --- |
 | Más de 500.000 habitantes | De 100.001 a 500.000 hbts. | De 50.001 a 100.000 hbts. | De 20.001 a 50.000 hbts. | De 5.001 a 20.000 hbts. | Menos de 5.000 hbts. |
-| De 0 a 500 m2 | 115 | 81 | 53 | 32 | 16 | 6 |
-| De 500,1 a 3.000 m2 | 89 | 61 | 40 | 24 | 12 | 5 |
-| De 3.000,1 a 6.000 m2 | 71 | 50 | 33 | 20 | 10 | 4 |
-| De 6.000,1 a 10.000 m2 | 62 | 43 | 28 | 17 | 9 | 4 |
-| Exceso de 10.000 m2 | 53 | 37 | 24 | 14 | 7 | 3 |
+| De 0 a 500 m2 | 120 | 84 | 55 | 34 | 17 | 7 |
+| De 500,1 a 3.000 m2 | 93 | 65 | 42 | 25 | 13 | 6 |
+| De 3.000,1 a 6.000 m2 | 74 | 52 | 35 | 21 | 11 | 5 |
+| De 6.000,1 a 10.000 m2 | 64 | 45 | 29 | 18 | 10 | 5 |
+| Exceso de 10.000 m2 | 55 | 39 | 25 | 15 | 8 | 4 |
 
 2.º Cuadro II: Este cuadro se aplicará para calcular el valor de la superficie de los locales en los que se ejerzan las actividades de transporte y comunicaciones clasificadas en la División 7 de la Sección 1.ª de las Tarifas.
 
@@ -88,11 +88,11 @@ d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros
 | Superficie del local | Población de derecho |
 | --- | --- |
 | Más de 500.000 habitantes | De 100.001 a 500.000 hbts. | De 50.001 a 100.000 hbts. | De 20.001 a 50.000 hbts. | De 5.001 a 20.000 hbts. | Menos de 5.000 hbts. |
-| De 0 a 500 m2 | 86 | 60 | 39 | 23 | 12 | 5 |
-| De 500,1 a 3.000 m2 | 66 | 46 | 30 | 18 | 9 | 4 |
-| De 3.000,1 a 6.000 m2 | 54 | 38 | 25 | 15 | 8 | 3 |
-| De 6.000,1 a 10.000 m2 | 46 | 32 | 21 | 13 | 7 | 3 |
-| Exceso de 10.000 m2 | 41 | 29 | 19 | 11 | 6 | 2 |
+| De 0 a 500 m2 | 90 | 63 | 41 | 24 | 13 | 6 |
+| De 500,1 a 3.000 m2 | 69 | 48 | 32 | 19 | 10 | 5 |
+| De 3.000,1 a 6.000 m2 | 56 | 40 | 26 | 16 | 9 | 4 |
+| De 6.000,1 a 10.000 m2 | 48 | 34 | 22 | 14 | 8 | 4 |
+| Exceso de 10.000 m2 | 43 | 31 | 20 | 12 | 7 | 3 |
 
 3.º Cuadro III: Este cuadro se aplicará para calcular el valor de la superficie de los locales en los que se ejerzan las actividades de instituciones financieras, seguros, servicios prestados a las empresas y alquileres clasificados en la División 8 de la Sección 1.ª de las Tarifas.
 
@@ -101,11 +101,11 @@ d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros
 | Superficie del local | Población de derecho |
 | --- | --- |
 | Más de 500.000 habitantes | De 100.001 a 500.000 hbts. | De 50.001 a 100.000 hbts. | De 20.001 a 50.000 hbts. | De 5.001 a 20.000 hbts. | Menos de 5.000 hbts. |
-| De 0 a 500 m2 | 274 | 192 | 125 | 75 | 38 | 15 |
-| De 500,1 a 3.000 m2 | 210 | 147 | 96 | 58 | 29 | 12 |
-| De 3.000,1 a 6.000 m2 | 168 | 118 | 77 | 46 | 23 | 9 |
-| 6.000,1 a 10.000 m2 | 143 | 100 | 65 | 39 | 20 | 8 |
-| Exceso de 10.000 m2 | 123 | 86 | 56 | 34 | 17 | 7 |
+| De 0 a 500 m2 | 284 | 199 | 130 | 78 | 40 | 16 |
+| De 500,1 a 3.000 m2 | 218 | 153 | 100 | 61 | 31 | 13 |
+| De 3.000,1 a 6.000 m2 | 174 | 123 | 80 | 48 | 24 | 10 |
+| 6.000,1 a 10.000 m2 | 149 | 104 | 68 | 41 | 21 | 9 |
+| Exceso de 10.000 m2 | 128 | 90 | 58 | 36 | 18 | 8 |
 
 El importe total del valor del elemento superficie será el resultante de sumar, en su caso, los valores parciales correspondientes a cada tramo de superficie del local, calculándose dichos valores parciales mediante la multiplicación del número de metros cuadrados a computar en cada tramo por el número de pesetas asignadas a los mismos en función de la población de derecho del Municipio en el que esté situado el local.
 
@@ -129,14 +129,14 @@ Para calcular dicho valor se agregarán todos los metros cuadrados de superficie
 
 Cuotas provinciales y nacionales
 
-| De 0 a 500 m2 | 375 pesetas |
+| De 0 a 500 m2 | 389 pesetas |
 | --- | --- |
-| De 500,1 a 3.000 m2 | 275 pesetas |
-| De 3.000,1 a 6.000 m2 | 225 pesetas |
-| De 6.000,1 a 10.000 m2 | 185 pesetas |
-| Exceso de 10.000 m2 | 160 pesetas |
+| De 500,1 a 3.000 m2 | 285 pesetas |
+| De 3.000,1 a 6.000 m2 | 233 pesetas |
+| De 6.000,1 a 10.000 m2 | 192 pesetas |
+| Exceso de 10.000 m2 | 166 pesetas |
 
-h) (Suprimida)
+h) Los locales en los que los sujetos pasivos por cuota mínima municipal no ejerzan directamente sus actividades respectivas, tales como centros de dirección, oficinas administrativas, centros de cálculo, almacenes o depósitos para los que se esté facultado, etc., tributarán cada uno de ellos por una cuota mínima de las previstas en el párrafo segundo de apartado 1 de la Regla 10.ª Dicha cuota mínima estará integrada, exclusivamente, por el importe que resulte de aplicar el cuadro que corresponda de los contenidos en la letra d) anterior, sin que proceda ponderar dicho importe por aplicación del coeficiente resultante del cuadro contenido en la letra e).
 
 i) Cuando se tribute por cuota mínima municipal, en Municipios en los que no estuviere establecido el Impuesto Municipal sobre la Radicación a 31 de diciembre de 1991, la parte de la cuota correspondiente al elemento tributario superficie de los locales se reducirá aplicando los siguientes porcentajes:
 
@@ -148,11 +148,15 @@ c) Durante 1994, el 40 % de reducción.
 
 d) Durante 1995, el 20 % de reducción.
 
-j) El elemento tributario regulado en esta letra F) no se aplicará en la determinación de aquellas cuotas para cuyo cálculo las Tarifas del impuesto hayan tenido en cuenta expresamente, como elemento tributario, la superficie de los locales, computada en metros cuadrados, en los que se ejercen las actividades correspondientes.
+j) El elemento tributario regulado en esta letra F), no se aplicará en la determinación de aquellas cuotas para cuyo cálculo las tarifas del impuesto hayan tenido en cuenta expresamente, como elemento tributario, la superficie de los locales, computada en metros cuadrados, en los que se ejercen las actividades correspondientes.
+
+En consecuencia con lo anterior, la mención a los metros cuadrados contenida en la descripción de determinadas rúbricas de las tarifas, tal y como sucede por ejemplo en el caso de los Epígrafes 647.2, 647.3 y 647.4 de la Sección 1.ª de las tarifas, se entiende realizada, exclusivamente, a efectos de la definición y clasificación de las actividades contenidas en las mismas, sin que, en ningún caso, deba considerarse la expresada mención a los metros cuadrados como elemento tributario configurador de la cuota correspondiente, no siendo en estos casos de aplicación lo dispuesto en el párrafo anterior.
 
 2. Normas generales de aplicación de los elementos tributarios.
 
-Las oscilaciones en más o en menos no superiores al 20 por 100 de los elementos tributarios no alterarán la cuantía de las cuotas por las que se venga tributando. Cuando las oscilaciones de referencia fuesen superiores al porcentaje indicado, las mismas tendrán la consideración de variaciones a efectos de lo dispuesto en el párrafo segundo del artículo 91.2 de la Ley 39/1988, de 28 de diciembre.
+Las oscilaciones en más o en menos no superiores al 20 por 100 de los elementos tributarios, no alterarán la cuantía de las cuotas por las que se venga tributando. Cuando las oscilaciones de referencia fuesen superiores al porcentaje indicado, las mismas tendrán la consideración de variaciones a efectos de lo dispuesto en el párrafo segundo del artículo 91.2 de la Ley 39/1988, de 28 de diciembre.
+
+Tratándose del elemento tributario constituido por el número de obreros, y en relación a las oscilaciones en más de su número, las Ordenanzas fiscales podrán aumentar el límite máximo del 20 por 100 a que se refiere el párrafo primero de este apartado hasta el 50 por 100.
 
 3. Sectores declarados en crisis.
 
@@ -170,10 +174,18 @@ Cuando en las industrias ocurra alguno de los casos de interdicción judicial, i
 
 No será de aplicación la reducción antes fijada a la industria cuya cuota esté regulada según el tiempo de funcionamiento.
 
+> Se modifica el apartado 1.F).j) por el art. 70.2 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785.
+
+> Téngase en cuenta para su aplicación el art. 70.3.
+
+> Se modifica el apartado 2 por el art. 21.4 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155. y el apartado 1.F).e) por el art. 68.2 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154.
+
+> Redactado el apartado 1.F).e) conforme a la corrección de errores publicada en BOE núm. 65, de 17 de marzo de 1999. Ref. BOE-A-1999-6373.
+
 > Se modifica el apartado 1.F).b).3 por el art. 67.2.1.1 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
 
 > Se incrementan en un 3,5 por 100 los valores consignados en el apartado 1.F.d) y g) por el art. 26.1.b) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
 > Se modifica el apartado 1.F).b).1 y 3 por el art. 72.2 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
-> Se suprime el apartado 1.F).h) por el art. 68.2.5 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+> Se suprime el párrafo segundo del apartado 1.F).h) por el art. 78.2.5 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
