@@ -18,9 +18,13 @@ g) Un buque fondeado dará un repique de campana de unos cinco segundos de durac
 
 h) Un buque varado emitirá la señal de campana y, en caso necesario, la de gong prescrita en el párrafo f) de esta Regla, y además, dará tres golpes de campana claros y separados inmediatamente antes y después del repique rápido de la campana. Todo buque varado podrá, además, emitir una señal de pito apropiada.
 
-i) Un buque de eslora inferior a 12 metros no tendrá obligación de emitir las señales antes mencionadas, pero, si no las hace, emitirá otra señal acústica eficaz a intervalos que no excedan de dos minutos.
+i) Un buque de eslora igual o superior a 12 metros, pero inferior a 20 metros, no tendrá obligación de emitir las señales de campana prescritas en los párrafos g) y h) de la presente regla. No obstante, si no lo hace, emitirá otra señal acústica eficaz a intervalos que no excedan de dos minutos.
 
-j) Una embarcación de práctico, cuando esté en servicio de practicaje, podrá emitir, además de las señales prescritas en los párrafos a), b) o f), una señal de identificación consistente en cuatro pitadas cortas.
+j) Un buque de eslora inferior a 12 metros no tendrá obligación de emitir las señales antes mencionadas, pero, si no las hace, emitirá otra señal acústica eficaz a intervalos que no excedan de dos minutos.
+
+k) Una embarcación de práctico, cuando esté en servicio de practicaje, podrá emitir, además de las señales prescritas en los párrafos a), b) o f), una señal de identificación consistente en cuatro pitadas cortas.
+
+> Se reordenan las letras i) y j) como j) y k) y se añade una letra i) por el apartado 7 de la Resolución A. 910 (22), de 29 de noviembre de 2001. Ref. BOE-A-2003-2716.
 
 > Se añade una nueva letra d) y se reordenan las letras existentes d) a i) como e) a j) por el apartado 31 de la Resolución A. 464 (XII), de 19 de noviembre. Ref. BOE-A-1983-17575.
 

@@ -2,13 +2,13 @@
 
 A los efectos de este Reglamento, excepto cuando se indique lo contrario:
 
-a) La palabra «buque» designa a toda clase de embarcaciones, incluidas las embarcaciones sin desplazamiento y los hidroaviones, utilizadas o que puedan ser utilizadas coma medio de transporte sobre el agua.
+a) La palabra ‘‘buque’’ designa toda clase de embarcaciones, incluidas las embarcaciones sin desplazamiento, las naves de vuelo rasante y los hidroaviones, utilizadas o que puedan ser utilizadas como medio de transporte sobre el agua.
 
 b) La expresión «buque de propulsión mecánica» significa todo buque movido por una máquina.
 
 c) La expresión «buque de vela» significa todo buque navegando a vela siempre que su maquinaria propulsora, caso de llevarla, no se esté utilizando.
 
-d) La expresión «buque dedicado a la pesca» significa todo buque que esté pescando con redes, líneas, aparejos de arrastre u otros artes de pesca que restrinjan su maniobrabilidad; esta expresión no incluye a los buques que pesquen con currican u otro arte de pesca que no restrinja su maniobrabilidad.
+d) La expresión «buque dedicado a la pesca» significa todo buque que esté pescando con redes, líneas, aparejos de arrastre u otros artes de pesca que restrinjan su maniobrabilidad; esta expresión no incluye a los buques que pesquen con curricán u otro arte de pesca que no restrinja su maniobrabilidad.
 
 e) La palabra «hidroavión» designa a toda aeronave proyectada para maniobrar sobre las aguas.
 
@@ -39,6 +39,10 @@ j) Por «esloras» y «mangas» se entenderá la eslora total y la manga máxima
 k) Se entenderá que los buques están a la vista uno del otro únicamente cuando uno pueda ser observado visualmente desde el otro.
 
 l) La expresión «visibilidad reducidas» significa toda condición en que la visibilidad está disminuida por niebla, bruma, nieve, fuertes aguaceros, tormentas de arena o cualesquiera otras causa análogas.
+
+m) La expresión ‘‘nave de vuelo rasante’’ designa una nave multimodal que, en su modalidad de funcionamiento principal, vuela muy cerca de la superficie aprovechando la acción del efecto de superficie.
+
+> Se modifica la letra a) y se añade la letra m) por el apartado 1 de la Resolución A. 910 (22), de 29 de noviembre de 2001. Ref. BOE-A-2003-2716.
 
 > Se modifica la letra h) por el apartado 2 de la Resolución A. 626 (15), de 19 de noviembre de 1987. Ref. BOE-A-1989-14439.
 

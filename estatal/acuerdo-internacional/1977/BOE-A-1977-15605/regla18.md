@@ -31,3 +31,9 @@ d) i) todo buque que no sea un buque sin gobierno o un buque con capacidad de ma
 ii) un buque restringido por su calado navegará con particular precaución teniendo muy en cuenta su condición especial.
 
 e) En general, un hidroavión amarado se mantendrá alejado de todos los buques y evitará estorbar su navegación. No obstante, en aquellas circunstancias en que exista un riesgo de abordaje, cumplirá con las Reglas de esta Parte.
+
+f) i) Cuando despeguen, aterricen o vuelen cerca de la superficie, las naves de vuelo rasante se mantendrán bien alejadas de todos los demás buques y evitarán entorpecer la navegación de éstos.
+
+ii) Las naves de vuelo rasante que naveguen por la superficie del agua cumplirán lo dispuesto en las reglas de la presente parte como si fueran buques de propulsión mecánica.
+
+> Se modifica la letra f) por el apartado 3 de la Resolución A. 910 (22), de 29 de noviembre de 2001. Ref. BOE-A-2003-2716.

@@ -1,6 +1,6 @@
 ## Regla 8. Maniobras para evitar el abordaje.
 
-a) Si las circunstancias del caso lo permiten, toda maniobra que se efectúe para evitar un abordaje será llevada a cabo en forma clara, con la debida antelación y respetando las buenas prácticas marineras.
+a) Toda maniobra que se efectúe para evitar un abordaje será llevada a cabo de conformidad con lo dispuesto en las reglas de la presente parte y, si las circunstancias del caso lo permiten, se efectuará en forma clara, con la debida antelación y respetando las buenas prácticas marineras.
 
 b) Si las circunstancias del caso lo permiten, los cambios de rumbo y/o velocidad que se efectúen para evitar un abordaje serán lo suficientemente amplios para ser fácilmente percibidos por otro buque que los observe visualmente o por medio de radar. Deberá evitarse una sucesión de pequeños cambios de rumbo y/o velocidad.
 
@@ -15,5 +15,7 @@ f) i) Los buques que en virtud de cualquiera de las presentes reglas estén obli
 ii) Los buques que estén obligados a no estorbar el tránsito o tránsito seguro de otro buque no quedarán exentos de dicha obligación cuando se aproximen al otro buque con riesgo de que se produzca un abordaje y, al efectuar las maniobras, respetarán rigurosamente lo dispuesto en las reglas de la presente Parte.
 
 iii) Cuando los dos buques se aproximen el uno al otro con riesgo de que se produzca un abordaje, el buque cuyo tránsito no deba ser estorbado seguirá estando plenamente obligado a cumplir con lo dispuesto en las reglas de la presente Parte.
+
+> Se modifica la letra a) por el apartado 2 de la Resolución A. 910 (22), de 29 de noviembre de 2001. Ref. BOE-A-2003-2716.
 
 > Se añade la letra f) por el apartado 3 de la Resolución A. 626 (15), de 19 de noviembre de 1987. Ref. BOE-A-1989-14439.
