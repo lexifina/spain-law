@@ -1,3 +1,5 @@
 ## Disposición transitoria segunda. Documentación de acompañamiento válida provisionalmente.
 
-No obstante lo dispuesto en el apartado 1 del artículo 10, los animales nacidos en España antes del 1 de enero de 1998 y que, en virtud de lo dispuesto en la disposición transitoria primera estén identificados de conformidad con el Real Decreto 205/1996, quedarán exceptuados de la exigencia de un documento de identificación como el descrito en el presente Real Decreto para sus movimientos en el interior del Estado español, siempre que vayan amparados por la documentación sanitaria de acompañamiento establecida en virtud de la legislación vigente y, en el caso de los animales machos, acompañados además del documento administrativo a que se refiere el apartado 4 del artículo 6 del Real Decreto 205/1996.
+(Suprimida)
+
+> Se suprime por el art. único.16 del Real Decreto 197/2000, de 11 de febrero. Ref. BOE-A-2000-3008
