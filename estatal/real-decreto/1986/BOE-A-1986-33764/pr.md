@@ -1,0 +1,11 @@
+La integración en el Régimen General de la Seguridad Social de los Regímenes Especiales de Jugadores de Fútbol, Representantes de Comercio, Toreros y Artistas, operada por el Real Decreto 2621/1986, de 24 de diciembre, obliga a establecer, en desarrollo de la Ley 31/1984, de 2 de agosto, de Protección por Desempleo, y para la aplicación de lo dispuesto en su artículo 3.º, número 1, los términos y condiciones en que los citados colectivos tendrán derecho a percibir las prestaciones por desempleo.
+
+Para ello, y de acuerdo con lo previsto en la disposición adicional primera del citado Real Decreto, se dicta la presente norma, que regula tan sólo aquellos aspectos que constituyen una peculiaridad respecto a la regulación general de la protección por desempleo, establecida en la Ley 31/1984, de 2 de agosto, de Protección por Desempleo, y en el Real Decreto 625/1985, de 2 de abril, derivada de la propia naturaleza de la actividad de aquellos colectivos comprendidos en el campo de aplicación de este Real Decreto o de las condiciones de su integración en el Régimen General de la Seguridad Social.
+
+Por el presente Real Decreto acceden a la protección por desempleo los colectivos profesionales de jugadores profesionales de fútbol, representantes de comercio y toreros, que carecían de esta protección en sus Regímenes Especiales de la Seguridad Social y mejoran su protección los artistas, mientras que los trabajadores ferroviarios, que ya estaban plenamente acogidos a la Ley 31/1984, de 2 de agosto, mantienen su situación,
+
+En su virtud, en aplicación de la autorización concedida al Gobierno en la disposición adicional segunda de la Ley 26/1985, de 31 de julio, de Medidas Urgentes para la Racionalización de la Estructura y Acción Protectora de la Seguridad Social, y de la disposición final primera de la Ley 31/1984, de 2 de agosto, de Protección por Desempleo, en relación con el artículo 3.º, número 1, de la misma, a propuesta del Ministro de Trabajo y Seguridad Social, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 24 de diciembre de 1986,
+
+DISPONGO:
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 18, de 21 de enero de 1987. Ref. BOE-A-1987-1449
