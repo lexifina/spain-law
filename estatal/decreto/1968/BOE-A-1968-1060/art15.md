@@ -24,6 +24,10 @@ Las Cooperativas que, por precepto de sus Estatutos, hayan de estar constituidas
 
 9. A los titulares de familias numerosas que individualmente o agrupados pretendan promover la construcción de viviendas para uso propio.
 
+10. A las Empresas nacionales que tengan entre sus fines el de construcción de viviendas.
+
 Segundo.–Para llevar a cabo la construcción de viviendas destinadas a maestros y sacerdotes, o la de servicios, instalaciones y edificios complementarlos comprendidos en Planes Nacionales de la Vivienda, siempre que sean objeto de utilización de ánimo de lucro, a cualquiera de los promotores relacionados en el artículo 22 de este Reglamento.
+
+> Se añade el apartado 1.10 por el art. 1 del Decreto 3442/1975, de 5 de diciembre. Ref. BOE-A-1975-26816.
 
 > Se añaden el apartado 1.9 y el párrafo último del apartado 1.4 por los art. 3 y 4 del Decreto 148/1971, de 28 de enero. Ref. BOE-A-1971-170.
