@@ -1,0 +1,9 @@
+El Real Decreto 1856/1979, de 30 de julio, por el que se regula la estructura y competencias del Instituto Nacional de Servicios Sociales, encomienda al INSERSO, como Entidad gestora de la Seguridad Social, la gestión de los servicios complementarios de las prestaciones del sistema, orientada, fundamentalmente, al colectivo de la tercera edad, minusválidos físicos y psíquicos y de la población marginada.
+
+Uno de los programas básicos y tradicionales de la actuación del INSERSO, en orden a la protección de la tercera edad y de minusválidos ha sido la creación de una amplia red de Centros Residenciales en los que se presta una atención integral a los beneficiarios acogidos en ellos.
+
+No obstante, pese a la amplia oferta de plazas que las distintas Administraciones Públicas ponen a disposición de los ciudadanos, la demanda de ellas hace claramente insuficiente el número de plazas disponibles por lo que el INSERSO ha venido realizando conciertos de reserva y ocupación de plazas para sus beneficiarios, con el fin de incrementar su oferta
+
+Por su parte, el Real Decreto 727/1988, de 11 de julio, creó el Ministerio de Asuntos Sociales, y se atribuyó la planificación, coordinación y evaluación de los servicios sociales, y en este contexto, se estima necesario dictar la presente Orden por la que se regula la acción concertada del INSERSO, y se establecen los requisitos y características que deben reunir los Centros Residenciales privados en los que el Instituto Nacional de Servicios Sociales realice conciertos de reserva y ocupación de plazas, así como los criterios de concesión, priorizando la realización de conciertos de plazas destinadas a beneficiarios que no pueden valerse por sí mismos.
+
+Por todo ello, este Ministerio de Asuntos Sociales, en uso de las atribuciones que tiene conferidas ha dispuesto:
