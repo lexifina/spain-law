@@ -1,10 +1,14 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/150/14279_013.png)
+
+> Se modifica por la Orden de 24 de abril de 1996. Ref. BOE-A-1996-10409.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 150, de 21 de junio de 1996. Ref. BOE-A-1996-14279.
 
 > Se modifica por la Orden de 9 de marzo de 1995. Ref. BOE-A-1995-7055.
 
