@@ -4,7 +4,9 @@
 
 A) Profesores de enseñanza secundaria y Profesores técnicos de Formación Profesional.
 
-77. Los Profesores de Enseñanza Secundaria y los Profesores técnicos de Formación Profesional impartirán como mínimo 18 períodos lectivos semanales, pudiendo llegar excepcionalmente a 21 cuando la distribución horaria del departamento lo exija y siempre dentro del mismo. La parte del horario comprendido entre los 18 y 21 períodos lectivos se compensará con las horas complementarias establecidas por la Jefatura de estudios, a razón de dos horas complementarias por cada período lectivo.
+77. Los Profesores de Enseñanza Secundaria y los Profesores técnicos de Formación Profesional impartirán como mínimo 18 períodos lectivos semanales, pudiendo llegar excepcionalmente a 21 cuando la distribución horaria del departamento lo exija y siempre dentro del mismo. La parte del horario comprendido entre los 18 y 21 períodos lectivos se compensará con las horas complementarias establecidas por la Jefatura de estudios, a razón de dos horas complementarias por cada período lectivo.(*)
+
+(*) Véase el art. 3 del Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo, en cuanto a la jornada lectiva. Ref. BOE-A-2012-5337#a3
 
 78. A efectos del cómputo de los períodos lectivos semanales establecidos en el punto anterior, se considerarán lectivos los siguientes períodos y actividades:
 
@@ -76,7 +78,7 @@ d) Una hora para reuniones de departamento.
 
 C) Maestros.
 
-87. La jornada laboral de los funcionarios del Cuerpo de Maestros con destino en un instituto de Enseñanza Secundaria será la misma establecida con carácter general para los que ocupan plazas en colegios de Educación Primaria.
+87. (Derogado)
 
 D) Profesores con horario incompleto.
 
@@ -85,3 +87,7 @@ D) Profesores con horario incompleto.
 89. Asimismo, los Profesores con régimen de decicación parcial acogidos a la cesación progresiva de actividades, de acuerdo con el artículo 26 de la Ley 22/1993, de 29 de diciembre, por lactancia o razones de guarda legal a que se refiere el apartado f) del artículo 30 de la Ley 30/1984, por actividades sindicales o con nombramiento interino a tiempo parcial deberán cubrir un número de horas complementarias proporcional al de horas lectivas que deben impartir, en las mismas condiciones indicadas en el punto anterior.
 
 90. Cuando un Profesor se encuentre en alguna de las circunstancias contempladas en los dos puntos anteriores, el Jefe de estudios lo tendrá en cuenta al elaborar su horario.
+
+> Se deroga el apartado 87 por el apartado 3 de la Orden de 29 de febrero de 1996. Ref. BOE-A-1996-5561.
+
+> Esta derogación es de aplicación a partir del comienzo del curso 1996/1997.
