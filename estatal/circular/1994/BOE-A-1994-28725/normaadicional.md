@@ -1,0 +1,3 @@
+## Norma adicional.
+
+En el anexo III de la presente Circular se señalan las modificaciones de los estados reservados que, las Sociedades Gestoras de Instituciones de Inversión Colectiva cuya declaración de actividades refleje su intención de gestionar Fondos de Inversión Inmobiliaria, deberán remitir semestralmente a la Comisión Nacional del Mercado de Valores en sustitución de los modelos contenidos en la Circular 5/1992, de 28 de octubre, de la Comisión Nacional del Mercado de Valores, sobre normas contables y estados financieros reservados de las Sociedades Gestoras de Instituciones de Inversión Colectiva y Sociedades Gestoras de Carteras.

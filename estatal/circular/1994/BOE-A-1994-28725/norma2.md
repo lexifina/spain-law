@@ -1,0 +1,3 @@
+## Norma 2. Normas de contabilidad aplicables.
+
+Las normas contables que deberán cumplir las Sociedades y Fondos de Inversión Inmobiliaria serán las contenidas en la presente Circular. En ausencia de normas específicas contenidas en la presente Circular, será aplicable supletoriamente lo previsto en la Circular 7/1990, de 27 de diciembre, de la Comisión Nacional del Mercado de Valores, en primer lugar, y en segundo lugar, las normas establecidas en el Plan General de Contabilidad, aprobado por Real Decreto 1643/1990, de 20 de diciembre, sin perjuicio de lo prevenido en el Código de Comercio y en la Ley de Sociedades Anónimas, que serán aplicables subsidiariamente.
