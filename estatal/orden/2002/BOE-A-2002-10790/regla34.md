@@ -6,7 +6,7 @@ a) Remanente de Tesorería.–Pondrá de manifiesto el remanente de tesorería a
 
 b) Estado de Tesorería.–Se indicarán los saldos inicial y final de tesorería, así como el flujo neto de tesorería del ejercicio, expresando este último como diferencia entre los cobros y pagos realizados.
 
-c) Variación de Resultados presupuestarios de ejercicios anteriores.–Se informará de las variaciones de obligaciones y derechos a cobrar de presupuestos cerrados, que supongan la alteración de los importes calculados como resultados presupuestarios en ejercicios anteriores.
+c) (Suprimida)
 
 En relación con las obligaciones de presupuestos cerrados pendientes de pago se informará de los siguientes importes:
 
@@ -29,3 +29,7 @@ Cancelaciones por insolvencias, producidas en el ejercicio.
 Cancelaciones por prescripción, producidas en el ejercicio.
 
 Cancelaciones por otras causas, producidas en el ejercicio.
+
+> Se suprime la letra c) por la disposición adicional 1.4 de la Orden EHA/777/2005, de 21 de marzo. Ref. BOE-A-2005-5088.
+
+> Esta modificación es aplicable a las cuentas anuales del ejercicio 2005 y siguientes en la forma establecida en la disposición final 2.

@@ -113,3 +113,9 @@ Valor del crédito a 31 de diciembre.
 Importe de los intereses devengados y no vencidos a 31 de diciembre.
 
 Importe de la provisión para insolvencias existente a fin de ejercicio.
+
+Sin perjuicio de lo anterior, la Intervención General de la Administración del Estado podrá requerir cualquier otro tipo de información sobre los créditos que sea necesaria para la elaboración de información estadística o de ejecución presupuestaria.
+
+> Se añade el párrafo último al apartado 4 por la disposición adicional 1.6 de la Orden EHA/777/2005, de 21 de marzo. Ref. BOE-A-2005-5088.
+
+> Esta modificación es aplicable a las cuentas anuales del ejercicio 2005 y siguientes en la forma establecida en la disposición final 2.
