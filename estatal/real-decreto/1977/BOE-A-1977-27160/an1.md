@@ -41,6 +41,10 @@
 | 10 Pipradrol. |  | 1,1-fifenil-1-(2-peperidi) metanol. |
 | 11 | SPA. | (-)-1-dimetiIamino-1,2-difeniletano. |
 
+> Véanse los apartados 1 a 3 de la Orden SCO/469/2002, de 19 de febrero Ref. BOE-A-2002-4457 , en relación a la inclusión de sustancias en las listas II y IV.
+
+> Téngase en cuenta para su aplicación los apartados 4 y 5.
+
 > Véase el apartado 1 de la Orden de 31 de enero de 2000 Ref. BOE-A-2000-2553, en relación a la inclusión de sustancia en la lista I.
 
 > Téngase en cuenta para su aplicación los apartados 2 y 3.
@@ -57,7 +61,7 @@
 
 > Téngase en cuenta para su aplicación los apartados 1.2, 3, 4 y 5.
 
-> Véase el apartado 1 de la Orden de 20 de diciembre de 1988 Ref. BOE-A-1989-543, en relación a la inclusión de sustancias en la lista II, y el art. 1 de la Orden de 28 de septiembre de 1989 Ref. BOE-A-1989-23803 en relación a la inclusión de sustancias en la lista III.
+> Véase el apartado 1 de la Orden de 20 de diciembre de 1988 Ref. BOE-A-1989-543, en relación a la inclusión de sustancias en la lista II, y el art. 1 de la Orden de 28 de septiembre de 1989 Ref. BOE-A-1989-23803, en relación a la inclusión de sustancias en la lista III.
 
 > Téngase en cuenta para su aplicación los apartados 2 a 4 de la Orden de 20 de diciembre y arts. 2 a 4 de la Orden de 28 de septiembre de 1989.
 
@@ -73,4 +77,4 @@
 
 > Véanse los apartados 1 de las Órdenes de 30 de mayo de 1984 Ref. BOE-A-1984-12894 y Ref. BOE-A-1984-12895, en relación a la inclusión de sustancias en las listas III y IV.
 
-> Ténganse en cuenta para su aplicación los apartados 2 a 4.
+> Téngase en cuenta para su aplicación los apartados 2 a 4.
