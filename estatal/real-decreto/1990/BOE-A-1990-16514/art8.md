@@ -1,6 +1,6 @@
 ## Artículo 8.
 
-1. a) Antes de comercializar los juguetes fabricados de conformidad con las normas armonizadas contempladas en el apartado 1 del artículo 5, éstos deberán ir provistos de la marca «CE», mediante la cual el fabricante o su representación autorizado establecido en la Comunidad confirman que los juguetes cumplen dichas normas.
+1. a) Antes de comercializar los juguetes fabricados de conformidad con las normas armonizadas contempladas en el apartado 1 del artículo 5, éstos deberán ir provistos del marcado «CE», mediante la cual el fabricante o su representación autorizado establecido en la Comunidad confirman que los juguetes cumplen dichas normas.
 
 b) El fabricante o su representante autorizado en la Comunidad tendrá a disposición y facilitará, cuando se le requiera a efectos de control, la siguiente información:
 
@@ -12,7 +12,7 @@ Información detallada relativa a la concepción y fabricación.
 
 Cuando ni el fabricante ni su representante autorizado estén establecidos en la Comunidad la obligación mencionada de facilitar la información pertinente recaerá en la persona que introduzca el juguete en el mercado.
 
-2. a) Los juguetes que no se ajusten, en su totalidad o en parte, a las normas contempladas en el apartado 1 del artículo 5, deberán, con anterioridad a su comercialización, ir provistos de la marca «CE», mediante la cual el fabricante o su representante autorizado establecido en la Comunidad confirma que los juguetes son conformes al modelo examinado, según los procedimientos previstos en el artículo 10 y respecto a los cuales un organismo autorizado ha declarado que cumple las exigencias esenciales contempladas en el anexo II.
+2. a) Los juguetes que no se ajusten, en su totalidad o en parte, a las normas contempladas en el apartado 1 del artículo 5, deberán, con anterioridad a su comercialización, ir provistos del marcado «CE», mediante la cual el fabricante o su representante autorizado establecido en la Comunidad confirma que los juguetes son conformes al modelo examinado, según los procedimientos previstos en el artículo 10 y respecto a los cuales un organismo autorizado ha declarado que cumple las exigencias esenciales contempladas en el anexo II.
 
 b) El fabricante o su representante autorizado establecido en la Comunidad tendrá a disposición y facilitará, cuando se le requiera a efectos de control, la siguiente información:
 
@@ -31,5 +31,7 @@ Cuando ni el fabricante ni su representante autorizado estén establecidos en la
 3. En caso de incumplimiento de las obligaciones previstas en las letras b) de los apartados 1 y 2 se adoptarán las medidas pertinentes a fin de garantizar el cumplimiento de dichas obligaciones.
 
 En caso de incumplimiento manifiesto de las obligaciones se podrá exigir en particular que el fabricante o su representante autorizado establecido en la Comunidad mande realizar por su cuenta y en un plazo determinado, una prueba por prate de un Organismo autorizado con el fin de comprobar la conformidad con las normas armonizadas o con las exigencias esenciales de seguridad.
+
+> Se sustituye lo indicado en el art. único.1 del Real Decreto 204/1995, de 10 de febrero.Ref. BOE-A-1995-10148.
 
 > Redactados los apartados 2.a) y b) conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. Ref. BOE-A-1990-23085
