@@ -16,6 +16,10 @@ c) Tasas por la prestación de determinados servicios.
 
 d) Por aportaciones de las Comunidades Autónomas y de las Corporaciones Locales.
 
+e) Tributos estatales cedidos.
+
 2. La participación en la financiación de los servicios de las Corporaciones Locales que deban ser asumidos por las Comunidades Autónomas se llevará a efecto, por un lado, por las propias Corporaciones Locales y, por otro, con cargo al Fondo Nacional de Cooperación con las Corporaciones Locales.
 
 Las Corporaciones Locales deberán establecer, además, en sus presupuestos las consignaciones precisas para atender a las responsabilidades sanitarias que la Ley les atribuye.
+
+> Se añade la letra e) al apartado 1 por el art. 68.1 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962.
