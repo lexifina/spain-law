@@ -40,6 +40,7 @@
 | Organización y control del proceso de producción. | Plásticos y caucho. |
 | Control de calidad en transformación de plásticos y caucho. | Plásticos y caucho. |
 | Procesado del caucho. | Plásticos y caucho. |
+| Riesgos físicos ambientales. | Prevención de Riesgos Profesionales |
 | Análisis y Química Industrial. | Control de emisiones a la atmósfera. | Química ambiental. |
 | Depuración de aguas. | Química ambiental. |
 | Organización y gestión de la protección ambiental. | Química ambiental. |
@@ -234,6 +235,7 @@
 |  | Calidad en el mantenimiento y montaje de equipos e instalaciones. | Mantenimiento de equipo industrial. |
 |  | Planes de seguridad de mantenimiento y montaje de equipos e instalaciones. | Mantenimiento de equipo industrial. |
 |  | Elementos de máquinas. | Mantenimiento de equipo industrial. |
+|  | Riesgos derivados de las condiciones de seguridad. | Prevención de Riesgos Profesionales. |
 | Organización y proyectos de sistemas energéticos. | Instalaciones de procesos térmicos. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
 | Procesos y gestión de montaje de instalaciones. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
 | Proyectos de instalaciones térmicas y de fluidos. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
@@ -247,6 +249,7 @@
 | Seguridad en el montaje y mantenimiento de equipos e instalaciones. | Montaje y mantenimiento de instalaciones de frío, climatización y producción de calor. |
 | Calidad en el montaje y proceso. | Instalación y mantenimiento electromecánico de maquinaria y conducción de líneas. |
 | Electrotecnia. | Equipos e instalaciones electrotécnicas. |
+| Riesgos derivados de las condiciones de seguridad. | Prevención de Riesgos Profesionales. |
 | Productos de cultivo acuícola. | Técnicas del cultivo de moluscos. | Operaciones de cultivo acuícola. |
 | Técnicas del cultivo de crustáceos. | Operaciones de cultivo acuícola. |
 | Técnicas del cultivo de peces. | Operaciones de cultivo acuícola. |
@@ -254,7 +257,7 @@
 | Cultivo de crustáceos. | Producción acuícola. |
 | Cultivo de peces. | Producción acuícola. |
 | Organización del proceso productivo acuícola. | Producción acuícola. |
-| Procesos diagnósticos clínicos y productos ortoprotésicos. | Promoción de la salud y apoyo psicológico a las personas. | Farmacia. |
+| Procesos, diagnósticos clínicos y productos ortoprotésicos. | Promoción de la salud y apoyo psicológico a las personas. | Farmacia. |
 | Procedimientos administrativos y de control de existencias en establecimientos de farmacia. | Farmacia. |
 | Organización y gestión de la unidad de salud ambiental. | Salud ambiental. |
 | Residuos sólidos y medio construido. | Salud ambiental. |
@@ -283,6 +286,7 @@
 | Fundamentos y técnicas de tratamientos de braquiterapia. | Radioterapia. |
 | Fundamentos y técnicas de tratamientos de teleterapia. | Radioterapia. |
 | Acústica. | Audioprótesis. |
+| Riesgos químicos y biológicos ambientales. | Prevención de Riesgos Profesionales. |
 | Procesos sanitarios. | Promoción de la salud y apoyo psicológico al paciente. | Cuidados auxiliares de enfermería. |
 | Operaciones administrativas y documentación sanitaria. | Cuidados auxiliares de enfermería. |
 | Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica y citología. | Anatomía patológica y citología. |
@@ -691,6 +695,12 @@
 |  | Formación y orientación laboral. |  |
 |  | Administración, gestión y comercialización de la pequeña empresa. | Óptica de Anteojería. |
 |  | Formación y orientación laboral. | Óptica de Anteojería. |
+|  | Gestión de prevención. | Prevención de Riesgos Profesionales. |
+|  | Prevención de riesgos derivados de la organización y la carga de trabajo. | Prevención de Riesgos Profesionales. |
+|  | Relaciones en el entorno de trabajo. | Prevención de Riesgos Profesionales. |
+|  | Formación y orientación laboral. | Prevención de Riesgos Profesionales. |
+
+> Se modifica por la disposición adicional 2.2 del Real Decreto 1161/2001, de 26 de octubre. Ref. BOE-A-2001-21714.
 
 > Se modifica por la disposición adicional 2.2 del Real Decreto 370/2001, de 6 de abril. Ref. BOE-A-2001-8794.
 
