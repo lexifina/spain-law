@@ -1,3 +1,5 @@
 ## Art. 16.
 
-Los españoles menores de edad emancipados o judicialmente habilitados tendrán iguales derechos que los vecinos, salvo los de carácter político.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única de la Ley 4/1996, de 10 de enero. Ref. BOE-A-1996-753

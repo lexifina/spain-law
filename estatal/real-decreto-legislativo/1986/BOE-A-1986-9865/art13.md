@@ -1,22 +1,8 @@
 ## Art. 13.
 
-En el Padrón Municipal deberá constar respecto de los residentes y, en su caso, los transeúntes:
+(Derogado)
 
-a) El nombre y apellidos.
-
-b) Sexo.
-
-c) Nacionalidad.
-
-d) Lugar y fecha de nacimiento.
-
-e) Número de documento nacional de identidad o, tratándose de extranjeros, el documento que lo sustituya.
-
-f) Domicilio.
-
-g) Certificado o título escolar o académico que posea.
-
-h) Cuales otros datos se exijan de acuerdo con el artículo 17.1 de la Ley 7/1985, de 2 de abril, y aquellos necesarios para la elaboración del Censo Electoral siempre que se garantice el respeto a los derechos fundamentales reconocidos en la Constitución.
+> Se deroga por la disposición derogatoria única de la Ley 4/1996, de 10 de enero. Ref. BOE-A-1996-753
 
 > Se modifica por la disposición adicional 25.1 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347
 
