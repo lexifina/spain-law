@@ -5,3 +5,5 @@ Las distintas Comunidades Autónomas podrán declarar zonas de interés para cul
 En tales zonas se podrán delimitar espacios aptos para fondeo de viveros y jaulas flotantes en polígonos de cultivo, debiéndose especificar la situación de estos y el número de artefactos que puedan acoger.
 
 Dichos polígonos serán revisados al menos cada cinco años por el Organismo competente en materia de Pesca.
+
+> Se declara la inconstitucionalidad y nulidad del inciso destacado del párrafo primero por Sentencia del TC 103/1989, de 8 de junio. Ref. BOE-T-1989-15597
