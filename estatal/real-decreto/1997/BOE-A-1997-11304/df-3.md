@@ -1,0 +1,3 @@
+## Disposición final única. Régimen supletorio.
+
+En lo no previsto en el capítulo II del Título IV del presente Reglamento se estará a lo que, particularmente, acuerde el Pleno de la Comisión Nacional de Ayuda y Asistencia a las Víctimas de Delitos Violentos y contra la Libertad Sexual y, en su defecto, a las normas que regulan el funcionamiento de los órganos colegiados y las funciones de sus diferentes miembros, contenidas en el capítulo II del Título II de la Ley 30/1992, de 26 de noviembre. Asimismo, en lo no previsto en el capítulo IV del Título IV, se estará a las normas generales del Procedimiento Administrativo Común.
