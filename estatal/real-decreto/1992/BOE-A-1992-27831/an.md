@@ -1,171 +1,134 @@
 ## ANEXO
 
-## Lista de aeronaves exentas con arreglo a lo dispuesto en el artículo 3
+## Lista de aviones exentos con arreglo a lo dispuesto en el artículo 3
 
-ARGELIA
+Argelia
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-727-2D6 | 7T-VEH | Air Algerie. |
-| B-727-2D6 | 7T-VEI | Air Algerie. |
-| B-727-2D6 | 7T-VEM | Air Algerie. |
-| B-727-2D6 | 7T-VEP | Air Algerie. |
-| B-737-2D6 | 7T-VEE | Air Algerie. |
-| B-737-2D6 | 7T-VEG | Air Algerie. |
-| B-737-2D6 | 7T-VEJ | Air Algerie. |
-| B-737-2D6 | 7T-VEK | Air Algeríe. |
-| B-737-2D6 | 7T-VEL | Air Algeríe. |
-| B-737-2D6 | 7T-VEN | Air Algeríe. |
-| B-737-2D6 | 7T-VED | Air Algerie. |
-| B-737-2D6 | 7T-VEQ | Air Algerie. |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 20955 | B-727-2D6 | 7T-VEH | Air Algerie. |
+| 21053 | B-727-2D6 | 7T-VEI | Air Algerie. |
+| 21210 | B-727-2D6 | 7T-VEM | Air Algerie. |
+| 21284 | B-727-2D6 | 7T-VEP | Air Algerie. |
+| 20884 | B-737-2D6 | 7T-VEG | Air Algerie. |
+| 21063 | B-737-2D6 | 7T-VEJ | Air Algerie. |
+| 21064 | B-737-2D6 | 7T-VEK | Air Algerie. |
+| 21065 | B-737-2D6 | 7T-VEL | Air Algerie. |
+| 21211 | B-737-2D6 | 7T-VEN | Air Algerie. |
+| 20650 | B-737-2D6 | 7T-VED | Air Algerie. |
+| 21285 | B-737-2D6 | 7T-VEQ | Air Algerie. |
 
-BURKINA FASO
+República Democrática del Congo
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-707-336C | XT-ABX | Naganganni. |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 20200 | B707-329C | 9Q-CBW | Scibe Airlift. |
 
-CHILE
+República Dominicana
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-707-331CT | CC-CUE | Fast Air Carrier SF. |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 19767 | B707-399C | HI-442CT | Dominicana de Aviación. |
 
-REPÚBLICA DOMINICANA
+Egipto
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-707-399C | HI-422CT | Dominicana de Aviación. |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 19916 | B707-328C | SU-PBB | Air Memphis. |
+| 21194 | B737-266 | SU-AYK | Egipt Air. |
+| 21195 | B737-266 | SU-AYL | Egipt Air. |
+| 21227 | B737-266 | SU-AYO | Egipt Air. |
 
-EGIPTO
+Iraq
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-707-328C | SU-DAA | Zas Airline. |
-| B-707-336C | SU-DAC | Zas Airline. |
-| B-737-266 | SU-BBX | Egypt Air. |
-| B-737-266 | SU-AYL | Egypt Air. |
-| B-737-266 | SU-AYK | EgyptAir. |
-| B-737-266 | SU-AYI | Egypt Air. |
-| B-737-266 | SU-BBW | Egypt Air. |
-| B-737-266 | SU-AYO | Egypt Air. |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 20889 | B707-370C | YI-AGE | Iraqi Airways. |
+| 20892 | B737-270C | YI-AGH | Iraqi Airways. |
+| 20893 | B737-270C | YI-AGI | Iraqi Airways. |
 
-GHANA
+Líbano
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| F-28-2000 | 9G-ABZ | Ghana Airways Corporation. |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 20259 | B-707-3B4C | OD-AFD | MEA. |
+| 19589 | B-707-323C | OD-AHC | MEA. |
+| 19515 | B-707-323C | OD-AHD | MEA. |
+| 20170 | B-707-323B | OD-AHF | MEA. |
+| 19516 | B-707-323C | OD-AHE | MEA. |
+| 19104 | B-707-327C | OD-AGX | TMA. |
+| 19105 | B-707-327C | OD-AGY | TMA. |
+| 18939 | B-707-323C | OD-AGD | TMA. |
+| 19214 | B-707-331C | OD-AGS | TMA. |
+| 19269 | B-707-321C | OD-AGO | TMA. |
+| 19274 | B-707-321C | OD-AGP | TMA. |
 
-KENYA
+Liberia
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| DC-8-63 | 5Y-ZEB | African Safari Airways Ltd. |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 45683 | DC8F-55 | EL-AJO | Liberia World Air fines. |
 
-LIBIA
+Libia
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-727-2L5 | 5A-DIC | Lybian Arab Airlines. |
-| B-727-2L5 | 5A-DIB | Lybian Arab Aírlines. |
-| B-727-2L5 | 5A-DIA | Lybian Arab Airlines. |
-| B-727-2L5 | 5A-DID | Lybian Arab Airlines. |
-| B-727-2L5 | 5A-DIE | Lybian Arab Airlines. |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 20245 | B-727-224 | 5A-DAI | Libyan Arab Airlines. Airlines. |
+| 21051 | B-727-2L5 | 5A-DIB | Libyan Arab Airlines. |
+| 21052 | B-727-2L5 | 5A-DIC | Libyan Arab Airlines. |
+| 21229 | B-727-2L5 | 5A-DID | Libyan Arab Airlines. |
+| 21230 | B-727-2L5 | 5A-DIE | Libyan Arab Airlines. |
 
-MAURITANIA
+Mauritania
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| F 28-4000 | 5T-CLF | Air Mauritanie. |
-| F 28-4000 | 5T-CLG | Air Mauritanie. |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 11093 | F-28-4000 | 5T-CLG | Air Mauritanie. |
 
-MARRUECOS
+Nigeria
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-727-2B6 | CN-RMO | Royal Air Maroc. |
-| B-727-2B6 | CN-CCF | Royal Air Maroc. |
-| 6-727-2B6 | CN-CCG | royal Air Maroc. |
-| 6-727-2B6 | CN-CCH | Royal Air Maroc. |
-| 8-727-2B6 | CN-CCW | Royal Air Maroc. |
-| B-737-2B6 | CN-RMI | Royal Aír Maroc. |
-| B-737-2B6 | CN-RMJ | Royal Air Maroc. |
-| B-737-2B6 | CN-RMK | Royal Air Maroc. |
-| B-707-351C | CN-RMB | Royal Air Maroc. |
-| B-707-351C | CN-RMC | Royal Aír Maroc. |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 18809 | B707-338C | 5N-ARQ | DAS Air Cargo. |
 
-NIGERIA
+Pakistán
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-707-351C | 5N-ASY | Eas Cargo Airlines. |
-| B-707-338C | 5N-ARQ | Das Ais Cargo. |
-| B-707-3F9C | 5N-ABK | Nigeria Airways Ltd. |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 20488 | B-707-340C | AP-AXG | PIA. |
 
-RWANDA
+Arabia Saudita
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-707-328C | 9XR-JA | Air Rwanda. |
+| Número de serie de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 20574 | B-737-268C | HZ-AGA | Saudia. |
+| 20575 | B-737-268C | HZ-AGB | Saudia. |
+| 20576 | B-737-268 | HZ-AGC | Saudia. |
+| 20577 | B-737-268 | HZ-AGD | Saudia. |
+| 20578 | B-737-268 | HZ-AGE | Saudia. |
+| 20882 | B-737-268 | HZ-AGF | Saudia. |
+| 20883 | B-737-268 | HZ-AGG | Saudia. |
 
-SUDÁN
+Swazilandia
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| 8-707-338C | ST-ALP | Trans Arabian Air Transport. |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 45802 | DC-8F-54 | 3D-AFR | African International Airways. |
+| 46012 | DC-8F-54 | 3D-ADV | African International Airways. |
 
-PARAGUAY
+Túnez
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| DC-8-63 | ZP-CCH | Líneas Aéreas Paraguayas (Air Paraguay). |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 20545 | B-727-2H3 | TS-JHN | Tunis Air. |
+| 20948 | B-727-2H3 | TS-JHQ | Tunis Air. |
+| 21179 | B-727-2H3 | TS-JHR | Tunis Air. |
+| 21235 | B-727-2H3 | TS-JHT | Tunis Air. |
 
-URUGUAY
+Uganda
 
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-707-387B | CX-BNU | Primeras Líneas Uruguayas de Navegación Aérea (PLUNA). |
+| Número de serie | Tipo | Matrícula | Operador |
+| --- | --- | --- | --- |
+| 19821 | B-707-379C | 5X-JEF | Dairo Air Services. |
 
-SWAZILANDIA
-
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| DC-8F-54 | 30-ADV | African International Airways (PTY) Ltd. |
-
-TÚNEZ
-
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-727-2H3 | TS-JHT | Tunis Air. |
-
-ZAIRE
-
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-707-329C | 90-CBS | Scibe Airlif. |
-
-ZIMBABWE
-
-| Avión | Compañía |
-| --- | --- |
-| Tipo | Matrícula |
-| B-707-330B | Z-WKU | Air Zimbabwe. |
-| B-707-3308 | Z-WKV | African Airlines International. |
+> Se modifica por el art. 2 del Real Decreto 1908/1999, de 17 de diciembre. Ref. BOE-A-2000-77.
