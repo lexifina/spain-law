@@ -47,3 +47,7 @@ Aceite refinado de pepita de uva.–Procedente de las semillas de la vid (Vitis 
 Aceite refinado de semillas.–Procedente de la mezcla de dos o más aceites de semillas oleaginosas de los autorizados en esta Reglamentación, excepto el aceite refinado de soja.
 
 Por los Ministerios competentes, previo informe de la Comisión Interministerial para la Ordenación Alimentaria, podrá autorizarse el empleo para consumo humano de otros aceites de semillas o frutos oleaginosos distintos de los anteriormente citados, siempre que reúnan las características generales que los hagan aptos para la alimentación y respondan a las constantes físicas y químicas correspondientes a su naturaleza y origen.
+
+> Se suprime el inciso destacado del apartado 1.1 por el art. 1 del Real Decreto 1043/1987, de 24 de julio. Ref. BOE-A-1987-20231.
+
+> Téngase en cuenta para su aplicación la disposición transitoria.
