@@ -14,6 +14,8 @@ d) Todos los cargos de los órganos del Gobierno de dichas Corporaciones tendrá
 
 3. Por Ley del Estado podrán constituirse Consejos Generales o Superiores de las Corporaciones a las que se refiere el presente artículo para asumir la representación de los intereses corporativos en el ámbito nacional o internacional. Sin embargo los acuerdos de los órganos de estas Corporaciones con competencias en ámbito inferior al nacional, no serán susceptibles de ser recurridos en alzada ante los Consejos Generales o Superiores, salvo que sus Estatutos no dispusieran lo contrario.
 
-> Se suprimen las referencias a las Cámaras Oficiales de la Propiedad Urbana y el Consejo Superior de las mismas del apartado 1.a) por la disposición final 10.1 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347
+> Se suprime la referencia a las Cámaras Oficiales de la Propiedad Urbana y el Consejo Superior de las mismas del apartado 1.a) por el art. único del Real Decreto-Ley 8/1994, de 5 de agosto. Ref. BOE-A-1994-18616
+
+> Se suprime la referencia a las Cámaras Oficiales de la Propiedad Urbana y el Consejo Superior de las mismas del apartado 1.a) por la disposición final 10.1 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347
 
 > Téngase en cuenta que se declara inconstitucional y nula la disposición final 10 de la Ley 4/1990, por Sentencia del TC 178/1994 de 6 de junio. Ref. BOE-T-1994-16039

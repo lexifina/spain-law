@@ -1,0 +1,3 @@
+## Disposición transitoria única.
+
+Hasta tanto entre en vigor la regulación prevista en el apartado anterior, las Cámaras seguirán rigiéndose por la normativa que les sea de aplicación, si bien los actos de disposición, gestión y administración adoptados por sus órganos de gobierno que afecten al patrimonio y personal de las mismas, requerirán para su efectividad la previa autorización de la Administración Pública que tenga atribuida su tutela, sin cuyo requisito serán nulos. Para el ejercicio de dicha función la citada Administración Pública podrá designar un representante delegado de la misma en cada Cámara, así como en el Consejo Superior.
