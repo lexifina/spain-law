@@ -1,0 +1,5 @@
+## Primera.
+
+Hasta el momento en que quede constituida la primera Asamblea General y sea elegida la correspondiente Comisión Permanente, las funciones ejecutivas del Consejo de la Juventud de España serán asumidas por una Comisión Gestora que se constituirá mediante Orden del Ministerio de Cultura, en la que se establecerán las normas de funcionamiento y estará formada por la representación que acuerde dicho Departamento con las Entidades Juveniles que han participado en los estudios y propuestas relativos a esta Ley.
+
+La Comisión Gestora, en el plazo máximo de un año desde su constitución, acordará con el Ministerio de Cultura el texto de la convocatoria de la primera Asamblea del Consejo, en la que se especificarán los criterios determinantes del número de delegados de dicha Asamblea y se insertara el orden del día a tratar, incluyéndose en todo caso un punto referido a la preparación del anteproyecto de Reglamento del Consejo y la constitución de una Comisión a tal efecto; esta Comisión elaborará el anteproyecto en el plazo máximo de seis meses y lo presentará a la Asamblea para que, a través del Ministerio de Cultura, se eleve al Consejo de Ministros.

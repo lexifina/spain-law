@@ -1,0 +1,3 @@
+## Artículo duodécimo.
+
+No serán aplicables al Consejo de la Juventud las disposiciones de la Ley de Régimen Jurídico de las Entidades Estatales Autónomas y disfrutarán, en la misma medida que el Estado, de exención tributaria absoluta, incluidas las tasas y exacciones parafiscales que puedan gravar, en favor del Estado, Corporaciones Locales y demás Entes públicos, los actos que realicen o los bienes que adquieran o posean afectos a sus fines, siempre que los tributos o exacciones de que se trate recaigan directamente sobre el Consejo de la Juventud y sin que sea posible legalmente la traslación de la carga tributaria a otras personas.
