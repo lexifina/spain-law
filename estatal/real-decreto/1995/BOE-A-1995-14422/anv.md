@@ -1,6 +1,6 @@
 ## ANEXO V
 
-## Normas específicas para la certificación de plantas de vivero del subgrupo frutales
+## Normas específicas para la certificación de plantas de vivero de frutales de pepita y hueso.
 
 1. Requisitos para la producción y mantenimiento de material inicial:
 
@@ -343,3 +343,5 @@ c) Requisitos específicos para la producción de plantas de vivero certificadas
 3. Precontroles varietales: En las primeras fases de la multiplicación se tomarán al menos tres plantas de cada línea de descedencia clonal para el precontrol varietal, que cultivará el productor en sus instalaciones de aclimatación. De todo ello, informará previamente al organismo oficial responsable, que efectuará las oportunas inspecciones. Las líneas de descedencia que no superen este precontrol serán rechazadas.
 
 Las plantas producidas según estos requisitos podrán tener la categoría de base o certificada, respectivamente.
+
+> Se modifica el título por el art. único.1 del Real Decreto 1678/1999, de 29 de octubre. Ref. BOE-A-1999-22238
