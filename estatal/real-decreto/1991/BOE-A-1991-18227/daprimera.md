@@ -1,3 +1,9 @@
 ## Disposición adicional primera.
 
-El proyecto de presupuestos de los clubes a que se refiere la disposición adicional séptima de la Ley del Deporte se presentará a la Asamblea acompañado de un informe que emitirá la Liga Profesional en el plazo de veinte días naturales desde la solicitud por el Club, pudiendo incluirse en tal informe las recomendaciones complementarias que la Liga Profesional considere necesarias.
+1. El proyecto de presupuesto de los clubes a los que se refieren las disposiciones adicionales séptima y octava de la Ley del Deporte se presentará a la Asamblea acompañado de un informe que emitirá la Liga Profesional en el plazo de veinte días desde la solicitud por el club, pudiéndose incluir en tal informe las recomendaciones complementarias que la Liga Profesional considere necesarias.
+
+2. Si los clubes cuentan con varias secciones deportivas profesionales y no profesionales formarán un presupuesto separado para cada sección que se integrará en el presupuesto general del club. Los presupuestos de cada sección deportiva profesional se acompañarán de un informe que emita la Liga Profesional correspondiente. Asimismo, dichos clubes llevarán una contabilidad en la cual se haga mención especial y separada para cada una de las secciones, desglosando cada tipo de gasto clasificado por naturaleza, así como cada ingreso, los cuales, además, podrán desglosarse por competiciones, con independencia todo ello de su consolidación de acuerdo con el Plan General de Contabilidad.
+
+3. Las Juntas Directivas de los clubes necesitarán la autorización de la Asamblea General, adoptada por la mayoría de los asociados, para realizar actos que excedan de las previsiones del presupuesto de gastos aprobado en materia de plantilla deportiva de los equipos profesionales.
+
+> Se modifica por el art. 1 del Real Decreto 449/1995, de 24 de marzo. Ref. BOE-A-1995-10363.
