@@ -10,7 +10,7 @@ b) Prestación por vejez: Ciento veinte meses de cotización, de los cuales al m
 
 c) Prestaciones de protección a la familia: Doce meses de cotización dentro de los tres años inmediatamente anteriores a la fecha en que se entienda causada la prestación.
 
-d) Ayuda económica con ocasión de intervención quirúrgica: Veinticuatro meses de cotización dentro de los siete años inmediatamente anteriores a la fecha en que se entienda causada la ayuda.
+d) (Suprimida)
 
 Dos. Los períodos de cotización que se determinen en el número anterior para causar derecho a las distintas prestaciones serán objeto de aplicación progresiva para los sectores profesionales que, con posterioridad a uno de octubre de mil novecientos setenta, se declaren obligatoriamente comprendidos en el campo de aplicación de este régimen especial o cuya integración en el mismo se disponga en la forma prevista en el número cuatro del artículo tercero del presente Decreto. A tal efecto será necesario para tener derecho a dichas prestaciones haber cubierto un período de cotización equivalente a la mitad de los meses transcurridos entre la fecha de la incorporación a este régimen especial de los sectores profesionales correspondientes y aquella en que se entienda causada le prestación, con los siguientes períodos mínimos, que se exigirán en todo caso para cada una de las prestaciones que se señalan:
 
@@ -20,7 +20,7 @@ b) Prestaciones por vejez: Un período mínimo de cotización de sesenta meses.
 
 c) Prestación de protección a la familia: Un período mínimo de cotización de seis meses.
 
-d) Ayuda económica con ocasión de intervención quirúrgica: Un período mínimo de cotización de doce meses.
+d) (Suprimida)
 
 Los períodos de cotización que procedan para tener derecho a las prestaciones, conforme a las normas del presente número, se computarán con carácter general para todos los trabajadores comprendidos en el sector profesional de que se trate, dada la fecha de incorporación del sector y con independencia de la fecha posterior a aquella en la que puedan iniciar sus actividades profesionales algunos de los trabajadores comprendidos en el mismo.
 
@@ -31,5 +31,7 @@ Las normas establecidas en el presente número se aplicarán, para cada una de l
 Tres. A efectos de lo dispuesto en los números anteriores sólo serán computables las cotizaciones realizadas antes del día primero del mes en que se cause la prestación, por las mensualidades transcurridas hasta esa fecha y las correspondientes a dicho mes que se ingresen dentro de plazo.
 
 Igual norma se aplicará a efectos de otros beneficios cuya concesión requiera el cumplimiento de un período mínimo de cotización.
+
+> Se suprime la ayuda económica con ocasión de intervención quirúrgica por el art. único.3 del Real Decreto 43/1984, de 4 de enero. Ref. BOE-A-1984-610.
 
 > Se modifica, con efectos de 1 de octubre de 1970, por el art. único del Real Decreto 3088/1972, de 19 octubre. Ref. BOE-A-1972-1642.
