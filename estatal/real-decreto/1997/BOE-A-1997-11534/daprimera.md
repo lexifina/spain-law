@@ -1,0 +1,3 @@
+## Disposición adicional primera. Normativa básica.
+
+El presente Real Decreto se dicta al amparo de lo dispuesto en el artículo 149.1.19.ª de la Constitución, que atribuye al Estado la formulación de las bases en la ordenación del sector pesquero.
