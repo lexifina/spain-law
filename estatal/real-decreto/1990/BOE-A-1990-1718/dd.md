@@ -1,0 +1,3 @@
+## DISPOSICIÓN DEROGATORIA
+
+Quedan derogadas: La Orden del Ministerio de Sanidad y Consumo de 31 de octubre de 1985 («Boletín Oficial del Estado» número 269, de 9 de noviembre), «por la que se regulan los tratamientos de deshabituación con metadona dirigidos a toxicómanos dependientes de opiáceos»; la resolución de 22 de noviembre de 1985 («Boletín Oficial del Estado» del 27), de la Dirección General de Salud Publica sobre «dosificación y criterios de aplicación de los tratamientos de metadona a toxicómanos dependientes de opiáceos», y cuantas otras disposiciones de igual o inferior rango se opongan a lo establecido en este Real Decreto.

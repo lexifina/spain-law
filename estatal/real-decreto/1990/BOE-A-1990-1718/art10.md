@@ -1,0 +1,3 @@
+## Art. 10. Notificación.
+
+El responsable facultativo del Centro o Servicio acreditado para realizar los tratamientos regulados en el presente Real Decreto informará trimestralmente a la Comisión o, en su caso, a los órganos competentes del Ministerio de Sanidad y Consumo, del numero de pacientes en tratamiento, señalando también los inicios, interrupciones y finalizaciones de los mismos que se hayan producido, así como las razones que los justifican y los opiáceos empleados. Esta información es considerada como mínima y cada Comisión Autonómica de Acreditación podrá solicitar información adicional.
