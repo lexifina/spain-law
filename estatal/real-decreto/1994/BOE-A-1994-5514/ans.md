@@ -2,6 +2,8 @@
 
 [Los anexos se han omitido. Consúltese el PDF oficial publicado en suplemento aparte.]
 
+> Se deroga el Anexo III por la disposición derogatoria única del Real Decreto 290/2003, de 7 de marzo. Ref. BOE-A-2003-4786.
+
 > Véase la Orden PRE/470/2003, de 28 de febrero, por la que se modifica el Anexo II. Ref. BOE-A-2003-4606.
 
 > Véase la Orden PRE/3107/2002, de 5 de diciembre, por la que se modifica el Anexo II. Ref. BOE-A-2002-24046.
