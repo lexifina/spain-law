@@ -1,0 +1,7 @@
+La Ley 13/1982, de 7 de abril, de Integración Social de Minusválidos, dictada en cumplimiento del mandato previsto en el artículo 49 de la Constitución Española, recoge en su artículo 1.º, como principio inspirador de la misma, la dignidad que les es propia a los disminuidos en sus capacidades físicas, psíquicas o sensoriales, para su completa realización personal y su total integración social.
+
+Consecuente con dicho precepto legal, situándose en la línea marcada por los textos internacionales sobre la materia y con el propósito de facilitar a determinados minusválidos, como los deficientes visuales, los medios adecuados que les permita una cierta independencia, así como una mayor movilidad, se dicta la presente disposición en la que se articulan las normas consideradas al efecto necesarias para el uso de perros-guía destinados a los mismos, medida que, en la actualidad y dadas las modernas técnicas de adiestramiento y atención sanitaria de perros, constituye un medio auxiliar de singular importancia para el acceso a los lugares, alojamientos, locales y transportes públicos, y en definitiva para su integración en la sociedad.
+
+En su virtud, a propuesta de los Ministros de Trabajo y Seguridad Social, Interior, Administración Territorial, Sanidad y Consumo y Transportes, Turismo y Comunicaciones, y previa deliberación del Consejo de Ministros en su reunión del día 7 de diciembre de 1983,
+
+DISPONGO:

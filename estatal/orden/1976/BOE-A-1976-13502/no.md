@@ -1,0 +1,1 @@
+Téngase en cuenta que esta Orden no será de aplicación a los perros-guia en aquello que se oponga a lo dispuesto en el Real Decreto 3250/1983, de 7 de diciembre. Ref. BOE-A-1984-1#dd, según establece su disposición derogatoria.
