@@ -16,4 +16,8 @@ Asimismo, queda prohibido la utilización de conservadores y gasificantes en la 
 
 12.7 En el caso de utilizar harinas acondicionadas en la elaboración de panes especiales, las dosis de aditivos permitidas serán exclusivamente las contenidas en éstas, sin que el fabricante de panes especiales, en este caso, pueda aumentarlas directamente, excepto en aquellas industrias que dispongan de instalaciones autorizadas para preparar este tipo de harinas.
 
+12.8 Los instrumentos utilizados para las operaciones de corte, automático o manual del pan, deberán ofrecer suficientes garantías en cuanto a tamaño y consistencia para evitar su abandono o fractura en el interior del producto, quedando por ello expresamente prohibido el uso para este fin de cualquier instrumento cortante que pueda producir riesgos.
+
+> Se añade el apartado 12.8 por el art. único del Real Decreto 2627/1985, de 4 de diciembre. Ref. BOE-A-1986-1360.
+
 > Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 281, de 23 de noviembre de 1984. Ref. BOE-A-1984-25800.
