@@ -1,0 +1,3 @@
+## Disposición adicional sexta.
+
+Las pensiones asistenciales que en virtud de la Ley de 21 de julio de 1960 y del Real Decreto 2620/1981, de 24 de julio, se hayan reconocido o puedan reconocerse a favor de ancianos que hayan cumplido sesenta y nueve años o de inválidos incapacitados para el trabajo, con cargo a los créditos de acción social asignados en la sección 19, servicio 07, concepto 485, se seguirán prestando durante el ejercicio de 1984 a quienes reúnan los requisitos legalmente establecidos, fijándose su cuantía en 12 mensualidades de 10.000 pesetas cada una, más dos pagas extraordinarias del mismo importe, que se devengarán en los meses de julio y diciembre.
