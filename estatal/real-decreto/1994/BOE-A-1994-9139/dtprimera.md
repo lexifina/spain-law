@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+Las obras o construcciones, cuyos contratos definitivos hayan sido firmados y cuyas solicitudes de primas hayan sido presentadas con anterioridad al 1 de enero de 1994, tendrán derecho a las ayudas establecidas en el Real Decreto 826/1991. Si la entrada en vigor de dichos contratos o la correspondiente resolución administrativa se produce con posterioridad al 31 de diciembre de 1993, podrán optar, en el plazo de un mes desde la entrada en vigor del presente Real Decreto, a acogerse a las ayudas del mismo o a la de los Reales Decretos anteriores que les fuesen de aplicación. Si la solicitud de primas se ha presentado a partir del 1 de enero de 1994, tendrán derecho a las ayudas establecidas en el presente Real Decreto.
