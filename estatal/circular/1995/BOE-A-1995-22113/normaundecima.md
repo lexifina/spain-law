@@ -4,4 +4,6 @@
 
 2. A partir de la publicación de esta Circular en el «Boletín Oficial del Estado», las entidades dejarán de enviar la información sobre avales interbancarios recabada en carta-circular de 3 de febrero de 1976.
 
-3. Las consultas referentes a la aplicación de esta Circular se plantearán al Banco de España (Oficina de Documentación y Central de Riesgos).
+3. Las consultas referentes a la aplicación de esta Circular se plantearán al Banco de España (Departamento de Información Financiera y Central de Riesgos).
+
+> Se modifica por la disposición adicional única de la Circular 1/2004, de 29 de junio. Ref. BOE-A-2004-12828.
