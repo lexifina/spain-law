@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+A los efectos de lo dispuesto en el artículo 2 de este real decreto, quedan derogados el apartado 7 del artículo 2 y los apartados uno.4 y uno.5, primer párrafo, del anexo 1 del Real Decreto 1497/1987, de 27 de noviembre, por el que se establecen las directrices generales comunes de los planes de estudios de los títulos universitarios de carácter oficial y validez en todo el territorio nacional, en la redacción que, respectivamente, han dado a dichos apartados el Real Decreto 779/1998, de 30 de abril, y el Real Decreto 1267/1994, de 10 de junio, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta norma.
