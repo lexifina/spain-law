@@ -14,6 +14,8 @@ Tampoco pueden contraer matrimonio entre sí:
 
 6.º Los descendientes legítimos del adoptante con el adoptado, mientras subsista la adopción.
 
-7.º Los adúlteros que hubiesen sido condenados por sentencia firme.
+7.º Los que hubiesen sido condenados como autores, o como autor y cómplice, de la muerte del cónyuge de cualquiera de ellos.
 
-8.º Los que hubiesen sido condenados como autores, o como autor y cómplice, de la muerte del cónyuge de cualquiera de ellos.
+8.º (Sin contenido)
+
+> Se deroga el apartado 7 y se reenumera el 8 como 7 por el art. 2.1 de la Ley 22/1978, de 26 de mayo. Ref. BOE-A-1978-13822.
