@@ -1,0 +1,3 @@
+## Disposición final primera. Aplicación del procedimiento a los nuevos elementos de la Clasificación Internacional de Patentes.
+
+El procedimiento de examen previsto por el presente Real Decreto se aplicará a los campos técnicos incluidos en los nuevos elementos de la Clasificación Internacional de Patentes que resultaran en el caso de que se produjeran modificaciones en tal clasificación. La aplicación del procedimiento tendrá efectos desde el momento en que la modificación entrase en vigor en España. No obstante, por Orden del Ministro de Ciencia y Tecnología se modificarán los anexos del presente Real Decreto para adaptarlos a esas modificaciones.
