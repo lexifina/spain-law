@@ -6,23 +6,23 @@ Epígrafe 751.1. Guarda y custodia de vehículos en garajes y locales cubiertos.
 
 Cuota de:
 
-Hasta un límite de 250 metros cuadrados de superficie dedicada a esta actividad: 29.910 pesetas.
+Hasta un límite de 350 metros cuadrados de superficie dedicada a esta actividad: 39.910 pesetas. (239,86 euros)
 
-Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior: 6.624 pesetas.
+Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior: 6.624 pesetas. (39,811042 euros)
 
-Para el cómputo de la superficie dedicada a esta actividad se deducirán aquellos elementos accesorios como rampas, jardines, zonas de seguridad y accesos.
+Para el cómputo de la superficie dedicada a esta actividad se deducirán todos los accesos, rampas, viales interiores, así como todos los espacios y elementos accesorios.
 
-Nota: Estas cuotas no autorizan a la custodia durante el día de coches que únicamente se guardan algunas horas alternando con los que esencialmente se encierran de noche.
+Nota: estas cuotas no autorizan a la custodia durante el día de coches que únicamente se guardan algunas horas alternando con los que esencialmente se encierran de noche.
 
-En el caso de que se ejerza esta modalidad de custodia las cuotas se incrementarán en un 25 por 100.
+En caso de que se ejerza esta modalidad de custodia, las cuotas se incrementarán en un 25 por 100.
 
 Epígrafe 751.2. Guarda y custodia de vehículos en los denominados aparcamientos subterráneos o «parkings».
 
 Cuota de:
 
-Hasta un límite de 250 metros cuadrados de superficie dedicada a esta actividad: 33.638 pesetas.
+Hasta un límite de 250 metros cuadrados de superficie dedicada a esta actividad: 33.638 pesetas. (202,17 euros)
 
-Por cada 50 metros cuadrados o fracción que exceda del límite: 8.280 pesetas.
+Por cada 50 metros cuadrados o fracción que exceda del límite: 8.280 pesetas. (49,763802 euros)
 
 Para el cómputo de la superficie dedicada a la actividad se incluirán todos los pisos existentes y se practicarán las deducciones previstas en el epígrafe anterior.
 
@@ -289,6 +289,8 @@ Cuota mínima municipal de:
 Cuota provincial de: 54.855 pesetas. (329,69 euros)
 
 Cuota nacional de: 76.590 pesetas. (460,32 euros)
+
+> Se modifica el epígrafe 751.1 por el art. 68.1.6 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154.
 
 > Se modifican los epígrafes 751.1 y 2 por el art. 67.1.6 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
 

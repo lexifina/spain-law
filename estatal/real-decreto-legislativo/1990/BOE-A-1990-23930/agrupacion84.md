@@ -34,7 +34,7 @@ Cuota de: 42.953 pesetas.
 
 Epígrafe 843.9 Otros servicios técnicos n.c.o.p.
 
-Cuota de: 48.318 pesetas.
+Cuota de: 44.195 pesetas.
 
 ## Grupo 844. Servicios de publicidad, relaciones públicas y similares.
 
@@ -63,6 +63,18 @@ Nota: Este grupo comprende la prestación de servicios de estudio y análisis de
 Cuota de: 33.638 pesetas.
 
 Nota: Este grupo comprende la realización de estudios de mercado, estudios de opinión, de hábitos de compra y otros servicios independientes de información e investigación comercial.
+
+## Grupo 847. Servicios integrales de Correos y Telecomunicaciones.
+
+Cuota nacional de 2.000.000 pesetas.
+
+Notas:
+
+1.ª Este grupo comprende la prestación de servicios postales, consistentes en la recogida, admisión, clasificación, tratamiento, curso, transporte, distribución y entrega de envíos de correspondencia y envíos postales en todas su modalidades; los servicios de telegramas, télex, giro postal y telegráfico, así como cualquier otro de naturaleza análoga a los anteriores.
+
+2.ª Podrá realizarse, sin pago de cuota adicional alguna, la actividad relativa a la emisión y distribución de sellos de correos y demás signos de franqueo.
+
+3.ª La entidad pública empresarial Correos y Telégrafos satisfará el 50 por 100 de la cuota señalada, por la totalidad de los servicios a que se refiere este grupo.
 
 ## Grupo 849. Otros servicios prestados a las empresas n.c.o.p.
 
@@ -109,6 +121,8 @@ Nota: Este epígrafe comprende la prestación por un mismo sujeto pasivo de una 
 Epígrafe 849.9 Otros servicios independientes n.c.o.p.
 
 Cuota de: 33.638 pesetas.
+
+> Se añade el Grupo 847 por el art. 68.1.2 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
