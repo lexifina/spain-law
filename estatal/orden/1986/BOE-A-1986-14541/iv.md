@@ -92,4 +92,6 @@ e) Técnicas de preparación del material.
 
 f) Otras características.
 
+> Se declara que corresponde al Estado la competencia prevista en el apartado 10, con el alcance que se establece en el fundamento jurídico 2º, por Sentencia del TC 115/1991, de 23 de mayo. Ref. BOE-T-1991-15648
+
 > Se modifica el apartado 15 por el art. 1 de la Orden de 26 de noviembre de 1986. Ref. BOE-A-1986-33108.

@@ -20,4 +20,6 @@ La reincidencia del incumplimiento de normas de calidad de la semilla observado 
 
 A las pruebas de pre y postcontrol oficiales que se realicen tendrán acceso los productores e importadores de semillas.
 
+> Se declara que corresponde a la Generalidad de Cataluña la competencia prevista en el apartado 29 por Sentencia del TC 115/1991, de 23 de mayo. Ref. BOE-T-1991-15648
+
 > Se modifica el apartado 30 por el art. 1 de la Orden de 26 de noviembre de 1986. Ref. BOE-A-1986-33108.
