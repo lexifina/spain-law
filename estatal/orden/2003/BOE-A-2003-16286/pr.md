@@ -1,0 +1,15 @@
+La Orden de 7 de noviembre de 1986 desarrolló el Reglamento General de la Inspección de los Tributos en el ámbito de la competencia del entonces Centro de Gestión Catastral y Cooperación Tributaria.
+
+Desde dicha fecha el citado Centro ha experimentado varias modificaciones organizativas, entre las que destaca por su especial relevancia la desaparición de su condición de organismo autónomo, operada en virtud del Real Decreto 1725/1993, de 1 de octubre, de modificación parcial de la estructura orgánica del Ministerio de Economía y Hacienda, que pasó a configurar orgánicamente al Catastro como un Centro directivo integrado en la Secretaría de Estado de Hacienda.
+
+Además de estas modificaciones de carácter organizativo, se han producido en estos años reformas normativas de gran trascendencia para la Institución catastral:
+
+baste citar, por su capital importancia, la desaparición de las Contribuciones Territoriales Rústica y Pecuaria y Urbana y la entrada en vigor a partir del año 1990 del Impuesto sobre Bienes Inmuebles, que se configuró como un tributo de gestión compartida entre el Estado, a través de la Dirección General del Catastro, y los Ayuntamientos, así como la reciente promulgación de la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario.
+
+Estas modificaciones afectan de manera sustancial al ejercicio de las funciones propias de la Inspección catastral, ahora recogidas y definidas por el artículo 7 de la citada Ley, que le atribuye contenido y sustantividad propia al margen de los procedimientos de aplicación del Impuesto sobre Bienes Inmuebles, sin perjuicio de su incidencia en él.
+
+Estas circunstancias, unidas a la también reciente aprobación de una nueva estructura para las Gerencias y Subgerencias del Catastro, que se encuadra dentro de las previsiones contenidas en el Real Decreto 390/1998, de 13 de marzo, por el que se regulan las funciones y la estructura orgánica de las Delegaciones de Economía y Hacienda y la Orden de 18 de noviembre de 1999 que lo desarrolla, ponen de manifiesto la conveniencia y oportunidad de sustituir la Orden de 7 de noviembre de 1986 por una nueva disposición que se adapte al actual marco normativo del Catastro, contenido en la mencionada Ley 48/2002, de 23 de diciembre, y en sus normas organizativas y de competencia, fundamentalmente el Real Decreto 1330/2000, de 13 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Hacienda, así como el citado Real Decreto 390/1998, de 13 de marzo, y la Orden de 18 de noviembre de 1999.
+
+Por otra parte, la presente Orden da cumplimiento al mandato legal establecido en el artículo 7.3 de la Ley del Catastro Inmobiliario, conforme al cual, las actuaciones de la Inspección catastral deben documentarse en comunicaciones, diligencias, actas e informes, remitiendo la determinación de su contenido y especialidades a Orden del Ministro de Hacienda.
+
+En su virtud, previa aprobación del Ministro para las Administraciones Públicas, he tenido a bien disponer:
