@@ -1,0 +1,3 @@
+## Disposición final segunda.
+
+Las Grandezas y Títulos vacantes por fallecimiento de su legítimo poseedor, con posterioridad al catorce de abril de mil novecientos treinta y uno, podrán transmitirse, a petición de parte y mediante la oportuna justificación documental, tramitándose sus expedientes por el Ministerio de Justifica en la forma que reglamentariamente será establecida. Podrá aportarse como prueba documental los expedientes de sucesión instruidos por la Diputación de la Grandeza en el período que media entre el catorce de abril de mil novecientos treinta y uno y el dos de octubre de mil novecientos cuarenta y siete.
