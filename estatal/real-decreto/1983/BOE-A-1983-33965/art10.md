@@ -6,4 +6,6 @@ Los productos objeto de esta Reglamentación dedicados a la exportación se ajus
 
 10.2 Importación.
 
-Los productos de importación comprendidos en la presente Reglamentación Técnico-Sanitaria deberán cumplir las disposiciones aprobadas en el presente Real Decreto y además en su etiquetado se deberá hacer constar el país de origen. Las Empresas importadoras deberán proceder a su registro, según lo dispuesto en el Real Decreto 2825/1981, de 27 de noviembre.
+Los productos de importación comprendidos en la presente Reglamentación Técnico-Sanitaria de países que no sean parte del acuerdo de Ginebra sobre obstáculos técnicos al comercio, de 12 de abril de 1979 ratificado por España («Boletín Oficial del Estado» de 17 de noviembre de 1981), además de cumplir las disposiciones establecidas en la presente Reglamentación, deberán hacer constar en su etiquetado el país de origen.
+
+> Se modifica el apartado 10.2 por el art. único del Real Decreto 1339/1988, de 28 de octubre. Ref. BOE-A-1988-25810.

@@ -8,13 +8,15 @@
 
 8.3.1 Para los aditivos alimentarios destinados a la industria de alimentación:
 
-8.3.1.1 Denominación del producto, que será el nombre especifico con el que figura en las Listas Positivas.
+8.3.1.1 Denominación del producto.–Será la de su acción, de acuerdo con las listas positivas.
 
-Cuando se trate de una mezcla de dos o más aditivos con la misma acción, la denominación del producto será la de su acción, según la clasificación del punto 3.2 de la presente Reglamentación.
+Cuando se trate de una mezcla de dos o mas aditivos con la misma acción, la denominación del producto será la de su acción, según la clasificación del punto 3.2 de la presente reglamentación.
 
-Si se trata de una mezcla de más de dos o más aditivos con acciones distintas se denominará «mezcla de aditivos».
+Si se trata de una mezcla de dos o mas aditivos con acciones distintas, se denominará «mezcla de aditivos».
 
-Si la mezcla de aditivos contiene además otros productos alimenticios y/o alimentarios, tales como especias, vegetales deshidratados u otros, se denominará «mezcla de aditivos y ...» seguido de la denominación genérica de los productos de que se trate.
+Si la mezcla de aditivos contiene ademas otros productos alimenticios y/o alimentarios, tales como especias, vegetales deshidratados u otros, se denominara «mezcla de aditivos y ....», seguido de la denominación genérica de los productos de que se trate.
+
+En el caso de productos nacionales e importados de terceros países, la denominación comercial será idéntica a la que figure inscrita en el Registro General Sanitario de Alimentos.
 
 8.3.1.2 Composición cualitativa en la que figurará el nombre específico con el que aparecen en las Listas Positivas de cada uno de los aditivos presentes, enumerados según el orden decreciente de su proporción en masa o en volumen. Si contiene otros productos alimenticios y/o alimentarios se declararán a continuación por orden decreciente de proporciones.
 
@@ -30,15 +32,11 @@ Todo envase deberá llevar una indicación que permita identificar el lote de fa
 
 Será obligatorio tener a disposición de los servicios competentes de la Administración la documentación donde consten los datos necesarios para la identificación de cada lote de fabricación.
 
-8.3.1.7 Identificación de la Empresa.
+8.3.1.7 Identificación de la empresa.–Se harán constar las especificaciones que figuran en el artículo 13 del Real Decreto 1122/1988, de 23 de septiembre.
 
-Se hará constar el nombre o la razón social o la denominación del fabricante, envasador o importador y, en todo caso, su domicilio.
+8.3.1.8 (Suprimido)
 
-Cuando la elaboración de un aditivo alimentario se realice bajo la marca de un distribuidor, además de figurar su nombre, razón social o denominación y domicilio, se incluirán los de la industria elaboradora o su número de registro sanitario, precedidos por la expresión: «Fabricado por ...».
-
-8.3.1.8 País de origen en el caso de importación.
-
-8.3.1.9 Número de Registro General Sanitario de Alimentos.
+8.3.1.9 (Suprimido)
 
 8.3.1.10 Fecha de duración mínima, que se expresará mediante la leyenda: «Utilizar antes de:», seguida del día, el mes y el año, en dicho orden, para los productos cuya duración sea inferior a dieciocho meses.
 
@@ -87,5 +85,7 @@ El año, con sus cuatro cifras o sus dos cifras finales.
 8.4.1 Cualquier impresión o grabado en la cara interna del envase que esté en contacto con los aditivos alimentarios.
 
 8.4.2 Contener indicaciones que atribuyan a los aditivos alimentarios una acción terapéutica, preventiva, curativa o enriquecedora.
+
+> Se modifican los apartados 8.3.1.1, 8.3.1.7 y se suprimen los apartados 8.3.1.8 y 8.3.1.9 por el art. único del Real Decreto 1339/1988, de 28 de octubre. Ref. BOE-A-1988-25810.
 
 > Redactado el apartado 8.3.1.1 conforme a la corrección de errores publicada en BOE núm. 35, de 10 de febrero de 1984. Ref. BOE-A-1984-3478.
