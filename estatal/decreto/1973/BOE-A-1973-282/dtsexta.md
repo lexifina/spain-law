@@ -1,0 +1,13 @@
+## Disposición transitoria sexta.
+
+En el supuesto de que respecto a alguna prestación económica que se cause a partir de la entrada en vigor del presente Decreto y cuya cuantía se determine conforme a lo previsto en el mismo, se da la circunstancia de que el valor absoluto de esta resultase inferior al que hubiera correspondido de aplicar a la misma situación de hecho la normativa anterior relativa a los incrementos que se establecían en los artículos trece y dieciséis de los Estatutos de la Caja de Jubilaciones y Subsidio de la Minería Asturiana y en el artículo seis, en lo correspondiente a la pensión complementaria de la de Silicosis de los Estatutos de las Mutualidades Laborales del Carbón, derogados por la disposición final segunda de este Decreto, se aplicarán las siguientes normas:
+
+Primera. A electos de determinar la referida diferencia se tomará como valor absoluto correspondiente conforme a la normativa anterior el que hubiera resultado de haber tenido lugar el hecho causante de la prestación de que se trate la víspera del día de entrada en vigor del presente Decreto y con aplicación, por consiguiente, del importe de la base reguladora que en aquella fecha hubiese correspondido con arreglo a la expresada normativa y habida cuenta, por tanto, de las bases de cotización efectuadas por la contingencia de que se trate y de los demás datos relativos al trabajador hasta tal momento.
+
+Segunda. La cuantía de la nueva prestación se considerará incrementada transitoriamente con la diferencia resultante, manteniéndose el incremento mientras subsista la expresada diferencia. Cualquier aumento que experimente la cuantía de la nueva prestación absorberá la indicada diferencia, salvo que el aumento sea debido a la revalorización o mejora de pensiones previstas en la Ley veinticuatro/mil novecientos setenta y dos, de veintiuno de junio.
+
+Tercera. La percepción del incremento será incompatible con el trabajo de su beneficiario, conforme a lo establecido en la normativa anterior.
+
+Cuarta. A efectos de la competencia para reconocimiento del derecho, devengo, revisión, suspensión, extinción e incompatibilidad con otras pensiones, prestaciones o beneficios derivados da la condición de pensionista, el incremento de la nueva prestación se considerará parte integrante de la misma.
+
+Quinta. El pago del incremento se efectuará por el Servicio común que realice el de la prestación a que corresponda, a cuyo fin las disposiciones de aplicación y desarrollo determinarán la compensación económica que hayan de realizar las Mutualidades Laborales del Carbón o Fondo de Compensación profesional de las mismas en favor de dichos Servicios comunes.
