@@ -4,6 +4,4 @@
 
 2. Corresponde al Director Provincial del Ministerio de Educación y Ciencia, a propuesta del Inspector-Jefe Provincial, y con audiencia de los interesados, determinar la asignación de los Inspectores de su plantilla a los diferentes distritos de inspección.
 
-3. Los Inspectores asignados a un distrito permanecerán en el mismo al menos durante tres cursos académicos y hasta un máximo de seis años, pudiendo producirse en cada caso, a partir de los tres años de permanencia, la rotación que el Director provincial considere conveniente para el mejor funcionamiento de los servicios.
-
-> Se modifica el apartado 3 por el art. 3.h) de la Orden de 3 de agosto de 1996. Ref. BOE-A-1996-18402.
+3. Los Inspectores asignados a un distrito permanecerán en el mismo al menos durante tres cursos académicos, pudiendo producirse entonces la rotación que el Director provincial considere conveniente para el mejor funcionamiento de los servicios.
