@@ -1,7 +1,5 @@
 ## Artículo 40.
 
-El Control económico y presupuestario de la Diputación Regional se ejercerá por el Tribunal de Cuentas del Estado.
+Los actos y acuerdos y las normas reglamentarias emanadas de los órganos ejecutivos y administrativos de la Comunidad Autónoma serán, en todo caso, impugnables ante la jurisdicción contencioso-administrativa.
 
-El informe del Tribunal de Cuentas será remitido, además de a las Cortes Generales, a la Asamblea Regional de Cantabria.
-
-Lo establecido en los párrafos anteriores se llevará a cabo de acuerdo con lo que disponga la Ley Orgánica prevista en el artículo ciento treinta y seis coma cuatro de la Constitución.
+> Se modifica por el art. único.47 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152

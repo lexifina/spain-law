@@ -1,11 +1,11 @@
 ## Artículo 58.
 
-La Comunidad Autónoma de Cantabria podrá acordar su incorporación a otra limítrofe, a la que le unan lazos históricos y culturales, mediante el procedimiento siguiente:
+1. La reforma del Estatuto se ajustará al siguiente procedimiento:
 
-a) La iniciativa corresponderá a la Asamblea Regional de Cantabria mediante decisión adoptada por mayoría de dos tercios de sus miembros.
+a) La iniciativa de la reforma corresponderá al Gobierno, al Parlamento a propuesta de un tercio de sus miembros, o a las Cortes Generales.
 
-b) El acuerdo favorable deberá ser ratificado en el plazo de seis meses por un número no inferior a los dos tercios de los Ayuntamientos, cuya población represente, al menos, la mayoría del censo electoral del territorio de la Comunidad Autónoma.
+b) La propuesta de reforma requerirá, en todo caso, la aprobación del Parlamento de Cantabria, por mayoría de dos tercios, y la aprobación de las Cortes Generales, mediante ley orgánica.
 
-c) La propuesta de incorporación deberá ser aprobada por la Comunidad Autónoma en la que deba integrarse en la forma en que disponga su Estatuto de Autonomía.
+2. Si la propuesta de reforma no es aprobada por el Parlamento de Cantabria o por las Cortes Generales, no podrá ser sometida nuevamente a debate o votación por el Parlamento hasta que haya transcurrido un año.
 
-d) La integración precisará, en todo caso, la aprobación de las Cortes Generales mediante Ley Orgánica.
+> Se modifica por el art. único.65 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152

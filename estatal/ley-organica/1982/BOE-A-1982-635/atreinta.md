@@ -1,9 +1,5 @@
 ## Artículo 30.
 
-La Diputación Regional de Cantabria podrá celebrar convenios con otras Comunidades Autónomas para la gestión y prestación de servicios propios de su competencia, de acuerdo con lo dispuesto en el artículo ciento cuarenta y cinco coma dos de la Constitución.
+Corresponde a la Comunidad Autónoma de Cantabria, sin perjuicio de la obligación general del Estado, la defensa y protección de los valores culturales del pueblo cántabro.
 
-Estos acuerdos deberán ser aprobados por la Asamblea Regional y comunicados a las Cortes, y entrarán en vigor a los treinta días de la comunicación, salvo que éstas acuerden en dicho plazo que, por su contenido, el convenio debe seguir el trámite previsto en el párrafo siguiente, como acuerdo de cooperación
-
-En estos supuestos, la Comunidad Autónoma podrá establecer acuerdos de cooperación con otras Comunidades Autónomas previa autorización de las Cortes Generales.
-
-La Diputación Regional de Cantabria atenderá de modo especial la celebración de acuerdos y convenios con la Comunidad de Castilla-León, que respondan a los lazos históricos y culturales entre ambas Comunidades.
+> Se modifica por el art. único.36 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152

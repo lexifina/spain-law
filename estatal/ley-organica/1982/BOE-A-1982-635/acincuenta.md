@@ -1,7 +1,13 @@
 ## Artículo 50.
 
-Uno. La gestión, recaudación, liquidación e inspección de sus propios tributos, así como el conocimiento de las reclamaciones relativas a los mismos, corresponderán a la Diputación Regional de Cantabria, la cual dispondrá de plenas atribuciones para la ejecución y organización de dichas tareas, sin perjuicio de la colaboración que pueda establecerse con la Administración Tributaria del Estado, especialmente cuando así lo exija la naturaleza del tributo.
+1. La Comunidad Autónoma de Cantabria, mediante acuerdo del Parlamento, podrá concertar operaciones de crédito y emitir deuda pública para financiar gastos de inversión.
 
-Dos. En el caso de los impuestos cuyos rendimientos se hubiesen cedido, el Consejo de Gobierno asumirá, por delegación del Estado, la gestión, recaudación, liquidación, inspección y revisión, en su caso, de los mismos, sin perjuicio de la colaboración que pueda establecerse entre ambas Administraciones, todo ello de acuerdo con lo especificado en la ley que fije el alcance y condiciones de la cesión.
+2. El volumen y características se establecerán de acuerdo con la ordenación de la política crediticia y en coordinación con el Estado.
 
-Tres. La gestión, recaudación, liquidación inspección y revisión, en su caso, de los demás impuestos del Estado, recaudados en Cantabria, corresponderá a la Administración Tributaria del Estado, sin perjuicio de la delegación que la Diputación Regional de Cantabria pueda recibir de éste y de la colaboración que pueda establecerse, especialmente cuando así lo exija la naturaleza del tributo.
+3. Los títulos emitidos tendrán la consideración de fondos públicos a todos los efectos.
+
+4. Asimismo, el Gobierno podrá realizar operaciones de crédito por plazo inferior a un año, con objeto de cubrir sus necesidades transitorias de tesorería.
+
+5. Lo establecido en los artículos anteriores se ajustará a lo dispuesto en la Ley Orgánica de Financiación de las Comunidades Autónomas.
+
+> Se modifica por el art. único.57 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152

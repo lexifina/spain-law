@@ -1,13 +1,5 @@
 ## Artículo 45.
 
-Uno. El Patrimonio de la Comunidad Autónoma estará integrado por:
+La Comunidad Autónoma de Cantabria, dentro de los principios de coordinación con las Haciendas estatal y local, y de solidaridad entre todos los españoles y españolas, tiene autonomía financiera, dominio público y patrimonio propio de acuerdo con la Constitución, el presente Estatuto y la Ley Orgánica de Financiación de las Comunidades Autónomas.
 
-a) El Patrimonio de la Diputación Provincial de Santander en el momento de aprobarse el Estatuto.
-
-b) Los bienes afectos a servicios traspasados a la Diputación Regional de Cantabria.
-
-c) Los bienes adquiridos por la Diputación Regional de Cantabria por cualquier título jurídico válido.
-
-Dos. El Patrimonio de la Diputación Regional de Cantabria, su administración, defensa y conservación, serán regulados por una ley de la Asamblea Regional.
-
-Tres. La Comunidad Autónoma tiene plena capacidad para adquirir, administrar y enajenar, según la legislación vigente, los bienes que integren su patrimonio.
+> Se modifica por el art. único.52 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152

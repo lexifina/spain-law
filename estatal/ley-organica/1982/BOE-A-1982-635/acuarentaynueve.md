@@ -1,11 +1,29 @@
 ## Artículo 49.
 
-Uno. La Diputación Regional de Cantabria, mediante acuerdo de la Asamblea Regional, podrá concertar operaciones de crédito y emitir deuda pública para financiar gastos de inversión.
+1. Cuando se complete el traspaso de servicios o al cumplirse el sexto año de vigencia de este Estatuto, si la Comunidad Autónoma de Cantabria o el Estado lo solicita, la participación anual en los ingresos del Estado, citada en el número 3 del artículo 47 y definida en la disposición transitoria décima, se negociará sobre las siguientes bases:
 
-Dos. El volumen y características se establecerán de acuerdo con la ordenación de la política crediticia y en coordinación con el Estado.
+a) El coeficiente de población.
 
-Tres. Los títulos emitidos tendrán la consideración de fondos públicos a todos los efectos.
+b) El coeficiente de esfuerzo fiscal en el Impuesto sobre la Renta de las Personas Físicas.
 
-Cuatro. Asimismo, el Consejo de Gobierno podrá realizar operaciones de crédito por plazo inferior a un año, con objeto de cubrir sus necesidades transitorias de tesorería.
+c) La cantidad equivalente a la aportación proporcional que corresponda a Cantabria, por los servicios y cargas generales que el Estado continúe asumiendo como propios.
 
-Cinco. Lo establecido en los artículos anteriores se ajustará a lo dispuesto en la Ley Orgánica de Financiación de las Comunidades Autónomas.
+d) La relación inversa de la renta real por habitante de Cantabria respecto a la del resto de España.
+
+e) Relación entre los índices de déficit en servicios sociales e infraestructura que afecten al territorio de la Comunidad y al conjunto del Estado.
+
+f) Relación entre los costos por habitante de los servicios sociales y administrativos transferidos para el territorio de la Comunidad y para el conjunto del Estado.
+
+g) Otros criterios que se estimen procedentes.
+
+2. La fijación del nuevo porcentaje de participación será objeto de negociación y podrá revisarse en los siguientes supuestos:
+
+a) Cuando se amplíen o se reduzcan las competencias asumidas por la Comunidad Autónoma y que anteriormente realizase el Estado.
+
+b) Cuando se produzca la cesión de nuevos tributos.
+
+c) Cuando se lleven a cabo reformas sustanciales en el sistema tributario del Estado.
+
+d) Cuando, transcurridos cinco años después de su puesta en vigor, sea solicitada dicha revisión por el Estado o la Comunidad Autónoma de Cantabria.
+
+> Se modifica por el art. único.56 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152

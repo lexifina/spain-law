@@ -1,9 +1,13 @@
 ## Artículo 57.
 
-Uno. La reforma del Estatuto se ajustará al siguiente procedimiento:
+1. La Comunidad Autónoma de Cantabria, de acuerdo con lo que establezcan las leyes del Estado, designará sus propios representantes en los organismos económicos, las instituciones financieras y las empresas públicas del Estado cuya competencia se extienda al territorio de Cantabria y que, por su naturaleza, no sean objeto de traspaso.
 
-a) La iniciativa de la reforma corresponderá al Consejo de Gobierno, a la Asamblea Regional de Cantabria, a propuesta de un tercio de sus miembros o a las Cortes Generales.
+2. La Comunidad Autónoma podrá elaborar y remitir al Gobierno del Estado cualesquiera informes, estudios o propuestas relativos a la gestión de las empresas públicas o su incidencia en la socioeconomía de la Comunidad Autónoma. Dichos informes, estudios o propuestas darán lugar a resoluciones motivadas del Gobierno o de los organismos o entidades titulares de la participación de las empresas.
 
-b) La propuesta de reforma requerirá, en todo caso, la aprobación de la Asamblea Regional de Cantabria, por mayoría de dos tercios, y la aprobación de las Cortes Generales, mediante Ley Orgánica.
+3. La Comunidad Autónoma de Cantabria podrá constituir empresas públicas como medio de ejecución de las funciones que sean de su competencia, según lo establecido en el presente Estatuto.
 
-Dos. Si la propuesta de reforma no es aprobada por la Asamblea Regional de Cantabria o por las Cortes Generales, no podrá ser sometida nuevamente a debate o votación por la Asamblea Regional hasta que haya transcurrido un año.
+4. La Comunidad Autónoma de Cantabria, como poder público, podrá hacer uso de las facultades previstas en el apartado 1 del artículo 130 de la Constitución, y podrá fomentar mediante acciones adecuadas, las sociedades cooperativas. Asimismo, de acuerdo con la legislación del Estado en la materia, podrá hacer uso de las demás facultades previstas en el apartado 2 del artículo 129 de la Constitución.
+
+5. La Comunidad Autónoma de Cantabria queda facultada para constituir instituciones que fomenten la ocupación y el desarrollo económico y social, en el marco de sus competencias.
+
+> Se modifica por el art. único.64 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152

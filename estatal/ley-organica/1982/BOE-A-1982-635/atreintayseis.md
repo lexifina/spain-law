@@ -1,7 +1,7 @@
 ## Artículo 36.
 
-En los términos previstos en el artículo veintitrés de este Estatuto por Ley de Cantabria se podrá:
+Corresponde a la Comunidad Autónoma la creación y estructuración de su propia Administración pública, dentro de los principios generales y normas básicas del Estado.
 
-Uno. Reconocer la Comarca como Entidad Local con personalidad jurídica y demarcación propia. La Comarca no supondrá, necesariamente, la supresión de los Municipios que la integran.
+> Se modifica por el art. único.42 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
 
-Dos. Crear, asimismo, Agrupaciones basadas en hechos urbanísticos y otros de carácter funcional con fines específicos.
+> Su anterior numeración era art. 35.

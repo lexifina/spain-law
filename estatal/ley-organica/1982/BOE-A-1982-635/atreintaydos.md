@@ -1,7 +1,7 @@
 ## Artículo 32.
 
-Uno. Las competencias de la Diputación Regional de Cantabria se entienden referidas a su territorio.
+La Comunidad Autónoma de Cantabria asume desde su constitución todas las competencias, medios y recursos que según las leyes correspondan a la Diputación Provincial de Santander.
 
-Dos. En las materias de su competencia le corresponde a la Asamblea Regional la potestad legislativa en los términos previstos en el Estatuto, correspondiéndole al Consejo de Gobierno la potestad reglamentaria y la función ejecutiva.
+Los órganos de representación y gobierno de la Diputación Provincial establecidos por la legislación de régimen local quedan sustituidos en la provincia de Santander por los propios de la Comunidad Autónoma, en los términos de este Estatuto. El Parlamento de Cantabria determinará, según su naturaleza, la distribución de las competencias de la Diputación Provincial entre los distintos órganos de la Comunidad Autónoma de Cantabria previstos en el artículo 7 de este Estatuto.
 
-Tres. Las competencias de ejecución de la Diputación Regional de Cantabria lleva implícita la correspondiente potestad reglamentaria para la organización interna de los servicios, la administración y en su caso la inspección.
+> Se modifica por el art. único.38 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152

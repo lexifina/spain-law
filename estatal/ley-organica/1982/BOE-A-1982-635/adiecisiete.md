@@ -1,13 +1,9 @@
 ## Artículo 17.
 
-Uno El Consejo de Gobierno es el órgano colegiado de gobierno de Cantabria.
+1. El Presidente de la Comunidad Autónoma ostenta la más alta representación de la Comunidad Autónoma y la ordinaria del Estado en Cantabria.
 
-Dos. El Consejo de Gobierno está compuesto por el Presidente, el Vicepresidente, en su caso, y los Consejeros. El número de Consejeros, con responsabilidad ejecutiva, no excederá de diez.
+2. El Presidente designa y separa a los miembros del Gobierno y preside, dirige y coordina su actuación.
 
-Tres. Los Consejeros, que no requerirán la condición de Diputados Regionales, serán nombrados y cesados por el Presidente, siendo preceptiva la información de éste a la Asamblea.
+3. El Presidente de la Comunidad Autónoma será elegido por el Parlamento de entre sus miembros y nombrado por el Rey. A tal efecto, el Presidente del Parlamento, previa consulta con las fuerzas políticas representadas en el mismo y oída la Mesa, propondrá un candidato o candidata a Presidente de la Comunidad Autónoma. El candidato o candidata presentará su programa al Pleno de la Cámara y, para ser elegido o elegida, deberá obtener mayoría absoluta en la primera votación; de no obtenerse esta mayoría cualificada se procederá a una nueva votación pasadas cuarenta y ocho horas y resultará elegido o elegida si obtiene mayoría simple. En el caso de no obtenerse dicha mayoría en esta segunda votación se tramitarán sucesivas propuestas en la forma prevista anteriormente. Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato o candidata resultare elegido o elegida por el Parlamento, éste quedará automáticamente disuelto, procediéndose a la convocatoria de nuevas elecciones para el mismo. El mandato del nuevo Parlamento durará hasta la fecha en que debería concluir el anterior y sin perjuicio de lo dispuesto en el artículo 23. En ningún caso procederá la disolución del Parlamento cuando el plazo de dos meses concluya el último año de la legislatura.
 
-Cuatro. El Presidente podrá delegar temporalmente funciones ejecutivas y de representación en uno de los Consejeros.
-
-Cinco. Una Ley de la Asamblea Regional de Cantabria regulará la organización del Consejo de Gobierno, las atribuciones y el estatuto personal de cada uno de sus componentes.
-
-Seis. Los Consejeros no podrán ejercer otras funciones representativas que las propias del mandato de la Asamblea, ni cualquier otra función pública que no derive de su cargo.
+> Se modifica por el art. único.21 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
