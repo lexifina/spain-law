@@ -1,0 +1,3 @@
+## Decimocuarto. Ejercicios prácticos.
+
+Los ejercicios prácticos individuales, tanto en los cursos de formación inicial como en los de actualización y perfeccionamiento, requerirán la participación activa de todos y cada uno de los participantes en el curso, estarán en conexión con la formación teórica recibida, versarán sobre las cuestiones que se indican con el artículo 70 del Reglamento General de Conductores, aprobado por Real Decreto 772/1997, de 30 de mayo, y en el anexo II de la presente Orden, y se realizarán en el lugar e instalaciones a que se refieren los artículos 73.2 del citado Reglamento y en los puntos 2 y 3 del apartado tercero de esta Orden.

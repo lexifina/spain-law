@@ -1,0 +1,3 @@
+## Disposición adicional única. Reconocimiento de autorizaciones.
+
+Las autorizaciones especiales que habilitan para conducir vehículos que transporten mercancías peligrosas (ADR-Certificado de Formación para los Conductores de Vehículos que Transporten Mercancías Peligrosas) obtenidas conforme al marginal 10.315 del ADR y expedidas con sujeción al modelo establecido en el apéndice B.6 del mismo por la autoridad competente de las demás partes contratantes o cualquier otra organización reconocida por dicha autoridad, serán reconocidas en España durante su período de validez, siempre que éste no sea superior a cinco años.
