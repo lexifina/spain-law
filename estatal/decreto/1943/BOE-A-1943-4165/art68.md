@@ -4,4 +4,6 @@ El importe de los ingresos obtenidos por la Dirección General del Turismo en co
 
 Los gastos administrativos reglamentarios derivados de la concesión serán de cuenta de la Dirección General del Turismo y no deducibles del importe de los ingresos por permisos.
 
+> Se deroga en cuanto se oponga por la disposición final 1 del Decreto 1434/1959, de 18 de agosto. Ref. BOE-A-1959-11472.
+
 > Se modifica por el art. 3 del Decreto de 16 de junio de 1950. Ref. BOE-A-1950-8044.
