@@ -1,0 +1,7 @@
+La Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, ha supuesto un acontecimiento de enorme importancia en el mundo empresarial al exigir una mayor transparencia en el ámbito contable de las Empresas. Dicha exigencia no sólo venia dada por nuestra adhesión a la Comunidad Económica Europea, sino por razones puramente objetivas.
+
+Con posterioridad a la citada norma, el texto refundido de la Ley de Sociedades Anónimas, aprobado por Real Decreto legislativo 1564/1989, de 22 de diciembre, recoge en la sección octava del capitulo VII la verificación de las cuentas anuales, si bien regulando sólo determinados aspectos, como son, entre otros, las Sociedades que están obligadas a auditarse, el nombramiento de auditores y el contenido del informe. De otra parte, la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990, incorpora en su disposición adicional decimotercera una modificación al artículo 7.° de la Ley 19/1988, relativo a los requisitos para el ejercicio de la actividad de la auditoría de cuentas.
+
+En uso de la autorización contenida en la disposición final tercera de la Ley 19/1988, de 12 de julio, para desarrollar dicha Ley, previa aprobación del Ministro para las Administraciones Públicas, oído el Consejo de Estado, a propuesta del Ministro de Economía y Hacienda y previa deliberación del Consejo de Ministros en su reunión del día 20 de diciembre de 1990,
+
+## D I S P O N G O :

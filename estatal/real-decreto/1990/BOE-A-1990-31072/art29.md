@@ -1,0 +1,3 @@
+## Art. 29. Inscripción de las Sociedades en el Registro.
+
+Para solicitar su inscripción en el Registro Oficial de Auditores de Cuentas, las Sociedades deberán acreditar ante el Instituto de Contabilidad y Auditoría de Cuentas el cumplimiento de los requisitos establecidos en los apartados a), b) y c) del artículo anterior mediante la correspondiente aportación documental, debiendo prestar, una vez obtenida la autorización del Instituto de Contabilidad y Auditoría de Cuentas, la fianza contemplada en los articulos 21 y 35 de este Reglamento, a fin de lograr la definitiva inscripción en el Registro Oficial de Auditores de Cuentas.

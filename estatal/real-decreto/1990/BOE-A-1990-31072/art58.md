@@ -1,0 +1,3 @@
+## Art. 58. Salvaguarda de la documentación en el supuesto de baja en el Registro Oficial de Auditores de Cuentas.
+
+En los casos de baja temporal o delinitiva en el Registro Oficial de Auditores de Cuentas, el Instituto de Contabilidad y Auditoría de Cuentas adoptará las medidas necesarias para la salvaguarda de la documentación referente a las auditorías de cuentas realizadas por el auditor de cuentas sancionado sobre las que se estuviera realizando algún trabajo de control técnico o sobre las que el Instituto de Contabilidad y Auditoría de Cuentas tuviera conocimiento de que estuvieran incursas en alguna reclamación de responsabilidad por parte de un tercero.

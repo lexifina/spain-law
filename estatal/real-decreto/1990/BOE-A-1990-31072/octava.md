@@ -1,0 +1,5 @@
+## Disposición adicional octava.
+
+El ingreso en el Registro Oficial de Auditores dependiente del Consejo Superior de Colegios Oficiales de Titulares Mercantiles de España se realizará mediante exámenes de aptitud profesional entre personas que, cumpliendo los requisito de edad, nacionalidad y titulación académica establecidos en el artículo 7 de la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, hayan seguido programas de enseñanza teórica y adquirido una formación práctica. La convocatoria de dichos exámenes deberá ser aprobada por el Instituto de Contabilidad y Auditoría de Cuentas y se publicará mediante Orden del Ministerio de Economía y Hacienda. En cuanto al contenido de los programas, dispensa de materias de acuerdo con la titulación, composición de los Tribunales y periodo de formación práctica se sujetarán a cuanto dispone la citada Ley y el presente Reglamento.
+
+Podrán también inscribirse en este Registro de Auditores las Sociedades de Auditoría que reúnan las condiciones establecidas en el artículo 10 de la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas.
