@@ -1,15 +1,15 @@
 ## Sexto.
 
-El Departamento de Informática Tributaria se estructurará en los siguientes órganos:
+El Departamento de Organización, Planificación y Relaciones Institucionales estará integrado por las siguientes Unidades:
 
-Subdirección General de Planificación y Coordinación.
+Secretaría Técnica Permanente de la Comisión Mixta de Coordinación de la Gestión Tributaria, con rango de Dirección Adjunta.
 
-Subdirección General de Explotación.
+Subdirección General de Organización y Coordinación.
 
-Subdirección General de Aplicaciones.
+Subdirección General de Planificación y Programación.
 
-Subdirección General de Aplicaciones de Aduanas e Impuestos Especiales.
+Subdirección General de Comunicación Externa.
 
-Subdirección General de Estudios y Análisis Tributarios.
+> Se modifica por la disposición única.2 de la Orden de 11 de julio de 1997. Ref. BOE-A-1997-15579.
 
 > Se modifica por el apartado 2.2 de la Orden de 4 de abril de 1997. Ref. BOE-A-1997-7437.
