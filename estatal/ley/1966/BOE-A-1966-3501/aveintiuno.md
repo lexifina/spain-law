@@ -1,5 +1,5 @@
 ## Artículo veintiuno. Publicaciones de contenido especial.
 
-Quedan exceptuadas de lo dispuesto en los artículos dieciocho, diecinueve, veinte y veinticuatro salvo en lo que éste último prescribe respecto a los órganos rectores, las personas jurídicas que, de acuerdo con sus finalidades institucionales o asociativas pretendan publicar revistas que reglamentariamente se definen como de carácter técnico, científico o profesional.
+(Derogado)
 
-La excepción no comprende, en ningún caso, las publicaciones periódicas de información general.
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

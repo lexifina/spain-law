@@ -1,3 +1,5 @@
 ## Artículo veintidós. Responsabilidad en caso de varias publicaciones.
 
-Si las Empresas periodísticas publican varios periódicos, las responsabilidades económicas en razón de esta Ley, derivadas de cualquiera de ellos, podrán hacerse efectivas sobre la totalidad del patrimonio. El pacto limitativo de esta responsabilidad será nulo.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

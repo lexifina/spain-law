@@ -1,3 +1,5 @@
 ## Artículo treinta y uno. Nuevas publicaciones.
 
-Cuando una Empresa periodística ya inscrita desee iniciar una nueva publicación periódica deberá también hacerla objeto de inscripción, conforme a lo dispuesto a los artículos anteriores.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

@@ -1,3 +1,5 @@
 ## Artículo treinta. Recurso en caso de denegación o cancelación.
 
-Contra la resolución ministerial que deniegue o cancele cualquier inscripción en el Registro de Publicaciones Periódicas podrá interponerse recurso ante el Consejo de Ministros y el ulterior recurso contencioso-administrativo.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

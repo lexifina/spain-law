@@ -1,3 +1,5 @@
 ## Artículo cincuenta y seis. Agencias informativas extranjeras.
 
-Las agencias informativas extranjeras que actúen en España para suministrar material informativo al exterior estarán obligadas a acreditar a sus corresponsales ante el Ministerio de Información y Turismo
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

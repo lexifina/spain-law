@@ -1,5 +1,5 @@
 ## Artículo cuarenta y tres. Agencias informativas.
 
-Uno. Se consideran agencias informativas las Empresas que se dediquen en forma habitual a proporcionar noticias, colaboraciones, fotografías y cualesquiera otros elementos informativos.
+(Derogado)
 
-Dos. Las agencias informativas se clasificarán en agencias de información general, información gráfica, agencias de colaboraciones y agencias mixtas.
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

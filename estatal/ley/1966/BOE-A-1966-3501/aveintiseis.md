@@ -1,3 +1,5 @@
 ## Artículo veintiséis. Inscripción.
 
-Las Empresas periodísticas habrán de inscribirse, antes de dar comienzo al ejercicio de sus actividades, en un registro de carácter público, que se llevará en el Ministerio de Información y Turismo, y que se denominará «Registro de empresas Periodísticas».
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

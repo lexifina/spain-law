@@ -1,5 +1,5 @@
 ## Artículo diecisiete. Capital español.
 
-Uno. El patrimonio y el capital de las Empresas periodísticas tendrá que pertenecer necesariamente a personas naturales o jurídicas de nacionalidad española y residentes en España.
+(Derogado)
 
-Dos. Sin embargo, será posible la participación hasta de un veinte por ciento a favor de españoles no residentes en España, en los que concurran los restantes requisitos del artículo dieciséis.
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

@@ -1,3 +1,5 @@
 ## Artículo cuarenta y cuatro. Libertad de creación de agencias.
 
-Será libre la creación de agencias informativas, siempre que se cumplan los mismos requisitos previstos en esta Ley para las publicaciones y Empresas periodísticas. Existirá en el Ministerio de Información y Turismo un «Registro público de agencias informativas».
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

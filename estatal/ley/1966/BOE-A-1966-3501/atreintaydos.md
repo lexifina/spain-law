@@ -1,3 +1,5 @@
 ## Artículo treinta y dos. Beneficios.
 
-Una vez inscrita en el Registro la Empresa periodística participará de los beneficios de carácter tributario, económico, postal, de distribución, comunicación y cuantos otros análogos se otorguen. Siempre que éstos tengan finalidad compensatoria, directa o indirecta, la Administración aprobará los precios de venta o de prestación de servicios informativos.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

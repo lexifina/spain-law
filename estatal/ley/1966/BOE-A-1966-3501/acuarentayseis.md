@@ -1,3 +1,5 @@
 ## Artículo cuarenta y seis. Prohibición de publicidad.
 
-Las agencias informativas no podrán dedicarse a ninguna actividad publicitaria.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

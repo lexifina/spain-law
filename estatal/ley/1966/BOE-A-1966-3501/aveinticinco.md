@@ -1,3 +1,5 @@
 ## Artículo veinticinco. Vigilancia de los medios financieros.
 
-La Administración tendrá derecho en todo momento a conocer cómo cubren sus déficit, si los tuvieren, las Empresas periodísticas, así como a inspeccionar la contabilidad y las tiradas de sus publicaciones.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

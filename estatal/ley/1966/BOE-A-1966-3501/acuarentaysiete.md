@@ -1,5 +1,5 @@
 ## Artículo cuarenta y siete. Identificación de agencias.
 
-Uno. En todo el material distribuido por las agencias de información deberá figurar la indicación o sigla que las identifique.
+(Derogado)
 
-Dos. Esta indicación se hará constar asimismo en las publicaciones.
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.

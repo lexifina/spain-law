@@ -1,3 +1,5 @@
 ## Artículo cuarenta y ocho. Responsabilidad.
 
-La responsabilidad de las agencias de información y de sus Directores se regirá por las mismas normas que las de las Empresas periodísticas y la de los Directores de publicaciones periódicas, y en ningún caso se excluirán entre sí.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
