@@ -1,0 +1,3 @@
+## Disposición adicional primera. Entidades colaboradoras.
+
+Las organizaciones interprofesionales agroalimentarias reconocidas conforme a lo establecido en la presente Ley podrán ser consideradas como entidades colaboradoras para la entrega y distribución de fondos públicos a los beneficiarios de ayudas y subvenciones públicas que tengan por objeto exclusivamente la consecución de las finalidades recogidas en el artículo 3 de la presente Ley, en los términos establecidos en el artículo 81 del texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto legislativo 1091/1988, de 23 de septiembre.
