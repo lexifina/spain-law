@@ -12,8 +12,12 @@ b) La preparación, manipulación y venta para su utilización como métodos de 
 
 a) El ejercicio de la caza o la pesca durante las épocas de celo, reproducción o crianza, o durante los períodos de regreso hacia los lugares de reproducción,
 
+> Téngase en cuenta que se declara la nulidad del apartado 2.a), en el particular de que considera como infracción menos grave el ejercicio de la pesca durante las épocas de celo, reproducción o crianza, por Sentencia del TS de 22 de febrero de 2000. Ref. BOE-A-2000-5908.
+
 b) El ejercicio de la caza o la pesca durante las moratorias o prohibiciones temporales establecidas por la autoridad competente.
 
 c) El ejercicio de la caza o de la pesca en terrenos acotados al efecto en ausencia del preceptivo Plan Técnico de aprovechamientos.
 
 Se considera infracción leve la utilización, así como la preparación, manipulación y venta para su uso no autorizados de los métodos y procedimientos de caza o pesca incluidos en el anexo III y no mencionados en apartados anteriores.
+
+> Se declara la nulidad del apartado 2.a), en el particular de que considera como infracción menos grave el ejercicio de la pesca durante las épocas de celo, reproducción o crianza, por Sentencia del TS de 22 de febrero de 2000. Ref. BOE-A-2000-5908.
