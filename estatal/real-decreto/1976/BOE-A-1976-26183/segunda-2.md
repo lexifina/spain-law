@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+Queda subsistente la Ley de veintiséis de septiembre de mil novecientos cuarenta y uno sobre concesión de premios anuales a familias numerosas. Las viviendas que a tal efecto se promuevan, podrán ser construidas directamente por el Instituto Nacional de la Vivienda o encargadas a cualquiera de las Entidades oficiales incluidas en la relación de promotores del articulo siete de esta Ley, pudiendo el Instituto Nacional de la Vivienda financiar totalmente tanto la construcción como la adquisición y urbanización de los terrenos necesarios a este fin. Su régimen jurídico será el de esta Ley, en cuanto a su construcción, uso, conservación, aprovechamiento. y sanciones.

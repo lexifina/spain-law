@@ -1,0 +1,7 @@
+## Artículo quince.
+
+Las viviendas de protección oficial gozarán durante un plazo de veinte años, a partir de la fecha de terminación de la construcción, de una bonificación del noventa por ciento de la base imponible de la Contribución Territorial Urbana, así como de todo recargo. arbitrio, derecho. o tasa establecidos por el Estado, las Diputaciones. Provinciales, Cabildos Insulares o Ayuntamientos, incluso los que gravan la ejecución misma de las obras, aun cuando éstos fueran exigibles con anterioridad a dicha fecha. Se exceptúan de la bonificación las tasas y contribuciones especiales que pidieran establecer para la realización de las obras y servicios de urbanización, así como las tasas convalidadas por los Decretos trescientos catorce, trescientos quince y trescientos dieciséis, de veinticinco de febrero de mil novecientos sesenta.
+
+El impuesto municipal sobre solares dejará de exigirse desde la fecha en que se inicien las obras de construcción de viviendas de protección oficial, sin perjuicio de que se exija nuevamente cuando, por causas Imputables al promotor, aquéllas experimenten dilaciones o interrupciones injustificadas a juicio del Instituto Nacional de la Vivienda.
+
+Al finalizar el plazo de bonificación de veinte años será repercutible sobre las rentas autorizadas el importe total de las cantidades que se empiecen a abonar por contribuciones y demás gravámenes. Igualmente lo serán los incrementos posteriores de unas y otros.
