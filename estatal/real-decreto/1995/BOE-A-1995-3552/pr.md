@@ -1,0 +1,11 @@
+La ganadería de animales de raza constituye una fuente de ingresos para una parte de la población agraria. La comercialización y el intercambio intracomunitario de estos animales y su material genético en la Comunidad está regulado por diferentes Directivas y sus correspondientes trasposiciones al ordenamiento-jurídico español, en especial en lo que se refiere a las especies bovina, porcina, ovina y caprina -y los équidos.
+
+No obstante, se considera que dichas disposiciones deben ser complementadas por una regulación de los principios relativos a las condiciones zootécnicas y genealógicas aplicables a la importación de estos animales, su esperma, óvulos y sus embriones procedentes de terceros países.
+
+Además, se considera conveniente que se aplique a las citadas especies y a los productos contemplados en el presente Real Decreto lo dispuesto en el Real Decreto 2022/1993, de 19 de diciembre, por el que se establece los controles veterinarios aplicables a los productos que se introduzcan en el territorio nacional procedentes de países no pertenecientes a la Comunidad Europea, y en el Real Decreto 1430/1992, de 27 de noviembre, por el que se establece los principios relativos a la organización de controles veterinarios y de identidad de los animales que se introduzcan en la Comunidad procedentes de países terceros.
+
+En consecuencia, una vez consultados los sectores afectados, se traspone al ordenamiento jurídico español la Directiva 94/28/CE, del Consejo, de 23 de junio, por la que se establece los principios relativos a las condiciones zootécnicas y genealógicas aplicables a la importación de animales, esperma, óvulos y embriones procedentes de terceros países, y por la que se modifica la Directiva 77/504/CEE referente a animales de la especie bovina de raza selecta para la reproducción. Ello se hace al amparo del artículo 149.1.10.a y 13.a de la Constitución, que atribuye al Estado la competencia exclusiva en materia de comercio exterior y de bases y coordinación de la planificación general de la actividad económica.
+
+En su virtud, a propuesta del Ministro de Agricultura. Pesca y Alimentación, "de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 20 de enero de 1995,
+
+DISPONGO:
