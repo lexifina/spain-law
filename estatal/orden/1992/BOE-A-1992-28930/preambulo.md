@@ -1,0 +1,5 @@
+La presente Orden, haciendo uso de las facultades otorgadas por el Real Decreto 1343/1992, de 6 de noviembre, por el que se desarrolla la Ley 13/1992, de 1 de junio, de recursos propios y supervisión en base consolidada de las Entidades financieras, desarrolla las reglas en materia de recursos propios exigibles a las Sociedades y Agencias de Valores y a sus grupos consolidables.
+
+En general, los requerimientos de recursos propios, las ponderaciones aplicables a los diversos activos, y los límites a la concentración de los riesgos establecidos por esta Orden se atienen a los mínimos previstos en la normativa comunitaria y en el propio Real Decreto que se desarrolla, evitándose exigencias adicionales que pudieran poner en injustificada desventaja a las Entidades españolas. No obstante, se ha considerado prudente fijar una limitación a las inmovilizaciones materiales de las Sociedades y Agencias de Valores, con el fin de asegurar mejor el suficiente grado de liquidez de la totalidad del activo de esas instituciones.
+
+En su virtud, previo informe del Comité Consultivo de la Comisión Nacional del Mercado de Valores, dispongo:
