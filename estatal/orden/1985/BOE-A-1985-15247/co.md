@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Orden de 1 de julio de 1985 por la que se aprueba el Reglamento de Inscripción de Variedades de Especies Forrajeras, Pratenses, Cespitosas y Leguminosas grano", según establece el art. único de la Orden de 7 de junio de 1999. Ref. BOE-A-1999-13596

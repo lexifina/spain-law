@@ -24,6 +24,12 @@ Vezas: Contenido en materia seca y en proteínas.
 
 Lentejas, guisantes y habas: Contenido en proteínas.
 
+d) Se considera al menos como caracteres fundamentales para apreciar la calidad de las variedades cespitosas; la finura de las hojas, densidad del césped, persistencia y, resistencia al frío, calor, según comportamiento invernal, y al pisoteo.
+
+> Se modifica por el art. único de la Orden de 7 de junio de 1999. Ref. BOE-A-1999-13596
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 166, de 13 de julio de 1999. Ref. BOE-A-1999-15441
+
 > Se modifica por el apartado 1 de la Orden de 19 de septiembre de 1988. Ref. BOE-A-1988-24033
 
 > Se modifica por el apartado 4 de la Orden de 4 de abril de 1988. Ref. BOE-A-1988-10600
