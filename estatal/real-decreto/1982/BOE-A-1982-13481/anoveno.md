@@ -1,0 +1,3 @@
+## Artículo noveno.
+
+De cada acuerdo de traspaso de servicios que adopte la Comisión Mixta se expedirá una certificación según lo dispuesto en el artículo tercero, con objeto de que el Ministerio de Administración Territorial la eleve al Gobierno para su aprobación por Real Decreto, en el que la certificación deberá figurar como anexo. Esta aprobación será comunicada al Presidente del Consejo de Gobierno de la Diputación Regional por conducto reglamentario, a fin de que se ordene su publicación en el «Boletín Oficial de Cantabria».
