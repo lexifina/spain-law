@@ -1,0 +1,15 @@
+Los agentes de negocios se han dirigido en diferentes ocasiones a los Poderes públicos solicitando que se dictara una disposición estableciendo la colegiación obligatoria de estos profesionales, del mismo modo que se hizo con los agentes comerciales y con tantos otros cuya actividad profesional se halla sometida a este sistema de organización.
+
+Uno de los motivos que se alegan para obtener dicha resolución es, precisamente, determinar los linderos de acción de esta actividad profesional. Deben ser considerados como tales agentes, exclusivamente los que realizan un servicio de mediación entre los particulares o cualesquiera otras personas y la Administración pública gestionando asuntos administrativos.
+
+Por otra parte, dentro del marco mismo de la profesión se mezclan elementos que la ejercen por mera incidencia, no suelen tributar al Estado y realizan una competencia ilícita, en perjuicio de los profesionales permanentes y asentados. Como estos agentes de negocios esporádicos suelen abundar y es difícil fiscalizar su situación tributaria, el Tesoro experimenta con ello un indudable perjuicio de carácter económico, que puede ser evitado con la colegiación forzosa.
+
+Las razones que pueden alegarse en favor de la colegiación son de dos clases. En primer término la exigen conveniencias de carácter público, por cuanto asegura los ingresos tributarios que pertenecen al Tesoro y ofrece a los particulares en general una mayor garantía, por la obligación impuesta a los agentes colegiados de constituir fianza. En segundo lugar, la profesión gana con la colegiación en prestigio moral y social.
+
+A todos estos fines atiende la presente disposición. En ella se procura encuadrar un verdadero servicio público, de una eficiencia tal vez infrecuente en organizaciones similares ya existentes. Entre otras ventajas para el público en general es digno de ser destacado el beneficio de pobreza de que disfrutarán aquellas personas que, careciendo de bienes de fortuna, necesiten gestionar asuntos en las oficinas públicas. La organización que se se da a este servicio permite esperar que no ha de ser letra muerta en la práctica, sino una realidad altamente beneficiosa.
+
+Pero aun siendo de la mayor conveniencia la colegiación obligatoria, debe ser respetada la situación jurídica de los que actualmente ejercen la profesión libremente, no forzándoles a pertenecer a los colegios. Por tanto, esta obligación se establece para los agentes de negocios —cuyo nombre se cambia por el de gestores administrativos— que inicien su vida profesional a partir de la publicación del presente Decreto. Mas existen determinadas obligaciones de carácter público, que deben ser impuestas a todos los agentes, colegiados o no colegiados, como por ejemplo el hallarse matriculados, gestionar asuntos de pobres, etc., y como la vigilancia de su cumplimiento corresponde a los colegios, es natural que, aun los no colegiados, estén, a estos efectos, bajo la jurisdicción de dichas Corporaciones oficiales.
+
+Por todo lo expuesto, de acuerdo con el Consejo de Ministros y a propuesta del de Industria y Comercio,
+
+Vengo en decretar:
