@@ -1,0 +1,7 @@
+## Disposición transitoria octava. Normas sobre contabilidad patrimonial y sobre presupuestos de las instalaciones y servicios mancomunados.
+
+1. Sin perjuicio de lo establecido en el artículo 22 de este Reglamento y en tanto por el órgano competente del Ministerio de Trabajo y Seguridad Social no se dicten las normas al efecto, la contabilidad patrimonial de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social se continuará rigiendo por las normas vigentes a la entrada en vigor del Real Decreto aprobatorio del presente Reglamento.
+
+2. Las referencias que se hacen en el presente Reglamento a las cuentas de resultados de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, se entenderán hechas a la cuenta de gestión en tanto la contabilidad de estas entidades se continúe rigiendo por el Plan de Contabilidad aprobado por Real Decreto 3261/1976, de 31 de diciembre.
+
+3. Lo dispuesto en el tercer párrafo del apartado 2 del artículo 12 de este Reglamento, respecto de los presupuestos de las instalaciones y servicios mancomunados de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social no será de aplicación al ejercicio 1996, para el cual no contarán con presupuesto independiente de los de sus Mutuas partícipes, continuando rigiéndose a estos efectos por lo previsto en sus respectivos estatutos.
