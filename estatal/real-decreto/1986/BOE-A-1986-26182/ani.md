@@ -1,48 +1,52 @@
 ## ANEXO I
 
-1. Vehículos automóviles y sus partes y piezas.
+1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_009.png)
 
-2. Tractores agrícolas.
+2. Tractores agrícolas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_013.png)
 
-3. Vehículos de 2 o 3 ruedas y cuadriciclos.
+3. Vehículos de 2 ó 3 ruedas y cuadriciclos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_015.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_016.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_015.png)
 
-4. Varios.
+4. Varios
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_017.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_016.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_017.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_018.png)
+
+> Se modifica por la Orden ITC/3158/2004, de 23 de septiembre. Ref. BOE-A-2004-17095.
 
 > Se modifica por la Orden CTE/0315/2004, de 10 de febrero. Ref. BOE-A-2004-2883.
 
