@@ -1,0 +1,13 @@
+## Art. 9.
+
+1. Previos los oportunos estudios podrán establecerse programas de ayuda y conciertos dentro de las consignaciones presupuestarias del Instituto Nacional de Semillas y Plantas de Vivero para las Empresas y agrupaciones de Empresas agrarias dedicadas a la producción de semillas y plantas de vivero, de acuerdo con las directrices del Gobierno, con los programas productivos del Ministerio de Agricultura y, en particular, con lo dispuesto en los Planes de Desarrollo Económico y Social.
+
+2. Para incrementar el empleo por los agricultores de semillas y plantas de vivero, de producción controlada por el Instituto Nacional de Semillas y Plantas de Vivero, el Ministerio de Agricultura podrá auxiliar a la producción y adquisición de las referidas semillas y plantas de vivero con cargo a los créditos correspondientes a estas finalidades de los programas de Inversiones Públicas de los Planes de Desarrollo, siguiendo las normas de política productiva del Ministerio de Agricultura.
+
+3. Las Empresas dedicadas a la producción de semillas o plantas de vivero, así como sus agrupaciones, tendrán la consideración de Entidades agrícolas. Este carácter será aplicable a efectos de concesión de préstamos por el Banco de Crédito Agrícola cuando la finalidad de los mismos sea previa y favorablemente informada por el Instituto Nacional de Semillas y Plantas de Vivero.
+
+4. Serán de aplicación los beneficios de los sectores industriales agrarios de interés preferente, de acuerdo con el Decreto 2392/1972 y Decreto 2856/1964, siempre que se cumplan las mencionadas disposiciones para las instalaciones fijas de clasificación, selección y envasado, pudiendo acogerse también, si procede, a los beneficios correspondientes en determinadas zonas de preferente localización industrial agraria.
+
+Todas las instalaciones antes señaladas, una vez autorizadas por el Instituto Nacional de Semillas y Plantas de Vivero, se inscribirán automáticamente, a efectos administrativos, en el Registro de la Dirección General de Industrias y Mercados en Origen de Productos Agrarios del Ministerio de Agricultura.
+
+5. El Ministerio de Agricultura estimulará las tareas de investigación que emprendan los productores de semillas y plantas de vivero, con el fin de mejorar sus técnicas en producción y la obtención de nuevas variedades vegetales, colaborando con la iniciativa privada, tanto en la constitución, creación de Convenios de Investigación, de Asociaciones de Investigación, como en las actividades relativas a planes concertados de investigación o en cualquier otro tipo de iniciativas investigadoras promovidas por el Estado y coordinadas por o con el Ministerio de Agricultura.
