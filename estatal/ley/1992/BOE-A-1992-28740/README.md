@@ -194,6 +194,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 140 ter](a140ter.md)
 - [Artículo 140 cuarter](a140cuarter.md)
 - [Artículo 140 quinque](a140quinque.md)
+- [Artículo 140 sexies](a140sexies.md)
 - [Capítulo VI](cvi.md)
 - [Artículo 141](a141.md)
 - [Artículo 142](a142.md)
