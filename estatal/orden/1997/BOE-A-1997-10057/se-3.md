@@ -1,0 +1,3 @@
+## Séptimo. Formación.
+
+Las cooperativas, asociaciones de productores, organizaciones profesionales agrarias y demás entidades y organizaciones relacionadas directamente con el sector lácteo podrán beneficiarse de ayudas para organizar e impartir cursos de formación a los ganaderos, cuya finalidad sea la producción de leche de calidad sanitaria comprobada, de acuerdo con lo establecido en la Orden de 31 de marzo de 1997, por la que se establece un régimen de subvenciones para el año 1997, con cargo a los presupuestos del Ministerio de Agricultura, Pesca y Alimentación para programas plurirregionales de formación de los profesionales del sector agroalimentario y del mundo rural.
