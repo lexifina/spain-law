@@ -1,0 +1,7 @@
+## Número 2
+
+Por el examen y consiguiente calificación cuando se extienda nota de denegación o suspensión al pie del título, se percibira el 10 por 100 del importe que, en su caso, correspondería por la extensión del asiento solicitado, sin que los derechos por este concepto puedan exceder de 2.000 pesetas. Si no se extendiera nota al pie del título presentado, a solicitud del presentante o interesado, no se devengará cantidad alguna, salvo que el resultado de la calificación se autorice por el Registrador en documento independiente, cuya copia se archivará en el Registro.
+
+Si entablado recurso contra la calificación se declarare inscribible el documento, los derechos percibidos por este número del Arancel se deducirán de los que correspondan por el asiento practicado.
+
+Cuando se extienda nota al pie del título, acreditativa de que el asiento ha sido previamente extendido en virtud de otro documento, se percibirán 200 pesetas por cada título.
