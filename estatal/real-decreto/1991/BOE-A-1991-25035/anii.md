@@ -1,22 +1,36 @@
 ## ANEXO II
 
-1. Marca «CE» e inscripciones
+1. Marcado «CE» e inscripciones
 
-El recipiente o la placa descriptiva deberá llevar la marca «CE» prevista en el artículo 14 y, al menos, las siguientes inscripciones:
+1a) Marcado CE de conformidad.
 
-La presión máxima de servicio, PS en bar.
+El marcado “CE” de conformidad estará compuesto de las iniciales “CE” diseñadas de la siguiente manera:
 
-La temperatura máxima de servicio, Tmáx en C.
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/20/01855_001.png)
 
-La temperatura mínima de servicio, Tmín en C.
+En caso de reducirse o aumentarse el tamaño del marcado “CE”, deberán conservarse las proporciones de este logotipo.
 
-La capacidad del recipiente, V en 1.
+Los diferentes elementos del marcado “CE” deberán tener una dimensión vertical apreciablemente igual, que no será inferior a 5 milímetros.
+
+1b) Inscripciones.
+
+El recipiente o la placa descriptiva deberán llevar por lo menos las siguientes inscripciones:
+
+La presión máxima de servicio (PS en bar).
+
+La temperatura máxima de servicio (Tmáx en ºC).
+
+La temperatura mínima de servicio (Tmín en ºC).
+
+La capacidad del recipiente (V en 1).
 
 El nombre o la marca del fabricante.
 
 El tipo y el número de serie o del lote del recipiente.
 
-Cuando se emplee una placa descriptiva deberá estar concebida de tal manera que no pueda volver a utilizarse y que disponga de un espacio libre que permita incluir otros datos.
+Las dos últimas cifras del año de colocación del marcado “CE”.
+
+Cuando se emplee una placa descriptiva, deberá estar concebida de tal manera que no pueda volver a utilizarse y que disponga de un espacio libre que permita incluir otros datos.
 
 2. Instrucciones
 
@@ -123,3 +137,7 @@ Tmáx = temperatura máxima de servicio, C.
 Tmín = temperatura mínima de servicio, C.
 
 V = capacidad del recipiente, 1.
+
+> Se modifica el apartado 1 por el art. único.9 del Real Decreto 2486/1994, de 23 de diciembre. Ref. BOE-A-1995-1855.
+
+> Téngase en cuenta para su aplicación la disposición transitoria 1.
