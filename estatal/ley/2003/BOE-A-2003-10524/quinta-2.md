@@ -1,0 +1,3 @@
+## Disposición transitoria quinta.
+
+Los magistrados de órganos unipersonales y los fiscales de segunda categoría distintos de los Fiscales Jefes y Tenientes Fiscales de Audiencias Provinciales y de los fiscales coordinadores, que conforme al Real Decreto 391/1989, de 21 de abril, estuviesen destinados en localidades correspondientes al grupo cinco y queden integrados en el grupo cuarto de población previsto en los anexos II.1 y V.1 de esta ley, percibirán un complemento personal y transitorio en tanto no obtengan nuevo destino. La cuantía de dicho complemento se establece en los anexos II.4 y V.5.
