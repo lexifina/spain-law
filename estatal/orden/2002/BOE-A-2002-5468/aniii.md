@@ -2,7 +2,7 @@
 
 ## Descripción de la tarjeta modelo «E»
 
-1. Color: La tarjeta será de color azul (norma color pantone 829C).
+1. Color: La tarjeta será de color azul (norma color pantone 298C).
 
 2. Dimensiones: 85 x 54 milímetros a márgenes perdidos.
 
@@ -43,3 +43,5 @@ h) Una reserva en blanco sobre la que se consignará la leyenda EL TITULAR, para
 ## Modelo de tarjeta «E»
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/68/05468_003.png)
+
+> Se modifica el punto 1 por el apartado 4 de la Orden DEF/728/2003, de 25 de marzo. Ref. BOE-A-2003-6587.

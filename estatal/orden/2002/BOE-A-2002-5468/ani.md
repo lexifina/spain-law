@@ -22,9 +22,9 @@ La tarjeta modelo «D», con fondo color verde (norma color pantone 3272).
 
 3.3 Dispondrá asimismo de cuatro espacios reservados:
 
-a) Para el personal incluido en los puntos 1 y 2 del apartado tercero de esta Orden ministerial que se encuentre en activo, segunda reserva, reserva con destino, el primer espacio reservado estará formado por un código numérico, de doce dígitos, integrado por tres grupos diferenciados:
+a) Para el personal incluido en los puntos 1 y 2 del apartado tercero de esta Orden Ministerial, el primer espacio reservado estará formado por un código numérico, de doce dígitos, integrado por tres grupos diferenciados:
 
-Primer grupo: Tres dígitos que identificarán respectivamente: El Ejército al que pertenece el titular de la TIM o el Órgano Central para el personal de Cuerpos Comunes de las Fuerzas Armadas, la situación administrativa en la que se encuentra el interesado y la categoría en la que se encuadra el empleo que ostenta el propietario de la TIM.
+Primer grupo: Tres dígitos que identificarán respectivamente: El Ejército al que pertenece el titular de la TIM, el Cuerpo de la Guardia Civil o el Órgano Central para el personal de Cuerpos Comunes de las Fuerzas Armadas, la situación administrativa en la que se encuentra el interesado y la categoría en la que se encuadra el empleo que ostenta el propietario de la TIM.
 
 Segundo grupo: Ocho dígitos reservados para el número del documento nacional de identidad.
 
@@ -62,7 +62,7 @@ Debajo de la fotografía figurará la expresión CADUCA, con un espacio en blanc
 
 Sobre un fondo con la impresión del emblema del Ejército correspondiente, Cuerpo de la Guardia Civil o Cuerpo Común de que se trate, en el mismo color que la trama del anverso, llevará:
 
-a) Horizontalmente en su parte superior una banda magnética de alta coercitividad y tres pistas de grabación según normas ISO 2894 y 3554. La pista 2 quedará reservada para la grabación de los datos comunes según corresponda.
+a) Horizontalmente en su parte superior una banda magnética de alta coercitividad y tres pistas de grabación según norma ISO/IEC 7811-6. La pista 2 quedará reservada para la grabación de los datos comunes según corresponda.
 
 b) Inmediatamente debajo un extracto de las disposiciones por las que se rige su utilización.
 
@@ -85,3 +85,5 @@ Notas:
 (3). Espacio reservado para la fotografía.
 
 (4). Código numérico.
+
+> Se modifican los puntos 3.3.a) y 4.a) por el apartado 3 de la Orden DEF/728/2003, de 25 de marzo. Ref. BOE-A-2003-6587.
