@@ -12,7 +12,7 @@ c) Establecer y exigir tributos de acuerdo con la Constitución, el presente Est
 
 d) Aprobar los convenios que acuerde el Consejo de Gobierno con otras Comunidades Autónomas en los términos establecidos por el apartado dos del artículo ciento cuarenta y cinco de la Constitución.
 
-e) Designar para cada legislatura de las Cortes Generales, atendiendo a criterios de proporcionalidad, a los Senadores representantes de la Comunidad Autónoma de acuerdo con la previsto en el artículo sesenta y nueve, apartado cinco, de la Constitución.
+e) Designar para cada legislatura de las Cortes de Castilla-La Mancha, atendiendo a criterios de proporcionalidad, a los Senadores representantes de la Comunidad Autónoma, de acuerdo con lo previsto en el artículo 69, apartado 5, de la Constitución.
 
 f) Elegir, de entre sus miembros, al Presidente de la Junta de Comunidades que lo será de su Consejo de Gobierno, en la forma prevista en el presente Estatuto.
 
@@ -25,3 +25,5 @@ i) Interponer recursos de inconstitucionalidad y personarse ante el Tribunal Con
 j) Examinar y aprobar las cuentas generales de la Junta de Comunidades sin perjuicio de las funciones que correspondan al Tribunal de Cuentas.
 
 Tres. Las Cortes de Castilla-La Mancha son inviolables.
+
+> Se modifica el apartado 2.e) por el art. único.3 de la Ley Orgánica 3/1997, de 3 de julio. Ref. BOE-A-1997-14848
