@@ -1,0 +1,5 @@
+## Cuarto. Condiciones generales para la presentación de escritos, solicitudes y comunicaciones.
+
+1. Los trámites y criterios específicos de utilización de técnicas telemáticas correspondientes a cada uno de los procedimientos administrativos se incluyen en el Anexo III.
+
+2. El interesado, de acuerdo con lo dispuesto en el apartado tercero del artículo 59 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, podrá consentir o señalar como medio de notificación preferente la notificación telemática de acuerdo, con lo establecido en el Real Decreto 209/2003, de 21 de febrero y en la Orden Ministerial PRE/1551/2003, de 10 de junio por la que desarrolla la Disposición final primera del Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
