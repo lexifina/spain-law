@@ -4,8 +4,10 @@ Seis. Con objeto de llevar a cabo los ensayos de identificación y determinacion
 
 Siete. Las características de las semillas o material vegetal a que se refiere el número 6 serán, en lo relativo a germinación, pureza y humedad, como mínimo las exigidas a la semilla certificada, no debiendo de haber sufrido tratamiento alguno.
 
-Ocho. Será necesario remitir las cantidades citadas anteriormente todos los años mientras se efectúen los ensayos. En caso de interrupción del envío de material sin justificación alguna por parte del solicitante o su representante, se archivará el expediente de solicitud de inscripción corespondiente.
+Ocho: Será preciso remitir las cantidades de material que se citan en el anexo C en la campaña en que se haya efectuado la solicitud de inscripción; en caso de no realizarse la entrega del material sin justificación alguna, se procederá al archivo de la solicitud de inscripción correspondiente.
 
 Nueve. Las fechas límite de entrega de material para cada campaña y especie serán las que figuran en el anexo D, de este Reglamento.
 
 En caso de que la entrega de material se lleve a cabo en fecha posterior a la mencionada, la variedad quedará excluida de los ensayos correspondientes a las siembras que se efectúen inmeditamente después, procediéndose a la inutilización del mismo, caso de que en los dos meses siguientes a la fecha límite de entrega no hubiera sido retirado.
+
+> Se modifica el apartado 8 por el art. único de la Orden de 9 de julio de 1990. Ref. BOE-A-1990-17808.

@@ -1,27 +1,25 @@
 ## ANEXO D
 
-## Fechas límite entrega material
+## Fechas límite de entrega de material
 
-| 1 de enero: |
-| --- |
-| Tomate. |
-| 1 de febrero: |
-| Apio. Berenjena. Calabaza. Calabacín. Espárrago. Pimiento. Puerro. |
-| 1 de marzo: |
-| Chirivía. Judía. Judía escarlata. Melón. Pepino. Remolacha de mesa. Salsifi blanco. Salsifinegro o escorzonera. Sandía. |
-| 1 de abril: |
-| Cardo. Hinojo. |
-| 1 de mayo: |
-| Bróculi. Col de Bruselas. Col de Milán. Col forrajera o barza. Col repollo chino. Coliflor. Colinabo. Colirrábano. Endivia. Lombarda. Repollo. |
-| 1 de junio: |
-| Acelga. Achicoria. Alcachofa. Escarola. Zanahoria |
-| 1 de julio: |
-| Borraja. Cebolla. Nabo. Perejil. Rábano y rabanito. Perifollo. |
-| 1 de agosto: |
-| Espinaca. |
-| 1 de septiembre: |
-| Guisante. Habas. |
-| 1 de diciembre: |
-| Lechuga. |
+1 de febrero: Espárrago.
+
+1 de marzo: Judía y judía escarlata.
+
+1 de abril: Acelga, achicoria, apio, borraja, bróculi, cardo. col Bruselas, col Milán, col forrajera o berza, col repollo chino, coliflor, colinabo, colirrábano, endivia, escarola, hinojo, lombarda, rábano y rabanito, remolacha de mesa, repollo, salsifí y zanahoria.
+
+1 de mayo: Nabo, perejil y espinaca.
+
+1 de jumo: Alcachofa.
+
+1 de julio: Cebolla temprana y perifollo.
+
+1 de septiembre: Guisante y habas.
+
+1 de diciembre: Berenjena y calabaza, calabacín, chirivía, lechuga, melón, pepino, pimiento, puerro, sandía y tomate.
+
+15 de diciembre: Cebolla tardía.
+
+> Se modifica por el art. único de la Orden de 9 de julio de 1990. Ref. BOE-A-1990-17808.
 
 > Se modifica por el apartado 1 de la Orden de 19 de septiembre de 1988. Ref. BOE-A-1988-24168.
