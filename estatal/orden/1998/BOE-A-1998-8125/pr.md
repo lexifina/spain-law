@@ -1,0 +1,17 @@
+La pesca especializada con arte de palangre de fondo en aguas de otros Estados miembros de la Unión Europea realizada por buques españoles está organizada en tres tipos de pesquerías, clasificadas según las especies objetivo de cada una de las mismas: buques palangreros menores de 100 toneladas de registro bruto (TRB) que pescan en las áreas VIII, a,b,d, del Consejo Internacional para la Explotación del Mar (CIEM) dirigidos a la captura de merluza; buques palangreros menores de 100 TRB que operan en las áreas CIEM VIII, a,b,d, dirigidos a la captura de especies no sometidas a TAC y cuotas, y buques palangreros que operan en las áreas CIEM VI, VII, VIII, a,b,d, dirigidos a las capturas de especies profundas.
+
+La actividad pesquera especializada de la flota española dirigida a las especies demersales en aguas de otros Estados miembros de la Unión Europea se regulaba hasta 1995 en el artículo 160 del Tratado de Adhesión de España a la CEE, que establecía un sistema de listas de base y listas periódicas para la pesquería de «palangreros menores de 100 TRB».
+
+Para la aplicación de estas disposiciones, se aprobó la Orden ministerial de 12 de junio de 1992, por la que se fijan las normas generales que han de regir en la utilización de las licencias de pesca para palangreros de menos de 100. En esta norma se distribuían entre las Federaciones de Cofradías con buques tradicionales en la pesquería las licencias disponibles para España.
+
+A partir del 1 de enero de 1996 se produjo la plena integración de España en la Política Pesquera Común, por lo que las normas que rigieron el período transitorio fueron derogadas por el Reglamento (CE) 1275/94, del Consejo, de 30 de mayo de 1994, relativo a las adaptaciones del régimen previsto en los capítulos dedicados a la pesca del Acta de Adhesión de España y Portugal. En su lugar, se estableció con carácter general un régimen de gestión del esfuerzo pesquero en las aguas occidentales de la Comunidad.
+
+Las pesquerías especializadas de especies demersales y especies profundas en aguas comunitarias se encuentran reguladas en el Reglamento (CE) 685/95 del Consejo, de 27 de marzo, relativo a la gestión de los esfuerzos pesqueros referentes a determinadas zonas y recursos pesqueros comunitarios, y en el Reglamento (CE) 2027/95, del Consejo, de 15 de junio, por el que se establece un régimen de gestión del esfuerzo pesquero relativo a determinadas zonas y recursos comunitarios, que establecen los niveles máximos de esfuerzo que puede desarrollar la flota española en cada una de las zonas.
+
+Dado el cambio de regulación aplicable y la necesidad de respetar las limitaciones de esfuerzo existentes, es necesaria una normativa que permita establecer los buques que pueden participar en cada una de las pesquerías, los períodos de autorización, las artes que pueden utilizar y las condiciones de desarrollo de la actividad. Además, dadas las especiales características de las pesquerías realizadas por los buques palangreros de fondo, y su especialización, se considera oportuno crear un Censo de buques palangreros menores de 100 TRB que pueden pescar en el área CIEM VIII, a,b,d, y que para ello deben abandonar el Censo de Palangre de Fondo de Caladero Nacional, zona Cantábrico-Noroeste en que están actualmente incluidos.
+
+La presente disposición se dicta sobre la base de la competencia exclusiva estatal en materia de pesca marítima establecida en el artículo 149.1.19 de la Constitución española.
+
+En su elaboración ha sido consultado el sector afectado.
+
+En su virtud, dispongo:
