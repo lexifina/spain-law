@@ -19,3 +19,5 @@ Estas dotaciones resultan, una vez deducidas las pérdidas previsibles en el dis
 Las dotaciones se computarán de acuerdo con lo establecido en el artículo octavo de la presente Ley y garantizando en el Tajo, antes de su confluencia con el Jarama (en Aranjuez), un caudal no inferior a seis metros cúbicos por segundo, siendo reguladas las operaciones de desembalse por la Comisión de DesembaIse de la Confederación Hidrográfica del Tajo.
 
 Si se producen excedentes, como consecuencia de una evaporación menor de la calculada, mejor tecnología de regadíos u otras causas se distribuirán según los siguientes porcentajes: cuarenta por ciento para la provincia de Murcia, treinta por ciento para la de Alicante y treinta por ciento para la de Almería.
+
+> Véase el art. 1 del Real Decreto-ley 6/1995, de 14 de julio. Ref. BOE-A-1995-17683., de modificación excepcional y transitoria del caudal del río Tajo, que finalizará el 30 de septiembre de 1996.
