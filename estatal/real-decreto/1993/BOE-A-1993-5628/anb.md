@@ -1,13 +1,7 @@
 ## ANEXO B
 
-Productos no sujetos a armonización comunitaria, pero cuyos intercambios estarían sujetos a los controles previstos por el presente Real Decreto.
+## Productos no sujetos a armonización comunitaria pero cuyos intercambios se someterán a los controles establecidos en el presente Real Decreto
 
-Productos de origen animal objeto del anexo II del Tratado y en particular:
+Otros productos de origen animal que no figuren ni en el anexo A del presente Real Decreto, ni en el anexo del Real Decreto 1316/1992. Estos productos se definirán de acuerdo con el procedimiento comunitario previsto.
 
-a) Miel.
-
-b) Caracoles destinados al consumo humano.
-
-c) Ancas de rana destinadas al consumo humano.
-
-Se entenderán incluidos los demás productos de origen animal que no figuren en el anexo A de este Real Decreto, ni en el anexo A o en la parte B del anexo B del Real Decreto 1316/1992, de 30 de octubre, por el que se establecen los controles veterinarios y zootécnicos aplicables en los intercambios intracomunitarios de determinados animales vivos y productos con vistas a la realización del mercado interior.
+> Se modifica por la disposición adicional 3 y anexo III del Real Decreto 2551/1994, de 29 de diciembre. Ref. BOE-A-1995-3553.

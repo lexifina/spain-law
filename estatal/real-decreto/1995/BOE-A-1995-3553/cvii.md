@@ -1,0 +1,21 @@
+## CAPÍTULO VII
+
+## Sangre y productos sanguíneos de origen animal (con exclusión de los équidos)
+
+1. Los intercambios de sangre y de productos sanguíneos se efectuarán de conformidad con la disposición general contenida en el artículo 4 del presente Real Decreto.
+
+2. Las importaciones de sangre y de productos sanguíneos destinados a la industria farmacéutica se supeditarán a la presentación del certificado sanitario previsto en el párrafo b) del apartado 2 del artículo 10, que acredite el cumplimiento de las disposiciones relativas a la identidad de las materias implicadas, su embalaje, las condiciones de transporte, almacenamiento, manipulación y transformación, así como de las relativas a la eliminación del embalaje, del envase y de los residuos de la elaboración a fin de eliminar todo peligro para la salud pública y para la sanidad animal, sin perjuicio de los requisitos previstos por el Real Decreto 110/1990, que siguen siendo aplicables a las importaciones destinadas al consumo humano.
+
+3. Las importaciones de productos sanguíneos de origen animal de especies distintas de los équidos y destinados a otros fines se supeditarán a la presentación del certificado sanitario previsto en el párrafo c) del apartado 2 del artículo 10, firmado por el veterinario oficial, que acredite, en caso de que por la Comisión Europea se considere que el país de origen representa un riesgo sanitario por lo que se refiere a la fiebre aftosa y/o a la fiebre catarral:
+
+a) Ya sea que los productos: proceden de un matadero situado en un área de 10 kilómetros de radio libre de las enfermedades de que se trata, y a las que la especie de la que procede el producto es receptiva, y proceden de un animal que se encontraba en el país de origen desde hacía tres meses, y fue sometido a inspecciones antes del sacrificio y «post mortem» y declarado exento de las enfermedades de que se trata, o cuya madre responde a estas condiciones.
+
+Si los lotes responden a los requisitos arriba enunciados: salvo en el caso previsto en el apartado 5, cada lote de producto sanguíneo deberá pasar directamente del puerto de entrada a un laboratorio para su tratamiento, y deberán destruirse inmediatamente los residuos resultantes de dicho tratamiento; deberá recogerse una muestra de cada lote de producto sanguíneo, y deberá enviarse a un laboratorio autorizado de acuerdo con el procedimiento comunitario previsto para someterla a las pruebas de detección del virus de la fiebre aftosa y de la fiebre catarral; el lote de productos no podrá salir del laboratorio mientras la prueba examinada no haya sido declarada exenta del virus de la fiebre aftosa y/o de la fiebre catarral; los gastos de control efectuados en aplicación del Real Decreto 2022/1993 correrán a cargo del importador.
+
+b) Ya sea que los productos han sido sometidos a uno de los siguientes tratamientos: calentamiento a una temperatura de al menos 65 ºC durante tres horas como mínimo, o irradiación a 2,5 mega rads, o sometimiento a una modificación de pH a pH5 durante tres horas.
+
+c) Ya sea, en el caso de productos sanguíneos destinados a ser utilizados para el diagnóstico in vitro o como reactivos, que hayan sido expedidos en recipientes herméticamente cerrados y estancos: los recipientes o sus embalajes externos deberán llevar de manera claramente legible la indicación: «Sólo para ser utilizado para el diagnóstico in vitro o como reactivo», y el producto sanguíneo podrá utilizarse únicamente para el diagnóstico in vitro o como reactivo y todos los documentos referentes al producto deberán especificar que ni los productos ni sus residuos podrán entrar en contacto con rumiantes o cerdos.
+
+4. La autoridad competente autorizará la importación de productos sanguíneos procedentes de países terceros considerados indemnes de enfermedades transmisibles graves, siempre que dichos productos vayan acompañados de un certificado veterinario que acredite que dichos productos proceden de un animal originario de un Estado miembro o de uno de los citados países terceros.
+
+5. Los productos sanguíneos envasados en contenedores herméticamente cerrados y estancos deberán almacenarse en establecimientos bajo la supervisión permanente de un veterinario oficial y dichos productos deberán mantenerse separados de cualquier otro producto de origen animal que esté en el mismo establecimiento.
