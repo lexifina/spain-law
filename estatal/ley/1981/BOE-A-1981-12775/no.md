@@ -1,1 +1,3 @@
+Téngase en cuenta, sobre el control de la circulación aérea, lo dispuesto en el art. 82 de la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990, por el que se crea el Ente de Derecho Público «Aeropuertos Españoles y Navegación Aérea», Ref. BOE-A-1990-15347#a82, y el Real Decreto 1508/1991, de 11 de octubre, por el que se regula el ejercicio del derecho de opción de los funcionarios destinados en las unidades afectadas por la creación del Ente público Aeropuertos Españoles y Navegación Aérea, Ref. BOE-A-1991-25505.
+
 > Incluye la corrección de errores, con rectificación del número oficial de la Ley, publicada en BOE núm. 135, de 6 de junio de 1981. Ref. BOE-A-1981-12839
