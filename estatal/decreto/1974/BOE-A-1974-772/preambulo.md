@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 131, de 1 de julio de 1974. Ref. BOE-A-1974-40929.
+El Reglamento General de Cámaras se mantendrá en vigor, salvo en lo que se refiere al recurso cameral permanente, en cuanto no se oponga a la Ley 3/1993, de 22 de marzo, y hasta tanto se dicten las normas reglamentarias sustitutorias, según establece la disposición derogatoria única.1 de la citada Ley. Ref. BOE-A-1993-7730#ddunica.

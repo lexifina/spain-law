@@ -1,0 +1,3 @@
+## Disposición transitoria sexta.
+
+Desde la entrada en vigor de la Ley, los rendimientos de la exacción cameral sobre las cuotas del Impuesto de Sociedades afectados a las finalidades que se señalan en el artículo 16 de la misma serán los que resulten de aplicar los porcentajes previstos en dicho artículo a las alícuotas fijadas en el apartado 1, c) del artículo 12. En consecuencia, durante el período transitorio, no tendrán afectación específica los rendimientos de la referida exacción cameral que excedan de los que resultarían de la aplicación de las alícuotas fijadas en el precepto mencionado en el párrafo anterior.
