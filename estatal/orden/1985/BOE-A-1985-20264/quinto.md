@@ -1,0 +1,3 @@
+## Quinto.
+
+A los efectos previstos en el número anterior, se entiende por gastos corrientes, de conformidad con lo establecido en el apartado h, del artículo 101 del Reglamento de Ordenación del Seguro Privado, los gastos originados para atender las obligaciones ordinarias de la Entidad y muy especialmente los relativos al pago de siniestros, de impuestos, de retribuciones ordinarias del personal y del cumplimiento de sentencias judiciales. A estos efectos, debe entenderse que los gastos referidos al cumplimiento de sentencias judiciales, son los originados por el cumplimiento y aplicación de dichas sentencias y no por las indemnizaciones derivadas de las acciones individuales que tengan su origen en los supuestos señalados en el artículo 105 del citado Reglamento.
