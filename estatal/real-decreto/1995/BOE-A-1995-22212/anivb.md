@@ -13,6 +13,9 @@
 |  | Procesos de pastelería y panadería. | Restauración. |
 |  | Procesos de cocina. | Restauración. |
 |  | Técnicas básicas de servicio y preparación de alimentos y bebidas a la vista del cliente. | Cocina. |
+|  | Elaboración y productos culinarios. | Cocina. |
+|  | Productos de pastelería y repostería. | Pastelería y panadería. |
+|  | Panificación y pastelería salada. | Pastelería y panadería. |
 | Equipos electrónicos. | Instalaciones básicas. | Equipos electrónicos de consumo. |
 |  | Sistemas electrónicos de información. | Equipos electrónicos de consumo. |
 |  | Equipos microinformáticos y terminales de telecomunicación. | Equipos electrónicos de consumo. |
@@ -27,6 +30,8 @@
 |  | Informática técnica. | Instalaciones electrotécnicas. |
 |  | Instalaciones singulares en viviendas y edificios. | Equipos e instalaciones electrotécnicas. |
 |  | Sistemas electrónicos de potencia. | Sistemas de regulación control automáticos. |
+|  | Montaje y mantenimiento eléctrico/electrónico. | Mantenimiento ferroviario. |
+|  | Montaje y mantenimiento de los sistemas eléctrico y electrónico. | Mantenimiento de equipo industrial. |
 | Estética. | Fabricación de prótesis para caracterización. | Caracterización. |
 |  | Maquillaje de caracterización. | Caracterización. |
 |  | Maquillaje con efectos especiales. | Caracterización. |
@@ -54,6 +59,9 @@
 |  | Fabricación automatizada en industrias de la madera y el mueble. | Producción de madera y mueble. |
 |  | Gestión de almacén en industrias de la madera y el mueble. | Producción de madera y mueble. |
 |  | Fabricación e instalación de carpintería y mueble. | Producción de madera y mueble. |
+|  | Aplicación de acabados en carpintería y mueble. | Fabricación industrial de carpintería y mueble. |
+|  | Fabricación industrial de derivados de la madera. | Transformación de madera y corcho. |
+|  | Acabado industrial en carpintería y mueble. | Producción de madera y mueble. |
 | Instalación y mantenimiento de equipos térmicos y de fluidos. | Instalaciones de fluidos. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
 | Técnicas de montaje de instalaciones. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
 |  | Ejecución de procesos de montaje de instalaciones. | Mantenimiento y montaje de instalaciones de edificio y proceso. |
@@ -118,6 +126,9 @@
 |  | Técnicas electromecánicas básicas para el mantenimiento. | Mantenimiento aeromecánico. |
 |  | Técnicas electromecánicas básicas para el mantenimiento. | Mantenimiento de aviónica. |
 |  | Motor diésel. | Mantenimiento ferroviario. |
+|  | Motor de émbolo, hélices y sus sistemas. | Mantenimiento aeromecánico. |
+|  | Motor de reacción, sus sistemas y la unidad de potencia auxiliar (APU). | Mantenimiento aeromecánico. |
+|  | Planta de potencia y sistemas mecánicos de aeronaves. | Mantenimiento de aviónica. |
 | Máquinas, servicios y producción. | Procedimientos de corte y soldadura subacuáticos. | Buceo de media profundidad. |
 | Reparaciones a flote y reflotamientos. | Buceo de media profundidad. |
 |  | Operaciones auxiliares de mantenimiento industrial. | Operación, control y mantenimiento de máquinas e instalaciones del buque. |
@@ -133,6 +144,8 @@
 |  | Instalaciones y procesos de extracción, preparación y conservación de la pesca. | Supervisión y control de máquinas e instalaciones del buque. |
 |  | Técnicas de montaje de instalaciones. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
 |  | Instalaciones frigoríficas. | Montajes y mantenimiento de instalaciones de frío, climatización y producción de calor. |
+|  | Pesca: extracción y conservación. | Pesca y transporte marítimo. |
+|  | Pesca marítima y biología de las especies de interés comercial. | Navegación, pesca y transporte marítimo. |
 | Mecanizado y mantenimiento de máquinas. | Sistemas auxiliares de fabricación mecánica. | Fundición. |
 | Sistemas auxiliares de fabricación mecánica. | Mecanizado. |
 | Fabricación por abrasión, conformado y procedimientos especiales. | Mecanizado. |
@@ -159,6 +172,7 @@
 |  | Montaje y mantenimiento mecánico. | Mantenimiento de equipo industrial. |
 |  | Montaje y mantenimiento de los sistemas hidráulico y neumático. | Mantenimiento de equipo industrial. |
 |  | Técnicas de fabricación para el mantenimiento y montaje. | Mantenimiento de equipo industrial. |
+|  | Ejecución de procesos de fundición. | Producción por fundición y pulvimetarlurgia. |
 | Oficina de Proyectos de Construcción. | Representaciones de construcción. | Desarrollo y aplicación de proyectos de construcción. |
 |  | Proyecto de edificación. | Desarrollo y aplicación de proyectos de construcción. |
 |  | Trabajos de campo y gabinete. | Desarrollo de proyectos urbanísticos y operaciones topográficas. |
@@ -215,7 +229,7 @@
 |  | Higiene, desinfección y esterilización aplicadas a peluquería. | Peluquería. |
 |  | Técnicas de embellecimiento personal. | Asesoría de imagen personal. |
 |  | Escultura de uñas y estética de manos y pies. | Estética personal decorativa. |
-| Procedimientos de diagnóstico clínico y ortoprotésico. | Elaboración de preparados farmacéuticos y parafarmacéuticos en establecimientos de farmacia. | Farmacia. |
+| Procedimientos de diagnóstico clínico y ortoprotésica. | Elaboración de preparados farmacéuticos y parafarmacéuticos en establecimientos de farmacia. | Farmacia. |
 | Dispensación y venta de productos farmacéuticos y parafarmacéuticos. | Farmacia. |
 |  | Realización de análisis clínicos elementales. | Farmacia. |
 |  | Control y vigilancia de la contaminación de alimentos. | Salud ambiental. |
@@ -224,6 +238,10 @@
 |  | Fundamentos y técnicas de análisis. | Laboratorio de diagnóstico clínico. |
 |  | Fundamentos y técnicas de análisis hematológicos y citológicos. | Laboratorio de diagnóstico clínico. |
 |  | Fundamentos y técnicas de exploración en radiología convencional. | Imagen para el diagnóstico. |
+|  | Procesado y tratamiento de la imagen radiológica. | Imagen para el diagnóstico. |
+|  | Prótesis fija. | Prótesis dentales. |
+|  | Prótesis parcial removible metálica. | Prótesis dentales. |
+|  | Prótesis removible de resina. | Prótesis dentales. |
 | Procedimientos sanitarios y asistenciales. | Técnicas de ayuda odontológica/estomatológica. | Cuidados auxiliares de enfermería. |
 |  | Técnicas básicas de enfermería. | Cuidados auxiliares de enfermería. |
 |  | Higiene del medio hospitalario y limpieza de material. | Cuidados auxiliares de enfermería. |
@@ -277,6 +295,7 @@
 |  | Procesos de postimpresión. | Producción en industrias gráficas. |
 |  | Procesos de impresión. | Producción en industrias gráficas. |
 |  | Procesos de preimpresión. | Producción en industrias gráficas. |
+|  | Procesos de manipulados de cartón. | Encuadernación y manipulados de papel y cartón. |
 | Producción Textil y Tratamientos Físico-Químicos. | Tratamientos previos al ennoblecimiento. | Operaciones de ennoblecimiento textil. |
 | Estampación. | Operaciones de ennoblecimiento textil. |
 |  | Tintura. | Operaciones de ennoblecimiento textil. |
@@ -304,7 +323,7 @@
 |  | Técnicas de servicio y de atención al cliente. | Servicios de restaurante y bar. |
 |  | Bebidas. | Servicios de restaurante y bar. |
 |  | Procesos de servicio. | Restauración. |
-|  | Técnicas elementales de cocina. | Cocina. |
+|  | Técnicas elementales de cocina. | Servicios de restaurante y bar. |
 | Sistemas y aplicaciones Informáticas. | Implantación de aplicaciones informáticas de gestión. | Administración de sistemas informáticos. |
 | Sistemas informáticos monousuario y multiusuario. | Administración de sistemas informáticos. |
 | Diseño y realización de servicios de presentación en entornos gráficos. | Desarrollo de aplicaciones informáticas. |
@@ -313,11 +332,17 @@
 | Aplicaciones informáticas y operatoria de teclados. | Administración y finanzas. |
 | Gestión de datos. | Secretariado. |
 | Aplicaciones informáticas de propósito general. | Comercio. |
+| Aplicaciones informáticas de propósito general. | Comercio internacional. |
+| Aplicaciones informáticas de propósito general. | Gestión comercial y marketing. |
+| Aplicaciones informáticas de propósito general. | Gestión del transporte. |
+| Aplicaciones informáticas de propósito general. | Servicios al consumidor. |
+| Aplicaciones informáticas generales. | Documentación sanitaria. |
 | Soldadura. | Soldadura en atmósfera protegida. | Soldadura y calderería. |
 |  | Trazado y conformado en construcciones metálicas. | Soldadura y calderería. |
 |  | Soldadura en atmósfera natural. | Soldadura y calderería. |
 |  | Mecanizado en construcciones metálicas. | Soldadura y calderería. |
 |  | Ejecución de procesos en construcciones metálicas. | Construcciones metálicas. |
+|  | Montaje de construcciones metálicas. | Soldadura y calderería. |
 | Técnicas y Procedimientos de Imagen y Sonido. | Revelado de soportes fotosensibles. | Laboratorio de imagen. |
 | Positivación, ampliación y acabados. | Laboratorio de imagen. |
 | Tratamiento de imágenes fotográficas por procedimientos digitales. | Laboratorio de imagen. |
@@ -333,3 +358,7 @@
 |  | Postproducción de sonido. | Sonido. |
 |  | Tratamiento de imágenes. | Preimpresión. |
 |  | Fotografía macro y microscópica. | Anatomía patológica y citología. |
+|  | Realización en multimedia. | Realización de audiovisuales y espectáculos. |
+|  | Grabaciones musicales. | Sonido. |
+
+> Se modifica por la disposición adicional 8 y el Anexo VIII.b) del Real Decreto 777/1998, de 30 de abril. Ref. BOE-A-1998-10720.

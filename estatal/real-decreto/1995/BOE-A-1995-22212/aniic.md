@@ -7,6 +7,7 @@
 | – Administración de empresas. | – Economía. |
 | – Economía y organización de empresas. |
 | – Análisis y química industrial. | – Química. |
+| – Asesoría y procesos de imagen personal. | – Biología. |
 | – Construcciones civiles y edificación. | – Dibujo técnico. |
 | – Organización y gestión comercial. | – Economía. |
 | – Economía y organización de empresas. |
@@ -30,3 +31,5 @@
 | – Economía y organización de empresas. |
 
 (1) Título de Licenciado en Administración y Dirección de Empresas, Licenciado en Ciencias Empresariales, Licenciado en Ciencias Actuariales y Financieras, Licenciado en Economía, Licenciado en Investigación y Técnicas de Mercado, Diplomado en Ciencias Empresariales y Diplomado en Gestión y Administración Pública.
+
+> Se modifica por la disposición adicional 8 y el Anexo VIII.c) del Real Decreto 777/1998, de 30 de abril. Ref. BOE-A-1998-10720.

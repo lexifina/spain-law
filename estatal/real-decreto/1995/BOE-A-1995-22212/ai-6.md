@@ -27,6 +27,7 @@
 |  | Química aplicada. | Operaciones de proceso de pasta y papel. |
 |  | Química aplicada. | Operaciones de proceso en planta química. |
 |  | Control de calidad en la industria química. | Industrias de proceso químico. |
+|  | Química textil. | Operaciones de ennoblecimiento textil. |
 | Lengua Castellana y Literatura. Lengua propia de las comunidades autónomas. | Comunicación y relaciones profesionales. | Secretariado. |
 | Alemán. Francés. Inglés. Italiano. Portugués. | Lengua extranjera (3). Lengua extranjera (3). Lengua extranjera (3). Lengua extranjera (3). Segunda lengua extranjera (3). | Cocina. Servicios de restaurante y bar. Restauración. Alojamiento. Alojamiento. |
 |  | Lengua extranjera (3). | Agencias de viajes. |
@@ -61,6 +62,8 @@
 |  | Planes de obra. | Realización y planes de obra. |
 |  | Planes de seguridad en la construcción. | Realización y planes de obra. |
 |  | Replanteos de obras. | Realización y planes de obra. |
+|  | Proyectos de instalaciones térmicas y de fluidos. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
+|  | Proyectos de instalaciones de manutención y transporte. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
 | Dibujo (6). | Desarrollos geométricos en construcciones metálicas. | Soldadura y calderería. |
 |  | Desarrollo de proyectos en construcciones metálicas. | Construcciones metálicas. |
 |  | Desarrollo de productos mecánicos. | Desarrollo proyectos mecánicos. |
@@ -68,12 +71,14 @@
 
 (1) Título de Licenciado en Biología o en Ciencias del Mar.
 
-(2) Título de Licenciado en Química.
+(2) Título de Licenciado en Química o Ingeniero Químico.
 
 (3) Alemán, Francés, Inglés, Italiano o Portugués, en función del idioma elegido.
 
 (4) Alemán, Francés, Italiano o Portugués, en función del idioma elegido.
 
-(5) Título de: Arquitecto, Ingeniero de Caminos, Canales y Puertos, Arquitecto Técnico, Ingeniero Técnico de Obras Públicas o Ingeniero Técnico en Topografía.
+(5) Título de: Arquitecto, Ingeniero, Arquitecto Técnico o Ingeniero Técnico.
 
 (6) Título de: Ingeniero, Ingeniero Técnico Aeronáutico, Ingeniero Técnico Industrial, Ingeniero Técnico Minas o Ingeniero Técnico Naval.
+
+> Se modifica por la disposición adicional 8 y el Anexo VIII.e) del Real Decreto 777/1998, de 30 de abril. Ref. BOE-A-1998-10720.

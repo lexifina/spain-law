@@ -32,7 +32,7 @@ Procesos de Cultivo Acuícola.
 
 Procesos de Producción Agraria.
 
-Procesos de Transformación y Conservación de Alimentos.
+Procesos en la Industria Alimentaria.
 
 Procesos Diagnósticos Clínicos y Productos Ortoprotésicos.
 
@@ -51,3 +51,5 @@ Procesos y Productos en Madera y Mueble.
 Sistemas Electrónicos.
 
 Sistemas Electrotécnicos y Automáticos.
+
+> Se modifica por la disposición adicional 8 y el Anexo VIII.a) del Real Decreto 777/1998, de 30 de abril. Ref. BOE-A-1998-10720.

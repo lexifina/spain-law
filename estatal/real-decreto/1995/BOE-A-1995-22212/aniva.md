@@ -28,11 +28,11 @@ Oficina de Proyectos de Construcción.
 
 Oficina de Proyectos de Fabricación Mecánica.
 
-Operaciones de Preparación y Tratamiento de Alimentos.
+Operaciones y Equipos de Elaboración de Productos Alimentarios.
 
 Operaciones de Procesos.
 
-Operaciones de Producción Agraria.
+Operaciones y Equipos de Producción Agraria.
 
 Patronaje y Confección.
 
@@ -59,3 +59,5 @@ Sistemas y Aplicaciones Informáticas.
 Soldadura.
 
 Técnicas y Procedimientos de Imagen y Sonido.
+
+> Se modifica por la disposición adicional 8 y el Anexo VIII.a) del Real Decreto 777/1998, de 30 de abril. Ref. BOE-A-1998-10720.

@@ -120,7 +120,6 @@
 | «Marketing» en restauración. | Restauración. |
 | Administración de establecimientos de restauración. | Restauración. |
 | Organización y gestión de una pequeña empresa de actividades de tiempo libre y socioeducativas. | Animación sociocultural. |
-| Animación de ocio y tiempo libre. | Animación sociocultural. |
 | Informática. | Sistemas gestores de bases de datos. | Administración de sistemas informáticos. |
 | Fundamentos de programación. | Administración de sistemas informáticos. |
 | Redes de área local. | Administración de sistemas informáticos. |
@@ -142,7 +141,7 @@
 | Habilidades de autonomía personal y social. | Integración social. |
 | Asistencia y guía de grupos. | Información y comercialización turísticas. |
 | Formación del consumidor. | Servicios al consumidor. |
-| Navegación e instalaciones marinas. | Instalaciones y máquinas marinas. | Operación, control y mantenimiento de máquinas e instalaciones del buque. |
+| Navegación e instalaciones marinas. | Instalaciones y máquinas eléctricas. | Operación, control y mantenimiento de máquinas e instalaciones del buque. |
 | Automatización: regulación y control. | Operación, control y mantenimiento de máquinas e instalaciones del buque. |
 | Seguridad, supervivencia y primeros auxilios en la mar. | Operación, control y mantenimiento de máquinas e instalaciones del buque. |
 | Administración del buque. | Pesca y transporte marítimo. |
@@ -272,6 +271,13 @@
 | Protección radiológica. | Radioterapia. |
 | Atención técnico-sanitaria al paciente. | Radioterapia. |
 | Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia. | Radioterapia. |
+| Fundamentos y técnicas de exploración en medicina nuclear. | Imagen para el diagnóstico. |
+| Fundamentos y técnicas de exploración radiológica mediante equipos de digitalización de imágenes. | Imagen para el diagnóstico. |
+| Diseño de ortesis, prótesis, ortoptrótesis y ayudas técnicas. | Ortoprotésica. |
+| Diseño de prótesis y aparatos de ortodoncia. | Prótesis dentales. |
+| Ortodoncia. | Prótesis dentales. |
+| Fundamentos y técnicas de tratamientos de braquiterapia. | Radioterapia. |
+| Fundamentos y técnicas de tratamientos de teleterapia. | Radioterapia. |
 | Procesos sanitarios. | Promoción de la salud y apoyo psicológico al paciente. | Cuidados auxiliares de enfermería. |
 | Operaciones administrativas y documentación sanitaria. | Cuidados auxiliares de enfermería. |
 | Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica y citología. | Anatomía patológica y citología. |
@@ -290,6 +296,9 @@
 | Anatomía y fisiología humanas básicas. | Estética personal decorativa. |
 | Anatomía y fisiología humanas básicas. | Peluquería. |
 | Atención sanitaria de urgencia a bordo. | Navegación, pesca y transporte marítimo. |
+| Citología de muestras no ginecológicas obtenidas por punción. | Anatomía patológica y citología. |
+| Citología de secreciones y líquidos. | Anatomía patológica y citología. |
+| Exploración bucodental. | Higiene bucodental. |
 | Procesos y medios de comunicación. | Procesos de imagen fotográfica. | Laboratorio de imagen. |
 | Iluminación de espacios escénicos. | Imagen. |
 | Gestión de calidad de procesado y tratamiento fotográfico y cinematográfico. | Imagen. |
@@ -347,6 +356,7 @@
 |  | Materias, productos y ensayos de calidad textil. | Procesos textiles de tejeduría de punto. |
 |  | Organización de la producción en la industria textil. | Procesos textiles de tejeduría de punto. |
 |  | Estilismo en el vestir. | Asesoría de imagen personal. |
+|  | Procesos de curtidos. | Curtidos. |
 | Procesos y productos de vidrio y cerámica. | Pastas cerámicas. | Operaciones de fabricación y productos cerámicos. |
 |  | Fritas, pigmentos y esmaltes. | Operaciones de fabricación y productos cerámicos. |
 |  | Procesos de fabricación de productos cerámicos. | Operaciones de fabricación y productos cerámicos. |
@@ -367,6 +377,7 @@
 |  | Transformación y manufactura de productos de vidrio. | Fabricación y transformación de productos de vidrio. |
 |  | Gestión de calidad en industrias del vidrio. | Fabricación y transformación de productos de vidrio. |
 |  | Organización de la producción en industrias del vidrio. | Fabricación y transformación de productos de vidrio. |
+|  | Cerámicas avanzadas. | Desarrollo y fabricación de productos cerámicos. |
 | Procesos y productos en artes gráficas. | Seguridad en las industrias de artes gráficas. | Encuadernación y manipulados de papel y cartón. |
 |  | Materias primas en artes gráficas. | Encuadernación y manipulados de papel y cartón. |
 |  | Procesos de artes gráficas. | Encuadernación y manipulados de papel y cartón. |
@@ -383,6 +394,7 @@
 |  | Gestión de calidad en las industrias de artes gráficas. | Producción en industrias de artes gráficas. |
 |  | Planes de seguridad en industrias de artes gráficas. | Producción en industrias de artes gráficas. |
 |  | Organización de la producción en las industrias de artes gráficas. | Producción en industrias de artes gráficas. |
+|  | Diseño gráfico. | Diseño y producción editorial. |
 | Procesos y productos en madera y mueble. | Definición de soluciones en carpintería y mueble a medida. | Fabricación a medida e instalación de carpintería y mueble. |
 | Materiales y productos en industrias de la madera. | Fabricación a medida e instalación de carpintería y mueble. |
 | Seguridad en la industria de la madera y el mueble. | Fabricación a medida e instalación de carpintería y mueble. |
@@ -399,6 +411,7 @@
 | Transformación y manufactura de productos de vidrio. | Fabricación y transformación de productos de vidrio. |
 | Gestión de calidad en industrias del vidrio. | Fabricación y transformación de productos de vidrio. |
 | Organización de la producción en industrias del vidrio. | Fabricación y transformación de productos de vidrio. |
+| Definición de producto en carpintería y mueble a medida. | Desarrollo de productos en carpintería y mueble. |
 | Sistemas electrónicos. | Calidad. | Equipos electrónicos de consumo. |
 |  | Electrónica general. | Equipos electrónicos de consumo. |
 |  | Electrónica digital y microprogramados. | Equipos electrónicos de consumo. |
@@ -417,6 +430,9 @@
 |  | Informática industrial. | Sistemas de regulación y control automáticos. |
 |  | Comunicaciones industriales. | Sistemas de regulación y control automáticos. |
 |  | Redes de área local. | Administración de sistemas informáticos. |
+|  | Instalaciones eléctricas y automatismos. | Montaje y mantenimiento de instalaciones de frío, climatización y producción de calor. |
+|  | Sistemas automáticos en las instalaciones. | Mantenimiento y montaje de instalaciones de edificio y proceso. |
+|  | Sistemas automáticos en las instalaciones. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
 | Sistemas electrotécnicos y automáticos. | Calidad. | Equipos e instalaciones electrotécnicas. |
 |  | Electrotecnia. | Equipos e instalaciones electrotécnicas. |
 |  | Seguridad en las instalaciones eléctricas. | Equipos e instalaciones electrotécnicas. |
@@ -663,3 +679,5 @@
 |  | Relaciones en el entorno de trabajo. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
 |  | Formación y orientación laboral. | Mantenimiento y montaje de instalaciones de edificio y proceso. |
 |  | Relaciones en el entorno de trabajo. | Mantenimiento y montaje de instalaciones de edificio y proceso. |
+
+> Se modifica por la disposición adicional 8 y el Anexo VIII.b) del Real Decreto 777/1998, de 30 de abril. Ref. BOE-A-1998-10720.
