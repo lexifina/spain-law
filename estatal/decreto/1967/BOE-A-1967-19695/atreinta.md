@@ -1,12 +1,8 @@
 ## Artículo treinta. Asistencia domiciliaria.
 
-Uno. La asistencia médica será prestada a domicilio cuando el titular o beneficiarios no puedan por su enfermedad acudir a la Institución Sanitaria o Consulta del facultativo. Esta asistencia se prestará por el Médico general y por las Especialistas de Pediatría-Puericultura o Tocología a requerimiento directo del titular y mediante indicación escrita de estos facultativos para las restantes especialidades.
+(Derogado)
 
-Dos. La actuación del Especialista adoptará la forma de consulta médica con el facultativo que haya solicitado su intervención. En todo caso, el Especialista, sin perjuicio de las indicaciones y terapéutica que prescriba al enfermo, informará al Médico que solicitó su concurso sobre la orientación diagnóstica y el tratamiento que haya dispuesto.
-
-Tres. Las peticiones de asistencia a domicilio recibidas en el lugar designado al efecto antes de las nueve horas, serán cumplimentadas durante la mañana y las formuladas antes de las cinco de la tarde, durante el resto del día, sin perjuicio de las situaciones de urgencia, que serán atendidas por el facultativo a la mayor brevedad y bajo su personal responsabilidad. Las peticiones de asistencia podrán ser realizadas por teléfono al lugar designado al efecto.
-
-Cuatro. El número y frecuencia de las sucesivas visitas domiciliarias serán determinadas discrecionalmente por el facultativo, teniendo en cuenta el estado del enfermo, en orden a la normal y eficaz asistencia.
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 63/1995, de 20 de enero. Ref. BOE-A-1995-3554.
 
 > Se deroga en el ámbito de gestión del Instituto Nacional de Salud no transferido a las Comunidades Autónomas y queda demorada su eficacia, según establece la disposición derogatoria 2.2 del Real Decreto 571/1990, de 27 de abril. Ref. BOE-A-1990-10500.
 

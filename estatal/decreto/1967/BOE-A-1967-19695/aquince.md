@@ -1,9 +1,5 @@
 ## Artículo quince. Contenido.
 
-Le asistencia sanitaria por maternidad comprende:
+(Derogado)
 
-a) Reconocimiento médico durante la gestación y asistencia facultativa en las incidencias patológicas de la misma.
-
-b) Asistencia facultativa al parto y al puerperio, así como a sus incidencias patológicas.
-
-c) Hospitalización en las Instituciones cerradas de la Seguridad Social o en las concertadas.
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 63/1995, de 20 de enero. Ref. BOE-A-1995-3554.

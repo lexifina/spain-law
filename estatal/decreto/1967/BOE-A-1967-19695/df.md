@@ -1,3 +1,5 @@
 ## DISPOSICIÓN FINAL
 
-El Ministerio de Trabajo dictará las disposiciones que estime necesarias para la aplicación y desarrollo de lo preceptuado en el presente Decreto.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 63/1995, de 20 de enero. Ref. BOE-A-1995-3554.
