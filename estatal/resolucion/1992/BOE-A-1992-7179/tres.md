@@ -1,15 +1,29 @@
-## Tres. El Área de Servicios Especiales y Auditoría.
+## Tres. La Unidad Central de Coordinación en materia de delitos contra la Hacienda Pública y la Unidad de Coordinación de Grupos.
 
-1. Las Unidades del Área de Servicios Especiales y Auditoría tendrán las atribuciones propias de la Inspección de los Tributos para el desempeño de las funciones que les atribuye el artículo 4.º de la Orden del Ministerio de Economía y Hacienda de 7 de enero de 1985. En general, podrán realizar actuaciones comprendidas en los artículos 9 a 15 del Reglamento General de la Inspección de los Tributos:
+1. La Unidad Central de Coordinación en materia de delitos contra la Hacienda Pública.
 
-a) Con arreglo a planes de inspección establecidos por el Departamento de Inspección Financiera y Tributaria.
+A la Unidad Central de Coordinación en materia de delitos contra la Hacienda Pública le corresponden principalmente las siguientes funciones:
 
-b) Cuando así lo ordene motivadamente el Director del Departamento de Inspección Financiera y Tributara, atendiendo al significado, importancia o trascendencia de las actuaciones.
+a) La integración y comunicación a la Inspección de los Tributos de criterios en materia de delitos contra la Hacienda Pública.
 
-2. Los Jefes de las Unidades del Área de Servicios Especiales y Auditoría determinarán las actuaciones que hayan de desarrollarse por uno o conjuntamente por varios miembros de las mismas y suscribirán las actas que proceda incoar con arreglo al apartado 10 de esta Resolución. En los casos de ausencia, vacante o enfermedad, sustituirá al Jefe de Unidad quien designe el Jefe del Área de Servicios Especiales y Auditoría.
+b) La elaboración de los criterios que deben seguirse en orden a la tramitación de los posibles delitos contra la Hacienda Pública.
 
-Los Inspectores Coordinadores y los adscritos a las Unidades del Área de Servicios especiales y Auditoría desarrollarán las actuaciones que les sean confiadas por el Jefe de la Unidad, suscribiendo las actas correspondientes si les fue encomendada su ultimación.
+c) El Asesoramiento a los servicios de inspección a que se refiere el apartado Uno de la presente resolución, en relación con los expedientes que éstos tramiten, cuando en los mismos pudieran apreciarse indicios de delito contra la Hacienda Pública.
 
-Los Subinspectores adscritos a las Unidades del Área de Servicios Especiales y Auditoría desarrollarán las actividades de apoyo y colaboración que procedan e intervendrán en las correspondientes actuaciones inspectoras desarrollando las actividades subordinadas que les sean encomendadas. El Departamento de Inspección financiera y Tributaria dictará instrucciones sobre asignación de tareas a los Subinspectores, con distintos niveles de responsabilidad, en atención a las diferentes categorías de puestos de trabajo que pueden ocupar, y al cumplimiento de los Planes de inspección.
+Las funciones de la Unidad Central de Coordinación en Materia de Delitos contra la Hacienda Pública se entiende sin perjuicio de las propias de los demás órganos y unidades a que se refiere el apartado Uno de esta Resolución y, en concreto, sin perjuicio de lo dispuesto en el apartado Trece de la misma.
+
+El Departamento de Inspección Financiera y Tributaria dictará instrucciones sobre asignación de tareas a los Subinspectores adscritos, con distintos niveles de responsabilidad, en atención a las diferentes categorías de puestos de trabajo que pueden ocupar.
+
+2. La Unidad de Coordinación de Grupos.
+
+A la Unidad de Coordinación de Grupos le corresponden principalmente las siguientes funciones:
+
+a) La planificación de las actuaciones inspectoras que vayan a llevarse a cabo cerca de entidades que tributen en régimen de declaración consolidada, formen parte de uniones temporales de empresas o de agrupaciones de interés económico, a cuyo efecto llevará los registros pertinentes.
+
+b) La coordinación e impulso de las actuaciones que se practiquen cerca de tales contribuyentes, sin perjuicio de las funciones que en el mismo sentido correspondan a los restantes órganos, equipos y unidades de inspección.
+
+El Departamento de Inspección Financiera y Tributaria dictará instrucciones sobre la asignación de tareas a los Subinspectores adscritos, con distintos niveles de responsabilidad, en atención a las diferentes categorías de puestos de trabajo que pueden ocupar.
+
+> Se modifica por el apartado 8 de la Resolución de 17 de febrero de 1998. Ref. BOE-A-1998-5188.
 
 > Se deroga el párrafo segundo del punto 1.b) por la disposición derogatoria de la Resolución de 16 de febrero de 1996. Ref. BOE-A-1996-3686.

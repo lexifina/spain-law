@@ -70,6 +70,20 @@ Las Unidades Regionales de Gestión de Grandes Empresas de las Dependencias Regi
 
 Sin perjuicio de lo anterior los obligados tributarios podrán, en cualquier caso, presentar sus declaraciones, recursos, consultas y cualquier otro documento con trascendencia tributaria en la Delegación o Administración que corresponda a su domicilio fiscal.
 
+Cinco. 4. Dependendiendo de las Depencias Regionales de Inspección se encuentran las Unidades Especiales de Auxilio Judicial, con funciones propias de la inspección de los tributos y, en concreto, las establecidas en los artículos 13, 14 y 15.2 del Real Decreto 939/1986, de 25 de abril, por el que se aprueba el Reglamento General de la Inspección de los Tributos.
+
+Dichas Unidades Especiales asumen las funciones de colaboración con Juzgados, Tribunales y Ministerio Fiscal, ya sea a través de informes o dictámenes periciales, ya sea a través de otras tareas entre las que estaría incluidas las de auxilio jurisdiccional, reguladas en los artículos 15.2 y 66.4 del Reglamento General de la Inspección de los Tributos.
+
+Las distintas Unidades Especiales de Auxilio Judicial tienen su sede en la Delegación Especial de la Agencia Estatal de Administración Tributaria en que estén encuadradas y dependerán de su Dependencia Regional de Inspección.
+
+Existirán Unidades Especiales que actuarán en el ámbito de distintas delegaciones especiales. Cada unidad especial ejercerá sus funciones en todo el ámbito territorial que constituya la circunscripción de la Delegación Especial de que dependan, si bien, si actúan en el ámbito de las distintas Delegaciones Especiales, tendrán su sede en una de ellas, dependerán de la Dependencia Regional de Inspección de la Delegación Especial en que radique su sede, y ejercerán sus funciones en el ámbito territorial de todas las Delegaciones Especiales en que actúen.
+
+Será necesaria la autorización del Director del Departamento de Inspección Financiera y Tributaria, cuando desarrollen sus funciones fuera del ámbito territorial de su Delegación especial.
+
+Las Unidades Especiales de Auxilio Judicial estarán compuestas por uno o varios miembros, ya sean Inspectores, Subinspectores o ambos conjuntamente.
+
+> Se añade el punto 4 por el apartado 10 de la Resolución de 17 de febrero de 1998. Ref. BOE-A-1998-5188.
+
 > Se modifica el punto 2.1 por el apartado 4 de la Resolución de 16 de febrero de 1996. Ref. BOE-A-1996-3686.
 
 > Se modifica por el apartado 2 de la Resolución de 16 de diciembre de 1994. Ref. BOE-A-1994-28710.

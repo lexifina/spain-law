@@ -14,11 +14,9 @@ Sin perjuicio de las competencias de los restantes órganos adscritos al Departa
 
 a) La actuación inspectora y los procedimientos de comprobación e investigación en relación con los sujetos pasivos encuadrados en los sectores económicos o que desarrollen las actividades que determine el Director del departamento, así como el seguimiento y estudio de dichos sectores y actividades.
 
-b) La integración y tramitación de los expedientes de delito fiscal.
+b) Las actuaciones de gestión e inspección en el ámbito de las relaciones fiscales internacionales y de la tributación de personas físicas y entidades jurídicas no residentes en territorio español, cuando sus representantes o responsables estén adscritos a la Oficina Nacional de Inspección, sin perjuicio de la coordinación de tales criterios con el Departamento de Gestión Tributaria.
 
-c) Las actuaciones de gestión e inspección en el ámbito de las relaciones fiscales internacionales y de la tributación de personas físicas y entidades jurídicas no residentes en territorio español, cuando sus representantes o responsables estén adscritos a la Oficina Nacional de Inspección, sin perjuicio de la coordinación de tales criterios con el Departamento de Gestión Tributaria.
-
-d) La actuación de las Unidades de Gestión de Grandes Empresas.
+c) La actuación de las Unidades de Gestión de Grandes Empresas.
 
 El Director del Departamento de Inspección Financiera y Tributaria determinará los cauces y procedimientos a través de los cuales se desarrollarán estos cometidos de estudios y propuesta de la Oficina Nacional de Inspección, así como los objetivos específicos a alcanzar en cada una de estas materias.
 
@@ -40,6 +38,8 @@ e) Que se encuentren vinculados a otros obligados tributarios ya adscritos.
 
 La competencia de la Oficina Nacional de Inspección podrá abarcar igualmente a las obligaciones tributarias derivadas de los hechos imponibles que correspondan a personas físicas o jurídicas no residentes y sin establecimiento permanente en España cuando, en relación con dichos hechos imponibles, el representante, el depositario o gestor de los bienes o derechos, o el pagador de las rentas del no residente sea un obligado tributario adscrito a la misma.
 
+Igualmente podrá adscribirse a la Oficina Nacional de Inspección la comprobación de obligados tributarios que presenten características comunes en función de las actividades desarrolladas.
+
 El referido acuerdo se notificará simultáneamente al obligado tributario, a la Delegación Especial o Delegación de la Agencia a la que esté adscrito y al Departamento de Recaudación.
 
 Respecto de estos obligados tributarios, la Oficina Nacional de Inspección es competente para realizar las funciones que contempla el artículo 2 del Reglamento General de la Inspección de los Tributos correspondiéndole, en exclusiva, las actuaciones de comprobación e investigación de alcance general. Asimismo, realizará las funciones de gestión en relación con ellos y en su ámbito de competencia.
@@ -58,59 +58,69 @@ El acuerdo, que se notificará en la forma prevista en el apartado dos.2.1 anter
 
 Respecto a estos obligados tributarios la Oficina Nacional de Inspección no tendrá atribuidas funciones de gestión, siendo éstas ejercidas por los órganos a quien corresponda.
 
+c) De comprobación e investigación relativas a otros obligados tributarios cuando, por razones de índole organizativa del servicio de inspección que inicialmente fuera competente, el inicio o la continuación de las actuaciones pudiera perjudicarse.
+
+d) De comprobación e investigación de obligados tributarios que presenten características comunes en función de las actividades desarrolladas, en cuanto que dichos contribuyentes no esté adscritos de manera permanente de conformidad con lo dispuesto en el apartado Dos.2.1 de la presente Resolución.
+
 Dos. 2.3 Otras actuaciones inspectoras distintas de las anteriores.
 
 La Oficina Nacional de Inspección podrá realizar actuaciones de comprobación e investigación de alcance parcial, así como las restantes clases de actuaciones inspectoras (excluidas las del alcance general de los números anteriores), sobre cualquier obligado tributario, con autorización del Jefe de dicha Oficina y conocimiento de la Delegación Especial o Delegación de la Agencia a la que aquél esté adscrito.
 
 Respecto a estos obligados tributarios la Oficina Nacional de Inspección tampoco tendrá atribuidas funciones de gestión.
 
-Dos. 3. Estructura de la Oficina Nacional de Inspección y desarrollo de actuaciones por la misma.
+Dos. 3. Estructura y desarrollo de las actuaciones.
 
-Dos. 3.1 La Oficina Nacional de Inspección estará constituida por los siguientes órganos con categoría de Dependencia:
+Dos. 3.1 Al frente de la Oficina Nacional de Inspección se halla el Jefe de la Oficina Nacional de Inspección, quien podrá estar asistido por uno o varios Inspectores Jefes adjuntos con la ubicación territorial que el mismo determine.
 
-A) El Area de Inspección.
+Bajo la superior dirección del Jefe de la Oficina Nacional de Inspección, los Inspectores Jefes adjuntos al mismo desempeñarán las funciones de coordinación de aquellos Equipos que les sean encomendados.
 
-B) La Unidad Central de Gestión de Grandes Empresas.
+Las actuaciones de comprobación e investigación atribuidas a la Oficina Nacional de Inspección será desarrolladas por Equipos de inspección, los cuales podrán desarrollar asimismo, otras actuaciones inspectoras y de informe o propuesta.
 
-Además la Oficina Nacional de Inspección contará con una Oficina Técnica que dependerá directamente del Jefe de dicha Oficina.
+Las actuaciones de los Equipos de la Oficina Nacional de Inspección serán dirigidas y controladas por los Jefes de tales Equipos, quienes asumirán la responsabilidad de las mismas y suscribirán las actas que proceda extender, de acuerdo con lo dispuesto en el apartado Diez de esta Resolución.
 
-A) Area de Inspección
+Los Equipos de Inspección estarán integrados por el Jefe de Equipo, así como por los Inspectores Jefes adjuntos de Equipo, los Inspectores de Equipo, Inspectores adjuntos de Equipo y Subinspectores que a los mismos se adscriban.
 
-Bajo la superior dirección del Jefe de la Oficina Nacional de Inspección, la planificación, control y coordinación de los Equipos de Inspección corresponderá al Jefe de Area de Inspección de la Oficina Nacional de Inspección, quien contará con un adjunto responsable de los servicios de inspección de dicha oficina en Barcelona. El Jefe de Area de Inspección de la Oficina Nacional de Inspección contará, para el desarrollo de sus competencias, con el apoyo de los Jefes de Equipo Coordinadores a que más adelante se hace referencia.
+Los Inspectores Jefes adjuntos de Equipo asumirán, en lo que se refiere a los obligados tributarios o áreas que se le asigne por el Jefe de Equipo, y siempre bajo su supervisión, la responsabilidad del cumplimiento de los objetivos encomendados. Por vacante, ausencia o enfermedad del Jefe de Equipo, el Director del Departamento podrá autorizar la ultimación de las actuaciones y firma de las actas por el Inspector Jefe adjunto de Equipo.
 
-Las actuaciones de comprobación e investigación atribuidas a la Oficina Nacional de Inspección serán desarrolladas por equipos de inspección, los cuales podrán desarrollar, asimismo, otras actuaciones inspectoras y de informe o propuesta.
+Los Inspectores de Equipo colaborarán directamente con los Jefes de Equipo y con los Inspectores Jefes adjuntos de Equipo, desarrollando las actuaciones inspectoras y de coordinación de los Inspectores adjuntos de Equipo y Subinspectores y Agentes adscritos al Equipo.
 
-Las actuaciones de los equipos de la Oficina Nacional de Inspección serán dirigidas y controladas por los Jefes de tales equipos, quienes suscribirán las actas que proceda incoar, de acuerdo con lo dispuesto en el apartado 10 de esta Resolución.
-
-Los Inspectores adjuntos a los Jefes de Equipo de la Oficina Nacional de Inspección y el restante personal inspector que se adscriba a los equipos de inspección, colaborarán directamente con los Jefes de los equipos, desarrollando las actuaciones que por éstos les sean confiadas.
+Los Inspectores adjuntos de Equipo desarrollarán las actuaciones inspectoras que les sean encomendadas por los Jefes de Equipo y por los Inspectores de Equipo.
 
 Los Subinspectores adscritos a los Equipos de la Oficina Nacional de Inspección desarrollarán las actividades de apoyo y colaboración que procedan e intervendrán en las correspondientes actuaciones inspectoras desarrollando las actividades que les sean encomendadas.
 
 Los Equipos de Inspección contarán, asimismo, con los Agentes de la Hacienda Pública que sean necesarios para el desarrollo de sus funciones.
 
-Los Equipos de Inspección se definirán fundamentalmente en función de su adscripción total o preponderante a un sector económico, agrupándose funcionalmente los equipos relacionados con un gran sector económico bajo la jefatura y coordinación especializada de un Jefe de Equipo Coordinador Sectorial, que podrá estar asistido por un Coordinador adjunto.
+Los Equipos de Inspección se definirán fundamentalmente por su adscripción total o preponderante a un sector económico, agrupándose funcionalmente los Equipos relacionados con uno o varios sectores económicos bajo la jefatura y coordinación de un Inspector Jefe adjunto al Jefe de la Oficina Nacional de Inspección.
 
-Igualmente, existirán sendos equipos para las áreas de Fiscalidad Internacional y de Vigilancia y Represión del Fraude Fiscal, los cuales realizarán actuaciones específicas sobre contribuyentes en que la naturaleza o trascendencia de las operaciones realizadas haga aconsejable su actuación y propondrán criterios para la coordinación de actuaciones en el ámbito respectivo de la fiscalidad internacional y de fraude fiscal.
+Junto al resto de los Equipos, con la misma estructura, existirán los siguientes Equipos especializados que, junto a la realización de actuaciones inspectoras y de informe o propuesta desarrollarán aquellas actividades de apoyo de los restantes Equipos y Unidades de Inspección que les sean encomendadas por el Jefe de la Oficina Nacional de Inspección:
 
-Dependiendo directamente del Jefe de Area de Inspección, existirá una Unidad de Auditoría Informática, que asistirá a los Equipos de Inspección de la Oficina Nacional de Inspección en la verificación y comprobación de los sistemas informáticos, así como a las Dependencias de Inspección de las Delegaciones Especiales y Delegaciones de la Agencia, a solicitud de éstas y por autorización del Jefe de la Oficina Nacional de Inspección.
+Equipo de Fiscalidad Internacional.
 
-B) Unidad Central de Gestión de Grandes Empresas
+Equipo Técnico y de Valoraciones.
 
-Corresponde a la Unidad Central de Gestión de Grandes Empresas de la Oficina Nacional de Inspección el ejercicio de las funciones de gestión tributaria atribuidas a ésta, así como formular las propuestas de resolución de aquellos expedientes que hayan de ser resueltos por el Jefe de la Oficina Nacional de Inspección en relación con los obligados tributarios adscritos a dicha Oficina.
+Equipo de Coordinación de Actuaciones Especiales.
 
-La Unidad Central de Gestión de Grandes Empresas tendrá en este ámbito cuantas funciones se atribuyen a las Dependencias de Gestión Tributaria por el artículo 34 de la Orden de 12 de agosto de 1985 por la que se reorganiza la Administración Territorial de la Hacienda Pública, normativa concordante y, en general, las propias del ámbito de la gestión tributaria.
+Los equipos especializados a los que se refiere el párrafo anterior dependerán de un mismo Inspector Jefe adjunto al Jefe de la Oficina Nacional de Inspección.
+
+El Equipo de Fiscalidad Internacional tendrá, entre otras, las funciones atribuidas a la Oficina Nacional de Inspección en el apartado Dos.1, letra b), relativas a las relaciones fiscales internacionales y a la tributación de personas físicas y entidades jurídicas no residentes en territorio español.
+
+El Equipo Técnico y de Valoraciones, en el que podrán integrarse los facultativos que se determine, prestarán los servicios de apoyo que se le en comienden por el Jefe de la Oficina Nacional de Inspección, fundamentalmente en materia de valoraciones inmobiliarias, tasación pericial contradictoria, pagos por intangibles, acuerdos previos de valoración, sin perjuicio de las valoraciones que puedan efectuarse por otros Peritos de la Administración, de conformidad con lo dispuesto en el artículo 52 de la Ley General Tributaria.
+
+El Equipo de Coordinación de Actuaciones Especiales tendrá a su cargo la comprobación de aquellos contribuyentes que, por presentar esquemas comunes de fraude, o hallarse comprendidos en el apartado Dos.2.2 de esta Resolución, corresponda su comprobación a la Oficina Nacional de Inspección.
+
+Dos. 3.2 Dependiendo directamente del Jefe de la Oficina Nacional de Inspección, y con categoría de dependencia, se encuentra la Unidad Central de Gestión de Grandes Empresas, a cuyo frente se encontrará el Jefe de la Unidad Central de Gestión de Grandes Empresas.
+
+A dicha Unidad le corresponde el ejercicio de las funciones de gestión tributaria atribuidas a la Oficina Nacional de Inspección, teniendo en este ámbito cuantas funciones se atribuyen a las Dependencias de Gestión Tributaria por el artículo 34 de la Orden de 12 de agosto de 1985, por la que se reorganiza la Administración Territorial de la Hacienda Pública, normativa concordante y, en general, las propias del ámbito de gestión tributaria.
 
 Sin perjuicio de lo anterior los obligados tributarios podrán, en cualquier caso, presentar sus declaraciones, recursos, consultas y cualquier otro documento con trascendencia tributaria en la Delegación o Administración que corresponda a su domicilio fiscal.
 
-Asimismo, la Unidad Central de Gestión de Grandes Empresas, en funciones de apoyo a los Equipos de Inspección, y en coordinación con el Area de Inspección, llevará a cabo tanto el suministro de información externa como el análisis y tratamiento de la información tributaria deducida de las propias declaraciones tributarias, y la realización de estudios económicos y fiscales de carácter sectorial relacionados con las actuaciones desarrolladas por los Equipos de Inspección.
+Asimismo, la Unidad Central de Gestión de Grandes Empresas, en funciones de apoyo a los Equipos de Inspección, llevarán a cabo, tanto el suministro de información externa como el análisis y tra tamiento de la información tributaria deducida de las propias declaraciones tributarias, y la realización de estudios económicos y fiscales de carácter sectorial relacionados con las actuaciones desarrolladas por los Equipos de Inspección.
 
-Oficina Técnica
-
-La Oficina Técnica tiene asignadas las funciones propias de las Oficinas Técnicas de los órganos o Dependencias inspectoras y, en particular, el asesoramiento en todas aquellas cuestiones relativas a competencias que tiene atribuidas como propias la Oficina Nacional de Inspección de la que forma parte.
-
-Además, le corresponde el análisis, estudio y propuesta de resolución de las actas que por su elevada complejidad le sean encomendadas por el Jefe de la Oficina Nacional de Inspección o remitidas por el Jefe de Equipo de Inspección que las hubiera incoado.
+Dos. 3.3 La oficina técnica, a cuyo frente estará un Inspector Jefe adjunto al Jefe de la Oficina Nacional de Inspección, tiene asignadas las funciones propias de las oficinas técnicas de los órganos o dependencias inspectoras y, en particular, el asesoramiento en todas aquellas cuestiones relativas a competencias que tiene atribuidas como propias la Oficina Nacional de Inspección.
 
 Dos. 4. Las competencias de gestión tributaria atribuidas a los Delegados Especiales y Delegados de la Agencia respecto a las personas o entidades adscritas a la Oficina Nacional de Inspección serán ejercidas por el Jefe de la Oficina Nacional de Inspección.
+
+> Se modifican los puntos 1, 2 y 3 por los apartados 4 a 7 de la Resolución de 17 de febrero de 1998. Ref. BOE-A-1998-5188.
 
 > Se modifican los puntos 1, 2.1, 2.2 y 3.1.A) por los apartados 2 y 3 de la Resolución de 16 de febrero de 1996. Ref. BOE-A-1996-3686.
 
