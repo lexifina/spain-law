@@ -23,3 +23,7 @@ Igualmente el Consorcio asumirá en el ámbito del Seguro Obligatorio de Viajero
 El Consorcio de Compensación de Seguros, una vez indemnizadas las víctimas o sus beneficiarios, podrá repetir recobrando lo pagado contra el transportista, en los supuestos de las letras a) y b) anteriores, o contra la entidad aseguradora que se encuentre en alguna de las situaciones descritas en el apartado c), incorporando su crédito en tal caso en la masa de acreedores.
 
 Dos. Quedan derogados los Reales Decretos-leyes de 13 de octubre de 1928 y 26 de julio de 1929. No obstante, hasta tanto se lleve a cabo la reforma referida, se mantiene vigente el actual sistema de cobertura establecido en relación con el Seguro Obligatorio de Viajeros.
+
+> Téngase en cuenta que se prórroga para el año 1989 esta disposición, según establece la disposición final 9 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563#df-9
+
+> Se prorroga, para el año 1989 y en sus propios términos, por la disposición final 9 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563#df-9
