@@ -4,4 +4,6 @@
 
 2. Los Ayuntamientos tramitan de oficio la inscripción de los residentes en su término municipal.
 
-3. Los españoles residentes-ausentes que vivan en el extranjero deben instar su inscripción al Consulado español correspondiente en la forma que se disponga reglamentariamente.
+3. Las Oficinas Consulares de Carrera y Secciones Consulares de las Misiones Diplomáticas tramitarán de oficio la inscripción de los españoles residentes en su demarcación en la forma que se disponga reglamentariamente.
+
+> Se modifica el apartado 3 por el art. 3 de la Ley Orgánica 3/1995, de 23 de marzo. Ref. BOE-A-1995-7239.

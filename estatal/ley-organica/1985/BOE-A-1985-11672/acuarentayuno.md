@@ -6,8 +6,10 @@
 
 3. No obstante, la Oficina del Censo Electoral puede facilitar datos estadísticos que no revelen circunstancias personales de los electores.
 
-4. Las Comunidades Autónomas pueden obtener una copia del censo, en soporte apto para su tratamiento informático, después de cada rectificación de aquél.
+4. Las Comunidades Autónomas podrán obtener una copia del censo, en soporte apto para su tratamiento informático, después de cada convocatoria electoral, además de la correspondiente rectificación de aquél.
 
-5. Los representantes de cada candidatura pueden obtener el día de la proclamación de candidatos una copia del censo del distrito correspondiente, ordenado por Mesas, en soporte apto para su tratamiento informático. Alternativamente los representantes generales pueden obtener en las mismas condiciones una copia del censo vigente de los distritos donde su partido, federación o coalición presente candidaturas. Asimismo, las Juntas Electorales de Zona dispondrán de una copia del caso electoral utilizable, correspondiente a su ámbito.
+5. Los representantes de cada candidatura podrán obtener el día siguiente a la proclamación de candidaturas una copia del censo del distrito correspondiente, ordenado por Mesas, en soporte apto para su tratamiento informático, que podrá ser utilizado exclusivamente para los fines previstos en la presente Ley. Alternativamente los representantes generales podrán obtener en las mismas condiciones una copia del censo vigente de los distritos donde su partido, federación o coalición presente candidaturas. Asimismo, las Juntas Electorales de Zona dispondrán de una copia del censo electoral utilizable, correspondiente a su ámbito.
+
+> Se modifican los apartados 4 y 5 por el art. 11 de la Ley Orgánica 3/1995, de 23 de marzo. Ref. BOE-A-1995-7239.
 
 > Se modifica el apartado 5 por el art. único .14 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.

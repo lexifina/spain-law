@@ -2,10 +2,12 @@
 
 1. Las Delegaciones Provinciales de la Oficina del Censo Electoral determinan el número, los limites de las Secciones Electorales, sus locales y las Mesas correspondientes a cada una de ellas, oídos los Ayuntamientos.
 
-2. La relación anterior debe ser publicada en el «Boletín Oficial» de la provincia el octavo día posterior a la convocatoria.
+2. La relación anterior deberá ser publicada en el "Boletín Oficial" de la provincia el sexto día posterior a la convocatoria y expuesta al público en los respectivos Ayuntamientos.
 
 3. En los seis días siguientes, los electores pueden presentar reclamaciones contra la delimitación efectuada, ante la Junta Electoral Provincial, que resolverá en firme sobre ellas en un plazo de cinco días.
 
-4. La publicación de las Secciones, Mesas y Locales electorales se reitera en los periódicos de mayor difusión en la provincia dentro de los diez días anteriores al de la votación y será asimismo objeto de exposición publica por los Ayuntamientos.
+4. Dentro de los diez días anteriores al de la votación se publicará en los dos periódicos de mayor difusión provincial y se expondrá al público en los respectivos Ayuntamientos la relación definitiva de Secciones, Mesas y locales electorales.
 
 5. Los Ayuntamientos deberán señalizar convenientemente los locales correspondientes a cada Sección y Mesa Electoral.
+
+> Se modifican los apartados 2 y 4 por el art. 2.1 y 2 de la Ley Orgánica 3/1995, de 23 de marzo. Ref. BOE-A-1995-7239.
