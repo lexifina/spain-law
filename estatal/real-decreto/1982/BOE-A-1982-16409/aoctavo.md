@@ -1,11 +1,5 @@
 ## Artículo octavo.
 
-Los trabajadores con los que se podrá celebrar contratos a los que se refiere el artículo anterior son:
+(Derogado)
 
-a) Trabajadores perceptores de prestaciones de desempleo. En este caso se deducirán de las referidas prestaciones la parte proporcional al tiempo trabajado.
-
-b) Trabajadores que hubieran agotado la percepción de la misma continuando en situación de desempleo.
-
-c) Trabajadores agrarios que hubieran quedado en desempleo.
-
-d) Jóvenes menores de veinticinco años.
+> Se deroga por la disposición derogatoria del Real Decreto 1991/1984, de 31 de octubre. Ref. BOE-A-1984-24875.
