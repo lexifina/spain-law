@@ -41,7 +41,7 @@ D-cicloserina: 400 mg.
 
 B-sulfato de polimixina: 25 mg.
 
-(β-D-glucosuro de indoxyl: 60 mg.
+(B-D-glucosuro de indoxyl: 60 mg.
 
 (Deberá disolverse en 8 ml de agua destilada estéril antes de añadirse).
 
@@ -53,13 +53,14 @@ FeCl3 - 6H2O al 4,5 por 100 esterilizada por filtración: 2 ml.
 
 2.1 En relación con los siguientes parámetros, los resultados característicos que se especifican suponen que el método de análisis utilizado será capaz, como mínimo, de medir concentraciones iguales al valor del parámetro con la exactitud, precisión y límite de detección especificados. Sea cual fuere la sensibilidad del método de análisis empleado, el resultado se expresará empleando como mínimo la misma cantidad de decimales que para el valor paramétrico considerado en las partes B y C del anexo IV.
 
-| Parámetros | Exactitud % del valor paramétrico (nota 1) | Precisión % del valor paramétrico (nota 2) | Límite de detección % del valor paramétrico (nota 3) | Condiciones | Notas |
+| Parámetros | Exactitud Porcentaje en el valor paramétrico (Nota 1) | Precisión Porcentaje en el valor paramétrico (Nota 2) | Límite de detección Porcentaje del valor paramétrico (Nota 3) | Condiciones | Notas |
 | --- | --- | --- | --- | --- | --- |
 | Acrilamida |  |  |  | Controlar según la especificación del producto. |  |
 | Aluminio | 10 | 10 | 10 |  |  |
 | Amonio | 10 | 10 | 10 |  |  |
 | Antimonio | 25 | 25 | 25 |  |  |
 | Arsénico | 10 | 10 | 10 |  |  |
+| Bario* | 25 | 25 | 25 |  |  |
 | Benzo(a)pireno | 25 | 25 | 25 |  |  |
 | Benceno | 25 | 25 | 25 |  |  |
 | Boro | 10 | 10 | 10 |  |  |
@@ -69,27 +70,29 @@ FeCl3 - 6H2O al 4,5 por 100 esterilizada por filtración: 2 ml.
 | Cromo | 10 | 10 | 10 |  |  |
 | Conductividad | 10 | 10 | 10 |  |  |
 | Cobre | 10 | 10 | 10 |  |  |
-| Cianuro | 10 | 10 | 10 |  |  |
-| 1,2-dicloroetano | 25 | 25 | 10 |  | Nota 4 |
+| Cianuro | 10 | 10 | 10 |  | Nota 4. |
+| 1,2-dicloroetano | 25 | 25 | 10 |  |  |
 | Epiclorhidrina |  |  |  | Controlar según la especificación del producto. |  |
-| Floruro | 10 | 10 | 10 |  |  |
+| Fluoruro | 10 | 10 | 10 |  |  |
 | Hierro | 10 | 10 | 10 |  |  |
 | Plomo | 10 | 10 | 10 |  |  |
-| Manganeso . . . . . . . . . . . . . . . . . . . . | 10 | 10 | 10 |  |  |
+| Manganeso | 10 | 10 | 10 |  |  |
 | Mercurio | 20 | 10 | 20 |  |  |
 | Níquel | 10 | 10 | 10 |  |  |
 | Nitrato | 10 | 10 | 10 |  |  |
 | Nitrito | 10 | 10 | 10 |  |  |
-| Oxidabilidad | 25 | 25 | 10 |  | Nota 5 |
-| Plaguicidas | 25 | 25 | 25 |  | Nota 6 |
-| Hidrocarburos policlínicos aromáticos. | 25 | 25 | 25 |  | Nota 7 |
+| Oxidabilidad | 25 | 25 | 10 |  | Nota 5. |
+| Plaguicidas | 25 | 25 | 25 |  | Nota 6. |
+| Hidrocarburos policíclicos aromáticos | 25 | 25 | 25 |  |  |
 | Selenio | 10 | 10 | 10 |  |  |
 | Sodio | 10 | 10 | 10 |  |  |
 | Sulfato | 10 | 10 | 10 |  |  |
-| Tetracloroeteno | 25 | 25 | 10 |  | Nota 8 |
-| Tricloreteno | 25 | 25 | 10 |  | Nota 8 |
-| Total THM | 25 | 25 | 10 |  | Nota 7 |
+| Tetracloroeteno | 25 | 25 | 10 |  | Nota 8. |
+| Tricloreteno | 25 | 25 | 10 |  | Nota 8. |
+| Total THM | 25 | 25 | 10 |  | Nota 7. |
 | Cloruro de vinilo |  |  |  | Controlar según la especificación del producto. |  |
+
+* Sólo para las aguas minerales naturales.
 
 2.2 Con respecto a la concentración en ion hidrógeno, las características que se especifican para los resultados suponen que el método de análisis aplicado puede medir concentraciones iguales al valor del parámetro con una exactitud de 0,2 unidades pH y una precisión de 0,2 unidades pH.
 
@@ -124,3 +127,5 @@ Carbono orgánico total.
 Turbidez (nota 1).
 
 Nota 1: para el control de la turbidez en el agua superficial tratada, los resultados característicos especificados consisten en que el método de análisis utilizado deberá poder medir como mínimo las concentraciones iguales al valor paramétrico con una exactitud del 25 por 100, una precisión del 25 por 100 y un límite de detección del 25 por 100.
+
+> Se modifica el cuadro del apartado 2 por el art. único.13 del Real Decreto 1744/2003, de 19 de diciembre. Ref. BOE-A-2003-23814.

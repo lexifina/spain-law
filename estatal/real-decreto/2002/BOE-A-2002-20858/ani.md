@@ -62,10 +62,10 @@ b) Efectuada la preparación, cumplirán las exigencias establecidas para las ag
 
 2. Restantes especificaciones. Les será de aplicación, al menos, las establecidas para las aguas potables de consumo público en el anexo IV de la presente disposición.
 
-4. Aguas de consumo público envasadas.
-
-En todas sus especificaciones deberán ajustarse, al menos, a lo establecido para las aguas potables de consumo público en los anexos IV, V y VI de la presente disposición.
+4. (Suprimido)
 
 5. Criterios de pureza del anhídrido carbónico.
 
 El anhídrido carbónico utilizado para reforzar o gasificar las aguas que se comercialicen envasadas deberá reunir las condiciones que se fijan en el Real Decreto 1917/1997, de 19 de diciembre, por el que se establecen las Normas de Identidad y Pureza de los Aditivos Alimentarios distintos de los Colorantes y Edulcorantes utilizados en los productos alimenticios.
+
+> Se suprime el apartado 4 por el art. único.10 del Real Decreto 1744/2003, de 19 de diciembre. Ref. BOE-A-2003-23814.
