@@ -21,3 +21,5 @@ Artículo 23 bis.6.c)
 Artículo 23 ter.3
 
 «3. El nombramiento de Director-Conservador recaerá en un funcionario de cualquier Administración pública. Una vez nombrado, será adscrito, si no lo estuviera, al Organismo autónomo Parques Nacionales.»
+
+> Se declara la inconstitucionalidad de la redacción dada a los arts. 23.5.c), 23.bis.6 c), 23.ter.3 y lo destacado del 19.3 de la Ley 4/1989, de 27 de marzo, por Sentencias del TC 35 y 36/2005, de 17 de febrero. Ref. BOE-T-2005-4667. y Ref. BOE-T-2005-4668
