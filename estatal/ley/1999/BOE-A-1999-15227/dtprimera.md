@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Archivo de expedientes.
+
+Los expedientes abiertos con anterioridad a la entrada en vigor de esta Ley relativos a la calificación de viviendas de apoyo logístico, incluidos los tramitados en cumplimiento de sentencia y, asimismo, los expedientes de desahucio instruidos por el Instituto para la Vivienda de las Fuerzas Armadas de acuerdo con lo dispuesto en el Real Decreto 1751/1990, de 20 de diciembre, por cualquiera de las causas señaladas en el artículo 9 de esta Ley, aun cuando sobre los mismos haya recaído sentencia firme, se archivarán de oficio, manteniéndose vigentes los expedientes de desahucio incoados por cualquiera de las causas señaladas en el artículo 10 de la presente Ley.

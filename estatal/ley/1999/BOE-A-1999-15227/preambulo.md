@@ -1,0 +1,49 @@
+## JUAN CARLOS I
+
+## REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+
+## EXPOSICIÓN DE MOTIVOS
+
+## I
+
+El dictamen de la Comisión Mixta, no permanente, Congreso de los Diputados-Senado, sobre la fórmula y plazos para la plena profesionalización de las Fuerzas Armadas, aprobado por el Pleno del Congreso de los Diputados el 28 de mayo de 1998 y por el Pleno del Senado el 9 de junio del mismo año, establece un nuevo modelo sustentado en unos principios que suponen un importante e histórico reto. No se trata solamente de dotar con soldados y marineros profesionales a las actuales Fuerzas Armadas, con la consiguiente suspensión del servicio militar, sino de construir los nuevos Ejércitos que España necesita, con gran capacidad de proyección exterior, plenamente operativos y dispuestos para garantizar el cumplimiento de las misiones que el Gobierno les encomiende.
+
+## II
+
+El modelo de Fuerzas Armadas del futuro ha quedado diseñado, con carácter general, en la Ley que regula el régimen de su personal. No obstante, uno de los aspectos singulares de la condición de militar que requiere una definición complementaria con rango de ley es la obligatoria movilidad geográfica derivada de la disponibilidad por razones profesionales. En efecto, la movilidad a lo largo de la trayectoria profesional del militar es una característica o exigencia relevante que contribuye eficazmente a su capacitación y a la operatividad de los Ejércitos. Por ello ha sido tradicional que tanto en nuestro país como en los de nuestro entorno se hayan aplicado a lo largo del tiempo diversas políticas de vivienda militar, orientadas a facilitar la citada movilidad con objeto de asegurar que las unidades militares puedan disponer en todo tiempo de los profesionales adecuados y que éstos puedan desarrollar trayectorias enriquecedoras del propio perfil profesional para responder a las demandas de la organización.
+
+## III
+
+Éste es el momento en que es posible abordar una nueva política, que se plasma en la presente Ley, lo que ya por sí mismo representa una novedad de gran importancia: el Parlamento ha sometido a debate y establecido el modelo de apoyo a la movilidad en los Ejércitos. Hay que tener en cuenta, en este sentido, que en el tema confluyen dos aspectos en los que son deseables una política de estabilidad y acuerdos políticos mayoritarios. Por un lado, todo lo relacionado con las exigencias de la defensa y la operatividad de nuestras Fuerzas Armadas y, por otro, un aspecto sustancial en la vida de cualquier profesional que tenga que estar sometido a frecuentes cambios de domicilio por exigencias de su trabajo.
+
+El principio esencial de esta Ley sigue siendo el tradicional de facilitar la movilidad geográfica del militar en servicio activo mediante el apoyo a sus necesidades de vivienda por cambio de destino y localidad. Ese principio se concreta a través de una compensación económica o, en casos singulares, facilitándole vivienda militar. He aquí con la alteración en el orden en el que se citan los dos tipos de apoyos, compensación o vivienda, y el carácter residual en la concesión de esta última, el cambio sustancial que se pretende introducir con esta Ley. Al militar que cambie de destino y localidad se le reconocerá por un período de tres años como máximo una compensación económica que le permita atender sin grave quebranto los problemas derivados de su movilidad. Únicamente en casos singulares derivados de motivos de operatividad, funcionalidad o seguridad se le adjudicará vivienda militar con el régimen especial que se determina en la propia Ley. En algunos casos dichas razones estarán basadas en la particularidad del puesto que se ocupe y la vivienda militar será inherente al destino; en otros, serán razones objetivas por las características de determinadas viviendas las que aconsejarán su adjudicación, que se producirá en función de las cargas familiares, tiempo de servicios, destinos y otras condiciones específicas de los posibles usuarios que se determinen reglamentariamente. Este régimen especial de aplicación a las viviendas militares quedará excluido del régimen general de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos.
+
+A estos efectos, del actual parque de viviendas se declararán no enajenables aquéllas que, por encontrarse en el interior de instalaciones militares, por razones de seguridad o por necesidades operativas en zonas específicas, se consideren imprescindibles. Solamente estas viviendas podrán ser adjudicadas, en régimen de arrendamiento especial, a partir de la entrada en vigor de esta Ley. Las causas de la pérdida del derecho a su ocupación estarán debidamente tasadas en la propia Ley.
+
+## IV
+
+Hecho el planteamiento general conviene hacer un apunte más. Como ya se ha señalado, se está definiendo un nuevo modelo de Fuerzas Armadas en el que son parte sustancial, además de los militares de carrera, los militares de complemento y los militares profesionales de tropa y marinería. Esta Ley permite dar respuesta a este esquema de personal. Así, el elemento sustancial del apoyo a la movilidad, que es la compensación económica, se facilitará también al militar de complemento y al militar profesional de tropa y marinería que mantiene una relación de servicios de carácter temporal, en las mismas condiciones que al militar de carrera, siempre que hayan cumplido cinco años de tiempo de servicios. El acceso a las viviendas militares en régimen especial, con el carácter residual ya mencionado, queda reservado para el militar de carrera y para el militar profesional de tropa y marinería que mantiene una relación de servicios de carácter permanente que se encuentren en situación de servicio activo o en la de reserva con destino, no siendo aplicable, por la temporalidad de la relación de sus servicios, al resto de los militares profesionales de tropa y marinería ni a los militares de complemento.
+
+## V
+
+Los criterios antedichos podrían llevar a considerar el tratamiento del resto del parque de viviendas militares, que sean declaradas enajenables, como propio de un régimen meramente transitorio. No obstante, hay que considerar su importancia cuantitativa (47.000 viviendas aproximadamente ya que se incluyen en la norma las viviendas administradas por los Cuarteles Generales, las anteriormente denominadas viviendas de servicio y pabellones de cuerpo, plaza y unidad); la diferencia cualitativa de las viviendas por razón de su antigüedad, servicios, habitabilidad y superficie; los problemas derivados de su distribución geográfica a lo largo del territorio nacional con desequilibrios entre la oferta y la demanda actual que impiden una gestión eficiente y, sobre todo, la incidencia que cualquier medida puede tener sobre el gran número de usuarios. Todo ello aconseja regular en el propio articulado de la Ley el derecho de uso de los actuales usuarios de las viviendas militares, al que se le otorga un carácter vitalicio si se trata del titular contractual, alcanzando este derecho, en caso de fallecimiento de aquél, como beneficiarios, al cónyuge conviviente o persona en análoga relación de afectividad, y a los descendientes y ascendientes del titular, en primer grado, en determinadas circunstancias. En los casos que, por sentencia o resolución judicial, las viviendas estén ocupadas por personas distintas del titular del contrato, el derecho de uso del adjudicatario tendrá el alcance que en la misma se determine. Si bien, como es lógico, también se regulan las causas por las que se podrá resolver de pleno derecho el contrato correspondiente.
+
+Además del derecho al uso, en la Ley se incluyen las normas para la enajenación de las viviendas militares y demás inmuebles que no sean declarados de especial interés para la defensa.
+
+Asimismo, resulta conveniente resaltar la racionalización del parque de viviendas que se produce con su agrupación en dos únicas categorías, viviendas militares y pabellones de cargo, integrándose en estos últimos las hasta ahora denominadas viviendas de representación y pabellones de cargo.
+
+## VI
+
+La enajenación de la mayor parte del parque de viviendas militares hará posible mantener el funcionamiento del sistema, hacer frente a los gastos que se generen en el período necesario para el cambio del modelo y, además, los excedentes económicos que se generen se podrán aplicar a coadyuvar en la dotación económica de los procesos de modernización y profesionalización de las Fuerzas Armadas, prioritarios en estos momentos, asegurando el mantenimiento del sistema en el futuro a través de las subvenciones a incluir en los Presupuestos Generales del Estado.
+
+## VII
+
+La Ley establece, además de los requisitos para la venta al usuario de la vivienda militar que esté ocupando, diversas medidas para facilitar el acceso a la propiedad de viviendas de los miembros de las Fuerzas Armadas. Esta política será de aplicación al importante número de militares que en estos momentos no son usuarios y se materializará primándoles en los correspondientes concursos, cuando sea el Ministerio de Defensa el que ponga viviendas enajenables a la venta y, también, mediante ayudas económicas directas o enajenación de suelo a cooperativas integradas, fundamentalmente, por personal militar. Se pretende, con la aplicación de esta Ley, favorecer la igualdad de oportunidades en el acceso a la propiedad de vivienda a los militares de carrera en servicio activo, sean usuarios o no de vivienda militar.
+
+## VIII
+
+Por último, la Ley adapta las funciones del Instituto para la Vivienda de las Fuerzas Armadas a la regulación de la materia, teniendo presentes los nuevos planteamientos de su gestión para la consolidación del sistema y habida cuenta del proceso de cambio que se desarrollará a partir de su entrada en vigor.
