@@ -1,0 +1,3 @@
+## Disposición derogatoria.
+
+Por la presente Orden quedan derogadas las Órdenes de 22 de abril de 1980, por la que se constituye la Comisión General de ENESA, y la Orden de 30 de marzo de 1982, por la que se modifica el número de suplentes en la Comisión General, así como los dos primeros párrafos del punto 1 del artículo 7 de la Orden de 1 de septiembre de 1983, por la que se definen el ámbito de aplicación, las condiciones técnicas mínimas de cultivo, rendimientos, precios y fechas de suscripción en relación con el seguro integral de cereales de invierno en secano comprendido en el Plan Anual de Seguros Agrarios Combinados 1983.
