@@ -1,0 +1,3 @@
+## Disposición final segunda.
+
+Los artículos ciento setenta y cinco a ciento setenta y siete y ciento noventa y ocho a doscientos uno, inclusive, de la presente Ley quedarán derogados a la entrada en vigor de la Ley de Bases del Estatuto de Régimen Local, y se entenderán sustituidos por los preceptos de la misma a que se incorpore el contenido de aquéllos. Lo dispuesto en los artículos ciento ochenta y ocho bis y ciento ochenta y ocho ter de la Ley número diecinueve/mil novecientos setenta y cinco, de dos de mayo, de Reforma de la Ley sobre Régimen del Suelo y Ordenación Urbana de doce de mayo de mil novecientos cincuenta y seis entrará en vigor simultáneamente a la mencionada Ley de Bases del Estatuto de Régimen Local.

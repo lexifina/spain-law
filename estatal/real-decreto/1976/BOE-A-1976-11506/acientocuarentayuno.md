@@ -1,0 +1,5 @@
+## Artículo ciento cuarenta y uno.
+
+Uno. Tramitado el procedimiento expropiatorio en la forma establecida en los artículos anteriores y levantada el acta o actas de ocupación, se entenderá adquirida libre de cargas la totalidad de las fincas comprendidas en la misma por la Administración expropiante, la cual será mantenida en su adquisición una vez que haya inscrito su derecho, sin que quepa ejercitar ninguna acción real o interdictal contra la misma aun cuando posteriormente aparezcan terceros interesados no tenidos en cuenta en el expediente, quienes, sin embargo, conservarán y podrán ejercitar cuantas acciones personales pudieran corresponderles para percibir el justiprecio o las indemnizaciones expropiatorias y discutir su cuantía.
+
+Dos. Si con posterioridad a la inscripción del acta conjunta de ocupación aparecieran fincas o derechos anteriormente inscritos que no se tuvieron en cuenta en el expediente expropiatorio, la Administración expropiante, de oficio o a instancia de parte interesada o del propio Registrador, solicitará de éste que practique la cancelación correspondiente, sin perjuicio de lo dispuesto en el número anterior.

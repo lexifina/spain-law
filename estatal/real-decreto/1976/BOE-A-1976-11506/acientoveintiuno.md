@@ -1,0 +1,3 @@
+## Artículo ciento veintiuno.
+
+Cuando la actuación en determiminados polígonos o unidades de actuación no sea presumiblemente rentable, por resultar excesivas las cargas en relación con el escaso aprovechamiento previsto para las zonas edificables, el Consejo de Ministros, a propuesta del Ministro de la Vivienda y previo dictamen del Consejo de Estado, con audiencia, o en su caso, a instancia de los Ayuntamientos interesados, podrá autorizar, sin modificar las determinaciones del Plan, una reducción de la contribución de los propietarios a las mismas o una compensación económica a cargo de la Administración, procurando equiparar los costes de la actuación a las de otras análogas, que hayan resultado viables.

@@ -1,0 +1,7 @@
+## Artículo ciento uno.
+
+Uno. El Organismo que hubiere aprobado el proyecto de reparcelación expedirá documento con las solemnidades y requisitos dispuestos para las actas de sus acuerdos, en el que se relacionen las propiedades antiguas y sus dueños, según los títulos aportados o, en defecto de éstos, por descripción de las fincas e indicación de sus propietarios, si resultaren conocidos, y descripción de las nuevas parcelas con adjudicación de cada una al respectivo titular. Este documento administrativo se protocolizará notarialmente, sin perjuicio de que también pueda otorgarse escritura pública, en los casos y forma que se señalen reglamentariamente.
+
+Dos. La situación física y jurídica de las fincas o derechos afectados por la reparcelación y la de los resultantes de ellas se reflejará en el Registro de la Propiedad, de acuerdo con lo dispuesto en la legislación hipotecaria en la forma que reglamentariamente se determine.
+
+Tres. Si alguna carga resultare incompatible con la nueva situación o característica de la finca, el Registrador se limitará a hacerlo constar en el correspondiente asiento, y las partes interesadas podrán acudir al Juzgado competente para solicitar la declaración de compatibilidad e incompatibilidad de las cargas o gravámenes sobre las fincas nuevas y, en este último supuesto, su transformación en un derecho de crédito con garantía hipotecaria sobre la finca nueva en la cuantía en que la carga fuera justipreciada.

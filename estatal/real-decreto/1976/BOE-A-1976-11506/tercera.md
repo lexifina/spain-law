@@ -1,0 +1,7 @@
+## Disposición final tercera.
+
+Uno. El Gobierno, cuando las circunstancias lo aconsejen, podrá elevar, por Decreto, previo dictamen del Consejo de Estado, las cuantías de las reservas y las previsiones a que se refieren los artículos doce, uno, b), y trece, dos, b), c), d) y e). Estas cuantías solamente podrán disminuirse cuando circunstancias excepcionales lo exijan, previo dictamen favorable del Consejo de Estado. Igualmente el Gobierno podrá establecer otras reservas y previsiones de naturaleza análoga a propuesta del Ministro de la Vivienda, y en su caso, del titular de este Departamento y del Ministro competente por razón de la materia.
+
+Dos. Se autoriza al Gobierno para establecer, mediante Decreto, los criterios con arreglo a los cuales los Planes Generales hayan de fijar la cuantía de las reservas y previsiones aplicables al suelo urbano o, en su caso, para determinar su cuantía directamente, según las circunstancias urbanísticas de las poblaciones afectadas.
+
+Tres. El Gobierno, por Decreto, a propuesta del Ministerio de la Vivienda, fijará las condiciones y proporción en que se pueda adscribir a la construcción de viviendas de carácter social, la superficie edificable resultante de actuaciones públicas para la creación de suelo urbanizado, correspondiente al aprovechamiento a que se refieren los artículos ochenta y cuatro punto tres y ochenta y cinco punto dos, así como su cesión a precio de costo o inferior, cuando se promuevan las viviendas por Entidades Públicas o sin ánimo de lucro.

@@ -1,0 +1,7 @@
+## Artículo cuarenta y uno.
+
+Uno. Aprobado inicialmente el Plan Parcial, Programa de Actuación Urbanística o Proyecto de Urbanización por la Corporación u Organismo que lo hubiese redactado, éste lo someterá a información pública durante un mes, y transcurrido el plazo, si se tratare de Planes, Programas o Proyectos no redactados por el Ayuntamiento respectivo. se abrirá otro período de igual duración para dar audiencia a las Corporaciones Locales a cuyo territorio afectaren.
+
+Dos. La Corporación u Organismo que hubiere aprobado inicialmente el Plan, Programa o Proyecto en vista del resultado de la información pública lo aprobará provisionalmente con las modificaciones que procedieren y lo someterá a la Autoridad u Organo competente que deba otorgar la aprobación definitiva, a fin de que lo examine en todos sus aspectos y decida en el plazo de seis meses desde el ingreso del expediente en el Registro transcurrido el cual sin comunicar la resolución se entenderá aprobado por silencio administrativo.
+
+Tres. Si la Autoridad u Organo a quien corresponde la aprobación definitiva no la otorgare, señalará las deficiencias de orden técnico y subsiguientes modificaciones que procediere introducir para que, subsanadas por la Corporación u Organismo que hubiere efectuado la aprobación provisional, se eleve de nuevo a dicha aprobación definitiva, salvo que hubiere sido relevada de hacerlo por la escasa importancia de las rectificaciones.
