@@ -1,0 +1,3 @@
+## Disposición final primera. Derecho supletorio.
+
+En lo no regulado expresamente en el presente Real Decreto, resultará de aplicación lo dispuesto en la Ley 30/1992, de 26 de noviembre, sobre Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común; artículos 81 y 82 del texto refundido de la Ley General Presupuestaria; Real Decreto 2225/1993, de 17 de diciembre, por el que aprueba el Reglamento de Procedimiento para la concesión de subvenciones públicas, y Real Decreto 1778/1994, de 5 de agosto, por el que se adecúa a la Ley 30/1992, de 26 de diciembre, las normas reguladoras de los procedimientos de otorgamiento, modificación y extinción de autorizaciones.
