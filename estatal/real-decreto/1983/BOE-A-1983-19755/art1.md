@@ -1,0 +1,5 @@
+## Artículo 1. Definiciones, obligaciones, prohibiciones.
+
+1.1 Se entenderá por materias y elementos necesarios para la producción agroalimentaria, alimentos, productos, útiles, instalaciones, actividades y servicios y por su aptitud e idoneidad para su uso o consumo humano las correspondientes definiciones y precisiones contenidas en el Código Alimentario Español, en las Reglamentaciones Técnico-Sanitarias, en las Normas de Calidad y en las demás disposiciones especiales que, respectivamente, los regulen.
+
+1.2 Quienes realicen su producción, importación, exportación, manipulación, almacenamiento, depósito, distribución, suministro, preparación venta o prestación quedarán sujetos a los requisitos, condiciones, obligaciones y prohibiciones determinados en dicha normativa, a lo establecido en este Real Decreto y, con carácter general, a la obligación de evitar cualquier forma de fraude, contaminación, alteración, adulteración, abuso o negligencia que perjudique o ponga en riesgo la salud pública, la protección del consumidor o los intereses generales, económicos o sociales de la comunidad.
