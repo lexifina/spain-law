@@ -1,0 +1,5 @@
+## Primero.
+
+Cuando se interpongan ante las correspondientes Juntas Electorales escrutadoras recursos contra la resolución por las mismas de las protestas o reclamaciones contra el acto de escrutinio, en los términos a que se refiere el inciso primero del artículo 108.3 de la Ley Orgánica del Régimen Electoral General, las citadas Juntas Electorales escrutadoras habrán de remitir a la Junta Electoral Central, el mismo día o al día siguiente de la interposición de dicho recurso, el expediente completo, encabezado con el recurso seguido del informe de la propia Junta Electoral y del resto del expediente debidamente foliado y sellado en cada una de sus hojas. En el informe de la Junta se hará constar el contenido y el número de folios del expediente.
+
+La remisión del expediente se realizará por el procedimiento más rápido, sin que se admita en ningún caso que tal remisión se realice por medio de telefax. Los gastos de remisión, en caso de que no se utilice el correo oficial, serán sufragados en los términos previstos en el artículo 13.2 de la Ley Orgánica del Régimen Electoral General.

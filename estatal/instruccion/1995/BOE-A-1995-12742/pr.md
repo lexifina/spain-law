@@ -1,0 +1,3 @@
+La Ley Orgánica del Régimen Electoral General instituye en el artículo 108.3 el recurso ante la Junta Electoral Central contra la resolución por la Junta Electoral escrutadora de las reclamaciones y protestas formuladas por los representantes de las candidaturas ante la misma. Dicho recurso se articula con unos plazos perentorios, por lo que se exige la adopción de una serie de medidas instrumentales en orden a su tramitación.
+
+Con dicho fin, y de conformidad con lo establecido en el artículo 19.1.c) de la Ley Orgánica del Régimen Electoral General, la Junta Electoral Central, en su reunión del día de la fecha, aprueba la siguiente Instrucción sobre tramitación de los recursos a que se refiere el artículo 108.3 del citado texto legal:
