@@ -1,5 +1,5 @@
 ## Disposición final tercera. Referencia catastral.
 
-Queda sin efecto lo establecido en el primer párrafo de la disposición transitoria octava de la Ley 13/1996, de Medidas Fiscales, Administrativas y del Orden Social.
+(Derogada)
 
-Mediante Ley se determinará la fecha en que comenzará a exigirse la aplicación de lo establecido en la sección cuarta del capítulo IV del Título I de la citada Ley a los bienes inmuebles rústicos.
+> Se deroga por la disposición derogatoria única.e) del Real Decreto Legislativo 1/2004, de 5 de marzo. Ref. BOE-A-2004-4163

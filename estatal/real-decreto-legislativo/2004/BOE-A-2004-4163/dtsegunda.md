@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Valoración catastral de bienes inmuebles rústicos.
+
+Lo establecido en el título II de esta ley para la determinación del valor catastral queda en suspenso respecto a los bienes inmuebles rústicos hasta que mediante ley se establezca la fecha de su aplicación.
+
+Hasta ese momento, el valor catastral de los referidos bienes será el resultado de capitalizar al tres por ciento el importe de las bases liquidables vigentes para la exacción de la Contribución Territorial Rústica y Pecuaria correspondiente al ejercicio 1989, obtenidas mediante la aplicación de los tipos evaluatorios de dicha contribución, prorrogados en virtud del Real Decreto Ley 7/1988, de 29 de diciembre, o de los que se hayan aprobado posteriormente en sustitución de ellos, y sin perjuicio de su actualización anual mediante los coeficientes establecidos y los que establezcan las Leyes de Presupuestos Generales del Estado, una vez incorporadas las alteraciones catastrales que hayan experimentado o experimenten en cada ejercicio.

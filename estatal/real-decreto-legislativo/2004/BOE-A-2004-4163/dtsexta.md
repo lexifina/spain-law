@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Referencias a la Ley General Tributaria.
+
+Hasta la entrada en vigor de la Ley 58/2003, de 17 de diciembre, General Tributaria, las remisiones a dicha norma contenidas en esta ley se entenderán realizadas a la Ley 230/1963, de 28 de diciembre, General Tributaria, y a la Ley 1/1998, de 26 de febrero, de Derechos y Garantías de los Contribuyentes. En particular, las remisiones contenidas en el apartado 1 del artículo 16, en el apartado 2 del artículo 29 y en los apartados 1 y 2 del artículo 36 de esta ley se entenderán realizadas, respectivamente, al artículo 116, a los apartados 4 y 5 del artículo 105 y a los artículos 111 y 112 de la Ley 230/1963, de 28 de diciembre, General Tributaria.
