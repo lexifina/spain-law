@@ -1,0 +1,17 @@
+## Art. 15. Del uso de armas de caza en las Zonas de Seguridad.
+
+1. En relación con las Zonas de Seguridad, el uso de armas de caza se atendrá a las prohibiciones o condiciones que para cada caso se especifican en los siguientes apartados. No obstante, y con carácter general, se prohíbe disparar en dirección a estas zonas siempre que el cazador no se encuentre separado de ellas por una distancia mayor de la que pueda alcanzar el proyectil o que la configuración del terreno o intermedio sea de tal manera que resulte imposible batir la zona de Seguridad.
+
+a) Carreteras nacionales, comarcales y locales.–Se prohíbe el uso de armas de fuego o accionadas por aire u otros gases, dentro de la Zona de Seguridad y en una faja de 50 metros de anchura que flanquee por derecha e izquierda a los terrenos incluidos en ella.
+
+b) Caminos de uso público no comprendidos en el apartado anterior, vías férreas y canales navegables.–Se prohíbe el uso de armas de caza dentro de la Zona de Seguridad y en una faja de 25 metros de anchura que flanquee por derecha e izquierda a los terrenos incluidos en ella.
+
+c) Núcleos urbanos y rurales, zonas habitadas, villas, jardines, parques destinados al uso público y recintos deportivos.–Se prohíbe el uso de armas de caza dentro de la Zona de Seguridad, salvo en los recintos donde el uso de las mismas, con fines deportivos distintos de la caza, haya sido autorizado por autoridades competentes.
+
+d) Vías pecuarias y aguas públicas con sus cauces y márgenes.–En este caso se permite el uso de armas de caza dentro de las mismas, excepto cuando al hacerlo hubiera peligro para personas, ganado o animales domésticos. No obstante, cuando concurran circunstancias especiales, basadas particularmente en la afluencia de público, de modo permanente o temporal, el Gobernador civil o el Servicio podrán limitar o prohibir la caza en estos lugares, difundiendo públicamente esta decisión y señalizando debidamente los terrenos y aguas afectados por la prohibición. Cuando se trate de vías pecuarias y aguas públicas que atraviesen o linden terrenos sometidos a régimen cinegético especial no se podrá cazar en ellas, excepción hecha del caso en que los titulares de tales terrenos hagan uso de lo dispuesto en el artículo 10.5 del presente Reglamento.
+
+e) Terrenos comprendidos en el artículo 14.2.i).–En la resolución que se dicte sobre declaración de Zonas de Seguridad, se especificarán las limitaciones y prohibiciones aplicables al uso de armas de caza en relación con los terrenos afectados por las mismas.
+
+2. a) En el supuesto de ciertas modalidades de caza, tales como monterías y ojeos, en que se puede determinar de antemano las posturas de los tiradores y cuando las circunstancias de la topografía del terreno lo permitan con toda garantía, se podrá solicitar de las Jefaturas Provinciales del Servicio la reducción de las fajas prohibitivas y las distancias mínimas mencionadas anteriormente, para cuya concesión o denegación deberá, con carácter previo, realizarse un reconocimiento del terreno por personal del Servicio. Las excepciones concedidas al efecto tendrán validez en tanto no se alteren la posición y condiciones de tiro de los puestos, debiéndose hacer una nueva solicitud si cambian, por cualquier causa, tales circunstancias.
+
+b) En todo caso queda prohibido disparar en dirección a los lugares en que se encuentren rebaños, hatos, recuas o cualquier otra concentración de ganado, bien se halle pastando o siendo conducido, salvo que se haga a distancia superior a la del alcance del proyectil.

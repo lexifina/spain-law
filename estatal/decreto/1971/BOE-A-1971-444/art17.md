@@ -1,0 +1,27 @@
+## Art. 17. De los cotos de caza en general.
+
+1. Se denomina coto de caza toda superficie continua de terrenos susceptible de aprovechamiento cinegético que haya sido declarada como tal mediante resolución del Servicio.
+
+2. A los efectos previstos en el párrafo anterior no se considera interrumpida la continuidad de los terrenos susceptibles de constituirse en cotos de caza por la existencia de ríos, arroyos, vías o caminos de uso público, ferrocarriles, canales o cualquier otra construcción de características semejantes; todo ello sin perjuicio del cumplimiento de lo dispuesto en el artículo 15 del presente Reglamento sobre uso de armas de caza en las zonas de seguridad, ni de lo establecido en el artículo 10.5 de este mismo Reglamento.
+
+3. a) La declaración de coto de caza se efectuará a petición de los titulares citados en el artículo sexto del presente Reglamento o, en su caso, a petición de las Entidades patrocinadoras citadas en el artículo 19.1 del mismo. Tal declaración lleva inherente la reserva del derecho de caza de todas las especies cinegéticas que existan en el coto.
+
+b) La solicitud de declaración de coto de caza se presentará en los modelos oficiales que al efecto se establezcan por el Servicio, en la Jefatura Provincial del mismo que corresponda a la ubicación de los terrenos afectados, o en la de la provincia que ocupen mayor extensión si afectan a varias, la cual la elevará con su informe a la resolución de la Jefatura Nacional, que podrá recabar, previamente, el informe de los Consejos Locales y Provinciales de Caza correspondientes. Contra la resolución del Servicio cabrá recurso de alzada ante la Dirección General de Montes, Caza y Pesca Fluvial.
+
+4. Cuando el Servicio estime que la constitución de un coto de caza pueda lesionar otros intereses cinegéticos, públicos o privados, se abstendrá de dictar resolución y, dando audiencia por un plazo no inferior a quince días, previa la publicación oportuna en el Boletín Oficial de las provincias respectivas, a las Entidades y personas afectadas y, preceptivamente, al Consejo Provincial de Caza, elevará el expediente, con su informe, a la Dirección General de Montes, Caza y Pesca Fluvial, la cual, oído, si lo considera oportuno, el Consejo de Pesca Continental, Caza y Parques Nacionales, resolverá lo que estime más conveniente sobre la constitución del acotado. Contra este acuerdo se podrá interponer recurso de alzada ante el Ministerio de Agricultura.
+
+5. Los cotos de caza pueden ser privados, locales y sociales.
+
+6. La señalización de los cotos de caza, cumpliendo lo previsto en el artículo 10.4 de este Reglamento, deberá hacerse de modo muy especial en sus distintos accesos, al objeto de resaltar en estos puntos la condición de acotado inherente a los terrenos incluidos en el mismo.
+
+7. En los cotos de caza las especies cinegéticas deberán estar protegidas y fomentadas, aprovechándose de forma ordenada. A estos efectos el Servicio podrá exigir a los titulares o arrendatarios la confección de un plan de conservación y aprovechamiento cinegético, cuyo cumplimiento será obligatorio una vez que haya sido aprobado por el mencionado Servicio. Por el Servicio se adoptarán las medidas de inspección precisas para asegurar el cumplimiento de lo dispuesto en el inciso primero del presente párrafo.
+
+8. En aquellos cotos de caza en los que existan lugares de paso o parada de aves migratorias, el aprovechamiento de estas especies deberá adaptarse a los planes confeccionados al efecto por el Servicio. Entre las finalidades del plan figurará expresamente la evitación de aprovechamientos abusivos, estableciendo las condiciones precisas para ello.
+
+9. Cuando el propietario o propietarios de los terrenos incluidos en un coto o los titulares del mismo decidan cercarlo, total o parcialmente, deberán hacerlo constar previamente,a efecto cinegéticos, ante la Jefatura Provincial del Servicio, la cual elevará el expediente, con su informe a la Jefatura Nacional que impondrá las condiciones técnicas que a su juicio deba reunir el cerramiento. Contra la resolución del Servicio cabrá recurso de alzada ante la Dirección General de Montes, Caza y Pesca Fluvial. Esta disposición sólo será aplicable a los cerramientos de terrenos aportados voluntariamente al coto por sus titulares y en tanto conserven su condición de acotados.
+
+10. a) Cuando de las inspecciones practicadas por el Servicio en los cotos de caza se desprenda que éstos no cumplen su finalidad de protección, fomento y ordenado aprovechamiento, incoará el oportuno expediente, que, con audiencia de los interesados e informe de los Consejos Locales y Provinciales de Caza correspondientes, elevará, con el suyo propio, a la Dirección General de Montes, Caza y Pesca Fluvial, la cual podrá anular la declaración que autorizaba la creación del coto, todo ello sin perjuicio de las sanciones que pudieran aplicarse a los responsables de las contravenciones que se hayan podido producir.
+
+b) Se incoará análogo expediente cuando los cerramientos a que se refiera el número anterior no cumplan con las condiciones técnicas que hayan sido prescritas por el Servicio.
+
+11. Quedan prohibidos y, por consiguiente, serán nulos, los contratos de subarriendo del aprovechamiento cinegético de los cotos de caza. Asimismo, será nula la cesión a título oneroso o gratuito de los contratos de arrendamiento celebrados al amparo de la Ley de Caza o cualquier otra figura jurídica que pretenda alcanzar las finalidades prohibidas en el presente número.
