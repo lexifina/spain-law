@@ -1,0 +1,3 @@
+## Disposición transitoria quinta.
+
+No obstante lo establecido en la Disposición Adicional Cuarta, los peritos mercantiles o prácticos que en el momento de la entrada en vigor de esta Ley, puedan acreditar mediante certificación expedida por las Secretarías de las Audiencias territoriales respectivas su función como interventores judiciales durante un período no inferior a cinco años, podrán continuar actuando en tal condición, hasta que el Instituto de Contabilidad y Auditoría de Cuentas, según lo establecido en el número 3 de la Disposición Transitoria Primera, resuelva sobre su Inscripción en el Registro Oficial de Auditores de Cuentas.
