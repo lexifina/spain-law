@@ -1,0 +1,7 @@
+## Artículo 9.
+
+1. Cuando se hayan verificado por el órgano competente de las Comunidades Autónomas operaciones contrarias, o que parezcan contrarias, a las legislaciones veterinaria o zootécnica, y presenten un interés particular en el ámbito comunitario, y especialmente cuando tengan, o pudieran tener ramificaciones en otros Estados miembros, o cuando parezca posible que se hayan realizado operaciones similares en otros Estados miembros, se informará de los hechos al Ministerio de Agricultura, Pesca y Alimentación o al Ministerio de Sanidad y Consumo, a fin de comunicar a la Comisión de las Comunidades Europeas, a iniciativa propia o a petición justificada de ésta, todas las informaciones pertinentes, en su caso en forma de documentos o de copias o extractos de documentos, que sean necesarios para el conocimiento de los hechos.
+
+2. Cuando las comunicaciones contempladas en el apartado 1 se refieran a casos que pueden presentar un peligro para la salud humana, y en ausencia de otros medios de prevención, las informaciones en cuestión pueden, previo contacto entre las partes y la Comisión, ser objeto de una información motivada al público.
+
+3. Las informaciones relativas a las personas físicas o jurídicas solamente serán objeto de las comunicaciones contempladas en el apartado 1 en la medida estrictamente necesaria para permitir la comprobación de operaciones contrarias a las legislaciones veterinaria o zootécnica.
