@@ -1,6 +1,6 @@
 ## Artículo ciento cincuenta y seis.
 
-Incurrirán en multa hasta diez mil pesetas, suspensión o pérdida del título aeronáutico, el Comandante de aeronave que incurra en ninguno de los casos siguientes:
+Incurrirán en multa hasta 100.000 pesetas., suspensión o pérdida del título aeronáutico, el Comandante de aeronave que incurra en ninguno de los casos siguientes:
 
 Primero. Tripular la aeronave sin llevar las licencias de personal en forma reglamentaria.
 
@@ -35,3 +35,5 @@ Quince. Realizar el vuelo sin cumplir las disposiciones reglamentarias sobre adu
 Dieciséis. No aterrizar cuando se le ordene o verificar sus entradas o salidas de territorio nacional por aeropuerto no aduanero.
 
 Diecisiete. No presentar, después de aterrizar, la documentación reglamentaria a las autoridades del aeropuerto.
+
+> Se actualiza la cuantía por el art. 4.c) de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.

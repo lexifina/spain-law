@@ -1,5 +1,5 @@
 ## Disposición final segunda.
 
-Quedan derogadas cuantas Leyes y disposiciones se opongan a lo dispuesto en la presente Ley.
+(Derogada)
 
-Dada en el Palacio de El Pardo a veinticuatro de diciembre de mil novecientos sesenta y cuatro.
+> Se deroga por la disposición derogatoria 1 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
