@@ -40,7 +40,7 @@ Las modificaciones aportadas al tipo aprobado deberán recibir una aprobación a
 
 2. Declaración CE de conformidad con el tipo
 
-2.1 La declaración CE de conformidad de tipo es el procedimiento por el cual el fabricante declara que los aparatos fabricados son conformes con el modelo descrito en el certificado de examen CE de tipo y cumplen las exigencias esenciales que le son aplicables. El fabricante deberá presentar una declaración escrita de conformidad y colocará la marca CE en cada aparato. El fabricante conservará la declaración de conformidad, que podrá referirse a cada aparato individual o a varios aparatos. La marca CE deberá ir acompañada del distintivo del organismo de control encargado de los controles imprevistos que se establecen en el punto 2.3.
+2.1 La declaración “CE” de conformidad de tipo es el procedimiento por el cual el fabricante declara que los aparatos fabricados son conformes con el modelo descrito en el certificado de examen “CE” de tipo y cumplen las exigencias esenciales que le son aplicables. El fabricante o su representante legalmente establecido en la Comunidad Europea colocará el marcado “CE” en cada aparato y extenderá una declaración escrita de conformidad. El fabricante conservará la declaración de conformidad, que podrá referirse a cada aparato individual o a varios aparatos. El marcado “CE” deberá ir seguido del número de identificación del organismo de control encargado de los controles imprevistos que se establecen en el apartado 2.3.
 
 2.2 El fabricante adoptará todas las medidas necesarias para que el proceso de fabricación, incluidas la inspección y las pruebas finales del producto, garantice la homogeneidad de la producción y la conformidad de los aparatos con el tipo descrito en el certificado de examen CE de tipo y con las exigencias esenciales aplicables. Un organismo de control elegido por el fabricante, realizará controles de improviso de los aparatos, en la forma prevista en el punto 2.3.
 
@@ -48,7 +48,7 @@ Las modificaciones aportadas al tipo aprobado deberán recibir una aprobación a
 
 3. Declaración de conformidad con el tipo (garantía de calidad de producción)
 
-3.1 El procedimiento de declaración CE de conformidad con el tipo (garantía de calidad de producción) es el procedimiento por el cual un fabricante que haya cumplido las obligaciones establecidas en el apartado 3.2 declara que los aparatos en cuestión son conformes con el tipo descrito en el certificado de examen CE de tipo y cumplen las exigencias esenciales aplicables. El fabricante colocará la marca CE en cada aparato y presentará una declaración escrita de conformidad. El fabricante conservará dicha declaración, que podrá referirse bien a un aparato en concreto bien a varios aparatos. La marca CE deberá ir acompañada del distintivo del organismo de control responsable de la vigilancia CE.
+3.1 El procedimiento de declaración “CE” de conformidad con el tipo (garantía de calidad de la producción) es el procedimiento por el cual un fabricante que haya cumplido las obligaciones establecidas en el apartado 3.2 declara que los aparatos en cuestión son conformes con el tipo descrito en el certificado de examen “CE” de tipo y cumplen las exigencias esenciales aplicables. El fabricante o su representante legalmente establecido en la Comunidad Europea colocará el marcado “CE” en cada aparato y extenderá una declaración escrita de conformidad. El fabricante conservará dicha declaración, que podrá referirse bien a un aparato en concreto bien a varios aparatos. El marcado “CE” deberá ir seguido del número de identificación del organismo de control encargado del control “CE”.
 
 3.2 El fabricante deberá aplicar correctamente un sistema de calidad de la producción que garantice la conformidad de los aparatos con el tipo descrito en el certificado de examen CE de tipo y con las exigencias esenciales aplicables. El fabricante estará sometido a la vigilancia CE tal y como se detalla en el punto 3.4.
 
@@ -104,7 +104,7 @@ El organismo de control examinará las modificaciones propuestas y decidirá si 
 
 4. Declaración CE de conformidad con el tipo (garantía de calidad del producto)
 
-4.1 La declaración CE de conformidad con el tipo (garantía de calidad del producto) es, en cuanto al procedimiento, el acto mediante el cual el fabricante que cumple las obligaciones del apartado 4.2 declara que los aparatos de que se trata son conformes con el tipo descrito en el certificado de examen CE de tipo y cumplen las exigencias esenciales aplicables. El fabricante colocará la marca CE en cada aparato y redactará una declaración escrita de conformidad. El fabricante conservará esta declaración, que podrá referirse a uno o a varios aparatos. La marca CE irá acompañada del símbolo de identificación del organismo de control responsable de la vigilancia CE.
+4.1 La declaración “CE” de conformidad con el tipo (garantía de calidad del producto), es, en cuanto al procedimiento, el acto mediante el cual el fabricante que cumple las obligaciones del apartado 4.2 declara que los aparatos de que se trata son conformes con el tipo descrito en el certificado de examen “CE” de tipo y cumplen las exigencias esenciales aplicables. El fabricante o su representante legalmente establecido en la Comunidad Europea colocará el marcado “CE” en cada aparato y extenderá una declaración escrita de conformidad. El fabricante conservará esta declaración, que podrá referirse a uno o varios aparatos. El marcado “CE” deberá ir seguido del número de identificación del organismo de control encargado del control “CE”.
 
 4.2 El fabricante aplicará un sistema de calidad aprobado para la inspección final de los aparatos y para las pruebas, como se especifica en el punto 4.3 y quedará sometido a la vigilancia CE, como se especifica en el punto 4.4.
 
@@ -156,44 +156,58 @@ El organismo de control examinará las modificaciones propuestas y decidirá si 
 
 4.4.5 El fabricante deberá poder presentar, cuando se le solicite, el informe del organismo de control.
 
-5. Verificación CE
+5. Verificación “CE”
 
-5.1 La verificación CE es el procedimiento mediante el cual un organismo de control declara, previa comprobación, que los aparatos fabricados son conformes con el tipo mencionado en el certificado de examen CE de tipo y cumplen las exigencias esenciales aplicables.
+5.1 La verificación “CE” es el procedimiento mediante el cual el fabricante o su representante legalmente establecido en la Comunidad Europea asegura y declara que los aparatos que cumplen las disposiciones del apartado 3 son conformes al tipo descrito en el certificado de examen “CE” de tipo y cumplen los requisitos pertinentes del presente Real Decreto.
 
-5.2 La verificación CE podrá realizarse, a elección del fabricante, mediante control y prueba de cada aparato como se especifica en el apartado 5.3, o mediante control y prueba del aparato a partir de una base estadística, como se especifica en el punto 5.4.
+5.2 El fabricante tomará todas las medidas necesarias para que el procedimiento de fabricación garantice la conformidad de los aparatos con el tipo descrito en el certificado “CE” de tipo o con los requisitos pertinentes del presente Real Decreto. El fabricante o su representante legalmente establecido en la Comunidad Europea colocará el marcado “CE” en cada uno de los aparatos y extenderá una declaración escrita de conformidad. La declaración de conformidad podrá referirse a uno o a varios aparatos y se encargará de guardarla el fabricante o su representante legalmente establecido en la Comunidad Europea.
 
-5.3 Verificación mediante control y prueba de cada aparato.
+5.3 El organismo de control efectuará los exámenes y pruebas apropiadas para verificar la conformidad del aparato con los requisitos del presente Real Decreto, ya sea, a elección del fabricante, mediante inspección y prueba de cada aparato, como se especifica en el apartado 5.4, o bien mediante inspección y prueba de los aparatos tomando una muestra estadística como se especifica en el apartado 5.5.
 
-5.3.1 Cada aparato se examinará y se realizarán los ensayos adecuados definidos en las normas aplicables contempladas en el artículo 4, o ensayos equivalentes, con objeto de verificar su conformidad con las exigencias esenciales aplicables.
+5.4 Verificación mediante inspección y prueba de cada producto.
 
-5.3.2 El organismo de control colocará la marca CE en cada aparato aprobado y expedirá un certificado escrito de conformidad. El fabricante conservará este certificado, que cubrirá uno o varios aparatos. La marca CE irá acompañada del símbolo de identificación del organismo de control.
+5.4.1 Se examinarán los aparatos uno por uno y se realizarán las pruebas apropiadas definidas en la o las normas aplicables a que se refiere el artículo 4, o bien pruebas equivalentes, para verificar su conformidad con el tipo descrito en el certificado de examen “CE” de tipo y con los requisitos pertinentes del presente Real Decreto.
 
-5.4 Verificación estadística.
+5.4.2 El organismo de control colocará o hará que se coloque su número de identificación en cada aparato aprobado y extenderá un certificado escrito de conformidad referente a las pruebas efectuadas. Dicho certificado de conformidad podrá cubrir uno o varios aparatos.
 
-5.4.1 El fabricante presentará sus aparatos en forma de lotes homogéneos y adoptará todas las medidas necesarias para que el proceso de fabricación garantice la homogeneidad de cada lote producido.
+5.4.3 El fabricante o su representante legalmente establecido en la Comunidad Europea deberán poder presentar, si así se les solicitara, los certificados de conformidad del organismo de control.
 
-5.4.2 Si procediera, el fabricante podrá colocar la marca CE en cada aparato durante el proceso de fabricación. La marca CE irá acompañada del símbolo de identificación del organismo de control responsable de la verificación estadística.
+5.5 Verificación estadística.
 
-5.4.3 Los aparatos se someterán al control estadístico por atributos. Se agruparán en lotes identificables que consistirán en las unidades de un solo modelo y que hayan sido fabricadas en condiciones esencialmente idénticas. Se procederá en intervalos aleatorios al examen de un lote. Los aparatos que constituyan una muestra se examinarán individualmente y se realizarán pruebas adecuadas, definidas en la norma o en las normas aplicables contempladas en el artículo 4, o pruebas equivalentes para determinar la aceptación o el rechazo del lote.
+5.5.1 El fabricante presentará sus aparatos en lotes y tomará todas las medidas necesarias para que el procedimiento de fabricación garantice la homogeneidad de los lotes producidos.
 
-Se aplicará un plan de muestreo con las características de funcionamiento siguientes:
+5.5.2 El procedimiento estadístico utilizará los elementos siguientes:
 
-– Un nivel de calidad estandar correspondiente a una probabilidad de aceptación del 95 por 100 con un porcentaje de no conformidad comprendido entre el 0,5 y el 1,5 por 100.
+Los aparatos estarán sujetos a control estadístico por atributos. Estarán agrupados en lotes identificables que incluirán aparatos de un mismo modelo fabricados en idénticas condiciones. Se procederá al examen de un lote a intervalos indeterminados. Los aparatos que formen parte de un lote serán examinados uno por uno y se realizarán las pruebas apropiadas definidas en la o las normas aplicables a que se refiere el artículo 4, o pruebas equivalentes, para determinar si se acepta o se rechaza el lote.
 
-– Una calidad límite correspondiente a una probabilidad de aceptación del 5 por 100 con un porcentaje de no conformidad comprendido entre el 5 y el 10 por 100.
+Se aplicará un plan de toma de muestras con las siguientes características:
 
-5.4.4 Si se acepta un lote, el organismo de control redactará un certificado de conformidad que conservará el fabricante. Todos los aparatos del lote podrán ser puestos en el mercado excepto los aparatos de muestra respecto a los que se haya comprobado que no son conformes.
+Un nivel de calidad estándar equivalente a una probabilidad de aceptación del 95 por 100, con un porcentaje de no conformidad entre el 0,5 y el 1,5 por 100.
 
-Si se rechaza un lote, el Organismo de control competente adoptará las medidas adecuadas para impedir su puesta en el mercado. En caso de rechazo frecuente de lotes, el Organismo de control podrá suspender la verificación estadística.
+Una calidad límite equivalente a una probabilidad de aceptación del 5 por 100, con un porcentaje de no conformidad situado entre el 5 y el 10 por 100.
 
-6. Verificación CE por unidad
+5.5.3 En los lotes aceptados, el organismo de control colocará o hará que se coloque su número de identificación en cada aparato y extenderá un certificado de conformidad referente a las pruebas efectuadas. Todos los aparatos del lote podrán ser comercializados, excepto los aparatos de la muestra cuya no conformidad se haya comprobado.
 
-6.1 La verificación CE por unidad es el procedimiento mediante el cual un Organismo de control declara, previa comprobación, que un aparato es conforme con los requisitos aplicables. El Organismo colocará la marca CE en el aparato y redactará un certificado de conformidad.
+En el caso de rechazarse un lote, el organismo de control tomará las medidas apropiadas para impedir la comercialización del mismo. En caso de rechazarse lotes frecuentemente, el organismo de control podrá suspender la verificación estadística.
 
-El fabricante deberán conservar dicho certificado.
+El fabricante podrá colocar durante el proceso de fabricación y bajo la responsabilidad del organismo de control, el número de identificación de este último.
 
-6.2 La documentación de diseño, tal y como se especifica en el anexo IV, se pondrá a disposición del Organismo de control.
+5.5.4 El fabricante o su representante legalmente establecido en la Comunidad Europea deberá poder presentar, si así se le solicitara, los certificados de conformidad del organismo de control.
 
-6.3 El aparato será examinado y se llevarán a cabo los ensayos necesarios teniendo en cuenta documentación de diseño para garantizar su conformidad con las exigencias esenciales.
+6. Verificación “CE” por unidad.
 
-Si el Organismo de control lo considerase necesario, los exámenes y ensayos se llevarán a cabo tras la instalación del aparato.
+6.1 La verificación “CE” por unidad es el procedimiento mediante el cual el fabricante o su representante legalmente establecido en la Comunidad Europea asegura y declara que el aparato considerado que ha obtenido el certificado a que se refiere el apartado 2 cumple los requisitos pertinentes del presente Real Decreto. El fabricante o su representante legalmente establecido en la Comunidad Europea colocará el marcado “CE” en el aparato y extenderá una declaración de conformidad por escrito, que deberá conservar.
+
+6.2 El organismo de control examinará el aparato y efectuará las pruebas apropiadas, teniendo en cuenta la documentación de diseño, con el fin de garantizar su conformidad con los requisitos esenciales del presente Real Decreto.
+
+El organismo de control colocará o hará que se coloque su número de identificación en el aparato aprobado y extenderá una declaración escrita de conformidad relativa a las pruebas efectuadas.
+
+6.3 La documentación de diseño a que se refiere el anexo IV tiene por objetivo permitir la evaluación del cumplimiento de los requisitos del presente Real Decreto, así como la comprensión del diseño, la fabricación y el funcionamiento del aparato.
+
+La documentación de diseño a que se refiere el anexo IV deberá estar a disposición del organismo de control.
+
+6.4 Si el organismo de control lo juzgara necesario podrán efectuarse los exámenes y pruebas apropiados después de instalado el aparato.
+
+6.5 El fabricante o su representante deberá estar en condiciones de poder presentar las declaraciones de conformidad del organismo de control en caso de que se le soliciten.
+
+> Se sustituyen los apartados 2.1, 3.1, 4.1, 5 y 6 por el art. único.7 del Real Decreto 276/1995, de 24 de febrero. Ref. BOE-A-1995-7537.
