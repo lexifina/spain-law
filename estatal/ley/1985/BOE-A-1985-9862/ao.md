@@ -18,4 +18,8 @@ f) Los intereses de los fondos procedentes de la emisión de obligaciones que se
 
 g) Los rendimientos de los depósitos en moneda extranjera y de las cuentas extranjeras en pesetas que se satisfagan a no residentes en España, salvo que el pago se realice a un establecimiento permanente, por el Banco de España y Bancos, Cajas de Ahorros, Cajas Rurales y Cooperativas de Crédito y demás establecimientos con funciones delegadas del mismo.
 
+h) Los rendimientos de participaciones hipotecarias que constituyan ingreso de Fondos de Titulización Hipotecaria
+
 2. Las exclusiones a que hace referencia el apartado precedente no impedirán el cumplimiento de las obligaciones de información, en las condiciones que reglamentariamente se establezcan.
+
+> Se añade la letra h) al apartado 1 por el art. 4.2 de la Ley 19/1992, de 7 de julio. Ref. BOE-A-1992-16412
