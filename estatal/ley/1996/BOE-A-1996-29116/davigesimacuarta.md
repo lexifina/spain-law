@@ -1,0 +1,7 @@
+## Disposición adicional vigésima cuarta. Aportaciones del Estado a la financiación del transporte urbano colectivo de superficie de Canarias.
+
+Las aportaciones del Estado a la financiación del transporte urbano colectivo de superficie de Canarias, que se instrumenten a través de los contratos-programa a que se refiere la disposición transitoria cuarta del Real Decreto-ley 12/1995, sobre medidas urgentes en materia presupuestaria, tributaria y financiera, se percibirán, durante el ejercicio 1997, con cargo al crédito 32.23.912C.462, por importe máximo de 3.000 millones de pesetas para el conjunto de las islas, incluidas las cantidades que, en su caso, se hubieran devengado en virtud de la aplicación del artículo 76 de la presente Ley.
+
+La percepción de dichas aportaciones queda condicionada, de acuerdo con lo previsto en el artículo 8 de la Ley 19/1994, de Modificación del Régimen Económico y Fiscal de Canarias, a que se configure el transporte público regular de viajeros como transporte integrado de carácter insular, y cualquiera que sea el importe que se establezca en los correspondientes contratos-programa, no afectará a las subvenciones que correspondan a las demás entidades locales por los servicios de transporte colectivo urbano a que se refiere el citado artículo 76 de la presente Ley.
+
+> Redactado conforme la corrección de errores publicada en BOE núm. 45, de 21 de febrero de 1997. Ref. BOE-A-1997-3796.
