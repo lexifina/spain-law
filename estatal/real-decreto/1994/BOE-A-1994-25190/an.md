@@ -103,6 +103,7 @@
 | - Maestro-Especialidad de Educación Musical. |  |
 | - Maestro-Especialidad de Educación Primaria. | - Profesor de Educación General Básica: |
 |  | * Especialidades Ciencias; Ciencias Humanas; Lengua Española e Idioma Moderno; Filología; y Filología Vasca. |
+|  | * Especialidad: Lenguas |
 | - Maestro-Especialidad de Lengua Extranjera. | - Profesor de Educación General Básica: |
 |  | * Especialidad en Lengua Española e Idioma Moderno. |
 | - Maestro-Especialidad de Educación Física. | - Profesor de Educación General Básica: |
@@ -274,6 +275,7 @@
 |  | * Sección Filología Germánica. |
 |  | ** División Filología: |
 |  | * Sección Filología Anglogermánica. |
+|  | - Licenciado en Filología (especialidad: Alemana) |
 | - Licenciado en Filología Arabe. | - Licenciado en Filología: |
 |  | * Sección Filología Semítica: Especialidades Común, Arabe e Islam y Arabo-islámica. |
 |  | - Licenciado en Filosofia y Letras: |
@@ -281,6 +283,7 @@
 |  | * Sección Filología Semítica: Especialidad Arabo-islámica. |
 |  | ** División Filología: |
 |  | * Sección Filología Arabe e Islámica. |
+|  | - Licenciado en Filología (especialidad: Árabe) |
 | - Licenciado en Filología Catalana. | - Licenciado en Filología: |
 |  | * Sección Filología Catalana, en todas sus especialidades. |
 |  | * Sección Hispánica (Valenciana). |
@@ -311,6 +314,7 @@
 |  | * Sección Filología Moderna: Especialidad Francés. |
 |  | ** División Filología: |
 |  | * Sección Filología Francesa. |
+|  | - Licenciado en Filología: (especialidad: Francesa) |
 | - Licenciado en Filología Gallega. |  |
 | - Licenciado en Filología Hebrea. | - Licenciado en Filología: |
 |  | * Sección Filología Semítica: Especialidades Común, Hebreo y Arameo y Hebraico-bíblica. |
@@ -350,12 +354,14 @@
 |  | * Sección Filología Moderna: Especialidad Inglés. |
 |  | ** División Filología: |
 |  | * Sección Filología Inglesa. |
+|  | - Licenciado en Filología: (especialidad Inglesa) |
 | - Licenciado en Filología Italiana. | - Licenciado en Filología: |
 |  | * Sección Filología Románica (Italiana). |
 |  | * Sección Filología Moderna: Especialidad Italiana. |
 |  | - Licenciado en Filosofía y Letras: |
 |  | ** División Filología: |
 |  | * Sección Filología Románica (Italiano). |
+|  | - Licenciado en Filología (especialidad: Italiana) |
 | - Licenciado en Filología Portuguesa. |  |
 | - Licenciado en Filología Románica. | - Licenciado en Filosofía y Letras: |
 |  | ** División Filología: |
@@ -381,6 +387,7 @@
 |  | - Licenciado en Geografía e Historia: |
 |  | * Sección Geografía, en todas sus especialidades. |
 |  | * Sección Geografía e Historia (Geografía). |
+|  | * Sección Geografía e Historia |
 | - Licenciado en Historia. | - Licenciado en Filosofía y Letras: |
 |  | * Secciones Historia Antigua, Historia Medieval e Historia Moderna y Contemporánea. |
 |  | ** División Geografía e Historia: |
@@ -406,6 +413,9 @@
 |  | * Sección Historia Antigua. |
 |  | * Sección Historia Medieval. |
 |  | * Sección Historia General. |
+|  | * Sección Antropología Cultural |
+|  | * Sección Geografía e Historia |
+|  | * Sección Prehistoria y Arqueología |
 | - Licenciado en Historia del Arte. | - Licenciado en Filosofía y Letras: |
 |  | ** División Geografía e Historia: |
 |  | * Sección Historia del Arte, en todas sus especialidades. |
@@ -418,5 +428,7 @@
 | - Licenciado en Lingüística. |  |
 | - Licenciado en Teoría de la Literatura y Literatura Comparada. |  |
 | - Licenciado en Traducción e interpretación. |  |
+
+> Se modifican los apartados II y IV por el apartado 1 de la Orden de 6 de mayo de 1997. Ref. BOE-A-1997-10406.
 
 > Se modifica el apartado IV por el apartado 1 de la Orden de 29 de noviembre de 1995. Ref. BOE-A-1995-26470.
