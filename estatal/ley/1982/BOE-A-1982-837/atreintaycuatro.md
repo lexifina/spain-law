@@ -1,12 +1,16 @@
 ## Artículo treinta y cuatro
 
-Las categorías de la Carrera Fiscal serán las siguientes:
+Las categorías de la carrera fiscal serán las siguientes:
 
-1.ª Fiscales de la Sala del Tribunal Supremo, equiparados a Magistrados del Alto Tribunal. El Teniente Fiscal del Tribunal Supremo tendrá la consideración de Presidente de Sala.
+1.ª Fiscales de Sala del Tribunal Supremo, equiparados a Magistrados del Alto Tribunal. El Teniente Fiscal del Tribunal Supremo tendrá la consideración de Presidente de Sala.
+
+El Fiscal Jefe de la Secretaría Técnica tendrá la consideración de Fiscal de Sala en los términos previstos en el artículo 16.
 
 2.ª Fiscales equiparados a Magistrados.
 
-3.ª Abogados-Fiscales equiparados a Jueces.
+3.ª Abogados-fiscales equiparados a Jueces.
+
+> Se modifica por el art. único.11 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
 
 > Se modifica por la disposición adicional 9 de la Ley Orgánica 6/1985, de 1 de julio. Ref. BOE-A-1985-12666
 

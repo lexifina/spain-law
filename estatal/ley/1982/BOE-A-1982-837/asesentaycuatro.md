@@ -1,17 +1,17 @@
 ## Artículo sesenta y cuatro
 
-Se considerarán faltas leves:
+Se consideran faltas leves:
 
-Uno. La falta de respeto a los superiores jerárquicos o a los Juzgados o Tribunales que no constituyan falta grave.
+1. La falta de respeto a los superiores jerárquicos cuando no concurran las circunstancias que calificarían la conducta de falta grave.
 
-Dos. La desconsideración con los iguales o interiores en jerarquía, con los Abogados y Procuradores, con los Secretarios y Auxiliares de los Juzgados y Tribunales o de las Fiscalías o con los particulares que acudieren a los mismos en cualquier concepto.
+2. La desatención o desconsideración con iguales o inferiores en el orden jerárquico, con los ciudadanos, jueces y magistrados, fiscales, secretarios, médicos forenses, oficiales, auxiliares y agentes, abogados y procuradores, graduados sociales, funcionarios de la policía judicial y demás personal al servicio de la Administración de Justicia.
 
-Tres. El retraso en el despacho de los asuntos cuando no constituya falta grave.
+3. El incumplimiento injustificado o inmotivado de los plazos legalmente establecidos en el despacho de los asuntos que tenga encomendados.
 
-Cuatro. La inasistencia injustificada a un juicio o Vista que estubieren señalados, siempre que no constituya falta grave.
+4. La ausencia injustificada de uno a tres días naturales de la sede de la Fiscalía o adscripción en que el fiscal se halle destinado.
 
-Cinco. La ausencia injustificada por menos de tres días del lugar en que presten servicio.
+5. La simple recomendación de cualesquiera asuntos de que conozcan los juzgados y tribunales.
 
-Seis. La simple recomendación de cualesquiera asuntos de que conozcan los Juzgados y Tribunales.
+6. La desatención a las órdenes, requerimientos u observaciones verbales recibidas de sus jefes, salvo que constituya una infracción más grave, conforme a lo prevenido en los dos artículos anteriores.
 
-Siete. Las restantes infracciones de los deberes propios de su cargo o la negligencia en el cumplimiento de los mismos, cuando no mereciere la calificación de grave.
+> Se modifica por el art. único.21 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
