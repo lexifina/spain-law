@@ -1,0 +1,1 @@
+## Control después del tiro
