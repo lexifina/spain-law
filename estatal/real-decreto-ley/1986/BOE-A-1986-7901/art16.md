@@ -6,7 +6,7 @@
 
 a) Deducción por dividendos del 100 por 100, cuando tales dividendos provengan de acciones que no reúnan los requisitos mínimos previstos en el artículo 32 del Reglamento de las Bolsas Oficiales de Comercio, y cualquiera que sea el grado de participación sobre la Entidad que distribuya los referidos rendimientos.
 
-b) Exención parcial de los incrementos de patrimonio que obtengan de la enajenación de acciones y participaciones en el capital de las empresas en que participen de acuerdo con la siguiente escala de coeficientes, según el año de enajenación computado desde el momento de la adquisición:
+b) Exención parcial de los incrementos de patrimonio que obtengan de la enajenación de acciones y participaciones en el capital de las empresas en que participen, de acuerdo con la siguiente escala de coeficientes, según el año de enajenación computado desde el momento de la adquisición:
 
 I. A partir del tercer año y hasta el sexto incluido, el 0,99.
 
@@ -15,5 +15,9 @@ II. Los años séptimo y octavo, el 0,80.
 III. Los años noveno y décimo, el 0,50.
 
 Los dos primeros años y a partir del undécimo no se aplicará exención.
+
+> Se modifica el apartado 2.b) por el art. 8.3 de la Ley 28/1992, de 24 de noviembre. Ref. BOE-A-1992-26147.
+
+> Téngase en cuenta que ya fue modificado por el Real Decreto-Ley 5/1992, de 21 de julio.
 
 > Se modifica el apartado 2.b) por el art. 8.3 del Real Decreto-Ley 5/1992, de 21 de julio. Ref. BOE-A-1992-17364.
