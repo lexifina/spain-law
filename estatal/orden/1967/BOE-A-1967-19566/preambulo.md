@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en el BOE núm. 267, de 8 de noviembre de 1967. Ref. BOE-A-1967-19569.
+Téngase en cuenta que se derogan las previsiones contenidas en esta Orden que hacen referencia a los casos de maternidad, según establece la disposición derogatoria única.b) del Real Decreto 1251/2001, de 16 de noviembre. Ref. BOE-A-2001-21491.

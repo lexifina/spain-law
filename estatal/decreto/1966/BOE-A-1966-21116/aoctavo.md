@@ -1,5 +1,5 @@
 ## Artículo octavo. Normas comunes a los periodos de descanso por maternidad.
 
-Uno. Una vez comenzado el descanso anterior al parto, tanto si tiene carácter voluntario como obligatorio, de acuerdo con lo previsto en los dos artículos anteriores, la beneficiaría no podrá volver al trabajo hasta que hayan transcurrido las seis semanas de descanso obligatorio posterior al parto.
+(Derogado)
 
-Dos. Lo dispuesto en el número anterior será de aplicación aunque el parto sobrevenga después de la fecha prevista por el Médico.
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 1251/2001, de 16 de noviembre. Ref. BOE-A-2001-21491.
