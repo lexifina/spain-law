@@ -1,0 +1,45 @@
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+PREÁMBULO
+
+La doctrina del Tribunal Constitucional en una ya abundante jurisprudencia, cuya más reciente expresión se halla en las sentencias números 178/1994, de 16 de junio, y 195/1994, de 28 de junio, ha definido los límites que impone la Constitución Española, en su artículo 134, a las Leyes anuales de Presupuestos.
+
+Así, la Ley de Presupuestos posee un contenido mínimo, necesario e indisponible, constituido, por la previsión anual de la totalidad de los gastos e ingresos del sector público y la consignación del importe de los beneficios fiscales que afecten a los tributos del Estado. A dicha materia puede unirse, eventualmente, la regulación de otras cuestiones, siempre que éstas tengan relación directa con las previsiones de ingresos y las habilitaciones de gastos que integran los Presupuestos o con los criterios de política económica en que se sustentan y, además, sean complemento necesario tanto para la mayor inteligencia, como para la mejor y más eficaz ejecución de los propios Presupuestos y, en general, de la política económica del Gobierno de la Nación. Este contenido eventual, en cualquier caso, no ha de afectar a normas de derecho codificado.
+
+Junto a aquellos contenidos, la Ley de Presupuestos puede incluir modificaciones en los elementos de los tributos del Estado, cuando una Ley tributaria sustantiva así lo prevea.
+
+El contenido de la Ley de Presupuestos Generales del Estado para 1995, en consonancia con el mandato constitucional recogido en esta doctrina, se ha reducido considerablemente, como ya sucediera en el año precedente incorporándose a otra Ley la regulación de materias, que aun siendo instrumento eficaz para el cumplimiento de los objetivos de la política del Gobierno, su inclusión en la Ley anual de Presupuestos pudiera ser discutida.
+
+Por lo demás, la Ley responde a la voluntad de consolidar la recuperación de la economía española, iniciada en el año 1994, en un entorno internacional de mayor estabilidad monetaria, más favorable a la competitividad de nuestros productos.
+
+Así la cosas, el mantenimiento de la orientación actual de la política económica, en condiciones que permitan iniciar una nueva fase de crecimiento y expansión sobre bases más sólidas, hacen necesario, en el ámbito de las finanzas públicas, perseverar en el esfuerzo de austeridad iniciado por anteriores leyes de Presupuestos, a fin de situar el déficit público en niveles razonables, en convergencia con las economías de los demás Estados comunitarios, conjugando para ello los efectos de esa nueva etapa de crecimiento con la progresiva corrección de los desajustes estructurales que aún aquejan a nuestro sistema económico.
+
+El control del gasto público se compatibiliza, no obstante, con el mantenimiento de los niveles de protección social existentes y, de igual manera, con el desarrollo y dotación de infraestructuras, factor decisivo para el aumento de la productividad y el crecimiento equilibrado de la economía.
+
+De conformidad con ese espíritu o voluntad legislativa, pueden destacarse los siguientes aspectos de la Ley de Presupuestos para 1995.
+
+En el Título I, se reitera la limitación al reconocimiento de obligaciones que, introducida en la Ley de Presupuestos Generales del Estado para 1990, ha ido reproduciéndose desde entonces en las sucesivas leyes de presupuestos, si bien en este ejercicio se excluyen de su ámbito de aplicación los créditos ampliables destinados a efectuar liquidaciones a las Comunidades Autónomas por su participación en los ingresos del Estado.
+
+La perspectiva de crecimiento, permite en 1995 un incremento de las remuneraciones del personal al servicio del sector público, en consonancia con el IPC previsto. Dicho incremento es de aplicación, de acuerdo con lo dispuesto en los artículos 149.1.13 y 156.1 de la Constitución, además de a los funcionarios y personal laboral del sector estatal, al personal al servicio de las Comunidades Autónomas y de las Entidades Locales.
+
+En materia de pensiones públicas, concepto que comprende a cuantas prestaciones de tal naturaleza se financien total o parcialmente por el sector público, las disposiciones de la Ley hacen compatibles el principio de solidaridad con los sectores más débiles de la sociedad y el control del gasto público, por lo que, a la par que se incrementa cuantitativamente el importe de la mismas con el fin de mantener el poder adquisitivo de los pensionistas, se establece un límite máximo en su percepción como medio de hacer efectivo aquel control.
+
+En materia tributaria, las normas contenida en la Ley se dirigen, fundamentalmente, a acompasar el sistema fiscal a la evolución de la inflación, modificando y actualizando la regulación de los diversos impuestos en consonancia con el aumento experimentado por aquélla.
+
+Así, en el Impuesto sobre la Renta de las Personas Físicas, se deflactan las escalas de tributación individual y conjunta. Se actualizan la deducciones familiares, personales y por trabajo dependiente y se incrementa la deducción por hijos a partir del tercero, favoreciendo con ello a las familias numerosas. Por último se reduce el coeficiente que ha de aplicarse para la determinación de los rendimientos íntegros de los bienes inmuebles de uso propio, cuyos valores hayan sido objeto de revisión catastral, atenuando, así, los efectos de dicha revisión de valores.
+
+En el Impuesto sobre el Patrimonio, se deflacta la tarifa y se aumenta el mínimo exento, que pasa de quince a diecisiete millones de pesetas. Así mismo, se eleva en la misma cuantía la cantidad determinante de la obligación de presentar declaración.
+
+En el Impuesto sobre Sociedades, amén de adecuar los tipos de gravamen a las previsiones contenidas en la Ley de Fundaciones y de incentivos fiscales a la participación privada en actividades de interés general, se prorroga la vigencia de las normas que regulan tanto el régimen de tributación de los no residentes, como los pagos a cuenta de dicho impuesto, al mismo tiempo que se reitera, para el ejercicio de 1995, las modificaciones introducidas, por la Ley de Presupuestos Generales del Estado para 1994, en las deducciones por inversión, creación de empleo y gastos de formación profesional, que han resultado ser un instrumento idóneo para promover el desarrollo de la actividad empresarial, la mejora de la productividad y, en definitiva, la disminución del desempleo.
+
+Por lo que se refiere a la imposición indirecta, en el Impuesto sobre el Valor Añadido, los servicios de los hoteles de cinco estrellas y de los restaurantes de cuatro y cinco tenedores, y los transportes de viajeros y equipajes entre la península y la islas Baleares, pasan a ser gravados con el tipo reducido.
+
+En lo atinente a las Haciendas territoriales, de acuerdo con el artículo 112 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, se fija el porcentaje de participación de los Municipios en los tributos del Estado para el quinquenio 1994 a 1998; determinándose, así mismo, los porcentajes definitivos de participación en los ingresos del Estado de las Comunidades Autónomas aplicables a partir del 1 de enero de 1995.
+
+Por último, la Ley, en su Título VIII, efectúa una reducción de las cotizaciones sociales, equivalente a la minoración de un punto de cotización distribuido proporcionalmente entre empresas y trabajadores. La rebaja en los ingresos que para el presupuesto de la Seguridad Social se produce por la reducción de las cotizaciones sociales se ve compensada por una mayor aportación del presupuesto del Estado de 204.289 millones de pesetas, mayor aportación que se adscribe a la financiación de la asistencia sanitaria prestada por el Instituto Nacional de la Salud.
+
+Con la medida anterior se continúa el proceso de reforma de la estructura financiera del sistema de la Seguridad Social, iniciado en el ejercicio 1989, que tiene como finalidad que, de forma progresiva, las prestaciones de naturaleza no contributiva y de ámbito universal se financien mediante impuestos, mientras que las prestaciones de naturaleza contributiva tengan su financiación a través de cotizaciones sociales. Además con la medida proyectada se reducen los costes laborales de las empresas, favoreciendo la política de mantenimiento de la ocupación y de creación de nuevos empleos, objetivos prioritarios del Gobierno.
+
+En cuanto al resto de las cotizaciones sociales, se mantienen los tipos actualmente vigentes. No obstante, dado que el objetivo del Gobierno en materia presupuestaria, es el de conseguir el equilibrio de ingresos y gastos para cada uno de los agentes que se integran en la Administración Central, especialmente, en el caso del INEM, si las circunstancias económicas que se produjeran a lo largo del ejercicio impidiesen el mantenimiento de dicho equilibrio financiero, podría ser necesario llevar a cabo las medidas correctoras oportunas en el ámbito de las cotizaciones por desempleo.

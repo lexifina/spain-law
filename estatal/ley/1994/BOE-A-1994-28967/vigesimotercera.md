@@ -1,0 +1,3 @@
+## Disposición adicional vigésimo tercera. Remisión de información sobre empresas del Grupo INI y del Grupo INH.
+
+De acuerdo con lo establecido en el artículo 6, Tres de la presente Ley, el Gobierno remitirá a las Comisiones de Presupuestos del Congreso de los Diputados y del Senado la relación de las empresas del Grupo INI y del Grupo INH en las que se tenga una participación superior al 20 por 100 de las acciones por parte de los referidos entes, así como la especificación y desglose del presupuesto de ingresos y gastos o cuenta de explotación de cada una de estas empresas que reciban aportaciones de capital del Grupo INI o del Grupo INH.

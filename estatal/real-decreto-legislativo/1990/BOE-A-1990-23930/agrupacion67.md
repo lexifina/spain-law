@@ -150,6 +150,8 @@ Nota: En este epígrafe se clasificarán las denominadas tabernas.
 
 Nota común a los grupos 671, 672 y 673: Los sujetos pasivos matriculados en los epígrafes de estos grupos están facultados para vender, en el propio establecimiento, los productos objeto del respectivo servicio.
 
+Nota común a los grupos 672 y 673: Los sujetos pasivos que presten servicios de cafetería y bar en régimen de concesión en los centros de la tercera edad dependientes de instituciones públicas, satisfarán el 50 por 100 de la cuota correspondiente.
+
 ## Grupo 674. Servicios especiales de restaurante, cafetería y café-bar.
 
 Epígrafe 674.1 Servicio en vehículos de tracción mecánica.
@@ -263,6 +265,10 @@ Cuota mínima municipal de:
 – En las poblaciones restantes: 14.000 pesetas.
 
 Nota: Este epígrafe comprende los servicios de alimentación consistentes en la condimentación y venta de alimentos para ser consumidos fuera del lugar de elaboración en raciones o al por mayor, así como cuando los productos elaborados se destinen al servicio de «catering» o de colectividades.
+
+> Se añade una nota común a los grupos 672 y 673 por el art. 76.1.7 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+
+> Téngase en cuenta para su aplicación el art. 76.3.
 
 > Se modifica el epígrafe 674.6 por el art. 72.1.5 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 

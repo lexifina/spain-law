@@ -1,0 +1,5 @@
+## Disposición adicional trigésima. Pago de deudas con la Seguridad Social cuya titularidad ostenten las Administraciones Públicas o instituciones sin ánimo de lucro.
+
+1. Para el pago de las deudas con la Seguridad Social, causada hasta el 31 de diciembre de 1994 por instituciones sanitarias cuya titularidad ostenten las Administraciones Públicas o instituciones públicas o privadas sin ánimo de lucro, se concederá una moratoria de diez años sin interés y con tres años más de carencia, condonándose a las citadas instituciones sanitarias todos los recargos de cualquier naturaleza existentes al 31 de diciembre de 1994.
+
+2. La falta de ingreso, a su vencimiento, de cualquiera de las cantidades objeto de la moratoria así como de las cuotas de la Seguridad Social y conceptos de recaudación conjunta devengados con posterioridad al 1 de enero de 1995, durante el período de carencia y los años de la moratoria, dará lugar a la resolución de la misma así como de los conciertos de asistencia sanitaria suscritos, en su caso, entre la institución sanitaria deudora y la Administración Pública Autonómica o Institucional.

@@ -130,7 +130,7 @@ Epígrafe 615.3 Comercio al por mayor de aparatos electrodomésticos y ferreter�
 
 Cuota de: 97.000 pesetas.
 
-Nota: Este epígrafe comprende el comercio al por mayor de aparatos electrodomésticos y sus piezas y accesorios, así como de artículos de ferretería, cuchillería, cubertería, utensilios metálicos, herramientas de mano, fumistería y fontanería, aparatos de uso doméstico no eléctricos, etc.
+Nota: Este epígrafe comprende el comercio al por mayor de aparatos electrodomésticos y sus piezas y accesorios, de artículos de ferretería, trefilería y cable, cerrajería, herrajes, metalistería, tornillería, cadenas y metrología, grifería, cuchillería y sus similares cortantes, herramientas de toda clase, sean o no eléctricas, así como sus accesorios y recambios, maquinaria electro-portátil, instrumentos de metal, material eléctrico y de fontanería, artículos de seguridad, cubertería, artículos de mesa y cocina, siempre que en su fabricación no se empleen metales preciosos, aparatos de uso doméstico, sean o no eléctricos, llaves en bruto y mecanizadas, estanterías, bancos de trabajo y armarios metálicos, utensilios de plástico y materiales para la práctica de bricolage.
 
 Epígrafe 615.4 Comercio al por mayor de aparatos y materiales radioeléctricos y electrónicos.
 
@@ -145,6 +145,18 @@ Notas:
 Epígrafe 615.5. Comercio al por mayor de obras de arte y antigüedades.
 
 Cuota de: 60.000 pesetas.
+
+Epígrafe 615.6: Galerías de Arte.
+
+Cuota de: 61.000 pesetas.
+
+Nota: este epígrafe comprende:
+
+– La exposición y exhibición de obras de arte y antigüedades, así como el comercio, mayor y menor, la importación y exportación y la intermediación en el comercio, bajo cualquier modalidad, de dichos objetos.
+
+– La cesión esporádica a terceros, por cualquier título, de los locales de las galerías de arte para ser usados por aquéllos en la realización de actos culturales y análogos.
+
+– La prestación de servicios culturales clasificados en el epígrafe 966.9 de esta Sección.
 
 Epígrafe 615.9 Comercio al por mayor de otros artículos de consumo duradero no especificados en los epígrafes anteriores.
 
@@ -280,7 +292,7 @@ Epígrafe 619.3 Comercio al por mayor de metales preciosos, artículos de joyer�
 
 Cuota de: 181.100 pesetas.
 
-Nota: Los sujetos pasivos que realicen el comercio al por mayor de bisutería ordinaria exclusivamente, entendiendo por tal la que no incorpore metales o piedras preciosos ni perlas, tributarán al 50 por 100 de la cuota anterior.
+Nota: Los sujetos pasivos que realicen el comercio al por mayor de bisutería ordinaria exclusivamente, entendiendo por tal la que no incorpore metales o piedras preciosas ni perlas, tributarán al 50 por 100 de la cuota anterior. La misma reducción de las cuotas en el 50 por 100 se aplicará al comercio al por mayor de relojería exclusivamente.
 
 Epígrafe 619.4 Comercio al por mayor de productos de papel y cartón.
 
@@ -307,6 +319,12 @@ Epígrafe 619.9 Comercio al por mayor de otros productos n.c.o.p.
 Cuota de: 106.800 pesetas.
 
 Nota: Este epígrafe comprende el comercio al por mayor de productos no especificados en los epígrafes anteriores del grupo «Otro comercio al por mayor no especificado en los grupos 612 al 618» (619).
+
+> Se modifican los epígrafes 615.3 y 619.3 y se añade el 615.6 por el art. 76.1.1, 2 y 12 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+
+> Téngase en cuenta para su aplicación el art. 76.3.
+
+> Redactado el epígrafe 615.6 conforme a la corrección de errores publicada en BOE núm. 38, de 14 de febrero de 1995. Ref. BOE-A-1995-3864.
 
 > Se modifica el epígrafe 612.9 por el art. 72.1.2 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 

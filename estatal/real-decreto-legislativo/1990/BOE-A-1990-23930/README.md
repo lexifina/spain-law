@@ -71,6 +71,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Agrupación 67](agrupacion67.md)
 - [Agrupación 68](agrupacion68.md)
 - [Agrupación 69](agrupacion69.md)
+- [(Notas comunes)](notascomunes.md)
 - [DIVISIÓN 7](division7.md)
 - [Agrupación 71](agrupacion71.md)
 - [Agrupación 72](agrupacion72.md)

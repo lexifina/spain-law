@@ -222,6 +222,8 @@ Asimismo, comprende la venta al por menor, como complemento, de cuadros, lámpar
 
 2.ª Los sujetos pasivos matriculados en este epígrafe podrán ejercer la venta al por menor de los productos comprendidos en el epígrafe 651.1, satisfaciendo el 50 por ciento de la cuota asignada al mismo.
 
+3.ª En los locales en los que se ejerza la actividad clasificada en este epígrafe, la deducción a que se refiere la letra c) de la regla 14.ª1.F) de la Instrucción del impuesto será en todo caso del 20 por 100.
+
 Epígrafe 653.2 Comercio al por menor de material y aparatos eléctricos, electrónicos, electrodomésticos y otros aparatos de uso doméstico accionados por otro tipo de energía distinta de la eléctrica, así como de muebles de cocina.
 
 Cuota mínima municipal de:
@@ -490,7 +492,7 @@ Nota: Este Grupo comprende el comercio al por menor de papel pautado de música 
 
 ## Grupo 659. Otro comercio al por menor.
 
-Epígrafe 659.1 Comercio al por menor de sellos, monedas, medallas conmemorativas, billetes para coleccionistas, obras de arte y antigüedades, minerales sueltos o en colecciones, fósiles, insectos, conchas, plantas y animales disecados.
+Epígrafe 659.1 Comercio al por menor de sellos, monedas, medallas conmemorativas, billetes para coleccionistas, minerales sueltos o en colecciones, fósiles, insectos, conchas, plantas y animales disecados.
 
 Cuota mínima municipal de:
 
@@ -504,7 +506,7 @@ Cuota mínima municipal de:
 
 – En las poblaciones restantes: 11.000 pesetas.
 
-Nota: Este epígrafe faculta para el comercio al por mayor de los artículos clasificados en el mismo, excepto obras de arte y antigüedades.
+Nota: este epígrafe faculta para el comercio al por mayor de los artículos clasificados en el mismo.
 
 Epígrafe 659.2 Comercio al por menor de muebles de oficina y de máquinas y equipos de oficina.
 
@@ -624,23 +626,29 @@ Notas:
 
 2.ª Se clasificarán en este epígrafe las prestaciones de los expresados servicios, sin comercio al por menor, en cuyo caso se satisfará una cuota de 30.000 pesetas.
 
-Epígrafe 659.9 Comercio al por menor de otros productos no especificados en esta agrupación, excepto los que deben clasificarse en el epígrafe 653.9.
+Epígrafe 659.9 Comercio al por menor de otros productos no especificados en esta Agrupación, excepto los que deban clasificarse en el epígrafe 653.9.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 151.000 pesetas.
+En poblaciones de más de 500.000 habitantes: 96.000 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 120.000 pesetas.
+En poblaciones de más de 100.000 a 500.000 habitantes: 78.000 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 90.000 pesetas.
+En poblaciones de más de 40.000 a 100.000 habitantes: 60.000 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 62.000 pesetas.
+En poblaciones de más de 10.000 a 40.000 habitantes: 42.000 pesetas.
 
-– En las poblaciones restantes: 35.000 pesetas.
+En las poblaciones restantes: 24.000 pesetas.
 
 Nota común a las agrupaciones 64 y 65:
 
-Cuando los locales en los que se ejerzan las actividades clasificadas en las agrupaciones 64 y 65 tengan una superficie computable igual o inferior a 50 metros cuadrados, la cuota de los grupos o epígrafes correspondientes será el 50 por 100 de la señalada en cada caso.
+Cuando los locales en los que se ejerzan las actividades clasificadas en las Agrupaciones 64 y 65 tengan una superficie computable inferior a 50 metros cuadrados, la cuota de los grupos o epígrafes correspondientes será el 50 por 100 de la señalada en cada caso. Cuando dicha superficie computable se encuentre comprendida entre 50 y 70 metros cuadrados la cuota de los grupos o epígrafes correspondientes será el 80 por 100 de la señalada en cada caso.
+
+> Se modifica por el art. 76.1.3, 4 y 11 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+
+> Téngase en cuenta para su aplicación el art. 76.3.
+
+> Se modifica el epígrafe 659.9 por la disposición adicional 17.2 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.
 
 > Se modifica por el art. 72.1.3, 4 y 16 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 

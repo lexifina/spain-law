@@ -36,11 +36,11 @@ f) Las actividades de prestación de servicios, cuando los mismos no se presten 
 
 Tratándose de la actividad de alquiler o venta de bienes inmuebles, el lugar de realización de aquélla será el término municipal en el que radiquen los bienes objeto de la misma. Los sujetos pasivos por la actividad de alquiler de bienes inmuebles satisfarán:
 
-– Una sola cuota por la totalidad de los bienes inmuebles de naturaleza urbana destinados a vivienda, sitos en el mismo término municipal, acumulando, a tal fin, los valores catastrales correspondientes a todos ellos.
+Una sola cuota por la totalidad de los bienes inmuebles de naturaleza urbana destinados a vivienda, acumulando, a tal fin, los valores catastrales correspondientes a todos ellos.
 
-– Una sola cuota por la totalidad de los bienes inmuebles de naturaleza urbana destinados a locales industriales y otros alquileres, sitos en el mismo término municipal, acumulando, a tal fin, los valores catastrales correspondientes a todos ellos; y,
+Una sola cuota por la totalidad de los bienes inmuebles de naturaleza urbana destinados a locales industriales y otros alquileres, acumulando, a tal fin, los valores catastrales correspondientes a todos ellos; y,
 
-– Una sola cuota por la totalidad de los bienes inmuebles de naturaleza rústica, sitos en el mismo término municipal, acumulando, a tal fin, los valores catastrales correspondientes a todos ellos.
+Una sola cuota por la totalidad de los bienes inmuebles de naturaleza rústica acumulando, a tal fin, los valores catastrales correspondientes a todos ellos.
 
 3. El lugar de realización de las actividades profesionales será:
 
@@ -49,5 +49,7 @@ a) Cuando las actividades se ejerzan en local determinado, el término municipal
 b) Cuando la actividad no se realice en local determinado, el término municipal en el que tenga su domicilio fiscal el sujeto pasivo.
 
 4. El lugar de realización de las actividades artísticas será el término municipal en el que tenga su domicilio fiscal el sujeto pasivo.
+
+> Se modifica el párrafo segundo del apartado 2.B).f) por el art. 76.2.1 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
 
 > Se modifica el apartado 2.B).c) por el art. 78.2.1 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
