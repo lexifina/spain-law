@@ -114,6 +114,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional quinta](daquinta.md)
 - [Disposición adicional sexta](dasexta.md)
 - [Disposición transitoria única](dtunica.md)
+- [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final única](dfunica.md)
 - [firma](firma.md)
