@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Cortes Generales y Junta Electoral Central.
+
+Las referencias que en esta Ley se hacen a la Dirección del Servicio Jurídico del Estado se entenderán hechas, respectivamente, a los Presidentes y Mesas de las Cortes Generales, del Congreso de los Diputados y del Senado, y al Presidente de la Junta Electoral Central, cuando se trate del asesoramiento jurídico, representación y defensa de estos Órganos de acuerdo con las normas que les son propias. En estos mismos casos, las menciones a los Abogados del Estado se entenderán hechas a los Letrados de las Cortes Generales.
