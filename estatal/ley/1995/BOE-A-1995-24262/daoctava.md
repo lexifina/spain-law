@@ -464,10 +464,14 @@ Valores del punto (en pesetas)
 
 A) Indemnización básica (incluidos daños morales).
 
-| Día de baja (Hasta un máximo de dieciocho meses) | Indemnización diaria – Pesetas |
+| Día de baja | Indemnización diaria - Pesetas |
 | --- | --- |
-| Durante la estancia hospitalaria | 7.000 |
-| Sin estancia hospitalaria | 3.000 |
+| Durante la estancia hospitalaria | 8.000 |
+| Sin estancia hospitalaria: |  |
+| Impeditivo (1) | 6.500 |
+| No impeditivo | 3.500 |
+
+(1) Se entiende por día de baja impeditivo aquél en que la víctima está incapacitada para desarrollar su ocupación o actividad habitual.
 
 B) Factores de corrección.
 
@@ -1478,3 +1482,7 @@ Perjuicio estético.
 | Muy importante | 15-20 |
 | Considerable | >20» |
 |  | Para las situaciones especiales con deformidad o cicatrices visibles importantes, la puntuación se determinará teniendo en cuenta la edad y sexo de la persona, así como la incidencia en su imagen para la profesión habitual. Se valorará también el coste de las necesarias intervenciones de cirugía plástica reparadora. |
+
+> Se modifica la tabla V.A) por la disposición adicional 15.1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+
+> Téngase en cuenta la disposición adicional 15.2 en cuanto a la aplicación de esta modificación.

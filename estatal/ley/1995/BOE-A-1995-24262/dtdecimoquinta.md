@@ -28,9 +28,13 @@ La cuantía máxima de los servicios pasados reconocidos correspondientes a los 
 
 Sin perjuicio de lo dispuesto en el párrafo anterior, las aportaciones precisas para la cobertura de los mencionados servicios pasados estarán exceptuadas del límite máximo de aportación individual recogido en el artículo 5, apartado 3, de la Ley 8/1997, de 8 de junio, Reguladora de Planes y Fondos de Pensiones.
 
-5. Los empresarios o las instituciones amparadas en este régimen transitorio que hayan instrumentado los compromisos por pensiones con sus trabajadores e integrado sus recursos en un plan de pensiones, instrumentarán las obligaciones contraídas respecto a los jubilados o beneficiarios con anterioridad a la formalización del citado plan, bien a través del mismo o bien a través de un seguro colectivo. Las contribuciones y las primas de contrato de seguro satisfechas para hacer frente a estas prestaciones causadas no precisarán de la imputación a los referidos beneficiarios.
+5. Los empresarios o las instituciones amparadas en este régimen transitorio, que hayan instrumentado los compromisos por pensiones con sus trabajadores e integrado sus recursos en un plan de pensiones, instrumentarán las obligaciones contraídas respecto a los jubilados o beneficiarios con anterioridad a la formalización del referido plan, bien a través del mismo o bien a través de un seguro colectivo.
 
-En el supuesto de integrar a dichos beneficiarios en el plan de pensiones, serán admisibles aportaciones posteriores sin imputación financiera, para la adecuada cobertura de las prestaciones causadas, siempre que se incorpore en el correspondiente plan de reequilibrio y éste se ajuste a la legislación que le sea aplicable.
+En el supuesto de integrar a dichos beneficiarios en el plan de pensiones, serán admisibles aportaciones posteriores para la adecuada cobertura de las prestaciones causadas, siempre que se incorporen en el correspondiente plan de reequilibrio y éste se ajuste a la legislación que le sea aplicable.
+
+Las contribuciones y las primas de contrato de seguro satisfechas para hacer frente a estas prestaciones causadas no precisarán de la imputación fiscal a los referidos beneficiarios, siendo objeto de deducción en el impuesto personal del promotor en los términos establecidos en el apartado 1 de la disposición transitoria decimosexta.
+
+El régimen fiscal previsto en este apartado será, asimismo, de aplicación a las primas de contratos de seguro satisfechas para la cobertura de prestaciones causadas respecto a los jubilados o beneficiarios amparadas en este régimen transitorio, aunque los empresarios o las instituciones no hayan instrumentado los compromisos por pensiones con sus trabajadores en activo a través de un plan de pensiones, salvo que las empresas o entidades se acojan a la excepción prevista en el apartado 2 de la disposición transitoria decimocuarta.
 
 6. El desarrollo reglamentario del presente régimen transitorio regulará, en particular, las normas actuariales para la cuantificación de los servicios pasados con especial referencia a los nuevos compromisos de pensiones a los que se refiere el número 2 de esta disposición; el proceso de transferencia de los elementos patrimoniales correspondiente a un plan de pensiones, a integrar en su fondo de pensiones, su tipo de remuneración, así como su plazo temporal que con carácter general no deberá rebasar los diez años, salvo condiciones específicas establecidas por norma expresa que justifiquen una ampliación adicional; el proceso de amortización del déficit individual y global que afecte a cada plan de pensiones, así como su posible actualización y demás cuestiones que por la normativa vigente requieran desarrollo reglamentario.
 
@@ -38,4 +42,8 @@ En el supuesto de integrar a dichos beneficiarios en el plan de pensiones, será
 
 8. Para acceder a este tratamiento fiscal será condición indispensable que los elementos patrimoniales afectos a los compromisos de previsión del personal se encuentren en tal situación a 3 de marzo de 1995.
 
-> Se modifican los apartados 1,3 y 4 por los arts. 31.1 y 120 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+> Se amplía el plazo de los apartados 1 y 2 hasta el 1 de enero de 2001, por la disposición adicional 13 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+
+> Se modifica el apartado 5 por la disposición adicional 11.1 de la Ley 40/1998, de 9 de diciembre. Ref. BOE-A-1998-28472.
+
+> Se modifica por los arts. 31.1 y 120 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.

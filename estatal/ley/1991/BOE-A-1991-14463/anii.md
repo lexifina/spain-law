@@ -22,9 +22,11 @@ d) Los vehículos automóviles considerados como taxis, autotaxis o autoturismos
 
 e) Los que, objetivamente considerados, sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica, siempre que sus modelos de serie o los vehículos individualmente hubieran sido debidamente homologados por la Administración Tributaria Canaria. A estos efectos, se considerará que tienen exclusivamente alguna de estas aplicaciones los furgones y furgonetas de uso múltiple de cualquier altura siempre que dispongan únicamente de dos asientos para el conductor y el ayudante, en ningún caso posean asientos adicionales y el espacio destinado a la carga no goce de visibilidad lateral y sea superior al 50 por 100 del volumen interior.
 
-f) Los vehículos tipo «jeep» cuyos modelos de serie, por estar considerados de aplicación industrial, comercial o agrícola hubiesen sido debidamente homologados por la Administración Tributaria Canaria, cuando su precio final de venta al público, excluidos el Impuesto General Indirecto Canario y el Impuesto Especial sobre Determinados Medios de Transporte, no exceda de 3.893.400 pesetas.
+f) Los vehículos tipo "jeep" cuyos modelos de serie, por estar considerados de aplicación industrial, comercial o agrícola hubiesen sido debidamente homologados por la Administración tributaria canaria, cuando su precio final de venta al público, excluidos el Impuesto General Indirecto Canario y el Impuesto especial sobre Determinados Medios de Transporte, no exceda de 4.090.503 pesetas.
 
 La homologación se realizará atendiendo a las características del vehículo en cuanto a su comportamiento en tracción, seguridad de vuelco y precio de venta al público.
+
+A estos efectos se considerarán homologados por sus características técnicas los vehículos que, según las normas vigentes en la legislación estatal o comunitaria, en su caso, tengan la consideración de tipo "jeep".
 
 El precio final de venta al público será el de estos vehículos en el punto de entrega, en orden de marcha, con todas las opciones incorporadas de serie y certificado por el fabricante nacional o el representante legal debidamente autorizado por el fabricante extranjero.
 
@@ -103,6 +105,8 @@ A efectos de este impuesto se consideran piedras preciosas, exclusivamente, el d
 14.º Perfumes y extractos.
 
 15.º Producción, distribución y cesión de derechos de las películas cinematográficas para ser exhibidas en las salas "X", así como la exhibición de las mismas.
+
+> Se modifica el apartado 3.f) por la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
 
 > Se modifica el párrafo primero y el apartado 3 por el art. 64.1, 2 y 5 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.
 

@@ -8,10 +8,12 @@
 
 No obstante, las Mutualidades de Previsión Social cuyo objeto exclusivo sea otorgar prestaciones o subsidios de docencia o educación podrán mantener los fondos mutuales exigibles a la fecha de entrada en vigor de la presente Ley, sin estar sujetas a la obligación de alcanzar el fondo mutual exigido en el artículo 67.2.a) de la misma.
 
-Transcurrido el plazo de cinco años, las personas que ejerzan una actividad por cuenta propia en los términos del artículo 3 del Decreto 2530/1970, de 20 de septiembre, por el que se regula el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos, y estén colegiados en un Colegio Profesional cuyo colectivo no haya sido integrado en dicho Régimen Especial, deberán solicitar la afiliación y/o el alta en el mismo, siempre que decidan no permanecer incluidos en la Mutualidad que tenga establecida dicho Colegio Profesional.
+(Párrafo tercero derogado)
 
 4. Las Federaciones o la Confederación Nacional de Mutualidades de Previsión Social no podrán, desde la entrada en vigor de la presente Ley, celebrar nuevas operaciones de coaseguro, ni modificar o prorrogar las ya celebradas. Idéntica prohibición será aplicable a las operaciones de reaseguro celebradas por la Confederación Nacional.
 
 5. Las Federaciones de Mutualidades de Previsión Social que, al momento de entrada en vigor de la presente Ley, vinieran realizando actividad reaseguradora no estarán sujetas a la prohibición contenida en el número 4 del artículo 64 y podrán continuarla, con sometimiento a la regulación de las entidades exclusivamente reaseguradoras contenida en los artículos 57 y 58, en la forma, condiciones y con las adaptaciones que reglamentariamente se establezcan.
 
 6. Las Mutualidades de Previsión Social afectadas por un plan individual de viabilidad para adaptarse a la Ley 33/1984, de 2 de agosto, sobre Ordenación del Seguro Privado, no podrán acogerse a lo dispuesto en el artículo 66 hasta que completen dicho plan de viabilidad, siempre que cumplan los restantes requisitos exigidos en dicho precepto.
+
+> Se deroga el párrafo tercero del apartado 3 por la disposición derogatoria 1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.

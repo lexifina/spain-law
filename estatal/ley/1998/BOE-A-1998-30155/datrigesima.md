@@ -1,0 +1,3 @@
+## Disposición adicional trigésima. Transferencia de autorizaciones administrativas, licencias y concesiones en materia de electricidad.
+
+Las autorizaciones administrativas, licencias y concesiones de cualquier clase de que fueran titulares las entidades que a la entrada en vigor de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico realizaran actividades eléctricas se entenderán transferidas a las sociedades que deban constituirse de conformidad con la exigencia de separación establecida en el artículo 14 de la citada Ley, así como a las que con carácter previo e instrumental puedan constituirse para la configuración definitiva de los grupos de sociedades que, conforme a lo previsto en la citada Ley, desarrollen actividades reguladas y no reguladas.

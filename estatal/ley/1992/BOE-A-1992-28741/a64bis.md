@@ -24,6 +24,12 @@ a) No obstante lo dispuesto en el artículo 7 de esta Ley, cuando la salida de l
 
 b) Para la aplicación de lo previsto en el apartado 1 del artículo 7 de esta Ley, en relación con suministros de energía eléctrica distintos de aquellos a los que se refiere la letra a) anterior del presente apartado, los sujetos pasivos podrán considerar que el conjunto de la energía eléctrica suministrada durante períodos de hasta sesenta días consecutivos, ha salido de fábrica o depósito fiscal el primer día del primer mes natural siguiente a la conclusión del referido período.
 
+6. Repercusión. Lo dispuesto en el artículo 14 de esta Ley será de aplicación en relación con el Impuesto sobre la Electricidad teniendo en cuenta las siguientes reglas específicas:
+
+a) Cuando la contraprestación por un suministro de energía eléctrica deba satisfacerse a más de un sujeto pasivo, cada uno de éstos repercutirá la porción de cuota imputable a la parte de la contraprestación que le corresponda percibir. En particular, la repercusión de la porción de cuota correspondiente a los peajes por utilización de una red de transporte que tenga la condición de «depósito fiscal» será efectuada, cuando este concepto se facture separadamente, por el titular de dicha red en su condición de sujeto pasivo del impuesto.
+
+b) Sin perjuicio de lo dispuesto en la letra a) anterior, en los casos de entregas de energía eléctrica efectuadas con la intermediación del Operador del Mercado al que se refiere el artículo 33 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, la repercusión sobre los adquirentes de las cuotas devengadas que correspondan será efectuada por el sujeto pasivo por medio del citado operador del mercado.
+
 B) No serán aplicables en relación con el Impuesto sobre la Electricidad las siguientes disposiciones contenidas en el capítulo I del Título I de la presente Ley:
 
 a) Los apartados 6, 14, 15, 16, 18, 19, 22 y 24 del artículo 4.
@@ -45,5 +51,7 @@ h) El apartado 7 del artículo 15.
 i) El artículo 16, y
 
 j) El artículo 17.
+
+> Se añade el apartado 6 a la letra A) por el art. 6.2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
 
 > Se añade por el art. 7.4 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053

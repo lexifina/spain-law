@@ -1,0 +1,3 @@
+## Disposición adicional trigésima novena. Ampliación del plazo previsto en la disposición transitoria quinta bis de la Ley General de la Seguridad Social.
+
+Se procede a ampliar el plazo previsto en la disposición transitoria quinta bis del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, en la redacción dada a la misma por la Ley 24/1997, de 15 de julio, de Consolidación y Racionalización del Sistema de Seguridad Social, de modo que las Disposiciones reglamentarias previstas en el apartado 3 del artículo 137 del mencionado texto legal, deberán ser aprobadas por el Gobierno durante el ejercicio de 1999.

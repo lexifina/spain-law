@@ -7,3 +7,5 @@ El apartado 4.º del artículo 2, de la Ley 28/1984, queda redactado de la sigui
 A estos fines, la enajenación de bienes demaniales por parte de la Gerencia de Infraestructura de la Defensa requerirá, por parte del Ministerio de Defensa, la previa y expresa desafectación de los bienes del fin público al que estaban destinados y la declaración de su alienabilidad.
 
 El Ministerio de Defensa pondrá entonces los bienes a disposición de la Gerencia de la Infraestructura de la Defensa para que se proceda a su enajenación a título oneroso, sin que en ningún supuesto puedan cederse los bienes gratuitamente a ninguna persona física o jurídica, pública o privada, salvo las cesiones a que obligue la legislación urbanística.»
+
+> Se deroga por la disposición derogatoria 3.1.c) en la forma indicada por la disposición derogatoria 3.2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155

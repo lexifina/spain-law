@@ -30,11 +30,19 @@ d) Las demás labores del tabaco: 22,5 por 100.
 
 e) Los tipos impositivos aplicables serán los vigentes en el momento del devengo.
 
-4. Las Ciudades de Ceuta y Melilla podrán, en sus respectivas ordenanzas, reducir los tipos impositivos establecidos para los cigarrillos en la letra a) del número 3 anterior. Los tipos impositivos aplicables que resulten de la reducción que, en su caso, se practique no podrán ser inferiores a los siguientes:
+4. Las Ciudades de Ceuta y Melilla podrán, en sus respectivas Ordenanzas, reducir los tipos impositivos establecidos en el número 3 anterior. Los tipos impositivos aplicables que resulten de la reducción que, en su caso, se practique, no podrán ser inferiores a los siguientes:
 
-a) Tipo proporcional: 36 por 100.
+a) Cigarrillos:
 
-b) Tipo específico: 300 pesetas por cada 1.000 cigarrillos.
+1.º Tipo proporcional: 36 por 100.
+
+2.º Tipo específico: 300 pesetas por cada 1.000 cigarrillos.
+
+b) Cigarros y cigarritos: 8,5 por 100.
+
+c) Picadura para liar: 25 por 100.
+
+d) Las demás labores del tabaco: 15 por 100.
 
 5. El gravamen complementario no será exigible en las mismas circunstancias que determinarían la no exigibilidad del Impuesto sobre Labores del Tabaco en su ámbito territorial de aplicación. En particular, el devengo del gravamen complementario se aplazará respecto de las labores del tabaco que se introduzcan en los depósitos que se autoricen a tal efecto, hasta, en su caso, su salida de los mismos.
 
@@ -73,5 +81,7 @@ La autorización de los depósitos a que se refiere el párrafo anterior se efec
 El control de los depósitos a que se refiere este número será efectuado por los servicios dependientes del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, en colaboración con los servicios fiscales de las respectivas Ciudades.
 
 4. Se reconoce el derecho a la devolución del gravamen complementario en las mismas circunstancias en que se produciría la devolución de las cuotas del Impuesto sobre Hidrocarburos en su ámbito territorial de aplicación.
+
+> Se modifica el apartado A).4 por el art. 5.1.4 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
 
 > Se añade por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117

@@ -152,7 +152,9 @@ j) El elemento tributario regulado en esta letra F) no se aplicará en la determ
 
 2. Normas generales de aplicación de los elementos tributarios.
 
-Las oscilaciones en más o en menos no superiores al 20 por 100 de los elementos tributarios no alterarán la cuantía de las cuotas por las que se venga tributando. Cuando las oscilaciones de referencia fuesen superiores al porcentaje indicado, las mismas tendrán la consideración de variaciones a efectos de lo dispuesto en el párrafo segundo del artículo 91.2 de la Ley 39/1988, de 28 de diciembre.
+Las oscilaciones en más o en menos no superiores al 20 por 100 de los elementos tributarios, no alterarán la cuantía de las cuotas por las que se venga tributando. Cuando las oscilaciones de referencia fuesen superiores al porcentaje indicado, las mismas tendrán la consideración de variaciones a efectos de lo dispuesto en el párrafo segundo del artículo 91.2 de la Ley 39/1988, de 28 de diciembre.
+
+Tratándose del elemento tributario constituido por el número de obreros, y en relación a las oscilaciones en más de su número, las Ordenanzas fiscales podrán aumentar el límite máximo del 20 por 100 a que se refiere el párrafo primero de este apartado hasta el 50 por 100.
 
 3. Sectores declarados en crisis.
 
@@ -169,6 +171,10 @@ c) A los efectos de aplicar las letras anteriores se tomarán los datos referent
 Cuando en las industrias ocurra alguno de los casos de interdicción judicial, incendio, inundación, hundimiento, falta absoluta de caudal de aguas empleado como fuerza motriz o graves averías en el equipo industrial, los interesados darán parte a la Administración Gestora del impuesto, y en el caso de comprobarse plenamente la interdicción por más de treinta días, o el siniestro o paralización de la industria, podrán obtener la rebaja de la parte proporcional de la cuota, según el tiempo que la industria hubiera dejado de funcionar.
 
 No será de aplicación la reducción antes fijada a la industria cuya cuota esté regulada según el tiempo de funcionamiento.
+
+> Se modifica el apartado 2 por el art. 21.4 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155. y el apartado 1.F).e) por el art. 68.2 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154.
+
+> Redactado el apartado 1.F).e) conforme a la corrección de errores publicada en BOE núm. 65, de 17 de marzo de 1999. Ref. BOE-A-1999-6373.
 
 > Se modifica el apartado 1.F).b).3 por el art. 67.2.1.1 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
 

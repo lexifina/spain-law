@@ -1,0 +1,3 @@
+## Disposición final cuarta. Reglamento de la Ley de Impuestos Especiales.
+
+En el plazo de los cuatro meses siguientes a la fecha de entrada en vigor de la presente Ley, el Gobierno procederá a modificar el Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, con el objeto de que sea exigible la destrucción de las precintas de circulación que incorporen los bienes objeto de los impuestos especiales de fabricación para los que este documento de circulación sea exigible, en los casos en que aquéllos se envíen fuera del ámbito territorial interno que se determina en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.

@@ -1,0 +1,3 @@
+## Disposición adicional vigésima tercera. Extensión de los beneficios del Real Decreto-ley 11/1998, de 4 de septiembre.
+
+Podrán acogerse a los beneficios del Real Decreto-ley 11/1998, de 4 de septiembre, las Sociedades Cooperativas, que sustituyan en los términos previstos en el mismo, a socios trabajadores o socios de trabajo durante los períodos de descanso por maternidad, adopción y acogimiento, con independencia del régimen de afiliación a la Seguridad Social en el que estuvieran incluidos los socios trabajadores sustituidos, siempre que los contratos de interinidad se celebren con trabajadores desempleados.

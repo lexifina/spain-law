@@ -2,9 +2,17 @@
 
 1. La Comisión Interministerial de Ciencia y Tecnología, órgano de planificación, coordinación y seguimiento del Plan Nacional, estará presidida por el Presidente del Gobierno o Ministro en quien delegue y formarán parte de la misma los representantes de los Departamentos ministeriales que el Gobierno designe.
 
-2. Asimismo, el Gobierno nombrará, entre los miembros de la Comisión Interministerial una Comisión Permanente, cuyas funciones serán establecidas por aquélla, y que dispondrá de la estructura orgánica, personal y medios necesarios que estarán adscritos al Ministerio que se determine por el Gobierno. Para colaborar en la elaboración, evaluación y seguimiento del Plan Nacional, así como para gestionar aquellos Programas Nacionales que la Comisión Interministerial le encomiende, esta Comisión Permanente, previa autorización del organismo correspondiente, podrá adscribir temporalmente a tiempo completo o parcial y con reserva del puesto de trabajo, personal científico, expertos en desarrollo tecnológico y otros especialistas relacionados con los objetivos del Plan, que presten servicios en Departamentos ministeriales, Comunidades Autónomas, universidades, organismos públicos de investigación y entidades o empresas de carácter público. La adscripción a tiempo parcial del personal mencionado anteriormente será compatible con el desempeño igualmente en régimen de prestación a tiempo parcial, del puesto de trabajo que vinieran ocupando.
+2. Asimismo, el Gobierno nombrará, de entre los miembros de la Comisión Interministerial, una Comisión Permanente, cuyas funciones serán establecidas por aquélla.
 
-Asimismo, esta Comisión Permanente podrá contratar, por tiempo no superior a la duración del Programa, a cualquier otro tipo de personal no adscrito al Sector Público, conforme a lo establecido en el artículo 15.1, párrafo a), del Estatuto de los Trabajadores. La Comisión podrá solicitar el asesoramiento de los órganos de planificación, coordinación y seguimiento de investigación de las Administraciones Públicas.
+La Oficina de Ciencia y Tecnología, como órgano de apoyo de la Comisión Interministerial de Ciencia y Tecnología, será la encargada de asistir a la Comisión Permanente, para lo que dispondrá de la estructura orgánica, personal y medios necesarios, sin perjuicio de las funciones de asistencia que correspondan a otros órganos.
+
+La Secretaría de Estado de Universidades, Investigación y Desarrollo y la Oficina de Ciencia y Tecnología, previa autorización del organismo correspondiente, podrá adscribir temporalmente a tiempo completo o parcial personal científico, expertos en desarrollo tecnológico y otros especialistas relacionados con actividades de I+D, que presten servicios en Departamentos ministeriales, Comunidades Autónomas, Universidades, organismos públicos de investigación y entidades públicas o privadas. La adscripción se producirá con reserva de puesto de trabajo, excepto en el caso de que el personal prestara servicios en entidades privadas. De las adscripciones efectuadas deberán informar ambos órganos a la Comisión Permanente en la primera reunión que ésta celebre.
+
+Los departamentos ministeriales, organismos y órganos de titularidad estatal también podrán adscribir para colaborar en la elaboración, evaluación, seguimiento y gestión de los Programas que la Comisión Interministerial les encomiende, personal científico, expertos en desarrollo tecnológico y otros especialistas relacionados con actividades de I+D en las mismas condiciones que los órganos citados en el párrafo anterior y previa autorización expresa de la Comisión Interministerial de Ciencia y Tecnología.
+
+La adscripción a tiempo parcial del personal mencionado anteriormente será compatible con el desempeño, igualmente en régimen de prestación a tiempo parcial, del puesto de trabajo que vinieran ocupando.
+
+También podrán contratar, por tiempo no superior a la duración del Programa, a cualquier tipo de personal no adscrito al sector público, conforme a lo establecido en el artículo 15.1, párrafo a), del Estatuto de los Trabajadores. La Comisión podrá solicitar el asesoramiento de los órganos de planificación, coordinación y seguimiento de investigación de las Administraciones Públicas.
 
 3. A la Comisión Interministerial de Ciencia y Tecnología corresponden, además de la elaboración del Plan Nacional, las siguientes funciones:
 
@@ -25,5 +33,7 @@ g) Orientar la política de formación de investigadores en todos sus niveles, p
 h) Recabar, coordinar y suministrar la información científica y tecnológica necesaria para el cumplimiento del Plan Nacional.
 
 i) Elevar al Gobierno las propuestas que estime necesarias para asegurar el desarrollo y cumplimiento del Plan Nacional.
+
+> Se modifica el apartado 2 por el art. 76.1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
 
 > Se modifican los apartados 1 y 2 por el art. 155 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117

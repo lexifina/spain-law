@@ -1,0 +1,3 @@
+## Disposición adicional vigésima séptima. Estudio sobre financiación local de determinados municipios.
+
+A lo largo de 1999, el Ministerio de Economía y Hacienda elaborará un estudio sobre las disfunciones de financiación local de aquellos municipios cuyo territorio esté ocupado en más de dos tercios por terrenos o instalaciones de titularidad pública no municipal, como instalaciones militares o parques naturales y, por ello, exento del pago de impuestos locales, a los efectos de determinar la posible adopción de medidas compensatorias en la próxima reforma de la Ley Reguladora de las Haciendas Locales.

@@ -10,9 +10,11 @@
 
 3.º Los agentes de aduanas y las personas autorizadas para presentar y tramitar declaraciones para el despacho de mercancías, cuando intervengan en nombre propio y por cuenta de sus comitentes.
 
-3. Serán responsables subsidiarios del pago del impuesto las personas mencionadas en el apartado 3. del número anterior, cuando actúen en nombre y por cuenta de sus comitentes.
+3. (Derogado)
 
 4. Las responsabilidades establecidas en los números 2 y 3 anteriores no alcanzarán a las deudas tributarias que se pongan de manifiesto como consecuencia de actuaciones practicadas fuera de los recintos aduaneros.
+
+> Se deroga el apartado 3 por la disposición derogatoria 7 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
 
 > Se añade por el art. 1.13 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
 

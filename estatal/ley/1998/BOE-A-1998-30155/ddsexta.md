@@ -1,0 +1,3 @@
+## Disposición derogatoria sexta. Derogación del apartado 1.3 del artículo 48 de la Ley General de la Seguridad Social y del tercer párrafo del número 1 del artículo 27 del texto refundido de la Ley de Clases Pasivas del Estado.
+
+Quedan derogados el apartado 1.3 del artículo 48 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, en la redacción dada al mismo por el artículo 11 de la Ley 24/1997, de 15 de julio, de Consolidación y Racionalización del Sistema de Seguridad Social, y el tercer párrafo del número 1 del artículo 27 del Texto Refundido de la Ley de Clases Pasivas del Estado, aprobado por Real Decreto Legislativo 670/1987, de 30 de abril.

@@ -23,3 +23,7 @@ En todo caso, transcurridos cuatro meses después del cierre de ejercicio econó
 Por vía reglamentaria se determinarán las condiciones y supuestos en que las Juntas Directivas, dentro del período de sus mandatos y siempre que éstos sean consecutivos, podrán compensar los avales satisfechos con los resultados económicos positivos de los ejercicios anteriores o subsiguientes o aquéllos en los que se hubiesen producido pérdidas.
 
 El cómputo de las compensaciones aludidas en este apartado se realizará desde el inicio de la práctica de las auditorías realizadas bajo el control de la Liga Profesional.
+
+5. Los Clubes Deportivos que se amparen en la presente Disposición ajustarán la contabilidad de sus secciones deportivas profesionales a las normas que regulan o en el futuro puedan regular la de las sociedades anónimas deportivas y estarán sometidas a las mismas obligaciones que se establezcan para éstas conforme al artículo 26.1 de esta Ley respecto a la información periódica que deben remitir al Consejo Superior de Deportes.
+
+> Se añade el apartado 5 por el art. 109.15 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155

@@ -1,0 +1,9 @@
+## Disposición transitoria décima. Sistema tributario local.
+
+1. La supresión del requisito de informe técnico previo a la concesión o denegación de beneficios fiscales en el Impuesto sobre Bienes Inmuebles y en el Impuesto sobre Actividades Económicas, llevada a cabo por la nueva redacción dada por la presente Ley a los artículos 78.2 y 92.2 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, será efectiva respecto de los beneficios fiscales cuya solicitud se formule a partir de la entrada en vigor de la presente Ley.
+
+2. Los sujetos pasivos que hayan iniciado con anterioridad al 1 de enero de 1999 el disfrute de la bonificación que preveía el apartado 3 del artículo 83 de la Ley 39/1988, de 28 de diciembre, antes de su supresión como consecuencia de la nueva redacción dada al citado artículo 83 por la presente Ley, continuarán disfrutando de la misma hasta el término del período que reste conforme a la regulación que se contenía en el mencionado apartado 3.
+
+3. Las alteraciones que experimenten las cuotas del Impuesto sobre Vehículos de Tracción Mecánica a consecuencia de las modificaciones introducidas por la presente Ley en la letra A) del cuadro de tarifas de dicho impuesto contenido en el artículo 96.1 de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales, no darán lugar a la obligación de realizar la notificación individual a que se refiere el artículo 124 de la Ley General Tributaria.
+
+4. Con efectos exclusivos para el ejercicio de 1999, los Ayuntamientos que decidan aplicar las modificaciones establecidas en la presente Ley a los tributos periódicos con devengo el 1 de enero de dicho año, deberán aprobar el texto definitivo de las nuevas Ordenanzas fiscales y publicarlas en el Boletín Oficial correspondiente, todo ello con arreglo a lo dispuesto en el artículo 17 de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales, antes del 1 de abril de 1999.

@@ -1,3 +1,5 @@
 ## Artículo cuarto.
 
-Por los Ministerios de Economía y Comercio y de Administración Territorial se dictarán las disposiciones necesarias para el desarrollo y cumplimiento de lo que en la presente Ley se dispone.
+(Suprimido)
+
+> Se suprime por la disposición adicional 16.4 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.

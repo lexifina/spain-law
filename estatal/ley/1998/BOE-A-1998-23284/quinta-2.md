@@ -10,6 +10,10 @@ Aquellos cuyo consumo sea igual o superior a 5 millones de Nm3, el 1 de enero de
 
 Aquellos cuyo consumo sea igual o superior a 3 millones de Nm3, el 1 de enero del año 2008.
 
+1. bis A los efectos de lo previsto en el apartado anterior, el cumplimiento del nivel de consumo se referirá a períodos anuales.
+
 2. A partir del 1 de enero del año 2013, todos los consumidores, independientemente de su nivel de consumo, tendrán la consideración de cualificados.
 
 3. Durante el período de tres años siguientes al momento en que un consumidor hubiera accedido a la condición de cualificado, dicho consumidor podrá optar por seguir adquiriendo el gas al distribuidor a tarifa o adquirirlo de un comercializador en las condiciones libremente pactadas.
+
+> Se añade el apartado 1 bis por el art. 108.4 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
