@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+Los titulares de pensión de mutilación, regulada por el Decreto seiscientos setenta/mil novecientos setenta y seis, para obtener el derecho a la retribución básica establecida en la presente Ley, habrán de someterse a reconocimiento médico por parte del Tribunal que debe realizarlos a efectos de la Ley treinta y cinco/mil novecientos ochenta, para su calificación según el cuadro de lesiones y enfermedades vigentes para la aplicación de la citada Ley, y cuya calificación será la que prevalecerá a todos los efectos, incluso para la determinación de la pensión de mutilación.

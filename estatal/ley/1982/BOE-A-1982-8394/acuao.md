@@ -1,0 +1,3 @@
+## Artículo cuarto.
+
+La retribución básica establecida en la presente Ley será transmisible, con los requisitos y en los porcentajes fijados en el texto refundido de la Ley de Derechos Pasivos de veintiuno de abril de mil novecientos sesenta y seis y sus disposiciones complementarias, en favor de las viudas y, en su defecto, de los huérfanos menores de edad o incapacitados para ganarse el sustento desde antes de cumplir los dieciocho años, quienes asimismo podrán tener derecho a pensión en el supuesto de mutilado civil fallecido que hubiere podido ser calificado en alguna de las categorías que dan derecho a esta retribución básica.
