@@ -2,4 +2,6 @@
 
 (Derogada)
 
+> Se deroga por la disposición derogatoria única.a) de la Ley 63/1997, de 26 de diciembre. Ref. BOE-A-1997-27989.
+
 > Se deroga por la disposición derogatoria única.a) del Real Decreto-Ley 8/1997, de 16 de mayo. Ref. BOE-A-1997-10693.

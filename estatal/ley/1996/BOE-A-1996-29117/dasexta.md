@@ -10,6 +10,10 @@ Dos. No obstante lo previsto en el apartado anterior, al artículo 44 de la Ley 
 
 3. Se faculta al Gobierno el desarrollo de cuantos programas y/o acciones operativas resulten convenientes para la mejora del nivel formativo y de empleo de las personas con discapacidad, dictanto para ello las disposiciones precisas y disponiendo de los recursos necesarios dentro de las disponibilidades presupuestarias.»
 
+> Se deroga, salvo en lo relativo a trabajadores minusválidos, por la disposición derogatoria única.b) de la Ley 63/1997, de 26 de diciembre. Ref. BOE-A-1997-27989 y por la disposición derogatoria única.2 de la Ley 64/1997, de 26 de diciembre. Ref. BOE-A-1997-27990
+
+> Téngase en cuenta el período de vigencia establecido en la disposición final 3 de la Ley 64/1997, de 26 de diciembre y su ampliación durante 1999 establecido en la disposición adicional 10 de la Ley 50/1998, de 30 de diciembre Ref. BOE-A-1998-30155.
+
 > Se deroga, salvo en lo relativo a trabajadores minusválidos, por la disposición derogatoria única.b) del Real Decreto-Ley 8/1997, de 16 de mayo. Ref. BOE-A-1997-10693 y por la disposición derogatoria única.2 del Real Decreto-Ley 9/1997, de 16 de mayo. Ref. BOE-A-1997-10694
 
 > Téngase en cuenta el período de vigencia establecido en la disposición final 3 del Real Decreto-Ley 9/1997, de 16 de mayo.

@@ -8,4 +8,6 @@
 
 4. Continuarán siendo de aplicación a los contratos para la formación que se celebren con trabajadores minusválidos que trabajen en Centros Especiales de Empleo las peculiaridades que para dichos contratos se prevén en el artículo 7 del Real Decreto 1368/1985, de 17 de julio, por el que se regula la relación laboral de carácter especial de los minusválidos que trabajen en los Centros Especiales de Empleo.
 
+> Se modifican los apartados 2, 3 y 4 por el art. 1.5 de la Ley 63/1997, de 26 de diciembre. Ref. BOE-A-1997-27989.
+
 > Se modifican los apartados 2, 3 y 4 por el art. 1.5 del Real Decreto-Ley 8/1997, de 16 de mayo. Ref. BOE-A-1997-10693.
