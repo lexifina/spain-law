@@ -2,25 +2,39 @@
 
 Uno. Naturaleza.- El Consejo de Administración es el órgano superior de gobierno y representación de la Entidad.
 
-Dos. Composición.- Está compuesto de la siguiente forma:
+Dos. Composición. El Consejo de Administración estará integrado por los siguientes miembros:
 
-Presidente: El Secretario general de la Energía y Recursos Minerales.
+a) El Presidente, que lo será el Secretario de Estado de la Energía y Recursos Minerales.
 
-Vicepresidente: El Director general del instituto.
+b) El Vicepresidente, que lo será el Director general del Instituto para la Diversificación y Ahorro de la Energía.
 
-Vocales:
+c) Y los siguientes Vocales:
 
-El Presidente del Instituto Nacional de Reforma y Desarrollo Agrario (IRYDA) y el Director del Instituto Nacional de Conservación de la Naturaleza (ICONA), del Ministerio de Agricultura, Pesca y Alimentación.
+1.º Un representante de la Dirección General de la Energía del Ministerio de Industria y Energía.
 
-Los Directores generales de Obras Hidráulicas y de Arquitectura y Edificación del Ministerio de Obras Públicas y Urbanismo.
+2.º Un representante de la Dirección General de Industria del Ministerio de Industria y Energía.
 
-Los Directores generales de la Energía y de la Junta de Energía Nuclear del Ministerio de Industria y Energía.
+3.º Un representante de la Dirección General de Análisis y Programación Presupuestaria del Ministerio de Economía y Hacienda.
 
-Los Directores generales de Presupuestos y de Planificación del Ministerio de Economía y Hacienda.
+4.º Un representante de la Dirección General de Política de la Pequeña y Mediana Empresa del Ministerio de Economía y Hacienda.
 
-Cuatro Consejeros designados por el Ministro de Industria y Energía, a propuesta del Secretario general de la Energía y Recursos Minerales, entre representantes de Entidades públicas y privadas y personas de reconocido prestigio en el sector energético que manifiesten su interés en participar en las actividades del Instituto.
+5.º Un representante de la Dirección General de Ferrocarriles y Transportes por Carretera del Ministerio de Fomento.
 
-Secretario: El Secretario general del Instituto.
+6.º Un representante de la Dirección General de la Vivienda, la Arquitectura y el Urbanismo del Ministerio de Fomento.
+
+7.º Un representante de la Dirección General de Obras Hidráulicas y Calidad de las Aguas del Ministerio de Medio Ambiente.
+
+8.º Un representante de la Dirección General de Calidad y Evaluación Ambiental del Ministerio de Medio Ambiente.
+
+9.º Un representante de la Dirección General de Política Alimentaria e Industrias Agrarias y Alimentarias del Ministerio de Agricultura, Pesca y Alimentación.
+
+10. Dos representantes designados por el Ministro de Industria y Energía, a propuesta del Secretario de Estado de la Energía y Recursos Minerales, entre personas de reconocido prestigio en el sector energético.
+
+Los Vocales del Consejo de Administración que actúen como representantes de un Departamento Ministerial serán nombrados por el Ministro de Industria y Energía, a propuesta del titular del Departamento al que pertenecen.
+
+d) El Secretario, que lo será el Secretario general del Instituto para la Diversificación y Ahorro de Energía, que actuará con voz pero sin voto.
+
+Los Vocales y el Secretario del Consejo de Administración percibirán en concepto de asistencia a las reuniones del Consejo la correspondiente compensación económica, de conformidad con lo dispuesto en las disposiciones reguladoras de las indemnizaciones por razón de servicio.
 
 Tres. Atribuciones:
 
@@ -112,4 +126,6 @@ Cinco. Facultades de los miembros del Consejo:
 
 - Interesar, a través de la Secretaría General, cuanta información estimen necesaria para su participación y cooperación en la gestión de los intereses públicos de la Entidad.
 
-Seis. El Consejo de Administración tendrá una Comisión Delegada, presidida por el Presidente, cuya composición y funcionamiento se determinarán por el propio Consejo.
+Seis. El Consejo de Administración podrá crear cuantas comisiones o grupos de trabajo considere oportuno para realizar estudios o analizar cuestiones específicas. La composición y funcionamiento serán determinados por el propio Consejo.
+
+> Se modifican los apartados 2 y 6 por el art. 1 del Real Decreto 252/1997, de 21 de febrero. Ref. BOE-A-1997-4582

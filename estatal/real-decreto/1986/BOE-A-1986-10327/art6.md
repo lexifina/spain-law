@@ -1,6 +1,6 @@
 ## Art. 6. El Director general.
 
-Uno. Nombramiento y separación.–El Director general del Instituto es nombrado y separado por Real Decreto acordado en Consejo de Ministros, a propuesta del Ministro de Industria y Energía.
+Uno. Nombramiento y separación. El Director general del Instituto es nombrado y separado por Real Decreto acordado en Consejo de Ministros, a propuesta del Ministro de Industria y Energía.
 
 Dos. Atribuciones:
 
@@ -22,7 +22,7 @@ f) Contratar al personal del Instituto de conformidad con las bases señaladas p
 
 g) Acordar el nombramiento y separación del personal directivo del Instituto. Estos nombramientos y separaciones tendrán el carácter de provisionales en tanto no sean ratificadas por el Consejo de Administración.
 
-h) Aprobar los proyectos de estudios, obras o servicios y negocios jurídicos en general por cuantía inferior a 10.000.000 de pesetas.
+h) Aprobar los proyectos de estudios, obras o servicios y negocios jurídicos en general hasta una cuantía de 20.000.000 de pesetas.
 
 i) Representar al Instituto, por delegación del Consejo, en el ejercicio de cualesquiera acciones y recursos y ante cualesquiera personas o Entidades públicas o privadas.
 
@@ -35,3 +35,5 @@ Tres. Sustituciones y delegaciones:
 1. En caso de vacante, ausencia o enfermedad, el Director general será sustituido por la persona que designe el Consejo de Administración. En caso de urgencia, el Presidente del Instituto podrá designar, a título provisional, un sustituto, que deberá ser confirmado por el Consejo de Administración convocado a tal efecto.
 
 2. El Director general, cuando lo considere necesario, podrá delegar todas sus atribuciones, excepto las mencionadas en las letras d), e), f) y g) del anterior número dos.2 de este mismo artículo.
+
+> Se modifica el apartado 2.2.h) por el art. 3 del Real Decreto 252/1997, de 21 de febrero. Ref. BOE-A-1997-4582
