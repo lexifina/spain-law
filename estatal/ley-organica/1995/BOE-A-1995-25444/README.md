@@ -425,6 +425,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 316](a316.md)
 - [Artículo 317](a317.md)
 - [Artículo 318](a318.md)
+- [TÍTULO XV bis](txvbis.md)
+- [Artículo 318 bis](a318bis.md)
 - [TÍTULO XVI](txvi.md)
 - [CAPÍTULO I](ci-12.md)
 - [Artículo 319](a319.md)
