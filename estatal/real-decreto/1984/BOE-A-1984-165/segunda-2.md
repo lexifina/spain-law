@@ -1,0 +1,5 @@
+## Disposición transitoria segunda.
+
+La implantación del régimen de descanso semanal previsto en el artículo 8.º se efectuará de forma gradual, de modo que a partir de 1 de enero de 1984, y para el conjunto de dicho año, se disfrute de un tercio de los segundos días de descanso establecidos en tal precepto, continuándose al mismo ritmo de implantación de un tercio más de descanso por año en 1985 y 1986. Por convenio colectivo podrá establecerse otro calendario de implantación de los descansos, sin superar el límite temporal del año 1986.En todo caso deberán respetarse los descansos mínimos previstos en el artículo 37.1 del Estatuto de los Trabajadores.
+
+A efectos de aplicar las reglas contenidas en el párrafo anterior, a los descansos previstos en el mismo para 1984 se adicionarán aquellos que pudieran venirse disfrutando con anterioridad por convenio o pacto, sin que de la suma de ambos puedan resultar, para 1984, más de dos tercios del total de descansos anuales, salvo en aquellas Empresas que por aplicación del párrafo segundo de la disposición transitoria primera se superase este porcentaje.
