@@ -26,7 +26,11 @@ Las Cooperativas que, por precepto de sus Estatutos, hayan de estar constituidas
 
 10. A las Empresas nacionales que tengan entre sus fines el de construcción de viviendas.
 
+11. Las Sociedades estatales que tengan entre sus fines la construcción de viviendas.
+
 Segundo.–Para llevar a cabo la construcción de viviendas destinadas a maestros y sacerdotes, o la de servicios, instalaciones y edificios complementarlos comprendidos en Planes Nacionales de la Vivienda, siempre que sean objeto de utilización de ánimo de lucro, a cualquiera de los promotores relacionados en el artículo 22 de este Reglamento.
+
+> Se añade el apartado 1.11 por el art. 2 del Real Decreto 3067/1978, de 1 de diciembre. Ref. BOE-A-1978-31240.
 
 > Se añade el apartado 1.10 por el art. 1 del Decreto 3442/1975, de 5 de diciembre. Ref. BOE-A-1975-26816.
 
