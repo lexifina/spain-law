@@ -1,0 +1,13 @@
+La Ley Orgánica 9/1995, de 20 de noviembre, de la Participación, la Evaluación y el Gobierno de los Centros Docentes (LOPEG) regula un procedimiento de admisión de alumnos en las enseñanzas de Grado Superior de Formación Profesional, cuando no existan plazas suficientes, basado en la prioridad de requisitos de tipo académico, que modifica los criterios establecidos en la Ley Orgánica 8/1985, de 3 de julio, reguladora del derecho a la Educación (LODE) y que hace necesaria desarrollar la Orden de 20 de abril de 1994 («Boletín Oficial del Estado» del 27), adecuándola a lo establecido en la LOPEG.
+
+Al mismo tiempo, ha de establecerse, con carácter transitorio, el acceso a los ciclos formativos de Grado Medio y Superior, de aquellos alumnos que no han realizado los estudios establecidos en la Ley Orgánica 1/1990, de 3 de octubre, de ordenación General del Sistema Educativo (LOGSE), al proceder de enseñanzas reguladas por la Ley General de Educación de 1970 o anteriores.
+
+Por otra parte, como consecuencia de la finalización del primer proceso de elaboración del Catálogo de Títulos de Formación Profesional, existen determinados aspectos incluidos en los Reales Decretos correspondientes, tanto en los de enseñanzas mínimas como en los que establecen los currículos, que deben ser desarrollados para completar la implantación de la nueva Formación Profesional específica surgida de la LOGSE.
+
+Del mismo modo, la implantación anticipada de determinados ciclos formativos ha demostrado la necesidad de normas de desarrollo que aclaren algunas cuestiones en materia de ordenación relativas a evaluación, acreditación académica y promoción de los alumnos que cursen Formación Profesional específica, ya reguladas por la Orden de 14 de noviembre de 1994 («Boletín Oficial del Estado» del 24), por la que se regula el proceso de evaluación y acreditación académica del alumnado que curse la formación profesional específica establecida en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+El objeto de la presente Resolución es, por tanto, en el ámbito territorial que gestiona el Ministerio de Educación y Ciencia, regular y determinar los oportunos aspectos, referentes a sistemas de acceso, procedimientos de admisión y matriculación del alumnado, horarios, evaluación y calificación de los ciclos formativos de Grado Medio y Superior que faciliten el funcionamiento ordinario de los centros, y que resultan imprescindibles para que el proceso de implantación de la nueva ordenación del sistema educativo en materia de formación profesional se consolide de forma definitiva.
+
+En consecuencia, y en virtud de la atribuciones conferidas,
+
+Esta Secretaría de Estado de Educación ha resuelto:
