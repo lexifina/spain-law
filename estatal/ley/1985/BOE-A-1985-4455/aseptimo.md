@@ -19,3 +19,5 @@ e) La vigilancia e inspección.
 4. De conformidad con lo previsto en los respectivos Estatutos de Autonomía, las fases de ejecución de los controles metrológicos a que se refieren los anteriores puntos c), d) y e), del apartado 2 de este artículo podrán ser realizados, de acuerdo con las directrices técnicas y de coordinación señaladas por la Administración del Estado, por los servicios de las Comunidades Autónomas o, en su caso, por los Ayuntamientos, con arreglo a sus competencias específicas.
 
 5. Se reconoce validez en todo el territorio del Estado a los controles que efectúen en aplicación de la presente Ley los órganos de la Administración del Estado o, en su caso, los de las Comunidades Autónomas a las que se refiere el párrafo anterior. Todos ellos serán refrendados por la marca distintiva que reglamentariamente se determine.
+
+> Se declara que el apartado 4 no es aplicable en la Comunidad Autónoma de Cataluña por la Sentencia del TC 100/1991, de 13 de mayo. Ref. BOE-T-1991-15518
