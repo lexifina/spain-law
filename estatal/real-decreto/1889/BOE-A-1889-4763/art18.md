@@ -1,5 +1,13 @@
 ## Artículo 18.
 
-Los hijos, mientras permanezcan bajo la patria potestad, tienen la nacionalidad de sus padres.
+Pueden adquirir la nacionalidad española a virtud de opción:
 
-Para que los nacidos de padres extranjeros en territorio español puedan gozar del beneficio que les otorga el número 1.º del artículo 17, será requisito indispensable que los padres manifiesten, en la manera y ante los funcionarios expresados en el artículo 19, que optan, a nombre de sus hijos, por la nacionalidad española, renunciando a toda otra.
+Primero. Los nacidos en territorio español de padres extranjeros que no se hallen comprendidos en el número tercero del artículo diecisiete.
+
+Segundo. Los nacidos fuera de España de padre o madre que originariamente hubieran sido españoles.
+
+Los interesados podrán hacer la declaración de opción, dentro del año siguiente a su mayor edad o emancipación, ante el encargado del Registro del Estado Civil del pueblo en que residieren para los que se hallen en el Reino, o ante uno de los Agentes consulares o diplomáticos del Gobierno español, si residen en el extranjero.
+
+Para que la declaración de opción produzca efectos será preciso que se cumplan los requisitos expresados en el último párrafo del artículo diecinueve.
+
+> Se modifica por el art. 1 de la Ley de 15 de julio de 1954. Ref. BOE-A-1954-10882.

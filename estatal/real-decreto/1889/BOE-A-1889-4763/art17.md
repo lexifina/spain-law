@@ -2,10 +2,12 @@
 
 Son españoles:
 
-1.º Las personas nacidas en territorio español.
+Primero. Los hijos de padre español.
 
-2.º Los hijos de padre o madre españoles, aunque hayan nacido fuera de España.
+Segundo. Los hijos de madre española aunque el padre sea extranjero, cuando no sigan la nacionalidad del padre.
 
-3.º Los extranjeros que hayan obtenido carta de naturaleza.
+Tercero. Los nacidos en España de padres extranjeros, si éstos hubieran nacido en España y en ella estuviesen domiciliados al tiempo del nacimiento. Exceptúanse los hijos de extranjeros adscritos al servicio diplomático.
 
-4.º Los que, sin ella, hayan ganado vecindad en cualquier pueblo de la Monarquía.
+Cuarto. Los nacidos en España de padres desconocidos; sin perjuicio de que conocida su verdadera filiación, ésta surta los efectos que procedan.
+
+> Se modifica por el art. 1 de la Ley de 15 de julio de 1954. Ref. BOE-A-1954-10882.

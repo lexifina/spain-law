@@ -1,3 +1,7 @@
 ## Artículo 21.
 
-El español que pierda esta calidad por adquirir naturaleza en país extranjero, podrá recobrarla volviendo al Reino, declarando que tal es su voluntad ante el encargado del Registro Civil del domicilio que elija para que haga la inscripción correspondiente, y renunciando a la protección del pabellón de aquel país.
+La extranjera que contraiga matrimonio con español adquiere la nacionalidad de su marido.
+
+A los efectos de la nacionalidad, la declaración de nulidad del matrimonio queda sujeta al régimen del artículo sesenta y nueve.
+
+> Se modifica por el art. 1 de la Ley de 15 de julio de 1954. Ref. BOE-A-1954-10882.

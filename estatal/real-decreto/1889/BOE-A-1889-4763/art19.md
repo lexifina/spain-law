@@ -1,5 +1,11 @@
 ## Artículo 19.
 
-Los hijos de un extranjero nacidos en los dominios españoles deberán manifestar, dentro del año siguiente a su mayor edad o emancipación, si quieren gozar de la calidad de españoles que les concede el artículo 17.
+También podrá adquirirse la nacionalidad española mediante la obtención de carta de naturaleza, otorgable discrecionalmente por el Jefe del Estado, cuando en el peticionario concurran circunstancias excepcionales, o por la residencia en territorio español durante el tiempo establecido en el artículo siguiente.
 
-Los que se hallen en el Reino harán esta manifestación ante el encargado del Registro Civil del pueblo en que residieren; los que residan en el extranjero, ante uno de los Agentes consulares o diplomáticos del Gobierno español; y los que se encuentren en un país en que el Gobierno no tenga ningún Agente, dirigiéndose al Ministro de Estado en España.
+En uno y otro caso, el que pretenda adquirir la nacionalidad española habrá de tener veintiún años cumplidos o dieciocho y hallarse emancipado.
+
+La nacionalidad así obtenida por el marido se extiende a la mujer no separada legalmente y a los hijos que se encuentren bajo la patria potestad.
+
+Son requisitos comunes a ambas formas de adquirir la nacionalidad: Primero, la renuncia previa a la nacionalidad anterior; segundo, prestar juramento de fidelidad al Jefe del Estado y de obediencia a las leyes; tercero, inscribirse como español en el Registro del Estado Civil.
+
+> Se modifica por el art. 1 de la Ley de 15 de julio de 1954. Ref. BOE-A-1954-10882.

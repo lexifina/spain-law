@@ -1,3 +1,5 @@
 ## Artículo 26.
 
-Los españoles que trasladen su domicilio a un país extranjero, donde sin más circunstancia que la de su residencia en él sean considerados como naturales, necesitarán, para conservar la nacionalidad de España, manifestar que ésta es su voluntad al Agente diplomático o consular español, quien deberá inscribirlo en el Registro de españoles residentes, así como a sus cónyuges, si fueren casados, y a los hijos que tuvieren.
+Los que habiendo nacido y residiendo en el extranjero ostenten la nacionalidad española por ser hijos de padre o madre españoles, también nacidos en el extranjero, aunque las leyes del país donde residan les atribuyan la nacionalidad del mismo, no perderán la española si declaran expresamente su voluntad de conservarla ante el Agente diplomático o consular español o, en su defecto, en documento debidamente autenticado dirigido al Ministerio de Asuntos Exteriores de España.
+
+> Se modifica por el art. 1 de la Ley de 15 de julio de 1954. Ref. BOE-A-1954-10882.

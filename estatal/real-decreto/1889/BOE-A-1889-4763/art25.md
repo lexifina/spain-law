@@ -1,3 +1,9 @@
 ## Artículo 25.
 
-Para que los extranjeros que hayan obtenido carta de naturaleza o ganado vecindad en cualquier pueblo de la Monarquía gocen de la nacionalidad española han de renunciar previamente a su nacionalidad anterior, jurar la Constitución de la Monarquía e inscribirse como españoles en el Registro Civil.
+La mujer española que hubiere perdido su nacionalidad por razón de matrimonio, podrá recobrarla una vez disuelto o declarada la separación judicial a perpetuidad, cumpliendo los requisitos expresados en el artículo anterior.
+
+Los hijos que hayan perdido la nacionalidad española por razón de la patria potestad, una vez extinguida ésta, tienen derecho a recuperarla mediante el ejercicio de la opción regulada en el artículo dieciocho.
+
+Los que hayan sido condenados a la pérdida de la nacionalidad española o hayan sido privados de ella por haber entrado al servicio de las armas o ejercer cargo en Estado extranjero, sólo podrán recobrarla por concesión graciosa del Jefe del Estado.
+
+> Se modifica por el art. 1 de la Ley de 15 de julio de 1954. Ref. BOE-A-1954-10882.

@@ -1,5 +1,13 @@
 ## Artículo 22.
 
-La mujer casada sigue la condición y nacionalidad de su marido.
+Perderán la nacionalidad española los que hubieran adquirido voluntariamente otra nacionalidad.
 
-La española que casare con extranjero, podrá, disuelto el matrimonio, recobrar la nacionalidad española, llenando los requisitos expresados en el artículo anterior.
+Para que la pérdida produzca efectos se requiere tener veintiún años cumplidos o dieciocho y hallarse emancipado; haber residido fuera de España al menos durante los tres años inmediatamente anteriores y, en cuanto a los varones, no estar sujetos al servicio militar en periodo activo, salvo que medie dispensa del Gobierno. La mujer casada no podrá por sí sola adquirir voluntariamente otra nacionalidad, a menos que esté separada legalmente.
+
+No podrá perderse la nacionalidad española por adquisición voluntaria de otra si España se hallare en guerra.
+
+No obstante lo dispuesto en el párrafo primero, la adquisición de la nacionalidad de un país iberoamericano o de Filipinas no producirá pérdida de la nacionalidad española cuando así se haya convenido expresamente con el Estado cuya nacionalidad se adquiera.
+
+Correlativamente y siempre que mediare convenio que de modo expreso así lo establezca, la adquisición de la nacionalidad española no implicará la pérdida de la de origen, cuando esta última fuera la de un país iberoamericano o de Filipinas.
+
+> Se modifica por el art. 1 de la Ley de 15 de julio de 1954. Ref. BOE-A-1954-10882.
