@@ -7,3 +7,5 @@
 a) Un recargo sobre el impuesto sobre la Renta de las Personas Físicas que será exigible a los residentes dentro de su término con arreglo a las normas contenidas en los artículos 8.º y siguientes de la presente Ley, sin perjuicio del que puedan establecer los Ayuntamientos integrados en el ente supramunicipal.
 
 b) Un recargo sobre la base liquidable de la Contribución Territorial Urbana que será examinado conjuntamente con ésta.
+
+> Téngase en cuenta que se declara que no es aplicable este artículo en el territorio de Cataluña y País Vasco, según establece la Sentencia del TC 179/1985, de 19 de diciembre. Ref. BOE-T-1986-1137.

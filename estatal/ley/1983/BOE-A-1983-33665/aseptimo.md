@@ -7,3 +7,5 @@
 Dichos informes, conocidos por el Gobierno, originarán comunicaciones de éste a las Cortes Generales.
 
 3. El incumplimiento de las obligaciones provistas en los artículos 4.º al 6.º de esta Ley y en el número 1 de esto artículo por las Entidades Locales supondrá automáticamente la pérdida de los beneficios concedidos y la obligación de reintegrar los fondos percibidos, a cuyo efecto el Ministerio de Economía y Hacienda podrá retener las cantidades que procedan de las entregas que, por cualquier causa, haya de efectuar al Tesoro Público a aquellas Corporaciones.
+
+> Téngase en cuenta que se declara que es contrario a la Constitución atribuir a los servicios del Ministerio de Economía y Hacienda la competencia para llevar a cabo en Cataluña la inspección a que se refiere el apartado 2, según establece la Sentencia del TC 179/1985, de 19 de diciembre. Ref. BOE-T-1986-1137.
