@@ -1,0 +1,1 @@
+Téngase en cuenta que se declaran en vigor las disposiciones del presente Reglamento en cuanto no se opongan a las del Decreto 2540/1960, de 22 de diciembre, por el que se reforma y complementa el Reglamento de Policía Minera y Metalúrgica, Ref. BOE-A-1961-1000, según esablece su art. 48.
