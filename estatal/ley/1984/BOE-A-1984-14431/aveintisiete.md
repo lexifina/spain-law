@@ -1,0 +1,3 @@
+## Artículo veintisiete
+
+Con objeto de facilitar la coordinación de las actividades de las distintas Comunidades Autónomas, y efectuar un seguimiento de los planes nacionales, se constituirá en la Secretaria General de Pesca Marítima una Junta Nacional Asesora de Cultivos Marinos, de la que formarán parte todas las Consejerías de Pesca, y en la que será oído el sector de Cultivos Marinos. Los objetivos concretos, la composición y funcionamiento de dicha Junta serán desarrollados en un Reglamento que previa conformidad de las Comunidades Autónomas, será sancionado y publicado por el Ministerio de Agricultura, Pesca y Alimentación.

@@ -1,0 +1,3 @@
+## Artículo siete
+
+Las empresas o explotaciones promovidas por las Cofradías de Pescadores, Cooperativas de cultivos marinos y organizaciones de productores tendrán preferencia en su ámbito de actuación en el otorgamiento de concesiones y autorizaciones para la instalación, explotación y funcionamiento de cualquier establecimiento de cultivos marinos en zonas de dominio público, cuando sus proyectos se presenten en los plazos establecidos por el Organismo competente en materia de Pesca y reúnan iguales garantías técnicas, económicas y financieras que otras peticiones que coincidan en la misma zona.
