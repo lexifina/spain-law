@@ -32,7 +32,9 @@ Si fuera necesario en función de los riesgos que presente un equipo de trabajo 
 
 5. Cualquier equipo de trabajo que entrañe riesgo por emanación de gases, vapores o líquidos o por emisión de polvo deberá estar provisto de dispositivos adecuados de captación o extracción cerca de la fuente emisora correspondiente.
 
-6. Si fuera necesario para la seguridad o la salud de los trabajadores, los equipos de trabajo y sus elementos deberán estabilizarse por fijación o por otros medios. Los equipos de trabajo cuya utilización prevista requiera que los trabajadores se sitúen sobre los mismos deberán disponer de los medios adecuados para garantizar que el acceso y permanencia en esos equipos no suponga un riesgo para su seguridad y salud. En particular, cuando exista riesgo de caída de altura de más de 2 metros, deberán disponer de barandillas rígidas de una altura mínima de 90 centímetros, o de cualquier otro sistema que proporcione una protección equivalente.
+6. Si fuera necesario para la seguridad o salud de los trabajadores, los equipos de trabajo y sus elementos deberán estar estabilizados por fijación o por otros medios. Los equipos de trabajo cuya utilización prevista requiera que los trabajadores se sitúen sobre ellos deberán disponer de los medios adecuados para garantizar que el acceso y permanencia en esos equipos no suponga un riesgo para su seguridad y salud. En particular, salvo en el caso de las escaleras de mano y de los sistemas utilizados en las técnicas de acceso y posicionamiento mediante cuerdas, cuando exista un riesgo de caída de altura de más de dos metros, los equipos de trabajo deberán disponer de barandillas o de cualquier otro sistema de protección colectiva que proporcione una seguridad equivalente. Las barandillas deberán ser resistentes, de una altura mínima de 90 centímetros y, cuando sea necesario para impedir el paso o deslizamiento de los trabajadores o para evitar la caída de objetos, dispondrán, respectivamente, de una protección intermedia y de un rodapiés.
+
+Las escaleras de mano, los andamios y los sistemas utilizados en las técnicas de acceso y posicionamiento mediante cuerdas deberán tener la resistencia y los elementos necesarios de apoyo o sujeción, o ambos, para que su utilización en las condiciones para las que han sido diseñados no suponga un riesgo de caída por rotura o desplazamiento. En particular, las escaleras de tijera dispondrán de elementos de seguridad que impidan su apertura al ser utilizadas.
 
 7. En los casos en que exista riesgo de estallido o de rotura de elementos de un equipo de trabajo que pueda afectar significativamente a la seguridad o a la salud de los trabajadores deberán adoptarse las medidas de protección adecuadas.
 
@@ -154,4 +156,4 @@ c) Los equipos de trabajo instalados de forma permanente deberán instalarse de 
 
 Si por razones inherentes al lugar y al desnivel, los riesgos previstos en el párrafo 1.º anterior no pueden evitarse por medio de ningún dispositivo de seguridad, deberá instalarse un cable con coeficiente de seguridad reforzado cuyo buen estado se comprobará todos los días de trabajo.
 
-> El apartado 2 entra en vigor el 5 de diciembre de 1998, según establece la disposición final 3.
+> Se modifica el apartado 1.6 por el art. único .1 del Real Decreto 2177/2004, de 12 de noviembre. Ref. BOE-A-2004-19311
