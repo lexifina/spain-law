@@ -166,6 +166,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria décima](decima-2.md)
 - [Disposición transitoria undécima](undecima-2.md)
 - [Disposición transitoria duodécima](duodecima-2.md)
+- [Disposición transitoria decimotercera](decimotercera-2.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final primera](primera-3.md)
 - [Disposición final segunda](segunda-3.md)

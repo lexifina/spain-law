@@ -48,6 +48,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo veintiocho](aveintiocho.md)
 - [CAPÍTULO VII](cvii.md)
 - [Artículo veintinueve](aveintinueve.md)
+- [Artículo veintinueve bis](aveintinuevebis.md)
 - [Artículo treinta](atreinta.md)
 - [Artículo treinta y uno](atreintayuno.md)
 - [Artículo treinta y dos](atreintaydos.md)

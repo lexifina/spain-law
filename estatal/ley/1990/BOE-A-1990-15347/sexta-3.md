@@ -1,0 +1,3 @@
+## Disposición final sexta. Plantilla de las Fuerzas Armadas.
+
+En tanto no se determinen con rango de Ley, de conformidad con lo preceptuado en el artículo 31 de la Ley 17/1989, de 19 de julio, reguladora del Régimen del Personal Militar Profesional, las nuevas plantillas de las Fuerzas Armadas, se autoriza al Gobierno a distribuir las establecidas en las Leyes 40/1984, de 1 de diciembre; 8/1986, de 4 de febrero, y 9/1986, de 4 de febrero, de plantillas del Ejército de Tierra, de la Armada y del Ejército del Aire, respectivamente, para adaptarlas a la nueva estructura de Cuerpos, Escalas y empleos de la Ley 17/1989, sin que dicha distribución pueda representar incremento del número total de efectivos ni aumento de gasto.

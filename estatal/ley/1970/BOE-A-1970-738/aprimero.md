@@ -1,31 +1,21 @@
 ## Artículo primero.
 
-Uno. Con la denominación de «Compañía Española de Seguros de Crédito a la Exportación, S. A.», se constituirá una Sociedad Anónima, a la que se concede en exclusiva las modalidades de cobertura de los riesgos comerciales derivados del comercio exterior que a continuación se señalan, así como la gestión de la cobertura de los riesgos políticos y extraordinarios que realizará por cuenta del Estado.
+Uno. Los riesgos derivados del comercio exterior e internacional, en las diferentes modalidades del Seguro de Crédito a la Exportación, podrán ser cubiertos por cualquier entidad de seguros autorizada para operar en el ramo del seguro de crédito o en el de caución.
 
-Dos. Tendrán el carácter de riegos comerciales derivados del comercio exterior los inherentes a las siguientes modalidades de seguro:
+Dos. El Estado podrá asumir la cobertura de riesgos de los mencionados en el número precedente. A estos efectos, el Ministro de Economía y Hacienda determinará el tipo de riesgos que podrá cubrir el Estado.
 
-a) Seguro de riesgos por resolución de contrato.
+Tres. La "Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima", gestionará en nombre propio y por cuenta del Estado, con carácter exclusivo, la cobertura de los riesgos que sean asumidos por éste.
 
-b) Seguro de riesgos a partir de la expedición.
+Cuatro. En los contratos de seguro de crédito a la exportación que gestione por cuenta del Estado la "Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima", devendrá ésta, al abonar la indemnización pactada en el contrato de seguro, propietaria por cuenta del Estado y en el mismo porcentaje de cobertura convenido, del crédito correspondiente al vencimiento o vencimientos indemnizados, y representante, a efectos de su gestión, del tomador del seguro en la cuota no amparada por el seguro.
 
-c) Seguro de créditos financieros vinculados a operaciones de exportación.
+Dicha Compañía podrá suscribir convenios sobre moratorias y remisiones parciales de deuda, por la totalidad del crédito afectado por dichos convenios o remisiones, aun cuando incluyan créditos no vencidos. Asimismo, podrá enajenar los créditos derivados de tal cobertura para facilitar operaciones de conversión de deuda en inversión directa u otras facilidades. En todos los casos, será necesaria la ratificación del Ministro de Economía y Hacienda.
 
-d) Seguro de créditos de prefinanciación de exportaciones.
-
-Tres. La «Compañía Española de Seguros de Crédito a la Exportación, S. A,», cubrirá por cuenta del Estado los riesgos políticos y extraordinarios a que se refieren los apartados a), b) y c) del número anterior, así como los inherentes a:
-
-a) Seguro de prospección de mercados y asistencia a ferias.
-
-b) Seguro de elevación de costos.
-
-c) Seguro de diferencias de cambio.
-
-Cuatro. Podrán asimismo crearse otras modalidades de seguros para la cobertura de riesgos comerciales y políticos y extraordinarios, derivados del crédito a la exportación, siempre que sean aprobadas por el Ministro de Hacienda, previo informe del Ministro de Comercio, a propuesta del Comité del Seguro de Crédito a la Exportación que se constituye en el artículo octavo de la presente Ley.
+Los convenios que en uso de la autorización que precede suscriba la «Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima», serán plenamente oponibles a sus asegurados, y vinculantes para estos últimos por la totalidad de los créditos incluidos en tales convenios sin perjuicio de la titularidad dominical de los asegurados sobre el porcentaje del crédito no asegurado,oni del derecho de estos últimos a percibir las indemnizaciones que procedan en términos del contrato o contratos de seguro suscrito.
 
 Cinco. La constitución y el funcionamiento de la Sociedad que se crea se ajustarán, en lo no previsto por esta Ley y por las disposiciones que se dicten para su ejecución y desarrollo, a lo establecido en la vigente legislación de seguros privados y en las normas de Derecho privado.
 
 Seis. No será aplicable a la «Compañía Española de Seguros de Crédito a la Exportación, S. A.», la Ley de Entidades Estatales Autónomas de veintiséis de diciembre de mil novecientos cincuenta y ocho.
 
-Siete. En los riesgos políticos y extraordinarios cuya cobertura gestiona por cuenta del Estado la "Compañía Española de Seguros de Crédito a la Exportación, S. A.", podrá ésta suscribir convenios sobre moratorias y remisiones parciales de deuda. Asimismo, podrá enajenar los créditos derivados de tal cobertura para facilitar operaciones de conversión de deuda en inversión directa u otras facilidades. En todos los casos será necesaria la ratificación del Ministro de Economía y Hacienda.
+> Se modifican los apartados 1 a 4 y se deroga el 7 por la disposición adicional 8.1.1 y disposición derogatoria 1.1.1 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347.
 
 > Se añade el apartado 7 por la disposición adicional 6.1.1de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.
