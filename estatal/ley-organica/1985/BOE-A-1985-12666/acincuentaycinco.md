@@ -1,11 +1,15 @@
-## Artículo cincuenta y cinco
+## Artículo 55.
 
 El Tribunal Supremo estará integrado por las siguientes Salas:
 
-– Primera: de lo Civil.
+Primera: De lo Civil.
 
-– Segunda: de lo Penal.
+Segunda: De lo Penal.
 
-– Tercera: de lo Contencioso-Administrativo.
+Tercera: De lo Contencioso-Administrativo.
 
-– Cuarta: de lo Social.
+Cuarta: De lo Social.
+
+Quinta: De lo Militar, que se regirá por su legislación específica y supletoriamente por la presente Ley y por el ordenamiento común a las demás Salas del Tribunal Supremo.
+
+> Se modifica por la disposición adicional 6 de la Ley Orgánica 4/1987, de 15 de julio. Ref. BOE-A-1987-16791
