@@ -1,3 +1,5 @@
 ## Disposición final tercera.
 
-El Gobierno informará periódicamente a las Cortes Generales de los gastos contraídos y obras realizadas con cargo a los créditos a distribuir por acuerdo del Consejo de Ministros para programas de Planes Provinciales y Comarcas de Acción Especial.
+(Derogada)
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623

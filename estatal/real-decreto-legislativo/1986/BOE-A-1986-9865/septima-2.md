@@ -6,4 +6,6 @@ a) Tienen carácter básico, en las materias reguladas por los cinco primeros t�
 
 b) En las materias reguladas por los títulos VI y VIl se inferirá el carácter básico de sus preceptos conforme a su naturaleza o según disponga la legislación estatal vigente en aquéllas.
 
-2. La regulación contenida en el título VIII constituye la legislación estatal prevenida en el artículo 5. E). a), de la Ley 7/1985, de 2 de abril.
+2. (Derogado)
+
+> Se deroga el apartado 2 por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623

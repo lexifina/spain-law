@@ -1,3 +1,7 @@
 ## Subsección séptima. Impuesto Municipal sobre Solares
 
+(Derogada)
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
 > Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436

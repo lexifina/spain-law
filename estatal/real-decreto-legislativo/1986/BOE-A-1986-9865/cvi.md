@@ -1,3 +1,7 @@
 ## CAPITULO VI
 
 ## Disposiciones comunes a las Haciendas Locales
+
+(Derogado)
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623

@@ -1,3 +1,5 @@
 ## Disposición final cuarta.
 
-Queda autorizado el Gobierno a propuesta del Ministerio de Economía y Hacienda para regular un procedimiento de autoliquidación de las altas por Contribución Territorial Urbana, correspondiente a nuevas construcciones, constituyendo los valores respectivos aquellos que se determinan a los efectos del Impuesto de Transmisiones Patrimoniales y Actos Jurídicos Documentados, sin perjuicio de la liquidación definitiva que se practique, de acuerdo con los valores señalados conforme a esta Ley.
+(Derogada)
+
+> Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
