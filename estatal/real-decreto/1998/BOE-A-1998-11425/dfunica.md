@@ -1,0 +1,3 @@
+## Disposición final única. Habilitación normativa.
+
+Sin perjuicio de las habilitaciones específicas contenidas en el presente Real Decreto, el Ministro de Economía y Hacienda y, con su habilitación expresa, la Comisión Nacional del Mercado de Valores, podrán dictar las disposiciones que resulten necesarias para la ejecución y desarrollo del mismo. En especial, podrán dictar reglas específicas relativas a la contabilidad, formato y contenido de las cuentas anuales e informes de gestión de los fondos, alcance y contenido de los informes especiales de auditores u otros expertos independientes y obligaciones de información de los fondos de titulización y sus sociedades gestoras.
