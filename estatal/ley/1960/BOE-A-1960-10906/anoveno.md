@@ -14,6 +14,10 @@ Quinta. Contribuir, con arreglo a la cuota de participación fijada en el títul
 
 Al pago de estos gastos producidos en el último año y la parte vencida de la anualidad corriente estará afecto el piso o local, cualquiera que fuere su propietario actual y el título de su adquisición, siendo este crédito a favor de la comunidad de propietarios preferente a cualquier otro, y sin perjuicio de las responsabilidades personales procedentes.
 
+En la escritura por la que se transmita el piso o local a título oneroso deberá el transmitente declarar hallarse al corriente en el pago de los gastos o, en su caso, expresar los que adeudare; el transmitente a título oneroso, quedará sujeto a la obligación legal de saneamiento o por la carga no aparente de los gastos a cuyo pago este afecto el piso o local.
+
 Sexta. Observar la diligencia debida en el uso del inmueble y en sus relaciones con los demás titulares, y responder antes estos de las infracciones cometidas por el que ocupe su piso, sin perjuicio de las acciones directas que procedan.
 
 Para la aplicación de las reglas precedentes se reputarán generales los gastos que no sean imputables a uno o a varios pisos, sin que la no utilización de un servicio exima del cumplimiento de las obligaciones correspondientes.
+
+> Se añade el último párrafo a la obligación 5 por el art. único.2 de la Ley 2/1988, de 23 de febrero. Ref. BOE-A-1988-4823
