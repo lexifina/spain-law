@@ -18,7 +18,7 @@
 
 7. Real Decreto 1348/1992, de 6 de noviembre, por el que se aprueba la Reglamentación técnico-sanitaria que regula la producción y la comercialización de ovoproductos.
 
-8. Real Decreto 1436/1992, de 27 de noviembre, por el que se aprueba la Reglamentación técnico-sanitaria por la que se establecen los requisitos relativos a la producción y a los intercambios intracomunitarios de carnes picadas, de carnes en trozos de menos de 100 gramos y de preparados de carnes destinados al consumo humano directo o a la industria.
+8. Real Decreto 1916/1997, de 19 de diciembre, por el que se establecen las condiciones sanitarias aplicables a la producción y comercialización y comercialización de carne picada y preparados de carne.
 
 9. Real Decreto 1437/1992, de 27 de noviembre, por el que se fijan las normas sanitarias aplicables a la producción y comercialización de productos pesqueros y de la acuicultura.
 
@@ -35,6 +35,8 @@
 ## CAPÍTULO II
 
 Real Decreto 1882/1994, de 16 de septiembre, por el que se establecen las condiciones de sanidad animal y sanitarias aplicables a los intercambios e importaciones de productos no sometidos a las normas específicas establecidas en el capítulo I del anexo A del Real Decreto 49/1993, de 15 de enero, y, en lo relativo a los agentes patógenos, en el Real Decreto 1316/1992, de 30 de octubre.
+
+> Se modifica el apartado 8 del capítulo I por la disposición adicional 3 del Real Decreto 1916/1997, de 19 de diciembre. Ref. BOE-A-1998-551.
 
 > Se modifica por la disposición adicional 3 y anexo III del Real Decreto 2551/1994, de 29 de diciembre. Ref. BOE-A-1995-3553.
 
