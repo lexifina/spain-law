@@ -1,0 +1,5 @@
+## Cuarto. Descripción del servicio.
+
+1. El servicio de consulta telefónica sobre números de abonado consiste en la transmisión y conducción de llamadas desde los accesos a las redes públicas telefónicas hasta los correspondientes centros de atención de llamadas, así como el suministro, a los usuarios del servicio telefónico disponible al público, de información vocal y, opcionalmente de datos, relativa a los números de abonado de este servicio.
+
+2. Sin perjuicio de lo establecido en el punto 1 de este apartado, y con la salvaguarda de la protección de los datos personales a la que se refiere el apartado tercero, mediante el servicio de consulta telefónica sobre números de abonado se podrá proporcionar información sobre otros recursos identificativos de abonados de servicios de telecomunicaciones disponibles al público, tales como direcciones de correo electrónico o nombres de dominio. Igualmente, se podrá suministrar la información relacionada con los números de abonado que figure, o pueda figurar según la legislación vigente, en las publicaciones especializadas en la divulgación de datos comerciales.

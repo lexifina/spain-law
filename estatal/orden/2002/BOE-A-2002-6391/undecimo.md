@@ -1,0 +1,3 @@
+## Undécimo. Prestación de facilidades que aporten un mayor valor añadido al servicio.
+
+El servicio de consulta telefónica sobre números de abonado podrá incorporar facilidades que aporten un mayor valor añadido al servicio. No obstante, cuando se preste el servicio de terminación de llamadas, entendida ésta como la conexión telefónica entre los extremos llamante y llamado, el proveedor deberá estar en posesión del correspondiente título habilitante para la prestación del servicio telefónico disponible al público, debiendo garantizar que la información sobre identificación de línea llamante transite de forma transparente de extremo a extremo.
