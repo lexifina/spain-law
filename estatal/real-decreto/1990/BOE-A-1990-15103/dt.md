@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+Las prescripciones a que se refieren los epígrafes 2.2, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9. 2.10, 2.11, 2.12, 2.13, 2.14, 2.15, 2.16, 2.17, 2.18, 2.19, 2.20 2.21, 2.22, 2.23, 2.24, 2.25.2, 2.25.3, 2.26, 2.27, todos del artículo 2.º; los párrafos segundo y tercero del epígrafe 3.5, los epígrafes 3.6, 3.8, 3.9, 3.10 y 3.11 del artículo 3.º; el epígrafe 6.10 del artículo 6.º; los epígrafes 9.7, 9.8, 9.9 del artículo 9.º, y el epígrafe 10.1 en su integridad, a excepción de 10.1.4 y 10.2 del artículo 10, no serán exigibles hasta pasados veinticuatro meses, a contar desde la fecha de publicación en el «Boletín Oficial del Estado» del presente Real Decreto y de la Reglamentación técnico-sanitaria aprobada por el mismo.
