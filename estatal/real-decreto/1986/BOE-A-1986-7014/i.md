@@ -1,0 +1,1 @@
+## I. Ámbito de aplicación
