@@ -1,0 +1,3 @@
+## Artículo 8.
+
+El Consejo Escolar elaborará, siempre que lo estime oportuno y, en todo caso, una vez al año, un informe que formará parte de la memoria de final de curso sobre el funcionamiento del centro, en el que se evaluarán los resultados de la aplicación de las normas de convivencia, dando cuenta del ejercicio por los alumnos de sus derechos y deberes, analizando los problemas detectados en su aplicación efectiva y proponiendo la adopción de las medidas oportunas. La Inspección técnica de Educación examinará dicho informe y propondrá al centro o, en su caso, a las autoridades educativas las medidas que considere convenientes.

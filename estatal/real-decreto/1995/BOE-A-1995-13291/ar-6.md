@@ -1,0 +1,3 @@
+## Artículo 6.
+
+El Consejo Escolar velará por el correcto ejercicio de los derechos y deberes de los alumnos. Para facilitar dicho cometido se constituirá una Comisión de convivencia, compuesta por profesores, padres y alumnos, elegidos por el sector correspondiente, y que será presidida por el Director. Las funciones principales de dicha Comisión serán las de resolver y mediar en los conflictos planteados y canalizar las iniciativas de todos los sectores de la comunidad educativa para mejorar la convivencia, el respeto mutuo y la tolerancia en los centros docentes. Todo ello a los efectos de garantizar una aplicación correcta de lo dispuesto en este Real Decreto.
