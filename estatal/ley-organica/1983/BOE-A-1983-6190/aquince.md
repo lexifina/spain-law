@@ -1,0 +1,3 @@
+## Artículo quince.
+
+Tanto en el ejercicio de las competencias propias como de las que la Comunidad reciba del Estado por transferencia o delegación, sus instituciones de gobierno tendrán como objetivo primordial promover, con el apoyo necesario del Estado, las condiciones favorables para el progreso social y económico en la región y velarán por la consecución de un equilibrio económico adecuado y justo con respecto al resto de las Comunidades del Estado español cifrado en un nivel y calidad de vida para todos los que viven y trabajan en Extremadura igual, como mínimo, a los valores medios alcanzados en el resto de España.
