@@ -1,0 +1,9 @@
+La disposición adicional tercera de la Ley 82/1980, de 30 de diciembre, preceptúa que los Ministerios Obras Públicas y Urbanismo, y de Industria y Energía, establecerán un procedimiento abreviado para la tramitación de las autorizaciones y concesiones administrativas precisas para las instalaciones a que dé lugar la referida Ley, cuyo artículo 2.°.1, apartado j), establece como actividad comprendida en la misma la construcción, ampliación o adaptación, para su utilización, de instalaciones de producción hidroeléctrica, con una potencia de hasta 5.000 KVA
+
+Con objeto de dar cumplimiento a lo preceptuado en la citada disposición adicional en el ámbito de la competencia estatal, se ha simplificado el procedimiento vigente, ampliándose las atribuciones de las Comisaría de Aguas de las cuencas, en orden al otorgamiento de concesiones de aprovechamientos hidroeléctricos de potencia no superior a 5.000 KVA, sin perjuicio de que se mantenga vigente el procedimiento actual de concesiones de dichos aprovechamientos para los territorios de las Comunidades Autónomas que en ejercicio de sus competencias estatutarias establezcan diferentes procedimientos para la tramitación de las autorizaciones de instalaciones eléctricas y de los expedientes de expropiación e imposición de servidumbres para dichas instalaciones.
+
+El procedimiento establecido por el presente Real Decreto lleva a efecto una reducción de los plazos para la ejecución de determinadas actuaciones y regula la simultaneidad de aquellos trámites que pueden sustanciarse con independencia de otros, reduciendo con ello la duración del expediente.
+
+En su virtud, de acuerdo con el Consejo de Estado, y a propuesta de los Ministros de Obras Públicas y Urbanismo e Industria y Energía, previa deliberación del Consejo de Ministros, en su reunión de 22 de mayo de 1985
+
+DISPONGO
