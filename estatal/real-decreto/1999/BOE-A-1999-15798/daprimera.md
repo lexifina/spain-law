@@ -1,5 +1,9 @@
 ## Disposición adicional primera. Aplicación del Reglamento de explosivos.
 
-1. El presente Real Decreto no será de aplicación a los establecimientos regulados por el Reglamento de explosivos, aprobado por Real Decreto 230/1998, de 16 de febrero, que se regirán por su normativa específica, salvo en lo relativo a los planes de emergencia exterior, en que se regirán por lo dispuesto en la presente norma.
+1. Este real decreto no será de aplicación a los establecimientos regulados por el Reglamento de Explosivos, aprobado por el Real Decreto 230/1998, de 16 de febrero, que se regirán por su normativa específica, salvo en lo relativo a los planes de emergencia exterior, y a todo lo especificado en el artículo 13, sobre información a la población relativa a las medidas de seguridad, en cuyo caso se regirán por la presente norma.
+
+La información a la población relativa a las medidas de seguridad regulada en el artículo 13 será realizada de forma coordinada por los órganos competentes de las comunidades autónomas y las Delegaciones del Gobierno correspondientes, y a ella podrá serle de aplicación el carácter confidencial de los datos, tal y como se recoge en el artículo 21, en razón de lo dispuesto en el artículo 149.1.26.ª de la Constitución Española y de las implicaciones de seguridad pública que tengan las actividades dedicadas a explosivos.
 
 2. A estos efectos, la Delegación del Gobierno en la Comunidad Autónoma donde radique el establecimiento remitirá al órgano competente de dicha Comunidad Autónoma, para la elaboración del plan de emergencia exterior, la certificación de idoneidad y el permiso expreso del Delegado de Gobierno previo a su entrada en funcionamiento, previstos en los artículos 40 y 41 del citado Reglamento y cualquier otra documentación relativa a cambios en las condiciones de explotación. Asimismo pondrá a disposición de dicho órgano competente, la documentación prevista en los apartados 1.1.º a), b) y c) y 1.2.º del artículo 33, y en los apartados 1.1.º y 2.º del artículo 34 del citado Real Decreto 230/1998.
+
+> Se modifica el apartado 1 por el art. único.13 del Real Decreto 119/2005, de 4 de febrero. Ref. BOE-A-2005-2198.
