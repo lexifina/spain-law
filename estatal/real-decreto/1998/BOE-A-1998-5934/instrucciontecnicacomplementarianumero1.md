@@ -106,139 +106,65 @@ La conexión entre taller y la Guardia Civil lo será con la Unidad de cada Coma
 
 ## Transporte por carretera
 
-Con cuarenta y ocho horas de antelación, toda empresa que pretenda transportar explosivos o cartuchería metálica en cantidad superior a 5.000 cartuchos por el territorio nacional, tanto en actividades interiores, transferencias, importación, exportación o tránsito, presentará ante la Intervención de Armas y Explosivos de la Comandancia de origen o de entrada en el territorio nacional, una solicitud en la que figurará un plan de seguridad, confeccionado por la empresa de seguridad que deba efectuarlo, que será aprobado en su caso.
+El ámbito de aplicación de esta ITC afectará a los explosivos y cartuchería metálica en cantidad superior a 5.000 cartuchos.
 
-En la solicitud se expresará:
+Con 48 horas de antelación, toda empresa que pretenda transportar las materias antes descritas por el territorio nacional, en actividades interiores, transferencias, importación, exportación o tránsito, presentará para su aprobación ante la Intervención de Armas y Explosivos de la Guardia Civil que sea la competente en función del ámbito territorial del transporte, un plan de seguridad (documento base y adenda de actualización) según el modelo aprobado por la Dirección General de la Guardia Civil y confeccionado por la empresa de seguridad que deba efectuarlo.
 
-Clase y cantidad de materia reglamentada.
+Con carácter general, la dotación de cada vehículo de motor que transporte las materias citadas estará integrada al menos por dos vigilantes de seguridad de explosivos, siempre que dichos vehículos cumplan las características que se determinen en una orden ministerial. Uno de ellos será responsable y coordinador de toda la seguridad. En ningún caso podrán realizar tareas de carga o descarga.
 
-Hora de salida.
+En aquellos casos en los que el vehículo no cumpla con las especificaciones que se determinen en la orden ministerial, o cuando la Dirección General de la Guardia Civil, mediante resolución motivada, lo estime necesario por razones de seguridad, además del personal de dotación antes impuesto, deberán ir acompañados por un vehículo de apoyo con al menos un vigilante de seguridad de explosivos de una empresa de seguridad privada, que no podrá realizar tareas de conducción, carga o descarga.
 
-Hora aproximada de llegada.
+Cuando el transporte esté formado por un convoy, la dotación mínima será de un vigilante de seguridad de explosivos por vehículo de motor en el que se transporten las materias citadas, acompañado por dos vehículos de apoyo en los que viajará al menos un vigilante de seguridad de explosivos de una empresa de seguridad privada, que no podrá realizar tareas de conducción, carga o descarga.
 
-Origen (lugar concreto).
+Todos los vehículos de motor estarán enlazados con un centro de comunicaciones de una empresa de seguridad privada designada por la empresa de seguridad que efectúe el transporte, así como con los centros operativos de servicios de la Guardia Civil de las provincias de origen, destino, entrada en el territorio nacional y por las que transcurra el transporte, mediante uno o varios sistemas de comunicación que permitan la conexión, en todo momento, desde cualquier punto del territorio nacional. En el caso de que el transporte de explosivos esté formado por más de un vehículo, incluidos, en su caso los de apoyo, todos estarán enlazados entre sí.
 
-Destino.
+Las características que han de reunir los vehículos de transportes de explosivos se especificarán por orden ministerial.
 
-Itinerario.
+Por las características del transporte, además de estas medidas de seguridad, la Guardia Civil podrá establecer una escolta propia con el número de efectivos que considere idóneo.
 
-Paradas (lugar, hora y duración).
+Todas las incidencias que se produzcan durante el transporte constarán en la guía de circulación.
 
-Tiempo para paradas.
-
-Nombres de los conductores.
-
-Nombres de los vigilantes de seguridad.
-
-Nombre del responsable de seguridad.
-
-Número y matrícula de los medios de transporte.
-
-Número de teléfono para contactar con los transportes.
-
-Plan de actuación frente a posibles incidentes.
-
-El número de vigilantes de seguridad de explosivos será, al menos, el del número de vehículos más uno. Uno de ellos será responsable y coordinador de toda la seguridad.
-
-Los vigilantes de seguridad de explosivos viajarán en cada vehículo que formen el convoy, y no podrán realizar tareas de conducción ni descarga.
-
-Todos los vehículos irán enlazados entre sí y con un centro que designe la empresa de seguridad, mediante teléfono móvil, con las características que se determinen.
-
-Las características que han de reunir los vehículos de transportes de explosivos se especificarán por una Orden ministerial.
-
-Por las características del transporte, además de estas medidas de seguridad la Guardia Civil podrá establecer escolta propia con el número de efectivos que considere idóneo.
-
-Todas estas circunstancias constarán en la Guía de Circulación.
-
-Todas las Comandancias conocerán el paso de transportes de explosivos por su demarcación, para ello la Comandancia de origen lo comunicará con veinticuatro horas de antelación a las Comandancias de paso y de destino.
+Todas las Comandancias conocerán el paso de transportes de explosivos por su demarcación. Para ello la Comandancia de origen lo comunicará con 24 horas de antelación a las Comandancias de paso y de destino.
 
 ## Transporte por ferrocarril
 
-Con cuarenta y ocho horas de antelación, toda empresa que pretenda transportar explosivos o cartuchería metálica en cantidad superior a 5.000 cartuchos por el territorio nacional, tanto en actividades interiores, transferencias, importación, exportación o tránsito, presentará ante la Intervención de Armas y Explosivos de la Comandancia de origen o de entrada en el territorio nacional, una solicitud en la que figurará un plan de seguridad, confeccionado por la empresa de seguridad, que deba efectuarlo, que será aprobado en su caso.
+El ámbito de aplicación de esta ITC afectará a los explosivos y cartuchería metálica en cantidad superior a 5.000 cartuchos.
 
-En la solicitud se expresará:
+Con 48 horas de antelación, toda empresa que pretenda transportar las materias antes descritas por el territorio nacional, en actividades interiores, transferencias, importación, exportación o tránsito, presentará para su aprobación ante la Intervención de Armas y Explosivos de la Guardia Civil que sea la competente en función del ámbito territorial del transporte, un plan de seguridad (documento base y adenda de actualización) según el modelo aprobado por la Dirección General de la Guardia Civil y confeccionado por la empresa de seguridad que deba efectuarlo.
 
-Clase y cantidad de materia reglamentada.
+En ningún caso podrán circular dos vagones consecutivos cargados con alguna de las materias citadas.
 
-Hora de salida.
+Con carácter general, la dotación para este tipo de transportes estará integrada al menos por tres vigilantes de seguridad de explosivos, siempre que los vagones cumplan las características que se determinen en una orden ministerial. Uno de ellos será responsable y coordinador de toda la seguridad. En ningún caso podrán realizar tareas de carga o descarga.
 
-Hora aproximada de llegada.
+Los vigilantes de seguridad deberán viajar distribuidos de la siguiente manera: uno, en el vagón tractor o en el más próximo; otro, en el vagón inmediatamente anterior del que transporte materias reglamentadas, y el otro, en el inmediatamente posterior.
 
-Origen (lugar concreto).
+En aquellos casos en que los vagones no cumplan con las especificaciones que se determinen en la orden ministerial, o cuando la Dirección General de la Guardia Civil, mediante resolución motivada, lo estime necesario por razones de seguridad, se podrá aumentar el número de vigilantes de seguridad de explosivos.
 
-Destino (lugar concreto).
+Todos los vagones estarán enlazados entre sí, con un centro de comunicaciones de una empresa de seguridad privada designada por la empresa de seguridad que efectúe el transporte, así como con los centros operativos de servicios de la Guardia Civil de las provincias de origen, destino, entrada en el territorio nacional y por las que transcurra el transporte, mediante uno o varios sistemas de comunicación que permitan la conexión, en todo momento, desde cualquier punto del territorio nacional.
 
-Itinerario.
+Las características que han de reunir los vagones destinados al transporte de explosivos se especificarán por orden ministerial.
 
-Paradas (lugar, hora y duración).
+Por las características del transporte, además de estas medidas de seguridad, la Guardia Civil podrá establecer una escolta propia con el número de efectivos que considere idóneo.
 
-Tiempo para paradas.
+Todas las incidencias que se produzcan durante el transporte constarán en la guía de circulación.
 
-Nombre de los conductores.
-
-Nombres de los vigilantes de seguridad de explosivos.
-
-Nombre del responsable de seguridad.
-
-Número y matrícula de los medios de transporte.
-
-Número de teléfono para contactar con los transportes.
-
-Plan de actuación frente a posibles incidentes.
-
-El número de vigilantes de seguridad de explosivos será, al menos, el del número de vagones más uno. Uno de ellos será responsable y coordinador de toda la seguridad.
-
-Los vigilantes de seguridad de explosivos viajarán en cada vagón que formen el convoy.
-
-Todos los vagones irán enlazados entre sí y con un centro que designe la empresa de seguridad, mediante teléfono móvil, con las características que se determinen.
-
-Por las características del transporte, además de estas medidas de seguridad la Guardia Civil podrá establecer escolta propia con el número de efectivos que considere idóneo u otro de interés.
-
-Todas estas circunstancias constarán en la Guía de Circulación.
-
-Todas las Comandancias conocerán el paso de transportes de explosivos por su demarcación, para ello la Comandancia de origen lo comunicará con veinticuatro horas de antelación a las Comandancias de paso y de destino.
+Todas las Comandancias conocerán el paso de transportes de explosivos por su demarcación. Para ello la Comandancia de origen lo comunicará con 24 horas de antelación a las Comandancias de paso y de destino.
 
 ## Transporte fluvial
 
-Con cuarenta y ocho horas de antelación, toda empresa que pretenda transportar explosivos o cartuchería metálica en cantidad superior a 5.000 cartuchos por el territorio nacional, tanto en actividades interiores, transferencias, importación, exportación o tránsito, presentará ante la Intervención de Armas y Explosivos de la Comandancia de origen o de entrada en el territorio nacional, una solicitud en la que figurará un plan de seguridad, confeccionado por la empresa de seguridad, que será aprobado en su caso.
+El ámbito de aplicación de esta ITC afectará a los explosivos y cartuchería metálica en cantidad superior a 5.000 cartuchos.
 
-En la solicitud se expresará:
+Con 48 horas de antelación, toda empresa que pretenda transportar las materias antes descritas por el territorio nacional, en actividades interiores, transferencias, importación, exportación o tránsito, presentará para su aprobación ante la Intervención de Armas y Explosivos de la Guardia Civil que sea la competente en función del ámbito territorial del transporte, un plan de seguridad (documento base y adenda de actualización) según el modelo aprobado por la Dirección General de la Guardia Civil y confeccionado por la empresa de seguridad que deba efectuarlo.
 
-Clase y cantidad de materia reglamentada.
+Con carácter general, la dotación para este tipo de transportes estará integrada al menos por dos vigilantes de seguridad de explosivos por embarcación, que se podrá aumentar cuando la Dirección General de la Guardia Civil, mediante resolución motivada, lo estime necesario por razones de seguridad. Uno de ellos será responsable y coordinador de toda la seguridad. En ningún caso podrán realizar tareas carga o descarga.
 
-Hora de salida.
+Todos las embarcaciones estarán enlazadas entre sí, con un centro de comunicaciones de una empresa de seguridad privada designada por la empresa de seguridad que efectúe el transporte, así como con los centros operativos de servicios de la Guardia Civil de las provincias de origen, destino, entrada en el territorio nacional y por las que transcurra el transporte, mediante uno o varios sistemas de comunicación que permitan la conexión, en todo momento, desde cualquier punto del territorio nacional.
 
-Hora aproximada de llegada.
+Por las características del transporte, además de estas medidas de seguridad, la Guardia Civil podrá establecer una escolta propia con el número de efectivos que considere idóneo.
 
-Origen (lugar concreto).
+Todas las incidencias que se produzcan durante el transporte constarán en la guía de circulación.
 
-Destino (lugar concreto).
-
-Itinerario.
-
-Paradas (lugar, hora y duración).
-
-Nombres de los vigilantes de seguridad de explosivos.
-
-Nombre del responsable de seguridad.
-
-Número y matrícula de los medios de transporte.
-
-Número de teléfono para contactar con los transportes.
-
-Plan de actuación frente a posibles incidentes.
-
-El número de vigilantes de seguridad de explosivos será, al menos, uno por embarcación más uno. Uno de ellos será responsable de la seguridad.
-
-Los vigilantes de seguridad de explosivos viajarán en cada embarcación que formen el convoy.
-
-Las embarcaciones irán enlazadas con un centro que designe la empresa de seguridad, con las características que se determinen.
-
-Por las características del transporte, además de estas medidas de seguridad, la Guardia Civil podrá establecer escolta propia con el número de efectivos que considere idóneo.
-
-Todas estas circunstancias constarán en la Guía de Circulación.
-
-Todas las Comandancias conocerán el paso de transportes de explosivos por su demarcación, para ello la Comandancia de origen lo comunicará con veinticuatro horas de antelación a las Comandancias de paso y de destino.
+Todas las Comandancias conocerán el paso de transportes de explosivos por su demarcación. Para ello la Comandancia de origen lo comunicará con 24 horas de antelación a las Comandancias de paso y de destino.
 
 ## Transportes aéreos y marítimos
 
@@ -387,5 +313,7 @@ Activación dispositivos antisabotaje.
 Activación de una zona de uno de los sistemas perimetrales y de uno de los detectores de interior del sistema de detección interior en ventana de tiempo de noventa segundos.
 
 Cambios de estado del sistema.
+
+> Se modifican los apartados 4 a 6 por el art. único.13 del Real Decreto 277/2005, de 11 de marzo. Ref. BOE-A-2005-4113.
 
 > Redactados los epígrafes Transportes aereos y martítimos, y Sistemas auxiliares del Anexo conforme a la corrección de errores publicada en BOE núm. 157, de 2 de julio de 1998. Ref. BOE-A-1998-15589.

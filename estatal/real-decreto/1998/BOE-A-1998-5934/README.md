@@ -396,4 +396,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Instrucción técnica complementaria número 23](instrucciontecnicacomplementarianumero23.md)
 - [Instrucción técnica complementaria número 24](instrucciontecnicacomplementarianumero24.md)
 - [Instrucción técnica complementaria número 25](instrucciontecnicacomplementarianumero25.md)
+- [Reglamento](reglamento.md)
+- [ANEXO 1](an1.md)
+- [ANEXO 2](an2.md)
 - [(INFORMACIÓN RELACIONADA)](informacionrelacionada.md)

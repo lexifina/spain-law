@@ -4,7 +4,7 @@
 
 En desarrollo del artículo 190 del Reglamento de Explosivos, la presente Instrucción técnica complementaria recoge la normativa a aplicar en la construcción y emplazamiento de estos polvorines auxiliares:
 
-1. El polvorín o los polvorines que constituyan un depósito auxiliar de distribución deberán ser de un modelo homologado por la Intervención Central de Armas y Explosivos de la Guardia Civil.
+1. El polvorín o los polvorines que constituyan un depósito auxiliar de distribución deberán de ser de un modelo homologado por el Ministerio de Industria, Turismo y Comercio, previo informe de la Intervención Central de Armas y Explosivos de la Guardia Civil.
 
 2. Dichos polvorines auxiliares de distribución quedan excluidos del régimen general aplicable a los depósitos de explosivos, de conformidad con lo dispuesto en el artículo 186 del Reglamento de Explosivos.
 
@@ -37,5 +37,7 @@ Edificaciones aisladas: 75 metros.
 ## ANEXO II
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1998/61/05934_016.png)
+
+> Se modifica el apartado 1 por el art. único.14 del Real Decreto 277/2005, de 11 de marzo. Ref. BOE-A-2005-4113.
 
 > Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 157, de 2 de julio de 1998. Ref. BOE-A-1998-15589.
