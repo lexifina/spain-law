@@ -18,18 +18,18 @@ c) Secundarios:
 
 Si como consecuencia de los resultados obtenidos en los ensayos preliminares y/o principales se dedujese la conveniencia de establecer restricciones para la utilización de variedades en determinadas zonas o condiciones de cultivo, se establecerán ensayos de esta clase antes de que se tome una decisión sobre el registro de una determinada variedad. Por, otra parte, podrá recurrirse a estos ensayos una vez que la variedad haya sido inscrita, si se presentan circunstancias especiales que así lo requieran o si se considera conveniente un mayor conocimiento, con el fin de establecer recomendaciones para determinadas zonas.
 
-Quince.–Los estudios más importantes a llevar a cabo en los distintos ensayos de valor agronómico o de utilización, se referirán fundamentalmente a la productividad, calidad y aquellos caracteres que condicionen la regularidad de los rendimientos.
+Quince.– Los estudios mas importantes a llevar a cabo en los distintos ensayos para determinar el valor agronómico o de utilización, se referiran fundamentalmente a la productividad, calidad del producto y a aquellos caracteres que condicionen la regularidad de los rendimientos. Como minimo se considerarán las caracteristicas correspondientes a estas especies, indicadas en el anejo i-b de la directiva 72/180/cee, asi como:
 
-a) La capacidad de producción, expresada por el rendimiento, se determinará en los ensayos de campo anteriormente citados, en los que se incluirán variedades testigos que para cada ciclo se determinarán anualmente por la correspondiente Comisión Nacional de Estimación.
+a) La capacidad de producción, expresada por el rendimiento, se determinara en los ensayos de campo anteriormente citados, en los que se incluirán variedades testigos que para cada ciclo se determinarán por la correspondiente Comision Nacional de Estimación. El rendimiento será, por tanto, comparado en cada ensayo con el rendimiento de los testigos.
 
-El rendimiento será, por tanto, comparado en cada ensayo con el rendimiento de los testigos.
+b) Se considerarán como caracteres que influyen en la regularidad de los rendimientos, el comportamiento ante condiciones climaticas, accidentes, plagas y enfermedades.
 
-b) Se considerarán como caracteres que influyen en la regularidad de los rendimientos, el comportamiento ante condiciones climáticas, accidentes, plagas y enfermedades.
+c) Se considerarán, al menos, como caracteristicas fundamentales para apreciar la calidad de una variedad, las siguientes para las distintas especies:
 
-c) Se considerarán, al menos, como características fundamentales para apreciar la calidad de una variedad las siguientes para las distintas especies:
+Maiz: contenido en proteinas, contenido en caroteno y almidon, asi como contenido en materia seca para variedades forrajeras.
 
-– Maíz: Contenido en proteínas, contenido en caroteno almidón y contenido en materia seca para variedades forrajeras.
+Sorgo: contenido en proteinas y contenido en taninos, asi como contenido en materia seca para variedades forrajeras.
 
-– Sorgo: Contenido en proteínas, contenido en taninos y contenido en materia seca para variedades forrajeras.
+Pasto del sudan e hibridos de sorgo por pastos del sudan: contenido en materia seca.
 
-– Pasto del Sudán e híbridos de sorgo por pastos del sudán: Contenido en materia seca.
+> Se modifica el apartado 15 por el apartado 6 de la Orden de 4 de abril de 1988. Ref. BOE-A-1988-10600

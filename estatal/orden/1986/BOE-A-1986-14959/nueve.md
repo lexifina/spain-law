@@ -1,5 +1,3 @@
-Nueve.– Para poder estudiar adecuadamente los caracteres aludidos anteriormente, las observaciones se realizarán de la forma siguiente:
+Nueve.– Para estudiar adecuadamente los caracteres aludidos en el apartado anterior, se establecerán los ensayos de identificación y caracterización cuyos protocolos de realización, metodología de trabajo y duración, así como sus revisiones y modificaciones, se determinarán por el Instituto Nacional de Semillas y Plantas de Vivero, oída la Comisión Nacional de Estimación, teniendo en cuenta, al menos, las condiciones mínimas establecidas en la Directiva de la Comisión 72/169/CEE, modificada por la 86/267/CEE.
 
-1. Para variedades de vinificación y de uva de mesa, durante un mínimo de tres años de producción.
-
-2. Para porta-injertos, durante cinco años a partir de la plantación.
+> Se modifica por el apartado 8 de la Orden de 4 de abril de 1988. Ref. BOE-A-1988-10600
