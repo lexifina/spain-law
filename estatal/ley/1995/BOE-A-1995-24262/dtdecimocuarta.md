@@ -1,0 +1,9 @@
+## Disposición transitoria decimocuarta. Régimen de los compromisos por pensiones ya asumidos.
+
+1. Los empresarios que en el momento de entrada en vigor de la presente Ley mantengan compromisos por pensiones con sus trabajadores o empleados cuya materialización no se ajuste a la disposición adicional primera de la Ley 8/1987, de 8 de junio, de regulación de los Planes y Fondos de Pensiones, según la redacción dada por la presente Ley, deberán proceder, en un plazo no superior a tres años desde la citada entrada en vigor, a adaptar dicha materialización a la citada disposición adicional.
+
+Hasta que tenga lugar el cumplimiento de la obligación que impone el párrafo anterior se mantendrá la efectividad de los compromisos por pensiones y el cobro de las prestaciones causadas en los términos estipulados entre el empresario y los trabajadores.
+
+2. Excepcionalmente, podrán mantenerse los compromisos por pensiones asumidos mediante fondos internos por las entidades de crédito, las entidades aseguradoras y las sociedades y agencias de valores. Para que dichos fondos internos puedan servir a tal finalidad deberán estar dotados con criterios, al menos, tan rigurosos como los aplicables a los asumidos mediante planes de pensiones y habrán de ser autorizados por el Ministerio de Economía y Hacienda, previo informe del órgano o ente a quien corresponda el control de los recursos afectos, el cual supervisará el funcionamiento de los fondos internos y podrá proponer al Ministerio de Economía y Hacienda la adopción, en su caso, de las medidas correctoras pertinentes, e incluso la revocación de la autorización administrativa concedida, todo ello en los términos que reglamentariamente se establezcan.
+
+> Esta disposición entra en vigor el 9 de mayo de 1996, según establece la disposición final 3.
