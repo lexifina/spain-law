@@ -22,6 +22,6 @@ b) Ningún funcionario podrá ser designado para desempeñar un puesto de trabaj
 
 c) En tanto no sea designado para cubrir una vacante en las condiciones del apartado anterior en la misma localidad, el funcionario quedará a disposición del Subsecretario, Director del Organismo Autónomo, Delegado del Gobierno o Gobernador civil u órganos análogos de las demás Administraciones, que le atribuirá el desempeño provisional de puestos de inferior nivel, siempre que corresponda a su Cuerpo o Escala. Mientras permanezca en tal situación, el funcionario tendrá derecho al complemento de destino correspondiente a un puesto inferior en dos niveles a su grado personal.
 
-d) El Gobierno o los órganos de gobierno de las Comunidades Autónomas, previo informe del Consejo Superior de la Función Pública, establecerán los criterios para el cómputo, a efectos de consolidación del grado personal, del tiempo en que los funcionarios permenezcan en cada uno de los supuestos de la situación de servicios especiales.
+d) (Anulada)
 
-> Esta disposición entra en vigor el 1 de enero de 1985, según establece la disposición transitoria 12.
+> Se declara la inconstitucionalidad y nulidad del apartado 2.d) por Sentencia del TC 99/1987, de 11 de junio. Ref. BOE-T-1987-14852

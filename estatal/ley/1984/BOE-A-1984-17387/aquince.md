@@ -5,3 +5,5 @@
 2. Los puestos de trabajo serán de adscripción indistinta para todos los funcionarios incluidos en el ámbito de aplicación de esta Ley. Unicamente podrán adscribirse con carácter exclusivo puestos de trabajo a funcionarios de un determinado Cuerpo o Escala cuando tal adscripción se derive necesariamente de la naturaleza y de la función a desempeñar en ellos y en tal sentido lo determine el Gobierno a propuesta del Ministro de la Presidencia.
 
 3. Las relaciones de puestos de trabajo serán públicas.
+
+> Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 1 por Sentencia del TC 99/1987, de 11 de junio. Ref. BOE-T-1987-14852

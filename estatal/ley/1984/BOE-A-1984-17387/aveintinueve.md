@@ -30,7 +30,7 @@ j) Cuando sean nombrados para cualquier cargo de carácter político del que se 
 
 k) Cuando cumplan el servicio militar o prestación sustitutoria equivalente.
 
-l) Cuando ostenten cargos electivos a nivel provincial, autonómico o estatal en las Organizaciones Sindicales más representativas.
+l) (Anulada)
 
 A los funcionarios en situación de servicios especiales se les computará el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos pasivos y tendrán derecho a la reserva de plaza y destino que ocupasen. En todos los casos recibirán las retribuciones del puesto o cargo efectivo que desempeñen y no las que les correspondan como funcionarios, sin perjuicio del derecho a la percepción de los trienios que pudieran tener reconocidos como funcionarios.
 
@@ -47,3 +47,5 @@ c) Podrá concederse igualmente la excedencia voluntaria a los funcionarios cuan
 La situación prevista en este apartado c) no podrá declararse hasta haber completado tres años de servicios efectivos desde que se accedió al Cuerpo o Escala o desde el reingreso, y en ella no se podrá permanecer más de diez años continuados ni menos de dos años.
 
 Los funcionarios excedentes no devengarán retribuciones, ni les será computable el tiempo permanecido en tal situación a efectos de ascensos, trienios y derechos pasivos.
+
+> Se declara la inconstitucionalidad y nulidad del apartado 2.l) por Sentencia del TC 99/1987, de 11 de junio. Ref. BOE-T-1987-14852
