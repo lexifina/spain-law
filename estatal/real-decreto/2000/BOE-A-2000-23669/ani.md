@@ -4,7 +4,7 @@
 
 Las Comunidades Autónomas remitirán, en soporte informático, los siguientes datos y documentación:
 
-A. Programa de vigilancia de la EET
+A. Programa de vigilancia de las EET
 
 1. Número de casos sospechosos de cada especie animal sujetos a restricción de movimientos en virtud del apartado 2 del artículo 6.
 
@@ -16,13 +16,15 @@ A. Programa de vigilancia de la EET
 
 5. Número de animales bovinos a los que se han realizado pruebas dentro de cada subpoblación, a las que hacen referencia los números 2 y 3 del anexo II.A, el método de selección de muestras y el resultado de las pruebas.
 
-6. Tamaño estimado de dichas subpoblaciones a que se refiere el anexo II.B.
+6. Tamaño estimado de dichas subpoblaciones a que se refieren los puntos 2 y 3 del anexo II.B, que han sido seleccionadas para el muestreo.
 
-7. Número de animales ovinos y caprinos de cada subpoblación sometidos a exámenes y resultados de los exámenes.
+7. Número de animales ovinos y caprinos y de rebaños de cada subpoblación a que se han realizado pruebas en cada subpoblación a que se refieren los números 2 y 3 del anexo II.B, método para la selección de muestras y resultados de las pruebas.
 
 8. Número, distribución por edad y distribución geográfica de los casos positivos de EEB y tembladera. El país de origen, si no es España, de los casos positivos de EEB y tembladera. Número y distribución geográfica de los rebaños con casos positivos de tembladera. Para cada caso notificado de la EEB, deberán comunicarse el año y, en la medida de lo posible, el mes de nacimiento del animal.
 
 9. Casos positivos y confirmados de EET entre animales de especies distintas de la bovina, ovina y caprina.
+
+10. El genotipo, y cuando sea posible, la raza de cada animal de la muestra para cada subpoblación en virtud de lo dispuesto en las letras a) y b) del punto 5 del anexo II.B.
 
 B. Controles de la alimentación animal
 
@@ -34,7 +36,7 @@ B. Controles de la alimentación animal
 
 4. Número de muestras remitidas al laboratorio, indicando el centro de análisis y los resultados obtenidos.
 
-5. Incidencias: se hará constar el tipo y causa de la incidencia.
+5. Incidencias: Se hará constar el tipo y causa de la incidencia.
 
 6. Igualmente, se remitirán los datos relativos a las inspecciones realizadas en granjas.
 
@@ -44,9 +46,13 @@ C. Inspección de industrias de transformación de subproductos
 
 2. Relación nominal de establecimientos visitados, con expresión del número de muestras tomadas en cada uno de ellos.
 
-3. Incidencias: deficiencias encontradas y medidas adoptadas.
+3. Incidencias: Deficiencias encontradas y medidas adoptadas.
 
 4. El listado actualizado de las industrias de transformación de despojo y subproductos que cumplen con lo establecido en el Real Decreto 2224/1993 y la Decisión 1999/534/CE.
+
+> Se modifica por el art. único y anexo de la Orden APA/718/2002, de 2 de abril. Ref. BOE-A-2002-6474.
+
+> Esta modificación tiene efectos a partir del 1 de abril de 2002, según establece la disposición final única.
 
 > Se modifica por el art. único y anexo de la Orden de 26 de julio de 2001. Ref. BOE-A-2001-14641.
 
