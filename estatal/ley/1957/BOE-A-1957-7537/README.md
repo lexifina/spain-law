@@ -129,6 +129,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo ciento uno](acientouno.md)
 - [Artículo ciento dos](acientodos.md)
 - [Disposición adicional primera](primera-2.md)
+- [Disposición adicional segunda](segunda-2.md)
 - [Disposición transitoria](dt.md)
 - [Disposición final primera](primera.md)
 - [Disposición final segunda](segunda.md)
