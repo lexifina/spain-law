@@ -1,0 +1,3 @@
+## Disposición adicional decimoséptima. Autorización de trabajo de los extranjeros solicitantes de asilo.
+
+Los solicitantes de asilo estarán autorizados para trabajar en España una vez transcurridos seis meses desde la presentación de la solicitud, siempre que ésta hubiera sido admitida a trámite y no estuviera resuelta por causa no imputable al interesado. La autorización para trabajar se acreditará mediante la inscripción «autoriza a trabajar» en el documento de solicitante de asilo y, si procede, en sus sucesivas renovaciones, y estará condicionada a su validez. En caso de que no proceda esta inscripción porque no se cumplan los citados requisitos, la oficina de asilo y refugio hará constar tal hecho en resolución motivada y se lo notificará al interesado.

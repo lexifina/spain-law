@@ -1,0 +1,3 @@
+## Disposición final primera. Desarrollo normativo.
+
+Se autoriza a los Ministros de Asuntos Exteriores y de Cooperación, del Interior, de Trabajo y Asuntos Sociales, y de Administraciones Públicas para dictar, en el ámbito de sus respectivas competencias y, en su caso, previo informe de la Comisión Interministerial de Extranjería, las normas que sean necesarias para la ejecución y desarrollo de lo dispuesto en este real decreto. En el supuesto de que las materias no sean objeto de la exclusiva competencia de cada uno de ellos, la ejecución y desarrollo de lo dispuesto en este real decreto se llevará a cabo mediante orden del Ministro de la Presidencia, a propuesta conjunta de los ministerios afectados, previo informe de la Comisión Interministerial de Extranjería.

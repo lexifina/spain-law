@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Normativa aplicable a los procedimientos.
+
+1. En lo no previsto en materia de procedimientos en el Reglamento de la Ley Orgánica 4/2000, de 11 de enero, se estará a lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en su normativa de desarrollo, particularmente, en lo referido a la necesidad motivación de las resoluciones denegatorias de las autorizaciones.
+
+2. De conformidad con lo establecido en la disposición adicional undécima de la referida Ley 30/1992, de 26 de noviembre, el procedimiento de visado se regirá por la normativa específica prevista en el artículo 27 de la Ley Orgánica 4/2000, de 11 de enero, desarrollada en este Reglamento, en la normativa de la Unión Europea y en las demás disposiciones que se dicten en cumplimiento de los compromisos internacionales asumidos por España, y se aplicará supletoriamente la Ley 30/1992, de 26 de noviembre.
