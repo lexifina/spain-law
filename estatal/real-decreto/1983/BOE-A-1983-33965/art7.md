@@ -21,3 +21,5 @@ Mediante Resolución de la Subsecretaría de Sanidad y Consumo y previo informe 
 7.4.5 La compra, utilización o tenencia por los fabricantes de alimentos y bebidas de otros aditivos que los incluidos en las Listas Positivas para los productos que preparen.
 
 7.4.6 La compraventa, cesión o simple tenencia de cualquier alimento o producto alimentario en cuya preparación se hayan utilizado aditivos no permitidos.
+
+> Se derogan los apartados 7.4.3 y 7.4.4 en la forma indica por la disposición derogatoria del Real Decreto 1111/1991, de 12 de julio. Ref. BOE-A-1991-18409.

@@ -1,29 +1,23 @@
-## Art. 2. Definiciones.
+## Art. 2. Definición y criterios generales.
 
-2.1 Aditivos alimentarios.–Son aquellas sustancias que se añaden intencionadamente a los productos alimenticios, sin propósito de cambiar su valor nutritivo con la finalidad de modificar sus caracteres, técnicas de elaboración, conservación y/o para mejorar su adaptación al uso a que se destinen. Dichas sustancias, posean o no valor nutritivo, no se consumen normalmente como alimentos, ni se usan como ingredientes característicos de los mismos.
+2.1 A efectos de la presente reglamentación se entiende por "aditivo alimentario" cualquier sustancia que, normalmente no se consuma como alimento en sí, ni se use como ingrediente característico en la alimentación, independientemente de que tenga o no valor nutritivo, y cuya adición intencionada a los productos alimenticios, con un propósito tecnológico en la fase de su fabricación, transformación, preparación, tratamiento, envase, transporte o almacenamiento tenga, o pueda esperarse razonablemente que tenga, directa o indirectamente, como resultado que el propio aditivo o sus subproductos se conviertan en un componente de dichos productos alimenticios.
 
-Sólo podrán utilizarse los incluidos en las Listas Positivas vigentes, aprobadas por la Subsecretaría de Sanidad y Consumo y en las Reglamentaciones Técnico-Sanitarias para cada grupo de alimentos, asimismo se someterán en su uso a las condiciones y dosis máximas establecidas en las mencionadas Listas Positivas.
+Sólo podrán utilizarse los incluidos en las listas positivas aprobadas por el Ministerio de Sanidad y Consumo y se someterán en su uso a las condiciones y dosis máximas establecidas en las mencionadas listas positivas.
 
-Su uso perseguirá únicamente el fin lícito propuesto y sus cuantías no excederán las dosis máximas autorizadas en las Listas Positivas.
+2.2 Para la inclusión de un "aditivo" en las citadas "listas positivas" será imprescindible que el producto se adapte a los criterios generales para la utilización de aditivos, que figuran en el anejo 3.
 
-Para la inclusión de un «aditivo» en las citadas «Listas Positivas» será indispensable que el producto, además de reunir las condiciones específicas del grupo correspondiente, se adapte a las genéricas siguientes:
+2.3 Si, como resultado de nuevas informaciones o de la reconsideración de informaciones ya existentes sobre aditivos autorizados, hubiese motivos concretos para considerar que la utilización de un aditivo en productos alimenticios, supone riesgos para la salud humana, el Ministerio de Sanidad y Consumo podrá suspender o restringir temporalmente la autorización de dicho aditivo. Se informará de ello inmediatamente a los demás Estados miembros y a la Comisión de las Comunidades Europeas, indicando los motivos que justifican su decisión.
 
-a) Corresponder su utilización a una necesidad manifiesta y representar una sensible mejora sobre los ya admitidos.
+2.4 Para adaptarse a la evolución científico o técnica, el Ministerio de Sanidad y Consumo podrá autorizar a título provisional el comercio y el uso de aditivos no incluidos en las listas específicas de las categorías enumeradas en el articulo 3.° de la presente reglamentación, siempre y cuando se respeten las siguientes condiciones:
 
-b) Haberse comprobado experimentalmente, por procedimientos adoptados internacionalmente, que su uso está exento de peligro para el consumidor.
+a) La autorización deberá limitarse a un periodo de dos años como máximo.
 
-c) Reunir las debidas condiciones de pureza, reveladas por los métodos usuales de análisis, no conteniendo sustancias tóxicas en mayor proporción que la tolerada legalmente.
+b) Las Administraciones Sanitarias competentes efectuarán controles oficiales de los productos alimenticios en los que el aditivo autorizado se hubiese utilizado.
 
-d) Poder ser identificados en los alimentos por métodos analíticos viables.
+c) En la autorización se podrá imponer una indicación especial en el etiquetado de los productos alimenticios fabricados con el aditivo autorizado.
 
-La reserva fundamentada sobre la nocividad de los aditivos autorizados motivará su inmediata prohibición temporal y, si procede, tras su estudio, posterior exclusión de las Listas Positivas.
+En el plazo de dos meses, contados a partir de la fecha en la que surta efecto dicha decisión, se comunicará a los demás Estados miembros y a la Comisión de las Comunidades Europeas el texto de la autorización adoptada.
 
-Todos los aditivos alimentarios se revaluarán siempre que sea necesario, de acuerdo con los cambios en las condiciones de aplicación y los nuevos datos científicos. Esta revaluación motivará las modificaciones correspondientes en las Listas Positivas.
+2.5 Ningún alimento contendrá aditivos que no estén incluidos en la correspondiente lista positiva, salvo que su presencia en él sea únicamente debida a que esté contenido en uno o varios de sus ingredientes, para los que se encuentran legalmente autorizados y siempre que no cumplan función tecnológica en el producto final.
 
-Ningún alimento podrá contener aditivos que no estén incluidos en las Listas Positivas correspondientes, salvo que su presencia en él sea únicamente debida a que esté contenido en uno o varios de sus ingredientes, para los que se encuentran legalmente autorizados y siempre que no cumpla función tecnológica en el producto final.
-
-La Subsecretaría de Sanidad y Consumo aplicará este principio de transferencia en los casos que esté suficientemente justificado.
-
-2.2 Diluyente o soportes.–Sustancias inertes empleadas para disminuir la concentración de los aditivos alimentarios a fin de facilitar su dosificación y empleo.
-
-2.3 Coadyuvantes tecnológicos.–Son aquellas sustancias o materias, excluidos aparatos y utensilios, que no se consumen como ingredientes alimenticios por sí mismos, y que se emplean intencionadamente en la elaboración de materias primas, alimentos o sus ingredientes, para lograr alguna finalidad tecnológica durante el tratamiento o la elaboración, pudiendo dar lugar a la presencia no intencionada pero inevitable de residuos o derivados en el producto final. A efectos de esta Reglamentación no se consideran aditivos.
+> Se modifica por el art. único del Real Decreto 1111/1991, de 12 de julio. Ref. BOE-A-1991-18409.

@@ -11,3 +11,5 @@
 11.2.3 La responsabilidad inherente a la mala conservación y/o manipulación del producto contenido en envases, abiertos o no, corresponde al tenedor de los mismos.
 
 11.2.4 La responsabilidad de un correcto uso de los aditivos alimentarios será del fabricante de productos alimenticios si las instrucciones del etiquetado de los envases del aditivo responde a lo especificado en el punto 8.3.1.3. En caso contrario, será responsabilidad asimismo del fabricante o importador del aditivo.
+
+> Se deroga el apartado 11.2.4 en la forma indica por la disposición derogatoria del Real Decreto 1111/1991, de 12 de julio. Ref. BOE-A-1991-18409.
