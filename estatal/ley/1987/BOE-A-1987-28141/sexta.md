@@ -1,0 +1,3 @@
+## Disposición transitoria sexta.
+
+Hasta que no se disponga la aplicación del procedimiento de autoliquidación, la presentación de los documentos fuera de los plazos establecidos, además de los intereses de demora que correspondan, se sancionará con una multa equivalente al 25 por 100 de las cuotas siempre que no hubiese mediado requerimiento de la Administración; mediante éste, la multa será del 50 por 100 de las cuotas, y si por negativa infundada del contribuyente a presentar los documentos necesarios fuese preciso practicar la liquidación con los elementos que la misma Administración se procure, la multa será igual al importe de la cuota.
