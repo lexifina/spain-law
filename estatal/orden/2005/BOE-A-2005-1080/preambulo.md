@@ -1,0 +1,9 @@
+La entrada en vigor de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, ha llevado a cabo la separación orgánica y funcional de la administración, mantenimiento y explotación de la red ferroviaria de interés general y de la prestación de servicios del transporte ferroviario.
+
+Estas actividades se han venido realizando históricamente por una única entidad pública, circunstancia que ha generado una forma de actuación y una cultura para afrontar los posibles conflictos entre la administración de la infraestructura y el operador del transporte, que deben modificarse significativamente en el futuro con la implantación del nuevo modelo de ordenación ferroviaria establecido por la ley.
+
+Para asegurar la más eficaz aplicación de la Ley del Sector Ferroviario y para facilitar la transición entre los modos de actuación hasta ahora existentes y los que habrá que desarrollar para adecuarse al nuevo sistema ferroviario y la adaptación al nuevo modelo de las dos nuevas entidades públicas empresariales, resulta aconsejable la creación de un órgano colegiado que coordine las actividades de los organismos públicos responsables de las actividades anteriormente citadas y que constituya una instancia de colaboración de los mismos con el Ministerio de Fomento.
+
+Tales objetivos complementan los que corresponden al Comité de Regulación Ferroviaria, definidos en el artículo 83 de la Ley del Sector Ferroviario, y no obstan al derecho que asiste al Administrador de Infraestructuras Ferroviarias (ADIF) y a RENFE-Operadora de instar de dicho Comité la resolución de los asuntos de su competencia.
+
+En su virtud, en aplicación del artículo 81.1.c) de la Ley 39/2003, de 17 de noviembre, de acuerdo con el artículo 40.1 y 2 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, y con la aprobación previa del Ministro de Administraciones Públicas, dispongo:
