@@ -1,5 +1,5 @@
 ## Art. 19.
 
-Los miembros electos del Pleno tomarán posesión de sus cargos en la sede de la Cámara dentro del mes siguiente al de su elección y en la fecha que se determine por el Ministerio de Comercio.
+(Derogado)
 
-La duración del mandato de los miembros será de cuatro años, pudiendo ser reelegidos indefinidamente.
+> Se deroga por la disposición final 3 del Real Decreto 753/1978, de 27 de marzo. Ref. BOE-A-1978-10219.

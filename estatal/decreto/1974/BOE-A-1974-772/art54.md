@@ -1,5 +1,5 @@
 ## Art. 54.
 
-El Consejo Superior tendrá un Director Gerente, un Secretario y el personal necesario para su buen funcionamiento.
+(Derogado)
 
-El Consejo podrá llamar, como Asesores, a sus reuniones a los Presidentes de las Agrupaciones Nacionales de Comerciantes del ciclo de Comercio, y Presidentes de Sindicatos, cuando por las materias a tratar pudiera resultar aconsejable oír su parecer o informe.
+> Se deroga por la disposición final 3 del Real Decreto 753/1978, de 27 de marzo. Ref. BOE-A-1978-10219.
