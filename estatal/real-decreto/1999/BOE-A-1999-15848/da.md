@@ -1,0 +1,3 @@
+## Disposición adicional primera. Relaciones nominativas de funcionarios integrados.
+
+A efectos de lo previsto en el artículo 38 del Real Decreto 850/1993, de 4 de junio, por el que se regula el ingreso y la adquisición de especialidades en los cuerpos de funcionarios docentes a que se refiere la Ley Orgánica 1/1990, de 3 de octubre, General del Sistema Educativo, el Ministerio del Interior y, en su caso, la Comunidad Autónoma de Cataluña, elaborarán las relaciones nominales de los funcionarios pertenecientes al Cuerpo de Profesores de Educación General Básica de Instituciones Penitenciarias que se integran en el Cuerpo de Maestros en virtud del presente Real Decreto.
