@@ -1,0 +1,3 @@
+## Disposición adicional cuarta.
+
+En el supuesto de que, en aplicación de lo previsto en el número 2 del artículo 42 de esta Ley, se impidiera de forma parcial y minoritaria la organización comarcal del conjunto del territorio de la Comunidad Autónoma, la Generalidad de Cataluña, por haber tenido aprobada en el pasado una organización comarcal para la totalidad de su territorio y prever su Estatuto, asimismo, una organización comarcal de carácter general, podrá, mediante Ley aprobada por mayoría absoluta de su Asamblea Legislativa, acordar la constitución de la comarca o las comarcas que resten para extender dicha organización a todo su ámbito territorial.
