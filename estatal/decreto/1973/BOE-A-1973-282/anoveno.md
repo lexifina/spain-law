@@ -2,11 +2,11 @@
 
 Uno. La edad mínima de sesenta y cinco años, exigida para tener derecho a la pensión de jubilación, se rebajará en un período equivalente al que resulte de aplicar al periodo de tiempo efectivamente trabajado en cada una de las categorías y especialidades profesionales de la Minería del Carbón el coeficiente que corresponda de conformidad con la siguiente escala:
 
-a) Cero coma cincuenta, en las de Picador, Barrenista y Ayudantes de una u otra; posteadores, siempre que dichos trabajadores presten servicios en los frentes de arranque en condiciones análogas de penosidad o peligrosidad a las que concurren en el resto de categorías de este apartado; Oficial Sondista (Inyectador), en las mismas condiciones establecidas para la categoría profesional de posteadores.
+a) Cero coma cincuenta, en las de Picador, Barrenista y Ayudantes de una u otra; posteadores, siempre que dichos trabajadores presten servicios en los frentes de arranque en condiciones análogas de penosidad o peligrosidad a las que concurren en el resto de categorías de este apartado; Oficial Sondista (Inyectador), en las mismas condiciones establecidas para la categoría profesional de posteadores; Minero de primera.
 
-b) Cero coma cuarenta, en las de Posteador, Minero de Primera y Artillero; Electromecánicos de primera y segunda, Oficial Mecánico principal de explotación y Oficial Eléctrico principal de explotación, siempre que dichos trabajadores presten servicios en los frentes de arranque en condiciones análogas de penosidad o peligrosidad a las que concurren en el resto de categorías de este apartado; Ayudantes de Artilleros, cuando desempeñen sus trabajos en las mismas condiciones que las de la categoría a la que auxilien, y de Camineros y Tuberos de arranque y preparación.
+b) Cero coma cuarenta, en las de Posteador y Artillero; Electromecánicos de primera y segunda, Oficial Mecánico principal de explotación y Oficial Eléctrico principal de explotación, siempre que dichos trabajadores presten servicios en los frentes de arranque en condiciones análogas de penosidad o peligrosidad a las que concurren en el resto de categorías de este apartado; Ayudantes de Artilleros, cuando desempeñen sus trabajos en las mismas condiciones que las de la categoría a la que auxilien, y de Camineros y Tuberos de arranque y preparación; Entibador, en labores de recuperación y estaje; Maquinista de Tracción; Técnico o Vigilante, en labores de arranque y preparación.
 
-c) Cero coma treinta, en las de Técnico o Vigilante de explotación en talleres de arranque o preparación, Ayudante Artillero, Entibador, Ayudante de Entibador, Caballista, Maquinista de tracción, Vagonero y Rampero, así como en las de Tubero o Caminero por los períodos de trabajo realizados en talleres de arranque y preparación; categorías profesionales de interior de Oficial Mecánico principal de explotación y Oficial Eléctrico principal de explotación.
+c) Cero coma treinta, en las de Técnico o Vigilante de explotación, Ayudante Artillero, Entibador, Ayudante de Entibador, Caballista, Vagonero y Rampero, así como en las de Tubero o Caminero por los períodos de trabajo realizados en talleres de arranque y preparación; categorías profesionales de interior de Oficial Mecánico principal de explotación y Oficial Eléctrico principal de explotación.
 
 d) Cero coma veinte, en las restantes categorías profesionales de interior.
 
@@ -27,6 +27,8 @@ Cuatro. El periodo de tiempo en que resulte rebajada la edad de jubilación del 
 Cinco. Tanto la reducción de edad como su cómputo a efectos de cotización, regulados en los números anteriores del presente artículo, serán de aplicación a la jubilación de trabajadores que, habiendo estado comprendidos en este Régimen Especial de la Minería del Carbón, tenga lugar en cualquier otro Régimen de la Seguridad Social.
 
 Seis. Cuando la jubilación afecte a trabajadores que se encuentren comprendidos simultáneamente en el campo de aplicación de este Régimen Especial y en el de algún otro del sistema de la Seguridad Social, se aplicará lo dispuesto en el número anterior, exclusivamente, en lo que se refiere a la reducción de edad.
+
+> Se modifican las letras a), b) y c) del apartado 1 por la disposición adicional 2.2 del Real Decreto 234/1990, de 23 de febrero. Ref. BOE-A-1990-4868.
 
 > Se modifican las letras a), b), c) y e) del apartado 1 por el art. 4.1 del Real Decreto 2366/1984, de 26 de diciembre de 1984. Ref. BOE-A-1985-806.
 
