@@ -1,27 +1,31 @@
 ## Siete.
 
-Con objeto de llevar a cabo los ensayos y determinaciones que se prevén en el apartado 24 del Reglamento General deberá suministrarse en la sede del Instituto, situada en la carretera de La Coruña, kilómetro 7,500 (Madrid-28023), el siguiente material para cada variedad solicitada:
+Con objeto de llevar a cabo los ensayos y determinaciones que se preveen en el apartado 24 del Reglamento General, deberá suministrarse en la sede del Instituto situada en la carretera de La Coruña, kilómetro 7,500 (28023 Madrid), el siguiente material para cada variedad solicitada.
 
 Para ensayos de identificación:
 
-Alfalfa: 1 kilogramo de semilla.
+Alfalfa, dactilo, festuca, ray-grass, esparceta, zulla, trébol blanco, subterráneo y violeta: 1/2 kilogramo de semilla cada año y además 1 kilogramo sólo el primer año.
 
-Dáctilo: 1 kilogramo de semilla.
+Yeros, garbanzos, altramuces, vezas, lentejas y guisantes: 1 kilogramo de semilla cada año y además 2 kilogramos sólo el primer año.
 
-Festuca: 1 kilogramo de semilla.
+Para ensayos del valor agronómico:
 
-Ray-grass: 1 kilogramo de semilla el primer año y 0,5 kilogramos el segundo año.
+Alfalfa, dactilo, festuca, ray-grass y trebol: 3 kilogramos de semilla.
 
-Para ensayos de valor agronómico:
+Esparceta y Zulla: 15 kilogramos de semilla.
 
-Alfalfa: 3 kilogramos de semilla.
+Yeros y Altramuces: 25 kilogramos de semilla.
 
-Dáctilo: 3 kilogramos de semilla.
+Garbanzos: 5 kilogramos de semilla.
 
-Festuca: 3 kilogramos de semilla.
+Guisante: 20 kilogramos de semilla.
 
-Ray-grass: 3 kilogramos de semilla.
+Veza: 60 kilogramos de semilla, aprovechamiento grano y forraje y 30 kilogramos de semilla para sólo un aprovechamiento.
 
-Las cantidades anteriormente referidas se suministrarán en los casos en que la inscripción se solicite con el fin de incluir la variedad en la lista de variedades comerciales.
+Lentejas: 20 kilogramos de semilla.
 
-Cuando se solicite exclusivamente la inscripción de la variedad en la lista de variedades comerciales para la exportación, será necesario suministrar solamente el material requerido para los ensayos de identificación.
+Las cantidades anteriormente referidas se suministrarán en los casos en que la inscripción se solicite con el fin de incluir la variedad en la Lista de Variedades Comerciales.
+
+Cuando se solicite exclusivamente la inscripción de la variedad en la Lista de Variedades Comerciales para la Exportación, será necesario suministrar solamente el material requerido para los ensayos de identificación.
+
+> Se modifica por el apartado 1 de la Orden de 23 de mayo de 1986. Ref. BOE-A-1986-15315
