@@ -1,0 +1,3 @@
+## Disposición transitoria
+
+Hasta tanto se implanten en las condiciones y con la extensión prevista en el Real Decreto 383 1984, las prestaciones de rehabilitación médico-funcional y de recuperación profesional y las medidas de Integración social, las necesidades básicas de rehabilitación, de recuperación y de integración que se generen serán cubiertas con los servicios y centros de que actualmente dispone el Instituto Nacional de Servicios Sociales y con las prestaciones previstas en el régimen unificado de ayudas públicas para disminuidos, regulado por Real Decreto 620/1961, de 5 de febrero.
