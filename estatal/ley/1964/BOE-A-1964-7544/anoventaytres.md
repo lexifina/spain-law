@@ -1,9 +1,19 @@
 ## Artículo noventa y tres.
 
-La competencia para la imposición de las sanciones expresadas corresponde:
+1. Tratándose de instalaciones nucleares y de las radiactivas de primera categoría, las infracciones en materia de energía nuclear serán sancionadas:
 
-a) A la Dirección General u Organismo dependiente del Ministerio de Industria a quien corrresponda entender por razón de la materia cuando se trate de multa no superior a cincuenta mil pesetas.
+a) Las infracciones muy graves, con multa de hasta 500.000.000 de pesetas.
 
-b) Al Ministro de Industria imponer la suspensión temporal de licencias, permisos o concesiones, multa de hasta quinientas mil pesetas o ambas conjuntamente.
+b) Las infracciones graves, con multa de hasta 100.000.000 de pesetas.
 
-c) Al Consejo de Ministros imponer la anulación de licencias, permisos o concesiones, multa de hasta cinco millones de pesetas o ambas conjuntamente.
+c) Las infracciones leves, con multa de hasta 10.000.000 de pesetas.
+
+2. Las infracciones muy graves y graves podrán dar lugar, conjuntamente con las multas previstas, a la revocación o suspensión temporal de los permisos, licencias o autorizaciones.
+
+La cuantía de las sanciones se graduará atendiendo a los criterios de proporcionalidad y a las circunstancias especificadas en el artículo anterior.
+
+La multas se podrán reiterar en el tiempo hasta que cese la conducta infractora.
+
+3. Cuando se trate de instalaciones radiactivas de segunda y tercera categorías, las sanciones económicas de multa se reducirán en su grado máximo a la mitad de las señaladas anteriormente.
+
+> Se modifica por la disposición adicional 6 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966

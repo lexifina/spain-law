@@ -1,9 +1,21 @@
-## Artículo noventa y dos.
+## Artículo noventa y dos. Calificación de las infracciones.
 
-Las sanciones que podrán imponerse por las infracciones previstas en el artículo anterior son las siguientes:
+Para la calificación de las infracciones se tendrán en cuenta las siguientes circunstancias:
 
-Una. Anulación de licencias, permisos o concesiones.
+1. El peligro resultante de la infracción para la vida y la salud de las personas, la seguridad de las cosas y el medio ambiente.
 
-Dos. Suspensión de los mismos por el tiempo preciso para remediar la alteración advertida, si ello procediera, o en otro caso hasta un año como máximo.
+2. La importancia del daño o deterioro causado a personas y cosas.
 
-Tres. Multa que no exceda de cinco millones de pesetas.
+3. El grado de participación y beneficio obtenido.
+
+4. El incumplimiento de las advertencias previas o requerimientos de las autoridades competentes.
+
+5. La intencionalidad o negligencia en la comisión de la infracción y la reiteración.
+
+6. El fraude y la connivencia en su ejecución.
+
+7. La diligencia en la identificación de la infracción y en la información a los organismos competentes, siempre que se adopten las medidas correctoras oportunas.
+
+8. La reincidencia por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+
+> Se modifica por la disposición adicional 6 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966
