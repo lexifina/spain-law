@@ -1,0 +1,9 @@
+El 27 de mayo de 1988 se creaba mediante Real Decreto el Museo Nacional Centro de Arte Reina Sofía, en virtud, como se expresaba en la exposición de motivos, de la destacada aportación de los artistas españoles a la configuración de la modernidad. La propia evolución histórica de las Artes Plásticas en el presente siglo ha marcado el desarrollo de este Museo en lo que a su actividad y configuración jurídica se refiere. En este sentido, la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990, en su artículo 83 otorga al Museo la naturaleza de Organismo autónomo administrativo, facultando al Gobierno para aprobar el Estatuto del Centro de Arte Reina Sofía.
+
+De entre los cambios que introduce el Estatuto que se aprueba por el presente Real Decreto cabe destacar la nueva definición de la composición y funciones de los órganos de gobierno del Organismo, que obedece a una finalidad etiológica: propiciar la culminación del proceso de maduración institucional del Museo. Este objetivo se pretende cumplir mediante fórmulas competenciales que permitirán avanzar hacia una mayor autonomía en la toma de decisiones estratégicas sobre la orientación institucional del Museo.
+
+Finalmente, y no pudiendo resultar esta norma ajena a otros cambios normativos producidos con posterioridad al Real Decreto 535/1988, de 27 de mayo, se introducen en el Estatuto normas de remisión y se hacen referencias puntuales a normas legales y reglamentarias aprobadas en los últimos años.
+
+En su virtud, de conformidad con lo dispuesto en el artículo 83.cuatro de la Ley 4/1990, de 29 de junio, a iniciativa de la Ministra de Cultura y a propuesta del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado previa deliberación del Consejo de Ministros en su reunión del día 23 de febrero de 1996,
+
+## D I S P O N G O :
