@@ -10,6 +10,8 @@ c) Subdirección General de Recaudación Ejecutiva.
 
 d) Subdirección General de Procedimientos Especiales.
 
-Asimismo, estará adscrita al Departamento, a través de la Subdirección General de Recaudación Ejecutiva, la Dependencia Central de Recaudación.
+Dependerá directamente de la Dirección del Departamento la Oficina Nacional de Recaudación.
 
-La Dependencia Central de Recaudación y las Unidades de Recaudación que se adscriban a la misma podrán ejercer, en la esfera central y respecto de todo el ámbito nacional, las funciones y atribuciones propias de la gestión recaudatoria de la AEAT.
+La Oficina Nacional de Recaudación ejercerá, en la esfera central y respecto a todo el ámbito nacional, las funciones y atribuciones propias de la gestión recaudatoria de la Agencia Estatal de Administración Tributaria, así como la realización de estudios e investigaciones para detectar, planificar y, en su caso, dirigir las actuaciones a desarrollar sobre sectores, situaciones u operaciones que supongan un mayor riesgo recaudatorio.
+
+> Se modifica por el apartado 3 de la Orden de 10 de diciembre de 1998. Ref. BOE-A-1998-29497.
