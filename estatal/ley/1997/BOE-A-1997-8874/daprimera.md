@@ -6,4 +6,8 @@ a) Que en representación de los trabajadores españoles haya sido negociado por
 
 b) Que haya sido formalizado en los términos establecidos en el apartado 2 del artículo 13 de esta Ley.
 
-2. En el momento de expiración de la vigencia de los acuerdos a que se refiere el apartado anterior, las partes podrán acordar su prórroga, aplicándose en caso contrario las disposiciones de la presente Ley.
+2. El plazo previsto en el apartado anterior se extenderá hasta el 15 de diciembre de 1999 en las empresas y grupos de empresas que tengan su dirección central en España que queden incluidas en el ámbito de aplicación de la presente Ley como consecuencia de su extensión al Reino Unido de Gran Bretaña e Irlanda del Norte.
+
+3. En el momento de expiración de la vigencia de los acuerdos que pudieran existir conforme a lo dispuesto en los apartados anteriores, las partes podrán acordar su prórroga, aplicándose en caso contrario las disposiciones de la presente Ley.
+
+> Se modifica el apartado 2 y se añade el apartado 3 por el art. único.3 de la Ley 44/1999, de 29 de noviembre. Ref. BOE-A-1999-22894.
