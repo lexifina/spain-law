@@ -1,0 +1,5 @@
+## Art. 65. Entrada en vigor.
+
+El presente Acuerdo entrará en vigor cuando hayan sido depositados los instrumentos de ratificación o aceptación de 12 Gobiernos signatarios, cuyas suscripciones iniciales en su conjunto, como figura en el anexo A al Acuerdo, comprendan por lo menos el 65 por 100 del capital social autorizado del Banco (*), si bien este Acuerdo no podrá entrar en vigor con anterioridad al 1 de enero de 1964, en conformidad con las disposiciones del presente artículo.
+
+(*) Las palabras «capital social autorizado del Banco» deben entenderse referidas a tal capital sólo autorizado equivalente a 211,2 millones de unidades de cuenta y como corresponde al número acumulado total de acciones, para ser suscritas por los Estados que acceden a la condición de miembros, en consonancia con el párrafo 1 del artículo 64 del Acuerdo. Véase el Memorándum depositado cerca del Secretario ejecutivo de la Comisión Económica para África de las Naciones Unidas sobre la interpretación del artículo 65 del Acuerdo de Constitución del Banco Africano de Desarrollo, anexa al Acta final de la Conferencia.

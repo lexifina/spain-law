@@ -1,0 +1,3 @@
+## Art. 62. Arbitraje.
+
+Caso de producirse un contencioso entre el Banco y el Gobierno de un Estado que ha cesado como miembro o entre el banco y cualquier miembro después de la finalización de las operaciones de aquél, el contencioso será sometido al arbitraje de un tribunal compuesto por tres árbitros. Uno de ellos será nombrado por el Banco, otro por el Gobierno del Estado en cuestión y el tercero, salvo que las partes acuerden otra cosa, será nombrado por la autoridad prescrita en las disposiciones adoptadas por la Junta de Gobernadores. El tercer árbitro tendrá plenos poderes para establecer todas las cuestiones de procedimiento en los casos en que no exista acuerdo a este respecto entre las partes.
