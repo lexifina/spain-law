@@ -63,7 +63,19 @@ El conteo de esclerocios o fragmentos de exclerocios de «Sclerotinia scletorior
 
 Todo lote de lino oleaginoso que contenga más del 5 por 100 de semillas infectadas por «Alternaria sp.p.», «Ascochyta linícola» (sin. «Phoma linícola»), «Colletotrichum lini» o «Fusarium sp.p.»
 
+Todo lote de semillas de base o certificada de soja (Glycine max) deberá cumplir las normas especiales siguientes:
+
+a) Con respecto a Pseudomonas syringae pv. glycinea, el número máximo de submuestras que, dentro de una muestra de al menos 5.000 (cinco mil) semillas por lote dividida en cinco submuestras, se hallen contaminadas por los citados microorganismos no deberá exceder de cuatro.
+
+En caso de que en las cinco se detecten colonias sospechosas, éstas podrán aislarse en un medio preferencial y someterse a las pruebas bioquímicas pertinentes con objeto de confirmar el cumplimiento de las normas o condiciones establecidas anteriormente.
+
+b) Con respecto a Diaporthe phaseolorum, el número máximo de semillas contaminadas no deberá exceder del 15 por 100.
+
+c) El procentaje en peso de materia inerte, obtenido de acuerdo con los actuales métodos internacionales de análisis, no deberá sobrepasar un 0,3 por 100.
+
 4.ª Para las semillas comerciales serán de aplicación los requistos indicados para la última categoría de semilla certificada, excepto los de pureza varietal.
+
+> Se modifica la observación 3ª por el art. 2.3 de la Orden de 13 de julio de 1992. Ref. BOE-A-1992-17436.
 
 > Se modifica por el apartado 5.2 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.
 

@@ -37,6 +37,8 @@ Las citadas en segundo lugar corresponden al aislamiento mínimo exigido cuando 
 | Nabina | 800 | 100 |
 | Soja | 100 | 20 |
 
+Estas distancias podrán no observarse cuando exista una protección suficiente contra cualquier polinización extraña no deseable.
+
 No se exige aislamiento alguno con parcelas sembradas con semilla G-1 para producir G-2 de la misma variedad.
 
 f?) Producción de G-2. Para la obtención de la semilla correspondiente a la G-2 se sembrará, sin necesidad de conservar la filiación, la semilla recolectada en las parcelas correspondientes a la G-I.
@@ -58,6 +60,8 @@ Se entiende como semilla de base la obtenida, como máximo, en la tercera genera
 g?) 3. Aislamiento: Las parcelas de producción de G-1, G-2 y G-3, deberán estar aisladas de cualquier siembra de girasol, por una distancia mínima de 2.000 metros.
 
 En casos particulares, podrán admitirse distancias menores, pero nunca inferiores a 1.600 metros.
+
+Estas distancias podrán no observarse cuando exista una protección suficiente contra cualquier polinización extraña no deseable.
 
 No se exigirá aislamiento entre dos campos si uno ha terminado su ciclo floral cuando el otro no lo ha comenzado aún, entendiéndose como principio y final de floración el momento en el que un 2 por 1.000 de las plantas hembras están receptivas para el caso del posible campo contaminado, y el momento en el que un 2 por 1.000 del total de plantas capaces de emitir polen, lo está haciendo, para el caso del posible campo contaminante.
 
@@ -126,5 +130,7 @@ Fecha en que se iniciará la recolección.
 Situación de almacenes y semilla a recoger en cada uno de ellos.
 
 Iniciación de las operaciones de selección y preparación de la semilla.
+
+> Se modifican las letras e') y g') del apartado b.1º por el art. 2.1 de la Orden de 13 de julio de 1992. Ref. BOE-A-1992-17436.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 13, de 15 de enero de 1987. Ref. BOE-A-1987-893
