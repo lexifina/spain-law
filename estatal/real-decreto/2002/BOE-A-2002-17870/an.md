@@ -69,6 +69,7 @@ Quedan excluidos los preparados para lactantes, los preparados de continuación,
 | Sales de ácido ortofosfórico | X |  |
 | Hidróxido | X |  |
 | Óxido | X |  |
+| Sulfato | X |  |
 | Magnesio: |  |  |
 | Acetato | X |  |
 | Carbonato | X |  |
@@ -175,11 +176,18 @@ Quedan excluidos los preparados para lactantes, los preparados de continuación,
 | L-triptófano | X |  |
 | L-tiroxina | X |  |
 | L-valina | X |  |
+| L-serina |  | X |
+| L-arginina L-aspartato |  | X |
+| L-lisina-L-aspartato |  | X |
+| L-lisina-L-glutamato |  | X |
+| N-acetil-L-cisteína |  | X |
+| N-acetil-L-metionina |  | X = en productos destinados a personas mayores de un año |
 | Por lo que respecta a los aminoácidos, también podrán utilizarse, en la medida de lo posible, sus sales sódicas, potásicas, cálcicas y magnésicas, así como sus clorhidratos |  |  |
 | Categoría 4. Carnitina y taurina |  |  |
 | L-carnitina | X |  |
 | Clorhidrato de Lcarnitina. | X |  |
 | Taurina | X |  |
+| L- carnitina L-tartrato | X |  |
 | Categoría 5. Nucleótidos |  |  |
 | Ácido adenosina-5’-fosfórico (AMP) | X |  |
 | Sales sódicas del AMP | X |  |
@@ -197,3 +205,5 @@ Quedan excluidos los preparados para lactantes, los preparados de continuación,
 | Bitartrato de colina | X |  |
 | Citrato de colina | X |  |
 | Inositol | X |  |
+
+> Se modifica por el apartado 1 y anexo de la Orden PRE/3520/2004, de 29 de octubre. Ref. BOE-A-2004-18616.
