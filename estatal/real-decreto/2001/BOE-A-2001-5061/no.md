@@ -1,0 +1,1 @@
+> Las referencias hechas al Director General de Fomento de la Economía Social y del Fondo Social Europeo se entienden efectuadas al Director General de la Economía Social, del Trabajo Autónomo y del Fondo Social Europeo, según establece la disposición adicional única del Real Decreto 177/2005, de 18 de febrero. Ref. BOE-A-2005-3599.
