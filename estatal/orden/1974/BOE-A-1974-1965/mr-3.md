@@ -152,4 +152,6 @@ Estos potenciales se medirán con un electrodo impolarizable de cobre-sulfato de
 
 Cuando se proceda al llenado de gas de la canalización, se hará de manera que se evite la formación de mezcla aire-gas comprendida entre los límites de inflamabilidad del gas. Para ello, siempre que sea posible, se separarán ambos fluidos con un tapón de gas inerte o un pistón de purga. A falta de ambos medios, la introducción del gas en la extremidad de la canalización se efectuará a una velocidad igual o inferior a cinco metros/segundo para reducir el riesgo de mezcla inflamable en la zona de contacto.
 
+> Se suspende por un año, la exigencia de la marca de calidad ANAIP establecida, por Orden de 23 de abril de 1975. Ref. BOE-A-1975-9254
+
 > Redactado conforme a la la corrección de errores publicada en BOE núm. 39 de 14 de febrero de 1975. Ref. BOE-A-1975-3219
