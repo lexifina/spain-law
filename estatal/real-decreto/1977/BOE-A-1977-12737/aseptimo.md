@@ -1,0 +1,7 @@
+## Artículo séptimo.
+
+Uno. Se autoriza que los mandamientos de pago «a justificar» parciales o a cuenta se daten mediante la documentación emitida por el Banco de España, acreditativa de la sitaución de divisas a favor del contratista, o la retención de fondos para la cobertura del crédito en su caso, y recibo oficial del contratista.
+
+La justificación de la inversión se efectuará con aportación de los documentos emitidos por el Gobierno o Entidad extranjera, acreditativos de la transferencia de la propiedad y entrega de material o prestación contratada, debidamente autorizados por el órgano gestor y la Intervención que corresponda. La justificación contemplará asimismo la de los fondos que hayan podido abonarse al contrato correspondiente por razón de devoluciones e incidencias de su objeto. Esta justificación se efectuará dentro de los plazos señalados para los pagos en el extranjero, si bien estos plazos se computarán a partir de la terminación del contrato y en la justificación se hará referencia a la data o datas anteriores.
+
+Dos. Cuando las adquisiciones en el exterior exijan la apertura de créditos documentarlos, los Ministerios u Organismos interesados ingresarán directamente en el Banco de España el contravalor de las divisas a que hayan de referirse los citados créditos. El Banco de España, en base a estos depósitos, avalará, a petición de la Banca privada a través de la cual se abran los créditos documentarios, el pago de las divisas objeto de los mismos.
