@@ -314,7 +314,7 @@ desde este punto, a lo largo de la frontera con Portugal, hasta
 
 39º 50’ 00’’ N - 004º 31’ 00’’ W.
 
-Límites verticales: Desde nivel de vuelo 100 hasta nivel de vuelo 245.
+Límites verticales: Desde 5.000 pies de altitud hasta nivel de vuelo 245.
 
 Tipo de restricción: Vuelos de enseñanza.
 
@@ -636,7 +636,11 @@ Límites laterales: Comprendidos por las alineaciones de los puntos cuyas coorde
 
 40º 32’ 27’’ N - 003º 47’ 20’’ W.
 
-Límites verticales: Desde tierra a 4.000 pies de altitud.
+Límites verticales:
+
+Desde tierra a 4.000 pies de altitud para vuelos IFR.
+
+Desde tierra hasta ilimitado para vuelos VFR.
 
 B.20 Moncloa (Madrid)
 
@@ -644,7 +648,11 @@ Límites laterales: Comprendidos dentro de un círculo de un kilómetro de radio
 
 40º 26’ 40’’ N - 003º 44’ 00’’ W.
 
-Límites verticales: Desde tierra hasta 4.000 pies de altitud.
+Límites verticales:
+
+Desde tierra a 4.000 pies de altitud para vuelos IFR.
+
+Desde tierra hasta ilimitado para vuelos VFR.
 
 B.21 Melilla
 
@@ -729,5 +737,7 @@ Límites laterales: Comprendidos por las alineaciones de los puntos cuyas coorde
 Límites verticales: Desde el suelo hasta 6.000 pies de altitud.
 
 Tipo de restricción: Vuelos de entrenamiento de helicópteros militares.
+
+> Se modifican los apartados B. B.9, 19 y 20 por el apartado único de la Orden de 18 de enero de 1993. Ref. BOE-A-1997-12919.
 
 > Se modifica por el apartado 1 de la Orden de 2 de junio de 1994. Ref. BOE-A-1994-12974.
