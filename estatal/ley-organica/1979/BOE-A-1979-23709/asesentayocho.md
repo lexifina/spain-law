@@ -1,0 +1,7 @@
+## Artículo sesenta y ocho
+
+Uno. En el caso de que un órgano de la Administración del Estado declinare su competencia para resolver cualquier pretensión deducida ante el mismo por persona física o jurídica, por entender que la competencia corresponde a una Comunidad Autónoma, el interesado, tras haber agotado la vía administrativa mediante recurso ante el Ministerio correspondiente, podrá reproducir su pretensión ante el órgano ejecutivo colegiado de la Comunidad Autónoma que la resolución declare competente. De análogo modo se procederá si la solicitud se promueve ante una Comunidad Autónoma y ésta se inhibe por entender competente al Estado o a otra Comunidad Autónoma.
+
+Dos. La Administración solicitada en segundo lugar deberá admitir o declinar su competencia en el plazo de un mes. Si la admitiere, procederá a tramitar la solicitud presentada. Si se inhibiere, deberá notificarlo al requirente, con indicación precisa de los preceptos en que se funda su resolución.
+
+Tres. Si la Administración a que se refiere el apartado anterior declinare su competencia o no pronunciare decisión afirmativa en el plazo establecido, el interesado podrá acudir al Tribunal Constitucional. A tal efecto, deducirá la oportuna demanda dentro del mes siguiente a la notificación de la declinatoria, o si trascurriese el plazo establecido en el apartado dos del presente artículo sin resolución expresa, en solicitud de que se tramite y resuelva el conflicto de competencia negativo.

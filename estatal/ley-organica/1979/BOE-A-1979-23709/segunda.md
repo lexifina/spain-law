@@ -1,0 +1,5 @@
+## Disposición transitoria segunda
+
+Uno. Los plazos previstos en esta Ley para interponer el recurso de inconstitucionalidad o de amparo o promover un conflicto constitucional comenzarán a contarse desde el día en que quede constituido el Tribunal de acuerdo con la disposición transitoria anterior, cuando las Leyes, disposiciones, resoluciones o actos que originen el recurso o conflicto fueran anteriores a aquella fecha y no hubieran agotado sus efectos.
+
+Dos. En tanto no sean desarrolladas las previsiones del artículo cincuenta y tres, dos, de la Constitución para configurar el procedimiento judicial de protección de los derechos y libertades fundamentales se entenderá que la vía judicial previa a la interposición del recurso de amparo será la contencioso-administrativa ordinaria o la configurada en la Sección segunda de la Ley sesenta y dos/mil novecientos setenta y ocho, de veintiséis de diciembre, sobre protección jurisdiccional de los derechos fundamentales, a cuyos efectos el ámbito de la misma se entiende extendido a todos los derechos y libertades a que se refiere el expresado artículo cincuenta y tres, dos, de la Constitución.
