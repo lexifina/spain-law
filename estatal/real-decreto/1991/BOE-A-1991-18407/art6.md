@@ -1,0 +1,5 @@
+## Art. 6.º Almacenamiento, transporte y distribución.
+
+6.1 Los equipos utilizados para la congelación rápida, el almacenamiento, el transporte, la distribución local y los muebles frigoríficos de venta al consumidor final, serán los adecuados para satisfacer el cumplimiento de la presente Norma General, así como las demás disposiciones vigentes, y, en especial, el Real Decreto 168/1985, de 6 de febrero, que aprueba la Reglamentación Técnico-Sanitaria sobre Condiciones Generales de Almacenamiento Frigorífico de Alimentos y Productos Alimentarios («Boletín Oficial del Estado» del 14) y el Real Decreto 2483/1986, de 14 de noviembre, que aprueba la Reglamentación Técnico-Sanitaria sobre Condiciones Generales de Transportes Terrestres de Alimentos y Productos Alimenticios a Temperatura Regulada («Boletín Oficial del Estado» de 5 de diciembre)
+
+6.2 Los Servicios de Inspección de las distintas Administraciones públicas, dentro del ámbito de sus competencias, vigilarán el cumplimiento de lo establecido en el apartado 6.1 y controlarán mediante sondeo las temperaturas de los alimentos ultracongelados que se fijan en el artículo 5.º
