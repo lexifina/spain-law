@@ -1,0 +1,3 @@
+## Disposición adicional única.
+
+Conforme a lo dispuesto en el artículo 3.3 de la Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial, las Delegaciones Provinciales de la Oficina del Censo Electoral de Cádiz y Málaga efectuarán, además, un sorteo independiente con base en la lista del censo electoral vigente en las ciudades de Ceuta y Melilla, respectivamente, a fin de obtener la lista de candidatos a jurados para los juicios que se celebren en cada una de estas ciudades. A tal objeto, los Presidentes de las Audiencias Provinciales de Cádiz y Málaga comunicarán a los respectivos Delegados Provinciales de la Oficina del Censo Electoral el número de candidatos a obtener en las mencionadas ciudades.
