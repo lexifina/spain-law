@@ -1,0 +1,5 @@
+## Art. 10. Pluriempleo.
+
+1. Para la determinación, en caso de pluriempleo, de la base reguladora de la prestación por invalidez provisional, se computarán todas las bases de cotización correspondientes al trabajador en las distintas Empresas en las que preste servicios, siendo de aplicación a la base reguladora así determinada, aun cuando se calcule sobre salarios reales, el tope máximo establecido a efectos de bases de cotización.
+
+2. Cuando la invalidez provisional sea debida a accidente de trabajo, el reconocimiento del derecho al subsidio corresponderá a la Mutualidad Laboral o, en su caso, Mutua Patronal que asuma la protección por dicha contingencia en la Empresa en que la misma se haya producido. En tal supuesto, el pago del subsidio correrá a cargo de la referida Entidad y de las restantes Mutualidades Laborales o, en su caso, Mutuas Patronales, que cubran la aludida contingencia, en proporción a las bases por las que se venga cotizando por el beneficiario a cada una de ellas.

@@ -1,0 +1,9 @@
+## Art. 24. Compatibilidades.
+
+1. El subsidio de espera será compatible con la percepción de un salario siempre que la suma de ambos conceptos fuese igual o inferior a la retribución que el trabajador viniera percibiendo al ocurrir la contingencia: si fuese de cuantía superior, el salario podrá reducirse por la Empresa que haya dado tal colocación hasta el importe del salario percibido anteriormente o el superior que lo haya sustituido con carácter general.
+
+2. El subsidio de asistencia será compatible con las becas o salarios de estimulo; en el caso de que los tratamientos o procesos de readaptación permitiesen la realización de trabajos por cuenta ajena, se aplicarán las normas del número anterior.
+
+3. La pensión vitalicia por incapacidad permanente total para la profesión habitual, prevista en el número 2 del artículo 15, será compatible con la percepción de un salario, en la misma Empresa o en otra distinta. Cuando la invalidad del trabajador afecte a la capacidad exigida, con carácter general, para desempeñar el nuevo puesto de trabajo, aquél podrá convenir con el empresario que el salario asignado a ese puesto de trabajo se reduzca en la proporción que corresponda a su menor capacidad, sin que tal reducción pueda exceder, en ningún caso, del 50 por 100 del importe de la pensión; el contrato, en que así se convenga, deberá formalizarse por escrito y se presentará por triplicado ante la Delegación Provincial de Trabajo para su conocimiento y aprobación, con devolución a los interesados de dos ejemplares del contrato.
+
+4. Las pensiones vitalicias en caso de invalidez absoluta o gran invalidez no impedirán el ejercicio de aquellas actividades, sean o no lucrativas, compatibles con el estado de inválido y que no representen un cambio en su capacidad de trabajo a efectos de revisión.

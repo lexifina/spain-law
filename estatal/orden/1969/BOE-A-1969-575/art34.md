@@ -1,0 +1,3 @@
+## Art. 34. Conciertos.
+
+Los conciertos que puedan establecer las Entidades gestoras o Mutuas Patronales con las Obras e Instituciones de la Organización Sindical con cualesquiera otras Entidades, públicas o privadas, para la realización de las prestaciones recuperadoras reguladas en la presente sección, deberán ser aprobados por la Dirección General de Previsión; la compensación económica que se estipule en los conciertos no podrá consistir en la entrega de un porcentaje de la prima o cuota de la Seguridad Social, ni entrañar en forma alguna sustitución en la función gestora encomendada a aquellas Entidades o en la colaboración atribuida a las Mutuas Patronales.

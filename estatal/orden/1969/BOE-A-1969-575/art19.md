@@ -1,0 +1,7 @@
+## Art. 19. Beneficiarios.
+
+Serán beneficiarios de las prestaciones económicas por invalidez permanente, que a su grado de incapacidad corresponda, los trabajadores que, reuniendo las condiciones que a continuación se señalan, hayan sido declarados en la situación de invalidez permanente definida en el número 2 del artículo primero:
+
+a) Que se encuentren afiliados y en alta o en situación asimilada al alta, teniendo cubierto, en la fecha en que causaron baja en el trabajo a consecuencia de las contingencias determinantes de la invalidez, un período de cotización efectivo de mil ochocientos días en los diez años inmediatamente anteriores a la expresada fecha, salvo para las prestaciones por invalidez permanente derivada de accidente, sea o no laboral, o de enfermedad profesional, en cuyo caso no será exigido ningún período previo de cotización.
+
+b) En los supuestos de incapacidad permanente parcial o total, será necesario, además, que el trabajador haya cumplido cuarenta y cinco años de edad en el momento del alta médica, salvo en las prestaciones económicas por invalidez derivada de accidente de trabajo o enfermedad profesional, en cuyo caso no será exigido ningún límite de edad para su otorgamiento. En los supuestos de incapacidad permanente absoluta o de gran invalidez, no será necesario el indicado requisito relativo a la edad, cualquiera que sea la contingencia determinante de la invalidez.
