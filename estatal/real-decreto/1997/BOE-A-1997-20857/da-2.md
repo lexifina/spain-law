@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Excepciones en pesquerías locales.
+
+En el caso de pesquerías locales, y teniendo en cuenta los usos y costumbres tradicionales, la Dirección General de Recursos Pesqueros del Ministerio de Agricultura, Pesca y Alimentación, previo informe del Instituto Español de Oceanografía (IEO), oída la Comunidad Autónoma de Andalucía y las organizaciones profesionales, podrá conceder autorización para la utilización de aparejos, artes u otros útiles de pesca de dimensiones y características técnicas que no se ajusten a las contempladas en este Real Decreto, en el contexto de un plan de actividad pesquera previamente acordado.
