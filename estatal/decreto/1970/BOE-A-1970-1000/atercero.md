@@ -1,15 +1,13 @@
 ## Artículo tercero. Sujetos incluídos.
 
-Estarán obligatoriamente incluídos en este régimen especial de la Seguridad Social los españoles mayores de dieciocho años, cualquiera que sea su sexo y estado civil, que a continuación se determinan:
+Estarán obligatoriamente incluidos en este Régimen Especial de la Seguridad Social los españoles mayores de dieciocho años, cualquiera que sea su sexo y su estado civil, que residen y ejerzan normalmente su actividad en el territorio nacional y se hallen incluidos en alguno de los apartados siguientes:
 
-Primero.–Los trabajadores por cuenta propia o autónomos, sean o no titulares de Empresas individuales o familiares, siempre que en los mismos concurran los requisitos siguientes:
+a) Los trabajadores por cuenta propia o autónomos, sean o no titulares de Empresas individuales o familiares.
 
-a) Que figuren integrados como tales trabajadores por cuenta propia o autónomos en la Entidad sindical a la que corresponda el encuadramiento de su actividad, sin que obste a tal efecto el incumplimiento por el trabajador de su obligación de integración sindical.
+b) El cónyuge y los parientes por consanguinidad o afinidad hasta el tercer grado inclusive de los trabajadores determinados en el número anterior que, de forma habitual, personal y directa, colaboren con ellos mediante la realización de trabajos en la actividad de que se trate, siempre que no tengan la condición de asalariados respecto a aquéllos.
 
-b) Que residan y ejerzan normalmente su actividad en territorio nacional.
+c) Los socios de las Compañías regulares colectivas y los socios colectivos de las Compañías comanditarias que trabajan en el negocio con tal carácter, a título lucrativo y de forma habitual, personal y directa.
 
-Segundo.–El cónyuge y los parientes por consanguinidad o afinidad hasta el tercer grado, inclusive, de los trabajadores determinados en el punto anterior que de forma habitual, personal y directa colaboren con ellos mediante la realización de trabajos en la actividad de que se trate, siempre que no tengan la condición de asalariados respecto a aquéllos y cumplan los requisitos señalados en el apartado b) de dicho punto.
+No obstante lo dispuesto en los números anteriores, la inclusión obligatoria en el Régimen Especial de trabajadores por cuenta propia o autónomos de aquellos trabajadores de esta naturaleza que para el ejercicio de su actividad profesional necesiten, como requisito previo, integrarse en un Colegio o Asociación Profesional se llevará a cabo a solicitud de los Órganos superiores de representación de dichas Entidades y mediante Orden ministerial.
 
-Tercero.–Los socios de las Compañías regulares colectivas y los socios colectivos de las Compañías comanditarias, cuando además de cumplir la Sociedad, con respecto a sí misma, el requisito de integración sindical que figura en el apartado a) del punto primero de este artículo, con la salvedad que en el mismo se recoge, y los socios el señalado en su apartado b), trabajen en el negocio con tal carácter a título lucrativo y de forma habitual, personal y directa.
-
-Cuarto.–Aquellos otros grupos de trabajadores por cuenta propia o autónomos que pueda disnonerse por Decreto a propuesta del Ministro de Trabajo y oída la Organización Sindical.
+> Se modifica por el art. único del Real Decreto 2504/1980, de 24 de octubre. Ref. BOE-A-1980-25210.
