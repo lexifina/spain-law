@@ -594,7 +594,7 @@ Lacas, pigmentos o sales preparadas a partir de colorantes que figuran con la re
 
 292. Metirapona (a).
 
-293. Sustancias radiactivas (b).
+293. Las sustancias radiactivas tal como se definen en el anexo I del Real Decreto 783/2001, de 6 de julio, por el que se aprueba el Reglamento sobre protección sanitaria contra radiaciones ionizantes.
 
 294. «Juniperus sabina L.» (hojas, aceite esencial y preparaciones).
 
@@ -886,15 +886,83 @@ Proceso continuo, a 140º C, 2 bar (2.000 hPa), durante ocho minutos con condici
 
 418. Alquitranes crudos y refinados.
 
-419.1.1,3.3,5-pentametil-4,6-dinitroindano (almizcle muscado).
+419. 1.1,3.3,5-pentametil-4,6-dinitroindano (almizcle muscado).
 
-420.5-ter-butil-1,2,3-trimetil-4,6-dinitrobenceno (almizcle tibetano).
+420. 5-ter-butil-1,2,3-trimetil-4,6-dinitrobenceno (almizcle tibetano).
+
+421. Aceite de alantroot (Inula helenium) (número CAS 97676-35-2), en su uso como ingrediente de fragancia.
+
+422. Cianuro de bencilo (número CAS 140-29-4), en su uso como ingrediente de fragancia.
+
+423. Alcohol de ciclamen (número CAS 4756-19-8), en su uso como ingrediente de fragancia.
+
+424. Maleato de dietilo (número CAS 141-05-9), en su uso como ingrediente de fragancia.
+
+425. Dihidrocumarina (número CAS 119-84-6), en su uso como ingrediente de fragancia.
+
+426. 2,4-Dihidroxi-3-metilbenzaldehído (número CAS 6248-20-0), en su uso como ingrediente de fragancia.
+
+427. 3,7-Dimetil-2-octen-1-ol (6,7-dihidrogeraniol) (número CAS 40607-48-5), en su uso como ingrediente de fragancia.
+
+428. 4,6-Dimetil-8-terc-butilcumarina (número CAS 17874-34-9), en su uso como ingrediente de fragancia.
+
+429. Citraconato de dimetilo (número CAS 617-54-9), en su uso como ingrediente de fragancia.
+
+430. 7,11-Dimetil-4,6,10-dodecatrien-3-ona (número CAS 26651-96-7), en su uso como ingrediente de fragancia.
+
+431. 6,10-Dimetil-3,5,9-undecatrien-2-ona (número CAS 141-10-6), en su uso como ingrediente de fragancia.
+
+432. Difenilamina (número CAS 122-39-4), en su uso como ingrediente de fragancia.
+
+433. Acrilato de etilo (número CAS 140-88-5), en su uso como ingrediente de fragancia.
+
+434. Hoja de higuera (Ficus carica) (número CAS 68916-52-9), en su uso como ingrediente de fragancia.
+
+435. Trans-2-heptenal (número CAS 18829-55-5), en su uso como ingrediente de fragancia.
+
+436. Trans-2-hexenal dietil acetal (número CAS 67746-30-9), en su uso como ingrediente de fragancia.
+
+437. Trans-2-hexenal dimetil acetal (número CAS 18318-83-7), en su uso como ingrediente de fragancia.
+
+438. Alcohol hidroabietílico (número CAS 13393-93-6), en su uso como ingrediente de fragancia.
+
+439. 6-Isopropil-2-decahidronaftalenol (número CAS 34131-99-2), en su uso como ingrediente de fragancia.
+
+440. 7-Metoxicumarina (número CAS 531-59-9), en su uso como ingrediente de fragancia.
+
+441. 4-(p-Metoxifenil)-3-buten-2-ona (número CAS 943-88-4), en su uso como ingrediente de fragancia.
+
+442. 1-(p-Metoxifenil)-1-penten-3-ona (número CAS 104-27-8), en su uso como ingrediente de fragancia.
+
+443. Trans-2-butenoato de metilo (número CAS 623-43-8), en su uso como ingrediente de fragancia.
+
+444. 7-Metilcumarina (número CAS 2445-83-2), en su uso como ingrediente de fragancia.
+
+445. 5-Metil-2,3-hexanodiona (número CAS 13706-86-0), en su uso como ingrediente de fragancia.
+
+446. 2-Pentilidenciclohexan-1-ona (número CAS 25677-40-1), en su uso como ingrediente de fragancia.
+
+447. 3,6,10-Trimetil-3,5,9-undecatrien-2-ona (número CAS 1117-41-5), en su uso como ingrediente de fragancia.
+
+448. Aceite de verbena (Lippia citriodora Kunth.) (número CAS 8024-12-2), en su uso como ingrediente de fragancia.
+
+449. Metileugenol (número CAS 95-15-2), excepto los contenidos normales que aparezcan en las esencias naturales utilizadas y siempre que la concentración no sobrepase:
+
+a) 0,01 por 100 en perfumes.
+
+b) 0,004 por 100 en colonias.
+
+c) 0,002 por 100 en cremas perfumadas.
+
+d) 0,001 por 100 en productos que se eliminan por aclarado.
+
+e) 0,0002 por 100 en otros productos de contacto y productos de higiene bucal.
 
 (1) Se tolerará la presencia de trazas de las sustancias comprendidas en este anexo, cuando éstas sean técnicamente inevitables como consecuencia de la aplicación de las buenas prácticas de fabricación y siempre que se cumpla el articulo cuarto de esta reglamentación.
 
 (a) El nombre de estas sustancias es el recomendado como «denominación común internacional» para las sustancias farmacéuticas publicadas por la Organización Mundial de la Salud. Ginebra 1982.
 
-(b) Se admite la presencia de sustancias radiactivas naturales procedentes de contaminaciones artificiales ambientales, a condición de que dichas sustancias radiactivas no sean enriquecidas antes de utilizarlas en la fabricación de productos cosméticos, y siempre que su concentración no supere los límites establecidos en las directivas que fijan las normas básicas relativas a la protección sanitaria de la población y de los trabajadores, frente a los peligros resultantes de las radiaciones ionizantes («Diario oficial de las Comunidades Europeas», número 11 de 20 de febrero de 1959, página 221/59).
+> Se modifica el número 293 y se añaden los números 421 a 449 por el apartado 1.1.a) y b) de la Orden SCO/249/2003, de 5 de febrero. Ref. BOE-A-2003-3007.
 
 > Se modifican los números 362, 365, 372, 374, 377, 378, 389, 396 y 417 por el apartado 1.1 de la Orden de 3 de agosto de 2000. Ref. BOE-A-2000-15557.
 

@@ -28,7 +28,7 @@
 | 6 | CLORATOS DE METALES ALCALINOS | a) Dentífricos. | – 5% |  |  |
 |  |  | b) Otros usos. | – 3% |  |  |
 | 7 | CLORURO DE METILENO |  | – 35% (en caso de mezcla con el 1,1,1, tricloroetano, la concentración total no puede sobrepasar el 35%) | – Contenido máximo de impurezas 0,2% |  |
-| 8 | DIAMINOBENCENO (META,PARA), SUS DERIVADOS N-SUSTITUIDOS Y SUS SALES, Y LOS DERIVADOS DEL ORTO DIAMINOBENCENO. N-SUSTITUIDOS (1) | Colorantes de oxidación para el cabello. a) Uso general. | – 6% calculado en base libre |  | a) – Puede provocar reacción alérgica. – Contiene diaminobencenos. – No emplear para teñir cejas y pestañas. |
+| 8 | Compuestos m- y p-fenilendiamina, sus derivados N-sustituidos y sus sales; derivados N-sustituidos de o-fenilendiaminas, con la excepción de los derivados enumerados en cualquier otra parte del presente anexo (1). | Colorantes de oxidación para el cabello. a) Uso general. | – 6% calculado en base libre |  | a) – Puede provocar reacción alérgica. – Contiene diaminobencenos. – No emplear para teñir cejas y pestañas. |
 |  |  | b) Uso profesional. |  |  | b) – Reservado a profesionales. – Usar guantes apropiados. – Contiene diaminobencenos. – Puede provocar una reacción alérgica. |
 | 9 | DIAMINOTOLUENOS, SUS SUS DERIVADOS N- SUSTITUIDOS Y SUS SALES(1) EXCEPTO EL NÚMERO 364 DEL ANEXO II | Colorantes de oxidación para el cabello. | – 10% calculado en base libre |  |  |
 |  |  | a) Uso general |  |  | a) – Puede provocar reacción alérgica. – Contiene diaminotoluenos. – No emplear para teñir cejas y pestañas. |
@@ -51,14 +51,15 @@
 |  |  | 2. Uso profesional. | 2. 4,5% en peso (4). |  | 2. – Reservado a profesionales. – Evítese el contacto con los ojos. Peligro de ceguera. |
 |  |  | c) Regulador del pH – Depilatorios. | c) Hasta pH 12,7. |  | c) – Manténgase fuera del alcance de los niños. – Evítese el contacto con los ojos. |
 |  |  | d) Otros usos como regulador de pH. | d) Hasta pH 11 |  |  |
-| 15b | HIDRÓXIDO DE LITIO. | a) Productos para el alisado del cabello. |  |  |  |
-|  |  | 1. Uso general. | 1. 2% en peso (4). |  | 1. – Contiene agente alcalino. – Evitar el contacto con los ojos. Peligro de ceguera. – Manténgase fuera del alcance de los niños. |
-|  |  | 2. Uso profesional. | 2. 4,5% en peso (4). |  | 2. – Reservado a profesionales. – Evítese el contacto con los ojos. Peligro de ceguera. |
-|  |  |  |  |  |
-|  |  | b) Otros usos. |  |  |  |
-| 15c | HIDRÓXIDO DE CALCIO. | a) Productos para el alisado del cabello con dos componentes, hidróxido de calcio y una sal de guanidina. | 7% en peso de hidróxido de calcio. |  | – Contiene agente alcalino. – Evítese el contacto con los ojos. – Manténgase fuera del alcance de los niños. – Peligro de ceguera. |
-|  |  | b) Otros usos |  |  |  |
-| 16 | α-NAFTOL | Tintes capilares | 0,5% |  | Contiene α-naftol |
+| 15b | Hidróxido de litio. | a) Alisadores del cabello. | a) |  | a) |
+|  |  | 1. Uso general | 1. 2 por 100 en peso (4) |  | 1. Contiene un agente alcalino. Evitar todo contacto con los ojos. Peligro de ceguera. Mantener alejado de los niños. alcance de los niños. |
+|  |  | 2. Uso profesional | 2. 4,5 por 100 en peso (4) |  | 2. Uso exclusivamente profesional. Evitar todo contacto con los ojos. Peligro de ceguera. |
+|  |  | b) Regulador del pH-para depilatorios. |  | b) pH máximo 12,7. | b) Contiene un agente alcalino. Mantener alejado de los niños. Evitar todo contacto con los ojos. |
+|  |  | c) Otros usos como regulador del pH (sólo para productos que se eliminan por aclarado). |  | c) pH máximo 11. |  |
+| 15c | Hidróxido de calcio. | a) Alisadores del cabello que contengan dos componentes: Hidróxido de calcio y una sal de guanidina. | a) 7 por 100 en peso de hidróxido de calcio. |  | a) Contiene un agente alcalino. Evitar todo contacto con los ojos. Mantener alejado de los niños. Peligro de ceguera. |
+|  |  | b) Regulador del pH-para depilatorios. |  | b) pH máximo 12,7. | b) Contiene un agente alcalino. Mantener alejado de los niños. Evitar todo contacto con los ojos. |
+|  |  | c) Otros usos (por ejemplo, regulador del pH, coadyuvante tecnológico). |  | c) pH máximo 11. |  |
+| 16 | 1-Naphthol (número CAS 90-15-3) y sus sales. | Colorantes de oxidación para el teñido del cabello. | 2,0 por 100. | En combinación con peróxido de hidrógeno, la concentración máxima para su uso es de 1,0 por 100. | Puede provocar una reacción alérgica. |
 | 17 | NITRITO SÓDICO | Inhibidor de corrosión. | 0,2% | No emplear con aminas secundarias y/o terciarias u otras sustancias que formen nitrosaminas. |  |
 | 18 | NITROMETANO | Inhibidor de corrosión. | 0,3% |  |  |
 | 19 | FENOL Y SUS SALES ALCALINAS | Jabones y champús. | 1% calculado en fenol. |  | Contiene fenol. |
@@ -117,6 +118,8 @@
 | 64 | PERÓXIDO DE ESTRONCIO | Productos para el cuidado del cabello, destinados a ser aclarados después de su aplicación. Uso profesional | 4,5% expresado en estroncio en el producto preparado para el uso | Todos los productos deberán cumplir los requisitos de emisión de peróxido de hidrógeno | – Evitar el contacto con los ojos. – Enjuagar inmediatamente los ojos si el producto entra en contacto con ellos. – Uso profesional. – Usar guantes adecuados. |
 | 65 | Cloruro, bromuro y sacarinato de benzalconio. | b) Productos para el cabello que se eliminan por aclarado. | a) 3 por 100 (expresado en cloruro de benzalconio). | a) En el producto acabado, las concentraciones de cloruro, bromuro y sacarinato de benzalco‑ nio cuya cadena de alquilos sea igual o inferior a C14 no deberán ser superiores al 0,1 por 100 (expresado en clo‑ ruro de benzalconio). | a) Evitar el contacto con los ojos. |
 |  |  | c) Otros productos. | b) 0,1 por 100 (expresado en cloruro de benzalconio). |  | b) Evitar el contacto con los ojos. |
+| 66 | Polyacrylamides. | a) Productos para el cuidado corporal que se dejan en contacto. |  | a) Contenido máximo residual de acrilamida 0,1 mg/kg. |  |
+|  |  | b) Otros productos cosméticos. |  | b) Contenido máximo residual de acrilamida 0,5 mg/kg |  |
 
 (1) Estas sustancias pueden ser utilizadas solas o mezclas entre ellas en cantidad tal que la suma de los «cocientes relativos» de cada una de las sustancias no sobrepase la unidad.
 
@@ -129,6 +132,8 @@ Se denomina «cociente relativo» a la relación entre la concentración de una 
 Se denomina «cociente relativo» a la relación entre la concentración de una sustancia y la concentración máxima permitida para esa sustancia.
 
 (4) La cantidad de hidróxido de potasio, sodio o litio se expresa en peso de hidróxido de sodio. En caso de mezclas, la suma no debería sobrepasar los límites establecidos en la columna d).
+
+> Se modifican los números 8, 15b, 15c y 16 y se añade el 66 por el apartado 1.2 de la Orden SCO/249/2003, de 5 de febrero. Ref. BOE-A-2003-3007.
 
 > Se modican los números 1, 14 y 65 por el apartado 1.2 de la Orden de 3 de agosto de 2000. Ref. BOE-A-2000-15557.
 

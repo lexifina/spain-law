@@ -39,6 +39,8 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER LOS PRODUCTOS COSMÉTICOS
 | 23 | 2,2'-metilen-bis-6-(2H-benzotriazol-2-il)-4-(tetrametil-butil)-1,1,3,3-fenol. | 10 por 100 |  |  |
 | 24 | Sal monosódica del ácido 2-2'-bis-(1,4-fenilen)1H-benzimidazol-4,6-disulfónico. | 10 por 100 (expresado en ácido) |  |  |
 | 25 | (1,3,5)-triazina-2,4-bis{[4-(2etil-hexiloxi)-2hydroxi]-fenilo)-6-(4-metoxifenilo) | 10 por 100 |  |  |
+| 26 | Dimethicodiehylbenzal malonate (número CAS 207574-74-1). | 10 por 100 |  |  |
+| 27 | Titanium dioxide. | 25 por 100 |  |  |
 
 (1) No se exigirá la mención si la concentración es igual o inferior a 0,5% y si la sustancia se utiliza sólo para proteger el producto.
 
@@ -50,6 +52,10 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER PROVISIONALMENTE LOS PRODUCTO
 | --- | --- | --- | --- | --- | --- |
 | a | b | c | d | e | f |
 |  |  |  |  |  |  |
+
+> Se añaden los números 26 y 27 en la primera parte por el apartado 1.4 de la Orden SCO/249/2003, de 5 de febrero. Ref. BOE-A-2003-3007.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 73, de 26 de marzo de 2003. Ref. BOE-A-2003-6049.
 
 > Se añaden los números 21 a 25 en la primera parte y se suprime el 5, 17 y 29 de la segunda parte por el apartado 1.4 de la Orden de 3 de agosto de 2000. Ref. BOE-A-2000-15557.
 
