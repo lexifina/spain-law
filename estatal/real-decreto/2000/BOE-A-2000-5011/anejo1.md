@@ -4,7 +4,7 @@
 
 A. Para transporte nacional, podrán ser certificados de tipo o ser puestos o mantenidos en servicio, según el caso, los siguientes vehículos:
 
-1. Aquellos vehículos en posesión de un certificado de autorización especial, conforme a lo dispuesto en el artículo 7, apartado 2, y en el apartado 9.1.3 del anejo del Real Decreto 2312/1985, de 24 de septiembre, podrán ser mantenidos en servicio, hasta el 1 de enero de 2001, o hasta que se cumplan los veinte años de su construcción, en las mismas condiciones que se establecieron en el citado Real Decreto.
+1. Aquellos vehículos en posesión de un certificado de autorización especial, conforme a lo dispuesto en el artículo 7, apartado 2, y en el apartado 9.1.3 del anejo del Real Decreto 2312/1985, de 24 de septiembre, sobre normas de homologación, ensayo e inspección de vehículos destinados al transporte de mercancías perecederas, a partir del 1 de enero de 2003 no podrán ser mantenidos en servicio cuando hayan cumplido veinte años o cumplan veinte años desde su construcción.
 
 Los vehículos a que se hace referencia en este apartado deberán ser sometidos a control de conformidad, al menos, cada año.
 
@@ -23,3 +23,5 @@ Los vehículos a que se hace referencia en este apartado deberán ser sometidos 
 B. Las contraseñas de tipo concedidas conforme a lo dispuesto en este anejo estarán formadas por la letra N, seguida de un número de cinco cifras correlativas y del número del constructor asignado por el Registro.
 
 C. El primer control de conformidad de los vehículos especiales, posterior a su puesta en servicio, se realizará a los seis años de la inspección previa a su puesta en servicio, o antes si la autoridad competente lo requiere. Los controles posteriores se realizarán cada tres años, o antes si la autoridad competente lo requiere.
+
+> Se modifica el apartado A.1 por el apartado 1 de la Orden de 15 de octubre de 2001. Ref. BOE-A-2001-19999
