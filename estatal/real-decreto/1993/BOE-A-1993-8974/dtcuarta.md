@@ -13,3 +13,7 @@ La incorporación de estos bienes inmuebles se valora, a tal efecto, en 4.115,2 
 2. Los créditos del Instituto Nacional de la Salud previstos para 1993 se incrementarán en el importe resultante de la aplicación de lo previsto en los párrafos a) y b) del apartado anterior y que, en su conjunto, se estima en 7.265,2 millones de pesetas, que se financiará con cargo a la recaudación que se obtenga de la aplicación del tipo de cotización adicional señalado en el párrafo a) del apartado anterior y mediante una aportación de la Seguridad Social, en una cuantía igual a la cifra señalada en el párrafo b).
 
 3. El incremento de cuotas sobre las inicialmente previstas procedentes de los conciertos de asistencia sanitaria con la Mutualidad Nacional de Previsión de la Administración Local, que se produzca en 1993, como consecuencia de lo previsto en la disposición transitoria quinta, generará crédito en el presupuesto del Instituto Nacional de la Salud.
+
+> Téngase en cuenta que se declara nulo el inciso destacado por Sentencia del TS de 9 de septiembre de 1995 publicada por Orden de 26 de abril de 1996. Ref. BOE-A-1996-12300.
+
+> Se declara la nulidad del inciso destacado por Sentencia del TS de 9 de septiembre de 1995 publicada por Orden de 26 de abril de 1996. Ref. BOE-A-1996-12300
