@@ -1,0 +1,3 @@
+## Disposición final primera. Habilitación a la Tesorería General de la Seguridad Social.
+
+En lo no previsto en el Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social y disposiciones complementarias, así como en el Reglamento General de la Gestión Financiera de la Seguridad Social y en esta Orden, la información que deban remitir a la Tesorería General de la Seguridad Social los colaboradores en la gestión de ingresos y pagos del sistema de la Seguridad Social se ajustará a las instrucciones que dicha Tesorería dicte en atención a la naturaleza o clase de los ingresos, pagos u operaciones de que se trate.

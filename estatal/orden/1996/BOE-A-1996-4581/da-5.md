@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Transferencias a las Mutuas durante 1996 por la cobertura de la incapacidad temporal por contingencias comunes.
+
+En el ejercicio de 1996, las cantidades que, por la cobertura de la incapacidad temporal debida a contingencias comunes, la Tesorería General de la Seguridad Social deba transferir a la correspondiente Mutua de Accidentes de Trabajo y Enfermedades Profesionales, serán, al menos, las mismas que en el respectivo período los obligados al pago de cuotas hubieren compensado por prestaciones por incapacidad temporal debidas a contingencias comunes en los documentos de cotización presentados en plazo reglamentario.
