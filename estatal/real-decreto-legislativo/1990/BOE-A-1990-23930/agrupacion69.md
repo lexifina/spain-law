@@ -32,9 +32,9 @@ Por cada obrero: 2.588 pesetas. (15,554193 euros)
 
 Por cada Kw: 1.625 pesetas. (9,766447 euros)
 
-Nota: Este epígrafe comprende la reparación de bienes de consumo no especificados en los epígrafes anteriores de este grupo, tales como reparación de calzado y artículos de cuero y similares; reparación de relojes; restauración de cuadros; reparación y conservación de máquinas de escribir, máquinas de coser y hacer punto, aparatos fotográficos y ópticos, instrumentos de música, juguetes, cuchillos, tijeras, paraguas, plumas estilográficas, muebles, etc. Asimismo, este epígrafe faculta para el duplicado de llaves.
+Nota: Este epígrafe comprende la reparación de bienes de consumo no especificados en los epígrafes anteriores de este grupo, tales como reparación de calzado y artículos de cuero y similares, así como la venta en pequeñas cantidades, con aplicación al calzado de betunes, cremas, trencillas, plantillas, calzadores y efectos análogos, suelas y tacones de goma, reparación de relojes, restauración de obras de arte y antigüedades, reparación y conservación de máquinas de escribir, máquinas de coser y hacer punto, aparatos fotográficos y ópticos, instrumentos de música, juguetes, cuchillos, tijeras, paraguas, plumas estilográficas, muebles, etc. Asimismo este epígrafe faculta para el duplicado de llaves.
 
-Los establecimientos dedicados exclusivamente a la reparación de relojes, tributarán al 50 por 100 de las cuotas anteriores.
+Los establecimientos dedicados exclusivamente a la reparación de relojes tributarán al 50 por 100 de las cuotas anteriores.
 
 ## Grupo 692. Reparación de maquinaria industrial.
 
@@ -55,6 +55,10 @@ Por cada obrero: 2.588 pesetas. (15,554193 euros)
 Por cada Kw: 1.625 pesetas. (9,766447 euros)
 
 Nota: Este grupo comprende cualquier tipo de reparación no clasificado expresamente en las tarifas.
+
+> Se modifica la nota del epígrafe 691.9 por el art. 61.1.3 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116.
+
+> Téngase en cuenta para su aplicación el art. 61.2.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 

@@ -494,21 +494,21 @@ Nota: Este Grupo comprende el comercio al por menor de papel pautado de música 
 
 ## Grupo 659. Otro comercio al por menor.
 
-Epígrafe 659.1 Comercio al por menor de sellos, monedas, medallas conmemorativas, billetes para coleccionistas, minerales sueltos o en colecciones, fósiles, insectos, conchas, plantas y animales disecados.
+Epígrafe 659.1. Comercio al por menor de sellos, monedas, medallas conmemorativas, billetes para coleccionistas, obras de arte y antigüedades, minerales sueltos o en colecciones, fósiles, insectos, conchas, plantas y animales disecados.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 33.120 pesetas.
+En poblaciones de más de 500.000 habitantes: 32.000 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 25.875 pesetas.
+En poblaciones de más de 100.000 a 500.000 habitantes: 25.000 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 19.665 pesetas.
+En poblaciones de más de 40.000 a 100.000 habitantes: 19.000 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 15.525 pesetas.
+En poblaciones de más de 10.000 a 40.000 habitantes: 15.000 pesetas.
 
-– En las poblaciones restantes: 11.385 pesetas.
+En las poblaciones restantes: 11.000 pesetas.
 
-Nota: este epígrafe faculta para el comercio al por mayor de los artículos clasificados en el mismo.
+>Nota: Este epígrafe faculta para el comercio al por mayor de los artículos clasificados en el mismo, excepto obras de arte y antigüedades.
 
 Epígrafe 659.2 Comercio al por menor de muebles de oficina y de máquinas y equipos de oficina.
 
@@ -537,6 +537,8 @@ Cuota mínima municipal de:
 – En poblaciones de más de 10.000 a 40.000 habitantes: 15.525 pesetas.
 
 – En las poblaciones restantes: 11.385 pesetas.
+
+Nota: Los sujetos pasivos clasificados en este epígrafe que vendan material fotográfico están facultados para la recepción de carretes fotográficos y posterior entrega de las correspondientes fotografías reveladas por un laboratorio ajeno.
 
 Epígrafe 659.4 Comercio al por menor de libros, periódicos, artículos de papelería y escritorio y artículos de dibujo y bellas artes.
 
@@ -645,6 +647,10 @@ En las poblaciones restantes: 24.840 pesetas.
 Nota común a las agrupaciones 64 y 65:
 
 Cuando los locales en los que se ejerzan las actividades clasificadas en las Agrupaciones 64 y 65 tengan una superficie computable inferior a 50 metros cuadrados, la cuota de los grupos o epígrafes correspondientes será el 50 por 100 de la señalada en cada caso. Cuando dicha superficie computable se encuentre comprendida entre 50 y 70 metros cuadrados la cuota de los grupos o epígrafes correspondientes será el 80 por 100 de la señalada en cada caso.
+
+> Se modifica el epígrafe 659.1 y se añade una nota al 659.3 por el art. 61.1.1 y 2 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116.
+
+> Téngase en cuenta para su aplicación el art. 61.2.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 

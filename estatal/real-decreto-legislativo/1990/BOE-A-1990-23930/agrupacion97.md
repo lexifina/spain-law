@@ -6,6 +6,8 @@ Epígrafe 971.1 Tinte, limpieza en seco, lavado y planchado de ropas hechas y de
 
 Cuota de: 26.910 pesetas.
 
+Nota: Los sujetos pasivos clasificados en este epígrafe cuya actividad consista en la recepción y entrega de ropas hechas y de prendas y artículos del hogar usadas para su tinte, limpieza en seco, lavado y planchado, realizándose estas actividades por otras empresas, tributarán al 50 por 100 de la cuota de este epígrafe.
+
 Epígrafe 971.2 Limpieza y teñido de calzado.
 
 Cuota de: 16.664 pesetas.
@@ -40,27 +42,35 @@ Asimismo, los sujetos pasivos clasificados en este epígrafe podrán prestar, si
 
 2.ª Los sujetos pasivos que presten servicios de peluquería en hogares o centros de la tercera edad, satisfarán el 50 por 100 de la cuota correspondiente.
 
-Epígrafe 972.2 Salones e institutos de belleza.
+Epígrafe 972.2 Salones e institutos de belleza y gabinetes de estética.
 
 Cuota de:
 
-– En poblaciones de más de 500.000 habitantes: 49.887 pesetas.
+En poblaciones de más de 500.000 habitantes: 48.200 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 33.224 pesetas.
+En poblaciones de más de 100.000 a 500.000 habitantes: 32.100 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 24.944 pesetas.
+En poblaciones de más de 40.000 a 100.000 habitantes: 24.100 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 16.664 pesetas.
+En poblaciones de más de 10.000 a 40.000 habitantes: 16.100 pesetas.
 
-– En las poblaciones restantes: 8.280 pesetas.
+En las poblaciones restantes: 8.000 pesetas.
+
+Nota: Los sujetos pasivos matriculados en este epígrafe que no presten servicios de peluquería satisfarán el 50 por 100 de la cuota correspondiente.
 
 ## Grupo 973. Servicios fotográficos, máquinas automáticas fotográficas y servicios de fotocopias.
 
 Epígrafe 973.1 Servicios fotográficos.
 
-Cuota de: 29.250 pesetas.
+Cuota de: 28.260 pesetas.
 
-Nota: Este epígrafe comprende la producción de retratos fotográficos, la producción de fotografías comerciales, los servicios de fotografía técnica, los servicios de revelado, impresión y ampliación de fotografías, así como los servicios combinados de vídeo y fotografía.
+Notas:
+
+1.ª Este epígrafe comprende la producción de retratos fotográficos, la producción de fotografías comerciales, los servicios de fotografía técnica, los servicios de revelado, impresión y ampliación de fotografías, así como los servicios combinados de vídeo y fotografía.
+
+2.ª Los sujetos pasivos clasificados en este epígrafe quedan facultados para la recepción de carretes fotográficos y posterior entrega de las correspondientes fotografías reveladas por un laboratorio ajeno.
+
+3.ª Los sujetos pasivos clasificados en este epígrafe podrán, incrementando un 25 por 100 la cuota señalada al mismo, realizar, con carácter accesorio, la venta de pequeño material fotográfico, como carretes, pilas, portafotos, álbumes y máquinas compactas.
 
 Epígrafe 973.2 Máquinas automáticas, sin operador, para fotografías de personas y para copia de documentos.
 
@@ -109,6 +119,10 @@ Cuota de: 30.429 pesetas.
 Epígrafe 979.9 Otros servicios personales n.c.o.p.
 
 Cuota de: 10.350 pesetas.
+
+> Se modifica por el art. 61.1.8 a 10 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116.
+
+> Téngase en cuenta para su aplicación el art. 61.2.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
