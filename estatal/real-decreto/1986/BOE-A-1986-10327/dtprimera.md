@@ -1,0 +1,13 @@
+## Disposición transitoria primera.
+
+Uno. 1. En relación a lo dispuesto en el artículo 8 del presente Real Decreto, los funcionarios de carrera que presten sus servicios en el Instituto al producirse su transformación en Sociedad estatal, tendrán derecho a incorporarse a la misma, quedando en situación de excedencia voluntaria en su Cuerpo de origen, conforme a lo previsto en el artículo 29.3 a) de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública. Aquellos que se acojan a esta situación les serán computados a efectos laborales los servicios prestados como funcionarios.
+
+2. Aquellos funcionarios que no opten por incorporarse a la nueva Entidad y pertenezcan a Cuerpos o Escalas de carácter departamental, quedarán a disposición del Subsecretario del Ministerio correspondiente, a efectos de su adscripción a un nuevo puesto de trabajo. Los que ejerciendo la misma opción pertenezcan a Cuerpos o Escalas Interdepartamentales, quedarán a disposición de la Dirección General de la Función Pública, a los efectos anteriormente indicados.
+
+3. Para el ejercicio del derecho establecido en el párrafo primero de esta disposición transitoria, los funcionarios que prestan actualmente sus servicios en el antiguo Organismo autónomo y opten por incorporarse a la nueva Entidad, deberán comunicarlo en el plazo de un mes, a contar desde la entrada en vigor del presente Real Decreto, en escrito dirigido al Director general de la misma. Transcurrido este plazo se entenderá que los funcionarios que no hayan manifestado su elección, renuncian a su derecho a la incorporación a la Sociedad estatal.
+
+Dos. El personal laboral que en el momento de producirse la transformación del Organismo autónomo en Sociedad estatal prestara sus servicios en el mismo, se integrará en la nueva Entidad, respetándose, en todo caso, sus respectivos contratos de trabajo.
+
+Tres. 1. El personal contratado en régimen administrativo por el antiguo Organismo autónomo deberá participar en el concurso a que se refiere el artículo 8 de este Real Decreto. Los candidatos seleccionados se incorporarán a la Sociedad estatal, conservando, no obstante, los derechos que les corresponden, conforme a lo dispuesto en la disposición transitoria sexta de la Ley 30/1984, de 2 de agosto, y en los acuerdos de aplicación de la misma.
+
+2. Los candidatos que no resulten seleccionados continuarán prestando sus servicios en las condiciones que lo venían haciendo para el Organismo autónomo, antes de su transformación y hasta el 31 de diciembre de 1986, fecha que les será de aplicación lo dispuesto en la disposición transitoria sexta, apartados 1 y 2, de la Ley 30/1984, el Acuerdo de 11 de enero de 1985 sobre la misma y la disposición final primera de aquélla.
