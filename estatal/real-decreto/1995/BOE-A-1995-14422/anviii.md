@@ -1,6 +1,6 @@
 ## ANEXO VIII
 
-## Normas específicas para la certificación de plantas de vivero del subgrupo platanera
+## Normas específicas para el control y la certificación de plantas de vivero del subgrupo platanera.
 
 1. Requisitos específicos para la producción de material inicial.
 
@@ -25,3 +25,7 @@ Con material base se obtienen plantas madre de material certificado.
 Se muestrearán al menos el 1 por 100 de las plantas madre de certificada para su testado de virosis fácilmente transmisibles.
 
 El organismo oficial responsable realizará muestreos sobre la planta certificada para comprobar su identidad varietal y su estado sanitario.
+
+4. Producción de material estándar: el material estándar se producirá de acuerdo con los requisitos de calidad fijados para el material CAC en el capítulo V de este Reglamento.
+
+> Se modifica el título y se añade el apartado 4 por el art. único.6 y 7 del Real Decreto 234/2002, de 1 de marzo. Ref. BOE-A-2002-5101
