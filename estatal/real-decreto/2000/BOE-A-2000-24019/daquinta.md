@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Acreditación de requisitos legales técnicos y económicos.
+
+A los efectos previstos en el artículo 121 del presente Real Decreto, se considerarán acreditados los requisitos de capacidad legal, técnica y económica para aquellas entidades de nacionalidad Española o de cualquier otro estado miembro de la Unión Europea con establecimiento permanente en España que al momento de la entrada en vigor del presente Real Decreto se encuentren realizando actividades de producción, transporte o distribución y revistan la forma jurídica que exige la Ley 54/1997 y el presente Real Decreto para el ejercicio que corresponda a cada actividad.
