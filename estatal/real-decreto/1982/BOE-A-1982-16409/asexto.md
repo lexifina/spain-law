@@ -1,21 +1,23 @@
 ## Artículo sexto.
 
-Uno. La contratación temporal a que se refiere el presente Real Decreto estará sujeta a limitaciones en función de la plantilla fija del correspondiente centro de trabajo, con arreglo a la siguiente escala:
+1. Los contratos temporales, a que se refieren la presente sección y la primera del capítulo III del Real Decreto 1445/1982, de 25 de junio, estarán sujetas a limitaciones en función de la plantilla fija del correspondiente centro de trabajo, con arreglo a la siguiente escala:
 
-a) Plantilla de más de mil trabajadores: el diez por ciento.
+a) Plantilla de más de 1.000 trabajadores: 5 por 100.
 
-b) Entre quinientos uno y mil trabajadores: el quince por ciento.
+b) Entre 501 y 1.000 trabajadores: 10 por 100.
 
-c) Entre doscientos cincuenta y uno y quinientos: el veinte por ciento.
+c) Entre 251 y 500: 15 por 100.
 
-d) Entre cincuenta y uno y doscientos cincuenta: el veinticinco por ciento.
+d) Entre 101 y 250: 20 por 100.
 
-e) Hasta cincuenta trabajadores: el cincuenta por ciento si bien se podrá llegar hasta el cien por ciento previa comunicación a la Dirección Provincial del INEM.
+e) Entre 51 y 100: 25 por 100.
 
-Dos. Las Comisiones Provinciales del Instituto Nacional de Empleo, dentro de su ámbito geográfico, valorando los distintos sectores de actividad y su situación económica, así como la incidencia de esta medida de fomento del empleo, podrán formular propuesta al Ministerio de Trabajo y Seguridad Social previo acuerdo de las partes representadas, modificando las limitaciones contenidas en el apartado anterior.
+f) Entre 26 y 50: 40 por 100.
 
-La Comisión Ejecutiva del Instituto Nacional de Empleo, podrá formular propuestas similares respecto de sectores de ámbito nacional.
+g) Entre 1 y 25: 50 por 100, pudiendo llegar hasta el 100, previa comunicación a la Dirección Provincial del INEM.
 
-Las propuestas tendrán carácter vinculante y se dará cuenta de las mismas al Consejo General del Instituto Nacional de Empleo en la primera sesión que se celebre.
+Se considerará plantilla fija del centro de trabajo, a los efectos de lo establecido en la presente disposición, la integrada por los trabajadores fijos de plantilla y fijos de obra de cada centro de trabajo.
 
-Tres. Se considerará plantilla fija del centro de trabajo, a los efectos de lo establecido en la presente disposición, la integrada por los trabajadores fijos de plantilla y fijos de obra de cada centro de trabajo.
+2. No se podrán realizar contratos temporales para cubrir puestos de trabajo que hayan quedado vacantes por terminación de otro contrato temporal, despido improcedente o expediente de regulación de empleo durante el año inmediatamente anterior a la fecha de la contratación.
+
+> Se modifica por el art. único del Real Decreto 3887/1982, de 29 de diciembre. Ref. BOE-A-1982-34955.
