@@ -1,0 +1,3 @@
+## Artículo segundo.
+
+El examen se verificará ante un Tribunal presidido por el Subsecretario de Justicia y constituido, en concepto de Vocales, por un Académico de número de la Real de la Historia, un Notario del Ilustre Colegio de Madrid, un funcionario del Cuerpo de Archivos, un Cronista de Armas en ejercicio y el Letrado jefe de la Sección de Títulos del Ministerio, que, con voz y voto, desempeñará las funciones de Secretario. Los Vocales que figuran en los dos primeros lugares serán propuestos, respectivamente, por la Real Academia de la Historia y por el Ministerio de Educación Nacional, y todos, designados por Orden Ministerial.
