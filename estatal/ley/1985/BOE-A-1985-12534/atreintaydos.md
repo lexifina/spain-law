@@ -6,4 +6,8 @@
 
 3. No obstante lo dispuesto en los apartados anteriores, los bienes muebles que posean alguno de los valores señalados en el artículo 1.º de esta Ley podrán ser declarados de interés cultural antes del plazo de diez años si su propietario solicitase dicha declaración y la Administración del Estado resolviera que el bien enriquece el Patrimonio Histórico Español.
 
+4. Lo dispuesto en los apartados 1 y 2 de este artículo no será aplicable a las adquisiciones de bienes del Patrimonio Histórico Español realizadas fuera del territorio español para su importación al mismo que se acojan a las deducciones previstas en el artículo 55, apartado 5, párrafo a), de la Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias, y en el artículo 35, apartado 1, párrafo a), de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.
+
+> Se añade el apartado 4 por el art. 110 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
 > Se modifica el apartado 2 por la disposición adicional 38 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.

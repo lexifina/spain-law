@@ -1,0 +1,3 @@
+## Disposición adicional octava. No afectación de la legislación de acceso al empleo público.
+
+Lo dispuesto en el capítulo III, «Medidas para la aplicación del principio de igualdad de trato», del título II, y los artículos 50.seis y 51.uno de esta ley se entiende sin perjuicio de la regulación establecida en cuanto al acceso al empleo público en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y en la Ley 17/1993, de 23 de diciembre, de acceso a determinados sectores de la Función Pública de los nacionales de los demás Estados miembros de la Unión Europea, modificada por la Ley 55/1999, de 29 de diciembre, de medidas fiscales, administrativas y del orden social.

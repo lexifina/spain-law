@@ -10,7 +10,7 @@ a) Trabajadores por cuenta ajena, retribuidos a salario o a la parte, empleados 
 
 3.º Extracción de otros productos del mar.
 
-4.° Tráfico interior de puertos y embarcaciones deportivas y de recreo.
+4.° Tráfico interior de puertos, embarcaciones deportivas y de recreo y practicaje.
 
 5.° Trabajos de carácter administrativo, técnico y subalterno de las Empresas dedicadas a las actividades anteriores.
 
@@ -29,3 +29,9 @@ b) Trabajadores por cuenta propia o autónomos que realicen de forma habitual, p
 2.° Las que se dediquen a la extracción de productos de mar.
 
 3.º Los rederos que no realicen sus faenas por cuenta de una Empresa pesquera determinada.
+
+4.º (Derogado).
+
+> Se modifica el apartado a).4.º, y se deroga el apartado b).4 por el art. 45.2.1 y 3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+> Se modifica el apartado a).4.º y se añade el apartado b).4.º por la disposición final 3 de la Ley 48/2003, de 26 de noviembre. Ref. BOE-A-2003-21615.

@@ -46,8 +46,14 @@ De igual forma podrá regularse el modo de integración del subgrupo en el grupo
 
 7. Cuando existan entidades extranjeras susceptibles de integrarse en un grupo consolidable de entidades de crédito, reglamentariamente se regulará el alcance de la supervisión en base consolidada a cargo del Banco de España, atendiendo, entre otros criterios, al carácter comunitario o extracomunitario de las entidades, su naturaleza jurídica y grado de control.
 
-8. El deber de consolidación establecido en el artículo 42 del Código de Comercio se entenderá cumplido mediante la consolidación a que se refiere el presente artículo en aquellos grupos de sociedades cuya entidad dominante sea una entidad de crédito o una sociedad cuya actividad principal sea la tenencia de participaciones en entidades de crédito.
+8. Para el cumplimiento del deber de formular las cuentas consolidadas que establece el Código de Comercio, cuando no se apliquen las normas de contabilidad aprobadas por los Reglamentos de la Comisión Europea, se utilizarán las normas que se determinen según el procedimiento y criterios previstos en el primer párrafo del apartado 1 del artículo siguiente en los grupos de sociedades:
 
-Ello se entiende sin perjuicio de la obligación de consolidar entre sí que pueda existir para las filiales que no sean entidades financieras, en los casos que proceda de acuerdo con el señalado artículo 42 del Código de Comercio.
+-cuya sociedad dominante sea una entidad de crédito;
+
+-cuya sociedad dominante tenga como actividad principal la tenencia de participaciones en entidades de crédito;
+
+-en los que, incluyendo a una o más entidades de crédito, la actividad de éstas sea la más importante dentro del grupo.
+
+> Se modifica el apartado 8 por el art. 100.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se modifica por el art. 1 de la Ley 13/1992, de 1 de junio. Ref. BOE-A-1992-12545

@@ -1,3 +1,5 @@
-## Artículo dieciséis. Relaciones de puestos de trabajo de las Comunidades Autónomas y de la Administración Local.
+## Artículo dieciséis.
 
-Las Comunidades Autónomas y la Administración Local formarán también la relación de los puestos de trabajo existentes en su organización, que deberán incluir en todo caso la denominación y características esenciales de los puestos, las retribuciones complementarias que les correspondan y los requisitos exigidos para su desempeño. Estas relaciones de puestos serán públicas.
+Las comunidades autónomas y la Administración local formarán también la relación de los puestos de trabajo existentes en su organización, que deberá incluir, en todo caso, la denominación, tipo y sistema de provisión de los puestos, las retribuciones complementarias que les correspondan y los requisitos exigidos para su desempeño. Estas relaciones de puestos serán públicas.
+
+> Se modifica por el art. 50.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936

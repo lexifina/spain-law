@@ -2,7 +2,7 @@
 
 1. Con la finalidad de asegurar el mantenimiento de las especiales condiciones ecológicas del Delta del Ebro, se elaborará un Plan Integral de Protección con el siguiente contenido mínimo:
 
-a) Definición del régimen hídrico que permita el desarrollo de las funciones ecológicas del río, el delta y el ecosistema marino próximo. Asimismo se definirá un caudal adicional que se aportará con la periodicidad y magnitudes que se establezcan de forma que se asegure la correcta satisfacción de los requerimientos medioambientales de dicho sistema. Los caudales ambientales resultantes se incorporarán al Plan Hidrológico de la cuenca del Ebro mediante su correspondiente revisión.
+a) (Derogado)
 
 b) Definición de las medidas necesarias para evitar la subsidencia y regresión del Delta, como el aporte de sedimentos o la promoción de la vegetación halófila.
 
@@ -25,3 +25,5 @@ Ministerio de Medio Ambiente, Generalitat de Catalunya, Entes Locales de la zona
 4. La aprobación del Plan corresponde al Gobierno.
 
 5. Si, como consecuencia del seguimiento de los indicadores ambientales definidos en el punto g) del apartado 1 anterior, se detectara alguna situación de riesgo para el ecosistema del Delta del Ebro se adoptarán las medidas preventivas y correctoras necesarias por parte de las administraciones competentes.
+
+> Se deroga el apartado 1.a) por la disposición adicional 23 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.

@@ -32,6 +32,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional segunda](segunda.md)
 - [Disposición adicional tercera](tercera.md)
 - [Disposición transitoria](dt.md)
+- [Disposición transitoria primera](primera-3.md)
+- [Disposición transitoria segunda](segunda-3.md)
 - [Disposición final primera](primera-2.md)
 - [Disposición final segunda](segunda-2.md)
 - [Disposición final tercera](tercera-2.md)

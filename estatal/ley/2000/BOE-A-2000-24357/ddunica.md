@@ -6,8 +6,10 @@ Dos. Se deroga la tasa «Honorarios del Cuerpo de Ingenieros Navales» creada po
 
 Tres. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley.
 
-Cuatro. Con efectos a partir del día 1 de enero de 2004, quedarán derogadas las siguientes disposiciones:
+Cuatro. Con efectos a partir del día 1 de enero de 2007, quedarán derogadas las siguientes disposiciones:
 
 a) El artículo 70 bis de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
 
 b) El artículo 3 de la Ley 39/1997, de 8 de octubre, por la que se aprueba el programa PREVER para la modernización del parque de vehículos automóviles, el incremento de la seguridad vial y la defensa y protección del medio ambiente.
+
+> Se modifica el apartado 4 por la disposición derogatoria 2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.

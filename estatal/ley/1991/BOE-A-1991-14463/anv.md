@@ -8,7 +8,6 @@
 | 020319 | Las demás (porcino fresco o refrigerado). |
 | 020711 | Sin trocear, frescos o refrigerados (gallo o gallina). |
 | 020713 | Trozos y despojos, frescos o refrigerados (gallo o gallina). |
-| (Suprimido) |  |
 | 0302699400 | Robalos o Lubinas (Dicentrarchus Labrax) fresca o refrigerada. |
 | 04070030 | Los demás (Huevos de aves de corral no destinados a incubar). |
 | 070190 | Patatas frescas o refrigeradas, excepto para siembra. |
@@ -35,29 +34,25 @@
 | 3213 | Colores para pintura artística; la enseñanza; la pintura de letreros; para matizar o para entretenimiento y colores similares; en pastillas; tubos; botes; frascos; cubiletes y demás envases o presentaciones similares. |
 | 3214 | Masilla; cementos de resina y otros mastiques; plastes de relleno utilizados en pintura; plastes no refractarios de los tipos utilizados en albañilería. |
 | 3401 | Jabón; productos y preparaciones orgánicos tensoactivos usados como jabón; en barras; panes o trozos; o en piezas troqueladas o moldeadas; aunque contengan jabón; papel; guata; fieltro y telas sin tejer; impregnados; recubiertos o revestidos de jabón o de detergentes. |
-| 3402 | Agentes de superficie orgánico (excepto el jabón); preparaciones tensoactivas; preparaciones para lavar (incluidas las preparaciones auxiliares de lavado) y preparaciones de limpieza; aunque contengan jabón; excepto las de la partida 3401. Se excluyen las partidas 34021100, 34021200 y 34021300. |
+| 3402 | Agentes de superficie orgánica (excepto el jabón); preparaciones tensoactivas; preparaciones para lavar (incluidas las preparaciones auxiliares de lavado) y preparaciones de limpieza; aunque contenga jabón; excepto las de la partida 3401. Se excluyen las partidas 340211, 3402120000 y 3402130000. |
 | 3406 | Velas; cirios y artículos similares. |
 | 38099100 | Del tipo de los utilizados en la industria textil o industrias similares (Aprestos y productos de acabado, aceleradores de tintura o de fijación de materias colorantes y demás productos y preparaciones del tipo de los utilizados en la industria textil, del papel, del cuero o industrias similares, no expresados ni comprendidos en otras partidas). |
 | 3814009090 | Los demás (disolventes o diluyentes orgánicos compuestos no expresados en otras partidas, preparaciones para quitar pinturas o barnices). |
-| (Suprimido) |  |
 | 3920300090 | Las demás láminas de polímeros de estireno. |
 | 39219060 | Las demás placas, hojas, películas de productos de polimerización de adición. |
-| 39231000 | Cajas, jaulas y artículos similares de plástico para el transporte o envasado. |
+| 3923100090 | Las demás (cajas, jaulas y artículos similares de plástico para el transporte o envasado). |
 | 39232100 | Sacos, bolsas y cucuruchos de polímeros de etileno. |
 | 39233010 | Bombonas, botellas, frascos y artículos similares, con capacidad no superior a 2 litros. |
 | 39239090 | Los demás (artículos para el transporte o envasado, de plástico, tapones, tapas, cápsulas y demás dispositivos de cierre de plástico). |
 | 39241000 | Vajillas y demás artículos para el servicio de mesa o de cocina de plástico. |
-| (Suprimido) |  |
 |  | Industrias metálicas |
 | 730900 | Depósitos; cisternas; cubas y recipientes similares para cualquier materia (con excepción de los gases comprimidos o licuados); de fundición; de hierro o de acero; de capacidad superior a 300 litros; sin dispositivos mecánicos ni térmicos; incluso con revestimiento interior o calorífugo, excepto los comprendidos en la partida 73090090. |
-| (Suprimido) |  |
 | 7604 | Barras y perfiles; de aluminio. |
 | 7608 | Tubos de aluminio. |
 | 7610 | Construcciones y partes de construcciones (por ejemplo: puentes y partes de puentes; torres; castilletes; pilares; columnas; cubiertas; tejados; puertas; ventanas y sus marcos; bastidores y umbrales; y balaustradas); de aluminio; con excepción de las construcciones prefabricadas de la partida 9406; chapas; barras; perfiles; tubos y similares; de aluminio; preparados para la construcción. |
 | 8428399800 | Los demás (transelevadores y almacenes automáticos). |
 | 8479500000 | Robots industriales, no expresados ni comprendidos en otra parte. |
 | 9403209900 | Los demás (Estanterías metálicas). |
-| (Suprimido) |  |
 |  | Alimentación y bebidas |
 | 0210111100 | Jamones y trozos de jamón salados o en salmuera. |
 | 0210113100 | Jamones y trozos de jamón secos o ahumados. |
@@ -66,15 +61,9 @@
 | 0210198100 | Deshuesados (Carne y despojos comestibles, salados o en salmuera, secos o ahumados). |
 | 03054100 | Salmones del Pacífico, salmones del Atlántico y salmones del Danubio (salmones ahumados). |
 | 0403 | Suero de mantequilla, leche y nata, cuajadas, yogur, kefir y demás leches y natas fermentadas o acidificadas incluso concentrados, azucarados, edulcorados de otro modo o aromatizados o con fruta o cacao. |
-| (Suprimido) |  |
 | 090121 | Café tostado sin descafeinar. |
 | 0901220000 | Café tostado descafeinado. |
 | 1101 | Harina de trigo y de morcajo o tranquillón. |
-| (Suprimido) |  |
-| (Suprimido) |  |
-| (Suprimido) |  |
-| (Suprimido) |  |
-| (Suprimido) |  |
 | 1601 | Embutidos y productos similares; de carne; de despojos o de sangre; preparaciones alimenticias a base de estos productos. |
 | 1602 | Las demás preparaciones y conservas de carne; de despojos o de sangre. Excepto 1602503100 |
 | 1704903000 | Preparación llamada chocolate blanco. |
@@ -91,17 +80,10 @@
 | 1905 | Productos de panadería, pastelería, o galletería, incluso con cacao, hostias, sellos vacíos del tipo de los usados para medicamentos, obleas, pastas desecadas de harina, almidón o fécula en hojas y productos similares. |
 | 2006003100 | Cerezas confitadas con un contenido en azúcar superior al 13% en peso. |
 | 20079110 | Con un contenido de azúcar superior al 30% en peso (compotas, jaleas y mermeladas, purés y pastas de frutos, obtenidos por cocción, incluso azucarados de otro modo). |
-| (Suprimido) |  |
 | 20089961 | Conservas de frutos de la pasión y guayaba. |
 | 20089968 | Los demás (frutas u otros frutos y demás partes comestibles de plantas, preparados o conservados de otra forma, incluso azucarados, edulcorados de otro modo o con alcohol, no expresado ni comprendido en otras partidas). |
-| (Suprimido) |  |
-| (Suprimido) |  |
-| (Suprimido) |  |
 | 200950 | Jugo de tomate. |
-| (Suprimido) |  |
-| 200980 | Jugos de cualquier otra fruta o fruto, u hortaliza, incluso silvestre. |
-| (Suprimido) |  |
-| (Suprimido) |  |
+| 200980 | Jugos de cualquier otra fruta o fruto, u hortaliza, incluso silvestre. Solamente gravados los productos de envase inferior a 150 kilos. |
 | 2105 | Helados y productos similares incluso con cacao. |
 | 21069098 | Las demás preparaciones alimenticias no expresadas ni comprendidas en otras partidas. Los demás. Excluidas la 2106909823,2106909827, 2106909833, 2106909837, 2106909843 y 2106909847. |
 | 2201 | Agua, incluida el agua mineral natural o artificial y la gasificada; sin azucarar o edulcorar de otro modo ni aromatizar, hielo y nieve. |
@@ -122,16 +104,15 @@
 | 481820 | Pañuelos, toallitas para desmaquillaje y toallas de papel. |
 | 481830 | Manteles y servilletas de papel. |
 | 4818909010 | Artículos para uso quirúrgico, medico o higiénico, sin acondicionar para la venta al por menor, hechos a mano. |
-| (Suprimido) |  |
 | 4821 | Etiquetas de toda clase de papel o cartón; incluso impresas. |
 | 482290 | Tambores, bobinas o soportes de pasta de papel, salvo los del tipo utilizado para el bobinado de hilados textiles. |
-| (Suprimido) |  |
-| (Suprimido) |  |
 | 4823909090 | Los demás (los demás papeles, cartones, guatas de celulosa y napas de fibras de celulosa, cortados a su tamaño, los demás artículos de pasta de papel, de papel, cartón, guata de celulosa o de napas de fibra de celulosa). |
 |  | Artes gráficas y su edición |
 | 4909 | Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales; incluso con ilustraciones; adornos o aplicaciones; o con sobre. |
 | 4910 | Calendarios de cualquier clase impresos; incluidos los tacos de calendario. |
 | 4911 | Los demás impresos; incluidas las estampas; grabados y fotografías. |
+| Atención: Con efectos desde el 1 denero de 2003 se incluyen a la tabla del anexo V las siguientes mercancías |
+| --- |
 | P. Estadística | Descripción |
 | --- | --- |
 | 0302699500 | Pargos dorados («sparus aurata»). |
@@ -168,6 +149,10 @@
 | 4819 | Cajas; sacos; bolsas; cucuruchos y demás envases de papel; cartón; guata de celulosa o napas de fibra de celulosa; cartonajes de oficina, tienda o similares, excepto los envases «tetrabrik» y «tetrapack» de la 481920 y la 481940. |
 | 48239014 | Los demás papeles y cartones de los tipos utilizados en la escritura, impresión u otros fines gráficos, sin imprimir, estampar o perforar. |
 | 9404, salvo la 940430 y la 940490 | Somieres, artículos de cama y artículos similares (por ejemplo: colchones, cubrepiés, edredones, cojines, pufes o almohadas), con muelles o bien rellenos o guarnecidos interiormente con cualquier materia; incluidos los de caucho o plástico celulares; recubiertos o no. |
+
+> Se modifica por el art. 12.1.20.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+> Redactado conforme a la corrección de errores y errata publicada en BOE núm. 79, de 1 de abril de 2004. Ref. BOE-A-2004-5818
 
 > Se modifica por el art. 9.7.2 y 4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
 

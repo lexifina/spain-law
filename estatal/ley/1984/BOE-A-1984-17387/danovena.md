@@ -1834,6 +1834,212 @@ Cuatro. Se declaran a extinguir los siguientes Cuerpos de funcionarios de la Adm
 
 5. Ayudantes de Cinematografía.
 
+Cinco. Se declaran a extinguir los siguientes cuerpos y escalas de funcionarios de la Administración del Estado:
+
+| Grupo | Código | Cuerpo/Escala |
+| --- | --- | --- |
+| A | 0106 | C. Prof. Num. Inst. Polite. Nal. Mart. Pesq. |
+| A | 0300 | C. Arquitectos. |
+| A | 0600 | C. Sup. Inspectores Finanzas del Estado. |
+| A | 0602 | C. Ingenieros de Minas Hacienda Pública. |
+| A | 1002 | C. Ingenieros de Vivienda. |
+| A | 1003 | C. Ing. Industriales Ministerio Fomento. |
+| A | 1005 | C. Secretarios Contadores de Puertos. |
+| A | 1104 | C. Ing. Sup. Radiodifusión y Televisión. |
+| A | 1401 | C. Prof. Numer. Escuelas Ofic. Náutica. |
+| A | 1407 | C. Técnicos Superiores. |
+| A | 1409 | C. Ingenieros de Telecomunicación. |
+| A | 1701 | Subgrupo Técnico Grupo Admón. Gral. |
+| A | 5004 | Secret. Categ. Espec. Cámaras Agrar. IRA. |
+| A | 5100 | Direc. Inst. Estudios Admón. Local AP. |
+| A | 5335 | Comis. Puertos OO.AA. MOPU Apl. Sentencia. |
+| A | 5401 | Tec. Facul. Sup. OO.AA. del MEC. |
+| A | 5410 | Arquitectos Universidad Complutense. |
+| A | 5500 | E. Redactor Económico Caja Auton. Inform. y Expansión Comercial. |
+| A | 5504 | E. Médico del PMM. |
+| A | 5513 | E. Ofic. Marit. Serv. Vigil. Aduanera. |
+| A | 5514 | E. Maquin. Nav. Serv. Vigil. Aduanera. |
+| A | 5553 | E. Técnica Serv. Vigil. Aduanera. |
+| A | 5800 | Médicos OO.AA. Ministerio de Justicia. |
+| A | 5802 | Secret. Trib. Obra Protecc. Menores. |
+| A | 5803 | E. Especialistas de Tribunales Obra Protección Menores. |
+| A | 5901 | E. Secretarios Contadores Juntas Administr. Obras Públicas. |
+| A | 5903 | E. Técnicos Estadística Confed. Hidrográfica Duero |
+| A | 5918 | E. Capitanes Marina Mercante de Puertos. |
+| A | 5919 | E. Maquinistas Navales de Puertos. |
+| A | 6100 | Facultativos y Especilistas de AISNA. |
+| A | 6101 | Arquitectos de AISNA. |
+| A | 6459 | Inspectores Médicos C. Especial I.S.M. |
+| A | 6460 | Titulados Superiores del I.C.O. |
+| A | 6461 | Oficiales Técnicos del I.C.O. |
+| A | 6462 | E. de Analistas del I.C.O. |
+| B | 0008 | C. Carrera de Interpretación de Lenguas. |
+| B | 0115 | C. Inspec. Cal. Serv. Defensa Contra Fraudes. |
+| B | 0116 | C. Maestros T. Inst. Politec. Nal. Marit. P. |
+| B | 0311 | C. Aparejadores. |
+| B | 0540 | C. Directores Escol. Enseñanza Primaria. |
+| B | 0709 | C. Ing. Técnicos Industriales del Estado. |
+| B | 0710 | C. Ingenieros Técnicos Minas del Estado. |
+| B | 0806 | C. Superior de Policía. |
+| B | 0912 | C. Profesores de EGB Instituciones Penitenciarias. |
+| B | 1012 | C. Aparejadores y Ayudantes de Vivienda. |
+| B | 1119 | C. Ing. Técnicos Radiodifusión y Telev. |
+| B | 1220 | C. Enfermeras Puericultoras Auxiliares. |
+| B | 1221 | C. Instructores de Sanidad. |
+| B | 1223 | C. Practicantes Titulares. |
+| B | 1224 | C. Matronas Titulares. |
+| B | 1420 | C. Técnicos Medios. |
+| B | 1421 | C. Ingenieros Técnicos Telecomunicación. |
+| B | 1426 | C. Intérpretes-Informadores. |
+| B | 1508 | C. Practicantes de la Beneficiencia General. |
+| B | 1517 | C. Asistentes Sociales. |
+| B | 1611 | E. Programadores del CPO. Informática de L. |
+| B | 1702 | Subgrupo Gestión Grupo Admón Gral. |
+| B | 5017 | E. Agentes de Extensión Agraria Serv. Ext. Agraria. |
+| B | 5018 | Secret. Primera Cat. Cámaras Agr. IRA. |
+| B | 5026 | Inspectores Provinciales del SENPA. |
+| B | 5107 | Bibl. Inst. Estudios Admón. Local. |
+| B | 5309 | Técnico Grado Medio OO.AA. M. Defensa. |
+| B | 5540 | Funcionarios A.T.S. del PMM. |
+| B | 5707 | A.T.S. Jefatura Central de Tráfico. |
+| B | 5813 | A.T.S. OO.AA. Ministerio de Justicia. |
+| B | 5819 | Asistentes Sociales OO.AA. Justicia. |
+| B | 5912 | E. Auxiliares Facultativos Juntas Administ. Obras Públicas. |
+| B | 5915 | E. Depositarios Pagadores de Juntas P. |
+| B | 5916 | E. Comisarios de Puertos. |
+| B | 5917 | E. Contramaestres Titulados de Puertos. |
+| B | 5920 | E. Pract. OO.AA. Ministerio de Fomento. |
+| B | 5921 | Jefe Grupo Canal Imperial Aragón. |
+| B | 5922 | E. Topógrafos J. del Puerto de Cartagena. |
+| B | 5923 | A.T.S. J. Puerto de Cartagena. |
+| B | 5924 | J. Labor. Mancomunidad Canales Taibilla. |
+| B | 5925 | J. Contab. Mancomunidad Canales Taibilla. |
+| B | 5926 | E. Subjefe Departamento 1 Patronato Casas MOPU. |
+| B | 5927 | E. Jefe Sección Parque Maquinaria. |
+| B | 6107 | Aparejadores E. Ing. Técnicos de AISNA. |
+| B | 6108 | A.T.S. de AISNA. |
+| B | 6117 | Asistentes Sociales de AISNA. |
+| B | 6312 | Inspect. Operaciones Org. Trab. Port. |
+| B | 6313 | Facultativo Aux. –Aparejador– del INAS. |
+| B | 6314 | E. Técnicos del Servicio de Publicaciones. |
+| B | 6324 | Asistentes Soc. Inst. Español Emigración. |
+| B | 6464 | Programadores Aplicaciones I.C.O. |
+| C | 0414 | C. Traductores del Ejército del Aire. |
+| C | 0415 | C. Delineantes del Ejército del Aire. |
+| C | 0918 | C. Capellanes Instituc. Penitenciarias. |
+| C | 1136 | C. Delineantes. |
+| C | 1427 | C. Administrativos Calculad. Meteorolog. Est. |
+| C | 1428 | C. Intérpretes-Informadores (Grupo C). |
+| C | 1430 | C. Especial Tec. Telecomunic. Aeronáutica. |
+| C | 1432 | C. Técnicos Especialistas Aeronáuticos. |
+| C | 1516 | C. Capellanes de la Beneficencia General. |
+| C | 1703 | Subgrupo Admtivo. Grupo Admón. Gral. |
+| C | 5010 | E. Especialista Técnico de OO.AA. |
+| C | 5027 | Delineantes de OO.AA. MAPA. |
+| C | 5029 | Jefe Silo, Centro Selección y Almacén. |
+| C | 5030 | E. Técnico Electricista del SENPA. |
+| C | 5032 | E. Traductor-Bibliotecario Serv. Nal. Cultivo y Ferment. Tabaco. |
+| C | 5033 | Patr. Embarc. Inst. Español Oceonografía. |
+| C | 5037 | Ag. Econ. Doméstica, Serv. Ext. Agraria. |
+| C | 5038 | Monit. Ext. Agraria Serv. Ext. Agraria. |
+| C | 5039 | Secret. 2 Cat. Cámaras Agrarias IRA. |
+| C | 5041 | E. Auxiliar de Campo del ICONA. |
+| C | 5043 | E. Operador de Restitución del IRYDA. |
+| C | 5044 | Auxiliar Técnico del IRYDA. |
+| C | 5045 | Ins. Campos y Cos. Inst. Sem. Pl. Viv. |
+| C | 5046 | E. Periodista Inst. Estudios Agr., Pesq. y Aliment. |
+| C | 5047 | Tec. Comis. Gral. Abastec. y Tr. SENPA. |
+| C | 5213 | Tec. Admtivo. Editora Nacional. |
+| C | 5214 | E. Delineantes Patronato Alhambra y Generalife. |
+| C | 5317 | Delin. OO.AA. del Ministerio de Defensa. |
+| C | 5319 | Espec. Aviac. I.N.T. Aeroes. E. Terradas. |
+| C | 5320 | Delineantes Proyectistas INTA. |
+| C | 5322 | Pers. Taller I. Nal. Tec. Aer. E. Terradas. |
+| C | 5432 | Delineantes Organismos Autónomos MEC. |
+| C | 5436 | E. Colaborad. Especial Univ. Barcelona. |
+| C | 5527 | E. Inspect. Servicio Vigil. Aduanera. |
+| C | 5529 | Subinspectores del Servicio de Vigilancia. |
+| C | 5616 | E. Delineantes OO.AA. M. Ciencia y Tecn. |
+| C | 5820 | E. Delegados Profesionales Técnicos. |
+| C | 5821 | Directores Instituc. Obras Protec. Men. |
+| C | 5822 | Educadores Instituc. Obra Protec. Men. |
+| C | 5933 | Pat. Cab. y Fogon. Hab. (M. Naval) N. Sent. |
+| C | 5934 | E. Tec. Proy. y Obras Confederación Hidrog. |
+| C | 5935 | E. Delineantes OO.AA. Ministerio M. A. |
+| C | 5936 | E. Contramaestres de Puertos. |
+| C | 5940 | E. Ayudante Ingeniero Mancom. Canales Taibilla. |
+| C | 5941 | E. Topógrafo 1 Mancom. Canales Taibilla. |
+| C | 5943 | Ayud. Obras Confed. Hidrogr. Guadalquivir. |
+| C | 5944 | Encarg. Gral. Confed. Hidrogr. Guadalquivir. |
+| C | 5946 | Traduct. Taqu. –Grupos 1, 2 y 3– CEDEX. |
+| C | 5947 | Programadores del CEDEX. |
+| C | 5948 | E. Traductores Técnicos del INCE. |
+| C | 6017 | E. Analistas Laboratorio de Organismos. |
+| C | 6114 | Maestros de AISNA. |
+| C | 6115 | E. Delineantes de AISNA. |
+| C | 6116 | Terapeutas Ocupacionales de AISNA. |
+| C | 6323 | Delin. y Medios Audiovisuales INEM. |
+| C | 6466 | Escala de Oficiales Admtvos. del I.C.O. |
+| D | 0423 | C. Damas Aux. Sanidad Militar Ejer. Tierra. |
+| D | 1704 | Subgrupo Auxiliar Grupo Admón. Gral. |
+| D | 5053 | Maquinista del SENPA. |
+| D | 5058 | Secret. 3 Categoría Cámaras Agr. IRA. |
+| D | 5059 | Guardas del ICONA. |
+| D | 5060 | Proyectistas SIN Tit. y Maestro INIA. |
+| D | 5061 | Preparador Primera y Segunda del INIA. |
+| D | 5329 | Aux. Lab. Canal Exper. Hidrodin. Pardo. |
+| D | 5330 | Calc. Inst. Nal. Tec. Aeroes. Es. Terradas. |
+| D | 5333 | Fotogr. J. Admva. Fondo Atención Marina. |
+| D | 5442 | Especial. Ser. Generales Enseñ. Integr. |
+| D | 5444 | Aux. Tec. Serv. Publicaciones del MEC. |
+| D | 5539 | E. Agentes Invest. Serv. Vig. Aduanera. |
+| D | 5550 | E. Oper. Radiot. Serv. Vigil. Aduanera. |
+| D | 5627 | Auxiliar Técnico del CIEMAT. |
+| D | 5628 | Calcador del CIEMAT. |
+| D | 5713 | E. Conduc. y Transmisiones J.C. Tráfico. |
+| D | 5949 | E. Delineantes Segunda OO.AA. Min. M.A. |
+| D | 5950 | E. Patrones de Cabotaje. |
+| D | 5951 | E. Fogoneros. |
+| D | 5968 | Encargado Obras Mancom. Can. Taibilla. |
+| D | 5969 | Topog. Segundo Mancomunidad C.Taibilla. |
+| D | 5971 | E. Auxiliar Topógrafo Conf. Hidrograf. Ebro. |
+| D | 5972 | Aux. Cartográfico Confed. Hidrogr. Ebro. |
+| D | 5974 | Calcador Confed. Hidrogr. Guadalquivir. |
+| D | 5975 | Fotógrafo Servicio de Publicaciones. |
+| D | 5976 | Aux. Labor. Servicio de Publicaciones. |
+| D | 5977 | Ayudantes Laboratorio del INCE. |
+| D | 6124 | Profesores Educación Física de AISNA. |
+| D | 6125 | Aux. Investig. Laboratorio de AISNA. |
+| D | 6467 | Escala de Auxiliares del I.C.O. |
+| E | 0332 | C. Subalterno del Museo del Prado. |
+| E | 1158 | C. General Subalterno de Admón. del Estado. |
+| E | 1236 | C. Personal Técnico Auxiliar de Sanidad. |
+| E | 1628 | C. Subalterno Admón. Seg. Social. E. Gral. |
+| E | 1629 | C. Subalt. Admón. S. Social. E. Oficios Varios. |
+| E | 1705 | E. Subalternos de la MUNPAL. |
+| E | 3055 | E. Subalt. Admón. General Admón. Local. |
+| E | 5058 | Secret. 3 Categoría Cámaras Agr. IRA. |
+| E | 5067 | Telefonistas de OO.AA. del MAPA. |
+| E | 5068 | Conduct. de OO.AA. del MAPA. |
+| E | 5069 | Capataces de OO.AA. del MAPA. |
+| E | 5070 | Mozos de Laboratorio de OO.AA. MAPA. |
+| E | 5071 | E. Especialistas del SENPA. |
+| E | 5220 | Taquilleras de los Teatros Nacionales. |
+| E | 5222 | Mecánico de la Editora Nacional. |
+| E | 5339 | Ofic. Canal Exp. Hidrodin. Pardo. |
+| E | 5450 | Ayud. Serv. Generales Enseñ. Integradas. |
+| E | 5549 | E. Conduct. Serv. Vigil. Aduanera. |
+| E | 5552 | E. Telefonistas y Almaceneros del PME. |
+| E | 5997 | Laborantes del INCE. |
+| E | 6039 | Subalterna de Organismos Autónomos. |
+| E | 6338 | Conductores OO.AA. Trab. y S.S. |
+| E | 6339 | Telef. OO.AA. Trabajo y S. Social. |
+| E | 6340 | Serv. Espec. Inst. Nal. Segur. e Hig. Trabajo. |
+| E | 6341 | Azafatas Inst. Nal. Segur. Hig. Trabajo. |
+| E | 6468 | Escala de Subalternos del I.C.O.» |
+
+> Se añade el apartado 5 por el art. 50.7 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
 > Se modifica el apartado 1.4 por el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
 
 > Se declara la inconstitucionalidad y nulidad del apartado 1.4 en lo que se refiere al Cuerpo de Letrados del Consejo de Estado. Ref. BOE-T-1987-14852

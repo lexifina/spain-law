@@ -160,6 +160,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO X](tx.md)
 - [CAPÍTULO I](ci-3.md)
 - [Artículo 111](a111.md)
+- [Artículo 111 bis](a111bis.md)
 - [CAPÍTULO II](cii-9.md)
 - [Artículo 112](a112.md)
 - [CAPÍTULO III](ciii-3.md)

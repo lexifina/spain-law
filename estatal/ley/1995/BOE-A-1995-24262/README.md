@@ -41,6 +41,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 19](a19.md)
 - [Sección 2](s2-2.md)
 - [Artículo 20](a20.md)
+- [Artículo 20 bis](a20bis.md)
 - [Artículo 21](a21.md)
 - [Artículo 22](a22.md)
 - [Artículo 23](a23.md)

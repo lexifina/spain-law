@@ -40,6 +40,10 @@ e) Las operaciones derivadas de la emisión de participaciones preferentes estar
 
 6. Lo dispuesto en esta disposición adicional será aplicable, igualmente, a las participaciones preferentes o a otros instrumentos de deuda emitidos por una sociedad residente en España o en un territorio de la Unión Europea, que no tenga la condición de paraíso fiscal y cuyos derechos de voto correspondan en su totalidad, directa o indirectamente, a entidades cotizadas que no sean de crédito. En estos casos, para proceder a la amortización anticipada no será necesaria la autorización prevista en el párrafo f) del apartado 1, y no será de aplicación el límite establecido en el párrafo i) del mismo apartado 1.
 
+7. A las emisiones de instrumentos de deuda a las que se refieren los dos apartados precedentes no les será de aplicación la limitación impuesta, por razones de capital y de reservas, en los artículos 282 y 289 de la Ley de Sociedades Anónimas ni en relación con la sociedad emisora ni con la sociedad dominante garante de la emisión.
+
+> Se añade el apartado 7 por el art. 100.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
 > Se añade por la disposición adicional 3 de la Ley 19/2003, de 4 de julio. Ref. BOE-A-2003-13471
 
 > Se deroga en la forma indicada por la disposición adicional 11.1 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404

@@ -32,7 +32,7 @@ El incumplimiento de este requisito determinará la obligación, a cargo del ben
 
 La aplicación del tipo impositivo general requerirá el previo reconocimiento del derecho del adquirente en la forma que se determine reglamentariamente, previo certificado o resolución, que acredite el grado de minusvalía, expedido por el Instituto de Migraciones y Servicios Sociales o por el órgano competente de las Comunidades Autónomas en materia de valoración de minusvalías.
 
-4.º Caravanas y remolques para vehículos de turismo, salvo los que objetivamente considerados sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica.
+4.º Caravanas, autocaravanas y remolques diseñados y concebidos para ser remolcados por vehículos de turismo, salvo los que objetivamente considerados sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica.
 
 5.º Embarcaciones y buques de recreo o deportes náuticos que tengan más de nueve metros de eslora en cubierta, excepto las embarcaciones olímpicas.
 
@@ -80,9 +80,15 @@ A efectos de este impuesto se consideran piedras preciosas, exclusivamente, el d
 
 2. Las prestaciones de servicios siguientes:
 
-1.º El arrendamiento de los vehículos accionados a motor, incluso los de potencia igual o inferior a 11 CV fiscales. No obstante, no se incluye en este apartado el arrendamiento de los vehículos relacionados en las letras a), b), c) y e) del apartado 1.3.º anterior, cualquiera que sea su potencia fiscal.
+1.º El arrendamiento de los vehículos accionados a motor, incluso los de potencia igual o inferior a 11 CV fiscales. No obstante, no se incluye en este apartado el arrendamiento de los vehículos relacionados en los párrafos a), b), d) y e) del apartado 1.3.º anterior, cualquiera que sea su potencia fiscal.
 
 2.º El arrendamiento de los demás bienes relacionados en el número 1 anterior cuya entrega o importación tributen al tipo incrementado regulado en este anexo.
+
+3.º Las ejecuciones de obra mobiliarias que tengan por objeto los bienes relacionados en el apartado 1 anterior cuya entrega o importación tributen al tipo incrementado regulado en este anexo.
+
+> Se modifican los apartados 1.4 y 2.1 y se añade el 2.3 por el art. 12.1.17 y 19 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+> Téngase en cuenta el art. 12.1.18 en cuanto a la redacción de los apartados 1.4 y 2.3.
 
 > Se modifica el apartado 1 por el art. 8.21 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
 

@@ -16,6 +16,10 @@ d) La marca de Ceca.
 
 e) Las demás instituciones del Estado sin la autorización previa de la institución titular correspondiente.
 
-4. También tendrá la consideración de infracción administrativa la realización de las actividades descritas en los apartados 1, 2 y 3 con incumplimiento de las condiciones impuestas en la autorización por la Dirección General del Tesoro y Política Financiera.
+4. Tendrá la consideración de infracción administrativa cualquier alteración o modificación de las características físicas de las monedas de curso legal, sin autorización de la Dirección General del Tesoro y Política Financiera, para su empleo como soporte de publicidad o para cualquier otro fin distinto al previsto en la norma de emisión.
+
+5. También tendrá la consideración de infracción administrativa la realización de actividades descritas en los apartados 1, 2, 3 y 4 con incumplimiento de las condiciones impuestas por la Dirección General del Tesoro y Política Financiera.
+
+> Se modifica el apartado 4 y se añade el 5 por el art. 103 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
 
 > Se añade por el art. 97.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.

@@ -20,7 +20,11 @@ f.bis) En los casos de nacimientos de hijos prematuros o que, por cualquier caus
 
 Reglamentariamente se determinará la disminución de jornada de trabajo y la reducción proporcional de retribuciones.
 
-g) El funcionario, que por razones de guarda legal tenga a su cuidado directo algún menor de seis años, anciano que requiera especial dedicación o a un disminuido psíquico o físico que no desempeñe actividad retribuida, tendrá derecho a la disminución de su jornada de trabajo, con la reducción proporcional de sus retribuciones. Reglamentariamente se determinará la disminución de jornada de trabajo y la reducción proporcional de retribuciones.
+g) El funcionario que, por razones de guarda legal, tenga a su cuidado directo algún menor de seis años, anciano que requiera especial dedicación, o a un disminuido psíquico o físico, que no desempeñe actividad retribuida, tendrá derecho a la disminución de su jornada de trabajo.
+
+Tendrá el mismo derecho el funcionario que precise encargarse del cuidado directo de un familiar, hasta el segundo grado de consanguinidad o afinidad, que por razones de edad, accidente o enfermedad no pueda valerse por sí mismo y que no desempeñe actividad retribuida.
+
+Reglamentariamente se determinará la disminución de jornada de trabajo y la reducción de las retribuciones que correspondan a dicha reducción de jornada.
 
 2. Podrán concederse permisos por el tiempo indispensable para el cumplimiento de un deber inexcusable de carácter público o personal.
 
@@ -41,6 +45,8 @@ En los supuestos de adopción internacional, cuando sea necesario el desplazamie
 4. Los funcionarios a quienes falten menos de cinco años para cumplir la edad de jubilación forzosa, establecida en el artículo 33 de esta Ley, podrán obtener, a su solicitud, la reducción de su jornada de trabajo hasta un medio, con la reducción de retribuciones que se determine reglamentariamente, siempre que las necesidades del servicio lo permitan.
 
 Dicha reducción de jornada podrá ser solicitada y obtenida, de manera temporal, por aquellos funcionarios que la precisen en procesos de recuperación por razón de enfermedad, siempre que las necesidades del servicio lo permitan.
+
+> Se modifica el apartado 1.g) por el art. 50.5 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se modifican los apartados 1 y 3 por el art. 58.1 a .4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
 

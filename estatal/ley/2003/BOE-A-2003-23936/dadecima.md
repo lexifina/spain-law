@@ -1,0 +1,23 @@
+## Disposición adicional décima. Concepto de pensión pública.
+
+Se modifica el artículo 37 de la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990, que queda redactado de la siguiente forma:
+
+«1. Tendrán la consideración de pensiones públicas las siguientes:
+
+a) Las abonadas por el Régimen de Clases Pasivas del Estado y, en general, las abonadas con cargo a créditos de la Sección 07 del Presupuesto de Gastos del Estado.
+
+b) Las abonadas por el Régimen General y los Regímenes especiales de la Seguridad Social, así como las de modalidad no contributiva de la Seguridad Social.
+
+c) Las abonadas por los Fondos Especiales de la Mutualidad General de Funcionarios Civiles del Estado, del Instituto Social de las Fuerzas Armadas y de la Mutualidad General Judicial, o por las propias Mutualidades citadas, así como las abonadas por el Fondo Especial del Instituto Nacional de la Seguridad Social.
+
+d) Las abonadas por los sistemas o regímenes de previsión de las comunidades autónomas y de las corporaciones locales y por los propios entes.
+
+e) Las abonadas por las mutualidades, montepíos o entidades de previsión social que se financien en todo o en parte con recursos públicos.
+
+f) Las abonadas por empresas o sociedades con participación mayoritaria, directa o indirecta, en su capital del Estado, de las comunidades autónomas o de las corporaciones locales o de los organismos autónomos de uno y otras, bien directamente o mediante la suscripción de la correspondiente póliza de seguro con una institución distinta, cualquiera que sea la naturaleza jurídica de ésta o bien por las mutualidades o entidades de previsión de aquéllas, en las que las aportaciones directas de los causantes de la pensión se complementen con recursos públicos, incluidos los de la propia empresa o sociedad.
+
+g) Las abonadas por la Administración del Estado o por las comunidades autónomas en virtud de la Ley de 21 de julio de 1960 y del Real Decreto 2620/1981, de 24 de julio, así como los subsidios económicos de garantía de ingresos mínimos y de ayuda por tercera persona previstos en la Ley 13/1982, de 7 de abril, de Integración Social de Minusválidos.
+
+h) Cualesquiera otras no enumeradas en las letras anteriores, que se abonen total o parcialmente con cargo a recursos públicos.
+
+2. No obstante, como excepción a lo preceptuado en el apartado 1 anterior, no tendrán la consideración de pensiones públicas las abonadas a través de planes de pensiones de empleo o contratos de seguro colectivo, incluidos los formalizados por mutualidades de previsión social empresarial, promovidos por las Administraciones, organismos, entidades y empresas, a que se refiere la disposición final segunda del texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, aprobado por Real Decreto Legislativo 1/2002, de 29 de noviembre, y en los términos en ella expresados.»

@@ -4,7 +4,7 @@
 
 a) Las relaciones comprenderán, conjunta o separadamente, los puestos de trabajo del personal funcionario de cada Centro gestor, el número y las características de los que puedan ser ocupados por personal eventual así como los de aquellos otros que puedan desempeñarse por personal laboral.
 
-b) Las relaciones de puestos de trabajo indicarán, en todo caso, la denominación y características esenciales de los mismos; los requisitos exigidos para su desempeño; el nivel de complemento de destino y, en su caso, el complemento específico que corresponda a los mismos, cuando hayan de ser desempeñados por personal funcionario, o la categoría profesional y régimen jurídico aplicable cuando sean desempeñados por personal laboral.
+b) Las relaciones de puestos de trabajo indicarán, en todo caso, la denominación, tipo y sistema de provisión de los mismos; los requisitos exigidos para su desempeño; el nivel de complemento de destino y, en su caso, el complemento específico que corresponda a los mismos, cuando hayan de ser desempeñados por personal funcionario, o la categoría profesional y régimen jurídico aplicable cuando sean desempeñados por personal laboral.
 
 c) Con carácter general, los puestos de trabajo de la Administración del Estado y de sus Organismos Autónomos así como los de las Entidades Gestoras y Servicios Comunes de la Seguridad Social, serán desempeñados por funcionarios públicos.
 
@@ -35,6 +35,8 @@ Este requisito no será preciso cuando se trate de realizar tareas de carácter 
 2. Los puestos de trabajo serán de adscripción indistinta para todos los funcionarios incluidos en el ámbito de aplicación de esta Ley. Unicamente podrán adscribirse con carácter exclusivo puestos de trabajo a funcionarios de un determinado Cuerpo o Escala cuando tal adscripción se derive necesariamente de la naturaleza y de la función a desempeñar en ellos y en tal sentido lo determine el Gobierno a propuesta del Ministro de la Presidencia.
 
 3. Las relaciones de puestos de trabajo serán públicas.
+
+> Se modifica el apartado 1.b) por el art. 50.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se añade un nuevo guión al apartado 1.c) por el art. 59 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
 

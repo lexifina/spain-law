@@ -1,0 +1,11 @@
+## Disposición adicional trigésima quinta. Programa PREVER-gasolina.
+
+Con efectos a partir del día 1 de enero de 2004 se modifica la disposición adicional trigésima tercera de la Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, que quedará redactada de la siguiente manera:
+
+«Disposición adicional trigésima tercera. Renovación del parque de vehículos automóviles de turismo equipados con motores no aptos para emplear gasolina sin plomo.
+
+Con carácter excepcional y durante un período que finalizará el 31 de diciembre de 2006, el importe de la deducción prevista en el artículo 70 bis de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, o, tratándose de vehículos automóviles de turismo usados con una antigüedad no superior a cinco años, el importe de la deducción prevista en el artículo 3 de la Ley 39/1997, de 8 de octubre, por la que se aprueba el programa PREVER para la modernización del parque de vehículos automóviles, el incremento de la seguridad vial y la defensa y protección del medio ambiente, se elevará, en ambos casos, hasta 721,21 euros cuando, además de cumplirse los requisitos y condiciones previstos en dicho precepto, se den las siguientes circunstancias:
+
+a) Que el vehículo automóvil de turismo para desguace esté equipado con un motor de gasolina no apto para emplear gasolina sin plomo. A estos efectos, el Ministerio de Ciencia y Tecnología hará pública la relación de marcas y modelos de vehículos automóviles de turismo aptos para emplear gasolina sin plomo, considerándose que cumplen el requisito previsto en este apartado aquéllos que, estando equipados con un motor de gasolina, no figuren en dicha relación.
+
+b) Que el vehículo automóvil de turismo nuevo o de antigüedad no superior a cinco años esté equipado con un motor de gasolina provisto de catalizador o con un motor diesel. Esta condición se considerará cumplida, en cuanto a los vehículos equipados con un motor de gasolina, por todos aquéllos cuya primera matriculación definitiva en España haya tenido lugar a partir del día 1 de enero de 2001.»

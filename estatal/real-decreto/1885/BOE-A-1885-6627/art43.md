@@ -12,14 +12,6 @@ b) Que la sociedad española dispensada de formalizar la consolidación indique 
 
 c) Que las cuentas consolidadas de la sociedad dominante extranjera, así como el informe de gestión y el certificado de los auditores, se depositen, traducidos al castellano, en el Registro Mercantil donde tenga su domicilio la sociedad española.
 
-2. La sociedad dominante podrá excluir de las cuentas consolidadas:
+2. (Derogado)
 
-a) A la sociedad del grupo que presente un interés poco significativo con respecto a la imagen fiel que deben expresar las cuentas consolidadas. Siendo varias las sociedades del grupo en estas circunstancias, no podrán ser excluidas de la consolidación más que si en su conjunto presentan un interés poco significativo respecto a la finalidad expresada.
-
-b) Aquellas sociedades del grupo respecto de las cuales existan restricciones importantes y permanentes que dificulten sustancialmente el ejercicio por la sociedad dominante de sus derechos sobre el patrimonio o la gestión de dichas sociedades.
-
-c) Aquellas en las que la información necesaria para establecer las cuentas consolidadas sólo pueda obtenerse incurriendo en gastos desproporcionados o mediante un retraso que imposibilite la formación de dichas cuentas en el plazo legal establecido.
-
-d) Aquellas cuyas participaciones se posean exclusivamente al objeto de su cesión posterior.
-
-e) Las que tengan actividades tan diferentes que su inclusión resulte contraria a la obtención de la finalidad propia de las cuentas consolidadas. Este apartado no será aplicable por el solo hecho de que las sociedades incluidas en la consolidación sean parcialmente industriales, parcialmente comerciales y parcialmente dedicadas a la prestación de servicios o de que ejerzan actividades industriales o comerciales o realicen prestaciones de servicios diferentes.
+> Se deroga el apartado 2 por el art. 106.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.

@@ -4,7 +4,7 @@
 
 a) Las viviendas ocupadas podrán ser ofrecidas al titular del contrato o, caso de fallecimiento de éste, al cónyuge que conviviera con él al tiempo del fallecimiento y, en su defecto, a las personas que se relacionan a continuación, si hubieran convivido con el titular los dos años inmediatamente anteriores y siempre que la vivienda constituya la residencia habitual de las mismas:
 
-I. Persona en análoga relación de afectividad que el cónyuge ; II. Hijos del titular con una minusvalía igual o superior al sesenta y cinco por ciento ; III. Demás hijos del titular ; y IV. Ascendientes del titular en primer grado.
+I. Persona en análoga relación de afectividad que el cónyuge; II. Hijos del titular con una minusvalía igual o superior al sesenta y cinco por ciento; III. Demás hijos del titular; y IV. Ascendientes del titular en primer grado.
 
 Si existieran dos o más personas de las relacionadas en el párrafo precedente, la vivienda sólo podrá ser ofrecida a una de ellas, siguiendo el orden en el que se citan anteriormente y resolviéndose los casos de igualdad entre los hijos a favor del de menor edad.
 
@@ -32,6 +32,14 @@ En los citados baremos se tendrán en cuenta, entre otros parámetros, con cará
 
 g) Las viviendas adquiridas en las condiciones señaladas en las letras a) a f) anteriores no podrán ser objeto de enajenación hasta tanto no hayan transcurrido tres años desde el momento de la compraventa, salvo fallecimiento del adquirente.
 
+La hipoteca de la vivienda, a los solos efectos de su compra, no se entenderá incluida en esta prohibición legal de disposición del bien inmueble.
+
+En todo caso, durante el período de diez años desde la adquisición de la vivienda, la primera transmisión por actos "ínter vivos" de la misma, de parte de ella o de la cuota indivisa, deberá ser notificada fehacientemente al Instituto para la Vivienda de las Fuerzas Armadas, con indicación del precio y condiciones en que se pretende realizar la compraventa. En el plazo de un mes desde la recepción de la notificación, el referido Instituto deberá autorizar la transmisión o ejercer el derecho de tanteo.
+
+El tercero adquirente, quedará obligado a remitir al mismo organismo una copia de la escritura pública en que se efectuó la compraventa. Si la transmisión se hubiere efectuado sin haber practicado la precitada notificación o en condiciones distintas de las indicadas en ésta, el Instituto podrá ejercer el derecho de retracto en el plazo de un mes desde la recepción de la escritura pública.
+
+Para la inscripción de los referidos títulos de propiedad en el correspondiente Registro de la Propiedad, será condición necesaria la acreditación de haber efectuado los trámites previstos en los dos párrafos anteriores.
+
 h) Las viviendas no ocupadas que no se adjudiquen por los procedimientos anteriores y el resto de los bienes inmuebles, garajes y locales comerciales, que no tengan usuario, serán enajenados por subasta pública con sujeción al procedimiento previsto en la normativa vigente.
 
 Los locales comerciales arrendados podrán ser adjudicados directamente al titular del contrato en el precio de venta que fijen las entidades de tasación que, estando inscritas en el registro correspondiente del Banco de España, hayan sido seleccionadas mediante el correspondiente concurso público. Los inmuebles señalados también podrán ser enajenados por contratación directa, cuando concurran las circunstancias previstas en el artículo 117 del Reglamento del Patrimonio del Estado, entendiéndose conferidas al Ministro de Defensa las facultades que el mismo precepto atribuye al Ministro de Economía y Hacienda.
@@ -41,5 +49,7 @@ i) Las normas para la enajenación contenidas en este apartado serán de expresa
 Los contratos de compraventa a que se refiere este apartado tendrán la naturaleza de contratos privados de la Administración.
 
 2. Los recursos económicos obtenidos como consecuencia de las enajenaciones pasarán a formar parte del patrimonio del Instituto para la Vivienda de las Fuerzas Armadas para el cumplimiento de los fines señalados en la presente Ley.
+
+> Se añaden los cuatro últimos párrafos a la letra g) del apartado 1 por el art. 69.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se modifica el apartado 1.a) y c) por el art. 72.2 y 3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412

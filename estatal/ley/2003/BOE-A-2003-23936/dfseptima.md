@@ -1,0 +1,3 @@
+## Disposición final séptima. Organismos públicos de investigación.
+
+Se autoriza a los organismos públicos de investigación a celebrar convenios de colaboración con entidades beneficiarias de las ayudas concedidas al amparo de la Orden del Ministerio de Ciencia y Tecnología de 5 de diciembre de 2000, por la que se establecen las bases reguladoras para la concesión de ayudas a Parques Científicos y Tecnológicos, y la convocatoria para las solicitudes de ayudas correspondientes al año 2000, relativos al destino final de los equipamientos adquiridos con dichas ayudas, a cuyo fin podrán establecer con cargo a su presupuesto de gastos los oportunos mecanismos de compensación económica que podrán ser plurianuales.

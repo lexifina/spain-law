@@ -1,0 +1,9 @@
+## Disposición adicional decimoctava. Devengo de intereses en el supuesto de falta de pago por los agentes del sistema eléctrico de las liquidaciones.
+
+En el supuesto de que los agentes del sistema eléctrico a los que corresponda efectuar pagos por liquidaciones de conformidad con lo dispuesto en el artículo 8 del Real Decreto 2017/1997, de 26 de diciembre, por el que se organiza y regula el procedimiento de liquidación de los costes de transporte, distribución y comercialización a tarifa, de los costes permanentes del sistema y de los costes de diversificación y seguridad de abastecimiento o norma que lo sustituya, no cumplieran con su obligación de ingresar en plazo las cantidades que les correspondan, comenzarán a devengarse, sin necesidad de requerimiento previo, intereses de demora que serán equivalentes al interés legal del dinero incrementado en 1,5 puntos.
+
+Se autoriza al Ministro de Economía para dictar cuantas disposiciones sean necesarias en desarrollo y cumplimiento de lo dispuesto en la presente disposición adicional.
+
+> Se añade por el art. 91.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+> Redactado conforme a la corrección de errores y errata publica en BOE núm. 79, de 1 de abril de 2004. Ref. BOE-A-2004-5818

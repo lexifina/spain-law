@@ -25,3 +25,33 @@ b) Cuando corresponda a una plusvalía realizada.
 7.ª Los ingresos y los gastos de la cuenta de pérdidas y ganancias de la sociedad dependiente se incorporarán a la cuenta de pérdidas y ganancias consolidada, salvo en los casos en que aquéllos deban eliminarse conforme a lo previsto en la regla siguiente.
 
 8.ª Deberán eliminarse generalmente los débitos y créditos entre sociedades comprendidas en la consolidación, los ingresos y los gastos relativos a las transacciones entre dichas sociedades y los resultados generados a consecuencia de tales transacciones. Sin perjuicio de las eliminaciones indicadas, deberán ser objeto, en su caso, de los ajustes procedentes las transferencias de resultados entre sociedades incluidas en la consolidación.
+
+9.ª Uno. No obstante lo dispuesto en las reglas anteriores, se valorarán por su valor razonable los siguientes activos y pasivos:
+
+a) Activos financieros que formen parte de una cartera de negociación, o se califiquen como disponibles para la venta, o sean instrumentos financieros derivados.
+
+b) Pasivos financieros que formen parte de una cartera de negociación o sean instrumentos financieros derivados.
+
+Dos. En ningún caso se aplicará el valor razonable a:
+
+a) Los instrumentos financieros, distintos de los derivados, que van a ser mantenidos hasta su vencimiento.
+
+b) Los préstamos y partidas a cobrar originados por la sociedad a cambio de suministrar efectivo, bienes o servicios, no mantenidos con fines de negociación.
+
+c) Las participaciones en sociedades dependientes, en empresas asociadas y en sociedades multigrupo.
+
+d) Los instrumentos de capital emitidos por la sociedad.
+
+e) Los contratos en los que se prevé una contrapartida eventual en una adquisición de empresas, motivada por ajustes de la contraprestación por sucesos futuros.
+
+f) Otros instrumentos financieros que, por sus especiales características, se consideren contablemente elementos patrimoniales distintos a los demás instrumentos financieros.
+
+Tres. El valor razonable se calculará con referencia a un valor de mercado fiable. En aquellos instrumentos financieros para los que no pueda determinarse un valor de mercado fiable, se obtendrá mediante la aplicación de los modelos y técnicas de valoración en los términos que reglamentariamente se determinen, y si no fuese fiable se valorarán por su precio de adquisición.
+
+Cuatro. Como criterio general, las variaciones en el valor razonable se consignarán en la cuenta de pérdidas y ganancias.
+
+Cinco. Reglamentariamente se desarrollarán los conceptos contenidos en este artículo, así como los casos en que la variación de valor razonable se incluya directamente en los fondos propios, en una reserva por valor razonable.
+
+> Se añade la regla 9ª por el art. 106.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+> Téngase en cuenta para su aplicación la disposición final 12.1

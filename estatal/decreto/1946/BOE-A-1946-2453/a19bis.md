@@ -22,12 +22,16 @@ Extendido el asiento, el Registrador sustituido lo comunicará al Registrador su
 
 4.ª Si el Registrador sustituto asumiera la inscripción parcial del título se procederá del modo previsto en las reglas segunda y tercera. Dicha inscripción parcial sólo podrá practicarse si media consentimiento del presentante o del interesado.
 
-5.ª Si el Registrador sustituto calificara negativamente el título, devolverá éste al interesado a los efectos de la interposición del recurso frente a la calificación del registrador sustituido, ante la Dirección General de los Registros y del Notariado.
+5.ª Si el registrador sustituto calificara negativamente el título, devolverá éste al interesado a los efectos de interposición del recurso frente a la calificación del registrador sustituido ante la Dirección General de los Registros y del Notariado, el cual deberá ceñirse a los defectos señalados por el registrador sustituido con los que el registrador sustituto hubiera manifestado su conformidad.
+
+En la calificación el registrador sustituto se ajustará a los defectos señalados por el registrador sustituido y respecto de los que los interesados hubieran motivado su discrepancia en el escrito en el que soliciten su intervención, no pudiendo versar sobre ninguna otra pretensión basada en otros motivos o en documentos no presentados en tiempo y forma. Para fundar su decisión podrá pedir informe al Colegio de Registradores de la Propiedad y Mercantiles de España, que lo evacuará a través de sus servicios de estudios, todo ello bajo responsabilidad del registrador y sin que pueda excederse del plazo de calificación.
 
 6.ª Practicado el asiento solicitado, corresponderá al Registrador sustituto el cincuenta por ciento de los aranceles devengados y al Registrador sustituido el cincuenta por ciento restante.
 
 Los derechos arancelarios se abonarán por el interesado a cada Registrador en su parte correspondiente.
 
 7.ª Las comunicaciones que se deban practicar conforme a las reglas precedentes se realizarán por correo, fax, correo electrónico o cualquier otro medio telemático que permita tener constancia de su recepción.
+
+> Se modifica la regla 5ª del párrafo cuarto por el art. 135.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
 
 > Se añade por el art. 100.2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.

@@ -38,6 +38,12 @@ iii) Las instalaciones de almacenamiento de sustancias nucleares, excepto los lu
 
 El Ministerio de Industria podrá determinar se considere como una sola instalación nuclear a varias instalaciones nucleares de un solo explotador que estén emplazadas en un mismo lugar.
 
+12 bis. Otros dispositivos e instalaciones experimentales.
+
+Se definen como dispositivos e instalaciones experimentales los que utilicen materiales radiactivos con vistas al desarrollo de nuevas fuentes energéticas.
+
+Estos dispositivos e instalaciones se someterán al mismo régimen de autorizaciones que se fije reglamentariamente para las instalaciones nucleares.
+
 13.«Instalaciones radiactivas» son:
 
 i) Las instalaciones de cualquier clase que contengan una fuente de radiación ionizante.
@@ -67,6 +73,8 @@ iii) La pérdida de vidas humanas, las lesiones corporales y los daños y perjui
 19.«Buque de guerra» es todo buque que pertenezca a las fuerzas navales de un Estado y lleve los signos exteriores que caracterizan a los buques de guerra de su nacionalidad, que esté bajo el mando de un Oficial debidamente autorizado por el Gobierno de dicho Estado y cuyo nombre figure en el Escalafón de la Marina y cuya tripulación se halle bajo la disciplina naval militar.
 
 20.«Aeronave militar» es toda aeronave que tenga como misión la defensa nacional o esté mandada por un militar comisionado al efecto.
+
+> Se añade el apartado 12 bis por el art. 93.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se modifica el apartado 9 por la disposición adicional 4.1 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
 

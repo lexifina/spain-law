@@ -48,7 +48,7 @@ Los productos sanitarios, material, equipos e instrumental que, objetivamente co
 
 3.º (Suprimido)
 
-4.º Los coches de minusválidos a que se refiere el número 20 del anexo del Real Decreto legislativo 339/1990, de 2 de marzo, por el que se aprueba el texto articulado de la Ley sobre el Tráfico, Circulación de Vehículos a Motor y Seguridad Vial y las sillas de ruedas para uso exclusivo de personas con minusvalía.
+4.º Los vehículos para personas de movilidad reducida a que se refiere la normativa específica sobre vehículos de motor y las sillas de ruedas para uso exclusivo de personas con minusvalía.
 
 5.º Los vehículos destinados a ser utilizados como autotaxis o autoturismos especiales para el transporte de personas con minusvalía en silla de ruedas, bien directamente o previa su adaptación.
 
@@ -82,11 +82,15 @@ No se entenderán comprendidos en el concepto de las viviendas del párrafo ante
 
 14.º Las ejecuciones de obra que tengan por objeto la instalación de armarios de cocina y de baño y armarios empotrados para las edificaciones a que se refieren los apartados 11.o y 12.o anteriores, que sean realizadas como consecuencia de contratos directamente formalizados con el promotor de la construcción o rehabilitación de dichas edificaciones.
 
+15.º Las entregas de viviendas que sean adquiridas por las entidades que apliquen el régimen especial previsto en el capítulo III del título VIII de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, siempre que a las rentas derivadas de su posterior arrendamiento les sea aplicable la bonificación establecida en el párrafo b) del apartado 1 del artículo 68 quinquies de la citada ley. A estos efectos, la entidad adquirente comunicará esta circunstancia al sujeto pasivo con anterioridad al devengo de la operación en la forma que se determine reglamentariamente.
+
 2. Las prestaciones de servicios que se indican a continuación:
 
 1.º Las prestaciones de servicios de transportes terrestres.
 
 2.º Los servicios prestados a personas físicas que practiquen el deporte o la educación física, cualquiera que sea la persona o entidad a cuyo cargo se realice la prestación, siempre que tales servicios estén directamente relacionados con dichas prácticas y no resulte aplicable a los mismos la exención a que se refiere el artículo 10, número 1, apartado 13.º de esta Ley.
+
+> Se modifica el apartado 1.4 y se añade el 1.15 por el art. 12.1.13 y 14 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
 
 > Se modifica el apartado 1.1 por el art. 10.1.19 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
 

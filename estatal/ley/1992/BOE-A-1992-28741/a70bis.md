@@ -12,7 +12,7 @@ b) Haber sido dado de baja definitiva para desguace y no haber transcurrido más
 
 3. Los requisitos anteriores se acreditarán en el momento de efectuar la primera matriculación definitiva del vehículo automóvil de turismo nuevo, adjuntando al justificante de ingreso del impuesto el documento acreditativo de la baja definitiva del correspondiente vehículo automóvil de turismo usado, expedido por la Dirección General de Tráfico o los correspondientes órganos dependientes de la misma.
 
-> Se modifica el apartado 1 por el art. 6.9 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+> Se deroga, con efectos a partir del 1 de enero de 2007, por la disposición derogatoria única.4.a) de la Ley 14/2000, de 29 de diciembre Ref. BOE-A-2000-24357 en la redacción dada por la disposición derogatoria 2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se deroga, con efectos a partir del 1 de enero de 2004, por la disposición derogatoria única.4.a) de la Ley 14/2000, de 29 de diciembre Ref. BOE-A-2000-24357
 

@@ -22,7 +22,7 @@ g) Cuando accedan a la condición de miembros de las Asambleas Legislativas de l
 
 Cuando no perciban dichas retribuciones podrán optar entre permanecer en la situación de servicio activo o pasar a la de servicios especiales, sin perjuicio de la normativa que dicten las Comunidades Autónomas sobre incompatibilidades de los miembros de las Asambleas Legislativas.
 
-h) Cuando desempeñen cargos electivos retribuidos y de dedicación exclusiva en las Corporaciones Locales.
+h) Cuando se desempeñen cargos electivos retribuidos y de dedicación exclusiva en las entidades locales, cuando se desempeñen responsabilidades de órganos superiores y directivos municipales, y cuando se desempeñen responsabilidades de miembros de los órganos locales para el conocimiento y la resolución de las reclamaciones económico-administrativas, excepto los funcionarios de administración local con habilitación de carácter nacional, cuando desempeñen puestos reservados a ellos, que se regirán por su normativa específica, quedando en la situación de servicio activo.
 
 I) Cuando presten servicio en los Gabinetes de la Presidencia del Gobierno, de los Ministros y de los Secretarios de Estado y no opten por permanecer en la situación de servicio activo en su Administración de origen.
 
@@ -60,9 +60,11 @@ d) Podrá concederse la excedencia voluntaria por agrupación familiar, con una 
 
 Los funcionarios excedentes no devengarán retribuciones, ni les será computable el tiempo permanecido en tal situación a efectos de ascensos, trienios y derechos pasivos.
 
+No obstante lo dispuesto en el párrafo anterior, se computará a efectos de trienios, el período de prestación de servicios en organismos o entidades del sector público, con la excepción de los prestados en sociedades mercantiles en cuyo capital sea mayoritaria la participación directa o indirecta de las Administraciones públicas.
+
 4. Los funcionarios tendrán derecho a un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción o acogimiento permanente o preadoptivo, a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.
 
-También tendrán derecho a un período de excedencia, de duración no superior a un año, los funcionarios para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado inclusive de consanguinidad o afinidad, que, por razones de edad, accidente o enfermedad, no pueda valerse por sí mismo, y no desempeñe actividad retribuida.
+También tendrán derecho a un período de excedencia, de duración no superior a un año, los funcionarios para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado inclusive de consanguinidad o afinidad, que, por razones de edad, accidente, enfermedad o discapacidad, no pueda valerse por sí mismo y no desempeñe actividad retribuida.
 
 El período de excedencia será único por cada sujeto causante. Cuando un nuevo sujeto causante diera origen a una nueva excedencia, el inicio del período de la misma pondrá fin al que se viniera disfrutando.
 
@@ -119,6 +121,12 @@ La excedencia voluntaria incentivada tendrá una duración de cinco años e impe
 Quienes pasen a la situación de excedencia voluntaria incentivada tendrán derecho a una mensualidad de las retribuciones de carácter periódico, excluidas las pagas extraordinarias y el complemento de productividad, devengadas en el último puesto de trabajo desempeñado, por cada año completo de servicios efectivos y con un máximo de doce mensualidades.
 
 En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas acordar el pase a la situación de excedencia voluntaria incentivada.
+
+> Se añade el párrafo último del apartado 3 por el art. 50.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+> Se modifica el apartado 2.h) por el art. 2 de la Ley 57/2003, de 16 de diciembre. Ref. BOE-A-2003-23103
+
+> Se modifica el párrafo segundo del apartado 4 por la disposición adicional 2 de la Ley 51/2003, de 2 de diciembre. Ref. BOE-A-2003-22066
 
 > Se añade un último párrafo al apartado 4 por la disposición adicional 1.4 de la Ley 40/2003, de 18 de noviembre. Ref. BOE-A-2003-21052
 

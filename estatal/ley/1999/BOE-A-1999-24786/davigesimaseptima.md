@@ -1,21 +1,35 @@
 ## Disposición adicional vigésima séptima. Participaciones públicas en el sector energético.
 
-1. Las entidades o personas de naturaleza pública y las entidades de cualquier naturaleza, participadas mayoritariamente o controladas en cualquier forma por entidades o Administraciones públicas, cualquiera que sea la forma jurídica que adopten, que directa o indirectamente tomen el control o adquieran participaciones significativas de sociedades de ámbito estatal que realicen actividades en los mercados energéticos no podrán ejercer los derechos políticos correspondientes a dichas participaciones.
+1. Las entidades o personas de naturaleza pública y las entidades de cualquier naturaleza, participadas mayoritariamente o controladas en cualquier forma por entidades o Administraciones públicas, cualquiera que sea la forma jurídica que adopten, que directa o indirectamente tomen el control o adquieran participaciones significativas de sociedades de ámbito estatal que realicen actividades en los mercados energéticos deberán notificar a la Secretaría de Estado de Energía, Desarrollo Industrial y PYMES de la toma de control o adquisición que se haya efectuado, con especial referencia a las características y condiciones de la adquisición.
 
-2. Lo dispuesto en el párrafo anterior se entiende sin perjuicio de la facultad del adquirente de informar a la Secretaría de Estado de Industria y Energía de la toma de control o adquisición que se haya efectuado, con especial referencia a las características y condiciones de la adquisición.
+2. La Secretaría de Estado de Energía, Desarrollo Industrial y PYMES cuando haya sido notificada, o de oficio en el caso en que dándose el supuesto del número anterior no haya tenido lugar la notificación, instruirá un expediente, de conformidad con lo previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en cuanto tenga conocimiento, y en el que informará preceptivamente la Comisión Nacional de Energía.
 
-3. En el supuesto en que la Secretaría de Estado de Industria y Energía sea informada, instruirá un expediente, de conformidad con lo previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en el que informará preceptivamente la Comisión Nacional de Energía.
+3. El Consejo de Ministros previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos en el plazo máximo de dos meses podrá resolver reconociendo o no el ejercicio de derechos políticos correspondientes, o sometiendo el ejercicio de los mismos a determinadas condiciones en atención, entre otros, a los principios de objetividad, transparencia, equilibrio y buen funcionamiento de los mercados y sistemas energéticos.
 
-La propuesta de resolución será elevada al Consejo de Ministros previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos por el Ministerio de Industria y Energía.
+En todo caso, desde que se produzca la toma de control o la adquisición de participaciones significativas de sociedades de ámbito estatal que realicen actividades en los mercados energéticos y hasta que no se pronuncie el Consejo de Ministros, por resolución expresa o por silencio, si no resuelve expresamente dentro del plazo máximo de que dispone, las entidades o personas a que se refiere el apartado 1 de la presente disposición no podrán ejercer los derechos políticos correspondientes a las participaciones en el mismo indicadas.
 
-El Consejo de Ministros podrá resolver reconociendo o no el ejercicio de derechos políticos correspondientes, o sometiendo el ejercicio de los mismos a determinadas condiciones en atención, entre otros, a los principios de objetividad, reciprocidad, transparencia, equilibrio y buen funcionamiento de los mercados y sistemas energéticos.
+La resolución del Consejo de Ministros, que será motivada, tendrá en cuenta si la toma de control o adquisición de participaciones significativas tiene como consecuencia la existencia de riesgos significativos o efectos negativos, directos o indirec tos, sobre las actividades desarrolladas por las empresas en los mercados energéticos con el fin de garantizar la adecuada gestión y prestación de servicios por las mismas dentro del sistema energético, de conformidad con los criterios objetivos que se especifican en el apartado siguiente.
 
-La falta de resolución en el expediente iniciado como consecuencia de la información que en su caso efectúe la entidad o persona adquirente de la participación significativa en ningún caso permitirá el ejercicio de los derechos políticos correspondientes a las mismas.
+La falta de resolución del expediente en el plazo a que se refiere el párrafo primero de este apartado permitirá el ejercicio de los derechos políticos correspondientes a las mismas.
 
-La anterior resolución del Consejo de Ministros se entenderá sin perjuicio de las autorizaciones que resulten pertinentes en virtud del ordenamiento jurídico vigente.
+4. A los efectos previstos en el apartado anterior, la existencia de riesgos significativos o efectos negativos se apreciará en función de:
 
-4. A los efectos de la presente disposición se considerarán participaciones significativas aquellas que directa o indirectamente alcancen al menos el 3 por 100 del capital o de los derechos de voto de la sociedad.
+a) La transparencia en la estructura del grupo al que eventualmente pueda incorporarse la entidad como consecuencia de la operación y, en general, la existencia de dificultades para obtener la información necesaria sobre el desarrollo de sus actividades.
 
-5. Se entenderá que existe una relación de control a los efectos de esta disposición siempre que se dé alguno de los supuestos previstos en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+b) Los vínculos que, como consecuencia de la operación, la entidad en cuestión pueda mantener con otras personas físicas o jurídicas, siempre que tales vínculos puedan obstaculizar el buen ejercicio de la ordenación y supervisión de la correspondiente entidad.
 
-6. Lo dispuesto en la presente disposición será igualmente de aplicación a las operaciones que se encuentren en tramitación a la entrada en vigor del mismo.
+c) La posibilidad de que la entidad quede expuesta, de forma inapropiada, al riesgo de cualesquiera otras actividades desarrolladas por los adquirentes.
+
+d) El riesgo que la estructura financiera de la operación haga recaer sobre las actividades de la entidad sometidas a regulación, y sobre los recursos obtenidos por dichas actividades, en especial cuando se trate de rentas de origen regulados que se transfieren a actividades distintas de aquellas que las originan.
+
+e) Seguridad del suministro o de la disponibilidad física ininterrumpida de los productos o servicios y, en particular, en la necesidad de preservar y desarrollar la estructura de los mercados en cuestión con una calidad adecuada, y de forma accesible a todos los usuarios con independencia de su localización geográfica ; en especial, la protección frente al riesgo de una inversión insuficiente en infraestructuras a largo plazo que no permita garantizar, de forma continuada, la disponibilidad de una capacidad suficiente.
+
+f) Protección del interés general en el sector correspondiente afectado y, en particular, la garantía de un adecuado mantenimiento de los objetivos de política sectorial.
+
+La anterior resolución se entenderá sin perjuicio de las autorizaciones que resulten pertinentes en virtud del ordenamiento jurídico vigente.
+
+5. A los efectos de la presente disposición se considerarán participaciones significativas aquellas que directa o indirectamente alcancen, al menos, el 3 por ciento del capital social o de los derechos de voto de la sociedad.
+
+6. Se entenderá que existe una relación de control a los efectos de esta disposición siempre que se dé alguno de los supuestos previstos en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+
+> Se modifica por el art. 94 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936

@@ -4,7 +4,7 @@
 
 a) El incumplimiento del deber de fidelidad a la Constitución en el ejercicio de la función pública.
 
-b) Toda actuación que suponga discriminación por razón de raza, sexo, religión, lengua, opinión, lugar de nacimiento o vecindad, o cualquier otra condición o circunstancia personal o social.
+b) Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual, sexo, lengua, opinión, lugar de nacimiento o vecindad, o cualquier otra condición o circunstancia personal o social, así como el acoso por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual y el acoso sexual.
 
 c) El abandono del servicio.
 
@@ -33,6 +33,8 @@ n) Haber sido sancionado por la comisión de tres faltas graves en un período d
 ñ) El quebrantamiento por parte del personal que preste servicios en los Registros de Actividades y Bienes y Derechos Patrimoniales del deber permanente de mantener en secreto los datos e informaciones que conozca por razón de su trabajo, establecido en la Ley de Incompatibilidades de los miembros del Gobierno de la Nación y de los Altos Cargos de la Administración General del Estado.
 
 2. (Derogado)
+
+> Se modifica el apartado 1.b) por el art. 50.6 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se añade el apartado 1.ñ) por la disposición adicional 4 de la Ley 12/1995, de 11 de mayo. Ref. BOE-A-1995-11340
 

@@ -31,3 +31,23 @@ Se indicará por separado el número medio de personas empleadas en el curso del
 12.ª El importe de los sueldos, dietas y remuneraciones de cualquier clase devengados en el curso del ejercicio por los miembros del órgano de administración en las sociedades incluidas en la consolidación, cualquiera que sea su causa, así como de las obligaciones contraídas en materia de pensiones o de pago de primas de seguros de vida respecto de los miembros antiguos y actuales de órganos de administración. Estas informaciones se darán de forma global por concepto retributivo.
 
 13.ª El importe de los anticipos y créditos concedidos a los miembros de los órganos de administración de la sociedad dominante, por ésta o por una sociedad dominada, con indicación del tipo de interés, sus características esenciales y los importes eventuales devueltos, así como las obligaciones asumidas por cuenta de ellos a título de una garantía cualquiera. Igualmente se indicarán los anticipos y créditos concedidos a los administradores de la sociedad dominante por las sociedades ajenas al grupo a que se refieren los párrafos 1 y 3 del artículo 47. Estas informaciones se darán de forma global por cada categoría.
+
+14.ª Cuando los instrumentos financieros se hayan valorado por el valor razonable, se indicará:
+
+a) Los principales supuestos en que se basan los modelos y técnicas de valoración, en caso de que el valor razonable se haya determinado mediante la aplicación de modelos y técnicas de valoración.
+
+b) Por categoría de instrumentos financieros, el valor razonable, las variaciones en el valor registradas directamente en la cuenta de pérdidas y ganancias, así como las consignadas, en su caso, en la reserva por valor razonable.
+
+c) Con respecto a cada categoría de instrumentos financieros derivados, información sobre el alcance y la naturaleza de los instrumentos, incluidas aquellas condiciones importantes que puedan afectar al importe, al calendario y a la certidumbre de los futuros flujos de caja.
+
+d) Un cuadro en el que se reflejen los movimientos de la reserva por valor razonable durante el ejercicio.
+
+15.ª Cuando los instrumentos financieros no se hayan valorado por el valor razonable, para cada clase de instrumento financiero derivado se indicará:
+
+a) El valor razonable de los instrumentos, en caso de que pueda determinarse mediante alguno de los métodos previstos en el apartado tres de la regla 9.ª del artículo 46.
+
+b) Información sobre el alcance y la naturaleza de los instrumentos.
+
+> Se añaden las indicaciones 14ª y 15ª por el art. 106.5 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+> Esta modificación se aplica a las cuentas anuales consolidadas correspondientes a los ejercicios que se inicien a partir del 1 de enero de 2005, según establece la disposición final 12.2.

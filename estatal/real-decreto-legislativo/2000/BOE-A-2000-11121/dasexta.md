@@ -4,4 +4,8 @@
 
 2. Por los Registros Civiles, dependientes de la Dirección General de los Registros y del Notariado del Ministerio de Justicia, en colaboración con los correspondientes del Ministerio de Hacienda, se facilitarán al Instituto Social de las Fuerzas Armadas y dentro del plazo de tres meses contados a partir de la fecha en que aparecan los hechos respectivos, los datos personales informatizados de todas las defunciones, así como de los matrimonios de las personas viudas.
 
-3. Los datos que se faciliten deberán identificar, en todo caso, nombre y apellidos, documento nacional de identidad y domicilio.
+3. A fin de facilitar la gestión del control del colectivo de ISFAS, y con la exclusiva finalidad de comprobar la concordancia de sus datos con los que figuren en los correspondientes registros de personal, el Registro Central de Personal de los funcionarios públicos, los órganos encargados de la gestión del personal militar del Ministerio de Defensa, y la Dirección General de la Guardia Civil, remitirán mensualmente al Instituto Social de las Fuerzas Armadas la información del personal incluido en su campo de aplicación, en relación con los actos de toma de posesión, cambio de situaciones administrativas, pérdida de la condición de funcionario, militar, o guardia civil, o pase a jubilación o retiro.
+
+4. Los datos que se faciliten deberán identificar, en su caso, nombre y apellidos, documento nacional de identidad y domicilio.
+
+> Se modifica y reenumera el apartado 3 como 4 y se añade un nuevo apartado 3 por el art. 26.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936

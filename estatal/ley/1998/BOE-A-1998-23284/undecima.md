@@ -52,7 +52,9 @@ c) En su caso, las transferencias efectuadas con cargo a los Presupuestos Genera
 
 Segundo. Órganos de asesoramiento de la Comisión.
 
-1. Como órganos de asesoramiento de la Comisión se constituirán dos Consejos Consultivos presididos por el Presidente de la Comisión Nacional de Energía, el Consejo Consultivo de Electricidad y el Consejo Consultivo de Hidrocarburos, ambos con un número máximo de 36 miembros.
+1. Como órganos de asesoramiento de la Comisión se constituirán dos Consejos Consultivos presididos por el Presidente de la Comisión Nacional de Energía, el Consejo Consultivo de Electricidad, con un número máximo de 36 miembros, y el Consejo Consultivo de Hidrocarburos, con un número máximo de 37 miembros.
+
+Se autoriza al Gobierno para que, mediante real decreto, dentro de los límites establecidos en el párrafo anterior, modifique la composición de los citados Consejos Consultivos, incluido lo dispuesto en el apartado 4 del artículo 64 de esta ley.
 
 2. Los Consejos Consultivos podrán informar respecto de las actuaciones que realice la Comisión Nacional de Energía en el ejercicio de sus funciones. Este informe será a su vez preceptivo sobre las actuaciones a desarrollar en ejecución de las funciones segunda, tercera, cuarta y séptima.
 
@@ -135,6 +137,8 @@ Asimismo, la Comisión Nacional de Energía tendrá acceso a los registros regul
 5. Contra las resoluciones adoptadas por la Comisión Nacional de Energía en el ejercicio de las funciones a que se refieren los números1 y 2 del presente apartado, y contra sus actos de trámite en las mismas materias que determinen la imposibilidad de continuar el procedimiento o produzcan indefensión, podrá interponerse recurso ordinario ante el Ministro de Industria y Energía.
 
 Se exceptúan de lo dispuesto en el párrafo anterior las resoluciones que se dicten en el ejercicio de la función segunda del número 2 del presente apartado y de las circulares que se refieran a materia de información, que pondrán fin a la vía administrativa.
+
+> Se modifica el apartado 2.1 por el art. 92.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se modifica el apartado 3.1.8ª por el art. 76.2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
 

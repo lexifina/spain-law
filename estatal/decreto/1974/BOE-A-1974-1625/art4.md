@@ -1,3 +1,7 @@
 ## Art. 4.
 
 Se asimilarán a trabajadores por cuenta ajena los armadores que presten servicio a bordo de la correspondiente embarcación y perciban, como retribución por su trabajo, una participación en el «Monte Menor» o un salario, como tripulantes. Los armadores objeto de esta asimilación tendrán los mismos derechos y obligaciones en cuanto a este Régimen Especial se refiere, que los restantes miembros de la dotación de la embarcación, sin perjuicio de la que se dispone en el artículo 42 e independientemente de las obligaciones que les correspondan como empresarios.
+
+Asimismo, se asimilan a trabajadores por cuenta ajena los prácticos de puerto que, para la realización de su actividad de practicaje, se constituyan en corporaciones de prácticos de puertos o entidades que las sustituyan, teniendo los mismos derechos y obligaciones en cuanto a este Régimen Especial se refiere que los trabajadores por cuenta ajena incluidos en el párrafo a) del artículo 2, con excepción del derecho a las prestaciones por desempleo y del FOGASA de las que quedan excluidos. Dichas corporaciones de prácticos de puertos o entidades que las sustituyan tendrán la consideración de empresarios a efectos de este régimen especial respecto de los prácticos de puerto en ellas incluidos y resto de personal a su servicio.
+
+> Se añade el párrafo segundo por el art. 45.2.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
