@@ -1,0 +1,5 @@
+El Real Decreto 1440/1999, de 10 de septiembre, por el que se regula el ejercicio de la pesca con arte de arrastre de fondo en el caladero nacional del Mediterráneo ha derogado expresamente el Real Decreto 679/1988. Dicho Real Decreto, en su disposición final segunda, faculta al Ministro de Agricultura, Pesca y Alimentación para establecer vedas y fondos, de conformidad con el informe previo del Instituto Español de Oceanografía. Consecuentemente, debido al estado de los recursos y a las características batimétricas de la zona, se hace preciso adecuar a la nueva normativa la regulación de los fondos mínimos permitidos para la pesca de arrastre en el litoral de Cataluña y en el norte de la Comunidad Valenciana. En la elaboración de la presente disposición han sido consultadas las Comunidades Autónomas de Cataluña y Valencia y el sector afectado. Asimismo, ha sido sometida a informe previo del Instituto Español de Oceanografía.
+
+La presente Orden se dicta al amparo del artículo 149.1.19.a de la Constitución que atribuye al Estado la competencia exclusiva en materia de pesca marítima.
+
+En su virtud, dispongo:
