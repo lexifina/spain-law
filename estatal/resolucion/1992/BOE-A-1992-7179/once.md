@@ -1,9 +1,15 @@
-## Once. Entrega de las actas y diligencias por los actuarios.
+## Once. Disposición transitoria.
 
-1. Las actos, acompañadas de todos sus antecedentes, serán entregadas por la Unidad o Equipo de Inspección en la unidad administrativa encargada de su tramitación en los plazos señalados por el artículo 12.1 de la Orden del Ministerio de Economía y Hacienda de 26 de mayo de 1986. De igual manera a se procederá con las diligencias, en los casos y con arreglo a los plazos que establece dicha Orden.
+1. Lo dispuesto en esta Resolución no afectará a las actuaciones iniciadas con anterioridad a su entrada en vigor por Unidad o funcionario competente, con arreglo a la Orden del Ministerio de Economía y Hacienda de 26 de mayo de 1986, que proseguirán hasta su terminación, con arreglo a la misma.
 
-2. Cuando el órgano actuante de la Inspección de los Tributos sea central o de ámbito regional y las actas o diligencias se hayan incoado en un lugar situado fuera del ámbito territorial de la Delegación de la Agencia donde se halle la sede de aquel órgano, servirá como unidad administrativa la correspondiente de la Dependencia de Inspección de la Delegación de la Agencia en cuyo ámbito territorial se hayan formalizado aquéllas.
+2. En tanto subsistan como personal laboral, los Agentes tributarios tendrán las facultades y desempeñarán las funciones a que se referían los artículos 6.º y 7.º de la Orden del Ministerio de Economía y Hacienda de 26 de mayo de 1986.
 
-Cuando las actas o diligencias se hayan formalizado en un lugar situado en una de las islas as Baleares o Canarias en la cual no se halle la sede de la correspondiente Delegación de la Agencia, servirá como unidad administrativa la que corresponda de la Administración de la Agencia que hubiere en la isla y en cuyo ámbito se hubiesen formalizado aquéllas.
+3. Mantendrán su validez los acuerdos de extensión de actuaciones a personas o entidades por parte de la Oficina Nacional de Inspección dictados por el Director general de inspección Financiera y Tributaria.
 
-3. Las unidades administrativas que desarrollen las tareas de tramitación de las diligencias y actas, terminadas las correspondientes actuaciones inspectoras, custodiarán los expedientes en tramitación, impulsaran ésta, pondrán en su caso dichos expedientes de manifiesto a los interesados y recibirán las alegaciones que éstos formulen.
+4. En tanto sean sustituidos, mantendrán su vigencia los acuerdos a que se refería la Orden del Ministerio de Economía y Hacienda de 26 de mayo de 1986, en su articulo 17, números 2 y 3.
+
+5. Sin perjuicio de lo dispuesto en número 1 anterior, quedan sin efecto todas las resoluciones del Director general de Inspección Financiera y Tributaria a que se refería el número 2 del artículo 4 de la Orden del Ministerio de Economía y Hacienda de 26 de mayo de 1986.
+
+> Se modifica por los apartados 6 y 7 de la Resolución de 20 de marzo de 2003. Ref. BOE-A-2003-5908.
+
+> Su anterior numeración era apartado Catorce.

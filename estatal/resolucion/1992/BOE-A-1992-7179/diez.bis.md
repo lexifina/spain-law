@@ -1,11 +1,9 @@
 ## Diez. bis.-Asignación de firma de las propuestas de regularización.
 
-1. Los Jefes de Unidad de las Dependencias Provinciales de Inspección asignarán la firma de las propuestas de regularización resultantes de las actuaciones de comprobación e investigación a los Inspectores adjuntos a los Jefes de las Unidades que hubieren realizado de manera efectiva la totalidad de las actuaciones comprendidas en los capítulos V y VI del título primero del Reglamento General de la Inspección de los Tributos.
+(Suprimido).
 
-Asimismo, los Jefes y Subjefes de Unidad de las Dependencias Provinciales de Inspección asignarán la firma de las propuestas de regularización resultantes de las actuaciones de comprobación e investigación al Subinspector o Subinspectores que hubieren realizado de manera efectiva la totalidad de las actuaciones comprendidas en los capítulos V y VI del título primero del Reglamento General de la Inspección de los Tributos, siempre que desempeñen un puesto de trabajo de nivel de complemento de destino 20 o superior, y salvo que las citadas actuaciones se refieran a contribuyentes personas físicas que desarrollen actividades empresariales, o personas jurídicas, cuyo volumen anual de operaciones en los ejercicios comprobados exceda de 300.000.000 de pesetas y, tratándose de profesionales, de 30.000.000 de pesetas.
+> Se suprime por el apartado 6 de la Resolución de 20 de marzo de 2003. Ref. BOE-A-2003-5908.
 
-2. En los supuestos de asignación de la firma a que se refiere el punto 1 anterior, además del desarrollo de las funciones de dirección a que se refiere el número 3 del apartado uno de la presente Resolución, el Jefe o Subjefe de Unidad se reservarán el visto bueno a la formulación de la propuesta de regularización contenida en el acta. Dicho visto bueno se consignará en diligencia, en la que se hará constar la fecha en que se otorga, así como el nombre, apellidos, número de registro personal y firma del Jefe o Subjefe de Unidad que lo otorga.
-
-3. Cuando en aplicación del punto 1 anterior sea asignada la firma, no podrá presentarse la propuesta de regularización contenida en las actas a la firma del contribuyente en tanto no conste en diligencia el visto bueno del Jefe o Subjefe de Unidad. Si éste denegase el visto bueno a una propuesta de regularización sometida a su consideración, por entender que no es correcta, asumirá él la firma de las actas en que se documente la propuesta de regularización que estime procedente, que serán redactadas por el funcionario de la Unidad que aquél determine y de acuerdo con sus instrucciones.
+> Redactado conforme a la corrección de errores publicada en BOE núm. 79, de 2 de abril de 2003. Ref. BOE-A-2003-6589.
 
 > Se añade por el apartado 4 de la Resolución de 16 de abril de 1999. Ref. BOE-A-1999-9532.

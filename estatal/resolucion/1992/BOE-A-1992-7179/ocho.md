@@ -1,7 +1,7 @@
-## Ocho. Agentes de la Hacienda Pública.
+## Ocho. Desempeño de funciones inspectoras.
 
-1. En los órganos o servicios a que se refiere el apartado uno de esta Resolución podrán encomendarse actuaciones meramente preparatorias y de comprobación o prueba de hechos o circunstancias con trascendencia tributaria a funcionarios del Cuerpo General Administrativo de la Administración del Estado, con la especialidad de Agentes de la Hacienda Pública.
+Sin perjuicio de lo dispuesto en el apartado sexto del artículo 7 del Reglamento General de la Inspección de los Tributos, sólo los Inspectores, Subinspectores y Agentes de la Hacienda Pública que desempeñen puestos de trabajo en los órganos a que se refiere el número Uno de esta Resolución tendrán las atribuciones y facultades propias de la Inspección de los Tributos a los efectos de realizar las actuaciones inspectoras, documentar sus resultados y dictar las liquidaciones u otros actos administrativos que procedan, según las tareas propias de cada puesto de trabajo.
 
-Estos Agentes podrán desempeñar sus funciones en los Equipos o Unidades de Inspección, o bien dependiendo directamente del Inspector-Jefe correspondiente o de un Inspector adjunto al mismo.
+> Se modifica por el apartado 5 de la Resolución de 20 de marzo de 2003. Ref. BOE-A-2003-5908.
 
-2. Los Agentes de la Hacienda Pública documentarán el resultado de sus actuaciones mediante diligencia y extenderán las comunicaciones que procedan, con arreglo a los artículos 45 a 47 del Reglamento General de la Inspección de los Tributos.
+> Redactado conforme a la corrección de errores publicada en BOE núm. 79, de 2 de abril de 2003. Ref. BOE-A-2003-6589.
