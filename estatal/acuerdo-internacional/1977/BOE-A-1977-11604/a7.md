@@ -1,0 +1,3 @@
+## Artículo 7.
+
+Las ratificaciones formales del presente Convenio serán comunicadas, para su registro, al Director general de la Oficina Internacional del Trabajo.
