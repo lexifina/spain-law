@@ -12,6 +12,10 @@ En cada Sala o Sección de lo Social, una de las plazas se reservará a Magistra
 
 Para la adscripción se valorarán la antigüedad en el escalafón y la especialidad o experiencia de los Magistrados afectados y, a ser posible, sus preferencias.
 
+5. Los concursos para la provisión de plazas de magistrados de las Secciones de las Audiencias Provinciales que conozcan en segunda instancia de los recursos interpuestos contra todo tipo de resoluciones dictadas por los juzgados de lo mercantil se resolverán en favor de quienes, acreditando la especialización en los asuntos propios de dichos Juzgados, obtenida mediante la superación de las pruebas selectivas que reglamentariamente determine el Consejo General del Poder Judicial, tengan mejor puesto en su escalafón. En su defecto, se cubrirán con los magistrados que acrediten haber permanecido más tiempo en el orden jurisdiccional civil. A falta de éstos, por los magistrados que acrediten haber permanecido más tiempo en órganos jurisdiccionales mixtos. En su defecto, por el orden de antigüedad establecido en el apartado primero.
+
+> Se añade el apartado 5 por el art. 2.12 de la Ley Orgánica 8/2003, de 9 de julio. Ref. BOE-A-2003-13812
+
 > Se añade el apartado 4 por el art. 2 de la Ley Orgánica 9/2000, de 22 de diciembre. Ref. BOE-A-2000-23661
 
 > Se modifica el apartado 2 por el art. 3.6 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
