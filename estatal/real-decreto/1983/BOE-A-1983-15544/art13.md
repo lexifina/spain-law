@@ -1,0 +1,33 @@
+## Artículo 13. Características de los productos terminados.
+
+13.1 De la sal comestible: Los caracteres y composición de la sal comestible, cualquiera que sea su origen, serán los siguientes:
+
+13.1.1 Cristales blancos, inodoros, solubles en agua y con sabor salino franco.
+
+13.1.2 Su residuo insoluble en agua no será mayor de cinco gramos por kilogramo de sal.
+
+13.1.3 El contenido de cloruro sódico no debe ser inferior al 97 por 100 de la materia seca, con exclusión de los aditivos.
+
+13.1.4 Se tolera la presencia de sales magnésicas, calculadas en óxido de magnesio, hasta el 2 por 100 sobre el producto seco, cuando el producto vaya destinado a la salazón.
+
+13.1.5 El contenido de nitritos, nitratos y sales amónicas no excederá, expresado en nitrógeno, de 20 mg por kilogramo de sal, excepto en el caso de la sal nitritada.
+
+13.1.6 El producto envasado y dispuesto para el consumo no contendrá más de 20.000 gérmenes banales por gramo y estará libre de agentes patógenos.
+
+13.1.7 Se admiten las siguientes tolerancias de residuos de metales pesados:
+
+|  | mg/k |
+| --- | --- |
+| Cobre | 2 |
+| Plomo | 2 |
+| Arsénico | 1 |
+| Cadmio | 0,5 |
+| Mercurio | 0,1 |
+
+13.2 De las salmueras:
+
+13.2.1 Tendrán reacción ácida y la flora bacteriana estará exenta de bacterias patógenas.
+
+13.2.2 No contendrán colorantes artificiales orgánicos o inorgánicos, ni agentes conservadores.
+
+13.2.3 Las salmueras en uso deberán renovarse cuando absorban más del 10 por 100 de yodo 0,1 N.
