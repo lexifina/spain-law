@@ -20,7 +20,7 @@ Primero.—La posesión del título de Doctor en Facultad Universitaria o Escuel
 
 Segundo.—La presentación de un trabajo científico escrito expresamente para la oposición.
 
-Tercero.—El haber desempeñado función docente o investigadora efectiva, durante dos años como minino, en Universidad del Estado, Institutos de Investigaciones o Profesionales de la misma o del Consejo Superior de Investigaciones Científicas, o ser Profesor numerario de Escuela especial superior o Catedrático de Centros oficiales de Enseñanza Media,
+Tercero.—El haber desempeñado función docente o investigadora efectiva, durante dos años como minino, en Universidad del Estado, Institutos de Investigaciones o Profesionales de la misma o del Consejo Superior de Investigaciones Científicas, o en alguna Escuela Técnica Superior o ser Profesor numerario de Escuela especial superior o Catedrático de Centros oficiales de Enseñanza Media,
 
 Cuarto.—La firme adhesión a los principios fundamentales del Estado, acreditada mediante certificación de la Secretaría General del Movimiento.
 
@@ -31,6 +31,8 @@ Sexto.—Los demás trámites e informes que el Reglamento determine.
 e) El nombramiento de los Catedráticos numerarios de Facultad se hará siempre, a propuesta del Tribunal juzgador, por el Ministerio de Educación Nacional.
 
 f) Nombrado Catedrático numerario el propuesto por el Tribunal, tomará posesión de su Cátedra, sin perjuicio de hacerlo solemnemente el día de la inauguración del curso académico.
+
+> Se complementa el apartado tercero de la letra d) por el apartado primero de la Orden de 1 de julio de 1966. Ref. BOE-A-1966-11576.
 
 > Se modifica la letra b) por el art. 1 de la Ley 157/1963, de 2 de diciembre. Ref. BOE-A-1963-22625.
 
