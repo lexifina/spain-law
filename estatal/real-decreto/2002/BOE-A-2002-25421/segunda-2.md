@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Acreditación de requisitos legales, técnicos y económicos para las actividades de transporte y distribución.
+
+A los efectos previstos en los artículos 5 y 9 del presente Real Decreto, se considerarán acreditados los requisitos de capacidad legal, técnica y económica para aquellas entidades de nacionalidad española o de cualquier otro Estado miembro de la Unión Europea con establecimiento permanente en España que en el momento de la entrada en vigor del presente Real Decreto cuenten con autorización administrativa para las instalaciones de transporte o distribución y revistan la forma jurídica que exige la Ley 34/1998 y el presente Real Decreto para el ejercicio que corresponda a cada actividad.

@@ -1,0 +1,5 @@
+## Disposición transitoria quinta. Inscripción en el Registro Administrativo de Distribuidores, Comercializadores y Consumidores Cualificados de combustibles gaseosos por canalización.
+
+1. Las empresas que a la entrada en vigor del presente Real Decreto estén ejerciendo la actividad de distribución deberán proceder a su inscripción en la Sección Primera del Registro Administrativo de Distribuidores, Comercializadores y Consumidores Cualificados, de combustibles gaseosos por canalización, en un plazo no superior a tres meses desde la entrada en vigor del presente Real Decreto.
+
+2. Los consumidores cualificados que a la entrada en vigor del presente Real Decreto vengan ejerciendo tal condición, y no se suministren de un comercializador autorizado, deberán proceder a su inscripción en la Sección Tercera del Registro Administrativo de Distribuidores, Comercializadores y Consumidores Cualificados, de combustibles gaseosos por canalización, en un plazo no superior a tres meses desde la entrada en vigor del presente Real Decreto.
