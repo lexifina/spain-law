@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen aplicable a las obras con proyecto visado.
+
+Las obras de construcción cuyo proyecto hubiera sido visado por el Colegio profesional correspondiente o aprobado por las Administraciones públicas antes de la entrada en vigor del presente Real Decreto seguirán rigiéndose por lo dispuesto en el Real Decreto 555/1986, de 21 de febrero, por el que se implanta la obligatoriedad de la inclusión de un estudio de seguridad e higiene en el trabajo en los proyectos de edificación y obras públicas. No obstante, desde la fecha de entrada en vigor del presente Real Decreto en la fase de ejecución de tales obras será de aplicación lo establecido en los ar tículos 10, 11 y 12 y en el anexo IV de este Real Decreto.
