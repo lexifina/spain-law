@@ -1,3 +1,5 @@
 ## Disposición transitoria sexta.
 
-En la primera convocatoria de elecciones, las Juntas Electorales de Zona estarán compuestas por el representante de la Administración Pública correspondiente, con voz pero sin voto, y por los representantes de las Organizaciones Sindicales que hayan obtenido representación en la Junta Electoral General de acuerdo con lo establecido en la Disposición Transitoria Cuarta.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.

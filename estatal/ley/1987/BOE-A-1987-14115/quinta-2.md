@@ -1,5 +1,5 @@
 ## Disposición transitoria quinta.
 
-En la primera convocatoria de elecciones, las Juntas Electorales de Comunidad Autónoma estarán compuestas por igual número de representantes de la Administración Pública de la Comunidad Autónoma, designados por ésta, y de las Organizaciones Sindicales que hayan obtenido representación en la Junta Electoral General, de acuerdo con lo previsto en la disposición transitoria cuarta.
+(Derogada)
 
-La Presidencia de estas Juntas recaerá en un representante de la Administración Pública de la Comunidad Autónoma.
+> Se deroga por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
