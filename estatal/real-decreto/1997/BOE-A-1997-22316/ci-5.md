@@ -2,16 +2,20 @@
 
 ## Obligaciones y responsabilidades
 
-La propiedad de las instalaciones a que hace referencia la presente ITC será responsable de su cumplimiento.
+36. De los titulares
 
-Dichas instalaciones solamente podrán montarse por la propiedad o por entidades instaladoras de reconocida solvencia, con personal competente, que tendrá como obligaciones, además de lo establecido en el artículo 8 del Real Decreto 2085/1994, por el que se aprueba el Reglamento de Instalaciones Petrolíferas, las siguientes:
+El titular de las instalaciones comprendida en esta instrucción técnica, queda obligado a mantenerlas en correcto estado de funcionamiento y será responsable, en todo momento, del cumplimiento de los requisitos técnicos y de seguridad que la misma establece, sin perjuicio de la legislación de protección del medio ambiente aplicable.
+
+37. De las empresas instaladoras
+
+El montaje, mantenimiento, conservación y, en su caso, la reparación de las instalaciones, deberá realizarse con equipos propios o por empresas instaladoras, debidamente autorizadas e inscritas en los registros correspondientes de los Organismos Territoriales competentes, con personal especializado que tendrá como obligaciones, además de lo establecido en el Reglamento de Instalaciones Petrolíferas, aprobado por el Real Decreto 2085/1994, de 20 de octubre, las siguientes:
 
 a) Controlar los materiales y la ejecución de los trabajos que se lleven a cabo.
 
-b) Realizar o hacer realizar las pruebas exigidas por la reglamentación y normativas vigentes.
+b) Realizar o hacer realizar las pruebas exigidas por la Reglamentación y Normativas vigentes.
 
 c) Emitir o hacer emitir los certificados pertinentes.
 
-d) Responsabilizarse de las deficiencias de ejecución de las instalaciones que construyan y de los materiales empleados, así como de su correcta explotación.
+d) Responsabilizarse de las deficiencias de ejecución de las instalaciones que construyan.
 
-Las inspecciones oficiales que puedan realizarse no eximen en ningún momento a la empresa del cumplimiento de las obligaciones impuestas a la misma en cuanto al estado y conservación de las instalaciones, y de las responsabilidades que puedan derivarse de todo ello.
+> Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. Ref. BOE-A-1999-20723
