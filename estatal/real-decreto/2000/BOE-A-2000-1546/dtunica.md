@@ -1,0 +1,3 @@
+## Disposición transitoria única. Exención de nuevo reconocimiento para los declarados minusválidos en un grado igual o superior al 33 por 100.
+
+Quienes, con anterioridad a la entrada en vigor de este Real Decreto, hubieran sido declarados minusválidos en un grado igual o superior al 33 por 100 con arreglo al procedimiento establecido en el Real Decreto 1723/1981, de 24 de julio, y disposiciones de desarrollo, incluidos los supuestos de reconocimiento de grado por homologación de las situaciones de invalidez declarados por la Seguridad Social, no precisarán de un nuevo reconocimiento. Ello sin perjuicio de las posibles revisiones que, de oficio o a instancia de parte, sea procedente realizar posteriormente.
