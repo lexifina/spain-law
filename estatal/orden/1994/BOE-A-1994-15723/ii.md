@@ -1,0 +1,13 @@
+## II. Régimen de funcionamiento
+
+21. Las decisiones que afecten a la organización y el funcionamiento de las escuelas de educación infantil y de los colegios de educación primaria, adoptadas por los centros en cada curso académico, deberán recogerse en las respectivas Programaciones generales anuales en los términos establecidos en el título IV, capítulo III, del citado Reglamento. La Programación general anual garantizará el desarrollo coordinado de todas las actividades educativas, el correcto ejercicio de las competencias de los distintos órganos de gobierno y de coordinación docente y la participación de todos los sectores de la comunidad escolar.
+
+22. El Director del centro establecerá el calendario de actuaciones para la elaboración por parte del equipo directivo de la programación general anual, teniendo en cuenta las deliberaciones y acuerdos del Claustro y del Consejo Escolar. La aprobación de la misma por el Consejo Escolar deberá efectuarse en el plazo de veinte días a contar desde lafecha de inicio de las actividades lectivas.
+
+23. Una vez aprobada la Programación general anual, un ejemplar de la misma quedará en la Secretaría del centro a disposición de los miembros de la comunidad educativa y otro se enviará al Director provincial antes del 15 de octubre, sin perjuicio de que se respeten las fechas que para cada componente concreto de esta Programación se establecen. El envío irá acompañado de una copia del acta de la sesión del Consejo Escolar en la que se haya aprobado.
+
+24. El Servicio de Inspección Técnica supervisará la Programación general anual para comprobar su adecuación a lo establecido en las disposiciones vigentes, formulará las sugerencias que estime oportunas e indicará las correcciones que procedan. La Dirección Provincial prestará a los centros el apoyo necesario para su adecuado cumplimiento.
+
+25. La Programación general anual será de obligado cumplimiento para todos los miembros de la comunidad escolar. Todos los Maestros con responsabilidades en la coordinación docente velarán para que se cumpla lo programado en su ámbito de responsabilidad y pondrán en conocimiento del Jefe de estudios cualquier conducta que no respete lo establecido en la Programación. El Director iniciará inmediatamente las actuaciones pertinentes y, en su caso, comunicará esta circunstancia al Consejo Escolar o al Servicio de Inspección Técnica, si procede.
+
+26. Al finalizar el curso, el Consejo Escolar, el Claustro y el equipo directivo evaluarán la Programación general anual y su grado de cumplimiento. Las conclusiones más relevantes serán recogidas por el equipo directivo en una memoria que se remitirá antes del 10 de julio a la Dirección Provincial, para ser analizada por el Servicio de Inspección Técnica.
