@@ -22,6 +22,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 6](a6.md)
 - [Artículo 7](a7.md)
 - [Artículo 8](a8.md)
+- [Artículos 6 a 8 ](a6-2.md)
 - [TÍTULO III](tiii.md)
 - [CAPÍTULO I](ci.md)
 - [Artículo 9](a9.md)
