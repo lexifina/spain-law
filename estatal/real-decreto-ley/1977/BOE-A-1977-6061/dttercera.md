@@ -1,3 +1,5 @@
 ## Disposición transitoria tercera.
 
-Los despidos producidos con anterioridad a la entrad en vigor de este Real Decreto-ley se regirán en su aspecto sustantivo y procesal por las normas vigentes en la fecha en que tuvieran lugar.
+(Derogada)
+
+> Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.

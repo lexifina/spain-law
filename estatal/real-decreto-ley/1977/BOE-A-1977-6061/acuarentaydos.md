@@ -1,3 +1,5 @@
 ## Artículo cuarenta y dos.
 
-Será de aplicación a los despidos regulados en este capítulo lo dispuesto en el artículo treinta y cinco de este Real Decreto-ley.
+(Derogado)
+
+> Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.

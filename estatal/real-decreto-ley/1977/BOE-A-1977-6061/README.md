@@ -52,6 +52,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO V](tv.md)
 - [CAPÍTULO I](ci-3.md)
 - [Artículo treinta](atreinta.md)
+- [Artículos treinta a cuarenta y cuatro](astreintaacuarentaycuatro.md)
 - [Artículo treinta y uno](atreintayuno.md)
 - [Artículo treinta y dos](atreintaydos.md)
 - [CAPÍTULO II](cii-3.md)

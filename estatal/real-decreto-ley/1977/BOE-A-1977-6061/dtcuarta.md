@@ -1,3 +1,5 @@
 ## Disposición transitoria cuarta.
 
-Las Empresas y trabajadores afectados por Convenios Colectivos de ámbito superior al de Empresa y suscritos con anterioridad a la entrada en vigor del presente Real Decreto-ley podrán negociar durante su vigencia Convenio de Empresa.
+(Derogada)
+
+> Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.

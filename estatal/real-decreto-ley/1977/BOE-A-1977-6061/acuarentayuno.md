@@ -1,3 +1,5 @@
 ## Artículo cuarenta y uno.
 
-Durante el período del preaviso el trabajador tendrá derecho, sin pérdida de su retribución, a una licencia de seis horas semanales con el fin de buscar nuevo empleo.
+(Derogado)
+
+> Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
