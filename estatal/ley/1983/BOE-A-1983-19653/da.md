@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+Los tipos de cotización de los funcionarios y de aportación del Estado a la Mutualidad General de Funcionarios Civiles del Estado, a la Mutualidad General Judicial y al Instituto Social de las Fuerzas Armadas, aplicables con anterioridad se adaptarán, por Decreto acordado en Consejo de Ministros previo dictamen del Consejo de Estado, en función de las necesidades de financiación de las respectivas Mutualidades, teniendo en cuenta el incremento de las retribuciones básicas derivadas de la presente Ley y la absorción en todo o en parte de los remanentes de Tesorería y las aportaciones y cuotas pendientes de percepción por tales Mutualidades, sin que se menoscaben las prestaciones a cargo de la respectiva Entidad.
