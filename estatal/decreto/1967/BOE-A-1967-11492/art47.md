@@ -1,5 +1,7 @@
 ## Art. 47.
 
-Las Sociedades y personas físicas nacionales o Sociedades extranjeras que tengan admitidos valores a la cotización oficial, sea ésta simple o calificada, tendrán obligación de remitir anualmente a la Junta Sindical de la respectiva Bolsa Oficial de Comercio, Memoria, Balance, Cuenta de Pérdidas y Ganancias y aplicación de resultados de cada ejercicio cerrado, antes de transcurrir dos meses contados a partir del día de su aprobación por el Órgano social que corresponda; dichos documentos se presentarán certificados por Censor Jurado de Cuentas.
+(Párrafo primero derogado)
 
 También tendrán obligación de comunicar puntualmente el pago de dividendos pasivos de las acciones parcialmente desembolsadas; los aumentos y reducciones de capital o nominal de los títulos-valores admitidos, así como las emisiones de obligaciones, modificaciones de estatutos sociales, transformaciones y fusiones de que puedan ser objeto; declaración de quiebra, suspensión de pagos o disolución y en general, cuanta información adicional les soliciten las correspondientes Juntas Sindicales.
+
+> Se deroga el párrafo primero por la disposición derogatoria 1.b) del Real Decreto 291/1992, de 27 de marzo. Ref. BOE-A-1992-7493.
