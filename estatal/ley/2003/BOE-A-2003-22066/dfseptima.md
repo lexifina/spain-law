@@ -1,0 +1,5 @@
+## Disposición final séptima. Condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de las tecnologías, productos y servicios relacionados con la sociedad de la información y medios de comunicación social.
+
+1. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno aprobará, según lo previsto en su artículo 10, unas condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de las tecnologías, productos y servicios relacionados con la sociedad de la información y de cualquier medio de comunicación social, que serán obligatorias en el plazo de cuatro a seis años desde la entrada en vigor de esta ley para todos los productos y servicios nuevos, y en el plazo de ocho a diez años para todos aquellos existentes que sean susceptibles de ajustes razonables.
+
+2. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno deberá realizar los estudios integrales sobre la accesibilidad a dichos bienes o servicios que se consideren más relevantes desde el punto de vista de la no discriminación y accesibilidad universal.
