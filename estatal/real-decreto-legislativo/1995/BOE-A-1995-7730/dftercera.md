@@ -1,0 +1,5 @@
+## Disposición final tercera. Normas de aplicación del Título II.
+
+El Gobierno, previas las consultas que considere oportunas a las asociaciones empresariales y organizaciones sindicales, dictará las normas necesarias para la aplicación del Título II de la presente Ley en aquellas empresas pertenecientes a sectores de actividad en las que sea relevante el número de trabajadores no fijos o el de trabajadores menores de dieciocho años, así como a los colectivos en los que, por la naturaleza de sus actividades, se ocasione una movilidad permanente, una acusada dispersión o unos desplazamientos de localidad, ligados al ejercicio normal de sus actividades, y en los que concurran otras circunstancias que hagan aconsejable su inclusión en el ámbito de aplicación del Titulo II citado. En todo caso, dichas normas respetarán el contenido básico de esos procedimientos de representación en la empresa.
+
+Con arreglo a las directrices que fije el órgano estatal de mediación, arbitraje y conciliación, al que corresponderá también su custodia, el Instituto Nacional de Estadística elaborará, mantendrá al día y hará público el censo de empresas y de población activa ocupada.

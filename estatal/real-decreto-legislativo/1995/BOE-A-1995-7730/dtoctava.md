@@ -1,0 +1,13 @@
+## Disposición transitoria octava. Elecciones a representantes de los trabajadores.
+
+1. Las elecciones para renovar la representación de los trabajadores, elegida en el último período de cómputo anterior a la entrada en vigor de esta Ley, podrán celebrarse durante quince meses contados a partir del 15 de septiembre de 1994, prorrogándose los correspondientes mandatos hasta la celebración de las nuevas elecciones a todos los efectos, sin que sea aplicable durante este período lo establecido en el artículo 12 de la Ley 9/1987, de 12 de junio, de órganos de representación, determinación de las condiciones de trabajo y participación del personal al servicio de las Administraciones Públicas.
+
+2. Por acuerdo mayoritario de los sindicatos más representativos podrá establecerse un calendario de celebración de elecciones a lo largo del período indicado en el párrafo anterior en los correspondientes ámbitos funcionales y territoriales.
+
+Estos calendarios serán comunicados a la oficina pública con una antelación mínima de dos meses a la iniciación de los respectivos procesos electorales. La oficina pública dará publicidad a los calendarios, sin perjuicio de la tramitación conforme al artículo 67.1 de la presente Ley de los escritos de promoción de elecciones correspondientes a aquéllos. La comunicación de estos calendarios no estará sujeta a lo dispuesto en el párrafo cuarto del artículo 67.1 de esta Ley.
+
+Las elecciones se celebrarán en los distintos centros de trabajo conforme a las previsiones del calendario y sus correspondientes preavisos, salvo en aquellos centros en los que los trabajadores hubiesen optado, mediante acuerdo mayoritario, por promover las elecciones en fecha distinta, siempre que el correspondiente escrito de promoción se hubiese remitido a la oficina pública en los quince días siguientes al depósito del calendario.
+
+Las elecciones promovidas con anterioridad al depósito del calendario prevalecerán sobre el mismo en el caso de que hubieran sido promovidas con posterioridad al 12 de junio de 1994 siempre que hubieran sido formuladas por los trabajadores del correspondiente centro de trabajo o por acuerdo de los sindicatos que ostenten la mayoría de los representantes en el centro de trabajo o, en su caso, en la empresa. Esta misma regla se aplicará a las elecciones promovidas con anterioridad al día indicado, en el caso de que en dicha fecha no hubiera concluido el proceso electoral.
+
+3. La prórroga de las funciones de los delegados de personal y miembros de comités de empresa, así como los efectos de la misma, se aplicará plenamente cuando haya transcurrido en su totalidad el plazo señalado en el número 1 de esta disposición transitoria.
