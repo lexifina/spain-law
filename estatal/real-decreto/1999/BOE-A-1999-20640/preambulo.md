@@ -1,0 +1,7 @@
+La Directiva 96/35/CE, del Consejo, de 3 de junio, relativa a la designación y cualificación profesional de consejeros de seguridad para el transporte por carretera, por ferrocarril o por vía navegable de mercancías peligrosas, exige, como medida de seguridad preventiva, que las empresas que realicen tales transportes y las que efectúen operaciones de carga o descarga a ellos vinculadas habrán de disponer de uno o varios consejeros de seguridad encargados de contribuir a la prevención de los riesgos inherentes al transporte de mercancías peligrosas. Con el fin de que esta obligación se establezca de una manera homogénea en todos los Estados miembros, la citada Directiva determina las funciones y tareas que deberán realizar los consejeros de seguridad, la formación requerida para su desempeño y el modelo de certificado que acredita su condición.
+
+Este Real Decreto incorpora la Directiva 96/35/CE al ordenamiento jurídico interno, a cuyo efecto regula la obligación de las empresas de transporte y de carga y descarga de mercancías peligrosas de designar consejeros de seguridad, las funciones encomendadas a los mismos, la cualificación profesional exigida y el procedimiento a seguir para evaluar la formación requerida.
+
+En su virtud, a propuesta del Ministro de Fomento, previo informe de la Comisión para la Coordinación del Transporte de Mercancías Peligrosas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 8 de octubre de 1999.
+
+DISPONGO:
