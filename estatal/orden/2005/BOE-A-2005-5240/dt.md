@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen transitorio de los procedimientos.
+
+Lo dispuesto en la presente Orden será de aplicación a los procedimientos de concesión de subvenciones iniciados a partir de la finalización del plazo de adecuación contemplado en la disposición transitoria primera de la Ley 38/2003, de 17 de noviembre, General de Subvenciones. Los procedimientos ya iniciados a la entrada en vigor de dicha Ley o durante el plazo de adecuación antes señalado se regirán por la normativa anterior que les sea de aplicación, según lo dispuesto en los apartados 1 y 2 de la disposición transitoria segunda de la Ley General de Subvenciones citada.

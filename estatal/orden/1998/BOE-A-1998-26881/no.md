@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 58, de 9 de marzo de 1999. Ref. BOE-A-1999-5742.
+Téngase en cuenta que quedan derogadas las disposiciones de esta norma en aquello en que se opongan a lo dispuesto en la Orden TAS/816/2005, de 21 de marzo. Ref. BOE-A-2005-5240, según establece su disposición derogatoria única, en relación con el art. 2 de la misma.

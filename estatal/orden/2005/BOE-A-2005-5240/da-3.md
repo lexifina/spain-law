@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Recursos administrativos.
+
+De conformidad con lo dispuesto en la Disposición adicional undécima de la Ley 38/2003, de 17 de noviembre, General de Subvenciones y en la Resolución de 12 de abril de 2004, del Servicio Público de Empleo Estatal, las resoluciones de reintegro de subvenciones dictadas por el Organismo, no pondrán fin a la vía administrativa, por lo que podrán ser objeto de recurso de alzada ante el Ministro de Trabajo y Asuntos Sociales, en los términos previstos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.

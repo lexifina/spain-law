@@ -1,0 +1,5 @@
+## Disposición adicional primera. Normativa aplicable.
+
+1. Las subvenciones a que se refiere la presente Orden Ministerial se regularán por lo previsto en la misma y, en cuanto no se oponga a lo establecido en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, por la normativa recogida en el artículo 2 de esta disposición. En lo no previsto en estas normas será de aplicación lo establecido en la citada Ley 38/2003, de 17 de noviembre, General de Subvenciones y, en cuanto no se oponga a lo en ella establecido, el Real Decreto 2225/1993, de 17 de diciembre, por el que se aprueba el Reglamento de procedimiento para la concesión de subvenciones.
+
+2. La presente Orden se considera incluida en la relación de normas reguladoras de subvenciones concedidas por el Servicio Público de Empleo Estatal, a los efectos establecidos en los correspondientes Reales Decretos sobre traspaso a las Comunidades Autónomas de la gestión realizada por el Servicio Público de Empleo Estatal (INEM) en el ámbito del trabajo, el empleo y y la formación.

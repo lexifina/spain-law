@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE num. 287, de 30 de noviembre de 2001. Ref. BOE-A-2001-22358
+Téngase en cuenta que quedan derogadas las disposiciones de esta norma en aquello en que se opongan a lo dispuesto en la Orden TAS/816/2005, de 21 de marzo. Ref. BOE-A-2005-5240, según establece su disposición derogatoria única, en relación con el art. 2 de la misma.

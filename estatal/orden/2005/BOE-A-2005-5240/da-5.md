@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Garantías por pagos anticipados.
+
+El régimen de garantías de los pagos anticipados de las subvenciones que conceda el Servicio Público de Empleo Estatal previstos en las bases reguladoras de las Ordenes ministeriales enumeradas en el artículo 2, se ajustará a lo dispuesto en la Orden TAS/1622/2002, de 13 de junio («Boletín Oficial del Estado» del 29), que establece su preceptiva consignación, bajo las modalidades recogidas en el artículo 1 para su realización, en la Caja General de Depósitos o en alguna de sus sucursales a través de las modalidades que, para su realización, se recogen en su artículo 1, salvo que concurran las exenciones que dispone su artículo 2.
