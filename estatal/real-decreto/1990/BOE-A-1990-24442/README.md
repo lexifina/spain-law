@@ -192,6 +192,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 140](a140.md)
 - [CAPÍTULO III](ciii.md)
 - [Artículo 141](a141.md)
+- [Artículos 141 a 143](a1-2.md)
 - [Artículo 142](a142.md)
 - [Artículo 143](a143.md)
 - [CAPÍTULO IV](civ-2.md)

@@ -1,3 +1,5 @@
 ## CAPÍTULO III
 
 ## Transporte urbano
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1136/1997, de 11 de julio. Ref. BOE-A-1997-16472
