@@ -1,0 +1,55 @@
+1. Modelos de cuentas justificativas.
+
+Los modelos de cuentas justificativas a rendir trimestralmente por los cajeros de pagos especiales a que se refiere la Resolución conjunta de la Dirección General del Tesoro y Política Financiera y de la Intervención General de la Administración del Estado de 28 de febrero de 1997 son los que figuran como anexo de la presente Resolución.
+
+2. Instrucciones para la formación de la cuenta de pagos especiales «pagos masivos».
+
+1. Cabecera.
+
+En la cabecera figurará el código identificativo de la caja pagadora, así como el ejercicio a que se refiera la información de la cuenta.
+
+2. Cuerpo.
+
+En el cuerpo se consignará el trimestre al que se refiera la información, así como el nombre de la caja pagadora.
+
+En el Debe se anotará, para cada uno de los libramientos recibidos, el número de operación de la orden de pago, la fecha de su percepción (de abono en cuenta) y el importe, así como el saldo inicial para el caso en que el libramiento se hubiera percibido en un trimestre anterior y todavía no se hubiera cancelado su importe al inicio del actual.
+
+En el Haber se anotarán, con respecto a los libramientos que figuren en la misma fila, en el Debe:
+
+Los datos relativos al pago a los perceptores: Fecha de remisión al Banco de España del soporte informático para que ejecute las transferencias e importe del pago.
+
+Los datos relativos a la ejecución de las incidencias: Tipo de incidencia (según códigos recogidos en el pie de la cuenta), fecha de pago e importe.
+
+El saldo final del libramiento, en el caso en que no se hubieran satisfecho la totalidad de los importes correspondientes al mismo.
+
+Existen al pie de la cuenta espacios reservados para las firmas del Cajero Pagador, del Interventor delegado y del Ordenador de pagos (punto 2.3.4 de la Resolución conjunta de la Dirección General del Tesoro y Política Financiera y la Intervención General de la Administración del Estado sobre el procedimiento para la realización de ciertos pagos a través de agentes mediadores).
+
+3. Instrucciones para la formación de la cuenta de pagos especiales «pago de obligaciones a una pluralidad de acreedores».
+
+1. Cabecera.
+
+En la cabecera figurará el código identificativo de la caja pagadora, así como el ejercicio a que se refiera la información de la cuenta.
+
+2. Cuerpo.
+
+En el cuerpo se consignará el trimestre al que se refiere la información, así como el nombre de la caja pagadora.
+
+En el Debe se anotará, para cada uno de los libramientos recibidos, el número de operación de la orden de pago, la fecha de su percepción (de abono en cuenta) y el importe, así como el saldo inicial para el caso en que el libramiento se hubiera percibido en un trimestre anterior y todavía no se hubiera cancelado su importe al inicio del actual.
+
+En el Haber se anotarán, con respecto a los libramientos que figuren en la misma fila, en el Debe:
+
+Los datos relativos al pago a los perceptores: Fecha de pago (la de la orden de transferencia o de entrega del cheque), forma de pago (transferencia o cheque) e importe.
+
+Los datos relativos a la ejecución de las incidencias: Tipo de incidencia (según códigos recogidos en el pie de la cuenta), fecha de pago e importe.
+
+El saldo final del libramiento, en el caso en que no se hubieran satisfecho la totalidad de los importes correspondientes al mismo.
+
+Existen al pie de la cuenta espacios reservados para las firmas del Cajero Pagador, del Interventor delegado y del Ordenador de pagos (punto 2.3.4 de la Resolución conjunta de la Dirección General del Tesoro y Política Financiera y la Intervención General de la Administración del Estado sobre el procedimiento para la realización de ciertos pagos a través de agentes mediadores).
+
+4. Instrucciones para la formación de la cuenta de pagos especiales «terceros no individualizables mediante número de identificación fiscal».
+
+El contenido es el mismo que el de la cuenta de pagos especiales «pago de obligaciones a una pluralidad de acreedores», con la excepción de que en el haber de la cuenta con respecto a los datos relativos al pago a los perceptores, se incluirá además el código identificativo del perceptor.
+
+5. Documentación a adjuntar a las cuentas justificativas.
+
+Para cada uno de los libramientos se elaborará una relación de los justificantes que se adjuntan al mismo. La citada relación se identificará por el número de operación de la orden de pago por la que se efectuó el libramiento, que habrá de figurar en el margen superior derecho de la misma.
