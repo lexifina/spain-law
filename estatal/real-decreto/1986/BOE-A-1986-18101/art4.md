@@ -54,6 +54,8 @@ l) Títulos, diplomas eidiomas.
 
 m) Premios, sanciones, condecoraciones y menciones.
 
-2. Respecto del personal al que se refiere el apartado c) del artículo 2.1 del presente Reglamento, se anotarán solamente las resoluciones de autorización o reconocimiento de compatibilidad.
+2. (Derogado).
 
-3. Asimismo, se anotarán en el Registro de Personal cualquiera otros actos, resoluciones y datos cuya anotación esté legal o reglamentariamente establecida o así se determine por el Ministerio de la Presidencia.
+3. (Derogado).
+
+> Téngase en cuenta que se deroga este artículo, excepto el apartado uno, que conservará su vigencia exclusivamente a efectos de la aplicación del artículo 16 del presente Reglamento, por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. Ref. BOE-A-2000-1007.

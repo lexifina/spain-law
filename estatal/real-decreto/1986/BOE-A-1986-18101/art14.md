@@ -1,3 +1,5 @@
 ## Art. 14.
 
-El personal inscrito en el Registro Central, al amparo de lo dispuesto en el artículo 2.1.a) del presente Reglamento, no tendrá necesidad de aportar los datos que figuren anotados en aquél, cuando se dirija por escrito a los órganos de la Administración del Estado.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. Ref. BOE-A-2000-1007.

@@ -1,3 +1,5 @@
 ## Art. 13.
 
-Los Departamentos Ministeriales y sus Organismos Autónomos deberán facilitar todos los datos que les sean requeridos por la Dirección General de la Función Pública, para el mejor cumplimiento de las funciones del Registro Central.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. Ref. BOE-A-2000-1007.

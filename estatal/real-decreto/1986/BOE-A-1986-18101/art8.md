@@ -1,3 +1,5 @@
 ## Art. 8.
 
-El Jefe del Registro Central de Personal expedirá a los interesados y a los Órganos administrativos que lo requieran certificación de las inscripciones y anotaciones que figuren en el mismo.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 2073/1999, de 30 de diciembre. Ref. BOE-A-2000-1007.
