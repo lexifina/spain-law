@@ -25,3 +25,9 @@ a) Cuando haya alumnos con evaluación negativa en un área del curso anterior, 
 b) Una vez establecida la plantilla del profesorado del Instituto, si hubiera Profesores con disponibilidad horaria en el departamento respectivo, se podrá reducir el número mínimo de alumnos establecido en el apartado anterior.
 
 c) Los departamentos de Lengua extranjera, Ciencias Naturales y Física y Química podrán establecer un plan de trabajo y un programa de prácticas específicas de conversación o de laboratorio, que se incluirán en la programación del departamento. En este caso, una vez establecida la plantilla del profesorado del Instituto, si hubiera Profesores con disponibilidad horaria en el departamento respectivo, los grupos de más de 25 alumnos se podrán desdoblar una hora a la semana en las áreas o materias de estos departamentos para realizar dichas prácticas de conversación o de laboratorio, siempre que sea necesario para el desarrollo del citado plan. Estos grupos serán atendidos por el Profesor correspondiente y otro del departamento. A ambos Profesores se les computará esta hora como lectiva. El Servicio de Inspección Técnica evaluará al final de cada trimestre el aprovechamiento de estas prácticas.
+
+d) Con la finalidad de facilitar que todos los alumnos alcancen los objetivos de la Educación Secundaria Obligatoria, podrán establecerse en los cursos primero y segundo medidas de refuerzo educativo, dirigidas a los alumnos que presenten dificultades generalizadas de aprendizaje en los aspectos básicos e instrumentales del currículo, especialmente en lengua castellana y en matemáticas.
+
+> Se añade el apartado 68.d) por el apartado único.8 de la Orden ECD/3388/2003, de 27 de noviembre. Ref. BOE-A-2003-22245.
+
+> Esta modificación es de aplicación desde el curso académico 2003-2004.

@@ -32,13 +32,17 @@ c) Los correspondientes a los desdoblamientos de Lengua extranjera y los laborat
 
 d) Los destinados a las profundizaciones establecidas por el departamento.
 
-95. La elección a que se refiere el punto 92 se realizará de acuerdo con el siguiente orden:
+95. La elección a que se refiere el punto 92 se realizará de la siguiente forma:
 
-a) Profesores de Enseñanza Secundaria que fueran Catedráticos en activo en la fecha de entrada en vigor de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+1. En primer término elegirán los funcionarios docentes con destino definitivo en el centro con el siguiente orden de prelación:
 
-b) Profesores de Enseñanza Secundaria, excepto los mencionados en el apartado anterior, Profesores técnicos de Formación Profesional y Profesores especiales de ITEM.
+a) Catedráticos de Enseñanza Secundaria, con el orden de elección establecido en el apartado 96.
 
-c) Profesores interinos.
+b) Profesores de Enseñanza Secundaria, Profesores Técnicos de Formación Profesional y Profesores especiales de ITEM.
+
+2. En segundo término elegirán horario los funcionarios docentes destinados provisionalmente en dicho centro con el mismo orden de preferencia señalado en el punto anterior.
+
+3. En tercer término los Profesores interinos.
 
 96. La prioridad en la elección entre los Profesores de Enseñanza Secundaria que fueran Catedráticos en activo en la fecha de entrada en vigor de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo estará determinada por la antigüedad en la condición de Catedrático, entendida como tal la que se corresponda con los servicios efectivamente prestados en el Cuerpo de Catedráticos sumada a la adquirida en la referida condición. De coincidir la antigüedad, el orden de elección estará determinado por la aplicación de los siguientes criterios, considerados de forma sucesiva:
 
@@ -51,3 +55,7 @@ Si tras la aplicación de los criterios anteriores persiste la coincidencia, se 
 97. La prioridad de elección entre los Profesores de Enseñanza Secundaria, excepto los mencionados en el punto anterior, Profesores técnicos de Formación Profesional y Profesores especiales de ITEM vendrá determinada por la antigüedad en los respectivos cuerpos, entendida ésta como la que se corresponde con el tiempo real de servicios efectivamente prestados como funcionario de carrera del respectivo cuerpo. Si coincide ésta, se acudirá a la antigüedad en el instituto. De persistir la coincidencia se estará a lo expresado en el último criterio de desempate de los enumerados en el punto anterior.
 
 98. A la vista de la distribución de turnos, materias y cursos efectuada por los respectivos departamentos, el Jefe de estudios procederá a elaborar los horarios de los alumnos y de los Profesores, con respecto a los criterios pedagógicos establecidos por el Claustro; estos horarios figurarán en la programación general anual.
+
+> Se modifica el apartado 95 por el apartado único.9 de la Orden ECD/3388/2003, de 27 de noviembre. Ref. BOE-A-2003-22245.
+
+> Esta modificación es de aplicación desde el curso académico 2003-2004.

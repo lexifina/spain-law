@@ -1,6 +1,8 @@
 ## Proyecto educativo del instituto
 
-28. La elaboración y el contenido del Proyecto educativo del Instituto se ajustarán a lo dispuesto en el título IV, capítulo I, del Reglamento Orgánico de los Institutos de Educación Secundaria.
+28. Conforme a lo establecido en el artículo 68.2 de la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, los centros docentes elaborarán su proyecto educativo en el que se fijarán los objetivos y las prioridades educativas, así como los procedimientos de actuación. Para la elaboración de dicho proyecto deberá tenerse en consideración las características del centro y de su entorno escolar, así como las necesidades educativas de los alumnos.
+
+Los centros que ya tuvieran aprobado su proyecto educativo, procederán a su revisión para adaptarlo, en su caso, a los aspectos reseñados en el párrafo anterior.
 
 29. El artículo 94 del Reglamento Orgánico de los Institutos de Educación Secundaria contiene los cinco apartados que deben figurar en el Proyecto educativo. En lo relativo a la organización general del Instituto, a la que se refiere el apartado a) de dicho artículo, se detallarán los siguientes aspectos:
 
@@ -51,3 +53,7 @@ g) Las normas para el uso de las instalaciones, recursos y servicios educativos 
 33. Cuando se elabore por primera vez el Proyecto educativo, por comenzar a impartirse la Educación Secundaria, el instituto dispondrá de un período de tres cursos académicos para realizar esta tarea. Cuando se dé esta circunstancia, el Consejo Escolar analizará y, en su caso, aprobará los aspectos ya elaborados del proyecto educativo para su incorporación a la programación general anual antes de transcurridos veinte días, contados desde el comienzo de las actividades lectivas, e incluirá un calendario de actuaciones para continuar su elaboración durante el curso iniciado.
 
 34. Cuando se considere necesario introducir modificaciones en el Proyecto educativo, las propuestas de modificación podrán hacerse por el equipo directivo, por el Claustro, por cualquiera de los otros sectores representados en el Consejo Escolar o por un tercio de los miembros de este órgano. Una vez presentada la propuesta, el Director fijará un plazo de, al menos, un mes para su estudio por todos los miembros del Consejo Escolar. La propuesta de modificación podrá ser aprobada por dicho Consejo en el tercer trimestre del curso y entrará en vigor al comienzo del curso siguiente.
+
+> Se modifica el apartado 28 por el apartado único.5 de la Orden ECD/3388/2003, de 27 de noviembre. Ref. BOE-A-2003-22245.
+
+> Esta modificación es de aplicación desde el curso académico 2003-2004.

@@ -2,7 +2,7 @@
 
 57. Atendiendo a las particularidades de cada centro y al mejor aprovechamiento de las actividades docentes, el equipo directivo, oído el Claustro, propondrá la distribución de la jornada escolar y el horario general al Consejo Escolar para su aprobación. La jornada escolar permitirá la realización de todas las actividades lectivas y complementarias que se programen para dar cumplimiento a lo establecido en el proyecto educativo, los proyectos curriculares y la programación general anual. Dicha jornada podrá ser distinta para las diferentes etapas o ciclos, a fin de que se facilite una mejor organización de la optatividad, el mayor rendimiento de los alumnos según su edad y el mejor aprovechamiento de los espacios y recursos del instituto.
 
-58. Cuando un instituto decida modificar el horario general para el curso siguiente, la aprobación de la propuesta del nuevo horario se llevará a cabo en la última sesión del Consejo Escolar del año académico en curso.
+58. Cuando un instituto decida modificar el horario general para el curso siguiente, el Equipo directivo elaborará, durante el último trimestre del curso, el nuevo horario general y lo trasladará al Claustro de Profesores y al Consejo escolar para su informe antes de su aprobación.
 
 59. El horario general del instituto que apruebe el Consejo Escolar deberá especificar:
 
@@ -23,3 +23,7 @@ c) Las horas y condiciones en las que estarán disponibles para los alumnos cada
 64. En el caso de que dichos horarios no permitan esta disponibilidad, el Director provincial instará al Director del instituto para que adopte las medidas oportunas que garanticen la distribución adecuada de los horarios del personal de Administración y Servicios. Las modificaciones pertinentes habrán de introducirse en el horario general y la jornada escolar antes del comienzo de las actividades lectivas.
 
 65. Cuando se produzcan necesidades urgentes de escolarización que exijan el establecimiento de unos horarios específicos, la Dirección Provincial se lo comunicará al Director del instituto con objeto de que el horario general del centro se adapte a esta circunstancia.
+
+> Se modifica el apartado 58 por el apartado único.7 de la Orden ECD/3388/2003, de 27 de noviembre. Ref. BOE-A-2003-22245.
+
+> Esta modificación es de aplicación desde el curso académico 2003-2004.
