@@ -23,7 +23,6 @@
 | Lino oleaginoso: |  |  |  |  |  |  |
 | Semilla de base | – | 2 años | 10 m. | 3/1.000 | – | – |
 | Semilla certificada (R–1 y R–2) | 2 Ha. | 2 años | 0,5 m. | 20/1.000 | – | – |
-| Semilla certificada (R–3) | 2 Ha. | 2 años | 0,5 m. | 25/1.000 | – | – |
 | Mostaza negra y de la China: |  |  |  |  |  |  |
 | Semilla de base | – | 3 años (2) | 400 m. (3) | 1/30 m2 | 1/100 m2 (4) | 50 Ha. |
 | Semilla certificada | 5 Ha. | 3 años (2) | 200 m. (3) | 1/10 m2 | 4/100 m2 (4) | 500 Ha. |
@@ -62,5 +61,7 @@ Los Organismos oficiales de control podrán diferir la aceptación o anulación 
 5.ª Plantas infectadas.–Se considerarán aquellas enfermedades que se transmiten por semilla o que dañen a ésta directa o indirectamente de forma apreciable. La presencia ?de plantas atacadas por estas enfermedades podrá ser objeto de rechace del campo.
 
 En especial y en producción de semilla de girasol se rechazará toda parcela en que aparezca alguna planta atacada por «Plasmopara sp. (mildiu)» o que esté situada a menos de 1.000 metros de un foco localizado de mildiu.
+
+> Se modifica por el apartado 3 de la Orden de 13 de octubre de 1987. Ref. BOE-A-1987-24513.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 13, de 15 de enero de 1987. Ref. BOE-A-1987-893
