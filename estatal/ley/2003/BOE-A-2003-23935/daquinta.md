@@ -1,0 +1,21 @@
+## Disposición adicional quinta. Mantenimiento del poder adquisitivo de las pensiones en el año 2004.
+
+Uno. Los pensionistas del sistema de la Seguridad Social y de Clases Pasivas, con pensiones causadas con anterioridad al 1 de enero de 2003 y objeto de revalorización en dicho ejercicio y que no se correspondan con las enumeradas en el párrafo quinto de este mismo apartado, recibirán, antes de 1 de abril de 2004 y en un único pago, una cantidad equivalente a la diferencia entre la pensión percibida en 2003 y la que hubiere correspondido de haber aplicado al importe de la pensión vigente a 31 de diciembre de 2002 el incremento real experimentado por el IPC en el período noviembre 2002 a noviembre de 2003.
+
+A estos efectos, el límite de pensión pública durante el 2003 será el equivalente a incrementar la cuantía de dicho límite a 31 de diciembre de 2002 en el porcentaje indicado en el párrafo anterior.
+
+Lo previsto en el párrafo primero será igualmente de aplicación a los pensionistas del sistema de la Seguridad Social y de Clases Pasivas, con pensiones causadas durante 2003, y que no se correspondan con las enumeradas en el párrafo quinto de este mismo apartado, que hubieran percibido la cuantía correspondiente a pensiones mínimas, pensiones no contributivas o pensiones limitadas por la cuantía del límite máximo de percepción de las pensiones públicas fijado para el citado año. De igual modo, será de aplicación a los beneficiarios en dicho ejercicio de las prestaciones de la Seguridad Social por hijo a cargo con dieciocho o más años de edad y un grado de minusvalía igual o superior al 65 por ciento, del subsidio de movilidad y compensación para gastos de transporte o de las ayudas sociales por el virus de inmunodeficiencia humana (VIH).
+
+Asimismo, serán de aplicación las reglas precedentes respecto de las pensiones de Clases Pasivas, con fecha inicial de abono durante 2003, para cuya determinación se hubieran tenido en cuenta haberes reguladores susceptibles de actualización en el mencionado ejercicio.
+
+Los pensionistas perceptores durante el año 2003 de pensiones mínimas de jubilación para titulares con menos de 65 años, con o sin cónyuge a cargo, de viudedad con menos de 65 años, de orfandad o en favor de familiares, así como de pensiones del Seguro Obligatorio de Vejez o Invalidez (SOVI) no concurrentes, recibirán, antes de 1 de abril de 2004 y en un único pago, una cantidad equivalente a la diferencia entre la pensión percibida en el año 2003 y la que hubiera correspondido de aumentar la cuantía percibida con el incremento real experimentado por el IPC en el período noviembre de 2002 a noviembre de 2003, una vez deducida de la misma un 2 por ciento.
+
+Dos. El porcentaje de revalorización establecido en el título IV de esta ley para las pensiones del sistema de la Seguridad Social y de Clases Pasivas se aplicará sobre la cuantía de la pensión vigente a 31 de diciembre de 2002, incrementada en el porcentaje que resulte de lo expresado en el párrafo primero del apartado uno de la presente disposición.
+
+Tres. De igual forma, para la determinación inicial de las pensiones de Clases Pasivas con fecha de efectos económicos de 2003, los valores consignados en la Ley 52/2002, de 30 de diciembre, de Presupuestos Generales del Estado para 2003, adaptarán sus importes, cuando así proceda, a la desviación al alza experimentada por el IPC en el período noviembre de 2002 a noviembre de 2003.
+
+Cuatro. Las pensiones de jubilación o retiro y de viudedad del Régimen de Clases Pasivas del Estado, causadas antes de 1 de enero de 2004 al amparo de la legislación vigente a 31 de diciembre de 1984, experimentarán un incremento adicional del 1 por ciento y del 2 por ciento, respectivamente, una vez aplicadas las previsiones contenidas en los apartados dos o tres, según proceda, de la presente disposición.
+
+Cuando tales pensiones se causen durante el año 2004, la cuantía inicial que corresponda, de acuerdo con las bases reguladoras establecidas en el artículo 36.Dos de esta ley, se corregirá mediante la aplicación del incremento establecido en el párrafo anterior.
+
+Cinco. Se faculta al Gobierno para dictar las normas necesarias para la aplicación de las previsiones contenidas en la presente disposición.

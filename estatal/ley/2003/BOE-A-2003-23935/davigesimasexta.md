@@ -1,0 +1,5 @@
+## Disposición adicional vigésima sexta. Compensación por posibles pérdidas de ingresos para las entidades locales, derivadas de la reforma del Impuesto sobre Actividades Económicas introducida por la Ley 51/2002, de 27 de diciembre.
+
+Para el cálculo de la compensación aprobada mediante la disposición adicional décima de la Ley 51/2002, de 27 de diciembre, en el supuesto de que se produzca una reducción sustancial en los porcentajes de recaudación obtenida en el año 2003, y previa audiencia de la entidad local, se podrá aplicar, sobre el montante de los derechos liquidados en aquel ejercicio, el porcentaje de recaudación que, por el Impuesto sobre Actividades Económicas, hubiere obtenido aquélla en el último ejercicio conocido por la Dirección General de Fondos Comunitarios y Financiación Territorial.
+
+Se considerará reducción sustancial en los porcentajes de recaudación sobre los derechos liquidados, correspondientes al ejercicio 2003 para cada entidad local, la diferencia superior en más de 10 puntos porcentuales en relación con el ejercicio de referencia definido en el párrafo anterior.
