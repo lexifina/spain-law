@@ -6,11 +6,9 @@ a) Los productos fitosanitarios, en el Registro Oficial de Productos y Material 
 
 b) Los plaguicidas de uso ganadero, en el Registro de productos Zoosanitarios de la Dirección General de la Producción Agraria de conformidad con el Real Decreto 163/1981, de 23 de enero.
 
-c) Los plaguicidas para uso en la industria alimentaria, en el Registro General Sanitario de Alimentos de la Dirección General de Salud Pública.
+c) Los plaguicidas para uso en la industria alimentaria y los plaguicidas de uso ambiental, en el Registro de Plaguicidas de la Dirección General de Salud Pública.
 
-d) Los plaguicidas de uso ambiental en su Registro de la Dirección General de Salud Alimentaria y Protección de los Consumidores.
-
-e) Los plaguicidas de uso en higiene personal y los desinfectantes de material clínico y farmacéutico y de ambientes quirúrgicos en el correspondiente Registro de la Dirección General de Farmacia y Productos Sanitarios.
+d) Los plaguicidas de uso en higiene personal y los desinfectantes de material clínico y farmacéutico y de ambientes clínicos y quirúrgicos en el correspondiente Registro de la Dirección General de Farmacia y Productos Sanitarios.
 
 4.2 Para la inscripción de los plaguicidas en sus respectivos Registros, sus aspectos de peligrosidad para las personas deberán ser homologados por la Dirección General de Salud Alimentaria y Protección de los Consumidores que, a petición del organismo responsable del Registro Oficial correspondiente, determinará:
 
@@ -37,6 +35,14 @@ e) La capacidad máxima de los envases, en caso de que aquélla se considere fac
 4.5 A efectos de su control oficial, las fábricas de plaguicidas, los locales en que se almacenen o comercialicen plaguicidas y las instalaciones destinadas a realizar tratamientos con los mismos, así como los aplicadores y las empresas de tratamientos con plaguicidas, deberán estar inscritos en el Registro Oficial de Establecimientos y Servicios Plaguicidas, del que existirá una oficina en cada provincia, que comprenderá el anterior denominado Registro Oficial de Productores y Distribuidores de Productos y Material Fitosanitario, así como lo relativo a los restantes plaguicidas comprendidos en la presente Reglamentación. Los Ministerios de Agricultura, Pesca y Alimentación y de Sanidad y Consumo establecerán conjuntamente las normas de inscripción y funcionamiento de dicho Registro.
 
 4.6 A los efectos de este artículo, la Dirección General de Farmacia y Productos Sanitarios realizará las determinaciones y controles necesarios respecto a los plaguicidas de uso en higiene personal y los desinfectantes de material clínico y farmacéutico y de ambientes quirúrgicos.
+
+4.7 Sin perjuicio de las especificidades señaladas en los dos párrafos siguientes, la tramitación de los expedientes de homologación y registro se regirá por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Por los Ministerios competentes se determinarán, mediante disposiciones de desarrollo de la presente Reglamentación, los documentos a presentar por los solicitantes. Igualmente, las Direcciones Generales competentes establecerán los modelos y sistemas normalizados de solicitudes correspondientes.
+
+Los expedientes de solicitud de homologación y registro deberán ser resueltos en el plazo máximo de dieciocho meses. Transcurrido el plazo para la resolución, podrán entenderse desestimadas las solicitudes correspondientes.
+
+> Se modifica por el art. único.1 a 3 del Real Decreto 443/1994, de 11 de marzo. Ref. BOE-A-1994-7329.
 
 > Se modifica por el art. único.3 del Real Decreto 162/1991, de 8 de febrero. Ref. BOE-A-1991-4002.
 

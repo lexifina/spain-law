@@ -14,7 +14,7 @@ b) Los de preparados, y demás productos directamente utilizables como plaguicid
 
 a) El nombre comercial o denominación del producto.
 
-b) El número de inscripción en el Registro Oficial correspondiente y el nombre y dirección del titular de la inscripción, responsable de su puesta en el mercado.
+b) El número de inscripción en el Registro Oficial correspondiente y el nombre y dirección del titular de la inscripción, y si se tratara de otra persona, incluirá, además, el nombre y dirección del responsable de su comercialización.
 
 c) Los nombres comunes, y contenidos respectivos, de los ingredientes activos, expresados en:
 
@@ -68,5 +68,7 @@ Cada símbolo o pictograma deberá ocupar, al menos, una décima parte de la sup
 a) Los envases cuyas reducidas dimensiones no permitan el tamaño de etiqueta mínimo detallado en el apartado 5.
 
 b) Los envases que contengan cantidades de plaguicidas no clasificados como muy tóxicos o tóxicos, tan pequeñas que no presenten peligro para los usuarios. En cualquiera de los casos deberá existir doble envase y la etiqueta del envase interior deberá contener, como mínimo, la información especificada en los puntos a), b), c), g) y h) del apartado 3 del artículo 9.º, figurando el resto de la información en la etiqueta del envase exterior o en un prospecto que lo acompaña.
+
+> Se modifica el apartado 3.b) por el art. único.4 del Real Decreto 443/1994, de 11 de marzo. Ref. BOE-A-1994-7329.
 
 > Se modifica por el art. único.5 del Real Decreto 162/1991, de 8 de febrero. Ref. BOE-A-1991-4002.
