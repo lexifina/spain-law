@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Régimen de funcionamiento.
+
+Hasta tanto no se aprueben los Estatutos de la Universidad de La Rioja, el Ministerio de Educación y Ciencia ejercerá, respecto a ésta, las competencias que la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, atribuye a las Universidades, pudiendo asimismo recabar el conocimiento de cuantos asuntos considere oportunos o delegar competencias en la referida Universidad; todo ello sin perjuicio de las que se asignan a los órganos creados en la presente Ley y de las que resulten de la normativa singular a que se refiere la disposición transitoria tercera.
