@@ -1,3 +1,5 @@
 ## Disposición transitoria tercera.
 
-En relación con las Denominaciones de Origen Calificadas, el artículo 19, 1, b), en lo que respecta exclusivamente a la comercialización en el mercado distinto del nacional será de aplicación, una vez cumplidos cinco años, contados a partir de la publicación del presente Real Decreto.
+(Derogada)
+
+> Se deroga por el art. único.3 del Real Decreto 1906/1995, de 24 de noviembre. Ref. BOE-A-1995-27259.

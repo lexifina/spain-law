@@ -1,3 +1,5 @@
 ## Disposición transitoria primera.
 
-El tipo de envases de madera y la capacidad máxima que se fijan en el apartado 2.a) del artículo 8.º del Real Decreto, no será de aplicación hasta que hayan transcurrido cinco años desde su publicación para las Denominaciones de Origen reglamentadas en cuyo texto no figure obligación.
+(Derogada)
+
+> Se deroga por el art. único.3 del Real Decreto 1906/1995, de 24 de noviembre. Ref. BOE-A-1995-27259.
