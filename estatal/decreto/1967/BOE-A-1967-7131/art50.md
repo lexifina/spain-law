@@ -1,5 +1,5 @@
 ## Art. 50.
 
-Contra la decisión del Jurado a que se refiere el artículo anterior sólo cabrá recurso ante un Jurado de Apelación, designado por el Ministro de Información y Turismo y compuesto. Como Presidente, por un Magistrado del Tribunal Supremo, nombrado a propuesta del Ministro de Justicia, y como Vocales, por un miembro de la Federación Nacional de las Asociaciones de la Prensa en quien concurra la condición de Periodista de Honor, propuesto por dicha Federación y por un representante del Ministerio de Información y Turismo, que deberá ser funcionario del mismo, con una antigüedad mínima de diez años de servicio.
+Contra la decisión del Jurado a que se refiere el artículo anterior sólo cabrá recurso ante un Jurado de Apelación, designado asimismo por el Ministro de Información y Turismo y compuesto como Presidente por un Magistrado del Tribunal Supremo, nombrado a propuesta del Ministro de Justicia, y como Vocales, por dos miembros de la Federación Nacional de Asociaciones de la Prensa de España en quienes concurra la condición de Periodista de honor, propuestos por dicha Federación.
 
-Ambos Jurados serán únicos para todo el territorio nacional y tendrán su sede en Madrid.
+> Se modifica por el art. 1 del Decreto 900/1972, de 16 de marzo. Ref. BOE-A-1972-572.
