@@ -1,0 +1,3 @@
+## Apartado único. Ampliación de la Orden Ministerial de 26 de julio de 1994, que regula los ficheros con datos de carácter personal gestionados por el Ministerio del Interior.
+
+Se amplía el anexo de la Orden de 26 de julio de 1994, que regula los ficheros con datos de carácter personal gestionados por el Ministerio del Interior, incorporando al mismo un fichero para el tratamiento de la información enviada por las instalaciones hoteleras a la Guardia Civil, en la prevención e investigación del terrorismo y de otras formas graves de delincuencia organizada, ubicado en los sistemas informáticos de la Dirección General de la Guardia Civil y descrito en el anexo a la presente Orden.
