@@ -1,0 +1,3 @@
+## Disposición transitoria única.
+
+Los productos comprendidos dentro del ámbito de aplicación de la Reglamentación técnico-sanitaria, que se aprueba por la presente disposición, podrán seguir elaborándose y comercializándose de conformidad con el Real Decreto 1456/1981, de 10 de abril, por el que se aprueba la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de la cerveza, modificada por los Reales Decretos 865/1984, de 28 de marzo, y 887/1988, de 29 de julio, que se derogan, durante dieciocho meses contados a partir de la entrada en vigor del presente Real Decreto.
