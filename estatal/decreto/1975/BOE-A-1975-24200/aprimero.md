@@ -1,0 +1,3 @@
+## Artículo primero.
+
+Se crea el Instituto Nacional del Consumo como servicio público centralizado, adscrito al Ministerio de Comercio, que, ejerciendo funciones eminentemente técnicas, tendrá como objetivo la realización de acciones destinadas a mejorar e impulsar la información y formación del consumidor, con el objeto de proporcionarle un mayor conocimiento del mercado sin perjuicio de las funciones que al respecto tiene atribuidas la Administración y sus Organismos, de quien podrá recabar cuanta información precise. El Instituto se regirá por la vigente legislación sobre Entidades Estatales autónomas y por las disposiciones contenidas en el presente Decreto.
