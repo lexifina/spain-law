@@ -11,6 +11,8 @@
 | Enfermedad hemorrágica epizoótica de los ciervos | 40 días |
 | Viruela ovina y caprina | 21 días |
 | Estomatitis vesicular | 21 días |
-| Enfermedad de Teschen | 40 días |
+| Peste porcina africana | 40 días |
 | Dermatosis nodular contagiosa | 28 días |
 | Fiebre del Valle del Rift | 30 días |
+
+> Se modifica por la disposición final 2 del Real Decreto 546/2003, de 23 de mayo. Ref. BOE-A-2003-10388

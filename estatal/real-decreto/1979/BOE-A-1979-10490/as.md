@@ -1,7 +1,5 @@
 ## Artículo segundo.
 
-Uno. Por las especiales características que reúnen las diferentes áreas del territorio nacional, se podrán declarar y delimitar zonas libres de peste porcina africana, entendiéndose por tales las que en los últimos seis meses no hayan registrado incidencia de la enfermedad y se encuentren sometidas a control zoosanitario especial.
+(Derogado)
 
-Dos. Los mataderos e industrias cárnicas situados en zonas libres de peste porcina africana, y que deseen exportar loe Productos en ellas fabricados, lo solicitarán de la Dirección General de la Producción Agraria, la que podrá autorizarlas, a la vista de los informes de la Jefatura Provincial de Producción Animal de las Delegaciones de Agricultura y de la Inspección Regional de Sanidad Pecuaria correspondientes. Los cerdos que se sacrifiquen para fabricar estos productos procederán de zonas libres de peste porcina africana y se tomarán muestras de todos los cerdos sacrificados para su investigación laboratorial. Los mataderos e industrias cárnicas a los efectos de la exportación llevarán un Libro de Registro Especial del ganado porcino recibido, sacrificado e industrializado.
-
-Tres. Por el Ministerio de Agricultura se dictarán las normas pertinentes para designar dentro de las Inspecciones Regionales de Sanidad Pecuaria, Servicios Oficiales responsables del control del movimiento de los animales de esta especie y de las medidas de protección de las zonas libres, así como de la autorización especial para la posible exportación de tales productos.
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 546/2003, de 9 de mayo. Ref. BOE-A-2003-10388.

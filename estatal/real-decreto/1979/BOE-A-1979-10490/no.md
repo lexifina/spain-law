@@ -1,0 +1,1 @@
+Quedan derogadas las normas relativas a la peste porcina africana, en cuanto se opongan, por la disposición derogatoria única.a) del Real Decreto 546/2003, de 9 de mayo. Ref. BOE-A-2003-10388#ddunica.
