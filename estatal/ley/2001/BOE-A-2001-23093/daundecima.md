@@ -1,0 +1,3 @@
+## Disposición adicional undécima. Prestación de servicios de información por medio de redes de comunicación telemática.
+
+La Oficina Española de Patentes y Marcas, en colaboración con las Comunidades Autónomas, podrá poner a disposición a través de redes de comunicación telemática con carácter gratuito el "Boletín Oficial de la Propiedad Industrial", así como información sobre la situación jurídica de los expedientes, sobre identidades y parecidos entre signos distintivos, sobre patentes, modelos de utilidad y diseño industrial, sobre el archivo histórico y, en general, sobre aspectos relacionados con la propiedad industrial cuya divulgación se estime conveniente por razones de información tecnológica, difusión de la propiedad industrial u otra justificada.

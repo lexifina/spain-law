@@ -1,7 +1,7 @@
 ## Artículo quinto.
 
-I. El Director del Registro de la Propiedad Industrial será el ejecutor de las directrices marcadas por el Consejo de Dirección y ostentará las facultades efectivas de dirección y gestión de los servicios; tendrá a su cargo la vigilancia y fiscalización de todas las dependencias del Organismo; resolverá los asuntos propios de la competencia del mismo, y sus resoluciones en las materias que regula el Estatuto de la Propiedad Industrial pondrán fin a la vía administrativa, salvo los casos en que procedan los recursos extraordinarios de revisión previstos en el mismo texto legal. A tal fin, las atribuciones conferidas a diversos órganos del Ministerio de Industria en el citado Estatuto se atribuyen como propias el Director del Registro, sin perjuicio de las supuestos de desconcentración o delegación de funciones que puedan acordarse.
+1. El Director de la Oficina Española de Patentes y Marcas será el ejecutor de las directrices marcadas por el Presidente del Organismo y ostentará la representación legal del Organismo y las facultades efectivas de dirección y gestión de los servicios ; tendrá a su cargo la vigilancia y fiscalización de todas las dependencias del Organismo ; resolverá los asuntos propios de la competencia del mismo, y sus resoluciones en las materias de propiedad industrial de las que sea competente pondrán fin a la vía administrativa.
 
-II. El nombramiento del Director del Registro de la Propiedad Industrial se efectuará por Decreto, a propuesta del Ministro de Industria. El Director tendrá la condición de Vocal nato del Consejo de Dirección.
+2. El nombramiento del Director de la Oficina Española de Patentes y Marcas se efectuará por Real Decreto a propuesta del Ministro del Departamento de adscripción del Organismo.
 
-El Reglamento determinará los requisitos de idoneidad que deba reunir el designado.
+> Se modifica por la disposición adicional 13.3 de la Ley 17/2001, de 7 de diciembre. Ref. BOE-A-2001-23093.
