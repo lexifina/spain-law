@@ -22,6 +22,10 @@ i) La percepción del sueldo que por su categoría en el Escalafón le correspon
 
 j) El ejercicio, por escrito, ante el Rector o el Ministro, en su caso, por conducto de aquél, del derecho de petición o queja en asuntos académicos.
 
+> Téngase en cuenta que este artículo se deroga en la forma indicada por la disposición final 9 de la Ley 83/1965, de 17 de julio. Ref. BOE-A-1965-12496.
+
+> Se deroga en la forma indicada por la disposición final 9 de la Ley 83/1965, de 17 de julio. Ref. BOE-A-1965-12496.
+
 > Se modifica el último inciso de la letra e) por el art. 2 de la Ley de 16 de diciembre de 1954. Ref. BOE-A-1954-15533.
 
 > Se modifica la letra e) por el art. único de la Ley de 17 de julio de 1948. Ref. BOE-A-1948-7491.

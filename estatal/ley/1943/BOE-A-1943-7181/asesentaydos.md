@@ -13,3 +13,7 @@ Reglamentariamente se determinarán los demás trámites e informes de carácter
 En el ejercicio de sus funciones, serán aplicables a los Profesores adjuntos los mismos preceptos que al Profesorado numerario en cuanto a prestación de juramento, uso del traje académico, residencia, labor docente, permisos, disciplina, pruebas y derechos de petición.
 
 Percibirán como emolumentos la gratificación que en sus nombramientos se les asigne, la cual deberá consignarse en el Presupuesto del Ministerio de Educación Nacional.
+
+> Téngase en cuenta que este artículo se deroga en la forma indicada por la disposición final 9 de la Ley 83/1965, de 17 de julio. Ref. BOE-A-1965-12496.
+
+> Se deroga en la forma indicada por la disposición final 9 de la Ley 83/1965, de 17 de julio. Ref. BOE-A-1965-12496.

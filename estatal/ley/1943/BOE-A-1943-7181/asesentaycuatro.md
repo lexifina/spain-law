@@ -6,4 +6,6 @@ El candidato propuesto habrá de estar investido del título de Doctor y acredit
 
 La propuesta se hará con amplia motivación y alegación de méritos, y, en caso de nombramiento, percibirá la gratificación que se le asigne.
 
-Asimismo podrán ser agregados al servicio de una Cátedra de manera permanente las personalidades profesionales pertenecientes a Centros o Instituciones públicas o privadas, que hayan sido incorporadas a la vida universitaria por precepto legal. Estos Profesores agregados podrán ser Licenciados o Doctores.
+Asimismo podrán ser agregados al servicio de una Cátedra de manera permanente las personalidades profesionales pertenecientes a Centros o Instituciones públicas o privadas, que hayan sido incorporadas a la vida universitaria por precepto legal. Estos Profesores extraordinarios podrán ser Licenciados o Doctores.
+
+> Se modifica por la disposición final 7 de la Ley 83/1965, de 17 de julio. Ref. BOE-A-1965-12496.
