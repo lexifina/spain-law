@@ -4,4 +4,6 @@ Serán aplicables al Fiscal General del Estado las incompatibilidades establecid
 
 Su régimen retributivo será idéntico al del presidente del Tribunal Supremo.
 
-Si el nombramiento de Fiscal General recayese sobre un miembro de la Carrera Fiscal quedará en Situación de excedencia especial.
+Si el nombramiento de Fiscal General recayese sobre un miembro de la Carrera Fiscal quedará en Situación de servicios especiales.
+
+> Se modifica el último párrafo por la disposición adicional 2.2 de la Ley 5/1988, de 24 de marzo. Ref. BOE-A-1988-8175
