@@ -1,6 +1,6 @@
 ## Artículo veintinueve. Situaciones de los funcionarios.
 
-1. Quedan suprimidas las situaciones administrativas de excedencia especial y de supernumerario, creándose la de servicios especiales.
+1. Quedan suprimidas las situaciones administrativas de excedencia especial y de supernumerario, creándose la de servicios especiales y la de excedencia para el cuidado de hijos.
 
 2. Servicios especiales.
 
@@ -40,12 +40,18 @@ Los Diputados, Senadores y los miembros de las Asambleas Legislativas de las Com
 
 a) Procederá declarar en situación de excedencia voluntaria a los funcionarios públicos cuando se encuentren en situación de servicio activo en otro Cuerpo o Escala de cualquiera de las Administraciones Públicas, o pasen a prestar servicios en Organismos o Entidades del sector público y no les corresponda quedar en otra situación.
 
-b) Los funcionarios tendrán derecho a un período de excedencia voluntaria, no superior a tres años, para atender al cuidado de cada hijo a contar desde la fecha de nacimiento de éste. Los sucesivos hijos darán derecho a un nuevo período de excedencia que, en su caso, pondrá fin al que se viniera disfrutando. Cuando el padre y la madre trabajen, sólo uno de ellos podrá ejercitar este derecho.
+b) (Suprimida)
 
 c) Podrá concederse igualmente la excedencia voluntaria a los funcionarios cuando lo soliciten por interés particular.
 
 La situación prevista en este apartado c) no podrá declararse hasta haber completado tres años de servicios efectivos desde que se accedió al Cuerpo o Escala o desde el reingreso, y en ella no se podrá permanecer más de diez años continuados ni menos de dos años.
 
 Los funcionarios excedentes no devengarán retribuciones, ni les será computable el tiempo permanecido en tal situación a efectos de ascensos, trienios y derechos pasivos.
+
+4. Excedencia para el cuidado de hijos.
+
+Los funcionarios tendrán derecho a un período de excedencia, no superior a tres años, para atender el cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción, a contar desde la fecha del nacimiento de éste. Los sucesivos hijos darán derecho a un nuevo período de excedencia que, en su caso, pondrá fin al que se viniera disfrutando. Cuando el padre y la madre trabajen, sólo uno de ellos podrá ejercitar este derecho. Durante el primer año de duración de cada período de excedencia, los funcionarios en esta situación tendrán derecho a la reserva del puesto de trabajo y a su cómputo a efectos de trienios, consolidación del grado personal y derechos pasivos.
+
+> Se modifica el apartado 1, se añade el 4 y se suprime el 3.b) por el art. 2.1, 2 y la disposición final 3 de la Ley 3/1989, de 3 de marzo. Ref. BOE-A-1989-5272
 
 > Se declara la inconstitucionalidad y nulidad del apartado 2.l) por Sentencia del TC 99/1987, de 11 de junio. Ref. BOE-T-1987-14852
