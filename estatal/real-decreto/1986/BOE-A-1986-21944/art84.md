@@ -1,7 +1,7 @@
 ## Art. 84.
 
-1. Los resultados numéricos de la renovación padronal o de sus rectificaciones anuales podrán ser objeto de reparos y de comprobaciones.
+El Consejo de Empadronamiento, adscrito al Ministerio de Economía y Hacienda, es un órgano colegiado de colaboración entre la Administración General del Estado y los Entes locales en materia padronal.
 
-2. Los reparos serán formulados por el Instituto Nacional de Estadística y, una vez subsanados, dará su conformidad a las cifras de población de cada municipio.
+El Consejo de Empadronamiento tiene carácter nacional y dispone de Secciones Provinciales para conseguir una mayor agilidad en su funcionamiento.
 
-3. Las comprobaciones se ordenarán por el Director general del Instituto Nacional de Estadística, cuando haya indicios racionales de inexactitud en las cifras obtenidas. Si se confirma esta inexactitud, los gastos de comprobación serán de cuenta de los Ayuntamientos.
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

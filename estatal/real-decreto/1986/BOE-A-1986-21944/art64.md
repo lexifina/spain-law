@@ -1,5 +1,7 @@
 ## Art. 64.
 
-La obligación de empadronarse comprenderá a todos los que viven habitualmente en el término municipal, al tiempo de renovarse el Padrón de habitantes, así como a los que, en cualquier tiempo, cambien de residencia.
+Las comunicaciones de datos mencionadas en el artículo anterior podrán ser canalizadas a través del Instituto Nacional de Estadística.
 
-Esta obligación corresponde a los padres o tutores respecto de los menores o incapacitados que con ellos vivan o, en otro caso, a los residentes mayores de edad con los que habiten.
+Siempre que sea posible, todas las comunicaciones interadministrativas se llevarán a cabo por medios informáticos o telemáticos, respetando las instrucciones normalizadoras sobre tratamiento de la información que se dicten al efecto.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

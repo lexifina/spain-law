@@ -1,5 +1,11 @@
 ## Art. 55.
 
-Los transeúntes podrán inscribirse como tales en el Padrón Municipal, solicitándolo expresamente y siempre que existan circunstancias de permanencia prolongada o de desplazamiento periódico al municipio, por razones de estudio, trabajo, disposición de segunda vivienda, convivencia con familiares u otras análogas. En este caso no se precisa la presentación del certificado de baja a que se refiere el artículo 56, 1, a).
+1. Son vecinos del municipio las personas que residiendo habitualmente en el mismo, en los términos establecidos en el artículo 54.1 de este Reglamento, se encuentran inscritos en el padrón municipal.
 
-Si deja de existir la circunstancia que motivó la inscripción en el Padrón como transeúnte deberá comunicarse al Ayuntamiento, a los efectos de la correspondiente baja.
+La adquisición de la condición de vecino se produce desde el mismo momento de su inscripción en el padrón.
+
+2. Sólo se puede ser vecino de un municipio.
+
+3. El conjunto de vecinos constituye la población del municipio.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

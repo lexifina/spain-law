@@ -1,13 +1,9 @@
 ## Art. 54.
 
-1. Serán residentes en el municipio:
+1. Toda persona que viva en España está obligada a inscribirse en el padrón del municipio en el que resida habitualmente. Quien viva en varios municipios deberá inscribirse únicamente en el que habite durante más tiempo al año.
 
-a) Los españoles y extranjeros que, residiendo habitualmente en el término, se hayan inscrito con tal carácter, estén presentes o ausentes, en la renovación quinquenal del Padrón Municipal.
+2. Los menores de edad no emancipados y los mayores incapacitados tendrán la misma vecindad que los padres que tengan su guarda o custodia o, en su defecto, de sus representantes legales, salvo autorización por escrito de éstos para residir en otro municipio. En todo caso, respecto a los mayores incapacitados se estará a lo dispuesto en la legislación civil.
 
-b) Los españoles y extranjeros que habiendo solicitado adquirir la residencia, conforme se establece en el artículo 56, se encuentren inscritos en el Padrón.
+3. La inscripción en el padrón municipal de personas que residiendo en el municipio carezcan de domicilio en el mismo sólo se podrá llevar a cabo después de haber puesto el hecho en conocimiento de los servicios sociales competentes en el ámbito geográfico donde esa persona resida.
 
-c) Los españoles y extranjeros que, llevando más de dos años habitando en el término municipal, sean inscritos, de oficio, en el Padrón, por resolución del Alcalde.
-
-2. El menor de edad no emancipado y el mayor incapacitado seguirán en su residencia a los padres que ostenten la patria potestad o, en su defecto, a sus representantes legales, salvo autorización expresa y escrita de los mismos para residir en otro municipio.
-
-3. En todo caso, respecto a los mayores incapacitados, se estará a lo dispuesto en la legislación civil.
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

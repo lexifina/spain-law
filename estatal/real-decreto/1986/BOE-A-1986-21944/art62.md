@@ -1,7 +1,7 @@
 ## Art. 62.
 
-1. El Padrón Municipal, documento público y fehaciente para todos los efectos administrativos, es la relación de los residentes y de los transeúntes inscritos en el término municipal.
+1. Los Ayuntamientos realizarán las actuaciones y operaciones necesarias para mantener actualizados sus padrones de modo que los datos contenidos en éstos concuerden con la realidad.
 
-2. Sus datos constituirán prueba plena de la residencia y clasificación vecinal de los habitantes de cada término, y se acreditarán por medio de certificaciones expedidas por el Secretario del Ayuntamiento.
+2. Si un Ayuntamiento no llevare a cabo dichas actuaciones, el Instituto Nacional de Estadística, previo informe del Consejo de Empadronamiento, podrá acudir a la ejecución sustitutoria prevista en el artículo 60 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, sin perjuicio de los recursos jurisdiccionales que procedan.
 
-3. Solamente tendrán el carácter de residentes, vecinos y domiciliados, de cada municipio, los que como tales aparezcan inscritos en el Padrón.
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

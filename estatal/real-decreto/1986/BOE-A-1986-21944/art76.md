@@ -1,5 +1,5 @@
 ## Art. 76.
 
-1. Una vez recibidos en el Instituto Nacional de Estadística los resúmenes numéricos, se procederá por éste a comprobar el cumplimiento de las instrucciones y directrices técnicas a que se refiere el artículo 67.2 de este Reglamento y comunicará a cada Ayuntamiento su conformidad o los reparos pertinentes sobre las cifras de población de cada municipio.
+Los Ayuntamientos revisarán, al menos una vez al año, la relación de entidades y núcleos de población y la división en secciones del término municipal, de acuerdo con las definiciones e instrucciones que establezcan las disposiciones legales que regulen estas materias y las remitirán al Instituto Nacional de Estadística para su comprobación.
 
-2. Para el otorgamiento de su confomidad, el Instituto Nacional de Estadística podrá realizar las comprobaciones que estime oportunas sobre las hojas de inscripción padronal o sobre el terreno.
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

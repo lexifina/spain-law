@@ -1,3 +1,7 @@
 ## Art. 73.
 
-Para que tengan validez las inscripciones de los residentes ausentes en las renovaciones quinquenales del Padrón, será necesario que la persona principal de la familia, u otro miembro de la familia que lo represente, firme la hoja de inscripción padronal, bien en el propio municipio si en él se encontrase, o en el que se encuentre accidentalmente, remitiéndola al Ayuntamiento de su residencia, ya sea directamente o por medio del de su estancia accidental.
+Los Ayuntamientos declararán de oficio la inscripción en su padrón como vecinos a las personas que vivan habitualmente en su término municipal y no figuren inscritos en el mismo.
+
+Para decretar este tipo de alta será necesaria la instrucción de un expediente en el que se dé audiencia al interesado. Si el interesado acepta expresamente el alta de oficio, su declaración escrita implicará la baja automática en el padrón en el que hubiera estado inscrito hasta entonces. En caso contrario, el alta de oficio sólo podrá llevarse a cabo con el informe favorable del Consejo de Empadronamiento.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

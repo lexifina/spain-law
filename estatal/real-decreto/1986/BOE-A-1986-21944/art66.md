@@ -1,7 +1,7 @@
 ## Art. 66.
 
-1. La formación, renovación, mantenimiento y rectificación del Padrón Municipal de Habitantes corresponde a los Ayuntamientos.
+Con la misma periodicidad y por el mismo procedimiento mencionados en el artículo anterior, el Instituto Nacional de Estadística comunicará a los Ayuntamientos las discrepancias detectadas en los datos de sus padrones municipales, con el fin de que introduzcan las modificaciones pertinentes.
 
-2. El Padrón se renovará cada cinco años, rectificándose anualmente.
+Análogamente, la Oficina del Censo Electoral comunicará a los Ayuntamientos las variaciones en el Censo Electoral realizadas al amparo de la legislación vigente, para que introduzcan en su padrón municipal las modificaciones pertinentes, a fin de que en todo momento exista la necesaria concordancia entre los datos del padrón municipal y del censo electoral.
 
-En los años terminados en 1, la fecha de renovación coincidirá con la señalada para la de los censos de población y vivienda. En los años terminados en 6, la fecha de su renovación será la que se señale por Real Decreto entre el 1 de marzo y el 31 de mayo.
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

@@ -1,13 +1,23 @@
 ## Art. 56.
 
-1. Toda persona que cambie de residencia dentro del territorio español está obligada:
+1. La condición de vecino confiere los siguientes derechos y deberes:
 
-a) A solicitar del Ayuntamiento en cuyo Padrón se encuentre inscrito como residente la baja como tal. La solicitud se formulará en el impreso oficial que se establezca, consignándose siempre el nombre del municipio en el que se vaya a residir.
+a) Ser elector y elegible en los términos establecidos en la legislación electoral.
 
-Recibida la solicitud por el Ayuntamiento, se acordará la baja en el Padrón Municipal y se expedirá certificado expresivo de dicha baja, consignándose en el mismo el municipio elegido por el solicitante para residir. Este certificado será entregado al solicitante.
+b) Participar en la gestión municipal de acuerdo con lo dispuesto en las leyes.
 
-b) A solicitar el alta como residente en el nuevo municipio dentro del plazo de treinta días, contados a partir de la fecha en que se otorgue la baja en el municipio de procedencia. En todo caso, a la solicitud se acompañará la certificación de baja antes indicada, expedida por el Ayuntamiento de procedencia, y se acreditará, de forma suficiente, que se reúnen los requisitos legales establecidos a este objeto.
+c) Utilizar los servicios públicos municipales en forma acorde con su naturaleza y acceder a los aprovechamientos comunales conforme a las normas aplicables.
 
-2. La solicitud de residencia antes indicada será resuelta por el Alcalde, notificándose esta resolución al interesado.
+d) Contribuir mediante las prestaciones económicas y personales legalmente previstas a la realización de las competencias municipales.
 
-3. La obligación concretada en este artículo corresponde a los padres o tutores, respecto de los menores o incapacitados que con ellos vivan, o, en otro caso, a los residentes mayores de edad con los que habiten.
+e) Ser informado, previa petición razonada, y dirigir solicitudes a la Administración municipal en relación con los expedientes y la documentación municipal, de acuerdo con lo previsto en el artículo 105 de la Constitución.
+
+f) Pedir consulta popular en los términos previstos en la Ley.
+
+g) Solicitar la prestación y, en su caso, el establecimiento del correspondiente servicio público, así como exigirlos en el supuesto de constituir una competencia municipal propia de carácter obligatorio.
+
+h) Aquellos otros derechos y deberes establecidos en las Leyes.
+
+2. La inscripción de los extranjeros en el padrón municipal no constituirá prueba de su residencia legal en España ni les atribuirá ningún derecho que no les confiera la legislación vigente, especialmente en materia de derechos y libertades de los extranjeros en España.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

@@ -1,5 +1,5 @@
 ## Art. 67.
 
-1. A propuesta conjunta del Ministerio de Economía y Hacienda y del Ministerio de Administración Territorial, por Real Decreto se establecerán las normas procedentes para la renovación del Padrón Municipal de Habitantes de todos los Ayuntamientos.
+Las comunicaciones a que hacen referencia los artículos 65 y 66 podrán integrarse, respectivamente, en el mismo envío.
 
-2. El Instituto Nacional de Estadística y la Dirección General de Administración Local dictarán, conjuntamente, las instrucciones y directrices de carácter técnico para la renovación, custodia y conservación del Padrón Municipal de Habitantes de todos los Ayuntamientos, así como para su rectificación anual.
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

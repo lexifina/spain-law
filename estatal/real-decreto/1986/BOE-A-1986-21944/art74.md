@@ -1,15 +1,7 @@
 ## Art. 74.
 
-1. Recogidas, comprobadas y debidamente diligenciadas las hojas de inscripción de la renovación padronal, se ordenarán y numerarán correlativamente por distritos, secciones, manzanas, calles, edificios y viviendas.
+1. Las altas y bajas padronales producidas de oficio se trasladarán, en los diez primeros días del mes siguiente, al Ayuntamiento en cuyo padrón hubieran venido figurando indebidamente o debieran figurar en el futuro, respectivamente, para su correspondiente actualización.
 
-2. A partir de las hojas de inscripción, numeradas y ordenadas se elaborarán los correspondientes resúmenes numéricos provisionales de habitantes que serán sometidos al Pleno del Ayuntamiento para su aprobación.
+2. Corresponderá al Presidente del Instituto Nacional de Estadística la resolución de las discrepancias que por este motivo surjan entre los Ayuntamientos, Diputaciones Provinciales, Cabildos y Consejos Insulares o entre estos entes y el Instituto Nacional de Estadística, previa propuesta del Consejo de Empadronamiento.
 
-3. El Padrón Municipal de Habitantes renovado está constituido por la relación de residentes presentes y ausentes deducidos de la hoja de inscripción padronal y la de transeúntes que hayan solicitado expresamente su inscripción como tales en el municipio.
-
-La expresada relación padronal podrá tener soporte informático.
-
-4. Seguidamente se abrirá en todos los municipios un período de exposición al público de un mes, al objeto de que los interesados puedan presentar ante el Alcalde las reclamaciones que estimen procedentes sobre inclusiones, exclusiones y datos de la inscripción.
-
-Dentro del período indicado, todo interesado podrá solicitar información en la correspondiente dependencia del Ayuntamiento sobre su inscripción en el Padrón, sobre el resumen numérico del mismo y también, si lo estimará, sobre la hoja de inscripción padronal por él cumplimentada, pudiendo examinar la correspondiente documentación.
-
-5. Las reclamaciones formuladas serán resueltas por el Alcalde y notificadas en forma a los interesados. Contra esta resolución podrá interponerse recurso de reposición ante el mismo, quien resolverá, previo informe del órgano de la Administración del Estado competente en materia de Estadistica.
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

@@ -1,9 +1,9 @@
 ## Art. 77.
 
-1. Cada Ayuntamiento confeccionará dos ficheros o relaciones de las personas residentes en el término municipal, de acuerdo con las hojas de inscripción padronal.
+1. Con el fin de alcanzar la concordancia del padrón municipal con la realidad, los Ayuntamientos deberán realizar sistemáticamente operaciones de muestreo y control, que deberán acentuarse en aquellos sectores susceptibles de una mayor movilidad de los habitantes.
 
-Uno de estos ficheros o relaciones será ordenado por distritos, secciones y domicilio, y el otro lo será por orden alfabético de apellidos, de acuerdo con las directrices que establezca el Instituto Nacional de Estadística.
+Periódicamente deberán llevar a cabo operaciones de campo para comprobar la verdadera situación del empadronamiento y para actualizar sus datos, con especial incidencia en las zonas donde se hayan concedido licencias municipales para nuevas urbanizaciones, nuevas construcciones, demoliciones, etc., informando de sus resultados al Instituto Nacional de Estadística.
 
-2. Con respecto a los transeúntes inscritos en el Padrón también se confeccionarán los ficheros o relaciones antes indicados, a la vista de las correspondientes solicitudes de inscripción formuladas por aquéllos.
+2. El Instituto Nacional de Estadística apoyará técnicamente a los Ayuntamientos que lo soliciten en el diseño y ejecución de las operaciones de mantenimiento y comprobación del padrón municipal.
 
-3. En los casos de ficheros mecanizados, los formatos y contenido del registro deberán cumplir las condiciones mínimas que determine el Instituto Nacional de Estadística.
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

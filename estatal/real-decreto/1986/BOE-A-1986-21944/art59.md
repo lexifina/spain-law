@@ -1,9 +1,7 @@
 ## Art. 59.
 
-Para cuanto se refiere a la administración económica y al régimen de derechos y obligaciones que de ella emanen para los residentes, los propietarios ausentes tendrán obligación de comunicar a la Alcaldía el nombre de la persona que los represente. Faltando esta comunicación tendrán la consideración de representantes de los propietarios por las fincas que labren, ocupen o administren:
+1. La hoja padronal o formulario será firmada por todos los vecinos cuyos datos figuren en la misma o, en su caso, por su representante legal.
 
-Primero.–Los administradores, apoderados o encargados de los propietarios forasteros.
+2. El Ayuntamiento podrá comprobar la veracidad de los datos consignados por los vecinos, exigiendo al efecto la presentación del documento nacional de identidad o tarjeta de residencia, el libro de familia, el título que legitime la ocupación de la vivienda u otros documentos análogos.
 
-Segundo.–En defecto de los anteriores, los colonos, arrendatarios o aparceros de las fincas rústicas, cuando sus propietarios o administradores no residieran en el término municipal.
-
-Tercero.–Los inquilinos de fincas urbanas cuando cada una de ellas estuviera arrendada a una sola persona o no residiere en la localidad el dueño, administrador o encargado.
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

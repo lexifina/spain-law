@@ -1,5 +1,9 @@
 ## Art. 79.
 
-1. Los mayores de edad, así como los menores emancipados y los padres o tutores de los menores e incapacitados, están obligados a comunicar al Ayuntamiento en el plazo de ocho días, las alteraciones que se produzcan respecto a los datos obrantes en el Padrón Municipal, como consecuencia del cambio de domicilio dentro del término municipal, a fin de que por el Ayuntamiento se efectúen las correspondientes modificaciones.
+La formación del censo de población, que constituye una competencia exclusiva del Instituto Nacional de Estadística, se apoyará en los datos de los padrones municipales, se llevará a cabo prestando los Ayuntamientos la colaboración que el Instituto Nacional de Estadística le solicite, y servirá para controlar la precisión de los datos padronales y, en su caso, para introducir en ellos las rectificaciones pertinentes.
 
-2. La actualización del Padrón Municipal, como consecuencia de nacimientos y defunciones inscritos en el Registro Civil, se efectuará de acuerdo con la documentación que los Ayuntamientos reciban del expresado Registro Civil, o, en su caso, del Instituto Nacional de Estadística.
+En el desarrollo de esta operación se tomarán las medidas necesarias para mantener separados los datos censales, sometidos al secreto estadístico, de los datos padronales de carácter nominal y con efectos esencialmente administrativos.
+
+Los gastos en que incurran los Ayuntamientos por causa de esta colaboración serán sufragados con cargo a los Presupuestos Generales del Estado.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

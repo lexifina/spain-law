@@ -1,5 +1,7 @@
 ## Art. 68.
 
-1. La renovación del Padrón Municipal se efectuará mediante inscripción de todos los habitantes del término municipal en las hojas de inscripción cuyo contenido, respecto a las características básicas, será determinado por el Instituto Nacional de Estadística en colaboración con la Dirección General de Administración Local.
+Todos los vecinos deben comunicar a su Ayuntamiento las variaciones que experimenten sus circunstancias personales en la medida en que impliquen una modificación de los datos que deben figurar en el padrón municipal con carácter obligatorio.
 
-2. Las rectificaciones anuales se llevarán a cabo reflejando las altas y bajas por movimientos naturales de población y por cambios de residencia, así corno las alteraciones que se produzcan por cambio de domicilio.
+Cuando la variación afecte a menores de edad o incapacitados esta obligación corresponde a sus padres o tutores.
+
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

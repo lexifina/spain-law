@@ -1,5 +1,5 @@
 ## Art. 81.
 
-1. Anualmente se rectificará el resumen numérico del Padrón Municipal de Habitantes con referencia al 1 de enero, teniendo en cuenta todas las alteraciones producidas en la población residente y en la de transeúntes inscritos durante el año por altas y bajas.
+Los Ayuntamientos aprobarán la revisión de sus padrones municipales con referencia al 1 de enero de cada año, formalizando las actuaciones llevadas a cabo durante el ejercicio anterior. Los resultados numéricos de la revisión anual serán remitidos al Instituto Nacional de Estadística.
 
-2. La rectificación expresará numéricamente las distintas alteraciones producidas y el resumen general de la población resultante, de acuerdo con los impresos que establezca el Instituto Nacional de Estadística.
+> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810
