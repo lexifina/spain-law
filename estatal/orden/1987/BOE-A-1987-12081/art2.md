@@ -1,67 +1,55 @@
 ## Art. 2. Acceso a la titularidad de cuentas en la Central.
 
-1. Podrán adquirir y mantener Deuda del Estado representada en anotaciones en cuenta, en las cuentas bajo su titularidad abiertas en la Central de anotaciones las Entidades e intermediarios financieros que pertenezcan a alguno de los grupos que se relacionan en el número siguiente y acepten los compromisos previstos en el número 4 de este artículo.
+1. Podrán adquirir y mantener Deuda Pública representada en anotaciones en cuenta, en las cuentas abiertas a nombre propio en la Central de Anotaciones, además del Banco de España, las Entidades e intermediarios financieros que pertenezcan a alguno de los grupos que se relacionan en el número siguiente.
 
-2. Para ser titular de cuentas en la Central de anotaciones será necesario contar con unos recursos propios de al menos 200.000.000 de pesetas y pertenecer a alguna de las siguentes categorías de Entidades:
+2. Para ser titular de cuentas a nombre propio en la Central de Anotaciones será necesario contar con unos recursos propios de, al menos, 200 millones de pesetas y pertenecer a alguna de las siguientes categorías de Entidades:
 
-a) Banco de España.
+a) Instituto de Crédito Oficial.
 
-b) Instituto de Crédito Oficial.
+b) Entidades de crédito de capital público estatal.
 
-c) Entidades oficiales de crédito.
+c) Bancos privados.
 
-d) Bancos privados, incluido el Exterior de España.
+d) Cajas de Ahorro Confederadas.
 
-e) Cajas de Ahorros Confederadas.
+e) Confederación Española de Cajas de Ahorro.
 
-f) Confederación Española de Cajas de Ahorros.
+f) Cooperativas de crédito.
 
-g) Caja Postal de Ahorros.
+g) Sociedades mediadoras del mercado de dinero.
 
-h) Cooperativas de crédito.
+h) Sociedades de valores.
 
-i) Sociedades mediadoras en el mercado de dinero.
+i) Entidades de financiación.
 
-j) Colegios de Agentes de Cambio y Bolsa.
+j) Sociedades de arrendamiento financiero.
 
-k) Colegios Oficiales de Corredores de Comercio y su Consejo General.
+k) Sociedades de crédito hipotecario.
 
-l) Sociedades Instrumentales de Agentes Mediadores Colegiados.
+l) Fondos de regulación del mercado hipotecario.
 
-m) Entidades de financiación.
+m) Sociedades de garantía recíproca.
 
-o) Empresas de arrendamiento financiero.
+n) Sociedades mixtas de segundo aval.
 
-p) Sociedades de crédito hipotecario.
+o) Sociedades y Fondos de inversión mobiliaria y Fondos de inversión en activos del mercado monetario.
 
-q) Fondos de regulación del mercado hipotecario.
+p) Entidades de seguros.
 
-r) Sociedades de garantía recíproca.
+q) Fondos de garantía de depósitos en Entidades de crédito.
 
-s) Sociedad Mixta de Segundo Aval.
+r) Consorcio de Compensación de Seguros.
 
-t) Sociedades y Fondos de Inversión Mobiliaria, Fondos de Inversión en Activos del Mercado Monetario y Sociedades Gestoras de Instituciones de Inversión Colectiva.
+s) Organismos financieros internacionales de los que España sea miembro.
 
-u) Entidades de seguros.
+t) Bancos Centrales de países pertenecientes al Fondo Monetario Internacional.
 
-v) Fondos de garantía de depósitos en Entidades de crédito.
+Para la determinación de las Entidades comprendidas en los apartados b), c), d), f), g), h), i), j), k), l), m), n), o) y p) se estará a lo que resulte de los correspondientes registros a cargo del Banco de España, de la Comisión Nacional del Mercado de Valores, de la Dirección General del Tesoro y Política Financiera y de la Dirección General de Seguros.
 
-w) Consorcio de Compensación de Seguros.
+3. El acceso a la titularidad de cuentas a nombre propio en la Central deberá solicitarse mediante el oportuno escrito presentado en el Banco de España, que comunicará a la Comisión Nacional del Mercado de Valores la recepción de solicitudes de las Entidades a que se refieren las letras h) y o), y a la Dirección General de Seguros las que se refieren a la letra p) del número anterior. Dicho escrito estará suscrito por persona con poder bastante para obligar a la Entidad, lo que será debidamente acreditado. El Banco de España remitirá las solicitudes presentadas, junto con su informe, a la Dirección General del Tesoro y Política Financiera, que procederá, en su caso, al otorgamiento de la condición de titular de cuentas en la Central, comunicándoselo al Banco de España. Éste mantendrá un Registro Público de las presentes Entidades.
 
-x) Organismos financieros internacionales de los que España sea miembro.
+4. Los titulares de cuentas en la Central de Anotaciones estarán sujetos a cuantas reglas y condiciones tenga establecidas el Banco de España respecto de la utilización del Servicio Telefónico del Mercado de Dinero.
 
-Para la determinación de las Entidades comprendidas en los apartados d), e), h), i), l), m), o), p), q), r), t) y u) se estará a lo que resulte de los correspondientes Registros a cargo del Banco de España, de la Dirección General del Tesoro y Política Financiera y de la Dirección General de Seguros.
-
-3. Para el acceso a la titularidad de cuentas en la Central, las Entidades citadas presentarán en el Banco de España solicitud firmada por persona con poder bastante para obligar a la Entidad, lo que será debidamente acreditado. El Banco de España remitirá las solicitudes presentadas, junto con su informe, a la Dirección General del Tesoro y Política Financiera, quien, en su caso, comunicará la admisión a la Central de anotaciones. En el informe citado, el Banco de España valorará motivadamente la capacidad del solicitante para atender los compromisos enumerados en el número 4 siguiente.
-
-4. La presentación de la referida solicitud implicará que la Entidad se compromete a:
-
-a) Sujetarse a las reglas de funcionamiento del sistema.
-
-b) Mantener el mínimo de recursos propios a que se refiere el número 2.
-
-c) Someterse a la actividad se supervisión y control que incumbe al Banco de España, facilitándole, en cualquier tiempo, cuantas informaciones solicite al efecto y, en particular, Balances auditados por Empresas de reconocido prestigio y cualesquiera datos conducentes a la evaluación de su liquidez y solvencia.
-
-d) Sujetarse a cuantas reglas y condiciones tiene establecidas o pueda introducir en el futuro el Banco de España en cuanto a la utilización del Servicio Telefónico del Mercado de Dinero.
+> Se modifica por el art. 1 de la Orden de 31 de octubre de 1991. Ref. BOE-A-1991-26996.
 
 > Redactado el título conforme a la corrección de erratas publicada en BOE núm. 162, de 8 de julio de 1987. Ref. BOE-A-1987-15728.

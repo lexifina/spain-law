@@ -18,6 +18,12 @@ b) Como meros comisionistas en nombre de terceros, buscando contrapartidas en el
 
 c) Realizando las anotaciones pertinentes por orden conjunta de las partes contratantes.
 
+Las Entidades gestoras que decidan prestar a los titulares de cuentas el servicio de registro de las operaciones de Deuda anotada que estos últimos efectúen con terceros, deberán comunicarlo a la Central de Anotaciones juntamente con la tarifa que vayan a aplicar por la prestación de dicho servicio; en la citada comunicación, la Entidad gestora se comprometerá, en cualquier caso, a respetar la relación entre el titular de cuentas y terceras personas.
+
+El traspaso de los valores objeto de la operación desde el titular de cuentas a la Entidad gestora y el registro de dicha operación por parte de esta última se efectuarán de conformidad con las normas de la Central de Anotaciones.
+
+El resguardo que, en cumplimiento del artículo 8.º, expida la Entidad gestora, reflejará la situación anteriormente descrita mediante la expresión ‘‘por orden de...’’ referida al titular de cuentas, quien vendrá obligado a facilitar a la Entidad gestora todos los datos necesarios para que ésta pueda mantener su registro de terceros, de acuerdo con el artículo 7.º.
+
 3. Se considerarán operaciones de compraventa simple al contado, aquéllas en que se determine, en el momento de la contratación, la emisión objeto de la operación y se estipulen las condiciones en que se realizará la transacción, que incluirán la transmisión del valor antes del quinto día hábil siguiente al de contratación. Cuando no se especifique fecha de transmisión, se entenderá por estipulada la fecha hábil siguiente a la de contratación.
 
 4. Se considerarán operaciones de compraventa simple a plazo, aquéllas en que la transmisión del valor se efectúe en alguna fecha posterior a las cinco hábiles siguientes a la de contratación.
@@ -33,5 +39,9 @@ c) Realizando las anotaciones pertinentes por orden conjunta de las partes contr
 9. En el caso de las operaciones previstas en la letra c) del número 2 anterior, no será de aplicación lo dispuesto en los números 7 y 8 precedentes. Las Entidades gestoras que gestionen dichas operaciones quedan obligadas a velar por que éstas se ajusten a lo previsto en la presente Orden y a los términos convenidos por las partes contratantes.
 
 10. La transmisión de los valores en las operaciones previstas en el número 1, anterior, se tendrá por realizada, a tenor de lo dispuesto en el número 1 del artículo 8.º y en el número 4 del artículo 6.º del Real Decreto 505/1987, una vez que la Entidad gestora actualice sus registros de saldos y comunique, en las condiciones previstas en las normas de funcionamiento de la Central de anotaciones, los saldos de sus comitentes resultantes tras la actualización de los registros.
+
+11. Las referencias contenidas en los números anteriores de este artículo sólo se aplicarán en toda su extensión a las Entidades gestoras con capacidad plena. En sus relaciones con sus comitentes, las Entidades gestoras con capacidad restringida podrán realizar o gestionar todas las operaciones descritas en el número 1 de este artículo, actuando como meros comisionistas en nombre de terceros, buscando contrapartida en el mercado, o realizando las anotaciones pertinentes por orden conjunta de las partes contratantes, pudiendo, cuando ostenten la condición adicional de titulares de cuenta a nombre propio en la Central de Anotaciones, ofrecer contrapartida en nombre propio sólo en operaciones de compraventa simple al contado.
+
+> Se modifica el apartado 2.c) y se añade el apartado 11 por el art. 4 de la Orden de 31 de octubre de 1991. Ref. BOE-A-1991-26996.
 
 > Se modifica el apartado 6 por el apartado 2 de la Orden de 31 de julio de 1987. Ref. BOE-A-1987-18101.
