@@ -1,0 +1,5 @@
+## Artículo primero. Finalidad.
+
+Uno. Es finalidad de esta Ley el establecimiento de un régimen jurídico especial para el Parque Nacional de Doñana y su reclasificación como tal, en cumplimiento de lo dispuesto en la Ley quince/mil novecientos setenta y cinco, de dos de mayo, de Espacios Naturales Protegidos.
+
+Dos. Dicho régimen jurídico especial se orienta a proteger la integridad de la gea, fauna, flora, aguas y atmósfera y en definitiva del conjunto de los ecosistemas del Parque Nacional de Doñana, así como sus valores histórico artísticos, y a promover la investigación y la utilización en orden a la enseñanza y disfrute del Parque Nacional, en razón de su interés educativo, científico, cultural, recreativo, turístico y socioeconómico. Las medidas de conservación se extienden asimismo a las aguas subterráneas y al mar litoral, salvaguardando las competencias del Ministerio de Defensa y especialmente la que se contemplan en la Ley de Costas, de veintiséis de abril de mil novecientos sesenta y nueve.
