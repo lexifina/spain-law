@@ -1,7 +1,11 @@
-## Artículo cuarenta y ocho. Administración de la comunidad.
+## Artículo cuarenta y ocho. Administración y disposición.
 
-Uno. El marido es el administrador de la comunidad.
+1. La administración y disposición de los bienes comunes y las decisiones sobre la economía familiar corresponden a ambos cónyuges conjuntamente o a uno cualquiera de ellos con el consentimiento del otro.
 
-Dos. La mujer participa en la administración con las facultades necesarias para el buen gobierno del hogar.
+2. Frente a terceros estará legitimado cada cónyuge:
 
-Tres. Las funciones de administración de la comunidad pasan íntegras a la mujer cuando el marido resulte incapacitado o desaparezca de su domicilio, aun dejando representante, y en los demás supuestos del artículo mil cuatrocientos cuarenta y uno del Código Civil.
+1.º Para realizar actos de administración ordinaria del patrimonio consorcial, así como los de administración y disposición incluidos en el tráfico habitual de su profesión, arte u oficio.
+
+2.º En cuanto a los bienes que figuren a su nombre exclusiva o indistintamente, o se encuentren en su poder, para realizar cualesquiera otros actos de administración o conservación, ejercitar los derechos de crédito y disponer del dinero o títulos valores.
+
+> Se modifica por el art. 13 de la Ley autonómica 3/1985, de 21 de mayo. Ref. BOE-A-1985-13416.

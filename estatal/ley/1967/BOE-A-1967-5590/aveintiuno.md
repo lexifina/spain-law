@@ -1,9 +1,11 @@
 ## Artículo veintiuno. Constitución y funcionamiento.
 
-Uno. El Juez Municipal, Comarcal o de Paz del lugar donde radique la casa o sede familiar ordenará, a instancia de parte interesada, la constitución de la Junta.
+1. Una vez constituida funcionará la Junta en la forma que los vocales decidan, tomando sus acuerdos por mayoría absoluta de quienes la integran. De los acuerdos, tomados conforme al leal saber y entender de los asistentes, se levantará acta, que firmarán éstos.
 
-Dos. Una vez constituida, funcionará la Junta en la forma que los Vocales decidan. De los acuerdos, tomados conforme al leal saber y entender de los asistentes, se levantará acta, que firmarán éstos. Contra los mismos no se dará recurso alguno, a menos que la Compilación expresamente lo establezca.
+2. En caso de empate, en las localidades donde la costumbre no atribuya la decisión al Párroco o a otra persona determinada, decidirá el Juez de Paz, donde no exista el de Primera Instancia, o la persona de la familia en quien delegue.
 
-Tres. Sin necesidad de previa constitución formal podrá reunirse y acordar válidamente la Junta de Parientes, cuando hallándose juntos los que hayan de formarla para intervenir por una sola vez en un asunto determinado decidan por unanimidad bajo fe notarial.
+3. El Juez de Primera Instancia decidirá en todos los demás casos en que no se logre acuerdo, pudiendo ser oídos los vocales de la Junta.
 
-Cuatro. En los casos en que por precepto expreso de esta Compilación algún asunto haya de someterse indistintamente a la Junta de Parientes o a la autoridad judicial, transcurrido un mes, en el primer supuesto, desde que fué instada la constitución de la Junta sin que se haya conseguido, o sin haber obtenido acuerdo, se podrá optar por acudir a la decisión judicial.
+4. En los casos en que por precepto expreso de esta Compilación algún asunto haya de someterse indistintamente a la Junta de Parientes o a la autoridad judicial, transcurrido un mes, en el primer supuesto, desde que fué instada la constitución de la Junta sin que se haya conseguido, o sin haber obtenido acuerdo, se podrá optar por acudir a la decisión judicial.
+
+> Se modifican los apartados 1, 2 y 3 por el art. 10 de la Ley autonómica 3/1985, de 21 de mayo. Ref. BOE-A-1985-13416.

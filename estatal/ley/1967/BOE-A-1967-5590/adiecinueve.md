@@ -1,5 +1,5 @@
 ## Artículo diecinueve. Composición.
 
-Uno. La designación de Vocales del Consejo de Familia podrá hacerse en testamento o en otro instrumento público.
+(Derogado)
 
-Dos. Tendrán preferencia para formar parte del Consejo de Familia dativo aquellos parientes a quienes, por acto jurídico, se hubiere encomendado el conocimiento y decisión sobre algún concreto asunto familiar o sucesorio.
+> Se deroga por el art. 9 de la Ley autonómica 3/1985, de 21 de mayo. Ref. BOE-A-1985-13416.
