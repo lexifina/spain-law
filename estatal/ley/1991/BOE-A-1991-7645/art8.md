@@ -1,15 +1,15 @@
-## Artículo 8. Exenciones relativas a las exportaciones y a las operaciones asimiladas a las mismas.
+## Art. 8. Exenciones en las exportaciones y operaciones asimiladas.
 
-1. Está exenta del Arbitrio la producción o elaboración de bienes en las ciudades de Ceuta y Melilla, enviados con carácter definitivo al resto del territorio nacional o bien exportados definitivamente al extranjero por el transmitente, por un tercero en nombre propio o en nombre y por cuenta del transmitente.
+Estarán exentas del impuesto las exportaciones en régimen comercial y las operaciones asimiladas a las exportaciones, en los mismos términos que en la legislación común del Impuesto sobre el Valor Añadido.
 
-2. Asimismo, está exenta del Arbitrio la producción o elaboración en las ciudades de Ceuta y Melilla de bienes destinados al avituallamiento de los siguientes buques:
+No obstante lo dispuesto en el párrafo anterior, no estarán exentas del impuesto las exportaciones en régimen comercial que, a continuación, se indican:
 
-a) Los de líneas comerciales, regulares o irregulares.
+a) Las destinadas a las tiendas libres de impuestos que, bajo control aduanero, existan en los puertos y aeropuertos, así como las destinadas a ventas efectuadas a bordo de los buques o aeronaves que realicen navegaciones con destino a puertos o aeropuertos situados en territorios terceros.
 
-b) Los afectos al salvamento o a la asistencia marítima.
+b) Las provisiones de a bordo de labores del tabaco con destino a buques o aeronaves afectos al transporte de pasajeros que realicen la travesía entre el territorio peninsular español y las Ciudades de Ceuta y Melilla o bien la travesía entre estas dos Ciudades.
 
-c) Los afectos a la pesca costera, sin que la exención se extienda a las provisiones de a bordo.
+> Se modifica por el art. 5.1.2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1997-28053
 
-d) Los pertenecientes a las Armadas de los Estados miembros de la Comunidad Económica Europea.
+> Se modifica por el art. 11.1 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
 
-3. También gozará de exención en este Arbitrio, la producción o elaboración de bienes en las ciudades de Ceuta y Melilla que se destinen al avituallamiento de aeronaves de líneas comerciales, regulares o irregulares y de aeronaves pertenecientes a las Fuerzas Armadas de los Estados miembros de la Comunidad Económica Europea o de las destinadas a actividades de salvamento.
+> Se modifica por el art. 1.2 del Real Decreto-Ley 14/1996, de 8 de noviembre. Ref. BOE-A-1996-24749
