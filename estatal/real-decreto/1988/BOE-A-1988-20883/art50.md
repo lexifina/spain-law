@@ -1,0 +1,3 @@
+## Artículo 50.
+
+La Junta de Gobierno, a petición de los futuros usuarios de una obra ya aprobada, para realizar por la Confederación Hidrográfica, podrá constituir la correspondiente Junta de Obras, en la que participarán tales usuarios, a fin de que estén directamente informados del desarrollo e incidencias de la obra, tanto si se realiza por cuenta exclusiva del Estado, como si se lleva a cabo con la participación económica de los interesados, siempre y cuando el coste total de las obras proyectadas sea superior a mil millones de pesetas, cifra que se actualizará automáticamente cada cinco años, en función de los sucesivos índices anuales de precios al consumo.

@@ -84,23 +84,7 @@
 
 3. Disposiciones que quedarán derogadas a la entrada en vigor de las disposiciones reglamentarias que se dicten para el cumplimiento de los títulos II y III de la Ley de Aguas, de acuerdo con el artículo 3.º de este Real Decreto:
 
-| Fecha | Objeto de la disposición |
-| --- | --- |
-| D. 24 junio 1955. | Por el que se crea una Comisión Especial de los Ministerios de Obras Públicas, Industria y Agricultura para el aprovechamiento total de las cuencas de los ríos o unidades geográficas determinadas. |
-| O. 8 mayo 1965. | Sobre constitución y funcionamiento de las Juntas de Obras en las Confederaciones Hidrográficas. |
-| O. 26 septiembre 1967. | Por la que se regula la actuación de las Comisiones de Desembalses. |
-| O. 19 junio 1973. | Sobre estructura y funciones de los Servicios Técnicos de las Confederaciones Hidrográficas. |
-| O. 19 junio 1973. | Sobre estructura y funciones de las Comisarías de Aguas y Servicios Hidráulicos. |
-| O. 27 abril 1976. | Facultades delegadas en las Confederaciones Hidrográficas. |
-| O. 12 marzo 1977. | Modifica la estructura de los Servicios Técnicos de las Confederaciones Hidrográficas. |
-| R.D. 2513/1978, 29 septiembre. | Composición de la Comisión Central de Desembalses. |
-| R.D. 2419/1979, 14 septiembre. | Composición y funciones de los órganos de gobierno de las Confederaciones Hidrográficas (salvo artículos 6 y 7 ya derogados). |
-| O. 30 noviembre 1979. | Constitución y funcionamiento de los órganos de gobierno de las Confederaciones Hidrográficas. |
-| R.D. 3029/1979, 7 diciembre. | Planificación Hidrológica. |
-| L. 3 marzo 1980. | Actuaciones urgentes de aguas en la provincia de Almería. (Se derogan el artículo 3.º y la disposición transitoria.) |
-| O. 7 octubre 1980. | Elección de Vocales de las Juntas de Gobierno en las Confederaciones Hidrográficas |
-| R.D. 2383/1981, 20 agosto. | Modifica la composición de la Comisión Interministerial de Planificación Hidrológica. |
-| R.D. 1220/1983, 27 abril. | Crea la Comisión para Planificación Hidrológica de Baleares. |
+(Derogadas)
 
 4. Disposiciones que quedan vigentes, de acuerdo con el artículo 4.º de este Real Decreto:
 
@@ -111,6 +95,8 @@
 | L. 52/1980, 16 octubre. | Régimen económico de la explotación del acueducto Tajo-Segura. |
 | L. 18/1981, 1 julio. | Actuaciones en Tarragona en materia de aguas. |
 | R.D. 916/1985, 25 mayo. | Aprovechamientos hidroeléctricos. |
+
+> Se derogan las disposiciones contenidas en el apartado 3 por la disposición derogatoria del Real Decreto 927/1988, de 29 de julio. Ref. BOE-A-1988-20883#dd.
 
 > Se derogan las disposiciones contenidas en el apartado 2 por el art. 2 del Real Decreto 849/1986, de 11 de abril. Ref. BOE-A-1986-10638#a2.
 
