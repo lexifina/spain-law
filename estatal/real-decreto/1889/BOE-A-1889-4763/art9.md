@@ -6,7 +6,7 @@ El cambio de ley personal no afectará a la mayoría de edad adquirida de confor
 
 2. Los efectos del matrimonio se regirán por la ley personal común de los cónyuges al tiempo de contraerlo; en defecto de esta ley, por la ley personal o de la residencia habitual de cualquiera de ellos, elegida por ambos en documento auténtico otorgado antes de la celebración del matrimonio; a falta de esta elección, por la ley de la residencia habitual común inmediatamente posterior a la celebración, y, a falta de dicha residencia, por la del lugar de celebración del matrimonio.
 
-La separación y el divorcio se regirán por la ley que determina el artículo 107.
+La nulidad, la separación y el divorcio se regirán por la ley que determina el artículo 107.
 
 3. Los pactos o capitulaciones por los que se estipule, modifique o sustituya el régimen económico del matrimonio serán válidos cuando sean conformes bien a la ley que rija los efectos del matrimonio, bien a la ley de la nacionalidad o de la residencia habitual de cualquiera de las partes al tiempo del otorgamiento.
 
@@ -41,6 +41,8 @@ Prevalecerá en todo caso la nacionalidad española del que ostente además otra
 11. La ley personal correspondiente a las personas jurídicas es la determinada por su nacionalidad, y regirá en todo lo relativo a capacidad, constitución, representación, funcionamiento, transformación, disolución y extinción.
 
 En la fusión de sociedades de distinta nacionalidad se tendrán en cuenta las respectivas leyes personales.
+
+> Se modifica el segundo párrafo del apartado 2 por el art. 3.2 de la Ley Orgánica 11/2003, de 29 de septiembre. Ref. BOE-A-2003-18088.
 
 > Se añade un párrafo al apartado 5 por el art. único de la Ley 18/1999, de 18 de mayo. Ref. BOE-A-1999-11195.
 
