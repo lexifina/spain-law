@@ -1,3 +1,5 @@
 ## CAPÍTULO II
 
 ## Tasa por expedición de títulos o credenciales a funcionarios o empleados públicos
+
+> Se deroga en la forma indicada por el art. 22.6 de la Ley 5/1983, de 29 de junio. Ref. BOE-A-1983-18137.

@@ -4,4 +4,8 @@ El límite del cincuenta por ciento a que se refiere el artículo treinta y cuat
 
 Esta regla será de aplicación a las Sociedades y demás Entidades jurídicas y personas físicas respecto a Ios establecimientos situados en Canarias y siempre que la inversión correspondiente se realice y permanezca en el Archipiélago.
 
+> Se prorroga el plazo del párrafo primero hasta el 31 de diciembre de 1983 por la disposición transitoria 2 de la Ley 5/1983, de 29 de junio. Ref. BOE-A-1983-18137.
+
+> Téngase en cuenta que este plazo ya estaba prorrogado por el Real Decreto-Ley 24/1982, de 29 de diciembre.
+
 > Se prorroga el plazo del párrafo primero hasta el 31 de diciembre de 1983 por la disposición transitoria 2 del Real Decreto-Ley 24/1982, de 29 de diciembre. Ref. BOE-A-1982-34943.
