@@ -1,4 +1,4 @@
-## Artículo doscientos
+## Artículo 200.
 
 1. Podrá haber en el Tribunal Supremo, en la Audiencia Nacional, en los Tribunales Superiores de Justicia y en las Audiencias Provinciales una relación de Magistrados suplentes que serán llamados, por su orden dentro del orden u órdenes jurisdiccionales para los que hubieren sido nombrados, a formar las Salas en los casos en que por circunstancias imprevistas y excepcionales no puedan constituirse aquéllas, salvo cuando actúen en régimen de adscripción como medida de refuerzo conforme a lo previsto en esta Ley. Nunca podrá concurrir a formar Sala más de un Magistrado suplente.
 
@@ -7,6 +7,10 @@
 3. Dentro de los límites del llamamiento o adscripción, los Magistrados suplentes actuarán, como miembros de la Sala que sean llamados a formar, con los mismos derechos y deberes que los Magistrados titulares.
 
 4. Los miembros de la Carrera Judicial jubilados por edad que sean nombrados para ejercer dicha función tendrán la consideración y tratamiento de magistrados eméritos. En dicha situación podrán permanecer hasta los 75 años, teniendo el tratamiento retributivo de los magistrados suplentes.
+
+5. Los Magistrados del Tribunal Supremo, una vez jubilados, serán designados Magistrados eméritos en el Tribunal Supremo cuando así lo soliciten, siempre que reúnan los requisitos legalmente establecidos y de acuerdo con las necesidades de refuerzo en la Sala correspondiente.
+
+> Se añade el apartado 5 por el art. único.2 de la Ley Orgánica 2/2004, de 28 de diciembre. Ref. BOE-A-2004-21761.
 
 > Se modifica el apartado 4 por el art. único.36 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

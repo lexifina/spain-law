@@ -112,6 +112,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria séptima](septima.md)
 - [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](dasegunda.md)
+- [Disposición adicional tercera](datercera.md)
 - [Disposición final primera](primera-2.md)
 - [Disposición final segunda](segunda-2.md)
 - [firma](firma.md)
