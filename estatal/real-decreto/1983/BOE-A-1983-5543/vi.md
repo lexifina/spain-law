@@ -61,7 +61,7 @@ d) Marcado de fechas: Se hará constar la fecha de envasado con la expresión de
 
 Salvo cuando el mes se expresa en letras, las indicaciones del mes y del año estarán separadas una de otra por espacio en blanco, punto, guión, etc.
 
-Asimismo deberá constar junto a la anterior la fecha de duración mínima, expresada mediante la leyenda «Consumir preferentemente antes de: Un año».
+Asimismo deberá constar, junto a la anterior, la fecha de duración mínima, expresada mediante la leyenda: "Consumir preferentemente antes de ...", seguida del plazo correspondiente, que no podrá ser superior a un año.
 
 e) Identificación de la Empresa: Se hará constar el nombre o razón social o la denominación del envasador o importador y su domicilio.
 
@@ -96,3 +96,5 @@ La información que transmitan no podrá estar en contradicción con los requisi
 4. Denominación de origen.
 
 Los aceites de oliva vírgenes extra con denominación de origen podrán usar dicha denominación en la forma que disponga la Reglamentación correspondiente.
+
+> Se modifica el apartado 2.1.d) por el art. único del Real Decreto 2813/1983, de 13 de octubre. Ref. BOE-A-1983-29112.
