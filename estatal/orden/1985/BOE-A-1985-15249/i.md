@@ -10,6 +10,10 @@ Cuatro.–Con una antelación mínima de quince días sobre la fecha límite par
 
 Cinco.–Deberá hacerse constar en las solicitudes si la variedad cuya inscripción en el Registro se solicita pretende incluirse en la lista de variedades comerciales o en la lista de variedades comerciales para la exportación, las cuales quedan definidas en el apartado 31 del Reglamento General.
 
-Seis.–Las fechas límite de presentación de las solicitudes para cada campaña será el 20 de enero. Caso de que la presentación se lleve a cabo en fecha posterior a la señalada, no se tendrá en cuenta a efectos de ensayos hasta la campaña siguiente.
+Seis.–La fecha límite para presentación de las solicitudes será, para cualquier variedad, con independencia de la especie a que pertenezca, el 1 de enero:
+
+En el caso de que la presentación de solicitudes se lleve a cabo en fecha posterior a la señalada no se tendrá en cuenta a efectos de ensayos hasta la campaña siguiente.
+
+> Se modifica el apartado 6 por el apartado 2 de la Orden de 4 de abril de 1991. Ref. BOE-A-1991-9690
 
 > Se modifica el apartado 3 por el apartado 1 de la Orden de 23 de mayo de 1986. Ref. BOE-A-1986-15314
