@@ -6,7 +6,11 @@
 
 3. Queda prohibido el empleo de las palabras «Albergue» o «Parador», «Turismo» y sus derivados, como título o subtítulo de los establecimientos, así como el uso de iniciales, abreviaturas o términos que puedan inducir a confusión.
 
-4. El calificativo "lujo", o sus derivados, podrá ser utilizado en todo caso por los establecimientos hoteleros clasificados en cinco estrellas y por los apartamentos explotados en régimen hotelero de cuatro estrellas. La Dirección General de Empresas y Actividades Turísticas podrá autorizar la utilización de dicho calificativo a aquellos establecimientos hoteleros que, clasificados en cuatro estrellas, en atención al número y categoría de sus instalaciones y a la calidad de sus servicios, entienda dicho Centro directivo que reúnen condiciones para ostentarlo.
+4. El calificativo "lujo" o sus derivados solamente podrá ser utilizado por los Hoteles y Hoteles-Residencias de cinco estrellas y por los Hoteles-Apartamentos o Residencias-Apartamentos de cuatro estrellas.
+
+El calificativo de "gran lujo" solamente podrá ser utilizado por aquellos establecimientos que, clasificados en las categorías antes citadas, la Dirección General de Empresas y Actividades Turísticas considere que, en atención a sus especiales características y calidad de sus instalaciones y servicios, reúnen condiciones para ostentarlo.
+
+> Se modifica el apartado 4 por el art. 1 de la Orden de 16 de febrero de 1970. Ref. BOE-A-1970-197
 
 > Se modifica el apartado 4 por el art. único de la Orden de 24 de septiembre de 1969. Ref. BOE-A-1969-1166
 
