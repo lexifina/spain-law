@@ -1,0 +1,3 @@
+## Disposición transitoria novena. Personal laboral.
+
+El personal laboral que, a la fecha de entrada en vigor de la presente Ley, se encuentre desempeñando funciones relacionadas con la marina civil, prestando servicios en puestos a desempeñar por personal funcionario, podrá integrarse en el Cuerpo creado en el artículo 101 de la presente Ley, cumpliendo las condiciones y requisitos recogidos en la disposición transitoria decimoquinta de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, incorporada por la Ley 23/1988, de 28 de julio, y demás normativa aplicable en la materia.
