@@ -80,7 +80,7 @@ No se entenderán comprendidos en el concepto de las viviendas del párrafo ante
 
 12.º Las ejecuciones de obra, con o sin aportación de materiales, consecuencia de contratos directamente formalizados entre el promotor-constructor y el contratista, que tengan por objeto la autoconstrucción de viviendas calificadas administrativamente como protegidas conforme a la legislación específica aplicable.
 
-13.º Los vehículos de dos o tres ruedas cuya cilindrada sea inferior a 50 centímetros cúbicos y cumplan la definición jurídica del ciclomotor.
+13.º (Sin contenido)
 
 14.º Las ejecuciones de obra que tengan por objeto la instalación de armarios de cocina y de baño y armarios empotrados para las edificaciones a que se refieren los apartados 11.o y 12.o anteriores, que sean realizadas como consecuencia de contratos directamente formalizados con el promotor de la construcción o rehabilitación de dichas edificaciones.
 
@@ -89,6 +89,8 @@ No se entenderán comprendidos en el concepto de las viviendas del párrafo ante
 1.º Las prestaciones de servicios de transportes terrestres.
 
 2.º Los servicios prestados a personas físicas que practiquen el deporte o la educación física, cualquiera que sea la persona o entidad a cuyo cargo se realice la prestación, siempre que tales servicios estén directamente relacionados con dichas prácticas y no resulte aplicable a los mismos la exención a que se refiere el artículo 10, número 1, apartado 13.º de esta Ley.
+
+> Se deja sin contenido el apartado 1.13 por el art. 8.1.25 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
 
 > Se suprime el apartado 1.3 por el art. 9.18 de la Ley 55/1999, de 29 de diciembre Ref. BOE-A-1999-24786, y con entrada en vigor el 19 de enero de 2000 y efectos a partir del 1 de enero de 2000 se modifican los apartados 1.9 y 2 y se añade el 1.14 por el art. 73.1, 3 y 4 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785.
 

@@ -1,0 +1,3 @@
+## Disposición adicional undécima. Determinación de los parámetros de la tasa por reserva del dominio público radioeléctrico fijados con anterioridad a lo dispuesto en la Ley de Presupuestos Generales del Estado para 2001.
+
+Los parámetros previstos en el artículo 73 de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones, para cuantificar el importe de las diversas tarifas de la tasa por reserva del dominio público radioeléctrico, que no hayan sido determinados por Ley de Presupuestos Generales del Estado y las cuotas fijas que se establecen por el uso especial del espectro en el apartado 4 de dicho artículo, seguirán rigiéndose por la norma reglamentaria en la que vinieran regulados.

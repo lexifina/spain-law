@@ -6,4 +6,6 @@ Hasta que tenga lugar el cumplimiento de la obligación que impone el párrafo a
 
 2. Excepcionalmente, podrán mantenerse los compromisos por pensiones asumidos mediante fondos internos por las entidades de crédito, las entidades aseguradoras y las sociedades y agencias de valores. Para que dichos fondos internos puedan servir a tal finalidad deberán estar dotados con criterios, al menos, tan rigurosos como los aplicables a los asumidos mediante planes de pensiones y habrán de ser autorizados por el Ministerio de Economía y Hacienda, previo informe del órgano o ente a quien corresponda el control de los recursos afectos, el cual supervisará el funcionamiento de los fondos internos y podrá proponer al Ministerio de Economía y Hacienda la adopción, en su caso, de las medidas correctoras pertinentes, e incluso la revocación de la autorización administrativa concedida, todo ello en los términos que reglamentariamente se establezcan.
 
+> Se amplía el plazo del párrafo primero del apartado 1 hasta el 16 de noviembre de 2002, por la disposición adicional 25 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+
 > Se amplía el plazo del párrafo primero del apartado 1 hasta el 1 de enero de 2001, por la disposición adicional 13 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.

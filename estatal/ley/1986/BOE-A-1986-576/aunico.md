@@ -18,11 +18,11 @@ f) Proponer acciones para mejorar la orientación profesional.
 
 g) Evaluar y hacer el seguimiento de las acciones que se desarrollen en materia de Formación Profesional.
 
-3.1 El Consejo General está compuesto por:
+3.1 El Consejo General estará compuesto por:
 
-a) Un Presidente. Ostentarán la Presidencia, alternativamente y por períodos anuales, el Ministro de Educación y Cultura y el Ministro de Trabajo y Asuntos Sociales.
+a) Un Presidente. Ostentarán la presidencia, alternativamente y por período de dos años, el Ministro de Educación, Cultura y Deporte y el Ministro de Trabajo y Asuntos Sociales.
 
-b) Cuatro Vicepresidentes, uno por cada uno de los grupos que lo integran, elegidos por y de entre los Vocales de cada grupo, excepto en el de representantes de la Administración General del Estado, en que la Vicepresidencia corresponderá, alternativamente, al Secretario general de Educación y Formación Profesional y al Secretario general de Empleo, por períodos anuales en los que no ejerza la Presidencia el titular del Departamento.
+b) Cuatro vicepresidentes, uno por cada uno de los grupos que lo integran, elegidos por y de entre los vocales de cada grupo, excepto en el de representantes de la Administración General del Estado, en que la vicepresidencia corresponderá, alternativamente, al Secretario general de Educación y Formación Profesional y al Secretario general de Empleo, por períodos bienales en los que no ejerza la presidencia el titular del Departamento correspondiente.
 
 c) Diecisiete Vocales en el ámbito de la Administración General del Estado, en representación de:
 
@@ -45,5 +45,7 @@ f) Diecinueve Vocales por parte de las organizaciones sindicales más representa
 3.5 Cada cuatro años se producirá la renovación de la composición del Consejo, teniendo en cuenta para ello las modificaciones que se hubieran producido en cuanto a la representatividad en sus correspondientes ámbitos territoriales de las organizaciones empresariales y sindicales.
 
 3.6 Los miembros del Consejo General de Formación Profesional y sus suplentes serán nombrados por el Ministro de Trabajo y Asuntos Sociales a propuesta de los respectivos Departamentos ministeriales, y de los órganos competentes de las Comunidades Autónomas, y de las organizaciones empresariales y sindicales más representativas. En igual forma se dispondrá su cese.
+
+> Se modifican las letras a) y b) del apartado 3.1 por el art. 59.1 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
 
 > Se modifica por el art. único.1 a 3 de la Ley 19/1997, de 9 de junio. Ref. BOE-A-1997-12504

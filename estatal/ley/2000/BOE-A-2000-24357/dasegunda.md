@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Aplicación de la nueva deducción por tecnologías de la información y de la comunicación a empresarios personas físicas en régimen de estimación objetiva.
+
+A partir de la entrada en vigor de la presente Ley, a los contribuyentes por el Impuesto sobre la Renta de las Personas Físicas que ejerzan actividades económicas y determinen su rendimiento neto en régimen de estimación objetiva les serán de aplicación las deducciones para el fomento de las tecnologías de la información y la comunicación previstas en el artículo 33 bis de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, en la forma y con los límites establecidos en el artículo 37 de la citada Ley y en el artículo 56.2 de la Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias.
+
+La base conjunta de estas deducciones tendrá como límite el rendimiento neto de las actividades económicas, en régimen de estimación objetiva, computado para la determinación de la base imponible.

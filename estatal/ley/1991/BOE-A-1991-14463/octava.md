@@ -1,18 +1,34 @@
 ## Disposición adicional octava.
 
-Uno. A partir de la entrada en vigor de la presente Ley, los tipos del Impuesto General Indirecto Canario quedan fijados en la siguiente forma:
+Uno. Los tipos del Impuesto General Indirecto Canario quedan fijados de la siguiente forma:
 
-1. El tipo cero se aplicará a las entregas de bienes y prestaciones de servicios mencionados en el artículo 27.1.1.º
+1. El tipo cero se aplicará a las entregas de bienes y prestaciones de servicios mencionadas en el artículo 27.1.1.º
 
 2. El tipo reducido será del 2 por 100.
 
-3. El tipo general será del 4,5 por 100.
+3. El tipo general será del 5 por 100.
 
-4. El tipo incrementado será del 13 por 100.
+4. Los tipos incrementados se fijan en el 9 por 100 y en el 13 por 100.
 
-Dos. Las Leyes de Presupuestos Generales del Estado podrán modificar los tipos de gravamen del Impuesto General Indirecto Canario regulado en el apartado anterior dentro de los límites previstos en el artículo 27 de esta Ley, los tipos de recargo del régimen especial de comerciantes minoristas, así como los del Arbitrio sobre Producción e Importación en las islas Canarias, dentro de los límites previstos en el artículo 85 de esta misma Ley.
+Dos. Se establecen los siguientes tipos especiales aplicables a las entregas e importaciones de las labores del tabaco:
+
+a) Para labores de tabaco negro: 20 por 100.
+
+b) Para labores de tabaco rubio y sucedáneos del tabaco: 35 por 100.
+
+Tres. Los tipos especiales de recargo sobre las importaciones de labores de tabaco efectuadas por comerciantes minoristas en el marco del régimen especial de comerciantes minoristas del Impuesto General Indirecto Canario serán los siguientes:
+
+a) Importaciones de labores de tabaco negro: 2 por 100.
+
+b) Importaciones de labores de tabaco rubio y sucedáneos del tabaco: 3,5 por 100.
+
+Cuatro. Las Leyes de Presupuestos Generales del Estado podrán modificar los tipos de gravamen del Impuesto General Indirecto Canario regulados en el apartado Uno anterior dentro de los límites previstos en el artículo 27 de esta Ley y los tipos de recargo del régimen especial de comerciantes minoristas.
 
 Tales modificaciones se efectuarán, en su caso, a iniciativa de la Comunidad Autónoma de Canarias, que deberá oír previamente a los Cabildos Insulares.
+
+> Se modifica por el art. 8.1.23 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+
+> Redactado el apartado 2.b) conforme a la corrección de errores publicada en BOE núm. 155, de 29 de junio de 2001. Ref. BOE-A-2001-12536
 
 > Se modifica el apartado 1 por el art. 64.4 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.
 

@@ -6,13 +6,15 @@ Se exceptúan de lo dispuesto en el párrafo anterior las importaciones de biene
 
 2. La base imponible del recargo será igual a la suma de la base imponible del Impuesto General Indirecto Canario, que grave la importación de bienes, y de las cuotas del Arbitrio sobre la Producción e Importación en Canarias y del Arbitrio de Entrada-Tarifa Especial que, asimismo, se devenguen con motivo de tal importación.
 
-3. Los tipos del recargo serán los siguientes:
+3. Sin perjuicio de lo dispuesto en la disposición adicional octava.tres de la presente Ley, los tipos del recargo serán los siguientes:
 
 1.º Para las importaciones de bienes sometidas al tipo del 2 por 100 en el Impuesto General Indirecto Canario, el 0,20 por 100.
 
-2.º Para las importaciones de bienes sometidas al tipo del 4,5 por 100 en el Impuesto General Indirecto Canario, el 0,45 por 100.
+2.º Para las importaciones de bienes sometidas al tipo del 5 por 100 en el Impuesto General Indirecto Canario, el 0,5 por 100.
 
-3.º Para las importaciones de bienes sometidas al tipo del 13 por 100 en el Impuesto General Indirecto Canario, el 1,30 por 100.
+3.º Para las importaciones de bienes sometidas al tipo del 9 por 100 en el Impuesto General Indirecto Canario, el 0,9 por 100.
+
+4.º Para las importaciones de bienes sometidas al tipo del 13 por 100 en el Impuesto General Indirecto Canario, el 1,3 por 100.
 
 4. La liquidación y el ingreso del recargo se efectuarán conjuntamente con el Impuesto General Indirecto Canario que grave las importaciones de bienes efectuadas por los comerciantes minoristas y se ajustarán a las normas establecidas para la exacción de dicho impuesto.
 
@@ -37,6 +39,8 @@ en la que K es el coeficiente a aplicar y T el tipo impositivo que corresponda.
 3.ª A los efectos de lo dispuesto en las dos reglas anteriores, los sujetos pasivos deberán confeccionar, en la forma que reglamentariamente se determine, inventarios de sus existencias con referencia a los días de iniciación y cese en la aplicación de este régimen.
 
 9. Sin perjuicio de la liquidación e ingreso del recargo a que se refiere el presente artículo, los sujetos pasivos acogidos al régimen especial de comerciantes minoristas tendrán la obligación de proceder a la liquidación y pago del impuesto en los casos previstos en el número 3 del artículo 59 de esta Ley, mediante la presentación de la declaración ocasional a que se refiere dicho precepto.
+
+> Se modifica el apartado 3 por el art. 8.1.21 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
 
 > Se modifica el apartado 3 por el art. 64.3 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.
 

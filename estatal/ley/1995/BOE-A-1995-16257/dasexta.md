@@ -5,3 +5,5 @@ Los incrementos netos de patrimonio que se pongan de manifiesto durante los cinc
 La aplicación de lo dispuesto en el párrafo anterior exigirá que las fincas rústicas o explotaciones agrarias transmitidas se destinen por el adquirente a la constitución o consolidación de explotaciones agrarias prioritarias o sean adquiridos por las Administraciones públicas para su integración en Bancos de tierras u órganos similares o por razones de protección del medio natural.
 
 Reglamentariamente, se desarrollarán los requisitos que deben cumplir tanto los transmitentes como los adquirentes para la aplicación de este precepto.
+
+> Se prorroga para los años 2000 y 2001 por la disposición transitoria 7 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357

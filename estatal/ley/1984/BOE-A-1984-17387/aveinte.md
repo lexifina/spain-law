@@ -32,7 +32,9 @@ Los nombramientos de libre designación requerirán el informe previo del titula
 
 Excepcionalmente, las Administraciones Públicas podrán autorizar la convocatoria de concursos de provisión de puestos de trabajo dirigidos a los funcionarios destinados en las áreas, sectores o departamentos que se determinen.
 
-d) En el ámbito de la Administración General del Estado, el Secretario de Estado para la Administración Pública, los Subsecretarios, Delegados del Gobierno y Gobernadores Civiles, por necesidades del servicio, podrán adscribir a los funcionarios que ocupen puestos no singularizados a otros con el mismo procedimiento de provisión, nivel y complemento específico, dentro de la misma localidad.
+Las Administraciones públicas podrán trasladar a sus funcionarios, por necesidades de servicio, a unidades, departamentos u organismos públicos distintos a los de su destino, respetando sus retribuciones, condiciones esenciales de trabajo y provincia e isla de destino y modificando, en su caso, la adscripción de los puestos de trabajo de los que sean titulares. Cuando el nuevo destino implique cambio del término municipal de residencia, los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados forzosos en territorio nacional.
+
+d) (Suprimida)
 
 e) Los funcionarios adscritos a un puesto de trabajo por el procedimiento de libre designación podrán ser removidos del mismo con carácter discrecional.
 
@@ -69,6 +71,8 @@ La reasignación de efectivos como consecuencia de un Plan de Empleo en las dem�
 El personal eventual sólo ejercerá funciones expresamente calificadas de confianza o asesoramiento especial y su nombramiento y cese, que serán libres, corresponden exclusivamente a los Ministros y a los Secretarios de Estado, y, en su caso, a los Consejeros de Gobierno de las Comunidades Autónomas y a los Presidentes de las Corporaciones Locales. El personal eventual cesará automáticamente cuando cese la autoridad a la que preste su función de confianza o asesoramiento.
 
 3. En ningún caso el desempeño de un puesto de trabajo reservado a personal eventual constituirá mérito para el acceso a la función pública o la promoción interna.
+
+> Se añade el último párrafo al apartado 1.c) y se suprime el apartado 1.d) por el art. 36 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
 
 > Se añade el último párrafo al apartado 1.c) y se modifica el apartado 1.d) por el art. 103.3 y .4 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
 

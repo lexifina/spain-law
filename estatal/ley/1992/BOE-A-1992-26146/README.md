@@ -216,6 +216,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional decimonovena](dadecimonovena.md)
 - [Disposición adicional vigésima](davigesima.md)
 - [Disposición adicional vigésimoprimera](davigesimoprimera.md)
+- [Disposición adicional vigésimosegunda](davigesimosegunda.md)
+- [Disposición adicional vigésimotercera](davigesimotercera.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)

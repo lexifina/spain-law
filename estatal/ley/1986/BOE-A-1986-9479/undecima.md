@@ -6,9 +6,9 @@
 
 El Instituto de Astrofísica de Canarias estará integrado por la Administración del Estado, la Comunidad Autónoma de Canarias la Universidad de La Laguna y el Consejo Superior de Investigaciones Científicas.»
 
-«Art. 4.º El Consejo Rector estará integrado por el Ministro de Educación y Ciencia; que actuará como Presidente, un Vocal en representación de la Administración del Estado, que será nombrado a propuesta del Ministro de la Presidencia, y tres Vocales más en representación de cada una de las restantes Administraciones públicas y Organismos que se relacionan en el artículo 1.º
+«Art. 4.º El Consejo Rector estará integrado por el Ministro de Ciencia y Tecnología, que actuará como Presidente, un vocal en representación de la Administración General del Estado, que será nombrado a propuesta del Ministro de la Presidencia, y tres vocales más nombrados en representación de cada una de las restantes Administraciones públicas y organismos que se relacionan en el artículo 1.
 
-Formará parte del Consejo Rector, asimismo, el Director del Instituto, que será miembro nato.»
+Formará parte del Consejo Rector, asimismo, el Director del Instituto, que será miembro nato."
 
 «Art. 8.º Los medios personales al servicio del Instituto para el cumplimiento de sus fines, todos ellos bajo la dependencia funcional del Director de aquél, podrán comprender:
 
@@ -21,3 +21,5 @@ c) Personal al servicio de otras entidades públicas o privadas, con las cuales 
 2. Se declaran a extinguir la Escalas de Astrofísicos y Astrofísicos adjuntos creados, por Real Decreto 2678/1982, de 15 de octubre. El Gobierno, a propuesta del Consejo Rector, establecerá los criterios, requisitos y condiciones para que los funcionarios de las referidas Escalas puedan integrarse en los Cuerpos o Escalas equivalentes de las Administraciones consorciadas.
 
 3. Por Real Decreto, a propuesta del Consejo Rector, se regulará la organización y funcionamiento del Instituto de Astrofísica de Canarias.
+
+> Se modifica por el art. 84.10 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357

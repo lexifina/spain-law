@@ -42,6 +42,8 @@ El régimen fiscal previsto en este apartado será, asimismo, de aplicación a l
 
 8. Para acceder a este tratamiento fiscal será condición indispensable que los elementos patrimoniales afectos a los compromisos de previsión del personal se encuentren en tal situación a 3 de marzo de 1995.
 
+> Se amplía el plazo de los apartados 1 y 2 hasta el 16 de noviembre de 2002, por la disposición adicional 25 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+
 > Se amplía el plazo de los apartados 1 y 2 hasta el 1 de enero de 2001, por la disposición adicional 13 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
 
 > Se modifica el apartado 5 por la disposición adicional 11.1 de la Ley 40/1998, de 9 de diciembre. Ref. BOE-A-1998-28472.

@@ -6,4 +6,10 @@ a) A propuesta de la Intervención General de la Administración del Estado, det
 
 b) Dictar normas en relación con los presupuestos de la Administración Local, al objeto de su adecuación a lo previsto en la presente Ley.
 
+c) Dictar las normas que puedan ser necesarias para la distribución de cantidades limitadas de billetes y monedas en euros antes de 1 de enero de 2002, con el fin de facilitar la transición a la nueva moneda.
+
+d) Dictar las normas que resulten necesarias para garantizar la mejor ejecución de lo dispuesto en esta Ley sobre el período de canje.
+
 Dos. Asimismo se faculta a la Intervención General de la Administración del Estado para determinar la información expresable en euros dentro de la información contable intermedia y de fin de ejercicio que no se rinde al Tribunal de Cuentas, y para determinar las reglas contables de aplicación del régimen de conversión en las entidades sujetas a contabilidad pública.
+
+> Se añaden las letras c) y d) al apartado 1 por el art. 67.4 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357

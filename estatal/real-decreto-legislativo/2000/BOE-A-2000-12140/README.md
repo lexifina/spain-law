@@ -77,6 +77,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional séptima](daseptima.md)
 - [Disposición adicional octava](daoctava.md)
 - [Disposición adicional novena](danovena.md)
+- [Disposición adicional décima](dadecima.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)

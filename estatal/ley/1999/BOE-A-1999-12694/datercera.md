@@ -1,3 +1,5 @@
 ## Disposición adicional tercera.
 
-La entidad pública empresarial de la Red Técnica Española de Televisión, a la que se refiere la disposición adicional sexta de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones, podrá afectar sus activos a las funciones que realice para el análisis, el estudio y el fomento de la introducción, en la sociedad española, de las redes y servicios avanzados de telecomunicaciones.
+(Derogada)
+
+> Se deroga por la disposición adicional 6 de la Ley 11/1998, de 24 de abril. Ref. BOE-A-1998-9802, en la redacción dada por el art. 55.13 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
