@@ -1,0 +1,1 @@
+Este Real Decreto pasa a denominarse "Real Decreto 1835/1991, de 20 de diciembre, sobre Federaciones Deportivas Españolas y Registro de Asociaciones Deportivas", según establece el art. 1 del Real Decreto 1252/1999, de 16 de julio. Ref. BOE-A-1999-15687

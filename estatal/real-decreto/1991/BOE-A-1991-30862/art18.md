@@ -7,3 +7,7 @@
 3. Su composición, responsabilidad de sus miembros ante la Asamblea General y régimen de funcionamiento, adopción de acuerdos y de sesiones, serán regulados en los Estatutos federativos y normas reglamentarias correspondientes, previéndose en todo caso la existencia de un Vicepresidente que sustituirá al Presidente en caso de ausencia, y que deberá ser miembro de la Asamblea General.
 
 4. Los miembros de la Junta Directiva, a excepción de su Presidente, no serán remunerados.
+
+5. Una vez convocadas nuevas elecciones, las Juntas Directivas se disolverán constituyéndose en Comisiones Gestoras, que no podrán realizar más que actos ordinarios de mera administración y gestión.
+
+> Se modifica por el art. 2 del Real Decreto 1252/1999, de 16 de julio. Ref. BOE-A-1999-15687
