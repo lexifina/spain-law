@@ -51,4 +51,10 @@ Color del contenido: X070
 
 Todo el texto en negro. El fondo es blanco.
 
+Las letras que permitirán identificar los aparatos A+ y A++ deberán ajustarse a las siguientes ilustraciones e ir colocadas en la misma posición que la letra que identifica a los aparatos de categoría A.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/38/02654_001.png)
+
+> Se modifica por el art. único.5 y anexo.1 del Real Decreto 219/2004, de 6 de febrero. Ref. BOE-A-2004-2654.
+
 > Redactado el apartado 2.IV conforme a la corrección de errores publicada en BOE núm. 267, de 8 de noviembre de 1995. Ref. BOE-A-1995-24104.
