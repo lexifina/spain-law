@@ -1,7 +1,7 @@
 ## Artículo cuarto.
 
-El Consejo Rector estará integrado por un Presidente, un Vocal en representación de cada una de las Administraciones Públicas y Organismos que se relacionan en el artículo primero y el Director del Instituto, que será miembro nato.
+El Consejo Rector estará integrado por el Ministro de Educación y Ciencia; que actuará como Presidente, un Vocal en representación de la Administración del Estado, que será nombrado a propuesta del Ministro de la Presidencia, y tres Vocales más en representación de cada una de las restantes Administraciones públicas y Organismos que se relacionan en el artículo 1.º
 
-El Presidente será nombrado por el Consejo Rector a propuesta de dos, al menos, de sus miembros.
+Formará parte del Consejo Rector, asimismo, el Director del Instituto, que será miembro nato.
 
-El funcionamiento del Consejo Rector se ajustará a lo previsto en el capítulo segundo del título primero de la Ley de Procedimiento Administrativo, para los Organos colegiados.
+> Se modifica por la disposición adicional 11 de la Ley 13/1986, de 14 de abril. Ref. BOE-A-1986-9479

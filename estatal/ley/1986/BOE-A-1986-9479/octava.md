@@ -1,0 +1,3 @@
+## Disposición adicional octava.
+
+La presente Ley se aplicará, sin perjuicio de la competencia de la Ley Orgánica 6/1980, de 1 de julio, por la que se regulan los criterios básicos de la Defensa Nacional y la Organización Militar atribuye al Ministro de Defensa, de fomento y coordinación de la investigación científica y técnica en materias que afecten a la Defensa Nacional. En ejercicio de dichas competencias, el Ministro de Defensa podrá adaptar al Plan Nacional y, en su caso, integrar en él proyectos de investigación científica y desarrollo tecnológico en materias que afecten a la Defensa Nacional, para su financiación, en todo o en parte, con cargo a dicho Plan, así como financiar proyectos integrados en los mismos.

@@ -1,0 +1,3 @@
+## Disposición adicional cuarta.
+
+El Gobierno, a iniciativa de los Ministerios de Industria y Energía, Educación y Ciencia, Defensa y Agricultura, Pesca y Alimentación, y a propuesta del de la Presidencia, en el plazo de seis meses a partir de la entrada en vigor de la presente Ley, dictará las normas necesarias para facilitar e incentivar la movilidad del personal investigador al servicio de los Organismos públicos de investigación dependientes de la Administración del Estado. Asimismo, y de acuerdo con las Comunidades Autónomas y las Corporaciones Locales, en su caso, se establecerán medidas para facilitar e incentivar la movilidad de este personal entre las respectivas Administraciones Públicas.
