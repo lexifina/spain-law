@@ -1,0 +1,3 @@
+## Disposición transitoria octava.
+
+Los miembros de la Carrera Judicial a que se refiere la disposición transitoria vigésima quinta de la Ley Orgánica del Poder Judicial podrán participar en el concurso de méritos a que se hace referencia en el artículo 25 de la presente Ley. Si no obtuviesen plaza en el referido concurso o no tomasen parte en el mismo, en el plazo de tres meses, a partir de la fecha de la resolución, deberán optar entre pasar al servicio activo en la Carrera Judicial, quedando adscritos al Tribunal Superior de Justicia o a la Audiencia Provincial de Madrid hasta que obtengan destino en propiedad, o pasar a la situación de excedencia voluntaria en la misma.

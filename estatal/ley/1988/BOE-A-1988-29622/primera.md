@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+En tanto las Comunidades Autónomas no determinen la capitalidad de los partidos judiciales, de conformidad con lo dispuesto en el artículo 35.6 de la Ley Orgánica del Poder Judicial, ésta se entenderá reconocida al municipio que la tuviese a la entrada en vigor de esta Ley; si existiesen varios, al municipio en que radicasen más Juzgados de Primera Instancia e Instrucción; en caso de igualdad, al de mayor población de derecho. En su defecto, al municipio o municipios en que radicasen Juzgados de Distrito, con iguales criterios de preferencia y, en último término, al de mayor población de derecho.

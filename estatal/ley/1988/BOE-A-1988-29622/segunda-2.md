@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+El titular y Secretario de los Juzgados transformados pasarán a ocupar los puestos correspondientes en los Juzgados de lo Penal. El personal adscrito a los Juzgados transformados pasará a estarlo al Juzgado de lo Penal correspondiente, sin perjuicio de las adscripciones que puedan realizarse conforme a los Reglamentos vigentes y de lo que pueda disponerse con arreglo al Real Decreto a que se refiere el artículo 42.1 de esta Ley. Los Juzgados a transformar serán los de Instrucción o Primera Instancia e Instrucción de creación mas reciente. De ellos, el de creación más lejana será el número 1, y así sucesivamente.
