@@ -1,0 +1,7 @@
+## Art. 5.º
+
+La Dirección General de Tráfico, en base y consideración a los estudios que realice, marcará las líneas directrices de los servicios de vigilancia, determinará periódicamente cuáles son las infracciones que, por su frecuencia o potencial peligro, deban ser objeto de atención preferente por las Fuerzas, e igualmente designará los puntos o tramos de vías que, por su peligrosidad, requieran unos servicios especiales de vigilancia, estudiando conjuntamente con la Jefatura de la Agrupación los planes de actuación, a fin de lograr una perfecta coordinación en su ejecución.
+
+A la Jefatura de la Agrupación y a los mandos naturales de ésta incumbe, con carácter exclusivo, dictar las órdenes de servicio en cuanto a distribución de Fuerzas y siempre de acuerdo con las directrices emanadas de la Dirección General de Tráfico. Las modificaciones en la disposición de las Fuerzas, aun cuando respondan a la ejecución de servicios no específicos de la Agrupación, deberán ser comunicadas a ambas Direcciones Generales.
+
+Constituyendo las funciones específicas de la Agrupación un elemento primordial para la seguridad vial, las Fuerzas que la integran sólo podrán ser encargadas de otros servicios o misiones distintas de los que les son propios cuando graves razones de orden público o de seguridad del Estado asi lo demanden, debiendo a la mayor brevedad volver a los que son propios de su especialidad, dándose inmediata cuenta en estos casos a ambas Direcciones Generales.

@@ -1,0 +1,3 @@
+## Art. 1.º
+
+La Agrupación de Tráfico de la Guardia Civil, que ejercerá las funciones de vigilancia y las referentes a ejecución de las normas de regulación del tráfico que le atribuyen las Leyes 47/1959, de 30 de julio, y 55/1978, de 4 de diciembre, constituye, a efectos funcionales, Unidad especial dentro del Cuerpo de la Guardia Civil, dependiendo de la Dirección General de la Guardia Civil en cuanto a personal, disciplina, servicios de carácter militar, armamento, material que no sea de la especialidad de tráfico, instrucción, acuartelamiento y haberes, y de la de Tráfico en lo referente a servicios y material de esta especialidad.
