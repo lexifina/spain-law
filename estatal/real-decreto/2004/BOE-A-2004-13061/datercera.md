@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Aprobación de las directrices para la elaboración de los programas de implantación material efectiva y mantenimiento de la eficacia de los planes de emergencia nuclear, exteriores a las centrales nucleares.
+
+Las directrices por las que se han de regir los programas de información previa a la población, de formación y capacitación de actuantes y de simulacros, a las que se hace referencia en el título IV de este Plan Básico, se aprobarán por resolución del Subsecretario del Interior, previo informe favorable del Consejo de Seguridad Nuclear y de la Comisión Nacional de Protección Civil, en el plazo de seis meses desde la publicación de este real decreto.
