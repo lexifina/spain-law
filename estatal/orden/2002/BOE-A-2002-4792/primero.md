@@ -1,0 +1,3 @@
+## Primero. Capacidad de matricular y expedir permisos o autorizaciones.
+
+El organismo autónomo Jefatura Central de Tráfico o los Cuarteles Generales Militares Internacionales de la Organización del Tratado del Atlántico Norte (OTAN), establecidos en España de conformidad con el Acuerdo entre el Reino de España y la Organización del Tratado del Atlántico Norte relativo a las condiciones especiales aplicables al establecimiento y explotación en territorio español de un Cuartel General Militar Internacional, podrán llevar a cabo la matriculación y expedición del permiso o autorización para circular de los vehículos oficiales al servicio de la citada Organización.

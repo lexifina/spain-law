@@ -1,0 +1,3 @@
+## Tercero. Descripción de la matrícula.
+
+En las placas de matrícula de los vehículos militares de los Cuarteles Generales Militares Internacionales de la OTAN se inscribirán tres grupos de caracteres, separados entre sí por un guión. El primero lo constituirán las letras «FAE» (Fuerzas Aliadas en España); el segundo un número de cuatro cifras que comenzará por el 0000; y el tercero una letra de una serie alfabética que comenzará por la letra A, correspondiendo cada letra a un Cuartel General de los ya establecidos o que sucesivamente se puedan establecer en España. Dichas placas se ajustarán, en cuanto a sus características, colores y colocación, a lo dispuesto en el anexo XVIII del Reglamento General de Vehículos en relación con las matrículas ordinarias.

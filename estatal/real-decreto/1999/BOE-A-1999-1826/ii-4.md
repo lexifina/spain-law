@@ -56,7 +56,7 @@ A. Siglas de provincias
 | Ceuta | CE |
 | Melilla | ML |
 
-B) Contraseñas de los vehículos pertenecientes al Estado:
+B) Contraseñas de los vehículos pertenecientes al Estado y al servicio de los Cuarteles Generales Militares Internacionales de la OTAN:
 
 ET, FN y EA: Para los vehículos pertenecientes al Ministerio de Defensa, correspondientes, respectivamente, al Ejército de Tierra, Armada y Ejército del Aire.
 
@@ -71,5 +71,9 @@ PGC: Para los de la Dirección General de la Guardia Civil.
 DGP: Para los adscritos a la Dirección General de la Policía.
 
 En el caso de vehículos especiales, figurarán las contraseñas anteriores y, separadas por un guión, las letras VE.
+
+FAE para los vehículos al servicio de los Cuarteles Generales Militares Internacionales de la OTAN matriculados en España
+
+> Se modifica el apartado B) por la disposición adicional 1 de la Orden PRE/513/2002, de 5 de marzo. Ref. BOE-A-2002-4792.
 
 > Se modifica el apartado B) por la disposición adicional única de la Orden de 9 de diciembre de 1999. Ref. BOE-A-1999-23609.
