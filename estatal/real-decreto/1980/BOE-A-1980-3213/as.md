@@ -1,3 +1,5 @@
 ## Artículo segundo.
 
-Los bienes, derechos y demás recursos que tuvieran adscritos o de que dispusieran los Organismos declarados extinguidos a que se refieren los números uno, dos y tres de la disposición final primera del Real Decreto-ley treinta y seis/mil novecientos setenta y ocho, de dieciséis de noviembre, serán asumidos por los mismos títulos por la Tesorería General de la Seguridad Social, como Servicio común de la misma en el que se integran las funciones y competencias que aquellos Organismos ostentaban en materia de gestión y administración de los recursos financieros y patrimoniales.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1221/1992, de 9 de octubre. Ref. BOE-A-1992-24743.

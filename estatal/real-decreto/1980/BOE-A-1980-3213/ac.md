@@ -1,3 +1,5 @@
 ## Artículo cuarto.
 
-La Tesorería General de la Seguridad Social adscribirá a las Entidades gestoras y Servicios comunes los bienes inmuebles necesarios para el desenvolvimiento de sus servicios, sin perjuicio de las facultades de dirección, vigilancia y tutela que corresponden al Ministerio de Sanidad y Seguridad Social.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1221/1992, de 9 de octubre. Ref. BOE-A-1992-24743.
