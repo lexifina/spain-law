@@ -18,7 +18,7 @@
 
 7. Real Decreto 2121/1993, de 3 de diciembre, relativo a las normas de policía sanitaria que regulan los intercambios intracomunitarios y las importaciones de terceros países de animales de las especies ovina y caprina.
 
-8. Real Decreto 224/1993, de 17 de diciembre, sobre normas sanitarias de eliminación y transformación de animales muertos y desperdicios de origen animal y protección frente a agentes patógenos en piensos de origen animal.
+8. Reglamento (CE) n.º 1774/2002 del Parlamento Europeo y del Consejo, de 3 de octubre de 2002, por el que se establecen las normas sanitarias aplicables a los subproductos animales no destinados al consumo humano, y normativa española dictada para su aplicación.
 
 9. Real Decreto 66/1994, de 21 de enero, por el que se establecen las normas relativas a la protección de los animales durante el transporte.
 
@@ -43,6 +43,8 @@ Real Decreto 1882/1994, de 16 de septiembre, por el que se establecen las condic
 4. Real Decreto 1026/1993, de 25 de junio, sobre selección y reproducción de ganado equino de razas puras.
 
 5. Real Decreto 391/1992, de 21 de abril, por el que se regula el reconocimiento oficial de los organismos o asociaciones de criadores de animales de razas puras que lleven o creen libros genealógicos.
+
+> Se modifica el apartado 8 de la sección 1 del capítulo 1 por el art. 1 del Real Decreto 500/2003, de 2 de mayo. Ref. BOE-A-2003-9447.
 
 > Se modifica por la disposición adicional 3 y el anexo 3.2 del Real Decreto 2551/1994, de 29 de diciembre. Ref. BOE-A-1995-3553.
 
