@@ -22,4 +22,6 @@ Se consideran como familiares, a efectos del cómputo de superficie, no sólo el
 
 Los titulares de familia numerosa podrán utilizar el derecho que les concede el artículo ciento seis del Reglamento para agrupar dos o tres viviendas, que constituyan unidad horizontal o vertical, durante el período de construcción, cualquiera que sea el promotor de las mismas. A estos efectos, éste habrá de solicitar del Instituto Nacional de la Vivienda autorización para modificar el proyecto aprobado por la calificación provisional e indicando nominalmente el titular de familia numerosa que haya de ocupar la vivienda, bien sea mediante contrato de compraventa, arrendamiento o cesión en régimen de acceso diferido a la propiedad. La autorización de la modificación no implicará alteración de los beneficios económicas concedidos para la construcción, bien consistan en préstamos, anticipos, subvenciones o primas.
 
+> Véase en relación al coste de ejecución material por metro cuadrado de las viviendas, el art. 1 del Decreto 3474/1974, de 20 de diciembre. Ref. BOE-A-1974-2081.
+
 > Se añade el párrafo último y se modifican los párrafos noveno y décimo por el art. 1 y 2 del Decreto 148/1971, de 28 de enero. Ref. BOE-A-1971-170.
