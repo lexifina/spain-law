@@ -1,0 +1,3 @@
+## Décimo. Aportación de la información a la Intervención General de la Administración del Estado.
+
+Una vez realizados los procesos de validación de la información aportada por las entidades colaboradoras, a que se refiere el apartado III.2 de la Orden de 15 de junio de 1995, la Agencia Estatal de Administración Tributaria remitirá la información correspondiente a los ingresos a que se refiere el ámbito de aplicación de esta Orden a la Intervención General de la Administración del Estado de forma centralizada, de acuerdo con las especificaciones establecidas por la Agencia Estatal de Administración Tributaria y la Intervención General de la Administración del Estado, a fin de que dicho Centro pueda efectuar la aplicación contable de esos ingresos.
