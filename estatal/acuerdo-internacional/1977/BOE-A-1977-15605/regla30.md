@@ -1,6 +1,6 @@
 ## Regla 30. Buques fondeados y buques varados.
 
-a) Los buques fondeados exhibirán en el lugar mas visible:
+a) Los buques fondeados exhibirán en el lugar más visible:
 
 i) en la parte de proa, una luz blanca todo horizonte o una bola;
 
@@ -16,6 +16,10 @@ i) dos luces rojas todo horizonte en línea vertical;
 
 ii) tres bolas en línea vertical.
 
-e) Las embarcaciones de menos de siete metros de eslora cuando estén fondeadas o varadas en un lugar que no esté dentro ni cerca de un canal angosto, paso, fondeadero o zona de navegación frecuente, no tendrán obligación de exhibir las luces o marcas prescritas en los párrafos a), b) o d) de esta Regla.
+e) Las embarcaciones de menos de siete metros de eslora cuando estén fondeadas en un lugar que no esté dentro ni cerca de un canal angosto, paso, fondeadero o zona de navegación frecuente, no tendrán obligación de exhibir las luces o marcas prescritas en los párrafos a) y b) de esta Regla.
+
+f) Los buques de menos de 12 metros de eslora, cuando estén varados, no tendrán obligación de exhibir las luces o marcas prescritas en los apartados i) y ii) del párrafo d) de esta Regla.
+
+> Se modifica la letra e) y se añade la letra f) por los apartados 27 y 28 de la Resolución A. 464 (XII), de 19 de noviembre. Ref. BOE-A-1983-17575.
 
 > Redactados los apartados b), d) y e) conforme a las correcciones de errores publicadas en BOE núms. 14, de 17 de enero de 1978. Ref. BOE-A-1978-1322. y 112, de 11 de mayo de 1981. Ref. BOE-A-1981-10573.

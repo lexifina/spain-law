@@ -14,9 +14,9 @@ e) La palabra «hidroavión» designa a toda aeronave proyectada para maniobrar 
 
 f) La expresión «buque sin gobierno» significa todo buque que por cualquier circunstancia excepcional es incapaz de maniobrar en la forma exigida por este Reglamento y, por consiguiente, no puede apartarse de la derrota de otro buque.
 
-g) La expresión «buque con capacidad de maniobra restringida», significa todo buque que, debido a la naturaleza de su trabajo, tiene reducida su capacidad para maniobrar en la forma exigida por este Reglamento y, por consiguiente, no puede apartarse de la derrota de otro buque.
+g) La expresión «buque con capacidad de maniobra «restringida», significa todo buque que, debido a la naturaleza de su trabajo, tiene reducida su capacidad para maniobrar en la forma exigida por este Reglamento y, por consiguiente, no puede apartarse de la derrota de otro buque.
 
-Se considerará que tienen restringida su capacidad de maniobra los buques siguientes:
+La expresión "Buques con capacidad de maniobra restringida, incluirá pero no se limitará a:
 
 i) buques dedicados a colocar, reparar o recoger marcas de navegación, cables o conductos submarinos;
 
@@ -26,7 +26,7 @@ iii) buques en navegación que estén haciendo combustible o transportando carga
 
 iv) buques dedicados al lanzamiento o recuperación de aeronaves;
 
-v) buques dedicados a operaciones de dragado de minas;
+v) buques dedicados a operaciones de limpieza de minas;
 
 vi) buques dedicados a operaciones de remolque que por su naturaleza restrinjan fuertemente al buque remolcador y su remolque en su capacidad para apartarse de su derrota.
 
@@ -39,3 +39,5 @@ j) Por «esloras» y «mangas» se entenderá la eslora total y la manga máxima
 k) Se entenderá que los buques están a la vista uno del otro únicamente cuando uno pueda ser observado visualmente desde el otro.
 
 l) La expresión «visibilidad reducidas» significa toda condición en que la visibilidad está disminuida por niebla, bruma, nieve, fuertes aguaceros, tormentas de arena o cualesquiera otras causa análogas.
+
+> Se modifica la letra g) por los apartados 2 y 3 de la Resolución A. 464 (XII), de 19 de noviembre. Ref. BOE-A-1983-17575.

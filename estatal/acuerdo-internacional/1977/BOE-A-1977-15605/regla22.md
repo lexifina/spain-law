@@ -38,4 +38,10 @@ c) En los buques de eslora inferior a 12 metros:
 
 – luz todo horizonte blanca, roja, verde o amarilla, 2 millas.
 
+d) En los buques u objetos remolcados poco visibles y parcialmente sumergidos:
+
+- luz blanca, todo horizonte, tres millas;
+
+> Se añade la letra d) por el apartado 10 de la Resolución A. 464 (XII), de 19 de noviembre. Ref. BOE-A-1983-17575.
+
 > Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 112, de 11 de mayo de 1981. Ref. BOE-A-1981-10573.

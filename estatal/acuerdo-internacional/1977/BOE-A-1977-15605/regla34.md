@@ -20,7 +20,7 @@ i) el significado de estas señales luminosas será el siguiente:
 
 ii) la duración de cada destello será de un segundo aproximadamente, el intervalo entre destellos será de un segundo aproximadamente, y el intervalo entre señales sucesivas no será inferior a diez segundos;
 
-iii) cuando se lleve, la luz utilizada para estas señales será una luz blanca todo horizonte visible a una distancia mínima de cinco millas, y cumplirá con las especificaciones del anexo I.
+iii) cuando se lleve, la luz utilizada para estas señales será una luz blanca todo horizonte visible a una distancia mínima de cinco millas, y cumplirá con las especificaciones del anexo I del presente Reglamento.
 
 c) Cuando dos buques se encuentren a la vista uno del otro en un paso o canal angosto:
 
@@ -39,3 +39,5 @@ d) Cuando varios buques a la vista unos de otros se aproximen, y por cualquier c
 e) Los buques que se aproximen a un recodo o zona de un paso o canal en donde, por estar obstruida la visión, no puedan ver a otros buques, harán sonar una pitada larga. Esta señal será contestada con una pitada larga por cualquier buque que se aproxime, que pueda estar dentro del alcance acústico al otro lado del recodo o detrás de la obstrucción.
 
 f) Cuando los pitos estén instalados en un buque a una distancia entre sí superior a 100 metros, se utilizará solamente uno de los pitos para hacer señales de maniobra y advertencia.
+
+> Se modifica la letra b.iii) por el apartado 30 de la Resolución A. 464 (XII), de 19 de noviembre. Ref. BOE-A-1983-17575.

@@ -8,7 +8,7 @@ a) Frecuencia y alcance audible.
 
 La frecuencia fundamental de la señal deberá estar comprendida dentro de la gama de 70 a 700 Hz.
 
-El alcance audible de la señal de un pito estará determinado por aquellas frecuencias en las que puedan incluirse la frecuencia fundamental y/o una o más frecuencias armónicas más elevadas que queden dentro de la gama de 180 a 700 Hz (± 1 por 100) y que proporcionen los niveles de presión sonora especificados en la sección 1 c).
+El alcance audible de la señal de un pito estará determinado por aquellas frecuencias en las que puedan incluirse la frecuencia fundamental y/o una o más frecuencias armónicas más elevadas que queden dentro de la gama de 180 a 700 Hz (± 1 por 100) y que proporcionen los niveles de presión acústica especificados en la sección 1 c).
 
 b) Límites de las frecuencias fundamentales.
 
@@ -22,7 +22,7 @@ iii) 250 a 700 Hz para buques de eslora inferior a 75 metros.
 
 c) Intensidad de la señal acústica y alcance audible.
 
-Todo pito instalado en un buque deberá proporcionar, en la dirección de máxima intensidad de la pitada y a la distancia de un metro del pito, un nivel de presión sonora no inferior al valor correspondiente de la tabla siguiente, en una banda por lo menos de 1/3 de octava dentro de la gama de frecuencias de 180 a 700 Hz (± 1 por 100).
+Todo pito instalado en un buque deberá proporcionar, en la dirección de máxima intensidad de la pitada y a la distancia de un metro del pito, un nivel de presión acústica no inferior al valor correspondiente de la tabla siguiente, en una banda por lo menos de 1/3 de octava dentro de la gama de frecuencias de 180 a 700 Hz (± 1 por 100).
 
 | Eslora del buque en metros | Nivel de la banda de 1/3 de octava a 1 metro de dB referido a 2 x 10-6 N/m2 | Alcance audible en millas náuticas |
 | --- | --- | --- |
@@ -37,13 +37,13 @@ La distancia a que se puede oír un pito varía muchísimo en la práctica y dep
 
 d) Propiedades direccionales.
 
-El nivel de presión sonora de un pito direccional no debe ser más de 4 dB por debajo del nivel de presión sonora en el eje en cualquier dirección del plano horizontal comprendida dentro de ± 45 grados a partir del eje. El nivel de presión sonora en cualquier otra dirección del plano horizontal no debe ser más de 10 dB por debajo del nivel de presión sonora en el eje, a fin de que el alcance en cualquier dirección sea por lo menos la mitad del correspondiente al eje delantero. El nivel de presión sonora se medirá en la banda del tercio de octava que determina el alcance audible.
+El nivel de presión acústica de un pito direccional no debe ser más de 4 dB por debajo del nivel prescrito de presión acústica en el eje en cualquier dirección del plano horizontal comprendida dentro de ± 45 grados a partir del eje. El nivel de presión acústica en cualquier otra dirección del plano horizontal no debe ser más de 10 dB por debajo del nivel prescrito de presión acústica en el eje, a fin de que el alcance en cualquier dirección sea por lo menos la mitad del correspondiente al eje delantero. El nivel de presión acústica se medirá en la banda del tercio de octava que determina el alcance audible.
 
 e) Posición de los pitos.
 
 Cuando se vaya a utilizar un pito direccional como único silbato de un buque, deberá instalarse con su intensidad máxima dirigida hacia proa.
 
-Los pitos deberán colocarse en la posición más alta posible del buque, con objeto de reducir la interceptación del sonido emitido por la existencia de obstáculos y también para minimizar el riesgo de dañar el oído del personal. El nivel de presión sonora de las propias señales del buque en los puestos de escucha no deberá ser superior a 110 dB (A) ni exceder, en la medida de lo posible, de 100 dB (A).
+Los pitos deberán colocarse en la posición más alta posible del buque, con objeto de reducir la interceptación del sonido emitido por la existencia de obstáculos y también para minimizar el riesgo de dañar el oído del personal. El nivel de presión acústica de las propias señales del buque en los puestos de escucha no deberá ser superior a 110 dB (A) ni exceder, en la medida de lo posible, de 100 dB (A).
 
 f) Instalación de más de un pito.
 
@@ -57,14 +57,16 @@ Si, debido a la presencia de obstáculos, hay riesgo de que el campo acústico d
 
 a) Intensidad de la señal.
 
-Las campanas o los gongs u otros aparatos que tengan características sonoras semejantes, deberán producir un nivel de presión sonora no inferior a 110 dB a la distancia de un metro.
+Las campanas o los gongs u otros aparatos que tengan características acústicas semejantes, deberán producir un nivel de presión acústica no inferior a 110 dB a un metro de distancia.
 
 b) Construcción.
 
-Las campanas y los gongs estarán fabricados con material resistente a la corrosión y proyectados para que suenen con tono claro. La boca de la campana deberá tener no menos de 300 milímetros de diámetro para los buques de eslora superior a 20 metros y no menos de 200 milímetros para los buques de eslora comprendida entre 12 y 20 metros. Cuando sea posible, se recomienda utilizar un badajo accionado mecánicamente para asegurar una fuerza constante, si bien deberá ser también posible el accionamiento manual. La masa del badajo no será inferior al 3 por 100 de la masa de la campana.
+Las campanas y los gongs estarán fabricados con material resistente a la corrosión y proyectados para que suenen con tono claro. La boca de la campana tendrá no menos de 300 milímetros de diámetro para los buques de eslora igual o superior a 20 metros y no menos de 200 milímetros para los buques de eslora igual o superior a 12 metros pero inferior a 20 metros. Cuando sea posible, se recomienda utilizar un badajo accionado mecánicamente para asegurar una fuerza constante, si bien deberá ser también posible el accionamiento manual. La masa del badajo no será inferior al 3 por 100 de la masa de la campana.
 
 ## 3. Aprobación.
 
-La construcción de aparatos de señales acústicas, su funcionamiento y su instalación a bordo del buque, deberán realizarse a satisfacción de la autoridad competente del Estado en que esté matriculado el buque.
+La construcción de aparatos de señales acústicas, su funcionamiento y su instalación a bordo del buque, deberán realizarse a satisfacción de la autoridad competente del Estado cuyo pabellón tenga derecho a enarbolar el buque.
+
+> Se modifica por los apartados 52 a 55 de la Resolución A. 464 (XII), de 19 de noviembre. Ref. BOE-A-1983-17575.
 
 > Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 112, de 11 de mayo de 1981. Ref. BOE-A-1981-10573.

@@ -4,7 +4,7 @@
 
 ## 1. Definición.
 
-La expresión «altura por encima del casco» significa la altura sobre la cubierta corrida más elevada.
+La expresión «altura por encima del casco» significa la altura sobre la cubierta corrida más elevada. Esta altura se medirá desde la posición que queda en línea vertical debajo del emplazamiento de la luz.
 
 ## 2. Posición y separación vertical de las luces.
 
@@ -20,9 +20,11 @@ c) En un buque de propulsión mecánica de eslora igual o superior a 12 metros, 
 
 d) Un buque de propulsión mecánica de menos de 12 metros de eslora, podrá llevar su luz más elevada a una altura inferior a 2,5 metros sobre la regala. Pero si se lleva una luz de tope, además de luces de costado y luz de alcance, dicha luz de tope deberá estar por lo menos a un metro por encima de las luces de costado.
 
-e) Una de las dos o tres luces de tope prescritas para los buques de propulsión mecánica dedicados a remolcar o empujar a otros buques, irá colocada en la misma posición que la luz de tope de proa de un buque de propulsión mecánica.
+e) Una de las dos o tres luces de tope prescritas para los buques de propulsión mecánica dedicados a remolcar o empujar a otro buque, irá colocada en la misma posición que la luz de tope de proa o que la luz de tope de popa; siempre que, si se llevan en el palo de popa, la luz de tope más baja de popa esté colocada por lo menos a 4,5 metros, verticalmente, por encima de la luz de tope de proa.
 
-f) En toda circunstancia, la luz o luces de tope irán colocadas de forma que queden claras y por encima de las restantes luces y obstrucciones.
+f) i) La luz o las luces de tope prescritas en la Regla 23 a) irán colocadas de forma que queden claras y por encima de las restantes luces y obstrucciones, salvo en el caso indicado en el apartado ii)
+
+ii) Cuando sea imposible llevar las luces todo horizonte prescritas en la Regla 27 b) i) o en la Regla 28 por debajo de las luces de tope, se podrán llevar por encima de la luz o de las luces de tope de popa o verticalmente entre la luz o las luces de tope de proa y la luz o las luces de tope de popa, a condición de que, en este último caso, se cumpla con lo prescrito es la sección 3 c) del presente Anexo.
 
 g) Las luces de costado de los buques de propulsión mecánica irán colocadas a una altura por encima del casco, no superior a las tres cuartas partes de la altura de la luz de tope de proa. No deberán estar tan bajas que se interfieran con las luces de cubierta.
 
@@ -30,21 +32,23 @@ h) Si las luces de costado van en un solo farol combinado, cuando lo lleve un bu
 
 i) Cuando las Reglas prescriban dos o tres luces colocadas según una línea vertical, irán separadas de la siguiente forma:
 
-i) en buques de eslora igual o superior a 20 metros, las luces irán colocadas con una separación no inferior a dos metros estando la más baja de dichas luces a no menos de cuatro metros por encima del casco, salvo cuando se exija una luz de remolque;
+i) En los buques de eslora igual o superior a 20 metros, tales luces irán colocadas con una separación no inferior a dos metros y la más baja de ellas a una altura no inferior a cuatro metros por encima del casco, salvo cuando se exija una luz de remolque.
 
-ii) en los buques de eslora inferior a 20 metros, las luces irán colocadas con una separación no inferior a un metro, estando la más baja de dichas luces a no menos de dos metros por encima de la regala, salvo cuando se exija una luz de remolque;
+ii) En los buques de eslora inferior a 20 metros, tales luces irán colocadas con una separación no inferior a un metro y la más baja de ellas a una altura no inferior a dos metros por encima del casco, salvo cuando se exija una luz de remolque;
 
 iii) cuando se lleven tres luces, irán separadas a distancias iguales.
 
-j) La más baja de las dos luces todo horizonte prescritas para un buque de pesca dedicado a la pesca estará colocada a una altura por encima de las luces de costado no inferior al doble de la distancia que exista entre las dos luces verticales.
+j) La más baja de las dos luces todo horizonte prescritas para un buque dedicado a la pesca estará colocada a una altura por encima de las luces de costado no inferior al doble de la distancia que exista entre las dos luces verticales.
 
-k) Si se llevan dos luces de fondeo, la de proa no irá a menos de 4,50 metros por encima de la de popa. En los buques de eslora igual o superior a 50 metros, la luz de fondeo de proa no estará a menos de seis metros por encima del casco.
+k) Si se llevan dos luces de fondeo, la luz de proa prescrita en la Regla 30 a) i) no irá a menos de 4,50 metros por encima de la de popa. En los buques de eslora igual o superior a 50 metros, la luz de fondeo de proa se colocará a una altura no inferior a seis metros por encima del casco.
 
 ## 3. Posición y separación horizontal de las luces.
 
 a) Cuando se prescriban dos luces de tope para un buque de propulsión mecánica; la distancia horizontal entre ellas no será menor que la mitad de la eslora del buque, pero no será necesario que exceda de 100 metros. La luz de proa estará colocada a una distancia, de la roda del buque, no superior a la cuarta parte de su eslora.
 
-b) En los buques de eslora igual o superior a 20 metros, las luces de costado no se instalarán por delante de la luz del tope de proa. Estarán situadas en el costado del buque o cerca de él.
+b) En los buques de propulsión mecánica de eslora igual o superior a 20 metros, las luces de costado no se instalarán por delante de la luz del tope de proa. Estarán situadas en el costado del buque o cerca de él.
+
+c) Cuando las luces prescritas en la Regla 27 b) i) o en la Regla 28 estén colocadas verticalmente entre la luz o las luces de tope de proa y la luz o las luces de tope de popa, esas luces todo horizonte se colocarán a una distancia horizontal no inferior a dos metros del eje longitudinal del buque en la dirección de babor a estribor.
 
 ## 4. Detalles sobre emplazamiento de las luces indicadoras de dirección en buques dedicados a operaciones de pesca, dragado o submarinas.
 
@@ -54,7 +58,7 @@ b) Las luces y marcas que deben exhibir los buques dedicados a operaciones de dr
 
 ## 5. Pantallas para las luces de costado.
 
-Las luces de costado deberán ir dotadas, por la parte de crujía, de pantallas pintadas de negro mate y que satisfagan los requisitos de la Sección 9 del presente anexo. Cuando las luces de costado van en un farol combinado y utilizan un filamento vertical único con una división muy fina entre las secciones verde y roja, no es necesario instalar pantallas exteriores.
+Las luces de costado de los buques de eslora igual o superior 20 metros deberán ir dotadas, por la parte de crujía, de pantallas pintadas de negro mate y que satisfagan los requisitos de la Sección 9 del presente anexo. En los buques de eslora inferior a 20 metros, las luces de costado cuando sean necesarias para cumplir con lo prescrito en la sección 9 del presente Anexo, irán dotadas, por la parte de crujía, de pantallas de color negro mate. Cuando las luces de costado van en un farol combinado y utilizan un filamento vertical único con una división muy fina entre las secciones verde y roja, no es necesario instalar pantallas exteriores.
 
 ## 6. Marcas.
 
@@ -133,23 +137,25 @@ b) En la tabla siguiente se dan varios valores derivados de la fórmula:
 
 Nota: Se debe limitar la intensidad luminosa máxima de las luces de navegación para evitar deslumbramientos.
 
+No se logrará esta limitación mediante una regulación variable de la intensidad luminosa.
+
 ## 9. Sectores horizontales.
 
-a) i) las luces de costado instaladas a bordo deberán tener las intensidades mínimas requeridas en la dirección de la proa. Dichas intensidades deberán decrecer hasta quedar prácticamente anuladas entre uno y tres grados por fuera de los sectores prescritos.
+a) i) las luces de costado instaladas a bordo tendrán las intensidades mínimas requeridas en la dirección de la proa. Dichas intensidades decrecerán hasta quedar prácticamente anuladas entre uno y tres grados por fuera de los sectores prescritos.
 
-ii) para las luces de alcance y las de tope, y a 22,5 grados a popa del través, en las luces de costado, se mantendrán las intensidades mínimas requeridas en un arco de horizonte de hasta cinco grados dentro de los límites de los sectores prescritos en la Regla 21. A partir de cinco, grados, dentro de los sectores prescritos, la intensidad podrá decrecer en un 50 por 100 hasta los límites señalados; a continuación deberá decrecer de forma continua hasta quedar prácticamente anulada a no más de cinco grados por fuera de los límites prescritos.
+ii) para las luces de alcance y las de tope, y a 22,5 grados a popa del través, en las luces de costado, se mantendrán las intensidades mínimas requeridas en un arco de horizonte de hasta cinco grados dentro de los límites de los sectores prescritos en la Regla 21. A partir de cinco, grados, dentro de los sectores prescritos, la intensidad podrá decrecer en un 50 por 100 hasta los límites señalados; a continuación deberá decrecer de forma continua hasta quedar prácticamente anulada a no más de cinco grados por fuera de los sectores prescritos.
 
-b) Las luces todo horizonte, excepto las luces de fondeo, que no precisan ir colocadas a gran altura sobre cubierta, estarán situadas de manera que no queden obstruidas por palos, masteleros o estructuras en sectores angulares superiores a seis grados.
+b) Las luces todo horizonte, excepto las luces de fondeo prescritas en la Regla 30, que no precisan ir colocadas a gran altura sobre cubierta, estarán situadas de manera que no queden obstruidas por palos, masteleros o estructuras en sectores angulares superiores a seis grados.
 
 ## 10. Sectores verticales.
 
-a) En los sectores verticales de las luces eléctricas, a excepción de las luces instaladas en buques de vela, deberá garantizarse que:
+a) En los sectores verticales de las luces eléctricas una vez instaladas éstas, a excepción de las luces instaladas en buques de vela, deberá garantizarse que:
 
 i) se mantiene por lo menos la intensidad mínima prescrita a cualquier ángulo situado desde cinco grados por encima de la horizontal hasta cinco grados por debajo de ella.
 
 ii) se mantiene por lo menos el 80 por 100 de la intensidad mínima prescrita desde 7,5 grados por encima de la horizontal hasta 7,5 grados por debajo de ella.
 
-b) En el caso de los buques de vela, en los sectores verticales de las luces eléctricas deberá garantizarse que:
+b) En el caso de los buques de vela, en los sectores verticales de las luces eléctricas una vez instaladas éstas deberá garantizarse que:
 
 i) Se mantiene por lo menos la intensidad mínima prescrita a cualquier ángulo situado desde cinco grados por encima de la horizontal hasta cinco grados por debajo de ella.
 
@@ -167,6 +173,8 @@ No obstante lo dispuesto en la sección 2 f) del presente anexo, la luz de manio
 
 ## 13. Aprobación.
 
-La construcción de faroles y marcas, así como la instalación de los faroles a bordo del buque, deberán realizarse a satisfacción de la autoridad competente del Estado en que esté matriculado el buque.
+La construcción de luces y marcas, así como la instalación de luces a bordo del buque, se ajustarán a criterios que la autoridad competente del Estado cuyo pabellón tenga derecho a enarbolar el buque juzgue satisfactorios.
+
+> Se modifica por los apartados 36 a 51 de la Resolución A. 464 (XII), de 19 de noviembre. Ref. BOE-A-1983-17575.
 
 > Redactados los apartados 9.a.ii), 2.k), 11 y 12 conforme a las correcciones de errores publicadas en BOE núms. 14, de 17 de enero de 1978. Ref. BOE-A-1978-1322. y 112, de 11 de mayo de 1981. Ref. BOE-A-1981-10573.
