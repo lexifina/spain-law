@@ -1,0 +1,3 @@
+## Disposición adicional primera. Aplicación del Real Decreto a otros entes públicos de investigación.
+
+El régimen jurídico establecido en el presente Real Decreto para las invenciones realizadas por personal investigador será también aplicable a las invenciones realizadas por el personal investigador del Instituto de Astrofísica de Canarias, creado por Real Decreto-ley 7/1982, de 30 de abril; del Canal de Experiencias Hidrodinámicas de El Pardo, creado por Decreto de 18 de febrero de 1933; del Centro Español de Metrología, creado por Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado, y del Centro de Estudios y Experimentación de Obras Públicas, creado por Decreto de 23 de agosto de 1957, sin perjuicio de lo dispuesto en sus regímenes estatutarios.
