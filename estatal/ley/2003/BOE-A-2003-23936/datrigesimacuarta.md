@@ -56,7 +56,7 @@ Lo dispuesto en este número será igualmente aplicable a la entidad organizador
 
 Seis. Impuesto Especial sobre Determinados Medios de Transporte.
 
-Las embarcaciones y los vehículos para su transporte a los que sea de aplicación el régimen de importación temporal previsto en el artículo cuatro anterior y mientras les sea aplicable el régimen en él previsto no estarán obligados a matricularse en España ni sujetos al Impuesto Especial sobre Determinados Medios de Transporte.
+La obligación de matriculación en España prevista en la disposición adicional primera de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, no será exigible en relación con las embarcaciones y buques de recreo o de deportes náuticos que se utilicen en el territorio español por la organización de la XXXII Copa América o por los equipos participantes en ésta en el desarrollo de dicho acontecimiento. No obstante, una vez finalizado el acontecimiento será exigible la obligación de matriculación antes referida una vez transcurrido el plazo a que se hace referencia en el primer párrafo de la letra d) del apartado 1 del artículo 65 de la citada Ley.
 
 Siete. Régimen Fiscal del Consorcio Valencia 2007.
 
@@ -121,5 +121,13 @@ Tarifa relativa al servicio de recepción de desechos generados por buques.
 Las entidades a que se refiere el primer párrafo del presente apartado, en relación con las actividades que se enumeran en dicho párrafo, no estarán obligadas a la constitución de las garantías provisional, definitiva y de explotación reguladas en la mencionada Ley 48/2003.
 
 El Consorcio Valencia 2007 y las entidades de derecho privado creadas por él para servir de apoyo a sus fines tendrán derecho a los beneficios en materia de honorarios y aranceles notariales y registrales previstos para las Administraciones que lo integran.
+
+Nueve. No estarán sujetas al Impuesto sobre Sucesiones y Donaciones las adquisiciones mortis causa y las cantidades percibidas por los beneficiarios de seguros de vida, cuando el causahabiente o beneficiario haya adquirido la residencia en España como consecuencia de su desplazamiento a dicho territorio con motivo de la celebración de la XXXII Copa América.
+
+La no sujeción regulada en el párrafo anterior estará vigente hasta el 31 de diciembre de 2007 y podrá acreditarse mediante certificación, que a tal extremo deberá emitir el Consorcio Valencia 2007.
+
+> Se modifica el apartado 6 y se añade el 9, con efectos desde el 1 de enero de 2004, por el art. 16 de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831.
+
+> Redactado el apartado 6 conforme a la corrección de errores publicada en BOE núm. 115, de 14 de mayo de 2005. Ref. BOE-A-2005-7874.
 
 > Redactado el apartado 2.1 conforme a la corrección de errores y erratas publicado en BOE núm.79, de 1 de abril de 2004. Ref. BOE-A-2004-5818.
