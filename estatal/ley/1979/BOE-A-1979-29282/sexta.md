@@ -1,0 +1,3 @@
+## Disposición transitoria sexta.
+
+En el caso de que por ser menor el número de solicitantes que el de plazas a cubrir en los nuevos Cuerpos por los procedimientos previstos en las Disposiciones transitorias de esta ley, no se cubriesen inicialmente todas las plazas asignadas a dicho procedimiento, las plazas que no se cubran se deducirán provisionalmente de las plantillas fijadas a los nuevos Cuerpos en el articulo primero, figurando en concepto presupuestario separado. A medida que dichas plazas vayan siendo cubiertas se traspasaran a las correspondientes plantillas fijadas en el artículo primero.
