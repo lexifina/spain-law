@@ -1,0 +1,3 @@
+## Artículo vigésimo segundo.
+
+Las infracciones al presente Decreto, aparte de las sanciones que pudieran ser de aplicación con arreglo a la Ley ciento sesenta y ocho/mil novecientos sesenta y uno, de veintitrés de diciembre, sobre sanciones por faltas cometidas contra las Leyes, Reglamentos y Reglas Generales de Policía de Navegación de las industrias marítimas y de los puertos, no comprendidas en la Ley Penal de la Marina Mercante, podrán dar lugar a la retirada temporal del título correspondiente, por períodos proporcionados a la entidad de la infracción, e incluso a su retirada definitiva.
