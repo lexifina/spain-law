@@ -1,6 +1,6 @@
 ## Artículo cuarenta y tres
 
-Uno. La sanción de aislamiento se cumplirá con informe del médico del establecimiento, quien vigilará diariamente al interno mientras permanezca en esa situa-ción, informando al director sobre su estado de salud física y mental y, en su caso, sobre la necesidad de suspender o modificar la sanción impuesta.
+Uno. La sanción de aislamiento se cumplirá con informe del médico del establecimiento, quien vigilará diariamente al interno mientras permanezca en esa situación, informando al director sobre su estado de salud física y mental y, en su caso, sobre la necesidad de suspender o modificar la sanción impuesta.
 
 Dos. En los casos de enfermedad del sancionado, y siempre que las circunstancias lo aconsejen, se suspenderá la efectividad de la sanción que consista en internamiento en celda de aislamiento, hasta que el interno sea dado de alta o el correspondiente órgano colegiado lo estime oportuno, respectivamente.
 
