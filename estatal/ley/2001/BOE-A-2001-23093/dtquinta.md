@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Inicio de las actividades registrales de los órganos competentes de las Comunidades Autónomas.
+
+Las Comunidades Autónomas que estatutariamente tuvieran atribuida la competencia para la ejecución de la legislación de propiedad industrial, previa coordinación con la Oficina Española de Patentes y Marcas, publicarán en sus respectivos Boletines Oficiales la fecha a partir de la cual iniciará su funcionamiento el órgano competente de las mismas para recibir y examinar las solicitudes conforme a lo previsto en esta Ley. Hasta la entrada en funcionamiento de dichos órganos, las funciones registrales que los mismos tienen atribuidas serán ejecutadas por la Oficina Española de Patentes y Marcas.
