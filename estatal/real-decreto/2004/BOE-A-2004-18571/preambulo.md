@@ -1,0 +1,19 @@
+La Directiva 94/25/CE del Parlamento Europeo y del Consejo, de 16 de junio de 1994, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros, relativas a embarcaciones de recreo, adoptada para la armonización de las diferentes legislaciones nacionales en dicha materia con la finalidad de eliminar los obstáculos al comercio y las condiciones de competencia desiguales en el mercado interior de la Unión Europea, establecía los requisitos básicos de seguridad en el diseño y construcción de dicha clase de embarcaciones, acabadas y semiacabadas, así como la de ciertos de sus componentes con incidencia en la seguridad de la navegación. Asimismo, regulaba los procedimientos de evaluación de conformidad de los citados productos con los requisitos esenciales establecidos, y el régimen para la designación por los Estados miembros de los organismos notificados encargados de realizar ciertos cometidos en dichos procedimientos de evaluación de conformidad. Finalmente, regulaba la exigencia, características y condiciones del marcado «CE» de dichos productos.
+
+La incorporación al ordenamiento jurídico español de la citada directiva se efectuó mediante el Real Decreto 297/1998, de 27 de febrero, por el que se regulan los requisitos de seguridad de las embarcaciones de recreo, embarcaciones de recreo semiacabadas y sus componentes, en aplicación de la Directiva 94/25/CE.
+
+Con fecha 16 de junio de 2003, se ha aprobado la Directiva 2003/44/CE del Parlamento y del Consejo, por la que se modifica en profundidad la Directiva 94/25/CE.
+
+La nueva directiva amplia el ámbito de la regulación a las motos náuticas y a sus motores, a los motores de propulsión de embarcaciones de recreo, a las emisiones de escapes y a las emisiones sonoras de dichos motores. Con ello se persigue integrar determinados requisitos en materia de protección de medio ambiente, en aras de fomentar un desarrollo sostenible, velando al tiempo por una protección de la seguridad marítima.
+
+Con el objetivo de garantizar una utilización segura de las embarcaciones de recreo, la directiva lleva a cabo una clarificación de numerosas cuestiones técnicas relativas a los requisitos básicos para la construcción de tales embarcaciones en los aspectos relativos a categorías de diseño, carga máxima recomendada, identificación, depósitos de combustible, equipos contra incendios y prevención de vertidos.
+
+Es propósito de la directiva, asimismo, que la comercialización de los productos regulados en ella solo se lleve a cabo cuando hayan sido fabricados y diseñados de conformidad con los requisitos en ella establecidos, lo que se acredita mediante el marcado «CE». También pretenden extenderse sus efectos a dichos productos sean cuales fueran las aguas, marítimas o aguas interiores no marítimas, en las que vayan a ser utilizados.
+
+El contenido de este real decreto se circunscribe materialmente al ámbito competencial de la marina mercante, que el artículo 149.1.20.ª de la Constitución encomienda con carácter exclusivo al Estado, sin abarcar otros aspectos tales como los relativos a la comercialización de los productos que, si bien desde la perspectiva de la normativa comunitaria no puedan ser soslayados ni incumplidos, trascienden el propósito de este real decreto.
+
+Desde esta concreta perspectiva, este real decreto incorpora al ordenamiento jurídico español la Directiva 2003/44/CE y, en atención a la cantidad e intensidad de las modificaciones que esta introduce en la Directiva 94/25/CE, deroga íntegramente el Real Decreto 297/1998, de 27 de febrero, con la finalidad de clarificar y dotar de la mayor seguridad al régimen jurídico aplicable a las embarcaciones de recreo.
+
+En su virtud, a propuesta de la Ministra de Fomento, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 29 de octubre de 2004,
+
+DISPONGO:

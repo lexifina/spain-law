@@ -1,0 +1,9 @@
+## ANEXO XIII
+
+## Documentación técnica que deberá presentar el fabricante
+
+La documentación técnica a la que se refieren los anexos V, VII, VIII, IX, XI y XVI deberá incluir todos los datos pertinentes o medios empleados por el fabricante para asegurar la conformidad de los componentes o embarcaciones con los requisitos básicos aplicables.
+
+La documentación técnica deberá permitir la comprensión del diseño, la fabricación y el funcionamiento del producto, así como la evaluación de su conformidad con los requisitos de este real decreto.
+
+En la medida en que sea necesario para la evaluación, la documentación contendrá una descripción general del tipo; dibujos del diseño y de la fabricación y esquemas de los componentes, subconjuntos, los circuitos, etc.; las descripciones y explicaciones necesarias para la comprensión de dichos dibujos y esquemas y del funcionamiento del producto; una lista de las normas a las que se refiere el artículo 4.2, aplicadas parcialmente o en su totalidad, así como las descripciones de las soluciones adoptadas para cumplir los requisitos básicos en caso de que no se hayan aplicado las normas mencionadas en el artículo 4.2; los resultados de los cálculos de diseño efectuados, los exámenes realizados, etc.; los informes de los ensayos o los cálculos, especialmente los de estabilidad con arreglo al apartado 3.2 y los de flotabilidad con arreglo al apartado 3.3, de los requisitos básicos (parte A del anexo I); los informes de los ensayos sobre emisiones de escape que demuestren el cumplimiento del apartado 2 de los requisitos básicos (parte B del anexo I); los informes de los ensayos sobre emisiones sonoras o los datos relativos a la embarcación de referencia que demuestren el cumplimiento del apartado 1 de los requisitos básicos (parte C del anexo I).
