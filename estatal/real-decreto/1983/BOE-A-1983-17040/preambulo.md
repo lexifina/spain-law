@@ -1,0 +1,7 @@
+La existencia de una laguna legal, derivada de la falta de desarrollo, por una normativa específica, de los principios constitucionales sobre el derecho de huelga, en relación con los funcionarios públicos, aconseja adoptar, con carácter de urgencia, unas normas mínimas que den tratamiento jurídico adecuado a aquellas situaciones de hecho que pueden incidir gravemente en el funcionamiento de ciertos servicios esenciales para la comunidad, entre los que se encuentran los prestados por las Instituciones Penitenciarias.
+
+El Gobierno debe armonizar el disfrute del derecho de huelga, reconocido en los artículos 28.2 y 37.2 de la Constitución, con el aseguramiento de unos servicios indispensables que, limitando lo menos posible el contenido del repetido derecho, sean a la vez suficientes para garantizar la actividad ininterrumpida de las Instituciones Penitenciarias.
+
+En su virtud, reafirmando el deber del poder público de intervenir en tales situaciones para hallar una solución equilibrada, dando cumplimiento a los mandatos constitucionales, e inspirándose para ello en la jurisprudencia del Tribunal Constitucional y del Tribunal Supremo, así como en los pactos internacionales de los que España es parte, y en el propio artículo 10, párrafo segundo, del Real Decreto-ley 17/1977, de 4 de marzo, a propuesta del Ministro de Justicia y previa deliberación del Consejo de Ministros en su reunión del día 1 de junio de 1983,
+
+DISPONGO:
