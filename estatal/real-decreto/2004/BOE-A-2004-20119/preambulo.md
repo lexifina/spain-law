@@ -1,0 +1,19 @@
+El Consejo de Cooperación al Desarrollo, creado por el Real Decreto 795/1995, de 19 de mayo, y reformado por el Real Decreto 21/2000, de 14 de enero, para adaptarlo a lo dispuesto en la Ley 23/1998, de 7 de julio, de cooperación internacional para el desarrollo, fue de nuevo reformado por el Real Decreto 281/2001, de 19 de marzo, sobre competencias, funciones, composición y organización del Consejo de Cooperación al Desarrollo, por el que se venía regulando hasta el momento.
+
+La experiencia de los últimos años del Consejo de Cooperación al Desarrollo aconseja su modificación para ampliar sus funciones, incrementar el número de miembros y colectivos representados en él, así como equiparar la forma de designación de todos sus miembros. El objetivo último es, en definitiva, lograr un Consejo donde los diferentes agentes sociales se encuentren mejor representados y permitirle ejercer de forma más eficaz su función de órgano consultivo.
+
+Así, en primer lugar, al Consejo de Cooperación al Desarrollo se le atribuyen dos nuevas funciones: informar acerca del cumplimiento del principio de coherencia en las actuaciones de cooperación realizadas por la Administración General del Estado e informar, igualmente, sobre el cumplimiento de los compromisos internacionales relativos a la ayuda oficial al desarrollo.
+
+En segundo lugar, y por lo que se refiere a la composición del Consejo, debe destacarse el aumento del mandato de sus miembros, que pasa de tres a cuatro años para hacerlo coincidir con las legislaturas, y la ampliación del número de miembros, de 25 a 33. Así, los Ministerios de Agricultura, Pesca y Alimentación, de Cultura y de Medio Ambiente estarán representados por un vocal cada uno, dada la importancia de estas materias para la cooperación al desarrollo. Por su parte, el Ministerio de Economía y Hacienda estará representado, al igual que en el anterior Consejo, por dos vocales, si bien en este caso serán los titulares de las Direcciones Generales de Financiación Internacional y de Presupuestos por razón del cargo, habida cuenta de que son estas Direcciones Generales las que tienen las competencias más relevantes para la cooperación al desarrollo.
+
+Por esta misma razón, el titular de la Dirección General de Comercio e Inversiones del Ministerio de Industria, Turismo y Comercio pasa a ser vocal por razón del cargo.
+
+En lo que se refiere a los agentes sociales, las organizaciones de economía social estarán representadas por un vocal. Las universidades contarán con un segundo vocal como consecuencia de su creciente importancia en el ámbito de la cooperación al desarrollo. Asimismo, se incrementa el número de expertos, que pasa de cuatro a seis. Dos de estos expertos deberán serlo en dos materias determinadas, a saber, en género y desarrollo y, como aspecto novedoso, en ayuda humanitaria y de emergencia. Por último, los seis miembros con que cuentan las organizaciones no gubernamentales de desarrollo serán el presidente de la Coordinadora de Organizaciones no Gubernamentales para el Desarrollo y cinco personas designadas por esta Coordinadora, en tanto que organización representativa y aglutinadora del gran número de organizaciones no gubernamentales de desarrollo existentes en España.
+
+Finalmente, y en cuanto al funcionamiento, el número mínimo de reuniones ordinarias pasa de dos a tres, para lograr una participación más activa del Consejo de Cooperación al Desarrollo.
+
+Este real decreto ha sido informado por el Consejo de Cooperación al Desarrollo.
+
+En su virtud, a propuesta del Ministro de Asuntos Exteriores y de Cooperación, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 26 de noviembre de 2004,
+
+## DISPONGO:
