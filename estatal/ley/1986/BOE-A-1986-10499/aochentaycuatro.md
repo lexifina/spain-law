@@ -1,0 +1,9 @@
+## Artículo ochenta y cuatro
+
+1. El personal de la Seguridad Social regulado en el Estatuto Jurídico de Personal Médico de la Seguridad Social, en el Estatuto del Personal Sanitario Titulado y Auxiliar de Clínica de la Seguridad Social, en el Estatuto del Personal no Sanitario al Servicio de las Instituciones Sanitarias de la Seguridad Social, el personal de las Entidades Gestoras que asuman los servicios no transferibles y los que desempeñen su trabajo en los Servicios de Salud de las Comunidades Autónomas, se regirán por lo establecido en el Estatuto-Marco que aprobará el Gobierno en desarrollo de esta Ley, todo ello sin perjuicio de lo previsto en el artículo 87 de esta Ley.
+
+2. Este Estatuto-Marco contendrá la normativa básica aplicable en materia de clasificación, selección, provisión de puestos de trabajo y situaciones, derechos, deberes, régimen disciplinario, incompatibilidades y sistema retributivo, garantizando la estabilidad en el empleo y su categoría profesional. En desarrollo de dicha normativa básica, la concreción de las funciones de cada estamento de los señalados en el apanado anterior se establecerá en sus respectivos Estatutos, que se mantendrán como tales.
+
+3. Las normas de las Comunidades Autónomas en materia de personal se ajustarán a lo previsto en dicho Estatuto-Marco. La selección de personal y su gestión y administración se hará por las Administraciones responsables de los servicios a que estén adscritos los diferentes efectivos.
+
+4. En las Comunidades Autónomas con lengua oficial propia, en el proceso de selección de personal y de provisión de puestos de trabajo de la Administración Sanitaria Pública, se tendrá en cuenta el conocimiento de ambas lenguas oficiales por parte del citado personal, en los términos del artículo 19 de la Ley 30/1984.

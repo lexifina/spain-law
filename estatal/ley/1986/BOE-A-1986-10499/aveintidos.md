@@ -1,0 +1,3 @@
+## Artículo veintidós
+
+Los empresarios y trabajadores a través de sus organizaciones representativas participarán en la planificación, programación, organización y control de la gestión relacionada con la salud laboral, en los distintos niveles territoriales.
