@@ -4,33 +4,35 @@
 
 Cuota de:
 
-Por cada obrero: 114 pesetas. (0,685154 euro)
+Por cada obrero: 114 pesetas. (0,685154 euros)
 
 Por cada Kw: 249 pesetas. (1,496520 euros)
 
-Nota: Este grupo comprende la fabricación de pasta para papel y cartón por cualquier procedimiento (mecánico, químico y semiquímico) y a partir de cualquier material (madera, trapos, papeles viejos, paja, etc.).
+Nota: Este grupo comprende la fabricación de pasta para papel y cartón por cualquier procedimiento (mecánico, químico y semiquímico) y a partir de cualquier material (madera, trapos, papeles viejos, paja, etc.). Comprende además los productos de pasta previo secado que resulten de la propia máquina de fabricación, sin ningún tipo de manipulación posterior.
+
+En caso de manipulación o transformación en proceso posterior deberá tributar por el epígrafe 473.2.
 
 A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
 
-Epígrafe 471.1 Pasta papelera.
+Epígrafe 471.1. Pasta papelera.
 
-Epígrafe 471.2 Subproductos y productos residuales de la fabricación de la pasta papelera.
+Epígrafe 471.2. Subproductos y productos residuales de la fabricación de la pasta papelera.
 
 ## Grupo 472. Fabricación de papel y cartón.
 
 Cuota de:
 
-Por cada obrero: 114 pesetas. (0,685154 euro)
+Por cada obrero: 114 pesetas. (0,685154 euros)
 
-Por cada Kw: 246 pesetas. (1,496520 euros)
+Por cada Kw: 249 pesetas. (1,496520 euros)
 
-Nota: Este grupo comprende la fabricación de papel de periódico, para libros, papel celofán y otros trabajos de imprenta y reproducción, papel de escribir, cartulina, papel y cartón kraft, papel de seda, higiénico, de fumar, cartón para envases, para hacer cajas, etc., así como papeles encerados, satinados, engomados, estucados, laminados y otros papeles acabados en máquina.
+Nota: Este grupo comprende la fabricación de papel de periódico, para libros, papel celofán y otros trabajos de imprenta y reproducción, papel de escribir, cartulina, papel y cartón Kraft, papel de seda, higiénico, de fumar, cartón para envases, para hacer cajas, etc., así como papeles encerados, satinados, engomados, estucados, laminados y otros papeles acabados en máquina, inclusive los alvéolos de celulosa moldeada resultante del proceso de secado de la pasta elaborada conforme al epígrafe 471.
 
 A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
 
-Epígrafe 472.1 Papel y cartón.
+Epígrafe 472.1. Papel y cartón.
 
-Epígrafe 472.2 Productos residuales de la fabricación y transformación del papel y cartón.
+Epígrafe 472.2. Productos residuales de la fabricación y transformación del papel y cartón.
 
 ## Grupo 473. Transformación de papel y cartón.
 
@@ -134,7 +136,7 @@ Notas:
 
 Epígrafe 476.2 Edición de periódicos y revistas.
 
-Cuota de: 32.913 pesetas. (197,81)
+Cuota de: 32.913 pesetas. (197,81 euros)
 
 Nota: Este epígrafe comprende la edición de diarios, periódicos y revistas periódicas (de interés general, especializadas, científicas, etc.).
 
@@ -143,6 +145,10 @@ Epígrafe 476.9 Otras ediciones n.c.o.p.
 Cuota de: 32.913 pesetas. (197,81 euros)
 
 Nota: Este epígrafe comprende las ediciones no especificadas en otros epígrafes, tales como edición de imágenes, grabados, tarjetas postales, etc.; edición de folletos; edición musical impresa o manuscrita y otras ediciones (sellos de correos, calendarios, almanaques, etc.).
+
+> Se modifican las notas a los grupos 471 y 472 por el art. 62.1.5 y 6 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964.
+
+> Téngase en cuenta para su aplicación el art. 62.2.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
