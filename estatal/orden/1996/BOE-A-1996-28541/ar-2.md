@@ -1,3 +1,5 @@
 ## Artículo 2.
 
-El Presidente podrá convocar, a cada sesión de la Comisión General, hasta un máximo de tres invitados en representación de organizaciones, entidades y órganos de administración interesados en los Seguros Agrarios, los cuales podrán intervenir, a indicación del Presidente, con voz pero sin voto.
+(Derogado).
+
+> Se deroga por la disposición derogatoria única del Real Decreto 388/1998, de 13 de marzo. Ref. BOE-A-1998-7793#dd

@@ -1,5 +1,5 @@
 ## Artículo 8.
 
-Los Grupos de Trabajo que se constituyan actuarán como órganos de apoyo para el cumplimiento de las tareas encomendadas a la Comisión, así como para estudiar e informar a la misma sobre cuestiones específicas relacionadas con los fines de la Entidad.
+(Derogado).
 
-Los resultados de los trabajos que le sean encomendados serán elevados al Presidente, quien, a la vista de los mismos, podrá solicitar informe de la Comisión General con carácter previo a la tramitación de la normativa definitiva.
+> Se deroga por la disposición derogatoria única del Real Decreto 388/1998, de 13 de marzo. Ref. BOE-A-1998-7793#dd
