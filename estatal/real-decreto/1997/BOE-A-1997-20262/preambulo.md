@@ -1,0 +1,13 @@
+El artículo 1 de la Ley 28/1994, de 10 de octubre, por la que se completa el régimen de personal de la Guardia Civil, establece que el citado personal se regirá por la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad del Estado; la Ley 17/1989, de 19 de julio, reguladora del Régimen del Personal Militar Profesional; la Ley Orgánica 11/1991, de 17 de junio, del Régimen Disciplinario de la Guardia Civil, y por la primera Ley citada.
+
+Por otro lado, el Título V de la Ley 17/1989, Reguladora del Régimen de Personal Militar Profesional, en su capítulo I, regula lo concerniente a la adquisición y pérdida de la condición de militar de carrera y el capítulo VI las situaciones administrativas en que puede encontrarse.
+
+En lo que respecta a la habilitación reglamentaria para dictar el presente Real Decreto, tanto la disposición final novena de la Ley 17/1989, de 19 de julio, reguladora del régimen del personal militar profesional, como la disposición final primera de la Ley 28/1994, de 18 de octubre, por la que se completa el régimen del personal de la Guardia Civil, autorizan al Gobierno para aprobar las normas de desarrollo de las mismas.
+
+Asimismo, la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad del Estado, establece en su artículo 14.3 que el Ministro de Defensa dispondrá lo concerniente al régimen de ascensos y situaciones del personal de la Guardia Civil, por lo que la facultad de propuesta al Gobierno corresponde, con carácter general, al Ministro de Defensa.
+
+No obstante, en lo que se refiere al artículo 22 del Reglamento que regula el tiempo de servicios efectivos necesario para pasar a la situación de excedencia voluntaria por interés particular, por servicios en otros Cuerpos de cualquiera de las Administraciones públicas o de la Justicia, o en organismo, entidades o empresas del sector público, el artículo 10.2 de la Ley 28/1994, de 18 de octubre, por la que se completa el régimen del personal del Cuerpo de la Guardia Civil, establece que el tiempo de servicios efectivos necesarios para poder pasar a la situación de excedencia voluntaria en los supuestos de los apartados 1.a) y d) del artículo 100 de la Ley 17/1989, será determinado reglamentariamente a propuesta conjunta por los Ministros de Defensa y de Justicia e Interior. Por esta única razón, el presente Real Decreto se dicta a propuesta conjunta de los Ministros de Defensa y del Interior.
+
+En su virtud, a propuesta conjunta de los Ministros de Defensa y del Interior, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 12 de septiembre de 1997,
+
+DISPONGO:

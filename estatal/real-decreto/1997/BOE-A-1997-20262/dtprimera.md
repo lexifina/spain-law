@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Adaptación de situaciones.
+
+1. Los guardias civiles que se encuentren en situaciones administrativas distintas de la reguladas en el presente Reglamento, que no sean de reserva activa ni las derivadas de la Ley 17 de julio de 1958, para el pase voluntario de Jefes y Oficiales del Ejército de Tierra al servicio de organismos civiles, solicitarán su pase a las situaciones correspondientes en el plazo máximo de un mes a partir de la entrada en vigor de este Reglamento. Transcurrido dicho plazo, se procederá de oficio.
+
+2. Para solicitar el cambio, los interesados cursarán sus peticiones a la Subdirección General de Personal de la Guardia Civil, con la justificación documental de que reúne los requisitos para pasar a la nueva situación que solicita, procediendo dicho órgano a elevar al Director general de la Guardia Civil, propuestas de resolución con informe razonado, resolviéndose el procedimiento en el plazo de tres meses, teniendo el acto presunto efectos estimatorios.
