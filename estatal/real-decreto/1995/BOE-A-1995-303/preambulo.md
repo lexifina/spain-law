@@ -1,0 +1,17 @@
+La Directiva 88/407/CEE, del Consejo, de 14 de junio de 1988, por la que se fijan las exigencias de policía sanitaria aplicables a los intercambios intracomunitarios y a las importaciones de esperma congelado de animales de la especie bovina, ha sido incorporada a la legislación española a través del Real Decreto 877/1990, de 6 de julio, por el que se fijan las exigencias de policía sanitaria aplicables a los intercambios intracomunitarios y a las importaciones de esperma congelado de animales de la especie bovina.
+
+El artículo 4 del Real Decreto 877/1990 establecía medidas provisionales para el comercio de esperma procedentes de toros seropositivos con respecto a la rinotraqueítis bovina infecciosa (IBR) y que dichas exigencias deberán revisarse a partir de un informe presentado por la Comisión de la Comunidad Europea. Dicho informe indica que es necesario retirar progresivamente hasta 1998 los toros que sean seropositivos o cuya situación sea desconocida antes de la vacunación en el centro, y mantener la posibilidad de vacunar en el propio centro, lo que hace necesario derogar el mencionado Real Decreto en dicho aspecto
+
+Por otra parte, teniendo en cuenta que las vacunaciones rutinarias contra fiebre aftosa no se practican en la Comunidad desde agosto de 1990 y que, por otra parte, es conveniente aclarar algunos puntos y hacerse eco de los avances técnicos, especialmente con respecto al tratamiento de los toros contra la leptospirosis, es necesario derogar las disposiciones del Real Decreto 877/1990, de 6 de julio, relativas a esta cuestión.
+
+Por otra parte, la plena realización del mercado interior previsto en el artículo 7 A del tratado Constitutivo de la Comunidad Europea, implica la supresión de todos los obstáculos en los intercambios intracomunitarios con vistas a la fusión de los mercados nacionales en un mercado único. Teniendo en cuenta que ello lleva consigo la supresión de los controles en frontera para el comercio intracomunitario y el refuerzo de las garantías de origen, no se pueden hacer diferencias entre productos destinados al mercado nacional y los destinados al mercado de otro Estado miembro, por lo que se ha promulgado las normas comunitarias aludidas.
+
+Igualmente conviene regular la posibilidad de realizar modificaciones en los anexos mediante el establecimiento de un procedimiento que permita una estrecha colaboración entre los Estados miembros y la Comisión Europea en el seno del Comité Veterinario Permanente.
+
+Mediante el presente Real Decreto se transpone al ordenamiento interno la Directiva 93/60/CEE del Consejo, de 30 noviembre, que modifica la Directiva 88/407/CEE del Consejo, por la que se fijan las exigencias de policía sanitaria aplicables a los intercambios intracomunitarios y a las importaciones de esperma congelado de animales de la especie bovina y se amplía al esperma fresco de dichos animales. Asimismo, se recoge, al derogarse el Real Decreto 877/1990, de 6 de julio, las disposiciones no modificadas de la mencionada Directiva 88/407/CEE.
+
+Todo ello de acuerdo con la competencia estatal en materia de comercio exterior y bases y coordinación general de la sanidad contenida en el artículo 149.1.10.ª y 16.ª de la Constitución, y una vez oídos los sectores afectados.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día de 25 de noviembre de 1994,
+
+DISPONGO:
