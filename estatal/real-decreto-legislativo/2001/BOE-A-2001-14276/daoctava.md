@@ -1,0 +1,3 @@
+## Disposición adicional octava. Obras de mejora de infraestructura hidráulica del Delta del Ebro.
+
+Una vez finalizado el Plan de obras de mejora de infraestructura hidráulica del Delta del Ebro, sin perjuicio de las competencias de la Administración hidráulica del Estado, la Administración hidráulica de Cataluña, en la parte de la cuenca del Ebro situada en el territorio de dicha Comunidad Autónoma, ejecutará las obras que permitan un mejor aprovechamiento de los recursos de la misma previstas en la Ley 18/1981, de 1 de julio, de actuaciones en materia de aguas en Tarragona, con cargo al porcentaje del canon ingresado que se determine de forma definitiva en el Plan Hidrológico Nacional.
