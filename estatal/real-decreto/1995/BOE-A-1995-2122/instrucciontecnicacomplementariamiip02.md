@@ -1,3 +1,3 @@
-## INSTRUCCIÓN TÉCNICA COMPLEMENTARIA MI-IP 02 «PARQUES DE ALMACENAMIENTO DE LIQUIDOS PETROLIFEROS»
+## INSTRUCCIÓN TÉCNICA COMPLEMENTARIA MI-IP02 «PARQUES DE ALMACENAMIENTO DE LÍQUIDOS PETROLÍFEROS»
 
-> Esta instrucción entra en vigor el 26 de febrero de 1995, según establece la disposición final 2.
+> Se modifica por el art. 1 del Real Decreto 1562/1998, de 17 de julio. Ref. BOE-A-1998-19183.
