@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Regulación provisional del régimen del personal docente e investigador contratado.
+
+Hasta la aprobación de los estatutos a que se refiere el apartado 1 de la disposición transitoria segunda de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, corresponde al Consejo de Gobierno de la universidad la regulación provisional del régimen del personal docente e investigador contratado en aquellas materias que deban ser reguladas por dichos estatutos según lo establecido en la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, y en este real decreto.
