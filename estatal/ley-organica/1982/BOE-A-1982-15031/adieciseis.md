@@ -1,5 +1,7 @@
 ## Artículo 16.
 
-Uno. En relación con la Universidad y Centros de Investigación Superior radicados en la Comunidad Autónoma, ésta asumirá las competencias y desempeñará las funciones que puedan corresponderle en el marco de la legislación estatal o, en su caso, de las delegaciones que pudieran producirse, fomentando las actividades docentes e investigadoras con especial atención a los intereses de la Región.
+1. Corresponde a la Comunidad Autónoma la competencia de desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27 de la Constitución y leyes orgánicas que conforme al apartado 1 del artículo 81 de la misma lo desarrollen, y sin perjuicio de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 y de la alta inspección para su cumplimiento y garantía.
 
-Dos. En relación con la planificación educativa, la Comunidad Autónoma propondrá a la Administración del Estado la oportuna localización de los centros educativos y las modalidades de enseñanza que se impartan en cada uno de ellos.
+2. Para garantizar una prestación homogénea y eficaz del servicio público de la educación que permita corregir las desigualdades o desequilibrios que puedan producirse, la Comunidad Autónoma facilitará a la Administración del Estado la información que ésta le solicite sobre el funcionamiento del sistema educativo en sus aspectos cualitativos y cuantitativos, y colaborará con la Administración del Estado en las actuaciones de seguimiento y evaluación del sistema educativo nacional.
+
+> Se modifica por el art. único.5 de la Ley Orgánica 4/1994, de 24 de marzo. Ref. BOE-A-1994-6943
