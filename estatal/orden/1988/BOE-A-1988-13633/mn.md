@@ -32,4 +32,6 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/135/13633_9857842_image17.png)
 
+> Se modifica incluyendo en este modelo, entre los datos de identidad de los padres y a continuación de la referencia al domicilio una casilla destinada a reflejar el número de documento nacional de identidad de los mismos, según establece el art. único de la Orden de 6 de junio de 1994. Ref. BOE-A-1994-13488
+
 > Se suprime la referencia a la profesión de los padres de los cuestionarios, por el art. 2 de la Orden de 10 de diciembre de 1993. Ref. BOE-A-1993-30391#a2
