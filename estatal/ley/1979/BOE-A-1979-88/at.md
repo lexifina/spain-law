@@ -1,5 +1,5 @@
 ## Artículo tercero.
 
-Uno. Para el enjuiciamiento de los delitos cometidos a través de la imprenta, el grabado u otros medios mecánicos de publicación, sonoros o fotográficos, difundidos por escrito, radio, televisión, cinematógrafo u otros similares, se seguirán los trámites señalados en el título V del libro IV de la Ley de Enjuiciamiento Criminal, con las modificaciones señaladas en el párrafo tres del artículo anterior.
+(Derogado)
 
-Dos. Los Jueces, al iniciar el procedimiento, podrán acordar, según los casos, el secuestro de la publicación o la prohibición de difundir o proyectar el medio a través del cual se produjo la actividad delictiva. Contra dicha resolución podrá interponerse directamente recurso de apelación, que deberá ser resuelto en el plazo de cinco días.
+> Se deroga por la disposición derogatoria única.1 de la Ley 38/2002, de 24 de octubre. Ref. BOE-A-2002-20823
