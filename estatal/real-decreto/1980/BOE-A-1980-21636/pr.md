@@ -1,0 +1,5 @@
+La necesidad de otorgar regulación legal a los intereses y derechos de los profesionales universitarios de la carrera Náutica, agrupados en el Colegio de Oficiales de la Marina Mercante Española, creado por Ley cuarenta y dos/mil novecientos setenta y siete, de ocho de junio, y la conveniencia de que se constituyan Colegios territoriales que articulen con mayor agilidad la defensa de los derechos e intereses de estos profesionales, de acuerdo con lo establecido en el Artículo cuatro punto dos de la ley de Colegios profesionales de trece de febrero de mil novecientos setenta y cuatro, fundamentan la solicitud presentada en tal sentido por el Colegio de Oficiales de la Marina Mercante, que ha elaborado los Estatutos Generales de la profesión, y promulgado la constitución de Colegios Territoriales.
+
+En su virtud, a propuesta del Ministro de Transportes y Comunicaciones y previa deliberación del consejo de ministros en su reunión del día treinta y uno de julio de mil novecientos ochenta,
+
+DISPONGO:
