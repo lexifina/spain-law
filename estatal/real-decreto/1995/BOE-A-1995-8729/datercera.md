@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Comisiones de servicios a funcionarios docentes para la provisión de puestos en las Administraciones educativas.
+
+Las comisiones de servicios a funcionarios docentes en las Administraciones educativas se concederán por el Subsecretario de Educación y Ciencia en el caso de los funcionarios docentes a que se refiere la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, o por el Rector de la Universidad para los funcionarios docentes dependientes de las Universidades, en las condiciones que en cada caso se establezcan por los mencionados órganos en función de las necesidades de las distintas unidades, programas y actividades educativas o de apoyo.
