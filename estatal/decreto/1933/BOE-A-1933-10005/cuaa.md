@@ -1,5 +1,5 @@
 ## Cuarta.
 
-Oportunamente se fijará por el Ministerio de Industria y Comercio la fecha de las elecciones para designar representantes para la Asamblea general de los Colegios, que procederá a elegir la Junta central.
+A los efectos del párrafo primero del artículo 24 reformado del Reglamento, los Colegios existentes procederán, en el plazo de veinte días, a partir de la publicación de este Decreto en la Gaceta de Madrid, a elegir sus representantes en la Junta Central, debiendo constituirse dicha Junta quince días después de la elección.
 
-Madrid, 28 de Noviembre de 1933.—Aprobado por S. E.—Félix Gordón Ordás.
+> Se modifica por el art. 1 del Decreto 7 de septiembre de 1935. Ref. BOE-A-1935-8368.
