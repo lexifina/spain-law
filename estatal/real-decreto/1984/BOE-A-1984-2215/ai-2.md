@@ -57,3 +57,7 @@ Este requisito se entenderá cumplido cuando exista en su interior una cámara s
 4. Condiciones de conservación.
 
 Con el objeto de ayudar a cumplir los márgenes de tolerancia citados en el apartado 5.2 de la Reglamentación Técnico-Sanitaria de Lejías, es aconsejable la opacidad del envase y el evitar la exposición a la luz solar directa.
+
+> Téngase en cuenta la Orden de 23 de diciembre de 1985, por la que se dictan normas complementarias para la homologación de envases de lejías. Ref. BOE-A-1985-26981
+
+> Véase la Orden de 23 de diciembre de 1985, por la que se dictan normas complementarias para la homologación de envases de lejías. Ref. BOE-A-1985-26981
