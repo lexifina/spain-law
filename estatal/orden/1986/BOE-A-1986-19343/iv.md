@@ -90,6 +90,10 @@ Iniciación de las operaciones de selección y preparación de las semillas.
 
 Se considera que la campaña de comercialización del maíz comprende desde el 1 de julio al 30 de junio del año siguiente.
 
+f) Para las semillas de maíz, será de aplicación lo dispuesto en los apartados 26a, 26b y 26c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referentes a semillas no certificadas definitivamente, y sólo en los casos en que procedan de la multiplicación de semillas de categorías prebase o base.
+
+> Se añade la letra f) por el punto 3 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972
+
 > Se modifican las letras b) núm. 3º y c) núm. 4º por la Orden de 6 de octubre de 1988. Ref. BOE-A-1988-24862
 
 > Redactados los apartados a) y b) conforme a la corrección de errores publicada en BOE núm. 293, de 8 de diciembre. Ref. BOE-A-1986-32138

@@ -15,8 +15,8 @@
 | Semilla de base y ant. | 98 | 2 | 99,8 | 1/1.000 | 5/900 gr. | 0 | 0 (b) (c) | – | – | 80 | 8 |
 | Semilla certificada | 98 | 2 | 99,7 | 3/1.000 | 5/900 gr. | 0 | 0 (b) (c) | – | – | 80 | 8 |
 | Colza: |  |  |  |  |  |  |  |  |  |  |  |
-| Semilla de base y ant. | 98 | 2 | 99,9 | 1/1.000 | 0,3 % | 0 | 0 (b) (c) | 10/100 gr. | 5/100 gr. | 85 | 8 |
-| Semilla certificada | 98 | 2 | 99,7 | 3/1.000 | 0,3 % | 0 | 0 (b) (c) | 10/100 gr. | 20/100 gr. | 85 | 8 |
+| Semilla de base y ant. | 98 | 2 | 99,9 | 1/1.000 | 0,3 % | 0 | 0 (b) (c) | 10/100 gr. | 2/100 gr. | 85 | 8 |
+| Semilla certificada | 98 | 2 | 99,7 | 3/1.000 | 0,3 % | 0 | 0 (b) (c) | 10/100 gr. | 5/100 gr. | 85 | 8 |
 | Girasol: |  |  |  |  |  |  |  |  |  |  |  |
 | Semilla de base y ant. | 98 | 2 | 99,8 | 1/1.000 | 5/1.000 gr. | 0 | 0 (b) | – | – | 85 | 8 |
 | Semilla certificada | 98 | 2 | 99,7 (a) | 3/1.000 | 5/1.000 gr. | 0 | 0 (b) | – | – | 85 | 8 |
@@ -25,11 +25,11 @@
 | Semilla certificada (R-1) | 99 | 1 | 98 | – | 15/150 gr. | 0 | 0 (b) (c | – | – | 85 | 12 |
 | Semilla certificada (R-2) | 99 | 1 | 97,5 | – | 15/150 gr. | 0 | 0 (b) (c) | – | – | 85 | 12 |
 | Mostaza negra y de la China: |  |  |  |  |  |  |  |  |  |  |  |
-| Semilla de base y ant. | 98 | 2 | 99,8 | – | 0,3 % | 0 | 0 (b) (c) | 10/40 gr. | 5/40 gr. | 85 | 8 |
-| Semilla certificada | 98 | 2 | 99,7 | – | 0,3 % | 0 | 0 (b) (c) | 10/40 gr. | 20/40 gr. | 85 | 8 |
+| Semilla de base y ant. | 98 | 2 | 99,8 | – | 0,3 % | 0 | 0 (b) (c) | 10/40 gr. | 2/40 gr. | 85 | 8 |
+| Semilla certificada | 98 | 2 | 99,7 | – | 0,3 % | 0 | 0 (b) (c) | 10/40 gr. | 5/40 gr. | 85 | 8 |
 | Nabina: |  |  |  |  |  |  |  |  |  |  |  |
-| Semilla de base y ant. | 98 | 2 | 99,9 | 1/1.000 | 0,3 % | 0 | 0 (b) (c) | 10/70 gr. | 5/70 gr. | 85 | 8 |
-| Semilla certificada | 98 | 2 | 99,7 | 3/1.000 | 0,3 % | 0 | 0 (b) (c) | 10/70 gr. | 20/70 gr. | 85 | 8 |
+| Semilla de base y ant. | 98 | 2 | 99,9 | 1/1.000 | 0,3 % | 0 | 0 (b) (c) | 10/70 gr. | 2/70 gr. | 85 | 8 |
+| Semilla certificada | 98 | 2 | 99,7 | 3/1.000 | 0,3 % | 0 | 0 (b) (c) | 10/70 gr. | 5/70 gr. | 85 | 8 |
 | Soja: |  |  |  |  |  |  |  |  |  |  |  |
 | Semilla de base y ant. | 98 | 2 | 99,8 | 0,5/1.000 | 5/1.000 gr. |  | 0 (b) | – | – | 80 | 12 |
 | Semilla certificada (R-1) | 98 | 2 | 99,7 | 1/1.000 | 5/1.000 gr. | 0 | 0 (b) | – | – | 80 | 12 |
@@ -64,6 +64,8 @@ El conteo de esclerocios o fragmentos de exclerocios de «Sclerotinia scletorior
 Todo lote de lino oleaginoso que contenga más del 5 por 100 de semillas infectadas por «Alternaria sp.p.», «Ascochyta linícola» (sin. «Phoma linícola»), «Colletotrichum lini» o «Fusarium sp.p.»
 
 4.ª Para las semillas comerciales serán de aplicación los requistos indicados para la última categoría de semilla certificada, excepto los de pureza varietal.
+
+> Se modifica por el apartado 5.2 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.
 
 > Se modifica por el apartado 3 de la Orden de 13 de octubre de 1987. Ref. BOE-A-1987-24513.
 

@@ -9,7 +9,7 @@ A) Porcentajes mínimos de pureza específica, germinación y máximos de semill
 | Especies | Pureza específica (tanto por ciento en peso) | Germinación de semillas puras o glomérulos (tanto por ciento) | Contenido máximo de semillas de otras especies (tanto por ciento en peso) |
 | --- | --- | --- | --- |
 | Acelga | 97 | 70 (gl.) | 0,5 |
-| Achicoria de café | 95 | 65 | 1,5 |
+| Achicoria industrial | 97 | 70 | 1 |
 | Apio | 97 | 80 | 1,0 |
 | Berenjena | 96 | 65 | 0,5 |
 | Berza | 97 | 75 | 1,0 |
@@ -25,7 +25,7 @@ A) Porcentajes mínimos de pureza específica, germinación y máximos de semill
 | Col repollo | 97 | 75 | 1,0 |
 | Coliflor | 97 | 70 | 1,0 |
 | Colirrábano | 97 | 75 | 1,0 |
-| Endibia o achicoria de Bruselas | 95 | 65 | 1,5 |
+| Endibia, achicoria silvestre (achicoria italiana) | 95 | 65 | 1,5 |
 | Escarola | 95 | 65 | 1,0 |
 | Escorzonera | 95 | 70 | 1,0 |
 | Espárrago | 96 | 70 | 0,5 |
@@ -78,5 +78,7 @@ Especies alógamas (el resto de las especies citadas en el epígrafe I).
 – Semilla Certificada: 98 por 100.
 
 – Semilla standard: 95 por 100.
+
+> Se modifica por el apartado 10.7 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.
 
 > Redactado el apartado B) conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. Ref. BOE-A-1987-10508.

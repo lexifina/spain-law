@@ -84,6 +84,10 @@ Las ventas por variedades y provincias, así como los remanentes de semillas pro
 
 Se considera que la campaña de comercialización del sorgo comprende desde el 1 de julio al 30 de junio del año siguiente.
 
+f) Para las semillas de especie del género "sorghum spp", será de aplicación lo dispuesto en los apartados 26a, 26b 26c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referente a semillas no certificadas definitivamente, y sólo en los casos en que procedan de la multiplicación de semillas de categoría prebase o base.
+
+> Se añade el apartado f) por el apartado 4 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.
+
 > Se modifican los apartados b) y c) por el apartado 1 de la Orden de 6 de octubre de 1988. Ref. BOE-A-1988-24865.
 
 > Redactados los apartados a).1 y 3 conforme a la corrección de errores publicada en BOE núm. 15, de 17 de enero de 1987. Ref. BOE-A-1987-1095

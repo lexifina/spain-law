@@ -92,11 +92,11 @@ c) Alógamas (las demás especies).
 
 – Semilla Certificada: 100 metros.
 
-d) Achicoria de café.
+d) Achicoria industrial.
 
-1. En relación con parcelas de otras subespecies: 1.000 metros.
+1. En relación con las parcelas de otras especies del mismo género u otras subespecies: 1.000 m.
 
-2. En relación con parcelas de otras variedades de achicoria de café:
+2. En relación con parcelas de otras variedades de achicoria industrial:
 
 – Semilla de Base y de Prebase: 600 metros.
 
@@ -104,6 +104,8 @@ d) Achicoria de café.
 
 Todas las distancias anteriormente relacionadas podrán ser modificadas cuando se utilice un medio de aislamiento que, a juicio del Servicio Oficial de Control correspondiente, evite todo tipo de polinización indeseable.
 
-> Se añade el apartado b).1.4 por el apartado 1 de la Orden de 6 de febrero de 1990. Ref. BOE-A-1990-4226.
+> Se modifica la letra d) por el apartado 10.6 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.
+
+> Se añade el apartado b).1. 4 por el apartado 1 de la Orden de 6 de febrero de 1990. Ref. BOE-A-1990-4226.
 
 > Se añade el apartado b).1 y se modifica y renumera el anterior b) como b.2) por el apartado 1 de la Orden de 6 de octubre de 1988. Ref. BOE-A-1988-24864.

@@ -22,4 +22,8 @@ El peso mínimo de cada muestra oficial será de 500 gramos.
 
 Los lotes certificados y precintados tendrán una validez máxima de dos años desde la fecha de precintado. Pasado este plazo, los lotes deberán anualmente ser objeto de nuevo análisis de germinación, previa toma oficial de muestras.
 
+5. Para las semillas de remolacha será de aplicación lo dispuesto en los apartados 26a, 26b y 26c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referente a semillas no certificadas definitivamente, y sólo en los casos en que procedan de la multiplicación de semillas de las categorías prebase o base.
+
+> Se añade el apartado 5 por el apartado 8.1 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.
+
 > Se modifica el art. 1 por el apartado 1 de la Orden de 18 de noviembre de 1988. Ref. BOE-A-1988-28030.

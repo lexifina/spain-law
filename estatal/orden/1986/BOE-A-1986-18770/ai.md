@@ -30,7 +30,7 @@ b) Aislamientos mínimos:
 | Cuando el polinizador previsto sea exclusivamente tetraploide, de focos de polen de remolacha forrajera diploide .: | 600 |
 | De focos de polen de remolacha forrajera cuya ploidía se desconozca | 600 |
 | Cuando el polinizador o uno de los polinizadores previstos sea diploide, de focos de polen de remolacha forrajera diploide | 300 |
-| Cuando el polinizador previsto sea exclusivamente tetraploide, de focos de polen de remolacha forrajera diploide | 300 |
+| (Suprimido) |  |
 | Cuando el polinizador previsto sea exclusivamente tetraploide, de los focos de polen de remolacha forrajera tetraploide | 300 |
 | Entre dos parcelas de producción de semilla de remolacha forrajera en que no se utilice la esterilidad masculina | 300 |
 
@@ -49,6 +49,8 @@ d) Enfermedades transmisibles a que se refiere el apartado anterior.
 1. Phoma betae (Oud) Frank (Pleospora betae)-Björling.
 
 2. Amarillez (Yellow virus). Raza 41.
+
+> Se suprime el párrafo sexto del apartado b).2.b) por el apartado 8.3 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.
 
 > Se modifica el apartado b) por el apartado 2 de la Orden de 18 de noviembre de 1988. Ref. BOE-A-1988-28030.
 

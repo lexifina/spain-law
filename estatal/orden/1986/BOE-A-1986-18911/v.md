@@ -40,4 +40,8 @@ Todos los cultivos destinados a producir Semilla Base o Certificada serán objet
 
 V.4 Requisitos de las semillas.
 
-Las semillas de las categorías Base, Certificada y Standard han de cumplir los requisitos que figuran en el anejo II.
+Las semillas de las categorías Base, Certificada y Standard han de cumplir los requisitos que figuran en el anejo II..
+
+V.5. Para las especies incluidas en este Reglamento será de aplicación lo dispuesto en los apartados 26a, 26b y 26c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referente a semillas no certificadas definitivamente, y sólo en los casos en que procedan de la multiplicación de semillas de categorías prebase o base.
+
+> Se añade el apartado V.5 por el apartado 10.4 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.

@@ -5,7 +5,7 @@
 | Especies | Peso mínimo de la muestra (En gramos) | Período obligatorio de conservación de la muestra – Años |
 | --- | --- | --- |
 | Acelga | 100 | 3 |
-| Achicoria de café | 15 | 3 |
+| Achicoria industrial | 50 | 3 |
 | Apio | 5 | 4 |
 | Berenjena | 20 | 4 |
 | Berza | 25 | 3 |
@@ -21,7 +21,7 @@
 | Col repollo | 25 | 3 |
 | Coliflor | 25 | 3 |
 | Colirrábano | 25 | 3 |
-| Endibia o achicoria de Bruselas | 15 | 3 |
+| Endibia, achicoria silvestre (achicoria italiana) | 15 | 3 |
 | Escarola | 15 | 3 |
 | Escorzonera | 30 | 2 |
 | Espárrago | 100 | 2 |
@@ -48,3 +48,5 @@
 | Zanahoria | 10 | 3 |
 
 Para variedades híbridas F-1 de las especies mencionadas, el peso mínimo de la muestra puede reducirse a una cuarta parte del peso fijado. No obstante, deberá pesar, al menos, cinco gramos o tener 400 semillas.
+
+> Se modifica por el apartado 10.8 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.

@@ -23,8 +23,8 @@ Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico, las s
 | Capsicum annuum L | Pimiento. |
 | Cicer arietinum L | Garbanzo. |
 | Cichorium endivia L | Escarola. |
-| Cichorium intybus L. var. Sativum Lamex DC | Achicoria de café. |
-| Cichorium intybus L. (partim). | Endibia o achicoria de Bruselas. |
+| Cichorium intybus L. (partim.) | Achicoria industrial |
+| Cichorium intybus L. (partim). | Endibia, achicoria silvestre (achicoría italiana). |
 | Citrullus lanatus (Thunb) Jatsun y Nakai | Sandía. |
 | Cucumis melo L | Melón. |
 | Cucumis sativus L | Pepino-pepinillo. |
@@ -49,6 +49,8 @@ Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico, las s
 Solamente podrán ser denominadas como semillas de plantas hortícolas aquéllas que hayan sido controladas por los servicios oficiales correspondientes y que hayan sido obtenidas según las disposiciones de este Reglamento; de la Ley 11/1971, de 30 de marzo, sobre Semillas y Plantas de Vivero; del Decreto 3767/1972, de 23 de diciembre, por el que se aprueba el Reglamento General sobre Producción de Semillas y Plantas de Vivero y modificaciones posteriores, así como la Orden de 23 de mayo de 1986 por la que se aprueba el Reglamento General de Control y Certificación de Semillas y Plantas de Vivero.
 
 También podrán recibir la denominación de «semillas» la importada que cumpla los correspondientes requisitos legales:
+
+> Se modifica por el apartado 10.1 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.
 
 > Se modifica por el apartado 1 de la Orden de 6 de octubre de 1988. Ref. BOE-A-1988-24864.
 

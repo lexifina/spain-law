@@ -4,15 +4,19 @@ X.1 Envases.
 
 Los envases de semilla standard o de reenvasados de semilla Certificada serán cerrados de manera que no puedan ser abiertos sin que el envase, el sistema de cierre o la etiqueta del Productor se deterioren y, a excepción de los pequeños envases, irán provistos de un precinto metálico o de un cierre equivalente colocado por el Productor.
 
-X.2 Etiquetas del Productor.
+X.2 Etiquetas.
 
-En las etiquetas o incripciones de los envases de semillas standard o de pequeños envases de semilla Certificada figurarán las prescripciones que se indican en el anejo VII.
+Las semillas de las categorías prebase, base y certificada llevarán una etiqueta oficial que cumplirá lo prescrito en el capítulo V, artículo 20, del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, debiéndose indicar el nombre de la especie y de la variedad, al menos, en caracteres latinos.
+
+En las etiquetas o incripciones de los envases de semillas standar o de pequeños envases de semilla Certificada figurarán las prescripciones que se indican en el anejo VII.
 
 El tamaño mínimo de las etiquetas será de 110 x 67 milímetros (excepto para los pequeños envases).
 
 El color de las etiquetas será amarillo para las semillas Standard y azul para las Certificadas.
 
-Los envases de semilla de categoría Standard y los pequeños envases de semilla Certificada llevarán exclusivamente etiqueta o inscripción del Productor sobre el envase.
+En el caso de semillas de base y certificadas, las etiquetas o inscripciones del productor y, en su caso, del importador se redactarán de forma que no puedan confundirse con la etiqueta oficial mencionada anteriormente.
+
+Cuando se trate de semillas de categoría estándar, excepto en el caso de pequeños envases, las informaciones establecidas para la etiqueta, o inscripción en el envase, prescritas en el anejo VII, estarán claramente separadas de cualquier otra información que figure en la etiqueta o en el envase.
 
 X.3 Reenvasados.
 
@@ -35,5 +39,7 @@ Para las semillas que no sean de producción propia, podrá realizarse el reenva
 – Un Productor sólo podrá autorizar el reenvasado de semillas de su propia producción, nunca semilla adquirida a otros Productores.
 
 – El Productor que efectúe el reenvasado será responsable de que las semillas por él reenvasadas se ajusten a las especificaciones de este Reglamento.
+
+> Se modifica el apartado 2 por el apartado 10.5 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 104, de 1 de mayo de 1987. Ref. BOE-A-1987-10508.
