@@ -8,14 +8,22 @@ Tercero,—Esta Entidad se regirá por las prescripciones del presente Real Decr
 
 Cuarto—Son fines de la Corporación:
 
-A) Colaborar con la Administración, a través del Ministerio de Agricultura, en el cumplimiento y desarrollo de las normas reguladoras de las campañas oleícolas y especialmente en la recepción y almacenamiento de aceites que se adquieran por el FORPPA en apoyo de la producción y en su posterior distribución para regular el mercado. Las colaboraciones que se lleven a cabo con la Administración no podrán generar obligaciones para ésta.
+a) Colaborar con las Administraciones públicas, a través del Ministerio de Agricultura, Pesca y Alimentación, en el cumplimiento y desarrollo de las normas reguladoras de las campañas oleícolas, especialmente ante la Administración de la Unión Europea, y en la recepción y almacenamiento de aceites que se adquieran en apoyo de la producción y en su posterior distribución para regular el mercado. Las colaboraciones que se lleven a cabo con las Administraciones públicas no podrán generar obligaciones para éstas.
 
-B) Promocionar el aceite de oliva en los Mercados Interior y Exterior, especialmente en la lucha para erradicación de fraudes.
+b) Promocionar el aceite de oliva en el mercado interior y exterior y colaborar en las campañas de publicidad en apoyo del consumo de dicho aceite.
 
-C) Realizar, subvencionar y promocionar trabajos de investigación y estudio para mejora de la producción olivarera y del aceite de oliva.
+c) Dedicar especial atención a la divulgación de las cualidades y características del aceite de oliva virgen.
 
-D) Colaborar en las campañas de publicidad en apoyo del consumo, tanto interior como exterior, del aceite de oliva.
+d) Investigar, denunciar, promover, informar y colaborar en todas las medidas que contribuyan a la erradicación del fraude.
 
-E) Prestación a los productores olivareros de sus servicios, especialmente el de almacenamiento, tanto en régimen de alquiler como en pignoración o compra de aceite de oliva.
+e) Realizar, financiar y promocionar trabajos de investigación y estudio para mejoras en la producción olivarera y comercialización de aceites de oliva, así como los que contribuyan al conocimiento de las cualidades del aceite de oliva para la alimentación y la salud humanas.
 
-F) Cualquiera otra actividad lícita en beneficio del cultivo olivarero y sus productos, pudiendo para ello promover Sociedades o Entidades de cualquier naturaleza jurídica y participar en ellas.
+f) Realizar y promocionar investigaciones sobre el aprovechamiento industrial de aceites de calidad inferior y sobre el de subproductos del olivar.
+
+g) Prestar a los productores olivareros sus servicios, especialmente el de almacenamiento, tanto en régimen de alquiler como en pignoración o compra de aceite de oliva.
+
+h) Trasladar a las Administraciones públicas las sugerencias o propuestas que se estimen convenientes para propiciar la mejor rentabilidad para el sector oleícola.
+
+i) Cualquier otra actividad en beneficio del cultivo del olivar y sus productos.
+
+> Se modifica el apartado 4 por el art. 1 del Real Decreto 3480/2000, de 29 de diciembre. Ref. BOE-A-2001-1434.
