@@ -1,6 +1,12 @@
 ## Artículo 24.
 
-El español que hubiere perdido su nacionalidad, por haber adquirido voluntariamente otra, podrá recobrarla si declara que tal es su voluntad ante el encargado del Registro Civil del lugar de su residencia, para que se haga la inscripción correspondiente, y renuncia a la nacionalidad extranjera que hubiere ostentado.
+Los españoles que no lo sean de origen perderán la nacionalidad:
+
+1. Cuando por sentencia firme fueren condenados a su pérdida conforme a lo establecido en las leyes penales o declarados incursos en falsedad, ocultación o fraude en su adquisición.
+
+2. Cuando entren voluntariamente al servicio de las armas o ejerzan cargo público en un Estado extranjero contra la prohibición expresa del Gobierno.
+
+> Se modifica por el art. único de la Ley 51/1982, de 13 de julio. Ref. BOE-A-1982-19493.
 
 > Se modifica por el art. 2 de la Ley 14/1975, de 2 de mayo. Ref. BOE-A-1975-9245.
 

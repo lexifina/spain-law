@@ -1,18 +1,12 @@
 ## Artículo 19.
 
-También podrá adquirirse la nacionalidad española mediante la obtención de carta de naturaleza, otorgable discrecionalmente por el Jefe del Estado, cuando en el peticionario concurran circunstancias excepcionales, o por la residencia en territorio español durante el tiempo establecido en el artículo siguiente.
+Los extranjeros que, en supuestos distintos de los previstos en los artículos anteriores, queden sujetos a la patria potestad o a la tutela de un español pueden optar por la nacionalidad española:
 
-En uno y otro caso, el que pretenda adquirir la nacionalidad española habrá de tener dieciocho años cumplidos, o dieciséis y hallarse emancipado.
+1. Desde que cumplan los catorce años, asistidos por su representante legal.
 
-La nacionalidad así obtenida se extiende a los hijos que se encuentren bajo la patria potestad.
+2. Por si solos, dentro de los dos años siguientes a la emancipación, a haber cumplido dieciocho años o a la recuperación de la plena capacidad.
 
-Son requisitos comunes a ambas formas de adquirir la nacionalidad:
-
-1.º La renuncia previa a la nacionalidad anterior,
-
-2.º Prestar juramento de fidelidad al Jefe del Estado y de obediencia a las Leyes.
-
-3.º Inscribirse como español en el Registro del Estado Civil.
+> Se modifica por el art. único de la Ley 51/1982, de 13 de julio. Ref. BOE-A-1982-19493.
 
 > Se modifica el párrafo segundo por el art. 2 del Real Decreto-ley 33/1978, de 16 de noviembre. Ref. BOE-A-1978-28627.
 

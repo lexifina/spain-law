@@ -1,10 +1,10 @@
 ## Artículo 21.
 
-El matrimonio por sí solo no modifica la nacionalidad de los cónyuges ni limita o condiciona su adquisición, pérdida o recuperación, por cualquiera de ellos con independencia del otro.
+La nacionalidad española se adquiere por carta de naturaleza, otorgada discrecionalmente mediante Real Decreto cuando en el interesado concurran circunstancias excepcionales.
 
-El cónyuge español sólo perderá su nacionalidad por razones de matrimonio con persona extranjera si adquiere voluntariamente la de ésta.
+Podrán solicitar la adquisición el interesado emancipado o mayor de dieciocho años, y los menores, desde que cumplan los catorce años, asistidos por su representante legal, debiendo cumplirse los requisitos establecidos en el párrafo último del artículo anterior.
 
-El cónyuge extranjero podrá adquirir la nacionalidad española por razón de matrimonio si expresamente optare por ella, con aplicación de lo dispuesto en el párrafo final del artículo 19 y en el último párrafo del artículo 20.
+> Se modifica por el art. único de la Ley 51/1982, de 13 de julio. Ref. BOE-A-1982-19493.
 
 > Se modifica por el art. 2 de la Ley 14/1975, de 2 de mayo. Ref. BOE-A-1975-9245.
 

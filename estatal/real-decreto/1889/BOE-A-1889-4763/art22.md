@@ -1,14 +1,28 @@
 ## Artículo 22.
 
-Perderán la nacionalidad española los que hubieran adquirido voluntariamente otra nacionalidad.
+La nacionalidad española se adquirirá por residencia en España por tiempo de diez años, previa solicitud del interesado y mediante concesión otorgada por el Ministro de Justicia, que podrá denegarla por motivos de orden público o interés nacional.
 
-Para que la pérdida produzca efectos, se requiere tener veintiún años cumplidos, o dieciocho y hallarse emancipado; haber residido fuera de España, al menos, durante los tres años inmediatamente anteriores, y, en cuanto a los varones, no estar sujetos al servicio militar en período activo, salvo que medie dispensa del Gobierno.
+Serán suficientes dos años, cuando se trate de nacionales de origen de los países Iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal o de sefardíes, que acrediten su respectiva condición.
 
-No podrá perderse la nacionalidad española por adquisición voluntaria de otra, incluso por razón de matrimonio, si España se hallare en guerra.
+Bastará, sin embargo, el tiempo de residencia de un año para:
 
-No obstante lo dispuesto en el párrafo primero, la adquisición de la nacionalidad de un país iberoamericano o de Filipinas no producirá pérdida de la nacionalidad española cuando así se haya convenido expresamente con el Estado cuya nacionalidad se adquiere.
+1. El que haya nacido en territorio español.
 
-Correlativamente, y siempre que mediare convenio que de modo expreso así lo establezca, la adquisición de la nacionalidad española no implicará la pérdida de la de origen, cuando esta última fuera la de un país iberoamericano o de Filipinas.
+2. El nacido fuera de España de padre o madre que originariamente hubieran sido españoles.
+
+3. El que no haya ejercitado oportunamente la facultad de optar.
+
+4. Quien se haya casado con español o española, aunque el matrimonio se hubiere disuelto.
+
+En todos los casos la residencia habrá de ser legal, continuada e inmediatamente anterior a la petición.
+
+El solicitante deberá ser mayor de dieciocho años o estar emancipado.
+
+Para que la concesión tenga eficacia será necesario cumplir los requisitos establecidos en al último párrafo del artículo 20.
+
+La concesión o denegación de la nacionalidad deja a salvo la vía judicial civil.
+
+> Se modifica por el art. único de la Ley 51/1982, de 13 de julio. Ref. BOE-A-1982-19493.
 
 > Se modifica por el art. 2 de la Ley 14/1975, de 2 de mayo. Ref. BOE-A-1975-9245.
 

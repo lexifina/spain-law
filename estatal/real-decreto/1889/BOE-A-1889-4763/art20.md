@@ -1,14 +1,10 @@
 ## Artículo 20.
 
-El tiempo de residencia en España que confiere derecho a solicitar la nacionalidad española es el de diez años.
+La declaración de opción se hará ante el encargado del Registro Civil del domicilio del interesado. Si residiera fuera de España, podrá hacer la declaración ante el Registro consular correspondiente o mediante documento debidamente autenticado y dirigido al Ministerio de Asuntos Exteriores.
 
-Sin embargo, bastarán cinco años de residencia cuando el solicitante haya prestado señalados servicios, mediante cualquier actividad o trabajo, que hubieren favorecido de modo notable los intereses españoles.
+Son requisitos de esta adquisición por opción: La declaración de renuncia a la nacionalidad anterior, el juramento o promesa de fidelidad al Rey y de obediencia a la Constitución y a las Leyes, y la inscripción como español en el Registro Civil.
 
-Excepcionalmente, sólo se exigirá la residencia durante dos años, sin necesidad de que concurra ninguna de las circunstancias establecidas en el párrafo anterior, cuando se trate de personas comprendidas en alguno de los casos señalados en el artículo 18, no habiendo ejercitado oportunamente la facultad de optar; de extranjeros adoptados durante su menor edad por españoles y de nacionales, por origen, de paises iberoamericanos o de Filipinas.
-
-En todos los casos, el tiempo de residencia habrá de ser continuado e inmediatamente anterior a la petición.
-
-La concesión de la nacionalidad podrá denegarse por motivos de orden público.
+> Se modifica por el art. único de la Ley 51/1982, de 13 de julio. Ref. BOE-A-1982-19493.
 
 > Se modifica por el art. 2 de la Ley 14/1975, de 2 de mayo. Ref. BOE-A-1975-9245.
 
