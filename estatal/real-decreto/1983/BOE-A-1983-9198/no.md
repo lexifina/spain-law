@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 125, de 26 de mayo de 1983. Ref. BOE-A-1983-15019
+Se deroga todo lo que se refiere a zumos de frutas y otros productos similares regulados por la presente Reglamentación técnico-sanitaria, excepto los arts. 16, 17 y 18 por la disposición derogatoria del Real Decreto 1650/1991, de 8 de noviembre. Ref. BOE-A-1991-28036
