@@ -1,10 +1,12 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1993/153/16766_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1993/256/25901_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1993/153/16766_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1993/256/25901_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1993/153/16766_016.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1993/256/25901_014.png)
+
+> Se modifica por la Orden de 15 de octubrre de 1993. Ref. BOE-A-1993-25901.
 
 > Se modifica por la Orden de 10 de junio de 1993. Ref. BOE-A-1993-16766.
 
