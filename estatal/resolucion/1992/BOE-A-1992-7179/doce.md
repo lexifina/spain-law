@@ -6,21 +6,25 @@ El Director general de la Agencia podrá disponer que por necesidades del servic
 
 Previo acuerdo del Delegado especial de la Agencia, determinados Inspectores-Jefes adjuntos podrán realizar directamente las actuaciones inspectoras propias del Jefe de Unidad de Inspección, sin que en tal caso les sea de aplicación lo previsto en el número 2 siguiente.
 
-2. A los efectos del Reglamento General de la Inspección de los Tributos y de lo dispuesto en esta Resolución, tendrán la consideración de Inspector-Jefe:
+2. A los efectos del Reglamento General de la Inspección de los Tributos, y de lo dispuesto en esta Resolución, tendrán la consideración de Inspector-Jefe:
 
-a) El Jefe de la Dependencia de Inspección y los Inspectores-Jefes Adjuntos de cada Delegación de la Agencia respecto de dicha dependencia y de los Servicios de Inspección de las Administraciones de la Agencia existentes en el ámbito territorial de la correspondiente Delegación.
+a) El Jefe de la Dependencia de Inspección y los Inspectores Jefes Adjuntos de cada Delegación de la Agencia respecto de dicha dependencia y de los Servicios de Inspección de las Administraciones de la Agencia existentes en el ámbito territorial de la correspondiente Delegación.
 
 b) El Inspector Regional y sus adjuntos, en cuanto a las Unidades Regionales de Inspección, sin perjuicio de lo dispuesto en el artículo 21 de la Orden del Ministerio de Economía y Hacienda de 12 de agosto de 1985.
 
-c) El Jefe de la Oficina Nacional de la Inspección y sus Inspectores Jefes adjuntos, por lo que se refiere a los Servicios de Inspección de la misma.
+c) El Jefe de la Oficina Nacional de Inspección y sus Inspectores Jefes Adjuntos, por lo que se refiere a los Servicios de Inspección de la misma.
 
-d) El Jefe de la Unidad Central de Gestión de Grandes Empresas.
+d) El Jefe de la Oficina Nacional de Investigación del Fraude y sus Inspectores Jefes Adjuntos, por lo que se refiere a las actuaciones realizadas desde ésta.
 
-e) El Jefe de la Unidad Central de Información, en relación con las actuaciones realizadas desde ésta.
+e) El Jefe de la Unidad Central de Gestión de Grandes Empresas.
 
-El Delegado especial de la Agencia designará el sustituto del Inspector regional en los casos de ausencia, vacante o enfermedad. La sustitución, para iguales casos, de los Jefes de la Oficina Nacional de Inspección y de la Unidad Central de Información, corresponderá a la persona que designe el Director del Departamento de la Inspección Financiera y Tributaria. Con respecto a la sustitución del Inspector Jefe, se estará a lo dispuesto en el artículo 32 de la Orden del Ministerio de Economía y Hacienda de 12 de agosto de 1985.
+El Delegado Especial de la Agencia designará al sustituto del Inspector Regional en los casos de ausencia, vacante o enfermedad. La sustitución, para iguales casos, del Jefe de la Oficina Nacional de Inspección, así como del Jefe de la Oficina Nacional de Investigación del Fraude, corresponderá a la persona que designe el Director del Departamento de Inspección Financiera y Tributaria. Con respecto a la sustitución de los Inspectores-Jefes, se estará a lo dispuesto en el artículo 32 de la Orden del Ministerio de Economía y Hacienda de 12 de agosto de 1985.
 
 3. Igualmente tendrá la consideración de Adjunto al Jefe de la Dependencia Regional de Inspección y, consecuentemente, categoría de Inspector Jefe, el Jefe de la Oficina Técnica de dicha Dependencia.
+
+> Se modifica el punto 2 por la disposición adicional 6 de la Resolución de 27 de octubre de 1998. Ref. BOE-A-1998-25485.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 27, de 1 de febrero de 1999. Ref. BOE-A-1999-2433.
 
 > Se modifica el punto 2, se suprime el 3 y se renumera el 4 como 3 por los apartados 11 y 12 de la Resolución de 17 de febrero de 1998. Ref. BOE-A-1998-5188.
 

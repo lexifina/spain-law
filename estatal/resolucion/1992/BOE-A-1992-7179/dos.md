@@ -106,7 +106,7 @@ El Equipo de Fiscalidad Internacional tendrá, entre otras, las funciones atribu
 
 El Equipo Técnico y de Valoraciones, en el que podrán integrarse los facultativos que se determine, prestarán los servicios de apoyo que se le en comienden por el Jefe de la Oficina Nacional de Inspección, fundamentalmente en materia de valoraciones inmobiliarias, tasación pericial contradictoria, pagos por intangibles, acuerdos previos de valoración, sin perjuicio de las valoraciones que puedan efectuarse por otros Peritos de la Administración, de conformidad con lo dispuesto en el artículo 52 de la Ley General Tributaria.
 
-El Equipo de Coordinación de Actuaciones Especiales tendrá a su cargo la comprobación de aquellos contribuyentes que, por presentar esquemas comunes de fraude, o hallarse comprendidos en el apartado Dos.2.2 de esta Resolución, corresponda su comprobación a la Oficina Nacional de Inspección.
+El Equipo de Coordinación de Actuaciones Especiales tendrá a su cargo la realización de actuaciones inspectoras cerca de grupos económicos, así como la comprobación de aquellos contribuyentes que, por estar comprendidos en el apartado Dos.2.2 de la presente Resolución, o por determinarse así expresamente de conformidad con lo dispuesto en el Reglamento General de la Inspección de los Tributos, le sea encomendada.
 
 El Director del Departamento de Inspección Financiera y Tributaria determinará, por orden de servicio, los Jefes de Equipo de la Oficina Nacional de Inspección que deberán dirigir los de Fiscalidad Internacional, Técnico y de Valoraciones y de Coordinación de Actuaciones Especiales.
 
@@ -121,6 +121,10 @@ Asimismo, la Unidad Central de Gestión de Grandes Empresas, en funciones de apo
 Dos. 3.3 La oficina técnica, a cuyo frente estará un Inspector Jefe adjunto al Jefe de la Oficina Nacional de Inspección, tiene asignadas las funciones propias de las oficinas técnicas de los órganos o dependencias inspectoras y, en particular, el asesoramiento en todas aquellas cuestiones relativas a competencias que tiene atribuidas como propias la Oficina Nacional de Inspección.
 
 Dos. 4. Las competencias de gestión tributaria atribuidas a los Delegados Especiales y Delegados de la Agencia respecto a las personas o entidades adscritas a la Oficina Nacional de Inspección serán ejercidas por el Jefe de la Oficina Nacional de Inspección.
+
+> Se modifica el punto 3.1, párrafo decimosexto por la disposición adicional 4 de la Resolución de 27 de octubre de 1998. Ref. BOE-A-1998-25485.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 27, de 1 de febrero de 1999. Ref. BOE-A-1999-2433.
 
 > Se añade el párrafo final al punto 3.1 por el apartado 7 de la Resolución de 24 de marzo de 1998. Ref. BOE-A-1998-7792.
 
