@@ -9,3 +9,5 @@ Los Planes de Comunidad Autónoma deberán ser aprobados por el Consejo de Gobie
 2. La homologación a que se refiere esta Ley consistirá en la comprobación de que los planes se acomodan al contenido y criterios de la Norma Básica.
 
 3. Los referidos planes no podrán ser aplicados hasta tanto se produzca su homologación, que deberá ser efectuada por el órgano competente en el plazo máximo de tres meses a partir de su recepción por dicho órgano. Transcurrido dicho plazo sin resolución expresa, se entenderán homologados tácitamente.
+
+> Se declara que el inciso destacado del apartado 1, párrafo tercero, será aplicable supletoriamente en la Comunidad Autónoma del País Vasco, en los términos del fundamento jurídico 10, por Sentencia del TC 133/1990, de 19 de julio. Ref. BOE-T-1990-18327
