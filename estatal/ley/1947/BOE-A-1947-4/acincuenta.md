@@ -22,12 +22,16 @@ Dos elegidos por la Junta Social Central del Sindicato Nacional de Banca y Bolsa
 
 Los Vocales representantes de los Bancos se elegirán conforme a las disposiciones que el Ministerio de Hacienda dicte, por los Bancos y Banqueros con derecho a tal designación en el seno de las Juntas Económicas del Sindicato Nacional de Banca y Bolsa.
 
+Los Vocales elegidos por los Bancos y banqueros extranjeros establecidos en España que determine el Ministro de Economía y Hacienda, conforme a los criterios establecidos en la Ley de 17 de julio de 1951.
+
 La Dirección General de Banca y Bolsa efectuará discrecionalmente la procedente clasificación, atendiendo, en relación con cada establecimiento, al número y extensión geográfica de sus sucursales, a la importancia de sus depósitos y negocios y a la cuantía de sus recursos propios.
 
 Los miembros del Consejo Superior Bancario, excepto su Presidente; el representante del Banco de España y el Jefe del Sindicato Nacional de Banca y Bolsa serán renovados anualmente por mitad, pudiendo ser reelegidos. Todos los designados deberán ser de nacionalidad española.
 
 Los acuerdos dentro del Consejo Superior Bancario se tomarán por mayoría de votos de sus miembros presentes, excepto el Presidente, que no tendrá voto.
 
-La adscripción de la Banca privada al Consejo Superior Bancario es obligatoria, incluso la de los Bancos extranjeros establecidos en España, los cuales, sin embargo, no tendrán voto en las elecciones para los cargos de dicho Consejo.
+La adscripción de la Banca al Consejo Superior Bancario es obligatoria, incluso para los Bancos extranjeros establecidos en España.
+
+> Se modifica por el art. 7 del Real Decreto Legislativo 1298/1986, de 28 de junio. Ref. BOE-A-1986-17236.
 
 > Véase en cuanto a la representación en el Consejo Superior Bancario el art. único de la Ley de 17 de julio de 1951. Ref. BOE-A-1951-7862.
