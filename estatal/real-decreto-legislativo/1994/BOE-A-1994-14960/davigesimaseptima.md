@@ -14,7 +14,9 @@ En los supuestos en que no concurran las circunstancias anteriores, la Administr
 
 2. No estarán comprendidos en el Sistema de Seguridad Social los socios, sean o no administradores, de sociedades mercantiles capitalistas cuyo objeto social no esté constituido por el ejercicio de actividades empresariales o profesionales, sino por la mera administración del patrimonio de los socios.
 
-3. Lo establecido en el apartado 1 no afectará a la asimilación establecida en el artículo 4 del Texto Refundido de las Leyes 116/1969, de 30 de diciembre, y 24/1972, de 21 de junio, por el que se regula el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, aprobado por Decreto 2864/1974, de 30 de agosto.
+3. Lo establecido en el apartado 1 no afectará a los trabajadores recogidos en los artículos 2.b), 3 y 4 del texto refundido de las Leyes 116/1969, de 30 de diciembre, y 24/1972, de 21 de junio, por las que se regula el Régimen especial de la Seguridad Social de los Trabajadores del Mar, aprobado por Decreto 2864/1974, de 30 de agosto.
+
+> Se modifica el apartado 3 por el art. 22.8 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
 
 > Se modifica por el art. 34.2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
 

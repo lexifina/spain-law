@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Adaptación de los contratos de seguro de vida en los que el tomador asuma el riesgo de inversión.
+
+Los contratos de seguro de vida en los que el tomador asuma el riesgo de la inversión, concertados con anterioridad a 1 de enero del año 2000, podrán adaptarse, en el plazo de dos meses a partir de esta fecha, a lo establecido en el artículo 24.3 de la Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias. Concluido el citado plazo, los contratos no adaptados tributarán de acuerdo con lo previsto en el artículo 14.2.h) de dicha Ley.

@@ -46,6 +46,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPITULO VII](cvii.md)
 - [Artículo veintiséis](aveintiseis.md)
 - [Artículo veintisiete](aveintisiete.md)
+- [Artículo 27 bis](a27bis.md)
 - [Artículo veintiocho](aveintiocho.md)
 - [Artículo veintinueve](aveintinueve.md)
 - [CAPITULO VIII](cviii.md)

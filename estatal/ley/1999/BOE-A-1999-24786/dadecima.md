@@ -1,0 +1,3 @@
+## Disposición adicional décima. Tratamiento en el Impuesto sobre la Renta de las Personas Físicas de los complementos especiales al personal laboral local a que se refiere el Decreto 1182/1971, de 11 de mayo.
+
+En los períodos impositivos no prescritos anteriores a 1 de enero del año 2000, tendrán la consideración de renta exenta en el Impuesto sobre la Renta de las Personas Físicas las retribuciones que, bajo el concepto de «suplemento especial», ha percibido el personal laboral local al servicio de las Fuerzas Armadas de los Estados Unidos en España, empleado por la entidad «Actividades Fuerzas Estados Unidos en España», a que se refiere el Decreto 1182/1971, de 11 de mayo.

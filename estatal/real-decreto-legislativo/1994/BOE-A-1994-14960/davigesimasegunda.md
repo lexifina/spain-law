@@ -18,6 +18,10 @@
 
 1. Los ingresos a que se refieren los apartados anteriores generarán crédito por el total de su importe y se destinarán a cubrir gastos de funcionamiento, excepto retribuciones de personal, y de inversión de reposición de las instituciones sanitarias, así como a atender los objetivos sanitarios y asistenciales correspondientes.
 
+No obstante, los ingresos derivados de contratos o convenios de colaboración para actividades investigadoras podrán generar crédito por el total de su importe y se destinarán a cubrir todos los gastos previstos para su realización. En el caso de que toda o parte de la generación de crédito afectase al capítulo I, el personal investigador no adquirirá por este motivo ningún derecho laboral al finalizar la actividad investigadora.
+
 2. La distribución de tales fondos respetará el destino de los procedentes de ayudas o donaciones.
 
 3. Dichos recursos serán reclamados por el Instituto Nacional de la Salud, en nombre y por cuenta de la Administración General del Estado, para su ingreso en el Tesoro Público. El Tesoro Público, por el importe de las generaciones de crédito aprobadas por el Ministro de Sanidad y Consumo, procederá a realizar las transferencias correspondientes a las cuentas que la Tesorería General de la Seguridad Social tenga abiertas, a estos efectos, para cada centro sanitario.
+
+> Se añade un segundo párrafo al apartado 3.1 por el art. 22.7 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.

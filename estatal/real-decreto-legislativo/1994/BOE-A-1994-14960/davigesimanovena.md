@@ -1,0 +1,7 @@
+## Disposición adicional vigésima novena. Inclusión en el Régimen general de los trabajadores dedicados a las operaciones de manipulación, empaquetado, envasado y comercialización del plátano.
+
+1. Estarán obligatoriamente incluidos en el Régimen general de la Seguridad Social los trabajadores que realicen las operaciones de manipulación, empaquetado, envasado y comercialización del plátano, tanto si dichas labores se llevan a cabo en el lugar de producción del producto como fuera del mismo, ya provengan de explotaciones propias o de terceros y ya se realicen individualmente o en común mediante cualquier tipo de asociación o agrupación, incluidas las cooperativas en sus restantes clases.
+
+2. A efectos de lo establecido en esta Ley y en las disposiciones correspondientes a la inclusión en el Régimen especial Agrario de la Seguridad Social, no tendrán la consideración de labores agrarias las operaciones indicadas en el apartado anterior sobre dicho producto, aunque al mismo empresario presten servicios otros trabajadores dedicados a la obtención directa, almacenamiento y transporte a los lugares de acondicionamiento y acopio del propio producto, sin perjuicio de lo establecido respecto de su venta en el último párrafo del apartado 1 del artículo 2 de la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias.
+
+> Se añade por el art. 22.9.1 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.

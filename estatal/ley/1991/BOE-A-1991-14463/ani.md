@@ -48,7 +48,7 @@ El tipo impositivo reducido del 2 por 100 del Impuesto General Indirecto Canario
 
 Los productos sanitarios, material, equipos e instrumental que, objetivamente considerados, solamente puedan utilizarse para prevenir, diagnosticar, tratar, aliviar o curar las enfermedades o dolencias del hombre o los animales.
 
-3.º Los álbumes, partituras, mapas, cuadernos de dibujo y los objetos que por sus características sólo puedan utilizarse como material escolar, excepto los artículos y aparatos electrónicos.
+3.º (Suprimido)
 
 4.º Los coches de minusválidos a que se refiere el número 20 del anexo del Real Decreto legislativo 339/1990, de 2 de marzo, por el que se aprueba el texto articulado de la Ley sobre el Tráfico, Circulación de Vehículos a Motor y Seguridad Vial y las sillas de ruedas para uso exclusivo de personas con minusvalía.
 
@@ -68,7 +68,9 @@ Se entiende por bebida alcohólica todo líquido apto para el consumo humano por
 
 A los efectos de este apartado, no tendrán la consideración de alimento, el tabaco ni las sustancias no aptas para el consumo humano o animal en el mismo estado en que fuesen entregadas o importadas.
 
-9.º Los animales, vegetales y los demás productos susceptibles de ser utilizados habitual e idóneamente para la obtención de los productos a que se refiere el apartado anterior, directamente o mezclados con otros de origen distinto.
+9.º Los animales, vegetales y los demás productos susceptibles de ser utilizados habitual e idóneamente para la obtención de los productos a que se refiere el número anterior, directamente o mezclados con otros de origen distinto.
+
+Se comprenden en este número los animales destinados a su engorde antes de ser utilizados en el consumo humano o animal y los animales reproductores de los mismos o de aquellos otros a que se refiere el párrafo anterior.
 
 10.º Las entregas de viviendas calificadas administrativamente como de protección oficial de régimen general, cuando las entregas se efectúen por los promotores.
 
@@ -80,7 +82,15 @@ No se entenderán comprendidos en el concepto de las viviendas del párrafo ante
 
 13.º Los vehículos de dos o tres ruedas cuya cilindrada sea inferior a 50 centímetros cúbicos y cumplan la definición jurídica del ciclomotor.
 
-2. La prestación de servicios de transportes terrestres.
+14.º Las ejecuciones de obra que tengan por objeto la instalación de armarios de cocina y de baño y armarios empotrados para las edificaciones a que se refieren los apartados 11.o y 12.o anteriores, que sean realizadas como consecuencia de contratos directamente formalizados con el promotor de la construcción o rehabilitación de dichas edificaciones.
+
+2. Las prestaciones de servicios que se indican a continuación:
+
+1.º Las prestaciones de servicios de transportes terrestres.
+
+2.º Los servicios prestados a personas físicas que practiquen el deporte o la educación física, cualquiera que sea la persona o entidad a cuyo cargo se realice la prestación, siempre que tales servicios estén directamente relacionados con dichas prácticas y no resulte aplicable a los mismos la exención a que se refiere el artículo 10, número 1, apartado 13.º de esta Ley.
+
+> Se suprime el apartado 1.3 por el art. 9.18 de la Ley 55/1999, de 29 de diciembre Ref. BOE-A-1999-24786, y con entrada en vigor el 19 de enero de 2000 y efectos a partir del 1 de enero de 2000 se modifican los apartados 1.9 y 2 y se añade el 1.14 por el art. 73.1, 3 y 4 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785.
 
 > Se añade el apartado 1.13 por el art. 6.1 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
 

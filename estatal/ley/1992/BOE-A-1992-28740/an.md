@@ -12,9 +12,7 @@ Se entenderá por:
 
 a) Provisiones de a bordo: Los productos destinados exclusivamente al consumo de la tripulación y de los pasajeros.
 
-b) Combustibles, carburantes, lubricantes y demás aceites de uso técnico:
-
-Los productos destinados a la alimentación de los órganos de propulsión o al funcionamiento de las demás máquinas y aparatos de a bordo.
+b) Combustibles, carburantes, lubricantes y demás aceites de uso técnico: Los productos destinados a la alimentación de los órganos de propulsión o al funcionamiento de las demás máquinas y aparatos de a bordo.
 
 c) Productos accesorios de a bordo: Los de consumo para uso doméstico, los destinados a la alimentación de los animales transportados y los consumibles utilizados para la conservación, tratamiento y preparación a bordo de las mercancías transportadas.
 
@@ -25,6 +23,8 @@ Quinto. Régimen de depósito distinto de los aduaneros:
 Definición del régimen:
 
 a) En relación con los bienes objeto de Impuestos Especiales, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable en los supuestos de fabricación, transformación o tenencia de productos objeto de los Impuestos Especiales de fabricación en fábricas o depósitos fiscales, de circulación de los referidos productos entre dichos establecimientos y de importación de los mismos con destino a fábrica o depósito fiscal.
+
+A los efectos del párrafo anterior, la electricidad no tendrá la consideración de bien objeto de los Impuestos Especiales.
 
 b) En relación con los demás bienes, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable a los bienes excluidos del régimen de depósito aduanero por razón de su origen o procedencia, con sujeción en lo demás, a las mismas normas que regulan el mencionado régimen aduanero.
 
@@ -52,7 +52,7 @@ El obligado a ingresar las cuotas indicadas podrá deducirlas de acuerdo con lo 
 
 Los empresarios o profesionales no establecidos en el territorio de aplicación del impuesto que resulten ser sujetos pasivos del mismo, de acuerdo con lo dispuesto en este número, podrán deducir las cuotas liquidadas por esta causa en las mismas condiciones y forma que los establecidos en dicho territorio.
 
-3.º Los titulares de las áreas o depósitos a que se refiere este precepto serán responsables solidarios del pago de la deuda tributaria que corresponda, según lo dispuesto en los números anteriores de este apartado sexto, independientemente de que puedan actuar como representantes fiscales de los empresarios o profesionales no establecidos en el ámbito espacial del impuesto. A estos efectos, los titulares de las áreas o depósitos deberán exigir de la persona obligada a la liquidación e ingreso de las cuotas correspondientes a la salida de las áreas o abandono de regímenes, antes de que se efectúe dicha salida o abandono, que acredite suficientemente haber realizado la citada liquidación y, en su caso, ingreso de las cuotas correspondientes en la Administración tributaria competente.
+3.º Los titulares de las áreas o depósitos a que se refiere este precepto serán responsables solidarios del pago de la deuda tributaria que corresponda, según lo dispuesto en los números anteriores de este apartado sexto, independientemente de que puedan actuar como representantes fiscales de los empresarios o profesionales no establecidos en el ámbito espacial del impuesto.
 
 Séptimo. Desperdicios o desechos de fundición, de hierro o acero, chatarra o lingotes de chatarra de hierro o acero, desperdicios o desechos de metales no férricos o sus aleaciones, escorias, cenizas y residuos de la industria que contengan metales o sus aleaciones: los comprendidos en las partidas siguientes del Arancel de Aduanas:
 
@@ -98,9 +98,38 @@ Los desperdicios o desechos de vidrio comprenden los residuos de la fabricación
 
 Octavo. Para la conversión de las cantidades fijadas en Ecus en los artículos 14 y 68 de esta Ley, se aplicará la equivalencia de 1 Ecu igual a 129,98 peseta.
 
+Noveno. Peso de los lingotes o láminas de oro a efectos de su consideración como oro de inversión.
+
+Se considerarán oro de inversión a efectos de esta Ley los lingotes o láminas de oro de ley igual o superior a 995 milésimas y que se ajusten a alguno de los pesos siguientes en la forma aceptada por los mercados de lingotes:
+
+| 12,5 | kilogramos. |
+| --- | --- |
+| 1 | kilogramo. |
+| 500 | gramos. |
+| 250 | gramos. |
+| 100 | gramos. |
+| 50 | gramos. |
+| 20 | gramos. |
+| 10 | gramos. |
+| 5 | gramos. |
+| 2,5 | gramos. |
+| 2 | gramos. |
+| 100 | onzas. |
+| 10 | onzas. |
+| 5 | onzas. |
+| 1 | onza. |
+| 0,5 | onzas. |
+| 0,25 | onzas. |
+| 10 | tael. |
+| 5 | tael. |
+| 1 | tael. |
+| 10 | tolas. |
+
+> Se modifican los apartados 5.a), 6.3º y se añade el 9 por el art 6.19 a 21 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+
 > Se modifica el apartado 5.b) por el art. único.2 del Real Decreto-Ley 10/1999, de 11 de junio. Ref. BOE-A-1999-13070.
 
-> Se modifica el apartado 5 y 6 y se añade un 8 por el art. único.7 y 8 de la Ley 9/1998, de 21 de abril. Ref. BOE-A-1998-9477.
+> Se modifica el apartado 5 y 6 y se añade el 8 por el art. único.7 y 8 de la Ley 9/1998, de 21 de abril. Ref. BOE-A-1998-9477.
 
 > Se añade el apartado 7 por el art. 6.26.3 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
 

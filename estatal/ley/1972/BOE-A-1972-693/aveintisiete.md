@@ -1,6 +1,6 @@
 ## Artículo veintisiete.
 
-El régimen jurídico durante la fase de explotación será el siguiente:
+El régimen jurídico durante la fase de explotación en las concesiones de construcción, conservación y explotación, así como en las de conservación y explotación, será el siguiente:
 
 Primero. El concesionario deberá conservar la vía, sus accesos, señalización y servicios reglamentarios en perfectas condiciones de utilización.
 
@@ -15,3 +15,5 @@ c) Prestarlo ininterrumpidamente durante las veinticuatro horas del día, salvo 
 Tercero. Podrá contratar, en la forma que los pliegos de la concesión establezcan, la gestión de los servicios complementarios comprendidos en las áreas de servicio.
 
 Cuarto. El Estado se reserva sus derechos sobre los conceptos que actualmente integran la Renta de Petróleos. La concesión de estaciones de servicio en las áreas de la autopista se regirá por sus normas especificas.
+
+> Se modifica el párrafo primero por el art. 59.3 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786

@@ -119,3 +119,7 @@ Si el arrendador no hubiese hecho la notificación prevenida u omitiera en ella 
 El arrendador está obligado a remitir al arrendatario cuyo contrato se hubiera extinguido, copia del nuevo contrato celebrado dentro del año siguiente a la extinción, en el plazo de quince días desde su celebración.
 
 El ejercicio de este derecho preferente será incompatible con la percepción de la indemnización prevista en el apartado anterior, pudiendo el arrendatario optar entre uno y otro.
+
+12. La presente disposición transitoria se aplicará a los contratos de arrendamiento de local de negocio para oficina de farmacia celebrados antes del 9 de mayo de 1985 y que subsistan el 31 de diciembre de 1999.
+
+> Se añade un apartado 12 por la disposición adicional 8 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
