@@ -1,0 +1,5 @@
+## Art. 44.
+
+1. Cuando se estime que, en orden a la autorización solicitada, es preciso subsanar o modificar alguna o algunas de las características o elementos estructurales, o de instalaciones o servicios, del local o recinto de que se trate, podrá concederse una licencia provisional para su funcionamiento, en los términos y con las condiciones que se determinen y siempre que ello no suponga riesgo para la seguridad personal del público o de los actuantes o personal que preste sus servicios en el mismo, lo que se hará constar en el expediente mediante certificación suscrita por técnico competente y visada por el Colegio Profesional respectivo.
+
+2. Dicha licencia provisional, que podrá concederse de oficio o a petición del interesado, no podrá tener duración superior a los seis meses, prorrogables por una sola vez durante un período igual de tiempo, en caso justificado, y a solicitud del peticionario; transcurrido dicho término, sin que se hayan llevado a cabo las subsanaciones o modificaciones referidas, la licencia provisional quedará sin efecto y se entenderá denegada la solicitud inicialmente formulada.

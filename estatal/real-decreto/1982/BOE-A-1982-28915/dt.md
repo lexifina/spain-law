@@ -1,0 +1,3 @@
+## Disposición transitoria.
+
+La adaptación de los locales de espectáculos públicos y actividades recreativas, existentes con anterioridad a la promulgación del presente Reglamento, a las exigencias prevenidas en la Sección Segunda (alumbrado, calefacción y ventilación) y en la Sección Tercera (precauciones y medidas contra incendios) del capítulo I del título I, deberá llevarse a cabo dentro del plazo de dos años a contar desde la fecha de dicha promulgación, siempre que tal adaptación requiera modificación de instalaciones o de elementos constructivos, y en un plazo de un año, a contar desde la misma fecha, si no necesita modificaciones de las expresadas.
