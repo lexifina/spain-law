@@ -1,0 +1,3 @@
+## Artículo primero.
+
+El Cuerpo Especial de Controladores de la Circulación Aérea es un Cuerpo de la Administración Civil del Estado, dependiente del Ministerio de Transportes y Comunicaciones que, dentro de las competencias a éste atribuidas por la legislación vigente en la materia tiene la función técnica de organizar, planificar, dirigir, ejecutar y supervisar las operaciones conducentes a la regulación, ordenación y control de la circulación aérea general, así como las demás funciones de carácter administrativo o gestor que puedan atribuírsele para garantizar la seguridad y fluidez del tránsito de Aeronaves en el espacio aéreo de soberanía y en el asignado a España por los acuerdos internacionales.
