@@ -1,0 +1,5 @@
+## Artículo primero.
+
+Uno. Quedan comprendidos con carácter obligatorio en el campo de aplicación del Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, regulado por el Decreto dos mil quinientos treinta/mil novecientos setenta, de veinte de agosto, los religiosos y religiosas de la Iglesia Católica que sean españoles, mayores de dieciocho años y miembros de Monasterios, Órdenes, Congregaciones, Institutos y Sociedades de Vida Común, de derecho pontificio, inscritos en el Registro de Entidades Religiosas del Ministerio de Justicia y que residan y desarrollen normalmente su actividad en el territorio nacional, exclusivamente bajo las órdenes de sus superiores respectivos y para la Comunidad Religiosa a la que pertenezcan.
+
+Dos. Lo dispuesto en el número anterior no será de aplicación a aquellos religiosos que realicen una actividad profesional que dé lugar a su inclusión en cualquiera de los regímenes que integran el sistema de la Seguridad Social.
