@@ -1,0 +1,5 @@
+## Disposición transitoria primera.
+
+Los certificados de capacitación profesional para la modalidad de transporte interior de mercancías o de viajeros y para una o todas las actividades auxiliares y complementarias del transporte de mercancías, expedidos con anterioridad a la entrada en vigor de esta Orden, seguirán conservando validez de acuerdo con las normas vigentes en el momento de su obtención. Sin embargo, la obtención de los certificados de capacitación profesional regulados en esta Orden, en cualquiera de sus modalidades exigirá la superación del ejercicio previsto en el artículo 10.
+
+Quienes tuvieran reconocida exclusivamente capacitación para el ejercicio de la actividad de transporte de mercancías en virtud de las normas vigentes anteriores a esta Orden, sólo podrán capacitar a una empresa titular de una autorización de operador de transporte si, previamente, obtienen el certificado para el ejercicio de la actividad de transporte interior e internacional de mercancías mediante la superación del correspondiente ejercicio.
