@@ -1,0 +1,3 @@
+## Artículo decimocuarto.
+
+Las personas naturales o jurídicas que se dediquen o pretendan dedicarse al tráfico de cualquier sustancia consignada en las listas II, III y IV anexas deberán estar autorizadas o inscritas –salvo en los casos en que por cualquier otro motivo, concepto, ya lo estuvieran–, así como su Director Técnico, responsable, para la continuación o, previamente, para el comienzo de dicho tráfico, en un registro que a tal efecto se establecerá en los correspondientes servicios farmacéuticos de control de estupefacientes y psicotrópicos de la Dirección General de Ordenación Farmacéutica.

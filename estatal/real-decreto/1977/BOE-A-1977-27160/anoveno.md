@@ -1,0 +1,5 @@
+## Artículo noveno.
+
+Los fabricantes estarán obligados a remitir anualmente a los correspondientes servicios farmacéuticos del Control de Estupefacientes y Psicotrópicos de la Dirección General de Ordenación Farmacéutica, y por conducto de la Inspección Provincial de Farmacia respectiva, un parte por duplicado, en el que se especifique, por cada sustancia psicotrópica, los totales de las entradas y salidas de la misma habidas durante el año, así como las existencias de ellas el treinta y uno de diciembre de dicho año. La Inspección Provincial de Farmacia conservará el duplicado y remitirá el original a los mentados Servicios, dentro del mes de enero siguiente. Se redactarán los partes en los impresos cuyo modelo se incluye como anexo de esta disposición bajo el número cuatro.
+
+Dichos fabricantes quedan sometidos a la Inspección por los Servicios Centrales y Provinciales de Farmacia, dependientes de la Dirección General de Ordenación Farmacéutica, independientemente del sometimiento que deban tener a las Inspecciones de otros Organismos de la Administración.

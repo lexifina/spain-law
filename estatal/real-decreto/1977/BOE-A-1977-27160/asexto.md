@@ -1,0 +1,3 @@
+## Artículo sexto.
+
+Uno. Las personas naturales o jurídicas que se dediquen o pretendan dedicarse a la fabricación de cualquier sustancia consignada en las Listas II, III y IV del anexo uno deberán estar autorizadas e inscritas –así como su Director Técnico responsable–, para la continuación o, previamente, para el comienzo de dicha fabricación en un registro que a tal efecto se establecerá en los correspondientes servicios farmacéuticos de Control de estupefacientes y psicotrópicos de la Dirección General de Ordenación Farmacéutica. Las autorizaciones a que se refiere este artículo no afectarán a las que correspondan al Ministerio de Industria y Energía.
