@@ -1,0 +1,19 @@
+## Disposición transitoria única. Régimen transitorio.
+
+1. A los hechos cometidos con anterioridad a la entrada en vigor de la presente Ley por los menores sujetos a la Ley Orgánica 4/1992, de 5 de junio, sobre Reforma de la Ley Reguladora de la Competencia y el Procedimiento de los Juzgados de Menores, que se deroga, les será de aplicación la legislación vigente en el momento de su comisión. Quienes estuvieren cumpliendo una medida de las previstas en la citada Ley Orgánica 4/1992 continuarán dicho cumplimiento hasta la extinción de la responsabilidad en las condiciones previstas en dicha Ley.
+
+2. A la entrada en vigor de la presente Ley, cesará inmediatamente el cumplimiento de todas las medidas previstas en la Ley Orgánica 4/1992 que estuvieren cumpliendo personas menores de catorce años, extinguiéndose las correspondientes responsabilidades.
+
+3. A los menores de dieciocho años, juzgados con arreglo a lo dispuesto en el Código Penal de 1973, en las leyes penales especiales derogadas o en la disposición derogatoria del Código Penal vigente, a quienes se hubiere impuesto una pena de dos años de prisión menor o una pena de prisión superior a dos años, que estuvieren pendientes de cumplimiento a la entrada en vigor de la presente Ley, dichas penas les serán sustituidas por alguna de las medidas previstas en esta Ley, a instancia del Ministerio Fiscal, previo informe del equipo técnico o de la correspondiente entidad pública de protección o reforma de menores. A tal efecto, se habrá de dar traslado al Ministerio Fiscal de la ejecutoria y de la liquidación provisional de las penas impuestas a los menores comprendidos en los supuestos previstos en este apartado.
+
+4. Si, en los supuestos a los que se refiere el apartado anterior, la pena impuesta o pendiente de cumplimiento fuera de prisión inferior a dos años o de cualquiera otra naturaleza, se podrá imponer al condenado una medida de libertad vigilada simple por el tiempo que restara de cumplimiento de la condena, si el Juez de Menores, a petición del Ministerio Fiscal y oídos el letrado del menor, su representante legal, la correspondiente entidad pública de protección o reforma de menores y el propio sentenciado, lo considerara acorde con la finalidad educativa que persigue la presente Ley. En otro caso, el Juez de Menores podrá tener por cumplida la pena y extinguida la responsabilidad del sentenciado.
+
+5. Las decisiones del Juez de Menores a que se refieren los apartados anteriores se adoptarán mediante auto recurrible directamente en apelación, en el plazo de cinco días hábiles, ante la Audiencia Provincial. Los Jueces de Menores deberán adoptar estas decisiones en el plazo de dos meses desde la entrada en vigor de esta Ley. Durante este plazo la situación del menor no se verá afectada.
+
+6. En los procedimientos penales en curso a la entrada en vigor de la presente Ley, en los que haya imputadas personas por la comisión de hechos delictivos cuando aún no hayan cumplido los dieciocho años, el Juez o Tribunal competente remitirá las actuaciones practicadas al Ministerio Fiscal para que instruya el procedimiento regulado en la misma.
+
+Los que se hallaren sujetos a prisión preventiva a la entrada en vigor de la Ley serán excarcelados y conducidos a un centro de reforma a disposición del Ministerio Fiscal. Si el Ministerio Fiscal estima procedente el mantenimiento del internamiento, deberá solicitarlo en el plazo de cuarenta y ocho horas del Juez de Menores, quien convocará la comparecencia prevista en el artículo 28.2.
+
+Si el imputado lo fuere por hechos cometidos cuando era mayor de dieciocho años y menor de veintiuno, el Juez instructor acordará lo que proceda, según lo dispuesto en el artículo 4 de esta Ley.
+
+> Se modifica el apartado 5 y se añade el segundo párrafo al apartado 6 por la disposición adicional 3 de la Ley Orgánica 9/2000, de 22 de diciembre. Ref. BOE-A-2000-23661#datercera

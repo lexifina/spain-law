@@ -1,5 +1,25 @@
-## Artículo trescientos cinco
+## Artículo 305.
 
-El Tribunal será nombrado por el Consejo General del Poder Judicial. Los Catedráticos, o, en su caso, los Profesores Titulares serán propuestos por el Consejo de Universidades; el Abogado del Estado, por el Ministerio de Justicia; el Abogado, por el Consejo General de la Abogacía, y el Fiscal, por el Fiscal General del Estado. Las instituciones proponentes elaborarán ternas que remitirán al Consejo General del Poder Judicial para su designación, salvo que existan causas que justifiquen proponer sólo a una o dos personas y sin perjuicio de que el Consejo General del Poder Judicial pueda proceder a su designación directa para el caso de que no se elaboren ternas por los proponentes.
+1. La Comisión de Selección, a la que se refiere el artículo anterior, estará compuesta por un vocal del Consejo General del Poder Judicial y un Fiscal de Sala, que la presidirán anualmente con carácter alternativo, por un Magistrado, un Fiscal, el Director de la Escuela Judicial, el Director del Centro de Estudios Jurídicos de la Administración de Justicia y un miembro de los órganos técnicos del Consejo General del Poder Judicial, así como un funcionario del Ministerio de Justicia con nivel mínimo de Subdirector general, ambos licenciados en Derecho, que actuarán alternativamente como secretarios de la Comisión.
+
+2. La composición de la Comisión de Selección se publicará en el "Boletín Oficial del Estado", mediante Orden del Ministro de Justicia. Los miembros de la misma serán designados por un período de cuatro años, de acuerdo con las siguientes reglas:
+
+a) El vocal del Consejo General del Poder Judicial, el Magistrado y el miembro de los órganos técnicos del Consejo General del Poder Judicial, por el Pleno del Consejo General del Poder Judicial.
+
+b) Los Fiscales, por el Fiscal General del Estado.
+
+c) El funcionario del Ministerio de Justicia, por el Ministro de Justicia.
+
+3. Los acuerdos de la Comisión de Selección serán adoptados por mayoría de sus miembros. En caso de empate, decidirá el voto de su Presidente.
+
+4. La Comisión de Selección, además de lo dispuesto en el artículo anterior, será competente para:
+
+a) Proponer el temario, el contenido de los ejercicios y las normas complementarias que han de regir la oposición para el acceso a las Carreras Judicial y Fiscal, sometiéndolos a la aprobación del Ministerio de Justicia y del Pleno del Consejo General del Poder Judicial.
+
+b) Realizar los trámites administrativos precisos para la distribución de los aprobados a las respectivas Escuelas según la opción que hayan realizado, conforme se dispone en el artículo 301.2.
+
+5. Las resoluciones previstas en el presente artículo y en el apartado 2 del artículo anterior agotarán la vía administrativa y serán susceptibles de recurso contencioso-administrativo ante la Sala de lo Contencioso-administrativo del Tribunal Supremo.
+
+> Se modifica por el art. 1.3 de la Ley Orgánica 9/2000, de 22 de diciembre. Ref. BOE-A-2000-23661
 
 > Se modifica por el art. 1.5 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

@@ -6,4 +6,8 @@
 
 3. Dentro de los límites del llamamiento o adscripción, los Magistrados suplentes actuarán, como miembros de la Sala que sean llamados a formar, con los mismos derechos y deberes que los Magistrados titulares.
 
+4. Los miembros de la Carrera Judicial jubilados por edad que sean nombrados para ejercer dicha función tendrán la consideración y tratamiento de Magistrados eméritos.
+
+> Se añade el apartado 4 por el art. 4.2 de la Ley Orgánica 9/2000, de 22 de diciembre. Ref. BOE-A-2000-23661
+
 > Se modifica por el art. 4.8 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
