@@ -1,0 +1,11 @@
+Establecida la estructura del Ministerio de Economía en los Reales Decretos 689/2000, de 12 de mayo, y 1371/2000, de 19 de julio, corresponde abordar ahora una reorganización del Instituto Nacional de Estadística, con los mismos criterios de eficacia y racionalización de estructuras que presidieron aquéllos.
+
+En los últimos años ha venido constatándose en la sociedad la existencia de una mayor exigencia de información estadística, tanto en cantidad como en calidad, como consecuencia de su mayor cultura económica y social. Esto ha planteado al Instituto Nacional de Estadística la necesidad de abordar nuevas investigaciones, ahondar en múltiples análisis de la realidad económica y social, y someter a todos sus datos a un estricto control de calidad capaz de mantener el alto grado de confianza del que disfruta la información estadística oficial.
+
+Con este Real Decreto se aborda una reorganización del Instituto Nacional de Estadística basada en cuatro líneas de actuación fundamentales: a) la organización de las unidades en virtud del criterio proceso/producto, separándose más claramente las actividades de apoyo e infraestructura de las de producción del dato final ; b) la creación de una unidad específicamente encargada de la metodología, el diseño y el control de calidad del conjunto de las estadísticas elaboradas por el organismo ; c) la potenciación de las investigaciones estadísticas del sector servicios, las de precios y las correspondientes al mercado de trabajo ; y d) la agrupación de las actividades de gestión en la Presidencia del organismo.
+
+Por otra parte, resulta conveniente aprobar el Estatuto del Organismo, en desarrollo de las previsiones normativas contenidas en la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, incluyendo en un cuerpo normativo único todas las disposiciones estatutarias no contempladas expresamente en la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública.
+
+En su virtud, a iniciativa del Ministro de Economía, a propuesta de los Ministros de Administraciones Públicas y de Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de mayo de 2001,
+
+## D I S P O N G O :
