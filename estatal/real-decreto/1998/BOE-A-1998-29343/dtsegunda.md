@@ -8,4 +8,6 @@ Cuando, conforme con lo establecido anteriormente, se hubiera aplicado un tipo d
 
 2. En el supuesto anterior, el plazo de presentación del modelo de comunicación de la situación personal y familiar del perceptor de rentas de trabajo, o de su variación, ante el pagador, correspondiente al año 1999, se entenderá prorrogado hasta el día 1 de febrero de 1999.
 
+> Se deroga en la forma indicada por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. Ref. BOE-A-1999-3251.
+
 > Redactado conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 1998. Ref. BOE-A-1998-29653.

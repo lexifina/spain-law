@@ -1,3 +1,5 @@
 ## Disposición transitoria tercera. Plazo de publicación de la Orden de aprobación del régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y del régimen especial simplificado del Impuesto sobre el Valor Añadido para 1999.
 
 La Orden ministerial por la que se regulan para el año 1999 el régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido deberá publicarse en el «Boletín Oficial del Estado» en el plazo de los quince días siguientes a la publicación del Reglamento del Impuesto sobre la Renta de las Personas Físicas.
+
+> Se deroga en la forma indicada por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. Ref. BOE-A-1999-3251.
