@@ -1,0 +1,3 @@
+## Disposición adicional vigésima segunda. Efectividad de la previsión del artículo 2 del Real Decreto legislativo 1/1999, de 23 de diciembre, por el que se adecua la normativa del recurso previsto en el párrafo tercero de la base novena del Real Decreto-ley de 11 de junio de 1929, de bases de puertos, zonas y depósitos francos al sistema tributario vigente.
+
+Se implanta el recurso regulado en el Real Decreto legislativo 1/1999, de 23 de diciembre, por el que se adecua la normativa del recurso previsto en el párrafo tercero de la base novena del Real Decreto-ley de 11 de junio de 1929, de bases de puertos, zonas y depósitos francos al sistema tributario vigente, en el Consorcio de la Zona Franca de Cádiz.

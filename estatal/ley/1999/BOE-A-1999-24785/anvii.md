@@ -357,3 +357,9 @@ País Vasco: Palacio de Insausti en Azkoitia. Guipúzcoa.
 La Rioja: Monasterio de Santa María la Real de Nájera. La Rioja.
 
 Ciudad Autónoma de Melilla: Fuerte de Victoria Chica y Fuerte del Rosario. Melilla.
+
+> Téngase en cuenta que la relación de bienes queda ampliada, a los mismos efectos, con la inclusión de la Concatedral de Santa María de Mérida, el Conjunto Arqueológico de Tarraco, el Yacimiento Arqueológico de la Sierra de Atapuerca, el Paisaje Cultural Románico de Valle de Boi y la Muralla Romana de Lugo, por la disposición adicional 20.1 de la Ley 13/2000, de 28 de diciembre. Ref. BOE-A-2000-24265.
+
+> Se amplia la relación de bienes por la disposición adicional 20.1 de la Ley 13/2000, de 28 de diciembre. Ref. BOE-A-2000-24265.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 189, de 8 de agosto de 2001. Ref. BOE-A-2001-15548.

@@ -9,3 +9,5 @@ A efectos de lo previsto en el artículo 67 de la Ley 30/1994, de 24 de noviembr
 3.º La promoción y difusión de la lengua española y de las lenguas oficiales de los diferentes territorios del Estado Español, mediante redes telemáticas y nuevas tecnologías, llevadas a cabo por el Instituto Cervantes y por las instituciones de las Comunidades Autónomas con lengua oficial propia, con fines análogos a aquél.
 
 4.º Los programas de formación del voluntariado que hayan sido objeto de subvención por parte de las Administraciones públicas.
+
+> Se prorroga para el año 2001 por la disposición adicional 20.1 de la Ley 13/2000, de 28 de diciembre. Ref. BOE-A-2000-24265.
