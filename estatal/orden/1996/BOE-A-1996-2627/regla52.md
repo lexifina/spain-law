@@ -1,0 +1,7 @@
+## Regla 52. Operaciones pendientes de aplicar al presupuesto
+
+Cuando por razones justificadas no se hubiera efectuado dentro de un ejercicio el reconocimiento de determinadas obligaciones debidamente adquiridas y correspondientes a bienes o servicios efectivamente recibidos en dicho ejercicio, los Centros gestores de gasto adoptarán las medidas oportunas para remitir a la oficina de contabilidad, antes de que finalice el mes de enero del año siguiente, los documentos necesarios para registrar dichas obligaciones con cargo al presupuesto corriente, una vez constatados todos los requisitos legalmente exigibles y especialmente la existencia de crédito.
+
+El sistema de información contable, tomando como referencia la fecha de realización del gasto que, según lo dispuesto en el punto 5 de la regla 23, deberá figurar en el documento contable, registrará en la contabilidad económico patrimonial del ejercicio anterior un acreedor por operaciones pendientes de aplicar al presupuesto, a través de la cuenta 409 prevista en el Plan General de Contabilidad Pública. Dicha cuenta quedará saldada al aplicarse simultáneamente la operación a la contabilidad presupuestaria del ejercicio corriente.
+
+Posteriormente, la oficina de contabilidad deberá obtener una relación de todas las operaciones registradas de acuerdo con el procedimiento regulado en esta regla, la cual justificará las citadas anotaciones en la contabilidad económico patrimonial del ejercicio anterior.

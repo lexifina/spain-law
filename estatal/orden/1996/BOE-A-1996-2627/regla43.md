@@ -1,0 +1,3 @@
+## Regla 43. Tramitación anticipada de expedientes de subvenciones y de otros gastos no contractuales
+
+En la tramitación anticipada de expedientes de subvenciones y otros gastos no contractuales se deberá cumplir lo que establezca la normativa específica reguladora de cada tipo de gasto en cuanto al trámite en la ejecución hasta el que se puede llegar y al número de anualidades que pueden abarcar. Si dichos extremos no estuvieran regulados, se podrá llegar como máximo hasta el momento inmediatamente anterior a la disposición del gasto y comprenderán una única anualidad, siguiéndose, en todo lo demás, el procedimiento establecido en la regla anterior.

@@ -1,0 +1,5 @@
+## Regla 9. Creación de aplicaciones presupuestarias
+
+Cuando existiendo dotación presupuestaria para uno o varios conceptos dentro de un nivel de vinculación, se pretenda imputar gastos a otros conceptos o subconceptos del mismo nivel de vinculación cuyas partidas no figuren abiertas en la contabilidad del seguimiento del Presupuesto de Gastos por no contar con dotación presupuestaria, el Servicio gestor solicitará a la oficina de contabilidad del Departamento la creación de la correspondiente aplicación presupuestaria, sin necesidad de efectuar una operación de transferencia de crédito.
+
+La anterior solicitud, de la que deberá dar cuenta a la oficina presupuestaria, podrá sustituirse por una diligencia en el primer documento contable que se expida con cargo a los nuevos conceptos en la que se indicará: «Primera operación imputada a la aplicación , al amparo de la regla 9 de la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado, Orden de (fecha de su aprobación)».

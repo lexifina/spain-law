@@ -1,0 +1,5 @@
+## Regla 37. Actualización de los saldos de Tesorería por anticipos de caja fija y de los pagos realizados pendientes de reposición
+
+La oficina de contabilidad del Departamento, con base en la información contenida en los estados de situación de Tesorería de las cajas pagadoras a que se refiere el artículo 9 del Real Decreto 725/1989, de 16 de junio, sobre anticipos de caja fija, que le serán remitidos por la Unidad Central dentro de las primeras quincenas de los meses de enero, abril, julio y octubre, procederá a actualizar la situación y movimientos de las cuentas relativas a los anticipos de caja fija que se prevén en el Plan General de Contabilidad Pública.
+
+No obstante lo indicado en el párrafo anterior, el registro de las entradas de Tesorería como consecuencia de las reposiciones de fondos se efectuará en la oficina de contabilidad del Departamento una vez que se reciba la comunicación de que se han efectuado los pagos relativos a las propuestas que se regulan en la regla anterior.
