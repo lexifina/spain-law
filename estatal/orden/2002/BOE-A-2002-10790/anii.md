@@ -32,12 +32,12 @@
 | (106),(107),(108) | Patrimonio entegado en gestión, adscripción o cesión |  |  |
 | (109) | Patrimonio entegado al uso general |  |  |
 | 11 | II. Reservas |  |  |
-| 120,(121) | III. Resultados de ejercicios anteriores |  |  |
-| 129 | IV. Resultados del ejercicio |  |  |
+| (Suprimido) | (Suprimido) |  |  |
+| 129 | III. Resultados del ejercicio |  |  |
 | 13 | B) INGRESOS A DISTRIBUIR EN VARIOS EJERCICIOS |  |  |
 | 14 | C) PROVISIONES PARA RIESGOS Y GASTOS |  |  |
 |  | D) ACREEDORES A LARGO PLAZO |  |  |
-| 15,(197) | I. Emisiones de obligaciones y otros valores negociables |  |  |
+| 15,(Suprimido) | I. Emisiones de obligaciones y otros valores negociables |  |  |
 | 16,17,18 | II. Otras deudas a largo plazo |  |  |
 | 259 | III. Desembolsos pendientes sobre acciones no exigidos |  |  |
 |  | E) ACREEDORES A CORTO PLAZO |  |  |
@@ -73,9 +73,9 @@
 | --- | --- | --- | --- |
 |  | B) INGRESOS |  |  |
 |  | I. Gastos de gestión ordinaria |  |  |
-| 720,721,722,723,728,73,740,743,744, | – Ingresos tributarios |  |  |
+| 720,721,722,723,728,73,740,743,742,744, | – Ingresos tributarios |  |  |
 | 729 | – Cotizaciones sociales |  |  |
-| 741,742 | – Prestación de servicios |  |  |
+| 741 | – Prestación de servicios |  |  |
 | 795 | – Exceso de provisión para devolución de impuestos |  |  |
 |  | 2. Otros ingresos de gestión oridnaria |  |  |
 | 76 | – Ingresos financieros, diferencias positivas de cambio y otros ingresos asimilables |  |  |
@@ -98,5 +98,9 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/134/10790_006.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/134/10790_007.png)
+
+> Se modifican los apartados I y II por el apartado 2 de la Resolución de 30 de julio de 2003. Ref. BOE-A-2003-16487.
+
+> Esta modificación es aplicable para el ejercicio 2002 y siguientes.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 159, de 4 de julio de 2002. Ref. BOE-A-2002-13150.

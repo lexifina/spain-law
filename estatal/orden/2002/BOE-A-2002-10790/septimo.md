@@ -107,8 +107,8 @@ d) Tabla de agrupaciones del balance de situación.
 | 132010 | 1. Cartera de valores a corto plazo |
 | 132020 | 2. Otras inversiones y créditos a corto plazo |
 | 132030 | 3. Fianzas y depósitos constituidos a corto plazo |
-| 132040 | 4. Provisiones |
-| 132050 | 5. Operaciones de intercambio financiero |
+| 132040 | 4. Operaciones de intercambio financiero |
+| 132050 | 5. Provisiones |
 | 133000 | III. Tesorería |
 | 134000 | IV. Ajustes por periodificación |
 | 199999 | TOTAL GENERAL (A+B+C) |
@@ -125,10 +125,10 @@ d) Tabla de agrupaciones del balance de situación.
 | 211060 | 6. Patrimonio entregado en cesión |
 | 211070 | 7. Patrimonio entregado al uso general |
 | 212000 | II. Reservas |
-| 213000 | III. Resultados de ejercidos anteriores |
-| 213010 | 1. Resultados positivos de ejercicios anteriores |
-| 213020 | 2. Resultados negativos de ejercicios anteriores |
-| 214000 | IV. Resultados del ejercicio |
+| 213000 | III. Resultados del ejercicio |
+| (Suprimido) | (Suprimido) |
+| (Suprimido) | (Suprimido) |
+| (Suprimido) | (Suprimido) |
 | 220000 | B) INGRESOS A DISTRIBUIR EN VARIOS EJERCICIOS |
 | 230000 | C) PROVISIONES PARA RIESGOS Y GASTOS |
 | 240000 | D) ACREEDORES A LARGO PLAZO |
@@ -137,7 +137,7 @@ d) Tabla de agrupaciones del balance de situación.
 | 241020 | 2. Deudas representadas en otros valores negociables |
 | 241030 | 3. Intereses de obligaciones y otros valores |
 | 241040 | 4. Deudas en moneda distinta de euro |
-| 241050 | 5. Deudas del Estado por conversión pendiente de entregar |
+| (Suprimido) | (Suprimido) |
 | 242000 | II. Otras deudas a largo plazo |
 | 242010 | 1. Moneda metálica emitida |
 | 242020 | 2. Deudas con entidades de crédito |
@@ -217,13 +217,13 @@ e) Tabla de agrupaciones de la cuenta del resultado económico patrimonial.
 | 401107 | a7) Impuestos especiales |
 | 401108 | a8) Impuesto sobre el tráfico exterior |
 | 401109 | a9) Otros impuestos |
-| 401110 | a10) Tasas por prestación de servicios o realización de actividades |
+| 401110 | a10) Tasas por prestación de servicios, realización de actividades y utilización privativa o aprovechamiento especial del dominio público |
 | 401111 | a11) Tasas fiscales |
-| 401112 | a12) Contribuciones especiales |
+| (Suprimido) | (Suprimido) |
 | 401200 | b) Cotizaciones sociales |
 | 401300 | c) Prestaciones de servicios |
-| 401301 | c1) Precios públicos por prestación de servicios o realización de actividades |
-| 401002 | c2) Precios públicos por utilización privativa o aprovechamiento especial del dominio público |
+| (Suprimido) | (Suprimido) |
+| (Suprimido) | (Suprimido) |
 | 401400 | d) Exceso de provisión devolución de impuestos. |
 | 402000 | 2. Otros ingresos de gestión ordinaria |
 | 402100 | a) Reintegros |
@@ -310,3 +310,7 @@ k) Tabla de tipos de operaciones de Caja General de Depósitos por otras garant�
 | 002 | Participaciones en fondos de inversión |
 | 003 | Aval |
 | 004 | Certificados seguro de caución |
+
+> Se modifican los apartados d) y e) por el apartado 2 de la Resolución de 30 de julio de 2003. Ref. BOE-A-2003-16487.
+
+> Esta modificación es aplicable para el ejercicio 2002 y siguientes.
