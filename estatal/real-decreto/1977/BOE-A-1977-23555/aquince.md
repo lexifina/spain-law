@@ -1,6 +1,6 @@
 ## Artículo quince.
 
-Uno. La licencia de Controlador de la Circulación Aérea supondrá la aptitud para ocupar los puestos de trabajo clasificadas como de menor nivel en el primer destino del funcionario, o los del nivel que le corresponda a dicha licencia en los demás casos, y se obtendrá una vez superados los cursos de Estudios de Control de la Circulación Aérea en el Centro de enseñanza oficial.
+Uno. La Licencia de Controlador de la Circulación Aérea supondrá la aptitud para ocupar los puestos de trabajo clasificados como de menor nivel en el primer destino del funcionario, o los del nivel que le corresponda a dicha licencia en los demás casos, y se obtendrá una vez superado el Curso de Formación en Control de la Circulación Aérea en el Centro de Enseñanza Oficial.
 
 Dos. Las normas de promoción posterior serán:
 
@@ -21,3 +21,5 @@ Cuatro. Si por necesidades del servicio un Controlador de la Circulación Aérea
 Siempre que sea posible, el Jefe de la Dependencia habilitará para ejercer funciones de nivel superior al Controlador de la Circulación Aérea en posesión del Diploma de Perfeccionamiento Profesional inmediatamente inferior, que haya alcanzado la fase de promoción máxima correspondiente a este Diploma, y de mayor antigüedad.
 
 Cinco. Al Controlador de la Circulación Aérea que pase a ocupar un puesto de trabajo en otra dependencia, o en la misma procedente de otro puesto de trabajo no operativo, se le reconocerá la misma fase de promoción que poseía, una vez cumplidos los requisitos a) y b) de esta norma segunda, apartado uno.
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 1698/1979, de 29 de junio. Ref. BOE-A-1979-16701

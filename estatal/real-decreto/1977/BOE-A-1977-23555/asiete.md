@@ -4,14 +4,8 @@ Para ser admitido a las pruebas selectivas previas al ingreso será preciso cump
 
 a) Nacionalidad española.
 
-b) Edad comprendida entre los dieciocho y treinta y cinco años, cumplidos en la fecha de la convocatoria.
+b) Edad comprendida entre los dieciocho y treinta años, cumplidos en la fecha de la convocatoria.
 
-c) Reunir, por lo menos, una de las siguientes condiciones:
+c) Estar en posesión del titulo de Diplomado Universitario, Ingeniero Técnico, Arquitecto Técnico o equivalente.
 
-Primera.–Ser Piloto militar con categoría mínima de Suboficial.
-
-Segunda.–Ser Especialista del Ejército del Aire con el título de Operador de Alerta y Control, o Suboficial del Arma de Aviación en posesión del titulo de Controlador de Aeródromo y Aproximación,
-
-Tercera.–Ser Piloto civil con titulo de categoría no inferior a Piloto comercial.
-
-Cuarta.–Estar en posesión del título de Bachiller Superior, General, Laboral o Técnico, o de otros estudios que por el Ministerio de Educación y Ciencia estén considerados como equivalentes.
+> Se modifica por el art. único del Real Decreto 1698/1979, de 29 de junio. Ref. BOE-A-1979-16701
