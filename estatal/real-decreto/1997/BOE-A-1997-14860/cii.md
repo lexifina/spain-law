@@ -1,3 +1,5 @@
 ## CAPÍTULO II
 
 ## Instituto Español de Oceanografía
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1950/2000, de 1 de diciembre. Ref. BOE-A-2000-21831

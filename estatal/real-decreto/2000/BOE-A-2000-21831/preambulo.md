@@ -1,0 +1,15 @@
+El Instituto Español de Oceanografía fue creado por Real Decreto de 17 de abril de 1914, como resultado de la integración en un mismo organismo de los laboratorios de Biología Marina de Santander, fundado en 1886 y dependiente de la Universidad de Valladolid, y Porto Pi (Mallorca), fundado en 1906 y dependiente de la Universidad de Barcelona. El Decreto fundacional recogía en su artículo 1.o los fines del Instituto de la siguiente forma: "se crea el Instituto Español de Oceanografía que tendrá por objeto el estudio de las condiciones físicas, químicas y biológicas de los mares que bañan nuestro territorio, con sus aplicaciones a los problemas de la pesca."
+
+Desde su fundación, en 1914, el Instituto Español de Oceanografía ha pertenecido a diversos Ministerios, pero el objetivo fundacional se ha mantenido esencialmente invariable a lo largo de los años.
+
+El instituto Español de Oceanografía es un organismo público de Investigación, de acuerdo con lo establecido por la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica, adscrito al Ministerio de Ciencia y Tecnología. Su naturaleza jurídica es la de Organismo Autónomo, de conformidad con lo dispuesto en el párrafo a) del artículo 43.1 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+Por otra parte, la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, en su artículo 61, establece que los organismos públicos de investigación a que se refiere el artículo 13 de la Ley 13/1986, adoptarán la configuración de Organismo autónomo, establecida en el artículo 43.1.a) de la Ley 6/1997, de 14 de abril, con una serie de peculiaridades en materia de personal y de régimen económico.
+
+Asimismo, en el apartado dos del mencionado artículo 61 de la Ley 50/1998, se dispone que el Gobierno, a iniciativa de los Ministerios de adscripción respectivos y a propuesta conjunta de los Ministros de Administraciones Públicas y de Hacienda, aprobará los Estatutos de cada uno de los organismos públicos de investigación en el plazo de un año a partir de la entrada en vigor de esta Ley.
+
+En consecuencia, el presente Real Decreto, en cumplimiento de la normativa antes expuesta, aprueba el Estatuto del Instituto Español de Oceanografía. En él se determinan los órganos de dirección y gobierno del Organismo; la distribución de las funciones y competencias de los mismos; el patrimonio y recursos económicos asignados; el régimen de recursos humanos, patrimonio y contratación; el régimen presupuestario, económico, financiero y de intervención. Establece asimismo las pautas relativas al desarrollo de su actividad investigadora y ordena el marco de las relaciones institucionales.
+
+En su virtud, a iniciativa de la Ministra de Ciencia y Tecnología, a propuesta conjunta de los Ministros de Administraciones Públicas y de Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 1 de diciembre de 2000,
+
+## D I S P O N G O :
