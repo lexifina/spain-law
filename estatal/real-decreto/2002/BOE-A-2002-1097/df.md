@@ -1,0 +1,3 @@
+## Disposición final primera. Modificaciones de carácter técnico.
+
+Se faculta a los Ministros de Defensa y de Fomento para introducir, con sujeción a lo dispuesto en la Orden de la Presidencia del Gobierno de 8 de noviembre de 1979, por la que se crea la Comisión Interministerial prevista en el artículo 6.º del Real Decreto-ley 12/1978, de 27 de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y de Fomento en materia de aviación, cuantas modificaciones de carácter técnico fuesen precisas para la adaptación de las operaciones de vuelo a las innovaciones técnicas que se produzcan, y especialmente a lo dispuesto en la normativa contenida en los anexos OACI y en los tratados y convenios internacionales de los que España sea parte.
