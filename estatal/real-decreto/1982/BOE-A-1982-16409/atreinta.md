@@ -1,3 +1,5 @@
 ## Artículo treinta.
 
-Se considera mujer con responsabilidades familiares aquella que tuviere a su cargo cónyuge, descendientes, ascendientes y demás parientes por consanguinidad o afinidad hasta el tercer grado inclusive, y, en su caso, por adopción.
+(Derogado)
+
+> Se deroga por la disposición derogatoria del Real Decreto 1992/1984, de 31 de octubre. Ref. BOE-A-1984-24876.

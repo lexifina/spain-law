@@ -1,5 +1,5 @@
 ## Artículo doce.
 
-Uno. El contrato se formalizará siempre por escrito, debiendo constar, al menos, la titulación del trabajador, el objeto de las prácticas, la duración del contrato y del período de prueba, en su caso, la jornada laboral y la retribución convenida.
+(Derogado)
 
-Dos. El contrato será registrado en la Oficina de Empleo correspondiente.
+> Se deroga por la disposición derogatoria del Real Decreto 1992/1984, de 31 de octubre. Ref. BOE-A-1984-24876.
