@@ -2,7 +2,7 @@
 
 Las sanciones que pueden ser impuestas para corregir las infracciones a que se refieren los dos artículos precedentes serán:
 
-Multa de hasta 500.000 pesetas.
+Multa de hasta 3.005,06 euros.
 
 Suspensión o revocación definitiva de las autorizaciones, licencias o permisos concedidos por el Servicio de Control de Estupefacientes.
 
@@ -13,3 +13,5 @@ Disminución o supresión total de los suministros a los Centros docentes o de i
 Clausura temporal de un mes a un año o definitiva de farmacias, botiquines o establecimientos comerciales o industriales.
 
 Suspensión para el ejercicio de cargos, profesiones, oficios o actividades relacionadas con la producción, fabricación y tráfico de estupefacientes.
+
+> Se convierte a euros la cuantía contemplada por el apartado 1 de la Resolución de 19 de noviembre de 2001. Ref. BOE-A-2001-23617
