@@ -1,0 +1,5 @@
+## Artículo tercero
+
+1. La comunicación y el intercambio de programas de actuación e información relativos al Patrimonio Histórico Español serán facilitados por el Consejo del Patrimonio Histórico, constituido por un representante de cada Comunidad Autónoma, designado por su Consejo de Gobierno, y el Director General correspondiente de la Administración del Estado, que actuará como Presidente.
+
+2. Sin perjuicio de las funciones atribuidas al Consejo del Patrimonio Histórico, son instituciones consultivas de la Administración del Estado, a los efectos previstos en la presente Ley, la Junta de Calificación, Valoración y Exportación de Bienes del Patrimonio Histórico Español, las Reales Academias, las Universidades españolas, el Consejo Superior de Investigaciones Científicas y las Juntas Superiores que la Administración del Estado determine por vía reglamentaria, y en lo que pueda afectar a una Comunidad Autónoma, las instituciones por ella reconocidas. Todo ello con independencia del asesoramiento que, en su caso, pueda recabarse de otros organismos profesionales y entidades culturales.

@@ -1,0 +1,7 @@
+## Artículo segundo
+
+1. Sin perjuicio de las competencias que correspondan a los demás poderes públicos, son deberes y atribuciones esenciales de la Administración del Estado, de conformidad con lo establecido en los artículos 46 y 44, 149.1.1, y 149.2 de la Constitución, garantizar la conservación del Patrimonio Histórico Español, así como promover el enriquecimiento del mismo y fomentar y tutelar el acceso de todos los ciudadanos a los bienes comprendidos en él. Asimismo, de acuerdo con lo dispuesto en el artículo 149.1, 28, de la Constitución, la Administración del Estado protegerá dichos bienes frente a la exportación ilícita y la expoliación.
+
+2. En relación al Patrimonio Histórico Español, la Administración del Estado adoptará las medidas necesarias para facilitar su colaboración con los restantes poderes públicos y la de éstos entre sí, así como para recabar y proporcionar cuanta información fuera precisa a los fines señalados en el párrafo anterior.
+
+3. A la Administración del Estado compete igualmente la difusión internacional del conocimiento de los bienes integrantes del Patrimonio Histórico Español, la recuperación de tales bienes cuando hubiesen sido ilícitamente exportados y el intercambio, respecto a los mismos, de información cultural, técnica y científica con los demás Estados y con los Organismos internacionales, de conformidad con lo establecido en el artículo 149.1, número 3, de la Constitución. Las demás Administraciones competentes colaborarán a estos efectos con la Administración del Estado.

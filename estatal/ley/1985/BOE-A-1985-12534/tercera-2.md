@@ -1,0 +1,3 @@
+## Disposición transitoria tercera.
+
+Quienes a la entrada en vigor de la presente Ley fuesen propietarios, poseedores o tenedores de algunos de los bienes a que se refieren los artículos 26 y 53 de la presente Ley dispondrán del plazo de un año para comunicar la existencia de dichos bienes a la Administración competente. En tal caso, la citada comunicación determinará la exención, en relación a tales bienes, de cualesquiera impuestos o gravámenes no satisfechos con anterioridad, así como de toda responsabilidad frente a la Hacienda Pública o los restantes Organos de la Administración por incumplimientos, sanciones, recargos o intereses de demora.
