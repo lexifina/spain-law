@@ -1,0 +1,3 @@
+## Disposición transitoria tercera.
+
+Caducarán las inscripciones de hipoteca que en primero de enero de mil novecientos cuarenta y cinco cuenten con más de treinta años de antigüedad a partir de la fecha del vencimiento del crédito sin haber sufrido modificación, si dentro del plazo de dos años, contados desde el referido día primero de enero de mil novecientos cuarenta y cinco, no han sido novadas, interrumpida su prescripción o ejercitada debidamente la acción hipotecaria, y asimismo las que, constituidas con anterioridad a dicho día, vayan cumpliendo en lo sucesivo los treinta años de antigüedad, con las mismas condiciones y requisitos.

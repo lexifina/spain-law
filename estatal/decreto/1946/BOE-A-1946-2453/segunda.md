@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+Habrán incurrido en caducidad y, por tanto, se cancelarán a instancia de parte interesada, las anotaciones preventivas que en primero de julio de mil novecientos cuarenta y cinco cuenten quince años o más de fecha. Las anotaciones preventivas que en el mismo día tengan dos o más años y menos de quince de fecha podrán ser objeto de una prórroga cuadrienal única, dentro de los dos años siguientes, y, transcurrido este plazo o la prórroga en su caso, caducarán y serán canceladas a instancia de parte interesada. Las anotaciones preventivas de menos de dos años de fecha al entrar en vigor esta Ley se regirán por las prescripciones del artículo setenta y seis de la misma.
