@@ -1,3 +1,5 @@
 ## Disposición transitoria novena.
 
-No obstante lo establecido en el apartado 2.B) de la base octava, durante un plazo máximo de cinco años, la Institución sanitaria podrá designar, de acuerdo con la normativa vigente, para formar parte de las Comisiones, a especialistas que no posean el título de Doctor.
+(Derogada)
+
+> Se deroga por la disposición derogatoria del Real Decreto 1652/1991, de 11 de octubre. Ref. BOE-A-1991-28106.
