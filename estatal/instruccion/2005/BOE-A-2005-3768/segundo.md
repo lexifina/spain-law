@@ -1,0 +1,3 @@
+## Segundo. Forma y requisitos para la expedición del certificado de vida.
+
+Las autoridades españolas mencionadas en el artículo anterior expedirán el certificado de vida en la forma y con los requisitos previstos por la legislación del Registro civil y notarial española y, en particular, cumpliendo las previsiones de los artículos 363 y 364 del Reglamento del Registro Civil, en el caso de los Encargados y los Delegados de los Registros civiles municipales y los Encargados de los Registros civiles consulares, y mediante acta notarial de presencia, previa a la expedición del certificado de vida, de la que dejarán constancia mediante diligencia en aquélla, en el caso de los Notarios.
