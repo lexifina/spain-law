@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 5, de 5 de enero de 2001. Ref. BOE-A-2001-417.
+Téngase en cuenta que se deroga lo que se refiere a la declaración del modelo 198 de esta Orden por la disposición derogatoria única de la Orden EHA/3895/2004, de 23 de noviembre. Ref. BOE-A-2004-20157.
