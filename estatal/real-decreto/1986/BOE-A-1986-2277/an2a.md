@@ -1,0 +1,6 @@
+## ANEXO 2A)
+
+| MINISTERIO DE CULTURA REGISTRO GENERAL DE BIENES DE INTERES CULTURAL TÍTULO DE BIEN DECLARADO DE INTERES CULTURAL (12 × 16 cms.) Cubierta |
+| --- |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1986/24/02277_001.png)
