@@ -1,0 +1,9 @@
+En cumplimiento de la sentencia de la Sala Cuarta del Tribunal Supremo, de fecha diecisiete de noviembre de mil novecientos setenta y cinco, que anuló el Decreto dos mil cuatrocientos setenta y nueve/mil novecientos sesenta y ocho, de veinte de septiembre, por el que se regulaban las faltas y el procedimiento sancionador en el ámbito de la prestación farmacéutica de la Seguridad Social, ordenándose la reposición de las actuaciones al trámite de informe por el Consejo de Estado, el texto referido fue remitido a dicho Alto Cuerpo Consultivo por el Ministerio de Trabajo.
+
+Recibido el dictamen del Consejo de Estado al citado proyecto de Decreto, que desarrolla lo dispuesto en el artículo ciento veinticinco de la Ley de la Seguridad Social, se ha tenido en consideración las observaciones formuladas, especialmente las relativas a la precisión de las faltas y la correlativa graduación de las sanciones, siguiéndose, en ambos casos, criterios paralelos a los establecidos en el Decreto dos mil ochocientos noventa y dos/mil novecientos setenta, de doce de septiembre, por el que se aprueba el Reglamento General de Faltas y Sanciones del Régimen General de la Seguridad Social, y recogiendo la posibilidad de imponer sanciones económicas en evitación de perjuicios a los beneficiarlos de la Seguridad Social, como consecuencia de la imposibilidad de utilizar las oficinas de farmacia inhabilitadas, tal corno advertía el Alto Organismo Consultivo,
+
+En su virtud, a propuesta del Ministerio de Trabajo, da conformidad con el informe del Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día diecisiete de junio de mil novecientos setenta y siete,
+
+DISPONGO:
+
+> Redactado conforme a la corrección de errores publicada en BOE núm.185, de 4 de agosto de 1977. Ref. BOE-A-1977-18222
