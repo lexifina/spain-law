@@ -1,0 +1,7 @@
+## Segundo. Coeficiente de relación al mercado RM.
+
+1. A efectos de lo dispuesto en el artículo 66.2 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, se utilizarán los estudios de mercado realizados conforme a lo previsto en la Norma 23 del anexo al Real Decreto 1020/1993, de 25 de junio, y los demás análisis socioeconómicos efectuados por la Dirección General del Catastro.
+
+2. La referencia establecida en el mencionado artículo se realizará de forma homogénea en las valoraciones catastrales de bienes inmuebles de naturaleza urbana, a cuyo efecto, se aplicará un coeficiente de relación al mercado (RM) de 0,5 al valor individualizado resultante de la Ponencia de valores. Dicho valor individualizado se obtendrá mediante la suma del valor del suelo en parcela y del valor de reposición de la construcción, corregidos ambos valores y su suma de acuerdo con lo establecido en la normativa técnica de valoración; y aplicando al resultado, de conformidad con la Norma 16 del Real Decreto 1020/1993, sólo en el caso de fincas construidas, el coeficiente 1,40 de gastos y beneficios de promoción.
+
+3. La aplicación del coeficiente de relación al mercado (RM) de 0,5 requerirá que la Ponencia de valores afecte a la totalidad de los inmuebles de naturaleza urbana del municipio y que haya sido aprobada con posterioridad al 27 de enero de 1993. Asimismo, el coeficiente RM será aplicable a los valores individualizados resultantes de los expedientes de modificación de estas Ponencias.
