@@ -1,0 +1,7 @@
+La Real Orden de 27 de febrero de 1926 declaró obligatoria la colegiación de todos los agentes de la propiedad industrial y comercial y la Real Orden de 28 de febrero de 1927 constituyó el Colegio de Agentes de la Propiedad Industrial y Comercial y aprobó su Reglamento, que ha sido objeto de modificaciones posteriores en virtud de las Reales Órdenes de 19 de enero de 1929, 21 de mayo de 1930, 29 de noviembre de 1930 y Órdenes de 12 de diciembre de 1940 y 1 de agosto de 1961. Con posterioridad, se han sucedido distintas modificaciones legislativas y reglamentarias que hacen necesaria su adaptación a la normativa vigente. Así, se promulgó la Ley 2/1974, de Colegios Profesionales, de 13 de febrero, y que fue modificada por la Ley 74/1978, de 26 de diciembre, para adaptarla a la Constitución Española de 1978, y posteriormente por la Ley 7/1997, de 14 de abril, de medidas liberalizadoras en materia de suelo y Colegios Profesionales.
+
+La Junta General extraordinaria del citado Colegio, celebrada el 27 de enero de 1999, aprobó los Estatutos, los cuales han sido remitidos al Ministerio de Industria y Energía, a efectos de su aprobación por el Gobierno, de conformidad con lo dispuesto en el artículo 6.2 de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales.
+
+En su virtud, a propuesta del Ministro de Industria y Energía, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 25 de febrero de 2000,
+
+DISPONGO:
