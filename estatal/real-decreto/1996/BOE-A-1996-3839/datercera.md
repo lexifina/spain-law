@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Aplicación a otros sectores.
+
+En el momento en que, de acuerdo con lo establecido en el artículo 14 del Reglamento (CEE) 1836/93, con carácter experimental se apliquen disposiciones análogas al presente sistema de ecogestión y ecoauditoría a sectores distintos de los industriales, por el Ministerio de Obras Públicas, Transportes y Medio Ambiente se dictarán las disposiciones oportunas para que las funciones que en este Real Decreto se atribuyen al Registro de Establecimientos Industriales sean desempeñadas, para los otros sectores, por un Registro que a tal efecto se creará en dicho Departamento.
