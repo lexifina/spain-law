@@ -18,7 +18,9 @@ Sin embargo, a partir de un cierto número de muestras, el laboratorio puede est
 
 2. Tratamiento de la muestra recibida en el laboratorio
 
-Cada muestra de laboratorio se tritura finamente y se mezcla cuidadosamente, según un método que garantice una homogeneización completa.
+Cada muestra de laboratorio se triturará finamente y se mezclará cuidadosamente según un método que garantice una homogeneización completa.
+
+En el caso de que el contenido máximo sea aplicable a la materia seca, el contenido de materia seca se determinará sobre una parte de la muestra homogeneizada, utilizando un procedimiento que garantice una determinación precisa del contenido de materia seca.
 
 3. Subdivisión de las muestras para medidas ejecutorias y acciones de defensa
 
@@ -84,6 +86,8 @@ El resultado analítico corregido en función de la recuperación se utilizará 
 El resultado analítico se expresará como X +/U, siendo X el resultado analítico y U la incertidumbre expandida de la medida, utilizando un factor de cobertura de 2, lo que da un nivel de confianza del 95% aproximadamente.
 
 e) Garantía de calidad aplicable a los laboratorios: los laboratorios deben ajustarse a las disposiciones del Real Decreto 1397/1995, de 4 de agosto, por el que se aprueban medidas adicionales sobre el control oficial de los productos alimenticios.
+
+> Se modifica el apartado 2 por el art. 1 y anexo II de la Orden SCO/4226/2004, de 16 de diciembre de 2004. Ref. BOE-A-2004-21694.
 
 > Se modifica el apartado 4.d) por el art. 1 y anexo II de la Orden SCO/2797/2004, de 28 de julio de 2004. Ref. BOE-A-2004-15198.
 

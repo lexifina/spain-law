@@ -214,9 +214,21 @@ F) Otros productos que presenten partículas relativamente gruesas (distribució
 
 Método de toma de muestras y aceptación, de acuerdo con lo regulado en los apartados 5.B) y 5.C) del presente anexo, para productos agrícolas no transformados.
 
+G) Alimentos destinados a lactantes y niños de corta edad.
+
+1.º Método de toma de muestras.-Se aplicará el método de toma de muestras para la leche y los productos derivados, así como para los productos alimenticios compuestos de varios ingredientes y otros productos que presenten partículas relativamente gruesas, establecido en los puntos 5.D), 5.E) y 5.F).
+
+2.º Aceptación de un lote:
+
+a) Aceptación, si la muestra global se ajusta al límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
+
+b) Rechazo, si la muestra global supera, fuera de toda duda razonable, el límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
+
 6. Toma de muestras en la fase de comercio minorista
 
 La toma de muestras en la fase de comercio minorista debería efectuarse, en la medida de lo posible, de acuerdo con las disposiciones sobre toma de muestras anteriormente mencionadas. En caso de que no sea posible, podrán utilizarse otros procedimientos efectivos de toma de muestras en la fase de comercio minorista, siempre que garanticen una representatividad suficiente del lote objeto del muestreo.
+
+> Se añade el apartado 5.G) por el art. 1 y anexo I de la Orden SCO/4226/2004, de 16 de diciembre de 2004. Ref. BOE-A-2004-21694.
 
 > Se modifican los apartados 5.B).1º.d), 5.B).2º, 5.D).2º, 5.E).1ºb) y 5.E).2º.c) por el art. 1 y anexo I de la Orden SCO/2797/2004, de 28 de julio de 2004. Ref. BOE-A-2004-15198.
 
