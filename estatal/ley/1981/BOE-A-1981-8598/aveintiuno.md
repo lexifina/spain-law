@@ -1,0 +1,13 @@
+## Artículo veintiuno.
+
+Sin perjuicio de las atribuciones del Banco de España y de las competencias de otros órganos de la Administración en sus respectivas materias, corresponderá al Ministerio de Economía y Comercio el control e inspección de la aplicación de las normas de esta Ley, especialmente en lo que se refiere a la constitución y funcionamiento de las Sociedades de crédito hipotecario y condiciones de la garantía de los créditos, el cumplimiento de las normas de tasación, los requisitos exigibles para las emisiones de cédulas, bonos y participaciones y las proporciones establecidas entre las partidas de activo y pasivo, así como los aspectos referentes al funcionamiento del mercado secundario.
+
+Las infracciones de las normas de la presente Ley y la imposición de sanciones por su incumplimiento se regularán por el Real Decreto dictado a propuesta del Ministerio de Economía y Comercio, conforme a los siguientes criterios:
+
+a) Serán órganos competentes para la imposición de sanciones el Director general de Política Financiera, el Ministro de Economía y Comercio y el Consejo de Ministros. Cuando tales sanciones sean pecuniarias, el primero podrá imponer multas de hasta diez millones de pesetas; el segundo, de hasta veinticinco millones de pesetas, y el último, por cuantías superiores hasta cincuenta millones de pesetas o el duplo del beneficio ilícito obtenido. Sólo el Consejo de Ministros podrá sancionar con la exclusión del mercado hipotecario.
+
+b) Serán objeto de tipificación las infracciones de las normas de esta Ley y, en especial, de las materias a que se refiere el inciso final del primer párrafo de este artículo.
+
+c) Las sanciones podrán ser pecuniarias o no pecuniarias; estas últimas consistirán en la suspensión de actividad por tiempo determinado dentro del mercado hipotecario o en la exclusión del mismo, con disolución y liquidación forzosa, si se tratase de Sociedades de crédito hipotecario. Podrán simultanearse, en los casos en que reglamentariamente así se prevea, sanciones pecuniarias y no pecuniarias, cuando se trate de infracciones de especial gravedad o gran trascendencia social, en los supuestos de reincidencia o reiteración. En su caso, las sanciones que puedan imponerse a personas físicas serán compatibles con las penas infligidas por los mismos hechos por sentencia criminal; asimismo, las sanciones no pecuniarias no impedirán la imposición de otras que pudieran corresponder por aplicación de la legislación bancaria u otra especial.
+
+d) El procedimiento sancionador será el del capítulo II del título cuarto de la Ley de Procedimiento Administrativo. Salvo que sea manifiestamente infundada o de mala fe, la denuncia obligará a acordar la instrucción de información reservada.
