@@ -2,26 +2,26 @@
 
 Las bases y los tipos de gravamen son los siguientes:
 
-| Concepto | Pesetas | Euros |
-| --- | --- | --- |
-| A1) Certificación a instancia de parte | 850 | 5,11 |
-| A2) Compulsa de documentos técnicos, cada uno | 380 | 2,283846 |
-| A3) Busca de asuntos archivados | 230 | 1,38 |
-| B) Informes facultativos sin toma de datos de campo | 4.170 | 25,06 |
-| C1) Informes facultativos con toma de datos de campo. Primer día | 12.470 | 74,95 |
-| C2) Informes facultativos con toma de datos. Cada día siguiente . | 8.300 | 49,884005 |
-| D1) Trabajos de campo para deslindes, inspección de obra. Primer día | 12.470 | 74,95 |
-| D2) Trabajos de campo para deslindes, inspección de obra. Cada día hasta el 15.º inclusive | 8.300 | 49,884005 |
-| D3) Trabajos de campo para deslindes, inspección de obra. Por cada uno de los siguientes días | 6.230 | 37,443054 |
-| F) Por registro de concesiones y autorizaciones administrativas | 380 | 2,28 |
-| G) Por copias de documentos mecanográficos y copias de planos | 850 | 5,108603 |
-| Por cada fotocopia | 14 | 0,084142 |
-| Por cada m2 de plano fotocopiado | 604 | 3,630113 |
-| Por cada copia en diskette | 170 | 1,021721 |
+| Concepto | Importe |
+| --- | --- |
+| Pesetas | Euros |
+| Certificaciones a instancias de parte | 850 | 5,11 |
+| Compulsa de documentos | 380 | 2,28 |
+| Busca de asuntos archivados | 230 | 1,38 |
+| Informes facultativos sin tomar datos | 4.170 | 25,06 |
+| Informe facultativo con datos de campo, 1 día | 12.470 | 74,95 |
+| Informe facultativo cada día siguiente | 8.300 | 49,884005 |
+| Trabajos de campo para deslindes, inspección de obra por primer día | 12.470 | 74,95 |
+| Trabajos de campo para deslindes, inspección de obra, cada día siguiente hasta el 15.º inclusive | 8.300 | 49,884005 |
+| Trabajos de campo para deslindes, inspección de obra, por cada uno de los siguientes | 6.230 | 37,443054 |
+| Por registro de concesiones y autorizaciones administrativas | 380 | 2,28 |
+| Por copias de documentos mecanografiados y copias de planos | 850 | 5,11 |
 
 Al aplicar las presentes tasas no se podrán percibir dietas, gastos de locomoción ni ningún otro producido por los funcionarios que intervengan, estando asimismo incluidos en la tasa los materiales que se empleen.
 
 Los tipos no proporcionales de carácter fijo podrán revisarse por Decreto refrendado por la Presidencia del Gobierno, a propuesta conjunta de los Ministros de Hacienda y de Obras Públicas, a fin de ajustarlos a las variaciones del índice de coste de vida fijado por el Instituto Nacional de Estadística.
+
+> Se modifica por el art. 3 de la Resolución 12/2001, de 29 de noviembre. Ref. BOE-A-2001-24242.
 
 > Se modifica por el art. 3 de la Resolución 9/2001, de 31 de octubre. Ref. BOE-A-2001-22215.
 
