@@ -10,6 +10,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [preambulo](preambulo.md)
 - [co](co.md)
 - [Artículo único](aunico.md)
 - [firma](firma.md)

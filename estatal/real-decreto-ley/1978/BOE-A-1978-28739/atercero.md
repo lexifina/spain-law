@@ -1,0 +1,3 @@
+## Artículo tercero. Participación.
+
+Uno. Se faculta al Gobierno para regular la participación en el control y vigilancia de la gestión del Instituto Nacional de la Seguridad Social, del Instituto Nacional de la Salud y del Instituto Nacional de Servicios Sociales, que se efectuará gradualmente desde el nivel estatal al local, por órganos en los que figurarán, fundamentalmente, por partes iguales, representantes de los distintos sindicatos, de las organizaciones empresariales y de la Administración Pública. Igualmente, se regulará un régimen de participación de carácter tripartito en el control de las Mutualidades.

@@ -9,3 +9,7 @@ b) El tercio restante se compondrá de miembros natos procedentes de la Organiza
 2. En todo caso, los miembros representativos serán designados mediante la oportuna elección entre quien corresponda y conforme a las normas de procedimiento electoral de la Organización Sindical.
 
 3. Los miembros natos y de libre designación, así como el número de unos y otros y su procedencia, se determinarán por el Ministerio de Trabajo, previo informe de la Organización Sindical, para cada uno de los Órganos Colegiados de Gobierno a que se refiere el artículo anterior.
+
+> Téngase en cuenta que este artículo queda derogado en cuanto se oponga al Real Decreto-ley 36/1978, de 16 de noviembre, según establece su disposición final 2.1. Ref. BOE-A-1978-28739#segunda.
+
+> Se deroga, en cuanto se oponga, por la disposición final 2.1 del Real Decreto-ley 36/1978, de 16 de noviembre. Ref. BOE-A-1978-28739#segunda.
