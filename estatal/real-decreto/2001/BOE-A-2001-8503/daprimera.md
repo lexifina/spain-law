@@ -1,0 +1,3 @@
+## Disposición adicional primera. Ámbito de aplicación de las condiciones de seguridad.
+
+Las condiciones de seguridad establecidas en este Real Decreto en relación con los transportes incluidos en el artículo 1, cuya definición corresponde a las dis tintas categorías de transporte de viajeros establecidas en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, serán asimismo de aplicación a todas aquellas clases de transporte que, en su caso, se contemplen en las normas dictadas por las Comunidades Autónomas en uso de sus competencias que, aun identificándose en aquéllas con distinta nomenclatura, incluyan transportes cuyas características coincidan con las de los contemplados en la referida Ley y el presente Real Decreto.
