@@ -1,0 +1,9 @@
+La experiencia obtenida con la aplicación de las diversas medidas de fomento del empleo adoptadas en su día por el Gobierno, ha aconsejado la introducción de algunas modificaciones que agilicen su utilización, en aras de la consecución de unos índices de contratación mas elevados, lo que permitir reducir la tasa de desempleo.
+
+Se ha estimado conveniente asimismo unificar las distintas disposiciones que regulaban diversas modalidades de contratación o establecían determinadas normas de estímulo para fomentar el empleo. Así, se recogen las medidas que afectan a la modalidad de contratación, comprensivas de la temporal, el contrato de trabajo a tiempo parcial y la contratación en prácticas y para la formación otras que afectan a determinados grupos de trabajadores, como son las relativas a la contratación de trabajadores desempleados que hayan agotado las prestaciones de desempleo o que tengan responsabilidades familiares, contratación de trabajadores minusválidos y programas dirigidos a mujeres con responsabilidades familiares, se adoptan medidas de carácter territorial buscando la incidencia del estímulo al empleo en aquellas zonas en que los índices de desempleo alcanzan tasas mas elevadas; se regulan, por último, los trabajos de colaboración social.
+
+La presente disposición viene, pues, a regular de una manera unitaria y coherente el conjunto de medidas de fomento de empleo, dictadas en desarrollo de lo establecido en el Estatuto de los Trabajadores y la Ley básica de Empleo, en una sola normal y ello no sólo porque la naturaleza y finalidad de tales medidas es la misma, sino porque además facilitará un mejor conocimiento y más amplia difusión de ellas y, consiguientemente, una más generalizada utilización.
+
+En su virtud, a propuesta del Ministro de Trabajo y Seguridad Social, oído el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día veinticinco de junio de mil novecientos ochenta y dos,
+
+DISPONGO:

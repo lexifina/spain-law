@@ -1,0 +1,9 @@
+## Artículo veinte.
+
+Uno. La base de cotización a la Seguridad Social, para los contratos en prácticas y en formación, será el salario realmente percibido por el trabajador, sin que en los contratos de trabajo en prácticas pueda ser inferior al importe del salario mínimo interprofesional vigente en cada momento, cualquiera que fuera el número de horas que se trabaje diariamente.
+
+Se aplicará el coeficiente reductor del cero coma cuarenta y cinco a las cotizaciones a la Seguridad Social a los contratos en formación y los de prácticas formalizados con los trabajadores menores de veintiocho años, aplicándose a la cuota de Empresa el 0,3825 y a la cuota del trabajador el 0,0675, teniendo derecho el trabajador a todas las prestaciones y no computándose el tiempo del contrato a efectos de carencia para la pensión de jubilación. El importe a deducir de la cotización se determinará multiplicando por el anterior coeficiente la cuota integra resultante de aplicar el tipo único vigente a las correspondientes bases de cotización.
+
+Dos. Quedan expresamente excluidas del ámbito de aplicación del presente Real Decreto las prácticas profesionales realizadas por estudiantes al amparo de la legislación educativa vigente como parte integrante de sus estudios académicos, especialmente en el campo de la formación de carácter profesional, así como las enseñanzas especializadas a que se refiere el Real Decreto-ley uno/mil novecientos ochenta y uno, de dieciséis de enero.
+
+Tres. Para el mejor desarrollo de las prácticas profesionales en la Empresa, se celebrarán acuerdos a través del Instituto Nacional de Empleo, con los Centros docentes u Organizaciones empresariales, en los que se fijen los términos de la colaboración, el plan pedagógico a seguir por el alumno, etc., y demás cuestiones conexas a dicha actividad de apoyo a la educación. Tales acuerdos podrán ser subvencionados por el Instituto Nacional de Empleo.

@@ -1,0 +1,3 @@
+## Artículo veintisiete.
+
+Para hacer efectivas las bonificaciones de la Seguridad Social, las Empresas formularán sus documentos de cotización a la misma en la forma establecida con carácter general y con sujeción a las normas que lo regulan. Al propio tiempo utilizarán boletín anexo, específico para el reflejo de la bonificación, en el que se harán constar los trabajadores objeto de la bonificación, la cuantía de las bonificaciones correspondientes a cada uno y el importe de la bonificación total de la Empresa, para deducir su importe del total resultante para ingresar en la Seguridad Social. El Instituto Nacional de Empleo, con cargo a sus recursos, efectuará las transferencias oportunas a la Seguridad Social.
