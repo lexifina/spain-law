@@ -1,0 +1,7 @@
+El Real Decreto 575/1997, de 18 de abril, por el que se modifican determinados aspectos de la gestión y control de la prestación económica de la Seguridad Social por incapacidad temporal, ha venido a establecer una regulación que incide en varias materias de la gestión de la prestación económica indicada, así como en el establecimiento de determinados controles en la comprobación del mantenimiento del derecho a aquélla, en orden a asegurar la efectividad en el percibo de las prestaciones económicas de la Seguridad Social por incapacidad temporal y evitar la utilización indebida de la protección, cuando no el fraude.
+
+La aplicación del Real Decreto mencionado requiere, de una parte, la puesta en práctica de diferentes mecanismos instrumentales, básicamente, de los nuevos modelos de partes médicos de baja, confirmación de la baja y alta, en los procesos de incapacidad temporal, siguiendo al efecto las previsiones contenidas en el Real Decreto señalado, y, de otra, el desarrollo de determinados preceptos de la norma reglamentaria.
+
+En tal sentido la disposición final primera del Real Decreto 575/1995 faculta a este departamento para dictar las disposiciones de carácter general que resulten precisas para la aplicación y desarrollo de las previsiones contenidas en aquél, a cuya finalidad responde el contenido del proyecto que se comenta.
+
+En su virtud, previo informe del Ministerio de Sanidad y Consumo y de los correspondientes órganos del Sistema Nacional de Salud, he dispuesto:
