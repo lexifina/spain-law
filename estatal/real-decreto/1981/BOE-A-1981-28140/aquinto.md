@@ -1,0 +1,3 @@
+## Artículo quinto.
+
+Todo proyecto de aeropuerto, modificación estructural u operativa del mismo o la transformación de un aeródromo en aeropuerto, requiere la autorización de la Subsecretaría de Aviación Civil para su construcción o apertura. Este organismo teniendo en cuenta la repercusión que ha de originar en la estructuración y ordenación del espacio aéreo español el tráfico que naturalmente puedan generar y las ayudas a la navegación que su implantación lleva consigo, denegará o accederá a ello, previos los informes y acuerdos previstos en el Real Decreto-ley doce/mil novecientos setenta y ocho, de veintisiete de abril, determinando en este último caso las condiciones a que ha de ajustarse su calificación y la forma de gestión del mismo.
