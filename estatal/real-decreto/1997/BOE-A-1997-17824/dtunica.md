@@ -1,0 +1,11 @@
+## Disposición transitoria única. Adaptación de equipos de trabajo.
+
+1. Los equipos de trabajo, que en la fecha de entrada en vigor de este Real Decreto estuvieran a disposición de los trabajadores en la empresa o centro de trabajo, deberán ajustarse a los requisitos establecidos en el apartado 1 del anexo I en el plazo de doce meses desde la citada entrada en vigor.
+
+No obstante, cuando en determinados sectores por situaciones específicas objetivas de sus equipos de trabajo suficientemente acreditadas no pueda cumplirse el plazo establecido en el párrafo anterior, la autoridad laboral, a petición razonada de las organizaciones empresariales más representativas del sector y previa consulta a las organizaciones sindicales más representativas en el mismo, podrá autorizar excepcionalmente un Plan de Puesta en Conformidad de los equipos de trabajo de duración no superior a cinco años, teniendo en cuenta la gravedad, transcendencia e importancia de la situación objetiva alegada. Dicho Plan deberá ser presentado a la autoridad laboral en el plazo máximo de nueve meses desde la entrada en vigor del presente Real Decreto y se resolverá en plazo no superior a tres meses, teniendo la falta de resolución expresa efecto desestimatorio.
+
+La aplicación del Plan de Puesta en Conformidad a las empresas afectadas se efectuará mediante solicitud de las mismas a la autoridad laboral para su aprobación y deberá especificar la consulta a los representantes de los trabajadores, la gravedad, transcendencia e importancia de los problemas técnicos que impiden el cumplimiento del plazo establecido, los detalles de la puesta en conformidad y las medidas preventivas alternativas que garanticen las adecuadas condiciones de seguridad y salud de los puestos de trabajo afectados.
+
+En el caso de los equipos de trabajo utilizados en explotaciones mineras, las funciones que se reconocen a la autoridad laboral en los párrafos anteriores serán desarrolladas por las Administraciones públicas competentes en materia de minas.
+
+2. Los equipos de trabajo contemplados en el apartado 2 del anexo I que el 5 de diciembre de 1998 estuvieran a disposición de los trabajadores en la empresa o centro de trabajo, deberán ajustarse en un plazo máximo de cuatro años a contar desde la fecha citada a las disposiciones mínimas establecidas en dicho apartado.
