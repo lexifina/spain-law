@@ -1,6 +1,6 @@
 ## Artículo treinta y dos.
 
-1. El Jurado provincial de expropiación, que se constituirá en cada capital de provincia, estará formado por un Presidente, que lo será el Magistrado que designe el Presidente de la audiencia correspondiente, y los siguientes cuatro vocales:
+1. El Jurado provincial de expropiación, que se constituirá en cada capital de provincia, estará formado por un Presidente, que lo será el Magistrado que designe el Presidente de la audiencia correspondiente, y los siguientes cuatro vocales :
 
 a) Un Abogado del Estado de la respectiva Delegación Hacienda.
 
