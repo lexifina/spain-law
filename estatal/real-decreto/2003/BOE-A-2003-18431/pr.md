@@ -1,0 +1,11 @@
+Como parte de la política común de transportes (artículo 80.2 del Tratado Constitutivo de la Comunidad Europea), ésta viene desarrollando una acción sobre limitación del uso de aviones de reacción subsónicos civiles con la finalidad de actuar sobre el ruido causado por el tráfico aéreo, acción concretada en las Directivas 80/51/CEE, 83/206/CEE, 89/629/CEE, 92/14/CEE y 98/20/CE, incorporadas al derecho español por el Real Decreto 1422/1992, de 27 de noviembre, sobre limitación del uso de aviones de reacción subsónicos civiles, y los Reales Decretos 325/1995, de 3 de marzo, y 1908/1999, de 17 de diciembre, que lo modificaron parcialmente.
+
+Dentro de esta línea de actuación se sitúa la recientemente adoptada Directiva 2002/30/CE del Parlamento Europeo y del Consejo, de 26 de marzo de 2002, sobre el establecimiento de normas y procedimientos para la introducción de restricciones operativas relacionadas con el ruido en los aeropuertos comunitarios.
+
+Por otra parte, esta Directiva 2002/30/CE recoge los principios contenidos en la Resolución A31/7 de la 33.a Asamblea de la Organización de Aviación Civil Internacional (OACI), por la que se introduce el concepto de «enfoque equilibrado» como instrumento de acción para tratar el problema del ruido de los aviones, lo que la lleva a habilitar para la introducción de restricciones operativas en los aeropuertos, pues para alcanzar una solución proporcional a dicho problema se requieren, entre otras medidas, normas técnicas más estrictas en relación con los niveles de ruido permitidos a las aeronaves e, incluso, poner fuera de servicio a las más ruidosas.
+
+En ejecución del capítulo IV de la Ley 48/1960, de 21 de julio, sobre navegación aérea, y también, de modo particular, en desarrollo del contenido del artículo 87 de la Ley 50/1998, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, por el que se regulan los procedimientos de disciplina de tráfico en materia de ruido, mediante este real decreto se incorpora al derecho interno la citada Directiva 2002/30/CE.
+
+En su virtud, a propuesta del Ministro de Fomento y de la Ministra de Medio Ambiente, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 3 de octubre de 2003,
+
+DISPONGO:
