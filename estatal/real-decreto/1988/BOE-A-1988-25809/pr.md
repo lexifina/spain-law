@@ -1,0 +1,11 @@
+La Orden de 5 de marzo de 1963 («Boletín Oficial del Estado» del 13), aprobó las nuevas reglamentaciones de zumos de frutas, bebidas refrescantes, jarabes y horchatas, siendo contemplados posteriormente estos productos, de una manera general y básica, por el Decreto 2484/1967, de 21 de septiembre («Boletín Oficial del Estado» de 17 a 23 de octubre de 1967), que aprueba el código alimentario español.
+
+Los avances tecnológicos y las exigencias sanitarias obligaron a una actualización de las normativas referentes a estos productos. De esta forma, los Zumos de Frutas quedaron regulados por el Real Decreto 667/1983, de 2 de marzo («Boletín Oficial del Estado» del 31); las Bebidas Refrescantes se regularon por el decreto 407/1975, de 7 de marzo («Boletín Oficial del Estado» del 12) y posteriores modificaciones, y los jarabes por el Real Decreto 380/1984, de 25 de enero («Boletín Oficial del Estado» de 27 de febrero). Procede, por lo tanto, actualizar la normativa correspondiente a las horchatas, fundamentalmente en lo referente a las horchatas de chufa, únicas horchatas con presencia comercial real, todo ello sin perjuicio de la normativa comunitaria sobre libre circulación de mercancías.
+
+El presente Real Decreto se dicta al amparo de la competencia que atribuye al Estado el artículo 40, apartados 2, 4 y 5, y de la disposición adicional segunda de la Ley 14/1986, de 25 de abril, General de Sanidad, dando cumplimiento, por otra parte, a lo dispuesto en el artículo 4.º de la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios.
+
+Por lo demás, mediante el presente Real Decreto, se otorga, de acuerdo con las exigencias requeridas por el Tribunal Constitucional, el carácter de norma básica a esta Reglamentación Técnico-Sanitaria en base, tanto a los preceptos y competencia antes señalados, como a la doctrina sentada por el propio Tribunal.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda, de Industria y Energía, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, oídos los sectores afectados, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria y, previa deliberación del Consejo de Ministros en su reunión del día 28 de octubre de 1988,
+
+## DISPONGO:
