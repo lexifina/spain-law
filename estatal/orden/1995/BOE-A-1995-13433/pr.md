@@ -1,0 +1,15 @@
+El área marina que rodea los islotes y roques situados al norte de Lanzarote, constituye, por sus condiciones excepcionales, un hábitat con abundancia de especies de peces y de otros grupos, algunas de ellas raras e incluso inexistentes en el resto del archipiélago, como se desprende de los estudios de carácter científico realizados hasta el momento en Canarias sobre reservas marinas en aguas del archipiélago.
+
+De otra parte, la necesidad de proteger los recursos pesqueros de estas aguas ha sido demandada por los profesionales del sector. Esta propuesta de actuación se plantea como la medida más adecuada para dar cumplimiento a lo estipulado en el Real Decreto 2200/1986, de 19 de septiembre, por el que se regulan las artes y modalidades de pesca en aguas del caladero Canario.
+
+En este sentido, la Dirección General de Estructuras Pesqueras de la Secretaría General de Pesca Marítima y la Dirección General de Pesca del Gobierno Canario, han alcanzado un acuerdo por el que la Reserva Marina se creará simultáneamente por ambas administraciones, cooperando en su gestión futura.
+
+Además de lo expuesto, con la creación de la Reserva Marina de interés pesquero, se pretende ampliar por fuera de aguas interiores una zona de elevado valor ecológico constituida por el parque natural de los islotes del norte de Lanzarote y de los riscos de Famara, creado por el Decreto 89/1986, de 9 de mayo, de la Presidencia del Gobierno Canario.
+
+Esta medida de protección directa de los recursos vivos litorales potencialmente explotables debe enmarcarse entre los objetivos contemplados en el Plan Sectorial de Pesca de Zonas Marinas Costeras, elaborado de acuerdo con el título I del Reglamento (CEE) 3699/93, del Consejo, de 21 de diciembre de 1993, por el que se definen los criterios y condiciones de las intervenciones comunitarias con finalidad estructural en el sector de la pesca, la acuicultura y la transformación y comercialización de sus productos.
+
+La creación de esta reserva marina responde a las conclusiones del Convenio sobre la diversidad biológica de la declaración de la conferencia de las Naciones Unidas sobre el medio ambiente y el desarrollo, hecho en Río de Janeiro el 6 de junio de 1992, en lo que se refiere a las medidas más adecuadas para conseguir un aprovechamiento sostenible de los recursos vivos.
+
+Por cuanto antecede, de acuerdo con las atribuciones del artículo 3.°, apartado g), del Real Decreto 681/1980, de 28 de marzo, sobre ordenación de la actividad pesquera nacional, lo dispuesto en el artículo 18 de la orden de 11 de mayo de 1982, por la que se regula la actividad de repoblación marítima, y en el Real Decreto 664/1991, de 26 de abril, por el que se modifica la estructura básica del Ministerio de Agricultura, Pesca y Alimentación, que confiere a este Departamento, a través de la Secretaría General de Pesca Marítima, las funciones de planificación, dirección y coordinación de la actividad relacionada con la pesca marítima y la protección del medio marino.
+
+En su virtud, a propuesta de la Secretaría General de Pesca Marítima, dispongo:
