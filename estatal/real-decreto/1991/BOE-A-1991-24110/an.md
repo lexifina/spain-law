@@ -60,7 +60,7 @@ TÍTULO DE LICENCIADO EN VETERINARIA
 | Química. Bases químicas de los procesos biológicos y de las aplicaciones médicas e industriales. Factores químicos del medio ambiente. | 2 | 2 | 4 | – Bioquímica y Biología Molecular. – Ingeniería Química. – Química Analítica. – Química Física. – Química Inorgánica. – Química Orgánica. |
 | SEGUNDO CICLO: |
 | Cría y Salud Animal. Aplicaciones genéticas a programas de mejora. Eliminación de factores letales y subletales para la resistencia a la enfermedad. | 4 | 3 | 7 | – Genética. – Producción Animal. |
-| Deontología, Medicina Legal y Legislación Veterinaria. Principios éticos que deben informar el ejercicio de la profesión veterinaria. Normas legales que regulan el comercio y utilización de animales y sus productos, así como las que afectan al ejercicio veterinario. | 2 | 1 | 3 | – Derecho Administrativo. – Filosofía del Derecho. – Filosofía Moral. – Medicina Legal y Forense. |
+| Deontología, Medicina Legal y Legislación Veterinaria. Principios éticos que deben informar el ejercicio de la profesión veterinaria. Normas legales que regulan el comercio y utilización de animales y sus productos, así como las que afectan al ejercicio veterinario. | 2 | 1 | 3 | – Derecho Administrativo. – Filosofía del Derecho. – Filosofía Moral. – Medicina Legal y Forense. – Toxicología. |
 | Enfermedades Infecciosas. Procesos provocados por virus, bacterias y hongos, comprendiendo epidemiología, clínica, diagnóstico, terapia, control y lucha. Zoonosis. | 6 | 4 | 10 | – Microbiología. – Sanidad Animal. |
 | Enfermedades Parasitarias. Protozoosis, helmintosis y artropodosis, considerando los aspectos clínicos, epidemiológicos, diagnóstico, terapia, control y lucha, y las repercusiones sobre los procesos productivos, la salud pública, zoonosis y el medio ambiente. | 4 | 3 | 7 | – Parasitología. – Sanidad Animal. |
 | Farmacología, Farmacia y Terapéutica. Principios generales de farmacocinética y farmacodinamia. Descripción fundamental de los principales grupos farmacológicos. Estudio de las formas farmacéuticas y sus aplicaciones farmacocinética. Mecanismos de acción, efectos farmacológicos y sus consecuencias terapéuticas y tóxicas. Farmacoterapia. | 5 | 3 | 8 | – Farmacia y Tecnología Farmacéutica. – Farmacología. |
@@ -81,6 +81,8 @@ TÍTULO DE LICENCIADO EN VETERINARIA
 (1) Durante un período de cinco años se entenderán asimismo incluidas en este apartado las áreas de conocimiento Patología Animal; Parasitología; Microbiología; Fisiología; y Bioquímica y Biología Molecular.
 
 (2) Teórico-práctico.
+
+> Se modifica el cuadro adjunto a la directriz tercera, en la redacción dada al art. 31.c) del Real Decreto 1561/1997, de 10 de octubre, por el art. único del Real Decreto 1561/1997, de 10 de octubre, por Real Decreto 1654/1998, de 24 de julio. Ref. BOE-A-1998-20842
 
 > Se modifica el cuadro adjunto a la directriz tercera por el art. 31 del Real Decreto 1561/1997, de 10 de octubre. Ref. BOE-A-1997-23354
 
