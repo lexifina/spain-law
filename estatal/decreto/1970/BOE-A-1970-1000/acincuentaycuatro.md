@@ -1,3 +1,5 @@
 ## Artículo cincuenta y cuatro. Hijos cuyo nacimiento da derecho a la asignación.
 
-Respecto a los hijos cuyo nacimiento da derecho a la asignación a que se refiere el apartado b) del artículo cincuenta y dos, se estará a lo dispuesto a igual efecto en el régimen general de la Seguridad Social.
+(Derogado)
+
+> Se deroga por la disposición derogatoria del Real Decreto 356/1991, de 15 de marzo. Ref. BOE-A-1991-7266.

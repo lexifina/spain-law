@@ -20,7 +20,9 @@ h) Servicios sociales en atención a contingencias y situaciones especiales.
 
 Dos. Los requisitos del derecho a las prestaciones y demás beneficios, así como su alcance y cuantía, serán los que se determinan en el presente Decreto y se dispongan en sus normas de aplicación y desarrollo.
 
-Tres. No obstante lo establecido en los números anteriores, la acción protectora que otorga este Régimen Especial podrá ser mejorada voluntariamente en materia de asistencia sanitaria y protección a la familia, en las condiciones y con los requisitos que se determinen por el Ministerio de Trabajo.
+Tres. (Derogado)
+
+> Se deroga el apartado tres por la disposición derogatoria del Real Decreto 356/1991, de 15 de marzo. Ref. BOE-A-1991-7266.
 
 > Se suprime la ayuda económica con ocasión de intervención quirúrgica por el art. único.3 del Real Decreto 43/1984, de 4 de enero. Ref. BOE-A-1984-610.
 

@@ -8,7 +8,7 @@ No será exigido período mínimo de cotización para el subsidio de defunción 
 
 b) Prestación por vejez: Ciento veinte meses de cotización, de los cuales al menos veinticuatro deberán estar comprendidos dentro de los siete años inmediatamente anteriores a la fecha en que se entienda causada la prestación.
 
-c) Prestaciones de protección a la familia: Doce meses de cotización dentro de los tres años inmediatamente anteriores a la fecha en que se entienda causada la prestación.
+c) (Derogada)
 
 d) (Suprimida)
 
@@ -31,6 +31,8 @@ Las normas establecidas en el presente número se aplicarán, para cada una de l
 Tres. A efectos de lo dispuesto en los números anteriores sólo serán computables las cotizaciones realizadas antes del día primero del mes en que se cause la prestación, por las mensualidades transcurridas hasta esa fecha y las correspondientes a dicho mes que se ingresen dentro de plazo.
 
 Igual norma se aplicará a efectos de otros beneficios cuya concesión requiera el cumplimiento de un período mínimo de cotización.
+
+> Se deroga la letra c) del apartado uno por la disposición derogatoria del Real Decreto 356/1991, de 15 de marzo. Ref. BOE-A-1991-7266.
 
 > Se suprime la ayuda económica con ocasión de intervención quirúrgica por el art. único.3 del Real Decreto 43/1984, de 4 de enero. Ref. BOE-A-1984-610.
 
