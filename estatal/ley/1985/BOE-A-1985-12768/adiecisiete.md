@@ -16,7 +16,7 @@ e) Las deficiencias en la documentación o en la comunicación de información e
 
 f) Las que por negligencia infrinjan los preceptos reglamentarios de fabricación, importación o comercialización de objetos de metales preciosos.
 
-Estas infracciones se castigarán con sanciones hasta 500.000 pesetas.
+Estas infracciones se castigarán con sanciones hasta 3.005,06 euros.
 
 3. Se considerarán infracciones graves:
 
@@ -32,7 +32,7 @@ e) La omisión de la documentación o de la comunicación de datos e informacion
 
 f) Las que con ánimo de fraude infrinjan los preceptos reglamentarios de fabricación, importación o comercialización de objetos fabricados con metales preciosos.
 
-Estas infracciones se castigarán con sanciones hasta 2.500.000 pesetas, pudiendo rebasar dicha cantidad hasta alcanzar el quíntuplo del valor de los productos objeto de la infracción.
+Estas infracciones se castigarán con sanciones hasta 15.025,3 euros, pudiendo rebasar dicha cantidad hasta alcanzar el quíntuplo del valor de los productos objeto de la infracción.
 
 4. Se considerarán infracciones muy graves:
 
@@ -46,7 +46,7 @@ d) El uso abusivo de soldaduras o su empleo como relleno.
 
 e) Las que impliquen haber prescindido sistemáticamente de los preceptos reglamentarios de fabricación, importación o comercialización de objetos de metales preciosos.
 
-Estas infracciones se castigarán con sanciones hasta 100.000.000 de pesetas, pudiendo rebasar dicha cantidad hasta alcanzar el quíntuplo del valor de los productos objeto de la infracción.
+Estas infracciones se castigarán con sanciones hasta 601.012,1 euros, pudiendo rebasar dicha cantidad hasta alcanzar el quíntuplo del valor de los productos objeto de la infracción.
 
 5. Los límites de las multas a que se refieren los números anteriores podrán ser revisados por el Gobierno teniendo en cuenta el Indice de Precios al Consumo.
 
@@ -54,6 +54,8 @@ Estas infracciones se castigarán con sanciones hasta 100.000.000 de pesetas, pu
 
 Cuando se estime necesario, o en el caso de infracciones muy graves, se podrá acordar igualmente la clausura temporal o definitiva del establecimiento responsable.
 
-7. La imposición de sanciones corresponderá a los Ministerios del Interior, de Industria y Energía y de Sanidad y Consumo en el ámbito de sus competencias y en la forma que reglamentariamente se determine, y al Consejo de Ministros cuando su importe exceda de 2.500.000 pesetas, así como, en su caso, a las Comunidades Autónomas en el ámbito de sus respectivas competencias.
+7. La imposición de sanciones corresponderá a los Ministerios del Interior, de Industria y Energía y de Sanidad y Consumo en el ámbito de sus competencias y en la forma que reglamentariamente se determine, y al Consejo de Ministros cuando su importe exceda de 15.025,3 euros, así como, en su caso, a las Comunidades Autónomas en el ámbito de sus respectivas competencias.
 
 En todo caso, corresponde al Consejo de Ministros la clausura temporal o definitiva del establecimiento responsable que podrá acordarse en el supuesto de infracciones muy graves reiteradas o que afecten de manera grave a la seguridad de las transacciones.
+
+> Se convierten a euros las cuantías por el punto primero de la Resolución de 22 de octubre de 2001. Ref. BOE-A-2001-21533
