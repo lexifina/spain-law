@@ -110,7 +110,8 @@
 | 54 | FENOXIPROPANOL | Únicamente para productos aclarados. Prohibido en los productos de higiene bucal. | 2,0% | Como agente conservador , ver el Anexo VI, 1ª parte n.º 43 |  |
 | 55 | ACETATO DE PLOMO | Únicamente como tinte para el cabello | 0,6% (expresado en plomo). |  | – Manténgase fuera del alcance de los niños. – Evítese el contacto con los ojos. – Lávense bien las manos después de su aplicación. – Contiene acetato de plomo. – No utilizar para teñir cejas, pestañas y bigote. – En caso de irritación de la piel, suspéndase el uso. |
 | 56 | FLUORURO DE MAGNESIO | Productos de higiene bucal. | 0,15% calculado en flúor. Si aparece mezclado con otros compuestos fluorados, autorizados en este Anexo, la concentración máxima de flúor sigue siendo 0,15% |  | – Contiene fluoruro de magnesio |
-| 57 | CLORURO DE ESTRONCIO (HEXAHIDRATADO) | Dentríficos. | 3,5% expresado en estroncio. En caso de mezcla con otros compuestos de estroncio autorizados por este Anexo, la concentración máxima de estroncio queda fijada en 3,5%. |  | – Contiene cloruro de estroncio. – Se desaconseja su uso en niños. |
+| 57 | Cloruro de estroncio (hexahidratado). | a) Dentífricos. | 3,5% expresado en estroncio. En caso de mezcla con otros compuestos de estroncio autorizados por este anexo, la concentración máxima de estroncio queda fijada en 3,5%. |  | – Contiene cloruro de estroncio. Se desaconseja su uso en niños. |
+|  |  | b) Champú y productos de cuidado de la cara. | 2,1% expresado en estroncio. En caso de mezcla con otros compuestos de estroncio autorizados por este anexo, la concentración máxima de estroncio queda fijada en 2,1% |  |  |
 | 58 | ACETATO DE ESTRONCIO (SEMIHIDRATADO) | Dentríficos. | 3,5% expresado en estroncio. En caso de mezcla con otros compuestos de estroncio autorizados por este Anexo, la concentración máxima de estroncio queda fijada en 3,5% |  | – Contiene acetato de estroncio. – Se desaconseja su uso en niños. |
 | 59 | TALCO: SILICATO DE MAGNESIO HIDRATADO | a) Productos pulverulentos para los niños menores de tres años. b) Otros productos |  |  | a) Mantener apartado de la nariz y la boca del niño. |
 | 60 | DIALCANOLAMIDAS DE ÁCIDOS GRASOS. |  | Contenido máximo de dialcanotamina: 0,5%. | – No emplear con agentes nitrosantes. – Contenido máximo de dialcanolamina: 5% (afecta a las materias primas). – Contenido máximo de N-nitrosodialcanolaminas: 50 ug/Kg. – Conservar en recipientes que no contengan nitritos. |  |
@@ -130,3 +131,5 @@ Se denomina «cociente relativo» a la relación entre la concentración de una 
 Se denomina «cociente relativo» a la relación entre la concentración de una sustancia y la concentración máxima permitida para esa sustancia.
 
 (4) La cantidad de hidróxido de potasio, sodio o litio se expresa en peso de hidróxido de sodio. En caso de mezclas, la suma no debería sobrepasar los límites establecidos en la columna d).
+
+> Se modifica el número 57 por el apartado 1.2 de la Orden de 26 de abril de 1999. Ref. BOE-A-1999-10150.

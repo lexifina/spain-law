@@ -77,6 +77,7 @@ LISTA DE AGENTES CONSERVADORES ADMITIDOS
 | 51 | HIDROXIMETILAMINACETATO DE SODIO (HIDROXIMETILGLICINATO DE SODIO) | 0,5% |  |  |
 | 52 | CLORURO DE PLATA DEPOSITADO SOBRE DIÓXIDO DE TITANIO | 0,004% calculado como AgCl | 20% AgCl (p/p) sobre TIO2. Prohibido en los productos para niños menores de tres años en los productos de higiene bucal y en los productos destinados a ser aplicados alrededor de los ojos o en los labios. |  |
 | 53 | Cloruro de bencetonio | 0,1% | Sólo productos para aclarado |  |
+| 54 | Cloruro, bromuro y sacarinato de benzalconio (+). | 0,1% expresado en cloruro de benzalconio. | Evitar el contacto con los ojos. |  |
 
 (1) Únicamente en los productos que podrían ser utilizados eventualmente para cuidados de niños menores de 3 años y que permanezcan en contacto prolongado con la piel.
 
@@ -89,8 +90,10 @@ LISTA DE AGENTES CONSERVADORES ADMITIDOS PROVISIONALMENTE
 | Número de orden | Sustancias | Concentración máxima autorizada | Límites y exigencias | Condiciones de empleo y advertencias que deben figurar obligatoriamente en el etiquetado | Admitido hasta |
 | --- | --- | --- | --- | --- | --- |
 | a | b | c | d | e | f |
-| 16 | ALQUIL (C8-C18) DIMETILBENCIL AMONIO, (+) (BENZALCONIO, CLORURO DE BROMURO DE, SACARINATO DE) | 0,1% |  |  | 30.6.98 |
-| 21 | BENCILHEMIFORMAL | 0,03% | Únicamente para los productos destinados a ser aclarados después de su aplicación. |  | 30.6.98 |
-| 29 | 3-IODO-2 PROPINILBUTIL CARBAMATO | 0,1% |  |  | 30.6.98 |
+| 16 (Suprimido) |  |  |  |  |  |
+| 21 | BENCILHEMIFORMAL | 0,03% | Únicamente para los productos destinados a ser aclarados después de su aplicación. |  | 30.6.99 |
+| 29 | 3-yodo-2-propinil butilcarbamato (Butilcarbamato de yodopropinilo). | 0,05% | No usar para la higiene bucal ni en productos para los labios. |  | 30.6.99 |
+
+> Se añade el número 54 en la primera parte, y de la segunda parte se suprime el número 16 y se modifican el 21 y 29 por el apartado 1.3 de la Orden de 26 de abril de 1999. Ref. BOE-A-1999-10150.
 
 > Se añade el número 53 en la primera parte y se modifican la fechas de los números 16, 21 y 29 de la segunda parte por el apartado 1.2 de la Orden de 4 de junio de 1998. Ref. BOE-A-1998-13842.

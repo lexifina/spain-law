@@ -886,11 +886,17 @@ Proceso continuo a 140 oC, 2 bar (2.000 hPa), durante ocho minutos con condicion
 
 418. Alquitranes crudos y refinados.
 
+419.1.1,3.3,5-pentametil-4,6-dinitroindano (almizcle muscado).
+
+420.5-ter-butil-1,2,3-trimetil-4,6-dinitrobenceno (almizcle tibetano).
+
 (1) Se tolerará la presencia de trazas de las sustancias comprendidas en este anexo, cuando éstas sean técnicamente inevitables como consecuencia de la aplicación de las buenas prácticas de fabricación y siempre que se cumpla el articulo cuarto de esta reglamentación.
 
 (a) El nombre de estas sustancias es el recomendado como «denominación común internacional» para las sustancias farmacéuticas publicadas por la Organización Mundial de la Salud. Ginebra 1982.
 
 (b) Se admite la presencia de sustancias radiactivas naturales procedentes de contaminaciones artificiales ambientales, a condición de que dichas sustancias radiactivas no sean enriquecidas antes de utilizarlas en la fabricación de productos cosméticos, y siempre que su concentración no supere los límites establecidos en las directivas que fijan las normas básicas relativas a la protección sanitaria de la población y de los trabajadores, frente a los peligros resultantes de las radiaciones ionizantes («Diario oficial de las Comunidades Europeas», número 11 de 20 de febrero de 1959, página 221/59).
+
+> Se añaden los números 419 y 420 por el apartado 1.2 de la Orden de 26 de abril de 1999. Ref. BOE-A-1999-10150.
 
 > Se añade el número 418, se suprime el 413 y se modifica el 417 por el apartado 1.1 de la Orden de 4 de junio de 1998. Ref. BOE-A-1998-13842.
 

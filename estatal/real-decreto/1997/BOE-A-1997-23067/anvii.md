@@ -26,6 +26,14 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER LOS PRODUCTOS COSMÉTICOS
 | 10 | ÉSTER 2-ETILHEXÍLICO DEL ÁCIDO 2-CIANO-3,3- DIFENILACRÍLICO (OCTOCRILENO) | 10% (Expresado en ácido) |  |  |
 | 11 | POLIMERO DE N-[(2 Y 4) -[(2‑ OXOBORN-3-ILIDEN)METIL] BENCIIL] ACRILAMIDA | 6% |  |  |
 | 12 | Metoxicinamato de octilo | 10% |  |  |
+| 13 | Etil-4-aminobenzoato etoxilado (PEG-25 PABA). | 10% |  |  |
+| 14 | Isopentil-4-metoxicinamato (Isoamyl p-Methoxycinnamate). | 10% |  |  |
+| 15 | 2,4,6-trianilino-p-carbo-2'-etilhexil-1'oxi)-1,3,5-triazina (Octyl Triazone). | 5% |  |  |
+| 16 | Fenol,2-(2H-benzotriazol-2-il)-4-metil-6-(2-metil-3-(1,3.3,3-tetrametil-1-(trimetilsilil)oxi)-disiloxani)propilo) (Drometrizole Trisiloxane). | 15% |  |  |
+| 17 | Benzoato de 4,4-((6-(((1,1-dimetiletil)amino)carboni)fenil)amino)1,3,5-triazina-2,4-dii)diimino)bis-,bis(2-etilhexilo). | 10% |  |  |
+| 18 | 3-(4'-Metilbencilideno)-d-1 alcanfor(4-Methylbenzylidene Camphor). | 4% |  |  |
+| 19 | 3-Bencilideno alcanfor (3-Benzylidene Camphor) | 2% |  |  |
+| 20 | Salicilato de 2-etilhexilo (octyl-salicylate). | 5% |  |  |
 
 (1) No se exigirá la mención si la concentración es igual o inferior a 0,5% y si la sustancia se utiliza sólo para proteger el producto.
 
@@ -36,15 +44,17 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER PROVISIONALMENTE LOS PRODUCTO
 | Número de orden | Sustancias | Concentración máxima autorizada | Límites y exigencias | Condiciones de empleo y advertencias que deben figurar obligatoriamente en el etiquetado | Admitido hasta |
 | --- | --- | --- | --- | --- | --- |
 | a | b | c | d | e | f |
-| 2 | ÁCIDO 4-AMINOBENZOICO ETOXILADO | 10% |  |  | 30.6.98 |
-| 5 | DIMETILAMINO-4-BENZOATO DE 2-ETILHEXILO | 8% |  |  | 30.6.98 |
-| 6 | SALICILATO DE 2-ETILHEXILO | 5% |  |  | 30.6.98 |
-| 12 | 4-METOXICINAMATO DE AMILO (MEZCLA DE ISÓMEROS) | 10% |  |  | 30.6.98 |
+| 2 (Suprimido) |  |  |  |  |  |
+| 5 | DIMETILAMINO-4-BENZOATO DE 2-ETILHEXILO | 8% |  |  | 30.6.99 |
+| 6 (Suprimido) |  |  |  |  |  |
+| 12 (Suprimido) |  |  |  |  |  |
 | 13 (Suprimido) |  |  |  |  |  |
-| 17 | SULISOBENZONA Y SULISOBENZONA SÓDICA | 5% (expresado en ácido) |  |  | 30.6.98 |
-| 25 | 3-(4-METILBENCILIDEN-2-BORNANONA) | 6% |  |  | 30.6.98 |
-| 26 | 3-BENCILIDEN-2-BORNANONA | 6% |  |  | 30.6.98 |
-| 29 | SALICITATO DE 4-ISOPROPIL BENCILO | 4% |  |  | 30.6.98 |
-| 32 | 2,4,6,-TRIANILINA-P-(CARBO-2´-ETILHEXILPOXI) 1,3, 5-TRIAZINA | 5% |  |  | 30.6.98 |
+| 17 | SULISOBENZONA Y SULISOBENZONA SÓDICA | 5% (expresado en ácido) |  |  | 30.6.99 |
+| 25 (Suprimido) |  |  |  |  |  |
+| 26 (Suprimido) |  |  |  |  |  |
+| 29 | SALICITATO DE 4-ISOPROPIL BENCILO | 4% |  |  | 30.6.99 |
+| 32 (Suprimido) |  |  |  |  |  |
+
+> Se añaden los números 13 a 20 en la primera parte, y en la segunda parte se suprimen los números 2, 6, 12, 25, 26 y 32 y se modifican las fechas del resto por el apartado 1.4 de la Orden de 26 de abril de 1999. Ref. BOE-A-1999-10150.
 
 > Se añade el número 12 en la primera parte, y en la segunda parte se suprime el número 13 y se modifican la fechas del resto de números por el apartado 1.2 de la Orden de 4 de junio de 1998. Ref. BOE-A-1998-13842.
