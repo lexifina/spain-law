@@ -1,0 +1,3 @@
+## Artículo treinta y cinco.
+
+Es de la competencia plena de la Generalidad Valenciana la regulación y administración de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, en el ámbito de sus competencias, sin perjuicio de lo dispuesto en el artículo veintisiete de la Constitución y Leyes Orgánicas que conforme al apartado uno del artículo ochenta y uno de la misma, lo desarrollen de las facultades que atribuye al Estado el número treinta del apartado uno del artículo ciento cuarenta y nueve de la Constitución y de la alta inspección necesaria para su cumplimiento y garantía.

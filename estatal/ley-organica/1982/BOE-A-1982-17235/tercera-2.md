@@ -1,0 +1,5 @@
+## Disposición transitoria tercera.
+
+Uno. En el plazo de treinta días desde la promulgación del presente Estatuto, los parlamentarios elegidos en las elecciones generales de mil novecientos setenta y nueve, más otros tantos miembros designados por los partidos políticos por los que fueron presentados en la misma proporción, se constituirán en una Asamblea que desempeñará, en cuanto sean aplicables, las funciones atribuidas por el presente Estatuto a las Cortes Valencianas, de forma transitoria, hasta las primeras elecciones a las mismas. Las consecuencias jurídicas del control político del ejecutivo serán adoptadas por mayoría cualificada de dos tercios.
+
+Dos. Durante el período transitorio mencionado en el apartado anterior, el «Consell» estará compuesto por doce miembros, de los cuales nueve serán designados por los partidos políticos con representación parlamentaria en el territorio de la Comunidad, en proporción al número de parlamentarios obtenidos por cada uno de ellos en las elecciones generales de mil novecientos setenta y nueve. Los tres restantes se designarán uno por cada una de las tres Diputaciones Provinciales, de entre sus miembros.
