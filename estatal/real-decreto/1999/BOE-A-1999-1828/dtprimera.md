@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Elección de los miembros del Consejo Interautonómico.
+
+Hasta la definitiva adaptación de la organización colegial al modelo territorial derivado de la Constitución Española, y cuando dicha organización colegial en una Comunidad Autónoma así lo haga necesario, el representante en el Consejo Interautonómico de las Comunidades Autónomas que no tengan Colegio Oficial, será el que se elija por todas las Juntas Provinciales pertenecientes a tal Comunidad Autónoma, otorgándose prioridad, en caso de empate y a falta de disposiciones de mayor rango al respecto, al de mayor antigüedad en el cargo o como colegiado, por este orden.
