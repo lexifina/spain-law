@@ -1,0 +1,5 @@
+## Art. 87.
+
+La negativa de los españoles y extranjeros que vivan en territorio español a cumplimentar las hojas de inscripción padronal, la falta de firma en éstas, las omisiones o falsedades producidas en las expresadas hojas o en las solicitudes de inscripción, así como el incumplimiento de las demás obligaciones dimanantes de los preceptos anteriores en relación con el empadronamiento, serán sancionadas por el Alcalde conforme al artículo 59 del Real Decreto legislativo 781/1986, de 18 de abril, sin perjuicio de cualquier otra clase de responsabilidad a que hubiera lugar.
+
+Los padres de los menores de edad o incapacitados, o sus tutores o, en su caso, los residentes mayores de edad con los que habiten, responderán del incumplimiento de las obligaciones indicadas y de las omisiones y falsedades producidas en las hojas de inscripción o en las solicitudes en relación con estos menores.
