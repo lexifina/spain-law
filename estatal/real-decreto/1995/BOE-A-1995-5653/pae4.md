@@ -134,6 +134,10 @@ e) La pureza se describirá en relación con la cantidad total de impurezas prev
 
 f) Cualquier precaución que pueda ser necesaria durante el almacenamiento del material de partida y, en su caso, su período de validez.
 
+C bis. Medidas específicas relativas a la prevención de las encefalopatías espongiformes animales.
+
+El solicitante debe demostrar que el medicamento ha sido fabricado de acuerdo con la nota explicativa sobre cómo minimizar los riesgos de transmisión de los agentes de encefalopatía espongiforme animal a través de los medicamentos veterinarios, y sus actualizaciones, publicada por la Comisión Europea en el volumen 7 de su publicación "Normas sobre medicamentos de la Unión Europea".
+
 D) Pruebas de control efectuadas durante la producción.
 
 1. Los datos y documentos que se adjunten a una solicitud de autorización de puesta en el mercado con arreglo a los puntos 9 y 10 del artículo 15, incluirán en particular, datos relativos a las pruebas de control que se realicen con los productos intermedios, a fin de comprobar la constancia del proceso de producción y del producto final.
@@ -203,3 +207,5 @@ Las conclusiones incluirán los resultados de los análisis y justificarán el p
 Cuando se trate de premezclas para piensos medicamentosos, también se incluirá la información necesaria sobre el período de validez del producto en las diferentes fases de mezcla, cuando se mezcle con arreglo a las instrucciones de uso recomendadas.
 
 Si un producto terminado tiene que reconstituirse previamente a su administración, deberán indicarse los pormenores relativos a los períodos de validez propuestos para el producto reconstituido según las instrucciones de uso. Deberán presentarse datos que justifiquen el período de validez propuesto para el producto reconstituido.
+
+> Se añade el apartado C bis por el art. único.2 de la Orden de 1 de agosto de 2000. Ref. BOE-A-2000-14779.

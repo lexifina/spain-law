@@ -146,6 +146,10 @@ La descripción del material de partida comprenderá la estrategia de producció
 
 Cuando sea inevitable la presencia de agentes adventicios potencialmente patógenos, solamente se utilizará el material si el tratamiento posterior garantiza la eliminación o inactivación de dichos agentes, extremo que deberá validarse.
 
+C bis. Medidas específicas relativas a la prevención de las encefalopatías espongiformes animales.
+
+El solicitante debe demostrar que el medicamento ha sido fabricado de acuerdo con la nota explicativa sobre cómo minimizar los riesgos de transmisión de los agentes de encefalopatía espongiforme animal a través de los medicamentos veterinarios, y sus actualizaciones, publicada por la Comisión Europea en el volumen 7 de su publicación "Normas sobre medicamentos de la Unión Europea".
+
 D. Pruebas de control efectuadas en una fase intermedia del proceso de fabricación.
 
 Entre los datos y documentos que se adjunten a la solicitud de autorización de puesta en el mercado en cumplimiento de lo dispuesto en los apartados 9 y 10 del artículo 15, deberán incluirse aquellos que se refieran a los controles que hayan podido efectuarse con productos que se hallen en una fase intermedia del proceso de fabricación, con objeto de garantizar la constancia de las características tecnológicas y del proceso de fabricación.
@@ -217,3 +221,5 @@ Las conclusiones deberán incluir los resultados de los análisis, justificando 
 Deberá indicarse el nivel máximo aceptable de los productos de degradación al final del período de validez.
 
 Se presentará un estudio sobre la interacción del producto y del recipiente en los casos en que dicha interacción sea posible, especialmente cuando se trate de preparados inyectables o de aerosoles para uso interno.
+
+> Se añade el apartado C bis por el art. único. 1 de la Orden 1 de agosto de 2000. Ref. BOE-A-2000-14779.
