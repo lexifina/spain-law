@@ -1,0 +1,3 @@
+## Disposición adicional única. Carácter de norma básica.
+
+El presente Real Decreto es de aplicación en todo el territorio nacional, teniendo el carácter de norma básica sanitaria, de acuerdo con las competencias atribuidas al Estado en el artículo 149.1.16.ª de la Constitución y en el artículo 40.2 de la Ley 14/1986, de 25 de abril, General de Sanidad, salvo lo dispuesto en el artículo 23 y en el capítulo VI del presente Real Decreto, que se dicta en base a la competencia exclusiva que en materia de sanidad y comercio exterior atribuye al Estado el artículo 149.1.10.ª y 16.ª de la Constitución y el artículo 38 de la Ley 14/1986, General de Sanidad.

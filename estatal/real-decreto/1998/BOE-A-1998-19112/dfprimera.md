@@ -1,0 +1,7 @@
+## Disposición final primera. Facultad de desarrollo y actualización de la Comisión Nacional.
+
+1. Los Ministros de Agricultura, Pesca y Alimentación y de Sanidad y Consumo podrán dictar, en el ámbito de sus competencias, las disposiciones necesarias para el desarrollo de lo establecido en el presente Real Decreto y para la actualización de los anexos.
+
+2. Por el Ministerio de Agricultura, Pesca y Alimentación, previos los estudios oportunos, en el más breve plazo posible y en todo caso antes del 1 de abril de 1999, se adoptarán las medidas de coordinación, en colaboración con las Comunidades Autónomas, para la más eficaz y homogénea realización de los controles a que se refiere el apartado 3 del artículo 7.Todo ello, sin perjuicio de lo dispuesto en el apartado 11 del artículo 82 del Real Decreto 109/1995, de 27 de enero, sobre Medicamentos Veterinarios.
+
+3. Las modificaciones en las funciones y la composición de la Comisión Nacional prevista en el artículo 4 de este Real Decreto se llevarán a cabo mediante Orden conjunta de los Ministros de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, previa aprobación del Ministro de Administraciones Públicas, de acuerdo con lo previsto en el artículo 40 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, siempre que dicha Comisión mantenga su naturaleza de órgano colegiado interministerial y el rango de su presidencia.
