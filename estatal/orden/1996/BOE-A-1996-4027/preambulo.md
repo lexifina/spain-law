@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 72, de 23 de marzo de 1996. Ref. BOE-A-1996-6642.
+Norma derogada en lo que se refiere a los modelos de certificación de las guardias, con efectos económicos a partir del día 28 de abril de 2003, por la disposición derogatoria única de la Orden PRE/1416/2003, de 3 de junio. Ref. BOE-A-2003-11159#ddunica. y por la disposición derogatoria única de la Orden PRE/1417/2003, de 3 de junio. Ref. BOE-A-2003-11160#ddunica.
