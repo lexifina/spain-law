@@ -180,9 +180,9 @@
 |  | VI. CICATRICES NO INCLUIDAS EN LOS EPÍGRAFES ANTERIORES |  |  |
 | 110. | Según las características de las mismas y, en su caso, las perturbaciones funcionales que produzcan | 7.500 a 30.000 |
 
-> Véase el art. único de la Orden de 16 de enero de 1991. Ref. BOE-A-1991-1400.,en cuanto que actualiza las cuantías de las indemnizaciones
-
 > Se modifican los números 11, 14 y 15 por el art. único de la Orden de 5 de abril de 1974.Ref. BOE-A-1974-641., en la redacción dada por el art. único de la Orden de 11 de mayo de 1988. Ref. BOE-A-1988-13686.
+
+> Téngase en cuenta la Orden de 9 de marzo de 1990. Ref. BOE-A-1990-6960., en cuanto a la aplicación retroactiva de las previsiones contenidas en la Orden de 11 de mayo de 1988.
 
 > Se modifica por el art. único de la Orden de 5 de abril de 1974. Ref. BOE-A-1974-641.
 
