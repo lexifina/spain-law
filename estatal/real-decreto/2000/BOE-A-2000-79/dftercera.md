@@ -1,0 +1,3 @@
+## Disposición final tercera. Actualizaciones de los protocolos de diagnóstico y certificación de la muerte para la extracción de órganos en donantes fallecidos.
+
+El Ministerio de Sanidad y Consumo actualizará los protocolos de diagnóstico y certificación de la muerte para la extracción de órganos de donantes fallecidos recogidos en el anexo I del presente Real Decreto, según el avance de los conocimientos científico-técnicos en la materia, previo dictamen de la Comisión Permanente de Trasplantes del Consejo Interterritorial del Sistema Nacional de Salud. Estas actualizaciones serán objeto de promulgación y publicación en el «Boletín Oficial del Estado».

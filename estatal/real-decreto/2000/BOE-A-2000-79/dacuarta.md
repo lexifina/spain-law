@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Evaluación y acreditación de centros y servicios.
+
+En el desarrollo de lo previsto en el artículo 19 del presente Real Decreto y en el ejercicio de las competencias establecidas en el artículo 70.2.d) de la Ley 14/1986, General de Sanidad, la Organización Nacional de Trasplantes –previo acuerdo de la Comisión Permanente de Trasplantes del Consejo Interterritorial–, y a demanda de las diferentes Administraciones sanitarias de las Comunidades Autónomas y Servicios de Salud, podrá actuar como entidad técnica para la evaluación y acreditación de los centros y servicios autorizados al amparo de lo establecido en el presente Real Decreto.

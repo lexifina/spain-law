@@ -1,0 +1,3 @@
+## Disposición transitoria única. Pervivencia de la autorización para los centros de extracción y trasplante de órganos humanos.
+
+Los centros que tuvieran concedida la autorización para las modalidades actualmente existentes de desarrollo de extracción y trasplante de órganos humanos no precisarán nueva autorización, según las normas que contiene el presente Real Decreto, hasta que finalice el período de vigencia de su autorización actual. En cualquier caso, a instancia del centro o por orden de la Comunidad Autónoma, podrá aplicarse de forma inmediata el procedimiento de autorización que en el presente texto se regula.
