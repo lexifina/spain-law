@@ -463,6 +463,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 332](a332.md)
 - [Sección vigésima quinta](svigesimaquinta.md)
 - [Artículo 333](a333.md)
+- [Artículo 333 bis](a333bis.md)
 - [TÍTULO NOVENO](tnoveno.md)
 - [CAPÍTULO I](ci.md)
 - [Artículo 334](a334.md)
