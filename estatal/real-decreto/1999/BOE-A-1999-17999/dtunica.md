@@ -1,0 +1,3 @@
+## Disposición transitoria única. Permanencia de activos en metálico hasta la aprobación del Plan de Prestación del Servicio Postal Universal.
+
+En tanto no haya sido aprobado el Plan de Prestación del Servicio Postal Universal al que se refiere el artículo 20 de la Ley 24/1998, de 13 de julio, que recogerá los correspondientes criterios de financiación de dicho Servicio Postal Universal, las cantidades ingresadas en la cuenta a la que se refiere el artículo 23 de este Real Decreto permanecerán en ella depositadas, procediéndose al libramiento de las mismas una vez que los criterios de financiación establecidos en el Plan sean de aplicación.
