@@ -8,6 +8,8 @@ Una ley de la Comunidad regulará el procedimiento de elección.
 
 3. Serán electores y elegibles los ciudadanos que, teniendo la condición política de extremeños, estén en pleno uso de sus derechos políticos.
 
-4. Las Elecciones serán convocadas por el Presidente de la Junta de Extremadura, de manera que coincidan con las consultas electorales de otras Comunidades Autónomas, y tendrán lugar entre los treinta y sesenta días desde la terminación del mandato.
+4. Las elecciones serán convocadas por el Presidente de la Junta de Extremadura en los términos previstos en la Ley que regula el Régimen Electoral General, de manera que se realicen en cuarto domingo de mayo cada cuatro años.
 
 5. La Asamblea electa será convocada por el Presidente de la Junta cesante dentro de los quince días siguientes a la celebración de las elecciones.
+
+> Se modifica el apartado 4 por el art. único de la Ley Orgánica 5/1991, de 13 de marzo. Ref. BOE-A-1991-6821
