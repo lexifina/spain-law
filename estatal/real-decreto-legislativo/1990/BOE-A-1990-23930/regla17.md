@@ -90,19 +90,33 @@ Tres. Exacción y distribución de cuotas nacionales.
 
 2. El importe de las cuotas nacionales se distribuirá entre todos los municipios y las Diputaciones Provinciales de territorio común en los términos siguientes:
 
-A) De dicho importe el 80 por 100 corresponderá a los municipios y el 20 por 100 restante a las Diputaciones Provinciales.
+A) De dicho importe, excluido el correspondiente a las cuotas de los servicios de telefonía móvil, el 80 por 100 corresponderá a los municipios y el 20 por 100 restante a las Diputaciones Provinciales.
 
-B) El 20 por 100 de la recaudación a que se refiere el apartado anterior, se distribuirá entre las Diputaciones Provinciales con arreglo a los criterios siguientes:
+B) El 20 por 100 de la recaudación a que se refiere el apartado anterior se distribuirá entre las Diputaciones Provinciales con arreglo a los criterios siguientes:
 
-a) Una tercera parte en función de la población de derecho de la provincia, entendida ésta como la suma de la población de derecho de todos los municipios integrados en la demarcación provincial, según la definición a que se refiere la letra a) de la letra B) del apartado dos.2 anterior.
+a) Una tercera parte en función de la población de derecho de la provincia, entendida ésta como la suma de la población de derecho de todos los municipios integrados en la demarcación provincial, según la definición a que se refiere el párrafo a) de la letra B) del apartado dos.2 anterior.
 
 b) Una tercera parte en función del número de sujetos pasivos por cuota municipal resultante de la suma de todos los que consten en las matrículas de los municipios de la provincia correspondientes al año de que se trate.
 
-c) Una tercera parte en función del importe total de las cuotas de tarifa municipales consignadas en las matrículas de los municipios de la provincia correspondientes al año de que se trate. Por consiguiente, no se computará el importe que, en su caso, resultase por aplicación del coeficiente único, del índice de situación o del recargo provincial, regulados, respectivamente, en los artículos 88, 89 y 124 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.
+c) Una tercera parte en función del importe total de las cuotas de tarifa municipales consignadas en las matrículas de los municipios de la provincia correspondientes al año de que se trate. Por consiguiente, no se computará el importe que, en su caso, resulte de aplicar el coeficiente o el recargo provincial, regulados, respectivamente, en los artículos 88 y 124 de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales.
 
-C) El 80 por 100 de la recaudación a que se refiere la letra B) anterior de este apartado tres.2 se distribuirá entre los municipios con arreglo a los mismos criterios y términos que los establecidos en las letras a), b) y c) de la letra B) del apartado dos.2 anterior de esta regla.
+C) El 80 por 100 de la recaudación a que se refiere la letra A) anterior de este apartado tres.2 se distribuirá entre los municipios con arreglo a los mismos criterios y términos que los establecidos en los párrafos a), b) y c) de la letra B) del apartado dos.2 anterior de esta regla.
 
-D) La distribución de cuotas a que se refiere este apartado tres se realizará por acuerdo del Director general de Coordinación con las Haciendas Territoriales del Ministerio de Economía y Hacienda, en los plazos y términos previstos en la letra C) del apartado dos.2 anterior de esta regla.
+D) Las cuotas correspondientes a los servicios de telefonía móvil se distribuirán con arreglo a los siguientes criterios:
+
+a) El 20 por 100 de la recaudación se distribuirá entre las Diputaciones Provinciales con arreglo a los criterios siguientes:
+
+La parte de cuota nacional correspondiente al elemento tributario antenas, en función del número de éstas con potencia radiada aparente superior a 10 vatios (PAR > 10 w) instaladas en los municipios integrados en cada demarcación provincial y que cuenten con la licencia municipal correspondiente.
+
+La parte de cuota nacional correspondiente al elemento tributario abonados, en función de la población de derecho de la provincia, entendida ésta como la suma de la población de derecho de todos los municipios integrados en la demarcación provincial, según la definición a que se refiere el párrafo a) de la letra B) del apartado dos.2 anterior.
+
+b) El 80 por 100 restante se distribuirá entre los municipios con arreglo a los siguientes criterios:
+
+La parte de cuota nacional correspondiente al elemento tributario antenas, en función del número de éstas con potencia radiada aparente superior a 10 vatios (PAR > 10 w) instaladas en los respectivos términos municipales y que cuenten con la licencia municipal correspondiente.
+
+La parte de cuota nacional correspondiente al elemento tributario abonados, en función de la población de derecho del municipio, entendida ésta en los términos señalados en la regla 14.1.D) de la presente Instrucción.
+
+E) La distribución de cuotas a que se refiere este apartado tres se realizará por acuerdo del Director general de Fondos Comunitarios y Financiación Territorial del Ministerio de Hacienda, en los plazos y términos previstos en la letra C) del apartado dos.2 anterior de esta regla.
 
 Cuatro. Rectificación de distribuciones realizadas y devolución de ingresos indebidos.
 
@@ -124,11 +138,11 @@ Cinco. Entidades asimiladas a las Diputaciones Provinciales.
 
 Seis. Fundamentación de los acuerdos de distribución de cuotas provinciales.
 
-Los acuerdos de distribución de cuotas que adopten los Delegados provinciales de la Agencia Estatal de Administración Tributaria, con arreglo a lo dispuesto en la letra C) del apartado dos.2 de esta regla, deberán fundarse en la información que suministre, a tal fin, la Dirección General de Coordinación con las Haciendas Territoriales del Ministerio de Economía y Hacienda.
+Los acuerdos de distribución de cuotas que adopten los Delegados provinciales de la Agencia Estatal de Administración Tributaria, con arreglo a lo dispuesto en la letra C) del apartado dos.2 de esta regla, deberán fundarse en la información que suministre, a tal fin, la Dirección General de Fondos Comunitarios y Financiación Territorial del Ministerio de Hacienda.
 
 Siete. Ejecución de los acuerdos de distribución de cuotas.
 
-Los acuerdos de distribución de cuotas provinciales y nacionales, a que se refieren los apartados dos.2 y tres.2 de esta regla, una vez adoptados en los plazos señalados en dichos preceptos, serán ejecutados por la Dirección General de Coordinación con las Haciendas Territoriales.
+Los acuerdos de distribución de cuotas provinciales y nacionales, a que se refieren los apartados dos.2 y tres.2 de esta regla, una vez adoptados en los plazos señalados en dichos preceptos, serán ejecutados por la Dirección General de Fondos Comunitarios y Financiación Territorial.
 
 Ocho. Ambito de aplicación.
 
@@ -141,6 +155,8 @@ b) Las cuotas provinciales correspondientes a actividades que se ejerzan en prov
 c) Las cuotas nacionales correspondientes a sujetos pasivos que tengan su domicilio fiscal en territorio común.
 
 2. La presente regla se aplicará sin perjuicio de los regímenes fiscales especiales vigentes en los territorios forales del País Vasco y Navarra.
+
+> Se modifican los apartados 3, 6 y 7 por la disposición adicional 4.h) e i) de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
 
 > Se modifica por el art. 67.2.1.2 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
 

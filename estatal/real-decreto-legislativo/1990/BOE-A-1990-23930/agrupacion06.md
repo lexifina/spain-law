@@ -10,9 +10,11 @@ Cuota de 9 pesetas por colmena. (0,054091 euro)
 
 ## Grupo 069. Otras explotaciones ganaderas.
 
-Cuota de: Por cada obrero, 9.522 pesetas. (57,23 euros)
+Cuota de 66,95 euros.
 
-Nota: Este grupo comprende las explotaciones ganaderas no especificadas en esta división, tales como las explotaciones de sericultura, cría de animales para peletería, cría de caza en cautividad, cría de animales de laboratorio, caracoles, etc.
+Nota: este grupo comprende las explotaciones ganaderas no especificadas en esta división, tales como las de sericultura, cría de animales para peletería, cría de caza en cautividad, cría de animales de laboratorio, caracoles, etc.
+
+> Se modifica el grupo 069 por la disposición adicional 4.b) de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
