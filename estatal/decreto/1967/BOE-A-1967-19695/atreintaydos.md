@@ -10,4 +10,6 @@ a) El nocturno, desde las diecisiete horas de cada día hasta las nueve horas de
 
 b) El diurno en domingo y días festivos, desde las nueve hasta las diecisiete horas.
 
+> Se deroga en el ámbito de gestión del Instituto Nacional de Salud no transferido a las Comunidades Autónomas y queda demorada su eficacia, según establece la disposición derogatoria 2.2 del Real Decreto 571/1990, de 27 de abril. Ref. BOE-A-1990-10500.
+
 > Redactado conforme a la corrección de errores publicada en BOE núm. 20 de 23 de enero de 1968. Ref. BOE-A-1968-31355.

@@ -8,4 +8,8 @@ Tres. En los supuestos a que se refiere el número dos del artículo cuarenta y 
 
 Cuatro. Excepcionalmente, cuando se considere necesario en base a las necesidades de la asistencia, se podrá contratar Especialistas en una determinada unidad asistencial con independencia del número de plazas de Médicos generales o de los cupos existentes en la misma, en cuyo caso dichos Especialistas no cubrirán plaza.
 
+> Téngase en cuenta que se deroga en el ámbito de gestión del Instituto Nacional de Salud no transferido a las Comunidades Autónomas y queda demorada la eficacia de esta derogación al establecimiento efectivo de la estructura orgánica prevista en el Real Decreto 571/1990, de 27 de abril y a la aprobación del Reglamento General para el Sector Sanitario, según establece la disposición derogatoria 2.2 del citado Real Decreto Ref. BOE-A-1990-10500.
+
+> Se deroga en el ámbito de gestión del Instituto Nacional de Salud no transferido a las Comunidades Autónomas y queda demorada su eficacia, según establece la disposición derogatoria 2.2 del Real Decreto 571/1990, de 27 de abril. Ref. BOE-A-1990-10500.
+
 > Se modifica el apartado 3 por el art. único.6 del Decreto 1872/1971, de 23 de julio. Ref. BOE-A-1971-980.

@@ -10,4 +10,6 @@ Cuatro. En el Estatuto Jurídico del Personal Médico de la Seguridad Social se 
 
 Cinco. Los cometidos y actuación del personal que integre las Instituciones o Servicios jerarquizados quedarán definidos por las exigencias de la ordenación funcional de la asistencia.
 
+> Se deroga en el ámbito de gestión del Instituto Nacional de Salud no transferido a las Comunidades Autónomas por la disposición derogatoria 2.1 del Real Decreto 571/1990, de 27 de abril. Ref. BOE-A-1990-10500.
+
 > Se modifica por el art. único.1 del Decreto 1872/1971, de 23 de julio. Ref. BOE-A-1971-980.

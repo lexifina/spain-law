@@ -8,4 +8,8 @@ Tres. Las plazas de Especialistas de Pediatría-Puericultura de Familia se deter
 
 Cuatro. Las plazas de la especialidad de Tocología se determinarán en función del número de documentos maternales otorgados en las localidades en que dichos Tocólogos actúan. El documento maternal será otorgado en el momento en que se haga el diagnóstico de embarazo.
 
+> Téngase en cuenta que se deroga en el ámbito de gestión del Instituto Nacional de Salud no transferido a las Comunidades Autónomas y queda demorada la eficacia de esta derogación al establecimiento efectivo de la estructura orgánica prevista en el Real Decreto 571/1990, de 27 de abril y a la aprobación del Reglamento General para el Sector Sanitario, según establece la disposición derogatoria 2.2 del citado Real Decreto Ref. BOE-A-1990-10500.
+
+> Se deroga en el ámbito de gestión del Instituto Nacional de Salud no transferido a las Comunidades Autónomas y queda demorada su eficacia, según establece la disposición derogatoria 2.2 del Real Decreto 571/1990, de 27 de abril. Ref. BOE-A-1990-10500.
+
 > Se modifica el apartado 1, se renumeran los apartados 2 y 3 como 3 y 4 y se añade el apartado 2 por el art. único.5 del Decreto 1872/1971, de 23 de julio. Ref. BOE-A-1971-980.

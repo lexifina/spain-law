@@ -8,6 +8,8 @@ Tres. Las peticiones de asistencia a domicilio recibidas en el lugar designado a
 
 Cuatro. El número y frecuencia de las sucesivas visitas domiciliarias serán determinadas discrecionalmente por el facultativo, teniendo en cuenta el estado del enfermo, en orden a la normal y eficaz asistencia.
 
+> Se deroga en el ámbito de gestión del Instituto Nacional de Salud no transferido a las Comunidades Autónomas y queda demorada su eficacia, según establece la disposición derogatoria 2.2 del Real Decreto 571/1990, de 27 de abril. Ref. BOE-A-1990-10500.
+
 > Se modifica el apartado 1 por el art. único.2 del Decreto 1872/1971, de 23 de julio. Ref. BOE-A-1971-980.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 20 de 23 de enero de 1968. Ref. BOE-A-1968-31355.

@@ -8,4 +8,8 @@ Tres. Igualmente, cuando una o varias partes de un término municipal se diferen
 
 Cuatro. En los supuestos excepcionales que establecen los números dos y tres de este articulo, será preceptivo el informe de la Dirección General de Sanidad y de la Organización Medica Colegial.
 
+> Téngase en cuenta que se deroga en el ámbito de gestión del Instituto Nacional de Salud no transferido a las Comunidades Autónomas y queda demorada la eficacia de esta derogación al establecimiento efectivo de la estructura orgánica prevista en el Real Decreto 571/1990, de 27 de abril y a la aprobación del Reglamento General para el Sector Sanitario, según establece la disposición derogatoria 2.2 del citado Real Decreto Ref. BOE-A-1990-10500.
+
+> Se deroga en el ámbito de gestión del Instituto Nacional de Salud no transferido a las Comunidades Autónomas y queda demorada su eficacia, según establece la disposición derogatoria 2.2 del Real Decreto 571/1990, de 27 de abril. Ref. BOE-A-1990-10500.
+
 > Redactado conforme a la corrección de errores publicada en BOE núm. 20 de 23 de enero de 1968. Ref. BOE-A-1968-31355.
