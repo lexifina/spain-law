@@ -1,3 +1,5 @@
 ## Segunda.
 
-Igualmente los auxilios de defunción de 25.000 pesetas, se harán efectivos para los fallecimientos que se produzcan con posterioridad a la publicación de este Reglamento.
+(Derogada)
+
+> Se deroga por la disposición final derogatoria del Decreto de 29 de abril de 1955. Ref. BOE-A-1955-7722.

@@ -1,3 +1,5 @@
 ## Primera.
 
-Las nuevas pensiones de jubilación establecidas en este Reglamento se aplicarán solamente a los Notarios que se jubilen a partir de la publicación del mismo.
+(Derogada)
+
+> Se deroga por la disposición final derogatoria del Decreto de 29 de abril de 1955. Ref. BOE-A-1955-7722.

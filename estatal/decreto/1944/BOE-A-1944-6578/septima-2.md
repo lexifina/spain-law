@@ -1,3 +1,5 @@
 ## Séptima.
 
-No podrán constituirse en lo sucesivo Mutualidades especiales en los Colegios Notariales, ni dedicar a las finalidades de congrua personal, jubilación o pensiones y auxilios a viudas y huérfanos cantidades que integren el fondo general de los mismos.
+(Derogada)
+
+> Se deroga por la disposición final derogatoria del Decreto de 29 de abril de 1955. Ref. BOE-A-1955-7722.

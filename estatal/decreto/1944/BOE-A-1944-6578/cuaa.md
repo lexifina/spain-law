@@ -1,3 +1,5 @@
 ## Cuarta.
 
-Las disposiciones sobre congrua se aplicarán para la liquidación de las que se devenguen durante el año 1944.
+(Derogada)
+
+> Se deroga por la disposición final derogatoria del Decreto de 29 de abril de 1955. Ref. BOE-A-1955-7722.
