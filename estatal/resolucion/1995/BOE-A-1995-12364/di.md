@@ -1,4 +1,4 @@
-## [Puntos]
+## DIRECTRIZ BÁSICA DE PLANIFICACIÓN DE PROTECCIÓN CIVIL ANTE EL RIESGO SÍSMICO
 
 1. Fundamentos y objeto de la directriz básica
 
@@ -22,25 +22,33 @@ Se considerarán áreas de peligrosidad sísmica aquellas zonas que a lo largo d
 
 A los efectos de planificación a nivel de Comunidad Autónoma previstos en la presente directriz se incluirán, en todo caso, aquellas áreas donde son previsibles sismos de intensidad igual o superior a los de grado VI, delimitadas por la correspondiente isosista del mapa de Peligrosidad Sísmica en España para un período de retorno de 500 años, del Instituto Geográfico Nacional, que se incluye en el anexo I de esta Directriz.
 
-En este ámbito geográfico se encuentran comprendidas, en todo o en parte de su territorio, las siguientes provincias, de las Comunidades Autónomas que se relacionan a continuación:
+En este ámbito geográfico se encuentran comprendidas, en todo o en parte de su territorio, las siguientes provincias de las comunidades autónomas que se relacionan a continuación:
 
-Andalucía: Provincias de Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga y Sevilla.
+Andalucía: provincias de Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga y Sevilla.
 
-Aragón: Provincias de Huesca y Zaragoza.
+Aragón: provincias de Huesca y Zaragoza.
 
-Castilla-La Mancha: Provincia de Albacete.
+Canarias: provincias de Santa Cruz de Tenerife y Las Palmas.
 
-Cataluña: Provincias de Barcelona, Girona, Lleida y Tarragona.
+Castilla-La Mancha: provincia de Albacete
 
-Extremadura: Provincias de Badajoz y Cáceres.
+Cataluña: provincias de Barcelona, Girona, Lleida y Tarragona.
 
-Murcia.
+Extremadura: provincias de Badajoz y Cáceres.
+
+Galicia: provincias de A Coruña, Lugo, Ourense y Pontevedra.
+
+Illes Balears.
+
+Región de Murcia.
 
 Navarra.
 
-Valencia: Provincias de Alicante y Valencia.
+País Vasco: provincias de Álava y Guipúzcoa.
 
-En dicho ámbito se encuentran también incluidas Ceuta y Melilla.
+Comunidad Valenciana: provincias de Alicante/Alacant y Valencia/València.
+
+En dicho ámbito se encuentran también incluidas las Ciudades de Ceuta y Melilla.
 
 La planificación a nivel local comprenderá los términos municipales que, incluidos en las Comunidades Autónomas y provincias anteriormente señaladas, sean establecidos por los órganos competentes de las correspondientes Comunidades Autónomas, en función de criterios técnicos de peligrosidad sísmica y, en todo caso, los incluidos en el anexo II de la presente Directriz, en los cuales son previsibles sismos de intensidad igual o superior a VII, para un período de retorno de 500 años, según el mapa de Peligrosidad Sísmica en España del Instituto Geográfico Nacional.
 
@@ -52,7 +60,7 @@ Para la estimación de la peligrosidad sísmica en un área determinada del terr
 
 Para la estimación de la vulnerabilidad se realizarán estudios que comprenderán las construcciones cuya destrucción, con probabilidad razonable, pueda ocasionar víctimas, interrumpir un servicio imprescindible para la comunidad o aumentar los daños por efectos catastróficos asociados.
 
-Como parte de dichos estudios, cuando afecten a áreas donde sean previsibles sismos de intensidad igual o superior a VII, con período de retorno de 500 años, se confeccionará un catálogo de los elementos en riesgo ubicados en aquéllas. En este catálogo se incluirán las construcciones que sean consideradas de especial importancia, de acuerdo con la clasificación establecida en el apartado 1.2.2 de la Norma de Construcción Sismorresistente (NCSE-94), aprobada por el Real Decreto 2543/1994, de 29 de diciembre.
+Como parte de dichos estudios, cuando afecten a áreas donde sean previsibles sismos de intensidad igual o superior a VII, con período de retorno de 500 años, se confeccionará un catálogo de los elementos en riesgo ubicados en aquellas. En este catálogo se incluirán las construcciones que sean consideradas de especial importancia, de acuerdo con la clasificación establecida en la norma de construcción sismorresistente que se halle en vigor.
 
 Tomando como fundamento las estimaciones de peligrosidad sísmica y de vulnerabilidad, se obtendrá el mapa de riesgos del territorio considerado, donde se estimarán las posibles víctimas, edificaciones dañadas y destruidas, daños en la infraestructura viaria y redes de abastecimiento, grados de afectación de instalaciones y servicios imprescindibles para la atención de la emergencia, así como posibles daños en edificaciones, industrias e infraestructuras, capaces de dar lugar a peligros asociados.
 
@@ -381,3 +389,5 @@ En esta base de datos no podrán figurar medios o recursos de las Fuerzas Armada
 Los planes de actuación de ámbito local se aprobarán por los órganos competentes de las respectivas corporaciones y serán homologados por la Comisión de Protección Civil de la Comunidad Autónoma que corresponda.
 
 3.4.5 Aprobación de los planes de Comunidades Autónomas.—El plan de Protección Civil de Comunidad Autónoma ante el riesgo sísmico será aprobado por el órgano competente de la Comunidad Autónoma, previo informe de la correspondiente Comisión de Protección Civil de Comunidad Autónoma y homologado por la Comisión Nacional de Protección Civil.
+
+> Se modifican el tercer párrafo del punto 2.1 y el cuarto párrafo del 2.2, por los apartados 1 y 2 de la Resolución de 17 de septiembre de 2004. Ref. BOE-A-2004-17005.
