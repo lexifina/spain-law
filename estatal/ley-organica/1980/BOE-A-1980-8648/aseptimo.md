@@ -1,19 +1,25 @@
 ## Artículo séptimo.
 
-Los Consejeros permanentes, en número igual al de las Secciones del Consejo, son nombrados, sin límite de tiempo, por Real Decreto entre personas que estén o hayan estado comprendidas en alguna de las categorías siguientes:
+Los Consejeros Permanentes, en numero igual al de las Secciones del Consejo, son nombrados, sin límite de tiempo, por Real Decreto entre personas que están o hayan estado comprendidas en alguna de las categorías siguientes:
 
-Primero.–Ministro.
+1.º Ministro.
 
-Segundo.–Presidente o miembro de los Consejos Ejecutivos de las Comunidades Autónomas.
+2.º Presidente o miembro de los Consejos Ejecutivos de las Comunidades Autónomas.
 
-Tercero.–Consejero de Estado.
+3.º Consejero de Estado.
 
-Cuarto.–Letrado Mayor del Consejo de Estado.
+4.º Miembros de los Consejos consultivos u órganos equivalentes de las Comunidades Autónomas.
 
-Quinto.–Académico de número de las Reales Academias integradas en el Instituto de España.
+5.º Letrado Mayor del Consejo de Estado.
 
-Sexto.–Profesor numerario de disciplinas jurídicas, económicas o sociales en Facultad universitaria con quince años de ejercicio.
+6.º Académico de número de las Reales Academias integradas en el Instituto de España.
 
-Séptimo.–Oficial general de los Cuerpos Jurídicos de las Fuerzas Armadas.
+7.º Profesor numerario de disciplinas jurídicas, económicas o sociales en Facultad Universitaria, con quince años de ejercicio.
 
-Octavo.–Funcionarios del Estado con quince años de servicios al menos en Cuerpos o Escalas para cuyo ingreso se exija titulo universitario.
+8.º Oficial general de los Cuerpos Jurídicos de las Fuerzas Armadas.
+
+9.º Funcionarios del Estado con quince años de servicios al menos en Cuerpos o Escalas para cuyo ingreso se exija título universitario.
+
+10.º Ex Gobernadores del Banco de España.
+
+> Se modifica por el art. único.4 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.

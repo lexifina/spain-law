@@ -1,5 +1,7 @@
 ## Artículo veinticuatro.
 
-Uno. El Consejo de Estado, sea en Pleno o en Comisión Permanente, puede ser oído en cualquier asunto en que, sin ser obligatoria la consulta, el Presidente del Gobierno o cualquier Ministro lo estime conveniente.
+Las Comunidades Autónomas podrán, por conducto de sus Presidentes, solicitar dictamen del Consejo de Estado, bien en Pleno o en Comisión Permanente, en aquellos asuntos en que, por la especial competencia o experiencia del mismo, lo estimen conveniente.
 
-Dos. El Consejo de Estado en Pleno dictaminará en aquellos asuntos en que, aunque estuvieran atribuidos a la competencia de la Comisión Permanente, así lo solicitare el Presidente del Gobierno o lo acuerde el Presidente del Consejo.
+El dictamen será preceptivo para las comunidades autónomas que carezcan de órgano consultivo propio en los mismos casos previstos por esta ley orgánica para el Estado, cuando hayan asumido las competencias correspondientes.
+
+> Se modifica y reenumera por el art. único.20 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
