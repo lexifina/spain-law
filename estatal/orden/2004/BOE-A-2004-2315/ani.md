@@ -13,3 +13,7 @@ Solicitudes de revisión de oficio para cuya resolución resulte competente alg�
 Reclamaciones previas
 
 Reclamaciones previas a la vía judicial civil cuya resolución competa al Ministerio de Administraciones Públicas.
+
+Presentación de candidaturas a los Premios Tecnimap
+
+> Se amplía por el apartado 1 de la Resolución de 26 de mayo de 2004. Ref. BOE-A-2004-10955.
