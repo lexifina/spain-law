@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Cuotas con destinos específicos de determinados distribuidores.
+
+Hasta el año 2007 los distribuidores que vinieran operando con anterioridad al 1 de enero de 1997, a los que no les era de aplicación el Real Decreto 1538/1987, de 11 de diciembre, sobre determinación de la tarifa de las empresas gestoras del servicio eléctrico, deducirán de las cantidades que deben entregar en concepto de cuotas establecidas en el artículo 5 del presente Real Decreto, las cantidades incluidas en el valor de sus compras de energía a las tarifas que les sean de aplicación, sin perjuicio de las posibles exenciones o reducciones en la obligatoriedad de entrega de estas cuotas, que se establecen en la disposición adicional única del presente Real Decreto.
