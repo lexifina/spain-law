@@ -1,0 +1,5 @@
+El artículo 40.1 del Reglamento de Armas, aprobado por Real Decreto 137/1993, de 29 de enero, establece que en el envío de armas «deberá figurar la declaración del contenido, en la documentación y en el mismo paquete, en caracteres de suficiente claridad».
+
+No obstante, se vienen produciendo numerosos casos de pérdida, extravío o sustracción de paquetes conteniendo armas durante el transporte de una localidad a otra, alegando los responsables de las agencias de transportes que no conocían el contenido de los mismos, a pesar de que toda expedición debe ir acompañada por la correspondiente guía de circulación, que será presentada a la empresa encargada del transporte para el conocimiento por parte de ésta del contenido de los envases.
+
+Por ello, con el fin de evitar el extravío de armas durante el proceso de transporte de las mismas, y en uso de la facultad de intervención e inspección que a la Dirección General de la Guardia Civil concede el artículo 7.a) del vigente Reglamento de Armas, he tenido a bien disponer:
