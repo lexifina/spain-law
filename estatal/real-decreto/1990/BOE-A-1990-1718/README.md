@@ -31,3 +31,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [DISPOSICIÓN FINAL](df.md)
 - [firma](firma.md)
 - [ANEXO](an.md)
+- [INFORMACIÓN RELACIONADA](informacionrelacionada.md)
