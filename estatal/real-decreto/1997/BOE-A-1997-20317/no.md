@@ -1,0 +1,1 @@
+Téngase en cuenta que la materia objeto de este real decreto ha sido regulada por los Reglamentos (UE) 609/2013, Ref. DOUE-L-2013-81295, 432/2012, Ref. DOUE-L-2012-80898 y el Reglamento Delegado (UE) 2017/1798. Ref. DOUE-L-2017-82016
