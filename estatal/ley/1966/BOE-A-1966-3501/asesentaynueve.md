@@ -21,3 +21,5 @@ Tercero.–En las muy graves: suspensión de las publicaciones periódicas hasta
 Dos. La sanción de multa podrá ser impuesta conjuntamente con cualquier otra.
 
 Tres. Las resoluciones sobre sanciones serán anotadas en los Registros correspondientes.
+
+> Véase en cuanto a los efectos de las anotaciones registrales el art. 1 del Real Decreto 2716/1976, de 18 de octubre. Ref. BOE-A-1976-24052.
