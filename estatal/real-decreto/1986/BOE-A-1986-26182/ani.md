@@ -2,17 +2,25 @@
 
 1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1989/301/29544_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1989/301/29544_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1989/301/29544_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1989/301/29544_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1989/301/29544_005.png)
+2. Tractores agrícolas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1989/301/29544_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_005.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_006.png)
+
+3. Motocicletas
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_007.png)
+
+> Se modifica por Orden de 16 de julio de 1991. Ref. BOE-A-1991-19294.
 
 > Se modifica por Orden de 24 de noviembre de 1989. Ref. BOE-A-1989-29544.
 
