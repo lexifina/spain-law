@@ -72,7 +72,7 @@ n) En su caso, un representante del SEPRONA.
 
 ## 3. Parque Nacional de Aigüestortes y Estany de Sant Maurici
 
-El Patronato del Parque Nacional de Aigüestortes y Estany de Sant Maurici mantendrá su actual composición.
+La composición del Patronato del Parque Nacional de Aigües Tortes y Estany de Sant Maurici será la que determine su normativa específica.
 
 ## 4. Parque Nacional Marítimo-Terrestre del Archipiélago de Cabrera
 
@@ -99,6 +99,8 @@ j) El Director-Conservador del Parque Nacional.
 k) Un representante de la Guardería del Parque Nacional.
 
 l) En su caso, un representante del SEPRONA.
+
+m) Un representante del Consejo Superior de Investigaciones Científicas.
 
 ## 5. Parque Nacional de Cabañeros a) El Presidente.
 
@@ -236,7 +238,7 @@ h) Dos representantes de las asociaciones cuyos fines coincidan con los principi
 
 i) Un representante de las asociaciones profesionales turísticas de la isla de Tenerife.
 
-j) Un representante de la Federación Española de Montañismo.
+j) Un representante de la Federación Canaria de Montañismo.
 
 k) El Director-Conservador del Parque Nacional.
 
@@ -266,7 +268,7 @@ i) Un representante de las asociaciones profesionales turísticas de la isla de 
 
 j) Un representante de los propietarios con terrenos ubicados dentro del Parque Nacional.
 
-k) Un representante de la Federación Española de Montañismo.
+k) Un representante de la Federación Canaria de Montañismo.
 
 l) El Director-Conservador del Parque Nacional.
 
@@ -301,3 +303,5 @@ k) El Director-Conservador del Parque Nacional.
 l) Un representante de la Guardería del Parque Nacional.
 
 m) En su caso, un representante del SEPRONA.
+
+> Se modifican los apartados 3, 9.j), 10.k) y se añade la letra m) al apartado 4 por la disposición adicional 1 del Real Decreto 940/1999, de 4 de junio. Ref. BOE-A-1999-13470.
