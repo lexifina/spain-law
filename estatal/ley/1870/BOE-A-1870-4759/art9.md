@@ -1,3 +1,5 @@
-## Art. 9.º
+## Art. 9.
 
-No se podrá conceder indulto del pago de los gastos del juicio y costas procesales que no correspondieren al Estado; pero sí de la pena subsidiaria que el penado insolvente hubiere de sufrir por este concepto.
+El indulto no se extenderá a las costas procesales.
+
+> Se modifica por el art. 2 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
