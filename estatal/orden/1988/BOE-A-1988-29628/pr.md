@@ -1,0 +1,3 @@
+El Consejo Social de la Universidad de León, en ejercicio de las competencias que se atribuye el artículo 2.º 18 de su Reglamento de Organización y Funcionamiento Interno aprobado por Orden de 6 de mayo de 1987 («Boletín Oficial del Estado» del 13) y de acuerdo con el procedimiento establecido en el artículo 31 del mismo ha procedido a la revisión de dicho texto y ha sometido a la aprobación del Ministerio de Educación y Ciencia el nuevo texto que modifica al citado Reglamento.
+
+En virtud de lo expuesto, este Ministerio, al amparo de lo establecido en el artículo 8 de la Ley 5/1985, de 21 de marzo, del Consejo Social de Universidades, ha dispuesto:
