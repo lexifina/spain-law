@@ -39,3 +39,5 @@ Diecisiete. Concesión de monopolios y servicios públicos monopolizados.
 Dieciocho. Todo asunto en que por precepto expreso de una Ley haya de consultarse al Consejo de Estado en Comisión Permanente.
 
 Diecinueve. Todo asunto en que por precepto de una Ley haya de consultarse al Consejo de Estado y no se diga expresamente que debe ser al Consejo en Pleno.
+
+> Se suprime el inciso destacado del apartado 7 por la disposición adicional 3 de la Ley Orgánica 2/1987, de 22 de abril. Ref. BOE-A-1987-12077.
