@@ -1,0 +1,3 @@
+## Disposición adicional primera. Aplicación de legislaciones de Comunidades Autónomas.
+
+Las previsiones de estos Estatutos Generales sobre extremos que, conforme a la legislación autonómica aplicable, deban ser regulados también por los correspondientes Estatutos de los Colegios de Arquitectos o de sus Consejos Autonómicos, en cuanto no estén a su vez amparadas en o sean complemento necesario de disposiciones de la legislación básica estatal sobre Colegios Profesionales, habrán de entenderse sin perjuicio de aquella legislación autonómica y de lo que, en estricto cumplimiento de ella, establezcan dichos Estatutos particulares.
