@@ -6,6 +6,6 @@ No serán exigibles en el ámbito de los seguros distintos al seguro de vida a l
 
 2. El margen de solvencia mínimo, para el ejercicio de la actividad aseguradora.
 
-3. La autorización administrativa previa, la aprobación o la puesta a disposición antes de su utilización de los modelos de pólizas, bases técnicas y tarifas de primas a que se refiere el artículo 88.3 de esta Ley, cuando se trate de grandes riesgos, definidos en el artículo 107.2 de la Ley de Contrato de Seguro. No obstante, la Dirección General de Seguros podrá requerir la presentación, siempre que lo entienda pertinente, de los modelos de pólizas, bases técnicas y tarifas de primas al objeto de controlar si respetan las disposiciones técnicas y sobre contrato de seguros.
+3. La autorización administrativa previa, la aprobación o la puesta a disposición antes de su utilización de los modelos de pólizas, bases técnicas y tarifas de primas. No obstante, la Dirección General de Seguros podrá requerir la presentación, siempre que lo entienda pertinente, de los modelos de pólizas, bases técnicas y tarifas de primas al objeto de controlar si respetan las disposiciones técnicas y sobre contrato de seguro. Esta exigencia no podrá constituir para la entidad aseguradora condición previa para el ejercicio de su actividad.
 
-Esta exigencia no podrá constituir para la entidad aseguradora condición previa para el ejercicio de su actividad.
+> Se modifica el apartado 3 por el art. 1.23 de la Ley 34/2003, de 4 de noviembre. Ref. BOE-A-2003-20330

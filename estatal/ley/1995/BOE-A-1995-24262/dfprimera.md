@@ -8,10 +8,12 @@ b) Las disposiciones que el número 2 subsiguiente declara de competencia exclus
 
 2. Son competencia exclusiva del Estado:
 
-a) Con arreglo al artículo 149.1.6.ª de la Constitución, las materias reguladas en las disposiciones adicionales sexta, octava, novena, décima y undécima en sus apartados 1 a 13, 15, 19 y 21, asimismo las contenidas en las disposiciones transitorias duodécima, decimotercera, decimocuarta, decimoquinta y decimoséptima;
+a) Con arreglo al artículo 149.1.6.ª de la Constitución, las materias reguladas en el artículo 28 bis y en las disposiciones adicionales sexta, octava, novena, décima y undécima en sus apartados 1 a 13, 15, 19 y 21, asimismo las contenidas en las disposiciones transitorias duodécima, decimotercera, decimocuarta, decimoquinta y decimoséptima.
 
-b) Con arreglo al artículo 149.1.8.ª de la Constitución, la materia regulada en el artículo 28.2.;
+b) Con arreglo al artículo 149.1.8.ª de la Constitución, las materias reguladas en el artículo 28, apartado 2, y en el artículo 80, apartados 4 y 5.
 
 c) Con arreglo al artículo 149.1.14.ª de la Constitución, las materias reguladas en la disposición adicional octava en lo relativo a las indemnizaciones pagadas con arreglo al sistema de valoración de los daños y perjuicios contenido en el anexo de la Ley sobre Responsabilidad Civil y Seguro en la Circulación de Vehículos a Motor, en la disposición adicional undécima 16, 17 y 22, en la disposición adicional decimotercera y en la disposición transitoria decimosexta.
 
 d) Con arreglo al artículo 149.3 de la Constitución, en materia regulada en los apartados 14, 15, 18 y 20 de la disposición adicional undécima.
+
+> Se modifican los apartados 2.a) y b) por el art. 1.24 de la Ley 34/2003, de 4 de noviembre. Ref. BOE-A-2003-20330
