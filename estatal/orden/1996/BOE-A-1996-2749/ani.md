@@ -1,0 +1,567 @@
+## ANEXO I
+
+## Normas de cumplimentación de los documentos contables
+
+Para cumplimentar los documentos que figuran en el anexo II, se deberán tener en cuenta las siguientes notas aclaratorias:
+
+1. Oficina contable: Se consignará el código y la denominación correspondientes a la oficina contable del centro gestor afectado por la operación.
+
+2. Código: Se indicará alguna de las siguientes claves de operación según el modelo de documento contable y la operación de la que se trate:
+
+a) Documento MC (Modificaciones de Crédito):
+
+030 Créditos extraordinarios.
+
+040 Suplemento de créditos.
+
+050 Ampliación de créditos.
+
+060 Transferencias de créditos positivas.
+
+061 Transferencias de créditos negativas.
+
+070 Incorporación de remanentes de crédito.
+
+080 Créditos generados por ingresos.
+
+090 Bajas por anulación o rectificación.
+
+b) Documento RC de ejercicio corriente (solicitud de retenciones de crédito y registro de no disponibilidad):
+
+100 Retención de crédito para gastar.
+
+101 Retención de crédito para transferencias.
+
+102 No disponibilidad.
+
+103 Retención de crédito para desconcentrar.
+
+c) Documento RC de ejercicios posteriores (solicitud de certificado de cumplimiento de límites del artículo 61 del TRLGP):
+
+100 Retención de crédito para ejercicios posteriores.
+
+d) Documento A de ejercicio corriente y de ejercicios posteriores (autorizaciones de gasto):
+
+200 Autorización sobre crédito disponible.
+
+210 Autorización sobre crédito retenido.
+
+206 Cancelación de autorizaciones (Anticipos de Tesorería).
+
+e) Documento D de ejercicio corriente y de ejercicios posteriores (compromisos de gasto):
+
+300 Compromiso de gasto.
+
+306 Cancelación de compromiso de gasto (Anticipos de Tesorería).
+
+f) Documento AD de ejercicio corriente y de ejercicios posteriores (autorizaciones y compromisos de gasto):
+
+220 Autorización y compromiso sobre crédito disponible
+
+230 Autorización y compromiso sobre crédito retenido.
+
+226 Cancelación de autorización y compromiso de gasto (Anticipos de Tesorería)
+
+g) Documento A de tramitación anticipada.
+
+200 Autorización anticipada de gasto.
+
+h) Documento D de tramitación anticipada.
+
+300 Compromiso anticipado de gasto
+
+i) Documento AD de tramitación anticipada:
+
+220 Autorización y compromiso anticipados de gasto.
+
+j) Documento OK (reconocimiento de obligaciones):
+
+420 Reconocimiento de obligaciones.
+
+426 Cancelación de reconocimiento de obligaciones (Anticipos de Tesorería).
+
+k) Documento ADOK (autorización, compromiso y reconocimiento de obligaciones):
+
+260 Autorización, compromiso, reconocimiento de obligaciones, sobre crédito disponible
+
+270 Autorización, compromiso, reconocimiento de obligaciones, sobre crédito retenido.
+
+266 Cancelación de autorización, compromiso y reconocimiento de obligaciones (Anticipos de Tesorería)
+
+l) Documento O (reconocimiento de obligaciones sin la propuesta de pago):
+
+410 Reconocimiento de obligaciones sin propuesta de pago.
+
+416 Cancelación de obligaciones reconocidas sin propuesta de pago (Anticipos de Tesorería).
+
+m) Documento K (propuesta de pago):
+
+430 Propuesta de pago.
+
+436 Cancelación de propuesta de pago (Anticipos de Tesorería).
+
+n) Documento PR (prescripción de obligaciones):
+
+460 Prescripción de obligaciones.
+
+ñ) Documento MD (modificación de obligaciones de ejercicios cerrados):
+
+410 Rectificación del saldo inicial de obligaciones reconocidas. Aumento (si es positivo) o disminución (si es negativo).
+
+o) Documento I (concesión de Anticipos de Tesorería):
+
+000 Concesión del Anticipo de Tesorería.
+
+006 Cancelación de Anticipos de Tesorería concedidos.
+
+p) Documento PMP (propuesta de mandamiento de pago por devolución de ingresos y no presupuestaria):
+
+410 Propuesta de mandamiento de pago.
+
+q) Documento CA (certificaciones anticipadas):
+
+410 Certificaciones anticipadas.
+
+r) Documento de periodificación de gastos:
+
+411 Periodificación de gastos.
+
+3. Esta casilla se dejará en blanco cuando la operación sea de signo positivo y se consignará una barra (/) cuando sea de signo negativo.
+
+4. Signo: Se consignará en la primera casilla positivo y en la segunda 0 cuando la operación sea de signo positivo, y negativo y 1 cuando sea de signo negativo.
+
+5. En este recuadro se indicará el literal del tipo de operación del que se trate, según las denominaciones incluidas en la nota 2 anterior. Cuando las operaciones tengan signo negativo se incluirá al principio de cada una de dichas denominaciones: «Anulación de .......», excepto en los casos de operaciones de «Transferencias de crédito negativas», de «Rectificaciones del saldo inicial de obligaciones reconocidas-Disminución» y las operaciones de cancelación en Anticipos de Tesorería, en los que se incluirá «Anulación de .......» cuando las mismas tengan signo positivo.
+
+Los documentos contables del presupuesto de gastos, los de Anticipos de Tesorería, los PMP de propuestas de mandamientos de pago, los CA de certificaciones anticipadas y los de periodificación de gastos deberán llevar sombreado en color gris el recuadro situado en su esquina superior derecha cuando los mismos se refieran a operaciones de signo negativo.
+
+6. Operación de enlace: En su caso, se deberá consignar el número de registro contable correspondiente a la fase anterior o a la que complementa la operación que se pretende registrar.
+
+7. Número de expediente: Código identificativo del expediente al que se refiera la operación a contabilizar que haya sido asignado por el centro gestor.
+
+8. Número de aplicaciones: Se consignará el número de aplicaciones presupuestarias que se vean afectadas por la operación.
+
+9. Número de anualidades: Se indicará el número de ejercicios posteriores a los que afecta la operación.
+
+10. Ejercicio: Se indicará el ejercicio en el que se deba contabilizar la operación.
+
+11. Año del presupuesto: Se rellenarán los cuatro dígitos del año del Presupuesto al que corresponda la operación.
+
+12. Sección: Se indicará el código numérico y el literal de la Sección que corresponda según la clasificación orgánica del Presupuesto de Gastos.
+
+13. Orgánica: Se indicará el código del servicio en los dos primeros dígitos y, en su caso, si se hubiese aprobado un desglose mayor, se consignará el código identificativo de las unidades que dependan de dicho servicio.
+
+14. Funcional: Se indicará el código correspondiente a la clasificación funcional del Presupuesto de Gastos.
+
+14 bis. C. Modif.: Código correspondiente a la modificación presupuestaria. Este dato solamente se introducirá en los documentos expedidos por la Dirección General de Presupuestos.
+
+15. Económica: Se consignará el código correspondiente a la clasificación económica del Presupuesto de gastos. En el documento de desglose se indicará el concepto o, en su caso, subconcepto que se pretenda desglosar o distribuir a servicios periféricos.
+
+15 bis. Consol.: Se indicará 0 ó 1 según que la operación sea consolidable o no. Este dato solamente se introducirá en los documentos expedidos por la Dirección General de Presupuestos.
+
+16. Importe: Se indicará el importe en cifras que corresponda a cada aplicación presupuestaria.
+
+17. Cta. PGCP: Cuenta del Plan General de Contabilidad Pública correspondiente a cada aplicación presupuestaria. Este dato, que se rellenará por la oficina de contabilidad, sólo se indicará cuando a una misma aplicación se puedan asociar dos o más cuentas.
+
+Cuando se utilicen documentos «Anexo Aplicaciones», en aquellos documentos a los que complementan no se rellenarán los datos correspondientes a las notas 13, 14, 15, 16 y 17.
+
+18. Importe (en letra): Se consignará en letra el importe total correspondiente a todas las aplicaciones incluidas en el documento o, en su caso, en el anexo o anexos.
+
+19. Importe: Se indicará en cifras la misma cantidad a la que se refiere la nota 18 anterior.
+
+20. Interesado: Se indicará el número de identificación fiscal y la denominación del acreedor directo o, en su caso, habilitado, cajero pagador u otro agente mediador en el pago.
+
+21. Anualidad: Se indicarán con cuatro dígitos las anualidades correspondientes a los ejercicios posteriores de gastos plurianuales o de tramitación anticipada.
+
+22. Importe: Importe en cifras correspondiente a cada anualidad a las que se refiere la nota 21 anterior.
+
+23. Cesionario: Se indicará el número de identificación fiscal y la denominación del cesionario, cuando se haya producido la transmisión del derecho de cobro del interesado frente a la Administración
+
+24. Ordinal del perceptor: Código identificativo de la cuenta bancaria del interesado o cesionario en la que debe abonarse el importe
+
+25. Tipo de pago: Se indicará el código que corresponda de la tabla de «tipo de pago» del sistema de información contable, según que el pago se vaya a realizar al acreedor directo o a través de los distintos agentes mediadores en el pago que posibilite la normativa aplicable.
+
+26. Forma de pago: Se indicará, en su caso, el medio a través del cual se deba hacer efectiva la propuesta de pago.
+
+27. Área origen del gasto: Se indicará el código identificativo y denominación de la provincia o grupo de provincias en donde se va a ejecutar el gasto.
+
+28. Caja Pagadora: Se indicará, en su caso, el código y denominación de la Caja Pagadora que deba efectuar el pago.
+
+29. Código descuento: Se indicará los códigos correspondientes a los descuentos que se deban efectuar sobre el importe íntegro de la orden de pago.
+
+30. Descripción: Denominación de cada uno de los descuentos a que se refiere la nota 29 anterior.
+
+31. Importe: Importe en cifras correspondiente a cada uno de los descuentos a que se refiere la nota 29 anterior.
+
+32. Cta. PGCP: Cuenta del Plan General de Contabilidad Pública correspondiente a cada descuento de los indicados en la nota 29 anterior. Este dato, que se rellenará por la oficina de contabilidad, sólo se indicará cuando a un mismo descuento se puedan asociar dos o más cuentas.
+
+Si se utilizan documentos «Anexo descuento», en los documentos a los que complementan no se rellenarán los datos correspondientes a las notas 29, 30, 31 y 32.
+
+33. Total descuentos: Importe total de todos los descuentos a efectuar.
+
+34. Fecha del gasto: Fecha de realización del gasto de acuerdo con los siguientes criterios:
+
+a) Día último del mes o período al que correspondan los siguientes gastos:
+
+Gastos de personal.
+
+Certificaciones de obra y, en su caso, de otros contratos.
+
+Arrendamientos.
+
+Otros gastos de carácter periódico y de tracto sucesivo.
+
+b) Día en que se efectúa la recepción:
+
+Liquidación de contratos de obras.
+
+Liquidación de contratos de suministros.
+
+c) Día en que se efectúa la adquisición:
+
+Adquisición de bienes inmuebles y otros bienes corporales o incorporales.
+
+Adquisición de activos financieros.
+
+d) Día del vencimiento:
+
+Intereses de la Deuda del Estado.
+
+Amortización de la Deuda del Estado.
+
+e) Día en que se termine de prestar el servicio:
+
+Liquidación de aquellos contratos que hayan supuesto la prestación de algún servicio a la Administración.
+
+f) Día en que se efectúe la aprobación de los siguientes gastos:
+
+Subvenciones y transferencias.
+
+Gastos de emisión, modificación y cancelación de deudas cuando no conlleven la necesidad de formalizar contratos.
+
+Anticipos al personal.
+
+35. Fecha del reconocimiento de la obligación: Fecha en la que se ha dictado el correspondiente acto administrativo del reconocimiento de la obligación.
+
+36. Total líquido: Importe resultante de la diferencia entre los importes indicados en las notas 19 y 33.
+
+37. Código Proyecto de Gasto: Código identificativo del proyecto de gasto al que se refiera la operación a contabilizar.
+
+38. N.º Expte. Gasto: Código identificativo del expediente de gasto al que se refiera la operación a contabilizar que haya sido asignado con anterioridad por el sistema.
+
+39. N.º Contrato/Subexpediente: Código identificativo del contrato o subexpediente al que se refiera la operación a contabilizar que haya sido asignado con anterioridad por el sistema.
+
+40. N.º Abono/Certificación: Se indicará el número secuencial de abono que corresponda al contrato o subexpediente al que se refiera la operación a contabilizar.
+
+41. Tipo operación: Código relativo a operaciones específicas como: adicionales, reformados, revisiones de precios, reajuste de anualidades, liberaciones de crédito o rectificaciones.
+
+42. Texto libre de la operación: Espacio para indicar, en su caso, las explicaciones necesarias referentes a la operación que se pretende registrar.
+
+43. Importe a desglosar o distribuir: Importe que se pretende desglosar o, en su caso, distribuir entre los servicios periféricos.
+
+44. Subconcepto, partida o provincia: Se indicarán los subconceptos en los que se desglosa un concepto, o, en su caso, las partidas en que se desglosa un subconcepto. Cuando se refiera a delegación de créditos, se indicará el código de la provincia a que corresponda el servicio periférico.
+
+45. Importe desglosado: Importe correspondiente a cada uno de los subconceptos, partidas o provincias a los que se refiere la nota 44 anterior.
+
+46. Autorización: Fecha y firma del responsable competente para la autorización del documento, de acuerdo con los criterios establecidos en la presente Orden. Si el órgano competente utiliza el propio documento contable como soporte del acto administrativo por el que se ejecuta la correspondiente operación, en este espacio deberán constar todos los requisitos para que dicho acto tenga validez.
+
+47. En este espacio se extenderá la diligencia de toma de razón que acredite el registro de la operación. Dicha diligencia podrá realizarse mediante certificación mecánica.
+
+48. Se marcará con una X la operación de que se trate.
+
+49. Fecha de justificación: Se indicará la fecha real en la que se hayan presentado la cuenta justificativa en la Unidad Central.
+
+50. Prórroga: Se cumplimentará cuando se hayan autorizado prórrogas en los plazos legalmente establecidos expresándolo en número de meses.
+
+51. Fecha del acuerdo: Se indicará la fecha del acuerdo que motiva la expedición del documento contable.
+
+52. Importe del acuerdo: Se indicará en letra el importe del acuerdo a que se refiere el documento.
+
+53. Importe capítulo II: Se anotará el importe de los créditos totales de dicho capítulo correspondientes a la Sección consignada en el documento y referidos a la fecha del acuerdo.
+
+54. 7% Cap. II: Se consignará el resultado de aplicar dicho porcentaje sobre el importe de la nota anterior 53.
+
+55. Importe de acuerdos anteriores: Sólo se cumplimentará en el caso de que el documento se expida como consecuencia de un incremento o una disminución en los créditos del capítulo segundo. Dicho importe coincidirá con el «Total acuerdos» 57 del último documento de adopción del sistema de anticipos de caja fija expedido por la Sección.
+
+56. Importe del acuerdo: Mismo importe que el de la nota 52 pero en cifras.
+
+57. Total acuerdos: Se recogerá la suma o diferencia de los importes anteriores 55 y 56 según que el acuerdo sea de incremento o disminución, respectivamente.
+
+58. Cajero pagador: Código de identificación fiscal y denominación de los cajeros pagadores a los que se les distribuyen los fondos del anticipo de caja fija
+
+59. Importe: Importe en cifras que se distribuye a cada cajero pagador
+
+60. N.º propuesta: Número de registro contable correspondiente a la propuesta de pago que se expidió para librar los fondos a justificar.
+
+61. Se indicará la denominación de la subentidad contable u órgano gestor a cuyo ámbito corresponda la operación que se pretende registrar.
+
+62. Número: Se indicará el número correlativo del resumen contable.
+
+63. Año: Ejercicio al que corresponde la numeración del resumen contable.
+
+64. Ejercicio económico: Año en el que se debe registrar la operación.
+
+65. Código operación contable: Se indicará el código y denominación asignados en las tablas del sistema a la operación que se pretende registrar.
+
+66. Descripción: Se indicará la denominación de cada aplicación contable incluida en el documento.
+
+67. Núm. orden: Numeración correlativa de las aplicaciones contables que contenga el documento.
+
+68. Aplicación contable: Se indicarán los códigos de los conceptos contables que correspondan según las tablas del sistema.
+
+69. Número: Se indicará el número de operaciones de detalle que se agrupan por cada aplicación contable.
+
+70. Importes: Se indicará el importe total de cada aplicación contable.
+
+71. Cuenta PGCP: Se indicará la cuenta del Plan General de Contabilidad Pública que corresponda a cada aplicación contable, sólo en el caso de que éstas admitan más de una cuenta.
+
+Cuando se utilicen documentos «Anexo», en aquellos documentos a los que complementan no se rellenarán los datos correspondientes a las notas 66, 68, 70 y 71.
+
+72. Importe (en letra): Se indicará en letra el importe total correspondiente a todas las aplicaciones contables incluidas en el documento o, en su caso, en el anexo o anexos.
+
+73. Importe: Se indicará en cifras la misma cantidad a la que se refiere la nota 72 anterior.
+
+74. Área contable: Denominación de la agrupación contable que corresponda al ingreso según las tablas del sistema.
+
+75. Fecha: Se indicará la fecha de expedición del instrumento de cobro.
+
+76. Importe a ingresar: Cantidad que debe ser ingresada por el sujeto pasivo.
+
+77. CIF/DNI: Se indicará el código identificativo del sujeto pasivo.
+
+78. Nombre: Se indicará el nombre y apellidos o denominación del sujeto pasivo.
+
+79. Domicilio fiscal: Se indicará el domicilio del sujeto pasivo.
+
+80. Provincia: Código o denominación de la provincia.
+
+81. Municipio: Código o denominación del municipio.
+
+82. CP: Se indicará el código postal.
+
+83. Ingreso en caja: Espacio reservado para la diligencia o certificación de la caja en la que se efectúe el ingreso.
+
+84. Fecha del arqueo: Se indicará el día, mes y año al que corresponda la hoja de arqueo.
+
+85. N.º de cobros: Se indicará el número de ingresos producidos a que se refiera la columna de arqueo, rectificación o totales.
+
+86. Importe: Se indicará el importe que corresponda a la columna de arqueo, rectificación o totales.
+
+87. Firmas autorizadas: Espacio reservado para la autorización de la hoja de arqueo.
+
+88. Espacio reservado para certificación mecánica: Se indicará como mínimo la fecha, número de operación e importe.
+
+89. Fecha de ingreso: Se indicará la fecha en la que se va a efectuar el ingreso en el Banco de España
+
+90. M/I n.º: Se indicará el número que se le asigna al mandamiento de ingreso.
+
+91. Referencia del expe.: Indicación del expediente al que se refiere el depósito de valores.
+
+92. Num. de mandamiento: Se indicará el número asignado al documento de constitución o cancelación de depósitos.
+
+93. Depositantes: Identificación del interesado al que corresponde el depósito.
+
+94. Código de operación: Clave asignada a cada tipo de garantía depositada.
+
+95. Descripción: Denominación relativa a cada código de operación.
+
+96. Ptas. nominales: Importe correspondiente a cada código de operación.
+
+97. Perceptor: Identificación del interesado al que se le devuelve la garantía.
+
+98. N.º ref.: Se indicará el número de referencia de la operación a registrar.
+
+99. N.º doc.: Se indicará el número de documentos de asientos directos que, en su caso, se adjuntan para contabilizar una operación.
+
+100. Operación: Descripción de la operación a registrar.
+
+101. Código operación: Se indicará el código que corresponda a la operación cuando la misma esté tipificada
+
+102. Cta. PGCP: Se indicarán las cuentas del Plan General de Contabilidad Pública que tienen movimiento.
+
+103. D/H: Se indicará el movimiento de cada cuenta: al Debe (D) o al Haber (H).
+
+104. Signo: Se indicará si es positivo o negativo el movimiento de la cuenta
+
+105. Importe: Se indicará el importe por el que se mueve cada cuenta.
+
+106. Descripción cuenta: Denominación de cada una de las cuentas.
+
+107. Referencia que identifica al documento.
+
+108. Clave que identifica el tipo de operación en el subsistema de deuda y mediante la cual se produce la actualización de los registros de dicho subsistema.
+
+109. Agrupación correspondiente de las contempladas en los Estados a rendir: obligaciones y bonos, obligaciones y bonos asumidos, deudas con entidades de crédito, deudas con entidades de crédito asumidas, etc.
+
+110. Especifica qué tipo de operación se realiza dentro de la operación genérica a que se refiere el documento. Así dentro de la creación de deuda se distinguen: Emisión por liquidación, conversión, asunciones. En la amortización se distingue amortización por reembolso, por conversión o por otras causas.
+
+111. Denominación que el emisor da a la deuda.
+
+112. Clave numérica que identifica a la deuda.
+
+113. Fecha en que se produce el ingreso de la emisión, la entrada en vigor de la norma de asunción, o la aprobación del expediente de conversión.
+
+114. Valor nominal de la emisión.
+
+115. Importe que se recibe del prestamista por la deuda emitida.
+
+116. Importe que el Estado se compromete a satisfacer al prestamista en la fecha de amortización de los capitales.
+
+117. Aquellos que se determinan por la diferencia entre el valor de reembolso y el valor de emisión o efectivo de la deuda, cuando el primero es mayor que el segundo.
+
+118. Aquellas que se determinan por la diferencia entre el valor de emisión o efectivo de la deuda y el valor de reembolso, cuando el primero es mayor que el segundo.
+
+119. Fecha o fechas en las que el Estado se compromete a reembolsar los capitales.
+
+120. Tipo que se aplica sobre el valor nominal de la deuda para determinar el pago de los intereses explícitos.
+
+121. Fecha en la que el Estado se compromete a pagar la primera liquidación de intereses explícitos.
+
+122. Número de liquidaciones de intereses explícitos que los títulos devengan en un año.
+
+123. Tipo de interés efectivo de la deuda o tasa interna de rendimiento de la misma.
+
+124. Importe en moneda extranjera.
+
+125. Relación entre pesetas-moneda extranjera que se utiliza en la operación.
+
+126. Importe de las pesetas que resultan de aplicar a las divisas el tipo de cambio.
+
+127. Gastos producidos en la emisión de la deuda que se descuentan del ingreso de la emisión.
+
+128. Si es amortización al vencimiento, amortización anticipada, amortización por sorteo, etc.
+
+129. Número del sorteo correspondiente a esta amortización.
+
+130. Fecha en la que se produce el devengo de la operación.
+
+131. Importe por el que está contabilizada la deuda en la fecha de expedición del documento.
+
+132. Importe que por todos los conceptos el Estado paga al prestamista.
+
+133. Importe que se recibe del prestamista por la deuda emitida.
+
+134. Importe correspondiente a los intereses devengados desde el último cupón vencido que se incluyen en el valor de reembolso total.
+
+135. Aquella parte de la diferencia entre el valor de reembolso y el valor de emisión que queda pendiente de imputar a resultados después de haber imputado la parte devengada hasta la fecha de vencimiento.
+
+136. Aquella parte de la diferencia entre el valor de emisión y el valor de reembolso que queda pendiente de imputar a resultados después de haber imputado la parte devengada hasta la fecha de vencimiento.
+
+137. Para las deudas emitidas al descuento, el importe de los rendimientos implícitos periodificados que queda pendiente de imputar a resultados después de haber imputado la parte de los mismos devengada desde fin de ejercicio anterior hasta la fecha de vencimiento.
+
+138. El resultado que puede surgir en la amortización anticipada.
+
+139. Número secuencial de la liquidación de intereses explícitos.
+
+140. Tasa nominal de interés de la deuda.
+
+141. Fecha de pago del anterior cupón.
+
+142. Importe a pagar al prestamista por la liquidación de intereses.
+
+143. Parte de la liquidación de intereses que se ha devengado en el ejercicio corriente.
+
+144. Parte de la liquidación de intereses que se ha devengado en el ejercicio anterior o anteriores.
+
+145. Nombre de la moneda en que está formalizada la deuda.
+
+146. Fecha de vencimiento de la liquidación.
+
+147. Número de días que comprende el período de liquidación.
+
+148. Capital pendiente de amortización valorado por el nominal.
+
+149. Parte de la liquidación de intereses devengada en ejercicios anteriores antes de su regularización.
+
+150. Parte de la liquidación de intereses devengada en ejercicios anteriores valorada al tipo de cambio de la fecha en que se reconoce la obligación.
+
+151. Diferencia en los intereses devengados en ejercicios anteriores debida a la variación en el tipo de cambio producida entre fin de ejercicio anterior y la fecha en que se reconoce la obligación.
+
+152. Importe de la liquidación de intereses valorada al tipo de cambio de la fecha en que se reconoce la obligación.
+
+153. Diferencia entre el importe total de la liquidación valorada al tipo de cambio de la fecha de reconocimiento de la obligación y el importe total de la liquidación valorada al tipo de cambio de la fecha del pago.
+
+154. Fecha en que se ha realizado la conversión.
+
+155. Importe del valor de reembolso total de los títulos presentados a conversión.
+
+156. Importe del valor de emisión de los títulos presentados a conversión.
+
+157. Diferencia entre el importe emitido para conversión y el importe amortizado por conversión.
+
+158. Diferencia entre el importe amortizado por conversión y el importe emitido para conversión.
+
+159. Importe que se prescribe.
+
+160. Importe que se rehabilita.
+
+161. Fecha en que se ha realizado la emisión y amortización simultánea.
+
+162. Fecha de amotización prevista para la deuda que se emite.
+
+163. Diferencia entre el valor nominal y el efectivo de la deuda que se emite.
+
+164. Diferencia entre el valor nominal y el efectivo de la deuda que se amortiza.
+
+165. Parte de los rendimientos implícitos devengada en el ejercicio.
+
+166. Importe del nominal de la deuda valorado al tipo de cambio de la fecha del reembolso.
+
+167. Diferencias de cambio producidas desde la fecha de la regularización anterior hasta la fecha del reembolso.
+
+168. Importe líquido que se ingresa en el Banco de España.
+
+169. Importe total de los valores de emisión de las deudas emitidas en el ejercicio.
+
+170. Importe total de los valores de emisión de las deudas amortizadas en el ejercicio.
+
+171. Diferencia entre el importe total de los valores de emisión de las deudas amortizadas en el ejercicio y el importe total de las deudas emitidas en el ejercicio, cuando el primero es mayor que el segundo.
+
+172. Diferencia entre el importe total de los valores de emisión de las deudas emitidas en el ejercicio y el importe total de los valores de emisión de las deudas amortizadas en el ejercicio, cuando el primero es mayor que el segundo.
+
+173. Fecha de la operación de regularización.
+
+174. Importe de las divisas a reembolsar valoradas al tipo de cambio de la fecha de reconocimiento de la obligación.
+
+175. Diferencias que a veces se pagan o se cobran por ejercer el derecho de amortizar anticipadamente la deuda.
+
+176. Importe total a pagar al prestamista valorado al tipo de cambio de la fecha de reconocimiento de la obligación.
+
+177. Las producidas entre la fecha del pago y la fecha del reconocimiento de la obligación y, por tanto, entre el valor de reembolso total y el valor de reembolso efectivo.
+
+178. Importe por el que figura contablizada la deuda antes de la regularización.
+
+179. Tipo de cambio vigente en la fecha de regularización para la moneda en que está formalizada la deuda.
+
+180. Diferencia entre el valor de reembolso a la fecha de regularización y el valor de reembolso contabilizado antes de la regularización, cuando el segundo es mayor que el primero.
+
+181. Diferencia entre el valor de reembolso a la fecha de regularización y el valor de reembolso contabilizado antes de la regularización, cuando el primero es mayor que el segundo.
+
+182. Importe que resulta de aplicar al importe en divisas contabilizado el tipo de cambio de la fecha de regularización.
+
+183. Fecha de vencimiento de la próxima liquidación de intereses explícitos.
+
+184. Importe de la próxima liquidación de intereses valorada al tipo de cambio de la fecha de la regularización.
+
+185. Parte de la próxima liquidación de intereses que se ha devengado en el ejercicio corriente, valorada al tipo de cambio de la fecha de regularización.
+
+186. Fecha de amortización prevista de la deuda.
+
+187. Valor de reembolso de la deuda que se reclasifica de largo a corto plazo.
+
+188. Importe de los gastos financieros diferidos que se han devengado en el ejercicio corriente.
+
+190. Importe de los ingresos financieros diferidos que se han devengado en el ejercicio corriente.
+
+191. Fecha en la que se realiza la periodificación o la imputación a resultados de los rendimientos implícitos.
+
+192. Parte de los rendimientos implícitos totales que se deben imputar a resultados del ejercicio corriente.
+
+193. Parte de los rendimientos implícitos totales que se deben imputar a resultados del ejercicio siguiente.
+
+194. Parte de los rendimientos implícitos totales que se imputaron a resultados del ejercicio anterior.
+
+195. Parte de los rendimientos implícitos totales periodificados a fin del ejercicio anterior que se imputan a resultados del ejercicio corriente.
+
+196. Importe de los títulos convertidos valorados al precio de conversión.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 58, de 7 de marzo de 1996. Ref. BOE-A-1996-5270.
