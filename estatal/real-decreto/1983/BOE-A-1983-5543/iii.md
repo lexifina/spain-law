@@ -138,6 +138,8 @@ a) La mezcla de aceite de oliva o de orujo con los de semillas o con cualquier o
 
 b) La adicción a los aceites destinados para el consumo humano, de aceites minerales, esterificados o de síntesis.
 
-c) La mezcla de aceite de soja con otros aceites de semilla.
+c) (Derogada)
+
+> Se deroga el apartado 6.7.c) por la disposición derogatoria del Real Decreto 98/1992, de 7 de febrero. Ref. BOE-A-1992-3273.
 
 > Redactado el apartado 1.6 conforme a la corrección de errores publicada en BOE núm. 117, de 17 de mayo de 1983. Ref. BOE-A-1983-14026.
