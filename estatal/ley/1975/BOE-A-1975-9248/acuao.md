@@ -1,6 +1,6 @@
 ## Artículo cuarto.
 
-1. El Presidente del Organismo será el Subsecretario del Ministerio de adscripción de la Oficina Española de Patentes y Marcas.
+1. El Presidente del Organismo será el titular del órgano superior o directivo del Ministerio de adscripción de la Oficina Española de Patentes y Marcas, de acuerdo con lo que establezca su Estatuto.
 
 2. Son facultades del Presidente del Organismo:
 
@@ -15,6 +15,8 @@ d) Aprobar el anteproyecto del presupuesto de ingresos y gastos, así como la li
 e) Aprobar la memoria anual de actividades del Organismo.
 
 f) Adoptar, en su caso, acuerdos sobre los asuntos que por su naturaleza e importancia sean sometidos a su conocimiento.
+
+> Se modifica el apartado 1 por el art. 85 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
 
 > Se modifica por la disposición adicional 13.2 de la Ley 17/2001, de 7 de diciembre. Ref. BOE-A-2001-23093.
 

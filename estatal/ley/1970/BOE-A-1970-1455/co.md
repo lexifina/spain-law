@@ -1,0 +1,1 @@
+Téngase en cuenta que el cuerpo técnico de instituciones penitenciarias, creado por esta Ley, pasa a denominarse cuerpo superior de técnicos de instituciones penitenciarias, según establece el art. 56 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412#a56.

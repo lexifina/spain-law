@@ -66,11 +66,15 @@ Durante las dos fases citadas podrán encomendarse a los funcionarios afectados 
 
 La reasignación de efectivos como consecuencia de un Plan de Empleo en las demás Administraciones Públicas, se efectuará garantizando los criterios anteriormente expuestos sobre plazos, retribuciones, movilidad y situaciones administrativas.
 
+h) La Administración General del Estado podrá adscribir a los funcionarios a puestos de trabajo en distinta unidad o localidad, previa solicitud basada en motivos de salud o rehabilitación del funcionario, su cónyuge o los hijos a su cargo, con previo informe del servicio médico oficial legalmente establecido y condicionado a que existan puestos vacantes con asignación presupuestaria cuyo nivel de complemento de destino y específico no sea superior al del puesto de origen, y se reúnan los requisitos para su desempeño. Dicha adscripción tendrá carácter definitivo cuando el funcionario ocupara con tal carácter su puesto de origen.
+
 2. El Gobierno, y en el ámbito de sus competencias los Consejos de Gobierno de las Comunidades Autónomas y el Pleno de las Corporaciones Locales, determinarán el número de puestos con sus características y retribuciones, reservados a personal eventual, siempre dentro de los créditos presupuestarios consignados al efecto.
 
 El personal eventual sólo ejercerá funciones expresamente calificadas de confianza o asesoramiento especial y su nombramiento y cese, que serán libres, corresponden exclusivamente a los Ministros y a los Secretarios de Estado, y, en su caso, a los Consejeros de Gobierno de las Comunidades Autónomas y a los Presidentes de las Corporaciones Locales. El personal eventual cesará automáticamente cuando cese la autoridad a la que preste su función de confianza o asesoramiento.
 
 3. En ningún caso el desempeño de un puesto de trabajo reservado a personal eventual constituirá mérito para el acceso a la función pública o la promoción interna.
+
+> Se añade el apartado 1.h) por el art. 50.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
 
 > Se añade el último párrafo al apartado 1.c) y se suprime el apartado 1.d) por el art. 36 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
 

@@ -4,4 +4,8 @@
 
 2. Por los Registros Civiles, dependientes de la Dirección General de los Registros y del Notariado del Ministerio de Justicia, en colaboración con los correspondientes del Ministerio de Hacienda, se facilitarán a la Mutualidad General de Funcionarios Civiles del Estado, y dentro del plazo de tres meses contados a partir de la fecha en que aparezcan los hechos respectivos, los datos personales informatizados de todas las defunciones, así como de los matrimonios de las personas viudas.
 
-3. Los datos que se faciliten deberán identificar, en todo caso, nombre y apellidos, documento nacional de identidad y domicilio.
+3. A fin de facilitar la gestión del control del colectivo de MUFACE, mediante la comprobación de la concordancia de sus datos con los correspondientes del Registro Central de Personal, éste remitirá mensualmente las inscripciones y anotaciones obrantes en dicho Registro en relación con los actos de toma de posesión, cambio de situaciones administrativas, pérdida de la condición de funcionario o jubilación. Igualmente, facilitará la información de esta naturaleza que, según la normativa de coordinación con los Registros de las restantes Administraciones Públicas, reciba de éstas.
+
+4. Los datos que se faciliten deberán identificar, en todo caso, nombre y apellidos, documento nacional de identidad y domicilio.
+
+> Se modifica el contenido del apartado 3, y el actual apartado 3 se renumera como 4 por el art. 45. 2 y 3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.

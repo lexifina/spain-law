@@ -1,6 +1,8 @@
 ## Disposición adicional segunda. Apoyo financiero a empresas de base tecnológica.
 
-1. Se crea una línea de apoyo a la capitalización de empresas de base tecnológica, cuyo objeto será la financiación de la toma de participación en el capital de empresas de alto contenido tecnológico por parte de entidades financieras cuyo objeto social sea la participación temporal en el capital de empresas no financieras. Las citadas entidades financieras deberán estar registradas ante la Comisión Nacional del Mercado de Valores y/o supervisadas por el Banco de España.
+1. Se crea una línea de apoyo a la capitalización de empresas de base tecnológica, cuyo objeto será la financiación de la toma de participación en el capital de empresas de alto contenido tecnológico por parte de entidades financieras cuyo objeto social sea la participación temporal en el capital de empresas no financieras.
+
+Las citadas entidades financieras deberán estar, en caso de resultar legalmente obligadas a ello, registradas ante la Comisión Nacional del Mercado de Valores y/o supervisadas por el Banco de España.
 
 La citada línea de apoyo revestirá la fórmula de préstamo concedido por el Ministerio de Ciencia y Tecnología a la entidad financiera con un máximo de siete años de período de amortización y a un tipo de interés cero, y se podrá conceder sin avales ni garantías adicionales a la propia viabilidad del proyecto.
 
@@ -35,3 +37,5 @@ ENISA obtendrá en concepto de comisión de gestión un porcentaje de los fondos
 Anualmente se establecerá en la Ley de Presupuestos Generales del Estado el importe máximo de las operaciones que podrán ser autorizadas en cada ejercicio con cargo a la presente línea de apoyo.
 
 3. En el ejercicio de 2000, las líneas establecidas en los apartados anteriores se financiarán con cargo a las aplicaciones presupuestarias 20.04.542E.821.18. y 20.04.542E.831.18, y en ejercicios sucesivos con cargo a las aplicaciones presupuestarias equivalentes.
+
+> Se modifica el párrafo primero del apartado 1 por el art. 95 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.

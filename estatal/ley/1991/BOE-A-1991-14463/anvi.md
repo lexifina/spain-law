@@ -1,23 +1,11 @@
 ## ANEXO VI
 
-1. Se aplicará el tipo cero del IGIC en la importación y entrega de los productos siguientes:
+Se aplicarán los siguientes tipos impositivos del Impuesto General Indirecto Canario cuando las operaciones a las que se refieren los distintos apartados estén sujetas y no exentas del Arbitrio sobre Importaciones y Entregas de Mercancías:
 
-1.º Conservas de pescado.
+1. Tipo cero del impuesto general indirecto canario en la importación y entrega de los bienes muebles corporales incluidos en las partidas arancelarias 1604, 4418, 481840, 6802, 7308, 9401 y 9403, cuando, en los dos últimos casos, los muebles sean de madera o de plástico.
 
-2.º Piedra para la construcción, excepto la pizarra.
+2. Tipo reducido del 2 por 100 del Impuesto General Indirecto Canario en la importación y entrega de muebles de metal incluidos en las partidas arancelarias 9401 y 9403 (excepto la 9403209900).
 
-3.º Construcciones y partes de construcciones de fundición, de hierro o acero, excepto las construcciones prefabricadas para invernaderos.
-
-4.º Chapas, barras, perfiles y tubos de fundición, de hierro o acero.
-
-5.º Piezas de madera para la construcción.
-
-6.º Muebles de madera o de plástico y sus partes, excepto el mobiliario para fines médicos o veterinarios.
-
-7.º Pañales, compresas y tampones.
-
-2. Se aplicará el tipo reducido del dos por ciento del IGIC en la importación y entrega de muebles de metal, con excepción del mobiliario para fines médicos o veterinarios y de las estanterías metálicas.
-
-3. Se aplicará el tipo general del IGIC en la importación y entrega de gin, ginebra, vodka y licores, conforme a las definiciones del Estatuto de la Viña, del Vino y de los Alcoholes y Reglamentaciones Complementarias.
+> Se modifica por el art. 8.22 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
 
 > Se añade por el art. 10.1.22 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965

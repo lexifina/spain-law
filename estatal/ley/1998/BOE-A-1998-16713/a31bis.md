@@ -1,0 +1,5 @@
+## Artículo 31 bis. Tarifas especiales.
+
+Cuando se apliquen tarifas especiales, tales como a los servicios a las empresas, a los remitentes de envíos masivos o a los preparadores del correo de varios clientes, los proveedores del servicio universal deberán respetar los principios de transparencia y no discriminación por lo que se refiere a las tarifas y a las condiciones asociadas. Dichas tarifas deberán tener en cuenta los costes evitados en relación con los servicios ordinarios que incluyen la totalidad de las prestaciones ofrecidas para la recogida, transporte, clasificación y entrega de envíos postales individuales y aplicarse, junto con las condiciones correspondientes, tanto respecto a terceros, como a la relación de éstos con los proveedores universales que prestan servicios equivalentes. Tales tarifas se propondrán también a los clientes particulares que utilicen estos servicios en condiciones similares.
+
+> Se añade por el art. 106.15 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412

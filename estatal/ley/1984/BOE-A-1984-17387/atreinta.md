@@ -2,7 +2,9 @@
 
 1. Se concederán permisos por las siguientes causas justificadas:
 
-a) Por el nacimiento de un hijo y la muerte o enfermedad grave de un familiar hasta el segundo grado de consanguinidad o afinidad, dos días cuando el suceso se produzca en la misma localidad, y cuatro días cuando sea en distinta localidad.
+a) Por el nacimiento, acogimiento o adopción de un hijo y por el fallecimiento, accidente o enfermedad graves de un familiar dentro del primer grado de consaguinidad o afinidad, tres días hábiles cuando el suceso se produzca en la misma localidad, y cinco días hábiles cuando sea en distinta localidad.
+
+Cuando se trate del fallecimiento, accidente o enfermedad graves de un familiar dentro del segundo grado de consaguinidad o afinidad, el permiso será de dos días hábiles cuando el suceso se produzca en la misma localidad y cuatro días hábiles cuando sea en distinta localidad.
 
 b) Por traslado de domicilio sin cambio de residencia, un día.
 
@@ -10,13 +12,15 @@ c) Para realizar funciones sindicales, de formación sindical o de representaci�
 
 d) Para concurrir a exámenes finales y demás pruebas definitivas de aptitud y evaluación en Centros oficiales, durante los días de su celebración.
 
-e) El funcionario con un hijo menor de nueve meses tendrá derecho a una hora diaria de ausencia del trabajo. Este período de tiempo podrá dividirse en dos fracciones o sustituirse por una reducción de la jornada en media hora.
+e) Las funcionarias embarazadas tendrán derecho a ausentarse del trabajo para la realización de exámenes prenatales y técnicas de preparación al parto, por el tiempo necesario para su práctica y previa justificación de la necesidad de su realización dentro de la jornada de trabajo.
 
-e.bis) En los casos de nacimientos de hijos prematuros o que, por cualquier causa, deban permanecer hospitalizados a continuación del parto, la funcionaria o el funcionario tendrán derecho a ausentarse del trabajo durante una hora. Asimismo, tendrán derecho a reducir su jornada de trabajo hasta un máximo de dos horas, con la disminución proporcional de sus retribuciones.
+f) La funcionaria, por lactancia de un hijo menor de nueve meses, tendrá derecho a una hora diaria de ausencia del trabajo, que podrá dividir en dos fracciones. Este derecho podrá sustituirse por una reducción de la jornada normal en media hora al inicio y al final de la jornada, o en una hora al inicio o al final de la jornada, con la misma finalidad. Este derecho podrá ser ejercido indistintamente por el padre o la madre, en el caso de que ambos trabajen.
+
+f.bis) En los casos de nacimientos de hijos prematuros o que, por cualquier causa, deban permanecer hospitalizados a continuación del parto, la funcionaria o el funcionario tendrán derecho a ausentarse del trabajo durante una hora. Asimismo, tendrán derecho a reducir su jornada de trabajo hasta un máximo de dos horas, con la disminución proporcional de sus retribuciones.
 
 Reglamentariamente se determinará la disminución de jornada de trabajo y la reducción proporcional de retribuciones.
 
-f) El funcionario, que por razones de guarda legal tenga a su cuidado directo algún menor de seis años, anciano que requiera especial dedicación o a un disminuido psíquico o físico que no desempeñe actividad retribuida, tendrá derecho a la disminución de su jornada de trabajo, con la reducción proporcional de sus retribuciones. Reglamentariamente se determinará la disminución de jornada de trabajo y la reducción proporcional de retribuciones.
+g) El funcionario, que por razones de guarda legal tenga a su cuidado directo algún menor de seis años, anciano que requiera especial dedicación o a un disminuido psíquico o físico que no desempeñe actividad retribuida, tendrá derecho a la disminución de su jornada de trabajo, con la reducción proporcional de sus retribuciones. Reglamentariamente se determinará la disminución de jornada de trabajo y la reducción proporcional de retribuciones.
 
 2. Podrán concederse permisos por el tiempo indispensable para el cumplimiento de un deber inexcusable de carácter público o personal.
 
@@ -30,11 +34,15 @@ En los supuestos de adopción o acogimiento, tanto preadoptivo como permanente, 
 
 En los casos de disfrute simultáneo de períodos de descanso, la suma de los mismos no podrá exceder de las dieciséis semanas previstas en los apartados anteriores o de las que correspondan en caso de parto múltiple.
 
+Los permisos a que se refiere el presente apartado podrán disfrutarse en régimen de jornada completa o a tiempo parcial, a solicitud de los funcionarios y si lo permiten las necesidades del servicio, en los términos que reglamentariamente se determinen.
+
 En los supuestos de adopción internacional, cuando sea necesario el desplazamiento previo de los padres al país de origen del adoptado, el permiso previsto para cada caso en el presente artículo, podrá iniciarse hasta cuatro semanas antes de la resolución por la que se constituye la adopción.
 
 4. Los funcionarios a quienes falten menos de cinco años para cumplir la edad de jubilación forzosa, establecida en el artículo 33 de esta Ley, podrán obtener, a su solicitud, la reducción de su jornada de trabajo hasta un medio, con la reducción de retribuciones que se determine reglamentariamente, siempre que las necesidades del servicio lo permitan.
 
 Dicha reducción de jornada podrá ser solicitada y obtenida, de manera temporal, por aquellos funcionarios que la precisen en procesos de recuperación por razón de enfermedad, siempre que las necesidades del servicio lo permitan.
+
+> Se modifican los apartados 1 y 3 por el art. 58.1 a .4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
 
 > Se añade el apartado 1.e.bis y el párrafo tercero al apartado 3, reordenándose los párrafos existentes por la disposición adicional 8.2.a) y b) de la Ley 12/2001, de 9 de julio. Ref. BOE-A-2001-13265
 

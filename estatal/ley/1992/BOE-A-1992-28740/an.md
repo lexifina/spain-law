@@ -26,11 +26,11 @@ a) En relación con los bienes objeto de Impuestos Especiales, el régimen de de
 
 A los efectos del párrafo anterior, la electricidad no tendrá la consideración de bien objeto de los Impuestos Especiales.
 
-b) En relación con los demás bienes, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable a los bienes excluidos del régimen de depósito aduanero por razón de su origen o procedencia, con sujeción en lo demás, a las mismas normas que regulan el mencionado régimen aduanero.
+b) En relación con los demás bienes, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable a los bienes excluidos del régimen de depósito aduanero por razón de su origen o procedencia con sujeción, en lo demás, a las mismas normas que regulan el mencionado régimen aduanero.
 
 También se incluirán en este régimen los bienes que se negocien en mercados oficiales de futuros y opciones basados en activos no financieros, mientras los referidos bienes no se pongan a disposición del adquirente.
 
-El régimen de depósito distinto de los aduaneros a que se refiere esta letra b) no será aplicable a los bienes destinados a su entrega a personas que no actúen como empresarios o profesionales.
+El régimen de depósito distinto de los aduaneros a que se refiere este párrafo b) no será aplicable a los bienes destinados a su entrega a personas que no actúen como empresarios o profesionales con excepción de los destinados a ser introducidos en las tiendas libres de impuestos.
 
 Sexto. Liquidación del impuesto en los casos comprendidos en el artículo 19, número 5.o, párrafo segundo, de esta Ley.
 
@@ -124,6 +124,8 @@ Se considerarán oro de inversión a efectos de esta Ley los lingotes o láminas
 | 5 | tael. |
 | 1 | tael. |
 | 10 | tolas. |
+
+> Se modifica el apartado 5º b) por el art. 4.28 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
 
 > Se deroga el apartado 8º por la disposición derogatoria única.3 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
 

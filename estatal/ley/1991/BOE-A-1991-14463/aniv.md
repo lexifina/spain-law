@@ -8,7 +8,7 @@
 | 020319 | Las demás (porcino fresco o refrigerado). | 5 |
 | 020711 | Sin trocear, frescos o refrigerados (gallo o gallina). | 5 |
 | 020713 | Trozos y despojos, frescos o refrigerados (gallo o gallina). | 5 |
-| 0302696100 | Doradas de mar (de las especies Dentex dentex y Pagellus Spp.) fresca o refrigerada. | 5 |
+| (Suprimido) |  |  |
 | 0302699400 | Robalos o Lubinas (Dicentrarchus Labrax) fresca o refrigerada. | 5 |
 | 04070030 | Los demás (Huevos de aves de corral no destinados a incubar). | 15 |
 | 070190 | Patatas frescas o refrigeradas, excepto para siembra. | 5 |
@@ -34,21 +34,21 @@
 | 6809 | Manufacturas de yeso o de preparaciones a base de yeso. | 5 |
 | 7010 | Bombonas, botellas, frascos, tarros, potes, envases tubulares, ampollas y demás recipientes para el transporte o envasado; de vidrio; tarros de vidrio para conservas; tapones; tapas y demás dispositivos de cierre de vidrio. | 15 |
 |  | Producción y refino de petróleo |  |
-| 2710002700 | Las demás gasolinas con un contenido en plomo igual o inferior a 0,013 g. por litro con un octanaje inferior a 95. | 7 euros/1000 litros |
-| 2710002900 | Las demás gasolinas con un contenido en plomo igual o inferior a 0,013 g. por litro con un octanaje igual o superior a 95 pero inferior a 98. | 7 euros/1000 litros |
-| 2710003200 | Las demás gasolinas con un contenido en plomo igual o inferior a 0,013 g. por litro con un octanaje igual o superior a 98. | 7,5 euros/1000 litros |
-| 2710003400 | Las demás gasolinas con un contenido en plomo superior a 0,013 g. por litro con un octanaje inferior a 98. | 7,5 euros/1000 litros |
-| 2710003900 | Los demás aceites ligeros. | 7,5 euros/1000 litros |
-| 2710005100 | Aceites medios carburorreactores. | 8,5 euros/1000 litros |
-| 2710005500 | Los demás aceites medios. | 8,5 euros/1000 litros |
-| 2710006600 | Aceites pesados o gasóleos que se destinen a otros usos con un contenido en azufre inferior o igual al 0,05 por 100. | 6,5 euros/1000 litros |
-| 2710006700 | Aceites pesados o gasóleos que se destinen a otros usos con un contenido en azufre superior al 0,05 por 100 pero inferior o igual al 0,2 por 100. | 6,5 euros/1000 litros |
-| 2710006800 | Aceites pesados o gasóleos que se destinen a otros usos con contenido en azufre superior al 0,2 por 100. | 6,5 euros/1000 litros |
-| 2710007200 | Fuel que se destine a una transformación química mediante un tratamiento distinto de los definidos para la subpartida 27100071. | 4 euros/Tm |
-| 2710007400 | Fuel que se destine a otros usos con un contenido en azufre inferior o igual al 1%. | 4 euros/Tm |
-| 2710007600 | Fuel que se destine a otros usos con un contenido en azufre superior al 1% sin exceder del 2%. | 4 euros/Tm |
-| 2710007700 | Fuel que se destine a otros usos con un contenido en azufre superior al 2% sin exceder del 2,8%. | 4 euros/Tm |
-| 2710007800 | Fuel que se destine a otros usos con un contenido en azufre superior al 2,8%. | 4 euros/Tm |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
 | 2711121100 | Propano de pureza igual o superior al 99% que se destine a ser empleado como carburante o como combustible. | 12 euros/Tm |
 | 2711121900 | Propano de pureza igual o superior al 99% que se destine a otros usos. | 12 euros/Tm |
 | 2711129400 | Propano los demás, que se destinen a otros usos de pureza superior al 90% pero inferior al 99%. | 12 euros/Tm |
@@ -74,7 +74,7 @@
 | 38099100 | Del tipo de los utilizados en la industria textil o industrias similares (Aprestos y productos de acabado, aceleradores de tintura o de fijación de materias colorantes y demás productos y preparaciones del tipo de los utilizados en la industria textil, del papel, del cuero o industrias similares, no expresados ni comprendidos en otras partidas). | 15 |
 | 3814009090 | Los demás (disolventes o diluyentes orgánicos compuestos no expresados en otras partidas, preparaciones para quitar pinturas o barnices). | 5 |
 | 391690 | De los demás plásticos, de productos de polimerización de reorganización o de condensación; incluso modificados químicamente (Monofilamentos cuya mayor dimensión del corte transversal sea superior a 1 m/m; barras; varillas y perfiles; incluso trabajados en la superficie; pero sin otra labor; de los demás plásticos). | 5 |
-| 3917 | Tubos y accesorios de tubería de plástico | 15 |
+| (Suprimido) |  |  |
 | 3920300090 | Las demás láminas de polímeros de estireno. | 5 |
 | 392071 | Las demás placas, hojas, películas de celulosa regenerada. | 5 |
 | 3920790000 | Las demás placas, hojas, películas derivadas de la celulosa. | 5 |
@@ -86,22 +86,22 @@
 | 39239090 | Los demás (artículos para el transporte o envasado, de plástico, tapones, tapas, cápsulas y demás dispositivos de cierre de plástico). | 5 |
 | 39241000 | Vajilla y demás artículos para el servicio de mesa o de cocina de plástico. | 15 |
 | 39249090 | Los demás artículos de uso doméstico y artículos de higiene o de tocador de plástico. | 5 |
-| 401210 | Neumáticos recauchutados. | 5 |
+| (Suprimido) |  |  |
 |  | Industrias metálicas |  |
 | 7308 | Construcciones y partes de construcciones (por ejemplo: puentes y partes de puentes; compuertas de esclusas; torres; castilletes; pilares; columnas; cubiertas; tejados; puertas; ventanas y sus marcos; bastidores y umbrales; cortinas de cierre y balaustradas); de fundición; de hierro o de acero; con excepción de las construcciones prefabricadas de la partida 9406; chapas; barras; perfiles; tubos y similares; de fundición; de hierro o de acero; preparados para la construcción. | 5 |
 | 730900 | Depósitos; cisternas; cubas y recipientes similares para cualquier materia (con excepción de los gases comprimidos o licuados); de fundición; de hierro o de acero; de capacidad superior a 300 litros; sin dispositivos mecánicos ni térmicos; incluso con revestimiento interior o calorífugo, excepto los comprendidos en la partida 73090090. | 15 |
-| 7325 | Las demás manufacturas moldeadas; de fundición; de hierro o de acero | 15 |
+| (Suprimido) |  |  |
 | 7604 | Barras y perfiles; de aluminio. | 5 |
 | 7608 | Tubos de aluminio. | 5 |
 | 7610 | Construcciones y partes de construcciones (por ejemplo: puentes y partes de puentes; torres; castilletes; pilares; columnas; cubiertas; tejados; puertas; ventanas y sus marcos; bastidores y umbrales; y balaustradas); de aluminio; con excepción de las construcciones prefabricadas de la partida 9406; chapas; barras; perfiles; tubos y similares; de aluminio; preparados para la construcción. | 15 |
 | 8428399800 | Los demás (transelevadores y almacenes automáticos) | 5 |
 | 8479500000 | Robots industriales, no expresados ni comprendidos en otra parte | 5 |
-| 85445910 | Hilos y cables para electricidad; con cabos de diámetro superior a 0,51 mm. | 5 |
+| (Suprimido) |  |  |
 | 9401 | Asientos (con exclusión de la partida 9402) incluso los transformables en cama y sus partes. | 5 |
 | 9403 excepto la 9403209900 | Los demás muebles y sus partes | 5 |
 | 9403209900 | Los demás (Estanterías metálicas). | 15 |
-| 9404 | Somieres; artículos de cama y artículos similares (por ejemplo: colchones, cubrepiés, edredones, cojines, pufes o almohadas); con muelles o bien rellenos o guarnecidos interiormente con cualquier materia; incluidos los de caucho o plástico celulares; recubiertos o no. | 15 |
-| 94060031 | Construcciones prefabricadas de hierro o de acero para invernaderos. | 5 |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
 |  | Alimentación y bebidas |  |
 | 0210111100 | Jamones y trozos de jamón salados o en salmuera. | 5 |
 | 0210113100 | Jamones y trozos de jamón secos o ahumados. | 5 |
@@ -113,16 +113,16 @@
 | 03054100 | Salmones del Pacífico, salmones del Atlántico y salmones del Danubio (salmones ahumados) | 5 |
 | 0305494590 | Los demás (trucha ahumada) | 5 |
 | 0403 | Suero de mantequilla, leche y nata, cuajadas, yogur, kefir y demás leches y natas fermentadas o acidificadas, incluso concentrados, azucarados, edulcorados de otro modo o aromatizados o con fruta o cacao. | 15 |
-| 0406 | Queso y requesón, excepto 0406902300 y 0406907800. | 0 |
+| (Suprimido) |  |  |
 | 090121 | Café tostado sin descafeinar. | 15 |
 | 0901220000 | Café tostado descafeinado. | 5 |
 | 09019090 | Sucedáneos del café que contengan café. | 5 |
 | 1101 | Harina de trigo y de morcajo o tranquillón. | 5 |
-| 1507909000 | Los demás (aceite de soja y sus fracciones, incluso refinado pero sin modificar químicamente). | 0 |
-| 1508909000 | Los demás (aceite de cacahuete y sus fracciones, incluso refinado pero sin modificar químicamente). | 0 |
-| 1512199100 | De girasol (aceites de girasol, de cartamo o de algodón, y sus fracciones, incluso refinados, pero sin modificar químicamente). | 0 |
-| 1514909000 | Los demás (aceite de nabina, de colza o de mostaza, y sus fracciones, incluso refinados, pero sin modificar químicamente). | 0 |
-| 1515299000 | Los demás (las demás grasas y aceites vegetales fijos, incluido el aceite de jojoba y sus fracciones, incluso refinados, pero sin modificar químicamente.) | 0 |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
 | 1601 | Embutidos y productos similares; de carne; de despojos o de sangre; preparaciones alimenticias a base de estos productos. | 5 |
 | 1602 | Las demás preparaciones y conservas de carne; de despojos o de sangre. Excepto 1602503100 Cecina de bovino (Corned beef). | 5 |
 | 1604 | Preparaciones y conservas de pescado, caviar y sus sucedáneos, preparados con huevas de pescado. | 5 |
@@ -143,27 +143,27 @@
 | 20029091 | Los demás tomates preparados o conservados (excepto en vinagre o ácido acético); con un contenido en materia seca superior al 30% en peso; en envases inmediatos con un contenido neto superior a 1 kg. | 5 |
 | 2006003100 | Cerezas confitadas con un contenido de azúcar superior al 13% en peso. | 5 |
 | 20079110 | Con un contenido de azúcar superior al 30% en peso. (Compotas, jaleas y mermeladas, purés y pastas de frutos, obtenidos por cocción, incluso azucarados de otro modo). | 5 |
-| 20079939 | Las demás (compotas, jaleas y mermeladas, purés y pastas de frutos, obtenidos por cocción, incluso azucarados de otro modo.) | 5 |
+| (Suprimido) |  |  |
 | 20089961 | Conservas de frutos de la pasión y guayabas. | 5 |
 | 20089968 | Los demás (frutas u otros frutos y demás partes comestibles de plantas, preparados o conservados de otra forma, incluso azucarados, edulcorados de otro modo o con alcohol, no expresado ni comprendido en otras partidas.) | 5 |
-| 200911 | Jugo de naranja congelado. | 5 |
-| 200919 | Los demás jugos de naranja. | 5 |
-| 200940 | Jugo de piña. | 5 |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
 | 200950 | Jugo de tomate. | 5 |
-| 200970 | Jugo de manzana. | 5 |
+| (Suprimido) |  |  |
 | 200980 | Jugos de cualquier otra fruta o fruto, u hortaliza, incluso silvestre. | 5 |
-| 200990 | Mezclas de jugos. | 5 |
+| (Suprimido) |  |  |
 | 2101 | Extractos, esencias y concentrados de café, té o yerba mate y preparaciones a base de estos productos o a base de café, té o yerba mate; achicoria tostada y demás sucedáneos del café tostado y sus extractos, esencias y concentrados. | 5 |
-| 2103 | Preparaciones para salsas y salsas preparadas; condimentos y sazonadores; compuestos; harina de mostaza y mostaza preparada. | 15 |
+| (Suprimido) |  |  |
 | 2105 21069098 | Helados y productos similares incluso con cacao. Las demás preparaciones alimenticias no expresadas ni comprendidas en otras partidas. Los demás. Excluidas la 2106909823,2106909827, 2106909833, 2106909837, 2106909843 y 2106909847. | 5 15 |
 | 2201 | Agua, incluida el agua mineral natural o artificial y la gasificada; sin azucarar o edulcorar de otro modo ni aromatizar, hielo y nieve. | 5 |
 | 2202 | Agua, incluidas el agua mineral y la gasificada, con adición de azúcar u otro edulcorante o aromatizada y las demás bebidas no alcohólicas (excepto los jugos de frutas u otros frutos o de hortalizas de la partida 2009). | 5 |
 | 2203 | Cerveza de malta. | 15 |
 | 2204 | Vino de uvas; incluso encabezado; mosto de uva; excepto el de la partida n.º 2009 | 0 |
 | 220840 | Ron y aguardiente de caña y tafia. | 15 |
-| 220850 | Ginebra y Gin. | 15 |
-| 220860 | Vodka. | 15 |
-| 220870 | Licores. | 15 |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
 | 2309 | Preparaciones del tipo de las usadas para la alimentación animal. | 5 |
 |  | Tabaco |  |
 | 2402 | Cigarros o puros (incluso despuntados), puritos y cigarrillos, de tabaco o de sucedáneos de tabaco. | 25 |
@@ -185,19 +185,77 @@
 | 481810 | Papel higiénico. | 15 |
 | 481820 | Pañuelos, toallitas para desmaquillaje y toallas de papel. | 15 |
 | 481830 | Manteles y servilletas de papel. | 15 |
-| 481840 | Compresas y tampones higiénicos; pañales y artículos higiénicos similares. | 5 |
+| (Suprimido) |  |  |
 | 4818909010 | Artículos para uso quirúrgico, medico o higiénico, sin acondicionar para la venta al por menor, hechos a mano. | 15 |
-| 4819 | Cajas; sacos; bolsas; cucuruchos y demás envases de papel; cartón; guata de celulosa o napas de fibras de celulosa; cartonajes de oficina, tienda o similares. | 15 |
+| (Suprimido) |  |  |
 | 4821 | Etiquetas de todas clases de papel o cartón; incluso impresas. | 15 |
 | 482290 | Tambores, bobinas o soportes de pasta de papel, salvo los del tipo utilizado para el bobinado de hilados textiles. | 5 |
-| 48235910 | Para máquinas de oficina y similares; en bandas o en bobinas. | 15 |
-| 48235990 | Los demás (los demás papeles, cartones, guatas de celulosa y napas de fibras de celulosa, cortados a su tamaño, los demás artículos de pasta de papel, de papel, cartón, guata de celulosa o de napas de fibra de celulosa). | 15 |
+| (Suprimido) |  |  |
+| (Suprimido) |  |  |
 | 4823909090 | Los demás (los demás papeles, cartones, guatas de celulosa y napas de fibras de celulosa, cortados a su tamaño, los demás artículos de pasta de papel, de papel, cartón, guata de celulosa o de napas de fibra de celulosa). | 5 |
 |  | Artes gráficas y su edición |  |
 | 4902 | Diarios y publicaciones periódicas, impresos incluso ilustrados o con publicidad. | 5 |
 | 4909 | Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales; incluso con ilustraciones; adornos o aplicaciones; o con sobre. | 15 |
 | 4910 | Calendarios de cualquier clase impresos; incluidos los tacos de calendario | 5 |
 | 4911 | Los demás impresos; incluidas las estampas; grabados y fotografías. | 15 |
+| P. Estadística | Descripción | Tipo |
+| --- | --- | --- |
+| 0302699500 | Pargos dorados («sparus aurata»). | 5 |
+| 200911 | Jugo de naranja congelado. Solamente gravados los productos de envase inferior a 150 kilos. | 5 |
+| 20091200 | Jugo de naranja sin congelar de valor Brix inferior o igual a 20. | 5 |
+| 200919 | Los demás jugos de naranja sin congelar. | 5 |
+| 200941 | Jugo de piña (de valor Brix inferior o igual a 20). Solamente gravados los productos de envase inferior a 150 kilos. | 5 |
+| 200949 | Los demás jugos de piña. Solamente gravados los productos de envase inferior a 150 kilos. | 5 |
+| 200971 | Jugo de manzana (de valor Brix inferior o igual a 20). | 5 |
+| 200979 | Los demás jugos de manzana. Solamente gravados los productos de envase inferior a 150 kilos. | 5 |
+| 200990 | Mezclas de jugos. Solamente gravados los productos de envase inferior a 150 kilos. | 5 |
+| 2103, salvo la 2103909081 | Preparaciones para salsas y salsas preparadas; condimentos y sazonadores; compuestos; harina de mostaza y mostaza preparada. | 15 |
+| 220850 | Ginebra y Gin. | 0 |
+| 220860 | Vodka. | 0 |
+| 220870 | Licores. | 0 |
+| 2710114100 | Las demás gasolinas con un contenido en plomo igual o inferior a 0,013 g por litro con un octanaje inferior a 95. | 7 euros/1.000 litros |
+| 2710114500 | Las demás gasolinas con un contenido en plomo igual o inferior a 0,013 g por litro con un octanaje inferior a 95. | 7 euros/1.000 litros |
+| 2710114900 | Las demás gasolinas con un contenido en plomo igual o inferior a 0,013 g por litro con un octanaje igual o superior a 98. | 7,5 euros/1.000 litros |
+| 2710115100 | Las demás gasolinas con un contenido en plomo superior a 0,013 g por litro con un octanaje inferior a 98. | 7,5 euros/1.000 litros |
+| 2710119000 | Los demás aceites ligeros. | 7,5 euros/1.000 litros |
+| 2710192100 | Aceites medios carburorreactores. | 8,5 euros/1.000 litros |
+| 2710192500 | Los demás aceites medios. | 8,5 euros/1.000 litros |
+| 2710194100 | Aceites pesados o gasóleos que se destinen a otros usos con un contenido en azufre inferior o igual al 0,05 por 100. | 6,5 euros/1.000 litros |
+| 2710194500 | Aceites pesados o gasóleos que se destinen a otros usos con un contenido en azufre superior al 0,05 por 100 pero inferior o igual al 0,2 por 100. | 6,5 euros/1.000 litros |
+| 2710194900 | Aceites pesados o gasóleos que se destinen a otros usos con contenido en azufre superior al 0,2 por 100. | 6,5 euros/1.000 litros |
+| 2710195500 | Fuel que se destine a una transformación química mediante un tratamiento distinto de los definidos para la subpartida 27101951. | 4 euros/Tm |
+| 2710196100 | Fuel que se destine a otros usos con un contenido en azufre inferior o igual al 1 por 100. | 4 euros/Tm |
+| 2710196300 | Fuel que se destine a otros usos con un contenido en azufre superior al 1 por 100 sin exceder del 2 por 100. | 4 euros/Tm |
+| 2710196500 | Fuel que se destine a otros usos con un contenido en azufre superior al 2 por 100 sin exceder del 2,8 por 100. | 4 euros/Tm |
+| 2710196900 | Fuel que se destine a otros usos con un contenido en azufre superior al 2,8 por 100. | 4 euros/Tm |
+| 391710 | Tripas artificiales de proteínas endurecidas o de plásticos celulósicos. | 0 |
+| 39172110 | Tubos rígidos de polímeros de etileno solamente gravados los de diámetro inferior a 250 mm. | 15 |
+| 39172199 | Los demás tubos rígidos de polímeros de etileno destinados a la agricultura con gotero insertado. | 0 |
+| 391722 | Tubos rígidos de polímeros de propileno. | 0 |
+| 391723 | Tubos rígidos de polímeros de cloruro de vinilo de pared compacta solamente gravados los de diámetro inferior a 400 mm. | 15 |
+| 391729 | Tubos rígidos de los demás plásticos. | 0 |
+| 391731 | Tubos flexibles para una presión igual o superior a 27,6 m.p.a. |  |
+| 39173210 | Los demás, sin reforzar ni combinar con otras materias, sin accesorios, de productos de polimerización de reorganización o de condensación, incluso modificados químicamente. | 0 |
+| 39173231 | Tubos rígidos de polímeros de etileno de doble pared del tipo estructural con rigidez circunferencial igual o superior a 6 KNm2. | 0 |
+| 39173235 | Tubos rígidos de polímeros de cloruro de vinilo de doble pared del tipo estructural con rigidez circunferencial igual o superior a 6 KNm2. | 0 |
+| 39173239 | Los demás, sin reforzar ni combinar con otras materias, sin accesorios, de los demás productos de polimerización de adición. | 15 |
+| 39173251 | Los demás, sin reforzar ni combinar con otras materias, sin accesorios. Solamente gravados los de diámetro inferior a 250 mm. | 15 |
+| 39173291 | Tripas artificiales. | 0 |
+| 39173299 | Los demás, sin reforzar ni combinar con otras materias, sin accesorios. Solamente gravados los de diámetro inferior a 250 mm. | 15 |
+| 391733 | Los demás, sin reforzar ni combinar con otras materias, con accesorios. Solamente gravados los de diámetro inferior a 250 mm. | 15 |
+| 391739 | Los demás. Solamente gravados los de diámetro inferior a 250 mm. | 15 |
+| 391740 | Accesorios. Solamente gravados los de polímeros de cloruro de vinilo con un diámetro inferior a 200 mm. |  |
+| 40121100 | Neumáticos recauchutados de los tipos utilizados en automóviles de turismo, incluidos los del tipo familiar (break o station wagon) y los de carreras. | 5 |
+| 40121200 | Neumáticos recauchutados de los tipos utilizados en autobuses o camiones. | 5 |
+| 401213 | Neumáticos recauchutados de los tipos utilizados en aeronaves. | 5 |
+| 40121900 | Los demás neumáticos recauchutados. | 5 |
+| 4819 | Cajas; sacos; bolsas; cucuruchos y demás envases de papel; cartón; guata de celulosa o napas de fibra de celulosa; cartonajes de oficina, tienda o similares, excepto los envases «tetrabrik» y «tetrapack» de la 481920 y la 481940. | 15 |
+| 48239014 | Los demás papeles y cartones de los tipos utilizados en la escritura, impresión u otros fines gráficos, sin imprimir, estampar o perforar. | 15 |
+| 9404, salvo la 940430 y la 940490 | Somieres, artículos de cama y artículos similares (por ejemplo: colchones, cubrepiés, edredones, cojines, pufes o almohadas), con muelles o bien rellenos o guarnecidos interiormente con cualquier materia; incluidos los de caucho o plástico celulares; recubiertos o no. | 15 |
+
+> Se modifica por el art. 9.7.1 y 3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+
+> Téngase en cuenta el art. 9.8 en cuanto a la exención del Arbitrio a las importaciones de determinados bienes para el 2002.
 
 > Se modifica por el art. 11.2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
 

@@ -20,17 +20,18 @@ que rodea a las islas de Monte Faro, Monteagudo y San Martiño, e islotes adyace
 
 El espacio marítimo-terrestre poligonal, configurado por los siguientes vértices:
 
-| ARCHIPIÉLAGO DE ONS Y ONZA |
-| --- |
-| Punto | Denominación | X | Y |
-| 1 | Punta Centolo (NE) | 506.776 | 4.694.993 |
-| 2 | Bajos los Camoucos (E) | 507.742 | 4.693.313 |
-| 3 | Bajo Laxiña de Galera (SE) | 506.129 | 4.668.300 |
-| 4 | Bajo Menguella (S) | 503.943 | 4.685.855 |
-| 5 | Bajo Cabeza del Rico (O) | 503.233 | 4.691.413 |
-| 6 | Bajos de Bastián de Val (NO) | 505.124 | 4.695.307 |
+Archipiélago de Ons y Onza
 
-que rodea las islas de Ons y Onza, e islotes adyacentes. Dicho archipiélago está ubicado en la entrada de la ría de Pontevedra, término municipal de Bueu, y comprende una superficie de 2.171 hectáreas marítimas y 470 hectáreas terrestres.
+| Punto | Denominación | X | Y |
+| --- | --- | --- | --- |
+| 1 | Punta Centolo (NE). | 506.776 | 4.694.993 |
+| 2 | Bajos de los Camoucos (E). | 507.742 | 4.693.313 |
+| 3 | Bajos Laxiña de Galera (SE). | 506.129 | 4.687.525 |
+| 4 | Bajo Menguella (S). | 503.943 | 4.685.855 |
+| 5 | Bajo Cabeza del Rico (O). | 503.233 | 4.691.413 |
+| 6 | Bajos de Bastián de Val (NO). | 505.124 | 4.695.307 |
+
+que rodea las Islas de Ons y Onza, e islotes adyacentes. Dicho archipiélago está ubicado en la entrada de la ría de Pontevedra, término municipal de Bueu, y comprende una superficie de 2.171 hectáreas marítimas y 470 hectáreas terrestres.
 
 3. Archipiélago de las islas de Sálvora e islotes de su entorno
 
@@ -60,3 +61,5 @@ El espacio marítimo-terrestre configurado por la línea de pleamar máxima viva
 | 7 | 517.650 | 4.719.051 |
 
 que rodea e incluye la isla de Cortegada, Malveira Grande, Malveira Chica, Briás e Illote do Con. Dicho conjunto está ubicado en la ría de Arousa, en el término municipal del Ayuntamiento de Villagarcía de Arousa, y comprende una superficie terrestre de 43,8 hectáreas.
+
+> Se modifica el apartado 2 por el art. 121 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.

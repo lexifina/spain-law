@@ -18,6 +18,10 @@ Lo dispuesto en el párrafo anterior no será de aplicación a los funcionarios 
 
 A estos efectos, en las convocatorias para el ingreso en los referidos Cuerpos y Escalas deberá establecerse la exención de las pruebas encaminadas a acreditar conocimientos ya exigidos para el ingreso en el Cuerpo o Escala de origen.
 
+3. A propuesta del Ministro de Administraciones Públicas, el Gobierno podrá determinar los cuerpos y escalas de funcionarios a los que podrá acceder el personal laboral de los grupos y categorías profesionales equivalentes al grupo de titulación correspondiente al cuerpo o escala al que se pretenda acceder, siempre que desempeñen funciones sustancialmente coincidentes o análogas en su contenido profesional y en su nivel técnico, se deriven ventajas para la gestión de los servicios, se encuentren en posesión de la titulación académica requerida y superen las correspondientes pruebas.
+
+> Se añade el apartado 3 por el art. 50.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
 > Se añade un párrafo segundo al apartado 1 por el art. 60 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
 
 > Se añaden dos nuevos párrafos al apartado 1 por el art. 17 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153

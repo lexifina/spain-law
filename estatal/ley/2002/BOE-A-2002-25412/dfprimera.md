@@ -1,0 +1,3 @@
+## Disposición final primera. Referencia catastral de los bienes inmuebles rústicos.
+
+A partir de la entrada en vigor de la presente Ley será de aplicación lo establecido en la Sección Cuarta del capítulo IV del Título I, de la Ley 13/1996, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, a los bienes inmuebles rústicos situados en los municipios renovados conforme a lo previsto en la disposición adicional tercera de la Ley 24/2001, de 27 de diciembre, de Medidas fiscales, administrativas y del orden social, así como en aquellos otros en los que se vaya renovando el catastro rústico en virtud de lo establecido en el artículo 31 de la misma Ley.

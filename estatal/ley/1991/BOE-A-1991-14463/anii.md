@@ -4,29 +4,29 @@ El tipo impositivo incrementado del 13 por 100 del Impuesto General Indirecto Ca
 
 1. Entregas o importaciones de los bienes que se indican a continuación:
 
-1.º Cigarros puros con precio superior a 200 pesetas unidad. Los demás cigarros puros tributan al tipo general.
+1.º Cigarros puros con precio superior a 1,8 euros por unidad. Los demás cigarros puros tributan al tipo general.
 
-2.º Los aguardientes compuestos, los aperitivos sin vino base y las demás bebidas derivadas de alcoholes naturales, conforme a las definiciones del Estatuto de la Viña, del Vino y de los Alcoholes y Reglamentaciones Complementarias y asimismo, los extractos y concentrados alcohólicos aptos para la elaboración de bebidas derivadas, sin perjuicio en lo dispuesto en el número 3 del anexo VI de la presente Ley.
+2.º Los aguardientes compuestos, los licores, los aperitivos sin vino base y las demás bebidas derivadas de alcoholes naturales, conforme a las definiciones del Estatuto de la Viña del Vino y de los Alcoholes y reglamentaciones complementarias y asímismo, los extractos y concentrados alcohólicos aptos para la elaboración de bebidas derivadas.
 
 3.º Los vehículos accionados a motor con potencia superior a 11 CV fiscales, excepto:
 
-a) Los camiones, motocarros, furgonetas y demás vehículos que, por su configuración objetiva, no puedan destinarse a otra finalidad que el transporte de mercancías.
+a) Los camiones, tractocamiones, furgones y furgonetas y demás vehículos que, por su configuración objetiva, no puedan destinarse a otra finalidad que el transporte de mercancías.
 
-b) Los autobuses y demás vehículos aptos para el transporte colectivo de viajeros que tengan una capacidad que exceda de 9 plazas, incluida la del conductor.
+b) Los autobuses y demás vehículos aptos para el transporte colectivo de viajeros que tengan una capacidad que exceda de nueve plazas, incluida la del conductor.
 
-c) Los furgones y furgonetas que no sean vehículos tipo "jeep" o todo terreno.
+c) Los vehículos automóviles considerados como taxi, autotaxi o autoturismos por la legislación vigente.
 
-d) Los vehículos automóviles considerados como taxis, autotaxis o autoturismos por la legislación vigente.
+d) Los que, objetivamente considerados, sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica, siempre que sus modelos de serie o los vehículos individualmente hubieran sido debidamente homologados por la Administración tributaria canaria. A estos efectos, se considerará que tienen exclusivamente algunas de estas aplicaciones los automóviles derivados de turismos siempre que dispongan únicamente de dos asientos para el conductor y el ayudante, en ningún caso posean asientos adicionales, y el espacio destinado a la carga no goce de visibilidad lateral y sea superior al 50 por 100 del volumen interior.
 
-e) Los que, objetivamente considerados, sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica, siempre que sus modelos de serie o los vehículos individualmente hubieran sido debidamente homologados por la Administración Tributaria Canaria. A estos efectos, se considerará que tienen exclusivamente alguna de estas aplicaciones los furgones y furgonetas de uso múltiple de cualquier altura siempre que dispongan únicamente de dos asientos para el conductor y el ayudante, en ningún caso posean asientos adicionales y el espacio destinado a la carga no goce de visibilidad lateral y sea superior al 50 por 100 del volumen interior.
+e) Los vehículos mixtos adaptables cuya altura total sobre el suelo sea superior a 1.800 mm que no sean vehículos todo terreno, en las condiciones que determine reglamentariamente el Gobierno de Canarias.
 
-f) Los vehículos adquiridos por minusválidos, no contemplados en el Anexo I, para su uso exclusivo siempre que concurran los siguientes requisitos:
+f) Los vehículos adquiridos por minusválidos, no contemplados en el anexo I, para su uso exclusivo siempre que concurran los siguientes requisitos:
 
-– Que hayan transcurrido al menos cuatro años desde la adquisición de otro vehículo en análogas condiciones.
+Que hayan transcurrido al menos cuatro años desde la adquisición de otro vehículo en análogas condiciones.
 
 No obstante, este requisito no se exigirá en supuestos de siniestro total de los vehículos, certificado por la compañía aseguradora.
 
-– Que no sean objeto de una transmisión posterior por actos inter vivos durante el plazo de cuatro años siguientes a la fecha de su adquisición.
+Que no sean objeto de una transmisión posterior por actos "inter vivos" durante el plazo de cuatro años siguientes a la fecha de su adquisición.
 
 El incumplimiento de este requisito determinará la obligación, a cargo del beneficiario, de ingresar a la Hacienda Pública la diferencia entre la cuota que hubiese debido soportar por aplicación del tipo incrementado y la efectivamente soportada al efectuar la adquisición del vehículo.
 
@@ -50,9 +50,9 @@ e) Las adquiridas por empresas de navegación aérea, incluso en virtud de contr
 
 f) Las adquiridas por empresas para ser cedidas en arrendamiento financiero exclusivamente a empresas de navegación aérea.
 
-7.º Escopetas, incluso las de aire comprimido, y las demás armas largas de fuego, cuya contraprestación por unidad sea igual o superior a 45.000 pesetas (270,46 euros).
+7.º Escopetas, incluso las de aire comprimido, y las demás armas largas de fuego, cuya contraprestación por unidad sea igual o superior a 270,46 euros.
 
-8.º Cartuchería para escopetas de caza y, en general, para las demás armas enumeradas en el apartado anterior, cuando su contraprestación por unidad sea superior a 17 pesetas (0,10 euros).
+8.º Cartuchería para escopetas de caza y, en general, para las demás armas enumeradas en el apartado anterior, cuando su contraprestación por unidad sea superior a 0,10 euros.
 
 9.º Joyas, alhajas, piedras preciosas y semipreciosas, perlas naturales, cultivadas y de imitación, objetos elaborados total o parcialmente con oro, plata o platino, las monedas conmemorativas de curso legal, los damasquinados y la bisutería.
 
@@ -66,9 +66,9 @@ c) Las partes de productos o artículos manufacturados incompletos que se transf
 
 A efectos de este impuesto se consideran piedras preciosas, exclusivamente, el diamante, el rubí, el zafiro, la esmeralda, el aguamarina, el ópalo y la turquesa.
 
-10.º Relojes de bolsillo, pulsera, sobremesa, pie, pared, etc., cuya contraprestación por unidad sea igual o superior a 20.000 pesetas (120,20 euros).
+10.º Relojes de bolsillo, pulsera, sobremesa, pie, pared, etc., cuya contraprestación por unidad sea igual o superior a 120,20 euros.
 
-11.º Toda clase de artículos de vidrio, cristal, loza, cerámica y porcelana que tengan finalidad artística o de adorno cuya contraprestación por unidad sea igual o superior a 10.000 pesetas (60,10 euros).
+11.º Toda clase de artículos de vidrio, cristal, loza, cerámica y porcelana que tengan finalidad artística o de adorno cuya contraprestación por unidad sea igual o superior a 60,10 euros.
 
 12.º Alfombras de nudo a mano en lana y las de piel.
 
@@ -83,6 +83,8 @@ A efectos de este impuesto se consideran piedras preciosas, exclusivamente, el d
 1.º El arrendamiento de los vehículos accionados a motor, incluso los de potencia igual o inferior a 11 CV fiscales. No obstante, no se incluye en este apartado el arrendamiento de los vehículos relacionados en las letras a), b), c) y e) del apartado 1.3.º anterior, cualquiera que sea su potencia fiscal.
 
 2.º El arrendamiento de los demás bienes relacionados en el número 1 anterior cuya entrega o importación tributen al tipo incrementado regulado en este anexo.
+
+> Se modifica el apartado 1 por el art. 8.21 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
 
 > Se modifica el apartado 1.2 a 4 por el art. 10.1.20 y 21 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
 

@@ -1,0 +1,5 @@
+## Disposición adicional vigésima tercera. Modificación del régimen fiscal de determinados contratos de arrendamiento financiero.
+
+Con efectos para los períodos impositivos que se inicien a partir de 1 de enero del año 2002, se modifica el apartado 11 del artículo 128 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, quedando redactado de la siguiente forma:
+
+«11. El Ministerio de Hacienda podrá determinar, según el procedimiento que reglamentariamente se establezca, el momento temporal a que se refiere el apartado 6, atendiendo a las peculiaridades del período de contratación o de la construcción del bien, así como a las singularidades de su utilización económica, siempre que dicha determinación no afecte al cálculo de la base imponible derivada de la utilización efectiva del bien, ni a las rentas derivadas de su transmisión que deban determinarse según las reglas del régimen general del impuesto o del régimen especial previsto en el capítulo VIII del Título VIII de esta Ley.»

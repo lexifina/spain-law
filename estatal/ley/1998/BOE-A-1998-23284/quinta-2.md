@@ -10,7 +10,9 @@ A partir del 1 de enero del año 2003, todos los consumidores, independientement
 
 2. En todo caso, tendrán la consideración de consumidores cualificados las centrales productoras de electricidad, así como los cogeneradores.
 
-3. Durante el período de tres años siguientes al momento en que un consumidor hubiera ejercido por primera vez los derechos que le confiere la condición de cualificado, dicho consumidor podrá optar por seguir adquiriendo el gas a un comercializador en las condiciones libremente pactadas o adquirirlo al distribuidor a tarifas.
+3. Un consumidor que hubiera ejercido los derechos que le confiere la condición de cualificado, podrá optar por seguir adquiriendo el gas natural en el mercado liberalizado o adquirirlo al distribuidor a tarifas, con las condiciones que reglamentariamente se establezcan.
+
+> Se modifica el apartado 3 por el art. 93.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
 
 > Se modifica por el art. 11 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
 

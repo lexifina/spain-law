@@ -142,6 +142,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria cuarta](cuarta-2.md)
 - [Disposición transitoria quinta](quinta-2.md)
 - [Disposición transitoria sexta](sexta-2.md)
+- [Disposición transitoria séptima](septima-2.md)
 - [Disposición final primera](primera-3.md)
 - [Disposición final segunda](segunda-3.md)
 - [Disposición final tercera](tercera-3.md)
