@@ -16,6 +16,8 @@
 
 (2) En Rhizoctonia se distinguen tres tipos de ataque: Ligero, medio y grave. La tolerancia del 1 por 100 se refiere a los ataques «medio» y «grave». En caso de ataque «ligero», se estimará que una partida de pasma de siembra se encuentra libre de Rhizoctonia cuando el 20 por 100 de la misma, coma máximo, presente este tipo de ataque. El resto de la partida, o sea, el 80 por 100, habrá de presentar un ataque menos que «ligero». Serán rechazadas las partidas que presenten en las yemas o próximo a ellas el ataque definido como «ligero».
 
-Los tubérculos deben estar prácticamente no brotados.
+Los tubérculos deben estar prácticamente no brotados, excepto los que se comercialicen en pequeños envases como patata de siembra prebrotada, que cumplirán lo especificado en el número 5 del apartado 5.2.
 
 No se admite tolerancia alguna en la presencia de: Sarna verrugosa, aSunchytrium endobioticum» (Schilb), Per.; podredumbre anular bacteriana, «Corynebactenum sepedonicum» (Spieck y Kotth), Skapt-Burkh; podredumbre parda bacteriana «Pseudomonas solanacearum», E. F. Smith; quistes del nemátodo «Glodobera pallida», Stone, y «Glodobera rostochiensis», Woll; y del viroide del tubérculo ahusado PSTV.
+
+> Se modifica el párrafo tercero por el art. único. 8 de la Orden de 3 de marzo de 1998. Ref. BOE-A-1998-6068
