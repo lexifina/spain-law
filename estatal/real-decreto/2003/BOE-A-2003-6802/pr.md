@@ -1,0 +1,11 @@
+Las explotaciones avícolas se encuentran reguladas, desde el punto de vista sanitario, por diversas disposiciones que incorporan directivas comunitarias y en particular por el Real Decreto 1888/2000, de 22 de noviembre, por el que se establecen las condiciones de sanidad animal aplicables a los intercambios intracomunitarios y las importaciones de aves de corral y de huevos para incubar procedentes de países terceros, el Real Decreto 2087/1994, de 20 de octubre, por el que se establecen las condiciones sanitarias de producción y comercialización de carnes frescas de aves de corral, el Real Decreto 556/1998, de 2 de abril, por el que se establecen las normas para expedir la certificación de animales y productos animales exigida por la normativa veterinaria, y el Real Decreto 2491/1994, de 23 de diciembre, por el que se establecen medidas de protección contra determinadas zoonosis y determinados agentes productores de zoonosis, procedentes de los animales y productos de origen animal, a fin de evitar las infecciones e intoxicaciones procedentes de los alimentos.
+
+Sin perjuicio de ello, se hace necesario establecer y regular con carácter básico un plan sanitario de las explotaciones avícolas en todo el territorio nacional en el que se contemplen todas las fases, desde la instalación de una explotación, pasando por su funcionamiento, hasta el transporte de los animales, siempre bajo la óptica de unos controles que permitan asegurar el debido estado sanitario de las explotaciones y, por ende, de las aves de corral, ya se destinen al consumo humano, ya a la reproducción, así como la producción de huevos.
+
+En la elaboración de esta disposición han sido consultadas las comunidades autónomas y los sectores afectados.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª y 16.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica, y de bases y coordinación general de la sanidad, respectivamente.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación y previa deliberación del Consejo de Ministros en su reunión del día 14 de marzo de 2003,
+
+DISPONGO:
