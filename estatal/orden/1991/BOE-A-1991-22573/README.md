@@ -58,6 +58,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 28](art28.md)
 - [Sección sexta](ssexta.md)
 - [Art 29](art29.md)
+- [Sección séptima](sseptima.md)
 - [Art 30](art30.md)
 - [CAPÍTULO V](cv.md)
 - [Art 31](art31.md)
