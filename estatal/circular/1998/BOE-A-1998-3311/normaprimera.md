@@ -20,9 +20,7 @@ v) Declaración firmada por el profesional en la que declare conocer y aceptar l
 
 También se comunicarán las bajas de los profesionales, o los cambios en las características de su contrato, en el plazo máximo de quince días hábiles, contados a partir del momento en que se produzcan.
 
-c) Póliza de responsabilidad civil: Copia completa de cualquier modificación en el contenido de la póliza que asegure la responsabilidad civil de la sociedad o, en caso de sustitución de la misma, copia completa de la nueva póliza, todo ello en el plazo máximo de quince días hábiles, contados a partir de su firma. Con independencia de ello, se justificará periódicamente el pago de la prima, dentro del mes natural siguiente a su fecha de vencimiento.
-
-d) Declaración relativa a los cargos de administración y dirección de la sociedad, según lo establecido en la Circular del Banco de España 13/1988, de 27 de octubre.
+c) Declaración relativa a los cargos de administración y dirección de la sociedad, según lo establecido en la Circular del Banco de España 13/1988, de 27 de octubre.
 
 2. Información contable y estadística (a enviar a la Oficina de Documentación y Central de Riesgos):
 
@@ -39,3 +37,9 @@ b) Dentro de los dos primeros meses del año remitirán información sobre las t
 a) Tan pronto como sean conocidas, y como máximo en el plazo de diez días hábiles desde la anotación en el Libro Registro de acciones nominativas, la sociedad comunicará las adquisiciones de acciones que supongan que la participación de una persona o grupo de sociedades alcance, al menos, el 20 por 100 del capital social. En igual plazo se comunicarán las cesiones de acciones que supongan que la participación de una persona o grupo descienda del 20 por 100 del capital social.
 
 b) Dentro del primer trimestre del año, remitirán una relación de los accionistas que participen directa o indirectamente en el capital social, o tengan derechos de voto, en un porcentaje superior al 10 por 100, con arreglo al estado IX que figura en anexo.
+
+4. Información sobre póliza de seguro de responsabilidad civil (a enviar a la Oficina de Inspección de Entidades Financieras):
+
+Copia completa de cualquier modificación en el contenido de la póliza de responsabilidad civil de la sociedad o, en caso de sustitución de la misma, copia completa de la nueva póliza, incluyendo tanto las condiciones generales como las particulares y especiales, todo ello en el plazo de un mes contado a partir de su firma. Con independencia de ello se justificará periódicamente el pago de la prima dentro del mes natural siguiente a su fecha de vencimiento.
+
+> Se modifica el apartado 1 y se añade el apartado 4 por la norma única de la Circular 4/1999, de 24 de marzo. Ref. BOE-A-1999-7736.
