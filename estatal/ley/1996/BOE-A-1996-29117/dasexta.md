@@ -9,3 +9,7 @@ Dos. No obstante lo previsto en el apartado anterior, al artículo 44 de la Ley 
 2. Las medidas de fomento contenidas en este artículo referentes, tanto a la modalidad de contratación temporal del apartado uno, letra c), como a las ayudas y bonificaciones del apartado dos, letra a), serán plenamente aplicables a las personas con discapacidad, cualquiera que fuera su situación laboral anterior, sin que sea exigible el requisito previo de ser beneficiarios de las prestaciones por desempleo ni estar previamente inscritos durante un período determinado como demandante de empleo.
 
 3. Se faculta al Gobierno el desarrollo de cuantos programas y/o acciones operativas resulten convenientes para la mejora del nivel formativo y de empleo de las personas con discapacidad, dictanto para ello las disposiciones precisas y disponiendo de los recursos necesarios dentro de las disponibilidades presupuestarias.»
+
+> Se deroga, salvo en lo relativo a trabajadores minusválidos, por la disposición derogatoria única.b) del Real Decreto-Ley 8/1997, de 16 de mayo. Ref. BOE-A-1997-10693 y por la disposición derogatoria única.2 del Real Decreto-Ley 9/1997, de 16 de mayo. Ref. BOE-A-1997-10694
+
+> Téngase en cuenta el período de vigencia establecido en la disposición final 3 del Real Decreto-Ley 9/1997, de 16 de mayo.
