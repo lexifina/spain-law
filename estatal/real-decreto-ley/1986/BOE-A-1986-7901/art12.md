@@ -1,12 +1,8 @@
 ## Art. 12.
 
-Uno. Son Entidades de Capital Riesgo las Sociedades y Fondos de Capital Riesgo.
+(Derogado)
 
-Dos. Se considerarán Sociedades de Capital Riesgo (SCR) aquellas cuyo objeto social principal sea la promoción, mediante la toma de participaciones temporales en su capital, de empresas no financieras que no cotizan en el primer mercado de las Bolsas de Valores ni en ningún mercado secundario organizado y que no estén participadas en más de un 25 por 100 por empresas que cotizan en dichos mercados o que tengan la consideración de entidad financiera.
-
-Para el desarrollo de su objeto principal, las Sociedades de Capital Riesgo podrán facilitar Préstamos Participativos u otras formas de financiación a las sociedades participadas. Asimismo, podrán realizar actividades de asesoramiento.
-
-Tres. Los Fondos de Capital Riesgo (FCR) son patrimonios administrados por una sociedad gestora, que tendrán el mismo objeto principal que el definido en el apartado anterior.
+> Se deroga por la disposición derogatoria única de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214.
 
 > Se modifica por el art. 17 del Real Decreto-Ley 7/1996, de 7 de junio. Ref. BOE-A-1996-13002.
 

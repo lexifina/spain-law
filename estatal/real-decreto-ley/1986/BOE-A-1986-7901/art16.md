@@ -1,8 +1,8 @@
 ## Art. 16.
 
-1. La constitución, aumento de capital y la fusión de estas Sociedades y Fondos gozarán de una reducción del 99 por 100 en la base imponible del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+(Derogado)
 
-2. (Derogado)
+> Se deroga por la disposición derogatoria única de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214.
 
 > Se deroga el apartado 2 por la disposición derogatoria única.1.15 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752.
 

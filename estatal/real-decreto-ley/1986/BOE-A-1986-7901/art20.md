@@ -1,10 +1,8 @@
 ## Art. 20.
 
-1. Se faculta al Gobierno para desarrollar lo dispuesto en la presente norma.
+(Derogado)
 
-2. Previas las adaptaciones oportunas, podrá autorizarse la creación de sociedades y fondos de capital-riesgo que provengan de la transformación de entidades ya existentes.
-
-3. También podrán establecerse reglas o períodos especiales de adaptación de las sociedades y fondos de capital riesgo actualmente existentes a lo dispuesto en la presente norma.
+> Se deroga por la disposición derogatoria única de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214.
 
 > Se modifica por la disposición adicional 4.4 de la Ley 3/1994, de 14 de abril. Ref. BOE-A-1994-8489.
 

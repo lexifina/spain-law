@@ -1,3 +1,5 @@
 ## Art. 17.
 
-Las Sociedades y Fondos de Capital-Riesgo podrán cotizarse en el Segundo Mercado de las Bolsas Oficiales de Comercio, cuando éstos se establezcan y una vez inscritas en los registros oficiales a que se refiere el artículo 15.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214.
