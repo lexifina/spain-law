@@ -1,0 +1,3 @@
+## Artículo 87.
+
+Recibida la calificación provisional, el promotor deberá solicitar del Ayuntamiento la licencia municipal de edificación; que será otorgada o denegada en el plazo de dos meses, a partir de la fecha en que la solicitud hubiera ingresado en el Registro General de la Corporación; transcurrido este plazo sin haber obtenido resolución expresa sobre su petición, el promotor deberá acudir a la Comisión Provincial de Urbanismo y si en el plazo de un mes no se notificara al interesado acuerdo expreso quedará otorgada la licencia por silencio administrativo, de conformidad con lo establecido en el Reglamento de Servicios de las Entidades Locales, aprobado por Decreto de 17 de junio de 1955.

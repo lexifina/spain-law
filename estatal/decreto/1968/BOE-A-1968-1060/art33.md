@@ -1,0 +1,13 @@
+## Artículo 33.
+
+Las viviendas construidas al amparo del artículo anterior habrán de ser cedidas a sus beneficiarios en régimen de acceso diferido a la propiedad en el plazo mínimo de diez años, de acuerdo con lo que se establece en la sección quinta del capítulo VI de este Reglamento, con las normas especiales siguientes:
+
+1.ª La cantidad total que el cesionario habrá de reintegrar será el importe del presupuesto protegible de la vivienda cedida. En casos de reconocido interés social, previa aprobación por el Ministro de la Vivienda, a propuesta de dicho Instituto, esta cantidad podrá ser disminuida en la cuantía necesaria para acomodarla a la capacidad económica de los usuarios de las viviendas. Esta disminución tendrá la consideración de prima a fondo perdido y no podrá exceder del 30 por 100 de dicho presupuesto protegible.
+
+2.ª Para el cálculo de la cuota de amortización se entenderá que el Instituto Nacional de la Vivienda ha concedido el 75 por 100 de la cantidad total que ha de reintegrar el cesionario, deducido, en su caso, el importe de la prima a que se refiere el párrafo anterior, en concepto de anticipo, y el 25 por 100 restante como préstamo al 5 por 100 de interés anual.
+
+3.ª El Instituto Nacional de la Vivienda podrá exigir de los futuros propietarios de las viviendas, en concepto de entrega inicial a cuenta del precio, la cantidad que se señale en cada caso, atendiendo las circunstancias que concurran. Esta cantidad se deducirá de la que se entienda concedida en concepto de préstamo.
+
+Excepcionalmente, las viviendas a que este artículo se refiere podrán ser cedidas en régimen de arrendamiento cuando, a juicio del Instituto Nacional de la Vivienda, se estime conveniente esta forma de cesión por motivos de interés público o social o porque Ios beneficiarios ostenten la condición de funcionarios públicos. El alquiler se fijará de acuerdo con las normas contenidas en la sección tercera del capítulo VI de este Reglamento, deduciendo la prima concedida del presupuesto protegible de la vivienda.
+
+El Instituto Nacional de la Vivienda podrá ceder las viviendas construidas al amparo de este régimen excepcional a las Entidades u Organismos encargados de su construcción, quienes deberán reintegrarle del importe del presupuesto protegible, deducida, en caso de que proceda, la prima a la construcción acordada por el Ministro de la Vivienda. La entidad cesionaria se subrogará en los derechos y obligaciones derivados de este régimen, concediendo las viviendas a los beneficiarios en acceso diferido a la propiedad, de acuerdo con las normas contenidas en este artículo.

@@ -1,0 +1,23 @@
+## Artículo 15.
+
+La enajenación de terrenos y solares se llevará a cabo por el procedimiento de subasta, salvo en los casos que a continuación se indican, en que podrá efectuarse directamente:
+
+Primero.–Para la construcción de «Viviendas de Protección Oficial».
+
+1. A los Patronatos Oficiales de Vivienda de los distintos Ministerios y a los Patronatos Municipales y Provinciales constituidos al amparo del Decreto 664/1962, de 29 de marzo, o que se constituyan en lo sucesivo.
+
+2. A las Corporaciones locales, para que construyan las viviendas por sí o por medio de las entidades que puedan crear, de acuerdo con lo establecido en el artículo 67 del Reglamento de Servicios de 17 de junio de 1955.
+
+3. A la Organización Sindical, a través de la Obra Sindical del Hogar y Arquitectura.
+
+4. A las Cooperativas de Viviendas a que se refiere el apartado k) del artículo 23 de este Reglamento, que las construyan exclusivamente para sus asociados, de conformidad con lo dispuesto en el artículo 41 de la Ley de 2 de enero de 1942.
+
+5. A las Entidades benéficas de construcción legalmente reconocidas.
+
+6. A las Empresas que construyan viviendas con destino a su personal.
+
+7. A los propietarios que hubiesen sido expropiados en el mismo Polígono, siempre que se cumplan las condiciones que se establecen en el artículo 17 de este Reglamento,
+
+8. Al Instituto Social de la Marina, para las que construya destinadas a pescadores y demás personas a las que extienda su acción protectora.
+
+Segundo.–Para llevar a cabo la construcción de viviendas destinadas a maestros y sacerdotes, o la de servicios, instalaciones y edificios complementarlos comprendidos en Planes Nacionales de la Vivienda, siempre que sean objeto de utilización de ánimo de lucro, a cualquiera de los promotores relacionados en el artículo 22 de este Reglamento.

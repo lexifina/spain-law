@@ -1,0 +1,3 @@
+## Artículo 23.
+
+Las Sociedades inmobiliarias cuya finalidad exclusiva sea la construcción, promoción o explotación en arrendamiento de «Viviendas de Protección Oficial» y operaciones relacionadas con dichos fines sociales; las Cooperativas de viviendas a que se refiere el apartado k) del artículo 22, los Patronatos y Entidades benéficas de construcción incluidas en los apartados d) y l) de dicho artículo, habrán de proceder a su inscripción en el Registro de Entidades del Instituto Nacional de la Vivienda, como requisito previo para poder iniciar los expedientes que se tramiten para otorgar la protección oficial a las viviendas promovidas por los mismos.

@@ -1,0 +1,3 @@
+## Artículo 99.
+
+La cédula de calificación definitiva, junto con la escritura declarativa de que la construcción está comenzada, a que se refiere el apartado b) del artículo 97 de este Reglamento, constituirá título suficiente para la toma de razón, por nota marginal en el Registro de la Propiedad, de la declaración de obra nueva. En la misma forma se hará constar la afección de la finca para que quede garantizado al Estado, Provincia o Municipio el pago del importe de las contribuciones, impuestos, arbitrios, derechos, tasas y sus recargos cuya exención o reducción se hubiere concedido, así como el pago del interés legal de dichas cantidades, en el caso de que se decrete la descalificación de las respectivas viviendas.

@@ -1,0 +1,3 @@
+## Artículo 24.
+
+Las Sociedades inmobiliarias que tengan la finalidad exclusiva indicada en el artículo anterior se constituirán con arreglo a cualquiera de las formas reconocidas por la legislación civil o mercantil y habrán de obtener la previa aprobación del Instituto Nacional de la Vivienda para la emisión, transformación y amortización de obligaciones, sean o no hipotecarias, y notificarán referido Organismo las alteraciones que se produzcan en sus órganos directivos, estatutos y normas de funcionamiento, en el plazo de treinta días, a partir de la fecha de inscripción en el Registro Mercantil, si ésta fuera inexcusable, o de la de adopción del acuerdo, en otro caso.
