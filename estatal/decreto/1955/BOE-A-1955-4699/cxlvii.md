@@ -1,0 +1,3 @@
+## CAPÍTULO XLVII
+
+## Influenza equina

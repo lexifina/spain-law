@@ -1,0 +1,3 @@
+## CAPÍTULO XXIII
+
+## Carbunco bacteridiano

@@ -1,0 +1,3 @@
+## CAPÍTULO XXIV
+
+## Carbunco sintomático
