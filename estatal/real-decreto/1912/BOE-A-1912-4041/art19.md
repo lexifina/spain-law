@@ -1,0 +1,3 @@
+## Art. 19.
+
+El plazo señalado para la caducidad de las mercedes nobiliarias que no hubiesen sido caducadas expresamente y los fijados para completar la justificación de las solicitudes presentadas para obtener la Real Carta que corresponda, comenzarán á contarse desde la fecha de la publicación de este derecho. En los expedientes en tramitación que ya estén informados por la Comisión permanente del Consejo de Estado, se dictará la resolución que proceda en el término de un año á contar desde la misma fecha. Aquellos otros en que aún no se hubiese cumplido este requisito se tramitarán por el procedimiento establecido en el presente Decreto.
