@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Requisitos profesionales y de titulación.
+
+Los requisitos profesionales y de titulación mínimos establecidos en los apartados 2 y 3 del artículo 12 podrán ser modificados por Orden del Ministro de Obras Públicas, Transportes y Medio Ambiente, atendidas las circunstancias concurrentes en la prestación del servicio de practicaje y las condiciones de seguridad marítima y de la navegación, bien globalmente para todo el sistema portuario, bien de forma individual para un puerto o un grupo de puertos en concreto, a propuesta de la Dirección General de la Marina Mercante y oídas, según los casos, el ente público Puertos del Estado o las Autoridades Portuarias y las Corporaciones de Prácticos.

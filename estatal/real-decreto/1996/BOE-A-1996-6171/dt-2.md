@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Prácticos con nombramiento anterior a la Ley de Puertos del Estado y de la Marina Mercante.
+
+1. Los prácticos de puerto que hayan accedido al puesto de trabajo por concurso o concurso-oposición y estén prestando sus servicios como prácticos en puertos de competencia estatal a la entrada en vigor de la Ley de Puertos del Estado y de la Marina Mercante, continuarán prestándolos como prácticos del puerto correspondiente, integrados en las actuales Corporaciones de Prácticos o, en su caso, en las entidades que sustituyan a éstas en sus actuales funciones, conservando todos los derechos adquiridos que les confiere la regulación del servicio vigente con anterioridad a la aprobación de la mencionada Ley (disposición transitoria segunda.uno.1, primer párrafo).
+
+2. En todo caso, los prácticos a que se refiere el apartado anterior quedarán sujetos a lo establecido en este Reglamento, con la salvedad de lo dispuesto en su artículo 12 y podrán continuar prestando el servicio de practicaje en el puerto en el que estuvieran adscritos aún cuando no estén en posesión de la titulación y requisitos profesionales exigidos en dicho precepto.
