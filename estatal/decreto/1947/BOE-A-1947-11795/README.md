@@ -450,6 +450,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 376](a376.md)
 - [Artículo 377](a377.md)
 - [Artículo 378](a378.md)
+- [Artículo 378 bis](a378bis.md)
 - [TÍTULO V](tv.md)
 - [CAPÍTULO PRIMERO](cprimero-5.md)
 - [Sección 1](s1-8.md)
