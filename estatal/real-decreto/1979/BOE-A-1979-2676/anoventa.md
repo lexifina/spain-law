@@ -1,5 +1,5 @@
 ## Artículo noventa.
 
-Los actos del Presidente de la Mutualidad, los de los Delegados provinciales y los del Gerente y Directores de Servicios, son recurribles, en plazo de quince días, ante la Junta de Gobierno.
+(Derogado)
 
-Contra los actos de la Asamblea General y de la Junta de Gobierno cabe recurso de alzada, en plazo de quince días, ante el Ministro de Justicia, y su resolución agota la vía administrativa.
+> Se deroga por la disposición derogatoria única del Real Decreto 1810/1994, de 5 de agosto. Ref. BOE-A-1994-19267
