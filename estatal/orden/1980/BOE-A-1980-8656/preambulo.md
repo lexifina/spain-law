@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 128, de 28 de mayo de 1980. Ref. BOE-A-1980-10859
+Disposición anulada por Sentencia del TS de 3 de marzo de 1986 publicada por Orden de 5 de junio de 1986. Ref. BOE-A-1986-16410.
