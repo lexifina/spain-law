@@ -19,6 +19,7 @@ Los aditivos que se indican a continuación deberán responder a las normas de i
 | Goma de garrofín | E-410 | 10.000 ppm. |
 | Mono y diglicéridos de los ácidos grasos alimenticios | E-471 | 20.000 ppm. |
 | Esteres de poliglicerol con los ácidos grasos alimenticios | E-475 | 10.000 ppm. |
+| Lecitina. Condiciones de empleo: Sólo en copos con cacao como ingrediente | E-322 | 10.000 ppm |
 | 3. Reguladores del pH: |  |  |
 | Carbonato cálcico | E-170 |  |
 | Ácido cítrico | E-330 |  |
@@ -27,3 +28,5 @@ Los aditivos que se indican a continuación deberán responder a las normas de i
 | Ácido tartárico | E-334 |  |
 | Tartrato sódico | E-335 |  |
 | Tartrato potásico | E-336 |  |
+
+> Se modifica por el apartado 1 de la Orden de 12 de mayo de 1989. Ref. BOE-A-1989-11806.
