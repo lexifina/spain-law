@@ -75,6 +75,7 @@
 |  | - Licenciado en Filosofía y Letras: |
 |  | ** División Filosofía y Ciencias de la Educación. |
 |  | * Sección Ciencias de la Educación. |
+|  | * Sección de Pedagogía. |
 | - Licenciado en Periodismo. | - Licenciado en Ciencias de la Información: |
 |  | * Especialidad Periodismo. |
 | - Licenciado en Psicología. | - Licenciado en Filosofía y Ciencias de la Educación: |
@@ -413,9 +414,9 @@
 |  | * Sección Historia Antigua. |
 |  | * Sección Historia Medieval. |
 |  | * Sección Historia General. |
-|  | * Sección Antropología Cultural |
-|  | * Sección Geografía e Historia |
-|  | * Sección Prehistoria y Arqueología |
+|  | * Sección Antropología Cultural. |
+|  | * Sección Geografía e Historia. |
+|  | * Sección Prehistoria y Arqueología. |
 | - Licenciado en Historia del Arte. | - Licenciado en Filosofía y Letras: |
 |  | ** División Geografía e Historia: |
 |  | * Sección Historia del Arte, en todas sus especialidades. |
@@ -428,6 +429,8 @@
 | - Licenciado en Lingüística. |  |
 | - Licenciado en Teoría de la Literatura y Literatura Comparada. |  |
 | - Licenciado en Traducción e interpretación. |  |
+
+> Se modifica el apartado II por el apartado 1 de la Orden de 29 de diciembre de 1997. Ref. BOE-A-1998-322.
 
 > Se modifican los apartados II y IV por el apartado 1 de la Orden de 6 de mayo de 1997. Ref. BOE-A-1997-10406.
 
