@@ -1,0 +1,9 @@
+El Colegio Oficial de Pilotos de la Aviación Comercial (COPAC) fue creado por la Ley 35/1998, de 27 de octubre, que dispuso en su artículo 1 que agrupará para el ejercicio de la profesión, de conformidad con lo dispuesto en las Leyes 2/1974, de 13 de febrero, y 77/1997, de 14 de abril, a todos los profesionales que se encuentren en posesión de los títulos aeronáuticos civiles de Pilotos Comerciales y de Pilotos de Transporte de Línea Aérea, en sus modalidades de avión o helicóptero.
+
+Para permitir la constitución del Colegio, el Ministerio de Fomento, mediante Orden de 2 de julio de 1999, procedió a la aprobación de unos Estatutos Provisionales, en cumplimiento de mandato contenido en la disposición transitoria primera de aquella Ley. Esta norma ha cumplido su finalidad, pues ha permitido organizar el proceso electoral conducente a la elección de la primera Junta de Gobierno del Colegio, pero resulta manifiestamente insuficiente en la actualidad para regular la organización y funcionamiento de esta corporación de derecho público.
+
+Por este motivo, y en aplicación de lo dispuesto también en la disposición transitoria segunda de la Ley de creación del Colegio, la Asamblea General del Colegio Oficial de Pilotos de la Aviación Comercial aprobó los nuevos Estatutos Generales del Colegio para su sometimiento a la aprobación del Gobierno de la Nación, de modo que permitan completar su marco normativo institucional mínimo que permita al Colegio desplegar todas las funciones y cometidos que el ordenamiento jurídico le atribuye.
+
+En su virtud, de conformidad con lo dispuesto en el artículo 6.2 de la Ley 2/1974, de 13 de febrero, sobre Colegios Profesionales, a propuesta del Ministerio de Fomento, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 20 de diciembre de 2002,
+
+DISPONGO:
