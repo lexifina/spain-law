@@ -1,0 +1,5 @@
+La Directiva 77/93/CEE del Consejo, de 21 de diciembre de 1976, relativa a las medidas de protección contra la introducción en la Comunidad de organismos nocivos para los vegetales o productos vegetales y contra su propagación en la Comunidad, modificada entre otras por la Directiva 91/683/CEE, del Consejo y en último lugar modificada ambas por la Directiva 93/19/CEE del Consejo establece que determinados vegetales, productos vegetales y otros objetos deben ir acompañados para su circulación dentro de la Comunidad de un pasaporte fitosanitario que garantice el cumplimiento del nuevo régimen fitosanitario comunitario dentro del espacio interior sin fronteras en la Comunidad Europea, sustituyendo al certificado fitosanitario internacional vigente.
+
+Por otra parte, la Directiva 92/105/CEE de la Comisión de 3 de diciembre establece la normalización de los pasaportes fitosanitarios así como los procedimientos para la expedición de tales pasaportes y las condiciones y procedimientos de sustitución. En consecuencia, ante la necesidad de transponer dicha Directiva a la legislación nacional y oídas las Comunidades Autónomas.
+
+En su virtud, dispongo:
