@@ -16,15 +16,21 @@ f) El funcionario, que por razones de guarda legal tenga a su cuidado directo al
 
 2. Podrán concederse permisos por el tiempo indispensable para el cumplimiento de un deber inexcusable de carácter público o personal.
 
-3. En el supuesto de parto, las funcionarias tendrán derecho a un permiso de dieciséis semanas ininterrumpidas ampliables por parto múltiple hasta dieciocho semanas. El período de permiso se distribuirá a opción de la interesada siempre que seis semanas sean inmediatamente posteriores al parto, pudiendo hacer uso de éstas el padre para el cuidado del hijo en caso de fallecimiento de la madre.
+3. En el supuesto de parto, la duración del permiso será de dieciséis semanas ininterrumpidas, ampliables en el caso de parto múltiple en dos semanas más por cada hijo a partir del segundo. El permiso se distribuirá a opción de la funcionaria siempre que seis semanas sean inmediatamente posteriores al parto. En caso de fallecimiento de la madre, el padre podrá hacer uso de la totalidad o, en su caso, de la parte que reste del permiso.
 
-No obstante lo anterior, en el caso de que la madre y el padre trabajen, aquélla, al iniciarse el período de permiso por maternidad, podrá optar por que el padre disfrute de hasta cuatro de las últimas semanas del permiso, siempre que sean ininterrumpidas y al final del citado período, salvo que en el momento de su efectividad la incorporación al trabajo de la madre suponga riesgo para su salud.
+No obstante lo anterior, y sin perjuicio de las seis semanas inmediatas posteriores al parto de descanso obligatorio para la madre, en el caso de que la madre y el padre trabajen, ésta, al iniciarse el período de descanso por maternidad, podrá optar por que el padre disfrute de una parte determinada e ininterrumpida del período de descanso posterior al parto, bien de forma simultánea o sucesiva con el de la madre, salvo que en el momento de su efectividad la incorporación al trabajo de la madre suponga un riesgo para su salud.
 
-En el supuesto de adopción de un menor de nueve meses, el funcionario tendrá derecho a un permiso de dieciséis semanas, contadas, a su elección, bien a partir del momento de la decisión administrativa o judicial de acogimiento, bien a partir de la resolución judicial por la que se haya constituido la adopción. Si el hijo adoptado es mayor de nueve meses y menor de cinco años, el permiso tendrá una duración máxima de seis semanas. En el caso de que el padre y la madre trabajen, sólo uno de ellos podrá ejercitar este derecho.
+En los supuestos de adopción o acogimiento, tanto preadoptivo como permanente, de menores de hasta seis años, el permiso tendrá una duración de dieciséis semanas ininterrumpidas, ampliables en el supuesto de adopción o acogimiento múltiple en dos semanas más por cada hijo a partir del segundo, contadas a la elección del funcionario, bien a partir de la decisión administrativa o judicial de acogimiento, bien a partir de la resolución judicial por la que se constituya la adopción. La duración del permiso será, asimismo, de dieciséis semanas en los supuestos de adopción o acogimiento de menores, mayores de seis años de edad, cuando se trate de menores discapacitados o minusválidos o que por sus circunstancias y experiencias personales o que, por provenir del extranjero, tengan especiales dificultades de inserción social y familiar, debidamente acreditadas por los servicios sociales competentes. En caso de que la madre y el padre trabajen, el permiso se distribuirá a opción de los interesados, que podrán disfrutarlo de forma simultánea o sucesiva, siempre con períodos ininterrumpidos.
+
+En los casos de disfrute simultáneo de períodos de descanso, la suma de los mismos no podrá exceder de las dieciséis semanas previstas en los apartados anteriores o de las que correspondan en caso de parto múltiple.
+
+En los supuestos de adopción internacional, cuando sea necesario el desplazamiento previo de los padres al país de origen del adoptado, el permiso previsto para cada caso en el presente artículo, podrá iniciarse hasta cuatro semanas antes de la resolución por la que se constituye la adopción.
 
 4. Los funcionarios a quienes falten menos de cinco años para cumplir la edad de jubilación forzosa, establecida en el artículo 33 de esta Ley, podrán obtener, a su solicitud, la reducción de su jornada de trabajo hasta un medio, con la reducción de retribuciones que se determine reglamentariamente, siempre que las necesidades del servicio lo permitan.
 
 Dicha reducción de jornada podrá ser solicitada y obtenida, de manera temporal, por aquellos funcionarios que la precisen en procesos de recuperación por razón de enfermedad, siempre que las necesidades del servicio lo permitan.
+
+> Se modifica el apartado 3 por el art. 20 de la Ley 39/1999, de 5 de noviembre. Ref. BOE-A-1999-21568
 
 > Se modifica el apartado 1.f) por el art. 50.1 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
 

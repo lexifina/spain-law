@@ -60,9 +60,15 @@ d) Podrá concederse la excedencia voluntaria por agrupación familiar, con una 
 
 Los funcionarios excedentes no devengarán retribuciones, ni les será computable el tiempo permanecido en tal situación a efectos de ascensos, trienios y derechos pasivos.
 
-4. Excedencia para el cuidado de los hijos.
+4. Los funcionarios tendrán derecho a un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción o acogimiento permanente o preadoptivo, a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.
 
-Los funcionarios tendrán derecho a un período de excedencia, no superior a tres años, para atender el cuidado de cada hijo, tanto cuando sea por naturaleza como por adopción, a contar desde la fecha del nacimiento de éste. Los sucesivos hijos darán derecho a un nuevo período de excedencia que, en su caso, pondrá fin al que se viniera disfrutando. Cuando el padre y la madre trabajen, sólo uno de ellos podrá ejercitar este derecho. El período de permanencia en dicha situación será computable a efectos de trienios, consolidación del grado personal y derechos pasivos. Durante el primer año tendrán derecho a la reserva del puesto de trabajo que desempeñaban. Transcurrido este período, dicha reserva lo será a puesto en la misma localidad y de igual nivel y retribución.
+También tendrán derecho a un período de excedencia, de duración no superior a un año, los funcionarios para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado inclusive de consanguinidad o afinidad, que, por razones de edad, accidente o enfermedad, no pueda valerse por sí mismo, y no desempeñe actividad retribuida.
+
+El período de excedencia será único por cada sujeto causante. Cuando un nuevo sujeto causante diera origen a una nueva excedencia, el inicio del período de la misma pondrá fin al que se viniera disfrutando.
+
+Esta excedencia constituye un derecho individual de los funcionarios. En caso de que dos funcionarios generasen el derecho a disfrutarlo por el mismo sujeto causante, la Administración podrá limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios.
+
+El período de permanencia en esta situación será computable a efectos de trienios, consolidación de grado personal y derechos pasivos. Durante el primer año, los funcionarios tendrán derecho a la reserva del puesto de trabajo que desempeñaban. Transcurrido este período, dicha reserva lo será al puesto en la misma localidad y de igual nivel y retribución.
 
 5. Expectativa de destino.
 
@@ -112,7 +118,9 @@ Quienes pasen a la situación de excedencia voluntaria incentivada tendrán dere
 
 En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas acordar el pase a la situación de excedencia voluntaria incentivada.
 
-> Se añade el último párrafo al apartado 2 y el último inciso a la letra n) por el art. 40.1 y .2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+> Se modifica el apartado 4 por el art. 19 de la Ley 39/1999, de 5 de noviembre. Ref. BOE-A-1999-21568
+
+> Se añade un último párrafo al apartado 2 y el último inciso a la letra n por el art. 40.1 y .2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
 
 > Se añade el apartado 2.m) y .n) por la disposición adicional 3 de la Ley 6/1997, de 14 de abril. Ref. BOE-A-1997-7878
 

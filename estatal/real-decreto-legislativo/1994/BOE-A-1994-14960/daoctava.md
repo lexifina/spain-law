@@ -6,9 +6,11 @@ No obstante lo dispuesto en el párrafo anterior, se exceptúa la aplicación a 
 
 2. En el Régimen Especial de la Minería de Carbón, y para los trabajadores por cuenta ajena de los Regímenes Especiales Agrario y de Trabajadores del Mar, será también de aplicación lo previsto en el artículo 140, apartado 4, y 162, apartado 1.2 de esta Ley.
 
-3. Lo previsto en el artículo 166 de la presente Ley será aplicable, en su caso, a los trabajadores por cuenta ajena de los Regímenes Especiales.
+3. Lo previsto en los artículos 134, 135 y 166 será aplicable, en su caso, a los trabajadores por cuenta ajena de los Regímenes Especiales. Asimismo resultará de aplicación a los trabajadores por cuenta propia incluidos en el Régimen Especial del Mar, Régimen Especial Agrario y Régimen Especial de Trabajadores Autónomos, en los términos y condiciones que se establezcan reglamentariamente.
 
-4. Las disposiciones previstas en el artícu lo 175 de esta Ley serán de aplicación a quienes en la fecha de entrada en vigor de la Ley de Consolidación y Racionalización del Sistema de la Seguridad Social se encontrasen percibiendo la prestación de orfandad.
+4. Las disposiciones previstas en el artículo 175 de esta Ley serán de aplicación a quienes en la fecha de entrada en vigor de la Ley de Consolidación y Racionalización del Sistema de la Seguridad Social se encontrasen percibiendo la prestación de orfandad.
+
+> Se modifica el apartado 3 por el art. 16 de la Ley 39/1999, de 5 de noviembre. Ref. BOE-A-1999-21568.
 
 > Se modifica el apartado 1 por la disposición adicional 13.3 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
 
