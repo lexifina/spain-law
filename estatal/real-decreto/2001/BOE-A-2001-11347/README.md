@@ -48,3 +48,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Podenco Galego](podencogalego.md)
 - [Can de Palleiro](candepalleiro.md)
 - [Can Guicho](canguicho.md)
+- [Alano Español](alanoespanol.md)
+- [Pastor Garafiano](pastorgarafiano.md)
+- [Ratonero Valenciano](ratonerovalenciano.md)
+- [Ratonero Mallorquín](ratoneromallorquin.md)
+- [Ca Mè Marllorquí](cam-marllorqui.md)

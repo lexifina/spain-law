@@ -46,6 +46,18 @@ Can de Palleiro.
 
 Can de Guicho.
 
+Alano Español.
+
+Pastor Garafiano.
+
+Ratonero Valenciano.
+
+Ratonero Mallorquín.
+
+Ca Mé Mallorquí.
+
+> Se modifica por el art. único de la Orden APA/807/2004, de 24 de marzo. Ref. BOE-A-2004-5652.
+
 > Se modifica por el art. único de la Orden APA/880/2002, de 17 de abril. Ref. BOE-A-2002-7770.
 
 > Se modifica por el art. único de la Orden de 2 de agosto de 2001. Ref. BOE-A-2001-15911.
