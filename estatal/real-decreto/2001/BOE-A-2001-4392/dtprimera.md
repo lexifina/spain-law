@@ -1,3 +1,5 @@
 ## Disposición transitoria primera.
 
-Los Colegios Oficiales de Diplomados en Trabajo Social y Asistentes Sociales vendrán obligados a la aplicación de las normas contenidas en los presentes Estatutos Generales, desde su entrada en vigor, debiendo adaptar sus Estatutos particulares a las mismas en el plazo de un año desde su publicación.
+(Derogada)
+
+> Se deroga por el art. único del Real Decreto 382/2002, de 26 de abril.Ref. BOE-A-2002-9160.

@@ -1,3 +1,5 @@
 ## Disposición adicional única.
 
-Las normas contenidas en el presente Real Decreto tienen la condición de normativa básica dictada al amparo de la competencia que la Constitución reserva al Estado en el artículo 149.1.18.a sobre las bases del régimen jurídico de las Administraciones públicas.
+(Derogada)
+
+> Se deroga por el art. único del Real Decreto 382/2002, de 26 de abril.Ref. BOE-A-2002-9160.
