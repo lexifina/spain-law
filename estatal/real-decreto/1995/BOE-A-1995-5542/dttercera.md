@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Personas con estatuto de asilado.
+
+Las personas a quienes se haya concedido estatuto de asilado antes de la entrada en vigor de la Ley 9/1994, de 19 de mayo, que modifica la Ley 5/1984, reguladora del derecho de asilo y de la condición de refugiado, mantendrán dicho estatuto hasta el momento de la renovación de sus documentos de identidad, en que se les expedirá el documento único de refugiado. Estas personas podrán, no obstante, solicitar el documento de viaje de la Convención de Ginebra de 1951, a partir de la entrada en vigor del presente Reglamento. Asimismo, a quienes se haya reconocido la condición de refugiado con anterioridad, podrán solicitar la documentación prevista en el artículo 29.2 del presente Reglamento.
