@@ -1,8 +1,8 @@
 ## Disposición transitoria undécima. Tipos impositivos.
 
-Durante el año 1997 tributarán al tipo impositivo del 16 por 100 los servicios de transporte aéreo y marítimo de viajeros y sus equipajes, con excepción de los transportes que tengan su origen o destino en las islas Baleares.
+(Derogada)
 
-Antes del 31 de diciembre de 1997 la Ley de Presupuestos Generales del Estado, considerando la evolución de las variables económicas y el nivel de cumplimiento en el Impuesto, determinará la fecha de comienzo de la aplicación del tipo impositivo del 7 por 100 a los servicios exceptuados de dicho tipo reducido por esta disposición
+> Se deroga por la disposición derogatoria única del Real Decreto-Ley 14/1997, de 29 de agosto. Ref. BOE-A-1997-19125
 
 > Se modifica por la disposición adicional 19 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116
 
