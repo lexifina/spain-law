@@ -139,4 +139,6 @@ Para mayonesas, salsa fina y otras salsas emulsionadas:
 | Bicarbonato sódico | H-8.186 | 0.2 por 100, aislados o en conjunto. |
 | Bicarbonato potásico | H-11.185 |
 
+> Véase el apartado 1 de la Orden de 13 de octubre de 1988 sobre la prohibición de la utilización del estearato de ascorbilo en la elaboración de productos alimenticios. Ref. BOE-A-1988-24783.
+
 > Redactado conforme a la corrección de errores publicada en BOE núm. 310, de 27 de diciembre de 1984. Ref. BOE-A-1984-28138
