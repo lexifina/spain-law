@@ -1,0 +1,3 @@
+## Disposición final segunda. Habilitación normativa.
+
+Se autoriza al Ministro de Fomento para dictar las disposiciones que resulten necesarias para el desarrollo y aplicación del Reglamento sobre Reconocimientos Obligatorios para Garantizar la Seguridad de la Navegación de Determinados Buques de Pasaje y, en especial, para ampliar las disposiciones del citado Reglamento a los transbordadores de carga rodada y naves de pasaje de gran velocidad, que efectúen navegación de línea regular de cabotaje en zonas marítimas de las clases B, C y D, definidas en el artículo 4.1 del Real Decreto 1247/1999, de 16 de julio, sobre reglas y normas de seguridad aplicables a los buques de pasaje que realicen travesías entre puertos españoles.
