@@ -2,6 +2,8 @@
 
 ## Especificaciones que deberán cumplir los recubrimientos galvanizados en caliente sobre productos, piezas y artículos de hierro y otros materiales férreos
 
+> Téngase en cuenta que quedan derogadas las especificaciones técnicas referentes a accesorios de fundición maleable que figuran en este anexo, según establece el apartado 7 del la Orden de 13 de enero de 1999 Ref. BOE-A-1999-2045, y que serán sustituidas por las especificaciones técnicas contenidas en la norma UNE-EN 10242, según se dispone en su apartado 1.
+
 1. Objeto. Especificar las características técnicas qué deben cumplir los recubrimientos galvanizados aplicados sobre productos, piezas y artículos de acero y otros materiales férreos mediante procedimientos de galvanización en caliente en discontinuo.
 
 2. Definiciones:
