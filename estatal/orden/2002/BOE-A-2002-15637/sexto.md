@@ -1,0 +1,5 @@
+## Sexto.
+
+Aquellos que, a la entrada en vigor de la presente Orden, se encuentren cursando el segundo ciclo de la Licenciatura en Traducción e Interpretación, podrán acogerse a la posibilidad, prevista en el apartado segundo de la Orden de 21 de marzo de 1997, de obtener hasta un máximo de 12 de los 24 créditos requeridos en Traducción Jurídica y/o Económica mediante la realización de prácticas en empresas, debidamente tuteladas y avaladas por la Universidad, y/o el proyecto de fin de carrera, siempre que consistan en la traducción de textos jurídicos y/o económicos y sin que se tengan en cuenta los trabajos que versen sobre aspectos teóricos de la traducción. En todo lo demás les será de aplicación la presente Orden.
+
+Las solicitudes que estén en trámite a la entrada en vigor de la presente Orden, así como aquellas que, aun presentadas con posterioridad a dicha fecha, correspondan a Licenciados en Traducción e Interpretación que hubieran obtenido su título con anterioridad a la entrada en vigor de esta Orden, se tramitarán conforme al procedimiento y requisitos establecidos en la Orden de 21 de marzo de 1997.
