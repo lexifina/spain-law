@@ -1,0 +1,25 @@
+Con fecha 9 de abril de 1991, el Pleno del Congreso de los Diputados aprobó una proposición no de Ley, relativa a la situación de los extranjeros en España, instando al Gobierno, en su apartado 8, a abordar la reforma y modernización de la estructura administrativa encargada de gestionar la política de extranjería a través de una Comisión Interministerial de Extranjería.
+
+En cumplimiento de dicha previsión, se aprobó el Real Decreto 511/1992, de 14 de mayo, por el que se creó la Comisión Interministerial de Extranjería, para coordinar la actuación de los Departamentos ministeriales con competencias sobre el régimen de entrada, permanencia, trabajo e integración social de los extranjeros en España.
+
+El Real Decreto 511/1992 fue modificado por el Real Decreto 2489/1994, de 23 de diciembre, y por el Real Decreto 2490/1996, de 5 de diciembre, con el fin de adecuar la composición de la Comisión Interministerial de Extranjería y la de sus Comisiones delegadas, a las sucesivas reestructuraciones de los Departamentos ministeriales que la integran.
+
+El Real Decreto 557/2000, de 27 de abril, estructura la Administración General del Estado en quince Departamentos ministeriales, cuyas estructuras orgánicas se han ido desarrollando sucesivamente mediante Reales Decretos.
+
+Con la finalidad de dotar a la estructura orgánica de la Administración General del Estado de los recursos necesarios para hacer frente al fenómeno creciente en nuestro país de la inmigración, el Real Decreto 683/2000, de 12 de mayo, crea la Delegación del Gobierno para la Extranjería e Inmigración, cuyas competencias se determinan en el Real Decreto 1449/2000, de 28 de julio, por el que se modifica y desarrolla la estructura orgánica básica del Ministerio del Interior, sirviéndose del apoyo de la Dirección General de Extranjería e Inmigración, creada por el Real Decreto 807/2000, de 19 de mayo, a la que corresponde la ejecución de las medidas que, en materia de inmigración, extranjería y asilo, se adopten por la mencionada Delegación.
+
+La Delegación del Gobierno para la Extranjería e Inmigración tiene como finalidad formular la política del Gobierno en relación con la extranjería, la inmigración y el derecho de asilo, así como coordinar e impulsar todas las actuaciones que se realicen en dicha materia y, en particular, presidir la Comisión Interministerial de Extranjería e informar los asuntos que hayan de someterse a la misma.
+
+La nueva regulación de la composición y el funcionamiento de la Comisión Interministerial de Extranjería se hace preciso no sólo para adecuarla a las citadas reestructuraciones ministeriales, sino también por la necesidad de integrar otros Departamentos ministeriales con competencias que afectan al tratamiento de la situación de los extranjeros en España.
+
+Así pues, en la nueva composición de la Comisión Interministerial de Extranjería se van a integrar, como nuevos miembros, representantes de los Ministerios de Hacienda, de Educación, Cultura y Deporte, de Presidencia, de Administraciones Públicas, de Sanidad y Consumo y de Economía.
+
+En cuanto a las Comisiones delegadas que se constituyen en el seno de la Comisión Interministerial de Extranjería, se regula la composición y funcionamiento de cuatro Comisiones delegadas.
+
+Tres de las citadas Comisiones delegadas ya se recogían en la normativa anterior, en concreto, las Comisiones de Política de visados y cooperación internacional, de Régimen de Extranjería y de Flujos migratorios, promoción e integración social de inmigrantes y refugiados, procediéndose a la creación de una nueva Comisión delegada de Coordinación de servicios periféricos.
+
+La incorporación del Ministerio de Administraciones Públicas en la Comisión Interministerial de Extranjería y la creación de la citada Comisión delegada de Coordinación de servicios periféricos se fundamenta tras la entrada en vigor de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, en unión de la normativa dictada en su aplicación, que supone un nuevo modelo de estructuración de los servicios periféricos de carácter general, dentro del cual se encomiendan al Ministerio de Administraciones Públicas las competencias que hoy le son propias y a su Subsecretaría las funciones de dirección, gestión y coordinación que le asisten. A este respecto, el Real Decreto 1330/1997, de 1 de agosto, integró en la estructura de las Delegaciones del Gobierno, entre otras, las funciones de extranjería y asilo, y al Real Decreto 2725/1998, de 18 de diciembre, se debe la correspondiente a las Direcciones Provinciales de Trabajo, Seguridad Social y Asuntos Sociales.
+
+En su virtud, a propuesta del Vicepresidente Primero del Gobierno y Ministro de la Presidencia, del Vicepresidente Segundo del Gobierno y Ministro de Economía, los Ministros de Asuntos Exteriores, de Justicia, de Hacienda, de Interior, de Educación, Cultura y Deporte, de Trabajo y Asuntos Sociales, de Administraciones Públicas y de Sanidad y Consumo, y previa deliberación del Consejo de Ministros en su reunión del día 1 de diciembre de 2000,
+
+## D I S P O N G O:
