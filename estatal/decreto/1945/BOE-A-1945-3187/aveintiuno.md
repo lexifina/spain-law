@@ -1,0 +1,3 @@
+## Artículo veintiuno.
+
+La Junta de Gobierno fomentará el espíritu de hermandad entre los que ostenten la Cruz de San Raimundo de Peñafort, para relacionarse y asistirse mutuamente en cuantas ocasiones acaezca su concurrencia; organizará anualmente una función religiosa en honor de su Santo Patrón, con la solemnidad debida, asistiendo, en primer lugar, la Junta con sus insignias e invitando a todos los compañeros de Orden a que asistan con las suyas. Procurará siempre que en las provincias se reúnan igualmente y con el mismo espíritu los condecorados con esta Cruz, presididos por los que ostenten las de mayor honor, y entre ellos el de mayor edad.

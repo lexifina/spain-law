@@ -1,0 +1,3 @@
+## Artículo segundo.
+
+Esta condecoración se denominará Orden de la Cruz de San Raimundo de Peñafort y será otorgada por el Ministerio de Justicia para premiar los servicios prestados por los funcionarios de la Administración de Justicia, los miembros de las profesiones directamente relacionadas con ella y cuantos hayan contribuido al desarrollo del Derecho, al estudio de Ios Sagrados Cánones y de las Escrituras y a la obra legislativa y de organización del Estado. También se premiará con ella a los autores de publicaciones de carácter jurídico de relevante importancia y a los fundadores y cooperadores de entidades o instituciones que tengan por finalidad el perfeccionamiento de la técnica del Derecho y la Jurisprudencia.
