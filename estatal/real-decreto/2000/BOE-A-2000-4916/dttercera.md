@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Subsistencia de normas preexistentes para los títulos y licencias de piloto de planeador y piloto de globo libre.
+
+Hasta tanto no se vean modificadas por normas posteriores dictadas en desarrollo de este Real Decreto, seguirán en vigor las disposiciones contenidas en la Orden de 14 de julio de 1995 sobre títulos y licencias aeronáuticas civiles y mantendrán su eficacia las Resoluciones de la Dirección General de Aviación Civil aplicables para la obtención, mantenimiento en vigor y revalidación o renovación de los títulos y licencias de piloto de planeador y piloto de globo libre.
