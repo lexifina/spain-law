@@ -1,0 +1,3 @@
+## Disposición adicional décima. Asignación de plazas una vez efectuada la transferencia del Instituto Nacional de la Salud a las Comunidades Autónomas.
+
+En el caso de que las adjudicaciones de las plazas derivadas de los diferentes procesos a los que se refiere la presente Ley, tuvieran lugar después de haberse efectuado la transferencia de la asistencia sanitaria del Instituto Nacional de la Salud, corresponderá a la Comisión de Desarrollo y Seguimiento a que se refiere la disposición adicional quinta, la asignación concreta de la plaza, sin perjuicio de que la toma de posesión se efectúe por la correspondiente Comunidad Autónoma.

@@ -1,0 +1,13 @@
+## Disposición adicional segunda. Concurso de traslado específico para facultativos especialistas de área en el Instituto Nacional de la Salud.
+
+1. Con independencia de los procesos de selección y provisión a que se refieren los capítulos II y III de esta Ley, en el ámbito del Instituto Nacional de la Salud se establece un concurso de traslado voluntario para el personal facultativo especialista de área, que a la fecha de expiración del plazo de presentación de solicitudes de la convocatoria del mismo, se encuentre prestando servicios como personal estatutario fijo o en alguna de las situaciones contempladas en los apartados a) y b) del número 4 del artículo 7.
+
+2. No obstante, en la correspondiente convocatoria, deberá participar obligatoriamente el personal que se encuentre en situación de reingreso provisional. Si quien desempeñe la plaza con destino provisional, no la obtiene en este concurso, habiendo solicitado todas las convocadas en su categoría, modalidad y área de salud, podrá optar por obtener nuevo destino provisional en alguna de las plazas que resulten vacantes como consecuencia de la resolución del mismo o pasar nuevamente a la situación de excedencia voluntaria. El reingresado provisional que no participe en este concurso, o no obtenga plaza y no haya solicitado todas las de su categoría, modalidad y área de salud, será declarado de oficio en situación de excedencia voluntaria.
+
+3. La convocatoria de este concurso determinará el número de plazas ofrecidas por especialidad y centro de gestión.
+
+4. El baremo que se aplicará en este concurso de traslado valorará, exclusivamente, los servicios prestados en las Instituciones Sanitarias de la Seguridad Social de los Servicios de Salud como personal estatutario con nombramiento fijo o temporal en la misma categoría profesional y especialidad a la que se concursa, otorgando 0,6 puntos por mes trabajado. La adjudicación de las plazas convocadas se efectuará de acuerdo con la puntuación obtenida, debiendo producirse la misma antes de la publicación de las convocatorias correspondientes a la fase de provisión establecida en el artículo 8 de esta Ley.
+
+5. Las plazas convocadas y no adjudicadas, así como las que resulten vacantes como consecuencia de este concurso de traslado, y después de la adjudicación de las resultas, se acumularán a las convocadas en la fase de provisión establecida en el artículo 8 de esta Ley.
+
+6. En todo caso, la toma de posesión de los adjudicatarios de este concurso de traslado se efectuará necesariamente de forma simultánea a la de quienes accedan a las plazas como consecuencia de su participación en el proceso extraordinario de consolidación de empleo establecido en los capítulos II y III de la presente Ley.

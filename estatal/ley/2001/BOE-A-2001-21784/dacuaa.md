@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Situación del personal en expectativa de destino que no obtuviera plaza.
+
+El personal estatutario con carácter temporal o aquel otro sin vinculación previa con las Instituciones Sanitarias de la Seguridad Social que accediese a la situación de expectativa de destino y no obtuviera posteriormente plaza en la fase de provisión establecida en el capítulo III de esta Ley, quedará en situación de excedencia voluntaria, sin que se exija lo dispuesto en el artículo 12 del Estatuto de Personal Facultativo, en el artículo 42 del Estatuto de Personal Sanitario no Facultativo y en el artículo 33 del Estatuto de Personal no Sanitario, en orden a la necesidad de que transcurra un año para solicitar el reingreso.
