@@ -27,6 +27,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo undécimo](aundecimo.md)
 - [TÍTULO TERCERO](ttercero.md)
 - [Artículo duodécimo](aduodecimo.md)
+- [Artículo decimotercero](adecimotercero.md)
 - [Disposición adicional primera](primera.md)
 - [Disposición adicional segunda](segunda.md)
 - [Disposición adicional tercera](tercera.md)

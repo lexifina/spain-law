@@ -1,23 +1,53 @@
 ## Artículo octavo.
 
-1. A los efectos previstos en el artículo décimo, número 4, de esta Ley, las Entidades de depósito deberán consolidar sus Balances y Cuentas de Resultados con las de otras Entidades de depósito u otras Entidades financieras que constituyan con ellas una unidad de decisión, sea porque la Entidad de depósito ejerce control directo o indirecto sobre las demás Entidades, sea porque es controlada directa o indirectamente por ellas, sea porque la Entidad de depósito y demás financieras son controladas, directa o indirectamente, por una misma persona o Entidad cuyas cuentas no deban consolidarse con arreglo a lo dispuesto en este artículo.
+1. Para el cumplimiento del coeficiente de solvencia y, en su caso, de las limitaciones previstas en los artículos sexto y décimo de las entidades de crédito consolidarán sus estados contables con los de las demás entidades de crédito o entidades financieras que constituyan con ellas una unidad de decisión.
 
-2. Para la aplicación del apartado anterior, se entiende por Entidad financiera cualquier Entidad que tenga como objeto social, como actividad principal, la tenencia de acciones y participaciones, así como las Sociedades de Crédito Hipotecario, las Entidades de financiación, las Sociedades de arrendamiento financiero, y las Sociedades cuyo objeto o actividad principal incluya la tenencia de inmuebles o activos materiales utilizados por las Entidades de depósito o por otras Entidades incluidas en la consolidación.
+2. A los efectos de esta Ley, para determinar si varias entidades constituyen una unidad de decisión se atenderá a los criterios previstos en el artículo 4. de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
 
-Las Entidades aseguradoras no se entienden incluidas en el concepto de Entidad financiera definido en este apartado.
+3. Se considerará que un grupo de entidades financieras constituye un grupo consolidable de entidades de crédito cuando se dé alguna de las circunstancias siguientes:
 
-3. Se considerará controlada una Entidad por otra y, por tanto, será obligatoria la consolidación de sus Balances y Cuentas de Resultados, cuando se produzca alguno de los siguientes supuestos:
+a) Que una entidad de crédito controle a las demás entidades.
 
-a) La dominante posea la mayoría de votos o de capital de la dominada.
+b) Que la entidad dominante sea una entidad cuya actividad principal consista en tener participaciones en entidades de crédito.
 
-b) La dominante, en virtud de acuerdos expresos con otros accionistas o socios cooperadores de la dominada, o con la propia dominada, o en virtud de los Estatutos de ésta, tenga en relación con los órganos de gobierno de la Entidad dominada, derechos iguales a los que ostentaría de tener la mayoría de los derechos de voto de los accionistas o socios de la dominada.
+c) Que una persona física, un grupo de personas físicas que actúen sistemáticamente en concierto, o una entidad no consolidable con arreglo a la presente Ley, controle a varias entidades, todas ellas de crédito.
 
-c) La dominante tenga una participación en el capital de la dominada no inferior al porcentaje que reglamentariamente el Gobierno establezca y ésta esté sometida a la dirección única de aquélla. Se presume, salvo prueba en contrario, que existe dirección única cuando al menos, la mitad más uno de los Consejeros de la dominada sean Consejeros o altos directivos de la dominante, o de otra dominada por ésta.
+Cuando una entidad de crédito susceptible de adherirse a un Fondo de Garantía de Depósitos quede integrada en un grupo de entidades financieras y, por razones excepcionales debidamente acreditadas con ocasión de la autorización de su constitución o toma de control, no se dé ninguna de las circunstancias señaladas en el párrafo precedente, el Ministro de Economía y Hacienda, a propuesta del Banco de España, previo informe de la Comisión Nacional del Mercado de Valores o, en su caso, de la Dirección General de Seguros, podrá acordar que el grupo tenga la consideración de grupo consolidable de entidades de crédito y quede, por consiguiente, sometido a supervisión en base consolidada por el Banco de España.
 
-A los derechos de la dominante se añadirán los que posean a través de otras Entidades dominadas, o a través de personas que actúen por cuenta de la Entidad dominante o de otras dominadas.
+4. Reglamentariamente se determinarán los tipos de entidades financieras que deberán incluirse en el grupo consolidable de entidades de crédito a que se refiere el número anterior.
 
-4. La consolidación de cuentas a que hace referencia este artículo se llevará a cabo según las normas de consolidación que establezca el Gobierno a propuesta del Banco de España.
+En todo caso, formarán parte del grupo consolidable:
 
-5. El Banco de España, así como las Comunidades Autónomas, podrán requerir a las Entidades sujetas a la consolidación de cuentas a que se refiere este artículo, cuanta información sea necesaria para verificar las consolidaciones efectuadas y analizar riesgos asumidos por el conjunto de las Entidades consolidadas; asimismo podrán inspeccionar sus libros, documentación y registros con igual objeto.
+a) Las entidades de Crédito.
 
-6. Cuando de las relaciones económicas, financieras o gerenciales de una Entidad de depósito con otras Entidades quepa presumir la existencia de una relación de control en el sentido de este articulo, sin que las Entidades hayan procedido a la consolidación de sus cuentas, el Banco de España, así como las Comunidades Autónomas, podrán solicitar información de dichas Entidades o inspeccionarlas, a los solos efectos de determinar la procedencia de la consolidación.
+b) Las Sociedades y Agencias de Valores.
+
+c) Las Sociedades de Inversión Mobiliaria.
+
+d) Las Sociedades Gestoras de Instituciones de Inversión Colectiva, así como las Sociedades Gestoras de Fondos de Pensiones cuyo objeto exclusivo sea la administración y gestión de los mencionados fondos.
+
+e) Las Sociedades Gestoras de Cartera.
+
+f) Las Sociedades de Capital Riesgo y las Gestoras de Fondos de Capital Riesgo.
+
+g) Las entidades cuya actividad principal sea la tenencia de acciones o participaciones.
+
+Asimismo formarán parte del grupo consolidable las sociedades instrumentales cuya actividad principal suponga la prolongación del negocio de alguna de las entidades incluidas en la consolidación, o incluya la prestación a éstas de servicios auxiliares.
+
+El Banco de España podrá autorizar la exclusión individual de una entidad de crédito o de una entidad financiera del grupo consolidable de entidades de crédito cuando se dé cualquiera de los supuestos previstos en el número 2 del artículo 43 del Código de Comercio, o cuando la inclusión de dicha entidad en la consolidación resulte inadecuada para el cumplimientol de los objetivos de la supervisión de dicho grupo.
+
+5. Las entidades aseguradoras no formarán parte en ningún caso de los grupos consolidables de entidades de crédito.
+
+6. Reglamentariamente podrá regularse la forma en que las reglas que esta Ley contempla sobre recursos propios y supervisión de los grupos consolidables de entidades de crédito deban ser aplicables a los subgrupos de entidades de crédito, entendiéndose por tales aquellos que, incluyendo entidades de tal naturaleza se integren, a su vez, en un grupo de mayor extensión.
+
+Asimismo, se podrá regular la forma en que las indicadas reglas se aplicarán a las entidades de crédito afiliadas a un organismo central, siempre que éste las controle, dirija, garantice sus obligaciones y se cumplan los demás requisitos que se prevean al efecto.
+
+De igual forma podrá regularse el modo de integración del subgrupo en el grupo, y la colaboración entre los organismos supervisores.
+
+7. Cuando existan entidades extranjeras susceptibles de integrarse en un grupo consolidable de entidades de crédito, reglamentariamente se regulará el alcance de la supervisión en base consolidada a cargo del Banco de España, atendiendo, entre otros criterios, al carácter comunitario o extracomunitario de las entidades, su naturaleza jurídica y grado de control.
+
+8. El deber de consolidación establecido en el artículo 42 del Código de Comercio se entenderá cumplido mediante la consolidación a que se refiere el presente artículo en aquellos grupos de sociedades cuya entidad dominante sea una entidad de crédito o una sociedad cuya actividad principal sea la tenencia de participaciones en entidades de crédito.
+
+Ello se entiende sin perjuicio de la obligación de consolidar entre sí que pueda existir para las filiales que no sean entidades financieras, en los casos que proceda de acuerdo con el señalado artículo 42 del Código de Comercio.
+
+> Se modifica por el art. 1 de la Ley 13/1992, de 1 de junio. Ref. BOE-A-1992-12545

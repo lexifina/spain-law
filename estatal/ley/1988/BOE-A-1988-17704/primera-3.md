@@ -1,3 +1,7 @@
 ## Disposición final primera.
 
 Cuando por disposiciones con rango de Ley se atribuyan a Organos o Instituciones Públicas competencias de control o inspección sobre empresas o entidades que se sometan a auditoría de cuentas, el Gobierno, mediante Real Decreto, establecerá los sistemas, normas y procedimientos que hagan posible su adecuada coordinación, pudiendo recabar de los auditores de cuentas y sociedades de auditoría cuanta información resulte necesaria para el ejercicio de las mencionadas competencias.
+
+Cuando los Auditores de las cuentas anuales de las entidades sometidas al régimen de supervisión previsto en la Ley 13/1992, sobre Recursos propios y supervisión en base consolidada de las entidades financieras, conocieran y comprobaran la existencia de presuntas irregularidades o situaciones que puedan afectar gravemente a la estabilidad, solvencia o continuidad de la entidad auditada, emitirán de forma inmediata el correspondiente informe de auditoría de cuentas anuales, quedando la entidad auditada obligada a remitir copia del mismo al Banco de España, Comisión Nacional del Mercado de Valores o Dirección General de Seguros. Si en el plazo de una semana el auditor no tuviera constancia fehaciente de que se ha producido dicha remisión, deberá enviar directamente el informe al citado órgano o Institución.
+
+> Se añade el último párrafo por la disposición adicional 4.1 de la Ley 13/1992, de 1 de junio. Ref. BOE-A-1992-12545
