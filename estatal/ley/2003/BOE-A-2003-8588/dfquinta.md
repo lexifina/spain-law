@@ -1,0 +1,3 @@
+## Disposición final quinta. Habilitación de desarrollo.
+
+Se faculta al Gobierno para dictar, en el ámbito de sus competencias, las disposiciones necesarias para el desarrollo y ejecución de esta ley y para modificar sus preceptos cuando dichas modificaciones se deriven de un cambio de la normativa comunitaria y afecten a las técnicas o métodos excluidos del ámbito de aplicación de la ley, tanto las generales como las de cada actividad; a las definiciones; a la clasificación del riesgo de las actividades de utilización confinada, y a los requisitos para poder realizar las actividades reguladas en esta ley.
