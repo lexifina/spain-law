@@ -8,4 +8,6 @@ b) En las materias reguladas por los títulos VI y VIl se inferirá el carácter
 
 2. (Derogado)
 
+> Se declara la inconstitucionalidad del inciso destacado del apartado 1.b) por Sentencia del TC 385/1993, de 23 de diciembre. Ref. BOE-T-1994-1905
+
 > Se deroga el apartado 2 por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
