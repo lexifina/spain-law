@@ -4,7 +4,7 @@
 
 1. Real Decreto 1728/1987, de 23 de diciembre, por el que se aprueban las normas técnico-sanitarias que regulan las prescripciones exigibles para el comercio intracomunitario e importación de terceros países de carnes frescas, así como las que deben reunir los mataderos, salas de despiece y almacenes frigoríficos autorizados para dicho comercio.
 
-2. Real Decreto 644/1989, de 19 de mayo, por el que se aprueba la Reglamentación Técnico-Sanitaria en materia de intercambios de carnes frescas de aves para el comercio intracomunitario e importación de las mismas de terceros países y las normas que hacen relación a los mataderos, salas de despiece y almacenes frigoríficos autorizados para dicho comercio.
+2. Real Decreto 2087/1994, de 20 de octubre, por el que se establece las condiciones sanitarias de producción y comercialización de carnes frescas de aves de corral.
 
 3. Real Decreto 110/1990, de 26 de enero, por el que se establecen las condiciones de sanidad animal que deben reunir las carnes frescas destinadas al comercio intracomunitario e importadas de países terceros.
 
@@ -29,6 +29,8 @@
 13. Real Decreto 2044/1994, de 14 de octubre, por el que se establece las condiciones sanitarias y de sanidad animal aplicables al sacrificio de animales de caza silvestre y a la producción y comercialización de sus carnes.
 
 14. Real Decreto 1679/1994, de 22 de julio, por el que se establece las condiciones sanitarias aplicables a la producción y comercialización de leche cruda, leche tratada térmicamente y productos lácteos.
+
+> Se modifica el apartado 2 por la disposición adicional 3 del Real Decreto 2087/1994, de 20 de octubre. Ref. BOE-A-1994-27906.
 
 > Se modifica el apartado 23 por la disposición adicional 2 del Real Decreto 2044/1994, de 14 de octubre. Ref. BOE-A-1994-27474.
 
