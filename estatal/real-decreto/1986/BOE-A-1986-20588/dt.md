@@ -1,0 +1,3 @@
+## DISPOSICIÓN TRANSITORIA
+
+A quienes por haber tenido la condición de mutualista en cualquier Mutualidad Laboral de trabajadores por cuenta ajena en 1 de enero de 1967 tengan derecho, de acuerdo con lo dispuesto en el número 9 de la disposición transitoria primera de la Orden de 18 de enero de 1967, en la redacción dada por la Orden de 17 de septiembre de 1976, a causar la pensión de jubilación a partir de los sesenta años, les serán aplicables los coeficientes establecidos en el artículo 2º del presente Real Decreto, al exclusivo efecto de determinar el coeficiente reductor que corresponda en cada caso, con arreglo a la escala contenida en la citada disposición transitoria, teniéndose en cuenta, a todos los demás efectos, la edad real del trabajador.
