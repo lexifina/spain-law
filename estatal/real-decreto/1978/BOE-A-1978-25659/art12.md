@@ -1,0 +1,3 @@
+## Art. 12.
+
+La imposición de servidumbre de señal llevará aparejada la correspondiente indemnización, tanto por la superficie del terreno ocupado por la señal, como por los daños y perjuicios ocasionados, tales corno los que pueden producirse en caminos, plantaciones o arbolados, por el transporte de materiales, aparatos y herramientas, los que deban causarse en árboles y otros obstáculos con objeto de permitir la utilización de las señales y cualesquiera otros que puedan derivarse del desarrollo normal de los trabajos que según el artículo 5.º de la Ley 11/1975, han sido declarados de utilidad pública.

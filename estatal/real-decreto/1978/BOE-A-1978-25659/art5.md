@@ -1,0 +1,5 @@
+## Art. 5.º
+
+La ocupación temporal previa del terreno, que permita comprobar que el punto elegido reúne los requisitos técnicos necesarios, antes de proceder a la instalación de la señal y a la imposición de la servidumbre correspondiente, y cualquier otra de las previstas en el título IV de la Ley y Reglamento de Expropiación Forzosa, se regirán por estas disposiciones. Los funcionarios encargados de llevarlas a cabo deberán ir provistos de los documentos que acrediten su misión, expedidos por la Dirección General del Instituto Geográfico Nacional. En el caso considerado en el artículo 110 de dicha Ley y en el apartado 3 del artículo 126 de su Reglamento, se dará cuenta al Gobernador Civil de la provincia o a la autoridad competente por razón del caso.
+
+El replanteo del punto elegido se materializará con una señal provisional, consistente en una bandera o marca con pintura cuya destrucción o deterioro serán sancionados con arreglo al Código Penal en virtud de lo establecido en el artículo 15 de la Ley 11/1975.
