@@ -1,0 +1,3 @@
+## Primero. Principios básicos.
+
+Los miembros del Gobierno y los altos cargos de la Administración General del Estado actuarán, en el desempeño de sus funciones, de acuerdo con la Constitución y el resto del ordenamiento jurídico, y ajustarán sus actuaciones a los siguientes principios éticos y de conducta que se desarrollan en este Código: objetividad, integridad, neutralidad, responsabilidad, credibilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, y promoción del entorno cultural y medioambiental y de la igualdad entre hombres y mujeres.
