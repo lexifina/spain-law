@@ -1,0 +1,5 @@
+## Undécimo.
+
+1. Los alumnos a los que se refiere el número segundo de la presente Orden y que, o bien no reúnan las condiciones establecidas en el segundo párrafo de dicho número o bien abandonen el Centro sin haber superado la totalidad de los cursos correspondientes a un determinado nivel, convalidaran sus estudios por el procedimiento regulado en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de niveles no universitarios y en las normas dictadas en desarrollo del mismo. El régimen de equivalencias aplicable a estos supuestos será el mencionado en el número tercero de la presente Orden.
+
+2. Deberán acogerse, asimismo, al mencionado procedimiento de homologación y convalidación de títulos y estudios extranjeros aquellos alumnos extranjeros de Centros que no tengan implantadas las materias relacionadas en los anexos del Real Decreto 1110/1978, de 12 de mayo, sobre régimen de Centros extranjeros en España. El régimen de equivalencias aplicable en este supuesto será el establecido con carácter general para el sistema educativo de que se trate.
