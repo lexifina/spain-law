@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Constitución de servicio de prevención propio.
+
+Sin perjuicio del mantenimiento de aquellas actividades preventivas que se estuvieran realizando en la empresa en la fecha de entrada en vigor de esta disposición, los servicios de prevención propios que deban constituir las empresas de más de 250 trabajadores y hasta 1.000 trabajadores, de conformidad con lo dispuesto en los párrafos a) y b) del artículo 14, deberán estar en funcionamiento a más tardar el 1 de enero de 1999, con excepción de las empresas que realizan alguna de las actividades incluidas en el anexo I que lo harán el 1 de enero de 1998.
+
+Hasta la fecha señalada en el párrafo anterior, las actividades preventivas en las empresas citadas deberán ser concertadas con una entidad especializada ajena a la empresa, salvo aquellas que vayan siendo asumidas progresivamente por la empresa mediante la designación de trabajadores, hasta su plena integración en el servicio de prevención que se constituya.
