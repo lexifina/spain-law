@@ -12,4 +12,6 @@ a) Investigación en las instalaciones científicas relacionadas en el anexo VII
 
 b) Investigación en los ámbitos de microtecnologías y nanotecnologías, genómica y proteómica y energías renovables referidas a biomasa, realizadas por las entidades que a estos efectos se reconozcan por el Ministerio de Hacienda, a propuesta del Ministerio de Ciencia y Tecnología y oídas previamente las Comunidades Autónomas competentes en materia universitaria, en el plazo de dos meses desde la entrada en vigor de esta Ley.
 
+> Se prorrogan los apartados 2, 3 y 4, para el año 2002, por la disposición adicional 12.3 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964.
+
 > Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 189, de 8 de agosto de 2001. Ref. BOE-A-2001-15548.

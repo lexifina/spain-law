@@ -10,4 +10,6 @@ A efectos de lo previsto en el artículo 67 de la Ley 30/1994, de 24 de noviembr
 
 4.º Los programas de formación del voluntariado que hayan sido objeto de subvención por parte de las Administraciones públicas.
 
+> Se prorroga para el año 2002 lo dispuesto en los números 2 a 4 por la disposición adicional 12 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964.
+
 > Se prorroga para el año 2001 por la disposición adicional 20.1 de la Ley 13/2000, de 28 de diciembre. Ref. BOE-A-2000-24265.

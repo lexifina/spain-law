@@ -37,3 +37,5 @@ Centro astronómico de Calar Alto.
 Observatorio del Teide.
 
 Observatorio del Roque de los Muchachos.
+
+> Véase la disposición adicional 12.3 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964., que incluye en este anexo La Central de Tecnología del Instituto de Sistemas Optoeléctricos de la Universidad Politécnica de Madrid, a los efectos indicados.
