@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Obligaciones y responsabilidades de las empresas usuarias y de las empresas que reciban en España la prestación de servicios de los trabajadores desplazados.
+
+Las empresas usuarias y las empresas que reciban en España la prestación de servicios de los trabajadores desplazados al amparo de lo dispuesto en la presente Ley asumirán respecto de dichos trabajadores las obligaciones y responsabilidades previstas en la legislación española para tales supuestos, con independencia del lugar en que radique la empresa de trabajo temporal o la empresa prestataria de los servicios.
