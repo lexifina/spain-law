@@ -18,7 +18,7 @@
 | Semilla de base y ant. | 98 | 2 | 99,9 | 1/1.000 | 0,3 % | 0 | 0 (b) (c) | 10/100 gr. | 2/100 gr. | 85 | 8 |
 | Semilla certificada | 98 | 2 | 99,7 | 3/1.000 | 0,3 % | 0 | 0 (b) (c) | 10/100 gr. | 5/100 gr. | 85 | 8 |
 | Girasol: |  |  |  |  |  |  |  |  |  |  |  |
-| Semilla de base y ant. | 98 | 2 | 99,8 | 1/1.000 | 5/1.000 gr. | 0 | 0 (b) | – | – | 85 | 8 |
+| Semilla de base y ant. | 98 | 2 | 99,8 | 1/1.000 | 5/1.000 gr. | 0 | 0 (b) | – | – | 85 (d) | 8 |
 | Semilla certificada | 98 | 2 | 99,7 (a) | 3/1.000 | 5/1.000 gr. | 0 | 0 (b) | – | – | 85 | 8 |
 | Lino oleaginoso: |  |  |  |  |  |  |  |  |  |  |  |
 | Semilla de base y ant. | 99 | 1 | 99,7 | – | 15/150 gr. | 0 | 0 (b) (c) | – | – | 85 | 12 |
@@ -42,6 +42,8 @@ Notas:
 (b) El conteo de semillas de «Cúscuta sp.p.» puede no realizarse, a no ser que haya dudas respecto al contenido de las mismas.
 
 (c) La presencia de una semilla de «Cúscuta sp.p.», en un muestra del peso indicado, no se considera impureza si una segunda muestra del mismo peso, está exenta.
+
+(d) La semilla de base que no cumpla los requisitos mínimos de germinación se podrá utilizar para producir semilla por la propia entidad, siempre que exista aceptación expresa de esta circunstancia por parte del agricultor colaborador, y previa autorización del Servicio Oficial de Control.
 
 Observaciones:
 
@@ -74,6 +76,8 @@ b) Con respecto a Diaporthe phaseolorum, el número máximo de semillas contamin
 c) El procentaje en peso de materia inerte, obtenido de acuerdo con los actuales métodos internacionales de análisis, no deberá sobrepasar un 0,3 por 100.
 
 4.ª Para las semillas comerciales serán de aplicación los requistos indicados para la última categoría de semilla certificada, excepto los de pureza varietal.
+
+> Se modifica por el art. único.5 de la Orden de 19 de mayo de 1999. Ref. BOE-A-1999-11976.
 
 > Se modifica la observación 3ª por el art. 2.3 de la Orden de 13 de julio de 1992. Ref. BOE-A-1992-17436.
 

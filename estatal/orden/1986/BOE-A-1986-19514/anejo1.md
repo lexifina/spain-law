@@ -12,14 +12,14 @@
 | Semilla certificada (R–1) | 3 Ha. | 1 año | 5 m. | 2/1.000 | 5/Ha. | 500/Ha. |
 | Semilla certificada (R.–2) | 5 Ha. | 1 año | 5 m. | 5/1.000 | 5/Ha. | 500/Ha. |
 | Cártamo: |  |  | (5) |  |  |  |
-| Semilla de base | – | 2 año | 500 m. | 1/30 m2 | Cero | 50/Ha. |
-| Semilla certificada | 10 Ha. | 2 años | 200 m. | 1/10 m2 | 5/Ha. | 500/Ha. |
+| Semilla de base | – | 2 años | 500 m. | 1/30 m2 | Cero | 50/Ha. |
+| Semilla certificada | 5 Ha. | 2 años | 200 m. | 1/10 m2 | 5/Ha. | 500/Ha. |
 | Colza: |  |  | (5) |  |  |  |
 | Semilla de base | – | 3 años (2) | 400 m. (3) | 1/1.000 | 1/100 m2 (4) | 50/Ha. |
 | Semilla certificada | 5 Ha. | 3 años (2) | 200 m. (3) | 3/1.000 | 4/100 m2 (4) | 500/Ha. |
 | Girasol: |  |  | (5) |  |  |  |
-| Semilla de base | – | 3 años (1) | 1.000 m. | 2/1.000 | Cero | 50/Ha. |
-| Semilla certificada | 10 Ha. | 2 años (1) | 500 m. | 5/1.000 | 5/Ha. | 500/Ha. |
+| Semilla de base | – | 2 años naturales(1) | 1.000 m. | 2/1.000 | Cero | 50/Ha. |
+| Semilla certificada | 5 Ha. | 1 año natural (1) | 500 m. | 5/1.000 | 5/Ha. | 500/Ha. |
 | Lino oleaginoso: |  |  |  |  |  |  |
 | Semilla de base | – | 2 años | 10 m. | 3/1.000 | – | – |
 | Semilla certificada (R–1 y R–2) | 2 Ha. | 2 años | 0,5 m. | 20/1.000 | – | – |
@@ -32,7 +32,7 @@
 | Soja: |  |  |  |  |  |  |
 | Semilla de base | – | 1 año | 20 m. | 1/1.000 | Cero | 50/Ha. |
 | Semilla certificada (R–1) | 5 Ha. | 1 año | 5 m. | 2/1.000 | 5/Ha. | 500/Ha. |
-| Semilla certificada (R–2) | 10 Ha. | 1 año | 5 m. | 5/1.000 | 5/Ha. | 500/Ha. |
+| Semilla certificada (R–2) | 5 Ha. | 1 año | 5 m. | 5/1.000 | 5/Ha. | 500/Ha. |
 
 Notas:
 
@@ -44,11 +44,11 @@ Notas:
 
 (4) Se refiere a plantas del género «Brassica», tanto cultivadas como silvestres.
 
-(5) Estas distancias podrán no observarse cuando exista una protección suficiente contra cualquier polinización extraña no deseable.
+(5) Estas distancias podrán no observarse cuando exista una protección artificial que impida el paso de agentes polinizadores.
 
 Observaciones:
 
-1.ª Tamaño mínimo de las parcelas.–No existirá limitación en las parcelas de producción de semilla de variedades de reciente introducción o de venta limitada, siempre que para cada una no se siembren mas de dos parcelas diferentes en una misma zona.
+1.ª Tamaño mínimo de las parcelas.-A los efectos de este precepto, se podrá considerar como "parcela" a un conjunto de parcelas contiguas, o separadas menos de 200 metros, pertenecientes al mismo o a distintos propietarios, cuando concurran circunstancias que así lo aconsejen y previa autorización del Servicio Oficial de Control.
 
 2.ª Aislamientos.–No se exige aislamiento alguno entre dos parcelas de producción de semilla híbrida, siempre que el parental masculino utilizado sea el mismo en las dos parcelas.
 
@@ -62,9 +62,13 @@ Los Organismos oficiales de control podrán diferir la aceptación o anulación 
 
 5.ª Plantas infectadas.–Se considerarán aquellas enfermedades que se transmiten por semilla o que dañen a ésta directa o indirectamente de forma apreciable. La presencia ?de plantas atacadas por estas enfermedades podrá ser objeto de rechace del campo.
 
-En especial y en producción de semilla de girasol se rechazará toda parcela en que aparezca alguna planta atacada por «Plasmopara sp. (mildiu)» o que esté situada a menos de 1.000 metros de un foco localizado de mildiu.
+En especial y en relación con la producción de semilla de girasol, se rechazará toda parcela en la que, en una inspección oficial, se detecte más del 0,1 por 100 de plantas atacadas de mildiu (Plasmopara ssp.) cuando se trate de variedades resistentes, y del 0,01 por 100 en variedades sensibles.
+
+En el caso de variedades sensibles, además de cumplirse lo expuesto anteriormente, para poder comercializarlas será obligatorio un tratamiento previo de la semilla con una materia activa de probada eficacia contra dicha enfermedad.
 
 En el caso de soja (Glycine max) se prestará especial atención a los microorganismos: Pseudomonas syringae pv. glycinea, Diaporthe phaseolorum var. caulivora y var. sojea, Phialophora gregata y Phytophthora megasperma f. sp. glycinea.
+
+> Se modifica por el art. único.4 de la Orden de 19 de mayo de 1999. Ref. BOE-A-1999-11976.
 
 > Se modifica por el art. 2.2 de la Orden de 13 de julio de 1992. Ref. BOE-A-1992-17436.
 

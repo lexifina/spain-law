@@ -85,9 +85,9 @@ c) Requisitos especiales de la semilla certificada:
 
 d) Requisitos especiales para la producción de semilla de híbridos de girasol:
 
-d) 1. Aislamiento.–La distancia mínima respecto a otro campo de la misma especie será de 1.000 metros.
+d) 1. Aislamiento.-La distancia mínima respecto a otro campo de la misma especie será de 700 metros.
 
-En casos particulares, podrán admitirse distancias menores, pero nunca inferiores a 800 metros.
+Dicha distancia podrá no observarse cuando exista una protección artificial que impida el paso de agentes polinizadores.
 
 Cuando se trate de dos campos de producción con el mismo parental masculino no será necesario aislamiento. En este caso, si uno de los campos fuera rechazado por hembras emitiendo polen, quedaría rechazada la franja del otro que estuviera situada a menos de 200 metros del extremo del campo rechazado,
 
@@ -115,7 +115,7 @@ e) Requisitos de las semillas: Las semillas de las distintas categorías han de 
 
 f) Comunicaciones de los productores:
 
-1.º Declaración de cultivos.-La declaración de cultivos tiene que obrar en poder de los Servicios Oficiales de Control en un plazo máximo de veinte días después de efectuada la siembra de las parcelas.
+1.º Declaración de cultivos.-La declaración de cultivos tiene que obrar en poder de los Servicios Oficiales de Control en un plazo máximo de treinta días después de efectuada la siembra de las parcelas.
 
 Se podrá exigir a los productores que acompañen croquis detallados de situación de la finca y de la parcela.
 
@@ -127,10 +127,8 @@ Floración en un plazo máximo de tres días después de iniciada.
 
 Fecha en que se iniciará la recolección.
 
-Situación de almacenes y semilla a recoger en cada uno de ellos.
+> Se modifican los apartados d).1 y f) por el art. único.1 y 2 de la Orden de 19 de mayo de 1999. Ref. BOE-A-1999-11976.
 
-Iniciación de las operaciones de selección y preparación de la semilla.
-
-> Se modifican las letras e') y g') del apartado b.1º por el art. 2.1 de la Orden de 13 de julio de 1992. Ref. BOE-A-1992-17436.
+> Se modifican las letras e') y g') del apartado b).1º por el art. 2.1 de la Orden de 13 de julio de 1992. Ref. BOE-A-1992-17436.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 13, de 15 de enero de 1987. Ref. BOE-A-1987-893

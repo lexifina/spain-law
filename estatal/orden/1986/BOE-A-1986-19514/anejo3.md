@@ -11,7 +11,8 @@
 | Cártamo | 25.000 | 900 | 900 |
 | Colza | 10.000 | 200 | 100 |
 | Girasol: |  |  |  |
-| Semilla de base y ant. | 10.000 | 1.000 | 1.000 |
+| Semilla de prebase | 10.000 | 100 | 100 |
+| Semilla de base | 10.000 | 1.000 | 1.000 |
 | Semilla certificada | 25.000 | 1.000 | 1.000 |
 | Lino | 10.000 | 300 | 150 |
 | Mostaza de la China | 10.000 | 100 | 40 |
@@ -26,6 +27,8 @@ Obervaciones:
 Los lotes de semilla de base estarán constituidos por semillas procedentes de un solo campo.
 
 Los lotes de semilla certificada pueden proceder de una o varias parcelas de la misma zona.
+
+> Se modifica por el art. único.6 de la Orden de 19 de mayo de 1999. Ref. BOE-A-1999-11976.
 
 > Se modifica por el art. 2 de la Orden de 17 de julio de 1996. Ref. BOE-A-1996-16632.
 
