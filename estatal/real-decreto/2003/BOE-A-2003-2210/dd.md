@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa singular.
+
+Quedan derogados el Real Decreto 768/1999, de 7 de mayo, por el que se aprueba el Reglamento para el control del cumplimiento de la normativa internacional sobre seguridad marítima, prevención de la contaminación y condiciones de vida y trabajo en los buques extranjeros que utilicen puertos o instalaciones situadas en aguas jurisdiccionales españolas, y el Real Decreto 1828/2000, de 3 de noviembre, de modificación del anterior, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este Real Decreto.

@@ -1,0 +1,3 @@
+## Artículo único. Aprobación del Reglamento.
+
+Se aprueba el Reglamento, que se inserta a continuación de este Real Decreto, por el que se regulan las inspecciones de buques extranjeros en puertos españoles, en aplicación de las Directivas 95/21/CE del Consejo, de 19 de junio de 1995; 96/40/CE de la Comisión, de 25 de junio de 1996; 98/25/CE del Consejo, de 27 de abril de 1998, y 98/42/CE de la Comisión, de 19 de junio de 1998, 99/97/CE de la Comisión, de 13 de diciembre de 1999, y 2001/106/CE del Parlamento Europeo y del Consejo, de 19 de diciembre de 2001, por la que se modifica la Directiva 95/21/CE.
