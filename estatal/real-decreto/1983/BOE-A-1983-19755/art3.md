@@ -24,7 +24,7 @@
 
 3.2.5 La intervención de cualquier persona, firma o Empresa en forma que suponga la aparición de un nuevo escalón intermedio dentro del proceso habitual de distribución, siempre que origine o dé ocasión a un aumento no autorizado de los precios o márgenes máximos fijados.
 
-3.2.6 Toda acción u omisión, ya sea individual o colectiva, que constituya paralización o amenaza de ella, de una actividad comercial o de prestación de servicios al público, siempre que sea realizada con el propósito de rehuir el cumplimiento de las disposiciones en materia de precios, ordenación de transacciones comerciales o régimen de servicios, con perjuicio directo e inmediato para el consumidor o usuario.
+3.2.6 (Anulado)
 
 3.2.7 El acaparamiento o detracción injustificada al mercado de materias o productos destinados directa o indirectamente al suministro o venta al público, en perjuicio directo e inmediato para el consumidor o usuario.
 
@@ -49,5 +49,7 @@
 3.3.7 El incumplimiento de las disposiciones u ordenanzas sobre condiciones de venta en la vía pública, domiciliaria, ambulante, por correo o por entregas sucesivas o de cualquier otra forma de toda clase de bienes o servicios.
 
 3.3.8 El incumplimiento de las disposiciones sobre seguridad en cuanto afecten o puedan suponer un riesgo para el usuario o consumidor.
+
+> Se declara nulo el apartado 3.2.6 por Sentencia del TS de 10 de febrero publicada por Orden de 14 de noviembre de 1988. Ref. BOE-A-1988-29362.
 
 > Redactado el apartado 3.2.6 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. Ref. BOE-A-1983-22150.
