@@ -1,7 +1,11 @@
 ## Artículo 29.
 
-Uno. El Presidente de la Diputación Foral será elegido por el Parlamento y nombrado por el Rey.
+1. El Presidente del Gobierno de Navarra o Diputación Foral será elegido por el Parlamento, de entre sus miembros, y nombrado por el Rey.
 
-Dos. El Presidente del Parlamento, previa consulta con los Portavoces designados por los Partidos o Grupos Políticos con representación parlamentaria, propondrá un candidato a Presidente de la Diputación Foral.
+2. El Presidente del Parlamento, previa consulta con los portavoces designados por los partidos o grupos políticos con representación parlamentaria, propondrá un candidato a Presidente del Gobierno de Navarra o Diputación Foral.
 
-Tres. El candidato presentará su programa al Parlamento. Para ser elegido, el candidato deberá, en primera votación, obtener mayoría absoluta. De no obtenerla, se procederá a una nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviera mayoría absoluta en la segunda o simple en las sucesivas votaciones. Caso de no conseguirse tales mayorías se tramitarán sucesivas propuestas en la forma prevista anteriormente. Si, transcurrido el plazo de dos meses a partir de la primera votación, ningún candidato hubiera obtenido la mayoría simple, será designado Presidente de la Diputación Foral el candidato del Partido que tenga mayor número de escaños.
+3. El candidato presentará su programa al Parlamento. Para ser elegido, el candidato deberá, en primera votación, obtener mayoría absoluta. De no obtenerla, se procederá a una segunda votación veinticuatro horas después de la anterior, y la confianza se entenderá otorgada al candidato si obtuviera mayoría simple en esta segunda votación. Caso de no conseguirse esta mayoría, el candidato quedará rechazado y se tramitarán las sucesivas propuestas de candidato en la forma prevista anteriormente.
+
+4. Si transcurrido el plazo de treinta días naturales a partir de la primera votación ningún candidato hubiera sido elegido, el Parlamento quedará disuelto, convocándose de inmediato nuevas elecciones. El mandato del nuevo Parlamento durará, en todo caso, hasta la fecha en que hubiere concluido el del primero.
+
+> Se modifica por el art. 1 de la Ley Orgánica, 1/2001, de 26 de marzo. Ref. BOE-A-2001-6006.
