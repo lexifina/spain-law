@@ -29,3 +29,5 @@ Vicepresidente: Director general de Procesos e Infraestructura Estadística del 
 Vocales: seis vocales representantes de los Ministerios en el Pleno de la Comisión, elegidos por éste.
 
 Secretario: el Secretario de la Comisión Interministerial de Estadística.»
+
+> Se suprimen los órganos destacados por la disposición adicional única del Real Decreto 947/2003, de 18 de julio. Ref. BOE-A-2003-15367.
