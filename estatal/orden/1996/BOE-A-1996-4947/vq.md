@@ -1,0 +1,7 @@
+## Vigésimo quinto. Evaluación.
+
+1. El Ministerio de Educación y Ciencia establecerá un plan de evaluación de la Inspección educativa, en cumplimiento de lo dispuesto en el artículo 34 de la Ley Orgánica 9/1995, de 20 de noviembre, de la participación, la evaluación y el gobierno de los centros docentes. El plan tendrá como finalidad valorar los resultados de la ejecución de las funciones encomendadas a la inspección, preferentemente las actuaciones prioritarias establecidas en los Planes de Actuación para cada curso académico.
+
+2. El Ministerio de Educación y Ciencia podrá completar y contrastar los resultados de las evaluaciones realizadas por la Inspección con los de otras autoridades, órganos o servicios, que hayan podido tener alguna intervención en las actuaciones evaluadas.
+
+3. Los Inspectores serán evaluados en su trabajo cada tres años, de acuerdo con los programas y métodos establecidos por la Dirección General de Coordinación y de la Alta Inspección. En tales evaluaciones deberán tenerse en cuenta preceptivamente los informes de los Inspectores-Jefes provinciales y de la Subdirección General de la Inspección de Educación. Los resultados de las evaluaciones del ejercicio profesional y la experiencia en el mismo serán tenidos en cuenta para la carrera profesional y administrativa de los inspectores, especialmente para el desempeño de puestos de responsabilidad dentro de la inspección.
