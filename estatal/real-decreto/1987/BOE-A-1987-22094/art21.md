@@ -10,4 +10,4 @@ El Instituto de Estudios de Administración Local podrá descentralizar territor
 
 4. Quienes superen el curso de formación ingresarán en la subescala correspondiente y estarán habilitados para participar en los concursos convocados para la provisión de puestos de trabajo de cada Entidad local, sin perjuicio de lo establecido en este Real Decreto sobre la exigencia de pertenecer a una determinada categoría para el desempeño de determinados puestos de trabajo.
 
-5. No obstante lo anterior, si no participaran en el primer concurso que se convoque o habiendo participado no tomaren posesión del puesto de trabajo adjudicado, no adquirirán la condición de funcionario de carrera.
+> Se deroga el apartado 5 por la disposición derogatoria única del Real Decreto 834/2003, de 27 de junio. Ref. BOE-A-2003-13738.

@@ -1,15 +1,15 @@
 ## Artículo 22.
 
-1. Para participar en las pruebas selectivas los aspirantes deberán estar en posesión, en el momento en que termine el plazo de presentación de instancias, de los siguientes títulos académicos:
+1. Para participar en las pruebas selectivas los aspirantes deberán estar en posesión, en el momento en que termine el plazo de presentación de instancias, de alguno de los siguientes títulos académicos:
 
-a) Subescala de Secretaría. Licenciado en Derecho o en Ciencias Políticas y Sociología.
+a) Subescala de Secretaría: Licenciado en Derecho, Licenciado en Ciencias Políticas y de la Administración, Licenciado en Sociología.
 
-b) Subescala de Intervención-Tesorería: Licenciado en Derecho, Ciencias Económicas o Empresariales.
+b) Subescala de Intervención-Tesorería: Licenciado en Derecho, Licenciado en Administración y Dirección de Empresas, Licenciado en Economía, Licenciado en Ciencias Actuariales y Financieras.
 
-c) Subescala de Secretaría-Intervención: Haber superado los tres primeros cursos de las Licenciaturas de Derecho, Ciencias Políticas y Sociología o Económicas y Empresariales.
+c) Subescala de Secretaría-Intervención: Licenciado en Derecho, Licenciado en Ciencias Políticas y de la Administración, Licenciado en Sociología, Licenciado en Administración y Dirección de Empresas, Licenciado en Economía, Licenciado en Ciencias Actuariales y Financieras.
 
-2. A efectos de lo establecido en el artículo 25 de la Ley 30/1984, de 2 de agosto, y de conformidad con la titulación exigida para su obtención, las distintas subescalas en que se estructura la habilitación de carácter nacional quedarán integradas en la forma siguiente:
+2. A efectos de lo establecido en el artículo 25 de la Ley 30/1984, de 2 de agosto, y de conformidad con la titulación exigida para su obtención, las distintas subescalas en que se estructura la habilitación de carácter nacional quedarán integradas en el grupo A.
 
-a) Subescalas de Secretaría y de Intervención-Tesorería: Grupo A.
+> Se modifica por el art. 1 del Real Decreto 834/2003, de 27 de junio. Ref. BOE-A-2003-13738.
 
-b) Subescala de Secretaría-Intervención: Grupo B.
+> Téngase en cuenta la disposición transitoria única en cuanto a la aplicación de los apartados 1.a) y b).
