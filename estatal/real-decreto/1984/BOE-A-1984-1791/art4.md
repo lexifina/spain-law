@@ -8,17 +8,21 @@ b) Los plaguicidas de uso ganadero, en el Registro de productos Zoosanitarios de
 
 c) Los plaguicidas para uso en la industria alimentaria, en el Registro General Sanitario de Alimentos de la Dirección General de Salud Pública.
 
-d) Los plaguicidas de uso ambiental, y de uso en higiene personal, en el Registro de Autorizaciones y Registros Especiales de la Dirección General de Farmacia y Medicamentos.
+d) Los plaguicidas de uso ambiental en su Registro de la Dirección General de Salud Alimentaria y Protección de los Consumidores.
 
-4.2 Para la inscripción de los plaguicidas en los Registros respectivos, sus aspectos, de peligrosidad para las personas deberán ser homologadas por la Dirección General de Salud Pública, la cual, a petición del Organismo responsable del Registro Oficial correspondiente, determinará:
+e) Los plaguicidas de uso en higiene personal y los desinfectantes de material clínico y farmacéutico y de ambientes quirúrgicos en el correspondiente Registro de la Dirección General de Farmacia y Productos Sanitarios.
 
-a) La clasificación toxicológica del plaguicida, de acuerdo con las categorías establecidas en el epígrafe 3.1.1.
+4.2 Para la inscripción de los plaguicidas en sus respectivos Registros, sus aspectos de peligrosidad para las personas deberán ser homologados por la Dirección General de Salud Alimentaria y Protección de los Consumidores que, a petición del organismo responsable del Registro Oficial correspondiente, determinará:
 
-b) Si el plaguicida se encuentra incluido en alguno o algunos de los grupos especificados en el epígrafe 3.1.2.
+a) La clasificación del plaguicida, de acuerdo con lo establecido en el artículo 3.º
 
-c) Los símbolos de peligro, menciones de riesgos particulares y consejos de prudencia para su utilización, a que se refieren los apartados a), b), c) y d) del epígrafe 9.2.
+b) Las sustancias que, atendiendo a lo especificado en el apartado 3, d), del artículo 9.º, deban ser mencionadas expresamente en la etiqueta del plaguicida.
 
-d) Si puede o no ser autorizado como plaguicida para uso doméstico, determinando en caso afirmativo la capacidad máxima de sus envases.
+c) Los símbolos de peligro, menciones de riesgo particulares (frases R) y consejos de prudencia (frases S) a que se refieren los puntos g), h), j) y l), del apartado 3 del artículo 9.º
+
+d) Si el plaguicida puede ser utilizado para uso doméstico.
+
+e) La capacidad máxima de los envases, en caso de que aquélla se considere factor determinante de su peligrosidad para las personas.
 
 4.3 Para aquellos plaguicidas de cuya utilización pueda derivarse presencia de sus residuos en productos destinados a la alimentación humana o animal, el procedimiento descrito en el epígrafe 4.2 se completará de la siguiente forma:
 
@@ -28,6 +32,12 @@ d) Si puede o no ser autorizado como plaguicida para uso doméstico, determinand
 
 4.3.3 Los Organismos competentes para autorizar y registrar los plaguicidas, establecerán los plazos de seguridad y demás condiciones de utilización de los mismos, de forma que no sean superados los límites máximos de residuos (LMR).
 
-4.4 Los aditivos, los coadyuvantes y los ingredientes inertes deberán ser especificados por el fabricante en la solicitud de inscripción en los Registros Oficiales a que se refiere el epígrafe 4.1, que serán considerados confidenciales con las salvedades previstas en el punto 9.1, g), quedando obligado a suprimir o sustituir aquellos que no sean autorizados a tal efecto por la Dirección General de Salud Pública.
+4.4 Los aditivos, los coadyuvantes y los ingredientes inertes de cada preparado, deben ser especificados por el titular de la solicitud de inscripción registral a que se refiere el apartado 4.1 y serán considerados confidenciales con las salvedades previstas en el punto 9.º, 3, d). En todo caso es obligatoria la supresión o sustitución de aquellos no autorizados a tal efecto por el Ministerio de Sanidad y Consumo.
 
 4.5 A efectos de su control oficial, las fábricas de plaguicidas, los locales en que se almacenen o comercialicen plaguicidas y las instalaciones destinadas a realizar tratamientos con los mismos, así como los aplicadores y las empresas de tratamientos con plaguicidas, deberán estar inscritos en el Registro Oficial de Establecimientos y Servicios Plaguicidas, del que existirá una oficina en cada provincia, que comprenderá el anterior denominado Registro Oficial de Productores y Distribuidores de Productos y Material Fitosanitario, así como lo relativo a los restantes plaguicidas comprendidos en la presente Reglamentación. Los Ministerios de Agricultura, Pesca y Alimentación y de Sanidad y Consumo establecerán conjuntamente las normas de inscripción y funcionamiento de dicho Registro.
+
+4.6 A los efectos de este artículo, la Dirección General de Farmacia y Productos Sanitarios realizará las determinaciones y controles necesarios respecto a los plaguicidas de uso en higiene personal y los desinfectantes de material clínico y farmacéutico y de ambientes quirúrgicos.
+
+> Se modifica por el art. único.3 del Real Decreto 162/1991, de 8 de febrero. Ref. BOE-A-1991-4002.
+
+> Téngase en cuenta para su aplicación la disposición transitoria.1

@@ -41,3 +41,9 @@ f) Hacer inofensivos, destruir o prevenir la acción de otros organismos nocivos
 2.13 Plaguicidas para uso en higiene personal: aquellos preparados útiles para la aplicación directa sobre el hombre.
 
 2.14 Plaguicidas para uso doméstico: cualquiera de los definidos en los epígrafes 2.9 a 2.13, autorizados expresamente para que puedan ser aplicados por personas no especialmente cualificadas en viviendas y otros locales habitados.
+
+2.15 Para los ingredientes activos plaguicidas que sean sustancias químicas, son asimismo de aplicación las restantes definiciones establecidas en el artículo 2.º del Reglamento de Sustancias Nuevas y Clasificación, Envasado y Etiquetado de Sustancias Peligrosas (en lo sucesivo Reglamento de Sustancias), aprobado por Real Decreto 2216/1985, de 23 de octubre.
+
+> Se añade el apartado 2.15 por el art. único.1 del Real Decreto 162/1991, de 8 de febrero. Ref. BOE-A-1991-4002.
+
+> Téngase en cuenta para su aplicación la disposición transitoria.1

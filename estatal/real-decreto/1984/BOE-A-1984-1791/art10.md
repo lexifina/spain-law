@@ -10,7 +10,13 @@
 
 10.2.1 En los almacenes y locales donde se comercialicen plaguicidas, éstos se mantendrán en sus envases de origen cerrados y precintados; quedando, en consecuencia, prohibida su venta a granel.
 
-10.2.2 Los plaguicidas clasificados en las categorías de baja peligrosidad y nocivos, en envases de contenido no superior a un kilogramo, para los presentados en forma de polvo para espolvoreo y granulados, y no superior a 500 gramos o 500 mililitros, para el resto de los plaguicidas, podrán ser comercializados en establecimientos mixtos, siempre y cuando estén expuestos al público en estanterías o lugares independientes y se almacenen en otros locales completamente separados por pared de obra de aquellos otros donde se almacenen piensos o alimentos.
+10.2.2 Los plaguicidas clasificados como nocivos también podrán ser comercializados en establecimientos mixtos siempre y cuando estén expuestos al público en estanterías o lugares independientes y se almacenen en otros locales completamente separados, por pared de obra, de aquellos otros donde se almacenen piensos o alimentos, siempre que se expendan en envases de contenido no superior a:
+
+1. Un kilogramos, para los formulados en polvo para espolvoreo y los granulados.
+
+2. Un litro para los aerosoles.
+
+3. Quinientos gramos o 500 mililitros para el resto de los plaguicidas.
 
 10.2.3 Como excepción a lo establecido en el epígrafe 4.5, los plaguicidas para uso en higiene personal y los plaguicidas para uso doméstico podrán comercializarse en locales o establecimientos a los que no será exigible su inscripción en el Registro Oficial a que se refiere dicho epígrafe.
 
@@ -39,3 +45,7 @@ c) La aplicación de cualquier tipo de plaguicidas sobre alimentos preparados pa
 10.3.7 Los envases que contengan semillas u otros materiales de reproducción tratados con plaguicidas, a los que se refiere el epígrafe 7.5, deberán ir provistos de una etiqueta en la que se especifique el plaguicida empleado y las indicaciones gráficas correspondientes a su categoría toxicológica, haciendo mención expresa de la prohibición de su utilización para la alimentación humana o animal.
 
 10.3.8 Los envases vacíos que hayan contenido plaguicidas clasificados en las categorías nocivos, tóxicos y muy tóxicos, deberán ser destruidos y enterrados o, en su caso, devueltos al fabricante.
+
+> Se modifica el apartado 2.2 por el art. único.6 del Real Decreto 162/1991, de 8 de febrero. Ref. BOE-A-1991-4002.
+
+> Téngase en cuenta para su aplicación la disposición transitoria.1

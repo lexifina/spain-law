@@ -1,82 +1,72 @@
 ## Art. 9.º Etiquetado.
 
-El etiquetado de los envases y la rotulación de los embalajes de las formulaciones deberán especificar las siguientes indicaciones, redactadas necesariamente en la lengua oficial del Estado español:
+9.1 Los requisitos sobre etiquetado para plaguicidas que se establecen en este artículo corresponden exclusivamente a los fines de la presente Reglamentación, por lo que serán exigidos sin perjuicio de los requisitos que establecen como reglamentaciones específicas.
 
-9.1 Para los productos contenidos en grandes envases, no destinados directamente al usuario, y para los embalajes en general, se atenderá a lo exigido en la reglamentación vigente en materia de transportes de mercancías peligrosas, debiendo incluir en todo caso:
+Todas las indicaciones que deben figurar en la etiqueta estarán redactadas necesariamente, al menos, en la lengua española oficial del Estado, de forma clara, legible e indeleble.
 
-a) El nombre comercial.
+9.2 Los envases y embalajes de los plaguicidas peligrosos, clasificados como tales según el artículo 3.º del presente Reglamento, cumplirán las condiciones de etiquetado siguientes:
 
-b) El contenido neto, expresado en unidades de medida legales.
+a) Los de ingredientes activos técnicos, que sean sustancias químicas destinadas a la elaboración de preparados, conforme a lo establecido en los artículos 24 al 28 del Reglamento aprobado por Real Decreto 2216/1985, de 23 de octubre.
 
-c) El número de inscripción en el Registro Oficial correspondiente.
+b) Los de preparados, y demás productos directamente utilizables como plaguicidas, conforme a lo que se dispone en la presente Reglamentación. No obstante se considerarán cumplidos tales requisitos para los embalajes, cuando su etiquetado incluya un símbolo conforme con los Reglamentos Internacionales en materia de Transporte de Mercancías Peligrosas, suscritos y ratificados por España, y la información que se especifica en los puntos a), b), c), d), e), f), h), i), j), del apartado 9.3.
 
-d) El nombre o la razón social o la denominación del titular de la inscripción en el Registro Oficial correspondiente y su domicilio.
+9.3 La etiqueta de los plaguicidas a que se refiere el apartado 9.2, b), deberá incluir lo siguiente:
 
-e) La identificación del lote de fabricación, quedando a discreción del titular de la inscripción en el Registro Oficial la forma o clave de dicha identificación.
+a) El nombre comercial o denominación del producto.
 
-Será obligatorio tener a disposición de los servicios competentes de la Administración la documentación necesaria para la localización e identificación de cada lote de fabricación.
+b) El número de inscripción en el Registro Oficial correspondiente y el nombre y dirección del titular de la inscripción, responsable de su puesta en el mercado.
 
-f) Los nombres de los ingredientes activos que forman parte de la formulación y sus contenidos respectivos, expresados:
+c) Los nombres comunes, y contenidos respectivos, de los ingredientes activos, expresados en:
 
-– en tanto por ciento de la masa para los plaguicidas sólidos, aerosoles, líquidos volátiles (punto de ebullición máximo 50 °C) y viscosos (límite inferior 1 Pa.s a 20 °C),
+– Porcentaje en peso para los plaguicidas sólidos, aerosoles, líquidos volátiles (punto de ebullición máximo 50º C) y viscosos (límite inferior 1 Pa.s a 20º C).
 
-– en tanto por ciento de la masa y en gramos por litro a 20 °C para los demás plaguicidas líquidos,
+– Porcentaje en peso y en gramos por litro a 20º C para los demás plaguicidas líquidos.
 
-– en tanto por ciento del volumen para los gases.
+– Porcentaje del volumen para los gases.
 
-g) El nombre de todas las sustancias muy tóxicas, tóxicas, nocivas y corrosivas contenidas en la formulación que no sean ingredientes activos, cuyas concentraciones sobrepasan el 0,2 por 100 para las sustancias muy tóxicas y tóxicas, el 5 por 100 para las sustancias nocivas y el 5 por 100 para las sustancias corrosivas.
+d) El nombre de todas las sustancias muy tóxicas, tóxicas, nocivas y corrosivas, que no sean ingredientes activos, contenidas en el plaguicida, cuya concentración sobrepase el 0,2 por 100 para las tóxicas o muy tóxicas, el 5 por 100 para las nocivas y el 5 por 100 para las corrosivas. El nombre de tales sustancias se expresará tal como figura en el anejo I del Reglamento de Sustancias.
 
-9.2 Para los productos envasados en unidades dispuestas para su venta al usuario, y sin perjuicio de lo exigido por las distintas reglamentaciones específicas, las indicaciones deberán incluir, además de la información detallada en los apartados a) al g) el epígrafe 9.1, lo siguiente:
+En el caso de disolventes se atenderá a los límites que establece el Reglamento de Clasificación, Envasado y Etiquetado de Preparados Peligrosos usados como Disolventes, aprobado por Real Decreto 150/1989, de 3 de febrero («Boletín Oficial del Estado» del 14).
 
-a) Los símbolos e indicaciones del peligro siguientes, cuya representación gráfica figura en el anexo 1 y que deberán estar impresos en negro sobre fondo amarillo-anaranjado:
+e) La cantidad neta de plaguicida contenida en el envase, expresada en unidades de medida legales. En caso de existir envase colectivo con varios envases en su interior se especificará el número y clase de unidades contenidas en él.
 
-– Explosivo: una bomba estallando (E).
+f) El número de referencia del lote de fabricación y fecha de fabricación, así como el plazo límite de comercialización, en los casos en que no se pueda garantizar la estabilidad en almacén durante un período mínimo de dos años en condiciones normales.
 
-– Fácilmente inflamable: una llama (F).
+g) Los símbolos o pictogramas e indicaciones de peligro que corresponda, según lo previsto en los apartados 2 y 7 del artículo 26 del Reglamento de Sustancias.
 
-– Muy tóxico: una calavera sobre dos tibias cruzadas (T).
+h) Las menciones (frases R) relativas a la naturaleza de los riesgos particulares que, a los efectos del presente Reglamento, se deriven de tales peligros, hayan sido determinadas de entre las que figuran en el anejo III del Reglamento de Sustancias, y cuyos criterios de elección se detallan en el anejo V de dicho Reglamento.
 
-– Tóxico: una calavera sobre dos tibias cruzadas (T).
+i) Para los plaguicidas clasificados como muy tóxicos, tóxicos y nocivos, la indicación de que el recipiente no podrá volverse a utilizar, excepto en el caso de recipientes especialmente diseñados para que el fabricante los utilice, cargue o rellene de nuevo, incluyendo asimismo la información necesaria para la destrucción o devolución de los mismos.
 
-– Nocivo: una cruz de San Andrés (Xn).
+j) Los consejos de prudencia (frase S) que hayan sido determinados de entre los que figuran en el anejo IV del Reglamento de Sustancias, y cuyos criterios de elección se detallan en el anejo V de dicho Reglamento.
 
-– Corrosivo: la figura de un ácido en actividad (C).
+k) Para plaguicidas clasificados como peligrosos de acuerdo con la presente Reglamentación, sólo podrá incluirse la indicación «para uso doméstico» cuando así haya sido admitido expresamente en su homologación.
 
-– Irritante: una cruz de San Andrés (Xi).
+l) La información necesaria para casos de intoxicación o accidente.
 
-No será necesario indicar el símbolo de irritante si se incluye el de corrosivo o el de tóxico o el de muy tóxico.
+m) El modo de empleo, incluyendo, en su caso, el plazo de seguridad y demás instrucciones precisas para su correcta utilización requeridas por las respectivas normativas específicas.
 
-b) Las menciones relativas a la naturaleza de los riesgos particulares que supone la utilización del plaguicida, que hayan sido determinadas de entre las que figuran en el anexo 2.
+9.4) No podrá figurar en la etiqueta ni en el envase indicaciones tales como «no tóxico», «no nocivo» o análogas, que puedan inducir a error o confusión.
 
-c) Las menciones tipo de los consejos de prudencia para el empleo del plaguicida, que hayan sido determinadas de entre las que figuren en el anexo 3.
+9.5) La superficie y dimensiones de la etiqueta a que se refiere el presente artículo deben responder a los formatos siguientes:
 
-d) El antídoto y las recomendaciones al médico para casos de intoxicación o accidente.
-
-e) Modo de empleo, incluyendo el plazo de seguridad y demás instrucciones precisas para su correcta utilización.
-
-f) Fecha de caducidad.
-
-g) En caso de existir doble envase, especificación del número y clase de unidades contenidas.
-
-h) Para los plaguicidas clasificados toxicológicamente como muy tóxicos, tóxicos y nocivos, la indicación de que el envase no puede volver a ser utilizado, excepto en los envases destinados específicamente a su reutilización, recarga o rellenado por el fabricante o el distribuidor, con las instrucciones precisas para su destrucción o devolución.
-
-i) Los plaguicidas para uso doméstico deberán incluir, además, la leyenda «Autorizado para uso doméstico» en caracteres perfectamente visibles.
-
-9.3 No podrán figurar en las etiquetas ni en los envases de los plaguicidas indicaciones tales como «no tóxico», «no peligroso» y análogas, así como cualquier otra que pueda inducir a error o confusión.
-
-9.4 Cuando las indicaciones exigidas en los epígrafes 9.1 y 9.2 figuren en una etiqueta, ésta deberá estar sólida y totalmente adherida sobre una o varias caras del envase que contenga directamente el plaguicida, de forma que las indicaciones puedan leerse horizontalmente cuando el envase esté situado en posición normal. La superficie o dimensiones mínimas de las etiquetas serán establecidas conjuntamente por los Ministerios de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, sin que sean inferiores a los formatos siguientes:
-
-| Capacidad del envase | Formato (en milímetros) |
+| Capacidad del envase | Formato – Milímetros |
 | --- | --- |
-| Inferior o igual a tres litros | 52 × 74 |
-| Superior a tres litros e inferior o igual a 50 litros | 74 × 105 |
-| Superior a 50 litros e inferior o igual a 500 litros | 105 × 148 |
-| Superior a 500 litros | 148 × 210 |
+| Inferior o igual a 3 litros | Si es posible, al menos, 52 x 74. |
+| Superior a 3 litros e inferior o igual a 50 litros | Al menos 74 x 105. |
+| Superior a 50 litros e inferior o igual a 500 litros | Al menos 105 x 148. |
+| Superior a 500 litros | Al menos 148 x 210. |
 
-Cada símbolo deberá ocupar, al menos, una décima parte de la superficie de la etiqueta mínima a que se refiere el párrafo anterior, sin que sea inferior a un centímetro cuadrado.
+Cada símbolo o pictograma deberá ocupar, al menos, una décima parte de la superficie de la etiqueta mínima definida en el presente artículo, sin que sea inferior a un centímetro cuadrado.
 
-9.5 El color y la presentación de la etiqueta o, en su caso, del envase, deberán ser tales que el símbolo de peligro, a que se refiere el apartado a) del epígrafe 9.2, y su fondo amarillo-anaranjado se distingan claramente.
+9.6 La etiqueta deberá estar sólidamente adherida en toda su superficie, sobre una o varias caras del envase que contenga directamente el plaguicida, de forma que las indicaciones puedan leerse horizontalmente cuando el envase esté en su posición normal. No serán exigidas tales etiquetas cuando las indicaciones expresadas en 9.3 figuren impresas en el propio envase.
 
-9.6 Cuando las indicaciones exigidas en los epígrafes 9.1 y 9.2 figuren impresas en el envase, dichas indicaciones deberán ajustarse a lo especificado en los epígrafes 9.4 y 9.5.
+9.7 El color y la presentación de la etiqueta o, en su caso, del envase deberán ser tales que los símbolos o pictogramas de peligro y su fondo amarillo-anaranjado se distingan claramente.
 
-9.7 Para aquellos casos en que, por imposibilidad evidente, no resulte posible incluir en el envase o en su etiqueta la información especificada en el epígrafe 9.2, podrá suministrarse al usuario de otra forma adecuada; en cuyo caso será debidamente indicado en la etiqueta.
+9.8 No obstante lo expresado en los apartados 3 y 5 del presente artículo, se podrá autorizar el etiquetado de forma distinta para:
+
+a) Los envases cuyas reducidas dimensiones no permitan el tamaño de etiqueta mínimo detallado en el apartado 5.
+
+b) Los envases que contengan cantidades de plaguicidas no clasificados como muy tóxicos o tóxicos, tan pequeñas que no presenten peligro para los usuarios. En cualquiera de los casos deberá existir doble envase y la etiqueta del envase interior deberá contener, como mínimo, la información especificada en los puntos a), b), c), g) y h) del apartado 3 del artículo 9.º, figurando el resto de la información en la etiqueta del envase exterior o en un prospecto que lo acompaña.
+
+> Se modifica por el art. único.5 del Real Decreto 162/1991, de 8 de febrero. Ref. BOE-A-1991-4002.
