@@ -1,0 +1,1 @@
+## Sección primera. Reglas comunes
