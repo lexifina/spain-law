@@ -40,6 +40,8 @@ Segunda categoría: Policías Nacionales.
 
 En todo caso, para concurrir a dichas pruebas, será preciso en el caso de los Oficiales procedentes del Ejército, llevar un mínimo de tres años con destino en la Policía Nacional en la fecha de la convocatoria de estas pruebas.
 
-8. Podrá reservarse, para la promoción interna, con dispensa de un grado del requisito de titulación y siempre que se hayan realizado los cursos y obtenido los diplomas en la Escuela de Policía que reglamentariamente se determinen, hasta un 50 por 100 de las vacantes convocadas para los funcionarios integrados en la Escala inmediata inferior. Los funcionarios citados sólo podrán ejercitar este derecho en tres convocatorias, siéndoles de aplicación las demás previsiones contenidas en la disposición adicional segunda de la presente Ley.
+8. (Derogado)
 
 9. A los efectos previstos en esta disposición, serán computables como de carrera militar los cuatro años de estudios en la Academia Militar de los Oficiales procedentes de las Fuerzas Armadas.
+
+> Se deroga el apartado 8 por la disposición derogatoria única.1 de la Ley 26/1994, de 29 de septiembre. Ref. BOE-A-1994-21315

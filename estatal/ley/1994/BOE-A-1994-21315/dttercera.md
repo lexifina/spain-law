@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Pase a la segunda actividad.
+
+Aquellos funcionarios del Cuerpo Nacional de Policía que a la entrada en vigor de la presente Ley se encuentren en situación de servicio activo y tengan cumplidos los años de edad fijados en el Real Decreto 230/1982 y en la disposición adicional vigésima de la Ley 37/1988, para el pase a la segunda actividad, podrán solicitar el pase a esta situación en el plazo de un mes desde la entrada en vigor de la presente Ley, percibiendo hasta la fecha de su jubilación las retribuciones establecidas en la disposición transitoria primera de la presente Ley para los funcionarios que ya se encuentren en la situación de segunda actividad a la entrada en vigor de esta norma.
