@@ -41,6 +41,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección 2](s2-2.md)
 - [Artículo 20](a20.md)
 - [Artículo 21](a21.md)
+- [Artículo 22](a22.md)
 - [Disposición final](df.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
