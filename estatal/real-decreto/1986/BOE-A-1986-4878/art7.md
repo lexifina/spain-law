@@ -1,3 +1,5 @@
-## Art. 7.º
+## Art. 7.
 
-Por el Ministerio de Administración Territorial se determinará la forma de acreditar por la Entidad Local correspondiente la autenticidad de los datos que hayan de aportarse junto con la solicitud de inscripción, así como la documentación que, a tal efecto, deba acompañarse a la misma, entre la que deberá incluirse, en todo caso, la certificación del Instituto Geográfico Nacional acreditativa de los límites y extensión de los Municipios y de las Entidades del ámbito territorial inferior al Municipio, y la del Instituto Nacional de Estadística, respecto a la población de las Entidades Locales de nueva creación.
+Una vez recibida dicha solicitud o conocida por la Dirección General de Régimen Jurídico la creación de una Entidad Local, se solicitará del órgano competente de la Comunidad Autónoma o, en su defecto, del presidente de la Entidad Local comunicacion de los datos a que se refiere el artículo 3 del presente Real Decreto.
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. Ref. BOE-A-1990-28478.

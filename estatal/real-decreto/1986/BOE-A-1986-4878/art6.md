@@ -1,3 +1,5 @@
-## Art. 6.º
+## Art. 6.
 
-En la inscripción registral de cada Entidad Local se anotarán los datos que para cada una de ellas se han especificado en el artículo 3.º del presente Real Decreto, considerándose como fecha de la inscripción la recepción de la solicitud debidamente cumplimentada con todos los datos y requisitos exigidos, en el Registro General del Ministerio de Administración Territorial.
+Creada una Entidad Local y constituido su órgano de gobierno, en el plazo de un mes se solicitará por su presidente la inscripción en el Registro de Entidades Locales, a cuyo efecto se remitirá certificación del texto íntegro del acta de la reunión constitutiva.
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. Ref. BOE-A-1990-28478.

@@ -1,3 +1,5 @@
 ## Art. 10.
 
-En los supuestos de modificación de la inscripción a instancia de la Entidad Local interesada, será de aplicación el procedimiento previsto en el artículo 8.º para el supuesto de las inscripciones.
+Podrán inscribirse directamente aquellos datos relativos a los Entes Locales que hayan sido publicados en los boletines y diarios oficiales.
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. Ref. BOE-A-1990-28478.

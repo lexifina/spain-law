@@ -1,3 +1,5 @@
-## Art. 5.º
+## Art. 5.
 
-Creada una Entidad Local y constituido su órgano de gobierno, por su Presidente, en el plazo de un mes, se solicitará su inscripción en el Registro de Entidades Locales, a cuyo efecto se remitirá certificación del texto íntegro del acta de la sesión constitutiva y se comunicarán los datos a que se refiere el artículo 3.º del presente Real Decreto, según la Entidad Local de que se trate.
+En las inscripciones registrales de cada Entidad Local se harán constar los datos que, para cada una de ellas, se especifican en el artículo 3 de este Real Decreto.
+
+> Se modifica por el art. único del Real Decreto 1499/1990, de 23 de noviembre. Ref. BOE-A-1990-28478.
