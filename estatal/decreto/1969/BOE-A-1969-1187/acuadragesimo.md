@@ -1,0 +1,9 @@
+## Artículo cuadragésimo. Mutualidad Nacional de la Seguridad Social de los Empleados de Hogar.
+
+Uno. La Mutualidad Nacional de la Seguridad Social de los Empleados de Hogar tendrá la naturaleza de Corporación de interés público, con plena capacidad jurídica y patrimonial para el cumplimiento de sus fines, de acuerdo, respectivamente, con lo establecido en el número dos del artículo trigésimo noveno y en el número dos del artículo trigésimo octavo de la Ley de la Seguridad Social.
+
+Dos. De conformidad con lo preceptuado en el número uno del articulo trigésimo octavo de la Ley de la Seguridad Social, dicha Mutualidad se considerará incluida en el apartado c) del articulo quinto de la Ley de veintiséis de diciembre de mil novecientos cincuenta y ocho.
+
+Tres. De acuerdo con lo dispuesto en el número dos del articulo trigésimo octavo de la Ley de la Seguridad Social, la Mutualidad gozará del beneficio de pobreza a efectos jurisdiccionales y disfrutará en la misma medida que el Estado, de exención tributaria absoluta, incluidas las tasas y exacciones parafiscales que puedan gravar en favor del Estado y Corporaciones Locales y demás entes públicos, los actos que realice o los bienes que adquiera o posea afectos a sus fines, siempre que los tributos o exacciones de que se trate recaigan directamente sobre la Mutualidad en concepto legal de contribuyente y sin que sea posible legalmente la traslación de la carga tributaria a otras personas; gozará, finalmente, en la misma medida que el Estado, de franquicia postal y de especial tasa telegráfica.
+
+Cuatro. Corresponderá al Ministerio de Trabajo, previo informe de la Sección Femenina del Movimiento, dictar las disposiciones relativas a la constitución, régimen orgánico y funcionamiento de la Mutualidad, a que se refiere el presente artículo.
