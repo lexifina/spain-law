@@ -120,6 +120,8 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_028.png)
 
+> Téngase en cuenta que en los libros del Registro Civil quedarán en blanco y serán cruzados con una raya los datos sobre la profesión de los padres y de los contrayentes en las respectivas actas de nacimiento y de matrimonio, según establece el art. 1 de la Orden de 10 de diciembre de 1993 Ref. BOE-A-1993-30391.
+
 > Se derogan los modelos 10, 11, 12, 13, 14 y 15 por la disposición final primera de la Orden de 20 julio 1989 Ref. BOE-A-1989-22111.
 
 > Se derogan los modelos número 5, 7 y 9 por la disposición final primera de la Orden de 26 de mayo de 1988. Ref. BOE-A-1988-13633

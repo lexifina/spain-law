@@ -31,3 +31,5 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/135/13633_9857842_image16.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/135/13633_9857842_image17.png)
+
+> Se suprime la referencia a la profesión de los padres de los cuestionarios, por el art. 2 de la Orden de 10 de diciembre de 1993. Ref. BOE-A-1993-30391#a2
