@@ -1,0 +1,68 @@
+# Real Decreto 243/1992, de 13 de marzo, por el que se aprueba el Reglamento de la Ley 31/1988, de 31 de octubre, sobre protección de la calidad astronómica de los observatorios del Instituto de Astrofísica de Canarias.
+
+- Identificador: BOE-A-1992-8705
+- Rango: Real Decreto
+- Fecha de disposición: 1992-03-13
+- Publicación: 1992-04-21
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-1992-8705
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [no](no.md)
+- [pr](pr.md)
+- [Art 1](a1.md)
+- [Art 2](a2.md)
+- [Art 3](a3.md)
+- [fi](fi.md)
+- [REGLAMENTO](re.md)
+- [TÍTULO I](ti.md)
+- [Art 1](a1-2.md)
+- [Art 2](a2-2.md)
+- [Art 3](a3-2.md)
+- [TÍTULO II](ti-2.md)
+- [CAPÍTULO I](ci.md)
+- [Art 4](a4.md)
+- [Art 5](a5.md)
+- [Art 6](a6.md)
+- [Art 7](a7.md)
+- [Art 8](a8.md)
+- [Art 9](a9.md)
+- [Art 10](a1-3.md)
+- [Art 11](a1-4.md)
+- [Art 12](a1-5.md)
+- [Art 13](a1-6.md)
+- [Art 14](a1-7.md)
+- [Art 15](a1-8.md)
+- [CAPÍTULO II](ci-2.md)
+- [Art 16](a1-9.md)
+- [Art 17](a1-10.md)
+- [Art 18](a1-11.md)
+- [Art 19](a1-12.md)
+- [Art 20](a2-3.md)
+- [CAPÍTULO III](ci-3.md)
+- [Art 21](a2-4.md)
+- [Art 22](a2-5.md)
+- [CAPÍTULO IV](ci-4.md)
+- [Art 23](a2-6.md)
+- [Art 24](a2-7.md)
+- [Art 25](a2-8.md)
+- [TÍTULO III](ti-3.md)
+- [CAPÍTULO I](ci-5.md)
+- [Art 26](a2-9.md)
+- [Art 27](a2-10.md)
+- [Art 28](a2-11.md)
+- [Art 29](a2-12.md)
+- [Art 30](a3-3.md)
+- [CAPÍTULO II](ci-6.md)
+- [Art 31](a3-4.md)
+- [Art 32](a3-5.md)
+- [Art 33](a3-6.md)
+- [Art 34](a3-7.md)
+- [CAPÍTULO III](ci-7.md)
+- [Art 35](a3-8.md)
+- [Art 36](a3-9.md)
+- [Art 37](a3-10.md)
+- [Art 38](a3-11.md)
+- [ANEXO](an.md)
