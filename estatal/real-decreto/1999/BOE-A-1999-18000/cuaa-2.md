@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Comisión Nacional del Sistema Eléctrico.
+
+De conformidad con lo previsto en la disposición transitoria decimotercera de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, durante el período transitorio al que se refiere la disposición transitoria décima de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, la Comisión Nacional del Sistema Eléctrico ejercerá las funciones atribuidas a la Comisión Nacional de Energía en relación con el sector eléctrico. La Comisión Nacional de Energía prestará a la Comisión Nacional del Sistema Eléctrico, todos aquellos servicios que le sean solicitados por ésta y resulten precisos para el desarrollo de sus funciones.

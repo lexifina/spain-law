@@ -1,0 +1,11 @@
+La Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos ha creado la Comisión Nacional de Energía con competencias sobre los sistemas energéticos, englobando en este concepto tanto el mercado eléctrico como el mercado de los hidrocarburos líquidos y gaseosos. Se configura esta Comisión como un organismo público cuyo objeto es velar por la competencia efectiva en los mencionados sistemas energéticos y por la objetividad y transparencia en su funcionamiento, estableciendo con carácter general su estructura, funciones y régimen jurídico y remitiendo a un desarrollo reglamentario la concreción de estos aspectos.
+
+A este fin responde el presente Real Decreto en el que se recoge de una forma sistemática, entre otros, el régimen de recursos administrativos que prevé la Ley del Sector de Hidrocarburos contra las resoluciones y actos de la Comisión y en el que se desarrollan tanto los aspectos concernientes al régimen jurídico que le resulte de aplicación como sus funciones, órganos que la componen, órganos de asesoramiento y régimen de personal y presupuestario. Todo ello con el objetivo fundamental de dotar a esta Comisión del marco jurídico y de la estructura organizativa que garantice el adecuado desempeño de sus funciones.
+
+La Ley del Sector de Hidrocarburos ha determinado la supresión de la Comisión Nacional del Sistema Eléctrico, atribuyendo las funciones que hasta entonces le estaban encomendadas, a la Comisión Nacional de Energía, si bien establece un período transitorio durante el cual aquélla continuará en el ejercicio de sus funciones.
+
+Asimismo, prevé que el traspaso de los medios materiales y personales de un organismo a otro se establecerá reglamentariamente, garantizando, en todo caso, la máxima economía de recursos. El presente Real Decreto responde igualmente a este fin, estableciendo los mecanismos que garantizan la convivencia de ambos organismos durante el período transitorio.
+
+En su virtud, a iniciativa del Ministro de Industria y Energía, a propuesta conjunta de los Ministros de Administraciones Públicas y de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 31 de julio de 1999,
+
+D I S P O N G O :
