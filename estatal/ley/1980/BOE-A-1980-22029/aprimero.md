@@ -1,3 +1,5 @@
 ## Artículo primero.
 
-Las adquisiciones de piezas de recambio o componentes, incluso neumáticos, para automóviles de turismo y motocicletas tributarán en el Impuesto sobre el Lujo, en origen, al tipo del diez por ciento, a partir de la fecha de publicación de la presente Ley.
+(Derogado)
+
+> Se deroga por la disposición final.1 del Real Decreto Legislativo 875/1981, de 27 de marzo. Ref. BOE-A-1981-11204.
