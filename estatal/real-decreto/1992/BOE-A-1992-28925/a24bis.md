@@ -1,5 +1,7 @@
-## Artículo 24 bis. Concepto de oro sin elaborar y de producto semielaborado de oro.
+## Artículo 24 bis. Base imponible para ciertas operaciones.
 
-A los efectos de lo dispuesto en el artículo 84, apartado uno, número 2.º, letra b) de la Ley del Impuesto, se considerará oro sin elaborar o producto semielaborado de oro el que se utilice normalmente como materia prima para elaborar productos terminados de oro, tales como lingotes, laminados, chapas, hojas, varillas, hilos, bandas, tubos, granallas, cadenas o cualquier otro que, por sus características objetivas, no esté normalmente destinado al consumo final.
+En las operaciones en las que la base imponible deba determinarse conforme a lo dispuesto por el artículo 79diez de la Ley del Impuesto, la concurrencia o no de los requisitos que establece dicho precepto se podrá acreditar mediante una declaración escrita firmada por el destinatario de las mismas dirigida al sujeto pasivo en la que aquél haga constar, bajo su responsabilidad, que el oro aportado fue adquirido o importado con exención del impuesto por aplicación de lo dispuesto en el artículo 140 bis.uno.1.º de la Ley del Impuesto, o no fue así.
+
+> Se modifica por el art. 2.2 del Real Decreto 1496/2003, de 28 de noviembre. Ref. BOE-A-2003-21845
 
 > Se añade por el art. 1.2 del Real Decreto 3422/2000, de 15 de diciembre. Ref. BOE-A-2000-22718
