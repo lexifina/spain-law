@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Real Decreto 642/1984, de 28 de marzo, del Reglamento de Disciplina Deportiva («Boletín Oficial del Estado» de 3 de abril), las Órdenes ministeriales de 27 de julio de 1984 («Boletín Oficial del Estado» del 30) y 18 de julio de 1985 («Boletín Oficial del Estado» de 3 de agosto), el Real Decreto 2690/1980, de 17 de octubre, sobre Régimen Disciplinario Deportivo («Boletín Oficial del Estado» de 16 de diciembre), en cuanto pudiera permanecer vigente, así como cuantas disposiciones de igual o inferior rango se opongan a lo previsto en el presente Real Decreto.
