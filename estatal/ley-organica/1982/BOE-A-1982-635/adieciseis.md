@@ -1,0 +1,7 @@
+## Artículo 16.
+
+Uno. El Presidente de la Diputación Regional de Cantabria preside, dirige y coordina la actuación del Consejo de Gobierno, ostenta la más alta representación de la Comunidad Autónoma y la ordinaria del Estado en Cantabria.
+
+Dos. El Presidente de la Diputación Regional de Cantabria será elegido por la Asamblea Regional de entre sus miembros y nombrado por el Rey. El Presidente de la Asamblea Regional, previa consulta con las fuerzas políticas representadas en la Asamblea, y oída la Mesa, propondrá un candidato a presidente de la Diputación Regional de Cantabria. El candidato presentara su programa a la Asamblea. Para ser elegido el candidato deberá en primera votación obtener mayoría absoluta; de no obtenerla se procederá a una nueva votación pasadas cuarenta y ocho horas, y la confianza se entenderá otorgada si obtuviera mayoría simple. Caso de no conseguirse dicha mayoría, se tramitarán sucesivas propuestas en la forma prevista anteriormente. Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza de la Asamblea Regional, ésta quedará automáticamente disuelta, procediéndose a la convocatoria de nuevas elecciones para la misma. El mandato de la nueva Asamblea durará, en todo caso, hasta la fecha en que debiera concluir el de la primera.
+
+Tres. El Presidente de la Diputación Regional será políticamente responsable ante la Asamblea Regional. Una Ley de la Asamblea de Cantabria regulará el estatuto personal y atribuciones del Presidente

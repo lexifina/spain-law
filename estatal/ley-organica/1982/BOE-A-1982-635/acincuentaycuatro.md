@@ -1,0 +1,7 @@
+## Artículo 54.
+
+Corresponde al Consejo de Gobierno de Cantabria:
+
+a) Aprobar los reglamentos generales de sus propios tributos.
+
+b) Elaborar las normas reglamentarias precisas para gestionar los impuestos estatales cedidos de acuerdo con los términos de dicha cesión.
