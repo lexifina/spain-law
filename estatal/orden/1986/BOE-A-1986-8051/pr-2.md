@@ -1,0 +1,3 @@
+## Primero.
+
+Los fabricantes, o sus representantes debidamente autorizados, de todos los envases y embalajes destinados al transporte de mercancías peligrosas por carretera, ferrocarril, vía marítima o vía aérea, que, en virtud de lo dispuesto en los reglamentos nacionales e internacionales que regulan el transporte de mercancías peligrosas, en cada una de esas modalidades, requieran ser homologados, deberán obtener la homologación de los tipos que fabriquen o importen, de acuerdo con lo establecido en la presente disposición, salvo en aquellos casos en los que estos envases ya hayan sido homologados por las autoridades competentes del pais de origen, de acuerdo con lo dispuesto en la reglamentación internacional correspondiente.
