@@ -1,3 +1,21 @@
 ## Décimo.
 
-Dependiendo directamente del Director general de la Agencia y con la estructura que defina el Presidente, al Servicio Jurídico de la Agencia le corresponde el asesoramiento en Derecho de ésta y su representación y defensa en juicio en los términos del apartado ocho del artículo 103 de la Ley 31/1990, de 27 de diciembre.
+1. Dependiendo directamente del Director general de la Agencia, y con el rango de Dirección Adjunta, corresponderán al Servicio Jurídico de la Agencia las siguientes competencias:
+
+a) El asesoramiento en Derecho a los demás órganos de la Agencia, tanto en forma verbal como escrita.
+
+b) La representación y defensa en juicio de la Agencia, en los términos establecidos en la Orden de 29 de julio de 1994, sobre asistencia jurídica a la Agencia Estatal de Administración Tributaria.
+
+c) El bastanteo a petición del interesado y con carácter de acto administrativo, de los documentos presentados por aquéllos para acreditar la representación que invoquen.
+
+2. El Servicio Jurídico de la Agencia se estructurará en los órganos siguientes:
+
+La Subdirección General de Organización y Asistencia Jurídica.
+
+La Subdirección General de Asuntos Consultivos y Contenciosos.
+
+3. También se integrarán en el Servicio Jurídico de la Agencia, dependiendo directamente del Director del mismo y con el rango orgánico que determine la relación de puestos de trabajo, los Servicios Jurídicos Regionales de la Agencia.
+
+4. Corresponderá a la Subdirección General de Asuntos Consultivos y Contenciosos el bastanteo de los documentos presentados por los interesados para acreditar la representación que invoquen, cuando dichos documentos pretendiesen ser utilizados ante los órganos centrales de la Agencia.
+
+> Se modifica por el apartado 2.5 de la Orden de 4 de abril de 1997. Ref. BOE-A-1997-7437.

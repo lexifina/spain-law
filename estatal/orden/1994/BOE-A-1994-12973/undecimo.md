@@ -1,25 +1,33 @@
 ## Undécimo.
 
-1. Corresponderá al Servicio de Auditoría Interna, bajo la dependencia inmediata del Director general de la Agencia, el ejercicio de las funciones indicadas en el apartado diez del artículo 103 de la Ley 31/1990, de 27 de diciembre, según la redacción dada al mismo por la disposición adicional 17.ª de la Ley 18/1991, de 6 de junio.
+1. Corresponderá al Servicio de Auditoría Interna, sin perjuicio de las competencias atribuidas a la Intervención General de la Administración del Estado, con el rango de Dirección Adjunta, el ejercicio de las funciones indicadas en el apartado 10 del artículo 103 de la Ley 31/1990, de 27 de diciembre, según la redacción dada al mismo por la disposición adicional decimoséptima de la Ley 18/1991, de 6 de junio.
+
+El Servicio de Auditoría Interna dependerá del Presidente de la Agencia, quien ejercerá su jefatura, bien directamente, bien a través del Director general de la Agencia.
 
 2. En particular, el Servicio de Auditoría Interna desarrollará las siguientes funciones:
 
-a) La realización de auditorías de cualquier clase y naturaleza y el desarrollo de las actuaciones de seguimiento y control precisas para lograr el más adecuado cumplimiento de los objetivos y programas de la Agencia.
+a) El control interno de todos los servicios de la Agencia, mediante la realización de auditorías de cualquier clase y naturaleza y el desarrollo de instrumentos de control permanente, que permitan evaluar su eficacia y eficiencia y el cumplimiento de las normas e instrucciones, formulando las propuestas o recomendaciones que deriven de dicha función en la forma en que establezcan las disposiciones reguladoras de su actuación.
 
-b) El control permanente de los servicios a través del análisis de los resultados de su gestión y el seguimiento y control de las previsiones y objetivos recaudatorios.
+b) El control del cumplimiento del plan de objetivos de la Agencia y la formulación de propuestas para su adaptación y cumplimiento.
 
-c) El informe y la elaboración de las propuestas que el Director general formula en los expedientes de compatibilidad, así como la emisión de informe previo a su resolución en los expedientes disciplinarios en los que se proponga la tipificación de la falta como grave o muy grave.
+c) La presupuestación, análisis, seguimiento, asignación de objetivos y realización de estudios de los ingresos tributarios, así como la realización de los estudios económicos de apoyo a los trabajos anteriores.
 
-d) La prevención y detección de conductas irregulares y el análisis de los sistemas de control interno.
+d) La prevención y detección de las conductas irregulares, la coordinación, en la forma que se determine por el Director general de la Agencia, de las acciones relativas a las mismas y, en su caso, su investigación, así como el análisis y evaluación de los sistemas de seguridad y control interno de la Agencia.
 
-e) En los términos que determine el Director general, la investigación de las quejas de los contribuyentes.
+e) La coordinación y desarrollo de las funciones que le están atribuidas por el Real Decreto 2458/1996, de 2 de diciembre, por el que se crea el Consejo para la Defensa del Contribuyente en la Secretaría de Estado de Hacienda y, en particular, los encomendados a la Unidad Operativa del mencionado Consejo.
+
+f) El informe y elaboración de las propuestas que el Director general formula en los expedientes de compatibilidad.
+
+g) El asesoramiento y asistencia a los órganos rectores de la Agencia en cuantos asuntos éstos le encomienden.
 
 3. Bajo la inmediata dependencia del Director del Servicio de Auditoría Interna, éste estará integrado por las siguientes Subdirecciones Generales:
 
-a) Inspecciones de los Servicios, a cargo de los Inspectores de los Servicios de Economía y Hacienda, en el número que establezca la relación de puestos de trabajo.
+Las Inspecciones de Servicios, a cargo de Inspectores de los Servicios de Economía y Hacienda, en el número que establezca la relación de puestos de trabajo.
 
-b) Subdirección General de Análisis de Gestión y Apoyo Técnico.
+La Subdirección General de Presupuestación, Seguimiento y Estudio de los Ingresos Tributarios.
 
-c) Subdirección General de Control Interno.
+La Unidad Operativa del Consejo para la Defensa del Contribuyente.
 
-El Servicio de Auditoría Interna podrá contar con Inspecciones de los Servicios con sede territorial, dependientes directamente del Director del Servicio.
+En cumplimiento de lo previsto en la disposición adicional única del Real Decreto 2458/1996, de 2 de diciembre, la Jefatura de la Unidad Operativa del Consejo para la Defensa del Contribuyente podrá ser encomendada al titular de una de las Inspecciones de los Servicios del Servicio de Auditoría Interna.
+
+> Se modifica por el apartado 2.6 de la Orden de 4 de abril de 1997. Ref. BOE-A-1997-7437.

@@ -2,10 +2,12 @@
 
 El Departamento de Recursos Humanos estará integrado por las siguientes Subdirecciones Generales:
 
-a) Subdirección General de Programación, Formación y Empleo.
+Subdirección General de Comunicación Externa.
 
-b) Subdirección General de Gestión de Personal.
+Subdirección General de Relaciones Laborales, Programación y Condiciones de Empleo.
 
-c) Subdirección General de Relaciones Laborales y Acción Social.
+Subdirección General de Gestión de Personal.
 
-d) Subdirección General de Retribuciones e Incentivación.
+Subdirección General de Retribuciones e Incentivación.
+
+> Se modifica por el apartado 2.3 de la Orden de 4 de abril de 1997. Ref. BOE-A-1997-7437.

@@ -1,15 +1,15 @@
 ## Sexto.
 
-El Departamento de Informática Tributaria estará integrado por las siguientes Subdirecciones Generales:
+El Departamento de Informática Tributaria se estructurará en los siguientes órganos:
 
-a) Subdirección General de Planificación y Coordinación.
+Subdirección General de Planificación y Coordinación.
 
-b) Subdirección General de Explotación.
+Subdirección General de Explotación.
 
-c) Subdirección General de Aplicaciones Descentralizadas.
+Subdirección General de Aplicaciones.
 
-d) Subdirección General de Rentas y Patrimonio.
+Subdirección General de Aplicaciones de Aduanas e Impuestos Especiales.
 
-e) Subdirección General de Aplicaciones de Aduanas e Impuestos Especiales.
+Subdirección General de Estudios y Análisis Tributarios.
 
-f) Subdirección General de Estudios y Desarrollos Especiales.
+> Se modifica por el apartado 2.2 de la Orden de 4 de abril de 1997. Ref. BOE-A-1997-7437.

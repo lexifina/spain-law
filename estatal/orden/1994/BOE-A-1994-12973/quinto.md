@@ -1,17 +1,19 @@
 ## Quinto.
 
-El Departamento de Aduanas e Impuestos Especiales estará integrado por una Dirección Adjunta del Servicio de Vigilancia Aduanera y por las siguientes Subdirecciones Generales:
+El Departamento de Aduanas e Impuestos Especiales estará integrado por una Dirección Adjunta del Servicio de Vigilancia Aduanera y las siguientes Subdirecciones Generales:
 
-a) Subdirección General de Organización y Asuntos Generales.
+Subdirección General de la Unión Aduanera, Relaciones Internacionales y Régimen Interior.
 
-b) Subdirección General de Gestión Aduanera.
+Subdirección General de Gestión e Intervención de Impuestos Especiales.
 
-c) Subdirección General de Gestión de Impuestos Especiales.
+Subdirección General de Asistencia Técnica y Procedimientos Aduaneros.
 
-d) Subdirección General de Relaciones Internacionales.
+Subdirección General de Planificación y Estadística.
 
-e) Subdirección General de Estadística y Planificación.
+Subdirección General de Gestión de Tributos sobre el Comercio Exterior.
 
-f) Subdirección General de Inspección e Investigación.
+Subdirección General de Inspección e Investigación.
 
-g) Subdirección General del Laboratorio Central de Aduanas.
+Subdirección General de Actuaciones Químico-Tecnológicas.
+
+> Se modifica por el apartado 2.1 de la Orden de 4 de abril de 1997. Ref. BOE-A-1997-7437.
