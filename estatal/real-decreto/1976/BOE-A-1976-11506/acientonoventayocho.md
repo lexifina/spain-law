@@ -1,5 +1,5 @@
 ## Artículo ciento noventa y ocho.
 
-Uno. Cuando las obras, instalaciones o servicios ejecutados por el Ayuntamiento beneficiasen especialmente a personas o clases determinadas o se provocaren de un modo especial por las mismas, aunque no existieran aumentos determinados de valor, la imposición por contribuciones especiales será, como máximo, del noventa por ciento del coste total, con carácter uniforme.
+(Derogado)
 
-Dos. No serán de aplicación las limitaciones establecidas en el artículo cuatrocientos setenta de la Ley de Régimen Local.
+> Se deroga por la disposición final 2 del Real Decreto 3250/1976, de 30 de diciembre. Ref. BOE-A-1977-2691.

@@ -1,3 +1,5 @@
 ## Artículo ciento setenta y siete.
 
-El arbitrio se bonificará en un cincuenta por ciento a los propietarios de solares que cumplimentaren lo previsto por el artículo ciento sesenta.
+(Derogado)
+
+> Se deroga por la disposición final 2 del Real Decreto 3250/1976, de 30 de diciembre. Ref. BOE-A-1977-2691.
