@@ -39,3 +39,7 @@ Los incrementos de la masa salarial bruta se calcularán en términos de homogen
 Con independencia de lo dispuesto en los párrafos anteriores se establece un fondo por un importe de 1.250.000.000 pesetas con cargo al cual podrán pactarse Incrementos adicionales de la masa salarial con el fin de alcanzar una mayor armonización en las condiciones retributivas y demás condiciones de trabajo del personal laboral de la Administración del Estado, Organismos Autónomos y Entidades Gestoras de la Seguridad Social. Su distribución, dentro de los límites cuantitativos indicados, se realizará por el Ministerio de Economía y Hacienda, previa negociación con los sindicatos más representativos.
 
 Las indemnizaciones o suplidos de este personal no podrán experimentar crecimientos superiores a los que se establezcan con carácter general para el personal no laboral de la Administración del Estado.
+
+> Téngase en cuenta la declaración de no inconstitucionalidad de este artículo, interpretado en los términos contenidos en el fundamento jurídico tercero, por Sentencia del TC 237/1992, de 15 de diciembre. Ref. BOE-T-1993-1374
+
+> Se declara la no inconstitucionalidad de este artículo, interpretado en los términos contenidos en el fundamento jurídico tercero, por Sentencia del TC 237/1992, de 15 de diciembre. Ref. BOE-T-1993-1374

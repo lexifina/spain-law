@@ -14,8 +14,12 @@ a) Un estado trimestral de situación de los fondos destinados a cada tipo de su
 
 b) El estado de las obligaciones reconocidas y pagos realizados hasta el cierre de cada ejercicio económico.
 
+> Téngase en cuenta la declaración de no inconstiticionalidad del apartado 3 de este artículo, interpretado en los términos contenidos en el fundamento jurídico noveno, por Sentencia del TC 237/1992, de 15 de diciembre. Ref. BOE-T-1993-1374
+
 Cuatro. Los remanentes de fondos resultantes al final de cada ‘periodo que se encuentren en poder de las Comunidades Autónomas seguirán manteniendo el destino específico para el que fueron transferidos y se utilizarán en los siguientes ejercicios como situación de Tesorería en el origen para concesión de las nuevas subvenciones que corresponda distribuir de acuerdo con lo previsto en las sucesivas Leyes de Presupuestos.
 
 Cinco. En caso de supresión de determinada subvención en el siguiente presupuesto, el remanente existente deberá ser reintegrado al Estado, que queda autorizado a realizar las compensaciones que estime pertinentes. En este supuesto, deberá informar la Dirección General de Coordinación con las Haciendas Territoriales.
 
 Seis. Las cantidades asignadas a cada Comunidad Autónoma se librarán trimestralmente por los Departamentos ministeriales en cuyo presupuesto estén situados los créditos, a las distintas Comunidades Autónomas, con excepción de las prestaciones de carácter personal y social, que se librarán por dozavas partes al comienzo de cada mes si su vencimiento y consiguiente obligación de pago en favor de los beneficiarios tiene esta periodicidad.
+
+> Se declara la no inconstiticionalidad del apartado 3 de este artículo, interpretado en los términos contenidos en el fundamento jurídico noveno, por Sentencia del TC 237/1992, de 15 de diciembre. Ref. BOE-T-1993-1374
