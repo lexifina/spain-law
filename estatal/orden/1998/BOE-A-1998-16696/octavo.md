@@ -4,12 +4,14 @@ En el seno de la Comisión existirá una ponencia técnica a la que corresponder
 
 La ponencia técnica estará integrada por los siguientes miembros:
 
-Presidente: El Vicepresidente primero de la Comisión.
+a) Presidente: El Vicepresidente segundo de la Comisión.
 
-Vicepresidente: El Vicepresidente segundo de la Comisión.
+b) Vicepresidente: Un Vocal titular de la Comisión designado por el Pleno entre sus miembros.
 
-Vocales: Dos Vocales titulares de la Comisión designados por el Pleno.
+c) Vocales: Dos Vocales titulares de la Comisión designados por el Pleno.
 
-Secretario: El de la Comisión.
+d) Secretario: El de la Comisión.
 
-Formará parte, asimismo, de la ponencia técnica el Vocal representante del centro directivo u organismo interesado en la materia de que se trate.
+Formará parte, asimismo, de la ponencia técnica el Vocal representante del órgano directivo u organismo interesado en la materia de que se trate.
+
+> Se modifica por el apartado 1.b) de la Orden APU/2691/2002, de 30 de octubre. Ref. BOE-A-2002-21184.
