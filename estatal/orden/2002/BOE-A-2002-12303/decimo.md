@@ -1,6 +1,8 @@
 ## Décimo. Liquidación y pago del impuesto.
 
-1. Los sujetos pasivos del Impuesto sobre Ventas Minoristas de Determinados Hidrocarburos están obligados a presentar una declaración-liquidación por cada una de las Comunidades Autónomas donde se produzca el rendimiento del impuesto, ajustada al modelo aprobado por Orden HAC/299/2002, de 14 de febrero, comprensiva de las cuotas devengadas y, en su caso, de las operaciones exentas dentro de los plazos que se indican en el apartado 4 de este artículo, así como a efectuar, simultáneamente, el pago de las cuotas.
+1. Los sujetos pasivos del Impuesto sobre Ventas Minoristas de Determinados Hidrocarburos estarán obligados a presentar una declaración-liquidación por cada una de las Comunidades Autónomas donde se produzca el rendimiento del impuesto, ajustada al modelo aprobado por Orden HAC/299/2002, de 14 de febrero, comprensiva de las cuotas devengadas y, en su caso, de las operaciones exentas dentro de los plazos que se indican en el apartado 4 de este artículo, así como a efectuar, simultáneamente, el pago de las cuotas.
+
+No obstante, cuando a lo largo de un periodo de liquidación resulten aplicables tipos de gravamen diferentes del Impuesto sobre Ventas Minoristas de Determinados Hidrocarburos, como consecuencia de la aprobación del tramo autonómico del tipo de gravamen, los sujetos pasivos del impuesto estarán obligados a presentar una declaración-liquidación e ingreso de las cuotas correspondientes por cada periodo de tiempo en que han sido aplicados cada uno de los tipos de gravamen.
 
 2. La presentación de la declaración-liquidación y el pago simultáneo de las cuotas se efectuará, con carácter general, por cada uno de los sujetos pasivos, en entidad colaboradora o en entidades de depósito que prestan servicio de caja a las Delegaciones-Administraciones de la Agencia Estatal de Administración Tributaria que correspondan a su domicilio fiscal.
 
@@ -23,5 +25,7 @@ Plazo: Los veinte primeros días naturales siguientes a aquel en que finaliza el
 Una vez aceptada la presentación, la Agencia Estatal de Administración Tributaria devolverá en pantalla la declaración validada con un código electrónico de 16 caracteres además de la hora y fecha de la presentación.
 
 Las declaraciones-liquidaciones y, en su caso, las hojas de desglose, presentadas por Internet no se trasladarán a la oficina gestora citada en el número 2 de este apartado décimo.
+
+> Se modifica el párrafo primero del apartado 1 por el art. único de la Orden HAC/2297/2002, de 19 de septiembre. Ref. BOE-A-2002-18324.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 2002. Ref. BOE-A-2002-14290.
