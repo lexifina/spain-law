@@ -1,0 +1,1 @@
+El presente Convenio ha quedado sin efecto desde el 13 de marzo de 1998, según establece el art. 44 del Convenio de Seguridad Social entre el Reino de España y la República de Chile y Acuerdo Administrativo para su aplicación, hechos ambos en Madrid el 28 de enero de 1997. Ref. BOE-A-1998-6814#a4-6
