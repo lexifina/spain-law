@@ -8,6 +8,8 @@
 
 En ningún caso, las personas jurídicas que no tengan la condición de Sociedad Cooperativa podrán poseer más del 50 por ciento del capital social.
 
-4. las aportaciones serán reembolsables a los socios, en las condiciones que marque la legislación cooperativa correspondiente, sólo cuando con ello no se produzca una cobertura insuficiente del capital social, reservas, del coeficiente de recursos propios, o de cualquier otro que sea de aplicación o se establezca en el futuro.
+4. Las aportaciones serán reembolsadas a los socios en las condiciones que se señalen reglamentariamente, pero sólo cuando no se produzca una cobertura insuficiente del capital social obligatorio, reservas y coeficiente de solvencia.
 
 Asimismo podrán aplicarse, si así se regula estatutariamente, a la compensación de pérdidas producidas en sus operaciones. en todo caso, las reducciones que se produzcan se llevarán a cabo proporcionalmente en todas las aportaciones.
+
+> Se modifica el apartado 4 por la disposición adicional 4 B) de la Ley 20/1990, de 19 de diciembre. Ref. BOE-A-1990-30735

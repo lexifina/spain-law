@@ -1,3 +1,5 @@
 ## Disposición final segunda.
 
-Las SAT continuarán disfrutando de las exenciones fiscales y beneficios de cualquier clase actualmente reconocidos, sin perjuicio de las que, como Sociedades de derecho común, pudieran serles aplicables.
+(Derogada)
+
+> Se deroga por la disposición fina 1 de la Ley 20/1990, de 19 de diciembre. Ref. BOE-A-1990-30735.

@@ -1,5 +1,5 @@
 ## Disposición transitoria primera.
 
-Las Cooperativas de Crédito inscritas en el Registro especial dependiente del Banco de España a la entrada en vigor de la presente Ley, deberán adaptar su actividad y Estatutos a lo establecido en esta Ley en el plazo de dos años.
+Las Cooperativas de Crédito deberán adaptar sus Estatutos a lo establecido en esta Ley antes del 30 de junio de 1992, sin perjuicio de cumplir las normas imperativas de la misma y de que reglamentariamente puedan establecerse otras fechas para alcanzar los recursos propios exigibles según la normativa prudencial, que considerará especialmente el supuesto de Cooperativas de Crédito de ámbito local y domiciliadas en municipios con menos de 100.000 habitantes.
 
-En el caso de las Cooperativas de Crédito de ámbito local cuyo domicilio radique en municipios de menos de 100.000 habitantes, el plazo para adaptar su capital social será de cuatro años.
+> Se modifica por la disposición adicional 4 D) de la Ley 20/1990, de 19 de diciembre. Ref. BOE-A-1990-30735

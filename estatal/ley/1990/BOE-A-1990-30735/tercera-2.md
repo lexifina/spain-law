@@ -1,0 +1,3 @@
+## Disposición transitoria tercera.
+
+Las cooperativas que, en la fecha de entrada en vigor de esta Ley, superen los porcentajes establecidos en el artículo 13, apartado 9, párrafo primero, de la misma, dispondrán de un plazo de tres meses para poner dicha circunstancia en conocimiento del Ministerio de Economía y Hacienda, razonando los motivos que hacen necesario el mantenimiento de dicha participación. Transcurridos dos meses desde la presentación de la comunicación sin que se haya notificado a la Cooperativa una resolución expresa denegatoria, se entenderá concedida la autorización a que se refiere el párrafo tercero del apartado 9 del artículo 13.
