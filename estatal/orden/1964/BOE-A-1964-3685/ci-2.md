@@ -1,3 +1,5 @@
 ## CAPÍTULO II
 
 ## Exámenes
+
+> Se deroga por el art. 51.6 de la Orden de 7 de diciembre de 1964. Ref. BOE-A-1964-23661
