@@ -2,52 +2,156 @@
 
 ## Diagnóstico de tuberculosis bovina
 
-La tuberculosis se diagnosticará mediante la prueba intradérmica de tuberculina.
+1. Identificación del agente.
 
-1. Se consideran como intradermotuberculinizaciones oficiales:
+La presencia de Mycobacterium bovis (M. bovis), agente de la tuberculosis bovina, en muestras clínicas y de autopsia puede demostrarse examinando frotis teñidos o mediante técnicas de inmunoperoxidasa y confirmarse mediante cultivo del organismo en medio de aislamiento primario.
 
-a) La intradermotuberculinización: esta tuberculinización comporta una única inyección de tuberculina bovina.
+El material patológico para la confirmación de M. bovis debe tomarse de ganglios linfáticos anormales y órganos parenquimatosos, como los pulmones, el hígado, el bazo, etc. Cuando el animal no presente lesiones patológicas, deberán recogerse muestras de los ganglios linfáticos retrofaríngeos, bronquiales, mediastínicos, supramamarios y mandibulares, así como de algunos ganglios linfáticos mesentéricos y del hígado, para su examen y cultivo.
 
-b) La intradermotuberculinización de comparación: esta tuberculinización comporta una inyección de tuberculina bovina y una inyección de tuberculina aviar, administrada simultáneamente.
+La identificación de las cepas aisladas podrá realizarse habitualmente determinando las propiedades bioquímicas y de cultivo. También podrá emplearse la reacción en cadena de la polimerasa para la detección del complejo de M. tuberculosis.
 
-2. La dosis de tuberculina inyectada será:
+Las técnicas de análisis del ADN pueden resultar más rápidas y fiables que los métodos bioquímicos para la diferenciación de M. bovis de otros miembros del complejo de M. tuberculosis. La huella genética permite distinguir entre diferentes cepas de M. bovis y posibilitará la descripción de patrones del origen, transmisión y propagación de M. bovis.
 
-a) 2.000 UTC, como mínimo, de tuberculina bovina.
+Las técnicas y medios utilizados, su normalización y la interpretación de los resultados deben ajustarse a los que se precisan en el capítulo 2.3.3 (tuberculosis bovina) de la cuarta edición (2000) del Manual de normas para las pruebas de diagnóstico y las vacunas de la OIE.
 
-b) 2.000 UTC, como mínimo, de tuberculina aviar.
+2. Intradermotuberculinización.
 
-El volumen de cada inyección no sobrepasará los 0,2 ml.
+Los derivados proteínicos purificados de la tuberculina que cumplan las normas establecidas en el apartado 2.1 se utilizarán para realizar la intradermotuberculinización oficial con arreglo a los procedimientos mencionados en el apartado 2.2.
 
-3. Las tuberculinizaciones se efectuarán inyectando la, o las tuberculinas previa introducción en la piel.
+2.1 Normas aplicables a la tuberculina (bovina y aviar).
 
-Se rasurarán y limpiarán las zonas que se vayan a inyectar. Se cogerá un pliegue de piel en cada zona rasurada entre el dedo índice y dedo pulgar; se medirá con un compás y/o cutímetro y se anotará el resultado. Se introducirá la tuberculina en la piel. A continuación se inyectará la dosis de tuberculina indicada. Las inyecciones bien puestas permitirán que se aprecien al tacto pequeños bultos del tamaño de un guisante en el lugar del pinchazo. Se volverá a medir el espesor del pliego de piel en cada punto de inyección, 72 horas después de ponerla, anotando el resultado.
+2.1.1 Definición.
 
-4. La interpretación de las intradermotuberculinizaciones oficiales será la siguiente:
+El derivado proteínico purificado de la tuberculina (bovina o aviar) es un preparado que se obtiene, previo calentamiento, de productos del crecimiento y la lisis de Mycobacterium bovis o Mycobacterium avium (M. avium), según corresponda, capaz de poner de manifiesto hipersensibilidad retardada en un animal sensibilizado a los microorganismos de la misma especie.
 
-## A) Intradermotuberculinización simple
+2.1.2 Producción.
 
-a) Positiva: si se observa un aumento de espesor del pliegue de la piel de 4 milímetros o superior en el punto de inyección o signos clínicos como edema difuso, exudación, necrosis, dolor, o reacción, inflamación de los conductos linfáticos de la región o de los ganglios.
+Se obtiene a partir de fracciones hidrosolubles preparadas calentando en vapor libre y filtrando posteriormente cultivos de M. bovis o M. avium (según corresponda) en un medio líquido sintético. La fracción activa del filtrado, consistente principalmente en proteínas, se aísla mediante precipitación, se lava y se vuelve a disolver. Puede añadirse un conservante antimicrobiano que no produzca reacciones positivas falsas, como el fenol. La preparación estéril final, libre de micobacterias, se distribuye asépticamente en recipientes de vidrio inviolables que se cierran después para evitar que se contaminen. El preparado puede liofilizarse.
 
-b) Dudosa: si no se observa ninguno de los signos clínicos indicados, pero hay un aumento de espesor del pliegue de la piel como mínimo de 2 milímetros e inferior a 4 milímetros.
+2.1.3 Identificación del producto.
 
-c) Negativa: aumento de grosor en el pliegue de la piel como máximo de 2 milímetros, sin signos clínicos.
+Inyectar por vía intradérmica en puntos diferentes varias dosis graduadas a cobayas albinos sensibilizados convenientemente, cada uno de los cuales debe pesar al menos 250 g. Al cabo de un período de 24 a 28 horas, se producen reacciones en forma de hinchazones edematosas con eritema, acompañadas o no de necrosis en el punto de inyección. El tamaño e importancia de las reacciones varía de acuerdo con la dosis. Los cobayas que no se hayan sensibilizado no presentan reacción a inyecciones de este tipo.
 
-Los animales en los que la intradermotuberculinización simple hay dado resultados dudosos serán sometidos a otra tuberculinización después de un período mínimo de cuarenta y dos días.
+2.1.4 Pruebas.
+
+2.1.4.1 pH: el pH debe oscilar entre 6,5 y 7,5.
+
+2.1.4.2 Fenol: si el preparado que vaya a examinarse contiene fenol, su concentración no debe ser superior a 5 g/l.
+
+2.1.4.3 Efecto sensibilizante: emplear un grupo de tres cobayas que no hayan sido tratados con ningún material que pueda interferir con la prueba. En tres ocasiones, a intervalos de cinco días, inyectar por vía intradérmica a cada cobaya una dosis del preparado que se vaya a examinar, equivalente a 500 UI en 0,1 ml. Entre 15 y 21 días después de la tercera inyección, inyectar la misma dosis (500 UI) por vía intradérmica a esos animales y a un grupo de control de tres cobayas del mismo peso a los que no se les haya inyectado previamente tuberculina. Entre 24 y 28 horas después de las últimas inyecciones, las reacciones de los dos grupos no son muy diferentes.
+
+2.1.4.4 Toxicidad: emplear dos cobayas, cada uno de los cuales debe pesar al menos 250 g, que no hayan sido tratados previamente con ningún material que pueda interferir con la prueba. Inyectar por vía subcutánea a cada animal 0,5 ml del preparado que se vaya a examinar. Observar los animales durante siete días. En el período de observación no se producen efectos anormales.
+
+2.1.4.5 Esterilidad: se debe cumplir la prueba de esterilidad prescrita en la monografía sobre vacunas de uso veterinario de la cuarta edición (2002) de la Farmacopea Europea.
+
+2.1.5. Actividad.
+
+La actividad del derivado proteínico purificado de la tuberculina (bovina y aviar) se determina comparando las reacciones producidas en cobayas sensibilizados mediante la inyección intradérmica de una serie de diluciones del preparado que se vaya a examinar con las producidas por concentraciones conocidas de un preparado de referencia de derivado proteínico purificado de tuberculina (bovina o aviar, según corresponda), calibrado en unidades internacionales.
+
+Para probar la actividad, sensibilizar como mínimo nueve cobayas albinos, cada uno de los cuales debe pesar entre 400 y 600 g, mediante una inyección intramuscular profunda de 0,0001 mg de masa húmeda de M. bovis vivo de la cepa AN5, suspendida en 0,5 ml de una solución de 9 g/l de cloruro de sodio R, en el caso de la tuberculina bovina, o una dosis adecuada de M. avium inactivado o vivo, en el de la tuberculina aviar. Transcurridas al menos cuatro semanas tras la sensibilización de los cobayas, afeitar los costados de los animales para disponer de espacio para un máximo de cuatro puntos de inyección en cada lado. Preparar diluciones del preparado que se vaya a examinar y del preparado de referencia utilizando una solución salina isotónica amortiguadora de fosfatos (pH 6,5-7,5) que contenga 0,005 g/l de polisorbato 80 R. Utilizar al menos tres dosis del preparado de referencia y otras tantas del preparado que vaya a examinarse. Escoger las dosis de modo que las lesiones producidas tengan un diámetro comprendido entre 8 y 25 mm. Distribuir aleatoriamente las diluciones entre los puntos valiéndose de un cuadrado latino. Inyectar cada dosis intradérmicamente en un volumen constante de 0,1 o 0,2 ml. Transcurridas entre 24 y 28 horas, medir los diámetros de las lesiones y calcular el resultado de la prueba utilizando los métodos estadísticos habituales, basándose en el supuesto de que los diámetros de las lesiones son directamente proporcionales al logaritmo de la concentración de las tuberculinas.
+
+La prueba no será válida a menos que los límites de error (con una confianza P = 0,95) estén entre el 50 y el 200 % de la actividad calculada. La actividad calculada estará entre el 66 y el 150 % de la actividad declarada de la tuberculina bovina. La actividad calculada estará entre el 75 y el 133 % de la actividad declarada de la tuberculina aviar. La actividad declarada será al menos igual a 20000 UI/ml para ambas tuberculinas (bovina y aviar).
+
+2.1.6 Almacenamiento.
+
+Almacenar al abrigo de la luz, a una temperatura de 5 ± 3 º C.
+
+2.1.7 Etiquetado.
+
+La etiqueta debe indicar:
+
+a) La actividad en unidades internacionales por mililitro.
+
+b) El nombre y la cantidad de las eventuales sustancias añadidas.
+
+c) En el caso de preparados liofilizados:
+
+1.º El nombre y volumen del líquido reconstituyente que debe añadirse.
+
+2.º Que el producto debe utilizarse inmediatamente después de la reconstitución.
+
+2.2 Procedimientos de prueba.
+
+2.2.1 Se considerarán intradermotuberculinizaciones oficiales:
+
+a) La intradermotuberculinización sencilla: esta prueba requiere una única inyección de tuberculina bovina.
+
+b) La intradermotuberculinización de comparación: esta prueba requiere una inyección de tuberculina bovina y una inyección de tuberculina aviar, administradas simultáneamente.
+
+2.2.2 La dosis de tuberculina inyectada será:
+
+a) Igual o superior a 2000 UI de tuberculina bovina.
+
+b) Igual o superior a 2000 UI de tuberculina aviar.
+
+2.2.3 El volumen de cada inyección no rebasará los 0,2 ml.
+
+2.2.4 Las tuberculinizaciones se realizarán inyectando tuberculina en la piel del cuello. Los puntos de inyección estarán situados en el límite de los tercios anterior y medio del cuello. Cuando se inyecte tuberculina aviar y bovina al mismo animal, el punto de inyección de la tuberculina aviar estará situado a unos 10 cm del borde superior del cuello y el de la tuberculina bovina, unos 12,5 cm más abajo en una línea aproximadamente paralela a la del hombro o en lados diferentes del cuello ; tratándose de animales jóvenes en los que no haya espacio para separar suficientemente los puntos de inyección en un lado del cuello, se administrará una inyección a cada lado del cuello en puntos idénticos, en el centro del tercio medio de éste.
+
+2.2.5 La técnica de la tuberculinización y la interpretación de las reacciones serán las siguientes:
+
+2.2.5.1 Técnica.
+
+Los puntos de inyección se rasurarán y limpiarán. En cada zona rasurada se tomará un pliegue de piel entre el índice y el pulgar, se medirá con un compás y se anotará el resultado. A continuación se inyectará la dosis de tuberculina siguiendo un método que garantice que aquélla se administra intradérmicamente. Podrá utilizarse una aguja corta estéril, con la parte biselada hacia fuera, de una jeringuilla graduada que contenga tuberculina, que se insertará oblicuamente en las capas más profundas de la piel. Para confirmar si una inyección se ha efectuado correctamente deberá palparse una hinchazón del tamaño de un guisante en cada punto de inyección. El grosor del pliegue de piel de cada punto de inyección se medirá de nuevo 72 horas (+/- 4 h) después de la inyección y se anotará el resultado.
+
+2.2.5.2 Interpretación de las reacciones.
+
+La interpretación de las reacciones se basará en observaciones clínicas y en el aumento de grosor de los pliegues de piel en los puntos de inyección, anotados 72 horas después de haber inyectado la tuberculina.
+
+a) Reacción negativa: sólo se observa una hinchazón limitada, con un aumento del grosor del pliegue de piel no superior a 2 mm, sin signos clínicos tales como edema difuso o extensivo, exudación, necrosis, dolor o inflamación de los conductos linfáticos de esa región o de los ganglios linfáticos.
+
+b) Reacción dudosa: no se observa ninguno de los signos clínicos mencionados en el párrafo a) y el aumento de grosor del pliegue de piel es superior a 2 mm e inferior a 4.
+
+c) Reacción positiva: se observan signos clínicos de los mencionados en el párrafo a) o el grosor del pliegue de piel del punto de inyección aumenta 4 mm o más.
+
+2.2.5.3 La interpretación de las intradermotuberculinizaciones oficiales será la siguiente:
+
+2.2.5.3.1 Intradermotuberculinización sencilla:
+
+a) Positiva: reacción bovina positiva como la descrita en el párrafo c) del apartado 2.2.5.2.
+
+b) Dudosa: reacción dudosa como la descrita en el párrafo b) del apartado 2.2.5.2.
+
+c) Negativa: reacción bovina negativa como la descrita en el párrafo a) del apartado 2.2.5.2.
+
+Los animales en los que la intradermotuberculinización sencilla haya dado resultados dudosos serán sometidos a otra tuberculinización después de un plazo mínimo de 42 días.
 
 Los animales en los que esta segunda prueba no dé resultados negativos se considerarán positivos.
 
-## B) Intradermotuberculinización de comparación
+Los animales en los que la intradermotuberculinización sencilla dé resultados positivos podrán someterse a una intradermotuberculinización de comparación si se sospecha la existencia de una reacción positiva falsa o una reacción de interferencia.
 
-a) Positiva: reacción bovina superior en más de 4 milímetros a la reacción aviar o presencia de signos clínicos.
+2.2.5.3.2 Intradermotuberculinización de comparación para la determinación y el mantenimiento de la calificación de explotación oficialmente libre de tuberculosis:
 
-b) Dudosa: reacción bovina positiva o dudosa y superior en 1 a 4 milímetros a la reacción aviar y ausencia de signos clínicos.
+a) Positiva: reacción bovina positiva que sea superior en más de 4 mm a la reacción aviar, o presencia de signos clínicos.
 
-c) Negativa: reacción bovina negativa o reacción positiva o dudosa pero igual o inferior a una reacción aviar positiva o dudosa y ausencia de signos clínicos en los demás casos.
+b) Dudosa: reacción bovina positiva o dudosa que sea de 1 a 4 mm superior a la reacción aviar, y ausencia de signos clínicos.
 
-Los animales que en la prueba de comparación den resultados dudosos deberán ser sometidos a otra tuberculinización después de un período mínimo de cuarenta y dos días.
+c) Negativa: reacción bovina negativa, o reacción bovina positiva o dudosa pero que sea igual o inferior a una reacción aviar positiva o dudosa, y ausencia de signos clínicos en ambos casos.
 
-Los animales en los que esta segunda tuberculinización no den resultados negativos serán considerados como reaccionantes positivos.
+Los animales en los que la intradermotuberculinización de comparación haya dado resultados dudosos deberán ser sometidos a otra tuberculinización transcurrido un plazo mínimo de 42 días. Los animales en los que esta segunda prueba no dé resultados negativos se considerarán positivos.
 
-5. Se designa al Laboratorio de Sanidad y Producción Animal de Santa Fe (Granada), perteneciente al Ministerio de Agricultura, Pesca y Alimentación, como centro nacional de referencia para la tuberculosis en animales.
+2.2.5.3.3 La calificación de explotación oficialmente libre de tuberculosis podrá suspenderse y los animales procedentes de ella no podrán ser objeto de intercambios comerciales intracomunitarios mientras no se determine la calificación de los animales siguientes:
+
+a) Animales que se hayan considerado dudosos en la intradermotuberculinización sencilla.
+
+b) Animales que se hayan considerado positivos en la intradermotuberculinización sencilla, pero que deban someterse de nuevo a una prueba por intradermotuberculinización de comparación.
+
+c) Animales que se hayan considerado dudosos en la intradermotuberculinización de comparación.
+
+2.2.5.3.4 Cuando la legislación comunitaria exija que los animales se sometan a una intradermotuberculinización antes de su traslado, se interpretará la prueba para que ningún animal que muestre un aumento del grosor del pliegue de la piel superior a 2 mm o la presencia de signos clínicos sea objeto de intercambios comerciales intracomunitarios.
+
+2.2.5.3.5 Para permitir la detección del máximo número de animales infectados o enfermos de una explotación o una región, los Estados miembros podrán modificar los criterios para la interpretación de la prueba con el fin de mejorar la sensibilidad de ésta considerando que todas las reacciones dudosas mencionadas en el párrafo b) de los apartados 2.2.5.3.1 y 2.2.5.3.2 son reacciones positivas.
+
+3. Pruebas suplementarias.
+
+Para permitir la detección del máximo número de animales infectados o enfermos de una explotación o una provincia, podrá autorizarse el empleo de la prueba de interferón gamma a que se refiere el capítulo 2.3.3 (tuberculosis bovina) de la cuarta edición (2000) del Manual de normas para las pruebas de diagnóstico y las vacunas de la Oficina Internacional de Epizootias, además de la tuberculinización.
+
+4. Laboratorio Nacional de Referencia.
+
+Se designa al Laboratorio Central de Sanidad Animal (Laboratorio de Sanidad y Producción Animal) de Santa Fe (Granada), perteneciente al Ministerio de Agricultura, Pesca y Alimentación, como centro nacional de referencia para la tuberculosis en animales.
+
+El Laboratorio Nacional de Referencia se encargará, sin perjuicio de lo dispuesto en los artículos 9, 11 y 14, de la comprobación oficial de las tuberculinas o los reactivos a que se refieren los apartados 2 y 3, dentro de España, para garantizar que se ajustan a las normas anteriormente mencionadas.
+
+> Se modifica por el art. único.10 del Real Decreto 1047/2003, de 1 de agosto. Ref. BOE-A-2003-17233
 
 > Redactado el apartado 3 conforme la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. Ref. BOE-A-1997-8673
