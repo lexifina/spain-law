@@ -1,3 +1,5 @@
-## Art. 99. Ante quién se presentan.
+## Art. 99. Presentación de denuncias.
 
-Tratándose de falta, se presentará la denuncia ante el Alcalde en cuyo término municipal se haya cometido o conocido la infracción. En caso de delito, la denuncia se hará ante el Juez de Instrucción del partido competente por razón del lugar, o al Juez Municipal en su defecto, o a la Autoridad de Marina, según proceda.
+Tratándose de faltas, se presentará la denuncia en las oficinas de la Jefatura del Servicio Nacional de Pesca Fluvial y Caza a que esté adscrita la provincia donde se cometió la infracción. En caso de delito, la denuncia se hará ante el Juez de Instrucción del partido competente por razón del lugar, o en su defecto al Juez Municipal o Comarcal, o a la Autoridad de Marina, según proceda.
+
+> Se modifica por el art. 1 del Decreto 483/1966, de 10 de febrero. Ref. BOE-A-1966-4841.
