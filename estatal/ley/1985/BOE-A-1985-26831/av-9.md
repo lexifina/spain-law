@@ -1,0 +1,21 @@
+## Artículo veintiocho. Incremento de pensiones de Clases Pasivas causadas con anterioridad al 1 de enero de 1986.
+
+Uno. Durante el ejercicio de 1986, las pensiones abonadas con cargo a crédito de Clases Pasivas del Estado y que no están incluidas en la enumeración contenida en el número tres del presente artículo experimentarán un incremento del 8 por ciento, sin perjuicio del mayor incremento que pudiera producirse por complementos para mínimos.
+
+Dos. Los incrementos se aplicarán sobre las cuantías percibidas a 31 de diciembre de 1985. Tendrán carácter provisional hasta tanto se compruebe por los servicios correspondientes del Ministerio de Economía y Hacienda la procedencia de la percepción de dichas cuantías en función de otras percepciones públicas de su titular y de las normas en materia de concurrencia y de incompatibilidad de pensiones que resulten aplicables en cada caso. Caso de que de esta comprobación se derivase exceso de incremento, el pensionista, en el supuesto de falsedades u omisiones que le sean imputables, estará obligado a reintegrar las cantidades percibidas sin perjuicio de las otras responsabilidades en que hubiera podido incurrir.
+
+Tres. En ningún caso experimentarán actualización en el presente ejercicio económico las pensiones que se expresan a continuación, que se percibirán durante 1986 en la cuantía alcanzada durante 1985:
+
+a) Las pensiones a que se refiere el número 1 de este artículo que, aisladamente consideradas, en su conjunto, o en concurrencia con otras pensiones financiadas total o parcialmente con fondos públicos, en los términos que se determinan en el artículo 37 de esta Ley, excedan de la cantidad de 187.950 pesetas mensuales, sin perjuicio de lo dispuesto en el artículo 38 de esta Ley.
+
+b) Las pensiones causadas al amparo de la Ley 46/1977, de 15 de octubre, por personal incorporado a las Fuerzas de Orden Público desde el día 18 de julio de 1936, de acuerdo con la disposición transitoria segunda de la Ley 37/1984, de 22 de octubre.
+
+c) Las pensiones de orfandad a que se refiere el párrafo segundo, apartado tres, del artículo 4.º de la Ley 5/1979, de 18 de septiembre, añadido por el artículo 2.º de la Ley 42/1981, de 28 de octubre, así como las pensiones a que se refiere al artículo 4.º, 2, de la misma.
+
+d) Las pensiones de orfandad a que se refiere el párrafo segundo del artículo 17 de la Ley 35/1980, de 26 de julio, añadido por el artículo 3.º de la citada Ley 42/1981.
+
+e) Las pensiones reconocidas en favor de los Camineros del Estado y causadas con anterioridad a 1 de enero de 1985, con excepción de aquellos que sólo tuvieran una sola pensión.
+
+Cuatro. Si como consecuencia de los incrementos previstos en el número uno de este artículo la cuantía de la pensión o pensiones abonadas con cargo a crédito de Clases Pasivas percibidas por un mismo titular resultan superiores al importe de 187.950 pesetas mensuales, se absorberá el exceso sobre dicho límite, aplicándose, en caso de ser varias pensiones las percibidas, dicha absorción en proporción a la cuantía de cada una de ellas y la del exceso habido. En caso de concurrencia en un mismo titular de pensión o pensiones de Clases Pasivas y de pensiones ajenas al indicado régimen y enumeradas en el siguiente artículo 37, se aplicará la absorción a la pensión o pensiones de Clases Pasivas en la medida en que la cuantía de ésta o de éstas supere el límite parcial resultante de acuerdo con lo dispuesto en el número tres de este artículo. A estos efectos, la cantidad de 187.950 pesetas o aquella que corresponda se entienden referidas al importe de una mensualidad ordinaria, sin perjuicio de las pagas extraordinarias por pensiones que pudiera corresponder.
+
+Cinco. Respecto de las pensiones a que se refiere el número 1 de este artículo, causadas con anterioridad al 1 de enero de 1986 que a la fecha de entrada en vigor de esta Ley estuviesen pendientes de reconocimiento, se determinará su cuantía para el ejercicio de 1985 y, en su caso, ejercicios correspondientes, tomando en consideración las normas que sobre concurrencia de pensiones y limitación de su crecimiento se contienen en las Leyes de Presupuestos anteriores, aplicándose para 1986 el incremento de pensiones de acuerdo con lo establecido en los números anteriores de este artículo y normas de desarrollo de esta Ley.

@@ -4,6 +4,8 @@ A) A efectos de determinar el recurso permanente que las Cámaras Oficiales de C
 
 B) Las Cámaras Oficiales someterán anualmente su contabilidad y estados financieros a verificación contable o de auditoría (en la forma que reglamentariamente se determine), sea cual fuere su ámbito territorial. El incumplimiento de este requisito les incapacitará para recibir el recurso permanente a que se refiere la letra A) anterior.
 
+> Se prorroga para el año 1986 la vigencia de lo previsto en la presente disposición, por la disposición adicional 34 de la Ley 46/1985, de 27 diciembre. Ref. BOE-A-1985-26831#tc
+
 > Se prorroga para el año 1985 lo dispuesto en la presente disposición, por la disposición adicional 1 de la Ley 50/1984, de 30 de diciembre. Ref. BOE-A-1984-28337#primera
 
 > Se prorroga para el año 1984 lo dispuesto en la presente disposición, por la disposición adicional 11 de la Ley 44/1983, de 28 de diciembre. Ref. BOE-A-1983-34167#da-11

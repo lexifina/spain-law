@@ -1,0 +1,5 @@
+## Artículo treinta. Complementos económicos en pensiones de Clases Pasivas.
+
+Uno. El Gobierno regulará, a propuesta del Ministerio de Economía y Hacienda, un sistema de complementos económicos para las pensiones de Clases Pasivas del Estado que no alcancen los mínimos de protección que se fijen para ellos y que serán los que puedan establecerse para el Régimen General de la Seguridad Social con las adaptaciones necesarias atendidas las peculiaridades del Régimen de Clases Pasivas. En todo caso, la percepción de estos complementos será incompatible en los términos que establezca el Real Decreto correspondiente, con la percepción por la unidad familiar del beneficiario de los mismos de rentas por importe superior a las 540.000 pesetas anuales, definiéndose a este efecto los conceptos de unidad familiar y renta de acuerdo con la legislación reguladora del Impuesto sobre la Renta de las Personas Físicas.
+
+Dos. El Gobierno podrá extender el sistema de complementos mencionados a los beneficiarios de pensiones especiales de guerra.

@@ -11,3 +11,5 @@ La autorización será adoptada, a propuesta de dichas Entidades y Servicios, po
 3. Los proyectos de obras que elaboren las Entidades y Servicios de la Seguridad Social deberán ser supervisados por la oficina del Departamento ministerial de que dependan, salvo que ya tuvieran establecidas oficinas propias de supervisión.
 
 4. Los informes jurídicos o técnicos que preceptivamente se exijan en la legislación de contratos del Estado se podrán emitir por los órganos competentes en el ámbito de la Seguridad Social o de los Ministerios respectivos.
+
+> Se mantiene la vigencia durante 1986 de lo dispuesto en este artículo por el art. 67 de la Ley 46/1985, de 27 de diciembre. Ref. BOE-A-1985-26831.

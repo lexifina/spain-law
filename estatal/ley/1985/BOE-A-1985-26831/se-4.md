@@ -1,0 +1,7 @@
+## Disposición transitoria segunda.
+
+Uno. Los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, que presten servicio en Centros Gestores cuyos catálogos de puestos de trabajo estén pendientes de aprobación por el Gobierno en 1 de enero de 1986, y hasta tanto se disponga lo contrario en los respectivos Acuerdos de Consejo de Ministros aprobatorios de los mismos, percibirán las retribuciones correspondientes a 1985, con la misma estructura retributiva y con sujeción a la normativa vigente en dicho ejercicio, incrementada la cuantía de las diferentes retribuciones básicas y complementarias en un 7,2 por 100, a igualdad de puestos de trabajo, teniendo en cuenta que las retribuciones que tuvieran el carácter de absorbibles por mejoras o incrementos se regirán por su normativa específica hasta la aplicación del nuevo régimen retributivo.
+
+Dos. Los incentivos y complementos de dedicación exclusiva que se devenguen se abonarán con cargo a los créditos que para el incentivo al rendimiento se incluyen en los Presupuestos de Gastos.
+
+Tres. El Ministerio de Economía y Hacienda dictará las normas precisas para adecuar lo dispuesto en el artículo 13 de la Ley 50/1984, de 30 de diciembre, referente a la homogeneización del sistema y complemento personal y transitorio, de los funcionarios de la Administración del Estado y Organismos autónomos en los casos a que se refiere la presente disposición transitoria.
