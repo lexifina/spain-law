@@ -1,0 +1,7 @@
+La disposición adicional sexta de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, establece que el Gobierno procederá, a través del Ministerio de Obras Públicas, Transportes y Medio Ambiente, en el plazo de un año a partir de la entrada en vigor de dicha Ley, a elaborar un censo de los contratos de arrendamientos de viviendas sujetos a ella y subsistentes a su entrada en vigor.
+
+Por imperativo de esta disposición adicional, el citado censo, que deberá comprender los datos identificativos del arrendador y del arrendatario, de la fecha, duración y renta del contrato, y de la existencia o no de cláusulas de revisión, se ha de elaborar, bien a instancia de los arrendadores, para quienes se establece la obligación de remitir tales datos al citado Ministerio en el plazo máximo de tres meses, a partir de la entrada en vigor de la Ley, bien a solicitud de los arrendatarios, a los que se reconoce igualmente la facultad de solicitar la inclusión en el censo de sus respectivos contratos, dando cuenta, por escrito, al arrendador de los datos remitidos, con la consecuencia de que el incumplimiento por los arrendadores de aquella obligación les privará del derecho a los beneficios fiscales a que se refiere la disposición final cuarta de la Ley.
+
+En su consecuencia, esta Orden tiene por objeto establecer las prescripciones adecuadas para facilitar a arrendadores y arrendatarios el cumplimiento de dicha obligación o el ejercicio de su derecho, y la elaboración del censo creado por la Ley.
+
+En su virtud, dispongo:
