@@ -8,4 +8,6 @@ b) Para el oro será una elipse, cuyo eje mayor será de longitud doble de la de
 
 c) Para la plata será un rectángulo horizontal, cuyo lado mayor será de longitud doble que la del menor, en su interior y en el sentido del lado mayor llevará la ley del metal y a la derecha la contraseña del laboratorio que haya realizado el contraste; este punzón se construirá en dos tamaños, uno con el lado mayor de 4 milímetros y otro en que dicho lado tenga 2 milímetros.
 
-2. La contraseña de cada Laboratorio de Contrastación estará formada por unas siglas diferentes según el ámbito territorial en donde radique, conforme se detalla en el anexo I, seguidas del número que en el momento de solicitar los punzones de garantía se le asigne dentro de cada territorio por el Ministerio de Industria y Energía a propuesta del órgano competente de las Administraciones Públicas.
+2. La contraseña de cada Laboratorio de Contrastación estará formada por unas siglas diferentes según el ámbito territorial en donde radique, conforme se detalla en el anexo I, seguidas del número que se le asigne por el órgano competente de las Administraciones Públicas.
+
+> Se modifica el apartado 2 por el art. 2 del Real Decreto 968/1988, de 9 de septiembre. Ref. BOE-A-1988-21209
