@@ -1,0 +1,3 @@
+## DISPOSICIÓN TRANSITORIA
+
+En el plazo de un año desde la entrada en vigor de esta Ley, los distintos Ministerios, Organos de Gobierno de las Comunidades Autónomas, Diputaciones, Cabildos Insulares, Ayuntamientos y Entidades estatales autónomas, presentarán al Consejo Superior Geográfico un inventario detallado de sus respectivas producciones de cartografía básica junto con la norma cartográfica aplicada en cada caso. En los seis meses siguientes, el órgano competente de la Administración del Estado resolverá, a propuesta, del Consejo, acerca de las producciones que estime convalidables, a la vista de la norma aplicada, y recabará de los Organismos productores las correspondientes reproducciones de las mismas para su inscripción en el Registro Central de Cartografía.
