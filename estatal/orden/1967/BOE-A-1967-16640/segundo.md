@@ -1,3 +1,5 @@
 ## Segundo.
 
-Por dicha Central, que contará con dependencias e instalaciones propias e independientes dentro de la Prisión Provincial de Hombres de Carabanchel, pasarán los internos cuya observación y clasificación resulte difícil o dudosa para los equipos de los establecimientos.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Orden de 9 de septiembre de 1992. Ref. BOE-A-1992-22779.
