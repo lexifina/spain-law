@@ -4,6 +4,10 @@
 
 2. La Administración del Estado conservará en todo momento las facultades de tutela y policía sobre el dominio público afectado, quedando obligado el titular de la ocupación o actividad a informar a aquélla de las incidencias que se produzcan en relación con dichos bienes y a cumplir las instrucciones que le dicte.
 
+Todo ello sin perjuicio de las facultades de gestión de las Comunidades Autónomas respecto a aquellas actividades que correspondan a materias de su competencia que se desarrollen sobre el dominio público.
+
 3. La Administración competente llevará, actualizado, el Registro de usos del dominio público marítimo-terrestre, en el que se inscribirán de oficio, en la forma que se determina en el artículo 80, las reservas, adscripciones y concesiones, así como las autorizaciones de vertidos contaminantes, revisando, al menos anualmente, el cumplimiento de las condiciones estipuladas, así como los efectos producidos. Dichos Registros tendrán carácter público, pudiendo interesarse las oportunas certificaciones sobre su contenido, y siendo las mismas medio de prueba de la existencia y situación del correspondiente título administrativo. Los cambios de titularidad y de características que puedan producirse deberán reflejarse, asimismo, en el asiento correspondiente (artículo 37 de la Ley de Costas).
+
+> Se modifica el apartado 2 por el art. único.12 del Real Decreto 1112/1992, de 18 de septiembre. Ref. BOE-A-1992-22411
 
 > Se declara que el apartado 2 no es inconstitucional si se interpreta conforme al fundamento jurídico 4.A.d) de la Sentencia del TC 198/1991, de 17 de octubre. Ref. BOE-T-1991-27590

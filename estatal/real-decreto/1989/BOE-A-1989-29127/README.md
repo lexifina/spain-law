@@ -321,3 +321,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria vigésima tercera](vigesimatercera.md)
 - [Disposición adicional primera](primera-3.md)
 - [Disposición adicional segunda](segunda-3.md)
+- [Disposición adicional tercera](tercera-3.md)

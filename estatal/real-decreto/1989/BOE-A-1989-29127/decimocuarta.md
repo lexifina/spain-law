@@ -1,6 +1,6 @@
 ## Disposición transitoria decimocuarta.
 
-1. En el plazo de dos años y previamente a la inscripción, en su caso, en el Registro a que se refieren los artículos 37.3 de la Ley de Costas y 79.3 de este Reglamento, las Comunidades Autónomas adoptarán las resoluciones administrativas correspondientes para que se adecuen a lo establecido en el apartado 2 de los artículos 57 de la Ley de Costas y 114 de este Reglamento las autorizaciones o concesiones de vertidos directos contaminantes al mar desde tierra, de forma que se culmine el proceso de adaptación en el plazo máximo de cuatro años.
+1. En el plazo de dos años y previamente a la inscripción, en su caso, en el Registro a que se refieren los artículos 37.3 de la Ley de Costas y 79.3 de este Reglamento, las Comunidades Autónomas adoptarán las resoluciones administrativas correspondientes para que se adecúen a lo establecido en el apartado 2 del artículo 114 de este Reglamento las autorizaciones o concesiones de vertidos directos contaminantes al mar desde tierra, de forma que se culmine el proceso de adaptación en el plazo máximo de cuatro años.
 
 2. Asimismo en el plazo de dos años y previamente a la inscripción, en su caso, en el correspondiente Registro, la Administración del Estado revisará las características y el cumplimiento de las condiciones de las reservas, adscripciones y concesiones vigentes a la promulgación de la Ley de Costas. Las concesiones podrán ser revocadas total o parcialmente, además de por las causas previstas en el título correspondiente, cuando resulten incompatibles con los criterios de ocupación del dominio público establecidos en la citada Ley. La indemnización se determinará, en su caso, por aplicación en las cláusulas de la concesión o, en su defecto, en la legislación en cuya virtud se otorgó aquélla. (Disposición transitoria quinta, 1 y 2, de la Ley de Costas.)
 
@@ -15,6 +15,8 @@
 7. Los titulares de creación, regeneración o acondicionamiento de playas podrán solicitar la revisión de sus cláusulas para incluir en ellas la previsión contenida en los artículos 54 de la Ley de Costas y 112 de este Reglamento.
 
 8. La revisión de las concesiones de competencia de las Comunidades Autónomas se realizará por éstas de conformidad con los criterios establecidos en los apartados 1, 2 y 3 de la presente disposición.
+
+> Se modifica el apartado 1 por el art. único.42 del Real Decreto 1112/1992, de 18 de septiembre. Ref. BOE-A-1992-22411
 
 > Se declara que no es inconstitucional si se interpreta conforme al fundamento jurídico 8.c) de la Sentencia del TC 198/1991, de 17 de octubre. Ref. BOE-T-1991-27590
 
