@@ -41,6 +41,8 @@
 |  | Lengua extranjera (inglés). | Operación, control y mantenimiento de máquinas e instalaciones del buque. |
 |  | Lengua extranjera (inglés). | Pesca y transporte marítimo. |
 | Alemán. Francés. Italiano. Portugués. | Segunda Lengua extranjera (4). | Secretariado. |
+| (3) | Lengua extranjera | Animación Turística. |
+|  | Segunda lengua extranjera. | Animación Turística. |
 | Economía. | Administración y gestión de un pequeño establecimiento comercial. | Comercio. |
 |  | Proyecto empresarial. | Administración y finanzas. |
 | Dibujo (5). | Organización de los trabajos acabados de construcción. | Acabados de construcción. |
@@ -80,5 +82,7 @@
 (5) Título de: Arquitecto, Ingeniero, Arquitecto Técnico o Ingeniero Técnico.
 
 (6) Título de: Ingeniero, Ingeniero Técnico Aeronáutico, Ingeniero Técnico Industrial, Ingeniero Técnico Minas o Ingeniero Técnico Naval.
+
+> Se modifica por la disposición adicional 2 del Real Decreto 274/2000, de 25 de febrero. Ref. BOE-A-2000-4822.
 
 > Se modifica por la disposición adicional 8 y el Anexo VIII.e) del Real Decreto 777/1998, de 30 de abril. Ref. BOE-A-1998-10720.

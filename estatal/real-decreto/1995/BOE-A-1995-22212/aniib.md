@@ -120,6 +120,8 @@
 | «Marketing» en restauración. | Restauración. |
 | Administración de establecimientos de restauración. | Restauración. |
 | Organización y gestión de una pequeña empresa de actividades de tiempo libre y socioeducativas. | Animación sociocultural. |
+| Actividades y recursos culturales. | Animación Turística. |
+| Animación en el ámbito turístico. | Animación Turística. |
 | Informática. | Sistemas gestores de bases de datos. | Administración de sistemas informáticos. |
 | Fundamentos de programación. | Administración de sistemas informáticos. |
 | Redes de área local. | Administración de sistemas informáticos. |
@@ -141,6 +143,8 @@
 | Habilidades de autonomía personal y social. | Integración social. |
 | Asistencia y guía de grupos. | Información y comercialización turísticas. |
 | Formación del consumidor. | Servicios al consumidor. |
+| Actividades y recursos culturales. | Animación Turística. |
+| Animación en el ámbito turístico. | Animación Turística. |
 | Navegación e instalaciones marinas. | Instalaciones y máquinas eléctricas. | Operación, control y mantenimiento de máquinas e instalaciones del buque. |
 | Automatización: regulación y control. | Operación, control y mantenimiento de máquinas e instalaciones del buque. |
 | Seguridad, supervivencia y primeros auxilios en la mar. | Operación, control y mantenimiento de máquinas e instalaciones del buque. |
@@ -458,6 +462,7 @@
 |  | Electrotecnia. | Mantenimiento ferroviario. |
 |  | Sistemas automáticos en las instalaciones. | Mantenimiento y montaje de instalaciones de edificio y proceso. |
 |  | Sistemas automáticos en las instalaciones. | Desarrollo de proyectos de instalaciones de fluidos térmicas y de manutención. |
+| Educación Física | Juegos y actividades físicas recreativas para la animación. | Animación Turística. |
 | Formación y orientación laboral. | Formación y orientación laboral. | Gestión administrativa. |
 |  | Formación y orientación laboral. | Administración y finanzas. |
 |  | Formación y orientación laboral. | Administración de sistemas informáticos. |
@@ -679,5 +684,9 @@
 |  | Relaciones en el entorno de trabajo. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
 |  | Formación y orientación laboral. | Mantenimiento y montaje de instalaciones de edificio y proceso. |
 |  | Relaciones en el entorno de trabajo. | Mantenimiento y montaje de instalaciones de edificio y proceso. |
+|  | Organización y gestión de una pequeña empresa de actividades de tiempo libre y socioeducativas. | Animación Turística. |
+|  | Formación y orientación laboral. | Animación Turística. |
+
+> Se modifica por la disposición adicional 2 del Real Decreto 274/2000, de 25 de febrero. Ref. BOE-A-2000-4822.
 
 > Se modifica por la disposición adicional 8 y el Anexo VIII.b) del Real Decreto 777/1998, de 30 de abril. Ref. BOE-A-1998-10720.
