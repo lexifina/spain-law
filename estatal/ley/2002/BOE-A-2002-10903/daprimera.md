@@ -1,0 +1,3 @@
+## Disposición adicional primera. Censo.
+
+Reglamentariamente se contemplará que puedan percibir las ayudas mencionadas en el artículo 2 de esta Ley las personas hemofílicas o con otras coagulopatías congénitas que, habiendo desarrollado la hepatitis C como consecuencia de haber recibido tratamiento con concentrados de factores de coagulación en el ámbito del sistema sanitario público, no figuren incluidas en el censo definitivo previsto en el artículo 80 de la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, debido a circunstancias objetivas y debidamente acreditadas.
