@@ -2,32 +2,36 @@
 
 ## Escaleras
 
-Anchura mínima con baranda libre, 0,80 metros.
+Altura máxima de tabicas: 19 centímetros.
 
-Anchura mínima entre muros, 1 metro.
+Anchura mínima de huella, sin contar su vuelo sobre la tabica: 27 centímetros.
 
-Anchura mínima de la huella, sin contar su vuelo sobre la tabica, 0,27 metros.
+Longitud mínima de peldaños: 1,00 metro.
 
-Altura máxima de la tabica, 0,19 metros.
+Ancho mínimo de escalera entre paramentos: 2,20 metros.
 
-Número máximo de peldaños o alturas en cada tramo, 16.
+Número máximo de peldaños o altura en un solo tramo: 16.
 
-Longitud mínima de meseta, 0,90 metros.
+En escaleras curvas, longitud mínima de peldaño: 1,20 metros. Los peldaños tendrán como mínimo una línea de huella de 25 centímetros, medida a 40 centímetros de la línea interior del pasamanos.
 
-Longitud mínima de la acometida libre de la escalera, 1,20 metros.
+Las mesetas con puertas de acceso a locales o viviendas tendrán un fondo mínimo de 1,20 centímetros.
 
-Altura mínima del barandal, 0,80 metros.
+Las mesetas intermedias, sin puertas de acceso a locales o viviendas, tendrán un fondo mínimo igual a la longitud del peldaño.
 
-Luz máxima entre barrotes, 0,15 metros.
+La distancia mínima, desde la arista de los peldaños de meseta con puertas a estas, será de 25 centímetros.
 
 En las viviendas individuales se permiten mayores tabicas, menores anchos y escaleras compensadas.
 
 Salvo la excepción señalada para las viviendas individuales, se prohibirán las mesetas en ángulo, las mesetas partidas y las escaleras compensadas.
 
-Se autorizan las escaleras de planta curva, incluidas las de caracol, en las que el ancho de la huella, medido a 40 centímetros de la curva interior, sea igual o mayor de 25 centímetros, sin exceder en su parte más ancha de 40 centímetros.
+Altura mínima de pasamanos de escalera: 0,95 metros, medidos en la vertical de la arista exterior de la huella.
 
-En las casas colectivas, las escaleras tendrán necesariamente iluminación y ventilación directas a la calle o patio por medio de tantos huecos como plantas tenga el edificio, con una superficie mínima, cada uno, de un metro cuadrado.
+Separación máxima entre balaustres de barandillas y antepechos: Aquella que deje libre, horizontalmente, una dimensión de 12 centímetros.
 
-Podrá exceptuarse la planta baja cuando ésta sea comercial.
+En las casas colectivas, las escaleras tendrán necesariamente iluminación y ventilación directa con el exterior en todas sus plantas, con una superficie mínima de iluminación de un metro cuadrado, pudiendo reducirse la de ventilación a 400 centímetros cuadrados.
 
-En casas colectivas de hasta tres plantas, siempre que no se disponga lo contrario en las Ordenanzas municipales, se permitirá la luz y ventilación cenital de las escaleras por medio de lucernarios que tengan, por lo menos, una superficie en planta de los dos tercios de la caja de escalera. En las casas de más plantas queda prohibida la iluminación cenital. El ojo de la escalera deberá tener ochenta centímetros para las casas de dos plantas y noventa para las de tres.
+En edificios de hasta cuatro plantas, siempre que no se disponga lo contrario en las Ordenanzas municipales, se permiten escaleras con ventilación e iluminación cenital por medio de lucernarios, que tengan una superficie en planta que sea, como mínimo, dos tercios de la superficie de la caja de escalera. En este caso, el hueco central quedará libre en toda su altura y en él será incriptible un círculo de 1,30 metros de diámetro.
+
+> Se modifica por el art. 1 de la Orden de 4 de mayo de 1970. Ref. BOE-A-1970-527#a1
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 119, de 19 de mayo de 1970. Ref. BOE-A-1970-40201
