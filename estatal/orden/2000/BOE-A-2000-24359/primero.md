@@ -1,0 +1,5 @@
+## Primero. Objeto.
+
+1. La presente Orden regula el régimen de enajenación por parte del Ministerio de Defensa de los bienes muebles y productos de defensa a que se hace referencia en el apartado siguiente, con carácter excepcional al establecido en la Ley del Patrimonio del Estado y Reglamento para su aplicación, siempre que no se ponga en riesgo la operatividad de la fuerza propia ni la seguridad nacional.
+
+2. Son objeto de esta Orden las enajenaciones de los materiales, bienes muebles y productos de defensa útiles para el servicio y afectados al uso de las Fuerzas Armadas necesarios para las operaciones militares, que figuran en sus respectivos inventarios ; así como aquellos suministros que, sin figurar en inventario, resulten precisos para el desarrollo de las misiones en que las Fuerzas Armadas participen.
