@@ -2,7 +2,7 @@
 
 El Banco de España comunicará a los declarantes las informaciones siguientes:
 
-a) Mensualmente, remitirá a cada entidad declarante que haya entregado sus datos en soporte magnético o por interconexión de ordenadores –y por el mismo medio– la información agregada de todo el sistema para sus acreditados, con todos los datos, exclusión hecha del origen de la operación y de los riegos con clave J en la primera posición, agrupándose, a estos efectos, las características descritas en la quinta posición de la clave de riesgos (según las instrucciones complementarias al anejo II) en cuatro conjuntos: Los que están en suspenso (clave J), los morosos (claves E, F, G, H, I), los procedentes de un convenio de acreedores (clave L), y el resto (claves A, B, C, D, K). Los riesgos solidarios por cada titular se agregarán entre sí, pero separadamente de los no solidarios.
+a) Mensualmente, remitirá a cada entidad declarante que haya entregado sus datos en soporte magnético o por interconexión de ordenadores –y por el mismo medio– la información agregada de todo el sistema para sus acreditados, con todos los datos, exclusión hecha del origen de la operación y de los riegos con clave J en la primera posición, que se informarán como crédito financiero a corto plazo, agrupándose, a estos efectos, las características descritas en la quinta posición de la clave de riesgos (según las instrucciones complementarias al anejo II) en cuatro conjuntos: Los que están en suspenso (clave J), los morosos (claves E, F, G, H, I), los procedentes de un convenio de acreedores (clave L), y el resto (claves A, B, C, D, K). Los riesgos solidarios por cada titular se agregarán entre sí, pero separadamente de los no solidarios.
 
 Las demás entidades recibirán mensualmente información agregada de todo el sistema acerca de sus acreditados, según el modelo del anejo III.
 
@@ -11,6 +11,8 @@ b) También se proporcionará, previa solicitud en la que consten el nombre del 
 A fin de asegurar el correcto cumplimiento de lo dispuesto en el párrafo anterior, el Banco de España podrá solicitar a las entidades declarantes la remisión de las autorizaciones a las que se alude en el mismo, así como requerirles la implantación de los procedimientos y controles necesarios a tal efecto.
 
 Las solicitudes de las entidades se formularán con el formato y declaración que recoge el anejo IV bis, y deberán realizarse en soporte magnético o por interconexión de ordenadores. Sólo se admitirán en papel solicitudes que no se refieran a más de cinco titulares.
+
+> Se modifica la letra a) por la norma única de la Circular 1/2001, de 30 de marzo. Ref. BOE-A-2001-7513.
 
 > Se añade el último párrafo a la letra b) por la norma única de la Circular 8/1999, de 27 de julio. Ref. BOE-A-1999-17037.
 

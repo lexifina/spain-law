@@ -8,10 +8,12 @@ En las operaciones de arrendamiento financiero se declarará la parte correspond
 
 En los riesgos indirectos, se declarará, asimismo, el importe garantizado de los riesgos directos.
 
-Los importes se expresarán en millones de pesetas, redondeados a la unidad de millón más próxima, con la equidistancia al alza. Este redondeo no se aplicará a los riesgos menores de un millón de pesetas, que no serán declarables.
+Los importes se expresarán en miles de euros, aproximados a la unidad de millar más próxima, con la equidistancia al alza. Este procedimiento no se aplicará a los riesgos menores de seis mil euros, que no serán declarables.
 
-Como excepción al párrafo anterior los saldos morosos menores de un millón de pesetas, correspondientes a titulares declarados por superar las cuantías de riesgo que se señalan en la norma quinta, apartado 2, se consignarán explícitamente con importe cero y la clave correspondiente de morosidad.
+Como excepción al párrafo anterior, los saldos morosos menores de seis mil euros correspondientes a operaciones con importes declarados con otra clave de situación se consignarán explícitamente con importe cero y la clave correspondiente de la morosidad.
 
 2. Los riesgos de un titular se presentarán agregados por operaciones que presenten iguales características, entendiendo por tales aquellas en las que el campo de origen de la operación y la clave de riesgo descritos en el anejo II sean iguales.
+
+> Se modifican los dos últimos párrafos del apartado 1 por la norma única de la Circular 1/2001, de 30 de marzo. Ref. BOE-A-2001-7513.
 
 > Se modifica el apartado 1 por la norma única de la Circular 6/1998, de 29 de mayo. Ref. BOE-A-1998-13844.

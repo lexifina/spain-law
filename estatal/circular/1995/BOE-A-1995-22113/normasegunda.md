@@ -12,7 +12,7 @@ En el caso de los créditos y préstamos de dinero, los riesgos contraídos por 
 
 b) Riesgos indirectos: Son los contraídos por la entidad con quienes garantizan o avalan operaciones de riesgo directo, y en especial:
 
-Los avales, afianzamientos y garantías personales en cualquier clase de crédito dinerario, sea cual fuere la expresión formal del mismo; ello alcanza, en los efectos financieros, a las firmas comprometidas en los mismos distintas de la del titular directo, y en los comerciales, a aquellas que hayan sido tenidas en cuenta por la declarante para la asunción del riesgo, y en todo caso, a las que figuren en efectos de importe unitario superior a diez millones de pesetas; y
+Los avales, afianzamientos y garantías personales en cualquier clase de crédito dinerario, sea cual fuere la expresión formal del mismo; ello alcanza, en los efectos financieros, a las firmas comprometidas en los mismos distintas de la del titular directo, y en los comerciales, a aquellas que hayan sido tenidas en cuenta por la declarante para la asunción del riesgo, y en todo caso, a las que figuren en efectos de importe unitario superior a sesenta mil euros; y
 
 Los contraavales recibidos en garantía de los prestados.
 
@@ -35,5 +35,7 @@ En el descuento de efectos comerciales, se considerará titular al cedente, sin 
 El "factoring" con recurso e inversión se declarará como crédito comercial al cedente; si se hace sin recurso, el riesgo se atribuirá al obligado al pago y como tal "factoring". Igual atribución se hará en los descuentos de efectos comerciales sin recurso contra el cedente, u operaciones similares.
 
 En las adquisiciones temporales de activos, el titular será el cedente, sea cual sea el activo cedido.
+
+> Se modifica el apartado 2.b) por la norma única de la Circular 1/2001, de 30 de marzo. Ref. BOE-A-2001-7513.
 
 > Se suprime el apartado 2.c) y se modifican los apartados 3, párrafo segundo y 4, penúltimo párrafo por la norma única de la Circular 6/1998, de 29 de mayo. Ref. BOE-A-1998-13844.

@@ -10,13 +10,13 @@ Excepcionalmente, y mediando causa justificada, las entidades podrán remitir su
 
 a) Titulares residentes:
 
-Aquellos en los que el riesgo directo total con el titular sea igual o superior a un millón de pesetas en el conjunto de negocios en España, o a diez millones de pesetas en el de cualquier otro país, considerado individualmente; que el riesgo indirecto total en los negocios de cualquier país, considerado individualmente, sea igual o superior a diez millones de pesetas. Para todo lo indicado en este párrafo, la UE, excluida España, se considerará un único país.
+Aquellos en los que el riesgo directo total con el titular sea igual o superior a seis mil euros en el conjunto de negocios en España, o a sesenta mil euros en el de cualquier otro país, considerado individualmente; que el riesgo indirecto total en los negocios de cualquier país, considerado individualmente, sea igual o superior a sesenta mil euros. Para todo lo indicado en este párrafo, la UE, excluida España, se considerará un único país.
 
 Si el titular es una corporación local, fundación, sociedad municipal o provincial, o empresa mixta, o vinculada a corporación local, se declararán todos sus riesgos. Las entidades declarantes formularán al Banco de España (Oficina de Documentación y Central de Riesgos) cuantas dudas puedan surgir sobre la conceptuación de entidades concretas como corporaciones locales a los presentes efectos. En todo caso, se incluirá cualquier entidad en la que las corporaciones locales, directa o indirectamente, participen, al menos, en un 20 por 100 en el capital o en sus órganos rectores.
 
 b) Titulares no residentes:
 
-Que el riesgo directo o indirecto total en los negocios de cualquier país, considerado individualmente, sea igual o mayor que cincuenta millones de pesetas. Para la determinación de este umbral, por lo que se refiere únicamente a los riesgos directos, la UE, incluida España, se tratará como un solo país.
+Que el riesgo directo o indirecto total en los negocios de cualquier país, considerado individualmente, sea igual o mayor que trescientos mil euros. Para la determinación de este umbral, por lo que se refiere únicamente a los riesgos directos, la UE, incluida España, se tratará como un solo país.
 
 Aquellos cuyo titular tenga riesgos contraídos en el conjunto de los negocios en España, y esté incurso en alguna de las situaciones especiales especificadas en la letra e) de la norma tercera, o tenga clasificado algún riesgo como dudoso, sea cual fuere su causa y cuantía.
 
@@ -39,5 +39,7 @@ La segunda, anejo II.b), para riesgos solidarios, también se clasifica por titu
 5. El Banco de España podrá solicitar de las entidades declarantes fotocopias del documento nacional de identidad o número de identificación fiscal de cualquier titular por ellas declarado.
 
 6. Los créditos o valores de renta fija impagados dejarán de declararse a la CIR solo cuando prescriban las acciones legales de la entidad tendentes a lograr su recuperación, aunque se hayan provisionado plenamente o se encuentren en la situación contable de suspensos.
+
+> Se modifica el apartado 2 por la norma única de la Circular 1/2001, de 30 de marzo. Ref. BOE-A-2001-7513.
 
 > Se modifica el apartado 2 por la norma única de la Circular 6/1998, de 29 de mayo. Ref. BOE-A-1998-13844.
