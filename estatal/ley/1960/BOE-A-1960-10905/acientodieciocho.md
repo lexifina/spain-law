@@ -2,12 +2,14 @@
 
 Las indemnizaciones respecto a la carga o equipaje facturado, o de mano, serán las siguientes:
 
-Primera.- Por pérdida o avería en la carga, hasta el limite de dos mil setecientas (2.700) pesetas por kilogramo de peso bruto.
+1.ª Por pérdida o avería de la carga, hasta el límite de 17 derechos especiales de giro por kilogramo de peso bruto.
 
-Segunda.- Por pérdida o averia de equipajes, facturados o de mano, hasta el limite de cincuenta y cuatro mil (54.000) pesetas por unidad.
+2.ª Por pérdida o avería de equipajes, facturados o de mano, hasta el límite de 500 derechos especiales de giro por unidad.
 
-Tercera.- Por retraso en la entrega de la carga o equipale facturado, hasta el limite de una cantidad equivalente al precio el transporte.
+3.ª Por retraso en la entrega de la carga o equipaje facturado, hasta el límite de una cantidad equivalente al precio del transporte.
 
-Si la carga o equipaje facturado o de mano se transporta bajo manifestación de valor declarado, aceptado por el transportista, el limite de la responsabilidad corresponde a ese valor.
+Si la carga o equipaje facturado o de mano se transporta bajo manifestación de valor declarado, aceptado por el transportista, el límite de responsabilidad corresponde a ese valor.
+
+> Se actualizan las cuantías por el art. 3 del Real Decreto 37/2001, de 19 de enero. Ref. BOE-A-2001-2343.
 
 > Se actualizan las cuantías por el art. 2 del Real Decreto 2333/1983, de 4 de agosto. Ref. BOE-A-1983-23967.
