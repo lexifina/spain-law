@@ -196,6 +196,8 @@ En el capítulo 04, artículo 48, el concepto 483 debe quedar redactado de la si
 
 > «A las centrales sindicales más representativas, de conformidad con la Disposición Adicional sexta de la Ley 8/1980, de 10 de marzo, del Estatuto de los Trabajadores, en proporción a su representatividad según los resultados globales a que hace referencia el artículo 75.5 de dicha Ley, para la realización de actividades socio-culturales, promoción de los trabajadores, organización de actividades de carácter formativo y otras dentro de los fines propios de aquéllas.»
 
+> Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado en el servicio 01 de la sección 19, por Sentencia del TC 20/1985, de 14 de febrero. Ref. BOE-T-1985-3616
+
 Servicio 02.
 
 En el capítulo 04, artículo 48, concepto 487, creación de un subconcepto con el siguiente texto:
@@ -699,3 +701,5 @@ Presupuesto de ingresos:
 |  | De Organismos autónomos administrativos (concepto nuevo). | 44.000.000 |
 | Alta | (Presupuesto de gastos) 76.611. |  |  |
 |  | Plan de inversiones. | 44.000.000 |
+
+> Se declara inconstitucional y nulo el inciso destacado en el servicio 01 de la sección 19, por Sentencia del TC 20/1985, de 14 de febrero. Ref. BOE-T-1985-3616
