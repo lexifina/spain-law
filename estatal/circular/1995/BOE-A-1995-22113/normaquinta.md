@@ -2,9 +2,9 @@
 
 1. Las declaraciones de los datos serán mensuales, habrán de referirse a la realidad del último día hábil del mes, y deberán ser entregadas en el Banco de España en Madrid, en la Oficina de Documentación y Central de Riesgos, dentro de los primeros diez días del mes siguiente al que se refieren los datos.
 
-Los datos deberán presentarse en soporte magnético o mediante interconexión de ordenadores.
+Los datos se presentarán por transmisión telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto por el Banco de España.
 
-Excepcionalmente, y mediando causa justificada, las entidades podrán remitir sus declaraciones en los impresos que al efecto proporcionará la Oficina de Documentación y Central de Riesgos.
+Excepcionalmente, por causa puntual justificada, previa conformidad de la oficina de Documentación y Central de Riesgos, podrán remitirse en soporte magnético.
 
 2. En todo caso, se pormenorizarán obligatoriamente por titulares, y dentro de cada uno de ellos por clase de riesgos, los contraídos en los que concurran alguna de las circunstancias siguientes:
 
@@ -39,6 +39,8 @@ La segunda, anejo II.b), para riesgos solidarios, también se clasifica por titu
 5. El Banco de España podrá solicitar de las entidades declarantes fotocopias del documento nacional de identidad o número de identificación fiscal de cualquier titular por ellas declarado.
 
 6. Los créditos o valores de renta fija impagados dejarán de declararse a la CIR solo cuando prescriban las acciones legales de la entidad tendentes a lograr su recuperación, aunque se hayan provisionado plenamente o se encuentren en la situación contable de suspensos.
+
+> Se modifica el apartado 1, párrafos segundo y tercero por la norma única de la Circular 3/2002, de 25 de junio. Ref. BOE-A-2002-13015.
 
 > Se modifica el apartado 2 por la norma única de la Circular 1/2001, de 30 de marzo. Ref. BOE-A-2001-7513.
 
