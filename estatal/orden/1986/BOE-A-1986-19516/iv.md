@@ -42,7 +42,7 @@ b) Requisitos específicos para el material parental y semilla de base:
 
 Primera. Inspecciones a realizar:
 
-Se realizarán inspecciones oficiales a los campos de producción de material parental y semilla de base durante el período de floración. El número mínimo de inspecciones será de tres para líneas puras e híbridos y de una para variedades de polinización libre.
+Se realizarán inspecciones oficiales a los campos de producción de material parental y semilla de base durante el período de floración. El número mínimo de inspecciones será de una para las líneas puras e híbridos y de tres para variedades de polinización libre.
 
 En el caso que el cultivo precedente hubiera sido de cualquier especie del género «Sorghum», se efectuará una inspección más para comprobar la no existencia de plantas de estas especies del cultivo anterior.
 
@@ -58,7 +58,7 @@ Segundo. Inspecciones a realizar:
 
 El personal de las Entidades productoras efectuará, por lo menos, las inspecciones necesarias para mantener las parcelas debidamente depuradas.
 
-Se realizarán inspecciones oficiales a los campos de producción de semilla certificada, durante el período de floración. El número mínimo de inspecciones será de tres para híbridos y de una para variedades de polinización libre.
+Se realizarán inspecciones oficiales a los campos de producción de semilla certificada, durante el período de floración. El número mínimo de inspecciones a realizar será de uno para híbridos y de tres para variedades de polinización libre.
 
 En el caso que el cultivo precedente hubiese sido de cualquier especie del género «Sorghum», se efectuará una inspección más para comprobar la no existencia de plantas de estas especies del cultivo anterior.
 
@@ -83,5 +83,7 @@ Tercera. Comunicaciones relativas a comercialización:
 Las ventas por variedades y provincias, así como los remanentes de semillas procedentes de la última campaña se comunicarán al Instituto Nacional de Semillas y Plantas de Vivero, en lo sucesivo Instituto, antes del 15 de octubre de cada año.
 
 Se considera que la campaña de comercialización del sorgo comprende desde el 1 de julio al 30 de junio del año siguiente.
+
+> Se modifican los apartados b) y c) por el apartado 1 de la Orden de 6 de octubre de 1988. Ref. BOE-A-1988-24865.
 
 > Redactados los apartados a).1 y 3 conforme a la corrección de errores publicada en BOE núm. 15, de 17 de enero de 1987. Ref. BOE-A-1987-1095
