@@ -1,0 +1,13 @@
+El Real Decreto 2225/1998, de 19 de octubre, sobre transporte de mercancías peligrosas por ferrocarril ha derogado el Reglamento Nacional para el transporte de mercancías peligrosas por ferrocarril (TPF), aprobado por Real Decreto 879/1989, de 2 de junio, disponiendo la aplicación al transporte interno de las normas vigentes en cada momento del Reglamento relativo al transporte internacional de mercancías peligrosas por ferrocarril (RID), anejo al Convenio relativo a los transportes internacionales por ferrocarril (COTIF), hecho en Berna, el 9 de mayo de 1980.
+
+Si bien el citado Real Decreto 2225/1998 se limitó a derogar el anejo del Real Decreto 879/1989, en aquel momento se puso de manifiesto la necesidad de revisar su articulado actualizando las normas sobre conducción y circulación de actuación en caso de accidente, incorporando otras sobre carga y descarga, certificación de vagones, contenedores, envases y embalajes y grandes recipientes a granel no incluidas en el RID, asignándose las verificaciones y certificaciones a Organismos y Entidades externas a las Administraciones públicas, con el fin de agilizar la obtención de los mismos.
+
+Sin embargo, estas normas no pudieron introducirse en el repetido Real Decreto 2225/1998, debido a que ya era urgente la necesidad de incorporar al ordenamiento interno la Directiva 96/87/CE, de la Comisión, de 13 de diciembre, para la adaptación al progreso técnico de la Directiva 96/49/CE, y a que no era conveniente establecer de forma precipitada la regulación de referencia.
+
+A esta necesidad obedece este Real Decreto en el que por razones de claridad y economía se ha optado por recoger no sólo las referidas normas sino también las contenidas en el Real Decreto 2225/1998, procediendo a su derogación.
+
+Esta disposición ha sido sometida al procedimiento de información en materia de normas y reglamentaciones técnicas y de reglamentos relativos a los servicios de la sociedad de la información, previsto en la Directiva 98/34/CE del Parlamento Europeo y del Consejo de 22 de junio, modificada por la Directiva 98/48/CE de 20 de julio, así como en el Real Decreto 1337/1999, de 31 de julio que incorpora estas Directivas al ordenamiento jurídico español.
+
+En su virtud, a propuesta del Vicepresidente Primero del Gobierno y Ministro del Interior, y de los Ministros de Fomento, de Agricultura, Pesca y Alimentación, de Sanidad y Consumo, de Medio Ambiente, y de Ciencia y Tecnología, con el informe de la Comisión de Coordinación del Transporte de Mercancías Peligrosas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 20 de abril de 2001,
+
+D I S P O N G O :
