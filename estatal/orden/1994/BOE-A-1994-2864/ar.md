@@ -1,0 +1,3 @@
+## Artículo 1.
+
+La presente disposición tiene por objeto determinar los requisitos que deben cumplir los programas oficiales que han de establecerse para el reconocimiento de zonas protegidas a que se refiere el punto 1, letra h), del artículo 2 del Real Decreto 2071/1993, de 26 de noviembre, relativo a las medidas de protección contra la introducción y difusión en el territorio nacional y de la Comunidad Económica Europea de organismo nocivos para los vegetales o productos vegetales, así como para la exportación y tránsito hacia países terceros, o para mantener las ya reconocidas en el citado Real Decreto.
