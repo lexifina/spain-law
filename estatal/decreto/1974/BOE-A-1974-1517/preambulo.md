@@ -1,0 +1,5 @@
+De acuerdo con lo previsto en el artículo tercero de la Ley treinta y siete/mil novecientos sesenta y seis, de treinta y uno de mayo, sobre creación de Reservas Nacionales de Caza, en la disposición final segunda de la Ley de Caza uno/mil novecientos setenta, de cuatro de abril, que regula la protección, conservación y fomento de la riqueza cinegética nacional, y en el artículo segundo de la Ley dos/mil novecientos setenta y tres, de diecisiete de marzo, mediante la que se crean trece nuevas Reservas Nacionales de Caza, y cumplidos los trámites de informe ordenados en el mencionado artículo segundo de la Ley dos/mil novecientos setenta y tres, de diecisiete de marzo, resulta necesario promulgar en tiempo y forma oportunos el Reglamento de funcionamiento de las Reservas Nacionales de Caza, cuya administración tiene encomendada el Ministerio de Agricultura a través del Instituto Nacional para la Conservación de la Naturaleza.
+
+En su virtud, a propuesta del Ministro de Agricultura, y previa deliberación del Consejo de Ministros del día nueve de agosto de mil novecientos setenta y cuatro.
+
+DISPONGO:

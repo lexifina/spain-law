@@ -1,0 +1,5 @@
+## Artículo quinto. Planes técnicos.
+
+Por el Director Técnico de cada Reserva, oída la Junta de Caza, se elevará anualmente a la dirección del ICONA la propuesta de un plan de Conservación y Fomento cinegético, en el que se detallarán las obras y actividades que la mencionada Dirección técnica proyecta llevar a cabo en favor de la conservación y fomento de la caza. La aprobación del plan será competencia del Director del Instituto.
+
+Igualmente se elevará a la Dirección del ICONA un plan de aprovechamiento cinegético, en el que deberán constar las épocas hábiles de caza, la forma de cazar, el número máximo de ejemplares de cada especie que se podrán cazar en cada campaña, las armas autorizadas, las limitaciones cinegéticas especiales aplicables, la cuantificación de los cupos asignados a cada clase de cazadores y, en general, todo aquello que sirva para la más correcta ordenación del aprovechamointo. Con independencia de lo anterior, el Ministro de Agricultura podrá autorizar la expedición de permisos para atender compromisos especiales de reciprocidad u otros de orden superior que considere convenientes.

@@ -1,0 +1,3 @@
+## Artículo noveno. Distribución de beneficios.
+
+La distribución de beneficios, cuando los hubiere, se realizará entre los propietarios o titulares indicados en el artículo anterior, cualquiera que sea su naturaleza jurídica y precisamente en proporción a la superficie de las fincas aportadas por cada uno de ellos. Cuando se trate de terrenos propiedad del Estado no adscritos al ICONA, su participación se ingresará en el Tesoro Público. A estos efectos, el total de la cantidad a distribuir será librado con cargo al presupuesto de cada Reserva, al Presidente de la Junta de Caza de la misma, el cual deberá rendir las oportunas cuentas justificativas en el plazo máximo de tres meses.
