@@ -1,0 +1,3 @@
+## Artículo quinto.
+
+Si en un Organismo, Entidad o Servicio, sea Autoridad encargada de hacer la calificación, sea depositario de materias clasificadas, se comprobase una revelación no autorizada o el extravío de documentos o material, la máxima jerarquía de aquéllos deberá ordenar se proceda, con carácter de máxima urgencia, a hacer las averiguaciones pertinentes, tanto para fijar las responsabilidades a que hubiere lugar, que habrán de atribuirse, siempre que sea posible, a persona determinada individualmente y no al cargo o función que desempeñare, como para la recuperación del documento o material extraviado.
