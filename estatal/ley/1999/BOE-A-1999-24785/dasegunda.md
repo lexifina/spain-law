@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Prestaciones económicas de la Seguridad Social por hijo a cargo.
+
+Uno. El límite de ingresos a que se refiere el artículo 181 del texto refundido de la Ley General de la Seguridad Social, queda fijado, a partir del 1 de enero del año 2000, en 1.227.051 pesetas anuales.
+
+Dos. A partir del 1 de enero del año 2000, la cuantía de las prestaciones económicas de la Seguridad Social por hijo a cargo, con dieciocho o más años de edad y un grado de minusvalía igual o superior al 65 por 100, será de 464.580 pesetas anuales.
+
+Cuando el hijo a cargo tenga una edad de dieciocho o más años, esté afectado de una minusvalía en un grado igual o superior al 75 por 100 y necesite el concurso de otra persona para la realización de los actos esenciales de la vida, la cuantía de la prestación económica será de 696.900 pesetas anuales.
