@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+La gestión de los residuos radiactivos generados en los supuestos excepcionales previstos en el artículo 2 de la Ley 15/1980, de 22 de abril, de Creación del Consejo de Seguridad Nuclear, por la entidad autorizada para ello, podrá ser efectuada con cargo a los rendimientos financieros integrados en el fondo a que se refiere la disposición adicional sexta de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, cuando el coste de esta gestión no pueda repercutirse de conformidad con la normativa vigente y así lo determine el Ministerio de Industria y Energía.

@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+Las marcas, nombres comerciales y rótulos de establecimiento, cuya concesión hubiera sido publicada o cuya renovación hubiera sido solicitada con posterioridad a la entrada en vigor de la presente Ley, quedarán sujetos al pago de la tasa de registro o renovación, respectivamente. Hasta la primera renovación que se produzca, tras la entrada en vigor de esta Ley, las marcas, nombres comerciales y rótulos de establecimiento ya concedidos estarán sujetos al pago de los quinquenios correspondientes bajo sanción de caducidad según el texto legal vigente en el momento de su concesión o de su última renovación.
