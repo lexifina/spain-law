@@ -1,0 +1,9 @@
+## Disposición transitoria segunda. Adaptación de las sociedades a las previsiones de la Ley.
+
+1. Dentro del plazo de tres años a contar desde la entrada en vigor de la presente Ley, las sociedades de responsabilidad limitada constituidas con anterioridad a la vigencia de la misma deberán adaptar a ella las disposiciones de las escrituras o estatutos sociales, si estuvieran en contradicción con sus preceptos.
+
+2. Dentro del mismo plazo, las sociedades constituidas con anterioridad a la entrada en vigor de la presente Ley y que consideren que sus escrituras o estatutos sociales son conformes con los preceptos de la misma, presentarán los correspondientes títulos en el Registro Mercantil. Si el Registrador encontrara conformes el título o títulos presentados, lo hará constar así en los propios títulos y por nota al margen de la última inscripción de la sociedad. En otro caso, extenderá al pie del título nota expresiva de la necesidad de adaptación. Esta calificación estará sujeta al sistema de recursos establecido en el Reglamento del Registro Mercantil.
+
+3. Por el Gobierno, a propuesta del Ministro de Justicia e Interior, se fijará una reducción en los derechos que los Notarios y los Registradores Mercantiles hayan de percibir como consecuencia de la aplicación de sus respectivos aranceles por los actos y documentos necesarios para la adaptación de las sociedades existentes a lo previsto en la presente Ley, y para la inscripción en el Registro Mercantil de los sujetos obligados a hacerlo en virtud de las disposiciones de la misma.
+
+4. Del mismo modo se fijará la reducción del importe de la publicación en el «Boletín Oficial del Registro Mercantil» de la inscripción de la adaptación o de la inscripción de los sujetos obligados a hacerlo en virtud de las disposiciones de la presente Ley.

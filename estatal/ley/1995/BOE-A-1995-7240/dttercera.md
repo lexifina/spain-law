@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Inscripción de documentos en el Registro Mercantil.
+
+Transcurridos tres años desde la entrada en vigor de la presente Ley, no se inscribirá en el Registro Mercantil documento alguno de sociedad de responsabilidad limitada hasta tanto no se haya inscrito la adaptación de su escritura o estatutos sociales o practicado la nota marginal de conformidad. Se exceptúan los títulos relativos a la adaptación a la presente Ley, al cese o dimisión de administradores, gerentes, directores generales o liquidadores, y a la revocación o renuncia de poderes, así como a la transformación de la sociedad o a su disolución y nombramiento de liquidadores y los asientos ordenados por la autoridad judicial o administrativa.

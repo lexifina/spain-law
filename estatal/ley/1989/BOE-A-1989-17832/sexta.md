@@ -4,6 +4,8 @@
 
 2. Si antes del 31 de diciembre de 1995 las sociedades anónimas y comanditarias por acciones no hubieran presentado en el Registro Mercantil la escritura o escrituras en las que consten el acuerdo de aumentar el capital social hasta el mínimo legal, la suscripción total de las acciones emitidas y el desembolso de una cuarta parte, por lo menos, del valor de cada una de sus acciones, quedarán disueltas de pleno derecho, cancelando inmediatamente de oficio el Registrador los asientos correspondientes a la sociedad disuelta. No obstante la cancelación, subsistirá la responsabilidad personal y solidaria de administradores, gerentes, directores generales y liquidadores por las deudas contraídas o que se contraigan en nombre de la sociedad. Del mismo modo se procederá respecto de las sociedades de responsabilidad limitada que no hayan presentado en el Registro Mercantil antes del 31 de diciembre de 1995 la escritura o escrituras en las que conste el acuerdo de aumentar el capital social hasta el mínimo legal, la suscripción total de las participaciones sociales y el desembolso íntegro de las mismas o la escritura de transformación en sociedad colectiva o comandataria simple.
 
-> Téngase en cuenta que se derogan los incisos destacados por la disposición derogatoria.3 del Real Decreto Legislativo 1564/1989, de 22 de diciembre. Ref. BOE-A-1989-30361.
+> Téngase en cuenta que se derogan los incisos destacados por la disposición derogatoria.3 del Real Decreto Legislativo 1564/1989, de 22 de diciembre. Ref. BOE-A-1989-30361 y por la disposición derogatoria 2 de la Ley 2/1995, de 23 de marzo. Ref. BOE-A-1995-7240.
+
+> Se deroga el inciso destacado del apartado 2 por la disposición derogatoria 2 de la Ley 2/1995, de 23 de marzo. Ref. BOE-A-1995-7240.
 
 > Se derogan los incisos destacados por la disposición derogatoria.3 del Real Decreto Legislativo 1564/1989, de 22 de diciembre. Ref. BOE-A-1989-30361.
