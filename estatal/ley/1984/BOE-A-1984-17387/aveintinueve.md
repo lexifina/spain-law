@@ -62,7 +62,7 @@ Los funcionarios excedentes no devengarán retribuciones, ni les será computabl
 
 4. Los funcionarios tendrán derecho a un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción o acogimiento permanente o preadoptivo, a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.
 
-También tendrán derecho a un período de excedencia, de duración no superior a un año, los funcionarios para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado inclusive de consanguinidad o afinidad, que, por razones de edad, accidente, enfermedad o discapacidad, no pueda valerse por sí mismo y no desempeñe actividad retribuida.
+También tendrán derecho a un período de excedencia, de duración no superior a un año, los funcionarios para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado inclusive de consanguinidad o afinidad, que, por razones de edad, accidente o enfermedad, no pueda valerse por sí mismo, y no desempeñe actividad retribuida.
 
 El período de excedencia será único por cada sujeto causante. Cuando un nuevo sujeto causante diera origen a una nueva excedencia, el inicio del período de la misma pondrá fin al que se viniera disfrutando.
 
@@ -119,8 +119,6 @@ La excedencia voluntaria incentivada tendrá una duración de cinco años e impe
 Quienes pasen a la situación de excedencia voluntaria incentivada tendrán derecho a una mensualidad de las retribuciones de carácter periódico, excluidas las pagas extraordinarias y el complemento de productividad, devengadas en el último puesto de trabajo desempeñado, por cada año completo de servicios efectivos y con un máximo de doce mensualidades.
 
 En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas acordar el pase a la situación de excedencia voluntaria incentivada.
-
-> Se modifica el párrafo segundo del apartado 4 por la disposición adicional 2 de la Ley 51/2003, de 2 de diciembre. Ref. BOE-A-2003-22066
 
 > Se añade un último párrafo al apartado 4 por la disposición adicional 1.4 de la Ley 40/2003, de 18 de noviembre. Ref. BOE-A-2003-21052
 
