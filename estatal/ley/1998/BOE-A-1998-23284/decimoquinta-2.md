@@ -1,6 +1,8 @@
 ## Disposición transitoria decimoquinta. Distribución de gas natural.
 
-Sobre la zona de distribución de gas natural de una concesión que, de acuerdo con la disposición adicional sexta de la presente Ley, hubiera devenido en autorización, no podrán concederse nuevas autorizaciones para la construcción de instalaciones de distribución hasta el 1 de enero del año 2005 o hasta la vigencia de la concesión original si el plazo es anterior a dicha fecha, debiendo cumplir, en este período, las empresas autorizadas, las obligaciones de servicio público de desarrollo y extensión de las redes, impuestas en virtud de la concesión, y salvo saturación de la capacidad de sus instalaciones. Todo ello sin perjuicio de lo previsto en el artículo 78 de la presente Ley.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.d) del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
 
 > Se modifica por el art. 14 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
 

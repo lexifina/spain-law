@@ -182,6 +182,24 @@ El importe que los distribuidores recauden por retribución fija de los consumid
 
 La retribución fija CTC, por los suministros a tarifa de un distribuidor i se determinara por la diferencia, entre el importe a liquidar (Li), definido en el apartado anterior, y los costes liquidables de distribución y transporte.
 
+Los planes de financiación extraordinarios aprobados y los incentivos por consumo de carbón autóctono que establece el artículo 13.a) serán liquidados por la Comisión Nacional de Energía mensualmente.
+
+Una vez realizado esto, cuando el fondo acumulado en la cuenta específica abierta en régimen de depósito tenga saldo positivo, será liquidado por la Comisión Nacional de Energía en la última liquidación provisional de cada año, por aplicación de los porcentajes que establezca el Ministerio de Industria, Turismo y Comercio.
+
+Cuando el fondo acumulado en la cuenta específica abierta en régimen de depósito tenga saldo negativo, será liquidado por la Comisión Nacional de Energía en las liquidaciones mensuales aplicando los siguientes porcentajes de reparto:
+
+Iberdrola, S. A.: 35,01 por ciento.
+
+Unión Eléctrica Fenosa, S. A.: 12,84 por ciento.
+
+Hidroeléctrica del Cantábrico, S. A.: 6,08 por ciento.
+
+Endesa, S. A.: 44,16 por ciento.
+
+Elcogás, S. A.: 1,91 por ciento.
+
+Estos porcentajes son provisionales, por lo que se faculta al Ministerio de Industria, Turismo y Comercio para establecer los porcentajes de reparto de una manera definitiva.
+
 I.10. Cobros y pagos definitivos.
 
 Los cobros y pagos a que den lugar las liquidaciones entre agentes, se determinarán y notificarán por la Comisión Nacional del Sistema Eléctrico en la forma y plazo que a continuación se indica.
@@ -205,6 +223,8 @@ I.11.3. Antes del día 30 de cada mes la CNSE establecerá y notificará a cada 
 I.11.4. Los agentes a los que corresponda efectuar pagos por liquidaciones, los realizarán a los agentes acreedores antes de transcurridos 15 días desde que dichos pagos hayan sido notificados.
 
 I.11.5. Las comunicaciones a los agentes así como las liquidaciones a cuenta y definitivas deberán ser comunicadas por la CNSE a la Dirección General de la Energía en el momento en que se realicen o liquiden.
+
+> Se añaden los cinco últimos párrafos al apartado I.9 por el art. 24 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
 
 > Se modifica el apartado I.2 por la disposición adicional 5 del Real Decreto 1432/2002, de 27 de diciembre. Ref. BOE-A-2002-25419
 

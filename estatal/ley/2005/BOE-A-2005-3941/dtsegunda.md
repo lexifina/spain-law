@@ -4,7 +4,7 @@
 
 Las instalaciones existentes a la entrada en vigor de esta Ley deberán solicitar dicha autorización antes del 30 de septiembre de 2004 al órgano que haya designado la Comunidad Autónoma en cuyo territorio se ubique o, en su defecto, al competente en materia de medio ambiente. Hasta que se dicte resolución expresa, a partir de 1 de enero de 2005 la instalación podrá seguir funcionando de forma provisional, siempre que establezca el sistema de seguimiento de emisiones previsto en el artículo 4.2.d).
 
-2. La solicitud de asignación de derechos de emisión para el período 2005‑2007 se presentará directamente ante el Ministerio de Medio Ambiente antes del 30 de septiembre de 2004, acompañada de la siguiente documentación:
+2. La solicitud de asignación de derechos de emisión para el período 2005?2007 se presentará directamente ante el Ministerio de Medio Ambiente antes del 30 de septiembre de 2004, acompañada de la siguiente documentación:
 
 a) Acreditación de haber solicitado la autorización de emisión de gases de efecto invernadero.
 
@@ -25,3 +25,15 @@ ii. Certificado de la Comunidad Autónoma en cuyo territorio se ubique la instal
 iii. Declaración jurada o promesa del titular de la instalación.
 
 La ocultación o alteración intencionada de la información contenida en la declaración jurada o promesa se entenderá equivalente a la infracción tipificada en el artículo 29.2.d).
+
+3. Las instalaciones existentes incluidas en los apartados 1.b) y c) del anexo I que no hubieran recibido asignación de derechos con anterioridad a la entrada en vigor de esta ley:
+
+a) Deberán solicitar autorización de emisión de gases de efecto invernadero.
+
+b) Podrán solicitar asignación gratuita de derechos de emisión de acuerdo con lo establecido en el artículo 19, a excepción de lo dispuesto en sus apartados 2 y 3. La solicitud deberá ser acompañada de la documentación a la que hace referencia el apartado 2 de esta disposición transitoria.
+
+Las solicitudes de autorización y de asignación de derechos de emisión de gases de efecto invernadero deberán presentarse en los dos meses siguientes a la entrada en vigor de esta ley.
+
+Las demás obligaciones contenidas en esta ley serán exigibles a las instalaciones a las que hace referencia el párrafo anterior a partir de 1 de enero de 2006.
+
+> Se añade el apartado 3 por el art. 33.5 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172

@@ -1,16 +1,8 @@
 ## Disposición transitoria quinta. Consumidores cualificados.
 
-1. A los efectos previstos en el artículo 60, tendrán la consideración de consumidores cualificados, aquellos consumidores en cuyas instalaciones, ubicadas en el mismo emplazamiento, el consumo anual se adecue en cada momento al siguiente calendario:
+(Derogada)
 
-Aquellos cuyo consumo sea igual o superior a 3.000.000 de Nm3 en el momento de la entrada en vigor de este Real Decreto-ley.
-
-Aquellos cuyo consumo sea igual o superior a 1.000.000 de Nm3 el 1 de enero del año 2002.
-
-A partir del 1 de enero del año 2003, todos los consumidores, independientemente de su nivel de consumo, tendrán la consideración de cualificados.
-
-2. En todo caso, tendrán la consideración de consumidores cualificados las centrales productoras de electricidad, así como los cogeneradores.
-
-3. Un consumidor que hubiera ejercido los derechos que le confiere la condición de cualificado, podrá optar por seguir adquiriendo el gas natural en el mercado liberalizado o adquirirlo al distribuidor a tarifas, con las condiciones que reglamentariamente se establezcan.
+> Se deroga por la disposición derogatoria única.d) del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
 
 > Se modifica el apartado 3 por el art. 93.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
 

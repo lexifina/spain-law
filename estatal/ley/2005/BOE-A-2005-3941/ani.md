@@ -1,6 +1,6 @@
 ## ANEXO I
 
-Categorías de actividades y gases incluidos en el ámbito de aplicación
+## Categorías de actividades y gases incluidos en el ámbito de aplicación
 
 1. No están incluidas las instalaciones o partes de instalaciones cuya dedicación principal sea la investigación, desarrollo y experimentacíón de nuevos productos y procesos.
 
@@ -12,7 +12,8 @@ Los valores umbral que figuran más adelante se refieren en general a la capacid
 | Epígrafes: |  |
 | 1. Instalaciones de combustión con una potencia térmica nominal superior a 20 MW, incluyendo: |  |
 | a) Instalaciones de producción de energía eléctrica de servicio público. |  |
-| b) Instalaciones de cogeneración que producen energía eléctrica en régimen ordinario o en régimen especial, independientemente del sector en el que den servicio. |  |
+| b) Instalaciones de cogeneración con independencia del sector en el que den servicio. |  |
+| c) Otras instalaciones de combustión con una potencia térmica nominal superior a 20 MW no incluidas en los apartados 2 a 9. |  |
 | Quedan excluidas las instalaciones de residuos peligrosos o de residuos urbanos. |  |
 | 2. Refinerías de hidrocarburos. |  |
 | 3. Coquerías. |  |
@@ -30,3 +31,5 @@ Los valores umbral que figuran más adelante se refieren en general a la capacid
 | 9. Instalaciones industriales destinadas a la fabricación de: |  |
 | a) Pasta de papel a partir de madera o de otras materias fibrosas. |  |
 | b) Papel y cartón con una capacidad de producción de más de 20 toneladas diarias. |  |
+
+> Se modifica el apartado 1.b) y se añade el párrafo c) por el art. 33.6 y 7 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
