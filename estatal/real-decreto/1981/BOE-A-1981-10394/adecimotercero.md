@@ -1,0 +1,3 @@
+## Artículo decimotercero.
+
+En caso de que una Organización internacional de la que España sea miembro desee realizar directamente o bajo sus auspicios, actividades de investigación científica marina en la zona económica exclusiva en la plataforma continental, se considerará autorizado el proyecto de investigación si los representantes españoles en la Organización dieron su aprobación al proyecto en su momento o están dispuestos a participar en el mismo, y el Ministerio de Asuntos Exteriores no ha formulado objeción alguna dentro de los cuatro meses siguientes a la fecha en que la Organización le haya notificado el programa de investigación.
