@@ -1,0 +1,5 @@
+## Primero. Periodicidad y forma de remisión de las declaraciones.
+
+Las declaraciones de datos sobre riesgos de crédito y sus titulares a que se refiere el apartado segundo del artículo 60 de la Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema financiero (en adelante, la Ley), deberán remitirse a la Central de Información de Riesgos (CIR, en adelante) con periodicidad mensual y recogerán la situación existente en el último día del mes al que se refieran.
+
+El Banco de España establecerá el procedimiento, forma y plazo de remisión de las declaraciones periódicas, así como el sistema para presentar declaraciones complementarias con rectificaciones de datos previamente declarados. Estas últimas se remitirán por las entidades declarantes al Banco de España, a la mayor brevedad, tan pronto como tengan conocimiento de que los datos que hubiesen declarado son erróneos, de modo que se asegure que la información existente en la CIR sea exacta y refleje la situación actual de los riesgos en la fecha a la que se refieren.
