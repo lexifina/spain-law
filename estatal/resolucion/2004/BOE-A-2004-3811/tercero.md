@@ -36,7 +36,7 @@ A) Corresponde al Área Ejecutiva de esta Oficina:
 
 14.° La gestión centralizada de las solicitudes de devoluciones correspondientes a contribuyentes no obligados a presentar declaración por el Impuesto sobre la Renta de las Personas Físicas, salvo adscripción a otras unidades administrativas.
 
-15.° La gestión del Registro Especial de Uniones Temporales de Empresas y Sociedades de Desarrollo Regional, salvo adscripción a otras unidades administrativas.
+15.° (Suprimido)
 
 16.° La tramitación centralizada de las solicitudes de borrador de declaración de contribuyentes obligados a presentar declaración por el Impuesto sobre la Renta de las Personas Físicas.
 
@@ -81,3 +81,5 @@ e) La coordinación con los órganos de la Inspección de los Tributos, en espec
 f) La búsqueda de nuevas fórmulas de captación de información de interés para la Gestión Tributaria.
 
 2. La Oficina Nacional de Gestión Tributaria estará dirigida por el Jefe de la Oficina Nacional de Gestión Tributaria, quien podrá estar asistido por uno o varios Jefes adjuntos con la ubicación territorial que determine el Director General de la Agencia, a propuesta del Director del Departamento.
+
+> Se suprime el número 15 del apartado 1.A), por la disposición adicional 4.2 de la Resolución de 21 de septiembre de 2004. Ref. BOE-A-2004-16708.

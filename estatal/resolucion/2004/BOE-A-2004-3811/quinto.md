@@ -30,7 +30,7 @@ c) Área, Servicio o Sección Regional de Técnica Tributaria.
 
 d) Área, Servicio o Sección Regional Ejecutiva de Gestión Tributaria.
 
-2. La sede principal de la Dependencia Regional de Gestión Tributaria coincidirá con la sede de la Delegación Especial en la que se ubique, pudiendo existir otras sedes de la Dependencia Regional con sus mismas funciones y competencias en las Delegaciones y Administraciones de la Agencia Tributaria que se encuentren en la demarcación territorial de la correspondiente Delegación Especial. Las sedes de la Dependencia Regional en las Delegaciones se denominarán Dependencias de Gestión Tributaria.
+2. Las Dependencias Regionales de Gestión Tributaria estarán integradas en las Delegaciones Especiales de la Agencia Tributaria. Con sus mismas funciones y competencias, las Dependencias de Gestión Tributaria se integrarán en las Delegaciones de la Agencia Tributaria. En las Administraciones de la Agencia Tributaria que se encuentren en la demarcación territorial de la Delegación Especial existirán las correspondientes unidades administrativas de la Dependencia Regional de Gestión Tributaria.
 
 3. Cada Dependencia Regional de Gestión Tributaria estará dirigida por el Jefe de la misma, quien podrá estar asistido por uno o varios Adjuntos, así como por los Jefes de la Dependencia de Gestión Tributaria en las sedes de la Dependencia Regional en las Delegaciones y por uno o varios Coordinadores.
 
@@ -291,5 +291,7 @@ Podrá asumir las funciones propias de la Sección del Impuesto sobre el Valor A
 Además de las propuestas de liquidación que consideren oportunas en cada caso, les corresponde iniciar, tramitar y proponer la resolución de los expedientes de imposición de sanciones por infracciones tributarias en vía de gestión tributaria, así como de intereses y recargos, en relación con los expedientes tramitados por estas mismas Unidades.
 
 3. Cuando por necesidades del servicio se estime oportuno, y en particular, en el período anual de campaña del Impuesto sobre la Renta de las Personas Físicas, podrá encomendarse al personal adscrito a las distintas Unidades, Servicios, Oficinas y Secciones, funciones distintas de las específicamente señaladas en esta Resolución.
+
+> Se modifica el apartado 3.2 por la disposición adicional 4.1 de la Resolución de 21 de septiembre de 2004. Ref. BOE-A-2004-16708.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 64, de 15 de marzo de 2004. Ref. BOE-A-2004-4717.
