@@ -2,11 +2,13 @@
 
 Son requisitos comunes para la validez de la adquisición de la nacionalidad española por opción, carta de naturaleza o residencia:
 
-a) Que el mayor de catorce años, y capaz para prestar una declaración por sí, jure o prometa fidelidad al Rey y obediencia a la Constitución y a las Leyes.
+a) Que el mayor de catorce años y capaz para prestar una declaración por sí jure o prometa fidelidad al Rey y obediencia a la Constitución y a las leyes.
 
-b) Que la misma persona declare que renuncia a su anterior nacionalidad. Quedan a salvo de este requisito los naturales de países mencionados en el apartado 2 del artículo 24.
+b) Que la misma persona declare que renuncia a su anterior nacionalidad. Quedan a salvo de este requisito los naturales de países mencionados en el apartado 1 del artículo 24.
 
 c) Que la adquisición se inscriba en el Registro Civil español.
+
+> Se modifica por el art. único de la Ley 36/2002, de 8 de octubre. Ref. BOE-A-2002-19484.
 
 > Se modifica por el art. único de la Ley 18/1990, de 17 de diciembre. Ref. BOE-A-1991-30520.
 

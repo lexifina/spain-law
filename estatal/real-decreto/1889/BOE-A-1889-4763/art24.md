@@ -1,14 +1,18 @@
 ## Artículo 24.
 
-1. Pierden la nacionalidad española los emancipados que, residiendo habitualmente en el extranjero, adquieran voluntariamente otra nacionalidad o utilicen exclusivamente la nacionalidad extranjera que tuvieran atribuida antes de la emancipación.
+1. Pierden la nacionalidad española los emancipados que, residiendo habitualmente en el extranjero, adquieran voluntariamente otra nacionalidad o utilicen exclusivamente la nacionalidad extranjera que tuvieran atribuida antes de la emancipación. La pérdida se producirá una vez que transcurran tres años, a contar, respectivamente, desde la adquisición de la nacionalidad extranjera o desde la emancipación. No obstante, los interesados podrán evitar la pérdida si dentro del plazo indicado declaran su voluntad de conservar la nacionalidad española al encargado del Registro Civil.
 
-2. La pérdida se producirá una vez que transcurran tres años a contar, respectivamente, desde la adquisición de la nacionalidad extranjera o desde la emancipación.
+La adquisición de la nacionalidad de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal no es bastante para producir, conforme a este apartado, la pérdida de la nacionalidad española de origen.
 
-La adquisición de la nacionalidad de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal, no es bastante para producir, conforme a este apartado la pérdida de la nacionalidad española de origen.
+2. En todo caso, pierden la nacionalidad española los españoles emancipados que renuncien expresamente a ella, si tienen otra nacionalidad y residen habitualmente en el extranjero.
 
-3. En todo caso, pierden la nacionalidad española los españoles emancipados que renuncien expresamente a ella, si tienen otra nacionalidad y residen habitualmente en el extranjero.
+3. Los que habiendo nacido y residiendo en el extranjero ostenten la nacionalidad española por ser hijos de padre o madre españoles, también nacidos en el extranjero, cuando las leyes del país donde residan les atribuyan la nacionalidad del mismo, perderán, en todo caso, la nacionalidad española si no declaran su voluntad de conservarla ante el encargado del Registro Civil en el plazo de tres años, a contar desde su mayoría de edad o emancipación.
 
 4. No se pierde la nacionalidad española, en virtud de lo dispuesto en este precepto, si España se hallare en guerra.
+
+> Se modifica por el art. único de la Ley 36/2002, de 8 de octubre. Ref. BOE-A-2002-19484.
+
+> Téngase en cuenta para la aplicación del apartado 3 la disposición adicional 2 de la citada Ley.
 
 > Se modifica por el art. único de la Ley 18/1990, de 17 de diciembre. Ref. BOE-A-1990-30520.
 
