@@ -1,5 +1,5 @@
 ## Artículo 53.
 
-Los matrimonios celebrados antes de regir este Código se probarán por los medios establecidos en las Leyes anteriores.
+La validez del matrimonio no quedará afectada por la incompetencia o falta de nombramiento legítimo del Juez o funcionario que lo autorice, siempre que al menos uno de los cónyuges hubiera procedido de buena fe, y aquéllos ejercieran sus funciones públicamente.
 
-Los contraídos después se probarán sólo por certificación del acta del Registro Civil, a no ser que los libros de éste no hayan existido o hubiesen desaparecido, o se suscite contienda ante los Tribunales, en cuyos casos será admisible toda especie de prueba.
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.

@@ -1,7 +1,9 @@
 ## Artículo 79.
 
-El matrimonio secreto de conciencia celebrado ante la Iglesia no está sometido a lo dispuesto en el artículo setenta y siete.
+La declaración de nulidad del matrimonio no invalidará los efectos ya producidos respecto de los hijos y del contrayente o contrayentes de buena fe.
 
-Para los efectos civiles, basta su inscripción en el Registro especial que se lleva en la Dirección General de los Registros, pero no perjudicará los derechos adquiridos legítimamente por terceras personas, sino desde su publicación en el Registro Civil correspondiente, la cual se practicará a petición de los cónyuges, de común acuerdo del sobreviviente si el otro hubiere fallecido o del Ordinario en los casos en que cesa para él la obligación canónica del secreto.
+La buena fe se presume.
+
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.
 
 > Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.

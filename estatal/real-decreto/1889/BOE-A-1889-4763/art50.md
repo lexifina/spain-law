@@ -1,11 +1,7 @@
 ## Artículo 50.
 
-Si, a pesar de la prohibición del artículo cuarenta y cinco, se casaren las personas comprendidas en él, su matrimonio será válido, pero los cónyuges quedarán sometidos a las siguientes reglas:
+Si ambos contrayentes son extranjeros, podrá celebrarse el matrimonio en España con arreglo a la forma prescrita para los españoles o cumpliendo la establecida por la ley personal de cualquiera de ellos.
 
-Primera. Se entenderá contraído el casamiento con absoluta separación de bienes, y cada cónyuge retendrá el dominio y administración de los que le pertenezcan haciendo suyos todos los frutos, si bien con la obligación de contribuir proporcionalmente el sostenimiento de las cargas del matrimonio.
-
-Segunda. Si uno de los cónyuges fuera menor no emancipado, no recibirá la administración de sus bienes hasta que llegue a la mayor edad. Entre tanto, sólo tendrá, sobre dichos bienes, derecho a alimentos.
-
-Tercera. En los casos del número tercero del artículo cuarenta y cinco, el tutor cesará en su cargo, perdiendo la administración de los bienes de la persona sujeta a tutela desde que se celebre el matrimonio.
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.
 
 > Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.

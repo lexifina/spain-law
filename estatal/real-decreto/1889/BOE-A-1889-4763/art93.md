@@ -1,5 +1,5 @@
 ## Artículo 93.
 
-No obstante lo dispuesto en los artículos anteriores, el Juez municipal autorizará el matrimonio del que se halle en inminente peligro de muerte, ya esté domiciliado en la localidad, ya sea transeúnte.
+El Juez, en todo caso, determinará la contribución de cada progenitor para satisfacer los alimentos y adoptará las medidas convenientes para asegurar la efectividad y acomodación de las prestaciones a las circunstancias económicas y necesidades de los hijos en cada momento.
 
-Este matrimonio se entenderá condicional, mientras no se acredite legalmente la libertad anterior de los contrayentes.
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.

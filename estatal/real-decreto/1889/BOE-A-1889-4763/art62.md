@@ -1,7 +1,9 @@
 ## Artículo 62.
 
-El matrimonio no restringe la capacidad de obrar de ninguno de los cónyuges.
+El Juez o funcionario ante quien se celebre el matrimonio extenderá, inmediatamente después de celebrado, la inscripción o el acta correspondiente con su firma y la de los contrayentes y testigos.
 
-El casado menor de edad necesitará para comparecer en juicio, según los casos, el consentimiento de las personas mencionados en los artículos 80 y 81.
+Asimismo, practicada la inscripción o extendida el acta, el Juez o funcionario entregará a cada uno de los contrayentes documento acreditativo de la celebración del matrimonio.
+
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.
 
 > Se modifica por el art. 2 de la Ley 14/1975, de 2 de mayo. Ref. BOE-A-1975-9245.

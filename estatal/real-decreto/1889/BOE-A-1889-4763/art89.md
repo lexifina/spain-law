@@ -1,3 +1,5 @@
 ## Artículo 89.
 
-El Juez municipal, previa ratificación de los pretendientes, mandará fijar edictos o proclamas por espacio de quince días, anunciando la pretensión con todas las indicaciones contenidas en el artículo 86, y requiriendo a los que tuviesen noticia de algún impedimento para que lo denuncien. Iguales edictos mandará a los Jueces municipales de los pueblos en que hubiesen residido o estado domiciliados los interesados en los dos últimos años, encargando que se fijen en el local de su audiencia pública por espacio de quince días, y que, transcurridos éstos, los devuelvan con certificación de haberse llenado dicho requisito y de haberse o no denunciado algún impedimento.
+La disolución del matrimonio por divorcio sólo podrá tener lugar por sentencia que así lo declare y producirá efectos a partir de su firmeza. No perjudicará a terceros de buena fe sino a partir de su inscripción en el Registro Civil.
+
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.

@@ -1,5 +1,5 @@
 ## Artículo 44.
 
-Si la promesa se hubiere hecho en documento público o privado por un mayor de edad, o por un menor asistido de la persona cuyo consentimiento sea necesario para la celebración del matrimonio, o si se hubieren publicado las proclamas, el que rehusare casarse, sin justa causa, estará obligado a resarcir a la otra parte los gastos que hubiese hecho por razón del matrimonio prometido.
+El hombre y la mujer tienen derecho a contraer matrimonio conforme a las disposiciones de este Código.
 
-La acción para pedir el resarcimiento de gestión, a que se refiere el párrafo anterior, sólo podrá ejercitarse dentro de un año, contado desde el día de la negativa a la celebración del matrimonio.
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.

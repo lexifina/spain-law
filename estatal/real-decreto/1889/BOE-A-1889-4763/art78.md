@@ -1,7 +1,7 @@
 ## Artículo 78.
 
-Los que contrajeren matrimonio canónico "in artículo mortis" podrán dar aviso al encargado del Registro Civil en cualquier instante anterior a la celebración y acreditar de cualquier manera que cumplieron este deber.
+El Juez no acordará la nulidad de un matrimonio por defecto de forma, si al menos uno de los cónyuges lo contrajo de buena fe, salvo lo dispuesto en el número 3 del artículo 73.
 
-Las sanciones impuestas a los contrayentes que omitieren aquel requisito no serán aplicables al caso del matrimonio "in artículo mortis" cuando conste que fue imposible dar oportunamente aviso.
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.
 
 > Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.

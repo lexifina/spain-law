@@ -1,9 +1,5 @@
 ## Artículo 69.
 
-El matrimonio contraído de buena fe produce efectos civiles, aunque sea declarado nulo.
+Se presume, salvo prueba en contrario, que los cónyuges viven juntos.
 
-Si ha intervenido buena fe de parte de uno solo de los cónyuges, surte únicamente efectos civiles respecto de él y de los hijos.
-
-La buena fe se presume, si no consta lo contrario.
-
-Si hubiere intervenido mala fe por parte de ambos cónyuges, el matrimonio sólo surtirá efectos civiles respecto de los hijos.
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.

@@ -1,3 +1,5 @@
 ## Artículo 85.
 
-El Gobierno, con justa causa, puede dispensar, a instancia de parte: el impedimento comprendido en el número 2.º del artículo 45; los grados tercero y cuarto de los colaterales por consanguinidad legítima; los impedimentos nacidos de afinidad legítima o natural entre colaterales, y los que se refieren a los descendientes del adoptante.
+El matrimonio se disuelve, sea cual fuere la forma y el tiempo de su celebración, por la muerte o la declaración de fallecimiento de uno de los cónyuges y por el divorcio.
+
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.

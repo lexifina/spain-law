@@ -1,3 +1,5 @@
 ## Artículo 98.
 
-Todos aquellos a cuyo conocimiento llegue la pretensión de matrimonio están obligados a denunciar cualquier impedimento que les conste. Hecha la denuncia, se pasará al Ministerio Fiscal, quien, si encontrare fundamento legal, entablará la oposición al matrimonio. Sólo los particulares que tengan interés en impedir el casamiento podrán formalizar por sí la oposición, y en uno y otro caso se sustanciará ésta conforme a lo dispuesto en la Ley de Enjuiciamiento Civil, dándole la tramitación de los incidentes.
+El cónyuge de buena fe cuyo matrimonio haya sido declarado nulo tendrá derecho a una indemnización si ha existido convivencia conyugal, atendidas las circunstancias previstas en el artículo 97.
+
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.

@@ -1,11 +1,9 @@
 ## Artículo 45.
 
-Está prohibido el matrimonio:
+No hay matrimonio sin consentimiento matrimonial.
 
-Primero. Al menor de edad no emancipado por anteriores nupcias que no haya obtenido la licencia de las personas a quienes corresponde otorgarla.
+La condición, término o modo del consentimiento se tendrá por no puesta.
 
-Segundo. A la viuda durante los trescientos un días siguientes a la muerte de su marido, o antes de su alumbramiento, si hubiese quedado encinta, y a la mujer cuyo matrimonio hubiera sido declarado nulo, en los mismos casos y términos, a contar desde su separación legal.
-
-Tercero. Al tutor con las personas que tenga o haya tenido en guarda hasta que, cesado en su cargo se aprueben las cuentas del mismo, salvo el caso de que el padre de la persona sujeta a tutela hubiese autorizado el matrimonio en testamento o escritura pública.
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.
 
 > Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.

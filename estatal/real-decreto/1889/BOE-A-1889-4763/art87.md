@@ -1,5 +1,7 @@
 ## Artículo 87.
 
-El matrimonio podrá celebrarse personalmente o por mandatario a quien se haya conferido poder especial, pero siempre será necesaria la asistencia del contrayente domiciliado o residente en el distrito del Juez que deba autorizar el casamiento.
+El cese efectivo de la convivencia conyugal, a que se refieren los artículos 82 y 86 de este Código, es compatible con el mantenimiento o la reanudación temporal de la vida en el mismo domicilio, cuando ello obedezca en uno o en ambos cónyuges a la necesidad, al intento de reconciliación o al interés de los hijos y así sea acreditado por cualquier medio admitido en derecho en el proceso de separación o de divorcio correspondiente.
 
-Se expresará en el poder especial el nombre de la persona con quien ha de celebrarse el matrimonio, y éste será válido si antes de su celebración no se hubiera notificado al apoderado en forma auténtica la revocación del poder.
+La interrupción de la convivencia no implicará el cese efectivo de la misma si obedece a motivos laborales, profesionales o a cualesquiera otros de naturaleza análoga.
+
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.

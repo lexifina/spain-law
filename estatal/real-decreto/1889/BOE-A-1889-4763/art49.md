@@ -1,9 +1,13 @@
 ## Artículo 49.
 
-Ninguno de los llamador a otorgar la licencia está obligado a manifestar las razones en que se funda para concederla o negarla.
+Cualquier español podrá contraer matrimonio dentro o fuera de España:
 
-No obstante, si la licencia fuera negada, el matrimonio podrá celebrarse si se autoriza por el Ordinario del lugar o por el Presidente de la Audiencia Territorial, según fuere canónico o civil. A todos los efectos la autorización equivaldrá a la licencia.
+1.° Ante el Juez o funcionario señalado por este Código.
 
-El Presidente de la Audiencia, oído el Ministerio Fiscal, adoptará su resolución en expediente que se instruirá por el Juez encargado del Registro Civil del domicilio del solicitante en el que se oirá a los padres y a las personas que juzgue conveniente.
+2.° En la forma religiosa legalmente prevista.
+
+También podrá contraer matrimonio fuera de España con arreglo a la forma establecida por la ley del lugar de celebración.
+
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.
 
 > Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.

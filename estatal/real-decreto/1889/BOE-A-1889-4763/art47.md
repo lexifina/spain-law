@@ -1,11 +1,13 @@
 ## Artículo 47.
 
-Si se tratare de hijos naturales reconocidos o legitimados por concesión real, la licencia deberá ser pedida a los que los reconocieron y legitimaron, a sus ascendientes y al Consejo de familia, por el orden establecido en el artículo anterior.
+Tampoco pueden contraer matrimonio entre sí:
 
-Si se tratare de hijos adoptivos, se pedirá la licencia al adoptante. En su defecto, si la adopción es plena, se solicitará al Consejo de familia; si es menos plena, antes que a éste se pedirá a las personas de la familia natural a quienes corresponda.
+1.° Los parientes en línea recta por consanguinidad o adopción.
 
-Los demás hijos ilegítimos obtendrán la licencia de su madre cuando fuere legalmente conocida; la de los abuelos maternos en el mismo caso, y a falta de unos y otros, la del Consejo de familia.
+2.° Los colaterales por consanguinidad hasta el tercer grado.
 
-A los jefes de las Casas de Expósitos corresponde prestar la licencia para el matrimonio de los educados en ellas.
+3.° Los condenados como autores o cómplices de la muerte dolosa del cónyuge de cualquiera de ellos.
+
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.
 
 > Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.

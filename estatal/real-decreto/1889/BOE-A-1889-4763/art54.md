@@ -1,3 +1,5 @@
 ## Artículo 54.
 
-En los casos a que se refiere el párrafo segundo del artículo anterior, la posesión constante de estado de los padres, unida a las actas de nacimiento de sus hijos en concepto de legítimos, será uno de los medios de prueba del matrimonio de aquéllos, a no constar que alguno de los dos estaba ligado por otro matrimonio anterior.
+Cuando concurra causa grave suficientemente probada, el Ministro de Justicia podrá autorizar el matrimonio secreto. En este caso, el expediente se tramitará reservadamente, sin la publicación de edictos o proclamas.
+
+> Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.
