@@ -1,0 +1,5 @@
+La presente Orden, haciendo uso de las facultades otorgadas por el Real Decreto 1343/1992, de 6 de noviembre, por el que se desarrolla la Ley 13/1992, de 1 de junio, de recursos propios y supervisión en base consolidada de las entidades financieras, desarrolla las reglas en materia de recursos propios exigibles a las Entidades de Crédito y a sus grupos consolidables.
+
+En general, los requerimientos de recursos propios, las ponderaciones aplicables a los diversos activos, y los límites a la concentración de los riesgos establecidos por esta Orden se atienen a los mínimos previstos en la normativa comunitaria y en el propio Real Decreto que se desarrolla, evitándose exigencias adicionales que pudieran poner en injustificada desventaja a las Entidades españolas. No obstante, se ha considerado prudente establecer algún requisito adicional más riguroso con el fin de incrementar la solvencia de las Entidades destinatarias de esta norma.
+
+En su virtud, previa propuesta del Banco de España, dispongo:

@@ -1,0 +1,3 @@
+## Disposición transitoria.
+
+Los créditos derivados de operaciones de arrendamiento financiero concertados hasta el 31 de diciembre del 2000 tendrán una ponderación del 50 por 100 a efectos del coeficiente de solvencia de las Entidades de Crédito cuando no les corresponda otra menor, y siempre que giren sobre bienes inmuebles situados en territorio español y destinados a oficinas o locales comerciales polivalentes o sobre edificios completos destinados a uso terciario que no estén vinculados a una actividad industrial específica y no estén concedidos a empresas del grupo de la entidad prestamista.
