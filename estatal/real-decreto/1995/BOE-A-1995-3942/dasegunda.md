@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Sacrificios realizados según determinados ritos religiosos.
+
+La autoridad religiosa reconocida por la legislación vigente, por cuenta de la cual se efectúen sacrificios, será competente para la ejecución y el control de las disposiciones particulares aplicables al sacrificio conforme a determinados ritos religiosos. En lo que se refiere a estas disposiciones, dicha autoridad actuará bajo la responsabilidad del veterinario oficial, tal como se define en el artículo 2 del Real Decreto 147/1993, de 29 de enero, por el que se establecen las condiciones sanitarias de producción y comercialización de carnes frescas.
