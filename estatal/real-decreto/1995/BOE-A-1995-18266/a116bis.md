@@ -34,6 +34,12 @@ b) Cuando se trate de productos sensibles a los que se aplique la exención prev
 
 3.ª La circulación se amparará con un albarán de circulación. No obstante, cuando estos productos se encuentren ya acondicionados para su venta al por menor en envases de capacidad no superior a 5 litros, la circulación de los mismos entre almacenes fiscales, detallistas y consumidores finales no requerirá documento de circulación.
 
+4ª Los titulares de las fábricas, depósitos fiscales y almacenes fiscales deberán remitir a la oficina gestora correspondiente al lugar del establecimiento, dentro del primer trimestre de cada año, una relación de destinatarios a los que se hayan enviado, durante el año anterior, productos sensibles con aplicación de la exención contemplada en el apartado 1 del artículo 51 de la Ley, en cantidad igual o superior a 50.000 litros. En dicha relación se indicará, por productos, la cantidad enviada a cada destinatario.
+
 c) No obstante lo dispuesto en los párrafos a) y b) del presente apartado, el Ministro de Economía y Hacienda podrá simplificar o dispensar del cumplimiento de todos o algunos de los requisitos formales y condiciones que, por lo establecido en aquéllos, sean exigibles en la circulación, tenencia y utilización de todos o algunos de los productos sensibles, siempre que, en lo que se refiere a requisitos formales y controles de la circulación intracomunitaria, se cumplan las circunstancias previstas en la normativa comunitaria para efectuar dicha simplificación o dispensa.
+
+> Se añade la 4ª regla al apartado 4.b) por el art. único.20 del Real Decreto 1965/1999, de 23 de diciembre. Ref. BOE-A-1999-24787
+
+> Redactado conforme a la corrección de erratas publicada en BOE, núm. 19 de 22 de enero de 2000. Ref. BOE-A-2000-1348
 
 > Se añade por el art. único.21 del Real Decreto 112/1998, de 30 de enero. Ref. BOE-A-1998-2233
