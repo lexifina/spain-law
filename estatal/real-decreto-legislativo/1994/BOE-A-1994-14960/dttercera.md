@@ -16,9 +16,9 @@ En los supuestos de trabajadores que, cumpliendo los requisitos señalados en el
 
 4.º Con cuarenta y más años acreditados de cotización: 6 por 100.
 
-A estos efectos, se entenderá por libre voluntad del trabajador, la inequívoca manifestación de voluntad de quien, pudiendo continuar su relación laboral y no existiendo razón objetiva que la impida, decida poner fin a la misma.
+A tales efectos, se entenderá por libre voluntad del trabajador la inequívoca manifestación de voluntad de quien, pudiendo continuar su relación laboral y no existiendo razón objetiva que la impida, decide poner fin a la misma. Se presumirá que el cese en la relación laboral se produjo de forma involuntaria cuando la extinción se haya producido por alguna de las causas previstas en el artículo 208.1.1 de esta ley.
 
-Se faculta al Gobierno para el desarrollo reglamentario de los supuestos previstos en los párrafos anteriores de la presente regla 2.ª quien podrá en razón del carácter voluntario o forzoso del acceso a la jubilación adecuar las condiciones señaladas para los mismos.
+Se faculta al Gobierno para el desarrollo reglamentario de los supuestos previstos en los párrafos anteriores de la presente regla 2ª, quien podrá en razón del carácter voluntario o forzoso del acceso a la jubilación adecuar las condiciones señaladas para los mismos.
 
 2. Los trabajadores que, reuniendo todos los requisitos para obtener el reconocimiento del derecho a pensión de jubilación en la fecha de entrada en vigor de la Ley 26/1985, de 31 de julio, no lo hubieran ejercitado, podrán acogerse a la legislación anterior para obtener la pensión en las condiciones y cuantía a que hubieren tenido derecho el día anterior al de entrada en vigor de dicha Ley.
 
@@ -27,6 +27,8 @@ Se faculta al Gobierno para el desarrollo reglamentario de los supuestos previst
 El derecho establecido en el párrafo anterior también alcanzará a aquellos trabajadores comprendidos en planes de reconversión ya aprobados a la entrada en vigor de la Ley 26/1985, de 31 de julio, de acuerdo con las normas citadas en dicho párrafo, aunque aún no tengan solicitada individualmente la ayuda equivalente a jubilación anticipada.
 
 4. Los trabajadores que, reuniendo todos los requisitos para obtener el reconocimiento del derecho a la pensión de jubilación en la fecha de entrada en vigor de la Ley de Consolidación y Racionalización del Sistema de Seguridad Social no lo hubieran ejercitado, podrán optar por acogerse a la legislación anterior para obtener la pensión en las condiciones y cuantía a que hubiesen tenido derecho el día anterior al de entrada en vigor de dicha Ley.
+
+> Se modifica la norma 2ª del apartado 1 por la disposición adicional 2.2 de la Ley 52/2003, de 10 de diciembre. Ref. BOE-A-2003-22716.
 
 > Se modifica el párrafo segundo de la norma 2ª del apartado 1por el art. 4.1 de la Ley 35/2002, de 12 de julio. Ref. BOE-A-2002-13972.
 

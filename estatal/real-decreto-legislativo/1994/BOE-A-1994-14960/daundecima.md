@@ -4,11 +4,13 @@
 
 2. En el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos, así como por lo que respecta a los trabajadores por cuenta propia incluidos en el Régimen Especial Agrario de la Seguridad Social, los interesados podrán optar entre acogerse o no a la cobertura de la protección del subsidio por incapacidad temporal.
 
-Los trabajadores a que se refiere el párrafo anterior, que hayan optado por incluir, dentro del ámbito de la acción protectora del Régimen de Seguridad Social correspondiente, la prestación económica por incapacidad temporal, podrán optar, asimismo, entre formalizar la cobertura de dicha prestación con la entidad gestora correspondiente o con una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en los términos y condiciones que reglamentariamente se establezcan.
+Los trabajadores a que se refiere el párrafo anterior, que hayan optado por incluir, dentro del ámbito de la acción protectora del Régimen de Seguridad Social correspondiente, la prestación económica por incapacidad temporal, podrán optar, asimismo, entre formalizar la cobertura de dicha prestación con la entidad gestora correspondiente o con una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en los términos y condiciones que reglamentariamente se establezcan. No obstante, los trabajadores que hayan solicitado o soliciten el alta en el correspondiente Régimen de Seguridad Social a partir de 1 de enero de 1998 y opten por acogerse a dicha cobertura, deberán formalizar la misma con una mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social. De igual modo, los trabajadores que en la fecha antes citada hubiesen optado por formalizar su cobertura con una mutua, sólo podrán modificar su opción a favor de otra mutua.
 
 3. Las disposiciones reglamentarias a que se refieren los números anteriores establecerán, con respeto pleno a las competencias del sistema público en el control sanitario de las altas y las bajas, los instrumentos de gestión y control necesarios para una actuación eficaz en la gestión de la prestación económica por incapacidad temporal llevada a cabo tanto por las entidades gestoras como por las Mutuas.
 
 De igual modo, las entidades gestoras o las Mutuas podrán establecer acuerdos de colaboración con el Instituto Nacional de la Salud o los Servicios de Salud de las Comunidades Autónomas.
+
+> Se modifica el apartado 2 por el art. 7.2 de la Ley 52/2003, de 10 de diciembre. Ref. BOE-A-2003-22716.
 
 > Se modifica por la disposición adicional duodécima de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
 
