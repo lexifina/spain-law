@@ -156,7 +156,7 @@ Tipo de restricción: Zona ecológica. Protección y conservación de la avifaun
 
 B.4 Cala Mayor (Palma de Mallorca)
 
-Límites horizontales: Comprendidos por un círculo de una milla náutica con centro en el punto cuyas coordenadas son:
+Límites laterales: Comprendidos por un círculo de una milla náutica con centro en el punto cuyas coordenadas son:
 
 39º 32’ 57’’ N - 002º 36’ 39’’ E.
 
@@ -298,9 +298,9 @@ Límites laterales: Comprendidos por las alineaciones de los puntos cuyas coorde
 
 38º 45’ 00’’ N - 005º 05’ 00’’ W,
 
-30º 30’ 00’’ N - 005º 13’ 00’’ W,
+38º 30’ 00’’ N - 005º 13’ 00’’ W,
 
-38º 30’ 00’’ N - 005º 22’ 00’’ W,
+38º 30’ 00’’ N - 005º 13’ 00’’ W,
 
 37º 44’ 00’’ N - 006º 13’ 00’’ W,
 
@@ -314,7 +314,7 @@ desde este punto, a lo largo de la frontera con Portugal, hasta
 
 39º 50’ 00’’ N - 004º 31’ 00’’ W.
 
-Límites verticales: Desde tierra hasta nivel de vuelo 245.
+Límites verticales: Desde nivel de vuelo 100 hasta nivel de vuelo 245.
 
 Tipo de restricción: Vuelos de enseñanza.
 
@@ -514,7 +514,7 @@ B.17 El Ferrol (La Coruña)
 
 Sector E:
 
-Límites laterales: Comprendidos por alineaciones de los puntos cuyas coordenadas son:
+Límites laterales: Comprendidos por las alineaciones de los puntos cuyas coordenadas son:
 
 43º 39’ 57’’ N - 008º 05’ 26’’ W,
 
@@ -592,7 +592,7 @@ Límites laterales: Comprendidos por las alineaciones de los puntos cuyas coorde
 
 Límites verticales: Desde 1.000 pies sobre tierra hasta nivel de vuelo 240.
 
-Tipo de restricción: Vuelos de enseñanzas.
+Tipo de restricción: Vuelos de enseñanza.
 
 Sector C:
 
@@ -652,7 +652,7 @@ Límites laterales: Los determinados por la totalidad de su territorio de sobera
 
 Límites verticales: Desde tierra o mar hasta ilimitado.
 
-Tipo de restricción: Autorizados los vuelos de aeronaves con destino/precedencia al aeropuerto de Melilla.
+Tipo de restricción: Autorizados los vuelos de aeronaves con destino/procedencia al aeropuerto de Melilla.
 
 B.22 Ceuta
 
@@ -704,7 +704,7 @@ Límites laterales: Comprendidos por las alineaciones de los puntos cuyas coorde
 
 Límites verticales: Desde tierra hasta nivel de vuelo 70.
 
-Tipo de restricción: Vuelo de entrenamiento de helicópteros militares.
+Tipo de restricción: Vuelos de entrenamiento de helicópteros militares.
 
 Sector C:
 
@@ -728,4 +728,6 @@ Límites laterales: Comprendidos por las alineaciones de los puntos cuyas coorde
 
 Límites verticales: Desde el suelo hasta 6.000 pies de altitud.
 
-Tipo de restricción: Vuelo de entrenamiento de helicópteros militares.
+Tipo de restricción: Vuelos de entrenamiento de helicópteros militares.
+
+> Se modifica por el apartado 1 de la Orden de 2 de junio de 1994. Ref. BOE-A-1994-12974.
