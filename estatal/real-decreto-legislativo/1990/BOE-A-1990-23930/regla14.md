@@ -75,11 +75,11 @@ d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros
 | Superficie del local | Población de derecho |
 | --- | --- |
 | Más de 500.000 habitantes | De 100.001 a 500.000 hbts. | De 50.001 a 100.000 hbts. | De 20.001 a 50.000 hbts. | De 5.001 a 20.000 hbts. | Menos de 5.000 hbts. |
-| De 0 a 500 m2 | 115 | 81 | 53 | 32 | 16 | 6 |
-| De 500,1 a 3.000 m2 | 89 | 61 | 40 | 24 | 12 | 5 |
-| De 3.000,1 a 6.000 m2 | 71 | 50 | 33 | 20 | 10 | 4 |
-| De 6.000,1 a 10.000 m2 | 62 | 43 | 28 | 17 | 9 | 4 |
-| Exceso de 10.000 m2 | 53 | 37 | 24 | 14 | 7 | 3 |
+| De 0 a 500 m2 | 120 | 84 | 55 | 34 | 17 | 7 |
+| De 500,1 a 3.000 m2 | 93 | 65 | 42 | 25 | 13 | 6 |
+| De 3.000,1 a 6.000 m2 | 74 | 52 | 35 | 21 | 11 | 5 |
+| De 6.000,1 a 10.000 m2 | 64 | 45 | 29 | 18 | 10 | 5 |
+| Exceso de 10.000 m2 | 55 | 39 | 25 | 15 | 8 | 4 |
 
 2.º Cuadro II: Este cuadro se aplicará para calcular el valor de la superficie de los locales en los que se ejerzan las actividades de transporte y comunicaciones clasificadas en la División 7 de la Sección 1.ª de las Tarifas.
 
@@ -88,11 +88,11 @@ d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros
 | Superficie del local | Población de derecho |
 | --- | --- |
 | Más de 500.000 habitantes | De 100.001 a 500.000 hbts. | De 50.001 a 100.000 hbts. | De 20.001 a 50.000 hbts. | De 5.001 a 20.000 hbts. | Menos de 5.000 hbts. |
-| De 0 a 500 m2 | 86 | 60 | 39 | 23 | 12 | 5 |
-| De 500,1 a 3.000 m2 | 66 | 46 | 30 | 18 | 9 | 4 |
-| De 3.000,1 a 6.000 m2 | 54 | 38 | 25 | 15 | 8 | 3 |
-| De 6.000,1 a 10.000 m2 | 46 | 32 | 21 | 13 | 7 | 3 |
-| Exceso de 10.000 m2 | 41 | 29 | 19 | 11 | 6 | 2 |
+| De 0 a 500 m2 | 90 | 63 | 41 | 24 | 13 | 6 |
+| De 500,1 a 3.000 m2 | 69 | 48 | 32 | 19 | 10 | 5 |
+| De 3.000,1 a 6.000 m2 | 56 | 40 | 26 | 16 | 9 | 4 |
+| De 6.000,1 a 10.000 m2 | 48 | 34 | 22 | 14 | 8 | 4 |
+| Exceso de 10.000 m2 | 43 | 31 | 20 | 12 | 7 | 3 |
 
 3.º Cuadro III: Este cuadro se aplicará para calcular el valor de la superficie de los locales en los que se ejerzan las actividades de instituciones financieras, seguros, servicios prestados a las empresas y alquileres clasificados en la División 8 de la Sección 1.ª de las Tarifas.
 
@@ -101,11 +101,11 @@ d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros
 | Superficie del local | Población de derecho |
 | --- | --- |
 | Más de 500.000 habitantes | De 100.001 a 500.000 hbts. | De 50.001 a 100.000 hbts. | De 20.001 a 50.000 hbts. | De 5.001 a 20.000 hbts. | Menos de 5.000 hbts. |
-| De 0 a 500 m2 | 274 | 192 | 125 | 75 | 38 | 15 |
-| De 500,1 a 3.000 m2 | 210 | 147 | 96 | 58 | 29 | 12 |
-| De 3.000,1 a 6.000 m2 | 168 | 118 | 77 | 46 | 23 | 9 |
-| 6.000,1 a 10.000 m2 | 143 | 100 | 65 | 39 | 20 | 8 |
-| Exceso de 10.000 m2 | 123 | 86 | 56 | 34 | 17 | 7 |
+| De 0 a 500 m2 | 284 | 199 | 130 | 78 | 40 | 16 |
+| De 500,1 a 3.000 m2 | 218 | 153 | 100 | 61 | 31 | 13 |
+| De 3.000,1 a 6.000 m2 | 174 | 123 | 80 | 48 | 24 | 10 |
+| 6.000,1 a 10.000 m2 | 149 | 104 | 68 | 41 | 21 | 9 |
+| Exceso de 10.000 m2 | 128 | 90 | 58 | 36 | 18 | 8 |
 
 El importe total del valor del elemento superficie será el resultante de sumar, en su caso, los valores parciales correspondientes a cada tramo de superficie del local, calculándose dichos valores parciales mediante la multiplicación del número de metros cuadrados a computar en cada tramo por el número de pesetas asignadas a los mismos en función de la población de derecho del Municipio en el que esté situado el local.
 
@@ -129,12 +129,12 @@ Para calcular dicho valor se agregarán todos los metros cuadrados de superficie
 
 Cuotas provinciales y nacionales
 
-| De 0 a 500 m2 | 375 pesetas |
+| De 0 a 500 m2 | 389 pesetas |
 | --- | --- |
-| De 500,1 a 3.000 m2 | 275 pesetas |
-| De 3.000,1 a 6.000 m2 | 225 pesetas |
-| De 6.000,1 a 10.000 m2 | 185 pesetas |
-| Exceso de 10.000 m2 | 160 pesetas |
+| De 500,1 a 3.000 m2 | 285 pesetas |
+| De 3.000,1 a 6.000 m2 | 233 pesetas |
+| De 6.000,1 a 10.000 m2 | 192 pesetas |
+| Exceso de 10.000 m2 | 166 pesetas |
 
 h) Los locales en los que los sujetos pasivos por cuota mínima municipal no ejerzan directamente sus actividades respectivas, tales como centros de dirección, oficinas administrativas, centros de cálculo, almacenes o depósitos para los que se esté facultado, etc., tributarán cada uno de ellos por una cuota mínima de las previstas en el párrafo segundo de apartado 1 de la Regla 10.ª Dicha cuota mínima estará integrada, exclusivamente, por el importe que resulte de aplicar el cuadro que corresponda de los contenidos en la letra d) anterior, sin que proceda ponderar dicho importe por aplicación del coeficiente resultante del cuadro contenido en la letra e).
 
@@ -169,6 +169,8 @@ c) A los efectos de aplicar las letras anteriores se tomarán los datos referent
 Cuando en las industrias ocurra alguno de los casos de interdicción judicial, incendio, inundación, hundimiento, falta absoluta de caudal de aguas empleado como fuerza motriz o graves averías en el equipo industrial, los interesados darán parte a la Administración Gestora del impuesto, y en el caso de comprobarse plenamente la interdicción por más de treinta días, o el siniestro o paralización de la industria, podrán obtener la rebaja de la parte proporcional de la cuota, según el tiempo que la industria hubiera dejado de funcionar.
 
 No será de aplicación la reducción antes fijada a la industria cuya cuota esté regulada según el tiempo de funcionamiento.
+
+> Se incrementan en un 3,5 por 100 los valores consignados en el apartado 1.F.d) y g) por el art. 26.1.b) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
 > Se modifica el apartado 1.F).b).1 y 3 por el art. 72.2 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 

@@ -24,10 +24,10 @@ b) En los casinos de juego se aplicará la siguiente tarifa:
 
 | Porción de base imponible comprendida entre pesetas | Tipo aplicable – Porcentaje |
 | --- | --- |
-| Entre 0 y 207.000.000 | 20 |
-| Entre 207.000.000 y 342.000.000. | 35 |
-| Entre 342.000.000 y 683.000.000. | 45 |
-| Más de 683.000.000 | 55 |
+| Entre 0 y 214.000.000 | 20 |
+| Entre 214.000.001 y 354.000.000. | 35 |
+| Entre 354.000.001 y 707.000.000. | 45 |
+| Más de 707.000.000 | 55 |
 
 Dos. Cuotas fijas.
 
@@ -74,6 +74,8 @@ Uno. Con independencia de las sanciones que correspondan por aplicación de las 
 Dos. En la tasa que grava la explotación de máquinas o aparatos automáticos aptos para la realización de juegos de azar la efectividad de la suspensión temporal o definitiva de la autorización administrativa, a que se refiere el número anterior, se llevará a cabo mediante el precinto de la máquina o aparato a que la infracción se refiera. La misma máquina o aparato será asimismo embargada, quedando afecta al pago de las cantidades que en cada caso proceda.
 
 Séptimo.–(Sin efecto)
+
+> Se modifica el apartado 4.1 por el art. 35.2 del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
 > Se modifica el apartado 4.1 por el art. 85.2 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
 

@@ -72,6 +72,14 @@ D) En relación a los actos notariales:
 
 El poder para cobro de pensiones e indemnizaciones a personas físicas, siempre que su cuantía no supere la correspondiente al señalamiento inicial máximo del sistema de pensiones de la Seguridad Social en España.
 
+E) Las tasas y el abono de costes complementarios por la expedición de visados serán objeto de exención o reducción, cuando esta medida pueda servir para salvaguardar intereses culturales en materia de política exterior, política de desarrollo, razones humanitarias y otros ámbitos de interés público esenciales.
+
+Reglamentariamente se determinarán las circunstancias anteriores así como el procedimiento para reconocer la exención en la forma que se establezca por el Ministerio de Asuntos Exteriores.
+
 3. Reducciones.–A las tasas consulares devengadas con motivo de los actos notariales a que se refiere el número V del artículo 5.º se aplicarán, en su caso, las mismas reducciones que prevea la legislación especial para los aranceles notariales.
 
 4. En todo documento expedido, visado o legalizado con exención o reducción de tasas consulares, se hará constar esta circunstancia mediante diligencia o cuño que lo indique y en la que deberá figurar el apartado y número del artículo que ampara el beneficio fiscal.
+
+> Se añade el apartado 2.E) por el art. 35.3.1.1 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+
+> Esta modificación entra en vigor el 26 de marzo de 1996, según establece el art. 35.3.2.

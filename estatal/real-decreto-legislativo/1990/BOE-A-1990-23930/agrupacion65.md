@@ -6,15 +6,15 @@ Epígrafe 651.1 Comercio al por menor de productos textiles, confecciones para e
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 35.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 28.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 28.980 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 21.400 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.149 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 16.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 16.560 pesetas.
 
-– En las poblaciones restantes: 11.000 pesetas.
+– En las poblaciones restantes: 11.385 pesetas.
 
 Nota: Este epígrafe faculta para la venta al por menor, como complemento, de artículos de mercería y paquetería clasificados en el epígrafe 651.4 y no alcanza a las facultades de éste.
 
@@ -22,15 +22,15 @@ Epígrafe 651.2 Comercio al por menor de toda clase de prendas para el vestido y
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 56.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 57.960 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 45.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 46.575 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 34.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 35.190 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 25.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 25.875 pesetas.
 
-– En las poblaciones restantes: 15.000 pesetas.
+– En las poblaciones restantes: 15.525 pesetas.
 
 Notas:
 
@@ -44,15 +44,15 @@ Epígrafe 651.3 Comercio al por menor de lencería y corsetería.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 35.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 28.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 28.980 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 21.400 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.149 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 16.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 16.560 pesetas.
 
-– En las poblaciones restantes: 11.000 pesetas.
+– En las poblaciones restantes: 11.385 pesetas.
 
 Nota: Este epígrafe faculta para la venta al por menor, como complemento, de los artículos de mercería y paquetería clasificados en el epígrafe 651.4 y no alcanza a las facultades de éste.
 
@@ -60,15 +60,15 @@ Epígrafe 651.4 Comercio al por menor de artículos de mercería y paquetería.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 28.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 28.980 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 22.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 22.770 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 17.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 17.595 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 13.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 13.455 pesetas.
 
-– En las poblaciones restantes: 10.000 pesetas.
+– En las poblaciones restantes: 10.350 pesetas.
 
 Notas:
 
@@ -82,15 +82,15 @@ Epígrafe 651.5 Comercio al por menor de prendas especiales.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 28.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 28.980 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 22.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 22.770 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 17.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 17.595 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 13.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 13.455 pesetas.
 
-– En las poblaciones restantes: 10.000 pesetas.
+– En las poblaciones restantes: 10.350 pesetas.
 
 Nota: Este epígrafe comprende el comercio al por menor de prendas de trabajo, uniformes, prendas de cuero y similares, prendas especiales para lluvia cosidas o de plástico soldado, prendas militares y deportivas, sacerdotales y religiosas, de teatro, etc.
 
@@ -98,15 +98,15 @@ Epígrafe 651.6 Comercio al por menor de calzado, artículos de piel e imitació
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 35.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 28.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 28.980 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 21.400 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.149 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 16.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 16.560 pesetas.
 
-– En las poblaciones restantes: 11.000 pesetas.
+– En las poblaciones restantes: 11.385 pesetas.
 
 Nota: Este epígrafe faculta para la venta al por menor, como complemento, de prendas de vestir de cuero, ante y napa, clasificadas en el epígrafe 651.2 y no alcanza a las facultades de éste.
 
@@ -114,15 +114,15 @@ Epígrafe 651.7 Comercio al por menor de confecciones de peletería.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 60.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 62.100 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 49.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 50.715 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 37.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 38.295 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 26.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 26.910 pesetas.
 
-– En las poblaciones restantes: 15.000 pesetas.
+– En las poblaciones restantes: 15.525 pesetas.
 
 Nota: Este epígrafe faculta para elaborar confecciones de peletería en el propio establecimiento, así como para realizar arreglos, limpieza y conservación de las confecciones clasificadas en el mismo.
 
@@ -134,15 +134,15 @@ Epígrafe 652.1 Farmacias: Comercio al por menor de medicamentos, productos sani
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 60.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 62.100 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 49.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 50.715 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 37.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 38.295 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 26.400 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 27.324 pesetas.
 
-– En las poblaciones restantes: 15.500 pesetas.
+– En las poblaciones restantes: 16.043 pesetas.
 
 Notas: 1.ª Este epígrafe comprende la elaboración y dispensación de medicamentos tanto de uso humano como animal, entendiendo por medicamentos todos aquellos que vengan definidos como tales en la legislación vigente.
 
@@ -156,15 +156,15 @@ Epígrafe 652.2 Comercio al por menor de productos de droguería, perfumería y 
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 44.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 45.540 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 35.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 36.225 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 26.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 26.910 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 19.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 19.665 pesetas.
 
-– En las poblaciones restantes: 12.000 pesetas.
+– En las poblaciones restantes: 12.420 pesetas.
 
 Notas:
 
@@ -176,15 +176,15 @@ Epígrafe 652.3 Comercio al por menor de productos de perfumería y cosmética, 
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 35.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 28.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 28.980 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 21.400 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.149 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 16.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 16.560 pesetas.
 
-– En las poblaciones restantes: 11.000 pesetas.
+– En las poblaciones restantes: 11.385 pesetas.
 
 Notas:
 
@@ -194,7 +194,7 @@ Notas:
 
 Epígrafe 652.4 Comercio al por menor de plantas y hierbas en herbolarios.
 
-Cuota de: 30.000 pesetas.
+Cuota de: 31.050 pesetas.
 
 Nota: Este epígrafe comprende la venta al por menor de plantas y hierbas en herbolarios (excepto los de venta exclusiva en farmacias) y faculta para el comercio al por menor de preparados dietéticos y de regímenes especiales, alimentos biológicos, macrobióticos y naturales, plantas medicinales y sus preparados, cosméticos naturales, libros informativos sobre los productos anteriores y su aplicación, así como productos afines.
 
@@ -204,15 +204,15 @@ Epígrafe 653.1 Comercio al por menor de muebles (excepto los de oficina).
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 40.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 41.400 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 31.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 23.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 23.805 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 17.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas.
 
-– En las poblaciones restantes: 12.000 pesetas.
+– En las poblaciones restantes: 12.420 pesetas.
 
 Notas:
 
@@ -228,15 +228,15 @@ Epígrafe 653.2 Comercio al por menor de material y aparatos eléctricos, electr
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 70.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 72.450 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 61.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 63.135 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 50.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 51.750 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 34.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 35.190 pesetas.
 
-– En las poblaciones restantes: 18.000 pesetas.
+– En las poblaciones restantes: 18.630 pesetas.
 
 Notas:
 
@@ -248,15 +248,15 @@ Epígrafe 653.3 Comercio al por menor de artículos de menaje, ferretería, ador
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 55.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 56.925 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 44.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 45.540 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 33.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 34.155 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 22.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas.
 
-– En las poblaciones restantes: 12.000 pesetas.
+– En las poblaciones restantes: 12.420 pesetas.
 
 Notas:
 
@@ -268,15 +268,15 @@ Epígrafe 653.4 Comercio al por menor de materiales de construcción y de artíc
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 49.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 50.715 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 39.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 40.365 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 29.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 30.015 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 22.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas.
 
-– En las poblaciones restantes: 12.000 pesetas.
+– En las poblaciones restantes: 12.420 pesetas.
 
 Nota: Los sujetos pasivos clasificados en este epígrafe están facultados para instalar los cristales que vendan.
 
@@ -284,29 +284,29 @@ Epígrafe 653.5 Comercio al por menor de puertas, ventanas y persianas, molduras
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 32.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 33.120 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 25.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 25.875 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 19.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 19.665 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 15.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 15.525 pesetas.
 
-– En las poblaciones restantes: 11.000 pesetas.
+– En las poblaciones restantes: 11.385 pesetas.
 
 Epígrafe 653.6. Comercio al por menor de artículos de «bricolaje».
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 52.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 53.820 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 41.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 42.435 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 31.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 32.085 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 22.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas.
 
-– En las poblaciones restantes: 12.000 pesetas.
+– En las poblaciones restantes: 12.420 pesetas.
 
 Nota: Los sujetos pasivos clasificados en este epígrafe están facultados para la venta al por menor de los accesorios y complementos relacionados con esta actividad.
 
@@ -314,15 +314,15 @@ Epígrafe 653.9 Comercio al por menor de otros artículos para el equipamiento d
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 39.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 40.365 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 31.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 23.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 23.805 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 17.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas.
 
-– En las poblaciones restantes: 12.000 pesetas.
+– En las poblaciones restantes: 12.420 pesetas.
 
 ## Grupo 654. Comercio al por menor de vehículos terrestres, aeronaves y embarcaciones y de maquinaria, accesorios y piezas de recambio.
 
@@ -330,15 +330,15 @@ Epígrafe 654.1 Comercio al por menor de vehículos terrestres.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 49.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 50.715 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 39.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 40.365 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 29.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 30.015 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 22.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas.
 
-– En las poblaciones restantes: 14.000 pesetas.
+– En las poblaciones restantes: 14.490 pesetas.
 
 Nota: Este epígrafe faculta para la venta al por menor de lubricantes, accesorios, recambios y herramientas para los indicados vehículos.
 
@@ -346,15 +346,15 @@ Epígrafe 654.2 Comercio al por menor de accesorios y piezas de recambio para ve
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 39.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 40.365 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 31.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 23.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 23.805 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 17.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas.
 
-– En las poblaciones restantes: 12.000 pesetas.
+– En las poblaciones restantes: 12.420 pesetas.
 
 Nota: Este epígrafe faculta para la venta al por menor de lubricantes y herramientas para vehículos.
 
@@ -362,15 +362,15 @@ Epígrafe 654.3 Comercio al por menor de vehículos aéreos.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 49.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 50.715 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 39.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 40.365 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 29.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 30.015 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 22.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas.
 
-– En las poblaciones restantes: 14.000 pesetas.
+– En las poblaciones restantes: 14.490 pesetas.
 
 Nota: Este epígrafe faculta para la venta al por menor de lubricantes, accesorios, recambios y herramientas para los indicados vehículos.
 
@@ -378,15 +378,15 @@ Epígrafe 654.4 Comercio al por menor de vehículos fluviales y marítimos de ve
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 40.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 41.400 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 32.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 33.120 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 24.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 24.840 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 18.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 18.630 pesetas.
 
-– En las poblaciones restantes: 12.000 pesetas.
+– En las poblaciones restantes: 12.420 pesetas.
 
 Nota: Este epígrafe faculta para la venta al por menor de lubricantes, accesorios, recambios y herramientas para los indicados vehículos.
 
@@ -394,15 +394,15 @@ Epígrafe 654.5 Comercio al por menor de toda clase de maquinaria (excepto apara
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 49.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 50.715 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 39.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 40.365 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 29.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 30.015 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 22.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas.
 
-– En las poblaciones restantes: 14.000 pesetas.
+– En las poblaciones restantes: 14.490 pesetas.
 
 Nota: Este epígrafe faculta para la venta al por menor de lubricantes, accesorios, recambios y herramientas para la indicada maquinaria.
 
@@ -410,13 +410,15 @@ Epígrafe 654.6. Comercio al por menor de cubiertas, bandas o bandajes y cámara
 
 Cuota mínima municipal de:
 
-En poblaciones de más de 500.000 habitantes: 39.000 pesetas.
+En poblaciones de más de 500.000 habitantes: 40.365 pesetas.
 
-En poblaciones de más de 100.000 a 500.000 habitantes: 31.000 pesetas.
+En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas.
 
-En poblaciones de más de 40.000 a 100.000 habitantes: 23.000 pesetas.
+En poblaciones de más de 40.000 a 100.000 habitantes: 23.805 pesetas.
 
-En poblaciones de más de 10.000 a 40.000 habitantes: 17.000 pesetas. En las poblaciones restantes: 12.000 pesetas.
+En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas.
+
+En las poblaciones restantes: 12.420 pesetas.
 
 Notas:
 
@@ -430,47 +432,47 @@ Epígrafe 655.1 Comercio al por menor de combustibles de todas clases, excepto g
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 35.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 28.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 28.980 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 20.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 20.700 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 15.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 15.525 pesetas.
 
-– En las poblaciones restantes: 12.000 pesetas.
+– En las poblaciones restantes: 12.420 pesetas.
 
 Epígrafe 655.2 Comercio al por menor de gases combustibles de todas clases.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 60.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 62.100 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 49.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 50.715 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 37.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 38.295 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 26.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 26.910 pesetas.
 
-– En las poblaciones restantes: 15.000 pesetas.
+– En las poblaciones restantes: 15.525 pesetas.
 
 Epígrafe 655.3 Comercio al por menor de carburantes para el surtido de vehículos y aceites y grasas lubricantes.
 
-Cuota de: 39.000 pesetas.
+Cuota de: 40.365 pesetas.
 
 ## Grupo 656. Comercio al por menor de bienes usados tales como muebles, prendas y enseres ordinarios de uso doméstico
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 25.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 25.875 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 20.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 20.700 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 16.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 16.560 pesetas.
 
-– En poblaciónes de más de 10.000 a 40.000 habitantes: 12.000 pesetas.
+– En poblaciónes de más de 10.000 a 40.000 habitantes: 12.420 pesetas.
 
-– En las poblaciones restantes: 8.000 pesetas.
+– En las poblaciones restantes: 8.280 pesetas.
 
 Nota: Este Grupo no faculta para el comercio al por menor de bienes tales como artículos de joyería, bisutería y relojería, antigüedades, obras de arte, elementos de transporte, maquinaria y equipamiento industrial y de oficina y material y aparatos electrónicos.
 
@@ -478,15 +480,15 @@ Nota: Este Grupo no faculta para el comercio al por menor de bienes tales como a
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 35.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 29.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 30.015 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 22.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.770 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 17.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas.
 
-– En las poblaciones restantes: 13.000 pesetas.
+– En las poblaciones restantes: 13.455 pesetas.
 
 Nota: Este Grupo comprende el comercio al por menor de papel pautado de música y composiciones musicales de todas clases, así como la reparación manual de los instrumentos vendidos.
 
@@ -496,15 +498,15 @@ Epígrafe 659.1 Comercio al por menor de sellos, monedas, medallas conmemorativa
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 32.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 33.120 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 25.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 25.875 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 19.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 19.665 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 15.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 15.525 pesetas.
 
-– En las poblaciones restantes: 11.000 pesetas.
+– En las poblaciones restantes: 11.385 pesetas.
 
 Nota: este epígrafe faculta para el comercio al por mayor de los artículos clasificados en el mismo.
 
@@ -512,43 +514,43 @@ Epígrafe 659.2 Comercio al por menor de muebles de oficina y de máquinas y equ
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 39.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 40.365 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 31.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 23.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 23.805 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 17.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas.
 
-– En las poblaciones restantes: 12.000 pesetas.
+– En las poblaciones restantes: 12.420 pesetas.
 
 Epígrafe 659.3 Comercio al por menor de aparatos e instrumentos médicos, ortopédicos, ópticos y fotográficos.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 32.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 33.120 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 25.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 25.875 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 19.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 19.665 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 15.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 15.525 pesetas.
 
-– En las poblaciones restantes: 11.000 pesetas.
+– En las poblaciones restantes: 11.385 pesetas.
 
 Epígrafe 659.4 Comercio al por menor de libros, periódicos, artículos de papelería y escritorio y artículos de dibujo y bellas artes.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 30.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 31.050 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 24.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 18.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 18.630 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 13.800 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 14.283 pesetas.
 
-– En las poblaciones restantes: 10.000 pesetas.
+– En las poblaciones restantes: 10.350 pesetas.
 
 Nota: Este epígrafe faculta para la venta al por menor de juguetes no mecánicos ni eléctricos ni electrónicos.
 
@@ -556,15 +558,15 @@ Epígrafe 659.5 Comercio al por menor de artículos de joyería, relojería, pla
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 80.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 82.800 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 65.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 67.275 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 50.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 51.750 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 35.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 36.225 pesetas.
 
-– En las poblaciones restantes: 20.000 pesetas.
+– En las poblaciones restantes: 20.700 pesetas.
 
 Notas:
 
@@ -578,15 +580,15 @@ Epígrafe 659.6 Comercio al por menor de juguetes, artículos de deporte, prenda
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 35.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 28.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 28.980 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 21.400 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.149 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 16.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 16.560 pesetas.
 
-– En las poblaciones restantes: 11.000 pesetas.
+– En las poblaciones restantes: 11.385 pesetas.
 
 Nota: Este epígrafe comprende la venta al por menor de artículos para parques infantiles, tales como toboganes, columpios, etc.
 
@@ -594,15 +596,15 @@ Epígrafe 659.7 Comercio al por menor de semillas, abonos, flores y plantas y pe
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 30.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 31.050 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 24.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 18.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 18.630 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 14.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 14.490 pesetas.
 
-– En las poblaciones restantes: 10.000 pesetas.
+– En las poblaciones restantes: 10.350 pesetas.
 
 Nota: Este epígrafe faculta para la venta al por menor de toda clase de productos químicos y artículos relacionados con la jardinería, floristería y cuidado de pequeños animales.
 
@@ -610,15 +612,15 @@ Epígrafe 659.8 Comercio al por menor denominado «sex-shop».
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 39.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 40.365 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 31.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 23.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 23.805 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 17.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas.
 
-– En las poblaciones restantes: 12.000 pesetas.
+– En las poblaciones restantes: 12.420 pesetas.
 
 Notas:
 
@@ -630,19 +632,21 @@ Epígrafe 659.9 Comercio al por menor de otros productos no especificados en est
 
 Cuota mínima municipal de:
 
-En poblaciones de más de 500.000 habitantes: 96.000 pesetas.
+En poblaciones de más de 500.000 habitantes: 99.360 pesetas.
 
-En poblaciones de más de 100.000 a 500.000 habitantes: 78.000 pesetas.
+En poblaciones de más de 100.000 a 500.000 habitantes: 80.730 pesetas.
 
-En poblaciones de más de 40.000 a 100.000 habitantes: 60.000 pesetas.
+En poblaciones de más de 40.000 a 100.000 habitantes: 62.100 pesetas.
 
-En poblaciones de más de 10.000 a 40.000 habitantes: 42.000 pesetas.
+En poblaciones de más de 10.000 a 40.000 habitantes: 43.470 pesetas.
 
-En las poblaciones restantes: 24.000 pesetas.
+En las poblaciones restantes: 24.840 pesetas.
 
 Nota común a las agrupaciones 64 y 65:
 
 Cuando los locales en los que se ejerzan las actividades clasificadas en las Agrupaciones 64 y 65 tengan una superficie computable inferior a 50 metros cuadrados, la cuota de los grupos o epígrafes correspondientes será el 50 por 100 de la señalada en cada caso. Cuando dicha superficie computable se encuentre comprendida entre 50 y 70 metros cuadrados la cuota de los grupos o epígrafes correspondientes será el 80 por 100 de la señalada en cada caso.
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
 > Se modifica por el art. 76.1.3, 4 y 11 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
 

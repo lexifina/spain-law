@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Transporte público regular de viajeros en el ámbito de la Comunidad Autónoma de Canarias.
+
+El contrato-programa previsto en la disposición transitoria decimocuarta de la Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, en orden a las especificidades que concurren en el transporte regular de viajeros en el ámbito de la Comunidad Autónoma de Canarias, en razón de las previsiones contenidas en el artículo 8 de la Ley 19/1994, de Modificación del Régimen Económico y Fiscal de Canarias, surtirá sus efectos desde el día primero de enero de 1996.
+
+Hasta la entrada en vigor del mismo, se seguirán percibiendo por las Instituciones previstas en las diferentes Leyes de Presupuestos Generales del Estado las subvenciones que hayan devengado con cargo al crédito global consignado en los respectivos presupuestos y destinado a financiar las ayudas del Estado al transporte colectivo urbano cualquiera que sea la modalidad o forma de gestión del servicio debiendo tener, en su caso, la consideración de entregas a cuenta a deducir de los compromisos adquiridos por el Estado en virtud de aquél.

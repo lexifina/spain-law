@@ -4,9 +4,9 @@
 
 Cuota de:
 
-Por cada obrero: 720 pesetas.
+Por cada obrero: 746 pesetas. (4,483550 euros)
 
-Por cada Kw: 410 pesetas.
+Por cada Kw: 425 pesetas. (2,554301 euros)
 
 Nota: Este grupo comprende la construcción de motores para vehículos automóviles y la construcción de automóviles de turismo, camiones, tractocamiones, furgones, autocares, autobuses, trolebuses, vehículos ligeros todo terreno, vehículos automóviles para fines militares (excepto carros de combate y piezas de artillería autopropulsada), ambulancias, coches fúnebres, de bomberos, coches patrulla, coches de carreras, etc., así como la fabricación de sus componentes.
 
@@ -30,9 +30,9 @@ Epígrafe 361.7 Componentes para vehículos automóviles.
 
 Cuota de:
 
-Por cada obrero: 720 pesetas.
+Por cada obrero: 746 pesetas. (4,483550 euros)
 
-Por cada Kw: 410 pesetas.
+Por cada Kw: 425 pesetas. (2,554301 euros)
 
 Nota: Este grupo comprende la construcción de carrocerías para turismos, autobuses, camiones y otros vehículos automóviles; construcción de remolques-vivienda y para acampar, remolques comerciales, para el transporte de cargas especiales y para otros usos, así como la construcción de cajas abiertas para camiones y la de volquetes.
 
@@ -46,9 +46,9 @@ Epígrafe 362.2 Remolques y volquetes.
 
 Cuota de:
 
-Por cada obrero: 720 pesetas.
+Por cada obrero: 746 pesetas. (4,483550 euros)
 
-Por cada Kw: 410 pesetas.
+Por cada Kw: 425 pesetas. (2,554301 euros)
 
 Nota: Este grupo comprende la fabricación de transmisiones, cajas de velocidades, embragues, radiadores, climatizadores, mecanismos de dirección, sistemas de suspensión, puentes traseros completos, filtros, bombas y sistemas de inyección, sistemas de escape, silenciadores, ruedas, frenos, soportes de motor y carrocería, depósitos de carburante y otro equipo, accesorios y piezas de repuesto para vehículos automóviles.
 
@@ -59,3 +59,7 @@ Epígrafe 363.1 Equipo, componentes, accesorios y piezas de repuesto de motores 
 Epígrafe 363.2 Equipo, componentes, accesorios y piezas de repuesto de carrocerías para vehículos automóviles.
 
 Epígrafe 363.9 Otro equipo, componentes, accesorios y piezas de repuesto para vehículos automóviles (excepto equipo eléctrico).
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+
+> Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.

@@ -1,10 +1,12 @@
 ## Artículo tercero.
 
-1. El patrimonio de los Fondos de Garantía de Depósitos en Cajas de Ahorro y en Cooperativas de Crédito se nutrirá con aportaciones anuales de las entidades integradas en cada uno de ellos, equivalentes al 1 por 1.000 de sus depósitos, y con aportaciones anuales del Banco de España iguales al conjunto de aquéllas. Cuando el saldo de los anticipos del Banco de España a un fondo de los incluidos en este punto supere cuatro veces la cuantía de las aportaciones de las entidades y el Banco de España del último ejercicio, aquella cifra podrá ser elevada por el Gobierno, a propuesta del Banco de España, al 2 por 1.000 para ese fondo.
+1. Los Fondos de Garantía de Depósitos en Establecimientos Bancarios, en Cajas de Ahorros y en Cooperativas de Crédito se nutrirán, en la forma que se determine reglamentariamente, con aportaciones anuales de las entidades de crédito integradas en cada uno de ellos, cuyo importe será del 2 por 1000 de los depósitos a los que se extienda su garantía.
 
-2. El patrimonio del Fondo de Garantía de Depósitos en establecimientos bancarios se nutrirá con aportaciones anuales de los Bancos integrados en el equivalente al 2 por 1.000 de sus depósitos y con aportaciones anuales del Banco de España iguales a la cifra que representen los de la Banca privada.
+2. No obstante, cuando el patrimonio de un Fondo alcance una cuantía suficiente para el cumplimiento de sus fines, el Ministro de Economía y Hacienda, a propuesta del Banco de España, podrá acordar la disminución de las aportaciones mencionadas en el número precedente. En todo caso, esas aportaciones se suspenderán cuando el fondo patrimonial no comprometido en operaciones propias del objeto del Fondo iguale o supere el 1 por 100 de los depósitos de las entidades adscritas a él.
 
-3. En el caso de que cualquiera de los Fondos alcanzase un patrimonio suficiente para sus fines, y previa liquidación de los anticipos o ayudas financieras de otro tipo del Banco de España, el Ministro de Economía y Hacienda, a propuesta del Banco de España, podrá acordar una disminución de las aportaciones anuales mencionadas. A tal efecto podrá alterar o no la relación de aportaciones entre las entidades respectivas y el Banco de España, y hasta podrá llegar a suprimir la aportación de éste.
+3. Excepcionalmente, y al efecto de salvaguardar la estabilidad del conjunto de las entidades adscritas a él, un Fondo podrá nutrirse con aportaciones del Banco de España, cuya cuantía se fijará por Ley.
+
+> Se modifica por la disposición adicional 7.1.b) del Real Decreto-ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
 > Se modifica por el art. 79.1 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968.
 

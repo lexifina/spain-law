@@ -4,19 +4,19 @@
 
 Epígrafe 151.1 Producción de energía hidroeléctrica.
 
-Cuota de: Por cada Kw de potencia en generadores, 135 pesetas.
+Cuota de: Por cada Kw de potencia en generadores, 140 pesetas.
 
 Epígrafe 151.2 Producción de energía termoeléctrica convencional.
 
-Cuota de: Por cada Kw de potencia en generadores, 85 pesetas.
+Cuota de: Por cada Kw de potencia en generadores, 88 pesetas.
 
 Epígrafe 151.3 Producción de energía electronuclear.
 
-Cuota de: Por cada Kw de potencia en generadores, 85 pesetas.
+Cuota de: Por cada Kw de potencia en generadores, 88 pesetas.
 
 Epígrafe 151.4 Producción de energía no especificada en los epígrafes anteriores, abarcando la energía procedente de mareas, energía solar, etc.
 
-Cuota de: Por cada Kw de potencia en generadores, 120 pesetas.
+Cuota de: Por cada Kw de potencia en generadores, 125 pesetas.
 
 Nota: No se incluyen en este epígrafe las centrales mixtas, es decir, las que producen diversas clases de energía, que se clasificarán en el epígrafe que corresponda a su actividad principal.
 
@@ -24,11 +24,11 @@ Epígrafe 151.5 Transporte y distribución de energía eléctrica.
 
 Cuota de: Por cada Kw de potencia contratada:
 
-Cuota mínima municipal: 7 pesetas.
+Cuota mínima municipal: 8 pesetas.
 
-Cuota provincial: 11 pesetas.
+Cuota provincial: 12 pesetas.
 
-Cuota nacional: 11 pesetas.
+Cuota nacional: 12 pesetas.
 
 Notas comunes al grupo 151:
 
@@ -52,9 +52,9 @@ Notas comunes al grupo 151:
 
 Cuota de:
 
-Por cada obrero: 4.690 pesetas.
+Por cada obrero: 4.855 pesetas.
 
-Por cada Kw: 2.550 pesetas.
+Por cada Kw: 2.640 pesetas.
 
 Nota: Este grupo comprende la instalación de redes de distribución del gas.
 
@@ -62,8 +62,10 @@ Nota: Este grupo comprende la instalación de redes de distribución del gas.
 
 Cuota de:
 
-Por cada obrero: 1.510 pesetas.
+Por cada obrero: 1.563 pesetas.
 
-Por cada Kw: 910 pesetas.
+Por cada Kw: 942 pesetas.
 
 Nota: Este grupo comprende la instalación de redes de distribución de vapor y agua caliente.
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.

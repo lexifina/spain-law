@@ -4,11 +4,11 @@
 
 Cuota:
 
-Cuota mínima municipal: 8.800.
+Cuota mínima municipal: 9.108 pesetas.
 
-Cuota provincial: 26.500.
+Cuota provincial: 27.428 pesetas.
 
-Cuota nacional: 35.000.
+Cuota nacional: 36.225 pesetas.
 
 Nota: Este grupo comprende la prestación de servicios a la agricultura y ganadería, con o sin maquinaria, por personas o entidades distintas de los titulares de las explotaciones, por cuenta de éstos, y que normalmente se realizan en la misma explotación, tales como servicios de producción de cultivos y ganado, como preparación de la tierra, poda, riego, aplicación de productos sanitarios, inseminación, etc.; servicios de recolección y preparación de cosechas; servicios de plantación y mantenimiento de jardines y parques, y otros servicios agrícolas y ganaderos. Este grupo no comprende la integración de ganado.
 
@@ -16,11 +16,11 @@ Nota: Este grupo comprende la prestación de servicios a la agricultura y ganade
 
 Cuota:
 
-Cuota mínima municipal: 8.800 pesetas.
+Cuota mínima municipal: 9.108 pesetas.
 
-Cuota provincial: 26.500 pesetas.
+Cuota provincial: 27.428 pesetas.
 
-Cuota nacional: 35.000 pesetas.
+Cuota nacional: 36.225 pesetas.
 
 Nota: Este grupo comprende los servicios forestales prestados por personas o entidades distintas de los titulares de las explotaciones y que normalmente se realizan en la misma explotación forestal tales como lucha contra plagas, defensa contra incendios, etc.
 
@@ -28,6 +28,8 @@ Nota: Este grupo comprende los servicios forestales prestados por personas o ent
 
 Cuota de:
 
-Por cada obrero: 2.450 pesetas.
+Por cada obrero: 2.536 pesetas.
 
 Nota: Este grupo comprende los servicios prestados por personas o entidades distintas de los titulares de las explotaciones.
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.

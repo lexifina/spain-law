@@ -42,15 +42,45 @@ B) La sustitución de un pasaporte cuando se ha perdido o se han agotado las pá
 
 C) En los supuestos establecidos en los dos apartados anteriores se añadirá en concepto de coste de la libreta, 2 unidades.
 
-D) El visado en pasaporte extranjero de tránsito o doble tránsito con un plazo de estancia en España inferior a ocho días: 16 unidades.
+D) Tasas por la expedición de visados para tránsito, estancia o residencia de extranjeros.
 
-E) Cuando sea válido para permanecer en España menos de treinta y dos días y una sola entrada: 16 unidades.
+1. Visado de tránsito aeroportuario, 10 ECU.
 
-F) El ordinario, válido para permanecer en España hasta noventa días, con tres entradas y tres salidas: 32 unidades.
+2. Visado de tránsito con una, dos o varias entradas, 10 ECU.
 
-G) Cuando autorice al titular un mayor número de entradas y salidas o tenga un plazo de caducidad superior a los tres meses: 48 unidades.
+3. Visado limitado a treinta días como máximo, 25 ECU.
 
-H) El que se concede a los extranjeros que pretendan residir en España: 48 unidades.
+4. Visado ordinario de corta duración (hasta noventa días como máximo), 30 ECU más 5 ECU a partir de la segunda entrada, en caso de concesión de entradas múltiples.
+
+5. Visado de entradas múltiples (un año de validez), 50 ECU.
+
+6. Visado de entradas múltiples (hasta cinco años de validez). 50 ECU más 30 ECU por año al superar el primero.
+
+7. Visado de residencia, 50 ECU.
+
+8. Visados de tránsito o estancia limitada a España (VTL), importe del 50 por 100 del fijado para los visados números 1, 2, 3, 4, 5 ó 6.
+
+9. Visados expedidos en fronteras, tarifa doble de la señalada al tipo de visado que se expida.
+
+10. Visados colectivos, de tránsito aeroportuario o de tránsito (de 5 a 50 personas), 30 ECU más un ECU por persona.
+
+11. Visados colectivos para duración limitada a treinta días como máximo, con una o dos entradas (de 5 a 50 personas), 30 ECU más un ECU por persona.
+
+12. Visados colectivos para duración limitada a treinta días como máximo, con más de dos entradas (de 5 a 50 personas), 30 ECU más 3 ECU por persona.
+
+Las tasas se abonarán en moneda convertible o en moneda nacional del país en que se expiden, sobre la base de los tipos de cambio oficiales en vigor. Como moneda de referencia se empleará el ECU.
+
+Los importes de las tasas por la expedición de visados se adecuarán mediante Real Decreto a la revisión que fuese acordada por el Comité Ejecutivo del Convenio Schengen o a la revisión que proceda por aplicación del derecho comunitario. Se acomodarán asimismo al importe que dicho Comité Ejecutivo o el derecho comunitario puedan establecer por aplicación del principio de reciprocidad.
+
+Los costes complementarios que se originen por la expedición de visados cuando, a petición del interesado, deba hacerse uso de procedimientos tales como mensajería, correo electrónico, correo urgente, telefax, telegrama o conferencia telefónica se tarifarán por el importe efectivo del gasto ocasionado.
+
+E) (Derogado)
+
+F) (Derogado)
+
+G) (Derogado)
+
+H) (Derogado)
 
 IV. Actos de administración y cancillería:
 
@@ -135,5 +165,9 @@ M) Las legalizaciones de documentos públicos extranjeros, por firma, 2 unidades
 N) La expedición de un certificado de Ley o de costumbre, por hoja, 10 unidades.
 
 Ñ) Las traducciones realizadas según lo dispuesto en el artículo 253 del Reglamento Notarial, por hoja de 24 líneas, 100 unidades.
+
+> Se derogan los apartados 3.E) a H) y se modifica el apartado 3.D) por el art. 35.3.1.2 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+
+> Esta modificación entra en vigor el 26 de marzo de 1996, según establece el art. 35.3.2.
 
 > Se modifican los apartados 3.D) a H) por el art. 104.5 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563

@@ -4,9 +4,9 @@
 
 Cuota de:
 
-Por cada obrero: 1.190 pesetas.
+Por cada obrero: 1.232 pesetas. (7,404469 euros)
 
-Por cada Kw: 950 pesetas.
+Por cada Kw: 984 pesetas. (5,913959 euros)
 
 Nota: Este grupo comprende la fabricación de hilos y cables eléctricos (conductores con funda de material aislante, esmaltados, con blindaje o protección especial, cables submarinos y subterráneos, hilos para bobinado, cables especiales para electrónica y alta frecuencia, etc.) y de hilos y cables telefónicos y telegráficos (coaxiales y otros).
 
@@ -28,9 +28,9 @@ Epígrafe 341.9 Otros hilos y cables aislados.
 
 Cuota de:
 
-Por cada obrero: 1.190 pesetas.
+Por cada obrero: 1.232 pesetas. (7,404469 euros)
 
-Por cada Kw: 950 pesetas.
+Por cada Kw: 984 pesetas. (5,913959 euros)
 
 Nota: Este grupo comprende la fabricación de micromotores, motores universales, monofase y otros motores eléctricos; generadores, convertidores, grupos electrógenos; transformadores, rectificadores de corriente; imanes permanentes y dispositivos electromagnéticos; condensadores, conmutadores, dispositivos protectores; equipos eléctricos para vehículos de tracción y transporte; cuadros de distribución, mando, señalización y protección de máquinas, vías de comunicación e instalaciones en general (excepto los electrónicos); dinamos, magnetos, bujías, bobinas de encendido; accesorios eléctricos para automóviles; hornos industriales eléctricos, vehículos industriales eléctricos; herramientas eléctricas, aparatos de soldadura eléctrica, material de galvanoplastia, etc.; así como la fabricación de piezas y accesorios para este material.
 
@@ -44,9 +44,9 @@ Epígrafe 342.2 Otro material eléctrico de utilización y equipamiento.
 
 Cuota de:
 
-Por cada obrero: 1.190 pesetas.
+Por cada obrero: 1.232 pesetas. (7,404469 euros)
 
-Por cada Kw: 950 pesetas.
+Por cada Kw: 984 pesetas. (5,913959 euros)
 
 Nota: Este grupo comprende la fabricación de pilas y baterías de todo tipo, secas o húmedas, así como la de acumuladores de plomo, alcalinos y otros.
 
@@ -62,9 +62,9 @@ Epígrafe 343.3 Accesorios, partes y piezas sueltas de pilas y acumuladores elé
 
 Cuota de:
 
-Por cada obrero: 1.190 pesetas.
+Por cada obrero: 1.232 pesetas. (7,404469 euros)
 
-Por cada Kw: 950 pesetas.
+Por cada Kw: 984 pesetas. (5,913959 euros)
 
 Nota: Este grupo comprende la fabricación de contadores de energía eléctrica, transformadores de medida y otros instrumentos y aparatos eléctricos de medida (presión, temperatura, niveles, etc.), control, verificación, regulación o análisis.
 
@@ -72,9 +72,9 @@ Nota: Este grupo comprende la fabricación de contadores de energía eléctrica,
 
 Cuota de:
 
-Por cada obrero: 1.190 pesetas.
+Por cada obrero: 1.232 pesetas. (7,404469 euros)
 
-Por cada Kw: 950 pesetas.
+Por cada Kw: 984 pesetas. (5,913959 euros)
 
 Nota: Este grupo comprende la fabricación de aparatos eléctricos de uso doméstico, tales como cocinas, hornos, batidoras, molinillos, parrillas, cafeteras, exprimidores, abrelatas y otros aparatos auxiliares de cocina; aspiradoras, barredoras y enceradoras; frigoríficos, planchas, afeitadoras, secadoras, ventiladores; trituradoras de desperdicios; lavadoras y lavavajillas; calentadores y estufas eléctricas, mantas eléctricas, etc.; así como la fabricación de piezas y accesorios para estos aparatos.
 
@@ -102,9 +102,9 @@ Epígrafe 345.9 Accesorios, partes y piezas sueltas de aparatos electrodoméstic
 
 Cuota de:
 
-Por cada obrero: 1.190 pesetas.
+Por cada obrero: 1.232 pesetas. (7,404469 euros)
 
-Por cada Kw: 950 pesetas.
+Por cada Kw: 984 pesetas. (5,913959 euros)
 
 Nota: Este grupo comprende la fabricación de bombillas, tubos, proyectores, faros y lámparas de incandescencia, de fluorescencia, de arco, de gas neón, de vapor de mercurio y de sodio, de flash, de luz ultravioleta e infrarroja; fabricación de electrodos y otros productos de carbón y grafito para usos eléctricos, así como la fabricación de otro material de alumbrado y accesorios (tubos aislantes para conducción de cables e hilos eléctricos, aisladores y material aislante excepto de cerámica, vidrio y materias plásticas, bornes, dispositivos de conexión, enchufes, etc.).
 
@@ -119,3 +119,7 @@ Epígrafe 346.3 Artículos de carbón y grafito para usos eléctricos.
 Epígrafe 346.4 Otro material de alumbrado.
 
 Epígrafe 346.5 Accesorios, partes y piezas sueltas de lámparas y material de alumbrado.
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+
+> Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.

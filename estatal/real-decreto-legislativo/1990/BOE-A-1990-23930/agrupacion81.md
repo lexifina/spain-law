@@ -6,15 +6,15 @@ Cuota de:
 
 Por cada establecimiento o local donde se efectúen todas o algunas de las operaciones indicadas en la nota al grupo:
 
-En poblaciones de más de 500.000 habitantes: 294.735 pesetas.
+En poblaciones de más de 500.000 habitantes: 305.051 pesetas.
 
-En poblaciones de más de 100.000 a 500.000 habitantes: 228.480 pesetas.
+En poblaciones de más de 100.000 a 500.000 habitantes: 236.477 pesetas.
 
-En poblaciones de mas de 40.000 a 100.000 habitantes: 162.120 pesetas.
+En poblaciones de mas de 40.000 a 100.000 habitantes: 167.795 pesetas.
 
-En poblaciones de más de 10.000 a 40.000 habitantes: 63.000 pesetas.
+En poblaciones de más de 10.000 a 40.000 habitantes: 65.205 pesetas.
 
-En las poblaciones restantes: 44.100 pesetas.
+En las poblaciones restantes: 45.644 pesetas.
 
 Nota: Este grupo comprende la actividad que consiste en financiar, es decir, recoger, transformar y repartir recursos financieros y que, en una parte importante, tienen constituidas sus obligaciones frente a sus clientes por depósitos a la vista transferibles.
 
@@ -24,15 +24,15 @@ Cuota de:
 
 Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
 
-En poblaciones de más de 500.000 habitantes: 294.735 pesetas.
+En poblaciones de más de 500.000 habitantes: 305.051 pesetas.
 
-En poblaciones de más de 100.000 a 500.000 habitantes: 228.480 pesetas.
+En poblaciones de más de 100.000 a 500.000 habitantes: 236.477 pesetas.
 
-En poblaciones de más de 40.000 a 100.000 habitantes: 162.120 pesetas.
+En poblaciones de más de 40.000 a 100.000 habitantes: 167.795 pesetas.
 
-En poblaciones de más de 10.000 a 40.000 habitantes: 63.000 pesetas.
+En poblaciones de más de 10.000 a 40.000 habitantes: 65.205 pesetas.
 
-En las poblaciones restantes: 44.100 pesetas.
+En las poblaciones restantes: 45.644 pesetas.
 
 Nota: Este grupo comprende las entidades de ahorro tales como el Instituto de Crédito de las Cajas de Ahorro, Confederación Española de Cajas de Ahorro Benéficas, Cajas Generales de Ahorro Benéficas, Caja Postal de Ahorros, Cajas Rurales, Cooperativas de Crédito y demás entidades análogas.
 
@@ -44,15 +44,15 @@ Cuota de:
 
 Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
 
-– En poblaciones de más de 500.000 habitantes: 280.700 pesetas.
+– En poblaciones de más de 500.000 habitantes: 290.525 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 217.600 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 225.216 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 154.400 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 159.804 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 60.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 62.100 pesetas.
 
-– En las poblaciones restantes: 42.000 pesetas.
+– En las poblaciones restantes: 43.470 pesetas.
 
 Nota: Este epígrafe comprende las entidades oficiales de crédito (Instituto de Crédito Oficial, Banco Hipotecario de España, Banco de Crédito Industrial, Banco de Crédito Local, Banco de Crédito Agrícola, Crédito Social y Pesquero), las entidades de crédito agrícola no oficiales (secciones de crédito de las cooperativas agrarias y depósitos agrarios) y las entidades de crédito industrial no oficiales (secciones de crédito de las cooperativas industriales y depósitos industriales).
 
@@ -62,15 +62,15 @@ Cuota de:
 
 Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
 
-– En poblaciones de más de 500.000 habitantes: 83.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 85.905 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 65.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 67.275 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 46.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 47.610 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 18.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 18.630 pesetas.
 
-– En las poblaciones restantes: 13.000 pesetas.
+– En las poblaciones restantes: 13.455 pesetas.
 
 Nota: Este epígrafe comprende las entidades de redescuento y crédito tales como las casas de pignoración, casas compradoras de papeletas de empeño, de letras de cambio, de créditos vencidos, etc.
 
@@ -80,15 +80,15 @@ Cuota de:
 
 Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
 
-– En poblaciones de más de 500.000 habitantes: 83.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 85.905 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 65.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 67.275 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 46.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 47.610 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 18.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 18.630 pesetas.
 
-– En las poblaciones restantes: 13.000 pesetas.
+– En las poblaciones restantes: 13.455 pesetas.
 
 Epígrafe 819.4 Entidades de cambio de moneda.
 
@@ -96,15 +96,15 @@ Cuota de:
 
 Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
 
-– En poblaciones de más de 500.000 habitantes: 61.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 63.135 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 47.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 48.645 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 33.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 34.155 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 13.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 13.455 pesetas.
 
-– En las poblaciones restantes: 10.000 pesetas.
+– En las poblaciones restantes: 10.350 pesetas.
 
 Epígrafe 819.9 Otras entidades financieras n.c.o.p.
 
@@ -112,16 +112,18 @@ Cuota de:
 
 Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
 
-– En poblaciones de más de 500.000 habitantes: 61.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 63.135 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 47.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 48.645 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 33.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 34.155 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 13.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 13.455 pesetas.
 
-– En las poblaciones restantes: 10.000 pesetas.
+– En las poblaciones restantes: 10.350 pesetas.
 
 Nota: Este epígrafe comprende las entidades financieras no especificadas en los epígrafes anteriores del grupo «Otras instituciones financieras» (819), tales como las sociedades de financiación de ventas a plazos, sociedades y fondos de inversión mobiliaria, etc.
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
 > Se modifican los grupos 811 y 812 por la disposición adicional 17.4 y 5 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.

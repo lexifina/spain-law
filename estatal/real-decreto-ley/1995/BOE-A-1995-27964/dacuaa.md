@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Impuestos anticipados registrados por las empresas participadas de la Agencia Industrial del Estado.
+
+El importe de los impuestos anticipados registrados al 31 de julio de 1995 por las empresas dependientes de la Agencia Industrial del Estado, y que hubiera sido recuperado por dichas empresas como crédito fiscal de haber continuado con el régimen de tributación consolidada del antiguo Instituto Nacional de Industria, se entenderá comprendido dentro de las aportaciones que los Presupuestos Generales del Estado realicen anualmente a dichas empresas a lo largo de los ejercicios en los que se hubiera producido su recuperación.

@@ -91,3 +91,5 @@ Notas comunes a la División 0:
 2.ª Cuando la actividad ganadera se ejerza en el régimen denominado «ganadería integrada», las cuotas correspondientes serán satisfechas por el «ganadero integrador» o dueño del ganado.
 
 3.ª A efectos de esta división se entenderá extensiva a la explotación realizada con disposición total o parcial de una base territorial con aprovechamiento de pastos o prados para alimentar el ganado.
+
+> Véase el art. 26.1 del Real Decreto-Ley 12/1995, de 28 de diciembre, sobre el incremento de las cuotas establecidas en un 3,5 por 100, con efectos desde el 1 de enero de 1996. Ref. BOE-A-1995-27964#a26

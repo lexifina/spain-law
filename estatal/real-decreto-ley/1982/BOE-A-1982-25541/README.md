@@ -14,6 +14,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [pr](pr.md)
 - [Artículo primero](aprimero.md)
 - [Artículo segundo](asegundo.md)
+- [Artículo segundo bis](asegundobis.md)
 - [Artículo tercero](atercero.md)
 - [Artículo cuarto](acuarto.md)
 - [Artículo quinto](aquinto.md)

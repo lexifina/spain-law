@@ -4,9 +4,9 @@
 
 Cuota de:
 
-Por cada obrero: 100 pesetas.
+Por cada obrero: 104 pesetas. (0,625053 euro)
 
-Por cada Kw: 160 pesetas.
+Por cada Kw: 166 pesetas. (0,997680 euro)
 
 Nota: Este grupo comprende la obtención de productos siderúrgicos laminados en caliente o en frío, y sus derivados, a partir de mineral de hierro como materia prima, mediante la utilización de hornos altos y acerías al oxígeno.
 
@@ -32,9 +32,9 @@ Epígrafe 221.7 Otros productos y subproductos.
 
 Cuota de:
 
-Por cada obrero: 94 pesetas.
+Por cada obrero: 98 pesetas. (0,588992 euro)
 
-Por cada Kw: 117 pesetas.
+Por cada Kw: 122 pesetas. (0,733235 euro)
 
 Nota: Este grupo comprende la obtención de productos siderúrgicos laminados en caliente o en frío, y sus derivados, a partir de chatarra como materia prima, mediante la utilización de acerías eléctricas.
 
@@ -56,9 +56,9 @@ Epígrafe 222.6 Otros productos y subproductos.
 
 Cuota de:
 
-Por cada obrero: 100 pesetas.
+Por cada obrero: 104 pesetas. (0,625053 euro)
 
-Por cada Kw: 200 pesetas.
+Por cada Kw: 207 pesetas. (1,244095 euros)
 
 Nota: Este grupo comprende la fabricación de tubos de acero soldado o sin soldar, revestidos o sin revestir; el estirado de tubos de acero o la fabricación de tubos, empalmes, cajas, juntas, etc., de acero para conductores eléctricos.
 
@@ -78,9 +78,9 @@ Epígrafe 223.4 Accesorios para tuberías (excepto de fundición).
 
 Cuota de:
 
-Por cada obrero: 100 pesetas.
+Por cada obrero: 104 pesetas. (0,625053 euro)
 
-Por cada Kw: 200 pesetas.
+Por cada Kw: 207 pesetas. (1,244095 euros)
 
 Nota: Este grupo comprende el estirado en frío del acero; laminación en frío del fleje de acero; laminación de perfiles por conformación o plegado en frío de productos planos de acero y trefilado del acero.
 
@@ -108,9 +108,9 @@ Epígrafe 225.1 Producción y primera transformación del aluminio.
 
 Cuota de:
 
-Por cada obrero: 130 pesetas.
+Por cada obrero: 135 pesetas. (0,811366 euro)
 
-Por cada Kw: 360 pesetas.
+Por cada Kw: 373 pesetas. (2,241775 euros)
 
 Nota: Este epígrafe comprende la obtención de aluminio de primera fusión (a partir de minerales, desperdicios, restos, cenizas y residuos); obtención de aluminio de segunda fusión (por fusión); obtención de aleaciones de aluminio fuera de la siderurgia (aluminotermia), así como la primera transformación del aluminio y sus aleaciones mediante laminación, estirado, trefilado, extrusión, etc.
 
@@ -118,9 +118,9 @@ Epígrafe 225.2 Producción y primera transformación del cobre.
 
 Cuota de:
 
-Por cada obrero: 130 pesetas.
+Por cada obrero: 135 pesetas. (0,811366 euro)
 
-Por cada Kw: 360 pesetas.
+Por cada Kw: 373 pesetas. (2,241775 euros)
 
 Nota: Este epígrafe comprende la obtención de cobre bruto a partir de minerales (blister y otros); cobre electrolítico; cobre de afino térmico; cobre de segunda fusión; aleaciones de cobre, así como la primera transformación del cobre y sus aleaciones mediante laminación, estirado, trefilado, extrusión, etc.
 
@@ -128,8 +128,12 @@ Epígrafe 225.9 Producción y primera transformación de otros metales no férre
 
 Cuota de:
 
-Por cada obrero: 130 pesetas.
+Por cada obrero: 135 pesetas. (0,811366 euro)
 
-Por cada Kw: 200 pesetas.
+Por cada Kw: 207 pesetas. (1,244095 euros)
 
 Nota: Este epígrafe comprende la producción y primera transformación de metales no férreos, tales como zinc, plomo, estaño, antimonio, bismuto, wolframio, mercurio, oro, plata, etc. Abarca la obtención por primera y segunda fusión, así como la primera transformación mediante laminación, estirado, trefilado, extrusión, etc., y las aleaciones de estos metales.
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+
+> Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.

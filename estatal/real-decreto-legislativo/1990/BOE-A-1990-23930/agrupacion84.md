@@ -2,11 +2,11 @@
 
 ## Grupo 841. Servicios jurídicos.
 
-Cuota de: 85.800 pesetas.
+Cuota de: 88.803 pesetas.
 
 ## Grupo 842. Servicios financieros y contables.
 
-Cuota de: 83.100 pesetas.
+Cuota de: 86.009 pesetas.
 
 Nota: Este grupo comprende la prestación de los servicios, en principio a las empresas y organismos de contabilidad, teneduría de libros, censura de cuentas, auditoría, materia fiscal, económica y financiera y de otros servicios independientes de asesoría fiscal y contable.
 
@@ -14,53 +14,53 @@ Nota: Este grupo comprende la prestación de los servicios, en principio a las e
 
 Epígrafe 843.1 Servicios técnicos de ingeniería.
 
-Cuota de: 73.000 pesetas.
+Cuota de: 75.555 pesetas.
 
 Epígrafe 843.2 Servicios técnicos de arquitectura y urbanismo.
 
-Cuota de: 116.000 pesetas.
+Cuota de: 120.060 pesetas.
 
 Epígrafe 843.3 Servicios técnicos de prospecciones y estudios geológicos.
 
-Cuota de: 46.700 pesetas.
+Cuota de: 48.335 pesetas.
 
 Epígrafe 843.4 Servicios técnicos de topografía.
 
-Cuota de: 41.500 pesetas.
+Cuota de: 42.953 pesetas.
 
 Epígrafe 843.5 Servicios técnicos de delineación.
 
-Cuota de: 41.500 pesetas.
+Cuota de: 42.953 pesetas.
 
 Epígrafe 843.9 Otros servicios técnicos n.c.o.p.
 
-Cuota de: 42.700 pesetas.
+Cuota de: 48.318 pesetas.
 
 ## Grupo 844. Servicios de publicidad, relaciones públicas y similares.
 
 Cuota de:
 
-Empresas de hasta 10 trabajadores: 29.000 pesetas.
+Empresas de hasta 10 trabajadores: 30.015 pesetas.
 
-Empresas de 11 a 30 trabajadores: 59.000 pesetas.
+Empresas de 11 a 30 trabajadores: 61.065 pesetas.
 
-Empresas de 31 a 50 trabajadores: 105.000 pesetas.
+Empresas de 31 a 50 trabajadores: 108.675 pesetas.
 
-Empresas de 51 a 100 trabajadores: 214.000 pesetas.
+Empresas de 51 a 100 trabajadores: 221.490 pesetas.
 
-Empresas de más de 100 trabajadores: 287.000 pesetas.
+Empresas de más de 100 trabajadores: 297.045 pesetas.
 
 Nota: Ese grupo comprende la prestación de servicios de publicidad, mediante anuncios, carteles, folletos, películas publicitarias, etc., a través de prensa, radio, televisión, publicidad aérea u otros medios. Se clasifican aquí las agencias o empresas de publicidad, que se dedican a la creación y difusión de anuncios o campañas de información publicitaria, propaganda electoral, comunicación institucional o pública e imagen corporativa, así como las demás empresas de publicidad en sus diferentes modalidades, tales como exclusivistas de medios publicitarios, publicidad exterior, publicidad directa y márketing directo, distribuidoras y centrales de compras, estudios de publicidad, etc. Asimismo, se encuadran en este grupo las empresas dedicadas a las relaciones públicas, promoción de ventas publicitarias, regalos y reclamos publicitarios y, en general, cualquier servicio independiente de publicidad.
 
 ## Grupo 845. Explotación electrónica por cuenta de terceros.
 
-Cuota de: 32.500 pesetas.
+Cuota de: 33.638 pesetas.
 
 Nota: Este grupo comprende la prestación de servicios de estudio y análisis de procesos para su tratamiento mecánico, de programación para equipos electrónicos, de registro de datos en soportes de entrada para ordenadores, así como la venta de programas, el proceso de datos por cuenta de terceros y otros servicios independientes de elaboración de datos y tabulación.
 
 ## Grupo 846. Empresas de estudios de mercado.
 
-Cuota de: 32.500 pesetas.
+Cuota de: 33.638 pesetas.
 
 Nota: Este grupo comprende la realización de estudios de mercado, estudios de opinión, de hábitos de compra y otros servicios independientes de información e investigación comercial.
 
@@ -68,47 +68,49 @@ Nota: Este grupo comprende la realización de estudios de mercado, estudios de o
 
 Epígrafe 849.1 Cobros de deudas y confección de facturas.
 
-Cuota de: 33.600 pesetas.
+Cuota de: 34.776 pesetas.
 
 Epígrafe 849.2 Servicios mecanográficos, taquigráficos, de reproducción de escritos, planos y documentos.
 
-Cuota de: 27.720 pesetas.
+Cuota de: 28.691 pesetas.
 
 Epígrafe 849.3 Servicios de traducción y similares.
 
-Cuota de: 29.300 pesetas.
+Cuota de: 30.326 pesetas.
 
 Epígrafe 849.4 Servicios de custodia, seguridad y protección.
 
-Cuota de: 41.600 pesetas.
+Cuota de: 43.056 pesetas.
 
 Epígrafe 849.5 Servicios de recadería y reparto y manipulación de correspondencia.
 
-Cuota de: 32.500 pesetas.
+Cuota de: 33.638 pesetas.
 
 Epígrafe 849.6 Servicios de colocación y suministro de personal.
 
-Cuota de: 53.800 pesetas.
+Cuota de: 55.683 pesetas.
 
 Epígrafe 849.7 Servicios de gestión administrativa.
 
-Cuota de: 76.200 pesetas.
+Cuota de: 78.867 pesetas.
 
 Epígrafe 849.8. Multiservicios intensivos en personal.
 
 Cuota de:
 
-Cuota mínima municipal de: 1.000.000 de pesetas.
+Cuota mínima municipal de: 1.035.000 de pesetas.
 
-Cuota provincial de: 5.000.000 de pesetas.
+Cuota provincial de: 5.175.000 de pesetas.
 
-Cuota nacional de: 15.000.000 de pesetas.
+Cuota nacional de: 15.525.000 de pesetas.
 
 Nota: Este epígrafe comprende la prestación por un mismo sujeto pasivo de una pluralidad de servicios, consistente, fundamentalmente, en la aportacion del personal adecuado siempre que dichos servicios sean de los clasificados en las agrupaciones 84, 91, 92 y en los Grupos 973, 974, 979, 983 y 989, rúbricas todas ellas de la Sección 1.ª de las Tarifas. No comprende, sin embargo, aquellos supuestos que impliquen la explotación directa de servicios con base inmobiliaria o a través de elementos materiales, tales como vehículos de tracción mecánica, ferrocarriles, buques, aeronaves, máquinas recreativas, etc.
 
 Epígrafe 849.9 Otros servicios independientes n.c.o.p.
 
-Cuota de: 32.500 pesetas.
+Cuota de: 33.638 pesetas.
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
 > Se modifica el epígrafe 849.5 y se añade el 849.8 por el art. 75.1.34 y 35 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
 

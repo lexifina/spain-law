@@ -2,12 +2,16 @@
 
 ## Grupo 021. Directores coreográficos.
 
-Cuota de: 33.500 pesetas.
+Cuota de: 34.673 pesetas. (208,39 euros)
 
 ## Grupo 022. Bailarines.
 
-Cuota de: 21.000 pesetas.
+Cuota de: 21.735 pesetas. (130,63 euros)
 
 ## Grupo 029. Otras actividades relacionadas con el baile, n.c.o.p.
 
-Cuota de: 16.000 pesetas.
+Cuota de: 16.560 pesetas. (99,53 euros)
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+
+> Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.

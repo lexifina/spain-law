@@ -4,9 +4,9 @@
 
 Cuota de:
 
-Por cada obrero: 1.160 pesetas.
+Por cada obrero: 1.201 pesetas. (7,218155 euros)
 
-Por cada Kw: 870 pesetas.
+Por cada Kw: 901 pesetas. (5,415119 euros)
 
 Nota: Este grupo comprende la fabricación de contadores de gas, agua y otros líquidos (incluidos los contadores para surtidores de carburantes); aparatos de medida, control y regulación (reguladores, indicadores de nivel, densímetros, etc.); aparatos para la navegación y aeronáutica; la hidrología, la geofísica y meteorología; aparatos de laboratorio; balanzas de precisión; instrumentos de medida dimensional de precisión; aparatos e instrumentos para dibujantes, delineantes y pantógrafos; instrumentos de cálculo; material de enseñanza y demostración (maquetas de anatomía, etc.), así como la fabricación de sus piezas y accesorios.
 
@@ -34,9 +34,9 @@ Epígrafe 392.1 Fabricación de material médico-quirúrgico.
 
 Cuota de:
 
-Por cada obrero: 1.160 pesetas.
+Por cada obrero: 1.201 pesetas. (7,218155 euros)
 
-Por cada Kw: 870 pesetas.
+Por cada Kw: 901 pesetas. (5,415119 euros)
 
 Nota: Este epígrafe comprende la fabricación de material médico, quirúrgico, odontológico (no eléctrico ni oftalmológico), tales como aparatos no eléctricos de diagnóstico, instrumentos de esterilización, anestesia y reanimación; material y mobiliario quirúrgico, instrumentos especiales para odontología, aparatos para veterinaria, de mecanoterapia, masaje, psicotecnia, etc.; así como la fabricación de piezas y accesorios para este material.
 
@@ -44,9 +44,9 @@ Epígrafe 392.2 Fabricación de aparatos de prótesis y ortopedia.
 
 Cuota de:
 
-Por cada obrero: 1.160 pesetas.
+Por cada obrero: 1.201 pesetas. (7,218155 euros)
 
-Por cada Kw: 870 pesetas.
+Por cada Kw: 901 pesetas. (5,415119 euros)
 
 Nota: Este epígrafe comprende la fabricación de aparatos ortopédicos (corsés, elementos de sujeción) y de prótesis ocular, dental, auditiva; manos, brazos, piernas, etc., artificiales, así como artículos y aparatos para caso de fracturas (muletas, cabestrillos y otros aparatos para fracturas y luxaciones) y la fabricación de piezas y accesorios para estos aparatos.
 
@@ -56,9 +56,9 @@ Epígrafe 393.1 Instrumentos ópticos y material fotográfico y cinematográfico
 
 Cuota de:
 
-Por cada obrero: 1.160 pesetas.
+Por cada obrero: 1.201 pesetas. (7,218155 euros)
 
-Por cada Kw: 870 pesetas.
+Por cada Kw: 901 pesetas. (5,415119 euros)
 
 Nota: Este epígrafe comprende la fabricación de lentes, prismas, espejos, lentes de contacto, gafas (excepto de plástico), prismáticos, anteojos, instrumentos ópticos de precisión, instrumentos oftalmológicos, telescopios y otros aparatos de astronomía (excepto los radioastronómicos), microscopios; máquinas fotográficas, aparatos de flash, fotocopiadoras, tomavistas y otro material fotográfico (pantallas de proyección, filtros cromáticos, trípodes); proyectores y cámaras cinematográficas y otro material cinematográfico, así como la fabricación de piezas y accesorios para estos instrumentos y material.
 
@@ -66,17 +66,17 @@ Epígrafe 393.2 Fabricación de monturas para gafas (excepto las de plástico).
 
 Cuota de:
 
-Por cada obrero: 580 pesetas.
+Por cada obrero: 601 pesetas. (3,612083 euros)
 
-Por cada Kw: 500 pesetas.
+Por cada Kw: 518 pesetas. (3,113243 euros)
 
 ## Grupo 399. Fabricación de relojes y otros instrumentos n.c.o.p.
 
 Cuota de:
 
-Por cada obrero: 1.160 pesetas.
+Por cada obrero: 1.201 pesetas. (7,218155 euros)
 
-Por cada Kw: 870 pesetas.
+Por cada Kw: 901 pesetas. (5,415119 euros)
 
 Nota: Este grupo comprende la fabricación de relojes de pulsera, de bolsillo, de pared, de muelle, de pesas, de cuerda, eléctricos, cronómetros, relojes de fichas, fechadores, de vigilante, aparatos de relojería; mecanismos sincronizadores, etc., y la fabricación de otros instrumentos de precisión y similares no especificados en los grupos anteriores.
 
@@ -99,3 +99,7 @@ Epígrafe 399.7 Máquinas de reloj montadas.
 Epígrafe 399.8 Cajas de relojes.
 
 Epígrafe 399.9 Accesorios, partes y piezas sueltas de relojes y otros instrumentos n.c.o.p.
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+
+> Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.

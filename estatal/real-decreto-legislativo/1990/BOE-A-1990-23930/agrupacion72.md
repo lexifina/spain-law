@@ -8,11 +8,11 @@ Cuota:
 
 Cuota mínima municipal de:
 
-Por cada vehículo: 10.900 pesetas.
+Por cada vehículo: 11.282 pesetas. (67,806186 euros)
 
 Cuota provincial de:
 
-Por cada vehículo: 21.800 pesetas.
+Por cada vehículo: 22.563 pesetas. (135,606361 euros)
 
 Nota: Este epígrafe comprende el transporte urbano colectivo en metropolitano, autobús, tranvía, trolebús, etc.; así como los servicios regulares que se establecen para determinadas categorías de personas (obreros, escolares, pasajeros de compañías aéreas, etc.), y que implican la exclusión de otros viajeros.
 
@@ -22,7 +22,7 @@ Cuota:
 
 Cuota nacional de:
 
-Por cada vehículo: 12.000 pesetas.
+Por cada vehículo: 12.420 pesetas. (74,645703 euros)
 
 Nota: Este epígrafe comprende el transporte de viajeros en automóviles con taxímetros y otros automóviles de alquiler con conductor (taxis, gran turismo), coches de punto, etc.
 
@@ -32,19 +32,19 @@ Cuota:
 
 Cuota provincial de:
 
-– Por cada vehículo con capacidad hasta 20 viajeros: 8.800 pesetas.
+– Por cada vehículo con capacidad hasta 20 viajeros: 9.108 pesetas. (54,740182 euros)
 
-– Cuando excedan de 20 hasta 40 viajeros: 13.210 pesetas.
+– Cuando excedan de 20 hasta 40 viajeros: 13.673 pesetas. (82,176385 euros)
 
-– Cuando excedan de 40 viajeros: 18.170 pesetas.
+– Cuando excedan de 40 viajeros: 18.806 pesetas. (113,026336 euros)
 
 Cuota nacional de:
 
-– Por cada vehículo con capacidad hasta 20 viajeros: 18.525 pesetas.
+– Por cada vehículo con capacidad hasta 20 viajeros: 19.174 pesetas. (115,238061 euros)
 
-– Cuando excedan de 20 hasta 40 viajeros: 27.470 pesetas.
+– Cuando excedan de 20 hasta 40 viajeros: 28.432 pesetas. (170,879762 euros)
 
-– Cuando excedan de 40 viajeros: 38.150 pesetas.
+– Cuando excedan de 40 viajeros: 39.486 pesetas. (237,315640 euros)
 
 Notas:
 
@@ -62,57 +62,57 @@ Cuota:
 
 Cuota mínima municipal de:
 
-– Por cada vehículo con una capacidad de carga hasta una tonelada: 4.300 pesetas.
+– Por cada vehículo con una capacidad de carga hasta una tonelada: 4.451 pesetas. (26,751049 euros)
 
-– Cuando exceda de una tonelada hasta cuatro: 8.500 pesetas.
+– Cuando exceda de una tonelada hasta cuatro: 8.798 pesetas. (52,877045 euros)
 
-– Cuando exceda de cuatro toneladas hasta diez: 9.500 pesetas.
+– Cuando exceda de cuatro toneladas hasta diez: 9.833 pesetas. (59,097520 euros)
 
 – Cuando exceda de diez toneladas por cada vehículo:
 
-Hasta 10 vehículos: 10.750 pesetas.
+Hasta 10 vehículos: 11.127 pesetas. (66,874617 euros)
 
-Los 20 vehículos siguientes: 10.000 pesetas.
+Los 20 vehículos siguientes: 10.350 pesetas. (62,204753 euros)
 
-Los 30 vehículos siguientes: 9.250 pesetas.
+Los 30 vehículos siguientes: 9.574 pesetas. (57,540899 euros)
 
-Los restantes vehículos: 7.500 pesetas.
+Los restantes vehículos: 7.763 pesetas. (46,656570 euros)
 
 Cuota provincial de:
 
-– Por cada vehículo con una capacidad de carga hasta una tonelada: 10.000 pesetas.
+– Por cada vehículo con una capacidad de carga hasta una tonelada: 10.350 pesetas. (62,204753 euros)
 
-– Cuando exceda de una tonelada hasta cuatro: 17.000 pesetas.
+– Cuando exceda de una tonelada hasta cuatro: 17.595 pesetas. (105,748080 euros)
 
-– Cuando exceda de cuatro toneladas hasta diez: 19.000 pesetas.
+– Cuando exceda de cuatro toneladas hasta diez: 19.665 pesetas. (118,189030 euros)
 
 – Cuando exceda de diez toneladas por cada vehículo:
 
-Hasta 10 vehículos: 21.500 pesetas.
+Hasta 10 vehículos: 22.253 pesetas. (133,743224 euros)
 
-Los 20 vehículos siguientes: 20.000 pesetas.
+Los 20 vehículos siguientes: 20.700 pesetas. (124,409506 euros)
 
-Los 30 vehículos siguientes: 18.500 pesetas.
+Los 30 vehículos siguientes: 19.148 pesetas. (115,081798 euros)
 
-Los restantes vehículos: 15.000 pesetas.
+Los restantes vehículos: 15.525 pesetas. (93,307129 euros)
 
 Cuota nacional de:
 
-– Por cada vehículo con una capacidad de carga hasta una tonelada: 21.000 pesetas.
+– Por cada vehículo con una capacidad de carga hasta una tonelada: 21.735 pesetas. (130,629981 euros)
 
-– Cuando exceda de una tonelada hasta cuatro: 35.700 pesetas.
+– Cuando exceda de una tonelada hasta cuatro: 36.950 pesetas. (222,073973 euros)
 
-– Cuando exceda de cuatro toneladas hasta diez: 39.900 pesetas.
+– Cuando exceda de cuatro toneladas hasta diez: 41.297 pesetas. (248,199969 euros)
 
 – Cuando exceda de diez toneladas por cada vehículo:
 
-Hasta 10 vehículos: 45.150 pesetas.
+Hasta 10 vehículos: 46.731 pesetas. (280,858966 euros)
 
-Los 20 vehículos siguientes: 42.000 pesetas.
+Los 20 vehículos siguientes: 43.470 pesetas. (261,259962 euros)
 
-Los 30 vehículos siguientes: 38.850 pesetas.
+Los 30 vehículos siguientes: 40.210 pesetas. (241,666967 euros)
 
-Los restantes vehículos: 31.500 pesetas.
+Los restantes vehículos: 32.603 pesetas. (195,947976 euros)
 
 Notas comunes al grupo 722:
 
@@ -122,7 +122,7 @@ Notas comunes al grupo 722:
 
 ## Grupo 729. Otros transportes terrestres n.c.o.p.
 
-Cuota mínima municipal de: 95.000 pesetas.
+Cuota mínima municipal de: 98.325 pesetas. (590,95 euros)
 
 Nota: Este grupo comprende los transportes terrestres no incluidos en otra parte, tales como transporte por ferrocarril de cremallera, teleféricos, funiculares, etc.
 
@@ -133,5 +133,9 @@ Epígrafe 729.1 Servicios de transportes por ferrocarril de cremallera.
 Epígrafe 729.2 Servicios de transportes por teleféricos y funiculares.
 
 Epígrafe 729.3 Otros servicios de transportes terrestres n.c.o.p.
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+
+> Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
 
 > Se modifica la nota 2ª del epígrafe 721.3 y 722 por el art. 78.1.10 y 11 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

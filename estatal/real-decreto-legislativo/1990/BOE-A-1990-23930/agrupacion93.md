@@ -4,23 +4,23 @@
 
 Epígrafe 931.1 Guardería y enseñanza de educación infantil, exclusivamente.
 
-Cuota de: 29.900 pesetas.
+Cuota de: 30.947 pesetas.
 
 Epígrafe 931.2 Enseñanza de Educación General Básica, exclusivamente.
 
-Cuota de: 32.500 pesetas.
+Cuota de: 33.638 pesetas.
 
 Epígrafe 931.3 Enseñanza de bachillerato, formación profesional y orientación universitaria, exclusivamente.
 
-Cuota de: 34.880 pesetas.
+Cuota de: 36.101 pesetas.
 
 Epígrafe 931.4 Enseñanza de más de una modalidad de las recogidas en los epígrafes anteriores.
 
-Cuota de: 64.800 pesetas.
+Cuota de: 67.068 pesetas.
 
 Epígrafe 931.5 Enseñanza de Educación Superior.
 
-Cuota de: 38.570 pesetas.
+Cuota de: 39.920 pesetas.
 
 Notas comunes al Grupo 931:
 
@@ -34,21 +34,21 @@ Notas comunes al Grupo 931:
 
 Epígrafe 932.1 Enseñanza de formación y perfeccionamiento profesional, no superior.
 
-Cuota de: 29.900 pesetas.
+Cuota de: 30.947 pesetas.
 
 Epígrafe 932.2 Enseñanza de formación y perfeccionamiento profesional superior.
 
-Cuota de: 44.000 pesetas.
+Cuota de: 45.540 pesetas.
 
 ## Grupo 933. Otras actividades de enseñanza.
 
 Epígrafe 933.1 Enseñanza de conducción de vehículos terrestres, acuáticos, aeronáuticos, etc.
 
-Cuota de: 31.200 pesetas.
+Cuota de: 32.292 pesetas.
 
 Epígrafe 933.2. Promoción de cursos y estudios en el extranjero.
 
-Cuota de: 35.000 pesetas.
+Cuota de: 36.225 pesetas.
 
 Nota: Este epígrafe comprende la oferta, información y asesoramiento de los cursos y estudios que pueden realizarse en el extranjero, sin que, en ningún caso, autorice a la organización de los desplazamientos de los estudiantes.
 
@@ -56,25 +56,25 @@ Asimismo, este epígrafe comprende la información y asesoramiento en orden al r
 
 Epígrafe 933.9 Otras actividades de enseñanza, tales como idiomas, corte y confección, mecanografía, taquigrafía, preparación de exámenes y oposiciones y similares, n.c.o.p.
 
-Cuota de: 35.000 pesetas.
+Cuota de: 36.225 pesetas.
 
 ## Grupo 934. Enseñanza fuera de establecimiento permanente.
 
-Cuota nacional de: 30.000 pesetas.
+Cuota nacional de: 31.050 pesetas.
 
 ## Grupo 935. Colegios mayores y residencias de estudiantes.
 
 Epígrafe 935.1 Colegios mayores.
 
-Cuota de: 30.200 pesetas.
+Cuota de: 31.257 pesetas.
 
 Epígrafe 935.2 Residencia de estudiantes.
 
-Cuota de: 24.200 pesetas.
+Cuota de: 25.047 pesetas.
 
 ## Grupo 936. Investigación científica y técnica.
 
-Cuota de: 60.000 pesetas.
+Cuota de: 62.100 pesetas.
 
 A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce, según la clasificación contenida en los siguientes epígrafes:
 
@@ -89,6 +89,8 @@ Epígrafe 936.4 Investigaciones en ciencias sociales, humanidades y jurídicas.
 Epígrafe 936.5 Investigación técnica industrial.
 
 Epígrafe 936.9 Otras investigaciones científicas y técnicas, n.c.o.p.
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
 > Se añade el epígrafe 933.2 por el art. 72.1.6 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
