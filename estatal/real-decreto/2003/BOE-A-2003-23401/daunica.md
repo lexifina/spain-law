@@ -1,0 +1,7 @@
+## Disposición adicional única. Acceso a la jubilación anticipada.
+
+1. A los trabajadores minusválidos con un grado de minusvalía igual o superior al 65 por ciento que, por haber tenido la condición de mutualista en cualquier mutualidad de trabajadores por cuenta ajena en el día 1 de enero de 1967 o en otra fecha anterior, tengan derecho, de acuerdo con lo establecido en la disposición transitoria tercera.1.2.ª del texto refundido de la Ley General de la Seguridad Social, a causar la pensión de jubilación a partir de los 60 años, les serán de aplicación los coeficientes establecidos en el artículo 3 de este real decreto, a los efectos de determinar el coeficiente reductor de la cuantía de la pensión de jubilación que corresponda en cada caso, y se tendrá en cuenta, a todos los demás efectos, la edad real del trabajador.
+
+Las referencias contenidas al 1 de enero de 1967 se entenderán realizadas a la fecha que se determine en sus respectivas normas reguladoras, respecto de los regímenes o colectivos que contemplen otra fecha distinta, en orden a la posibilidad de anticipar la edad de jubilación.
+
+2. Igual regla será de aplicación a los trabajadores minusválidos con un grado de minusvalía igual o superior al 65 por ciento que deseen jubilarse anticipadamente, de acuerdo con lo previsto en el artículo 161.3 del texto refundido de la Ley General de la Seguridad Social, a partir de los 61 años de edad.
