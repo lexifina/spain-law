@@ -6,11 +6,13 @@ a) Los trabajadores por cuenta ajena que reúnan las condiciones que se señalan
 
 b) Los pensionistas del Régimen General y los que sin tal carácter estén en el goce de prestaciones periódicas del Régimen General, en los términos que se señalan en las disposiciones de aplicación y desarrollo del presente Decreto.
 
-Dos. Tendrán, asimismo, derecho a asistencia sanitaria por enfermedad común o accidente no laboral los familiares o asimilados, a cargo de las personas mencionadas en el número anterior, que a continuación se detallan.
+Dos. Tendrán, asimismo, derecho a asistencia sanitaria por enfermedad común o accidente no laboral los familiares o asimilados, a cargo de las personas mencionadas en el número anterior, que a continuación se detallan:
 
 a) Cónyuge.
 
-b) Los descendientes, hijos adoptivos y hermanos, todos ellos hasta que cumplan veintiséis años de edad, y los que, habiendo superado dicha edad padezcan una incapacidad permanente y absoluta que les inhabilite por completo para toda profesión y oficio. Los descendientes antes indicados podrán serlo de ambos cónyuges o de cualquiera de ellos. Excepcionalmente los acogidos de hecho quedarán asimilados, a estos efectos, a los familiares mencionados en el párrafo anterior, previo acuerdo, en cada caso, de la Dirección Provincial del Instituto Nacional de la Seguridad Social.
+b) Los descendientes, hijos adoptivos y hermanos. Los descendientes antes indicados podrán serlo de ambos cónyuges o de cualquiera de ellos.
+
+Excepcionalmente, los acogidos de hecho quedan asimilados, a estos efectos, a los familiares mencionados en el párrafo anterior, previo acuerdo, en cada caso, de la Dirección Provincial del Instituto Nacional de la Seguridad Social.
 
 c) Los ascendientes, cualquiera que sea su condición legal, o por adopción tanto del titular del derecho como de su cónyuge y los cónyuges de tales ascendientes por anteriores nupcias.
 
@@ -25,6 +27,8 @@ No obstante lo dispuesto en los párrafos anteriores, en caso de separación, co
 b) No realizar trabajo remunerado alguno ni percibir renta patrimonial ni pensión alguna superiores al doble del salario mínimo interprofesional de los trabajadores adultos.
 
 c) No tener derecho, por título distinto, a recibir asistencia sanitaria de la Seguridad Social en cualquiera de sus Regímenes, con una extensión y contenido análogos a los establecidos en el Régimen General.
+
+> Se modifica el apartado 2.b) por el art. 1 del Real Decreto 1682/1987, de 30 de diciembre. Ref. BOE-A-1987-28780.
 
 > Se modifica el apartado 2.b) por el art. 1 del Real Decreto 1377/1984, de 4 de julio. Ref. BOE-A-1984-16745.
 
