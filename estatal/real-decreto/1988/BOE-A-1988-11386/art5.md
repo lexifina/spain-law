@@ -12,4 +12,6 @@ Asimismo se integrarán en el Cuarto Militar los Ayudantes de Campo que en su d�
 
 – Un Gabinete.
 
-3. Tanto el Jefe del Cuarto como los demás Ayudantes de Campo de S.M. el Rey, al cesar en su cargo, conservarán el carácter de Ayudantes Honorarios.
+3. Tanto el Jefe del Cuarto Militar como los demás Ayudantes de Campo de Su Majestad el Rey y los Ayudantes de Campo de Su Alteza Real el Príncipe de Asturias, al cesar en su cargo, conservarán el carácter de Ayudantes Honorarios.
+
+> Se modifica el apartado 3 por el art. 1 del Real Decreto 1033/2001, de 21 de septiembre. Ref. BOE-A-2001-17894.
