@@ -1,0 +1,13 @@
+## Disposición transitoria tercera.
+
+1. Sin perjuicio de lo dispuesto en los artículos 11 y 12, así como en la disposición transitoria quinta, hasta el 30 de septiembre de 1985 el personal sanitario podrá compatibilizar dos puestos de trabajo en el sector público, si los viniera desempeñando con anterioridad al 1 de enero de 1983, o hubiera obtenido autorización expresa con posterioridad, siempre que no se produzca entre ellos coincidencia de horario y no fueran incompatibles al 1 de enero de 1963, si bien una remuneración lo será en concepto de sueldo y la otra como gratificación, a cuyo efecto deberán formular los afectados la oportuna opción en los términos que reglamentariamente se determinen.
+
+Dicha compatibilidad quedará anulada cuando, como consecuencia de reordenación asistencial y racionalización de funciones de cualquiera de los puestos, se aumente su horario hasta alcanzar la jornada ordinaria de las Administraciones Públicas o se establezca el régimen de jornada partida para quienes vinieren desarrollando su actividad en jornada continuada ordinaria, debiendo optar por uno de los puestos en el plazo de tres meses desde la efectividad de la modificación. Si lo hiciere por el puesto reordenado se le garantizará, por el período transitorio aludido, el importe total de retribuciones que viniera percibiendo por los dos puestos compatibilizados.
+
+2. Sin perjuicio asimismo de lo dispuesto en los artículos 11 y 12, a partir de 1 de octubre de 1985 quedarán anuladas todas las compatibilidades aludidas en el apartado anterior cuando con anterioridad uno de los puestos viniera desempeñándose en régimen de jornada ordinaria, debiendo optar por uno de ellos en el plazo de tres meses contado a partir de dicha fecha.
+
+También se producirá la citada anulación de compatibilidad cuando, con posterioridad a 1 de octubre de 1985 y en virtud de reordenación, uno de los puestos pasara a ser jornada ordinaria, debiéndose realizar la misma opción en el plazo de tres meses a partir de la efectividad de aquélla, siendo de aplicación desde la fecha citada en primer lugar lo dispuesto en el artículo 13.
+
+3. Realizada cualquiera de las opciones indicadas en esta disposición transitoria se pasará automáticamente en el otro puesto a la situación de excedencia.
+
+A falta de opción en los plazos señalados se entenderá que opta por el puesto de jornada ordinaria, pasando a la situación de excedencia en el otro puesto. Si ambos fueran de jornada ordinaria, por el grupo superior, y si lo fueran del mismo, por el de mayor nivel. En cuanto al personal laboral y al no funcionario de la Seguridad Social se entenderá referida la opción al puesto dotado con mayor retribución básica.

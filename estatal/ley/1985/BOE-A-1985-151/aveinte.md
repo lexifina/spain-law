@@ -1,0 +1,7 @@
+## Artículo veinte.
+
+1. El incumplimiento de lo dispuesto en los artículos anteriores será sancionado conforme al régimen disciplinario de aplicación, sin perjuicio de la ejecutividad de la incompatibilidad en que se haya incurrido.
+
+2. El ejercicio de cualquier actividad compatible no servirá de excusa al deber de residencia, a la asistencia al lugar de trabajo que requiera su puesto o cargo, ni al atraso, negligencia o descuido en el desempeño de los mismos. Las correspondientes faltas serán calificadas y sancionadas conforme a las normas que se contengan en el régimen disciplinario aplicable, quedando automáticamente revocada la autorización o reconocimiento de compatibilidad si en la resolución correspondiente se califica de falta grave o muy grave.
+
+3. Los órganos a los que competa la dirección, inspección o jefatura de los diversos servicios cuidarán bajo su responsabilidad de prevenir o corregir, en su caso, las incompatibilidades en que pueda incurrir el personal. Corresponde a la Inspección General de Servicios de la Administración Pública, además de su posible intervención directa, la coordinación e impulso de la actuación de los órganos de inspección mencionados en materia de incompatibilidades, dentro del ámbito de la Administración del Estado, sin perjuicio de una recíproca y adecuada colaboración con las inspecciones o unidades de personal correspondiente de las Comunidades Autónomas y de las Corporaciones locales.
