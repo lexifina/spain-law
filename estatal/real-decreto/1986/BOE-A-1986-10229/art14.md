@@ -1,0 +1,3 @@
+## Art. 14. Acceso a la Asamblea General, por el grupo de Corporaciones Locales, de los empleados de las Cajas de Ahorros.
+
+A efectos de lo establecido en el apanado dos del artículo seis de la Ley 31/1985, de 2 de agosto, para que un empleado de la Caja de Ahorros acceda a la Asamblea General por el grupo de Corporaciones Locales, la propuesta de nombramiento excepcional deberá ir acompañada de informe razonado que justifique la adopción de tal medida. Dicha propuesta se elevará a través de la Caja de Ahorros al Ministerio de Economía y Hacienda o Comunidad Autónoma, según proceda, que apreciará tal circunstancia.
