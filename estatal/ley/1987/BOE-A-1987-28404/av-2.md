@@ -72,7 +72,7 @@ Sección 17. Ministerio de Obras Públicas y Urbanismo.
 | --- | --- | --- | --- |
 | 1989 | 1990 | 1991 |
 | 512.A | Gestión e infraestructura de recursos hidráulicos. | 52.293.502 | 54.104.132 | 53.147.810 | 159.545.444 |
-| 513.D | Creación de infraestructura de carreteras. | 109.238.300 | 111.434.900 | 125.079.800 | 345.753.000 |
+| 513.D | Creación de infraestructura de carreteras. | 243.485.500 | 290.352.600 | 213.606.500 | 747.444.600 |
 
 Sección 18. Ministerio de Educación y Ciencia
 
@@ -86,3 +86,5 @@ Programa: 541.A. Investigación Científica.
 | --- | --- | --- | --- |
 | 1989 | 1990 |
 | 88.18.202.0001 | Construcción de un buque oceanográfico de carácter polar. | 4.441.600 | 3.901.500 | 8.343.100 |
+
+> Se modifica la Sección 17 por el art. 3 del Real Decreto-ley 3/1988, de 3 de junio. Ref. BOE-A-1988-13569
