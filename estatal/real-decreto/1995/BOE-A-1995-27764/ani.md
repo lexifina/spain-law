@@ -97,12 +97,12 @@
 | – Fructosa (si se añade) |
 | – Contenido de ácidos grasos esenciales (si se añaden) |
 | – Fuente(s) de ácidos grasos de cadena media y corta (si se añaden) |
-| Ayuda a la función hepática en caso de insuficiencia hepática crónica. | – Proteínas de alta calidad, contenido moderado de proteínas y alto de ácidos grasos esenciales y de hidratos de carbono muy digestibles. | Perros. | – Fuente(s) de proteínas | Inicialmente hasta 6 meses. | Indíquese en el envase, recipiente o etiqueta: «Se recomienda consultar a un veterinario antes de utilizarlo o de prolongar su período de utilización.» |
+| Ayuda a la función hepática en caso de insuficiencia hepática crónica. | –Proteínas de alta calidad, contenido moderado de proteínas y alto de ácidos grasos esenciales y de hidratos de carbono muy digestibles. | Perros. | – Fuente(s) de proteínas | Inicialmente hasta 6 meses. | Indíquese en el envase, recipiente o etiqueta: «Se recomienda consultar a un veterinario antes de utilizarlo o de prolongar su período de utilización.» Indíquese en el modo de empleo: «Los animales deberán tener acceso permanente al agua». |
 | – Contenido de ácidos grasos esenciales. |
 | – Hidratos de carbono muy digestibles, incluido el tratamiento necesario cuando corresponda. |
 | – Sodio. |
 | – Cobre total. |
-| Ayuda a la función hepática en caso de insuficiencia hepática crónica. | – Proteínas de alta calidad, contenido moderado de proteínas y alto de ácidos grasos esenciales | Gatos | – Fuente(s) de proteínas. | Inicialmente hasta 6 meses | IIndíquese en el envase, recipiente o etiqueta: «Se recomienda consultar a un veterinario antes de utilizarlo o de prolongar su período de utilización.» |
+| Ayuda a la función hepática en caso de insuficiencia hepática crónica. | – Proteínas de alta calidad, contenido moderado de proteínas y alto de ácidos grasos esenciales | Gatos | – Fuente(s) de proteínas. | Inicialmente hasta 6 meses | IIndíquese en el envase, recipiente o etiqueta: «Se recomienda consultar a un veterinario antes de utilizarlo o de prolongar su período de utilización.» Indíquese en el modo de empleo: «Los animales deberán tener acceso permanente al agua». |
 | – Contenido de ácidos grasos esenciales. |
 | – Sodio. |
 | – Cobre total |
@@ -208,3 +208,5 @@
 (11) Indíquese la categoría de rumiantes de que se trate.
 
 (12) En el caso de los alimentos cuyo destino sea específico de los animales muy viejos (Ingredientes fáciles de ingerir), se añadirá una referencia a los «animales viejos» en la indicación de la especie o categoría de animales.
+
+> Se modifica la Parte B por el art. único y Anexo de la Orden APA/402/2002, de 20 de febrero. Ref. BOE-A-2002-3982.
