@@ -1,0 +1,11 @@
+## Norma 4. Forma y horario de comunicación de las operaciones bursátiles especiales
+
+Las operaciones realizadas al amparo de lo previsto en los artículos 1.º, 7.º y 8.º de la Orden del Ministerio de Economía y Hacienda de 5 de diciembre de 1991, habrán de ser comunicadas por el miembro que hubiera participado o mediado en las mismas, a los órganos de supervisión designados por las Sociedades Rectoras de las Bolsas de Valores o, en su caso, por la Sociedad de Bolsas, el día en que esa operación tenga lugar.
+
+Las comunicaciones se realizarán por escrito o mediante fax, cualquiera que sea el sistema de contratación utilizado, y en ellas se indicarán los siguientes datos: denominación del valor, número de títulos, precio, miembro del mercado y carácter de su intervención, y fecha de la operación; además, se acompañará sucinta justificación de la misma cuando ésta se encuentre comprendida en alguno de los supuestos previamente autorizados de conformidad con los artículos 7.º y 8.º de la Orden de 5 de diciembre de 1991. Sin perjuicio de la forma anterior establecida con carácter general, las Sociedades Rectoras o, en su caso, la Sociedad de Bolsas, en función de los medios técnicos de que dispongan en cada momento, podrán sustituir el sistema de comunicación anterior por otro que se considere más idóneo, previa autorización de la Comisión Nacional del Mercado de Valores. Las Sociedades Rectoras y la Sociedad de Bolsas, en el ejercicio de sus funciones, podrán establecer modelos normalizados a través de los cuales realizar las comunicaciones previstas en esta norma, así como ampliar los datos identificadores de las operaciones, lo que será comunicado a la Comisión Nacional del Mercado de Valores.
+
+El horario para efectuar la comunicación de las operaciones bursátiles especiales será el siguiente:
+
+Para los valores negociados en el sistema de viva voz en corros y en otros sistemas de contratación electrónicos distintos del Sistema de Interconexión Bursátil, entre el momento de finalización del horario de contratación del valor a que se refieran y las diecisiete horas de ese mismo día.
+
+Para valores negociados en el Sistema de Interconexión Bursátil, entre las diecisiete y las veinte horas de ese mismo día.
