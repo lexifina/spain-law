@@ -1,34 +1,12 @@
 ## Tercero.
 
-Uno. La Comisión estará presidida por el General Jefe de la División de Operaciones del Estado Mayor del Aire, siendo Vicepresidente el Secretario general Técnico del Ministerio de Transportes y Comunicaciones.
+Uno. La Comisión estará formada por un Presidente, un Vicepresidente, ocho Vocales, un Secretario y un Vicesecretario.
 
-Serán Vocales de la Comisión:
+a) Los cargos de Presidente y Vicepresidente serán ejercidos, alternativa y respectivamente, por representantes del Ministerio de Defensa –Ejército del Aire– y Transportes, Turismo y Comunicaciones, con categoría de Director general o equivalente. La rotación de estos cargos se hará por años naturales.
 
-a) En representación del Ministerio de Defensa:
+b) Los Vocales serán ocho, cuatro de ellos designados por el Ministerio de Defensa –Ejército del Aire– y los otros cuatro por el de Transportes, Turismo y Comunicaciones.
 
-Del Estado Mayor del Aire.
-
-El Jefe de la Sección de Espacio Aéreo.
-
-El Jefa de la Sección de Comunicaciones y Electrónica.
-
-Un representante de la División de Planes.
-
-Del Mando Aéreo de Combate (MACOM).
-
-El Jefe militar de Control y Circulación Aérea .
-
-b) En representación del Ministerio de Transportes y Comunicaciones:
-
-El Director general de Transporte Aéreo.
-
-El Director general de Navegación Aérea.
-
-El Director general del Organismos autónomo «Aeropuertos Nacionales.
-
-El Secretario general de la SAC.
-
-El Secretario será desigado de común acuerdo por el Presidente y Vicepresidente de la Comisión, pudiendo recaer su nombramiento en persona que no forme parte de la Comisión, y tendrá voz, pero no voto.
+c) Los cargos de Secretario y Vicesecretario serán designados, de común acuerdo, por el Presidente y el Vicepresidente entre personas pertenecientes a sus respectivos Ministerios. Alternarán en sus funciones en correspondencia con el Presidente y el Vicepresidente y tendrán voz pero no voto.
 
 Dos. Los Vocales que no puedan asistir a las reuniones por causas justificadas serán sustituidos por quien desempeñe su cargo accidentalmente
 
@@ -42,6 +20,18 @@ Seis. Las convocatorias para las reuniones se cursarán por el Secretario con la
 
 Siete. El Presidente y el Vicepresidente podrán solicitar de los diferentes Organismos de su respectivo Departamento cualquier informe o dato necesario para el trabajo de la Comisión.
 
-Ocho. Para el estudio detallado de los asuntos que debe tratar la Comisión podrá constituir las . Ponencia de trabajo permanentes o eventuales que considere necesarias, siendo designados los miembros de las mismas por el Presidente y Vicepresidente, respectivamente, en igual número por cada Departamento.
+Ocho. Para el estudio detallado de los asuntos a tratar por la Comisión funcionarán, con carácter permanente, las ponencias de trabajo siguientes:
+
+Navegación aérea.
+
+Aeródromos.
+
+Servidumbre.
+
+Podrán, asimismo, constituirse otras ponencias, con carácter permanente o eventual, por acuerdo de la Comisión. Cada ponencia permanente estará formada por un Presidente y ocho Vocales, cuatro por cada Ministerio. El Presidente de cada ponencia, designado por el Presidente y el Vicepresidente de la Comisión, habrá de ser uno de los Vocales de la misma.
+
+Las ponencias elevarán informe a la Comisión sobre los asuntos tratados, bien de conformidad o expresando las discrepancias habidas.
 
 Nueve. Las actas reflejarán fielmente lo tratado y los acuerdos adoptados, recogiéndose en forma de voto particular la opinión discrepante de aquellos Vocales, incluido Presidente y Vicepresidente, que deseen hacerla constar.
+
+> Se modifican los apartados 1 y 8 por el punto 1 de la Orden de 11 de febrero de 1985. Ref. BOE-A-1985-2693.
