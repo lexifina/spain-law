@@ -1,0 +1,3 @@
+## Art. 17. Variación de rentas o ingresos.
+
+En el supuesto de que el beneficiario viera incrementados o minorados las rentas o ingresos, inicialmente previstos, de los que, por su estimación en cómputo anual, de enero a diciembre, pudiera derivarse la modificación de la cuantía de la pensión que viniera percibiendo o la extinción del derecho a la misma, el Organismo gestor, sin perjuicio de la regularización que proceda una vez concluido el ejercicio económico de que se trate, revisará el importe de la pensión o interrumpirá el pago de ésta, con efectos del día primero del mes siguiente a aquel en que se hubiera producido la variación correspondiente.
