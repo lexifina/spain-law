@@ -1,0 +1,7 @@
+El Reglamento de Explosivos, aprobado por Real Decreto 230/1998, de 16 de febrero, en el Anexo I de la Instrucción Técnica Complementaria número 14 (Normas para la recarga de munición por particulares), establece la obligación de emplear maquinaria para la cartuchería no automática para propio consumo, y que reúnan los requisitos necesarios para su puesta en el mercado.
+
+Dada la falta normativa específica para los ensayos de certificación de la maquinaría de recarga de cartuchería, se hace aconsejable la aprobación, con informe favorable de la Comisión Interministerial Permanente de Armas y Explosivos, de un Criterio Técnico, realizado en colaboración con el Banco Oficial de Pruebas de Armas de Fuego de Éibar (Guipúzcoa), para el desarrollo, de acuerdo con lo establecido en el artículo 120.3, del punto 5 de la Instrucción Técnica Complementaria número 14 del Reglamento de Explosivos, relativo al reconocimiento de la aptitud en seguridad de las máquinas para la recarga de cartuchos por particulares.
+
+Esta Dirección General resuelve:
+
+Primero.-Aprobar el Criterio Técnico para el desarrollo del punto 5 de la Instrucción Técnica Complementaria número 14 del Reglamento de Explosivos, relativo al reconocimiento de la aptitud en seguridad de las máquinas para la recarga de cartuchos por particulares, para propio consumo, que figura como anexo de la presente Resolución, el cual será de aplicación a partir del día siguiente del de su publicación en el Boletín Oficial del Estado.
