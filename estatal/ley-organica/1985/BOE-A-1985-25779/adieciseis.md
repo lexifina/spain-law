@@ -1,0 +1,3 @@
+## Artículo dieciséis.
+
+A los efectos de este Código se entenderá que son actos de servicio de armas todos los que requieren para su ejecución el uso, manejo o empleo de armas, cualquiera que sea su naturaleza, conforme a las disposiciones generales aplicables o a las órdenes particulares debidamente cursadas al respecto, así como los actos preparatorios de los mismos, ya sean individuales o colectivos, desde su iniciación con el llamamiento a prestarlo hasta su total terminación, y cuantos actos anteriores o posteriores al propio servicio de armas se relacionen con éste o afecten a su ejecución. Asimismo, tendrán esta consideración los actos relacionados de forma directa con la navegación de buques de guerra o el vuelo de aeronaves militares.

@@ -1,0 +1,5 @@
+## Artículo ciento nueve.
+
+El militar que, frente al enemigo; rebeldes o sediciosos realizare actos demostrativos de cobardía susceptibles a infundir pánico o producir grave desorden entre la propia fuerza, será castigado con la pena de diez a veinticinco años de prisión, pudiendo imponerse la de muerte en tiempo de guerra.
+
+Cuando las conductas previstas en el párrafo anterior tuvieren lugar en tiempo de guerra o circunstancias criticas, fuera de las situaciones expresadas, se impondrá la pena de prisión de seis meses a seis años y si el culpable ejerciere mando, la de tres a diez años.

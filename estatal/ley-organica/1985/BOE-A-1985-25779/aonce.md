@@ -1,0 +1,3 @@
+## Artículo once.
+
+A los efectos de este Código se entenderá que es centinela el militar que, en acto de servicio de armas y cumpliendo una consigna guarda un puesto confiado a su responsabilidad. Tienen además dicha consideración los militares que sean: Componentes de las patrullas de las guardias de seguridad en el ejercicio de su cometido; operadores de las redes militares de transmisiones o comunicaciones durante el desempeño de sus funciones; operadores de sistemas electrónicos de vigilancia y control de los espacios terrestres, marítimos y aéreos confiados a los Centros o estaciones en que sirven, durante el desempeño de sus cometidos u observadores visuales de los mismos espacios.
