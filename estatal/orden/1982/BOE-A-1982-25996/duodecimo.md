@@ -1,0 +1,3 @@
+## Duodécimo.
+
+El incumplimiento por parte del taller o instalador autorizado de las obligaciones que contrae con la Administración en aplicación de la presente Orden, dará lugar a la instrucción del correspondiente expediente, correspondiendo su resolución al Centro directivo del Ministerio de Industria y Energía competente en materia de seguridad industrial, que en caso de negligencia o mala fe o de reiteración en el incumplimiento de sus obligaciones acordará dejar sin efecto la autorización otorgada y la cancelación de la inscripción. Con carácter cautelar podrá acordarse la suspensión de la autorización durante la tramitación del expediente cuando exista negligencia grave o mala fe.
