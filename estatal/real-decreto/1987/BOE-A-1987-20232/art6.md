@@ -14,8 +14,6 @@ Acidez total: Comprendida entre 3,5 y 10 gramos por litro, expresada en ácido t
 
 Alcohol: Inferior a 1º.
 
-Glicerina: Inferior a 0,5 gramos por litro.
-
 Azúcares totales: Contenido superior a 140 gramos por litro expresado en glucosa.
 
 Relación glucosa/fructosa: Comprendida entre 0,95 y 1,05.
@@ -39,3 +37,5 @@ Plomo: Contenido inferior a 0,5 partes por millón.
 Cobre: Contenido inferior a 5 partes por millón.
 
 Zinc: Contenido inferior a 5 partes por millón.
+
+> Se modifica por el art. único del Real Decreto 1071/1991, de 14 de junio. Ref. BOE-A-1991-17914
