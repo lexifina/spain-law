@@ -1,0 +1,7 @@
+## Disposición adicional cuarta. Particularidades en relación con el Régimen Especial de los Trabajadores del Mar.
+
+1. En el ámbito de aplicación del Régimen Especial de los Trabajadores del Mar, el correspondiente procedimiento se iniciará por el Instituto Social de la Marina, de oficio o a solicitud de los interesados o de las entidades colaboradoras de la Seguridad Social. A tal fin, dicho Instituto, de conformidad con los criterios contenidos en la presente Orden, elaborará y presentará ante la Dirección Provincial competente del Instituto Nacional de la Seguridad Social un expediente previo, en el que se integrará cuanta documentación, en atención a la naturaleza del expediente de que se trate, resulte precisa para la actuación del equipo de valoración de incapacidades.
+
+2. Una vez emitido el dictamen-propuesta por el equipo de valoración de incapacidades, en el que el médico inspector propuesto por el Instituto Social de la Marina auxiliará al ponente, será elevado, junto con el resto del expediente, a la Dirección Provincial de dicho Instituto, en la que se efectuarán los correspondientes trámites de audiencia y de alegaciones de los interesados que, en su caso, darán lugar al reexamen de lo actuado, en la forma que se determina en el artículo 12 de esta Orden.
+
+3. Concluida la instrucción del expediente, el Director provincial del Instituto Social de la Marina adoptará la resolución que proceda, de acuerdo con lo establecido en el artículo 13 de esta Orden, y la notificará a las partes interesadas.
