@@ -25,3 +25,15 @@ d) Los actos de cobro y pago entre residentes y no residentes.
 e) La importación y exportación de oro amonedado o en barras, billetes de Banco, medios de pago de cualquier clase y, en general, títulos representativos de derechos, estén cifrados en pesetas o en moneda extranjera.
 
 f) La tenencia en territorio español por parte de residentes o no residentes de medios de pago de cualquier clase y, en general de títulos representativos de derechos cifrados en moneda extranjera, o en pesetas, por parte de no residentes; la tenencia en el extranjero por parte de residentes de cualesquiera de tales medios de pago y títulos, y la venta, a través del mercado español de divisas, de aquellos que los residentes posean o adquieran.
+
+Tres. De conformidad con lo dispuesto en los artículos 57.2 y 60.1 del Tratado Constitutivo de la Comunidad Europea, se entenderá prohibida o limitada, en los términos que señalen las normas comunitarias, la realización de determinados movimientos de capitales y sus correspondientes operaciones de cobro, pago o transferencia respecto a terceros países en relación con los cuales se hayan dictado Reglamentos comunitarios adoptando las medidas que correspondan.
+
+Igualmente, y en virtud de lo establecido en el artículo 59 del Tratado Constitutivo de la Comunidad Europea, se entenderá prohibida o limitada, en los términos que señalen las normas comunitarias, la realización de determinados movimientos de capitales y sus correspondientes operaciones de cobro, pago o transferencia respecto de terceros países en relación con los cuales el Consejo de la Unión Europea haya adoptado medidas de salvaguardia.
+
+Cuando, de acuerdo con lo dispuesto en los dos párrafos precedentes, las normas comunitarias reconozcan poderes a los Estados miembros o les impongan la adopción de medidas indispensables, necesarias para la correcta aplicación de dichas normas, el Gobierno, mediante Acuerdo del Consejo de Ministros, establecerá las especificaciones ulteriores que resulten necesarias, incluido el procedimiento de autorización aplicable, si procediera.
+
+De conformidad con lo establecido en el artículo 60.2 del Tratado Constitutivo de la Comunidad Europea, el Gobierno, mediante Acuerdo del Consejo de Ministros, a propuesta del Ministro de Economía y Hacienda, podrá, en tanto no se hayan adoptado las medidas a que se refiere el artículo 60.1 del citado Tratado, por razones políticas graves y por motivos de urgencia, tomar medidas unilaterales contra un tercer país en lo relativo a los movimientos de capitales y los pagos.
+
+Cuatro. El Gobierno, mediante Acuerdo del Consejo de Ministros, a propuesta del Ministro de Economía y Hacienda, podrá prohibir o limitar la realización de determinados movimientos de capitales y sus correspondientes operaciones de cobro, pago o transferencia respecto a un Estado o grupo de Estados en aplicación de medidas adoptadas por organismos internacionales, distintos de la Comunidad Europea, de los que España sea miembro.
+
+> Se añaden los apartados 3 y 4 por la disposición adicional 4.1 y 2 de la Ley 41/1999, de 12 de noviembre. Ref. BOE-A-1999-21980.

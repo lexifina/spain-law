@@ -1,0 +1,3 @@
+## Disposición adicional tercera.
+
+El plazo para resolver y notificar la resolución en el procedimiento sancionador aplicable a los sujetos que actúan en los mercados financieros, regulado por el Real Decreto 2119/1993, de 3 de diciembre, así como en los procedimientos sancionadores derivados de la comisión de las infracciones previstas en la Ley 19/1998, de 12 de julio, de Auditoría de Cuentas, será de un año, ampliable conforme a lo previsto en los artículos 42.6 y 49 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
