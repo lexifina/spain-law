@@ -20,13 +20,12 @@ Los aditivos que se indican a continuación deberán responder a las normas de i
 | Harinas de leguminosas (habas, soja, guisantes, lentejas y judías) | 30 gramos/kilogramo de harina. |
 | Grasas comestibles | 10 gramos/kilogramo de harina. |
 
-1.1.2 Complementos panarios.
+1.1.2 1.1.2 Complementos panarios:
 
 | Mejorantes tecnológicos | Número | Dosis máxima de uso |
 | --- | --- | --- |
-| Ácido L-ascórbico | E-300 | 20 g/100 kg de harina. |
-| Ortofosfato monocálcico | E-341 (i) | 250 g/100 Kg de harina, aislados o en conjunto. |
-| Ortofosfato bicálcico | E-341 (ii) | 250 g/100 Kg de harina, aislados o en conjunto. |
+| Ácido L-ascórbico. L-ascorbato sódico. L-ascorbato cálcico. | E-300 E-301 E-302 | 20 gramos por 100 kilogramos de harina, aislados o en conjunto expresados en ácido L-ascórbico. |
+| Ortofosfato monocálcico. Ortofosfato bicálcico. | E-341 (i) E-341 (ii) | 250 gramos por 100 kilogramos de harina, aislados o en conjunto. |
 
 1.2 Aditivos:
 
@@ -55,11 +54,12 @@ Los aditivos que se indican a continuación deberán responder a las normas de i
 | – tartárico | E-472 d) |
 | – monoacetil tartárico y diacetil tartárico | E-472 e) |
 
-1.2.3 Antiapelmazantes:
+1.2.3 Antiapelmazantes para preparados comerciales de los aditivos antes citados:
 
 |  | Número | Dosis máxima de uso |
 | --- | --- | --- |
-| Carbonato cálcico | E-170 | B. P. F. |
+| Carbonato cálcico. | E-170 | B.P.F. |
+| Fosfato tricálcico (fosfato tribásico del calcio). | H-7.102 | B.P.F. |
 
 1.2.4 Excipientes para preparados comerciales de los aditivos antes citados:
 
@@ -74,6 +74,11 @@ Almidones comestibles crudos (se exceptúan los modificados químicamente).
 Aceites comestibles.
 
 Cera de abejas.
+
+1.3.2 Coadyuvantes de fermentación:
+
+| Fermentos amilolíticos (amilasas) y fungal-amilasas. | Cantidad suficiente para obtener el efecto deseado. |
+| --- | --- |
 
 2. PANES ESPECIALES
 
@@ -125,7 +130,7 @@ Los relacionados en el apartado 1.2.1, y con las mismas dosis máximas de uso, a
 | Alginato potásico | E-402 |
 | Alginato amónico | E-403 |
 | Alginato cálcico | E-404 |
-| Alginato de propilenglicol (alginatol de 1-2 propanodiol) | E-405 |
+| Alginato de Propilenglicol (alginato de 1-2 propano diol) | E-405 |
 | Harina de granos de algarroba | E-410 |
 | Harina de granos de guar | E-412 |
 | Mono y diglicéridos de los ácidos grasos alimenticios | E-471 | 3 g/Kg de harina, aislados o en conjunto. |
@@ -207,7 +212,7 @@ Almidones comestibles.
 
 | Antioxidantes | Número | Dosis máxima de uso |
 | --- | --- | --- |
-| Acido palmitil-6-L-ascórbico (palmitato de ascorbilo) | E-304 | 500 pp. |
+| Acido palmitil-6-L-ascórbico (palmitato de ascorbilo) | E-304 | 500 ppm. |
 | Alfa-tocoferol | E-307 | B. P. F. |
 | Gamma - tocoferol | E-308 |
 | Galato de propilo | E-310 | 100 ppm, aislados o en conjunto |
@@ -232,5 +237,9 @@ Los antioxidantes autorizados no pueden ser utilizados en los obradores de panad
 La incorporación de estos productos a las harinas debe hacerse en instalaciones adecuadas que garanticen una perfecta homogeneización de los productos en ellas.
 
 2.3.2 Desmoldeadores (para moldes, placas y maquinaria de panadería): Los incluidos en el apartado 1.3.1.
+
+> Se modifican los apartados 1.1.2, 1.2.3 y 1.3 por el apartado 1 de la Resolución de 27 de julio de 1984. Ref. BOE-A-1984-17797.
+
+> Redactado el apartado 1.1.2 conforme a la corrección de erratas publicada en BOE núm. 250, de 18 de octubre de 1984. Ref. BOE-A-1984-23507.
 
 > Redactados los apartados 2.1, 2.2.2 y 2.2.9 conforme a la corrección de errores publicada en BOE núm. 281, de 23 de noviembre de 1984. Ref. BOE-A-1984-25800.
