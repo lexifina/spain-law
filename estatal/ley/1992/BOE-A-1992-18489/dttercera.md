@@ -1,0 +1,3 @@
+## Disposición transitoria tercera.
+
+Una vez transcurrido el plazo de dos años a partir de la entrada en vigor de las disposiciones de desarrollo reglamentario relativas a la habilitación para el ejercicio de la profesión de vigilante de seguridad, el personal que, bajo las denominaciones de guardas de seguridad, controladores u otras de análoga significación, hubiera venido desempañando con anterioridad a dicha promulgación funciones de vigilancia y controles en el interior de inmuebles no podrá realizar ninguna de las funciones enumeradas en el artículo 11 sin haber obtenido previamente la habilitación regulada en el artículo 10 de la presente Ley.
