@@ -1,0 +1,7 @@
+Como consecuencia de la adhesión de España a las Comunidades Europeas, y recogiendo los principios de la Directiva 71/307/CEE, del Consejo, de 26 de julio de 1971, se publicó por el Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno, el Real Decreto 928/1987, de 5 de junio, relativo al etiquetado de composición de los productos textiles.
+
+Siendo necesario para el control del cumplimiento del Real Decreto anteriormente mencionado, establecer unos métodos de análisis cuantitativos de mezclas binarias y ternarias de fibras textiles, adaptando así nuestra normativa a las exigencias de la legislación comunitaria, resulta necesario declarar oficiales los métodos establecidos por la Comunidad Europea mediante las Directivas 72/276/CEE y 73/44/CEE del Consejo, de 17 de julio de 1972 y de 26 de febrero de 1973, respectivamente, y sus posteriores modificaciones, con objeto de que la determinación de la composición en fibras de los productos textiles, tanto en lo que se refiere al tratamiento previo de la muestra como a su análisis cuantitativo, se efectúe a través de métodos uniformes.
+
+En su virtud, oída la Comisión Interministerial para la Ordenación Alimentaria, las Asociaciones de Consumidores y los Sectores Industriales afectados, a propuesta de los Ministros de Economía y Hacienda, de Industria y Energía y de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 2 de junio de 1989,
+
+DISPONGO:
