@@ -4,4 +4,6 @@ El material e instrumental médico-sanitanio, así como el que, como consecuenci
 
 a) Las especialidades y productos farmacéuticos, incluidos, en su caso, los accesorios unidos o incluidos a los mismos para su utilización o aplicación, continuarán sujetos a su normativa propia.
 
-b) Los reactivos específicos para análisis y diagnósticos clínicos se sujetarán a las normas y controles que, en su caso, establezca la Subsecretaría de la Salud, a propuesta de la Dirección General de Ordenación Farmacéutica.
+b) (Derogada)
+
+> Se deroga la letra b) por la disposición derogatoria única.1 del Real Decreto 1662/2000, de 29 de septiembre. Ref. BOE-A-2000-17597.
