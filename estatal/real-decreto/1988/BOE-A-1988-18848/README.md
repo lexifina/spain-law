@@ -89,6 +89,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Segunda](segunda.md)
 - [Tercera](tercera.md)
 - [DISPOSICIÓN ADICIONAL](da.md)
+- [DISPOSICIÓN ADICIONAL SEGUNDA](dasegunda.md)
 - [ANEXO I](ani.md)
 - [ANEXO II](anii.md)
 - [ANEXO III](aniii.md)
