@@ -1,0 +1,3 @@
+## Tercero.
+
+La presente Orden entrará en vigor, en todo el territorio nacional, al año de su publicación en el «Boletín Oficial del Estado», excepto si en las normas específicas se indica la contrario. Con respecto a la adecuación de las industrias a las nuevas exigencias tendrá el carácter de norma recomendada. Asimismo, para el agotamiento de las existencias adquiridas con anterioridad a la entrada en vigor de esta norma se da un plazo de dos años, a partir de dicha publicación en el «Boletín Oficial del Estado». A estos efectos, las industrias elaboradoras adoptarán todas las medidas oportunas para que todos los productos cárnicos tratados por el calor que comercialicen cumplan con las requisitos de la norma desde el momento de su entrada en vigor.
