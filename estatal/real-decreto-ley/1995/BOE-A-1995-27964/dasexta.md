@@ -48,4 +48,6 @@ Seis. Operaciones financieras.
 
 Se autoriza al Instituto de Crédito Oficial para destinar parte de su patrimonio hasta un importe de 351.968 millones de pesetas, durante los ejercicios de 1996 y 1997, a cancelar la deuda contraída por el Instituto de Crédito Oficial como consecuencia de determinados créditos y avales concedidos por las antiguas Entidades Oficiales de Crédito que ascienden a 167.095 millones de pesetas a 18 de septiembre de 1995 más los compromisos autorizados a dicha fecha, cuyo importe es de 184.873 millones de pesetas. Las cantidades anteriores se determinarán para cada tipo de deuda mediante las verificaciones oportunas y previa comunicación al Ministerio de Economía y Hacienda.
 
-> Redactados loa apartados 1.2 y 4.1 conforme a la corrección de errores publicada en BOE núm 16, de 18 de enero de 1996. Ref. BOE-A-1996-1219.
+> Se suspende la aplicación del apartado 6 según establece la disposición adicional 5 de Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117#daquinta.
+
+> Redactados los apartados 1.2 y 4.1 conforme a la corrección de errores publicada en BOE núm 16, de 18 de enero de 1996. Ref. BOE-A-1996-1219.

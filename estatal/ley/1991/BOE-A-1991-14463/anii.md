@@ -1,12 +1,12 @@
 ## ANEXO II
 
-El tipo impositivo incrementado del 12 por 100 del Impuesto General Indirecto Canario se aplicará a las operaciones que tengan por objeto entregas, arrendamientos o importaciones de los bienes siguientes:
+El tipo impositivo incrementado del 13 por 100 del Impuesto General Indirecto Canario se aplicará a las operaciones que tengan por objeto entregas, arrendamientos o importaciones de los bienes siguientes:
 
 1.º Cigarros puros con precio superior a 100 pesetas unidad y labores de tabaco rubio.
 
 2.º Los aguardientes compuestos, los licores, los aperitivos sin vino base y las demás bebidas derivadas de alcoholes naturales, conforme a las definiciones del Estatuto de la Viña, del Vino y de los Alcoholes y Reglamentaciones Complementarias y asimismo, los extractos y concentrados alcohólicos aptos para la elaboración de bebidas derivadas. En los dos casos se aplicará, siempre que superen el precio de 200 pesetas litro.
 
-3.º Los vehículos accionados a motor con potencia superior a 10 CV fiscales, excepto:
+3.º Los vehículos accionados a motor con potencia superior a 11 CV fiscales, excepto:
 
 a) Los camiones, motocarros, furgonetas y demás vehículos que, por su configuración objetiva, no puedan destinarse a otra finalidad que el transporte de mercancías.
 
@@ -22,9 +22,11 @@ d) Los vehículos automóviles considerados como taxis, autotaxis o autoturismos
 
 e) Los que, objetivamente considerados, sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica, siempre que sus modelos de serie o los vehículos individualmente hubieran sido debidamente homologados por la Administración Tributaria Canaria. A estos efectos, se considerará que tienen exclusivamente alguna de estas aplicaciones los furgones y furgonetas de uso múltiple de cualquier altura siempre que dispongan únicamente de dos asientos para el conductor y el ayudante, en ningún caso posean asientos adicionales y el espacio destinado a la carga no goce de visibilidad lateral y sea superior al 50 por 100 del volumen interior.
 
-f) Los vehículos tipo "jeep" cuyos modelos de serie, por estar considerados de aplicación industrial, comercial, o agrícola, hubiesen sido debidamente homologados por la Administración Tributaria Canaria, cuando su precio final de venta al público, excluidos el Impuesto General Indirecto Canario y el Impuesto Especial sobre Determinados Medios de Transporte, no exceda de 2.760.000 pesetas.
+f) Los vehículos tipo «jeep» cuyos modelos de serie, por estar considerados de aplicación industrial, comercial o agrícola hubiesen sido debidamente homologados por la Administración Tributaria Canaria, cuando su precio final de venta al público, excluidos el Impuesto General Indirecto Canario y el Impuesto Especial sobre Determinados Medios de Transporte, no exceda de 3.893.400 pesetas.
 
-La homologación se realizará atendiendo a las características del vehículo en cuanto a su comportamiento en tracción, seguridad de vuelco y precio de venta al público. El precio final de venta al público será el de estos vehículos en el punto de entrega, en orden de marcha, con todas las opciones incorporadas de serie y certificado por el fabricante nacional o el representante legal debidamente autorizado por el fabricante extranjero.
+La homologación se realizará atendiendo a las características del vehículo en cuanto a su comportamiento en tracción, seguridad de vuelco y precio de venta al público.
+
+El precio final de venta al público será el de estos vehículos en el punto de entrega, en orden de marcha, con todas las opciones incorporadas de serie y certificado por el fabricante nacional o el representante legal debidamente autorizado por el fabricante extranjero.
 
 g) Los vehículos adquiridos por minusválidos, no contemplados en el anexo I, para su uso exclusivo siempre que concurran los siguientes requisitos:
 
@@ -101,6 +103,8 @@ A efectos de este impuesto se consideran piedras preciosas, exclusivamente, el d
 14.º Perfumes y extractos.
 
 15.º Producción, distribución y cesión de derechos de las películas cinematográficas para ser exhibidas en las salas "X", así como la exhibición de las mismas.
+
+> Se modifica el párrafo primero y el apartado 3 por el art. 64.1, 2 y 5 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.
 
 > Se modifica el apartado 3.f) por el art. 6.2 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
 

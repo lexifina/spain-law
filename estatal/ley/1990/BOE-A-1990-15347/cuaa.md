@@ -52,6 +52,10 @@ w) Estadística de producción editorial.
 
 x) Boletines estadísticos de partos, nacimientos, defunciones, matrimonios, nulidad, separación y divorcio.
 
+y) Las estadísticas que formen parte del Plan Estadístico Nacional y específicamente según el artículo 45.2 de la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública, aquellas cuya realización resulte obligatoria para el Estado español por exigencia de la normativa de la Unión Europea. Asimismo, las estadísticas que pudieran realizarse al amparo del artículo 8.3 de la citada Ley.
+
+Todo ello sin perjuicio de lo establecido en el punto 2 del artículo 11 de la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública.
+
 Dos. 1. El Instituto Nacional de Estadística es el Organismo competente para la elaboración de las estadísticas enumeradas en el apartado anterior, salvo las indicadas con la letra f) que son competencia del Ministerio de Industria y Energía y del Ministerio de Obras Públicas y Urbanismo, la de la letra g) que es competencia del Ministerio de Obras Públicas y Urbanismo y la de la letra n) que lo es del Ministerio de Transportes, Turismo y Comunicaciones. Asimismo, algunas de las estadísticas incluidas en las letras q), r), s) y t) son competencia, respectivamente, de los Ministerios de Sanidad y Consumo y de Educación y Ciencia.
 
 2. En la elaboración de la encuesta industrial colaborarán con el Instituto Nacional de Estadística los Ministerios de Industria y Energía; de Agricultura, Pesca y Alimentación, y de Obras Públicas y Urbanismo.
@@ -69,3 +73,5 @@ Tres. 1. La finalidad de los censos enumerados en las letras a) y b) consiste en
 Cuatro. Todas las estadísticas enumeradas en el apartado uno de esta disposición son de ámbito estatal.
 
 Cinco. La financiación de las estadísticas a que se refiere la presente disposición se hará con cargo a los presupuestos del Instituto Nacional de Estadística, salvo las realizadas por los Ministerios de Transportes, Turismo y Comunicaciones; Sanidad y Consumo; Educación y Ciencia; Agricultura, Pesca y Alimentación; Industria y Energía, y Obras Públicas y Urbanismo.
+
+> Se añade la letra y) al apartado 1 por la disposición adicional 2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117#dasegunda.

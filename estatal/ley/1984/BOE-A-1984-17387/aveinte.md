@@ -30,7 +30,9 @@ Anunciada la convocatoria se concederá un plazo de quince días hábiles para l
 
 Los nombramientos de libre designación requerirán el informe previo del titular del Centro, Organismo o Unidad a que figure adscrito el puesto convocado.
 
-d) En el ámbito de la Administración del Estado, el Secretario de Estado para la Administración Pública, los Subsecretarios, Delegados del Gobierno y Gobernadores civiles, por necesidades del servicio, podrán adscribir a los funcionarios que ocupen puestos no singularizados a otros de la misma naturaleza, nivel y complemento específico dentro de la misma localidad.
+Excepcionalmente, las Administraciones Públicas podrán autorizar la convocatoria de concursos de provisión de puestos de trabajo dirigidos a los funcionarios destinados en las áreas, sectores o departamentos que se determinen.
+
+d) En el ámbito de la Administración General del Estado, el Secretario de Estado para la Administración Pública, los Subsecretarios, Delegados del Gobierno y Gobernadores Civiles, por necesidades del servicio, podrán adscribir a los funcionarios que ocupen puestos no singularizados a otros con el mismo procedimiento de provisión, nivel y complemento específico, dentro de la misma localidad.
 
 e) Los funcionarios adscritos a un puesto de trabajo por el procedimiento de libre designación podrán ser removidos del mismo con carácter discrecional.
 
@@ -67,6 +69,8 @@ La reasignación de efectivos como consecuencia de un Plan de Empleo en las dem�
 El personal eventual sólo ejercerá funciones expresamente calificadas de confianza o asesoramiento especial y su nombramiento y cese, que serán libres, corresponden exclusivamente a los Ministros y a los Secretarios de Estado, y, en su caso, a los Consejeros de Gobierno de las Comunidades Autónomas y a los Presidentes de las Corporaciones Locales. El personal eventual cesará automáticamente cuando cese la autoridad a la que preste su función de confianza o asesoramiento.
 
 3. En ningún caso el desempeño de un puesto de trabajo reservado a personal eventual constituirá mérito para el acceso a la función pública o la promoción interna.
+
+> Se añade el último párrafo al apartado 1.c) y se modifica el apartado 1.d) por el art. 103.3 y .4 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
 
 > Se añade el apartado 1.g) por el art. 16 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
 

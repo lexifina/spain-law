@@ -44,9 +44,11 @@ b) (Suprimida)
 
 c) Podrá concederse igualmente la excedencia voluntaria a los funcionarios cuando lo soliciten por interés particular.
 
-Para solicitar el pase a la situación prevista en esta letra c) será preciso haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante los cinco años inmediatamente anteriores y en ella no se podrá permanecer menos de dos años continuados, ni más del número de años equivalente a los que el funcionario acredite haber prestado en cualquiera de las Administraciones Públicas, con un máximo de quince.
+Para solicitar el pase a la situación prevista en esta letra c) será preciso haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante los cinco años inmediatamente anteriores y en ella no se podrá permanecer menos de dos años continuados.
 
-La falta de petición de reingreso al servicio activo dentro del período de duración de la excedencia voluntaria por interés particular comportará la pérdida de la condición de funcionario.
+Procederá asimismo declarar en excedencia voluntaria a los funcionarios públicos cuando, finalizada la causa que determinó el pase a una situación distinta a la de servicio activo, incumplan la obligación de solicitar el reingreso en el plazo establecido reglamentariamente.
+
+Los funcionarios públicos que presten servicios en organismos o entidades que queden excluidos de la consideración de sector público a los efectos de la declaración de excedencia voluntaria prevista en la letra a) del presente apartado, serán declarados en la situación de excedencia voluntaria regulada en esta letra c), sin que les sea de aplicación los plazos de permanencia en la misma.
 
 d) Podrá concederse la excedencia voluntaria por agrupación familiar, con una duración mínima de dos años y máxima de quince, a los funcionarios cuyo cónyuge resida en otro municipio por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo como funcionario de carrera o como laboral en cualquier Administración Pública, Organismos autónomos, Entidad gestora de la Seguridad Social, así como en órganos constitucionales o del Poder Judicial.
 
@@ -103,6 +105,8 @@ La excedencia voluntaria incentivada tendrá una duración de cinco años e impe
 Quienes pasen a la situación de excedencia voluntaria incentivada tendrán derecho a una mensualidad de las retribuciones de carácter periódico, excluidas las pagas extraordinarias y el complemento de productividad, devengadas en el último puesto de trabajo desempeñado, por cada año completo de servicios efectivos y con un máximo de doce mensualidades.
 
 En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas acordar el pase a la situación de excedencia voluntaria incentivada.
+
+> Se modifica el apartado 3.c) por el art. 104 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
 
 > Se modifica el apartado 4 por el art. 2 de la Ley 4/1995, de 23 de marzo. Ref. BOE-A-1995-7242
 

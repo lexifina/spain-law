@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Operaciones financieras.
+
+El punto 6 «Operaciones Financieras» de la disposición adicional sexta del Real Decreto-ley 12/1995, de Medidas Urgentes en Materia Presupuestaria, Tributaria y Financiera, queda en suspenso hasta que el Gobierno, previo informe del Ministerio de Economía y Hacienda, autorice al Instituto de Crédito Oficial, en la medida en que el mismo no pueda hacer frente con cargo a los resultados obtenidos de su gestión, a destinar parte de su patrimonio a cancelar la deuda contraída por este Instituto como consecuencia de determinados créditos y avales concedidos por las antiguas Entidades Oficiales de Crédito, así como las deudas derivadas de los compromisos autorizados a medida que se produzca su vencimiento.

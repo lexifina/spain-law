@@ -1,11 +1,15 @@
 ## Artículo 20. Deducciones y devoluciones.
 
-1. Los sujetos pasivos podrán deducir de las cuotas del Arbitrio devengadas como consecuencia de las operaciones que realicen, las del mismo tributo que hayan soportado en las adquisiciones o importaciones de bienes muebles corporales, en la medida en que dichos bienes se utilicen en actividades productivas sujetas al Arbitrio.
+1. Los sujetos pasivos podrán deducir de las cuotas del Impuesto devengadas por las operaciones gravadas que realicen las que, devengadas en el territorio de aplicación de dicho tributo, hayan soportado por repercusión directa o satisfecho por las adquisiciones o importaciones de bienes, en la medida en que dichos bienes se utilicen en las actividades de producción o elaboración que se señalan en la letra a) del artículo 3.º de esta Ley, o bien sean exportados definitivamente al resto del territorio nacional o al extranjero.
 
-2. Quienes efectúen envíos o exportaciones definitivos al resto del territorio nacional o al extranjero respectivamente tendrán derecho a la devolución de las cuotas soportadas por los bienes efectivamente exportados o remitidos al resto del territorio nacional.
+Serán de aplicación en el Impuesto las mismas exigencias, limitaciones y restricciones que se contienen en la legislación común del Impuesto sobre el Valor Añadido para la deducción de las cuotas soportadas, sin perjuicio de lo dispuesto en este artículo.
 
-3. Los sujetos pasivos que no hayan podido efectuar las deducciones previstas en el apartado 1 de este artículo por exceder su cuantía de las cuotas devengadas, tendrán derecho a solicitar la devolución del saldo a su favor, existente a 31 de diciembre de cada año, en la forma que reglamentariamente se determine.
+2. Los sujetos pasivos que no hayan podido efectuar las deducciones previstas en el apartado anterior, por exceder su cuantía de la de las cuotas devengadas, tendrán derecho a solicitar la devolución del saldo a su favor, existente a 31 de diciembre de cada año, en la forma que reglamentariamente se determine.
 
-4. En los supuestos de deducciones o devoluciones por exportaciones, la realización de la exportación deberá acreditarse conforme a los requisitos que se establezcan en la Ordenanza fiscal.
+3. Las cuotas soportadas o satisfechas en relación con las entregas de bienes inmuebles, las prestaciones de servicios, el consumo de energía eléctrica, los gravámenes complementarios sobre las labores del tabaco y sobre ciertos carburantes y combustibles petrolíferos, no podrán ser objeto de deducción, sin perjuicio de las devoluciones que procedan conforme a lo dispuesto en el número 6 del apartado A) y en el número 4 del apartado B), ambos del artículo 18 bis de esta Ley.
+
+4. En los supuestos de deducciones y devoluciones por exportaciones, la realización de la exportación deberá acreditarse conforme a los requisitos que se establezcan en la Ordenanza Fiscal.
+
+> Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
 
 > Se añade el apartado 4 por el art. 1.4 del Real Decreto-Ley 14/1996, de 8 de noviembre. Ref. BOE-A-1996-24749

@@ -1,0 +1,5 @@
+## Disposición final octava. Creación de empleo en signos, índices o módulos.
+
+A efectos de determinar el rendimiento neto de las actividades a las que resulta aplicable y por las que no se haya renunciado a la modalidad de signos, índices o módulos del método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas, no se computarán como personas asalariadas, en el ejercicio 1997, los trabajadores contratados por tiempo indefinido entre 1 de enero y 30 de junio de 1997 y que a 31 de diciembre de 1997 o el día del cese en el ejercicio de la actividad, si fuese anterior, continúen en plantilla.
+
+La aplicación de lo dispuesto en el párrafo anterior exigirá que el número de personas asalariadas al 31 de diciembre de 1997 o al día de cese en el ejercicio de actividad, si fuese anterior, sea superior al número de las existentes el día 1 de enero de 1997. A estos efectos se computarán como personas asalariadas las que presten su servicio al empresario en todas las actividades que desarrolle, con independencia del método o modalidad de determinación del rendimiento neto de cada una de ellas.

@@ -20,11 +20,13 @@ f) Quien por razones de guarda legal tenga a su cuidado directo algún menor de 
 
 No obstante lo anterior, en el caso de que la madre y el padre trabajen, aquélla, al iniciarse el período de permiso por maternidad, podrá optar por que el padre disfrute de hasta cuatro de las últimas semanas del permiso, siempre que sean ininterrumpidas y al final del citado período, salvo que en el momento de su efectividad la incorporación al trabajo de la madre suponga riesgo para su salud.
 
-En el supuesto de adopción de un menor de nueve meses, el funcionario tendrá derecho a un permiso de ocho semanas contadas, a su elección, bien a partir del momento de la decisión administrativa o judicial de acogimiento, bien a partir de la resolución judicial por la que se constituya la adopción. Si el hijo adoptado es mayor de nueve meses y menor de cinco años, el permiso tendrá una duración máxima de seis semanas. En el caso de que el padre y la madre trabajen, sólo uno de ellos podrá ejercitar este derecho.
+En el supuesto de adopción de un menor de nueve meses, el funcionario tendrá derecho a un permiso de dieciséis semanas, contadas, a su elección, bien a partir del momento de la decisión administrativa o judicial de acogimiento, bien a partir de la resolución judicial por la que se haya constituido la adopción. Si el hijo adoptado es mayor de nueve meses y menor de cinco años, el permiso tendrá una duración máxima de seis semanas. En el caso de que el padre y la madre trabajen, sólo uno de ellos podrá ejercitar este derecho.
 
 4. Los funcionarios a quienes falten menos de cinco años para cumplir la edad de jubilación forzosa, establecida en el artículo 33 de esta Ley, podrán obtener, a su solicitud, la reducción de su jornada de trabajo hasta un medio, con la reducción de retribuciones que se determine reglamentariamente, siempre que las necesidades del servicio lo permitan.
 
 Dicha reducción de jornada podrá ser solicitada y obtenida, de manera temporal, por aquellos funcionarios que la precisen en procesos de recuperación por razón de enfermedad, siempre que las necesidades del servicio lo permitan.
+
+> Se modifica el párrafo tercero del apartado 3 por el art. 89.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
 
 > Se añade el apartado 4 por el art. 26 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
 

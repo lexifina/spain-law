@@ -16,12 +16,12 @@ b) Para las piezas y partes de productos y de equipos necesarios para completar 
 
 Esta autorización no es aplicable a los dispositivos indicadores de los instrumentos de medida que deberán estar graduados en unidades legales.
 
-5. Existirá indicación suplementaria cuando una indicación expresada por una unidad de los artículos 2.º y 3.º vaya acompañada por una o varias indicaciones expresadas en unidades que no figuren en los citados artículos.
+5. Existirá indicación suplementaria cuando una indicación expresada por una unidad de los artículos segundo y tercero vaya acompañada de una o varias indicaciones expresadas en unidades que no figuren en los citados artículos.
 
-Queda autorizado el empleo de indicaciones suplementarias hasta el 31 de diciembre de 1989.
+No obstante, mediante Real Decreto podrá exigirse que en los instrumentos de medida figuren indicaciones de magnitud en una sola unidad de medida legal.
 
-No obstante, mediante Real Decreto podrá exigirse que en los instrumentos de medida figuren las indicaciones de magnitud en una sola unidad de medida legal.
+La indicación expresada en unidades de medida pertenecientes a los artículos segundo y tercero deberá ser predominante. Las indicaciones expresadas por las unidades de medida que no figuren en los citados artículos deben en particular ser expresadas en caracteres de dimensiones a lo sumo iguales a los caracteres de la indicación correspondiente de las unidades pertenecientes a los citados artículos.
 
-La indicación expresada en unidades de medida pertenecientes a los artículos 2.º y 3.º, deberá ser predominante. Las indicaciones expresadas por las unidades de medida que no figuran en los citados artículos deben en particular ser expresadas en caracteres de dimensiones a lo sumo iguales a los caracteres de la indicación correspondiente de las unidades pertenecientes a los citados artículos.
+> Se modifica el apartado 5 por el art. 176.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
 
 > Se modifica por el art. 3 del Real Decreto Legislativo 1296/1986, de 28 de junio. Ref. BOE-A-1986-17234

@@ -11,3 +11,5 @@ Durante el período comprendido entre 31 de diciembre de 1992 y 31 de diciembre 
 4. Se deberán adoptar a través del indicado Plan de Medidas de Gestión, Fiscales y Presupuestarias que permitan obtener los márgenes necesarios de equilibrio financiero, a fin de que los Remanentes de Tesorería negativos no se vean implementados con tal signo a partir del 1 de enero de 1994.
 
 5. En cualquier caso, las medidas a adoptar no podrán sobrepasar el horizonte del 1 de enero de 1997, fecha en que volverá a adquirir su virtualidad el artículo 174 antes citado, salvo en el caso de que en tal fecha se encuentre la Corporación correspondiente en una situación que le permita la continuidad del Plan dentro de los márgenes señalados en dicho precepto.
+
+> Se prorroga en la forma indicada por la disposición transitoria 6 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.

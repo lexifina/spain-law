@@ -1,0 +1,3 @@
+## Disposición adicional décima. Regulación de las cotizaciones sociales a sacerdotes y religiosos secularizados de la Iglesia Católica.
+
+El Gobierno, en el plazo máximo de seis meses a partir de la aprobación de esta Ley, aprobará las disposiciones normativas que sean necesarias a los efectos de computar, para los sacerdotes y religiosos/as secularizados, el tiempo que estuvieron ejerciendo su ministerio o religión, y en el que no les fue permitido cotizar por su falta de inclusión en el Sistema de la Seguridad Social, con objeto de que se les reconozca el derecho a la percepción de la pensión de jubilación denegada o a una cuantía superior a la que tienen reconocida.

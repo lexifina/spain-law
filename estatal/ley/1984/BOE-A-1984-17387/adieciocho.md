@@ -30,6 +30,8 @@ Las Memorias justificativas de los Planes de Empleo contendrán las referencias 
 
 4. Las necesidades de recursos humanos con asignación presupuestaria que no puedan ser cubiertas con los efectivos de personal existentes serán objeto de Oferta de Empleo Público.
 
+Las vacantes correspondientes a las plazas incluidas en las convocatorias para ingreso de nuevo personal no precisarán de la realización de concurso previo entre quienes ya tuvieren la condición de funcionarios.
+
 5. Los Tribunales o las Comisiones de Selección no podrán declarar que han superado los procesos selectivos un número superior de aspirantes al de plazas convocadas. Cualquier propuesta que contravenga lo anteriormente establecido será nula de pleno derecho.
 
 6. En el ámbito de la Administración General del Estado los Planes de Empleo podrán afectar a uno o varios Ministerios, Organismos o áreas administrativas concretas y serán aprobados por el Ministerio para las Administraciones Públicas, previo informe favorable del Ministerio de Economía y Hacienda.
@@ -37,6 +39,10 @@ Las Memorias justificativas de los Planes de Empleo contendrán las referencias 
 La iniciativa para su elaboración corresponderá al Ministerio u Organismo afectado o, conjuntamente, a los Ministerios para las Administraciones Públicas y de Economía y Hacienda.
 
 La Oferta de Empleo Público será aprobada por el Gobierno a propuesta del Ministerio para las Administraciones Públicas.
+
+Anualmente, y de acuerdo con las prioridades de la política económica y las necesidades de la planificación de los recursos humanos, las Leyes de Presupuestos señalarán los criterios aplicables a la Oferta de Empleo en el Sector Público Estatal incluido en el capítulo II del título III de las Leyes de Presupuestos Generales del Estado y en el artículo 6.5 de la Ley General Presupuestaria.
+
+> Se añaden los párrafos segundo y cuarto a los apartados 4 y 6 por el art. 103.1 y .2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
 
 > Se modifica por el art. 15 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
 

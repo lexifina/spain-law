@@ -105,6 +105,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional séptima](septima.md)
 - [Disposición adicional octava](da-3.md)
 - [Disposición adicional novena](novena.md)
+- [Disposición adicional décima](decima.md)
 - [Disposición transitoria primera](primera-2.md)
 - [Disposición transitoria segunda](segunda-2.md)
 - [Disposición transitoria tercera](tercera-2.md)

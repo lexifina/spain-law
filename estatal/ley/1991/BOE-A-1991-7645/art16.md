@@ -1,9 +1,7 @@
 ## Artículo 16. Base imponible en las importaciones.
 
-En las importaciones, la base imponible será la que resulte de adicionar al «Valor en Aduana» los conceptos siguientes en cuanto que no estén comprendidos en el mismo:
+1. La base imponible en las importaciones se establecerá con arreglo a lo dispuesto en las normas reguladoras de la base imponible de dichas operaciones en el Impuesto sobre el Valor Añadido. Asimismo, los supuestos y condiciones de la modificación de dicha base imponible serán los mismos que los previstos a efectos de dicho tributo.
 
-1.° Cualesquiera gravámenes o tributos que pudieran devengarse con ocasión de la importación, con excepción del propio Arbitrio.
+2. Los gravámenes complementarios a que se refiere el artículo 18 bis de esta Ley deberán integrarse, en todo caso, en la base imponible de las correspondientes operaciones sujetas al Impuesto.
 
-2.° Los gastos accesorios y complementarios, tales como comisiones, embalajes, portes, transportes y seguros, que se produzcan hasta el momento del despacho de importación.
-
-3.° Las subvenciones vinculadas directamente al precio.
+> Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117

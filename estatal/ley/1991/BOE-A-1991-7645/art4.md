@@ -1,5 +1,5 @@
-## Artículo 4. Concepto de empresario.
+## Artículo 4. Concepto de empresario o profesional.
 
-1. Se consideran empresarios a las personas o Entidades que realicen habitualmente actividades empresariales.
+A efectos de este Impuesto tendrán la condición de empresarios o profesionales las personas o entidades consideradas como tales a efectos del Impuesto sobre el Valor Añadido por su Ley reguladora.
 
-2. Son actividades empresariales las recogidas en el párrafo primero del artículo 4.1 de la Ley 30/1985, de 2 de agosto, del Impuesto sobre el Valor Añadido.
+> Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
