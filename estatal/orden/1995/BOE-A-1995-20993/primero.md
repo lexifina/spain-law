@@ -40,6 +40,12 @@ A los efectos del artículo 38 de la Ley 30/1992, de 26 de noviembre, de Régime
 
 5.5 El Registro del Instituto Nacional de Técnica Aeroespacial.
 
-5.6 Los Registros de las Delegaciones Territoriales de dichos organismos autónomos.
+5.6. El Registro de Canal de Experiencias Hidrodinámicas de El Pardo.
+
+5.7. El Registro del Servicio Militar de Construcciones.
+
+5.8. Los Registros de las Delegaciones Territoriales de dichos organismos autónomos.
+
+> Se modifica el apartado 5 por el apartado 1 de la Orden 5/1996, de 11 de enero. Ref. BOE-A-1996-1221.
 
 > Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 226, de 21 de septiembre de 1995. Ref. BOE-A-1995-21127.
