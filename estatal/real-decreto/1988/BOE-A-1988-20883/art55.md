@@ -2,13 +2,13 @@
 
 1. Serán Vocales de dicho Consejo del Agua:
 
-a) En representación de la Administración Central del Estado, y por los Ministerios que se citan:
+a) En representación de la Administración General del Estado, y por los Ministerios que se citan:
 
 Economía y Hacienda, un vocal.
 
 Interior, un vocal.
 
-Obras Públicas y Urbanismo, tres vocales.
+Medio Ambiente, tres vocales.
 
 Industria y Energía, dos vocales.
 
@@ -16,7 +16,7 @@ Agricultura, Pesca y Alimentación, tres vocales.
 
 Administraciones Públicas, un vocal.
 
-Transportes, Turismo y Comunicaciones, un vocal.
+Fomento, un vocal.
 
 Sanidad y Consumo, un vocal.
 
@@ -42,4 +42,6 @@ e) En representación de las organizaciones ecologistas con mayor implantación,
 
 2. Como Secretario del Consejo, con voz pero sin voto, actuará el Secretario general del Organismo de cuenca.
 
-> Se añade el párrafo segundo de la letra d) y la letra e) al apartado 1 por el art. 3.1 y 2 del Real Decreto 439/1994, de 11 de marzo. Ref. BOE-A-1994-7652
+> Se modifica la letra a) del apartado 1 por el art. 3 del Real Decreto 2068/1996, de 13 de septiembre. Ref. BOE-A-1996-21762
+
+> Se añade el párrafo segundo de la letra d) y la letra e) al apartado 1 por el art. 3 del Real Decreto 439/1994, de 11 de marzo. Ref. BOE-A-1994-7652
