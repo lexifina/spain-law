@@ -44,12 +44,13 @@
 
 | Productos Alimenticios | Aditivos | Dosis máxima |
 | --- | --- | --- |
-| Productos de cacao y de chocolate según el Real Decreto 822/1990 de 22 de junio | E-330 Ácido cítrico | 0,5% |
+| Productos de cacao y de chocolate según el Real Decreto 1055/2003, de 1 de agosto. | E-330 Ácido cítrico | 0,5% |
 | E-322 Lecitinas | Quantum satis |
 | E-334 Ácido tartárico | 0,5% |
 | E-422 Glicerina | Quantum satis |
 | E-471 Mono y diglicéricos de ácidos grasos | Quantum satis |
-| E-170 Carbonatos de calcio | 7% en materia seca sin grasa, expresados como carbonatos de potasio |
+| E-472c Ésteres cítricos de los mono y diglicéridos de los ácidos grasos. | Quantum satis |
+| E-170 Carbonato de calcio | 7% en materia seca sin grasa, expresados como carbonatos de potasio |
 | E-500 Carbonatos de sodio |
 | E-501 Carbonatos de potasio |
 | E-503 Carbonatos de amonio |
@@ -93,6 +94,7 @@
 |  | E-466 Carboximetilcelulosa sódica | Quantum satis |
 |  | E-471 Mono y diglicéridos de ácidos grasos | Quantum satis |
 | Mantequilla de nata agria | E-500 Carbonatos de sodio | Quantum satis |
+| Leche de cabra UHT | E-331 Citratos de sodio | 4g/l |
 
 ## Pan y panes especiales
 
@@ -259,6 +261,7 @@
 |  | E-331 Citratos de sodio | Quantum satis |
 |  | E-332 Citratos de potasio | Quantum satis |
 |  | E-333 Citratos de calcio | Quantum satis |
+|  | E-440 Pectinas. E-509 Cloruro cálcico | Quantum Satis (sólo para compota de fruta distinta de la manzana). |
 | Frutas, legumbres y hortalizas no elaboradas, congeladas y ultracongeladas. Frutas, legumbres y hortalizas no elaboradas, envasadas y refrigeradas, listas para el consumo. | E-300 Ácido ascórbico | Quantum satis |
 | E-301 Ascorbato sódico | Quantum satis |
 | E-302 Ascorbato cálcico | Quantum satis |
@@ -266,6 +269,7 @@
 | E-331 Citratos de sodio | Quantum satis |
 | E-332 Citratos de potasio | Quantum satis |
 | Patatas envasadas peladas y sin elaborar | E-333 Citratos de calcio | Quantum satis |
+| E-296 Ácido málico. | Quantum satis |
 | Frutas, legumbres y hortalizas en conserva | E-260 Ácido acético | Quantum satis |
 | E-261 Acetato potásico | Quantum satis |
 |  | E-262 Acetatos sódicos | Quantum satis |
@@ -289,6 +293,7 @@
 |  | E-509 Cloruro cálcico | Quantum satis |
 |  | E-575 Glucono-delta-lactona | Quantum satis |
 | Zanahorias peladas y/o cortadas preenvasadas y no elaboradas | E-401 Alginato de sodio | Quantum satis |
+| Castañas en liquido | E-410 Goma garrofín. E-412 Goma guar. E-415 Goma Xantana. | Quantum satis |
 
 ## Quesos
 
@@ -302,6 +307,7 @@
 | E-270 Ácido láctico | Quantum satis |
 | E-330 Ácido cítrico | Quantum satis |
 |  | E-575 Glucono-delta-lactona | Quantum satis |
+|  | E-460 ii Celulosa en polvo. | Quantum Satis (sólo para queso rallado o en lonchas). |
 | Queso madurado en lonchas y rallado | E-170 Carbonato de calcio | Quantum satis |
 | E-460 Celulosas | Quantum satis |
 |  | E-504 Carbonatos de magnesio | Quantum satis |
@@ -355,3 +361,5 @@
 |  | E-331 Citratos sódicos | Quantum satis |
 |  | E-332 Citratos potásicos | Quantum satis |
 |  | E-333 Citratos cálcicos | Quantum satis |
+
+> Se modifica por el art. único.3 y anexo.2 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.

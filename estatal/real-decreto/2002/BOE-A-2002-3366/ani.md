@@ -6,7 +6,7 @@ Notas:
 
 1. Las sustancias mencionadas en la presente lista podrán añadirse a todos los productos alimenticios, con excepción de los contemplados en el apartado 3 del Artículo 3, según el principio de quantum satis.
 
-2. Las sustancias citadas con los números E-407, y E-440 podrán ser normalizadas con azúcares, siempre que así se indique junto a su número y denominación.
+2. Las sustancias citadas con los números E-407, E-407 a y E-440 podrán ser normalizadas con azúcares, siempre que así se indique junto a su número y denominación.
 
 3. Explicación de los símbolos empleados.
 
@@ -19,8 +19,6 @@ Notas:
 | N° E | Denominaciones |
 | --- | --- |
 | E-170 | Carbonatos de calcio |
-|  | i) Carbonato cálcico |
-|  | ii) Carbonato ácido de calcio |
 | E-260 | Ácido acético |
 | E-261 | Acetato potásico |
 | E-262 | Acetatos de sodio |
@@ -84,7 +82,9 @@ Notas:
 | E-465 | Etilmetil celulosa |
 | E-466 | Carboximetil celulosa |
 |  | Carboximetil celulosa sódica |
+|  | Goma de celulosa |
 | E-469 | Carboximetilcelolosa hidrolizada enzimáticamente |
+|  | Goma de celulosa hidrolizada enzimáticamente |
 | E-470 a | Sales sódicas, potásicas y cálcicas de ácidos grasos |
 | E-470 b | Sales magnésicas de ácidos grasos |
 | E-471 | Mono- y diglicéridos de ácidos grasos |
@@ -140,3 +140,5 @@ Notas:
 | E-1442 | Fosfato de hidroxipropil dialmidón |
 | E-1450 | Octenil sucinato sódico de almidón |
 | E-1451 | Almidón acetilado oxidado |
+
+> Se modifica por el art. único.3 y anexo.1 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.

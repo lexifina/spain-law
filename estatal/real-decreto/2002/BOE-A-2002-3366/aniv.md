@@ -131,7 +131,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-927 b | Carbamida |  |
 | E-943 a | Butano |  |
 | E-943 b | Isobutano |  |
-| E-944 | Propano |  |
+| E-944 | Propanofff |  |
 | E-950 | Acesulfamo K | Para fines distintos de la edulcoración |
 | E-951 | Aspartamo |
 | E-957 | Taumatina |
@@ -141,6 +141,10 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-1202 | Polivinilpolipirrolidona |
 | E-1505 | Citrato de trietilo |
 | E-1518 | Triacetato de glicerilo (Triacetina) |
+| E-907 | Poli-1-deceno hidrogenado. |  |
+| E-1517 | Diacetato de glicerilo (diacetina). |  |
+| E-1519 | Alcohol bencilico. |  |
+| E-1520 | 1,2 Propanodiol (propilenglicol). |  |
 | Productos alimenticios | Aditivo permitido | Dosis máxima |
 | --- | --- | --- |
 | ALIMENTOS EN GENERAL |  |  |
@@ -183,6 +187,18 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-491 a E-495 | 10 g/Kg Sólos o en combinación |
 | Notas: (1) Sólo emulsiones de grasas para bollería. (2) Materias grasas para untar, tal como se definen en los anexos A, B y C del Reglamento (CE) número 2991/94, con un contenido en grasa de hasta el 41 por 100. (3) Productos grasos similares para untar con un contenido en grasa inferior al 10 por 100. (4) Sólo emulsiones de grasas para freír. |
 | 4.1 Materias grasas para untar los moldes de repostería | E-551 a E-559 | 30 g/Kg Sólos o en combinación |
+| 2. Aromas | E-338 a E-341, E-343 y E-450 a E-452. | 40 g/kg. |
+| E-416 Goma Karaya. | 50 g/kg. |
+| E-551 a E-559. | 50 g/kg (sólo E-551). |
+| E-900 Dimetilpolisiloxano. | 10 mg/kg |
+| E-1505 Citrato de trietilo. E-1517 Diacetato de glicerilo (diacetina). E-1518 Triacetato de glicerilo (triacetina). E-1520 1,2 Propanodiol (Propilenglicol). | 3 g/kg de todas las fuentes en productos alimenticios consumidos o reconstituidos con arreglo a las instrucciones del fabricante, por separado o en combinación. En el caso de las bebidas, la dosis máxima del E-1520 será de 1 g/l. |
+| 2.1 Aromas excepto Aromas de humo liquido y Aromas basados en oleorresinas *de especias. | E-432 a E-436. | 10 g/kg. |
+| 2.2 Alimentos que contienen aromas de humo liquido y aromas basados en oleorresinas de especias. | E-432 a E-436. | 1 g/kg. |
+| 2.3 Aromas encapsulados para: a) Tes aromatizados y bebidas en polvo instantáneas aromatizadas. b) Productos de aperitivo aromatizados | E-459 Betaciclodextrina. | 500 mg/l en productos alimenticios consumidos o reconstituidos con arreglo a las instrucciones del fabricante. 1 g/kg en productos alimenticios consumidos o reconstituidos con arreglo a las instrucciones del fabricante. |
+| 2.4 Aromas para: a) Licores, vinos aromatizados, bebidas aromatizadas a base de vino y cócteles aromatizados de productos vitivinícolas. b) Confitería, incluido el chocolate y bollería fina. | E-1519 Alcohol bencílico. | 100 mg/l procedentes de todas las fuentes en productos alimenticios consumidos o reconstituidos con arreglo a las instrucciones del fabricante. 250 mg/kg procedentes de todas las fuentes en productos alimenticios consumidos o reconstituidos con arreglo a las instrucciones del fabricante. |
+
+* Las oleorresinas de especias se definen como extractos de especias de los que se ha evaporado el disolvente de extracción, dejando una mezcla de aceite volátil y el material resinoso de la especia.
+
 | Productos alimenticios | Aditivo permitido | Dosis máxima |
 | --- | --- | --- |
 | ARROZ |  |  |
@@ -207,11 +223,9 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-416 | 10 g/l Sólo para licores a base de huevo |
 | 1.1.2 Bebidas turbias espirituosas de acuerdo con el Reglamento (CEE) n° 1576/89 del Consejo por el que se establecen las normas generales relativas a la definición, designación y presentación de las bebidas espirituosas | E-445 | 100 mg/l |
 | 1.1.3 Bebidas espirituosas de grado alcohólico volumétrico inferior al 15% | E-445 (2) 481 y E-482 | 100 mg/l 8 g/l Sólos o en combinación |
+| 1.1.3 Bebidas espirituosas turbias aromatizadas de grado alcohólico volumétrico inferior al 15 %. | E-444 Acetato isobutirato de sacarosa. | 300 mg/l |
 | Nota: (1) Sólo para licores emulsionados (2) Sólo para bebidas turbias. |
-| 2. Sidra y perada | E-338 a E-341 |  |
-|  | E-343 | 2 g/l Sólos o en combinación |
-|  | E-450 a E-452 |  |
-|  | E-405 (1) | 100 mg/l |
+| 2. Sidra y perada | E-405 (1) | 100 mg/l |
 |  | E-900 (1) | 10 mg/l |
 |  | E-999 (1) | 200 mg/l calculado como extracto anhidro |
 | Nota: (1) Excepto en perada y cidre bouché. |
@@ -248,10 +262,14 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | CACAO Y CHOCOLATE |  |  |
 | Productos de cacao y chocolate (Real Decreto 822/1990 de 22 de junio. BOE de 28 de junio) | E-442 E-476 E-492 | 10 g/Kg 5 g/Kg 10 g/Kg |
 | Rellenos de y para productos de Cacao y chocolate | E-442 | 10 g/Kg |
-| Agentes de recubrimiento de productos de cacao y chocolate | E-901 a E-904 | Quantum Satis |
+| Agentes de recubrimiento de productos de cacao y chocolate | E-901 a E-902 | Quantum Satis |
+| E-903 Cera Carnauba. | 500 mg/kg. |
+| E-904 | Quantum Satis |
 | CAFÉ |  |  |
 | Café líquido enlatado | E-473 y E-474 | 1g/l Sólos o en combinación |
-| Agentes de recubrimiento para granos de café | E-901 a E-904 | Quantum Satis |
+| Agentes de recubrimiento para granos de café | E-901 a E-902 | Quantum Satis |
+| E-903 Cera Carnauba. | 200 mg/kg. |
+| E-904 | Quantum Satis |
 | Bebidas a base de café para máquinas expendedoras | E-338 a E-341 E-343 E-450 a E-452 | 2 g/l Sólos o en combinación |
 | CALDOS Y SOPAS |  |  |
 | Caldos y sopas | E-338 a E-341 E-343 E-450 a E-452 | 3 g/Kg Sólos o en combinación |
@@ -277,7 +295,9 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-468(2) | 30 g/kg |
 |  | E-473 y E-474 E-475 E-491 a E-495 E-551 a E-556 E-559 E-1201(1) y E-1202(1) | Quantum satis Quantum satis Quantum satis Quantum satis Quantum satis Quantum satis |
 | Nota: (1) Sólo para complementos de la dieta en tabletas y en forma de grageas. (2) Solo para complementos de la dieta sólidos. |
-| Agentes de recubrimiento para complementos de la dieta | E-901 a E-904 | Quantum satis |
+| Agentes de recubrimiento para complementos de la dieta | E-901 a E-902 | Quantum satis |
+| E-903 Cera Carnauba. | 200 mg/kg |
+| E-904 | Quantum satis |
 | GOMA DE MASCAR |  |  |
 | Goma de mascar o chicle | E-297 | 2 g/Kg |
 |  | E-338 a E-341 | Quantum Satis |
@@ -300,7 +320,10 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-959(2) | 150 mg/Kg |
 |  | E-1518 | Quantum satis |
 | Notas: (1) Sólo para chicles sin azúcares añadidos. (2) Sólo para chicles con azúcares añadidos. Se aplicará la regla de la proporcionalidad. |
-| Agentes de recubrimiento para goma de mascar | E-901 a E-905 | Quantum Satis |
+| Agentes de recubrimiento para goma de mascar | E-901 a E-902 | Quantum Satis |
+| E-903 Cera Carnauba. | 1200 mg/kg |
+| E-904 | Quantum Satis |
+| E-905 | Quantum Satis |
 | HARINAS |  |  |
 | Harina | E-338 a E-341 E-343 E-450 a E-452 | 2,5 g/Kg Sólos o en combinación |
 | Harina con levadura | E-338 a E-341 E-343 E-450 a E-452 | 20 g/Kg Sólos o en combinación |
@@ -347,7 +370,10 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | Agentes de recubrimiento para bollería fina | E-405 | 5 g/Kg |
 | E-416 | 5 g/Kg |
 | E-491 a E-495 | 5 g/Kg Sólos o en combinación |
-| E-901(3) a E-904(3) | Quantum Satis |
+| E-901(3) a E-902(3) | Quantum Satis |
+| E-903 Cera Carnauba. | 200 mg/kg. |
+| E-904 | Quantum Satis |
+| E-905 | Quantum Satis |
 | Nota: (3) Sólo para recubrimientos de chocolate. |  |  |
 | Rellenos y coberturas para bollería fina | E-297 | 2’5 g/Kg |
 | E-355 a E-357 | 2 g/Kg Sólos o en combinación |
@@ -368,7 +394,9 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | 2. Agentes de recubrimiento para pastelería, repostería y galleteria | E-405 | 5 g/Kg |
 | E-416 | 5 g/Kg |
 | E-491 a E-495 | 5 g/Kg Sólos o en combinación |
-| E-901(1) a E-904(1) | Quantum Satis |
+| E-901(1) a E-902(1) | Quantum Satis |
+| E-903 Cera Carnauba. | 200 mg/kg. |
+| E-904 | Quantum Satis |
 | Nota: (1) Sólo para recubrimientos de chocolate. |  |  |
 | 3. Rellenos y coberturas para pastelería, repostería y galletería | E-297 | 2,5 g/Kg |
 | E-355 a E-357 | 2 g/Kg Sólos o en combinación |
@@ -420,7 +448,9 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-461(1) y E-482(1) | 5 g/Kg Sólos o en combinación |
 | Nota: (1) 2 g/Kg para Productos de aperitivo sólo a base de cereales. |  |  |
 | 2. Agentes de recubrimiento para productos de aperitivo (incluidos los frutos secos) | E-416(2) | 10 g/Kg |
-| E-901 a E-904 | Quantum Satis |
+| E-901 a E-902 | Quantum Satis |
+| E-903 Cera Carnauba. | 200 mg/kg. |
+| E-904 | Quantum Satis |
 | Nota: (2) Sólo para frutos secos. |  |  |
 | PRODUCTOS CÁRNICOS |  |  |
 | Productos cárnicos | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
@@ -445,7 +475,11 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-476 | 5 g/Kg |
 | E-492 | 10 g/Kg |
 | 2. Agentes de recubrimiento para productos de confitería (excepto chocolate) | E-551 a E-559 | Quantum Satis |
-| E-901 a E-905 | Quantum Satis |
+| E-901 a E-902 | Quantum Satis |
+| E-903 Cera Carnauba. | 500 mg/kg |
+| E-904 | Quantum Satis |
+| E-905 | Quantum Satis |
+| Agente de recubrimiento para confitería a base de azúcar. | E-907 Poli-1-deceno hidrogenado. | 2 g /kg. |
 | PRODUCTOS DE LA PESCA |  |  |
 | 1. Pescados congelados y ultracongelados sin elaborar | E-338(1) a E-341(1) E-343(1) E-450(1) a E-452(1) | 5 g/Kg Sólos o en combinación |
 | E-420 y E-421 | Quantum Satis |
@@ -485,11 +519,14 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | Patatas fritas congeladas y ultracongeladas | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
 | Tratamiento de superficie de frutas frescas | E-445(1) | 50 mg/Kg |
 | E-473 y E-474 | Quantum Satis |
-| E-901(2) a E-904(2) | Quantum Satis |
+| E-901(2) a E-902(2) | Quantum Satis |
+| E-903(3) Cera Carnauba. | 200 mg/kg. |
+| E-904(3) | Quantum Satis |
 | E-905(3) | Quantum Satis |
 | E-912(4) | Quantum Satis |
 | E-914(4) | Quantum Satis |
 | Notas: (1) Sólo cítricos. (2) Sólo cítricos, melones, manzanas, peras, melocotones y piñas. (3) Sólo melón, papaya, mango y aguacate. (4) Sólo cítricos, melón, papaya, mango, aguacate y piña. |  |  |
+| Agente de recubrimiento para frutas desecadas. | E-907 Poli-1-deceno hidrogenado. | 2 g /kg. |
 | QUESOS |  |  |
 | Queso no madurado (excepto Mozarella) | E-338 a E-341 E-343 E-450 a E-452 | 2 g/Kg Sólos o en combinación |
 | Queso fundido | E-338 a E-341 E-343 E-450 a E-452 | 20 g/Kg Sólos o en combinación |
@@ -544,5 +581,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | Mostarda di fruta | E-481 y E-482 | 2 g/Kg Sólos o en combinación |
 | Sod... Saft | E-900 | 10 mg/l |
 | Made wine | E-353 | 100 mg/l |
+
+> Se modifica por el art. único.3 y anexo 4 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.
 
 > Se modifica la nota 3 del apartado 1 por el art. único.2 del Real Decreto 257/2004, de 13 de febrero. Ref. BOE-A-2004-2756.

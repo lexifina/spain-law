@@ -77,6 +77,8 @@ Los preparados y alimentos de destete para lactantes y niños de corta edad podr
 
 Las dosis máximas de utilización se refieren a los alimentos listos para el consumo, preparados según las instrucciones del fabricante.
 
+Los preparados alimenticios para el destete de lactantes y niños de corta edad podrán contener octenil succinato sódico de almidón (E-1450) como resultado de la adición de preparados vitamínicos o de preparados que contengan ácidos grasos poliinsaturados. La transferencia de E-1450 en el producto listo para el consumo no deberá exceder los 100 mg/kg procedentes de los preparados vitamínicos y 1000 mg/kg de preparados que contengan ácidos grasos poliinsaturados.
+
 | PRODUCTOS ALIMENTICIOS | ADITIVOS PERMITIDOS | DOSIS MÁXIMA |
 | --- | --- | --- |
 | 1. PREPARADOS DE DESTETE | E-170 | Quantum satis(sólo para ajustar pH) |
@@ -152,7 +154,7 @@ Las dosis máximas de utilización se refieren a los alimentos listos para el co
 
 ## CUARTA PARTE
 
-## Aditivos alimentarios permitidos en los alimentos para lactantes y niños de corta edad para fines médicos especiales
+## Aditivos alimentarios permitidos en los alimentos para lactantes y niños de corta edad para fines médicos especiales, tal como se definen en el Real Decreto 1091/2000, DE 9 de junio
 
 Nota:
 
@@ -168,4 +170,7 @@ Se aplicarán las tablas contenidas en las partes primera a tercera del Anexo VI
 | E-440 | Pectinas | 10 g/l | Desde el nacimiento, en productos utilizados en casos de trastornos gastrointestinales |
 | E-466 | Carboximetil celulosa | 10 g/l o kg | Desde el nacimiento, en productos destinados al tratamiento dietético de trastornos metabólicos |
 | E-471 | Mono y diglicéridos de ácidos grasos | 5 g/l | Desde el nacimiento, en dietas especializadas en particular, en dietas sin proteínas |
+| E-472c | Ésteres cítricos de los mono- y diglicéridos de los ácidos grasos. | 7,5 g/l para productos en polvo. 9 g/l para productos en forma líquida. | Desde el nacimiento. |
 | E-1450 | Octenil succinato sódico de almidón | 20 g/l | Preparados para lactantes y preparados de continuación para lactantes |
+
+> Se modifica por el art. único.3 y anexo 6 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.

@@ -53,6 +53,7 @@ Nota: No se incluyen en esta lista:
 | E-465 | Etilmetil celulosa |  |
 | E-466 | Carboximetil celulosa Carboximetil celulosa sódica |  |
 | E-468 | Carboximetil celulosa sódica reticulada | Edulcorantes |
+| E-468 | Goma de celulosa reticulada. |  |
 | E-469 | Carboximetil celulosa hidrolizada enzimaticamente |  |
 | E-470 a | Sales sódicas, potásicas y calcicas de ácidos grasos | Agente de recubrimiento para frutas |
 | E-470 b | Sales magnésicas de ácidos grasos |  |
@@ -81,6 +82,7 @@ Nota: No se incluyen en esta lista:
 | E-553 b | Talco | En colorantes, max 5% |
 | E-558 | Bentonita |
 | E-559 | Silicato alumínico (caolín) |
+| E-555 | Silicato de potasio y aluminio. | En dióxido de titanio (E-171) y óxidos e hidróxidos de hierro (E-172) (máximo 90% con relación al pigmento). |
 | E-570 | Ácidos grasos | Agentes de recubrimiento para frutas |
 | E-577 | Gluconato potásico |  |
 | E-640 | Glicina y su sal sódica |  |
@@ -107,3 +109,5 @@ Nota: No se incluyen en esta lista:
 | E-1505 | Citrato de trietilo |  |
 | E-1518 | Triacetato de glicerilo (triacetina) |  |
 | E-1520 | Propano-1-2-diol(propilenglicol) | Colorantes, emulgentes, antioxidantes y enzimas (máximo 1 g/Kg en el producto alimenticio) |
+
+> Se modifica por el art. único.3 y anexo 5 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.
