@@ -1,16 +1,8 @@
 ## Artículo séptimo.
 
-Uno. Para la interposición de estos recursos no será necesaria la reposición ni la utilización de cualquier otro recurso previo administrativo.
+(Derogado)
 
-Dos. En el mismo escrito de interposición del recurso contencioso-administrativo, o en cualquier momento posterior, podrá solicitarse la suspensión de la efectividad del acto administrativo impugnado.
-
-Tres. De esta solicitud, y en pieza separada, se dará traslado al Ministerio Fiscal y al Abogado del Estado o representante procesal de la Administración demandada, y se requerirá al órgano del que dimane el acto impugnado para que en el plazo de cinco días puedan informar acerca de la solicitud de suspensión.
-
-Cuatro. Deducidos los dictámenes e informes a que se refiere el párrafo anterior o transcurrido el plazo concedido al efecto la Sala acordará la suspensión del cumplimiento del acto impugnado, salvo que se justifique la existencia o posibilidad de perjuicio grave para el interés general, suspensión que podrá concederse con o sin afianzamiento de los perjuicios de cualquiera otra naturaleza que pudieran derivarse.
-
-Cinco. (Derogado)
-
-Seis. En el caso de prohibición o de propuesta de modificación de reuniones previstas en la Ley Reguladora del Derecho de Reunión que no fueren aceptadas por los promotores, éstos podrán interponer recurso contencioso-administrativo ante la Audiencia competente, poniendo, al mismo tiempo, en conocimiento de la autoridad tal interposición para que ésta remita inmediatamente el expediente a la Audiencia. Dentro del plazo improrrogable de cinco días, el Tribunal, poniendo de manifiesto el expediente, convocará al Abogado del Estado, al Ministerio Fiscal y a los promotores o a la persona que éstos designen como su representante, a una audiencia en la que, de manera contradictoria, oirá a todos los personados y resolverá sin ulterior recurso sobre el mantenimiento o revocación de la prohibición o de las modificaciones propuestas.
+> Se deroga por la disposición derogatoria 2.c) de la Ley 29/1998, de 13 de julio. Ref. BOE-A-1998-16718
 
 > Se modifica el apartado 3 por la disposición adicional 1 de la Ley 52/1997, de 27 de noviembre. Ref. BOE-A-1997-25338
 
