@@ -1,3 +1,5 @@
 ## Disposición adicional primera.
 
-Los artículos 1.1, 3.1, 4.2 y disposición adicional segunda tendrán el carácter de normativa básica estatal.
+(Anulada)
+
+> Se declara la nulidad por Sentencia del TC 102/1995, de 26 de junio. Ref. BOE-T-1995-18444.

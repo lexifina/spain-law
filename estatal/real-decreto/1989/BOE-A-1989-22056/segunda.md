@@ -1,3 +1,5 @@
 ## Disposición adicional segunda.
 
-En aplicación de la disposición adicional cuarta de la Ley 4/1989, el periodo hábil de caza de las aves acuáticas, que establezcan las Comunidades Autónomas, no podrá dar comienzo antes del 15 de octubre de cada año.
+(Anulada)
+
+> Se declara la nulidad por Sentencia del TC 102/1995, de 26 de junio. Ref. BOE-T-1995-18444., correspondiendo las competencias controvertidas a las Comunidades Autónomas de Aragón, Cantabria, Castilla y León, Cataluña, las Islas Baleares y del País Vasco.
