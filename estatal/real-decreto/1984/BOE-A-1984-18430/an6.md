@@ -2,4 +2,6 @@
 
 ## Modelos de etiquetas de depuración
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1984/201/18430_001.png)
+(Suprimido)
+
+> Se suprime por el art. 1 del Real Decreto 645/1989, de 19 de mayo. Ref. BOE-A-1989-13355.

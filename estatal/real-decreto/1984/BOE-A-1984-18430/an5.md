@@ -2,14 +2,6 @@
 
 ## Especies de moluscos susceptibles de ser consumidos en crudo y que obligatoriamente deberán ser depurados
 
-Mejillón (Mytilus edulis, L.)
+(Suprimido)
 
-Ostra (Ostrae edulis, L.)
-
-Ostión (Griphaea angulata, L.)
-
-Almeja fina [Venerupis (tapes) decussatus, L.]
-
-Almeja babosa [Venerupis (tapes) pullastra, L.]
-
-Berberecho [Carastoderma (cardium) edule, L.]
+> Se suprime por el art. 1 del Real Decreto 645/1989, de 19 de mayo. Ref. BOE-A-1989-13355.
