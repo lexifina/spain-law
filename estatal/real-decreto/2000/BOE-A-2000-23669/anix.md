@@ -24,13 +24,13 @@ a) Todos los rumiantes que no sean animales de las especies ovina y caprina de l
 
 b) Cuando puedan ser identificados, los genitores, todos los embriones, óvulos y los descendientes de última generación del animal en el que se haya confirmado la enfermedad.
 
-c) Todos los animales del mismo grupo de edad del animal en que se haya confirmado la enfermedad.
+c) Todos los demás animales de las especies ovina y caprina de la explotación del animal en que se haya confirmado la enfermedad, además de los mencionados en la letra anterior.
 
-d) Todos los demás animales de las especies ovina y caprina de la explotación del animal en que se haya confirmado la enfermedad, además de los mencionados en las letras b) y c) de este punto.
+d) El posible origen de la enfermedad y la identificación de otras explotaciones en las que haya animales, embriones u óvulos que puedan haber resultado infectados por el agente causante de la encefalopatía espongiforme transmisible, haber recibido los mismos piensos o haber estado expuestos a la misma fuente de contaminación.
 
-e) El posible origen de la enfermedad y la identificación de otras explotaciones en las que haya animales, embriones u óvulos que puedan haber resultado infectados por el agente causante de la EET, haber recibido los mismos piensos o haber estado expuestos a la misma fuente de contaminación.
+e) La circulación de piensos y otros materiales o cualquier otro medio de transmisión potencialmente contaminados que puedan haber transmitido el agente de la encefalopatía espongiforme bovina la explotación de que se trate o desde la misma.
 
-f) La circulación de piensos y otros materiales o cualquier otro medio de transmisión potencialmente contaminados que puedan haber transmitido el agente de la EEB a la explotación de que se trate o desde la misma.
+> Se modifica el apartado 2 por el art. único.1 de la Orden APA/3187/2003, de 10 de noviembre. Ref. BOE-A-2003-20936.
 
 > Se modifica por el art. único y anexo de la Orden de 26 de julio de 2001. Ref. BOE-A-2001-14641.
 
