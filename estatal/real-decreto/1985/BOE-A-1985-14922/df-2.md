@@ -1,3 +1,5 @@
 ## Disposición final segunda.
 
-De acuerdo con lo preceptuado en la disposición transitoria segunda, a), del Reglamento General del Mutualismo Administrativo, quedan suprimidas, excepto en su aplicación a los mutualistas de las Mutualidades integradas que no tengan la condición de mutualistas de MUFACE, las prestaciones de ayudas para estudios y similares, o en favor de huérfanos de las Mutualidades integradas actualmente en el Fondo Especial o que se integren en el mismo en el futuro.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1.b).1 del Real Decreto 375/2003, de 28 de marzo. Ref. BOE-A-2003-7527.

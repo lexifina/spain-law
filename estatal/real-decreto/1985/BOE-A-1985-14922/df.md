@@ -1,3 +1,5 @@
 ## Disposición final primera.
 
-Se faculta al Ministerio de la Presidencia para incrementar la cuantía de las becas y bolsas de estudios que se determinan en el artículo 2.º de este Real Decreto, en la medida en que las disponibilidades presupuestarias de la Mutualidad General para cada ejercicio económico lo permitan.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1.b).1 del Real Decreto 375/2003, de 28 de marzo. Ref. BOE-A-2003-7527.
