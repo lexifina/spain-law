@@ -1,6 +1,8 @@
 ## Artículo cuarto.
 
-Los contratos temporales que, como medida de fomento del empleo, al amparo de lo establecido en el artículo 17. 3, del Estatuto de los Trabajadores, se celebren hasta el 31 de diciembre de 1983, se regirán por lo dispuesto en los artículos siguientes.
+(Derogado)
+
+> Se deroga por la disposición derogatoria del Real Decreto 1989/1984, de 17 de octubre. Ref. BOE-A-1984-24873.
 
 > Se prorroga la vigencia por el art. único del Real Decreto 3236/1983, de 21 de diciembre. Ref. BOE-A-1983-34294.
 
