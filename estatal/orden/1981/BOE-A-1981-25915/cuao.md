@@ -1,0 +1,3 @@
+## Cuarto.
+
+De acuerdo con lo dispuesto en el Decreto 1043/1973, de 17 de mayo, por el que se regula la normalización de productos ganaderos en el mercado interior, los Ministerios de Agricultura y Pesca, de Economía y Comercio y de Trabajo, Sanidad y Seguridad Social ejercerán las funciones de control y vigilancia de lo dispuesto en la presente Orden, dentro del ámbito de sus respectivas competencias y a través de los órganos administrativos correspondientes que se coordinarán en sus actuaciones; sin perjuicio de las competencias que puedan tener atribuidas los correspondientes órganos de las Comunidades Autónomas.
