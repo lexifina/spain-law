@@ -26,9 +26,7 @@ h) Experiencia clínica y práctica adecuada bajo supervisión apropiada.
 
 1. Los planes de estudios que aprueben las Universidades deberán articularse como enseñanzas de primero y segundo ciclo, con una duración de dos y tres años, respectivamente, a tiempo completo. Los distintos planes de estudio conducentes al título oficial de Licenciado en Veterinaria determinarán, en créditos, la carga lectiva global que en ningún caso podrá ser inferior a 300 créditos ni superior al máximo de créditos que para los estudios de primero y segundo ciclo permite el Real Decreto 1497/1987, incluidos los correspondientes a las Estancias (prácticas de formación) que figura en la relación de materias troncales.
 
-2. Las Universidades podrán especificar en sus planes de estudio las horas que los alumnos deban dedicar dentro o fuera del período lectivo, de acuerdo con la oportuna programación docente, a las Estancias (prácticas de formación). Estas horas se imputarán por equivalencias a los créditos fijados para dichas Estancias en el cuadro de materias troncales a que se refiere la directriz cuarta.
-
-3. La carga lectiva establecida en el plan de estudios oscilará entre veinte y treinta horas semanales, incluidas las enseñanzas prácticas. En ningún caso la carga lectiva de la enseñanza teórica superará las quince horas semanales.
+2. Las Universidades establecerán en sus planes de estudio, en los que se incluirán las estancias (prácticas de formación), las correspondencias extraordinarias del crédito necesarias para garantizar la formación prevista en la Directiva comunitaria a que se refiere la directriz primera, teniendo en cuenta lo establecido en el apartado 7 del artículo 2 del Real Decreto 1497/1987.
 
 ## Tercera.
 
@@ -83,3 +81,7 @@ TÍTULO DE LICENCIADO EN VETERINARIA
 (1) Durante un período de cinco años se entenderán asimismo incluidas en este apartado las áreas de conocimiento Patología Animal; Parasitología; Microbiología; Fisiología; y Bioquímica y Biología Molecular.
 
 (2) Teórico-práctico.
+
+> Se modifica la directriz segunda por el art. 7 del Real Decreto 1267/1994, de 10 de junio. Ref. BOE-A-1994-13272
+
+> Esta modificación tiene efectos en las homologaciones de planes de estudio desde el día 28 de junio de 1993, según establece la disposición final única del citado Real Decreto.
