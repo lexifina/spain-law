@@ -1,0 +1,9 @@
+La Ley 24/1997, de 15 de julio, de Consolidación y Racionalización del Sistema de Seguridad Social, mediante la reforma del texto refundido de la Ley General de Seguridad Social, aprobado por Real Decreto legislativo 1/1994, de 20 de junio, plasma una serie de medidas concretas que afectan, por una parte, a los aspectos financieros del sistema -separación de fuentes de financiación, constitución de reservas, establecimiento gradual de un tope único de cotización- y, por otra, a la acción protectora, en especial, a las pensiones de jubilación, incapacidad permanente, viudedad y orfandad.
+
+Se hace necesario abordar, con carácter inmediato, el desarrollo reglamentario de algunas de las reformas introducidas en materia de prestaciones, para facilitar su aplicación, detallando y aclarando aquellos aspectos que se derivan de las modificaciones incorporadas a la Ley. Por otro lado, como es evidente, en el presente Real Decreto no se recogen las materias cuya concreción se remite a futuras negociaciones o consultas con los agentes sociales, como el régimen de incompatibilidades de las pensiones de incapacidad permanente o el tope de cobertura de las pensiones contributivas.
+
+En la elaboración del presente Real Decreto se ha procurado paliar la dispersión normativa existente en el ordenamiento jurídico de la Seguridad Social, de forma que, en la medida de lo posible, las adaptaciones normativas necesarias se han llevado a cabo a través de una nueva redacción de los preceptos reglamentarios afectados.
+
+En su virtud, en base a las facultades contenidas en la disposición final séptima de la Ley General de la Seguridad Social, texto refundido aprobado por el Real Decreto legislativo 1/1994, de 20 de junio, a propuesta del Ministro de Trabajo y Asuntos Sociales, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 31 de octubre de 1997,
+
+## D I S P O N G O :

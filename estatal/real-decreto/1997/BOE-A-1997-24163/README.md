@@ -1,0 +1,37 @@
+# Real Decreto 1647/1997, de 31 de octubre, por el que se desarrollan determinados aspectos de la Ley 24/1997, de 15 de julio, de consolidación y racionalización del sistema de la Seguridad Social.
+
+- Identificador: BOE-A-1997-24163
+- Rango: Real Decreto
+- Fecha de disposición: 1997-10-31
+- Publicación: 1997-11-13
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-1997-24163
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [preambulo](preambulo.md)
+- [CAPÍTULO I](ci.md)
+- [Artículo 1](a1.md)
+- [CAPÍTULO II](cii.md)
+- [Artículo 2](a2.md)
+- [Artículo 3](a3.md)
+- [Artículo 4](a4.md)
+- [Artículo 5](a5.md)
+- [CAPÍTULO III](ciii.md)
+- [Artículo 6](a6.md)
+- [Artículo 7](a7.md)
+- [CAPÍTULO IV](civ.md)
+- [Artículo 8](a8.md)
+- [Artículo 9](a9.md)
+- [Artículo 10](a10.md)
+- [Artículo 11](a11.md)
+- [Disposición adicional única](daunica.md)
+- [Disposición transitoria primera](dtprimera.md)
+- [Disposición transitoria segunda](dtsegunda.md)
+- [Disposición transitoria tercera](dttercera.md)
+- [Disposición transitoria cuarta](dtcuaa.md)
+- [Disposición derogatoria única](ddunica.md)
+- [Disposición final primera](dfprimera.md)
+- [Disposición final segunda](dfsegunda.md)
+- [firma](firma.md)
