@@ -47,6 +47,7 @@
 |  | * Sección de Económicas y Comerciales. |
 |  | - Licenciado en Ciencias Económicas y Empresariales: |
 |  | * Secciones de Ciencias Empresariales, Empresariales y Economía de la Empresa. |
+|  | - Licenciado en Ciencias Empresariales. |
 | - Licenciado en Ciencias de la Actividad Física y del Deporte. | - Licenciado en Educación Física. |
 | - Licenciado en Ciencias Actuariales y Financieras. | - Licenciado en Ciencias Económicas y Empresariales: |
 |  | * Sección Actuarial y de la Empresa Financiera. |
@@ -191,7 +192,8 @@
 | - Ingeniero Técnico en Informática de Gestión. | - Diplomado en Informática. |
 | - Ingeniero Técnico en Informática de Sistemas. | - Diplomado en Informática. |
 | - Ingeniero Técnico de Minas, especialidad en Explotación de Minas. | - Ingeniero Técnico de Minas: |
-|  | Especialidad en Explotación de Minas. |
+|  | * Especialidad en Explotación de Minas. |
+|  | * Especialidad en Laboreo y explosivos. |
 |  | - Ingeniero Técnico en Explotación de Minas. |
 | - Ingeniero Técnico de Minas, especialidad en Instalaciones Electromecánicas Mineras. | - Ingeniero Técnico de Minas. |
 |  | * Especialidad en Instalaciones Electromecánicas Mineras. |
@@ -416,7 +418,7 @@
 |  | * Sección Historia Antigua. |
 |  | * Sección Historia Medieval. |
 |  | * Sección Historia General. |
-|  | * Sección Antropología Cultural. |
+|  | * Sección Antropología Cutural. |
 |  | * Sección Geografía e Historia. |
 |  | * Sección Prehistoria y Arqueología. |
 | - Licenciado en Historia del Arte. | - Licenciado en Filosofía y Letras: |
@@ -435,6 +437,8 @@
 | - Licenciado en Lingüística. |  |
 | - Licenciado en Teoría de la Literatura y Literatura Comparada. |  |
 | - Licenciado en Traducción e interpretación. |  |
+
+> Se modifica el apartado II y III por los apartados 1 y 2 de la Orden de 19 de julio de 1999. Ref. BOE-A-1999-16209.
 
 > Se modifica el apartado IV por los apartados 1 y 2 de la Orden de 28 de agosto de 1998. Ref. BOE-A-1998-21018.
 
