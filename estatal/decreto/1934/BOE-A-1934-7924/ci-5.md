@@ -1,3 +1,5 @@
 ## CAPÍTULO IX
 
 ## Explosivas
+
+> Se deroga por el art. 2 del Decreto 1466/1962, de 22 de junio. Ref. BOE-A-1962-12725
