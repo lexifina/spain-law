@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+Las competencias y funciones atribuidas en el presente Real Decreto al Instituto Nacional de la Salud en cuanto se refiere al ámbito de aplicación de régimen especial de los trabajadores del mar, podrán ser ejercidas por los correspondientes Servicios Médicos del Instituto Social de la Marina, hasta que por el Instituto Nacional de la Salud se asuman de forma efectiva todas las competencias y funciones atribuidas por el Real Decreto mil ochocientos cincuenta y cinco/mil novecientos setenta y nueve, de treinta de julio, en relación con el citado régimen especial.
