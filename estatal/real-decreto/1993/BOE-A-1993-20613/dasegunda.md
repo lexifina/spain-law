@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+En aquellos centros docentes de titularidad del Estado español en los que el número de alumnos de nacionalidad distinta de la española supere el 50 por 100 del número total de alumnos del centro, no se constituirá Consejo Escolar. El Ministerio de Educación y Ciencia, previo informe de los Consejeros de Educación en los países respectivos, podrá determinar el establecimiento de fórmulas de participación adecuadas a las circunstancias de cada país y adoptar decisiones sobre la atribución de competencias asignadas por el presente Real Decreto a los Consejos Escolares. En todo caso, para el nombramiento de los directores de los centros antes aludidos se estará a lo dispuesto en el apartado 2 del artículo 55.
