@@ -12,6 +12,9 @@
 | 90/207, de 4 de abril de 1990. | 28 de abril de 1990 L/108, página 92. |  |
 | 93/73, de 9 de septiembre de 1993. | 14 de septiembre de 1993, L 231, página 34. |  |
 | 95/32, de 7 de julio de 1995. | 28 de julio de 1995 (serie L 178; pag. 20). |  |
+| 96/45, de 2 de julio de 1996. | 22 de agosto de 1995, L 213, página 8. |  |
+
+> Se modifica por el art. único de la Orden de 23 de julio de 1997. Ref. BOE-A-1997-17463
 
 > Se modifica por la Orden de 25 de marzo de 1996. Ref. BOE-A-1996-8142
 
