@@ -76,7 +76,7 @@ Esta prueba comprende:
 
 1.5. Placa de montaje.
 
-Efectuado el control de instalación se colocará una placa de montaje en el tacógrafo, que se sustituirá por otra nueva siempre que se realice un nuevo control.
+Efectuado el control de instalación, se colocará en el vehículo o junto al tacógrafo, una placa de montaje bien visible, que se sustituirá por otra nueva siempre que se realice un nuevo control.
 
 1.5.1. La placa de montaje ha de contener los siguientes datos:
 
@@ -123,3 +123,5 @@ g) El cierre o apertura del tacógrafo quedará marcado en el disco-diagrama.
 h) El funcionamiento del mecanismo de relojería puede comprobarse en el propio tacógrafo o en el disco-diagrama, verificando que no se producen registros verticales de las agujas.
 
 i) Todas las agujas de registro deberán poderse mover fácilmente presionando el muelle y no estar dobladas, verificándose en su caso con una plantilla de control.
+
+> Se modifica el punto 1.5 por el apartado 1 de la Orden de 11 de julio de 1983. Ref. BOE-A-1983-20069.
