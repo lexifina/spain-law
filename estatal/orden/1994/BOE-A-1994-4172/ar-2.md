@@ -1,0 +1,3 @@
+## Artículo 2.
+
+Para los vegetales, productos vegetales u otros objetos enumerados en la sección II de la parte A del anexo V del Real Decreto 2071/1993, de 26 de noviembre, procedentes de una zona protegida establecida para los citados vegetales, productos vegetales u otros objetos respecto a uno o varios organismos nocivos, que circulen dentro de dicha zona se considerarán cumplidos los controles oficiales contemplados en el apartado 2 del artículo 6 del Real Decreto citado por los requisitos establecidos en la Orden de este Departamento de 31 de enero de 1994 «por la que se establecen las modalidades de los estudios a realizar en el marco del reconocimiento por la Unión Europea de las zonas protegidas en España expuestas a riesgos fitosanitarios específicos».
