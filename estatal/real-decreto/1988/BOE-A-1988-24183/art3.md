@@ -36,11 +36,7 @@ Sólidos solubles del extracto acuoso: 25 al 40 por 100.
 
 3.6 Café molido de tueste natural (porcentaje) y torrefacto (porcentaje): Esta denominación, donde obligatoriamente figurarán los porcentajes, corresponde a las mezclas realizadas con los cafés citados en los epígrafes 3.1 y 3.2, sometidos a los procesos industriales de molido y envasado, debiendo ajustarse a las especificaciones de dichos epígrafes que resulten según los porcentajes empleados.
 
-3.7 «Café soluble» o «café instantáneo» o «extracto de café» o «extracto soluble de café»: Es el producto en forma sólida, soluble en agua, obtenido por deshidratación de la infusión acuosa del café de tueste natural.
-
-Contendrá:
-
-Humedad: 5 por 100 máximo.
+3.7 (Suprimido)
 
 3.8. «Café torrefacto soluble» o «café torrefacto instantáneo»: Es el producto en forma sólida, soluble en agua, obtenido por deshidratación de la infusión acuosa del café torrefacto.
 
@@ -56,11 +52,7 @@ Contendrá:
 
 Humedad: 5 por 100 máximo.
 
-3.10 «Extracto de café en pasta»: Es el producto en forma pastosa obtenido por deshidratación parcial de la infusión acuosa del café de tueste natural.
-
-Contendrá:
-
-Humedad: Comprendida entre el 15 por 100 y el 30 por 100.
+3.10 (Suprimido)
 
 3.11 «Extracto de café torrefacto en pasta»: Es el producto en forma pastosa obtenido por deshidratación parcial de la infusión acuosa del café torrefacto.
 
@@ -70,11 +62,7 @@ Humedad: Comprendida entre el 15 por 100 y el 30 por 100.
 
 Cantidad de sacarosa o glucosa: 12 kilogramos como máximo de dichos azúcares (expresados en sustancia seca, si los azúcares se emplean en forma líquida) por cada 100 kilogramos de café verde.
 
-3.12 «Extracto de café líquido»: Es el producto en forma líquida obtenido por deshidratación parcial de la infusión acuosa del café de tueste natural.
-
-Contendrá:
-
-Humedad: Comprendida entre el 45 por 100 y el 85 por 100.
+3.12 (Suprimido)
 
 3.13 «Extracto de café torrefacto líquido»: Es el producto en forma líquida, obtenido por deshidratación parcial de la infusión acuosa del café torrefacto.
 
@@ -83,5 +71,7 @@ Contendrá:
 Humedad: Comprendida entre el 45 por 100 y el 85 por 100.
 
 Cantidad de sacarosa o glucosa: 12 kilogramos como máximo de dichos azúcares (expresados en sustancia seca, si los azúcares se emplean en forma líquida) por cada 100 kilogramos de café verde.
+
+> Se suprimen los apartados 7, 10 y 12 por el art. 2.2 del Real Decreto 943/2001, de 3 de agosto. Ref. BOE-A-2001-15218.
 
 > Se modifican los apartados 1, 2, 8, 11 y 13 por el art. único.1 a 4 del Real Decreto 1372/1997, de 29 de agosto. Ref. BOE-A-1997-19498.

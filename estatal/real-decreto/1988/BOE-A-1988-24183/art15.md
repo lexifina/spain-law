@@ -4,6 +4,10 @@ La información del etiquetado de los envases de los productos sujetos a esta Re
 
 15.1 Denominación del producto: Serán las denominaciones específicas de la presente Reglamentación Técnico-Sanitaria contempladas en el artículo 3.º
 
+Las denominaciones de los productos b) y c) definidos en el apartado 2.2 del artículo 2 "Extracto de café'' o "extracto de café soluble'', o "café soluble'' o "café instantáneo'' se completarán, en su caso, con los términos "en pasta'' o "en forma de pasta o líquido'' o "en forma líquida'', de acuerdo con las características allí establecidas.
+
+En el caso del extracto de café líquido, definido en el párrafo c) del apartado 2.2, la denominación se podrá completar con el calificativo "concentrado'' siempre que el contenido de materia seca procedente del café sea superior en masa al 25 por 100.
+
 En aquellas denominaciones en las que obligatoriamente han de figurar los porcentajes de productos empleados se admitirá que el contenido del envase tenga una variación del 5 por 100 en dichos porcentajes, sin perjuicio de que la suma dé siempre el 100 por 100.
 
 15.2 Lista de ingredientes: Irá precedida del título «Ingredientes» o de una mención apropiada que incluya tal palabra y se mencionarán todos los ingredientes en orden decreciente de sus masas en el momento en que se incorporen durante el proceso de fabricación del producto.
@@ -40,11 +44,9 @@ Será obligatorio tener a disposición de los servicios de las Administraciones 
 
 15.7 Leyenda en «cafés torrefactos»: En el etiquetado de los productos sujetos a esta Reglamentación Técnico-Sanitaria que contengan cafés torrefactos será obligatorio incluir la leyenda siguiente: «El café torrefacto ha sido tostado con azúcares...».
 
-15.8 Leyenda en «extractos de café liquido»: En el caso de los productos definidos en los epígrafes 3.12 y 3.13 figurará la leyenda «con azúcar», «conservado con azúcar» o «con azúcar añadido», si el azúcar ha sido añadido después del proceso de tostado.
+15.8 En el caso del extracto de café líquido definido en el apartado 2.2 del artículo 2, el etiquetado deberá indicar "con...'', "conservado con...'', "con... añadida'' o "tostado con...'' acompañado de la denominación del tipo de azúcar o azúcares utilizados. Estas menciones deberán figurar en el mismo campo visual que la denominación de venta.
 
-Cuando se hayan utilizado otros azúcares en lugar de la sacarosa, deberán indicarse los mismos en lugar de la palabra «azúcar».
-
-15.9 Leyenda en «extractos de café en pasta» y «extractos de café líquido»: En el caso de los productos definidos en los epígrafes 3.10, 3.11, 3.12 y 3.13 figurará una leyenda con el porcentaje en masa del extracto seco de café contenido en el producto final.
+15.9 En el caso del extracto de café en pasta y del extracto de café líquido, definidos en los párrafos b) y c) del apartado 2.2 del artículo 2, el etiquetado deberá indicar el contenido mínimo de materia seca procedente del café. Dicho contenido se expresará como porcentaje en la masa del producto acabado.
 
 15.10 En el caso de venta a granel de los cafés en grano, deberá figurar en carteles situados junto al producto:
 
@@ -53,5 +55,9 @@ La denominación de venta según lo establecido en el artículo 3 y completada, 
 La lista de ingredientes, en su caso.
 
 Cuando se trate de café torrefacto, será obligatorio que se incluya, además, la leyenda siguiente: El café torrefacto ha sido tostado con azúcares.
+
+15.11 El etiquetado deberá incluir la mención ``descafeinado'' en el caso de los productos definidos en el apartado 2.2 cuando el contenido de cafeína anhidra no sea superior en masa al 0,3 por 100 de la materia seca procedente del café. Esta mención deberá figurar en el mismo campo visual que la denominación de venta.
+
+> Se modican los apartados 1, 8 y 9 y se añade el 11 por el art. 2.4 del Real Decreto 943/2001, de 3 de agosto. Ref. BOE-A-2001-15218.
 
 > Se añade el apartado 10 por el art. único.9 del Real Decreto 1372/1997, de 29 de agosto. Ref. BOE-A-1997-19498.

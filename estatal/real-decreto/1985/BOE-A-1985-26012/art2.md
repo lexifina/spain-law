@@ -2,17 +2,7 @@
 
 2.1 Sucedáneos de café.–Son los productos de origen vegetal, tostados, destinados a efectuar preparaciones que reemplacen a la infusión de café como bebida fruitiva. Dichos productos, que pueden comercializarse en grano o molidos con textura de sémola, polvo, granulados o prensados, son los siguientes:
 
-2.1.1 Achicoria tostada.–Es el producto elaborado con la raíz de la planta de «Cichoriun intybus L.», convenientemente lavada, limpia, troceada, desecada, tostada y molida. Se excluyen aquellas plantas que se utilicen para la producción en endibias (achicoria witloof).
-
-Características físico-química:
-
-Cenizas: Máximo 10 por 100 sobre materia seca.
-
-Cenizas insolubles en ácido clorhidrico 3 normal: Máximo 3 por 100 sobre materia seca.
-
-Humedad: Máximo 15 por 100.
-
-Extracto acuoso: Mínimo 42,5 por 100 en ebullición durante tres minutos.
+2.1.1 Achicoria.-Se entiende por achicoria las raíces de "Cichorium intybus L", no utilizadas para la producción de "chicoria witloof'", convenientemente limpiadas antes de ser desecadas y tostadas y normalmente utilizadas para la preparación de bebidas.
 
 2.1.2 Malta de cebada tostada.–Es el producto de color uniforme obtenido por tostado de la malta verde procedente de cebada en grado de germinación apropiado.
 
@@ -73,6 +63,8 @@ No contendrán otros elementos que los procedentes de su extracción. Las sustan
 – Materia seca procedente de dichos productos comprendida entre el 16 por 100 y el 50 por 100 en masa.
 
 – No contendrán otros elementos que los procedentes de su extracción. No obstante, podrán contener azúcares en una proporción que no exceda del 35 por 100 en masa.
+
+> Se modifica el apartado 2.1.1 por el art. 1.1 del Real Decreto 943/2001, de 3 de agosto. Ref. BOE-A-2001-15218.
 
 > Se modifican los apartados 2.2.1 y 2.2.5 y se añade el apartado 2.2.6 por el art. único del Real Decreto 1132/1988, de 14 de octubre. Ref. BOE-A-1988-24184.
 
