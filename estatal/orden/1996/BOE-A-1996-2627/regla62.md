@@ -1,6 +1,6 @@
 ## Regla 62. Justificantes que han de acompañar a los documentos contables de gestión de créditos y ejecución de gasto
 
-1. La apertura del Presupuesto de Gastos en cada Departamento ministerial se realiza por la oficina de contabilidad dando de alta los créditos autorizados en la Ley de Presupuestos aprobada para cada ejercicio, por lo que servirá de justificante de esta operación la Ley publicada en el «Boletín Oficial del Estado», sin que sea necesario expedir documento contable alguno ni archivar ningún tipo de justificación.
+1. Para la operación de apertura del presupuesto de gastos servirá de justificante la Ley de Presupuestos Generales del Estado publicada en el "Boletín Oficial del Estado", sin que sea necesario expedir documento contable alguno.
 
 2. A los documentos MC de modificaciones de crédito se unirá la resolución aprobatoria de la modificación presupuestaria.
 
@@ -29,3 +29,7 @@ Los documentos D de signo negativo se justificarán con el acuerdo de revocació
 8. El documento PR se justificará con el acuerdo de prescripción de obligaciones.
 
 9. El criterio general de justificación de operaciones establecido en los números anteriores no será de aplicación a aquellos tipos de gasto para los que en el capítulo III de la presente Instrucción, o en sus normas reguladoras específicas, se establecen otros medios de justificación.
+
+> Se modifica el apartado 1 por el punto 1.23 de la Orden HAC/1299/2002, de 23 de mayo. Ref. BOE-A-2002-10789
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.

@@ -198,7 +198,7 @@ Cuando se utilicen documentos «Anexo Aplicaciones», en aquellos documentos a l
 
 25. Tipo de pago: Se indicará el código que corresponda de la tabla de «tipo de pago» del sistema de información contable, según que el pago se vaya a realizar al acreedor directo o a través de los distintos agentes mediadores en el pago que posibilite la normativa aplicable.
 
-26. Forma de pago: Se indicará, en su caso, el medio a través del cual se deba hacer efectiva la propuesta de pago.
+26. Forma de pago: Este campo no deberá cumplimentarse por el servicio gestor.
 
 27. Área origen del gasto: Se indicará el código identificativo y denominación de la provincia o grupo de provincias en donde se va a ejecutar el gasto.
 
@@ -250,13 +250,17 @@ e) Día en que se termine de prestar el servicio:
 
 Liquidación de aquellos contratos que hayan supuesto la prestación de algún servicio a la Administración.
 
-f) Día en que se efectúe la aprobación de los siguientes gastos:
+f) Día en que se efectúe la aprobación del correspondiente gasto, en el caso de gastos de emisión, modificación y cancelación de deudas cuando no conlleven la necesidad de formalizar contratos.
 
-Subvenciones y transferencias.
+g) Día en que se dicte el acto por el que se reconozca y cuantifique el derecho de cobro del ente beneficiario, en caso de subvenciones y transferencias.
 
-Gastos de emisión, modificación y cancelación de deudas cuando no conlleven la necesidad de formalizar contratos.
+No obstante, si llegado el fin de ejercicio el ente concedente tiene constancia de que el ente beneficiario ha cumplido los requisitos para el cobro que le son exigidos por la normativa reguladora, pero no ha dictado el acto a que se refiere el párrafo anterior, la fecha del gasto que debe figurar en el documento que se expida, en su caso, en enero del ejercicio siguiente será la del día en que el ente concedente tuvo constancia, que quede documentada, de dicho cumplimiento.
 
-Anticipos al personal.
+h) Día en que se dicte el acto administrativo de concesión del anticipo, en caso de anticipos al personal.
+
+i) Día en que se expida el correspondiente documento contable para efectuar el libramiento, en caso de libramientos para ''pagos a justificar''.
+
+j) Día en el que la Caja Pagadora haya presentado la cuenta justificativa a la Unidad Central de Caja, en caso de reposición de fondos de anticipos de caja fija.
 
 35. Fecha del reconocimiento de la obligación: Fecha en la que se ha dictado el correspondiente acto administrativo del reconocimiento de la obligación.
 
@@ -274,9 +278,13 @@ Anticipos al personal.
 
 42. Texto libre de la operación: Espacio para indicar, en su caso, las explicaciones necesarias referentes a la operación que se pretende registrar.
 
+En el caso de documentos relativos a transferencias o subvenciones concedidas que incorporen la fase «D» de compromiso del gasto, se consignará en el texto libre de los mismos la normativa con base en la cual se han efectuado o concedido las correspondientes transferencias o subvenciones.
+
+Además, en el caso de subvenciones concedidas se consignará también en dicho texto libre la finalidad de las mismas.
+
 43. Importe a desglosar o distribuir: Importe que se pretende desglosar o, en su caso, distribuir entre los servicios periféricos.
 
-44. Subconcepto, partida, subprograma, elemento de programa o provincia: Se indicarán los subconceptos en los que se desglosa un concepto o, en su caso, las partidas en que se desglosa un subconcepto. Asimismo, se indicarán los subprogramas en los que se desglosa un programa o, en su caso, los elementos de programa en que se desglosa un subprograma. Cuando se refiera a delegación de créditos se indicará el código de la provincia a que corresponda el servicio periférico.
+44. ''Subconcepto o partida, subprograma o elemento de programa, código territorial u orgánico'': Se indicarán los subconceptos en los que se desglosa un concepto o, en su caso, las partidas en que se desglosa un subconcepto; los subprogramas en que se desglosa un programa o, en su caso, los elementos de programa en que se desglosa un subprograma, y los códigos territorial u orgánico en que se desglosa la sección. Cuando se refiera a delegación o desconcentración de competencias, se indicará el código territorial a que corresponda el servicio periférico.
 
 45. Importe desglosado: Importe correspondiente a cada uno de los subconceptos, partidas o provincias a los que se refiere la nota 44 anterior.
 
@@ -586,7 +594,31 @@ Cuando se utilicen documentos «Anexo», en aquellos documentos a los que comple
 
 198. Tipo de desglose: Se indicará el tipo de desglose que se efectúe: Orgánico, funcional o económico.
 
+199. Tipo de reasignación: Se marcará la casilla correspondiente, según que la reasignación afecte a la clasificación orgánica, funcional o económica.
+
+200. Número de aplicaciones a reasignar: Se indicará el número de aplicaciones origen de la reasignación.
+
+201. Número de aplicaciones reasignadas: Se indicará el número de aplicaciones destino de la reasignación.
+
+202. Número de anexos: En caso de que el número de aplicaciones exceda del previsto en el documento, se indicará en este campo el número de anexos que se adjuntan al documento.
+
+203. Importe total a reasignar: Importe que suman las aplicaciones a reasignar, que debe ser igual al que sumen las aplicaciones reasignadas.
+
+204. Importe a reasignar: Para cada aplicación se consignará el importe a reasignar.
+
+205. Importe reasignado: Para cada aplicación se consignará el importe reasignado.
+
+206. Número del anexo: En el documento anexo se indicará en este campo el número de orden de cada anexo utilizado para un mismo documento.
+
+207. Importe total: Importe gastado más importe reintegrado.
+
+208. Fecha de aprobación: Se indicará la fecha en que se haya aprobado la cuenta justificativa del pago a justificar.
+
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifica por el apartado 2.11 a 19 de la Orden HAC/1299/2002, de 23 de mayo. Ref. BOE-A-2002-10789.
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
 
 > Se modifica por el apartado 3.A) y la disposición adicional de la Resolución de 23 de febrero de 1999. Ref. BOE-A-1999-5362.
 

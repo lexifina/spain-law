@@ -1,7 +1,7 @@
 ## Regla 105. Tramitación de los intereses de depósitos recibidos por la Administración General del Estado
 
-1. Cuando la normativa aplicable establezca el pago de intereses por los depósitos en metálico o en efectos recibidos en la Caja General de Depósitos, dichos pagos de intereses se tramitarán mediante propuestas de pago no presupuestarias en la central o sucursales de dicha Caja General.
+(Suprimido)
 
-2. La aplicación a los conceptos correspondientes del capítulo 3 del Presupuesto de Gastos de la Dirección General del Tesoro y Política Financiera se efectuará de forma centralizada en dicho Centro.
+> Se suprime por el punto 1.28 de la Orden HAC/1299/2002, de 23 de mayo. Ref. BOE-A-2002-10789
 
-Para ello la central de la Caja General de Depósitos preparará el oportuno expediente de gasto, y una vez aprobado éste, se formularán los oportunos documentos ADOK en formalización que se remitirán a la oficina de contabilidad en el Ministerio de Economía y Hacienda (Area de Economía), junto con el expediente aprobado.
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
