@@ -104,7 +104,7 @@
 | 53 | ÁCIDO ETIDRÓNICO Y SUS SALES (ÁCIDO 1- HIDROXIETILIDEN-DI-FOSFÓNICO Y SUS SALES) | a) Productos para el cuidado del cabello. | 1,5% expresado en ácido etidrónico. |  |  |
 |  |  | b) Jabones | 0,2% expresado en ácido etidrónico. |  |  |
 | 54 | FENOXIPROPANOL | Únicamente para productos aclarados. Prohibido en los productos de higiene bucal. | 2,0% | Como agente conservador , ver el Anexo VI, 1ª parte n.º 43 |  |
-| 55 | ACETATO DE PLOMO | Únicamente como tinte para el cabello | 0,6% (expresado en plomo). |  | – Manténgase fuera del alcance de los niños. – Evítese el contacto con los ojos. – Lávense bien las manos después de su aplicación. – Contiene acetato de plomo. – No utilizar para teñir cejas, pestañas y bigote. – En caso de irritación de la piel, suspéndase el uso. |
+| 55 (Suprimido) |  |  |  |  |  |
 | 56 | FLUORURO DE MAGNESIO | Productos de higiene bucal. | 0,15% calculado en flúor. Si aparece mezclado con otros compuestos fluorados, autorizados en este Anexo, la concentración máxima de flúor sigue siendo 0,15% |  | – Contiene fluoruro de magnesio |
 | 57 | Cloruro de estroncio (hexahidratado). | a) Dentífricos. | 3,5% expresado en estroncio. En caso de mezcla con otros compuestos de estroncio autorizados por este anexo, la concentración máxima de estroncio queda fijada en 3,5%. |  | – Contiene cloruro de estroncio. Se desaconseja su uso en niños. |
 |  |  | b) Champú y productos de cuidado de la cara. | 2,1% expresado en estroncio. En caso de mezcla con otros compuestos de estroncio autorizados por este anexo, la concentración máxima de estroncio queda fijada en 2,1% |  |  |
@@ -164,6 +164,8 @@ Se denomina «cociente relativo» a la relación entre la concentración de una 
 Se denomina «cociente relativo» a la relación entre la concentración de una sustancia y la concentración máxima permitida para esa sustancia.
 
 (4) La cantidad de hidróxido de potasio, sodio o litio se expresa en peso de hidróxido de sodio. En caso de mezclas, la suma no debería sobrepasar los límites establecidos en la columna d).
+
+> Se suprime el número 55 por el apartado 1.2 de la Orden SCO/544/2005, de 8 de marzo. Ref. BOE-A-2005-3946.
 
 > Se añade los números 67 a 92 por el art. único.20 del Real Decreto 209/2005, de 25 de febrero. Ref. BOE-A-2005-3243.
 
