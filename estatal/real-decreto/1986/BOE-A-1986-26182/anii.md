@@ -1,30 +1,20 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_017.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_018.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_019.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_022.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_020.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_023.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_021.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_024.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_025.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_023.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_026.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_027.png)
-
-> Se modifica por la Orden ITC/3158/2004, de 23 de septiembre. Ref. BOE-A-2004-17095.
-
-> Se modifica por la Orden CTE/0315/2004, de 10 de febrero. Ref. BOE-A-2004-2883.
-
-> Se modifica por la Orden CTE/2780/2003, de 8 de octubre. Ref. BOE-A-2003-18821.
-
-> Se modifica por la Orden CTE/3347/2002, de 26 de diciembre. Ref. BOE-A-2003-93.
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/154/12763_024.png)
 
 > Se modifica por la Orden CTE/1612/2002, de 25 de junio. Ref. BOE-A-2002-12763.
 
