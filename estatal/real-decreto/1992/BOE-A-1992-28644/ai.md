@@ -15,3 +15,7 @@ b) La humedad, el agua (guantes para fregar, etc.).
 c) El calor (guantes).
 
 4. EPI destinados a la protección o el salvamente de personas embarcadas a bordo de los buques o aeronaves que no se lleven de manera permanente.
+
+5. Cascos y viseras destinados a usuarios de vehículos de motor de dos o tres ruedas.
+
+> Se añade el apartado 5 por el art. único.8 del Real Decreto 159/1995, de 3 de febrero. Ref. BOE-A-1995-5920

@@ -24,7 +24,7 @@ Cuando las condiciones de empleo previsibles permitan distinguir diversos nivele
 
 1.2 Inocuidad de los EPI.
 
-1.2.1 Ausencia de riesgos y demás factores de molestia <endógenos>.
+1.2.1 Ausencia de riesgos y demás factores de molestia «endógenos».
 
 Los EPI estarán concebidos y fabricados de tal manera que no ocasionen riesgos ni otros factores de molestia en condiciones normales de uso.
 
@@ -75,6 +75,10 @@ e) Fecha o plazo de caducidad de los EPI o de algunos de sus componentes.
 f) Tipo de embalaje adecuado para transportar los EPI.
 
 g) Explicación de las marcas, si las hubiere (véase el apartado 2.12).
+
+h) En su caso, las referencias de las disposiciones aplicadas de conformidad con el párrafo b) del apartado 5 del artículo 4.
+
+i) Nombre, dirección y número de identificación de los organismos de control notificados que intervienen en la fase de diseño de los EPI.
 
 Este folleto de información estará redactado de forma precisa, comprensible y, por lo menos, en la o las lenguas oficiales del Estado miembro destinatario.
 
@@ -332,9 +336,7 @@ El grado de estanqueidad de la pieza facial, las pérdidas de carga en la inspir
 
 Los EPI llevarán la marca de identificación del fabricante y el detalle de las características propias de cada tipo de equipo que, con las instrucciones de utilización, permitan a un usuario entrenado y cualificado utilizarlos de modo adecuado.
 
-Además, en el caso de los aparatos filtrantes, el fabricante indicará en su folleto informativo la fecha límite de almacenamiento del filtro nuevo y las condiciones de conservación, en su embalaje
-
-original.
+Además, en el caso de los aparatos filtrantes, el fabricante indicará en su folleto informativo la fecha límite de almacenamiento del filtro nuevo y las condiciones de conservación, en su embalaje original.
 
 3.10.2 Protección contra los contactos cutáneos u oculares.
 
@@ -359,3 +361,5 @@ a) Una combinación que garantice la protección del usuario contra la presión 
 b) Un dispositivo de alarma destinado a prevenir al usuario con tiempo suficiente de la próxima falta de alimentación de la mezcla gaseosa respirable (véase el apartado 2.8).
 
 c) Una combinación de salvamento que permita al usuario subir a la superficie (véase el apartado 3.4.1).
+
+> Se añaden los apartados 1.4.h) e i) por el art. único.9 del Real Decreto 159/1995, de 3 de febrero. Ref. BOE-A-1995-5920
