@@ -2,7 +2,7 @@
 
 Las industrias de fabricación de pan y panes especiales cumplirán obligatoriamente las siguientes exigencias:
 
-8.1 Todos los locales destinados a la elaboración de pan y panes especiales estarán debidamente aislados de cualquier otro ajeno a ese cometido que pudiera producir alteraciones en dichos productos, desde el punto de vista cualitativo o sanitario.
+8.1 Todos los locales destinados a la elaboración de pan, panes especiales y productos semielaborados, contemplados en la presente reglamentación, estarán debidamente aislados de cualquier otro ajeno a ese cometido que pudiera producir alteraciones en dichos productos desde el punto de vista cualitativo o sanitario.
 
 8.2 Les serán de aplicación los Reglamentos vigentes de Recipientes a Presión, Electrotécnicos para Alta y Baja Tensión y, en general, cualquier otro de carácter industrial y de higiene laboral que conforme a su naturaleza o a su fin corresponda.
 
@@ -22,19 +22,13 @@ f) Cámara de fermentación.
 
 g) Horno mecanizado de calefacción indirecta y régimen continuo. El horno podrá ser de calefacción directa si el combustible es gaseoso.
 
-h) Almacén de producto terminado, preferentemente frigorífico, independiente del de combustible.
+h) Almacén de producto terminado, independiente del de combustible. Cuando los productos terminados así lo requieran, deberá ser frigorífico.
 
-8.4 No obstante lo dispuesto en el párrafo anterior, podrán instalarse libremente industrias panaderas de carácter artesano, siempre que cumplan las condiciones siguientes:
+i) Almacén frigorífico, para las materias primas y productos semielaborados que lo requieran.
 
-a) Ajustarse a las exigencias del Código Alimentario y de la presente Reglamentación.
+j) Almacén frigorífico de conservación de congelados, para los productos semielaborados y terminados que lo requieran.
 
-b) Que su capacidad de producción sea, como máximo, la equivalente a 150 kilogramos de harina en jornada de ocho horas con la única limitación técnica de no utilizar combustibles líquidos si el horno es de calefacción directa.
-
-c) El producto sea elaborado por el propio titular del establecimiento y familiares de su convivencia.
-
-d) Que el pan elaborado sólo podrá venderlo en su propio y único despacho, anejo al taller.
-
-En el supuesto de que no se cumplieran las condiciones técnicas vigentes, el Organismo competente podrá autorizar su instalación, en uso de las facultades que le atribuye la legislación vigente.
+8.4 (Suprimido)
 
 8.5 Las industrias destinadas a la fabricación de pan y panes especiales sólo podrán instalarse en locales que tengan ventilación directa a la calle o patios centrales de manzanas o espacios libres y, si ello no fuera posible deberán contar con circulación artificial de aire previamente filtrado.
 
@@ -60,6 +54,8 @@ En el supuesto de que no se cumplieran las condiciones técnicas vigentes, el Or
 
 8.16 El horno utilizado en la cocción de las masas podrá ser de calefacción por combustible sólido, líquido o gaseoso, o mediante energía eléctrica.
 
+En el caso de utilizar hornos eléctricos, se admitirá la utilización de condensadores de vapor en sustitución de la chimenea. Asimismo, para los vapores resultantes de la cocción en cualquier otro tipo de horno se admitirá también la utilización de condensadores de vapor.
+
 Cuando se utilicen combustibles sólidos y las masas en cocción están en contacto con los humos o gases desprendidos de su combustión, éstos deberán ser de tal naturaleza que no puedan originar ninguna contaminación de los productos elaborados. En este tipo de hornos queda prohibido utilizar maderas que proporcionen olor o sabor desagradables, juncos, zuros de maíz u otros materiales sólidos que puedan depositar hollín sobre la masa de cocción, así como materiales de desecho que puedan desprender sustancias tóxicas en su combustión.
 
 Cuando se utilicen combustibles líquidos para la calefacción del horno, las masas en cocción no podrán ponerse en contacto en ningún caso con los humos y gases de la combustión.
@@ -67,3 +63,5 @@ Cuando se utilicen combustibles líquidos para la calefacción del horno, las ma
 Tanto si se utiliza combustibles sólidos, líquidos o gaseosos, la instalación de evacuación de humos y gases de la combustión cumplirán las condiciones reglamentarias sobre contaminación atmosférica.
 
 El almacenamiento de los combustibles deberá estar perfectamente aislado de las zonas de elaboración y almacenamiento de las materias primas, productos acabados e intermedios.
+
+> Se modifican los apartados 8.1, 8.3, 8.16 y se suprime el 8.4 por el art. único.7 del Real Decreto 285/1999, de 22 de febrero. Ref. BOE-A-1999-4412.
