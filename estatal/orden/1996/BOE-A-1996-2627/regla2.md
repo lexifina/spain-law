@@ -16,6 +16,14 @@ c) Cuando la información a incorporar al sistema sea incoherente con los datos 
 
 3. Los Servicios gestores deberán tomar las medidas oportunas que garanticen que la expedición de los documentos contables y su remisión a las oficinas de contabilidad se realice en el plazo más breve posible desde el momento en el que se dictaron los correspondientes actos administrativos.
 
+4. Se faculta a la Intervención General de la Administración del Estado para regular la remisión, junto con los documentos contables, de la información y datos contenidos en dichos documentos en soporte electrónico, informático y telemático, con la finalidad de facilitar el registro de los mismos por las oficinas de contabilidad.
+
+En este caso, previamente a la carga en el SIC de dichos soportes, las oficinas de contabilidad comprobarán que sus datos se corresponden con los de los documentos contables a registrar, de acuerdo con el procedimiento que determine la Intervención General de la Administración del Estado.
+
+> Se añade el apartado 4 por el punto 2.1 de la Orden HAC/240/2004, de 26 de enero. Ref. BOE-A-2004-2499.
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
+
 > Se añade el párrafo tercero del apartado 1 por el punto 1.1 de la Orden HAC/1299/2002, de 23 de mayo. Ref. BOE-A-2002-10789
 
 > Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.

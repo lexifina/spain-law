@@ -28,7 +28,7 @@ a) Documento MC (Modificaciones de Crédito):
 
 095 Aumento por rectificaciones.
 
-b) Documento RC de ejercicio corriente (solicitud de retenciones de crédito y registro de no disponibilidad):
+b) Documento RC de ejercicio corriente (Solicitud de retenciones de crédito y registro de no disponibilidad):
 
 100 Retención de crédito para gastar.
 
@@ -37,6 +37,8 @@ b) Documento RC de ejercicio corriente (solicitud de retenciones de crédito y r
 102 No disponibilidad.
 
 103 Retención de crédito para desconcentrar.
+
+106 Retención de crédito para bajas por anulación y otras minoraciones.
 
 c) Documento RC de ejercicios posteriores (solicitud de certificado de cumplimiento de límites del artículo 61 del TRLGP):
 
@@ -615,6 +617,10 @@ Cuando se utilicen documentos «Anexo», en aquellos documentos a los que comple
 208. Fecha de aprobación: Se indicará la fecha en que se haya aprobado la cuenta justificativa del pago a justificar.
 
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modica por el apartado 3.3 de la Orden HAC/240/2004, de 26 de enero. Ref. BOE-A-2004-2499.
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
 
 > Se modifica por el apartado 2.11 a 19 de la Orden HAC/1299/2002, de 23 de mayo. Ref. BOE-A-2002-10789.
 

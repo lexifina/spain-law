@@ -124,6 +124,13 @@ Los tipos de Información que se enviarán en este grupo, son los que se detalla
 | A34 | Remanente de tesorería. |
 | A35 | Estado de tesorería. |
 | A36 | Variación de resulfados presupuestarios de ejercicios anteriores. |
+| A37 | Cuentas del P.G.C.P. (antes de asientos de ajustes y de regularización). |
+| H15 | Presupuesto de ingresos. Ejercicio corriente (concepto presupuestario). |
+| H16 | Presupuesto de ingresos. Ejercicios cerrados (concepto presupuestario). |
+| H17 | Derechos presupuestarios pendientes de cobro según su grado de exigibilidad. Ejercicio corriente (concepto presupuestario). |
+| H18 | Derechos presupuestarios pendientes de cobro según su grado de exigibilidad. Ejercicios cerrados (concepto presupuestario). |
+| H28 | Cuentas del PGCP. Ejercicio anterior (antes asientos de regularización). |
+| H29 | Cuentas del PGCP. Ejercicio anterior (antes del asiento de cierre). |
 | T01 | Tabla de cuentas del P.G.C.P. |
 | T02 | Tabla de clasificación económica de ingresos. |
 | T03 | Tabla de clasificación orgánica de gastos. |
@@ -136,3 +143,5 @@ Los tipos de Información que se enviarán en este grupo, son los que se detalla
 | T10 | Tabla de localización de bienes de inmovilizado material. |
 | T11 | Tabla de códigos de entidades en las que se ha invertido. |
 | T12 | Tabla de códigos de orgánica-1. |
+
+> Se modifica el Grupo-3 por el apartado 1.6 de la Orden HAC/240/2004, de 26 de enero. Ref. BOE-A-2004-2499.

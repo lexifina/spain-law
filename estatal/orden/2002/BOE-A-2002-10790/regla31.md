@@ -22,15 +22,11 @@ Créditos presupuestarios definitivos.
 
 Gastos comprometidos.
 
-Obligaciones reconocidas netas. Se distinguirá entre obligaciones reconocidas netas hasta el 31 de diciembre y obligaciones reconocidas netas durante el mes de enero siguiente.
+Obligaciones reconocidas netas.
 
-Remanentes de crédito a 31 de enero del ejercicio siguiente.
+Remanentes de crédito.
 
-Asimismo, informará sobre las obligaciones pendientes de pago a 31 de diciembre, con el siguiente desarrollo:
-
-Obligaciones reconocidas netas hasta 31 de diciembre.
-
-Pagos realizados hasta 31 de diciembre.
+Pagos realizados.
 
 Obligaciones pendientes de pago a 31 de diciembre.
 
@@ -63,3 +59,5 @@ En el resultado presupuestario, los derechos reconocidos netos incluyen el total
 La variación neta de pasivos financieros, obtenida como diferencia entre los derechos reconocidos netos y las obligaciones reconocidas netas por este tipo de operaciones.
 
 El saldo presupuestario, como agregación del resultado presupuestario y la variación neta de pasivos financieros.
+
+> Se modifica el apartado 2 por el apartado 1.2 de la Orden HAC/240/2004, de 26 de enero. Ref. BOE-A-2004-2499.

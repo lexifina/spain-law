@@ -22,7 +22,7 @@ Otras modificaciones.
 
 b) Remanentes de crédito.–Con el mismo nivel de desagregación que presente el estado de liquidación del presupuesto de gastos corriente, se detallarán los remanentes de crédito comprometidos y no comprometidos.
 
-c) Situación del saldo de créditos.–Con el mismo nivel de desagregación que presente el estado de liquidación del presupuesto de gastos corriente, se mostrará la situación que en fin de ejercicio presente el saldo de crédito de cada una de las aplicaciones presupuestarias, indicando su composición de acuerdo con el siguiente detalle:
+c) Situación del saldo de créditos.–Con el mismo nivel de desagregación que presente el estado de liquidación del presupuesto de gastos corriente se mostrará la situación que en fin de ejercicio presente el saldo de crédito de cada una de las aplicaciones presupuestarias, indicando su composición de acuerdo con el siguiente detalle:
 
 Saldo de crédito total.
 
@@ -32,9 +32,11 @@ Crédito retenido para gastos.
 
 Crédito retenido para transferencias.
 
+Crédito retenido para bajas por anulación y otras minoraciones.
+
 Crédito no disponible.
 
-d) Clasificación funcional del gasto.–Para cada uno de los distintos programas que integran la clasificación funcional del Presupuesto de gastos del ejercicio que se cierra, se indicarán:
+d) Clasificación funcional del gasto.– Para cada uno de los distintos programas que integran la clasificación funcional del Presupuesto de gastos del ejercicio que se cierra, se indicarán:
 
 Créditos presupuestarios iniciales.
 
@@ -44,15 +46,11 @@ Créditos presupuestarios definitivos.
 
 Gastos comprometidos.
 
-Obligaciones reconocidas netas. Se distinguirá entre obligaciones reconocidas netas hasta el 31 de diciembre y obligaciones reconocidas netas durante el mes de enero siguiente.
+Obligaciones reconocidas netas.
 
-Remanentes de crédito a 31 de enero del ejercicio siguiente.
+Remanentes de crédito.
 
-Asimismo, informará sobre las obligaciones pendientes de pago a 31 de diciembre, con el siguiente desarrollo:
-
-Obligaciones reconocidas netas hasta 31 de diciembre.
-
-Pagos realizados hasta 31 de diciembre.
+Pagos realizados.
 
 Obligaciones pendientes de pago a 31 de diciembre.
 
@@ -148,11 +146,11 @@ Operaciones directas realizadas durante el ejercicio.
 
 Operaciones inversas o de cancelación realizadas en el ejercicio.
 
-k) Obligaciones de presupuestos cerrados.–Para cada una de las aplicaciones de presupuestos cerrados en las que, al inicio del ejercicio existiesen obligaciones pendientes de pago, así como para cada una de las aplicaciones presupuestarias de obligaciones que se reconocieron durante el mes de enero con cargo al ejercicio presupuestario anterior, se indicará:
+k) Obligaciones de presupuestos cerrados.
+
+Para cada una de las aplicaciones de presupuestos cerrados en las que al inicio del ejercicio existiesen obligaciones pendientes de pago, se indicará:
 
 Importe de las obligaciones pendientes de pago a 1 de enero.
-
-Obligaciones reconocidas de 1 de enero a 31 de enero con cargo al presupuesto del ejercicio presupuestario anterior.
 
 Rectificaciones del saldo entrante y anulaciones.
 
@@ -169,3 +167,5 @@ Esta información se presentará desagregada a nivel de artículo, agrupándose 
 l) Compromisos de gasto con cargo a presupuestos de ejercicios posteriores.–En relación con los gastos que, según lo previsto en el artículo 61 del texto refundido de la Ley General Presupuestaria, estuviesen comprometidos con cargo a presupuestos de ejercicios sucesivos, se indicará su importe así como el año al que se refieran.
 
 Esta información se presentará por aplicaciones presupuestarias y como mínimo con el nivel de desagregación del Presupuesto inicialmente aprobado en el ejercicio que se cierra y las posteriores modificaciones al mismo.
+
+> Se modifican las letras c), d) y k) por el apartado 1.3 de la Orden HAC/240/2004, de 26 de enero. Ref. BOE-A-2004-2499.

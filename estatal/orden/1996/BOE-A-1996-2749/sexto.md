@@ -6,7 +6,9 @@ a) Documento MC: Se utilizará en las modificaciones presupuestarias que aumente
 
 b) Documento de desglose: Se utilizará en las operaciones de desglose de las aplicaciones presupuestarias. También se utilizará para el seguimiento contable de los créditos distribuidos a través del sistema de información contable, en caso de delegaciones y desconcentraciones de competencias a favor de servicios periféricos.
 
-c) Documento RC de ejercicio corriente: Se utilizará para solicitar certificado de existencia y retención de crédito en los expedientes de gasto, de transferencias y de desconcentración de créditos. Para el registro de los acuerdos de no disponibilidad se utilizará el documento específico RC-102.
+c) Documento RC de ejercicio corriente:
+
+Se utilizará para solicitar certificado de existencia y retención de crédito en los expedientes de gasto, de transferencias, de desconcentración de créditos y de bajas por anulación y otras minoraciones. Para el registro de los acuerdos de no disponibilidad se utilizará el documento específico ‘‘RC-102’’.
 
 d) Documento RC de ejercicios posteriores: Se utilizará para solicitar el certificado de cumplimiento de límites que establece el artículo 61 del texto refundido de la Ley General Presupuestaria.
 
@@ -47,6 +49,10 @@ s) Documento PR: Se utilizará para el registro de la prescripción de obligacio
 t) Documento MD: Se utilizará para el registro de las modificaciones o rectificaciones de errores de las obligaciones reconocidas en ejercicios anteriores pendientes de proponer el pago para el supuesto que se indica en el apartado o) anterior y para el caso de otras obligaciones reconocidas con anterioridad a la entrada en vigor de la presente Orden.
 
 2. Cuando se deba proceder a la anulación de cualquiera de las operaciones que se indican en el punto anterior, se expedirá un documento idéntico al confeccionado para el registro de la operación en cuestión pero de signo contrario.
+
+> Se modifica el punto 1.c) por el apartado 3.1 de la Orden HAC/240/2004, de 26 de enero. Ref. BOE-A-2004-2499.
+
+> Esta modificación surte efectos desde el 1 de enero de 2004, según establece la disposición final única.
 
 > Se modifican las letras b), l ), m) y s) del punto 1 por el apartado 2.1 a 5 de la Orden HAC/1299/2002, de 23 de mayo. Ref. BOE-A-2002-10789.
 
