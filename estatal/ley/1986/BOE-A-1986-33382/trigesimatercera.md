@@ -1,0 +1,3 @@
+## Disposición adicional trigésima tercera.
+
+Se autoriza al Gobierno para que, mediante Real Decreto aprobado en Consejo de Ministros, a propuesta del Ministro para las Administraciones Públicas e iniciativa del Ministerio interesado, pueda suprimir o modificar los órganos colegiados administrativos creados por Ley ordinaria, regulando, en caso de modificación, su composición, adscripción y competencia. No obstante, si el órgano colegiado tiene representaciones de otras Administraciones Públicas distintas del Estado, su supresión o la modificación de su composición que suponga alteración del número o de la proporcionalidad de las representaciones, sólo podrán llevarse a cabo por Ley.

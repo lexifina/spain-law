@@ -1,0 +1,3 @@
+## Disposición adicional vigésima octava.
+
+Sin perjuicio de lo previsto en materia de intercambio de información en los convenios de doble imposición suscritos por España, el Ministerio de Economía y Hacienda procederá, en los términos que reglamentariamente se establezcan, al intercambio de información con trascendencia tributaria, en materia de los Impuestos sobre la Renta de las Personas Físicas y sobre Sociedades, Extraordinario sobre el Patrimonio de las Personas Físicas y sobre el Valor Añadido, con las Autoridades competentes de los otros Estados miembros de la Comunidad Económica Europea conforme a las Directivas del Consejo número 77/799 CEE y 79/1.070 CEE, de 19 de diciembre de 1977 y de 6 de diciembre de 1979, respectivamente.
