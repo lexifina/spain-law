@@ -1,10 +1,10 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1992/187/18634_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1993/9/00618_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1992/187/18634_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1993/9/00618_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1992/187/18634_012.png)
+> Se modifica por la Orden de 29 de diciembre de 1992. Ref. BOE-A-1993-618.
 
 > Se modifica por la Orden de 24 de julio de 1992. Ref. BOE-A-1992-18634.
 
