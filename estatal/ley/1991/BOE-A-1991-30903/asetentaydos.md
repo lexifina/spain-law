@@ -34,13 +34,7 @@ Los sujetos pasivos que se dediquen, a través de una explotación económica, a
 
 El plazo a que se refiere esta letra b) será de tres años cuando se trate de activos fijos nuevos incluidos en los artículos 6 y 21 de la Ley 12/1988, de 25 de mayo.
 
-Cinco. Asimismo será de aplicación la deducción de 500.000 pesetas por cada persona/año de incremento del promedio de la plantilla con contrato de trabajo indefinido, experimentado durante el primer ejercicio iniciado en 1992, respecto a la plantilla media del ejercicio inmediato anterior con dicho tipo de contrato.
-
-Para el cálculo del incremento del promedio de plantilla se computarán, exclusivamente, personas/año con contrato de trabajo indefinido, que desarrollen jornada completa, en los términos que dispone la legislación laboral.
-
-Esta deducción será de 700.000 pesetas por cada persona/año de incremento del promedio de la plantilla de trabajadores minusválidos, contratados, de acuerdo con lo dispuesto en el artículo 39 de la Ley 13/1982, de 7 de abril, de Integración Social de los Minusválidos, por tiempo indefinido, calculado de forma separada por el procedimiento previsto en los párrafos anteriores.
-
-La deducción total no podrá exceder de la que correspondería al número de personas/año de incremento de promedio de la plantilla total de la empresa, durante dicho ejercicio, cualquiera que fuere su forma de contratación.
+Cinco. (Derogado)
 
 Seis. Las deducciones por inversiones procedentes de regímenes anteriores se aplicarán respetando el límite sobre cuota líquida preestablecido en sus respectivas normativas.
 
@@ -89,3 +83,5 @@ Las deducciones sobre los incrementos de patrimonio, obtenidos por las sociedade
 Once. La deducción por inversiones será incompatible para los mismos bienes o gastos con las establecidas en la Ley 12/1988, de 25 de mayo, y en la Ley 30/1990, de 27 de diciembre.
 
 Asimismo, no será aplicable respecto de los bienes o gastos en que se hayan invertido, los beneficios acogidos a la bonificación establecida en el apartado tres, de la letra a), del artículo 25 de esta Ley.»
+
+> Se deroga el apartado 5 por la disposición derogatoria del Real Decreto-ley 1/1992, de 3 de abril. Ref. BOE-A-1992-7714.
