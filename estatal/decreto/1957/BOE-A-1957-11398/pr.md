@@ -1,0 +1,7 @@
+El alto concepto que en general al español merece la mujer y la atención que de manera especial debe ser puesta en evitar que un trabajo nocivo pueda perjudicar su naturaleza, criterio que con igual cuidado exige su aplicación en cuanto a las actividades desarrolladas por los menores, aconsejan de consuno revisar nuestra legislación positiva, procurando adaptarla, recogiendo los progresos de la técnica que, tanto en el orden de la industria como en el de la investigación, a través de sucesivos avances, va señalando con precisión mayor cada día cuáles son las labores o ambientes de trabajo que pueden perjudicar de manera más sensible a estos trabajadores, dignos de singular protección.
+
+El afinamiento, por otra parte, del sentido social, imponiendo un espíritu de mayor exigencia en la restricción, aconseja también modificar los topes de edad que venía estimando nuestra legislación laboral, ya que la de dieciséis años, que como límite se establecía para la prohibición de determinados trabajos en el hombre, y la de dieciocho, que surtía análogos efectos en la mujer, deben prudentemente ser elevadas a las de dieciocho y veintiún años, respectivamente, que coincidan con las que pueden ser estimadas como efectivas mayorías de edad, desde el punto de vista laboral, en el conjunto armónico del Derecho del Trabajo patrio.
+
+En su virtud, a propuesta del Ministro de Trabajo y previa deliberación del Consejo de Ministros,
+
+## DISPONGO:
