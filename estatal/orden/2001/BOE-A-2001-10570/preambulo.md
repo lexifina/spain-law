@@ -1,0 +1,13 @@
+La aprobación del Real Decreto 664/1999, de 23 de abril, sobre inversiones exteriores, ha supuesto la definitiva adecuación de nuestro ordenamiento jurídico al Tratado constitutivo de la Comunidad Europea, en el que se proclama la plena libertad de los movimientos de capitales y los pagos entre Estados miembros y entre éstos y terceros países.
+
+Dos han sido los aspectos fundamentales regulados por el citado Real Decreto. El establecimiento, en primer lugar, de un mecanismo de declaración de inversiones que posibilite el conocimiento administrativo, estadístico o económico de operaciones y la posibilidad de adoptar, en segundo término, medidas justificadas por razones de orden público y seguridad pública, permitiéndose, en casos excepcionales, la suspensión del régimen de liberalización.
+
+En uso de la habilitación contenida en la disposición final tercera del Real Decreto 664/1999, que autoriza al Ministro de Economía para desarrollar lo dispuesto en dicha norma, se dicta la presente Orden, que viene a regular los procedimientos aplicables a la tramitación y al registro de las operaciones de inversión incluidas en el Real Decreto 664/1999.
+
+En la presente Orden se incluyen tanto las inversiones extranjeras en España como españolas en el exterior. Por ello contiene un título I, relativo a normas generales de inversiones exteriores, que abarca dos capítulos. Uno relativo a disposiciones generales, en el que destacan la forma de acreditar las condiciones de residente y no residente en España, así como las reglas aplicables al cambio de domicilio y al traslado de residencia, y otro relativo a la suspensión del régimen de liberalización. En este capítulo II se regulan dos procedimientos, el de la propia suspensión del régimen de liberalización y el subsiguiente dirigido a obtener la autorización para poder realizar una inversión en el supuesto de que el régimen de liberalización se hubiera suspendido.
+
+Puesto que el régimen de las inversiones exteriores pivota en torno al sistema de información y declaración al Registro de Inversiones del Ministerio de Economía de todas las inversiones reguladas en el Real Decreto 664/1999, la presente norma cumple el objetivo de establecer los distintos procedimientos a través de los cuales deben efectuarse las declaraciones en función del tipo de inversión de que se trate.
+
+Así, el título II de la presente Orden se ocupa de los procedimientos de declaración de las inversiones extranjeras en España y el título III, en una regulación paralela, aborda los procedimientos de declaración de las inversiones españolas en el exterior.
+
+En su virtud, y previa aprobación del Ministro de Administraciones Públicas, dispongo:
