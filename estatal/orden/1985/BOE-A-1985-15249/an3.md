@@ -1,0 +1,15 @@
+## ANEXO 3
+
+Características para el examen del valor de cultivo o utilización:
+
+1. Rendimiento.
+
+2. Resistencia a los organismos nocivos.
+
+3. Comportamiento con respecto a factores del entorno físico.
+
+4. Características cualitativas.
+
+Los métodos empleados se especificarán cuando se presenten los resultados.
+
+> Se añade por el art. 2.3 de la Orden APA/530/2004, de 13 de febrero. Ref. BOE-A-2004-3865

@@ -49,4 +49,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Veintiuno](veintiuno.md)
 - [Veintidós](veintidos.md)
 - [VIII](viii.md)
+- [ANEXO 1](a1.md)
+- [ANEXO 2](a2.md)
+- [ANEXO 3](a3.md)
 - [(Información relacionada)](ir.md)
