@@ -10,9 +10,7 @@ Los FIAMM que tuvieran previsto en sus Reglamentos la posibilidad de operar con 
 
 c) Cuando únicamente se propongan realizar operaciones con instrumentos financieros derivados negociados en mercados organizados de derivados, ya sea como cobertura o como inversión, dispondrán, asimismo, hasta el 31 de marzo de 1998 para adecuar sus folletos informativos a lo dispuesto en la norma 2.ª de esta Circular.
 
-d) Aquellas IIC que pretendan operar con instrumentos financieros derivados no negociados en mercados organizados de derivados deberán recoger en el capítulo IV de su folleto informativo la información a que se refiere la norma 2.ª de esta Circular, con carácter previo a su realización.
-
-Cuando como consecuencia de ello, la nueva política de inversión de la IIC representara una importante modificación de sus criterios sobre inversiones y normas de selección de valores y de su vocación inversora y objetivos de gestión, será preciso, asimismo, modificar, con carácter previo a su realización, sus Reglamentos o Estatutos sociales y dar derecho de separación gratuito a los partícipes de acuerdo con lo previsto en el artículo 35.2 del Reglamento de IIC.
+d) (Derogada)
 
 2. Las SGIIC que realicen o pretendan realizar operaciones con instrumentos financieros derivados para las IIC gestionadas por ellas deberán aportar a la CNMV la memoria descriptiva de su capacidad para cumplir los requisitos de la Orden ministerial a que se refiere la norma 6.ª 3 de esta Circular antes del 31 de marzo de 1998.
 
@@ -29,3 +27,5 @@ b) Las IIC que realicen operaciones con instrumentos financieros derivados no ne
 El plazo previsto en este punto no será de aplicación a lo previsto en la norma 4.ª 2 de esta Circular.
 
 4. Mientras que no se modifiquen los actuales modelos de información reservada que las IIC deben remitir periódicamente a la CNMV continuarán siendo de aplicación las actualmente vigentes, si bien su cumplimentación se adecuará a los requerimientos técnicos que para su envío en soporte informático establezca la CNMV.
+
+> Se deroga la letra d) del apartado 1 por la disposición derogatoria de la Circular 1/2001, de 18 de abril. Ref. BOE-A-2001-8869.
