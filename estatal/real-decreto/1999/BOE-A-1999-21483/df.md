@@ -1,0 +1,3 @@
+## Disposición final primera. Facultad de desarrollo.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar, en el ámbito de sus competencias, las disposiciones necesarias para el desarrollo y aplicación del presente Real Decreto y, en particular, previo informe del Comité Fitosanitario Nacional, las normas provisionales de desarrollo de las letras a) y b) del apartado 2 del artículo 8 y, a la vista de la evolución de los conocimientos científicos o técnicos, las modificaciones que sea preciso introducir en los anexos del presente Real Decreto, en tanto la Comisión Europea no resuelva al respecto.
