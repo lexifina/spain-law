@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. La normativa sobre Loterías y Apuestas del Estado.
+
+Hasta tanto se apruebe la nueva regulación de los juegos de titularidad estatal, de conformidad con lo dispuesto en el apartado 5 del artículo 70 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, continúa vigente, en cuanto no se oponga a las previsiones de este Real Decreto, la Instrucción General de Loterías, aprobada por Decreto de 23 de marzo de 1956, y disposiciones posteriores, así como la legislación y reglamentos aplicables a los extintos Patronato de Apuestas Mutuas Deportivas Benéficas y Servicio Nacional de Loterías, así como al Organismo Nacional de Loterías y Apuestas del Estado en su anterior configuración jurídica.

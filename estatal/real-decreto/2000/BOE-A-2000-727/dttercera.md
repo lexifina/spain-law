@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Modificaciones del régimen económico-financiero, presupuestario, de contabilidad, intervención y control.
+
+De conformidad con el apartado 2 del artículo 70 de la Ley 50/1998, de Medidas fiscales, administrativas y del orden social, la entidad pública empresarial Loterías y Apuestas del Estado, en tanto no se proceda a la modificación del Real Decreto legislativo 1091/1988, de 23 de septiembre, por el que se aprueba el texto refundido de la Ley General Presupuestaria, se regirá por los preceptos de dicho texto aplicable a los organismos de carácter comercial, industrial, financiero y análogos, sin perjuicio de que le sea de aplicación lo establecido para las entidades públicas empresariales en el citado texto refundido.

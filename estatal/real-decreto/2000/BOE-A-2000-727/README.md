@@ -1,0 +1,68 @@
+# Real Decreto 2069/1999, de 30 de diciembre, por el que se aprueba el Estatuto de la entidad pública empresarial Loterías y Apuestas del Estado.
+
+- Identificador: BOE-A-2000-727
+- Rango: Real Decreto
+- Fecha de disposición: 1999-12-30
+- Publicación: 2000-01-14
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2000-727
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [preambulo](preambulo.md)
+- [Artículo único](aunico.md)
+- [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
+- [Disposición adicional tercera](datercera.md)
+- [Disposición transitoria primera](dtprimera.md)
+- [Disposición transitoria segunda](dtsegunda.md)
+- [Disposición transitoria tercera](dttercera.md)
+- [Disposición transitoria cuarta](dtcuaa.md)
+- [Disposición transitoria quinta](dtquinta.md)
+- [Disposición derogatoria única](ddunica.md)
+- [Disposición final primera](dfprimera.md)
+- [Disposición final segunda](dfsegunda.md)
+- [Disposición final tercera](dftercera.md)
+- [firma](firma.md)
+- [ANEXO](an.md)
+- [CAPÍTULO I](ci.md)
+- [Artículo 1](a1.md)
+- [Artículo 2](a2.md)
+- [Artículo 3](a3.md)
+- [Artículo 4](a4.md)
+- [Artículo 5](a5.md)
+- [CAPÍTULO II](cii.md)
+- [SECCIÓN 1ª](s1a.md)
+- [Artículo 6](a6.md)
+- [Artículo 7](a7.md)
+- [Artículo 8](a8.md)
+- [SECCIÓN 2ª](s2a.md)
+- [Artículo 9](a9.md)
+- [Artículo 10](a10.md)
+- [Artículo 11](a11.md)
+- [Artículo 12](a12.md)
+- [Artículo 13](a13.md)
+- [SECCIÓN 3](s3.md)
+- [Artículo 14](a14.md)
+- [SECCIÓN 4](s4.md)
+- [Artículo 15](a15.md)
+- [SECCIÓN 5](s5.md)
+- [Artículo 16](a16.md)
+- [Artículo 17](a17.md)
+- [CAPÍTULO III](ciii.md)
+- [Artículo 18](a18.md)
+- [Artículo 19](a19.md)
+- [Artículo 20](a20.md)
+- [CAPÍTULO IV](civ.md)
+- [Artículo 21](a21.md)
+- [Artículo 22](a22.md)
+- [Artículo 23](a23.md)
+- [CAPÍTULO V](cv.md)
+- [Artículo 24](a24.md)
+- [Artículo 25](a25.md)
+- [CAPÍTULO VI](cvi.md)
+- [Artículo 26](a26.md)
+- [Artículo 27](a27.md)
+- [Artículo 28](a28.md)
+- [Documentos Relacionados](documentosrelacionados.md)

@@ -1,0 +1,3 @@
+## Artículo único. Aprobación del Estatuto de la entidad pública empresarial Loterías y Apuestas del Estado.
+
+En los términos señalados en el artículo 62.3 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, y, de conformidad con el artículo 70 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, se aprueba el Estatuto de la entidad pública empresarial Loterías y Apuestas del Estado, como entidad de las previstas en el artículo 43.1.b) de la citada Ley 6/1997, cuyo texto se inserta a continuación. La efectividad de su funcionamiento se producirá en el momento de entrada en vigor del presente Real Decreto.
