@@ -1,34 +1,72 @@
 ## Siete.
 
-Con objeto de llevar a cabo los ensayos y determinaciones que se preveen en el apartado 24 del Reglamento General, deberá suministrarse en la sede del Instituto situada en la carretera de La Coruña, kilometro 7,500 (28023 Madrid), el siguiente material para cada variedad solicitada:
+Con objeto de llevar a cabo los ensayos y determinaciones que se prevén en el apartado 24 del Reglamento General deberá suministrarse en la sede del Instituto, situada en la carretera de La Coruña, kilometro 7,500 (Madrid-28040), el siguiente material para cada variedad solicitada:
 
-Para ensayos de identificación:
+Para ensayos de identificación (sólo el primer año):
 
-Alfalfa, dactilo, festuca, ray-grass, esparceta, zulla, trébol blanco, subterráneo y violeta: 1/2 kilogramo de semilla cada año y además 1 kilogramo sólo el primer año.
+Alfalfa.................. 1 kg de semilla.
 
-Yeros, garbanzos, altramuces, vezas, lentejas y guisantes: 1 kilogramo de semilla cada año y además 2 kilogramos sólo el primer año.
+Dactilo................ 1 kg de semilla.
 
-Habas: 3 kilogramos cada año.
+Festuca............... 1 kg de semilla.
 
-Para ensayos del valor agronómico:
+Raygrass..............1 kg de semilla.
 
-Alfalfa, dactilo, festucas, ray-grass y tréboles: 3 kilogramos de semilla.
+Esparceta.............2 kg de semilla.
 
-Esparceta y Zulla: 15 kilogramos de semilla.
+Yeros...................5 kg de semilla.
 
-Yeros, altramuces y habas: 25 kilogramos de semilla.
+Garbanzo..............5 kg de semilla.
 
-Garbanzos: 5 kilogramos de semilla.
+Altramuz...............5 kg de semilla.
 
-Guisante: 20 kilogramos de semilla.
+Zulla.....................2 kg de semilla.
 
-Veza: 60 kilogramos de semilla, aprovechamiento grano y forraje y 30 kilogramos de semilla para sólo un aprovechamiento.
+Tréboles.............. 1 kg de semilla.
 
-Lentejas: 20 kilogramos de semilla.
+Veza....................5 kg de semilla.
 
-Las cantidades anterioremente referidas se suministrarán en los casos en que la inscripción se solicite con el fin de incluir la variedad en la lista de variedades comerciales.
+Lenteja................ 5 kg de semilla.
 
-Cuando se solicite exclusivamente la inscripción de la variedad en la lista de variedades comerciales para la exportación, será necesario suministrar solamente el material requerido para los ensayos de identificación.
+Guisante forrajero.....6 kg de semilla.
+
+Habas forrajeras.......6 kg de semilla.
+
+Para ensayos de valor agronómico (anualmente):
+
+Alfalfa.................. 2 kg de semilla.
+
+Dactilo................ 2 kg de semilla.
+
+Festuca............... 2 kg de semilla.
+
+Raygrass..............2 kg de semilla.
+
+Esparceta.............15 kg de semilla.
+
+Yeros.....................15 kg de semilla.
+
+Garbanzo..............25 kg de semilla.
+
+Altramuz.............. .25 kg de semilla.
+
+Zulla...................... 15 kg de semilla.
+
+Tréboles.............. 2 kg de semilla.
+
+Veza.................... 25 kg de semilla.
+
+Lenteja................ 20 kg de semilla.
+
+Guisante forrajero.....50 kg de semilla.
+
+Habas forrajeras.......50 kg de semilla.
+
+Las cantidades anteriormente referidas se suministrarán en los casos en que la inscripción se solicite con el fin de incluir la variedad en la Lista de Variedades Comerciales.
+
+Cuando se solicite exclusivamente la inscripción de la variedad en la Lista de Variedades Comerciales para la Exportación, sera necesario suministrar solamente el material requerido para los ensayos de identificación.
+
+> Se modifica por el apartado 2 de la Orden de 4 de abril de 1991. Ref. BOE-A-1991-9691
 
 > Se modifica por el apartado 1 de la Orden de 19 de septiembre de 1988. Ref. BOE-A-1988-24033
 
