@@ -32,9 +32,7 @@
 
 ## Cuestionario para la declaración de nacimiento al Registro Civil
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_005.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_006.png)
+(Derogado)
 
 ## Modelo número 6
 
@@ -48,9 +46,7 @@
 
 ## Cuestionario para la declaración de defunción
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_009.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_010.png)
+(Derogado)
 
 ## Modelo número 8
 
@@ -60,11 +56,9 @@
 
 ## Modelo número 9
 
-## Parte de alumbramiento de criaturas abortivas
+## Declaración y parte de alumbramiento de criaturas abortivas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_012.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_013.png)
+(Derogado)
 
 ## Modelo número 10
 
@@ -125,3 +119,5 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_027.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_028.png)
+
+> Se derogan los modelos número 5, 7 y 9 por la disposición final primera de la Orden de 26 de mayo de 1988. Ref. BOE-A-1988-13633
