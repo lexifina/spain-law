@@ -1,0 +1,7 @@
+Consciente la Comunidad Internacional de la necesidad de evitar el grave problema de la contaminación marina que se viene agravando en los ultimos años, ha adoptado una serie de medidas con miras a resolverlo y entre ellas, por lo que se refiere al vertido de sustancias y materiales nocivos desde buques y aeronaves, que constituyen una importante fuente de contaminación, los Convenios de Oslo, de quince de febrero de mil novecientos setenta y dos, aplicable a la zona del Atlántico Nordeste, y el de Londres de veintinueve de diciembre del mismo año, de contenido similar pero aplicable a escala universal.
+
+España es parte de ambos Convenios, que se encuentran vigentes en nuestro Ordenamiento Jurídico, al haberse publicado, el primero, en el «Boletín Oficial del Estado» del veinticinco de abril de mil novecientos setenta y cuatro, y el segundo, en el del diez de noviembre de mil novecientos setenta y cinco.
+
+Dado que en ambos Convenios se prevé que cada parte contratante adoptará en su territorio las medidas adecuadas para prevenir y sancionar los actos que violen sus disposiciones, se hace necesario que nuestro país dé cumplimiento a los compromisos internacionales contraídos, mediante una disposición que con rango legal suficiente y sin perjuicio de la aplicación de las disposiciones penales en vigor o que en lo futuro se dicten, establezca un sistema de sanciones administrativas encaminadas a conseguir el fin que se persigue.
+
+En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo a sancionar:
