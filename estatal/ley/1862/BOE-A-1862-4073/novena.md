@@ -1,0 +1,3 @@
+## Disposición transitoria novena.
+
+Quedan dispensados de los ejercicios de oposición que establece el artículo 12 de esta Ley los pasantes o aspirantes matriculados en los antiguos Colegios de Notarios antes del 18 de Octubre de 1838 que tienen derechos adquiridos a las plazas que resulten vacantes en sus respectivos Colegios, a quienes se declara con preferencia para obtener dichas plazas a medida que vacaren y por el orden de antigüedad en los aspirantes matriculados, que deberán probar su aptitud, sujetándose a un riguroso examen en la forma que dispondrá el Gobierno, a no haber sido ya examinados y aprobados por las Audiencias al tiempo de publicarse esta Ley.
