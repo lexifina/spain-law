@@ -33,3 +33,15 @@ Perro Majorero.
 Euskal Artzain Txakurra (Perro de Pastor Vasco).
 
 Podenco Andaluz.
+
+Ratonero-Bodeguero Andaluz.
+
+Perdigueriro Galego.
+
+Podenco Galego.
+
+Can de Palleiro.
+
+Can de Guicho.
+
+> Se modifica por el art. único de la Orden de 2 de agosto de 2001. Ref. BOE-A-2001-15911.

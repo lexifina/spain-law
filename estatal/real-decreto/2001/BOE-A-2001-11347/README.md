@@ -42,3 +42,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Perro Majorero](perromajorero.md)
 - [Euskal Artzain Txakurra Gorbeiakoa](euskalartzaintxakurragorbeiakoa.md)
 - [Podenco Andaluz](podencoandaluz.md)
+- [Ratonero-Bodeguero Andaluz](ratonero-bodegueroandaluz.md)
+- [Perdiguero Galego](perdiguerogalego.md)
+- [Podenco Galego](podencogalego.md)
+- [Can de Palleiro](candepalleiro.md)
+- [Can Guicho](canguicho.md)
