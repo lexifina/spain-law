@@ -1,0 +1,3 @@
+## Artículo 9. Incidencias.
+
+Cuando por circunstancias objetivas, derivadas de fallos en los equipos o en las aplicaciones, anomalías en las comunicaciones u otras análogas, no fuese posible la transmisión de datos y concurriesen razones de urgencia, podrán realizarse solicitudes de modificación de crédito por medios convencionales, para lo que será preciso disponer de autorización de la Dirección General de Ordenación de la Seguridad Social, a la que se dirigirá propuesta razonada. Desaparecidas dichas circunstancias los expedientes afectados se incorporarán a la base de datos del proceso telemático mediante la aplicación de las técnicas que, en cada caso, se requieran.
