@@ -178,6 +178,7 @@
 |  | - Ingeniero Técnico en Electricidad. |
 | - Ingeniero Técnico Industrial, especialidad en Electrónica Industrial. | - Ingeniero Técnico Industrial: |
 |  | * Especialidad en Electricidad (Electrónica industrial). |
+|  | * Especialidad Eléctrica, Intensificación Autonómica y Electrónica. |
 | - Ingeniero Técnico Industrial, especialidad en Mecánica. | - Ingeniero Técnico Industrial: |
 |  | * Especialidad en Mecánica. |
 |  | - Ingeniero Técnico en Mecánica. |
@@ -418,7 +419,7 @@
 |  | * Sección Historia Antigua. |
 |  | * Sección Historia Medieval. |
 |  | * Sección Historia General. |
-|  | * Sección Antropología Cutural. |
+|  | * Sección Antropología Cultural. |
 |  | * Sección Geografía e Historia. |
 |  | * Sección Prehistoria y Arqueología. |
 | - Licenciado en Historia del Arte. | - Licenciado en Filosofía y Letras: |
@@ -437,6 +438,8 @@
 | - Licenciado en Lingüística. |  |
 | - Licenciado en Teoría de la Literatura y Literatura Comparada. |  |
 | - Licenciado en Traducción e interpretación. |  |
+
+> Se modifica el apartado III por el apartado 1 de la Orden de 17 de febrero de 2000. Ref. BOE-A-2000-3516.
 
 > Se modifica el apartado II y III por los apartados 1 y 2 de la Orden de 19 de julio de 1999. Ref. BOE-A-1999-16209.
 
