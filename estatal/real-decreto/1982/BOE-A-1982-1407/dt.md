@@ -15,3 +15,5 @@ d) Abonar el importe a que ascienda el valor del capital-coste de la pensión re
 El abono del citado capital-coste podrá ser aplazado por un período máximo de diez años y fraccionado en pagos mensuales deducibles de cada mensualidad de la pensión reconocida.
 
 Dos. Para la determinación del porcentaje de la pensión, las cuotas a abonar mediante descuento de la pensión se considerarán como efectivamente cotizadas y la base reguladora de la pensión será el promedio de las bases de cotización correspondientes a los meses efectivamente cotizados.
+
+> Se amplía en dos meses naturales el periodo señalado en la letra a) del apartado 1 por el art. único del Real Decreto 1427/1982, de 25 de junio de 1982. Ref. BOE-A-1982-16320.
