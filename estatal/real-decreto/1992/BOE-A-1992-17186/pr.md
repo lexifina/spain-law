@@ -1,0 +1,9 @@
+La Directiva 80/215/CEE del Consejo, de 22 de enero de 1980, relativa a problemas de policía sanitaria en materia de intercambios intracomunitarios de productos a base de carne establece en su artículo 12 que, hasta la aplicación de normas comunitarias de policía sanitaria en las importaciones de países terceros, éstas no serán más favorables que las que fija dicha Directiva. El Real Decreto 1066/1990, de 27 de julio, por el que se establecen los requisitos de sanidad animal que deben reunir los productos cárnicos destinados al comercio intracomunitario e importados de terceros países incorpora a la normativa legal española la Directiva 80/215/CEE y establece en su artículo 13 que las importaciones de productos cárnicos procedentes de países terceros deberán cumplir las mismas exigencias de sanidad animal que las procedentes de otro Estado miembro de la CEE.
+
+La Directiva 89/227/CEE del Consejo, de 21 de marzo de 1989, por la que se modifican las Directivas 72/462/CEE del Consejo, de 12 de diciembre de 1972, y 77/99/CEE del Consejo, de 21 de diciembre de 1977, para tener en cuenta el establecimiento de las normas sanitarias y de policía sanitaria que deberán regular las importaciones de productos a base de carne procedentes de países terceros, concreta ya las normas sanitarias a las que la mencionada Directiva 80/215/CEE hacía referencia.
+
+Por tanto es necesario incorporar a la legislación española los requisitos de sanidad animal que establece la Directiva del Consejo 89/277/CEE de acuerdo con la competencia estatal contenida en el artículo 149.1.10 y 16 de la Constitución y derogar el artículo 13 del Real Decreto 1066/1990, de 27 de julio.
+
+A tal efecto, a propuesta del Ministro de Agricultura, Pesca y Alimentación y previa deliberación del Consejo de Ministros en su reunión del día 12 de junio de 1992,
+
+DISPONGO:
