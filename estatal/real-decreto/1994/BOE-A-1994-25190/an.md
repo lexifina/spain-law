@@ -316,7 +316,8 @@
 |  | ** División Filología: |
 |  | * Sección Filología Francesa. |
 |  | - Licenciado en Filología: (especialidad: Francesa) |
-| - Licenciado en Filología Gallega. |  |
+| - Licenciado en Filología Gallega. |
+|  | - Licenciado en Filología Hispánica (especialidad Gallego-Portugués) |
 | - Licenciado en Filología Hebrea. | - Licenciado en Filología: |
 |  | * Sección Filología Semítica: Especialidades Común, Hebreo y Arameo y Hebraico-bíblica. |
 |  | - Licenciado en Filosofía y Letras: |
@@ -364,6 +365,7 @@
 |  | * Sección Filología Románica (Italiano). |
 |  | - Licenciado en Filología (especialidad: Italiana) |
 | - Licenciado en Filología Portuguesa. |  |
+|  | - Licenciado en Filología Hispánica (especialidad Gallego-Portugués) |
 | - Licenciado en Filología Románica. | - Licenciado en Filosofía y Letras: |
 |  | ** División Filología: |
 |  | * Sección Filología Románica, en todas sus especialidades. |
@@ -425,10 +427,16 @@
 |  | - Licenciado en Geografía e Historia: |
 |  | * Sección Historia del Arte, en todas sus especialidades. |
 |  | * Sección Arte. |
+| - Licenciado en Historia y Ciencias de la Música | - Licenciado en Geografía e Historia (especialidad Musicología) |
+|  | - Licenciado en Geografía e Historia |
+|  | * Sección Historia del Arte: Especialidad Musicología |
+|  | - Licenciado en Filosofía y Letras (Especialidad Historia del Arte: Musicología) |
 | - Licenciado en Humanidades. |  |
 | - Licenciado en Lingüística. |  |
 | - Licenciado en Teoría de la Literatura y Literatura Comparada. |  |
 | - Licenciado en Traducción e interpretación. |  |
+
+> Se modifica el apartado IV por los apartados 1 y 2 de la Orden de 28 de agosto de 1998. Ref. BOE-A-1998-21018.
 
 > Se modifica el apartado II por el apartado 1 de la Orden de 29 de diciembre de 1997. Ref. BOE-A-1998-322.
 
