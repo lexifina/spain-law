@@ -1,0 +1,5 @@
+El artículo 20 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, según redacción dada al precepto por el artículo primero del Real Decreto 37/1998, de 16 de enero, por el que se modifican los Reglamentos del Impuesto sobre la Renta de las Personas Físicas, del Impuesto sobre el Valor Añadido y del Impuesto General Indirecto Canario, para incorporar determinadas medidas sobre la fiscalidad de las pequeñas y medianas empresas, así como los Reales Decretos que regulan las declaraciones censales y el deber de expedir y entregar factura que incumbe a los empresarios y profesionales, establece que en la modalidad simplificada del régimen de estimación directa las amortizaciones del inmovilizado material se practicarán de forma lineal, en función de la tabla de amortización simplificada que se apruebe por el Ministro de Economía y Hacienda.
+
+De acuerdo con lo expresado en el párrafo anterior, es necesario aprobar la tabla de amortización simplificada prevista en el Reglamento del Impuesto sobre la Renta de las Personas Físicas.
+
+En su virtud, este Ministerio ha dispuesto:
