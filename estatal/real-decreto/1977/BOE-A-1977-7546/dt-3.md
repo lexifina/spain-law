@@ -1,0 +1,5 @@
+## Disposición transitoria tercera.
+
+La prohibición de importación de material de juego establecida en el artículo noveno, apartado segundo, del presente Real Decreto, entrará en vigor a los doce meses de su publicación en el «Boletín Oficial del Estado». En dicho plazo se procederá a dictar las normas de homologación correspondientes.
+
+Durante el período indicado en el apartado anterior, el otorgamiento de las licencias de importación deberá preceder el informe favorable de la Comisión Nacional del Juego. Sólo podrán concederse licencias de importación a quien acredite ser titular de una autorización administrativa para la organización de juegos de azar, otorgada conforme al presente Real Decreto y a las normas que se dicten en su desarrollo. Los elementos de juego de fabricación extranjera, que no se hallen amparados por una licencia otorgada con arreglo a la presente disposición transitoria, serán objeto de comiso, y sus propietarios o poseedores, sancionados con arreglo a la legislación de contrabando.
