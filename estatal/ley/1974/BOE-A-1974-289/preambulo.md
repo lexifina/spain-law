@@ -1,0 +1,9 @@
+El principio de representación orgánica consagrado por el ordenamiento constitucional español se hace efectivo mediante la participación del pueblo en las tareas legislativas y en las demás funciones de interés general, que se lleva a cabo a través de la familia, el Municipio, el Sindicato y demás Entidades con representación orgánica que a este fin reconozcan las leyes. Estas instituciones deben ser amparadas en cuanto satisfacen exigencias socialos de interés general, para que puedan participar eficazmente en el perfeccionamiento de los fines de la comunidad nacional.
+
+Entre las Entidades aludidas se encuentran los Colegios Profesionales, cuya participación en las Cortes y a través de ellas en el Consejo del Reino, así como en las Corporaciones Locales, se reconoce en las Leyes Constitutiva de las Cortes, de Sucesión en la Jefatura del Estado y de Régimen Local.
+
+En la actualidad, los Colegios Profesionales se encuentran regulados por una serie de disposiciones dispersas y de distinto rango, lo que aconseja dictar una disposición que, con carácter general y atendiendo a la variedad de las actividades profesionales, recoja los principios jurídicos básicos en esta materia y garantice la autonomía de los Colegios, su personalidad jurídica y plena capacidad para el cumplimiento de los fines profesionales, así como las funciones de la Administración en orden a la regulación de las profesiones dentro del necesario respeto del ordenamiento jurídico general.
+
+En su consecuencia, la presente Ley, tras definir a los Colegios Profesionales y destacar su carácter de cauce orgánico para la participación de los españoles en las funciones públicas de carácter representativo y demás tareas de interés general, regula la organización y funcionamiento de los Colegios del modo más amplio posible en consonancia con el carácter profesional de los fines colegiales.
+
+En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar:
