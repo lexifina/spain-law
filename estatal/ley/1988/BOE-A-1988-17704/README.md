@@ -37,6 +37,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 21](a21.md)
 - [CAPÍTULO IV](civ.md)
 - [Artículo 22](a22.md)
+- [Artículo 23](a23.md)
 - [Disposición adicional primera](primera.md)
 - [Disposición adicional segunda](segunda.md)
 - [Disposición adicional tercera](tercera.md)

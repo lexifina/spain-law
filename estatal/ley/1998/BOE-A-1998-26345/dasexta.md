@@ -18,4 +18,6 @@ La prenda constituida conforme a lo dispuesto en este apartado surtirá efectos 
 
 5. Cuando las garantías a que se refiere el apartado 1 de la presente disposición consistieran en depósitos de efectivo, con o sin mandato de gestión, la ejecución de la garantía se hará por simple compensación. En los demás casos, cuando no exista un procedimiento de ejecución especialmente previsto por la ley se ejecutarán por medio de subasta con intervención de notario o corredor colegiado de comercio y citación del deudor y del propietario del bien, valor o derecho dado en garantía si no fueran la misma persona, siguiéndose en los demás el procedimiento previsto en el párrafo primero del artículo 1872 del Código Civil, sin que el procedimiento de ejecución antedicho pueda ser suspendido o interrumpido salvo por mandato judicial y, en este caso, el juez deberá exigir, a quien haya instado la suspensión, garantía bastante y específica para cubrir los daños y perjuicios que de la misma pudieran derivarse.
 
-6. El régimen establecido en los apartados anteriores será, asimismo, aplicable a las prendas en garantía de obligaciones contraídas frente al Banco de España en el ejercicio de sus operaciones de política monetaria, así como a las que hayan de constituir las entidades participantes en un sistema interbancario de pagos en garantía de dicha participación.
+6. (Derogado)
+
+> Se deroga el apartado 6 por la disposición derogatoria única.c) de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807.

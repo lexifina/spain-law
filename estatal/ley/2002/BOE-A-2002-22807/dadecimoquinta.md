@@ -1,0 +1,11 @@
+## Disposición adicional decimoquinta. Régimen transitorio de acomodación de determinados compromisos por pensiones vinculados a la jubilación mediante planes de empleo de promoción conjunta.
+
+El plazo para la adaptación de los compromisos por pensiones de las empresas con el personal a la disposición adicional primera de la Ley 8/1987, de 8 de junio, de Regulación de los Planes y Fondos de Pensiones, extendido hasta 16 de noviembre de 2002 por la disposición adicional vigésima quinta de la Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, se amplía hasta el 31 de diciembre de 2004 para la integración en planes de pensiones de empleo de promoción conjunta de aquellos compromisos, establecidos en convenio colectivo de ámbito supraempresarial, vinculados a la permanencia del trabajador en la empresa o sector hasta la jubilación, que, bajo la denominación «premios de jubilación» u otras, consistan en una prestación pagadera por una sola vez en el momento del cese por jubilación.
+
+A los efectos previstos en el párrafo anterior, la representación de las empresas y de los trabajadores en el ámbito supraempresarial podrán promover uno o varios planes de pensiones de promoción conjunta, en los que podrán incorporarse las empresas afectadas por el convenio, sin perjuicio de las necesarias adaptaciones que deban acordarse para ajustar la configuración de los referidos compromisos a los principios básicos de los planes de pensiones establecidos en la normativa sobre planes de pensiones.
+
+En dichos planes de promoción conjunta podrán integrarse otros compromisos de las empresas vinculados a otras contingencias distintas de la jubilación.
+
+Las empresas que se incorporen a los referidos planes de promoción conjunta dentro del plazo señalado podrán acogerse a lo previsto en las disposiciones transitorias decimoquinta y decimosexta de la Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados, para el reconocimiento de derechos por servicios pasados mediante los correspondientes planes de reequilibrio.
+
+En todo caso, durante el plazo concedido en esta disposición, las empresas susceptibles de acogerse a la misma podrán adaptar el compromiso por jubilación a través de cualquiera de los instrumentos previstos en la disposición adicional primera de la Ley 8/1987.

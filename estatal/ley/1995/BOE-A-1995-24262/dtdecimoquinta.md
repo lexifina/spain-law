@@ -24,7 +24,7 @@ En razón de las especiales circunstancias que puedan concurrir en sectores de a
 
 La imputación de las aportaciones correspondientes a derechos reconocidos por servicios pasados se entiende sin perjuicio del régimen fiscal transitorio recogido en la disposición transitoria decimosexta de esta Ley.
 
-La cuantía máxima de los servicios pasados reconocidos correspondientes a los ejercicios anuales iniciados a 1 de enero de 1988 hasta el de formalización del plan de pensiones no podrá rebasar, para cada uno de estos años, el importe del límite financiero anual vigente en cada uno de tales ejercicios.
+La cuantía máxima de los servicios pasados reconocidos correspondientes a los ejercicios anuales iniciados a 1 de enero de 1988 hasta el de formalización del Plan de Pensiones no podrá rebasar, para cada uno de estos años, el importe del límite financiero anual vigente en cada uno de tales ejercicios. No obstante, los servicios pasados se integrarán en su totalidad cuando los compromisos por pensiones asumidos por las empresas con sus empleados o trabajadores deriven de convenio colectivo. A tales efectos se modificarán, cuando proceda, los correspondientes planes de reequilibrio para su aprobación o verificación por la Dirección General de Seguros y Fondos de Pensiones.
 
 Sin perjuicio de lo dispuesto en el párrafo anterior, las aportaciones precisas para la cobertura de los mencionados servicios pasados estarán exceptuadas del límite máximo de aportación individual recogido en el artículo 5, apartado 3, de la Ley 8/1997, de 8 de junio, Reguladora de Planes y Fondos de Pensiones.
 
@@ -41,6 +41,8 @@ El régimen fiscal previsto en este apartado será, asimismo, de aplicación a l
 7. Quedarán exentos de tributación los incrementos o disminuciones patrimoniales que se pongan de manifiesto como consecuencia de la integración o aportación a un plan de pensiones de los elementos patrimoniales afectos a compromisos de previsión del personal. Igualmente estarán exentos los incrementos o disminuciones patrimoniales que se pongan de manifiesto como consecuencia de la enajenación de los elementos patrimoniales afectos a compromisos de previsión del personal cuando el importe de la venta se aporte en planes de pensiones; si sólo se aportara parcialmente, la exención se aplicará a la parte proporcional del incremento que haya sido aportado.
 
 8. Para acceder a este tratamiento fiscal será condición indispensable que los elementos patrimoniales afectos a los compromisos de previsión del personal se encuentren en tal situación a 3 de marzo de 1995.
+
+> Se modifica el párrafo sexto del apartado 4 por la disposición adicional 18 de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807.
 
 > Se amplía el plazo de los apartados 1 y 2 hasta el 16 de noviembre de 2002, por la disposición adicional 25 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
 

@@ -10,10 +10,10 @@ La designación podrá recaer entre los propios Consejeros generales de represen
 
 b) El nombramiento de los miembros representantes de los impositores se efectuará por la Asamblea General y de entre los mismos.
 
-Para la representación de impositores, podrán proponer candidatos un número de Consejeros generales de este grupo no inferior al que resulte de dividir su número total por ocho.
-
-No obstante, se podrá designar hasta un máximo de dos personas que reúnan los adecuados requisitos de profesionalidad y no sean Consejeros generales.
+No obstante, se podrá designar hasta un máximo de dos personas que reúnan los adecuados requisitos de profesionalidad y no sean Consejeros Generales.
 
 c) El nombramiento de los miembros representantes de los empleados de la Caja de Ahorros se efectuará por la Asamblea General a propuesta de los Consejeros generales de este grupo y de entre los mismos.
 
 d) El nombramiento de los miembros representantes de las personas o Entidades fundadoras se efectuará por la Asamblea General a propuesta de los Consejeros generales de este grupo y de entre los mismos.
+
+> Se modifica la letra b) por el art. 8.8 de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807

@@ -6,10 +6,12 @@ Por operaciones dobles (también denominadas simultáneas), aquéllas en las que
 
 Por operaciones con pacto de recompra, aquéllas en las que el titular de los valores los vende hasta la fecha de la amortización, conviniendo simultáneamente la recompra de valores de idénticas características y por igual valor nominal, en una fecha determinada e intermedia entre la de venta y la de amortización más próxima, aunque esta sea parcial o voluntaria.
 
-2. Cuando las operaciones financieras contempladas en el guión primero del apartado anterior cumplan los requisitos a que se refiere el apartado 1 de la disposición adicional décima de la presente Ley, les será de aplicación lo dispuesto en los apartados 3 y 4 de la misma.
+2. (Derogado)
 
 3. En las operaciones a que se refiere el apartado 1 anterior, si el primer vendedor no satisface el precio de la segunda compraventa, o incumple el pacto de recompra, el primer comprador adquirirá irrevocablemente el dominio de los valores vendidos.
 
 Asimismo, tanto la declaración de quiebra del primer vendedor como la admisión a trámite de su solicitud de suspensión de pagos, entrañarán la resolución de pleno derecho de la segunda compraventa, o del pacto de recompra, produciéndose el mismo efecto a que se refiere el párrafo anterior.
 
-4. Lo establecido en el apartado 2 precedente, se aplicará igualmente a las operaciones de esa naturaleza que se realicen sobre otros activos financieros en garantía de las obligaciones generales contraídas frente al Banco de España en ejercicio de sus operaciones de política monetaria.
+4. Lo previsto en los apartados 3 y 4 de la disposición adicional décima de esta Ley será de aplicación a las operaciones contempladas en el apartado 1 de esta disposición que se realicen sobre otros activos financieros en garantía de las obligaciones generales contraídas frente al Banco de España en ejercicio de sus operaciones de política monetaria.
+
+> Se deroga el apartado 2 y se modifica el apartado 4 por la disposición derogatoria única.c) y el art. 16.2 de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807.

@@ -1,0 +1,15 @@
+## Artículo 44 ter.
+
+1. El Ministro de Economía, a propuesta de la Comisión Nacional del Mercado de Valores, previo informe del Banco de España, podrá autorizar que una o varias entidades de contrapartida central realicen funciones de interposición por cuenta propia, respecto de los procesos de compensación y liquidación de las obligaciones derivadas de la participación de las entidades miembros en los sistemas de compensación y liquidación de valores o instrumentos financieros reconocidos de conformidad con la Ley 41/1999, de 12 de noviembre, sobre sistemas de pagos y de liquidación de valores, así como respecto de operaciones no realizadas en mercados oficiales. La entidad o entidades así autorizadas desarrollarán sus actividades con sujeción a lo que al respecto establezca el correspondiente Reglamento, que deberá ser aprobado por el Ministro de Economía previo informe de la Comisión Nacional del Mercado de Valores, del Banco de España y de las Comunidades Autónomas cuyos Estatutos de Autonomía les reconozcan competencias en materia de regulación de centros de contratación de valores.
+
+Dicho Reglamento determinará, como mínimo, los requisitos de acceso a la condición de participante en la misma y establecerá las condiciones técnicas, operativas y normativas de acceso a los servicios prestados, las garantías exigidas a las entidades miembros y la información que deberán facilitar las mismas en relación con las operaciones que comuniquen a aquélla, así como el régimen económico de la entidad de contrapartida central.
+
+2. La entidad de contrapartida central podrá ejecutar, en nombre y por cuenta de las entidades contratantes, las obligaciones derivadas de contratos marco de operaciones realizadas sobre valores negociables o instrumentos financieros derivados, con sujeción a lo dispuesto en ésta o en otras leyes aplicables, así como en la normativa de desarrollo.
+
+3. La entidad de contrapartida central estará sujeta a la supervisión de la Comisión Nacional del Mercado de Valores y del Banco de España, en sus respectivos ámbitos de competencia, y en los términos establecidos en el artículo 88 de esta Ley.
+
+4. Asimismo, a dicha entidad de contrapartida central le será de aplicación lo previsto para la Sociedad de Sistemas en los apartados 8 y 9 del artículo 44 bis de la presente Ley, así como lo dispuesto en la Ley 41/1999, de 12 de noviembre, sobre sistemas de pagos y de liquidación de valores, para los sistemas regulados en la misma.
+
+5. Con sujeción a lo dispuesto en ésta y otras leyes, así como a lo establecido en las disposiciones de desarrollo de la presente Ley, la entidad de contrapartida central podrá establecer acuerdos con otras entidades residentes y no residentes, cuyas funciones sean análogas o que gestionen sistemas de compensación y liquidación de valores, participar en el accionariado de dichas entidades o admitir a las mismas como accionistas. Dichos acuerdos requerirán la aprobación de la Comisión Nacional del Mercado de Valores.
+
+> Se añade por el art. 1.3 de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807

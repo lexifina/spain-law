@@ -1,0 +1,43 @@
+## Disposición adicional novena. Modificación del Real Decreto legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el texto refundido de la Ley de Sociedades Anónimas.
+
+Se introducen las siguientes modificaciones en el Real Decreto legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el texto refundido de la Ley de Sociedades Anónimas:
+
+Uno. Se da nueva redacción al apartado 1 del artículo 64 del Real Decreto legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el texto refundido de la Ley de Sociedades Anónimas, que pasa a tener la siguiente redacción:
+
+«1. Las restricciones estatutarias a la transmisibilidad de las acciones sólo serán aplicables a las adquisiciones por causa de muerte cuando así lo establezcan expresamente los propios estatutos.
+
+En este supuesto, para rechazar la inscripción de la transmisión en el libro registro de acciones nominativas, la sociedad deberá presentar al heredero un adquirente de las acciones u ofrecerse a adquirirlas ella misma por su valor razonable en el momento en que se solicitó la inscripción, de acuerdo con lo previsto en el artículo 75.
+
+Se entenderá como valor razonable el que determine un auditor de cuentas, distinto al auditor de la sociedad, que, a solicitud de cualquier interesado, nombren a tal efecto los administradores de la sociedad.»
+
+Dos. El apartado 3 del artículo 68 del Real Decreto legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el texto refundido de la Ley de Sociedades Anónimas, pasa a tener el siguiente tenor literal:
+
+«3. Si las partes no llegaran a un acuerdo sobre el importe a abonar en los supuestos previstos en los dos apartados anteriores, éste será fijado, a petición de cualquiera de ellas y a costa de ambas, por un auditor de cuentas, distinto al auditor de la sociedad, que designe a tal efecto el Registro Mercantil.»
+
+Tres. El apartado 2 del artículo 147 del Real Decreto legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el texto refundido de la Ley de Sociedades Anónimas, pasa a tener el siguiente contenido:
+
+«2. Si las acciones cotizasen en un mercado secundario oficial, el valor de reembolso será el del precio de cotización media del último trimestre. En otro caso, y a falta de acuerdo entre la sociedad y los interesados, el valor de las acciones vendrá determinado por un auditor de cuentas, distinto al auditor de la sociedad, designado a tal efecto por el Registro Mercantil.»
+
+Cuatro. El artículo 159 del Real Decreto legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el texto refundido de la Ley de Sociedades Anónimas, pasa a tener la siguiente redacción:
+
+«Artículo 159. Exclusión del derecho de suscripción preferente.
+
+1. En los casos en que el interés de la sociedad así lo exija, la Junta General, al decidir el aumento del capital, podrá acordar la supresión total o parcial del derecho de suscripción preferente. Para la validez de este acuerdo, que habrá de respetar lo dispuesto en el artículo 144, será imprescindible:
+
+a) Que en la convocatoria de la Junta se hayan hecho constar la propuesta de supresión del derecho de suscripción preferente y el tipo de emisión de las nuevas acciones.
+
+b) Que al tiempo de la convocatoria de la Junta se pongan a disposición de los accionistas, conforme a lo previsto en el párrafo c) del apartado 1 del artículo 144, un informe elaborado por los administradores, en el que se justifique detalladamente la propuesta y el tipo de emisión de las acciones, con indicación de las personas a las que éstas habrán de atribuirse, y un informe elaborado, bajo su responsabilidad, por un auditor de cuentas distinto del auditor de las cuentas de la sociedad, nombrado a estos efectos por el Registro mercantil, sobre el valor razonable de las acciones de la sociedad, sobre el valor teórico de los derechos de suscripción preferente cuyo ejercicio se propone suprimir y sobre la razonabilidad de los datos contenidos en el informe de los administradores.
+
+c) Que el valor nominal de las acciones a emitir, más, en su caso, el importe de la prima de emisión, se corresponda con el valor razonable que resulte del informe de los auditores de cuentas a que se refiere el párrafo b) precedente. Tratándose de una sociedad cotizada, el valor razonable se entenderá como valor de mercado y éste se presumirá, salvo que se justifique lo contrario, referido a su cotización bursátil.
+
+No obstante, en el supuesto de sociedades cotizadas, la Junta de Accionistas, una vez que disponga del informe de los administradores y del informe del auditor de cuentas requeridos en el párrafo b) precedente, los cuales deberán, en este caso, referirse también al valor neto patrimonial de las acciones, podrá acordar la emisión de nuevas acciones a cualquier precio, siempre que sea superior al valor neto patrimonial de éstas que resulte del informe de dicho auditor, pudiendo dicha Junta de Accionistas limitarse a establecer el procedimiento para su determinación. Dicho valor neto patrimonial de las acciones será determinado por el auditor a que se refiere el párrafo b) precedente, sobre la base de las últimas cuentas anuales auditadas de la sociedad o, bien, si son de fecha posterior a éstas, sobre la base de los últimos estados financieros auditados de la sociedad conformes con el artículo 172, formulados, en cualquiera de los casos, por los administradores de acuerdo con los principios de contabilidad recogidos en el Código de Comercio, debiendo tenerse en cuenta en la determinación del mencionado valor las eventuales salvedades que pudiera haber puesto de manifiesto en su informe el auditor de dichas cuentas anuales o de dichos estados financieros. La fecha de cierre de estas cuentas o de estos estados no podrá ser anterior en más de seis meses a la fecha en la que la Junta de Accionistas adopte el acuerdo de ampliación, siempre que no se realicen operaciones significativas. Tratándose de sociedades cotizadas que sean dominantes de un grupo de empresas, el valor neto patrimonial se determinará conforme a los datos que para la sociedad se deriven de la contabilidad consolidada del grupo. El registro contable de las operaciones, a que se hace referencia en este párrafo, se realizará de acuerdo con los principios y normas de contabilidad establecidas en el Código de Comercio.
+
+2. En el caso de sociedades cotizadas, cuando la Junta General delegue en los administradores la facultad de aumentar el capital social conforme a lo establecido en el apartado 1.b) del artículo 153, podrá atribuirles también la facultad de excluir el derecho de suscripción preferente en relación a las emisiones de acciones que sean objeto de delegación cuando el interés de la sociedad así lo exija. A estos efectos, deberá constar expresamente dicha propuesta de exclusión en la convocatoria de Junta General y se pondrá a disposición de los accionistas un informe de los administradores en el que se justifique la propuesta. Asimismo, con ocasión de cada acuerdo de ampliación que se realice con cargo a esa delegación, habrá de elaborarse el informe de los administradores y el informe del auditor de cuentas requeridos en el apartado 1.b) anterior, referidos a cada ampliación concreta, debiendo corresponderse el valor nominal de las acciones a emitir, más, en su caso, el importe de la prima de emisión con el valor razonable que resulte del informe de dicho auditor de cuentas. Dichos informes serán puestos a disposición de los accionistas y comunicados a la primera Junta General que se celebre tras el acuerdo de ampliación.
+
+3. Cuando la sociedad tenga emitidas obligaciones convertibles con relación de conversión fija y sus tenedores se vean afectados por la exclusión del derecho de suscripción preferente, deberá preverse una fórmula de ajuste de dicha relación que permita compensar la eventual dilución del importe del derecho de conversión.
+
+4. No habrá lugar al derecho de suscripción preferente cuando el aumento del capital se deba a la conversión de obligaciones en acciones o a la absorción de otra sociedad o de parte del patrimonio escindido de otra sociedad.»
+
+Cinco. El apartado 2 del artículo 292 del Real Decreto legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el texto refundido de la Ley de Sociedades Anónimas, pasa a tener el siguiente tenor:
+
+«2. Los administradores deberán redactar con anterioridad a la convocatoria de la Junta un informe que explique las bases y modalidades de la conversión, que deberá ser acompañado por otro de un auditor de cuentas, distinto al auditor de la sociedad, designado a tal efecto por el Registro Mercantil.»

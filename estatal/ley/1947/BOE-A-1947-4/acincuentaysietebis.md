@@ -2,7 +2,7 @@
 
 1. La autorización concedida a un establecimiento de crédito sólo puede ser revocada en los siguientes supuestos:
 
-a) Si no da comienzo a las actividades específicas de su objeto social dentro de los doce meses siguientes a la fecha de notificación de la autorización o renuncia de modo expreso a ésta.
+a) (Derogada)
 
 b) Si interrumpe de hecho las actividades específicas de su objeto social durante un período superior a seis meses.
 
@@ -12,9 +12,9 @@ d) Si incumple las condiciones que motivaron la autorización, salvo que se disp
 
 e) Si carece de fondos propios suficientes o no ofrece garantía de poder cumplir sus obligaciones con relación a sus acreedores y, en particular, no garantiza la seguridad de los fondos que le hayan sido confiados.
 
-f) Si la entidad es excluida del Fondo de Garantía de Depósitos al que esté adscrita.
+f) Como sanción, según lo previsto en la Ley sobre Disciplina e Intervención de las Entidades de crédito.
 
-g) Como sanción, según lo previsto en la Ley sobre Disciplina e Intervención de las Entidades de crédito.
+g) Si la entidad es excluida del Fondo de Garantía de Depósitos al que esté adscrita.
 
 La autorización de una sucursal de un establecimiento de crédito extranjero será revocada, en cualquier caso, cuando sea revocada la autorización del establecimiento de crédito que ha creado la sucursal.
 
@@ -25,6 +25,8 @@ La autorización de una sucursal de un establecimiento de crédito extranjero se
 4. La revocación de la autorización llevará implícita la disolución de la entidad y la apertura del período de liquidación que se desarrollará conforme a las normas y estatutos por los que se rija aquélla.
 
 5. La revocación de la autorización se hará constar en todos los Registros públicos correspondientes y, tan pronto sea notificada al establecimiento, conllevará el cese del mismo en cuantas operaciones vinieran amparadas por la concesión de la autorización revocada.
+
+> Se deroga el apartado 1.a) por la disposición derogatoria única.i) de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807.
 
 > Se renumera el apartado 1.f) como 1.g) y se modifican los apartados 1.f), 2 y 4 por la disposición adicional 8 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 

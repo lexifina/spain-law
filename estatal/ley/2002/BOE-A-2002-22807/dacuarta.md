@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Remisión del reglamento interno de conducta a la Comisión Nacional del Mercado de Valores.
+
+Las entidades a las que resulta de aplicación lo dispuesto en los artículos 82 a 83 bis de la Ley 24/1988, de 28 de julio, del Mercado de Valores, deberán remitir a la Comisión Nacional del Mercado de Valores en el plazo de nueve meses un reglamento interno de conducta, en el que además de las previsiones contenidas en otras disposiciones de desarrollo de dicha Ley, incorporen las contenidas en los artículos citados. Asimismo remitirán un compromiso por escrito que garantice la actualización de dichos reglamentos internos de conducta y que su contenido es conocido, comprendido y aceptado por todas las personas pertenecientes a la organización a los que resulte de aplicación.
+
+En aquellos casos en que se detecte que su contenido no se ajusta a lo dispuesto anteriormente o no es adecuado a la naturaleza o al conjunto de actividades que la entidad o grupo desarrolla, la Comisión Nacional del Mercado de Valores podrá requerirle para que incorpore al reglamento cuantas modificaciones o adicciones juzgue necesarias.

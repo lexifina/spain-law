@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Régimen transitorio de las funciones asumidas por la Sociedad de Sistemas.
+
+El artículo 54 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, quedará derogado en el momento en que, de conformidad con lo dispuesto en la disposición transitoria primera, se produzca la efectiva asunción de las funciones que el artículo 44 bis de la mencionada Ley confiere a la Sociedad de Sistemas, todo ello, sin perjuicio del mantenimiento de lo dispuesto en el apartado 2 del referido artículo 44 bis, respecto a los servicios creados en las Comunidades Autónomas con competencias en la materia.

@@ -1,9 +1,19 @@
 ## Artículo ochenta y tres.
 
-El seguro puede estipularse sobre la vida propia o la de un tercero, tanto para caso de muerte como para caso de supervivencia o ambos conjuntamente.
+Por el seguro de vida el asegurador se obliga, mediante el cobro de la prima estipulada y dentro de los límites establecidos en la Ley y en el contrato, a satisfacer al beneficiario un capital, una renta u otras prestaciones convenidas, en el caso de muerte o bien de supervivencia del asegurado, o de ambos eventos conjuntamente.
+
+El seguro sobre la vida puede estipularse sobre la vida propia o la de un tercero, tanto para caso de muerte como para caso de supervivencia o ambos conjuntamente, así como sobre una o varias cabezas.
+
+Son seguros sobre la vida aquellos en que, cumpliendo lo establecido en los párrafos anteriores, la prestación convenida en la póliza ha sido determinada por el asegurador mediante la utilización de criterios y bases de técnica actuarial.
 
 En los seguros para caso de muerte, si son distintas las personas del tomador del seguro y del asegurado, será preciso el consentimiento de éste, dado por escrito, salvo que pueda presumirse de otra forma su interés por la existencia del seguro.
 
+A los efectos de lo indicado en el artículo 4, en los seguros sobre la vida se entiende que existe riesgo si en el momento de la contratación no se ha producido el evento objeto de la cobertura otorgada en la póliza.
+
 Si el asegurado es menor de edad, será necesaria, además, la autorización por escrito de sus representantes legales.
 
-No se podrá contratar un seguro para caso de muerte sobre la cabeza de menores de catorce años de edad o de incapacitados.
+No se podrá contratar un seguro para caso de muerte sobre la cabeza de menores de catorce años de edad o de incapacitados. Se exceptúan de esta prohibición, los contratos de seguros en los que la cobertura de muerte resulte inferior o igual a la prima satisfecha por la póliza o al valor de rescate.
+
+> Se modifica por el art. 12 de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807
+
+> Redactado conforme la corrección de errores publicada en BOE núm. 33, de 7 de febrero de 2003. Ref. BOE-A-2003-2510

@@ -1,0 +1,5 @@
+## Disposición adicional decimoctava. Exteriorización en Planes de Pensiones de compromisos adquiridos en convenio colectivo.
+
+Se modifica el párrafo 6 del apartado 4 de la disposición transitoria decimoquinta de la Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados, que quedará redactado de la siguiente forma:
+
+«La cuantía máxima de los servicios pasados reconocidos correspondientes a los ejercicios anuales iniciados a 1 de enero de 1988 hasta el de formalización del Plan de Pensiones no podrá rebasar, para cada uno de estos años, el importe del límite financiero anual vigente en cada uno de tales ejercicios. No obstante, los servicios pasados se integrarán en su totalidad cuando los compromisos por pensiones asumidos por las empresas con sus empleados o trabajadores deriven de convenio colectivo. A tales efectos se modificarán, cuando proceda, los correspondientes planes de reequilibrio para su aprobación o verificación por la Dirección General de Seguros y Fondos de Pensiones.»
