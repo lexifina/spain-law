@@ -1,0 +1,3 @@
+## Artículo sexto.
+
+A la tramitación y aprobación de los incrementos por zona a que se refiere el artículo quinto del presente Real Decreto será de aplicación el Reglamento del Canal de Isabel II, previo cumplimiento de los tramites de la legislación de precios vigente en cada momento. Los incrementos por financiación desaparecerán cuando hayan sido amortizados los créditos que los originaron, y los incrementos por explotación serán suficientes en todo momento para atender los costes especificos de explotación de las redes de alcantarillado, colectores y estaciones de tratamientos de las aguas residuales.
