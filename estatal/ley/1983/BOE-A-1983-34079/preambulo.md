@@ -1,0 +1,1 @@
+Disposición derogada, excepto respecto de aquellas Comunidades Autónomas que no asuman, en todo o en parte, el nuevo régimen de cesión de tributos, por el art. 26 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118.
