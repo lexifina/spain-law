@@ -1,0 +1,5 @@
+## INSTRUCCIÓN
+
+«1.º En el caso de elecciones a Asambleas Autonómicas, si la Ley Electoral de la Comunidad Autónoma prevé subvención por envío de propaganda electoral, habrá que estar a lo previsto en dicha legislación.
+
+2.º En caso de presentación de candidaturas tanto a las elecciones de Diputados del Parlamento Europeo como en las elecciones locales, dado que el carácter limitativo de la norma contenida en el artículo 131.2 de la LOREG impide su aplicación analógica en este supuesto, no resulta posible imponer a las entidades políticas que realicen dicha presentación de candidaturas en los dos procesos electorales la obligación de realizar un único envío conjunto de propaganda electoral, teniendo en cuenta el distinto mensaje y las distintas listas de candidatos en unas y otras elecciones, por lo que, siempre que se cumplan los requisitos de realización efectiva de la actividad y demás previstos en los artículos 193.3 y 227.3 de la LOREG, deberán abonarse las subvenciones contempladas tanto en uno como en el otro precepto citados.»
