@@ -1,0 +1,7 @@
+## Artículo cuarenta y tres.
+
+1. No obstante lo dispuesto en los artículos anteriores, tanto el propietario como la Administración podrán llevar a cabo la tasación aplicando los criterios estimativos que juzguen más adecuados, si la evaluación practicada por las normas que en aquellos artículos se fijan no resultare, a su juicio, conforme con el valor real de los bienes y derechos objeto de la expropiación, por ser éste superior o inferior a aquélla. El Jurado provincial de expropiación también podrá hacer aplicación de este artículo cuando considere que el precio obtenido con sujeción a las reglas de los anteriores resulte notoriamente inferior o superior al valor real de los bienes, haciendo uso de los criterios estimativos que juzgue más adecuados.
+
+2. Se seguirá este mismo sistema estimativo en los casos de expropiacion de bienes muebles que no tengan criterio particular de valoración señalado por leyes especiales.
+
+3. En los supuestos previstos en el párrafo primero de este artículo comenzarán, desde luego, por evaluar los bienes o derechos expropiados con arreglo a las normas de valoración que se señalan en esta Ley, pero al mismo tiempo podrá proponer el propietario o la Administración, y decidir en definitiva el Jurado, las rectificaciones que, a su juicio, deban ser introducidas, en alza o en baja, en el justiprecio, fundamentado, con el mayor rigor y detalle, las modificaciones propuestas.

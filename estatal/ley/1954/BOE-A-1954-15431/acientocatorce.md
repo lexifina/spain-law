@@ -1,0 +1,3 @@
+## Artículo ciento catorce.
+
+En los casos en que no fuere posible señalar de antemano la importancia y duración de la ocupación, se intentará un convenio con el propietario para fijar una cantidad alzada suficiente para responder del importe de aquélla. En caso de desacuerdo, así como para determinar en su día el importe definitivo, se procederá en la forma indicada en el artículo anterior. Antes de que se proceda a la ocupación, sin haberse pagado el importe definitivo de la indemnización, se hará constar el estado de la finca, con relación a cualquier circunstancia que pudiera ofrecer dudas para la valoración definitiva de los daños causados.

@@ -1,0 +1,3 @@
+## Artículo veintitrés.
+
+Cuando la expropiación implique sólo la necesidad de ocupación de una parte de finca rústica o urbana, de tal modo que a consecuencia de aquélla resulte antieconómica para el propietario la conservación de la parte de finca no expropiada, podrá éste solicitar de la Administración que dicha expropiación comprenda la totalidad de la finca, debiendo decidirse sobre ello en el plazo de diez días. Dicha resolución es susceptible del recurso de alzada previsto en el artículo anterior, y no se dará el recurso contencioso-administrativo, estándose a lo dispuesto en el artículo cuarenta y seis.

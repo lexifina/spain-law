@@ -1,0 +1,3 @@
+## Artículo ciento quince.
+
+Las tasaciones, en los casos de ocupación temporal, se referirán siempre a la apreciación de los rendimientos que el propietario hubiere dejado de percibir por las rentas vencidas durante la ocupación, agregando, además, los perjuicios causados en la finca, o los gastos que suponga restituirla a su primitivo estado. Nunca deberá alcanzar la tasación de una ocupación el valor de la finca, y la Administración, en los casos en que le parezca excesiva, podrá pedir la valoración de la expropiación pura y simple por los procedimientos que esta Ley determina, y optar por ella siempre que su importe no exceda de una mitad de la de los daños y perjuicios causados.
