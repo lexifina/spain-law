@@ -1,0 +1,9 @@
+La adecuada financiación de la industria cinematográfica aconseja se facilite a los productores la posibilidad de obtener de Entidades privadas, con la garantía de los rendimientos de películas ya realizadas o en realización los medios necesarios para el desenvolvimiento normal de su Empresa, completándose así el sistema de créditos y ayudas oficiales arbitrado a estos efectos.
+
+La hipoteca del derecho de explotación de la película es el instrumento idóneo para asegurar a los acreedores el reembolso de posibles créditos. La publicidad de este contrato, complemento indispensable para la seguridad del tráfico, se consigue en otros países mediante un Organismo específico: el Registro Público Cinematográfico. Pero en nuestro caso parece preferible, en lugar de crear un nuevo Organismo, aprovechar las posibilidades del ya existente Registro de Hipoteca Mobiliaria, cuya legislación reguladora prevé la figura de la hipoteca mobiliaria del derecho de explotación de la película que corresponde al productor o a sus causahabientes.
+
+La Ley de Hipoteca Mobiliaria y Prenda sin Desplazamiento, de dieciséis de diciembre de mil novecientos cincuenta y cuatro, no reguló minuciosamente esta hipoteca; el tiempo pasado desde la promulgación de dicha disposición y el hecho de haberse publicado después la Ley de treinta y uno de mayo de mil novecientas sesenta y seis, reguladora de los derechos del productor y autores de la película, hacen necesario aclarar y complementar aquella Ley sin salirse de sus límites, en cuanto se refiere a la hipoteca del derecho de explotación de la película.
+
+En su virtud, a propuesta de los Ministros de Justicia e Información y Turismo y previa deliberación del Consejo de Ministros en su reunión del día dieciocho de diciembre de mil novecientos setenta,
+
+## DISPONGO:

@@ -1,0 +1,3 @@
+## Artículo duodécimo.
+
+La Dirección General de Cultura Popular y Espectáculos hará constar, dentro de los quince días siguientes a la comunicación que al efecto reciba del Registro de la Propiedad, la existencia de la hipoteca y sus principales características, incluso, en su caso, el pacto de la transmisión al acreedor de los rendimientos que la película produzca en las licencias de exhibición que haya expedido o expida. Para su mejor información, los acreedores hipotecarios, con sólo acreditar tal condición, podrán obtener del citado Centro los datos que el Servicio de Control de Taquillaje suministre sobre los rendimientos brutos que la película vaya produciendo.
