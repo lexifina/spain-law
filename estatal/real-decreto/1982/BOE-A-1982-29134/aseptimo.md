@@ -1,0 +1,3 @@
+## Artículo séptimo.
+
+El Registro y matrícula de los vehículos volantes de estructura ultraligera, así como las aeronaves privadas que no sean de utilización mercantil, se realizará por las normas establecidas en este Real Decreto y sus disposiciones complementarias y, subsidiariamente, por el Decreto de trece de marzo de mil novecientos sesenta y nueve, diez de febrero de mil novecientos setenta y dos y el texto refundido del Reglamento de marcas de nacionalidad y matrícula aprobado por resolución de la Subsecretaría de Aviación Civil de diecisiete de noviembre de mil novecientos setenta y siete, siguiendo en todo caso el principio de la máxima simplificación administrativa.
