@@ -1,0 +1,3 @@
+## Disposición final primera.
+
+La presente Ley entrará en vigor a los seis meses de su publicación en el «Boletín Oficial del Estado». No obstante, los preceptos de la misma específicamente referidos a las Bolsas de Valores, así como los restantes, en la medida en que resulten de aplicación a las mismas, no entrarán en vigor hasta transcurrido un año desde su publicación, rigiéndose entre tanto las actuales Bolsas Oficiales de Comercio y los Agentes de Cambio y Bolsa por la legislación actualmente vigente. No obstante, lo dispuesto en el artículo 42 no entrará en vigor hasta el 1.º de enero de 1992, debiendo aplicar las Sociedades y Agencias de Valores, en el periodo transitorio, las tarifas de comisiones que apruebe el Gobierno.

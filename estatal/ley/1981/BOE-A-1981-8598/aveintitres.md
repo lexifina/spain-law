@@ -1,3 +1,5 @@
 ## Artículo veintitrés.
 
-Las Juntas sindicales de las Bolsas Oficiales de Comercio procederán de inmediato a admitir provisionalmente a cotización oficial los títulos hipotecarios que hayan sido emitidos conforme a la presente Ley. La Entidad emisora de estos títulos deberá completar la documentación y requisitos necesarios para la admisión definitiva en el plazo de un año.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 24/1988, de 28 de julio. Ref. BOE-A-1988-18764

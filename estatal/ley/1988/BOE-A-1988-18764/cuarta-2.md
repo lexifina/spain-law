@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta.
+
+Para desempeñar el cargo de Corredor de Comercio en las plazas de Madrid, Barcelona, Bilbao y Valencia adscritas a los correspondientes Colegios Oficiales, tendrán derecho preferente los actuales Agentes de Cambio y Bolsa. Podrán ejercer este derecho preferente por una sola vez, en cualquiera de los concursos que se convoquen con posterioridad a la fecha de determinación de las plantillas de dichos Colegios. En la resolución de los concursos se otorgará prelación a quienes, en el momento de la entrada en vigor de esta Ley, ostentaran la condición de Agentes de Cambio y Bolsa y, entre ellos, a quienes, en dicho momento, estuvieran adscritos a la misma plaza atendiendo a la mayor antigüedad en el cargo.

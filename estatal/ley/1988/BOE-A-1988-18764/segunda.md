@@ -1,0 +1,7 @@
+## Disposición adicional segunda.
+
+En el momento de entrada en vigor de los preceptos de esta Ley referentes a las Bolsas de Valores, los Agentes de Cambio y Bolsa, sin perjuicio de conservar su denominación, pasarán a integrarse en el Cuerpo de Corredores de Comercio Colegiados, ocupando en su escalafón el lugar que les corresponda de acuerdo con la antigüedad de cada uno de ellos como Agentes Mediadores Oficiales y quedando íntegramente sujetos a cuantas normas sean aplicables a los citados Corredores de Comercio Colegiados. En dicha fecha quedarán disueltos los Colegios de Agentes de Cambio y Bolsa, entrando a continuación en periodo de liquidación. El Gobierno determinará el destino que haya de darse a los libros registros y archivos de los Agentes de Cambio y Bolsa y a cuanta documentación oficial conste en sus Colegios.
+
+Por el Ministro de Economía y Hacienda se crearán, antes de la indicada fecha, los Colegios de Corredores de Comercio de Madrid, Barcelona y Bilbao, determinándose, en relación con éstos y con el de Valencia, sus plantillas y previo informe, en su caso, de las Comunidades Autónomas, sus circunscripciones respectivas.
+
+En el plazo de dos años a partir de la entrada en vigor de los preceptos de esta Ley referentes a las Bolsas de Valores, el Gobierno aprobará un nuevo reglamento regulando el ejercicio del cargo y las funciones de Corredor de Comercio Colegiado.
