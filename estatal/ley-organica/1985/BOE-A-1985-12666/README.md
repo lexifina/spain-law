@@ -115,6 +115,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo ochenta y cinco](aochentaycinco.md)
 - [Artículo ochenta y seis](aochentayseis.md)
 - [Artículo ochenta y seis bis](aochentayseisbis.md)
+- [Artículo ochenta y seis ter](aochentayseister.md)
 - [Artículo ochenta y siete](aochentaysiete.md)
 - [Artículo ochenta y ocho](aochentayocho.md)
 - [Artículo ochenta y nueve](aochentaynueve.md)
