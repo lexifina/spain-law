@@ -1,23 +1,19 @@
 ## ANEXO
 
-Relación de productos alimenticios objeto de legislación específica, a establecer mediante Reglamentaciones Técnico-Sanitarias:
+Grupos de productos alimenticios destinados a una alimentación especial para los que se establecerán disposiciones específicas mediante Reglamentaciones Técnico-sanitarias específicas:
 
-Preparados para lactantes.
+a) Preparados para lactantes y preparados de continuación.
 
-Leches de continuación y otros alimentos para poslactantes.
+b) Alimentos elaborados a base de cereales y alimentos infantiles para lactantes y niños de corta edad.
 
-Alimentos para bebés (a base de hortalizas, frutas, carnes, pescados o mezclas de los mismos preparados y zumos infantiles).
+c) Alimentos destinados a ser utilizados en dietas de bajo valor energético para reducción de peso.
 
-Productos alimenticios de escaso o reducido valor energético, destinados al control de peso.
+d) Alimentos dietéticos destinados a usos médicos especiales.
 
-Alimentos dietéticos destinados a usos médicos especiales.
+e) Alimentos adaptados a un intenso desgaste muscular, sobre todo para los deportistas.
 
-Alimentos pobres en sodio, incluidas las sales dietéticas hiposódicas o asódicas.
+f) Alimentos destinados a las personas afectadas de perturbaciones en el metabolismo de los glúcidos (diabéticos).
 
-Alimentos sin gluten.
-
-Alimentos adaptados a un intenso desgaste muscular, sobre todo para deportistas.
-
-Alimentos destinados a las personas físicas afectadas de perturbaciones en el metabolismo de los hidratos de carbono (diabéticos).
+> Se modifica por el art. único del Real Decreto 1444/2000, de 31 de julio. Ref. BOE-A-2000-14590.
 
 > Se añade por el art. único.6 del Real Decreto 1809/1991, de 13 de diciembre. Ref. BOE-A-1991-30679.
