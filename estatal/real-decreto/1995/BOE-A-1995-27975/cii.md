@@ -1,3 +1,7 @@
 ## CAPÍTULO II
 
 ## Procedimiento de acceso al Cuerpo de Inspectores de Educación
+
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 334/2004, de 27 de febrero. Ref. BOE-A-2004-3715.
