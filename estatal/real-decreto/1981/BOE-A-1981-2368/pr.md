@@ -1,0 +1,3 @@
+El articulo quinto de la Ley Orgánica de libertad religiosa determina la creación en el Ministerio de Justicia del Registro de Entidades Religiosas, y la Disposición Final de la citada Ley autoriza al Gobierno a dictar, a propuesta del Ministerio de Justicia, las disposiciones reglamentarias que sean necesarias para la organización y funcionamiento del mismo. En consonancia con ese precepto, a propuesta del Ministro de Justicia, de acuerdo con el dictamen del Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día nueve de enero de mil novecientos ochenta y uno,
+
+DISPONGO:
