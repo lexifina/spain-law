@@ -18,13 +18,13 @@ Sobre el valor nominal de las emisiones que determinen la obligatoriedad del fol
 
 ## Tarifa 2.ª Ofertas públicas de adquisición o venta de valores.
 
-Sobre el valor nominal del número máximo de los valores a los que la oferta se extienda y, en el supuesto de que no exista limite máximo, sobre el total nominal del los valores que constituyan el objeto de la oferta: 0,35 por 1.000.
+Sobre el valor nominal del número máximo de los valores a los que la oferta se extienda y, en el supuesto de que no exista límite máximo, sobre el total nominal de los valores que constituyan el objeto de la oferta: 0,35 por 1.000.
 
-## Tarifa 3.ª Inscripción y permanencia en los registros administrativos de las Sociedades y Agencias de Valores, Instituciones de Inversión Colectiva, Entidades Gestoras de Valores Instituciones y Sociedades Gestoras de Carteras.
+## Tarifa 3.ª Inscripción y permanencia en los registros administrativos de las Sociedades y Agencias de Valores, Instituciones de Inversión Colectiva, Entidades Gestoras de tales Instituciones y Sociedades Gestoras de Carteras.
 
 Por la inscripción de las Sociedades o Instituciones: 0,5 por 1.000 de su capital social o patrimonio, según proceda.
 
-Por la inscripción adicional de lodo acto que deba ser objeto de inscripción en los correspondientes registros: 0,05 por 1.000 de los recursos propios o patrimonio al último día del mes precedente al del acuerdo de inscripción de que se trate.
+Por la inscripción adicional de todo acto que deba ser objeto de inscripción en los correspondientes registros: 0,05 por 1.000 de los recursos propios o patrimonio al último día del mes precedente al del acuerdo de inscripción de que se trate.
 
 Por la permanencia en los registros:
 
@@ -47,6 +47,10 @@ El importe de lo recaudado por estas tasas formará parte del Presupuesto de Ing
 Sin perjuicio de la función de control del Ministerio de Economía y Hacienda, la administración, liquidación y notificación de las tasas corresponderá a la Comisión Nacional del Mercado de Valores.
 
 La cuantía de las tasas previstas en esta Ley podrá ser modificada a través de las Leyes de Presupuestos Generales del Estado.
+
+> Se modifica el epígrafe "Bases y tipos", con efectos desde el 1 de enero de 1990, por el art. 38.3 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+
+> Téngase en cuenta que el epígrafe ya estaba modificado por el Real Decreto-Ley 7/1989.
 
 > Se modifica el epígrafe "Bases y tipos" por el art. 39.3 del Real Decreto-Ley 7/1989, de 29 de diciembre. Ref. BOE-A-1989-30591
 

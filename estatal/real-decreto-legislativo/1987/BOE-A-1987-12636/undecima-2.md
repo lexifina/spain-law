@@ -10,7 +10,11 @@ Lo dispuesto en párrafo segundo de la letra a) del número 2 del artículo 28 d
 | Durante 1993 | 10 |
 | Durante 1994 | 11 |
 
-En todo caso el periodo de carencia, de existir prorroga en el servicio activo, será exigido al momento de cumplir el funcionario la edad de jubilación o retiro forzoso.
+En todo caso, el periodo de carencia, de existir prorroga en el servicio activo, será exigido al momento de cumplir el funcionario la edad de jubilación o retiro forzoso.
+
+> Se añade por el art. 2.2 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+
+> Téngase en cuenta que la disposición ya estaba añadida por el Real Decreto-Ley 7/1989, de 29 de diciembre.
 
 > Se añade por el art. 5.2 del Real Decreto-Ley 7/1989, de 29 de diciembre.Ref. BOE-A-1989-30591
 

@@ -1,0 +1,3 @@
+## Disposición final segunda. Habilitación de créditos para atender compromisos de gastos previamente contraídos con cargo a ejercicios futuros.
+
+Al objeto de poder atender desde el 1 de enero de 1990 las necesidades derivadas de la adquisición en 1989 de compromisos de gastos para el ejercicio 1990, en virtud de lo establecido en el anexo VIII, «Compromisos de gastos para ejercicios futuros», de la Ley 37/1988, y de aquellos otros autorizados por acuerdo del Consejo de Ministros, en base a lo dispuesto en el artículo 61 del texto refundido de la Ley General Presupuestaria, se habilitan en el presupuesto prorrogado los créditos que se detallan en el anexo II.

@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Adaptación general del sistema tributario a la entrada en vigor de la Ley reguladora de las Haciendas Locales.
+
+A partir de 1 de enero de 1990, las referencias contenidas en la normativa reguladora de los tributos a las Contribuciones Territoriales Urbana y Rústica y Pecuaria, y al Impuesto Municipal sobre el Incremento del Valor de los Terrenos se entenderán realizadas, respectivamente, al Impuesto sobre Bienes Inmuebles y al Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana, siempre que resulten compatibles con los preceptos de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales y, en particular, con lo dispuesto en su Disposición Adicional Novena.

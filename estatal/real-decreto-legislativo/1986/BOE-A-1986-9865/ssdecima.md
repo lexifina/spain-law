@@ -1,5 +1,5 @@
 ## Subsección décima: Impuesto Municipal sobre Gastos Suntuarios
 
-(Derogada)
+> Se prorroga su vigencia hasta 31 de diciembre de 1991 por la disposición transitoria 3 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
 
 > Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
