@@ -1,0 +1,7 @@
+## Disposición transitoria cuarta.
+
+1. En las cooperativas de crédito que, a la fecha de entrada en vigor del presente Reglamento, dispongan de recursos propios inferiores a la cifra de capital social mínimo que pudiera corresponderles con arreglo a lo establecido en el artículo 3, los recursos propios no podrán, hasta tanto no superen esa cifra, descender del mayor nivel que hayan alcanzado a partir de la fecha de entrada en vigor del presente Reglamento, quedando condicionado a tal requisito el reembolso de aportaciones a los socios.
+
+2. Las cooperativas de crédito a que se refiere el apartado anterior deberán alcanzar, antes del 30 de junio de 1994, unos recursos propios iguales o superiores al 50 por 100 de la cifra de capital social mínimo que pudiera corresponderles según los dispuesto en apartado 1 del artículo 3, siempre que, en todo caso, rebasen los 150 millones de pesetas. Para las cooperativas de crédito de ámbito local y domiciliadas en municipios con menos de 100.000 habitantes, aquel plazo concluirá dos años después.
+
+3. En el caso de que se produzca una fusión entre dos o más cooperativas de crédito cuyos recursos propios no alcancen las cifras de capitales sociales mínimos a que se refiere el artículo 3, los recursos propios de la entidad resultante no podrán, salvo si así lo aprueba expresamente la autoridad que autorice la fusión, descender por debajo de la suma de los recursos propios de las entidades fusionadas en la fecha en que hayan acordado la fusión las respectivas asambleas generales.

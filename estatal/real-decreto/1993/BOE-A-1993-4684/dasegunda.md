@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+Para aplicar cualquiera de las normas a que se refiere la disposición anterior será suficiente acuerdo del Consejo Rector que, debidamente certificado y elevado a público, se incorporará como anexo al Estatuto de la cooperativa, y del que se dará cuenta para su ratificación a la primera Asamblea General que se celebre. Sin perjuicio de todo ello, el Consejo Rector o la minoría de socios legitimada para instar la convocatoria de Asambleas extraordinarias podrán promover la correspondiente Asamblea cuyo objeto sea la modificación del Estatuto, para cuya aprobación habrá de obtener una mayoría no inferior a los dos tercios de los votos presentes y representados.
