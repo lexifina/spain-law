@@ -1,0 +1,3 @@
+## Disposición derogatoria única.
+
+El 1 de enero de 1999 quedarán derogados los Reales Decretos 897/1993, de 11 de junio, por el que se autoriza la inscripción en el Registro Especial de Buques y Empresas Navieras, de buques destinados al tráfico de cabotaje, y 392/1996, de 1 de marzo, por el que se autoriza la inscripción en el Registro Especial de Buques y Empresas Navieras, de empresas y buques destinados al tráfico de cabotaje de mercancías de interés estratégico. Asimismo, quedan derogadas, a partir de su entrada en vigor, cuantas otras disposiciones de igual o menor rango se opongan a lo dispuesto en este Real Decreto.
