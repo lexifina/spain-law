@@ -4,9 +4,11 @@
 
 1.1 A la recepción de la mercancía y de la documentación que ampare su circulación en los locales autorizados, el interesado deberá enviar el citado documento, mediante EDI, a la Aduana de control, dentro de un plazo que finalizará a más tardar el primer día hábil siguiente al de la recepción de la mercancía, sin perjuicio de que la descarga pueda realizarse de forma inmediata. Este aviso tendrá la consideración de la declaración sumaria prevista en el artículo 43 del Código Aduanero Comunitario.
 
-1.2 La declaración prevista en el apartado anterior (documento de tránsito u otro análogo) podrá presentarse con anterioridad a la llegada de la mercancía. En este caso deberá comunicarse la llegada efectiva de la mercancía, también vía EDI.
+Asimismo deberá comunicar a la Aduana de control, mediante EDI, el resultado de la descarga, si es conforme o disconforme, y en este último caso, indicar las diferencias advertidas, la alteración en los precintos u otras irregularidades, de acuerdo con lo previsto en el artículo 408 del Reglamento (CEE) n.o 2454/93, de la Comisión, de 2 de julio de 1993, que fija determinadas disposiciones para la aplicación del Código Aduanero Comunitario.
 
-1.3 En el supuesto de llegada directa de la mercancía por vía marítima, el aviso de llegada lo constituirá la declaración sumaria para el tránsito marítimo prevista en la Orden de 27 de julio de 1995 («Boletín Oficial del Estado» de 3 de agosto).
+1.2 El procedimiento previsto en el punto anterior podrá ser sustituido por la solicitud de cambio de ubicación cuando se den las condiciones previstas para su utilización en la norma que lo regula.
+
+1.3 En el supuesto de llegada directa de la mercancía por vía marítima, el aviso de llegada lo constituirá la declaración sumaria para el tráfico marítimo prevista en la Orden de 27 de julio de 1995 («Boletín Oficial del Estado» de 3 de agosto).
 
 1.4 La Aduana responderá, también vía EDI, con uno de los siguientes mensajes:
 
@@ -20,9 +22,7 @@ c) Aceptación de disponibilidad de la mercancía.
 
 1.6. Además del mensaje anterior, el interesado deberá:
 
-a) Comunicar de forma inmediata a la Aduana de control, mediante EDI, el resultado de la descarga, si es conforme o disconforme, y, en este último caso, indicar las diferencias advertidas, la alteración en los precintos u otras irregularidades, de acuerdo con lo previsto en el artículo 409 del Reglamento CEE 2454/93.
-
-b) Registrar la mercancía en su sistema informático, en un plazo máximo de veinticuatro horas desde la llegada del medio de transporte, indicando la situación aduanera en que queda la mercancía:
+Registrar la mercancía en su sistema informático, en un plazo máximo de veinticuatro horas desde la llegada del medio de transporte, indicando la situación aduanera en que queda la mercancía:
 
 en depósito temporal, si no desea darle destino aduanero de forma inmediata;
 
@@ -78,6 +78,8 @@ Error en la transmisión, por lo que deberá ser corregido y nuevamente enviado.
 
 Aceptación del mensaje. En caso de discrepancia con la liquidación propuesta por el interesado, el mensaje de aceptación incluirá la liquidación de derechos practicada por la Aduana.
 
+4 bis. En los supuestos de vinculación de la mercancía a depósito aduanero, deberá comunicarse a la Aduana de control, mediante los mensajes EDI previstos para ello, la mercancía, detallada por número de declaración sumaria y partida, que ha recibido ese destino.
+
 5. Liquidación de derechos e ingreso de la deuda tributaria:
 
 5.1 La Aduana, de forma automática, efectuará la liquidación de los derechos.
@@ -85,3 +87,5 @@ Aceptación del mensaje. En caso de discrepancia con la liquidación propuesta p
 5.2 El mensaje de respuesta de la Aduana de aceptación de la declaración complementaria tendrá la consideración de notificación de la liquidación de derechos calculada por ésta, tanto si existen como si no discrepancias con la propuesta por el interesado.
 
 5.3 Los plazos para el ingreso de la deuda serán los previstos en el punto 3, apartado b), del artículo 227 del Reglamento CEE 2913/92.
+
+> Se modifica el apartado 1 y se añade el apartado 4bis por el apartado 4 de la Orden EHA/2376/2004, de 8 de julio. Ref. BOE-A-2004-13371.

@@ -2,7 +2,7 @@
 
 A) Para acogerse al procedimiento simplificado de domiciliación será necesario cumplir los siguientes requisitos:
 
-a) Haber realizado, durante el año inmediato anterior, operaciones de comercio exterior con terceros países por importe mínimo global de 500.000.000 de pesetas.
+a) Haber realizado, durante el año inmediato anterior, operaciones de comercio exterior con terceros países por importe mínimo global de tres millones de euros.
 
 b) Realizar las operaciones para las que se solicita la domiciliación con carácter habitual y sin que éstas se refieran a mercancías sometidas a restricciones a la importación o exportación [mercancías incluidas en la Convención de Washington de 3 de marzo de 1973 (CITES), sustancias estupefacientes o productos sicotrópicos, material de defensa o doble uso, bienes culturales, residuos peligrosos, entre otros].
 
@@ -25,3 +25,5 @@ b) Las instalaciones habilitadas para la realización de las operaciones de come
 c) La gestión funcional, operativa, documental y de tratamiento informático sea única.
 
 d) El volumen de comercio exterior del grupo sea superior al fijado en la letra a) del apartado A) de esta disposición.
+
+> Se modifica el apartado A.a) por el apartado 1 de la Orden EHA/2376/2004, de 8 de julio. Ref. BOE-A-2004-13371.

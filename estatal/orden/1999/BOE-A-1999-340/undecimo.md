@@ -1,6 +1,6 @@
 ## Undécimo. Procedimiento a la salida de la mercancía de las instalaciones.
 
-1. Exportación de mercancía comunitaria no acogida a restitución:
+1. Exportación de mercancía comunitaria o reexportación de mercancía vinculada al régimen de depósito aduanero que no circule amparada en documento de tránsito:
 
 1.1 Se presentará mediante EDI la declaración de exportación en la Aduana de control. La Aduana contestará con uno de los mensajes siguientes:
 
@@ -16,9 +16,9 @@ b) Admisión de la declaración y
 
 1.3 Autorizado el levante, bien mediante EDI o bien directamente del interventor, consignarán esta situación en el sistema informático, así como la fecha real de salida de la mercancía de sus almacenes.
 
-1.4 El ejemplar 3 del DUA deberá ser sellado por la persona con el sello especial de este procedimiento. Dicho ejemplar deberá ser presentado en la Aduana de salida.
+1.4 El ejemplar 3 del DUA, que deberá ser presentado junto con la mercancía en la Aduana de salida, será firmado y sellado por el Interventor cuando éste haya procedido al reconocimiento físico de la mercancía, o bien incluirá el número de autentificación/autorización de levante, cuando haya obtenido el levante automático.
 
-2. Exportación de mercancía comunitaria acogida a restitución o cualquier otra exportación/expedición que vaya amparada en régimen de tránsito (Canarias, tránsito común, productos compensadores y otros):
+2. Exportación/expedición de mercancía que circule amparada en documento de tránsito (Canarias, tránsito común, productos compensadores y otros):
 
 2.1 La persona deberá estar autorizado como expedidor a efectos de tránsitos.
 
@@ -38,11 +38,11 @@ b) Admisión de la declaración y
 
 2.5 En el supuesto de mercancía sujeta a gravámenes a la exportación, la Aduana de control practicará la correspondiente liquidación y contracción de derechos que notificará al interesado. A petición del interesado, la Aduana podrá realizar esta contracción con carácter mensual.
 
-2.6 Los ejemplares 1, 4, 5 y 7 del DUA deberán ser sellados por el interesado con el sello especial de expedidor autorizado de tránsitos. Los ejemplares 4, 5 y 7 ampararán la circulación de la mercancía hasta la Aduana de salida de la Comunidad, o bien, hasta el país de destino cuando éste sea miembro del Convenio de Tránsito Común. El ejemplar número 1 será remitido a la Aduana de control.
+2.6 Autorizada la salida del tránsito, el interesado imprimirá el documento de acompañamiento que amparará la circulación de la mercancía hasta la aduana de destino del tránsito.
 
 2.7 En el supuesto de que la mercancía deba ir acompañada de un documento de control T-5, éste debidamente cumplimentado por la persona será sellado con el sello especial de expedidor autorizado.
 
-2.8 Devuelto el ejemplar número 5 del tránsito, una vez diligenciado por la aduana de destino, la Aduana de control comunicará al expedidor autorizado dicha circunstancia, así como las posibles irregularidades e infracciones que se hubieren derivado de dicha operación.
+2.8 La Aduana de control comunicará al expedidor autorizado, en su caso, las irregularidades e infracciones que se hubieran derivado de la operación de acuerdo con las comunicaciones de la Aduana de destino.
 
 3. Inclusión en régimen de tránsito comunitario externo de la mercancía que se encuentre en almacén de depósito temporal o vinculada a régimen de depósito aduanero no incluida en el apartado anterior:
 
@@ -56,8 +56,10 @@ b) Aceptación del mensaje y aviso de que se va a proceder al reconocimiento de 
 
 c) Aceptación del mensaje y autorización de salida.
 
-3.3 El interesado sellará y procederá con los ejemplares como se indica en el punto 2.5 del apartado anterior.
+3.3 El interesado procederá como se indica en el punto 2.6 del apartado anterior.
 
-3.4 Devuelto el ejemplar 5 del tránsito, la Aduana de Control actuará como se reseña en el punto 2.7 del apartado anterior.
+3.4 La Aduana de control actuará como se reseña en el punto 2.8 del apartado anterior.
 
 Cualquier error detectado por la persona en la documentación expedida (tránsitos, T-5 o certificados de origen) deberá ser inmediatamente comunicada al Interventor para que tome las medidas oportunas.
+
+> Se modifica por el apartado 5 de la Orden EHA/2376/2004, de 8 de julio. Ref. BOE-A-2004-13371.

@@ -14,14 +14,14 @@ a) Documento justificativo de la constitución de una garantía global suficient
 
 b) Documento justificativo de la constitución de una garantía global a efectos de tránsito comunitario/común, en el supuesto de que la modalidad de procedimiento solicitada contemple la figura de expedidor autorizado de este régimen.
 
-c) Certificación del Departamento de Informática Tributaria de la AEAT validando el proyecto informático de transmisión EDI.
+c) Relación del personas con poderes otorgados por el interesado para representarle ante la administración aduanera, adjuntando dichos poderes.
 
-d) Relación del personas con poderes otorgados por el interesado para representarle ante la administración aduanera, adjuntando dichos poderes.
+d) Compromiso del interesado de cumplir todas las obligaciones exigidas por la normativa aduanera y fiscal y mantener a disposición de la administración aduanera toda la documentación y registros informáticos con relevancia tributaria durante el tiempo mínimo exigido.
 
-e) Compromiso del interesado de cumplir todas las obligaciones exigidas por la normativa aduanera y fiscal y mantener a disposición de la administración aduanera toda la documentación y registros informáticos con relevancia tributaria durante el tiempo mínimo exigido.
+e) Compromiso del interesado de permitir a los Servicios de Aduanas e Impuestos Especiales el acceso a las instalaciones autorizadas y facilitar los controles que éstos realicen de almacenes, inventarios, documentación y sistemas informáticos, en cualquier momento en que sea solicitado.
 
-f) Compromiso del interesado de permitir a los Servicios de Aduanas e Impuestos Especiales el acceso a las instalaciones autorizadas y facilitar los controles que éstos realicen de almacenes, inventarios, documentación y sistemas informáticos, en cualquier momento en que sea solicitado.
-
-g) Solicitud del sello previsto en el anexo 62 del Reglamento (CEE) número 2.454/93 de la Comisión y compromiso por escrito del interesado de que adoptará todas las medidas necesarias para asegurar la custodia de los mismos.
+f) Solicitud del sello previsto en el anexo 62 del Reglamento (CEE) número 2.454/93 de la Comisión y compromiso por escrito del interesado de que adoptará todas las medidas necesarias para asegurar la custodia de los mismos.
 
 C) En caso de que el interesado no cumpla los requisitos fijados, se le notificará la denegación de lo solicitado.
+
+> Se reordenan los apartados B.d) a g) como B.c) a f) por el apartado 3 de la Orden EHA/2376/2004, de 8 de julio. Ref. BOE-A-2004-13371.
