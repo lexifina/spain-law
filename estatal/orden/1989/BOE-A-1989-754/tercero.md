@@ -1,7 +1,5 @@
 ## Tercero.
 
-Las cuantías de los conceptos a que se refiere el artículo 4.º del Real Decreto 278/1984, de 8 de febrero, por el que se regula el subsidio de defunción a cargo de MUFACE, quedan establecidas en los siguientes importes:
+(Derogado)
 
-— Módulo multiplicador: 25.000 pesetas.
-
-— Mínimo por fallecimiento: 200.000 pesetas.
+> Se deroga por el art. 5 de la Orden de 28 de diciembre de 1999. Ref. BOE-A-2000-127.
