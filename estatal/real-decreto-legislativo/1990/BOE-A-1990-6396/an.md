@@ -16,13 +16,13 @@ Son también peatones quienes empujan o arrastran un coche de niño o de impedid
 
 6. Bicicleta: Ciclo de dos ruedas.
 
-7. Ciclomotor: Tienen la consideración de ciclomotores los vehículos que se definen a continuación:
+7. Ciclomotor: tienen la condición de ciclomotores los vehículos que se definen a continuación:
 
-Ciclomotor de dos ruedas: Vehículo de dos ruedas, provisto de un motor de cilindrada no superior a 50 cm3, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h.
+a) Vehículo de dos ruedas, provistos de un motor de cilindrada no superior a 50 cm3, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h.
 
-Ciclomotor de tres ruedas: Vehículo de tres ruedas, provisto de un motor de cilindrada no superior a 50 cm3, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h.
+b) Vehículo de tres ruedas, provisto de un motor de cilindrada no superior a 50 cm3, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h.
 
-Cuatriciclos ligeros: Vehículos de cuatro ruedas cuya masa en vacío sea inferior a 350 kg, no incluida la masa de las baterías en el caso de los vehículos eléctricos, cuya velocidad máxima por construcción no sea superior a 45 km/h, y con un motor de cilindrada inferior o igual a 50 cm3 para los motores de explosión, o cuya potencia máxima neta sea inferior o igual a 4 kw, para los demás tipos de motores.
+c) Vehículos de cuatro ruedas cuya masa en vacío sea inferior a 350 kg, excluida la masa de las baterías en el caso de vehículos eléctricos, cuya velocidad máxima por construcción no sea superior a 45 km/h y con un motor de cilindrada igual o inferior a 50 cm3 para los motores de explosión, o cuya potencia máxima neta sea igual o inferior a 4 kW, para los demás tipos de motores.
 
 8. Tranvía: Vehículo que marcha por raíles instalados en la vía.
 
@@ -183,6 +183,8 @@ c) Constar de distintas calzadas para cada sentido de circulación, separadas en
 68. Parada: Inmovilización de un vehículo durante un tiempo inferior a dos minutos, para tomar o dejar personas o cargar o descargar cosas.
 
 69. Estacionamiento: Inmovilización de un vehículo que no se encuentra en situación de detención o de parada.
+
+> Se modifica el apartado 7 por el art. 7 de la Ley 43/1999, de 25 de noviembre. Ref. BOE-A-1999-22671
 
 > Se modifican los conceptos básicos contenidos en los puntos 4 a 51, que deben ser consultados en los anexos II, IX y X del Real Decreto 2822/1998, de 23 de diciembre, según establece su disposición final 4. Ref. BOE-A-1999-1826
 
