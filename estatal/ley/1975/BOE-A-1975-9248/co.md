@@ -1,0 +1,1 @@
+Las referencias realizadas al Registro de la Propiedad Industrial deben entenderse hechas a la Oficina Española de Patentes y Marcas, según establece la disposición adicional 1.1 de la Ley 21/1992, de 16 de julio. Ref. BOE-A-1992-17363#daprimera.

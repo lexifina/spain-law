@@ -1,0 +1,3 @@
+## Disposición adicional tercera.
+
+En materia de seguridad y calidad de las redes y servicios de telecomunicaciones, se establecerán reglamentariamente los instrumentos adecuados para la coordinación de las competencias del Ministerio de Industria, Comercio y Turismo con las atribuidas al Ministerio de Obras Públicas y Transportes en la Ley 31/1987, de 18 de diciembre, de Ordenación de las Telecomunicaciones. Asimismo, se establecerán los instrumentos de coordinación de las actuaciones de ambos Departamentos en las actividades relacionadas con la seguridad y calidad en la construcción de buques.
