@@ -50,6 +50,8 @@ b) En los buques de propulsión mecánica de eslora igual o superior a 20 metros
 
 c) Cuando las luces prescritas en la Regla 27 b) i) o en la Regla 28 estén colocadas verticalmente entre la luz o las luces de tope de proa y la luz o las luces de tope de popa, esas luces todo horizonte se colocarán a una distancia horizontal no inferior a dos metros del eje longitudinal del buque en la dirección de babor a estribor.
 
+d) Cuando sólo se prescriba una luz de tope para un buque de propulsión mecánica, esta luz se exhibirá a proa del centro del buque, salvo que un buque de eslora inferior a 20 metros no necesita exhibir esta luz a proa del centro del buque, debiéndola exhibir lo más a proa que sea factible.
+
 ## 4. Detalles sobre emplazamiento de las luces indicadoras de dirección en buques dedicados a operaciones de pesca, dragado o submarinas.
 
 a) La luz indicadora de la dirección del aparejo largado desde un buque dedicado a operaciones de pesca, tal como prescribe la Regla 28, c), ii), estará situada a una distancia horizontal de dos metros como mínimo y seis metros como máximo de las dos luces roja y blanca todo horizonte. Dicha luz no estará colocada más alta que la luz blanca todo horizonte prescrita en la Regla 26, c), i), ni más baja que las luces del costado.
@@ -145,7 +147,9 @@ a) i) las luces de costado instaladas a bordo tendrán las intensidades mínimas
 
 ii) para las luces de alcance y las de tope, y a 22,5 grados a popa del través, en las luces de costado, se mantendrán las intensidades mínimas requeridas en un arco de horizonte de hasta cinco grados dentro de los límites de los sectores prescritos en la Regla 21. A partir de cinco, grados, dentro de los sectores prescritos, la intensidad podrá decrecer en un 50 por 100 hasta los límites señalados; a continuación deberá decrecer de forma continua hasta quedar prácticamente anulada a no más de cinco grados por fuera de los sectores prescritos.
 
-b) Las luces todo horizonte, excepto las luces de fondeo prescritas en la Regla 30, que no precisan ir colocadas a gran altura sobre cubierta, estarán situadas de manera que no queden obstruidas por palos, masteleros o estructuras en sectores angulares superiores a seis grados.
+b) i) Las luces todo horizonte, excepto las luces de fondeo prescritas en la Regla 30, que no precisan ir colocadas a gran altura sobre cubierta, estarán situadas de manera que no queden obstruidas por palos, masteleros o estructuras en sectores angulares superiores a seis grados.
+
+b) ii) Cuando no sea factible cumplir con lo dispuesto en el párrafo b) i) de la presente sección exhibiéndose solamente una luz todo horizonte, se utilizarán dos luces todo horizonte convenientemente situadas o apantalladas de forma que parezcan una luz, en tanto que sea posible, a una distancia de una milla.
 
 ## 10. Sectores verticales.
 
@@ -171,9 +175,15 @@ En lo posible, las luces no eléctricas deberán satisfacer las intensidades mí
 
 No obstante lo dispuesto en la sección 2 f) del presente anexo, la luz de maniobra descrita por la Regla 34 b) irá colocada en el mismo plano longitudinal que la luz o luces de tope y, siempre que sea posible, a una distancia vertical mínima de dos metros por encima de la luz de tope de proa, a condición de que vaya a una altura de no menos de dos metros por encima o por debajo de la luz de tope de popa. En los buques que sólo lleven una luz de tope, la luz de maniobra, si existe, irá colocada en el sitio más visible, separada no menos de dos metros en sentido vertical de la luz de tope.
 
-## 13. Aprobación.
+## 13 Naves de gran velocidad:
+
+La luz de tope de las naves de gran velocidad que tengan una relación eslora/manga inferior a 3,0 se podrá colocar, en relación con la manga de la nave, a una altura inferior a la prescrita en el párrafo 2 a) i) del presente anexo, siempre que el ángulo que forma el triángulo isósceles constituido por las luces de los costados y la luz de tope, visto desde un costado, no sea inferior a 27º.
+
+## 14. Aprobación.
 
 La construcción de luces y marcas, así como la instalación de luces a bordo del buque, se ajustarán a criterios que la autoridad competente del Estado cuyo pabellón tenga derecho a enarbolar el buque juzgue satisfactorios.
+
+> Se modifican los apartados 3.d), 9.b.ii) y se añade un nuevo apartado 13 pasando el anterior 13 a ser apartado 14 por los apartados 4 a 6 de la Resolución A. 736 (18), de 4 de noviembre de 1993. Ref. BOE-A-1994-22801.
 
 > Se modifican los apartados 2 y 10 por los apartados 6 y 7 de la Resolución A. 626 (15), de 19 de noviembre de 1987. Ref. BOE-A-1989-14439.
 

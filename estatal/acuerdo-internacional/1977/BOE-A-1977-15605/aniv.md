@@ -32,7 +32,7 @@ m) La señal de alarma radiotelefónica.
 
 n) Señales transmitidas por radiobalizas indicadoras de la posición en caso de emergencia.
 
-o) Señales aprobadas transmitidas mediante sistemas de radiocomunicaciones.
+o) Señales aprobadas transmitidas mediante los sistemas de radiocomunicaciones, incluidos los respondedores de radar de las embarcaciones de supervivencia.
 
 2. Está prohibido utilizar o exhibir cualesquiera de las señales anteriores, salvo para indicar peligro y necesidad de ayuda, y utilizar cualquier señal que pueda confundirse con las anteriores.
 
@@ -41,6 +41,8 @@ o) Señales aprobadas transmitidas mediante sistemas de radiocomunicaciones.
 a) Un trozo de lona de color naranja con un cuadrado negro y un circulo, u otro símbolo pertinente (para identificación desde el aire).
 
 b) Una marca colorante del agua.
+
+> Se modifica el apartado 1.o) por el apartado 8 de la Resolución A. 736 (18), de 4 de noviembre de 1993. Ref. BOE-A-1994-22801.
 
 > Se añade el apartado 1.o) por el apartado 9 de la Resolución A. 626 (15), de 19 de noviembre de 1987. Ref. BOE-A-1989-14439.
 
