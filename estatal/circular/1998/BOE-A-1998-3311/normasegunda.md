@@ -10,4 +10,6 @@ b) En el plazo de un mes comunicarán la extinción de los Convenios de colabora
 
 2. Información estadística (a enviar a la Oficina de Documentación y Central de Riesgos).
 
-Dentro de los dos primeros meses del año, remitirán información sobre las tasaciones realizadas durante el ejercicio anterior, y sobre otros datos de su actividad, de acuerdo con los modelos de los estados III a VIII del anexo. Además, remitirán la información incluida en el estado III del anexo referida al primer semestre del año antes del 15 de septiembre del mismo ejercicio.
+Con antelación al día 15 del tercer mes posterior al cierre de cada trimestre natural se remitirán al Banco de España los estados III y XI y, de cada semestre natural, los estados IV a VIII y X. La información se presentará con datos acumulados al cierre del periodo, salvo los estados III, X y XI, que incluirán información sobre las tasaciones realizadas en el correspondiente periodo.
+
+> Se modifica el apartado 2, párrafo segundo por la norma 1.2 de la Circular 5/2003, de 19 de diciembre. Ref. BOE-A-2004-319.

@@ -30,7 +30,7 @@ Remitirán asimismo las cuentas anuales del ejercicio anterior, acompañadas del
 
 Caso de que los datos contenidos en los estados I y II sean modificados en las cuentas anuales aprobadas por la Junta General, los estados rectificados se remitirán al mismo tiempo que dichas cuentas.
 
-b) Dentro de los dos primeros meses del año remitirán información sobre las tasaciones realizadas durante el ejercicio anterior y sobre otros datos de su actividad, de acuerdo con los modelos de los estados III a VIII del anexo. Además, remitirán la información incluida en el estado III del anexo referida al primer semestre del año antes del 15 de septiembre del mismo ejercicio.
+b) Con antelación al día 15 del tercer mes posterior al cierre de cada trimestre natural se remitirán al Banco de España los estados III y XI, y de cada semestre natural los estados IV a VIII y X. La información se presentará con datos acumulados al cierre del periodo, salvo los estados III, X y XI, que incluirán información sobre las tasaciones realizadas en el correspondiente periodo.
 
 3. Información sobre accionistas (a enviar a la Oficina de Documentación y Central de Riesgos):
 
@@ -41,5 +41,7 @@ b) Dentro del primer trimestre del año, remitirán una relación de los accioni
 4. Información sobre póliza de seguro de responsabilidad civil (a enviar a la Oficina de Inspección de Entidades Financieras):
 
 Copia completa de cualquier modificación en el contenido de la póliza de responsabilidad civil de la sociedad o, en caso de sustitución de la misma, copia completa de la nueva póliza, incluyendo tanto las condiciones generales como las particulares y especiales, todo ello en el plazo de un mes contado a partir de su firma. Con independencia de ello se justificará periódicamente el pago de la prima dentro del mes natural siguiente a su fecha de vencimiento.
+
+> Se modifica el apartado 2.b) por la norma 1.1 de la Circular 5/2003, de 19 de diciembre. Ref. BOE-A-2004-319.
 
 > Se modifica el apartado 1 y se añade el apartado 4 por la norma única de la Circular 4/1999, de 24 de marzo. Ref. BOE-A-1999-7736.
