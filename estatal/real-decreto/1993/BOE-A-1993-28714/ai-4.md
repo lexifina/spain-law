@@ -2,8 +2,8 @@
 
 ## Laboratorio nacional de referencia para la enfermedad de Newcastle
 
-Laboratorio Nacional de Sanidad y Producción Animal de Barcelona.
+Laboratorio de Sanidad y Producción Animal de Algete.
 
-Zona Franca Circunvalación - Tramo 6, esquina calle 3.
+Carretera de Algete, kilómetro 5,400. 28110 Algete (Madrid)
 
-Barcelona.
+> Se modifica por el art. único.1.b) del Real Decreto 698/1995, de 28 de abril. Ref. BOE-A-1995-12247
