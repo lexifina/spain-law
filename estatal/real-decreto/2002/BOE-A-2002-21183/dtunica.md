@@ -1,0 +1,5 @@
+## Disposición transitoria única. Personal adscrito por concurso conforme a la normativa anterior.
+
+1. Los funcionarios docentes y asesores técnicos adscritos a puestos en el exterior mediante concurso público de méritos convocado de acuerdo con la normativa anterior serán objeto de la evaluación ordinaria a que se refieren los artículos 10 y 14, de acuerdo con la regulación que sobre la misma se establezca por el Ministerio de Educación, Cultura y Deporte, el curso escolar en el que deba producirse alguna de las prórrogas previstas en la convocatoria por la que se rigió su selección, todo ello sin perjuicio de la posibilidad de efectuar las evaluaciones extraordinarias que resulten procedentes.
+
+2. El periodo máximo de permanencia en el exterior de los asesores técnicos seleccionados con arreglo a concursos públicos de méritos regidos por la normativa anterior, será el que establecieran las respectivas convocatorias, a reserva de los resultados de las evaluaciones ordinarias o extraordinarias previstas en el presente Real Decreto.
