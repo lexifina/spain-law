@@ -1,0 +1,3 @@
+## Segundo.
+
+La expedición del nuevo título se instrumentaliza a los efectos exclusivos de implantación del Registro de Personal de la Dirección General de la Policía y tenencia actualizada de dicho título por los funcionarios del Cuerpo Nacional de Policía; por lo que, la fecha de expedición del título no afecta a la antigüedad en la categoría, salvo los ascendidos con posterioridad a la entrada en vigor de la Ley Orgánica 2/1986, de 13 de marzo, ni a otros derechos recogidos en la normativa vigente, adquiridos en los extinguidos Cuerpos de procedencia o a su integración en el Cuerpo Nacional de Policía.

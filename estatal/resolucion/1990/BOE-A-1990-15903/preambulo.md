@@ -1,0 +1,7 @@
+La Ley Orgánica 2/1986, de 13 de mano, integró los Cuerpos, Superior de Policía y de Policía Nacional, en el nuevo Cuerpo Nacional de Policía, cuyos miembros, precisan ser dotados de un título administrativo que acredite la pertenencia al mismo.
+
+La Orden de 10 de marzo de 1990, regula los títulos administrativos y el número de Registro Personal de los funcionarios del Cuerpo Nacional de Policía, así como el Registro de Personal de la Dirección General de la Policía.
+
+El punto primero de la precitada Orden establece que el referido Registro de Personal confeccionará los correspondientes títulos administrativos de los funcionarios policiales, conservando una copia de los mismos a los que deberá incorporar, mediante las diligencias oportunas, todos los actos que afecten a la vida administrativa de los titulares y que constituirán su expediente personal. Asimismo, el punto octavo regula la estructura del nuevo número de Registro Personal.
+
+Con objeto de llevar a cabo la implantación del mencionado Registro de Personal en el Cuerpo Nacional de Policía y dotar a los funcionarios del nuevo titulo administrativo y número de Registro Personal, de conformidad con lo regulado en la Disposición Final Primera de dicha Orden, a propuesta de la Dirección General de la Policía, esta Secretaría de Estado para la Seguridad-Dirección de la Seguridad del Estado, en virtud de las competencias que le atribuyen la normativa vigente, ha resuelto:
