@@ -1,3 +1,5 @@
 ## Artículo séptimo.
 
-El tipo impositivo de la participación del Estado en la publicidad radiada, que figura en el concepto dos mil trescientos treinta y uno del estado letra B de los Presupuestos Generales del Estado, será el cinco por ciento, cualquiera que fuese la naturaleza pública o privada de las estaciones de radiodifusión.
+(Derogado)
+
+> Se deroga por la disposición final 2.q) de la Ley 30/1985, de 2 de agosto. Ref. BOE-A-1985-16765.
