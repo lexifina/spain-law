@@ -1,0 +1,5 @@
+## Art. 7.
+
+Los Directores Generales de quienes dependan las habilitaciones de personal que satisfagan cualquier tipo de retribuciones periódicas con cargo a los presupuestos de la Administración del Estado y de la Seguridad Social, Organismos autónomos y Entes o Empresas dependientes vendrán obligados a remitir anualmente a la Inspección General de Servicios de la Administración Pública el soporte magnético o la copia de la nómina de las retribuciones correspondientes al mes que se determine por la Secretaría de Estado para la Administración Pública conforme a las instrucciones que dicte al efecto.
+
+Los Interventores delegados del Interventor general de la Administración del Estado comprobarán al fiscalizar las nóminas del tercer mes siguiente al que se señale en las referidas instrucciones que, entre los documentos que las acompañan, figura justificante de haber remitido o presentado las citadas nóminas a la Inspección General de Servicios de la Administración Pública, o escrito de dicho Centro en el que se admita la demora en la presentación.
