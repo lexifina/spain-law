@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Real Decreto 2402/1977, de 17 de junio, sobre organización, funciones y dotación del Instituto Geológico y Minero de España; el Real Decreto 450/1979, de 20 de febrero, por el que se aprueba el Reglamento Orgánico del Instituto Geológico y Minero de España, y el Real Decreto 3389/1983, de 30 de noviembre, por el que se modifica el artículo 5 del Real Decreto 2402/1977, de 17 de junio, sobre organización, funciones y dotación del Instituto Geológico y Minero de España, y cuantas disposiciones de igual o inferior rango en lo que se opongan a lo establecido en el presente Real Decreto.
