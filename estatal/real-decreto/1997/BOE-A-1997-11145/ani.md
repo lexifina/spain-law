@@ -1,0 +1,13 @@
+## ANEXO I
+
+## Lista de sustancias, preparados y procedimientos
+
+[Párrafo b) del artículo 2]
+
+1. Fabricación de auramina.
+
+2. Trabajos que supongan exposición a los hidrocarburos aromáticos policíclicos presentes en el hollín, el alquitrán o la brea de hulla.
+
+3. Trabajos que supongan exposición al polvo, al humo o a las nieblas producidas durante la calcinación y el afinado eléctrico de las matas de níquel.
+
+4. Procedimiento con ácido fuerte en la fabricación de alcohol isopropílico.
