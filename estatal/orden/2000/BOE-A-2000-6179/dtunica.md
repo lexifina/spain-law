@@ -1,0 +1,5 @@
+## Disposición transitoria única. Mantenimiento de funciones y validez de actuaciones hasta la implantación de las nuevas Unidades de Recaudación Ejecutiva.
+
+1. Las Unidades de Recaudación Ejecutiva de la Seguridad Social existentes a la fecha de entrada en vigor de esta Orden, que vengan desarrollando las funciones que en ella se atribuyen a las Unidades de Recaudación Ejecutiva que por la misma se crean, continuarán desarrollando tales funciones hasta la implantación de las nuevas Unidades de Recaudación Ejecutiva.
+
+2. Los actos y trámites realizados por las actuales Unidades de Recaudación Ejecutiva de la Seguridad Social en los procedimientos administrativos de apremio serán válidos y surtirán plenos efectos en los nuevos procedimientos administrativos de apremio que se inicien o continúen por cualquiera de las Unidades de Recaudación Ejecutiva que se crean o reorganizan por la presente Orden y a las que corresponda su tramitación, con independencia de que el sujeto responsable del pago tenga o no su domicilio en la demarcación territorial de la Unidad que vaya a seguir el procedimiento.
