@@ -16,4 +16,10 @@ Categoría «Subvencionadas».–Integrada por aquellas cuya superficie construi
 
 A las viviendas que se califiquen como del segundo grupo se les podrá otorgar, desacuerdo con las normas contenidas en este Reglamento, los beneficios de prima, anticipo y préstamo con interés. La subvención únicamente se otorgará a las calificadas en la categoría de subvencionadas.
 
-La superficie construida de las viviendas de cualquiera de los grupos y categorías mencionados, promovidas por titulares de familia numerosa podrá incrementarse sobre los máximos autorizados a razón de 12 metros cuadrados por cada dos famillares que excedan de cinco, siempre que convivan con el cabeza de familia.
+La superficie construida de las viviendas de cualquiera de los grupos y categorías mencionados, promovidos por titulares de familia numerosa y destinadas a su uso, podrá incrementarse sobre las máximos autorizados, teniendo en cuenta la composición familiar en el momento de aprobar la solicitud inicial a razón del diez por ciento de dichos máximos por cada familiar que exceda de seis.
+
+Se consideran como familiares, a efectos del cómputo de superficie, no sólo el matrimonio y los hijos de la familia numerosa, sino también los ascendientes en cualquier grado de la linea recta de ambos cónyuges que convivan habitualmente en el domicilio familiar.
+
+Los titulares de familia numerosa podrán utilizar el derecho que les concede el artículo ciento seis del Reglamento para agrupar dos o tres viviendas, que constituyan unidad horizontal o vertical, durante el período de construcción, cualquiera que sea el promotor de las mismas. A estos efectos, éste habrá de solicitar del Instituto Nacional de la Vivienda autorización para modificar el proyecto aprobado por la calificación provisional e indicando nominalmente el titular de familia numerosa que haya de ocupar la vivienda, bien sea mediante contrato de compraventa, arrendamiento o cesión en régimen de acceso diferido a la propiedad. La autorización de la modificación no implicará alteración de los beneficios económicas concedidos para la construcción, bien consistan en préstamos, anticipos, subvenciones o primas.
+
+> Se añade el párrafo último y se modifican los párrafos noveno y décimo por el art. 1 y 2 del Decreto 148/1971, de 28 de enero. Ref. BOE-A-1971-170.

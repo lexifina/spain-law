@@ -12,6 +12,8 @@ Primero.–Para la construcción de «Viviendas de Protección Oficial».
 
 4. A las Cooperativas de Viviendas a que se refiere el apartado k) del artículo 23 de este Reglamento, que las construyan exclusivamente para sus asociados, de conformidad con lo dispuesto en el artículo 41 de la Ley de 2 de enero de 1942.
 
+Las Cooperativas que, por precepto de sus Estatutos, hayan de estar constituidas por socios, que, al menos en una tercera parte de su totalidad, sean titulares de familia numerosa, tendrán preferencia en la adjudicación de parcelas sobre las demás Cooperativas, siempre que se comprometan a destinar, al menos, un tercio de las viviendas del edificio a los socios titulares de tales familias, adecuadas a las mismas en sus características y condiciones.
+
 5. A las Entidades benéficas de construcción legalmente reconocidas.
 
 6. A las Empresas que construyan viviendas con destino a su personal.
@@ -20,4 +22,8 @@ Primero.–Para la construcción de «Viviendas de Protección Oficial».
 
 8. Al Instituto Social de la Marina, para las que construya destinadas a pescadores y demás personas a las que extienda su acción protectora.
 
+9. A los titulares de familias numerosas que individualmente o agrupados pretendan promover la construcción de viviendas para uso propio.
+
 Segundo.–Para llevar a cabo la construcción de viviendas destinadas a maestros y sacerdotes, o la de servicios, instalaciones y edificios complementarlos comprendidos en Planes Nacionales de la Vivienda, siempre que sean objeto de utilización de ánimo de lucro, a cualquiera de los promotores relacionados en el artículo 22 de este Reglamento.
+
+> Se añaden el apartado 1.9 y el párrafo último del apartado 1.4 por los art. 3 y 4 del Decreto 148/1971, de 28 de enero. Ref. BOE-A-1971-170.
