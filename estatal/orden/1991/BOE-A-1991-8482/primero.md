@@ -14,4 +14,6 @@ Los acreditados designarán en cada caso, la Entidad miembro de la correspondien
 
 5. El acuerdo de aplicación a un valor del sistema de crédito será comunicado a todas las Sociedades Rectoras de las Bolsas de Valores, al Servicio de Compensación y Liquidación y a la Sociedad de Bolsas y será publicado en los Boletines de Cotización.
 
-6. Las órdenes de compra o venta de valores que deriven de la previa concesión de un crédito deberán ascender, como mínimo, un número de valores igual a quinientos. En ningún caso podrán referirse a operaciones que sean calificadas como excepcionales por razón de su cuantía o finalidad, de acuerdo con las disposiciones aplicables.
+6. Las órdenes de compra o venta de valores que deriven de la previa concesión de un crédito deberán ascender, como mínimo, a un importe efectivo de 200.000 pesetas. En ningún caso podrán referirse a operaciones que sean calificadas como excepcionales por razón de su cuantía o finalidad, de acuerdo con las disposiciones aplicables.
+
+> Se modifica el apartado 6 por el apartado 1 de la Orden de 23 de septiembre de 1998. Ref. BOE-A-1998-23077.
