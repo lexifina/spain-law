@@ -1,0 +1,5 @@
+## Artículo doce. Indemnización especial a tanto alzado por muerte.
+
+Uno. En caso de muerte por accidente de trabajo o enfermedad profesional, cuando no existieran otros familiares del causante con derecho a pensión por muerte o supervivencia, el padre o madre que viviera a expensas del trabajador fallecido siempre que no tenga con motivo de la muerte de éste, derecho a pensión, percibirán una indemnización especial a tanto alzado equivalente a nueve mensualidades de la base reguladora calculada de conformidad con las normas aplicables para determinar la pensión de viudedad; dichas mensualidades se elevarán a doce si existieran los dos ascendientes.
+
+Dos. El importe de la indemnización a que se refiere el número anterior se reconocerá por la Mutualidad Laboral o Mutua Patronal correspondiente y se deducirá del capital a ingresar en el Fondo de Garantía de Accidentes de Trabajo a que se refiere el apartado d) del artículo doscientos catorce de la Ley de veintiuno de abril de mil novecientos sesenta y seis.
