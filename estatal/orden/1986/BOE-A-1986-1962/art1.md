@@ -1,0 +1,7 @@
+## Art. 1. Competencia del Ministerio de Transportes, Turismo y Comunicaciones.
+
+1. Competen al Ministerio de Transportes, Turismo y Comunicaciones, a través de la Dirección General de Aviación Ovil, regular, dirigir e inspeccionar la práctica y enseñanza del Vuelo a Vela que se realicen en territorio nacional, coordinando las iniciativas que en cuanto a promoción y fomento de esta modalidad de vuelo puedan desarrollar otros Organismos.
+
+2. Igualmente competen a este Departamento la concesión y expedición de títulos, licencias y calificaciones, determinando los requisitos y trámites necesarios.
+
+3. La Subdirección General de Explotación del Transporte Aéreo, a través de la Sección de Aviación General y Deportiva, proveerá el desempeño de las funciones enunciadas y demás preceptos de esta disposición.
