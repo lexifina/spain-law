@@ -41,6 +41,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Presa Canario](presacanario.md)
 - [Perro Majorero](perromajorero.md)
 - [Euskal Artzain Txakurra Gorbeiakoa](euskalartzaintxakurragorbeiakoa.md)
+- [Euskal Artzain Txakurra Iletsua](euskalartzaintxakurrailetsua.md)
 - [Podenco Andaluz](podencoandaluz.md)
 - [Ratonero-Bodeguero Andaluz](ratonero-bodegueroandaluz.md)
 - [Perdiguero Galego](perdiguerogalego.md)
