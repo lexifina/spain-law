@@ -1,0 +1,5 @@
+## Disposición adicional vigésima
+
+No obstante lo dispuesto en el número 1 de la disposición adicional cuarta, y en función de las peculiaridades singulares del personal docente a que hace referencia el artículo 1.2 de la presente Ley, los contratos docentes universitarios de Profesores asociados, visitantes y de los ayudantes previstos en los artículos 33.3 y 34 de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria. así como los correspondientes a la figura del Profesor Emérito creada en la disposición adicional séptima de esta Ley, tendrán con carácter excepcional naturaleza administrativa y se regirán por lo dispuesto en la Ley Orgánica de Reforma Universitaria y sus disposiciones de desarrollo, por las normas de Derecho Administrativo que les sea de aplicación y por los Estatutos de su Universidad. Los contratos de Profesores asociados previstos en la disposición adicional octava de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, se someterán, a todos los efectos a la legislación laboral.
+
+> Se añade por el art. 2 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763

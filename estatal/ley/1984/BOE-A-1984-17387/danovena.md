@@ -8,7 +8,7 @@ Uno.–Se crean en la Administración del Estado los siguientes Cuerpos de funci
 
 3. Cuerpo Superior de Técnicos Comerciales y Economistas del Estado, en el que se integran los funcionarios pertenecientes a los Cuerpos Especial Facultativo de Técnicos Comerciales del Estado y de Economistas del Estado.
 
-4. Cuerpo Superior de Letrados del Estado, en el que se integran los funcionarios pertenecientes a los Cuerpos de Abogados del Estado, Técnico de Letrados del Ministerio de Justicia, Letrados de la Dirección General de Registros y Notariado y Letrados del Consejo de Estado.
+4. El Cuerpo Superior de Letrados del Estado pasa a denominarse Cuerpo de Abogados del Estado, manteniéndose en él la integración de los funcionarios pertenecientes a los extinguidos Cuerpos de Abogados del Estado, Técnico de Letrados del Ministerio de Justicia y Letrados de la Dirección General de los Registros y del Notariado.
 
 5. Cuerpo de Médicos de la Sanidad Nacional, en el que se integran los funcionarios pertenecientes a los Cuerpos de Médicos de la Sanidad Nacional y de Médicos de la Beneficencia General (Grupo de Médicos de Número).
 
@@ -1833,6 +1833,8 @@ Cuatro. Se declaran a extinguir los siguientes Cuerpos de funcionarios de la Adm
 4. Traductores del Gabinete de Prensa.
 
 5. Ayudantes de Cinematografía.
+
+> Se modifica el apartado 1.4 por el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
 
 > Se declara la inconstitucionalidad y nulidad del apartado 1.4 en lo que se refiere al Cuerpo de Letrados del Consejo de Estado. Ref. BOE-T-1987-14852
 

@@ -1,147 +1,61 @@
 ## Disposición adicional decimoquinta
 
-1. Los actuales Cuerpos y Escalas de funcionarios docentes dependientes del Ministerio de Educación y Ciencia se ordenarán en los siguientes Cuerpos y Escalas:
+1. No serán de aplicación a los funcionarios de los Cuerpos o Escalas en que se ordena la función pública docente el apartado 1, a) del artículo 20, en lo que se refiere a la exigencia del grado personal; el artículo 21 excepto el apartado 2, b); y el párrafo tercero del apartado 1 del artículo 22 de ésta Ley en lo que se refiere a la conservación del grado personal.
 
-a) Cuerpo de Profesores de Enseñanza Secundaria.
+2. El acceso a la función pública docente, excluido el personal regulado en la Ley de Reforma Universitaria y en la Ley de Fomento y Coordinación General de la Investigación Científica y Técnica, la promoción profesional, la promoción interna y la reordenación de sus Cuerpos y Escalas se regulará por disposicición con rango de Ley, acorde con la estructura y necesidades del sistema educativo. Hasta la entrada en vigor de la misma, cada uno de dichos Cuerpos y Escalas tendrá asignado un nivel de complemento de destino, y les serán de aplicación las normas contenidas en esta disposición adicional, las que se dicten en aplicación de lo dispuesto en el apartado 2 del artículo 1 de esta Ley, y demás disposiciones vigentes en las respectivas materias.
 
-En este Cuerpo se integrarán:
+Se integran:
 
-Los actuales Cuerpos y Escalas docentes de índice de proporcionalidad 10, grados 1 y 2, que a continuación se relacionan:
+– En el Cuerpo de Catedráticos de Bachillerato, los funcionarios de la Escala de Profesores Numerarios y Psicólogos de Enseñanzas Integradas que estén en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente, salvo lo dispuesto en el apartado 8 de esta disposición.
 
-– Catedráticos numerarios de Institutos de Bachillerato.
+– En el Cuerpo de Profesores Agregados de Bachillerato, los funcionarios de la Escala Técnico-Docente de la Institución «San Isidoro» que estén en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente.
 
-– Catedráticos numerarios de Escuelas Oficiales de Idiomas.
+– En el Cuerpo de Profesores Numerarios de Escuelas de Maestría Industrial, los funcionarios de la Escala de Materias Técnico-Profesionales y Educadores de Enseñanzas Integradas, salvo lo dispuesto en el apartado 8 de esta disposición, así como los funcionarios del Cuerpo de Profesores Especiales de Escuelas de Maestría Industrial, y de la Escala docente «A» de la AISS.
 
-– Catedráticos numerarios de Conservatorios de Música, Declamación y Escuela Superior de Canto.
+– En el Cuerpo de Maestros de Taller de Escuelas de Maestría Industrial, los funcionarios de las Escalas de Profesores de Prácticas y Actividades de Enseñanzas Integradas y docente «B» de la AISS.
 
-– Profesores de Término de Escuelas de Artes Aplicadas y Oficios Artísticos.
+Quienes no se integren en los Cuerpos citados permanecerán en sus Escalas de origen, que se declaran a extinguir, sin perjuicio del derecho a ser integrados en su día en otros Cuerpos o Escalas docentes, siempre que reúnan las condiciones exigidas para ello. Hasta tanto conservarán sus actuales derechos, reconociéndoseles a efectos económicos los mismos que los a funcionarios que, procedentes de estas Escalas, se integran en los Cuerpos citados.
 
-– Profesores especiales de Conservatorios de Música, Declamación y Escuela Superior de Canto.
+A efectos de participación en concursos de méritos, los funcionarios que se integran en los Cuerpos citados se ordenarán según la fecha de su nombramiento como funcionario de carrera.
 
-– Profesores agregados de Institutos de Bachillerato.
+3. Los puestos de trabajo docentes serán desempeñados por funcionarios de los Cuerpos y Escalas docentes, de acuerdo con lo que determinen las relaciones de puestos de trabajo. No obstante, podrán desempeñarse por personal laboral:
 
-– Profesores agregados numerarios de Escuelas Oficiales de Idiomas.
+– Los puestos que en razón de su naturaleza no se correspondan con las titulaciones académicas existentes.
 
-Asimismo, se integrarán en este Cuerpo los funcionarios que tengan titulación superior y pertenezcan a los siguientes Cuerpos y Escalas:
+– Los puestos creados para la realización de programas educativos temporales.
 
-– Profesores numerarios de Escuelas de Maestría Industrial.
+– Los puestos en el extranjero en tanto no sean cubiertos por funcionarios españoles de los Cuerpos y Escalas docentes o por funcionarios extranjeros en el marco de Convenios o Acuerdos con otros Estados.
 
-– Escala de Profesores numerarios y Psicólogos de Enseñanzas Integradas.
+4. El personal docente podrá ocupar puestos de trabajo en la Administración educativa de acuerdo con lo que determinen las respectivas relaciones de puestos de trabajo, sin consolidar grado personal.
 
-– Escala de Profesores de Materias Técnico-Profesionales y Educadores de Enseñanzas Integradas.
+5. Los funcionarios docentes podrán optar por obtener su jubilación a la terminación del curso académico en el que cumplieran los sesenta y cinco años.
 
-– Escala Técnico-Docente de la Institución «San Isidoro».
+6. Los funcionarios docentes estarán obligados a participar en los sucesivos concursos ordinarios de traslados hasta la obtención de su primer destino definitivo. Estos concursos no establecerán puntuación mínima para la obtención de un destino. Voluntariamente podrán participar en las convocatorias de puestos docentes de carácter singular siempre que reúnan los requisitos exigidos en cada convocatoria.
 
-– Cuerpo de Profesores Especiales de Escuelas de Maestría Industrial.
+Los funcionarios docentes que obtengan un puesto por medio de concurso deberán permanecer en el mismo un mínimo de dos años para poder participar en sucesivos concursos de provisión de puestos de trabajo.
 
-Se Integrarán igualmente los funcionarios del Cuerpo de Profesores Numerarios de Entrada de Escuelas de Artes Aplicadas y Oficios Artísticos a los que se les hubiera exigido titulación superior para el ingreso en el citado Cuerpo.
+7. La función de inspección educativa se realiza por funcionarios con titulación de Doctor, Licenciado, Arquitecto o Ingeniero, pertenecientes a los Cuerpos y Escalas en que se ordena la función pública docente a que se refiere el apartado 2 de la presente disposición.
 
-La titulación requerida en lo sucesivo para el ingreso en el Cuerpo de Profesores de Enseñanza Secundaria será la de Licenciado, Arquitecto, Ingeniero o titulación declarada equivalente a efectos de docencia.
+Los puestos de trabajo de inspección educativa se cubrirán por concurso convocado por cada Administración educativa competente, de acuerdo con los principios de igualdad, mérito y capacidad, valorándose tanto los méritos académicos como los profesionales, así como la antigüedad como funcionarios de carrera en los Cuerpos docentes. Los funcionarios seleccionados deberán superar un curso de especialización, cuya organización corresponderá a la Administración convocante. El desempeño de esta función tendrá una duración de tres años susceptibles de renovación por otros tres años. Transcurridos los períodos de tres o seis años de adscripción a la función inspectora, la incorporación a los puestos correspondientes a sus Cuerpos o Escalas se efectuará a través de la participación en los correspondientes concursos reconociéndoseles un derecho preferente a la localidad de su último destino como docente.
 
-b) Cuerpo de Maestros.
+Transcurridos seis años de ejercicio continuado de la función de inspección educativa, la valoración del trabajo realizado, de acuerdo con los criterios y procedimientos que reglamentariamente se determinen, permitirá el desempeño de puestos de la función inspectora por tiempo indefinido, pudiendo, no obstante, reincorporarse voluntariamente a puestos docentes a través de los concursos ordinarios de provisión.
 
-En este Cuerpo se integrarán:
+El Gobierno y las Comunidades Autónomas, en el marco de sus respectivas competencias, desarrollarán la organización y funcionamiento de la inspección educativa.
 
-Los actuales Cuerpos y Escalas docentes de índice de proporcionalidad ocho, grado dos, para cuyo ingreso a los mismos se exige titulación de Diplomado, Arquitecto Técnico, Ingeniero Técnico o equivalente a efectos de docencia, que a continuación se relacionan:
+8. Sin perjuicio de lo dispuesto en el apartado segundo de esta disposición, se integran en el Cuerpo de Profesores Titulares de Escuelas Universitarias, los funcionarios de las Escalas de Profesores Numerarios y Psicólogos y de Profesores de Materias Técnico-Profesionales y Educadores de Enseñanzas Integradas, siempre que sean titulares de materias específicas de dichas Escuelas Universitarias y posean la titulación exigida para impartir la docencia de estas enseñanzas universitarias.
 
-– Cuerpo Especial de Profesores de Educación General Básica.
+9. Los funcionarios pertenecientes al Cuerpo de Profesores Numerarios de las Escuelas Oficiales de Náutica, que se hallen en posesión del título de Doctor, quedarán integrados a todos los efectos en el Cuerpo de Profesores titulares de Universidad.
 
-– Cuerpo de Profesores Auxiliares de Conservatorios de Música, Declamación y Escuela Superior de Canto.
+Quedarán, asimismo, integrados en dicho Cuerpo, quienes no dispongan del mencionado título de Doctor y lo obtengan en el plazo de cinco años, contados a partir de la publicación de la presente Ley.
 
-Asimismo, se integrarán en este Cuerpo los funcionarios que tengan titulación de Diplomado, Arquitecto Técnico, Ingeniero Técnico o equivalente a efectos de docencia de los Cuerpos de:
+Se declara a extinguir el Cuerpo de Profesores Numerarios de las Escuelas Oficiales de Náutica, conservando este personal todos los derechos inherentes al Cuerpo a que pertenece.
 
-– Maestros de Taller de Escuelas de Maestría Industrial.
+Se autoriza al Ministerio de Economía y Hacienda para realizar las transferencias de crédito que sean necesarias para cubrir las obligaciones derivadas de la integración del personal docente antes mencionado.
 
-– Maestros de taller de Escuelas de Artes Aplicadas y Oficios Artísticos.
+Las Escuelas Superiores de la Marina Civil podrán contratar durante el curso 1988/89, Profesores asociados, de acuerdo con lo previsto en el artículo 33.3 de la Ley 11/1983, de Reforma Universitaria.
 
-– Ayudantes de Taller de Escuelas de Artes Aplicadas y Oficios Artísticos.
+En el plazo de seis meses, el Gobierno, a propuesta de los Ministros de Educación y Ciencia y de Transportes, Turismo y Comunicaciones, llevará a cabo la integración de las Enseñanzas Superiores de la Marina Civil en la Universidad, de conformidad con lo previsto en el artículo 9 de la Ley 11/1983, de Reforma Universitaria.
 
-– Escala de Profesores de Prácticas y Actividades de Enseñanzas Integradas.
+10. En el marco de las competencias en materia educativa atribuidas por sus respectivos Estatutos de Autonomía, las Comunidades Autónomas ordenarán su función pública docente, de conformidad con lo que se establezca en las normas básicas que regulen los aspectos señalados en el punto 2 de esta disposición adicional.
 
-La titulación requerida en lo sucesivo para el ingreso en el Cuerpo de Maestros será la de Diplomado Universitario, Arquitecto Técnico, Ingeniero Técnico o declarada equivalente a efectos de docencia.
-
-c) Escala Docente de Enseñanza Secundaria.
-
-En esta escala docente a extinguir se integrarán:
-
-Los funcionarios pertenecientes a los siguientes Cuerpos:
-
-– Catedráticos Numerarios de Institutos Técnicos de Enseñanza Media.
-
-– Profesores Agregados de Institutos Nacionales de Enseñanza Media.
-
-– Profesores Numerarios de Escuelas Oficiales de Idiomas.
-
-– Profesores Auxiliares de Escuelas de Idiomas.
-
-Asimismo, se integrarán en esta Escala Docente de Ensefianza Secundaria los funcionarios que no tengan titulación superior pertenecientes a los Cuerpos y Escalas siguientes:
-
-– Profesores Numerarios de Escuelas de Maestría Industrial.
-
-– Profesores Especiales de Escuelas de Maestría Industrial.
-
-– Escala de Profesores Numerarios y Psicólogos de Enseñanzas Integradas.
-
-– Escala de Materias Técnico-profesionales y Educadores de Enseñanzas Integradas.
-
-– Escala Técnico-Decente de la Institución San Isidoro.
-
-d) Escala Docente de Maestros.
-
-En esta Escala a extinguir se integrarán:
-
-Los funcionarios pertenecientes a los siguientes Cuerpos:
-
-– Directores Escolares de Enseñanza Primaria.
-
-– Profesores Especiales de Institutos Técnicos de Enseñanzas Medias.
-
-– Maestros de Taller de Institutos Técnicos de Enseñanzas Medias.
-
-Asimismo, se integrarán en esta Escala Docente de Maestros los funcionarios que no tengan titulación de Diplomado, Arquitecto e Ingeniero Técnico pertenecientes a los Cuerpos de:
-
-– Profesores Numerarios de Entrada de Escuelas de Artes Aplicadas y Oficios Artísticos.
-
-– Maestros de Taller de Escuelas de Maestría Industrial.
-
-– Maestros de Taller de Escuelas de Artes Aplicadas y Oficios Artísticos.
-
-– Ayudantes de Taller de Escuelas de Artes Aplicadas y Oficios Artísticos.
-
-– Escala de Profesores de Prácticas y Actividades de Enseñanzas Integradas.
-
-2. Las relaciones de puestos de trabajo docente determinarán las características de los mismos, así como los funcionarios de los Cuerpos y Escalas que deberán desempeñarlos. Excepcionalmente, podrán cubrirse puestos de trabajo docentes por personal contratado en régimen laboral cuando por la naturaleza de aquéllos se requiera el empleo de personal que no tenga las titulaciones contempladas en la presente disposición.
-
-3. El Gobierno desarrollará, en el marco de los principios establecidos en esta Ley, las normas básicas de promoción profesional de los funcionarios a que se refiere el apartado uno de esta disposición adicional estableciendo una carrera docente basada en los siguientes criterios:
-
-a) Los puestos de trabajo docente se clasificarán en función de los intervalos en que se configure la carrera docente.
-
-b) Para desempeñar un puesto de trabajo concreto será necesario poseer el grado personal docente requerido.
-
-c) El grado personal se adquirirá mediante un procedimiento en que se valorarán los méritos académicos y profesionales que se determinen reglamentariamente.
-
-d) El grado personal de carrera docente se consolida por el acceso y ejercicio del puesto de trabajo correspondiente. El desempeño de cargos unipersonales de gobierno de los Centros Docentes, así como cualquier otro que no sea específico de la carrera docente no consolida grado personal alguno. A tal efecto el personal docente podrá ocupar puestos de trabajo de la Administración educativa de acuerdo con lo que determinen las respectivas relaciones de puestos de trabajo.
-
-e) Para el acceso al Cuerpo de Enseñanza Secundaria se reservará un número determinado de plazas para su provisión por concurso o concurso-oposición de entre los funcionarios pertenecientes al Cuerpo de Maestros que tengan la titulación requerida y hayan prestado servicios en el citado Cuerpo docente en el período que se establezca.
-
-f) Los funcionarios de las Escalas docentes de Enseñanza Secundaria y Maestros se integrarán en los Cuerpos respectivos mediante la obtención del titulo requerido para el ingreso en los mismos, siempre que la titulación obtenida sea la correspondiente a la enseñanza que imparte.
-
-4. A partir del grado de carrera docente que se determine reglamentariamente, los funcionarios del Cuerpo de Profesores de Enseñanza Secundaria se denominarán Catedráticos de Enseñanza Secundaria.
-
-5. A los funcionarios de los Cuerpos y Escalas docentes que se integran en el Cuerpo de Profesores de Enseñanza Secundaria, procedentes de Cuerpos o Escalas que actualmente tienen reconocido índice de proporcionalidad 10, grado 2. se les reconocerá dicha situación a efectos de atribución de grado de carrera docente, que será superior al que se asigne al resto de los Cuerpos y Escalas integrados en el citado Cuerpo. Dichos funcionarios ostentarán la denominación de Catedráticos de Enseñanza Secundaria.
-
-6. El Gobierno desarrollará las normas básicas de la Función Pública docente establecidas en esta disposición.
-
-7. En función de las necesidades del servicio, y de conformidad con las relaciones de puestos de trabajo que determine la Administración educativa competente, la función inspectora en materia de educación se realizará por funcionarios con titulación superior pertenecientes a los Cuerpos y Escalas en que se ordena la Función Pública docente.
-
-La oferta pública de puestos de trabajo de inspección educativa se cubrirá por concurso público, de acuerdo con los principios de mérito y capacidad y tras la superación de un curso de especialización, cuya organización corresponderá a la Administración educativa competente. La adscripción de los funcionarios seleccionados a la función inspectora será por períodos no consecutivos, que, en ningún caso, podrán ser inferiores a tres años ni superiores a seis. Los funcionarios nombrados para estos puestos no consolidarán grado personal alguno, pero el desempeño de la función inspectora se valorará como mérito a efectos de su carrera docente.
-
-Transcurrido el periodo de adscripción a la función inspectora educativa los funcionarios tendrán derecho a ocupar plaza correspondiente a su Cuerpo o Escala en la localidad de su destino como docente.
-
-A partir de la entrada en vigor de la presente Ley, la provisión de los puestos de trabajo de función inspectora educativa sólo podrá realizarse por el procedimiento establecido en este apartado
-
-8. Los actuales Cuerpos de Inspectores de Educación Básica, Inspectores de Bachillerato e Inspectores Técnicos de Formación Profesional quedan integrados en el Cuerpo de Inspectores al Servicio de la Administración Educativa, cuya plantilla estará constituida por los efectivos actuales de los Cuerpos suprimidos, quedando amortizadas las vacantes que se produzcan en lo sucesivo.
-
-Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Educativa tendrán derecho a desempeñar puestos de trabajo pertenecientes a la función inspectora. Asimismo podrán acceder a los demás puestos propios de la carrera administrativa de conformidad con los principios de promoción profesional establecidos en esta Ley. A los efectos de la oferta pública de inspección, la Administración educativa competente reservará un porcentaje determinado de puestos para su provisión por los citados funcionarios.
-
-9. En el marco de las competencias en materia educativa atribuidas por sus respectivos Estatutos de Autonomía, las Comunidades Autónomas ordenarán su función pública docente de conformidad con lo establecido en esta disposición adicional.
+> Se modifica por el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
