@@ -62,7 +62,7 @@ c) Hongos
 | 1.1. Anisogramma anomala (Peck) E. Müller | Vegetales de Corylus L., destinados a la plantación, excepto las semillas, originarios de Canadá y los Estados Unidos de América |
 | 2. Apiosporina morbosa (Schwein.) v. Arx | Vegetales de Prunus L., destinados a la plantación, excepto las semillas |
 | 3. Atropellis spp. | Vegetales de Pinus L., excepto los frutos y semillas, corteza aislada y madera de Pinus L. |
-| 4. Ceratocystis coerulescens (Münch) Bakshi | Vegetales de Acer saccharum Marsh, excepto los frutos y semillas, originarios de países de Norteamérica, madera de Acer saccharum Marsh., incluida la madera que no conserva su superficie redonda natural, originaria de países de Norteamérica |
+| 4. Ceratocystis virescens (Davidson) Moreau | Vegetales de Acer saccharum Marsh., excepto los frutos y semillas, originarios de los Estados Unidos y Canadá, madera de Acer saccharum Marsh., incluida la madera que no conserva su superficie redonda habitual, originaria de Estados Unidos y Canadá |
 | 5. Cercoseptoria pini-densiflorae (Hori et Nambu) Deighton | Vegetales de Pinus L., excepto los frutos y semillas, y madera de Pinus L. |
 | 6. Cercospora angolensis Carv. et Mendes | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto las semillas |
 | 7. Ciborinia camelliae Kohn | Vegetales de Camelia L., destinados a la plantación, excepto las semillas, y originarios de países no europeos |
@@ -136,7 +136,7 @@ c) Hongos
 | --- | --- |
 | 1. Ceratocystis fimbriata f. sp. platani Walter | Vegetales de Platanus L., destinados a la plantación, excepto las semillas, y madera de Platanus L., incluida la madera que no conserva su superficie redondeada natural |
 | 2. Colletotrichum acutatum Simmonds | Vegetales de Fragaria L., destinados a la plantación, excepto las semillas |
-| 3. Cryphonectria parasitica (Murrill) Barr | Vegetales de Castanea Mill. y Quercus L., destinados a la plantación, excepto las semillas, madera y corteza aislada de Castanea Mill. |
+| 3. Cryphonectria parasitica (Murrill) Barr | Vegetales de Castanea Mill. y Quercus L., destinados a la plantación, excepto las semillas. |
 | 4. Didymella ligulicola (Baker, Dimock et Davis) v. Arx | Vegetales de Dendranthema (DC.) Des Moul., destinados a la plantación, excepto las semillas |
 | 5. Phialophora cinerescens (Wollenweber) van Beyma | Vegetales de Dianthus L., destinados a la plantación, excepto las semillas |
 | 6. Phoma tracheiphila (Petri) Kanchaveli et Gikashvili | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto las semillas |
@@ -202,6 +202,7 @@ c) Hongos
 
 | Especies | Objeto de contaminación | Zonas protegidas |
 | --- | --- | --- |
+| 01. Cryphonectria parasitica (Murrill.) Barr. | Madera, excluida la madera que ha sido descortezada y la corteza aislada de Castanea Mill. | CZ, DK, EL (Creta, Lesbos), IRL, S y UK (excepto la Isla de Man) |
 | 1. Glomerella gossypii Edgerton | Semillas y frutos (cápsulas) de Gossypium spp. | EL |
 | 2. Gremmeniella abietina (Lag.) Morelet | Vegetales de Abies Mill., Larix Mill., Picea A. Dietr., Pinus L., Pseudotsuga Carr., destinados a la plantación, excepto las semillas | IRL, UK (Irlanda del Norte) |
 | 3. Hypoxylon mammatum (Wahl.) J. Miller | Vegetales de Populus L., destinados a la plantación, excepto las semillas | IRL, UK (Irlanda del Norte) |
@@ -211,3 +212,5 @@ d) Virus y organismos similares
 | Especies | Objeto de contaminación | Zonas protegidas |
 | --- | --- | --- |
 | Citrus tristeza virus (cepas europeas) | Frutos de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, con hojas y pedúnculos | EL, F (Córcega), I, M y P |
+
+> Se modifica por el art. único y el anexo de la Orden APA/431/2005, de 18 de febrero. Ref. BOE-A-2005-3240
