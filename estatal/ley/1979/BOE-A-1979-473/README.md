@@ -12,7 +12,11 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 - [no](no.md)
 - [pr](pr.md)
+- [Artículo primero](ap.md)
+- [Artículo segundo](as.md)
 - [Artículo tercero](at.md)
+- [Disposición adicional primera](pr-2.md)
 - [Disposición adicional segunda](se.md)
+- [Disposición derogatoria](dd.md)
 - [Disposición final](df.md)
 - [fi](fi.md)
