@@ -1,0 +1,13 @@
+## Cuarto. Garantías exigibles.
+
+1. Tanto en las operaciones de compra, como en las de venta, los acreditados deberán aportar las garantías que establezca la Sociedad Rectora de cada Bolsa de Valores o, en su caso, la Sociedad de Bolsas, que no podrán ser inferiores a las fijadas con carácter general por la Comisión Nacional del Mercado de Valores. Las garantías constituidas serán irreivindicables en los términos del artículo 102 del Reglamento de las Bolsas Oficiales de Comercio, aprobado por Decreto 1508/1967, de 20 de junio.
+
+2. A solicitud de las entidades acreedoras, los acreditados deberán aportar complementos de las garantías respecto de las posiciones de compra o venta que se hallasen pendientes y tuvieran por objeto valores cuya cotización hubiera variado en más de un 10 por 100 en contra de la posición a que las garantías se refieren. Para el cálculo de los complementos exigibles se tendrá en cuenta el importe de los derechos económicos devengados durante la vigencia de las posiciones. La posibilidad de exigir complementos de garantías será aplicable a las posiciones prorrogadas.
+
+La exigencia de garantías complementarias podrá imponerse como obligatoria por las Sociedades Rectoras o, en su caso, por la Sociedad de Bolsas, en los casos y de acuerdo con los porcentajes y cuantías que estimen necesarias.
+
+3. Las garantías deberán ser depositadas en una entidad miembro o adherida al Nuevo Sistema de Compensación y Liquidación o en una entidad de depósito habilitadas a tal fin mediante su inscripción en el correspondiente Registro de las Sociedades Rectoras o, en su caso, de la Sociedad de Bolsas. Dicho régimen de depósito de garantías podrá sustituirse por un sistema de constitución de otro tipo de coberturas, de acuerdo con lo que establezca la Comisión Nacional del Mercado de Valores.
+
+4. La designación y eventuales cambios de las entidades depositarias de cada entidad que otorgue crédito podrán efectuarse con carácter general, en cuyo caso deberán publicarse en los Boletines de Cotización y comunicarse al Servicio de Compensación y Liquidación de Valores, o en relación con alguna o algunas operaciones concretas, supuesto en el que se comunicarán al Servicio de Compensación y Liquidación en el momento de declarar la operación en cuestión.
+
+5. Las Sociedades Rectoras de las Bolsas y, en su caso, la Sociedad de Bolsas tendrán, en relación con las operaciones de crédito y con las entidades, incluidas las depositarias, que actúen en el sistema, las funciones y deberes a que se refiere el artículo 13 del Real Decreto 726/1989, de 23 de junio, sobre Sociedades Rectoras y miembros de las Bolsas de Valores, Sociedades de Bolsas y Fianza Colectiva.
