@@ -1,3 +1,5 @@
 ## Artículo octavo.
 
-Las licencias de uso de armas para las personas a que se refiere el presente Real Decreto tendrán validez mientras estas conserven el carácter de Agentes de la autoridad y careciendo de la misma siempre que se encuentren fuera de servicio.
+(Derogado)
+
+> Se deroga por la disposición final del Real Decreto 740/1983, de 30 de marzo. Ref. BOE-A-1983-10145.
