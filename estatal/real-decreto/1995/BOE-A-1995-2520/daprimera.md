@@ -1,0 +1,3 @@
+## Disposición adicional primera. Aplicación de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Sin perjuicio de las peculiaridades previstas en la Ley 14/1994, de 1 de junio, por la que se regulan las empresas de trabajo temporal, y en el presente Real Decreto, se estará a lo dispuesto con carácter general en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en sus normas de desarrollo, salvo en cuanto al procedimiento sancionador en que se aplicará la Ley 8/1988, de 7 de abril, de Infracciones y Sanciones en el Orden Social, y, subsidiariamente, la Ley 30/1992, de 26 de noviembre.
