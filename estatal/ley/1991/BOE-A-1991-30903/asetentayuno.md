@@ -1,0 +1,9 @@
+## Artículo setenta y uno. Pago a cuenta del Impuesto sobre Sociedades.
+
+Uno. En los primeros veinte días naturales de los meses de abril, octubre y diciembre del año 1992, los sujetos pasivos del Impuesto sobre Sociedades, por obligación personal, así como los establecimientos permanentes de Sociedades no residentes en España, efectuarán un pago a cuenta de la liquidación correspondiente al ejercicio que esté en curso el día primero de cada uno de los meses indicados, del 20 por 100 de la cuota a ingresar por el último ejercicio cerrado cuyo plazo reglamentario de declaración estuviese vencido en dichas fechas.
+
+Dos. Cuando el último ejercicio cerrado al que se hace referencia en el número anterior sea de duración inferior al año, se tomará también en cuenta la parte proporcional de la cuota de ejercicios anteriores, hasta completar un período de doce meses.
+
+Tres. Los mencionados pagos a cuenta tendrán la consideración de deuda tributaria, a efectos de la aplicación de las disposiciones sobre infracciones y sanciones tributarias y sobre liquidación de intereses de demora.
+
+Su importe se acumulará al de las retenciones efectivamente soportadas por el sujeto pasivo, a efectos del cálculo de la cuota a ingresar o a devolver.

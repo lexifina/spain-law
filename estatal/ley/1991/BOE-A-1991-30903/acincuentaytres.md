@@ -1,0 +1,15 @@
+## Artículo cincuenta y tres. Deuda Pública.
+
+Uno. Se autoriza al Gobierno para que, a propuesta del Ministerio de Economía y Hacienda, incremente la Deuda del Estado, con la limitación de que el saldo vivo de la misma a 31 de diciembre de 1992 no supere el correspondiente saldo a 1 de enero de 1992 en mas de 1.307.951.255 miles de pesetas.
+
+Dos. Este límite será efectivo al término del ejercicio, pudiendo ser sobrepasado en el curso del mismo, y quedará automáticamente revisado:
+
+a) Por el importe de las modificaciones netas de créditos presupuestarios correspondientes a los Capítulos I a VIII.
+
+b) Por las desviaciones entre las previsiones de ingresos contenidas en la presente Ley y la evolución real de los mismos.
+
+c) Por los anticipos de Tesorería y la variación neta de las operaciones extrapresupuestarias previstas legalmente, y
+
+d) Por la variación neta en los derechos y las obligaciones del Estado reconocidos y pendientes de ingreso o pago.
+
+Las citadas revisiones incrementarán o reducirán el límite señalado en el párrafo anterior, según supongan un aumento o una disminución, respectivamente, de la necesidad de financiación del Estado.

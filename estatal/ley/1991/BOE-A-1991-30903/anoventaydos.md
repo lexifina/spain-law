@@ -1,0 +1,5 @@
+## Artículo noventa y dos. Compensación de los beneficios fiscales concedidos a las personas físicas o jurídicas en los tributos locales, como consecuencia de inundaciones y otras catástrofes.
+
+Para dar cumplimiento a lo previsto en el artículo 9 de la Ley reguladora de las Haciendas Locales, se dota en la Sección 32 del vigente Presupuesto de Gastos del Estado un crédito con la finalidad de compensar los beneficios fiscales en tributos locales de exacción obligatoria que se puedan conceder por el Estado con el fin de paliar los daños causados por lluvias torrenciales y otros eventos declarados catastróficos.
+
+El mencionado crédito tendrá la consideración de ampliable de acuerdo con lo previsto en el artículo 66 del texto refundido de la Ley General Presupuestaria, en función del cumplimiento de las obligaciones que se puedan generar a lo largo del ejercicio económico en virtud de norma con rango formal de Ley, y de las procedentes de ejercicios anteriores no prescritas y que carezcan de dotación suficiente.

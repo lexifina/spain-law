@@ -1,0 +1,3 @@
+## Artículo noventa y cuatro. Préstamos a favor de las Corporaciones Locales por la supresión de los recursos tributarios definidos en la Ley 24/1983, de 21 de diciembre.
+
+Para dar aplicación a lo dispuesto en el Real Decreto-ley 1/1987, de 10 de abril, sobre devoluciones de cantidades ingresadas en exceso por las Contribuciones Territoriales Rústica y Pecuaria y Urbana, se autoriza una dotación especifica de crédito en la sección 32. Del presupuesto de gastos del Estado destinada a la concesión de préstamos a favor de las Corporaciones Locales, como consecuencia de las devoluciones que se puedan practicar por el procedimiento ordinario previsto en dicha norma.

@@ -1,0 +1,3 @@
+## Disposición final séptima. Centros sanitarios del Instituto Nacional de la Salud.
+
+El Gobierno, a propuesta conjunta de los Ministerios de Economía y Hacienda, para las Administraciones Públicas y Sanidad y Consumo, podrá modificar las previsiones contenidas en los artículos 10 y concordantes de la Ley 37/1962, de 21 de julio, de Hospitales, sobre organización de los Centros, servicios y establecimientos sanitarios gestionados por el Insalud. La provisión de los órganos de dirección de dichos centros, servicios y establecimientos, se efectuará conforme al régimen laboral especial de alta dirección, quedando derogado a estos efectos el artículo 34.4 de la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990.

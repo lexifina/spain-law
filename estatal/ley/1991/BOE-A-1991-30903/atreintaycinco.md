@@ -1,0 +1,11 @@
+## Artículo treinta y cinco. Otras normas comunes.
+
+Uno. Cuando las retribuciones percibidas en el año 1991 no correspondieran a las establecidas con carácter general en el Título III de la Ley 31/1990, y no sean de aplicación las establecidas en el mismo Título de la presente Ley, se continuarán percibiendo las mismas retribuciones que en el año 1991, incrementadas en el 5 por 100.
+
+Dos. En la Administración del Estado y sus Organismos autónomos, en los casos de adscripción durante 1992 de un funcionario sujeto a un régimen retributivo distinto del correspondiente al puesto de trabajo al que se le adscribe, dicho funcionario percibirá las retribuciones que correspondan al puesto de trabajo que desempeñe, previa la oportuna asimilación que autorice el Ministerio para las Administraciones Públicas, a propuesta de los departamentos ministeriales interesados.
+
+A los solos efectos de la asimilación a que se refiere el párrafo anterior, el Ministerio para las Administraciones Públicas podrá autorizar que la cuantía de la retribución por antigüedad sea la que proceda de acuerdo con el régimen retributivo de origen del funcionario.
+
+Estas autorizaciones serán comunicadas por el Ministerio para las Administraciones Públicas al Ministerio de Economía y Hacienda para su conocimiento.
+
+Tres. Las referencias relativas a retribuciones contenidas en la presente Ley se entienden siempre hechas a retribuciones integras.
