@@ -1,15 +1,19 @@
-## Artículo cuatrocientos treinta y tres
+## Artículo 433.
 
 1. Quienes ocuparen plazas judiciales en régimen de provisión temporal cesarán:
 
-a) Por transcurso del plazo para el que fueron nombrados.
+a) Por transcurso de plazo para el que fueron nombrados.
 
 b) Por dimisión, aceptada por la Sala de Gobierno que los nombró.
 
-c) Por decisión de dicha Sala, cuando incurrieren en alguna de las causas de incapacidad, incompatibilidad o prohibición establecida en esta ley, previa una sumaria información con audiencia del interesado y del Ministerio Fiscal.
+c) Por cumplir la edad de setenta y dos años.
 
-d) Por acuerdo de aquélla, cuando dejaren de atender diligentemente los deberes del cargo, con las mismas garantías en cuanto a procedimiento establecidas en el número anterior.
+d) Por decisión de dicha Sala, cuando incurrieren en alguna de las causas de incapacidad, incompatibilidad o prohibición establecida en esta Ley, previa una sumaria información con audiencia del interesado y del Ministerio Fiscal.
 
-e) Cuando fuere nombrado un Juez titular para la plaza servida en régimen de provisión temporal.
+e) Por acuerdo de aquélla, cuando se advirtiere en ellos falta de aptitud o idoneidad para el ejercicio de cargo y cuando dejaren de atender diligentemente los deberes de éste con las mismas garantías en cuanto a procedimiento establecidas en la letra anterior.
+
+f) Cuando fuere nombrado un Juez titular para la plaza servida en régimen de provisión temporal.
 
 2. Los ceses, cualquiera que fuere la causa que los determine, se comunicarán al Consejo General del Poder Judicial.
+
+> Se modifica el apartado 1 por el art. 4.16 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

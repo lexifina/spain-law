@@ -1,3 +1,5 @@
 ## Artículo cuatrocientos veinticuatro
 
-El Instructor podrá proponer a la Comisión Disciplinaria del Consejo General, previa citación de aquél contra el que se dirija el procedimiento, la suspensión provisional del mismo. La propuesta se hará por conducto del Presidente o de la Sala de Gobierno, en su caso, y deberá darse audiencia al Ministerio Fiscal y al interesado. Sólo podrá acordarse cuando aparezcan indicios racionales de la comisión de una falta muy grave.
+La Comisión Disciplinaria del Consejo General del Poder Judicial, por propia iniciativa, oído el instructor delegado o a propuesta de éste, previa audiencia del Juez o Magistrado contra el que se dirija el expediente y del Ministerio Fiscal, puede acordar cautelarmente la suspensión provisional del expedientado por un período máximo de seis meses, cuando aparezcan indicios racionales de la comisión de una falta muy grave.
+
+> Se modifica por el art. 7.10 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

@@ -1,9 +1,11 @@
-## Artículo cuatrocientos quince
+## Artículo 415.
 
-1. La responsabilidad disciplinaria sólo podrá exigirse por la autoridad competente, mediante el procedimiento establecido en este capítulo, incoado ya por propia iniciativa, ya a instancia del agraviado, o en virtud de orden judicial superior, o, a iniciativa del Ministerio Fiscal.
+1. La responsabilidad disciplinaria sólo podrá exigirse por la autoridad competente, mediante el procedimiento establecido en este capítulo.
 
-2. No se podrá incoar expediente de responsabilidad disciplinaria en relación con hechos objeto de causa penal, en tanto ésta no haya concluido por sobreseimiento o sentencia absolutoria, suspendiéndose, en su caso, el trámite del expediente administrativo en curso, si después de su iniciación se incoara causa penal por el mismo hecho.
+2. La incoación de un procedimiento penal no será obstáculo para la iniciación de un expediente disciplinario por los mismos hechos, pero no se dictará resolución en éste hasta tanto no haya recaído sentencia o auto de sobreseimiento firmes en la causa penal.
 
-En tales supuestos, los plazos de prescripción de los que habla el artículo siguiente de esta ley, comenzarán a computarse desde la conclusión de la causa penal.
+En todo caso, la declaración de hechos probados contenida en la resolución que pone término al procedimiento penal vinculará a la resolución que se dicte en el expediente disciplinario, sin perjuicio de distinta calificación jurídica que puedan merecer en una y otra vía.
 
-3. En ningún caso un mismo hecho sancionado en causa penal podrá ser objeto de un posterior expediente de responsabilidad disciplinaria.
+3. Sólo podrán recaer sanción penal y disciplinaria sobre los mismos hechos cuando no hubiere identidad de fundamento jurídico y de bien jurídico protegido.
+
+> Se modifica por el art. 7.1 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

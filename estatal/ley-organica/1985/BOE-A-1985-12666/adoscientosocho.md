@@ -1,7 +1,9 @@
-## Artículo doscientos ocho
+## Artículo 208.
 
-1. El Presidente del Tribunal Supremo, el Presidente de la Audiencia Nacional y los Presidentes de los Tribunales Superiores de Justicia serán sustituidos por el Presidente de la Sala más antiguo en el cargo.
+1. El Presidente del Tribunal Supremo, el Presidente de la Audiencia Nacional y los Presidentes de los Tribunales Superiores de Justicia serán sustituidos por el Presidente de la Sala de la misma sede más antiguo en el cargo. No obstante, la Sala de Gobierno será convocada y presidida por el Presidente de Sala más antiguo en el cargo, aunque sea de distinta sede.
 
 2. Los Presidentes de las Audiencias Provinciales serán sustituidos por el Presidente de Sección más antiguo o, si no las hubiere, por el Magistrado con mejor puesto en el escalafón.
 
 3. Cuando la plantilla de la Audiencia no comprenda otra plaza que la de su Presidente, le sustituirá el Magistrado titular que se hallare en turno para acudir a completar la Audiencia.
+
+> Se modifica el apartado 1 por el art. 4.10 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

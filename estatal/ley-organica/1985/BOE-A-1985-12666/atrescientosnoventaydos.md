@@ -1,13 +1,21 @@
-## Artículo trescientos noventa y dos
+## Artículo 392
 
-Lo dispuesto en el artículo anterior será aplicable:
+1. Los Jueces o Magistrados no podrán intervenir en la resolución de recursos relativos a resoluciones dictadas por quienes tengan con ellos alguna de las relaciones a que hace referencia el artículo anterior, ni en fases ulteriores del procedimiento que, por su propia naturaleza, impliquen una valoración de lo actuado anteriormente por ellas.
 
-1.º A los Presidentes de Sala de la Audiencia Nacional con los Jueces centrales.
+En virtud de este principio, además de la obligación de abstención, siempre que concurra cualquiera de los vínculos a que se refiere el artículo anterior, son incompatibles:
 
-2.º A los Presidentes de los Tribunales Superiores de Justicia y Audiencias, con los Jueces del territorio de su jurisdicción.
+a) Los Jueces de Instrucción con los Jueces unipersonales de lo Penal que hubieran de conocer en juicio oral de lo instruido por ellos y con los Magistrados de la Sección que se hallen en el mismo caso.
 
-3.º A los Magistrados de las Audiencias con los Jueces que dependan del orden jurisdiccional a que aquéllos pertenezcan.
+b) Los Magistrados de cualquier Sala de Justicia, constituya o no sección orgánica, a la que se halle atribuido el conocimiento de los recursos respecto de las resoluciones de un órgano jurisdiccional, cualquiera que sea el orden a que pertenezca, con los Jueces o Magistrados de dicho órgano. Se exceptúan de esta incompatibilidad las Salas y Secciones del Tribunal Supremo.
 
-4.º A los Jueces de Primera Instancia e Instrucción respecto a los miembros del Ministerio Fiscal destinados en Fiscalías en cuya demarcación ejerzan su jurisdicción aquéllos, con excepción de los Partidos en que existan diez o más Juzgados de esa clase.
+2. Serán incompatibles cuando concurra entre ellas cualquiera de las relaciones a que se refiere el artículo anterior:
 
-5.º A los Presidentes, Magistrados y Jueces respecto de los Secretarios y demás personal al servicio de la Administración de Justicia que de ellos dependan directamente.
+a) Los Presidentes y Magistrados de la Sala de lo Penal de la Audiencia Nacional y los de las Audiencias Provinciales, respecto de los miembros del Ministerio Fiscal de la correspondiente Fiscalía, salvo cuando en la Audiencia Provincial hubiere más de tres secciones.
+
+b) Los Presidentes y Magistrados de la Sala de lo Civil y Penal respecto del Fiscal Jefe y Teniente Fiscal de dicho órgano.
+
+c) Los Jueces de Instrucción y los Jueces unipersonales de lo Penal, respecto de los Fiscales destinados en Fiscalías en cuyo ámbito territorial ejerzan su jurisdicción, con excepción de los Partidos donde existan más de cinco órganos de la clase que se trate.
+
+d) Los Presidentes, Magistrados y Jueces respecto de los Secretarios y demás personal al servicio de la Administración de Justicia que dependan de ellos directamente.
+
+> Se modifica por el art. 12 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

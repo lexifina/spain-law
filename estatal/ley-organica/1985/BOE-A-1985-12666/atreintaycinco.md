@@ -1,4 +1,4 @@
-## Artículo treinta y cinco
+## Artículo 35.
 
 1. La demarcación judicial, que determinará la circunscripción territorial de los órganos judiciales, se establecerá por ley.
 
@@ -10,4 +10,6 @@
 
 5. La demarcación judicial será revisada cada cinco años o antes si las circunstancias lo aconsejan, mediante ley elaborada conforme al procedimiento anteriormente establecido.
 
-6. Las Comunidades Autónomas determinarán, por ley, la capitalidad de los partidos judiciales.
+6. Las Comunidades Autónomas, previo informe del Consejo General del Poder Judicial, determinarán, por Ley, la capitalidad de los partidos judiciales.
+
+> Se modifica el apartado 6 por el art. 9.1 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

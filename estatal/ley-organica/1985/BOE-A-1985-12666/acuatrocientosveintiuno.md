@@ -1,11 +1,17 @@
 ## Artículo cuatrocientos veintiuno
 
-Serán competentes para la imposición de sanciones:
+1. Serán competentes para la imposición de sanciones:
 
-1.º Para las correspondientes a faltas leves, el Presidente del Tribunal Supremo y los Presidentes de la Audiencia Nacional y de los Tribunales Superiores de Justicia, a los Jueces y Magistrados dependientes de los mismos.
+a) Para la sanción de advertencia, el Presidente del Tribunal Supremo, de la Audiencia Nacional y de los Tribunales Superiores de Justicia, a los Jueces y Magistrados dependientes de los mismos.
 
-2.º Para las correspondientes a faltas graves, las Salas de Gobierno del Tribunal Supremo, de la Audiencia Nacional y de los Tribunales Superiores de Justicia, respectivamente, a los Jueces y Magistrados dependientes de cada una de ellas.
+b) Para la sanción de multa o de advertencia y multa correspondiente a faltas leves, las Salas de Gobierno del Tribunal Supremo, de la Audiencia Nacional y de los Tribunales Superiores de Justicia respecto a los Jueces y Magistrados dependientes de cada una de ellas.
 
-3.º Para las correspondientes a faltas muy graves, la comisión disciplinaria del Consejo General del Poder Judicial, salvo las previstas en la regla siguiente.
+c) Para las sanciones correspondientes a faltas graves, la Comisión Disciplinaria del Consejo General del Poder Judicial.
 
-4.º Para las de traslado forzoso y separación, el Pleno del Consejo General.
+d) Para las muy graves, el Pleno del Consejo General del Poder Judicial.
+
+2. No obstante, los órganos a que hacen referencia las anteriores reglas pueden imponer sanciones de menor gravedad que las que tienen ordinariamente atribuidas si, al examinar un expediente que inicialmente está atribuido a su competencia, resulta que los hechos objeto del mismo merecen un inferior reproche disciplinario.
+
+3. En la imposición de sanciones por las autoridades y órganos competentes deberá observarse la debida adecuación o proporcionalidad entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada.
+
+> Se modifica por el art. 7.7 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

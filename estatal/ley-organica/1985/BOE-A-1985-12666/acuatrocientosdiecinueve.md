@@ -1,13 +1,15 @@
 ## Artículo cuatrocientos diecinueve
 
-Se considerarán faltas leves:
+Son faltas leves:
 
-1.º La falta de respeto a los superiores jerárquicos que no constituya falta grave.
+1. La falta de respeto a los superiores jerárquicos cuando no concurran las circunstancias que calificarían la conducta de falta grave.
 
-2.º La desconsideración con iguales o inferiores en el orden jerárquico judicial, con los miembros del Ministerio Fiscal, Abogados y Procuradores, con los Secretarios, Oficiales, Auxiliares y Agentes de los Juzgados y Tribunales o con los particulares que acudieren a los mismos en cualquier concepto.
+2. La desatención o desconsideración con iguales o inferiores en el orden jerárquico, con los ciudadanos, los miembros del Ministerio Fiscal, Médicos forenses, Abogados y Procuradores, Graduados Sociales, con los Secretarios, Oficiales, Auxiliares y Agentes y funcionarios de la Policía Judicial.
 
-3.º El retraso en el despacho de los asuntos o en su resolución cuando no constituya falta más grave.
+3. El incumplimiento injustificado o inmotivado de los plazos legalmente establecidos para dictar resolución en cualquier clase de asunto que conozca el Juez o Magistrado.
 
-4.º La ausencia injustificada por tres días o menos del lugar en que presten servicios.
+4. La ausencia injustificada por más de un día natural y menos de cuatro de la sede del órgano judicial en que el Juez o Magistrado se halle destinado.
 
-5.º Las infracciones o la negligencia en el cumplimiento de los deberes propios de su cargo establecidos en esta ley, cuando no constituya infracción más grave.
+5. La desatención a los requerimientos que en el ejercicio de sus legítimas competencias realizasen el Consejo General del Poder Judicial, el Presidente del Tribunal Supremo, de la Audiencia Nacional y de los Tribunales Superiores de Justicia o Salas de Gobierno.
+
+> Se modifica por el art. 7.5 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

@@ -1,9 +1,9 @@
 ## Artículo cuatrocientos treinta y cuatro
 
-1. El Centro de Estudios Judiciales es una entidad de Derecho público con personalidad jurídica propia dependiente del Ministerio de Justicia, sin perjuicio de las competencias que correspondan al Consejo General del Poder Judicial.
+1. El Centro de Estudios Jurídicos de la Administración de Justicia es una entidad de Derecho público con personalidad jurídica propia dependiente del Ministerio de Justicia.
 
-2. Tendrá como función la colaboración con el Consejo General del Poder Judicial y el Ministerio de Justicia en la selección, formación y perfeccionamiento de los miembros de las Carreras Judicial y Fiscal, del Secretariado y demás personal al servicio de la Administración de Justicia.
+2. Tendrá como función la colaboración con el Ministerio de Justicia en la selección, formación inicial y continuada de los miembros de la Carrera Fiscal, del Secretariado y demás personal al servicio de la Administración de Justicia.
 
-La formación y perfeccionamiento de los miembros de la Carrera Judicial se realizará bajo la exclusiva dirección del Consejo General del Poder Judicial.
+3. Reglamentariamente se establecerá la organización del Centro y designación del personal directivo. Asimismo, se establecerán las relaciones permanentes del Centro con los órganos competentes de las Comunidades Autónomas.
 
-3. Reglamentariamente se establecerá la organización del Centro y designación del personal directivo. Asimismo se establecerán las relaciones permanentes del Centro con los órganos competentes de las Comunidades Autónomas.
+> Se modifica por el art. 1.15 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

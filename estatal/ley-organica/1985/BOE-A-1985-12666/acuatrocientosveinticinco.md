@@ -1,15 +1,27 @@
-## Artículo cuatrocientos veinticinco
+## Artículo 425.
 
-1. El Instructor practicará cuantas pruebas y actuaciones conduzcan al esclarecimiento de los hechos y a determinar la responsabilidad, con intervención del Ministerio Fiscal y, en su caso, del interesado.
+1. El instructor delegado practicará cuantas pruebas y actuaciones sean necesarias para la determinación y comprobación de los hechos y responsabilidades susceptibles de sanción, con intervención del Ministerio Fiscal y del interesado, que podrá valerse de abogado desde el inicio del expediente.
 
-2. A la vista de aquéllas, el Instructor formulará, si procediere, pliego de cargos, en el que se expondrán los hechos imputados. El pliego de cargos se notificará al interesado para que pueda contestarlo en el plazo de ocho días y proponer la prueba que precise, cuya pertinencia será calificada por el Instructor.
+2. A la vista de las pruebas y actuaciones practicadas, el instructor delegado formulará, si procediere, pliego de cargos, en el que se expondrán los hechos impugnados con expresión, en su caso, de la falta presuntamente cometida y de las sanciones que puedan ser de aplicación.
 
-3. Cumplido lo anterior, el Instructor, previa audiencia del Ministerio Fiscal, formulará propuesta de resolución, de la que se dará traslado al interesado, para que en el plazo de ocho días alegue lo que a su derecho convenga. Evacuado dicho trámite, o transcurrido el plazo para ello, se remitirá lo actuado a la autoridad que hubiere ordenado iniciar el procedimiento para la decisión que proceda. Cuando esta autoridad entienda procedente una sanción que no esté dentro de su competencia, elevará el procedimiento, con su propuesta, a la que sea competente.
+El pliego de cargos se notificará al interesado para que, en el plazo de ocho días, pueda contestarlo y proponer la prueba que precise, cuya pertinencia será calificada por el instructor delegado.
 
-4. Podrán las autoridades competentes devolver el expediente al Instructor para que formule pliego de cargos, comprenda otros hechos en el mismo o complete la instrucción.
+3. Contestado el pliego o transcurrido el plazo sin hacerlo, y practicadas, en su caso, las pruebas propuestas por el interesado, el instructor delegado, previa audiencia del Ministerio Fiscal, formulará propuesta de resolución, en la que fijará con precisión los hechos, hará la valoración jurídica de los mismos e indicará la sanción que estime procedente.
 
-5. La duración del procedimiento sancionador no excederá de seis meses. Cuando, por razones excepcionales, se prolongase por mayor plazo, el Instructor deberá dar cuenta cada diez días del estado de su tramitación y de las circunstancias que impiden su conclusión a la autoridad que hubiere mandado proceder.
+Dicha propuesta de resolución se notificará al interesado para que, en el plazo de ocho días, alegue lo que a su derecho convenga.
 
-6. La resolución que recaiga deberá ser notificada al interesado y al Ministerio Fiscal, quienes podrán interponer contra la misma los recursos que legalmente procedan.
+4. Evacuado el referido trámite, o transcurrido el plazo para ello, se remitirá lo actuado a la autoridad que hubiere ordenado la iniciación del procedimiento para la decisión que proceda. Cuando esta autoridad entienda procedente una sanción de mayor gravedad que las que están dentro de su competencia, elevará el procedimiento, con su propuesta, a la que sea competente.
 
-7. Las resoluciones en que se impongan sanciones de suspensión, traslado forzoso y separación sólo serán ejecutorias cuando hubieren ganado firmeza.
+5. Podrán las autoridades competentes devolver el expediente al instructor delegado para que comprenda otros hechos en el pliego de cargos, complete la instrucción o someta al interesado una propuesta de resolución que incluya una calificación jurídica de mayor gravedad.
+
+6. La duración del procedimiento sancionador no excederá de seis meses. Cuando, por razones excepcionales, se prolongase por mayor plazo, el instructor delegado deberá dar cuenta cada diez días del estado de su tramitación y de las circunstancias que impiden su conclusión a la autoridad que hubiere mandado proceder.
+
+7. La resolución que ponga término al procedimiento disciplinario será motivada y en ella no se podrán contemplar hechos distintos de los que sirvieron de base a la propuesta de resolución, sin perjuicio de su distinta valoración jurídica siempre que no sea de mayor gravedad.
+
+8. La resolución que recaiga deberá ser notificada al interesado y al Ministerio Fiscal, quienes si el acuerdo procede de la Sala de Gobierno o de la Comisión Disciplinaria podrán interponer contra él recurso potestativo en vía administrativa, sin perjuicio de los que legalmente procedan en vía jurisdiccional. Asimismo se notificará al denunciante, si lo hubiere, quien únicamente podrá recurrir, en su caso, en vía contencioso-administrativa.
+
+Las asociaciones de Jueces y Magistrados estarán también legitimadas para interponer, en nombre de sus asociados, recurso contencioso-administrativo, siempre que se acredite la expresa autorización de éstos.
+
+9. La resolución sancionadora será ejecutiva cuando agote la vía administrativa, aún cuando se hubiere interpuesto recurso contencioso-administrativo, salvo que el Tribunal acuerde su suspensión.
+
+> Se modifica por el art. 7.11 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

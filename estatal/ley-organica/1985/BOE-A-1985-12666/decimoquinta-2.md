@@ -6,4 +6,6 @@
 
 3. Tendrán preferencia sobre los demás miembros de la Carrera Judicial para la provisión de plazas de especialistas en las Salas de lo Contencioso-Administrativo y de las plazas en los Juzgados especializados en dicho orden jurisdiccional en los términos previstos en los artículos 329-2 y 330-2.
 
-4. Los Magistrados de lo Contencioso-Administrativo por oposición procedentes de la Carrera Fiscal quedarán en la misma situación de excedencia voluntaria y sólo podrán ocupar plazas del orden jurisdiccional contencioso-administrativo.
+4. Los Magistrados de lo contencioso-administrativo por oposición procedentes de la Carrera Fiscal quedarán en la misma en situación de excedencia voluntaria.
+
+> Se modifica el apartado 4 por el art. 1.16 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

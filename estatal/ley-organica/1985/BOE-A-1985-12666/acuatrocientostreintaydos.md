@@ -1,5 +1,7 @@
-## Artículo cuatrocientos treinta y dos
+## Artículo 432.
 
-1. Los nombrados Jueces con carácter temporal quedarán sujetos, durante el tiempo en que desempeñaren dichos cargos, al estatuto jurídico de los miembros de la Carrera Judicial y tendrán derecho a percibir las remuneraciones que reglamentariamente se señalen dentro de las previsiones presupuestarias.
+1. Los nombrados Jueces con carácter temporal quedarán sujetos, durante el tiempo en que desempeñaren dichos cargos, al estatuto jurídico de los miembros de la Carrera Judicial y tendrán derecho a percibir las remuneraciones que reglamentariamente se señalen por el Gobierno dentro de las previsiones presupuestarias.
 
 2. Los nombramientos se harán por un año, que podrá prorrogarse por otro más, con arreglo al mismo procedimiento, salvo lo previsto en la letra e) del apartado 1 del artículo siguiente.
+
+> Se modifica el apartado 1 por el art. 4.15 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

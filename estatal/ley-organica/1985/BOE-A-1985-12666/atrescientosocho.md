@@ -1,3 +1,5 @@
 ## Artículo trescientos ocho
 
-En ningún caso podrá superar el curso del Centro de Estudios Judiciales un numero de aspirantes superior al de vacantes efectivamente existentes en la Carrera Judicial en el momento de finalizar aquel.
+El centro de selección y formación de Jueces y Magistrados en ningún caso podrá incluir en la lista de aspirantes aprobados un número que supere al de vacantes efectivamente existentes en el momento de la formalización de dicha relación.
+
+> Se modifica por el art. 1.8 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
