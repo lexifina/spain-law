@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Cambio de situación.
+
+1. Los militares de carrera que se encuentren en situaciones administrativas distintas de las reguladas en el presente Reglamento, y que no sean reserva, ni reserva activa, ni reserva transitoria, ni las derivadas de la Ley de 17 de julio de 1958 para el pase voluntario de Jefes y Oficiales del Ejército de Tierra al servicio de Organismos civiles, solicitarán su pase a las situaciones que correspondan en el plazo máximo de un mes a partir de la entrada en vigor de este Reglamento. Transcurrido dicho plazo, se procederá de oficio.
+
+2. Para solicitar el cambio los interesados cursarán sus peticiones al Mando o Jefatura de Personal del Ejército correspondiente o a la Dirección General de Personal para los Cuerpos comunes de las Fuerzas Armadas, adjuntando la justificación documentada prevista en este Reglamento para cada situación, procediendo dichos órganos a elevar a la Secretaría de Estado de Administración Militar, en el plazo máximo de tres meses, propuesta de resolución con informe razonado.
