@@ -1,0 +1,5 @@
+## Art. 1.
+
+1.1 La presente Reglamentación tiene por objeto definir, a efectos legales, qué se entiende por harinas y otros productos de la molienda del trigo para consumo humano y fijar, con carácter obligatorio, las normas de dichos productos, las condiciones técnicas y sanitarias que deben reunir las industrias que se dedican a la fabricación, preparación y/o mezcla de los mismos, así como las condiciones de higiene en la elaboración y envasado, en su caso, y establecer las condiciones a que se debe someter el almacenamiento y transporte de dichos productos. Será de aplicación, asimismo, a los productos importados.
+
+1.2 Esta Reglamentación obliga a aquellas personas naturales o jurídicas que en uso de las autorizaciones concedidas por los Organismos oficiales competentes dedican su actividad a la elaboración, envasado, circulación y comercio de las harinas, sémolas y otros productos de la molienda del trigo para consumo humano, así como a la preparación y mezcla de los productos contemplados en los puntos 3.20.07 a 3.20.15 del Código Alimentario Español, excepto el punto 3.20.11.
