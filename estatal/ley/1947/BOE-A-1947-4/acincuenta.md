@@ -29,3 +29,5 @@ Los miembros del Consejo Superior Bancario, excepto su Presidente; el representa
 Los acuerdos dentro del Consejo Superior Bancario se tomarán por mayoría de votos de sus miembros presentes, excepto el Presidente, que no tendrá voto.
 
 La adscripción de la Banca privada al Consejo Superior Bancario es obligatoria, incluso la de los Bancos extranjeros establecidos en España, los cuales, sin embargo, no tendrán voto en las elecciones para los cargos de dicho Consejo.
+
+> Véase en cuanto a la representación en el Consejo Superior Bancario el art. único de la Ley de 17 de julio de 1951. Ref. BOE-A-1951-7862.
