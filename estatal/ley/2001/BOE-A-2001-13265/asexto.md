@@ -1,0 +1,35 @@
+## Artículo sexto. Incentivos.
+
+1. Los contratos indefinidos iniciales, incluidos los fijos discontinuos, a tiempo completo o parcial, celebrados durante el período comprendido entre el 4 de marzo y el 31 de diciembre del año 2001, darán derecho, a partir de la fecha de la contratación, a las siguientes bonificaciones de la cuota empresarial a la Seguridad Social por contingencias comunes:
+
+a) Contratación de mujeres desempleadas entre dieciséis y cuarenta y cinco años: 25 por 100 durante el período de los veinticuatro meses siguientes al inicio de la vigencia del contrato.
+
+b) Contratación de mujeres para prestar servicios en profesiones y ocupaciones establecidas en la Orden ministerial de 16 de septiembre de 1998, para el fomento del empleo estable de mujeres en las profesiones y ocupaciones con menor índice de empleo femenino, que reúnan, además, el requisito de permanecer inscritas ininterrumpidamente en la oficina de empleo, por un período mínimo de seis meses, o bien sean mayores de cuarenta y cinco años: 70 por 100 durante el primer año de vigencia del contrato ; 60 por 100 durante el segundo año de vigencia del mismo. Si no reunieran alguno de los anteriores requisitos adicionales, la bonificación será del 35 por 100 durante el período de los veinticuatro meses siguientes al inicio de la vigencia del contrato.
+
+c) Contrataciones de desempleados inscritos ininterrumpidamente en la oficina de empleo durante un período mínimo de seis meses: 20 por 100 durante el período de los veinticuatro meses siguientes al inicio de la vigencia del contrato.
+
+d) Contrataciones de desempleados mayores de cuarenta y cinco años y hasta los cincuenta y cinco: 50 por 100 durante el primer año de vigencia del contrato ; 45 por 100 durante el resto de la vigencia del mismo.
+
+e) Contrataciones de desempleados mayores de cincuenta y cinco y hasta los sesenta y cinco años: 55 por 100 durante el primer año de vigencia del contrato ; 50 por 100 durante el resto de la vigencia del mismo.
+
+f) Contratación de perceptores de prestaciones o subsidios por desempleo, a los que les reste un año o más de percepción en el momento de la contratación:
+
+50 por 100 durante el primer año de vigencia del contrato ; 45 por 100 durante el segundo año de vigencia del mismo.
+
+g) Contrataciones de desempleados perceptores del subsidio por desempleo en favor de los trabajadores incluidos en el Régimen especial agrario de la Seguridad Social: 90 por 100 durante el primer año de vigencia del contrato ; 85 por 100 durante el segundo año de vigencia del mismo.
+
+h) Contratación de desempleados admitidos en el programa que contempla la ayuda específica denominada renta activa de inserción: 65 por 100 durante los veinticuatro meses siguientes al inicio de la vigencia del contrato.
+
+i) Contratación de mujeres desempleadas inscritas durante un período de doce o más meses en la oficina de empleo que sean contratadas en los veinticuatro meses siguientes a la fecha del parto: 100 por 100 durante los doce siguientes meses al inicio de la vigencia del contrato.
+
+2. La contratación indefinida a tiempo completo o parcial, incluida la contratación de trabajadores fijos discontinuos, que realice un trabajador autónomo de los referidos en el número 1.2 del artículo cuarto, con un trabajador desempleado dará lugar a la aplicación de las bonificaciones en la cuota empresarial a la Seguridad Social por contingencias comunes previstas en el número 1 de este artículo, con un incremento de cinco puntos respecto de lo previsto para cada caso, excepto en el supuesto del apartado i).
+
+3. Cuando las contrataciones previstas en las letras c), d), e), f) y h) del número 1 de este artículo se realicen a tiempo completo con mujeres desempleadas, las bonificaciones de cuotas se incrementarán en diez puntos. Dicho incremento también es de aplicación a las contrataciones a que se refiere el número anterior.
+
+4. Las empresas y entidades que contraten indefinidamente, incluida la contratación de trabajadores fijos discontinuos, o temporalmente, bien mediante contrataciones a tiempo completo o parcial, a trabajadores desempleados en situación de exclusión social, en los términos del número 1.3 del artículo cuarto, podrán aplicar una bonificación en la cuota empresarial a la Seguridad Social por contingencias comunes del 65 por 100, durante el resto de la vigencia del contrato, con un máximo de veinticuatro meses. Cuando un mismo trabajador celebre distintos contratos de trabajo, ya sea con una misma empresa o entidad, o con otra distinta, con o sin solución de continuidad, se aplicará igualmente el máximo de veinticuatro meses desde la fecha inicial del primer contrato.
+
+5. Las transformaciones en indefinidos, incluidas las que se acuerden a la modalidad de fijo discontinuo, que se realicen hasta el 31 de diciembre de 2001 de los contratos de duración determinada o temporales celebrados a tiempo completo o parcial con anterioridad a la entrada en vigor de esta norma, así como la de los contratos formativos, de relevo y de sustitución por anticipación de la edad de jubilación concertados, de acuerdo a lo dispuesto en su normativa reguladora, a tiempo completo o parcial, cualquiera que sea la fecha de su celebración, darán lugar a una bonificación del 25 por 100 durante el período de los veinticuatro meses siguientes al inicio de la vigencia del nuevo contrato.
+
+Darán derecho a la misma bonificación las transformaciones de contratos de prácticas y de relevo celebrados inicialmente a tiempo parcial, en indefinidos a tiempo parcial. En este supuesto la jornada del nuevo contrato indefinido será como mínimo igual a la del contrato de prácticas o de relevo que se transforma.
+
+6. Los contratos acogidos al presente programa de fomento del empleo estable se formalizarán en el modelo oficial que disponga el Instituto Nacional de Empleo.

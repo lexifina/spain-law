@@ -1,0 +1,7 @@
+## Disposición adicional novena.
+
+La contratación de personas en riesgo de exclusión en los supuestos a que se refiere el artículo 4.1.3 de la presente Ley podrá realizarse por empresas específicamente dedicadas a la promoción e inserción laboral de personas en situación de exclusión social, conforme a los números siguientes y a lo que reglamentariamente se determine.
+
+Se considerarán empresas de promoción e inserción laboral de personas en situación de exclusión social, cualquiera que sea su forma jurídica y actividad económica, aquéllas que dediquen habitualmente no menos del 30 por 100 de sus puestos de trabajo al empleo de personas que estén en alguno de los supuestos a los que se refiere el párrafo anterior, para formarles y adiestrarles en el ejercicio normalizado de una actividad laboral ; tendrán como fin primordial de su objeto social la plena integración laboral y el acceso al empleo ordinario de las indicadas personas. Dichas empresas podrán inscribirse voluntariamente en el registro público que a tal efecto se determine reglamentariamente.
+
+Las empresas de promoción e inserción laboral de personas en situación de exclusión social, además de acceder a las bonificaciones previstas en el artículo 6.4 de la presente Ley podrán desarrollar los programas que se determinen en colaboración con las Administraciones y entidades públicas con competencias en la inserción laboral de las personas en situación de exclusión social. Específicamente, los servicios públicos de empleo podrán establecer convenios con las empresas de inserción.

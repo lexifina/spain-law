@@ -1,0 +1,7 @@
+## Disposición adicional decimosexta.
+
+1. Los programas de mejora de la ocupabilidad de los demandantes de empleo a los que se refiere la letra d) del apartado 1 del artículo 15 del Estatuto de los Trabajadores son los que actualmente se regulan en la Orden ministerial de 19 de diciembre de 1997, por la que se establecen las bases reguladoras de la concesión de subvenciones públicas por el Instituto Nacional de Empleo, en el ámbito de la colaboración con órganos de la Administración General del Estado y sus organismos autónomos, Comunidades Autónomas, Universidades e instituciones sin ánimo de lucro, que contraten trabajadores desempleados para la realización de obras y servicios de interés general y social, y en la Orden ministerial de 26 de octubre de 1998, por la que se establecen las bases para la concesión de subvenciones por el Instituto Nacional de Empleo, en el ámbito de la colaboración con las corporaciones locales para la contratación de trabajadores desempleados en la realización de obras y servicios de interés general y social.
+
+2. El Ministro de Trabajo y Asuntos Sociales podrá modificar el contenido de los programas previstos en el apartado anterior, establecer nuevos programas públicos de mejora de la ocupabilidad o excepcionarlos, a efectos de lo dispuesto en la letra d) del apartado 1 del artículo 15 del Estatuto de los Trabajadores.
+
+> Se añade por la disposición adicional 5 de la Ley 12/2001, de 9 de julio. Ref. BOE-A-2001-13265.
