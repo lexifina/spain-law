@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+Sin perjuicio de lo dispuesto en el artículo cuarto, podrán integrarse en el Cuerpo Especial de Gestión de la Hacienda Pública los funcionarios pertenecientes a los Cuerpos de Contadores del Estado y Administrativo de Aduanas, y los que ingresen en las oposiciones actualmente convocadas a dichos Cuerpos, en las condiciones que reglamentariamente se establezcan y previa superación de las pruebas selectivas y de formación que determine el Ministerio de Hacienda. A tal efecto, deberán solicitarlo en el plazo de tres meses a partir de la publicación del presente Real Decreto-ley, o de la fecha en que sean designados funcionarios por haber finalizado las oposiciones en curso.
