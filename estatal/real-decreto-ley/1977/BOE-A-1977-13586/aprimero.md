@@ -1,0 +1,7 @@
+## Artículo primero.
+
+Uno. La sindicación que con carácter obligatorio se establece para empresarios, técnicos y trabajadores, en la Ley dos/mil novecientos setenta y uno, de diecisiete de febrero, en relación con el Decreto ciento diecisiete/mil novecientos setenta y tres, de uno de febrero, así como el pago de la exacción parafiscal a que se refiere el artículo quinto del Real Decreto-ley diecinueve/mil novecientos setenta y seis, de ocho de octubre, sobre creación, organización y funciones de la Administración Institucional de Servicios Socio-Profesionales, quedará sin efecto a partir de uno de julio de mil novecientos setenta y siete.
+
+Dos. Al Organismo autónomo «Administración Institucional de Servicios Socio- Profesionales», le será aplicable en lo sucesivo, íntegramente, la Ley General Presupuestaria, de cuatro de enero de mil novecientos setenta y siete; la Ley de Entidades Estatales Autónomas, de veintiséis de diciembre de mil novecientos cincuenta y ocho, y demás normas concordantes, no siéndole por tanto de aplicación la exención establecida en el artículo quinto de la segunda de las disposiciones citadas.
+
+Tres. Los recursos necesarios para el cumplimiento de los fines que el artículo tercero del Real Decreto-ley diecinueve/mil novecientos setenta y seis atribuye a la Administración Institucional de Servicios Socio-Profesionales serán garantizados por el Estado mediante las oportunas consignaciones presupuestarias.
