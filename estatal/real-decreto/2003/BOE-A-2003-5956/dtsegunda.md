@@ -1,3 +1,5 @@
 ## Disposición transitoria segunda. Limitaciones de las cuotas asignadas procedentes de la reserva nacional.
 
-A las cantidades procedentes de la reserva nacional asignadas con anterioridad a la entrada en vigor de este real decreto les será de aplicación lo establecido en el artículo 22.5.
+(Suprimida)
+
+> Se suprime por el art. 2.12 del Real Decreto 313/2005, de 18 de marzo. Ref. BOE-A-2005-4577.
