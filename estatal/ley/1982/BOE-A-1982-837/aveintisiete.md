@@ -1,0 +1,5 @@
+## Artículo veintisiete
+
+Uno. El Fiscal que recibiere una orden o instrucción que considere contraria a las leyes o que, por cualquier otro motivo estime improcedente, se lo hará saber así, mediante informe razonado, a su Fiscal Jefe. De proceder la orden o instrucción de éste, si no considera satisfactorias las razones alegadas, planteará la cuestión a la Junta de fiscalía y, una vez que ésta se manifieste, resolverá definitivamente reconsiderándola o ratificándola. De proceder de un superior, elevará informe a éste, el cual, de no admitir las razones alegadas, resolverá de igual manera oyendo previamente a la Junta de Fiscalía. Si la orden fuere dada por el Fiscal General del Estado, éste resolverá oyendo a la Junta de Fiscales de Sala.
+
+Dos. Si el superior se ratificase en sus instrucciones lo hará por escrito razonado con la expresa relevación de las responsabilidades que pudieran derivarse de su cumplimiento o bien encomendará a otro Fiscal el despacho del asunto a que se refiera.

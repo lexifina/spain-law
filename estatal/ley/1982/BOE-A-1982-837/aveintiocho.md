@@ -1,0 +1,3 @@
+## Artículo veintiocho
+
+Los miembros del Ministerio Fiscal no podrán ser recusados. Se abstendrán de intervenir en los pleitos o causas cuando les afecten algunas de las causas de abstención establecidas para los Jueces y Magistrados en la Ley Orgánica del Poder Judicial, en cuanto les sean de aplicación. Las partes intervinientes en los referidos pleitos o causas podrán acudir al superior jerárquico del Fiscal de que se trate interesando que, en los referidos supuestos, se ordene su no intervención en el preso. Cuando se trate del Fiscal General del Estado resolverá el Ministro de Justicia. Contra las decisiones anteriores no cabrá recurso alguno.
