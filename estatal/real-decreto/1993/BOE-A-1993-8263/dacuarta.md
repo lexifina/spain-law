@@ -1,3 +1,5 @@
 ## Disposición adicional cuarta.
 
-Las autoridades competentes suministrarán a los expertos de la Comisión la ayuda necesaria en los controles de calidad y mejora de las zonas de producción que efectúen «in situ».
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. Ref. BOE-A-1999-8185#ddunica.

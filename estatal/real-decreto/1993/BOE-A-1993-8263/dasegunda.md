@@ -1,3 +1,5 @@
 ## Disposición adicional segunda.
 
-La autoridad competente velará para que por parte de los productores, así como de cualquier otra persona que intervenga en el proceso de producción y recolección, se adopten las medidas necesarias para el cumplimiento de las normas dispuestas en el presente Real Decreto.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 571/1999, de 9 de abril. Ref. BOE-A-1999-8185#ddunica.
