@@ -1,0 +1,1 @@
+Tres.– En el caso de que actúe un representante del obtentor o su causahabiente, deberá acompañarse documento legalizado de acreditación, con autorización expresa para presentar la solicitud. Cuando se trate de solicitantes extranjeros, no comunitarios, la actuación de un representante será necesaria.

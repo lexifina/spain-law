@@ -1,0 +1,1 @@
+Trece.– El hecho de que una variedad aparezca incluida en la Lista de Variedades Comerciales correspondiente, significará, a todos los efectos, que ha sido inscrita en el Registro de Variedades Comerciales.

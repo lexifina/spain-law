@@ -1,0 +1,1 @@
+Once.– El solicitante de la inscripción de una variedad en el Registro de Variedades Comerciales podrá, previa petición y oída la Comisión Nacional de Estimación, obtener, si procede, la inscripción provisional de una variedad, cuyo período de vigencia, condiciones de concesión será determinado por el Instituto, oída la mencionada Comisión.
