@@ -16,11 +16,13 @@ f) Aprobar a propuesta de la Administración del Estado o de las Administracione
 
 g) Resolver las quejas, reclamaciones y recursos que se le dirijan de acuerdo con la presente Ley o con cualquier otra disposición que le atribuya esa competencia.
 
-h) Ejercer potestad disciplinaria sobre todas las personas que intervengan con carácter oficial en las operaciones electorales.
+h) Velar por el cumplimiento de las normas relativas a las cuentas y a los gastos electorales por parte de las candidaturas durante el período comprendido entre la convocatoria y el centésimo día posterior al de celebración de las elecciones.
 
-i) Corregir las infracciones que se produzcan en el proceso electoral siempre que no sean constitutivas de delito e imponer multas hasta la cuantía máxima prevista en esta Ley.
+i) Ejercer potestad disciplinaria sobre todas las personas que intervengan con carácter oficial en las operaciones electorales.
 
-j) Expedir las credenciales a los Diputados, Senadores, Concejales, Diputados Provinciales y Consejeros Insulares en caso de vacante por fallecimiento, incapacidad o renuncia, una vez finalizado el mandato de las Juntas Electorales Provinciales y de Zona.
+j) Corregir las infracciones que se produzcan en el proceso electoral siempre que no sean constitutivas de delito e imponer multas hasta la cuantía máxima prevista en esta Ley.
+
+k) Expedir las credenciales a los Diputados, Senadores, Concejales, Diputados Provinciales y Consejeros Insulares en caso de vacante por fallecimiento, incapacidad o renuncia, una vez finalizado el mandato de las Juntas Electorales Provinciales y de Zona.
 
 2. Además de las competencias expresamente mencionadas en esta Ley, corresponden, dentro de su ámbito territorial, a las Juntas Provinciales y de Zona las atribuidas a la Junta Electoral Central por los párrafos g), h) e i) del número anterior. La competencia en materia de imposición de multas se entiende limitada a la cuantía máxima de cien mil pesetas para las Juntas Provinciales y de cincuenta mil pesetas para las de Zona.
 
@@ -37,5 +39,7 @@ d) Unificar los criterios interpretativos de las Juntas Electorales de Zona en c
 4. La Junta Electoral de Zona garantizará la existencia en cada Mesa electoral de los medios a que se refiere el artículo 81 de esta Ley.
 
 5. En caso de impago de las multas a que se refiere el presente artículo, la Junta Electoral correspondiente remitirá al órgano competente del Ministerio de Economía y Hacienda certificación del descubierto para exacción de la multa por la vía de apremio.
+
+> Se modifica el apartado 1 por el art. 7.1 de la Ley Orgánica 13/1994, de 30 de marzo. Ref. BOE-A-1994-7420.
 
 > Se modifica por el art. único .8 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
