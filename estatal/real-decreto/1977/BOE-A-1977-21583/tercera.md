@@ -1,0 +1,7 @@
+## Disposición transitoria tercera.
+
+A partir de la entrada en vigor del presente Real Decreto los Vocales de los Consejos de Administración de las Cajas de Ahorros que no resultasen afectados por las limitaciones e incompatibilidades establecidas en el mismo permanecerán en el ejercicio de sus cargos hasta el final de su actual mandato y sin perjuicio de las reelecciones que procedan una vez constituida la Asamblea General y conforme a lo prevenido en el artículo diez de la presente disposición, con excepción en todo caso de los Vocales nombrados en virtud de lo establecido en el artículo primero, dos, del Decreto setecientos ochenta y seis/mil novecientos setenta y cinco, de tres de abril, que cesarán al procederse al nombramiento de los Vocales representantes del personal.
+
+En tanto no se haya producido la constitución de la Asamblea General, el gobierno, representación y administración de las Cajas de Ahorros seguirán atribuidos a sus actuales órganos de gestión quienes, en consecuencia, adoptarán los acuerdos necesarios para la debida ejecución y cumplimiento de las normas contenidas en el presente Real Decreto.
+
+Los miembros de los Consejos de Administración cuyos mandatos finalicen después de la entrada en vigor de la presente disposición y antes de la constitución de la Asamblea General, continuarán en el ejercicio de sus funciones hasta que por esta se proceda a la elección o reelección de los Vocales correspondientes.
