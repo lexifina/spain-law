@@ -1398,6 +1398,8 @@ OFICO entregará las cantidades recaudadas, por este concepto a la oficina de Co
 
 Las condiciones de aplicación y entrega de estas cuotas así como las de cualquier otra que pudiera establecerse en el futuro, serán iguales a las vigentes para la de participación propia de OFICO.
 
+> Téngase en cuenta que el punto primero se deroga en cuanto a las empresas distribuidoras no sujetas al Real Decreto 1538/1987, de 11 de diciembre. Ref. BOE-A-1987-27929. por la disposición derogatoria única de la Orden de 27 de diciembre de 1996. Ref. BOE-A-1996-29021.
+
 ## Segundo. Clasificación de las empresas eléctricas.
 
 A efectos de la entrega a OFICO de las cuotas a que se refiere el presente Título, las empresas eléctricas se clasifican en los grupos siguientes:
@@ -1493,3 +1495,5 @@ Los cambios de titularidad de las empresas acogidas al SIFE se solicitarán a la
 Las empresas no acogidas al SIFE, podrán solicitar a la Dirección General de la Energía, individualmente, la revisión de sus tarifas, acompañando esta solicitud del detalle de su facturación en el año anterior, clasificada por tarifas, y de los comprobantes y documentación que al efecto se requiera. Esta revisión no será de aplicación a sus abonados antes de la fecha de entrada en vigor de las nuevas tarifas, que señale la Dirección General de la Energía en la resolución que apruebe las mismas.
 
 El aumento medio de los precios de la energía eléctrica que, en su caso, suponga la revisión contemplada en el presente apartado, se distribuirá de modo que se tienda a aproximar los precios de tarifa a los netos del SIFE, una vez descontados de ellos los recargos y cuotas obligatorios.
+
+> Se deroga el punto 1 del capítulo V, en cuanto a las empresas distribuidoras no sujetas al Real Decreto 1538/1987, de 11 de diciembre. Ref. BOE-A-1987-27929. por la disposición derogatoria única de la Orden de 27 de diciembre de 1996. Ref. BOE-A-1996-29021.
