@@ -2,18 +2,16 @@
 
 ## Tabla de niveles de crucero
 
-Los niveles de crucero que han de observarse cuando así lo exija este reglamento, son los siguientes (1):
+Los niveles de crucero que han de observarse cuando así lo exija este Reglamento son los siguientes (1):
 
-Derrota (2)
-
-De 000° a 179° (3)
-
+| Derrota (2) |
+| --- |
+| De 000º a 179º (3) |
 | Vuelos OIFR | Vuelos OVFR |
-| --- | --- |
 | Nivel de vuelo | Altitud | Nivel de vuelo | Altitud |
 | Metros | Pies | Metros | Pies |
-| 0 | – | – | – | – | – |
-| 10 | 300 | 1.000 | – | – | – |
+| 0 | - | - | - | - | - |
+| 10 | 300 | 1.000 | - | - | - |
 | 30 | 900 | 3.000 | 35 | 1.050 | 3.500 |
 | 50 | 1.500 | 5.000 | 55 | 1.700 | 5.500 |
 | 70 | 2.150 | 7.000 | 75 | 2.300 | 7.500 |
@@ -34,17 +32,13 @@ De 000° a 179° (3)
 | 450 | 13.700 | 45.000 | 460 | 14.000 | 46.000 |
 | 490 | 14.950 | 49.000 | 500 | 15.250 | 50.000 |
 | etc. | etc. | etc. | etc. | etc. | etc. |
-
-Derrota (2)
-
-De 180° a 359°(3)
-
+| De 180º a 359º (3) |
+| --- |
 | Vuelos OIFR | Vuelos OVFR |
-| --- | --- |
 | Nivel de vuelo | Altitud | Nivel de vuelo | Altitud |
-| Metros | Pies | metros | Pies |
-| 0 | – | – | – | – | – |
-| 20 | 600 | 2.000 | – | – | – |
+| Metros | Pies | Metros | Pies |
+| 0 | - | - | - | - | - |
+| 20 | 600 | 2.000 | - | - | - |
 | 40 | 1.200 | 4.000 | 45 | 1.350 | 4.500 |
 | 60 | 1.850 | 6.000 | 65 | 2.000 | 6.500 |
 | 80 | 2.450 | 8.000 | 85 | 2.600 | 8.500 |
@@ -68,6 +62,10 @@ De 180° a 359°(3)
 
 (1) Excepto cuando, en virtud de acuerdos regionales de navegación aérea, se prescriba una tabla modificada de niveles de crucero, basada en una separación vertical nominal mínima inferior a 600 m (2.000 pies) pero no a 300 m (1.000 pies), para ser utilizada, en condiciones especificadas, por aeronaves que vuelen por encima del nivel de vuelo 290 dentro de sectores determinados del espacio aéreo.
 
-(2) Derrota magnética.
+(2) Derrota magnética o en zonas polares a latitudes de más de 70 grados y dentro de las prolongaciones de esas zonas que puedan prescribir las autoridades ATS competentes, derrotas de cuadrícula, según determine una red de líneas paralelas al Meridiano de Greenwich superpuesta a una carta estereográfica polar, en la cual la dirección hacia el Polo Norte se emplea como Norte de cuadrícula.
 
-(3) Excepto cuando en virtud de acuerdos regionales de navegación aérea se prescriba que de 090 a 269 y de 270 a 089 se destinen a atender las direcciones predominantes del tránsito y se especifiquen los correspondientes procedimientos de transición apropiados.
+(3) Excepto cuando en virtud de acuerdos regionales de navegación aérea se prescriba que de 090º a 269º y de 270º a 089º se destinen a atender las direcciones predominantes del tránsito y se especifiquen los correspondientes procedimientos de transición aprobados.
+
+(4) Por encima de FL 200 se observarán niveles de vuelo OIFR.
+
+> Se modifica por el art. 2 y Anexo II de la Orden de 16 de enero de 1998. Ref. BOE-A-1998-1260.
