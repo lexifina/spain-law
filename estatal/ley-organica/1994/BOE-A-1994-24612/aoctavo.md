@@ -79,3 +79,5 @@ Cuatro. El apartado 1 del artículo 272 de la Ley Orgánica 6/1985, de 1 de juli
 Cinco. Se añade un apartado 4 al artículo 272 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, con la siguiente redacción:
 
 «4. El Ministerio de Justicia, oído el Consejo General del Poder Judicial, determinará su estructura, plantillas y, en su caso, el horario y la jornada de trabajo especiales cuando los señalados con carácter general no permitan el adecuado funcionamiento de tales servicios.»
+
+> De declara que el apartado 3 no es inconstitucional interpretado en el sentido indicado en el fundamento jurídico 12 de la Sentencia 105/2000, de 13 de abril. Ref. BOE-T-2000-9230.

@@ -61,3 +61,5 @@ Tres. El actual apartado 2 del artículo 139 pasa a ser apartado 3.
 Cuatro. El apartado 2 de la disposición adicional primera queda redactado de la forma siguiente:
 
 «2. El Gobierno o, en su caso, las Comunidades Autónomas con competencias en la materia, aprobarán los reglamentos que exija el desarrollo de la presente Ley Orgánica, salvo cuando la competencia para ello corresponda al Consejo General del Poder Judicial a tenor de lo que dispone el artículo 110. Cuando afecten a condiciones accesorias para el ejercicio de los derechos y deberes de los Jueces y Magistrados estarán sujetos a los mismos límites y condiciones establecidos para el Consejo General del Poder Judicial.»
+
+> De declara que el apartado 4 no es inconstitucional interpretado en el sentido indicado en el fundamento jurídico 10 de la Sentencia 105/2000, de 13 de abril. Ref. BOE-T-2000-9230.
