@@ -1,0 +1,9 @@
+El desarrollo del principio de colaboración entre el Estado y las Comunidades Autónomas ha venido teniendo su expresión, entre otras facetas, en la suscripción de convenios entre tales instancias, con una importancia creciente en estos ultimos años.
+
+Con el fin de asegurar que por parte de la Administración del Estado se utilice este tipo de instrumento de colaboración, tanto de forma ajustada a pautas de actuación sistemática y homogénea como coherente con los demás instrumentos de la política autonómica del Gobierno, se han establecido por este ciertas reglas sobre la suscripción de convenios. En un primer momento a través del Acuerdo sobre la materia adoptado por la Comisión Delegada del Gobierno para Política Autonómica en su reunión de 13 de septiembre de 1984, y posteriormente mediante un nuevo Acuerdo de dicha Comisión, adoptado en su reunión de 18 de junio de 1985, que sustituyo al anterior y que es el que establece las reglas actualmente vigentes.
+
+La experiencia adquirida desde entonces aconseja proceder a un nuevo tratamiento de esta cuestión en el que, partiendo del régimen actual de autorización previa de la suscripción de convenios por la Comisión Delegada, se perfeccione tanto la delimitación subjetiva y objetiva de la exigencia de tal autorización, con el objetivo de flexibilizarla, como los aspectos formales y procedimentales relacionados con la suscripción de convenios y el seguimiento de los mismos.
+
+Por otro lado, y con la finalidad de que las nuevas reglas sean conocidas y alcancen al conjunto de la Administración del Estado, se ha estimado oportuno incorporarlas en un Acuerdo del Consejo de Ministros, superando así las limitaciones del sistema empleado con anterioridad.
+
+Por todo ello, una vez sometido a la Comisión Delegada del Gobierno para Política Autonómica, en su reunión de 14 de febrero de 1990, se adopta, a propuesta del Ministro para las Administraciones Públicas, el siguiente acuerdo:
