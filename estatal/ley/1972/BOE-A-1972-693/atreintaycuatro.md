@@ -1,3 +1,5 @@
 ## Artículo treinta y cuatro.
 
-Resuelto el contrato, se procederá a la liquidación de la concesión en las condiciones que se especifiquen en los pliegas de la misma.
+(Derogado)
+
+> Se deroga por la disposición adicional única.b) de la Ley 13/2003, de 23 de mayo. Ref. BOE-A-2003-10463

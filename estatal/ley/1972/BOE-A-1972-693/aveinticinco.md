@@ -4,19 +4,13 @@
 
 Cuando la ampliación consista en el aumento del número de carriles de las calzadas, para conseguir la mejor prestación del servicio público o para mejorar el sistema de comunicaciones del corredor afectado, podrá acordarse por convenio con el concesionario, en el que se establecerán aquellos aspectos del régimen concesional que sean objeto de modificación.
 
-2. Excepcionalmente, cuando sea necesario para conseguir la mejor prestación del servicio público o para mejorar el sistema de comunicaciones del corredor afectado, la ampliación podrá consistir en la prolongación continua o funcional de la autopista, en virtud de un convenio con el concesionario, en el que se establecerán aquellos aspectos del régimen concesional que sean objeto de modificación.
-
-En este supuesto, deberán concurrir conjuntamente los siguientes requisitos:
-
-a) (Suprimida)
-
-b) Que las obras a realizar deban ser consideradas como subordinadas de las comprendidas inicialmente en la concesión.
-
-c) Que se garantice que las obras de la ampliación sean adjudicadas mediante concurso abierto.
+2. (Derogado)
 
 3. Corresponderá en todo caso al Gobierno, a propuesta del Ministerio de Fomento, aprobar la ampliación, previo dictamen del Consejo de Estado.
 
 En el supuesto del artículo 25.2, el dictamen del Consejo de Estado, que deberá pronunciarse expresamente sobre la concurrencia de todos los requisitos exigidos por dicho precepto, tendrá carácter vinculante.
+
+> Se deroga el apartado 2 por la disposición adicional única.b) de la Ley 13/2003, de 23 de mayo. Ref. BOE-A-2003-10463
 
 > Se suprime el apartado 2.a) y se modifica el párrafo segundo del apartado 1 por las disposiciones adicionales 51 y 55 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
 

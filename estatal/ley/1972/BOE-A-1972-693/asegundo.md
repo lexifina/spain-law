@@ -1,8 +1,8 @@
 ## Artículo segundo.
 
-1. Las concesiones a que se refiere el artículo anterior se regirán por lo dispuesto en esta Ley y, supletoriamente, por la legislación de Contratos de las Administraciones Públicas.
+Las concesiones a las que hace referencia el artículo anterior se regirán por lo previsto para el contrato de concesión de obras públicas en la Ley de Contratos de las Administraciones Públicas en los términos previstos en su artículo 7, y por lo previsto en esta ley.
 
-2. La Administración concedente podrá opcionalmente aplicar el régimen previsto en el apartado anterior a las concesiones administrativas de túneles, puentes u otras vías de peaje de acuerdo con sus características y peculiaridades.
+> Se modifica por la disposición adicional 8.1 de la Ley 13/2003, de 23 de mayo. Ref. BOE-A-2003-10463
 
 > Se modifica el apartado 1 por la disposición adicional 57 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
 

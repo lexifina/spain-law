@@ -1,0 +1,3 @@
+## Disposición adicional decimotercera. Garantía de accesibilidad para personas con discapacidad y personas mayores.
+
+Las obras públicas que se construyan mediante contrato de concesión, incluidas las zonas complementarias de explotación comercial a las que se refiere el artículo 223 de la Ley de Contratos de las Administraciones Públicas, observarán las disposiciones normativas que resulten de aplicación en materia de eliminación de barreras y promoción de la accesibilidad, de modo que se asegure su uso en condiciones de comodidad y seguridad por parte de las personas con discapacidad y personas mayores que tengan problemas de movilidad o comunicación.

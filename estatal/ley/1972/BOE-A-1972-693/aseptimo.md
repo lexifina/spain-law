@@ -1,3 +1,5 @@
 ## Artículo séptimo.
 
-La concesión para la construcción de las obras e instalaciones y la sucesiva gestión del servicio se otorgará por Decreto acordado en Consejo de Ministros, a propuesta del de Obras Públicas, previo concurso, salvo en los supuestos a que se refiere el número cinco del artículo sesenta y nueve de la Ley de Contratos del Estado, en cuyos casos podrá, acordarse la contratación directa.
+(Derogado)
+
+> Se deroga por la disposición adicional única.b) de la Ley 13/2003, de 23 de mayo. Ref. BOE-A-2003-10463
