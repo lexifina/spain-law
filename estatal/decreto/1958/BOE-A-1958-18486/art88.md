@@ -1,9 +1,5 @@
 ## Art. 88.
 
-La legalización, a efectos del Registro, se hará:
+A salvo lo dispuesto en los Tratados internacionales, requieren legalización los documentos expedidos por funcionario extranjero y los expedidos en campaña o en el curso de un viaje marítimo o aéreo.
 
-1.º Tratándose de documentos civiles, expedidos en España, a elección del interesado, por el Juzgado de Primera Instancia del partido de que el documento proceda o por legitimación y, en su caso, legalización notarial.
-
-2.º Si son expedidos por Cónsules, por el Ministerio de Asuntos Exteriores.
-
-3.º Siendo documentos extranjeros, por el Cónsul español del lugar en que se expidan o por el Cónsul del país en España, y la firma de uno u otro se legalizará, por el Ministerio de Asuntos Exteriores.
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. Ref. BOE-A-1986-24861.

@@ -1,3 +1,7 @@
 ## Art. 90.
 
-Dentro de los tres días hábiles siguientes a la petición de legalización, se practicará ésta, en el propio documento, o se acordará lo procedente; si se duda de la autenticidad, se remitirá directamente el documento a la Autoridad o funcionario que corresponda, para que, dentro de tres días hábiles, diligencias en él su conformidad o manifieste, en pliego separado, las razones que se opongan a ella, y después devuelva directamente el documento con dicho pliego.
+La legalización, a efectos del Registro, se hará, tratándose de documentos extranjeros, por el Cónsul español del lugar en que se expidan o por el Cónsul del país en España.
+
+Si se trata de documentos expedidos en campaña o en el curso de un viaje marítimo o aéreo, la legalización se practicará, a estos efectos, por el Subsecretario del Ministerio correspondiente, sin perjuicio de la competencia atribuida al Cuerpo Militar de Intervención de la Defensa.
+
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. Ref. BOE-A-1986-24861.

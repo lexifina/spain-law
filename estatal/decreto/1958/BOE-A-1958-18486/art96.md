@@ -1,5 +1,5 @@
 ## Art. 96.
 
-Los órganos del Registro prestarán al eclesiástico el auxilio solicitado.
+Los órganos del Registro prestarán auxilio a los Registros extranjeros, en régimen de reciprocidad.
 
-Si eclesiásticamente se deniega el auxilio al civil, o se obstaculiza la actuación de su Encargado, el Juez de Primera Instancia, debidamente informado, elevará exposición al Presidente de la Audiencia Territorial, quien pondrá los hechos en conocimiento del Ordinario.
+> Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. Ref. BOE-A-1986-24861.
