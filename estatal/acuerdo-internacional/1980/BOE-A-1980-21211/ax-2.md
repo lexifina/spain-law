@@ -1,0 +1,15 @@
+## Artículo XI. Intereses.
+
+1. Los intereses procedentes de un Estado Contratante y pagados a un residente del otro Estado Contratante pueden someterse a imposición en este otro Estado.
+
+2. Sin embargo, estos intereses pueden también someterse a imposición en el Estado Contratante del que procedan y de acuerdo con la legislación de este Estado, pero si el perceptor de los intereses es el beneficiario efectivo, el impuesto así exigido no puede exceder del 10 por 100 del importe de los intereses. Las Autoridades competentes de los Estados Contratantes establecerán de mutuo acuerdo la forma de aplicar este límite.
+
+3. No obstante las disposiciones del párrafo 2 anterior, los intereses de préstamos directamente concedidos o garantizados por un Estado Contratante sólo pueden someterse a imposición en este Estado.
+
+4. El término «intereses» empleado en el presente artículo comprende los rendimientos de créditos de cualquier naturaleza, con o sin garantías hipotecarias o cláusula de participación en los beneficios del deudor, y especialmente las rentas de fondos públicos y bonos u obligaciones, incluidos las primas y lotes unidos a estos títulos. Las penalizaciones por mora en el pago no se consideran como intereses a efectos del presente artículo.
+
+5. Las disposiciones de los párrafos 1 y 2 no se aplican si el beneficiario de los intereses, residente de un Estado Contratante, ejerce en el otro Estado Contratante del que proceden los intereses una actividad industrial o comercial a través de un establecimiento permanente allí situado, o presta servicios profesionales por medio de una base fija allí situada, con los que el crédito que genera los intereses esté vinculado efectivamente. En estos casos se aplicarán las disposiciones del artículo VII o del artículo XV, según proceda.
+
+6. Los intereses se consideran procedentes de un Estado Contratante cuando el deudor es el propio Estado, una subdivisión política, una subdivisión administrativa territorial, una colectividad local o un residente de este Estado. Sin embargo, cuando el deudor de los intereses sea o no residente de un Estado Contratante, tenga en un Estado Contratante un establecimiento permanente o una base fija en relación con los cuales se ha contraído la deuda que da origen al pago de los intereses y soporten la carga de los mismos, éstos se considerarán procedentes del Estado Contratante donde estén situados el establecimiento permanente o la base fija:
+
+7. Cuando, por razón de las relaciones especiales existentes entre el deudor y el acreedor o de las que uno y otro mantengan con terceras personas, el importe de los intereses pagados, habida cuenta del crédito por el que se paguen, exceda del que hubieran convenido el deudor y el acreedor en ausencia de tales relaciones, las disposiciones de este artículo no se aplican más que a este último importe. En este caso, el exceso podrá someterse a imposición de acuerdo con la legislación de cada Estado Contratante y teniendo en cuenta las demás disposiciones de este Convenio.
