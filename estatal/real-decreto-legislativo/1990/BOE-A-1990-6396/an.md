@@ -180,9 +180,23 @@ c) Constar de distintas calzadas para cada sentido de circulación, separadas en
 
 67. Detención: Inmovilización de un vehículo por emergencia, por necesidades de la circulación o para cumplir algún precepto reglamentario.
 
-68. Parada: Inmovilización de un vehículo durante un tiempo inferior a dos minutos, para tomar o dejar personas o cargar o descargar cosas.
+68. Parada: inmovilización de un vehículo durante un tiempo inferior a dos minutos, sin que el conductor pueda abandonarlo.
 
 69. Estacionamiento: Inmovilización de un vehículo que no se encuentra en situación de detención o de parada.
+
+70. Vía ciclista: vía específicamente acondicionada para el tráfico de ciclos, con la señalización horizontal y vertical correspondiente, y cuyo ancho permite el paso seguro de estos vehículos.
+
+71. Carril-bici: vía ciclista que discurre adosada a la calzada, en un solo sentido o en doble sentido.
+
+72. Carril-bici protegido: carril-bici provisto de elementos laterales que lo separan físicamente del resto de la calzada, así como de la acera.
+
+73. Acera-bici: vía ciclista señalizada sobre la acera.
+
+74. Pista-bici: vía ciclista segregada del tráfico motorizado, con trazado independiente de las carreteras.
+
+75. Senda ciclable: vía para peatones y ciclos, segregada del tráfico motorizado, y que discurre por espacios abiertos, parques, jardines o bosques.
+
+> Se modifica el apartado 68 y se añaden los apartados 70 al 75 por el art. único.40 de la Ley 19/2001, de 19 de diciembre. Ref. BOE-A-2001-24173
 
 > Se modifica el apartado 7 por el art. 7 de la Ley 43/1999, de 25 de noviembre. Ref. BOE-A-1999-22671
 
