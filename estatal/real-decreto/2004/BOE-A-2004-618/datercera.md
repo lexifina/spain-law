@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Coordinación entre la Administración General del Estado y las Administraciones de las Ciudades de Ceuta y Melilla.
+
+En el ámbito del Instituto Nacional de Gestión Sanitaria, y al objeto de conseguir un funcionamiento integral de los servicios sanitarios, la Administración General del Estado podrá celebrar con las Ciudades de Ceuta y Melilla acuerdos y convenios, de conformidad con lo establecido en el artículo 48 y en la disposición transitoria tercera.3 de la Ley 14/1986, de 25 de abril, General de Sanidad, y en el artículo 6 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+A tal fin, las Direcciones Territoriales del Instituto Nacional de Gestión Sanitaria y, en su caso, los Delegados del Gobierno formularán propuestas para la coordinación de la asistencia sanitaria con las Ciudades de Ceuta y Melilla, correspondiéndoles el control y el seguimiento de los acuerdos que se adopten sobre esta materia en el ámbito de su competencia, en los términos que se contemplen en tales acuerdos.

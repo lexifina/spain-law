@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+A la entrada en vigor de este real decreto quedan derogados el Real Decreto 702/1998, de 24 de abril, sobre organización de los servicios territoriales del Instituto Nacional de la Salud y de modificación de la composición de los órganos de participación en el control y vigilancia de la gestión, el Real Decreto 1855/1979, de 30 de julio, por el que se regula la estructura y competencias del Instituto Nacional de la Salud, y el Real Decreto 347/1993, de 5 de marzo, sobre organización de los servicios territoriales del Instituto Nacional de la Salud, sin perjuicio de la vigencia transitoria de los apartados 2 y 3 del artículo 6, conforme a lo previsto en la disposición transitoria segunda de este real decreto.
