@@ -38,27 +38,7 @@ El número mínimo de posibles códigos será de 10.000 para los casos a) y e) y
 
 2.2 Condiciones generales requeridas
 
-2.2.1 Frecuencias utilizables.–Las bandas de frecuencias dúplex a utilizar son las de 31,025-31,325 MHz y 39,925-40,225 MHz. La banda de frecuencias 39,925-40,225 MHz será utilizada por la unidad portátil.
-
-La separación entre canales adyacentes es de 25 kHz y la separación transmisión-recepción es de 8,9 MHz, idéntica para los doce canalés.
-
-Los teléfonos sin cordón serán construidos de manera que se garantice por los fabricantes la utilización de todas las frecuencias dúplex siguientes:
-
-| Frecuencias de transmisión (MHz) | Número de radiocanal |
-| --- | --- |
-| Parte fija | Parte portátil |
-| 31,025 | 39,925 | 1 |
-| 31,050 | 39,950 | 2 |
-| 31,075 | 39,975 | 3 |
-| 31,100 | 40,000 | 4 |
-| 31,125 | 40,025 | 5 |
-| 31,150 | 40.050 | 6 |
-| 31,175 | 40.075 | 7 |
-| 31,200 | 40.100 | 8 |
-| 31,250 | 40.150 | 9 |
-| 31,275 | 40,175 | 10 |
-| 31.300 | 40.200 | 11 |
-| 31,325 | 40,225 | 12 |
+2.2.1 (Suprimido)
 
 2.2.2 Interacción con la red telefónica.–Los teléfonos sin cordón deben tener una interacción con la red telefónica, siempre que sea posible, como la de un teléfono convencional.
 
@@ -550,7 +530,7 @@ Se anota este valor de salida del generador como Y dB con relación a un microvo
 
 El nivel de señal de prueba se disminuye hasta obtener una relación S + R + D/R de 20 dB (para esta medida se aplica la modulación y después se corta).
 
-En estas condiciones, se anota el nivel de entrada Z dB con relación a un microvoltio por metro.
+En estas condiciones, se anota el nivel de entrada Z dB con relación a un microvoltio.
 
 La sensibilidad máxima útil, expresada como intensidad de campo, se indica por la expresión (X + (Z-Y) dB con relación a un microvoltio por metro.
 
@@ -612,7 +592,7 @@ La selectividad con respecto al canal adyacente vendrá dada por el menor de los
 
 Esta medida se repetirá con una señal interferente cuya frecuencia sea la del canal adyacente inferior. La expresión de la selectividad con relación al canal adyacente será el valor más bajo de las relaciones en dB del nivel de señal interferente respecto al nivel de la señal útil, obtenidos en los canales adyacentes superior e inferior.
 
-6.4.3 Límites.–La relación obtenida en la medida de la selectividad con relación al canal adyacente no debe ser superior a 40 dB.
+6.4.3 Límites.–La relación obtenida en la medida de la selectividad con relación al canal adyacente debe ser superior a 40 dB.
 
 6.5 Radiaciones parásitas
 
@@ -624,7 +604,7 @@ La radiación de toda componente parásita debe ser captada por la antena de med
 
 En cada frecuencia en que se reciba una emisión, equipo a probar se orientará de tal forma que el campo medido sea máximo y la potencia aparente radiada en cada componente se determinará por el método de sustitución.
 
-Las medidas se repetirán con la antena de medida polarizada en un plano perpendicular. La medida cubrirá el margen de 0,5 MHz a 1 GHz.
+Las medidas se repetirán con la antena de medida polarizada en un plano perpendicular. La medida cubrirá el margen de 30 MHz a 1 GHz.
 
 6.5.3 Límite.–La potencia radiada aparente de cualquier radiación parásita no debe ser superior a 4 nW hasta un GHz, tanto para el receptor de la parte fija como el de la parte portátil.
 
@@ -665,3 +645,5 @@ La tolerancia para las medidas que se citan a continuación serán:
 7.5.2 Humedad: ± 5 por 100.
 
 7.5.3 Tiempo: ± 10 por 100.
+
+> Se suprime el apartado 2.2.1 y se modifican los apartados 6.1.2.2, 6.4.3 y 6.5.2 por el art. 1.a), c), d) y e) de la Orden de 9 de julio de 1998. Ref. BOE-A-1998-17342.
