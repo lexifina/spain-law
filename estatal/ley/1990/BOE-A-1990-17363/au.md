@@ -1,0 +1,111 @@
+## Artículo único.
+
+Nueva redacción del Capítulo III de la Ley 9/1987, de 12 de junio.
+
+El Capítulo III de la Ley 9/1987, de 12 de junio, de Organos de representación, determinación de las condiciones de trabajo y participación del personal al servicio de las Administraciones Públicas, queda redactado de la siguiente forma:
+
+## «CAPITULO III
+
+## De la negociación colectiva y la participación en la determinación de las condiciones de trabajo
+
+Artículo 30.
+
+La negociación colectiva y la participación en la determinación de las condiciones de trabajo de los funcionarios públicos se efectuará mediante la capacidad representativa reconocida a las Organizaciones Sindicales en los artículos 6.3, c); 7.1 y 7.2 de la Ley Orgánica de Libertad Sindical y lo previsto en este Capítulo.
+
+A este efecto, se constituirán Mesas de negociación en las que estarán presentes los representantes de la Administración Pública correspondiente y las Organizaciones Sindicales más representativas a nivel estatal y de Comunidad Autónoma, así como los Sindicatos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal.
+
+Artículo 31.
+
+1. A los efectos del artículo anterior se constituirá una Mesa General de Negociación en el ámbito de la Administración del Estado, así como en cada una de las Comunidades Autónomas y Entidades Locales, que será competente para la determinación de las condiciones de trabajo de los funcionarios públicos del ámbito correspondiente.
+
+Constituida la Mesa General en la Administración del Estado, se constituirán Mesas sectoriales de negociación para la negociación colectiva y la determinación de las condiciones de trabajo en los sectores específicos que a continuación se relacionan:
+
+- Para el personal docente en los centros públicos no universitarios.
+
+- Para el personal de los servicios de Correos, Telégrafos y Caja Postal de Ahorros.
+
+- Para el personal al servicio de las Instituciones sanitarias públicas.
+
+- Para el personal al servicio de la Administración de Justicia.
+
+- Para el personal funcionario de las Universidades.
+
+- Para el personal de la Administración Central e Institucional y de las Entidades Gestoras de la Seguridad Social.
+
+Por decisión de la Mesa General podrán constituirse otras Mesas sectoriales, en atención al número y peculiaridades de sectores conciertos de funcionarios públicos.
+
+La competencia de las Mesas sectoriales se extenderá a los temas que no hayan sido objeto de decisión por parte de la Mesa General.
+
+2. En la Mesa General estarán presentes las Organizaciones Sindicales más representativas a nivel estatal y de Comunidad Autónoma, así como los Sindicatos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal.
+
+En las Mesas sectoriales, además de las Organizaciones señaladas en el párrafo anterior, que estarán en todo caso, estarán también presentes los Sindicatos que hayan obtenido en el correspondiente sector el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal.
+
+3. La Mesa General y las Mesas sectoriales de negociación se reunirán, al menos, una vez al año.
+
+Igualmente tendrán lugar reuniones por decisión de la Administración Pública correspondiente; por acuerdo entre ésta y las Organizaciones Sindicales presentes en la correspondiente Mesa, y por solicitud de todas las Organizaciones Sindicales presentes en la respectiva Mesa.
+
+Artículo 32.
+
+Serán objeto de negociación en su ámbito respectivo y en relación con las competencias de cada Administración Pública las materias siguientes:
+
+a) El incremento de retribuciones de los funcionarios y del personal estatutario de las Administraciones Públicas que proceda incluir en el Proyecto de Presupuestos Generales del Estado de cada año, así como el incremento de las demás retribuciones a establecer, para su respectivo personal, en los proyectos normativos correspondientes de ámbito autonómico y local.
+
+b) La determinación y aplicación de las retribuciones de los funcionarios públicos.
+
+c) La preparación y diseño de los planes de oferta de empleo público.
+
+d) La clasificación de puestos de trabajo.
+
+e) La determinación de los programas y fondos para la acción de promoción interna, formación y perfeccionamiento.
+
+f) La determinación de las prestaciones y pensiones de las clases pasivas y, en general, todas aquellas materias que afecten, de algún modo, a la mejora de las condiciones de vida de los funcionarios jubilados.
+
+g) Los sistemas de ingreso, provisión y promoción profesional de los funcionarios públicos.
+
+h) Las propuestas sobre derechos sindicales y de participación.
+
+i) Medidas sobre salud laboral.
+
+j) Todas aquellas materias que afecten, de algún modo, al acceso a la Función Pública, Carrera administrativa, retribuciones y Seguridad Social, o a las condiciones de trabajo de los funcionarios públicos y cuya regulación exija norma con rango de Ley.
+
+k) Las materias de índole económica, de prestación de servicio sindical, asistencial, y en general cuantas otras afecten a las condiciones de trabajo y al ámbito de relaciones de los funcionarios públicos y sus Organizaciones Sindicales con la Administración.
+
+Artículo 33.
+
+El proceso de negociación se abrirá, con carácter anual, en la fecha que en común acuerdo fijen el Gobierno u órganos de gobierno de las restantes Administraciones Públicas y los Sindicatos más representativos a nivel estatal y de Comunidad Autónoma, según lo dispuesto en los artículos 6 y 7 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, y comprenderá, de entre las materias relacionadas en el artículo anterior, las que ambas partes estimen oportuno.
+
+Artículo 34.
+
+1. Quedan excluidas de la obligatoriedad de la negociación, en su caso, las decisiones de las Administraciones Públicas que afecten a sus potestades de organización, al ejercicio del derecho de los ciudadanos ante los funcionarios públicos y al procedimiento de formación de los actos y disposiciones administrativos.
+
+2. Cuando las consecuencias de las decisiones de las Administraciones Públicas que afecten a sus potestades de organización puedan tener repercusión sobre las condiciones de trabajo de los funcionarios públicos, procederá la consulta a las Organizaciones Sindicales y Sindicatos a que hacen referencia los artículos 30 y 31.2 de la presente Ley.
+
+Artículo 35.
+
+Los representantes de la Administración del Estado, de las Comunidades Autónomas o de las Entidades Locales y de las Organizaciones Sindicales o Sindicatos a que hacen referencia los artículos 30 y 31.2 de la presente Ley podrán llegar a Acuerdos y Pactos para la determinación de las condiciones de trabajo de los funcionarios públicos.
+
+Los Pactos se celebrarán sobre materias que se correspondan estrictamente con el ámbito competencial del órgano administrativo que lo suscriba y vincularán directamente a las partes.
+
+Los Acuerdos versarán sobre materias competencia del Consejo de Ministros, Consejos de Gobierno de Comunidades Autónomas u órganos correspondientes de las Entidades Locales. Para su validez y eficacia será necesaria la aprobación expresa y formal de estos órganos en su ámbito respectivo.
+
+Los Pactos y Acuerdos deberán establecer las partes intervinientes y el plazo de vigencia, así como su ámbito personal, funcional y territorial.
+
+Por acuerdo de las partes, podrán establecerse comisiones de seguimiento de los Pactos y Acuerdos.
+
+Artículo 36.
+
+Los Acuerdos aprobados y los Pactos celebrados se remitirán a la oficina pública a que hace referencia la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, y serán de inmediato publicados en el "Boletín Oficial del Estado" o diarios oficiales correspondientes.
+
+Artículo 37.
+
+1. El Gobierno, los Consejos de Gobierno de las Comunidades Autónomas o el órgano correspondiente de las Entidades Locales podrán determinar, respectivamente, las instrucciones a que deberán atenerse sus representantes cuando proceda la negociación con la representación sindical establecida en este Capítulo.
+
+2. Corresponderá al Gobierno, en los términos del artículo 3.2, b), de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y a los órganos de gobierno de las demás Administraciones Públicas en sus respectivos ámbitos, establecer las condiciones de trabajo de los funcionarios públicos en los casos en que no se produzca acuerdo en su negociación o no se alcance la aprobación expresa y formal a que alude el artículo 35.
+
+Artículo 38.
+
+1. Las Administraciones Públicas y los Sindicatos a que se refieren los artículos 30 y 31.2 podrán nombrar de mutuo acuerdo un mediador o mediadores cuando no resulte posible llegar a acuerdo en la negociación o surjan conflictos en el cumplimiento de los Acuerdos o Pactos.
+
+2. La mediación se efectuará conforme al procedimiento que reglamentariamente se determine.
+
+3. Las propuestas del mediador y la oposición de las partes, en su caso, deberán hacerse públicas de inmediato.»
