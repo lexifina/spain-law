@@ -1,0 +1,3 @@
+## Disposición transitoria décima. Personal del Cuerpo de Mutilados de Guerra por la Patria procedente de la Guardia Civil.
+
+El personal procedente de la Guardia Civil incluido en la disposición final sexta de la Ley 17/1989, de 19 de julio, reguladora del Régimen del Personal Militar Profesional, tendrá los derechos reconocidos en la disposición transitoria decimoquinta de la Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, y quien lo solicite mantendrá una especial vinculación con el Instituto de la Guardia Civil, de acuerdo con lo determinado en el artículo 90 de esta Ley.
