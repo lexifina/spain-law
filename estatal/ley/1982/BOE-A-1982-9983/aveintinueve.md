@@ -1,0 +1,3 @@
+## Artículo veintinueve.
+
+Todos los hospitales, tanto infantiles como de rehabilitación, así como aquellos que tengan Servicios Pediátricos Permanentes, sean de la Administración del Estado, de los Organismos Autónomos de ella dependientes, de la Seguridad Social, de las Comunidades Autónomas y de las Corporaciones Locales, así como los hospitales privados, que regularmente ocupen cuando menos la mitad de sus camas, con enfermos cuya estancia y atención sanitaria sean abonadas con cargo a recursos públicos, tendrán que contar con una sección pedagógica para prevenir y evitar la marginación del proceso educativo de los alumnos en edad escolar internados en dichos hospitales.
