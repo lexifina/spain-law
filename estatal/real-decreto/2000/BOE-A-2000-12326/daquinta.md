@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Participación de las Comunidades Autónomas en los convenios de colaboración a suscribir con Administraciones locales.
+
+En los convenios de colaboración a suscribir con Administraciones locales u otras entidades, para la constitución, con recursos de éstas, de unidades de apoyo ante desastres, podrán participar las Comunidades Autónomas del correspondiente ámbito territorial. En tales casos, además de los elementos establecidos en el artículo 4 del presente Real Decreto, los convenios podrán contener todas aquellas previsiones que sean de interés para la movilización de las unidades, a requerimiento del órgano competente de la respectiva Comunidad Autónoma, para actuaciones dentro del ámbito territorial de ésta.
