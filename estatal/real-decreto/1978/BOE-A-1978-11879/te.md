@@ -1,3 +1,5 @@
 ## Tercera.
 
-Lo establecido en este Real Decreto será de aplicación a medida que, para cada clase o tipo de material o instrumental, se dé cumplimiento a lo previsto en el artículo tercero, a), siempre sin perjuicio de las facultades de suspensión o prohibición, a que se refiere el apartado e) del mismo artículo.
+(Derogada)
+
+> Se deroga por la disposición derogatoria 1.1 del Real Decreto 414/1996, de 1 de marzo. Ref. BOE-A-1996-9089.
