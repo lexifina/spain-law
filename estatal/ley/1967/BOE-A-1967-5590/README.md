@@ -193,6 +193,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo ciento treinta y cuatro](acientotreintaycuatro.md)
 - [Artículo ciento treinta y cinco](acientotreintaycinco.md)
 - [Artículo ciento treinta y seis](acientotreintayseis.md)
+- [Artículo ciento treinta y seis bis](acientotreintayseisbis.md)
 - [TÍTULO VII](tvii.md)
 - [Artículo ciento treinta y siete](acientotreintaysiete.md)
 - [Artículo ciento treinta y ocho](acientotreintayocho.md)
