@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Médicos forenses en régimen de dedicación normal.
+
+1. Desde la entrada en funcionamiento de los Institutos de Medicina Legal regulados en el artículo 18 del presente Reglamento, quedarán sin efecto las autorizaciones concedidas a los médicos forenses en régimen de dedicación normal para el desempeño de otro puesto en el sector público, al amparo de lo establecido en la disposición adicional primera del Real Decreto 1616/1989, de 29 de diciembre, por el que se establece la cuantía del complemento de destino de los funcionarios de los Cuerpos al servicio de la Administración de Justicia.
+
+2. Los funcionarios que, en virtud de la derogación de la citada disposición adicional, incurran en incompatibilidad por desempeño de más de un puesto de trabajo en el sector público, habrán de optar por uno de ellos en el momento de la toma de posesión del puesto obtenido en el concurso regulado en la disposición transitoria segunda de este Reglamento. A falta de opción, se estará a las previsiones contenidas en la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones públicas.

@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Puestos adscritos exclusivamente a funciones de Registro Civil.
+
+Las relaciones de puestos de trabajo de los Institutos de Medicina Legal reservarán los puestos adscritos exclusivamente a funciones de Registro Civil, en tanto se encuentren en situación de servicio activo los funcionarios procedentes del Cuerpo de Médicos del Registro Civil que no hayan realizado el curso de formación para su integración efectiva en el Cuerpo de Médicos Forenses, de conformidad con lo previsto en la Ley Orgánica 7/1992, de 20 de noviembre, y el Real Decreto 181/1993, de 9 de febrero, sobre integración de los médicos del Registro Civil en el Cuerpo de Médicos Forenses.
