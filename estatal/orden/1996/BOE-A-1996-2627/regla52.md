@@ -1,10 +1,12 @@
 ## Regla 52. Operaciones pendientes de aplicar al presupuesto
 
-Cuando por razones justificadas no se hubiera efectuado dentro del ejercicio de 2001 el reconocimiento de obligaciones correspondientes a bienes o servicios efectivamente recibidos en dicho ejercicio, los centros gestores de gasto adoptarán las medidas oportunas para remitir a la oficina de contabilidad, antes de que finalice el mes de enero del año siguiente, los documentos necesarios para registrar dichas obligaciones con imputación al Presupuesto del ejercicio 2002.
+Cuando por razones justificadas no se hubiera efectuado dentro del ejercicio de 2002 el reconocimiento de obligaciones correspondientes a bienes o servicios efectivamente recibidos en dicho ejercicio, los Centros Gestores de Gasto adoptarán las medidas oportunas para remitir a la Oficina de Contabilidad, antes de que finalice el mes de enero del año siguiente, los documentos necesarios para registrar dichas obligaciones con imputación al presupuesto del ejercicio 2003, de acuerdo con lo establecido en el artículo 63.2 del texto refundido de la Ley General Presupuestaria.
 
-Tomando como referencia la fecha de realización del gasto que, según lo dispuesto en el punto 5 de la regla 23, deberá figurar en el documento contable, se registrará en la contabilidad económico-patrimonial del ejercicio de 2001 un acreedor por operaciones pendientes de aplicar al Presupuesto, a través de la cuenta 409 prevista en el Plan General de Contabilidad Pública. Dicha cuenta quedará saldada al registrarse en la contabilidad económico-patrimonial la imputación presupuestaria de la operación en el ejercicio siguiente.
+Tomando como referencia la fecha de realización del gasto que, según lo dispuesto en el punto 5 de la Regla 23, deberá figurar en el documento contable, se registrará en la contabilidad económico patrimonial del ejercicio de 2002 un acreedor por operaciones pendientes de aplicar al presupuesto, a través de la cuenta 409 prevista en el Plan General de Contabilidad Pública. Dicha cuenta quedará saldada al registrarse en la contabilidad económico-patrimonial la imputación presupuestaria de la operación en el ejercicio siguiente.
 
-Posteriormente, la oficina de contabilidad deberá obtener una relación de todas las operaciones registradas de acuerdo con el procedimiento regulado en esta regla, la cual justificará las citadas anotaciones en la contabilidad económico-patrimonial del ejercicio anterior.
+Posteriormente, la Oficina de Contabilidad deberá obtener una relación de todas las operaciones registradas de acuerdo con el procedimiento regulado en esta regla, la cual justificará las citadas anotaciones en la contabilidad económico patrimonial del ejercicio anterior.
+
+> Se modifica, con vigencia exclusivamente para el ejercicio 2003, por la disposición transitoria única de la Orden HAC/2761/2002, de 5 de noviembre. Ref. BOE-A-2002-21667.
 
 > Se modifica, con vigencia exclusivamente para el ejercicio 2002, por la disposición transitoria única de la Orden de 19 de octubre de 2001. Ref. BOE-A-2001-20180
 
