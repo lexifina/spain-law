@@ -22,8 +22,10 @@ En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su compete
 
 4.º De los procedimientos judiciales de extradición pasiva, sea cual fuere el lugar de residencia o en que hubiese tenido lugar la detención del presunto extradicto.
 
-5.º De los recursos establecidos en la Ley contra las sentencias y otras resoluciones de los Juzgados Centrales de lo Penal y de los Juzgados Centrales de Instrucción.
+5.º De los recursos establecidos en la Ley contra las sentencias y otras resoluciones de los Juzgados Centrales de lo Penal, de los Juzgados Centrales de Instrucción y del Juzgado Central de Menores.
 
 6.º De cualquier otro asunto que le atribuyan las leyes.
+
+> Se modifica el número 5º por el art. 3.1 de la Ley Orgánica 7/2000, de 22 de diciembre. Ref. BOE-A-2000-23659
 
 > Se modifica el inciso inicial del número 1º y el número 5º por el art. 1.4 de la Ley Orgánica 7/1988, de 28 de diciembre. Ref. BOE-A-1988-29621
