@@ -20,8 +20,10 @@ Son causas de abstención y, en su caso, de recusación:.
 
 9.º Tener interés directo o indirecto con el pleito o causa.
 
-10.º Haber sido instructor de la causa cuando el conocimiento del juicio esté atribuido a otro Tribunal o haber fallado el pleito o causa en anterior instancia.
+10.º Haber actuado como instructor de la causa penal o haber resuelto el pleito o causa en anterior instancia.
 
 11.º Ser una de las partes subordinado del Juez que deba resolver la contienda litigiosa.
 
-> Redactados los números 10 º y 11 º conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752
+> Se modifica el número 10 por el art. 3.5 de la Ley Orgánica 7/1988, de 28 de diciembre. Ref. BOE-A-1988-29621
+
+> Redactados los números 10 y 11 conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

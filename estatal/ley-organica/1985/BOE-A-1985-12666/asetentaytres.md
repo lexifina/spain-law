@@ -22,4 +22,8 @@ b) La instrucción y el fallo de las causas penales contra Jueces, Magistrados y
 
 c) La decisión de las cuestiones de competencia entre órganos jurisdiccionales del orden penal con sede en la Comunidad Autónoma que no tengan otro superior común.
 
-4. Le corresponde, igualmente, la decisión de las cuestiones de competencia entre Juzgados de Menores de distintas provincias de la Comunidad Autónoma.
+4. Para la instrucción de las causas a que se refieren las letras a) y b) del apartado anterior se designará de entre los miembros de la Sala, conforme a un turno preestablecido, un instructor que no formará parte de la misma para enjuiciarlas.
+
+5. Le corresponde, igualmente, la decisión de las cuestiones de competencia entre Juzgados de Menores de distintas provincias de la Comunidad Autónoma.
+
+> Se renumera el apartado 4 como 5 y se añade un nuevo apartado 4 por el art. 1.5 de la Ley Orgánica 7/1988, de 28 de diciembre. Ref. BOE-A-1988-29621

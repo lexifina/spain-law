@@ -2,7 +2,7 @@
 
 La Sala de lo Penal de la Audiencia Nacional conocerá:
 
-1.º En única instancia, del enjuiciamiento de las causas por los siguientes delitos:
+1.º Del enjuiciamiento, salvo que corresponda en primera instancia a los Juzgados Centrales de lo Penal, de las causas por los siguientes delitos:
 
 a) Delitos contra el titular de la Corona, su Consorte, su Sucesor, altos organismos de la Nación y forma de Gobierno.
 
@@ -22,6 +22,8 @@ En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su compete
 
 4.º De los procedimientos judiciales de extradición pasiva, sea cual fuere el lugar de residencia o en que hubiese tenido lugar la detención del presunto extradicto.
 
-5.º De los recursos que se interpongan contra las sentencias y demás resoluciones de los Juzgados Centrales de Instrucción.
+5.º De los recursos establecidos en la Ley contra las sentencias y otras resoluciones de los Juzgados Centrales de lo Penal y de los Juzgados Centrales de Instrucción.
 
 6.º De cualquier otro asunto que le atribuyan las leyes.
+
+> Se modifica el inciso inicial del número 1º y el número 5º por el art. 1.4 de la Ley Orgánica 7/1988, de 28 de diciembre. Ref. BOE-A-1988-29621
