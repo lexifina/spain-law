@@ -1,0 +1,3 @@
+## Disposición derogatoria.
+
+Queda derogado el anterior Reglamento del Consejo Nacional y Estatutos de los Colegios Provinciales de Auxiliares Técnicos Sanitarios, aprobados por Órdenes de veinte de diciembre de mil novecientos cincuenta y cuatro, veintisiete de mayo de mil novecientos cincuenta y siete, trece de enero de mil novecientos cincuenta y ocho, veintisiete de julio de mil novecientos sesenta y cinco, siete de mayo de mil novecientos sesenta y ocho y diecinueve de septiembre de mil novecientos setenta y tres, complementarias de los citados textos, y cuantas otras disposiciones, de igual o inferior rango, puedan oponerse a lo dispuesto en el presente Real Decreto.
