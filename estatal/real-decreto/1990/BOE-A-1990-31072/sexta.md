@@ -1,9 +1,7 @@
 ## Disposición adicional sexta.
 
-En desarrollo de la disposición adicional primera, punto 2, de la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, y con referencia exclusiva a las Sociedades cooperativas, deberá someterse a la auditoría de cuentas prevista en el artículo 3 de este Reglamento las cuentas anuales de las mencionadas Sociedades. Quedarán dispensadas de esta obligación las Sociedades cooperativas en las que concurran, al menos, dos de las circunstancias previstas en el artículo 181.1 del texto refundido de la Ley de Sociedades Anónimas, aprobado por Real Decreto Legislativo 1564/1989.
+En desarrollo de lo dispuesto en la disposición adicional primera, apartado 2, de la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, y sin perjuicio de lo establecido en otras disposiciones legales, las empresas y demás entidades, cualquiera que sea su naturaleza jurídica, y siempre que deban formular cuentas anuales conforme al Código de Comercio y demás legislación que resulte de aplicación, estarán obligadas a someter a auditoría, en los términos previstos en el artículo 1, apartado 2, de la citada Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, las cuentas anuales de los ejercicios sociales en los que, de acuerdo con lo establecido en el artículo 181 del texto refundido de la Ley de Sociedades Anónimas, aprobado por Real Decreto Legislativo 1564/1989, de 22 de diciembre, no concurran las circunstancias previstas para poder formular balance abreviado, debiendo hacerlo en modelo normal.
 
-Para la aplicación de lo previsto en el párrafo anterior se tendrá en cuenta lo siguiente:
+> Se modifica por el art. 1 del Real Decreto 180/2003, de 14 de febrero. Ref. BOE-A-2003-4014
 
-a) Para los dos primeros ejercicios que se cierren con posterioridad a la entrada en vigor del presente Reglamento, quedarán exceptuados de la obligación de someter a auditoría las cuentas anuales, las Sociedades cooperativas en las que al cierre del primer ejercicio concurran, al menos, dos de las citadas circunstancias.
-
-b) Cuando las mencionadas Sociedades cooperativas, en la fecha de cierre del ejercicio, pasen a cumplir dos de las circunstancias antes indicadas o bien cesen de cumplirlas, tal situación únicamente producirá efectos en cuanto a lo señalado en el primer párrafo de este apartado si se repite durante dos ejercicio consecutivos.
+> Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria única.
