@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto y, en particular, el Real Decreto 2205/1995, de 28 de diciembre, por el que se refunden los Organismos autónomos Fondo de Ordenación y Regulación de Producciones y Precios Agrarios (FORPPA) y Servicio Nacional de Productos Agrarios (SENPA), en el Organismo autónomo de carácter comercial y financiero denominado Fondo Español de Garantía Agraria (FEGA), y el artículo 13 del Real Decreto 1490/1998, de 10 de julio, por el que se establece la estructura orgánica del Ministerio de Agricultura, Pesca y Alimentación.
