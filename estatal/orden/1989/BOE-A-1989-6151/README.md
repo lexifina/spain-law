@@ -10,4 +10,16 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [preambulo](preambulo.md)
+- [Primero](primero.md)
+- [Segundo](segundo.md)
+- [Tercero](tercero.md)
+- [Cuarto](cuao.md)
+- [Quinto](quinto.md)
+- [DISPOSICIÓN TRANSITORIA](dt.md)
+- [DISPOSICIÓN DEROGATORIA](dd.md)
 - [DISPOSICIÓN FINAL](df.md)
+- [firma](firma.md)
+- [ANEXO I](ani.md)
+- [ANEXO II](anii.md)
+- [ANEXO III](aniii.md)
