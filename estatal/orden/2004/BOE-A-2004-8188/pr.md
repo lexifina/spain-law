@@ -1,0 +1,17 @@
+La experiencia en las importaciones de frutos cítricos frescos originarios de Argentina y Brasil durante la pasada campaña 2003, constató en la inspección fitosanitaria realizada a esos frutos en repetidas ocasiones la presencia de los organismos nocivos «Xanthomonas axonopodis pv. Citri» y «Guignardia citricarpa», organismos de cuya existencia no se tiene constancia en la Comunidad Europea, por lo que la normativa comunitaria prohíbe su introducción en la misma cuando se presentan sobre determinados vegetales o productos vegetales. Ello supuso el rechazo de todas las partidas afectadas, y la adopción por España de medidas fitosanitarias de salvaguardia para la protección de la citricultura española y de la Unión Europea.
+
+Las citadas medidas consistieron en la suspensión cautelar de la importación e introducción en el territorio de la Península y Baleares a partir del 13 de noviembre de 2003 de frutos cítricos frescos originarios de esos dos países, mediante Orden APA/3151/2003, de 12 de noviembre, relativa a las medidas de protección contra el «citrus canker» («Xanthomonas axonopodis pv. Citri»), la mancha negra («Guignardia citricarpa») y «Elsinoe spp» de los frutos cítricos, medidas de salvaguardia previstas en el artículo 16.2 de la Directiva 2000/29/CE, transpuesta al ordenamiento español a través del Real Decreto 2071/1993, de 26 de noviembre. La citada Directiva contempla que este tipo de medidas fitosanitarias dejan de surtir efecto una vez que la Comisión Europea haya adoptado las acciones oportunas en relación con el problema planteado.
+
+A solicitud de España, y tras la oportuna aprobación por el Comité Fitosanitario Permanente de la Unión Europea, se ha adoptado la Decisión de la Comisión de 29 de abril de 2004, relativa a medidas de emergencia provisionales respecto a determinados cítricos originarios de Argentina o Brasil, destinada a proteger la citricultura española y de la Unión Europea contra la introducción de los organismos nocivos en cuestión. Esta Decisión exige unas condiciones fitosanitarias más rigurosas a los frutos cítricos procedentes de Argentina y Brasil a partir de la campaña de importación 2004 próxima a comenzar, exigencias que se aplicarán a todas las importaciones que se realicen en la Unión Europea al tratarse de medidas comunitarias. Para efectuar convenientemente dichos controles, es necesario limitar los puntos de inspección fronterizos (PIF), por los que pueden introducirse estos productos.
+
+Los resultados de estas medidas de emergencia serán sometidas a una evaluación comunitaria entre el 1 de mayo de 2004, fecha de entrada en vigor de las mismas, hasta el 30 de noviembre del mismo año, fecha en que se da por finalizada la campaña de importaciones de estos países. Como consecuencia de esta evaluación podrán considerarse medidas posteriores, que podrán ser más estrictas si se pone de manifiesto que las ahora puestas en marcha son insuficientes o no se han respetado.
+
+En consecuencia, procede dejar sin efecto las medidas cautelares adoptadas por España al final de la pasada campaña de importaciones y, en consecuencia, derogar la Orden APA/3151/2003.
+
+El artículo 9.1 de la Ley 43/2002, de 20 de noviembre, de Sanidad Vegetal, faculta al Ministerio de Agricultura, Pesca y Alimentación, para tomar las medidas fitosanitarias de salvaguardia.
+
+En la tramitación de la presente Orden han sido consultadas las Comunidades Autónomas y las entidades representativas de los sectores afectados.
+
+En su virtud,
+
+DISPONGO:
