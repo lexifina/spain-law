@@ -1,3 +1,5 @@
 ## Artículo segundo.
 
-La Jefatura Militar de Control de la Circulación Aérea, dependiente orgánicamente del Mando Aéreo de Combate del Ejército del Aire, actuará en estrecho contacto con la Jefatura del Servicio Nacional de Control, dependiente del Ministerio de Transportes y Comunicaciones, a través de la Dirección General de Navegación Aérea. Ambas Jefaturas serán responsables solidariamente de la coordinación de las circulaciones aéreas de carácter militar y la circulación aérea general.
+La unidad de coordinación del tránsito aéreo coordinará lo relativo al tránsito aéreo de carácter operativo. Dicha unidad y los correspondientes servicios civiles de control adscritos al Ministerio de Obras Públicas, Transportes y Medio Ambiente garantizarán conjuntamente la coordinación entre la circulación aérea general y la circulación aérea operativa.
+
+> Se modifica por el art. 2 del Real Decreto 2161/1993, de 10 de diciembre. Ref. BOE-A-1994-136.

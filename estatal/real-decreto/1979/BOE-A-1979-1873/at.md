@@ -1,3 +1,7 @@
 ## Artículo tercero.
 
-Los destacamentos CAMO, dependientes orgánicamente de la Jefatura Militar de Control de la Circulación Aérea y afectos a los Centros Regionales, Terminales y Aeroportuarios de Control de la Circulación Aérea, proporcionarán al sistema de defensa aérea la información que precise para tener conocimiento de la situación aérea; ejercerán, en circunstancias normales, el control de la circulación aérea militar operativa, en los espacios aéreos no reservados a la circulación aérea general, y coordinarán con las Dependencias de Control, a las que se hallen afectos, cuantas actividades sean de interés para la defensa nacional y para la seguridad del tráfico.
+Las unidades de control de la circulación aérea operativa desarrollarán las actividades necesarias para el control de dicha circulación, coordinando su actuación con las dependencias civiles de control de tránsito aéreo, cuando resulte necesario en interés de la defensa nacional y de la seguridad y fluidez del tránsito aéreo. Estas unidades proporcionarán además al sistema de defensa aérea la información que éste precise para el conocimiento de la situación aérea.
+
+A estos fines, las citadas unidades de control de la circulación aérea operativa se establecerán en los centros regionales, terminales y aeroportuarios de control de la circulación aérea que el Ejército del Aire determine.
+
+> Se modifica por el art. 2 del Real Decreto 2161/1993, de 10 de diciembre. Ref. BOE-A-1994-136.
