@@ -556,19 +556,67 @@ Salvo cuando aterricen en un aeródromo controlado, los vuelos controlados tan p
 
 Si el fallo de las comunicaciones impide cumplir con lo dispuesto en 2.3.6.5.1., la aeronave observará los procedimientos de fallo de comunicaciones del Libro Cuarto, y aquellos de los procedimientos siguientes que sean apropiados. Además, la aeronave, cuando forme parte del tránsito de aeródromo en un aeródromo controlado, se mantendrá vigilante para atender a las instrucciones que puedan darse por medio de señales visuales.
 
-2.3.6.5.2.1. Si la aeronave con fallo de comunicaciones opera en condiciones meteorológicas de vuelo visual o de vuelo visual nocturno, la aeronave (1):
+2.3.6.5.2.1. Si la aeronave con fallo de comunicaciones opera en condiciones meteorológicas de vuelo visual o de vuelo visual nocturno, la aeronave (1), a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea:
 
-a) proseguirá su vuelo en condiciones meteorológicas de vuelo visual o de vuelo visual nocturno, según corresponda; y
+a) hará funcionar el transpondedor en Código 7600;
 
-b) aterrizará en el aeródromo adecuado más próximo; y
+b) proseguirá su vuelo en condiciones meteorológicas de vuelo visual o de vuelo visual nocturno, según corresponda;
 
-c) notificará su llegada, por el medio más rápido, a la dependencia apropiada del control de tránsito aéreo.
+c) aterrizará en el aeródromo adecuado más próximo; y
+
+d) notificará su llegada, por el medio más rápido, a la dependencia apropiada del control de tránsito aéreo.
+
+2.3.6.5.2.2 Si la aeronave con fallo de comunicaciones en vuelo controlado opera en condiciones meteorológicas de vuelo por instrumentos, o si las condiciones son tales que no es posible terminar el vuelo de acuerdo con lo prescrito en 2.3.6.5.2.1, se observarán los procedimientos siguientes de acuerdo al espacio aéreo donde se desarrolla dicho vuelo.
+
+Nota: Las aeronaves equipadas con respondedor que experimenten una falla de comunicaciones, harán funcionar el respondedor SSR en el Modo A, Código 7600.
+
+2.3.6.5.2.2.1 La aeronave (1), a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea, en las FIR/UIRs Barcelona y Madrid,
+
+a) hará funcionar el transpondedor en Código 7600;
+
+b) mantendrá por un periodo de 7 minutos la última velocidad y nivel asignados, o la altitud mínima de vuelo si ésta es superior que el último nivel asignado. El periodo de 7 minutos comienza:
+
+1) si opera en una ruta sin puntos de notificación obligatoria o si ha recibido instrucciones para omitir los informes de posición:
+
+i) en el momento que se alcance el último nivel asignado o la altitud mínima de vuelo, o
+
+ii) en el momento que se haga funcionar el transpondedor en Código 7600, lo que sea más tarde; o
+
+2) si opera en una ruta con puntos de notificación obligatoria y no ha recibido instrucciones para omitir los informes de posición:
+
+i) en el momento que se alcance el último nivel asignado o la altitud mínima de vuelo, o
+
+ii) a la hora estimada previamente notificada por el piloto para el punto de notificación obligatoria, o
+
+iii) a la hora en que no se pudo notificar la posición sobre un punto de notificación obligatoria,
+
+lo que sea más tarde;
+
+Nota. El periodo de 7 minutos es para permitir las medidas necesarias de control de tránsito aéreo y de coordinación.
+
+c) después, ajustará el nivel y la velocidad de acuerdo con el plan de vuelo presentado;
+
+Nota. En lo que se refiere a los cambios de niveles y velocidad, se empleará el plan de vuelo presentado, que es el plan de vuelo tal como ha sido presentado a una dependencia ATS por el piloto o su representante designado, sin ningún cambio subsiguiente.
+
+d) si está recibiendo guía vectorial radar o está procediendo desplazado de ruta RNAV sin límite especificado, se dirigirá de la manera más directa para reincorporarse a la ruta del plan de vuelo actualizado antes del siguiente punto significativo, teniendo en cuenta la altitud de vuelo mínima aplicable;
 
 (1) Se refiere a todos los vuelos controlados.
 
-2.3.6.5.2.2. Si opera en condiciones meteorológicas de vuelo por instrumentos, o si las condiciones son tales que no es posible terminar el vuelo de acuerdo con lo prescrito en 2.3.6.5.2.1. (1), la aeronave:
+Nota. En lo que se refiere a la ruta a volar o la hora en que empezará el descenso hacia el aeródromo de llegada, se empleará el plan de vuelo actualizado, que es el plan de vuelo, incluidas las modificaciones, si las hay, que resultan de incorporar autorizaciones posteriores.
 
-a) a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea, mantendrá el último nivel y velocidad asignados, o la altitud mínima de vuelo, si ésta es superior, por un período de 20 minutos desde el momento en que la aeronave deje de notificar su posición al pasar por un punto de notificación obligatoria y después de ese período de 20 minutos ajustará el nivel y velocidad conforme al plan de vuelo presentado;
+e) proseguirá según la ruta de plan de vuelo actualizado hasta la ayuda para la navegación que corresponda designada para servir al aeródromo de destino y, cuando sea necesario para asegurar que se satisfagan los requisitos señalados en f), se mantendrá en circuito de espera sobre esta ayuda hasta iniciar el descenso;
+
+f) iniciará el descenso desde la ayuda para la navegación especificada en e) a la última hora prevista de aproximación recibida y de la que se haya acusado recibo, o lo más cerca posible de dicha hora; o si no se ha recibido y acusado recibo de la hora prevista de aproximación, iniciará el descenso a la hora prevista de llegada resultante del plan de vuelo actualizado o lo más cerca posible de dicha hora;
+
+g) completará un procedimiento normal de aproximación por instrumentos especificado para la ayuda de navegación designada; y
+
+h) aterrizará, de ser posible, dentro de los 30 minutos siguientes a la hora prevista de llegada especificada en f) o a la hora prevista de aproximación de que últimamente se haya acusado recibo, lo que resulte más tarde.
+
+Nota. Se recuerda a los pilotos que la aeronave puede no estar en un área de cobertura radar secundario de vigilancia.
+
+2.3.6.5.2.2.2 La aeronave (1), a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea, en la FIR/UIR Canarias (2),
+
+a) mantendrá el último nivel y velocidad asignados, o la altitud mínima de vuelo, si ésta es superior, por un período de 20 minutos desde el momento en que la aeronave deje de notificar su posición al pasar por un punto de notificación obligatoria y después de ese período de 20 minutos ajustará el nivel y velocidad conforme al plan de vuelo presentado;
 
 b) proseguirá según la ruta del plan de vuelo actualizado hasta la ayuda para la navegación que corresponda y que haya sido designada para servir al aeródromo de destino y, cuando sea necesario para asegurar que se satisfagan los requisitos señalados en el inciso c) siguiente, la aeronave se mantendrá en circuito de espera sobre esta ayuda hasta iniciar el descenso;
 
@@ -576,23 +624,21 @@ c) iniciará el descenso desde la ayuda para la navegación especificada en b), 
 
 d) realizará un procedimiento normal de aproximación por instrumentos especificado para la ayuda de navegación designada; y
 
-e) aterrizará, de ser posible, dentro de los 30 minutos siguientes a la hora prevista de llegada especificada en c) o la hora prevista de aproximación de que últimamente se haya acusado recibo, lo que resulte más tarde.
+e) aterrizará, de ser posible, dentro de los 30 minutos siguientes a la hora prevista de llegada especificada
 
 (1) Como lo prueban las condiciones meteorológicas prescritas 2.3.6.5.2.1 se refiere a todos los vuelos controlados, mientras que 2.3.6.5.2.2 comprende únicamente los vuelos IFR.
 
-(2) El suministro de control de tránsito aéreo a otras aeronaves que vuelen en el espacio aéreo en cuestión, se basará en la premisa de que una aeronave que experimente falla de las comunicaciones observará las disposiciones 2.3.6.5.2.2.
+(2) Salvo en los casos previstos en 2.3.6.5.2.2.3.
 
-2.3.6.5.2.3. En la FIR/UIR Madrid y Barcelona, una aeronave que inicie un vuelo IFR controlado operando en condiciones meteorológicas que hacen necesario el vuelo por instrumentos, que ha acusado recibo de una autorización inicial o intermedia de subida a un nivel distinto al que se especifica en el plan de vuelo actualizado para la fase de vuelo en ruta, y sufre fallo de radiocomunicación en ambos sentidos, deberá, si la autorización de subida no incluye límite de tiempo o límite geográfico, mantener por un período de tres minutos el nivel para el cual ha obtenido autorización, o la altitud mínima de vuelo si ésta es superior, y después continuar su vuelo de conformidad con el plan de vuelo actualizado.
+(3) El suministro de control de tránsito aéreo a otras aeronaves que vuelen en el espacio aéreo en cuestión, se basará en la premisa de que una aeronave que experimente falla de las comunicaciones observará las disposiciones 2.3.6.5.2.2.
 
-Nota 1: El objeto de este procedimiento es introducir un límite uniforme de la autorización para aplicarse en los casos en que la utilización de los métodos de control táctico por parte del control de tránsito aéreo, hace impracticable la inclusión de un límite de tiempo o límite geográfico en cada una de las autorizaciones de subida.
+en c) o la hora prevista de aproximación de que últimamente se haya acusado recibo, lo que resulte más tarde.
 
-Nota 2: El nivel especificado en el plan de vuelo actualizado significa el nivel que figura en la autorización de control de tránsito aéreo en ruta de la que ha acusado recibo el piloto.
+2.3.6.5.2.2.3 La autoridad competente podrá establecer y publicar en AIP las partes del espacio aéreo de la FIR/UIR Canarias donde sean de aplicación los procedimientos recogidos en 2.3.6.5.2.2.1.
 
-Nota 3: Si persiste el fallo de radiocomunicación en ambos sentidos la aeronave proseguirá su vuelo de acuerdo con lo indicado en 2.3.6.5.2.2, si opera en condiciones meteorológicas de vuelo por instrumentos, y de acuerdo con lo indicado en 2.3.6.5.2.1 si opera en condiciones meteorológicas de vuelo visual.
+2.3.6.5.2.3. (Suprimido).
 
-2.3.6.5.2.4. En la FIR/UIR Madrid y Barcelona, una aeronave que inicie un vuelo IFR controlado recibiendo guía vectorial radar fuera de la ruta especificada en su plan de vuelo actualizado y que sufre fallo de radiocomunicaciones en ambos sentidos, deberá dirigirse de la manera más directa hacia la ruta especificada en el plan de vuelo actualizado.
-
-Nota: Si persiste el fallo de radiocomunicación en ambos sentidos la aeronave proseguirá su vuelo de acuerdo con lo indicado en 2.3.6.5.2.2, si opera en condiciones meteorológicas de vuelo por instrumentos, y de acuerdo con lo indicado en 2.3.6.5.2.1 si opera en condiciones meteorológicas de vuelo visual.
+2.3.6.5.2.4. (Suprimido).
 
 2.3.7. Interferencia ilícita.
 
@@ -604,13 +650,17 @@ Nota: Si persiste el fallo de radiocomunicación en ambos sentidos la aeronave p
 
 2.3.7.2.2. Cuando una aeronave objeto de un acto de interferencia ilícita deba apartarse de la derrota asignada o del nivel de crucero asignado, sin poder establecer contacto radiotelefónico con el ATS, el piloto al mando deberá, de ser posible:
 
-a) tratar de radiodifundir advertencias en la frecuencia VHF de urgencia y en otras frecuencias apropiadas a menos que la situación a bordo de la aeronave le dicte otro modo de proceder. De ser conveniente y si las circunstancias lo permiten, también recurrirá para ello a otro equipo como respondedores de a bordo, enlaces de datos etc.; y
+a) tratar de radiodifundir advertencias en la frecuencia VHF de urgencia y en otras frecuencias apropiadas a menos que la situación a bordo de la aeronave le dicte otro modo de proceder. De ser conveniente y si las circunstancias lo permiten, también recurrirá para ello a otro equipo como transpondedores de a bordo, enlaces de datos etc.; y
 
-b) continuar el vuelo de conformidad con los procedimientos suplementarios regionales especiales para contingencias en vuelo, si se han establecido; o
+b) continuar el vuelo de conformidad con los procedimientos suplementarios regionales especiales para contingencias en vuelo, si se han establecido; o c) si no se hubieran establecido procedimientos regionales aplicables al caso, continuar el vuelo a un nivel que difiera de los niveles de crucero utilizados normalmente por los vuelos IFR en:
 
-c) si no se hubieran establecido procedimientos regionales aplicables al caso, continuar el vuelo a un nivel que difiera 300m (1000 pies) de los niveles de crucero utilizados normalmente por los vuelos IFR en la región, si la aeronave se encuentra por encima del nivel de vuelo 290 ó 150m (500 pies) si se encuentra por debajo del nivel de vuelo 290.
+1. 150 m (500 ft) en una zona en que se aplican mínimos de separación vertical de 300 m (1.000 ft), o
 
-d) tomar las medidas indicadas en 2.3.8. cuando la aeronave sea interceptada mientras es objeto de un acto de interferencia ilícita.
+2. 300 m (1.000 ft) en una zona en que se aplican mínimos de separación vertical de 600 m (2.000 ft);
+
+y
+
+d) tomar las medidas indicadas en 2.3.8 cuando la aeronave sea interceptada mientras es objeto de un acto de interferencia ilícita.
 
 2.3.8. Interceptación.
 
@@ -720,7 +770,7 @@ d) si está equipada con respondedor SSR, seleccionará inmediatamente el Códig
 
 2.3.8.2.6. Señales visuales aire-aire
 
-2.3.8.2.6.1. Las señales visuales que han de utilizar la aeronave interceptora y la interceptada, son las establecidas en el Adjunto 2 del Apendice C. Es esencial que la aeronave interceptora y la aeronave interceptada apliquen estrictamente estas señales e interpreten correctamente las señales dadas por la otra aeronave, y que la aeronave interceptora ponga especial atención a cualquier señal dada por la aeronave interceptada para indicar que se encuentra en situación de peligro o emergencia.
+2.3.8.2.6.1. Las señales visuales que han de utilizar la aeronave interceptora y la interceptada, son las establecidas en el Adjunto 2 del Apéndice C. Es esencial que la aeronave interceptora y la aeronave interceptada apliquen estrictamente estas señales e interpreten correctamente las señales dadas por la otra aeronave, y que la aeronave interceptora ponga especial atención a cualquier señal dada por la aeronave interceptada para indicar que se encuentra en situación de peligro o emergencia.
 
 2.3.8.2.7. Radiocomunicación entre la dependencia de control de interceptación o la aeronave interceptora y la aeronave interceptada
 
@@ -1095,3 +1145,5 @@ b) mantenga la escucha en la radiofrecuencia adecuada y establezca comunicación
 notificará la posición de acuerdo con lo especificado en 2.3.6.3. para vuelos controlados.
 
 2.5.3.3.2. Las aeronaves que decidan utilizar el servicio de asesoramiento de tránsito aéreo mientras vuelan en condiciones IFR dentro de áreas especificadas con servicio de asesoramiento, se espera que cumplan las disposiciones de 2.3.6., pero el plan de vuelo y los cambios que se hagan en él no están supeditados a autorizaciones y las comunicaciones en ambos sentidos se mantendrán con la dependencia que suministre el servicio de asesoramiento de tránsito aéreo.
+
+> Se modifica el Capítulo 3 por el art. 1 y 4 de la Orden PRE/2220/2004, de 6 de julio de 2004. Ref. BOE-A-2004-12699

@@ -420,7 +420,7 @@ b) datos esenciales, nivel de integridad 1 x 10-5: existe baja probabilidad de q
 
 c) datos ordinarios, nivel de integridad 1 x 10-3: existe muy baja probabilidad de que utilizando datos ordinarios alterados, la continuación segura del vuelo y el aterrizaje de la aeronave se pondrán en grave riesgo con posibilidades de catástrofe.
 
-3.2.18.3. La protección de los datos aeronáuticos electrónicos almacenados o en tránsito se supervisará en su totalidad mediante la verificación cíclica de redundancia (CRC). Para lograr la protección del nivel de integridad de los datos aeronáuticos críticos y esenciales clasificados en 3.2.18.2, se aplicará respectivamente un algoritmo CRC de 32 o de 24 bits.
+3.2.18.3. La protección de los datos aeronáuticos electrónicos almacenados o en tránsito se supervisará en su totalidad mediante la verificación cíclica de redundancia (CRC). Para lograr la protección del nivel de integridad de los datos aeronáuticas críticos y esenciales clasificados en 3.2.18.2, se aplicará respectivamente un algoritmo CRC de 32 o de 24 bits.
 
 3.2.18.4. Para lograr la protección del nivel de integridad de los datos aeronáuticos ordinarios clasificados en 3.2.18.2, se aplicará un algoritmo CRC de 16 bits.
 
@@ -564,11 +564,11 @@ Además, las dependencias de servicios de tránsito aéreo suministrarán la hor
 
 Las señales horarias se referirán al medio minuto más próximo.
 
-3.2.25. Establecimiento de requisitos de llevar a bordo transpondedores de notificación de la altitud de presión y de su funcionamiento.
+3.2.25. Establecimiento de requisitos de llevar a bordo transpondedores de notificación de la altitud de presión y de su funcionamiento, así como de los sistemas anticolisión de a bordo.
 
-La autoridad competente fijará los requisitos para llevar a bordo transpondedores de notificación de la altitud de presión y para su funcionamiento en partes determinadas del espacio aéreo.
+La autoridad competente fijará los requisitos para llevar a bordo transpondedores de notificación de la altitud de presión y para su funcionamiento, así como de los sistemas anticolisión de a bordo, en partes determinadas del espacio aéreo.
 
-Nota: La finalidad de esta disposición es aumentar la eficacia de los servicios de tránsito aéreo y de los sistemas de anticolisión de a bordo.
+Nota. La finalidad de esta disposición es aumentar la eficacia de los servicios de tránsito aéreo y de los sistemas de anticolisión de a bordo.
 
 ## CAPÍTULO 3
 
@@ -628,7 +628,7 @@ d) coordinar las autorizaciones que sean necesarias con las otras dependencias:
 
 3.3.3.3. Las autorizaciones concedidas por las dependencias de control de tránsito aéreo proporcionarán separación:
 
-a) entre todos los vuelos en espacio aéreo Clases A y B;
+a) entre todos los vuelos en espacio áereo Clases A y B;
 
 b) entre los vuelos IFR en espacio aéreo de Clases C, D y E;
 
@@ -1420,7 +1420,7 @@ b) las torres de control de aeródromo;
 
 c) las oficinas de notificación de los servicios de tránsito aéreo cuando estén instaladas por separado.
 
-3.6.2.2.1.3. Toda oficina de control de aproximación, además de disponer de instalaciones para comunicarse con el centro de información de vuelo y con el centro de control de área según lo dispuesto en 3.6.2.2.1.1. ó 3.6.2.2.1.2, estará en condiciones de comunicarse con la torre o torres de control de aeródromo asociadas y con la oficina u oficinas de notificación de los servicios de tránsito aéreo asociadas, cuando éstas estén instaladas por separado.
+3.6.2.2.1.3. Toda oficina de control de aproximación, además de disponer de instalaciones para comunicarse con el centro de información de vuelo y con el centro de control de área según lo dispuesto en 3.6.2.2.1.1. o 3.6.2.2.1.2, estará en condiciones de comunicarse con la torre o torres de control de aeródromo asociadas y con la oficina u oficinas de notificación de los servicios de tránsito aéreo asociadas, cuando éstas estén instaladas por separado.
 
 3.6.2.2.1.4. Toda torre de control de aeródromo, además de estar conectada con el centro de información de vuelo, el centro de control de área y la oficina de control de aproximación según los dispuesto en 3.6.2.2.1.1, 3.6.2.2.1.2 y 3.6.2.2.1.3, dispondrá de instalaciones para comunicarse con la oficina de notificación de los servicios de tránsito aéreo asociada, siempre que ésta esté instalada por separado.
 
@@ -1635,3 +1635,5 @@ Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter
 3.7.6. Información sobre ''nubes'' de materiales radiactivos y de sustancias químicas tóxicas.
 
 Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter local, acerca de la liberación en la atmósfera de materiales radiactivos o sustancias químicas tóxicas que podrían afectar al espacio aéreo utilizado por los vuelos dentro de su zona de responsabilidad.
+
+> Se modifica el Capítulo 2 por el art. 2 de la Orden PRE/2220/2004, de 6 de julio de 2004. Ref. BOE-A-2004-12699
