@@ -1,3 +1,5 @@
 ## Disposición transitoria sexta. Subsistencia provisional de las normas reglamentarias reguladoras de las provisiones técnicas.
 
-Hasta que entren en vigor las disposiciones reglamentarias de desarrollo del artículo 16 de la presente Ley y del artículo 24.2 del Estatuto Legal del Consorcio de Compensación de Seguros, la enumeración, el concepto, el cálculo, la cobertura y el régimen fiscal de las provisiones técnicas se regirán por lo dispuesto en los artículos 55 y siguientes del Reglamento de Ordenación del Seguro Privado, aprobado por Real Decreto 1348/1985, de 1 de agosto, con las modificaciones introducidas por los Reales Decretos 2021/1986, de 22 de agosto, y 1042/1990, de 27 de julio, y por lo dispuesto en las normas que actualmente regulan la provisión técnica acumulativa del Consorcio de Compensación de Seguros, respectivamente.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto Legislativo 6/2004, de 29 de octubre. Ref. BOE-A-2004-18908.

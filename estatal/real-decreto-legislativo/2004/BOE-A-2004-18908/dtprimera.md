@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Régimen transitorio de las modificaciones introducidas en materia de medidas de saneamiento y liquidación de entidades aseguradoras por la Ley 34/2003, de 4 de noviembre, de modificación y adaptación a la normativa comunitaria de la legislación de seguros privados.
+
+Las modificaciones introducidas en la Ley 30/1995, de 8 de noviembre, de ordenación y supervisión de los seguros privados, en materia de medidas de saneamiento y liquidación de entidades aseguradoras, por la Ley 34/2003, de 4 de noviembre, de modificación y adaptación a la normativa comunitaria de la legislación de seguros privados, resultarán de aplicación a las medidas y a los procedimientos adoptados o incoados con posterioridad al 6 de noviembre de 2003.
+
+Las medidas de saneamiento y los procedimientos de liquidación de entidades aseguradoras, adoptados o incoados, respectivamente, con anterioridad a dicha fecha se regirán por las disposiciones que les resultasen de aplicación en el momento de su adopción o incoación.

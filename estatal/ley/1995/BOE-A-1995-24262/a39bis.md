@@ -1,13 +1,7 @@
 ## Artículo 39 bis. Medidas de garantía de la solvencia futura de las entidades aseguradoras.
 
-1. La Dirección General de Seguros y Fondos de Pensiones podrá adoptar las medidas contenidas en el apartado 2 de este artículo cuando concurran circunstancias, deducidas de comprobaciones efectuadas por la Administración, que puedan poner en peligro la solvencia futura de la entidad o puedan suponer una amenaza para los intereses de los asegurados o el cumplimiento futuro de las obligaciones contraídas, como consecuencia de una inadecuada selección de riesgos, la aplicación de tarifas de primas insuficientes, la existencia de desviaciones significativas de la siniestralidad, la inadecuación de la política de reaseguro o de cualquier otra causa que pueda generar en el futuro una situación grave de desequilibrio o de debilidad financiera.
+(Derogado)
 
-2. Las medidas de garantía de la solvencia futura de las entidades aseguradoras podrán consistir en:
-
-a) Exigir a la entidad aseguradora un plan de recuperación financiera para garantizar y prever su solvencia futura, que deberá ser sometido a aprobación de la Dirección General de Seguros y Fondos de Pensiones. Dicho plan deberá, al menos, contener indicaciones y justificaciones para los próximos tres ejercicios relativas a: las estimaciones de los gastos de gestión, en especial las comisiones y los gastos generales corrientes ; estimaciones detalladas de los ingresos y gastos relativos a las operaciones de seguro directo, a las aceptaciones en reaseguro y a las cesiones en reaseguro ; los balances de situación previstos ; estimaciones de los recursos financieros con los que se pretenda cubrir los compromisos contraídos y el margen de solvencia obligatorio, y la política global de reaseguro.
-
-b) Exigir que la entidad aseguradora disponga de un margen de solvencia superior al resultante de la aplicación de lo dispuesto en las normas de desarrollo reglamentario de esta ley, que garantice el cumplimiento en el futuro de los requisitos de solvencia de la entidad. A estos efectos la cuantía mínima del margen de solvencia de que deberá disponerse será la que se determine por la Dirección General de Seguros y Fondos de Pensiones y se basará en el plan de recuperación financiera que le sea aprobado a la entidad.
-
-3. La adopción de las medidas de garantía de la solvencia futura de las entidades aseguradoras a que se refiere este artículo, se tramitará conforme a lo dispuesto por el apartado 5 del artículo 39 de esta ley.
+> Se deroga por la disposición derogatoria única.a) del Real Decreto Legislativo 6/2004, de 29 de octubre. Ref. BOE-A-2004-18908.
 
 > Se añade por el art. 1.11 de la Ley 34/2003, de 4 de noviembre. Ref. BOE-A-2003-20330

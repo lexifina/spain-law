@@ -16,4 +16,6 @@ c) Con arreglo al artículo 149.1.14.ª de la Constitución, las materias regula
 
 d) Con arreglo al artículo 149.3 de la Constitución, en materia regulada en los apartados 14, 15, 18 y 20 de la disposición adicional undécima.
 
+> Se deroga en la forma indicada en la disposición derogatoria única.a).2 a 6 del Real Decreto Legislativo 6/2004, de 29 de octubre. Ref. BOE-A-2004-18908.
+
 > Se modifican los apartados 2.a) y b) por el art. 1.24 de la Ley 34/2003, de 4 de noviembre. Ref. BOE-A-2003-20330

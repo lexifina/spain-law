@@ -14,6 +14,6 @@ Los trabajadores a que se refiere el párrafo anterior, que hayan optado por inc
 
 De igual modo, las entidades gestoras o las Mutuas podrán establecer acuerdos de colaboración con el Instituto Nacional de la Salud o los Servicios de Salud de las Comunidades Autónomas.»
 
-2. Sin perjuicio de lo establecido en los artículos 77 y 199 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto legislativo 1/1994, de 20 de junio, y en el artículo 1.2 de la presente Ley, las normas de ordenación y supervisión de los seguros privados serán aplicables a las garantías financieras, bases técnicas y tarifas de primas que correspondan a las obligaciones que asuman las entidades aseguradoras en virtud de los conciertos que, en su caso y previo informe de la Dirección General de Seguros u órgano competente de las Comunidades Autónomas, establezcan con organismos de la Administración de la Seguridad Social, o con entidades de derecho público que tengan encomendada, de conformidad con su legislación específica, la gestión de algunos de los Regímenes Especiales de la Seguridad Social.
+2. (Derogado)
 
-Los modelos de pólizas de seguros establecidos en virtud de los conciertos a que se refiere el párrafo anterior deberán estar a disposición de la Dirección General de Seguros u organismos competentes de las Comunidades Autónomas en la forma que reglamentariamente se determine.
+> Se deroga el apartado 2 por la disposición derogatoria única.a).7 del Real Decreto Legislativo 6/2004, de 29 de octubre. Ref. BOE-A-2004-18908.

@@ -1,3 +1,5 @@
 ## Disposición transitoria duodécima. Límites provisionales del aseguramiento obligatorio de la responsabilidad civil ocasionada por la circulación de vehículos automóviles.
 
-Sin perjuicio de la ulterior determinación y modificación reglamentaria al amparo de la habilitación concedida al Gobierno en el artículo 4.2 de la Ley sobre Responsabilidad Civil y Seguro en la Circulación de Vehículos a Motor, en su redacción dada por la disposición adicional octava de la presente Ley, el importe máximo del aseguramiento obligatorio en el seguro de suscripción obligatoria previsto en dicha Ley para garantizar la cobertura de la responsabilidad civil en vehículos terrestres automóviles con estacionamiento habitual en España será, desde el día 1 de enero de 1996, de 56 millones de pesetas por víctima en los daños a las personas y de 16 millones de pesetas por siniestro para los daños en los bienes.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto Legislativo 6/2004, de 29 de octubre. Ref. BOE-A-2004-18908.

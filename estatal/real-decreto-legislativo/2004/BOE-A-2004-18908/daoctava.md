@@ -1,0 +1,3 @@
+## Disposición adicional octava. Entidades aseguradoras autorizadas para operar en una parte de los riesgos del ramo de enfermedad.
+
+Las autorizaciones concedidas con anterioridad al 10 de noviembre de 1995 en los ramos de enfermedad o asistencia sanitaria que preveía la Orden de 7 de septiembre de 1987 tendrán la consideración de autorización que comprende sólo una parte de los riesgos incluidos en un ramo a los efectos del artículo 5.3 y 5.7, párrafo segundo, de esta ley, y las disposiciones reglamentarias que se dicten para regular el ramo de enfermedad únicamente serán aplicables a la cobertura de los riesgos de asistencia sanitaria incluidos en el ramo de enfermedad cuando así se disponga expresamente.
