@@ -79,3 +79,7 @@ Los tejidos y fibras textiles empleados en la confección de cortinas, tapices, 
 ## 2.09.11. Productos varios.
 
 La crin, seda, guata, pelote, residuos textiles y otros productos semejantes deberán desinfectarse por las industrias correspondientes antes de ser usados en la fabricación y relleno de tapicerías de muebles, colchones, almohadas y otros objetos de uso doméstico, guantes de trabajo, cepillos y objetos similares.
+
+> Véase el art. 1 y la disposición derogatoria del Real Decreto 106/1985, de 23 de enero. Ref. BOE-A-1985-2051., en cuanto a las condiciones de los apartados 2.09.02 a 2.09.05 y 2.09.10 en relación con las letras f) y g) del apartado 2.09.01.
+
+> Téngase en cuenta la disposición transitoria, para su aplicación.
