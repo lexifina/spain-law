@@ -35,6 +35,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo dieciocho](adieciocho.md)
 - [Artículo diecinueve](adiecinueve.md)
 - [Artículo veinte](aveinte.md)
+- [Artículo veinte bis](aveintebis.md)
+- [Artículo veinte ter](aveinteter.md)
 - [CAPÍTULO III](ciii.md)
 - [Artículo veintiuno](aveintiuno.md)
 - [Artículo veintidós](aveintidos.md)
