@@ -6,4 +6,6 @@ Cuando se trate de buques nucleares la garantía mínima exigible será fijada p
 
 Para las instalaciones radiactivas, la cobertura mínima exigida será fijada en el Reglamento de esta Ley.
 
+> Se modifica el párrafo primero por la disposición adicional 4.2 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
+
 > Se modifica el párrafo primero por la disposición adicional 5.2 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966

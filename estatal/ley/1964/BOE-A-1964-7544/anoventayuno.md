@@ -16,11 +16,11 @@ a) Son infracciones muy graves:
 
 6. La ocultación deliberada de información relevante, o su suministro falso, a la Administración o al Consejo de Seguridad Nuclear, cuando dicho comportamiento implique un riesgo grave para las personas o las cosas.
 
-7. La inaplicación de las medidas técnicas o administrativas que con carácter general o particular se impongan a una actividad, el incumplimiento de los plazos señalados para su puesta en práctica, y la omisión de los requerimientos o medidas correctoras necesarias para el cumplimiento de los preceptos legales o reglamentarios cuando en todos los casos se produzca un grave riesgo para la vida y la salud de las personas, y la seguridad de las cosas.
+7. La inaplicación de las medidas técnicas o administrativas que con carácter general o par ticular se impongan a una actividad, el incumplimiento de los plazos señalados para su puesta en práctica y la omisión de los requerimientos o medidas correctoras necesarias para el cumplimiento de los preceptos legales o reglamentarios cuando en todos los casos se produzca un grave riesgo para la vida y la salud de las personas, y la seguridad de las cosas.
 
 8. El incumplimiento o demora injustificados de las notificaciones obligadas en supuestos de emergencia, que lleven aparejado un grave riesgo para personas o bienes.
 
-9. La manipulación, trasladado o disposición en cualquier forma, de sustancias radiactivas o equipos productores de radiaciones ionizantes intervenidos.
+9. La manipulación, traslado o disposición en cualquier forma, de sustancias radiactivas o equipos productores de radiaciones ionizantes intervenidos.
 
 b) Son infracciones graves:
 
@@ -51,5 +51,7 @@ c) Son infracciones leves:
 4. Las cometidas por simple negligencia, siempre que el riesgo derivado fuera de escasa importancia.
 
 5. Las simples irregularidades o cualquier incumplimiento meramente formal de los preceptos legales o reglamentarios cuando asimismo tengan escasa trascendencia.
+
+> Se modifica por la disposición adicional 5 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
 
 > Se modifica por la disposición adicional 6 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966

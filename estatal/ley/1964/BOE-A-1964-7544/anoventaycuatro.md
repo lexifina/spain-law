@@ -14,4 +14,6 @@ En el ámbito de las Comunidades Autónomas se estará a lo previsto en su propi
 
 5. En ningún caso se impondrán varias sanciones por un mismo hecho, aunque sí podrán exigirse otras responsabilidades que se deduzcan de otros hechos o infracciones que concurran.
 
+> Se modifica por la disposición adicional 5 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
+
 > Se modifica por la disposición adicional 6 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966

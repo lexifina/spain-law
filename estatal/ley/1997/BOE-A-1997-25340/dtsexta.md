@@ -1,0 +1,9 @@
+## Disposición transitoria sexta. Costes de transición a la competencia.
+
+Se reconoce la existencia de unos costes de transición al régimen de mercado competitivo, previsto en la presente Ley, de las sociedades titulares de instalaciones de producción de energía eléctrica, que a 31 de diciembre de 1997 estuvieran incluidas en el ámbito de aplicación del Real Decreto 1538/1987, de 11 de diciembre, sobre determinación de la tarifa de las empresas gestoras del servicio eléctrico, la percepción de una retribución fija, expresada en pesetas por KWH, que se calculará, en los términos que reglamentariamente se establezcan, como la diferencia entre los ingresos medios obtenidos por estas empresas a través de la tarifa eléctrica y la retribución reconocida para la producción en el artículo 16.1 de la presente Ley.
+
+Durante un plazo máximo de diez años desde la entrada en vigor de la presente Ley, el Gobierno podrá establecer anualmente el importe máximo de esta retribución fija con la distribución que corresponda. No obstante, si las condiciones del mercado lo hacen aconsejable, una vez cumplidas las condiciones y compromisos establecidos en esta disposición transitoria, el Gobierno podrá reducir el citado período de diez años.
+
+Los costes que se deriven de esta retribución serán repercutidos a todos los consumidores de energía eléctrica como costes permanentes del sistema, en los términos que reglamentariamente se establezcan y su importe base global, en valor a 31 de diciembre de 1997, nunca podrá superar 1.988.561 millones de pesetas, incluyéndose en este importe el valor actual de los incentivos al consumo garantizado de carbón a que hace referencia el párrafo primero de la disposición transitoria cuarta.
+
+Si el coste medio de generación a que se refiere el artículo 16.1 de la presente Ley a lo largo del período transitorio, resultara en media anual superior a 6 pesetas por KWH, este exceso se deducirá del citado valor actual.

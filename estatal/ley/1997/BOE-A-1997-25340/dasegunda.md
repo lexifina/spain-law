@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Ocupación del dominio público marítimo terrestre para líneas aéreas de alta tensión.
+
+A los efectos previstos en el artículo 32 de la Ley 22/1988, de 28 de julio, de Costas, excepcionalmente y por razones de utilidad pública debidamente acreditadas, el Consejo de Ministros, a propuesta conjunta de los Ministerios de Fomento, de Medio Ambiente y de Industria y Energía, tomando en consideración los valores medioambientales y paisajísticos, podrá autorizar el tendido aéreo de líneas eléctricas de alta tensión en el dominio público marítimo-terrestre, siempre que no se localicen en tramos de costa que constituyan playa u otros ámbitos de especial protección.

@@ -12,8 +12,10 @@ c) Las infracciones leves, con multa de hasta 10.000.000 de pesetas.
 
 La cuantía de las sanciones se graduará atendiendo a los criterios de proporcionalidad y a las circunstancias especificadas en el artículo anterior.
 
-La multas se podrán reiterar en el tiempo hasta que cese la conducta infractora.
+Las multas se podrán reiterar en el tiempo hasta que cese la conducta infractora.
 
 3. Cuando se trate de instalaciones radiactivas de segunda y tercera categorías, las sanciones económicas de multa se reducirán en su grado máximo a la mitad de las señaladas anteriormente.
+
+> Se modifica por la disposición adicional 5 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
 
 > Se modifica por la disposición adicional 6 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966

@@ -68,4 +68,6 @@ iii) La pérdida de vidas humanas, las lesiones corporales y los daños y perjui
 
 20.«Aeronave militar» es toda aeronave que tenga como misión la defensa nacional o esté mandada por un militar comisionado al efecto.
 
+> Se modifica el apartado 9 por la disposición adicional 4.1 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
+
 > Se modifica el apartado 9 por la disposición adicional 5.1 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966
