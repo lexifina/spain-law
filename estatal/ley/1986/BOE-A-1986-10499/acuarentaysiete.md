@@ -10,4 +10,6 @@ Asimismo ejercerá las funciones que le puedan ser confiadas para la debida coor
 
 4. Será Presidente del Consejo Interterritorial del Sistema Nacional de Salud el Ministro de Sanidad y Consumo.
 
-5. A los efectos previstos en el artículo 5.2 de esta Ley, se crea un Comité Consultivo vinculado con el Consejo Interterritorial del Sistema Nacional de Salud al que se refieren los apartados anteriores, integrado paritariamente por representantes de las organizaciones empresariales y sindicales más representativas.
+5. Se crea un Comite Consultivo vinculado con el Consejo Interterritorial del Sistema Nacional de Salud al que se refieren los apartados anteriores, integrado por el mismo número de representantes de las organizaciones empresariales y sindicales más representativas y por los de aquellas asociaciones de consumidores y usuarios que a tal objeto proponga el Consejo de Consumidores y Usuarios y, paritariamente con todos los anteriores, por representantes de las Administraciones Públicas presentes en el Consejo Interterritorial, designados por éste.
+
+> Se modifica el apartado 5 por la disposición adicional 6 de la Ley 25/1990, de 20 de diciembre. Ref. BOE-A-1990-30938.
