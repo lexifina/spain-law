@@ -8,6 +8,8 @@ Delegación del Director general de la Guardia Civil en:
 
 1.2 Todas aquellas competencias relativas a armas, explosivos y seguridad privada, conferidas con anterioridad por disposiciones internas del Cuerpo a la Subdirección General de Operaciones.
 
+> Téngase en cuenta que se revoca la delegación en el General Jefe de la Jefatura de Apoyo de la Guardia Civil de las atribuciones en materia de seguridad privada y se delegan en el General Jefe de la Jefatura de Unidades Especiales y de Reserva de la Guardia Civil las atribuciones que a esta Dirección General confiere la normativa sobre seguridad privada, con exclusión de las de carácter sancionador y de las delegadas en otros órganos, según establece el art. único de la Resolución de 23 de marzo de 1998. Ref. BOE-A-1998-7669
+
 2. Los Jefes de zona de la Guardia Civil.- Las atribuciones que se confieren a la Secretaría General-Dirección General de la Guardia Civil en:
 
 2.1 Reglamentos de armas.- Artículo 100.3, sobre expedición de licencias «D»; artículo 117.4, sobre autorización de tarjetas militares, para que surtan efecto de licencias «A», para el personal residente en demarcación de sus respectivas Unidades; el artículo 96.8, sobre concesión de autorización para la adquisición de fusiles de inyección anestésica, y el artículo 97.5, sobre revocación de ellas por falta de mantenimiento de los requisitos exigibles.
@@ -43,5 +45,7 @@ Para el personal de sus respectivas Unidades.
 Jefes de Comandancia:
 
 Para el personal miembro de las Policías de las Corporaciones locales.
+
+> Se revoca la delegación en el General Jefe de la Jefatura de Apoyo de la Guardia Civil de las atribuciones en materia de seguridad privada y se delegan en el General Jefe de la Jefatura de Unidades Especiales y de Reserva de la Guardia Civil por el art. único de la Resolución de 23 de marzo de 1998. Ref. BOE-A-1998-7669
 
 > Redactado el apartado 3.2 conforme a la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 1997. Ref. BOE-A-1997-11610
