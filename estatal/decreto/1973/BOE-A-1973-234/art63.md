@@ -11,3 +11,7 @@ a) Las prestaciones económicas proporcionales al salario se calcularán, en tod
 b) En los casos en que el trabajador por cuenta propia no haya formalizado la adecuada y suficiente cobertura de dicha contingencia o se encuentre en descubierto en el pago de las primas correspondientes no tendrá derecho a ninguna de las prestaciones derivadas de accidente de trabajo o enfermedad profesional, sin que en tales casos pueda exigirse responsabilidad alguna a cargo del Fondo de Garantía o del correspondiente Servicio Común de la Seguridad Social.
 
 c) Cuando el trabajador por cuenta propia no sea propietario de la finca que explota no se derivará responsabilidad alguna por accidente de trabajo o enfermedad profesional para el propietario de dicha finca, en cuanto tal propietario de la misma.
+
+d) Los trabajadores por cuenta propia a quienes se les reconozca una pensión de incapacidad permanente total para la profesión habitual la percibirán incrementada en un 20 por ciento, en los supuestos y con los requisitos señalados en el apartado 2 del artículo 58.
+
+> Se añade la letra d) al apartado 3 por el art. 1.2 del Real Decreto 463/2003, de 25 de abril. Ref. BOE-A-2003-8591.
