@@ -1,0 +1,5 @@
+## Disposición adicional primera. Aplicación del Reglamento de explosivos.
+
+1. El presente Real Decreto no será de aplicación a los establecimientos regulados por el Reglamento de explosivos, aprobado por Real Decreto 230/1998, de 16 de febrero, que se regirán por su normativa específica, salvo en lo relativo a los planes de emergencia exterior, en que se regirán por lo dispuesto en la presente norma.
+
+2. A estos efectos, la Delegación del Gobierno en la Comunidad Autónoma donde radique el establecimiento remitirá al órgano competente de dicha Comunidad Autónoma, para la elaboración del plan de emergencia exterior, la certificación de idoneidad y el permiso expreso del Delegado de Gobierno previo a su entrada en funcionamiento, previstos en los artículos 40 y 41 del citado Reglamento y cualquier otra documentación relativa a cambios en las condiciones de explotación. Asimismo pondrá a disposición de dicho órgano competente, la documentación prevista en los apartados 1.1.º a), b) y c) y 1.2.º del artículo 33, y en los apartados 1.1.º y 2.º del artículo 34 del citado Real Decreto 230/1998.
