@@ -1,0 +1,3 @@
+## Disposición adicional octava. Continuidad de los contratos celebrados por RENFE.
+
+En aplicación y cumplimiento de lo establecido en las disposiciones adicionales primera, segunda y tercera de la Ley del Sector Ferroviario, la Administración y todos los organismos públicos afectados habrán de adoptar las medidas que permitan al administrador de infraestructuras ferroviarias el cumplimiento de los contratos que RENFE haya celebrado con terceros, antes de la entrada en vigor de la referida Ley, y, en particular, los que les atribuyeran derechos sobre bienes que pertenecieran o estuvieran adscritos a la propia RENFE.

@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Modificación de la inscripción en el Registro de la Propiedad de los bienes inmuebles propiedad de antiguas compañías ferroviarias.
+
+Las inscripciones de los bienes inmuebles que figuren en el Registro de la Propiedad a favor de las antiguas compañías ferroviarias concesionarias y que fueron rescatados por el Estado y entregados a RENFE en virtud de la Ley de Bases de Ordenación Ferroviaria de 24 de enero de 1941, serán modificadas e inscritas a nombre del Administrador de Infraestructuras Ferroviarias en el supuesto de que se trate de bienes demaniales que sean de su titularidad conforme con la Ley del Sector Ferroviario.

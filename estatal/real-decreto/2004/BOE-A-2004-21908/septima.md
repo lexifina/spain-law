@@ -1,0 +1,5 @@
+## Disposición adicional séptima. Traslación de bienes de RENFE a RENFE-Operadora.
+
+1. Mediante Orden del Ministro de Fomento y en los términos previstos en las disposiciones adicionales primera y tercera de la Ley del Sector Ferroviario, se incorporarán al patrimonio de RENFE-Operadora, con la naturaleza de bienes patrimoniales, todos los bienes muebles e inmuebles de RENFE que sean necesarios para la prestación del servicio de transporte ferroviario, y los que se consideren convenientes para garantizar su equilibrio financiero.
+
+2. A los efectos de su regulación catastral e inscripción registral, será título suficiente la propia Orden ministerial a que se refiere el apartado anterior. Asimismo, RENFE-Operadora podrá expedir, en su caso, las certificaciones administrativas de dominio previstas en el artículo 206 de la Ley Hipotecaria, Texto Refundido aprobado por el Decreto de 8 de febrero de 1946, las inmatriculaciones, modificaciones o traslaciones que fueran necesarias para su inscripción a favor de RENFE-Operadora en los términos previstos en la disposición adicional quinta.
