@@ -1,3 +1,5 @@
 ## CAPÍTULO IV
 
 ## Expedición de los títulos
+
+> Se deroga por el art. 8.3 de la Orden de 3 de marzo de 1965. Ref. BOE-A-1965-6177
