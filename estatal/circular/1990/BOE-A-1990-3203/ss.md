@@ -1,0 +1,1 @@
+## Sección Segunda. Criterios generales
