@@ -32,6 +32,8 @@ Pardo para la categoría comercial.
 
 Verde para las mezclas de semillas de plantas forrajeras.
 
+Azul con una línea diagonal verde para las asociaciones varietales.
+
 Las etiquetas oficiales, en el caso de las semillas de base y certificadas contendrán como mínimo los siguientes datos:
 
 Encabezamiento con las siglas España y mención del organismo oficial responsable.
@@ -217,6 +219,8 @@ Certificado de que los cultivos de que proceden las semillas han cumplido los re
 En su caso, resultados de un análisis preliminar de las semillas.
 
 26c. En aquellos casos en que así se especifique en los correspondientes Reglamentos técnicos de control y certificación de semillas se certificarán oficialmente como semilla certificada, previa solicitud, las semillas recogidas en un país tercero, si las mismas han sido objeto de una inspección en campo, que cumplan con las condiciones establecidas en las Decisiones comunitarias de equivalencia con países terceros, y si un examen oficial prueba que se cumplen las condiciones establecidas para las semillas de la categoría correspondiente. Las semillas anteriormente citadas y que pueden ser objeto de certificación deben de proceder directamente de semillas de base, certificadas o certificadas de primera reproducción, oficialmente certificadas en uno o varios Estados miembros de la Comunidad Económica Europea o en un país tercero al que se haya otorgado equivalencia, o procedentes directamente del cruce de semillas de base oficialmente certificadas en un Estado miembro con semilla de base oficialmente certificada en los citados países terceros.
+
+> Se modifica el apartado 20 por el art. 1.1 de la Orden APA/1588/2003, de 5 de junio. Ref. BOE-A-2003-12026.
 
 > Se añade el apartado 22 bis y se modifica el 25 por el art. 1.8 y 9 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333.
 

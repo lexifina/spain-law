@@ -60,7 +60,7 @@ j) Las Comunidades Autónomas remitirán al Ministerio de Agricultura, Pesca y A
 
 41. En el caso en que los productores hagan uso de la autorización que se señala en el número anterior, deberán fijar, en cada uno de los nuevos envases, una etiqueta o una inscripción sobre los mismos en la que consten los datos y especificaciones que se exijan en el correspondiente Reglamento Técnico.
 
-Los Productores quedan autorizados a envasar mezclas de semilla en los casos en que esté previsto en el correspondiente Reglamento Técnico.
+Los productores quedan autorizados a envasar mezclas de semillas y asociaciones varietales en los casos en que esté previsto en los correspondientes Reglamentos Técnicos.
 
 42. Toda Entidad o particular dedicado al almacenado y/o comercio de semillas o plantas de vivero, salvo en el caso de que se trate de productores autorizados, deberán estar inscritos en el Registro de Comerciantes de Semillas y Plantas de Vivero de la correspondiente Comunidad Autónoma. Asimismo, en todo almacén de semillas deberá llevarse un libro-registro en el que, por especies, variedades y categorías, se anotarán las entradas y salidas de almacén.
 
@@ -109,6 +109,8 @@ La Estación de Ensayos de Semillas del Instituto es la acreditada en la Asociac
 En los casos en que esté autorizado el fraccionamiento de los envases originales, los productores están obligados a conservar los albaranes de venta correspondientes durante un plazo superior en un año al de validez del precintado. Si existiese alguna reclamación, el Productor estará obligado a exhibir ante los servicios oficiales de control dichos albaranes en los que constará la especie y variedad de la semilla vendida, nombre y domicilio del comprador y número de lote o lotes, con las cantidades vendidas de cada uno.
 
 51. Las posibles infracciones en el comercio de semillas se clasificarán y sancionarán de acuerdo con lo preceptuado en la Ley 11/1971, de 30 de marzo, y disposiciones complementarias.
+
+> Se modifica el apartado 41 por el art. 1.2 de la Orden APA/1588/2003, de 5 de junio. Ref. BOE-A-2003-12026.
 
 > Se modifica el apartado 40 bis por el art. 1 de la Orden APA/3188/2002, de 11 de diciembre. Ref. BOE-A-2002-24529.
 
