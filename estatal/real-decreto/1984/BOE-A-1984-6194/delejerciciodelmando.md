@@ -1,0 +1,1 @@
+## Del ejercicio del mando
