@@ -1,0 +1,5 @@
+## Octavo.
+
+Una vez comprobado el grado de incidencia que las aprobaciones definitivas tengan sobre el aprovechamiento de los bienes de carácter patrimonial, o demanial afectados a este Ministerio y teniendo en cuenta los intereses del Estado, los Delegados de Hacienda impugnarán en vía administrativa los acuerdos de aprobación definitiva, si así lo estimasen procedente, o recibieran instrucciones en tal sentido de la Dirección General del Patrimonio. La impugnación en vía judicial, en su caso, será instada por la Dirección General del Patrimonio del Estado.
+
+Tratándose de bienes demaniales que no estén afectados al propio Departamento o adscritos a sus Organismos, el Delegado de Hacienda comunicará a la Delegación del Gobierno y a los Servicios Provinciales del Departamento u Organismo que corresponda, el grado de incidencias que las aprobaciones definitivas tengan sobre el aprovechamiento de los bienes, expresando su parecer sobre la oportunidad de impugnar los acuerdos e indicando, en su caso, las instrucciones transmitidas por la Dirección General.
