@@ -1,0 +1,3 @@
+## Art. 1. Objeto.
+
+La presente Orden tiene como objeto establecer los requisitos para la expedición de un Certificado de Tipo, sin el cual no se permitirá la operación de las Aeronaves Ultraligeras Motorizadas, y sus reglas se aplicarán a la construcción en serie y a la importación de estos vehículos, de tal manera que se pueda garantizar una mayor fiabilidad y calidad de los productos que se ofrezcan al usuario y, como consecuencia, obtener una mayor seguridad en su utilización, tanto para sus ocupantes como para terceras personas que pudieran sufrir daños a causa de un fallo de la aeronave.
