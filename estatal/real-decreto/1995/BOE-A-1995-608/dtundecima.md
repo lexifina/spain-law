@@ -1,0 +1,5 @@
+## Disposición transitoria undécima. Auxiliares de detectives acreditados.
+
+1. Los auxiliares de detective que se encontrasen acreditados como tales en la fecha de promulgación de la Ley 23/1992 podrán seguir desarrollando las mismas actividades hasta que transcurra un año desde la promulgación de las disposiciones de desarrollo y ejecución reglamentaria relativas a la habilitación para el ejercicio de la profesión de detective privado, durante cuyo plazo habrán de figurar en el Registro especial regulado en el artículo 104 del Reglamento de dicha Ley.
+
+2. Para poder ejercer las actividades previstas en el artículo 19.1 de la citada Ley, habrán de superar durante el expresado plazo las pruebas de aptitud técnico-profesional que establezca el Ministerio de Justicia e Interior y que estarán a un nivel concordante con la titulación académica exigida para el ejercicio de las indicadas actividades, lo que les habilitará para poder obtener la tarjeta de identidad profesional de detective privado.

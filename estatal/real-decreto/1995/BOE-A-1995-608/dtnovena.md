@@ -1,0 +1,5 @@
+## Disposición transitoria novena. Personal ya habilitado.
+
+1. Los vigilantes jurados de seguridad, guardas jurados de explosivos, guardas particulares jurados del campo, guardas de caza y guardapescas jurados marítimos que en la fecha de entrada en vigor de la Ley 23/1992 reunieran las condiciones exigibles para la prestación de los correspondientes servicios con arreglo a la regulación anterior a aquélla podrán seguir desempeñando las funciones para las que estuviesen documentados, sin necesidad de obtener la habilitación a que se refiere el artículo 10 de la citada Ley. Lo dispuesto en este apartado será en general aplicable a cualquier clase de personal que, independientemente de su denominación, viniera realizando funciones propias de personal de seguridad privada.
+
+2. Los detectives privados que se encontrasen acreditados como tales en la fecha de promulgación de la indicada Ley podrán seguir desarrollando las mismas actividades hasta que transcurra un año desde la promulgación de las disposiciones de desarrollo y ejecución reglamentaria relativas a la habilitación para el ejercicio de la profesión de detective privado.
