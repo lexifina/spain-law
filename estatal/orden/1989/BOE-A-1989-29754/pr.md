@@ -1,0 +1,9 @@
+El artículo 48.2 de la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito, faculta al Ministro de Economía y Hacienda para que, con la finalidad de proteger los legítimos intereses de los clientes de aquéllas, establezca un conjunto de obligaciones específicas aplicables a las relaciones contractuales entre unas y otros, exija la comunicación a las autoridades administrativas de las condiciones básicas de las operaciones y regule determinados aspectos de su publicidad.
+
+Conviene, por ello, hacer extensivas al conjunto de las Entidades de crédito las normas que, en materia de tipos de interés, comisiones, normas de actuación e información a clientes, estableció ya para las Entidades de depósito la Orden de 3 de marzo de 1987, así como refundir su contenido con el de la Orden de 16 de junio de 1988 y complementarlas con algunas disposiciones que la experiencia adquirida aconseja.
+
+Aunque la Orden presta especial atención a las operaciones clásicas de las Entidades de crédito, tales como préstamos o depósitos bancarios, su ámbito de aplicación es más general, extendiéndose también a otras operaciones (por ejemplo, cesiones de activos financieros, operaciones en divisas, etc.), en las que una mejor información a la clientela sentará las bases de una mayor competencia entre Entidades.
+
+En materia de publicidad, y atendiendo también a las previsiones de la reciente Ley 34/1988, de 11 de noviembre, General de Publicidad, se procede a una liberalización, con carácter general, de la realizada por las Entidades de crédito, si bien aquella que contenga referencia al coste o rentabilidad de las operaciones continuará sujeta a autorización previa del Banco de España, ya que las expectativas que puede generar en el público aconsejan hacerla objeto de un particular control.
+
+En su virtud, este Ministerio, de acuerdo con el Consejo de Estado, ha tenido a bien disponer lo siguiente:

@@ -1,0 +1,3 @@
+## Sexto.
+
+Las reglas sobre fechas de valoración y las tarifas de comisiones a que se refieren los números cuarto y quinto anteriores se redactarán de forma clara, concreta y fácilmente comprensible por la clientela, correspondiendo comprobar estos extremos al Banco de España cuando le sean remitidas antes de su aplicación. Dichas reglas y tarifas tendrán carácter público. Quien solicite su consulta tendrá derecho a efectuarla en cualquier oficina de la Entidad de crédito en cuestión, así como en el Banco de España. Sin perjuicio de ello, el Ministerio de Economía y Hacienda y el Banco de España darán la publicidad adicional que estimen pertinente al contenido de dichos documentos.

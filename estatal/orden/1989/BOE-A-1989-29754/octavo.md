@@ -1,0 +1,7 @@
+## Octavo.
+
+1. Las Entidades de crédito facilitarán a sus clientes, en cada liquidación que practiquen por sus operaciones activas, pasivas o de servicios, un documento en el que se expresen con claridad los tipos de interés y comisiones aplicados; con indicación concreta de su concepto, base y período de devengo, los gastos suplidos, los impuestos retenidos y, en general, cuantos antecedentes sean precisos para que el cliente pueda comprobar la liquidación efectuada y calcular el coste o producto neto efectivo de la operación.
+
+En los casos en que, en virtud de lo dispuesto en el número séptimo de esta Orden, sea preceptiva la entrega al cliente de documento contractual, el documento explicativo de la liquidación de intereses expresará su coste o producto neto efectivo en términos de una operación de similar naturaleza con interés anual pospagable. Dicho cálculo deberá realizarse con arreglo a la misma fórmula utilizada para el cálculo análogo previsto en el último párrafo del número anterior.
+
+2. En los casos en que la operación dé lugar únicamente a pagos periódicos prefijados, la entrega de los sucesivos documentos de liquidación podrá sustituirse por la inclusión en el contrato de la tabla de todos los pagos o amortizaciones, con sus respectivas fechas, así como de los demás datos previstos en el punto anterior. En caso de modificación de cualquiera de los datos de la tabla deberá entregarse un nuevo documento íntegro que incorpore los nuevos datos.
