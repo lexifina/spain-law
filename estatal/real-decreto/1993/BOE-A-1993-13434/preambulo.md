@@ -1,0 +1,7 @@
+El régimen de ascensos y de provisión de puestos de trabajo de los funcionarios de la Carrera Diplomática está actualmente regulado por el Real Decreto 3033/1976, de 3 de diciembre, anterior a la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y normas concordantes, así como por el Real Decreto 690/1990, de 1 de junio, sobre adscripción de puestos de trabajo a los funcionarios de la Carrera Diplomática.
+
+La necesidad de dar cumplimiento al mandato contenido en el artículo 1.2 de la citada Ley 30/1984, que prevé la existencia de normas específicas para el personal destinado en el exterior, aconseja dictar una nueva disposición que, basándose en los principios generales de la citada Ley, recoja, no obstante, aquellas peculiaridades propias del servicio exterior y de la función diplomática que requieren un tratamiento diferenciado. Entre dichas peculiaridades destaca la característica fundamental, prevista ya en el Real Decreto 3033/1976, y que se mantiene en el actual, de que los puestos de trabajo en el extranjero de los funcionarios de la Carrera Diplomática, se proveen, por su singularidad, por el procedimiento de libre designación.
+
+En su virtud, a propuesta del Ministro de Asuntos Exteriores, con el dictamen favorable de la Comisión Superior de Personal, previa aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 7 de mayo de 1993,
+
+## D I S P O N G O:
