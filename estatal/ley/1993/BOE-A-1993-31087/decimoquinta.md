@@ -1,0 +1,3 @@
+## Disposición adicional decimoquinta. Ejercicio del derecho de opción en determinadas pensiones vitalicias.
+
+Las pensiones vitalicias establecidas en la disposición final undécima de la Ley 4/1990, de 29 de junio, en favor de los funcionarios incluidos en el ámbito del citado precepto, así como del personal referido en la disposición adicional vigésima cuarta de la Ley 31/1990, de 27 de diciembre, podrán ser reconocidas, con los efectos económicos regulados en las normas de desarrollo de las indicadas disposiciones, a quienes tengan derecho a pensión en cualquier régimen de Seguridad Social. Su abono, no obstante, quedará supeditado al ejercicio del derecho de opción por la que resulte más conveniente a su titular.

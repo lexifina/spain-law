@@ -1,0 +1,29 @@
+JUAN CARLOS I
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+PREAMBULO
+
+La voluntad de superar favorablemente la actual recesión de la economía española y sus indeseables consecuencias sobre el desempleo y el déficit público, que afectan por igual a todos los Estados de nuestro entorno político, condicionan las orientaciones y criterios de política económica contenidos en la Ley de Presupuestos para 1994.
+
+En particular, se aspira a conseguir una corrección de los desequilibrios básicos que permitan colocar al Estado español en disposición de comenzar la recuperación económica de la manera más saneada posible y la supresión de ciertas rigideces que están afectando a la eficiencia con que funcionan nuestros mercados y mermando el crecimiento potencial de la producción nacional. A estos efectos, se pretende perseverar en la reducción del déficit público para lo cual se pone un especial énfasis en la austeridad que debe presidir el funcionamiento de las Administraciones Públicas, a la vez que se trata de mejorar la eficiencia y eficacia en el empleo de los recursos. En el ámbito de esta minoración del déficit se considera irrenunciable mantener los logros alcanzados en materia de protección social y, para ello, se hace imprescindible proceder a una revisión de los objetivos y prioridades del gasto público, al efecto de garantizar la productividad social del mismo y mejorar la oferta eficiente de bienes y servicios públicos.
+
+Adicionalmente, y sin perjuicio de las restricciones que implica la orientación limitativa del Presupuesto, se estima necesario continuar el desarrollo y dotación de infraestructuras, que constituyen uno de los principales factores para aumentar la productividad y el crecimiento económico futuro. A este fin, el Presupuesto para 1994 destinará los recursos suficientes para poder continuar la inversión en infraestructuras, de conformidad con los objetivos y el esfuerzo ya iniciado en esta materia desde el Real Decreto-ley 3/1993, de medidas urgentes sobre materias presupuestarias, tributarias, financieras y de empleo.
+
+De conformidad con este espíritu o voluntad legisladora, pueden destacarse, por su novedad o importancia, los siguientes aspectos de la Ley de Presupuestos de 1994:
+
+En el Título 1, en lo que se refiere a las medidas cuyo objetivo es introducir un mayor rigor en la ejecución presupuestaria, cabe destacar la limitación al reconocimiento de obligaciones, que al igual que en años anteriores se mantiene para el presente ejercicio en el artículo 10.
+
+Se ha optado por contener el crecimiento de las retribuciones del personal al servicio del sector público, pues las mismas constituyen un elemento de sustancial importancia en la configuración del gasto público. Los referidos criterios limitativos aplicables a la remuneración del personal laboral y funcionario del sector estatal, se hacen extensibles a las Comunidades Autónomas y Entidades Locales en uso de la competencia del Estado para fijar las bases y criterios de coordinación de la actividad económica, sin perjuicio, en todo caso, de la autonomía financiera de aquéllas.
+
+El apartado atinente a las pensiones públicas tiene este año un doble respaldo o fundamentación. De un lado, esta institución, que afecta a todas las prestaciones financiadas total o parcialmente por el sector público, continúa cumpliendo, en línea con Presupuestos anteriores, la finalidad de compatibilizar y dar respuesta a los principios de solidaridad, suficiencia asistencial y control del gasto. Por otro lado, el Tribunal Constitucional, recientemente, en su sentencia de 8 de marzo de 1993, ha confirmado que la regulación del sistema limitativo de las pensiones públicas es materia que se adapta al singular contenido de la Ley de Presupuestos.
+
+En el Título V de la Ley se incorpora una novedad de sustancial importancia, justificada, tanto por tratarse de una medida que implica una racionalización y disciplina del endeudamiento del sector público, y por tanto del gasto, como por venir requerida por los perentorios plazos impuestos para el cumplimiento de los objetivos marcados por el Tratado de la Unión Europea de 7 de febrero de 1992. Tal novedad, no es otra que la trasposición a nuestro derecho de la norma comunitaria que prohíbe al sector público apelar al crédito del Banco de España.
+
+En el ámbito tributario, destacan las reformas introducidas en el Impuesto sobre Sociedades con el fin de promover un adecuado desarrollo empresarial por medio de la creación de los incentivos necesarios, a la vez que se trata de potenciar una mayor capacitación de los trabajadores, objetivo, este último, que es uno de los instrumentos más eficaces para la consecución de una política de pleno empleo. Estas modificaciones se concretan en la creación de una deducción de un 5 por 100 por gastos de formación profesional, en el incremento en un 5 por 100 de la desgravación por inversiones en el extranjero y, lo que es más importante, en la elevación a un 35 por 100 del límite máximo de deducciones por inversión a practicar sobre la cuota líquida.
+
+En lo referente a la financiación de la Haciendas Territoriales, debe resaltarse que se prorrogan en esta Ley los criterios de cuantificación de la participación de las Entidades Locales en los tributos del Estado, fijados inicialmente por la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, para el período 1989-1993. Por el contrario, la determinación de la participación de’ las Comunidades Autónomas en los ingresos del Estado incorpora una importante novedad, consistente en la asunción de los criterios de corresponsabilidad fiscal contenidos en el sistema de financiación aprobado por el Consejo de Política Fiscal y Financiera de 7 de octubre de 1993.
