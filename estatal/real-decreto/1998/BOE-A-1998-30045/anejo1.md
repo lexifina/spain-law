@@ -408,6 +408,10 @@ b) Instalación, ampliación, modernización, traslado (incorporación de nuevas
 
 c) Almacenes frigoríficos de mataderos, salas de despiece e industrias elaboradoras necesarias para la conservación de las canales, carnes y productos cárnicos de conejos.
 
+4. Caza de Granja.
+
+Instalación, modernización, ampliación, traslado de mataderos, salas de despiece de caza de granja e industrias transformadoras de su carne.
+
 ## I) Sector Vinos y Alcoholes
 
 1. Mejora de la estructura empresarial
@@ -489,3 +493,5 @@ c) Inversiones en la mejora de la conservación y almacenamiento de los producto
 y de la acuicultura)
 
 Inversiones materiales en las empresas de transformación y comercialización de los productos de la pesca; adecuación a las normas sanitarias vigentes de salas de elaboración y de conservas de la pesca, sustitución del revestimiento de las paredes y suelos, por materiales conforme a las normas; mejora de la ventilación e iluminación de los locales y sistemas de limpieza de las cadenas de elaboración, etc.
+
+> Se añade el apartado H).4 por el art. único de la Orden de 26 de noviembre de 1999. Ref. BOE-A-1999-23154.
