@@ -1,0 +1,13 @@
+## Disposición adicional cuarta. Modificación de la estructura orgánica básica del Ministerio de Agricultura, Pesca y Alimentación.
+
+1. Se modifica el apartado 1 del artículo 6 del Real Decreto 1282/2000, de 30 de junio, por el que se modifica y desarrolla la estructura orgánica básica del Ministerio de Agricultura, Pesca y Alimentación, que quedará redactado del modo siguiente:
+
+«1. La Dirección General de Alimentación tiene como funciones elaborar la normativa básica estatal y desarrollar y coordinar las actividades relacionadas con las industrias y mercados alimentarios y la política alimentaria, así como cooperar con las Comunidades Autónomas en el desarrollo de dichas funciones en lo que sea de su competencia y elaborar en colaboración con la Secretaría General de Agricultura las propuestas que permitan establecer la posición española ante la Unión Europea en relación con las mismas, dentro de las competencias del Departamento, todo ello sin perjuicio de la competencia de la Agencia Española de Seguridad Alimentaria.»
+
+2. Se modifican los párrafos a) y b) del apartado 2 del artículo 6, que quedan redactados del modo siguiente:
+
+«a) La Subdirección General de Planificación Alimentaria, a la que corresponden las funciones de coordinación sectorial y comunitaria y la determinación de la posición española ante la Unión Europea sobre nuevos alimentos, sin perjuicio de las competencias atribuidas al Ministerio de Asuntos Exteriores y de las que corresponden a la Agencia Española de Seguridad Alimentaria relativas a la evaluación de su seguridad. Le corresponde, asimismo, la propuesta y elaboración de la normativa básica relativa a los nuevos alimentos, ingredientes y procesos en el ámbito mencionado ; y, con carácter general, la de desarrollo del Código Alimentario Español en ámbitos distintos de los que la Ley 11/2001, de 5 de julio, atribuye a la Agencia Española de Seguridad Alimentaria.
+
+b) Subdirección General de Fomento Agroindustrial y Mercados Agroalimentarios, a la que corresponden funciones de organización, asesoramiento, apoyo y coordinación interna de la Dirección General, la elaboración de planes y programas de actuación en las materias competencia de la Dirección General, así como las funciones propias del Departamento en relación con la ordenación y fomento de las distintas industrias agroalimentarias. Asimismo, le corresponde la coordinación y supervisión de los órganos que determine el Director general y sustituir a éste en caso de ausencia, enfermedad o vacante.»
+
+3. Se suprime el actual párrafo c) del apartado 2 del artículo 6 del Real Decreto 1282/2000. Los actuales párrafos d), e) y f) pasarán a ser c), d) y e), respectivamente.
