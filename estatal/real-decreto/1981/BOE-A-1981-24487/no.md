@@ -1,0 +1,1 @@
+Téngase en cuenta, sobre el cambio de denominación y referencias, el Real Decreto 1641/1999, de 22 de octubre, por el que se modifica la denominación de los Colegios Oficiales de Profesores y Licenciados en Educación Física y del Consejo General de Colegios de Profesores y Licenciados en Educación Física de España. Ref. BOE-A-1999-21184
