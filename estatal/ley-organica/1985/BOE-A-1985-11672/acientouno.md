@@ -9,3 +9,5 @@
 4. Los segundos sobres quedarán archivados en el Juzgado de Primera Instancia o de Paz correspondiente.
 
 5. La Junta Electoral Provincial adoptará las medidas necesarias para facilitar el desplazamiento de los Jueces a que hace mención el párrafo tercero de este artículo.
+
+> Véase, para la interpretación del apartado 1, la Instrucción de 17 de febrero de 1986, de la Junta Electoral Central. Ref. BOE-A-1986-4628
