@@ -12,7 +12,13 @@ c) Desempleados mayores de cuarenta y cinco años.
 
 Los beneficios serán de aplicación a la contratación indefinida tanto si se realiza a jornada completa como a tiempo parcial, incluida en este último supuesto la contratación de trabajadores fijos discontinuos.
 
-2. Igualmente, se incentivará la transformación en indefinidos de los contratos de duración determinada o temporal formalizados con trabajadores incluidos en algunos de los colectivos referidos, cualquiera que sea la modalidad contractual objeto de transformación y que estén vigentes en el momento de entrada en vigor de la presente norma. Asimismo, se incentivará la transformación de contratos de aprendizaje, prácticas, para la formación, de relevo y de sustitución por anticipación de la edad de jubilación en indefinidos, cualquiera que sea la fecha de su celebración.
+2. Igualmente se incentivará, en los términos previstos en esta norma, la transformación en indefinidos de los contratos de duración determinada o temporal, cualquiera que sea la modalidad contractual objeto de transformación y que estén vigentes en el momento de entrada en vigor de la presente norma.
+
+La transformación en contratos indefinidos a tiempo completo de los contratos de duración determinada o temporal, cualquiera que sea la modalidad contractual objeto de la transformación, vigentes en el momento de la entrada en vigor del Real Decreto-ley 9/1997, de 16 de mayo, se incentivará en los términos de la Ley 64/1997, de 26 de diciembre.
+
+Asimismo, se incentivará la transformación de contratos de aprendizaje, prácticas, para la formación, de relevo y de sustitución por anticipación de la edad de jubilación, cualquiera que sea la fecha de su celebración.
+
+La conversión de contratos de prácticas y relevo, a tiempo completo o parcial; aprendizaje, formación y sustitución por anticipación a la edad de jubilación, en contratos indefinidos a tiempo completo, dará derecho a los beneficios previstos en la Ley 64/1997, de 26 de diciembre, cuando la transformación se celebre dentro de su ámbito temporal de vigencia, transcurrido el cual será de aplicación la presente norma. La transformación de los contratos de prácticas y relevo a tiempo parcial en indefinidos a tiempo parcial darán derecho a los beneficios previstos en esta norma.
 
 Segundo. Incentivos.
 
@@ -28,7 +34,7 @@ d) Mayores de 45 años: 45 por 100 durante el primer año de vigencia del contra
 
 2. Cuando las contrataciones establecidas en las letras a), b) y d), del número anterior se realicen con mujeres, las bonificaciones de cuotas se incrementarán en cinco puntos, siempre que dichas contrataciones se efectúen a tiempo completo.
 
-3. Las transformaciones de contratos temporales a tiempo completo o parcial en indefinidos a tiempo completo, darán lugar a una bonificación del 25 por 100 durante los 24 meses siguientes a dicha transformación.
+3. Las transformaciones de contratos temporales a tiempo completo o parcial en indefinido a tiempo completo darán lugar a una bonificación del 25 por 100 durante los veinticuatro meses siguientes a dicha transformación, salvo que ésta afecte a un contrato celebrado con un trabajador mayor de cuarenta y cinco años, en cuyo caso la bonificación del 25 por 100 se prolongará durante la vigencia del contrato transformado.
 
 Dará derecho a la misma bonificación la transformación de contratos temporales a tiempo parcial en indefinidos a tiempo parcial, incluidos los contratos de fijos discontinuos. En este supuesto la jornada del nuevo contrato indefinido será como mínimo igual a la del contrato temporal que se transforma.
 
@@ -81,3 +87,7 @@ Séptimo. Financiación de los incentivos.
 2. La Tesorería General de la Seguridad Social facilitará semestralmente al Instituto Nacional de Empleo, el número de trabajadores objeto de bonificaciones de cuotas a la Seguridad Social, detallados por colectivos, con sus respectivas bases de cotización y las deducciones que las empresas apliquen como consecuencia de lo previsto en la presente norma.
 
 Octavo. Las contrataciones por tiempo indefinido de los trabajadores minusválidos continuarán rigiéndose por lo establecido en el Real Decreto 1451/1983, de 11 de mayo, por el que se regula el empleo selectivo y las medidas de fomento del empleo de trabajadores minusválidos.
+
+> Se modifica el apartado 1.2 y el párrafo primero del apartado 2.3 por el art. 1.1 y .2 del Real Decreto Ley 5/1999, de 9 de abril. Ref. BOE-A-1999-8176
+
+> Esta modificación surte efectos desde el 1 de enero de 1999, según establece la disposición final única.

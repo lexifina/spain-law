@@ -1,6 +1,6 @@
 ## Disposición adicional decimoséptima. Justificación del mantenimiento del derecho al disfrute de bonificaciones de cuotas a la Seguridad Social.
 
-En el plazo de los tres meses siguientes a la entrada en vigor de la presente Ley, las empresas que disfruten de bonificaciones de cuotas a la Seguridad Social por aplicación de las normas que a continuación se detallan deberán acreditar, ante el Instituto Nacional de Empleo, el mantenimiento del derecho a bonificación, aportando la documentación justificativa que se determine por el Ministerio de Trabajo y Asuntos Sociales.
+En el plazo de los seis meses siguientes a la entrada en vigor de la presente Ley, las empresas que disfruten de bonificaciones de cuotas a la Seguridad Social por aplicación de las normas que a continuación se detallan deberán acreditar, ante el Instituto Nacional de Empleo, el mantenimiento del derecho a bonificación, aportando la documentación justificativa que se determine por el Ministerio de Trabajo y Asuntos Sociales.
 
 La no acreditación del derecho a los indicados beneficios supondrá la pérdida automática de los mismos, a partir del mes siguiente en que vence el plazo de tres meses referidos en el párrafo anterior.
 
@@ -21,3 +21,5 @@ Real Decreto 1991/1984, de 31 de octubre, que regula el contrato a tiempo parcia
 Real Decreto 1194/1985, de 17 de julio, por el que se acomodan al amparo de lo establecido en la Disposición Adicional Séptima de la Ley 8/1980, de 10 de marzo, las normas sobre anticipación de la edad de jubilación, como medida de fomento de empleo.
 
 Ley 22/1992, de 30 de julio, de Medidas Urgentes sobre el Fomento de Empleo y protección por desempleo.
+
+> Se modifica el párrafo primero por el art. 2 del Real Decreto Ley 5/1999 de 9 de abril. Ref. BOE-A-1999-8176
