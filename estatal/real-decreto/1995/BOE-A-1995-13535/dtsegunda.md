@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+Las sustancias peligrosas afectadas por la reglamentación que se establece podrán seguir comercializándose bajo las condiciones de clasificación, envasado y etiquetado exigidas con anterioridad a la entrada en vigor del Reglamento aprobado por el presente Real Decreto, durante un período de dieciocho meses a partir de dicha entrada en vigor, con el fin de que las industrias puedan adoptar las medidas necesarias para su cumplimiento. Igualmente, se concede un plazo máximo de dieciocho meses, a partir de la entrada en vigor del presente Real Decreto, para la elaboración de las fichas de datos de seguridad, contempladas en el artículo 23 de la reglamentación que se aprueba.
