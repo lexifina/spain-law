@@ -1,0 +1,13 @@
+La Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, con las modificaciones introducidas por el Real Decreto-ley 6/2000, de 23 de junio, de Medidas Urgentes de Intensificación de la Competencia en Mercados de Bienes y Servicios, establece en su artículo 96 sobre «Cobro y liquidación de las tarifas, peajes y cánones» que reglamentariamente se establecerá el procedimiento de reparto de los fondos ingresados por los transportistas y distribuidores entre quienes realicen las actividades incluidas en el sistema gasista, atendiendo a la retribución que le corresponda de conformidad con la Ley.
+
+El capítulo V, sobre liquidaciones, del Real Decreto 949/2001, de 3 de agosto, por el que se regula el acceso de terceros a las instalaciones gasistas y se establece un sistema económico integrado del sector del gas natural, define en sus artículos 34 y 36 las actividades reguladas y los ingresos y costes sujetos al sistema de liquidación y, en su artículo 37, define las cuotas y tasas con destinos específicos destinados a la retribución del Gestor Técnico del Sistema y a la Comisión Nacional de Energía.
+
+Por su parte, el artículo 35, el artículo 38 y la disposición final segunda del citado Real Decreto establecen que el procedimiento de liquidación y el contenido y plazo de la información que deben presentar las empresas será determinado por el Ministerio de Economía, fijando los valores, parámetros y plazos necesarios para la liquidación.
+
+La Orden ECO/301/2002, de 15 de febrero, por la que se establece la retribución de las actividades reguladas del sector gasista, ha desarrollado el sistema económico integrado del sector de gas natural de las actividades reguladas destinadas al suministro de gas natural por el que se fija su retribución económica en la forma dispuesta en el citado Real Decreto con cargo a las tarifas, los peajes y cánones.
+
+Por otra parte, mediante las Órdenes ECO/302/2002 y ECO/303/2002, del Ministerio de Economía, de 15 de febrero, se han establecido, respectivamente, los precios de las tarifas de gas natural y gases manufacturados por canalización y los precios de los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas.
+
+En consecuencia, teniendo en cuenta que se ha efectuado el desarrollo normativo del sistema integrado económico del sector del gas natural, definiendo para las actividades reguladas los ingresos y costes, es necesario proceder a establecer el sistema de liquidaciones de dichas actividades que permita hacer efectiva la integración del sistema.
+
+En su virtud, previa aprobación del Ministro de Administraciones Públicas e informe de la Comisión Nacional de Energía, dispongo:
