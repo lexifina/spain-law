@@ -1,0 +1,3 @@
+## Disposición final segunda. Facultades de desarrollo.
+
+Se faculta a los Ministros de Sanidad y Consumo, de Industria y Energía y de Agricultura, Pesca y Alimentación, para que en el ámbito de sus competencias dicten las normas necesarias para el desarrollo de las previsiones sobre el programa de cumplimiento, el procedimiento de vigilancia y las disposiciones previstas para la vigilancia del cumplimiento de las buenas prácticas de laboratorio, así como para actualizar al progreso técnico, como consecuencia de la oportuna modificación de la normativa comunitaria, los anexos del presente Real Decreto.
