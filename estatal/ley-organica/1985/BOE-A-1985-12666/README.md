@@ -441,6 +441,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo trescientos cuarenta y uno](atrescientoscuarentayuno.md)
 - [CAPÍTULO VI](cvi-5.md)
 - [Artículo trescientos cuarenta y dos](atrescientoscuarentaydos.md)
+- [Artículo trescientos cuarenta y dos bis](atrescientoscuarentaydosbis.md)
 - [Artículo trescientos cuarenta y tres](atrescientoscuarentaytres.md)
 - [Artículo trescientos cuarenta y cuatro](atrescientoscuarentaycuatro.md)
 - [Artículo trescientos cuarenta y cinco](atrescientoscuarentaycinco.md)
