@@ -45,6 +45,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 24](a24.md)
 - [CAPÍTULO V](cv.md)
 - [Artículo 25](a25.md)
+- [Artículos 25 a 31](as25a31.md)
 - [Artículo 26](a26.md)
 - [Artículo 27](a27.md)
 - [Artículo 28](a28.md)
