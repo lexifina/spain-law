@@ -10,4 +10,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [Disposición adicional segunda](dasegunda.md)
 - [Disposición final trigésima segunda](dftrigesimasegunda.md)

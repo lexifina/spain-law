@@ -1,0 +1,3 @@
+## Disposición final séptima.
+
+La exención contenida en el número 1.º del apartado Uno del artículo 20 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, se seguirá aplicando igualmente al franqueo efectuado por medio de impresiones o estampaciones a máquina por parte de empresas que tengan concedida autorización para franquear correspondencia a terceros o bien título habilitante postal. Cuando resulte de aplicación la regla de la prorrata, el importe a computar en el denominador será la diferencia entre la contraprestación percibida por el franqueo y su coste de adquisición.
