@@ -147,6 +147,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección 1](s1-9.md)
 - [Artículo 95](a95.md)
 - [Sección 2](s2-9.md)
+- [Artículos 96 a 100](as96a100.md)
 - [Artículo 96](a96.md)
 - [Artículo 97](a97.md)
 - [Artículo 98](a98.md)
