@@ -1,0 +1,3 @@
+## Disposición adicional primera. Prórroga del Real Decreto-ley 2/1996, de 26 de enero, sobre determinadas prestaciones patrimoniales de carácter público gestionadas por la Administración General del Estado y los entes públicos de ella dependientes.
+
+Se prorroga por un plazo de seis meses la autorización concedida al Gobierno por el artículo 2 del Real Decreto-ley 2/1996, de 26 de enero, sobre determinadas prestaciones patrimoniales de carácter público gestionadas por la Administración General del Estado y los entes públicos de ella dependientes, para remitir a las Cortes el correspondiente proyecto de Ley de reordenación de la regulación de las prestaciones patrimoniales afectadas por la Sentencia del Tribunal Constitucional 185/1995, de 24 de diciembre.
