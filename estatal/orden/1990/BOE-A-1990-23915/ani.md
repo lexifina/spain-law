@@ -1,9 +1,5 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1990/233/23915_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/184/15638_001.png)
 
-Anverso de la tarjeta de identificación profesional
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1990/233/23915_002.png)
-
-Reverso de la tarjeta de identificación profesional
+> Se modifica por el art. único y anexo de la Orden INT/1972/2002, de 18 de julio. Ref. BOE-A-2002-15638.
