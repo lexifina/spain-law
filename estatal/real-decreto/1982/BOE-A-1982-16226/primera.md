@@ -1,0 +1,5 @@
+## Disposición transitoria primera.
+
+Las reformas y adaptaciones de instalaciones derivadas de las nuevas exigencias incorporadas a esta Reglamentación, que no sean consecuencia de disposiciones legales vigentes y en especial de lo dispuesto en el Decreto dos mil quinientos diecinueve/mil novecientos setenta y cuatro, de nueve de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español serán llevadas a cabo en el plazo de dos años, a contar desde la publicación de la presente Reglamentación.
+
+Las Empresas que no hubieran iniciado las transformaciones que les son precisas dentro del plazo a que se refiere el párrafo anterior, se considerarán infractoras de esta Reglamentación y, en consecuencia, caducadas en sus derechos industriales. Las Empresas que hubieran iniciado su modificación dentro de dicho plazo, a satisfacción de la Dirección General competente del Ministerio de Industria y Energía podrán concluir dicha modificación a lo largo de un plazo que en ningún caso, podrá exceder de cinco años contados desde la publicación de la adjunta Reglamentación.
