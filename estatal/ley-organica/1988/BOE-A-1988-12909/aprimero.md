@@ -8,7 +8,7 @@ Firme un auto de procesamiento y decretada la prisión provisional por delito co
 
 Artículo 504 bis.
 
-Cuando, en virtud de lo dispuesto en los dos artículos anteriores, se hubiere acordado la libertad de presos o detenidos por los delitos a que se refiere el artículo 384 bis. la excarcelación se suspenderá por un periodo máximo de un mes, en tanto la resolución no sea firme, cuando el recurrente fuese el Ministerio Fiscal. Dicha suspensión no se aplicará cuando se hayan agotado en su totalidad los plazos previstos en el artículo 504, y las correspondientes prórrogas, en su caso, para la duración de la situación de prisión provisional.
+(Anulado)
 
 Artículo 520 bis.
 
@@ -29,3 +29,5 @@ Artículo 779.
 Se añade un párrafo tercero del siguiente tenor:
 
 Tercero. Los delitos a que se refiere el artículo 384 bis.
+
+> Se declara la inconstitucionalidad y nulidad de la redacción dada al art. 504 bis, por Sentencia del TC 71/1994, de 3 de marzo. Ref. BOE-T-1994-6778.
