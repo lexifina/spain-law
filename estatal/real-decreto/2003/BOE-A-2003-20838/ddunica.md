@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Sin perjuicio de lo dispuesto en las disposiciones transitorias, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto, y en particular la Reglamentación técnico-sanitaria de industrias, almacenes al por mayor y envasadores de productos y derivados cárnicos elaborados y de los establecimientos de comercio al por menor de la carne y productos elaborados, aprobada por el Real Decreto 379/1984, de 25 de enero, y la Orden de 22 de julio de 1946, por la que se dictan normas para el sacrificio de ganado équido en los mataderos municipales.
