@@ -1,6 +1,6 @@
 ## Disposición adicional décima. Reconocimiento de derechos pasivos causados por quienes han perdido la condición de funcionario.
 
-1. El personal comprendido en las letras a) a h), ambas inclusive, del número 1 del artículo 2 de este texto refundido que pierda la condición de funcionario, cualquiera que fuese la causa, conservará los derechos pasivos que para sí o sus familiares pudiera haber adquirido hasta ese momento, de acuerdo con lo establecido en el presente texto refundido, con las especialidades que se regulan en esta disposición y en la disposición adicional tercera y en los términos que reglamentariamente se determine.
+1. El personal comprendido en las letras a) a h), ambas inclusive, y d) del número 1 del artículo 2 de este texto refundido que pierda la condición de funcionario, cualquiera que fuese la causa, así como el incluido en la letra k) del mismo artículo que termine su relación de servicio con las Fuerzas Armadas, conservará los derechos pasivos que para sí o sus familiares pudiera haber adquirido hasta ese momento, de acuerdo con lo establecido en el presente texto refundido, con las especialidades que se regulan en esta disposición y en la disposición adicional tercera y en los términos que reglamentariamente se determine.
 
 2. Para la determinación de las pensiones causadas por el indicado personal serán de aplicación las normas contenidas en el título I o el título II del presente texto refundido, según corresponda, en función de la fecha en que por edad dicho personal hubiera accedido a la jubilación o al retiro forzoso de no haber perdido la condición de funcionario, o en función de la fecha de su fallecimiento, si éste hubiera sido anterior a dicho momento, de acuerdo con las reglas contenidas en el artículo 3 de este texto refundido.
 
@@ -19,5 +19,7 @@ En los supuestos de reconocimiento de pensión de jubilación o retiro voluntari
 7. El personal a que se refiere la presente disposición causará derecho a pensiones extraordinarias, en propio favor o en el de sus familiares, cuando se incapacite permanentemente para todo trabajo o fallezca como consecuencia de actos de terrorismo. Para el reconocimiento del derecho a estas pensiones no se exigirá período alguno de carencia.
 
 La cuantía de tales pensiones será el doble de la que hubiera correspondido al beneficiario de la misma en circunstancias ordinarias, sin perjuicio de la aplicación de las reglas singulares sobre garantías y excepciones establecidas con carácter general para las pensiones que traen causa en actos de terrorismo.
+
+> Se modifica el apartado 1 por el art. 60.7 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
 
 > Se añade por el art. 130 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117

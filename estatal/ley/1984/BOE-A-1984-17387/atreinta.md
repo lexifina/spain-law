@@ -12,7 +12,7 @@ d) Para concurrir a exámenes finales y demás pruebas definitivas de aptitud y 
 
 e) El funcionario con un hijo menor de nueve meses tendrá derecho a una hora diaria de ausencia del trabajo. Este período de tiempo podrá dividirse en dos fracciones o sustituirse por una reducción de la jornada en media hora.
 
-f) Quien por razones de guarda legal tenga a su cuidado directo algún menor de seis años o a un disminuido psíquico o físico que no desempeñe actividad retribuida, tendrá derecho a una disminución de la jornada de trabajo en un tercio o un medio, con la reducción proporcional de sus retribuciones.
+f) El funcionario, que por razones de guarda legal tenga a su cuidado directo algún menor de seis años, anciano que requiera especial dedicación o a un disminuido psíquico o físico que no desempeñe actividad retribuida, tendrá derecho a la disminución de su jornada de trabajo, con la reducción proporcional de sus retribuciones. Reglamentariamente se determinará la disminución de jornada de trabajo y la reducción proporcional de retribuciones.
 
 2. Podrán concederse permisos por el tiempo indispensable para el cumplimiento de un deber inexcusable de carácter público o personal.
 
@@ -25,6 +25,8 @@ En el supuesto de adopción de un menor de nueve meses, el funcionario tendrá d
 4. Los funcionarios a quienes falten menos de cinco años para cumplir la edad de jubilación forzosa, establecida en el artículo 33 de esta Ley, podrán obtener, a su solicitud, la reducción de su jornada de trabajo hasta un medio, con la reducción de retribuciones que se determine reglamentariamente, siempre que las necesidades del servicio lo permitan.
 
 Dicha reducción de jornada podrá ser solicitada y obtenida, de manera temporal, por aquellos funcionarios que la precisen en procesos de recuperación por razón de enfermedad, siempre que las necesidades del servicio lo permitan.
+
+> Se modifica el apartado 1.f) por el art. 50.1 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
 
 > Se modifica el párrafo tercero del apartado 3 por el art. 89.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
 

@@ -12,6 +12,8 @@ Cuando se trate de operaciones realizadas entre las empresas miembros a través 
 
 Salvo lo dispuesto en el párrafo anterior, la bonificación no se extenderá a las operaciones sujetas al impuesto que directa o indirectamente se produzcan entre las empresas miembros o entre éstas y terceros.
 
+> Se modifica el apartado 4, con efectos a partir del 1 de enero de 1997, por el art.13 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
 > Se derogan los apartados 1 y 2 por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
 
 > Se modifica por la disposición adicional 2 de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511

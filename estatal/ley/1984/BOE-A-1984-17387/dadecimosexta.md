@@ -26,7 +26,7 @@ Tres. Los funcionarios de la Seguridad Social se integrarán en la forma que a c
 
 Tres. 1. Cuerpos del Grupo A.
 
-Tres. 1.1 Cuerpo Técnico de la Administración de la Seguridad Social. Se integran en él los funcionarios que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+Tres. 1.1 Cuerpo Superior de Técnicos de la Administración de la Seguridad Social. Se integran en él los funcionarios que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
 
 – Escala de Titulados Superiores del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
 
@@ -50,7 +50,7 @@ Tres. 1.1 Cuerpo Técnico de la Administración de la Seguridad Social. Se integ
 
 – Escalas de Servicios Especiales del Cuerpo de Titulados Superiores del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
 
-Tres. 1.2 Cuerpo de Letrados de la Administración de la Seguridad Social. Se integran en él los funcionarios que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciados en Derecho, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+Tres. 1.2 Cuerpo Superior de Letrados de la Administración de la Seguridad Social. Se integran en él los funcionarios que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciados en Derecho, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
 
 – Cuerpo de Letrados del extinguido Instituto Nacional de Previsión.
 
@@ -58,13 +58,13 @@ Tres. 1.2 Cuerpo de Letrados de la Administración de la Seguridad Social. Se in
 
 – Cuerpo de Letrados del extinguido Mutualismo Laboral.
 
-- Cuerpo de Letrados del extinguido Servicio de Reaseguro de Accidentes de Trabajo, siempre que a la entrada en vigor de la presente Ley estén desempeñando puestos de trabajo de Letrados, así clasificados en la estructura orgánica.
+– Cuerpo de Letrados del extinguido Servicio de Reaseguro de Accidentes de Trabajo, siempre que a la entrada en vigor de la presente Ley estén desempeñando puestos de trabajo de Letrados, así clasificados en la estructura orgánica.
 
 – Escala única del Cuerpo de Letrados referida en la Orden ministerial de 4 de julio de 1981.
 
 – Cuerpo de Letrados a extinguir de la Obra Sindical «18 de Julio», integrada en el extinguido Instituto Nacional de Previsión.
 
-Tres. 1.3 Cuerpo de Actuarios. Estadísticos y Economistas de la Administración de la Seguridad Social.
+Tres. 1.3 Cuerpo Superior de Actuarios, Estadísticos y Economistas de la Seguridad Social.
 
 Tres. 1.3.1 Escala de Actuarios. Se integran en ella los funcionarios de la Administración de la Seguridad Social que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Actuario de Seguros o de Licenciado en Ciencias Económicas y Empresariales, especialidad Actuarial o rama Actuarial y de la Empresa Financiera, pertenezcan a alguna de las Escalas siguientes:
 
@@ -76,9 +76,9 @@ Tres. 1.3.1 Escala de Actuarios. Se integran en ella los funcionarios de la Admi
 
 Tres. 1.3.2 Escala de Estadísticos y Economistas. Se integran en ella los funcionarios de la Administración de la Seguridad Social que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciado en Ciencias Exactas o Licenciado en Ciencias Económicas y Empresariales, salvo la especialidad Actuarial o rama Actuarial y de la Empresa Financiera, pertenezcan al Cuerpo de Asesores Matemáticos, Escalas de Asesores Actuariales, Asesores Estadísticos y Asesores Económicos, del extinguido Instituto Nacional de Previsión.
 
-Tres. 1.4 Cuerpo de Intervención y Contabilidad de la Administración de la Seguridad Social. Se integran en él los funcionarios de la Administración de la Seguridad Social que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan al actual Cuerpo de Intervención y Contabilidad de la Seguridad Social.
+Tres. 1.4 Cuerpo Superior de Intervención y Contabilidad de la Administración de la Seguridad Social. Se integran en él los funcionarios de la Administración de la Seguridad Social que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan al actual Cuerpo de Intervención y Contabilidad de la Seguridad Social.
 
-Tres. 1.5 Escala de Analistas de Informática de la Administración de la Seguridad Social. Se intregran en él los funcionarios de la Administración de la Seguridad Social que, ostentando a la fecha de entrada en vigor de la presente Ley, titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan a alguna de las Escalas siguientes:
+Tres. 1.5 Cuerpo Superior de Sistemas y Tecnologías de la Administración de la Seguridad Social. Se intregran en él los funcionarios de la Administración de la Seguridad Social que, ostentando a la fecha de entrada en vigor de la presente Ley, titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan a alguna de las Escalas siguientes:
 
 – Escala de Analistas y Programadores del Cuerpo de Informática del extinguido Instituto Nacional de Previsión.
 
@@ -505,6 +505,8 @@ En el grupo A, los funcionarios pertenecientes a la Escala Técnica Superior, qu
 En el grupo B, los funcionarios pertenecientes a las Escalas Medias de Formación Ocupacional y de Gestión de Empleo.
 
 En el grupo C, los funcionarios pertenecientes a la Escala de Delineación y Medios Audiovisuales.
+
+> Se modifica el apartado 3.1.1 a 5 por la disposición adicional 21 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
 
 > Se modifica por la disposición adicional 21 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404
 

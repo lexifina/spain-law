@@ -1,3 +1,5 @@
 ## Segunda.
 
-Las actuaciones y resoluciones jurisdiccionales se extenderán en papel de oficio. Para los escritos de las partes relacionadas con ellas se utilizará papel común, cuyas características y formatos se determinarán reglamentariamente.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.7 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053

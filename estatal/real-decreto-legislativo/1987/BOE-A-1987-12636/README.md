@@ -82,6 +82,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 51](a51.md)
 - [CAPÍTULO VI](cvi.md)
 - [Artículo 52](a52.md)
+- [Artículo 52 bis](a52bis.md)
 - [CAPÍTULO VII](cvii.md)
 - [Artículo 53](a53.md)
 - [TÍTULO II](tsegundo.md)

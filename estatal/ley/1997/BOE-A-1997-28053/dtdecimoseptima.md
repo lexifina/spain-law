@@ -1,0 +1,3 @@
+## Disposición transitoria decimoséptima. Régimen tributario en el Impuesto sobre Sociedades de las Reales Academias.
+
+El régimen establecido por la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, para el Instituto de España y las Reales Academias Oficiales integradas en el mismo y las instituciones de las Comunidades Autónomas con lengua oficial propia que tengan fines análogos a los de la Real Academia Española, se aplicará en las liquidaciones que se practiquen con posterioridad a la entrada en vigor de la citada Ley o que estén pendientes de resolución administrativa firme a la misma fecha.

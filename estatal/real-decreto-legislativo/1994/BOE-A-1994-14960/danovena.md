@@ -3,3 +3,7 @@
 Cuando, reuniéndose los requisitos para estar incluidos en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos, no se hubiera solicitado la preceptiva alta en los términos reglamentariamente previstos, las cotizaciones exigibles correspondientes a períodos anteriores a la formalización del alta producirán efectos respecto a las prestaciones, una vez hayan sido ingresadas con los recargos que legalmente procedan.
 
 Sin perjuicio de las sanciones administrativas que procedan por su ingreso fuera de plazo, las referidas cotizaciones darán también lugar al devengo de intereses, que serán exigibles desde la correspondiente fecha en que debieron ser ingresadas, de conformidad con el tipo de interés legal del dinero vigente en el momento del pago.
+
+Lo previsto en los párrafos anteriores únicamente será de aplicación con respecto a las altas que se hayan formalizado a partir de 1 de enero de 1994.
+
+> Se añade el párrafo tercero por la disposición adicional 2 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.

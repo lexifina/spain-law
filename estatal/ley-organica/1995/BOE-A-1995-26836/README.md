@@ -26,6 +26,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO II](tii.md)
 - [Artículo 11](a11.md)
 - [Artículo 12](a12.md)
+- [Artículo 12 bis](a12bis.md)
 - [Artículo 13](a13.md)
 - [Artículo 14](a14.md)
 - [Artículo 15](a15.md)

@@ -1,0 +1,9 @@
+## Disposición adicional cuadragésima octava. Modificación de la Ley 5/1996, de 10 de enero, de Creación de Determinadas Entidades de Derecho Público.
+
+1. Se introduce una modificación en el apartado tercero del artículo 14 de la Ley 5/1996, de 10 de enero, de Creación de Determinadas Entidades de Derecho Público, que queda redactado en los siguientes términos:
+
+«3. Las sociedades integrantes del grupo consolidado referido en el apartado anterior que dejen de pertenecer al mismo por cualquier causa con anterioridad a que sea íntegramente amortizada la deuda del Instituto Nacional de Industria, no tendrán derecho a compensar en sus futuras declaraciones independientes la parte de sus bases imponibles individuales con las que hubieran contribuido a formar las bases imponibles negativas del grupo pendiente de compensar a esa fecha, ni la parte de las deducciones de la cuota aportadas y pendientes de aplicar por el citado grupo, correspondiendo tal derecho al grupo consolidado. No obstante, tal limitación sólo se aplicará a aquellas sociedades que hayan tenido bases imponibles negativas generadas durante los períodos impositivos que pertenecieron al grupo.
+
+Aquellos subgrupos de sociedades que, como consecuencia de procesos de desinversión, dejen de pertenecer al grupo fiscal SEPI, podrán consolidar fiscalmente a partir del ejercicio siguiente a aquel en que se produjo el abandono del grupo si reúnen las demás condiciones exigidas por la legislación fiscal para ello. En este caso, los acuerdos tomados por las sociedades para acogerse al régimen del grupo de sociedades, así como la comunicación de los mismos a la Administración, se efectuará dentro de los tres meses siguientes al día en que se produjo la salida del grupo al que pertenecían.»
+
+2. La modificación introducida en el artículo 14 de la Ley 5/1996, de 10 de enero, de Creación de Determinadas Entidades de Derecho Público, surtirá efectos desde el 1 de enero de 1997.

@@ -1,3 +1,5 @@
 ## Disposición final segunda.
 
-Excepcionalmente, con el fin de permitir la renovación del Consejo de Gobierno por mitades, el mandato de tres de los seis primeros Consejeros no natos que el Gobierno designe será de seis años sin posibilidad de renovación para el mismo cargo.
+(Derogada)
+
+> Se deroga por la disposición adicional 24.1.d) de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053

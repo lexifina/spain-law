@@ -34,7 +34,7 @@ Dos. Liquidación del Impuesto en los casos comprendidos en el artículo 19, nú
 
 La liquidación del Impuesto en los casos de abandono del régimen suspensivo de depósito distinto de los aduaneros comprendidos en el artículo 19, número 5.o, párrafo segundo, de esta Ley, se ajustará a la siguientes normas:
 
-1.º Cuando los bienes abandonen el régimen, se producirá la obligación de liquidar el Impuesto correspondiente a las operaciones que se hubiesen beneficiado previamente de la exención por su vinculación al mismo, de acuerdo con las siguientes reglas:
+1.o Cuando los bienes abandonen el régimen, se producirá la obligación de liquidar el Impuesto correspondiente a las operaciones que se hubiesen beneficiado previamente de la exención por su vinculación al mismo, de acuerdo con las siguientes reglas:
 
 a) Si los bienes vinculados al régimen hubiesen sido objeto de una o varias entregas exentas previas, el Impuesto a ingresar será el que hubiere correspondido a la última entrega exenta efec tuada.
 
@@ -50,7 +50,51 @@ Los empresarios o profesionales no establecidos en el territorio de aplicación 
 
 3.º Los titulares de un depósito distinto de los aduaneros serán responsables solidarios del pago de la deuda tributaria correspondiente al abandono del citado régimen, independientemente de que puedan actuar como representantes fiscales de los empresarios o profesionales no establecidos en el ámbito espacial del Impuesto.
 
-Sexto. Para la conversión de las cantidades fijadas en Ecus en los artículos 14 y 68 de esta Ley, se aplicará la equivalencia de 1 Ecu igual a 129,98 pesetas.
+Sexto. Para la conversión de las cantidades fijadas en Ecus en los artículos 14 y 68 de esta Ley, se aplicará la equivalencia de 1 Ecu igual a 129,98 peseta
+
+Séptimo. Desperdicios o desechos de fundición, de hierro o acero, chatarra o lingotes de chatarra de hierro o acero, desperdicios o desechos de metales no férricos o sus aleaciones, escorias, cenizas y residuos de la industria que contengan metales o sus aleaciones: los comprendidos en las partidas siguientes del Arancel de Aduanas:
+
+| Códi. NCE | Designación de la mercancía |
+| --- | --- |
+| 7204 | Desperdicios y desechos de fundición de hierro o acero (chatarra y lingotes). |
+
+Los desperdicios y desechos de los metales férricos comprenden:
+
+a) Desperdicios obtenidos durante la fabricación o el mecanizado de la fundición del hierro o del acero, tales como las torneaduras, limaduras, despuentes de lingotes, de palanquillas, de barras o de perfiles.
+
+b) Las manufacturas de fundición de hierro o acero definitivamente inutilizables como tales por roturas, cortes, desgaste u otros motivos, así como sus desechos, incluso si algunas de sus partes o piezas son reutilizables.
+
+No se comprenden los productos susceptibles de utilizarse para su uso primitivo tal cual o después de repararlos.
+
+Los lingotes de chatarra son generalmente de hierro o acero muy aleado, toscamente colados, obtenidos a partir de desperdicios y desechos finos refundidos (polvos de amolado o torneaduras finas) y su superficie es rugosa e irregular.
+
+7404 Desperdicios y desechos de cobre.
+
+7503 Desperdicios y desechos de níquel.
+
+7602 Desperdicios y desechos de aluminio.
+
+7802 Desperdicios y desechos de plomo.
+
+7902 Desperdicios y desechos de zinc (calamina).
+
+8002 Desperdicios y desechos de estaño.
+
+2618 Escorias granuladas (arena de escorias) de la siderurgia.
+
+2619 Escorias (excepto granulados), batiduras y demás desperdicios de la siderurgia.
+
+2620 Cenizas y residuos (excepto siderurgia) que contenga metal o compuestos de metal.
+
+47.07 Desperdicios o desechos de papel o cartón. Los desperdicios de papel o cartón, comprenden las raspaduras, recortes, hojas rotas, periódicos viejos y publicaciones, maculaturas y pruebas de imprenta y ar tículos similares.
+
+La definición comprende también las manufacturas viejas de papel o de cartón vendidas para su reciclaje.
+
+70.01 Desperdicios o desechos de vidrio.
+
+Los desperdicios o desechos de vidrio comprenden los residuos de la fabricación de objetos de vidrio así como los producidos por su uso o consumo. Se caracterizan generalmente por sus aristas cortantes.
+
+> Se añade el apartado 7 por el art. 6.26.3 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
 
 > Se modifica el apartado 5 por el art. único.7 del Real Decreto-Ley 14/1997, de 29 de agosto. Ref. BOE-A-1997-19125
 
