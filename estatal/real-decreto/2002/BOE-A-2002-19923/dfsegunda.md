@@ -1,0 +1,3 @@
+## Disposición final segunda. Facultad de desarrollo.
+
+Se faculta a los Ministros de Sanidad y Consumo, de Agricultura, Pesca y Alimentación y de Medio Ambiente para que, en el ámbito de sus competencias, procedan al desarrollo de lo dispuesto en este Real Decreto, así como para dictar las normas necesarias para la actualización de los anexos técnicos contenidos en el mismo y la coordinación de los requisitos de inscripción en los Registros de las Comunidades Autónomas, determinando las condiciones de fabricación, almacenamiento, comercialización y aplicación y las condiciones y programas de los cursos de formación para el personal de las empresas de servicios biocidas.
