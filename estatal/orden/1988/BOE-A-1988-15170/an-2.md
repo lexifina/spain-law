@@ -188,9 +188,9 @@ FIGURA 2
 
 ## INSTRUCCION TECNICA COMPLEMENTARIA MIE-AG 7 «CALENTADORES INSTANTANEOS DE AGUA PARA USOS SANITARIOS»
 
-Primero.–La presente Instrucción Técnica Complementaria incluye las especificaciones que deberán exigirse a los calentadores para la producción instantánea de agua caliente para usos sanitarios, de potencia útil nominal comprendida entre 8,7 kW y 28 kW, y susceptibles de funcionar con uno o varios combustibles gaseosos correspondientes a cualquiera de las tres familias de gases definidas en la norma UNE 60-002-73, con la excepción de los aparatos que están concebidos para que el agua hierva.
+Primero.–La presente Instrucción Técnica Complementaria incluye las especificaciones que deberán exigirse a los calentadores para la producción instantánea de agua caliente para usos sanitarios, de potencia útil nominal comprendida entre 8 kW y 28 kW, y susceptibles de funcionar con uno o varios combustibles gaseosos correspondientes a cualquiera de las tres familias de gases definidas en la norma UNE 60-002-73, con la excepción de los aparatos que están concebidos para que el agua hierva.
 
-Segundo.–Los calentadores incluidos en esta Instrucción Técnica Complementaria, cumplirán las especificaciones de la norma UNE 60-750-76, y se someterán, para su homologación, a las pruebas y ensayos que en la misma se indican.
+Segundo.–Los calentadores incluidos en esta Instrucción Técnica Complementaria, cumplirán las especificaciones de la norma UNE 60750-90 y se someterán, para su homologación, a las pruebas y ensayos que en la misma se indican.
 
 Tercero.–La placa de características del quemador cumplirá las especificaciones de la Instrucción Técnica Complementaria MIE-AG 9 y podrá ser de cualquiera de los tipos y con modo de fijación que se indican en el punto tercero de la misma.
 
@@ -301,3 +301,5 @@ Séptimo.–El modelo base sometido a ensayo totales, así como las variantes so
 Octavo.–Esta Instrucción Técnica Complementaria entrará en vigor simultáneamente con el Reglamento de aparatos que utilizan gas como combustible, y a partir de ese momento no se podrá fabricar o importar ningún aparato que no se ajuste a las prescripciones contenidas en el Reglamento y la presente Instrucción Técnica Complementaria, con la excepción que se cita en el punto noveno.
 
 Noveno.–Los aparatos correspondientes a tipos aprobados con anterioridad a la entrada en vigor de la presente Instrucción Técnica Complementaria, se podrán seguir fabricando, importando, comercializando e instalando sólamente durante un año a partir de dicha fecha.
+
+> Se modifican los apartados 1 y 2 de la ITC MIE-AG 7 por el apartado 1.1 y 2 de la Orden de 30 de julio de 1990. Ref. BOE-A-1990-19379
