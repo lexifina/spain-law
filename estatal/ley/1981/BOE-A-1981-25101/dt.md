@@ -1,0 +1,3 @@
+## DISPOSICIÓN TRANSITORIA
+
+El Ministerio de Hacienda adaptará, en el plazo de cuatro meses a partir de la fecha de publicación en el «Boletín Oficial del Estado» de la presente Ley, el Reglamento de la Dehesa de Castilseras (Real Orden de treinta de mayo de mil novecientos trece), de forma que puedan alcanzarse los fines que se pretende con su inmediata puesta en explotación y sin que se vulneren los derechos individuales adquiridos por los actuales beneficiarios, derechos que, en cualquier caso, serán rescatables mediante pactos con la nueva Sociedad y que tendrán el carácter genérico de derechos a extinguir, sin que puedan devengarse nuevos derechos por personal alguno.
