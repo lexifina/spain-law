@@ -1,0 +1,11 @@
+## Disposición adicional duodécima. Reordenación de sociedades mercantiles.
+
+1. En los supuestos de constitución de una entidad pública empresarial con la función de dirigir o coordinar a otros entes con naturaleza de sociedad mercantil local, la incorporación, en su caso, de participaciones accionariales de titularidad de la corporación o de un ente público de la misma a la entidad pública empresarial, o de ésta a aquélla se acordará por el Pleno del ayuntamiento. Las operaciones de cambio de titularidad tendrán plena efectividad a partir del Acuerdo Plenario que constituirá título acreditativo de la nueva titularidad a todos los efectos. Las participaciones accionariales recibidas se registrarán en la contabilidad del nuevo titular por el mismo valor contable que tenían en el anterior titular a la fecha de dicho acuerdo.
+
+2. Asimismo, las citadas operaciones de cambio de titularidad no estarán sujetas a la legislación del mercado de valores ni al régimen de oferta pública de adquisición y no darán lugar al ejercicio de derechos de tanteo, retracto o cualquier otro derecho de adquisición preferente que estatutaria o contractualmente pudieran ostentar sobre dichas participaciones otros accionistas de las sociedades cuyas participaciones sean transferidas o, en su caso, terceros a esas sociedades. Adicionalmente, la mera transferencia y reordenación de participaciones societarias que se realice en aplicación de esta norma no podrá ser entendida como causa de modificación o de resolución de las relaciones jurídicas que mantengan tales sociedades.
+
+3. Todas las operaciones societarias, cambios de titularidad y actos derivados de lo previsto en la presente disposición estarán exentos de cualquier tributo estatal, incluidos los tributos cedidos a las comunidades autónomas, o local, sin que en este último caso proceda la compensación a que se refiere el primer párrafo del apartado 2 del artículo 9 de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales.
+
+Los aranceles de los fedatarios públicos y registradores de la propiedad y mercantiles que intervengan los actos derivados de la ejecución de la presente norma se reducirán en un 90 por cien.
+
+> Se añade por el art. 1.3 de la Ley 57/2003, de 16 de diciembre. Ref. BOE-A-2003-23103
