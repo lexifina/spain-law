@@ -4,6 +4,8 @@
 
 2. A partir de los tres meses de la publicación de esta Orden en el «Boletín Oficial del Estado», todos los vagones cisterna que se pongan en circulación por primera vez en la red ferroviaria nacional deberán corresponder a tipos aprobados e inscritos en el Registro Oficial.
 
+> Téngase en cuenta que el registro oficial de los tipos de unidades destinadas al transporte de mercancías peligrosas por carretera y ferrocarril previsto en los apartados 1 y 2, queda ampliado con las unidades especificadas en el apartado 3 del punto primero de esta Orden, destinadas a los transportes marítimo y aéreo de esas mismas mercancías, desde el 24 de enero de 1995, según establece el punto segundo de la Orden de 30 de diciembre de 1994. Ref. BOE-A-1995-1857.
+
 3. El fabricante nacional o extranjero o el importador que desee inscribir en el Registro Oficial un tipo de cisterna, contenedor-cisterna o vagón-cisterna para el transporte de mercancías peligrosas, deberá presentar en el Centro Directivo del Ministerio de Industria y Energía, competente en materia de seguridad industrial, por cualquiera de los procedimientos recogidos en el artículo 66 de la Ley de Procedimiento Administrativo, la siguiente documentación por triplicado:
 
 a) Solicitud de inscripción dirigida al ilustrísimo señor Director general de Electrónica e Informática, en su calidad de titular del Centro Directivo competente en materia de seguridad industrial.
@@ -15,6 +17,8 @@ A efectos de la obtención del acta, el solicitante deberá facilitar a la Entid
 c) Informe técnico para la aprobación de tipo emitido por la Entidad colaboradora, así como copia sellada por la Entidad del proyecto utilizado como base para la emisión del acta señalada en el epígrafe anterior.
 
 4. El Centro Directivo antes citado concederá o denegará, en su caso, la aprobación e inscripción en el Registro Oficial, según proceda. En todo caso la resolución será comunicada al interesado y al órgano competente de la Comunidad Autónoma correspondiente al lugar donde estuviese radicada la empresa fabricante.
+
+> Téngase en cuenta que las competencias que establecen los apartados 3 y 4 corresponden a las Comunidades Autónomas que tengan asumidas competencias ejecutivas en materia de industria, que utilizarán el número de contraseña asignado para la inscripción en el Registro de Cisternas para el transporte de mercancías peligrosas, del Ministerio de Industria y Energía, según establece la disposición adicional 2 de la Orden de 30 de diciembre de 1994. Ref. BOE-A-1995-1857
 
 5. En los casos en que se apruebe el tipo, el Centro Directivo del Ministerio de Industria y Energía competente en materia de seguridad industrial asignará una contraseña de Registro para la serie, que estará formada por la letra A seguida de cuatro dígitos en numeración correlativa, que comenzará por el 1, y otro número de dos cifras, separado de los anteriores, que corresponderá al de inscripción del fabricante en el Registro que se llevará en el Centro Directivo antes citado.
 
