@@ -20,4 +20,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 6](art6.md)
 - [Disposición transitoria](dt.md)
 - [Disposición final](df.md)
+- [Disposición final primera](dfprimera.md)
+- [Disposición final segunda](dfsegunda.md)
 - [firma](firma.md)

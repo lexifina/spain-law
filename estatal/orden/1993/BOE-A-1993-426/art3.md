@@ -8,11 +8,11 @@ a) Activos frente a la Administración del Estado y el Banco de España; frente 
 
 b) Activos frente a las Comunidades Europeas, como tales.
 
-c) Activos frente a los organismos autónomos dependientes de la Administración del Estado y frente a los entes públicos dependientes de la misma que tenga la naturaleza prevista en la letra b) del número 1, o en el número 5, ambos del artículo 6 del Real Decreto Legislativo 1091/1988, de 23 de septiembre, texto refundido de la Ley General Presupuestaria.
+c) Activos frente a los organismos autónomos y las entidades públicas empresariales reguladas en el Título III de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, y frente a las demás entidades de Derecho Público vinculadas o dependientes de la Administración del Estado.
 
-d) Activos que representen créditos expresamente garantizados por los bancos centrales y administraciones centrales y los organismos autónomos y entes públicos mencionados en las letras a) y c) precedentes.
+d) Activos que representen créditos expresamente garantizados por los Bancos Centrales, Administraciones Centrales, organismos autónomos, entidades públicas empresariales y demás entes públicos mencionados en las letras a) y c) precedentes, así como por las Comunidades Europeas.
 
-e) Deuda pública emitida por las Comunidades Autónomas cuando las emisiones estén autorizadas por el Estado.
+e) Deuda Pública emitida por las Comunidades Autónomas y las entidades locales cuando las emisiones estén autorizadas por el Estado.
 
 f) Activos frente a las administraciones centrales y bancos centrales de los países no contemplados en la letra a) que estén nominados y financiados en la moneda nacional del prestatario, y activos que representen créditos expresamente garantizados por las administraciones centrales y bancos centrales allí contemplados, siempre que estén nominados, financiados y garantizados en la moneda nacional común del garante y del prestatario.
 
@@ -32,7 +32,7 @@ Son Bancos Multilaterales de Desarrollo los siguientes: El Banco Internacional p
 
 El Banco de España actualizará la relación de los Bancos Multilaterales de Desarrollo, cuando así proceda, en aplicación de normas comunitarias.
 
-b) Activos frente a las Comunidades Autónomas, no incluidos en la letra e) del número I), y sobre las Corporaciones Locales españolas.
+b) Activos frente a las Comunidades Autónomas y las entidades locales no incluidos en la letra e) del número I).
 
 c) Activos frente a las administraciones regionales y locales de los restantes países mencionados en la letra a) del número 1 precedente.
 
@@ -83,6 +83,8 @@ c) Activo real, cualquiera que sea su origen y finalidad, y cualquier otra clase
 Respecto a las garantías reales mencionadas en los diversos grupos de riesgo relacionados en el apartado 1, el Banco de España podrá fijar requisitos adicionales a los allí establecidos para asegurar la plena eficacia de la garantía.
 
 8. A los efectos de la presente norma, se entenderá por Entidades de Crédito las autorizadas en los Estados miembros de las Comunidades Europeas y los organismos o empresas, tanto públicos como privados, que hayan sido autorizados en países distintos de los anteriores, cuya actividad responda a la definición establecida en el artículo 1.º del Real Decreto Legislativo 1298/1986, de 28 de junio, y estén supervisados por las autoridades competentes de dichos países.
+
+> Se modifcan los apartados 1.I.c), d) y e) y 1.II.b) por el apartado 1.1 y 2 de la Orden ECO/3451/2002, de 27 de diciembre. Ref. BOE-A-2003-1051.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 28, de 2 de febrero de 1993. Ref. BOE-A-1993-2530.
 
