@@ -13,10 +13,10 @@
 | 2.2. Medios | OCDE D | 11 de diciembre de 1980 |
 | 2.3. Pesados | ISO 5.700 | 11 de diciembre de 1982 |
 | ESTRECHOS: Se incluyen en este grupo los de vía mínima del eje de ruedas motrices, inferior a 1150 mm. |
-| 3.1. Ligeros rígidos | EMA E | 1 de enero de 1992 para nuevos tipos. 1 de julio de 1993 para nuevas matriculaciones. |
-| 3.2. Medios rígidos | EMA E | 1 de enero de 1992 para nuevos tipos. 1 de julio de 1993 para nuevas matriculaciones. |
-| 3.4. Ligeros articulados | Código(s) a determinar | 1 de enero de 1992 para nuevos tipos. 1 de julio de 1993 para nuevas matriculaciones. |
-|  | 3.5. Medios artículados | Código(s) a determinar | 1 de enero de 1992 para nuevos tipos. 1 de julio de 1993 para nuevas matriculaciones. |
+| 3.1. Ligeros rígidos | EMA E | 1 de julio de 1992 para nuevos tipos. 1 de julio de 1993 para nuevas matriculaciones. |
+| 3.2. Medios rígidos | EMA E | 1 de julio de 1992 para nuevos tipos. 1 de julio de 1993 para nuevas matriculaciones. |
+| 3.4. Ligeros articulados | Código(s) a determinar | 1 de julio de 1992 para nuevos tipos. 1 de julio de 1993 para nuevas matriculaciones. |
+|  | 3.5. Medios artículados | Código(s) a determinar | 1 de julio de 1992 para nuevos tipos. 1 de julio de 1993 para nuevas matriculaciones. |
 | FORESTALES Y ARRASTRADORES FORESTALES |
 | 4.0. Extraligeros | Código(s) y fecha a determinar |
 | 4.1. Ligeros | EMA L | 11 de diciembre de 1984 |
@@ -48,6 +48,8 @@ En todo caso, la masa determinante de la clasificación de un tractor será la q
 Además de los efectuados con sujeción a los Códigos preferentes citados en el cuadro anterior, la Estación de Mecánica Agrícola podrá realizar o aceptar otros ensayos de bastidores o cabinas ejecutados conforme a otros Códigos, siempre que éstos sean de formulación o aceptación internacional y resulten, para los tractores de los subgrupos correspondientes, técnicamente convalidables o más estrictos que los que en dicho cuadro se especifican.
 
 Los Códigos EMA L y EMA E serán establecidos a propuesta de la Estación de Mecánica Agrícola, que la formulará previos los estudios, consultas y/o experiencias que técnicamente procedan.
+
+> Se modifican determinadas fechas por el apartado 1 de la Resolución de 6 de febrero de 1992. Ref. BOE-A-1992-4245.
 
 > Se modifican determinadas fechas por el apartado 1 de la Resolución de 14 de diciembre de 1990. Ref. BOE-A-1990-30525.
 
