@@ -20,6 +20,8 @@ a) Al establecer los términos y condiciones de la operación, tendrá en cuenta
 
 b) Cuando el beneficiario no sea un país miembro, podrá, si lo estima oportuno, solicitar que el miembro en cuyo territorio vaya a realizarse el proyecto, o bien una entidad pública o institución de ese miembro aceptable por el Banco, garantice el reembolso del principal y el pago de los intereses y otras cargas del préstamo.
 
-c) Determinará expresamente la moneda en que todos los pagos derivados del contrato deberán serle satisfechos al Banco. No obstante, dejará a la elección del prestatario el que tales pagos puedan ser efectuados en oro o en una moneda convertible o, previa conformidad del Banco, en cualquier otra moneda; y
+c) Determinará expresamente la moneda en que todos los pagos derivados del contrato deberán serle satisfechos al Banco. No obstante, dejará a la elección del prestatario el que tales pagos puedan ser efectuados en una moneda convertible o, previa conformidad del Banco, en cualquier otra moneda ; y
 
 d) Podrá añadir cualesquiera otros términos o condiciones que estime apropiados para salvaguardar, tanto los intereses del país miembro directamente implicado en el proyecto, como los intereses del conjunto de los miembros.
+
+> Se modifica el apartado 3.c) por el punto 9 de las Enmiendas al Acuerdo constitutivo adoptadas por Resolución B/BG/2001/08. Ref. BOE-A-2003-2715.

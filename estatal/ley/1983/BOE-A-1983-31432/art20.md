@@ -1,3 +1,5 @@
 ## Art. 20. Reserva especial.
 
-El importe de las comisiones percibidas por el Banco en virtud del artículo 19 será separado para formar una reserva especial a efectos de atender sus obligaciones, conforme a lo dispuesto en el artículo 21. La reserva especial será mantenida en forma de liquidez que permite el presente Acuerdo y que determine el Consejo de Administración.
+(Suprimido)
+
+> Se suprime por el punto 11 de las Enmiendas al Acuerdo constitutivo adoptadas por Resolución B/BG/2001/08. Ref. BOE-A-2003-2715.

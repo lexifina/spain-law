@@ -6,8 +6,10 @@
 
 3. Cualquier miembro podrá solicitar del Banco una ampliación del capital suscrito, en los términos y condiciones que determine la Junta de Gobernadores.
 
-4. Las acciones suscritas inicialmente por Estados que accedan a la condición de miembros en virtud de lo establecido en el párrafo 1 del artículo 64 del presente Acuerdo, serán emitidas a la par. Las demás acciones serán igualmente emitidas a la par, salvo que, en circunstancias especiales, la Junta de Gobernadores decida, por mayoría del poder de voto total de sus miembros, emitirlas en otros términos.
+4. Las acciones suscritas inicialmente por Estados que accedan a la condición de miembros, en virtud de lo establecido en el párrafo 1 del artículo 64 del presente Acuerdo, serán emitidas a la par. Las demás acciones serán igualmente emitidas a la par salvo que, en circunstancias especiales, la Junta de Gobernadores decida emitirlas en otros términos.
 
 5. El pasivo sobre las acciones quedará limitado a la parte no desembolsada de su precio de emisión.
 
 6. Las acciones no podrán ser pignoradas ni gravadas en modo alguno. Solamente podrán ser transferidas al Banco.
+
+> Se modifica el apartado 4 por el punto 3 de las Enmiendas al Acuerdo constitutivo adoptadas por Resolución B/BG/2001/08. Ref. BOE-A-2003-2715.
