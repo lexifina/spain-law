@@ -1,0 +1,5 @@
+## Disposición adicional segunda.
+
+No obstante lo dispuesto en el número 2 del artículo 3.º, las transferencias de derechos a pensión de jubilación efectuadas por el Régimen de pensiones de los funcionarios de las Comunidades Europeas, en virtud de lo dispuesto en el número 1 del artículo 11 del anexo VIII del Estatuto de los Funcionarios de las Comunidades Europeas, aprobado por el Reglamento (CEE, EURATON, CECA) 259/1968 del Consejo, de 29 de febrero, serán objeto de coordinación general en los términos previstos en este Real Decreto, una vez producido el ingreso en el Tesoro Público o en la Tesorería del régimen correspondiente de los derechos económicos transferidos por el Sistema Comunitario de Pensiones.
+
+A dichos efectos, el procedimiento para establecer la equivalencia en años de cotización del importe transferido, vendrá determinado por el Real Decreto que regule las transferencias de los derechos a pensión de los funcionarios que entren al servicio de las Comunidades Europeas.

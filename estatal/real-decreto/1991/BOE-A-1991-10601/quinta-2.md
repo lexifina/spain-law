@@ -1,0 +1,3 @@
+## Disposición transitoria quinta.
+
+Cuando para el cálculo de la base reguladora, a que hace referencia la letra b) del número 3 del precedente artículo 4.º, hubieran de computarse períodos de tiempo anteriores a 1 de enero de 1985, los haberes reguladores correspondientes a dichos períodos, dada su identificación con las retribuciones básicas percibidas por el funcionario en activo, se acreditarán mediante la certificación de los mismos por las Jefaturas de Personal de adscripción del funcionario o, en su defecto, por el propio funcionario según se desprenda de los títulos administrativos en que consten tales extremos.
