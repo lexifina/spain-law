@@ -2,7 +2,7 @@
 
 53. Atendiendo a las particularidades de cada centro y al mejor aprovechamiento de las actividades docentes, el equipo directivo, oído el Claustro, propondrá la distribución de la jornada escolar y el horario general al Consejo Escolar para su aprobación. La jornada escolar, que se repartirá diariamente en sesiones de mañana y tarde, permitirá la realización de todas las actividades lectivas y complementarias que se programen para dar cumplimiento a lo establecido en el proyecto educativo, los proyectos curriculares y la Programación general anual.
 
-54. Cuando un centro decida modificar el horario general para el curso siguiente, la aprobación de la propuesta del nuevo horario se llevará a cabo en la última sesión del Consejo Escolar del año académico en curso.
+54. Cuando un centro decida modificar el horario general para el curso siguiente, el Equipo directivo elaborará, durante el último trimestre del curso, el nuevo horario general y lo trasladará al Claustro de Profesores y al Consejo escolar para su informe antes de su aprobación.
 
 55. El horario general del centro que apruebe el Consejo Escolar deberá especificar:
 
@@ -29,3 +29,7 @@ d) El recreo para los alumnos de educación infantil podrá organizarse de acuer
 59. Las reuniones del Claustro de Profesores y del Consejo Escolar y las sesiones de evaluación se celebrarán una vez finalizado el período lectivo, en horario en el que puedan asistir todos los componentes de los órganos de dirección o coordinación respectivos.
 
 60. El Director provincial, al autorizar los horarios, podrá armonizarlos por localidades, distritos, barrios o zonas si lo estima conveniente. En ningún caso podrá autorizar un horario excepcional a no ser que se trate de una prórroga justificada de horarios anteriormente autorizados o de razones especiales de escolarización.
+
+> Se modifica el apartado 54 por el único.5 de la Orden ECD/3387/2003, de 27 de noviembre. Ref. BOE-A-2003-22244.
+
+> Esta modificación es aplicable a partir del curso académico 2003-2004, según establece la disposición final 2.
