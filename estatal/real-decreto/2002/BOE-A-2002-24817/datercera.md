@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Habilitación docente.
+
+El Gobierno de acuerdo con las Comunidades Autónomas determinará la equivalencia a efectos de docencia del título de Conservación y Restauración de Bienes Culturales, del título superior de Cerámica, del título de Diseño y del título superior del Vidrio, establecidos mediante los Reales Decretos 1387/1991, de 18 de septiembre ; 2398/1998, de 6 de noviembre ; 1496/1999, de 24 de septiembre, y 1090/2000, de 9 de junio, respectivamente, para el ingreso y adquisición de determinadas especialidades del Cuerpo de Profesores de Artes Plásticas y Diseño.
