@@ -1,0 +1,3 @@
+## Artículo quinto.
+
+La Compañía depositaria de los objetos publicará anuncios en el «Boletín Oficial del Estado» y en dos periódicos de la ciudad a que corresponde el aeropuerto, en que conste la lista de los hallados a bordo de sus aeronaves o medios terrestres de transporte, con la expresión de encontrarse a disposición de quienes acrediten ser sus propietarios y con la advertencia de que si, transcurrido un mes no hubiese aparecido el propietario, se enajenarán en pública subasta, a cuyo fin en el propio anuncio se hará saber lugar, día y hora de la misma, así como los tipos mínimos de licitación.
