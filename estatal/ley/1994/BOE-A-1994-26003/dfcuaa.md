@@ -1,0 +1,3 @@
+## Disposición final cuarta. Compensaciones por vía fiscal.
+
+El Gobierno procederá, transcurrido un año a contar desde la entrada en vigor de la ley, a presentar a las Cortes Generales un proyecto de ley mediante el que se arbitre un sistema de beneficios fiscales para compensar a los arrendadores, en contratos celebrados con anterioridad al 9 de mayo de 1985 que subsistan a la entrada en vigor de la ley, mientras el contrato siga en vigor, cuando tales arrendadores no disfruten del derecho a la revisión de la renta del contrato por aplicación de la regla 7.ª del apartado 11 de la disposición transitoria segunda de esta ley.

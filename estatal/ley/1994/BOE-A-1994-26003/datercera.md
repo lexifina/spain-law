@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Depósito de fianzas.
+
+Las Comunidades Autónomas podrán establecer la obligación de que los arrendadores de finca urbana sujetos a la presente ley depositen el importe de la fianza regulada en el artículo 36.1 de esta ley, sin devengo de interés, a disposición de la Administración autonómica o del ente público que se designe hasta la extinción del correspondiente contrato. Si transcurrido un mes desde la finalización del contrato, la Administración autonómica o el ente público competente no procediere a la devolución de la cantidad depositada, ésta devengará el interés legal correspondiente.
