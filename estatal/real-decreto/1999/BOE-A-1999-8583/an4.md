@@ -4,9 +4,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_021.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_022.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_023.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/305/24911_004.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_024.png)
 
@@ -35,3 +33,7 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_036.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_037.png)
+
+> Se modifica el modelo EL-4.1 por el art. 4.2 del Real Decreto 1382/2002, de 20 de diciembre. Ref. BOE-A-2002-24911
+
+> Rectificada la entrada en vigor conforme a la corrección de erratas publicada en BOE núm. 8, de 9 de enero de 2003. Ref. BOE-A-2003-540
