@@ -1,3 +1,5 @@
 ## Base decimoctava.
 
-Por el Ministro de Obras Públicas se presentarán a la aprobación del Gobierno las disposiciones complementarias y Reglamentos para la ejecución de esta Ley.
+(Derogada)
+
+> Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.

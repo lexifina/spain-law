@@ -1,3 +1,5 @@
 ## Base séptima.
 
-Las tarifas de aplicación en cada grupo federado se calcularán procurando que con Ios productos de la explotación se cubran los gastos de la misma, sin exceder de las máximas legales, con las modificaciones establecidas por el Decreto de veintiséis de diciembre de mil novecientos dieciocho y Ley de veintinueve de mayo de mil novecientos treinta y cuatro se propondrán por el Consejo directivo a la aprobación del Ministerio de Obras Públicas. El Consejo directivo de cada Federación de Empresas atenderá a los gastos de la Red que administre con los productos de la misma. Los productos netos que resulten después de cubiertos los gastos de explotación, las pensiones y las amortizaciones por depreciación de las instalaciones, se destinarán a satisfacer las obligaciones de la Federación con el Estado y las cargas financieras de su incumbencia exclusiva, y el remanente se distribuirá entre las empresas que integren la Federación.
+(Derogada)
+
+> Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.

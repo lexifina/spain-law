@@ -1,0 +1,3 @@
+## Disposición adicional octava.
+
+Reglamentariamente, y previo acuerdo con las Comunidades Autónomas, de las islas Baleares y de las islas Canarias, se realizará la adaptación del régimen jurídico dimanante de la presente Ley, a las especiales características del transporte realizado en las mismas, fundamentalmente en orden a establecer las limitaciones en el ámbito de los transportes, que resulten necesarias para mantener en dichos archipiélagos el equilibrio entre la oferta y la demanda, y a potenciar la realización de transporte entre dichas Comunidades y la Península, promoviendo la coordinación intermodal.
