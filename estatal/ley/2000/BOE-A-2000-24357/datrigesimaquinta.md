@@ -1,3 +1,5 @@
 ## Disposición adicional trigésima quinta. Prestaciones recibidas de expedientes de regulación de empleo.
 
-A las cantidades percibidas a partir de 1 de enero de 2001 por beneficiarios de contratos de seguro concertados para dar cumplimiento a lo dispuesto en la disposición transitoria decimocuarta de la Ley 30/1995 que instrumenten las prestaciones derivadas de expedientes de regulación de empleo, que con anterioridad a la celebración del contrato se hicieran efectivas con cargo a fondos internos, y a las cuales les resultara de aplicación la reducción del 30 por 100 establecida en el artículo 17.2.a) de la Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias, mantendrán la aplicación de dicha reducción, sin que a estos efectos la celebración de tales contratos altere el cálculo del período de generación de tales prestaciones.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1.f) por el Real Decreto Legislativo 3/2004, de 5 de marzo. Ref. BOE-A-2004-4347.
