@@ -4,4 +4,6 @@ Por la rectificación de asientos practicada a instancia de parte por errores en
 
 En ningún caso devengará honorarios la rectificación de asientos debida a error del Registrador.
 
+> Se sustituye la conversión a euros de la cuantía contemplada en el párrafo primero por el art. 16 de la Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
+
 > Se convierte a euros la cuantía contemplada en el párrafo primero por el art. 16 de la Instrucción de 14 de diciembre de 2001. Ref. BOE-A-2001-24394.

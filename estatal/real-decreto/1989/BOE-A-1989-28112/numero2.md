@@ -2,17 +2,17 @@
 
 1. Por la inscripción, anotación o cancelación de cada finca o derecho, se percibirán las cantidades que fijan las siguientes escalas:
 
-a) Si el valor de la finca o derecho no excede de 6.010,12 euros: 24,040484 euros.
+a) Si el valor de la finca o derecho no excede de 6.010,12 euros 24,040484 euros.
 
-b) Por el exceso comprendido entre 6.010,13 y 30.050,61 euros: 1,75 por 1.000.
+b) Por el exceso comprendido entre 6.010,13 y 30.050,61 euros, 1,75 por 1.000.
 
-c) Por el exceso comprendido entre 30.050,62 y 60.101,21 euros: 1,25 por 1.000.
+c) Por el exceso comprendido entre 30.050,62 y 60.101,21 euros, 1,25 por 1.000.
 
-d) Por el exceso comprendido entre 60.101,22 y 150.253,03 euros: 0,75 por 1.000.
+d) Por el exceso comprendido entre 60.101,22 y 150.253,03 euros, 0,75 por 1.000.
 
-e) Por el exceso comprendido entre 150.253,04 y 601.012,10 euros: 0,30 por 1.000.
+e) Por el exceso comprendido entre 150.253,04 y 601.012,10 euros, 0,30 por 1.000.
 
-f) Por el valor que exceda de 601.012,11 euros: 0,20 por 1.000.
+f) Por el valor que exceda de 601.012,10 euros 0,20 por 1.000.
 
 En todo caso, el arancel global aplicable regulado en el número 2 del arancel no podrá superar los 2.181,673939 euros.
 
@@ -42,7 +42,7 @@ a) Los préstamos para la rehabilitación protegida de viviendas existentes y de
 
 b) Las segundas o posteriores transmisiones de edificios y viviendas que hayan obtenido calificación o certificación de actuación protegible por reunir los requisitos exigidos en la normativa vigente.
 
-c) Las subrogaciones, con o sin simultánea novación, y las novaciones modificativas de préstamos hipotecarios acogidas a la Ley 2/1994, de 30 de marzo, en cuanto al asiento de inscripción previsto en el último párrafo de los artículos 5 y 9 de la citada Ley. A estos efectos la nota marginal a que se refiere el párrafo 1 del mencionado artículo 5 tendrá la consideración de nota marginal de referencia. Para el cálculo de los honorarios se tomará como base la cifra del capital pendiente de amortizar en el momento de la subrogación, y en las novaciones modificativas la que resulte de aplicar al importe de la responsabilidad hipotecaria vigente el diferencial entre el interés del préstamo que se modifica y el interés nuevo.
+c) La subrogación, con o sin simultánea novación, y las novaciones modificativas de préstamos hipotecarios acogidas a la Ley 2/1994, de 30 de marzo, en cuanto al asiento de inscripción previsto en el último párrafo de los artículos 5 y 9 de la citada Ley. A estos efectos la nota marginal a que se refiere el c) párrafo 1 del mencionado artículo 5, tendrá la consideración de nota marginal de referencia. Para el cálculo de los honorarios se tomará como base la cifra del capital pendiente de amortizar en el momento de la subrogación, y en las novaciones modificativas la que resulte de aplicar al importe de la responsabilidad hipotecaria vigente el diferencial entre el interés del préstamo que se modifica y el interés nuevo.
 
 5. Quedan además a salvo las exenciones o bonificaciones en materia de concentración parcelaria, Viviendas de Protección Oficial, explotaciones familiares y demás establecidas por Ley.
 
@@ -58,7 +58,9 @@ No obstante, cuando los estatutos o reglas especiales del régimen de propiedad 
 
 10. En las inscripciones de obras públicas en que haya de practicarse inscripción principal y otras de referencia, se cobrarán por aquélla los derechos correspondientes según las escalas del número 2 del Arancel, y por cada una de las otras 6,010121 euros.
 
-> Se convierten a euros las cuantías contempladas en los apartados 1 y 10 por el arts. 8 de la Instrucción de 14 de diciembre de 2001.Ref. BOE-A-2001-24394.
+> Se convierten a euros las cuantías contempladas en los apartados 1 y 10 por el art. 8 de la Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
+
+> Se convierten a euros las cuantías contempladas en los apartados 1 y 10 por el art. 8 de la Instrucción de 14 de diciembre de 2001. Ref. BOE-A-2002-24394.
 
 > Se modifica la letra f) del apartado 1 por el art. 36.2 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836.
 

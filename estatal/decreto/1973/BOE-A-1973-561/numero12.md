@@ -4,4 +4,6 @@ Por la anotación preventiva de la demanda de impugnación de acuerdos sociales 
 
 Los mismos derechos devengarán las inscripciones de resoluciones judiciales declarando la nulidad de acuerdos sociales. Las anotaciones de las resoluciones judiciales que ordenen la suspensión de los acuerdos sociales impugnados devengarán la tercera parte de los derechos del párrafo primero de este número, con un máximo de 3,005061 euros.
 
+> Se sustituye la conversión a euros de las cuantías contempladas por el art. 16 de la Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
+
 > Se convierten a euros las cuantías contempladas por el art. 16 de la Instrucción de 14 de diciembre de 2001. Ref. BOE-A-2001-24394.

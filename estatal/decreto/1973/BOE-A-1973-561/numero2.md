@@ -6,4 +6,6 @@ Si entablado recurso contra la calificación se declarare inscribible el documen
 
 Cuando se extienda nota al pie del título, acreditativa de que el asiento ha sido previamente extendido en virtud de otro documento, se percibirán 1,202024 euros por cada título.
 
+> Se sustituye la conversión a euros de las cuantías contempladas en los párrafos primero y tercero por el art. 16 de la Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
+
 > Se convierten a euros las cuantías contempladas en los párrafos primero y tercero por el art. 16 de la Instrucción de 14 de diciembre de 2001. Ref. BOE-A-2001-24394.

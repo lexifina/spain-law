@@ -1,5 +1,7 @@
 ## Número 4
 
-Por la calificación, redacción del extracto del programa de fundación de una sociedad anónima y depósito del mismo, en los términos establecidos por los artículos 18 de la Ley de Sociedades Anónimas y 106 del Reglamento del Registro Mercantil, se percibirán 3,005061 euros.
+Por la calificación, redacción del extracto del programa de fundación de una Sociedad anónima y depósito del mismo, en los términos establecidos por los artículos 18 de la Ley de Sociedades Anónimas y 106 del Reglamento del Registro Mercantil, se percibirán 3,005061 euros.
+
+> Se sustituye la conversión a euros de la cuantía contemplada por el art. 16 de la Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
 
 > Se convierte a euros la cuantía contemplada por el art. 16 de la Instrucción de 14 de diciembre de 2001. Ref. BOE-A-2001-24394.

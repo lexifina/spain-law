@@ -6,4 +6,6 @@ b) Por los asientos que se practiquen en los libros de inscripciones sobre incap
 
 c) Por los asientos causados en los procedimientos de suspensión de pagos, concurso o quiebra de personas físicas o jurídicas se devengará el 25 por 100 de los derechos que procedan conforme al número 2, sobre el valor de la finca o derecho.
 
+> Se convierten a euros las cuantías contempladas en las letras a) y b) por el art. 8 de la Instrucción de 22 de mayo de 2001. Ref. BOE-A-2002-12290.
+
 > Se convierten a euros las cuantías contempladas en las letras a) y b) por el art. 8 de la Instrucción de 14 de diciembre de 2001. Ref. BOE-A-2001-24394.

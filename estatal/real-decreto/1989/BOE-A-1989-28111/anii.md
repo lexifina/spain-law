@@ -58,8 +58,10 @@ Asimismo, la impugnación podrá presentarse directamente ante la Junta directiv
 
 Undécima.–Un ejemplar completo del Arancel, con sus normas de aplicación y adicionales, y una tabla en que figuren los derechos correspondientes a bases comprendidas entre 6.010,12 y 300.506,05 euros que sean múltiplos de 601,01 estará a disposición del público en todas las Notarías, anunciándose tal circunstancia en lugar visible de la Notaría.
 
-Duodécima.–Cuando la base exceda de 601.012,10 euros, el Notario aportará a la Mutualidad Notarial una parte de los derechos correspondientes al exceso en la cuantía y forma que fije el Ministerio de Justicia.
+Duodécima.-Cuando la base exceda de 601.012,10 euros, el Notario aportará a la Mutualidad Notarial una parte de los derechos correspondientes al exceso en la cuantía y forma que fije el Ministerio de Justicia.
 
 Decimotercera.–El Notario podrá dispensar totalmente los derechos devengados por cualquier acto o contrato, cuya documentación autorice, pero no tendrá la facultad de hacer dispensas parciales. Tampoco podrá el Notario dispensar totalmente los derechos correspondientes a uno o varios actos o contratos conexos o económicamente relacionados con otros otorgados por el mismo sujeto respecto de los cuales no conceda la misma dispensa.
+
+> Se sustituye la conversión a euros de las cuantías contempladas en las normas 11 y 12 por el art. 2 de la Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
 
 > Se convierten a euros las cuantías contempladas en las normas 11 y 12 por el art. 2 de la Instrucción de 14 de diciembre de 2001. Ref. BOE-A-2001-24394.

@@ -2,7 +2,7 @@
 
 ## Arancel de los Notarios
 
-Número 1. Documentos sin cuantía.–1. Por los instrumentos públicos sin cuantía se percibirán las siguientes cantidades:
+Número 1. Documentos sin cuantía.-1. Por los instrumentos públicos sin cuantía se percibirán las siguientes cantidades:
 
 a) Poderes en general: 30,050605 euros.
 
@@ -10,15 +10,15 @@ b) Poderes para pleitos: 15,025303 euros.
 
 c) Actas: 36,060726 euros.
 
-d) Testamentos por otorgante: 30,050605 euros.
+d) Testamentos, por otorgante: 30,050605 euros.
 
 e) Capitulaciones matrimoniales: 30,050605 euros.
 
-f) Demás documentos (estado civil. emancipación, reconocimiento de filiación, etc.): 30,050605 euros.
+f) Demás documentos (estado civil, emancipación, reconocimiento de filiación, etc.): 30,050605 euros.
 
 2. En los poderes, si hubiere más de dos poderdantes, se percibirán 6,010121 euros por cada uno de exceso, y por cada apoderado que exceda de seis, 0,601012 euros.
 
-Número 2. Documentos de cuantía.–1. Por los instrumentos de cuantía se percibirán los derechas que resulten de aplicar al valor de los bienes objeto del negocio documentado la siguiente escala:
+Número 2. Documentos de cuantía.-1. Por los instrumentos de cuantía se percibirán los derechos que resulten de aplicar al valor de los bienes objeto del negocio documentado la siguiente escala:
 
 a) Cuando el valor no exceda de 6.010,12 euros: 90,151816 euros.
 
@@ -113,6 +113,8 @@ Se aplicarán, además, a las actuaciones que pudieran originarse los números 4
 Número 7. Folios de matriz.-Los folios de matriz, a partir del quinto folio inclusive, devengarán 3,005061 euros por cara escrita.
 
 En los casos de subrogación y novación modificativa de préstamos hipotecarios acogidas a la Ley 2/1994, de 30 de marzo, sobre Subrogación y Modificación de Préstamos Hipotecarios, los folios de la matriz no devengarán cantidad alguna hasta el décimo folio inclusive.
+
+> Se convierten a euros las cuantías contempladas por el art. 1 de la Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
 
 > Se convierten a euros las cuantías contempladas por el art. 1 de la Instrucción de 14 de diciembre de 2001. Ref. BOE-A-2001-24394.
 
