@@ -2,6 +2,8 @@
 
 [Los anexos se han omitido. Consúltese el PDF oficial publicado en suplemento aparte.]
 
+> Véase la Orden PRE/3673/2004, de 11 de noviembre, por la que se modifica el Anexo II. Ref. BOE-A-2004-19314.
+
 > Véase la Orden PRE/0935/2004, de 6 de abril, por la que se modifica el Anexo II. Ref. BOE-A-2004-6427.
 
 > Véase la Orden PRE/0753/2004, de 22 de marzo, por la que se modifica el Anexo II. Ref. BOE-A-2004-5403.
