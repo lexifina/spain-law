@@ -22,7 +22,9 @@ a) Aquellas que impliquen un aumento de la capacidad de calibrado y envasado de 
 
 b) Las relacionadas con el sacrificio de ganado porcino, bovino, ovino y pollos y gallinas que conlleven un aumento de la capacidad de producción.
 
-5. En el sector de la alimentación animal: Todas las que conlleven en su ejecución un aumento de la producción, excepto si se justifica abandono de capacidades equivalentes en la misma empresa o en otras empresas determinadas.
+5. En el sector de la alimentación animal:
+
+Todas las que conlleven en su ejecución un aumento de la producción, excepto si se justifica el abandono de capacidades equivalentes en la misma empresa o en otras empresas determinadas, o se favorece el aprovechamiento de subproductos, o de productos derivados de éstos, y siempre que exista una clara y justificada demanda del mercado, no contribuyendo al incremento de capacidades excedentarias.
 
 6. En el sector de cereales (excepto las semillas):
 
@@ -50,9 +52,9 @@ d) Su utilización por una agrupación de empresas.
 
 a) El refinado de aceite de oliva.
 
-b) La obtención de aceite mediante el repasado en la propia almazara, respecto al orujo de aceituna procedente de otra almazara o fuera de la almazara, salvo, en este último caso, las inversiones dirigidas al transporte, almacenamiento y secado y las que formen parte de circuitos de aprovechamiento de subproductos en opciones integrales de tratamiento y aprovechamiento de los mismos, siempre que no sean destinados a la alimentación humana.
+b) La obtención de aceite de orujo mediante operaciones de repasado, excepto las inversiones en medios de transporte y en instalaciones de almacenamiento, acondicionamiento y secado de orujo y las destinadas al tratamiento de los subproductos procedentes de la elaboración del aceite, siempre que su destino no sea el de la alimentación humana.
 
-12. En el sector del tabaco, todas las inversiones, excepto las de su primera transformación que no supongan un aumento de la capacidad de elaboración.
+12. En el sector del tabaco: todas las inversiones.
 
 13. En el sector de los vinos y alcoholes:
 
@@ -62,10 +64,14 @@ b) Las destinadas a la mejora del proceso de obtención de alcoholes vínicos, s
 
 c) Las relativas a las bebidas espirituosas derivadas del vino o de alcoholes vínicos, excepto para aquellas bebidas que reglamentariamente tengan que ser elaboradas con alcohol vínico.
 
-14. En el sector de azúcar e isoglucosa.
+14. En el sector de azúcar e isoglucosa: la producción de azúcar e isoglucosa, así como la obtención de alcohol y derivados a partir de melazas y los procedentes de destilados de cereales, excepto si es para usos no alimentarios.
 
 15. En el sector de los productos silvícolas, las siguientes:
 
-a) Aquellas que, debido al uso de materiales inadecuados provoquen graves perjuicios a la naturaleza (tales como el deterioro de caminos forestales, de suelos compactados y la degradación de la vegetación).
+a) De las relacionadas con la utilización de la madera como materia prima, las operaciones destinadas a su transformación industrial.
 
-b) Las relativas a la recolección y comercialización de árboles de Navidad o destinados a otros fines ornamentales.
+b) Aquellas que, debido al uso de materiales inadecuados, provoquen graves perjuicios a la naturaleza (tales como el deterioro de caminos forestales, de suelos compactados y la degradación de la vegetación).
+
+c) Las relativas a la recolección y comercialización de árboles de Navidad o destinados a otros fines ornamentales.
+
+> Se modifican los apartados 5, 11.b), 12, 14, 15 por los artículos únicos. 11 al 15 del Real Decreto 326/2003, de 14 de marzo. Ref. BOE-A-2003-6689
