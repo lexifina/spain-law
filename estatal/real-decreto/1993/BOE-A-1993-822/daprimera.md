@@ -1,0 +1,5 @@
+## Disposición adicional primera. Complementos para mínimos en otras pensiones de Clases Pasivas,
+
+Para el ejercicio de 1993 se aplicarán los complementos económicos regulados en el Capítulo II de este Real Decreto a las pensiones reconocidas, en favor de los propios causantes o de sus familiares, al amparo del Título II de la Ley 37/1984, de 22 de octubre, así como en relación con los operarios de loterías, el personal de las Minas de Almadén y facultativos sanitarios inutilizados o fallecidos con motivo de servicios extraordinarios en época de epidemia, o subdelegados de Sanidad a que se refiere la Ley de 11 de julio de 1912.
+
+También serán de aplicación dichos complementos económicos, si bien únicamente a las que hubieran sido causadas en favor de familiares, a las pensiones reconocidas al amparo de las Leyes 5/1979, de 18 de septiembre; 35/1980, de 26 de junio, y 6/1982, de 29 de marzo, y con exclusión, en todo caso, de dicho beneficio de las pensiones de orfandad a que se refiere el artículo 2, número 1, letras c) y d) de este Real Decreto.
