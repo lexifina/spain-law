@@ -1,0 +1,3 @@
+## Disposición transitoria tercera.
+
+El componente del complemento específico por méritos docentes y el complemento de productividad que procedan por el tiempo de servicios prestados hasta el 31 de diciembre de 1988 surtirán efectos económicos a partir del 1 de abril de 1989 y 1 de enero de 1990, respectivamente, en las cuantías que resulten por aplicación de lo previsto en el presente Real Decreto, y su determinación se efectuará a través de una sola evaluación para la actividad docente y otra para la investigadora, sin que, en ningún caso, la cuantía resultante pueda exceder del límite establecido en el artículo 2.º, 5.9 del presente Real Decreto.
