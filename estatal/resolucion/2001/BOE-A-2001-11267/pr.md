@@ -1,0 +1,19 @@
+Las inversiones extranjeras en España y las inversiones españolas en el exterior están reguladas por el Real Decreto 664/1999, de 23 de abril, sobre inversiones exteriores, desarrollado por la Orden del Ministerio de Economía de 28 de mayo de 2001 (en lo sucesivo, la Orden). Estas normas establecen las disposiciones aplicables a la tramitación y declaración de dichas inversiones, disponiendo la utilización a estos efectos de determinados procedimientos, modelos e impresos cuya aprobación se remite a una norma de rango inferior.
+
+Por otra parte, las citadas normas sobre inversiones exteriores determinan quiénes son los sujetos obligados a declararlas a la Administración y es a éstos a los que se dirigen, principalmente, estas normas de desarrollo.
+
+Teniendo en cuenta que la mayoría de las inversiones en valores negociables requieren, por sus características específicas, unos procedimientos de declaración diferentes a las demás y que el sujeto obligado a declararlas, generalmente, es el intermediario financiero que adquiere esos valores por cuenta del inversor, se ha considerado oportuno que sean objeto de tratamiento en una Resolución independiente.
+
+En consecuencia, y teniendo en cuenta la diferencia de destinatarios de las normas, se ha optado por publicar dos resoluciones. En la presente, se regulan los procedimientos de declaración de las inversiones en valores negociables realizadas a través de intermediarios financieros y se aprueban los modelos impresos y procedimientos informáticos para la declaración de estas operaciones.
+
+La Orden establece los requisitos de las comunicaciones mensuales de flujos de inversiones extranjeras en valores negociables y de los saldos a fin de año. Por otra parte, establece que la remisión de esta información se realizará de acuerdo con las instrucciones que se establezcan en la correspondiente Resolución de desarrollo.
+
+También dispone la Orden que las declaraciones relativas a operaciones de inversión española en valores negociables cotizados en mercados extranjeros y las comunicaciones de saldos a fin de año se realizará de acuerdo con las instrucciones que se publicarán en la correspondiente Resolución de desarrollo.
+
+Además, la Orden dispone que las entidades españolas o extranjeras autorizadas en España o en otro Estado miembro de la Unión Europea que se propongan actuar en España como entidades depositarias o administradoras de valores representados mediante anotaciones en cuenta, adquiridos por no residentes en el mercado español, deberán notificarlo a la Dirección General de Comercio e Inversiones antes de comenzar a ejercer dicha actividad, según el modelo de escrito que se establezca en la correspondiente Resolución.
+
+Análogamente, para la inversión española en el exterior, la Orden establece que las empresas de servicios de inversión, entidades de crédito u otras entidades residentes que, en su caso, realicen algunas de las actividades propias de aquéllas y actúen por cuenta y riesgo del inversor como titular interpuesto de valores negociables calificables como inversión española en el exterior, así como respecto a las operaciones que efectúen por cuenta propia, deberán notificarlo a la Dirección General de Comercio e Inversiones antes de comenzar a ejercerla, según modelo de escrito que se publicará mediante Resolución de desarrollo de la Orden. Asimismo, deberán comunicar el cese en el ejercicio de dicha actividad.
+
+Por último, la disposición final primera de la Orden faculta a la Dirección General de Comercio e Inversiones para dictar las normas de desarrollo y para establecer las especificaciones y requisitos necesarios que permitan que las declaraciones puedan también presentarse mediante la utilización de medios informáticos.
+
+En consecuencia, haciendo uso de las autorizaciones conferidas, dispongo:
