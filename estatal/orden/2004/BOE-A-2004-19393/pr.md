@@ -1,0 +1,17 @@
+Por la presente Orden se publican las fichas de intervención para la actuación de los servicios operativos en situaciones de emergencia provocadas por accidentes en el transporte de mercancías peligrosas por carretera y ferrocarril, con la finalidad de que los mismos puedan disponer de criterios homogéneos de actuación, en los primeros momentos de la emergencia.
+
+Esta Orden ha sido adaptada al Acuerdo Europeo sobre el Transporte Internacional de Mercancías Peligrosas por Carretera (ADR) y al Reglamento relativo al Transporte Internacional Ferroviario de Mercancías Peligrosas (RID), aplicables desde el 1 de enero de 2003, igualmente se han tenido en cuenta los avances tecnológicos así como la experiencia adquirida frente a este tipo de emergencias en los últimos años.
+
+Las citadas fichas van dirigidas a los servicios de intervención en situaciones de emergencia, y contienen las medidas de prevención y protección adecuadas a tomar, para cada tipo de mercancía peligrosa, siendo así mencionadas en el artículo 16 b) del Real Decreto 2115/1998, de 2 de octubre, sobre Transporte de Mercancías Peligrosas por Carretera.
+
+Las fichas corresponden a las materias y objetos que figuran en la tabla A del capítulo 3.2 «Lista de mercancías peligrosas» del ADR/RID. Han sido elaboradas por el Consejo Europeo de la Industria Química (CEFIC), en el marco de su programa «responsable care» (compromiso de progreso), por un grupo de especialistas químicos y jefes de bomberos con experiencia en este tipo de emergencias. Contienen las principales medidas de prevención y protección a tomar, para cada mercancía peligrosa, en los primeros momentos de la emergencia.
+
+Para su elaboración se ha contado con el apoyo financiero de la Comisión Europea (DG VII Transportes) y en nuestro país han sido adaptadas para la presente edición, gracias al trabajo conjunto de la Dirección General de Protección Civil y Emergencias y la Federación Empresarial de la Industria Química Española.
+
+Como en anteriores ediciones se han incorporado las fichas correspondientes a las materias de la clase 1 «materias y objetos explosivos» y la clase 7 «materias radiactivas», elaboradas en el ámbito nacional, contando para ello con expertos de la Federación de Industrias de Productos de Alta Energía y la Asociación de Fabricantes de Productos Pirotécnicos, respecto a la clase 1 y del Consejo de Seguridad Nuclear y principales empresas expedidoras y transportistas, respecto a la clase 7.
+
+Estas fichas no deben confundirse con las instrucciones escritas, dirigidas a los conductores, a las que se refiere el artículo 16 a) y 21 del Real Decreto 2115/1998, de 2 de octubre, sobre el transporte de mercancías peligrosas por carretera, ni a las fichas de seguridad a las que se refiere el artículo 15 a) del Real Decreto 412/2001, de 20 de abril, por el que se regulan diversos aspectos relacionados con el transporte de mercancías peligrosas por ferrocarril.
+
+Dado su carácter informativo y su estructura, que en general, incluyen una parte común para un grupo de productos, su contenido no debe entenderse, en ningún caso, sustitutivo del asesoramiento que pueda ser prestado, en cada emergencia, por los expertos en cada materia o de las fuentes de información específicas contempladas en las diferentes bases de datos actualmente existentes y de reconocido prestigio.
+
+En su virtud, previo el informe favorable de la Comisión para la Coordinación del Transporte de Mercancías Peligrosas, dispongo:
