@@ -1,3 +1,7 @@
 ## TÍTULO SÉPTIMO
 
 ## Del Tribunal de Honor
+
+(Derogado)
+
+> Se deroga por el art. 1 del Real Decreto 1126/1982, de 28 de mayo. Ref. BOE-A-1982-13247.
