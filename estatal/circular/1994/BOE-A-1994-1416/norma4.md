@@ -24,4 +24,6 @@ Cada uno de los ficheros generados deberá contener toda la información relativ
 
 Una misma orden, ejecución o desglose no podrá figurar simultáneamente en más de un fichero de órdenes, de ejecuciones o de desgloses respectivamente.
 
-5. Las entidades deberán mantener el registro de operaciones y, en consecuencia, estar durante un período mínimo de cinco años, a contar desde la recepción de las órdenes, en disposición de generar los ficheros a que se refiere el punto 2 anterior.
+5. Las entidades deberán mantener el registro de operaciones y, en consecuencia estar, durante un período mínimo de seis años a contar desde la recepción de las órdenes, en disposición de generar los ficheros a que se refiere el punto 2 anterior.
+
+> Se modifica el apartado 5 por la norma adicional.2 de la Circular 1/1995, de 14 de junio. Ref. BOE-A-1995-16116.

@@ -30,4 +30,6 @@ Bastará para el cumplimiento de dicha obligación que las entidades estén en d
 
 7. Las órdenes realizadas por los administradores y aquellos empleados, representantes y otras personas a quienes, según el reglamento interno de conducta, sea de aplicación la obligación de mediación de la entidad para la que trabajan o presten sus servicios en las operaciones que realicen por cuenta propia, deberán hacerse por escrito e incluirse en el archivo de justificantes de órdenes, conforme establece el apartado d) del punto 1 del artículo 3 del Real Decreto 629/1993.
 
-8. El archivo de justificantes de órdenes deberá mantenerse por un período mínimo de tres años desde que las órdenes son recibidas.
+8. El archivo de justificantes de órdenes deberá mantenerse por un período mínimo de seis años desde que las órdenes son recibidas.
+
+> Se modifica el apartado 8 por la norma adicional.1 de la Circular 1/1995, de 14 de junio. Ref. BOE-A-1995-16116.
