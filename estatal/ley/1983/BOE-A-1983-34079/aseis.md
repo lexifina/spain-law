@@ -23,3 +23,13 @@ Si un mismo préstamo estuviese garantizado con hipoteca sobre inmuebles sitos e
 5. En el supuesto de constitución de Sociedades y en el de fusión con extinción de las Sociedades integradas y creación de nueva Sociedad, cuando el domicilio social del Ente recién creado radique en el territorio de esa Comunidad Autónoma.
 
 6. En los supuestos de aumento y disminución del capital, fusión por absorción, transformación y disolución de Sociedades, cuando la Sociedad transformada, modificada, absorbente o disuelta tenga su domicilio fiscal en el territorio de esa Comunidad Autónoma.
+
+7. En las escrituras, actas y testimonios notariales, cuando unas y otros se autoricen u otorguen en el territorio de esa Comunidad Autónoma.
+
+8. En las letras de cambio y documentos que suplan a las mismas o realicen función de giro, cuando su libramiento tenga lugar en el territorio de la Comunidad Autónoma, y si aquéllas se hubieren expedido en el extranjero, cuando su primer tenedor tenga su residencia habitual o domicilio fiscal en dicho territorio.
+
+9. En las anotaciones preventivas, cuando el órgano registral ante el que se produzcan tenga su sede en el territorio de dicha Comunidad Autónoma.
+
+> Se añaden los apartados 7 a 9 por el art. 2.2 de la Ley 32/1987, de 22 de diciembre. Ref. BOE-A-1987-28352.
+
+> Redactado el apartado 9 conforme a la corrección de errores publicada en BOE núm. 14, de 16 de enero de 1988. Ref. BOE-A-1988-949.
