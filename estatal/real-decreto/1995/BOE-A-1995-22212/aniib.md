@@ -689,6 +689,10 @@
 |  | Formación y orientación laboral. | Animación Turística. |
 |  | Administración y gestión de un gabinete audioprotésico. | Audioprótesis. |
 |  | Formación y orientación laboral. |  |
+|  | Administración, gestión y comercialización de la pequeña empresa. | Óptica de Anteojería. |
+|  | Formación y orientación laboral. | Óptica de Anteojería. |
+
+> Se modifica por la disposición adicional 2.2 del Real Decreto 370/2001, de 6 de abril. Ref. BOE-A-2001-8794.
 
 > Se modifica por la disposición adicional 2.2 del Real Decreto 62/2001, de 26 de enero. Ref. BOE-A-2001-3128.
 

@@ -11,7 +11,7 @@
 | Comunicación, Imagen y Sonido. | Laboratorio de Imagen. Imagen. Producción de Audiovisuales, Radio y Espectáculos. Realización de Audiovisuales y Espectáculos. Sonido. |
 | Edificación y Obra Civil. | Acabados de Construcción. Obras de Albañilería. Obras de Hormigón. Operación y Mantenimiento de Maquinaria de Construcción. Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas. Desarrollo y Aplicación de Proyectos de Construcción. Realización y Planes de Obra. |
 | Electricidad y Electrónica. | Equipos Electrónicos de Consumo. Equipos e Instalaciones Electrotécnicas. Desarrollo de Productos Electrónicos. Instalaciones Electrotécnicas. Sistemas de Regulación y Control Automáticos. Sistemas de Telecomunicación e Informáticos. |
-| Fabricación Mecánica. | Fundición. Mecanizado. Soldadura y Calderería. Tratamientos Superficiales y Térmicos. Construcciones Metálicas. Desarrollo de Proyectos Mecánicos. Producción por Fundición y Pulvimetalurgia. Producción por Mecanizado. |
+| Fabricación Mecánica. | Fundición. Mecanizado. Soldadura y Calderería. Tratamientos Superficiales y Térmicos. Construcciones Metálicas. Desarrollo de Proyectos Mecánicos. Producción por Fundición y Pulvimetalurgia. Producción por Mecanizado. Óptica de Anteojería. |
 | Hostelería y Turismo. | Cocina. Pastelería y Panadería. Servicios de Restaurante y Bar. Agencias de Viajes. Alojamiento. Información y Comercialización Turísticas. Restauración. Animación Turística. |
 | Imagen Personal. | Caracterización. Estética Personal Decorativa. Peluquería. Asesoría de Imagen Personal. Estética. |
 | Industrias Alimentarias. | Administración de Sistemas Informáticos. Desarrollo de Aplicaciones Informáticas. |
@@ -23,6 +23,8 @@
 | Servicios Socioculturales y a la Comunidad. | Animación Sociocultural. Educación Infantil. Interpretación de la Lengua de Signos. Integración Social. |
 | Textil, Confección y Piel. | Calzado y Marroquinería. Confección. Operaciones de Ennoblecimiento Textil. Producción de Hilatura y Tejeduría de Calada. Producción de Tejidos de Punto. Curtidos. Patronaje. Procesos de Confección Industrial. Procesos de Ennoblecimiento Textil. Procesos Textiles de Hilatura y Tejeduría de Calada. Procesos Textiles de Tejeduría de Punto. |
 | Vidrio y Cerámica. | Operaciones de fabricación de productos cerámicos. Operaciones de fabricación de vidrio y transformados. Fabricación y transformación de productos de vidrio. Desarrollo y fabricación de productos cerámicos. |
+
+> Se modifica por la disposición adicional 2.2 del Real Decreto 370/2001, de 6 de abril. Ref. BOE-A-2001-8794.
 
 > Se modifica por la disposición adicional 2.2 del Real Decreto 62/2001, de 26 de enero. Ref. BOE-A-2001-3128.
 

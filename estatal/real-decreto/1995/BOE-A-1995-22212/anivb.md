@@ -174,6 +174,7 @@
 |  | Montaje y mantenimiento de los sistemas hidráulico y neumático. | Mantenimiento de equipo industrial. |
 |  | Técnicas de fabricación para el mantenimiento y montaje. | Mantenimiento de equipo industrial. |
 |  | Ejecución de procesos de fundición. | Producción por fundición y pulvimetarlurgia. |
+|  | Montajes y reparaciones ópticas. | Óptica de Anteojería. |
 | Oficina de Proyectos de Construcción. | Representaciones de construcción. | Desarrollo y aplicación de proyectos de construcción. |
 |  | Proyecto de edificación. | Desarrollo y aplicación de proyectos de construcción. |
 |  | Trabajos de campo y gabinete. | Desarrollo de proyectos urbanísticos y operaciones topográficas. |
@@ -256,6 +257,7 @@
 |  | Aplicaciones informáticas generales. | Documentación sanitaria. |
 |  | Organización de archivos clínicos. | Documentación sanitaria. |
 |  | Prevención bucodental. | Higiene bucodental. |
+|  | Anatomía, fisiopatología y ametropías oculares. | Óptica de Anteojería. |
 | Procesos Comerciales. | Aplicaciones informáticas de propósito general. | Comercio. |
 |  | Operaciones de almacenaje. | Comercio. |
 |  | Animación del punto de venta. | Comercio. |
@@ -362,6 +364,8 @@
 |  | Fotografía macro y microscópica. | Anatomía patológica y citología. |
 |  | Realización en multimedia. | Realización de audiovisuales y espectáculos. |
 |  | Grabaciones musicales. | Sonido. |
+
+> Se modifica por la disposición adicional 2.2 del Real Decreto 370/2001, de 6 de abril. Ref. BOE-A-2001-8794.
 
 > Se modifica por la disposición adicional 2.2 del Real Decreto 62/2001, de 26 de enero. Ref. BOE-A-2001-3128.
 
