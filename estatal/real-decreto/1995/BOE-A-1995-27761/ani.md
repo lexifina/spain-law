@@ -1,445 +1,491 @@
 ## ANEXO I
 
-## TIPOS DE HÁBITATS NATURALES DE INTERÉS COMUNITARIO PARA CUYA CONSERVACIÓN ES NECESARIO DESIGNAR ZONAS ESPECIALES DE CONSERVACIÓN
+## Tipos de hábitats naturales de interés comunitario cuya conservación requiere la designación de zonas de especial conservación
 
 ## Interpretación
 
-Código: la clasificación jerárquica de los hábitats realizada en el programa CORINE (1) (CORINE BIOTOPES PROJECT) constituye el documento de referencia para este anexo. La mayoría de los tipos de hábitats naturales van acompañados del código CORINE correspondiente, catalogado en el documento titulado Technical Handbook, volumen 1, páginas 73-109, CORINE/BIOTOPE/89-2.2, 19 de mayo de 1988, parcialmente actualizado el 14 de febrero de 1989.
+En el «Manual de Interpretación de los Hábitats de la Unión Europea», aprobado por el comité establecido por el artículo 20 (Comité Hábitats) y publicado por la Comisión Europea, se ofrecen orientaciones para la interpretación de cada tipo de hábitat.
 
-El signo «x» combinando códigos indica tipos de hábitats que se encuentran asociados. Por ejemplo: 35.2 x 64.1
+El código corresponde al código NATURA 2000.
 
-De pastizales abiertos con Corynephorus y Agrostis (35.2) de las dunas continentales (64.1).
+El símbolo * indica los tipos de hábitats prioritarios.
 
-El signo «*» significa: tipos de hábitats prioritarios.
+## 1. Hábitats costeros y vegetaciones halofíticas
 
-## HÁBITATS COSTEROS Y VEGETACIONES HALOFITICAS
+## 11. Aguas marinas y medios de marea
 
-## Aguas marinas y medios de marea
+1110 Bancos de arena cubiertos permanentemente por agua marina, poco profunda.
 
-11.25 / *Bancos de arena cubiertos permanentemente por agua marina, poco profunda.
+1120 * Praderas de Posidonia (Posidonion oceanicae).
 
-11.34 / *Praderas de Posidonia.
+1130 Estuarios.
 
-13.2 / *Estuarios.
+1140 Llanos fangosos o arenosos que no están cubiertos de agua cuando hay marea baja.
 
-14 / *Lianos fangosos o arenosos que no están cubiertos de agua cuando hay marea baja.
+1150 * Lagunas costeras.
 
-21 / *Lagunas.
+1160 Grandes calas y bahías poco profundas.
 
-– / *Grandes calas y bahías poco profundas.
+1170 Arrecifes.
 
-– / *Arrecifes.
+1180 Estructuras submarinas causadas por emisiones de gases.
 
-– / *«Columnas» marinas causadas por emisiones de gases en aguas poco profundas.
+## 12. Acantilados marítimos y playas de guijarros
 
-## Acantilados marítimos y playas de guijarros
+1210 Vegetación anual sobre desechos marinos acumulados.
 
-17.2 / *Vegetación anual pionera sobre desechos marinos acumulados.
+1220 Vegetación perenne de bancos de guijarros.
 
-17.3 / *Vegetación perenne de bancos de guijaros.
+1230 Acantilados con vegetación de las costas atlánticas y bálticas.
 
-18.21 / *Acantilados con vegetación de las costas atlánticas y bálticas.
+1240 Acantilados con vegetación de las costas mediterráneas con Limonium spp. endémicos.
 
-18.22 / *Acantilados con vegetación de las costas mediterráneas (con Limonium spp. endémicos).
+1250 Acantilados con vegetación endémica de las costas macaronésicas.
 
-18.23 / *Acantilados con vegetación de las costas macaronesianas (flora endémica de estas costas).
+## 13. Marismas y pastizales salinos atlánticos y continentales
 
-## Marismas y pastizales salinos atlánticos y continentales
+1310 Vegetación anual pionera con Salicornia y otras especies de zonas fangosas o arenosas.
 
-15.11 / *Vegetación anual pionera con Salicornia y otras de zonas fangosas o arenosas.
+1320 Pastizales de Spartina (Spartinion maritimi).
 
-15.12 / *Pastizales de Spartina (Spartinion).
+1330 Pastizales salinos atlánticos (Glauco-Puccinellietalia maritimae).
 
-15.13 / *Pastizales salinos atlánticos (Glauco-puccinellietalia). 15.14 / *Pastizales salinos continentales (Puccinellietalia distantis).
+1340 * Pastizales salinos continentales.
 
-## Marismas y pastizales salinos mediterráneos y termoatlánticos
+## 14. Marismas y pastizales salinos mediterráneos y termoatlánticos
 
-15.15 / *Pastizales salinos mediterráneos (Jucentalia maritimi).
+1410 Pastizales salinos mediterráneos (Juncetalia maritimi).
 
-15.16 / *Matorrales halófilos mediterráneos y termoatlánticos (Arthrocnemetalia fructicosae).
+1420 Matorrales halófilos mediterráneos y termoatlánticos (Sarcocornetea fruticosi).
 
-15.17 / *Matorrales halo-nitrófilos ibéricos (Pegano-Salsoletea).
+1430 Matorrales halo-nitrófilos (Pegano-Salsoletea).
 
-## Estepas continentales halófilas y gipsófilas
+## 15. Estepas continentales halófilas y gipsófilas
 
-15.18 / *Estepas salinas (Limonietalia).
+1510 * Estepas salinas mediterráneas (Limonietalia).
 
-15.19 / *Estepas yesosas (Gypsophiletalia).
+1520 * Vegetación gipsícola ibérica (Gypsophiletalia).
 
-## DUNAS MARITIMAS Y CONTINENTALES
+1530 * Estepas y marismas salinas panónicas.
 
-## Dunas marítimas de las costas atlánticas, del mar del Norte y del Báltico
+## 16. Archipiélagos, costas y superficies emergidas del Báltico boreal
 
-16.211 / *Dunas móviles con vegetación embrionaria.
+1610 Islas esker del Báltico con vegetación de playas de arena, de rocas o de guijarros y vegetación sublitoral.
 
-16.212 / *Dunas móviles de litoral con Ammophila arenaria (dunas blancas).
+1620 Islotes e islitas del Báltico boreal.
 
-16.221 a 16.227 / *Dunas fijas con vegetación herbácea (dunas grises):
+1630 * Praderas costeras del Báltico boreal.
 
-16.221 / Galio-Koelerion Albescentis.
+1640 Playas de arena con vegetación vivaz del Báltico boreal.
 
-16.222 / Euphorbio-Helichrysion.
+1650 Calas estrechas del Báltico boreal.
 
-16.223 / Crucianellion maritimae.
+## 2. Dunas marítimas y continentales
 
-16.224 / Euphorbia terracina.
+## 21. Dunas marítimas de las costas atlánticas, del mar del Norte y del Báltico
 
-16.225 / Mesobromion.
+2110 Dunas móviles embrionarias.
 
-16.226 / Trifolio-Gerantietea sanguinei, Galio maritimi-Geranion sanguinei.
+2120 Dunas móviles de litoral con Ammophila arenaria (dunas blancas).
 
-16.227 / Thero-Airion, Botrychio-Polygaletum, Tuberarion guttatae.
+2130 * Dunas costeras fijas con vegetación herbácea (dunas grises).
 
-16.23 / *Dunas fijas descalcificadas con Empetrum nigrum.
+2140 * Dunas fijas descalcificadas con Empetrum nigrum.
 
-16.24 / *Dunas fijas descalcificadas eu-atlánticas (Calluno-Ulicetea).
+2150 * Dunas fijas descalcificadas atlánticas (Calluno-Ulicetea).
 
-16.25 / *Dunas con Hippophae rhamnoides.
+2160 Dunas con Hippophaë rhamnoides.
 
-16.26 / *Dunas con Salix arenaria.
+2170 Dunas con Salix repens ssp. argentea (Salicion arenariae).
 
-16.29 / *Dunas arboladas del litoral atlántico.
+2180 Dunas arboladas de las regiones atlánticas, continental y boreal.
 
-16.31 a 16.35 / *Depresiones intradunales húmedas.
+2190 Depresiones intradunales húmedas.
 
-1.A / *Machairs (*machairs de Irlanda).
+21A0 Machairs (* en Irlanda).
 
-## Dunas marítimas de las costas mediterráneas
+## 22. Dunas marítimas de las costas mediterráneas
 
-16.223 / *Dunas fijas de litoral del Crucianellion maritimae.
+2210 Dunas fijas de litoral del Crucianellion maritimae. 2220 Dunas con Euphorbia terracina.
 
-16.224 / *Dunas con Euphorbia terracina.
+2230 Dunas con céspedes del Malcomietalia.
 
-16.228 / *Dunas de Malcolmietalia.
+2240 Dunas con céspedes del Brachypodietalia y de plantas anuales.
 
-16.229 / *Dunas de Brachypodietalia y anuales.
+2250 * Dunas litorales con Juniperus spp.
 
-16.27 / *Matorrales de enebro (Juniperus spp.).
+2260 Dunas con vegetación esclerófila del Cisto-Lavanduletalia.
 
-16.28 / *Dunas con vegetación esclerófila (Cisto-Lavanduletalia).
+2270 * Dunas con bosques Pinus pinea y/o Pinus pinaster.
 
-16.29 x 42.8 / *Bosques de dunas con Pinus pinea, Pinus pinaster o ambos.
+## 23. Dunas continentales, antiguas y descalcificadas
 
-## Dunas continentales, antiguas y descalcificadas
+2310 Brezales psamófilos secos con Calluna y Genista.
 
-64.1 x 31.223 / *De brezales psamófilos de Calluna y Genista.
+2320 Brezales psamófilos secos con Calluna y Empetrum nigrum.
 
-64.1 x 31.227 / *De brezales psamófilos de Calluna y Empetrum nigrum.
+2330 Dunas continentales con pastizales abiertos con Corynephorus y Agrostis.
 
-64.1 x 35.2 / *De pastizales abiertos con Corynephorus y Agrostis de las dunas continentales.
+2340 * Dunas continentales panónicas.
 
-## HÁBITATS DE AGUA DULCE
+## 3. Hábitats de agua dulce
 
-## Agua estancada (estanques y lagos)
+## 31. Aguas estancadas
 
-22.11 x 22.31 / *Aguas oligotróficas con un contenido de minerales muy bajo de las llanuras arenosas atlánticas, con vegetación anfibia de Lobelia, Littorella e Isoetes.
+3110 Aguas oligotróficas con un contenido de minerales muy bajo de las llanuras arenosas (Littorelletalia uniflorae).
 
-22.11 x 22.34 / *Aguas oligotróficas con un contenido de minerales muy bajo de las llanuras arenosas del mediterráneo occidental con Isoetes.
+3120 Aguas oligotróficas con un contenido de minerales muy bajo sobre suelos gereralmente arenosos del mediterráneo occidental con Isoetes spp.
 
-22.12 x (22.31 y 22.32) / *Aguas oligotróficas de las zonas centroeuropeas y perialpinas con vegetación de Littorella o Isoetes, o vegetación anual en las orillas expuestas (Nanocyperetalia).
+3130 Aguas estancadas, oligotróficas o mesotróficas con vegetación de Littorelletea uniflorae y/o Isoëto-Nanojuncetea.
 
-22.12 x 22.44 / *Aguas oligo-mesotróficas calcáreas con vegetación béntica con formaciones de caraceas.
+3140 Aguas oligomesotróficas calcáreas con vegetación béntica de Chara spp.
 
-22.13 / *Lagos eutróficos naturales con vegetación Magnopotamion o Hydrocharition.
+3150 Lagos eutróficos naturales con vegetación Magnopotamion o Hydrocharition.
 
-22.14 / *Lagos distróficos.
+3160 Lagos y estanques distróficos naturales.
 
-22.34 / *Estanques temporales mediterráneos.
+3170 * Estanques temporales mediterráneos.
 
-– / *Turloughs (Irlanda).
+3180 * Turloughs.
 
-## Agua corriente
+## 32. Aguas corrientes-tramos de cursos de agua con dinámica natural y semi-natural (lechos menores, medios y mayores), en los que la calidad del agua no presenta alteraciones significativas
 
-Las partes de cursos de agua de dinámica natural y seminatural (lechos menores, medianos y mayores) en los que la calidad del agua no presente alteraciones significativas.
+3210 Ríos naturales de Fenoscandia.
 
-24.221 y 24.222 / *Ríos alpinos y la vegetación herbácea de sus orillas.
+3220 Ríos alpinos con vegetación herbácea en sus orillas.
 
-24.223 / *Ríos alpinos y la vegetación leñosa de sus orillas de Myricaria germanica.
+3230 Ríos alpinos con vegetación leñosa en sus orillas de Myricaria germanica.
 
-24.224 / *Ríos alpinos y la vegetación leñosa de sus orillas de Salix elaeagnos.
+3240 Ríos alpinos con vegetación leñosa en sus orillas de Salix elaeagnos.
 
-24.225 / *Ríos mediterráneos de caudal permanente con Glaucium flavum.
+3250 Ríos mediterráneos de caudal permanente con Glaucium flavum.
 
-24.4 / *Vegetación flotante de ranúnculos de los ríos de zonas premontañosas y de planicies.
+3260 Ríos de pisos de planicie a montano con vegetación de Ranunculion fluitantis y de Callitricho-Batrachion.
 
-24.52 / *El Chenopodietum rubri de los ríos de zonas premontañosas.
+3270 Ríos de orillas fangosas con vegetación de Chenopodion rubri p.p. y de Bidention p.p.
 
-24.53 / *Ríos mediterráneos de caudal permanente con Paspalo-Agrostidion y cortinas vegetales ribereñas con Salix y Populus alba.
+3280 Ríos mediterráneos de caudal permanente del Paspalo-Agrostidion con cortinas vegetales ribereñas de Salix y Populus alba.
 
-– / *Ríos mediterráneos de caudal intermitente.
+3290 Ríos mediterráneos de caudal intermitente del Paspalo-Agrostidion.
 
-## BREZALES Y MATORRALES DE ZONA TEMPLADA
+## 4. Brezales y matorrales de zona templada
 
-31.11 / *Brezales húmedos atlánticos septentrionales de Erica tetralix.
+4010 Brezales húmedos atlánticos septentrionales de Erica tetralix.
 
-31.12 / *Brezales húmedos atlánticos meridionales de Erica cillaris y Erica tetralix.
+4020 * Brezales húmedos atlánticos de zonas templadas de Erica ciliaris y Erica tetralix.
 
-31.2 / *Brezales secos (todos los subtipos).
+4030 Brezales secos europeos.
 
-31.234 / *Brezales secos costeros de Erica vagans y Ulex marítimus.
+4040 * Brezales secos atlánticos costeros de Erica vagans.
 
-31.3 / *Brezales secos macaronesianos endémicos.
+4050 * Brezales macaronésicos endémicos.
 
-31.4 / *Brezales alpinos y subalpinos.
+4060 Brezales alpinos y boreales.
 
-31.5 / *Matorrales de Pinus Mugo y Rhododendro hirsutum (Mugo-Rhodoretum hirsuti).
+4070 * Matorrales de Pinus mugo y Rhododendron hirsutum (Mugo-Rhododendretum hirsuti).
 
-31.622 / *Formaciones subarbustivas subárticas de sauces.
+4080 Formaciones subarbustivas subárticas de Salix spp.
 
-31.7 / *Brezales oromediterráneos endémicos con aliaga.
+4090 Brezales oromediterráneos endémicos con aliaga.
 
-## MATORRALES ESCLERÓFILOS
+## 5. Matorrales esclerófilos
 
-## Submediterráneos y de zona templada
+## 51. Marorrales submediterráneos y de zona templada
 
-31.82 / *Formaciones estables de Buxus sempervirens en pendientes rocosas calcáreas (Berberidion p.).
+5110 Formaciones estables xerotermófilas de Buxus sempervirens en pendientes rocosas (Berberidion p.p.).
 
-31.842 / *Formaciones de Genista purgans en montaña.
+5120 Formaciones montanas de Cytisus purgans.
 
-31.88 / *Formaciones de Juniperus communis en brezales o pastizales calcáreos.
+5130 Formaciones de Juniperus communis en brezales o pastizales calcáreos.
 
-31.89 / *Formaciones de Cistus palhinhae sobre brezales marítimos (Junipero-Cistetum palhinhae).
+5140 * Formaciones de Cistus palhinhae sobre brezales marítimos.
 
-## Matorrales arborescentes mediterráneos
+## 52. Matorrales arborescentes mediterráneos
 
-32.131 a 32.135 / *Formaciones de enebros.
+5210 Matorrales arborescentes de Juniperus spp.
 
-32.17 / *Matorrales de Zyziphus.
+5220 * Matorrales arborescentes de Zyziphus.
 
-32.18 / *Matorrales de Laurus nobilis.
+5230 * Matorrales arborescentes de Laurus nobilis.
 
-## Matorrales termomediterráneos y preestépicos
+## 53. Matorrales termomediterráneos y pre-estépicos
 
-32.216 / *Monte bajo de laurel.
+5310 Monte bajo de Laurus nobilis.
 
-32.217 / *Formaciones bajas de euphorbes próximas a los acantilados.
+5320 Formaciones bajas de Euphorbia próximas a los acantilados.
 
-32.22 a 32.26 / *Todos los tipos.
+5330 Matorrales termomediterráneos y pre-estépicos.
 
-## Matorrales espinosos de tipo frigánico
+54. Matorrales de tipo frigánico
 
-33.1 / *De Astragalo-Plantaginetum subulatae.
+5410 Matorrales de tipo frigánico del mediterráneo occidental de cumbres de acantilados (Astragalo-Plantaginetum subulatae).
 
-33.3 / *De Sarcopoterium Spinosum.
+5420 Matorrales espinosos de tipo frigánico del Sarcopoterium spinosum.
 
-33.4 / *Formaciones de Creta (Euphorbieto-Verbascion).
+5430 Matorrales espinosos de tipo frigánico endémicos del Euphorbio verbascion.
 
-## FORMACIONES HERBOSAS NATURALES Y SEMINATURALES
+## 6. Formaciones herbosas naturales y seminaturales
 
-## Prados naturales
+## 61. Prados naturales
 
-34.11 / *Prados calcáreos cársticos (Alysso-Sedion albi).
+6110 * Prados calcáreos cársticos o basófilos del Alysso-Sedion albi.
 
-34.12 / *Prados de arenas xéricas (Koelerion glaucae).
+6120 * Prados calcáreos de arenas xéricas.
 
-34.2 / *Prados calaminarios.
+6130 Prados calaminarios de Violetalia calaminariae.
 
-36.314 / *Prados pirenaicos silíceos de Festuca eskia.
+6140 Prados pirenaicos silíceos de Festuca eskia.
 
-36.32 / *Prados boreo-alpinos silíceos.
+6150 Prados boreoalpinos silíceos.
 
-36.36 / *Prados ibéricos silíceos de Festuca indigesta.
+6160 Prados ibéricos silíceos de Festuca indigesta.
 
-36.41 a 36.45 / *Prados alpinos calcáreos.
+6170 Prados alpinos y subalpinos calcáreos.
 
-36.5 / *Prados orófilos macaronesianos.
+6180 Prados orófilos macaronésicos.
 
-## Formaciones herbosas secas seminaturales y facies de matorrales
+## 62. Formaciones herbosas secas seminaturales y facies de matorral
 
-34.31 a 34.34 / *Sobre sustratos calcáreos (Festuco Brometalia).
+6210 Prados secos semi-naturales y facies de matorral sobre sustratos calcáreos (Festuco-Brometalia) (* parajes con notables orquídeas).
 
-*(*parajes con notables orquídeas).
+6220 * Zonas subestépicas de gramíneas y anuales del Thero-Brachypodietea.
 
-34.5 / *Zonas subestépicas de gramíneas y anuales (Thero-Brachypodietea).
+6230 * Formaciones herbosas con Nardus, con numerosas especies, sobre sustratos silíceos de zonas montañosas (y de zonas submontañosas de la Europa continental).
 
-35.1 / *Formaciones herbosas con Nardus, con numerosas especies, sobre sustratos silíceos de zonas montañosas (y de zonas submontañosas de Europa continental).
+6240 * Pastizales estépicos subpanónicos.
 
-## Bosques esclerófilos de pastoreo (dehesas)
+6250 * Pastizales estépicos panónicos sobre loess.
 
-32.11 / *De Quercus suber y/o Quercus ilex.
+6260 * Estepas panónicas sobre arenas.
 
-## Prados húmedos seminaturales de hierbas altas
+6270 * Pastizales fenoscándicos de baja altitud, secas a orófilas, ricas en especies.
 
-37.31 / *Prados con molinias sobre sustratos calcáreos y arcillosos (Eu-Molinion).
+6280 * Alvar nórdico y losas calizas precámbricas.
 
-37.4 / *Prados mediterráneos de hierbas altas y juncos (Molinion-Holoschoenion).
+## 63. Bosques esclerófilos de pastoreo (dehesas)
 
-37.7 y 37.8 / *Megaforbios eutrofos.
+6310 Dehesas perennifolias de Quercus spp.
 
-– / *Prados inundables de Cnidion venosae.
+## 64. Prados húmedos seminaturales de hierbas altas
 
-## Prados mesófilos
+6410 Prados con molinias sobre sustratos calcáreos, turbosos o arcillo-limónicos (Molinion caeruleae).
 
-38.2 / *Prados pobres de siega de baja altitud (Alopecurus pratensis, Sanguisorba officinalis).
+6420 Prados húmedos mediterráneos de hierbas altas del Molinion-Holoschoenion.
 
-38.3 / *Prados de siega de montaña (tipos británicos con Geranium sylvaticum).
+6430 Megaforbios eutrofos higrófilos de las orlas de llanura y de los pisos montano a alpino.
 
-## TURBERAS ALTAS («BOGS») Y TURBERAS BAJAS («MIRES» Y «FENS»)
+6440 Prados aluviales inundables del Cnidion dubii.
 
-## Turberas ácidas de esfagnos
+6450 Prados aluviales norboreales.
 
-51.1 / *Turberas altas activas.
+## 65. Prados mesófilos
 
-51.2 / *Turberas altas degradadas
+6510 Prados pobres de siega de baja altitud (Alopecurus pratensis, Sanguisorba officinalis).
 
-*(que pueden todavía regenerarse de manera natural).
+6520 Prados de siega de montaña.
 
-52.1 y 52.2 / *Turberas de cobertura (*turberas activas solamente).
+6530 * Prados arbolados fenoscándicos.
 
-54.5 / *«Mires» de transición.
+## 7. Turberas altas, turberas bajas (Fens y Mires) y áreas pantanosas
 
-54.6 / *Depresiones sobre sustratos turbosos (Rhynchosporion).
+## 71. Turberas ácidas de esfagnos
 
-## Turberas calcáreas
+7110 * Turberas altas activas.
 
-53.3 / *Turberas calcáreas de Cladium mariscus y Carex davalliana.
+7120 Turberas altas degradadas que todavía pueden regenerarse de manera natural.
 
-54.12 / *Manantiales petrificantes con formación de tuf (Cratoneurion).
+7130 Turberas de cobertura (* para las turberas activas).
 
-54.2 / *Turberas bajas alcalinas.
+7140 «Mires» de transición.
 
-54.3 / *Formaciones pioneras alpinas de Caricion bicoloris-atrofuscae.
+7150 Depresiones sobre sustratos turbosos del Rhynchosporion.
 
-## HÁBITATS ROCOSOS Y CUEVAS
+7160 Manantiales ricos en minerales y surgencias de fens.
 
-## Desprendimientos rocosos
+## 72. Áreas pantanosas calcáreas
 
-61.1 / *Desprendimientos silíceos.
+7210 * Turberas calcáreas del Cladium mariscus y con especies del Caricion davallianae.
 
-61.2 / *Desprendimientos eutricos.
+7220 * Manantiales petrificantes con formación de tuf (Cratoneurion).
 
-61.3 / *Desprendimientos mediterráneos occidentales y termófilos de los Alpes.
+7230 Turberas bajas alcalinas.
 
-61.4 / *Desprendimientos balcánicos.
+7240 * Formaciones pioneras alpinas de Caricion bicoloris-atrofuscae.
 
-61.5 / *Desprendimientos medioeuropeos silíceos.
+## 73. Turberas boreales
 
-61.6 / *Desprendimientos medioeuropeos calcáreos.
+7310 * Aapa mires.
 
-## Vegetación casmofítica de pendientes rocosas
+7320 * Palsa mires.
 
-62.1 y 62-1A / *Subtipos calcáreos.
+## 8. Hábitats rocosos y cuevas
 
-62.2 / *Subtipos silicícolas.
+## 81. Desprendimientos rocosos
 
-62.3 / *Pastos pioneros en superficies rocosas.
+8110 Desprendimientos silíceos de los pisos montano a nival (Androsacetalia alpinae y Galeopsietalia ladani).
 
-62.4 / *Pavimentos calcáreos.
+8120 Desprendimientos calcáreos y de esquistos calcáreos de los pisos montano a nival (Thlaspietea rotundifolii).
 
-## Otros hábitats rocosos
+8130 Desprendimientos mediterráneos occidentales y termófilos.
 
-65 / *Cuevas no explotadas por el turismo.
+8140 Desprendimientos mediterráneos orientales.
 
-– / *Campos de lava y excavaciones naturales.
+8150 Desprendimientos medioeuropeos silíceos de zonas altas.
 
-– / *Cuevas marinas sumergidas o semisumergidas.
+8160 * Desprendimientos medioeuropeos calcáreos de los pisos colino o montano.
 
-– / *Glaciares permanentes.
+## 82. Pendientes rocosas con vegetación casmofítica
 
-## BOSQUES
+8210 Pendientes rocosas calcícolas con vegetación casmofítica.
 
-Bosques (sub)naturales de especies indígenas situadas en monte alto, incluidos los bosquecillos de monte alto con maleza típica, que respondan a los siguientes criterios: raros y residuales y/o que contengan especies de interés comunitarios.
+8220 Pendientes rocosas silíceas con vegetación casmofítica.
 
-## Bosques de la Europa templada
+8230 Roquedos silíceos con vegetación pionera del Sedo-Scleranthion o del Sedo albi-Veronicion dillenii.
 
-41.11 / *Hayedos del Luzulo-Fagetum.
+8240 * Pavimentos calcáreos.
 
-41.12 / *Hayedos con Ilex y Taxus, ricos en epífitos (Ilici-Fagion).
+## 83. Otros hábitats rocosos
 
-41.13 / *Hayedos del Asperulo-Fagetum.
+8310 Cuevas no explotadas por el turismo.
 
-41.15 / *Hayedos subalpinos con Acer y Rumex arifolius.
+8320 Campos de lava y excavaciones naturales.
 
-41.16 / *Hayedos calcícolas (Cephalanthero-Fagion).
+8330 Cuevas marinas sumergidas o semisumergidas.
 
-41.24 / *Robledales del Stellario-Carpinetum.
+8340 Glaciares permanentes.
 
-41.26 / *Robledales del Galio-Carpinetum.
+## 9. Bosques
 
-41.4 / **Bosques de los barrancos de Tilio-Acerion.
+## Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque típico, que responden a uno de los siguientes criterios: raros o residuales, y/o que albergan especies de interés comunitario
 
-41.51 / *Robledales antiguos acidófilos con Quercus robur de las llanuras arenosas.
+## 90. Bosques de la Europa boreal
 
-41.53 / *Robledales antiguos con Ilex y Blechnum de las Islas Británicas.
+9010 * Taiga occidental.
 
-41.86 / *Bosques de fresnos con Fraxinus angustifolia.
+9020 * Bosques maduros caducifolios naturales emiboreales, de Fenoscandia, ricos en epífitos (Quercus, Tilia, Acer, Fraxinus o Ulmus).
 
-42.51 / *Bosques de Caledonia.
+9030 * Bosques naturales de las primeras fases de la sucesión de las áreas emergidas costeras.
 
-44.A1 a 44.A4 / *Turberas boscosas.
+9040 Bosques nórdicos/subárticos de Betula pubescens ssp. czerepanovii.
 
-44.3 / *Bosques aluviales residuales (Alnion glutinoso-incanae).
+9050 Bosques fenoscándicos de Picea abies ricos en herbáceas.
 
-44.4 / *Bosques mixtos roble-olmo-fresno de los grandes ríos.
+9060 Bosques de coníferas sobre, o relacionados, con eskers fluvioglaciales.
 
-## Bosques mediterráneos de hoja caduca
+9070 Pastizales arbolados fenoscándicos.
 
-41.181 / *Hayedos de los Apeninos con Taxus e Ilex.
+9080 * Bosques pantanosos caducifolios de Fenoscandia.
 
-41.184 / *Hayedos de los Apeninos Abies alba y hayedos con Abies nebrodensis.
+## 91. Bosques de la Europa templada
 
-41.6 / *Robledales galaico-portugueses con Quercus robur y Quercus pyrenaica.
+9110 Hayedos del Luzulo-Fagetum.
 
-41.77 / *Robledales de Quercus faginea (península ibérica).
+9120 Hayedos acidófilos atlánticos con sotobosque de Ilex y a veces de Taxus (Quercion robori-petraeae ou Ilici-Fagenion).
 
-41.85 / *Robledales de Quercus troiana (Italia, Grecia)
+9130 Hayedos del Asperulo-Fagetum.
 
-41.9 / *Bosques de castaños.
+9140 Hayedos subalpinos medioeuropeos de Acer y Rumex arifolius.
 
-41.1A a 42.17 / *Hayedos helénicos con Abies borisii-regis.
+9150 Hayedos calcícolas medioeuropeos del Cephalanthero-Fagion.
 
-41.1B / *Hayedos de Quercus frainetto.
+9160 Robledales pedunculados o albares subatlánticos y medioeuropeos del Carpinion betuli.
 
-42.A1 / *Bosques de cipreses (Acero-Cupression).
+9170 Robledales albares del Galio-Carpinetum.
 
-44.17 / *Bosques galeria de Salix alba y Populus alba.
+9180 * Bosques de laderas, desprendimientos o barrancos del Tilio-Acerion.
 
-44.52 / *Formaciones ripícolas de ríos mediterráneos de caudal intermitente, con Rhododendron ponticum, Salix y otros.
+9190 Robledales maduros acidófilos de llanuras arenosas con Quercus robur.
 
-44.7 / *Bosques de plátanos orientales (Platanion orientalis).
+91A0 Robledales maduros de las Islas Británicas con Ilex y Blechnum.
 
-44.8 / *Galarias ribereñas termomediterráneas (Nerio-Tamaricetea) y del sudoeste de la península ibérica (Securinegion tinctoriae).
+91B0 Fresnedas termófilas de Fraxinus angustifolia.
 
-## Bosques esclerófilos mediterráneos
+91C0 * Bosques de Caledonia.
 
-41.7C / *Bosques cretenses de Quercus brachyphylla.
+91D0 * Turberas boscosas.
 
-45.1 / *Bosques de Olea y Ceratonia.
+91E0 * Bosques aluviales de y Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae).
 
-45.2 / *Bosques de Quercus suber.
+91F0 Bosques mixtos de Quercus robur, Ulmus laevis, Ulmus minor, Fraxinus excelsior o Fraxinus angustifolia, en las riberas de los grandes ríos (Ulmenion minoris).
 
-45.3 / *Bosques de Quercus ilex.
+91G0 * Bosques panónicos de Quercus petraea y Carpinus betulus.
 
-45.5 / *Bosques de Quercus macrolepis.
+91H0 * Bosques panónicos de Quercus pubescens.
 
-45.61 a 45.63 / *Bosques de laureles macaronesianos (Laurus, Ocotea).
+91I0 * Bosques eurosiberianos estépicos de Quercus spp.
 
-45.7 / *Palmerales de Phoenix.
+91J0 * Bosques de las Islas Británicas con Taxus baccata.
 
-45.8 / *Bosques de Ilex aquifolium.
+## 92. Bosques mediterráneos caducifolios
 
-## Bosques alpinos y subalpinos de coníferas
+9210 * Hayedos de los Apeninos con Taxus e Ilex.
 
-42.21 a 42.23 / *Bosques acidófilos (Vaccinio-Piceetea).
+9220 * Hayedos de los Apeninos con Abies alba y hayedos con Abies nebrodensis.
 
-42.31 a 42.32 / *Bosques de alerces y Pinus cembra de los Alpes.
+9230 Robledales galaico-portugueses con Quercus robur y Quercus pyrenaica.
 
-42.4 / *Bosques de Pinus uncinata (sobre sustrato yesoso o calcáreo).
+9240 Robledales ibéricos de Quercus faginea y Quercus canariensis.
 
-## Bosques mediterráneos montañosos de coníferas
+9250 Robledales de Quercus trojana.
 
-42.14 / *Abetales apeninos de Abies alba y de Picea excelsa.
+9260 Bosques de Castanea sativa.
 
-42.19 / *Abetales de Abies pinsapo.
+9270 Hayedos helénicos con Abies borisii-regis.
 
-42.61 a 42.66 / *Pinares mediterráneos de pinos negros endémicos.
+9280 Bosques de Quercus frainetto.
 
-42.8 / *Pinares mediterráneos de pinos mesogeanos endémicos, incluidos los de Pinus mugo y Pinus leucodermis.
+9290 Bosques de Cupressus (Acero-Cupression).
 
-42.9 / *Pinares macaronesianos (endémicos).
+92A0 Bosques galería de Salix alba y Populus alba.
 
-42.A2 a 42.A5 y 42.A8 / *Bosques mediterráneos endémicos de Juniperus spp.
+92B0 Bosques galería de ríos de caudal intermitente mediterráneos con Rhododendron ponticum, Salix y otras.
 
-42.A6 / *Bosques de Tetraclinis articulata (Andalucía y Murcia).
+92C0 Bosques de Platanus orientalis y Liquidambar orientalis (Platanion orientalis).
 
-42.A71 a 42.A73 / *Bosques de Taxus baccata.
+92D0 Galerías y matorrales ribereños termomediterráneos (Nerio-Tamaricetea y Securinegion tinctoriae).
+
+## 93. Bosques esclerófilos mediterráneos
+
+9310 Robledales del Egeo de Quercus brachyphylla.
+
+9320 Bosques de Olea y Ceratonia.
+
+9330 Alcornocales de Quercus suber.
+
+9340 Encinares de Quercus ilex y Quercus rotundifolia.
+
+9350 Bosques de Quercus macrolepis.
+
+9360 * Laurisilvas macaronésicas (Laurus, Ocotea).
+
+9370 * Palmerales de Phoenix.
+
+9380 Bosques de Ilex aquifolium.
+
+## 94. Bosques de coníferas de montañas templadas
+
+9410 Bosques acidófilos de Picea de los pisos montano a alpino (Vaccinio-Piceetea).
+
+9420 Bosques alpinos de Larix decidua y/o Pinus cembra.
+
+9430 Bosques montanos y subalpinos de Pinus uncinata (* en sustratos yesoso o calcáreo).
+
+## 95. Bosques de coníferas de montañas mediterráneas y macaronésicas
+
+9510 * Abetales sudapeninos de Abies alba.
+
+9520 Abetales de Abies pinsapo.
+
+9530 * Pinares (sud-)mediterráneos de pinos negros endémicos.
+
+9540 Pinares mediterráneos de pinos mesogeanos endémicos.
+
+9550 Pinares endémicos canarios.
+
+9560 * Bosques endémicos de Juniperus spp.
+
+9570 * Bosques de Tetraclinis articulata.
+
+9580 * Bosques mediterráneos de Taxus baccata.
+
+> Se modifica por el art. único. 2 del Real Decreto 1193/1998, de 12 de junio. Ref. BOE-A-1998-15063

@@ -1,500 +1,548 @@
 ## ANEXO II
 
-## ESPECIES ANIMALES Y VEGETALES DE INTERES COMUNITARIO PARA CUYA CONSERVACION ES NECESARIO DESIGNAR ZONAS ESPECIALES DE CONSERVACION
+## Especies animales y vegetales de interés comunitario para cuya conservación es necesario designar zonas especiales de conservación
 
 ## Interpretación
 
 a) El anexo II es complementario del anexo I en cuanto a la realización de una red coherente de zonas especiales de conservación.
 
-b) Las especies que figuran en el presente anexo están indicadas:
-
-1.º Por el nombre de la especie o subespecie, o
-
-2.º Por el conjunto de las especies pertenecientes a un taxón superior o a una parte designada de dicho taxón.
+b) Las especies que figuran en el presente anexo están indicadas por el nombre de la especie o subespecie, o por el conjunto de las especies pertenecientes a un taxón superior o a una parte designada de dicho taxón.
 
 La abreviatura «spp.» a continuación del nombre de una familia o de un género sirve para designar todas las especies pertenecientes a dicha familia o género.
 
-c) Símbolos:
+c) Símbolos: se antepone un asterisco (*) al nombre de una especie para indicar que dicha especie es prioritaria.
 
-Se antepone un asterisco (*) al nombre de una especie para indicar que dicha especie es prioritaria.
+La mayoría de las especies que figuran en el presente anexo se hallan incluidas en el anexo IV. Con el símbolo (o), colocado detrás del nombre, se indican aquellas especies que figuran en el presente anexo y no se hallan incluidas en el anexo IV ni en el anexo V; con el símbolo (V), colocado detrás del nombre, se indican aquellas especies que, figurando en el presente anexo, están también incluidas en el anexo V, pero no en el anexo IV.
 
-La mayoría de las especies que figuran en el presente anexo se hallan incluidas en el anexo IV. Con el símbolo (o), colocado detrás del nombre, se indican aquellas especies que figuran en el presente anexo y no se hallan incluidas en el anexo IV ni en el anexo V; con el símbolo (V), colocado detrás del nombre, se indican aquellas especies que figurando en el presente anexo, están también incluidas en el anexo V, pero no en el anexo IV.
+## a) Animales
 
-## a) ANIMALES
+## Vertebrados
 
-VERTEBRADOS
+Mamíferos
 
-## MAMÍFEROS
-
-INSECTIVORA
+Insectivora.
 
 Talpidae.
 
-Galemys pyrenaicus. / Desmán
+Galemys pyrenaicus.
 
-CHIROPTERA
+Chiroptera.
 
 Rhinolophidae.
 
 Rhinolophus blasii.
 
-Rhinolophus euryale. / Murciélago mediterráneo de herradura.
+Rhinolophus euryale.
 
-Rhinolophus ferrumequinum. / Murciélago grande de herradura.
+Rhinolophus ferrumequinum.
 
-Rhinolophus hipposideros. / Murciélago pequeño de herradura.
+Rhinolophus hipposideros.
 
-Rhinolophus mehelyi. / Murciélago mediano de herradura.
+Rhinolophus mehelyi.
 
-Vespertilionidae
+Vespertilionidae.
 
-Barbastella barbastellus. / Murciélago de bosque.
+Barbastella barbastellus.
 
-Miniopterus schreibersi. / Murciélago de cueva.
+Miniopterus schreibersi.
 
-Myotis bechsteini. / Murciélago de Bechtein.
+Myotis bechsteini.
 
-Myotis blythi. / Murciélago ratonero mediano.
+Myotis blythii.
 
-Myotis capaccinii. / Murciélago patudo.
+Myotis capaccinii.
 
 Myotis dasycneme.
 
-Myotis emarginatus. / Murciélago de Geoffroy.
+Myotis emarginatus.
 
-Myotis myotis. / Murciélago ratonero grande.
+Myotis myotis.
 
-RODENTIA
+Rodentia.
 
-Sciuridae
+Sciuridae.
 
-Spermophilus citellus.
+* Pteromys volans (Sciuropterus russicus).
 
-Castoridae
+Spermophilus citellus (Citellus citellus).
 
-Castor fiber. / Castor.
+Castoridae.
 
-Microtidae
+Castor fiber (excepto las poblaciones finlandesas y suecas).
 
-*Microtus cabrerae. / Topillo de Cabrera.
+Microtidae.
 
-*Microtus oeconomus arenicola.
+Microtus cabrerae.
 
-CARNIVORA
+* Microtus oeconomus arenicola.
+
+Carnivora.
 
 Canidae.
 
-*Canis lupus. / Lobo.
+* Alopex lagopus.
 
-(respecto a las poblaciones españolas, solamente las del sur del Duero; respecto a las poblaciones griegas solamente las del sur del paralelo 39)
+* Canis lupus (respecto a las poblaciones españolas, solamente las del sur del Duero; respecto a las poblaciones griegas, solamente las del sur del paralelo 39; excepto las poblaciones finlandesas).
 
-Ursidae
+Ursidae.
 
-*Ursus arctos. / Oso pardo.
+* Ursus arctos (excepto las poblaciones finlandesas y suecas).
 
-Mustelidae
+Mustelidae.
 
-Lutra lutra. / Nutria.
+* Gulo gulo.
 
-Mustela lutreola. / Visón europeo.
+Lutra lutra.
 
-Felidae
+Mustela lutreola.
 
-*Lynx lynx. / Lince boreal.
+Felidae.
 
-*Lynx pardina. / Lince ibérico.
+Lynx lynx (excepto las poblaciones finlandesas).
 
-Phocidae
+* Lynx pardinus.
 
-*Halichoerus grypus (V). / Foca gris.
+Phocidae.
 
-*Monachus monachus. / Foca monje.
+Halichoerus grypus (V).
 
-*Phoca vitulina (V).
+* Monachus monachus.
 
-ARTIODACTYLA
+Phoca hispida bottnica (o).
 
-Cervidae
+* Phoca hispida saimensis.
 
-*Cervus elaphus corsicanus.
+Phoca vitulina (V).
 
-Bovidae
+Artiodactyla.
 
-*Capra aegagrus (poblaciones naturales).
+Cervidae.
 
-*Capra pyrenaica pyrenaica. / Bucardo.
+* Cervus elaphus corsicanus.
 
-*Ovis ammon musimon. / Muflón.
+Rangifer tarandus fennicus (o).
 
-(Poblaciones naturales - Córcega y Cerdeña).
+Bovidae.
 
-*Rupicapra rupicapra balcanica.
+Capra aegagrus (Poblaciones naturales).
 
-*Rupicapra ornata.
+* Capra pyrenaica pyrenaica.
 
-CETACEA
+Ovis gmelini musimon (Ovis ammon musimon) (Poblaciones naturales).
 
-Tursiops truncatus. / Delfín mular.
+Córcega y Cerdeña.
 
-Phocoena phocoena. / Marsopa común.
+* Rupicapra pyrenaica ornata (Rupicapra rupicapra ornata).
 
-## REPTILES
+Rupicapra rupicapra balcanica.
 
-TESTUDINATA
+Cetacea.
 
-Testudinidae
+Phocoena phocoena.
 
-Testudo hermanni. / Tortuga mediterránea.
+Tursiops truncatus.
 
-Testudo graeca. / Tortuga mora.
+Reptiles
+
+Chelonia (Testudines).
+
+Testudinidae.
+
+Testudo graeca.
+
+Testudo hermanni.
 
 Testudo marginata.
 
-Cheloniidae
+Cheloniidae.
 
-*Caretta caretta. / Tortuga boba.
+* Caretta caretta.
 
-Emydidae
+Emydidae.
 
-Emys orbicularis. / Galápago europeo.
+Emys orbicularis.
 
 Mauremys caspica.
 
-Mauremys leprosa. / Galápago leproso.
+Mauremys leprosa.
 
-SAURIA
+Sauria.
 
-Lacertidae
+Lacertidae.
 
-*Lacerta monticola. / Lagartija serrana.
+Gallotia galloti insulanagae.
 
-*Lacerta Schreibiri. / Lagarto verdinegro.
+* Gallotia simonyi.
 
-*Gallotia galloti insulanagae. / Lagarto tizón del Roque de Fuera de Anaga.
+Lacerta bonnali (Lacerta monticola).
 
-*Gallotia simonyi. / Lagarto gigante del Hierro.
+Lacerta monticola.
 
-*Podarcis lilfordi. / Lagartija balear.
+Lacerta schreiberi.
 
-*Podarcis pityusensis. / Lagartija de las Pitiusas.
+Podarcis lilfordi.
 
-Scincidae
+Podarcis pityusensis.
 
-Chalcides occidentalis. / Lisneja.
+Scincidae.
 
-Gekkonidae
+Chalcides somonyi (Chalcides occidentalis).
+
+Gekkonidae.
 
 Phyllodactylus europaeus.
 
-OPHIDIA
+Ophidia (Serpentes).
 
-Colubridae
+Colubridae.
 
 Elaphe quatuorlineata.
 
 Elaphe situla.
 
-Viperidae
+Viperidae.
 
-*Vipera schweizeri.
+* Macrovipera schweizeri (Vipera lebetina schweizeri).
 
-*Vipera ursinii.
+Vipera ursinii.
 
-## ANFIBIOS
+Anfibios
 
-CAUDATA
+Caudata.
 
-Salamandridae
+Salamandridae.
 
-*Chioglossa lusitanica. / Salamandra rabilarga.
+Chioglossa lusitanica.
 
-*Mertensiella luschani.
+Mertensiella luschani (Salamandra luschani).
 
-*Salamandra salamandra aurorae.
+* Salamandra atra aurorae.
 
-*Salamandrina terdigitata.
+Salamandrina terdigitata.
 
-*Triturus cristatus.
+Triturus carnifex (Triturus cristatus carnifex).
 
-Proteidae
+Triturus cristatus (Triturus cristatus cristatus).
+
+Triturus dobrogicus (Triturus cristatus dobrogicus).
+
+Triturus karelinii (Triturus cristatus karelinii).
+
+Proteidae.
 
 Proteus anguinus.
 
-Plethodontidae
+Plethodontidae.
 
-Speleomantes ambrosii.
+Hydromantes (Speleomantes) ambrosii.
 
-Speleomantes flavus.
+Hydromantes (Speleomantes) flavus.
 
-Speleomantes genei.
+Hydromantes (Speleomantes) genei.
 
-Speleomantes imperialis.
+Hydromantes (Speleomantes) imperialis.
 
-Speleomantes supramontes.
+Hydromantes (Speleomantes) strinatii.
 
-ANURA
+Hydromantes (Speleomantes) supramontes.
 
-Discogossidae
+Anura.
 
-*Bombina bombina.
+Discoglossidae.
 
-*Bombina variegata.
+* Alytes muletensis.
 
-*Discoglossus jeanneae. / Sapillo meridional.
+Bombina bombina.
 
-*Discoglossus montalentii.
+Bombina variegata.
 
-*Discoglossus sardus.
+Discoglossus galganoi (incluido Discoglossus «jeanneae»).
 
-*Alytes muletensis. / Sapillo balear.
+Discoglossus montalentii.
 
-Ranidae
+Discoglossus sardus.
+
+Ranidae.
 
 Rana latastei.
 
-Pelobatidae
+Pelobatidae.
 
-*Pelobates fuscus insubricus.
+* Pelobates fuscus insubricus.
 
-## PECES
+Peces
 
-PETROMYZONIFORMES
+Petromyzoniformes.
 
-Petromyzonidae
+Petromyzonidae.
 
 Eudontomyzon spp. (o).
 
-Lampetra fluviatilis (V). / Lamprea de río.
+Lampetra fluviatilis (V) (excepto las poblaciones finlandesas y suecas).
 
-Lampetra planeri (o). / Lamprea de arroyo.
+Lampetra planeri (o) (excepto las poblaciones finlandesas y suecas).
 
-Lethenteron zanandrai (V).
+Lethenteron zanandreai (V).
 
-Petromyzon marinus (o). / Lamprea marina.
+Petromyzon marinus (o) (excepto las poblaciones suecas).
 
-ACIPENSERIFORMES
+Acipensiriformes.
 
-Acipenseridae
+Acipenseridae.
 
-*Acipenser naccarii.
+* Acipenser naccarii.
 
-*Acipenser sturio. / Esturión.
+* Acipenser sturio.
 
-ATHERINIFORMES
+Clupeiformes.
 
-Cyprinodontidae
+Clupeidae.
 
-*Aphanius iberus (o). / Fartet.
+Alosa spp. (V).
 
-*Aphanius fasciatus (o).
-
-*Valencia hispánica. / Samaruc.
-
-SALMONIFORMES
+Salmoniformes.
 
 Salmonidae.
 
-Hucho hucho (poblaciones naturales) (V). / Huchón.
-
-Salmo salar (excepto en aguas marinas (V). / Salmón.
-
-Salmo marmoradus (o).
+Hucho hucho (Poblaciones naturales) (V).
 
 Salmo macrostigma (o).
 
-Coregonidae
+Salmo marmoratus (o).
 
-*Coregonus oxyrhynchus (poblaciones anádromas en ciertos sectores del Mar del Norte)
+Salmo salar (solo en agua dulce) (V) (excepto las poblaciones finlandesas).
 
-CYPRINIFORMES
+Coregonidae.
 
-Cyprinidae
+* Coregonus oxyrhynchus (poblaciones anadromas en algunos sectores del Mar del Norte).
 
-*Alburnus vulturius (o).
+Cypriniformes.
 
-*Alburnus albidus (o).
+Cyprinidae.
 
-*Anaecypris hispanica. / Jarabugo.
+Alburnus albidus (o) (Alburnus vulturius).
 
-*Aspius aspius (o).
+Anaecypris hispanica.
 
-*Barbus plebejus (V).
+Aspius aspius (o) (excepto las poblaciones finlandesas).
 
-*Barbus meridionalis (V). / Barbo de montaña.
+Barbus comiza (V).
 
-*Barbus capito (V).
+Barbus meridionalis (V).
 
-*Barbus comiza (V). / Barbo comiza.
+Barbus plebejus (V).
 
-*Chalcalburnus chalcoides (o).
+Chondrostoma genei (o).
 
-*Chondrostoma soetta (o).
+Chondrostoma lusitanicum (o).
 
-*Chondrostoma polylepis (o). / Boga de río.
+Chondrostoma polylepis (o) (incluido C. willkommi).
 
-*Chondrostoma genei (o).
+Chalcalburnus chalcoides (o).
 
-*Chondrostoma lusitanicum (o).
+Chondrostoma soetta (o).
 
-*Chondrostoma toxostoma (o). / Madrilla.
+Chondrostoma toxostoma (o).
 
-*Gobio albipinnatus (o).
+Gobio albipinnatus (o).
 
-*Gobio uranoscopus (o).
+Gobio uranoscopus (o).
 
-*Iberocypris palaciosi (o). / Bogardilla.
+Iberocypris palaciosi (o).
 
-*Ladigesocypris ghigii (o).
+* Ladigesocypris ghigii (o).
 
-*Leuciscus lucomonis (o).
+Leuciscus lucumonis (o).
 
-*Leuciscus souffia (o).
+Leuciscus souffia (o).
 
-*Phoxinellus spp. (o).
+Phoxinellus spp. (o).
 
-*Rutilus pigus (o).
+Rhodeus sericeus amarus (o).
 
-*Rutilus rubilio (o).
+Rutilus alburnoides (o).
 
-*Rutilus arcasii (o). / Bermejuela.
+Rutilus arcasii (o).
 
-*Rutilus macrolepidotus (o).
+Rutilus frisii meidingeri (o).
 
-*Rutilus lemmingii (o). / Pardilla.
+Rutilus lemmingii (o).
 
-*Rutilus friesii meidingeri (o).
+Rutilus macrolepidotus (o).
 
-*Rutilus alburnoides (o).
+Rutilus pigus (o).
 
-*Rhodeus sericeus amarus (o).
+Rutilus rubilio (o).
 
-*Scardinius graecus (o).
+Scardinius graecus (o).
 
-Cobitidae
+Cobitidae.
 
-Cobitis conspersa (o).
-
-Cobitis larvata (o).
+Cobitis taenia (o) (excepto las poblaciones finlandesas).
 
 Cobitis trichonica (o).
 
-Cobitis taenia (o).
-
-Misgurnis fossilis (o).
+Misgurnus fossilis (o).
 
 Sabanejewia aurata (o).
 
-PERCIFORMES
+Sabanejewia larvata (o) (Cobitis larvata y Cobitis conspersa).
 
-Percidae
+Siluriformes.
 
-Gymnocephalus schraetzer (V).
-
-Zingel spp. ((o) escepto Zingelasper y Zingel zingel (V)).
-
-Cobiidae
-
-Pomatoschistus canestrini (o).
-
-Padogobius panizzai (o).
-
-Padogobius nigricans (o).
-
-CLUPEIFORMES
-
-Clupeidae
-
-Alosa spp. (V). / Sábalo.
-
-SCORPAENIFORMES
-
-Cottidae
-
-Cottus ferruginosus (o).
-
-Cottus petiti (o).
-
-Cottus gobio (o). / Cavilat.
-
-SILURIFORMES
-
-Siluridae
+Siluridae.
 
 Silurus aristotelis (V).
 
-INVERTEBRADOS
+Atheriniformes.
 
-## ARTRÓPODOS
+Cyprinodontidae.
 
-CRUSTACEA
+Aphanius iberus (o).
 
-Decápoda
+Aphanius fasciatus (o).
 
-Austropotambius pallipes (V). / Cangrejo de río.
+* Valencia hispanica.
 
-INSECTA
+Valencia letourneuxi (Valencia hispanica).
 
-Coleóptera
+Perciformes.
 
-*Buprestis splendens.
+Percidae.
 
-*Carabus olympiae.
+Gymnocephalus schraetzer (V).
 
-*Cerambyx cerdo.
+Zingel spp. [(o) excepto Zingel asper y Zingel zingel (V)].
 
-*Cucujus cinnaberinus.
+Gobiidae.
 
-*Dytiscus latissimus.
+Knipowitschia (Padogobius) panizzae (o).
 
-*Graphoderus bilineatus.
+Padogobius nigricans (o).
 
-*Limoniscus violaceus (o).
+Pomatoschistus canestrini (o).
 
-*Lucanus cervus (o). / Ciervo volante.
+Scorpaeniformes.
 
-*Morimus funereus (o).
+Cottidae.
 
-*Osmoderma eremita.
+Cottus gobio (o) (excepto las poblaciones finlandesas).
 
-*Rosalia alpina. / Rosalia.
+Cottus petiti (o).
 
-Lepidóptera
+## Invertebrados
 
-*Callimorpha quadripunctata (o).
+Artrópodos
 
-*Coenonympha oedippus.
+Crustacea.
 
-*Erebia calcaria.
+Decapoda.
 
-*Erebia christi.
+Austropotamobius pallipes (V).
 
-*Eriogaster catax.
+Insecta.
 
-*Euphydryas aurinia (o).
+Coleoptera.
 
-*Graellsia isabellae (V). / Mariposa isabelina.
+Agathidium pulchellum (o).
 
-*Hypodryas maturna.
+Boros schneideri (o).
 
-*Lycaena dispar.
+Buprestis splendens.
 
-*Maculinea nausithous. / Hormiguera oscura.
+* Carabus menetriesi pacholei.
 
-*Maculinea teleius.
+* Carabus olympiae.
 
-*Melanagria arge.
+Cerambyx cerdo.
 
-*Papilio hospiton.
+Corticaria planula (o).
 
-*Plebicula golgus.
+Cucujus cinnaberinus.
 
-Mantodea
+Dytiscus latissimus.
+
+Graphoderus bilineatus.
+
+Limoniscus violaceus (o).
+
+Lucanus cervus (o).
+
+Macroplea pubipennis (o).
+
+Mesosa myops (o).
+
+Morimus funereus (o).
+
+* Osmoderma eremita.
+
+Oxyporus mannerheimii (o).
+
+Pytho kolwensis (o).
+
+* Rosalia alpina.
+
+Stephanopachys linearis (o).
+
+Stephanopachys substriatus (o).
+
+Xyletinus tremulicola (o).
+
+Hemiptera.
+
+Aradus angularis (o).
+
+Lepidoptera.
+
+Agriades glandon aquilo (o).
+
+* Callimorpha (Euplagia, Panaxia) quadripuncta ria (o).
+
+Clossiana improba (o).
+
+Coenonympha oedippus.
+
+Erebia calcaria.
+
+Erebia christi.
+
+Erebia medusa polaris (o).
+
+Eriogaster catax.
+
+Euphydryas (Eurodryas, Hypodryas) aurinia (o).
+
+Graellsia isabellae (V).
+
+Hesperia comma catena (o).
+
+Hypodryas maturna.
+
+Lycaena dispar.
+
+Maculinea nausithous.
+
+Maculinea teleius.
+
+Melanargia arge.
+
+Papilio hospiton.
+
+Plebicula golgus.
+
+Xestia borealis (o).
+
+Xestia brunneopicta (o).
+
+Mantodea.
 
 Apteromantis aptera.
 
-Odonata
+Odonata.
 
-Coenagrion hylas (o). Coenagrion mercuriale (o). / Caballito del diablo.
+Coenagrion hylas (o).
+
+Coenagrion mercuriale (o).
 
 Cordulegaster trinacriae.
 
@@ -510,35 +558,41 @@ Ophiogomphus cecilia.
 
 Oxygastra curtisii.
 
-Orthoptera
+Orthoptera.
 
 Baetica ustulata.
 
-## MOLUSCOS
+Arachnida.
 
-GASTROPODA
+Pseudoscorpiones.
 
-Gaseolus calculus.
+Anthrenochernes stellae (o).
 
-Gaseolus commixta.
+Molusco
 
-Gaseolus sphaerula.
+Gastropoda.
+
+Caseolus calculus.
+
+Caseolus commixta.
+
+Caseolus sphaerula.
 
 Discula leacockiana.
 
 Discula tabellata.
 
-Discus defloratus.
-
 Discus guerinianus.
 
-Elona quimperiana. / Caracol de Quimper.
+Elona quimperiana.
 
 Geomalacus maculosus.
 
 Geomitra moniziana.
 
-Helix subplicata.
+* Helicopsis striata austriaca (o).
+
+Idiomela (Helix) subplicata.
 
 Leiostyla abbreviata.
 
@@ -556,47 +610,53 @@ Vertigo genesii (o).
 
 Vertigo geyeri (o).
 
-Vertigo Moulinsiana (o).
+Vertigo moulinsiana (o).
 
-BIVALVIA
+Bivalvia.
 
-Unionoida
+Unionoida.
 
-Margaritifera margaritifera (V). / Perla de río.
+Margaritifera durrovensis (Margaritifera margaritifera) (V).
+
+Margaritifera margaritifera (V).
 
 Unio crassus.
 
-## b) PLANTAS
+## b) Plantas
 
-## PTERIDOPHYTA
+Pteridophyta
 
-ASPLENIACEAE
+Aspleniaceae.
 
-Aspleniun jahandiezii (Litard.) Rouy.
+Asplenium jahandiezii (Litard.) Rouy.
 
-BLECHNACEAE
+Blechnaceae.
 
 Woodwardia radicans (L.) Sm.
 
-DICKSONIACEAE
+Dicksoniaceae.
 
 Culcita macrocarpa C. Presl.
 
-DRYOPTERIDACEAE
+Dryopteridaceae.
 
-*Ddryopteris corleyi Fraser-Jenk.
+Diplazium sibiricum (Turcz. ex Kunze) Kurata.
 
-HYMENOPHYLLACEAE
+* Dryopteris corleyi Fraser-Jenk.
+
+Dryopteris fragans (L.) Schott.
+
+Hymenophyllaceae.
 
 Trichomanes speciosum Willd.
 
-ISOETACEAE
+Isoetaceae.
 
 Isoetes boryana Durieu.
 
 Isoetes malinverniana Ces. & De Not.
 
-MARSILEACEAE
+Marsileaceae.
 
 Marsilea batardae Launert.
 
@@ -604,875 +664,941 @@ Marsilea quadrifolia L.
 
 Marsilea strigosa Willd.
 
-OPHIOGLOSSACEAE
+Ophioglossaceae.
 
 Botrychium simplex Hitchc.
 
 Ophioglossum polyphyllum A. Braun.
 
-## GYMNOSPERMAE
+Gymnospermae
 
-PINACEAE
+Pinaceae.
 
-*Abies nebrodensis (Lojac.) Mattei.
+* Abies nebrodensis (Lojac.) Mattei.
 
-## ANGIOSPERMAE
+Angioespermae
 
-ALISMATACEAE
+Alismataceae.
+
+* Alisma wahlenbergii (Holmberg) Juz.
 
 Caldesia parnassifolia (L.) Parl.
 
 Luronium natans (L.) Raf.
 
-AMARYLLIDACEAE
+Amaryllidaceae.
 
-*Leucojum nicaeese Ard.
+Leucojum nicaeense Ard.
 
-*Narcissus asturiensis (Jordan) Pugsley.
+Narcissus asturiensis (Jordan) Pugsley.
 
-*Narcissus calcicola Mendonça.
+Narcissus calcicola Mendonça.
 
-*Narcissus cyclamineus DC.
+Narcissus cyclamineus DC.
 
-*Narcissus fernandesii G. Pedro.
+Narcissus fernandesii G. Pedro.
 
-*Narcissus humilis (Cav.) Traub.
+Narcissus humilis (Cav.) Traub.
 
-*Narcissus nevadensis Pugsley.
+* Narcissus nevadensis Pugsley.
 
-*Narcissus pseudonarcissus L.
+Narcissus pseudonarcissus L. subsp. nobilis (Haw.) A. Fernandes.
 
-subsp. nobilis (Haw.) A. Fernandes.
+Narcissus scaberulus Henriq.
 
-*Narcissus scaberulus Henriq.
+Narcissus triandrus L. subsp. capax (Salisb.) D. A. Webb.
 
-*Narcissus triandrus (Salisb.) D.A. Webb.
+Narcissus viridiflorus Schousboe.
 
-subsp. capax (Salisb.) D.A. Webb.
+Boraginaceae.
 
-*Narcissus viridiflorus Schousboe.
+* Anchusa crispa Viv.
 
-BORAGINACEAE
+* Lithodora nitida (H. Ern) R. Fernandes.
 
-*Anchusa crispa Viv.
+Myosotis lusitanica Schuster.
 
-*Lithodora nitida (H. Enr) R. Fernandes.
+Myosotis rehsteineri Wartm.
 
-*Myosotis Lusitanica Schuster.
+Myosotis retusifolia R. Afonso.
 
-*Myosotis rehsteirini Wartm.
+Omphalodes kuzinskyanae Willk.
 
-*Myosotis retusifolia R. Afonso.
+* Omphalodes littoralis Lehm.
 
-*Omphalodes kuzinskyana Willk.
+Solenanthus albanicus (Degen & al.) Degen & Baldacci.
 
-*Ophalodes littoralis Lehm.
+* Symphytum cycladense Pawl.
 
-*Solenanthus albanicus (Degen&al.) Degen& Baldacci.
+Campanulaceae.
 
-*Symphytum cycladense Pawl.
+Asyneuma giganteum (Boiss.) Bornm.
 
-CAMPANULACEAE
+* Campanula sabatia De Not.
 
-*Asyneuma giganteum (Boiss.) Bornm.
+Jasione crispa (Pourret) Samp. subsp. serpentinica Pinto da Silva.
 
-*Campanula sabatia De Not.
+Jasione lusitanica A. DC.
 
-*Jasione crispa (Pourret) Samp.
+Caryophyllaceae.
 
-subsp. serpentinica Pinto da Silva.
+Arenaria ciliata L. ssp. pseudofrigida Ostenf. & O.C. Dahl.
 
-*Jasione lusitanica A. DC.
+Arenaria humifusa Wahlenberg.
 
-CARYOPHYLLACEAE
+* Arenaria nevadensis Boiss. & Reuter.
 
-*Arenaria nevadensis Boiss & Reuter.
+Arenaria provincialis Chater & Halliday.
 
-*Arenaria provincialis Chater & Halliday.
+Dianthus arenarius L. subsp. arenarius.
 
-*Dianthus cintranus Boiss & Reuter.
+Dianthus cintranus Boiss. & Reuter subsp. cintranus Boiss. & Reuter.
 
-subsp. cintranus Boiss. & Reuter.
+Dianthus marizii (Samp.) Samp.
 
-*Dianthus marizii (Samp.) Samp.
+Dianthus rupicola Biv.
 
-*Dianthus rupicola Biv.
+* Gypsophila papillosa P. Porta.
 
-*Gypsophila papillosa P. Porta
+Herniaria algarvica Chaudhri.
 
-*Herniaria algarvica Chaudri.
+* Herniaria latifolia Lapeyr. subsp. litardierei Gamis.
 
-*Herniaria berlengiana (Chaudhri) Franco.
+Herniaria lusitanica (Chaudhri) subsp. berlengiana Chaudhri.
 
-*Herniaria latifolia Lapeyr.
+Herniaria maritima Link.
 
-subsp. litardierei gamis.
+Moehringia lateriflora (L.) Fenzl.
 
-*Herniaria maritima Link.
+Moehringia tommasinii Marches.
 
-*Moehringia tommansinii Marches.
+Petrocoptis grandiflora Rothm.
 
-*Petrocoptis grandiflora Rothm.
+Petrocoptis montsicciana O. Bolos & Rivas Mart.
 
-*Petrocoptis montsicciana O. Bolos & Rivas Mart.
+Petrocoptis pseudoviscosa Fernandez Casas.
 
-*Petrocoptis pseudoviscosa Fernández Casas.
+Silene furcata Rafin. ssp. angustiflora (Rupr.) Walters.
 
-*Silene cintrana Rothm.
+* Silene hicesiae Brullo & Signorello.
 
-*Silene hicesiae Brullo & Signorello.
+Silene hifacensis Rouy ex Willk.
 
-*Silene hifacensis Rouy ex Willk.
+* Silene holzmanii Heldr. ex Boiss.
 
-*Silene holzmanii Heldr. ex Boiss.
+Silene longicilia (Brot.) Otth.
 
-*Silene longicilia (Brot.) Otth.
+Silene mariana Pau.
 
-*Silene mariana Pau.
+* Silene orphanidis Boiss.
 
-*Silene orphanidis Boiss.
+* Silene rothmaleri Pinto da Silva.
 
-*Silene rothmaleri Pinto da Silva
+* Silene velutina Pourret ex Loisel.
 
-*Silene velutina Pourret ex Loisel.
+Chenopodiaceae.
 
-CHENOPODIACEAE
+* Bassia (Kochia) saxicola (Guss.) A. J. Scott.
 
-*Bassia saxicola (Guss.) A. J. Scott.
+* Salicornia veneta Pignatti & Lausi.
 
-*Kochia saxicola Guss.
+Cistaceae.
 
-*Salicornia veneta Pignatti & Lausi.
+Cistus palhinhae Ingram.
 
-CISTACEA
+Halimium verticillatum (Brot.) Sennen.
 
-*Cistus palhinhae Ingram.
+Helianthemum alypoides Losa & Rivas Goday.
 
-*Halimium verticillatum (Brot.) Sennen.
+Helianthemum caput-felis Boiss.
 
-*Helianthemum alypoides Losa & Rivas Goday.
+* Tuberaria major (Willk.) Pinto da Silva & Rozeira.
 
-*Helianthemum caput-felis Boiss.
+Compositae.
 
-*Tuberaria major (Willk.) Pinto da Silva & Roseira.
+* Anthemis glaberrima (Rech. f.) Greuter.
 
-COMPOSITAE
+Artemisia campestris L. subsp. bottnica A.N. Lundström ex Kindb.
 
-*Anthemis glaberrima (Rech. f.) Greuter.
+* Artemisia granatensis Boiss. * Artemisia laciniata Willd.
 
-*Artemisia granatensis Boiss.
+Artemisia oelandica (Besser) Komaror.
 
-*Aster pyrenaeus Desf. ex DC.
+* Artemisia pancicii (Janka) Ronn.
 
-*Aster sorrentinii (Tod) Lojac.
+* Aster pyrenaeus Desf. ex DC.
 
-*Carduus myriacanthus Salzm. ex DC.
+* Aster sorrentinii (Tod) Lojac.
 
-*Centaurea alba L.
+* Carduus myriacanthus Salzm. ex DC.
 
-subsp. heldreichii (Halacsy) Dosta.
+* Centaurea alba L. subsp. heldreichii (Halacsy) Dostal.
 
-*Centaurea alba L.
+* Centaurea alba L. subsp. princeps (Boiss. & Heldr.) Gugler.
 
-subsp. princeps (Boiss. & Heldr.) Gugler.
+* Centaurea attica Nyman subsp. megarensis (Halacsy & Hayek) Dostal.
 
-*Centaurea attica Nyman.
+* Centaurea balearica J. D. Rodriguez.
 
-subsp. megarensis (Halacsy & Hayek) Dostal.
+* Centaurea borjae Valdes-Berm. & Rivas Goday.
 
-*Centaurea balearica J. D. Rodríguez.
+* Centaurea citricolor Font Quer.
 
-*Centaurea borjae Valdes-Berm. & Rivas Goday.
+Centaurea corymbosa Pourret.
 
-*Centaurea citricolor Font Quer.
+Centaurea gadorensis G. Blanca.
 
-*Centaurea corymbosa Pourret.
+* Centaurea horrida Badaro.
 
-*Centaurea gadorensis G. Bianca.
-
-*Centaurea horrida Badaro.
-
-*Centaurea kalambakensis Freyn & Sint.
+* Centaurea kalambakensis Freyn & Sint.
 
 Centaurea kartschiana Scop.
 
-*Centaurea lactiflora Halacsy.
+* Centaurea lactiflora Halacsy.
 
-*Centaurea micrantha Hoffmanns. & Link.
+Centaurea micrantha Hoffmanns. & Link subsp. herminii (Rouy) Dostál.
 
-subsp. herminii (Rouy) Dostál.
+* Centaurea niederi Heldr.
 
-*Centaurea niederi Heldr.
+* Centaurea peucedanifolia Boiss. & Orph.
 
-*Centaurea peucedanifolia Boiss. & Orph.
+* Centaurea pinnata Pau.
 
-*Centaurea pinnata Pau.
+Centaurea pulvinata (G. Blanca) G. Blanca.
 
-*Centaurea pulvinata (G. Bianca) G. Bianca.
+Centaurea rothmalerana (Arnes) Dostál.
 
-*Centaurea rothmalerana (Arnes) Dostál.
+Centaurea vicentina Mariz.
 
-*Centaurea vicentina Mariz.
+* Crepis crocifolia Boiss. & Heldr.
 
-*Crepis crocifolia Boiss. & Heldr.
+Crepis granatensis (Willk.) B. Blanca & M. Cueto.
 
-*Crepis granatensis (Willk.) B. Bianca & M. Cueto.
+Crepis tectorum L. subsp. nigrescens.
 
-*Erigeron frigidus Boiss. ex DC.
+Erigeron frigidus Boiss. ex DC.
 
-*Hymenostemma pseudanthemis (Kunze) Willd.
+Hymenostemma pseudanthemis (Kunze) Willd.
 
-*Jurinea cyanoides (L.) Reichenb.
+* Jurinea cyanoides (L.) Reichenb.
 
-*Jurinea fontqueri Cuatrec.
+* Jurinea fontqueri Cuatrec.
 
-*Lamyropsis microcephala (Moris) Dittrich & Greuter.
+* Lamyropsis microcephala (Moris) Dittrich & Greuter.
 
-*Leontodon microcephalus (Boiss. ex DC.) Boiss.
+Leontodon microcephalus (Boiss. ex DC.) Boiss.
 
-*Leontodon boryi Boiss.
+Leontodon boryi Boiss.
 
-*Leontodon siculus (Guss.) Finch & Sell.
+* Leontodon siculus (Guss.) Finch & Sell.
 
-*Leuzea longifolia Hoffmanns. & Link.
+Leuzea longifolia Hoffmanns. & Link.
 
-*Ligularia sibirica (L.) Cass.
+Ligularia sibirica (L.) Cass.
 
-*Santolina impressa Hoffmanns. & Link.
+Santolina impressa Hoffmanns. & Link.
 
-*Santolina semidentata Hoffmanns. & Link.
+Santolina semidentata Hoffmanns. & Link.
 
-*Senecio elodes Boiss. ex DC.
+* Senecio elodes Boiss. ex DC.
 
-*Senecio nevadensis Boiss. & Reuter.
+Senecio jacobea L. subsp. gotlandicus (Neuman) Sterner.
 
-CONVOLVULACEAE
+Senecio nevadensis Boiss. & Reuter.
 
-*Convolvulus argyrothamnus Greuter.
+Convolvulaceae.
 
-*Convolvulus fernandesii Pinto da Silva & Teles.
+* Convolvulus argyrothamnus Greuter.
 
-CRUCIFERAE
+* Convolvulus fernandesii Pinto da Silva & Teles.
 
-*Alyssum pyrenaicum Lapeyr.
+Cruciferae.
 
-*Arabis sadina (Samp.) P. Cout.
+Alyssum pyrenaicum Lapeyr.
 
-*Biscutella neustriaca Bonnet.
+Arabis sadina (Samp.) P. Cout.
 
-*Biscutella vincentina (Samp.) Rothm.
+* Biscutella neustriaca Bonnet.
 
-*Boleum asperum (Pers.) Desvaux.
+Biscutella vincentina (Samp.) Rothm.
 
-*Brassica glabrescens Poldini.
+Boleum asperum (Pers.) Desvaux.
 
-*Brassica insularis Moris.
+Brassica glabrescens Poldini.
 
-*Brassica macrocarpa Guss.
+Brassica insularis Moris.
 
-*Coincya cintrana (P. Cout.) Pinto da Silva.
+* Brassica macrocarpa Guss.
 
-*Coincya rupestris Rouy.
+Braya linearis Rouy.
 
-*Coronopus navasii Pau.
+* Coincya rupestris Rouy.
 
-*Diplotaxis ibicensis (Pau) Gómez-Campo.
+* Coronopus navasii Pau.
 
-*Diplotaxis siettiana Maire.
+Diplotaxis ibicensis (Paul) Gomez-Campo.
 
-*Diplotaxis vicentina (P. Cout.) Rothm.
+* Diplotaxis siettiana Maire.
 
-*Erucastrum palustre (Pirona) Vis.
+Diplotaxis vicentina (P. Cout.) Rothm.
 
-*Iberis arbuscula Runemark.
+Draba cacuminum Elis Ekman.
 
-*Iberis procumbens Lange.
+Draba cinerea Adams.
 
-subsp. microcarpa Franco & Pinto da Silva.
+Erucastrum palustre (Pirona) Vis.
 
-*Ionopsidium acaule (Desf.) Reichenb.
+* Iberis arbuscula Runemark.
 
-*Ionopsidium savianum (Caruel) Ball ex Arcang.
+Iberis procumbens Lange subsp. microcarpa Franco & Pinto da Silva.
 
-*Sisymbrium cavanillesianum Valdes & Castroviejo.
+* Jonopsidium acaule (Desf.) Reichenb.
 
-*Sisymbrium supinum L.
+Jonopsidium savianum (Caruel) Ball ex Arcang.
 
-CYPERACEAE
+Rhynchosinapis erucastrum (L.) Dandy ex Clapham subsp. cintrana (Coutinho) Franco & P. Silva [Coincya cintrana (P. Cout.) Pinto da Silva].
 
-*Carex panormitana Guss.
+Sisymbrium cavanillesianum Valdes & Castroviejo.
 
-*Eleocharis carniolica Koch.
+Sisymbrium supinum L.
 
-DIOSCOREACEAE
+Cyperaceae.
 
-*Borderea chouardii (Gaussen) Heslot.
+Carex holostoma Drejer.
 
-DROSERACEAE
+* Carex panormitana Guss.
+
+Eleocharis carniolica Koch.
+
+Dioscoreaceae.
+
+* Borderea chouardii (Gaussen) Heslot.
+
+Droseraceae.
 
 Aldrovanda vesiculosa L.
 
-EUPHORBIACEAE
+Euphorbiaceae.
 
-*Euphorbia margalidiana Kuhbier & Lewejohann.
+* Euphorbia margalidiana Kuhbier & Lewejohann.
 
-*Euphorbia transtagana Boiss.
+Euphorbia transtagana Boiss.
 
-GENTIANACEAE
+Gentianaceae.
 
-*Centaurium rigualii Esteve Chueca.
+* Centaurium rigualii Esteve.
 
-*Centaurium somedanum Lainz.
+* Centaurium somedanum Lainz.
 
-*Gentiana ligustica R. de Vilm. & Chopinet.
+Gentiana ligustica R. de Vilm. & Chopinet.
 
-*Gentianella angelica (Pugsley) E.F. Warburg.
+Gentianella anglica (Pugsley) E. F. Warburg.
 
-GERANIACEAE
+Geraniaceae.
 
-*Erodium astragaloides Boiss. & Reuter.
+* Erodium astragaloides Boiss. & Reuter.
 
-*Erodium paularense Fernández-González & Izco.
+Erodium paularense Fernandez-Gonzalez & Izco.
 
-*Erodium rupicola Boiss.
+* Erodium rupicola Boiss.
 
-GRAMINEAE
+Globulariaceae.
 
-*Avenula hackelii (Henriq.) Holub.
+* Globularia stygia Orph. ex Boiss.
 
-*Bromus grossus Desf. ex DC.
+Gramineae.
 
-*Coleanthus subtilis (Tratt.) Seidl.
+Arctagrostis latifolia (R. Br.) Griseb.
 
-*Festuca brigantina (Markgr.-Dannenb.) Markgr.-Dannenb.
+Arctophila fulva (Trin.) N. J. Anderson.
 
-*Festuca duriotagana Franco & R. Afonso.
+Avenula hackelii (Henriq.) Holub.
 
-*Festuca elegans Boiss.
+Bromus grossus Desf. ex DC.
 
-*Festuca henriquesii Hack.
+Calamagrostis chalybaea (Laest.) Fries.
 
-*Festuca sumilusitanica Franco & R. Afonso.
+Cinna latifolia (Trev.) Griseb.
 
-*Gaudinia hispanica Stace & Tutin.
+Coleanthus subtilis (Tratt.) Seidl.
 
-*Holcus setiglumis Boiss. & Reuter.
+Festuca brigantina (Markgr.-Dannenb.) Markgr.-Dannenb.
 
-subsp. duriensis Pinto da Silva.
+Festuca duriotagana Franco & R. Afonso.
 
-*Micropyropsis tuberosa Romero - Zarco & Cabezudo.
+Festuca elegans Boiss.
 
-*Pseudarrhenatherum pallens (Link) J. Holub.
+Festuca henriquesii Hack.
 
-*Puccinellia pungens (Pau) Paunero.
+Festuca summilusitanica Franco & R. Afonso.
 
-*Stipa austroitalica Martinovsky.
+Gaudinia hispanica Stace & Tutin.
 
-*Stipa bavarica Martinovsky & H. Scholz.
+Holcus setiglumis Boiss. & Reuter subsp. duriensis Pinto da Silva.
 
-*Stipa veneta Moraldo.
+Micropyropsis tuberosa Romero-Zarco & Cabezudo.
 
-GROSSULARIACEAE
+Pseudarrhenatherum pallens (Link) J. Holub.
 
-*Ribes sardum Martelli.
+Puccinellia phryganodes (Trin.) Scribner + Merr.
 
-HYPERICACEAE
+Puccinellia pungens (Pau) Paunero.
 
-*Hypericum aciferum (Greuter) N. K. B. Robson.
+* Stipa austroitalica Martinovsky.
 
-JUNCACEAE
+* Stipa bavarica Martinovsky & H. Scholz.
+
+* Stipa styriaca Martinovsky.
+
+* Stipa veneta Moraldo.
+
+Trisetum subalpestre (Hartman) Neuman.
+
+Grossulariaceae.
+
+* Ribes sardoum Martelli.
+
+Hippuridaceae.
+
+Hippuris tetraphylla L. Fil.
+
+Hypericaceae.
+
+* Hypericum aciferum (Greuter) N.K.B. Robson.
+
+Juncaceae.
 
 Juncus valvatus Link.
 
-LABIATAE
+Luzula arctica Blytt.
 
-*Dracocephalum austriacum L.
+Labiatae.
 
-*Micromeria taygetea P.H. Davis.
+Dracocephalum austriacum L.
 
-*Nepeta dirphya (Boiss.) Heldr. ex Halacsy.
+* Micromeria taygetea P. H. Davis.
 
-*Nepeta sphaciotica P.H. Davis.
+Nepeta dirphya (Boiss.) Heldr. ex Halacsy.
 
-*Origanum dictamnus L.
+* Nepeta sphaciotica P. H. Davis.
 
-*Sideritis incana.
+Origanum dictamnus L.
 
-subsp. glauca (Cav.) Malagarriga.
+Sideritis incana subsp. glauca (Cav.) Malagarriga.
 
-*Sideritis javalambrensis Pau.
+Sideritis javalambrensis Pau.
 
-*Sideritis serrata Cav. ex Lag.
+Sideritis serrata Cav. ex Lag.
 
-*Teucrium lepicephalum Pau.
+Teucrium lepicephalum Pau.
 
-*Teucrium turredanum Losa & Rivas Goday.
+Teucrium turredanum Losa & Rivas Goday.
 
-*Thymus camphoratus Hoffmanns. & Link.
+* Thymus camphoratus Hoffmanns. & Link.
 
-*Thymus carnosus Boiss.
+Thymus carnosus Boiss.
 
-*Thymus cephalotos L.
+* Thymus lotocephalus G. López & R. Morales (Thymus cephalotos L.).
 
-LEGUMINOSAE
+Leguminosae.
 
-*Anthyllis hystrix Cardona, Contandr. & E. Sierra.
+Anthyllis hystrix Cardona, Contandr. & E. Sierra.
 
-*Astragalus algarbiensis Coss. ex Bunge.
+* Astragalus algarbiensis Coss. ex Bunge.
 
-*Astragalus aquilanus Anzalone.
+* Astragalus aquilanus Anzalone.
 
-*Astragalus centralpinus Braun-Blanquet.
+Astragalus centralpinus Braun-Blanquet.
 
-*Astragalus maritimus Moris.
+* Astragalus maritimus Moris.
 
-*Astragalus tremolsianus Pau.
+Astragalus tremolsianus Pau.
 
-*Astragalus verrucosus Moris.
+* Astragalus verrucosus Moris.
 
-*Cytisus aeolicus Guss. ex Lindl.
+* Cytisus aeolicus Guss. ex Lindl.
 
-*Genista dorycnifolia Font Quer.
+Genista dorycnifolia Font Quer.
 
-*Genista holopetala (Fleischm. ex Koch) Baldacci.
+Genista holopetala (Fleischm. ex Koch) Baldacci.
 
-*Melilotus segetalis (Brot.) Ser.
+Melilotus segetalis (Brot.) Ser. subsp. fallax Franco.
 
-subsp. fallax Franco.
+* Ononis hackelii Lange.
 
-*Ononis hackelii Lange.
+Trifolium saxatile All.
 
-*Trifolium saxatile All.
+* Vicia bifoliolata J.D. Rodriguez.
 
-*Vicia bifoliolata J. D. Rodríguez.
-
-LENTIBULARIACEAE
+Lentibulariaceae.
 
 Pinguicula nevadensis (Lindb.) Casper.
 
-LILIACEAE
+Liliaceae.
 
-*Allium grosii Font Quer.
+Allium grosii Font Quer.
 
-*Androcymbium rechingeri Greuter.
+* Androcymbium rechingeri Greuter.
 
-*Asphodelus bento-rainhae P. Silva.
+* Asphodelus bento-rainhae P. Silva.
 
-*Hyacinthoides vicentina (Hoffmanns. & Link) Rothm.
+Hyacinthoides vicentina (Hoffmans. & Link) Rothm.
 
-*Muscari gussonei (Parl.) Tod.
+* Muscari gussonei (Parl.) Tod.
 
-LINACEAE
+Linaceae.
 
-*Linum muelleri Moris.
+* Linum muelleri Moris (Linum maritimum muelleri).
 
-LYTHRACEAE
+Lythraceae.
 
-*Llythrum flexuosum Lag.
+* Lythrum flexuosum Lag.
 
-MALVACEAE
+Malvaceae.
 
 Kosteletzkya pentacarpos (L.) Ledeb.
 
-NAJADACEAE
+Najadaceae.
 
-Najas Flexilis (Willd.) Rostk. & W. L. Schmidt.
+Najas flexilis (Willd.) Rostk. & W.L. Schmidt.
 
-ORCHIDACEAE
+Najas tenuissima (A. Braun) Magnus.
 
-*Cephalanthera cucullata Boiss. & Heldr.
+Orchidaceae.
 
-*Cypripedium calceolus L.
+Calypso bulbosa L.
 
-*Liparis loeselii (L.) Rich.
+* Cephalanthera cucullata Boiss. & Heldr.
 
-*Ophrys lunulata Parl.
+Cypripedium calceolus L.
 
-PAEONIACEAE
+Gymnigritella runei Teppner & Klein.
+
+Liparis loeselii (L.) Rich.
+
+* Ophrys lunulata Parl.
+
+Platanthera obtusata (Pursh) subsp. oligantha (Turez.) Hulten.
+
+Paeoniaceae.
 
 Paeonia cambessedesii (Willk.) Willk.
 
 Paeonia parnassica Tzanoudakis.
 
-Paeonia clusii F.C. Stern.
+Paeonia clusii F.C. Stern subsp. rhodia (Stearn) Tzanoudakis.
 
-subsp. rhodia (Stearn) Tzanoudakis.
-
-PALMAE
+Palmae.
 
 Phoenix theophrasti Greuter.
 
-PLANTAGINACEAE
+Papaveraceae.
 
-Plantago algarbiensis Samp.
+Corydalis gotlandica Lidén.
+
+Papaver laestadianum (Nordh.) Nordh.
+
+Papaver radicatum Rottb. subsp. hyperboreum Nordh.
+
+Plantaginaceae.
+
+Plantago algarbiensis Sampaio [Plantago bracteosa (Willk.) G. Sampaio].
 
 Plantago almogravensis Franco.
 
-PLUMBAGINACEAE
+Plumbaginaceae.
 
-*Armeria berlengensis Daveau.
+Armeria berlengensis Daveau.
 
-*Armeria helodes Martini & Pold.
+* Armeria helodes Martini & Pold.
 
-*Armeria negleta Girard.
+Armeria neglecta Girard.
 
-*Armeria pseudarmeria (Murray) Mansfeld.
+Armeria pseudarmeria (Murray) Mansfeld.
 
-*Armeria rouyana Daveau.
+* Armeria rouyana Daveau.
 
-*Armeria soleirolii (Duby) Godron.
+Armeria soleirolii (Duby) Godron.
 
-*Armeria velutina Welv. ex Boiss. & Reuter.
+Armeria velutina Welw. ex Boiss. & Reuter.
 
-*Limonium dodartii (Girard) O. Kuntze.
+Limonium dodartii (Girard) O. Kuntze subsp. lusitanicum (Daveau) Franco.
 
-subsp. lusitanicum (Daveau) Franco.
+* Limonium insulare (Beg. & Landi) Arrig. & Diana.
 
-*Limonium insulare (Beg. & Landi) Arrig. & Diana.
+Limonium lanceolatum (Hoffmans. & Link) Franco.
 
-*Limonium lanceolatum (Hoffmanns. & Link) Franco.
+Limonium multiflorum Erben.
 
-*Limonium multiflorum Erben.
+* Limonium pseudolaetum Arrig. & Diana.
 
-*Limonium pseudolaetum Arrig. & Diana.
+* Limonium strictissimum (Salzmann) Arrig.
 
-*Limonium strictissimum (Salzmann) Arrig.
+Polygonaceae.
 
-POLYGONACEAE
+Persicaria foliosa (H. Lindb.) Kitag.
 
 Polygonum praelongum Coode & Cullen.
 
 Rumex rupestris Le Gall.
 
-PRIMULACEAE
+Primulaceae.
 
-*Androsace mathildae Levier.
+Androsace mathildae Levier.
 
-*Androsace pyrenaica Lam.
+Androsace pyrenaica Lam.
 
-*Primula apennina Widmer.
+* Primula apennina Widmer.
 
-*Primula palinuri Petagna.
+Primula nutans Georgi.
 
-*Soldanella villosa Darracq.
+Primula palinuri Petagna.
 
-RANUNCULACEAE
+Primula scandinavica Bruun.
 
-*Aconitum corsicum Gayer.
+Soldanella villosa Darracq.
 
-*Adonis distorta Ten.
+Ranunculaceae.
 
-*Aquilegia bertolonii Schott.
+* Aconitum corsicum Gayer (Aconitum napellus subsp. corsicum).
 
-*Aquilegia kitaibelii Schott.
+Adonis distorta Ten.
 
-*Aquilegia pyrenaica D. C.
+Aquilegia bertolonii Schott.
 
-subsp. cazorlensis (Heywood) Galiano.
+Aquilegia kitaibelii Schott.
 
-*Consolida samia P. H. Davis.
+* Aquilegia pyrenaica D.C. subsp. cazorlensis (Heywood) Galiano.
 
-*Pulsatilla patens (L.) Miller.
+* Consolida samia P.H. Davis.
 
-*Ranunculus weyleri Mares.
+Pulsatilla patens (L.) Miller.
 
-RESEDACEAE
+Pulsatilla vulgaris Hill. subsp. gotlandica (Johanss.) Zaemelis & Paegle.
 
-*Reseda decursiva Forssk.
+Ranunculus lapponicus L.
 
-ROSACEAE
+* Ranunculus weyleri Mares.
+
+Resedaceae.
+
+* Reseda decursiva Forssk.
+
+Rosaceae.
+
+Agrimonia pilosa Ledebour.
 
 Potentilla delphinensis Gren. & Godron.
 
-RUBIACEAE
+Sorbus teodori Liljefors.
 
-*Galium litorale Guss.
+Rubiaceae.
 
-*Galium viridiflorum Boiss. & Reuter.
+* Galium litorale Guss.
 
-SALICACEAE
+* Galium viridiflorum Boiss. & Reuter.
 
-Salix salvifolia Brot.
+Salicaceae.
 
-subsp. australis Franco.
+Salix salvifolia Brot. subsp. australis Franco.
 
-SANTALACEAE
+Santalaceae.
 
 Thesium ebracteatum Hayne.
 
-SAXIFRAGACEAE
+Saxifragaceae.
 
-Saxifraga berica (Beguinot) D. A. Webb.
+Saxifraga berica (Beguinot) D.A. Webb.
 
 Saxifraga florulenta Moretti.
 
 Saxifraga hirculus L.
 
+Saxifraga osloënsis Knaben.
+
 Saxifraga tombeanensis Boiss. ex Engl.
 
-SCROPHULARIACEAE
+Scrophulariaceae.
 
-*Antirrhinum charidemie Lange.
+Antirrhinum charidemi Lange.
 
-*Chaenorrhinum serpyllifolium (Lange) Lange.
+Chaenorrhinum serpyllifolium (Lange) Lange subsp. lusitanicum R. Fernandes.
 
-subsp. lusitanicum R. Fernandes.
+* Euphrasia genargentea (Feoli) Diana.
 
-*Euphrasia genargentea (Feoli) Diana.
+Euphrasia marchesettii Wettst. ex Marches.
 
-*Euphrasia marchesettii Wettst. ex Marches.
+Linaria algarviana Chav.
 
-*Linaria algarviana Chav.
+Linaria coutinhoi Valdés.
 
-*Linaria coutinhoi Valdés.
+* Linaria ficalhoana Rouy.
 
-*Linaria ficalhoana Rouy.
+Linaria flava (Poiret) Desf.
 
-*Linaria flava (Poiret) Desf.
+* Linaria hellenica Turrill.
 
-*Linaria hellenica Turril.
+* Linaria ricardoi Cout.
 
-*Linaria ricardoi Cout.
+* Linaria tursica B. Valdes & Cabezudo.
 
-*Linaria tursica B. Valdes & Cabezudo.
+Linaria tonzigii Lona.
 
-*Linaria tonzigii Lona.
+Odontites granatensis Boiss.
 
-*Odontites granatensis Boiss.
+Verbascum litigiosum Samp.
 
-*Verbascum litigiosum Samp.
+Veronica micrantha Hoffmanns. & Link.
 
-*Veronica micrantha Hoffmanns. & Link.
+* Veronica oetaea L.-A. Gustavsson.
 
-*Veronica oetaea L.-A. Gustavson.
+Solanaceae.
 
-SELAGINACEAE
+* Atropa baetica Willk.
 
-*Globularia stygia Orph. ex Boiss.
+Thymelaeaceae.
 
-SOLANACEAE
+Daphne petraea Leybold.
 
-*Atropa baetica Willk.
+* Daphne rodriguezii Texidor.
 
-THYMELAEACEAE
-
-*Daphne petraea Leybold.
-
-*Daphne rodriguezii Texidor.
-
-ULMACEAE
+Ulmaceae.
 
 Zelkova abelicea (Lam.) Boiss.
 
-UMBELLIFERAE
+Umbelliferae.
 
-*Angelica heterocarpa Lloyd.
+* Angelica heterocarpa Lloyd.
 
-*Angelica palustris (Besser) Hoffm.
+Angelica palustris (Besser) Hoffm.
 
-*Apium bermejoi Llorens.
+* Apium bermejoi Llorens.
 
-*Apium repens (Jacq.) Lag.
+Apium repens (Jacq.) Lag.
 
-*Athamanta cortiana Ferrarini.
+Athamanta cortiana Ferrarini.
 
-*Bupleurum capillare Boiss. & Heldr.
+* Bupleurum capillare Boiss. & Heldr.
 
-*Bupleurum kakiskalae Greuter.
+* Bupleurum kakiskalae Greuter.
 
-*Eryngium alpinum L.
+Eryngium alpinum L.
 
-*Eryngium viviparum Gay.
+* Eryngium viviparum Gay.
 
-*Laserpitium longiradium Boiss.
+* Laserpitium longiradium Boiss.
 
-*Naufraga balearica Constans & Cannon.
+* Naufraga balearica Constans & Cannon.
 
-*Oenanthe conioides Lange.
+* Oenanthe conioides Lange.
 
-*Petagnia saniculifolia Guss.
+Petagnia saniculifolia Guss.
 
-*Rouya polygama (Desf.) Coincy.
+Rouya polygama (Desf.) Coincy.
 
-*Seseli intricatum Boiss.
+* Seseli intricatum Boiss.
 
-*Thorella verticillatinundata (Thore) Brig.
+Thorella verticillatinundata (Thore) Briq.
 
-VALERIANACEAE
+Valerianaceae.
 
 Centranthus trinervis (Viv.) Beguinot.
 
-VIOLACEAE
+Violaceae.
 
-*Viola hispida Lam.
+* Viola hispida Lam.
 
-*Viola jaubertia Mares & Vigineix.
+Viola jaubertiana Mares & Vigineix.
 
-## Plantas inferiores
+Viola rupestris F.W. Schmidt subsp. relicta Jalas.
 
-## BRYOPHYTA
+Plantas inferiores
 
-*Bruchia vogesiaca Schwaegr. (o).
+Bryophyta.
 
-*Bryoerythrophyllum machadoanum (Sergio) M. Hill (o).
+Bruchia vogesiaca Schwaegr. (o).
 
-*Buxbaumia viridis (Moug. ex Lam. & DC.) Brid. ex Moug.& Nestl. (o).
+Bryhnia novae-angliae (Sull & Lesq.) Grout (o).
 
-*Dichelyma capillaceum (With.) Myr. (o).
+* Bryoerythrophyllum campylocarpum (C. Müll.) Crum. [Bryoerythrophyllum machadoanum (Sergio) M. O. Hill] (o).
 
-*Dicranum viride (Sull. & Lesq) Lindb. (o).
+Buxbaumia viridis (Moug.) Moug. & Nestl. (o).
 
-*Distichophyllum carinatum Dix. & Nich. (o).
+Cephalozia macounii (Aust.) Aust. (o).
 
-*Drepanocladus vernicosus (Mitt.) Warnst. (o).
+Cynodontium suecicum (H. Arn. & C. Jens.) I. Hag. (o).
 
-*Jungermannia handelii (Schiffn.) Amak. (o).
+Dichelyma capillaceum (Dicks) Myr. (o).
 
-*Mannia triandra (Scop.) Grolle (o).
+Dicranum viride (Sull. & Lesq.) Lindb. (o).
 
-*Marsupella profunda Lindb. (o).
+Distichophyllum carinatum Dix. & Nich. (o).
 
-*Meesia longiseta Hedw. (o).
+Drepanocladus (Hamatocaulis) vernicosus (Mitt.) Warnst. (o).
 
-*Nothothylas orbicularis (Schwein.) Sull. (o).
+Encalypta mutica (I. Hagen) (o).
 
-*Orthotrichum rogeri Brid. (o).
+Hamatocaulis lapponicus (Norrl.) Hedenäs (o).
 
-*Petalophyllum ralfsii Nees & Goot. ex Lehm. (o).
+Herzogiella turfacea (Lindb.) I. Wats. (o).
 
-*Riccia breidleri Jur. ex Steph. (o).
+Hygrohypnum montanum (Lindb.) Broth. (o).
 
-*Riella helicophylla (Mont.) Hook. (o).
+Jungermannia handelii (Schiffn.) Amak. (o).
 
-*Scapania massolongi (K. Muell.) K. Muell. (o).
+Mannia triandra (Scop.) Grolle (o).
 
-*Sphagnum pylaisii Brid. (o).
+* Marsupella profunda Lindb. (o).
 
-*Tayloria rudolphiana (Gasrov) B. & G. (o).
+Meesia longiseta Hedw. (o).
 
-## ESPECIES DE LA MACARONESIA
+Nothothylas orbicularis (Schwein.) Sull. (o).
 
-## PTERIDOPHYTA
+Orthothecium lapponicum (Schimp.) C. Hartm. (o).
 
-HYMENOPHYLLACEAE
+Orthotrichum rogeri Brid. (o).
+
+Petalophyllum ralfsii (Wils.) Nees & Gott. (o).
+
+Plagiomnium drummondii (Bruch & Schimp.) T. Kop. (o).
+
+Riccia breidleri Jur. (o).
+
+Riella helicophylla (Bory & Mont.) Mont. (o).
+
+Scapania massolongi (K. Müll.) K. Müll. (o).
+
+Sphagnum pylaisii Brid. (o).
+
+Tayloria rudolphiana (Garov) B. & S. (o).
+
+Tortella rigens (N. Alberts) (o).
+
+## Especies de la Macaronesia
+
+Pteridophyta
+
+Hymenophyllaceae.
 
 Hymenophyllum maderensis Gibby & Lovis.
 
-DRYOPTERIDACEAE
+Dryopteridaceae.
 
-*Polystichum drepanum (Sw.) C. Presi.
+* Polystichum drepanum (Sw.) C. Presl.
 
-ISOETACEAE
+Isoetaceae.
 
-Isoetes azorica Durieu & Paiva.
+Isoetes azorica Durieu & Paiva ex Milde.
 
-MARSILIACEAE
+Marsileaceae.
 
-*Marsilea azorica Launert & Paiva.
+* Marsilea azorica Launert & Paiva.
 
-## ANGIOSPERMAE
+Angiospermae
 
-ASCLEPIADACEAE
+Asclepiadaceae.
 
-*Caralluma burchardii N.E. Brown.
+Caralluma burchardii N. E. Brown.
 
-*Ceropegia chrysantha Svent.
+* Ceropegia chrysantha Svent.
 
-BORAGINACEAE
+;Boraginaceae.
 
-*Echium candicans L. fil.
+Echium candicans L. fil.
 
-*Echium gentianoides Webb & Coincy.
+* Echium gentianoides Webb & Coincy.
 
-*Myosotis azorica H. C. Watson.
+Myosotis azorica H. C. Watson.
 
-*Myosotis maritima Hochst. in Seub.
+Myosotis maritima Hochst. in Seub.
 
-CAMPANULACEAE
+Campanulaceae.
 
-*Azorina vidalii (H. C. Watson) Feer.
+* Azorina vidalii (H. C. Watson) Feer.
 
-*Musschia aurea (L. f.) DC.
+Musschia aurea (L. f.) DC.
 
-*Musschia wollastonii Lowe.
+* Musschia wollastonii Lowe.
 
-CAPRIFOLIACEAE
+Caprifoliaceae.
 
-*Sambucus palmensis Link.
+* Sambucus palmensis Link.
 
-CARYOPHYLLACEAE
+Caryophyllaceae.
 
 Spergularia azorica (Kindb.) Lebel.
 
-CELASTRACEAE
+Celastraceae.
 
 Maytenus umbellata (R. Br.) Mabb.
 
-CHENOPODIACEAE
+Chenopodiaceae.
 
 Beta patula Ait.
 
-CISTACEAE
+Cistaceae.
 
-*Cistus chinamadensis Banares & Romero.
+Cistus chinamadensis Banares & Romero.
 
-*Helianthemum bystropogophyllum Svent.
+* Helianthemum bystropogophyllum Svent.
 
-COMPOSITAE
+Compositae.
 
-*Andryala crithmifolia Ait.
+Andryala crithmifolia Ait.
 
-*Argyranthemum lidii Humphries.
+* Argyranthemum lidii Humphries.
 
-*Argyranthemum thalasssophylum (Svent.) Hump.
+Argyranthemum thalassophylum (Svent.) Hump.
 
-*Argyranthemum winterii (Svent.) Humphries.
+Argyranthemum winterii (Svent.) Humphries.
 
-*Atractylis arbuscula Svent. & Michaelis.
+* Atractylis arbuscula Svent. & Michaelis.
 
-*Atractylis preauxiana Schultz.
+Atractylis preauxiana Schultz.
 
-*Calendula maderensis DC.
+Calendula maderensis DC.
 
-*Cheirolophus duranii (Burchard) Holub.
+Cheirolophus duranii (Burchard) Holub.
 
-*Cheirolophus ghomerytus (Svent.) Holub.
+Cheirolophus ghomerytus (Svent.) Holub.
 
-*Cheirolophus junonianus (Svent.) Holub.
+Cheirolophus junonianus (Svent.) Holub.
 
-*Cheirolophus massonianus (Lowe) Hansen.
+Cheirolophus massonianus (Lowe) Hansen & Sund.
 
-*Cirsium latifolium Lowe.
+Cirsium latifolium Lowe.
 
-*Helichrysum gossypinum Webb.
+Helichrysum gossypinum Webb.
 
-*Helichrysum oligocephala (Svent. & Bzamw.).
+Helichrysum monogynum Burtt & Sund.
 
-*Lactuca watsoniana Trel.
+Hypochoeris oligocephala (Svent. & Bramw.) Lack.
 
-*Onopordum nogalesii Svent.
+* Lactuca watsoniana Trel.
 
-*Onopordum carduelinum Bolle.
+* Onopordum nogalesii Svent.
 
-*Pericallis hadrosoma Svent.
+* Onorpordum carduelinum Bolle.
 
-*Phagnalon benettii Lowe.
+* Pericallis hadrosoma (Svent.) B. Nord.
 
-*Stemmacantha cynaroides (Chr. Son. in Buch) Ditt.
+Phagnalon benettii Lowe.
 
-*Sventenia bupleuroides Font Quer.
+Stemmacantha cynaroides (Chr. Son. in Buch) Ditt.
 
-*Tanacetum ptarmiciflorum Webb & Berth.
+Sventenia bupleuroides Font Quer.
 
-CONVOLVULACEAE
+* Tanacetum ptarmiciflorum Webb & Berth.
 
-*Convolvulus caput-medusae Lowe.
+Convolvulaceae.
 
-*Convolvulus lopez-socasii Svent.
+* Convolvulus caput-medusae Lowe.
 
-*Convolvulus massonii A. Dietr.
+* Convolvulus lopez-socasii Svent.
 
-CRASSULACEAE
+* Convolvulus massonii A. Dietr.
+
+Crassulaceae.
 
 Aeonium gomeraense Praeger.
 
@@ -1484,183 +1610,179 @@ Monanthes wildpretii Banares & Scholz.
 
 Sedum brissemoretii Raymond-Hamet.
 
-CRUCIFERAE
+Cruciferae.
 
-*Crambe arborea Webb ex Christ.
+* Crambe arborea Webb ex Christ.
 
-*Crambe laevigata DC. ex Christ.
+Crambe laevigata DC. ex Christ.
 
-*Crambe sventenii R. Petters ex Bramwell & Sund.
+* Crambe sventenii R. Petters ex Bramwell & Sund.
 
-*Parolinia schizogynoides Svent.
+* Parolinia schizogynoides Svent.
 
-*Sinapidendron rupestre (Ait.) Lowe.
+Sinapidendron rupestre (Ait.) Lowe.
 
-CYPERACEAE
+Cyperaceae.
 
 Carex malato-belizii Raymond.
 
-DIPSACACEAE
+Dipsacaceae.
 
-*Scabiosa nitens Roemer & J.A. Schultes.
+Scabiosa nitens Roemer & J. A. Schultes.
 
-ERICACEAE
+Ericaceae.
 
-Erica scoparia L.
+Erica scoparia L. subsp. azorica (Hochst.) D. A. Webb.
 
-subsp. azorica (Hochst.) D.A. Webb.
+Euphorbiaceae.
 
-EUPHORBIACEAE
+* Euphorbia handiensis Burchard.
 
-*Euphorbia handiensis Burchard.
+Euphorbia lambii Svent.
 
-*Euphorbia lambii Svent.
+Euphorbia stygiana H. C. Watson.
 
-*Euphorbia stygiana H. C. Watson.
+Geraniaceae.
 
-GERANIACEAE
+* Geranium maderense P. F. Yeo.
 
-*Geranium maderense P. F. Yeo.
+Gramineae.
 
-GRAMINEAE
-
-Deschampsia maderensiss (Haeck. & Born.).
+Deschampsia maderensis (Haeck. & Born.) Buschm.
 
 Phalaris maderensis (Menezes) Menezes.
 
-LABIATAE
+Globulariaceae.
 
-*Sideritis cystosiphon Svent.
+* Globularia ascanii D. Bramwell & Kunkel.
 
-*Sideritis discolor (Webb ex de Noe) Bolle.
+* Globularia sarcophylla Svent.
 
-*Sideritis infernalis Bolle.
+Labiatae.
 
-*Sideritis marmorea Bolle.
+* Sideritis cystosiphon Svent.
 
-*Teucrium abutiloides L'Hér.
+* Sideritis discolor (Webb ex de Noe) Bolle.
 
-*Teucrium betonicum L'Hér.
+Sideritis infernalis Bolle.
 
-LEGUMINOSAE
+Sideritis marmorea Bolle.
 
-*Anagyris latifolia Brouss. ex Willd.
+Teucrium abutiloides L'Hér.
 
-*Anthyllis lemanniana Lowe.
+Teucrium betonicum L' Hér.
 
-*Dorycnium spectabile Webb & Berthel.
+Leguminosae.
 
-*Lotus azoricus P. W. Ball.
+* Anagyris latifolia Brouss. ex. Willd.
 
-*Lotus callis-viridis D. Bramwell & D. H. Davis.
+Anthyllis lemanniana Lowe.
 
-*Lotus kunkelii (E. Chueca) D. Bramwell & al.
+* Dorycnium spectabile Webb & Berthel.
 
-*Teline rosmarinifolia Webb & Berthel.
+* Lotus azoricus P. W. Ball.
 
-*Teline salsoloides Arco & Acebes.
+Lotus callis-viridis D. Bramwell & D. H. Davis.
 
-*Vicia dennesiana H. C. Watson.
+* Lotus kunkelii (E. Chueca) D. Bramwell & al.
 
-LILIACEAE
+* Teline rosmarinifolia Webb & Berthel.
 
-*Androcymbium psammophilum Svent.
+* Teline salsoloides Arco & Acebes.
 
-*Scilla maderensis Menezes.
+Vicia dennesiana H. C. Watson.
 
-*Semele maderensis Costa.
+Liliaceae.
 
-LORANTHACEAE
+* Androcymbium psammophilum Svent.
+
+Scilla maderensis Menezes.
+
+Semele maderensis Costa.
+
+Loranthaceae.
 
 Arceuthobium azoricum Wiens & Hawksw.
 
-MYRICACEAE
+Myricaceae.
 
-*Myrica rivas-martinezii Santos.
+* Myrica rivas-martinezii Santos.
 
-OLEACEAE
+Oleaceae.
 
 Jasminum azoricum L.
 
 Picconia azorica (Tutin) Knobl.
 
-ORCHIDACEAE
+Orchidaceae.
 
 Goodyera macrophylla Lowe.
 
-PITTOSPORACEAE
+Pittosporaceae.
 
-*Pittossporum coriaceum Dryand. ex Ait.
+* Pittosporum coriaceum Dryand. ex. Ait.
 
-PLANTAGINACEAE
+Plantaginaceae.
 
 Plantago malato-belizii Lawalree.
 
-PLUMBAGINACEAE
+Plumbaginaceae.
 
-*Limonium arborescens (Brouss.) Kuntze.
+* Limonium arborescens (Brouss.) Kuntze.
 
-*Limonium dendroides Svent.
+Limonium dendroides Svent.
 
-*Limonium spectabile (Svent.) Kunkel & Sunding.
+* Limonium spectabile (Svent.) Kunkel & Sunding.
 
-*Limonium sventenii Santos & Fernández Galván.
+* Limonium sventenii Santos & Fernandez Galvan.
 
-POLYGONACEAE
+Polygonaceae.
 
 Rumex azoricus Rech. fil.
 
-RHAMNACEAE
+Rhamnaceae.
 
 Frangula azorica Tutin.
 
-ROSACEAE
+Rosaceae.
 
-*Bencomia brachystachya Svent.
+* Bencomia brachystachya Svent.
 
-*Bencomia sphaerocarpa Svent.
+Bencomia sphaerocarpa Svent.
 
-*Chamaemeles coriacea Lindl.
+* Chamaemeles coriacea Lindl.
 
-*Dendriopterium pulidoi Svent.
+Dendriopoterium pulidoi Svent.
 
-*Marcetella maderensis (Born.) Svent.
+Marcetella maderensis (Born.) Svent.
 
-*Prunus lusitanica L.
+Prunus lusitanica L. subsp. azorica (Mouillef.) Franco.
 
-subsp. azorica (Mouillef.) Franco.
+Sorbus maderensis (Lowe) Dode.
 
-*Sorbus maderensis (Lowe) Docle.
-
-SANTALACEAE
+Santalaceae.
 
 Kunkeliella subsucculenta Kammer.
 
-SCROPHULARIACEAE
+Scrophulariaceae.
 
-*Euphrasia azorica Wats.
+* Euphrasia azorica H.C. Watson.
 
-*Euphrasia grandiflora Hochst. ex Seub.
+Euphrasia grandiflora Hochst. in Seub.
 
-*Isoplexis chalcantha Svent. & O'Shanahan.
+* Isoplexis chalcantha Svent. & O'Shanahan.
 
-*Isoplexis isabelliana (Webb & Berthel.) Masferrer.
+Isoplexis isabelliana (Webb & Berthel.) Masferrer.
 
-*Odontites holliana (Lowe) Benth.
+Odontites holliana (Lowe) Benth.
 
-*Sibthorpia peregrina L.
+Sibthorpia peregrina L.
 
-SELAGINACEAE
+Solanaceae.
 
-*Globularia ascanii D. Bramwell & Kunkel.
+* Solanum lidii Sunding.
 
-*Globularia sarcophylla Svent.
-
-SOLANACEAE
-
-*Solanum lidii Sunding.
-
-UMBELLIFERAE
+Umbelliferae.
 
 Ammi trifoliatum (H. C. Watson) Trelease.
 
@@ -1678,16 +1800,16 @@ Oenanthe divaricata (R. Br.) Mabb.
 
 Sanicula azorica Guthnick ex Seub.
 
-VIOLACEAE
+Violaceae.
 
 Viola paradoxa Lowe.
 
-## Plantas interiores
+## Plantas inferiores
 
-## BRYOPHYTA
+Bryophyta.
 
-*Echinodium spinosum (Mitt.) Jur. (o).
+* Echinodium spinosum (Mitt.) Jur. (o).
 
-*Tramnobryum fernandesii Sergio (o).
+* Thamnobryum fernandesii Sergio (o)".
 
-> Redactado conforme a la corrección de erratas publicada en BOE núm. 129, de 28 de mayo de 1996. Ref. BOE-A-1996-12098
+> Se modifica por el art. único. 2 del Real Decreto 1193/1998, de 12 de junio. Ref. BOE-A-1998-15063
