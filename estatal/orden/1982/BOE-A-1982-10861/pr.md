@@ -1,0 +1,7 @@
+El artículo 6.º, apartado 2, del vigente Reglamento de Armas, aprobado por Real Decreto 2179/1981, de 24 de julio, prohíbe la propaganda, compraventa, tenencia y uso de las armas, municiones y artefactos ofensivos y defensivos que se citan en sus párrafos a) al g), ambos inclusive, salvo por funcionarios o personal con funciones de seguridad y de acuerdo con lo que dispongan las respectivas normas reglamentarias.
+
+Entre las operaciones que tal precepto prohíbe a los particulares no se incluye la fabricación de tales armas o artefactos, que, por tanto, ha de estimarse permitida, salvo cuando se trate de las contempladas en otros preceptos, como son, por ejemplo, las armas de fuego y las municiones, y ello sin perjuicio del cumplimiento de las disposiciones vigentes en el sector industrial, comercial o de administración local.
+
+Tal libertad implícita de fabricación no obsta para que, a tenor de lo dispuesto en los artículos 2.º y 3.º y disposición adicional primera del citado Reglamento de Armas, se puedan adoptar las medidas adecuadas con objeto de facilitar la intervención de la Guardia Civil en relación con las fábricas de estas armas o artefactos no sometidas a regulación específica, en orden a un efectivo control que redunde en beneficio de la seguridad ciudadana.
+
+Por todo ello, en uso de las facultades que me confieren los indicados preceptos y previo informe de la Comisión Interministerial Permanente de Armas y Explosivos, he tenido a bien disponer:
