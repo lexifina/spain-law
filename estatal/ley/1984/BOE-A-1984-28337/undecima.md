@@ -1,7 +1,5 @@
 ## Disposición adicional úndécima.
 
-1. Para los pagos a justificar correspondientes a créditos del Fondo Nacional de Protección al Trabajo, expropiaciones y pagos en el extranjero, las cuentas podrán ser rendidas en el plazo de seis meses prorrogables hasta un año más, cuando ello sea necesario, sin perjuicio del cumplimiento en los supuestos normales del artículo 79 de la Ley 11/1977, General Presupuestaria. En cada caso los Ministerios respectivos determinarán la fecha límite de rendición de cuentas cuando ésta pueda ser reconocida, y caso necesario, el órgano gestor del crédito, con informe de la Intervención Delegada, remitirá las solicitudes de ampliación de plazo de justificación a la Dirección General del Tesoro y Política Financiera, para su aprobación por el Ministerio de Economía y Hacienda.
+(Derogada)
 
-2. En los casos de servicios no transferidos a las Comunidades Autónomas y que por carecer la Administración Central de una estructura mínima para llevarlos a la práctica sea encomendada su realización a dichas Comunidades, se podrán expedir libramientos «a justificar» en las condiciones previstas en el artículo 79 de la Ley 11/1977, de 4 de enero, General Presupuestaria.
-
-3. Los gastos a realizar en el extranjero de importancia respecto al orden público, la seguridad nacional u otros relevantes, a juicio del Consejo de Ministros, imputados en un ejercicio y librados a justificar, podrán ser objeto de ejecución y justificación en el siguiente.
+> Se deroga por la disposición derogatoria.1 del Real Decreto Legislativo 1091/1988, de 23 de septiembre. Ref. BOE-A-1988-22572.

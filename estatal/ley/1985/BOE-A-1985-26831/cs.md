@@ -1,3 +1,5 @@
 ## Disposición adicional cuadragésima segunda.
 
-A la memoria de objetivos que el Gobierno remite a las Cortes Generales con el Proyecto de Ley de Presupuestos Generales del Estado de cada año se unirá un avance del grado de cumplimiento de los objetivos del año anterior.
+(Derogada).
+
+> Se deroga por la disposición derogatoria.1 del Real Decreto Legislativo 1091/1988, de 23 de septiembre. Ref. BOE-A-1988-22572

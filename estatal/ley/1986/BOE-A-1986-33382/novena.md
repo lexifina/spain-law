@@ -1,3 +1,5 @@
-## Novena.
+## Disposición adicional novena.
 
-A partir de 1 de enero de 1987 corresponderá el Director General del Tesoro y Política Financiera el ejercicio de las facultades, hasta la fecha atribuidas al Ministerio de Economía y Hacienda, de ampliación de plazo de rendición de cuentas por pagos «a justificar», contempladas en el artículo 79.3 de la Ley 11/1977, de 4 de enero, General Presupuestaria, y en la Disposición Adicional undécima de la Ley 50/1984, 30 de diciembre, de Presupuestos Generales del Estado para 1985.
+(Derogada)
+
+> Se deroga por la disposición derogatoria 1 del Real Decreto Legislativo 1091/1988, de 23 de septiembre. Ref. BOE-A-1988-22572.
