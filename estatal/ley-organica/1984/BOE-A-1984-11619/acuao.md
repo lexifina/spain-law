@@ -1,5 +1,5 @@
 ## Artículo cuarto.
 
-1. El requerido que dejara voluntariamente de comparecer para informar ante una Comisión de Investigación incurrirá en un delito de desobediencia grave.
+(Derogado)
 
-2. Cuando a juicio de la Presidencia de la Cámara se pusiesen de manifiesto causas que justifiquen la incomparecencia, podrá efectuarse una ulterior citación, en los términos previstos en el artículo segundo.
+> Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444

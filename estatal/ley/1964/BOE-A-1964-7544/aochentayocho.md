@@ -1,3 +1,5 @@
 ## Artículo ochenta y ocho.
 
-Se impondrá la pena inferior en uno o dos grados a la establecida en la presente Ley si los delitos previstos en la misma fueren cometidos por negligencia.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444

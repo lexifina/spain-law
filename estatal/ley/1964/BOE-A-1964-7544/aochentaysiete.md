@@ -1,3 +1,5 @@
 ## Artículo ochenta y siete.
 
-El que descubriere, violara, revelare, sustrajere o utilizare secretos de cualquier clase relacionados con la energía nuclear será castigado con la pena de prisión mayor, salvo que el hecho tuviere señalada pena más grave en otra Ley.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444

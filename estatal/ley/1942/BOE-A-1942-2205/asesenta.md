@@ -1,14 +1,8 @@
 ## Artículo sesenta. Delitos.
 
-Son delitos:
+(Derogado)
 
-a) La tenencia de explosivos con fines de pesca en las proximidades de las masas de aguas continentales o el uso de los mismo para la aprehensión de peces y cangrejos.
-
-b) El envenenamiento de aguas con gordolobo, torvisco, coca, beleño, cloruro, carburo o cualquier otra substancia tóxica.
-
-c) (Anulada)
-
-El reo de cualquiera de estos delitos será castigado con la pena de presidio menor e inhabilitación para obtener licencia de uno a cinco años, retirándose ésta si la tuviere.
+> Se deroga por la disposición derogatoria única.1.e) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444.
 
 > Se declara la inconstitucionalidad y nulidad de la letra c) por Sentencia del TC 53/1994, de 24 de febrero. Ref. BOE-T-1994-6199.
 

@@ -1,3 +1,5 @@
 ## Artículo ochenta y nueve.
 
-Cuando los hechos punibles comprendidos en este capítulo produjeren muerte, lesiones o daños se aplicarán, además, a estos resultados las penas establecidas para los mismos en el Código Penal.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444

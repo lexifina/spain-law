@@ -1,3 +1,5 @@
 ## Artículo ochenta y cinco.
 
-El que intencionadamente expusiere a una o varias personas a radiaciones ionizantes que pongan en peligro su vida, salud o bienes, será sancionado con la pena de reclusión menor.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444
