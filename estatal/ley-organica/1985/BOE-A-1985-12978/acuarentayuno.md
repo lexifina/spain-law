@@ -17,3 +17,5 @@ f) El Secretario del Centro, que actuará de Secretario del Consejo, con voz y s
 2. Reglamentariamente se determinará tanto el número total de componentes del Consejo como la proporción interna de la representación de padres y alumnos, así como la distribución de los restantes puestos, si los hubiere, entre Profesores, padres de alumnos, alumnos y personal de administración y servicios.
 
 3. En los Centros preescolares, en los de Educación General Básica con menos de ocho unidades, en los que atiendan necesidades educativas de diversos municipios, en las unidades o Centros de educación permanente de adultos y de Educación Especial, así como aquellas unidades o Centros de características singulares, la Administración educativa competente adaptará lo dispuesto en este artículo a la singularidad de los mismos.
+
+> Se modifica el apartado 1.f) en cuanto se oponga por la disposición final 4.3 de la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172

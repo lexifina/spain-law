@@ -1,1 +1,1 @@
-> Incluye la correccion de errores publicada en BOE núm. 251, de 19 de octubre de 1985. Ref. BOE-A-1985-21594
+Las referencias a los actuales niveles educativos se entienden sustituidas por las denominaciones que, para los distintos niveles y etapas educativas y para los respectivos centros, se contienen en la Ley Orgánica 1/1990, de 3 de octubre, según establece su disposición adicional 5. Ref. BOE-A-1990-24172
