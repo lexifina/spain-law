@@ -30,7 +30,9 @@ d) Por el exceso comprendido entre 10.000. 001 y 25.000.000 de pesetas: 1 por mi
 
 e) Por el exceso comprendido entre 25.000.001 y 100.000.000 de pesetas: 0,5 por mil.
 
-f) Por lo que excede de 100.000.000 de pesetas: 0,3 por mil.
+f) Por lo que excede de 100.000.000 de pesetas hasta 1.000.000.000 de pesetas: 0,3 por 1.000.
+
+Por lo que excede de 1.000.000.001 pesetas el Notario percibirá la cantidad que libremente acuerde con las partes otorgantes.
 
 2. Los derechos establecidos en el apartado 1, se reducirán en un 25 por 100 en los préstamos y créditos personales o con garantía hipotecaria.
 
@@ -111,5 +113,7 @@ Se aplicarán, además, a las actuaciones que pudieran originarse los números 4
 Número 7. Folios de matriz.–Los folios de matriz, a partir del quinto folio inclusive, devengarán 500 pesetas por cara escrita.
 
 En los casos de subrogación y novación modificativa de préstamos hipotecarios acogidas a la Ley 2/1994, de 30 de marzo, sobre Subrogación y Modificación de Préstamos Hipotecarios, los folios de la matriz no devengarán cantidad alguna hasta el décimo folio inclusive.
+
+> Se modifica el apartado 2.1.f) por el art. 35.2 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836.
 
 > Se añade el apartado 2.2.f) y el párrafo segundo al apartado 7 por el art. 1 del Real Decreto 2616/1996, de 20 de diciembre. Ref. BOE-A-1996-28544.

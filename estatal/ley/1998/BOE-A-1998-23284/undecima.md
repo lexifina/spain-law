@@ -114,7 +114,11 @@ Asimismo, informará semestralmente al Ministerio de Industria y Energía sobre 
 
 Segunda: resolver los conflictos que le sean planteados en relación con la gestión económica y técnica del sistema y el transporte.
 
-3. En relación con el sector gasista, corresponderá a la Comisión, además de las funciones a que se refiere el apartado 1 anterior, la resolución de los conflictos que le sean planteados en relación con la gestión del sistema.
+3. En relación con el sector gasista, corresponderá a la Comisión, además de las funciones a que se refiere el apartado 1 anterior, las siguientes:
+
+Efectuar las propuestas de liquidación correspondientes a los ingresos obtenidos por tarifas y peajes relativos al uso de las instalaciones de la Red Básica, transporte secundario y distribución a que hace referencia el artículo 96, que elevará a la Dirección General de Política Energética y Minas para su aprobación.
+
+Resolver los conflictos que le sean planteados en relación con la gestión técnica del sistema de gas natural.
 
 4. La Comisión Nacional de Energía podrá recabar de los sujetos que actúan en los mercados energéticos cuanta información requiera en el ejercicio de sus funciones. Para ello, la Comisión dictará circulares, que deberán ser publicadas en el «Boletín Oficial del Estado», en las cuales se expondrá de forma detallada y concreta el contenido de la información que se vaya a solicitar, especificando de manera justificada la función para cuyo desarrollo es precisa tal información y el uso que pretende hacerse de la misma.
 
@@ -131,6 +135,8 @@ Asimismo, la Comisión Nacional de Energía tendrá acceso a los registros regul
 5. Contra las resoluciones adoptadas por la Comisión Nacional de Energía en el ejercicio de las funciones a que se refieren los números1 y 2 del presente apartado, y contra sus actos de trámite en las mismas materias que determinen la imposibilidad de continuar el procedimiento o produzcan indefensión, podrá interponerse recurso ordinario ante el Ministro de Industria y Energía.
 
 Se exceptúan de lo dispuesto en el párrafo anterior las resoluciones que se dicten en el ejercicio de la función segunda del número 2 del presente apartado y de las circulares que se refieran a materia de información, que pondrán fin a la vía administrativa.
+
+> Se modifica el apartado 3.3 por el art. 9 del Real Decreto 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
 
 > Se modifican los apartados 1.4 y 2 por el art. 71.1 y 2 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
 

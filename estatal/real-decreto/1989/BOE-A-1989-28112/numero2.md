@@ -14,6 +14,8 @@ e) Por el exceso comprendido entre 25.000.001 y 100.000.000 de pesetas: 0,30 por
 
 f) Por el valor que exceda de 100.000.001 pesetas: 0,20 por 1.000.
 
+En todo caso, el arancel global aplicable regulado en este número no podrá superar las 363.000 pesetas.
+
 2. Los derechos a que se refiere este número del arancel se reducirán al 75 por 100 de su impone en los préstamos con garantía hipotecada y al 70 por 100 en los siguientes casos:
 
 a) En las agrupaciones, segregaciones y divisiones de fincas. En las agrupaciones y agregaciones se tomará como base el valor de la finca resultante; en las segregaciones, el valor de la finca segregada, y en las divisiones, el valor de cada una de las fincas resultantes.
@@ -55,5 +57,7 @@ No obstante, cuando los estatutos o reglas especiales del régimen de propiedad 
 9. La desafectación de un elemento común devengará los derechos que correspondan por segregación o individualización como finca independiente sin considerar la repercusión que produzca en las demás cuotas.
 
 10. En las inscripciones de obras públicas en que haya de practicarse inscripción principal y otras de referencia, se cobrarán por aquélla los derechos correspondientes según las escalas del número 2 del Arancel, y por cada una de las otras 1.000 pesetas.
+
+> Se modifica la letra f) del apartado 1 por el art. 36.2 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836.
 
 > Se añade la letra c) al apartado 4 por el art. 2 del Real Decreto 2616/1996, de 20 de diciembre. Ref. BOE-A-1996-28544.
