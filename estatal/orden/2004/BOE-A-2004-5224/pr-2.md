@@ -1,0 +1,3 @@
+## Primero.
+
+Se delega en el Subsecretario de Asuntos Exteriores la competencia para resolver los procedimientos de arrendamiento de bienes inmuebles y de prórroga, novación, y resolución anticipada de estos contratos y autorización del cambio de órgano u organismo ocupante a que hace referencia el artículo 122.1 de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, cuando estos procedimientos se refieran a bienes inmuebles sitos en el extranjero, su ocupante o usuario sea un órgano de la Administración del Estado en el exterior dependiente orgánica y funcionalmente del Ministerio de Asuntos Exteriores o personal de este Departamento, y la renta anual sea 500.000 euros o superior.
