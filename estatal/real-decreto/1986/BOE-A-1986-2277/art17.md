@@ -1,5 +1,5 @@
 ## Art. 17.
 
-1. Corresponde a la Comunidad Autónoma en la que esté ubicado el bien declarado de interés cultural incoar, de oficio o a instancia del titular de un interés legítimo y directo, el expediente para dejar sin efecto la declaración, con excepción de lo previsto en el apartado siguiente.
+La incoación del expediente para dejar sin efecto la declaración de interés cultural de un determinado bien se efectuará de oficio o a solicitud del titular de un interés legítimo y directo, y se notificará y publicará en los términos previstos en el artículo 12.2 de este Real Decreto.
 
-2. Corresponde al Ministerio de Cultura incoar de oficio o a instancia del titular de un interés legítimo y directo, estos expedientes respecto a los Bienes de Interés Cultural que estén adscritos a servicios públicos gestinados por la Administración del Estado o que formen parte del Patrimonio Nacional.
+> Se modifica por el art. 2.7 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733

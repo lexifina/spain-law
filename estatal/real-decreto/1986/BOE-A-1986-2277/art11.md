@@ -1,9 +1,7 @@
 ## Art. 11.
 
-1. Corresponde a cada Comunidad Autónoma incoar, de oficio o a instancia de cualquier persona, los expedientes para declarar de interés cultural los bienes de titularidad pública o privada que se encuentren en su ámbito territorial, sin perjuicio de lo dispuesto en el apartado siguiente.
+1. De acuerdo con lo previsto en el artículo 6.b) de la Ley 16/1985, corresponde al Ministerio de Cultura tramitar los expedientes para declarar de interés cultural los bienes integrantes del Patrimonio Histórico Español adscritos a servicios públicos gestionados por la Administración General del Estado o que formen parte del Patrimonio Nacional. Su tramitación por dicho Ministerio se efectuará de acuerdo con las normas establecidas en este capítulo.
 
-2. Corresponde al Ministerio de Cultura incoar, de oficio o a instancia de cualquier persona, los expedientes para declarar de interés cultural los bienes integrantes del Patrimonio Histórico Español adscritos a servicios públicos gestionados por la Administración del Estado o que formen parte del Patrimonio Nacional.
+2. Corresponde a las comunidades autónomas la declaración de interés cultural de los restantes bienes del Patrimonio Histórico Español, cuya tramitación se regirá por su propia normativa.
 
-El Ministerio de Cultura también incoará estos expedientes sobre bienes de titularidad pública o privada si hubiera requerido a la correspondiente Comunidad Autónoma dicha incoación a los efectos previstos en el artículo 4 de la Ley 16/1985 y este requerimiento hubiera sido desatendido.
-
-El requerimiento se entenderá desatendido si en el mes siguiente de haber sido efectuado la Comunidad Autónoma no incoa el expediente o no adopta otra medida de protección suficiente para evitar el peligro de pérdida o destrucción de todos o alguno de los valores de los bienes objeto del requerimiento o la perturbación de su función social.
+> Se modifica por el art. 2.1 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733

@@ -5,3 +5,7 @@
 2. En el caso de subastas publicas no será preceptivo el dictamen de la Junta de Calificación, Valoración y Exportación, y la Administración del Estado podrá ejercer el derecho de tanteo mediante la comparecencia de un representante del Ministerio de Cultura en la subasta, el cual, en el momento en que se determine el precio de remate del bien subastado, manifestará el propósito de hacer uso de tal derecho, quedando en suspenso la adjudicación del bien. En un plazo de siete días hábiles, a partir de la celebración de la subasta, se comunicará al subastador el ejercicio del derecho de tanteo.
 
 3. En todo caso, la Orden por la que se acuerda ejercitar el derecho de tanteo se publicará en el «Boletín Oficial del Estado», sin perjuicio de su eficacia desde la comunicación.
+
+4. Lo dispuesto en el apartado 1 se aplicará en los términos del artículo 38.4 de la Ley 16/1985.
+
+> Se añade el apartado 4 por el art. 3.2 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733

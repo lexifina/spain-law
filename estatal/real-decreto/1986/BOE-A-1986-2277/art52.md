@@ -9,3 +9,7 @@ b) En relación con el bien objeto de la exportación temporal, su código de id
 c) Finalidad y duración de la exportación cuyo permiso se solicita.
 
 2. Cuando el bien no esté declarado de interés cultural ni incluido en el Inventario General se unirá a la solicitud la documentación exigida en el artículo 46.2.
+
+3. En los supuestos de bienes de titularidad pública se adjuntará un informe detallado del responsable del centro o persona autorizada sobre las circunstancias que aconsejan la salida del bien, sus características, estado de conservación y medidas de seguridad adaptadas.
+
+> Se añade el apartado 3 por el art. 3.8 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733

@@ -16,6 +16,8 @@ b) Redactar las actas y expedir las certificaciones relativas a las sesiones del
 
 El Presidente del Consejo designará al Secretario de entre los Subdirectores Generales del Ministerio de Cultura.
 
-6. El funcionamiento y régimen de acuerdos del Consejo se ajustará a lo establecido en el capitulo segundo del título I de la Ley de Procedimiento Administrativo.
+6. El funcionamiento y régimen de acuerdos del Consejo se ajustará a lo establecido en el capítulo II del Título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-No obstante, los acuerdos sobre asuntos comprendidos en los apartados b), d) y e) del artículo 3.º y en el número 4 del artículo 58 de este Real Decreto, sólo se considerarán válidamente adoptados si el Presidente del Consejo vota con la mayoría.
+No obstante, los acuerdos sobre asuntos comprendidos en los párrafos b), d) y e) del artículo 3 y en el apartado cuatro del artículo 58 de este Real Decreto, sólo se consideran válidamente adoptados si el Presidente del Consejo vota con la mayoría.
+
+> Se modifica el apartado 6 por el art. 1.2 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733

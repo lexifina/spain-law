@@ -1,3 +1,5 @@
 ## Disposición adicional quinta.
 
-Previo acuerdo de las Administraciones interesadas, el Consejo del Patrimonio Histórico podrá asumir las funciones de cooperación en la conservación y restauración de los bienes integrantes del Patrimonio Histórico Español a que se refiere el párrafo c) del apartado D) del anexo I de los Reales Decretos 3031/1983; 3039/1983; 3040/1983; 3065/1983; 3066/1983; 3149/1983; 3296/1983; 3355/1983; 3547/1983; el párrafo b) del apartado D) del anexo I de los Reales Decretos 3019/1983 y 864/1984; y el párrafo e) del apartado D) del anexo I de los Reales Decretos 3023/1983 y 680/1985.
+(Suprimida)
+
+> Se suprime por el art. 5.3 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733

@@ -1,7 +1,7 @@
 ## Art. 29.
 
-1. La incoación del expediente se notificará, en todo caso, a los interesados y se comunicará al Inventario General para su anotación preventiva. Esta comunicación deberá contener una descripción suficiente del bien para su identificación.
+1. La inclusión en el Inventario general corresponde al Ministerio de Cultura si se trata de bienes adscritos a servicios públicos gestionados por la Administración General del Estado o que formen parte del Patrimonio Nacional. Los expedientes tramitados por el Ministerio de Cultura se ajustarán a las normas contenidas en este capítulo.
 
-2. El expediente se tramitará siguiendo las normas generales de procedimiento administrativo.
+2. Corresponde a las Comunidades Autónomas la inclusión de bienes en el Inventario general en los restantes casos, cuya tramitación se regirá por su propia normativa.
 
-3. La incoación del expediente determinará a los efectos de exportación, la aplicación provisional del régimen de protección previsto para los bienes incluidos en el Inventario General.
+> Se modifica por el art. 2.16 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733

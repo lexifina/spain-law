@@ -1,9 +1,7 @@
 ## Art. 14.
 
-1. Instruido el expediente por la correspondiente Comunidad Autónoma, el órgano competente de ésta adoptará el acuerdo sobre la procedencia de la declaración que notificará a los interesados.
+1. En los supuestos previstos en el artículo 6.b) de la Ley 16/1985, la declaración de bien de interés cultural se efectuará por Real Decreto a propuesta del Ministro de Cultura.
 
-2. Cuando la Comunidad Autónoma considere que procede declarar de interés cultural un determinado bien, por estimar que reúne los valores necesarios para gozar de esta protección, instará del Gobierno dicha declaración. A tal efecto, comunicará al Ministerio de Cultura que se han cumplimentado los trámites preceptivos en la incoación e instrucción del expediente, y acompañará un extracto de éste en el que consten los datos necesarios para la declaración y los documentos gráficos que se señalan en el anexo número 1.
+2. El Real Decreto por el que se declara un bien de interés cultural deberá describirlo claramente para su identificación y en su caso contendrá las especificaciones a que se refieren los artículos 11.2 y 27 de la Ley 16/1985.
 
-3. La documentación que antecede deberá remitirse dentro de los quince meses siguientes a la incoación del expediente.
-
-4. Si el expediente hubiera sido incoado por la Comunidad Autónoma a requerimiento del Ministerio de Cultura y no se hubiera remitido la documentación en el plazo previsto en el número anterior, dicho Departamento podrá requerir a aquélla para que lo haga dentro del mes siguiente y, en caso de incumplimiento, la sustituirá en la tramitación del expediente.
+> Se modifica por el art. 2.4 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733

@@ -12,4 +12,6 @@ En los casos de los Impuestos sobre la Renta y sobre el Patrimonio, dicha manife
 
 5. A efectos de contabilización del ingreso de las deudas tributarias señaladas en este artículo cuyo pago se efectúe mediante entrega de bienes integrantes del Patrimonio Histórico Español, se habilitará por el Ministerio de Economía y Hacienda, Dirección General del Patrimonio, los créditos presupuestarios necesarios para efectuar el pago de formalización y cancelar las correspondientes deudas.
 
-6. Las referencias de este artículo a los Ministerios de Economía y Hacienda y de Cultura, se entenderán efectuadas a los correspondientes órganos de las Comunidades Autónomas cuando se trate de tributos que les hayan sido cedidos.
+6. Las referencias de este artículo a órganos de la Administración General del Estado se entenderán efectuadas a los correspondientes órganos de las Comunidades Autónomas cuando se trate de tributos que les hayan sido cedidos.
+
+> Se modifica el apartado 6 por el art. 4 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733

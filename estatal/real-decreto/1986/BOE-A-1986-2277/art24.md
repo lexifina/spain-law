@@ -16,4 +16,8 @@ c) Los anticipos reintegrables previstos en el artículo 36.3 de la Ley 16/1985,
 
 5. El Inventario General sólo da fe de los actos consignados a los efectos previstos en la Ley 16/1985.
 
+6. Las Comunidades Autónomas colaborarán con el inventario general a los efectos previstos en este artículo.
+
+> Se añade el apartado 6 por el art. 2.13 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733
+
 > Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 53, de 3 de marzo de 1986. Ref. BOE-A-1986-5528

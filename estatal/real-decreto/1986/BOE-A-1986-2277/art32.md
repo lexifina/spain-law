@@ -1,9 +1,7 @@
 ## Art. 32.
 
-1. Corresponde al Ministerio de Cultura resolver la exclusión de los bienes muebles del Inventario General.
+1. El Ministerio de Cultura comunicará a los interesados la resolución adoptada.
 
-2. Cuando el expediente haya sido instruido por una Comunidad Autónoma, el órgano competente de ésta remitirá la propuesta motivada de exclusión al Ministerio de Cultura en la que hará constar la observancia de lo preceptuado en la tramitación del expediente.
+2. La exclusión de un bien del Inventario general cancelará su inscripción en éste.
 
-3. La Administración que ha instruido el expediente comunicará a los interesados la exclusión de un determinado bien mueble del Inventario General.
-
-4. La exclusión de un bien del Inventario General cancelará su inscripción en el mismo.
+> Se modifica por el art. 2.19 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733

@@ -1,11 +1,5 @@
 ## Disposición final segunda.
 
-Los órganos colegiados a que se refiere el artículo 10 se denominarán en adelante:
+(Suprimida)
 
-a) El Consejo Asesor de Monumentos y Conjuntos Histórico-Artísticos, Junta Superior de Monumentos y Conjuntos Históricos.
-
-b) La Junta Asesora de Archivos, Junta Superior de Archivos.
-
-c) La Junta Asesora de Bibliotecas, Junta Superior de Bibliotecas.
-
-d) La Comisión Nacional para la Conservación del Arte Rupestre, Junta Superior del Arte Rupestre.
+> Se suprime por el art. 5.6 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733

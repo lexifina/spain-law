@@ -1,11 +1,11 @@
 ## Art. 30.
 
-1. Corresponde al Ministerio de Cultura resolver la inclusión de bienes muebles en el Inventario General.
+1. La incoación del expediente se efectuará de oficio o a solicitud de los interesados.
 
-2. Cuando el expediente haya sido instruido por una Comunidad Autónoma y el órgano competente de ésta acuerde la inclusión del bien en el Inventario General, notificará a los interesados este acuerdo y dará traslado del mismo al Ministerio de Cultura haciendo constar el cumplimiento de lo preceptuado en la tramitación del expediente y acompañará un extracto de éste en el que se reflejen los datos, junto con los documentos gráficos que se reseñan en el anexo número 1.
+2. Dicha incoación se notificará en todo caso a los interesados, procediéndose a su anotación preventiva en el Inventario general. Esta anotación deberá contener una descripción suficiente del bien para su identificación.
 
-3. Transcurridos tres meses desde la entrada en el Ministerio de Cultura de la documentación señalada en el apartado anterior sin recaer resolución expresa, se entenderá que el bien ha sido incluido en el Inventario General.
+3. El expediente se tramitará siguiendo las normas generales de procedimiento administrativo y las particulares del presente capítulo.
 
-4. No obstante lo dispuesto en este artículo, transcurrido un año desde la fecha de la anotación preventiva en el Inventario General a que se refiere el artículo 29.1 de este Real Decreto, el Ministerio de Cultura podrá recabar de las Comunidades Autónomas información sobre la terminación de los expedientes incoados. Si estos expedientes no estuvieran resueltos, dicho Departamento podrá requerir a la Comunidad Autónoma correspondiente para que resuelva dentro del mes siguiente y, en caso de incumplimiento o cuando aquélla no pueda resolver por haber sido trasladado el bien fuera de su ámbito territorial, el Ministerio de Cultura podrá sustituirla en la tramitación del expediente.
+4. El Ministerio de Cultura comunicará a los interesados la inclusión del bien mueble en el Inventario general, indicando el código de identificación.
 
-5. La Administración que ha instruido el expediente comunicará a los interesados la inclusión de un determinado bien mueble en el Inventario General.
+> Se modifica por el art. 2.17 del Real Decreto 64/1994, de 21 de enero. Ref. BOE-A-1994-4733
