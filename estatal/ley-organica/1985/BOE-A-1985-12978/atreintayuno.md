@@ -18,8 +18,12 @@ g) La Administración educativa del Estado, cuyos representantes serán designad
 
 h) Las Universidades, cuya participación se formalizará a través del órgano superior de representación de las mismas.
 
-i) Las personalidades de reconocido prestigio en el campo de la educación, de la renovación pedagógica y de las instituciones y organizaciones confesionales y laicas de mayor tradición y dedicación a la enseñanza, designadas por el Ministro de Educación y Ciencia.
+i) Las Entidades locales a través de la asociación de ámbito estatal con mayor implantación.
+
+j) Las personalidades de reconocido prestigio en el campo de la educación, de la renovación pedagógica y de las instituciones y organizaciones confesionales y laicas de mayor tradición y dedicación a la enseñanza, designadas por el Ministro de Educación y Ciencia.
 
 2. El Gobierno, a propuesta del Ministerio de Educación y Ciencia, aprobará las normas que determinen la representación numérica de los miembros del Consejo Escolar del Estado, así como su organización y funcionamiento. La representación de los miembros de la comunidad educativa a que se refieren los apartados a), b), c) y d) de este artículo no podrá ser en ningún caso inferior a un tercio del total de los componentes de este Consejo.
+
+> Se reordena la letra i) como j) y se añade una letra i) al apartado 1 por el art. 1 de la Ley Orgánica 10/1999, de 21 de abril. Ref. BOE-A-1999-8930
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 251, de 19 de octubre de 1985. Ref. BOE-A-1985-21594
