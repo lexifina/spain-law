@@ -1,0 +1,5 @@
+## Art. 2.º
+
+1. La administración y gestión del Sistema Nacional corresponde al Banco de España, quien asimismo estará facultado para dictar sus normas de funcionamiento, con sujeción, en todo caso, a lo dispuesto en el presente Real Decreto y normas que lo desarrollen.
+
+2. En el desempeño de las funciones mencionadas en el número anterior, el Banco de España actuará con el asesoramiento de una Comisión presidida por un representante del mismo, designado por su Consejo Ejecutivo, y constituida por cuatro representantes designados por el Consejo Superior Bancario, un representante designado por el Instituto de Crédito Oficial, dos representantes designados por la Confederación Española de Cajas de Ahorro y un representante designado por la Caja Postal de Ahorros. En el caso de que el volumen de documentos, medios de pago o transmisiones de fondos presentados al sistema por las Cooperativas de crédito llegue a superar el 2 por 100 del total, podrá formar parte de la mencionada Comisión un representante de las mismas designado en la forma que se determine en las normas de desarrollo de este Real Decreto.
