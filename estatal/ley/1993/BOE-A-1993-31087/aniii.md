@@ -25,3 +25,5 @@
 | Ente Público Radio Televisión Española y sus Sociedades Estatales | 80.872.000.000 |
 
 Trimestralmente los organismos a los que se refiere el anexo III presentarán un informe a las Cortes Generales dando cuenta de la utilización de la autorización que en él se contiene.
+
+> Véase el art. 3 del Real Decreto-ley 6/1994, de 27 de mayo, para las Confederaciones Hidrográficas del Guadiana, Guadalquivir, Segura, Sur y Júcar. Ref. BOE-A-1994-12219
