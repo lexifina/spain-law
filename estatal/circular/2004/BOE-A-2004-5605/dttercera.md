@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Informe anual de gobierno corporativo de entidades emisoras de valores cotizados en mercados secundarios oficiales españoles, cuyos derechos de votos corresponden en su totalidad, directa o indirectamente, a una Caja de Ahorros.
+
+Las obligaciones derivadas de los artículos quinto y sexto de la presente Circular no serán de aplicación a las entidades emisoras de valores cotizados en un mercado secundario español cuyos derechos de voto correspondan en su totalidad, directa o indirectamente, a una Caja de Ahorros hasta que, de conformidad con la disposición transitoria de la Orden ECO/354/2004, de 17 de febrero, estas entidades deban hacer público y comunicar a la CNMV su primer informe de gobierno corporativo.
