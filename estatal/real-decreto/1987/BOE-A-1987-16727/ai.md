@@ -40,6 +40,7 @@
 | 31 | Aramida. | Fibra de macromoléculas lineales sintéticas formadas por grupos aromáticos unidos entre ellos por uniones amida e imida directamente ligadas, en un 85 por 100 como mínimo, a dos núcleos aromáticos y cuyo número de uniones imida, en caso de que existan, no puede exceder al de uniones amida. |
 | 32 | Poliimida. | Fibra de macromoléculas lineales sintéticas que tiene en la cadena grupos funcionales imida recurrentes. |
 | 33 | Lyocell (2). | Fibra de celulosa regenerada obtenida por un método de disolución y de hilado en disolvente orgánico, sin formación de derivados. |
+| 33.a) | Polilactida | Fibra formada por macromoléculas lineales que presentan en su cadena al menos un 85% (en masa) de ésteres de ácido láctico derivados de azúcares naturales, con una temperatura de fusión de un mínimo de 135 ºC. |
 | 34 | Poliéster. | Fibra formada por macromoléculas lineales que presenta en la cadena al menos el 85 por 100 en masa de un éster de diol y de ácido tereftálico. |
 | 35 | Polietileno. | Fibra formada de macromoléculas lineales saturadas de hidrocarburos alifáticos, no sustituidos. |
 | 36 | Polipropileno. | Fibra formada de macromoléculas lineales saturadas de hidrocarburos alifáticos, en los que uno de cada dos carbonos lleva una ramificación metilo, en disposición isotáctica, y sin sustituciones ulteriores. |
@@ -55,6 +56,8 @@
 (1) La denominación "lana" que figura en el número 1 de este anexo podrá también utilizarse para indicar una mezcla de fibras procedentes del vellón de cordero u oveja y de los pelos indicados en la tercera columna, número 2. Esta disposición se aplicará a los productos textiles enumerados en los artículos 4 y 5, así como a los mencionados en el artículo 6, siempre que estos últimos estén compuestos en parte por las fibras indicadas en los números 1 y 2.
 
 (2) Por "disolvente orgánico" se entiende fundamentalmente una mezcla de productos químicos orgánicos y de agua.
+
+> Se añade la fila 33.a) por el art único.1 del Real Decreto 2322/2004, de 17 de diciembre. Ref. BOE-A-2004-21769.
 
 > Se modifica por el art. único del Real Decreto 1748/1998, de 31 de julio. Ref. BOE-A-1998-20602.
 
