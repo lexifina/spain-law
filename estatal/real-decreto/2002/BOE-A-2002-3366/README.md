@@ -23,6 +23,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final única](dfunica.md)
+- [Disposición final primera](dfprimera.md)
+- [Disposición final segunda](dfsegunda.md)
 - [firma](firma.md)
 - [ANEXO I](ani.md)
 - [ANEXO II](anii.md)

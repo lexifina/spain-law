@@ -153,7 +153,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-459 (2) | Quantum Satis |
 | 1.1 Alimentos desecadas en polvo | E-338 a E-341 E-343 E-450 a E-452 | 10 g/Kg Sólos o en combinación |
 |  | E-551 a E-556 E-559 | 10 g/Kg Solos o en combinación |
-| Notas: (1) Excluidas las bebidas, salvo licores. (2) Sólo para alimentos en tabletas y en forma de grageas. (3) No podrán utilizarse para productos alimenticios deshidratados que se rehidratan al ingerirlos. |
+| Notas: (1) Excluidas las bebidas, salvo licores. (2) Sólo para alimentos en tabletas y en forma de grageas. (3) No podrán utilizarse para productos alimenticios deshidratados que se rehidraten al ingerirlos, ni en los artículos de confitería a base de gelatina, incluidas las minicápsulas de gelatina. |
 | ACEITES Y GRASAS |  |  |
 | 1. Aceites y grasas para freír | E-900 | 10 mg/Kg |
 | 2. Margarina | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
@@ -544,3 +544,5 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | Mostarda di fruta | E-481 y E-482 | 2 g/Kg Sólos o en combinación |
 | Sod... Saft | E-900 | 10 mg/l |
 | Made wine | E-353 | 100 mg/l |
+
+> Se modifica la nota 3 del apartado 1 por el art. único.2 del Real Decreto 257/2004, de 13 de febrero. Ref. BOE-A-2004-2756.
