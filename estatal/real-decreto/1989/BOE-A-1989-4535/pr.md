@@ -1,0 +1,13 @@
+Por Real Decreto 825/1988, se regulan los fines del interés social a que ha de destinarse la asignación tributaria del Impuesto sobre la Renta de las Personas Físicas, en cuanto a la parte no atribuida a la Iglesia Católica, señalando el artículo tercero de este Real Decreto que el Gobierno establecerá los requisitos que deben cumplir las Organizaciones o Entidades sociales para solicitar ayudas económicas y subvenciones destinadas a cumplir aquellos fines, así como el procedimiento para la obtención de las mismas, mediante Real Decreto.
+
+La aplicación de un determinado porcentaje de los ingresos presupuestarios del Estado procedentes de la asignación tributaria del Impuesto sobre la Renta de las Personas Físicas a fines de interés social, contenida en la Ley de Presupuestos Generales del Estado para 1988, comporta una importante innovación en cuanto supone abrir un cauce de participación social en la aplicación de parte de los créditos presupuestarios, por lo que se considera necesario el establecimiento de unos requisitos y procedimientos de general aplicación que permitan el conocimiento por parte de los contribuyentes del destino que se dan a sus impuestos.
+
+Por otra parte, el artículo 81 del Real Decreto Legislativo 1091/1988, de 23 de septiembre, por el que se aprueba el Texto Refundido de la Ley General Presupuestaria, establece que las ayudas y subvenciones que se concedan con cargo a los Presupuestos Generales del Estado lo serán con arreglo a criterios de publicidad, concurrencia y objetividad en la concesión, criterios que se respetan en el presente Real Decreto al establecer la publicación de las convocatorias y de las correspondientes Resoluciones en el «Boletín Oficial del Estado», disponiendo asimismo que éstas últimas se efectuarán a propuesta de una comisión establecida al efecto en cada convocatoria.
+
+Asimismo, a fin de facilitar al máximo la participación de todas las Organizaciones y Entidades en la realización de actividades de cooperación social, se estima necesario proceder a la simplificación de los trámites y supresión de requisitos que no se consideren imprescindibles, por lo que se considera oportuno proceder a la supresión del Registro de Entidades que desarrolla actividades de acción social.
+
+Finalmente, debe significarse que las ayudas y subvenciones pueden concederse a Organizaciones no gubernamentales y Entidades sociales de ámbito estatal o que realicen actividades de cooperación en el ámbito internacional en favor de la población necesitada de los países en vías de desarrollo.
+
+En su virtud, a propuesta conjunta de los Ministros de Asuntos Exteriores y Asuntos Sociales y previa deliberación del Consejo de Ministros en su reunión de 17 de febrero de 1989,
+
+DISPONGO:
