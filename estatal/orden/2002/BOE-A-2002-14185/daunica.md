@@ -1,3 +1,5 @@
 ## Disposición adicional única. Desinsectación.
 
-Será de aplicación a los medios utilizados para el transporte de los animales a que se refiere esta Orden, lo dispuesto en la Orden de 8 de junio de 2001 por la que se establecen medidas específicas de prevención en relación con la fiebre catarral ovina o lengua azul.
+(Derogada)
+
+> Se deroga por el art. 2 de la Orden APA/2950/2002, de 20 de noviembre. Ref. BOE-A-2002-22730.
