@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+En relación con lo dispuesto en el artículo 5.º del presente Real Decreto, podrán también efectuarse cobros y pagos entre residentes y no residentes a través de aquellas otras Entidades de crédito y financieras inscritas en los Registros Oficiales correspondientes del Banco de España o de la Comisión Nacional del Mercado de Valores, siempre que tengan legalmente reconocida dicha posibilidad y, en todo caso, en el ámbito operativo propio de cada una de ellas. Tales Entidades quedarán asimismo sujetas a la obligación señalada en el artículo 9.º del presente Real Decreto.

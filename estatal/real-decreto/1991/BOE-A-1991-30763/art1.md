@@ -1,0 +1,5 @@
+## Artículo 1.
+
+1. Son libres los actos, negocios, transacciones y operaciones de toda índole que supongan, o de cuyo cumplimiento se deriven o puedan derivarse, cobros o pagos entre residentes y no residentes, o transferencias al o del exterior, a que se refieren los artículos 1 y 2 de la Ley 40/1979, de 10 de diciembre, sobre Régimen Jurídico de Control de Cambios, sin más excepciones que las que se deriven de la aplicación de lo dispuesto en los artículos 3.º 4.º y 5.º del presente Real Decreto y de lo que dispongan las Leyes específicamente aplicables.
+
+2. La liberalización de los actos, negocios, transacciones y operaciones a que se refiere el párrafo anterior se extiende asimismo a los cobros y pagos exteriores, efectuados bien directamente, bien por compensación y a las transferencias del o al exterior derivados de los mismos, así como a la importación o exportación de los instrumentos de giro o crédito utilizados, sin perjuicio de las medidas indispensables de control que pudieran establecerse para impedir las infracciones al ordenamiento jurídico vigente.
