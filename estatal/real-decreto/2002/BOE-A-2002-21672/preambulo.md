@@ -1,0 +1,13 @@
+Los «diplomas de español como lengua extranjera», acreditativos del conocimiento del idioma español, fueron creados por el Real Decreto 826/1988, de 20 de julio, modificado y completado por el Real Decreto 1/1992, de 10 de enero, en el marco de las diversas acciones promovidas con las finalidades de difundir el español e incrementar la presencia de nuestra cultura en el exterior.
+
+La experiencia acumulada durante estos años hace aconsejable la adopción de medidas que sitúen los diplomas en el nuevo contexto del español y que otorguen mayor agilidad en la gestión -tanto en la verificación de los conocimientos como en la obtención y expedición de los diplomas- a fin de poder responder a las necesidades de los candidatos y que amplíen la difusión y el reconocimiento público de los diplomas.
+
+El Instituto Cervantes, creado por Ley 7/1991, de 21 de marzo, como Organismo público con personalidad jurídica propia que ajusta sus actividades al ordenamiento jurídico privado, y uno de cuyos fines esenciales es la promoción universal de la enseñanza, el estudio y el uso del español, es la entidad idónea para favorecer y potenciar el reconocimiento internacional de los diplomas y dotar al proceso de preparación y realización de las pruebas y entrega de los diplomas de la agilidad necesaria. En este sentido, como quiera que el artículo 2 de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, excluye de su ámbito de aplicación la contraprestación por las actividades que realicen y los servicios que presten las Entidades u Organismos públicos que actúen según normas de derecho privado, se agilizará la gestión económica de los diplomas.
+
+Cabe destacar, además, que el Consejo de Administración del Instituto Cervantes está integrado, entre otros, por representantes de los Ministerios de Asuntos Exteriores y de Educación, Cultura y Deporte. En consecuencia, estos Ministerios van a continuar teniendo, a través del Consejo de Administración del Instituto, una participación activa en la dirección y supervisión de los diplomas.
+
+Por ello, mediante el presente Real Decreto se atribuyen al Instituto Cervantes las competencias relativas a la dirección académica, administrativa y económica de los diplomas, que serán expedidos, en nombre del Ministro de Educación, Cultura y Deporte, por el Director del citado Organismo público.
+
+En su virtud, a iniciativa de los Ministros de Asuntos Exteriores y de Educación, Cultura y Deporte y a propuesta conjunta de los Ministros de Hacienda y de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 31 de octubre de 2002,
+
+## D I S P O N G O :
