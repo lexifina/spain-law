@@ -98,23 +98,31 @@ b) Cada sublote debe ser objeto de un muestreo separado.
 
 c) Número de muestras elementales: 100. En el caso de los lotes < 15 toneladas, el número de muestras elementales que deben tomarse depende del peso del lote, con un mínimo de 10 y un máximo de 100, según se recoge en el apartado 4 c) del presente anexo.
 
-d) Peso de la muestra global: 10-30 kg, dependiendo del tamaño del lote, groseramente mezclada, dividida en tres submuestras iguales antes de triturar. Esta división en tres submuestras no es necesaria en el caso de cacahuetes, de frutos de cáscara y de frutos desecados, destinados a someterse a un tratamiento de selección o a otros tratamientos físicos y de la disponibilidad del equipo que pueda homogeneizar una muestra de 30 kg.
-
-Las muestras globales < 10 kg no deben dividirse en submuestras.
-
-En el caso de las especias, el peso de la muestra global no superará los 10 kg y, por lo tanto, no será necesaria una división en submuestras.
+d) La muestra global, de un peso de 30 kg, deberá mezclarse y dividirse en tres submuestras iguales de 10 kg antes de la trituración (esta división en tres submuestras no es necesaria en caso de cacahuetes, de frutos de cáscara, de frutos desecados y de maíz destinados a someterse a un tratamiento de selección o a otros tratamientos físicos, y de disponibilidad del equipo que pueda homogeneizar una muestra de 30 kg). Si la muestra global pesa menos de 10 kg no deberá dividirse en tres submuestras. Las muestras globales de especias no pesan más de 10 kg, por lo que no es necesario dividirlas en submuestras.
 
 e) Muestras de laboratorio: tres submuestras o la muestra global, dependiendo del tamaño del lote. Cada submuestra o la muestra global debe triturarse finamente por separado y mezclarse cuidadosamente, con el fin de garantizar una homogeneización completa, de acuerdo con lo regulado en el anexo II.
 
 f) Cuando no sea posible aplicar el método de toma de muestras anteriormente mencionado, sin causar daños económicos considerables (por ejemplo, debido a las formas de envase o a los medios de transporte), podrá aplicarse un método conveniente de toma de muestras, a condición de que el muestreo sea lo más representativo posible y de que el método aplicado esté descrito y sólidamente documentado.
 
-2.º Aceptación de un lote o sublote.
+2.º Aceptación de un lote o sublote:
 
-a) Para los cacahuetes, los frutos de cáscara y los frutos desecados destinados a someterse a un tratamiento de selección o a otros tratamientos físicos y las especias:
+a) Para los cacahuetes, los frutos de cáscara, los frutos desecados y el maíz sometidos a un tratamiento de selección o a otros tratamientos físicos, y las especias:
 
-1.ª Aceptación, si la muestra global o la media de las submuestras se ajusta al límite máximo.
+1.ª Aceptación, si la muestra global o la media de las submuestras se ajusta al límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
 
-2.ª Rechazo, si la muestra global o la media de las submuestras supera el límite máximo.
+2.ª Rechazo, si la muestra global o la media de las submuestras supera, fuera de toda duda razonable, el límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
+
+b) Para los cacahuetes, los frutos de cáscara, los frutos desecados y los cereales destinados al consumo humano directo, y los cereales, con la excepción del maíz, que vayan a ser sometidos a un tratamiento de selección o a otros tratamientos físicos:
+
+1.ª Aceptación, si ninguna de las submuestras supera el límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
+
+2.ª Rechazo, si una o más submuestras superan, fuera de toda duda razonable, el límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
+
+3.ª En caso de muestra global de un peso inferior a 10 kg:
+
+Aceptación, si la muestra global se ajusta al límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
+
+Rechazo, si la muestra global supera, fuera de toda duda razonable, el límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
 
 b) Para los cacahuetes, los frutos de cáscara, los frutos desecados y los cereales destinados al consumo humano directo.
 
@@ -158,9 +166,9 @@ b) Peso de la muestra global: mínimo 0,5 kg o litros.
 
 2.º Aceptación de un lote o sublote.
 
-a) Aceptación, si la muestra se ajusta al límite máximo.
+a) Aceptación, si la muestra global se ajusta al límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
 
-b) Rechazo, si la muestra supera el límite máximo.
+b) Rechazo, si la muestra global supera, fuera de toda duda razonable, el límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
 
 E) Productos derivados y productos alimenticios compuestos de varios ingredientes.
 
@@ -176,9 +184,9 @@ Para los otros productos lácteos, se aplicará un método equivalente de toma d
 
 b) Aceptación de un lote o sublote:
 
-1.ª Aceptación, si la muestra se ajusta al límite máximo.
+1.ª Aceptación, si la muestra global se ajusta al límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
 
-2.ª Rechazo, si la muestra supera el límite máximo.
+2.ª Rechazo, si la muestra global supera, fuera de toda duda razonable, el límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
 
 2.º Otros productos derivados que presenten partículas muy finas, como harina, pasta de higos, pasta de cacahuetes (distribución homogénea de la contaminación por aflatoxinas).
 
@@ -198,9 +206,9 @@ b) Número de muestras necesarias.
 
 c) Aceptación de un lote o sublote:
 
-1.ª Aceptación, si la muestra se ajusta al límite máximo.
+1.ª Aceptación, si la muestra global se ajusta al límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
 
-2.ª Rechazo, si la muestra supera el límite máximo.
+2.ª Rechazo, si la muestra global supera, fuera de toda duda razonable, el límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
 
 F) Otros productos que presenten partículas relativamente gruesas (distribución heterogénea de la contaminación por aflatoxinas).
 
@@ -209,5 +217,7 @@ Método de toma de muestras y aceptación, de acuerdo con lo regulado en los apa
 6. Toma de muestras en la fase de comercio minorista
 
 La toma de muestras en la fase de comercio minorista debería efectuarse, en la medida de lo posible, de acuerdo con las disposiciones sobre toma de muestras anteriormente mencionadas. En caso de que no sea posible, podrán utilizarse otros procedimientos efectivos de toma de muestras en la fase de comercio minorista, siempre que garanticen una representatividad suficiente del lote objeto del muestreo.
+
+> Se modifican los apartados 5.B).1º.d), 5.B).2º, 5.D).2º, 5.E).1ºb) y 5.E).2º.c) por el art. 1 y anexo I de la Orden SCO/2797/2004, de 28 de julio de 2004. Ref. BOE-A-2004-15198.
 
 > Se modifican los apartados 4.b), 5.A), 5.B) y se añade el apartado 6 por el art. único y anexo I de la Orden SCO/0388/2003, de 25 de febrero. Ref. BOE-A-2003-4013.

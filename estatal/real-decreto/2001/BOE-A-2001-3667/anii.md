@@ -75,8 +75,16 @@ C es la tasa de concentración (es decir, 1= 100 g/100 g, 0,001= 1.000 mg/kg).
 
 Se trata de una ecuación general relativa a la precisión considerada independiente del analito o de la matriz y solamente dependiente de la concentración para la mayoría de los métodos corrientes de análisis.
 
-d) Cálculo de la tasa de recuperación: el resultado analítico se registra bajo forma corregida o no, según la recuperación. Hay que indicar la manera de registrar y la tasa de recuperación.
+d) Cálculo del factor de recuperación y expresión de los resultados.
+
+El resultado analítico se expresará en forma corregida o sin corregir en función de la recuperación. Deberá indicarse la forma de expresión y el factor de recuperación.
+
+El resultado analítico corregido en función de la recuperación se utilizará para la conformidad del lote según los apartados 5 B) 2.º, 5 C) 2.º, 5 D) 2.º, 5 E) 1.º b) y 5 E) 2.º c) del anexo I.
+
+El resultado analítico se expresará como X +/U, siendo X el resultado analítico y U la incertidumbre expandida de la medida, utilizando un factor de cobertura de 2, lo que da un nivel de confianza del 95% aproximadamente.
 
 e) Garantía de calidad aplicable a los laboratorios: los laboratorios deben ajustarse a las disposiciones del Real Decreto 1397/1995, de 4 de agosto, por el que se aprueban medidas adicionales sobre el control oficial de los productos alimenticios.
+
+> Se modifica el apartado 4.d) por el art. 1 y anexo II de la Orden SCO/2797/2004, de 28 de julio de 2004. Ref. BOE-A-2004-15198.
 
 > Se modifica el cuadro del apartado 4.c) por el art. único y anexo II de la Orden SCO/0388/2003, de 25 de febrero. Ref. BOE-A-2003-4013.
