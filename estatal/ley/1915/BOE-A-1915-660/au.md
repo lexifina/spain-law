@@ -1,0 +1,11 @@
+## Artículo único.
+
+El Ministro de la Guerra procederá con urgencia a crear Bancos de prueba de armas portátiles de fuego y sus municiones, como existen en el extranjero, y que serán dirigidos por los Jefes y Oficiales de Artillería que se designen, y tendrán el fin de garantizar la seguridad en el uso de dichas armas y mantener el crédito de sus fabricantes.
+
+Los Bancos se crearán en Eibar y Oviedo para los fabricantes de la región de las Provincias Vascongadas el primero y de la de Santander y Asturias el segundo, sin perjuicio de quedar autorizado el Ministro para instituir esos Bancos en otras regiones y sobre las bases que esta ley contiene, que serán las siguientes:
+
+1.ª Los fabricantes de la región en que se establezcan los mencionados Bancos se comprometerán a instalarlos por su cuenta y a sostener todos los gastos que origine su funcionamiento, tanto de personal como de material, sin que se graven en nada los presupuestos del Estado, de las Provincias y de los Municipios, y a estos efectos, el Ministro concertará con los fabricantes de cada región el presupuesto de su Banco y los medios de satisfacerlo, y señalará el personal que ha de dirigirlo e inspeccionarlo, así como formulará el Reglamento por el que se haya de regir. El personal facultativo de los Bancos, nombrado por el Ministro de la Guerra, deberá cobrar siempre su sueldo, con la gratificación que se juzgase oportuna por este Ministerio. Esta gratificación será siempre de cargo de los Bancos.
+
+2.ª Desde el establecimiento del primer Banco de pruebas en España no podrán expenderse en todo el territorio del Reino ni exportarse al extranjero armas portátiles de fuego que no lleven la marca que acredite que han sufrido con éxito las pruebas reglamentarias en el Banco respectivo, exceptuándose de esa prohibición las que se fabriquen en Establecimientos oficiales del Estado y por cuenta del Ministerio de la Guerra, o aquellas armas que lleven marca de algún Centro similar extranjero, reconocidas como oficiales por el referido Departamento.
+
+3.ª El Ministro de la Guerra, de acuerdo con los de Gobernación, Hacienda y Estado, reglamentará la manera de determinar, perseguir y castigar las infracciones contra esta Ley o Reglamentos que de ella se deriven.
