@@ -1,0 +1,5 @@
+El Real Decreto 2621/1986, de 24 de diciembre, por el que se integran los regímenes especiales de la Seguridad Social de Trabajadores Ferroviarios, Jugadores de Futbol, Representantes de Comercio, Toreros y Artistas en el Régimen General, así como se procede a la integración del Régimen de Escritores de Libros en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos, faculta en su disposición final segunda, 1, al Ministro de Trabajo y Seguridad Social para dictar cuantas disposiciones de carácter general resulten necesarias para su aplicación.
+
+Habiéndose procedido ya al desarrollo del Real Decreto citado respecto a los ámbitos de campo de aplicación, inscripción de Empresas, afiliación, altas y bajas, cotización y recaudación, mediante la Orden de este Ministerio de 20 de julio de 1987 («Boletín Oficial del Estado» del 31), resulta conveniente dictar las normas de desarrollo y aplicación del Real Decreto 2621/1986, de 24 de diciembre, en materia de acción protectora,
+
+En su virtud, dispongo:
