@@ -24,6 +24,16 @@ f) El Jefe de la Unidad de Vigilancia y Represión del Fraude Fiscal en relació
 
 g) El Jefe de la Unidad de Fiscalidad Internacional en relación con las actuaciones realizadas desde ésta.
 
-> Se añaden las letras f) y g) por la Resolución de 11 de julio de 1994. Ref. BOE-A-1994-16918.
+3. Tendrán la consideración de Adjuntos al Jefe de la Oficina Nacional de Inspección y, consecuentemente, categoría de Inspector Jefe:
+
+a) El Jefe del Area de Inspección de la Oficina Nacional de Inspección y su Adjunto.
+
+b) El Jefe de la Oficina Técnica de la Oficina Nacional de Inspección.
+
+4. Igualmente tendrá la consideración de Adjunto al Jefe de la Dependencia Regional de Inspección y, consecuentemente, categoría de Inspector Jefe, el Jefe de la Oficina Técnica de dicha Dependencia.
+
+> Se añaden los puntos 3 y 4 por el apartado 3 de la Resolución de 16 de diciembre de 1994. Ref. BOE-A-1994-28710.
+
+> Se añaden las letras f) y g) al punto 2 por la Resolución de 11 de julio de 1994. Ref. BOE-A-1994-16918.
 
 > Se modifica por el apartado 10 de la Resolución de 18 de septiembre de 1992. Ref. BOE-A-1992-22023.
