@@ -1,0 +1,3 @@
+## Disposición adicional novena.
+
+De acuerdo con lo establecido en el apartado 2 del artículo 1 del Real Decreto 1701/1991, de 29 de noviembre, en las Comunidades Autónomas que tengan lengua propia cooficial con el castellano, el Cuerpo de Profesores de Enseñanza Secundaria tendrá, asimismo, la especialidad correspondiente a la lengua respectiva. En consecuencia, y de conformidad con lo dispuesto en el artículo 2.1 de la Ley 16/1990, de 13 de julio, sobre régimen especial del Valle de Arán («Diario Oficial de la Generalidad de Cataluña» de 3 de agosto), en la Comunidad Autónoma de Cataluña se establece la especialidad «Lengua Aranesa» entre las del Cuerpo de Profesores de Enseñanza Secundaria.

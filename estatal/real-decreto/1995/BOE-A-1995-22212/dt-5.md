@@ -1,0 +1,5 @@
+## Disposición transitoria quinta.
+
+Sin perjuicio de lo establecido en el artículo 5 y en la disposición adicional tercera de este Real Decreto, hasta la finalización del calendario de implantación del sistema educativo establecido en la Ley Orgánica de Ordenación General del Sistema Educativo, los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional que estén en posesión de las titulaciones relacionadas en el anexo V podrán optar, por una sola vez y con ocasión de vacante, a las plazas de esas especialidades en su propio centro o en otro distinto dentro del ámbito de gestión de la Administración educativa donde tengan destino, a través de los procedimientos de provisión de puestos que se convoquen. Dichos profesores tendrán preferencia, sin perjuicio de lo dispuesto en la disposición adicional cuarta del presente Real Decreto, para ser adscritos a esas plazas en el caso de tener ya destino definitivo en el centro al que corresponda la vacante.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 256, de 26 de octubre de 1995. Ref. BOE-A-1995-23269.
