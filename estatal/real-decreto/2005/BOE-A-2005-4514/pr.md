@@ -1,0 +1,17 @@
+El Real Decreto 1910/1999, de 17 de diciembre, creó el Consejo Estatal de Organizaciones no Gubernamentales de Acción Social y reguló su composición y régimen de funcionamiento, que han venido rigiendo la actuación del Consejo desde su constitución.
+
+Dicho real decreto establece en su artículo 4.1 y 2 que será Presidente del Consejo el Ministro de Trabajo y Asuntos Sociales, y Vicepresidente primero, el titular de la Secretaría General de Asuntos Sociales. Por su parte, el artículo 8 del Real Decreto 562/2004, de 19 de abril, por el que se aprueba la estructura orgánica básica de los departamentos ministeriales, crea la Secretaría de Estado de Servicios Sociales, Familias y Discapacidad en el Ministerio de Trabajo y Asuntos Sociales y suprime la anterior Secretaría General de Asuntos Sociales, mientras que el Real Decreto 1600/2004, de 2 julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Trabajo y Asuntos Sociales, establece en su artículo 9.4 que corresponde al titular de la Secretaría de Estado de Servicios Sociales, Familias y Discapacidad la presidencia del Consejo Estatal de Organizaciones no Gubernamentales de Acción Social, por lo que se alteran las iniciales previsiones contenidas en el Real Decreto 1910/1999, de 17 de diciembre.
+
+En consecuencia, procede efectuar la correspondiente adecuación normativa a las nuevas atribuciones competenciales derivadas de las señaladas modificaciones, que afectan a la presidencia y a la vicepresidencia primera del citado órgano consultivo.
+
+Esta adecuación normativa resulta igualmente necesaria en relación con la representación de la Administración General del Estado en el Consejo, a la que se refieren los artículos 5 y 8 del Real Decreto 1910/1999, de 17 de diciembre, tras las últimas modificaciones operadas en la estructura orgánica del Ministerio de Trabajo y Asuntos Sociales y de los restantes departamentos ministeriales.
+
+Por lo que atañe a la representación de las organizaciones no gubernamentales en el Consejo, también se estima conveniente cubrir la laguna existente en la actualidad, dando entrada a entidades sociales cuya actuación social posee carácter transversal, junto a las que atienden a colectivos específicos.
+
+Entre las primeras, procede señalar las que tienen como fin primordial el fortalecimiento del tercer sector de acción social, la provisión de servicios a otras organizaciones no gubernamentales y el fomento y coordinación del voluntariado social, así como las que operan en el área de pobreza e inclusión social o en el desarrollo social del medio rural. Entre las que dirigen su atención a colectivos específicos, se ha dado entrada, como novedad, a las organizaciones que actúan en la defensa del derecho a la libre orientación sexual y de los colectivos de gays y lesbianas, así como a las correspondientes al colectivo del ámbito penitenciario.
+
+Por último, la experiencia acumulada a lo largo de estos cuatro años de funcionamiento del Consejo aconseja introducir modificaciones en la composición y funciones de la Comisión Permanente, para dotarla a ella y al propio Consejo Estatal de una mayor operatividad y eficacia en el desarrollo de sus cometidos, e incorporar, asimismo, nuevas previsiones tendentes a mejorar el funcionamiento de dicho órgano consultivo.
+
+En su virtud, a propuesta del Ministro de Trabajo y Asuntos Sociales, con la aprobación previa del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 4 de marzo de 2005,
+
+## D I S P O N G O :
