@@ -1,0 +1,7 @@
+## Disposición transitoria primera.
+
+Uno. En tanto se establezca el régimen especial de los socios trabajadores de Cooperativas de Producción previsto en el apartado g) del número dos, del artículo diez, de la Ley de la Seguridad Social, a efectos de la inclusión en el campo de aplicación de este régimen especial de los trabajadores por cuenta propia o autónomos, se seguirá entendiendo que tienen individualmente la condición de trabajadores independientes que les reconocía el artículo séptimo de la Orden del Ministerio de Trabajo de veinticinco de marzo de mil novecientos sesenta y tres («Boletín Oficial del Estado» de once de abril), los socios de las Cooperativas Industriales que practiquen su profesión y oficio en las mismas.
+
+Las responsabilidades subsidiarias establecidas para las compañías en el número dos del artículo nueve y en el número dos del artículo doce de este Decreto serán de aplicación a las Cooperativas con respecto a sus socios.
+
+Dos. A efectos de cubrir las contingencias de accidentes de trabajo y enfermedades profesionales, continuará siendo de aplicación lo dispuesto en el último párrafo del artículo segundo del Reglamento aprobado por Decreto de veintidós de junio de mil novecientos cincuenta y seis respecto a los socios de Cooperativas Industriales, en tanto se establezca el régimen especial previsto en el precepto de la Ley de la Seguridad Social que se menciona en el número anterior.
