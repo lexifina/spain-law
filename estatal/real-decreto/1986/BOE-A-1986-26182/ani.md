@@ -2,23 +2,31 @@
 
 1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1992/187/18634_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1992/187/18634_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_003.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1992/187/18634_003.png)
 
 2. Tractores agrícolas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1992/187/18634_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1992/187/18634_005.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1992/187/18634_006.png)
 
 3. Motocicletas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1991/179/19294_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1992/187/18634_007.png)
+
+4. Varios
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1992/187/18634_008.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1992/187/18634_009.png)
+
+> Se modifica por la Orden de 24 de julio de 1992. Ref. BOE-A-1992-18634.
 
 > Se modifica por la Orden de 24 de enero de 1992. Ref. BOE-A-1992-2982.
 
