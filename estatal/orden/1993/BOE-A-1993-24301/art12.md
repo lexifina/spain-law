@@ -4,4 +4,6 @@
 
 2. Las acciones podrán estar representadas mediante títulos o mediante anotaciones en cuenta.
 
-3. Las aportaciones para la adquisición de acciones deberán realizarse en efectivo.
+3. (Derogado)
+
+> Se deroga el apartado 3 por la disposición derogatoria única.2 del Real Decreto 845/1999, de 21 de mayo. Ref. BOE-A-1999-12488.

@@ -4,4 +4,6 @@
 
 2. Las participaciones representativas del patrimonio de los Fondos tendrán iguales características, serán consideradas valores negociables y podrán representarse mediante certificados nominativos sin valor nominal o mediante anotaciones en cuenta, conforme al régimen general previsto en el artículo 12.2 del Reglamento de la Ley 46/1984.
 
-3. Las aportaciones para la adquisición de participaciones sólo podrá realizarse en efectivo.
+3. (Derogado)
+
+> Se deroga el apartado 3 por la disposición derogatoria única.2 del Real Decreto 845/1999, de 21 de mayo. Ref. BOE-A-1999-12488.
