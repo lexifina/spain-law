@@ -1,4 +1,4 @@
-## Artículo único.
+## Artículo 1.
 
 Los países y territorios a que se refieren los artículos 2.º, apartado 3, número 4, de la Ley 17/1991, de 27 de mayo, de Medidas Fiscales Urgentes, y 23, apartado 3, letra f, número 4, de la Ley 61/1978, de 27 de diciembre, del Impuesto sobre Sociedades, según la redacción dada por el artículo 62 de la Ley 31/1990, de Presupuestos Generales del Estado para 1991, son los que a continuación se señalan:
 
@@ -97,3 +97,7 @@ Los países y territorios a que se refieren los artículos 2.º, apartado 3, nú
 47. República de Seychelles.
 
 48. República de Singapur.
+
+> Se renumera por el art. 2.1 del Real Decreto 116/2003, de 31 de enero. Ref. BOE-A-2003-2097.
+
+> Su anterior numeración era artículo único.
