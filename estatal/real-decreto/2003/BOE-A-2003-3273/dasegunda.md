@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Reconocimiento mutuo.
+
+Lo dispuesto en esta disposición no se aplicará a los productos legalmente fabricados y comercializados en los restantes Estados miembros de la Comunidad Europea ni a los productos originarios de los países de la Asociación Europea de Libre Cambio (AELC), partes contratantes en el Acuerdo sobre el Espacio Económico Europeo (EEE).
+
+Los citados productos, siempre que no impliquen riesgo para la salud, en el sentido de lo dispuesto en el artículo 30 del Tratado CE o en el artículo 13 del Acuerdo sobre el EEE, podrán comercializarse en España con la denominación prevista por las disposiciones legales aplicables en el Estado miembro de la Comunidad del que proceden o en el país de la AELC parte contratante del Acuerdo EEE del cual son originarios, o en su defecto, con una denominación descriptiva del producto y, si fuera necesario, de su utilización, lo suficientemente precisa como para permitir al comprador conocer su naturaleza real y distinguirlo de los productos con los cuales podría confundirse.
