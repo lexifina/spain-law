@@ -166,6 +166,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO III](ciii-4.md)
 - [Sección 1](s1-2.md)
 - [Artículo ciento diecinueve](acientodiecinueve.md)
+- [Artículo ciento diecinueve bis](acientodiecinuevebis.md)
 - [Sección 2](s2-2.md)
 - [Artículo ciento veinte](acientoveinte.md)
 - [Sección 3](s3.md)

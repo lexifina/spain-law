@@ -1,3 +1,5 @@
 ## Artículo ciento veintiocho.
 
-A los efectos de los artículos 124 a 127, se considerarán militares a los mozos y reclutas en los términos previstos en la Ley de Servicio Militar y a los soldados que, en situación de reserva, fueren llamados a filas desde el momento que tengan obligación de presentarse.
+(Sin contenido)
+
+> Se deja sin contenido por la disposición adicional 8.5 de la Ley Orgánica 13/1991, de 20 de diciembre. Ref. BOE-A-1991-30456

@@ -1,5 +1,5 @@
 ## Artículo ciento veintisiete.
 
-El español que, declarado útil para el servicio militar, rehusase expresamente y sin causa legal cumplir el servicio militar será castigado con la pena de uno a seis años de prisión. En tiempo de guerra, se impondrá la pena de prisión de cinco a quince años.
+(Sin contenido)
 
-Una vez cumplida la condena impuesta, el penado quedará excluido del servicio militar, excepto en caso de movilización por causa de guerra.
+> Se deja sin contenido por la disposición adicional 8.5 de la Ley Orgánica 13/1991, de 20 de diciembre. Ref. BOE-A-1991-30456
