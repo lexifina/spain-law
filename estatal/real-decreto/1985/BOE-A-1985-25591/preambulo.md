@@ -1,0 +1,9 @@
+En los últimos años la política de integración del minusválido al mundo del trabajo se ha venido realizando, al menos en gran parte, desde instrumentos puramente asistenciales que, por exigencias naturales de desarrollo y ajuste a los nuevos planteamientos, se han ido transformando o diversificando hacia instituciones de integración laboral, Centros Especiales de Empleo, que es preciso regular, dándoles el impulso, el contenido y los medios que la Ley de Integración Social del Minusválido impone al considerar a estos Centros Especiales de Empleo como elementos básicos integradores del minusválido en el mundo ordinario del trabajo, cuando por sus circunstancias de orden personal, consecuentes con su minusvalía, no puedan ejercer una actividad laboral en las condiciones habituales.
+
+En esta situación, y ante el gran avance que esta política de empleo ha supuesto para la integración del minusválido en la sociedad en general, y en el mundo del trabajo en particular, se hace imprescindible contemplar a estos Centros desde esta nueva posición, procurando hacer posible que cumplan no sólo la finalidad social que persiguen, sino también las exigencias de todo orden que su campo de aplicación legal les confiere.
+
+Para ello es preciso regular las especiales características de estos Centros, racionalizar su estructura, determinar su carácter, objetivos, exigencias y financiación, estableciendo un código de relación entre ellos y las Administraciones Públicas, encaminado todo ello no sólo a facilitar la creación de cuantos sean precisos para atender a la población disminuida del país, sino también para potenciar los existentes.
+
+En su virtud, a propuesta del Ministro de Trabajo y Seguridad Social, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de diciembre de 1985,
+
+DISPONGO:

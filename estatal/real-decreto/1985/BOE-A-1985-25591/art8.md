@@ -1,0 +1,3 @@
+## Artículo 8.
+
+Podrán incorporarse como trabajadores a los Centros Especiales de Empleo las personas minusválidas físicas, psíquicas y sensoriales, definidas en el artículo 7.º de la Ley 13/1982, de 7 de abril, de integración social de los minusválidos, previa resolución motivada de los equipos multiprofesionales de valoración en la que se determinen sus posibilidades de integración real y capacidad de trabajo, y según lo dispuesto en el Real Decreto 1368/1985, de 17 de julio, por el que se regula la relación laboral de carácter especial de los minusválidos que trabajen en los Centros Especiales de Empleo.
