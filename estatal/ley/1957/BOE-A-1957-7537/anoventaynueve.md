@@ -1,3 +1,5 @@
 ## Artículo noventa y nueve.
 
-Los honorarios por reconocimientos y certificaciones médicas, las cuales se extenderán siempre en papel común, serán fijados reglamentariamente.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única de la Ley Orgánica 7/1992, de 20 de noviembre. Ref. BOE-A-1992-25817.
