@@ -1,5 +1,5 @@
-## Artículo 1867 bis.
+## Artículo 1867 bis. (Derogado)
 
-Al conservar el deudor la prenda en su poder, adquirirá el carácter y las responsabilidades de depositario de la misma, y deberá, por tanto, ser considerado como si fuese tercero aun en los casos en que el depósito sea irregular, a los efectos de los artículos mil setecientos cincuenta y ocho y mil ochocientos sesenta y tres de este Código.
+> Se deroga por la disposición final derogatoria de la Ley de 16 de diciembre de 1954. Ref. BOE-A-1954-15448.
 
 > Se añade por el art. 3 de la Ley de 5 de diciembre de 1941. Ref. BOE-A-1941-12345.
