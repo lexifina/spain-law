@@ -1,0 +1,7 @@
+## Disposición transitoria cuarta.
+
+El personal militar retirado que hubiera prestado servicios a la Administración Pública en cualquiera de sus sectores o grados, exclusivamente con posterioridad a su retiro y siempre que tales servicios se hubieran originado, precisamente, por razón de su procedencia de las Fuerzas Armadas o Fuerzas de Orden Público y que no hubiese cesado por jubilación antes del 1 de enero de 1985, no causará pensión alguna de carácter civil dentro del Régimen de Clases Pasivas, aunque dichos servicios fueran suficientes por sí mismos para ello, sin perjuicio de la pensión de retiro de que fuera titular.
+
+Si dicho personal, como consecuencia de su procedencia de las Fuerzas Armadas o Fuerzas de Orden Público, se hubiera integrado en algún Cuerpo o Escala de la Administración, tendrá derecho, en su caso, a que se mejore su haber de retiro conforme reglamentariamente se determine. Esta mejora, en su caso, tendrá efecto en las pensiones que puedan señalarse a favor de los familiares.
+
+Si la prestación de servicios a la Administración Pública del personal a que se refiere el párrafo primero se hiciera en calidad de funcionario de algún Cuerpo o Escala de la Administración y tuviera su origen en cualquier otra causa distinta de la expresa en dicho párrafo, tendrá derecho a causar pensión civil, en su favor o en el de su familia, con arreglo a las normas de este texto refundido, pensión que será incompatible con la de carácter militar que haya podido causar, conforme lo dispuesto en el artículo 25, número 2, de este texto.

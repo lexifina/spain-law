@@ -1,3 +1,5 @@
 ## Artículo cuarenta y siete. Compatibilidad de devengos extraordinarios de pensiones.
 
-A partir de la entrada en vigor de la presente Ley, las pensiones declaradas compatibles, cualquiera que sea el momento en que fueran causadas, lo serán tanto respecto de los devengos ordinarios como de los extraordinarios.
+(Derogado)
+
+> Se deroga por la disposición derogatoria 1.2.b) del Real Decreto Legislativo 670/1987, de 30 de abril. Ref. BOE-A-1987-12636#primera-3.

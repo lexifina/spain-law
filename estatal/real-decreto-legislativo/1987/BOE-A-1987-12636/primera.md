@@ -1,0 +1,9 @@
+## Disposición adicional primera.
+
+1. De acuerdo con lo dispuesto en el artículo 25, número 3, de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, para la determinación de los haberes pasivos causados por el personal comprendido en el ámbito personal de cobertura del Régimen de Clases Pasivas que tenga acreditados servicios como Magistrado de dicho Alto Tribunal, se tomará un haber regulador de igual cuantía a la del total de las remuneraciones que hayan correspondido a dicho cargo en el año en que se produzca el hecho causante de tales haberes, refiriendo éste a los servicios acreditados como tal Magistrado en el caso de que la determinación de los haberes hubiera de hacerse por aplicación de las normas del título I de este texto, de acuerdo con lo dispuesto en el artículo 3.° del mismo.
+
+2. Igualmente, de acuerdo con el mismo precepto de la Ley Orgánica citada y en idéntico supuesto que el previsto en el número anterior, se tendrán en cuenta para el cálculo de la pensión correspondiente, sea cual sea la legislación de Clases Pasivas que resulte aplicable, los servicios acreditados como Magistrado del Tribunal Constitucional por el funcionario de que se trate.
+
+Estos servicios se computarán como prestados en el Cuerpo, Escala, Plaza, empleo o categoría de adscripción del funcionario al momento de acceder al Tribunal Constitucional y se tendrán en cuenta, al cesar el titular en el cargo de Magistrado, aun después de jubilado o retirado en dicho Cuerpo, Escala, Plaza, empleo o categoría, como mejora de haber pasivo a petición del interesado o sus familiares.
+
+3. Durante el tiempo de prestación de servicios como Magistrado del Tribunal Constitucional, vendrá el funcionario sujeto al pago de la cuota de derechos pasivos en los términos previstos en el artículo 23 de este texto.

@@ -1,0 +1,7 @@
+## Disposición adicional novena.
+
+1. El funcionario comprendido en el ámbito personal de cobertura del Régimen de Clases Pasivas que pase a prestar servicios en la Administración de las Comunidades Europeas y que opte por ejercer el derecho que les concede el artículo 11, número 2, del anexo VIII, del Estatuto de los funcionarios de las Comunidades Europeas, aprobado por el Reglamento (CEE, Euratom, CECA), 259/1968, del Consejo, de 29 de febrero de 1968, estará excluido de la acción protectora de dicho régimen de previsión, una vez que se haya realizado la transferencia a las Comunidades a que se refiere el citado Estatuto. En ningún caso le será de abono a efectos de Clases Pasivas el tiempo que permanezca prestando servicios en las Comunidades.
+
+No obstante, si cesando su prestación de servidos en la Administración de las Comunidades, reingresa al servicio de la Administración española y ejerce el derecho que le confiere el artículo 11, número 1, del anexo VIII del Estatuto de los funcionarios de las Comunidades, una vez producido el correspondiente ingreso en el Tesoro Público, quedará incluido nuevamente en la acción protectora del Régimen de Clases Pasivas y al momento de causar derechos en el mismo se computará el tiempo que hubiera permanecido al servicio de las Comunidades.
+
+2. El Gobierno desarrollará por Decreto el procedimiento a que deban ajustarse las solicitudes de transferencia a las Comunidades Europeas de los funcionarios a que se refiere el número anterior, así como las condiciones, contenido y modalidad de la misma.

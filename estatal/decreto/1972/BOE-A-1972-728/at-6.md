@@ -9,3 +9,5 @@ Tres. Reconocido que sea el derecho a la pensión extraordinaria por dichas caus
 Cuatro. Los funcionarios a quienes se hubiere otorgado pensión extraordinaria de acuerdo con el párrafo primero precedente causarán a su fallecimiento pensión familiar ordinaria, cualquiera que sea el tiempo de servicios prestados.
 
 Cinco. A los efectos de lo que en este artículo se dispone, se entenderá por familia, en primer lugar la viuda, en segundo los hijos y en tercero los padres legítimos, adoptantes o naturales en coparticipación o por entero al que de ellos viviere, sin que sean de aplicación a estos últimos las exigencias de edad o imposibilidad física que para las pensiones ordinarias establece el artículo 31 anterior.
+
+> Se deroga el inciso destacado del apartado 5 por la disposición derogatoria 1.1.b) del Real Decreto Legislativo 670/1987, de 30 de abril. Ref. BOE-A-1987-12636.

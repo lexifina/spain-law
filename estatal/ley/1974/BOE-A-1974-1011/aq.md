@@ -1,3 +1,5 @@
 ## Artículo quinto.
 
-Cuando por disposición de carácter general se modifique el sueldo base de los funcionarios de la Administración Civil del Estado, las pensiones excepcionales, concedidas por Ley especial a persona determinada con anterioridad a aquella disposición, se elevarán de oficio en la misma proporción y con la misma fecha inicial de efectos económicos.
+(Derogado)
+
+> Se deroga por la disposición derogatoria 1.1.f) del Real Decreto Legislativo 670/1987, de 30 de abril. Ref. BOE-A-1987-12636

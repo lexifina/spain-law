@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+En los términos que se determine reglamentariamente, el personal funcionario, civil y militar, de la Administración del Estado que se jubile o retire por el cumplimiento de la edad máxima fijada en cada caso antes del 1 de enero de 1995 y que haya pasado de Cuerpo, Escala, Plaza o empleo que tenga asignado determinado índice de proporcionalidad a prestar servicios en Cuerpo, Escala, Plaza o empleo de índice de proporcionalidad superior, tendrá derecho a que se le computen a los efectos del artículo 31 de este texto, hasta un máximo de diez años, de los que efectivamente haya servido en Cuerpos, Escalas, Plazas o empleos del menor de los índices de proporcionalidad como si hubieran sido prestados en el mayor.

@@ -1,7 +1,9 @@
 ## Artículo trigésimo tercero.
 
-Uno. Los huérfanos varones cesarán en el cobro de la pensión al cumplir la edad de veintitrés años o al desaparecer la causa de su imposibilidad física.
+Uno. Los huérfanos varones cesarán en el cobro de la pensión al cumplir la edad de veintiún años o al desaparecer la causa de su imposibilidad física.
 
-Dos. Las huérfanas cesarán en el percibo de la pensión al contraer matrimonio.
+Dos. Los huérfanos cesarán en el percibo de la pensión al contraer matrimonio.
 
-Tres. Las pensiones de orfandad que puedan causar los funcionarios militares ingresados al servicio del Estado con posterioridad al 28 de diciembre de 1959, dejarán de abonarse cuando los titulares, varones o hembras, cumplan la edad de veintitrés años, salvo que justifiquen que desde antes de cumplirla se hallen imposibilitados para ganarse el sustento y sean además pobres en sentido legal.
+Tres. (Derogado)
+
+> Se derogan el apartado 3 y el inciso destacado del apartado 1 por la disposición derogatoria 1.1.b) del Real Decreto Legislativo 670/1987, de 30 de abril. Ref. BOE-A-1987-12636.

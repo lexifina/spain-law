@@ -4,8 +4,10 @@ Uno. En Ios casos en que asista a una persona derecho a más de una pensión de 
 
 Dos. No obstante lo dispuesto en el párrafo anterior, cuando por disposiciones de carácter general resulte alterada le cuantía de las pensiones, podrá ejercitarse de nuevo el derecho de opción una sola vez para cada caso.
 
-Tres. Se entenderá ejercitado el derecho de opción cuando así se manifieste expresamente, o cuando, hallándose en el disfrute de una pensión, se solicite otra no compatible con aquella y de mayor cuantía.
+Tres. (Derogado)
 
-Cuatro. Cuando se presente el caso de existencia simultánea de derechos a dos o más pensiones, mediante incompatibilidad, si no se ejercitase expresamente la opción, la Administración reconocerá y declarará el derecho a la de mayor cuantía, o a cualquiera de ellas, si fueran del mismo importe.
+Cuatro. (Derogado)
 
-Cinco. En los casos de permuta o de opción, el abono de la pensión elegida comenzará desde el día primero del mes siguiente al en que se formuló la solicitud, con deducción de las cantidades percibidas por cuenta de anterior o anteriores señalamientos.
+Cinco. (Derogado)
+
+> Se derogan los apartados 3 a 5 por la disposición derogatoria 1.1.b) del Real Decreto Legislativo 670/1987, de 30 de abril. Ref. BOE-A-1987-12636.
