@@ -1,0 +1,15 @@
+Ilustrísimos señores:
+
+El Real Decreto-ley 36/1978, de 16 de noviembre, sobre gestión institucional de la Seguridad Social, la Salud y el Empleo, facultó al Gobierno para regular la participación en el control y vigilancia de la gestión del Instituto Nacional de la Seguridad Social (INSS), del Instituto Nacional de la Salud (INSALUD) y del Instituto Nacional de Servicios Sociales (INSERSO), instrumentándola a través de Órganos en los que figurarían, por partes iguales, representantes de los distintos Sindicatos, de las Organizaciones Empresariales y de la Administración Pública.
+
+Posteriormente el Real Decreto 3064/1978, de 22 de diciembre, reguló provisionalmente la participación de la Sociedad en la Seguridad Social, determinando numéricamente el número de representantes de cada uno de los Sindicatos de más significación en proporción a su representatividad, el de las Organizaciones Empresariales de más representatividad y el número de representantes de la Administración Pública.
+
+Dentro de esta línea de perfeccionamientos de los Consejos Generales debe entenderse la Orden de 11 de enero de 1977 del Ministerio de Sanidad y Seguridad Social por la que se regulaban las Secretarías Generales de los Consejos.
+
+Una vertebración más detallada de estos Órganos se contiene en los Reales Decretos 1854, 1855 y 1856/1979, de 30 de julio, donde se regulan, respectivamente, las estructuras y competencias del INSS, del INSALUD y del INSERSO. En efecto, se les califica como Órganos directivos superiores de las respectivas Entidades gestoras, estableciendo su composición y atribuciones. Se crea la Comisión Ejecutiva dando cumplida referencia a las Secretarías Generales y dibujándose netamente las Comisiones Ejecutivas Provinciales.
+
+En la disposición final segunda de las referidas normas legales se indica la competencia de cada uno de los Consejos Generales para proponer al Ministerio de Sanidad y Seguridad Social su Reglamento de Régimen y Funcionamiento. En cumplimiento de esta disposición, las Comisiones Ejecutivas del INSS, del INSALUD y del INSERSO, en sus reuniones de los días 11, 12 y 19 de diciembre, respectivamente, aprobaron el anteproyecto del Reglamento de Régimen y Funcionamiento del Consejo General de cada uno de los Institutos, y asimismo, su remisión a los Consejos Generales respectivos, los cuales en sus reuniones correspondientes del día 20 de diciembre de 1979 aprobaron el mencionado anteproyecto del Reglamento de Régimen y Funcionamiento de las Consejos Generales.
+
+En su virtud, a propuesta de los Consejos Generales del Instituto Nacional de la Seguridad Social, del Instituto Nacional de la Salud y del Instituto Nacional de los Servicios Sociales, este Ministerio ha tenido a bien aprobar el Reglamento de Régimen y Funcionamiento de los Consejos Generales del INSS, del INSALUD y del INSERSO, siguiente:
+
+> Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 42, de 18 de febrero de 1980. Ref. BOE-A-1980-3791.
