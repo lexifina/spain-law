@@ -1,0 +1,15 @@
+El Reglamento (CEE) n.º 729/70 del Consejo, de 21 de abril de 1970, sobre financiación de la política agrícola común, modificado por el Reglamento (CEE) n.º 1287/95 del Consejo, de 22 de mayo de 1995, establece que la responsabilidad del control de los gastos de la sección garantía del Fondo Europeo de Orientación y Garantía Agrícola (FEOGA) corresponde en primer lugar a los Estados miembros, que son quienes designan los servicios y organismos que pagan los gastos con cargo a la sección Garantía del FEOGA y que los Estados miembros deben asumir plena y efectivamente dicha responsabilidad. Asimismo posibilita la designación de varios organismos pagadores, estableciendo en estos casos la necesidad de crear un único organismo que armonice la aplicación de la normativa comunitaria y actúe como interlocutor único en las cuestiones relativas al FEOGA-Garantía.
+
+Por otra parte, el artículo 44 de la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y de orden social para el año 2000, establece el procedimiento para hacer efectivo el principio de corresponsabilidad financiera según la cual los organismos pagadores y las Administraciones de quienes dependen deben asumir las responsabilidades financieras que de su actuación se deriven, y determina que serán los órganos competentes de la Administración General del Estado los competentes para proponer o coordinar los pagos de las ayudas a cada Fondo o Instrumento, previa audiencia de las entidades afectadas, quienes resolverán acerca de la determinación de las referidas responsabilidades financieras.
+
+El Estatuto del organismo autónomo Fondo Español de Garantía Agraria, aprobado por Real Decreto 1441/2001, de 21 de diciembre, le atribuye, entre otros, los fines y funciones de coordinación e información a la Comisión de la Unión Europea en todas las cuestiones derivadas de la aplicación del Reglamento (CE) n.º 1258/1999 del Consejo, de 17 de mayo de 1999, y del Reglamento (CE) n.º 1663/1995, de 7 de julio de 1995, además de las funciones que le corresponde en su condición de organismo pagador de ámbito nacional de las medidas del FEOGA-Garantía en las que la Administración General del Estado tenga competencia de gestión, resolución y pago.
+
+Toda esta nueva normativa determina la necesidad de establecer un nuevo régimen jurídico relativo a los organismos pagadores de los gastos de la sección Garantía del FEOGA, sus relaciones con el organismo de coordinación, así como el procedimiento para hacer efectivo el principio de corresponsabilidad financiera.
+
+En la elaboración de este real decreto han sido consultadas las comunidades autónomas.
+
+Este real decreto se dicta en virtud de la competencia estatal en materia de bases y coordinación de la planificación general de la actividad económica prevista en el artículo 149.1.13.ª de la Constitución.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 14 de marzo de 2003,
+
+DISPONGO:
