@@ -1,3 +1,5 @@
 ## Disposición final primera.
 
-Al amparo de las cláusulas 1.ª, 8.ª, 13.ª, 18.ª y 23.ª del artículo 149.1 de la Constitución, se declara el carácter de legislación básica del artículo 2 de esta Ley.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.2 de la Ley 6/1998, de 13 de abril. Ref. BOE-A-1998-8788
