@@ -2,6 +2,8 @@
 
 ## Métodos de análisis de productos lácteos
 
+> Téngase en cuenta que la Orden de 26 de enero de 1989 Ref. BOE-A-1989-2695, por la que se aprueban los métodos oficiales de análisis de determinados tipos de leche parcial o totalmente deshidratada destinados a la alimentación humana, deroga los métodos coincidentes que figuran en la presente Orden.
+
 Leche
 
 1(a). GRASA
@@ -1758,3 +1760,5 @@ B = volumen, en ml, de Ba (OH)2 0,1 N, requeridos para neutralizar los 100 ml or
 8.3 Referencia.
 
 1. Norma Internacional AOCS 5-40.
+
+> Se derogan los métodos coincidentes que figuran en la presente Orden por la disposición derogatoria de la Orden de 26 de enero de 1989. Ref. BOE-A-1989-2695

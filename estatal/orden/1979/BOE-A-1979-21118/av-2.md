@@ -2,6 +2,8 @@
 
 ## Métodos de análisis de productos lácteos
 
+> Téngase en cuenta que la Orden de 26 de enero de 1989 Ref. BOE-A-1989-2695, por la que se aprueban los métodos oficiales de análisis de determinados tipos de leche parcial o totalmente deshidratada destinados a la alimentación humana, deroga los métodos coincidentes que figuran en la presente Orden.
+
 MANTEQUILLA
 
 9. ÁCIDOS GRASOS DE CADENA CORTA
@@ -1454,3 +1456,5 @@ Rs = peso, en g, del residuo.
 h = factor de corrección de humedad del salvado = 0,008 g.
 
 P = peso, en g, de la leche desnaturalizada.
+
+> Se derogan los métodos coincidentes que figuran en la presente Orden por la disposición derogatoria de la Orden de 26 de enero de 1989. Ref. BOE-A-1989-2695
