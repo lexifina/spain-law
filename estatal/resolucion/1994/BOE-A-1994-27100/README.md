@@ -32,6 +32,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 13](a1-5.md)
 - [Artículo 14](a1-6.md)
 - [Disposición adicional única](daunica.md)
+- [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)
