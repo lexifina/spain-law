@@ -1,0 +1,5 @@
+## Disposición adicional primera. Excepción para la Comunidad Autónoma de Canarias.
+
+En las islas Canarias podrán concederse ayudas a las inversiones destinadas a la transformación y comercialización de los sectores agrario y silvícola, y los de la alimentación procedentes de estos sectores, que provengan de terceros países, a condición de que los productos transformados se destinen al mercado de esta Comunidad Autónoma, limitándose la ayuda a la capacidad de transformación que corresponda a sus necesidades, siempre que esta capacidad de transformación no sea superior a las necesidades de la región.
+
+Asimismo, las ayudas en las islas Canarias podrán beneficiarse de normativa comunitaria de aplicación en función de las especiales características de esta Comunidad Autónoma y en concreto de la Decisión del Consejo de la Unión Europea 91/314/CEE, de 26 de junio, así como de las derogaciones aprobadas por la Comisión, basadas en la citada Decisión que se reflejen en los correspondientes programas operativos.
