@@ -1,0 +1,7 @@
+Una vez creado el nuevo Ministerio de Educación y Cultura, según el Real Decreto 758/1996, de 5 de mayo, y establecida su estructura orgánica básica por los Reales Decretos 839/1996, de 10 de mayo, y 1887/1996, de 2 de agosto, resulta conveniente proceder a la revisión de la estructura orgánica y funciones del organismo autónomo Instituto de la Cinematografía y de las Artes Audiovisuales, antes dependiente del Ministerio de Cultura y que ahora lo es del nuevo Departamento, al que queda adscrito a través de la Secretaría de Estado de Cultura.
+
+Dicha revisión se lleva a cabo en cumplimiento de lo establecido en la disposición final tercera del citado Real Decreto 839/1996, y en uso de la autorización conferida al Gobierno por el artículo 76 de la Ley 42/1994, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social, y supone, fundamentalmente, una nueva distribución de funciones entre las cuatro Subdirecciones Generales dependientes del Director general del organismo, más acorde con las líneas de actuación del mismo: Fomento de la cinematografía y artes audiovisuales, proyección exterior y relaciones institucionales, y preservación del patrimonio cinematográfico.
+
+En su virtud, a propuesta conjunta de los Ministros de Administraciones Públicas y de Economía y Hacienda, de acuerdo con el Ministerio de Educación y Cultura y previa deliberación del Consejo de Ministros en su reunión del día 10 de enero de 1997,
+
+DISPONGO:
