@@ -1,7 +1,5 @@
 ## Art. 35.
 
-Corresponde a la Junta de Compras del Tribunal:
+La estructura interna de los Servicios del Tribunal y la determinación de los puestos de trabajo asignados a los mismos será la resultante de la relación de puestos de trabajo del Tribunal, correspondiendo a los jefes de los respectivos Servicios la distribución de funciones y cometidos en los mismos, con arreglo a las previsiones de dicha relación.
 
-1. Realizar el estudio y la programación de las necesidades del Tribunal en lo que se refiere a compras y suministros.
-
-2. Proponer, como Mesa de Contratación, la adquisición de bienes y la contratación de servicios. La Junta de Gobierno fijará los casos en que esta intervención resulte necesaria.
+> Se modifica por el art. 1.14 del Acuerdo de 19 de diciembre de 2002. Ref. BOE-A-2002-25041.

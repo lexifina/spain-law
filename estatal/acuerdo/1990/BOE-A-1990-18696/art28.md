@@ -1,3 +1,5 @@
 ## Art. 28.
 
-La Junta de Gobierno del Tribunal fijará los supuestos y cuantías en los que el Secretario general podrá disponer la provisión de fondos al Gerente para la atención de gastos de carácter ordinario.
+(Derogado)
+
+> Se deroga por el art. 1.6 del Acuerdo de 19 de diciembre de 2002. Ref. BOE-A-2002-25041.

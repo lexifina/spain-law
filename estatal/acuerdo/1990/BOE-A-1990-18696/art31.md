@@ -1,7 +1,5 @@
 ## Art. 31.
 
-1. El Registro General estará integrado por las Oficinas de Registro y de Notificaciones.
+Sin perjuicio de su integración en el Archivo General del Tribunal, el archivo de la documentación relativa a actuaciones jurisdiccionales se realizará con arreglo a las indicaciones que corresponden, en el ejercicio de sus funciones, a los Secretarios de Justicia.
 
-2. Todos los escritos dirigidos al tribunal se recibirán a través de la Oficina de Registro.
-
-3. La Oficina de Notificaciones coordinará su actividad con las Secretarías de Justicia del Tribunal.
+> Se modifica por el art. 1.8 del Acuerdo de 19 de diciembre de 2002. Ref. BOE-A-2002-25041.

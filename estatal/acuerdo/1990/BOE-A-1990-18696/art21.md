@@ -10,8 +10,10 @@ c) Proponer la resolución de los concursos y de las convocatorias de puestos de
 
 d) Formular la propuesta la que se refiere el artículo 55, 2, de este Reglamento.
 
-e) Proponer al personal que haya de contratarse en régimen administrativo o laboral.
+e) Proponer al personal que haya de contratarse en régimen laboral.
 
 f) Cualesquiera otras funciones que le sean atribuidas por este Reglamento o a propuesta del Presidente, por el Pleno del Tribunal.
+
+> Se modifica la letra e) por el art. 1.3 del Acuerdo de 19 de diciembre de 2002. Ref. BOE-A-2002-25041.
 
 > Se modifican las letras a) y c) por el art. único.5 y 6 del Acuerdo de 5 de octubre de 1994. Ref. BOE-A-1994-23074.

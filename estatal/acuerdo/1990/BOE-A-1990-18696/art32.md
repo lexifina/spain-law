@@ -1,7 +1,5 @@
 ## Art. 32.
 
-1. El Oficial encargado del Registro General examinará y clasificará diariamente los escritos dirigidos al Tribunal.
+(Derogado)
 
-2. Los que se refieran a asuntos judiciales los despachará con el Secretario de Justicia del Pleno, que, en su caso, preparará el reparto de los mismos conforme, a las normas aprobadas por el Tribunal.
-
-3. Los escritos que no se refieran a actuaciones jurisdiccionales se remitirán por el Oficial del Registro a la Secretaria General.
+> Se deroga por el art. 1.9 del Acuerdo de 19 de diciembre de 2002. Ref. BOE-A-2002-25041.
