@@ -104,6 +104,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 74](a74.md)
 - [CAPÍTULO XIV](cxiv.md)
 - [Artículo 75](a75.md)
+- [Artículos 75 a 82](as75a82.md)
 - [Artículo 76](a76.md)
 - [Artículo 77](a77.md)
 - [Artículo 78](a78.md)
