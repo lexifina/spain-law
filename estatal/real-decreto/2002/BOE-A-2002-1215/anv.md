@@ -206,78 +206,46 @@ Gelatina, de no rumiantes para el recubrimiento de los aditivos en el sentido de
 
 «Contiene harina de pescado, y/o fosfato dicálcico procedente de huesos desgrasados y/o proteínas hidrolizadas, y no puede destinarse a alimento para rumiantes».
 
-## Parte B
+Parte B
 
 Declaración de los constituyentes analíticos
 
 | Alimentos para animales (1) | Constituyentes analíticos y contenidos (2) | Especie animal o tipo de animales |
 | --- | --- | --- |
-| Declaraciones obligatorias de acuerdo con el artículo 16, apartado 1, letra f) (3) | Declaraciones facultativas de acuerdo con el artículo 17, apartado 1, letra j) (4) |
-| Piensos completos. | Proteína bruta. | } | Animales, con excepción de las especies de animales de compañía distintos de los perros y gastos. | Animales de compañía distintos de los perros y gatos. |
-| Materias grasas brutas. |
-| Celulosa bruta. |
-| Cenizas brutas. |
-| Lisina. | Cerdos | Animales distintos de los cerdos. |
-| Metionina. | Aves de corral. | Animales distintos de las aves. |
-| Cistina. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | } | Todos los animales. |
-| Treonina. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Triptófano. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Valor energético. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Aves de corral (declaración de cuerdo con el método CEE). |
-|  | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Cerdos y rumiantes (declaración de acuerdo con el método oficial nacional. |
-| Almidón. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | } | Todos los animales. |
-| Azúcares totales (sacarosa). | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Azúcares totales + almidón. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Calcio. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Sodio. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Magnesio. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Potasio. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Fósforo. | Peces, con excepción de los peces ornamentales. | Todos los animales distintos de los peces, con excepción de los peces ornamentales". |
-| Piensos complementarios minerales. | Proteína bruta. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | } | Todos los animales". |
-| Celulosa bruta. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Cenizas brutas. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Materias grasas brutas. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Lisina. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Metionina. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Cistina. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| "Treonina | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| "Triptófano. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Calcio. | Todos los animales. |  |
-| Fósforo. |  |
-| Sodio. |  |
-| Magnesio. | Rumiantes. | Animales distintos de los rumiantes. |
-| Potasio. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Todos los animales. |
-| Piensos complementarios: Melazados. | Proteína bruta. | Todos los animales. |  |
-| Celulosa bruta. |
-| Azúcares totales (sacarosa). |
-| Cenizas brutas. |
-| Materias grasas brutas. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | } | Todos los animales. |
-| Calcio. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Fósforo. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Sodio. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Potasio. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Magnesio ≥0,5 % | Rumiantes. | Animales distintos de los rumiantes. |
-| < 0,5 % | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Todos los animales. |
-| Otros piensos complementarios. | Proteína bruta. | } | Animales, con excepción de los animales de compañía distintos de perros y gatos. | Animales de compañía distinta de los perros y gatos. |
-| Materias grasas brutas. |
-| Celulosa bruta. |
-| Cenizas brutas. |
-| Calcio ≥ 5 % | Animales distintos de los de compañía. | Animales de compañía. |
-| < 5 % | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Todos los animales. |
-| Fósforo ≥ 2 % | Animales distintos de los de compañía. | Animales de compañía. |
-| < 2 % | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Todos los animales. |
-| Magnesio ≥ 0,5 % | Rumiantes. | Animales distintos de los rumiantes. |
-| < 0,5 % | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| Sodio. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Todos los animales. |
-| Potasio. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| Valor energético. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Aves (declaración de acuerdo con el método CEE). |
-|  | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Cerdos y rumiantes (declaración de acuerdo con el método oficial nacional). |
+| Declaraciones obligatorias de acuerdo con el artículo 15.1.f) (3) | Declaraciones facultativas de acuerdo con el artículo 16.1.i) (4) |
+| Piensos completos: | Proteína bruta. Materias grasas brutas. Celulosa bruta. Cenizas brutas. | Animales, con excepción de las especies de animales de compañía distintos de los perros y gatos. | Animales de compañía distintos de los perros y gatos. |
 | Lisina. | Cerdos. | Animales distintos de los cerdos. |
-| Metodina. | Aves. | Animales distintos de las aves. |
-| Cistina. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | } | Todos los animales. |
-| Treonina. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Triptófano. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Almidón. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Azúcares totales (sacarosa). | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Azúcares totales + almidón. | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
+| Metionina. | Aves de corral. | Animales distintos de las aves de corral. |
+| Cistina. Treonina. Triptófano. |  | Todos los animales. |
+| Valor energético. |  | Aves de corral (declaración de acuerdo con el método CEE). |
+|  |  | Cerdos y rumiantes (declaración de acuerdo con el método oficial nacional). |
+| Almidón. Azúcares totales (sacarosa). Azúcares totales + almidón. Calcio. Sodio. Magnesio. Potasio. |  | Todos los animales. |
+|  | Fósforo. | Peces, con excepción de los peces ornamentales. | Todos los animales distintos de los peces, con excepción de los peces ornamentales. |
+| Piensos complementarios minerales: | Proteína bruta. Celulosa bruta. Cenizas brutas. Materias grasas brutas. Lisina. Metionina. Cistina. Triptófano. |  | Todos los animales. |
+| Calcio. | Todos los animales. |  |
+| Fósforo | Todos los animales |  |
+| Sodio. | Todos los animales |  |
+| Magnesio. | Rumiantes. | Animales distintos de los rumiantes. |
+| Potasio. |  | Todos los animales. |
+| Piensos complementarios melazados: | Proteína bruta. Celulosa bruta. Azúcares totales (sacarosa). Cenizas brutas. | Todos los animales. |  |
+| Materias grasas brutas Calcio. Fósforo. Sodio. Potasio. |  | Todos los animales. |
+| Magnesio ≥0'5 % <0'5 % | Rumiantes. | Animales distintos de los rumiantes. Todos los animales. |
+| Otros piensos complementarios: | Proteína bruta. Materias grasas brutas. Celulosa bruta. Cenizas brutas. | Animales, con excepción de los animales de compañía distintos de los perros y gatos. | Animales de compañías distintos de los perros y gatos. |
+| Calcio ≥ 5 % | Animales distintos de los de compañía. | Animales de compañía. |
+| < 5 % | Animales distintos de los de compañía. | Todos los animales. |
+| Fósforo ≥ 2 % | Animales distintos de los de compañía | Animales de compañía. |
+| < 2 % | Animales distintos de los de compañía | Todos los animales. |
+| Magnesio ≥ 0'5 % | Rumiantes | Animales distintos de los rumiantes. |
+| < 0'5 % | Rumiantes | Todos los animales |
+| Sodio. Potasio |  | Todos los animales. |
+| Valor energético. |  | Aves de corral (declaración de acuerdo con el método CEE). |
+|  |  | Cerdos y rumiantes (declaración de acuerdo con el método oficial nacional). |
+| Lisina. | Cerdos. | Animales distintos de los cerdos. |
+| Metionina. | Aves de corral. | Animales distintos de las aves de corral. |
+| Cistina. Treonina. Triptófano. Almidón. Azúcares totales (sacarosa). Azúcares totales + almidón. |  | Todos los animales. |
+
+> Se modifica la Parte B por el art. único.9 del Real Decreto 254/2003, de 28 de febrero. Ref. BOE-A-2003-4246.
+
+> Redactado conforme a las correcciones de errores publicadas en BOE núms. 302, de 16 de diciembre de 2004 Ref. BOE-A-2004-21141 y 36, de 11 de febrero de 2005. Ref. BOE-A-2005-2199.
 
 > Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 47, de 23 de febrero de 2002. Ref. BOE-A-2002-3722.

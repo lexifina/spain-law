@@ -2,32 +2,7 @@
 
 ## Parte A
 
-Categorías de «materias primas para la alimentación animal» que pueden sustituir la indicación individual de las «materias primas para la alimentación animal» en el etiquetado de los piensos compuestos destinados a animales distintos de los de compañía
-
-| Categoría | Definición |
-| --- | --- |
-| 1. | Granos de cereales. | Granos completos de todo tipo de cereales (incluido el alforfón) bajo cualquier forma de presentación física, de los que no se haya eliminado ninguna parte, a excepción de la cáscara. |
-| 2. | Productos y subproductos de granos de cereales. | Productos y subproductos del fraccionamiento de los granos de cereales, a excepción de los aceites incluidos en la categoría 14. |
-|  |  | Estos productos y subproductos no deben contener más de un 25 por 100 de fibra bruta con relación a la materia seca. |
-| 3. | Semillas oleaginosas. | Semillas o frutos de oleaginosas bajo cualquier forma de presentación de los que no se haya eliminado ninguna parte, a excepción de la cáscara. |
-| 4. | Productos y subproductos de semillas oleaginosas. | Productos y subproductos del fraccionamiento de semillas y frutos oleaginosos, a excepción de los aceites y grasas incluidos en la categoría 14(2). |
-|  |  | Estos productos y subproductos no deben contener más de un 25 por 100 de fibra bruta con relación a la materia seca, salvo que contengan más de un 5 por 100 de materias grasas brutas con relación a la materia seca, o más de un 15 por 100 de proteína bruta con relación a la materia seca. |
-| 5. | Productos y subproductos de semillas de leguminosas. | Semillas de leguminosas enteras, sus productos y subproductos, a excepción de las semillas oleaginosas de leguminosas incluidos en las categorías 3 y 4. |
-|  |  | Estos productos y subproductos no deben contener más de un 25 por 100 de fibra bruta con relación a la materia seca. |
-| 6. | Productos y subproductos de tubérculos y raíces. | Productos y subproductos derivados de los tubérculos y de las raíces, a excepción de la remolacha azucarera incluida en la categoría 7. |
-|  |  | Estos productos y subproductos no deben contener más de un 25 por 100 de fibra bruta con relación a la materia seca. |
-| 7. | Productos y subproductos de la fabricación del azúcar. | Productos y subproductos de la remolacha azucarera y de la caña de azúcar. Estos productos y subproductos no deben contener más de un 25 por 100 de fibra bruta con relación a la materia seca. |
-| 8. | Productos y subproductos de la transformación de frutos. | Productos y subproductos de la transformación de la fruta. |
-| Estos productos y subproductos no deben contener más de un 25 por 100 de fibra bruta con relación a la materia seca, salvo que contengan más de un 5 por 100 de materias grasas brutas en relación a la materia seca, o más de un 15 por 100 de proteína bruta con relación a la materia seca. |
-| 9. | Forrajes. | Parte aérea de las plantas forrajeras, cosechadas en verde y secadas artificial o naturalmente. |
-|  |  | Estos productos no deben contener más de un 25 por 100 de fibra bruta con relación a la materia seca, salvo que contengan más de un 15 por 100 de proteínas brutas con relación a la materia seca. |
-| 10. | Productos fibrosos. | «Materias primas para la alimentación animal» que contengan más de un 25 por 100 de fibra bruta con relación a la materia seca, tales como la paja, los tegumentos y las granzas, a excepción de los productos incluidos en las categorías 4, 8 y 9. |
-| 11. | Productos lácteos. | Todos los productos derivados de la transformación de la leche, salvo las grasas lácteas separadas incluidas en la categoría 14. |
-| 12. | Minerales. | Sustancias orgánicas o inorgánicas que contengan más de un 50 por 100 de cenizas con relación a la materia seca, a excepción de las sustancias que con-tengan más de un 5 por 100 de cenizas solubles en ácido clorhídrico con relación a la materia seca. |
-| 13. | Aceites y grasas. | Aceites y grasas de origen animal y vegetal y sus derivados. |
-| 14. | Productos de panadería y de la fabricación de pastas alimenticias. | Residuos y excedentes de panadería y de fabricación de pastas alimenticias. |
-
-## Parte B
+## (Suprimida)
 
 Categorías de «materias primas para la alimentación animal» que pueden sustituir la indicación individual de las «materias primas para la alimentación animal» en el etiquetado de los alimentos compuestos destinados a animales de compañía
 
@@ -53,3 +28,7 @@ Categorías de «materias primas para la alimentación animal» que pueden susti
 | 17. | Moluscos y crustáceos. | Todos los moluscos, crustáceos y mariscos, frescos o conservados mediante un tratamiento adecuado, así como los subproductos de su transformación. |
 | 18. | Insectos. | Todas las especies de insectos en todas las fases de su desarrollo. |
 | 19. | Productos de panadería. | Todos los productos de panadería: Pan, pasteles y galletas. |
+
+> Se suprime la parte A pasando a denominarse la parte B, anexo VI por el art. único.10 del Real Decreto 254/2003, de 28 de febrero. Ref. BOE-A-2003-4246.
+
+> Téngase en cuenta para su aplicación la disposición final 2.2
