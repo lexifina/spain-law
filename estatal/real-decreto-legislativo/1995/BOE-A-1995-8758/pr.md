@@ -1,0 +1,7 @@
+La Ley 42/1994, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social, autorizó al Gobierno en su disposición final sexta para que, en el plazo de tres meses desde la entrada en vigor de la misma, elabore un texto refundido del Real Decreto Legislativo 521/1990, de 27 de abril, por el que se aprueba el texto articulado de la Ley de Procedimiento Laboral, incorporando al mismo las modificaciones introducidas por la propia Ley antes citada, por la Ley 11/1994, de 19 de mayo, por la que se modifican determinados artículos del Estatuto de los Trabajadores, del texto articulado de la Ley de Procedimiento Laboral y de la Ley sobre Infracciones y Sanciones de Orden Social; por la Ley 14/1994, de 1 de junio, por la que se regulan las empresas de trabajo temporal, y por la Ley 18/1994, de 30 de junio, por la que se modifica la normativa de elecciones a los órganos de representación del personal al servicio de las Administraciones públicas, de la Ley 9/1987, de 12 de junio, modificada por la Ley 7/1990, de 19 de julio.
+
+A tal fin responde el presente Real Decreto Legislativo al que se incorpora, según el mandato recibido, un texto refundido de la Ley de Procedimiento Laboral en el que se recogen las modificaciones que en el apartado anterior se detallan.
+
+En su virtud, a propuesta del Ministro de Justicia e Interior, previo informe del Consejo General del Poder Judicial, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 31 de marzo de 1995,
+
+## D I S P O N G O :
