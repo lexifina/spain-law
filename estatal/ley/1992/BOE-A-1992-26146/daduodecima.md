@@ -4,4 +4,6 @@ Las condiciones de alejamiento e insularidad de los puertos canarios, así como 
 
 En todo caso, a los efectos de las tarifas a que se refiere el artículo 70 de la presente Ley, tendrá un especial tratamiento la circunstancia de doble insularidad que concurre en el tráfico marítimo entre las islas de Tenerife o Gran Canaria, respectivamente, con las no capitalinas, así como la de éstas entre sí.
 
-Lo previsto en los párrafos anteriores será sin perjuicio de los objetivos de rentabilidad general de los activos portuarios y de autofinanciación de los gastos que, con carácter general, establezca el Gobierno para el conjunto del sistema portuario.
+Lo previsto en los párrafos anteriores será sin perjuicio de los objetivos de rentabilidad general de los activos portuarios y de autofinanciación de los gastos que establezca el Gobierno para el conjunto del sistema portuario, debiéndose tener en cuenta en la determinación de los índices o fórmulas a que se refiere el artículo 46.4 los gastos o costes de los puertos ubicados en islas no capitalinas.
+
+> Se modifica el último párrafo por el art. único.33 de la Ley 62/1997, de 26 de diciembre. Ref. BOE-A-1997-27988
