@@ -1,0 +1,5 @@
+## Disposición adicional única.
+
+Los funcionarios que se encuentren en situaciones administrativas distintas a la de servicio activo y que deseen prolongar su permanencia en el mismo para cuando obtengan el reingreso al servicio activo, podrán ejercer reserva de este derecho, dirigiendo escrito al órgano de jubilación con una antelación mínima de dos meses de la fecha de cumplimiento de la edad de jubilación forzosa. La entrada en registro del escrito del interesado determinará la no iniciación o suspensión del procedimiento de jubilación forzosa por edad, comunicándoselo así al interesado. En cualquier momento, previo al reingreso en la situación de servicio activo, el interesado podrá solicitar del órgano competente la iniciación o continuación de la tramitación del procedimiento de jubilación forzosa por edad.
+
+Los efectos económicos y administrativos de la prolongación de la permanencia en el servicio activo, que se producirá una vez reingresado el funcionario en la situación de servicio activo, serán coincidentes con la fecha de reingreso.
