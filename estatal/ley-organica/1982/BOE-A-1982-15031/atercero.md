@@ -1,7 +1,15 @@
 ## Artículo 3.
 
-Uno. El territorio de la Región es el de la actual provincia de Murcia, que se organiza en municipios y comarcas o agrupaciones de municipios limítrofes, basadas en criterios históricos, naturales, geográficos, socioeconómicos, culturales o demográficos.
+1. El territorio de la Región es el de los municipios comprendidos dentro de los límites de la provincia de Murcia.
 
-Estas entidades gozarán de la personalidad jurídica y autonomía que les sean atribuidas por las Leyes.
+2. La Comunidad Autónoma de Murcia se organiza territorialmente en municipios y comarcas.
 
-Dos. Podrán crearse áreas metropolitanas para la coordinación y gestión de los servicios públicos, así como agrupaciones territoriales para el cumplimiento de fines específicos.
+Los municipios gozan de plena personalidad jurídica y autonomía para la gestión de los intereses que les son propios.
+
+Las comarcas gozan también de plena personalidad jurídica, así como de autonomía para el cumplimiento de los fines que les sean atribuidos por la Ley.
+
+3. Los municipios podrán agruparse, con carácter voluntario, para la ejecución de obras y la gestión de servicios comunes, de acuerdo con la legislación que dicte la Comunidad Autónoma.
+
+4. Por ley de la Asamblea Regional se podrán crear áreas metropolitanas y regular las entidades de ámbito territorial inferior al municipio.
+
+> Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
