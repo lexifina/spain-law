@@ -1,24 +1,18 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_017.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_018.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_022.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_019.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_023.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_020.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_024.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_021.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_025.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_026.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_027.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_028.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/3/00093_029.png)
+> Se modifica por la Orden CTE/2780/2003, de 8 de octubre. Ref. BOE-A-2003-18821.
 
 > Se modifica por la Orden CTE/3347/2002, de 26 de diciembre. Ref. BOE-A-2003-93.
 
