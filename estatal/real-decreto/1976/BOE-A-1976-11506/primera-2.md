@@ -11,3 +11,5 @@ Cuatro. Las propuestas de adaptación se someterán al mismo procedimiento estab
 Cinco. Si las propuestas de adaptación no fueran remitidas para su aprobación dentro de los indicados plazos, el Ministerio de la Vivienda o las Comisiones Provinciales de Urbanismo, en su caso, procederán a redactarlas y tramitarlas de oficio.
 
 Seis. Lo establecido en la presente disposición transitoria se entenderá en todo caso sin perjuicio de la aplicación inmediata de las normas de acomodación de las de contribución territorial urbana a que se refiere la disposición final sexta de la Ley número diecinueve/mil novecientos setenta y cinco, de dos de mayo, de Reforma de la Ley sobre Régimen del Suelo y Ordenación Urbana de doce de mayo de mil novecientos cincuenta y seis, en virtud de las variaciones de calificación de suelo en los Planes Vigentes que vengan determinados por la aplicación de la presente Ley.
+
+> Se amplía en un año el plazo del apartado 2 por el art. único del Real Decreto 544/1979, de 20 de febrero. Ref. BOE-A-1979-8090.
