@@ -1,0 +1,3 @@
+## Disposición transitoria única. Unidades con funciones de registro existente.
+
+Sin perjuicio de lo dispuesto en los artículos 11 y 12 del presente Real Decreto, las unidades que desarrollan funciones de registro a la entrada en vigor del mismo y no hubieran sido creadas de acuerdo con lo establecido en los artículos antes citados tendrán la consideración de oficinas de registro, rigiéndose por lo dispuesto en este Real Decreto. En el plazo de seis meses contados desde la entrada en vigor del presente Real Decreto, los Ministerios y Organismos adoptarán las disposiciones precisas para regularizar la situación de dichas unidades.
