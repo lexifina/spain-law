@@ -1,0 +1,3 @@
+Establecida la estructura de los Órganos directivos del Organismo en el Real Decreto 1414/1981, de 3 de julio, por el que se reestructura el Instituto Social de la Marina, se hace necesaria su regulación urgente y la puesta en funcionamiento de los órganos superiores colegiados, a través de los cuales se realiza la participación de los trabajadores, empresarios y Administración pública en el control y vigilancia de la gestión del citado Instituto.
+
+En su virtud, haciendo uso de la facultad concedida por la disposición final primera del Real Decreto 1414/1981 y a propuesta de la Secretaría General de la Seguridad Social, y con la aprobación de la Presidencia del Gobierno, dispongo:
