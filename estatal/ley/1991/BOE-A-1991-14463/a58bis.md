@@ -36,6 +36,10 @@ en la que K es el coeficiente a aplicar y T el tipo impositivo que corresponda.
 
 3.ª A los efectos de lo dispuesto en las dos reglas anteriores, los sujetos pasivos deberán confeccionar, en la forma que reglamentariamente se determine, inventarios de sus existencias con referencia a los días de iniciación y cese en la aplicación de este régimen.
 
+9. Sin perjuicio de la liquidación e ingreso del recargo a que se refiere el presente artículo, los sujetos pasivos acogidos al régimen especial de comerciantes minoristas tendrán la obligación de proceder a la liquidación y pago del impuesto en los casos previstos en el número 3 del artículo 59 de esta Ley, mediante la presentación de la declaración ocasional a que se refiere dicho precepto.
+
+> Se añade el apartado 9 por el art. 1.30 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
 > Se añade por el art. 3.9 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
 
 > Esta modificación es aplicable según lo que establece la disposición final única.

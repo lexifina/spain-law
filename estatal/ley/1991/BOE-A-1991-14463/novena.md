@@ -1,5 +1,5 @@
 ## Disposición adicional novena.
 
-Las Leyes de Presupuestos Generales del Estado podrán modificar el límite cuantitativo fijado en el artículo 49, 1, de la presente Ley y, en su caso, el régimen de tributación del autoconsumo en el Impuesto General Indirecto Canario.
+Las leyes de Presupuestos Generales del Estado podrán modificar el régimen de tributación del autoconsumo en el Impuesto General Indirecto Canario, a iniciativa de la Comunidad Autónoma de Canarias.
 
-Las modificaciones a que se refiere el apartado anterior se efectuarán, en su caso, a iniciativa de la Comunidad Autónoma de Canarias.
+> Se modifica por el art. 6 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
