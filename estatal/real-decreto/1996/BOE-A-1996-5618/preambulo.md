@@ -1,0 +1,15 @@
+La contaminación de las aguas causada, en determinadas circunstancias, por la producción agrícola intensiva es un fenómeno cada vez más acusado que se manifiesta, especialmente, en un aumento de la concentración de nitratos en las aguas superficiales y subterráneas, así como a la eutrofización de los embalses, estuarios y aguas litorales.
+
+De hecho, entre las fuentes difusas que contribuyen a la contaminación de las aguas, la más importante actualmente es la aplicación excesiva o inadecuada de los fertilizantes nitrogenados en la agricultura.
+
+Para paliar este problema, la Directiva 91/676/CEE, de 12 de diciembre, relativa a la protección de las aguas contra la contaminación producida por nitratos de origen agrícola, impone a los Estados miembros la obligación de identificar las aguas que se hallen afectadas por la contaminación por nitratos de esta procedencia, cuyas concentraciones deberán ser vigiladas en una serie de estaciones de muestreo. Por otra parte, establece criterios para designar como zonas vulnerables, aquellas superficies territoriales cuyo drenaje da lugar a la contaminación por nitratos. Una vez determinadas tales zonas, se deberán realizar y poner en funcionamiento programas de actuación, coordinados con técnicas agrícolas, con la finalidad de eliminar o minimizar los efectos de los nitratos sobre las aguas. Por último, la Directiva establece la obligación de emitir periódicamente informes de situación sobre este tipo de contaminación.
+
+Asimismo, el Reglamento (CEE) 2078/92, del Consejo, de 30 de junio, ha establecido las normas sobre los métodos de producción agraria compatibles con las exigencias de protección del medio ambiente y la conservación del espacio natural. Para aplicar las medidas contenidas en el mismo se han dictado los Reales Decretos 51/1995, de 20 de enero, por el que se establece un régimen de medidas horizontales para fomentar dichos métodos; 632/1995, de 21 de abril, por el que se establece un régimen de medidas a aplicar en las zonas de influencia de los parques nacionales y de otras zonas sensibles de especial protección, para fomentar el empleo de dichos métodos, y 928/1995, de 9 de junio, por el que se establece un régimen de fomento del uso, en determinados humedales, de dichos métodos.
+
+Mediante el presente Real Decreto se incorpora a nuestro ordenamiento la Directiva 91/676/CEE, de conformidad con las competencias atribuidas al Estado por el artículo 149.1.13.ª, 22.ª y 23.ª de la Constitución, en materia de planificación general de la economía, de legislación sobre recursos hidráulicos cuando las aguas discurran por más de una Comunidad Autónoma y de legislación básica sobre protección del medio ambiente, respectivamente.
+
+En la elaboración del presente Real Decreto se ha consultado a las Comunidades Autónomas y a los sectores afectados.
+
+En su virtud, a propuesta de los Ministros de Obras Públicas, Transportes y Medio Ambiente, y de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 16 de febrero de 1996,
+
+## D I S P O N G O :
