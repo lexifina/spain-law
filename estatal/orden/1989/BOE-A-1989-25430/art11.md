@@ -1,0 +1,3 @@
+## Art. 11.
+
+Los que ingresen en la categoría de Inspector mediante el sistema de oposición libre se ordenarán atendiendo a la puntuación global de las calificaciones obtenidas en las pruebas selectivas, los dos cursos académicos y las prácticas, una vez normalizadas conforme a los criterios que determine la Subdirección General de Gestión, a propuesta de la División de Formación y Perfeccionamiento. Establecido el orden, se escalafonarán con los que accedan a la misma categoría por promoción interna, intercalándose, uno a uno, los de cada procedencia, comenzando por el primero de éstos. A estos efectos se coordinarán las correspondientes convocatorias.
