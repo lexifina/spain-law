@@ -15,5 +15,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 1](a1.md)
 - [Art 2](a2.md)
 - [Art 3](a3.md)
+- [Art 4](a4.md)
 - [fi](fi.md)
 - [ANEXO](an.md)
