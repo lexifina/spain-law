@@ -315,6 +315,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 281](a281.md)
 - [TÍTULO III](tiii-2.md)
 - [Artículo 282](a282.md)
+- [Artículo 282 bis](a282bis.md)
 - [Artículo 283](a283.md)
 - [Artículo 284](a284.md)
 - [Artículo 285](a285.md)
