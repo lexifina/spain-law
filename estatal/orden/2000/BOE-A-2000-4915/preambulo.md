@@ -1,0 +1,15 @@
+La disposición final quinta de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, asignó a los municipios cabeza de partido judicial en los que no existiese establecimiento penitenciario, en régimen de competencia delegada, la ejecución del servicio de depósito de detenidos a disposición judicial, correspondiendo la custodia de dichos detenidos a la Policía Municipal en funciones de Policía Judicial, previendo que la Administración penitenciaria pusiese a disposición de dichos municipios los medios económicos suficientes para el mantenimiento de dicho servicio.
+
+Esta provisión se recogió en el Real Decreto 2715/1986, de 12 de diciembre, y en la Orden del Ministerio de Justicia de 12 de abril de 1988, que lo desarrolla, concretando en la cantidad de 1.325 pesetas por detenido y día los medios económicos necesarios para desempeñar el servicio.
+
+En el Real Decreto 2715/1986 (ya derogado) se modificaba la redacción del artículo 378 del Reglamento Penitenciario, aprobado por Real Decreto 1201/1981, de 8 de mayo.
+
+Por otra parte, el Real Decreto 190/1996, de 9 de febrero, por el que se aprueba el Reglamento Penitenciario, en su disposición adicional primera, dice:
+
+«La Administración Penitenciaria competente entregará a los Ayuntamientos de los municipios cabeza de partido judicial en que no exista establecimiento penitenciario, para gastos de alimentación y estancia de los detenidos y mantenimiento de las instalaciones, una cantidad por detenido y día, que se determinará por Orden del Ministro o resolución autonómica equivalente.»
+
+Asimismo, y con la entrada en vigor de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, se ha ampliado el número potencial de usuarios de este servicio ya que, además de los detenidos, presos preventivos y penados a disposición judicial, los depósitos municipales deberán acoger a los que resulten condenados a cumplir penas de arresto de fin de semana. A su vez, el Reglamento Penitenciario, aprobado por Real Decreto 190/1996, establece las condiciones de cumplimiento de la pena de arresto de fin de semana, concretando lo establecido en el vigente Código Penal y completándose la regulación del cumplimiento de esta última pena en el Real Decreto 690/1996, de 26 de abril, por el que se establecen las circunstancias de ejecución de las penas de trabajo en beneficio de la comunidad y arresto de fin de semana.
+
+Por un lado, el tiempo transcurrido desde la fijación del vigente importe y, por otro, la ampliación del cometido de los depósitos municipales, con el servicio de los arrestos de fin de semana, han puesto de relieve la necesidad de proceder al establecimiento de un nuevo módulo acorde con las circunstancias socioeconómicas actuales.
+
+En este sentido, tras los estudios e informes oportunos, y la participación del grupo de trabajo constituido al efecto en el seno de la Comisión Nacional de Administración Local, a propuesta de la Dirección General de Instituciones Penitenciarias, este Ministerio ha tenido a bien disponer:
