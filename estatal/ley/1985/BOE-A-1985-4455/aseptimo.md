@@ -20,4 +20,6 @@ e) La vigilancia e inspección.
 
 5. Se reconoce validez en todo el territorio del Estado a los controles que efectúen en aplicación de la presente Ley los órganos de la Administración del Estado o, en su caso, los de las Comunidades Autónomas a las que se refiere el párrafo anterior. Todos ellos serán refrendados por la marca distintiva que reglamentariamente se determine.
 
+> Se declara que el apartado 4 no es aplicable en el País Vasco y Andalucía por la Sentencia del TC 236/1991, de 12 de diciembre. Ref. BOE-T-1992-673
+
 > Se declara que el apartado 4 no es aplicable en la Comunidad Autónoma de Cataluña por la Sentencia del TC 100/1991, de 13 de mayo. Ref. BOE-T-1991-15518
