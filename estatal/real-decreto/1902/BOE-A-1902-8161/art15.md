@@ -1,0 +1,7 @@
+## Artículo 15.
+
+Si por el Ministerio de la Guerra se hubiese acordado la inmediata ocupación del inmueble, previo el depósito que determina el art. 11, tan pronto como el Gobernador militar reciba la orden de llevar aquélla á cabo, lo notificará a sus propietarios, para que, en el plazo de ocho días designen ante el Alcalde respectivo los peritos que hayan de representarles en la tasación; dicha designación ha de verificarse por las mismas personas que puedan ser parte legítima en el expediente, no admitiéndose representación ajena si no está legalmente autorizada para ello.
+
+Asimismo ordenará dicho Gobernador militar que por la Comandancia de Ingenieros respectiva se nombre al perito representante del ramo de Guerra, que podrá ser un Maestro de obras militares ó de talleres, según la índole del inmueble, pudiendo también desempeñar esta comisión un Jefe ú Oficial de Ingenieros, cuando las tasaciones exijan conocimientos superiores.
+
+Cuando todo ó parte de la tasación se refiera a cosas que no puedan apreciarse debidamente por los Ingenieros militares, el Ingeniero Comandante nombrará para la exclusiva tasación de ellas, uno ó más peritos que con aquéllos la verifiquen. Para este caso serán siempre preferidos funcionarios militares que, por su aptitud oficial, puedan desempeñar estas funciones, y si no los hubiera, se elegirán entre los de otros ramos de la Administración pública que tengan título suficiente para ello, acudiendo para su nombramiento al Gobierno civil de la provincia, que los designará en un plazo que no excederá de tres días.
