@@ -1,7 +1,5 @@
 ## Art. 5. Duración del pan especial.
 
-Los panes especiales que recibirán las denominaciones del artículo 7.º se clasificarán por su duración en:
+(Suprimido)
 
-5.1 De consumo normal en el día los que habitualmente se consumen antes de las veinticuatro horas posteriores a su cocción.
-
-5.2 De mayor duración los que por sus especiales características de elaboración tecnológica y envasado tienen un período apto para el consumo superior a tres días.
+> Se suprime por el art. único.1 del Real Decreto 1202/2002, de 20 de noviembre. Ref. BOE-A-2002-22731.
