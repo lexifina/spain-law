@@ -1,0 +1,3 @@
+## Artículo tercero.
+
+Cuando se haya programado la construcción de un helipuerto, se definirá por sus coordenadas geográficas y altitud un punto que será el centro de un círculo horizontal de mil quinientos metros de radio. En el área de terreno o agua comprendida dentro de la proyección en dirección vertical del círculo así definido no podrán hacerse alteraciones físicas sin la previa autorización del Ministerio del Aire. Esta restricción se establecerá por Decreto y será efectiva por el plazo de un año, dentro del cual deberán definirse las servidumbres especificas definitivas; en caso contrario, quedará sin efecto dicha restricción.
