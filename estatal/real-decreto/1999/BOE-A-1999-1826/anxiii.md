@@ -32,7 +32,7 @@ Si el vehículo es de importación será necesaria la diligencia de importación
 
 a) Que el vehículo cuya matriculación se solicita figure en la relación de turismos comerciales homologados por el Departamento de Gestión Tributaria de la Agencia Estatal de Administración Tributaria.
 
-b) Los vehículos automóviles matriculados con placas CD, OI, o CC dentro de los límites y condiciones fijados, en su caso, en los respectivos Convenios internacionales, si bien sus titulares deberán acompañar un certificado del Ministerio de Asuntos Exteriores, en el que se haga constar la procedencia de la exención, de conformidad con lo establecido en la legislación sobre Impuestos Especiales.
+b) Los vehículos automóviles matriculados con placas CD, OI, CC o TA, de acuerdo con lo establecido en la sección I, "Vehículos en régimen de matrícula diplomática", del anexo XVI, "Matriculación especial".
 
 7.º Además del documento recogido en el número 6.°, cuando se trate de un medio de transporte nuevo adquirido en un Estado parte del Acuerdo EEE distinto de España, el interesado deberá presentar uno de los documentos siguientes:
 
@@ -56,7 +56,7 @@ Si se adjudica el vehículo con fines de venta, el empresario dedicado a la comp
 
 14.º Si se trata de vehículos de transporte de viajeros con una capacidad superior a nueve plazas, incluida la del conductor, así como de vehículos de transporte de mercancías o mixtos con una masa máxima autorizada superior a 6 toneladas y una capacidad de carga que exceda de 3,5 toneladas, incluido las cabezas tractoras, se acompañará certificación expedida por el órgano competente en materia de Transportes de que, o bien cuenta con el correspondiente título habilitante para la realización de alguna actividad de transporte o de arrendamiento sin conductor, o bien cumple todas las condiciones para obtener el citado título.
 
-B. Modelos de permisos y de licencias de circulación:
+B) Modelos de permisos y de licencias de circulación:
 
 En el permiso y licencia de circulación figurarán los siguientes datos:
 
@@ -145,3 +145,5 @@ E) Cambio de matrícula por razones de seguridad:
 5.º La solicitud se considerará desestimada por el transcurso del plazo de un mes, a contar desde el día siguiente al de la entrada de la solicitud en el Registro de la Secretaría de Estado de Seguridad, sin que se hubiere dictado resolución expresa.
 
 6.º Las resoluciones otorgando la autorización del cambio de matrícula por razones de seguridad, además de ser notificadas al solicitante, serán comunicadas a la Dirección General de Tráfico a los efectos oportunos.
+
+> Se modifica el apartado A).6º por la disposición adicional 1.1 del Real Decreto 3485/2000, de 29 de diciembre. Ref. BOE-A-2000-24368.
