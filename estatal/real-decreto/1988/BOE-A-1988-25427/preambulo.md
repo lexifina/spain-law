@@ -1,0 +1,7 @@
+El Reglamento General de Actuaciones del Ministerio de Industria y Energía en el campo de la normalización y homologación, aprobado por Real Decreto 2584/1981, de 18 de septiembre, modificado parcialmente por el Real Decreto 734/1985, de 20 de febrero, y por el Real Decreto 105/1988, de 12 de febrero, establece que la declaración de obligatoriedad de una normativa se considera justificada por razones de seguridad pública, protección de la salud de personas y animales, incluida la protección del medio ambiente y la defensa de los intereses del usuario o consumidor.
+
+Considerando que los productos de construcción deben presentar características tales que las obras a las que se incorporen puedan cumplir los requisitos esenciales exigidos a las mismas y que el cemento, como material fundamental de construcción, incide directamente en los niveles de seguridad y durabilidad de las obras que lo incorporan y en la seguridad de las personas que las utilizan, resulta necesario el establecimiento de la normativa obligatoria, así como la homologación de los cementos, de acuerdo con las disposiciones mencionadas, una vez cumplido el trámite establecido en la Directiva del Consejo 83/189/CEE, de 28 de marzo de 1983, por la que se establece un procedimiento de información en materia de normas y reglamentaciones técnicas,
+
+En su virtud, a propuesta del Ministro de Industria y Energía y previa deliberación del Consejo de Ministros en su reunión del día 28 de octubre de 1988,
+
+DISPONGO:
