@@ -1,0 +1,3 @@
+## Disposición derogatoria. Normas derogadas.
+
+Queda derogada la Orden de 7 de julio de 1993 por la que se dictan normas de aplicación en relación con la provisión de puestos reservados a funcionarios de Administración Local con habilitación de carácter nacional, la Orden de 7 de diciembre de 1993 por la que se aprueba el modelo de convocatoria conjunta y las bases comunes por las que han de regirse los concursos para la provisión de puestos de trabajo reservados a funcionarios de Administración Local con habilitación de carácter nacional, así como cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Orden.
