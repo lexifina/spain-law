@@ -2,41 +2,45 @@
 
 1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_006.png)
 
 2. Tractores agrícolas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_010.png)
 
 3. Vehículos de 2 ó 3 ruedas y cuadriciclos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_013.png)
 
 4. Varios
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_015.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_016.png)
+
+> Se modifica por la Orden de 17 de febrero de 1999. Ref. BOE-A-1999-4704.
 
 > Se modifica por la Orden de 28 de julio de 1998. Ref. BOE-A-1998-19106.
 
