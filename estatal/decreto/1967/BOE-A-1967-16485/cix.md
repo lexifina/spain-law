@@ -2,6 +2,10 @@
 
 ## 2.09.00. Condiciones generales de los juguetes, útiles de Colegio y material de uso doméstico
 
+> Téngase en cuenta que se deroga el presente Capítulo en lo referente a la seguridad de los juguetes, útiles de uso infantil y artículos de broma, según establece la disposición derogatoria del Real Decreto 2330/1985, de 6 de noviembre. Ref. BOE-A-1985-26094.
+
+> Véase el art. 1 y la disposición derogatoria del Real Decreto 841/1985, de 25 de mayo. Ref. BOE-A-1985-10433., en cuanto a las condiciones de los apartados 2.09.02 a 2.09.05 y 2.09.10 en relación con la letras h) del apartado 2.09.01 y el art. 1 y la disposición derogatoria del Real Decreto 106/1985, de 23 de enero. Ref. BOE-A-1985-2051., en cuanto a las condiciones de los apartados 2.09.02 a 2.09.05 y 2.09.10 en relación con las letras f) y g) del apartado 2.09.01.
+
 ## 2.09.01. Contenido.
 
 Los objetos y utensilios, así como los útiles de trabajo, que puedan estar en contacto con la piel o las mucosas se ajustarán a las condiciones generales del presente Capítulo. Se considerarán, entre otros, incluidos en el mismo:
@@ -14,7 +18,7 @@ c) Material de escritorio.
 
 d) Instrumentos musicales.
 
-e) Utiles de barbería y peluquería.
+e) Útiles de barbería y peluquería.
 
 f) Objetos de adorno o uso personal.
 
@@ -79,6 +83,10 @@ Los tejidos y fibras textiles empleados en la confección de cortinas, tapices, 
 ## 2.09.11. Productos varios.
 
 La crin, seda, guata, pelote, residuos textiles y otros productos semejantes deberán desinfectarse por las industrias correspondientes antes de ser usados en la fabricación y relleno de tapicerías de muebles, colchones, almohadas y otros objetos de uso doméstico, guantes de trabajo, cepillos y objetos similares.
+
+> Se deroga en lo referente a la seguridad de los juguetes, útiles de uso infantil y artículos de broma, por la disposición derogatoria del Real Decreto 2330/1985, de 6 de noviembre. Ref. BOE-A-1985-26094.
+
+> Téngase en cuenta la disposición transitoria, para su aplicación.
 
 > Véase el art. 1 y la disposición derogatoria del Real Decreto 841/1985, de 25 de mayo. Ref. BOE-A-1985-10433., en cuanto a las condiciones de los apartados 2.09.02 a 2.09.05 y 2.09.10 en relación con la letras h) del apartado 2.09.01.
 

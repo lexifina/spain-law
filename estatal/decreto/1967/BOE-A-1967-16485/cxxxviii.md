@@ -451,3 +451,7 @@ c) De los polvos o cilindros llamados «serpientes de faraón», hechas a base d
 Queda prohibida la fabricación de objetos de engaño o imitación que contengan en todo o en parte arena, limaduras metálicas, polvos de vidrio u otras sustancias peligrosas o nocivas.
 
 Las imitaciones de alimentos, empleadas como juguetes infantiles, sólo podrán hacerse con sustancias apropiadas para la alimentación humana.
+
+> Se deroga en lo referente a la seguridad de los juguetes, útiles de uso infantil y artículos de broma, por la disposición derogatoria del Real Decreto 2330/1985, de 6 de noviembre. Ref. BOE-A-1985-26094.
+
+> Téngase en cuenta la disposición transitoria, para su aplicación.
