@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el artículo 2 del Real Decreto 411/1986, de 10 de febrero, por el que se dispone la formación del fichero nacional de electores ajustado a la renovación de los padrones municipales de habitantes de 1986; el Real Decreto 159/1987, de 23 de enero, por el que se dispone la revisión anual del censo electoral con referencia al 1 de enero, y los artículos 1 al 5, ambos inclusive, del Real Decreto 2118/1993, de 3 de diciembre, por el que se dispone la ampliación del censo electoral a los extranjeros nacionales de Estados miembros de la Unión Europea residentes en España, así como cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto.
