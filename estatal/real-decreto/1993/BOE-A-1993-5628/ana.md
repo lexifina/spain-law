@@ -28,7 +28,9 @@
 
 13. Directiva 92/45/CEE, de 16 de junio de 1992, sobre problemas sanitarios y de policía sanitaria relativos a la caza de animales silvestres y a la comercialización de carne de caza silvestre.
 
-14. Directiva 92/46/CEE, de 16 de junio de 1992, por la que se establecen las normas sanitarias aplicables a la producción y comercialización de leche cruda, leche tratada térmicamente y productos lácteos.
+14. Real Decreto 1679/1994, de 22 de julio, por el que se establece las condiciones sanitarias aplicables a la producción y comercialización de leche cruda, leche tratada térmicamente y productos lácteos.
+
+> Se modifica el apartado 14 por la disposición adicional 3 del Real Decreto 1679/1994, de 22 de julio. Ref. BOE-A-1994-20998.
 
 > Se modifica el apartado 10 por la disposición adicional 2 del Real Decreto 1543/1994, de 8 de julio. Ref. BOE-A-1994-20091.
 
