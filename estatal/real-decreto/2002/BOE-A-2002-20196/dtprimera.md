@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Permanencia y cese de los miembros actuales del Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información.
+
+1. Los cambios introducidos en la composición del Consejo Asesor de Telecomunicaciones (ahora Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información) por el presente Real Decreto no supondrán el cese de sus actuales miembros, salvo que su representación haya sido modificada por lo dispuesto en este Real Decreto y que el Ministro de Ciencia y Tecnología, Presidente del Consejo, lo determine expresamente mediante la correspondiente resolución.
+
+2. La Comisión Permanente del Consejo continuará funcionando con la composición vigente a la entrada en vigor de este Real Decreto hasta que los dos tercios de sus componentes estén válidamente nombrados de acuerdo con lo previsto en este Real Decreto, en cuyo momento se efectuarán las correspondientes notificaciones a los miembros anteriores y a los nuevos, y se realizará una convocatoria de dicha Comisión.
