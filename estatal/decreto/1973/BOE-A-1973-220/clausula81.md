@@ -1,0 +1,3 @@
+## Cláusula 81. Comprobación del estado de la autopista por el Ministerio de Obras Públicas.
+
+Sin perjuicio de la inspección técnica que el concesionario establezca para vigilar el estado de la autopista, el Ministerio de Obras Públicas comprobará periódicamente dicho estado. El informe que emitan sus técnicos servirá de base para que dicho Departamento exija la reparación o sustitución de los elementos deteriorados o desgastados, señalando plazo y condiciones de los materiales a emplear. Esta resolución no podrá alterar el trazado o condiciones especiales de la autopista, limitándose a exigir la reposición de las cosas a su primitivo ser y estado.
