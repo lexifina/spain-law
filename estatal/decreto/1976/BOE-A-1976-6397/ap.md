@@ -18,6 +18,8 @@ g) Trabajar en la capacitación de la lengua, a fin de que ésta pueda ser medio
 
 h) Fomentar la celebración de concursos literarios y didácticos.
 
-i) Promover los estudios de filología y lingüística con la creación de cátedras de lengua y literatura vasca.
+i) Promover los estudios de filología y lingüística impulsando la creación de cátedras de lengua y literatura vasca.
 
-j) Expedir los oportunos títulos y certificados.
+j) Como institución consultiva oficial en materia de lengua, expedir los oportunos certificados, informes y dictámenes.
+
+> Se modifican las letras i) y j) por el art. único del Real Decreto 272/2000, de 25 de febrero. Ref. BOE-A-2000-4328.

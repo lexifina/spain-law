@@ -1,3 +1,5 @@
 ## Artículo vigésimo.
 
-A las sesiones extraordinarias privadas asistirán solamente los Académicos de número, sin perjuicio de que puedan ser convocados a ellas Académicos correspondientes, Académicos honorarios e incluso personas ajenas a la Academia, en razón de los asuntos a tratar.
+Las sesiones extraordinarias serán convocadas exclusivamente por decisión de la Junta de Gobierno, que estará obligada a convocarla cuando lo soliciten por escrito cinco académicos de número.
+
+> Se modifica por el art. único del Real Decreto 272/2000, de 25 de febrero. Ref. BOE-A-2000-4328.
