@@ -1,16 +1,24 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_017.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_019.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_020.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_021.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_023.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_022.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_024.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_025.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_026.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_027.png)
+
+> Se modifica por la Orden CTE/0315/2004, de 10 de febrero. Ref. BOE-A-2004-2883.
 
 > Se modifica por la Orden CTE/2780/2003, de 8 de octubre. Ref. BOE-A-2003-18821.
 

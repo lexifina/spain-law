@@ -2,43 +2,49 @@
 
 1. Vehículos automóviles y sus partes y piezas.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_007.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_008.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_009.png)
 
 2. Tractores agrícolas.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_013.png)
 
 3. Vehículos de 2 o 3 ruedas y cuadriciclos.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_015.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_016.png)
 
 4. Varios.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_017.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_018.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/244/18821_016.png)
+> Se modifica por la Orden CTE/0315/2004, de 10 de febrero. Ref. BOE-A-2004-2883.
 
 > Se modifica por la Orden CTE/2780/2003, de 8 de octubre. Ref. BOE-A-2003-18821.
 
