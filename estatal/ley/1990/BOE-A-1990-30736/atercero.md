@@ -14,13 +14,7 @@ Dos. El párrafo primero del artículo 28 se redacta:
 
 No obstante lo dispuesto en el artículo veintiséis, las partes, de común acuerdo, podrán fijar en la póliza o con posterioridad a la celebración del contrato el valor del interés asegurado que habrá de tenerse en cuenta para el cálculo de la indemnización.»
 
-Tres. El artículo 44 adopta la siguiente redacción:
-
-«Artículo 44.
-
-El asegurador no cubre los daños por hechos derivados de conflictos armados, haya precedido o no declaración oficial de guerra, ni los derivados de riesgos extraordinarios, salvo pacto en contrario.
-
-No será de aplicación al contrato de seguros contra daños por grandes riesgos, tal como se delimitan en la Ley de Ordenación del Seguro Privado, el mandato contenido en el artículo segundo de esta Ley.»
+Tres. (Derogado)
 
 Cuatro. El párrafo segundo del artículo 48 queda redactado del siguiente modo:
 
@@ -69,3 +63,5 @@ Lo dispuesto en el artículo precedente será de aplicación a los seguros de pe
 Artículo 109.
 
 En lo no previsto en el artículo 107 se aplicarán al contrato de seguro las normas generales de Derecho Internacional Privado en materia de obligaciones contractuales.»
+
+> Se deroga el apartado 3 por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.

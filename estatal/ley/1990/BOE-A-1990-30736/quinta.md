@@ -13,3 +13,5 @@ En la Ley 122/1962, de 24 de diciembre, sobre Uso y Circulación de Vehículos d
 4. Se da nueva redacción al párrafo segundo del artículo 16:
 
 «Si la cantidad líquida señalada en el título fuese inferior a la exigida en el artículo 1.435 de la. Ley de Enjuiciamiento Civil, la reclamación habrá de formularse en juicio verbal ante el órgano jurisdiccional competente.»
+
+> Se deroga el inciso destacado por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.

@@ -1,3 +1,5 @@
 ## Disposición final novena. Seguro Obligatorio de Viajeros.
 
-Se prorroga para 1989, en sus propios términos, la disposición final segunda de la Ley 33/1987, de 23 de diciembre, de Presupuestos Generales del Estado para 1988.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262#ddunica

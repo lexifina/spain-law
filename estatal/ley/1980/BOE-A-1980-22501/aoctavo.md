@@ -1,6 +1,6 @@
 ## Artículo octavo.
 
-La póliza del contrato debe contener, como mínimo, las indicaciones siguientes:
+La póliza del contrato debe estar redactada en todo caso en castellano y, si el tomador del seguro lo solicita, en otra lengua. Contendrá, como mínimo, las indicaciones siguientes:
 
 Uno. Nombre y apellidos o denominación social de las partes contratantes y su domicilio, así como la designación del asegurado y beneficiario, en su caso.
 
@@ -23,3 +23,5 @@ Nueve. Nombre del agente o agentes, en el caso de que intervengan en el contrato
 En caso de póliza flotante, se especificará, además, la forma en que debe hacerse la declaración del abono.
 
 Si el contenido de la póliza difiere de la proposición de seguro o de las cláusulas acordadas, el tomador del seguro podrá reclamar a la Entidad aseguradora en el plazo de un mes a contar desde la entrega de la póliza para que subsane la divergencia existente. Transcurrido dicho plazo sin efectuar la reclamación, se estará a lo dispuesto en la póliza. Lo establecido en este párrafo se insertará en toda póliza del contrato de seguro.
+
+> Se modifica el párrafo primero por la disposición adicional 6.1 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262

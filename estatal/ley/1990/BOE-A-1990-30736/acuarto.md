@@ -22,11 +22,13 @@ Artículo 2. Régimen jurídico.
 
 Artículo 3. Objeto.
 
-1. El Consorcio de Compensación de Seguros, como Organismo inspirado en el principio de compensación, tiene por objeto cubrir, en los términos fijados en el presente Estatuto Legal, los riesgos extraordinarios sobre las personas y los bienes, los riesgos nucleares, los riesgos agrícolas, pecuarios y forestales, los riesgos de responsabilidad civil de los conductores de vehículos de motor, los riesgos del seguro obligatorio de viajeros y el riesgo de responsabilidad civil del cazador.
+1. El Consorcio de Compensación de Seguros, como organismo inspirado en el principio de compensación, tiene por fin cubrir los riesgos en los seguros que se determinan en el presente Estatuto Legal, con la amplitud que se fija en el mismo o pueda hacerse en disposiciones específicas con rango de Ley.
 
-2. Como Entidad de Derecho Público, compete al Consorcio de Compensación de Seguros la gestión y recaudación del recargo destinado a contribuir a la financiación de la Comisión Liquidadora de Entidades Aseguradoras. Asimismo, le corresponden en el Seguro de Crédito a la Exportación por cuenta del Estado las funciones que le atribuya la legislación reguladora de este seguro.
+Para el adecuado cumplimiento de los fines antedichos el Consorcio podrá celebrar pactos de coaseguro así como ceder o retroceder en reaseguro parte de los riesgos asumidos a entidades aseguradoras españolas o extranjeras que están autorizadas para realizar operaciones de esta naturaleza. Asimismo, podrá aceptar en reaseguro en el seguro de riesgos nucleares y en el seguro agrario combinado en los términos previstos en el presente Estatuto Legal.
 
-3. El Consorcio de Compensación de Seguros podrá ceder o retroceder en reaseguro parte de los riesgos que asuma en virtud de lo dispuesto en el presente Estatuto Legal a Entidades españolas o extranjeras que estén autorizadas para realizar operaciones de esta naturaleza. Asimismo, podrá aceptar el reaseguro en los casos previstos en el presente Estatuto.
+2. Fuera de los supuestos a que se refiere el número 1 precedente, el Consorcio de Compensación de Seguros podrá asumir la cobertura concertando pactos de coaseguro o aceptando en reaseguro en aquellos supuestos en que concurran razones de interés público que lo aconsejen, atendiendo la situación y circunstancias del mercado asegurador.
+
+3. Son funciones públicas del Consorcio de Compensación de Seguros las concernientes a la exigibilidad de los recargos a favor del mismo, las que le atribuye la legislación reguladora del seguro de crédito a la exportación por cuenta del Estado y las que le confiere el artículo 16.
 
 ## CAPITULO II
 
@@ -56,7 +58,9 @@ e) Proponer cuantas medidas, planes y programas sean convenientes para un mejor 
 
 f) Contraer crédito y emitir deuda en los términos de la presente Ley y demás Disposiciones aplicables a las Entidades de Derecho Público.
 
-g) Aprobar las notas técnicas y tarifas que deba utilizar el Consorcio.
+g) Aprobar los modelos de pólizas, tarifas de primas y bases técnicas que deba utilizar el Consorcio.
+
+h) Prestar, por mayoría de dos tercios de sus componentes, el consentimiento en la contratación, como coasegurador o aceptando en reaseguro, de la cobertura de los riesgos a que se refiere el número 2 del artículo 3 en todos los supuestos distintos a los expresamente regulados en los artículos 6 a 11, ambos inclusive, del presente Estatuto Legal.
 
 2. Competen a la Presidencia las funciones del Consorcio de Compensación de Seguros que no atribuye expresamente al Consejo de Administración el apartado precedente.
 
@@ -130,13 +134,15 @@ b) Que, aun estando amparado por póliza de seguro, las obligaciones de la Entid
 
 2. La obligación del Consorcio de Compensación de Seguros amparará necesaria y exclusivamente a las mismas personas o bienes y por las mismas sumas aseguradas que se hayan establecido en las pólizas de seguro, sin perjuicio de lo que reglamentariamente se establezca en relación con los daños a vehículos de motor y con los pactos de inclusión facultativa en las pólizas.
 
+Esta obligación se limitará a las indemnizaciones que proceda abonar conforme a la ley española de contrato de seguro.
+
 3. En todas las pólizas incluidas en el artículo anterior figurará una cláusula de cobertura por el Consorcio de Compensación de Seguros de los riesgos extraordinarios, en la que se hará referencia expresa a la facultad para el tomador del seguro de cubrir dichos riesgos con aseguradores que reúnan las condiciones exigidas por la legislación vigente. Dicha cláusula será aprobada por la Dirección General de Seguros, a propuesta del Consorcio de Compensación de Seguros, y se publicará en el «Boletín Oficial del Estado».
 
 4. Reglamentariamente, para los casos y en las condiciones que se determinen, podrá establecerse un período de carencia.
 
 5. En los seguros contra daños podrá fijarse por el Ministro de Economía y Hacienda, a propuesta del Consorcio de Compensación de Seguros, una franquicia a cargo del asegurado para los supuestos en que el Consorcio tenga la obligación de indemnizar.
 
-6. El Consorcio de Compensación de Seguros, una vez indemnizadas las víctimas o sus beneficiarios, podrá repetir contra la Entidad aseguradora recobrando la parte proporcional de lo pagado en la cuantía que exceda de la correspondiente al recargo efectivamente cobrado en su favor, cuando éste haya sido indebidamente aplicado por defecto por la referida Entidad.
+6. (Suprimido)
 
 Artículo 9. En relación con el Seguro de Riesgos Nucleares.
 
@@ -164,11 +170,11 @@ Artículo 11. En relación con el Seguro de Responsabilidad Civil de suscripció
 
 1. El Consorcio de Compensación de Seguros asumirá, exclusivamente dentro de los límites indemnizatorios fijados para el Seguro de Responsabilidad Civil de suscripción obligatoria derivada del Uso y Circulación de Vehículos de Motor, las siguientes funciones:
 
-a) La contratación de cobertura de las obligaciones derivadas de la responsabilidad civil del Estado y de sus Organismos autónomos por razón de la circulación de sus vehículos de motor. Respecto de las Comunidades Autónomas, de las Corporaciones Locales y Entidades de Derecho Público dependientes de unas u otras o del Estado, el Consorcio contratará la cobertura cuando éstas manifiesten no tener concertado seguro con otra Entidad aseguradora.
+a) La contratación de cobertura de las obligaciones derivadas de la responsabilidad civil del Estado, Comunidades Autónomas, Corporaciones Locales y Organismos Autónomos o Entidades de Derecho Público adscritos a cualquiera de ellos cuando, en todos los casos, soliciten concertar este seguro con el Consorcio de Compensación de Seguros.
 
 b) La contratación de la cobertura de los riesgos no aceptados por las Entidades aseguradoras.
 
-c) El pago de las obligaciones de dichas Entidades cuando hubieran sido declaradas en quiebra, suspensión de pagos o que, hallándose en una situación de insolvencia, estuviesen sujetas a un procedimiento de liquidación intervenida o ésta hubiera sido asumida por la Comisión Liquidadora de Entidades Aseguradoras.
+c) (Suprimida)
 
 2. No obstante lo dispuesto en el número anterior, el Consorcio de Compensación de Seguros podrá asumir la cobertura de la Responsabilidad Civil derivada del Uso y Circulación de Vehículos de Motor, superando los límites del seguro obligatorio, respecto de los vehículos asegurados descritos en el apartado a) del número 1 precedente.
 
@@ -206,47 +212,51 @@ El Gobierno determinará las funciones que, en su caso, correspondan al Consorci
 
 Artículo 15. En relación con la Comisión Liquidadora de Entidades Aseguradoras.
 
-Compete al Consorcio de Compensación de Seguros la gestión y recaudación del recargo del 5 por 1.000 sobre las primas recaudadas por las entidades aseguradoras en todos los ramos, salvo el de vida, destinado a efectuar subvenciones a la Comisión Liquidadora de Entidades Aseguradoras con objeto de que por ésta puedan cumplirse las funciones que le encomienda la legislación vigente y cubrir los gastos necesarios para el funcionamiento de la misma.
+Corresponde al Consorcio de Compensación de Seguros el recargo destinado a efectuar subvenciones a la Comisión Liquidadora de Entidades Aseguradoras, así como su gestión y recaudación.
 
-Las citadas subvenciones serán otorgadas por el Consorcio con cargo al importe íntegro cobrado del recargo del 5 por 1.000, sin estar limitado por ejercicios económicos, en la cantidad necesaria para financiar la totalidad del presupuesto anual de la Comisión Liquidadora de Entidades Aseguradoras y en la medida que el mismo no pueda ser atendido con recursos propios. Además podrá otorgar a la Comisión Liquidadora subvenciones a cuenta de la efectiva recaudación del antedicho recargo en el ejercicio en que se otorgan, teniendo en este último caso como límite el importe de la recaudación anual del recargo en el último ejercicio finalizado.
+Las citadas subvenciones serán otorgadas por el Consorcio con cargo al importe íntegro cobrado del recargo, sin estar limitado por ejercicios económicos, en la cantidad necesaria para financiar la totalidad del presupuesto anual de la Comisión Liquidadora de Entidades Aseguradoras y en la medida en que dicho presupuesto no pueda ser atendido con recursos propios. Además, podrá otorgar a la Comisión subvenciones a cuenta de la efectiva recaudación del antedicho recargo en el ejercicio en que se otorgan, teniendo en este último caso como límite el importe de la recaudación anual del recargo en el último ejercicio finalizado.
 
-Por la Dirección General de Seguros se establecerá el procedimiento para la realización de las subvenciones destinadas al cumplimiento de los fines de la Comisión Liquidadora de Entidades Aseguradoras.
+Por la Dirección General de Seguros se establecerá el procedimiento para el otorgamiento y efectividad de las subvenciones destinadas al cumplimiento de los fines de la Comisión Liquidadora de Entidades Aseguradoras.
 
-No se abonarán intereses a favor de la Comisión Liquidadora de Entidades Aseguradoras como consecuencia del desfase temporal que pudiera existir entre el cobro de los recargos por el Consorcio y las subvenciones que haya de efectuar éste en favor de aquélla.
+No se abonarán intereses a favor de la Comisión Liquidadora de Entidades Aseguradoras como consecuencia del desfase que pudiera existir entre la recaudación de los recargos por el Consorcio y las subvenciones que haya de efectuar éste en favor de aquéllaArtículo
 
 Artículo 16. Otras funciones públicas.
 
 Corresponden además al Consorcio de Compensación de Seguros las siguientes funciones:
 
-1. Proponer o comunicar, en su caso, a la Dirección General de Seguros las tarifas de carácter general de las primas y recargos a percibir por el Consorcio como contrapartida a las funciones indemnizatorias atribuidas al mismo.
-
-La propuesta de tarifas responderá al principio de suficiencia fundado en las reglas de la técnica aseguradora, sin perjuicio del principio de solidaridad que ha de animar las operaciones realizadas por el Consorcio.
+1. Proponer a la Dirección General de Seguros las tarifas de los recargos a percibir por el Consorcio como contrapartida a las funciones de fondo de garantía y de compensación atribuidas al mismo.
 
 2. Recabar la información que reglamentariamente se determine a que estarán obligadas las entidades aseguradoras que emitan pólizas de seguro en los ramos señalados en el artículo 7.º respecto de dichas pólizas.
 
 Particularmente, las Entidades aseguradoras con domicilio en la Comunidad Económica Europea que, no siendo residentes en territorio español ni operando en el mismo por medio de establecimiento, emitan pólizas de las referidas en el apartado precedente, vendrán obligadas a designar una persona, física o jurídica, con domicilio en España, para que les represente ante el Consorcio de Compensación de Seguros en relación con las obligaciones señaladas en los artículos 7.º y 8.º
 
-3. Cualquiera otras funciones públicas que le atribuyan las disposiciones legales vigentes.
+3. Elaborar planes y programas de prevención y reducción de siniestros y desarrollarlos a través de las correspondientes campañas y medidas preventivas, concertar convenios con fondos de garantía de otros Estados al objeto de facilitar el respectivo cumplimiento de sus funciones en el ámbito de los seguros obligatorios y cualesquiera otras que le atribuyan las normas legales o reglamentarias vigentes.
 
 ## CAPITULO IV
 
 ## Régimen de funcionamiento
 
-Artículo 17. Recaudación de primas y recargos en período voluntario.
+Artículo 17. Determinación de modelos de pólizas, tarifas de primas y bases técnicas.
 
-1. Todos los recargos y primas del Consorcio de Compensación de Seguros, salvo en el supuesto de que concertara directamente los seguros, serán recaudados por las Entidades aseguradoras juntamente con sus primas o, caso de fraccionamiento de las mismas, con el primer pago fraccionado que se haga.
+1. El Consorcio de Compensación de Seguros percibirá primas en los casos en que celebre contratos de seguro como asegurador o acepte en reaseguro.
 
-2. Las Entidades aseguradoras vendrán obligadas, al tiempo de presentar al Consorcio la declaración de los recargos y primas recaudadas por cuenta del mismo, a practicar una liquidación e ingresar su importe con la periodicidad y con sujeción a las reglas que se determinen reglamentariamente.
+2. Los modelos de pólizas, tarifas de primas y bases técnicas en los seguros concertados por el Consorcio se ajustarán a lo dispuesto en el artículo 24 de la Ley de Ordenación y Supervisión de los Seguros Privados.
 
-3. Las liquidaciones practicadas por la Dirección General de Seguros derivadas de Actas de Inspección que no tengan señalado plazo de ingreso por sus normas específicas deberán ser ingresadas dentro de los quince días siguientes a aquel en que tuvo lugar la notificación de la liquidación a la Entidad aseguradora.
+Artículo 18. Recargos a favor del Consorcio de Compensación de Seguros.
 
-4. El ejercicio de la gestión recaudadora por cuenta del Consorcio de Compensación de Seguros, cumpliendo lo dispuesto en este precepto, llevará aparejado el derecho a percibir una comisión de cobro que fijará la Dirección General de Seguros a propuesta del Consorcio y previa audiencia de las Entidades aseguradoras más representativas, y del Consejo General de los Colegios de Agentes y Corredores de Seguros, sin que pueda exceder del 10 por 100 de los importes brutos recaudados.
+1. Son recargos a favor del Consorcio de Compensación de Seguros: el recargo en el seguro de riesgos extraordinarios sobre las personas y los bienes, el recargo en el seguro obligatorio de responsabilidad civil en la circulación de vehículos de motor, el recargo destinado a efectuar subvenciones a la Comisión Liquidadora de Entidades Aseguradoras, el recargo en el seguro obligatorio de responsabilidad civil del cazador y el recargo en el seguro obligatorio de viajeros. Estos recargos, que corresponden al Consorcio en sus funciones de compensación y fondo de garantía, tienen el carácter de ingresos de derecho público exigibles por la vía administrativa de apremio cuando no hayan sido ingresados por las entidades aseguradoras en el plazo fijado en el número 3 subsiguiente, siendo a tal efecto título ejecutivo la certificación de descubierto expedida por el Director general de Seguros, a propuesta del Consorcio.
 
-Artículo 18. Recaudación de primas y recargos en período de apremio.
+2. Todos los recargos a favor del Consorcio de Compensación de Seguros serán recaudados obligatoriamente por las entidades aseguradoras juntamente con sus primas o, caso de fraccionamiento de las mismas, con el primer pago fraccionado que se haga.
 
-1. El incumplimiento de ingresar en el Consorcio lo percibido por la Entidad de seguros en el plazo legalmente establecido llevará aparejado, sin perjuicio de las responsabilidades administrativas y, en su caso, penales en que hubiera podido incurrir, la obligación de satisfacer durante el período de demora el interés legal.
+La Dirección General de Seguros, a través de la Inspección de Seguros y conforme a los planes de inspección aprobados a propuesta del Consorcio, inspeccionará a las entidades aseguradoras que recauden recargos a favor del Consorcio de Compensación de Seguros, al objeto de comprobar el efectivo cumplimiento de esta obligación.
 
-2. Tienen el carácter de ingresos de derecho público las primas y recargos a satisfacer a las Entidades aseguradoras en favor del Consorcio de Compensación de Seguros en sus funciones de compensación y fondo de garantía. Dichos ingresos serán exigibles por la vía administrativa de apremio, cuando no hayan sido ingresados por aquéllas en el plazo fijado en el artículo anterior. A tal efecto, será título ejecutivo la certificación de descubierto expedida por el Director general de Seguros a propuesta del Consorcio.
+3. Las entidades aseguradoras vendrán obligadas, al tiempo de presentar al Consorcio la declaración de los recargos recaudados por cuenta del mismo, a practicar una liquidación e ingresar su importe con la periodicidad y con sujeción a las reglas que se determinen reglamentariamente.
+
+Tanto las liquidaciones practicadas por la Dirección General de Seguros derivadas de actas de inspección como aquellas otras que no tengan señalado plazo de ingreso por sus normas específicas deberán ser ingresadas dentro de los quince días siguientes a aquél en que tuvo lugar la notificación de la liquidación a la entidad aseguradora.
+
+4. El ejercicio de la gestión recaudadora por cuenta del Consorcio de Compensación de Seguros, cumpliendo lo dispuesto en este precepto, llevará aparejado el derecho a percibir una comisión de cobro que fijará la Dirección General de Seguros a propuesta del Consorcio y previa audiencia de las entidades y organizaciones aseguradoras más representativas, sin que pueda exceder del 10 por 100 de los importes brutos recaudados.
+
+5. El incumplimiento de la obligación de ingresar en el Consorcio los recargos percibidos por la entidad aseguradora en el plazo y forma legalmente establecidos llevará aparejado, sin perjuicio de las responsabilidades administrativas y, en su caso, penales en que hubiera podido incurrir, la obligación de satisfacer durante el período de demora el interés legal y, además, la pérdida de la comisión de cobro.
 
 Artículo 19. Asistencia jurídica y servicio de inspección.
 
@@ -266,7 +276,9 @@ No obstante lo anterior, serán de aplicación las siguientes reglas especiales:
 
 2. Para que sea admisible la demanda ejecutiva a que se refiere la Ley sobre Uso y Circulación de Vehículos de Motor deberá acreditarse fehacientemente que el Consorcio fue requerido judicial o extrajudicialmente de pago, y que desde dicho requerimiento transcurrió un plazo de tres meses sin haber sido atendido.
 
-3. En el Seguro Obligatorio de Viajeros y en el Seguro Obligatorio de Responsabilidad Civil del Cazador se acompañará a la reclamación la prueba acreditativa de que procede la cobertura del Consorcio, así como informe médico sobre las lesiones producidas y sus causas y, en su caso, del alta o defunción.
+Para que sea admisible la demanda en el juicio regulado en la disposición adicional primera de la Ley Orgánica 3/1989, de 21 de junio, de actualización del Código Penal, deberá acreditarse fehacientemente que el Consorcio fue requerido judicial o extrajudicialmente de pago y que desde dicho requerimiento transcurrió un plazo de tres meses sin haber sido atendido.
+
+3. En el ejercicio de la facultad de repetición por el Consorcio será título ejecutivo, a los efectos del artículo 1.429 de la Ley de Enjuiciamiento Civil, la certificación del Presidente del Consorcio de Compensación de Seguros acreditativa del importe de la indemnización abonada por el Consorcio siempre que, habiendo sido requerido de pago el responsable, no lo haya realizado en el plazo de un mes desde dicho requerimiento.
 
 4. En la tramitación de los siniestros en el seguro de incendios forestales en que el Consorcio de Compensación de Seguros tenga función de asegurador se acompañará a la reclamación certificación de la autoridad competente sobre las causas del siniestro y la extensión aproximada del área afectada por el incendio. Además, si la reclamación es por gastos de extinción de incendios deberá acompañarse también informe de las autoridades que los hubieran ordenado o que hubieran dirigido la extinción en el que se justifiquen los mismos, y si la reclamación es por lesiones en las personas se acompañará informe médico sobre las mismas y sus causas, así como del alta o defunción, en su caso.
 
@@ -302,17 +314,17 @@ e) Los procedentes de los créditos, préstamos y demás operaciones financieras
 
 f) Cualquier otro ingreso que le corresponda conforme a la legislación vigente.
 
-2. Las tarifas de primas y recargos a percibir por el Consorcio con carácter general serán aprobadas por la Dirección General de Seguros a propuesta del mismo y se publicarán en el «Boletín Oficial del Estado».
+2. Las tarifas de recargos a favor del Consorcio de Compensación de Seguros sin regulación específica serán aprobadas por la Dirección General de Seguros a propuesta del Consorcio y se publicarán en el "Boletín Oficial del Estado".
 
-Artículo 24. Patrimonio y provisión técnica para siniestros excepcionales.
+Artículo 24. Patrimonio y provisión técnica de estabilización.
 
 1. Constituye el patrimonio del Consorcio de Compensación de Seguros la totalidad de los bienes, derechos, obligaciones y participaciones accionarias que le atribuye el presente Estatuto Legal y demás disposiciones aplicables al mismo, así como los que en lo sucesivo adquiera o le sean incorporados. Asimismo integran su patrimonio las aportaciones que el Estado realice a efectos de mantener el adecuado equilibrio técnico-financiero por cada ramo de aseguramiento, así como el margen de solvencia exigido al Consorcio por el Ordenamiento jurídico en materia de seguros.
 
-No obstante, en los Seguros Agrarios Combinados, el Consorcio deberá llevar las operaciones que realice con absoluta separación contable respecto del resto de las operaciones que realice y constituir un patrimonio afecto exclusivamente a dichas operaciones de seguros agrarios combinados, que estará jurídicamente separado de los demás elementos patrimoniales de la Entidad y en el que asimismo se integran las aportaciones que el Estado realice a efectos de mantener el adecuado equilibrio técnico-financiero en el mismo. Dicho patrimonio responderá sólo de las resultas de tales operaciones de aseguramiento, sin que tampoco puedan estas últimas recaer sobre el restante patrimonio de la Entidad.
+No obstante, en los seguros agrarios combinados, el Consorcio deberá llevar las operaciones que realice con absoluta separación financiera y contable respecto del resto de las operaciones, con integración de las aportaciones que el Estado realice al efecto de mantener el adecuado equilibrio técnico-financiero de estas operaciones.
 
 Se excluyen del patrimonio del Consorcio los recursos correspondientes a los riesgos cubiertos por el Seguro de Crédito a la Exportación por cuenta del Estado, que estarán dotados de plena independencia financiera, patrimonial y contable.
 
-2. El Consorcio de Compensación de Seguros constituirá una provisión técnica, de carácter acumulativo, destinada a compensar siniestros de carácter y cuantía excepcionales, que se dotará conforme a los criterios técnicos que determine el Ministerio de Economía y Hacienda.
+2. El Consorcio de Compensación de Seguros constituirá la provisión técnica de estabilización de forma separada para las coberturas relativas al Seguro Agrario Combinado y para el resto de las coberturas y, por lo que respecta a estas últimas, de manera global para todas las coberturas afectadas. Esta provisión se dotará con arreglo a los criterios específicos que reglamentariamente se determinen, considerando que debe atender también a indemnizar siniestros con el carácter de fondo de garantía y en sus funciones de compensación y tendrá la consideración de partida deducible a efectos de determinar la base imponible del Impuesto sobre Sociedades correspondiente al ejercicio en que se efectúe tal dotación, siempre que la cuantía total de la provisión no rebase los límites que se establezcan reglamentariamente.
 
 Artículo 25. Régimen de presupuesto, contabilidad y de control.
 
@@ -337,3 +349,5 @@ c) La deuda instrumentada en valores cotizables en Bolsa será admitida de ofici
 d) Las obligaciones patrimoniales del Consorcio tienen la garantía del Estado en los mismos términos que las de la Hacienda Pública.
 
 3. El Gobierno, a propuesta del Ministerio de Economía y Hacienda, podrá autorizar la apertura de cuentas de crédito en el Banco de España con el fin de atender a las necesidades transitorias de financiación derivadas de su actividad. No obstante, en el ámbito de los Seguros Agrarios Combinados se determinará reglamentariamente el procedimiento para atender, mediante la apertura de crédito antes referida, a tal finalidad.»
+
+> Se modifica por la disposición adicional 9 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.

@@ -1,5 +1,5 @@
 ## Disposición adicional sexta.
 
-El párrafo tercero y último del artículo 4.º, 6, del Real Decreto-Ley 10/1984, de 11 de julio, por el que se establecen medidas urgentes para el saneamiento del sector del seguro privado y para el reforzamiento del Organismo de control, queda redactado del siguiente modo:
+(Derogada)
 
-«Las acciones de cualquier clase ejercitadas contra la entidad antes del comienzo de la liquidación o durante ésta ante cualquier jurisdicción, incluidas aquellas que persigan bienes hipotecados o pignorados, seguirán su tramitación hasta obtener sentencia firme. La ejecución de ésta, la de los embargos cautelares trabados, así como la de las providencias administrativas de apremio, quedará en suspenso en tanto se tramita por la Comisión el procedimiento liquidatorio. Si el plan de liquidación no fuera aprobado por los acreedores o ratificado por la Dirección General de Seguros, quedará expedito a aquéllos el ejercicio de las acciones legales oportunas para instar las actuaciones judiciales procedentes, y a las Administraciones Públicas, el de sus potestades para proseguir los procedimientos administrativos de apremio.»
+> Se deroga por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
