@@ -20,6 +20,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 7](a7.md)
 - [Disposición adicional primera](daprimera.md)
 - [Disposición adicional segunda](dasegunda.md)
+- [Disposición adicional segunda bis](dasegundabis.md)
 - [Disposición adicional tercera](datercera.md)
 - [Disposición adicional cuarta](dacuaa.md)
 - [Disposición adicional quinta](daquinta.md)

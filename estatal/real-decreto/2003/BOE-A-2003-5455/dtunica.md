@@ -1,0 +1,5 @@
+## Disposición transitoria única. Régimen transitorio.
+
+Las ayudas y resarcimientos regulados en este reglamento serán de aplicación a los hechos acaecidos a partir del día 1 de enero de 2002, rigiéndose por la normativa vigente hasta esa fecha las ayudas y resarcimientos derivados de hechos anteriores a aquélla. No obstante, las ayudas al estudio y las de asistencia psicológica podrán ser concedidas, conforme a las normas de este reglamento aplicables, cualquiera que fuese la fecha del acto lesivo causante del daño.
+
+Los procedimientos de resarcimiento de daños corporales y materiales causados por actividades delictivas de bandas armadas y elementos terroristas, que se encuentren en tramitación en la fecha de entrada en vigor de este real decreto, se completarán de acuerdo con las normas procedimentales anteriores. No obstante, la evaluación de los daños corporales y materiales, y la revisión en vía administrativa de las resoluciones acordadas, se efectuará conforme a lo dispuesto en el apartado cinco del artículo 43 de la Ley 24/2001, de 27 de diciembre, de medidas fiscales y administrativas y del orden social, y a lo preceptuado en este reglamento.
