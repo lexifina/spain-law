@@ -1,0 +1,23 @@
+La Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante, estableció, en su artículo 78, la obligatoriedad de las empresas navieras de tener asegurada la responsabilidad civil en que pudieran incurrir con ocasión de la explotación mercantil de sus buques; para la concreción de sus términos encomendó al Gobierno el desarrollo reglamentario del seguro de responsabilidad civil de suscripción obligatoria, de acuerdo, en todo caso, con las coberturas usuales de este ramo en el mercado internacional.
+
+Idéntica obligación se estableció para cualquier otro tipo de buque civil español, según la clasificación contenida en el artículo 8 de la Ley 27/1992, así como para los buques extranjeros que navegaren dentro de la zona económica exclusiva, zona contigua, mar territorial o aguas interiores españolas.
+
+En la actualidad, si bien las empresas navieras como consecuencia, además de las obligaciones derivadas de las normas de derecho internacional, entre las que cabe citar el Convenio internacional sobre responsabilidad civil nacida de daños debidos a contaminación por hidrocarburos de 1969, enmendado por el Protocolo hecho en Londres el 27 de noviembre de 1992 y el Convenio internacional hecho en Bruselas el 17 de diciembre de 1971, sobre responsabilidad civil en la esfera del transporte marítimo de sustancias nucleares, tienen garantizadas la cobertura en materia de responsabilidad civil, no ocurre lo mismo con las embarcaciones de recreo o deportivas.
+
+Se hace preciso, en consecuencia, reglamentar el seguro obligatorio de responsabilidad civil de embarcaciones de recreo o deportivas, cuyo incremento en el campo de la actividad marítima ha sido incesante en los últimos tiempos, dando de esta manera cumplimiento al mandato legal contenido en el ya citado artículo 78 de la Ley 27/1992.
+
+Atendiendo al principio de seguridad jurídica, y habida cuenta de la variada tipología de buques que pudieran, «a priori», incluirse dentro de la categoría «de recreo o deportivas», Se hace preciso delimitar el alcance material de la norma, a la luz de los artículos 75 y 107 de la Ley 50/1980, de Contrato de Seguro.
+
+En igual sentido, y a tenor del contenido del párrafo tercero del precitado artículo 78 de la Ley 27/1992, las embarcaciones de recreo o deportivas extranjeras que naveguen por el mar territorial español o las aguas marítimas interiores deberán, sobre la base de la misma finalidad tuitiva de protección de terceros perjudicados, acreditar la suscripción o tenencia de un seguro de responsabilidad civil de las mismas características y garantías que el exigido a los nacionales españoles. En este caso, el desarrollo reglamentario se ciñe escrupulosamente a otras normas y realidades que inciden en la materia, como pudiera ser el caso de garantías previamente contratadas en el país de origen o el carácter temporal de la navegación por aguas españolas.
+
+En ambos casos, para la falta de aseguramiento en las condiciones mínimas establecidas, se introduce el régimen sancionador específico recogido en la Ley de Puertos del Estado y de la Marina Mercante, sin perjuicio de que pudieran resultar de aplicación otras sanciones en el orden penal. Habida cuenta de las condiciones en las que se desarrolla la navegación, este Reglamento pretende facilitar la prueba de la existencia de garantía, aligerando el régimen general de la Ley de Contrato de Seguro, declarando suficiente el recibo o justificante de prima con unas menciones adicionales.
+
+El seguro obligatorio cubre la responsabilidad civil en que puedan incurrir tanto el naviero y el propietario, como aquellos otros que, debidamente autorizados, patroneen la embarcación o secunden en su gobierno.
+
+El esquema de responsabilidad civil subjetiva que se recoge en este Real Decreto, como no podía ser de otra manera, es el clásico en el derecho español, basado en el artículo 1902 del Código Civil.
+
+De otro lado, el seguro de responsabilidad civil regulado establece, en protección de terceros perjudicados, unos límites de aseguramiento que se consideran suficientes sobre la base de la experiencia acumulada hasta el momento, habida cuenta que una gran parte de las embarcaciones a las que se refiere este Real Decreto ya cuentan con una cobertura de carácter voluntario, sin perjuicio de que el perjudicado obtenga la total indemnidad del daño sufrido con cargo al patrimonio del declarado responsable.
+
+En su virtud, a propuesta de los Ministros de Fomento y de Economía y Hacienda, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 16 de abril de 1999,
+
+DISPONGO:
