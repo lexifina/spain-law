@@ -1,3 +1,5 @@
 ## Artículo cincuenta y tres.
 
-La admisión de alumnos en los centros concertados se ajustará al régimen establecido para los centros públicos en el artículo 20 de esta Ley.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037

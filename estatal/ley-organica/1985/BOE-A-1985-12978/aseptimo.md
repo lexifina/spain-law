@@ -12,4 +12,4 @@ c) Promover la participación de los alumnos en los órganos colegiados del cent
 
 d) Realizar actividades culturales, deportivas y de fomento de la acción cooperativa y de trabajo en equipo.
 
-e) Promover federaciones y confederaciones, de acuerdo con el procedimiento establecido en la legislación vigente.
+> Se deroga el apartado 2.e) por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037

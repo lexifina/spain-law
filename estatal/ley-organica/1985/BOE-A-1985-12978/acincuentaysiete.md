@@ -8,11 +8,11 @@ b) Intervenir en la selección y despido del profesorado del centro, conforme co
 
 c) Garantizar el cumplimiento de las normas generales sobre admisión de alumnos.
 
-d) Resolver los asuntos de carácter grave planteados en el centro en materia de disciplina de alumnos.
+d) (Derogado)
 
 e) Aprobar, a propuesta del titular, el presupuesto del centro en lo que se refiere tanto a los fondos provenientes de la Administración como a las cantidades autorizadas, así como la rendición anual de cuentas.
 
-f) Aprobar y evaluar la programación general del centro que con carácter anual elaborará el equipo directivo.
+f) Informar la programación general del centro que, con carácter anual, aprobará el equipo directivo.
 
 g) Proponer, en su caso, a la Administración la autorización para establecer percepciones a los padres de los alumnos por la realización de actividades escolares complementarias.
 
@@ -27,5 +27,7 @@ k) Establecer relaciones de colaboración con otros centros, con fines culturale
 l) Aprobar, a propuesta del titular, el reglamento de régimen interior del centro.
 
 ll) Supervisar la marcha general del centro en los aspectos administrativos y docentes.
+
+> Se deroga la letra d) y se modifica la letra f) por la disposición derogatoria única.3 y la disposición final 1.5 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
 
 > Se modifican las letras g), h) e i) por la disposición final 1.5 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202

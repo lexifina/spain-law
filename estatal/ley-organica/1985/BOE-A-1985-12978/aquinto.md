@@ -14,6 +14,8 @@ c) Promover la participación de los padres de los alumnos en la gestión del ce
 
 4. Las asociaciones de padres de alumnos podrán utilizar los locales de los centros docentes para la realización de las actividades que les son propias, a cuyo efecto, los directores de los centros facilitarán la integración de dichas actividades en la vida escolar, teniendo en cuenta el normal desarrollo de la misma.
 
-5. Las asociaciones de padres de alumnos podrán promover federaciones y confederaciones, de acuerdo con el procedimiento establecido en la legislación vigente.
+5. (Derogado)
 
 6. Reglamentariamente se establecerán, de acuerdo con la Ley, las características específicas de las asociaciones de padres de alumnos.
+
+> Se deroga al apartado 5 por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037

@@ -6,4 +6,6 @@
 
 3. La programación general de la enseñanza que corresponda a las Comunidades Autónomas en su ámbito territorial comprenderá en todo caso una programación específica de los puestos escolares en la que se determinarán las comarcas, municipios y zonas donde dichos puestos hayan de crearse.
 
-La programación específica de puestos escolares de nueva creación en los niveles obligatorios gratuitos deberá tener en cuenta, en todo caso, la oferta existente de centros públicos y concertados.
+La programación específica de puestos escolares de nueva creación en los niveles gratuitos deberá tener en cuenta, en todo caso, la oferta existente de centros públicos y concertados.
+
+> Se modifica el párrafo segundo del apartado 3 por la disposición final 1.1 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037

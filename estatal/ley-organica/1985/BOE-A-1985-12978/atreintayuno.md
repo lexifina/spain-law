@@ -10,7 +10,7 @@ c) Los alumnos, cuya designación se realizará por las confederaciones de asoci
 
 d) El personal de administración y de servicios de los centros docentes, cuya designación se efectuará por sus centrales y asociaciones sindicales de mayor representatividad.
 
-e) Los titulares de los centros privados, cuya designación se producirá a través de las organizaciones empresariales de enseñanza más representativas.
+e) Los titulares de los centros privados, cuya designación se producirá a través de las organizaciones de titulares y empresariales de enseñanza más representativas.
 
 f) Las centrales sindicales y organizaciones patronales de mayor representatividad en los ámbitos laboral y empresarial.
 
@@ -23,6 +23,8 @@ i) Las Entidades locales a través de la asociación de ámbito estatal con mayo
 j) Las personalidades de reconocido prestigio en el campo de la educación, de la renovación pedagógica y de las instituciones y organizaciones confesionales y laicas de mayor tradición y dedicación a la enseñanza, designadas por el Ministro de Educación y Ciencia.
 
 2. El Gobierno, a propuesta del Ministerio de Educación y Ciencia, aprobará las normas que determinen la representación numérica de los miembros del Consejo Escolar del Estado, así como su organización y funcionamiento. La representación de los miembros de la comunidad educativa a que se refieren los apartados a), b), c) y d) de este artículo no podrá ser en ningún caso inferior a un tercio del total de los componentes de este Consejo.
+
+> Se modifica el apartado 1.e) por la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
 
 > Se reordena la letra i) como j) y se añade una letra i) al apartado 1 por el art. 1 de la Ley Orgánica 10/1999, de 21 de abril. Ref. BOE-A-1999-8930
 
