@@ -1,0 +1,3 @@
+## Artículo cincuenta y tres. Derecho a la inscripción.
+
+La inscripción se practicará cuando se hayan aportado al expediente los datos exigidos en el artículo anterior. La Administración podrá solicitar cuantos datos complementarios sean necesarios para la debida identificación de las Empresas editoriales, e igualmente requerir a las mismas para que le comuniquen las modificaciones que se hayan producido con posterioridad a la inscripción. En todo caso las Empresas editoriales comunicarán al Registro, semestralmente, las modificaciones habidas en relación con los hechos que fueran objeto de inscripción.

@@ -1,0 +1,3 @@
+## Artículo segundo. Extensión del derecho.
+
+La libertad de expresión y el derecho a la difusión de informaciones, reconocidas en el artículo primero, no tendrán más limitaciones que las impuestas por las leyes. Son limitaciones: el respeto a la verdad y a la moral; el acatamiento a la Ley de Principios del Movimiento Nacional y demás Leyes Fundamentales; las exigencias de la defensa Nacional, de la seguridad del Estado y del mantenimiento del orden público interior y la paz exterior; el debido respeto a la Instituciones y a las personas en la crítica de la acción política y administrativa; la independencia de los Tribunales, y la salvaguardia de la intimidad y del honor personal y familiar.

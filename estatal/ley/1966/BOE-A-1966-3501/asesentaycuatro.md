@@ -1,0 +1,5 @@
+## Artículo sesenta y cuatro. De la responsabilidad penal y de las medidas previas y gubernativas.
+
+Uno. La responsabilidad criminal será exigida ante los Tribunales de Justicia, de conformidad con lo establecido en la legislación penal y por los trámites que establecen las leyes de procedimiento.
+
+Dos. Cuando la Administración tuviere conocimiento de un hecho que pudiera ser constitutivo de delito cometido por medio de la Prensa o Imprenta y sin prejuicio de la obligación de la denuncia en el acto a las autoridades competentes, dando cuenta simultáneamente al Ministerio Fiscal, podrá, con carácter previo a las medidas judiciales que establece el título V del libro IV de la Ley de Enjuiciamiento Criminal, ordenar el secuestro a disposición de la autoridad judicial, del impreso o publicación delictivos donde quiera que éstos se hallaren, así como de sus moldes para evitar la difusión. La autoridad judicial, tan pronto como reciba la denuncia, adoptará la resolución que proceda respecto del secuestro del impreso o publicación, y sus moldes.

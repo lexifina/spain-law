@@ -1,0 +1,3 @@
+## Artículo treinta y tres. Profesión periodística y título profesional.
+
+Un Estatuto de la profesión periodística, aprobado por Decreto, regulará los requisitos para el ejercicio de tal actividad, determinando los principios generales a que debe subordinarse y, entre ellos, el de profesionalidad, previa inscripción en el Registro Oficial, con fijación de los derechos y deberes del periodista y especialmente del Director de todo medio informativo; el de colegiación, integrada en la Organización Sindical, que participará en la formulación, redacción y aplicación del mencionado Estatuto, y el de atribución a un Jurado de ética profesional de la vigilancia de sus principios morales.
