@@ -42,7 +42,7 @@ Una elemental prudencia aconseja la graduación en el proceso de instauración d
 
 La Ley tiene muy en cuenta que el juicio por Jurados constituye expresión plena de los principios básicos procesales de inmediación, prueba formada con fundamento en la libre convicción, exclusión de pruebas ilegales, publicidad y oralidad. Por ello se han seleccionado aquellos delitos en los que la acción típica carece de excesiva complejidad o en los que los elementos normativos integrantes son especialmente aptos para su valoración por ciudadanos no profesionalizados en la función judicial.
 
-El ámbito competencial correspondiente al Tribunal del Jurado se fija en el artículo 1. Sin embargo, el legislador en el futuro valorará sin duda, a la vista de la experiencia y de la consolidación social de la institución, la ampliación progresiva de los delitos que han de ser objeto de enjuiciamiento.
+El ámbito competencial correspondiente al Tribunal del Jurado se fija en el artículo 1. Sin embargo, el futuro legislador valorará sin duda, a la vista de la experiencia y de la consolidación social de la institución, la ampliación progresiva de los delitos que han de ser objeto de enjuiciamiento.
 
 La conformación del colegio decisor dentro del Tribunal del Jurado requiere una respuesta legislativa cuyo acierto no pasa necesariamente por resolver la vieja cuestión lógica sobre la escindibilidad entre el hecho y el derecho.
 
@@ -98,7 +98,7 @@ La opción que acoge la Ley sobre el sistema para adoptar la decisión que remit
 
 a) Por la garantía de imparcialidad del órgano jurisdiccional que se refuerza especialmente. Así deberá valorarse la suficiencia y aún el éxito de la investigación, pero atendiendo, a la vez, a pretensiones y resistencias contrapuestas o de signo contrario, formuladas las unas por la acusación, las otras por la defensa. Se valorará, asimismo, la probabilidad de veracidad de unas afirmaciones históricas y aun de la transcendencia en cuanto a la calificación jurídica.
 
-El modelo que se adopta exige, por elemental coherencia, permitir, tan pronto como conste la imputación de un hecho justiciable determinado a persona concreta, la reubicación del Juez de Instrucción que luego habrá de resolver sobre la apertura del juicio oral, en una reforzada posición de imparcialidad, con la función de controlar la imputación del delito mediante la previa valoración de su verosimilitud y con la facultad de investigar de forma complementaria sobre los hechos afirmados por las partes.
+El modelo que se adopta exige, por elemental coherencia, permitir, tan pronto como conste la imputación de un hecho justiciable determinado a persona concreta, la reubicación del Juez de Instrucción que luego habrá de resolver sobre la apertura del juicio oral, en una reforzada posición de imparcialidad, con la función de controlar la imputación del delito mediante la previa confirmación de su verosimilitud y con la facultad de investigar de forma complementaria sobre los hechos afirmados por las partes.
 
 Lo que es ineludible es que una excesiva tendencia hacia pesquisas generales, inacabables en el tiempo, no contribuya al fracaso de la viabilidad del enjuiciamiento por Jurado.
 
@@ -142,7 +142,7 @@ El Tribunal del Jurado no constituye, y ello es una de sus notas más definidora
 
 El primer criterio ha sido sustituido en la Ley por la conformación de un Jurado para cada causa acentuándose así la nota de temporalidad del órgano judicial. Varias razones aconsejan esta solución. La primera que, al menos, en el inicio de la reinstauración de la Institución, no se haga recaer sobre unos pocos Jurados la carga de examinar todas las causas a enjuiciar en un período, repartiéndose entre más ciudadanos esa labor. La segunda que, de la forma propuesta se contribuya, por efecto de una mayor rotación en el desempeño de la función, al logro de uno de los efectos más beneficiosos de la Institución, a saber: que la experiencia del ejercicio de la función de juzgar actúe como escuela de ciudadanía para el mayor número posible de ciudadanos.
 
-Mantener una disposición que fija los períodos de sesiones ha perdido hoy su carácter necesario. Sin embargo, mantiene con ella no solo el efecto simbólico, recordando esa transitoriedad de la función judicial en el ciudadano, sino también una pauta de organización de señalamientos. Conforme a ella podrá efectuarse el sorteo con tiempo suficiente para un determinado período en un solo acto. Al mismo tiempo, nada impedirá, al conformarse Jurados por cada causa que, la naturaleza y circunstancias de ésta, aconsejen un sorteo preconstituyente del Tribunal en fecha a señalar prudentemente por el Magistrado-Presidente.
+Mantener una disposición que fija los períodos de sesiones ha perdido hoy su carácter necesario. Sin embargo, mantiene con ella no solo el efecto simbólico, recordando esa transitoriedad de la función judicial en el ciudadano, sino también una pauta de organización de señalamientos. Conforme a ella podrá efectuarse el sorteo con tiempo suficiente para un determinado período en un solo acto. Al mismo tiempo, nada impedirá, al conformarse Jurados por cada causa que, la naturaleza y circunstancias de ésta, aconsejen un sorteo preconstituyente del Tribunal en fecha a señalar prudentemente por el Magistrado-presidente.
 
 No menor transcendencia tiene la segunda opción adoptada en la Ley en relación con el origen de los candidatos a jurado. La vecindad ha sido históricamente una de las notas esenciales de los llamados a juzgar como jurados. De ahí que éstos hayan de ser, si no de la localidad o del partido judicial, al menos de la provincia en cuyo territorio el hecho ha tenido lugar.
 
@@ -192,7 +192,7 @@ Pero, además, con tal escisión se reproduciría una de las causas de mayor rep
 
 También era necesario optar entre el sistema de respuesta única o articulación secuencial. Aquella fórmula se acomoda más a una concepción ajena al de plena vigencia y supremacía del principio de legalidad. Allí donde el Jurado puede, desde la irresponsabilidad, sustituir el genérico y apriorístico criterio del legislador por su concepción en el caso concreto, el apodíctico veredicto no está necesitado ni de articulación ni de motivación.
 
-En nuestro sistema el Jurado debe sujetarse inexorablemente al mandato del legislador. Y tal adecuación sólo es susceptible de control en la medida en que el veredicto exterioriza el curso argumental que lo motivó.
+En nuestro sistema el Jurado debe sujetarse inexorablemente al mandato del legislador. Y tal adecuación sólo es posible de control en la medida en que el veredicto exterioriza el curso argumental que lo motivó.
 
 Y a ello tiende la Ley:
 
@@ -206,7 +206,7 @@ d) Exigiendo del Jurado que su demostrada capacidad para decidirse por una u otr
 
 e) Añadiendo a ese contenido el pronunciamiento sobre la valoración que el hecho merece en función de su tipificación legal. Para tal pronunciamiento, no estribará tanto la dificultad en una tarea de calificación técnica del hecho, como en optar en las diversas versiones de éste. Una vez más la prudencia y buen hacer del Magistrado viene a constituir una garantía del éxito del modelo.
 
-f) La conformación del objeto del veredicto no puede prescindir de la consideración del objeto del proceso como vinculado a las alegaciones de todas las partes, a los intereses de la defensa y de la acusación y, también, al derecho de éstas a participar en la definitiva redacción mediando la oportuna audiencia.
+f) La conformación del objeto del veredicto no puede prescindir de la consideración del objeto del proceso como vinculado a las alegaciones de todas las partes, a los intereses de la defensa y de la acusación y, también, al derecho de éstas a participar en la definitiva redacción a medio de la oportuna audiencia.
 
 ## 2 Instrucciones
 
@@ -236,24 +236,26 @@ Es de resaltar que la preocupación en la Ley por la motivación de la resoluci�
 
 ## VII MODIFICACIONES DE CUERPOS LEGALES Y ESPECIALIDADES PROCESALES
 
-## 1 Modificación de la Ley Orgánica del Poder Judicial
+## 1 Régimen del antejuicio
+
+El artículo 410 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, disciplina el antejuicio como un trámite precedente al objeto de exigir responsabilidad penal a Jueces o Magistrados, con arreglo al régimen previsto en los artículos 757 a 778 de la Ley de Enjuiciamiento Criminal. Sin embargo, el legislador ha querido sustituir dicho antejuicio en las causas por delitos cometidos por Jueces, Magistrados o Fiscales, atribuidas al conocimiento del Tribunal Jurado, por una especialidad que faculta al Juez de Instrucción para practicar las actuaciones de comprobación necesarias y resolver sobre la procedencia de la imputación.
+
+## 2 Modificación de la Ley Orgánica del Poder Judicial
 
 Los criterios contenidos en la Ley recogen sustancialmente los principios que el artículo 83.2 de la Ley Orgánica 6/1985, de 1 de julio, remitía a la futura Ley del Jurado, por lo que aprobada la completa regulación de esta Institución, resulta innecesaria tal previsión. Dado que la doctrina constitucional ha venido exigiendo un texto normativo unitario para el desarrollo del artículo 122.1 de la Constitución, se ha procedido a modificar el referido precepto de la Ley Orgánica del Poder Judicial, en la medida que la presente Ley afecta a las competencias y funciones de los órganos jurisdiccionales, estableciendo en el artículo 83.2 la obligada referencia a la Ley Orgánica del Tribunal del Jurado.
 
-## 2 El Ministerio Fiscal en la fase de instrucción
+## 3 El Ministerio Fiscal en la fase de instrucción
 
 Si bien debe corresponder al Juez la realización de los actos sumariales, las peculiaridades que deben presidir el procedimiento ante el Jurado y la oportunidad de que se consolide el principio acusatorio, hacen necesaria la potenciación de las atribuciones del Ministerio Fiscal. De esta forma, la incoación y su adaptación al nuevo procedimiento, así como la constitución del Ministerio Fiscal junto al Juez instructor y la inmediata puesta en conocimiento de la imputación, en los términos previstos en los artículos 24 y 25 de la Ley, tienen también su marco procesal mediante la incorporación de sendas previsiones en el artículo 309, para el procedimiento ordinario, y en los artículos 780 y 789.3 de la Ley de Enjuiciamiento Criminal, para el abreviado.
 
 Resulta coherente, por otra parte, con la remisión del artículo 36 de la Ley a los artículos 668 a 677 de la Ley de Enjuiciamiento Criminal para la tramitación de incidentes por el planteamiento de cuestiones previas, adicionar al artículo 678 de la misma la exclusión de la posibilidad -en los procedimientos ante el Jurado- de reproducir en el juicio oral las cuestiones desestimadas. La misma coherencia se predica de la sustitución del recurso procedente contra el auto resolutorio de la declinatoria o de la admisión de las excepciones del artículo 666 de la Ley de Enjuiciamiento Criminal, que introduce el de apelación, en congruencia con la recurribilidad prevista contra las sentencias de la Audiencia Provincial.
 
-## 3 Medidas cautelares
+## 4 Medidas cautelares
 
 La introducción de un nuevo artículo 504 bis 2 en la Ley de Enjuiciamiento Criminal, respecto a la adopción de medidas cautelares de privación o restricción de la libertad, incorpora una necesaria audiencia del Ministerio Fiscal, las partes y el imputado asistido de letrado, inspirada en el principio acusatorio, y suprime la exigencia de ratificación del auto de prisión. De esta forma, la limitación de la iniciativa judicial se equilibra con la instauración de los beneficios del contradictorio, sin perjuicio del carácter reformable de las medidas adoptadas durante todo el curso de la causa.
 
-## 4 Recursos de apelación y casación
+## 5 Recursos de apelación y casación
 
 El nuevo Libro V de la Ley de Enjuiciamiento Criminal denominado «De los recursos de apelación, casación y revisión», está encaminado a extender la apelación contra autos y sentencias derivados del procedimiento ante el Tribunal del Jurado, así como para determinadas resoluciones del penal ordinario en los supuestos del artículo 676 de la norma procesal. La nueva apelación aspira a colmar el derecho al «doble examen», o «doble instancia», en tanto su régimen cumple suficientemente con la exigencia de que tanto el fallo condenatorio como la pena impuesta sean sometidas a un tribunal superior, en función del carácter especial del procedimiento ante el Jurado, y sin perjuicio de la función propia que debe desempeñar, respecto de todos los delitos, el recurso de casación.
 
 Para ello, la Ley adecua los motivos de impugnación previstos a ese carácter especialísimo del procedimiento y atribuye la competencia resolutiva a las Salas de lo Civil y Penal de los Tribunales Superiores de Justicia, lo cual, aparte de los necesarios ajustes en medios personales, responde a una ya antigua aspiración en la delimitación competencial para el conocimiento de la apelación.
-
-> Se modifican los apartados II, III, V y VII por el art. 1.1 a .5 de la Ley Orgánica 8/1995, de 16 de noviembre. Ref. BOE-A-1995-24958.

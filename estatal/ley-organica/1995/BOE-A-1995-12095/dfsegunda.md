@@ -82,9 +82,9 @@ El Ministerio Fiscal, demás partes personadas, y el imputado en todo caso, podr
 
 «Artículo 846 bis a).
 
-Las sentencias dictadas, en el ámbito de la Audiencia Provincial y en primera instancia, por el Magistrado-Presidente del Tribunal del Jurado, serán apelables para ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia de la correspondiente Comunidad Autónoma.
+Las sentencias dictadas, en el ámbito de la Audiencia Provincial y en primera instancia, por el Magistrado-presidente del Tribunal del Jurado, serán apelables para ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia de la correspondiente Comunidad Autónoma.
 
-Serán también apelables los autos dictados por el Magistrado-Presidente del Tribunal del Jurado cuando acuerden el sobreseimiento, cualquiera que sea su clase, y los que se dicten resolviendo cuestiones a que se refiere el artículo 36 de la Ley Orgánica del Tribunal del Jurado así como en los casos señalados en el artículo 676 de la presente Ley.
+Serán también apelables los autos dictados por el Magistrado-presidente del Tribunal del Jurado cuando acuerden el sobreseimiento, cualquiera que sea su clase, y los que se dicten resolviendo cuestiones a que se refiere el artículo 36 de la Ley Orgánica del Tribunal del Jurado así como en los casos señalados en el artículo 676 de la presente Ley.
 
 La Sala de lo Civil y Penal se compondrá, para conocer de este recurso, de tres Magistrados.
 
@@ -145,5 +145,3 @@ Procede el recurso de casación por infracción de ley y por quebrantamiento de 
 17. El primer párrafo del artículo 848 queda redactado de la siguiente forma:
 
 «Contra los autos dictados, bien en apelación por las Salas de lo Civil y Penal de los Tribunales Superiores de Justicia bien con carácter definitivo por las Audiencias, sólo procede el recurso de casación, y únicamente por infracción de ley, en los casos en que ésta lo autorice de modo expreso.»
-
-> Se modifica el término Magistrado-presidente por Magistrado-Presidente según establece el art. 1.50 de la Ley Orgánica 8/1995, de 16 de noviembre. Ref. BOE-A-1995-24958

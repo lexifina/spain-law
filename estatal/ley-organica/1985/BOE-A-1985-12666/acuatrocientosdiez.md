@@ -1,5 +1,5 @@
 ## Artículo cuatrocientos diez
 
-1. Para que pueda incoarse causa, en virtud de querella del ofendido, o en el caso de ejercerse la acción popular, con el objeto de exigir responsabilidad penal a Jueces o Magistrados, deberá preceder un antejuicio con arreglo a los trámites que establecen las leyes procesales y la declaración de haber lugar a proceder contra ellos.
+(Derogado)
 
-2. Del antejuicio conocerá el mismo Tribunal que, en su caso, deba conocer de la causa.
+> Se deroga por la disposición adicional 1 de la Ley Orgánica 5/1995, de 22 de mayo. Ref. BOE-A-1995-12095
