@@ -1,3 +1,5 @@
 ## Disposición adicional segunda.
 
-Las Sociedades Estatales reguladas en la presente norma se constituirán en el plazo máximo de doce meses siguientes a la entrada en vigor de la misma.
+(Derogada)
+
+> Se deroga por disposición derogatoria única.1 de la Ley 48/2003, de 26 de noviembre. Ref. BOE-A-2003-21615

@@ -1,3 +1,5 @@
 ## Disposición adicional tercera.
 
-Se autoriza al Gobierno para dictar las disposiciones necesarias para el desarrollo y ejecución del presente Real Decreto-ley.
+(Derogada)
+
+> Se deroga por disposición derogatoria única.1 de la Ley 48/2003, de 26 de noviembre. Ref. BOE-A-2003-21615

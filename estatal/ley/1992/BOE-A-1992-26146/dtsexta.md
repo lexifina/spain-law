@@ -1,3 +1,5 @@
 ## Disposición transitoria sexta. Procedimientos aplicables.
 
-En tanto no se produzca el desarrollo reglamentario de la presente Ley, en el ámbito portuario y siempre que no se oponga a lo previsto en ella, la tramitación de los expedientes de otorgamiento de concesiones y autorizaciones y de imposición de sanciones se realizará de acuerdo con lo previsto en la legislación de costas.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 48/2003, de 26 de noviembre. Ref. BOE-A-2003-21615

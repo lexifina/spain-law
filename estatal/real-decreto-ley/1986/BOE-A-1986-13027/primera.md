@@ -1,3 +1,5 @@
 ## Disposición adicional primera.
 
-La designación de los representantes del capital del Estado en las Sociedades Estatales se realizará de forma conjunta por los Ministerios de Economía y Hacienda, Trabajo y Seguridad Social, Obras Públicas y Urbanismo y Transportes, Turismo y Comunicaciones.
+(Derogada)
+
+> Se deroga por disposición derogatoria única.1 de la Ley 48/2003, de 26 de noviembre. Ref. BOE-A-2003-21615

@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Servicio de practicaje.
+
+Las corporaciones de prácticos o entidades que las hayan sustituido según lo establecido en la disposición transitoria segunda de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante, tendrán derecho a obtener la licencia de prestación del servicio mientras existan prácticos en las condiciones previstas en el apartado 1 de la referida disposición transitoria segunda, siempre que cumplan los requisitos y condiciones establecidos en el correspondiente pliego regulador y prescripciones particulares del servicio de practicaje.

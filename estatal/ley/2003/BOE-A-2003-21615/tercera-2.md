@@ -1,0 +1,7 @@
+## Disposición transitoria tercera. Aplicación de las tasas por utilización especial de instalaciones portuarias a las concesiones otorgadas con anterioridad a la entrada en vigor de esta ley.
+
+1. A partir de la entrada en vigor de esta ley, el tráfico portuario que utilice instalaciones en régimen de concesión administrativa estará sujeto al pago a la Autoridad Portuaria de las tasas por utilización especial de instalaciones portuarias reguladas en esta ley.
+
+2. Los concesionarios de instalaciones portuarias podrán optar, en el plazo de seis meses a partir de la entrada en vigor de esta ley, entre la aplicación de la cuota de las tasas por utilización especial de instalaciones portuarias correspondiente a instalaciones en régimen de concesión, renunciando a las bonificaciones previstas en su título concesional, o la aplicación de las cuotas tributarias previstas en esta ley para instalaciones no concesionadas con las bonificaciones previstas en su título concesional, sin que en este último caso sea posible que la Autoridad Portuaria aplique las bonificaciones previstas en el artículo 27 dirigidas a potenciar la captación y consolidación de tráficos en el puerto.
+
+En el supuesto de que en dicho plazo no se haya comunicado a la Autoridad Portuaria la opción elegida, se entenderá que se opta por la aplicación de las cuotas previstas en esta ley para instalaciones en régimen de concesión con renuncia a las bonificaciones previstas en el título concesional.

@@ -28,7 +28,7 @@ Los nuevos prácticos que se incorporen a las Corporaciones de prácticos o Enti
 
 3. Mientras dure el período transitorio, definido por la existencia en un puerto de prácticos que tengan la condición a la que se refiere el apartado uno, número 1, de esta disposición transitoria, el nombramiento de nuevos prácticos para ocupar las vacantes existentes en cada puerto corresponderá a la Autoridad Portuaria, con la participación de la Administración Marítima y de la Corporación de prácticos o Entidad que la sustituya, en la que han de integrarse estos.
 
-4. Sin perjuicio de la posibilidad de repercusión sobre los prácticos miembros de la Corporación o, en su caso, de la Entidad que la sustituya, ésta resultará directamente responsable del ejercicio y prestación del servicio de practicaje ante la Autoridad Portuaria.
+4. (Derogado)
 
 5. No obstante, lo señalado en el apartado anterior, la Autoridad Portuaria, a propuesta de la Corporación de prácticos o de la Autoridad Marítima en el ámbito de sus competencias, podrá sancionar a los prácticos integrados en dicha Corporación por incumplimiento de las condiciones de prestación del servicio establecidas por la Autoridad Portuaria y recogidas en los pliegos o reglamentos correspondientes, de acuerdo con lo previsto en el Título IV de la presente Ley.
 
@@ -57,5 +57,7 @@ El personal que trabaje por cuenta propia se integrará en el régimen especial 
 Cinco. Se declara a extinguir la actual condición y régimen de ejercicio de la función de prácticos vigente hasta la entrada en vigor de la presente Ley.
 
 Seis. A partir del momento de la aplicación del sistema tarifario a que se refiere el artículo 103 de esta Ley, queda sin vigor la tasa parafiscal denominada «Sexto de Practicaje».
+
+> Se deroga el apartado 4 por la disposición derogatoria única.1 de la Ley 48/2003, de 26 de noviembre. Ref. BOE-A-2003-21615
 
 > Redactado el apartado 2.4 conforme a la corrección de errores publicada en BOE núm. 298, de 12 de diciembre de 1992. Ref. BOE-A-1992-27576

@@ -1,0 +1,9 @@
+## Disposición transitoria cuarta. Aplicación de coeficientes reductores en la tasa del buque.
+
+Las empresas navieras que a la entrada en vigor de esta ley estuviesen prestando un servicio a un determinado tipo de tráfico con buques que sean beneficiarios de las reducciones por número de escalas correpondientes a un mismo buque, previstas en el artículo 21.A.e.1 de la Orden del Ministerio de Fomento de 30 de julio de 1998, por la que se establece el régimen de tarifas por servicios portuarios prestados por las Autoridades Portuarias, podrán, aun cuando continúen prestando ese servicio con varios buques, considerar transitoriamente un contador de número de escalas diferentes para cada buque, al que les serán de aplicación los coeficientes establecidos en el artículo 21.6 de esta ley, en cuyo caso les serán de aplicación también, desde la escala número trece, los siguientes coeficientes reductores en los cinco primeros años a partir de la entrada en vigor de esta ley:
+
+Primero: 0,65; segundo: 0,72; tercero: 0,80; cuarto: 0,88; quinto: 0,95.
+
+Las empresas navieras que a la entrada en vigor de esta ley estuviesen prestando con sus buques un servicio a un determinado tipo de tráfico, realizando navegación de cabotaje entre puertos peninsulares, o bien entre puertos de Estados miembros de la Unión Europea (cabotaje europeo), beneficiándose de la reducción por tipo de navegación prevista en el artículo 21.A.d) de la Orden del Ministerio de Fomento de 30 de julio de 1998, por la que se establece el régimen de tarifas por servicios portuarios prestados por las Autoridades Portuarias, y no se beneficien de alguna de las bonificaciones contempladas en el artículo 27.2.a.a2 y 27.4.a) de esta ley, les serán de aplicación los siguientes coeficientes reductores en los cinco primeros años a partir de la entrada en vigor de esta ley:
+
+Primero: 0,70; segundo: 0,75; tercero: 0,80; cuarto: 0,88; quinto: 0,95.
