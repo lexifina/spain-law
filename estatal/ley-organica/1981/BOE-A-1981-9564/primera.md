@@ -1,4 +1,4 @@
-## Disposición adicional primera.
+## Primera.
 
 Uno. Se cede a la Comunidad Autónoma, en los términos previstos en el párrafo tres de esta disposición, el rendimiento de los siguientes tributos:
 
