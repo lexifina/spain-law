@@ -1,0 +1,3 @@
+Madrid, 4 de mayo de 1998.
+
+ARIAS-SALGADO MONTALVO

@@ -1,0 +1,5 @@
+El Real Decreto 758/1996, de 5 de mayo, de reestructuración de Departamentos ministeriales, creó el Ministerio de Fomento, atribuyéndole las competencias del anterior Ministerio de Obras Públicas, Transportes y Medio Ambiente en el ámbito de la Secretaría de Estado de Política Territorial y Obras Públicas, con excepción de las correspondientes a obras hidráulicas, así como las competencias relativas a transporte, comunicaciones, vivienda y urbanismo.
+
+Aprobada la estructura orgánica básica del Ministerio de Fomento por Real Decreto 1886/1996, de 2 de agosto, modificada por Real Decreto 739/1997, de 23 de mayo, y por Real Decreto 1390/1997, de 5 de septiembre, es necesario adaptar la organización y funciones de la Junta Administradora de Vehículos y Maquinaria del Departamento, creada por Orden de 12 de noviembre de 1949 y cuya composición y funciones se regulan por Orden de 23 de diciembre de 1991, a la actual organización administrativa.
+
+En su virtud, con la aprobación del Ministro de Administraciones Públicas, dispongo:
