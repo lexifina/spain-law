@@ -1,0 +1,17 @@
+El Reglamento que establece condiciones de protección del dominio público radioeléctrico, restricciones a las emisiones radioeléctricas y medidas de protección sanitaria frente a emisiones radioeléctricas, aprobado mediante el Real Decreto 1066/2001, de 28 de septiembre (en lo sucesivo Reglamento), dispone en su artículo 8.1 que los operadores que establezcan redes soporte de servicios de radiodifusión sonora y televisión y los titulares de licencias individuales de tipo B2 y C2, elaborarán un estudio detallado, realizado por técnico competente, que indique los niveles de exposición radioeléctrica en áreas cercanas a sus instalaciones radioeléctricas, en las que puedan permanecer habitualmente personas.
+
+El artículo 8 establece asimismo que el estudio mencionado será presentado ante el Ministerio de Ciencia y Tecnología, incorporado en el proyecto o propuesta técnica necesarios para solicitar la autorización de las instalaciones radioeléctricas, según lo establecido en el capítulo I, título III, de la Orden de 9 de marzo de 2000, por la que se aprueba el Reglamento de desarrollo de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones, en lo relativo al uso del dominio público radioeléctrico. Igualmente en el citado artículo se establecen determinados criterios de planificación para las instalaciones radioeléctricas.
+
+Adicionalmente, el mencionado Reglamento dispone en su artículo 9.3 que los titulares de licencias individuales de tipo B2 y C2 deberán remitir al Ministerio de Ciencia y Tecnología, en el primer trimestre de cada año natural, una certificación emitida por técnico competente de que se han respetado, durante el año anterior, los límites de exposición establecidos.
+
+Por otra parte, la disposición transitoria única del Reglamento fija un plazo de nueve meses para que los operadores que establezcan redes soporte de servicios de radiodifusión sonora y televisión y los titulares de licencias individuales de tipo B2 y C2, que dispongan de instalaciones radioeléctricas autorizadas con anterioridad a la fecha de entrada en vigor del mismo Reglamento, remitan al Ministerio de Ciencia y Tecnología, una certificación de la conformidad de dichas instalaciones con los límites de exposición establecidos en su anexo II, expedido por técnico competente.
+
+Asimismo, los artículos 8 y 9 del citado Reglamento establecen que el Ministerio de Sanidad y Consumo tendrá acceso a la información que le resulte necesaria sobre los estudios y certificaciones citados anteriormente, y que las autoridades sanitarias de las Comunidades Autónomas serán informadas por el Ministerio de Sanidad y Consumo cuando lo soliciten.
+
+Con la finalidad de conseguir una más efectiva aplicación del citado Reglamento, los estudios y certificaciones mencionados deberán tener un formato y estructura homogéneos para todos los operadores de servicios de radiocomunicación y contar con un nivel de detalle adecuado, por lo que se hace preciso establecer las condiciones en las que los citados estudios y certificaciones deben ser presentados al Ministerio de Ciencia y Tecnología.
+
+La presente Orden ha sido sometida a audiencia del sector y al informe de la Comisión del Mercado de las Telecomunicaciones, de acuerdo con lo previsto en el artículo 1, dos, 2, j, de la Ley 12/1997, de 24 de abril, de Liberalización de las Telecomunicaciones.
+
+En su virtud, al amparo de la disposición final primera del Real Decreto 1066/2001, de 28 de septiembre,
+
+DISPONGO:
