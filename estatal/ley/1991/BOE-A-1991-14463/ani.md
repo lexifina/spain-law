@@ -78,6 +78,10 @@ No se entenderán comprendidos en el concepto de las viviendas del párrafo ante
 
 12.º Las ejecuciones de obra, con o sin aportación de materiales, consecuencia de contratos directamente formalizados entre el promotor-constructor y el contratista, que tengan por objeto la autoconstrucción de viviendas calificadas administrativamente como protegidas conforme a la legislación específica aplicable.
 
+13.º Los vehículos de dos o tres ruedas cuya cilindrada sea inferior a 50 centímetros cúbicos y cumplan la definición jurídica del ciclomotor.
+
 2. La prestación de servicios de transportes terrestres.
+
+> Se añade el apartado 1.13 por el art. 6.1 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
 
 > Se modifica por el art. 4 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.

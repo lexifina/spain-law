@@ -38,6 +38,10 @@ en la que K es el coeficiente a aplicar y T el tipo impositivo que corresponda.
 
 9. Sin perjuicio de la liquidación e ingreso del recargo a que se refiere el presente artículo, los sujetos pasivos acogidos al régimen especial de comerciantes minoristas tendrán la obligación de proceder a la liquidación y pago del impuesto en los casos previstos en el número 3 del artículo 59 de esta Ley, mediante la presentación de la declaración ocasional a que se refiere dicho precepto.
 
+> Se añade el apartado 9 por el art. 1.32 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+
+> Téngase en cuenta que este apartado ya estaba añadido por el Real Decreto-ley 21/1993, de 29 de diciembre.
+
 > Se añade el apartado 9 por el art. 1.30 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
 
 > Se añade por el art. 3.9 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.

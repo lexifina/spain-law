@@ -4,4 +4,8 @@ El derecho a la deducción caduca cuando el titular no lo hubiera ejercitado en 
 
 No obstante, en los casos en que la procedencia del derecho a deducir o la cuantía de la deducción esté pendiente de la resolución de una controversia en vía administrativa o jurisdiccional, el derecho a la deducción caducará cuando hubiesen transcurrido cinco años desde la fecha en que la resolución o sentencia sean firmes.
 
+> Se añade por el art. 1.18 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+
+> Téngase en cuenta que este art. ya estaba añadido por el Real Decreto-ley 21/1993, de 29 de diciembre.
+
 > Se añade por el art. 1.16 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.

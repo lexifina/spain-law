@@ -6,4 +6,8 @@
 
 3. Cuando los bienes de inversión a que se refiere este artículo sean objeto de entrega antes de la terminación del período de regularización a que se refiere este artículo, se aplicarán las reglas del artículo 42, sin perjuicio de lo previsto en el artículo 43 y apartados anteriores de este artículo.
 
+> Se añade por el art. 1.24 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+
+> Téngase en cuenta que este art. ya estaba añadido por el Real Decreto-ley 21/1993, de 29 de diciembre.
+
 > Se añade por el art. 1.22 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154

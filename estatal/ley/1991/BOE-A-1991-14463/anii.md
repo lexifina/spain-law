@@ -102,6 +102,10 @@ A efectos de este impuesto se consideran piedras preciosas, exclusivamente, el d
 
 15.º Producción, distribución y cesión de derechos de las películas cinematográficas para ser exhibidas en las salas "X", así como la exhibición de las mismas.
 
+> Se modifica el apartado 3.f) por el art. 6.2 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+
+> Téngase en cuenta que este apartado ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+
 > Se modifica el apartado 3.f) por el art. 5.1 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
 
 > Se modifica por el art. 4 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
