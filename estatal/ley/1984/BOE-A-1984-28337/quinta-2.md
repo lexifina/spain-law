@@ -1,0 +1,5 @@
+## Disposición transitoria quinta.
+
+El personal funcionario de la Administración Civil y Militar del Estado que se jubile forzosamente antes del transcurso de cinco años desde la entrada en vigor de la Ley 30/1984, de 2 de agosto, y que como consecuencia de esta Ley vea reducida su edad de jubilación forzosa en seis o más meses, tendrá derecho a la percepción, por una sola vez y en concepto de ayuda a la adaptación de las economías individuales a la nueva situación, de una cantidad igual al importe de cuatro mensualidades del sueldo base y el grado de carrera administrativa correspondiente a cada caso individual a 31 de diciembre de 1984.
+
+En las mismas condiciones a las referidas en el párrafo anterior, los funcionarios de la Administración Civil y Militar que como consecuencia de la aplicación de la Ley 30/1984, de 2 de agosto vean reducida su edad de jubilación en menos de seis meses, tendrán derecho a la percepción de una cantidad igual a la sexta parte de la referida en el párrafo anterior por cada mes natural o fracción del mismo en que hubieran visto reducida su edad de jubilación forzosa.

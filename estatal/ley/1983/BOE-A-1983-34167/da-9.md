@@ -7,3 +7,5 @@ a) No les resultará aplicable el régimen de transparencia fiscal cuando sus ac
 b) Las referencias contenidas en los textos refundidos a los impuestos a cuenta se entenderán realizadas a las retenciones a cuenta.
 
 c) Los socios, tanto personas físicas como jurídicas, aplicarán la deducción por doble imposición sobre los dividendos y participaciones en beneficios al tipo señalado para las personas físicas.
+
+> Se prorroga para el año 1985 por la disposición adicional 2 de la Ley 50/1984, de 30 de diciembre. Ref. BOE-A-1984-28337#segunda

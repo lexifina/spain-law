@@ -1,0 +1,3 @@
+## Artículo noventa y tres. Adscripción del «Instituto Nacional de Asistencia Social» y de la «Administración Institucional de la Sanidad Nacional».
+
+En el Real Decreto de supresión, a propuesta de los Departamentos interesados, se determinará la adscripción y modo de gestión de cada uno de los centros, servicios y establecimientos actualmente integrados en los Organismos autónomos Instituto Nacional de Asistencia Social y Administración Institucional de la Sanidad Nacional, o su integración en la Seguridad Social, pudiéndose adoptar a tal efecto las medidas necesarias para adecuar su régimen patrimonial, funcional y de personal.

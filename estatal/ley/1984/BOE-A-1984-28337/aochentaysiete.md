@@ -1,0 +1,15 @@
+## Artículo ochenta y siete. Enumeración de los Organismos creados por refundición.
+
+Con objeto de asumir ciertas funciones de determinadas entidades suprimidas en el artículo 85, se crean los siguientes Organismos Autónomos:
+
+1. El Centro de Gestión y Cooperación Tributaria asumirá la totalidad de las funciones de los 65 Consorcios para la Gestión e Inspección de las Contribuciones Territoriales, cuya supresión se dispone en el artículo 85 de esta Ley, asimismo asumirá aquellas otras funciones de gestión que específicamente se determinen de conformidad con lo dispuesto en el artículo siguiente. Este Organismo Autónomo tendrá carácter administrativo y estará adscrito al Ministerio de Economía y Hacienda, disponiendo de los servicios periféricos que fueren precisos para el desempeño de sus funciones.
+
+2. El Museo Nacional del Prado, hasta ahora integrado en el Patronato Nacional de Museos, cuya supresión se dispone en el artículo 85 de esta Ley, quedará constituido independientemente en Organismo Autónomo de carácter administrativo, adscrito al Ministerio de Cultura.
+
+3. El Instituto Nacional de las Artes Escénicas y de la Música, que asumirá las funciones de los Organismos autónomos Junta Coordinadora de Actividades y Establecimientos Culturales,Teatros Nacionales y Festivales de España y Orquesta y Coros Nacionales de España, cuya supresión se dispone en el artículo 85 de esta Ley. Este Organismo tendrá carácter comercial y estará adscrito al Ministerio de Cultura.
+
+4. El Instituto Nacional de Promoción del Turismo (INPROTUR), que asumirá las funciones de promoción del turismo español, así como, en lo que se refiere al cumplimiento de la gestión que se le encomiende, funciones de los Organismos autónomos Instituto Español de Turismo y Exposiciones, Congresos y Convenciones de España, cuya supresión se dispone en el artículo 85 anterior. Este Organismo tendrá carácter comercial y estará adscrito al Ministerio de Transportes, Turismo y Comunicaciones.
+
+5. El Organismo Nacional de Loterías y Apuestas del Estado, adscrito al Ministerio de Economía y Hacienda, en el que se integra el suprimido Patronato de Apuestas Mutuas Deportivas Benéficas y el actual Servicio Nacional de Loterías, dependiente del Ministerio de Economía y Hacienda.
+
+El Organismo Nacional de Loterías y Apuestas del Estado tendrá la naturaleza prevista en el artículo 4.º,1, B) de la vigente Ley General Presupuestaria, teniendo a su cargo la organización y gestión de las loterías, apuestas y juegos que sean competencia del Estado, asumiendo la competencia que actualmente tiene concedida el Servicio Nacional de Loterías en materia de celebración y autorización de sorteos, loterías, rifas, combinaciones aleatorias, juegos y apuestas cuyo ámbito se extiende a todo el territorio nacional y las que actualmente le corresponden al Patronato de Apuestas Mutuas Deportivas Benéficas en materia de organización y difusión en exclusiva de las quinielas sobre el fútbol y de cualesquiera otros concursos de pronósticos que se realicen sobre resultados de eventos deportivos.
