@@ -13,3 +13,9 @@ Cinco. En tanto dure la huelga, el empresario no podrá sustituir a los huelguis
 Seis. Los trabajadores en huelga podrán efectuar publicidad de la misma, en forma pacífica, y llevar a efecto recogida de fondos sin coacción alguna.
 
 Siete. El Comité de huelga habrá de garantizar durante la misma la prestación de los servicios necesarios para la seguridad de las personas y de las cosas, mantenimiento de los locales, maquinaria, instalaciones, materias primas y cualquier otra atención que fuese precisa para la ulterior reanudación de las tareas de la empresa. Corresponde al empresario la designación de los trabajadores que deban efectuar dichos servicios.
+
+> El fallo de la Sentencia del TC 11/1981, de 8 de abril, Ref. BOE-T-1981-9433. establece:
+
+> "Que es inconstitucional el apartado 7.º del artículo 6.º en cuanto atribuye de manera exclusiva al empresario la facultad de designar los trabajadores que durante la huelga deban velar por el mantenimiento de los locales, maquinaria e instalaciones."
+
+> Se declara la inconstitucionalidad del apartado 7, en cuanto atribuye de manera exclusiva al empresario la facultad de designar los trabajadores que deban efectuar dichos servicios, por Sentencia del TC 11/1981, de 8 de abril. Ref. BOE-T-1981-9433.
