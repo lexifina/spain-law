@@ -36,4 +36,4 @@ Previas las comprobaciones que sean necesarias, la Dirección General de Coordin
 
 Se exceptúan de esta exención las ventas, entregas o transmisiones de bienes inmuebles.
 
-6. Las operaciones de fusión o escisión realizadas por las cooperativas al amparo de lo dispuesto en la Ley 76/1980, de 26 de diciembre, disfrutarán de los beneficios fiscales previstos en dicha Ley en su grado máximo.
+> Se deroga el apartado 6 por la disposición derogatoria de la Ley 29/1991, de 16 de diciembre. Ref. BOE-A-1991-30076
