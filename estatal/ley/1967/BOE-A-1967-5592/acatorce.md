@@ -1,0 +1,3 @@
+## Artículo catorce.
+
+Los fabricantes autorizados entregarán al Servicio de Control de Estupefacientes, dentro del período por éste determinado, las cantidades y clases de productos finales por el propio Servicio fijadas, a tenor del precedente artículo doce con destino a la exclusiva comercialización por el mismo Servicio de Control de Estupefacientes. La entrega se efectuará por los fabricantes autorizados en las condiciones establecidas por el Convenio Único de mil novecientos setenta y uno, acompañando los productos de las correspondientes facturas extendidas de acuerdo con las indicaciones del Servicio, las cuales serán oportunamente satisfechas por el Servicio una vez comprobadas las entregas y aprobadas las facturas.

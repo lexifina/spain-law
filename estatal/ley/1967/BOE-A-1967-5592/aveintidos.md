@@ -1,0 +1,3 @@
+## Artículo veintidós.
+
+No se permitirán otros usos de los estupefacientes que los industriales, terapéuticos, científicos y docentes autorizados con arreglo a la presente Ley. Los estupefacientes deberán ser usados o consumidos precisamente para el objeto con que hayan sido suministrados por el Servicio o dispensados por las farmacias, considerándose prohibidos cualquier cambio o consumo, aunque se lleve a cabo por la misma persona o Entidad que haya obtenido legalmente los estupefacientes, a no ser que se obtenga, también reglamentariamente, la autorización o la prescripción necesaria para el nuevo uso o consumo.
