@@ -1,0 +1,5 @@
+El artículo 32 del vigente Reglamento de Bolsas (aprobado por Decreto 1506/1967, de 30 de junio) determina en su número 2.º que el Ministerio de Economía y Hacienda puede variar los requisitos mínimos sobre admisión de valores a negociación en una Bolsa de Valores preceptuados en el mencionado artículo, siempre que, de un lado, concurran circunstancias que lo justifiquen y, de otro, medien los preceptivos informes.
+
+A tenor de dicha facultad, en esta Orden se posibilita que se excepcione, en concreto, el requisito contemplado en el apartado c) del número 1.º (beneficios obtenidos a lo largo de una serie de ejercicios) siempre que concurra alguna de las circunstancias que se precisan. En dichos casos, en el procedimiento de admisión de un valor a negociación, la Comisión Nacional del Mercado de Valores podrá excepcionar la concurrencia de la obtención de beneficios por parte de una entidad que pretenda obtener la calificación bursátil.
+
+En su virtud, previo informe del Comité Consultivo, dispongo:
