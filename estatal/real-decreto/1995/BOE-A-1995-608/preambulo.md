@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 20, de 24 de enero de 1995. Ref. BOE-A-1995-1852
+Téngase en cuenta que todas las referencias a la nacionalidad y a la residencia contenidas en este Reglamento se entenderán hechas a la nacionalidad de cualquiera de los Estados miembros de la Unión Europea y a la de los Estados parte en el Acuerdo sobre el Espacio Económico Europeo, y a la residencia en el territorio de dichos Estados, conforme establece la disposición adicional tercera del Real Decreto 1123/2001, de 19 de octubre. Ref. BOE-A-2001-21874.
