@@ -6,4 +6,8 @@
 
 Las oficinas de registro incluidas en la relación se identificarán mediante un código, asignado de conformidad con el sistema de codificación unificada que se establezca mediante Resolución de la Secretaría de Estado para la Administración Pública, al objeto de posibilitar la transmisión telemática de los asientos registrales y de sus documentos asociados entre dichas oficinas.
 
+En dicha relación se incluirán, debidamente diferenciados, los registros telemáticos a los que se refiere el capítulo VI de este real decreto.
+
 3. Los Departamentos y Organismos comunicarán al Ministerio de Administraciones Públicas los datos correspondientes a sus oficinas de registro y las variaciones que se produzcan en las mismas.
+
+> Se añade el párrafo tercero del apartado 2 por el art. 3.2 del Real Decreto 209/2003, de 21 de febrero. Ref. BOE-A-2003-4151
