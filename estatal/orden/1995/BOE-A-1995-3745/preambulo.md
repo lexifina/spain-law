@@ -1,0 +1,9 @@
+El Real Decreto 324/1986, de 10 de febrero, por el que se implanta en la Administración un nuevo sistema de información contable y se reestructura la función de ordenación de pagos, contiene el régimen general aplicable a la ejecución del gasto público y, en particular, a la ordenación del pago. Dentro de este marco, el apartado segundo del artículo 18 de la Ley 21/1993, de 29 de diciembre, de Presupuestos Generales del Estado para 1994, deroga la Ley de 31 de diciembre de 1941, sobre pagos en el extranjero y reguladora de las relaciones del Tesoro con el Instituto Español de Moneda Extranjera, estableciendo que corresponde al Ministro de Economía y Hacienda regular, de acuerdo con la normativa general presupuestaria, los procedimientos especiales para la tramitación y ejecución de las órdenes de pago en el exterior, así como las operaciones de tesorería que se realicen como consecuencia de dichos procedimientos.
+
+La innovación más importante, derivada de la citada derogación, consiste en la supresión de la sujeción general a un régimen de autorización administrativa previa ante la Dirección General del Tesoro y Política Financiera para todos los pagos al exterior efectuados por entidades públicas.
+
+La presente Orden tiene por objeto establecer los procedimientos a seguir para el pago en divisas de organismos públicos, teniendo en cuenta, por una parte, la reciente liberalización de las operaciones en divisas y, por otra, en lo que a requisitos formales concierne, las exigencias derivadas de los actuales tratamientos informáticos de las operaciones bancarias.
+
+En este sentido, la nueva normativa agiliza la tramitación de la ordenación de los pagos y el pago material en divisas, aumentando el ámbito de autonomía de los Cajeros Pagadores habilitados de los distintos Ministerios y de los organismos autónomos de la Administración del Estado en dichos procedimientos.
+
+En su virtud, dispongo:
