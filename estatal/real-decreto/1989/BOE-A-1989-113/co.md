@@ -1,0 +1,1 @@
+Téngase en cuenta que esta disposición está derogada, excepto en su capítulo II, con efectos de 7 de junio de 1995, por la disposición derogatoria única del Real Decreto 614/1995, de 21 de abril. Ref. BOE-A-1995-11719#ddunica.

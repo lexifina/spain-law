@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Excepción al tiempo mínimo de permanencia para ascenso.
+
+No obstante lo dispuesto en el artículo 19.d) del presente Reglamento, en cuanto a la necesidad de totalizar un mínimo de cinco años de servicios efectivos en la categoría de Inspector Jefe para poder intervenir en los procesos de ascenso por concurso-oposición a la categoría de Comisario, en las convocatorias que se efectúen en los cinco años siguientes a la entrada en vigor de aquél, podrán participar aquellos Inspectores Jefes que hayan prestado, al menos, dieciocho años de servicios efectivos en la Escala Ejecutiva.
