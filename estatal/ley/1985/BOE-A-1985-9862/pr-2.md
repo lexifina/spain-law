@@ -1,17 +1,5 @@
 ## Primera.
 
-1. Los fedatarios públicos que intervengan o medien en la emisión, suscripción y transmisión de valores mobiliarios y cualesquiera otros títulos-valores, o efectos públicos, salvo los pagarés del Tesoro y los regulados por el artículo cuarto de esta Ley, vendrán obligados a comunicar tales operaciones a la Administración Tributaria presentando relación nominal de compradores y vendedores, clase y número de títulos transmitidos, precios de compra o venta y nombre, razón social, documento nacional de identidad o Código de Identificación según el caso, fecha de transmisión y domicilio del adquirente y vendedor, en los plazos y de acuerdo con el modelo que determine el Ministerio de Economía y Hacienda.
+(Derogada)
 
-La misma obligación recaerá sobre las Instituciones de Crédito y Ahorro, las Sociedades mediadoras en el Mercado del Dinero las Sociedades Instrumentales de Agentes Mediadores Colegiados, los demás intermediarios financieros y cualquier persona física o jurídica que se dedique con habitualidad a la intermediación y colocación de títulos-valores o efectos públicos, respecto de las operaciones que impliquen, directa o indirectamente, la captación o colocación de recursos a través de cualquier clase de valores o efectos, con la misma salvedad prevista en el párrafo anterior.
-
-Las obligaciones de información que establece este apartado, se entenderán cumplidas respecto a las operaciones sometidas a retención que en él se mencionan, con la presentación de la relación prevista en el artículo noveno.
-
-2. Deberá comunicarse a la Administración Tributaria la emisión de certificados resguardos o documentos representantivos de la adquisición de metales u objetos preciosos, timbres de valor filatélico o piezas de valor numismático, por las personas físicas o jurídicas que se dediquen con habitualidad a la promoción de la inversión en dichos valores.
-
-3. Los Bancos, Cajas de Ahorros, Cooperativas de Crédito y cuantas personas físicas o jurídicas se dediquen al tráfico bancario o crediticio estarán obligadas a requerimiento de la Administración Tributaria a facilitar los movimientos de cuentas corrientes, depósitos de ahorro y a plazo, cuentas de préstamo y crédito y demás operaciones activas y pasivas de dichas instituciones con cualquier contribuyente.
-
-Dichos requerimientos, previa autorización del Director General o, en su caso, del Delegado de Hacienda competente, deberán precisar las operaciones objeto de investigación, los sujetos pasivos afectados por la comprobación e investigación tributarias y el alcance de la misma en cuanto al período de tiempo a que se refiera.
-
-4. Los datos obtenidos por la Administración Tributaria en virtud de lo previsto en esta Diposición, sólo podrán utilizarse para los fines tributarios encomendados al Ministerio de Economía y Hacienda y, en su caso, para la denuncia de hechos que pueden ser constitutivos de delitos monetarios, de contrabando, contra la Hacienda Pública y, en general, de cualesquiera delitos públicos.
-
-Cuantas autoridades y funcionarios tengan conocimiento de estos datos estarán obligados al más estricto y completo sigilo respecto de ellos, salvo en los casos de los presuntos delitos citados, en los que se limitarán a deducir el tanto de culpa o a remitir al Ministerio Fiscal relación circunstanciada de los hechos instando su persecución. Sin perjuicio de las responsabilidades penales o civiles que pudieran corresponder, la infracción de este particular deber de sigilo se considerará, siempre, falta disciplinaria muy grave.
+> Se deroga por la disposición derogatoria única.1.2 de la Ley 40/1998, de 9 de diciembre. Ref. BOE-A-1998-28472

@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 53, de 3 de marzo de 1993. Ref. BOE-A-1993-5832.
+Se declara la vigencia, en lo que se refiere al IRPF, por la disposición derogatoria única.2.6 de la Ley 40/1998, de 9 de diciembre. Ref. BOE-A-1998-28472.

@@ -1,3 +1,5 @@
 ## Disposición adicional primera. Transmisión a no residentes de valores con cupón corrido.
 
-En las transmisiones de valores emitidos en España por personas físicas o jurídicas no residentes sin mediación de establecimiento permanente a los que se aplique un régimen especial de acreditación de la residencia fiscal de sus titulares, efectuadas dentro de los treinta días inmediatamente anteriores al vencimiento de su cupón, por personas físicas o entidades residentes en favor de personas físicas o entidades no residentes sin establecimiento permanente en España, tendrá la consideración de rendimiento del capital mobiliario para el transmitente la parte del precio que equivalga al cupón corrido del valor transmitido. Dicho rendimiento será objeto de retención a cuenta, que será practicada por la entidad financiera que medie en la transmisión.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1.5 de la Ley 40/1998, de 9 de diciembre. Ref. BOE-A-1998-28472.
