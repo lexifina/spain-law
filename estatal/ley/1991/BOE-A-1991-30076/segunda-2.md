@@ -1,3 +1,5 @@
 ## Disposición transitoria segunda.
 
-En tanto no se disponga otra cosa por el Ministerio de Economía y Hacienda, las Administraciones de Hacienda limitarán su actuación en la gestión y liquidación del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados a la admisión de documentos y declaraciones tributarias, que deberán remitir a la Delegación de Hacienda de la que dependan para su ulterior translación.
+(Derogada)
+
+> Se deroga por la dispsición derogatoria 2.3 del Real Decreto Legislativo 1/1993, de 24 de septiembre. Ref. BOE-A-1993-25359.

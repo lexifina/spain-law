@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+Durante el año 1993 y en relación con el cumplimiento de los planes y programas de actividades establecidos por el Consejo Jacobeo 1993, se aplicará una bonificación del 95 por 100 de la cuota del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, en las adquisiciones de bienes y derechos que se destinen, directa y exclusivamente, por el sujeto pasivo a la realización de las inversiones con derecho a deducción en las cuotas del Impuesto sobre Sociedades o del Impuesto sobre la Renta de las Personas Físicas o cuando los adquieran para donarlos, en un plazo máximo de seis meses, al «Consello Jacobeo 1993».

@@ -1,5 +1,5 @@
 ## Disposición transitoria tercera.
 
-Las Oficinas Liquidadoras de Distrito Hipotecario, a cargo de Registradores de la Propiedad liquidarán, en el ámbito de sus competencias, los documentos o declaraciones del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados presentados en las mismas hasta el día anterior al de entrada en vigor de la presente Ley.
+(Derogada)
 
-Los documentos o declaraciones referentes a dicho Impuesto que deban presentarse con posterioridad lo serán en las oficinas a que se refiere el número 1 de la Disposición Adicional Octava, sin perjuicio de lo dispuesto en el número 2 de la propia Disposición.
+> Se deroga por la dispsición derogatoria 2.3 del Real Decreto Legislativo 1/1993, de 24 de septiembre. Ref. BOE-A-1993-25359.
