@@ -1,3 +1,5 @@
 ## Artículo noventa y dos.
 
-En todo lo no previsto en el presente título, que será desarrollado por el Reglamento de esta Ley, se estará a lo establecido con carácter general por las disposiciones que regulan las inversiones extranjeras en España.
+(Sin contenido)
+
+> Se deja sin contenido por el art. único del Real Decreto Legislativo 1303/1986, de 28 de junio. Ref. BOE-A-1986-17241.

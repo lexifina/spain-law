@@ -1,5 +1,9 @@
 ## Artículo noventa y uno.
 
-Uno. Cuando se trate de Sociedades Anónimas o de Responsabilidad Limitada administradas por Consejo de Administración, el número de Consejeros no españoles no podrá exceder del proporcional a la parte de capital extranjero.
+1. Cuando se trate de materias primas minerales de interés estratégico, sólo se podrán otorgar derechos mineros a personas físicas de nacionalidad española o Sociedades cuyo capital social sea español en su totalidad.
 
-Dos. Si la empresa española, cualquiera que sea su forma jurídica, estuviera administrada por uno o varios Administradores o Gerentes y alguno de ellos fuera extranjero, sus facultades deberán ser mancomunadas y no solidarias, sin que el número de los no españoles pueda exceder tampoco del proporcional a la parte del capital extranjero. El Presidente del Consejo de Administración y el Consejero-Delegado deberán ser, en su caso, españoles. Si hubiere un solo Administrador o Gerente, deberá asimismo poseer la nacionalidad española.
+La declaración de materias primas de interés estratégico, corresponde al Consejo de Ministros.
+
+2. Las empresas nacionales o extranjeras que fueran titulares de concesiones mineras, de materias primas minerales, cuando éstas fuesen declaradas de interés estratégico, vendrán obligadas a suministrar al Estado, en la cuantía, precio y forma que reglamentariamente se determine, las cantidades necesarias por razones de seguridad, así como a mantener los stocks estratégicos que, también reglamentariamente, se fijen en cada caso.
+
+> Se modifica por el art. único del Real Decreto Legislativo 1303/1986, de 28 de junio. Ref. BOE-A-1986-17241.
