@@ -1,0 +1,3 @@
+## V. Disposición final primera
+
+Contra la presente Orden que es definitiva en la vía administrativa, los interesados podrán interponer recurso contencioso-administrativo ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional, conforme a lo establecido en el artículo 11.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, y el artículo 66 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en la redacción dada por la Ley Orgánica 6/1998, de 13 de julio, en el plazo de dos meses a contar desde el día siguiente a la fecha de su publicación, de acuerdo con lo dispuesto en el artículo 46.1 de la citada Ley 29/1998.
