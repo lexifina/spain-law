@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Prevención de riesgos laborales.
+
+En materia de protección de la salud y seguridad de los trabajadores, se estará a lo dispuesto en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y su normativa de desarrollo y, específicamente, en el Real Decreto 374/2001, de 6 de abril, sobre la protección de la salud y seguridad de los trabajadores contra los riesgos relacionados con los agentes químicos durante el trabajo, y en el Real Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos durante el trabajo.
