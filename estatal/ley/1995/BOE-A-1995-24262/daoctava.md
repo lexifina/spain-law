@@ -1483,8 +1483,6 @@ Perjuicio estético.
 | Considerable | >20» |
 |  | Para las situaciones especiales con deformidad o cicatrices visibles importantes, la puntuación se determinará teniendo en cuenta la edad y sexo de la persona, así como la incidencia en su imagen para la profesión habitual. Se valorará también el coste de las necesarias intervenciones de cirugía plástica reparadora. |
 
-> Se declara la inconstitucionalidad y nulidad de la tabla V.B) y lo destacado del apartado 2.c), en la forma indicada en el último fundamento jurídico, por Sentencia del TC 181/2000, de 29 de junio. Ref. BOE-T-2000-14342.
-
 > Se modifica la redacción dada a la disposición adicional de la Ley sobre Responsabilidad Civil y Seguro en la Circulación de Vehículos a Motor por la disposición final 13 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323
 
 > Se modifica la tabla V.A) por la disposición adicional 15.1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.

@@ -1,7 +1,5 @@
 ## Artículo catorce.
 
-Uno. La sentencia que recaiga será apelable en ambos efectos.
+(Derogado)
 
-Dos. Podrán interponer el recurso quienes conforme al artículo doce se hallen legitimados para actuar como demandantes o demandados.
-
-Tres. Los coadyuvantes no podrán recurrir con independencia de las partes principales.
+> Se deroga por la disposición derogatoria única.2.3º de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323

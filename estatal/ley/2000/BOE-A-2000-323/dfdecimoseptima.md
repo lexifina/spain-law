@@ -1,0 +1,3 @@
+## Disposición final decimoséptima. Régimen transitorio en materia de abstención y recusación, nulidad de actuaciones y aclaración y corrección de resoluciones.
+
+Mientras no se proceda a reformar la Ley Orgánica del Poder Judicial en las materias que a continuación se citan, no serán de aplicación los artículos 101 a 119 de la presente Ley, respecto de la abstención y recusación de Jueces, Magistrados y Secretarios Judiciales, ni el apartado 2 de la disposición final undécima, ni los apartados 1, 2, 3 y 4 de la disposición final duodécima. Tampoco se aplicarán, hasta tanto no se reforme la citada Ley Orgánica, los artículos 225 a 230 y 214 de esta Ley, sobre nulidad de las actuaciones y aclaración y corrección de resoluciones, respectivamente.

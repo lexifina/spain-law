@@ -1,0 +1,5 @@
+## Artículo 1231 a 1253.
+
+(Derogados)
+
+> Se derogan por la disposición derogatoria única.2.1 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.

@@ -1,7 +1,5 @@
 ## Disposición adicional octava.
 
-En todos los procesos a que se refieren las normas anteriores será parte el Ministerio Fiscal, siempre que alguno de los cónyuges o sus hijos sean menores, incapacitados o ausentes.
+(Derogada)
 
-Las diligencias, audiencias y demás actuaciones judiciales en los procesos de nulidad, separación o divorcio no tendrán carácter público.
-
-La tasa judicial correspondiente a las actuaciones a que se refiere esta Ley quedará reducida al cincuenta por ciento.
+> Se deroga por la disposición derogatoria única.2.10 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.

@@ -1,9 +1,5 @@
 ## Articulo trece.
 
-Uno. El procedimiento será el establecido para los incidentes en la Ley de Enjuiciamiento Civil, con las siguientes especialidades:
+(Derogado)
 
-Primera. El plazo de contestación a la demanda será común para todos los demandados e interviniente.
-
-Segunda. No cabrá el plazo extraordinario de prueba.
-
-Tercera. La vista, en caso de solicitarse, habrá de celebrarse antes de los siete días siguientes al de formulación de la petición.
+> Se deroga por la disposición derogatoria única.2.3º de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323

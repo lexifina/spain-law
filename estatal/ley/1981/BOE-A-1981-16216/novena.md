@@ -1,5 +1,5 @@
 ## Disposición adicional novena.
 
-Las sentencias de separación, nulidad y divorcio se comunicarán de oficio a los Registros Civiles en que consten el matrimonio de los litigantes y los nacimientos de los hijos.
+(Derogada)
 
-A petición de parte, podrán ser anotadas o inscritas en los Registros de la Propiedad y Mercantil las demandas y sentencias de separación, nulidad y divorcio.
+> Se deroga por la disposición derogatoria única.2.10 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.

@@ -10,4 +10,6 @@ El demandado cambiario podrá oponer, además, las excepciones siguientes:
 
 3.ª La extinción del crédito cambiario cuyo cumplimiento se exige al demandado.
 
-Frente al ejercicio de la acción cambiaria sólo serán admisibles las excepciones enunciadas en este artículo. En el caso de que se ejercite la acción cambiaria por vía ejecutiva no será de aplicación lo previsto en el artículo 1.464 y en los números 1.º y 2.º del artículo 1.467 de la Ley de Enjuiciamiento Civil.
+Frente al ejercicio de la acción cambiaria sólo serán admisibles las excepciones enunciadas en este artículo.
+
+> Se modifica el último párrafo por la disposición final 10.1 de la Ley 1/2000, de 7 de enero.Ref. BOE-A-2000-323

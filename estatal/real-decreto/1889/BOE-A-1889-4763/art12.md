@@ -4,7 +4,7 @@
 
 2. La remisión al derecho extranjero se entenderá hecha a su ley material, sin tener en cuenta el reenvío que sus normas de conflicto puedan hacer a otra ley que no sea la española.
 
-3. En ningún caso tendrá aplicación la ley extranjera cuando resulte contraria aI orden público.
+3. En ningún caso tendrá aplicación la ley extranjera cuando resulte contraria al orden público.
 
 4. Se considerará como fraude de ley la utilización de una norma de conflicto con el fin de eludir una ley imperativa española.
 
@@ -12,6 +12,6 @@
 
 6. Los Tribunales y autoridades aplicarán de oficio las normas de conflicto del derecho español.
 
-La persona que invoque el derecho extranjero deberá acreditar su contenido y vigencia por los medios de prueba admitidos en la ley española. Sin embargo, para su aplicación, el juzgador podrá valerse además de cuantos instrumentos de averiguación considere necesarios, dictando al efecto las providencias oportunas.
+> Se deroga el párrafo segundo del apartado 6 por la disposición derogatoria única.2.1 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
 
 > Se modifica por el Decreto 1836/1974, de 31 de mayo. Ref. BOE-A-1974-1083.
