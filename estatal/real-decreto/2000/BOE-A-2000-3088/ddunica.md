@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo preceptuado en el presente Real Decreto y expresamente el Decreto 2121/1971, de 23 de julio, por el que se aprueba el Reglamento del Cuerpo Nacional de la Inspección de Trabajo; el Decreto 2122/1971, de 23 de julio, por el que se aprueba el Reglamento de la Inspección de Trabajo; el Real Decreto 97/1986, de 10 de enero, sobre el Cuerpo Superior de Inspectores de Trabajo y Seguridad Social, y el Real Decreto 1667/1986, de 26 de mayo, por el que se regulan los cometidos y atribuciones de los Controladores Laborales.

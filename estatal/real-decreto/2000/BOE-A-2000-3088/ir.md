@@ -1,0 +1,3 @@
+> Información relacionada
+
+> Las referencias efectuadas en este Reglamento al Cuerpo de Subinspectores de Empleo y Seguridad Social, y, en su caso, a los funcionarios que lo integran, se entenderán hechas al Cuerpo de Subinspectores Laborales en sus dos escalas, y, en su caso, a los funcionarios que lo integran, según se establece en la disposición adicional única del Real Decreto 1078/2017, de 29 de diciembre. Ref. BOE-A-2017-15853. No obstante, las referencias que sean relativas a la función encomendada a los Subinspectores de Empleo y Seguridad Social, sus facultades y medidas derivadas de su actuación, se entenderán hechas a la Escala de Empleo y Seguridad Social del Cuerpo de Subinspectores Laborales.
