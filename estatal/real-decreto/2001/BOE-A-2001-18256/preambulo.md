@@ -1,0 +1,43 @@
+Desde la introducción de manera generalizada de los servicios de radiodifusión de televisión y de radio, hace ya varias décadas, los ciudadanos han disfrutado en su vida cotidiana de los mismos, pero también se han visto sometidos inevitablemente a la exposición de campos electromagnéticos.
+
+La introducción reciente de la competencia en el sector de las telecomunicaciones en España, se ha traducido en una mayor diversidad en la oferta de servicios de telecomunicaciones para empresas y ciudadanos, siendo esto particularmente apreciable en los servicios de telefonía móvil. Esta mayor diversidad de oferta de servicios de telecomunicaciones, y sus niveles de calidad y cobertura asociados, requiere la existencia de un elevado número de instalaciones radioeléctricas.
+
+El Reglamento que se aprueba por este Real Decreto tiene, entre otros objetivos, adoptar medidas de protección sanitaria de la población. Para ello, se establecen unos límites de exposición del público en general a campos electromagnéticos procedentes de emisiones radioeléctricas, acordes con las recomendaciones europeas. Para garantizar esta protección se establecen unas restricciones básicas y unos niveles de referencia que deberán cumplir las instalaciones afectadas por este Real Decreto. Al mismo tiempo, se da respuesta a la preocupación expresada por algunas asociaciones, ciudadanos, corporaciones locales y Comunidades Autónomas.
+
+El presente Real Decreto cumple con las propuestas contenidas en las mociones del Congreso de los Diputados y del Senado, que instaron al Gobierno a desarrollar una regulación relativa a la exposición del público en general a las emisiones radioeléctricas de las antenas de telefonía móvil.
+
+Por otra parte, resulta también necesario, el establecimiento de condiciones que faciliten y hagan compatible un funcionamiento simultáneo y ordenado de las diversas instalaciones radioeléctricas y los servicios a los que dan soporte, considerándose, en particular, determinadas instalaciones susceptibles de ser protegidas.
+
+El artículo 61 de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones establece que la gestión del dominio público radioeléctrico y las facultades para su administración y control corresponden al Estado. Además, este artículo añade que dicha gestión se ejercerá atendiendo a la normativa aplicable en la Unión Europea, y a las resoluciones y recomendaciones de la Unión Internacional de Telecomunicaciones y de otros organismos internacionales.
+
+El artículo 62 de la Ley 11/1998, establece, por su parte, que el Gobierno desarrollará reglamentariamente las condiciones de gestión del dominio público radioeléctrico, precisándose que en dicho Reglamento deberá incluirse el procedimiento de determinación de los niveles de emisión radioeléctrica tolerables y que no supongan un peligro para la salud pública.
+
+El artículo 64, apartado 2, de la Ley 11/1998, dispone que se establecerán reglamentariamente, las limitaciones a la propiedad y las servidumbres, necesarias para la defensa del dominio público radioeléctrico, y para la protección radioeléctrica de las instalaciones de la Administración que se precisen para el control de la utilización del espectro.
+
+El artículo 76 de la Ley 11/1998, establece que es competencia del Ministerio de Fomento (ahora, del Ministerio de Ciencia y Tecnología) la inspección de los servicios y de las redes de telecomunicaciones, de sus condiciones de prestación, de los equipos, de los aparatos, de las instalaciones y de los sistemas civiles, así como la aplicación del régimen sancionador, salvo que corresponda a la Comisión del Mercado de las Telecomunicaciones.
+
+Adicionalmente, el Real Decreto 1451/2000, de 28 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Ciencia y Tecnología, atribuye a la Dirección General de Telecomunicaciones y Tecnologías de la Información la competencia para la propuesta de planificación, gestión y administración del dominio público radioeléctrico, para la comprobación técnica de emisiones radioeléctricas, y para el control y la inspección de las telecomunicaciones, así como la aplicación del régimen sancionador en la materia.
+
+La Ley 14/1986, de 25 de abril, General de Sanidad en sus artículos 18, 19, 24 y 40 atribuye a la administración sanitaria las competencias de control sanitario de los productos, elementos o formas de energía que puedan suponer un riesgo para la salud humana. Así mismo, atribuye la capacidad para establecer las limitaciones, métodos de análisis y requisitos técnicos para el control sanitario.
+
+El Real Decreto 1450/2000, de 28 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Sanidad y Consumo atribuye a la Dirección General de Salud Pública y Consumo la competencia para la evaluación, prevención y control sanitario de las radiaciones no ionizantes.
+
+Para conseguir la protección efectiva de la salud pública es necesario coordinar las competencias del Ministerio de Ciencia y Tecnología, en relación con los límites de emisiones y gestión y protección del dominio público radioeléctrico, con las competencias sanitarias del Ministerio de Sanidad y Consumo.
+
+Asimismo, resulta necesario que ambos Ministerios, con el fin de mejorar los conocimientos que se tienen acerca de la salud y las emisiones radioeléctricas promuevan y revisen la investigación pertinente sobre emisiones radioeléctricas y salud humana, en el contexto de sus programas de investigación nacionales, teniendo en cuenta las recomendaciones comunitarias e internacionales en materia de investigación y los esfuerzos realizados en este ámbito, basándose en el mayor número posible de fuentes.
+
+El Reglamento que se aprueba por este Real Decreto, elaborado en coordinación por los Ministerios de Ciencia y Tecnología y de Sanidad y Consumo, tiene por objeto cumplir con lo establecido en los citados artículos de la Ley 11/1998, sobre emisiones radioeléctricas. Asimismo, el capítulo II, artículos 6 y 7, establece, con carácter de norma básica y en desarrollo de la Ley 14/1986, límites de exposición y condiciones de evaluación sanitaria de riesgos por emisiones radioeléctricas.
+
+El presente Real Decreto asume los criterios de protección sanitaria frente a campos electromagnéticos procedentes de emisiones radioeléctricas establecidos en la Recomendación del Consejo de Ministros de Sanidad de la Unión Europea, de 12 de julio de 1999, relativa a la exposición del público en general a campos electromagnéticos.
+
+Asimismo, esta Recomendación contempla la conveniencia de proporcionar a los ciudadanos información en un formato adecuado sobre los efectos de los campos electromagnéticos y sobre las medidas adoptadas para hacerles frente, al objeto de que se comprendan mejor los riesgos y la protección sanitaria contra la exposición a los mismos.
+
+Este Reglamento establece unos límites de exposición, referidos a los sistemas de radiocomunicaciones, basados en la citada Recomendación del Consejo de la Unión Europea. Además, el Reglamento prevé mecanismos de seguimiento de los niveles de exposición, mediante la presentación de certificaciones e informes por parte de operadores de telecomunicaciones, la realización planes de inspección y la elaboración de un informe anual por parte del Ministerio de Ciencia y Tecnología.
+
+El presente Real Decreto ha sido sometido a audiencia a través del Consejo Asesor de las Telecomunicaciones y de la Sociedad de la Información, y al informe de la Comisión del Mercado de las Telecomunicaciones, de acuerdo con lo previsto en el artículo 1, dos, 2, j) de la Ley 12/1997, de 24 de abril, de Liberalización de las Telecomunicaciones.
+
+El presente Real Decreto ha sido sometido al procedimiento de información en materia de normas y reglamentaciones técnicas y de reglamentos relativos a los servicios de la Sociedad de la Información, previsto en la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 22 de junio, modificada por la Directiva 98/48/CE, de 20 de julio, así como a lo previsto en el Real Decreto 1337/1999, de 31 de julio, por el que se regula la remisión de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información, que incorpora estas Directivas al ordenamiento jurídico español.
+
+En su virtud, a propuesta conjunta de las Ministras de Ciencia y Tecnología y de Sanidad y Consumo, previa aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de septiembre de 2001,
+
+D I S P O N G O :
