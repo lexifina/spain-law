@@ -10,11 +10,13 @@ Segunda.-La de los trabajadores que causen baja en este Régimen General, sin te
 
 Tercera.-La de los trabajadores que hayan causado baja en este Régimen General para emigrar a países extranjeros, en régimen de asistencia prestada por el Instituto Español de Emigración. En esta situación, el Instituto Nacional de Previsión, a la vista de la certificación expedida por el Instituto Español de Emigración, podrá prolongar los plazos señalados en las dos situaciones anteriores, tanto para la iniciación, como para la duración de la prestación de la asistencia sanitaria a efectos de que la protección de ésta pueda cubrir el período que se estime como razonablemente necesario para preparar la emigración.
 
-Cuarta.-La de los trabajadores, que por ascender en su categoría profesional, pasen a tener una base tarifada de cotización que exceda del límite establecido para tener derecho a la asistencia sanitaria, a que el presente artículo se refiere. En esta situación, tanto los trabajadores como los beneficiarios a su cargo, conservarán el derecho a que se les inicie la prestación de la indicada asistencia, durante un periodo de noventa días naturales, contados desde aquel en que se haya producido el cambio de categoría, inclusive. Una vez iniciada la prestación de la asistencia sanitaria a cualquiera de los expresados beneficiarios, la duración de la misma no podrá exceder de quince semanas. Esta misma limitación temporal será de aplicación en el supuesto de que los trabajadores o los beneficiarios a su cargo estuvieran recibiendo la prestación de la asistencia sanitaria en el momento de producirse el cambio de categoría profesional.
+Cuarta.-(Suprimido)
 
 Quinta.-La de los trabajadores que causen baja en el Régimen General, por incorporarse a filas para el cumplimiento del Servicio Militar con carácter obligatorio o voluntariamente para adelantarlo por el tiempo mínimo. En esta situación, los beneficiarlos a cargo de dichos trabajadores, conservarán el derecho a la asistencia sanitaria durante el tiempo de permanencia en filas de éstos y de los dos meses legalmente previsto para su incorporación a la Empresa; durante estos dos últimos meses gozará de igual derecho el propio trabajador.
 
 Tres.-Las situaciones asimiladas a la de alta a que se refiere el número anterior no implicarán obligación de cotizar a este Régimen General.
+
+> Se suprime el apartado 2.4 por el art. único.2 del Decreto 3091/1972, de 2 de noviembre. Ref. BOE-A-1972-1645.
 
 > Se modifican los apartados 2 y 3 por el art. único del Decreto 3313/1970, de 12 de noviembre. Ref. BOE-A-1970-1285.
 
