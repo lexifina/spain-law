@@ -1,5 +1,7 @@
 ## Disposición final primera.
 
-Las funciones de la Administración del Estado en el mar territorial, aguas interiores, zona económica y plataforma continental en materia de defensa, pesca y cultivos marinos, salvamento, lucha contra la contaminación, seguridad de la vida humana en el mar, extracciones de restos, protección del patrimonio arqueológico español, investigación y explotación de recursos u otras no reguladas en la presente Ley, se ejercerán en la forma y por los Departamentos u Organismos que las tengan encomendadas a la entrada en vigor de la misma, sin perjuicio de lo establecido en la legislación específica o en los Convenios Internacionales que, en su caso, sean de aplicación.
+(Anulada).
 
-Hasta tanto se produzca la determinación reglamentaria de la estructura administrativa afectada por esta Ley, las competencias relativas al otorgamiento de autorizaciones en la zona de servidumbre de protección, a las limitaciones a la propiedad sobre los áridos, a la aprobación de normas reguladoras de la protección y utilización de la ribera del mar y de sus zonas de servidumbre, a las obras de defensa y regeneración de playas, incluyendo los trabajos de dragado necesarios, y al informe de los planes de ordenación territorial y urbanística del litoral a que se refiere el artículo 112, a), serán ejercidas por el Ministerio de Obras Públicas y Urbanismo.
+> Se declara inconstitucional y nula por Sentencia del TC 149/1991, de 4 de julio. Ref. BOE-T-1991-19353.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 265, de 5 de noviembre de 1991. Ref. BOE-T-1991-26674.

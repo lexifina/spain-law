@@ -8,4 +8,8 @@ a) Si ocupan terrenos de dominio público marítimo-terrestre, serán demolidas 
 
 b) Si se emplazan en la zona de servidumbre de tránsito, no se permitirán obras de consolidación, aumento de volumen, modernización o incremento de su valor de expropiación, pero sí las pequeñas reparaciones que exija la higiene, ornato y conservación previa autorización de la Administración del Estado. Esta no se otorgará si no se garantiza cuando sea necesario la localización alternativa de la servidumbre.
 
-c) En el resto de la zona de servidumbre de protección y en los términos en que la misma se aplica a las diferentes clases de suelo conforme a lo establecido en la disposición transitoria tercera, podrán realizarse, previa autorización de la Administración del Estado, obras de reparación y mejora, siempre que no impliquen aumento de volumen de las construcciones existentes y sin que el incremento de valor que aquéllas comporten pueda ser tenido en cuenta a efectos expropiatorios. En caso de demolición total o parcial, las nuevas construcciones deberán ajustarse íntegramente a las disposiciones de esta Ley.
+c) (Anulado).
+
+> Se declara inconstitucional y nulo el apartado 2. c) por Sentencia del TC 149/1991, de 4 de julio. Ref. BOE-T-1991-19353.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 265, de 5 de noviembre de 1991. Ref. BOE-T-1991-26674.
