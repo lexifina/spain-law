@@ -1,0 +1,7 @@
+La disposición adicional quinta, apartado uno, de la Ley 33/1987, de 23 de diciembre, de Presupuestos Generales del Estado para 1988, establece con carácter permanente que «en ejecución de lo previsto en el artículo 11 del Acuerdo entre el Estado Español y la Santa Sede sobre Asuntos Económicos, de 3 de enero de 1979, a partir de 1988 se destinara un porcentaje del rendimiento del Impuesto sobre la Renta de las Personas Físicas a fines religiosos y a otros fines de interés social que se determinarán reglamentariamente.
+
+Definidos los fines generales en estos términos por la Ley se hace necesario, en virtud de la facultad prevista en el apartado ocho de esa disposición adicional, establecer reglamentariamente cuáles son en concreto aquellos otros fines de interés social a los que puede destinarse la asignación tributaria, calculada como un porcentaje determinado en cada Ley de Presupuestos sobre la cuota íntegra del Impuesto sobre la Renta de las Personas Físicas, cuando los sujetos pasivos no hayan hecho uso de su derecho de asignar ese porcentaje a la colaboración del sostenimiento económico de la Iglesia católica, así como regular las competencias para la gestión de los créditos dotados con esos ingresos presupuestarios y el procedimiento para que las personas jurídicas puedan obtener ayudas con cargo a dichos créditos.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda y de Asuntos Sociales, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 15 de julio de 1988,
+
+DISPONGO:
