@@ -1,0 +1,13 @@
+La Orden de 12 de marzo de 1957 aprobó los Estatutos de los Colegios de Facultativos de Minas y Fábricas Mineralúrgicas y Metalúrgicas, vigentes en la actualidad con las modificaciones posteriores, y cuya constitución se autorizó por Decreto de 27 de enero de 1956.
+
+El Decreto 309/1972, de 10 de febrero, modificó la denominación de los Colegios de Facultativos de Minas y Fábricas Mineralúrgicas y Metalúrgicas, estableciendo que, en lo sucesivo, pasarían a denominarse Colegios Oficiales de la Ingeniería Técnica Minera y de Facultativos y Peritos de Minas, debiéndose entender sustituidas las referencias que se contengan en el Decreto de 27 de enero de 1956, sobre colegiación de los Facultativos de Minas y Fábricas Mineralúrgicas y Metalúrgicas, y en la Orden de 12 de marzo de 1957, por la que se aprobaron los estatutos de los colegios de los aludidos facultativos, relativas a la denominación de los colegios por la de Colegios Oficiales de la Ingeniería Técnica Minera y de Facultativos y Peritos de Minas.
+
+En cumplimiento de lo establecido en la disposición adicional única de la Ley 7/1997, de 14 de abril, de medidas liberalizadoras en materia de suelo y de colegios profesionales, en relación con lo determinado en el artículo 6.1 de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales, se han elaborado los Estatutos Generales del Consejo Superior y de los Colegios de Ingenieros de Minas, con el fin de adaptarlos, como es preceptivo, a las modificaciones introducidas por la Ley 7/1997, antes citada.
+
+El Pleno del Consejo General de Colegios Oficiales de la Ingeniería Técnica Minera y de Facultativos y Peritos de Minas, en su reunión del día 7 de marzo de 1998, tomó el acuerdo de remitir al Ministerio de Industria y Energía el proyecto de nuevos estatutos, para su aprobación por el Gobierno, de conformidad con el artículo 6.2 de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales.
+
+Mediante el Real Decreto 1371/2000, de 19 de julio, por el que se modifica y desarrolla la estructura orgánica básica del Ministerio de Economía, dicho departamento asume parte de las competencias que venía ejerciendo el Ministerio de Industria y Energía, como consecuencia de lo establecido en la disposición final primera del Real Decreto 557/2000, de 27 de abril, de reestructuración de los departamentos ministeriales, por el cual queda suprimido, entre otros, el Ministerio de Industria y Energía.
+
+En su virtud, a propuesta del Ministro de Economía, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 25 de julio de 2003,
+
+DISPONGO:
