@@ -5,3 +5,5 @@ El Banco podrá, dentro de las normas a que se refiere el artículo segundo, y a
 Los efectos y pólizas correspondientes a operaciones con los cultivadores directos de la tierra, con destino a la producción agrícola, podrán alcanzar, como plazo máximo de vencimiento, el de doce meses.
 
 El Banco no podrá aceptar hipotecas más que como superposición de garantía de operaciones hechas reglamentariamente y cumpliendo las disposiciones vigentes en la materia. Si en pago de créditos vencidos recibiese acciones u obligaciones de otras Sociedades o bienes muebles o inmuebles, procederá lo antes posible a su enajenación.
+
+> Véase en cuanto a la concesión de créditos por plazo superior a noventa días, los art. 1 a 3 del Decreto-Ley 7/1960, de 10 de agosto. Ref. BOE-A-1960-11903.
