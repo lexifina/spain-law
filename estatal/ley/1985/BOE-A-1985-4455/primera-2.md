@@ -1,3 +1,5 @@
 ## Disposición transitoria primera.
 
-En tanto el Gobierno no disponga lo contrario, la utilización de las unidades del Sistema denominado SI será compatible con el empleo de las autorizadas por la Ley de Pesas y Medidas de 8 de julio de 1892.
+(Derogada)
+
+> Se deroga por la disposición derogatoria del Real Decreto Legislativo 1296/1986, de 28 de junio. Ref. BOE-A-1986-17234
