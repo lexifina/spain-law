@@ -6,10 +6,10 @@ a) Con arreglo a planes de inspección establecidos por el Departamento de Inspe
 
 b) Cuando así lo ordene motivadamente el Director del Departamento de Inspección Financiera y Tributara, atendiendo al significado, importancia o trascendencia de las actuaciones.
 
-En particular, la Unidad Especial de Vigilancia y Represión del Fraude Fiscal realizará las actuaciones de comprobación e investigación en los casos previstos en el apartado 13 de esta Resolución.
-
 2. Los Jefes de las Unidades del Área de Servicios Especiales y Auditoría determinarán las actuaciones que hayan de desarrollarse por uno o conjuntamente por varios miembros de las mismas y suscribirán las actas que proceda incoar con arreglo al apartado 10 de esta Resolución. En los casos de ausencia, vacante o enfermedad, sustituirá al Jefe de Unidad quien designe el Jefe del Área de Servicios Especiales y Auditoría.
 
 Los Inspectores Coordinadores y los adscritos a las Unidades del Área de Servicios especiales y Auditoría desarrollarán las actuaciones que les sean confiadas por el Jefe de la Unidad, suscribiendo las actas correspondientes si les fue encomendada su ultimación.
 
 Los Subinspectores adscritos a las Unidades del Área de Servicios Especiales y Auditoría desarrollarán las actividades de apoyo y colaboración que procedan e intervendrán en las correspondientes actuaciones inspectoras desarrollando las actividades subordinadas que les sean encomendadas. El Departamento de Inspección financiera y Tributaria dictará instrucciones sobre asignación de tareas a los Subinspectores, con distintos niveles de responsabilidad, en atención a las diferentes categorías de puestos de trabajo que pueden ocupar, y al cumplimiento de los Planes de inspección.
+
+> Se deroga el párrafo segundo del punto 1.b) por la disposición derogatoria de la Resolución de 16 de febrero de 1996. Ref. BOE-A-1996-3686.

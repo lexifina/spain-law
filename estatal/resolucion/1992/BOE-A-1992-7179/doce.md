@@ -20,9 +20,9 @@ e) El Jefe de la Unidad Central de Información, en relación con las actuacione
 
 El Delegado especial de la Agencia designará el sustituto del Inspector regional en los casos de ausencia, vacante o enfermedad. La sustitución, para iguales casos, de los Jefes de la Oficina Nacional de Inspección, Area de Servicios Especiales y Auditoría y Unidad Central de Información, corresponderá a la persona que designe el Director del Departamento de Inspección Financiera y Tributaria. Con respecto a la sustitución del Inspector-Jefe, se estará a lo dispuesto en el artículo 32 de la Orden del Ministerio de Economía y Hacienda de 12 de agosto de 1985.
 
-f) El Jefe de la Unidad de Vigilancia y Represión del Fraude Fiscal en relación con las actuaciones realizadas desde ésta.
+f) (Derogado).
 
-g) El Jefe de la Unidad de Fiscalidad Internacional en relación con las actuaciones realizadas desde ésta.
+g) (Derogado).
 
 3. Tendrán la consideración de Adjuntos al Jefe de la Oficina Nacional de Inspección y, consecuentemente, categoría de Inspector Jefe:
 
@@ -31,6 +31,8 @@ a) El Jefe del Area de Inspección de la Oficina Nacional de Inspección y su Ad
 b) El Jefe de la Oficina Técnica de la Oficina Nacional de Inspección.
 
 4. Igualmente tendrá la consideración de Adjunto al Jefe de la Dependencia Regional de Inspección y, consecuentemente, categoría de Inspector Jefe, el Jefe de la Oficina Técnica de dicha Dependencia.
+
+> Se derogan las letras f) y g) del punto 2 por la disposición derogatoria de la Resolución de 16 de febrero de 1996. Ref. BOE-A-1996-3686.
 
 > Se añaden los puntos 3 y 4 por el apartado 3 de la Resolución de 16 de diciembre de 1994. Ref. BOE-A-1994-28710.
 

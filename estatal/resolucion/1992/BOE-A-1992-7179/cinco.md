@@ -6,17 +6,19 @@ Las Dependencias Regionales de Inspección de las Delegaciones Especiales de la 
 
 Cinco. 2. Ambito de actuación.
 
-Cinco. 2.1 Obligados tributarios adscritos a las Dependencias Regionales de Inspección.
+Cinco. 2.1. Obligados tributarios adscritos a las Dependencias Regionales de Inspección.
 
-Las funciones señaladas en el apartado anterior se extenderán a aquellos obligados tributarios con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia sobre los que la Oficina Nacional de Inspección no ejerza su competencia y reúnan alguna de las siguientes circunstancias:
+Las funciones señaladas en el apartado anterior se extenderán a aquellos obligados tributarios con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia, sobre los que la Oficina Nacional de Inspección no ejerza su competencia y reúnan alguna de las siguientes circunstancias:
 
-a) Que su volumen de operaciones supere la cifra de mil millones de pesetas durante el año natural inmediato anterior calculado conforme a lo dispuesto en el artículo 121 de la Ley 37/1992, de 28 de diciembre del Impuesto sobre el Valor Añadido.
+a) Que su volumen de operaciones supere la cifra de 1.000.000.000 de pesetas durante el año natural inmediato anterior, calculado conforme a lo dispuesto en el artículo 121 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
 
-b) Cuando así lo ordene el Delegado Especial de la Agencia, en atención a la importancia o complejidad de sus operaciones en el ámbito de la Delegación Especial respectiva, o bien, por su vinculación o relación con los anteriores o con los adscritos a dicha Dependencia.
+b) Cuando así lo ordene el Delegado Especial de la Agencia, en atención a la importancia o complejidad de sus operaciones en el ámbito de la Delegación Especial respectiva, o bien, por su vinculación o relación con los anteriores o con los adscritos a dicha dependencia.
+
+La competencia de la Dependencia Regional de Inspección podrá abarcar igualmente a las obligaciones tributarias derivadas de los hechos imponibles que correspondan a personas físicas o jurídicas no residentes y sin establecimiento permanente en España, cuando en relación con dichos hechos imponibles el representante, el depositario o gestor de los bienes o derechos, o el pagador de las rentas del no residente sea un obligado tributario adscrito a la misma.
 
 En el supuesto contemplado en el apartado b) anterior se hará la notificación pertinente al obligado tributario y a la Dependencia Regional de Recaudación.
 
-Respecto de estos obligados tributarios, la Dependencia Regional de Inspección es el órgano competente para realizar las funciones que contempla el artículo 2 del Reglamento General de la Inspección de los Tributos correspondiéndole, en exclusiva, las actuaciones de comprobación e investigación de alcance general. Asimismo realizará las funciones de gestión en relación con ellos y en su ámbito de competencia.
+Respecto de estos obligados tributarios, la Dependencia Regional de Inspección es el órgano competente para realizar las funciones que contempla el artículo 2 del Reglamento General de la Inspección de los Tributos, correspondiéndole, en exclusiva, las actuaciones de comprobación e investigación de alcance general. Asimismo, realizará las funciones de gestión, en relación con ellos y en su ámbito de competencia.
 
 Cinco. 2.2 Actuaciones inspectoras de alcance general relativas a otros obligados tributarios.
 
@@ -68,6 +70,6 @@ Las Unidades Regionales de Gestión de Grandes Empresas de las Dependencias Regi
 
 Sin perjuicio de lo anterior los obligados tributarios podrán, en cualquier caso, presentar sus declaraciones, recursos, consultas y cualquier otro documento con trascendencia tributaria en la Delegación o Administración que corresponda a su domicilio fiscal.
 
-> Se modifica por el apartado 2 de la Resolución de 16 de diciembre de 1994. Ref. BOE-A-1994-28710.
+> Se modifica el punto 2.1 por el apartado 4 de la Resolución de 16 de febrero de 1996. Ref. BOE-A-1996-3686.
 
-> Las funciones de gestión asignadas en el punto 5.3.3 comenzarán a ejercerse a partir del 1 de enero de 1995, según establece la disposición final 2.
+> Se modifica por el apartado 2 de la Resolución de 16 de diciembre de 1994. Ref. BOE-A-1994-28710.
