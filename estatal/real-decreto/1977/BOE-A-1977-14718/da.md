@@ -1,3 +1,5 @@
 ## DISPOSICIÓN ADICIONAL
 
-Si en algún Colegio, bien por su escaso número de colegiados bien por carecer de estatutos particulares o por otras razones debidamente acreditadas no pudieran cumplirse algunas de las disposiciones contenidas en estos Estatutos, el Pleno del Consejo general decidirá sobre las medidas oportunas a adoptar que tendrán carácter provisional en tanto perduren las causas que las motivaron.
+Todas las menciones a Colegios de ámbito provincial que figuran en estos Estatutos se entenderán referidas a los Colegios correspondientes a la demarcación territorial de que se trate en cada caso.
+
+> Se modifica por el art. 3 del Real Decreto 497/1983, de 16 de febrero. Ref. BOE-A-1983-7602.

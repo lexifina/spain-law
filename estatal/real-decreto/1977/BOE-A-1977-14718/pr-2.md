@@ -1,5 +1,5 @@
 ## Primera.
 
-A la entrada en vigor de estos Estatutos, las Juntas de Gobierno de las Delegaciones de ámbito provincial se constituirán en Juntas de Gobiernos de los nuevos Colegios que se creen.
+Las primeras elecciones para renovación del Presidente, Secretario general, Contador y Tesorero del Consejo que se celebren después de promulgada la reforma de los artículos 24 y 27 de los Estatutos tendrán lugar en el mes de noviembre de 1985, quedando prorrogado excepcionalmente hasta dicha fecha el período de mandato de los cargos que hubieran de cesar antes de la misma.
 
-Los Administradores de dichas Delegaciones desempeñarán transitoriamente y de forma simultánea los cargos de Contador y Tesoreror de Colegio hasta el 3 de noviembre de 1978, y solamente de Tesorero hasta el 3 de junio de 1979.
+> Se modifica por el art. 3 del Real Decreto 497/1983, de 16 de febrero. Ref. BOE-A-1983-7602.

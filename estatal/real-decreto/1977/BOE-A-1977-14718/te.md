@@ -1,5 +1,5 @@
 ## Tercera.
 
-El día 3 de noviembre de 1978 tendrán lugar las elecciones para cubrir los cargos de Secretario, Contador y la mitad de los Vocales de las Juntas de Gobierno de los Colegios. Excepcionalmente el primer mandato de estos cargos concluirá el día 3 de junio de 1981.
+Las Juntas de Gobierno de los nuevos Colegios de Ibiza-Formentera y de Menorca se constituirán mediante elecciones celebradas en la forma establecida en los Estatutos aprobados por Real Decreto 1471/1977, de 13 de mayo. Excepcionalmente, los cargos que resulten elegidos en las mismas ejercerán su mandato hasta el mes de junio del año 1985, en el que se procederá a su renovación.
 
-El día 3 de junio de 1979 tendrán lugar las elecciones para cubrir los cargos de Presidente, Tesorero y la mital de los Vocales de las Juntas de Gobierno así como la totalidad de los miembros de las Comisiones disciplinarias de los Colegios.
+> Se modifica por el art. 3 del Real Decreto 497/1983, de 16 de febrero. Ref. BOE-A-1983-7602.
