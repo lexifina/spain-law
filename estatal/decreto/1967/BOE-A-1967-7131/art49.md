@@ -1,0 +1,3 @@
+## Art. 49.
+
+Toda Infracción de las normas contenidas en el artículo 10 o de las que afecten a la ética profesional en los principios generales de la profesión periodística, que se publican como anexo a este Decreto, será enjuiciada por un Jurado de Ética Profesional, designado por el Ministro de Información y Turismo y compuesto: como Presidente, por un miembro de la carrera judicial, con categoría de Magistrado, nombrado a propuesta del Ministro de Justicia y como Vocales, por dos miembros de la Federación Nacional de las Asociaciones de la Prensa que sean periodistas en activo, propuestos por su Consejo Directivo, y dos representantes del Ministerio de Información y Turismo que sean funcionarios del mismo.
