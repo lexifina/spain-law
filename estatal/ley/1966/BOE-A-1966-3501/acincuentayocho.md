@@ -1,5 +1,5 @@
 ## Artículo cincuenta y ocho. Derecho de réplica.
 
-Uno. Toda persona natural o jurídica que se considere injustamente perjudicada por cualquier información escrita o gráfica que la mencione o aluda, inserta en una publicación periódica, podrá hacer uso del derecho de réplica en los plazos y en la forma que reglamentariamente se determinen.
+(Derogado)
 
-Dos. Podrán también ejercitar este derecho los representantes legales del perjudicado, así como sus herederos si hubiere fallecido.
+> Se deroga por la disposición derogatoria de la Ley Orgánica 2/1984, de 26 de marzo. Ref. BOE-A-1984-7248.
