@@ -70,27 +70,7 @@ b) Reconocimiento médico.
 
 c) Entrevista personal.
 
-2.4.1 Ejercicios físicos:
-
-2.4.1.1 Se realizarán los ejercicios siguientes:
-
-De velocidad.
-
-De resistencia.
-
-De potencia del tren inferior.
-
-De potencia del tren superior.
-
-De salto de aparatos.
-
-De natación.
-
-En el apéndice «C» de este anexo se describen estos ejercicios y se determinan las marcas mínimas a superar en cada uno de ellos.
-
-2.4.1.2 Para la realización de dichos ejercicios, cada aspirante aportará certificado médico oficial en el que se haga constar que reúne las condiciones físicas precisas para realizar las referidas pruebas deportivas.
-
-2.4.1.3 Se calificarán como «no apto» aquellos aspirantes que no logren superar todos los ejercicios físicos descritos en el apéndice «C». Los calificados «no apto» quedarán eliminados del proceso selectivo en el momento de no superar alguno de ellos.
+2.4.1 (Derogado).
 
 2.4.2 Reconocimiento médico:
 
@@ -105,3 +85,5 @@ En el apéndice «C» de este anexo se describen estos ejercicios y se determina
 2.4.3.2 Realizada por miembros del tribunal de selección licenciados en Psicología, los aspirantes serán calificados en los términos de «apto/no apto».
 
 2.5 Calificación final e ingreso en centro docente: Una vez terminada la calificación de los aspirantes admitidos a las pruebas, el órgano de selección hará públicas las relaciones de los que resulten seleccionados, por orden de puntuación, no pudiendo rebasar su número el de plazas convocadas.
+
+> Se deroga el apartado 2.4.1 por la disposición derogatoria única.1 de la Orden de 12 de abril de 2000. Ref. BOE-A-2000-7140
