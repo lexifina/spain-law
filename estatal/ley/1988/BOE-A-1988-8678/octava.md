@@ -1,0 +1,3 @@
+## Disposición adicional octava.
+
+Los funcionarios incorporados al Tribunal de Cuentas en virtud de los concursos autorizados por la disposición final quinta de las Leyes 9/1983, de 13 de julio, y 44/1983, de 28 de diciembre, respectivamente, de Presupuestos Generales del Estado para 1983 y 1984, deberán optar, dentro del plazo de dos meses a partir de la entrada en vigor de esta Ley, entre continuar al servicio del mismo conforme a lo dispuesto en el artículo 89.2 c) de esta Ley, con los mismos derechos, deberes y régimen retributivo que el de los Cuerpos Superiores del Tribunal de nueva creación, o reintegrarse a sus administraciones de origen.

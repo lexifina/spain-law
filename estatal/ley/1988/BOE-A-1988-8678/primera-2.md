@@ -1,0 +1,7 @@
+## Disposición transitoria primera.
+
+1. El examen y comprobación de las cuentas y las actuaciones y procedimientos de fiscalización iniciados con anterioridad a la entrada en vigor de esta Ley, continuarán sustanciándose, en todos sus trámites, por las normas vigentes al tiempo de su comienzo, sin perjuicio de la aplicación de las disposiciones de la presente que fueran compatibles con el estado del procedimiento y, en todo caso, de la aplicación inmediata de las disposiciones relativas a la forma de materializar los resultados de la función fiscalizadora y a la terminación de los procedimientos de fiscalización.
+
+2. Los procedimientos jurisdiccionales iniciados con anterioridad a la entrada en vigor de esta Ley, continuaran, asimismo, sustanciándose de conformidad con las disposiciones en tal momento vigentes. Esto no obstante, serán de aplicación directa, a partir de su vigencia, los preceptos relativos a los modos de terminación de los procedimientos jurisdiccionales y al régimen de recursos si fuere más favorable que el establecido en la legislación anterior.
+
+3. Los procedimientos jurisdiccionales de alcance y reintegro que no hubieren sobrepasado el trámite de liquidación definitiva, continuarán sustanciándose con arreglo a las disposiciones de esta Ley, teniendo, a todos los efectos, las actuaciones realizadas hasta dicho trámite el carácter de previas a la exigencia de responsabilidades contables en vía jurisdiccional.

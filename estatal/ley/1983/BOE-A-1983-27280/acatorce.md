@@ -1,3 +1,5 @@
 ## Artículo catorce.
 
-El Tribunal de Cuentas, órgano supremo de control externo de la gestión económica y financiera del sector público, establecerá secciones territoriales para el ejercicio de las funciones que le asigna su Ley Orgánica en el ámbito de cada Comunidad Autónoma.
+(Derogado)
+
+> Se deroga por la disposición final 1.2 de la Ley 7/1988, de 5 de abril. Ref. BOE-A-1988-8678
