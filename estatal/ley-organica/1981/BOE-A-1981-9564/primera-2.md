@@ -15,3 +15,5 @@ Para los recursos que tuvieran por objeto la impugnación de la validez de la el
 Contra las resoluciones de dicha Sala de la Audiencia Territorial, no cabrá recurso alguno.
 
 Cinco. En todo lo no previsto en la presente disposición, serán de aplicación las normas vigentes para las elecciones legislativas al Congreso de los Diputados de las Cortes Generales.
+
+> Téngase en cuenta que las provincias de La Coruña y Orense se denominan oficialmente A Coruña y Ourense, según establecen los arts. 1 y 2 de la Ley 2/1998, de 3 de marzo. Ref. BOE-A-1998-5184
