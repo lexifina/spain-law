@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto y expresamente el Real Decreto de 29 de mayo de 1911 (Gaceta de Madrid de 31 de mayo), la Real Orden de 12 de agosto de 1911, del Ministerio de Gracia y Justicia (Gaceta de Madrid de 14 de agosto); la Orden de 29 de marzo de 1937, de la Presidencia de la Junta Técnica del Estado, sobre expurgo de legajos y documentos («Boletín Oficial del Estado» de 31 de marzo), y la Orden de 8 de abril de 1937, de la Comisión de Justicia, sobre expurgo de documentos en los archivos judiciales («Boletín Oficial del Estado» de 8 de abril).

@@ -1,0 +1,39 @@
+Este real decreto es consecuencia de las numerosas reformas legales que se están llevando a cabo para la mejora y modernización de la justicia. Los españoles, comenzando por los diferentes operadores jurídicos, demandan inequívocamente un esfuerzo profundo en este sentido. El Pacto de Estado para la reforma de la justicia prevé su mejora y actualización de acuerdo con las necesidades sociales. Dicha mejora se debe sustentar en la modernización de la oficina judicial y en la dotación de una serie de medios, a través de un plan de infraestructuras que supla determinadas carencias. Ambos puntos convergen en la conveniencia de crear una oficina judicial ágil, rápida y con una correcta atención al ciudadano. Una oficina judicial saturada de expedientes difíciles de ubicar o archivar, con la consiguiente dificultad para encontrarlos en ocasiones produce en la sociedad la imagen de una justicia lenta e ineficaz.
+
+Es necesario fijar un sistema de gestión y custodia de la documentación judicial por el que se descongestionen los diferentes juzgados y tribunales, otorgando a cada uno de ellos su propio archivo con el que clasificar y custodiar todos aquellos expedientes que se encuentren en tramitación. Por el contrario, los que no están pendientes de tramitación se podrán enviar a los archivos territoriales o centrales o, en su caso, a la Junta de Expurgo, evitando así que ocupen un espacio innecesario. Esto exige una actualización y unificación de la normativa que regule el expurgo de los archivos de los juzgados y tribunales, así como el establecimiento de criterios que garanticen la más idónea conservación de cuantos documentos pudieran tener valor cultural, histórico, jurídico o administrativo, pues no hay que olvidar que la documentación que produce la Administración de Justicia constituye parte integrante del Patrimonio Documental y Bibliográfico.
+
+Este real decreto pretende la regulación unitaria y conjunta de esta materia, adecuándola a la realidad social y jurídica actual, consiguiendo un equilibrio entre la tradicional técnica archivística y el desarrollo creciente de las nuevas tecnologías.
+
+Por otra parte, la Constitución española, en su artículo 46, obliga a los poderes públicos a garantizar y promover el enriquecimiento del patrimonio histórico y cultural de los pueblos de España, con independencia de su régimen jurídico y su titularidad, a la vez que reconoce a los ciudadanos, en el artículo 105.b), el derecho de acceso a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de la persona.
+
+Pocas dudas ofrece lo insuficiente de la regulación normativa vigente, además de su obsolescencia, puesto que la principal norma por la que se rige la materia en la actualidad es el Real Decreto dictado por el entonces Ministro de Gracia y Justicia el 29 de mayo de 1911.
+
+En cuanto a la mecánica de funcionamiento, ha de tenerse en cuenta que el real decreto se va aplicar tanto al gran número de documentos en los que han transcurrido los respectivos plazos de caducidad o de prescripción, que ocupan un espacio enorme en las sedes judiciales, como a las actuaciones en marcha a su entrada en vigor o las que se inicien en el futuro. Lo anterior, unido al hecho de que va a aplicarse en todos los órdenes jurisdiccionales, motiva que la redacción de las disposiciones sea necesariamente amplia, a fin de dar cabida a todos los supuestos que se dan en la práctica judicial.
+
+En los archivos de gestión se custodian los documentos mientras permanezcan vivos, lo cual se plasma en el artículo 5.1, que dispone que en ellos deben conservarse los documentos judiciales si están pendientes de resolución o de finalizar la ejecución ya instada.
+
+En caso contrario, se contempla un doble supuesto:
+
+a) Que proceda su expurgo –artículos 5.2, párrafos primero y tercero, «in fine», y 15.1– por haberse ejecutado definitivamente o por haber transcurrido los plazos de caducidad o prescripción. En estos supuestos, carece de sentido remitirlos al archivo territorial, por lo que se eleva una relación de todos ellos a la Junta de Expurgo, previa resolución del titular del órgano por la que se declara el transcurso de los plazos. Esta previsión se aplicará a la ingente cantidad de documentación judicial almacenada en las sedes a la entrada en vigor del real decreto.
+
+b) Que proceda su remisión al archivo territorial, distinguiéndose, a su vez, entre dos supuestos:
+
+1.º En primer lugar, aquellos asuntos que se encuentren paralizados, no por inactividad judicial, sino por imposibilidad de continuar la tramitación –artículo 5.2, párrafo primero–. Transcurridos cinco años desde la incoación se remiten al archivo territorial. Este es el caso de las denuncias por delitos sin autor conocido en el orden jurisdiccional penal. Habida cuenta que no ha prescrito el delito, no pueden remitirse a la Junta de Expurgo; en caso contrario, si ha prescrito, debe procederse a su remisión a la Junta de Expurgo, conforme a las reglas ya analizadas. A tal efecto, debe considerarse que cinco años es un plazo más que prudencial, más allá del cual no es previsible la «reapertura» de las actuaciones, sin perjuicio de que, evidentemente, si ésta se produjera, no habrá más que reclamar la documentación al archivo territorial. Esta previsión tiene como fin fundamental incrementar la disponibilidad espacial de los órganos judiciales.
+
+Precisamente para mejorar la disponibilidad espacial, se prevé en el artículo 5.2, párrafo segundo, un plazo de custodia inferior cuando la disponibilidad espacial del órgano judicial no permita albergar durante cinco años este tipo de documentación judicial.
+
+2.º En segundo término, también procede la remisión al correspondiente archivo territorial de aquellos asuntos finalizados por sentencia firme o cualquier otra resolución que les ponga fin –artículo 5.2, párrafo tercero–, que, transcurrido un año, se remiten al archivo territorial para su custodia. El plazo de un año se estima prudencial para que, en su caso, se inicie la ejecución.
+
+Debe tenerse en cuenta que la acción ejecutiva caduca a los cinco años, según dispone el artículo 518 de la Ley de Enjuiciamiento Civil, por lo que ni es posible solicitar su expurgo, ni tampoco parece razonable que deban custodiarse en el archivo de gestión durante todo el plazo, ya que un alto porcentaje de estos asuntos nunca serán objeto de demanda ejecutiva.
+
+Sea cual fuese el supuesto que fundamenta la remisión de documentos judiciales al archivo territorial, según lo ya visto, en él se conservan todos los documentos hasta que transcurran los plazos de prescripción o caducidad.
+
+Una vez transcurridos éstos, el responsable del archivo insta del órgano judicial que hubiese entendido del asunto que, con arreglo a las disposiciones legales, confirme que han transcurrido efectivamente los plazos, según dispone el artículo 15.2.
+
+Declarado el transcurso, el responsable del archivo eleva a la Junta de Expurgo una relación de todos ellos, para que decida sobre su posterior destino. En este sentido, la Junta de Expurgo procederá a su destrucción física siempre que la Administración competente en materia de patrimonio histórico-documental, cuyo informe es vinculante, entienda que no tiene un valor cultural, social o histórico suficiente para proceder a su conservación.
+
+Este real decreto ha sido informado por el Consejo General del Poder Judicial y las comunidades autónomas con competencias sobre medios personales y materiales para el funcionamiento de la Administración de Justicia.
+
+En su virtud, a propuesta del Ministro de Justicia, con la aprobación previa del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 18 de julio de 2003,
+
+DISPONGO:
