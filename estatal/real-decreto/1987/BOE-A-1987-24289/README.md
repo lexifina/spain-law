@@ -21,6 +21,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 7](art7.md)
 - [Art 8](art8.md)
 - [Art 9](art9.md)
+- [Art 10](art10.md)
+- [Art 11](art11.md)
 - [DISPOSICIÓN ADICIONAL](da.md)
 - [DISPOSICIONES FINALES](df.md)
 - [Primera](primera.md)
