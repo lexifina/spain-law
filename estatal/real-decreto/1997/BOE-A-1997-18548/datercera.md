@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Patrimonio inmobiliario adscrito al Ministerio de Administraciones Públicas.
+
+Por el Ministerio de Administraciones Públicas, en colaboración con los Delegados del Gobierno y en el marco del Acuerdo del Consejo de Ministros de 18 de octubre de 1996 por el que se adoptan medidas urgentes para mejorar el aprovechamiento del patrimonio inmobiliario de la Administración General del Estado y sus organismos públicos, se propondrá a la Junta Coordinadora de Edificios Administrativos un plan específico para la optimización del grado de utilización de los inmuebles adscritos al Departamento de acuerdo con las previsiones del artículo 15 de este Real Decreto.
