@@ -1,0 +1,7 @@
+El artículo 28 de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria (LRU), dispone que el Gobierno, a propuesta del Consejo de Universidades, establecerá los títulos de carácter oficial y validez en todo el territorio nacional, así como las directrices generales de los planes de estudios que deban cursarse para su obtención y homologación. Asimismo, por Real Decreto 1497/1987, de 27 de noviembre («Boletín Oficial del Estado» de 14 de diciembre), se establecieron las directrices generales comunes, que aparecen definidas en el propio Real Decreto como aquellas que son de aplicación a todos los planes de estudios conducentes a cualquier título universitario de carácter oficial.
+
+Vertebrada, pues, la reforma académica a través de las previsiones contenidas en el citado Real Decreto 1497/1987, y de conformidad con lo dispuesto en el artículo 8.° del mismo, se trata ahora de establecer el título universitario oficial de Licenciado en Derecho y las directrices generales propias de los planes de estudios conducentes a la obtención de aquél. La adecuación de las directrices generales propias al marco fijado por el Real Decreto 1497/1987 debe garantizar la necesaria coherencia y homogeneidad del modelo académico universitario,
+
+En su virtud, vista la propuesta del Consejo de Universidades y a propuesta del Ministro de Educación y Ciencia, previa deliberación del Consejo de Ministros en su reunión del día 26 de octubre de 1990,
+
+DISPONGO:
