@@ -27,6 +27,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria séptima](septima.md)
 - [Disposición transitoria octava](octava.md)
 - [Disposición transitoria novena](novena.md)
+- [Disposición transitoria décima](decima.md)
 - [Disposición final primera](primera-3.md)
 - [Disposición final segunda](segunda-3.md)
 - [Disposición final tercera](tercera-3.md)

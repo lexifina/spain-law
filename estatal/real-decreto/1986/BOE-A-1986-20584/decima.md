@@ -1,0 +1,5 @@
+## Disposición transitoria décima.
+
+El personal que en el momento inicial de aplicación de las previsiones retributivas del apartado tres de la base decimotercera de las establecidas en el artículo 4.º de este Real Decreto, se hallare desempeñando plaza de Profesor de los Cuerpos Universitarios y otra complementaria como personal estatutario o asimilado del INSALUD, podrá optar, en el plazo de un mes a contar desde el día final del mes en que por primera vez sea retribuido conforme a dichas previsiones, por continuar incluido en el Régimen General de la Seguridad Social y percibiendo los trienios, que le correspondan por la plaza asistencial que venía desempeñando. En este caso, la cotización al Régimen General de la Seguridad Social tornará como base la totalidad de las retribuciones previstas en el presente Real Decreto, de acuerdo con las normas generales que regulan esta materia en dicho Régimen.
+
+> Se añade por el art. 2 del Real Decreto 644/1988, de 3 junio. Ref. BOE-A-1988-15948.
