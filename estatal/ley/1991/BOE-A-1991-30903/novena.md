@@ -22,6 +22,8 @@ Seis. El Gobierno, a propuesta conjunta de los Ministros de Economía y Hacienda
 
 En tanto que, en su caso, se promulgue la correspondiente norma que establezca los citados tipos, se aplicarán los vigentes en 1991.
 
-> Atención: esta disposición queda derogada en lo referente al Régimen Especial de Seguridad Social de las Fuerzas Armadas.
+> Esta disposición queda derogada en lo referente al Régimen Especial de Seguridad Social de las Fuerzas Armadas y a la Mutualidad General de Funcionarios Civiles del Estado según establece la disposición derogatoria única.b).8 del Real Decreto Legislativo 4/2000, de 23 de junio. Ref. BOE-A-2000-12140#ddunica.
+
+> Se deroga en lo referente a la Mutualidad General de Funcionarios Civiles del Estado por la disposición derogatoria única.b).8 del Real Decreto Legislativo 4/2000, de 23 de junio. Ref. BOE-A-2000-12140#ddunica.
 
 > Se deroga en lo referente al Régimen Especial de Seguridad Social de las Fuerzas Armadas por la disposición derogatoria 1.f) del Real Decreto Legislativo 1/2000, de 9 de junio. Ref. BOE-A-2000-11121#ddunica.

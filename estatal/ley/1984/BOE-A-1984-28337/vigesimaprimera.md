@@ -43,3 +43,5 @@ A partir de la indicada fecha, las citadas Entidades no podrán recibir subvenci
 16. En lo no dispuesto en esta disposición adicional será de aplicación lo previsto en la disposición adicional quinta de la Ley de Presupuestos Generales del Estado para 1981 y normas de desarrollo y aplicación de la misma.
 
 17. El Gobierno dictará las normas necesarias para el desarrollo y aplicación de cuanto se indica en esta disposición adicional.
+
+> Téngase en cuenta que se deroga en la parte que se refiere a la Mutualidad General de Funcionarios Civiles del Estado por la disposición derogatoria única.b).3 del Real Decreto Legislativo 4/2000, de 23 de junio. Ref. BOE-A-2000-12140#ddunica.

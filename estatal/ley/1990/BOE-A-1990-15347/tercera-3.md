@@ -5,3 +5,7 @@ La base de cotizaciones a las Mutualidades Generales de Funcionarios será la qu
 El Gobierno, a propuesta conjunta de los Ministros de Economía y Hacienda y para las Administraciones Públicas, podrá revisar los tipos de cotización de los funcionarios y de aportación del Estado a aplicar sobre la mencionada base, en función de las necesidades de financiación de las respectivas Mutualidades.
 
 En tanto que, en su caso, se promulgue la correspondiente norma que establezca los citados tipos, se aplicarán los vigentes en 1989.
+
+> Téngase en cuenta que se deroga en la parte que se refiere a la Mutualidad General de Funcionarios Civiles del Estado según establece la disposición derogatoria única.b).7 del Real Decreto Legislativo 4/2000, de 23 de junio. Ref. BOE-A-2000-12140#ddunica.
+
+> Se deroga en la parte que se refiere a la Mutualidad General de Funcionarios Civiles del Estado por la disposición derogatoria única.b).7 del Real Decreto Legislativo 4/2000, de 23 de junio. Ref. BOE-A-2000-12140#ddunica.
