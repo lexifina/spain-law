@@ -258,6 +258,10 @@ Administraciones de Aduanas adscritas:
 
 Administración de Aduanas de Madrid-carretera.
 
+Recintos aduaneros habilitados adscritos:
+
+Recinto habilitado de Puerto Seco de Madrid.
+
 Administración de Aduanas del Aeropuerto de Madrid-Barajas.
 
 Administración de Aduanas de Madrid-ferrocarril.
@@ -381,5 +385,7 @@ Recinto habilitado de Algemesí.
 Recinto habilitado de Carcagente.
 
 Recinto habilitado de Silla.
+
+> Se modifica para Madrid por el apartado 1.1 de la Resolución de 8 de abril de 2003. Ref. BOE-A-2003-13838.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 237, de 3 de octubre de 1998. Ref. BOE-A-1998-22985.
