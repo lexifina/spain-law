@@ -62,19 +62,15 @@ Cumpliendo las especificaciones de esta norma el producto, durante el proceso de
 
 6. Norma microbiológica.
 
-Las siguientes normas microbiológicas, relativas a la higiene alimentarias de estos productos han sido aprobadas por la Subsecretaría para la Sanidad del Ministerio de Sanidad y Consumo.
+Enterobacteriáceas totales: 1 x 102 colonias/gramo.
 
-En virtud del artículo 14 del Real Decreto 3302/1978, de 22 de diciembre, dicha Subsecretaría podrá, atendiendo a motivaciones de salud pública, modificar en cualquier momento la presente relación mediante la Resolución correspondiente.
+Salmonella Shiguella: Ausencia en 25 gramos.
 
-|  | Con tratamiento térmico | Con tratamiento térmico empaquetado al vacío | Con tratamiento térmico en envases herméticos |
-| --- | --- | --- | --- |
-| Preincubación | – | 72 horas a 17º C | 10 días a 17º C |
-| Recuento de colonias aerobias mesófilas (31 ± 1º C) | Máx. 1 × 105 col/g. | Máx. 1 × 104 col/g. | Máx. 1 × 104 col/g. |
-| Recuento anaerobios | Máx. 1 × 104 col/g. | Máx. 1 × 103 col/g. | Máx. 1 × 104 col/g. |
-| Enterobacteriaceae. Totales | Máx. 1 × 102 col/g. | Máx. 1 × 101 col/g. | Ausencia/g. |
-| Salmonella-Shigella | Ausencia/25 g. | Ausencia/25 g. | Ausencia/25 g. |
-| St. aureus enterotoxigénico | Máx. 1 × 102 col/g. | Máx. 1 × 101 col/g. | Ausencia/g. |
-| Esporos sulfitoreductores anaerobios | Máx. 1 × 102 col/g. | Máx. 1 × 101 col/g. | Ausencia/g. |
+Stafilococos aureus enterotoxigénico: 1 x 102 colonias/gramo.
+
+Sulfito reductores anaerobios esporulados: 1 x 102 colonias/gramo.
+
+La toma de muestras y técnicas analíticas serán las recomendadas por ISO y se realizarán sobre piezas en envase original.
 
 7. Aditivos autorizados.
 
@@ -256,7 +252,7 @@ En la aplicación del cuadro, los valores calculados en tanto por ciento se redo
 
 El etiquetado y rotulación del jamón cocido y del fiambre de jamón deberán cumplir con lo dispuesto en el Real Decreto 2058/1982, de 12 de agosto, por el que se aprueba la Norma General de Etiquetado, Presentación y Publicidad de los Productos Alimenticios Envasados.
 
-12.1 Etiquetado.
+12.1. Etiquetado.
 
 La información del etiquetado de los envases constará obligatoriamente de las siguientes especificaciones:
 
@@ -347,5 +343,7 @@ Los productos importados, además de cumplir lo establecido en el punto 12 de la
 16. Etiquetado facultativo.
 
 Dada la importancia que tiene en estos productos la incorporación o no de fosfatos, se reserva la posibilidad de incorporar una frase con tal información de tamaño menor al de la denominación comercial, tan sólo para la categoría «Extra», siempre y cuando no existan en dichos productos más de 4.500 ppm de fosfatos expresados en anhidrido fosfórico.
+
+> Se modifica el apartado 6 por los apartados 1 y 2 de la Resolución de 26 de diciembre de 1983. Ref. BOE-A-1984-71.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 209, de 1 de septiembre de 1983. Ref. BOE-A-1983-23433.
