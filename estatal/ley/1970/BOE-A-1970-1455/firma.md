@@ -1,0 +1,7 @@
+Dada en el Palacio de El Pardo a veintidós de diciembre de mil novecientos setenta.
+
+FRANCISCO FRANCO
+
+El Presidente de las Cortes,
+
+ALEJANDRO RODRÍGUEZ DE VALCÁRCEL Y NEBREDA
