@@ -1,0 +1,19 @@
+El artículo 7.8 del Real Decreto 1475/2000, de 4 de agosto, por el que se desarrolla la estructura orgánica básica del Ministerio de Fomento, establece que depende de la Subsecretaría de este ministerio la Comisión para la coordinación del transporte de mercancías peligrosas.
+
+El Real Decreto 2619/1981, de 19 de junio, creó la Comisión interministerial de coordinación del transporte de mercancías peligrosas. Asimismo, este real decreto determinó las competencias en la materia de los distintos departamentos ministeriales, derogando el Decreto 2674/1973, de 19 de octubre. Posteriormente, la composición de esta comisión fue modificada por la Orden del Ministro de Transportes, Turismo y Comunicaciones, de 8 de septiembre de 1983, con fundamento en la autorización contenida en el artículo 7 del real decreto citado.
+
+La necesidad de adecuar la comisión a diversas reformas administrativas introducidas en los años siguientes llevó a la aprobación del vigente Real Decreto 1952/1995, de 1 de diciembre, por el que se determinan las autoridades competentes en materia de transporte de mercancías peligrosas y se regula la comisión de coordinación de dicho transporte.
+
+Las reestructuraciones de los departamentos ministeriales realizadas en 1996 y 2000 han producido sustanciales modificaciones en la estructura y funciones de la Administración General del Estado y, por ende, en la composición real del Pleno y de la Comisión Permanente de la Comisión para la coordinación del transporte de mercancías peligrosas. Es, pues, conveniente que los cambios operados en la práctica tengan reflejo normativo.
+
+Por otra parte, igualmente es conveniente que queden adecuadamente enunciadas en la norma que regula la comisión las competencias de todos sus ministerios integrantes. Tales competencias se han visto afectadas, en el tiempo de vigencia del Real Decreto 1952/1995, no sólo por normas de organización, sino también por nuevas normas sustantivas, que en mayor o menor medida han afectado a la regulación de las mercancías peligrosas y su transporte, como el nuevo Reglamento de Explosivos, aprobado por el Real Decreto 230/1998, de 16 de febrero, o el Real Decreto 1566/1999, de 8 de octubre, sobre los consejeros de seguridad para el transporte de mercancías peligrosas por carretera, ferrocarril o por vía navegable.
+
+Finalmente, se estima necesario dar una nueva regulación a las funciones de apoyo técnico y administrativo de la comisión, para lo cual, en primer lugar, se simplifica la estructura orgánica de ésta, que pasa a estar integrada únicamente por dos órganos –el Pleno y la Comisión Permanente– y, consecuentemente, el Gabinete de Ordenación y Coordinación es una unidad administrativa, dependiente de la Secretaría Técnica de Transportes, a la que corresponde actuar como unidad de gestión y de apoyo técnico y administrativo de la comisión.
+
+Lo anteriormente indicado obliga a sustituir el citado Real Decreto 1952/1995, de 1 de diciembre, con la finalidad de determinar las competencias actuales de las autoridades de la Administración General del Estado en materia de transporte de mercancías peligrosas, así como actualizar la organización y funcionamiento de la Comisión para la coordinación del transporte de mercancías peligrosas, siempre de acuerdo con el marco institucional regulador de las relaciones entre las diversas Administraciones públicas.
+
+Este real decreto ha sido informado favorablemente por la Comisión para la coordinación del transporte de mercancías peligrosas.
+
+En su virtud, a propuesta de los Ministros de Fomento, de Asuntos Exteriores, de Defensa, del Interior, de Agricultura, Pesca y Alimentación, de Sanidad y Consumo, de Medio Ambiente, de Economía y de Ciencia y Tecnología, con la aprobación previa de la Ministra de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 3 de octubre de 2003,
+
+DISPONGO:
