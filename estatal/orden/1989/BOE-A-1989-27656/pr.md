@@ -1,0 +1,5 @@
+Ilustrísimo señor:
+
+La experiencia acumulada en años anteriores en el fomento de la lucha integrada, ha demostrado las indudables ventajas de las aplicaciones de estas técnicas frente a los métodos convencionales de lucha. La creación de agrupaciones especificas de agricultores permite, por un lado, racionalizar el empleo de los productos fitosanitarios, evitando aplicaciones innecesarias y, por otro, incorporar a la lucha contra las plagas métodos no contaminantes de lucha biológica y técnicas culturales, mejorando así la calidad de los alimentos y reduciendo el impacto ecológico de la lucha química.
+
+Resulta, por tanto, aconsejable apoyar dichas actuaciones, que, dada la diversidad de cultivos, recomienda el establecimiento de un plan de actuación que, de acuerdo con sus respectivas competencias, elaboren y lleven a cabo la Dirección General de la Producción Agraria y los Organismos competentes de las Comunidades Autónomas. En consecuencia de acuerdo con las Comunidades Autónomas, ha tenido a bien disponer:
