@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+Las órdenes, Congregaciones religiosas y otros institutos de vida consagrada, sus provincias y sus casas y las asociaciones y otras entidades o fundaciones religiosas que tienen reconocida por el Estado la personalidad jurídica y la plena capacidad de obrar, deberán inscribirse en el correspondiente Registro del Estado en el más breve plazo posible. Transcurridos tres años desde la entrada en vigor en España del presente Acuerdo, sólo podrá justificarse su personalidad jurídica mediante certificación de tal registro, sin perjuicio de que pueda practicarse la inscripción en cualquier tiempo.
