@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Refundición de circulares, instrucciones y órdenes de servicio.
+
+1. Se procederá a la refundición, armonización y adecuación a lo dispuesto en el Reglamento Penitenciario que se aprueba por este Real Decreto de las circulares, instrucciones y órdenes de servicio dictadas por los órganos directivos de la Secretaría de Estado de Asuntos Penitenciarios antes de la entrada en vigor del mismo. Dichas circulares, instrucciones y órdenes de servicio conservarán su vigencia, en lo que no se opongan a lo dispuesto en el citado Reglamento, a partir de su entrada en vigor y hasta que se produzca la mencionada refundición, en cuyo momento se aplicarán íntegramente.
+
+2. Las circulares, instrucciones y órdenes de servicio se publicarán de forma regular en el Boletín de Información del Ministerio de Justicia e Interior o Boletín autonómico equivalente, conforme a lo dispuesto en el artículo 37.10 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.

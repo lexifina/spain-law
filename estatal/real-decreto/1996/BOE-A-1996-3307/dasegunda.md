@@ -1,0 +1,9 @@
+## Disposición adicional segunda. Viviendas penitenciarias.
+
+1. Las viviendas, residencias y dependencias anejas de los distintos centros y establecimientos penitenciarios son bienes inmuebles de dominio público afectados al uso público de casa-habitación de los directivos, funcionarios y personal laboral de plantilla de instituciones penitenciarias con destino definitivo en los correspondientes centros penitenciarios, que estarán excluidas de arrendamiento conforme a lo establecido en el artículo 5 de la Ley de Arrendamientos Urbanos.
+
+2. En razón de las necesidades de la Administración penitenciaria, estos bienes inmuebles demaniales podrán desafectarse por los procedimientos legalmente establecidos para su integración en el Patrimonio del Estado o de la Comunidad Autónoma correspondiente y su eventual enajenación, así como destinarse a un uso público distinto.
+
+3. Los recursos derivados de los cánones de uso de las viviendas, residencias y dependencias destinadas a funcionarios y personal laboral de plantilla penitenciarios tendrán la naturaleza de ingresos públicos, que se ingresarán en el Tesoro Público para su posterior incorporación, mediante generaciones de crédito, a aquéllos conceptos presupuestarios del Presupuesto de gastos de la Administración penitenciaria correspondiente que contribuyan al mejor cumplimiento de los fines de la actividad penitenciaria establecidos en el artículo 2 del Reglamento Penitenciario.
+
+4. Por Orden del Ministro de Justicia e Interior o resolución autonómica equivalente se regularán los órganos gestores, los sistemas de adjudicación, las obligaciones y derechos de los usuarios y de la Administración penitenciaria, las causas de extinción de la cesión de uso y el procedimiento de desahucio administrativo para la ejecución forzosa de las resoluciones de desalojo.

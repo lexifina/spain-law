@@ -1,1 +1,3 @@
-> Incluye la corrección de errores publicada en BOE núm. 182, de 31 de julio de 1981. Ref. BOE-A-1981-17334.
+Norma derogada por la disposición derogatoria única.2.b) del Real Decreto 190/1996, de 9 de febrero; no obstante, se mantiene la vigencia de los arts. 108, 109, 110 y 111 y del primer párrafo del art. 124, según establece el apartado 3 de la citada disposición derogatoria. Ref. BOE-A-1996-3307#ddunica.
+
+Asimismo, el contenido de los arts. 277 a 324; 328 a 332 y 334 a 343 del presente Reglamento Penitenciario se mantendrá vigente, con rango de resolución, en lo que no se oponga a lo establecido en el Reglamento Penitenciario que se aprueba por el Real Decreto 190/1996 citado, según establece su disposición transitoria tercera. Ref. BOE-A-1996-3307#dttercera.
