@@ -17,18 +17,12 @@
 | 9. | Hipoacusia que afecta la zona conversacional en un oído, siendo normal la del otro | 34.000 |
 | 10. | Hipoacusia que afecta la zona conversacional en ambos oídos | 50.500 |
 |  | 2.º Órganos del olfato: |  |  |
-| 11. | Pérdida de la nariz: |  |  |
-|  | a) Tratándose de mujeres | 112.000 |
-|  | b) Tratándose de varones | 54.000 |
+| 11. | Pérdida de la nariz | 112.000 |
 | 12. | Deformación o perforación del tabique nasal | 17.000 |
 | 13. | Pérdida del sentido del olfato | 17.000 |
 |  | 3.º Deformaciones en el rostro y en la cabeza, no incluidos en los epígrafes anteriores: |  |  |
-| 14. | Deformaciones en el rostro y en la cabeza que determinen una alteración importante de su aspecto: |  |  |
-|  | a) Tratándose de mujeres | 18.000 a 36.000 |
-|  | b) Tratándose de varones | 8.500 a 17.000 |
-| 15. | Deformaciones en el rostro que afecten gravemente a la estética facial o impidan alguna de las funciones de los órganos externos de la cara: |  |  |
-|  | a) Tratándose de mujeres | 27.000 a 112.000 |
-|  | b) Tratándose de varones | 17.000 a 36.000 |
+| 14. | Deformaciones en el rostro y en la cabeza que determinen una alteración importante de su aspecto | 18.000 a 36.000 |
+| 15. | Deformaciones en el rostro que afecten gravemente a la estética facial o impidan alguna de las funciones de los órganos externos de la cara | 27.000 a 112.000 |
 |  | II. APARATO GENITAL. |  |  |
 | 16. | Pérdida funcional de testículos: |  |  |
 |  | Uno | 21.000 |
@@ -185,6 +179,10 @@
 | 109. | De 4 a 10 centímetros | 34.000 |
 |  | VI. CICATRICES NO INCLUIDAS EN LOS EPÍGRAFES ANTERIORES |  |  |
 | 110. | Según las características de las mismas y, en su caso, las perturbaciones funcionales que produzcan | 7.500 a 30.000 |
+
+> Véase el art. único de la Orden de 16 de enero de 1991. Ref. BOE-A-1991-1400.,en cuanto que actualiza las cuantías de las indemnizaciones
+
+> Se modifican los números 11, 14 y 15 por el art. único de la Orden de 5 de abril de 1974.Ref. BOE-A-1974-641., en la redacción dada por el art. único de la Orden de 11 de mayo de 1988. Ref. BOE-A-1988-13686.
 
 > Se modifica por el art. único de la Orden de 5 de abril de 1974. Ref. BOE-A-1974-641.
 
