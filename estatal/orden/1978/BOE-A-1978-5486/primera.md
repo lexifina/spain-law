@@ -1,3 +1,5 @@
 ## Primera.
 
-Con objeto de adaptar el régimen actual de elaboración y comercialización de los vinos aromatizados y del bíter-soda a cuanto establece la presente disposición, la Dirección General de Industrias Agrarias dictará, a petición de las empresas interesadas, las normas convenientes, a fin de que dicha adaptación pueda efectuarse y quede finalizada antes del 31 de diciembre de 1979.
+(Derogada).
+
+> Se deroga por la disposición final 1 de la Orden de 23 de marzo de 1984. Ref. BOE-A-1984-7556.
