@@ -8,4 +8,4 @@ Los Inspectores adjuntos a los Jefes de las Unidades de Inspección desarrollar�
 
 3. Corresponderán a los Inspectores adjuntos al Inspector-Jefe las funciones de coordinación y las mencionadas en el apartado siete.1 de esta Resolución respecto de las Unidades de Inspección que el Inspector-Jefe designe al efecto, pudiendo también realizar directamente las actuaciones inspectoras propias de un Jefe de Unidad de Inspección.
 
-Los Inspectores adjuntos al Inspector Jefe, en ningún caso, desempeñarán las funciones a que se refiere el apartado doce de esta Resolución.
+> Se deroga el párrafo segundo del punto 3 por el apartado 1 de la Resolución de 24 de marzo de 1998. Ref. BOE-A-1998-7792.

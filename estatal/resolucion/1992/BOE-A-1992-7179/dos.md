@@ -108,6 +108,8 @@ El Equipo Técnico y de Valoraciones, en el que podrán integrarse los facultati
 
 El Equipo de Coordinación de Actuaciones Especiales tendrá a su cargo la comprobación de aquellos contribuyentes que, por presentar esquemas comunes de fraude, o hallarse comprendidos en el apartado Dos.2.2 de esta Resolución, corresponda su comprobación a la Oficina Nacional de Inspección.
 
+El Director del Departamento de Inspección Financiera y Tributaria determinará, por orden de servicio, los Jefes de Equipo de la Oficina Nacional de Inspección que deberán dirigir los de Fiscalidad Internacional, Técnico y de Valoraciones y de Coordinación de Actuaciones Especiales.
+
 Dos. 3.2 Dependiendo directamente del Jefe de la Oficina Nacional de Inspección, y con categoría de dependencia, se encuentra la Unidad Central de Gestión de Grandes Empresas, a cuyo frente se encontrará el Jefe de la Unidad Central de Gestión de Grandes Empresas.
 
 A dicha Unidad le corresponde el ejercicio de las funciones de gestión tributaria atribuidas a la Oficina Nacional de Inspección, teniendo en este ámbito cuantas funciones se atribuyen a las Dependencias de Gestión Tributaria por el artículo 34 de la Orden de 12 de agosto de 1985, por la que se reorganiza la Administración Territorial de la Hacienda Pública, normativa concordante y, en general, las propias del ámbito de gestión tributaria.
@@ -119,6 +121,8 @@ Asimismo, la Unidad Central de Gestión de Grandes Empresas, en funciones de apo
 Dos. 3.3 La oficina técnica, a cuyo frente estará un Inspector Jefe adjunto al Jefe de la Oficina Nacional de Inspección, tiene asignadas las funciones propias de las oficinas técnicas de los órganos o dependencias inspectoras y, en particular, el asesoramiento en todas aquellas cuestiones relativas a competencias que tiene atribuidas como propias la Oficina Nacional de Inspección.
 
 Dos. 4. Las competencias de gestión tributaria atribuidas a los Delegados Especiales y Delegados de la Agencia respecto a las personas o entidades adscritas a la Oficina Nacional de Inspección serán ejercidas por el Jefe de la Oficina Nacional de Inspección.
+
+> Se añade el párrafo final al punto 3.1 por el apartado 7 de la Resolución de 24 de marzo de 1998. Ref. BOE-A-1998-7792.
 
 > Se modifican los puntos 1, 2 y 3 por los apartados 4 a 7 de la Resolución de 17 de febrero de 1998. Ref. BOE-A-1998-5188.
 

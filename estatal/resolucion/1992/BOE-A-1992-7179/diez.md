@@ -13,3 +13,9 @@ c) Cuando se haya encomendado a un Inspector adjunto al Jefe de la Unidad o a un
 Con carácter excepcional, por vacante o ausencia del Jefe de Unidad o Subjefe a cargo de la misma. el Delegado especial de la Agencia podrá autorizar la ultimación de actuaciones firma de las actas y por otros Subinspectores en puestos de trabajo de nivel inferior.
 
 d) Por el Jefe del Servicio o Sección correspondiente, tratándose de las actuaciones a que se refiere el segundo párrafo del número 2 del apartado uno de esta Resolución.
+
+e) En los supuestos a que se refiere el apartado siete.3 de esta Resolución, el Subinspector que hubiera ultimado las actuaciones.
+
+f) Los Jefes y Subjefes de Unidades Provinciales de Inspección podrán delegar, de forma expresa y por escrito, la firma de las actas en Subinspectores destinados en su Unidad.
+
+> Se añaden las letras e) y f) al punto 2 por el apartado 6 de la Resolución de 24 de marzo de 1998. Ref. BOE-A-1998-7792.
