@@ -90,7 +90,7 @@ Notas:
 
 Las bocas de incendio equipadas (BIE) pueden ser de los tipos BIE de 45 mm y BIE de 25 mm.
 
-2. Las bocas de incendio equipadas deberán, antes de su fabricación o importación, ser aprobadas de acuerdo con lo dispuesto en el artículo 2 de este Reglamento, justificándose el cumplimiento de lo establecido en las normas UNE 23.402 y UNE 23.403.
+2. Las bocas de incendio equipadas deberán, antes de su fabricación o importación, ser aprobadas de acuerdo con lo dispuesto en el artículo 2 de este Reglamento, justificándose el cumplimiento de lo establecido en las normas UNE-EN 671-1 y UNE-EN 671-2.
 
 3. Las BIE deberán montarse sobre un soporte rígido de forma que la altura de su centro quede como máximo a 1,50 m sobre el nivel del suelo o a más altura si se trata de BIE de 25 mm, siempre que la boquilla y la válvula de apertura manual si existen, estén situadas a la altura citada.
 
@@ -116,13 +116,13 @@ La toma de fachada y las salidas en las plantas tendrán el centro de sus bocas 
 
 Las llaves serán de bola, con palanca de accionamiento incorporada.
 
-El sistema de columna seca se someterá, antes de su puesta en servicio, a una prueba de estanquidad y resistencia mecánica, sometiéndole a una presión estática de 1.470 kPa (15 kg/cm) durante dos horas, como mínimo, no debiendo aparecer fugas en ningún punto de la instalación.
+El sistema de columna seca se someterá, antes de su puesta en servicio, a una prueba de estanquidad y resistencia mecánica, sometiéndole a una presión estática de 1.470 kPa (15 kg/cm2) durante dos horas, como mínimo, no debiendo aparecer fugas en ningún punto de la instalación.
 
 Los racores antes de su fabricación o importación deberán ser aprobados de acuerdo con este Reglamento, ajustándose a lo establecido en la norma UNE 23.400.
 
 ## 9. Sistemas de extinción por rociadores automáticos de agua.
 
-Los sistemas de rociadores automáticos de agua, sus características y especificaciones, así como las condiciones de su instalación, se ajustarán a las normas UNE 23.590, UNE 23.591, UNE 23.592, UNE 23.593, UNE 23.594, UNE 23.596 y UNE 23.597.
+Los sistemas de rociadores automáticos de agua, sus características y especificaciones, así como las condiciones de su instalación, se ajustarán a las normas UNE 23.590 y UNE 23.595.
 
 ## 10. Sistemas de extinción por agua pulverizada.
 
@@ -155,5 +155,9 @@ Los mecanismos de disparo serán por medio de detectores de humo, elementos fusi
 La capacidad de los recipientes de gas a presión deberá ser suficiente para asegurar la extinción del incendio y las concentraciones de aplicación se definirán en función del riego, debiendo quedar justificados ambos requisitos.
 
 Estos sistemas sólo serán utilizables cuando quede garantizada la seguridad o la evacuación del personal. Además, el mecanismo de disparo incluirá un retardo en su acción y un sistema de prealarma de forma que permita la evacuación de dichos ocupantes antes de la descarga del agente extintor.
+
+> Se modifican los apartados 7 y 9 por los puntos 2 y 3 de la Orden de 16 de abril de 1998. Ref. BOE-A-1998-9961.
+
+> Véase el punto 1 de la Orden de 16 de abril de 1998 sobre la regulación del apartado 5.
 
 > Redactado el apartado 8 conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1994. Ref. BOE-A-1994-10418.
