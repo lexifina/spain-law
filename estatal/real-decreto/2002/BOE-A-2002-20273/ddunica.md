@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados, sin perjuicio de lo establecido en la disposición transitoria única, los Reales Decretos 510/1992, de 14 de mayo, por el que se regula el etiquetado de los productos del tabaco y se establecen determinadas limitaciones en aeronaves comerciales, y 1185/1994, de 3 de junio, sobre etiquetado de productos del tabaco distintos de los cigarrillos y por el que se prohíben determinados tabacos de uso oral y se actualiza el régimen sancionador en materia de tabaco; y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.

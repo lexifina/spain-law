@@ -1,0 +1,13 @@
+El consumo de tabaco representa el principal factor de riesgo de enfermedad y de mortalidad en los países desarrollados; por lo tanto, la regulación y control de su consumo es una prioridad de la salud pública.
+
+En el marco de las medidas desarrolladas por la Unión Europea, se han ido aprobando diferentes Directivas comunitarias en esta materia: la Directiva 89/622/CEE, de 13 de noviembre de 1989, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de etiquetado de los productos del tabaco; la Directiva 90/239/CEE, de 17 de mayo de 1990, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros respecto al contenido máximo de alquitrán de los cigarrillos, y la Directiva 92/41/CEE, de 15 de mayo de 1992, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de etiquetado de los productos del tabaco. Estas normas se encuentran recogidas en los Reales Decretos 192/1988, de 4 de marzo, sobre limitaciones en la venta y uso del tabaco para protección de la salud de la población; 510/1992, de 14 de mayo, por el que se regula el etiquetado de los productos del tabaco y se establecen determinadas limitaciones en aeronaves comerciales, y 1185/1994, de 3 de junio, sobre etiquetado de productos del tabaco distintos de los cigarrillos y por el que se prohíben determinados tabacos de uso oral y se actualiza el régimen sancionador en materia de tabaco.
+
+La última normativa en esta materia ha sido la Directiva 2001/37/CE, que modifica y amplía sustancialmente la regulación existente sobre los productos del tabaco.
+
+El objeto de este Real Decreto es la incorporación a nuestro ordenamiento jurídico de la Directiva 2001/37/CE del Parlamento Europeo y del Consejo, de 5 de junio de 2001, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de fabricación, presentación y venta de los productos del tabaco, y en su elaboración han sido oídas las entidades afectadas.
+
+El presente Real Decreto, que tiene el carácter de norma básica, se dicta al amparo de lo previsto en el artículo 149.1.16.ª de la Constitución Española y en desarrollo de los artículos 24, 25.2, 32 a 37, 40.5 y 40.6 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de octubre de 2002,
+
+DISPONGO:
