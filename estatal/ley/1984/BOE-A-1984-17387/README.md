@@ -79,6 +79,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional vigésimatercera](davigesimatercera.md)
 - [Disposición adicional vigésimacuarta](davigesimacuarta.md)
 - [Disposición adicional vigésimaquinta](davigesimaquinta.md)
+- [Disposición adicional vigésimasexta](davigesimasexta.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)
