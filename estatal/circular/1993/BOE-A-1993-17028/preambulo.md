@@ -1,0 +1,7 @@
+La defensa de los derechos e intereses de la Hacienda Pública exige que los diversos órganos implicados en su gestión actúen con la máxima coordinación en el ejercicio de sus competencias, tal y como, con carácter general, impone el artículo 18 de la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+En esa línea, la experiencia adquirida desde la entrada en funcionamiento de la Agencia Estatal de Administración Tributaria ha puesto de manifiesto la conveniencia de garantizar la coordinación y estimular la asistencia recíproca entre los órganos de dicha Agencia que tienen encomendada la función recaudatoria en vía de apremio y aquellos que, en el ámbito de la organización central o territorial del propio Ministerio de Economía y Hacienda, asumen las competencias en materia de Patrimonio del Estado.
+
+En particular, se hace patente esa necesidad de coordinación en materia de adjudicación de bienes al Estado en el curso del procedimiento de apremio, ya que el Reglamento General de Recaudación exige ponderar, en todo caso, el interés para el Estado de dichos bienes.
+
+Por ello, de acuerdo con lo establecido en los artículos 159 y 160 del Reglamento General de Recaudación y conforme a lo previsto en los artículos 18 y 83 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, hemos dispuesto:
