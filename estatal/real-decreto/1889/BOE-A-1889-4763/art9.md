@@ -18,6 +18,8 @@ En la adopción constituida por la competente autoridad extranjera, la Ley del a
 
 No será reconocida en España como adopción la constituida en el extranjero por adoptante español, si los efectos de aquélla no se corresponden con los previstos por la legislación española. Tampoco lo será, mientras la entidad pública competente no haya declarado la idoneidad del adoptante, si éste fuera español y estuviera domiciliado en España al tiempo de la adopción.
 
+La atribución por la ley extranjera de un derecho de revocación de la adopción no impedirá el reconocimiento de ésta si se renuncia a tal derecho en documento público o por comparecencia ante el encargado del Registro Civil.
+
 6. La tutela y las demás instituciones de protección del incapaz se regularán por la ley nacional de éste. Sin embargo, las medidas provisionales o urgentes de protección se regirán por la ley de su residencia habitual.
 
 Las formalidades de constitución de la tutela y demás instituciones de protección en que intervengan autoridades judiciales o administrativas españolas se sustanciarán, en todo caso, con arreglo a la ley española.
@@ -39,6 +41,8 @@ Prevalecerá en todo caso la nacionalidad española del que ostente además otra
 11. La ley personal correspondiente a las personas jurídicas es la determinada por su nacionalidad, y regirá en todo lo relativo a capacidad, constitución, representación, funcionamiento, transformación, disolución y extinción.
 
 En la fusión de sociedades de distinta nacionalidad se tendrán en cuenta las respectivas leyes personales.
+
+> Se añade un párrafo al apartado 5 por el art. único de la Ley 18/1999, de 18 de mayo. Ref. BOE-A-1999-11195.
 
 > Se modifican los apartados 4 y 5 por las disposiciones finales 1 y 2 de la Ley Orgánica 1/1996, de 15 de enero. Ref. BOE-A-1996-1069.
 
