@@ -1,0 +1,1 @@
+> La presente Ley, a excepción de su artículo 3 y disposición adicional 2, entra en vigor el día 1 de agosto de 1982, según establece su disposición final en la redacción dada por el art. único del Real Decreto-Ley 12/1979, de 3 de agosto. Ref. BOE-A-1979-20112
