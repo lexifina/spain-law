@@ -1,0 +1,7 @@
+Entre las previsiones de la Ley veinticinco/mil novecientos setenta de dos de diciembre, que aprobó el Estatuto de la Viña, del Vino y de los Alcoholes, se estableció en su artículo treinta y cuatro. Dos «Entre los aguardientes compuestos serán objeto de Reglamentación Especial los siguientes: Brandy, obtenido de destilados de vino, aguardientes u holandés de vino; ginebra, obtenido a partir de la destilación de macerados de enebro; anís, obtenido a partir de la destilación de macerados de anís; whisky, procedentes de aguardientes o destilados de cereal, y ron, obtenido a partir de aguardiente de caña. Podrán ser igualmente objeto de Reglamentación Especial de las demás bebidas comprendidas en el presente artículo».
+
+Igualmente es necesario adaptar el artículo del capítulo treinta del Código Alimentario Español que afecta a este tipo de productos, de acuerdo con la disposición final sexta del Decreto ochocientos treinta y cinco/mil novecientos setenta y dos, de veintitrés de marzo.
+
+En su virtud, a propuesta de los Ministros de Industria y Energía, de Agricultura, Pesca y Alimentación de Sanidad y Consumo, de Economía y Comercio, y de Hacienda, con el informe favorable de la Comisión Interministerial para la Ordenación Alimentaria, de acuerdo con el Consejo de Estado y, previa deliberación del Consejo de Ministros en su reunión del día cinco de marzo de mil novecientos ochenta y dos,
+
+DISPONGO:

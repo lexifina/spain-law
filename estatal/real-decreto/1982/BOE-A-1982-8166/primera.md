@@ -1,0 +1,5 @@
+## Disposición transitoria primera.
+
+Durante el plazo de un año, contado a partir de la publicación de la adjunta Reglamentación en el «Boletín Oficial del Estado», se permite la comercialización del anís en envases de hasta veinte litros, siendo de aplicación para ellos lo dispuesto en el título tercero de la citada Reglamentación en cuanto les afecte, permitiéndose, en consecuencia, el trasvase a recipientes adecuados con las debidas garantía de procedencia del producto y por la mención expresa, en todo caso, de «Anís a granel».
+
+Las Empresas que no hubieran iniciado las transformaciones que les son precisas, dentro del plazo a que se refiere el párrafo anterior, se considerarán infractoras de esta Reglamentación y, en consecuencia, caducadas en sus derechos industriales. Las Empresas que hubieran iniciado su modificación dentro de dicho plazo, a satisfacción de la Dirección General competente del Ministerio de Industria y Energía, podrán concluir dicha modificación a lo largo de un plazo que en ningún caso podrá exceder de cinco años, contados desde la publicación de la adjunta Reglamentación.
