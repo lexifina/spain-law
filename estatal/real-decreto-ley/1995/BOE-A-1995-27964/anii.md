@@ -25,5 +25,7 @@
 | Servicio Nacional de Productos Agrarios (SENPA) | 14.500.000.000 |
 | Fondo de Ordenación y Regulación de Producciones y Precios Agrarios (FORPPA) | 15.000.000.000 |
 | Ministerio de la Presidencia |  |
-| Ente Público Radio Televisión Española | 90.693.000.000 |
+| Ente Público Radio Televisión Española | 125.193.859.000 |
 | (Esta cifra se entenderá como incremento neto máximo de la posición deudora a corto y largo plazo, entre el 1 de enero y el 31 de diciembre de 1996, una vez deducida la asunción de deuda por el Estado prevista para dicho ejercicio, por lo que no afectará a las operaciones de tesorería que se concierten y amorticen en el año, ni se computará en el mismo la refinanciación de la deuda contraída con anterioridad a 31 de diciembre de 1995). |  |
+
+> Se modifica por el art. 3 del Real Decreto-ley 15/1996, de 18 de noviembre. Ref. BOE-A-1996-25654.
