@@ -47,6 +47,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo veintinueve](aveintinueve.md)
 - [Artículo treinta](atreinta.md)
 - [Artículo treinta y uno](atreintayuno.md)
+- [Disposición adicional](da.md)
 - [Disposición transitoria primera](primera.md)
 - [Disposición transitoria segunda](segunda.md)
 - [Disposición transitoria tercera](tercera.md)
