@@ -6,6 +6,8 @@ A estos efectos, al presentar el parte de alta, ajustado a modelo oficial, se ac
 
 2. La disolución de las cooperativas, por cualquiera de las causas señaladas en la Leyes sobre cooperativas, deberá notificarse igualmente a su respectiva Delegación o Administración de Hacienda, dentro de los treinta días siguientes a la fecha en que se hubiese tomado el acuerdo o a la de la notificación de la resolución judicial o administrativa, en su caso.
 
-3. El incumplimiento de las obligaciones contenidas en los dos apartados anteriores tiene la consideración de infracción tributaria simple sancionable de acuerdo con lo dispuesto en la Ley General Tributaria.
+3. El incumplimiento de las obligaciones contenidas en los dos apartados anteriores tiene la consideración de infracción tributaria leve y se sancionará de acuerdo con lo dispuesto en la Ley General Tributaria para las declaraciones censales.
 
 4. Los encargados del Registro de Cooperativas, tanto si dependen de la Administración del Estado como de las Comunidades Autónomas, remitirán trimestralmente a la Delegación de Hacienda correspondiente una relación de las cooperativas cuya constitución o disolución hayan inscrito en el trimestre anterior.
+
+> Se modifica el apartado 3 por la disposición final 7 de la Ley 58/2003, de 17 de diciembre. Ref. BOE-A-2003-23186
