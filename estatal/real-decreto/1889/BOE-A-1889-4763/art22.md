@@ -2,12 +2,14 @@
 
 Perderán la nacionalidad española los que hubieran adquirido voluntariamente otra nacionalidad.
 
-Para que la pérdida produzca efectos se requiere tener veintiún años cumplidos o dieciocho y hallarse emancipado; haber residido fuera de España al menos durante los tres años inmediatamente anteriores y, en cuanto a los varones, no estar sujetos al servicio militar en periodo activo, salvo que medie dispensa del Gobierno. La mujer casada no podrá por sí sola adquirir voluntariamente otra nacionalidad, a menos que esté separada legalmente.
+Para que la pérdida produzca efectos, se requiere tener veintiún años cumplidos, o dieciocho y hallarse emancipado; haber residido fuera de España, al menos, durante los tres años inmediatamente anteriores, y, en cuanto a los varones, no estar sujetos al servicio militar en período activo, salvo que medie dispensa del Gobierno.
 
-No podrá perderse la nacionalidad española por adquisición voluntaria de otra si España se hallare en guerra.
+No podrá perderse la nacionalidad española por adquisición voluntaria de otra, incluso por razón de matrimonio, si España se hallare en guerra.
 
-No obstante lo dispuesto en el párrafo primero, la adquisición de la nacionalidad de un país iberoamericano o de Filipinas no producirá pérdida de la nacionalidad española cuando así se haya convenido expresamente con el Estado cuya nacionalidad se adquiera.
+No obstante lo dispuesto en el párrafo primero, la adquisición de la nacionalidad de un país iberoamericano o de Filipinas no producirá pérdida de la nacionalidad española cuando así se haya convenido expresamente con el Estado cuya nacionalidad se adquiere.
 
-Correlativamente y siempre que mediare convenio que de modo expreso así lo establezca, la adquisición de la nacionalidad española no implicará la pérdida de la de origen, cuando esta última fuera la de un país iberoamericano o de Filipinas.
+Correlativamente, y siempre que mediare convenio que de modo expreso así lo establezca, la adquisición de la nacionalidad española no implicará la pérdida de la de origen, cuando esta última fuera la de un país iberoamericano o de Filipinas.
+
+> Se modifica por el art. 2 de la Ley 14/1975, de 2 de mayo. Ref. BOE-A-1975-9245.
 
 > Se modifica por el art. 1 de la Ley de 15 de julio de 1954. Ref. BOE-A-1954-10882.

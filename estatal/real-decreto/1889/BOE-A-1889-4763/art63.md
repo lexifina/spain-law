@@ -1,7 +1,5 @@
 ## Artículo 63.
 
-Podrá la mujer sin licencia de su marido:
+Ninguno de los cónyuges puede atribuirse la representación del otro sin que le hubiera sido conferida voluntariamente.
 
-1.º Otorgar testamento.
-
-2.º Ejercer los derechos y cumplir los deberes que le correspondan respecto a los hijos legítimos o naturales reconocidos que hubiese tenido de otro, y respecto a los bienes de los mismos.
+> Se modifica por el art. 2 de la Ley 14/1975, de 2 de mayo. Ref. BOE-A-1975-9245.

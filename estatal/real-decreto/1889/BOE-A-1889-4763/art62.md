@@ -1,3 +1,7 @@
 ## Artículo 62.
 
-Son nulos los actos ejecutados por la mujer contra lo dispuesto en los anteriores artículos, salvo cuando se trate de cosas que por su naturaleza estén destinadas al consumo ordinario de la familia, en cuyo caso las compras hechas por la mujer serán válidas. Las compras de joyas, muebles y objetos preciosos, hechas sin licencia del marido, sólo se convalidarán cuando éste hubiese consentido a su mujer el uso y disfrute de tales objetos.
+El matrimonio no restringe la capacidad de obrar de ninguno de los cónyuges.
+
+El casado menor de edad necesitará para comparecer en juicio, según los casos, el consentimiento de las personas mencionados en los artículos 80 y 81.
+
+> Se modifica por el art. 2 de la Ley 14/1975, de 2 de mayo. Ref. BOE-A-1975-9245.

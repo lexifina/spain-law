@@ -1,7 +1,5 @@
 ## Artículo 59.
 
-El marido es el administrador de los bienes de la sociedad conyugal, salvo estipulación en contrario y lo dispuesto en el artículo 1.384.
+El marido es el administrador de los bienes de la sociedad conyugal, salvo estipulación en contrario.
 
-Si fuere menor de dieciocho años, no podrá administrar sin el consentimiento de su padre; en defecto de éste, sin el de su madre, y a falta de ambos, sin el de su tutor. Tampoco podrá comparecer en juicio sin la asistencia de dichas personas.
-
-En ningún caso, mientras no llegue a la mayor edad, podrá el marido, sin el consentimiento de las personas mencionadas en el párrafo anterior, tomar dinero a préstamo, gravar ni enajenar los bienes raíces.
+> Se modifica por el art. 2 de la Ley 14/1975, de 2 de mayo. Ref. BOE-A-1975-9245.

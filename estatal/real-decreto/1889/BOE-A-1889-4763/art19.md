@@ -2,10 +2,18 @@
 
 También podrá adquirirse la nacionalidad española mediante la obtención de carta de naturaleza, otorgable discrecionalmente por el Jefe del Estado, cuando en el peticionario concurran circunstancias excepcionales, o por la residencia en territorio español durante el tiempo establecido en el artículo siguiente.
 
-En uno y otro caso, el que pretenda adquirir la nacionalidad española habrá de tener veintiún años cumplidos o dieciocho y hallarse emancipado.
+En uno y otro caso, el que pretenda adquirir la nacionalidad española habrá de tener veintiún años cumplidos, o dieciocho y hallarse emancipado.
 
-La nacionalidad así obtenida por el marido se extiende a la mujer no separada legalmente y a los hijos que se encuentren bajo la patria potestad.
+La nacionalidad así obtenida se extiende a los hijos que se encuentren bajo la patria potestad.
 
-Son requisitos comunes a ambas formas de adquirir la nacionalidad: Primero, la renuncia previa a la nacionalidad anterior; segundo, prestar juramento de fidelidad al Jefe del Estado y de obediencia a las leyes; tercero, inscribirse como español en el Registro del Estado Civil.
+Son requisitos comunes a ambas formas de adquirir la nacionalidad:
+
+1.º La renuncia previa a la nacionalidad anterior,
+
+2.º Prestar juramento de fidelidad al Jefe del Estado y de obediencia a las Leyes.
+
+3.º Inscribirse como español en el Registro del Estado Civil.
+
+> Se modifica por el art. 2 de la Ley 14/1975, de 2 de mayo. Ref. BOE-A-1975-9245.
 
 > Se modifica por el art. 1 de la Ley de 15 de julio de 1954. Ref. BOE-A-1954-10882.
