@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Efectos de la renuncia al régimen de estimación objetiva en el Impuesto sobre la Renta de las Personas Físicas y al régimen simplificado en el Impuesto sobre el Valor Añadido en relación con el régimen especial de la agricultura de este último impuesto y del Impuesto General Indirecto Canario.
+
+Para el año 1998, la renuncia al régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas o al régimen simplificado del Impuesto sobre el Valor Añadido no supondrá la renuncia ni la exclusión al régimen especial de la agricultura, ganadería y pesca del Impuesto sobre el Valor Añadido ni la renuncia o exclusión al régimen especial de la agricultura y ganadería del Impuesto General Indirecto Canario.

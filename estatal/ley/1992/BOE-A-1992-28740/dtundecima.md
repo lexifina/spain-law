@@ -2,6 +2,10 @@
 
 (Derogada)
 
+> Se deroga por la disposición derogatoria única de la Ley 9/1998, de 21 de abril. Ref. BOE-A-1998-9477.
+
+> Téngase en cuenta que el art. ya estaba derogado por la Ley 9/1998, de 21 de abril
+
 > Se deroga por la disposición derogatoria única del Real Decreto-Ley 14/1997, de 29 de agosto. Ref. BOE-A-1997-19125
 
 > Se modifica por la disposición adicional 19 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116
