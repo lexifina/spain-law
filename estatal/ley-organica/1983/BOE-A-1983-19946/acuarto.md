@@ -4,6 +4,8 @@
 
 2. Del buen orden de las reuniones y manifestaciones serán responsables sus organizadores, quienes deberán adoptar las medidas para el adecuado desarrollo de las mismas.
 
-3. Las personas naturales o jurídicas que figuren como organizadoras o promotoras de reuniones o manifestaciones, sólo responderán civilmente de los daños que los participantes causen a terceros cuando hayan omitido la diligencia razonablemente exigible para prevenir el daño causado.
+3. Los participantes en reuniones o manifestaciones, que causen un daño a terceros, responderán directamente de él. Subsidiariamente, las personas naturales o jurídicas organizadoras o promotoras de reuniones o manifestaciones responderán de los daños que los participantes causen a terceros, sin perjuicio de que puedan repetir contra aquéllos, a menos que hayan puesto todos los medios razonables a su alcance para evitarlos.
 
 4. La asistencia de militares de uniforme, o haciendo uso de su condición militar, a reuniones o manifestaciones públicas se regirá por su legislación específica.
+
+> Se modifica el apartado 3 por la disposición adicional 3 de la Ley Orgánica 4/1997, de 4 de agosto. Ref. BOE-A-1997-17574
