@@ -4,9 +4,9 @@
 
 Las indemnizaciones a percibir por los asegurados o beneficiarios del Seguro Obligatorio de Viajeros se valorarán y abonarán de la siguiente forma:
 
-1. Fallecimiento.–El valor de indemnización en caso de muerte será de 6.000.000 de pesetas.
+1. Fallecimiento.- El valor de indemnización en caso de muerte será de 36.060,73 euros.
 
-2. Lesiones corporales.–Las categorías, dentro de las cuales se ordenarán, son las siguientes:
+2. Lesiones corporales.- Las categorías, dentro de las cuales se ordenarán, son las siguientes:
 
 Primera categoría
 
@@ -24,7 +24,7 @@ Pérdida completa de la visión o reducción de la agudeza visual bilateral infe
 
 Síndrome demencial permanente.
 
-Indemnización: 7.000.000 de pesetas.
+Indemnización: 42.070,85 euros.
 
 Segunda categoría
 
@@ -50,7 +50,7 @@ Paraplejía de miembros inferiores. Tetraparejía.
 
 Pérdida de maxilar con comunicación buconasal.
 
-Indemnización: 5.000.000 de pesetas.
+Indemnización: 30.050,61 euros.
 
 Tercera categoría
 
@@ -80,7 +80,7 @@ Pseudoartrosis de cadera.
 
 Fractura de bóveda craneal y de raquis, con afectación medular importante.
 
-Indemnización: 4.500.000 pesetas.
+Indemnización: 27.045,54 euros.
 
 Cuarta categoría
 
@@ -110,7 +110,7 @@ Polineuritis periférica de origen traumático con trastornos vasomotores, tróf
 
 Lesiones traumáticas que afecten a plexos del sistema nervioso periférico con afectación vascular concomitante.
 
-Indemnización: 4.000.000 de pesetas.
+Indemnización: 24.040,48 euros.
 
 Quinta categoría
 
@@ -144,7 +144,7 @@ Anquilosis rotuliana bilateral.
 
 Parálisis completa y permanente de un miembro inferior.
 
-Indemnización: 3.500.000 pesetas.
+Indemnización: 21.035,42 euros.
 
 Sexta categoría
 
@@ -188,7 +188,7 @@ Estasis venoso bilateral con alteraciones tróficas importantes.
 
 Polineuritis periférica de origen traumático con trastornos vasomotores tróficos y reflejos.
 
-Indemnización: 3.000.000 de pesetas.
+Indemnización: 18.030,36 euros.
 
 Séptima categoría
 
@@ -218,7 +218,7 @@ Síndrome posgastrectomía de origen traumático.
 
 Pérdida de esfínter anal con prolapso.
 
-Indemnización: 2.500.000 pesetas.
+Indemnización: 15.025,30 euros.
 
 Octava categoría
 
@@ -260,7 +260,7 @@ Insuficiencia vascular periférica con claudicación intermitente en menos de ci
 
 Edema venoso de origen traumático con ulceración y cianosis distal.
 
-Indemnización: 2.000.000 de pesetas.
+Indemnización: 12.020,24 euros.
 
 Novena categoría
 
@@ -296,7 +296,7 @@ Atrofia total de musculatura de miembro inferior.
 
 Pseudoartrosis rotuliana.
 
-Indemnización: 1.500.000 pesetas.
+Indemnización: 9.015,18 euros.
 
 Décima categoría
 
@@ -334,7 +334,7 @@ Deformación escafoidea traumática. Pie zambo.
 
 Limitación de los movimientos de cadera por dismetría o lesión traumática de miembro colateral.
 
-Indemnización: 1.000.000 de pesetas.
+Indemnización: 6.010,12 euros.
 
 Undécima categoría
 
@@ -368,7 +368,7 @@ Atrofia total de la musculatura anterior del miembro inferior.
 
 Prolapso de pared vaginal de origen traumático.
 
-Indemnización: 750.000 pesetas.
+Indemnización: 4.507,59 euros.
 
 Duodécima categoría
 
@@ -402,7 +402,7 @@ Estenosis uretral con alteración funcional.
 
 Cicatriz hipertrófica o queloidea superior a 5 centímetros cuadrados o 12 centímetros de trayectoria lineal.
 
-Indemnización: 600.000 pesetas.
+Indemnización: 3.606,07 euros.
 
 Decimotercera categoría
 
@@ -436,29 +436,29 @@ Pie plano traumático. Tarsalgia crónica por exostosis calcárea.
 
 Hernia inguinal unilateral, por acción directa del traumatismo.
 
-Indemnización: 450.000 pesetas.
+Indemnización: 2.704,55 euros.
 
 Decimocuarta categoría
 
 Fracturas desviadas o conminutas, no epifisiarias del:
 
-Húmero.
+- Húmero.
 
-Cúbito y radio.
+- Cúbito y radio.
 
-Fémur.
+- Fémur.
 
-Tibia y peroné.
+- Tibia y peroné.
 
-Medio carpo/tarso.
+- Medio carpo/tarso.
 
 Fractura, con luxación concomitante de la:
 
-Articulación húmero-cubital.
+- Articulación húmero-cubital.
 
-Articulación rotuliana.
+- Articulación rotuliana.
 
-Articulación tibio-tarsiana.
+- Articulación tibio-tarsiana.
 
 Pérdida de más de ocho piezas dentarias.
 
@@ -474,7 +474,7 @@ Alteraciones tróficas de órganos o anexos de carácter tórpido.
 
 Procesos tromboflebíticos de evolución crónica por acción directa traumática. Lesión meniscal de carácter crónico.
 
-Indemnización: 200.000 pesetas.
+Indemnización: 1.202,02 euros.
 
 3. Normas complementarias.
 
@@ -491,3 +491,5 @@ Si del parto o aborto, consecuencia del accidente, resultara muerta la madre, se
 4.ª La muerte sobrevenida dentro de los dieciocho meses y como consecuencia del mismo hecho que determinó la lesión corporal dará lugar al complemento de indemnización.
 
 5.ª Asimismo, serán compatibles las indemnizaciones resultantes por varias categorías, siempre que no superen el límite que se fija para la primera.
+
+> Se convierten a euros las cuantías contempladas por el anexo de la Resolución de 28 de septiembre de 2001. Ref. BOE-A-2001-19601
