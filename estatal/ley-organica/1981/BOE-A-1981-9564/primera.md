@@ -1,17 +1,47 @@
-## Primera.
+## Disposición adicional primera.
 
-Uno. Se cede a la Comunidad Autónoma, en los términos previstos en el párrafo tres de esta disposición, el rendimiento de los siguientes tributos:
+1. Se cede a la Comunidad Autónoma de Galicia el rendimiento de los siguientes tributos:
 
-a) Impuesto sobre el Patrimonio Neto.
+a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial, con el límite del 33 por 100.
 
-b) Impuesto sobre Transmisiones Patrimoniales.
+b) Impuesto sobre el Patrimonio.
 
 c) Impuesto sobre Sucesiones y Donaciones.
 
-d) Impuesto sobre el Lujo que se recaude en destino.
+d) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
 
-La eventual supresión o modificación de alguno de estos impuestos implicará la extinción o modificación de la cesión.
+e) Los Tributos sobre el Juego.
 
-Dos. El contenido de esta disposición se podrá modificar mediante acuerdo del Gobierno con la Comunidad Autónoma, que será tramitado por el Gobierno como proyecto de ley. A estos efectos, la modificación de la presente disposición no se considerará modificación del Estatuto.
+f) El Impuesto sobre el Valor Añadido, con carácter parcial, con el límite del 35 por 100.
 
-Tres. El alcance y condiciones de la cesión se establecerán por la Comisión Mixta a que se refiere el apartado uno de la disposición transitoria cuarta, que, en todo caso, los referirá a rendimientos en Galicia. El Gobierno tramitará el acuerdo de la Comisión como proyecto de ley, o si concurriesen razones de urgencia, como Decreto-ley, en el plazo de seis meses a partir de la constitución de la primera Junta de Galicia.
+g) El Impuesto Especial sobre la Cerveza, con carácter parcial, con el límite del 40 por 100.
+
+h) El Impuesto Especial sobre el Vino y Bebidas Fermentadas, con carácter parcial, con el límite del 40 por 100.
+
+i) El Impuesto Especial sobre Productos Intermedios, con carácter parcial, con el límite del 40 por 100.
+
+j) El Impuesto Especial sobre el Alcohol y Bebidas Derivadas, con carácter parcial, con el límite del 40 por 100.
+
+k) El Impuesto Especial sobre Hidrocarburos, con carácter parcial, con el límite del 40 por 100.
+
+l) El Impuesto Especial sobre las Labores del Tabaco, con carácter parcial, con el límite del 40 por 100.
+
+m) El Impuesto Especial sobre la Electricidad.
+
+n) El Impuesto Especial sobre Determinados Medios de Transporte.
+
+ñ) El Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
+
+La eventual supresión o modificación por el Estado de alguno de los tributos antes señalados implicará la extinción o modificación de la cesión.
+
+2. El contenido de esta disposición se podrá modificar mediante acuerdo del Gobierno con la Comunidad Autónoma, que será tramitado por el Gobierno como proyecto de ley. A estos efectos, la modificación de la presente disposición no se considerará modificación del Estatuto.
+
+3. El alcance y condiciones de la cesión se establecerán por la Comisión Mixta a que se refiere el apartado uno de la disposición transitoria cuarta, que, en todo caso, los referirá a rendimientos en Galicia. El Gobierno tramitará el acuerdo de la Comisión como proyecto de ley, o si concurriesen razones de urgencia, como Decreto-ley, en el plazo de seis meses a partir de la constitución de la primera Junta de Galicia.
+
+> Se modifica el apartado 1 por el art. 1 de la Ley 18/2002, de 1 de julio. Ref. BOE-A-2002-12997
+
+> Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única de la citada norma.
+
+> Se modifica el apartado 1 por el art. 1 de la Ley 32/1997, de 4 de agosto. Ref. BOE-A-1997-17582
+
+> Esta modificación surte efectos desde el 1 de enero de 1997, según establece la disposición final única de la citada norma.
