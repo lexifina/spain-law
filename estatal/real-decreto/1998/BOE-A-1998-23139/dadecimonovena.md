@@ -1,0 +1,5 @@
+## Disposición adicional decimonovena.
+
+En las normas procedimentales, a las que se refiere el artículo 5 de este Real Decreto, para la provisión de puestos vacantes mediante concurso de traslados de ámbito nacional por funcionarios pertenecientes a los Cuerpos de Inspectores al Servicio de la Administración Educativa y de Inspectores de Educación se determinarán los requisitos de especialización que, en su caso, puedan establecer las Administraciones educativas para cada uno de los puestos convocados en su ámbito territorial, de acuerdo con la organización y el funcionamiento de la Inspección de Educación en las correspondientes Comunidades Autónomas y en el ámbito de gestión del Ministerio de Educación y Cultura.
+
+En todo caso, los Inspectores que obtengan un puesto a través de los concursos de traslados de ámbito nacional desempeñarán las funciones de inspección, de conformidad con las normas de organización y funcionamiento establecidas por la Administración educativa en la que obtengan su destino.
