@@ -1,0 +1,3 @@
+## Artículo 5.
+
+La Organización Iberoamericana de Juventud gozará de la capacidad jurídica que sea necesaria para el ejercicio de sus funciones y la realización de sus fines.
