@@ -2,43 +2,51 @@
 
 1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_006.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_007.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_008.png)
 
 2. Tractores agrícolas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_012.png)
 
 3. Vehículos de 2 ó 3 ruedas y cuadriciclos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_015.png)
 
 4. Varios
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_016.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_017.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_016.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_018.png)
+
+> Se modifica por la Orden de 14 de junio de 1999. Ref. BOE-A-1999-13897.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 162, de 8 de julio de 1999. Ref. BOE-A-1999-15034.
 
 > Se modifica por la Orden de 17 de febrero de 1999. Ref. BOE-A-1999-4704.
 

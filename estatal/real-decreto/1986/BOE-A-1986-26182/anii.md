@@ -1,14 +1,18 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_017.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_019.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_020.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_021.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/49/04704_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/162/15034_023.png)
+
+> Se modifica por la Orden de 14 de junio de 1999. Ref. BOE-A-1999-13897.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 162, de 8 de julio de 1999. Ref. BOE-A-1999-15034.
 
 > Se modifica por la Orden de 17 de febrero de 1999. Ref. BOE-A-1999-4704.
 
