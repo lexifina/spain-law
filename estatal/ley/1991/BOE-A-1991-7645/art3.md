@@ -1,0 +1,7 @@
+## Artículo 3. Hecho imponible.
+
+1. Constituye el hecho imponible de este Arbitrio, la producción o elaboración con carácter habitual de bienes muebles corporales, incluso aunque se efectúen mediante ejecuciones de obra, realizada por empresarios en el desarrollo de su actividad empresarial, así como la importación de dichos bienes en el ámbito territorial de las ciudades de Ceuta y Melilla.
+
+2. A los efectos de este Arbitrio se considerarán incluidas entre las actividades de producción las extractivas, agrícolas, ganaderas, forestales, pesqueras, industriales y otras análogas. Asimismo, se considerarán incluidas las ejecuciones de obra que tengan por objeto la construcción o ensamblaje de bienes muebles corporales por el empresario, previo encargo del dueño de la obra.
+
+3. A los efectos de este Arbitrio, no se consideraran operaciones de producción o elaboración, las destinadas a asegurar la conservación o presentación comercial de los bienes, consideradas como manipulaciones usuales en la legislación aduanera.
