@@ -2,45 +2,51 @@
 
 ## Especies incluidas en el ámbito de aplicación del Reglamento
 
-| Acelga | Beta vulgaris L. var. cycla (L.) Ulrich. |
+| Acelga | Beta vulgaris L. var. vulgaris. |
 | --- | --- |
-| Achicoria | Cichorium Intybus L. var. sativum Lam. |
-| Alcachofa | Cynara scolymus L. |
+| Achicoria | Cichorium lntvbus L. var. sativum Lam. |
+| Alcachofa | Cynara scolyrnus L. |
 | Apio | Apium graveolens L. |
-| Berenjena | Solanum Melongena L. |
+| Berenjena | Salanum melonggena L. |
 | Borraja | Borrago officinalis L. |
-| Bróculi | Brassica oleracea L. convar. botrytis (L.) Alef ver, itálica Plenck. |
+| Bróculi | Brassica olerácea L. convar. botrytis (L) Alef. var. cymosa Dush. |
 | Calabaza | Cucurbita máxima Dush. |
 | Calabacín | Cucurbita pepo L. |
 | Cardo | Cynara cardunculus L. |
 | Cebolla | Allium cepa L. |
-| Chirivia | Pastinaca sativa L. |
-| Col de Bruselas | Brassica Oleracea L. var. bullata subvar. gemmifera DC. |
-| Col de Milán | Brassica oleracea L. var. bullata DC. et var. subadua L. |
-| Coliflor | Brassica oleracea L. convar. botrytis (L) Alef. var. botrytis. |
-| Colirrábano | Brassica oleracea L. var. gonlodes L. |
-| Col rizada | Brassica oleracea L. var. acephala DC. sub-var. laciniata L. |
-| Endivia | Cichorium intybus L. var. foliorum Bish. |
+| Chirivía | Pastinaca sativa L. |
+| Col de Bruselas | Brassica olerácea L. convar. olerácea var. gemmifera D. C. |
+| Col de Milán | Brassica olerácea L. convar. capitata (L.) Alef. var. sabanda L. |
+| Coliflor | Brassica olerácea L. convar. botrytis (L.) AIef. var. botrytis L. |
+| Colinabo | Brassica napus L. var. napobrassica (L.) Reich. |
+| Colirrábano | Brassica olerácea L. convar. acephala (DC) Alef. var. gongylodes. |
+| Col repollo chino | Brassica pekinensis (Lour) Rupr. |
+| Col forrajera o berza . | Brassica olerácea L. convar. acephala (DC.) Alef. var. sabellica L. |
+| Endivia | Cichorium intybus L. (partim). |
 | Escarola | Cichorium endivia L. |
-| Espárrago | Asparagus ollicinalis L. |
-| Espinaca | Spinacia oleracea L. |
-| Guisante | Piscum sativum L. (partin). |
-| Habas | Vicia faba L (partim . |
-| Hinojo | Foeniculum vulgare P. Mill. |
-| Judías | Phaseolus vulgaris L. |
-| Judías escarlata | Phaseolus coccineus L. |
+| Espárrago | Asparagus oflicinalis L. |
+| Espinaca | Spinacea olerácea L. |
+| Guisante | Pisum sativum L. (partim). |
+| Habas | Vicia faba L. (partim). |
+| Hinojo | Foeniculum vulgare Miller. |
+| Judía | Phaseolus vulgaris L. |
+| Judía escarlata | Phaseolus coccineus L. |
 | Lechuga | Lactuca sativa L. |
-| Lombarda | Brassica oleracea L. var. capitata L.f.rubra (L.) Thell. |
-| Melón | Cucumis malo L. |
-| Nabo | Brassica rapa L var. rapa (L.) Thell. |
-| Pepino | Cucumis sativus L. |
-| Perejil | Petroselinum crispun (Mill) Nym, ex A.W. Hill. |
-| Pimiento | Capsicum muum L. |
+| Lombarda | Brassica olerácea L. convar. capitata (L.) Alef. var. rubra DC. |
+| Melón | Cucumis melo L. |
+| Nabo | Brassica rapa L. var. rapa. |
+| Pepino | Cucumis satívus L. |
+| Perejil | Petroselinum crispum (Miller) Nyman ex. A. W. |
+| Perifollo | Anthriscus cerefolium (L.) Hoffm. |
+| Pimiento | Capsium annuum L. |
 | Puerro | Allium porrum L. |
-| Rábano y rabanito | Raphanus sativus L. |
-| Remolacha de mesa | Beta vulgaris L. var. esculeta L. |
-| Repollo | Brassica oleracea L. var. capitata L.f. alba DC. |
-| Salsifinegro o escorzonera | Scorzonera hispánica L. |
-| Sandía | Citrullus lanatus (Thunb.) Matsum. et Nakai. |
-| Tomate | Lycopersicon lycopersicum (L.) Karst ex Farwell. |
+| Rábano y rabanito | Raphanus sativus L.. |
+| Remolacha de mesa | Beta vulgaris L. var. conditiva .Alef. |
+| Repollo | Brassica olerácea L. convar. capitata (L.) Alef. var, alba DC. |
+| Salsifi blanco | Tragopogon porrifolium L. |
+| Salsifinego o escorzonera | Scorzonara hispánica L. |
+| Sandía | Citrullus lanatus (Thunb.) Matsum. eo Nakai. |
+| Tomate | Lycopersicon Iycopersicum (l..) Karsten ex Farw. |
 | Zanahoria | Daucus carota L. |
+
+> Se modifica por el apartado 1 de la Orden de 19 de septiembre de 1988. Ref. BOE-A-1988-24168.
