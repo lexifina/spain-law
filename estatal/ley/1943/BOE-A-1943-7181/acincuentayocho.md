@@ -2,11 +2,13 @@
 
 El ingreso en el Cuerpo de Catedráticos numerario de Facultad de las Universidades se hará mediante oposición, cuyo procedimiento será objeto de un Reglamento, de acuerdo con los siguientes principios:
 
-a) Las Cátedras vacantes serán provistas alternativamente por oposición directa y por concurso de traslado, entre Catedráticos numerarios de la misma asignatura.
+a) La titularidad de una cátedra universitaria únicamente podrá obtenerse mediante oposición directa y libre o en virtud de concurso de traslado.
 
-La convocatoria a oposición será a Cátedra o Cátedras iguales y a Universidad determinada.
+Vacante una cátedra, el Ministerio lo hará público en el “Boletín Oficial del Estado”. La Facultad, dentro de los treinta días siguientes a haberse anunciado la vacante, propondrá al Ministerio, a través de la Junta de Gobierno y del Rectorado y con el preceptivo informe de éste, la celebración del concurso o la convocatoria de oposición directa. El Ministerio, si lo estima conveniente, podrá oír al Consejo de Rectores para decidir sobre la Propuesta.
 
-Cuando la provisión de una Cátedra haya correspondido a turno de concurso, será éste resuelto por el Ministerio de Educación Nacional, previa propuesta de la Universidad donde radique la vacante y después de la que formule a su vez el Consejo Nacional de Educación. La Universidad, estudiado el expediente del concurso, podrá proponer la no provisión. Para adoptar este acuerdo, el Rector habrá de oír a la Junta de Facultad respectiva y a la de Gobierno. En los concursos será siempre mérito preferente el haber desempeñado el candidato con asiduidad la Cátedra de que es propietario en la correspondiente Universidad.
+Convocado el concurso de traslado podrán tomar parte en él los catedráticos numerarios de asignatura igual a la vacante; la Facultad, en sesión expresamente convocada al efecto, apreciará los méritos de los aspirantes, previo su estudio por una ponencia que los compare y valore, razonadamente. El candidato propuesto sólo podrá, ser nombrado si reúne las dos terceras partes de votos favorables de los titulares integrantes de la Facultad. El expediente, informado también por el Rectorado, se pasará a dictamen del Consejo Nacional de Educación, aunque sólo hubiera un concursante.
+
+Cuando celebrado el concurso quedare desierto, convocará la oposición, que será siempre a cátedra o cátedras iguales y a Universidad determinada.
 
 b) La oposición se realizará siempre en Madrid, en turno único y ante Tribunal nombrado por el Ministerio de Educación Nacional y constituido por cinco miembros, de los cuales tres, como mínimo, han de ser Catedráticos numerarios de la misma disciplina o análoga; uno podrá ser designado entre personas especializadas en la materia, y el Presidente deberá pertenecer al Consejo Superior de Investigaciones Científicas, al Consejo Nacional de Educación o Reales Academias.
 
@@ -29,3 +31,5 @@ Sexto.—Los demás trámites e informes que el Reglamento determine.
 e) El nombramiento de los Catedráticos numerarios de Facultad se hará siempre, a propuesta del Tribunal juzgador, por el Ministerio de Educación Nacional.
 
 f) Nombrado Catedrático numerario el propuesto por el Tribunal, tomará posesión de su Cátedra, sin perjuicio de hacerlo solemnemente el día de la inauguración del curso académico.
+
+> Se modifica la letra a) por el art. 1 de la Ley de 16 de diciembre de 1954. Ref. BOE-A-1954-15533.
