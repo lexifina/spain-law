@@ -169,37 +169,41 @@ En dicha lista será obligatorio la inclusión de gelatinas, líquidos de gobier
 
 12.1.3. Contenido neto. Se expresará utilizando como unidades de medida el gramo o el kilogramo.
 
-En los productos protegidos por gelatinas figurarán el contenido neto y el contenido sin gelatina.
+En los productos protegidos por gelatinas figurarán el contenido neto y el contenido sin gelatina. Ambas indicaciones irán precedidas por las leyendas «peso neto» y «peso sin gelatina».
 
-Ambas indicaciones irán precedidas por las leyendas «peso neto» y «peso sin gelatina».
+Los productos envasados con líquidos de gobierno o cobertura, deberán indicar además del contenido neto, el peso neto escurrido. Ambas indicaciones irán precedidas por la leyenda «peso neto» y «peso escurrido».
 
-Los productos envasados con líquidos de gobierno o cobertura, deberán indicar, además del contenido neto, el peso neto escurrido.
-
-Ambas indicaciones irán precedidas por la leyenda «peso neto» y «peso escurrido».
+Los productos destinados a la venta previo fraccionamiento, quedan exceptuados de indicar en el envase el «peso neto», el «peso sin gelatina» y el «peso escurrido», debiendo hacer constar únicamente el peso neto en el embalaje. En este caso, se incluirá en el etiquetado de los envases la mención «Exclusivamente para venta previo fraccionamiento».
 
 12.1.4. Marcado de fechas.
 
 12.1.4.1. Fecha de duración mínima.
 
-– Se expresará mediante la leyenda «Consumir preferentemente antes de» seguida de:
+Se expresará mediante la leyenda «consumir preferentemente antes de» seguida de:
 
-– El día y mes en dicho orden para los productos cuya duración sea inferior a tres meses.
+El día y mes en dicho orden para los productos cuya duración sea inferior a tres meses.
 
-– El mes y el año en dicho orden para los productos cuya duración sea superior a tres meses, pero no exceda de dieciocho meses.
+El mes y el año en dicho orden para los productos cuya duración sea superior a tres meses, pero no exceda de dieciocho meses.
 
-– Se expresará mediante la leyenda «consumir preferentemente antes del fin de» seguida del año para los productos cuya duración sea superior a dieciocho meses.
+Se expresará mediante la leyenda «consumir preferentemente antes de fin de», seguida del año, para los productos cuya duración sea superior a dieciocho meses.
+
+La fecha de duración mínima podrá indicarse mediante un plazo a partir de la fecha de fabricación o elaboración, siempre que ambas figuren juntas en el etiquetado.
 
 12.1.4.2. Fecha de fabricación o elaboración.
 
-Deberá constar en la etiqueta la leyenda «fecha de fabricación» seguida del día, mes y año en dicho orden.
+Se expresará mediante la leyenda «fecha de fabricación», seguida del día, mes y año en dicho orden.
 
-Las fechas se indicarán de la forma siguiente:
+La fecha de fabricación podrá expresarse mediante la leyenda «fecha de fabricación», seguida de una indicación clara del lugar del etiquetado donde figure dicha fecha.
 
-– El día con la cifra o cifras correspondientes. El mes con su nombre o con las tres primeras letras de dicho nombre o con dos dígitos (del 01 al 12) que correspondan. La expresión del mes mediante dígitos sólo podrá utilizarse cuando también figure el año.
+12.1.4.3 Las fechas mencionadas en las apartados 12.1.4.1 y 12.1.4.2, se indicarán de la siguiente forma:
 
-– El año con sus cuatro cifras o con sus dos cifras finales.
+El día, con la cifra o cifras correspondientes.
 
-Salvo cuando el mes se expresa con letras, las indicaciones antedichas estarán separadas unas de otras por espacio en blanco, punto, guión, etc.
+El mes, con su nombre o con las tres primeras letras de dicho nombre o con los dos dígitos (del 01 al 12) que corresponda. La expresión del mes mediante dígitos sólo podrá utilizarse cuando también figure el año.
+
+El año con sus cuatro cifras o sus dos cifras finales.
+
+Salvo cuando el mes exprese con letras, las indicaciones antedichas estarán separadas unas de otras por espacio en blanco, punto, guión etcétera.
 
 12.1.5. Instrucciones para la conservación.–En el etiquetado se indicarán las instrucciones para la conservación del producto si de su cumplimiento dependiera la validez de las fechas mencionadas.
 
@@ -215,21 +219,46 @@ Cuando la elaboración se realice bajo marca de un distribuidor además de figur
 
 12.1.8. Identificación del lote de fabricación. Todo envase deberá llevar una indicación que permita identificar el lote de fabricación quedando a discreción del fabricante la forma de identificación. Los fabricantes deberán tener a disposición de los servicios competentes de la Administración la documentación donde consten todos los datos necesarios para la identificación del lote de fabricación.
 
-12.1.9. Categoría comercial. Se, hará constar la categoría comercial del producto según el apartado 10.2 de la norma y en el mismo campo visual que la denominación del producto.
+12.1.9. Categoría comercial.
+
+Se hará constar la categoría comercial del producto, según el apartado 10.2 de la norma y en el mismo campo visual que la denominación del producto.
+
+Para mejor identificación del producto y determinación por el consumidor de la categoría comercial a que pertenece, junto al nombre del producto figurará un círculo de los siguientes colores y dimensiones.
+
+Colores:
+
+Rojo, para la «paleta cocida extra».
+
+Verde, para la «paleta cocida I» o «paleta cocida primera».
+
+Amarillo, para el «fiambre de paleta II» o «fiambre de paleta segunda».
+
+| Contenido neto de los envases en gramos | Diámetro mínimo del círculo en mm |
+| --- | --- |
+| Dimensiones: |  |
+| Hasta 50 incluidos | 10 |
+| 50 excluidos a 150 incluidos | 17 |
+| 150 excluidos a 250 incluidos | 23 |
+| 250 excluidos a 1.000 incluidos | 30 |
+| Más de 1.000 | 40 |
+
+Dentro de dicho círculo de color deberá figurar la categoría comercial a que pertenece el producto.
 
 12.2. Rotulación.
 
 En los rótulos de los embalajes se hará constar:
 
-– Denominación del producto o marca.
+Denominación del producto o marca.
 
-– Número y contenido neto de los envases.
+Número y contenido neto de los envases.
 
-– Nombre o razón social o denominación de la empresa.
+Nombre o razón social, o denominación de la empresa.
 
-– Instrucciones para la conservación, en su caso.
+Instrucciones para la conservación, en su caso.
 
-No será obligatoria la mención de estas indicaciones siempre que puedan ser determinadas clara y fácilmente en el etiquetado de los envases sin necesidad de abrir el embalaje.
+La mención «exclusivamente para venta previo fraccionamiento», en su caso.
+
+No será necesaria la mención de estas indicaciones siempre que puedan ser determinadas clara y fácilmente en el etiquetado de los envases sin necesidad de abrir el embalaje.
 
 13. País de origen.
 
@@ -237,17 +266,11 @@ Los productos importados, además de cumplir lo establecido en el punto 12 de la
 
 14. Los productos destinados exclusivamente a la exportación que no cumplan con las Normas del Mercado Interior, llevarán en su etiquetado la palabra «Export».
 
-15. Para la mejor identificación del producto y determinación por el consumidor de la categoría comercial a que pertenece, las etiquetas tendrán los siguientes colores:
+15. Etiquetado facultativo.
 
-– Rojo para la «Paleta Cocida Extra».
+Dada la importancia que tiene en estos productos la incorporación o no de fosfato, se reserva la posibilidad de incorporar una frase con tal información de tamaño menor al de la denominación comercial, tan sólo para la categoría «extra», siempre y cuando no existan en dichos productos más de 4.500 pp m de fosfatos totales expresados en anhídrido fosfórico.
 
-– Verde para la «Paleta Cocida I» o «Paleta Cocida Primera».
-
-– Amarilla para el «Fiambre de Paleta II» o «Fiambre de Paleta Segunda».
-
-16. Etiquetado facultativo.
-
-Dada la importancia que tiene en estos productos la incorporación o no de fosfatos, se reserva la posibilidad de incorporar una frase con tal información de tamaño menor a la de la denominación comercial, tan sólo para la categoría «Extra», siempre y cuando no existan en dichos productos más de 4.500 p. p. m. de fosfatos expresados en anhídrido fosfórico.
+> Se modifican los apartados 12.1.3, 12.1.4.1, 12.1.4.2, 12.1.9, 12.2, 15, se añade el 12.1.4.3 y se deroga el 16 por el apartado 1 y 2 de la Orden de 6 de abril de 1984. Ref. BOE-A-1984-8480.
 
 > Se deroga el apartado 7 por el art. 6 de la Resolución de 26 de diciembre de 1983. Ref. BOE-A-1984-166.
 

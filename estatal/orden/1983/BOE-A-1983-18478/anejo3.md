@@ -165,29 +165,33 @@ Ambas indicaciones irán precedidas por las leyendas «peso neto» y «peso escu
 
 12.1.4. Marcado de fechas.
 
-12.1.4.1. Fecha de duración mínima:
+12.1.4.1. Fecha de duración mínima.
 
-– Se expresará mediante la leyenda «consumir preferentemente antes de», seguido de:
+Se expresará mediante la leyenda «consumir preferentemente antes de» seguida de:
 
-– El día y mes en dicho orden para los productos cuya duración sea inferior a tres meses.
+El día y mes en dicho orden para los productos cuya duración sea inferior a tres meses.
 
-– El mes y el año en dicho orden para los productos cuya duración sea superior a tres meses, pero no exceda de dieciocho meses.
+El mes y el año en dicho orden para los productos cuya duración sea superior a tres meses, pero no exceda de dieciocho meses.
 
-Se expresará mediante la leyenda «consumir preferentemente antes de fin de», seguida del año para los productos cuya duración sea superior a dieciocho meses.
+Se expresará mediante la leyenda «consumir preferentemente antes de fin de», seguida del año, para los productos cuya duración sea superior a dieciocho meses.
 
-12.1.4.2. Fecha de fabricación o elaboración:
+La fecha de duración mínima podrá indicarse mediante un plazo a partir de la fecha de fabricación o elaboración, siempre que ambas figuren juntas en el etiquetado.
 
-Deberá constar en la etiqueta la leyenda «Fecha de fabricación», seguida del día, mes y año en dicho orden.
+12.1.4.2. Fecha de fabricación o elaboración.
 
-Las fechas se indicarán de la forma siguiente:
+Se expresará mediante la leyenda «fecha de fabricación», seguida del día, mes y año en dicho orden.
 
-– El día con la cifra o cifras correspondientes.
+La fecha de fabricación podrá expresarse mediante la leyenda «fecha de fabricación», seguida de una indicación clara del lugar del etiquetado donde figure dicha fecha.
 
-– El mes con su nombre o con las tres primeras letras de dicho nombre o con dos dígitos (del 01 al 12), que correspondan. La expresión del mes mediante dígitos sólo podrá utilizarse cuando también figure el año.
+12.1.4.3 Las fechas mencionadas en las apartados 12.1.4.1 y 12.1.4.2, se indicarán de la siguiente forma:
 
-– El año con sus cuatro cifras o con sus dos cifras finales.
+El día, con la cifra o cifras correspondientes.
 
-Salvo cuando el mes se expresa con letras las indicaciones antedichas estarán separadas unas de otras por espacio en blanco, punto, guión, etcétera.
+El mes, con su nombre o con las tres primeras letras de dicho nombre o con los dos dígitos (del 01 al 12) que corresponda. La expresión del mes mediante dígitos sólo podrá utilizarse cuando también figure el año.
+
+El año con sus cuatro cifras o sus dos cifras finales.
+
+Salvo cuando el mes exprese con letras, las indicaciones antedichas estarán separadas unas de otras por espacio en blanco, punto, guión etcétera.
 
 12.1.5. Instrucciones para la conservación.–En el etiquetado se indicarán las instrucciones para la conservación del producto si de su cumplimiento dependiera la validez de las fechas mencionadas.
 
@@ -203,7 +207,26 @@ Cuando la elaboración se realice bajo marca de un distribuidor, además de figu
 
 12.1.8. Identificación del lote de fabricación.–Todo envase deberá llevar una indicación que permita identificar el lote de fabricación quedando a discreción del fabricante la forma de identificación. Los fabricantes deberán tener a disposición de los Servicios Competentes de la Administración, la documentación donde consten todos los datos necesarios para la identificación del lote de fabricación.
 
-12.1.9. Categoría comercial.–Se hará constar la categoría comercial del producto, según el apartado 10.2 de la norma y en el mismo campo visual que la denominación del producto.
+12.1.9. Categoría comercial.
+
+Se hará constar la categoría comercial del producto, según el apartado 10.2 de la norma, y en el mismo campo visual que la denominación del producto.
+
+Para la mejor identificación del producto y determinación por el consumidor de la categoría comercial a que pertenece, junto al nombre del producto, figurará un círculo de los siguientes colores y dimensiones:
+
+Colores:
+
+Rojo, para el «magro de cerdo cocido extra».
+
+Blanco, para el «fiambre de magro de cerdo III» o «fiambre de magro de cerdo tercera».
+
+| Contenido neto de los envases en gramos | Diámetro mínimo del círculo en mm |
+| --- | --- |
+| Dimensiones: |  |
+| Hasta 50 incluidos | 10 |
+| 50 excluidos a 150 incluidos | 17 |
+| 150 excluidos a 250 incluidos | 23 |
+| 250 excluidos a 1.000 | 30 |
+| Más de 1.000 | 40 |
 
 12.2. Rotulación.–En los rótulos de los embalajes se hará constar:
 
@@ -223,15 +246,11 @@ Los productos importados, además de cumplir lo establecido en el punto 12 de la
 
 14. Los productos destinados exclusivamente a la exportación que no cumplan con las Normas del Mercado Interior, llevarán en su etiquetado la palabra «EXPORT».
 
-15. Para la mejor identificación del producto y determinación por el consumidor de la categoría comercial a que pertenece, las etiquetas tendrán los siguientes colores:
+15. Etiquetado facultativo.
 
-– Rojo para el «Magro de Cerdo Cocido Extra».
+Dada la importancia que tiene en estos productos la incorporación o no de fosfato, se reserva la posibilidad de incorporar una frase con tal información de tamaño menor al de la denominación comercial, tan sólo para la categoría «extra», siempre y cuando no existan en dichos productos más de 4.500 pp m de fosfatos totales expresados en anhídrido fosfórico.
 
-– Blanco para el «Fiambre de Magro de Cerdo III» o «Fiambre de Magro de Cerdo Tercera».
-
-16. Etiquetado facultativo.
-
-Dada la importancia que tiene en estos productos la incorporación o no de fosfatos, se reserva la posibilidad de incorporar una frase con tal información, de tamaño menor al de la denominación comercial, tan sólo para la categoría «Extra», siempre y cuando no existan en dichos productos más de 4.500 p.p.m. de fosfatos expresados en anhídrido fosfórico.
+> Se modifican los apartados 12.1.4.1, 12.1.4.2, 12.1.9, 15, se añade el 12.1.4.3 y se deroga el 16 por el apartado 1 y 2 de la Orden de 6 de abril de 1984. Ref. BOE-A-1984-8480.
 
 > Se deroga el apartado 7 por el art. 6 de la Resolución de 26 de diciembre de 1983. Ref. BOE-A-1984-166.
 
