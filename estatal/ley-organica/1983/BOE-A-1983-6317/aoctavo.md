@@ -1,5 +1,5 @@
 ## Artículo 8.
 
-1. Los poderes de la Comunidad de Madrid se ejercen a través de sus instituciones de autogobierno: la Asamblea de Madrid, el Consejo de Gobierno y el Presidente de la Comunidad.
+Los poderes de la Comunidad de Madrid se ejercen a través de sus instituciones de autogobierno: la Asamblea, el Gobierno y el Presidente de la Comunidad.
 
-2. Las Leyes de la Comunidad de Madrid regularán el funcionamiento de estas instituciones, de acuerdo con la Constitución y con el presente Estatuto.
+> Se modifica por el art. 1.6 de la Ley Orgánica 5/1998, 7 de julio. Ref. BOE-A-1998-16302

@@ -1,7 +1,9 @@
 ## Artículo 21.
 
-El Consejo de Gobierno es el órgano colegiado que dirige la política de la Comunidad de Madrid, correspondiéndole las funciones ejecutivas y administrativas. así como el ejercicio de la potestad reglamentaria en materias no reservadas en este Estatuto a la Asamblea.
+1. El Presidente de la Comunidad de Madrid, previa deliberación del Gobierno y bajo su exclusiva responsabilidad, podrá acordar la disolución de la Asamblea con anticipación al término natural de la legislatura. La disolución se formalizará por Decreto, en el que se convocarán a su vez elecciones, conteniéndose en el mismo los requisitos que exija la legislación electoral aplicable.
 
-2. El Consejo de Gobierno estará compuesto por el Presidente y los Consejeros, cuyo número no podrá exceder de diez. De entre los Consejeros podrá nombrarse uno o más Vicepresidentes.
+2. El Presidente no podrá acordar la disolución de la Asamblea durante el primer período de sesiones de la legislatura, cuando reste menos de un año para la terminación de la legislatura, cuando se encuentre en tramitación una moción de censura o cuando esté convocado un proceso electoral estatal. No procederá nueva disolución de la Asamblea antes de que transcurra un año desde la anterior.
 
-3. Los miembros del Consejo de Gobierno serán nombrados y cesados por el Presidente. Para ser miembro del mismo no será preciso reunir la condición de Diputado, salvo en el supuesto de los Vicepresidentes.
+3. En todo caso, la nueva Cámara que resulte de la convocatoria electoral tendrá un mandato limitado por el término natural de la legislatura originaria.
+
+> Se modifica por el art. 1.19 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302

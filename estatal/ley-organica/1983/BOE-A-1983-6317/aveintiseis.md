@@ -1,65 +1,89 @@
 ## Artículo 26.
 
-Corresponde a la Comunidad de Madrid la plenitud de la función legislativa en las siguientes materias:
+1. La Comunidad de Madrid, en los términos establecidos en el presente Estatuto, tiene competencia exclusiva en las siguientes materias:
 
-1. La organización de sus instituciones de autogobierno.
+1.1 Organización, régimen y funcionamiento de sus instituciones de autogobierno.
 
-2. Las alteraciones de los términos municipales comprendidos en su territorio.
+1.2 Creación o supresión de municipios, alteración de los términos municipales comprendidos en su territorio y creación de circunscripciones territoriales propias, en los términos previstos en el artículo 3 del presente Estatuto.
 
-3. La ordenación del territorio, urbanismo y vivienda.
+1.3 Procedimiento administrativo derivado de las especialidades de la organización propia.
 
-4. Las obras públicas de interés de la Comunidad dentro de su propio territorio.
+1.4 Ordenación del territorio, urbanismo y vivienda.
 
-5. Los ferrocarriles y carreteras cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad de Madrid y, en los mismos términos, el transporte desarrollado por estos medios o por cable.
+1.5 Obras públicas de interés de la Comunidad, dentro de su propio territorio.
 
-6. Los puertos lacustres y aeropuertos deportivos, así como los que no desarrollen actividades comerciales.
+1.6 Ferrocarriles, carreteras y caminos cuyo itinerario discurra íntegramente en el territorio de la Comunidad de Madrid y, en los mismos términos, el transporte terrestre y por cable. Centros de contratación y terminales de carga en materia de transportes terrestres en el ámbito de la Comunidad.
 
-7. La agricultura y ganadería, de acuerdo con la ordenación general de la economía.
+1.7 Instalaciones de navegación y deporte en aguas continentales, aeropuertos y helipuertos deportivos, así como los que no desarrollen actividades comerciales.
 
-8. Los proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés de la Comunidad, las aguas minerales y termales.
+1.8 Proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés de la Comunidad. Aguas nacientes, superficiales, subterráneas, minerales y termales, cuando discurran íntegramente por el ámbito territorial de la Comunidad de Madrid. Ordenación y concesión de recursos y aprovechamientos hidráulicos, canales y regadíos cuando las aguas discurran íntegramente por el ámbito territorial de la Comunidad de Madrid.
 
-Ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran íntegramente por el ámbito territorial de la Comunidad Autónoma.
+1.9 Pesca fluvial y lacustre, acuicultura y caza.
 
-9. La pesca que pueda realizarse en el ámbito territorial de la Comunidad. La caza y la acuicultura.
+1.10 Tratamiento singular de las zonas de montaña.
 
-10. Ferias interiores, incluidas las exposiciones.
+1.11 Instalación de producción, distribución y transporte de cualesquiera energías, cuando el transporte no salga de su territorio y su aprovechamiento no afecte a otra Comunidad. Todo ello sin perjuicio de lo establecido en los números 22ª y 25ª del apartado 1 del artículo 149 de la Constitución.
 
-11. El fomento del desarrollo económico de la Comunidad de Madrid dentro de los objetivos marcados por la política económica nacional.
+1.12 Publicidad, sin perjuicio de las normas dictadas por el Estado para sectores y medios específicos, de acuerdo con las materias 1ª ,6ª y 8ª del apartado 1 del artículo 149 de la Constitución.
 
-12. La artesanía.
+1.13 Ferias y mercados interiores, incluidas las exposiciones. Establecimiento de bolsas de valores y establecimiento y regulación de centros de contratación de mercancías, conforme a la legislación mercantil.
 
-13. Archivos, bibliotecas, museos, hemerotecas, conservatorios de música, servicios de bellas artes y demás centros de depósito cultural o colecciones de naturaleza análoga, de interés para la Comunidad de Madrid que no sean de titularidad estatal.
+1.14 Cooperativas y entidades asimilables, mutualidades no integradas en la Seguridad Social, conforme a la legislación mercantil.
 
-14. Patrimonio monumental de interés de la Comunidad.
+1.15 Artesanía.
 
-15. El fomento de la cultura y la investigación.
+1.16 Denominaciones de origen, en colaboración con el Estado.
 
-16. Promoción y ordenación del turismo en su ámbito territorial.
+1.17 Fomento del desarrollo económico de la Comunidad de Madrid, dentro de los objetivos marcados por la política económica nacional.
 
-17. Promoción del deporte y de la adecuada utilización del ocio.
+1.18 Archivos, bibliotecas, museos, hemerotecas, conservatorios de música y danza, centros dramáticos y de bellas artes, y demás centros de depósito cultural o colecciones de análoga naturaleza, de interés para la Comunidad de Madrid, que no sean de titularidad estatal.
 
-18. Asistencia social.
+1.19 Patrimonio histórico, artístico, monumental, arqueológico, arquitectónico y científico de interés para la Comunidad, sin perjuicio de la competencia del Estado para la defensa de los mismos contra la exportación y la expoliación.
 
-19. La vigilancia y protección de sus edificios e instalaciones.
+1.20 Fomento de la cultura y la investigación científica y técnica.
 
-20. Casinos, juegos y apuestas, con exclusión de las Apuestas Mutuas Deportivo-Benéficas.
+1.21 Promoción y ordenación del turismo en su ámbito territorial.
 
-21. Cooperativas, mutuas no integradas en el sistema de Seguridad Social, respetando la legislación mercantil.
+1.22 Deporte y ocio.
 
-22. Espectáculos públicos.
+1.23 Promoción y ayuda a la tercera edad, emigrantes, minusválidos y demás grupos sociales necesitados de especial atención, incluida la creación de centros de protección, reinserción y rehabilitación.
 
-23. Estadísticas para fines no estatales.
+1.24 Protección y tutela de menores y desarrollo de políticas de promoción integral de la juventud.
 
-24. Fundaciones que desarrollen principalmente sus funciones en la Comunidad Autónoma.
+1.25 Promoción de la igualdad respecto a la mujer que garantice su participación libre y eficaz en el desarrollo político, social, económico y cultural.
 
-25. Industria, sin perjuicio de lo que determinen las normas del Estado por razones de seguridad, sanitarias o de interés militar y las normas relacionadas con las industrias que estén sujetas a la legislación de minas, hidrocarburos y energía nuclear. El ejercicio de la competencia se realizará de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, en los términos de lo dispuesto en los artículos 38, 131 y números 11 y 13 del apartado 1 del artículo 149 de la Constitución.
+1.26 Fundaciones que desarrollen principalmente sus funciones en la Comunidad de Madrid.
 
-26. Instalaciones de producción, distribución y transporte de energía, cuando el transporte no salga de su territorio y su aprovechamiento no afecte a otra Comunidad Autónoma. Todo ello sin perjuicio de lo establecido en los números 22 y 25 del apartado 1 del artículo 149 de la Constitución.
+1.27 Vigilancia y protección de sus edificios e instalaciones.
 
-27. Procedimiento administrativo derivado de las especialidades de la organización propia.
+1.28 Coordinación y demás facultades en relación con las policías locales, en los términos que establezca la Ley Orgánica.
 
-28. Publicidad, sin perjuicio de las normas dictadas por el Estado para sectores y medios específicos, de acuerdo con los números 1, 6 y 8 del apartado 1 del artículo 149 de la Constitución.
+1.29 Casinos, juegos y apuestas con exclusión de las apuestas mutuas deportivo-benéficas.
 
-29. Servicio meteorológico de la Comunidad Autónoma.
+1.30 Espectáculos públicos.
+
+1.31 Estadística para fines no estatales.
+
+1.32 Servicio meteorológico de la Comunidad de Madrid.
+
+2. En el ejercicio de estas competencias corresponderá a la Comunidad de Madrid la potestad legislativa, la reglamentaria y la función ejecutiva que se ejercerán respetando, en todo caso, lo dispuesto en la Constitución Española.
+
+3.1 De acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, corresponde a la Comunidad de Madrid, en los términos de lo dispuesto en los artículos 38, 131 y en las materias 11ª y 13ª del apartado 1 del artículo 149 de la Constitución, la competencia exclusiva en las siguientes materias:
+
+3.1.1 Ordenación y planificación de la actividad económica regional.
+
+3.1.2 Comercio interior, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio del Estado y de la legislación sobre defensa de la competencia.
+
+3.1.3 Industria, sin perjuicio de lo que determinen las normas del Estado por razones de seguridad, sanitarias o de interés militar y las normas relacionadas con las industrias que estén sujetas a la legislación de minas, hidrocarburos y energía nuclear.
+
+3.1.4 Agricultura, ganadería e industrias agroalimentarias.
+
+3.1.5 Instituciones de crédito corporativo público y territorial. Cajas de Ahorro.
+
+3.1.6 Sector público económico de Madrid, en cuanto no esté contemplado por otros preceptos de este Estatuto.
+
+3.2 La Comunidad de Madrid participará, asimismo, en la gestión del sector público económico estatal, en los casos y actividades que procedan.
+
+> Se modifica por el art. 1.24 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
 
 > Se modifica por el art. único.1 de la Ley Orgánica 10/1994, de 24 de marzo. Ref. BOE-A-1994-6949

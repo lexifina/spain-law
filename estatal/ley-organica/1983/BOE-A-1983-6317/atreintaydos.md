@@ -1,7 +1,11 @@
 ## Artículo 32.
 
-1. La Comunidad de Madrid podrá celebrar convenios de cooperación con otras Comunidades Autónomas, en especial con las limítrofes para la gestión y prestación de servicios propios de la competencia de las mismas. La celebración de los citados convenios antes de su entrada en vigor, deberá ser comunicada a las Cortes Generales. Si las Cortes Generales o alguna de las Cámaras manifestaran reparos en el plazo de treinta días, a partir de la recepción de la comunicación, el Convenio deberá seguir el trámite previsto en el apartado siguiente. Si transcurrido dicho plazo no se hubiese manifestado reparos al Convenio, entrará en vigor.
+1. La Comunidad de Madrid podrá solicitar del Gobierno de la Nación la celebración de tratados o convenios internacionales en materias de interés para Madrid.
 
-2. La Comunidad de Madrid podrá establecer acuerdos de cooperación con otras Comunidades Autónomas, previa autorización de las Cortes Generales.
+2. La Comunidad de Madrid será informada de la elaboración de los tratados y convenios internacionales y en las negociaciones de adhesión a los mismos, así como en los proyectos de legislación aduanera, en cuanto afecten a materias de su específico interés. Recibida la información, el Gobierno de la Comunidad emitirá, en su caso, su parecer.
 
-3. La Comunidad Autónoma de Madrid por su tradicional vinculación, mantendrá relaciones de especial colaboración con las Comunidades castellanas, para lo cual podrá promover la aprobación de los correspondientes acuerdos y convenios.
+3. La Comunidad de Madrid adoptará las medidas necesarias para la ejecución, dentro de su territorio, de los tratados y convenios internacionales y de los actos normativos de las organizaciones internacionales, en lo que afecten a las materias propias de competencia de la Comunidad de Madrid.
+
+> Se renumera por el art. 1.28 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+> Su anterior numeración era art. 33.

@@ -1,9 +1,21 @@
 ## Artículo 12.
 
-1. Una Ley de la Asamblea regulará las causas de incompatibilidad e inelegibilidad para las elecciones de la misma.
+1. La Asamblea se dotará de su propio Reglamento, cuya aprobación y reforma serán sometidas a una votación final sobre su totalidad, que requerirá el voto afirmativo de la mayoría absoluta de los Diputados.
 
-2. Los Diputados gozarán, aún después de haber cesado en su mandato, de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.
+2. El Reglamento determinará, de acuerdo con lo establecido en el presente Estatuto, las reglas de organización y funcionamiento de la Asamblea, especificando, en todo caso, los siguientes extremos:
 
-3. Durante su mandato no podrán ser detenidos ni retenidos por actos delictivos cometidos en el territorio de la Comunidad, sino en el caso de flagrante delito, correspondiendo decidir en todo caso, sobre su inculpación, prisión, procesamiento y juicio, al Tribunal Superior de Justicia de Madrid. Fuera de dicho territorio la responsabilidad penal será exigible en los mismos términos ante la Sala de lo Penal del Tribunal Supremo.
+a) Las relaciones entre la Asamblea y el Gobierno.
 
-4. La adquisición de la condición plena de Diputado requerirá la presentación de la promesa o juramento de acatamiento de la Constitución y del presente Estatuto de Autonomía.
+b) El número mínimo de Diputados necesario para la formación de los Grupos Parlamentarios.
+
+c) La composición y funciones de la Mesa, las Comisiones y la Diputación Permanente, de manera que los Grupos Parlamentarios participen en estos órganos en proporción al número de sus miembros.
+
+d) Las funciones de la Junta de Portavoces.
+
+e) La publicidad de las sesiones y el quórum y mayorías requeridos.
+
+f) El procedimiento legislativo común y los procedimientos legislativos que, en su caso, se establezcan.
+
+g) El procedimiento de elección de los Senadores representantes de la Comunidad de Madrid.
+
+> Se modifica por el art. 1.10 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302

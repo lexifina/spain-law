@@ -1,7 +1,7 @@
 ## Artículo 45.
 
-1. El control económico y presupuestario de la Comunidad Autónoma de Madrid se ejercerá por el Tribunal de Cuentas del Estado.
+En el ámbito territorial de la Comunidad de Madrid, el Tribunal Superior de Justicia es el órgano jurisdiccional ante el que se agotarán las sucesivas instancias procesales, en los términos del artículo 152 de la Constitución y de acuerdo con el presente Estatuto y las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial. Todo ello sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, de acuerdo con lo establecido en el artículo 123.1, de la Constitución.
 
-2. El informe del Tribunal de Cuentas será remitido a las Cortes Generales, así como a la Comunidad Autónoma de Madrid.
+> Se modifica por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
 
-3. Lo establecido en los apartados anteriores se llevará a cabo de acuerdo con lo que establezca la Ley Orgánica prevista en el artículo 136.4, de la Constitución.
+> Su anterior numeración era art. 46.

@@ -1,35 +1,11 @@
 ## Artículo 14.
 
-Corresponde, en todo caso, a la Asamblea:
+1. La Asamblea se reunirá en sesiones ordinarias y extraordinarias. Los períodos ordinarios de sesiones serán dos al año: el primero de septiembre a diciembre y el segundo de febrero a junio.
 
-1. El ejercicio de la potestad legislativa propia de la Comunidad Autónoma.
+2. Entre los períodos ordinarios de sesiones y en los supuestos de expiración del mandato o de disolución de la Asamblea funcionará la Diputación Permanente, a la que corresponde velar por los poderes de la Cámara y cuantas otras atribuciones le confiera el Reglamento. Tras la celebración de elecciones, la Diputación Permanente dará cuenta al Pleno de la Asamblea, una vez constituida ésta, de los asuntos tratados y de las decisiones adoptadas.
 
-2. El ejercicio de la potestad legislativa para el desarrollo de las Leyes estatales que le corresponda, así como el de las facultades normativas atribuidas a La misma, en su caso, de acuerdo con los apartados 1 y 2 del artículo 150 de la Constitución.
+3. Las sesiones extraordinarias habrán de ser convocadas por el Presidente de la Asamblea a petición del Gobierno, de la Diputación Permanente, de una cuarta parte de los Diputados o del número de Grupos Parlamentarios que el Reglamento determine. Las sesiones extraordinarias deberán convocarse sobre un orden del día determinado.
 
-3. El control de la acción del Consejo de Gobierno.
+4. Para deliberar y adoptar acuerdos la Asamblea habrá de estar reunida reglamentariamente y con asistencia de la mayoría de sus miembros. Los acuerdos deberán ser aprobados por la mayoría de los miembros presentes, salvo en aquellos supuestos para los que el Estatuto, el Reglamento o las leyes exijan mayorías especiales.
 
-4. La aprobación de los Presupuestos y de las cuentas de la Comunidad.
-
-5. El conocimiento de los planes económicos.
-
-6. La ordenación básica de los órganos y servicios de la Comunidad.
-
-7. El control de los medios de comunicación social dependientes de la Comunidad Autónoma.
-
-8. La potestad de establecer y exigir tributos.
-
-9. La elección del Presidente del Consejo de Gobierno.
-
-10. Interponer el recurso de inconstitucionalidad y personarse ante el Tribunal Constitucional en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional.
-
-11. Solicitar del Gobierno de la nación la adopción de un proyecto de Ley o remitir a la Mesa del Congreso una proposición de Ley delegando ante dicha Cámara a los miembros de la Asamblea encargados de su defensa.
-
-12. La designación de los Senadores que han de representar a la Comunidad, según lo previsto en el artículo 69.5 de la Constitución. Los Senadores serán designados en proporción al número de miembros de los grupos políticos representados en la Asamblea.
-
-Su mandato en el Senado estará vinculado a su condición de miembros de la Asamblea de Madrid.
-
-13. Ratificar los convenios que la Comunidad concluya con otras Comunidades Autónomas, para la gestión y prestación de servicios propios de las mismas Dichos convenios serán comunicados de inmediato a las Cortes Generales.
-
-14. Ratificar los acuerdos de cooperación que sobre materias distintas a las mencionadas en el número anterior convenga la Comunidad con otras Comunidades Autónomas, previa autorización de las Cortes Generales.
-
-15. Las que se deriven del presente Estatuto y del Reglamento.
+> Se modifica por el art. 1.12 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302

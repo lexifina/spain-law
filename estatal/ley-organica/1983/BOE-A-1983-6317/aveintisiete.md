@@ -1,32 +1,36 @@
 ## Artículo 27.
 
-Corresponde a la Comunidad de Madrid el desarrollo legislativo, incluida la potestad reglamentaria y ejecución de las siguientes materias, en el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca:
+En el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, corresponde a la Comunidad de Madrid el desarrollo legislativo, la potestad reglamentaria y la ejecución de las siguientes materias:
 
-1. El desarrollo de las funciones que corresponden a la Administración del Estado sobre las Corporaciones Locales y cuya transferencia autorice la legislación sobre régimen local.
+1. Régimen local.
 
-2. El régimen de los montes y aprovechamientos forestales con especial referencia a los montes vecinales en mano común, montes comunales, vías pecuarias, pastos y régimen de las zonas de montaña.
+2. Régimen jurídico y sistema de responsabilidad de la Administración pública de la Comunidad de Madrid y los entes públicos dependientes de ella, así como el régimen estatutario de sus funcionarios. Contratos y concesiones administrativas, en el ámbito de competencias de la Comunidad de Madrid.
 
-3. Instituciones de crédito corporativo público y territorial. Cajas de Ahorro.
+3. Régimen de los montes y aprovechamientos forestales, con especial referencia a los montes vecinales en mano común, montes comunales, vías pecuarias y pastos.
 
-4. Ordenación y planificación de la actividad económica regional en el ejercicio de las competencias asumidas en el marco de este Estatuto.
+4. Sanidad e higiene.
 
-5. La investigación científica y técnica en materia de interés para la Comunidad de Madrid.
+5. Coordinación hospitalaria en general, incluida la de la Seguridad Social.
 
-6. La sanidad e higiene.
+6. Corporaciones de derecho público representativas de intereses económicos y profesionales.
 
-7. Coordinación hospitalaria en general, incluida la de la Seguridad Social.
+Ejercicio de las profesiones tituladas.
 
-8. La coordinación y demás facultades en relación con las policías locales, en los términos que establezca la Ley Orgánica.
+7. Protección del medio ambiente, sin perjuicio de la facultad de la Comunidad de Madrid de establecer normas adicionales de protección. Contaminación biótica y abiótica. Vertidos en el ámbito territorial de la Comunidad.
 
-9. Corporaciones de derecho público representativas de intereses económicos y profesionales.
+8. Régimen minero y energético.
 
-10. Defensa del consumidor y usuario, de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, las bases y coordinación general de la Sanidad, en los términos de lo dispuesto en los artículos 38, 131 y en los números 11, 13 y 16 del apartado 1 del artículo 149 de la Constitución.
+9. Protección de los ecosistemas en los que se desarrollen la pesca, acuicultura y caza. Espacios naturales protegidos.
 
-11. Las normas adicionales de protección del medio ambiente, para evitar el deterioro de los equilibrios ecológicos, especialmente en lo relativo al aire, aguas, espacios naturales y conservación de la flora, la fauna y los testimonios culturales dentro del territorio de la Comunidad Autónoma.
+10. Defensa del consumidor y del usuario, de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, las bases y coordinación general de la sanidad, en los términos de lo dispuesto en los artículos 38, 131 y en los números 11ª, 13ª y 16ª del apartado 1 del artículo 149 de la Constitución.
 
-12. Régimen minero y energético.
+11. Prensa, radio, televisión y otros medios de comunicación social. La Comunidad de Madrid podrá regular, crear y mantener su propia televisión, radio, prensa y, en general, todos los medios de comunicación social para el cumplimiento de sus fines.
 
-13. Prensa, radio, televisión y otros medios de comunicación social, en el marco de las normas básicas que el Estado establezca, de acuerdo con el número 27 del apartado 1 del artículo 149 de la Constitución.
+12. Ordenación farmacéutica y establecimientos farmacéuticos, sin perjuicio de lo dispuesto en la materia 16ª del apartado 1 del artículo 149 de la Constitución.
+
+13. Bienes de dominio público y patrimoniales cuya titularidad corresponda a la Comunidad, así como las servidumbres públicas en materia de sus competencias.
+
+> Se modifica por el art. 1.25 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
 
 > Se modifica por el art. único.2 de la Ley Orgánica 10/1994, de 24 de marzo. Ref. BOE-A-1994-6949
 

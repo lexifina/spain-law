@@ -2,7 +2,7 @@
 
 La Hacienda de la Comunidad de Madrid se constituye con:
 
-1. Los rendimientos de sus propios tributos.
+1. Los rendimientos de sus propios impuestos, tasas, contribuciones especiales y precios públicos.
 
 2. Los recargos que establezca la Comunidad de Madrid sobre impuestos estatales, en los términos que establezca la Ley reguladora de los mismos.
 
@@ -18,6 +18,8 @@ La Hacienda de la Comunidad de Madrid se constituye con:
 
 8. Los ingresos derivados de la imposición de multas y sanciones en el ámbito de sus competencias.
 
-9. El producto de las operaciones de crédito.
+9. El producto de las operaciones de crédito y la emisión de deuda pública.
 
 10. Cuantos otros recursos se le atribuyan de acuerdo con las Leyes del Estado.
+
+> Se modifican los apartados 1 y 9 por el art. 1.40 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302

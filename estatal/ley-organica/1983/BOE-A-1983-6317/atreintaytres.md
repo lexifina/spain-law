@@ -1,5 +1,7 @@
 ## Artículo 33.
 
-1. La Comunidad de Madrid será informada de la elaboración de los Tratados y Convenios internacionales, así como de los proyectos de reglamentación aduanera, en cuanto pudieran afectar a materias de su específico interés.
+El Derecho propio de la Comunidad de Madrid, constituido por las leyes y normas reguladoras de las materias de competencia plena de la Comunidad Autónoma, es aplicable con preferencia a cualquier otro en el territorio de Madrid. En todo caso, el Derecho estatal tiene carácter supletorio del Derecho propio de Madrid.
 
-2. Compete a la Comunidad de Madrid la adopción de las medidas necesarias para la ejecución de los Tratados y Convenios internacionales en aquellas materias propias de su competencia según el presente Estatuto.
+> Se modifica por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+> Su anterior numeración era art. 34.

@@ -6,6 +6,8 @@
 
 3. Los títulos de deuda que se emitan tendrán consideración de fondos públicos a todos los efectos.
 
-4. El Consejo de Gobierno podrá realizar operaciones de crédito por plazo inferior a un año con objeto de cubrir sus necesidades transitorias de Tesorería. La Ley de Presupuestos de la Comunidad regulara anualmente las condiciones básicas de estas operaciones.
+4. El Gobierno podrá realizar operaciones de crédito por plazo inferior a un año, con objeto de cubrir sus necesidades transitorias de tesorería. La Ley de Presupuestos de la Comunidad regulará anualmente las condiciones básicas de estas operaciones.
 
 5. Lo dispuesto en los apartados anteriores se realizará de acuerdo con lo establecido en la Ley Orgánica de Financiación de las Comunidades Autónomas.
+
+> Se modifica el apartado 4 por el art. 1.42 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302

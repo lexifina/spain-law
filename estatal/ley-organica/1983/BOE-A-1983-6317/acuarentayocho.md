@@ -1,7 +1,7 @@
 ## Artículo 48.
 
-1. El Presidente del Tribunal Superior de Justicia de Madrid será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en los términos previstos en su Ley Orgánica El Presidente de la Comunidad ordenará la publicación de dicho nombramiento en el «Boletín Oficial de Madrid».
+A instancias del Consejo de Gobierno de la Comunidad de Madrid, el órgano competente convocará los concursos y oposiciones para cubrir plazas vacantes en Madrid de Magistrados, Jueces, Secretarios judiciales y restante personal al servicio de la Administración de Justicia, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial.
 
-2. El nombramiento de los Magistrados Jueces y Secretarios del Tribunal Superior de Justicia de la Comunidad se efectuará en la forma prevista en las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial.
+> Se modifica por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
 
-3. Corresponde al Estado de conformidad con las Leyes generales, la organización y funcionamiento del Ministerio Fiscal.
+> Su anterior numeración era art. 49.

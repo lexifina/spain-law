@@ -1,5 +1,7 @@
 ## Artículo 41.
 
-1. Las Leyes de la Asamblea serán promulgadas en nombre del Rey por el Presidente de la Comunidad de Madrid, el cual ordenará su publicación en el «Boletín Oficial de la Comunidad» y en el «Boletín Oficial del Estado», entrando en vigor el día de su publicación en aquél.
+El Gobierno podrá interponer recursos de inconstitucionalidad, suscitar conflictos de competencia y personarse ante el Tribunal Constitucional en los supuestos o términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional.
 
-2. Los reglamentos aprobados por el Consejo de Gobierno serán publicados, por orden del Presidente del Consejo, en el «Boletín Oficial de la Comunidad Autónoma» y en el «Boletín Oficial del Estado».
+> Se modifica por el art. 1.32 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+> Su anterior numeración era art. 42.

@@ -1,13 +1,11 @@
 ## Artículo 47.
 
-Los Órganos jurisdiccionales que ejercen su jurisdicción en el ámbito territorial de la Comunidad de Madrid, extenderán su competencia:
+1. El Presidente del Tribunal Superior de Justicia de Madrid será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en los términos previstos en la Ley Orgánica del Poder Judicial. El Presidente de la Comunidad ordenará la publicación de dicho nombramiento en el "Boletín Oficial de la Comunidad de Madrid".
 
-a) En el ámbito civil, penal y social, a todas las instancias y grados. con excepción de los recursos de casación y revisión.
+2. El nombramiento de los Magistrados, Jueces y Secretarios del Tribunal Superior de Justicia se efectuará en la forma prevista en la Ley Orgánica del Poder Judicial.
 
-b) En el orden contencioso-administrativo, a los recursos contra actos o disposiciones de las Administraciones públicas, y contra las resoluciones judiciales que no estén atribuidas a las Salas de lo Contencioso-Administrativo del Tribunal Supremo o de la Audiencia Nacional.
+3. Corresponde al Estado, de conformidad con las leyes generales, la organización y funcionamiento del Ministerio Fiscal.
 
-En todo caso, conocerán, en los términos de la Ley Orgánica del Poder Judicial, de los recursos que se deduzcan contra actos y disposiciones administrativas de los órganos de la Comunidad de Madrid.
+> Se modifica por el art. 1.36 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
 
-c) A las cuestiones de competencia que se susciten entre los mismos.
-
-En las restantes materias se podrá interponer, cuando proceda, ante el Tribunal Supremo, el recurso de casación o el que corresponda, según las Leyes del Estado y, en su caso, el de revisión. El Tribunal Supremo resolverá también los conflictos de competencia y jurisdicción entre los Tribunales con sede en la Comunidad Autónoma y los del resto de España.
+> Su anterior numeración era art. 48.

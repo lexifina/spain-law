@@ -1,7 +1,7 @@
 ## Artículo 50.
 
-En relación con la Administración de Justicia, y exceptuada la militar, corresponde a la Comunidad:
+1. La Comunidad de Madrid participará en la fijación de las demarcaciones correspondientes en las Notarías, Registros de la Propiedad y Mercantiles radicados en su territorio.
 
-1. Al Consejo de Gobierno, ejercer todas las facultades que las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial reconozcan o atribuyan al Gobierno de la Nación.
+2. Los Notarios y Registradores de la Propiedad y Mercantiles y otros fedatarios públicos serán nombrados por la Comunidad de Madrid de conformidad con las leyes del Estado y en igualdad de derechos, tanto si los aspirantes ejercen dentro como fuera de Madrid.
 
-2. A la Asamblea, participar en la delimitación de las demarcaciones territoriales en la Comunidad, y en la localización de la sede de su capitalidad.
+> Se modifica por el art. 1.38 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302

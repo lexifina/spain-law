@@ -1,11 +1,9 @@
 ## Artículo 29.
 
-1. Transcurridos cinco años desde la aprobación de este Estatuto, la Comunidad de Madrid, previo acuerdo de su Asamblea, adoptado por mayoría absoluta, podrá ampliar el ámbito de sus competencias en materias que no estén atribuidas en exclusiva al Estado, o que sólo estén atribuidas las bases o principios. El acuerdo de asumir las nuevas competencias se someterá a las Cortes Generales para su aprobación mediante Ley Orgánica.
+1. Corresponde a la Comunidad Autónoma la competencia de desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27 de la Constitución y leyes orgánicas que conforme al apartado 1 del artículo 81 de la misma lo desarrollen, y sin perjuicio de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 y de la Alta Inspección para su cumplimiento y garantía.
 
-2. Sin necesidad de que transcurra dicho plazo, al anunciarse la presentación en el Congreso de los Diputados de un proyecto de Ley marco, la Comunidad de Madrid, mediante acuerdo de su Asamblea adoptado con la misma mayoría a que se refiere el párrafo anterior, podrá solicitar de las Cortes Generales que se le atribuya la potestad de dictar la correspondiente legislación de desarrollo.
+2. Para garantizar una prestación homogénea y eficaz del servicio público de la educación que permita corregir las desigualdades o desequilibrios que puedan producirse, la Comunidad Autónoma facilitará a la Administración del Estado la información que ésta le solicite sobre el funcionamiento del sistema educativo en sus aspectos cualitativos y cuantitativos y colaborará con la Administración del Estado en las actuaciones de seguimiento y evaluación del sistema educativo nacional.
 
-3. En cualquier momento y con la misma mayoría, la Asamblea de Madrid podrá solicitar de las Cortes Generales que mediante Ley Orgánica se le transfieran o deleguen las facultades correspondientes a materias de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación.
+> Se modifica por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
 
-4. En cualquier caso, la Comunidad de Madrid podrá asumir las demás competencias que la legislación del Estado reserve a las Comunidades Autónomas o a la de Madrid específicamente.
-
-5. Los procedimientos establecidos en los apartados anteriores se seguirán también para la asunción por la Comunidad de aquellas competencias que, reguladas en este Estatuto, están incluidas en el ámbito del artículo 149 de la Constitución.
+> Su anterior numeración era art. 30.
