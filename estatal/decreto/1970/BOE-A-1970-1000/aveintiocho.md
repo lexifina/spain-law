@@ -8,11 +8,13 @@ Si el interesado, atendiendo la invitación, ingresase las cuotas adeudadas dent
 
 Tres. No producirán efectos para las prestaciones:
 
-a) Las cotizaciones efectuadas en relación con personas que se encuentren indebidamente en alta en este Régimen Especial por no estar incluidas en su campo de aplicación en los períodos a que aquéllas correspondan.
+a) (Derogada)
 
 b) Las diferencias en las bases de cotización resultantes de aplicar una base superior a la que corresponda a la persona de que se trate, por el período a que se refieran.
 
 c) Las cotizaciones que por cualquier otra causa hubiesen sido ingresadas indebidamente, en su importe y períodos correspondientes.
+
+> Se deroga la letra a) del apartado tres por la disposición derogatoria única.2 del Real Decreto 84/1996, de 26 de enero. Ref. BOE-A-1996-4447.
 
 > Se modifica el apartado tres por el art. 5 del Real Decreto 2110/1994, de 28 de octubre. Ref. BOE-A-1994-27176.
 

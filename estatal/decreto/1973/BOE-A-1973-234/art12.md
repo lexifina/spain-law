@@ -1,3 +1,5 @@
 ## Art. 12. Nacimiento de la obligación.
 
-La obligación de solicitar la inscripción en el censo nace desde el momento en que el trabajador reúna las condiciones que determinan su inclusión en el campo de aplicación de este Régimen Especial.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.3 del Real Decreto 84/1996, de 26 de enero. Ref. BOE-A-1996-4447.

@@ -1,1 +1,3 @@
 ## Sección tercera. Reconocimiento del derecho y comunicación de datos
+
+> Se deroga por la disposición derogatoria única.1.4 del Reglamento aprobado por el Real Decreto 84/1996, de 26 de enero. Ref. BOE-A-1996-4447.

@@ -1,5 +1,5 @@
 ## Art. 11. Disposición general.
 
-1. La inscripción de los trabajadores en el censo del Régimen Especial Agrario de la Seguridad Social será obligatoria para todos los incluidos en su campo de aplicación.
+(Derogado)
 
-2. La inscripción de los trabajadores se llevará a cabo en dos secciones separadas del censo, según se trate de trabajadores por cuenta ajena o por cuenta propia, y sin distinción dentro de los primeros entre fijnos y eventuales.
+> Se deroga por la disposición derogatoria única.1.3 del Real Decreto 84/1996, de 26 de enero. Ref. BOE-A-1996-4447.

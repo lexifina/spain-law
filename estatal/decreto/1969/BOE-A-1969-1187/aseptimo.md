@@ -1,3 +1,5 @@
 ## Artículo séptimo. Nacimiento de la obligación de solicitar la afiliación y el alta.
 
-La obligación de solicitar la afiliación, en su caso, y el alta en la Mutualidad nace desde el momento en que los empleados de hogar reúnan las condiciones que determinan su inclusión en el campo de aplicación de este Régimen Especial.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 84/1996, de 26 de enero. Ref. BOE-A-1996-4447.

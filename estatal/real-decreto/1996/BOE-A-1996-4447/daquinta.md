@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Habilitación para la implantación, modificación y cumplimentación del modelaje para la aplicación del Reglamento.
+
+Se faculta a la Dirección General de la Tesorería General de la Seguridad Social para establecer y, en su caso, modificar, el modelaje necesario para la aplicación de lo dispuesto en este Reglamento, a excepción del modelo oficial del Libro de Matrícula y del Rol de las embarcaciones, así como para dictar las instrucciones necesarias para la implantación y cumplimentación de aquél, ajustándose, en todo caso, a lo establecido en este Reglamento y demás disposiciones de aplicación y desarrollo.

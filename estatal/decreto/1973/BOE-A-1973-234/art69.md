@@ -1,3 +1,5 @@
 ## Art. 69. Realización de trabajos comprendidos en otros Regímenes.
 
-Los trabajadores inscritos en el censo que realicen ocasionalmente trabajos comprendidos en otro Régimen distinto de la Seguridad Social no tendrán obligación de cotizar en el Régimen Especial Agrario por aquellas mensualidades naturales y completas que acrediten haber cotizado en el otro Régimen. Los trabajadores que se encuentren en esta situación continuarán inscritos en el censo, de acuerdo con lo previsto en el apartado b) del número 2 del artículo 17, pero no tendrán derecho, mientras subsista tal situación, a percibir prestaciones económicas de la Mutualidad Nacional Agraria. Transcurridos tres meses en la aludida situación, se entenderá que la misma ha perdido su carácter de ocasionalidad y, en consecuencia, procederá la baja del trabajador en el censo.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.3 del Real Decreto 84/1996, de 26 de enero. Ref. BOE-A-1996-4447.

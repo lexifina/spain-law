@@ -1,0 +1,5 @@
+## Disposición adicional primera. Fechas de exigibilidad y disponibilidad del número de la Seguridad Social y del documento identificativo. Acuerdos sobre la expedición del documento.
+
+1. En el ámbito de aplicación fijado en el artículo 1 de este Reglamento, el Secretario general para la Seguridad Social, a propuesta del Director general de la Tesorería General, determinará, en función de las posibilidades de gestión, las fechas de asignación y de exigibilidad del número de la Seguridad Social y en las que se facilitará el documento identificativo de situaciones en la Seguridad Social regulados en los artículos 21 y 22.
+
+2. Si, en virtud de convenios con las autoridades sanitarias competentes en la gestión de la asistencia sanitaria de la Seguridad Social, se acordare expedir un único documento que incluya tanto el relativo a la dispensación de las prestaciones sanitarias como aquel a que se refiere el artículo 22 de este Reglamento, los datos contenidos en el documento único que tengan relación con la organización y gestión de la asistencia sanitaria serán los que se establezcan en dichos Convenios.

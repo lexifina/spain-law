@@ -1,3 +1,5 @@
 ## Artículo séptimo. Pluriactividad.
 
-El alta, así como la cotización, serán únicas para quienes realicen varias actividades de las que den lugar a la inclusión en el campo de aplicación de este régimen especial y corresponderán solamente por una de aquellas actividades que elija el propio interesado.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 84/1996, de 26 de enero. Ref. BOE-A-1996-4447.
