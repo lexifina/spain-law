@@ -84,11 +84,11 @@ Artículo 93.
 
 1. Tratándose de instalaciones nucleares y de las radiactivas de primera categoría, las infracciones en materia de energía nuclear serán sancionadas:
 
-a) Las infracciones muy graves, con multa de hasta 500.000.000 de pesetas.
+a) Las infracciones muy graves, con multa de hasta 3.005.60,52 de euros.
 
-b) Las infracciones graves, con multa de hasta 100.000.000 de pesetas.
+b) Las infracciones graves, con multa de hasta 601.012,10 de euros.
 
-c) Las infracciones leves, con multa de hasta 10.000.000 de pesetas.
+c) Las infracciones leves, con multa de hasta 60.101,21 de euros.
 
 2. Las infracciones muy graves y graves podrán dar lugar, conjuntamente con las multas previstas, a la revocación o suspensión temporal de los permisos, licencias o autorizaciones.
 
@@ -119,3 +119,5 @@ Artículo 95.
 Las infracciones a que se refiere la presente Ley prescribirán: las muy graves, a los cinco años; las graves, a los tres años, y las leves, al año. El término de la prescripción comenzará a correr desde el día en que se hubiera cometido la infracción. La prescripción se interrumpirá desde el momento en que el procedimiento se dirija contra el presunto infractor, con conocimiento del interesado.
 
 Las sanciones prescribirán: las impuestas por faltas muy graves, a los cinco años; las impuestas por faltas graves, a los tres años, y las impuestas por faltas leves, al año. El tiempo de prescripción comenzará a correr desde la fecha en que la resolución sancionadora sea firme, interrumpiéndose la prescripción por la iniciación, con el conocimiento del interesado, del procedimiento correspondiente.»
+
+> Se convierten a euros las cuantías contempladas en el art. 93 por el art. 1 y anexo de la Resolución de 28 de septiembre de 2001. Ref. BOE-A-2001-18591
