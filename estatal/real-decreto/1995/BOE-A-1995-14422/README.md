@@ -97,3 +97,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO IX](anix.md)
 - [ANEXO X](anx.md)
 - [ANEXO XI](anxi.md)
+- [ANEXO XII](anxii.md)
