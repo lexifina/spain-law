@@ -15,3 +15,5 @@ c) Si la multa fuese superior a 50.000 pesetas, al Ministro de Agricultura.
 4. Las infracciones a la Ley 11/1971, de 30 de marzo, prescribirán a los cinco años de su comisión.
 
 5. Contra los acuerdos imponiendo las multas que autoriza el presente Decreto podrán presentar los sancionados los recursos reglamentarios.
+
+> Véanse los arts. 10 y 18 del Real Decreto 2177/1973, de 12 de julio. Ref. BOE-A-1973-1310., en lo relativo a cuantías máximas y autoridades a quienes corresponden las resoluciones de los expedientes sancionadores.
