@@ -1,48 +1,64 @@
 ## ANEXO A
 
-## Especies incluidas en el ámbito de aplicación del Reglamento
+## Especies incluidas en el ámbito de aplicación:
 
-Acelga: Beta vulgaris L. var, vulgaris.
+Acelga: Beta vulgaris L. Var. vulgaris.
+
+Achicoria Silvestre: Cichorium intybus L. (partim).
 
 Alcachofa: Cynara scolymus L.
 
 Apio: Apium graveolens L.
 
-Berenjena: Solanum melongena L.
+Berejena: Solanum melongena L.
 
 Borraja: Borrago officinalis L.
 
-Bróculi: Brassica olerácea L. convar. botrytis Alef. var. cymosa Dush.
+Broculi: Brássica olerácea L. Convar. botrytis Alef. Var. cynosa Duch.
 
-Calabaza: Cucurbita máxima Dush.
+Calabaza: Cucúrbita máxima Dush.
 
-Calabacín: Cucurbita pepo L.
+Calabaza de Peregrino: Legenaria siceraria (Molina) Standl.
 
-Cardo: Cynara cardunculus L.
+Calabaza Moscada: Cucúrbita moschata Dush.
+
+Calabacín: Cucúrbita pepo L.
+
+Cardo: Cynara cardúnculus L.
 
 Cebolla: Allium cepa L.
 
-Chirivía: Pastinaca sativa L.
+Cebollino: Allium schoenoprasum L.
 
-Col de Bruselas: Brassica olerácea L. convar. olerácea var. gemmifera DC.
+Chirivia: Pastinaca sativa L.
 
-Col de Milán: Brassica olerácea L. Convar. capitata (L.) Alef var. sabanda L.
+Col de Bruselas: Brássica olerácea L. convar. olerácea var.
 
-Coliflor. Brassica olerácea L. convar. botrytis (L.) Alef. var. botrytis L.
+gemmifera DC.
 
-Colinabo: Brassica napus L. var. napobrassica (L.) Reich.
+Col de Milán: Brássica olerácea L. convar capitata L. Alef. var.
 
-Colirrábano: Brassica olerácea L. convar. acephala (DC.) Alef var. gongylodes.
+sabauda L.
 
-Col repollo chino: Brassica pekinensis (Lour.) Rupr.
+Coliflor: Brássica olerácea L. convar. botrytis L. Alef. var. botrytis L.
 
-Col forrajera o berza: Brassica olerácea L. convar. acephala (DC.) Alef. var. sabellica L.
+Colinabo: Brássica napus L. var. napobrássica L. Reich.
 
-Endivia y achicoria silvestre: Cichorium intybus L. (partim).
+Colirrábano: Brássica olerácea L. var. acephala DC Alef. var.
+
+gongylodes.
+
+Col Repollo Chino: Brássica pekinensis (Lour) Rupr.
+
+Col forrajera o berza: Brássica olerácea L. convar. acephala DC Alef.
+
+var. sabellica L.
+
+Endivia: Cichorium intybus L. (partim).
 
 Escarola: Cichorium endivia L.
 
-Espárrago: Asparagus officinalis L.
+Espárrago: Asparagus officcinalis L.
 
 Espinaca: Spinacea olerácea L.
 
@@ -58,19 +74,19 @@ Judía escarlata: Phaseolus coccineus L.
 
 Lechuga: Lactuca sativa L.
 
-Lombarda: Brassica olerácea L. convar. capitata (L.) Alef. var. rubra DC.
+Lombarda: Brássica olerácea L. convar. capitata L. Alef.var.rubra DC.
 
 Melón: Cucumis melo L.
 
-Nabo: Brassica rapa L. var. rapa.
+Nabo: Brássica rapa L. var. rapa.
 
 Pepino: Cucumis sativus L.
 
-Perejil: Petroselinum crispum (Miller) Nyman ex. A. W. Hill.
+Perejil: Petroselinum crispum, (Miller) Nyman ex. A.W. Hilll.
 
-Perifollo: Anthriscus cerefolium (L.) Hoffm.
+Perifollo: Anthriscus cerefolium L. Hoftm.
 
-Pimiento: Capsium annuum L.
+Pimiento: Cápsicum annuum L.
 
 Puerro: Allium porrum L.
 
@@ -78,17 +94,19 @@ Rábano y rabanito: Raphanus sativus L.
 
 Remolacha de mesa: Beta vulgaris L. var. conditiva Alef.
 
-Repollo: Brassica olerácea L. convar. capitata (L.) Alefvar. alba DC.
+Repollo: Brássica olerácea L. convar. capitata L. Alef. var. alba DC.
 
 Salsifi blanco: Tragopogon porrifolium L.
 
-Salsifí negro o escorzonera: Scorzonera hispánica I.
+Salsifi negro o Escorzonera: Scorzonera hispánica L.
 
 Sandía: Citrullus lanatus (Thunb.) Matsum. et Nakai.
 
-Tomate: Lycopersicon lycopersicum (L.) Karsten ex Farw.
+Tomate: Lycopersicon lycopersicum L. Karrsten ex. Farw.
 
 Zanahoria: Daucus carota L.
+
+> Se modifica por el art. único de la Orden APA/2047/2003, de 10 de julio. Ref. BOE-A-2003-14631.
 
 > Se modifica por el art. único de la Orden de 9 de julio de 1990. Ref. BOE-A-1990-17808.
 

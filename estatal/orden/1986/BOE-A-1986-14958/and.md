@@ -4,21 +4,21 @@
 
 1 de febrero: Espárrago.
 
-1 de marzo: Judía y judía escarlata.
+1 de marzo: Judía y Judía escarlata.
 
-1 de abril: Acelga, achicoria, apio, borraja, bróculi, cardo. col Bruselas, col Milán, col forrajera o berza, col repollo chino, coliflor, colinabo, colirrábano, endivia, escarola, hinojo, lombarda, rábano y rabanito, remolacha de mesa, repollo, salsifí y zanahoria.
+1 de abril: Acelga, Achicoria, Apio, Borraja, Bróculi, Cardo, Col de Bruselas, Col de Milán, Col forrajera o Berza, Col repollo chino, Coliflor, Colinabo, Colirrábano, Endivia, escarola, Hinojo, Lombarda, Rábano y Rabanito, Remolacha de mesa, Repollo, Salsifi y Zanahoria.
 
-1 de mayo: Nabo, perejil y espinaca.
+1 de mayo: Nabo, Perejil y Espinaca.
 
-1 de jumo: Alcachofa.
+1 de junio: Alcachofa.
 
-1 de julio: Cebolla temprana y perifollo.
+1 de julio: Berenjena, Calabacín, Cebolla temprana, Cebollino, Lechuga, Melón, Pepino, Perifollo, Pimiento, Tomate.
 
-1 de septiembre: Guisante y habas.
+1 de septiembre: Guisantes y Habas.
 
-1 de diciembre: Berenjena y calabaza, calabacín, chirivía, lechuga, melón, pepino, pimiento, puerro, sandía y tomate.
+1 de diciembre: Berenjena, Calabaza, Calabaza de peregrino, Calabaza moscada, Calabacín, Cebolla tardía, Chirivia, Lechuga, Melón, Pepino, Pimiento, Puerro, Sandía y Tomate.
 
-15 de diciembre: Cebolla tardía.
+> Se modifica por el art. único de la Orden APA/2047/2003, de 10 de julio. Ref. BOE-A-2003-14631.
 
 > Se modifica por el art. único de la Orden de 9 de julio de 1990. Ref. BOE-A-1990-17808.
 
