@@ -20,17 +20,7 @@ Que el riesgo directo o indirecto total en los negocios de cualquier país, cons
 
 Aquellos cuyo titular tenga riesgos contraídos en el conjunto de los negocios en España, y esté incurso en alguna de las situaciones especiales especificadas en la letra e) de la norma tercera, o tenga clasificado algún riesgo como dudoso, sea cual fuere su causa y cuantía.
 
-c) Acciones y participaciones:
-
-Se declarará, asimismo, el riesgo por acciones o participaciones cuando su valor contable sea igual o superior a un millón de pesetas.
-
-El riesgo directo total, a los efectos anteriores, será la suma de todos los créditos dinerarios dispuestos y disponibles, los principales pendientes en las operaciones de arrendamiento financiero, los créditos de firma y el valor nominal de los títulos de renta fija. Se referirán a la totalidad de los unipersonales y solidarios que afecten al titular y a la parte correspondiente de los que lo hagan de forma mancomunada.
-
-En el cálculo de los riesgos indirectos, no será obligatorio considerar sumandos parciales inferiores a cinco millones de pesetas.
-
-En el caso de las sucursales en el extranjero, si la legislación de algún país de acogida prohibiese proporcionar los datos solicitados, se comunicará esta circunstancia a la Oficina de Documentación y Central de Riesgos.
-
-Para que no se produzcan duplicidades en la información, las entidades no incluirán en la información pormenorizada los importes reflejados en sus balances patrimoniales procedentes de redescuento o de adquisición por endoso con responsabilidad de efectos no vencidos, cuando en algún endoso anterior figure cualquier entidad declarante de las señaladas en la norma primera.
+Las entidades declarantes no incluirán los importes reflejados en sus balances patrimoniales procedentes de redescuento o endoso con responsabilidad de efectos no vencidos, o de riesgos adquiridos por transferencia (según se define ésta en la norma decimoquinta de la Circular 4/1991, de 19 de junio), cuando el cedente sea una entidad declarante a la CIR.
 
 3. La información pormenorizada se rendirá según el formato que se describe en los anejos I y II.
 
@@ -49,3 +39,5 @@ La segunda, anejo II.b), para riesgos solidarios, también se clasifica por titu
 5. El Banco de España podrá solicitar de las entidades declarantes fotocopias del documento nacional de identidad o número de identificación fiscal de cualquier titular por ellas declarado.
 
 6. Los créditos o valores de renta fija impagados dejarán de declararse a la CIR solo cuando prescriban las acciones legales de la entidad tendentes a lograr su recuperación, aunque se hayan provisionado plenamente o se encuentren en la situación contable de suspensos.
+
+> Se modifica el apartado 2 por la norma única de la Circular 6/1998, de 29 de mayo. Ref. BOE-A-1998-13844.

@@ -24,7 +24,7 @@ Instrucciones complementarias al anejo III:
 
 2. El campo «garantía» reflejará una R cuando corresponda a las claves A, B o C de la cuarta posición de la clave de riesgo, una F para las claves D, E, F o H, y aparecerá en blanco para la clave V.
 
-3. El campo «situación» reflejará una S cuando corresponda a la clave J de la quinta posición, y una M para las claves E a I, figurando en blanco en los demás casos.
+3. El campo «Situación» reflejará una S cuando corresponda a la clave J de la quinta posición, una C cuando se corresponda con la L, y una M para las claves E a I, figurando en blanco en los demás casos.
 
 4. El campo «clase de riesgo» aclara el tipo de riesgo y reflejará las siguientes claves:
 
@@ -53,3 +53,5 @@ CDOC Riesgos con clave F en primera posición.
 INDR Riesgos con clave H o I en primera posición.
 
 Este informe, cuando se utilice a efectos de la norma novena, apartado 1, incluirá una columna adicional para las entidades declarantes del riesgo.
+
+> Se modifica el apartado 3 por la norma única de la Circular 6/1998, de 29 de mayo. Ref. BOE-A-1998-13844.

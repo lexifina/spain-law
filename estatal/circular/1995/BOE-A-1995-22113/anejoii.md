@@ -58,19 +58,19 @@ H. Riesgo indirecto: Aceptantes de efectos.
 
 I. Riesgo indirecto: Resto de situaciones.
 
-J. Productos devengados por activos dudosos.
+J. Productos vencidos y no cobrados de activos dudosos.
 
 K. Operaciones de arrendamiento financiero.
 
-L. «Factoring» sin recurso con inversión.
+L. Operaciones sin recurso con inversión.
 
 M. «Factoring» sin recurso sin inversión.
 
-N. Acciones y participaciones no admitidas a cotización.
+N. (Suprimida)
 
-O. Acciones y participaciones admitidas a cotización. Ordinarias.
+O. (Suprimida)
 
-P. Acciones y participaciones admitidas a cotización. Preferentes.
+P. (Suprimida)
 
 Q. Préstamos o créditos transferidos a terceros.
 
@@ -164,29 +164,45 @@ C. Dudoso no por morosidad.
 
 D. Dudoso vencido (no moroso).
 
-E. Moroso con un máximo de seis meses desde su vencimiento, o tres años en el caso de los activos a que se refiere la Circular 4/1991, norma undécima, 4.a.2).
+E. Moroso con más de tres meses, sin superar los seis, transcurridos desde su vencimiento.
 
-F. Moroso con un máximo de doce meses desde su vencimiento, o cuatro años en el caso antes indicado.
+F. Moroso con más de seis meses, sin superar los doce, transcurridos desde su vencimiento.
 
-G. Moroso con un máximo de dieciocho meses desde su vencimiento, o cinco años en el caso antes indicado.
+G. Moroso con más de doce meses, sin superar los dieciocho, transcurridos desde su vencimiento.
 
-H. Moroso con un máximo de veintiún meses desde su vencimiento, o seis años en el caso antes indicado.
+H. Moroso con más de dieciocho meses, sin superar los veintiuno, transcurridos desde su vencimiento.
 
-I. Moroso con más de veintiún meses desde su vencimiento, o seis años en el caso antes indicado.
+I. Moroso con más de veintiún meses transcurridos desde su vencimiento.
 
 J. En suspenso.
 
 K. Efectos redescontados.
 
+L. Crédito procedente de un convenio de acreedores.
+
 Notas a las posiciones:
 
-(1) Los conceptos que se usan son idénticos a los usados en la circular contable.
+(1) Los conceptos utilizados para explicar las claves de las posiciones se corresponden con los de la Circular Contable 4/1991, de 14 de junio, con las siguientes precisiones o salvedades para los contenidos en la quinta posición:
+
+a) Los saldos contables dudosos deberán tener en la quinta posición alguna de las claves C a I, o L, de acuerdo con los criterios que se indican en las letras que siguen.
+
+b) Con las claves E, F, G, H, I, sólo se recogerán saldos vencidos y no pagados con más de tres meses transcurridos desde su vencimiento, con la salvedad que se indica en la letra d) que sigue.
+
+c) Cuando una clase de riesgo de un titular tenga varias cuotas morosas, con antigüedades diferentes, se agruparán todas en las clave de mayor antigüedad.
+
+d) Los saldos clasificados en activos dudosos sin que hayan vencido, en virtud de lo dispuesto en el apartado 2.a) de la norma décima de la Circular 4/1991, de 14 de junio, se declararán con clave C; a su vencimiento pasarán inmediatamente a la clave E, o a la que corresponda, en su caso, en virtud de la letra c) precedente.
+
+e) Con clave J se declararán los activos en suspenso.
+
+f) Los créditos procedentes de un convenio de acreedores se declararán con clave L por el importe resultante de deducir las quitas que se hayan pactado. Caso de incurrir posteriormente en mora, pasarán a presentar claves D a I, según corresponda, con el importe que proceda.
 
 (2) Los créditos de dinero se han dividido en comerciales o financieros; los primeros corresponden a los que así se denominan en el balance; los segundos, al resto, con exclusión de los que tengan otra ubicación expresa en la primera posición.
 
 (3) Los riesgos que tienen en la primera posición C, D y E (avales) no podrán tener en la quinta posición las claves E, F, G, H, I, J, K. Los saldos deudores originados por el pago de los avales prestados se declararán, desde el momento en que se produzcan, con clave B en la primera posición, y D en la quinta. A partir de la fecha del nacimiento del saldo deudor, se contarán los plazos para la aplicación de las claves E en adelante en la quinta posición.
 
 (4) Los riesgos que comienzan por clave J llevarán en la tercera posición la clave A, y en la quinta posición la misma clave que los activos que los devengan.
+
+La clave L en primera posición recogerá el factoring sin recurso con inversión, el descuento sin recurso contra el cedente, o la adquisición de derechos de cobro u otras operaciones similares sin recurso.
 
 (5) La clave X en primera posición se referirá exclusivamente a los disponibles dentro de las pólizas globales de riesgo conocidas como de «multiuso» y del que el titular, según el condicionado recogido en las mismas, puede disponer en diferentes clases y/o instrumentaciones.
 
@@ -204,10 +220,10 @@ La quinta posición de las cantidades disponibles que lleven X en la primera ser
 
 (10) Para cumplimentar la cuarta posición se tendrá en cuenta que, si se trata de garantías genéricas que cubran diversas operaciones, esas garantías se asignarán a las operaciones, opcionalmente, hasta donde alcancen.
 
-(11) En la quinta posición, las claves posteriores predominan sobre las anteriores cuando pueda aplicarse más de una. Por ejemplo, los créditos dudosos vencidos más de tres meses no figurarán en la clave D, sino en la de morosos.
+(11) En la quinta posición, cuando pueda aplicarse más de una clave, el orden de prelación, serán K, J, I, H, G, F, E, D, L, C, B, A, presente siempre lo señalado en la nota 1.f).
 
 (12) La clave G en primera posición se aplicará a las obligaciones y otros valores, incluso efectos negociables, que cumplan lo dispuesto en la norma 27 de la Circular 4/1991 y, en consecuencia, deban ser contabilizados en el epígrafe 6 del activo del balance reservado.
 
 (13) Los créditos que, por razón de su baja calidad, se adquieran por debajo de su precio de reembolso nacerán, al menos, con clave C en la quinta posición.
 
-(14) Las acciones y participaciones (claves N, O o P en primera posición) llevarán siempre en las posiciones tercera a quinta la clave MVA.
+> Se modifica por la norma única de la Circular 6/1998, de 29 de mayo. Ref. BOE-A-1998-13844.

@@ -16,13 +16,11 @@ Los avales, afianzamientos y garantías personales en cualquier clase de crédit
 
 Los contraavales recibidos en garantía de los prestados.
 
-c) Acciones y participaciones.
-
 De los titulares:
 
 3. Se declararán a la CIR, con las limitaciones que señala la norma quinta, todos los titulares pertenecientes tanto al sector privado como al sector de las Administraciones Públicas, y cualquiera que sea su residencia, así como su personalidad o forma jurídica (personas físicas, sociedades mercantiles o civiles, cooperativas, asociaciones profesionales, cámaras de comercio, industria, navegación o mineras, sindicatos, fundaciones, asociaciones de consumidores o deportivas, partidos políticos, órdenes religiosas, otras entidades sin fines de lucro, Administración Central, organismos autónomos, Comunidades Autónomas, corporaciones locales, entidades de la Seguridad Social, etc.).
 
-No se considerarán declarables, por lo que respecta a los riesgos mencionados en las letras a) y b) del apartado 2 precedente, los titulares que estén, a su vez, obligados a declarar a la CIR según la norma primera, apartado 1, excepción hecha de las entidades de la clase b) y e) contenidas en la citada norma, así como de las entidades de financiación, las sociedades de arrendamiento financiero, y las sociedades de crédito hipotecario hasta su desaparición; con igual alcance, tampoco se declararán los bancos centrales y entidades de crédito extranjeras.
+Las entidades declarantes serán titulares declarables sólo de sus riesgos directos, excluidos de los mismos los de firma, los contraídos a través del Servicio Telefónico del Mercado de Dinero, los que se derivan de las cuentas a la vista y las cuentas mutuas, y los instrumentados con vencimiento inferior a un mes. Igual tratamiento recibirán las entidades de crédito y bancos centrales extranjeros; en el caso de los bancos centrales tampoco se declararán los depósitos obligatorios según la normativa del país de acogida.
 
 4. Los riesgos con pluralidades de personas se declararán según establece la norma sexta. Los riesgos de comunidades de bienes o sociedades de interés privado sin personalidad jurídica (artículo 1.669 del Código Civil) serán declarados como créditos pluripersonales.
 
@@ -34,6 +32,8 @@ En los casos de riesgos que figuren a nombre de una marca comercial o cualquier 
 
 En el descuento de efectos comerciales, se considerará titular al cedente, sin perjuicio de lo dispuesto en el apartado 2.b) precedente.
 
-El «factoring» con recurso e inversión se declarará por la parte invertida como crédito comercial al cedente, mientras que, si se hace sin recurso, el riesgo se atribuirá al obligado al pago y como tal «factoring».
+El "factoring" con recurso e inversión se declarará como crédito comercial al cedente; si se hace sin recurso, el riesgo se atribuirá al obligado al pago y como tal "factoring". Igual atribución se hará en los descuentos de efectos comerciales sin recurso contra el cedente, u operaciones similares.
 
 En las adquisiciones temporales de activos, el titular será el cedente, sea cual sea el activo cedido.
+
+> Se suprime el apartado 2.c) y se modifican los apartados 3, párrafo segundo y 4, penúltimo párrafo por la norma única de la Circular 6/1998, de 29 de mayo. Ref. BOE-A-1998-13844.
