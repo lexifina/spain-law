@@ -1,0 +1,5 @@
+## Disposición Transitoria única. Institutos de Medicina Legal.
+
+Donde estén en funcionamiento los Institutos de Medicina Legal, corresponderá al Director o Subdirector del Instituto organizar de forma rotativa los turnos de guardia de los médicos forenses y en su caso un funcionario de apoyo del propio Instituto o del órgano judicial de guardia, a propuesta del Consejo de Dirección, y con el mismo régimen que el previsto en la presente Orden. La determinación del número de efectivos que ha de integrar el servicio de guardia requerirá la aprobación del Director de Relaciones con la Administración de Justicia o del órgano equivalente de las Comunidades Autónomas que hayan asumido la gestión de funciones y servicios para la provisión de medios personales en materia de Justicia.
+
+Donde no existan los citados Institutos, las guardias de los Médicos Forenses se realizarán conforme a lo previsto en la presente Orden. La referencia a los Médicos Forenses contenida en los distintos apartados de la presente Orden se entenderá aplicable únicamente a aquellos ámbitos territoriales donde no esté en funcionamiento el Instituto de Medicina Legal.
