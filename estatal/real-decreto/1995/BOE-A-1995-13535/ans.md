@@ -2,6 +2,8 @@
 
 [El Reglamento se publicó en suplemento aparte. Los Anexos se han omitido. Consúltese el PDF oficial del suplemento.]
 
+> Véase la Orden PRE/2317/2002, de 16 de septiembre, por la que se modifican los anexos I, II, III, IV, V, VI, VII y VIII. Ref. BOE-A-2002-18438.
+
 > Véase la Orden de 5 de abril de 2001, por la que se modifican los anexos I, IV, V, VI y IX. Ref. BOE-A-2001-7617.
 
 > Véase la Orden de 5 de octubre de 2000, por la que se modifican los Anexos I, III, IV y VI. Ref. BOE-A-2000-18244.
