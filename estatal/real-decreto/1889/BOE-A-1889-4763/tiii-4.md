@@ -1,3 +1,5 @@
 ## TÍTULO III
 
-## Del contrato sobre bienes con ocasión del matrimonio
+## Del régimen económico matrimonial
+
+> Se modifica la rúbrica por el art. 3 de la Ley 11/1981, de 13 de mayo. Ref. BOE-A-1981-11198.
