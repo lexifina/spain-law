@@ -22,15 +22,18 @@ Nota segunda.-Las instalaciones anteriores, en cuanto sean de aplicación para l
 
 TABLA II
 
-| Instalación | Zona de seguridad radioeléctrica (en metros) | Superficie de limitación de alturas (% pendiente) |
+| Instalaciones | Zona de seguridad radioeléctrica (En metros) | Superficie de limitación de alturas (Porcentaje pendiente) |
 | --- | --- | --- |
-| Radiobaliza marcadora tipo -Z- (75 MHz) | 1.000 | 100 |
+| Radiobaliza marcadora tipo Z (75 MHz) | 1.000 | 100 |
 | Radiobaliza marcadora en abanico (75 MHz) | 1.000 | 100 |
 | Radiofaros no direccionales | 2.000 | 10 |
 | Radiofaro omnidireccional VHF (VOR), equipo medidor de distancia (DME) y TACAN | 3.000 | 3 |
 | Radiogoniómetro HF, VHF o UHF | 5.000 | 2 |
-| Radar de vigilancia y control | 5.000 | Entre -5 y + 2 |
+| Radar de vigilancia y control | 5.000 | Entre –5 y +2 |
+| Sistema de vigilancia y control de costa | 5.000 | Entre –10 y +2 |
 
 Nota.-Las instalaciones de aplicación para la navegación aérea se regirán por las normas específicas vigentes en la actualidad o las que en el futuro se dicten.
+
+> Se modifica la tabla II por el art. único del Real Decreto 2098/1985, de 6 de noviembre. Ref. BOE-A-1985-23214
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 115, de 15 de mayo de 1978. Ref. BOE-A-1978-12999
