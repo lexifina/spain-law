@@ -72,4 +72,32 @@
 
 (g) En jarabes máximo: 500 ppm.
 
+| Sustancias | N.º CAS | Alimentos | (mg/kg) |
+| --- | --- | --- | --- |
+| N-etil-2-isopropil-5-metil-ciclohexano carboxamida. | 39711-79-0. | Goma de mascar o chicle. | 1.200 |
+|  | Caramelos, confites y golosinas. | 100 |
+|  | Productos de confitería (incluidos los rellenos). | 100 |
+|  | Micropastillas para refrescar el aliento sin azúcares añadidos. | 2.250 |
+|  | Pastillas refrescantes muy aromatizadas para la garganta sin azúcares añadidos. | 1.200 |
+| Acetato de isoeugenilo. | 93-29-8. | Caramelos y productos horneados. | 15 |
+| Propionato de carvilo. | 97-45-0. | Caramelos y productos horneados. | 20 |
+| Aldehído ciclamen. | 103-95-7. | Caramelos y productos horneados. | 1 |
+| Hidroxicitronelal. | 107-75-5. | Caramelos y productos horneados. | 10 |
+| Heptincarbonato de metilo. | 111-12-6. | Caramelos y productos horneados. | 1 |
+| Octincarbonato de metilo. | 111-80-8. | Caramelos y productos horneados. | 1 |
+| Enantato de alilo. | 142-19.8. | Caramelos y productos horneados. | 6 |
+| 1,8-Octanoditiol. | 1191-62-4. | Derivados cárnicos; caldos y sopas. | 1 |
+| 2-Furoato de amilo. | 1334-82-3. | Caramelos y productos horneados. | 6 |
+| Hexanal propilenglicol acetal. | 1599-49-1. | Caramelos y productos horneados. | 5 |
+| Levunilato de butilo. | 2052-15-5. | Caramelos y productos horneados. | 5 |
+| Caprilato de alilo. | 4230-97-1. | Caramelos y productos horneados. | 5 |
+| Citral dietil acetal. | 7492-66-2. | Condimentos. | 10 |
+| Citral dimetil acetal. | 7549-37-3. | Caramelos y productos horneados. | 30 |
+| 1,2-Butanoditiol. | 16128-68-0. | Derivados cárnicos; caldos y sopas. | 1 |
+| 1,3-Butanoditiol. | 24330-52-7. | Derivados cárnicos; caldos y sopas. | 1 |
+| Ácido 5 y 6-decenoico. | 72881-27-7. | Bebidas no alcohólicas. | 5 |
+|  |  | Caramelos y productos horneados. | 20 |
+
+> Se modifica por el art. único.2 del Real Decreto 4/2004, de 9 de enero. Ref. BOE-A-2004-882.
+
 > Redactado conforme a la corrección de errores publicada en BOE núm. 10, de 11 de enero de 1991. Ref. BOE-A-1991-632.

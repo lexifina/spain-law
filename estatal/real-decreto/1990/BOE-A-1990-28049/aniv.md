@@ -124,6 +124,7 @@
 | 3-(4-Isopropil-fenil)-propanal | 2261 |
 | lsovalerianato de ciclohexilo | 459 |
 | Isovalerianato de isobornilo | 452 |
+| Lactato de L-mentilo | 59259-38-0 |
 | 3-Mercapto-2-butanol | 760 |
 | 3-Mercapto-2-pentanona | 2327 |
 | 2, o 3, o 10-Mercaptopinano | 2332 |
@@ -167,3 +168,5 @@
 | 9-Undecenal | 123 |
 | 10-Undecenal | 122 |
 | 10-Undeciienato de etilo | 10634 |
+
+> Se modifica por el art. único.1 del Real Decreto 4/2004, de 9 de enero. Ref. BOE-A-2004-882.
