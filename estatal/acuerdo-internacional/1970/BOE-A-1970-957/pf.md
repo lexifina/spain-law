@@ -4,9 +4,13 @@
 
 Con motivo de la firma, en el día de hoy, del Convenio de Seguridad Social entre España y Suiza, denominado en adelante «el Convenio», los Plenipotenciarios han convenido las declaraciones siguientes:
 
-1. A efectos de la aplicación del Convenio, se entiende como territorio español las provincias peninsulares, islas Baleares, islas Canarias y las provincias del Norte de África.
+1. (Derogado)
 
 2. A efectos del Convenio, el término «residencia» significa estancia habitual.
+
+2a. El Convenio es igualmente aplicable a los refugiados en el sentido del Convenio de 28 de julio de 1951 y del Protocolo de 31 de enero de 1967, relativos al estatuto de los refugiados y de los apátridas, así como a los miembros de sus familias y a sus supervivientes, siempre que éstos basen sus derechos en los de los citados refugiados o apátridas, cuando residan en el territorio de uno de los Estados Contratantes. Se reservan las disposiciones más favorables de la legislación nacional.
+
+Debe entenderse como apátrida a aquella persona a la cual ningún Estado considera como súbdito suyo por aplicación de su legislación.
 
 3. La igualdad de trato enunciada en el artículo 2 del Convenio no se aplicará a las disposiciones legales suizas concernientes al seguro de vejez, supervivientes e invalidez facultativa de los súbditos suizos residentes en el extranjero, al seguro de vejez, supervivientes e invalidez de los súbditos suizos que trabajen en el extranjero por cuenta de un empresario en Suiza, así como a las prestaciones de asistencia concedidas a los súbditos suizos que residan en el extranjero.
 
@@ -20,7 +24,7 @@ Con motivo de la firma, en el día de hoy, del Convenio de Seguridad Social entr
 
 8. Los súbditos españoles residentes en Suiza que salgan de Suiza por un período máximo de un mes, no interrumpirán su residencia en Suiza a los efectos del artículo 8, párrafo 4, del Convenio.
 
-9. Se considerarán como asegurados en el seguro de invalidez suizo los súbditos españoles no domiciliados en Suiza que, como consecuencia de una enfermedad o de un accidente, hayan debido abandonar su actividad en Suiza, pero permanezcan en este país hasta que se declare la invalidez.
+9. Los reembolsos de cotizaciones abonadas al seguro suizo de vejez y supervivencia efectuados antes de la entrada en vigor del Convenio no constituyen obstáculo para la concesión de rentas extraordinarias en aplicación del artículo 10 del Convenio; en estos casos, sin embargo, la cuantía de las cotizaciones reembolsadas se detrae de la de las rentas a abonar.
 
 10. Los súbditos españoles residentes en Suiza que salgan de Suiza por un período máximo de tres meses por año civil, no interrumpirán su residencia en Suiza a los efectos del artículo 10 del Convenio. Por el contrario, los períodos durante los cuales los súbditos españoles residentes en Suiza hubieran estado exentos del seguro de vejez, supervivientes e invalidez suizo no serán computados para el cumplimiento de los plazos previstos en el citado artículo 10 del Convenio.
 
@@ -34,7 +38,7 @@ Para beneficiarse de los créditos laborales, el trabajador suizo deberá haber 
 
 13. Las disposiciones del Convenio relativas a la colaboración administrativa y sanitaria, así como el artículo 28, se aplicarán igualmente en España a los accidentes no profesionales cubiertos por el Organismo competente suizo.
 
-14. Cuando los trabajadores españoles empleados en Suiza no se beneficien ya de un seguro de asistencia médico-farmacéutica al amparo de la Ley federal de 18 de junio de 1911 sobre seguros de enfermedad y accidentes, su empresario deberá encargarse de que contraten tal seguro y si no lo hicieran, deberá suscribirlo en su nombre. Podrá deducir de su salario la cotización correspondiente, a reserva de otros acuerdos entre las Partes interesadas.
+14. Cuando los trabajadores españoles empleados en Suiza -excepción hecha de aquellos que se benefician de un permiso de establecimiento- no se beneficien ya de un seguro de asistencia médico-farmacéutica al amparo de la Ley Federal de 13 de junio de 1911, sobre seguros de enfermedad y accidentes, su empresario deberá cuidar de que aquéllos contraten tal seguro, y si no lo hicieran, deberá suscribirlo en su nombre. Podrá deducir de su salario la cotización correspondiente, a reserva de otros acuerdos entre las partes interesadas.
 
 15. El acceso al seguro de enfermedad suizo se facilitará de la forma siguiente:
 
@@ -62,6 +66,8 @@ La esposa y demás familiares beneficiarios del trabajador suizo comprendido en 
 
 Tanto en el caso del trabajador como en el de los familiares beneficiarios, solamente se computarán a efectos del cumplimiento de los períodos de espera en España, los de cotización efectuados en una Caja suiza reconocida de enfermedad, cuando se solicite la afiliación y alta del trabajador en la seguridad social española en un plazo de tres meses, a contar desde la fecha de su baja en la Caja de enfermedad suiza y siempre que no cambie de residencia, únicamente por seguir un tratamiento médico-sanitario.
 
+17. A petición suya y mediante el pago de las cotizaciones fijadas cada año por la autoridad española competente, los beneficiarios que residan en España de las diferentes categorías de pensiones de seguridad social previstas por la legislación federal suiza de seguridad social, así como las personal a su cargo que convivan con ellos, tendrán derecho a las prestaciones en especie de asistencia sanitaria previstas por la legislación española, en las mismas condiciones que los beneficiarios de pensiones españoles.
+
 El presente Protocolo Final constituye parte integrante del Convenio de Seguridad Social, concluido en esta fecha entre España y Suiza; será ratificado y surtirá efectos en las mismas condiciones y con la misma duración del Convenio.
 
 Hecho en dos ejemplares, uno en español y otro en francés, haciendo fe igualmente ambos textos en Berna el trece de octubre de mil novecientos sesenta y nueve.
@@ -69,3 +75,5 @@ Hecho en dos ejemplares, uno en español y otro en francés, haciendo fe igualme
 | Por el Estado Español, | Por la Confederación Suiza, |
 | --- | --- |
 | JUAN PABLO DE LOJENDIO | CRISTOFORO MOTTA |
+
+> Se deroga el punto 1, se añade el 2a y el 17 y se modifica el 9 y el 16 por el art. 1.13 a 17 del Convenio adicional de 11 de junio de 1982. Ref. BOE-A-1983-28339
