@@ -339,6 +339,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 267](a267.md)
 - [Artículo 268](a268.md)
 - [Artículo 269](a269.md)
+- [SECCIÓN 5](s5-3.md)
+- [Artículo 269 bis](a269bis.md)
 - [CAPÍTULO X](cx.md)
 - [SECCIÓN 1](s1-10.md)
 - [Artículo 270](a270.md)

@@ -1,3 +1,3 @@
-## Certificaciones especiales
+## Información continuada y dictámenes
 
-> Se modifica por el art. 2 del Real Decreto 3503/1983, de 21 de diciembre. Ref. BOE-A-1984-4585.
+> Se modifica por el art. 2.e) del Real Decreto 1867/1998, de 4 de septiembre. Ref. BOE-A-1998-22517.
