@@ -1,0 +1,1 @@
+> Las disposiciones relativas a las autorizaciones singulares no producirán efecto hasta que entren en vigor las normas reguladoras de las tasas por prestación de servicios postales según la disposición final 2.
