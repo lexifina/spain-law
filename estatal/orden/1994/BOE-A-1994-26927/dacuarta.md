@@ -1,0 +1,9 @@
+## Disposición adicional cuarta.
+
+A efectos de lo dispuesto en el artículo 2.º, 5, 5, del Real Decreto 1086/1989, de 28 de agosto, se entenderán como años de servicio en régimen de dedicación a tiempo completo los prestados antes de la entrada en vigor del Decreto 1332/1959, de 16 de julio, regulador de la dedicación exclusiva; los prestados desde el precitado Decreto siempre que el Profesor interesado hubiera optado, tras la entrada en vigor de la Ley General de Educación, 14/1970, de 8 de agosto, a cualquiera de los dos regímenes previstos en horario de dedicación exclusiva o plena; los prestados en excluisva o plena hasta le entrada en vigor del Real Decreto 898/1985, de 30 de abril; los prestados por los Profesores de áreas de Ciencias de la Salud que realicen actividad asistencial legalmente autorizada en una institución sanitaria y perciban complemento específico.
+
+Los criterios que anteceden serán de aplicación, en su caso, a los servicios prestados como Profesores contratados o interinos, teniendo en cuenta que los contratos de los niveles C o D son tipificables como de dedicación a tiempo completo.
+
+Asimismo, se entenderán en dedicación a tiempo completo los años de servicio prestados por los Profesores de las áreas de conocimiento de «Didáctica de la Expresión Musical, Plástica y Corporal» y de «Educación Física y Deportiva» en contratos no asimilados a las categorías de profesorado universitario, con compromiso de horario lectivo de diez y ocho horas o más.
+
+A efectos de la dedicación en los organismos públicos de investigación (OPIS), los servicios prestados en éstos se asimilarán, según el caso, a dedicación exclusiva, a plena, a tiempo completo o a tiempo parcial por analogía con las obligaciones docentes del profesorado universitario. Los mismos criterios regirán en relación a los centros privados de investigación.
