@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Oficiales y Suboficiales que cursan estudios de Ingeniera Aeronáutica.
+
+Los Oficiales y Suboficiales del Ejército del Aire acogidos, con anterioridad a la entrada en vigor de la Ley, a las Órdenes del Ministerio de Defensa 31/1977, de 30 de diciembre de 1976, por la que se conceden becas para cursar estudios de Ingenieros Técnicos Aeronáuticos o 32/1977, de 30 de diciembre de 1976, por el que se conceden becas para cursar estudios de Ingenieros Aeronáuticos Superiores, continuarán rigiéndose por las mismas, con la salvedad de que aquellos que finalicen la carrera de Ingeniería Técnica Aeronáutica sólo podrán acceder a la Escala Media del Cuerpo de Especialistas del Ejército del Aire.
