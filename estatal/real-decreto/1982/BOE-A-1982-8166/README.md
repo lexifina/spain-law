@@ -13,6 +13,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [preambulo](preambulo.md)
 - [Artículo único](aunico.md)
 - [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
 - [Disposición transitoria primera](primera.md)
 - [Disposición transitoria segunda](segunda.md)
 - [Disposición final primera](primera-2.md)
