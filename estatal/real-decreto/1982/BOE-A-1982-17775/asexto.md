@@ -2,4 +2,4 @@
 
 La convalidación o declaración de equivalencia de estudios parciales o totales o de los títulos correspondientes, será efectuada por el Ministerio de Educación y Ciencia, oído el Consejo Nacional de Educación.
 
-Igualmente corresponderá al citado Departamento la convalidación de estudios o de títulos extranjeros no universitarios por los correspondientes estudios o títulos españoles, de acuerdo con lo que disponga la legislación vigente.
+> Se deroga el párrafo segundo por la disposición derogatoria del Real Decreto 104/1988, de 29 de enero. Ref. BOE-A-1988-3987.

@@ -1,0 +1,7 @@
+Dado en Madrid a 29 de enero de 1988.
+
+JUAN CARLOS R.
+
+El Ministro de Educación y Ciencia,
+
+JOSÉ MARÍA MARAVALL HERRERO
