@@ -1,5 +1,5 @@
-## Disposición adicional undécima.
+## Disposición adicional undécima. Procedimientos administrativos instados ante misiones diplomáticas y oficinas consulares.
 
-Se añade un apartado f) al artículo 57.2 de la Ley Reguladora de la Jurisdicción Contencioso-Administrativa de 27 de diciembre de 1956:
+Los procedimientos instados ante las Misiones Diplomáticas y Oficinas Consulares por ciudadanos extranjeros no comunitarios se regirán por su normativa específica, que se adecuará a los compromisos internacionales asumidos por España y, en materia de visados, a los Convenios de Schengen y disposiciones que los desarrollen, aplicándose supletoriamente la presente Ley.
 
-«f) Acreditación de haber efectuado al órgano administrativo autor del acto impugnado, con carácter previo, la comunicación a que se refiere el artículo 110.3 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.»
+> Se modifica por el art. 2.2 de la Ley 4/1999, de 13 de enero. Ref. BOE-A-1999-847#asegundo.
