@@ -1,0 +1,1 @@
+Este Real Decreto Legislativo pasa a denominarse "Real Decreto Legislativo 1298/1986, de 28 de junio, sobre adaptación del derecho vigente en materia de Entidades de crédito al de las Comunidades Europeas", según establece el art. 39.1 de la Ley 26/1988, de 29 de julio. Ref. BOE-A-1988-18845.

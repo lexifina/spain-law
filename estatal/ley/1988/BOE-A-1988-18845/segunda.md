@@ -1,0 +1,11 @@
+## Disposición adicional segunda.
+
+1. El capital de las entidades de crédito que revistan la forma de sociedad anónima estará representado, en todo caso, por acciones nominativas.
+
+2. En la forma que se determine por el Gobierno, las entidades de crédito deberán informar al Banco de España sobre la composición de su accionariado o de las alteraciones que en la misma se produzcan. Tal información comprenderá, necesariamente, la relativa a la participación de otras entidades de crédito, nacionales o extranjeras, en su capital.
+
+3. Las entidades de crédito deberán hacer pública, en la forma y medida que se determine por el Gobierno, la participación de otras entidades de crédito, nacionales o extranjeras, en su capital, y su participación en el capital de otras entidades de crédito.
+
+4. Toda participación en el capital de una entidad de crédito española que, directa o indirectamente, suponga la titularidad o el control del 5 por 100 o más del capital social de la misma, habrá de ser comunicada a la propia entidad y al Banco de España dentro del plazo de diez días a partir de la fecha en que se iguale o supere dicho límite por quien resulte titular real de la participación, a cuyo efecto deberá computar las acciones que controle a través de cualesquiera otras personas físicas o jurídicas. Dicho deber de comunicación afectará, asimismo, a cualquier variación que se produzca en aquellas participaciones siempre que en virtud de la misma se alcance un porcentaje en el capital de la entidad que sea múltiplo de 5. Con independencia de las sanciones previstas en la presente Ley, en tanto no se efectúe la comunicación el adquirente no podrá ejercer los derechos políticos derivados de su participación. Los acuerdos adoptados con su participación podrán ser impugnados de acuerdo con lo establecido para la impugnación de acuerdos sociales en la normativa reguladora de la Ley de Sociedades Anónimas, estando el Banco de España legitimado para promover dicha impugnación. El Gobierno podrá elevar el porcentaje de participación a que se refiere este número para todas o alguna de las categorías de entidades de crédito.
+
+5. Lo dispuesto en esta disposición adicional se entiende sin perjuicio de lo establecido en el articulo 48 de la Ley de Ordenación Bancaria de 31 de diciembre de 1946.

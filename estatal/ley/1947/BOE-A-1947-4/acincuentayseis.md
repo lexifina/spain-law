@@ -1,15 +1,5 @@
 ## Artículo cincuenta y seis.
 
-Será sancionable el incumplimiento, por los Bancos y banqueros, de las disposiciones relativas a los siguientes extremos:
+(Derogado)
 
-a) Reparto de dividendos activos.
-
-b) Apertura de oficinas bancarias.
-
-c) Abonos o provisiones a los fondos de reserva.
-
-d) Remisión del balance y resúmenes de resultados a los organismos que corresponda, y sobre confección o formato de dichos documentos.
-
-e) Aplicación de tipos de interés, máximos o mínimos, o de tarifas de servicios ordenada por el Ministerio de Hacienda.
-
-f) Cualquier otro extremo regulado por normas de observancia obligatoria.
+> Se deroga por la disposición derogatoria de la Ley 26/1988, de 29 de julio. Ref. BOE-A-1988-18845.

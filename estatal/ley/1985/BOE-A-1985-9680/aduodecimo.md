@@ -1,3 +1,5 @@
 ## Artículo duodécimo.
 
-El Gobierno podrá establecer la obligación de que las Entidades de depósito hagan públicos, en la forma y condiciones que reglamentariamente se establezcan, los Balances y Cuentas de Resultados consolidados, a que se refiere el artículo octavo de la presente Ley, así como la información sobre su estructura patrimonial que juzgue relevante para sus accionistas y depositantes.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 26/1988, de 29 de julio. Ref. BOE-A-1988-18845
