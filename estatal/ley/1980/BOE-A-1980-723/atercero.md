@@ -1,13 +1,13 @@
-## Articulo tercero.
+## Artículo tercero.
 
-Las empresas distribuidoras legalmente constituidas tendrán derecho a la obtención de un máximo de cinco licencias de doblaje de películas extranjeras en cualquier lengua oficial española por cada película que acrediten tener contratada para su distribución en las condiciones siguientes:
+Uno. Las Empresas distribuidoras legalmente constituidas podrán distribuir películas comunitarias libremente.
 
-a) La primera licencia se concederá cuando la Administración tenga notificación de haber sido iniciado el rodaje de una película española, previamente contratada por el distribuidor solicitante de la licencia, o bien cuando éste haya adquirido mediante contrato los derechos de explotación de una película española terminada en el último semestre anterior a la entrada en vigor, de la presente Ley.
+Dos. Igualmente las citadas Empresas tendrán derecho a la obtención de un máximo de cuatro licencias de doblaje de películas de terceros países a cualquier lengua oficial española por cada película española que acrediten tener contratada para su distribución en las condiciones siguientes:
 
-b) La segunda licencia será concedida al distribuidor cuando éste acredite que la película ha sido estrenada en alguna de las poblaciones siguientes: Madrid, Barcelona, Valencia, Sevilla, Bilbao, Zaragoza, Málaga, La Coruña, Alicante o Valladolid.
+a) La primera licencia se concederá cuando el Instituto de la Cinematografía y de las Artes Audiovisuales tenga notificación de haberse iniciado el rodaje de una película española previamente contratada por el distribuidor solicitante de la licencia. Esta licencia quedará automáticamente anulada si la película no se presenta a calificación dentro de loa doscientos días siguientes al de inicio del rodaje. El Instituto de la Cinematografía y de las Artes Audiovisuales, previa justificación de los interesados, podrá prorrogar dicho plazo.
 
-c) La tercera licencia se concederá al distribuidor cuando éste acredite que la película ha conseguido unos ingresos brutos en taquilla de veinte millones de pesetas o cuando la citada película sea estrenada en veinte capitales de provincia, además de la que sirvió para la obtención de la segunda licencia.
+b) La segunda, tercera y cuarta licencia se otorgarán cuando se acredite que dicha película ha logrado unos ingresos brutos en taquilla de 30, 60 y 100 millones de pesetas, respectivamente.
 
-d) La cuarta licencia será concedida al distribuidor cuando éste acredite que la película ha obtenido unos ingresos brutos de taquilla por importe de treinta millones de pesetas.
+Tres. Para distribuir una película de nacionalidad de terceros países en versión doblada será requisito imprescindible la previa obtención de la licencia correspondiente.
 
-e) La quinta licencia se concederá al distribuidor cuando éste acredite que la película ha alcanzado una recaudación bruta en taquilla de ochenta y cinco millones de pesetas.
+> Se modifica por el art. único del Real Decreto Legislativo 1257/1986, de 13 de junio. Ref. BOE-A-1986-16988
