@@ -12,19 +12,22 @@ Tercero. Base imponible.–Será base imponible de la tasa, los ingresos brutos 
 
 La base imponible se determinará en régimen de estimación directa u objetiva. En el primer caso, el sujeto pasivo quedará obligado a realizar la liquidación tributaria en la forma y casos que reglamentariamente se determinen.
 
+Más de 660.000.000
+
 Cuarto. Tipos tributarios y cuotas fijas.
 
 Uno. Tipos tributarios:
 
 a) El tipo tributario general será del 20 por 100.
 
-b) En los casinos de juego se aplicará la siguiente tarifa:
+b) En los casinos de juegos se aplicará la siguiente tarifa:
 
-| Porción de la base imponible comprendida entre – Pesetas | Tipo aplicable – Porcentaje |
-| --- | --- |
-| 0 y 330.000.000 | 35 |
-| 330.000.000 y 660.000.000 | 45 |
-| Más de 660.000.000 | 55 |
+|  | Porción de base imponible comprendida entre pesetas | Tipo aplicable – Porcentaje |
+| --- | --- | --- |
+|  | Entre 0 y 200.000.000 | 20 |
+|  | Entre 200.000.000 y 330.000.000 | 35 |
+|  | Entre 330.000.000 y 660.000.000 | 45 |
+|  | Más de 660.000.000 | 55 |
 
 Dos. Cuotas fijas.
 
@@ -71,6 +74,8 @@ Uno. Con independencia de las sanciones que correspondan por aplicación de las 
 Dos. En la tasa que grava la explotación de máquinas o aparatos automáticos aptos para la realización de juegos de azar la efectividad de la suspensión temporal o definitiva de la autorización administrativa, a que se refiere el número anterior, se llevará a cabo mediante el precinto de la máquina o aparato a que la infracción se refiera. La misma máquina o aparato será asimismo embargada, quedando afecta al pago de las cantidades que en cada caso proceda.
 
 Séptimo.–(Sin efecto)
+
+> Se modifica el apartado 4.1 por el art. 83.2 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
 > Se modifica el apartado 4.1 por el art. 83.2 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
 

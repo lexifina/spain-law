@@ -48,13 +48,13 @@ b) A tal fin, se tomará como superficie de los locales la total comprendida den
 
 No obstante lo previsto en el párrafo anterior, sólo se tomará como superficie:
 
-1.º El 20 por 100 de la superficie no construida o descubierta y que se dedique a depósitos de materias primas o de productos de cualquier clase, secaderos al aire libre, depósitos de agua y, en general, a cualquier aspecto de la actividad de que se trate.
+1.º El 20 por 100 de la superficie no construida o descubierta y que se dedique a depósitos de materias primas o de productos de cualquier clase, secaderos al aire libre, depósitos de agua y, en general, a cualquier aspecto de la actividad de que se trate. No obstante lo anterior, tratándose de instalaciones deportivas directamente afectas a actividades gravadas, o a algún aspecto de éstas, sólo se computará el 5 por 100 de su superficie, excepto la ocupada por gradas, graderíos y demás instalaciones permanentes destinadas a la ubicación del público asistente a los espectáculos deportivos, de la cual se computará el 20 por 100.
 
 En consecuencia, no se computará, a ningún efecto, la superficie no construida o descubierta en la que no se realice directamente la actividad de que se trate, o algún aspecto de ésta, tal como la destinada a viales, jardines, zonas de seguridad, aparcamientos, etc.
 
 2.º El 40 por 100 de la superficie utilizada para actividades de temporada mediante la ocupación de la vía pública con puestos y similares.
 
-3.º El 50 por 100 de la superficie cubierta o construida de toda clase de instalaciones deportivas.
+3.º El 10 por 100 de la superficie cubierta o construida de toda clase de instalaciones deportivas, excepto la ocupada por gradas, graderíos y demás instalaciones permanentes destinadas a la ubicación del público asistente a los espectáculos deportivos, de la cual se computará el 50 por 100.
 
 4.º El 50 por 100 de la superficie de los locales destinados a la enseñanza en todos sus grados, cuando la actividad no esté exenta.
 
@@ -138,8 +138,6 @@ Cuotas provinciales y nacionales
 
 h) Los locales en los que los sujetos pasivos por cuota mínima municipal no ejerzan directamente sus actividades respectivas, tales como centros de dirección, oficinas administrativas, centros de cálculo, almacenes o depósitos para los que se esté facultado, etc., tributarán cada uno de ellos por una cuota mínima de las previstas en el párrafo segundo de apartado 1 de la Regla 10.ª Dicha cuota mínima estará integrada, exclusivamente, por el importe que resulte de aplicar el cuadro que corresponda de los contenidos en la letra d) anterior, sin que proceda ponderar dicho importe por aplicación del coeficiente resultante del cuadro contenido en la letra e).
 
-(Párrafo segundo suprimido)
-
 i) Cuando se tribute por cuota mínima municipal, en Municipios en los que no estuviere establecido el Impuesto Municipal sobre la Radicación a 31 de diciembre de 1991, la parte de la cuota correspondiente al elemento tributario superficie de los locales se reducirá aplicando los siguientes porcentajes:
 
 a) Durante 1992, el 80 % de reducción.
@@ -171,5 +169,7 @@ c) A los efectos de aplicar las letras anteriores se tomarán los datos referent
 Cuando en las industrias ocurra alguno de los casos de interdicción judicial, incendio, inundación, hundimiento, falta absoluta de caudal de aguas empleado como fuerza motriz o graves averías en el equipo industrial, los interesados darán parte a la Administración Gestora del impuesto, y en el caso de comprobarse plenamente la interdicción por más de treinta días, o el siniestro o paralización de la industria, podrán obtener la rebaja de la parte proporcional de la cuota, según el tiempo que la industria hubiera dejado de funcionar.
 
 No será de aplicación la reducción antes fijada a la industria cuya cuota esté regulada según el tiempo de funcionamiento.
+
+> Se modifica el apartado 1.F).b).1 y 3 por el art. 72.2 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
 > Se suprime el párrafo segundo del apartado 1.F).h) por el art. 78.2.5 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

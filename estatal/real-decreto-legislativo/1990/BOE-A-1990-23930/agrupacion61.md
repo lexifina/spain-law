@@ -46,11 +46,11 @@ Cuota de: 40.000 pesetas.
 
 Nota: Este epígrafe comprende el comercio al por mayor de pescados, crustáceos, moluscos, etc.
 
-Epígrafe 612.9 Comercio al por mayor de otros productos alimenticios n.c.o.p.
+Epígrafe 612.9 Comercio al por mayor de otros productos alimenticios, helados de todas clases, etc.
 
 Cuota de: 47.600 pesetas.
 
-Nota: Este epígrafe comprende el comercio al por mayor de productos alimenticios no especificados en los epígrafes anteriores del grupo «Comercio al por mayor de materias primas agrarias, productos alimenticios, bebidas y tabaco» (612), tales como arroz, harina, legumbres secas, azúcar, conservas, productos de confitería, frutos secos, encurtidos, café, té, cacao, especias, etc.
+Nota: Este epígrafe comprende el comercio al por mayor de productos alimenticios no especificados en los epígrafes anteriores del grupo «Comercio al por mayor de materias primas agrarias, productos alimenticios, bebidas y tabaco» (612), tales como arroz, harina, legumbres secas, azúcar, conservas, productos de confitería, frutos secos, encurtidos, café, té, cacao, especias, helados de todas clases, etc.
 
 ## Grupo 613. Comercio al por mayor de textiles, confección, calzado y artículos de cuero.
 
@@ -307,6 +307,8 @@ Epígrafe 619.9 Comercio al por mayor de otros productos n.c.o.p.
 Cuota de: 106.800 pesetas.
 
 Nota: Este epígrafe comprende el comercio al por mayor de productos no especificados en los epígrafes anteriores del grupo «Otro comercio al por mayor no especificado en los grupos 612 al 618» (619).
+
+> Se modifica el epígrafe 612.9 por el art. 72.1.2 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
 > Se modifica por el art. 75.1.12 a 16 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
 

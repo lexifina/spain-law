@@ -8,6 +8,10 @@ a) El sueldo, que corresponde al índice de proporcionalidad asignado a cada uno
 
 b) Los trienios, consistentes en una cantidad igual para cada grupo, por cada tres años de servicio en el Cuerpo o Escala, Clase o Categoría.
 
+En el caso de que un funcionario preste sus servicios sucesivamente en diferentes Cuerpos, Escalas, Clases o Categorías de distinto grupo de clasificación, tendrá derecho a seguir percibiendo los trienios devengados en los grupos anteriores.
+
+Cuando un funcionario cambie de adscripción a grupo antes de completar un trienio, la fracción de tiempo transcurrido se considerará como tiempo de servicios prestados en el nuevo grupo.
+
 c) Las pagas extraordinarias, que serán de dos al año por un importe mínimo cada una de ellas de una mensualidad del sueldo y trienios, se devengarán los meses de junio y diciembre.
 
 3. Son retribuciones complementarias:
@@ -26,4 +30,4 @@ d) Las gratificaciones por servicios extraordinarios, fuera de la jornada normal
 
 4. Los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.
 
-> Esta disposición entra en vigor el 1 de enero de 1985, según establece la disposición transitoria 12.
+> Se añaden dos párrafos al apartado 2.b) por la disposición adicional 7 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087

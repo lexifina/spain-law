@@ -46,6 +46,14 @@ Epígrafe 933.1 Enseñanza de conducción de vehículos terrestres, acuáticos, 
 
 Cuota de: 31.200 pesetas.
 
+Epígrafe 933.2. Promoción de cursos y estudios en el extranjero.
+
+Cuota de: 35.000 pesetas.
+
+Nota: Este epígrafe comprende la oferta, información y asesoramiento de los cursos y estudios que pueden realizarse en el extranjero, sin que, en ningún caso, autorice a la organización de los desplazamientos de los estudiantes.
+
+Asimismo, este epígrafe comprende la información y asesoramiento en orden al reconocimiento en España de los cursos realizados en el exterior, así como la presentación ante los órganos competentes de la Administración de solicitudes de homologación o convalidación de los estudios realizados en el extrajere, siempre que los mismos hayan sido promovidos por el sujeto pasivo, sin que, en ningún caso, autorice para la tramitación en general de homologaciones o convalidaciones de títulos.
+
 Epígrafe 933.9 Otras actividades de enseñanza, tales como idiomas, corte y confección, mecanografía, taquigrafía, preparación de exámenes y oposiciones y similares, n.c.o.p.
 
 Cuota de: 35.000 pesetas.
@@ -81,6 +89,8 @@ Epígrafe 936.4 Investigaciones en ciencias sociales, humanidades y jurídicas.
 Epígrafe 936.5 Investigación técnica industrial.
 
 Epígrafe 936.9 Otras investigaciones científicas y técnicas, n.c.o.p.
+
+> Se añade el epígrafe 933.2 por el art. 72.1.6 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
 > Se modifica el epígrafe 931.1 por el art. 75.1.42 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
 

@@ -27,3 +27,9 @@ Cuota de: 21.400 pesetas.
 ## Grupo 227. Técnicos en Iluminación.
 
 Cuota de: 21.400 pesetas.
+
+## Grupo 228. Ingenieros Técnicos Navales, Ayudantes y Peritos.
+
+Cuota de: 22.000 pesetas.
+
+> Se añade el Grupo 228 por el art. 72.1. 13 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.

@@ -49,3 +49,7 @@ Por cada obrero: 3.180 pesetas.
 Por cada Kw: 4.380 pesetas.
 
 Nota: Este epígrafe comprende la fabricación de artículos de cuero no especificados en otros epígrafes, tales como artículos de cuero para usos industriales (correas, tacos, tiratacos, etc.); artículos de guarnicionería (correajes, albardones, sillas de montar, látigos y fustas, etc.); artículos de botería (botas y corambres), talabartería, equipo militar, artículos de deporte, etc.; así como la fabricación de artículos a base de sucedáneos de cuero y repujado.
+
+Nota común al grupo 442. Los sujetos pasivos matriculados en este grupo que realicen las actividades comprendidas en el mismo con tres obreros como máximo, tributarán al 50 por 100 de la cuota asignada al epígrafe respectivo.
+
+> Se añade el párrafo último por el art. 72.1.1 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.

@@ -50,7 +50,7 @@ Por cada Kw: 200 pesetas.
 
 Nota: Este epígrafe comprende la deshidratación de alfalfa y otros forrajes, así como los secaderos de maíz y otros.
 
-Epígrafe 422.2 Harinas de pescado y subproductos animales, productos derivados del reciclaje y transformación de residuos alimenticios y otros preparados para la elaboración de piensos (14).
+Epígrafe 422.2 Harinas de pescado y subproductos animales, productos derivados del reciclaje y transformación de residuos alimenticios y otros preparados para la elaboración de piensos.
 
 Cuota de:
 
@@ -64,17 +64,17 @@ Epígrafe 422.3 Elaboración de piensos compuestos de cualquier clase, a excepci
 
 Cuota de:
 
-Por cada obrero: 1.120 pesetas
+Por cada obrero: 1.120 pesetas.
 
-Por cada Kw: 600 pesetas
+Por cada Kw: 600 pesetas.
 
 Epígrafe 422.4. Elaboración de piensos compuestos para perros, gatos y otros animales familiares.
 
 Cuota de:
 
-Por cada obrero: 1.400 pesetas
+Por cada obrero: 1.400 pesetas.
 
-Por cada Kw: 750 pesetas
+Por cada Kw: 750 pesetas.
 
 ## Grupo 423. Elaboración de productos alimenticios diversos.
 
@@ -273,5 +273,7 @@ Cuota de:
 Por cada obrero: 780 pesetas.
 
 Por cada Kw: 280 pesetas.
+
+> Se modifica el epígrafe 422.2 por el art. 72.1.17 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
 > Se modifica por el art. 78.1.2 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

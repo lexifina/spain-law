@@ -60,6 +60,8 @@ Cuota de:
 
 – En las poblaciones restantes: 16.600 pesetas.
 
+Nota común a los epígrafes 963.1 y 963.2: Cuando en una misma sala no se dé espectáculo cinematográfico ni otro que lo sustituya más de ciento ochenta y tres días al año, las cuotas correspondientes se reducirán al 50 por 100.
+
 Epígrafe 963.3 Exhibición de películas cinematográficas y vídeos fuera de establecimiento permanente.
 
 Cuota nacional de: 35.000 pesetas.
@@ -138,6 +140,12 @@ Cuota provincial de 298.000 pesetas.
 
 Cuota nacional de 397.000 pesetas.
 
+Notas:
+
+1.ª Los sujetos pasivos que ejerzan esta actividad en instalaciones portátiles transportables de uso propio afectas, única y exclusivamente, a la celebración del espectáculo correspondiente, satisfarán el 50 por 100 de la cuotas asignadas a este epígrafe.
+
+2.ª Los sujetos pasivos a que se refiere la nota anterior, siempre que su aforo no supere 1.000 plazas, satisfarán el 25 por 100 de las cuotas asignadas a este epígrafe.
+
 Epígrafe 965.4 Empresas de espectáculos.
 
 Cuota de 37.000 pesetas.
@@ -211,6 +219,22 @@ Cuota de:
 Epígrafe 968.2 Organización de espectáculos deportivos en instalaciones que no sean de la titularidad de los organizadores.
 
 Cuota de: 80.000 pesetas.
+
+Epígrafe 968.3. Organización de espectáculos deportivos por Federaciones españolas y de ámbito autonómico y clubes no profesionales.
+
+Cuota:
+
+Federaciones españolas: Cuota nacional de 20.000 pesetas.
+
+Federaciones de ámbito autonómico: Cuota provincial de 10.000 pesetas.
+
+Clubes no profesionales: Cuota mínima municipal de 5.000 pesetas.
+
+Notas:
+
+1.ª El pago de la cuota provincial faculta para ejercer la actividad en el ámbito territorial de la Federación de que se trate.
+
+2.ª La cuota asignada a los clubes no profesionales no faculta a éstos para organizar espectáculos profesionales.
 
 ## Grupo 969. Otros servicios recreativos, n.c.o.p.
 
@@ -321,6 +345,8 @@ Cuota nacional: 1.000 pesetas por máquina.
 Esta cuota la satisfará, exclusivamente, el propietario de las máquinas.
 
 Nota: Este epígrafe comprende la prestación de servicios a través de máquinas automáticas tales como balancines, caballitos, animales parlantes, etc., así como plastificadoras de documentos, de impresión de tarjetas, etc., e igualmente, básculas, aparatos de medición de peso, altura, tensión arterial, etc.
+
+> Se modifica por el art. 72.1.7, 9 y 10 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
 > Se añade el epígrafe 969.7 por el art. 75.1.43 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
 

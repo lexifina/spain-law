@@ -624,25 +624,23 @@ Notas:
 
 2.ª Se clasificarán en este epígrafe las prestaciones de los expresados servicios, sin comercio al por menor, en cuyo caso se satisfará una cuota de 30.000 pesetas.
 
-Epígrafe 659.9 Comercio al por menor de otros productos no especificados en esta Agrupación, excepto los que deban clasificarse en el epígrafe 653.9.
+Epígrafe 659.9 Comercio al por menor de otros productos no especificados en esta agrupación, excepto los que deben clasificarse en el epígrafe 653.9.
 
 Cuota mínima municipal de:
 
-En poblaciones de más de 500.000 habitantes: 96.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 151.000 pesetas.
 
-En poblaciones de más de 100.000 a 500.000 habitantes: 78.000 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 120.000 pesetas.
 
-En poblaciones de más de 40.000 a 100.000 habitantes: 60.000 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 90.000 pesetas.
 
-En poblaciones de más de 10.000 a 40.000 habitantes: 42.000 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 62.000 pesetas.
 
-En las poblaciones restantes: 24.000 pesetas.
+– En las poblaciones restantes: 35.000 pesetas.
 
 Nota común a las agrupaciones 64 y 65:
 
 Cuando los locales en los que se ejerzan las actividades clasificadas en las agrupaciones 64 y 65 tengan una superficie computable igual o inferior a 50 metros cuadrados, la cuota de los grupos o epígrafes correspondientes será el 50 por 100 de la señalada en cada caso.
-
-> Se modifica el epígrafe 659.9 por la disposición adicional 17.2 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.
 
 > Se modifica por el art. 72.1.3, 4 y 16 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 

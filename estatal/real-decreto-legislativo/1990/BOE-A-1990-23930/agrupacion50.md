@@ -542,7 +542,7 @@ Cuota provincial de: 222.500 pesetas.
 
 Cuota nacional de: 1.112.500 pesetas.
 
-Epígrafe 505.5 Carpintería, cerrajería, pintura, trabajos en yeso y escayola y terminación y decoración de edificios y locales.
+Epígrafe 505.5 Carpintería y cerrajería.
 
 Cuota:
 
@@ -557,6 +557,26 @@ Cuota mínima municipal de:
 – En poblaciones de más de 10.000 a 40.000 habitantes: 12.000 pesetas.
 
 – En las poblaciones restantes: 11.000 pesetas.
+
+Cuota provincial de: 222.500 pesetas.
+
+Cuota nacional de: 1.112.500 pesetas.
+
+Epígrafe 505.6: Pintura, trabajos en yeso y escayola, y terminación y decoración de edificios y locales.
+
+Cuota:
+
+Cuota mínima municipal:
+
+En poblaciones de más de 500,000 habitantes 40.000 pesetas.
+
+En poblaciones de más de 100.000 a 500.000 habitantes: 31.000 pesetas.
+
+En poblaciones de más de 40.000 a 100.000 habitantes: 24.000 pesetas.
+
+En poblaciones de más de 10.000 a 40.000 habitantes: 12.000 pesetas.
+
+En las poblaciones restantes: 11.000 pesetas.
 
 Cuota provincial de: 222.500 pesetas.
 
@@ -635,6 +655,8 @@ Notas:
 ## Grupo 508. Agrupaciones y uniones temporales de empresas.
 
 Nota: Las agrupaciones y uniones temporales de empresas se darán de alta en la matrícula del impuesto por este grupo, sin pago de cuota alguna. Lo anterior se entiende sin perjuicio de la tributación que corresponda a las empresas integrantes de la agrupación o unión de que se trate.
+
+> Se modifica la denominación del epígrafe 505.5 y se añade el 505.6 por el art. 72.1.14 y 15 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
 > Se modifica por el art. 75.1.8 a 11 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
 

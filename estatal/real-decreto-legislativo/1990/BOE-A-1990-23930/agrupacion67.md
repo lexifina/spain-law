@@ -180,19 +180,19 @@ Cuota mínima municipal de:
 
 – Más de 1.000 socios o afiliados: 18.800 pesetas.
 
-Epígrafe 674.6 Servicios establecidos en teatros y demás espectáculos que únicamente permanecen abiertos durante las horas del espectáculo, excepto los de bailes y similares.
+Epígrafe 674.6 Servicios establecidos en teatros y demás espectáculos que únicamente permanecen abiertos durante las horas del espectáculo, excepto los bailes y similares.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 26.000 pesetas.
+En población de más de 500.000 habitantes: 20.800 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 21.000 pesetas.
+En poblaciones de más de 100.000 a 500.000 habitantes: 16.800 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 16.000 pesetas.
+En poblaciones de más de 40.000 a 100.000 habitantes: 12.800 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 12.000 pesetas.
+En poblaciones de más de 10.000 a 40.000 habitantes: 9.600 pesetas.
 
-– En las poblaciones restantes: 9.000 pesetas.
+En las poblaciones restantes: 7.200 pesetas.
 
 Epígrafe 674.7. Servicios que se prestan en parques o recintos feriales clasificados en el Epígrafe 989.3 de esta Sección 1.ª de las Tarifas.
 
@@ -263,6 +263,8 @@ Cuota mínima municipal de:
 – En las poblaciones restantes: 14.000 pesetas.
 
 Nota: Este epígrafe comprende los servicios de alimentación consistentes en la condimentación y venta de alimentos para ser consumidos fuera del lugar de elaboración en raciones o al por mayor, así como cuando los productos elaborados se destinen al servicio de «catering» o de colectividades.
+
+> Se modifica el epígrafe 674.6 por el art. 72.1.5 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
 > Se añade el epígrafe 674.7 por el art. 75.1.27 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
 

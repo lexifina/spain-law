@@ -32,9 +32,13 @@ Cuota de:
 
 – En las poblaciones restantes: 6.000 pesetas.
 
-Nota: Este epígrafe faculta, sin pago de otra cuota, para hacer pelucas, postizos, añadidos y otras obras de igual clase.
+Notas:
+
+1.ª Este epígrafe faculta, sin pago de otra cuota, para hacer pelucas, postizos, añadidos y otras obras de igual clase.
 
 Asimismo, los sujetos pasivos clasificados en este epígrafe podrán prestar, sin pago de cuota adicional alguna, el servicio de manicura.
+
+2.ª Los sujetos pasivos que presten servicios de peluquería en hogares o centros de la tercera edad, satisfarán el 50 por 100 de la cuota correspondiente.
 
 Epígrafe 972.2 Salones e institutos de belleza.
 
@@ -105,6 +109,8 @@ Cuota de: 29.400 pesetas.
 Epígrafe 979.9 Otros servicios personales n.c.o.p.
 
 Cuota de: 10.000 pesetas.
+
+> Se añade la nota 2ª al epígrafe 972.1 por el art. 72.1.8 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
 > Se añade el párrafo último al epígrafe 972.1 por el art. 75.1.51 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
 
