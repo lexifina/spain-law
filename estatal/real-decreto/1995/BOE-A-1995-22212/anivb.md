@@ -175,6 +175,8 @@
 |  | Técnicas de fabricación para el mantenimiento y montaje. | Mantenimiento de equipo industrial. |
 |  | Ejecución de procesos de fundición. | Producción por fundición y pulvimetarlurgia. |
 |  | Montajes y reparaciones ópticas. | Óptica de Anteojería. |
+|  | Microfusión. | Joyería. |
+|  | Mecanizado en joyería por CNC. | Joyería. |
 | Oficina de Proyectos de Construcción. | Representaciones de construcción. | Desarrollo y aplicación de proyectos de construcción. |
 |  | Proyecto de edificación. | Desarrollo y aplicación de proyectos de construcción. |
 |  | Trabajos de campo y gabinete. | Desarrollo de proyectos urbanísticos y operaciones topográficas. |
@@ -258,6 +260,9 @@
 |  | Organización de archivos clínicos. | Documentación sanitaria. |
 |  | Prevención bucodental. | Higiene bucodental. |
 |  | Anatomía, fisiopatología y ametropías oculares. | Óptica de Anteojería. |
+|  | Atención sanitaria. | Atención Sociosanitaria. |
+|  | Higiene. | Atención Sociosanitaria. |
+|  | Alimentación y nutrición familiar. | Atención Sociosanitaria. |
 | Procesos Comerciales. | Aplicaciones informáticas de propósito general. | Comercio. |
 |  | Operaciones de almacenaje. | Comercio. |
 |  | Animación del punto de venta. | Comercio. |
@@ -323,6 +328,8 @@
 |  | Expresión y comunicación. | Educación infantil. |
 |  | Atención de unidades convivenciales. | Integración social. |
 |  | Inserción ocupacional. | Integración social. |
+|  | Atención y apoyo psicosocial. | Atención Sociosanitaria. |
+|  | Ocio y tiempo libre de colectivos específicos. | Atención Sociosanitaria. |
 | Servicios de Restauración. | Técnicas básicas de servicio y de preparación de alimentos y bebidas a la vista del cliente. | Cocina. |
 |  | Técnicas de servicio y de atención al cliente. | Servicios de restaurante y bar. |
 |  | Bebidas. | Servicios de restaurante y bar. |
@@ -341,6 +348,10 @@
 | Aplicaciones informáticas de propósito general. | Gestión del transporte. |
 | Aplicaciones informáticas de propósito general. | Servicios al consumidor. |
 | Aplicaciones informáticas generales. | Documentación sanitaria. |
+| Instalación y mantenimiento de equipos y sistemas informáticos. | Explotación de Sistemas Informáticos. |
+| Implantación y mantenimiento de aplicaciones ofimáticas y corporativas. | Explotación de Sistemas Informáticos. |
+| Mantenimiento de portales de información. | Explotación de Sistemas Informáticos. |
+| Sistemas operativos en entornos monousuario y multiusuario. | Explotación de Sistemas Informáticos. |
 | Soldadura. | Soldadura en atmósfera protegida. | Soldadura y calderería. |
 |  | Trazado y conformado en construcciones metálicas. | Soldadura y calderería. |
 |  | Soldadura en atmósfera natural. | Soldadura y calderería. |
@@ -364,6 +375,8 @@
 |  | Fotografía macro y microscópica. | Anatomía patológica y citología. |
 |  | Realización en multimedia. | Realización de audiovisuales y espectáculos. |
 |  | Grabaciones musicales. | Sonido. |
+
+> Se modifica por la disposición adicional 2.2 del Real Decreto 496/2003, de 2 de mayo. Ref. BOE-A-2003-10466., por la disposición adicional 2.2 del Real Decreto 497/2003, de 2 de mayo. Ref. BOE-A-2003-10467. y por la disposición adicional 2.2 del Real Decreto 498/2003, de 2 de mayo. Ref. BOE-A-2003-10468.
 
 > Se modifica por la disposición adicional 2.2 del Real Decreto 370/2001, de 6 de abril. Ref. BOE-A-2001-8794.
 

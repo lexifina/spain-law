@@ -131,6 +131,9 @@
 | Desarrollo de aplicaciones en entornos de cuarta generación y con herramientas CASE. | Desarrollo de aplicaciones informáticas. |
 | Programación en lenguajes estructurados. | Desarrollo de aplicaciones informáticas. |
 | Sistemas operativos y lenguajes de programación. | Sistemas de telecomunicación e informáticos. |
+| Instalación y mantenimiento de servicios de redes locales. | Explotación de Sistemas Informáticos. |
+| Instalación y mantenimiento de servicios de Internet. | Explotación de Sistemas Informáticos. |
+| Operaciones con bases de datos ofimáticas y corporativas. | Explotación de Sistemas Informáticos. |
 | Intervención sociocomunitaria. | Desarrollo comunitario. | Animación sociocultural. |
 | Animación cultural. | Animación sociocultural. |
 | Metodología de la intervención social. | Animación sociocultural. |
@@ -146,6 +149,8 @@
 | Formación del consumidor. | Servicios al consumidor. |
 | Actividades y recursos culturales. | Animación Turística. |
 | Animación en el ámbito turístico. | Animación Turística. |
+| Planificación y control de las intervenciones. | Atención Sociosanitaria. |
+| Necesidades físicas y psicosociales de colectivos específicos. | Atención Sociosanitaria. |
 | Navegación e instalaciones marinas. | Instalaciones y máquinas eléctricas. | Operación, control y mantenimiento de máquinas e instalaciones del buque. |
 | Automatización: regulación y control. | Operación, control y mantenimiento de máquinas e instalaciones del buque. |
 | Seguridad, supervivencia y primeros auxilios en la mar. | Operación, control y mantenimiento de máquinas e instalaciones del buque. |
@@ -236,6 +241,8 @@
 |  | Planes de seguridad de mantenimiento y montaje de equipos e instalaciones. | Mantenimiento de equipo industrial. |
 |  | Elementos de máquinas. | Mantenimiento de equipo industrial. |
 |  | Riesgos derivados de las condiciones de seguridad. | Prevención de Riesgos Profesionales. |
+|  | Materiales empleados en fabricación de joyería. | Joyería. |
+| Dibujo. | Representación gráfica en joyería. | Joyería. |
 | Organización y proyectos de sistemas energéticos. | Instalaciones de procesos térmicos. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
 | Procesos y gestión de montaje de instalaciones. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
 | Proyectos de instalaciones térmicas y de fluidos. | Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención. |
@@ -699,6 +706,17 @@
 |  | Prevención de riesgos derivados de la organización y la carga de trabajo. | Prevención de Riesgos Profesionales. |
 |  | Relaciones en el entorno de trabajo. | Prevención de Riesgos Profesionales. |
 |  | Formación y orientación laboral. | Prevención de Riesgos Profesionales. |
+|  | Relaciones en el equipo de trabajo. | Atención Sociosanitaria. |
+|  | Formación y orientación laboral. | Atención Sociosanitaria. |
+|  | Administración, gestión y comercialización en la pequeña empresa. | Atención Sociosanitaria. |
+|  | Formación y orientación laboral. | Explotación de Sistemas Informáticos. |
+|  | Relaciones en el equipo de trabajo. | Explotación de Sistemas Informáticos. |
+|  | Administración, gestión y comercialización en la pequeña empresa. | Explotación de Sistemas Informáticos. |
+|  | Administración, gestión y comercialización en la pequeña empresa. | Joyería. |
+|  | Relaciones en el equipo de trabajo. | Joyería. |
+|  | Formación y orientación laboral. | Joyería. |
+
+> Se modifica por la disposición adicional 2.2 del Real Decreto 496/2003, de 2 de mayo. Ref. BOE-A-2003-10466., por la disposición adicional 2.2 del Real Decreto 497/2003, de 2 de mayo. Ref. BOE-A-2003-10467. y por la disposición adicional 2.2 del Real Decreto 498/2003, de 2 de mayo. Ref. BOE-A-2003-10468.
 
 > Se modifica por la disposición adicional 2.2 del Real Decreto 1161/2001, de 26 de octubre. Ref. BOE-A-2001-21714.
 
