@@ -1,1 +1,1 @@
-Se deroga todo lo que se refiere a zumos de frutas y otros productos similares regulados por la presente Reglamentación técnico-sanitaria, excepto los arts. 16, 17 y 18 por la disposición derogatoria del Real Decreto 1650/1991, de 8 de noviembre. Ref. BOE-A-1991-28036
+Esta norma mantiene la vigencia únicamente de los artículos 16, 17 y 18, así como de aquellas de sus disposiciones que resulten de aplicación a los zumos de otros vegetales y sus derivados, según establece la disposición derogatoria única.2 del Real Decreto 1050/2003, de 1 de agosto. Ref. BOE-A-2003-15479

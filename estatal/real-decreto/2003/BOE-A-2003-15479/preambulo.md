@@ -1,0 +1,13 @@
+La Directiva 2001/112/CE del Consejo, de 20 de diciembre de 2001, relativa a los zumos de frutas y otros productos similares, destinados a la alimentación humana, sustituye a la Directiva 93/77/CEE del Consejo, de 21 de septiembre de 1993, con objeto de hacer más accesibles las normas sobre las condiciones de producción y comercialización de los zumos de frutas y otros productos similares y adaptarla a la legislación comunitaria general aplicable a todos los productos alimenticios.
+
+El Real Decreto 1650/1991, de 8 de noviembre, por el que se aprueba la Reglamentación técnico-sanitaria para la elaboración y venta de zumos de fruta y de otros productos similares, así como el Real Decreto 1412/1994, de 25 de junio, por el que se autoriza la elaboración de néctares de frutas sin adición de azúcares o miel, incorporaron al ordenamiento jurídico interno la Directiva 93/77/CEE del Consejo, de 21 de septiembre de 1993, relativa a los zumos de frutas y otros productos similares.
+
+Por motivos de claridad, procede derogar los citados Reales Decretos 1650/1991 y 1412/1994 y sustituirlos por esta norma que incorpora la Directiva 2001/112/CE, con el objeto de simplificar y adecuar esta normativa a la legislación horizontal, en particular en lo relativo a los aditivos, regulada en el Real Decreto 3177/1983, de 16 de noviembre, por el que se aprueba la Reglamentación técnico-sanitaria de aditivos alimentarios, así como actualizar el etiquetado para adaptarlo a la Norma general de etiquetado, presentación y publicidad de los productos alimenticios, aprobada por Real Decreto 1334/1999, de 31 de julio. Asimismo, deben considerarse las normas establecidas en el Real Decreto 2207/1995, de 28 de diciembre, por el que se establecen normas de higiene de los productos alimenticios.
+
+El volumen de acervo de la normativa en vigor en la actualidad, en materia de legislación horizontal, fundamentalmente en los aspectos relativos a la salud y protección de los consumidores, es muy superior al del año 1991 cuando se publicó el anterior real decreto. Por ello, es aconsejable la simplificación y puesta al día de la norma en esta materia para evitar duplicidades, problemas de índole práctica y legal.
+
+En su tramitación han sido consultadas las comunidades autónomas, así como los sectores afectados, y ha emitido su preceptivo informe la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de los Ministros de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 1 de agosto de 2003,
+
+DISPONGO:
