@@ -26,4 +26,8 @@ Tercera.– Plantas fuera de tipo: No se tendrán en cuenta las variaciones típ
 
 Cuarta.– Plantas hembras emitiendo polen: En el caso de que las plantas hembras que emitan polen sean claramente fuera de tipo, el porcentaje máximo admisible será de 0,005 por 100 (1 : 20.000).
 
+Quinta. El cumplimiento de las normas antes citadas o de otras normas se comprobará mediante inspecciones oficiales de campo en el caso de semillas de base y, en el caso de semillas certificadas, mediante inspecciones oficiales de campo o inspecciones llevadas a cabo bajo supervisión oficial.
+
+> Se añade la observación 5 por el art. 6.3 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333.
+
 > Redactado conforme a la corrección de errores publicada en BOE núm. 152, de 26 de junio de 1987. Ref. BOE-A-1987-14764

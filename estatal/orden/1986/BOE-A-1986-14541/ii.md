@@ -38,9 +38,15 @@ Lote de plantas de vivero: Cantidad determinada de plantas de vivero de un únic
 
 Laboratorio: Entidad de derecho público o privado que efectúa análisis y establece diagnósticos correctos que permiten al proveedor controlar la calidad de la producción de semillas o de plantas de vivero.
 
-Comercialización o puesta en el mercado: Mantener disponible o en almacén, exponer u ofrecer en venta, vender o entregar a otra persona, sea cual fuere la forma en que se realice, semillas o plantas de vivero.
+Comercialización: la venta, la tenencia con vistas a la venta, la oferta de venta y toda cesión, entrega o transmisión con fines de explotación comercial de semillas o de plantas de vivero a terceros, a título oneroso o no.
 
-En relación con el proveedor se dictará la normativa que recoja sus particularidades y modalidades, así como lo relativo a su obligada inscripción en los correspondientes registros oficiales.
+No se considerará comercialización la entrega de semillas sin fines de explotación comercial de la variedad, tal como las operaciones siguientes:
+
+a) La entrega de semillas a organismos oficiales de experimentación e inspección.
+
+b) La entrega de semillas a proveedores de servicios para procesamiento o envase, siempre que el proveedor de servicios no adquiera derecho sobre las semillas que le hayan sido entregadas.
+
+No se considerará comercialización la entrega de semillas en determinadas condiciones a proveedores de servicios para la producción de una determinada materia prima agrícola, destinada a fines industriales, ni para la reproducción de semillas con este fin, siempre que el proveedor de servicios no adquiera derechos ni sobre las semillas que le son entregadas ni sobre el producto de la cosecha. El proveedor de semillas facilitará a la autoridad de certificación una copia de las correspondientes partes del contrato celebrado con el proveedor de servicios, y ello incluirá los requisitos y condiciones realmente cumplidos por la semilla que proporcionó.
 
 6. Categorías de semillas y plantas de vivero:
 
@@ -73,6 +79,8 @@ Los Reglamentos Técnicos indicarán, para cada especie, las categorías y el n�
 En el caso de la patata y otras especies de multiplicación asexual, las categorías base y certificada podrán subdividirse en clases.
 
 En plantas de vivero, dada su especificidad, las categorías de éstas, así como, en su caso, los materiales con determinadas características que procedan, se establecerán en la normativa específica que se dicte.
+
+> Se modifica el apartado 5 por el art. 1.1 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333.
 
 > Se modifica el título y los apartados 5 y 6 por el art. único.1 a 3 de la Orden de 10 de octubre de 1994. Ref. BOE-A-1994-22673.
 

@@ -60,7 +60,7 @@ Si la recogida se efectúa a mano o con cosechadora de mazorcas, antes de proced
 
 3.º Requisitos específicos para la utilización de parentales femeninos androestériles.–En el caso de utilizarse parentales femeninos androestériles y parentales masculinos no restauradores, la semilla obtenida ha de mezclarse, en el campo o en almacén, con otra obtenida utilizando parentales fértiles. La proporción de la primera a la segunda no puede ser superior a dos.
 
-En el caso de utilizarse parentales femeninos androestériles y parentales masculinos restauradores de la fertilidad, no menos de la tercera parte de las plantas obtenidas con siembras de estas semillas han de producir polen en cantidad y fertilidad normal, extremo éste que deberán comprobar los productores.
+Cuando el cultivo esté compuesto por parentales femeninos androestériles y parentales femeninos androfértiles, no menos de la tercera parte de las plantas obtenidas con siembras de estas semillas han de producir polen en cantidad y fertilidad normal. Las proporciones entre estos dos parentales se controlará por medio de inspecciones de campo.
 
 4.º Inspecciones a realizar.–Se realizarán inspecciones oficiales a los campos de producción de semilla certificada durante el período de floración. El número mínimo de inspecciones será de una para híbridos, y de tres para variedades de polinización libre.
 
@@ -91,6 +91,8 @@ Iniciación de las operaciones de selección y preparación de las semillas.
 Se considera que la campaña de comercialización del maíz comprende desde el 1 de julio al 30 de junio del año siguiente.
 
 f) Para las semillas de maíz, será de aplicación lo dispuesto en los apartados 26a, 26b y 26c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referentes a semillas no certificadas definitivamente, y sólo en los casos en que procedan de la multiplicación de semillas de categorías prebase o base.
+
+> Se modifica el apartado c) núm. 3 por el art. 5.1 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333
 
 > Se añade la letra f) por el punto 3 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972
 

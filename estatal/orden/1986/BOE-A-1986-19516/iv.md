@@ -38,6 +38,10 @@ Quinta. Plantas hembras emitiendo polen: Todo campo que en una inspección prese
 
 Sexta. Recolección.–En las parcelas de producción de semilla híbrida es obligatorio realizar aisladamente la recolección de cada parental, debiéndose comenzar por el parental masculino.
 
+El cultivo tendrá suficiente identidad y pureza varietal o, en el caso de un cultivo de una línea pura, suficiente entidad y pureza en lo que concierne a sus características.
+
+Para la producción de semilla de variedades híbridas, las disposiciones antes mencionadas también se aplicarán a las características de los componentes, incluida la esterilidad masculina o la restauración de la fertilidad.
+
 b) Requisitos específicos para el material parental y semilla de base:
 
 Primera. Inspecciones a realizar:
@@ -53,6 +57,10 @@ Los productores de semillas llevarán un registro de las semillas utilizadas en 
 c) Requisitos específicos para la semilla certificada:
 
 Primero. Variedades en una finca: En una misma finca de agricultor-colaborador sólo podrá cultivarse, para obtención de semilla, un número limitado de variedades de cada especie, previamente autorizado. Dicho número depende del tamaño de la finca y de los medios de que disponga.
+
+Cuando, para la producción de semillas certificadas de variedades híbridas, se han utilizado un parental femenino androestéril y un parental masculino no restaurador de la fertilidad, las semillas se deberán obtener por mezcla de lotes de semillas, en proporciones apropiadas a la variedad, producidas, por una parte, utilizando un parental femenino androestéril y por otra parte un parental femenino androfértil.
+
+Cuando el cultivo esté compuesto por parentales femeninos androestériles y parentales femeninos androfértiles, no menos de la tercera parte de las plantas obtenidas con siembras de estas semillas han de producir polen en cantidad y fertilidad normal. Las proporciones entre estos dos parentales se controlarán por medio de las inspecciones de campo.
 
 Segundo. Inspecciones a realizar:
 
@@ -85,6 +93,8 @@ Las ventas por variedades y provincias, así como los remanentes de semillas pro
 Se considera que la campaña de comercialización del sorgo comprende desde el 1 de julio al 30 de junio del año siguiente.
 
 f) Para las semillas de especie del género "sorghum spp", será de aplicación lo dispuesto en los apartados 26a, 26b 26c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referente a semillas no certificadas definitivamente, y sólo en los casos en que procedan de la multiplicación de semillas de categoría prebase o base.
+
+> Se añaden los dos últimos párrafos al apartado a).6 y al apartado c).1 por el art. 6.1 y 2 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333.
 
 > Se añade el apartado f) por el apartado 4 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.
 

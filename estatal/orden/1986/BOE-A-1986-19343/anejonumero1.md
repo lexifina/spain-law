@@ -2,17 +2,17 @@
 
 ## Requisitos de los procesos de producción
 
-| Clase de semilla a producir | Tamaño de parcelas (mínimo) – Ha | Aislamiento (mínimo) – m | Plantas fuera de tipo (máximo) | Parentales femeninos emitiendo polen (máximo) | Mazorcas fuera de tipo y con granos fuera de tipo (máximo) |
+| Clase de semilla a producir | Tamaño de parcelas (mínimo) – Hectárea | Aislamiento (mínimo) – Metros | Plantas fuera de tipo (máximo) | Parentales femeninos emitiendo polen (máximo) | Mazorcas fuera de tipo y con granos fuera de tipo (máximo) |
 | --- | --- | --- | --- | --- | --- |
 | Parentales femeninos después de las depuraciones | Parentales masculinos que hayan emitido polen |
 | Líneas puras. | – | 300 | 1 por 1.000 fuera de tipo | – | 1por 1.000 fuera de tipo. 2 por 1.000 con granos fuera de tipo. |
-| Material parental en caso de variedades fecun. libre. | – | 300 | 1 por 1.000 fuera de tipo | – | 1 por 1.000 fuera de tipo. |
-| S. base en caso de var. fecund. libre. | – | 300 | 2 por 1.000 fuera de tipo | – | 1 por 1.000 fuera de tipo. |
+| Material parental en caso de variedades fecundación libre. | – | 300 | 1 por 1.000 fuera de tipo | – | 1 por 1.000 fuera de tipo. |
+| Semillas base en caso de variedades fecundación libre. | – | 300 | 2 por 1.000 fuera de tipo | – | 1 por 1.000 fuera de tipo. |
 | H. simples fundacionales. | – | 300 | 1 por 1.000 fuera de tipo | 1 por 1.000 fuera de tipo | 1% en una inspección o sume más del 2% en tres inspecciones. | 1 por 1.000 fuera de tipo. 2 por 1.000 con granos fuera de tipo. |
-| S. certificada en variedades híbridas componentes de la variedad: |  |  |  |  |  |  |
+| Semilla certificada en variedades híbridas. Componentes de la variedad: |  |  |  |  |  |  |
 | a) Línea pura o híbrido simple. | 5 | 220 | 2 por 1.000 fuera de tipo | 2 por 1.0000 fuera de tipo | 1% en una inspección o sume más del 2% en tres inspecciones. | – |
-| b) Var. de fecundación libre. | 5 | 220 | 5 por 1.000 fuera de tipo | – | – |
-| S. cert. en var. de fecundación libre. | 5 | 220 | 5 por 1.000 fuera de tipo | – | – |
+| b) Variedades de fecundación libre. | 5 | 220 | 5 por 1.000 fuera de tipo | – | – |
+| Semilla certificada en variedades de fecundación libre. | 5 | 220 | 5 por 1.000 fuera de tipo | – | – |
 
 Observaciones:
 
@@ -23,5 +23,11 @@ Observaciones:
 3.ª Plantas fuera de tipo: No se tendrán en cuenta las variaciones típicas de la variedad comercial y de las generaciones anteriores.
 
 4.ª Parentales femeninos emitiendo polen: La exigencia del tanto por ciento máximo de parentales femeninos emitiendo polen se considerará solamente cuando los parentales femeninos de la parcela tengan los pistilos receptivos fuera de las espatas, por lo menos, en un 5 por 100 de plantas.
+
+5.ª En el caso de un cultivo de una línea pura, éste tendrá suficiente identidad y pureza en lo que concierne a sus características. Para la producción de semilla de variedades híbridas, los requisitos mencionados se aplicarán a las características de los componentes, incluida la esterilidad masculina o la restauración de la fertilidad.
+
+6.ª El cumplimiento de las normas antes citadas o de otras normas se comprobará mediante inspecciones oficiales de campo en el caso de las semillas de base y, en el caso de semillas certificadas, mediante inspecciones oficiales de campo o inspecciones llevadas a cabo bajo supervisión oficial.
+
+> Se añaden las observaciones 5ª y 6ª por el art. 5.2 y 5.3 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 293, de 8 de diciembre. Ref. BOE-A-1986-32138

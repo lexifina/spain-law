@@ -106,6 +106,10 @@ Los productores de plantas de vivero utilizarán sus propias etiquetas de acuerd
 
 En el caso de las categoría prebase, base y certificada, las etiquetas o instrucciones del productor y, en su caso, del importador, se redactarán de forma que no puedan confundirse con las etiquetas oficiales.
 
+22 bis. En el caso de semillas o de plantas de vivero de una variedad que haya sido modificada genéticamente, toda etiqueta o documento, oficial o de otro tipo, que se adhiera al envase de semillas o al embalaje de plantas de vivero, o que lo acompañe, en virtud de las disposiciones del presente Reglamento, indicará con claridad: "Variedad modificada genéticamente".
+
+Asimismo, toda persona que comercialice alguna de esas variedades indicará con claridad en su catálogo de ventas que aquélla es una variedad modificada genéticamente.
+
 23. Para comprobar la calidad de las semillas y de las plantas de vivero, verificando que se cumplen los requisitos reflejados en los correspondientes Reglamentos Técnicos específicos, se tomarán muestras oficiales o bajo control oficial, de los lotes precintados.
 
 En determinados casos, se podrá acreditar, previa solicitud, a entidades o agrupaciones de entidades privadas para que colaboren, bajo control oficial, en la operación de la toma de muestras reglamentaria de los citados lotes, o realizar los análisis correspondientes en sus laboratorios, o a ambas.
@@ -150,7 +154,9 @@ Las operaciones de precintado y toma de muestras de semillas o plantas de vivero
 
 El precintado de semillas y plantas de vivero tendrá un período de validez máximo de diez meses, salvo que, excepcionalmente, se indique lo contrario en el correspondiente Reglamento Técnico.
 
-25. Cuando el Instituto delegue todas o algunas de las funciones de certificación o control establecidas en el presente Reglamento, éstas tendrá que ajustarse a lo previsto en el mismo y realizarse bajo la supervisión del citado Organismo.
+25. A fin de hallar alternativas más adecuadas a determinadas disposiciones establecidas en el presente Reglamento, distintas de las fitosanitarias en el caso de patata de siembra, se podrá decidir la organización de experimentos temporales, en condiciones especiales y a escala comunitaria, de acuerdo con lo dispuesto en la normativa comunitaria.
+
+En el marco de dichos experimentos, los organismos oficiales responsables del control de las semillas, podrán quedar exentos de determinadas obligaciones establecidas en el presente Reglamento. El alcance de dicha exención se determinará por referencia a las disposiciones a las que se aplique. La duración de un experimento no excederá de siete años.
 
 26. El sistema de certificación de la OCDE u otro sistema internacional a que se haya adherido España, se aplicará a petición de los productores a quienes interese.
 
@@ -211,6 +217,8 @@ Certificado de que los cultivos de que proceden las semillas han cumplido los re
 En su caso, resultados de un análisis preliminar de las semillas.
 
 26c. En aquellos casos en que así se especifique en los correspondientes Reglamentos técnicos de control y certificación de semillas se certificarán oficialmente como semilla certificada, previa solicitud, las semillas recogidas en un país tercero, si las mismas han sido objeto de una inspección en campo, que cumplan con las condiciones establecidas en las Decisiones comunitarias de equivalencia con países terceros, y si un examen oficial prueba que se cumplen las condiciones establecidas para las semillas de la categoría correspondiente. Las semillas anteriormente citadas y que pueden ser objeto de certificación deben de proceder directamente de semillas de base, certificadas o certificadas de primera reproducción, oficialmente certificadas en uno o varios Estados miembros de la Comunidad Económica Europea o en un país tercero al que se haya otorgado equivalencia, o procedentes directamente del cruce de semillas de base oficialmente certificadas en un Estado miembro con semilla de base oficialmente certificada en los citados países terceros.
+
+> Se añade el apartado 22 bis y se modifica el 25 por el art. 1.8 y 9 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333.
 
 > Se sustituye la abreviatura "CEE" por la de "CE" en los apartados 20 y 22 por el art. único de la Orden de 18 de julio de 1997. Ref. BOE-A-1997-16798.
 

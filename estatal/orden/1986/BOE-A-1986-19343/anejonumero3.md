@@ -13,4 +13,8 @@ Observaciones:
 
 Primera.–La presencia de una semilla de otras especies cultivadas o de malas hierbas en una muestra de mil gramos, no se considerará como impureza si una segunda muestra de igual peso está exenta.
 
-Segunda.–En casos excepcionales, los Servicios oficiales de control podrán autorizar la venta de alguna partida que no alcance el límite impuesto para la germinación, siempre que ésta sea superior al 85 por 100 y se cumplan los restantes requisitos. En las etiquetas de los productores que se utilicen en estos casos se expresará claramente la germinación real del lote y, en las oficiales, la indicación de que la germinación es inferior a la que prescribe este Reglamento.
+En el caso de semilla de una línea pura, la semilla tendrá suficiente identidad y pureza en lo que concierne a sus características. En el caso de las semillas de variedades híbridas, las disposiciones mencionadas anteriormente también se aplicarán a las características de los componentes.
+
+Segunda.– (Suprimida)
+
+> Se modifica la observación 1 y se suprime la 2 por el art. 5.4 y 5.5 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333

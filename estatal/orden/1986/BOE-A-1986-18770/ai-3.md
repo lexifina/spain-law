@@ -10,7 +10,7 @@
 
 4. Variedad indicada al menos en caracteres latinos.
 
-5. Semilla certificada.
+5. Categoría.
 
 6. Número de lote.
 
@@ -27,6 +27,8 @@ Cuando se trate de semillas calibradas, se indicará el calibre.
 Cuando se indique el peso y se empleen pesticidas granulados, sustancias para el pildorado u otros aditivos sólidos, se indicará la naturaleza del aditivo, así como la relación aproximada entre el peso de glomérulos o de semillas puras y el peso total.
 
 Cuando las semillas hayan sido tratadas con algún producto, se indicará la materia activa del mismo y su posible toxicidad.
+
+> Se modifica el apartado 5 por el art. 2.3 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333.
 
 > Se modifica el título y el apartado 1 por el art. único de la Orden de 18 de julio de 1997. Ref. BOE-A-1997-16798.
 

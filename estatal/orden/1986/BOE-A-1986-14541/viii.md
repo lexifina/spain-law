@@ -16,9 +16,13 @@ Los Productores quedan autorizados a envasar mezclas de semilla en los casos en 
 
 No podrán depositarse en los almacenes de semillas y plantas de vivero granos ni órganos vegetales destinados a fines comerciales distintos de los de multiplicación y reproducción, salvo autorización especial de los servicios oficiales de control, que se dará en función del volumen de ventas y del nivel de especialización del establecimiento.
 
+42 bis. Las semillas que se comercialicen de conformidad con las disposiciones del presente Reglamento, sean éstas de cumplimiento obligatorio o facultativo, únicamente estarán sujetas a las restricciones de comercialización establecidas por el mismo, en lo que se refiere a sus características, disposiciones de examen, marcado y cierre.
+
 43. El Instituto o los Organismos del Ministerio de Agricultura en quienes delegue para este fin, así como los servicios competentes de las Comunidades Autónomas, podrán tomar muestras de cualquier lote de semillas o plantas de vivero cuando así se estime necesario, siguiendo para ello las normas técnicas adecuadas y levantando las correspondientes actas.
 
 Cuando se efectúe una compraventa, la toma de muestras podrá realizarse también a instancia de parte, siguiendo para ello los procedimientos adecuados marcados por la normativa vigente.
+
+Se efectuarán controles oficiales de las semillas durante su comercialización, al menos mediante comprobaciones aleatorias, para verificar el cumplimiento de los requisitos y condiciones establecidos.
 
 44. Las infracciones administrativas se sancionarán de acuerdo con lo establecido en el Decreto 3767/1972, de 23 de diciembre, por el que se aprueba el Reglamento General sobre Producción de Semillas y Plantas de Vivero y con carácter subsidiario por lo establecido en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, sin perjuicio de las responsabilidades civiles y penales a que hubiera lugar.
 
@@ -55,5 +59,7 @@ La Estación de Ensayos de Semillas del Instituto es la acreditada en la Asociac
 En los casos en que esté autorizado el fraccionamiento de los envases originales, los productores están obligados a conservar los albaranes de venta correspondientes durante un plazo superior en un año al de validez del precintado. Si existiese alguna reclamación, el Productor estará obligado a exhibir ante los servicios oficiales de control dichos albaranes en los que constará la especie y variedad de la semilla vendida, nombre y domicilio del comprador y número de lote o lotes, con las cantidades vendidas de cada uno.
 
 51. Las posibles infracciones en el comercio de semillas se clasificarán y sancionarán de acuerdo con lo preceptuado en la Ley 11/1971, de 30 de marzo, y disposiciones complementarias.
+
+> Se añade el apartado 42 bis y se modifica el 43 por el art. 1.10 y 11 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333.
 
 > Se modifican los apartados 45 y 47 por el art. único.9 y 10 de la Orden de 10 de octubre de 1994. Ref. BOE-A-1994-22673.

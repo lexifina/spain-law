@@ -18,13 +18,21 @@ g) La proporción máxima de plantas fuera de tipo, de tipo dudoso, de otras esp
 
 h) La proporción máxima admisible de plantas atacadas por enfermedades y plagas transmisibles por la semilla o por otros elementos de multiplicación o que dañen a dichas semillas o elementos de multiplicación.
 
-i) Estados de desarrollo y condiciones de cultivo en que deben realizarse las inspecciones y depuraciones en las distintas zonas por parte del personal técnico de la Entidad productora, así como para las inspecciones oficiales.
+i) Estados de desarrollo y condiciones de cultivo en que deben realizarse las inspecciones y depuraciones en las distintas zonas por parte del personal técnico de la Entidad productora, así como para las inspecciones oficiales o bajo supervisión oficial en su caso.
 
 j) Cualquier otro requisito que sea conveniente para la producción de semillas y plantas de vivero de la especie o especies a las que se refiere el Reglamento Técnico.
 
 9. Los cultivos dedicados a la producción de semillas y de plantas de vivero deberán establecerse en terrenos suficientemente homogéneos y mantenerse suficientemente limpios de vegetación espontánea.
 
 10. El Ministerio de Agricultura, Pesca y Alimentación podrá fijar zonas, cuyo ámbito geográfico supere el de una Comunidad Autónoma, en las que debido a motivos técnicos, se regule el cultivo y la producción de determinadas especies o variedades.
+
+Se podrán establecer las condiciones especiales en las que pueden producirse y comercializarse y las restricciones cuantitativas que procedan, en relación con la conservación "in situ" y la utilización sostenible de los recursos fitogenéticos, de semillas:
+
+a) Relacionadas con hábitats naturales y seminaturales específicos, comprendidas las mezclas de especies. Las semillas tendrán un origen conocido aprobado por el organismo oficial responsable.
+
+b) De ecotipos y variedades autóctonas tradicionalmente cultivados en determinadas localidades y amenazadas por la erosión genética (variedades de conservación).
+
+c) De variedades sin valor intrínseco para la producción de cultivos comerciales pero desarrolladas para el cultivo en condiciones determinadas.
 
 11. En los Reglamentos Técnicos se podrán señalar limitaciones al número de variedades de una misma especie o de un grupo de especies, que un productor pueda obtener en una finca de un agricultor-colaborador, teniendo en cuenta la dimensión y características de la misma. Los servicios oficiales de control podrán autorizar limitaciones superiores en casos concretos debidamente justificados.
 
@@ -37,6 +45,30 @@ Nombre y domicilio del agricultor-colaborador, situación de la parcela o parcel
 13. Los servicios oficiales de control, por medio de su personal, realizarán las inspecciones de los cultivos al menos en las épocas fijadas por los Reglamentos Técnicos correspondientes, procurando que esté represente en los campos inspeccionados un representante del productor. Por los citados servicios se comunicará, en su caso, a los productores, indicando los motivos, la anulación de las parcelas inspeccionadas cuando así proceda. En caso de que por los servicios se indique la necesidad de realizar operaciones de depuración en la parcela, el productor podrá optar por la anulación o quedará obligado a la realización de las operaciones reseñadas.
 
 La producción obtenida en parcelas contratadas que no reciban la aprobación definitiva, podrá ser controlada para comprobar el destino posterior de la misma.
+
+Para determinadas especies, estas inspecciones oficiales podrán ser sustituidas, en los cultivos destinados a la producción de semilla de categoría certificada, por inspecciones realizadas bajo supervisión oficial, si se cumplen los siguientes requisitos:
+
+Los inspectores:
+
+a) Deberán contar con la cualificación técnica necesaria.
+
+b) No podrán obtener beneficios particulares derivados de la realización de las inspecciones.
+
+c) Deberán contar con autorización oficial del organismo oficial responsable, que se otorgará bien una vez que los inspectores hayan prestado juramento, o bien previa firma de una declaración por escrito en que se comprometan a cumplir las normas que regulen los exámenes oficiales.
+
+d) Llevarán a cabo las inspecciones bajo supervisión oficial de acuerdo con las normas aplicables a las inspecciones oficiales.
+
+El cultivo que vaya a inspeccionarse se habrá obtenido de semillas que hayan sido sometidas a un control oficial "a posteriori" con resultados satisfactorios.
+
+Los inspectores oficiales procederán al control de una parte de los cultivos. La parte controlada será del 10 por 100 en el caso de cultivos de espe cies autógamas y del 20 por 100 en el caso de cultivos de especies alógamas; dicha parte será del 5 por 100 o del 15 por 100, respectivamente, cuando se trate de especies para las cuales se haya establecido que sus semillas se someterán a pruebas de laboratorio oficiales para determinar su variedad y establecer su pureza mediante procedimientos morfológicos, fisiológicos o, cuando proceda, bioquímicos.
+
+Una parte de las muestras, tomadas oficialmente, procedentes de las partidas de semillas cosechadas a partir de estos cultivos se someterá a un control oficial "a posteriori" y, en su caso, a pruebas de laboratorio oficiales para determinar su identidad y pureza varietales. El organismo oficial responsable determinará el número de muestras que se someterá a ese control.
+
+En los reglamentos técnicos se establecerán el procedimiento a seguir para acceder a este tipo de inspecciones y las determinaciones oficiales a efectuar, según las especies a las que sean de aplicación.
+
+El Ministerio de Agricultura, Pesca y Alimentación determinará las sanciones aplicables a las infracciones de las normas que regulen los exámenes bajo supervisión oficial. Las sanciones impuestas deberán ser eficaces, proporcionadas y disuasorias. Las penalizaciones podrán abarcar, entre otras cosas, la retirada de la autorización otorgada a los inspectores oficialmente autorizados que incumplan deliberadamente o por negligencia las normas que regulan los exámenes oficiales. En caso de tal infracción, se anulará la certificación de las semillas examinadas, salvo en caso de que pueda demostrarse que dichas semillas cumplen los requisitos pertinentes.
+
+Se podrán adoptar medidas suplementarias, aplicables a la realización de los exámenes bajo supervisión oficial de acuerdo con la normativa comunitaria.
 
 14. Requisitos especiales para las semillas de base y prebase y materia vegetal de base. En los procesos de producción de semilla y material vegetal de base, así como en los de semillas de prebase, se observarán las siguientes normas:
 
@@ -72,7 +104,11 @@ i) Condiciones para semillas especiales: Monogérmenes, poliploides y otras.
 
 j) Otras características particulares que señalen los Reglamentos Técnicos.
 
-Cuando las circunstancias especiales inherentes a la producción lo aconsejen, y siempre de acuerdo con la normativa comunitaria, el Ministerio de Agricultura, Pesca y Alimentación podrá fijar transitoriamente exigencias inferiores a las que establezcan los Reglamentos Técnicos, debiendo en ese caso figurar ese particular en las etiquetas oficiales de los envases o, en su caso, en la del productor.
+k) Condiciones para las semillas destinadas a la producción ecológica.
+
+Con el fin de eliminar cualquier dificultad temporal de suministro general de semillas de base, de semillas certificadas, de semillas comerciales o de semillas estándar que se presenten en la Comunidad, y que no puedan solucionarse de otro modo, podrá decidirse, de acuerdo con la normativa comunitaria, que se permita la comercialización, durante un período determinado, de semillas de una categoría sometida a requisitos menos estrictos que los exigidos en la normativa, o de semillas de una variedad no incluida en el catálogo común de variedades de especies de plantas agrícolas o en el de plantas hortícolas ni inscrita en el registro de variedades comerciales, en las cantidades necesarias para resolver las dificultades de abastecimiento.
+
+Cuando se trate de una categoría de semillas de una variedad determinada, la etiqueta oficial o la etiqueta del proveedor será la prevista para la categoría correspondiente; la etiqueta será de color marrón para las semillas de variedades no incluidas en los catálogos anteriormente mencionados. La etiqueta indicará siempre: "semillas sometidas a requisitos menos estrictos".
 
 Se podrá autorizar la certificación y comercialización de semillas de base que no cumplan los requisitos mínimos para la germinación marcados en el correspondiente Reglamento Técnico, en cuyo caso el productor deberá incluir una etiqueta especial en el envase indicando el porcentaje de germinación real de la semilla, así como su nombre, dirección y número del lote.
 
@@ -91,6 +127,8 @@ d) Sanidad.
 e) Técnicas de preparación del material.
 
 f) Otras características.
+
+> Se modifican los apartados 8, 10, 13 y 15 por el art. 1.3 a 7 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333.
 
 > Se declara que corresponde al Estado la competencia prevista en el apartado 10, con el alcance que se establece en el fundamento jurídico 2º, por Sentencia del TC 115/1991, de 23 de mayo. Ref. BOE-T-1991-15648
 
