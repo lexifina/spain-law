@@ -1,0 +1,5 @@
+## Disposición transitoria tercera.
+
+Hasta tanto no se proceda a desarrollar por los Ministerios de Educación y Ciencia y de Sanidad y Consumo lo previsto en la base tercera de este Real Decreto, se considerará que reúnen los requisitos para concertar con las Universidades los Hospitales que a 31 de diciembre de 1984 tuviesen la consideración de Hospitales clínicos, o tuvieran firmado concierto con la Universidad para cumplir los fines a que se refiere el presente Real Decreto o estuvieran acreditados para la formación de especialistas, según lo dispuesto en el Real Decreto 127/1984, por el que se regula la formación médica especializada y la obtención del título de Médico Especialista.
+
+En todo caso. los conciertos que celebren las Universidades con las Administraciones Públicas responsables de los Hospitales que a 31 de diciembre de 1984 tenían la condición de clínicos, deberán cumplir la condición que se establece en la base quinta, con el fin de que pasen a denominarse Hospitales universitarios.
