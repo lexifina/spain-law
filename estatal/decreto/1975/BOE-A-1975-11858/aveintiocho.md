@@ -6,8 +6,10 @@ Dos. Las plantas embotelladoras situadas fuera de recinto industrial recibirán 
 
 Tres. En las plantas embotelladoras no se podrá variar, bajo ningún pretexto, ni el volumen ni la graduación de los productos recibidos. Asimismo, queda prohibida la mezcla de productos de distinta clase, graduación u origen, y, en general, cualquier manipulación que pueda modificar las características físico-químicas de los productos recibidos.
 
-Cuatro. Se prohíbe el establecimiento de plantas para envasar o embotellar ron o sus componentes en todo el territorio nacional, salvo que dichas plantas constituyan una sección fabril dependiente de una o varias industrias elaboradoras de ron.
+Cuatro. (Derogado)
 
 Cinco. Cuando se trate de establecer plantas para envasar o embotellar ron o sus componentes en puertos o zonas francas, las competencias que se atribuyen en la presente Reglamentación se ejercerán sin perjuicio de lo establecido en las disposiciones aplicables a dichas zonas o puertos.
 
 Seis. Estas plantas envasadoras-embotelladoras situadas fuera de los recintos industriales elaboradores de ron requieren autorización especial del Ministerio de Industria.
+
+> Se deroga el apartado 4 por la disposición derogatoria 3 del Real Decreto 1347/1990, de 26 de octubre. Ref. BOE-A-1990-27007.
