@@ -1,0 +1,11 @@
+El Sistema Legal de Unidades de Medida, así como los principios y normas geneales a los que habrán de ajustarse la organización y el régimen jurídico de la actividad metrológica en España, vienen establecidos en la actualidad por la Ley 3/1985, de 18 de marzo, de Metrología, una de cuyas piezas claves ha sido el establecimiento de un control metrológico por parte del Estado, al que deberán someterse, en defensa de la seguridad, de la protección de la salud y de los intereses económicos de los consumidores y usuarios, todos los instrumentos, aparatos, medios y sistemas de medida, que sirvan para pesar, medir o contar, y que ha sido desarrollado por el Real Decreto 1616/1985, de 11 de septiembre.
+
+Producida la adhesión de España a las Comunidades Europeas, por Real Decreto Legislativo 1296/1986, de 28 de junio, se modifica la Ley de Metrología para adaptarla al derecho derivado comunitario, estableciéndose, además del control del Estado, un control metrológico especial, con efectos en el ámbito de la Comunidad Económica Europea, denominado Control Metrológico CEE, que será aplicable, si los equipos de control de que se dispone por el Estado lo permiten, a los instrumentos de medida y a los métodos de control metrológico regulados por una Directiva específica de la Comunidad Económica Europea, y que ha sido reglamentado por el Real Decreto 597/1988, de 10 de junio.
+
+Entre las normas comunitarias reguladoras de instrumentos de medida y métodos de control metrológico, se encuentra la Directiva 71/347/CEE, de 12 de octubre de 1971, relativa a la aproximación de las legislaciones de los Estados miembros sobre la medida de la masa del hectolitro CEE de cereales.
+
+La presente Orden no tiene otro objeto que incorporar al derecho interno español la Directiva mencionada, y se dicta en uso de la autorización otorgada al Ministerio de Obras Públicas y Urbanismo por la disposición final primera del Real Decreto 597/1988, de 10 de junio, por el que se regula el Control Metrológico CEE,
+
+En su virtud,
+
+DISPONGO:
