@@ -309,6 +309,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 224](a224.md)
 - [Artículo 225](a225.md)
 - [SECCIÓN 2](s2-5.md)
+- [Artículo 225 bis](a225bis.md)
+- [SECCIÓN 3](s3-3.md)
 - [Artículo 226](a226.md)
 - [Artículo 227](a227.md)
 - [Artículo 228](a228.md)
