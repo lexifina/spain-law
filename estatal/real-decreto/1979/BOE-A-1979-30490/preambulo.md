@@ -1,0 +1,11 @@
+Entre las medidas de perfeccionamiento del proceso presupuestario que el Programa Económico del Gobierno señala como instrumentos para un mejor control del gasto público figura la creación de Oficinas Presupuestarias en cada Departamento ministerial.
+
+Los objetivos que se persiguen con la creación de dichas Oficinas Presupuestarias vienen igualmente definidos en el Programa Económico del Gobierno: La descentralización del proceso de elaboración presupuestaria, su perfeccionamiento y la simplificación burocrática de su gestión. El perfeccionamiento del proceso presupuestario, iniciado en nuestro país hace algunos años mediante la aplicación de nuevas técnicas, debe continuarse, fundamentalmente, con la implantación de los sistemas de presupuestos por programas y de presupuesto base cero, como métodos más adecuados para una asignación racional de los recursos públicos, la adopción de nuevos métodos de decisión de gasto y la revisión de los programas de gastos existentes.
+
+En base a estos objetivos se definen las funciones de las Oficinas Presupuestarias, que tratan de aglutinar en una sola unidad administrativa servicios dispersos de presupuestación, análisis y evaluación ya existentes en muchos Departamentos ministeriales; lo cual permitirá integrar y armonizar las fases del proceso presupuestario, conectarlo con los planes y programas operativos a corto y medio plazo de los servicios gestores y disponer de un Órgano de trabajo permanente, y no esporádico, para la elaboración, decisión y seguimiento del presupuesto.
+
+La trascendencia de las funciones que se les atribuyan aconseja su inclusión en la estructura de los diversos Ministerios, con rango de Subdirección General, bajo la dependencia del Subsecretario del Departamento. Igualmente se considera necesario, por el carácter de unidad y coherencia de los procesos presupuestarios, el establecimiento de las unidades orgánicas precisas en los Organismos autónomos, que serán coordinadas por la Oficina Presupuestaria del Departamento de que dependan.
+
+En su virtud, a propuesta de los Ministros de le Presidencia y de Hacienda y previa deliberación del Consejo de Ministros en su reunión del día veintiuno de diciembre de mil novecientos setenta y nueve,
+
+DISPONGO:
