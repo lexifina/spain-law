@@ -122,6 +122,8 @@
 | 93 | 2,4-diaminopirimidina3-óxido (número CAS 74638-76-9) | Producto para el tratamiento del cabello. | 1,5%. |  |  |
 | 94 | Peróxido de benzoilo. | Sistemas de uñas artificiales. | 0,7% (después de la mezcla). | Reservado a profesionales. | Reservado a los profesionales. Evítese el contacto con la piel. Leánse las instrucciones de uso. |
 | 95 | Hidroquinona dimetil éter. | Sistemas de uñas artificiales. | 0,02% (después de la mezcla para su utilización). | Reservado a profesionales. | Reservado a los profesionales. Evítese el contacto con la piel. Leánse las instrucciones de uso. |
+| 96 | Almizcle de xileno (n.º CAS 81-15-2) | Todos los productos cosméticos, excepto los productos para higiene bucal. | a) 1,0 % en perfumes. b) 0,56 % en aguas de colonia. c) 0,03 % en otros productos. |  |  |
+| 97 | Almizcle de cetona (n.º CAS 81-14-1) | Todos los productos cosméticos, excepto los productos para higiene bucal. | a) 1,4 % en perfumes. b) 0,56 % en aguas de colonia. c) 0,042 % en otros productos. |  |  |
 
 * Esta sustancia podrá emplearse por separado o mezclada en cantidades tales que la suma de las proporciones de los contenidos del producto cosmético en cada una de estas sustancias respecto al contenido máximo autorizado respecto a cada una de ellas no exceda de 2.
 
@@ -136,6 +138,10 @@ Se denomina «cociente relativo» a la relación entre la concentración de una 
 Se denomina «cociente relativo» a la relación entre la concentración de una sustancia y la concentración máxima permitida para esa sustancia.
 
 (4) La cantidad de hidróxido de potasio, sodio o litio se expresa en peso de hidróxido de sodio. En caso de mezclas, la suma no debería sobrepasar los límites establecidos en la columna d).
+
+> Se añaden los números 96 y 97 por el apartado 1.a) de la Orden SCO/3664/2004, de 11 de noviembre. Ref. BOE-A-2004-19241.
+
+> Redactado conforme a las correcciones de errores publicadas en BOE núms. 312, de 28 de diciembre de 2004. Ref. BOE-A-2004-21695. y 149, de 23 de juno de 2005. Ref. BOE-A-2005-10627.
 
 > Se modifican los números 14, 61, 62 y 63 y se añaden el 93, 94 y 95 por el apartado 1.2 de la Orden SCO/2592/2004, de 21 de julio. Ref. BOE-A-2004-14315.
 
