@@ -67,3 +67,7 @@ Dos. Para las Mutualidades que a continuación se citan, la escala de porcentaje
 | A los 33 años | 28 |
 | A los 34 años | 29 |
 | A los 35 años | 30 |
+
+> Se deroga la escala contenida en el apartado 2 siendo de aplicación la escala establecida en el apartado 1 a las Mutualidades incluidas en el apartado 2, por el art. 1.1 y 2 del Decreto 1562/1967, de 6 de julio. Ref. BOE-A-1967-12424.
+
+> Esta modificación surte efectos desde el 1 de enero de 1967, según establece el art. 3.1.
