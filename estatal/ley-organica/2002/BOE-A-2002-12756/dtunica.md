@@ -1,0 +1,5 @@
+## Disposición transitoria única.
+
+1. Los partidos políticos inscritos en el Registro del Ministerio del Interior a la entrada en vigor de la presente Ley Orgánica estarán sujetos a la misma y conservarán su personalidad jurídica y la plenitud de su capacidad, sin perjuicio de adaptar sus estatutos, en caso necesario, en el plazo de un año.
+
+2. A los efectos de aplicar lo previsto en el apartado 4 del artículo 9 a las actividades realizadas con posterioridad a la entrada en vigor de la presente Ley Orgánica, tendrá la consideración de fraude de ley la constitución, en fecha inmediatamente anterior o posterior a dicha entrada en vigor, de un partido político que continúe o suceda la actividad de otro, realizada con la intención de evitar la aplicación a éste de las disposiciones de esta Ley. Ello no impedirá tal aplicación, pudiendo actuarse respecto de aquél conforme a lo previsto en los artículos 10 y 11 de esta Ley Orgánica, correspondiendo a la Sala especial del Tribunal Supremo la apreciación de la continuidad o sucesión y la intención de defraudar.
