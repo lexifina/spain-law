@@ -1,0 +1,17 @@
+La Ley Orgánica 4/1997, de 4 de agosto, por la que se regula la utilización de videocámaras por las Fuerzas y Cuerpos de Seguridad en lugares públicos, ha establecido el marco jurídico aplicable a la utilización de los sistemas de grabación de imágenes y sonidos, como medio del que pueden servirse las Fuerzas y Cuerpos de Seguridad en el cumplimiento de su misión, encomendada por el artículo 104 de la Constitución, de proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.
+
+Esta novedosa regulación no sólo tiene por finalidad poner a disposición de las Fuerzas y Cuerpos de Seguridad el empleo de estos medios para la prevención de actos delictivos, la protección de las personas y la custodia de bienes en espacios públicos, sino que su finalidad primordial consiste en establecer las garantías necesarias para que dicha utilización sea estrictamente respetuosa con los derechos y libertades de los ciudadanos.
+
+Así, las normas contenidas en la citada Ley someten, en primer lugar, la utilización de videocámaras a autorización administrativa previa, si bien el régimen de autorización es distinto según se trate de instalaciones fijas de videocámaras o de videocámaras móviles. En segundo lugar, describen los principios de su utilización, esto es, los principios de idoneidad e intervención mínima. Y en tercer lugar, establecen las garantías precisas en relación con las videograbaciones resultantes.
+
+Dentro del régimen de garantías establecido en la Ley Orgánica 4/1997 tiene un papel clave la Comisión prevista en su artículo 3, como órgano consultivo dotado de independencia de la autoridad administrativa competente para otorgar la autorización. La Ley atribuye a esta Comisión el informe previo necesario para la autorización de instalaciones fijas de videocámaras, así como el informe, a posteriori, de la autorización de videocámaras móviles. En ambos casos, si el informe es negativo o condicionante, tiene carácter vinculante.
+
+El mencionado artículo 3 establece que la composición y funcionamiento de esta Comisión, cuya presidencia corresponderá al Presidente del Tribunal Superior de Justicia en la Comunidad Autónoma de que se trate, así como la participación de los municipios en ella, se determinará reglamentariamente.
+
+Otra de las garantías establecidas en la Ley Orgánica 4/1997 es el régimen aplicable a la conservación de las grabaciones, para el cual impone importantes limitaciones, tales como su destrucción en el plazo de un mes, con carácter general, y los derechos de los interesados de acceso y cancelación de las mismas. En este régimen resulta fundamental la responsabilidad atribuida al órgano o autoridad gubernativa que tenga a su cargo la custodia de las imágenes obtenidas, sobre el ulterior destino de las mismas y en la resolución de las peticiones de acceso o cancelación. El apartado 4 del artículo 8 de la Ley Orgánica citada establece que reglamentariamente la Administración competente determinará dicho órgano o autoridad gubernativa.
+
+Así pues, resulta necesario para la aplicación de la Ley Orgánica 4/1997, el desarrollo reglamentario de estas garantías establecidas en la misma.
+
+En su virtud, a propuesta del Ministro del Interior, con la aprobación del Ministro de Administraciones Públicas, previo informe del Consejo General del Poder Judicial, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 16 de abril de 1999,
+
+DISPONGO:

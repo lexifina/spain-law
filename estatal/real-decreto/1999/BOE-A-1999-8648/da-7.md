@@ -1,0 +1,7 @@
+## Disposición adicional sexta. Comisiones de Garantías de la Videovigilancia en las Comunidades Autónomas aludidas en la disposición adicional primera de la Ley Orgánica 4/1997.
+
+1. En las Comunidades Autónomas a las que se refiere la disposición adicional primera de la Ley Orgánica 4/1997, podrá existir una única Comisión de Garantías de la Videovigilancia para la instalación de videocámaras por cualquiera de las Fuerzas y Cuerpos de Seguridad que actúen en las mismas, previa suscripción del correspondiente convenio de colaboración al efecto entre la Administración General del Estado y la de la Comunidad Autónoma.
+
+2. En el caso de hacerse uso de la facultad prevista en el apartado anterior, formarán parte de la Comisión de Garantías de la Videovigilancia, en todo caso, el Presidente del Tribunal Superior de Justicia de la Comunidad Autónoma, que la presidirá, y como vocales, el Fiscal Jefe de dicho Tribunal, dos representantes designados por la Administración General del Estado, dos representantes designados por la Administración autonómica y dos Alcaldes, designados por las dos asociaciones de entidades locales con mayor implantación en el ámbito autonómico.
+
+Podrán asistir, como asesores, expertos en materia de seguridad ciudadana, designados por la Administración autorizante en función de la distribución competencial en esta materia, que participarán en las reuniones con voz y sin voto.
