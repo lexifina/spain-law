@@ -1,0 +1,3 @@
+La disposición final primera de la Ley 42/1994, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social, en relación con lo dispuesto en la disposición final tercera de la Ley 39/1992, de 29 de diciembre, de Presupuestos Generales del Estado para 1993, establece que por la Secretaría de Estado para la Administración Pública se modificarán los procedimientos de jubilación del personal civil incluido en el ámbito de cobertura del Régimen de Clases Pasivas del Estado, con el fin de agilizar y simplificar los trámites necesarios para proceder al reconocimiento y pago de las pensiones públicas.
+
+En su virtud, previo informe de la Comisión Superior de Personal, he dispuesto:
