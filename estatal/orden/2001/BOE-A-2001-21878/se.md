@@ -1,0 +1,3 @@
+## Segundo.
+
+Se habilita a la Comisión Nacional del Mercado de Valores para dictar las disposiciones necesarias para la ejecución y el desarrollo del Real Decreto 948/2001, de 3 de agosto, sobre Sistemas de Indemnización de los Inversores, en particular en lo que concierne al régimen de inversiones y de financiación de los fondos de garantía de inversiones y a la información que se debe proporcionar a los inversores, tanto sobre la cobertura de que disfrutan los inversores como sobre supuestos concretos en que se hayan producido las circunstancias que den lugar a la ejecución de la garantía que prestan dichos fondos.

@@ -1,0 +1,9 @@
+El artículo 15 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, establece que la Comisión Nacional del Mercado de Valores, para el adecuado ejercicio de las competencias que le atribuye la Ley, podrá dictar las disposiciones que exija el desarrollo y ejecución de las normas contenidas en los Reales Decretos aprobados por el Gobierno.
+
+El 3 de agosto de 2001, fue aprobado por el Real Decreto 948/2001, sobre Sistemas de Indemnización de los Inversores, que viene a constituir un importante mecanismo de protección de los inversores en caso de no poder obtener de las empresas de servicios de inversión el reembolso de las cantidades de dinero o la restitución de los valores o instrumentos financieros que les pertenezcan y que aquéllas tuvieran en depósito con motivo de la realización de servicios de inversión o de cualquier otra actividad complementaria en los términos previstos en las Leyes.
+
+Es necesario, a tenor del artículo 5 del citado Real Decreto, para que se ponga en marcha el mecanismo de protección del fondo de garantía de inversiones, que la empresa de servicios de inversión haya sido declarada en quiebra, se haya solicitado judicialmente la declaración de suspensión de pagos o que la Comisión Nacional del Mercado de Valores (CNMV) haya emitido una declaración en la que se acredite que la entidad no puede cumplir con las obligaciones contraídas con los inversores.
+
+Teniendo en cuenta las facultades que se otorgan al Ministro de Economía en la disposición final segunda del Real Decreto, y con el fin de flexibilizar y agilizar la entrada en funcionamiento y el régimen de los fondos de garantía de inversiones, la presente Orden tiene por objeto habilitar a la Comisión Nacional del Mercado de Valores para desarrollar el mencionado Real Decreto, en los términos que se expresan a continuación.
+
+En su virtud, previo informe del Comité Consultivo de la Comisión Nacional del Mercado de Valores, dispongo:
