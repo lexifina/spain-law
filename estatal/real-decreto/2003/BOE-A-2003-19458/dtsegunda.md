@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Opción para acogerse a la cobertura por incapacidad temporal producida antes del 1 de enero de 1998.
+
+No obstante lo dispuesto en el artículo primero.uno, que da nueva redacción al apartado 2.2.º del artículo 47 del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, las opciones para acogerse a la cobertura por incapacidad temporal que se hubiesen producido antes del 1 de enero de 1998, formalizadas con una entidad gestora o con una mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, mantendrán su validez con la entidad con la que se hubiesen celebrado, a los efectos de lo previsto en el citado artículo 47.2.

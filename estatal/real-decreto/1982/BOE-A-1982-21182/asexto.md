@@ -1,3 +1,5 @@
 ## Artículo sexto.
 
-La prestación económica en las diversas situaciones constitutivas de Incapacidad Laboral Transitoria consistirá en un subsidio equivalente al setenta y cinco por ‘ciento de la base mensual por la que el trabajador viniera cotizando.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 1273/2003, de 10 de octubre. Ref. BOE-A-2003-19458.
