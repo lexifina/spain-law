@@ -1,0 +1,3 @@
+## Artículo catorce.
+
+La Autoridad de Marina deberá proveer siempre al salvamento de vidas humanas que se encuentren en peligro en el mar, empleando para ello todos los medios de que disponga, pudiendo a este objeto utilizar toda clase de buques y embarcaciones y ordenar a sus dotaciones la prestación del socorro, así como requerir el auxilio de las Autoridades de otros órdenes. Cuando se trate de evitar la pérdida de una nave en peligro, la Autoridad de Marina apreciará la conveniencia de proceder a su salvamento, utilizando en su caso, los medios de carácter público u oficial que tenga a su disposición.
