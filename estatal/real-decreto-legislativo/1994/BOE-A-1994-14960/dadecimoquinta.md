@@ -1,0 +1,3 @@
+## Disposición adicional decimoquinta. Cotización por desempleo en el Régimen Especial de Trabajadores del Mar.
+
+Sin perjuicio de lo establecido en el artículo 224, a las bases de cotización para desempleo en el Régimen Especial de Trabajadores del Mar les será también de aplicación lo dispuesto en el número 6 del artículo 19 del texto refundido de las Leyes 116/1969, de 30 de diciembre, y 24/1972, de 21 de junio, por el que se regula el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, aprobado por Decreto 2864/1974, de 30 de agosto, y en las normas de desarrollo de dicho precepto.

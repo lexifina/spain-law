@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Integración de entidades sustitutorias.
+
+El Gobierno, a propuesta del Ministerio de Trabajo y Seguridad Social, determinará la forma y condiciones en que se integrarán en el Régimen General de la Seguridad Social, o en alguno de sus Regímenes Especiales, aquellos colectivos asegurados en entidades sustitutorias aún no integrados que, de acuerdo con lo dispuesto en la presente Ley, se encuentren comprendidos en el campo de aplicación del sistema de la Seguridad Social. Las normas que se establezcan contendrán las disposiciones de carácter económico que compensen, en cada caso, la integración dispuesta.

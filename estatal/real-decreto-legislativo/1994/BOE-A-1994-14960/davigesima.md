@@ -1,0 +1,3 @@
+## Disposición adicional vigésima. Consideración de los servicios prestados en segundo puesto o actividad a las Administraciones Públicas.
+
+En los supuestos de compatibilidad entre actividades públicas, autorizada al amparo de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, los servicios prestados en el segundo puesto o actividad no podrán ser computados a efectos de pensiones del sistema de la Seguridad Social, en la medida en que rebasen las prestaciones correspondientes a cualquiera de los puestos compatibilizados, desempeñados en régimen de jornada ordinaria. La cotización podrá adecuarse a esta situación en la forma que reglamentariamente se determine.

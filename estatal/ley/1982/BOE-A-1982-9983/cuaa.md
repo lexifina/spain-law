@@ -1,3 +1,5 @@
 ## Disposición final cuarta.
 
-Se modifica el artículo ciento treinta y dos de la Ley de la Seguridad Social, texto refundido, para que no sea necesaria el alta médica para la valoración de la invalidez permanente, cuyas secuelas son definitivas.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.g).2 del Real Decreto Legislativo 1/1994, de 20 de junio. Ref. BOE-A-1994-14960.

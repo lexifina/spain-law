@@ -1,3 +1,5 @@
 ## Disposición transitoria séptima.
 
-Las situaciones excepcionalmente que pudieran derivarse del período transitorio serán resueltas con arreglo a los principios inspiradores de las normas precedentes.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.a).5 del Real Decreto Legislativo 1/1994, de 20 de junio. Ref. BOE-A-1994-14960#ddunica.

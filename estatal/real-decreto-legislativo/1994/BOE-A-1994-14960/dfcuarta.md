@@ -1,0 +1,3 @@
+## Disposición final cuarta. Acomodación de las normas sobre pensión de jubilación por disminución de la edad.
+
+El Gobierno, a propuesta del Ministerio de Trabajo y Seguridad Social, acomodará la legislación vigente sobre pensión de jubilación en el sistema de Seguridad Social a efectos de la aplicación de lo previsto en el artículo 166 de la presente Ley y en aquellos otros supuestos en los que la edad establecida con carácter general para tener derecho a dicha pensión haya de ser rebajada en desarrollo de medidas de fomento de empleo, siempre que las mismas conduzcan a la sustitución de unos trabajadores jubilados por otros en situación de desempleados.

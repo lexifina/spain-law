@@ -6,8 +6,4 @@
 
 3. Dichas prestaciones serán otorgadas en las condiciones que fije el Ministerio de Trabajo y con la participación de las Entidades que, en su caso, hubieran satisfecho las mencionadas indemnizaciones.
 
-4. Cuando para determinar la base reguladora de la pensión por invalidez permanente, en el grado de incapacidad absoluta para todo trabajo o de gran invalidez, hayan de computarse bases de cotización en las que la cuantía de la base complementaria individual esté sujeta a una limitación con respecto a la de la base tarifada, se entenderá sustituida cada una de las bases de cotización en las que concurra tal circunstancia por el salario real del trabajador en el mes de que se trate, computado con arreglo a las normas que para la incapacidad permanente se establecían en el capítulo V del Reglamento para aplicación del Texto Refundido de la Legislación de Accidentes de Trabajo, aprobado por Decreto de 22 de junio de 1956, con las dos salvedades siguientes:
-
-a) No se aplicará lo dispuesto en el presente número cuando el salario real así computado resultase inferior a la base de cotización del inválido.
-
-b) Si en alguno de los meses a que corresponda la base de cotización el salario real satisfecho al interesado fuese inferior, por razones de edad, capacidad disminuida o cualquier otra circunstancia similar, a la cifra del salario mínimo interprofesional correspondiente a los trabajadores adultos, será éste el que sustituya a la base de cotización.
+> Se deroga el apartado 4 por la disposición derogatoria única.a).5 del Real Decreto Legislativo 1/1994, de 20 de junio. Ref. BOE-A-1994-14960#ddunica.

@@ -16,4 +16,4 @@ La superación de estos límites, en cómputo anual, requiere en cada caso acuer
 
 2. Los servicio prestados en el segundo puesto o actividad no se computarán a efectos de trienios ni de derechos pasivos, pudiendo suspenderse la cotización a este último efecto. Las pagas extraordinarias, así como las prestaciones de carácter familiar, sólo podrán percibirse por uno de los puestos, cualquiera que sea su naturaleza.
 
-3. Los servicios prestados en el segundo puesto o actividad tampoco se computarán a efectos de pensiones de Seguridad Social en la medida en que puedan rebasarse las prestaciones correspondientes a cualquiera de los puestos compatibilizados, desempeñados en régimen de jornada ordinaria, pudiendo adecuarse la cotización en la forma que reglamentariamente se determine.
+> Se deroga el apartado 3 por la disposición derogatoria única.k) del Real Decreto legislativo 1/1994, de 20 de junio. Ref. BOE-A-1994-14960

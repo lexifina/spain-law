@@ -1,0 +1,3 @@
+## Disposición adicional decimosexta. Cobertura de desempleo para trabajadores retribuidos a la parte.
+
+Los trabajadores por cuenta ajena retribuidos a la parte, que presten servicios en embarcaciones pesqueras de hasta 20 toneladas de registro bruto, excluidos los asimilados a que se refiere el artículo cuarto del texto refundido de las Leyes 116/1969, de 30 de diciembre, y 24/1972, de 21 de junio, por el que se regula el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, aprobado por Decreto 2864/1974, de 30 de agosto, tendrán derecho a las prestaciones por desempleo en los términos regulados en la presente Ley y en sus normas reglamentarias.

@@ -1,3 +1,5 @@
 ## Disposición final cuarta.
 
-Las disposiciones establecidas en la Ley de Mutualidades, de 6 de diciembre de 1941, se declaran subsistentes en cuanto no se opongan a las normas contenidas en la presente Ley.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.a).3 del Real Decreto Legislativo 1/1994, de 20 de junio. Ref. BOE-A-1994-14960#ddunica.

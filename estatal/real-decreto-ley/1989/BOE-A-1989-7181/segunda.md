@@ -1,5 +1,5 @@
 ## Disposición adicional segunda.
 
-Los trabajadores fijos discontinuos que hayan agotado la prestación por desempleo de nivel contributivo o que no hayan accedido a ella por no haber cubierto el período mínimo de cotización necesario tendrán derecho a subsidio por desempleo cuando se encuentren en las situaciones previstas en las letras a), b) y d) del número 1 del artículo 13 de la Ley 31/1984, de 2 de agosto, de Protección por Desempleo, según la redacción dada por la presente norma. La duración del subsidio en estos supuestos será equivalente al número de meses cotizados en el año inmediatamente anterior al momento de la solicitud, sin que resulte aplicable la disminución de la duración prevista en la letra c) del número 3 del artículo 14 de la citada Ley.
+(Derogada)
 
-No serán tampoco de aplicación a estos trabajadores, mientras mantengan dicha condición, los subsidios por desempleo previstos en los números 2 y 3 del artículo 13 de la citada Ley 31/1984, de 2 de agosto, de Protección por Desempleo, según la redacción dada por la presente norma.
+> Se deroga por la disposición derogatoria única.p).2 del Real Decreto Legislativo 1/1994, de 20 de junio. Ref. BOE-A-1994-14960.

@@ -1,0 +1,3 @@
+## Disposición final sexta. Efectos de las modificaciones en materia de protección por desempleo.
+
+Lo previsto en el párrafo b) del apartado 1.1 del artículo 206, en el párrafo g) del apartado 1.1 del artículo 208, en el apartado 3 del artículo 211, en los apartados 1, 2 y 4 del artículo 214, en el primer párrafo del apartado 1.1 y en el apartado 2 del artículo 215, y en el apartado 1 del artículo 217, no será de aplicación a las situaciones legales de desempleo producidas con anterioridad al 1 de enero de 1994 y a los subsidios por desempleo nacidos antes de la misma fecha, que continuarán rigiéndose por las normas vigentes en el momento de producirse.

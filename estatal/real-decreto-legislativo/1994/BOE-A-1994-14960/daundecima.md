@@ -1,0 +1,3 @@
+## Disposición adicional undécima. Formalización de la cobertura de la prestación económica por incapacidad laboral transitoria.
+
+Los trabajadores por cuenta propia que hayan optado por incluir, dentro del ámbito de la acción protectora del Régimen de Seguridad Social correspondiente, la prestación económica por incapacidad laboral transitoria, podrán optar entre formalizar la cobertura de dicha prestación con la entidad gestora correspondiente, con una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social o con Mutualidades de Previsión Social, en los términos y condiciones que se determinen reglamentariamente.
