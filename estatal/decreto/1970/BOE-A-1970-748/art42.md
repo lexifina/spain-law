@@ -1,5 +1,5 @@
 ## Art. 42º. Prescripción y prelación de créditos.
 
-1. La obligación del pago de cuotas y primas a este Régimen Especial prescribirá a los cinco años, a contar de la fecha en que preceptivamente debieron ser ingresadas. La prescripción quedará interrumpida por las causas ordinarias y, en todo caso, por acta de liquidación o requerimiento de pago del descubierto.
+(Derogado)
 
-2. Las cotizaciones a este Régimen Especial gozarán de la prelación establecida en el apartado segundo, inciso E), del artículo 1.924 del Código Civil y en el inciso D) del apartado primero del artículo 913 del Código de Comercio.
+> Se deroga por la disposición derogatoria única.1.2 del Reglamento aprobado por Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

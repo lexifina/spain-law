@@ -1,3 +1,5 @@
 ## Artículo veinticuatro. Certificaciones de descubierto y actas de liquidación.
 
-En materia de requerimientos, actas de liquidación y certificaciones de descubierto se estará a lo dispuesto para el régimen general de la Seguridad Social, con la particularidad de que las atribuciones que en aquél se determinan en favor de la Oficina Delegada de la Inspección de Trabajo e Instituto Nacional de Previsión quedarán referidas, respectivamente, a la Inspección Provincial de Trabajo y a las Entidades gestoras de este régimen especial. De igual forma, las referencias que en el régimen general se contengan a los empresarios se entenderán hechas en este régimen especial a los sujetos responsables a que se refiere el artículo diecinueve de este Decreto.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.3 del Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

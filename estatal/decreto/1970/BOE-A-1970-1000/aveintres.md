@@ -1,3 +1,5 @@
 ## Artículo veintrés. Control de la recaudación.
 
-El control tanto de los ingresos como de su falta, se efectuará por las Entidades gestoras de este régimen especial de la Seguridad Social, que ejercerán a tales efectos las mismas funciones que las atribuidas al Instituto Nacional de Previsión en el régimen general.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.3 del Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

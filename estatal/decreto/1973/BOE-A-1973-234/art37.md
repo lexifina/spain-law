@@ -1,3 +1,5 @@
 ## Art. 37. Cotización de los trabajadores por cuanta propia al régimen de accidentes de trabajo y enfermedades profesionales.
 
-Para determinar la cotización al régimen de accidentes de trabajo y enfermedades profesionales de los trabajadores por cuenta propia, serán de aplicación en todo caso las bases tarifadas a que se refiere el artículo 31 de este Reglamento.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.4 del Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

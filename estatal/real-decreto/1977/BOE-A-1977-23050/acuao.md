@@ -1,5 +1,5 @@
 ## Artículo cuarto.
 
-Uno. A los efectos de lo previsto en el presente Real Decreto, las Diócesis asumirán los derechos y obligaciones establecidos para los empresarios en el Régimen General de la Seguridad Social.
+(Derogado)
 
-Dos. Los sujetos afectados por lo establecido en el presente Real Decreto quedarán incluidos, a efectos de encuadramiento mutualista, en la Mutualidad Laboral de Actividades Diversas.
+> Se deroga por la disposición derogatoria única.1.7 del Reglamento aprobado por Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

@@ -1,5 +1,5 @@
 ## Art. 36º. Alcance de la obligación de cotizar.
 
-1. Será obligatorio cotizar por la base de tarifa que corresponda a la categoría profesional asignada al trabajador, cualquiera que fuere el número de horas que trabaje diariamente. Para los estibadores portuarios, la cotización se efectuará sobre las bases tarifadas que les correspondan y en relación con los turnos de trabajo que realicen.
+(Derogado)
 
-2. Cuando un trabajador no permanezca en alta en este Régimen Especial durante todo el mes, sólo cotizará por los días de alta. A tal efecto, las bases mensuales de cotización se dividirán por treinta, obteniéndose así las fracciones que hayan de aplicarse.
+> Se deroga por la disposición derogatoria única.1.2 del Reglamento aprobado por Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

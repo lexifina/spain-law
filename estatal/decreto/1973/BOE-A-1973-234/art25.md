@@ -1,3 +1,5 @@
 ## Art. 25. Cotización por accidentes de trabajo y enfermedades profesionales.
 
-La cotización de cada empresario al régimen de accidentes de trabajo y enfermedades profesionales se efectuará de conformidad con las tarifas de primas que reglamentariamente se establezcan sobre las remuneraciones que efectivamente perciban los trabajadores por el trabajo que realicen por cuenta ajena, valoradas de acuerdo con las normas aplicables en el Régimen General.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.4 del Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

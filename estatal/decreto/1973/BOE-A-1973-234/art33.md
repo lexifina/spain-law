@@ -1,3 +1,5 @@
 ## Art. 33. Recaudación en período voluntario.
 
-La recaudación de la cuota de los trabajadores se efectuará mediante ingresos individuales y directos de los mismos en las Comisiones Locales de la Mutualidad Nacional Agraria, dentro del mes natural siguiente a aquel a que la cotización corresponda y de acuerdo con el procedimiento que al efecto se establezca.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.4 del Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

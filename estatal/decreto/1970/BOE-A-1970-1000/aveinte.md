@@ -1,3 +1,5 @@
 ## Artículo veinte. Liquidación de cuotas.
 
-Los períodos de liquidación de cuotas y sus condiciones, así como los plazos, Iugar y forma de efectuar el ingreso de las mismas, serán los que se determinen en las normas de aplicación y desarrollo del presente Decreto.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.3 del Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

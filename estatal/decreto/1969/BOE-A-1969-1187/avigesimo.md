@@ -1,5 +1,5 @@
 ## Artículo vigésimo. Lugar de ingreso.
 
-Uno. El ingreso de las cuotas del Régimen Especial de la Seguridad Social del Ser-vicio Doméstico, cuando se efectúe dentro del plazo establecido se realizará bien a domicilio o bien a través de establecimientos bancarios, Cajas de Ahorro, giro postal u otros Organismos o Corporaciones autorizados a estos efectos.
+(Derogado)
 
-Dos. Los pagos que se efectúen después del plazo reglamentario se realizarán en las oficinas del Instituto Nacional de Previsión directamente o por giro postal.
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

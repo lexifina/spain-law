@@ -1,0 +1,3 @@
+## Disposición adicional primera. Tarifa de primas para la cotización por accidentes de trabajo y enfermedades profesionales.
+
+La tarifa de primas para la cotización a la Seguridad Social por accidentes de trabajo y enfermedades profesionales a que se refiere el apartado 1 del artículo 11 de este Reglamento será la establecida por el Real Decreto 2930/1979, de 29 de diciembre, y demás disposiciones complementarias, a excepción del anexo 2 del mismo que el presente Reglamento deroga, salvo que otra cosa estableciere la Ley de Presupuestos Generales del Estado para el correspondiente ejercicio económico.

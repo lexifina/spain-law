@@ -1,3 +1,5 @@
 ## Artículo veintidós. Aplazamiento o fraccionamiento del pago.
 
-El Ministerio de Trabajo podrá conceder aplazamientos o fraccionamientos de pago de las cuotas de este régimen especial de la Seguridad Social, de acuerdo con lo que se determine en las disposiciones de aplicación y desarrollo del presente Decreto.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.3 del Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

@@ -1,3 +1,5 @@
 ## Artículo dieciocho. Competencia.
 
-La recaudación de las cuotas de este régimen especial de la Seguridad Social en período voluntario, así como en vía ejecutiva o de apremio, corresponde a sus Entidades gestoras, quienes la efectuarán, bien directamente o a través de Entidades autorizadas o concertadas, en los términos que se establecen en este Decreto y en los que se dispongan en sus normas de aplicación y desarrollo.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.3 del Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

@@ -1,3 +1,5 @@
 ## Artículo once. Obligatoriedad.
 
-La cotización a este régimen especial es obligatoria para las personas comprendidas en su campo de aplicación.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.3 del Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.

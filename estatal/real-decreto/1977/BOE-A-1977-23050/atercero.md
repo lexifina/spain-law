@@ -1,5 +1,5 @@
 ## Artículo tercero.
 
-Uno. La base única mensual de cotización para todas las contingencias y situaciones incluidas en la acción protectora estará constituida por el tope mínimo de la base de cotización vigente en cada momento en el Régimen General de la Seguridad Social.
+(Derogado)
 
-Dos. El tipo único de cotización será el vigente en cada momento en el Régimen General de la Seguridad Social, deducción hecha de las fracciones correspondientes a las contingencias y situaciones excluidas de la acción protectora, en virtud de lo establecido en el artículo segundo del presente Real Decreto.
+> Se deroga por la disposición derogatoria única.1.7 del Reglamento aprobado por Real Decreto 2064/1995, de 22 de diciembre. Ref. BOE-A-1996-1579.
