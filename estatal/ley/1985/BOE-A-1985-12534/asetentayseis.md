@@ -26,8 +26,14 @@ j) La exclusión o eliminación de bienes del Patrimonio Documental y Bibliográ
 
 3. En los demás casos se impondrán las siguientes sanciones:
 
-A) Multa de hasta 10.000.000 de pesetas en los supuestos a) y b) del apartado 1.
+A) Multa de hasta 60.101,21 euros en los supuestos a) y b) del apartado 1.
 
-B) Multa de hasta 25.000.000 de pesetas en los supuestos c), d), e) y f) del apartado 1.
+B) Multa de hasta 150.253,03 euros en los supuestos c), d), e) y f) del apartado 1.
 
-C) Multa de hasta 100.000.000 de pesetas en los supuestos g), h), i) y j) del apartado 1.
+C) Multa de hasta 601.012,10 euros en los supuestos g), h), i) y j) del apartado 1.
+
+> Se convierte a euros la cuantía de las letras h) e i) por el anexo I de la Resolución de 20 de noviembre de 2001. Ref. BOE-A-2001-22447.
+
+> Redactada conforme a la corrección de errores y erratas publicada en BOE núm. 2, de 2 de enero de 2002. Ref. BOE-A-2002-36.
+
+> Téngase en cuenta que aunque el legislador no contempla la conversión del resto de cuantías del apartado 3, se ha hecho extensiva la conversión de las mismas.
