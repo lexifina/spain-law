@@ -4,4 +4,8 @@
 
 2. Asimismo, aquellas Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social cuya Junta directiva esté compuesta por un número de miembros superior al establecido en el artículo 34.1 dispondrán de plazo hasta el 31 de diciembre de 1996, para adaptar dicha composición a lo previsto en la referida disposición.
 
+No obstante, aquellas Mutuas constituidas en virtud de procesos de fusión o de absorción dispondrán de plazo hasta 31 de diciembre de 1998 para realizar dicha adaptación.
+
 3. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en el plazo de tres meses desde la entrada en vigor del Real Decreto aprobatorio del presente Reglamento, deberán someter a la aprobación del Ministerio de Trabajo y Seguridad Social los modelos de «documento de asociación» y de «documento de proposición de asociación», así como de los anexos para la formalización de la cobertura de la prestación económica por incapacidad temporal derivada de contingencias comunes.
+
+> Se añade el párrafo segundo al apartado 2 por el art. 1.3.2 del Real Decreto 250/1997, de 21 de febrero. Ref. BOE-A-1997-5222
