@@ -1,0 +1,9 @@
+## Disposición adicional segunda. Colaboración de la Intervención General de la Administración del Estado con otras Administraciones públicas, en las actuaciones de control financiero de subvenciones.
+
+1. La Intervención General de la Administración del Estado, en coordinación con los órganos de control de ámbito nacional y autonómico, elaborará un Plan anual de control del FEOGA-Garantía en el que se incluirán los controles a realizar por la propia Intervención General, por la Agencia Estatal de Administración Tributaria y por los órganos de control interno de las comunidades autónomas.
+
+La Intervención General de la Administración del Estado coordinará con los órganos de control interno de las Administraciones de las comunidades autónomas la elaboración del Plan de control de fondos estructurales y de cohesión que anualmente deban acometer dentro de su ámbito de competencia. Con la finalidad de su remisión a la Comisión de la Unión Europea, formando parte del Plan de control de fondos estructurales y cohesión del Estado miembro, dichos planes serán remitidos a la Intervención General de la Administración del Estado antes del 1 de diciembre del año anterior al que se refieran.
+
+2. Las corporaciones locales podrán solicitar de la Intervención General de la Administración del Estado la realización de los controles financieros sobre beneficiarios de subvenciones concedidas por estos entes, sujetándose el procedimiento de control, reintegro y el régimen de infracciones y sanciones a lo previsto en esta ley.
+
+3. La Intervención General de la Administración del Estado, de acuerdo con lo establecido en el artículo 45.1, suscribirá con los órganos de la Comisión Europea los acuerdos administrativos de cooperación previstos en la normativa comunitaria en materia de control financiero de ayudas y subvenciones financiadas total o parcialmente con cargo a fondos comunitarios.
