@@ -8,6 +8,4 @@
 
 4. Asimismo, el Gobierno, a través del Ministerio del Interior, y sin perjuicio de las competencias de las Comunidades Autónomas, adecuará las plantillas de los Grupos de Menores de las Brigadas de Policía Judicial, con objeto de establecer la adscripción a las Secciones de Menores de las Fiscalías de los funcionarios necesarios a los fines propuestos por esta Ley.
 
-5. (Suprimido)
-
-> Se suprime el apartado 5 por la disposición adicional 4 de la Ley Orgánica 9/2000, de 22 de diciembre. Ref. BOE-A-2000-23661.
+5. El Gobierno a través del Ministerio de Justicia, sin perjuicio de las competencias asumidas por las Comunidades Autónomas, y en el plazo de seis meses desde la publicación de la presente Ley en el "Boletín Oficial del Estado", adoptará las disposiciones oportunas para la creación de Cuerpos de Psicólogos y Educadores y Trabajadores Sociales Forenses.

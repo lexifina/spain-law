@@ -1,0 +1,5 @@
+## Disposición final segunda. Modificación de la Ley Orgánica del Poder Judicial y del Estatuto Orgánico del Ministerio Fiscal.
+
+1. El Gobierno, en el plazo de seis meses a partir de la publicación de la presente Ley en el "Boletín Oficial del Estado", elevará al Parlamento un proyecto de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, para la creación de las Salas de Menores de los Tribunales Superiores de Justicia y para la adecuación de la regulación y competencia de los Juzgados de Menores y de la composición de la Sala Segunda del Tribunal Supremo a lo establecido en la presente Ley.
+
+2. El Gobierno, en el plazo de seis meses a partir de la publicación de la presente Ley en el "Boletín Oficial del Estado", elevará al Parlamento un proyecto de Ley de reforma de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal, a fin de adecuar la organización del Ministerio Fiscal a lo establecido en la presente Ley.
