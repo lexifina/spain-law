@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Arrendamiento financiero.
+
+Se regirán hasta su total cumplimiento por las normas establecidas en la disposición adicional séptima de la Ley 26/1988, de 29 de julio, sobre disciplina e intervención de las entidades de crédito, los contratos de arrendamiento financiero celebrados con anterioridad a la entrada en vigor de la Ley 43/1995, de 27 de diciembre, que versen sobre bienes cuya entrega al usuario se hubiera realizado igualmente con anterioridad a su entrada en vigor, o sobre bienes inmuebles cuya entrega se realice dentro del plazo de los dos años posteriores a dicha fecha de entrada en vigor.

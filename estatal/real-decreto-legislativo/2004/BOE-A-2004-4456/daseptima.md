@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Coeficientes de amortización aplicables a las adquisiciones de activos realizadas entre el 1 de enero de 2003 y el 31 de diciembre de 2004.
+
+Para las adquisiciones de activos nuevos realizadas entre el 1 de enero de 2003 y el 31 de diciembre de 2004, los coeficientes de amortización lineales máximos establecidos en las tablas oficiales de coeficientes de amortización se entenderán sustituidos, en todas las menciones a ellos realizadas, por el resultado de multiplicar aquéllos por 1,1. El nuevo coeficiente será aplicable durante la vida útil de los activos nuevos adquiridos en el período antes indicado.

@@ -1,3 +1,5 @@
 ## Disposición transitoria decimosexta.
 
-Lo dispuesto en la disposición adicional decimocuarta de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, en la redacción dada por el artículo 2.52 de la presente Ley, será aplicable a las transmisiones de activos que, habiéndose efectuado al amparo de lo dispuesto por el Real Decreto-Ley 6/2000, de 23 de junio, de Medidas Urgentes de Intensificación de la competencia en mercados de bienes y servicios, acuerdo del Consejo de Ministros en aplicación de las normas de defensa de la competencia o procesos de concentración empresarial o decisiones de la Unión Europea de la misma materia, no hubiesen concluido a la entrada en vigor de la presente Ley, o que con el mismo amparo se efectúen a partir del 1 de enero de 2002.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1.h) del Real Decreto Legislativo 4/2004, 5 de marzo. Ref. BOE-A-2004-4456.

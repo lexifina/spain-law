@@ -1,3 +1,5 @@
 ## Disposición transitoria séptima. Procedimientos concursales en tramitación el 1 de septiembre de 2004.
 
-Las modificaciones introducidas por esta ley en el párrafo b) del apartado 2 del artículo 12 y en el párrafo b) del apartado 4 del artículo 81 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, tendrán efectos para los procedimientos concursales iniciados a partir de 1 de septiembre de 2004. A los procedimientos que se encuentren en tramitación en dicha fecha les serán de aplicación las citadas normas según su redacción vigente hasta 31 de agosto de 2004 en cuanto se rijan por el derecho anterior a la Ley 22/2003, de 9 de julio, concursal.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1.l) del Real Decreto Legislativo 4/2004, de 5 de marzo. Ref. BOE-A-2004-4456.

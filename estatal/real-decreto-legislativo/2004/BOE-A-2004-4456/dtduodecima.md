@@ -1,0 +1,5 @@
+## Disposición transitoria duodécima. Valor fiscal de las participaciones de las instituciones de inversión colectiva.
+
+A los efectos de calcular el exceso del valor liquidativo a que hace referencia el artículo 60 de esta ley, se tomará como valor de adquisición el valor liquidativo el primer día del primer período impositivo al que haya sido de aplicación la Ley 43/1995, de 27 de diciembre, respecto de las participaciones y acciones que en aquél hubiera poseído el sujeto pasivo. La diferencia entre dicho valor y el valor efectivo de adquisición no se tomará como valor de adquisición a los efectos de la determinación de las rentas derivadas de la transmisión o reembolso de las acciones o participaciones.
+
+Los dividendos y participaciones en beneficios distribuidos por las instituciones de inversión colectiva que procedan de beneficios obtenidos con anterioridad a la entrada en vigor de la Ley 43/1995, de 27 de diciembre, se integrarán en la base imponible de los socios o partícipes de los mismos. A estos efectos, se entenderá que las primeras reservas distribuidas han sido dotadas con los primeros beneficios ganados.
