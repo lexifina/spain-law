@@ -1,0 +1,15 @@
+## Tercero. Jornada de trabajo y horario generales.
+
+1. La jornada de trabajo en los Juzgados y Tribunales, sus Secretarías y Oficinas Judiciales será de treinta y siete horas treinta minutos semanales en cómputo mensual, según el calendario laboral vigente, salvo lo dispuesto para los horarios especiales que se establezcan.
+
+2. La parte principal de horario, llamado tiempo fijo, será de cinco horas treinta minutos diarios de obligada concurrencia, entre las ocho treinta y las catorce treinta horas, de lunes a viernes.
+
+3. La parte flexible de horario está constituida por la diferencia entre la parte fija del horario (cinco horas treinta minutos diarias) y la jornada obligada en cómputo mensual que se indicará en el calendario laboral anual en el que se fijen los cómputos mensuales de obligado cumplimiento a la vista de las fiestas correspondientes de cada mes.
+
+Esta parte flexible de horario se distribuirá, a criterio del empleado público, dentro de la franja horaria comprendida entre las siete treinta y las nueve horas y de las catorce treinta a las diecisiete horas, de lunes a viernes, y el sábado desde las nueve hasta las catorce horas. 4. Se podrá disfrutar de una pausa diaria en la jornada de trabajo por un período de treinta minutos, computable como trabajo efectivo. El Secretario judicial, en su calidad de jefe directo de personal, deberá velar para que el servicio de atención al público, así como las condiciones generales de funcionamiento de la Oficina Judicial, durante esta pausa quede debidamente garantizado, organizando con criterio de equidad, si fuera preciso, los turnos correspondientes.
+
+5. En aquellos casos en que resulte compatible con las funciones del puesto desempeñado y con las necesidades del servicio, los Secretarios, los Forenses, Oficiales, Auxiliares y Agentes judiciales de la Administración de Justicia, podrán voluntariamente hacer una jornada reducida, continuada e ininterrumpida, de las nueve a las catorce horas, de lunes a viernes, percibiendo un 75 por 100 del total de sus haberes, previa aprobación de la Dirección General de Relaciones con la Administración de Justicia o de los órganos competentes de las Comunidades Autónomas que hayan recibido los traspasos en materia de medios personales para el funcionamiento de la Administración de Justicia.
+
+6. Garantía del Servicio en sábados: Los Secretarios judiciales garantizarán con la suficiente antelación, y atendiendo en lo posible la petición de los funcionarios, la asistencia del personal mínimo adecuado para atender las diligencias de carácter urgente e inaplazable que pudieran plantearse con cargo a la parte flexible del horario de los empleados públicos de dicha oficina, computándose cada hora trabajada entre las nueve y las catorce horas como si fuera hora y media efectiva, y de las catorce horas en adelante, como dos horas efectivas.
+
+En cualquier caso deberá distribuirse con criterios de equidad entre los distintos componentes de la oficina la asistencia en sábado.
