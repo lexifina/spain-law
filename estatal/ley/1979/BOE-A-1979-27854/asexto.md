@@ -7,3 +7,5 @@ Dos. El Decreto del Gobierno implicará el reconocimiento del interés social de
 Tres. El Real Decreto del Gobierno declarará la urgencia de la ocupación de los bienes o derechos cuya expropiación deberá verificarse con arreglo al procedimiento previsto en el artículo 52 de la Ley de Expropiación Forzosa, con excepción de lo relativo al justiprecio, que se regirá por lo dispuesto en esta Ley.
 
 Cuatro. Si recayese resolución del Ministerio de Agricultura imputando las deficiencias al arrendatario, el arrendador podrá desahuciar a éste si asume la realización de modo directo del plan de explotación y mejora propuesto o convenido. En la fase de avenencia, los plazos se corregirán teniendo en cuenta la duración del procedimiento de desahucio. En este supuesto, el Decreto del Gobierno quedará en suspenso y sólo se aplicará al arrendador en caso de incumplimiento de los compromisos contraídos.
+
+> Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 2 por Sentencia del TC 238/1992, de 17 de diciembre. Ref. BOE-T-1993-1375
