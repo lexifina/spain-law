@@ -1,0 +1,7 @@
+## Disposición adicional primera. Registro Central del Personal al servicio de la Administración de Justicia.
+
+En el Ministerio de Justicia e Interior existirá un Registro Central del Personal al servicio de la Administración de Justicia, en el que se inscribirá al personal al servicio de la Administración de Justicia regulado en el presente Reglamento, y en el que se anotarán preceptivamente todos los actos que afecten a la carrera administrativa de cada funcionario.
+
+A tal efecto, las diferentes Administraciones competentes deberán grabar en dicho Registro los actos que realicen en el ejercicio de las competencias que ejerzan en relación a los Cuerpos de Oficiales, Auxiliares y Agentes, como requisito de su eficacia en nómina, y asimismo deberán remitir al Registro Central del Personal al servicio de la Administración de Justicia, los correspondientes documentos de gestión de personal homologados para su constancia en el expediente personal del funcionario. En todo caso, se asegurará la necesaria intercomunicación de los sistemas de gestión. Las distintas Administraciones podrán expedir las certificaciones que correspondan con arreglo a los datos que figuren en el Registro.
+
+El Ministerio de Justicia e Interior, previo informe de las Comunidades Autónomas, y con cumplimiento de los requisitos legales, aprobará las normas reguladoras del Registro Central del Personal al servicio de la Administración de Justicia y el programa para su implantación progresiva.
