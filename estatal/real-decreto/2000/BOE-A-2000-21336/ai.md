@@ -22,6 +22,8 @@ b) El número máximo de horas de trabajo y mínimo de horas de descanso exigida
 
 6. Toda avería o deformación de las puertas exteriores del forro o las correspondientes chapas del casco que pueda afectar a la integridad del buque y cualesquiera deficiencias en los medios de sujeción de dichas puertas, se notifican rápidamente tanto a la Administración del Estado de abanderamiento como al Estado de acogida, y se reparan prontamente a satisfacción de éstos.
 
-7. Se disponga de un plan de travesía actualizado antes de la salida del buque. Dicho plan se elaborará cumpliendo plenamente la Resolución MSC sobre Directrices para la planificación de viajes.
+7. Se disponga de un plan de travesía actualizado antes de la salida del buque. Dicho plan se elaborará cumpliendo plenamente la Resolución A.893 (21) de la Asamblea de la OMI.
 
 8. Se haya dado a conocer a los pasajeros y se muestre de forma adecuada para quienes sufran alguna deficiencia visual información general sobre los servicios y asistencia que ofrecen a bordo a las personas mayores y discapacitadas.
+
+> Se modifica el apartado 7 por la disposición adicional 1.8 del Real Decreto 1249/2003, de 3 de octubre. Ref. BOE-A-2003-18426
