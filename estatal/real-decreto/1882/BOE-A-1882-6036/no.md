@@ -1,0 +1,1 @@
+> La primera versión consolidada, que se ofrece como texto original, se corresponde con la de fecha 1 de junio de 1997, aunque el texto original se publicó en la Gaceta de Madrid el 17 de septiembre de 1882. Ref. BOE-A-1882-6036.

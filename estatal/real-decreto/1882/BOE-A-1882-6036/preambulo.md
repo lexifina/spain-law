@@ -1,0 +1,3 @@
+Teniendo presente lo dispuesto en la Ley sancionada en 11 de febrero de 1881 y promulgada en virtud del Real Decreto de 22 de junio de 1882, por el cual se autorizó a mi Gobierno para que, con sujeción a las reglas en la misma comprendidas, oyendo, como lo ha efectuado, a la Sección correspondiente de la Comisión general de Codificación, y tomando por base la Compilación general de 16 de octubre de 1879, redactara y publicara una Ley de Enjuiciamiento Criminal; conformándome con lo propuesto por el Ministro de Gracia y Justicia, de acuerdo con el parecer de mi Consejo de Ministros.
+
+Vengo en decretar lo siguiente:
