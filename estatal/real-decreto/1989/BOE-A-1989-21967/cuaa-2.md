@@ -1,3 +1,5 @@
 ## Disposición transitoria cuarta.
 
-Lo dispuesto en el número 5.4 del artículo 2.º del presente Real Decreto sólo será de aplicación a los concursos que se convoquen a partir de la fecha de entrada en vigor del mismo.
+(Sin contenido)
+
+> Se deja sin contenido el art. único.10 del Real Decreto 74/2000, de 21 de enero. Ref. BOE-A-2000-1353.
