@@ -23,6 +23,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 10](a1-2.md)
 - [Art 11](a1-3.md)
 - [Art 12](a1-4.md)
+- [DISPOSICIÓN ADICIONAL](da.md)
 - [DISPOSICIÓN FINAL](df.md)
 - [DISPOSICIONES TRANSITORIAS](dt.md)
 - [Primera](pr-2.md)

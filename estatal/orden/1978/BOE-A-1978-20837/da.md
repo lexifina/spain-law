@@ -1,0 +1,5 @@
+## DISPOSICIÓN ADICIONAL
+
+No obstante lo previsto en el número 2 del artículo 4.º, cuando la solicitud de acogerse a la mejora voluntaria regulada en esta Orden se efectúe juntamente con la petición de alta en este Régimen Especial, el período mínimo de cotización exigido para tener derecho a la prestación económica por incapacidad laboral transitoria será de seis mensualidades dentro de los ocho meses anteriores al del hecho causante en caso de enfermedad, y en caso de maternidad, nueve mensualidades dentro de los once meses anteriores al de el del momento de dar a luz. A estos efectos, los períodos de cotización cubiertos por los interesados en el Régimen General o en cualquier otro de la Seguridad Social que tenga establecido el reconocimiento recíproco de cuotas con este Régimen Especial, y en el que se cotice por la contingencia de incapacidad laboral transitoria, se computarán para cubrir este período de carencia especial exigido.
+
+> Se añade por el art. 3 de la Orden de 4 de febrero de 1981. Ref. BOE-A-1981-3435.
