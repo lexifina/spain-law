@@ -1,0 +1,15 @@
+## Disposición transitoria segunda. Regímenes preexistentes.
+
+1. Los regímenes preexistentes de derechos relativos a la utilización de uno o más inmuebles, construidos o en construcción, durante un período determinado o determinable del año, cuya constitución conste de cualquier forma admitida en derecho deberán adaptarse, en el plazo de dos años, a las disposiciones de la presente Ley.
+
+Si el régimen preexistente estuviera inscrito, se podrá solicitar del registrador el informe no vinculante a que se refiere el artículo 355 del Reglamento Hipotecario, sobre la forma en que ha de realizarse la adaptación.
+
+Transcurridos los dos años, cualquier titular de un derecho, real o personal, relativo a la utilización de uno o más inmuebles durante un período determinado o determinable del año, podrá instar judicialmente la adaptación prevenida en la presente disposición.
+
+2. Para esta adaptación será necesario, en todo caso, otorgar la escritura reguladora con los requisitos del artículo 5 que sean compatibles con la naturaleza del régimen e inscribirla en el Registro de la Propiedad, a los solos efectos de publicidad y con pleno respeto a los derechos adquiridos. De los contratos a que se refiere el artículo citado sólo deberán incorporarse los que existan en el momento de la adaptación. La escritura deberá ser otorgada por el propietario único del inmueble.
+
+Si el régimen preexistente se constituyó de tal modo que los titulares de los derechos son propietarios del inmueble por cuotas indivisas que llevan aparejado el disfrute de un turno determinado, la escritura de adaptación deberá ser otorgada por el presidente de la comunidad de propietarios, previo acuerdo de la propia comunidad adoptado por mayoría simple de asistentes a la Junta que se convoque al efecto.
+
+En la escritura de adaptación, el propietario único del inmueble deberá describir el régimen preexistente y manifestar que los derechos que se van a transmitir en el futuro tendrán la naturaleza que resulte de aquél, idéntica a la de los ya enajenados. Si desea comercializar los turnos aún no transmitidos como derechos de aprovechamiento por turno deberá, además, constituir el régimen respecto de los períodos disponibles con los requisitos establecidos en esta Ley, pero sin necesidad de que el régimen se constituya sobre todo el inmueble, sino sólo respecto de los turnos no enajenados. Si desea transformar todo el régimen para convertirlo en un régimen de derechos de aprovechamiento por turno, tal y como lo regula la Ley, podrá hacerlo cumpliendo todos los requisitos establecidos en ésta, pero manteniendo la duración que tuviera el régimen preexistente, incluso si era indefinida.
+
+3. Sin perjuicio de lo dispuesto en el apartado anterior, todos los regímenes preexistentes tendrán una duración máxima de cincuenta años, a partir de la entrada en vigor de la presente Ley, salvo que sean de duración inferior, o que hagan, en la escritura de adaptación, declaración expresa de continuidad por tiempo indefinido o plazo cierto.
