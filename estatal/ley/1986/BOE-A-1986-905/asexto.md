@@ -17,3 +17,5 @@ c) Informar las alteraciones y revocaciones que hayan de experimentar los actos 
 d) Conocer e informar de la gestión que las entidades beneficiarias efectúen, respecto dé los bienes cedidos, proponiendo la adopción de las medidas que considere pertinentes.
 
 e) Conocer de las sustituciones y permutas del patrimonio que se vayan a efectuar.
+
+> Se declara la inconstitucionalidad del inciso destacado del apartado 2 por Sentencia del TC 183/1992, de 16 de noviembre. Ref. BOE-T-1992-27981
