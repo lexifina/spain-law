@@ -1,0 +1,3 @@
+## Disposición adicional primera. Jurisdicción y normas procesales.
+
+Las normas contenidas en el título XIII de la Ley 11/1986, de 20 de marzo, de Patentes, serán de aplicación en lo relativo al ejercicio de acciones derivadas de la presente ley y a la adopción de medidas provisionales y cautelares, en todo aquello que no sea incompatible con lo previsto en la misma. En particular no serán aplicables los artículos 124 y 128 de la citada Ley de Patentes ; la exigencia de justificar la explotación del objeto protegido para solicitar la adopción de medidas cautelares en los términos previstos en el artículo 133 de la Ley de Patentes, ni las normas contenidas en el capítulo IV de dicho título XIII sobre conciliación en materia de invenciones laborales.

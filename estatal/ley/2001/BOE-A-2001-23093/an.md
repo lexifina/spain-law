@@ -22,7 +22,7 @@ d) De una marca comunitaria (tasa de recepción y transmisión): 24,04 euros (4.
 
 1.3 Tasa de restablecimiento de derechos: 89,01 euros (14.810 pesetas).
 
-1.4 Tasa de solicitudes que no tengan señalada una tasa específica: 44,50 euros (7.405 pesetas).
+1.4 Tasa de solicitud de resolución urgente: 45,39 euros.
 
 1.5 Por cada prioridad extranjera o de exposición reivindicada: 19,05 euros (3.170 pesetas).
 
@@ -56,7 +56,7 @@ por la presentación de un recurso o solicitud de revisión:
 
 2.1 Por la inscripción o cancelación de cambios en la titularidad, licencias, derechos reales, opciones de compra u otras trabas o medidas cautelares o de ejecución. Por cada registro afectado: 28,24 euros (4.698 pesetas) [hasta un máximo de 6.010,12 euros (1.000.000 de pesetas)].
 
-2.2 Por la inscripción del cambio del nombre del titular o del nombre y/o de la dirección del representante, y por la inscripción de un nuevo representante o de un poder general de representación. Por cada registro afectado 14,12 euros (2.350 pesetas) [hasta un máximo de 2.404,05 euros (400.000 pesetas)].
+2.2 Por la inscripción del cambio de nombre del titular: por cada registro afectado 14,12 euros, hasta un máximo de 2.404,05 euros.
 
 ## TARIFA TERCERA
 
@@ -75,3 +75,5 @@ por la presentación de un recurso o solicitud de revisión:
 4.1 Por la publicación en el "Boletín Oficial de la Propiedad Industrial", a solicitud del recurrente, del anuncio de la interposición de un recurso contencioso-administrativo en materia de signos distintivos: 120,20 euros (20.000 pesetas).
 
 4.2 Por la publicación en el "Boletín Oficial de la Propiedad Industrial" a instancia de parte, del fallo de un recurso contencioso-administrativo sobre signos distintivos: 120,20 euros (20.000 pesetas).
+
+> Se modifican las tarifas 1 y 2, por la disposición adicional 6.4 y .5 de la Ley 20/2003, de 7 de julio. Ref. BOE-A-2003-13615

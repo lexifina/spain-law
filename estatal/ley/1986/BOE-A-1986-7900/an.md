@@ -9,12 +9,14 @@ Las tasas y exacciones parafiscales unificadas a que se refiere el artículo 10 
 |  | Euros |
 | --- | --- |
 | 1.1 Solicitudes: |  |
-| Por la solicitud de una demanda de depósito de patente de invención, certificado de adición o modelo de utilidad, ya sea directamente o como consecuencia de la división de una solicitud, así como por la solicitud de rehabilitación prevista en el artículo 117, inclusive en ambos casos la inserción de la solicituden el "Boletón Oficial de la Propiedad Industrial" | 78,25 |
+| Por la solicitud de una demanda de depósito de patente de invención, certificado de adición o modelo de utilidad, ya sea directamente o como consecuencia de la división de una solicitud, así como por la solicitud de rehabilitación prevista en el artículo 117, inclusive en ambos casos la inserción de la solicitudes el "Boletín Oficial de la Propiedad Industrial" | 78,25 |
 | Por solicitud de cambio de modalidad de protección | 11,81 |
 | Por solicitud de informe sobre el estado de la técnica | 433,87 |
 | Por solicitud de examen previo | 473,96 |
-| Por la tramitación de solicitudes en general relativas a invenciones, que no tengan señalada una tasa especial, dentro de los supuestos establecidos por la Ley | 25,99 |
+|  |
 | Por solicitud de inscripción en el Registro Especial de Agentes de la Propiedad Industrial | 60,10 |
+| Por la presentación de un recurso o solicitud de revisión | 90,79 |
+| Por solicitud de resolución urgente de un expediente | 45,39 |
 | 1.2 Prioridad extranjera: |  |
 | Por cada prioridad extranjera reivindicada en materia de patentes y modelos de utilidad | 18,12 |
 | 1.3 Modificaciones: |  |
@@ -83,6 +85,8 @@ Por demoras en los pagos de anualidad, recargos del 25 por 100, dentro de los tr
 | --- | --- |
 | Por tramitación de expedientes de inscripción de transmisiones o de cesiones o modificaciones. Por cada registro afectado | 1.200 |
 
+2.5 Por la inscripción de cambio de nombre del titular: por cada registro afectado 14,12 euros hasta un máximo de 2.404,05 euros.
+
 ## Tarifa tercera
 
 ## Otros servicios
@@ -90,6 +94,8 @@ Por demoras en los pagos de anualidad, recargos del 25 por 100, dentro de los tr
 |  | Euros |
 | --- | --- |
 | 3.1 Por cada certificación de datos registrados relativos a patentes o modelos de utilidad, así como por la expedición de copia autorizada de cada uno de los documentos permitidos por la Ley | 24,13 |
+
+> Se modifica el epígrafe 1.1 y se añade el 2.5 por la disposición adicional 11.2 de la Ley 20/2003, de 7 de julio. Ref. BOE-A-2003-13615
 
 > Se modifica por el art. 3 de la Resolución 15/2001, de 29 de noviembre. Ref. BOE-A-2001-24241
 
