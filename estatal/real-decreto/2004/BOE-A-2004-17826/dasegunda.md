@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Representación.
+
+Las normas contenidas en el capítulo VI del título VIII del Reglamento para la ejecución de la Ley 17/2001, de 7 de diciembre, de Marcas, aprobado por el Real Decreto 687/2002, de 12 de julio, serán de aplicación a la representación de los interesados en cualquiera de los procedimientos y actuaciones previstas en la Ley 20/2003, de 7 de julio, y en este reglamento. El artículo 57.2 del citado Reglamento de ejecución de la Ley 17/2001, de 7 de diciembre, será asimismo de aplicación a los procedimientos y actuaciones previstas en las normas reguladoras de las restantes modalidades de propiedad industrial.
