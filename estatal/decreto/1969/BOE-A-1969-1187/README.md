@@ -47,6 +47,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección segunda](ssegunda.md)
 - [Artículo vigésimo octavo](avigesimooctavo.md)
 - [Artículo vigésimo noveno](avigesimonoveno.md)
+- [Artículo trigésimo](atrigesimo.md)
 - [Artículo trigésimo primero](atrigesimoprimero.md)
 - [Artículo trigésimo segundo](atrigesimosegundo.md)
 - [Artículo trigésimo tercero](atrigesimotercero.md)
