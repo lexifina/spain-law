@@ -1,1 +1,7 @@
 ## DISPOSICIONES TRANSITORIAS
+
+(Derogada)
+
+> Se deroga por la disposición derogatoria de la Orden de 3 de febrero de 1984. Ref. BOE-A-1984-3363.
+
+> Esta derogación surte efectos a partir del 1 de enero de 1984, según establece la disposición derogatoria.
