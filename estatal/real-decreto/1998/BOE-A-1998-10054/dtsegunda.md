@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Subsistencia de unidades y puestos de trabajo.
+
+Las unidades y puestos de trabajo, con nivel orgánico inferior a Subdirección General, encuadrados en los órganos suprimidos, continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se aprueben o modifiquen las correspondientes relaciones de puestos de trabajo adaptadas a la nueva estructura orgánica de este Real Decreto, pasando a depender, provisionalmente, de la Subdirección General de Intervención y Fiscalización del Sistema de la Seguridad Social, de la Subdirección General de Dirección, Planificación y Gestión de la Contabilidad del Sistema de la Seguridad Social y de la Subdirección General de Organización, Planificación y Gestión de Recursos, los actualmente encuadrados, respectivamente, en la Subdirección General de Control de Entidades Gestoras de la Seguridad Social, en la Subdirección General de Contabilidad y en la Subdirección General de Control de Servicios Comunes de la Seguridad Social.
+
+De igual forma continuarán subsistentes hasta que se aprueben o modifiquen las correspondientes relaciones de puestos de trabajo las estructuras de las actuales Intervenciones centrales, territoriales y de centro en las Entidades gestoras y Servicios comunes de la Seguridad Social.
+
+Dicha adaptación, en ningún caso, supondrá incremento de gasto público.
