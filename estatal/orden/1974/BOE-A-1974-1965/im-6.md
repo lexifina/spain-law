@@ -16,11 +16,11 @@ b) Que la presión máxima de servicio efectiva sea igual o inferior a 4 bar.
 
 3. GENERALIDADES
 
-A efectos de esta Instrucción, se entiende por acometida la parte de canalización comprendida entre la red de distribución y la llave general de acometida, incluida ésta, que corta el paso de gas a la instalación receptora del o de los usuarios.
+A efectos de esta instrucción, se entiende por acometida la parte de canalización comprendida entre la red de distribución pública y la llave general de acometida, incluida ésta, que corta el paso de gas a la instalación receptora del o de los usuarios.
 
 Consta de toma de acometida, tubería (incluidos accesorios y elementos auxiliares), llave general de acometida y dispositivo aislante, si existe.
 
-A efectos de esta Instrucción, se entiende por llave general de acometida el dispositivo de corte situado próximo o en el muro del edificio o límite de la propiedad. Debe ser accesible desde el exterior e identificable.
+A efectos de esta instrucción, se entiende por llave general de acometida el dispositivo de corte situado próximo o en el muro del edificio o límite de la propiedad. Debe ser accesible desde el exterior de la propiedad e identificable.
 
 4. MATERIALES
 
@@ -135,6 +135,8 @@ En caso de desacuerdo entre la compañía operadora y la que vaya a efectuar los
 Controlará cada tres años, como mínimo, el estado superficial de todas las partes aéreas de las acometidas, reparando la protección contra la corrosión atmosférica en caso necesario.
 
 NOTA: Se entenderá por compañía operadora la persona física o jurídica, titular de la autorización Administrativa de la instalación.
+
+> Se modifica el apartado 3, en la redacción dada a la Orden de 26 de octubre de 1983, por el anexo de la Orden de 6 de julio de 1984. Ref. BOE-A-1984-16659
 
 > Se añade por el apartado 2 de la Orden de 26 de octubre de 1983. Ref. BOE-A-1983-28962
 

@@ -66,7 +66,7 @@ Inmediatamente antes de ser enterrada la canalización, se comprobará el buen e
 
 3.3.1.3 Las partes de canalización aéreas se protegerán contra la corrosión externa por medio de pintura, metalizado u otro sistema apropiado.
 
-3.3.1.4 La protección catódica se aplicará a las canalizaciones de acero enterradas cuando las condiciones del terreno lo exijan. Su finalidad será asegurar en la canalización un potencial entre la canalización y el suelo que, medido respecto al electrodo de referencia de cobre-sulfato de cobre, sea igual o inferior a ‒0,85 V. Dicho potencial será de ‒0,95, como máximo, cuando haya riesgo de corrosión por bacterias sulfatorreductoras.
+3.3.1.4 La protección catódica se aplicará a las canalizaciones de acero enterradas cuando las condiciones del terreno lo exijan. Su finalidad será asegurar un potencial entre la canalización y el suelo que, medido respecto al electrodo de referencia de cobre-sulfato de cobre, sea igual o inferior a -0,85 voltios. Dicho potencial será de -0,95 voltios como máximo, cuando haya riesgo de corrosión por bacterias sulfatorreductoras.
 
 3.3.1.5 En aquellos casos en que existan corrientes vagabundas, ya sea por proximidad a líneas férreas u otras causas, deberán adoptarse medidas especiales para la protección catódica de la canalización, según las exigencias de cada caso.
 
@@ -285,6 +285,8 @@ Asimismo se mantendrán en archivo los resultados de las cuatro últimas pruebas
 Nota:
 
 Se entenderá por Compañía operadora la persona física o jurídica, titular de la autorización Administrativa de la instalación.
+
+> Se modifica el apartado 3.3.1.4, en la redacción dada a la Orden de 26 de octubre de 1983, por el anexo de la Orden de 6 de julio de 1984. Ref. BOE-A-1984-16659
 
 > Se añade por el apartado 2 de la Orden de 26 de octubre de 1983. Ref. BOE-A-1983-28962
 

@@ -123,13 +123,13 @@ Cuando las corrientes vagabundas puedan provocar variaciones en el potencial de 
 
 3.5 Protección contra la corrosión interna.
 
-3.5.1 Como regla general los combustibles gaseosos no son corrosivos. A efectos de esta Instrucción se considerará gas no corrosivo aquel que cumpla, al menos, una de las condiciones siguientes:
+3.5.1 Como regla general los combustibles gaseosos no son corrosivos. A efectos de esta instrucción se considerará gas no corrosivo aquel que cumpla, al menos, una de las condiciones siguientes:
 
-a) Que el punto de rocío sea, durante el periodo de explotación, en todo momento y en todos los puntos de la canalización, inferior a la temperatura de ésta.
+a) Que el punto de rocío sea, durante el período de explotación en todo momento y en todos los puntos de la canalización, inferior a la temperatura de ésta.
 
-b) Que sus características físicas y químicas sean análogas a las de un gas que, en condiciones similares y durante un periodo al menos de cinco años, no haya manifestado una corrosión apreciable.
+b) Que sus características físicas y químicas sean análogas a las de un gas que, en condiciones similares y durante un período al menos de cinco años, no haya manifestado una corrosividad apreciable.
 
-c) Que se haya comprobado su carácter no corrosivo mediante los ensayos adecuados realizados por un laboratorio acreditado de acuerdo con el Real Decreto 2584/1981, de 18 de diciembre, por el que se aprueba el Reglamento General de las Actuaciones del Ministerio de Industria y Energía en el campo de la normalización y homologación.
+c) Que se haya comprobado su carácter no corrosivo mediante los ensayos que determine la Dirección General competente en materia de seguridad industrial del Ministerio de Industria y Energía.
 
 3.5.2 Si de acuerdo con lo anterior, el gas se considera corrosivo, deberá someterse, antes de ser admitido en la canalización, a un tratamiento adecuado que elimine su carácter corrosivo. En caso de que no sea aconsejable o posible evitar su carácter corrosivo, dicha característica deberá tenerse en cuenta en el diseño de las canalizaciones, procediendo a incorporar, al menos, una de las siguientes soluciones:
 
@@ -288,7 +288,7 @@ Los materiales empleados en la fabricación de uniones deberán ofrecer la neces
 
 5.4 Al comienzo de cada nueva construcción, las soldaduras de las juntas de unión entre tubos de una canalización serán controladas mediante técnicas radiográficas en una proporción del 100 por 100 y en la totalidad de su perímetro.
 
-Como norma general esta proporción se podrá disminuir hasta un mínimo del 10 por 100, salvo en los casos indicados en el punto 5.3, siempre y cuando la canalización discurra por zonas de categoría de emplazamiento 1 ó 2, según normas UNE 60.302-74 o las soldaduras trabajen a una tensión igual o inferior al 20 por 100 de su límite elástico. En todos los casos se realizará una inspección visual al 100 por 100 de las soldaduras y se llevará un registro en el que se indique para cada tramo la proporción de las mismas controladas por técnicas radiográficas.
+Como norma general esta proporción se podrá ir disminuyendo progresivamente hasta un mínimo del 10 por 100, salvo en los casos indicados en el punto 5.3, cuando la canalización discurra por zonas de categoría de emplazamiento 1, 2 ó 3, según norma UNE 60.302, o las soldaduras trabajen a una tensión igual o inferior al 20 por 100 de su límite elástico. En todos los casos se realizará una inspección visual al 100 por 100 de las soldaduras y se llevará un registro en el que se indique para cada tramo la proporción de las mismas controladas por técnicas radiográficas.
 
 5.5 Cuando en las soldaduras a tope no sea posible el uso de técnicas radiográficas, éstas se sustituirán por ensayos no destructivos adecuados.
 
@@ -504,6 +504,8 @@ En el caso de proteger mediante vallado o cerca, la altura no será menor de 1,8
 9.3.2 En las intervenciones en la red, con posible salida de gas, la Compañía operadora tomará las medidas precautorias necesarias, tales como detección de presencia de gas, señalización y control del área de trabajo, retirada de fuentes potenciales de ignición no estrictamente necesarias para la intervención y disponer en el lugar de trabajo del equipo de extinción específico, para minimizar el riesgo de fuego o explosión derivada de la posible presencia de gas.
 
 Nota. Se entenderá por Compañía operadora la persona física o jurídica, titular de la autorización administrativa de la instalación.
+
+> Se modifican los apartados 3.5.1 y 5.4, en la redacción dada a la Orden de 26 de octubre de 1983, por el anexo de la Orden de 6 de julio de 1984. Ref. BOE-A-1984-16659
 
 > Se añade por el apartado 2 de la Orden de 26 de octubre de 1983. Ref. BOE-A-1983-28962
 
