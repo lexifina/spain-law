@@ -46,7 +46,7 @@ Reino Unido de Gran Bretaña:
 
 1. Agrupación de Londres I.
 
-2. Agrupación de Londres II.
+2. (Suprimido)
 
 3. Agrupación de Londres III.
 
@@ -67,3 +67,5 @@ Suiza:
 6. Agrupación de Zurich.
 
 7. Agrupación de Neuchatel.
+
+> Se suprime el punto 2 del Reino Unido de Gran Bretaña, con efectos a partir del curso académico 2001-2002, por el apartado 1 de la Orden de 27 de septiembre de 2001. Ref. BOE-A-2001-19399.
