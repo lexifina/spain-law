@@ -10,6 +10,8 @@
 
 Asimismo, el Presidente de la Federación desempeñará su cargo según el régimen de dedicación e incompatibilidades que fijarán los respectivos Estatutos.
 
-5. No podrá ser elegido Presidente quien hubiera ostentado ininterrumpidamente tal condición durante los tres períodos inmediatamente anteriores, cualquiera que hubiese sido la duración efectiva de éstos.
+5. Los estatutos de cada Federación Deportiva Española se pronunciarán, expresamente, sobre el número de mandatos que, con carácter indefinido o limitado, puedan ostentar sus respectivos Presidentes.
 
 6. La remuneración del Presidente concluirá con el fin de su mandato no pudiendo extenderse tal remuneración más allá de la duración del mismo.
+
+> Se modifica el apartado 5 por el art. único del Real Decreto 253/1996, de 16 de febrero. Ref. BOE-A-1996-5274

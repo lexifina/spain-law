@@ -22,7 +22,7 @@ h) Derechos y deberes básicos de sus miembros.
 
 i) Sistema de responsabilidad de los titulares y miembros de los diferentes órganos de la Federación.
 
-j) Sistema de elección y cese de los titulares de los órganos federativos de gobierno y representación garantizando su provisión mediante sufragio libre, igual, directo y secreto. En todo caso, se recogerá el sistema para presentar la moción de censura al Presidente de la Federación Española.
+j) Sistema de elección y cese de los titulares de los órganos federativos de gobierno y representación garantizando su provisión mediante sufragio libre, igual directo y secreto. En todo caso se recogerá el número de mandatos que pueda ostentar el Presidente de la Federación Deportiva Española y el sistema para presentar la moción de censura contra el mismo.
 
 k) Régimen de funcionamiento en general y, en particular, adopción de acuerdos de sus órganos colegiados.
 
@@ -39,3 +39,5 @@ o) Procedimiento para la aprobación y reforma de sus Estatutos y Reglamentos.
 p) En su caso, reglas específicas y fórmulas para la conciliación extrajudicial en el deporte.
 
 3. Los Estatutos de las Federaciones deportivas españolas y sus modificaciones, una vez aprobados por la La Comisión Directiva del Consejo Superior de Deportes se publicarán en el «Boletín Oficial del Estado», y se inscribirán en el Registro de Asociaciones Deportivas correspondiente.
+
+> Se modifica el apartado 2. j) por el art. único del Real Decreto 253/1996, de 16 de febrero. Ref. BOE-A-1996-5274
