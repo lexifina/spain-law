@@ -1,0 +1,5 @@
+## Norma adicional segunda.
+
+1. En aquellos casos en que las sociedades rectoras de mercados secundarios oficiales faciliten a sus miembros los ficheros de ejecuciones y desgloses en un formato diferente al establecido en el anexo, el mantenimiento de dichos ficheros y su conservación por las Entidades durante los plazos establecidos en el punto 5 de la norma cuarta para el registro de operaciones podrá servir para dar cumplimiento a la obligación de elaboración establecida en la norma cuarta en relación con dichos ficheros, cuando previa consulta de dichas sociedades rectoras, la Comisión Nacional del Mercado de Valores así lo determine. Ello sin perjuicio del cumplimiento de las obligaciones de remisión y disponibilidad establecidas en la norma séptima.
+
+2. El procedimiento anterior podrá extenderse a las operaciones que sobre traspasos de valores realicen las entidades adheridas al Servicio de Compensación y Liquidación de Valores. Corresponderá en este caso a dicha entidad la previa consulta a la Comisión Nacional del Mercado de Valores.
