@@ -12,7 +12,9 @@ Se entenderá por:
 
 a) Provisiones de a bordo: Los productos destinados exclusivamente al consumo de la tripulación y de los pasajeros.
 
-b) Combustibles, carburantes, lubricantes y demás aceites de uso técnico: Los productos destinados a la alimentación de los órganos de propulsión o al funcionamiento de las demás máquinas y aparatos de a bordo.
+b) Combustibles, carburantes, lubricantes y demás aceites de uso técnico:
+
+Los productos destinados a la alimentación de los órganos de propulsión o al funcionamiento de las demás máquinas y aparatos de a bordo.
 
 c) Productos accesorios de a bordo: Los de consumo para uso doméstico, los destinados a la alimentación de los animales transportados y los consumibles utilizados para la conservación, tratamiento y preparación a bordo de las mercancías transportadas.
 
@@ -24,11 +26,11 @@ Definición del régimen:
 
 a) En relación con los bienes objeto de Impuestos Especiales, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable en los supuestos de fabricación, transformación o tenencia de productos objeto de los Impuestos Especiales de fabricación en fábricas o depósitos fiscales, de circulación de los referidos productos entre dichos establecimientos y de importación de los mismos con destino a fábrica o depósito fiscal.
 
-b) En relación con los demás bienes, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable a los bienes excluidos del régimen de depósito aduanero por razón de su origen o procedencia, con sujeción, en lo demás, a las mismas normas que regulan el mencionado régimen aduanero.
+b) En relación con los demás bienes, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable a los bienes excluidos del régimen de depósito aduanero por razón de su origen o procedencia, con sujeción en lo demás, a las mismas normas que regulan el mencionado régimen aduanero.
 
 También se incluirán en este régimen los bienes que se negocien en mercados oficiales de futuros y opciones basados en activos no financieros, mientras los referidos bienes no se pongan a disposición del adquirente.
 
-El régimen de depósito distinto de los aduaneros a que se refiere esta letra b) no será aplicable a los bienes destinados a su entrega a personas que no actúen como empresarios o profesionales, con excepción de las entregas efectuadas en las tiendas libres de impuestos a que se refiere el artículo 25, apartado cuatro, de esta Ley.
+El régimen de depósito distinto de los aduaneros a que se refiere esta letra b) no será aplicable a los bienes destinados a su entrega a personas que no actúen como empresarios o profesionales.
 
 Sexto. Liquidación del impuesto en los casos comprendidos en el artículo 19, número 5.o, párrafo segundo, de esta Ley.
 
@@ -95,6 +97,8 @@ La definición comprende también las manufacturas viejas de papel o de cartón 
 Los desperdicios o desechos de vidrio comprenden los residuos de la fabricación de objetos de vidrio así como los producidos por su uso o consumo. Se caracterizan generalmente por sus aristas cortantes.
 
 Octavo. Para la conversión de las cantidades fijadas en Ecus en los artículos 14 y 68 de esta Ley, se aplicará la equivalencia de 1 Ecu igual a 129,98 peseta.
+
+> Se modifica el apartado 5.b) por el art. único.2 del Real Decreto-Ley 10/1999, de 11 de junio. Ref. BOE-A-1999-13070.
 
 > Se modifica el apartado 5 y 6 y se añade un 8 por el art. único.7 y 8 de la Ley 9/1998, de 21 de abril. Ref. BOE-A-1998-9477.
 
