@@ -1,0 +1,5 @@
+## Décimo.
+
+1. Con objeto de hacer posible la inscripción condicional de los solicitantes, dentro de los plazos legalmente establecidos, bien en centros docentes, bien en exámenes oficiales, las solicitudes podrán ir acompañadas de un documento firmado por el interesado y ajustado al modelo que se publica como anexo II a la presente Orden. Este documento, una vez sellado por la unidad de registro donde hubiera sido presentada la solicitud correspondiente, tendrá el carácter de volante acreditativo de que tal solicitud ha sido presentada y permitirá la mencionada inscripción en los mismos términos que si la homologación o convalidación hubiese sido concedida, aunque con carácter condicional.
+
+2. La formalización del volante al que se refiere el párrafo anterior, se realizará bajo la personal responsabilidad del solicitante y no prejuzgará la resolución final del expediente. En el supuesto de que dicha resolución no se produjera en los términos solicitados por el interesado e incluidos como tales en el citado volante, quedarán sin efecto los resultados de los exámenes realizados o de la inscripción producida como consecuencia de la utilización del mismo.

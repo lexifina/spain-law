@@ -1,0 +1,3 @@
+## Duodécimo.
+
+En los supuestos de expedientes cuya resolución no esté condicionada por el contenido de tablas de equivalencias aprobadas por Orden, los expedientes serán remitidos a la Subdirección General de Títulos, Convalidaciones y Homologaciones, la cual formulará la propuesta de resolución que proceda, de acuerdo con el contenido de los Tratados o Convenios Internacionales que resulten aplicables, con los principios mencionados en el artículo sexto del Real Decreto 104/1988, de 29 de enero, y, en su caso, con los informes de las comisiones de expertos a las que se refiere el artículo diez del citado Real Decreto.
