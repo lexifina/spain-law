@@ -30,7 +30,7 @@ v) buques dedicados a operaciones de limpieza de minas;
 
 vi) buques dedicados a operaciones de remolque que por su naturaleza restrinjan fuertemente al buque remolcador y su remolque en su capacidad para apartarse de su derrota.
 
-h) La expresión «buque restringido por su calado» significa un buque de propulsión mecánica que, por razón de su calado en relación con la profundidad disponible de agua, tiene muy restringida su capacidad de apartarse de la derrota que está siguiendo.
+h) La expresión ‘‘buque restringido por su calado’’ significa un buque de propulsión mecánica que, por razón de su calado en relación con la profundidad y la anchura disponibles del agua navegable, tiene una capacidad muy restringida de apartarse de la derrota que está siguiendo.
 
 i) La expresión «en navegación» se aplica a un buque que no esté ni fondeado ni amarrado a tierra ni varado.
 
@@ -39,5 +39,7 @@ j) Por «esloras» y «mangas» se entenderá la eslora total y la manga máxima
 k) Se entenderá que los buques están a la vista uno del otro únicamente cuando uno pueda ser observado visualmente desde el otro.
 
 l) La expresión «visibilidad reducidas» significa toda condición en que la visibilidad está disminuida por niebla, bruma, nieve, fuertes aguaceros, tormentas de arena o cualesquiera otras causa análogas.
+
+> Se modifica la letra h) por el apartado 2 de la Resolución A. 626 (15), de 19 de noviembre de 1987. Ref. BOE-A-1989-14439.
 
 > Se modifica la letra g) por los apartados 2 y 3 de la Resolución A. 464 (XII), de 19 de noviembre. Ref. BOE-A-1983-17575.

@@ -18,7 +18,7 @@ b) La separación vertical de las luces de tope de los buques de propulsión mec
 
 c) En un buque de propulsión mecánica de eslora igual o superior a 12 metros, pero inferior a 20 metros, la luz de tope deberá estar colocada a una altura sobre la regala no inferior a 2,50 metros.
 
-d) Un buque de propulsión mecánica de menos de 12 metros de eslora, podrá llevar su luz más elevada a una altura inferior a 2,5 metros sobre la regala. Pero si se lleva una luz de tope, además de luces de costado y luz de alcance, dicha luz de tope deberá estar por lo menos a un metro por encima de las luces de costado.
+d) Los buques de propulsión mecánica de eslora inferior a 12 metros podrán llevar su luz más elevada a una altura inferior a 2,5 metros sobre la regala. Pero si llevan una luz de tope además de las luces de costado y de la luz de alcance, o si llevan la luz todo horizonte prescrita en la regla 23 c) i) además de las luces de costado, la luz de tope o la luz todo horizonte deberá estar por lo menos a 1 metro por encima de las luces de costado.
 
 e) Una de las dos o tres luces de tope prescritas para los buques de propulsión mecánica dedicados a remolcar o empujar a otro buque, irá colocada en la misma posición que la luz de tope de proa o que la luz de tope de popa; siempre que, si se llevan en el palo de popa, la luz de tope más baja de popa esté colocada por lo menos a 4,5 metros, verticalmente, por encima de la luz de tope de proa.
 
@@ -34,7 +34,7 @@ i) Cuando las Reglas prescriban dos o tres luces colocadas según una línea ver
 
 i) En los buques de eslora igual o superior a 20 metros, tales luces irán colocadas con una separación no inferior a dos metros y la más baja de ellas a una altura no inferior a cuatro metros por encima del casco, salvo cuando se exija una luz de remolque.
 
-ii) En los buques de eslora inferior a 20 metros, tales luces irán colocadas con una separación no inferior a un metro y la más baja de ellas a una altura no inferior a dos metros por encima del casco, salvo cuando se exija una luz de remolque;
+ii) En los buques de eslora inferior a 20 metros tales luces estarán separadas entre sí por una distancia no inferior a 1 metro y la más baja de ellas estará colocada a una altura no inferior a 2 metros por encima de la regala, salvo cuando esté prescrita una luz de remolque.
 
 iii) cuando se lleven tres luces, irán separadas a distancias iguales.
 
@@ -149,13 +149,13 @@ b) Las luces todo horizonte, excepto las luces de fondeo prescritas en la Regla 
 
 ## 10. Sectores verticales.
 
-a) En los sectores verticales de las luces eléctricas una vez instaladas éstas, a excepción de las luces instaladas en buques de vela, deberá garantizarse que:
+a) En los sectores verticales de las luces eléctricas una vez instaladas éstas, a excepción de las luces instaladas en buques de vela en movimiento, deberá garantizarse que:
 
 i) se mantiene por lo menos la intensidad mínima prescrita a cualquier ángulo situado desde cinco grados por encima de la horizontal hasta cinco grados por debajo de ella.
 
 ii) se mantiene por lo menos el 80 por 100 de la intensidad mínima prescrita desde 7,5 grados por encima de la horizontal hasta 7,5 grados por debajo de ella.
 
-b) En el caso de los buques de vela, en los sectores verticales de las luces eléctricas una vez instaladas éstas deberá garantizarse que:
+b) En el caso de los buques de vela en movimiento, en los sectores verticales de las luces eléctricas una vez instaladas éstas deberá garantizarse que:
 
 i) Se mantiene por lo menos la intensidad mínima prescrita a cualquier ángulo situado desde cinco grados por encima de la horizontal hasta cinco grados por debajo de ella.
 
@@ -174,6 +174,8 @@ No obstante lo dispuesto en la sección 2 f) del presente anexo, la luz de manio
 ## 13. Aprobación.
 
 La construcción de luces y marcas, así como la instalación de luces a bordo del buque, se ajustarán a criterios que la autoridad competente del Estado cuyo pabellón tenga derecho a enarbolar el buque juzgue satisfactorios.
+
+> Se modifican los apartados 2 y 10 por los apartados 6 y 7 de la Resolución A. 626 (15), de 19 de noviembre de 1987. Ref. BOE-A-1989-14439.
 
 > Se modifica por los apartados 36 a 51 de la Resolución A. 464 (XII), de 19 de noviembre. Ref. BOE-A-1983-17575.
 

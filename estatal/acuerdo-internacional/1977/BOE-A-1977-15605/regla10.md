@@ -1,6 +1,6 @@
 ## Regla 10. Dispositivos de separación del tráfico.
 
-a) Esta Regla se aplica a los dispositivos de separación del tráfico adoptados por la Organización.
+a) La presente regla se aplica a los dispositivos de separación del tráfico aprobados por la Organización y no exime a ningún buque de las obligaciones contraídas en virtud de otras reglas.
 
 b) Los buques que utilicen un dispositivo de separación del tráfico deberán:
 
@@ -10,7 +10,7 @@ ii) en lo posible, mantener su rumbo fuera de la línea de separación o de la z
 
 iii) normalmente, al entrar en una vía de circulación o salir de ella, hacerlo por sus extremos, pero al entrar o salir de dicha vía por uno u otro de sus límites laterales, hacerlo con el menor ángulo posible en relación con la dirección general de la corriente del tráfico.
 
-c) Siempre que puedan, los buques evitarán cruzar las vías de circulación, pero cuando se vean obligados a ello, lo harán lo más aproximadamente posible en ángulo recto con la dirección general de la corriente del tráfico.
+c) Siempre que puedan, los buques evitarán cruzar las vías de circulación, pero cuando se vean obligados a ello lo harán siguiendo un rumbo que en la medida de lo posible forme una perpendicular con la dirección general de la corriente del tráfico.
 
 d) Normalmente, las zonas de navegación costera no serán utilizadas por el tráfico directo que pueda navegar con seguridad en la vía de circulación adecuada del dispositivo de separación del tráfico adyacente.
 
@@ -35,6 +35,8 @@ j) Los buques de eslora inferior a 20 metros, o los buques de vela, no estorbar�
 k) Cuando estén dedicados a una operación de mantenimiento de la seguridad de la navegación en un dispositivo de separación del tráfico, los buques con capacidad de maniobra restringida quedarán exentos del cumplimiento de esta Regla en la medida necesaria para poder llevar a cabo dicha operación.
 
 l) Cuando estén dedicados a una operación de colocación, reparación o recogida de un cable submarino en un dispositivo de separación del tráfico, los buques con capacidad de maniobra restringida quedarán exentos del cumplimiento de esta Regla en la medida necesaria para poder llevar a cabo dicha operación.
+
+> Se modifican las letras a) y c) por los apartados 4 y 5 de la Resolución A. 626 (15), de 19 de noviembre de 1987. Ref. BOE-A-1989-14439.
 
 > Se modifica por los apartados 4 a 8 de la Resolución A. 464 (XII), de 19 de noviembre. Ref. BOE-A-1983-17575.
 

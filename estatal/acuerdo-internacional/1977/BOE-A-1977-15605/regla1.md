@@ -8,6 +8,8 @@ c) Ninguna disposición del presente Reglamento impedirá la aplicación de regl
 
 d) La Organización podrá adoptar dispositivos de separación de tráfico o los afectos de este Reglamento.
 
-e) Siempre que el Gobierno interesado considere que un buque de construcción o misión especial no pueda cumplir plenamente con lo dispuesto en alguna de las presentes Reglas sobre número, posición, alcance o sector de visibilidad de las luces o marcas, y sobre la disposición y características de los dispositivos de señales acústicas, sin perjudicar la función especial del buque, dicho buque cumplirá con aquellas otras disposiciones sobre número, posición, alcance o sector de visibilidad de las luces o marcas, y sobre la disposición y características de los dispositivos de señales acústicas, que su Gobierno haya establecido como normas que representen el cumplimiento lo más aproximado posible de este Reglamento respecto a dicho buque.
+e) Siempre que el Gobierno interesado considere que un buque de construcción especial, o destinado a un fin especial, no pueda cumplir plenamente con lo dispuesto en alguna de las presentes reglas sobre número, posición, alcance o sector de visibilidad de las luces o marcas, y sobre la disposición y características de los dispositivos de señales acústicas, tal buque cumplirá con otras disposiciones sobre número, posición, alcance o sector de visibilidad de las luces o marcas y sobre la disposición y características de los dispositivos de señales acústicas que, a juicio de su Gobierno, representen respecto de ese buque el cumplimiento que más se aproxime a lo dispuesto en el presente Reglamento.
+
+> Se modifica la letra e) por el apartado 1 de la Resolución A. 626 (15), de 19 de noviembre de 1987. Ref. BOE-A-1989-14439.
 
 > Se modifica la letra c) por el apartado 1 de la Resolución A. 464 (XII), de 19 de noviembre. Ref. BOE-A-1983-17575.
