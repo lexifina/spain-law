@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+Los acuerdos de reconocimiento de exención adoptados por el Centro Gestor en relación con el Impuesto sobre Hidrocarburos a la entrada en vigor de la presente Orden se extenderán provisionalmente a las exenciones equivalentes del Impuesto sobre Ventas Minoristas de Determinados Hidrocarburos, excepto los relativos a la exención establecida en el apartado 3 del artículo 51 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, sin perjuicio de la capacidad del Centro Gestor competente para evaluar el cumplimiento de los requisitos y condiciones necesarias para la aplicación de las exenciones.
