@@ -1,3 +1,5 @@
 ## Primero.
 
-Los alumnos procedentes de sistemas educativos extranjeros que deseen incorporarse a cualquiera de los cursos que integran en España la Educación Primaria, alguno de los tres primeros cursos de la Educación Secundaria Obligatoria, o al octavo curso de la Educación General Básica hasta su extinción, no deberán realizar trámite alguno de convalidación de estudios. La incorporación de dichos alumnos al curso que corresponda se efectuará por el Centro español en el que el interesado vaya a continuar sus estudios, de acuerdo con la edad exigida para cada curso y según la normativa aplicable al respecto.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única de la Orden ECD/3305/2002, de 16 de diciembre. Ref. BOE-A-2002-25289.

@@ -1,3 +1,5 @@
 ## Duodécimo.
 
-En los supuestos de expedientes cuya resolución no esté condicionada por el contenido de tablas de equivalencias aprobadas por Orden, los expedientes serán remitidos a la Subdirección General de Títulos, Convalidaciones y Homologaciones, la cual formulará la propuesta de resolución que proceda, de acuerdo con el contenido de los Tratados o Convenios Internacionales que resulten aplicables, con los principios mencionados en el artículo sexto del Real Decreto 104/1988, de 29 de enero, y, en su caso, con los informes de las comisiones de expertos a las que se refiere el artículo diez del citado Real Decreto.
+Cuando no proceda la aplicación de las tablas a que se refiere el apartado anterior, la tramitación y propuesta de resolución corresponderán, en todo caso, a la Subdirección General de Títulos, Convalidaciones y Homologaciones, dependiente de la Secretaría General Técnica del Ministerio de Educación, Cultura y Deporte.
+
+> Se modifica por el apartado único.8 de la Orden ECD/3305/2002, de 16 de diciembre. Ref. BOE-A-2002-25289.

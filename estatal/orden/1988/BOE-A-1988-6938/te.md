@@ -1,7 +1,9 @@
 ## Tercero.
 
-1. El expediente de homologación o convalidación se iniciará mediante instancia del interesado dirigida al Ministro de Educación y Ciencia y ajustada al modelo que se publica como anexo I a la presente orden.
+Las solicitudes de homologación o convalidación se ajustarán al modelo que se publica como anexo I a la presente Orden, y se podrán presentar:
 
-2. Las solicitudes de convalidación de estudios extranjeros para proseguir estudios españoles de Educación General Básica, Bachillerato o Formación Profesional se presentarán en la Dirección Provincial de Educación y Ciencia u Oficina de Educación y Ciencia correspondiente a la provincia donde radique el centro en que se pretenda cursar los mencionados estudios españoles.
+a) En las Áreas Funcionales de Alta Inspección de Educación de las Delegaciones del Gobierno en las Comunidades Autónomas o Delegaciones Provinciales del Ministerio de Educación, Cultura y Deporte en Ceuta y Melilla; en el Registro General o Registros Auxiliares del Ministerio de Educación, Cultura y Deporte, o bien en las Consejerías de Educación u Oficinas Consulares de España en el extranjero.
 
-3. En cualquier otro supuesto de los mencionados en el párrafo anterior, las solicitudes podrán presentarse tanto en la Dirección Provincial de Educación y Ciencia u Oficina de Educación y Ciencia correspondiente a la provincia donde el solicitante tenga o vaya a tener su residencia habitual, como en la Subdirección General de Títulos, Convalidaciones y Homologaciones del Ministerio de Educación y Ciencia, y, en el caso de los españoles residentes en el extranjero, en la Oficina Consular correspondiente a su lugar de residencia. Todo ello sin perjuicio de lo dispuesto en el artículo 66 de la Ley de Procedimiento Administrativo.
+b) En cualquier otro de los lugares señalados en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, desarrollado por el artículo 2 del Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado.
+
+> Se modifica por el apartado único.2 de la Orden ECD/3305/2002, de 16 de diciembre. Ref. BOE-A-2002-25289.
