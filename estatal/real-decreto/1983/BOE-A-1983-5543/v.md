@@ -94,7 +94,7 @@ Negativa.
 
 Índice de saponificación:
 
-Aceites de oliva vírgenes y refinados; de 184 a 196.
+Aceites de oliva vírgenes y refinados: de 184 a 196.
 
 Aceites refinados de orujo de aceituna: de 182 a 193.
 
@@ -367,5 +367,7 @@ b) Deberán ser fácilmente separables, por destilación con o sin arrastre de v
 c) Destilarán, como mínimo, en un 99,99 por 100 a una temperatura que no sobrepase los 95º centígrados.
 
 d) No contendrán residuos de azufre y metálicos, especialmente plomo, que puedan quedar retenidos por el aceite, en cantidades superiores a las que se establezcan.
+
+> Se deroga el inciso destacado del apartado 1.7 por la disposición derogatoria del Real Decreto 475/1988, de 13 de mayo. Ref. BOE-A-1988-12368.
 
 > Redactados los apartados 2.2, 3.1, 3.2 y 5.a) conforme a la corrección de errores publicada en BOE núm. 117, de 17 de mayo de 1983. Ref. BOE-A-1983-14026.
