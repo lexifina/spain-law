@@ -12,10 +12,12 @@ d) Aportaciones obligatorias del Estado adscritas a fines especiales.
 
 e) Ingresos por el Libro Escolar, tasas académicas, títulos, certificaciones y análogos.
 
-f) Ingresos por descuento de Habilitación de personal y material, ejercida por el Administrador general.
+f) Ingreso por premios de pagaduría de personal material y obras, ejercida por el Administrador general.
 
 g) Ingresos por publicaciones.
 
 h) Legados, donativos o subvenciones que se reciban para su inversión o para incremento del Patrimonio Universitario.
 
 i) Abintestatos de todo el personal docente universitario, cuando hubieran de pertenecer al Estado.
+
+> Se modifica la letra f) por el art. único de la Ley de 17 de julio de 1948. Ref. BOE-A-1948-7491.
