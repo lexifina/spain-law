@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+A partir de la entrada en vigor de este real decreto, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en él y, en particular, la Orden de 7 de octubre de 1983, por la que se aprueba la norma general de calidad para la leche evaporada destinada al comercio interior, la Orden de 25 de octubre de 1983, por la que se aprueba la norma general de calidad para la leche condensada, destinada al mercado interior, y la Orden de 23 de noviembre de 1984, por la que se aprueba la norma general de calidad para la leche en polvo destinada al consumo para el mercado interior.
