@@ -6,7 +6,7 @@
 
 2.º De los recursos que establezca la ley contra las resoluciones dictadas por los Juzgados de Instrucción y de lo Penal de la provincia.
 
-3.º De los recursos que establezca la ley contra las resoluciones de los Juzgados de Vigilancia Penitenciaria en materia de ejecución de penas y del régimen de su cumplimiento.
+3.º De los recursos que establezca la ley contra las resoluciones de los Juzgados de Vigilancia Penitenciaria, cuando la competencia no corresponda a la Sala de lo Penal de la Audiencia Nacional.
 
 2. Para el conocimiento de los recursos contra resoluciones de los Juzgados de Instrucción en juicio de faltas la Audiencia se constituirá con un solo Magistrado, mediante un turno de reparto.
 
@@ -19,6 +19,8 @@
 a) De las cuestiones de competencia en materia civil y penal que se susciten entre Juzgados de la provincia que no tengan otro superior común.
 
 b) De las recusaciones de sus Magistrados, cuando la competencia no esté atribuida a la Sala especial existente a estos efectos en los Tribunales Superiores de Justicia.
+
+> Se modifica el párrafo 3º del apartado 1 por el art. 1.2 de la Ley Orgánica 5/2003, de 27 de mayo. Ref. BOE-A-2003-10614
 
 > Se modifica por el art. 1.6 de la Ley Orgánica 7/1988, de 28 de diciembre. Ref. BOE-A-1988-29621
 

@@ -24,7 +24,11 @@ En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su compete
 
 5.º De los recursos establecidos en la Ley contra las sentencias y otras resoluciones de los Juzgados Centrales de lo Penal, de los Juzgados Centrales de Instrucción y del Juzgado Central de Menores.
 
-6.º De cualquier otro asunto que le atribuyan las leyes.
+6.º De los recursos contra las resoluciones dictadas por los Juzgados Centrales de Vigilancia Penitenciaria de conformidad con lo previsto en la disposición adicional quinta.
+
+7.º De cualquier otro asunto que le atribuyan las leyes.
+
+> Se renumera el número 6º como 7º y se añade un nuevo número 6º por el art. 1.1 de la Ley Orgánica 5/2003, de 27 de mayo. Ref. BOE-A-2003-10614
 
 > Se modifica el número 4º por el art. único.1 de la Ley Orgánica 2/2003, de 14 de marzo. Ref. BOE-A-2003-5450
 

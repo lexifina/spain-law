@@ -18,8 +18,10 @@ f) Resolver en base a los estudios de los Equipos de Observación y de Tratamien
 
 g) Acordar lo que proceda sobre las peticiones o quejas que los internos formulen en relación con el régimen y el tratamiento penitenciario en cuanto afecte a lo derechos fundamentales o a los derechos y beneficio penitenciarios de aquéllos.
 
-h) Realizar las visitas a los establecimientos penitenciarios que previene la Ley de Enjuiciamiento Criminal.
+h) Realizar las visitas a los establecimientos penitenciarios que prevé la Ley de Enjuiciamiento Criminal, pudiendo el Juez Central de Vigilancia Penitenciaria recabar para el ejercicio de dicha función el auxilio judicial de los Jueces de Vigilancia Penitenciaria del lugar en el que radique el establecimiento que ha de ser visitado.
 
 i) Autorizar los permisos de salida cuya duración sea superior a dos días, excepto de los clasificados en tercer grado.
 
 j) Conocer del paso a los establecimientos de régimen cerrado de los reclusos a propuesta del Director del establecimiento.
+
+> Se modifica la letra h) del apartado 2 por el art. 2 de la Ley Orgánica 5/2003, de 27 de marzo. Ref. BOE-A-2003-10614
