@@ -1,0 +1,1 @@
+## Sección II. Junta general
