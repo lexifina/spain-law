@@ -1,0 +1,5 @@
+## Sexto. Previsiones sobre pagos. Comunicación de la excepción.
+
+Con el fin de instrumentar las excepciones previstas en el apartado Quinto de esta Orden y realizar una correcta previsión de los flujos de tesorería, los centros gestores competentes, antes del 31 de enero, comunicarán a la Dirección General del Tesoro y Política Financiera, el calendario anual de previsiones de pago de los conceptos presupuestarios que se ven afectados por las excepciones contempladas en las letras a), b), c) y d) del apartado anterior. En el caso de que se trate de conceptos a los que sea de aplicación lo previsto en la letra a) del apartado anterior, a dicho calendario se acompañará una memoria justificativa que fundamente la excepción en base al precepto legal concreto que sea de aplicación.
+
+Asimismo, en los primeros 10 días de los siguientes trimestres naturales, los Centros gestores comunicarán a la Dirección General del Tesoro y Política Financiera las modificaciones que vayan a producirse en el calendario anual de previsiones de pago propuesto.

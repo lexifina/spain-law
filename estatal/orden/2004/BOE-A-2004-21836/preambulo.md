@@ -1,0 +1,7 @@
+La gestión de la tesorería del Estado exige la disponibilidad de instrumentos adecuados que garanticen tanto la agilidad como el necesario rigor que debe inspirar esta trascendente actividad pública, eslabón último de la ejecución presupuestaria.
+
+Por ello, la Ley 47/2003, de 26 de noviembre, General Presupuestaria introduce, por primera vez en nuestra legislación, la figura del Presupuesto monetario, cuyo antecedente se encontraría en el Plan de Disposición de Fondos del artículo 77 del Texto Refundido de la Ley General Presupuestaria, aprobado por Real Decreto legislati-vo 1091/1988, de 23 de septiembre. Este instrumento tiene por objeto conseguir una adecuada distribución temporal de los pagos y una correcta estimación de la necesidad de endeudamiento del Estado, evitando la aparición de ineficiencias en la distribución y gestión de las disponibilidades líquidas.
+
+La experiencia acumulada recomienda, por una parte, flexibilizar la realización de los pagos concernientes a determinados conceptos presupuestarios en aras a simplificar los procedimientos para el pago de determinadas obligaciones que por su importe no suponen distorsiones en la gestión de la tesorería y, por otra, asentar las previsiones en función de los calendarios propuestos por los centros gestores del gasto en determinados conceptos que por su especial naturaleza no tienen una cadencia regular dentro del ejercicio presupuestario.
+
+Por todo ello, a propuesta de la Dirección General del Tesoro y Política Financiera, dispongo:
