@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta.
+
+En la Comunidad Autónoma de Cantabria, los servicios correspondientes a la Administración General del Estado ejercerán las funciones de inspección técnica de vehículos hasta que se lleve a cabo el traspaso de servicios previsto en el artículo 22 de la Ley Orgánica 9/1992, de 23 de diciembre, de transferencia de competencias a las Comunidades Autónomas que accedieron a la autonomía por la vía del artículo 143 de la Constitución.
