@@ -1,0 +1,3 @@
+## Artículo quinto.
+
+Para comprobar si los vehículos automóviles de serie se corresponden con el tipo homologado en cuanto al ruido, el fabricante o el importador, en su caso, o sus representantes debidamente acreditados presentarán en la Delegación Provincial del Ministerio de Industria donde se encuentre situada la fábrica de vehículos, certificación acreditativa de los ensayos que se realicen con los vehículos muestra que aquel Organismo determine, de acuerdo con lo establecido en el citado Reglamento número nueve (citado), salvo lo dispuesto en el artículo sexto, efectuados por una de las Delegaciones Provinciales del Ministerio de Industria a que se refiere el punto dos del artículo tercero.
