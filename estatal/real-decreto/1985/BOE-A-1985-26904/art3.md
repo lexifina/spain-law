@@ -1,0 +1,7 @@
+## Art. 3.º
+
+1. Los fabricantes nacionales de bicicletas o los representantes legales de los fabricantes extranjeros debidamente autorizados deberán solicitar la homologación de cada uno de los tipos que fabriquen o importen en lo que se refiere a las características de construcción, de acuerdo con las especificaciones técnicas contenidas en el apéndice 1 del anexo al presente Real Decreto como condición previa para que las mismas puedan ser utilizadas en las vías públicas del territorio nacional.
+
+2. Asimismo, los fabricantes nacionales de faros de posición delanteros, pilotos de posición traseros, catadióptricos, generadores y lámparas para bicicletas o los representantes legales de los fabricantes extranjeros debidamente autorizados deberán solicitar la homologación de cada uno de los tipos que fabriquen o importen con destino a las bicicletas que vayan a ser utilizadas en las vías públicas del territorio nacional, según las especificaciones del apéndice 4 del anexo al presente Real Decreto.
+
+3. Los ensayos previstos en las normas de homologación se harán en laboratorios acreditados por la Dirección General de Innovación Industrial y Tecnología, de acuerdo con lo establecido en el punto 2.1.2 del Real Decreto 2584/1981, de 18 de septiembre, por el que se aprueba el Reglamento General de Actuaciones del Ministerio de Industria y Energía en el campo de la Normalización y Homologación.
