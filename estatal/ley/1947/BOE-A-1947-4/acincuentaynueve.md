@@ -1,0 +1,5 @@
+## Artículo cincuenta y nueve.
+
+Los Bancos y banqueros inscritos en el Registro a que se refiere el artículo treinta y ocho participarán en las facilidades y beneficios concertados o que se concierten con el Estado respecto al cheque cruzado y al de viaje, y en relación con el impuesto del Timbre sobre cheques, talones y entregas.
+
+Continurá autorizado el Gobierno para eximir del Timbre del Estado los cheques y demás mandatos de pago a que se refiere el artículo quinientos cuarenta y uno del Código de Comercio, cuando fuesen cruzados en la forma prescrita en el párrafo primero de dicho artículo, y para exceptuar de dicho impuesto al acto en cuya virtud, en la aceptación de las letras de cambio se indique algún Banco o banquero como pagador del documento, siempre que el pago se realice mediante compensación, con sujeción estricta a las normas establecidas. El signo y la fórmula que expresen haberse efectuado la compensación sustituirá legalmente al «recibí» y a la firma prescrita en el párrafo segundo del artículo quinientos treinta y nueve del citado Código.

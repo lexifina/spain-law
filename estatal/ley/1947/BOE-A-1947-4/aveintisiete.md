@@ -1,0 +1,7 @@
+## Artículo veintisiete.
+
+Se destinará precisamente a la amortización de la Deuda especial a que se refiere el artículo anterior el total importe de la participación correspondiente al Estado, según el artículo veinticuatro, en los beneficios líquidos anuales que obtenga el Banco de España; el importe en las condiciones previstas en el último párrafo del artículo once, de los billetes correspondientes a series retiradas de la circulación y que no se hayan presentado o se presenten al cobro en los plazos que el expresado artículo se determinan; el importe de las dos terceras partes a que se refiere el artículo diecisiete, y en el caso aludido en el párrafo tercero del artículo veintitrés, el importe de la plusvalía del oro y de la plata a que dicho párrafo se contrae.
+
+La amortización se llevará a efecto en la forma y condiciones que establece el artículo noveno de la Ley de trece de marzo de mil novecientos cuarenta y dos.
+
+El importe de la amortización de dicho crédito será materializado en el activo del balance del Banco, durante los diez primeros años de vigencia de esta Ley, en los bienes, valores o especies que el Ministro de Hacienda disponga. Transcurrido este plazo, la materialización de que se trata será potestativa del Ministro. Los posibles rendimientos o la plusvalía de estos bienes, valores o especies se destinarán en su totalidad sin pasar, por tanto, la cuenta del ejercicio del Banco de España, a incrementar el importe de la aludida amortización.

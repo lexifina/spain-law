@@ -1,0 +1,3 @@
+## Artículo quinto.
+
+Dos Directores generales nombrados por Decreto a propuesta, en terna, del Consejo del Banco, desempeñarán, a las órdenes inmediatas del Subgobernador, las funciones de gestión, administración y ejecución que éste les encomiende, debiendo cumplir y hacer cumplir al personal del Establecimiento las disposiciones legales, estatutarias y reglamentarias, así como las emanadas del Gobernador, del Subgobernador, del Consejo General y de las Comisiones, en su caso. Asistirán al Consejo y a las Comisiones, con arreglo a lo dispuesto en los artículos sexto y séptimo. Sólo podrán ser separados, en su caso, con arreglo a lo prevenido en los Estatutos.

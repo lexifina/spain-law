@@ -1,0 +1,3 @@
+## Artículo cuarto.
+
+Un Subgobernador de carácter técnico, designado libremente por el Consejo de Ministros, a propuesta del de Hacienda, ejercerá las funciones, especialmente las que correspondan al régimen administrativo del Establecimiento, que no se reserve el Gobernador, sometiendo a resolución de éste los asuntos que se haya reservado; sustituirá al Gobernador en los casos de vacante, ausencia o enfermedad, y formará parte, con voz y voto, del Consejo y, en su caso, de las Comisiones. El Director general más caracterizado sustituirá al Subgobernador en los casos de vacante, ausencia o enfermedad. El Subgobernador podrá ser separado libremente por el Consejo de Ministros, a propuesta del de Hacienda.

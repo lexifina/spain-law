@@ -1,0 +1,3 @@
+## Artículo dieciocho.
+
+La Banca privada suministrará al Banco de España la información a que se contrae el artículo cuarenta y nueve. El Banco, en sus relaciones con aquélla, atemperará su actuación al mejor cumplimiento de las normas de política crediticia a que se refieren los artículos segundo y cuarenta y dos. Considerará también como misión propia, cuando así lo aconseje el interés general, la de ofrecer a las instituciones de crédito que, habiendo acomodado su actuación a las buenas prácticas bancarias, se encuentren, en caso de crisis general o por otras circunstancias, con dificultades de tesorería, el concurso posible dentro de su órbita de acción y compatible con la seguridad de sus operaciones.
