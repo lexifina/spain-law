@@ -1,0 +1,3 @@
+## Disposición adicional octava. Revalorización para el año 2003 de las prestaciones de Gran Invalidez del Régimen especial de la Seguridad Social de las Fuerzas Armadas.
+
+Las prestaciones de gran invalidez destinadas a remunerar a la persona encargada de la asistencia al gran inválido, causadas hasta el 31 de diciembre de 2002 en el Régimen especial de la Seguridad Social de las Fuerzas Armadas, experimentarán con efectos de 1 de enero del año 2003 un incremento del 2 por 100, una vez adaptados sus importes a la diferencia existente entre el IPC del 2 por 100, inicialmente previsto para el pasado ejercicio, y la desviación real experimentada en el período noviembre de 2001 a noviembre de 2002.
