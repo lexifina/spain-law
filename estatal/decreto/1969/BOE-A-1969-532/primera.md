@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+Los Bancos comerciales o mixtos que, al entrar en vigor el presente Decreto, tuvieran concedidos créditos que rebasen los límites establecidos en el mismo, lo comunicarán en el plazo de un mes al Banco de España, debiendo producirse la correspondiente reducción de riesgos en el plazo de dos años. Si la reducción no pudiera realizarse en el indicado plazo los Bancos, antes de finalizar este, deberán someter a la consideración del Banco de España una propuesta de reducción de riesgos por el plazo superior que proceda, a fin de que dicho Banco conceda, en su caso, la autorización oportuna, atendiendo las necesidades del normal desenvolvimiento de las empresas afectadas.
