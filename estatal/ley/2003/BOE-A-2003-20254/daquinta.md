@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Régimen patrimonial de determinados organismos públicos.
+
+1. El régimen patrimonial de los organismos públicos a que hacen referencia las disposiciones adicionales novena y décima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, del ente público Puertos del Estado y de las Autoridades Portuarias, se sujetará a las previsiones de esta ley, considerándose integrado en el Patrimonio del Estado el patrimonio de estos organismos, en los términos previstos en el artículo 9 de esta ley.
+
+2. El régimen patrimonial del Instituto Cervantes se regirá por lo establecido en la Ley 7/1991, de 21 de marzo, y en el Reglamento del Instituto aprobado por Real Decreto 1526/1999, de 1 de octubre, entendiéndose realizadas las referencias efectuadas en esta norma al artículo 48 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado a las correspondientes disposiciones de esta ley.
