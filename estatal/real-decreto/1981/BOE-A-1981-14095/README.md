@@ -197,6 +197,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 145](a145.md)
 - [Artículo 146](a146.md)
 - [Artículo 147](a147.md)
+- [Artículo 147 bis](a147bis.md)
 - [Seccion segunda](ssegunda-5.md)
 - [Artículo 148](a148.md)
 - [Artículo 149](a149.md)
