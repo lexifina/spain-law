@@ -1,3 +1,5 @@
 ## Art. 4.
 
-El orden de suceder en estas Dignidades se acomodará estrictamente á lo dispuesto en la Real concesión, y, en su defecto, á lo establecido para la sucesión de la Corona.
+(Derogado)
+
+> Se deroga por la disposición final 2 del Decreto de 4 de junio de 1948. Ref. BOE-A-1948-40366.

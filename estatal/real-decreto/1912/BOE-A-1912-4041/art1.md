@@ -1,3 +1,5 @@
 ## Art. 1.
 
-Corresponde al Rey, según el artículo 54 de la Constitución, conceder Grandezas de España y Títulos del Reino, así como cualesquiera otros honores ó distinciones.
+(Derogado)
+
+> Se deroga por la disposición final 2 del Decreto de 4 de junio de 1948. Ref. BOE-A-1948-40366.
