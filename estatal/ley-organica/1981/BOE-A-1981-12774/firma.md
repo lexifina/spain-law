@@ -1,0 +1,11 @@
+Por tanto.
+
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica,
+
+Palacio Real, de Madrid, a uno de junio de mil novecientos ochenta y uno.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno,
+
+LEOPOLDO CALVO-SOTELO Y BUSTELO
