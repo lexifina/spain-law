@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Comisiones de Colaboración del Estado con las Corporaciones Locales en las Ciudades de Ceuta y Melilla.
+
+En las Ciudades de Ceuta y Melilla existirán sendas Comisiones de Colaboración del Estado con las Corporaciones Locales, que ejercerán las funciones previstas en el artículo 11 del presente Real Decreto en sus respectivos ámbitos territoriales. Estarán presididas por el Delegado del Gobierno en la Ciudad y su composición será paritaria. La representación de la Administración General del Estado se determinará conforme a lo dispuesto para las Comunidades Autónomas uniprovinciales en el artículo 7. La representación de las respectivas Ciudades se determinará conforme a sus propias normas de funcionamiento.
