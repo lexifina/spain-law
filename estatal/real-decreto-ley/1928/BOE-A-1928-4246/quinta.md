@@ -1,0 +1,3 @@
+## Quinta.
+
+Cuando dentro de una misma comarca existan pozos, manantiales o fuentes pertenecientes a distintos propietarios de los comprendidos en este Estatuto y sus perímetros de protección puedan ser, en todo o en parte comunes, serán objeto de un reparto o prorrateo que en cada caso propondrán los Ingenieros que dictaminen en los expedientes respectivos y resolverá el Ministro de la Gobernación asignando a cada uno la porción equitativa de perímetro independiente, y si los manantiales estuviesen tan cercanos entre sí que no fuera posible la separación de perímetros, se fijaría uno común con comunidad de derechos y para el pago del canon respectivo.
