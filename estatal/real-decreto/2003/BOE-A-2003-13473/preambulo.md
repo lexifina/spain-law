@@ -1,0 +1,15 @@
+Mediante el Real Decreto 670/1990, de 25 de mayo, fue aprobada la Norma de calidad para confituras, jaleas y marmalade de frutas, crema de castañas y mermelada de frutas.
+
+La Directiva 2001/113/CE del Consejo, de 20 de diciembre de 2001, relativa a las confituras, jaleas y «marmalades» de frutas, así como a la crema de castañas edulcorada, destinadas a la alimentación humana, supone el nuevo marco normativo comunitario en esta materia, cuya incorporación al ordenamiento jurídico interno, así como la sustitución del citado Real Decreto 670/1990, de 25 de mayo, que queda derogado, excepto en lo relativo a la regulación de los productos «mermelada» y «mermelada extra», constituyen el objeto de esta disposición por la que se establece la nueva Norma de calidad para dichos productos.
+
+La normativa comunitaria en vigor, en particular en materia de legislación horizontal fundamentalmente relacionada con la salud y protección de los consumidores, ha sufrido diversas modificaciones y es de mayor extensión que la del año 1990, cuando se publicó el mencionado real decreto, lo que hace necesaria una simplificación y puesta al día de la regulación de esta materia en nuestro ordenamiento interno.
+
+Se pretende asimismo mediante la nueva regulación adecuar esta materia a la legislación horizontal, en lo relativo a los aditivos, establecida en el Real Decreto 3177/1983, de 16 de noviembre, por el que se aprueba la Reglamentación técnico-sanitaria de aditivos alimentarios, y disposiciones concordantes, por las que se aprueban las listas positivas de aditivos para su uso en la elaboración de productos alimenticios, así como sus condiciones de utilización, al mismo tiempo que se actualiza el etiquetado para adaptarlo al Real Decreto 1334/1999, de 31 de julio, por el que se aprueba la Norma general de etiquetado, presentación y publicidad de los productos alimenticios, modificado por el Real Decreto 238/2000, de 18 de febrero, así como al resto de la legislación de carácter horizontal de aplicación.
+
+En el proceso de elaboración de esta norma han sido consultadas las comunidades autónomas, así como los sectores afectados, y ha emitido su preceptivo informe la Comisión Interministerial para la Ordenación Alimentaria.
+
+Este real decreto se dicta al amparo de las competencias que el artículo 149.1.13.a y 16.a de la Constitución española atribuye al Estado en materia de bases y coordinación de la planificación general de la actividad económica y de bases y coordinación de la sanidad, excepto lo dispuesto en el apartado 9 del anexo, que se dicta al amparo del artículo 149.1.10.a de la Constitución que atribuye al Estado competencia exclusiva en materia de comercio exterior, y todo ello de acuerdo con lo establecido en los artículos 38 y 40.2 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación y de la Ministra de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de julio de 2003,
+
+DISPONGO:

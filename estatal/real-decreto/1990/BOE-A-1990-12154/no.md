@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. Ref. BOE-A-1990-23082
+Norma derogada, a excepción de lo señalado en los apartados 2.7, «Mermelada extra», y 2.8, «Mermelada», de su anejo, así como las referencias relativas a dichos productos que aparecen en el mencionado anejo, y en particular lo establecido en sus apartados 3, 4, y 5 que les sea de aplicación, por la disposición derogatoria única.1 del Real Decreto 863/2003, de 4 de julio. Ref. BOE-A-2003-13473#ddunica
