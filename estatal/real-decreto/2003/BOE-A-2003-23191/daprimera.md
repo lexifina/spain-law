@@ -1,0 +1,3 @@
+## Disposición adicional primera. Prestaciones complementarias.
+
+Las prestaciones que difieran de las establecidas en la acción protectora del Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos o los importes de aquellas prestaciones susceptibles de integración, así como las cotizaciones, que excedan de los que procedan por aplicación de las normas establecidas en este real decreto no serán asumidos ni reconocidos por los organismos de la Seguridad Social y quedarán, en su caso, bajo la responsabilidad de las Mutualidades Notarial y de Corredores de Comercio, según la procedencia del titular de aquéllos, de acuerdo con lo que establezcan sus respectivas normas de aplicación.

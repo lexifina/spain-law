@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Obligación de conservación de documentos y de colaboración.
+
+Las mutualidades citadas o las entidades u organismos que en su día las sustituyan o, en su defecto, el Consejo General del Notariado estarán obligados a conservar los documentos que sirven de base para el reconocimiento de los derechos a que se refiere este real decreto, así como a facilitar cuantos datos e información les sean solicitados por el Ministerio de Trabajo y Asuntos Sociales o por las entidades de la Seguridad Social hasta que se liquiden y extingan todas las obligaciones establecidas en este real decreto.
