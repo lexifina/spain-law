@@ -1,6 +1,6 @@
 ## Artículo treinta y uno. Cuantía de la pensión.
 
-1. El porcentaje a aplicar a la correspondiente base reguladora para la determinación de la cuantía de la pensión de viudedad será el 46 por 100.
+1. El porcentaje a aplicar a la correspondiente base reguladora para la determinación de la cuantía de la pensión de viudedad será del 48 por 100.
 
 2. Cuando la pensión de viudedad constituya la principal o única fuente de ingresos del pensionista, aquéllos no superen la cuantía a que se refiere el párrafo siguiente y el pensionista tenga cargas familiares, el porcentaje señalado en el apartado 1 será del 70 por 100.
 
@@ -19,6 +19,12 @@ En los supuestos en que el cumplimiento de los requisitos indicados se produzca 
 A tal efecto, los beneficiarios estarán obligados a presentar ante la Entidad Gestora que corresponda, en el plazo de treinta días, a contar desde la fecha en que se produzcan, comunicación debidamente acreditada de cuantas variaciones hubieran tenido lugar en su situación familiar o económica, que puedan suponer el nacimiento o la extinción del derecho al porcentaje de pensión reflejado en el apartado anterior.
 
 De igual modo, vendrán obligados a presentar declaración expresiva de los rendimientos, tanto propios como de los miembros de la unidad familiar, a que se refiere el apartado anterior, a efectos de determinar la subsistencia de las cargas familiares. Esta declaración, referida a los rendimientos del ejercicio anterior, deberá efectuarse antes del 1 de marzo de cada año.
+
+> Se modifica el apartado 1 por la disposición final 1.1 del Real Decreto 1425/2002, de 27 de diciembre. Ref. BOE-A-2002-25416.
+
+> Téngase en cuenta para su aplicación la disposición final 1.2 y 3.
+
+> Esta modificación tiene efectos a partir del 1 de enero de 2003, según establece la disposición final 5.
 
 > Se modifica por el art. 1.1 del Real Decreto 1464/2001, de 27 de diciembre. Ref. BOE-A-2001-24970.
 
