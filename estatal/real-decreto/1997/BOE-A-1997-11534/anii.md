@@ -6,8 +6,12 @@
 
 2. Patrón costero polivalente:
 
-a) Mando de buques pesqueros de hasta 20 metros de eslora entre perpendiculares y 300 KW de potencia efectiva de la máquina, dedicado a la pesca costera, de litoral o auxiliar de acuicultura y a una distancia de hasta 60 millas de la costa por fuera de las líneas de base definidas de acuerdo con la Ley 10/1977, de 4 de enero, sobre mar territorial y la delimitación de las líneas de base rectas establecida en el Real Decreto 2510/1977, de 5 de agosto.
+a) Mando en buques de pesca de hasta 24 metros de eslora entre perpendiculares y 400 Kilovatios de potencia efectiva de la máquina, dedicado a la pesca costera, de litoral o auxiliar de acuicultura y a una distancia de hasta 60 millas de la costa y por fuera de las líneas de base definidas de acuerdo con la Ley 10/1977, de 4 de enero, sobre mar territorial, y la delimitación de las líneas de base rectas establecidas en el Real Decreto 2510/1977, de 5 de agosto.
 
-b) Enrolarse como Oficial encargado de la guardia de navegación en buques dedicados a la pesca de litoral.
+b) Ejercer la jefatura de máquinas en buques de pesca con potencia propulsora no superior a 400 kilovatios.
 
-c) Ejercer de Segundo de máquinas en buques pesqueros cuya jefatura corresponda a mecánico naval de segunda clase.
+c) Enrolarse como oficial encargado de la guardia de navegación en buques dedicados a la pesca de litoral.
+
+d) Enrolarse como oficial encargado de la guardia de máquinas en barcos dedicados a la pesca de litoral.
+
+> Se modifica el apartado 2 por el art. único.3 del Real Decreto 1548/2004, de 25 de junio. Ref. BOE-A-2004-12769.

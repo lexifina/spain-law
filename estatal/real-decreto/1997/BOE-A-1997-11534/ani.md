@@ -96,25 +96,31 @@ b) Sección máquinas:
 
 1.º Motores diésel y sus elementos.
 
-2.º Averías más comunes y reparación.
+2.º Motores de dos y cuatro tiempos.
 
-3.º Conducción y mantenimiento de los motores.
+3.º Componentes de un motor.
 
-4.º Combustible y lubricantes.
+4.º Sistemas de inyección. Bombas e inyectores.
 
-5.º Cuadros eléctricos.
+5.º Arranque. Línea de ejes. Motores reversibles.
 
-6.º Dinamos y alternadores.
+6.º Conducción. Mantenimiento. Averías.
 
-7.º Baterías. Carga y descarga. Cuidados y mantenimiento.
+7.º Combustibles y lubricantes.
 
-8.º Sistemas hidráulicos.
+8.º Potencias, rendimientos y consumos.
 
-9.º Sistemas de gobierno.
+9.º Cuadros eléctricos. Baterías.
 
-10. Servicios de achique, baldeo y contraincendios.
+10.º Sistemas hidráulicos.
 
-c) Comunes a puente y máquinas:
+11.º Servicios de achique, baldeo y contra incendios.
+
+12.º Instrumentos de medida local y remoto.
+
+13.º Seguridad y prevención de riesgos en el manejo de la maquinaria a bordo.
+
+c) Comunes a puentes y máquinas:
 
 1.º Seguridad marítima.
 
@@ -128,4 +134,8 @@ c) Comunes a puente y máquinas:
 
 6.º Legislación laboral.
 
+7.º Nociones de inglés técnico en los servicios de puente y máquinas.
+
 3. Conocimientos prácticos: Realizar un período de embarque de veinticuatro meses, doce en la cámara de máquinas y doce en la sección de puente en buques de pesca, una vez superada la prueba de aptitud.
+
+> Se modifican los apartados B.2.b) y c) por el art. único.1 y 2 del Real Decreto 1548/2004, de 25 de junio. Ref. BOE-A-2004-12769.
