@@ -1,0 +1,3 @@
+## Artículo único. Aprobación del Reglamento de almacenamiento de productos químicos y las ITCs MIE APQ-1 a MIE APQ-7.
+
+Se aprueba el Reglamento de almacenamiento de productos químicos (APQ), que se inserta a continuación, y las instrucciones técnicas complementarias (ITCs) MIE APQ-1 «almacenamiento de líquidos inflamables y combustibles», MIE APQ-2 «almacenamiento de óxido de etileno», MIE APQ-3 «almacenamiento de cloro», MIE APQ-4 «almacenamiento de amoníaco anhidro», MIE APQ-5 «almacenamiento de botellas y botellones de gases comprimidos licuados y disueltos a presión», MIE APQ-6 «almacenamiento de líquidos corrosivos» y MIE APQ-7 «almacenamiento de líquidos tóxicos», que se incluyen en el anexo I de este Real Decreto.
