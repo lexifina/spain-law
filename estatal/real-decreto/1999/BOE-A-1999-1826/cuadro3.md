@@ -30,11 +30,11 @@
 | TEMPORAL EMPRESAS ALTA VEHÍCULOS MATRICULADOS |
 | TEMPORAL EMPRESAS CICLOMOTORES VEHÍCULOS NO MATRICULADOS |
 | TEMPORAL EMPRESAS CICLOMOTORES VEHÍCULOS MATRICULADOS |
-| A | Bandas donde se consignan mes y año de caducidad |  | Matrícula turística Matrícula temporal empresa | 30 mm | ANCHURA BANDA |
-| --- | --- | --- | --- | --- | --- |
-| Los caracteres adhesivos serán de color blanco para las placas de matrícula turística y rojo para las placas temporales empresa y de dimensiones 15 x 8 x 2 mm |  | Matrícula temporal empresa ciclomotores | 20 mm |
+| A | Bandas donde se consignan mes y año de caducidad | Matrícula turística Matrícula temporal empresa | 30 mm | ANCHURA BANDA |
+| --- | --- | --- | --- | --- |
+| Los caracteres adhesivos serán de color blanco para las placas de matrícula turística y rojo para las placas temporales empresa y de dimensiones 15 x 8 x 2 mm | Matrícula temporal empresa ciclomotores | 20 mm |
 
-## Valores mínimos del coeficiente de retro-reflexión en las láminas
+## Valores mínimos del coeficiente de retrorreflexión en las láminas y en el logo
 
 | Color del producto | Ángulo de observación | H = 0° | Ángulo de entrada |
 | --- | --- | --- | --- |
@@ -70,5 +70,7 @@
 | Y | 0,171 | 0,220 | 0,160 | 0,038 |
 | Amarillo | X | 0,545 | 0,487 | 0,427 | 0,465 | > 0,27 |
 | Y | 0,454 | 0,423 | 0,483 | 0,534 |
+
+> Se modifica por el art. único.E) de la Orden de 15 de septiembre de 2000. Ref. BOE-A-2000-16805.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 1999. Ref. BOE-A-1999-3698.
