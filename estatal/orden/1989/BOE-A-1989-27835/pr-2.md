@@ -13,3 +13,5 @@
 6. Lo dispuesto en el número anterior será aplicable igualmente a los casos en que alguno de los folios del libro-registro o de las hojas destinadas a su formación quedase inutilizado por cualquier causa.
 
 7. La comunicación de desguace o fundición a que se refiere el artículo 96 del Reglamento de 22 de febrero de 1988 se ajustará al modelo que se recoge en el anexo III de la presente Orden, pudiendo, igualmente, llevarse a cabo su confección sobre los impresos que meditarán las Dependencias de la Policía o, en su caso, los Puestos de la Guardia Civil, o reproducirse por los interesados por cualquier procedimiento idóneo, debiendo mantenerse en todo caso sus características y formato.
+
+> Se declara que las competencias controvertidas contenidas en los números 3, 5 y 7 corresponden a la Comunidad Autónoma del País Vasco, por Sentencia 175/1999, de 30 de septiembre. Ref. BOE-T-1999-21324
