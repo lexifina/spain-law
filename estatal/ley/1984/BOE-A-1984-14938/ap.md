@@ -1,3 +1,5 @@
 ## Artículo primero.
 
-El interés legal se determinará aplicando el tipo básico del Banco de España vigente al día en que comience el devengo de aquél, salvo que la Ley de Presupuestos Generales del Estado establezca uno diferente.
+El interés legal del dinero se determinará en la Ley de Presupuestos Generales del Estado.
+
+> Se modifica por la disposición adicional 5 de la Ley 13/1994, de 1 de junio. Ref. BOE-A-1994-12553
