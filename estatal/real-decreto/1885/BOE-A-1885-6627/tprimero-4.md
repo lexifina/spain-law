@@ -1,3 +1,5 @@
 ## TÍTULO PRIMERO
 
 ## De la suspensión de pagos y de la quiebra en general
+
+> Se deroga por la disposición derogatoria única.3.3 de la Ley 22/2003, de 9 de julio. Ref. BOE-A-2003-13813.

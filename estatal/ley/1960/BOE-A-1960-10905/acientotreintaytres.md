@@ -13,3 +13,9 @@ Cuarto. Las indemnizaciones que esta Ley establece en concepto de reparación de
 Quinto. Los gastos de auxilio o salvamento de la propia aeronave, accidentada o en peligro.
 
 Para la prelación de los demás créditos, se estará a lo dispuesto en la legislación común.
+
+Los privilegios y el orden de prelación establecidos en los apartados anteriores regirán únicamente en los supuestos de ejecución singular.
+
+En caso de concurso, el derecho de separación de la aeronave previsto en la Ley Concursal se reconocerá a los titulares de los créditos privilegiados comprendidos en los números 1.º a 5.º del apartado primero. Si no se hubiere ejercitado ese derecho, la clasificación y graduación de créditos en el concurso se regirá por lo establecido en dicha Ley.
+
+> Se añaden los dos últimos párrafos por la disposición final 30 de la Ley 22/2003, de 9 de julio. Ref. BOE-A-2003-13813.

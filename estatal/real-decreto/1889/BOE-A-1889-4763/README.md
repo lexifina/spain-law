@@ -2328,6 +2328,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO XVII](txvii.md)
 - [CAPÍTULO PRIMERO](cprimero-33.md)
 - [Art 1911](art1911.md)
+- [Arts 1912 al 1920](arts1912al1920.md)
 - [Art 1912](art1912.md)
 - [Art 1913](art1913.md)
 - [Art 1914](art1914.md)
