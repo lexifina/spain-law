@@ -1,0 +1,3 @@
+## Art. 24. Carencia de Gabinete de Orientación Educativa en un Centro.
+
+Cuando, a juicio de la Dirección General de Enseñanza, previo informe de la respectiva Dirección de Enseñanza, no resulte viable o, por las dimensiones del Centro, aconsejable constituir el Gabinete de Orientación Educativa, las funciones que en otro caso tendría atribuidas dicho Gabinete, las podrá desempeñar bien el de la Academia General del mismo grado de enseñanza del correspondiente Ejército, o bien la Escuela Militar de Ciencias de la Educación, en la forma y por los procedimientos que establezca el Director general de Enseñanza.

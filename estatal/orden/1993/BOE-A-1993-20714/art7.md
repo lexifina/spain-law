@@ -1,0 +1,3 @@
+## Art. 7. Contratación para realizar trabajos y desarrollar cursos.
+
+Los Directores de los Centros docentes militares de formación, por sí o a iniciativa de los departamentos o de los Profesores, podrán proponer la contratación con Entidades públicas y privadas, o con personas físicas, para la realización de trabajos de carácter científico o técnico, así como para el desarrollo de cursos de especialización. El Secretario de Estado de Administración Militar establecerá el procedimiento para la autorización y establecimiento de dichos contratos y los criterios para la afectación de los bienes e ingresos obtenidos.
