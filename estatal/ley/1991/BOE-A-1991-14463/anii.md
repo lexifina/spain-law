@@ -6,37 +6,33 @@ El tipo impositivo incrementado del 13 por 100 del Impuesto General Indirecto Ca
 
 1.º Cigarros puros con precio superior a 200 pesetas unidad. Los demás cigarros puros tributan al tipo general.
 
-2.º Los aguardientes compuestos, los licores, los aperitivos sin vino base y las demás bebidas derivadas de alcoholes naturales, conforme a las definiciones del Estatuto de la Viña, del Vino y de los Alcoholes y Reglamentaciones complementarias y asimismo, los extractos y concentrados alcohólicos aptos para la elaboración de bebidas derivadas.
+2.º Los aguardientes compuestos, los aperitivos sin vino base y las demás bebidas derivadas de alcoholes naturales, conforme a las definiciones del Estatuto de la Viña, del Vino y de los Alcoholes y Reglamentaciones Complementarias y asimismo, los extractos y concentrados alcohólicos aptos para la elaboración de bebidas derivadas, sin perjuicio en lo dispuesto en el número 3 del anexo VI de la presente Ley.
 
 3.º Los vehículos accionados a motor con potencia superior a 11 CV fiscales, excepto:
 
 a) Los camiones, motocarros, furgonetas y demás vehículos que, por su configuración objetiva, no puedan destinarse a otra finalidad que el transporte de mercancías.
 
-b) Los autobuses, microbuses y demás vehículos aptos para el transporte colectivo de viajeros que:
+b) Los autobuses y demás vehículos aptos para el transporte colectivo de viajeros que tengan una capacidad que exceda de 9 plazas, incluida la del conductor.
 
-Tengan una capacidad que exceda de nueve plazas, incluida la del conductor, o
-
-Cualquiera que sea su capacidad, tengan una altura sobre el suelo superior a 1.800 milímetros, salvo que se trate de vehículos tipo «jeep» o todo terreno.
-
-c) Los furgones y furgonetas de uso múltiple, cuya altura total sobre el suelo sea superior a 1.800 milímetros y no sean vehículos tipo «jeep» o todo terreno.
+c) Los furgones y furgonetas que no sean vehículos tipo "jeep" o todo terreno.
 
 d) Los vehículos automóviles considerados como taxis, autotaxis o autoturismos por la legislación vigente.
 
 e) Los que, objetivamente considerados, sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica, siempre que sus modelos de serie o los vehículos individualmente hubieran sido debidamente homologados por la Administración Tributaria Canaria. A estos efectos, se considerará que tienen exclusivamente alguna de estas aplicaciones los furgones y furgonetas de uso múltiple de cualquier altura siempre que dispongan únicamente de dos asientos para el conductor y el ayudante, en ningún caso posean asientos adicionales y el espacio destinado a la carga no goce de visibilidad lateral y sea superior al 50 por 100 del volumen interior.
 
-f) Los vehículos adquiridos por minusválidos, no contemplados en el anexo I, para su uso exclusivo siempre que concurran los siguientes requisitos:
+f) Los vehículos adquiridos por minusválidos, no contemplados en el Anexo I, para su uso exclusivo siempre que concurran los siguientes requisitos:
 
-Que hayan transcurrido al menos cuatro años desde la adquisición de otro vehículo en análogas condiciones.
+– Que hayan transcurrido al menos cuatro años desde la adquisición de otro vehículo en análogas condiciones.
 
 No obstante, este requisito no se exigirá en supuestos de siniestro total de los vehículos, certificado por la compañía aseguradora.
 
-Que no sean objeto de una transmisión posterior por actos «inter vivos» durante el plazo de cuatro años siguientes a la fecha de su adquisición.
+– Que no sean objeto de una transmisión posterior por actos inter vivos durante el plazo de cuatro años siguientes a la fecha de su adquisición.
 
 El incumplimiento de este requisito determinará la obligación, a cargo del beneficiario, de ingresar a la Hacienda Pública la diferencia entre la cuota que hubiese debido soportar por aplicación del tipo incrementado y la efectivamente soportada al efectuar la adquisición del vehículo.
 
-La aplicación del tipo impositivo general requerirá el previo reconocimiento del derecho del adquirente en la forma que se determine reglamentariamente, previa certificación de la invalidez por el Instituto Nacional de Servicios Sociales.
+La aplicación del tipo impositivo general requerirá el previo reconocimiento del derecho del adquirente en la forma que se determine reglamentariamente, previo certificado o resolución, que acredite el grado de minusvalía, expedido por el Instituto de Migraciones y Servicios Sociales o por el órgano competente de las Comunidades Autónomas en materia de valoración de minusvalías.
 
-4.º Remolques para vehículos de turismo.
+4.º Caravanas y remolques para vehículos de turismo, salvo los que objetivamente considerados sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica.
 
 5.º Embarcaciones y buques de recreo o deportes náuticos que tengan más de nueve metros de eslora en cubierta, excepto las embarcaciones olímpicas.
 
@@ -87,6 +83,8 @@ A efectos de este impuesto se consideran piedras preciosas, exclusivamente, el d
 1.º El arrendamiento de los vehículos accionados a motor, incluso los de potencia igual o inferior a 11 CV fiscales. No obstante, no se incluye en este apartado el arrendamiento de los vehículos relacionados en las letras a), b), c) y e) del apartado 1.3.º anterior, cualquiera que sea su potencia fiscal.
 
 2.º El arrendamiento de los demás bienes relacionados en el número 1 anterior cuya entrega o importación tributen al tipo incrementado regulado en este anexo.
+
+> Se modifica el apartado 1.2 a 4 por el art. 10.1.20 y 21 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
 
 > Se modifica por el art. 8.1.19 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
 

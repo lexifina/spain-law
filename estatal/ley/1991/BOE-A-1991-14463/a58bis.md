@@ -4,7 +4,7 @@
 
 Se exceptúan de lo dispuesto en el párrafo anterior las importaciones de bienes de cualquier naturaleza que no sean objeto de comercio por el referido minorista.
 
-2. La base imponible del recargo será igual a la suma de la base imponible del Impuesto General Indirecto Canario, que grave la importación de bienes, y de las cuotas del Arbitrio sobre la Producción e Importación en Canarias y del Arbitrio de Entrada-Tarifa Especial que, asimismo, se devenguen con motivo de tal importación.
+2. La base imponible del recargo será igual a la suma de la base imponible del Impuesto General Indirecto Canario, que grave la importación de bienes, y de las cuotas del Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias que, asimismo, se devenguen con motivo de tal importación.
 
 3. Sin perjuicio de lo dispuesto en la disposición adicional octava.tres de la presente Ley, los tipos del recargo serán los siguientes:
 
@@ -32,13 +32,15 @@ en la que K es el coeficiente a aplicar y T el tipo impositivo que corresponda.
 
 8. En los supuestos de iniciación o cese en este régimen especial serán de aplicación las siguientes reglas:
 
-1.ª En los casos de iniciación los sujetos pasivos, excepto los comerciantes minoristas acogidos al régimen simplificado, deberán efectuar la liquidación e ingreso de la cantidad resultante de aplicar al valor de adquisición de las existencias inventariadas, Impuesto General Indirecto Canario excluido, en la parte que corresponda a las importaciones de bienes realizadas desde el día 1 de enero de 1993, los tipos del citado impuesto y del recargo vigentes en la fecha de iniciación.
+1.ª En los casos de iniciación, los sujetos pasivos, excepto los comerciantes minoristas acogidos al régimen simplificado, deberán efectuar la liquidación e ingreso de la cantidad resultante de aplicar al valor de adquisición de las existencias inventariadas, Impuesto General Indirecto Canario excluido, en la parte que corresponda a las importaciones de bienes realizadas desde el día 1 de enero de 1993, los tipos del citado impuesto y del recargo vigentes en la fecha de iniciación.
 
-2.ª En los casos de cese debido a la falta de concurrencia de los requisitos previstos en el artículo 10, número 3, de la presente Ley, los sujetos pasivos podrán efectuar la deducción de la cuota resultante de aplicar al valor de adquisición de sus existencias inventariadas en la fecha de cese, Impuesto General Indirecto Canario y recargo excluidos, en la parte que corresponda a las importaciones de bienes realizadas desde el día 1 de enero de 1993, los tipos de dicho impuesto y recargo que estuviesen vigentes en la misma fecha del cese.
+2.ª En los casos de cese debido a la falta de concurrencia de los requisitos previstos en el artículo 10, número 3, de la presente Ley, los sujetos pasivos podrán efectuar la deducción de la cuota resultante de aplicar al valor de adquisición de sus existencias inventariadas en la fecha de cese, Impuesto General Indirecto Canario y recargo excluidos, en la parte que corresponda a las importaciones de bienes realizadas desde el día 1 de enero de 1993, los tipos de dicho impuesto y recargo que estuviesen vigentes en la misma fecha del cese. El derecho a deducir las citadas cuotas nace en la fecha del cese en este régimen especial.
 
 3.ª A los efectos de lo dispuesto en las dos reglas anteriores, los sujetos pasivos deberán confeccionar, en la forma que reglamentariamente se determine, inventarios de sus existencias con referencia a los días de iniciación y cese en la aplicación de este régimen.
 
 9. Sin perjuicio de la liquidación e ingreso del recargo a que se refiere el presente artículo, los sujetos pasivos acogidos al régimen especial de comerciantes minoristas tendrán la obligación de proceder a la liquidación y pago del impuesto en los casos previstos en el número 3 del artículo 59 de esta Ley, mediante la presentación de la declaración ocasional a que se refiere dicho precepto.
+
+> Se modifican los apartados 2 y 8 por el art. 10.1.15 y 16 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
 
 > Se modifica el apartado 3 por el art. 8.1.21 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
 

@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Efectos de la diferencia entre el precio de adquisición de la participación y su valor teórico en las operaciones realizadas por el régimen especial de las fusiones, escisiones, aportaciones de activos y canje de valores.
+
+La valoración resultante de la imputación a los bienes amortizables del inmovilizado que corresponda a la diferencia entre el precio de adquisición de la participación y su valor teórico, según la redacción establecida por esta Ley al apartado 3 del artículo 103 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, tendrá efectos fiscales para aquellas operaciones que se hayan inscrito a partir de 1 de enero de 2002.

@@ -2,7 +2,7 @@
 
 Uno. La tarifa incluirá las aportaciones motivadas por los siguientes conceptos:
 
-a) El coste de las obras.
+a) Amortización del coste de las obras.
 
 b) Los gastos fijos de funcionamiento.
 
@@ -10,15 +10,15 @@ c) Los gastos variables de funcionamiento.
 
 Dos. La tarifa comprendo los tres valores siguientes:
 
-a) El obtenido de repartir el coste total de las obras entre la dotación total anual definitiva asignada al conjunto de usos del agua conducida, afectado por un coeficiente que en función de uso del agua será:
+a) El obtenido de repartir el coste total no amortizado de las obras entre la dotación total anual definitiva asignada al conjunto de usos del agua conducida, afectado por un coeficiente que en función del uso del agua será:
 
-— Cero coma cero cuatro en regadíos.
+Cero coma cero cuatro en regadíos.
 
-— Cero coma cero ocho en abastecimientos.
+Cero coma cero ocho en abastecimientos.
 
-En el cómputo del coste de las obras y, sin perjuicio de lo dispuesto en el párrafo dos del artículo segundo de esta Ley, se incluyen los gastos motivados por la realización de los proyectos, la construcción de las obras principales y complementarias, las expropiaciones e indemnizaciones necesarias, los edificios y caminos, los gastos de inspección y vigilancia y, en general, todas las inversiones realizadas. Durante el período de explotación de la primera fase, limitado a un trasvase máximo anual de seiscientos millones de metros cúbicos, se considerará el sesenta por ciento del total de la inversión.
+En el cómputo del coste de las obras, y sin perjuicio de lo dispuesto en el párrafo dos del artículo segundo de esta Ley, se incluyen los gastos motivados por la realización de los proyectos, la construcción de las obras principales y complementarias, las expropiaciones e indemnizaciones necesarias, los edificios y caminos, los gastos de inspección y vigilancia y, en general, todas las inversiones realizadas. Durante el periodo de explotación de la primera fase, limitado a un trasvase máximo anual de seiscientos millones de metros cúbicos, se considerará el sesenta por ciento del total de la inversión.
 
-Para los volúmenes de agua destinados al uso en abastecimientos, el valor así calculado se incrementará en la cuantía de dos pesetas el metro cúbico.
+Para los volúmenes de agua destinados al uso en abastecimientos, el valor así calculado se incrementará en la cuantía fija de dos pesetas por metro cúbico, cantidad que no será computable a efectos de amortización de las obras.
 
 b) El obtenido de repartir la previsión anual de los gastos de funcionamiento necesarios para efectuar la explotación de las obras del acueducto Tajo-Segura, cuya realización es independiente del volumen de agua suministrado, entre el total de dotaciones asignado a las concesiones existentes o establecidas en el correspondiente compromiso. Dichos gastos incluyen los de mantenimiento del servicio, conservación de obras e instalación, administración y generales de los Organismos gestores, imputables a la explotación del acueducto Tajo-Segura.
 
@@ -31,5 +31,7 @@ a) A la dotación concesional o comprometida, los correspondientes al coste de l
 b) A la dotación concesional o comprometida, los correspondientes a los gastos de funcionamiento independientes del volumen de agua suministrada.
 
 c) Al consumo realmente producido, los correspondientes a los gastos de funcionamiento proporcionales al volumen de agua suministrada.
+
+> Se modifica el apartado 1 y la letra a) del apartado 2 por el art. 89.1 y 2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
 
 > Se convierten a euros las cuantías contempladas, por el apartado 7 de la Resolución 9/2001, de 31 de octubre. Ref. BOE-A-2001-22215.

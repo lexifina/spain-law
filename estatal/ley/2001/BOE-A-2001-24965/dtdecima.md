@@ -1,0 +1,3 @@
+## Disposición transitoria décima. Aplicación de la posibilidad de optar por la situación de servicio activo a los Subdelegados del Gobierno y a los Directores insulares con nombramiento en vigor.
+
+Lo establecido en el artículo 50 de esta Ley que da nueva redacción al artículo 29.2.n) de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, será de aplicación a los Subdelegados del Gobierno en las Provincias y a los Directores Insulares de la Administración General del Estado con nombramiento en vigor a 1 de enero de 2002, con efectos desde la fecha de su nombramiento.

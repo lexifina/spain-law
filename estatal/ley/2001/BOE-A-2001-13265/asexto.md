@@ -1,6 +1,6 @@
 ## Artículo sexto. Incentivos.
 
-1. Los contratos indefinidos iniciales, incluidos los fijos discontinuos, a tiempo completo o parcial, celebrados durante el período comprendido entre el 4 de marzo y el 31 de diciembre del año 2001, darán derecho, a partir de la fecha de la contratación, a las siguientes bonificaciones de la cuota empresarial a la Seguridad Social por contingencias comunes:
+1. Los contratos indefinidos iniciales, incluidos los fijos discontinuos, a tiempo completo o parcial, celebrados durante el año 2002, darán derecho, a partir de la fecha de la contratación, a las siguientes bonificaciones de la cuota empresarial a la Seguridad Social por contingencias comunes:
 
 a) Contratación de mujeres desempleadas entre dieciséis y cuarenta y cinco años: 25 por 100 durante el período de los veinticuatro meses siguientes al inicio de la vigencia del contrato.
 
@@ -28,8 +28,10 @@ i) Contratación de mujeres desempleadas inscritas durante un período de doce o
 
 4. Las empresas y entidades que contraten indefinidamente, incluida la contratación de trabajadores fijos discontinuos, o temporalmente, bien mediante contrataciones a tiempo completo o parcial, a trabajadores desempleados en situación de exclusión social, en los términos del número 1.3 del artículo cuarto, podrán aplicar una bonificación en la cuota empresarial a la Seguridad Social por contingencias comunes del 65 por 100, durante el resto de la vigencia del contrato, con un máximo de veinticuatro meses. Cuando un mismo trabajador celebre distintos contratos de trabajo, ya sea con una misma empresa o entidad, o con otra distinta, con o sin solución de continuidad, se aplicará igualmente el máximo de veinticuatro meses desde la fecha inicial del primer contrato.
 
-5. Las transformaciones en indefinidos, incluidas las que se acuerden a la modalidad de fijo discontinuo, que se realicen hasta el 31 de diciembre de 2001 de los contratos de duración determinada o temporales celebrados a tiempo completo o parcial con anterioridad a la entrada en vigor de esta norma, así como la de los contratos formativos, de relevo y de sustitución por anticipación de la edad de jubilación concertados, de acuerdo a lo dispuesto en su normativa reguladora, a tiempo completo o parcial, cualquiera que sea la fecha de su celebración, darán lugar a una bonificación del 25 por 100 durante el período de los veinticuatro meses siguientes al inicio de la vigencia del nuevo contrato.
+5. Las transformaciones en indefinidos, incluidas las que se acuerden a la modalidad de fijo discontinuo, que se realicen hasta el 31 de diciembre de 2002 de los contratos de duración determinada o temporales celebrados a tiempo completo o parcial con anterioridad a 1 de enero de 2002, así como la de los contratos formativos, de relevo y de sustitución por anticipación de la edad de jubilación concertados, de acuerdo a lo dispuesto en su normativa reguladora, a tiempo completo o parcial, cualquiera que sea la fecha de su celebración, darán lugar a una bonificación del 25 por 100 durante el período de los veinticuatro meses siguientes al inicio de la vigencia del nuevo contrato.
 
-Darán derecho a la misma bonificación las transformaciones de contratos de prácticas y de relevo celebrados inicialmente a tiempo parcial, en indefinidos a tiempo parcial. En este supuesto la jornada del nuevo contrato indefinido será como mínimo igual a la del contrato de prácticas o de relevo que se transforma.
+Darán derecho a la misma bonificación las transformaciones de contratos de prácticas y de relevo celebrados inicialmente a tiempo parcial, en indefinidos a tiempo parcial. En este supuesto la jornada del nuevo contrato indefinido será como mínimo igual a la del contrato en prácticas o de relevo que se transforma
 
 6. Los contratos acogidos al presente programa de fomento del empleo estable se formalizarán en el modelo oficial que disponga el Instituto Nacional de Empleo.
+
+> Se modifican el párrafo primero del apartado 1 y el apartado 5 por la disposición adicional 4.2.3 y 4 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.

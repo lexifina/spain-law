@@ -96,7 +96,7 @@ La definición comprende también las manufacturas viejas de papel o de cartón 
 
 Los desperdicios o desechos de vidrio comprenden los residuos de la fabricación de objetos de vidrio así como los producidos por su uso o consumo. Se caracterizan generalmente por sus aristas cortantes.
 
-Octavo. Para la conversión de las cantidades fijadas en Ecus en los artículos 14 y 68 de esta Ley, se aplicará la equivalencia de 1 Ecu igual a 129,98 peseta.
+Octavo. (Derogado)
 
 Noveno. Peso de los lingotes o láminas de oro a efectos de su consideración como oro de inversión.
 
@@ -124,6 +124,8 @@ Se considerarán oro de inversión a efectos de esta Ley los lingotes o láminas
 | 5 | tael. |
 | 1 | tael. |
 | 10 | tolas. |
+
+> Se deroga el apartado 8º por la disposición derogatoria única.3 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
 
 > Se modifican los apartados 5.a), 6.3º y se añade el 9 por el art 6.19 a 21 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
 

@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Suspensión del ingreso de la deuda Tributaria regulado en el artículo 80.6 de la Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias.
+
+La solicitud de suspensión del ingreso regulada en el artículo 80.6 de la Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias, en la redacción efectuada por el artículo 1 de la presente Ley, resultará de aplicación a las declaraciones correspondientes a los períodos impositivos que se inicien a partir de 1 de enero de 2001.

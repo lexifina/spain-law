@@ -1,0 +1,7 @@
+## Disposición transitoria tercera. Reinversión de beneficios extraordinarios en el Impuesto sobre Sociedades.
+
+Uno. Las rentas acogidas a la reinversión de beneficios extraordinarios prevista en el artículo 21 de la Ley 43/ 1995, de 27 de diciembre, del Impuesto sobre Sociedades, según su redacción vigente hasta 1 de enero de 2002, se regularán por lo en él establecido y en sus normas de desarrollo, aun cuando la reinversión y demás requisitos se produzca en períodos impositivos iniciados a partir de 1 de enero de 2002.
+
+Dos. No obstante lo dispuesto en el apartado anterior, si la reinversión se efectúa en un período impositivo iniciado a partir de 1 de enero de 2002, el sujeto pasivo podrá aplicar la deducción a que se refiere el artículo 36 ter de la Ley 43/1995, a condición de que la totalidad de la renta diferida se integre en la base imponible de dicho período impositivo.
+
+Tres. Los sujetos pasivos que en el primer período impositivo que se inicie a partir de 1 de enero de 2002 tuvieran rentas pendientes de integrar en la base imponible, por haberse acogido a la reinversión de beneficios extraordinarios prevista en el artículo 21 de la Ley 43/1995, según su redacción vigente hasta 1 de enero de 2002, podrán incluir en la base imponible de la primera declaración por este impuesto que se presente a partir de 1 de enero de 2002, total o parcialmente, dichas rentas, aplicando asimismo la deducción prevista en el artículo 36 ter de dicha Ley por tales rentas integradas en la base imponible.

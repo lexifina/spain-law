@@ -6,43 +6,41 @@ El tipo impositivo reducido del 2 por 100 del Impuesto General Indirecto Canario
 
 1.º Los productos derivados de las industrias y actividades siguientes:
 
-- Extracciones, preparación y aglomeración de combustibles sólidos y coquerías.
+– Extracciones, preparación y aglomeración de combustibles sólidos y coquerías.
 
-- Petróleo y su refino.
+– Extracción y transformación de minerales radiactivos.
 
-- Extracción y transformación de minerales radiactivos.
+– Producción, transporte y distribución de energía eléctrica, gas, vapor y agua caliente.
 
-- Producción, transporte y distribución de energía eléctrica, gas, vapor y agua caliente.
+– Extracción y preparación de minerales metálicos.
 
-- Extracción y preparación de minerales metálicos.
+– Producción y primera transformación de metales, sin perjuicio de lo dispuesto en el número 1 del anexo VI de la presente Ley.
 
-- Producción y primera transformación de metales.
+– Extracción de minerales no metálicos ni energéticos. Turberas.
 
-- Extracción de minerales no metálicos ni energéticos. Turberas.
+– Industrias de productos minerales no metálicos, sin perjuicio de lo dispuesto en el número 1 del anexo VI de la presente Ley.
 
-- Industrias de productos minerales no metálicos.
+– Industria química.
 
-- Industria química.
+– Fabricación de aceites y grasas vegetales y animales.
 
-- Fabricación de aceites y grasas, vegetales y animales.
+– Sacrificio de ganado, preparación y conservas de carne.
 
-- Sacrificio de ganado, preparación y conservas de carne.
+– Industria textil.
 
-- Industria textil.
+– Industria del cuero.
 
-- Industria del cuero.
+– Industria del calzado y vestido y otras confecciones textiles.
 
-- Industria del calzado y vestido y otras confecciones textiles.
+– Industrias de la madera, corcho y muebles de madera, sin perjuicio de lo dispuesto en el número 1 del anexo VI de la presente Ley.
 
-- Industrias de la madera, corcho y muebles de madera.
+– Fabricación de pasta papelera.
 
-- Fabricación de pasta papelera.
+– Fabricación de papel y cartón.
 
-- Fabricación de papel y cartón.
+– Transformación de papel y el cartón, sin perjuicio de lo dispuesto en el número 1 del anexo VI de la presente Ley.
 
-- Transformación del papel y el cartón.
-
-- Industrias de transformación del caucho y materias plásticas.
+– Industrias de transformación del caucho y materias plásticas, sin perjuicio de lo dispuesto en el número 1 del anexo VI de la presente Ley.
 
 2.º Los aparatos y complementos, incluidas las gafas graduadas y las lentillas, que objetivamente considerados sólo puedan destinarse a suplir las deficiencias físicas del hombre o los animales.
 
@@ -89,6 +87,8 @@ No se entenderán comprendidos en el concepto de las viviendas del párrafo ante
 1.º Las prestaciones de servicios de transportes terrestres.
 
 2.º Los servicios prestados a personas físicas que practiquen el deporte o la educación física, cualquiera que sea la persona o entidad a cuyo cargo se realice la prestación, siempre que tales servicios estén directamente relacionados con dichas prácticas y no resulte aplicable a los mismos la exención a que se refiere el artículo 10, número 1, apartado 13.º de esta Ley.
+
+> Se modifica el apartado 1.1 por el art. 10.1.19 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
 
 > Se deja sin contenido el apartado 1.13 por el art. 8.1.25 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
 

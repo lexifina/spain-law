@@ -1,25 +1,49 @@
 ## Disposición adicional decimosexta. Tasas.
 
-1. Las actuaciones de los Registros de buques y empresas navieras regulados en el artículo 75 y en la disposición adicional decimoquinta de la presente Ley darán lugar a la percepción de las siguientes tasas:
+1. Las actuaciones de los Registros de buques y Empresas navieras regulados en el artículo 75 y en la disposición adicional decimoquinta de la presente Ley darán lugar a la percepción de las siguientes tasas:
 
 a) Tasa de inscripción.
 
 b) Tasa de baja.
 
-c) Tasa anual de permanencia en los Registros.
+c) Tasa de actuaciones administrativas intermedias.
 
-2. Constituye el hecho imponible de las tasas a que se refiere el apartado anterior, respectivamente, la inscripción, la baja y el mantenimiento de cada buque matriculado en los Registros.
+Estas tasas se regirán por la presente Ley y por las demás fuentes normativas que para las tasas se establecen en el artículo 9 de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos.
 
-3. El devengo de las tasas se producirá:
+2. Constituye el hecho imponible de las tasas a que se refiere el apartado anterior, respectivamente, la inscripción, la baja y las actuaciones intermedias, a instancia de parte, de cada buque matriculado en los Registros.
 
-a) En el caso de las tasas de inscripción y de baja, cuando se practiquen los correspondientes asientos en los Registros.
+3. El devengo de la tasa se producirá:
 
-b) En el caso de la tasa anual de permanencia, al finalizar cada período anual a partir de la fecha de la inscripción en los Registros.
+a) En el caso de las tasas de inscripción o baja, cuando se practiquen los correspondientes asientos en los Registros.
 
-4. Serán sujetos pasivos de las tasas establecidas en esta disposición, a título de contribuyente, las Empresas navieras, esto es, las personas naturales o jurídicas que inscriban buques en los Registros, y responsables subsidiarios de las mismas los Administradores de dichas Empresas.
+b) En el caso de actuaciones administrativas intermedias, en el momento de la solicitud del servicio.
 
-5. Las tasas se fijan inicialmente en 25 pesetas por unidad de arqueo de cada buque que se inscriba, con un mínimo exigible de 2.500 pesetas. Serán revisadas anualmente en la Ley de Presupuestos Generales del Estado.
+4. Serán sujetos pasivos todas las personas físicas o jurídicas que soliciten la prestación de servicios que constituyen el hecho imponible.
 
-6. La tasa será objeto de autoliquidación por el sujeto pasivo.
+5. Las cuantías exigibles serán las siguientes:
+
+a) Tasa de inscripción: 0,15 euros por unidad de arqueo, con un mínimo de 15,03 euros.
+
+b) Tasa de baja: 0,15 euros por unidad de arqueo, con un mínimo de 15,03 euros.
+
+c) Tasa de actuaciones administrativas intermedias:
+
+Tarifa primera. Actuación administrativa a instancia de parte que conlleve anotación en hoja de asiento: 15 euros.
+
+Tarifa segunda. Certificaciones a instancia de parte. Copia de hojas de asiento, por cada una: 6 euros.
+
+Tarifa tercera. Copia simple del contenido de los expedientes: 15 euros.
+
+6. El pago de la tasa se realizará en efectivo, en entidad de depósito autorizada por el Ministerio de Economía, y le será aplicable lo dispuesto en el Reglamento General de Recaudación de 20 de diciembre de 1990.
+
+7. La tasa será objeto de autoliquidación por el sujeto pasivo.
+
+8. La gestión de la tasa se llevará a cabo por la Dirección General de la Marina Mercante, dependiente del Ministerio de Fomento.
+
+> Se modifica por el art. 17 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+
+> Redactado el apartado 6 conforme a la corrección de errores publicada en BOE núm. 124, de 24 de mayo de 2002. Ref. BOE-A-2002-9972
+
+> Se convierte a euros la cuantía contemplada en el apartado 5 por el apartado 10 de la Resolución 12/2001, de 29 de noviembre. Ref. BOE-A-2001-24242
 
 > Se modifica el apartado 5 por el art. 39 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117

@@ -188,6 +188,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria decimocuarta](decimocuarta-2.md)
 - [Disposición transitoria decimoquinta](decimoquinta-2.md)
 - [Disposición transitoria decimosexta](decimosexta-2.md)
+- [Disposición transitoria decimoséptima](decimoseptima-2.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final primera](primera-3.md)
 - [Disposición final segunda](segunda-3.md)

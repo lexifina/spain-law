@@ -359,6 +359,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional decimoquinta](dadecimoquinta.md)
 - [Disposición adicional decimosexta](dadecimosexta.md)
 - [Disposición adicional decimoséptima](dadecimoseptima.md)
+- [Disposición adicional decimoséptima bis](dadecimoseptimabis.md)
 - [Disposición adicional decimoctava](dadecimoctava.md)
 - [Disposición adicional decimonovena](dadecimonovena.md)
 - [Disposición adicional vigésima](davigesima.md)

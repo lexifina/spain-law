@@ -76,7 +76,7 @@ Séptima: dictar las circulares de desarrollo y ejecución de las normas conteni
 
 Estas disposiciones recibirán la denominación de circulares y serán publicadas en el «Boletín Oficial del Estado».
 
-Octava: inspeccionar, a petición de la Administración General del Estado o de las Comunidades Autónomas competentes, las condiciones técnicas de las instalaciones, el cumplimiento de los requisitos establecidos en las autorizaciones, las condiciones económicas y actuaciones de los sujetos en cuanto puedan afectar a la aplicación de las tarifas y criterios de remuneración de las actividades energéticas, así como la efectiva separación de estas actividades cuando sea exigida.
+Octava: Inspeccionar a petición de la Administración General del Estado, de las Comunidades Autónomas competentes, o de oficio, por la Comisión Nacional de Energía, las condiciones técnicas de las instalaciones, el cumplimiento de los requisitos establecidos en las autorizaciones, la correcta y efectiva utilización del carbón autóctono en las centrales eléctricas con derecho al cobro de la prima al consumo de carbón autóctono, las condiciones económicas y actuaciones de los sujetos en cuanto puedan afectar a la aplicación de las tarifas, precios y criterios de remuneración de las actividades energéticas, la disponibilidad efectiva de las instalaciones de generación en el régimen ordinario, la correcta facturación y condiciones de venta de las empresas distribuidoras y comercializadoras a consumidores y clientes cualificados, la continuidad del suministro de energía eléctrica, la calidad del servicio, así como la efectiva separación de estas actividades cuando sea exigida.
 
 Novena: actuar como órgano arbitral en los conflictos que se susciten entre los sujetos que realicen actividades en el sector eléctrico o de hidrocarburos.
 
@@ -135,6 +135,8 @@ Asimismo, la Comisión Nacional de Energía tendrá acceso a los registros regul
 5. Contra las resoluciones adoptadas por la Comisión Nacional de Energía en el ejercicio de las funciones a que se refieren los números1 y 2 del presente apartado, y contra sus actos de trámite en las mismas materias que determinen la imposibilidad de continuar el procedimiento o produzcan indefensión, podrá interponerse recurso ordinario ante el Ministro de Industria y Energía.
 
 Se exceptúan de lo dispuesto en el párrafo anterior las resoluciones que se dicten en el ejercicio de la función segunda del número 2 del presente apartado y de las circulares que se refieran a materia de información, que pondrán fin a la vía administrativa.
+
+> Se modifica el apartado 3.1.8ª por el art. 76.2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
 
 > Se modifica el apartado 3.3 por el art. 9 del Real Decreto 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
 

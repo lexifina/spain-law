@@ -16,9 +16,9 @@ En este concepto de navegación marítima internacional no se comprenderán las 
 
 Segundo. Que un buque está afecto a la navegación marítima internacional, cuando sus recorridos en singladuras de dicha navegación representen más del 50 por 100 del total recorrido efectuado durante los períodos de tiempo que se indican a continuación:
 
-a) El año natural anterior a la fecha en que se efectúen las correspondientes operaciones de reparación, mantenimiento, fletamento total o arrendamiento, salvo lo dispuesto en la letra siguiente.
+a) El año natural anterior a la fecha en que se efectúen las correspondientes operaciones de reparación o mantenimiento, salvo lo dispuesto en la letra siguiente.
 
-b) En los supuestos de entrega, construcción, transformación o importación del buque o en los de desafectación de los fines de salvamento, asistencia marítima y pesca costera, el año natural en que se efectúen dichas operaciones, a menos que tuviesen lugar después del primer semestre de dicho año, en cuyo caso el período a considerar comprenderá ese año natural y el siguiente.
+b) En los supuestos de entrega, construcción, transformación, importación, fletamento total o arrendamiento del buque o en los de desafectación de los fines de salvamento, asistencia marítima y pesca costera, el año natural en que se efectúen dichas operaciones, a menos que tuviesen lugar después del primer semestre de dicho año, en cuyo caso el período a considerar comprenderá ese año natural y el siguiente.
 
 Este criterio se aplicará también en relación con las operaciones mencionadas en la letra anterior cuando se realicen después de las citadas en la presente letra.
 
@@ -59,5 +59,7 @@ Sexto. Depósitos normales de combustibles y carburantes: los comunicados direct
 Séptimo. Península: el territorio peninsular español.
 
 2. Se considerará asimilada a la navegación internacional, marítima o aérea, la realizada por buques o aeronaves que partiendo de Canarias concluya en la Península, Islas Baleares, Ceuta y Melilla o viceversa.
+
+> Se modifica el apartado 1.2 por el art. 10.1.18 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
 
 > Se modifica el apartado 1 por el art. 8.2 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.

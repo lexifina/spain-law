@@ -10,6 +10,6 @@ Tercera. El derecho a la pensión de viudedad y demás derechos pasivos o presta
 
 Cuarta. Los que se encuentren en situación legal de separación tendrán los mismos derechos pasivos respecto de sus ascendientes o descendientes que los que les corresponderían de estar disuelto su matrimonio.
 
-Quinta. Los derechos derivados de los apartados anteriores quedarán sin efecto en cuanto al cónyuge en los supuestos del artículo ciento uno del Código Civil.
+> Se deroga la regla 5ª por la disposición derogatoria única.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
 
 > Se declara la inconstitucionalidad de la norma 5ª, en su referencia a la concreta causa de extinción establecida en el artículo 101 del Código civil de "vivir maritalmente con otra persona", por Sentencia del TC 125/2003, de 19 de junio. Ref. BOE-T-2003-14320

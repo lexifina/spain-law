@@ -1,0 +1,3 @@
+## Disposición transitoria decimocuarta. Aplicación del «Régimen de las Entidades Navieras en función del tonelaje» establecido en el capítulo XVII del Título VIII de la Ley 43/1995, del Impuesto sobre Sociedades.
+
+Las solicitudes al Ministerio de Hacienda de la autorización para aplicar el «Régimen de las Entidades Navieras en Función del Tonelaje» establecido en el Capítulo XVII del Título VIII de la Ley 43/1995, del Impuesto sobre Sociedades, que deban comenzar a surtir efectos en períodos impositivos iniciados entre el 1 de enero y el 31 de marzo de 2002 deberán presentarse durante los tres primeros meses de dichos períodos impositivos.

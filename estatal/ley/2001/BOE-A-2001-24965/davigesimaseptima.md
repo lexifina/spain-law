@@ -1,0 +1,5 @@
+## Disposición adicional vigésima séptima. Cancelación de condiciones resolutorias e hipotecas inscritas en el Registro de la Propiedad por caducidad.
+
+Se añade un párrafo quinto al artículo 82 de la Ley Hipotecaria con el siguiente contenido:
+
+«A solicitud del titular registral de cualquier derecho sobre la finca afectada, podrá procederse a la cancelación de condiciones resolutorias en garantía del precio aplazado a que se refiere el artículo 11 de esta Ley y de hipotecas en garantía de cualquier clase de obligación, para las que no se hubiera pactado un plazo concreto de duración, cuando haya transcurrido el plazo señalado en la legislación civil aplicable para la prescripción de la acciones derivadas de dichas garantías o el más breve que a estos efectos se hubiera estipulado al tiempo de su constitución, contados desde el día en que la prestación cuyo cumplimiento se garantiza debió ser satisfecha en su totalidad según el Registro, siempre que dentro del año siguiente no resulte del mismo que han sido renovadas, interrumpida la prescripción o ejecutada debidamente la hipoteca.»

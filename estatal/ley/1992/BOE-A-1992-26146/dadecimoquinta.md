@@ -64,4 +64,10 @@ Siete. Normativa laboral y de Seguridad Social aplicable a los trabajadores no n
 
 Las condiciones laborales y de Seguridad Social de los trabajadores no nacionales españoles, empleados a bordo de los buques matriculados en el Registro especial, se regularán por la legislación a la que libremente se sometan las partes, siempre que la misma respete la normativa emanada de la Organización Internacional del Trabajo o, en defecto de sometimiento expreso, por lo dispuesto en la normativa laboral y de Seguridad Social española, todo ello sin perjuicio de la aplicación de la normativa comunitaria y de los convenios internacionales suscritos por España.
 
+Ocho. Normativa aplicable en materia de jornada laboral y descansos.
+
+En materia de jornada laboral y descansos, los buques inscritos en el Registro Especial se regirán por lo dispuesto en la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto legislativo 1/1995, de 24 de marzo, y en la normativa sectorial específica, constituida por el Real Decreto 1561/1995, de 21 de septiembre, sobre jornadas especiales de trabajo, o la norma que lo sustituya, con excepción de lo dispuesto en el apartado 2 del artículo 35 del Estatuto de los Trabajadores, que no será de aplicación.
+
+> Se añade el apartado 8 por el art. 33 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+
 > Redactado el apartado 7 conforme a la corrección de errores publicada en BOE núm. 298, de 12 de diciembre de 1992. Ref. BOE-A-1992-27576
