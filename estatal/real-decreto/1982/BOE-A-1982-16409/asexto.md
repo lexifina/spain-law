@@ -20,4 +20,6 @@ Se considerará plantilla fija del centro de trabajo, a los efectos de lo establ
 
 2. No se podrán realizar contratos temporales para cubrir puestos de trabajo que hayan quedado vacantes por terminación de otro contrato temporal, despido improcedente o expediente de regulación de empleo durante el año inmediatamente anterior a la fecha de la contratación.
 
+> Se prorroga la vigencia por el art. único del Real Decreto 3236/1983, de 21 de diciembre. Ref. BOE-A-1983-34294.
+
 > Se modifica por el art. único del Real Decreto 3887/1982, de 29 de diciembre. Ref. BOE-A-1982-34955.
