@@ -1,0 +1,5 @@
+## Cláusula 77. Incumplimiento del plazo para realizar la recepción definitiva.
+
+Si la recepción definitiva de la obra se efectuare pasado más de un mes después de la fecha de terminación del plazo de garantía y la demora fuera imputable a la Administración, ésta deberá abonar al contratista los gastos de conservación de la obra durante el tiempo que exceda del plazo citado, si aquél solicita por escrito el cumplimiento de esta obligación.
+
+A los efectos anteriores, cuando figure en el presupuesto una partida alzada para atender a los gastos de conservación durante el plazo de garantía, el gasto adicional a que se refiere el párrafo anterior se determinará aplicando a aquella partida alzada la misma proporción que haya entre la duración del plazo de garantía y el período de demora, tal como se ha definido en el mismo precepto. De no existir partida alzada para estos fines, el importe de los gastos a abonar será fijado por la Administración, a propuesta justificada del contratista y previo informe del Director.

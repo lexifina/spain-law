@@ -1,0 +1,3 @@
+## Artículo primero.
+
+Se aprueba el adjunto Pliego de Cláusulas Administrativas Generales para la Contratación de Obras del Estado, que será de aplicación a todos los contratos que tengan por objeto directo la ejecución de obras del Estado y de los Organismos autónomos regulados por la Ley de veintiséis de diciembre de mil novecientas cincuenta y ocho, salvo aquellas cláusulas para las que expresamente se disponga otra cosa en los pliegos de cláusulas administrativas particulares, previos los informes y dictámenes establecidos por el artículo treinta y seis del Reglamento General de Contratación.
