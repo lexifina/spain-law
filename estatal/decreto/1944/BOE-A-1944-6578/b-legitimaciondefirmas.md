@@ -1,1 +1,3 @@
-b) Legitimidad de firmas
+b) Legitimación de firmas
+
+> Se modifica por el art. 6 del Real Decreto 1209/1984, de 8 de junio. Ref. BOE-A-1984-14281.
