@@ -1,5 +1,7 @@
 ## REGLAMENTO DE REDES Y ACOMETIDAS DE COMBUSTIBLES GASEOSOS
 
+> Téngase en cuenta que queda derogada cualquier prescripción técnica contenida en este Reglamento que se oponga a lo establecido en la Orden de 26 de octubre de 1983. Ref. BOE-A-1983-28962 según se establece en el apartado 3 de la misma.
+
 1. INTRODUCCION Y OBJETO
 
 El presente Reglamento define los preceptos técnicos esenciales que deberán observarse al proyectar, construir y explotar las redes y acometidas de combustibles gaseosos con objeto de garantizar la seguridad de personas y cosas, las condiciones del suministro, el rendimiento de las instalaciones y la utilización de la energía, todo ello de conformidad con lo dispuesto en el Reglamento General del Servicio Público de Gases Combustibles aprobado por Decreto 2913/1973, de 26 de octubre («Boletín Oficial del Estado» de 21 de noviembre de 1973).
@@ -90,21 +92,17 @@ Estas pruebas se efectuarán de acuerdo con lo dispuesto en el Reglamento Genera
 
 5. REDES
 
-5.1 Proyecto.
+5.1 Canalizaciones. Las canalizaciones deberán cumplir lo especificado en las Instrucciones Técnicas Complementarias.
 
-El proyecto de las redes deberá atenerse a lo especificado en las Instrucciones MIG que correspondan según sus características.
+ITC-MIG-5.1 Canalizaciones de transporte y distribución de gas en alta presión B.
 
-Estas Instrucciones MIG son las siguientes:
+ITC-MIG-5.2 Canalizaciones de transporte y distribución de gas en alta presión A.
 
-Instrucción MIG-R.5.1.1. Redes de gas para presiones de servicio superiores a 12 bares.
+ITC-MIG-5.3 Canalizaciones de gas en media presión B.
 
-Instrucción MIG-R.5.1.2. Redes de gas de tubo de acero, para presiones de servicio comprendidas entre 4 y 12 bares.
+ITC-MIG-5.4 Canalizaciones de gas en media presión A.
 
-Instrucción MIG-R.5.1.3. Redes de gas a media presión.
-
-Instrucción MIG-R.5.1.4. Redes de gas a baja presión.
-
-Excepcionalmente, y con el fin de estimular la investigación, podrán realizarse instalaciones de redes, a título experimental, de características distintas a las especificadas en las Instrucciones MIG, tomando las adecuadas medidas de seguridad; extremos todos que se incluirán en la Memoria que, con el resto de la oportuna documentación, acompañará a toda solicitud de autorización o concesión. Dichos expedientes, en todo caso y de conformidad con lo dispuesto en los artículos 8, apartado e), y 20 del Reglamento General del Servicio Público de Gases Combustibles, una vez instruidos, se remitirán a la Dirección General de la Energía, la cual podrá recabar cuantos datos complementarios o aclaraciones o informes considere necesarios, así como indicar las variaciones a introducir en el proyecto, antes de dictar o proponer la resolución. Realizada la instalación, se llevarán a efecto las pruebas indicadas en el número 4.8 de este Reglamento, a las que asistirá un representante de la Delegación Provincial del Ministerio de Industria, quien comunicará sus resultados al citado Centro directivo, el cual, a la vista de los mismos, autorizará el levantamiento del acta de puesta en marcha de la instalación por el órgano provincial o comunicará las modificaciones o medidas de seguridad que hayan de incluirse en la instalación antes de su puesta en servicio, debiendo ser en este último caso objeto de nuevo ensayo antes de su autorización.
+ITC-MIG-5.5 Canalizaciones de gas en baja presión.
 
 En la elección del trazado se tendrán en cuenta la previsión de la demanda, las características y condiciones del terreno en donde ha de ser situada la canalización y las demás circunstancias propias de cada proyecto, optimizando los recorridos de las arterias principales.
 
@@ -134,11 +132,11 @@ En las canalizaciones que discurren paralelas y en las proximidades de líneas e
 
 6. ACOMETIDAS
 
-6.1 El proyecto de las nuevas acometidas deberá ajustarse a lo establecido en la Instrucción MIG-R.6.
+6.1 Las acometidas deberán cumplir lo especificado en las Instrucciones Técnicas Complementarias.
 
-El eje de las acometidas deberá estar preferentemente en un plano perpendicular a la canalización de que deriva.
+ITC-MIG-6.1 Acometidas de gas en alta presión.
 
-Toda acometida deberá disponer de una llave o de un elemento de corte equivalente para la interrupción de paso del gas, que se situará en lugar de fácil acceso.
+ITC-MIG-6.2 Acometidas de gas en media y baja presión.
 
 6.2 Cuando el gas que se suministra pueda producir condensaciones, las acometidas se proyectarán con pendiente mínima de 5 mm/m. para que los condensados retornen a la tubería principal o a un pertinente dispositivo de evacuación de los mismos.
 
@@ -213,5 +211,7 @@ La reparación de las fugas o averías que se presenten en las redes o instalaci
 10.4 Con el fin de garantizar la seguridad y continuidad de explotación de las canalizaciones, las Empresas explotadoras de las mismas organizarán un servicio de entretenimiento permanente que disponga del personal y material necesarios para intervenir urgentemente en caso de incidentes y efectuar con la menor demora posible las eventuales reparaciones.
 
 10.5 El control de la protección catódica implicará la revisión anual de los aparatos de protección y el control del potencial de la canalización con respecto al suelo.
+
+> Se modifican los puntos 5.1 y 6.1 por el apartado 1 de la Orden de 26 de octubre de 1983. Ref. BOE-A-1983-28962
 
 > Redactado conforme a la la corrección de errores publicada en BOE núm. 39 de 14 de febrero de 1975. Ref. BOE-A-1975-3219
