@@ -18,8 +18,12 @@ g) Consentir, pudiendo evitarlo, que alguien vote dos o más veces o lo haga sin
 
 h) Imprimir, confeccionar o utilizar papeletas o sobres electorales con infracción de las normas establecidas.
 
-i) Cometer cualquier otra falsedad en materia electoral, análoga a las anteriores, por alguno de los modos señalados en el artículo 302 del Código Penal.
+i) Incumplir las obligaciones relativas a certificaciones en materia de subvenciones por gastos electorales previstas en esta ley.
+
+j) Cometer cualquier otra falsedad en materia electoral, análoga a las anteriores, por alguno de los modos señalados en el artículo 302 del Código Penal.
 
 2. Si las alteraciones de la verdad a las que se refiere este artículo fueran producidas por imprudencia temeraria, serán sancionadas con la pena de prisión menor.
 
 3. En la apreciación de los supuestos a que se refiere el presente artículo los Tribunales se atendrán a lo dispuesto en el artículo 318 del Código Penal.
+
+> Se añade el párrafo i) al apartado 1 y se rordena el anterior i) como j) por el art. 5 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923.

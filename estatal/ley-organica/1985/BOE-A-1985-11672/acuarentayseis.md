@@ -4,7 +4,7 @@
 
 2. Al escrito de presentación debe acompañarse declaración de aceptación de la candidatura, así como los documentos acreditativos de sus condiciones de elegibilidad.
 
-3. Cuando la presentación deba realizarse mediante listas, cada una debe incluir tantos candidatos como cargos a elegir y, además, tres candidatos suplentes, con la expresión del orden de colocación de todos ellos.
+3. Cuando la presentación deba realizarse mediante listas, cada una debe incluir tantos candidatos como cargos a elegir. En caso de incluir candidatos suplentes, su número no podrá ser superior a 10, con la expresión del orden de colocación tanto de los candidatos como de los suplentes.
 
 4. La presentación de candidaturas debe realizarse con denominaciones, siglas o símbolos que no induzcan a confusión con los pertenecientes o usados tradicionalmente por otros partidos legalmente constituidos.
 
@@ -18,6 +18,8 @@
 
 9. Las Juntas Electorales competentes extienden diligencia haciendo constar la fecha y hora de presentación de cada candidatura y expiden recibo de la misma. El Secretario otorgará un número correlativo por orden de presentación a cada candidatura y este orden se guardará en todas las publicaciones.
 
-> Se modifican los apartados 6 y 7 por el art. único .16 y 17de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
+> Se modifica el apartado 3 por el art. 5 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923.
+
+> Se modifican los apartados 6 y 7 por el art. único.16 y 17 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
 
 > Redactado conforme a la corrección de erratas publicada en BOE núm. 65, de 16 de marzo de 1991. Ref. BOE-A-1991-7044.

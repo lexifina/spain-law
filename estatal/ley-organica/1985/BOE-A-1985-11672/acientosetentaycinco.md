@@ -18,6 +18,10 @@ b) La cantidad subvencionada no estará incluida dentro del límite previsto en 
 
 4. Las cantidades mencionadas en los apartados anteriores se refieren a pesetas constantes. Por Orden del Ministerio de Economía y Hacienda se fijan las cantidades actualizadas en los cinco días siguientes a la convocatoria.
 
+5. No habrá lugar al pago de las subvenciones en los supuestos establecidos en los apartados 2, 3 y 4 del artículo 127 de la presente ley.
+
+> Se añade el apartado 5 por el art. 5 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923.
+
 > Se modifica por el art. 3.1 de la Ley Orgánica 13/1994, de 30 de marzo. Ref. BOE-A-1994-7420.
 
 > Se modifica por el art. único .58 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.

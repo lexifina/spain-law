@@ -1,7 +1,11 @@
 ## Artículo ciento ochenta y dos
 
-En caso de fallecimiento, incapacidad o renuncia de un Concejal, el escaño se atribuirá al candidato o, en su caso, al suplente de la misma lista a quien corresponda, atendiendo a su orden de colocación.
+1. En el caso de fallecimiento, incapacidad o renuncia de un concejal, el escaño se atribuirá al candidato o, en su caso, al suplente de la misma lista a quien corresponda, atendiendo a su orden de colocación.
 
-En el caso de que, de acuerdo con el procedimiento anterior, no quedasen más posibles candidatos o suplentes a nombrar, los quórum de asistencia y votación previstos en la legislación vigente se entenderán automáticamente referidos al número de hecho de miembros de la Corporación subsistente.
+2. En el caso de que, de acuerdo con el procedimiento anterior, no quedasen posibles candidatos o suplentes a nombrar, las vacantes serán cubiertas por cualquier ciudadano mayor de edad que no esté incurso en causa de inelegibilidad.
 
-Sólo en el caso de que tal número de hecho llegase a ser inferior a los dos tercios del número legal de miembros de la Corporación se constituirá una Comisión Gestora integrada por todos los miembros de la Corporación que continúen y las personas de adecuada idoneidad o arraigo que, teniendo en cuenta los resultados de la última elección municipal, designe la diputación Provincial o, en su caso, el órgano competente de la Comunidad Autónoma correspondiente, para completar el número legal de miembros de la Corporación.
+Estos suplentes serán designados por el partido, coalición, federación o agrupación de electores cuyos concejales hubiesen de ser sustituidos y se comunicará a la Junta Electoral correspondiente, a efectos de la expedición de la oportuna credencial. En este caso, no podrán ser designadas aquellas personas que habiendo sido candidatos o suplentes en aquella lista, hubieran renunciado al cargo anteriormente.
+
+3. En el caso de que el número de hecho de miembros elegidos en la correspondiente convocatoria electoral llegase a ser inferior a la mitad del número legal de miembros de la corporación, se constituirá una comisión gestora integrada por todos los miembros de la corporación que continúen y los ciudadanos que hubiesen sido designados para cubrir las vacantes, conforme a lo previsto en el párrafo anterior.
+
+> Se modifica por el ar. 5 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923.

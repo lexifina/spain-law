@@ -1,3 +1,7 @@
 ## Artículo cuarenta y dos.
 
-Los Cuerpos de Policía de las Comunidades Autónomas sólo podrán actuar en el ámbito territorial de la Comunidad Autónoma respectiva, salvo en situaciones de emergencia, previo requerimiento de las Autoridades estatales.
+Los cuerpos de policía de las comunidades autónomas sólo podrán actuar en el ámbito territorial de la comunidad autónoma respectiva, salvo en situaciones de emergencia, previo requerimiento de las autoridades estatales.
+
+No obstante, cuando ejerzan funciones de protección de autoridades públicas de la comunidad autónoma, podrán actuar fuera del ámbito territorial respectivo, previa autorización del Ministerio del Interior y, cuando proceda, comunicación al órgano de gobierno de la comunidad autónoma correspondiente, con las condiciones y requisitos que se determinen reglamentariamente.
+
+> Se modifica por el art. 2 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923

@@ -1,6 +1,6 @@
 ## Disposición adicional primera
 
-1. Lo dispuesto en esta Ley se entiende sin perjuicio del ejercicio de las competencias reconocidas, dentro del respeto a la Constitución y a la presente Ley Orgánica, a las Comunidades autónomas por sus respectivos estatutos.
+1. Lo dispuesto en esta ley se entiende sin perjuicio del ejercicio de las competencias reconocidas, dentro del respeto a la Constitución y a la presente ley orgánica, a las comunidades autónomas por sus respectivos estatutos en relación con las elecciones a las respectivas asambleas legislativas.
 
 2. En aplicación de las competencias que la Constitución reserva al Estado se aplican también a las elecciones a Asambleas Legislativas de Comunidades Autónomas convocadas por éstas, los siguientes artículos del Título I de esta Ley Orgánica:
 
@@ -17,5 +17,7 @@ a) Las referencias contenidas a Organismos Estatales en los artículos 70.2, 71.
 b) La mención al territorio nacional que se hace en el artículo 64.1 se entenderá referida al territorio de la Comunidad Autónoma.
 
 c) La alusión que se hace en el artículo 134 a la Comisión establecida en la Disposición Transitoria Primera de la Ley Orgánica del Tribunal de Cuentas, se entenderá referida a una Comisión de la Asamblea Legislativa correspondiente, y la obligación estatal de subvencionar los gastos electorales mencionada en dicho artículo y en el anterior corresponderá a la Comunidad Autónoma de que se trate.
+
+> Se modifica el apartado 1 por el art. 5 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923.
 
 > Se modifica el apartado 2 por el art. único .72 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.

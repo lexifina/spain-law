@@ -36,11 +36,11 @@ o) El Gobernador y Subgobernador del Banco de España y los Presidentes y Direct
 
 p) El Presidente, los Consejeros y el Secretario general del Consejo General de Seguridad Nuclear.
 
-2. Asimismo son inelegibles:
+2. Son inelegibles:
 
-a) Los condenados por Sentencia firme, a pena privativa de libertad, en el periodo que dure la pena.
+a) Los condenados por sentencia firme, a pena privativa de libertad, en el período que dure la pena.
 
-b) Aunque la Sentencia no sea firme, los condenados por un delito de rebelión o los integrantes de organizaciones terroristas condenados por delitos contra la vida, la integridad física o la libertad de las personas.
+b) Los condenados por sentencia, aunque no sea firme, por delitos de rebelión, de terrorismo, o contra las Instituciones del Estado cuando la misma haya establecido la pena de inhabilitación para el ejercicio del derecho de sufragio pasivo en los términos previstos en la legislación penal.
 
 3. Durante su mandato no serán elegibles por las circunscripciones electorales comprendidas en todo o en parte en el ámbito territorial de su jurisdicción:
 
@@ -55,3 +55,5 @@ d) Los Presidentes y Directores de los órganos periféricos de las Entidades Ge
 e) Los Secretarios generales de las Delegaciones del Gobierno y de los Gobiernos Civiles.
 
 f) Los Delegados provinciales de la Oficina del Censo Electoral.
+
+> Se modifica el apartado 2 por el art. 5 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923.

@@ -44,6 +44,10 @@ b) Sesenta pesetas por cada uno de los votos obtenidos por cada candidatura, uno
 
 10. Para las elecciones a Cabildos Insulares el límite de los gastos electorales será el que resulte de multiplicar por 15 pesetas el número de habitantes correspondientes a la población de derecho de cada una de las islas donde presente sus candidaturas cada partido, federación, coalición o agrupación.
 
+11. En materia de subvenciones electorales habrán de respetarse las limitaciones establecidas en los apartados 2, 3 y 4 del artículo 127 de la presente ley.
+
+> Se añade el apartado 11 por el art. 5 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923.
+
 > Se modifica el apartado 7 por el art. único .4 de la Ley Orgánica 8/1999, de 21 de abril. Ref. BOE-A-1999-8928.
 
 > Se modifica por el art. único .64 a 68 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
