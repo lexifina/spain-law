@@ -1,0 +1,66 @@
+# Convenio sobre cooperación para la protección y el aprovechamiento sostenible de las aguas de las cuencas hidrográficas hispano-portuguesas, hecho "ad referendum" en Albufeira el 30 de noviembre de 1998.
+
+- Identificador: BOE-A-2000-2882
+- Rango: Acuerdo Internacional
+- Fecha de disposición: 1998-11-30
+- Publicación: 2000-02-12
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2000-2882
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [CONVENIO](co.md)
+- [PARTE I](pi.md)
+- [Artículo 1](ar.md)
+- [Artículo 2](ar-2.md)
+- [Artículo 3](ar-3.md)
+- [Artículo 4](ar-4.md)
+- [PARTE II](pi-2.md)
+- [Artículo 5](ar-5.md)
+- [Artículo 6](ar-6.md)
+- [Artículo 7](ar-7.md)
+- [Artículo 8](ar-8.md)
+- [Artículo 9](ar-9.md)
+- [Artículo 10](ar-10.md)
+- [Artículo 11](ar-11.md)
+- [Artículo 12](ar-12.md)
+- [PARTE III](pi-3.md)
+- [Artículo 13](ar-13.md)
+- [Artículo 14](ar-14.md)
+- [Artículo 15](ar-15.md)
+- [Artículo 16](ar-16.md)
+- [PARTE IV](pi-4.md)
+- [Artículo 17](ar-17.md)
+- [Artículo 18](ar-18.md)
+- [Artículo 19](ar-19.md)
+- [PARTE V](pv.md)
+- [Artículo 20](ar-20.md)
+- [Artículo 21](ar-21.md)
+- [Artículo 22](ar-22.md)
+- [Artículo 23](ar-23.md)
+- [PARTE VI](pv-2.md)
+- [Artículo 24](ar-24.md)
+- [Artículo 25](ar-25.md)
+- [Artículo 26](ar-26.md)
+- [Artículo 27](ar-27.md)
+- [Artículo 28](ar-28.md)
+- [Artículo 29](ar-29.md)
+- [Artículo 30](ar-30.md)
+- [Artículo 31](ar-31.md)
+- [Artículo 32](ar-32.md)
+- [Artículo 33](ar-33.md)
+- [Artículo 34](ar-34.md)
+- [Artículo 35](ar-35.md)
+- [fi](fi.md)
+- [Anexo I](ai.md)
+- [Anexo II](ai-2.md)
+- [Protocolo Adicional](pa.md)
+- [Artículo 1](ar-36.md)
+- [Artículo 2](ar-37.md)
+- [Artículo 3](ar-38.md)
+- [Artículo 4](ar-39.md)
+- [Artículo 5](ar-40.md)
+- [Artículo 6](ar-41.md)
+- [fi-3](fi-3.md)
+- [Anexo al Protocolo adicional](an.md)
