@@ -25,8 +25,8 @@
 | Jarabe de glucosa y jarabe de glucosa anhidra. | «Jarabe de glucosa». |
 | Todas las proteínas de la leche (caseínas, caseinatos y proteínas del suero y del lactosuero) y sus mezclas. | «Proteínas de leche». |
 | Manteca de cacao de presión «expeller» o refinada. | «Manteca de cacao». |
-| Todas las frutas confitadas que no excedan en peso el 10 por 100 del producto. | «Frutas confitadas». |
-| Mezclas de hortalizas que no excedan en peso el 10 por 100 del producto. | «Hortalizas». |
+| (Suprimido) | (Suprimido) |
+| (Suprimido) | (Suprimido) |
 | Todos los tipos de vino, según la definición recogida en el Reglamento (CEE) número 822/87 del Consejo (1). | «Vino». |
 
 (1) DOCE L 84 de 27-3-1987. p. 1
@@ -43,5 +43,7 @@
 | Cuando se superen los límites máximos de materia grasa o tejido conjuntivo y se cumplan los demás criterios de definición de la «carne(s) de», el contenido de «carne(s) de» deberá ajustarse consecuentemente a la baja y la lista de ingredientes deberá mencionar, además de los términos «carne(s) de», la presencia de materia grasa y/o de tejido conjuntivo. |
 
 (2) El diafragma y los maséteros forman parte de los músculos del esqueleto, mientras que quedan excluidos el corazón, la lengua, los músculos de la cabeza (distintos de los maséteros), del carpo, del tarso y de la cola.
+
+> Se suprimen las designaciones y definiciones de frutas confitadas y hortalizas por el art. único.6 del Real Decreto 2220/2004, de 26 de noviembre. Ref. BOE-A-2004-20122.
 
 > Se modifica por el art. único y anexo del Real Decreto 1324/2002, de 13 de diciembre. Ref. BOE-A-2002-24908.
