@@ -1,0 +1,64 @@
+# Reglamento de Organización y Funcionamiento del Defensor del Pueblo, aprobado por las Mesas del Congreso y del Senado, a propuesta del Defensor del Pueblo, en su reunión conjunta de 6 de abril de 1983.
+
+- Identificador: BOE-A-1983-10613
+- Rango: Reglamento
+- Fecha de disposición: 1983-04-06
+- Publicación: 1983-04-18
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-1983-10613
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [co](co.md)
+- [preambulo](preambulo.md)
+- [I](i.md)
+- [Art 1](a1.md)
+- [Art 2](art2.md)
+- [Art 3](art3.md)
+- [Art 4](art4.md)
+- [Art 5](art5.md)
+- [Art 6](art6.md)
+- [Art 7](art7.md)
+- [II](ii.md)
+- [Art 8](art8.md)
+- [Art 9](art9.md)
+- [Art 10](art10.md)
+- [Art 11](art11.md)
+- [III](iii.md)
+- [Art 12](art12.md)
+- [Art 13](art13.md)
+- [Art 14](art14.md)
+- [Art 15](art15.md)
+- [Art 16](art16.md)
+- [IV](iv.md)
+- [Art 17](art17.md)
+- [Art 18](art18.md)
+- [V](v.md)
+- [Art 19](art19.md)
+- [Art 20](art20.md)
+- [Art 21](art21.md)
+- [Art 22](art22.md)
+- [VI](vi.md)
+- [Art 23](art23.md)
+- [Art 24](art24.md)
+- [Art 25](art25.md)
+- [Art 26](art26.md)
+- [VII](vii.md)
+- [Art 27](art27.md)
+- [Art 28](art28.md)
+- [Art 29](art29.md)
+- [Art 30](art30.md)
+- [Art 31](art31.md)
+- [VIII](viii-2.md)
+- [Art 32](art32.md)
+- [Art 33](art33.md)
+- [Art 34](art34.md)
+- [IX](ix.md)
+- [Art 35](art35.md)
+- [Art 36](art36.md)
+- [Art 37](art37.md)
+- [Art 38](art38.md)
+- [Disposición adicional](da.md)
+- [Disposición final](df.md)
+- [firma](firma.md)
