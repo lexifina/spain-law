@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+Las Asociaciones comprendidas en el artículo diez, uno, E), del texto refundido del extinguido Impuesto sobre la Renta de Sociedades y demás Entidades jurídicas, aprobado por Decreto tres mil trescientos cincuenta y nueve/mil novecientos sesenta y siete, de veintitrés de diciembre, tendrán un plazo de seis meses, contado a partir de la fecha en que finalice el primer ejercicio cerrado con posterioridad a la entrada en vigor de la presente Ley, para inscribirse en el Registro Especial del Ministerio de Hacienda y acogerse, en consecuencia, al régimen tributario previsto en esta Ley para las Agrupaciones de Empresas.

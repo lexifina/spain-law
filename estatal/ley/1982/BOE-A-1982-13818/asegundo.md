@@ -1,0 +1,3 @@
+## Artículo segundo. Vigilancia
+
+Las actividades y repercusiones económicas de las Agrupaciones de Empresas y Uniones Temporales de Empresas serán objeto de especial vigilancia por el Ministerio de Hacienda, para constatar si su actividad se ha dedicado exclusivamente al cumplimiento del objeto para el que fueran constituidas. El cumplimiento de esta función se realizará por la Inspección Financiera Tributaria, sin perjuicio, y con independencia de la aplicación por los Organismos o Tribunales correspondientes de las medidas ordinarias o especiales establecidas o que se establezcan para evitar actividades monopolísticas o prácticas restrictivas de la competencia.
