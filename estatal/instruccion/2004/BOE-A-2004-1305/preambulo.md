@@ -1,0 +1,1 @@
+Visto lo dispuesto en el artículo 39 de la Ley Orgánica del Régimen Electoral General y ante la necesidad de proteger los datos personales de los electores, conforme a lo que resulta del artículo 41 de la citada Ley Orgánica, la Junta Electoral Central, en su reunión del día de la fecha, ha acordado publicar la siguiente Instrucción:
