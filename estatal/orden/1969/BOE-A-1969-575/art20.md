@@ -19,3 +19,5 @@ g) La de aquellos trabajadores que no se encuentren en situación de alta, ni en
 h) Las demás que puedan declararse expresamente por el Ministerio de Trabajo, al amparo de lo previsto en el número 2 del artículo 93 de la Ley de Seguridad Social, de 21 de abril de1966.
 
 2. Los trabajadores comprendidos en el campo de aplicación del Régimen General se considerarán de pleno derecho afiliados y en alta, a efectos de invalidez permanente derivada de accidente de trabajo o enfermedad profesional, aunque su empresario hubiere incumplido sus obligaciones al respecto y sin perjuicio de las responsabilidades de todo orden que de ello se deriven para el mismo.
+
+> Véase la Resolución de 2 de febrero de 1971, por la que se interpreta lo dispuesto en el apartado 1 de este artículo. Ref. BOE-A-1971-168
