@@ -1,3 +1,5 @@
 ## Artículo veinticinco.
 
-La pena de muerte en tiempo de guerra sólo se podrá imponer en casos de extrema gravedad, debidamente motivados en la sentencia y en los supuestos que la guerra haya sido declarada formalmente o exista ruptura generalizada de las hostilidades con potencia extranjera.
+(Sin contenido)
+
+> Se deja sin contenido por el art. 2.2 de la Ley Orgánica 11/1995, de 27 de noviembre. Ref. BOE-A-1995-25714

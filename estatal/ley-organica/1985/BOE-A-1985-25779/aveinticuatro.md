@@ -4,8 +4,6 @@ Las penas que pueden imponerse por los delitos comprendidos en este Código son:
 
 1.° Principales:
 
-- Muerte, en tiempo de guerra.
-
 - Prisión.
 
 - Pérdida de empleo.
@@ -31,3 +29,5 @@ Las penas que pueden imponerse por los delitos comprendidos en este Código son:
 - Suspensión de las actividades de la empresa, incautación o disolución de la misma.
 
 - Pérdida o comiso de los instrumentos y efectos del delito.
+
+> Se modifica por el art. 2.3 de la Ley Orgánica 11/1995, de 27 de noviembre. Ref. BOE-A-1995-25714

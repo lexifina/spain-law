@@ -28,10 +28,12 @@ Se ha regulado el antejuicio para proceder contra Jueces Togados, Presidente y V
 
 Como procedimiento especial, se regulan las diligencias preparatorias para conocer de los delitos de deserción y de determinados delitos de quebrantamiento del deber de presencia y los de fraude cometidos con ocasión de aquéllos, en las que se acentúa su rapidez, sin mengua de las garantías de defensa del imputado y en el que no se dictará auto de procesamiento pudiendo acordar la prisión preventiva en casos especialísimos. El sumario resulta brevísimo y las pruebas han de practicar todas en el acto de la vista. Con tal procedimiento en el plazo de dos meses desde que el imputado esté a disposición judicial podrá recaer sentencia.
 
-Se establece asimismo el procedimiento sumarísimo tan sólo para tiempo de guerra y para delitos militares flagrantes para los que pueda imponerse como alternativa pena de muerte y los comunes cuando así se declare por el Gobierno.
+Se establece asimismo el procedimiento sumarísimo tan sólo para tiempo de guerra y para delitos militares flagrantes y los comunes cuando así se declare por el Gobierno.
 
 Se introduce un sencillo y breve procedimiento para conocer de las faltas comunes cuando su conocimiento se atribuya a la jurisdicción militar.
 
 Y se declara como supletoria, en lo que no se regula y no se oponga a esta Ley, la Ley de Enjuiciamiento Criminal.
 
 Por último, en el libro IV se regulan los procedimientos no penales de que conoce la Jurisdicción Militar, entre los que destaca el contencioso-disciplinario militar. En la configuración y articulación de este procedimiento se ha seguido la pauta del contencioso-administrativo de la Ley de 27 de diciembre de 1956, pero introduciendo las peculiaridades propias del ámbito objetivo a que se contrae el recurso contencioso-disciplinario –la materia disciplinaria en las Fuerzas Armadas–, y estableciendo, como órganos judiciales competentes para el enjuiciamiento de dicho recurso, el Tribunal Militar Central y la Sala de lo Militar del Tribunal Supremo. Precisamente por el hecho de que estos órganos judiciales militares tengan competencia en esta materia, se ha instituido un único recurso contra las decisiones adoptadas en primera instancia, recurso que no es el de apelación, como en la Ley de 1956, sino el de casación, siguiendo de esta forma el camino iniciado por el artículo 58 de la Ley Orgánica del Poder Judicial.
+
+> Se suprime un inciso por el art. 4.1 de la Ley Orgánica 11/1995, de 27 de noviembre. Ref. BOE-A-1995-25714

@@ -16,8 +16,10 @@ Son reos del delito de rebelión en tiempo de guerra los que se alzaren colectiv
 
 Serán castigados con la pena de:
 
-a) Quince a veinticinco años de prisión quienes promovieren o sostuvieren la sublevación y quien ostente el mando superior de las fuerzas implicadas, pudiendo imponerse la pena de muerte.
+a) Quince a veinticinco años de prisión quienes promovieren o sostuvieren la sublevación y quien ostente el mando superior de las fuerzas implicadas.
 
 b) Quince a veinticinco años de prisión, quienes no hallándose comprendidos en el apartado anterior, ejerzan mando de compañía o de unidad análoga o superior.
 
 c) Diez a veinte años de prisión, los meros ejecutores.
+
+> Se modifica por el art. 2.3 de la Ley Orgánica 11/1995, de 27 de noviembre. Ref. BOE-A-1995-25714

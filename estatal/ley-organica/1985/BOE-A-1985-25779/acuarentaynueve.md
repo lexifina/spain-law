@@ -1,6 +1,6 @@
 ## Artículo cuarenta y nueve.
 
-Será castigado con la pena de prisión de veinte a veinticinco años, pudiendo imponerse la de muerte en tiempo de guerra, el militar que:
+Será castigado con la pena de prisión de veinte a veinticinco años el militar que:
 
 1.° Indujere a una potencia extranjera a declarar la guerra a España o se concertase con ella para el mismo fin.
 
@@ -21,3 +21,5 @@ Será castigado con la pena de prisión de veinte a veinticinco años, pudiendo 
 9.° Con el ánimo de favorecer al enemigo, causare grave quebranto a los recursos económicos o a los medios y recursos afectos a la defensa militar.
 
 10.º De cualquiera otra forma, colaborase con el enemigo, prestándole un servicio con el propósito de favorecer el progreso de sus armas.
+
+> Se modifica por el art. 2.3 de la Ley Orgánica 11/1995, de 27 de noviembre. Ref. BOE-A-1995-25714
