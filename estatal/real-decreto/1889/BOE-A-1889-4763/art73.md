@@ -1,16 +1,18 @@
 ## Artículo 73.
 
-Es nulo, cualquiera que sea la forma de su celebración:
+Es nulo cualquiera que sea la forma de su celebración:
 
-1.° El matrimonio celebrado sin consentimiento matrimonial.
+1.º El matrimonio celebrado sin consentimiento matrimonial.
 
-2.° El matrimonio celebrado entre las personas a que se refieren los artículos 46 y 47, salvo los casos de dispensa conforme al artículo 48.
+2.º El matrimonio celebrado entre las personas a que se refieren los artículos 46 y 47, salvo los casos de dispensa conforme al artículo 48.
 
-3.° El que se contraiga sin la intervención del Juez o funcionario ante quien deba celebrarse, o sin la de los testigos.
+3.º El que se contraiga sin la intervención del Juez, Alcalde o funcionario ante quien deba celebrarse, o sin la de los testigos.
 
-4.° El celebrado por error en la identidad de la persona del otro contrayente o en aquellas cualidades personales que, por su entidad, hubieren sido determinantes de la prestación del consentimiento.
+4.º El celebrado por error en la identidad de la persona del otro contrayente o en aquellas cualidades personales que, por su entidad, hubieren sido determinantes de la prestación del consentimiento.
 
-5.° El contraído por coacción o miedo grave.
+5.º El contraído por coacción o miedo grave.
+
+> Se modifica por el art. único de la Ley 35/1994, de 23 de diciembre. Ref. BOE-A-1994-28511.
 
 > Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.
 

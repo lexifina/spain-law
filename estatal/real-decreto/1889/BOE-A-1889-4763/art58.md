@@ -1,6 +1,8 @@
 ## Artículo 58.
 
-El Juez o funcionario, después de leídos los artículos 66, 67 y 68, preguntará a cada uno de los contrayentes si consienten en contraer matrimonio con el otro y si efectivamente lo contraen en dicho acto y, respondiendo ambos afirmativamente, declarará que los mismos quedan unidos en matrimonio y extenderá la inscripción o el acta correspondiente.
+El Juez, Alcalde o funcionario, después de leídos los artículos 66, 67 y 68, preguntará a cada uno de los contrayentes si consienten en contraer matrimonio con el otro y si efectivamente lo contraen en dicho acto y, respondiendo ambos afirmativamente, declarará que los mismos quedan unidos en matrimonio y extenderá la inscripción o el acta correspondiente.
+
+> Se modifica por el art. único de la Ley 35/1994, de 23 de diciembre. Ref. BOE-A-1994-28511.
 
 > Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.
 
