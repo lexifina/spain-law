@@ -8,17 +8,15 @@ El cambio de ley personal no afectará a la mayoría de edad adquirida de confor
 
 3. Las relaciones patrimoniales entre los cónyuges, a falta o por insuficiencia de capitulaciones permitidas por la ley de cualesquiera de ellos, se regirán por la misma ley que las relaciones personales. El cambio de nacionalidad no alterará el régimen económico matrimonial, salvo que así lo acuerden los cónyuges y no lo impida su nueva ley nacional.
 
-4. Las relaciones paterno-filiales se regirán por la ley nacional del padre y en defecto de éste, o si sólo hubiere sido reconocida o declarada la maternidad, por la de la madre.
+4. El carácter y contenido de la filiación, incluida la adoptiva, y las relaciones paterno-filiales, se regirán por la Ley personal del hijo.
 
-5. La adopción, en cuanto a sus efectos y a la capacidad para adoptar, se regulará por la ley del adoptante.
+5. La adopción constituida por Juez español se regirá, en cuanto a los requisitos, por lo dispuesto en la Ley española. No obstante, deberá observarse la Ley nacional del adoptando en lo que se refiere a su capacidad y consentimientos necesarios: 1.° Si tuviera su residencia habitual fuera de España. 2.° Aunque resida en España, si no adquiere, en virtud de la adopción la nacionalidad española.
 
-En la adopción por marido y mujer a falta de ley nacional común, se aplicará la del marido al tiempo de la adopción.
+A petición del adoptante o del Ministerio Fiscal, el Juez, en interés del adoptando, podrá exigir, además, los consentimientos, audiencias o autorizaciones requeridas por la Ley nacional o por la Ley de la residencia habitual del adoptante o del adoptando.
 
-La ley personal del adoptado deberá observarse en lo que respecta a su capacidad, consentimiento y modo de suplirlo o completarlo.
+Para la constitución de la adopción, los Cónsules españoles tendrán las mismas atribuciones que el Juez, siempre que el adoptante sea español y el adoptando esté domiciliado en la demarcación consular. La propuesta previa será formulada por la entidad pública correspondiente al último lugar de residencia del adoptante en España. Si el adoptante nunca tuvo residencia en España no será necesaria propuesta previa, pero el Cónsul recabará de las autoridades del lugar de residencia de aquél informes suficientes para valorar su idoneidad.
 
-Para la constitución de la adopción serán competentes las autoridades del Estado de la nacionalidad del adoptante o, cuando se trate de una adopción hecha por marido y mujer, las autoridades del Estado de su nacionalidad común; y en su defecto, las del Estado en que el adoptante tenga su residencia habitual o los cónyuges adoptantes su residencia habitual común.
-
-Las formalidades del acto habrán de atenerse a la ley del lugar en que se constituya la adopción, sin perjuicio de lo dispuesta en el artículo 11, apartado 3.
+En la adopción constituida por la competente autoridad extranjera, la Ley del adoptante regirá en cuanto a capacidad y consentimientos necesarios. Los consentimientos exigidos por tal Ley podrán prestarse ante una autoridad del país en que se inició la constitución o, posteriormente, ante cualquier otra autoridad competente. En su caso, para la adopción de un español, será necesario el conocimiento de la entidad pública correspondiente a la última residencia del adoptando en España.
 
 6. La tutela y las demás instituciones de protección del incapaz se regularán por la ley nacional de éste. Sin embargo, las medidas provisionales o urgentes de protección se regirán por la ley de su residencia habitual.
 
@@ -42,6 +40,8 @@ Prevalecerá en todo caso la nacionalidad española del que ostente además otra
 
 En la fusión de sociedades de distinta nacionalidad se tendrán en cuenta las respectivas leyes personales.
 
-> Se modifica por el Decreto 1836/1974, de 31 de mayo. Ref. BOE-A-1974-1083.
+> Se modifican los apartados 4 y 5 por el art. 1 de la Ley 21/1987, de 11 de noviembre. Ref. BOE-A-1987-25627.
 
 > Téngase en cuenta que el inciso destacado del apartado 2 se declara inconstitucional y derogado por la Constitución por Sentencia del TC 39/2002, de 14 de febrero. Ref. BOE-T-2002-5097.
+
+> Se modifica por el Decreto 1836/1974, de 31 de mayo. Ref. BOE-A-1974-1083.
