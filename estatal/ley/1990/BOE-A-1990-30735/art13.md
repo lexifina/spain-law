@@ -24,11 +24,11 @@ El conjunto de estas participaciones no podrá superar el 50 por 100 de los recu
 
 El Ministerio de Economía y Hacienda podrá autorizar participaciones superiores, sin pérdida de la condición de cooperativa fiscalmente protegida, en aquellos casos en que se justifique que tal participación coadyuva al mejor cumplimiento de los fines sociales cooperativos y no supone una vulneración de los principios fundamentales de actuación de estas Entidades.
 
-10. La realización de operaciones cooperativizadas con terceros no socios, fuera de los casos permitidos en las Leyes, así como el incumplimiento de las normas sobre contabilización separada de tales operaciones y destino al Fondo de Reserva Obligatorio de los resultados obtenidos en su realización.
+10. La realización de operaciones cooperativizadas con terceros no socios, fuera de los casos permitidos en las leyes, así como el incumplimiento de las normas sobre contabilización separada de tales operaciones y destino al Fondo de Reserva Obligatorio de los resultados obtenidos en su realización.
 
-Ninguna cooperativa, cualquiera que sea su clase, podrá realizar un volumen de operaciones con terceros no socios superior al 50 por 100 del total de las de la cooperativa, sin perder la condición de cooperativa fiscalmente protegida.
+Ninguna cooperativa, cualquiera que sea su clase, podrá realizar un volumen de operaciones con terceros no socios superior al 50 por 100 del total de las de la cooperativa, sin perder la condición de cooperativa fiscalmente protegida. Dicha limitación no será aplicable a las cooperativas agrarias respecto de las operaciones de suministro de gasóleo B a terceros no socios.
 
-A los efectos de la aplicación del límite establecido en el párrafo anterior se asimilan a las operaciones con socios los ingresos obtenidos por las Secciones de Crédito de las Cooperativas procedentes de Cooperativas de Crédito, inversiones en fondos públicos y en valores emitidos por Empresas públicas.
+A los efectos de la aplicación del límite establecido en el párrafo anterior, se asimilan a las operaciones con socios los ingresos obtenidos por las secciones de crédito de las cooperativas procedentes de cooperativas de crédito, inversiones en fondos públicos y en valores emitidos por empresas públicas.
 
 11. Al empleo de trabajadores asalariados en número superior al autorizado en las normas legales por aquellas cooperativas respecto de las cuales exista tal limitación.
 
@@ -41,3 +41,7 @@ A los efectos de la aplicación del límite establecido en el párrafo anterior 
 15. La conclusión de la empresa que constituye su objeto o la imposibilidad manifiesta de desarrollar la actividad cooperativizada.
 
 16. La falta de auditoría externa en los casos señalados en las normas legales.
+
+> Se modifica el apartado 10 por el art. 1.3 del Real Decreto-Ley 10/2000, de 6 de octubre. Ref. BOE-A-2000-18137
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm 244, de 11 de octubre de 2000. Ref. BOE-A-2000-18292
