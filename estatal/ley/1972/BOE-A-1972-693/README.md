@@ -1,0 +1,67 @@
+# Ley 8/1972, de 10 de mayo, de construcción, conservación y explotación de autopistas en régimen de concesión.
+
+- Identificador: BOE-A-1972-693
+- Rango: Ley
+- Fecha de disposición: 1972-05-10
+- Publicación: 1972-05-11
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-1972-693
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [preambulo](preambulo.md)
+- [CAPITULO PRIMERO](cprimero.md)
+- [Artículo primero](aprimero.md)
+- [Artículo segundo](asegundo.md)
+- [Artículo tercero](atercero.md)
+- [CAPITULO II](cii.md)
+- [Artículo cuarto](acuarto.md)
+- [Artículo quinto](aquinto.md)
+- [Artículo sexto](asexto.md)
+- [CAPITULO III](ciii.md)
+- [Artículo séptimo](aseptimo.md)
+- [Artículo octavo](aoctavo.md)
+- [Artículo noveno](anoveno.md)
+- [Artículo diez](adiez.md)
+- [CAPITULO IV](civ.md)
+- [Artículo once](aonce.md)
+- [Artículo doce](adoce.md)
+- [Artículo trece](atrece.md)
+- [Artículo catorce](acatorce.md)
+- [Artículo quince](aquince.md)
+- [CAPITULO V](cv.md)
+- [Artículo dieciséis](adieciseis.md)
+- [Artículo diecisiete](adiecisiete.md)
+- [Artículo dieciocho](adieciocho.md)
+- [Artículo diecinueve](adiecinueve.md)
+- [Artículo veinte](aveinte.md)
+- [CAPITULO VI](cvi.md)
+- [Artículo veintiuno](aveintiuno.md)
+- [Artículo veintidós](aveintidos.md)
+- [Artículo veintitrés](aveintitres.md)
+- [Artículo veinticuatro](aveinticuatro.md)
+- [Artículo veinticinco](aveinticinco.md)
+- [CAPITULO VII](cvii.md)
+- [Artículo veintiséis](aveintiseis.md)
+- [Artículo veintisiete](aveintisiete.md)
+- [Artículo veintiocho](aveintiocho.md)
+- [Artículo veintinueve](aveintinueve.md)
+- [CAPITULO VIII](cviii.md)
+- [Artículo treinta](atreinta.md)
+- [Artículo treinta y uno](atreintayuno.md)
+- [Artículo treinta y dos](atreintaydos.md)
+- [Artículo treinta y tres](atreintaytres.md)
+- [Artículo treinta y cuatro](atreintaycuatro.md)
+- [Artículo treinta y cinco](atreintaycinco.md)
+- [CAPITULO IX](cix.md)
+- [Artículo treinta y seis](atreintayseis.md)
+- [Disposición final primera](primera.md)
+- [Disposición final segunda](segunda.md)
+- [Disposición final tercera](tercera.md)
+- [Disposición final cuarta](cuarta.md)
+- [Disposición final quinta](quinta.md)
+- [Disposición final sexta](sexta.md)
+- [Disposición final séptima](septima.md)
+- [Disposición final octava](octava.md)
+- [firma](firma.md)
