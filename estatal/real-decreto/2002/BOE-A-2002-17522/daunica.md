@@ -1,0 +1,3 @@
+## Disposición adicional única. Protocolo.
+
+Las autoridades que ejerzan la representación institucional de las Fuerzas Armadas tendrán, en lo que respecta a la precedencia en las normas de protocolo del Estado, la consideración prevista en el artículo 10, apartado 26, en los actos celebrados en la Villa de Madrid, en su condición de capital del Estado y sede de las instituciones generales ; y artículo 12, apartado 28, en los actos en el territorio propio de una Comunidad Autónoma, preceptos ambos del Real Decreto 2099/1983, de 4 de agosto, por el que se aprueba el Reglamento de Ordenación General de Precedencias en el Estado.
