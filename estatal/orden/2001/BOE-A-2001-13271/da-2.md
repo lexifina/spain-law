@@ -31,3 +31,7 @@ V. Durante el plazo de validez de la prueba documental mencionada anteriormente,
 VI. La tarjeta profesional y el refrendo tendrá un plazo de validez máximo de cinco años, transcurrido el cual podrá revalidarse conforme a las disposiciones del artículo 6 de esta Orden.
 
 VII. Cuando el ciudadano comunitario pretenda ejercer de Capitán o de primer Oficial de puente deberá acreditar la existencia del derecho de reciprocidad del Estado de su nacionalidad determinada en el artículo 8 del Real Decreto 2062/1999, así como superar una prueba sobre conocimiento de la legislación marítima española, relativa al ejercicio de funciones como Capitán o primer Oficial de puente. Esta prueba será realizada en castellano por la Dirección General de la Marina Mercante o la Capitanía Marítima autorizada.
+
+> Téngase en cuenta que para el reconocimiento de los títulos profesionales que proporcionen habilitación para ejercer de Capitán o de Primer Oficial de puente, poseídos por ciudadanos con nacionalidad de un Estado de la Unión Europea y expedidos por uno de estos Estados, además de la documentación contemplada en esta disposición, deberán presentar la certificación de haber superado la prueba sobre conocimiento de la legislación marítima española regulada en la Orden FOM/2285/2004, de 28 de junio, según establece su disposición adicional 1. Ref. BOE-A-2004-12943
+
+> Se modifica por la disposición adicional 1 de la Orden FOM/2285/2004, de 28 de junio Ref. BOE-A-2004-12943
