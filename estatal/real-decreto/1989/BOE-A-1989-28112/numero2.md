@@ -40,6 +40,8 @@ a) Los préstamos para la rehabilitación protegida de viviendas existentes y de
 
 b) Las segundas o posteriores transmisiones de edificios y viviendas que hayan obtenido calificación o certificación de actuación protegible por reunir los requisitos exigidos en la normativa vigente.
 
+c) Las subrogaciones, con o sin simultánea novación, y las novaciones modificativas de préstamos hipotecarios acogidas a la Ley 2/1994, de 30 de marzo, en cuanto al asiento de inscripción previsto en el último párrafo de los artículos 5 y 9 de la citada Ley. A estos efectos la nota marginal a que se refiere el párrafo 1 del mencionado artículo 5, tendrá la consideración de nota marginal de referencia. Para el cálculo de los honorarios se tomará como base la cifra de capital pendiente de amortizar en el momento de la subrogación, y en las novaciones modificativas la que resulte de aplicar al importe de la responsabilidad hipotecaria vigente el diferencial entre el interés del préstamo que se modifica y el interés nuevo.
+
 5. Quedan además a salvo las exenciones o bonificaciones en materia de concentración parcelaria, Viviendas de Protección Oficial, explotaciones familiares y demás establecidas por Ley.
 
 6. Cuando en un mismo asiento concurriesen dos o más reducciones o bonificaciones de las señaladas en los apartados 1 y 2 anteriores, se aplicará de entre ellas la más favorable para el obligado al pago.
@@ -53,3 +55,5 @@ No obstante, cuando los estatutos o reglas especiales del régimen de propiedad 
 9. La desafectación de un elemento común devengará los derechos que correspondan por segregación o individualización como finca independiente sin considerar la repercusión que produzca en las demás cuotas.
 
 10. En las inscripciones de obras públicas en que haya de practicarse inscripción principal y otras de referencia, se cobrarán por aquélla los derechos correspondientes según las escalas del número 2 del Arancel, y por cada una de las otras 1.000 pesetas.
+
+> Se añade la letra c) al apartado 4 por el art. 2 del Real Decreto 2616/1996, de 20 de diciembre. Ref. BOE-A-1996-28544.
