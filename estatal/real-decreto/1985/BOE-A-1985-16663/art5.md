@@ -1,3 +1,5 @@
-## Artículo 5. Forma de contrato.
+## Artículo 5. Forma del contrato.
 
-El contrató deberá formalizarse por escrito en el modelo contenido en el anexo y en cuadruplicado ejemplar y se presentará para su registro y visado en la Oficina de Empleo correspondiente, la cual, una vez diligenciado, devolverá un ejemplar a cada una de las partes y remitirá otro al Equipo Multiprofesional correspondiente.
+El contrato deberá formalizarse por escrito en el modelo que se establezca y se presentará para su registro en la Oficina de Empleo en el plazo de los diez días siguientes a su celebración. Un ejemplar del contrato se remitirá por la Oficina de Empleo al equipo multiprofesional correspondiente.
+
+> Se modifica por el art. único del Real Decreto 427/1999, de 12 de marzo. Ref. BOE-A-1999-7037.
