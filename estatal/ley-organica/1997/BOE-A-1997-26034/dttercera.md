@@ -5,3 +5,5 @@
 2. Los que solicitaren el reingreso con arreglo a lo dispuesto en el apartado anterior y no pudieren ocupar vacantes quedarán adscritos a la Sala de Justicia que determine la Sala de Gobierno del Tribunal Supremo y ocuparán la primera vacante que se produzca en ella.
 
 3. Los Presidentes de la Sala del Tribunal Supremo que actualmente ejerzan sus funciones continuarán en su desempeño hasta completar un plazo de cinco años desde su nombramiento. Para el caso de los que ya lo hubieran cumplido, se proveerá la plaza de nuevo en el plazo de un año a partir de la entrada en vigor de la presente Ley.
+
+> Téngase en cuenta que el plazo de un año establecido en el apartado 1 queda modificado por la disposición adicional única.3 de la Ley Orgánica 13/1999, de 14 de mayo, en los términos previstos en su apartado 1. Ref. BOE-A-1999-10902.
