@@ -1,0 +1,3 @@
+## Disposición adicional única. Desestimación presunta de reclamaciones.
+
+Las reclamaciones de los abonados a la Compañía Telefónica, a las que se refiere el punto 20 de la Resolución de 9 de julio de 1982 de la Delegación del Gobierno en «Telefónica de España, Sociedad Anónima», por la que se aprueba el Reglamento de servicio que regula las reclamaciones entre la Compañía Telefónica y los abonados al servicio telefónico, podrán entenderse desestimadas si, transcurridos seis meses desde la entrada de la reclamación en el Registro de la Delegación del Gobierno en «Telefónica de España, Sociedad Anónima», no hubiese recaído resolución expresa. Contra la resolución expresa o presunta podrá interponerse recurso ordinario ante el Secretario general de Comunicaciones.
