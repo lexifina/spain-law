@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Cómputo recíproco de cotizaciones.
+
+Los supuestos de jubilación anticipada regulados en el capítulo I de este Real Decreto, cuando el trabajador acredite cotizaciones a más de un Régimen del sistema, se regirán en todo caso por las normas en vigor sobre cómputo recíproco de cotizaciones, aplicándose las normas especiales en esta materia, establecidas en la Ley 47/1998, de 23 de diciembre, exclusivamente a los supuestos de jubilación anticipada al amparo de normas de derecho transitorio, reguladas en las disposiciones transitorias primera y segunda de este Real Decreto.
