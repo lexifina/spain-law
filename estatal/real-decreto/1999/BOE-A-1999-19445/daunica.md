@@ -1,3 +1,5 @@
 ## Disposición adicional única. Aprobación de formularios.
 
-Por Orden del Ministro de Fomento podrán establecerse los modelos de los formularios a cumplimentar para hacer efectivas las obligaciones de información reguladas en este Reglamento.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1652/2004, de 9 de julio. Ref. BOE-A-2004-13468.
