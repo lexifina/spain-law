@@ -1,3 +1,5 @@
 ## Disposición final primera. Facultades de desarrollo.
 
-Se autoriza al Ministro de Sanidad y Consumo para que adopte las medidas que sean necesarias para el desarrollo y ejecución de este real decreto.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1555/2004, de 25 de junio. Ref. BOE-A-2004-12017.

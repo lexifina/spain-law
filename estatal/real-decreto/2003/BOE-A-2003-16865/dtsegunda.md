@@ -1,3 +1,5 @@
 ## Disposición transitoria segunda. Órganos de participación en el control y vigilancia.
 
-Hasta tanto se establezcan los órganos de participación en el control y vigilancia de la gestión del Instituto Nacional de Gestión Sanitaria, continuará vigente la composición y funciones del Consejo General y la Comisión Ejecutiva, establecidas en el Real Decreto 702/1998, de 24 de abril, sobre organización de los Servicios Territoriales del INSALUD. La Presidencia del Consejo General le corresponde al Secretario General de Sanidad del Ministerio de Sanidad y Consumo. La Presidencia de la Comisión Ejecutiva le corresponde al Director del Instituto Nacional de Gestión Sanitaria.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1555/2004, de 25 de junio. Ref. BOE-A-2004-12017.
