@@ -1,0 +1,7 @@
+La Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, establece en su disposición adicional tercera que, reglamentariamente, y en el plazo de dieciocho meses, se adecuarán a la misma las normas reguladoras de los distintos procedimientos administrativos, cualquiera que sea su rango, y señalando expresamente los efectos estimatorios o desestimatorios que se produzcan por la falta de resolución expresa.
+
+Tomando como base tal precepto, el Reglamento que se aprueba por medio del presente Real Decreto establece un procedimiento que responde a una doble finalidad; de un lado, armoniza y unifica los procedimientos existentes en materia de relaciones de la Administración del Monopolio de Tabacos y Timbre con las personas con ella vinculadas por virtud de situaciones concesionales o cuasiconcesionales; de otro, para garantizar la adecuada satisfacción de los derechos e intereses de los concesionarios y autorizados o de quienes desean acceder a tal situación, instaura un procedimiento ágil y eficaz, libre de trámites superfluos si bien con las necesarias matizaciones que la especialidad de la materia impone y siempre de acuerdo con los principios que la nueva Ley establece.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, con la aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 5 de agosto de 1994,
+
+DISPONGO:
