@@ -1,0 +1,3 @@
+## Disposición transitoria.
+
+Se integrarán en la Tesorería General las unidades administrativas que en la fecha de publicación de este Real Decreto vinieren desempeñando las competencias que esta disposición le atribuye. Los funcionarios y demás personal afectados por las modificaciones orgánicas establecidas en este Real Decreto seguirán percibiendo la totalidad de sus retribuciones con cargo a los créditos a los que venían imputándose, hasta que, aprobada la estructura orgánica de los diferentes Organismos y unidades de la Seguridad Social, se verifique la correspondiente adaptación presupuestaria.
