@@ -1,0 +1,21 @@
+## Disposición transitoria primera. Aplicación a situaciones anteriores.
+
+1. El personal que a la entrada en vigor de este Real Decreto se encuentre en la situación recogida en su artículo 1.1 tendrá un plazo de seis meses, a partir de ese momento, para ejercitar el derecho previsto en el artículo 2.1 del mismo, conforme a las normas contenidas en la sección 1.ª de los capítulos II y III, salvo que, tratándose de agentes temporales, no acrediten las condiciones establecidas en el Estatuto para la apertura del derecho a pensión, en cuyo caso será de aplicación lo dispuesto en el artículo 7.2.
+
+Quienes se hubieran encontrado en la situación regulada en el artículo 1 del presente Real Decreto antes de su entrada en vigor y en ese momento estuvieran en las situaciones de comisión de servicios o de excedencia voluntaria, contempladas en el artículo 11.3 del anexo VIII del Estatuto de los funcionarios comunitarios, podrán ejercitar el mismo derecho en el plazo de seis meses, a partir de su reincorporación al servicio de las instituciones de las Comunidades Europeas.
+
+2. La facultad de ejercitar el derecho a las transferencias, dentro del mismo plazo a que se refiere el párrafo primero del apartado anterior, será también de aplicación al personal que habiendo estado en la situación a que se refiere el artículo 1.1 de este Real Decreto tuviese reconocido, a su entrada en vigor, el derecho a la pensión de jubilación del régimen de previsión social comunitario y siempre que los efectos económicos de la misma hubieran sido posteriores a 31 de diciembre de 1985.
+
+El mismo derecho podrá ser ejercitado por aquellas personas que, a la entrada en vigor de esta norma, estén percibiendo la correspondiente pensión de supervivencia del régimen de previsión social comunitario, siempre que el causante se hubiese encontrado en la situación determinada en el artículo 1.1 de este Real Decreto con posterioridad a 31 de diciembre de 1985.
+
+Asimismo, podrán ejercitar el derecho a que se refieren los párrafos anteriores aquellas personas que, con independencia de su situación a la entrada en vigor del presente Real Decreto, se hubieran encontrado, en algún momento a partir de 1 de enero de 1986, incluidos en el ámbito de aplicación fijado en el artículo 1.1.
+
+3. En los supuestos previstos en el apartado anterior, el cálculo del equivalente actuarial que deba transferirse al sistema de previsión social comunitario se realizará a la fecha de inicio de la pensión, o, en su caso, hasta el momento en que se hubiera producido la extinción de la relación de servicios con las Comunidades Europeas, actualizando su importe con la aplicación de un interés simple anual del 3,5 por 100 desde dicha fecha hasta la de la resolución que dicte la entidad u órgano competente.
+
+El ejercicio del derecho a las transferencias supondrá la anulación y reintegro desde su inicio de las pensiones de jubilación o retiro y supervivencia que, causadas por el mismo funcionario comunitario o agente temporal, se hubieran reconocido por alguno de los regímenes enunciados en el artículo 1.1 de este Real Decreto. El importe de las mensualidades abonadas, debidamente actualizadas al interés simple del 3,5 por 100 anual, se deducirá del valor del equivalente actuarial que deba transferirse al sistema de previsión social de las Comunidades Europeas.
+
+4. Las personas que a la entrada en vigor de este Real Decreto se encuentren en la situación recogida en su artículo 1.2 tendrán un plazo de seis meses, a partir de ese momento, para ejercitar el derecho previsto en el artículo 3 del mismo, conforme a las normas contenidas en la sección 2.ª de los capítulos II y III.
+
+La misma facultad podrá ser ejercitada por aquellas personas que, a la entrada en vigor de esta norma, tuvieran reconocido el derecho a una pensión por alguno de los regímenes enunciados en el artículo 1.1 del presente Real Decreto, siempre que el causante de tal derecho se hubiese encontrado en la situación determinada en el artículo 1.2 con posterioridad a 31 de diciembre de 1985.
+
+En los supuestos previstos en el párrafo anterior el cálculo del equivalente actuarial que deba constituirse en la Tesorería del régimen de previsión nacional de que se trate, quedará referido a la fecha de inicio de la pensión.
