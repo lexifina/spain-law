@@ -1,0 +1,3 @@
+## Art. 81.
+
+El pago de las tasas será exigido con carácter general en el momento de ser solicitado el servicio que las originan, notificándose en el mismo acto al sujeto pasivo, que lo ratificará con su firma, y por medio del impreso oficial de solicitud o por el de concesión de la patente o modelo de utilidad, que dispone de un plazo límite de diez días, a contar desde la fecha última del vencimiento del período hábil para proceder al pago, previniéndole de los efectos que la falta de pago originaría en cada caso, excepción hecha de la tasa correspondiente a la presentación de solicitudes, que habrá de ser abonada sin necesidad de notificación alguna en función de lo marcado en el artículo 30 de la Ley de Patentes.

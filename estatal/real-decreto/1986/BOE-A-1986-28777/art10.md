@@ -1,0 +1,3 @@
+## Art. 10. Resumen de la invención
+
+El resumen a que se refiere el artículo 27 de la Ley tendrá una extensión máxima de ciento cincuenta palabras, deberá indicar el título de la invención y contener una exposición concisa del contenido de la descripción, reivindicaciones y, en su caso, dibujo o dibujos más característicos que deberán situarse separadamente del texto del resumen; asimismo, se podrá indicar la fórmula química que, entre las que figuran en la solicitud de patente, caracterice mejor la invención. El resumen deberá permitir una fácil comprensión del problema técnico planteado, la solución aportada y el uso o usos principales de la invención.

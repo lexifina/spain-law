@@ -1,0 +1,3 @@
+## Art. 43.
+
+A la vista de las alegaciones formuladas y de la documentación obrante en el expediente, el Registro de la Propiedad Industrial, en el plazo de un mes contado desde la fecha en que concluye el plazo para contestar al suspenso, acordará la continuación del procedimiento y denegará por resolución motivada la solicitud cuando estime que subsisten en ella defectos que no hubiesen sido debidamente subsanados. Si a pesar de las alegaciones presentadas, el Registro sigue estimando que el objeto no es susceptible de protección como modelo de utilidad, pero sí bajo otra modalidad de propiedad industrial, concederá al solicitante un plazo de dos meses para que presente la documentación correspondiente a la modalidad en que deba considerarse incluido tal objeto.

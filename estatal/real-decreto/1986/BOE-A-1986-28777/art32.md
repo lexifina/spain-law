@@ -1,0 +1,5 @@
+## Art. 32. Folleto de la patente
+
+1. Se editará para su venta al público un folleto de cada patente concedida.
+
+2. El folleto, además de las menciones incluidas en el artículo 26, apartado 3, contendrá el texto íntegro de la descripción, con las reivindicaciones y los dibujos, así como un texto íntegro del informe sobre el estado de la técnica. Mencionará también el «Boletín Oficial de la Propiedad Industrial», en que se hubiere anunciado la concesión.
