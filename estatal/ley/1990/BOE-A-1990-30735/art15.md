@@ -10,4 +10,8 @@ El importe de los anticipos laborales de los socios trabajadores y de trabajo se
 
 La cesión de derechos de uso y aprovechamiento de tierras u otros bienes inmuebles a las Cooperativas de Explotación Comunitaria de la Tierra se valorará por la renta usual de la zona para dichas cesiones.
 
-3. No obstante lo dispuesto en el número anterior, cuando se trate de Cooperativas de Consumidores y Usuarios, Vivienda, o de aquellas que, conforme a sus estatutos, realicen servicios o suministros a sus socios, se computará como precio de las correspondientes operaciones aquel por el que efectivamente se hubiesen realizado, siempre que no resulte inferior al coste de tales servicios y suministros, incluida la parte correspondiente de los gastos generales de la Entidad. En caso contrario, se aplicará este último.
+3. No obstante lo dispuesto en el número anterior, cuando se traten de cooperativas de consumidores y usuarios, vivienda, agrarias o de aquellas que, conforme a sus estatutos, realicen servicios o suministros a sus socios, se computará como precio de las correspondientes operaciones aquel por el que efectivamente se hubiera realizado, siempre que no resulte inferior al coste de tales servicios y suministros, incluida la parte correspondiente de los gastos generales de la entidad. En caso contrario se aplicará este último. En las cooperativas agrarias se aplicará este sistema tanto para los servicios y suministros que la cooperativa realice a sus socios como para que los socios realicen o entreguen a la cooperativa.
+
+> Se modifica el apartado 3 por la disposición final 2.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+> Esta modificación surte efectos para los períodos impositivos que se inicien a partir del 1 de enero de 1996, según establece la disposición final 11.

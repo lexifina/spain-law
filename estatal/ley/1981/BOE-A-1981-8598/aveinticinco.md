@@ -8,6 +8,8 @@ Tres. Reglamentariamente se establecerán las funciones que deban realizar estos
 
 Cuatro. El Banco Hipotecario de España promoverá la constitución de una Sociedad gestora con un fondo de regulación de carácter público, cuya finalidad prioritaria será la de fomentar la financiación de la construcción y adquisición de viviendas. Por vía reglamentaria se determinará la forma en que deba regirse dicho fondo, atendiendo a las directrices de política monetaria.
 
-Cinco. Este fondo gozará de los mismos beneficios fiscales de que disfruten los Fondos de Inversión Mobiliaria, sin que, en ningún caso, los beneficios que pueda obtener se imputen a sus partícipes mientras no se distribuyan los mismos.
+Cinco. (Derogado)
 
 Seis. Y para la financiación de sus necesidades, el fondo contará con los porcentajes de participación sobre las emisiones que intervienen en el mercado y con la posibilidad de acceso a la refinanciación en el Banco de España en las condiciones que se desarrollarán reglamentariamente.
+
+> Se deroga el apartado 5 por la disposición derogatoria única.1.6 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752

@@ -1,3 +1,5 @@
 ## Artículo treinta y cuatro.
 
-En el caso de que varias personas físicas o jurídicas se hayan asociado para la realización de actividades mineras sin llegar a constituir una personalidad jurídica independiente, conforme al artículo diez, letra E, del texto refundido del Impuesto General sobre la Renta de Sociedades y demás Entidades jurídicas, cada uno de los partícipes podrá constituir a prorrata de su participación en la actividad común la dotación correspondiente al factor de agotamiento, con obligación de individualizarla en su respectiva contabilidad y de invertirla en la forma, plazo y condiciones estipuladas en esta Sección.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752

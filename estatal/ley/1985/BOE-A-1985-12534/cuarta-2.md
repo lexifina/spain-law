@@ -1,3 +1,5 @@
 ## Disposición transitoria cuarta.
 
-El Gobierno, a propuesta de los Ministerios de Economía y Hacienda y Cultura, desarrollará, por vía reglamentaria, las condiciones para la exención a que se refiere la anterior disposición transitoria, y regulará también el alcance y supuestos en que proceda la revalorización de las obras a efectos fiscales.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1.13 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752.

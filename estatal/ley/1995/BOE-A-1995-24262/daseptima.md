@@ -69,3 +69,5 @@ Dos. La competencia de las Comunidades Autónomas a que se refiere el artículo 
 En lo no previsto en la presente Ley, se aplicará con carácter supletorio la Ley de Ordenación y Supervisión de los Seguros Privados y, en cuanto a los corredores de seguros, los preceptos que el Código de Comercio dedica a la comisión mercantil.»
 
 13. Se suprime el apartado d) de la disposición transitoria tercera de la Ley de Mediación en Seguros Privados.
+
+> Se suprime el inciso destacado del apartado 2 por la disposición adicional 13 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752.

@@ -350,4 +350,6 @@ d) Las obligaciones patrimoniales del Consorcio tienen la garantía del Estado e
 
 3. El Gobierno, a propuesta del Ministerio de Economía y Hacienda, podrá autorizar la apertura de cuentas de crédito en el Banco de España con el fin de atender a las necesidades transitorias de financiación derivadas de su actividad. No obstante, en el ámbito de los Seguros Agrarios Combinados se determinará reglamentariamente el procedimiento para atender, mediante la apertura de crédito antes referida, a tal finalidad.»
 
+> Se declara la vigencia del art. 24.2 del estatuto por la disposición derogatoria única.2.27 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752.
+
 > Se modifica por la disposición adicional 9 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.

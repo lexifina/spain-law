@@ -43,3 +43,7 @@ Las contraprestaciones satisfechas a los titulares de los valores que se emitan 
 La administración de los Fondos por las sociedades gestoras quedará exenta del Impuesto sobre el Valor Añadido.
 
 11. Reglamentariamente podrán establecerse limitaciones especiales a la adquisición por Instituciones de Inversión Colectiva de valores emitidos con cargo a Fondos de Titulización Hipotecaria administrados por Sociedades pertenecientes al mismo grupo que las sociedades gestoras de dichas Instituciones.
+
+> Se deroga el apartado 10, en lo que afecte al Impuesto sobre Sociedades, por la disposición derogatoria única.1.29 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+> Esta derogación surte efectos para los períodos impositivos que se inicien a partir el 1 de enero de 1996, según establece la disposición final 11.

@@ -15,3 +15,5 @@ Tercero. No se devengará el Impuesto sobre el incremento del Valor de los Terre
 En la posterior transmisión de los mencionados terrenos se entenderá que el número de años a lo largo de los cuales se ha puesto de manifiesto el incremento del valor no se ha interrumpido por causa de la transmisión derivada del proceso de adscripción.
 
 No será de aplicación, en tales casos, lo dispuesto en el artículo 9, 2, de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.
+
+> Véase la disposición derogatoria única.2.11 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752., sobre declaración de vigencia del apartado 1.
