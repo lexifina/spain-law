@@ -120,6 +120,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Agrupación 42](agrupacion42-2.md)
 - [Agrupación 43](agrupacion43-2.md)
 - [Agrupación 44](agrupacion44-2.md)
+- [Agrupación 45](agrupacion45-2.md)
 - [Agrupación 49](agrupacion49-2.md)
 - [DIVISIÓN 5](division5-2.md)
 - [Agrupación 51](agrupacion51.md)

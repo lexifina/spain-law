@@ -2,14 +2,16 @@
 
 ## Grupo 711. Actuarios de seguros.
 
-Cuota de: 39.330 pesetas.
+Cuota de: 39.330 pesetas. (236,38 euros)
 
-## Grupo 712. Agentes, representantes y corredores de seguros.
+## Grupo 712. Agentes y corredores de seguros.
 
-Cuota de: 42.228 pesetas.
+Cuota de: 24.840 pesetas. (149,29 euros)
 
-## Grupo 713. Agentes de seguros afectos no representantes.
+> Se modifica por el art. 63.1.3 de la Ley 13/2000, de 28 de diciembre. Ref. BOE-A-2000-24265.
 
-Cuota de: 24.840 pesetas.
+> Téngase en cuenta para su aplicación el art. 63.2.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+
+> Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
