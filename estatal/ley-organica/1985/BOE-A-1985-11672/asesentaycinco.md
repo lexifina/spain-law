@@ -1,0 +1,13 @@
+## Artículo sesenta y cinco
+
+1. La Junta Electoral Central es la autoridad competente para distribuir los espacios gratuitos de propaganda electoral que se emiten por los medios de comunicación públicos cualquiera que sea el titular de los mismos, a propuesta de la Comisión a que se refieren los apartados siguientes de este artículo.
+
+2. Una Comisión de Radio y Televisión, bajo la dirección de la Junta Electoral Central, es competente para efectuar la propuesta de distribución de los espacios gratuitos de propaganda electoral.
+
+3. La Comisión es designada por la Junta Electoral Central y está integrada por un representante de cada partido, federación o coalición que concurriendo a las elecciones convocadas cuente con representación en el Congreso de los Diputados. Dichos representantes votarán ponderadamente de acuerdo con la composición de la Cámara.
+
+4. La Junta Electoral Central elige también al Presidente de la Comisión de entre los representantes nombrados conforme al apartado anterior.
+
+5. La Junta Electoral Central puede delegar en las Juntas Electorales Provinciales la distribución de espacios gratuitos de propaganda electoral en las programaciones regionales y locales de los medios de comunicación de titularidad estatal y de aquellos otros medios de ámbito similar que tengan también el carácter de públicos. En este supuesto, se constituye en dicho ámbito territorial una Comisión con las mismas atribuciones previstas en el párrafo 2 del presente artículo y con una composición que tenga en cuenta la representación parlamentaria en el Congreso de los Diputados del ámbito territorial respectivo. Dicha Comisión actúa bajo la dirección de la correspondiente Junta Electoral Provincial.
+
+6. En el supuesto de que se celebren solamente elecciones a una Asamblea Legislativa de Comunidad Autónoma las funciones previstas en este artículo respecto a los medios de titularidad estatal, se entenderán limitadas al ámbito territorial de dicha comunidad, y serán ejercidas en los términos previstos en esta Ley por la Junta Electoral de la Comunidad Autónoma o, en el supuesto de que está no esté constituida, por la Junta Electoral de la provincia cuya capital ostente la de la Comunidad. En el mismo supuesto la Junta Electoral de Comunidad Autónoma tiene respecto a los medios de comunicaciones dependientes de la Comunidad Autónoma o de los municipios de su ámbito, al menos, las competencias que este artículo atribuye a la Junta Electoral Central, incluida la de dirección de una Comisión de Radio Televisión si así lo prevé la legislación de la Comunidad Autónoma que regule las elecciones a las respectivas Asambleas Legislativas.
