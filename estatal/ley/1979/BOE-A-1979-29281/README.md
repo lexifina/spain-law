@@ -38,6 +38,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final primera](primera.md)
 - [Disposición final segunda](segunda.md)
 - [Disposición final tercera](tercera.md)
+- [Disposición final cuarta](cuarta.md)
 - [Disposición derogatoria primera](primera-2.md)
 - [Disposición derogatoria segunda](segunda-2.md)
 - [firma](firma.md)
