@@ -41,6 +41,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 19](art19.md)
 - [Disposición adicional primera](primera.md)
 - [Disposición adicional segunda](segunda.md)
+- [Disposición adicional tercera](tercera.md)
 - [Disposición transitoria primera](primera-2.md)
 - [Disposición transitoria segunda](segunda-2.md)
 - [Disposición final primera](primera-3.md)
