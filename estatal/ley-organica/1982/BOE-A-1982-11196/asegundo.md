@@ -6,6 +6,10 @@ Dos. No se apreciará la existencia de intromisión ilegítima en el ámbito pro
 
 La previa autorización será tramitada por el procedimiento previsto para los suplicatorios.
 
+> Declarada la inconstitucionalidad y nulidad del inciso destacado del apartado 2 por Sentencia del TC 9/1990 de 18 de enero. Ref. BOE-T-1990-3964.
+
 Tres. El consentimiento a que se refiere el párrafo anterior será revocable en cualquier momento, pero habrán de indemnizarse en su caso, los daños y perjuicios causados, incluyendo en ellos las expectativas justificadas.
+
+> Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 2 por Sentencia del TC 9/1990 de 18 de enero. Ref. BOE-T-1990-3964.
 
 > Se modifica el apartado 2 por el art. único de la Ley Orgánica 3/1985, de 29 de mayo. Ref. BOE-A-1985-9861.
