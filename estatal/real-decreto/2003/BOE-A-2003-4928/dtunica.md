@@ -1,0 +1,3 @@
+## Disposición transitoria única. Prórroga de comercialización.
+
+Los requisitos establecidos en este Real Decreto para el «BADGE» no serán de aplicación a los materiales y objetos cubiertos por productos de revestimiento y adhesivos que entren en contacto con productos alimenticios antes de la entrada en vigor de este Real Decreto. Dichos materiales y objetos podrán seguir siendo comercializados siempre que la fecha de envasado aparezca en aquéllos, y cumplan con los requisitos establecidos en el Real Decreto 1334/1999, de 31 de julio, por el que se aprueba la norma general de etiquetado, presentación y publicidad de los productos alimenticios, y posteriores modificaciones.
