@@ -1,5 +1,5 @@
 ## Artículo veintinueve.
 
-Las Empresas podrán solicitar del Instituto Nacional de Empleo la formación o reconversión profesional de los trabajadores de nuevo ingreso.
+(Derogado)
 
-Las Empresas y el Instituto Nacional de Empleo concertarán los términos en los que se hayan de desarrollar las acciones de formación.
+> Se deroga por la disposición derogatoria del Real Decreto 1451/1983, de 11 de mayo. Ref. BOE-A-1983-15813.

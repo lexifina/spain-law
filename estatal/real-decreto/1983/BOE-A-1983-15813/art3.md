@@ -1,0 +1,5 @@
+## Art. 3.
+
+1. Los trabajadores que, con arreglo al artículo anterior tengan derecho a ser readmitidos, deberán comunicarlo a la Empresa, y a los representantes del personal, en el plazo de un mes, contado a partir de la declaración de aptitud por el organismo correspondiente. La Empresa deberá poner en conocimiento de los trabajadores que se encuentren en tal situación, las vacantes que existan de igual o inferior categoría, quedando liberada de su obligación desde el momento en que el trabajador rechace un puesto de trabajo de igual categoría a la que ostentaba en la Empresa o de categoría inferior si no hubiese obtenido la plena recuperación para su profesión habitual, que no implique cambio de residencia.
+
+2. Cuando la Empresa tenga varios Centros de trabajo y la vacante que exista implique cambio de residencia, el trabajador podrá optar entre ocuparla o esperar a que exista plaza en el Centro de trabajo donde tenga establecida su residencia. En el primer supuesto mantendrá su preferencia para ocupar la primera vacante de su categoría o grupo profesional que se produzca en el Centro de trabajo originario.
