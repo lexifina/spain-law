@@ -92,9 +92,11 @@ Para la evaluación de los daños en parcelas en las que se haya dejado las mues
 
 5.3.2 Daños sobre plantas madres:
 
-5.3.2.1 Daños en cantidad. Se obtendrán teniendo en cuenta los siguientes puntos:
+5.3.2.1 Daños en cantidad y calidad por defoliación y tronchado de plantas.
 
-Cuantificación porcentual de las caídas y tronchadas a consecuencia del siniestro.
+Se obtendrán teniendo en cuenta los siguientes puntos:
+
+Cuantificación porcentual de las piñas y plantas caídas, y plantas tronchadas a consecuencia del siniestro.
 
 Estimación de la pérdida de peso de la piña con recolección posterior al siniestro, debido a la incidencia del riesgo cubierto sobre la masa foliar.
 
@@ -102,7 +104,7 @@ Estos daños se obtendrán según la tabla I en función del porcentaje de masa 
 
 El daño total en cantidad producido se obtendré como suma de las anteriores apreciaciones y una vez referidas estas a la producción real esperada de la parcela, obteniéndose en un porcentaje final de la misma.
 
-5.3.2.2 Daños en calidad. La valoración de estos daños se realizará sobre las plantas madres elegidas como muestras, de la siguiente forma:
+5.3.2.2 Daños en calidad (en manos afectadas por rozaduras). La valoración de estos daños se realizará sobre las plantas madres elegidas como muestras, de la siguiente forma:
 
 1. Se tipificaran las manos existentes en las piñas de las plantas madres, según la sintomatología del daño, de acuerdo con la tabla II.
 
@@ -140,29 +142,29 @@ El Acta de Tasación recogerá, cuando proceda, según la normativa aplicable la
 
 1.1 Ajustando la producción asegurada a la real esperada, como consecuencia de las condiciones climáticas (orientación, vertiente y altura); y estado vegetativo, sanitario y cultural existentes durante el período de garantías del seguro, deduciéndose las pérdidas ocasionada por siniestro no amparado por el seguro.
 
-No podrá considerarse como producción real esperada, aquella producción de las plantas madre paridas, que no alcanzara las características comerciales típicas de la variedad para ser recolectadas, antes de la finalización del periodo de garantía y la que no podría comercializarse legalmente por incumplimiento de las Normas de Calidad vigentes pan el mercado interior por causas no imputables a los riesgos garantizados
+No podrá considerarse como producción real esperada, aquella producción de las plantas madres paridas que no alcanzara las características comerciales típicas de la variedad para ser recolectadas antes de la finalización del período de garantía fijado en las condiciones especiales, y la que no podría comercializarse legalmente por incumplimiento de las Normas de Calidad vigentes para el mercado interior por causas no imputables a los riesgos garantizados.
 
 2. Para las plantas hijas. Se estimará la producción potencial que se hubiera obtenido de las plantas hijas en la parcela siniestrada ajustándose ésta como máximo a la producción potencial esperada de las plantas madres.
 
 TABLA I
 
-Daños en cantidad
+Daños en cantidad y calidad por defoliación
 
-| Porcentaje de foliación | Fase vegetativas-plantas madres |
+| Porcentaje de foliación | Fase vegetativa plantas madres |
 | --- | --- |
 | A | B | C | D | E | F |
-| P2 | P1 |
+| P2 | P1 |  |  |  |  |  |
 | Hasta condiciones mínimas | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 10 | 0 | 0 | 5 | 0 | 0 | 0 | 0 |
-| 20 | 0 | 10 | 25 | 20 | 10 | 0 | 0 |
-| 30 | 5 | 25 | 45 | 40 | 35 | 10 | 0 |
-| 40 | 15 | 50 | 60 | 55 | 50 | 25 | 0 |
-| 50 | 30 | 60 | 80 | 75 | 60 | 35 | 5 |
-| 60 | 40 | 70 | 80 | 80 | 70 | 45 | 5 |
-| 70 | 50 | 80 | 90 | 90 | 80 | 50 | 5 |
-| 80 | 70 | 90 | 100 | 100 | 90 | 55 | 10 |
-| 90 | 85 | 100 | 100 | 100 | 90 | 60 | 10 |
-| 100 | 95 | 100 | 100 | 100 | 100 | 65 | 10 |
+| 20 | 0 | 10 | 25 | 20 | 10 | 5 | 0 |
+| 30 | 10 | 25 | 45 | 40 | 35 | 10 | 0 |
+| 40 | 20 | 45 | 60 | 55 | 50 | 25 | 0 |
+| 50 | 35 | 60 | 80 | 75 | 60 | 35 | 5 |
+| 60 | 50 | 70 | 80 | 80 | 70 | 45 | 5 |
+| 70 | 60 | 80 | 90 | 90 | 80 | 50 | 10 |
+| 80 | 80 | 90 | 100 | 100 | 100 | 55 | 10 |
+| 90 | 90 | 100 | 100 | 100 | 100 | 60 | 10 |
+| 100 | 100 | 100 | 100 | 100 | 100 | 65 | 10 |
 
 Fase vegetativa
 
@@ -198,6 +200,8 @@ E. Periodo entre el desbellotado si se realiza, y el marcado de los racimos o ha
 
 F. Período desde el marcado de los racimos si se realiza, o bien quince días antes de la recolección hasta la misma.
 
+Nota: Los estados fenológicos C, D y E se consideran equidistantes en período de tiempo.
+
 TABLA II
 
 ## Porcentajes de daños en calidad (en manos afectadas por rozaduras)
@@ -217,5 +221,7 @@ Extra: 1,25.
 Primera: 0,75.
 
 Segunda: 0,35.
+
+> Se modifica por el Anexo de la Orden de 30 de julio de 1992. Ref. BOE-A-1992-19305
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 256, de 25 de octubre de 1989. Ref. BOE-A-1989-24938
