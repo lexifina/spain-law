@@ -59,3 +59,5 @@ Dos. La Ordenanza reguladora de la tarifa especial a que se refiere el apartado 
 Tres. Contra el acuerdo ministerial y la resolución del Consejo de Ministros relativo a la aprobación o modificación de las ordenanzas, sólo se dará el recurso contencioso-administrativo,
 
 Cuatro. El Gobierno podrá, oída la Junta Económica Interprovincial de Canarias, modificar la tarifa especial de la Ordenanza para acomodarla a los convenios internacionales firmados por España o a los que se adhiera.
+
+> Se deroga, en lo relativo a la Tarifa General del Arbitrio Insular a la Entrada de Mercancías, por la disposición derogatoria 1.b) de la Ley 20/1991, de 7 de junio. Ref. BOE-A-1991-14463.
