@@ -11,7 +11,9 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 ## Bloques
 
 - [preambulo](preambulo.md)
+- [Artículo primero](aprimero.md)
 - [Artículo segundo](asegundo.md)
+- [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
