@@ -1,0 +1,7 @@
+La Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, establece en la letra a) del apartado ocho del artículo 5 una tasa por la realización, por el Organismo Autónomo Comisionado para el Mercado de Tabacos, de actividades que comporten prestaciones de servicios a los diferentes operadores que ejerzan su actividad en el ámbito del mercado de tabacos, conforme a lo previsto en el anexo de la Ley. El punto 1, apartado c) del citado Anexo, introduce en nuestro ordenamiento jurídico la tasa por concesión y renovación de autorización de puntos de venta con recargo de labores de tabaco.
+
+Pues bien, en fecha 2 de abril de 2003, se ha publicado la Orden HAC/729/2003, de 28 de marzo del Ministro de Hacienda por la que se establecen los supuestos y las condiciones generales para el pago por vía telemática de las tasas que constituyen recursos de la Administración General del Estado y sus Organismos Públicos.
+
+Por todo ello, en uso de la habilitación contenida en el artículo 37 del Real Decreto 1199/1999, de 9 de julio, por el que se desarrolla la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria y se regula el estatuto concesional de la red de expendedurías de tabaco y timbre, y al objeto de poder llevar a cabo la presentación de la autoliquidación y pago de la tasa por medios telemáticos, de acuerdo con lo previsto en el apartado Tercero de la Orden HAC/729/2003, previo informe del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria,
+
+DISPONGO:

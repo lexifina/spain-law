@@ -1,0 +1,9 @@
+## Quinto. Actuaciones del expendedor.
+
+1. Los expendedores que puedan realizar sus actuaciones por vía telemática, deberán comprobar los puntos de venta con recargo que han escogido su expendeduría como expendeduría de suministro. Para ello se identificarán ante el sistema con su código de expendeduría y su certificado de expendedor conforme a las condiciones establecidas en el apartado Cuarto.1, b) de esta Resolución.
+
+2. Una vez comprobada la autenticidad del certificado del expendedor, el sistema le presentará las solicitudes que han escogido su expendeduría como expendeduría de suministro, mostrando el estado de tramitación de la solicitud y todos los datos de la misma, entre otros si se ha abonado ya la tasa y el NRC de la transacción.
+
+3. Si la tasa ya ha sido abonada, el expendedor deberá firmar electrónicamente la solicitud para dar cumplimiento a lo determinado en el artículo 37 del Real Decreto 1199/1999, de 9 de julio, por el que se desarrolla la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria y se regula el estatuto concesional de la red de expendedurías de tabaco y timbre.
+
+4. Instruido el procedimiento de autorización realizando las comprobaciones pertinentes, el Comisionado dictará y notificará la resolución, tanto al solicitante como al expendedor de suministro elegido por el mismo. Cuando la resolución sea estimatoria, se emitirá el cartel de autorización correspondiente, que será remitido por correo ordinario y por correo electrónico tanto al expendedor como al solicitante, quien deberá exhibirlo en sitio visible. En caso de resolución denegatoria, se notificará la resolución por correo ordinario y por correo electrónico, tanto al solicitante como al expendedor elegido, con indicación expresa y motivada de las causas de la denegación.
