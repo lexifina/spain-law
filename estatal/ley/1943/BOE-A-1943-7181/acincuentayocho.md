@@ -14,9 +14,9 @@ b) La oposición se realizará siempre en Madrid, en turno único y ante Tribuna
 
 c) Los ejercicios para la oposición serán orales, escritos, teóricos y prácticos, sin que puedan faltar entre ellos algunos que sirvan para valorar las publicaciones científicas, la labor docente anterior del candidato y su concepto y método de la disciplina, así como sus condiciones pedagógicas.
 
-d) Para tomar parte en la oposición serán requisitos indispensables:
+d) Para tomar parte en las oposiciones serán requisitos indispensables:
 
-Primero.—La posesión del título de Doctor en la Facultad corrependiente de Universidad del Estado.
+Primero.—La posesión del título de Doctor en Facultad Universitaria o Escuela Técnica Superior.
 
 Segundo.—La presentación de un trabajo científico escrito expresamente para la oposición.
 
@@ -31,5 +31,7 @@ Sexto.—Los demás trámites e informes que el Reglamento determine.
 e) El nombramiento de los Catedráticos numerarios de Facultad se hará siempre, a propuesta del Tribunal juzgador, por el Ministerio de Educación Nacional.
 
 f) Nombrado Catedrático numerario el propuesto por el Tribunal, tomará posesión de su Cátedra, sin perjuicio de hacerlo solemnemente el día de la inauguración del curso académico.
+
+> Se modifica la letra d).1 por el art. 1 de la Ley 2/1963, de 2 de marzo. Ref. BOE-A-1963-4956.
 
 > Se modifica la letra a) por el art. 1 de la Ley de 16 de diciembre de 1954. Ref. BOE-A-1954-15533.
