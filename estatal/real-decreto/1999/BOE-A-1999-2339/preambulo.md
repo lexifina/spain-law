@@ -1,0 +1,21 @@
+El Parque Móvil Ministerial fue creado por Decreto de 28 de septiembre de 1935, con la denominación de Parque Móvil de Ministerios Civiles, Vigilancia y Seguridad, coexistiendo con los de Guerra y Marina y de la Guardia Civil. Más tarde, fue regulado por Decreto 9 de marzo de 1940, configurándolo como el Organismo del Estado en el que se concentran los servicios de automovilismo de todos los Departamentos civiles, excepto los servicios provinciales de Obras Públicas.
+
+Posteriormente, el Decreto 2764/1967, de 23 de noviembre, cambió su adscripción orgánica, pasando a depender del Ministerio de Hacienda, a la vez que impulsaba el proceso de concentración de los servicios automovilísticos del Estado, mientras el Decreto 151/1968, de 25 de enero, pasa a denominarlo Parque Móvil Ministerial.
+
+Hasta la entrada en vigor de lo dispuesto en el presente Real Decreto, el Parque Móvil Ministerial se encontraba regulado por el Real Decreto 280/1987, de 30 de enero, que lo configuraba como un organismo autónomo de carácter comercial, de los comprendidos en el apartado 1.b) del artículo 4 de la Ley General Presupuestaria, adscrito al Ministerio de Economía y Hacienda a través de la Subsecretaría del Departamento.
+
+Por último, la reciente publicación de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, ha procedido a adaptar, en su artículo 60, determinados organismos autónomos de carácter comercial, industrial, financiero o análogo a lo establecido en la disposición transitoria tercera de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, entre los que se encuentra el Parque Móvil Ministerial.
+
+El Tribunal de Cuentas, en el Informe de Fiscalización del Parque Móvil Ministerial referido al ejercicio de 1994, recomienda la realización de una profunda remodelación estructural del organismo, lo que conduciría a su transformación en un organismo autónomo puramente administrativo, debiendo contemplarse también la supresión de los Parques Provinciales.
+
+Mediante el presente Real Decreto, se pretende adecuar la prestación de los servicios automovilísticos del Estado a la nueva realidad político-económica del momento actual, a todas luces distinta de la que diera lugar a la creación del Parque Móvil Ministerial, cuya permanencia, a pesar de las modificaciones paulatinamente introducidas en su estructura y funcionamiento, no oculta un anquilosamiento en el tiempo difícilmente sostenible dentro del marco jurídico establecido por las leyes más recientes.
+
+Las importantes medidas de control que se establecen en el capítulo V, tienen como objetivo incrementar la exigencia de su cumplimiento, elevando el rango de lo que ahora son resoluciones internas del propio organismo, dando cumplimiento a los acuerdos adoptados por Resolución de 31 de marzo de 1998, aprobada por la Comisión Mixta para las Relaciones con el Tribunal de Cuentas, en relación al informe de fiscalización del Organismo autónomo Parque Móvil Ministerial, ejercicio de 1994.
+
+Se trata, en definitiva, de modernizar el organismo autónomo modificando su denominación, adecuándolo al nuevo ordenamiento jurídico-político, dotándolo de nuevos mecanismos de planificación y control, de programación de objetivos y de gestión eficiente que posibilite la consecución de los fines que tiene asignados.
+
+Se debe destacar que la disposición final primera del presente Real Decreto prevé la integración de los servicios periféricos del Parque Móvil del Estado en las Delegaciones y Subdelegaciones del Gobierno, en virtud de lo que establece el artículo 33 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, lo que supondrá, tras la publicación del Real Decreto de integración, la culminación del proceso de reestructuración del organismo autónomo, dando así cumplimiento a las recomendaciones del Tribunal de Cuentas en lo que se refiere a los servicios periféricos del organismo.
+
+En su virtud, a propuesta conjunta de los Ministros de Administraciones Públicas y de Economía y Hacienda, y previa deliberación del Consejo de Ministros, en su reunión del día 29 de enero de 1999,
+
+DISPONGO:
