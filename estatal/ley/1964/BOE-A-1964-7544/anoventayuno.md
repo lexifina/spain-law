@@ -1,0 +1,3 @@
+## Artículo noventa y uno.
+
+La infracción de los preceptos legales y reglamentarios sobre extracción, tratamiento y obtención de minerales radiactivos, registro y comunicación de datos, métodos de trabajo, condiciones de seguridad técnica o sanitaria del personal, manipulación, transporte, utilización y desecho de materiales e isótopos radiactivos, así como de los referentes al montaje y explotación de las instalaciones nucleares o de cualquier otra instalación que produzca o trabaje con materiales radiactivos o trabaje con dispositivos que generen radiaciones ionizantes, será sancionada gubernativamente.

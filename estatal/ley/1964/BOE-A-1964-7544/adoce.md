@@ -1,0 +1,3 @@
+## Artículo doce.
+
+La Junta de Energía Nuclear para realizar las funciones que se le encomiendan en la presente Ley queda genéricamente facultada, a los efectos del artículo doce de la Ley sobre Régimen Jurídico de Entidades Estatales Autónomas, a efectuar todas las operaciones necesarias, tales como la prestación de fianzas o cauciones, el concierto de operaciones de crédito con Bancos o instituciones legalmente autorizadas, la apertura de cuentas corrientes, la constitución, transmisión modificación, extinción y cancelación de garantías hipotecarias sobre terrenos adquiridos, inmuebles construidos o instalaciones de su propiedad, así como pignoraticias y de prenda sin desplazamiento.
