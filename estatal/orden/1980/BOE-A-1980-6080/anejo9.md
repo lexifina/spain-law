@@ -74,6 +74,10 @@ E) Aditivos autorizados: Las siguientes estipulaciones relativas a los aditivos 
 
 (1) De grado de polimerización superior a 3.
 
+> Téngase en cuenta que se derogan los colorantes del apartado E) por la disposición derogatoria única.32 del Real Decreto 2001/1995, de 7 de diciembre. Ref. BOE-A-1996-1387. y los antioxidantes, emulsionantes, estabilizantes y espesantes por la disposición derogatoria única.64 del Real Decreto 145/1997, de 31 de enero. Ref. BOE-A-1997-6156.
+
+> Se derogan los antioxidantes, emulsionantes, estabilizantes y espesantes por la disposición derogatoria única.64 del Real Decreto 145/1997, de 31 de enero. Ref. BOE-A-1997-6156.
+
 > Se derogan los colorantes del apartado E) por la disposición derogatoria única.32 del Real Decreto 2001/1995, de 7 de diciembre. Ref. BOE-A-1996-1387.
 
 > Se añade por art.1 de la Orden de 6 de abril de 1987. Ref. BOE-A-1987-8695.

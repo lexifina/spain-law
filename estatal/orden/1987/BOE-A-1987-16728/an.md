@@ -38,7 +38,7 @@ Solamente podrán utilizarse, en las dosis que se indican, los siguientes:
 
 4.2.2 Bija o achiote, en dosis máxima, de 600 mg/kg de producto terminado.
 
-4.2.3 Los aditivos que figuren en los apartados 7.1.2, 7.1.3 y 7.2.1, del anexo 1 de la Orden de la Presidencia del Gobierno de 29 de noviembre de 1985 por la que se aprueba la norma de calidad para quesos y quesos fundidos, destinados al mercado interior.
+4.2.3 (Derogado)
 
 4.3 Coadyuvantes tecnológicos.
 
@@ -163,3 +163,5 @@ Cuando la elaboración de un queso se realice bajo marca de un distribuidor, ade
 7.2 Rotulación.
 
 Se atendrá exactamente a lo dispuesto en el anexo 1 de la Orden de la Presidencia del Gobierno de 29 de noviembre de 1985 por la que se aprueba la norma de calidad para quesos y quesos fundidos.
+
+> Se deroga el apartado 4.2.3 por la disposición derogatoria única.14 del Real Decreto 145/1997, de 31 de enero. Ref. BOE-A-1997-6156

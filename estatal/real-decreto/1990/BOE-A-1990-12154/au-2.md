@@ -287,52 +287,17 @@ Los aditivos que se indican deberán responder a lo establecido en las normas vi
 
 5.2.1 Colorantes. (Derogado).
 
-5.2.2 Conservadores.
+5.2.2 Conservadores. (Derogado).
 
-| Número | Denominación | Dosis máxima de uso | Condiciones de empleo |
-| --- | --- | --- | --- |
-| E-200 | Ácido sórbico. | 1.000 ppm. expresado en ácido sórbico. | En todos los productos definidos en el apartado 2, cuando el contenido en materia seca soluble sea inferior al 65 por 100. Cuando estos conservadores se utilicen en combinación se hará en cantidades tales que la suma de los porcentajes de cada una de ellas, referida a su dosis máxima, no sobrepase 100. |
-| E-202 | Sorbato potásico. |
-| E-210 | Ácido benzoico. | 750 ppm. expresado en ácido benzoico. |
-| E-211 | Benzoato sódico. |
+5.2.3 Antioxidantes. (Derogado).
 
-5.2.3 Antioxidantes.
+5.2.4 Emulgentes, estabilizantes, espesantes y gelificantes. (Derogado).
 
-| Número | Denominación | Dosis máxima de uso | Condiciones de empleo |
-| --- | --- | --- | --- |
-| E-300 | Ácido L-ascórbico. | En cantidad necesaria para que tenga efecto antioxidante. | En todos los productos definidos en el apartado 2. |
-
-5.2.4 Emulgentes, estabilizantes, espesantes y gelificantes.
-
-| Número | Denominación | Dosis máxima de uso | Condiciones de empleo |
-| --- | --- | --- | --- |
-| E-400 | Ácido algínico. | 1 por 100 sobre producto terminado. | En todos los productos definidos en el apartado 2. |
-| E-401 | Alginato sódico. |
-| E-407 | Carragenanos. |
-| E-410 | Goma de garrofín. |
-| E-440 i) | Pectina. |
-| ii) | Pectina amidada. |
-
-5.2.5 Acidulantes y correctores de la acidez.
-
-| Número | Denominación | Dosis máxima de uso | Condiciones de empleo |
-| --- | --- | --- | --- |
-| E-270 | Ácido láctico. | En la cantidad necesaria para regular el pH. | En todos los productos definidos en el apartado 2. |
-| E-325 | Lactato sódico. |
-| E-330 | Ácido cítrico. |
-| E-331 | Citratos de sodio. |
-| E-333 | Citratos de calcio. |
-| E-334 | Ácido tartárico. |
-| E-335 | Tartratos de sodio. |
-| E-337 | Lactato cálcico. | B.P.F. |
+5.2.5 Acidulantes y correctores de la acidez. (Derogado).
 
 6. Contenidos máximos en anhídrido sulfuroso de los productos definidos en el apartado 2
 
-El contenido en anhídrido sulfuroso de los productos definidos en el apartado 2 no deberá sobrepasar:
-
-6.1 Diez miligramos por kilogramo, en el caso de los productos definidos en los apartados 2.1, 2.3. 2.6 y 2.7.
-
-6.2 Cincuenta miligramos por kilogramo, en el caso de los productos definidos en los apartados 2.2, 2.4, 2.5 y 2.8.
+(Derogado).
 
 7. Etiquetado y rotulación
 
@@ -379,6 +344,8 @@ Si no tienen corteza, indicar «sin corteza».
 7.4.3 Cuando el contenido residual de anhídrido sulfuroso de un producto supere los 30 miligramos por kilogramo, la mención «anhídrido sulfuroso» deberá indicarse en la lista de ingredientes en función de la importancia ponderal del residuo en el producto acabado.
 
 7.4.4 En el caso de productos fabricados a partir de tres o más frutas, se admite que la enumeración de las frutas utilizadas en la lista de ingredientes se sustituya por la mención «frutas».
+
+> Se derogan los apartados 5.2.2, a 5.2.5 y 6 por la disposición derogatoria única.33 del Real Decreto 145/1997, de 31 de enero. Ref. BOE-A-1997-6156
 
 > Se deroga el apartado 5.2.1 por la disposición derogatoria única.11 del Real Decreto 2001/1995, de 7 de diciembre. Ref. BOE-A-1996-1387#ddunica
 
