@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 184, de 3 de agosto de 1983. Ref. BOE-A-1983-21197.
+Norma derogada, excepto los arts. 45, 46 y 47 en materia de fiestas laborales, con efectos de 27 de septiembre de 1995, por la disposición derogatoria única del Real Decreto 1561/1995, de 21 de septiembre. Ref. BOE-A-1995-21346#ddunica.
