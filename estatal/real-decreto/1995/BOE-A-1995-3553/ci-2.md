@@ -1,19 +1,27 @@
 ## CAPÍTULO I
 
-## Leche líquida, leche en polvo y productos a base de leche en polvo para usos distintos del consumo humano
+## Leche, productos lácteos y calostro no destinados al consumo humano
 
-Los intercambios intracomunitarios y las importaciones de leche líquida, leche en polvo y productos a base de leche en polvo para usos distintos del consumo humano estarán sujetos a las siguientes condiciones:
+Los intercambios comerciales intracomunitarios y las importaciones de leche, productos lácteos y calostro que no se destinen al consumo humano estarán sometidas a las condiciones siguientes:
 
-1) El recipiente, cualquiera que sea, en el que se transporten los productos deberá llevar una indicación que precise la naturaleza del producto de que se trate.
+1) El recipiente, cualquiera que sea, en el que se transporten los productos deberá llevar una indicación en la que se precise la naturaleza de éstos.
 
-2) Cada lote irá acompañado, según proceda, del documento comercial previsto en el párrafo a) 7.º, del apartado 2, del artículo 4, o del certificado sanitario previsto en el párrafo c), del apartado 2, del artículo 10, con el nombre y número de autorización del establecimiento de transformación o de tratamiento, en el que se declarará que el producto ha sido sometido a un tratamiento térmico conforme a lo dispuesto en el párrafo a) del apartado 3, documento o certificado que deberá conservar el destinatario durante un año como mínimo.
+2) Todos los lotes deberán ir acompañados, según proceda, del documento comercial mencionado en el párrafo a) 7.º del apartado 2 del artículo 4 o del certificado sanitario a que se refiere el párrafo c) del apartado 2 del artículo 10, en los que deberá figurar el nombre y el número de autorización del establecimiento de transformación o de tratamiento. El destinatario deberá conservar el documento o el certificado durante un año como mínimo.
 
-3) El documento o certificado mencionado en el apartado 2 deberá acreditar:
+3) El documento o el certificado mencionados en el apartado 2 deberán acreditar lo siguiente:
 
-a) Que durante la transformación o el tratamiento, la leche estuvo sometida a una temperatura mínima de 71,7 ºC durante menos de quince segundos o cualquier otra combinación equivalente, o, en el caso de la leche en polvo o de los productos a base de leche en polvo, que el tratamiento térmico por atomización o molido garantiza un resultado equivalente.
+a) Si se trata de leche cruda o de calostro, que se han producido en condiciones que ofrecen garantías suficientes en materia de salud animal; estas condiciones deberán establecerse con arreglo al procedimiento previsto en la normativa comunitaria.
 
-b) En el caso de la leche en polvo y de los productos a base de leche en polvo, que se han cumplido las siguientes condiciones: que una vez completado el proceso de desecado, se tomaron todas las medidas necesarias para evitar la contaminación del producto; que el producto acabado se embaló en recipientes nuevos.
+b) Si se trata de leche o de productos lácteos tratados o transformados, que han sido sometidos a un tratamiento térmico a una temperatura mínima de 72 ºC durante al menos quince segundos o a cualquier combinación de efecto equivalente y que obtenga una reacción negativa a la prueba de la fosfatasa y, a continuación: en el caso de leche en polvo o de productos lácteos en polvo, a un procedimiento de desecación; en el caso de un producto lácteo acidificado, a un procedimiento gracias al cual el pH se haya reducido por debajo de 6, habiéndose mantenido ese valor al menos una hora.
 
-c) Y que, en el caso de que se utilicen contenedores de transporte a granel, antes de que la leche líquida, la leche en polvo o los productos a base de leche en polvo se cargaran en un vehículo o contenedor para su traslado a su destino, se desinfectó dicho vehículo o contenedor mediante un producto aprobado por las autoridades competentes.
+c) Si se trata de leche en polvo o de productos lácteos en polvo, que se han cumplido las condiciones siguientes:
 
-Además, sólo podrán autorizarse las importaciones de leche líquida, leche en polvo y productos a base de leche en polvo que procedan de países terceros o de partes de países terceros incluidos en las listas establecidas por la Comisión Europea.
+1.ª Una vez finalizado el proceso de desecación, se tomaron todas las precauciones necesarias para evitar la contaminación del producto.
+
+2.ª El producto final se embaló en recipientes nuevos.
+
+d) Que en caso de utilizarse recipientes de transporte a granel, antes de que la leche, los productos lácteos o el calostro se cargaran en el vehículo o el contenedor utilizados para su traslado al lugar de destino, dicho vehículo o contenedor fueron desinfectados con un producto autorizado por las autoridades competentes.
+
+4) Además de los requisitos mencionados en los apartados 1), 2) y 3), la leche, los productos lácteos y el calostro que no se destinen al consumo humano sólo podrán importarse si proceden de terceros países incluidos en las listas previstas en el artículo 22 del Real Decreto 1679/1994, de 22 de julio, por el que se establecen las condiciones sanitarias aplicables a la producción y comercialización de leche cruda, leche tratada térmicamente y productos lácteos, y cumplen las condiciones establecidas en dicho artículo. Asimismo, se estará a las condiciones suplementarias que la normativa comunitaria establezca, en su caso, si existe riesgo de introducción de una enfermedad exótica o si se produce cualquier otra situación que suponga un peligro para la salud animal.
+
+> Se modifica por el art. único.2 y anexo I del Real Decreto 74/1998, de 23 de enero. Ref. BOE-A-1998-1460.

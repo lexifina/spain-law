@@ -1,27 +1,53 @@
 ## CAPÍTULO III
 
-## Pieles de ungulados no cubiertas por los Reales Decretos 147/1993 y 110/1990, de 26 de enero, por el que se establecen las condiciones de sanidad animal que deben reunir las carnes frescas destinadas al comercio intracomunitario e importadas de países terceros
+## Pieles de ungulados no sujetas a lo dispuesto en los Reales Decretos 147/1993, de 29 de enero, y 110/1990, de 26 de enero, y que no han sido sometidas a determinados procesos de curtido
 
-Los intercambios y las importaciones procedentes de países terceros de pieles de ungulados estarán supeditadas a que cada lote vaya acompañado ya sea del documento comercial previsto en el párrafo 7.º de la letra a) del apartado 2 del artículo 4, ya sea de un certificado sanitario previsto en el párrafo b) del apartado 2 del artículo 10, que acrediten:
+I. Ámbito de aplicación
 
-1. Por lo que se refiere a las pieles de ungulados distintos de los porcinos:
+A) Las disposiciones del presente capítulo no se aplicarán:
 
-a) Que las pieles no proceden de animales originarios de una región o de un país sometidos a restricciones para la especie de que se trate debido a la aparición de una enfermedad transmisible grave.
+1. A las pieles de ungulados sujetas a los Reales Decretos 147/1993, de 29 de enero, por el que se establecen las condiciones sanitarias de producción y comercialización de carnes frescas, y 110/1990, de 26 de enero, por el que se establecen las condiciones de sanidad animal que deben reunir las carnes frescas destinadas al comercio intracomunitario e importadas de terceros países.
 
-b) Que las pieles se han secado y salado en seco o mediante salmuera o se han sometido a un tratamiento químico al menos catorce días antes de su expedición.
+2. A las pieles que hayan sido sometidas al proceso completo de curtido.
 
-c) Que el lote no ha estado en contacto con ningún otro producto de origen animal ni con animales vivos que presenten un riesgo de propagación de una enfermedad transmisible grave.
+3. A las pieles en estado «wetblues».
 
-No se exigirán dichas condiciones cuando las pieles hayan estado aisladas durante veintiún días o hayan sido sometidas a un transporte de veintiún días sin interrupción.
+4. A las pieles en tripa piqueladas.
 
-2. Por lo que se refiere a pieles de porcinos:
+5. A las pieles en estado «pieles encaladas» (tratamiento a la cal y en salmuera a un pH de 12-13 durante al menos ocho horas).
 
-a) Que los cerdos de los que proceden las pieles han permanecido en el país exportador desde al menos tres meses antes de su sacrificio.
+B) En el ámbito de aplicación definido en el párrafo A, las disposiciones del presente capítulo se aplicarán a las pieles frescas, refrigeradas o tratadas.
 
-b) Que las pieles se han secado o salado en seco o en salmuera o se han sometido a un tratamiento químico al menos catorce días antes de su expedición.
+A los efectos de la presente disposición, se entenderá por pieles tratadas las pieles que:
 
-c) Que no se ha declarado ningún brote de peste porcina africana ni de enfermedad vesicular porcina en el país de origen o, en caso de regionalización, en la región de origen, durante los doce meses anteriores a la expedición.
+1. Hayan sido secadas, o
 
-d) Que el lote no ha estado en contacto con ningún otro producto de origen animal ni con animales vivos que presenten un riesgo de propagación de una enfermedad transmisible grave.
+2. Hayan sido saladas en seco o en salmuera durante al menos catorce días antes de su expedición, o
 
-La importación de pieles no tratadas no se autorizará salvo si proceden de países terceros de los que está autorizada la importación de carne fresca de las especies correspondientes en aplicación de la normativa comunitaria.
+3. Hayan sido sometidas a una salazón, con sal marina adicionada con un 2 por 100 de carbonato sódico, durante siete días, o
+
+4. Hayan sido sometidas a un secado durante cuarenta y dos días a una temperatura mínima de 20 ºC.
+
+5. Hayan sido preservadas por un método que no sea el curtido, que se decidirá según el procedimiento previsto en la normativa comunitaria.
+
+II. Intercambios intracomunitarios
+
+A) Los intercambios comerciales de pieles frescas o refrigeradas estarán supeditados a las mismas condiciones sanitarias que las aplicables a las carnes frescas, de acuerdo con el Real Decreto 110/1990, de 26 de enero.
+
+B) Los intercambios de pieles tratadas autorizados siempre y cuando cada lote vaya acompañado del documento comercial establecido en el punto 7.º del párrafo a) del apartado 2 del artículo 4, que acredite que: Las pieles han sido tratadas de acuerdo con el punto I.B), y que el lote no ha estado en contacto con ningún otro producto de origen animal ni con animales vivos que presenten un riesgo de propagación de una enfermedad transmisible grave.
+
+III. Importaciones
+
+A) Las únicas importaciones autorizadas de pieles frescas o refrigeradas serán las procedentes de países terceros o partes de países terceros de los que esté autorizada la importación de todas las categorías de carne fresca de las especies correspondientes en aplicación de la normativa comunitaria.
+
+B) Las importaciones de pieles frescas o refrigeradas deberán satisfacer las condiciones sanitarias que se fijen según el procedimiento comunitario e ir acompañadas del certificado sanitario señalado en el párrafo c) del apartado 2 del artículo 10.
+
+C) Las importaciones de pieles tratadas procedentes de los países terceros enumerados en la parte 1 del anexo de la Decisión 79/542 estarán autorizadas siempre y cuando cada lote vaya acompañado de un certificado acorde con el modelo que fije la normativa comunitaria que acredite que:
+
+a) O bien, si las pieles proceden de animales originarios de una región de un país tercero o de un país tercero no sujetos, según la normativa comunitaria, a medidas de restricción como consecuencia de la aparición de una enfermedad transmisible grave a la que sean sensibles los animales de la especie de que se trate, han sido tratadas con arreglo al punto I.B); o bien si proceden de otras regiones de un país tercero o de otros países terceros, han sido tratadas de acuerdo con el tercer o cuarto apartados del punto I.B); y
+
+b) El lote no ha estado en contacto con ningún otro producto de origen animal ni con animales vivos que presenten riesgo de propagación de una enfermedad transmisible grave.
+
+D) No obstante, en las importaciones de cualquier país tercero de pieles de rumiantes tratadas según el punto I.B), que hayan permanecido aisladas durante veintiún días y hayan sido transportadas sin interrupción durante veintiún días, el certificado establecido en el punto C) se sustituirá por una declaración, acorde con el modelo que fije la normativa comunitaria, que acredite o demuestre que se han cumplido esas condiciones.
+
+> Se modifica por el art. único.2 y anexo I del Real Decreto 74/1998, de 23 de enero. Ref. BOE-A-1998-1460.
