@@ -20,6 +20,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 7](a7.md)
 - [Artículo 8](a8.md)
 - [Artículo 9](a9.md)
+- [Artículo 10](a10.md)
 - [Disposición transitoria](dt.md)
 - [Disposición final](df.md)
 - [firma](firma.md)
