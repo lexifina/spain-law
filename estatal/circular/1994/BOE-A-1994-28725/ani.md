@@ -83,7 +83,7 @@ COMISIÓN NACIONAL DEL MERCADO DE VALORES
 | 11.2 Otras periodificaciones | 0680 | . . . . . . . |
 | TOTAL ACTIVO | 0690 | . . . . . . . |
 
-En millones de pts
+En miles de euros
 
 |  | TOTAL |
 | --- | --- |
@@ -137,7 +137,7 @@ En millones de pts
 | 32.2 Otras periodificaciones | 1150 |  |
 | TOTAL PASIVO | 1160 |  |
 
-En millones de pts
+En miles de euros
 
 |  | TOTAL |
 | --- | --- |
@@ -241,7 +241,7 @@ En millones de pts
 | 9. Otros impuestos | 0610 | . . . . . . . |
 | VI. RESULTADO DEL EJERCICIO (BENEFICIOS) | 0620 | . . . . . . . |
 
-En millones de pts
+En miles de euros
 
 |  | TOTAL |
 | --- | --- |
@@ -277,7 +277,7 @@ En millones de pts
 | V. PERDIDAS ANTES DE IMPUESTOS | 0900 | . . . . . . . |
 | VI. RESULTADO DEL EJERCICIO (PERDIDAS) | 0910 | . . . . . . . |
 
-En millones de pts
+En miles de euros
 
 | ESTADO I03 | Página 1/3 |  | Mes Año | Sello y Firma |
 | --- | --- | --- | --- | --- |
@@ -293,7 +293,7 @@ A) COEFICIENTES
 
 | Día del mes |  | LIQUIDEZ COMPUTABLE |
 | --- | --- | --- |
-| Clave | Importe (en millones) |
+| Clave | Importe (en miles de euros) |
 | Fin mes anterior |  | 0010 | . . . . . . . . . |
 | Día | 1 | 0020 | . . . . . . . . . |
 | Día | 2 | 0030 | . . . . . . . . . |
@@ -341,7 +341,7 @@ B) VALOR LIQUIDATIVO, PATRIMONIO Y ACTIVO COMPUTABLE
 | Clave | Importe | Clave | Importe | Clave | Importe |
 | Mes anterior | 0410 | . . . . . . . . . | 0510 | . . . . . . . . . | 0550 | . . . . . . . . . |
 | Mes actual | 0420 | . . . . . . . . . | 0520 | . . . . . . . . . | 0560 | . . . . . . . . . |
-|  |  | (en pts) |  | (en millones) |  | (en millones) |
+|  |  | (en euros) |  | (en miles de euros) |  | (en miles de euros) |
 
 C) PARTÍCIPES Y PARTICIPACIONES, ACCIONISTAS Y ACCIONES EN CIRCULACIÓN
 
@@ -350,23 +350,23 @@ C) PARTÍCIPES Y PARTICIPACIONES, ACCIONISTAS Y ACCIONES EN CIRCULACIÓN
 | Clave | Unidades | Clave | Unidades | Clave | Unidades | Clave | Unidades |
 | Partícipes o acciones | 0610 | . . . . . . . | 0620 | . . . . . . . | 0630 | . . . . . . . | 0640 | . . . . . . . |
 | Participaciones o acciones | 0710 | . . . . . . . | 0720 | . . . . . . . | 0730 | . . . . . . . | 0740 | . . . . . . . |
-| Intervalo de inversión | N.º de Partícipes por intervalo | Volumen de inversión |
+| Intervalo de inversión (en euros) | N.º de Partícipes por intervalo | Volumen de inversión |
 | --- | --- | --- |
 | Clave | Unidades | Clave | Importe |
-| Más de 400,000.000 | 0810 | . . . . . . . . . . . | 1010 | . . . . . . . . . . . |
-| 200.000.001 - 400.000.000 | 0820 | . . . . . . . . . . . | 1020 | . . . . . . . . . . . |
-| 100.000.001 - 200.000.000 | 0830 | . . . . . . . . . . . | 1030 | . . . . . . . . . . . |
-| 50.000.001 - 100.000.000 | 0840 | . . . . . . . . . . . | 1040 | . . . . . . . . . . . |
-| 25.000.001 - 50.000.000 | 0850 | . . . . . . . . . . . | 1050 | . . . . . . . . . . . |
-| 10.000.001 - 25.000.000 | 0860 | . . . . . . . . . . . | 1060 | . . . . . . . . . . . |
-| 5.000.001 - 10.000.000 | 0870 | . . . . . . . . . . . | 1070 | . . . . . . . . . . . |
-| 1.000.001 - 5.000.000 | 0880 | . . . . . . . . . . . | 1080 | . . . . . . . . . . . |
-| Hasta 1.000.000 | 0890 | . . . . . . . . . . . | 1090 | . . . . . . . . . . . |
+| Más de 2.400,000,00 | 0810 | . . . . . . . . . . . | 1010 | . . . . . . . . . . . |
+| 1.200.000,01 - 2.400.000,00 | 0820 | . . . . . . . . . . . | 1020 | . . . . . . . . . . . |
+| 600.000,01 - 1.200.000,00 | 0830 | . . . . . . . . . . . | 1030 | . . . . . . . . . . . |
+| 300.000,01 - 600.000,00 | 0840 | . . . . . . . . . . . | 1040 | . . . . . . . . . . . |
+| 150.000,01 - 300.000,00 | 0850 | . . . . . . . . . . . | 1050 | . . . . . . . . . . . |
+| 60.000,01 - 150.000,00 | 0860 | . . . . . . . . . . . | 1060 | . . . . . . . . . . . |
+| 30.000,01 - 60.000,00 | 0870 | . . . . . . . . . . . | 1070 | . . . . . . . . . . . |
+| 6.000,01 - 30.000,00 | 0880 | . . . . . . . . . . . | 1080 | . . . . . . . . . . . |
+| Hasta 6.000,00 | 0890 | . . . . . . . . . . . | 1090 | . . . . . . . . . . . |
 | TOTAL | 0900 | . . . . . . . . . . . | 1100 | . . . . . . . . . . . |
 
 D) RESUMEN DE RESULTADOS ACUMULADOS EN EL AÑO Y SALDO DE ACREEDORES
 
-| Concepto | Saldos en millones |
+| Concepto | Saldos en miles de euros |
 | --- | --- |
 | Clave | Importe |
 | (A) Gastos de explotación | 2010 | . . . . . . . . . . . |
@@ -411,7 +411,7 @@ F) DESGLOSE DE LA CUENTA DE DEUDORES POR VENTA DE INMUEBLES
 |  |  |  |  |
 | TOTAL ADEUDADO | zz.zz.zz |  |  |
 
-En millones
+En miles de euros
 
 G) CONCENTRACIÓN DE INMUEBLES ARRENDADOS A ENTIDADES DEL MISMO GRUPO
 
@@ -425,7 +425,7 @@ G) CONCENTRACIÓN DE INMUEBLES ARRENDADOS A ENTIDADES DEL MISMO GRUPO
 | total grupo |  | . . . . . . . . . . . | . . . . . . . . . . . | . . . . . . . . . . . | . . . . . . . . . . . |
 | TOTAL % |  |  |  |  |  |
 
-En millones
+En miles de euros
 
 H) RELACIÓN DE VENTAS DE INMUEBLES EN EL MES
 
@@ -434,7 +434,7 @@ H) RELACIÓN DE VENTAS DE INMUEBLES EN EL MES
 | Denominación (5) | NIF (6) | NIF del grupo (7) |
 | TOTAL COMPRAS DEL MES |
 
-En millones
+En miles de euros
 
 I) RELACIÓN DE VENTAS DE INMUEBLES EN EL MES
 
@@ -443,7 +443,7 @@ I) RELACIÓN DE VENTAS DE INMUEBLES EN EL MES
 | Denominación (5) | NIF (6) | NIF del grupo (7) |
 | TOTAL VENTAS DEL MES |
 
-En millones
+En miles de euros
 
 J) RELACIÓN DE INMUEBLES CON CONTRATOS DE ALQUILER FIRMADOS O RENOVADOS EN EL MES
 
@@ -452,7 +452,7 @@ J) RELACIÓN DE INMUEBLES CON CONTRATOS DE ALQUILER FIRMADOS O RENOVADOS EN EL M
 | Denominación (4) | NIF (5) | NIF del grupo (6) |
 | TOTAL INMUEBLES ARRENDADOS |  |
 
-En millones
+En miles de euros
 
 | ESTADO I03 | Página 3/3 |  | Mes Año | Sello y Firma |
 | --- | --- | --- | --- | --- |
@@ -479,7 +479,7 @@ K) DETALLE DE MOROSOS POR ALQUILER Y VENTAS DE INMUEBLES CUYO VALOR SUPERA EL 1%
 |  | Total moroso |  |  |  |  |  |
 | TOTAL MOROSOS |  |  |  |  |  |  |
 
-En millones
+En miles de euros
 
 | ESTADO I04 |  | Día Mes Año |  |
 | --- | --- | --- | --- |
@@ -499,7 +499,7 @@ En millones
 | Fecha de inicio (14) | Valor de obras ejecutadas (15 | Saldo de prov. mes anterior última tasación (21) | Provisiones del mes (22) | Saldo mes anterior última tasación (24) | Pendientes de reconocer (25) | Reconocidas |
 | zzzzz-zzzzz | TOTAL CARTERA DE INMUEBLES |  |  |  |  |  |  |  |  |  |  |
 
-En millones de pesetas
+En miles de euros
 
 | ESTADO I04 | Página 2/3 | Día Mes Año | Sello y Firma |
 | --- | --- | --- | --- |
@@ -511,3 +511,5 @@ En millones de pesetas
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Existencias iniciales (6) | Entradas (7) | Salidas (8) | Existencias finales (9) |
 | zzzz | zzzzzzzzz |  |  |  | TOTAL CARTERA DE VALORES Y TESORERÍA |  |  |  |  |  |  |  |
+
+> Se modifica por la norma 3.V de la Circular 7/1998, de 16 de diciembre. Ref. BOE-A-1998-30048.

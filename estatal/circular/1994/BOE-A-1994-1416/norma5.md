@@ -70,4 +70,8 @@ En las operaciones por cuenta propia, las realizadas en virtud de mandatos gené
 
 5.º Efectivo de liquidación. Será el efectivo correspondiente a cada operación desglosada.
 
-6.º Entidad liquidadora. Se indicará ésta.
+6.º Moneda. Se indicará tipo de moneda.
+
+7.º Entidad liquidadora. Se indicará ésta.
+
+> Se modifica el apartado 3 por la norma 2.IV de la Circular 7/1998, de 14 de junio. Ref. BOE-A-1998-30048.
