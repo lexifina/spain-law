@@ -1,12 +1,16 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_016.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_017.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_018.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1998/66/06466_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_019.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/188/19106_020.png)
+
+> Se modifica por la Orden de 28 de julio de 1998. Ref. BOE-A-1998-19106.
 
 > Se modifica por la Orden de 9 de diciembre de 1997. Ref. BOE-A-1998-52.
 
