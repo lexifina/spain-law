@@ -1,0 +1,5 @@
+## Tercera. Autorización del matrimonio en Ayuntamiento de otra población.
+
+El artículo 57, II, del Código Civil permite que la prestación del consentimiento pueda realizarse, por delegación del instructor del expediente y a petición de los contrayentes, ante Juez, Alcalde o funcionario de otra población distinta. En estos casos, puesto que todas las actuaciones previas a la inscripción han de archivarse en el legajo de la Sección correspondiente del Registro (cfr. art. 259 del Reglamento del Registro Civil), lo procedente es que el instructor, una vez dictado el auto firme favorable, remita todo el expediente junto con la delegación al Registro Civil en cuya demarcación vaya a celebrarse el matrimonio.
+
+A su vez, este órgano registral, si la delegación ha sido a favor del Ayuntamiento de esa población, enviará a éste la relación de los datos de los contrayentes, a que se refiere el apartado anterior. Por lo demás, la ceremonia y la posterior inscripción deberán ajustarse a las mismas normas antes expuestas.
