@@ -1,3 +1,5 @@
 ## DISPOSICION ESPECIAL
 
-Estos funcionarios podrán exigir que les sea puesto a disposición el medio más rápido de locomoción, únicamente para la práctica de diligencias que hayan de realizar a más de dos kilómetros de la población de residencia.
+(Derogada)
+
+> Se deroga por el art. 2 del Decreto 1778/1971, de 8 de julio. Ref. BOE-A-1971-944.
