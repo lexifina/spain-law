@@ -200,7 +200,7 @@ Las empresas de seguridad con domicilio social en Ceuta y en Melilla, que preten
 
 En la actividad de vigilancia y protección de bienes, establecimientos, espectáculos, certámenes o convenciones, habrán de poseer un capital social de diez millones de pesetas y una plantilla de personal compuesta por un jefe de seguridad y doce vigilantes, al menos.
 
-II. De adaptación con arreglo a la evolución posterior
+II. De adaptación con arreglo a la evolución posterior.
 
 Las empresas de seguridad, durante la vigencia de la autorización, habrán de tener suscrito y desembolsado, al menos, el capital social que a continuación se determina, cuando concurran las circunstancias que asimismo se indican:
 
@@ -213,3 +213,33 @@ c) Las dedicadas a transporte y distribución, doscientos millones de pesetas, c
 d) Las de instalación y mantenimiento de ámbito estatal, cuarenta millones de pesetas, cuando durante dos años consecutivos superen los mil millones de pesetas de facturación.
 
 e) Las autorizadas para la explotación de centrales de alarmas, cincuenta millones de pesetas, cuando excedan de tres mil conexiones.
+
+III. Empresas de ámbito autonómico.
+
+1. Las cantidades determinantes de los mínimos de capital social, de garantía, y de seguro de responsabilidad civil, especificadas en el apar tado I de este anexo, como requisitos "De inscripción y autorización inicial", relativos a empresas de seguridad de ámbito autonómico, sean cuales fueren las actividaes que realicen o servicios que presten, quedarán reducidas al 75 por 100 o al 50 por 100, según que la población de derecho de las correspondientes Comunidades Autónomas sea inferior a 2.000.000 de habitantes y superior a 1.250.000, o inferior a 1.250.000 habitantes.
+
+No obstante, salvo que se trate de empresas de seguridad que tengan por objeto exclusivo la instalación o mantenimiento de aparatos, dispositivos y sistemas de seguridad, o el asesoramiento y planificación de actividades de seguridad, en ningún caso el capital social será inferior al establecido en la legislación sobre sociedades anónimas.
+
+2. Las cantidades determinantes de los mínimos de garantía, especificadas en el apartado I de este anexo, relativas a empresas de seguridad de ámbito autonómico, cualesquiera que fueren las actividades que realicen o servicios que presten, y cualquiera que fuere la población de derecho de las correspondientes Comunidades Autónomas, quedarán reducidas al 50 por 100 cuando se trate de empresas que, en el momento de la inscripción en el Registro, tengan una plantilla de menos de 50 trabajadores, y asimismo cuando, posteriormente, durante dos años consecutivos no superen los 100.000.000 de pesetas de facturación anual.
+
+La reducción establecida en este apartado 2 no será acumulable a la relativa al mínimo de garantía, comprendida en lo dispuesto en el apartado anterior.
+
+3. En los supuestos contemplados en los apartados 1 y 2 precedentes, no se computarán las cantidades por provincia, especificadas en el apartado I de este anexo, en cuanto a capital social y garantía, respecto a las provincias que tengan menos de 250.000 habitantes de población de derecho.
+
+4. Respecto a las empresas de seguridad, de ámbito autonómico, dedicadas exclusivamente a instalación y mantenimiento de aparatos, dispositivos y sistemas de seguridad, los requisitos establecidos en el apartado I.5 de este anexo, se aplicarán con las modificaciones que se especifican a continuación:
+
+a) No tendrán que justificar capital social alguno, salvo que se constituyan en forma de sociedad, en cuyo caso habrán de atenerse a lo dispuesto en el párrafo segundo del apartado III.1. En todo caso, habrán de constituirse en forma de sociedad si, durante dos años consecutivos, su facturación excediera de 100.000.000 de pesetas anuales.
+
+b) No necesitarán tenr un Ingeniero técnico en la plantilla a tiempo total, cuando ésta integre menos de cinco puestos de instaladores, si bien, alternativamente, habrán de tenerlo a tiempo parcial, o deberán contar, de forma permanente, mediante contrato mercantil, con los servicios de un Ingeniero técnico que supervise y garantice técnicamente la instalación y el mantenimiento de aparatos, dispositivos y sistemas. En todo caso, el Ingeniero técnico habrá de estar específicamente cualificado para el ejercicio de su misión.
+
+c) La garantía mínima a constituir será de 1.000.000 de pesetas.
+
+Sin embargo, será de 2.000.000 de pesetas, cuando se trate de empresas no constituidas en forma de sociedad.
+
+d) El contrato de seguro de responsabilidad civil cubrirá una garantía mínima de 10.000.000 de pesetas.
+
+5. Las modificaciones de plantillas de las empresas autonómicas a que se refiere el presente apartado, que den lugar a su inclusión o exclusión del supuesto regulado en el apartado 2 anterior, producirán el cambio de los requisitos de inscripción y autorización de dichas empresas y determinarán la instrucción de los correspondientes expedientes de modificaciones de inscripción.
+
+6. Cuando las empresas pretendan actuar en Comunidades Autónomas limítrofes, sin abarcar la totalidad del territorio nacional, deberán inscribirse en el Registro General de Empresas de Seguridad, pero podrán hacerlo con aplicación de los criterios cuantitativos, establecidos en este anexo, conjuntamente a los ámbitos territoriales autonómicos correspondientes, como si se tratara de un territorio autonómico único.
+
+> Se añade el apartado III por el art. 1 del Real Decreto 938/1997, de 20 de junio. Ref. BOE-A-1997-13606.
