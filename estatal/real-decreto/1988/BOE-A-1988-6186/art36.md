@@ -1,0 +1,3 @@
+## Art. 36.
+
+En los casos en que no se acepten los resultados del laboratorio de contrastación, se procederá en el plazo de diez días a un nuevo ensayo, en presencia y con la participación del perito designado por la parte interesada y siguiendo, para cada metal, el primero de los métodos oficiales de ensayo enunciados. Si los resultados de este segundo ensayo discreparan de los del primero se procederá, en un nuevo plazo de diez días, a un ensayo final de carácter dirimente, que se llevará a cabo con las garantías que establezca la autoridad competente, y, en todo caso, con participación de la parte interesada. También se podrá acudir a la Fábrica Nacional de Moneda y Timbre que actuará como árbitro.
