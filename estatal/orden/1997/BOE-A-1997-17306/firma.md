@@ -1,0 +1,3 @@
+Madrid, 23 de julio de 1997.
+
+ARIAS-SALGADO MONTALVO
