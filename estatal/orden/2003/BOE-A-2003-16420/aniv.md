@@ -13,17 +13,29 @@
 | Número | Cuantía de los créditos en cuestión | Cuantía de los créditos cobrados por peticiones realizadas durante el año (X) | Número | Cuantía de los créditos en cuestión | Cuantía de los créditos cobrados por peticiones realizadas durante el año (X) |
 | Cuantía | Año | Cuantía | Año |
 | Belgique/België |  |  |  |  |  |  |  |  |  |  |  |  |
-| Denmark |  |  |  |  |  |  |  |  |  |  |  |  |
+| Èeská Republika |  |  |  |  |  |  |  |  |  |  |  |  |
+| Danmark |  |  |  |  |  |  |  |  |  |  |  |  |
 | Deutschland |  |  |  |  |  |  |  |  |  |  |  |  |
-| Ellas |  |  |  |  |  |  |  |  |  |  |  |  |
+| Eesti |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hellas |  |  |  |  |  |  |  |  |  |  |  |  |
 | España |  |  |  |  |  |  |  |  |  |  |  |  |
 | France |  |  |  |  |  |  |  |  |  |  |  |  |
 | Ireland |  |  |  |  |  |  |  |  |  |  |  |  |
 | Italia |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cyprus |  |  |  |  |  |  |  |  |  |  |  |  |
+| Latvija |  |  |  |  |  |  |  |  |  |  |  |  |
+| Lietuva |  |  |  |  |  |  |  |  |  |  |  |  |
 | Luxembourg |  |  |  |  |  |  |  |  |  |  |  |  |
+| Magyarország |  |  |  |  |  |  |  |  |  |  |  |  |
+| Malta |  |  |  |  |  |  |  |  |  |  |  |  |
 | Nederland |  |  |  |  |  |  |  |  |  |  |  |  |
 | Österreich |  |  |  |  |  |  |  |  |  |  |  |  |
+| Polska |  |  |  |  |  |  |  |  |  |  |  |  |
 | Portugal |  |  |  |  |  |  |  |  |  |  |  |  |
+| Slovenija |  |  |  |  |  |  |  |  |  |  |  |  |
+| Slovensko |  |  |  |  |  |  |  |  |  |  |  |  |
 | Finland/Suomi |  |  |  |  |  |  |  |  |  |  |  |  |
 | Sverige |  |  |  |  |  |  |  |  |  |  |  |  |
 | United Kingdom |  |  |  |  |  |  |  |  |  |  |  |  |
+
+> Se modifica por el art. único.1 y anexo de la Orden EHA/408/2005, de 18 de febrero. Ref. BOE-A-2005-3168.
