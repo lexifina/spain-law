@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Competencias técnicas de la Dirección General de Telecomunicaciones del Ministerio de Obras Públicas y Transportes.
+
+La Dirección General de Telecomunicaciones del Ministerio de Obras Públicas y Transportes, ejercerá respecto al servicio público de radiodifusión sonora en ondas métricas con modulación de frecuencia todas las competencias técnicas que le atribuye el Reglamento de desarrollo de la Ley 31/1987, de 18 de diciembre, de Ordenación de las Telecomunicaciones, en relación con el dominio público radioeléctrico, aprobado por el Real Decreto 844/1989, de 7 de julio.
