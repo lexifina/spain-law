@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 248, de 15 de octubre de 1976. Ref. BOE-A-1976-19909.
+Norma sustituida, a todos los efectos, por el Convenio entre España e Italia en materia de Seguridad Social, hecho en Madrid el 30 de octubre de 1979, según establece su art. 53. Ref. BOE-A-1983-32829#a53.
