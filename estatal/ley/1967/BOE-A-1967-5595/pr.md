@@ -1,0 +1,7 @@
+El Convenio Europeo de Pesca hecho en Londres el nueve de marzo de mil novecientos sesenta y cuatro, que ha sido firmado y ratificado por España, en el que participan otros once países europeos, y que ha entrado ya en vigor, reconoce a las Partes Contratantes el derecho a extender su jurisdicción marítima, en materia de pesca, hasta un límite de doce millas, con sujeción a las condiciones que el mismo Convenio establece, entre las que se encuentra el reconocimiento de los llamados «derechos históricos de los países», cuyos pescadores han venido habitualmente ejerciendo su industria en las aguas objeto de la extensión.
+
+De otra parte, buen número de países de África, América y Asia, entre los que se cuentan algunos de los que mantienen más intensas relaciones con España en cuestiones de pesca, han adoptado en los últimos años un límite similar por precepto de sus legislaciones internas, bien referido solamente a materia pesquera, bien como consecuencia de la extensión unilateral de su mar territorial a todos los efectos.
+
+En estas circunstancias resulta conveniente que el Estado español haga uso, en defensa de los intereses pesqueros españoles, de parecida facultad, y extienda a doce millas su jurisdicción marítima en materia de pesca, a la vez que se declara dispuesto a negociar con los Estados interesados las aplicaciones concretas de esta medida.
+
+En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar:
