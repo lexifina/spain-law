@@ -1,0 +1,5 @@
+## Artículo primero.
+
+Uno. Los estudiantes universitarios y de enseñanza técnica participarán en los órganos de gobierno de la Universidad, a través de una auténtica representación, para promover, gestionar y defender sus derechos e intereses en los ámbitos académicos y profesional, así como para cooperar en la reestructuración y engrandecimiento de la Universidad española y en la adecuación de ella a las necesidades de la sociedad.
+
+Dos. Asimismo, los estudiantes universitarios y de enseñanzas técnicas podrán constituir asociaciones de fines específicos en orden a los ámbitos académico y profesional. Será misión primordial e ineludible de las Asociaciones reguladas por este Decreto la de defender los bienes culturales y universitarios en régimen de libertad, autonomía, representatividad y auténtica participación de sus asociados, debiéndose circunscribir a la función específica de su razón de ser, con exclusión de fines ajenos y siempre dentro del respeto al ordenamiento jurídico de la Nación y al de la Universidad española.
