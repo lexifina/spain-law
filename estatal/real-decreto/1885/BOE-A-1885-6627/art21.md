@@ -1,0 +1,11 @@
+## Art. 21.
+
+1. Los actos sujetos a inscripción sólo serán oponibles a terceros de buena fe desde su publicación en el «Boletín Oficial del Registro Mercantil». Quedan a salvo los efectos propios de la inscripción.
+
+2. Cuando se trate de operaciones realizadas dentro de los quince días siguientes a la publicación, los actos inscritos y publicados no serán oponibles a terceros que prueben que no pudieron conocerlos.
+
+3. En caso de discordancia entre el contenido de la publicación y el contenido de la inscripción, los terceros de buena fe podrán invocar la publicación si les fuere favorable.
+
+Quienes hayan ocasionado la discordancia estarán obligados a resarcir al perjudicado.
+
+4. La buena fe del tercero se presume en tanto no se pruebe que conocía el acto sujeto a inscripción y no inscrito, el acto inscrito y no publicado o la discordancia entre la publicación y la inscripción.

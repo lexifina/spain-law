@@ -1,0 +1,7 @@
+## Art. 22.
+
+1. En la hoja abierta a cada empresario individual se inscribirán los datos identificativos del mismo, así como su nombre comercial y, en su caso, el rótulo de su establecimiento, la sede de éste y de las sucursales, si las tuviere, el objeto de su empresa, la fecha de comienzo de las operaciones, los poderes generales que otorgue, el consentimiento, la oposición y la revocación a que se refieren los artículos 6 a 10; las capitulaciones matrimoniales, así como las sentencias firmes en materia de nulidad, de separación y de divorcio, y los demás extremos que establezan las Leyes o el Reglamento.
+
+2. En la hoja abierta a las sociedades mercantiles y demás entidades a que se refiere el artículo 16 se inscribirán el acto constitutivo y sus modificaciones, la rescisión, disolución, reactivación, transformación, fusión o escisión de la entidad, la creación de sucursales, el nombramiento y cese de administradores, liquidadores y auditores, los poderes generales, la emisión de obligaciones u otros valores negociables agrupados en emisiones cuando la entidad inscrita pudiera emitirlos de conformidad con la Ley, y cualesquiera otras circunstancias que determinen las Leyes o el Reglamento.
+
+3. A las sucursales se abrirá, además, hoja propia en el Registro de la provincia en que se hallen establecidas, en la forma y con el contenido y los efectos que reglamentariamente se determinen.
