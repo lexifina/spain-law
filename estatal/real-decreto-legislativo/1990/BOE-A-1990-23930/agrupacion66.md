@@ -94,6 +94,10 @@ Cuota provincial de: 51.000 pesetas.
 
 Cuota nacional de: 72.000 pesetas.
 
+Nota:
+
+Para aquel comercio al por menor fuera de un establecimiento comercial permanente dedicado exclusivamente al comercio al por menor de masas fritas, con o sin coberturas o rellenos, patatas fritas, productos de aperitivos, frutos secos, golosinas, preparación de chocolate y bebidas refrescantes, se faculta a que pueda elaborar los productos propios de churrería y patatas fritas en la propia instalación o vehículo, siempre que su comercialización se realice en la propia instalación de venta.
+
 Epígrafe 663.2 Comercio al por menor fuera de un establecimiento comercial permanente de artículos textiles y de confección.
 
 Cuota mínima municipal de:
@@ -148,23 +152,23 @@ Cuota provincial de: 51.000 pesetas.
 
 Cuota nacional de: 72.000 pesetas.
 
-Epígrafe 663.9 Comercio al por menor fuera de un establecimiento comercial permanente de otras clases de mercancías n.c.o.p.
+Epígrafe 663.9. Comercio al por menor fuera de un establecimiento comercial permanente de otras clases de mercancías n.c.o.p.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 22.600 pesetas.
+En poblaciones de más de 500.000 habitantes: 20.400 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 18.100 pesetas.
+En poblaciones de más de 100.000 a 500.000 habitantes: 16.400 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 13.500 pesetas.
+En poblaciones de más de 40.000 a 100.000 habitantes: 12.300 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 10.500 pesetas.
+En poblaciones de más de 10.000 a 40.000 habitantes: 9.600 pesetas.
 
-– En las poblaciones restantes: 9.000 pesetas.
+En las poblaciones restantes: 8.200 pesetas.
 
-Cuota provincial de: 51.000 pesetas.
+Cuota provincial de 51.000 pesetas.
 
-Cuota nacional de: 72.000 pesetas.
+Cuota nacional de 72.000 pesetas.
 
 Nota: Los sujetos pasivos que ejerzan su actividad en un solo mercado o feria de carácter discontinuo o de temporada tales como mercados navideños, ferias del libro, etc., y a los solos efectos de esta actividad, tributarán por una cuota mínima municipal de 6.000 pesetas.
 
@@ -251,6 +255,10 @@ Notas:
 1.ª Quienes colaboren con el sujeto pasivo de la actividad de venta por catálogo, mediante la puesta a disposición de aquél de sus almacenes o depósitos, elementos de transporte y demás instalaciones y servicios propios del comerciante al por mayor, tributarán por este grupo satisfaciendo el 50 por 100 de la cuota correspondiente.
 
 2.ª Quienes colaboren con el sujeto pasivo de la actividad de venta por catálogo, mediante la prestación de sus locales abiertos al público, recibiendo pedidos, entregando mercancías, devolviendo mercancías, recibiendo el precio de los productos o exhibiendo muestrarios de éstos, así como los catálogos, tributarán por este grupo satisfaciendo el 25 por 100 de la cuota correspondiente. Si el importe de tal tributación fuere inferior a 6.000 pesetas, el sujeto pasivo tributará por cuota cero.
+
+> Se modifica el epígrafe 663.9 por la disposición adicional 17.1 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.
+
+> Se añade una nota al epígrafe 663.1 por el art. 72.1.18 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
 > Se modifica por el art. 75.1. 25 y 26 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
 

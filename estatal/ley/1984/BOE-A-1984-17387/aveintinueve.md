@@ -1,6 +1,6 @@
 ## Artículo veintinueve. Situaciones de los funcionarios.
 
-1. Quedan suprimidas las situaciones administrativas de excedencia especial y de supernumerario, creándose la de servicios especiales y la de excedencia para el cuidado de hijos.
+1. Quedan suprimidas las situaciones administrativas de excedencia especial y de supernumerario, creándose la de servicios especiales, la excedencia para el cuidado de hijos, la expectiva de destino, la excedencia voluntaria incentivada y la modalidad de excedencia forzosa aplicable a los funcionarios declarados en expectativa de destino.
 
 2. Servicios especiales.
 
@@ -14,7 +14,7 @@ c) Cuando sean nombrados miembros del Gobierno o de los órganos de Gobierno de 
 
 d) Cuando sean elegidos por las Cortes Generales para formar parte de los Órganos Constitucionales u otros cuya elección corresponda a las Cámaras.
 
-e) Cuando sean adscritos a los servicios del Tribunal Constitucional o del Defensor del Pueblo.
+e) Cuando sean adscritos a los servicios del Tribunal Constitucional o del Defensor del Pueblo o destinados al Tribunal de Cuentas en los términos previstos en el artículo 93.3 de la Ley 7/1988, de 5 de abril.
 
 f) Cuando accedan a la condición de Diputado o Senador de las Cortes Generales.
 
@@ -44,13 +44,67 @@ b) (Suprimida)
 
 c) Podrá concederse igualmente la excedencia voluntaria a los funcionarios cuando lo soliciten por interés particular.
 
-La situación prevista en este apartado c) no podrá declararse hasta haber completado tres años de servicios efectivos desde que se accedió al Cuerpo o Escala o desde el reingreso, y en ella no se podrá permanecer más de diez años continuados ni menos de dos años.
+Para solicitar el pase a la situación prevista en esta letra c) será preciso haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante los cinco años inmediatamente anteriores y en ella no se podrá permanecer menos de dos años continuados, ni más del número de años equivalente a los que el funcionario acredite haber prestado en cualquiera de las Administraciones Públicas, con un máximo de quince.
+
+La falta de petición de reingreso al servicio activo dentro del período de duración de la excedencia voluntaria por interés particular comportará la pérdida de la condición de funcionario.
+
+d) Podrá concederse la excedencia voluntaria por agrupación familiar, con una duración mínima de dos años y máxima de quince, a los funcionarios cuyo cónyuge resida en otro municipio por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo como funcionario de carrera o como laboral en cualquier Administración Pública, Organismos autónomos, Entidad gestora de la Seguridad Social, así como en órganos constitucionales o del Poder Judicial.
 
 Los funcionarios excedentes no devengarán retribuciones, ni les será computable el tiempo permanecido en tal situación a efectos de ascensos, trienios y derechos pasivos.
 
 4. Excedencia para el cuidado de hijos.
 
 Los funcionarios tendrán derecho a un período de excedencia, no superior a tres años, para atender el cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción, a contar desde la fecha del nacimiento de éste. Los sucesivos hijos darán derecho a un nuevo período de excedencia que, en su caso, pondrá fin al que se viniera disfrutando. Cuando el padre y la madre trabajen, sólo uno de ellos podrá ejercitar este derecho. Durante el primer año de duración de cada período de excedencia, los funcionarios en esta situación tendrán derecho a la reserva del puesto de trabajo y a su cómputo a efectos de trienios, consolidación del grado personal y derechos pasivos.
+
+5. Expectativa de destino.
+
+Los funcionarios en expectativa de destino percibirán las retribuciones básicas, el complemento de destino del grado personal que le corresponda y el 50 por 100 del complemento específico del puesto que desempeñaban al pasar a esta situación.
+
+Dichos funcionarios vendrán obligados a:
+
+1º. Aceptar los destinos en puestos de características similares a los que desempeñaban que se les ofrezcan en la provincia donde estaban destinados.
+
+2º. Participar en los concursos para puestos adecuados a su Cuerpo, Escala o Categoría, situados en la provincia donde estaban destinados.
+
+3º. Participar en los cursos de capacitación a que se les convoque.
+
+El período máximo de duración de la situación de expectativa de destino será de un año, transcurrido el cual se pasará a la situación de excedencia forzosa.
+
+A los restantes efectos esta situación se equipara a la de servicio activo.
+
+En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas efectuar la declaración y cese en esta situación administrativa y la gestión del personal afectado por la misma.
+
+6. Excedencia forzosa aplicable a funcionarios en expectativa de destino.
+
+Los funcionarios declarados en expectativa de destino pasarán a la situación de excedencia forzosa, con las peculiaridades establecidas en este apartado, por las causas siguientes:
+
+a) El transcurso del período máximo fijado para la misma.
+
+b) El incumplimiento de las obligaciones determinadas en el párrafo segundo del apartado 5 del presente artículo.
+
+Quienes se encuentren en esta modalidad de excedencia forzosa tendrán derecho a percibir las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo.
+
+Dichos funcionarios vendrán obligados a participar en los concursos convocados a puestos adecuados a su Cuerpo, Escala o categoría que les sean notificados, así como a aceptar los destinos que se les señalen en puestos de características similares y a participar en los cursos de capacitación que se les ofrezcan.
+
+No podrán desempeñar puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial o contractual, sea ésta de naturaleza laboral o administrativa. Si obtienen puesto de trabajo en dicho sector, pasarán a la situación de excedencia voluntaria regulada en el apartado 3.a) de este artículo.
+
+Pasarán a la situación de excedencia voluntaria por interés particular cuando incumplan las obligaciones a que se refiere este apartado.
+
+En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas acordar la declaración de esta modalidad de excedencia forzosa y el pase a la excedencia voluntaria de estos excedentes forzosos, así como la gestión del personal afectado.
+
+7. Excedencia voluntaria incentivada.
+
+Los funcionarios afectados por un proceso de reasignación de efectivos que se encuentren en alguna de las dos primeras fases a que hace referencia el artículo 20.1.g) de esta Ley podrán ser declarados, a su solicitud, en situación de excedencia voluntaria incentivada.
+
+Quienes se encuentren en las situaciones de expectativa de destino o de excedencia forzosa como consecuencia de la aplicación de un Plan de Empleo tendrán derecho a pasar, a su solicitud, a dicha situación.
+
+La excedencia voluntaria incentivada tendrá una duración de cinco años e impedirá desempeñar puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial o contractual, sea ésta de naturaleza laboral o administrativa. Concluido el plazo señalado, se pasará automáticamente, si no se solicita el reingreso, a la situación de excedencia voluntaria por interés particular.
+
+Quienes pasen a la situación de excedencia voluntaria incentivada tendrán derecho a una mensualidad de las retribuciones de carácter periódico, excluidas las pagas extraordinarias y el complemento de productividad, devengadas en el último puesto de trabajo desempeñado, por cada año completo de servicios efectivos y con un máximo de doce mensualidades.
+
+En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas acordar el pase a la situación de excedencia voluntaria incentivada.
+
+> Se modifican los apartados 1, 3.c), 2.e) y se añaden los apartados 3.d), 5, 6 y 7 por los arts. 18 a 24 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
 
 > Se modifica el apartado 1, se añade el 4 y se suprime el 3.b) por el art. 2.1, 2 y la disposición final 3 de la Ley 3/1989, de 3 de marzo. Ref. BOE-A-1989-5272
 

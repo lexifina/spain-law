@@ -4,13 +4,9 @@
 
 Epígrafe 751.1 Guarda y custodia de vehículos en garajes y locales cubiertos.
 
-Cuota de:
+Cuota: Hasta un límite de 250 metros cuadrados de superficie total dedicados a esta actividad: 26.000 pesetas.
 
-Hasta un límite de 250 metros cuadrados de superficie total, incluyendo la de los pisos, si existieran, dedicados a dicha custodia: 28.500 pesetas.
-
-Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior: 7.000 pesetas.
-
-Nota: Estas cuotas no autorizan a la custodia durante el día de coches que únicamente se guardan algunas horas alternando con los que esencialmente se encierran de noche. En el caso de que se ejerza esta modalidad de custodia las cuotas se incrementarán en un 25 por 100.
+Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior: 6.400 pesetas.
 
 Epígrafe 751.2. Guarda y custodia de vehículos en los denominados «aparcamientos subterráneos» o «parkings».
 
@@ -283,6 +279,8 @@ Cuota mínima municipal de:
 Cuota provincial de: 53.000 pesetas.
 
 Cuota nacional de: 74.000 pesetas.
+
+> Se modifica el epígrafe 751.1 por la dispoición adicional 17.3 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.
 
 > Se modifica por el art. 75.1.29 a 32 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
 

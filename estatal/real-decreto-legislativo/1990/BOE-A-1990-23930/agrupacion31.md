@@ -204,8 +204,10 @@ Epígrafe 319.9 Talleres mecánicos n.c.o.p.
 
 Cuota de:
 
-Por cada obrero: 1.420 pesetas.
+Por cada obrero: 1.000 pesetas.
 
-Por cada Kw: 1.060 pesetas.
+Por cada kW: 740 pesetas.
 
-Nota: Este epígrafe comprende la reparación especializada de material agrícola, asi como los talleres de soldadura, herradores-forjadores, etc., y todos aquellos talleres independientes no especificados en los grupos anteriores.
+Nota: Este epígrafe comprende la reparación especializada de material agrícola, así como los talleres de soldadura, herradores-forjadores, etcétera, y todos aquellos talleres independientes no especificados en los grupos anteriores.
+
+> Se modifica el epígrafe 319.9 por la disposición adicional 17.8 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.

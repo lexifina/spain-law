@@ -124,7 +124,9 @@ Cuota mínima municipal de:
 
 – En las poblaciones restantes: 15.000 pesetas.
 
-Nota: Este epígrafe faculta para realizar arreglos, limpieza y conservación de las confecciones clasificadas en el mismo.
+Nota: Este epígrafe faculta para elaborar confecciones de peletería en el propio establecimiento, así como para realizar arreglos, limpieza y conservación de las confecciones clasificadas en el mismo.
+
+Asimismo, este epígrafe faculta para la venta al por menor, como complemento, de artículos de piel e imitación o productos sustitutivos, tales como cinturones, carteras, bolsos, etc.
 
 ## Grupo 652. Comercio al por menor de medicamentos y de productos farmacéuticos; comercio al por menor de artículos de droguería y limpieza; perfumería y cosméticos de todas clases y de productos químicos en general; comercio al por menor de hierbas y plantas en herbolarios.
 
@@ -253,6 +255,12 @@ Cuota mínima municipal de:
 – En poblaciones de más de 10.000 a 40.000 habitantes: 22.000 pesetas.
 
 – En las poblaciones restantes: 12.000 pesetas.
+
+Notas:
+
+1.ª Este epígrafe comprende el comercio al por menor de artículos de ferretería, trefilería, cerrajería, herrajes, metalistería, tornillería, jardinería, grifería, sanitario, cuchillería y sus similares cortantes, herramientas de todas clases, sean o no eléctricas, así como sus accesorios y recambios, maquinaria electroportátil, instrumentos de metal, artículos para unir, pegar y soldar, material de protección personal, material eléctrico y de fontanería, pintura, artículos y vestuario profesional para la protección personal, artículos de seguridad, lubricantes, aceites de uso industrial y engrasadoras, cubertería, artículos de mesa y cocina, siempre que en su fabricación no se empleen metales preciosos, aparatos de uso doméstico sean o no eléctricos, llaves en bruto y mecanizadas, estanterías, bancos de trabajo y armarios metálicos, pequeña maquinaria a pie de obra, tableros, listones y otros artículos de madera para el mantenimiento y mejora del hogar, materiales envasados para las reparaciones de albañilería, utensilios de plástico y materiales para la práctica del bricolage.
+
+2.ª Este epígrafe faculta para el duplicado de llaves, así como para la venta de cordelería, efectos navales y gas.
 
 Epígrafe 653.4 Comercio al por menor de materiales de construcción y de artículos y mobiliario de saneamiento.
 
@@ -395,6 +403,24 @@ Cuota mínima municipal de:
 – En las poblaciones restantes: 14.000 pesetas.
 
 Nota: Este epígrafe faculta para la venta al por menor de lubricantes, accesorios, recambios y herramientas para la indicada maquinaria.
+
+Epígrafe 654.6. Comercio al por menor de cubiertas, bandas o bandajes y cámaras de aire para toda clase de vehículos.
+
+Cuota mínima municipal de:
+
+En poblaciones de más de 500.000 habitantes: 39.000 pesetas.
+
+En poblaciones de más de 100.000 a 500.000 habitantes: 31.000 pesetas.
+
+En poblaciones de más de 40.000 a 100.000 habitantes: 23.000 pesetas.
+
+En poblaciones de más de 10.000 a 40.000 habitantes: 17.000 pesetas. En las poblaciones restantes: 12.000 pesetas.
+
+Notas:
+
+1.ª Este epígrafe faculta para el comercio al por mayor de los artículos clasificados en el mismo.
+
+2.ª Los sujetos pasivos matriculados en este epígrafe podrán, incrementando un 20 por 100 las cuotas correspondientes, realizar el montaje, equilibrado, alineación y reparación de los artículos que comercialicen.
 
 ## Grupo 655. Comercio al por menor de combustibles, carburantes y lubricantes.
 
@@ -598,23 +624,27 @@ Notas:
 
 2.ª Se clasificarán en este epígrafe las prestaciones de los expresados servicios, sin comercio al por menor, en cuyo caso se satisfará una cuota de 30.000 pesetas.
 
-Epígrafe 659.9 Comercio al por menor de otros productos no especificados en esta agrupación, excepto los que deben clasificarse en el epígrafe 653.9.
+Epígrafe 659.9 Comercio al por menor de otros productos no especificados en esta Agrupación, excepto los que deban clasificarse en el epígrafe 653.9.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 151.000 pesetas.
+En poblaciones de más de 500.000 habitantes: 96.000 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 120.000 pesetas.
+En poblaciones de más de 100.000 a 500.000 habitantes: 78.000 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 90.000 pesetas.
+En poblaciones de más de 40.000 a 100.000 habitantes: 60.000 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 62.000 pesetas.
+En poblaciones de más de 10.000 a 40.000 habitantes: 42.000 pesetas.
 
-– En las poblaciones restantes: 35.000 pesetas.
+En las poblaciones restantes: 24.000 pesetas.
 
 Nota común a las agrupaciones 64 y 65:
 
 Cuando los locales en los que se ejerzan las actividades clasificadas en las agrupaciones 64 y 65 tengan una superficie computable igual o inferior a 50 metros cuadrados, la cuota de los grupos o epígrafes correspondientes será el 50 por 100 de la señalada en cada caso.
+
+> Se modifica el epígrafe 659.9 por la disposición adicional 17.2 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.
+
+> Se modifica por el art. 72.1.3, 4 y 16 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
 
 > Se modifica por el art. 75.1.19 a 24 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
 

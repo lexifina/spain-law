@@ -22,6 +22,12 @@ No obstante lo anterior, en el caso de que la madre y el padre trabajen, aquéll
 
 En el supuesto de adopción de un menor de nueve meses, el funcionario tendrá derecho a un permiso de ocho semanas contadas, a su elección, bien a partir del momento de la decisión administrativa o judicial de acogimiento, bien a partir de la resolución judicial por la que se constituya la adopción. Si el hijo adoptado es mayor de nueve meses y menor de cinco años, el permiso tendrá una duración máxima de seis semanas. En el caso de que el padre y la madre trabajen, sólo uno de ellos podrá ejercitar este derecho.
 
+4. Los funcionarios a quienes falten menos de cinco años para cumplir la edad de jubilación forzosa, establecida en el artículo 33 de esta Ley, podrán obtener, a su solicitud, la reducción de su jornada de trabajo hasta un medio, con la reducción de retribuciones que se determine reglamentariamente, siempre que las necesidades del servicio lo permitan.
+
+Dicha reducción de jornada podrá ser solicitada y obtenida, de manera temporal, por aquellos funcionarios que la precisen en procesos de recuperación por razón de enfermedad, siempre que las necesidades del servicio lo permitan.
+
+> Se añade el apartado 4 por el art. 26 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+
 > Se modifica el párrafo último del apartado 3 por el art. 2 de la Ley 8/1992, de 30 de abril. Ref. BOE-A-1992-9361
 
 > Se añade el apartado 3 por el art. 2.3 de la Ley 3/1989, de 3 de marzo. Ref. BOE-A-1989-5272

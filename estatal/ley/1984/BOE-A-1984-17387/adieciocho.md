@@ -1,16 +1,44 @@
 ## Artículo dieciocho. La oferta de empleo público.
 
-Las plazas dotadas que no puedan ser cubiertas con los efectivos de personal existentes constituyen la oferta de empleo de la Administración del Estado.
+1. Las Administraciones Públicas podrán elaborar Planes de Empleo, referidos tanto a personal funcionario como laboral, que contendrán de forma conjunta las actuaciones a desarrollar para la óptima utilización de los recursos humanos en el ámbito a que afecten, dentro de los límites presupuestarios y de acuerdo con las directrices de política de personal.
 
-Aprobada la Ley de Presupuestos Generales del Estado, el Ministro de la Presidencia propondrá al Gobierno para su aprobación la oferta anual de empleo de personal al servicio de la Administración del Estado.
+Las actuaciones previstas para el personal laboral en los Planes de Empleo se desarrollarán conforme a la normativa específica del ordenamiento jurídico laboral.
 
-La oferta de empleo deberá contener necesariamente todas las plazas dotadas presupuestariamente y que se hallen vacantes, indicará asimismo las que de ellas deban ser objeto de provisión en el correspondiente ejercicio presupuestario y las previsiones temporales para la provisión de las restantes.
+2. Los Planes de Empleo podrán contener las siguientes previsiones y medidas:
 
-La publicación de la oferta obliga a los órganos competentes a proceder, dentro del primer trimestre de cada año natural a la convocatoria de las pruebas selectivas de acceso para las plazas vacantes comprometidas en la misma y hasta un 10 por 100 adicional. Tales convocatorias indicarán el calendario preciso de realización de las pruebas, que, en todo caso, deberán concluir antes del 1 de octubre de cada año, sin perjuicio de los cursos selectivos de formación que se establezcan.
+a) Previsiones sobre modificación de estructuras organizativas y de puestos de trabajo.
 
-Los Tribunales o las Comisiones de Selección no podrán aprobar ni declarar que han superado las pruebas respectivas un número superior de aspirantes al de plazas convocadas. Cualquier propuesta de aprobados que contravenga lo anteriormente establecido será nula de pleno derecho.
+b) Suspensión de incorporaciones de personal externo al ámbito afectado, tanto las derivadas de oferta de empleo como de procesos de movilidad.
 
-Las demás Administraciones Públicas elaborarán y propondrán públicamente sus ofertas de empleo ajustándose a los criterios anteriormente expuestos.
+c) Reasignación de efectivos de personal.
+
+d) Establecimiento de cursos de formación y capacitación.
+
+e) Autorización de concursos de provisión de puestos limitados al personal de los ámbitos que se determinen.
+
+f) Medidas específicas de promoción interna.
+
+g) Prestación de servicios a tiempo parcial.
+
+h) Necesidades adicionales de recursos humanos que habrán de integrarse, en su caso, en la Oferta de Empleo Público.
+
+i) Otras medidas que procedan en relación con los objetivos del Plan de Empleo.
+
+Las Memorias justificativas de los Planes de Empleo contendrán las referencias temporales que procedan, respecto de las previsiones y medidas establecidas en los mismos.
+
+3. El personal afectado por un Plan de Empleo podrá ser reasignado en otras Administraciones Públicas en los términos que establezcan los convenios que, a tal efecto, puedan suscribirse entre ellas.
+
+4. Las necesidades de recursos humanos con asignación presupuestaria que no puedan ser cubiertas con los efectivos de personal existentes serán objeto de Oferta de Empleo Público.
+
+5. Los Tribunales o las Comisiones de Selección no podrán declarar que han superado los procesos selectivos un número superior de aspirantes al de plazas convocadas. Cualquier propuesta que contravenga lo anteriormente establecido será nula de pleno derecho.
+
+6. En el ámbito de la Administración General del Estado los Planes de Empleo podrán afectar a uno o varios Ministerios, Organismos o áreas administrativas concretas y serán aprobados por el Ministerio para las Administraciones Públicas, previo informe favorable del Ministerio de Economía y Hacienda.
+
+La iniciativa para su elaboración corresponderá al Ministerio u Organismo afectado o, conjuntamente, a los Ministerios para las Administraciones Públicas y de Economía y Hacienda.
+
+La Oferta de Empleo Público será aprobada por el Gobierno a propuesta del Ministerio para las Administraciones Públicas.
+
+> Se modifica por el art. 15 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
 
 > Se suspende la vigencia durante el año 1993 en la forma indicada por la disposición transitoria 8.1 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826
 

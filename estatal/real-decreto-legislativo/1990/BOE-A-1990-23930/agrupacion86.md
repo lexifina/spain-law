@@ -29,3 +29,7 @@ Notas:
 1.ª El presente grupo comprende el alquiler con o sin opción de compra de toda clase de bienes inmuebles de naturaleza rústica.
 
 2.ª Los sujetos pasivos cuyas cuotas por esta actividad sean inferiores a 100.000 pesetas tributarán cuota cero.
+
+Nota común a la agrupación 86: Los sujetos pasivos matriculados en los epígrafes de esta agrupación tributarán por cuota nacional.
+
+> Se añade la nota común a la agrupación 86 por la disposición adicional 17.6 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.

@@ -136,8 +136,10 @@ Epígrafe 239.9 Extracción de otros minerales no metálicos ni energéticos n.c
 
 Cuota de:
 
-Por cada obrero: 2.250 pesetas.
+Por cada obrero: 960 pesetas.
 
-Por cada Kw: 1.350 pesetas.
+Por cada kW: 400 pesetas.
 
-Nota: Este epígrafe comprende la extracción de turba, de minerales de sodio (thenardita, glauberita), de boro, de bario (baritina), cuarzo, sílice, arenas silíceas no empleadas en la construcción, tierras de trípoli, feldespato, pegmatita, dolomía, magnesita, talco esteatito, sepiolita, asfalto y betunes, gemas, granates, grafito, amianto, mica, ocres, arsénico, litio, estroncio y otros, así como la molienda, trituración, pulverización, etc., que se realiza conjuntamente con la extracción.
+Nota: Este epígrafe comprende la extracción de turba, de minerales de sodio (thenardita, glauberita), de boro, de bario (baritina), cuarzo, sílice, arenas silíceas no empleadas en la construcción, tierras de trípoli, feldespato, pegmatita, dolomía, magnesita, talco esteatito, sepiolita, asfalto y betunes, gemas, granates, grafito, amianto, mica, ocres, arsénico, litio, estroncio y otros, así como la molienda, trituración, pulverización, etcétera, que se realiza conjuntamente con la extracción.
+
+> Se modifica el epígrafe 239.9 por la disposición adicional 17.7 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.

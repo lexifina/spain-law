@@ -2,6 +2,8 @@
 
 1. No serán de aplicación a los funcionarios de los Cuerpos o Escalas en que se ordena la función pública docente el apartado 1, a) del artículo 20, en lo que se refiere a la exigencia del grado personal; el artículo 21 excepto el apartado 2, b); y el párrafo tercero del apartado 1 del artículo 22 de ésta Ley en lo que se refiere a la conservación del grado personal.
 
+Tampoco serán de aplicación a los citados funcionarios los apartados 1, 2, 3 y 6 del artículo 18; el apartado 1.g) del artículo 20; los dos últimos párrafos del apartado 1 del artículo 22; el apartado 1 en lo referente a la situación de expectativa de destino, y los apartados 5, 6 y 7 del artículo 29, y el artículo 34. En las materias objeto de estos artículos serán de aplicación las normas específicas dictadas al amparo del apartado 2 del artículo 1 de esta Ley y de lo dispuesto en los restantes apartados de esta disposición adicional. Para la elaboración de estas normas específicas se tendrán en cuenta los criterios establecidos con carácter general en la presente Ley.
+
 2. El acceso a la función pública docente, excluido el personal regulado en la Ley de Reforma Universitaria y en la Ley de Fomento y Coordinación General de la Investigación Científica y Técnica, la promoción profesional, la promoción interna y la reordenación de sus Cuerpos y Escalas se regulará por disposicición con rango de Ley, acorde con la estructura y necesidades del sistema educativo. Hasta la entrada en vigor de la misma, cada uno de dichos Cuerpos y Escalas tendrá asignado un nivel de complemento de destino, y les serán de aplicación las normas contenidas en esta disposición adicional, las que se dicten en aplicación de lo dispuesto en el apartado 2 del artículo 1 de esta Ley, y demás disposiciones vigentes en las respectivas materias.
 
 Se integran:
@@ -64,7 +66,9 @@ En el plazo de seis meses, el Gobierno, a propuesta de los Ministros de Educaci�
 
 10. En el marco de las competencias en materia educativa atribuidas por sus respectivos Estatutos de Autonomía, las Comunidades Autónomas ordenarán su función pública docente, de conformidad con lo que se establezca en las normas básicas que regulen los aspectos señalados en el punto 2 de esta disposición adicional.
 
-> Se deroga el contenido de los cuatro guiones del párrafo 2.º del apartado 2, en cuanto se oponga a la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172 según establece su disposición final 4.1
+> Se añade el párrafo segundo al apartado 1 por el art. 28 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+
+> Se deroga el contenido de los cuatro guiones del párrafo 2.º del apartado 2, en cuanto se oponga a la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172 según establece su disposición final 4.1.
 
 > Se añaden dos párrafos al apartado 7 por el art. 39.6 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
 
