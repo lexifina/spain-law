@@ -1,0 +1,1 @@
+Se derogan las prescripciones establecidas en relación con el procedimiento de solicitud, concesión, revisión y cumplimiento de las autorizaciones de producción y gestión de residuos, con las excepciones indicadas, por la disposición derogatoria única de la Ley 16/2002, de 1 de julio. Ref. BOE-A-2002-12995

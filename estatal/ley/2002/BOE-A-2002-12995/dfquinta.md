@@ -1,0 +1,3 @@
+## Disposición final quinta. Otras actividades distintas de las del anejo 1.
+
+El Gobierno, sin perjuicio de las normas adicionales de protección que dicten las Comunidades Autónomas, podrá establecer que determinadas categorías de actividades distintas de las enumeradas en el anejo 1 queden sometidas a notificación y registro por parte de la Comunidad Autónoma competente. En tal caso, las normas que establezcan la anterior exigencia determinarán igualmente los requisitos a los que deberá ajustarse el funcionamiento de dichas actividades y si se produjeran incumplimientos por parte de los titulares se aplicará el régimen sancionador establecido en esta Ley, con excepción de los preceptos relativos a la exigencia de la autorización ambiental integrada.
