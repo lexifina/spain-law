@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Funcionarios pertenecientes a otros Cuerpos y Escalas.
+
+Los funcionarios pertenecientes a otros Cuerpos y Escalas distintos al Cuerpo Superior de Letrados de la Administración de la Seguridad Social que, a la entrada en vigor del Reglamento que se aprueba por este Real Decreto, estuvieran desempeñando puestos de trabajo obtenidos por concurso, que pasen a adscribirse en exclusiva al Cuerpo de Letrados de la Administración de la Seguridad Social, podrán continuar desempeñando dichos puestos hasta que queden vacantes, tras lo cual sólo podrán ser ocupados por funcionarios pertenecientes a dicho Cuerpo.

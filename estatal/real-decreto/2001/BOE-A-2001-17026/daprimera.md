@@ -1,0 +1,3 @@
+## Disposición adicional primera. Puestos de trabajo reservados al Cuerpo Superior de Letrados de la Administración de la Seguridad Social.
+
+Todos los puestos de trabajo reservados actualmente al Cuerpo Superior de Letrados de la Administración de la Seguridad Social en las Entidades gestoras y Servicios comunes de la Seguridad Social, cuya adscripción orgánica previa no lo fuese a las Asesorías Jurídicas, se mantendrán adscritos al mismo en exclusiva, quedando integrados orgánicamente en el Servicio Jurídico de la Administración de la Seguridad Social, dependiendo funcionalmente de la Dirección del Servicio Jurídico de la Administración de la Seguridad Social.
