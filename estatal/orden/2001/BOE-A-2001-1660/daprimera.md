@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+En los supuestos en que de los órganos colegiados regulados en la presente Orden no forme parte el representante de alguno de los órganos superiores, directivos u Organismos Autónomos del Departamento, a las reuniones de aquéllos, serán convocados, con la condición de Vocales, los representantes de dichos órganos, u organismos, cuando se deba conocer de expedientes tramitados por sus respectivas unidades, o de asuntos cuya competencia corresponda a los mismos o les afecten específicamente. Igualmente, podrán ser convocados los funcionarios y asesores que se estimen convenientes.
