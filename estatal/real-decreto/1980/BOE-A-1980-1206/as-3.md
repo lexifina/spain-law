@@ -1,3 +1,5 @@
 ## Artículo séptimo.
 
-En los locales en que se lleve a cabo la obtención o tratamientos de aceite de oliva, en tanto se produzca, manipule o haya existencia del mismo, queda prohibida la tenencia de grasas o aceites de otras clases.
+(Suprimido).
+
+> Se suprime por el art. 2.1 del Real Decreto 538/1993, de 12 de abril. Ref. BOE-A-1993-11366

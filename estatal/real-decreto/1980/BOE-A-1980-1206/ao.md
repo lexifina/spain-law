@@ -1,5 +1,5 @@
 ## Artículo octavo.
 
-Uno. En las industrias destinadas a la hidrogenación o esterificación de grasas o aceites, así como en cualquier industria de tratamiento de tales productos, subproductos o derivados para usos industriales, se prohíbe la existencia de aceite de oliva.
+(Suprimido).
 
-Dos. Los locales de las citadas industrias mantendrán independencia absoluta y sin comunicación más que a través de la vía pública de cualquier otro local donde se elaboren, manipulen o almacenen aceites de oliva, de orujo o de semillas.
+> Se suprime por el art. 2.2 del Real Decreto 538/1993, de 12 de abril. Ref. BOE-A-1993-11366
