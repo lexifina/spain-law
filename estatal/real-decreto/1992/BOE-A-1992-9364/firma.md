@@ -1,0 +1,7 @@
+Dado en Madrid a 24 de abril de 1992.
+
+JUAN CARLOS R.
+
+El Ministro del Interior,
+
+JOSÉ LUIS CORCUERA CUESTA
