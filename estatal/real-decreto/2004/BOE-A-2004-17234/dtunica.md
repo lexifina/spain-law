@@ -1,0 +1,3 @@
+## Disposición transitoria única. Movimiento de animales no reaccionantes positivos.
+
+Durante un período de tres años tras la entrada en vigor de este real decreto, cuando en un rebaño o centro de concentración un animal resulte sospechoso de tuberculosis o brucelosis bovina, o se confirme la presencia de la enfermedad, los bovinos no reaccionantes positivos a la enfermedad de que se trate, procedentes de dicho rebaño o centro de concentración, que se destinaron a una plaza de toros o instalaciones anejas, para su lidia, si resultaran no aptos para la lidia en el reconocimiento previo o sobreros, o si se suspendiera el espectáculo taurino, podrá retornar al lazareto de la ganadería de lidia de origen para su posterior lidia o sacrificio.
