@@ -1,0 +1,9 @@
+La experiencia obtenida en los últimos tiempos en orden a la defensa de la calidad de los aceites comestibles y a la lucha contra la comisión de fraudes en su elaboración y comercialización aconseja, para una mayor eficacia en la labor y, especialmente, en la protección del aceite de oliva, regular debidamente los procesos industriales. Sin olvidar los controles analíticos, que sobre los aceites destinados al consumo se vienen realizando, es indispensable la intervención de la administración, regulando la actividad de las industrias y restringiendo al mínimo imprescindible los tratamientos que pueden aplicarse, con el fin de obtener la mayor calidad de aquéllos. La similar composición de las distintas clases de aceite dificulta la identificación analítica de las mezclas y posibilita, a través de procesos tecnológicos la modificación de sus componentes.
+
+Por estas razones, además de limitar tales procesos industriales, se establece otra serie de cautelas, cuales son el marcado de determinados aceites susceptibles de sustituir al de oliva, su control documentario, la prohibición de manipulación de distintas clases de ellos de forma simultánea en los mismos locales, la previa autorización y registro de los productos precisos para los tratamientos, todas ellas tendentes a impedir tanto las mezclas de aceites y grasas en los supuestos que la legislación vigente prohíbe como la modificación de la composición de los aceites.
+
+Por ultimo, la exigencia de una calidad suficiente en los productos elaborados y los imperativos técnicos regulados por el Código Alimentario Español hacen necesario establecer los condicionados técnicos descritos para este tipo de industrias.
+
+En su virtud, a propuesta del Ministro de Agricultura y previa deliberación del Consejo de Ministros en su reunión del día siete de diciembre de mil novecientos setenta y nueve,
+
+DISPONGO:
