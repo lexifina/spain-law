@@ -1,0 +1,5 @@
+## CAPITULO II
+
+## Desarrollo del plan de reconversión
+
+> La vigencia de este capítulo finaliza el 31 de diciembre de 1986, según establece la disposición final 2.
