@@ -48,7 +48,7 @@ g) Vehículo articulado (7).
 | h) Suspensión (defectos visibles) |  |  |  |
 | i) Chasis (defectos visibles) |  |  |  |
 | j) Tacógrafo (instalación) |  |  |  |
-| k) Dispositivo de limitación de velocidad (instalación) |  |  |  |
+| k) Dispositivo de limitación de velocidad (instalación y funcionamiento) |  |  |  |
 | l) Fugas de carburante o del lubricante |  |  |  |
 
 11. Resultados de la inspección: suspensión de la utilización del vehículo que presenta deficiencias graves.
@@ -74,3 +74,5 @@ Firma del Agente/Inspector que ha efectuado la inspección.
 (7) Vehículo tractor destinado a ser acoplado a un semirremolque.
 
 (8) Estos puntos son objeto de pruebas y controles específicos según las disposiciones establecidas en el anexo II.
+
+> Se modifica el apartado 10.k) por el art. único.2 del Real Decreto 122/2004, de 23 de enero. Ref. BOE-A-2004-1438.
