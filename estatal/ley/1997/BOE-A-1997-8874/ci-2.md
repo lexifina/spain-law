@@ -1,3 +1,7 @@
 ## CAPÍTULO I
 
 ## Infracciones y sanciones
+
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.2.e) del Real Decreto Legislativo 5/2000, de 4 de agosto. Ref. BOE-A-2000-15060.
