@@ -1,0 +1,3 @@
+## Art. 4.
+
+Con independencia de lo previsto en el Reglamento sobre Protección Sanitaria contra Radiaciones Ionizantes, aprobado por Real Decreto 2519/1982, de 12 de agosto («Boletín Oficial del Estado» de 8 de octubre) y modificado por Real Decreto 1753/1987, de 25 de noviembre («Boletín Oficial del Estado» de 15 de enero de 1988), y sin perjuicio de las competencias de autorización, control e inspección, que puedan corresponder a otros Organismos, todas las instalaciones de radiodiagnóstico, radioterapia y de medicina nuclear serán objeto de vigilancia estricta por parte de la Administración Sanitaria competente en cuanto a los criterios de calidad en radiodiagnóstico, radioterapia y medicina nuclear para garantizar la protección radiológica del paciente.
