@@ -2,7 +2,7 @@
 
 Los términos establecidos en el artículo 23.1.4.º de la Ley 21/1974, sobre Régimen Jurídico de la Exploración, Investigación y Explotación de Hidrocarburos, a partir de 1 de enero de 1992, serán los siguientes:
 
-«Un resguardo acreditativo de haber ingresado como garantía en la Caja General de Depósitos 150 pesetas por hectárea solicitada.
+«Un resguardo acreditativo de haber ingresado como garantía en la Caja General de Depósitos 0,901518 por hectárea solicitada.
 
 Este depósito podrá ser sustituido por un aval bancario de idéntica cuantía o por cualquier otra de las garantías admitidas en derecho y que sea declarada bastante por la Administración.»
 
@@ -17,3 +17,5 @@ C) En los permisos en que ya hayan sido efectuadas todas las reducciones obligat
 D) Los permisos otorgados a partir del día 1 de enero de 1992 deberán adaptar sus depósitos o garantías a los nuevos valores estipulados.
 
 E) En el caso de transferencia, la garantía de un permiso, cuyas obligaciones se transfieran, deberá actualizarse a los nuevos valores.
+
+> Se convierten a euros las cuantías completadas en esta disposición por Resolución de 20 de diciembre de 2001. Ref. BOE-A-2001-24827.
