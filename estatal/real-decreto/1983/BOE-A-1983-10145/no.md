@@ -1,0 +1,1 @@
+Téngase en cuenta la Sección 5 del Capítulo V del Reglamento de Armas, aprobado por Real Decreto 137/1993, de 29 de enero, relativa a "licencias a personal dependiente de las Fuerzas Armadas, de las Fuerzas y Cuerpos de Seguridad y del Servicio de Vigilancia Aduanera". Ref. BOE-A-1993-6202#s5-3
