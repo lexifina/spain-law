@@ -6,11 +6,11 @@ Primero. Apercibimiento.
 
 Segundo. Suspensión de título profesional o aeronáutico hasta seis meses.
 
-Tercero. Multa de hasta 100.000 pesetas o por un importe igual a la tarifa aplicable a cada documento de transporte o de vuelo en que se haya cometido infracción.
+Tercero. Multa de hasta 601,01 euros o por un importe igual a la tarifa aplicable a cada documento de transporte o de vuelo en que se haya cometido infracción.
 
 Cuarto. Suspensión de título profesional o aeronáutico y de profesión u oficio no titulados de seis meses a un año.
 
-Quinto. Multa de 100.000 a 1.000.000 de pesetas.
+Quinto. Multa de 601,01 a 6.010,12 euros..
 
 Sexto. Suspensión hasta seis meses de los derechos de tráfico otorgados a Empresas de transporte.
 
@@ -29,5 +29,7 @@ La imposición de la comprendida en el número octavo, corresponderá a la misma
 Contra las resoluciones del Ministerio del Aire imponiendo las sanciones quinta a octava, ambas inclusive, que sean de su competencia, se dará el recurso de alzada ante el Consejo de Ministros. Cuando la referida sanción hubiere sido impuesta por el Consejo de Ministros, por ser de su competencia, se dará el recurso de súplica contra el acuerdo del propio Consejo.
 
 El procedimiento sancionador será el establecido en la Ley de Procedimiento Administrativo, con la salvedad de que las sanciones enumeradas en los apartados primero y tercero podrán imponerse, desde luego, sin necesidad de fomación de expediente.
+
+> Se convierten a euros las cuantías contempladas en los apartados 3 y 5 por el anexo de la Resolución de 12 de diciembre de 2001. Ref. BOE-A-2001-25009.
 
 > Se actualizan las cuantías de los apartados 3 y 5 por el art. 3 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
