@@ -34,10 +34,8 @@
 | Emilcamato. |  | 1-etil-1 metilpropil-carbamato. |
 | Etilanfetamina. |  | N-etil-a-metil feniletilamina. |
 | Fenalineal. | Alfonal. | 5-alil 5 fenil barbitúrico. |
-| Fendimetrazina. |  | 3-4-dimetil-29 fenilmorfolina. |
 | Fenglentavimida. |  | a-fenil.a (b-dietil-aminoetil-glutarimidal. |
 | Fenpentadiol. |  | 2-(p.clorofenil).4.metil pentano 2-4-diol). |
-| Fentermina. |  | a-a-dimetilfeniletilamina. |
 | Fenproporex. |  | 3-(a-metilfoniletilamino)propio-nitrilo. |
 | Flunitracepán. |  | 5.(O. fluorofenil)1.3.dihidro-1-metil-3 hidroxi 5-fenil-2H-1-4- benzodiazepin-2-ona. |
 | Fluracepán. |  | 7-cloro-1-(2-fietilaminoetil).5-(2-flucrofenil) -1-3 dihidro-2H 1.4. benzodiazepin-2-ona. |
@@ -74,3 +72,7 @@
 | Triclofos. |  |  |
 | Tilidina. |  | D.1-trans.2-dimetil.amino.1-fenil) 3-ciclohexen-trans-carboxilato de etilo. |
 | Vinbarbital. |  | 5-etil-5 (1-metil-1-butenil) barbitúrico-ácido. |
+
+> Se modifica por el apartado 1 de la Orden de 22 de julio de 1983 Ref. BOE-A-1983-21200.
+
+> Ténganse en cuenta para su aplicación el apartado 2.
