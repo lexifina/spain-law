@@ -1,0 +1,68 @@
+# Decreto 573/1976, de 26 de febrero, por el que se reconoce a la Academia de la Lengua Vasca bajo la denominación de Real Academia de la Lengua Vasca.
+
+- Identificador: BOE-A-1976-6397
+- Rango: Decreto
+- Fecha de disposición: 1976-02-26
+- Publicación: 1976-03-25
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-1976-6397
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [pr](pr.md)
+- [Artículo uno](au.md)
+- [Artículo dos](ad.md)
+- [Artículo tres](at.md)
+- [fi](fi.md)
+- [ANEXO](an.md)
+- [Fines y naturaleza](fy.md)
+- [Artículo primero](ap.md)
+- [Artículo segundo](as.md)
+- [Constitución orgánica](co.md)
+- [Artículo tercero](at-2.md)
+- [Artículo cuarto](ac.md)
+- [Artículo quinto](aq.md)
+- [Artículo sexto](as-2.md)
+- [Artículo séptimo](as-3.md)
+- [Artículo octavo](ao.md)
+- [Artículo noveno](an-2.md)
+- [Artículo décimo](ad-2.md)
+- [Artículo undécimo](au-2.md)
+- [Artículo duodécimo](ad-3.md)
+- [Artículo decimotercero](ad-4.md)
+- [Artículo decimocuarto](ad-6.md)
+- [Sede y Delegaciones](sy.md)
+- [Artículo decimoquinto](ad-7.md)
+- [Artículo decimosexto](ad-8.md)
+- [Juntas de la Institución](jd.md)
+- [Artículo decimoséptimo](ad-9.md)
+- [Artículo decimoctavo](ad-10.md)
+- [Artículo decimonoveno](ad-11.md)
+- [Artículo vigésimo](av.md)
+- [Artículo vigésimo primero](av-2.md)
+- [Artículo vigésimo segundo](av-3.md)
+- [Artículo vigésimo tercero](av-4.md)
+- [Artículo vigésimo cuarto](av-5.md)
+- [Artículo vigésimo quinto](av-6.md)
+- [Artículo vigésimo sexto](av-7.md)
+- [Fondos de la Institución](fd.md)
+- [Artículo vigésimo séptimo](av-8.md)
+- [Elección de cargos](ed.md)
+- [Artículo vigésimo octavo](av-9.md)
+- [Artículo vigésimo noveno](av-10.md)
+- [Artículo trigésimo](at-3.md)
+- [Artículo trigésimo primero](at-4.md)
+- [Artículo trigésimo segundo](at-5.md)
+- [Nombramiento de nuevos Académicos](nd.md)
+- [Artículo trigésimo tercero](at-6.md)
+- [Artículo trigésimo cuarto](at-7.md)
+- [Artículo trigésimo quinto](at-8.md)
+- [Artículo trigésimo sexto](at-9.md)
+- [Artículo trigésimo séptimo](at-10.md)
+- [Artículo trigésimo octavo](at-11.md)
+- [Artículo trigésimo noveno](at-12.md)
+- [Publicaciones](pu.md)
+- [Artículo cuadragésimo](ac-3.md)
+- [Disposición adicional](da.md)
+- [Artículo cuadragésimo primero](ac-4.md)
