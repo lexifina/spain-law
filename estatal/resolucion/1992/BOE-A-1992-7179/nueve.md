@@ -1,0 +1,3 @@
+## Nueve. Puestos de trabajo que suponen el desempeño de funciones inspectoras.
+
+Sin perjuicio de lo dispuesto en el apartado sexto del artículo 7.° del Reglamento General de la Inspección de los Tributos, sólo los funcionarios públicos que desempeñen los puestos de trabajo a que se refieren los apartados uno, 2; ocho y doce de esta Resolución tendrán las atribuciones y facultades propias de la Inspección de los Tributos a los efectos de realizar las actuaciones inspectoras, documentar sus resultados y dictar las liquidaciones u otros actos administrativos que procedan, según las tareas propias de cada puesto de trabajo.
