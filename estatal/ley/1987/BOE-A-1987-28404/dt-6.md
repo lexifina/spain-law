@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Revisión de pensiones del Régimen de Clases Pasivas.
+
+Las pensiones del Régimen de Clases Pasivas causadas desde 1 de enero de 1985 a 31 de diciembre de 1987 por personal comprendido en las letras a) y e) del número uno del artículo tercero del texto refundido por la Ley de Clases Pasivas del Estado, aprobado por Real Decreto Legislativo 670/1987, de 30 de abril, que tuviera acreditados más de cuarenta años de servicios efectivos al Estado, se revisarán durante 1988 a efectos de adaptar su importe al que resultaría de la aplicación de la escala de porcentaje de cálculo prevista en el número tres del artículo sesenta y dos de esta Ley. Los efectos económicos de tal revisión se contarán desde la fecha de arranque del derecho pasivo.

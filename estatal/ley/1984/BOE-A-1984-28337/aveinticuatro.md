@@ -15,3 +15,5 @@
 7. Las retribuciones totales íntegras, excluidos trienios, del personal docente, funcionario o contratado, en régimen de dedicación plena y en régimen excepcional de dedicación normal, así como la de los profesores universitarios encargados de curso con nivel de dedicación inferior al C, no experimentarán variaciones con respecto al año 1984, a cuyo efecto, y si fuera preciso, se reducirá el sueldo establecido en la presente Ley para el correspondiente grupo.
 
 8. Las referencias contenidas a retribuciones en los artículos anteriores se entienden siempre hechas a retribuciones íntegras.
+
+> Se extingue la ayuda para comida a que se refiere el apartado 3, con efectos de 1 de enero de 1988, por el art. 36.5 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404.

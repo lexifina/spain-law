@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Régimen especial de Seguridad Social de las Fuerzas Armadas.
+
+El personal a que se refiere la letra b) del número uno de la disposición adicional primera de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986, que el 1 de febrero de 1986 estuviera desempeñando un puesto de trabajo en la Administración Militar o en sus Organismos autónomos, continuará incluido en el campo de aplicación del Régimen Especial de la Seguridad Social de las Fuerzas Armadas, hasta la fecha en que obtenga destino definitivo en puesto de trabajo no perteneciente a dicha Administración Militar o sus Organismos autónomos.
