@@ -27,3 +27,7 @@ Segundo.–Se modifica la redacción del número 3 del artículo 111 de la Ley G
 «El incumplimiento de las obligaciones establecidas en este artículo no podrá ampararse en el secreto bancario.
 
 Los requerimientos relativos a los movimientos de cuentas corrientes, depósitos de ahorro y a plazo, cuentas de préstamos y créditos y demás operaciones activas y pasivas, incluidas las que se reflejen en cuentas transitorias o se materialicen en la emisión de cheques u otras órdenes de pago a cargo de la Entidad, de los Bancos, Cajas de Ahorro, Cooperativas de Crédito, y cuantas personas físicas o jurídicas se dediquen al tráfico bancario o crediticio, se efectuarán previa autorización del director general o, en su caso, del titular del órgano competente de la Administración Tributaria, y deberán precisar los datos identificativos del cheque u orden de pago de que se trate, o bien las operaciones objeto de investigación, los obligados tributarios afectados y el período de tiempo a que se refieren. La investigación podrá comprender la información relativa al origen y destino de los movimientos o de los cheques u otras órdenes de pago.»
+
+> Téngase en cuenta el fallo de la Sentencia del TC 195/1994, de 28 de junio, Ref. BOE-T-1994-17501. sobre inconstitucionalidad y nulidad de la modificación establecida en el aparado 2, en su último inciso.
+
+> Véase la Sentencia del TC 195/1994, de 28 de junio. Ref. BOE-T-1994-17501., sobre inconstitucionalidad y nulidad de la modificación establecida en el aparado 2, en su último inciso.

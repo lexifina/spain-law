@@ -17,3 +17,7 @@ El vencimiento del plazo de ingreso en período voluntario determinará el deven
 5. Los órganos de recaudación podrán comprobar e investigar la existencia y situación de los bienes o derechos de los obligados al pago de una deuda, para asegurar o efectuar su cobro, ostentando cuantas facultades reconocen a la Administración los artículos 110 a 112 de esta Ley.
 
 Cuando la Administración tenga conocimiento de la existencia de fondos, valores u otros bienes entregados o confiados a una determinada entidad de crédito u otra persona o entidad depositaria, podrá disponer su embargo en la cuantía que proceda, sin necesidad de precisar los datos identificativos y la situación de cada cuenta, depósito u operación. Tratándose de valores, si de la información suministrada por la persona o entidad depositaria, en el momento del embargo, se deduce que los existentes no son homogéneos o que su valor excede del importe señalado en el apartado 1 del artículo 131 de esta Ley, se concretarán por el órgano de recaudación los que hayan de quedar trabados.»
+
+> Téngase en cuenta el fallo de la Sentencia del TC 195/1994, de 28 de junio, Ref. BOE-T-1994-17501. sobre inconstitucionalidad y nulidad de la modificación establecida en este artículo respecto del párrafo primero del art. 128.5.
+
+> Véase la Sentencia del TC 195/1994, de 28 de junio. Ref. BOE-T-1994-17501., sobre inconstitucionalidad y nulidad de la modificación establecida en este artículo respecto del párrafo primero del art. 128.5.
