@@ -1,0 +1,3 @@
+## Disposición adicional única. Ejecución de resoluciones judiciales y administrativas.
+
+Será aplicable a la ejecución de resoluciones judiciales o administrativas condenatorias de Cruz Roja Española lo dispuesto en la legislación vigente respecto a la ejecución de las sentencias condenatorias a la Administración del Estado, correspondiendo al Ministerio de Asuntos Sociales las funciones que dicha legislación atribuye a la autoridad administrativa que debe llevar a puro y debido efecto la ejecución de las resoluciones, de acuerdo con lo dispuesto por el artículo 44 de la Ley General Presupuestaria, sin perjuicio de la potestad jurisdiccional en orden a la ejecución de las sentencias.
