@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Delegación Especial del Ministerio de Economía y Hacienda.
+
+La Delegación Especial del Ministerio de Economía y Hacienda a la que se refiere el artículo 2.5.b) del Real Decreto 1552/2004, de 25 de junio, por el que se desarrolla la estructura orgánica básica del Ministerio de Economía y Hacienda, desarrollará en RENFE-Operadora las funciones que le atribuye el Decreto 298/1963, de 14 de febrero, sobre organización y funcionamiento de la Delegación de Hacienda en RENFE, en la medida en que no se opongan a lo establecido en la Ley del Sector Ferroviario y en el Estatuto que se aprueba mediante este Real Decreto.
