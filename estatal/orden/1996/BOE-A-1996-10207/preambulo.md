@@ -1,0 +1,3 @@
+El Real Decreto 1084/1991, de 5 de julio, sobre sociedades anónimas deportivas, en la redacción dada por el Real Decreto 449/1995, de 4 de marzo, establece en su artículo primero que la participación de los clubes, o sus equipos profesionales en competiciones deportivas oficiales de carácter profesional y ámbito estatal exigirá, entre otros requisitos, la acreditación de que se reúnen las condiciones de cumplimiento de sus obligaciones con la Seguridad Social. Los términos de tales condiciones se determinarán, a los meros efectos de la participación en competiciones profesionales, mediante Orden del Ministro de Educación y Ciencia.
+
+En su virtud, en uso de las facultades conferidas, y a propuesta del Consejo Superior de Deportes, he dispuesto:
