@@ -2,6 +2,10 @@
 
 1. Competen al Ministerio de Transportes, Turismo y Comunicaciones, a través de la Dirección General de Aviación Ovil, regular, dirigir e inspeccionar la práctica y enseñanza del Vuelo a Vela que se realicen en territorio nacional, coordinando las iniciativas que en cuanto a promoción y fomento de esta modalidad de vuelo puedan desarrollar otros Organismos.
 
-2. Igualmente competen a este Departamento la concesión y expedición de títulos, licencias y calificaciones, determinando los requisitos y trámites necesarios.
+2. (Derogado)
 
-3. La Subdirección General de Explotación del Transporte Aéreo, a través de la Sección de Aviación General y Deportiva, proveerá el desempeño de las funciones enunciadas y demás preceptos de esta disposición.
+3. (Derogado)
+
+> Se derogan los apartados 2 y 3 por la disposición derogatoria de la Orden de 30 de noviembre de 1990. Ref. BOE-A-1990-30526.
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. Ref. BOE-A-1995-16224.

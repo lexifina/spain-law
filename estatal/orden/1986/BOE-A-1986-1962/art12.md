@@ -1,3 +1,7 @@
 ## Art. 12. Súbditos extranjeros.
 
-Los súbditos extranjeros que aspiren al título de Piloto de Planeador habrán de realizar un curso en una Escuela, como Alumno-Piloto de Planeador, al igual que los nacionales, previa la obtención de la misma tarjeta que éstos, a cuyo fin presentarán los documentos equivalentes en su país a los fijados en el apartado b) del artículo 11 anterior, legalizados por la representación diplomática o consular correspondiente, salvo el certificado médico que será precisamente el previsto en el apartado 3 del párrafo y artículo referidos.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. Ref. BOE-A-1990-30526.
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. Ref. BOE-A-1995-16224.

@@ -1,3 +1,7 @@
 ## Art. 18. Atribuciones.
 
-El título de Piloto de Planeador faculta a su poseedor para actuar como Piloto al mando de cualquier planeador y llevar ocupantes, utilizando el sistema de remolque en que haya recibido la instrucción correspondiente y adquirido experiencia.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Orden de 30 de noviembre de 1990. Ref. BOE-A-1990-30526.
+
+> Téngase en cuenta que la Sentencia de la AN de 26 de noviembre de 1993 anula esta Orden, disponiéndose su cumplimiento por Resolución de 6 de junio de 1995. Ref. BOE-A-1995-16224.
