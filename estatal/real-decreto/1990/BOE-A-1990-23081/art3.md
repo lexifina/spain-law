@@ -1,3 +1,5 @@
 ## Art. 3.
 
-No se podrán realizar exámenes radioscópicos directos sin intensificador de imagen, salvo que concurran circunstancias de extraordinaria y urgente necesidad apreciadas por el Médico.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1976/1999, de 23 de diciembre. Ref. BOE-A-1999-24717.
