@@ -6,4 +6,6 @@ Vencido este plazo, se iniciará dicho procedimiento en el que la resolución sa
 
 2. La sanción principal o la accesoria a que se refiere el artículo 10 de la Ley 40/1979, de 10 de diciembre, podrán hacerse efectivas sobre las garantías que, en su caso, hubieran sido constituidas durante la tramitación del procedimiento administrativo, de conformidad con lo dispuesto en el artículo 15 de la misma Ley.
 
-3. Cuando por resolución firme se estime el recurso, dejando sin efecto o reduciendo la cuantía de la multa o de las obligaciones impuestas, se procederá a la cancelación de las garantías constituidas con devolución de su totalidad o del sobrante que quedase.
+3. La resolución que ponga fin al procedimiento sancionador acordará lo procedente acerca de las garantías constituidas y de las medidas cautelares adoptadas.
+
+> Se modifica el apartado 3 por el art. 5 del Real Decreto 1638/1996, de 5 de julio. Ref. BOE-A-1996-15620.
