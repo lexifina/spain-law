@@ -1,0 +1,5 @@
+## MODELO VII. INSCRIPCIÓN EXTENSA DE HIPOTECA VOLUNTARIA
+
+| Notas marginales | Núm. de orden de las inscripciones | Finca número ........ |
+| --- | --- | --- |
+|  | 3.ª | Rústica: Prado de la Ermita, descrito en la inscripción 3.ª Libre de cargas. Tasada, a efectos de subasta, en veinte mil pesetas. Don ........, mayor de edad, casado con doña ........, Ingeniero y vecino de Madrid, adquirió esta finca por compra según la inscripción 2.ª, y constituye hipoteca voluntaria sobre la misma a favor de don ........, mayor de edad, casado con doña ........, en garantía de un préstamo de quince mil pesetas de principal, entregadas en el acto del otorgamiento de la escritura, de los intereses al cinco por ciento anual y de tres mil pesetas para costas y gastos. Se fija como domicilio del deudor para requerimientos y notificaciones la finca hipotecada. El contrato se ha celebrado, entre otras con las siguientes estipulaciones: (Consígnese únicamente los que tengan trascendencia real) Don ........ inscribe su derecho de hipoteca. Así resulta de la escritura de préstamo con hipoteca otorgada en ........ (Final del modelo II.) |
