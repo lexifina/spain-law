@@ -1,0 +1,7 @@
+Excelentísimos e ilustrísimos señores:
+
+La Orden de 17 de enero de 1980 del Ministerio de Sanidad y Seguridad Social, por la que se aprueba el Reglamento de Régimen y Funcionamiento de los Consejos Generales del Instituto Nacional de la Seguridad Social, del Instituto Nacional de la Salud y del Instituto Nacional de Servicios Sociales, establece en su Artículo 13 la composicion, funciones y normas de funcionamiento de las Comisiones Ejecutivas Provinciales de los citados Consejos Generales.
+
+Por otra parte, los Consejos Generales de los respectivos Institutos de la Seguridad Social han puesto de manifiesto la necesidad de establecer una normativa específica de dichas Comisiones Ejecutivas Provinciales que regule el funcionamiento de las mismas en la línea de una mayor participación de las Organizaciones Sindicales y Empresariales en el control de la gestión de la Seguridad Social que, además, esta en consonancia con lo previsto en el Acuerdo Nacional sobre Empleo.
+
+En su virtud, y de conformidad con los Acuerdos adoptados por los Consejos Generales del Instituto Nacional de la Seguridad Social, del Instituto Nacional de la Salud y del Instituto Nacional de Servicios Sociales, este Ministerio ha tenido a bien aprobar el siguiente Reglamento de Régimen y Funcionamiento de las Comisiones Ejecutivas Provinciales de los Consejos Generales de los Institutos Nacionales de la Seguridad Social.
