@@ -1,0 +1,3 @@
+## Norma 5.ª Tratamiento contable de las inversiones en valores no cotizados.
+
+El tratamiento contable de las inversiones de las IIC en valores no cotizados se ajustará a lo previsto en esta sección, a los principios establecidos en la norma 6.a de la Circular 7/1990, de 27 de diciembre, de la Comisión Nacional del Mercado de Valores, sobre normas contables y estados financieros reservados de Instituciones de Inversión Colectiva (en adelante Circular 7/1990), y a los criterios generales que les sean de aplicación recogidos en las normas 9.a 2.A, 10 y 11 de la mencionada Circular. En lo no previsto en las normas anteriores, se estará a lo dispuesto en el Código de Comercio, Ley de Sociedades Anónimas y el Plan General de Contabilidad.
