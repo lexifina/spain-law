@@ -1,0 +1,7 @@
+Las Denominaciones de Origen de los vinos españoles fueron creadas por el Estatuto del Vino, aprobado por Ley de veintiséis de mayo de mil novecientos treinta y tres, constituyéndose en cada una de ellas un Consejo Regulador como Organismo rector de las mismas. Por la Ley veinticinco/mil novecientos setenta, de dos de diciembre, se modificaron en parte las normativas que regulaban estos Organismos, ampliándose también el marco de aplicación de las Denominaciones de Origen a otros productos agrarios y creando el Instituto Nacional de Denominaciones de Origen.
+
+Tanto eI Consejo General del I. N. D. O. como los Consejos Reguladores de cada una de las Denominaciones existentes están constituidos por Vocales representativos de los diversos sectores que intervienen en la producción, elaboración y comercialización de los productos sometidos a este régimen, por lo que es necesario adecuar la forma de elección de estos Vocales a los principios de libertad sindical, dando las normas fundamentales para que puedan renovarse estos Vocales y adquieran estos Organismos la plena eficacia derivada de su indiscutible representatividad.
+
+En su virtud, a propuesta del Ministro de Agricultura y en uso de las autorizaciones concedidas por el Real Decreto-ley treinta y uno/mil novecientos setenta y siete, de dos de junio, y previa deliberación del Consejo de Ministros en su reunión del día trece de julio de mil novecientos setenta y nueve,
+
+## DISPONGO:
