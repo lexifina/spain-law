@@ -12,6 +12,8 @@ No obstante, no requieren autorización judicial para obtener certificación:
 
 5.º Respecto del legajo de abortos, los padres.
 
-Tampoco requieren autorización judicial los representantes legales de las personas antes referidas y los apoderados especialmente por aquéllos o éstas.
+Tampoco requieren autorización judicial los que tienen bajo su guarda las personas antes referidas y los apoderados especialmente por aquellos o éstas. Aunque el apoderamiento escrito o la guarda no consten fehacientemente, el Encargado podrá discrecionalmente estimarlos acreditados.
 
 En la certificación se expresará, en todos los supuestos de este artículo, el nombre del solicitante.
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. Ref. BOE-A-1969-745.

@@ -1,3 +1,5 @@
 ## Art. 31.
 
-En las certificaciones de inscripciones que sólo dan fe de las declaraciones en cuya virtud se practican o de la gracia de recuperación de nacionalidad, se hará constar tal circunstancia.
+En cuanto a las certificaciones de anotaciones, o a las de inscripciones sobre vecindad civil, o conservación, opción o recuperación de la nacionalidad, se estará, respectivamente, a lo dispuesto en los artículos 145 y 227.
+
+> Se modifica por el art. 1 del Decreto 1138/1969, de 22 de mayo. Ref. BOE-A-1969-745.
