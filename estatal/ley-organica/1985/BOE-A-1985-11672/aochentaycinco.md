@@ -1,6 +1,6 @@
 ## Artículo ochenta y cinco
 
-1. El derecho a votar se acredita por la inscripción en los ejemplares certificados de las listas del censo o por certificación censal específica y en ambos casos, por la identificación del elector, que se realiza mediante documento nacional de identidad, pasaporte o permiso de conducir, en que aparezca la fotografía del titular; en las elecciones municipales y al Parlamento Europeo, los extranjeros con derecho de sufragio acreditarán su identidad con la tarjeta de residencia.
+1. El derecho a votar se acredita por la inscripción en los ejemplares certificados de las listas del censo o por certificación censal específica y, en ambos casos, por la identificación del elector, que se realiza mediante documento nacional de identidad, pasaporte o permiso de conducir en que aparezca la fotografía del titular o, además, tratándose de extranjeros, con la tarjeta de residencia.
 
 2. Los ejemplares certificados de las listas del censo a los que se refiere el párrafo anterior contendrán exclusivamente los ciudadanos mayores de edad en la fecha de la votación.
 
@@ -10,6 +10,8 @@
 
 5. La certificación censal específica, a través de la cual el ciudadano acredita con carácter excepcional su inscripción en el censo electoral, se regirá en cuanto a su expedición, órgano competente para la misma, plazo y supuestos en que proceda, por lo que disponga al respecto la Junta Electoral Central mediante la correspondiente Instrucción.
 
+> Se modifica el apartado 1 por el art. 5 de la Ley Orgánica 1/1997, de 30 de mayo. Ref. BOE-A-1997-11653.
+
 > Se añade el apartado 5 por el art. 13 de la Ley Orgánica 3/1995, de 23 de marzo. Ref. BOE-A-1995-7239.
 
-> Se modifican los apartados 1 y 2 por el art. único .25 de la Ley Orgánica 8/1991 de 13 de marzo. Ref. BOE-A-1991-6824.
+> Se modifican los apartados 1 y 2 por el art. único.25 de la Ley Orgánica 8/1991 de 13 de marzo. Ref. BOE-A-1991-6824.

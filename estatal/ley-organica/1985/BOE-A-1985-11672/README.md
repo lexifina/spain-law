@@ -261,6 +261,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo ciento ochenta y seis](acientoochentayseis.md)
 - [SECCIÓN II](sii-7.md)
 - [Artículo ciento ochenta y siete](acientoochentaysiete.md)
+- [Artículo ciento ochenta y siete bis](acientoochentaysietebis.md)
 - [SECCIÓN III](siii-7.md)
 - [Artículo ciento ochenta y ocho](acientoochentayocho.md)
 - [SECCIÓN IV](siv-6.md)

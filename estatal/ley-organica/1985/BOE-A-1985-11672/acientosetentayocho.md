@@ -16,4 +16,8 @@ d) Los contratistas o subcontratistas de contratos, cuya financiación total o p
 
 4. Cuando la causa de incompatibilidad sea la contenida en el punto b), del apartado 2, el funcionario o empleado que optare por el cargo de Concejal pasará a la situación de servicios especiales o subsidiariamente a la prevista en sus respectivos convenios que en todo caso ha de suponer reserva de su puesto de trabajo.
 
-> Redactado el apartado 2 b) conforme a la corrección de errores publicada en el BOE núm 17, de 20 de enero de 1986. Ref. BOE-A-1986-1478
+5. Los ciudadanos que sean elegibles, de acuerdo con el artículo 177, apartado 1, de esta Ley, estarán sujetos a las causas de incompatibilidades a que se refiere el presente artículo.
+
+> Se añade el apartado 5 por el art. 3 de la Ley Orgánica 1/1997, de 30 de mayo. Ref. BOE-A-1997-11653.
+
+> Redactado el apartado 2 b) conforme a la corrección de errores publicada en el BOE núm 17, de 20 de enero de 1986. Ref. BOE-A-1986-1478.
