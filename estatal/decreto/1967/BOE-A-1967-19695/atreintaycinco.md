@@ -1,6 +1,6 @@
 ## Artículo treinta y cinco. Cupos de Especialidades.
 
-Uno. Los cupos de titulares determinantes de las plazas de Especialidades Médicas serán los siguientes:
+Uno. Los cupos de titulares determinantes de las plazas de Especialidades Médicas, en los supuestos a que se refiere el número dos del artículo cuarenta y tres del presente Decreto, serán los siguientes:
 
 Especialidades del primer grupo: once mil.
 
@@ -22,4 +22,6 @@ c) Son especialidades del tercer grupo:
 
 Nutrición y secreciones internas.
 
-Tres. El número de Especialistas guardará relación con el de Médicos generales, cuando así lo aconseje la organización de la asistencia sanitaria de la Seguridad Social
+Tres. Los cupos que se regulan en el número uno de este artículo, de conformidad con lo indicado en su párrafo primero, dejarán de ser de aplicación para la determinación de las plazas de Especialidades Médicas de una circunscripción territorial cuando en ella se jerarquice alguna Institución Sanitaria Abierta.
+
+> Se modifica el párrafo primero del apartado 1 y el apartado 3 por el art. único.4 del Decreto 1872/1971, de 23 de julio. Ref. BOE-A-1971-980.
