@@ -41,6 +41,8 @@
 | 10 Pipradrol. |  | 1,1-fifenil-1-(2-peperidi) metanol. |
 | 11 | SPA. | (-)-1-dimetiIamino-1,2-difeniletano. |
 
+> Véase el apartado 1 de la Orden de 12 de julio de 1985 Ref. BOE-A-1985-15521, en relación a la inclusión de sustancias en la lista I.
+
 > Véanse los apartados 1 de las Órdenes de 30 de mayo de 1984 Ref. BOE-A-1984-12894 y Ref. BOE-A-1984-12895, en relación a la inclusión de sustancias en las listas III y IV.
 
 > Ténganse en cuenta para su aplicación los apartados 2 a 4.
