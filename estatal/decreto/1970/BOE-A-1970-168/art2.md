@@ -1,13 +1,15 @@
 ## Art. 2.
 
-A) La Academia se compone
+A) La Academia se compone:
 
-De 36 Académicos de Número, domiciliados en Madrid, requisito que podrá ser dispensado por acuerdo de la propia Corporación, a tenor del Decreto de 14 de marzo de 1963.
+- De cuarenta Académicos de número de nacionalidad española.
 
-De Supernumerarios procedentes de la clase de Académicos de Número.
+- De Supernumerarios procedentes de la clase de Académicos de número.
 
-De 30 Correspondientes españoles que residan fuera de Madrid.
+- De treinta Correspondientes españoles que residan fuera de Madrid.
 
-De Honorarios y Correspondientes extranjeros.
+- De Honorarios y Correspondientes extranjeros.
 
-B) La Academia tiene como sello y empresa de sus Medallas una Matrona con la llama de la Inteligencia y los atributos simbólicos de la Verdad y este lema «Verum Justum Pulchrum».
+B) La Academia tiene como sello y empresa de sus medallas una Matrona con la llama de la Inteligencia y los atributos simbólicos de la Verdad, y este lema: "Verum. Justum. Pulchrum".
+
+> Se modifica por el art. único del Real Decreto 1648/1990, de 20 de diciembre. Ref. BOE-A-1990-31184.
