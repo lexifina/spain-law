@@ -4,4 +4,6 @@ Uno. A los efectos prevenidos en el artículo ochenta y nueve, los Ayuntamientos
 
 Dos. También destinarán el cinco por ciento, al menos, del mismo presupuesto a la ejecución de urbanizaciones previstas en los programas de actuación.
 
-Tres. Las expresadas asignaciones figurarán al mismo tiempo en el estado de ingresos de los Presupuestos especiales de Urbanismo cuando existieren.
+Tres. (Derogado)
+
+> Se deroga el apartado 3 por el art. 12.1 y 4 de la Ley 40/1981, de 28 de octubre, Ref. BOE-A-1981-26083., según establece el art. 3 del Real Decreto 3183/1981, de 29 de diciembre. Ref. BOE-A-1981-30207.
