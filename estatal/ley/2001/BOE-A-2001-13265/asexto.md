@@ -18,9 +18,9 @@ f) Contratación de perceptores de prestaciones o subsidios por desempleo, a los
 
 g) Contrataciones de desempleados perceptores del subsidio por desempleo en favor de los trabajadores incluidos en el Régimen especial agrario de la Seguridad Social: 90 por 100 durante el primer año de vigencia del contrato ; 85 por 100 durante el segundo año de vigencia del mismo.
 
-h) Contratación de desempleados admitidos en el programa que contempla la ayuda específica denominada renta activa de inserción: 65 por 100 durante los veinticuatro meses siguientes al inicio de la vigencia del contrato.
+h) Contratación de desempleados admitidos en el programa que contempla la ayuda específica denominada renta activa de inserción: 65 por 100 durante los veinticuatro meses siguientes al inicio de la vigencia del contrato ; 45 por 100 durante el resto de vigencia del mismo en el caso de trabajadores mayores de cuarenta y cinco años y hasta los cincuenta y cinco ; o 50 por 100 durante el resto de vigencia del mismo en el caso de trabajadores mayores de cincuenta y cinco años y hasta los sesenta y cinco.
 
-i) Contratación de mujeres desempleadas inscritas durante un período de doce o más meses en la oficina de empleo que sean contratadas en los veinticuatro meses siguientes a la fecha del parto: 100 por 100 durante los doce siguientes meses al inicio de la vigencia del contrato.
+i) Contratación de mujeres desempleadas inscritas en la oficina de empleo que sean contratadas en los veinticuatro meses siguientes a la fecha de parto: 100 por 100 durante los doce meses siguientes al inicio de la vigencia del contrato.
 
 2. La contratación indefinida a tiempo completo o parcial, incluida la contratación de trabajadores fijos discontinuos, que realice un trabajador autónomo de los referidos en el número 1.2 del artículo cuarto, con un trabajador desempleado dará lugar a la aplicación de las bonificaciones en la cuota empresarial a la Seguridad Social por contingencias comunes previstas en el número 1 de este artículo, con un incremento de cinco puntos respecto de lo previsto para cada caso, excepto en el supuesto del apartado i).
 
@@ -33,5 +33,9 @@ i) Contratación de mujeres desempleadas inscritas durante un período de doce o
 Darán derecho a la misma bonificación las transformaciones de contratos de prácticas y de relevo celebrados inicialmente a tiempo parcial, en indefinidos a tiempo parcial. En este supuesto la jornada del nuevo contrato indefinido será como mínimo igual a la del contrato en prácticas o de relevo que se transforma
 
 6. Los contratos acogidos al presente programa de fomento del empleo estable se formalizarán en el modelo oficial que disponga el Instituto Nacional de Empleo.
+
+> Se modifican los apartados 1.h) e i) por la disposición final 1.2 del Real Decreto-Ley 5/2002, de 24 de mayo. Ref. BOE-A-2002-10097.
+
+> Téngase en cuenta que el Real Decreto-ley 5/2002, de 24 de mayo, se declara inconstitucional y nulo por Sentencia del TC 68/2007, de 28 de marzo. Ref. BOE-T-2007-8660
 
 > Se modifican el párrafo primero del apartado 1 y el apartado 5 por la disposición adicional 4.2.3 y 4 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
