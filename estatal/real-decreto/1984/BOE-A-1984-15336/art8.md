@@ -25,8 +25,6 @@ Los aditivos que se indican a continuación deberán responder a las normas de i
 | Fosfato ácido de sodio | E-339 | 2.000 ppm. |
 | Fosfato monopotásico | E-340 | 2.000 ppm. |
 | Pirofosfato ácido de sodio | E-450 | 2.000 ppm. |
-| 2.2 Colorantes: |  |  |
-| Curcumina | E-100 | 300 ppm. |
-| Lactoflavina (Riboflavina) | E-101 | 300 ppm. |
-| Tartracina | E-102 | 300 ppm. |
-| Amarillo de quinoleína | E-104 | 300 ppm. |
+| 2.2 (Derogado) |  |  |
+
+> Se deroga el apartado 2.2 por la disposición derogatoria única.15 del Real Decreto 2001/1995, de 7 de diciembre. Ref. BOE-A-1996-1387.

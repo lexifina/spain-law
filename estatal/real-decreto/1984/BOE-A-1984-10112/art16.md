@@ -6,46 +6,7 @@ De conformidad con el artículo 2.2 del Decreto 2919/1974, de 9 de agosto, dicha
 
 Los aditivos que se indican a continuación deberán responder a las normas de identificación, calidad y pureza prescritas por la Subsecretaría de Sanidad y Consumo del Ministerio de Sanidad y Consumo.
 
-|  | Número | Dosis máxima de uso |
-| --- | --- | --- |
-| 1. Colorantes. |  |  |
-| Curcumina | E-100 | 20 mg/Kg. |
-| Lactoflavina (Riboflavina) | E-101 |
-| Clorofilas | E-140 | B.P.F. |
-| Complejos cúpricos de clorofila y clorofilinas | E-141 |
-| Caramelo | E-150 |
-| Carotenoides | E-160 |
-| a) Alfa, beta, gamma caroteno. |  |
-| b) Bixina, norbixina, rocou annato. |  |
-| c) Capsantina, capsorubina. |  |
-| d) Licopenos |  |
-| e) Beta-apo-8’-carotenal. |  |
-| f) Ester etílico del ácido beta apo-8’-carotenoico. |  |
-| Xantofilas | E-161 |
-| a) Flavoxantina. |  |
-| b) Luteína. |  |
-| c) Criptoxantina. |  |
-| d Rubixantina. |  |
-| e) Violoxantina |  |
-| f) Rodoxantina. |  |
-| g) Cantaxantina. |  |
-
-Además de los enumerados anteriormente y únicamente para las salsas incluidas en el artículo 13, podrán utilizarse los siguientes:
-
-|  | Número | Dosis máxima de uso |
-| --- | --- | --- |
-| Tartracina | E-102 | 100 mg/Kg, aislados o en conjunto. |
-| lndigotina (carmín de indigo) | E-132 |
-| Verde ácido brillante RS (verde lisamina) | E-142 |
-| Rojo de remolacha y betamina | E-162 |
-|  |  |  |
-| Amarillo de quinoleina | E-104 | 50 mg/Kg, aislados o en conjunto. |
-| Amarillo anaranjado S | E-110 |
-| Azorrubina | E-122 |
-| Eritrosina | E-127 |
-| Azul patentado V | E-131 |
-
-En la elaboración de tomate frito y ketsup no se autorizan colorantes.
+1. (Derogado)
 
 |  | Número | Dosis máxima de uso |
 | --- | --- | --- |
@@ -138,6 +99,8 @@ Para mayonesas, salsa fina y otras salsas emulsionadas:
 |  |  |
 | Bicarbonato sódico | H-8.186 | 0.2 por 100, aislados o en conjunto. |
 | Bicarbonato potásico | H-11.185 |
+
+> Se deroga el apartado 1 por la disposición derogatoria única.26 del Real Decreto 2001/1995, de 7 de diciembre. Ref. BOE-A-1996-1387.
 
 > Véase el apartado 1 de la Orden de 13 de octubre de 1988 sobre la prohibición de la utilización del estearato de ascorbilo en la elaboración de productos alimenticios. Ref. BOE-A-1988-24783.
 

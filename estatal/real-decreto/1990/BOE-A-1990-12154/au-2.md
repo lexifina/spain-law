@@ -285,24 +285,7 @@ Solamente podrán añadirse las sustancias que se relacionan a continuación y e
 
 Los aditivos que se indican deberán responder a lo establecido en las normas vigentes de identificación y pureza.
 
-5.2.1 Colorantes.
-
-| Número | Denominación | Dosis máxima de uso | Condiciones de empleo |
-| --- | --- | --- | --- |
-| E-102 | Tartacina. | 100 ppm. en conjunto para obtener color verde estable. | En todos los productos definidos en el apartado 2, con excepción de los definidos en los apartados 2.1, 2.3 y 2.7, a los cuales solamente se podrán añadir cuando sean fabricados a partir de frutas que pertenezcan a una o más de las clases de frutas siguientes: Fresas, frambuesas, uva espina, grosellas rojas y ciruelas. Cuando estos colorantes se utilicen en combinación se hará en cantidades tales que la suma de los porcentajes de cada una de ellas, referida a las dosis máxima, no sobrepase 100. |
-| E-104 | Amarillo de quinoleína. |
-| E-131 | Azul patentado V. |
-| E-120 | Cochinilla, ácido carmínico. | 100 ppm. |
-| E-124 | Rojo cochinilla A (Ponceau 4R). |
-| E-140 | Clorofilas. |
-| E-141 | Complejos cúpricos de clorofilas y clorofilinas. |
-| E-160 a) | Alfa, beta y gamma caroteno. | 300 ppm. |
-| c) | Capsantina, capsorrubina. |
-| d) | Licopeno. |
-| E-161 a) | Flavoxantina. |
-| f) | Rodoxantina. |
-| E-162 | Rojo de remolacha (betanina). |
-| E-163 | Antocianos. |
+5.2.1 Colorantes. (Derogado).
 
 5.2.2 Conservadores.
 
@@ -396,5 +379,7 @@ Si no tienen corteza, indicar «sin corteza».
 7.4.3 Cuando el contenido residual de anhídrido sulfuroso de un producto supere los 30 miligramos por kilogramo, la mención «anhídrido sulfuroso» deberá indicarse en la lista de ingredientes en función de la importancia ponderal del residuo en el producto acabado.
 
 7.4.4 En el caso de productos fabricados a partir de tres o más frutas, se admite que la enumeración de las frutas utilizadas en la lista de ingredientes se sustituya por la mención «frutas».
+
+> Se deroga el apartado 5.2.1 por la disposición derogatoria única.11 del Real Decreto 2001/1995, de 7 de diciembre. Ref. BOE-A-1996-1387#ddunica
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. Ref. BOE-A-1990-23082

@@ -10,47 +10,7 @@ Lista positiva de aditivos y coadyuvantes tecnológicos autorizados para la elab
 
 1. Aditivos:
 
-1.1 Colorantes:
-
-| Color | Denominación usual | Número |
-| --- | --- | --- |
-| Amarillo. | Curcumina. | E-100 |
-|  | Lactoflavina (rivoflavina). | E-101 |
-|  | Tartracina. | E-102 |
-|  | Amarillo de quinoleína. | E-104 |
-| Naranja. | Amarillo anaranjado S. | E-110 |
-| Rojo. | Cochinilla, ácido carmínico. | E-120 |
-|  | Azorrubina. | E-122 |
-|  | Amaranto. | E-123 |
-|  | Rojo cochinilla A (Ponceau 4R). | E-124 |
-|  | Eritrosina. | E-127 |
-| Azul. | Azul patentado V. | E-131 |
-|  | Indigotina (carmín de indigo). | E-132 |
-| Verde. | Clorofilas. | E-140 |
-|  | Complejos cúpricos de clorofilas y clorofilinas. | E-141 |
-|  | Verde ácido brillante BS. | E-142 |
-| Pardo. | Caramelo. | E-150. |
-| Matices diversos. | Carotenoides: | E-160 |
-|  | a) Alfa, beta y gamma caroteno. |  |
-|  | b) Bixina, norbixina (bija, annato). |  |
-|  | c) Capsantina, capsorrubina. |  |
-|  | d) Licopeno. |  |
-|  | e) Beta-apo-8’ carotenal. |  |
-|  | f) Ester etílico del ácido beta apo-8’ carotenoico. |  |
-|  | Xantofilas: | E-161 |
-|  | a) Flavoxantina. |  |
-|  | b) Luteina. |  |
-|  | c) Criptoxantina. |  |
-|  | d) Rubixantina. |  |
-|  | e) Violoxantina. |  |
-|  | f) Rodoxantina. |  |
-|  | g) Cantasantina. |  |
-|  | Rojo de remolacha, betanina. | E-162 |
-|  | Antocianos. | E-163 |
-
-Dosis máxima de uso (1): Colorantes naturales: BPF.
-
-Colorantes artificiales: 350 ppm aislados o en conjunto, cuando se utilice más de uno.
+1.1 (Derogado)
 
 |  | Número | Dosis máxima de uso (1) |
 | --- | --- | --- |
@@ -120,3 +80,5 @@ Tierra de infusorios.
 Caolín.
 
 Dióxido de silicio amorfo.
+
+> Se deroga el apartado 1.1 por la disposición derogatoria única.14 del Real Decreto 2001/1995, de 7 de diciembre. Ref. BOE-A-1996-1387.
