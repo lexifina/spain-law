@@ -4,7 +4,7 @@ Además de las competencias básicas establecidas en la Ley Orgánica, correspon
 
 a) Representar a la Institución.
 
-b) Proponer los Adjuntos, a efecto de que las Comisiones del Congreso y del Senado encargadas de relacionarse con el Defensor del Pueblo otorguen su conformidad previa al nombramiento y cese de los mismos.
+b) Proponer los Adjuntos, a efecto de que la Comisión mixta Congreso-Senado de relaciones con el Defensor del Pueblo otorgue su conformidad previa al nombramiento y cese de los mismos.
 
 c) Mantener relación directa con las Cortes Generales a través del Presidente del Congreso de los Diputados y con ambas Cámaras a través de sus respectivos Presidentes.
 
@@ -31,3 +31,5 @@ m) Aprobar las bases para la selección de personal y la contratación de obras 
 n) Aprobar las instrucciones de orden interno que se dicten para mejor ordenación de los servicios.
 
 o) Supervisar el funcionamiento de la Institución.
+
+> Se modifica la letra b) por el art. único.2 de la Resolución de 21 de abril de 1992. Ref. BOE-A-1992-8905.
