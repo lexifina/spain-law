@@ -25,3 +25,5 @@ Para la redacción de los programas y proyectos a que se refiere el párrafo ant
 6. La Intervención General de la Administración del Estado no fiscalizará de conformidad propuesta de gasto alguna en tanto no se acredite la retención del crédito preciso para los trabajos a que se refiere el apartado 1 de este artículo, cuando resulte legalmente exigible.
 
 7. Los Servicios, Organismos y Sociedades estatales que no puedan efectuar transferencias de crédito, ingresarán el preceptivo 1 por 100 en el Tesoro Público dentro de los dos meses siguientes a la aprobación del presupuesto de la inversión. Estos ingresos generarán el crédito oportuno a favor del Ministerio de Cultura con destino a la financiación de los trabajos a que se refiere el párrafo 4 de este artículo para los cual dichos centros deberán enviar el resguardo complementario para habilitación de crédito al citado Ministerio.
+
+> Se deroga el procedimiento de transferencia de crédito al Ministerio de Cultura por el art. 20.2 de la Ley 33/197, de 23 de diciembre. Ref. BOE-A-1987-28404

@@ -32,4 +32,6 @@ G) Liquidación y pago: El Gobierno regulará los procedimientos de valoración,
 
 H) Gestión: La gestión de esta tasa quedará atribuida al Ministerio de Cultura.
 
-I) Destino: El producto de esta tasa se ingresará en el Tesoro Público, generándose de modo automático el crédito oportuno en favor del Organismo correspondiente de la Administración del Estado, que se destinará exclusivamente a la adquisición de bienes de interés para el Patrimonio Histórico Español.
+I) Destino: El producto de esta tasa se ingresará en el Tesoro Público, quedando afectado exclusivamente a la adquisición de bienes de interés para el Patrimonio Histórico Español.
+
+> Se modifica la letra i) por el art. 20.1 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404.
