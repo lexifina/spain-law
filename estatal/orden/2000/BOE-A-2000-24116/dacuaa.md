@@ -1,0 +1,5 @@
+## Disposición adicional cuarta.
+
+Los certificados X.509.V3 expedidos por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda al amparo de la normativa tributaria, con anterioridad a la entrada en vigor de la presente Orden, serán válidos, siempre que se encuentren en vigor, a efectos de la presentación telemática de las declaraciones que se contemplan en esta Orden.
+
+No obstante lo anterior, los certificados X.509.V3 expedidos por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda al amparo de lo dispuesto en el apartado séptimo y en la disposición adicional primera de la Orden de 13 de abril de 1999 por la que se establecen las condiciones generales y el procedimiento para la presentación telemática de declaraciones del Impuesto sobre la Renta de las Personas Físicas («Boletín Oficial del Estado» del 19), no podrán utilizarse para la presentación telemática, en representación de terceras personas, de las declaraciones correspondientes a los modelos 198, 216, 296, 345, 117, 123, 124, 126, 128 y 193.
