@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Régimen de los beneficios fiscales anteriores a la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.
+
+A partir del 31 de diciembre de 1989, quedarán suprimidos cuantos beneficios fiscales estuvieren establecidos en los tributos locales con anterioridad a la entrada en vigor de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, tanto de forma genérica como específica, en toda clase de disposiciones distintas de las de régimen local, sin que su vigencia pueda ser invocada respecto de ninguno de los tributos regulados en este texto refundido; lo anterior se entiende sin perjuicio de lo establecido en las disposiciones transitorias tercera, cuarta y quinta de este texto refundido.

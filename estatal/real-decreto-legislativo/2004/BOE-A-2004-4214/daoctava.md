@@ -1,0 +1,3 @@
+## Disposición adicional octava. Régimen especial de los Territorios Históricos del País Vasco en materia municipal.
+
+Los Territorios Históricos del País Vasco continuarán conservando su régimen especial en materia municipal en lo que afecta al régimen económico-financiero en los términos de la Ley del Concierto Económico, sin que ello pueda significar un nivel de autonomía de las corporaciones locales vascas inferior al que tengan las demás corporaciones locales, sin perjuicio de la aplicación de lo dispuesto en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, y de las competencias que a este respecto puedan corresponder a la comunidad autónoma.
