@@ -1,15 +1,19 @@
-## Ley 80.
+## Ley 80. Contenido
 
-Gastos del matrimonio. Son gastos del matrimonio todos los que sean necesarios para el sostenimiento de la familia, en atención a su nivel económico y a los miembros que en cada momento convivan en ella, y ya sean de carácter ordinario o extraordinario.
+Las capitulaciones matrimoniales podrán establecer libremente cualquier régimen de bienes de la familia y ordenar:
 
-Contribución. Cada uno de los cónyuges debe contribuir a los gastos del matrimonio con sus ingresos económicos, patrimonio y trabajo personal realizado para la propia familia, sin perjuicio y de conformidad con lo establecido en su régimen económico conyugal.
+1. Las donaciones propter nuptias.
 
-Ejercicio de la potestad doméstica. Cualquiera de los cónyuges por sí solo puede disponer de los bienes comunes para atender a las necesidades ordinarias de la familia acordes a las circunstancias de esta y a los usos del lugar, así como a los gastos urgentes, aun cuando fueran extraordinarios, sin perjuicio de los reembolsos que procedan conforme al régimen económico de su matrimonio.
+2. Los señalamientos y entregas de dotes y dotaciones.
 
-> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
+3. Las renuncias de derechos.
 
-> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
+4. Las donaciones esponsalicias, las arras y las donaciones entre cónyuges.
 
-> Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril. Ref. BOE-A-1987-13331.
+5. Los pactos sucesorios.
 
-> Redactada conforme a la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 1974. Ref. BOE-A-1974-847.
+6. Las disposiciones sobre el usufructo de fidelidad.
+
+7. Otros pactos que se relacionen con el regimen patrimonial de la familia.
+
+> Redactada conforme a la corrección de errores publicada en "BOE" núm. 129, de 30 de mayo de 1974.Ref. BOE-A-1974-10655.
