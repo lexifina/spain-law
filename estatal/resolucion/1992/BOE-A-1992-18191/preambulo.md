@@ -1,0 +1,5 @@
+La Orden del Ministerio de Economía y Hacienda, de 19 de septiembre de 1986, desarrolló el Reglamento General de la Inspección de los Tributos en el ámbito de las competencias de la Dirección General de Aduanas e Impuestos Especiales, estableciendo las funciones y competencias de las distintas Unidades dependientes de la misma con atribuciones propias de la Inspección de los Tributos.
+
+La aprobación de la relación de puestos de trabajo que afecta a estas Unidades, así como la efectiva constitución el 1 de enero de 1992 de la Agencia Estatal de Administración Tributaria, creada por el artículo 103 de la Ley 31/1990, de 27 de diciembre, obligan a introducir en la organización de la Inspección Tributaria las adaptaciones precisas para su adecuación a la situación actual.
+
+Por todo ello, en virtud de lo dispuesto en el número duodécimo de la Orden del Ministerio de Economía y Hacienda de 27 de diciembre de 1991, por la que se desarrollan nuevas Unidades de la Agencia Estatal de Administración Tributaria, he resuelto:
