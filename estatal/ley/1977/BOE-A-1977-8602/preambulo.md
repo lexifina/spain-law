@@ -1,0 +1,7 @@
+La Ley Sindical, de 17 de febrero de 1971, regula en el título II las diversas variedades del asociacionismo profesional, tanto el de carácter preferentemente institucional como el de promoción voluntaria.
+
+La citada ordenación legal, llevada a cabo en desarrollo de la Declaración XIII del Fuero del Trabajo, no parece la única interpretación válida que permite dicha Ley Fundamental, que posibilita otras más congruentes con las exigencias actuales y la deseable expansión de las asociaciones profesionales de base voluntaria.
+
+En consecuencia, se estima llegado el momento de proceder a la reforma de la Ley Sindical en este importante extremo, con toda la extensión y flexibilidad permitidas por el marco institucional. Esta reforma habrá de orientarse a la protección legal de la libertad de asociación sindical de los trabajadores y empresarios para la defensa de sus intereses peculiares, sin otros límites funcionales que los inherentes a la naturaleza profesional de sus fines estatutarios y al deber de acatamiento de la legalidad; todo ello en el ejercicio de las libertades propias de una sociedad democrática y teniendo en cuenta los convenios internacionales, especialmente los convenios números 87 y 98 de la Organización Internacional del Trabajo, así como el Pacto Internacional de Derechos Económicos, Sociales y Culturales recientemente firmado por el Gobierno español.
+
+En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo a sancionar:
