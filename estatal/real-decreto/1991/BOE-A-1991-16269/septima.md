@@ -1,6 +1,8 @@
 ## Disposición adicional séptima.
 
-La generalización de las enseñanzas conducentes al título de especialización didáctica al que se refiere el artículo 24, párrafo 2, de la Ley Orgánica 1/1990, de 3 de octubre, se realizará antes del curso 2004-2005. Las enseñanzas conducentes a la obtención de los certificados de aptitud pedagógica expedidos al amparo de la normativa anterior a la citada Ley Orgánica podrán seguir organizándose hasta el curso 2003-2004.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 827/2003, de 27 de junio. Ref. BOE-A-2003-12866.
 
 > Se modifica por el art. 1.2 del Real Decreto 835/2002, de 2 de agosto. Ref. BOE-A-2002-15764.
 
