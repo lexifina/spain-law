@@ -1,3 +1,5 @@
 ## Artículo tercero.
 
-Como desarrollo del principio de libertad comercial, en Canarias no será de aplicación ningún monopolio sobre bienes o servicios, tanto de carácter fiscal como de cualquier otra clase. En particular, tampoco tendrá aplicación en Canarias ningún monopolio relativo al transporte aéreo de mercancías.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única de la Ley 19/1994, de 6 de julio. Ref. BOE-A-1994-15794.
