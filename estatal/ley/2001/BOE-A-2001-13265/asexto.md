@@ -34,6 +34,12 @@ Darán derecho a la misma bonificación las transformaciones de contratos de pr�
 
 6. Los contratos acogidos al presente programa de fomento del empleo estable se formalizarán en el modelo oficial que disponga el Instituto Nacional de Empleo.
 
+7. Los contratos de trabajo de carácter indefinido, suscritos con trabajadores de sesenta o más años y con una antigüedad en la empresa de cinco o más años, darán derecho a una bonificación del 50 por 100 de la aportación empresarial en la cotización a la Seguridad Social por contingencias comunes, salvo por incapacidad temporal derivada de las mismas, sobre las cuotas devengadas a partir del 1 de enero del año 2002, incrementándose dicha bonificación en un 10 por 100 en cada ejercicio hasta alcanzar un máximo del 100 por 100.
+
+Si al cumplir sesenta años de edad el trabajador no tuviere una antigüedad en la empresa de cinco años, la bonificación a que se refiere el párrafo anterior será aplicable a partir de la fecha en que alcance la citada antigüedad.
+
+> Se añade el apartado 7 por el art. 14.2 de la Ley 35/2002, de 12 de julio. Ref. BOE-A-2002-13972.
+
 > Se modifican los apartados 1.h) e i) por la disposición final 1.2 del Real Decreto-Ley 5/2002, de 24 de mayo. Ref. BOE-A-2002-10097.
 
 > Téngase en cuenta que el Real Decreto-ley 5/2002, de 24 de mayo, se declara inconstitucional y nulo por Sentencia del TC 68/2007, de 28 de marzo. Ref. BOE-T-2007-8660

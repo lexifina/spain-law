@@ -42,6 +42,10 @@ e) Internos de centros penitenciarios cuya situación penitenciaria les permita 
 
 2. Igualmente se incentivará, en los términos previstos en esta norma, la transformación en indefinidos, incluida la modalidad de fijo discontinuo, de los contratos de duración determinada o temporales celebrados con anterioridad a 1 de enero de 2002. Además, se incentivará la transformación en indefinidos de los contratos formativos, de relevo, y de sustitución por anticipación de la edad de jubilación, cualquiera que sea la fecha de su celebración.
 
+3. Asimismo, los contratos de trabajo de carácter indefinido, suscritos con trabajadores de sesenta o más años y con una antigüedad en la empresa de cinco o más años darán derecho a bonificación en los términos previstos en este capítulo.
+
+> Se añade el apartado 3 por el art. 14.1 de la Ley 35/2002, de 12 de julio. Ref. BOE-A-2002-13972.
+
 > Se modifica el apartado 1.1.i) por la disposición final 1.1 del Real Decreto-Ley 5/2002, de 24 de mayo. Ref. BOE-A-2002-10097.
 
 > Téngase en cuenta que el Real Decreto-ley 5/2002, de 24 de mayo, se declara inconstitucional y nulo por Sentencia del TC 68/2007, de 28 de marzo. Ref. BOE-T-2007-8660

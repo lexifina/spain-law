@@ -6,4 +6,8 @@
 
 3. La exoneración de la cotización prevista en el artículo 112.bis de la presente Ley, comprenderá también las aportaciones por desempleo, Fondo de Garantía Salarial y formación profesional.
 
+> Se modifica la rúbrica y se añade el apartado 3 por el art. 11.2 de la Ley 35/2002, de 12 de julio. Ref. BOE-A-2002-13972.
+
+> Téngase en cuenta que esta modificación ya estaba realizada por el Real Decreto-Ley 16/2001, de 27 de diciembre.
+
 > Se modifica la rúbrica y se añade el apartado 3 por el art. 11.2 del Real Decreto-Ley 16/2001, de 27 de diciembre. Ref. BOE-A-2001-24967.
