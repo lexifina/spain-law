@@ -1,0 +1,21 @@
+La Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, establece, en su artículo 57, que el acceso de los ciudadanos a las prestaciones de la atención sanitaria que proporciona el Sistema Nacional de Salud se facilitará a través de la tarjeta sanitaria individual, como documento administrativo que acredita determinados datos de su titular. Del mismo modo, la ley establece que, sin perjuicio de su gestión en el ámbito territorial respectivo por cada comunidad autónoma, las tarjetas incluirán, de manera normalizada, los datos básicos de identificación del titular de la tarjeta, del derecho que le asiste en relación con la prestación farmacéutica y del servicio de salud o entidad responsable de la asistencia sanitaria. Los dispositivos que las tarjetas incorporen para almacenar la información básica y las aplicaciones que la traten deberán permitir que la lectura y comprobación de los datos sea técnicamente posible en todo el territorio del Estado.
+
+Por otra parte, y con el objetivo de poder identificar de forma segura y unívoca a cada ciudadano, la ley encomienda al Ministerio de Sanidad y Consumo la generación de un código de identificación personal único para el Sistema Nacional de Salud, mediante el desarrollo de una base datos que recoja la información básica de usuarios del Sistema Nacional de Salud, de tal manera que los servicios de salud dispongan de un servicio de intercambio de información sobre la población protegida, mantenido y actualizado por los propios integrantes del sistema.
+
+Para dar cumplimiento a las previsiones legales es necesario abordar, en primer lugar, los aspectos relativos a la emisión de la tarjeta por parte de las Administraciones sanitarias, como elemento necesario para acceder a los servicios en el conjunto del Sistema Nacional de Salud.
+
+Del mismo modo, debe normalizarse la información mínima que la tarjeta ha de suministrar acerca de los ciudadanos, a través de la incorporación de un conjunto básico común de datos en todas las tarjetas sanitarias emitidas.
+
+Con el fin de minimizar los costes de transición y posibilitar el desarrollo y adecuación técnica de las nuevas tarjetas sanitarias, se prevé la sustitución de las actuales a medida que éstas vayan caducando, estableciéndose, además, un plazo para la preparación de los requerimientos necesarios para el inicio de su sustitución.
+
+El real decreto aborda también la regulación del código de identificación personal que establece la Ley 16/2003, de 28 de mayo, que será único a lo largo de la vida de la persona. Ello facilitará, entre otros aspectos, la búsqueda y consulta de la información clínica de cada paciente, posibilitando el intercambio de dicha información dentro del Sistema Nacional de Salud en las condiciones legalmente permitidas y siempre con la finalidad de contribuir a la mejora de la calidad asistencial.
+
+De igual forma, es necesario regular el funcionamiento de la base de datos de población protegida del Sistema Nacional de Salud, que tiene como objetivo fundamental la generación de este código de identificación personal con la mayor certidumbre posible de su carácter único.
+
+La base de datos se concibe como un sistema de intercambio de información sobre la población protegida entre las Administraciones sanitarias, con el fin de mantener la coherencia de los datos de aseguramiento y ser fuente fiable para la gestión de las políticas de cohesión sanitaria. Es también preciso establecer los aspectos de seguridad y acceso a la información y la cesión de datos.
+
+Por último, es necesario incorporar a este mismo sistema a todos aquellos colectivos cuya cobertura sanitaria se financia públicamente y que están incluidos en regímenes especiales a través del mutualismo administrativo. Con ello se logrará la correcta ordenación de las situaciones y se colocará a todos los asegurados en pie de igualdad respecto a las utilidades que proporciona el sistema de intercambio de información sobre población protegida del Sistema Nacional de Salud.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de enero de 2004,
+
+DISPONGO:
