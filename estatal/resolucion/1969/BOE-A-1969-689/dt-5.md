@@ -1,0 +1,3 @@
+## Disposición transitoria quinta.
+
+La Junta de gobierno provisional convocará Junta general extraordinaria para la elección de los miembros de la primera Junta de gobierno en un plazo máximo de tres meses a partir de la aprobación de los Estatutos. Verificada la elección y designación de los miembros que han de constituir la primera Junta de gobierno, la Junta provisional, en el plazo de veinte días, dará posesión de sus cargos a los elegidos, cesando en ese momento la Junta provisional. Se tendrá en cuenta que a los colegiados que ostenten cargos en la Junta provisional no se les exigirá la antigüedad prevista en el artículo 21 de estos Estatutos.
