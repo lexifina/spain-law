@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto tiene carácter de normativa básica estatal y se dicta al amparo de lo dispuesto en el artículo 149.1.16.a de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación general de la sanidad. Se exceptúa lo dispuesto en el artículo 16, en cuanto se refiere a los puestos de inspección fronterizos, el título IV y el régimen sancionador correspondiente, que se dicta al amparo de lo dispuesto en el artículo 149.1.16.a, primer inciso, de la Constitución, que atribuye al Estado la competencia exclusiva en materia de sanidad exterior.

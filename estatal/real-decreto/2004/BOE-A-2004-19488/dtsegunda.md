@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Toma de muestras.
+
+No obstante lo establecido en la disposición derogatoria única, hasta tanto se apruebe la normativa nacional o de la Unión Europea, las normas para la recogida de muestras y su envío al laboratorio para diagnóstico de fiebre aftosa serán las establecidas en el anexo C del Real Decreto 2223/1993, de 17 de diciembre, por el que se establecen las medidas de lucha contra la fiebre aftosa y las de sanidad animal en los intercambios intracomunitarios e importaciones de animales de las especies de bovino, porcino, de carnes frescas o de productos a base de carnes procedentes de terceros países, en tanto en cuanto no se opongan a lo dispuesto en este real decreto.
