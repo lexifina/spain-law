@@ -268,6 +268,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO III](ciii-5.md)
 - [Artículo 188](a188.md)
 - [CAPÍTULO IV](civ-2.md)
+- [CAPÍTULO III](ciii-6.md)
 - [Artículo 189](a189.md)
 - [TÍTULO X](tx.md)
 - [Artículo 190](a190.md)
