@@ -1,0 +1,3 @@
+## Sección E) Notificación, inicio de las operaciones
+
+8. Cada donante que desee hacer una contribución depositará con la Asociación una o más notificaciones oficiales, cuya forma y contenido sean satisfactorios para la Asociación en virtud de las cuales el donante se obligue a efectuar una contribución al Servicio Africano en los términos y condiciones establecidos en esta Resolución. El Servicio Africano estará facultado para iniciar las operaciones en virtud de lo dispuesto en la sección B de esta Resolución, una vez que la Asociación haya recibido tales notificaciones respecto de contribuciones equivalentes a un monto total no inferior a US$200 millones de por lo menos cuatro donantes.

@@ -1,0 +1,3 @@
+## Sección C) Administración del Servicio Africano
+
+5. La Administradora establecerá y mantendrá registros y cuentas apropiados a fin de identificar las contribuciones al Servicio Africano; los compromisos que hayan de financiarse con los fondos de éste; las entradas y desembolsos de fondos correspondientes al Servicio Africano, y los reembolsos con destino a los recursos generales de la Asociación. Mientras no se desembolse el importe de los créditos del Servicio Africano, la Administradora podrá invertir los fondos en poder de dicho Servicio. Los rendimientos provenientes de tales inversiones se acreditarán al Servicio Africano.
