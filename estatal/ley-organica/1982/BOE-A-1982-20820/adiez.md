@@ -4,7 +4,7 @@ Uno. Las Cortes de Castilla-La Mancha estarán constituidas por un mínimo de cu
 
 Los Diputados de Castilla-La Mancha representan a toda la región, y no estarán sujetos a mandato imperativo alguno.
 
-Dos. Las Cortes de Castilla-La Mancha serán elegidas por un plazo de cuatro años de acuerdo con un sistema de representación proporcional que asegure la representación de las diversas zonas del territorio de la región. Las elecciones serán convocadas por el Presidente de la Junta de Comunidades de manera que coincidan con las consultas electorales de las demás Comunidades Autónomas, y tendrán lugar entre los treinta y sesenta días desde la terminación del mandato.
+Dos. Las Cortes de Castilla-La Mancha serán elegidas por un plazo de cuatro años de acuerdo con un sistema de representación proporcional que asegure la representación de las diversas zonas del territorio de la región. Las elecciones serán convocadas por el Presidente de la Junta de Comunidades en los términos previstos por la Ley que regule el Régimen Electoral General, de manera que se realicen el cuarto domingo de mayo de cada cuatro años.
 
 La circunscripción electoral es la provincia.
 
@@ -25,3 +25,7 @@ c) Por fallecimiento.
 d) Por cualquier otra causa prevista en las leyes regionales o en el Reglamento de las Cortes de Castilla-La Mancha.
 
 Producida la vacante, será ocupada por quien figure en el lugar siguiente al último elegido en la lista del Partido, Federación, Coalición o Agrupación electoral a que pertenezca el Diputado cesante.
+
+> Se modifica el párrafo primero del apartado 2 por el art. único de la Ley Orgánica 6/1999, de 13 de marzo. Ref. BOE-A-1991-6822
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 65, de 16 de marzo de 1991. Ref. BOE-A-1991-7042
