@@ -1,7 +1,5 @@
 ## Art. 19.
 
-Podrá existir un Letrado adscrito a la Presidencia, nombrado por el Presidente de entre los que presten servicio al Tribunal. Serán sus funciones específicas, además de las que le corresponden como tal Letrado:
+Los recursos a los que se refiere el artículo 99.3 de la Ley Orgánica 2/1979, del Tribunal Constitucional, serán informados por el Letrado que el Presidente designe de entre aquellos que le estén asignados personalmente. La interposición, tramitación y resolución del recurso se ordenará según lo dispuesto para el recurso ordinario en el capítulo II del título VII de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-a) Realizar los estudios e informes que le sean requeridos por el Presidente.
-
-b) Informar los recursos de alzada a que se refiere el artículo 99.3 de la Ley Orgánica del Tribunal. De no existir Letrado adscrito, esta función corresponderá al Letrado que, en cada caso, designe el Presidente.
+> Se modifica por el art. único.4 del Acuerdo de 5 de octubre de 1994. Ref. BOE-A-1994-23074.

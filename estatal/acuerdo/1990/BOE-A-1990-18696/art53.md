@@ -2,10 +2,24 @@
 
 1. El ingreso en el Cuerpo de Letrados se efectuará por medio de concurso-oposición, que se ajustará a las normas establecidas en el presente Reglamento.
 
-2. Las plazas de Letrados que, según la plantilla y la relación de puestos de trabajo, hayan de proveerse en régimen de adscripción temporal, se ocuparán por funcionarios públicos de los relacionados en el artículo 44.1 de este Reglamento.
+2. Las plazas de Letrados podrán proveerse también en régimen de adscripción temporal mediante el nombramiento como Letrados, según lo dispuesto en los apartados siguientes, de funcionarios públicos de los relacionados en el artículo 44.1 de este Reglamento.
 
-3. La adscripción temporal será acordada libremente por el Pleno del Tribunal, a propuesta de un Magistrado. Su duración inicial será de tres años, pudiéndose prorrogar por períodos iguales. La primera prórroga requiere acuerdo expreso; las siguientes se entenderán acordadas siempre que no se hubiere resuelto lo contrario antes de concluir la prórroga en curso.
+3. La adscripción temporal será acordada libremente por el Pleno del Tribunal, a propuesta de un Magistrado.
 
-4. Los Letrados adscritos temporalmente al Tribunal tendrán, mientras prestaren sus servicios al mismo, los derechos y deberes propios de los miembros del Cuerpo. Su cese podrá acordarse al expirar el tiempo de su nombramiento o el de las prórrogas sucesivas y deberá, en todo caso, disponerse si el Letrado adscrito perdiera la condición de funcionario o se jubilara. También podrá el Pleno acordar el cese del Letrado adscrito cuando incurra en alguna de las causas de incapacidad o incompatibilidad aplicables a los Letrados de carrera, previa una información sumaria, con audiencia del interesado.
+Su duración máxima será de nueve años, sin perjuicio de lo previsto en el apartado siguiente.
 
-5. Podrán también nombrarse Letrados en régimen de adscripción temporal para ocupar las plazas vacantes que estén asignadas al Cuerpo de Letrados. El nombramiento se hará en la forma y por el tiempo previstos en el número 3 de este artículo, y el así nombrado cesará, además de en los casos previstos en el número anterior, cuando la plaza que ocupara se cubriera por concurso-oposición o si hubiera de reincorporarse al servicio activo un miembro del Cuerpo de Letrados.
+4. Los Letrados adscritos temporalmente al Tribunal tendrán, mientras presten sus servicios al mismo, los derechos y deberes propios de los miembros del Cuerpo. Su cese, además de por voluntad propia, se acordará en cualquiera de las circunstancias siguientes:
+
+a) Por acuerdo del Pleno, adoptado a propuesta del Magistrado que en su día propuso la designación o del Presidente del Tribunal.
+
+b) En el caso de los Letrados a los que se refiere el artículo 62.2 a), de este Reglamento, por cese en el cargo de Magistrado del Tribunal de quien propuso su designación. En esta hipótesis, podrá procederse a un nuevo nombramiento del Letrado afectado si aún no hubiera transcurrido el período máximo de adscripción fijado en el apartado anterior y por el tiempo que restare.
+
+c) Por el transcurso del período máximo de adscripción de nueve años.
+
+d) Por jubilación o pérdida de la condición de funcionario adscrito.
+
+5. (Suprimido)
+
+> Se modifican los apartados 2 a 4 y se suprime el apartado 5 por el art. único.13 a 16 del Acuerdo de 5 de octubre de 1994. Ref. BOE-A-1994-23074.
+
+> Téngase en cuenta para su aplicación la disposición transitoria 1.

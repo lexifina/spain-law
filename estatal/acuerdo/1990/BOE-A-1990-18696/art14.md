@@ -6,7 +6,7 @@ a) Convocar y fijar el orden del día de las reuniones del Pleno y de la Junta d
 
 b) Convocar concurso-oposición para cubrir Plazas del Cuerpo de Letrados del Tribunal Constitucional.
 
-c) Convocar concurso para cubrir la plaza de Gerente y nombrar a quien fuere propuesto por la Comisión de Selección.
+c) Acordar la convocatoria pública para proveer el puesto de Gerente, proceder al nombramiento del propuesto y disponer, previo acuerdo del Pleno, el cese y reincorporación a su Administración de procedencia de quien hubiese sido designado según lo dispuesto en el artículo 54.
 
 d) Nombrar a los Letrados que, a propuesta del Tribunal calificador, hayan de integrarse en dicho Cuerpo o, a propuesta del Pleno del Tribunal Constitucional, deban incorporarse al mismo en régimen de adscripción temporal.
 
@@ -23,3 +23,5 @@ i) Autorizar la compatibilidad en el ejercicio de actividades ajenas al servicio
 j) Promover y, en su caso, ejercer la potestad disciplinaria.
 
 k) Ejercer las funciones de órgano de contratación.
+
+> Se modifica la letra c) por el art. único.3 del Acuerdo de 5 de octubre de 1994. Ref. BOE-A-1994-23074.

@@ -10,9 +10,9 @@ c) Aprobar la jornada y el horario de trabajo del personal.
 
 d) Elegir y remover al Secretario general.
 
-e) Aprobar las bases de la convocatoria de los concursos-oposición para el ingreso en el Cuerpo de Letrados y del concurso para la designación del Gerente, determinando en este último caso la Comisión que haya de proponer al Presidente el correspondiente nombramiento.
+e) Aprobar las bases de la convocatoria de los concursos-oposición para el ingreso en el Cuerpo de Letrados.
 
-f) Proponer al Presidente la designación de quienes, en régimen de adscripción temporal, hayan de incorporarse como Letrados al Tribunal y acordar la prórroga de las adscripciones temporales.
+f) Proponer al Presidente la designación de quienes, en régimen de adscripción temporal, hayan de incorporarse como Letrados al Tribunal.
 
 g) Resolver sobre las incompatibilidades a que se refiere el artículo 96.3 de la Ley Orgánica del Tribunal.
 
@@ -29,3 +29,5 @@ l) Decidir las cuestiones que afecten a los Magistrados no atribuidas al Preside
 m) Designar al Interventor al servicio del Tribunal, acordar libremente su cese y resolver, a propuesta del Presidente, las discrepancias que surjan entre el Secretario general y el Interventor.
 
 n) Cuantas otras competencias atribuyan al Pleno este Reglamento y las demás normas reglamentarias que adopte el Tribunal.
+
+> Se modifican las letras e) y f) por el art. único.1 y 2 del Acuerdo de 5 de octubre de 1994. Ref. BOE-A-1994-23074.
