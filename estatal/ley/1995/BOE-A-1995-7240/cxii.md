@@ -1,0 +1,5 @@
+## CAPÍTULO XII
+
+## Sociedad Nueva Empresa
+
+> Se añade por el art. único.1 de la Ley 7/2003, de 1 de abril. Ref. BOE-A-2003-6586
