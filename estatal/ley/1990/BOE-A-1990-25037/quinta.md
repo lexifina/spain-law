@@ -1,0 +1,3 @@
+## Disposición adicional quinta.
+
+Las Asociaciones deportivas constituidas o inscritas en Registros deportivos de acuerdo con la legislación autonómica correspondiente, serán reconocidas como Clubes deportivos, a los efectos de lo previsto en el artículo 15.4 de esta Ley, siempre que en sus Estatutos prevean la constitución, ajustados a principios democráticos, de órganos de gobierno y representación y un régimen de responsabilidad de los directivos y socios. En el caso de Entidades públicas o privadas que desarrollen actividades deportivas de carácter accesorio en relación con su objeto principal, deberán incorporar un presupuesto diferenciado.
