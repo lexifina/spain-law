@@ -20,17 +20,19 @@ En el margen inferior llevará la antefirma y firma del Director general de la P
 
 (Figuras c-1 y c-3).
 
-Reverso: Sobre fondo tramado, en el mismo color que el anverso, llevará impreso en la parte superior, centrado, la leyenda «Dirección General de la Policía» en una línea. Dispondrá de tres reservas en blanco para rellenar con los siguientes datos:
+Reverso: Sobre fondo tramado, en el mismo color que el anverso llevará impresa en la parte superior, centrada la leyenda "Dirección General de la Policía" en una línea. Dispondrá de cinco reservas en blanco para rellenar con los siguientes datos:
 
-Apellidos.
+Primer apellido.
+
+Segundo apellido.
 
 Nombre (simple o compuesto).
 
 Número del documento nacional de identidad.
 
-La firma figurará en una reserva en blanco sobre la que se consignará la leyenda «El titular».
+Fecha de expedición.
 
-En la parte derecha inferior una reserva en blanco para la fecha de expedición.
+La firma figurará en una reserva en blanco, sobre la que se consignará la leyenda "El titular".
 
 (Figuras c-2 y c-4).
 
@@ -42,8 +44,10 @@ Escala en mm.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1988/285/27367_017.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_015.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_016.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1988/285/27367_018.png)
+
+> Se modifica por el art.3 de la Orden de de 24 de noviembre. Ref. BOE-A-1988-27367.

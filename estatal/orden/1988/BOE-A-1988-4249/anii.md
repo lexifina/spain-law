@@ -16,17 +16,19 @@ Centrado llevará un recuadro en blanco de 31 x 26 milímetros, reservado para l
 
 (Figuras b-1 y b-3).
 
-Reverso: Sobre fondo tramado, en el mismo color que el anverso, llevará:
+Reverso: Sobre fondo tramado, en el mismo color que el anverso llevará cinco reservas en blanco para rellenar los siguientes datos:
 
-Una reserva en blanco para apellidos.
+Primer apellido.
 
-Una reserva en blanco para nombre (simple o compuesto).
+Segundo apellido.
 
-Una reserva para el número del documento nacional de identidad.
+Nombre (simple o compuesto).
 
-La firma del interesado figurará en una reserva en blanco sobre la que se consignará la leyenda «El titular».
+Número del documento nacional de identidad.
 
-En la parte derecha inferior, una reserva en blanco para la fecha de expedición.
+Fecha de expedición.
+
+La firma del interesado figurará en una reserva en blanco sobre Ia que se consignará la leyenda "El titular".
 
 Inmediatamente debajo figurarán unas instrucciones para mostrar a las autoridades correspondientes.
 
@@ -40,8 +42,10 @@ Escala en mm.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1988/285/27367_015.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1988/285/27367_016.png)
+
+> Se modifica por el art.2 de la Orden de 24 de noviembre de 1988. Ref. BOE-A-1988-27367.

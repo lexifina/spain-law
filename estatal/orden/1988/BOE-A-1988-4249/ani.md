@@ -28,23 +28,25 @@ Número de identificación personal.
 
 (Figuras a-1 y a-3).
 
-Reverso: Sobre fondo tramado, en el mismo color que el anverso, llevará impreso en la parte superior, centrado, la leyenda «Dirección General de la Policía» en una línea. Dispondrá, asimismo, de tres reservas en blanco para rellenar los siguientes datos:
+Reverso: Sobre fondo tramado, en el mismo color que el anverso, llevará impresa, en la parte superior, centrada, la leyenda «Dirección General de la Policía» en una línea. Dispondrá, asimismo, de cinco reservas en blanco para rellenar los siguientes datos:
 
-Apellidos.
+Primer apellido.
+
+Segundo apellido.
 
 Nombre (simple o compuesto).
 
 Número del documento nacional de identidad.
 
-Inmediatamente debajo la antefirma, sobre la que se consignará la leyenda «El Director general».
+Fecha de expedición.
 
-En la parte derecha inferior, una reserva en blanco para la fecha de expedición.
+Inmediatamente debajo se consignará, como interlínea, la leyenda "El Director general".
 
 (Figuras a-2 y a-4).
 
-Tipo A-1:
+Tipo A-l:
 
-De la misma descripción y características que el tipo A (anexo I) incorporándole al mismo un barrado de 0,4 centímetros de ancho y color carmesí desde el ángulo inferior izquierdo al derecho, dejando libre el espacio de la fotografía.
+De la misma descripción y características que el tipo A (anexo I) incorporándole al mismo un barrado de 0,4 centímetros de ancho a color carmesí desde el ángulo inferior izquierdo al superior derecho dejando libre el espacio de la fotografía.
 
 (Figuras a-5, a-6, a-7 y a-8).
 
@@ -58,11 +60,11 @@ Escala en mm.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1988/285/27367_011.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1988/285/27367_012.png)
 
 CARNÉ DE IDENTIFICACIÓN PROFESIONAL PARA PERSONAL DEL CUERPO NACIONAL DE POLICÍA JUBILADO
 
@@ -72,8 +74,10 @@ Escala en mm.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1988/285/27367_013.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/43/04249_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1988/285/27367_014.png)
+
+> Se modifica por el art.1 de la Orden de 24 de noviembre de 1988. Ref. BOE-A-1988-27367.
