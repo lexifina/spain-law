@@ -1,0 +1,5 @@
+## Artículo 167.
+
+1. Donde hubiere dos o más Juzgados del mismo orden jurisdiccional, los asuntos se distribuirán entre ellos conforme a normas de reparto prefijadas. Las normas de reparto se aprobarán por la Sala de Gobierno del Tribunal Superior de Justicia, a propuesta de la Junta de Jueces del respectivo orden jurisdiccional. A solicitud del interesado, la Junta de Jueces podrá proponer que se libere, total o parcialmente, a un Juez del reparto de asuntos, por tiempo limitado, cuando la buena administración de Justicia lo haga necesario. El acuerdo se trasladará a la Sala de Gobierno para que ésta, si lo entiende pertinente, proceda a su aprobación.
+
+2. El reparto se realizará bajo la supervisión del Juez Decano, asistido por un Secretario, y le corresponderá a aquél resolver con carácter gubernativo interno las cuestiones que se planteen y corregir las irregularidades que puedan producirse, adoptando las medidas necesarias y promoviendo, en su caso, la exigencia de las responsabilidades que procedan.

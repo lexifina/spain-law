@@ -1,0 +1,17 @@
+## Artículo cuatrocientos cuarenta y cinco
+
+1. Corresponden específicamente a las unidades de Policía Judicial las siguientes funciones:
+
+a) La averiguación de los responsables y circunstancias de los hechos delictivos y la detención de los primeros, dando cuenta seguidamente a la autoridad judicial y fiscal, conforme a lo dispuesto en las leyes.
+
+b) El auxilio a la autoridad judicial y fiscal en cuantas actuaciones deba realizar fuera de su sede y requieran la presencia policial.
+
+c) La realización material de las actuaciones que exijan el ejercicio de la coerción y ordenare la autoridad judicial o fiscal.
+
+d) La garantía del cumplimiento de las órdenes y resoluciones de la autoridad judicial o fiscal.
+
+e) Cualesquiera otras de la misma naturaleza en que sea necesaria su cooperación o auxilio y lo ordenare la autoridad judicial o fiscal.
+
+2. En ningún caso podrán encomendarse a los miembros de dichas unidades la práctica de actuaciones que no sean las propias de la Policía Judicial o las derivadas de las mismas.
+
+> Redactada la letra a) del apartado 1 conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

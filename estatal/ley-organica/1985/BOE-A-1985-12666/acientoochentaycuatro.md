@@ -1,0 +1,5 @@
+## Artículo ciento ochenta y cuatro
+
+1. Sin perjuicio de lo dispuesto en los artículos anteriores, todos los días del año y todas las horas serán hábiles para la instrucción de las causas criminales, sin necesidad de habilitación especial.
+
+2. Los días y horas inhábiles podrán habilitarse por el Juez o Tribunal, con sujeción a lo dispuesto en las leyes procesales.

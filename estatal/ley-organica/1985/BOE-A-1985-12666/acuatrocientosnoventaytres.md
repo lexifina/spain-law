@@ -1,0 +1,3 @@
+## Artículo cuatrocientos noventa y tres
+
+Los Agentes Judiciales con tres años, al menos, de servicios efectivos y sin nota desfavorable en el expediente que, con arreglo a baremo de méritos preestablecido, acrediten condiciones de preparación y responsabilidad para cargo superior y se hallen en posesión del título correspondiente, podrán ingresar en el Cuerpo Auxiliar por un turno restringido, en la forma que reglamentariamente se determine. La mitad de las vacantes que se produzcan se reservarán para su provisión por este turno. Las plazas no cubiertas por este procedimiento acrecerán al turno general.

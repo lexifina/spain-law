@@ -1,0 +1,3 @@
+## Artículo cuatrocientos cuarenta y ocho
+
+Los Abogados y Procuradores que intervengan en los pleitos y causas, cuando incumplan las obligaciones que les impone esta ley o las leyes procesales, podrán ser corregidos a tenor de lo dispuesto en este título, siempre que el hecho no constituya delito.

@@ -1,0 +1,7 @@
+> Información relacionada
+
+> A partir del 1 de octubre de 2015, todas las referencias que se contengan en esta Ley Orgánica 6/1985, así como en otras normas jurídicas, a Secretarios judiciales, Secretarios sustitutos profesionales, Instituto de Medicina Legal e Instituto Nacional de Toxicología, deberán entenderse hechas, respectivamente, a Letrados de la Administración de Justicia, Letrados de la Administración de Justicia suplentes, Instituto de Medicina Legal y Ciencias Forenses e Instituto Nacional de Toxicología y Ciencias Forenses, según establece la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera.
+
+> Desde el 4 de diciembre de 2013, fecha en que se constituyó el primer Consejo General del Poder Judicial elegido de conformidad con la Ley Orgánica 4/2013, de 28 de junio, todas las referencias hechas a la Comisión de Calificación se entenderán hechas a la Comisión Permanente y las referencias hechas a los instructores delegados de los expedientes disciplinarios se entenderán hechas al Promotor de la Acción Disciplinaria, así como a los Letrados del Consejo General del Poder Judicial que le asistan, según establecen las disposiciones transitorias 6 y 7 de la citada Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.
+
+> Véase la disposición adicional 1 de la Ley Orgánica 16/1994, de 8 de noviembre Ref. BOE-A-1994-24612., sobre responsabilidad disciplinaria judicial en el ámbito de la Jurisdicción Militar.

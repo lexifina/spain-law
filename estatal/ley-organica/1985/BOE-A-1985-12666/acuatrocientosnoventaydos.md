@@ -1,0 +1,3 @@
+## Artículo cuatrocientos noventa y dos
+
+Los funcionarios del Cuerpo Auxiliar, con cinco años, al menos, de servicios efectivos y sin nota desfavorable en el expediente, que, con arreglo a baremo de méritos preestablecido, acrediten condiciones de preparación y responsabilidad para cargo superior y estén en posesión del título de Bachiller o equivalente, podrán ingresar en el Cuerpo de Oficiales por un turno restringido y en la forma que reglamentariamente se determine. Se reservará la mitad de las vacantes para su provisión por este turno. Las que no se cubran por este procedimiento acrecerán al turno libre.

@@ -1,0 +1,3 @@
+## Artículo ciento sesenta y ocho
+
+Los Decanos velarán por la buena utilización de los locales judiciales y de los medios materiales; cuidarán de que el servicio de guardia se preste continuadamente; adoptarán las medidas urgentes en los asuntos no repartidos cuando, de no hacerlo, pudiera quebrantarse algún derecho o producirse algún perjuicio grave e irreparable; oirán las quejas que les hagan los interesados en causas o pleitos, adoptando las prevenciones necesarias, y ejercerán las restantes funciones que les atribuya la ley.

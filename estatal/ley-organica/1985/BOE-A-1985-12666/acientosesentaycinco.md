@@ -1,0 +1,3 @@
+## Artículo ciento sesenta y cinco
+
+Los Presidentes de las Salas de Justicia y los Jueces tendrán en sus respectivos órganos jurisdiccionales la dirección e inspección de todos los servicios y asuntos, adoptarán las resoluciones que la buena marcha de la Administración de Justicia aconseje, darán cuenta a los Presidentes de los respectivos Tribunales y Audiencias de las anomalías o faltas que observen y ejercerán las funciones disciplinarias que les atribuye la ley sobre el personal adscrito al servicio de la Sala o Juzgado correspondiente y las que les reconozcan las leyes procesales sobre el resto de profesionales que se relacionen con el Tribunal.

@@ -1,0 +1,7 @@
+## Disposición transitoria sexta. Integración de Abogados Fiscales de ascenso y de ingreso.
+
+1. Quienes de acuerdo con lo dispuesto en la Ley 50/1981, de 30 de diciembre, ostentaran la categoría y grado de Abogado Fiscal de ascenso, a efectos de categoría personal, y de Abogado Fiscal de ingreso, quedarán situados, por su orden, dentro del escalafón de la Carrera Fiscal, a continuación del último de los que ostentaren la categoría y grado de Abogado Fiscal de ascenso.
+
+2. Los Abogados Fiscales de ingreso que hubieren ejercido el derecho de opción reconocido en la disposición transitoria segunda de la citada ley y ostentaren, a efectos de categoría personal, el grado de ascenso, recuperarán, desde la entrada en vigor de la presente ley, todos los derechos a que renunciaron, pudiendo, cuando les corresponda la promoción a la segunda categoría por antigüedad, optar por continuar en la misma categoría, renunciando a todos los efectos del ascenso. Igual derecho tendrán los Abogados Fiscales de ingreso procedentes del antiguo Cuerpo de Fiscales de Distrito.
+
+3. Los tres años de servicios efectivos en la categoría tercera exigidos por el artículo 37, primero, dos, del Estatuto Orgánico del Ministerio Fiscal para acceder a la segunda categoría a través de las pruebas selectivas, se entenderán referidos para todos los Abogados Fiscales de ingreso, ostenten o no el grado de ascenso a título personal, a los servicios prestados en la categoría a partir de la entrada en vigor de esta ley.
