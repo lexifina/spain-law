@@ -22,6 +22,10 @@ c) Trabajadores que acrediten treinta y cinco jornadas cotizadas: Duración igua
 
 3. En los supuestos previstos en el apartado anterior, se computarán las fracciones que igualen o superen 0,50 como un día más de derecho.
 
+> Se prorroga la vigencia de lo dispuesto desde el 1 de enero hasta el 31 de diciembre de 2003, por la disposición adicional 2.1 del Real Decreto 426/2003, de 11 de abril. Ref. BOE-A-2003-7616.
+
+> Esta modificación tiene efectos desde el 1 de enero de 2003, según establece la disposición final 2.
+
 > Se prorroga la vigencia de lo dispuesto desde el 1 de enero hasta el 31 de diciembre de 2002, por el art. único del Real Decreto 433/2002, de 10 de mayo. Ref. BOE-A-2002-9574.
 
 > Esta modificación tiene efectos desde el 1 de enero de 2002, según establece la disposición final 2.

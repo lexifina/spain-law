@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Trabajadores admitidos al programa de renta activa de inserción, para el año 2002, establecido en la disposición adicional primera de la Ley 45/2002, de 12 de diciembre.
+
+Los trabajadores eventuales del Régimen Especial Agrario de la Seguridad Social, a los que se refiere la disposición adicional primera.uno.2.a 3) de la Ley 45/2002, de 12 de diciembre, de medidas urgentes para la reforma del sistema de protección por desempleo y mejora de la ocupabilidad, que hayan sido beneficiarios de la renta activa de inserción, podrán obtener el reconocimiento de la renta agraria, si lo solicitan y cumplen los requisitos establecidos.

@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Disposiciones transitorias del Real Decreto 5/1997, de 10 de enero, por el que se regula el subsidio por desempleo en favor de los trabajadores eventuales incluidos en el Régimen Especial Agrario de la Seguridad Social.
+
+1. Queda prorrogada desde el 1 de enero hasta el 31 de diciembre del año 2003 la vigencia de las disposiciones transitorias primera, segunda, tercera y cuarta del Real Decreto 5/1997, de 10 de enero, por el que se regula el subsidio por desempleo en favor de los trabajadores eventuales incluidos en el Régimen Especial Agrario de la Seguridad Social, sin perjuicio de nueva prórroga de su vigencia por disposición expresa del Gobierno, previa consulta a los interlocutores sociales.
+
+2. Las disposiciones transitorias previstas en el Real Decreto 5/1997, de 10 de enero, por el que se regula el subsidio por desempleo en favor de los trabajadores eventuales incluidos en el Régimen Especial Agrario de la Seguridad Social, no serán de aplicación para acceder a la renta agraria.
