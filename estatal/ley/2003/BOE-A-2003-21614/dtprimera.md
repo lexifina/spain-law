@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Régimen de los organismos a los que se refieren los artículos 60 y 61 de Ley 50/1998, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
+
+1. En el plazo de un año a partir de la entrada en vigor de esta ley, se procederá a la adaptación de la normativa reguladora de los organismos autónomos a los que se refiere el apartado uno del artículo 60 de la Ley 50/1998, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, así como de los organismos públicos de Investigación a los que refiere el artículo 61.Uno de la citada Ley 50/1998, a las disposiciones contenidas en esta ley, atendiendo a las peculiaridades derivadas de la actividad ejercida por dichos organismos.
+
+2. En tanto no se proceda a la adaptación prevista en el apartado 1 de esta disposición, los citados organismos públicos se ajustarán en su régimen presupuestario a lo previsto para los organismos autónomos en esta ley, sin perjuicio de las especialidades que se deriven de las operaciones de carácter comercial, industrial, financiero y análogo reguladas en el capítulo II del título II del texto refundido de la Ley General Presupuestaria.
+
+En su régimen económico-financiero, de contabilidad, intervención y control financiero, se regirán por lo dispuesto en los artículos 60, apartado cinco, y 61.uno, de la Ley 50/1998, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
