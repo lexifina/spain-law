@@ -49,3 +49,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Ordenanza 31ª](o3-3.md)
 - [Ordenanza 32ª](o3-4.md)
 - [Ordenanza 33ª](o3-5.md)
+- [Ordenanza 34ª ](o3-6.md)
