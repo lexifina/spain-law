@@ -1,9 +1,5 @@
 ## Artículo dieciocho. Sujetos.
 
-La revisión de las declaraciones de incapacidad podrán ser solicitadas por:
+(Derogado)
 
-a) El trabajador beneficiario.
-
-b) La Mutualidad Laboral o Mutua Patronal afectadas o, en su caso, los empresarios que hayan sido declarados responsables del pago de las prestaciones.
-
-c) La Inspección de Trabajo.
+> Se deroga, en la forma indicada en la disposición transitoria única, por la disposición derogatoria única.a) del Real Decreto 1300/1995, de 21 de julio. Ref. BOE-A-1995-19848.
