@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Revisión de las autorizaciones de pasos a nivel particulares.
+
+A partir de la entrada en vigor de esta Orden, la Dirección General de Ferrocarriles procederá, a propuesta de la empresa explotadora de la infraestructura ferroviaria, a la revisión de todas las autorizaciones de pasos a nivel particulares actualmente existentes, imponiendo a sus titulares nuevas condiciones de seguridad o de paso cuando las condiciones del cruce hubieran variado desde la fecha de su otorgamiento, ya proceda la variación de la modificación de las circunstancias incidentes en la infraestructura ferroviaria, en la carretera o en ambas a la vez.

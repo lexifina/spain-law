@@ -1,0 +1,5 @@
+Por el Real Decreto 780/2001, de 6 de julio, se ha modificado el régimen regulador de los pasos a nivel establecido en el Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por el Real Decreto 1211/1990, de 28 de septiembre, con la finalidad de establecer un marco normativo más adecuado que permita proceder a la supresión del mayor número posible de pasos a nivel y mejorar los niveles de protección de los subsistentes a fin de reducir los riesgos de accidentes en los mismos.
+
+En consecuencia, se hace preciso sustituir la Orden del Ministerio de Obras Públicas, Transportes y Medio Ambiente, de 1 de diciembre de 1994, por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel, por un nuevo texto regulador que incorpore y desarrolle las modificaciones introducidas en el citado artículo 235 y concordantes del referido Reglamento.
+
+En su virtud, en uso de las facultades otorgadas por el citado artículo 235 y la disposición adicional undécima de dicho Reglamento, dispongo:
