@@ -1,0 +1,3 @@
+## Art. 3.
+
+Con la misma finalidad deberá vigilar por el cumplimiento de las Leyes, Reglamentos, Ordenanzas y disposiciones de carácter obligatorio que se refieran a la Administración de Justicia, a fin de que se administre en la forma que las Leyes establecen, instando su observancia, presentando los escritos que para ello sea necesario en los asuntos en que intervenga, y cuando se trate de un acto oral, pidiendo la palabra, que le será concedida inmediatamente, aunque esté en el uso de ella cualquiera otra persona de las que intervengan. Los Fiscales procurarán usar de esta facultad con prudente moderación, y si, a juicio de quien preside el acto, abusaren de ella, lo pondrá en conocimiento del superior jerárquico del funcionario Fiscal.

@@ -1,0 +1,13 @@
+## Art. 40.
+
+1. La suspensión tendrá carácter firme cuando se imponga en virtud de condena criminal o de sanción disciplinaria.
+
+2. La condena y la sanción de suspensión determinará la pérdida del cargo.
+
+3. La suspensión por condena podrá imponerse como pena o por consecuencia de la inhabilitación para el ejercicio de cargos y funciones públicas con carácter de principal o de accesoria, en los términos de la sentencia en que fuere acordada.
+
+4. La imposición de la pena de inhabilitación especial para la Carrera del funcionario o la absoluta para el ejercicio de funciones públicas, si una u otra fueran con carácter definitivo, determinará la baja del funcionario en el servicio, sin otra reserva de derechos que los consolidados a efectos pasivos.
+
+5. La suspensión firme por sanción disciplinaria no podrá exceder de seis años, siendo de abono al efecto el periodo de permanencia del funcionario en la situación de suspenso provisional.
+
+6. En el tiempo de cumplimiento de la sanción o de la pena de suspensión firme, el funcionario estará privado de todos los derechos inherentes a su condición.

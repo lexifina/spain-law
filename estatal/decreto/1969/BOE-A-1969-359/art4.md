@@ -1,0 +1,5 @@
+## Art. 4.
+
+Los Fiscales de las Audiencias, de oficio o a excitación de los particulares, podrán pedir a los Tribunales de las jurisdicciones especiales noticia acerca de los hechos que hubieren dado lugar a procedimiento en dichos Tribunales cuando se tuviesen motivos racionalmente bastantes para estimar que tales hechos pudieran ser de la competencia de la jurisdicción ordinaria, y los Tribunales que reciban la petición remitirán, en el plazo de cinco días, al Fiscal que la haga una relación sucinta del hecho, con expresión del lugar donde se realizó y de las personas que, como sujetos activos y pasivos, intervinieran en el mismo. Si no se remitieran esos antecedentes, el Fiscal lo pondrá en conocimiento del superior jerárquico del requerido.
+
+Con el fin de que el Ministerio Fiscal pueda sostener la integridad de las atribuciones de los Juzgados y Tribunales en general impidiendo toda invasión, sea cualquiera el orden o jurisdicción de donde provenga, será oído en las cuestiones, conflictos y recursos que puedan afectar a la competencia de la jurisdicción ordinaria o a la del Juzgado o Tribunal en que ejerza sus funciones.

@@ -1,0 +1,11 @@
+## Art. 46.
+
+1. Los excedentes voluntarios del apartado 1 a) del artículo 35 al cesar en el Cuerpo en que estuvieren sirviendo en activo podrán pedir el reingreso dentro del plazo de diez días acompañando certificación de la Jefatura de Personal del Cuerpo de procedencia, acreditativa de los servicios prestados hasta su cese y de la conducta observada, y les será concedido únicamente con ocasión de vacante. Si de dicho certificado resultase haber sido sancionado, el reingreso quedará condicionado a un nuevo enjuiciamiento con arreglo a las normas propias de la Carrera Fiscal.
+
+2. De no presentar solicitud de reingreso en el término expresado, se le declarará incluido en el apartado c) del mismo precepto, con efecto desde la fecha de cese en el Cuerpo en que estaba en activo.
+
+3. Los excedentes voluntarios de los apartados b) y c) del artículo 35 que soliciten la vuelta al servicio activo presentarán para constancia en su expediente personal certificado de antecedentes penales, declaración jurada de si se encuentran o no procesados, así como de las sanciones en que pudieran haber incurrido en el servicio de otro Cuerpo.
+
+4. Para adjudicar vacante a los excedentes voluntarios tendrá que haber transcurrido un mes desde la fecha de presentación de la instancia en el Registro General del Ministerio de Justicia y haber sido declarados aptos para el reingreso por el Consejo Fiscal. A tal fin la instancia en que soliciten el reingreso, en unión del expediente personal del interesado, se remitirá al Fiscal del Tribunal Supremo, para que, en el referido Consejo Fiscal se informe con respecto a la aptitud del solicitante.
+
+5. Recibido el informe de referencia, el Ministerio, en el plazo de ocho días resolverá la petición, concediéndole o no la vuelta al servicio activo. En caso afirmativo, de no existir funcionarios con preferente derecho, ocupará la primera vacante que se produzca con posterioridad a la fecha en que el Ministerio resuelva la petición y será destinado al cargo que con arreglo a su categoría personal le corresponda, de acuerdo con las normas establecidas en este Reglamento. A los funcionarios reingresados sólo les serán abonados servicios en su categoría y Carrera a partir de la fecha de la posesión en el destino para que fueron nombrados, sin que antes de tomar posesión puedan solicitar traslado.
