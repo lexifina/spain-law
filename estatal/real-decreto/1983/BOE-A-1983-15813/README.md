@@ -28,6 +28,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 13](art13.md)
 - [Art 14](art14.md)
 - [Disposición adicional](da.md)
+- [Disposición adicional primera](daprimera.md)
+- [Disposición adicional seguda](dasegunda.md)
 - [Disposición transitoria](dt.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final](df.md)
