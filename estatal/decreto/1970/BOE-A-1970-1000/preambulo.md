@@ -1,1 +1,3 @@
+Véase la disposición adicional 13 del Real Decreto 9/1991, de 11 de enero. Ref. BOE-A-1991-1060. que introduce modificaciones en la acción protectora de este régimen especial.
+
 Téngase en cuenta que se amplía la acción protectora de cobertura obligatoria del régimen especial de los trabajadores por cuenta propia o autónomos con la inclusión de las prestaciones de asistencia sanitaria para los supuestos de enfermedad común, maternidad y accidente, cualquiera que sea la causa que lo motive, y de incapacidad laboral transitoria, en los mismos términos y condiciones establecidos en el régimen general, según establece el art. único del Real Decreto 43/1984, de 4 de enero. Ref. BOE-A-1984-610.
