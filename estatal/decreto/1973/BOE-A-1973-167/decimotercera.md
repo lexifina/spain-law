@@ -1,0 +1,3 @@
+## Disposición transitoria decimotercera.
+
+Las fincas que al promulgarse la presente Ley estén cumpliendo los planes de las Leyes de 3 de diciembre de 1953 y 14 de abril de 1962, terminarán su transformación de acuerdo a estas Leyes. Asimismo, aquellas fincas que hayan cumplido los planes de las dos Leyes citadas quedarán exentas de la aplicación de la presente Ley durante el plazo de diez años a que se refería la disposición transitoria de la Ley 27/1971, de 21 de julio, sobre comarcas y fincas mejorables. La misma exención se aplicará a las fincas declaradas ejemplares, mientras conserven dicha calificación.
