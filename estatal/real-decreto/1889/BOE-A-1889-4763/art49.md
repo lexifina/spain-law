@@ -1,3 +1,9 @@
 ## Artículo 49.
 
-Ninguno de los llamados a prestar su consentimiento o consejo está obligado a manifestar las razones en que se funda para concederlo o negarlo, ni contra su disenso se da recurso alguno.
+Ninguno de los llamador a otorgar la licencia está obligado a manifestar las razones en que se funda para concederla o negarla.
+
+No obstante, si la licencia fuera negada, el matrimonio podrá celebrarse si se autoriza por el Ordinario del lugar o por el Presidente de la Audiencia Territorial, según fuere canónico o civil. A todos los efectos la autorización equivaldrá a la licencia.
+
+El Presidente de la Audiencia, oído el Ministerio Fiscal, adoptará su resolución en expediente que se instruirá por el Juez encargado del Registro Civil del domicilio del solicitante en el que se oirá a los padres y a las personas que juzgue conveniente.
+
+> Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.

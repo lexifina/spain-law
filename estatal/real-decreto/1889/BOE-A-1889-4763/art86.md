@@ -1,9 +1,13 @@
 ## Artículo 86.
 
-Los que con arreglo al artículo 42 hubieren de contraer matrimonio en la forma determinada en este Código, presentarán al Juez municipal de su domicilio una declaración, firmada por ambos contrayentes, en que consten:
+Los que con arreglo al artículo cuarenta y dos pretendan contraer matrimonio en forma civil presentarán en el Registro Civil de su domicilio una declaración, firmada por ambos contrayentes, en que conste:
 
-1.º Los nombres, apellidos, edad, profesión, domicilio o residencia de los contrayentes.
+Primero. Los nombres, apellidos, edad, profesión, domicilio o residencia de los contrayentes.
 
-2.º Los nombres, apellidos, profesión, domicilio o residencia de los padres.
+Segundo. Los nombres, apellidos, profesión, domicilio o residencia de los padres.
 
-Acompañarán a esta declaración la partida de nacimiento y de estado de los contrayentes, la licencia o consejo, si procediere, y la dispensa, cuando sea necesaria.
+Acompañarán a esta declaración la prueba de nacimiento y del estado civil, la licencia, si procediere, y la dispensa cuando sea necesaria.
+
+Asimismo, presentarán la prueba de no profesar la religión católica.
+
+> Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.

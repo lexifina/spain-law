@@ -1,3 +1,9 @@
 ## Artículo 48.
 
-La licencia y el consejo favorable a la celebración del matrimonio deberán acreditarse, al solicitar éste, por medio de documento que haya autorizado un Notario civil o eclesiástico, o el Juez municipal del domicilio del solicitante. Del propio modo se acreditará el transcurso del tiempo a que alude el artículo anterior, cuando inútilmente se hubiere pedido el consejo.
+Antes de la celebración del matrimonio, los contrayentes habrán de acreditar que obtuvieron la licencia.
+
+En ambas clases de matrimonios, bastará para ello documento que haya autorizado un Notario o el encargado del Registro Civil del domicilio del solicitante.
+
+Cuando se trate de matrimonio canónico, podrá ser también autorizado el documento por el párroco o por un Notario eclesiástico.
+
+> Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.

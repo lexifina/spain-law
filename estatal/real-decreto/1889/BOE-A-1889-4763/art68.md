@@ -1,13 +1,33 @@
 ## Artículo 68.
 
-Interpuestas y admitidas las demandas de que habla el artículo anterior, se adoptarán, mientras durare el juicio, las disposiciones siguientes:
+Admitidas las demandas de nulidad o de separación de matrimonio, el Juez adoptará, durante la sustanciación del proceso, las medidas siguientes:
 
-1.ª Separar los cónyuges en todo caso.
+Primera. Separar a los cónyuges en todo caso.
 
-2.ª Depositar la mujer en los casos y forma prevenidos en la Ley de Enjuiciamiento Civil.
+Segunda. Determinar cuál de los cónyuges ha de continuar en el uso de la vivienda común, teniendo en cuenta, ante todo, el interés familiar más urgentemente necesitado de protección, así como las ropas, objetos y muebles que podrá llevar consigo el cónyuge que haya de salir de aquélla.
 
-3.ª Poner los hijos al cuidado de uno de los cónyuges o de los dos, según proceda.
+Tercera. Fijar discrecionalmente en poder de cuál de !os cónyuges han de quedar todos o alguno de los hijos, y quién de aquéllos ejercerá la patria potestad.
 
-4.ª Señalar alimentos a la mujer y a los hijos que no queden en poder del padre.
+En casos excepcionales se podrán encomendar los hijos a otra persona o institución adecuada, que asumirá las funciones tutelares, correspondiendo las del Protutor y Consejo de Familia a la autoridad judicial.
 
-5.ª Dictar las medidas necesarias para evitar que el marido que hubiese dado causa al divorcio, o contra quien se dedujere la demanda de nulidad del matrimonio, perjudique a la mujer en la administración de sus bienes.
+El Juez determinará el tiempo, modo y lugar en que el cónyuge apartado de los hijos podrá visitarlos y comunicar con ellos.
+
+Cuarta. En cuanto al régimen económico matrimonial se seguirán las siguientes reglas:
+
+El marido conservará la administración y disposición de sus bienes.
+
+Se transferirá a la mujer la administración de los parafernales que hubiese entregado al marido, pero necesitará autorización judicial para los actos que excedan de la administración ordinaria.
+
+Se mantendrá, en cuanto a los bienes dotales, el régimen anterior a la presentación de la demanda salvo que el Juez estime conveniente transferir a la mujer la administración de los bienes de la dote inestimada.
+
+El Juez, atendidas las circunstancias del caso, podrá excepcionalmente conferir a la mujer la administración de los bienes gananciales o de alguno de ellos.
+
+Será necesaria licencia judicial para los actos que excedan de la mera administración de los gananciales, cualquiera que sea el cónyuge que los administre.
+
+Se procederá con criterio análogo al señalado en esta regla cuarta cuando el régimen económico matrimonial sea distinto del de gananciales.
+
+Quinta. Señalar alimentos a la mujer, y, en su caso, al marido, así como a los hijos que no queden en poder del obligado a dar alimentos, sin que éste pueda optar por prestarlos en la propia casa.
+
+Sexta. Acordar, si procede, el abono de litis expensas determinando la cuantía y la persona obligada al pago.
+
+> Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.

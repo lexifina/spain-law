@@ -1,5 +1,7 @@
 ## Artículo 79.
 
-El matrimonio secreto de conciencia, celebrado ante la Iglesia, no está sujeto a ninguna formalidad en el orden civil, ni producirá efectos civiles sino desde que se publique mediante su inscripción en el Registro.
+El matrimonio secreto de conciencia celebrado ante la Iglesia no está sometido a lo dispuesto en el artículo setenta y siete.
 
-Este matrimonio producirá, sin embargo, efectos civiles desde su celebración si ambos contrayentes, de común acuerdo, solicitaren del Obispo que lo haya autorizado un traslado de la partida consignada en el registro secreto del Obispado, y la remitieren directamente y con la conveniente reserva a la Dirección General del Registro Civil, solicitando su inscripción. Al efecto, la Dirección General llevará un registro especial y secreto con las precauciones necesarias para que no se conozca el contenido de estas inscripciones hasta que los interesados soliciten darle publicidad trasladándolas al Registro municipal de su domicilio.
+Para los efectos civiles, basta su inscripción en el Registro especial que se lleva en la Dirección General de los Registros, pero no perjudicará los derechos adquiridos legítimamente por terceras personas, sino desde su publicación en el Registro Civil correspondiente, la cual se practicará a petición de los cónyuges, de común acuerdo del sobreviviente si el otro hubiere fallecido o del Ordinario en los casos en que cesa para él la obligación canónica del secreto.
+
+> Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.

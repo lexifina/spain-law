@@ -1,9 +1,17 @@
 ## Artículo 70.
 
-Ejecutoriada la nulidad del matrimonio, quedarán los hijos varones mayores de tres años al cuidado del padre, y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiese habido buena fe.
+La ejecutoria de nulidad del matrimonio producirá los siguientes efectos:
 
-Si la buena fe hubiese estado de parte de uno solo de los cónyuges, quedarán bajo su poder y cuidado los hijos de ambos sexos.
+Los hijos mayores de siete años quedarán al cuidado del padre, y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiese habido buena fe.
 
-Si la mala fe fuere de ambos, el Tribunal resolverá sobre la suerte de los hijos en la forma que dispone el párrafo segundo del número 2 del artículo 73.
+Si la buena fe hubiese estado de parte de uno solo de los cónyuges quedarán bajo su poder y cuidado los hijos de ambos sexos.
 
-Los hijos e hijas menores de tres años estarán en todo caso, hasta que cumplan esta edad, al cuidado de la madre, a no ser que, por motivos especiales, dispusiere otra cosa la sentencia.
+Si la mala fe fuere de ambos, el Tribunal resolverá sobre la suerte de los hijos en la forma que dispone el párrafo segundo del número segundo del artículo setenta y tres.
+
+Los hijos e hijas menores de siete años estarán, hasta que cumplan esta edad, al cuidado de la madre.
+
+Sin embargo de lo establecido en estas normas, si el Tribunal que conoció sobre la nulidad del matrimonio hubiese, por motivos especiales, proveído en su sentencia acerca del cuidado de los hijos, deberá estarse en todo caso a lo decretado por él.
+
+Por análogos motivos, y en lo que no haya dispuesto la sentencia de nulidad, el Juez que haya de ejecutarla podrá también aplicar su criterio discrecional, según las particularidades del caso.
+
+> Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.

@@ -1,3 +1,11 @@
 ## Artículo 47.
 
-Los hijos mayores de edad están obligados a pedir consejo al padre y, en su defecto, a la madre. Si no lo obtuvieren o fuere desfavorable, no podrá celebrarse el matrimonio hasta tres meses después de hecha la petición.
+Si se tratare de hijos naturales reconocidos o legitimados por concesión real, la licencia deberá ser pedida a los que los reconocieron y legitimaron, a sus ascendientes y al Consejo de familia, por el orden establecido en el artículo anterior.
+
+Si se tratare de hijos adoptivos, se pedirá la licencia al adoptante. En su defecto, si la adopción es plena, se solicitará al Consejo de familia; si es menos plena, antes que a éste se pedirá a las personas de la familia natural a quienes corresponda.
+
+Los demás hijos ilegítimos obtendrán la licencia de su madre cuando fuere legalmente conocida; la de los abuelos maternos en el mismo caso, y a falta de unos y otros, la del Consejo de familia.
+
+A los jefes de las Casas de Expósitos corresponde prestar la licencia para el matrimonio de los educados en ellas.
+
+> Se modifica por el art. 1 de la Ley de 24 de abril de 1958. Ref. BOE-A-1958-6677.
