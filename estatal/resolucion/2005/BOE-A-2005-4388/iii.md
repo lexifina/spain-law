@@ -1,0 +1,7 @@
+## III. Reglas especiales
+
+1. Lo establecido en el presente Acuerdo respecto a las Comunidades Autónomas se aplicará a las Ciudades con Estatuto de Autonomía de Ceuta y Melilla en la medida en que afecte a las competencias estatutariamente asumidas.
+
+2. Lo establecido en el presente Acuerdo será de aplicación sin perjuicio de las especialidades que se establezcan como consecuencia de la existencia del régimen de integración específico de Canarias, así como del régimen comunitario especial de Ceuta y Melilla.
+
+3. La participación objeto del presente Acuerdo lo es sin perjuicio de los regímenes e instrumentos bilaterales existentes o que pudieran existir con algunas Comunidades Autónomas para el tratamiento de aquellas cuestiones propias de la participación en los asuntos relacionados con la Unión Europea que afecten en exclusiva a dichas Comunidades o que tengan para las mismas una vertiente singular en función de su especificidad autonómica y foral.
