@@ -1,0 +1,5 @@
+## Segundo. Reglas de la contratación del Seguro de Crédito a la Exportación por Cuenta del Estado.
+
+En su actuación como gestora del Seguro de Crédito a la Exportación por Cuenta del Estado, la «Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima, Cía. de Seguros y Reaseguros», incorporará a su documentación contractual las previsiones necesarias para reflejar el tratamiento normativo y los principios inspiradores de la lucha contra la corrupción y ajustará su contratación a las regulaciones relativas a la protección medioambiental, todo ello dentro del marco jurídico vigente en España en ambas materias.
+
+Igualmente, la «Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima, Cía. de Seguros y Reaseguros», continuará manteniendo la más estricta confidencialidad sobre la información y datos proporcionados por sus asegurados en relación con las operaciones objeto de cobertura, salvo que razones de interés público exijan levantar dicha confidencialidad, siempre y cuando así lo disponga el Ministerio de Economía.
