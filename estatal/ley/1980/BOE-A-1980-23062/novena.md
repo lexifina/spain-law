@@ -1,0 +1,7 @@
+## Novena.
+
+Uno. La Administración adoptará las medidas pertinentes a fin de que, mediante la regulación adecuada, las aguas que se trasvasen sean, en todo momento, excedentarias en la cuenca del Tajo.
+
+Dos. El carácter de excedentarias se determinará en el Plan Hidrológico de la cuenca del Tajo, a cuya efecto tendrá en cuenta tanto los aprovechamientos potenciales a que se refieren los artículos tercero, cuarto y quinto de la Ley veintiuno/mil novecientos setenta y uno, como los que resulten por virtud de lo establecido en la disposición adicional tercera de esta Ley y los que sean consecuencia del desarrollo natural de las provincias de la cuenca del Tajo.
+
+Tres. Mientras no se apruebe el Plan Hidrológico de la cuenca del Tajo se constituirá una Comisión con representantes de los Ministerios de Obras Públicas y Urbanismo y de Agricultura y de los Entes autonómicos o preautonómicos afectados, o, en su defecto, las provincias, la cual, a la vista de los actuales planeamientos de los regadíos del Tajo, y de las previsiones y calendarios previstos en los programas del Ministerio, delimitará la extensión de las zonas que se han de incluir en los Planes de Riegos del Tajo, determinará las obras de regulación que han de aportar, así como las de desarrollo de los diversos sistemas, los caudales precisos para su puesta en riego, y posteriormente llevará a cabo el seguimiento de la ejecución de las obras que los Planes comporten.
