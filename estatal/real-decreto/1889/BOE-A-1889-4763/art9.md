@@ -10,19 +10,13 @@ La separación y el divorcio se regirán por la ley que determina el artículo 1
 
 3. Los pactos o capitulaciones por los que se estipule, modifique o sustituya el régimen económico del matrimonio serán válidos cuando sean conformes bien a la ley que rija los efectos del matrimonio, bien a la ley de la nacionalidad o de la residencia habitual de cualquiera de las partes al tiempo del otorgamiento.
 
-4. El carácter y contenido de la filiación, incluida la adoptiva, y las relaciones paterno-filiales, se regirán por la Ley personal del hijo.
+4. El carácter y contenido de la filiación, incluida la adoptiva y las relaciones paterno-filiales, se regirán por la Ley personal del hijo y si no pudiera determinarse ésta, se estará a la de la residencia habitual del hijo.
 
-5. La adopción constituida por Juez español se regirá, en cuanto a los requisitos, por lo dispuesto en la Ley española. No obstante, deberá observarse la Ley nacional del adoptando en lo que se refiere a su capacidad y consentimientos necesarios:
+5. Para la constitución de la adopción, los Cónsules españoles tendrán las mismas atribuciones que el Juez, siempre que el adoptante sea español y el adoptando esté domiciliado en la demarcación consular. La propuesta previa será formulada por la entidad pública correspondiente al último lugar de residencia del adoptante en España. Si el adoptante no tuvo residencia en España en los dos últimos años, no será necesaria propuesta previa, pero el Cónsul recabará de las autoridades del lugar de residencia de aquél informes suficientes para valorar su idoneidad.
 
-1.º Si tuviera su residencia habitual fuera de España.
+En la adopción constituida por la competente autoridad extranjera, la Ley del adoptando regirá en cuanto a capacidad y consentimientos necesarios. Los consentimientos exigidos por tal Ley podrán prestarse ante una autoridad del país en que se inició la constitución o, posteriormente, ante cualquier otra autoridad competente. En su caso, para la adopción de un español será necesario el consentimiento de la entidad pública correspondiente a la última residencia del adoptando en España.
 
-2.º Aunque resida en España, si no adquire, en virtud de la adopción la nacionalidad española.
-
-A petición del adoptante o del Ministerio Fiscal, el Juez, en interés del adoptando, podrá exigir, además, los consentimientos, audiencias o autorizaciones requeridas por la Ley nacional o por la Ley de la residencia habitual del adoptante o del adoptando.
-
-Para la constitución de la adopción, los Cónsules españoles tendrán las mismas atribuciones que el Juez, siempre que el adoptante sea español y el adoptando esté domiciliado en la demarcación consular. La propuesta previa será formulada por la entidad pública correspondiente al último lugar de residencia del adoptante en España. Si el adoptante nunca tuvo residencia en España no será necesaria propuesta previa, pero el Cónsul recabará de las autoridades del lugar de residencia de aquél informes suficientes para valorar su idoneidad.
-
-En la adopción constituida por la competente autoridad extranjera, la Ley del adoptando regirá en cuanto a capacidad y consentimientos necesarios. Los consentimientos exigidos por tal Ley podrán prestarse ante una autoridad del país en que se inició la constitución o, posteriormente, ante cualquier otra autoridad competente. En su caso, para la adopción de un español, será necesario el consentimiento de la entidad pública correspondiente a la última residencia del adoptando en España.
+No será reconocida en España como adopción la constituida en el extranjero por adoptante español, si los efectos de aquélla no se corresponden con los previstos por la legislación española. Tampoco lo será, mientras la entidad pública competente no haya declarado la idoneidad del adoptante, si éste fuera español y estuviera domiciliado en España al tiempo de la adopción.
 
 6. La tutela y las demás instituciones de protección del incapaz se regularán por la ley nacional de éste. Sin embargo, las medidas provisionales o urgentes de protección se regirán por la ley de su residencia habitual.
 
@@ -45,6 +39,8 @@ Prevalecerá en todo caso la nacionalidad española del que ostente además otra
 11. La ley personal correspondiente a las personas jurídicas es la determinada por su nacionalidad, y regirá en todo lo relativo a capacidad, constitución, representación, funcionamiento, transformación, disolución y extinción.
 
 En la fusión de sociedades de distinta nacionalidad se tendrán en cuenta las respectivas leyes personales.
+
+> Se modifican los apartados 4 y 5 por las disposiciones finales 1 y 2 de la Ley Orgánica 1/1996, de 15 de enero. Ref. BOE-A-1996-1069.
 
 > Se modifican los apartados 2, 3, 5 y 8 por el art. 1 de la Ley 11/1990, de 15 de octubre. Ref. BOE-A-1990-25089.
 

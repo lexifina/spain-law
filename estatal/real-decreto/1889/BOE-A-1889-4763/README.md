@@ -252,6 +252,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO V](cv-4.md)
 - [Sección primera](sprimera-8.md)
 - [Art 173](art173.md)
+- [Art 173 bis](art173bis.md)
 - [Art 174](art174.md)
 - [Sección segunda](ssegunda-7.md)
 - [Art 175](art175.md)

@@ -1,0 +1,25 @@
+## Disposición final quinta.
+
+El artículo 172 del Código Civil queda redactado como sigue:
+
+«1. La entidad pública a la que, en el respectivo territorio, esté encomendada la protección de los menores, cuando constate que un menor se encuentra en situación de desamparo, tiene por ministerio de la Ley la tutela del mismo y deberá adoptar las medidas de protección necesarias para su guarda, poniéndolo en conocimiento del Ministerio Fiscal, y notificando en legal forma a los padres, tutores o guardadores, en un plazo de cuarenta y ocho horas. Siempre que sea posible, en el momento de la notificación se les informará de forma presencial y de modo claro y comprensible de las causas que dieron lugar a la intervención de la Administración y de los posibles efectos de la decisión adoptada.
+
+Se considera como situación de desamparo la que se produce de hecho a causa del incumplimiento, o del imposible o inadecuado ejercicio de los deberes de protección establecidos por las leyes para la guarda de los menores, cuando éstos queden privados de la necesaria asistencia moral o material.
+
+La asunción de la tutela atribuida a la entidad pública lleva consigo la suspensión de la patria potestad o de la tutela ordinaria. No obstante, serán válidos los actos de contenido patrimonial que realicen los padres o tutores en representación del menor y que sean beneficiosos para él.
+
+2. Cuando los padres o tutores, por circunstancias graves, no puedan cuidar al menor, podrán solicitar de la entidad pública competente que ésta asuma su guarda durante el tiempo necesario.
+
+La entrega de la guarda se hará constar por escrito dejando constancia de que los padres o tutores han sido informados de las responsabilidades que siguen manteniendo respecto del hijo, así como de la forma en que dicha guarda va a ejercerse por la Administración.
+
+Cualquier variación posterior de la forma de ejercicio será fundamentada y comunicada a aquéllos y al Ministerio Fiscal.
+
+Asimismo, se asumirá la guarda por la entidad pública cuando así lo acuerde el Juez en los casos en que legalmente proceda.
+
+3. La guarda asumida a solicitud de los padres o tutores o como función de la tutela por ministerio de la Ley, se realizará mediante el acogimiento familiar o el acogimiento residencial. El acogimiento familiar se ejercerá por la persona o personas que determine la entidad pública. El acogimiento residencial se ejercerá por el Director del centro donde sea acogido el menor.
+
+4. Se buscará siempre el interés del menor y se procurará, cuando no sea contrario a ese interés, su reinserción en la propia familia y que la guarda de los hermanos se confíe a una misma institución o persona.
+
+5. Si surgieren problemas graves de convivencia entre el menor y la persona o personas a quien hubiere sido confiado en guarda, aquél o persona interesada podrá solicitar la remoción de ésta.
+
+6. Las resoluciones que aprecien el desamparo y declaren la asunción de la tutela por ministerio de la Ley serán recurribles ante la jurisdicción civil sin necesidad de reclamación administrativa previa.»
