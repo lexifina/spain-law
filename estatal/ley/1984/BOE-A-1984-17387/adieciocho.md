@@ -12,4 +12,6 @@ Los Tribunales o las Comisiones de Selección no podrán aprobar ni declarar que
 
 Las demás Administraciones Públicas elaborarán y propondrán públicamente sus ofertas de empleo ajustándose a los criterios anteriormente expuestos.
 
+> Se suspende la vigencia durante el año 1993 en la forma indicada por la disposición transitoria 8.1 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826
+
 > Se suspende la vigencia, a partir del 23 de julio de 1992 y durante el ejercicio de 1992, en la forma indicada por el art. 4 de la Ley 28/1992, de 24 de noviembre. Ref. BOE-A-1992-26147

@@ -2,33 +2,57 @@
 
 ## Grupo 751. Actividades anexas al transporte terrestre.
 
-Epígrafe 751.1 Explotación de aparcamientos.
+Epígrafe 751.1 Guarda y custodia de vehículos en garajes y locales cubiertos.
 
 Cuota de:
 
-Hasta un límite de 250 metros cuadrados de superficie total dedicados a esta actividad: 32.500 pesetas.
+Hasta un límite de 250 metros cuadrados de superficie total, incluyendo la de los pisos, si existieran, dedicados a dicha custodia: 28.500 pesetas.
 
-Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior: 8.000 pesetas.
+Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior: 7.000 pesetas.
 
-Epígrafe 751.2 Explotación de aparcamientos en solares o terrenos sin edificar.
+Nota: Estas cuotas no autorizan a la custodia durante el día de coches que únicamente se guardan algunas horas alternando con los que esencialmente se encierran de noche. En el caso de que se ejerza esta modalidad de custodia las cuotas se incrementarán en un 25 por 100.
+
+Epígrafe 751.2. Guarda y custodia de vehículos en los denominados «aparcamientos subterráneos» o «parkings».
 
 Cuota de:
 
-Hasta un límite de 250 metros cuadrados de superficie total dedicados a esta actividad: 12.000 pesetas.
+Hasta un límite de 250 metros cuadrados de superficie total, incluyendo la de los pisos, sí los hubiera, dedicados a esta actividad: 32.500 pesetas.
 
-Por cada 50 metros cuadrados o fracción que exceda del límite anterior:
+Por cada 50 metros cuadrados o fracción que exceda sobre el límite: 8.000 pesetas.
+
+Epígrafe 751.3. Guarda y custodia de vehículos en solares o terrenos sin edificar.
+
+Cuota de:
+
+Hasta un límite de 250 metros cuadrados de superficie total, dedicados a esta actividad: 12.000 pesetas.
+
+Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior:
 
 Municipios que tengan una población de derecho superior a 100.000 habitantes: 1.800 pesetas.
 
 Municipios que tengan una población de derecho igual o inferior a 100.000 habitantes: 900 pesetas.
 
-Epígrafe 751.3 Explotación de autopistas, carreteras, puentes y túneles de peaje.
+Epígrafe 751.4. Explotación de autopistas, carreteras, puentes y túneles de peaje.
 
-Cuota:
+Cuota de:
 
-Cuota mínima municipal de: 7.000 pesetas por kilómetro.
+Cuota mínima municipal de 7.000 pesetas por kilómetro.
 
-Cuota provincial de: 22.000 pesetas por kilómetro.
+Cuota provincial de 22.000 pesetas por kilómetro.
+
+Epígrafe 751.5. Engrase y lavado de vehículos.
+
+Cuota de:
+
+Por cada estación de servicio: 30.000 pesetas.
+
+Epígrafe 751.6. Servicios de carga y descarga de mercancías.
+
+Cuota de:
+
+En poblaciones de más de 100.000 habitantes: 35.000 pesetas.
+
+En restantes poblaciones: 20.000 pesetas.
 
 ## Grupo 752. Actividades anexas al transporte marítimo y por vías navegables interiores.
 
@@ -108,13 +132,13 @@ En poblaciones de más de 100.000 habitantes: 60.000 pesetas.
 
 En las restantes poblaciones: 40.000 pesetas.
 
-Epígrafe 753.2 Servicios de control de vuelo en los aeropuertos.
+Epígrafe 753.2 Servicio de control de navegación aérea.
 
-Cuota de:
+Cuota nacional de:
 
-En poblaciones de más de 100.000 habitantes: 40.000 pesetas.
+Por cada metro cuadrado de superficie de los locales destinados a tal fin: 155 pesetas.
 
-En las restantes poblaciones: 28.000 pesetas.
+Nota: Entre dichos locales se computarán las edificaciones destinadas a centros de control de tráfico aéreo, instalación de radar, torres de control de aeropuertos, equipos de producción de energía eléctrica necesarios para tal fin, centros de transmisión, y otras instalaciones de similar naturaleza.
 
 Epígrafe 753.3 Servicios de hangares y estacionamiento de aeronaves.
 
@@ -131,6 +155,36 @@ Cuota de:
 En poblaciones de más de 100.000 habitantes: 60.000 pesetas.
 
 En las restantes poblaciones: 40.000 pesetas.
+
+Epígrafe 753.5. Explotación integral de aeropuertos.
+
+Cuota de:
+
+Cuota mínima municipal de:
+
+Hasta 2.000 metros cuadrados: 150 pesetas por metro cuadrado.
+
+De 2.001 a 4.000 metros cuadrados: 80 pesetas por metro cuadrado.
+
+De 4.001 a 10.000 metros cuadrados: 53 pesetas por metro cuadrado.
+
+De 10.001 a 25.000 metros cuadrados: 52 pesetas por metro cuadrado.
+
+De 25.001 a 100.000 metros cuadrados: 50 pesetas por metro cuadrado.
+
+De 100.001 a 400.000 metros cuadrados: 49 pesetas por metro cuadrado.
+
+Exceso de 400.000 metros cuadrados: 48 pesetas por metro cuadrado.
+
+Notas:
+
+1.ª Los sujetos pasivos matriculados en este epígrafe podrán realizar, sin pago de cuota adicional alguna, los servicios clasificados en los epígrafes de este Grupo, excepto el 753.2, así como el suministro de combustible y lubricantes y retirada de vehículos terrestres, saneamiento vial, limpieza de edificios y locales, depósito y almacenaje, contraincendios y accidentes, telecomunicaciones, etc., e, igualmente, la cesión a terceros del uso de espacios e instalaciones dentro del local, por cualquier título y mediante contraprestación, para la realización, de actividades económicas.
+
+2.ª A efectos del cálculo de las cuotas de este epígrafe, se computará la superficie íntegra del establecimiento (aeropuerto), incluyendo las zonas destinadas a oficinas, aparcamiento cubierto, almacenes, etc. Asimismo, se computarán las zonas ocupadas por terceros en virtud de cesión de uso o por cualquier otro título. No se computarán, sin embargo. las superficies descubiertas cualquiera que sea su destino, ni tampoco la superficie de los hangares.
+
+3.ª Quienes, en virtud de cesión de uso, o por cualquier otro título, ocupen zonas de los establecimientos de referencia para el ejercicio de actividades económicas, tributarán por la cuota que corresponda en función de las actividades que realicen, sin que a efectos del impuesto tales zonas tengan la consideración de local, con excepción de la superficie cubierta o descubierta destinada a la actividad de guarda y custodia de vehículos.
+
+4.ª No están comprendidos en este epígrafe los servicios de alojamiento y restauración, así como tampoco la explotación de aparcamientos.
 
 Epígrafe 753.9 Otros servicios anexos al transporte aéreo n.c.o.p.
 
@@ -215,5 +269,23 @@ Epígrafe 756.1 Agencias de transporte, transitarios.
 Epígrafe 756.2 Consignatarios de buques.
 
 Epígrafe 756.9 Otros servicios de mediación del transporte.
+
+## Grupo 757. Servicios de mudanzas.
+
+Cuota de:
+
+Cuota mínima municipal de:
+
+– En poblaciones de más de 100.000 habitantes: 22.000 pesetas.
+
+– En las poblaciones restantes: 15.000 pesetas.
+
+Cuota provincial de: 53.000 pesetas.
+
+Cuota nacional de: 74.000 pesetas.
+
+> Se modifica por el art. 75.1.29 a 32 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.
 
 > Se modifica el grupo 751 por el art. 78.11 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

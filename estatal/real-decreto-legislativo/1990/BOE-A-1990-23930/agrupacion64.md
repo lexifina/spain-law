@@ -286,7 +286,7 @@ Cuota mínima municipal de:
 
 – En las poblaciones restantes: 6.000 pesetas.
 
-Nota: Este epígrafe faculta para la elaboración de los productos propios de churrería en el propio establecimiento, siempre que su comercialización se realice en las propias dependencias de venta.
+Nota: Este epígrafe faculta para la elaboración de los productos de churrería; así como patatas fritas, en el propio establecimiento, siempre que su comercialización se realice en las propias dependencias de venta.
 
 ## Grupo 645. Comercio al por menor de vinos y bebidas de todas clases.
 
@@ -380,6 +380,12 @@ Cuota mínima municipal de:
 
 Nota: Este epígrafe autoriza para realizar el comercio al menudeo, en pequeñas proporciones, de material de escribir, como carpetas, sobres y pliegos sueltos, plumas, lapiceros, bolígrafos, gomas, lacres, frascos de tinta, libretas, blocs, naipes, estampas y postales, siempre que los artículos mencionados no contengan metales preciosos.
 
+Notas comunes al grupo 646:
+
+1.ª Los sujetos pasivos matriculados en este Grupo podrán expender, sin pago de cuota adicional alguna, sellos de correos y efectos timbrados.
+
+2.ª Quienes no estando matriculados en este Grupo expendan sellos de correos y efectos timbrados, tributarán por esta actividad en régimen de cuota cero.
+
 ## Grupo 647. Comercio al por menor de productos alimenticios y bebidas en general.
 
 Epígrafe 647.1 Comercio al por menor de cualquier clase de productos alimenticios y de bebidas en establecimientos con vendedor.
@@ -427,5 +433,9 @@ Epígrafe 647.5 Suministro de productos alimenticios y bebidas, excluido el taba
 Cuota mínima municipal: 1.120 pesetas por máquina. Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local en el cual la máquina esté instalada, siempre que perciba contraprestación por esta actividad.
 
 Cuota nacional: 1.120 pesetas por máquina. Esta cuota la satisfará, exclusivamente, el propietario de las máquinas.
+
+> Se modifican los epígrafes 644.6 y 646 por el art. 75.1.17 y 18 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.
 
 > Se modifica el epígrafe 644.1 por el art. 78.8 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

@@ -8,7 +8,7 @@ A) El pago de las cuotas correspondientes al ejercicio de actividades mineras e 
 
 Asimismo, el pago de las cuotas a que se refiere el párrafo primero de esta letra faculta para la adquisición, tanto en territorio nacional como en el extranjero, de las materias primas necesarias para el desarrollo de las actividades correspondientes, siempre que las referidas materias primas se integren en el proceso productivo propio.
 
-Tratándose de actividades industriales, el pago de las cuotas correspondientes faculta para la extracción de las materias primas, siempre que estas materias primas se integren en el proceso productivo propio.
+Tratándose de actividades industriales, el pago de las cuotas correspondientes faculta para la extracción de las materias primas, siempre que estas materias primas se integren en el proceso productivo propio y tanto la actividad de extracción como la industrial se realicen dentro del mismo término municipal.
 
 Para el ejercicio de las actividades a que se refiere la presente letra, así como para el desarrollo de las facultades que en la misma se regulan, los sujetos pasivos podrán disponer de almacenes o depósitos cerrados al público. En todo caso, la superficie de los referidos almacenes o depósitos se computará a efectos de lo dispuesto en la letra F) del apartado 1 de la Regla 14.ª
 
@@ -61,3 +61,7 @@ I) El pago de las cuotas correspondientes a la prestación de servicios recreati
 3. A efectos del Impuesto sobre Actividades Económicas, la expresión «almacenes y depósitos» incluye los almacenes frigoríficos.
 
 4. El hecho de figurar inscrito en la Matrícula o de satisfacer el Impuesto sobre Actividades Económicas no legitima el ejercicio de una actividad si para ello se exige en las disposiciones vigentes el cumplimiento de otros requisitos.
+
+> Se modifica el apartado 2.A) por el art. 75.2 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.

@@ -106,6 +106,12 @@ Cuota de: 49.000 pesetas.
 
 Nota: Este epígrafe comprende el comercio al por mayor de porcelana, cristalería y otros artículos de cerámica y vidrio para el hogar, artículos de madera, corcho y cestería y otros productos para el mantenimiento y funcionamiento del hogar.
 
+Epígrafe 614.4. Comercio al por mayor de productos zoosanitarios.
+
+Cuota de: 100.000 pesetas.
+
+Nota: Este epígrafe comprende el comercio al por mayor de medicamentos de uso veterinario, tanto farmacológicos como biológicos, aditivos para incorporar al pienso, correctores vitamínico minerales, plaguicidas de uso ganadero y otros productos propios de la sanidad y explotación ganadera, así como el material necesario para la aplicación de los indicados productos tales como jeringuillas, cánulas y similares, no incluyéndose, en cambio, en el mismo el comercio al por mayor de instrumental quirúrgico de uso veterinario.
+
 ## Grupo 615. Comercio al por mayor de artículos de consumo duradero.
 
 Epígrafe 615.1 Comercio al por mayor de vehículos, motocicletas, bicicletas y sus accesorios.
@@ -135,6 +141,10 @@ Notas:
 1.ª Este epígrafe comprende el comercio al por mayor de aparatos y materiales radioeléctricos y electrónicos; instrumentos musicales, discos, etc., y aparatos eléctricos y electrónicos de uso profesional.
 
 2.ª Este epígrafe faculta para la venta de accesorios y complementos de los aparatos comprendidos en el mismo, así como su reparación y adaptación.
+
+Epígrafe 615.5. Comercio al por mayor de obras de arte y antigüedades.
+
+Cuota de: 60.000 pesetas.
 
 Epígrafe 615.9 Comercio al por mayor de otros artículos de consumo duradero no especificados en los epígrafes anteriores.
 
@@ -190,7 +200,7 @@ Epígrafe 617.2 Comercio al por mayor de cueros y pieles en bruto.
 
 Cuota de: 63.000 pesetas.
 
-Nota: Este epígrafe comprende el comercio al por mayor de cueros y pieles en bruto y semielaborados, pelos, cerdas, etc.
+Nota: Este epígrafe comprende el comercio al por mayor de cueros y pieles en bruto y semi-elaborados, pelos, cerdas, etc. Cuando la actividad consista, exclusivamente, en el comercio al por mayor de pieles de animales adquiridas previamente como subproductos o despojos a los mataderos donde se realiza el sacrificio y despiece de ganado en general, la cuota de este epígrafe será el 50 por 100 de la señalada en el mismo.
 
 Epígrafe 617.3 Comercio al por mayor de madera y corcho.
 
@@ -270,6 +280,8 @@ Epígrafe 619.3 Comercio al por mayor de metales preciosos, artículos de joyer�
 
 Cuota de: 181.100 pesetas.
 
+Nota: Los sujetos pasivos que realicen el comercio al por mayor de bisutería ordinaria exclusivamente, entendiendo por tal la que no incorpore metales o piedras preciosos ni perlas, tributarán al 50 por 100 de la cuota anterior.
+
 Epígrafe 619.4 Comercio al por mayor de productos de papel y cartón.
 
 Cuota de: 51.000 pesetas.
@@ -286,8 +298,18 @@ Epígrafe 619.7 Comercio al por mayor de instrumentos de precisión, medida y si
 
 Cuota de: 40.400 pesetas.
 
+Epígrafe 619.8. Compraventa de ganado.
+
+Cuota nacional de: 60.000 pesetas.
+
 Epígrafe 619.9 Comercio al por mayor de otros productos n.c.o.p.
 
 Cuota de: 106.800 pesetas.
 
 Nota: Este epígrafe comprende el comercio al por mayor de productos no especificados en los epígrafes anteriores del grupo «Otro comercio al por mayor no especificado en los grupos 612 al 618» (619).
+
+> Se modifica por el art. 75.1.12 a 16 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 1993. Ref. BOE-A-1993-4117.

@@ -234,7 +234,11 @@ Cuota mínima municipal de:
 
 – En las poblaciones restantes: 18.000 pesetas.
 
-Nota: Este epígrafe faculta para la instalación y reparación de los aparatos clasificados en el mismo.
+Notas:
+
+1.ª Este epígrafe faculta para la instalación y reparación de los aparatos clasificados en el mismo.
+
+2.ª Cuando el comercio al por menor al que se refiere este epígrafe se circunscriba exclusivamente a objetos de todas clases para instalaciones eléctricas tales como flexibles, llaves, cajetines, conductores aislados, cinta aislante, tubo Bergman y otros análogos, tubos metálicos, lámparas de incandescencia, fluorescencia y neón, así como lámparas y arañas que no contengan bronce u otros metales cincelados, la cuota será el 40 por 100 de la asignada a este epígrafe.
 
 Epígrafe 653.3 Comercio al por menor de artículos de menaje, ferretería, adorno, regalo o reclamo (incluyendo bisutería y pequeños electrodomésticos).
 
@@ -262,7 +266,7 @@ Cuota mínima municipal de:
 
 – En poblaciones de más de 10.000 a 40.000 habitantes: 22.000 pesetas.
 
-– En las poblaciones restantes: 14.000 pesetas.
+– En las poblaciones restantes: 12.000 pesetas.
 
 Nota: Los sujetos pasivos clasificados en este epígrafe están facultados para instalar los cristales que vendan.
 
@@ -279,6 +283,22 @@ Cuota mínima municipal de:
 – En poblaciones de más de 10.000 a 40.000 habitantes: 15.000 pesetas.
 
 – En las poblaciones restantes: 11.000 pesetas.
+
+Epígrafe 653.6. Comercio al por menor de artículos de «bricolaje».
+
+Cuota mínima municipal de:
+
+– En poblaciones de más de 500.000 habitantes: 52.000 pesetas.
+
+– En poblaciones de más de 100.000 a 500.000 habitantes: 41.000 pesetas.
+
+– En poblaciones de más de 40.000 a 100.000 habitantes: 31.000 pesetas.
+
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.000 pesetas.
+
+– En las poblaciones restantes: 12.000 pesetas.
+
+Nota: Los sujetos pasivos clasificados en este epígrafe están facultados para la venta al por menor de los accesorios y complementos relacionados con esta actividad.
 
 Epígrafe 653.9 Comercio al por menor de otros artículos para el equipamiento del hogar n.c.o.p.
 
@@ -410,9 +430,41 @@ Epígrafe 655.3 Comercio al por menor de carburantes para el surtido de vehícul
 
 Cuota de: 39.000 pesetas.
 
+## Grupo 656. Comercio al por menor de bienes usados tales como muebles, prendas y enseres ordinarios de uso doméstico
+
+Cuota mínima municipal de:
+
+– En poblaciones de más de 500.000 habitantes: 25.000 pesetas.
+
+– En poblaciones de más de 100.000 a 500.000 habitantes: 20.000 pesetas.
+
+– En poblaciones de más de 40.000 a 100.000 habitantes: 16.000 pesetas.
+
+– En poblaciónes de más de 10.000 a 40.000 habitantes: 12.000 pesetas.
+
+– En las poblaciones restantes: 8.000 pesetas.
+
+Nota: Este Grupo no faculta para el comercio al por menor de bienes tales como artículos de joyería, bisutería y relojería, antigüedades, obras de arte, elementos de transporte, maquinaria y equipamiento industrial y de oficina y material y aparatos electrónicos.
+
+## Grupo 657. Comercio al por menor de instrumentos musicales en general, así como de sus accesorios
+
+Cuota mínima municipal de:
+
+– En poblaciones de más de 500.000 habitantes: 35.000 pesetas.
+
+– En poblaciones de más de 100.000 a 500.000 habitantes: 29.000 pesetas.
+
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.000 pesetas.
+
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.000 pesetas.
+
+– En las poblaciones restantes: 13.000 pesetas.
+
+Nota: Este Grupo comprende el comercio al por menor de papel pautado de música y composiciones musicales de todas clases, así como la reparación manual de los instrumentos vendidos.
+
 ## Grupo 659. Otro comercio al por menor.
 
-Epígrafe 659.1 Comercio al por menor de sellos, monedas, medallas conmemorativas, billetes para coleccionistas, obras de arte y antigüedades.
+Epígrafe 659.1 Comercio al por menor de sellos, monedas, medallas conmemorativas, billetes para coleccionistas, obras de arte y antigüedades, minerales sueltos o en colecciones, fósiles, insectos, conchas, plantas y animales disecados.
 
 Cuota mínima municipal de:
 
@@ -425,6 +477,8 @@ Cuota mínima municipal de:
 – En poblaciones de más de 10.000 a 40.000 habitantes: 15.000 pesetas.
 
 – En las poblaciones restantes: 11.000 pesetas.
+
+Nota: Este epígrafe faculta para el comercio al por mayor de los artículos clasificados en el mismo, excepto obras de arte y antigüedades.
 
 Epígrafe 659.2 Comercio al por menor de muebles de oficina y de máquinas y equipos de oficina.
 
@@ -561,5 +615,9 @@ Cuota mínima municipal de:
 Nota común a las agrupaciones 64 y 65:
 
 Cuando los locales en los que se ejerzan las actividades clasificadas en las agrupaciones 64 y 65 tengan una superficie computable igual o inferior a 50 metros cuadrados, la cuota de los grupos o epígrafes correspondientes será el 50 por 100 de la señalada en cada caso.
+
+> Se modifica por el art. 75.1.19 a 24 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.
 
 > Se modifica el epígrafe 659.5 por el art. 78.1.5 y 6 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

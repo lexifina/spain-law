@@ -82,7 +82,7 @@ Epígrafe 849.4 Servicios de custodia, seguridad y protección.
 
 Cuota de: 41.600 pesetas.
 
-Epígrafe 849.5 Servicios de recadería.
+Epígrafe 849.5 Servicios de recadería y reparto y manipulación de correspondencia.
 
 Cuota de: 32.500 pesetas.
 
@@ -94,6 +94,22 @@ Epígrafe 849.7 Servicios de gestión administrativa.
 
 Cuota de: 76.200 pesetas.
 
+Epígrafe 849.8. Multiservicios intensivos en personal.
+
+Cuota de:
+
+Cuota mínima municipal de: 1.000.000 de pesetas.
+
+Cuota provincial de: 5.000.000 de pesetas.
+
+Cuota nacional de: 15.000.000 de pesetas.
+
+Nota: Este epígrafe comprende la prestación por un mismo sujeto pasivo de una pluralidad de servicios, consistente, fundamentalmente, en la aportacion del personal adecuado siempre que dichos servicios sean de los clasificados en las agrupaciones 84, 91, 92 y en los Grupos 973, 974, 979, 983 y 989, rúbricas todas ellas de la Sección 1.ª de las Tarifas. No comprende, sin embargo, aquellos supuestos que impliquen la explotación directa de servicios con base inmobiliaria o a través de elementos materiales, tales como vehículos de tracción mecánica, ferrocarriles, buques, aeronaves, máquinas recreativas, etc.
+
 Epígrafe 849.9 Otros servicios independientes n.c.o.p.
 
 Cuota de: 32.500 pesetas.
+
+> Se modifica el epígrafe 849.5 y se añade el 849.8 por el art. 75.1.34 y 35 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.

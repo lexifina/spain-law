@@ -62,7 +62,7 @@ Notas comunes al grupo 833:
 
 1.ª La parte fija de la cuota de ambos epígrafes se exigirá, en todo caso, con independencia de la venta o no de terrenos o edificaciones. A su vez, la parte de cuota por metro cuadrado se exigirá al formalizarse las enajenaciones, cualquiera que sea la clase de contrato y forma de pago convenida, estando obligado el sujeto pasivo a presentar en la Administración Tributaria competente dentro del primer mes de cada año natural declaración de variación de los metros cuadrados edificados o a edificar, urbanizados o a urbanizar, cuyas enajenaciones hayan tenido lugar durante el año inmediato anterior, sin que sea necesario presentar declaraciones cuando no se hayan efectuado ventas. En el supuesto de cese en el ejercicio de la actividad antes del 1 de enero, la declaración de los metros cuadrados edificados o a edificar, urbanizados o a urbanizar, cuyas enajenaciones hayan tenido lugar durante el año en el que se produce el cese deberá presentarse conjuntamente con la declaración de baja.
 
-2.ª Cuando las actividades clasificadas en este grupo tengan por objeto inmuebles sujetos a la legislación de viviendas de protección oficial, la cuota será el 50 por 100 de la que corresponda.
+2.ª Cuando las actividades clasificadas en este Grupo tengan por objeto inmuebles sujetos a la legislación de viviendas de protección oficial, la parte de la cuota correspondiente a cada metro cuadrado edificado o por edificar vendido será el 50 por 100 de la que corresponda.
 
 3.ª Las cuotas de este grupo son independientes de las que puedan corresponder por la actividad de construcción.
 
@@ -71,5 +71,9 @@ Notas comunes al grupo 833:
 Cuota de: 50.000 pesetas.
 
 Nota: Este grupo comprende a intermediarios en la compra, venta o arrendamiento de terrenos, así como en la compra, venta, construcción o arrendamiento de inmuebles o partes de inmuebles, no asumiendo riesgos propios y operando por cuenta de terceros. Se clasifican aquí, entre otros, los servicios relativos a la propiedad inmobiliaria, incluyendo la tasación de inmuebles, a la propiedad industrial, las agencias de arrendamiento de fincas, los servicios relacionados con los administradores de fincas, etc., siempre que no deban clasificarse en la sección 2.ª de estas tarifas.
+
+> Se modifica el grupo 833 por el art. 75.1.33 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.
 
 > Se modifica el grupo 833 por el art. 78.1.13 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

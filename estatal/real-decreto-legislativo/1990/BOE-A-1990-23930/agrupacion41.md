@@ -268,4 +268,8 @@ Por cada obrero: 1.910 pesetas.
 
 Por cada Kw: 1.240 pesetas.
 
-Nota: Este epígrafe comprende la elaboración de masas fritas (churros, buñuelos, etc.) y de patatas fritas (13).
+Nota: Este epígrafe comprende la elaboración de masas fritas (churros, buñuelos, etc.) y de patatas fritas.
+
+> Se modifica la nota del epígrafe 419.3 por el art. 75.1.4 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.

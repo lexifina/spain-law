@@ -1,36 +1,74 @@
 ## Agrupación 85. Alquiler de bienes muebles.
 
-## Grupo 851. Alquiler de maquinaria y equipo agrícola (sin personal permanente).
+## Grupo 851. Alquiler de maquinaria y equipo agrícola.
 
 Cuota de: 26.400 pesetas.
 
-Nota: Este grupo comprende el alquiler (con o sin opción a compra y como servicio especializado) de maquinaria y equipo para la agricultura y ganadería, sin que este alquiler incluya los servicios de conductores y otros operarios.
+Nota: Este Grupo comprende el alquiler de maquinaria y equipo para la agricultura y ganadería.
 
-## Grupo 852. Alquiler de maquinaria y equipo para la construcción (sin personal permanente).
+## Grupo 852. Alquiler de maquinaria y equipo para la construcción.
 
 Cuota de: 30.000 pesetas.
 
-Nota: Este grupo comprende el alquiler (con o sin opción a compra y como servicio especializado) de maquinaria y equipo para la construcción y obra civil, sin que este alquiler incluya los servicios de conductores y otros operarios.
+Nota: Este Grupo comprende el alquiler de maquinaria y equipo para la construcción y obra civil.
 
 ## Grupo 853. Alquiler de maquinaria y equipo contable, de oficina y cálculo electrónico.
 
 Cuota de: 28.000 pesetas.
 
-Nota: Este grupo comprende el alquiler (con o sin opción a compra y como servicio especializado) de maquinaria y equipo contable, de oficina y cálculo electrónico, sin que este alquiler incluya los servicios del personal que maneja dicha maquinaria y equipo.
+Nota: Este Grupo comprende el alquiler de maquinaria y equipo contable, de oficina y cálculo electrónico, sin que este alquiler incluya los servicios del personal que maneja dicha maquinaria y equipo.
 
 ## Grupo 854. Alquiler de automóviles sin conductor.
 
-Cuota de: 1.150 pesetas, por cada vehículo.
+Por cada automóvil:
 
-Nota: Este grupo comprende el alquiler (con o sin opción a compra y como servicio especializado) de vehículos automóviles sin conductor para el transporte de personas o mercancías.
+Cuota mínima municipal de: 1.150 pesetas.
 
-No se incluye en este grupo el alquiler de vehículos automóviles con conductor.
+Cuota provincial de: 4.000 pesetas.
 
-## Grupo 855. Alquiler de otros medios de transporte sin conductor.
+Cuota nacional de: 5.000 pesetas.
 
-Cuota de: 2.400 pesetas, por cada vehículo.
+Nota: Este Grupo comprende el alquiler de vehículos automóviles sin conductor, para el transporte de personas de mercancías.
 
-Nota: Este grupo comprende el alquiler (con o sin opción a compra y como servicio especializado) de medios de transporte sin conductor, distintos de vehículos automóviles, tales como alquiler de vagones y contenedores para el transporte ferroviario, carretillas de mano, etc.
+No se incluye en este Grupo el alquiler de vehículos automóviles con conductor.
+
+## Grupo 855. Alquiler de otros medios de transporte.
+
+Epígrafe 855.1. Alquiler de aeronaves de todas clases.
+
+Por cada aeronave:
+
+Cuota mínima municipal de: 8.000 pesetas.
+
+Cuota provincial de: 20.000 pesetas.
+
+Cuota nacional de: 30.000 pesetas.
+
+Epígrafe 855.2. Alquiler de embarcaciones.
+
+Por cada embarcación:
+
+Cuota mínima municipal de: 4.500 pesetas.
+
+Cuota provincial de: 12.000 pesetas.
+
+Cuota nacional de: 18.000 pesetas.
+
+Epígrafe 855.3. Alquiler de bicicletas.
+
+Cuota de: 335 pesetas por cada bicicleta.
+
+Epígrafe 855.9. Alquiler de otros medios de transporte n.c.o.p.
+
+Por cada medio de transporte:
+
+Cuota mínima municipal de: 4.000 pesetas.
+
+Cuota provincial de: 10.000 pesetas.
+
+Cuota nacional de: 15.000 pesetas.
+
+Nota común a los Grupos 851, 852 y 855: Cuando el alquiler de los bienes muebles clasificados en dichos Grupos se efectúe con personal permanente las cuotas contenidas en los mismos se incrementarán en un 50 por 100.
 
 ## Grupo 856. Alquiler de bienes de consumo.
 
@@ -137,5 +175,7 @@ Nota común a los epígrafes 857.4 a 857.9: cuando la actividad se ejerza por un
 Cuota de: 32.000 pesetas.
 
 Nota: Este grupo comprende el alquiler (con o sin opción a compra y como servicio especializado) de bienes muebles no especificados en los grupos anteriores de la agrupación «Alquiler de bienes muebles» (85), tales como maquinaria y equipo para minería y petróleo, para la industria de transformación, máquinas expendedoras de artículos o suministradoras de servicios, maquinaria y equipos hoteleros, etc.; sin que este alquiler incluya los servicios del personal que maneja dicha maquinaria y equipo.
+
+> Se modifica por el art. 75.1.36 a 41 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
 
 > Se modifican los epígrafes 857.4 y 5 y se añaden el 857.6 a 9 por el art. 78.1.14 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

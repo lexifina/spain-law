@@ -166,15 +166,15 @@ Cuota provincial de: 51.000 pesetas.
 
 Cuota nacional de: 72.000 pesetas.
 
+Nota: Los sujetos pasivos que ejerzan su actividad en un solo mercado o feria de carácter discontinuo o de temporada tales como mercados navideños, ferias del libro, etc., y a los solos efectos de esta actividad, tributarán por una cuota mínima municipal de 6.000 pesetas.
+
 ## Grupo 664. Comercio en régimen de expositores en depósito y mediante aparatos automáticos.
 
-Epígrafe 664.1 Venta de toda clase de artículos diversos en régimen de expositores en depósito:
+Epígrafe 664.1 Autoventa de música grabada en régimen de expositores en depósito.
 
-Cuota mínima municipal de 2.180 pesetas por vitrina.
+– Cuota mínima municipal de: 800 pesetas por vitrina. Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local donde esté instalada la vitrina.
 
-Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local donde esté instalada la vitrina.
-
-Cuota nacional de:
+– Cuota nacional de:
 
 Hasta 500 vitrinas: 30.210 pesetas.
 
@@ -191,6 +191,10 @@ Hasta 8.000 vitrinas: 181.270 pesetas.
 Más de 8.000 vitrinas: 211.480 pesetas.
 
 Esta cuota la satisfará, exclusivamente, el propietario de las vitrinas.
+
+Nota: Los titulares de los establecimientos o locales donde estén instaladas las vitrinas incrementarán la cuota correspondiente a la actividad principal que realizan en dichos establecimientos o locales con el importe de la cuota municipal que resulte asignada a este epígrafe.
+
+A efectos de la liquidación del impuesto, el índice municipal previsto en el artículo 89 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, sólo se aplicará sobre la parte de la cuota de Tarifa incrementada correspondiente a la actividad específica del sujeto pasivo, pero no sobre la parte correspondiente a las vitrinas instaladas en el local.
 
 Epígrafe 664.2 Venta de carretes fotográficos en régimen de expositores en depósito.
 
@@ -247,3 +251,7 @@ Notas:
 1.ª Quienes colaboren con el sujeto pasivo de la actividad de venta por catálogo, mediante la puesta a disposición de aquél de sus almacenes o depósitos, elementos de transporte y demás instalaciones y servicios propios del comerciante al por mayor, tributarán por este grupo satisfaciendo el 50 por 100 de la cuota correspondiente.
 
 2.ª Quienes colaboren con el sujeto pasivo de la actividad de venta por catálogo, mediante la prestación de sus locales abiertos al público, recibiendo pedidos, entregando mercancías, devolviendo mercancías, recibiendo el precio de los productos o exhibiendo muestrarios de éstos, así como los catálogos, tributarán por este grupo satisfaciendo el 25 por 100 de la cuota correspondiente. Si el importe de tal tributación fuere inferior a 6.000 pesetas, el sujeto pasivo tributará por cuota cero.
+
+> Se modifica por el art. 75.1. 25 y 26 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.

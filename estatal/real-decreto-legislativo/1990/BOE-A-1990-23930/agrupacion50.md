@@ -294,6 +294,8 @@ Cuota provincial de: 620.000 pesetas.
 
 Cuota nacional de: 3.090.000 pesetas.
 
+Nota: Los sujetos pasivos matriculados en este epígrafe están facultados para efectuar instalaciones de fontanería.
+
 Epígrafe 504.2 Instalaciones de fontanería.
 
 Cuota:
@@ -314,6 +316,8 @@ Cuota provincial de: 300.000 pesetas.
 
 Cuota nacional de: 1.500.000 pesetas.
 
+Nota: Los sujetos pasivos matriculados en este epígrafe están facultados para efectuar instalaciones de frío, calor y acondicionamiento de aire.
+
 Epígrafe 504.3 Instalaciones de frío, calor y acondicionamiento de aire.
 
 Cuota:
@@ -333,6 +337,8 @@ Cuota mínima municipal de:
 Cuota provincial de: 300.000 pesetas.
 
 Cuota nacional de: 1.500.000 pesetas.
+
+Nota: Los sujetos pasivos matriculados en este epígrafe están facultados para efectuar instalaciones de fontanería.
 
 Nota común a los epígrafes 504.1, 504.2 y 504.3: Los sujetos pasivos matriculados en estos epígrafes que realicen las actividades comprendidas en los mismos con cuatro obreros como máximo tributarán con arreglo a las siguientes cuotas:
 
@@ -536,7 +542,7 @@ Cuota provincial de: 222.500 pesetas.
 
 Cuota nacional de: 1.112.500 pesetas.
 
-Epígrafe 505.5 Carpintería, cerrajería y terminación y decoración de edificios y locales.
+Epígrafe 505.5 Carpintería, cerrajería, pintura, trabajos en yeso y escayola y terminación y decoración de edificios y locales.
 
 Cuota:
 
@@ -629,5 +635,9 @@ Notas:
 ## Grupo 508. Agrupaciones y uniones temporales de empresas.
 
 Nota: Las agrupaciones y uniones temporales de empresas se darán de alta en la matrícula del impuesto por este grupo, sin pago de cuota alguna. Lo anterior se entiende sin perjuicio de la tributación que corresponda a las empresas integrantes de la agrupación o unión de que se trate.
+
+> Se modifica por el art. 75.1.8 a 11 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.
 
 > Se modifica el epígrafe 503.4 por el art. 78.1.4 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

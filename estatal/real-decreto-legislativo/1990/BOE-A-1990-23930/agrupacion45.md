@@ -115,3 +115,9 @@ Por cada obrero: 8.060 pesetas.
 Por cada Kw: 11.270 pesetas.
 
 Nota común al grupo 456: Este grupo comprende la confección de prendas de vestir, sombreros, estolas y otros accesorios del vestido, alfombras, mantas y otros artículos a base de pieles finas corrientes y de sucedáneos o imitación de piel (peletería ficticia), así como la transformación especializada de restos de pieles.
+
+Cuando los sujetos pasivos que realicen las actividades comprendidas en este Grupo, exclusivamente para terceros y por encargo, con un número de obreros inferior a 10, la cuota será el 25 por 100 de la que corresponda; si el número de obreros fuera superior a 9 e inferior a 25, la cuota será el 50 por 100 de la que corresponda.
+
+> Se añade una nota al Grupo 456 por el art. 75.1.7 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.

@@ -235,3 +235,9 @@ Por cada obrero: 1.000 pesetas.
 Por cada Kw: 760 pesetas.
 
 Nota: Este epígrafe comprende la construcción de máquinas y equipo mecánico no especificados en otros epígrafes, tales como construcción de aparatos eólicos; aparatos frigoríficos no domésticos; maquinaria para acondicionamiento de aire, refrigeración y ventilación; aparatos para pesar (excepto balanzas de precisión); centrifugadoras y equipo filtrante industrial (excepto para industria alimenticia y de bebidas); hornos industriales no eléctricos; maquinaria de acondicionamiento y embalaje (excepto para industrias alimenticia y de bebidas); equipo para la atomización de líquidos o polvos; aparatos automáticos de venta y distribución; máquinas tragaperras; equipo de lavado y engrase para estaciones de servicio de automóviles; material para la lucha contra incendios; construcción de armamento de guerra; maquinaria para relojería, maquinaria para la prestación de servicios de hostelería, así como la fabricación de equipo, piezas y accesorios para esta maquinaria.
+
+Nota común a la agrupación 32. Los sujetos pasivos matriculados en esta Agrupación podrán, sin pago de cuota adicional alguna, instalar la maquinaria y equipo mecánico que fabriquen, siempre que dicha instalación deba realizarla el propio fabricante.
+
+> Se añade la nota común a la agrupación 32 por el art. 75.1.3 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.

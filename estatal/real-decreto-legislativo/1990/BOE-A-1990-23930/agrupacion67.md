@@ -194,6 +194,10 @@ Cuota mínima municipal de:
 
 – En las poblaciones restantes: 9.000 pesetas.
 
+Epígrafe 674.7. Servicios que se prestan en parques o recintos feriales clasificados en el Epígrafe 989.3 de esta Sección 1.ª de las Tarifas.
+
+Cuota mínima municipal de: 17.000 pesetas.
+
 ## Grupo 675. Servicios en quioscos, cajones, barracas u otros locales análogos, situados en mercados o plazas de abastos, al aire libre en la vía pública o jardines.
 
 Cuota mínima municipal de:
@@ -259,5 +263,9 @@ Cuota mínima municipal de:
 – En las poblaciones restantes: 14.000 pesetas.
 
 Nota: Este epígrafe comprende los servicios de alimentación consistentes en la condimentación y venta de alimentos para ser consumidos fuera del lugar de elaboración en raciones o al por mayor, así como cuando los productos elaborados se destinen al servicio de «catering» o de colectividades.
+
+> Se añade el epígrafe 674.7 por el art. 75.1.27 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.
 
 > Se modifican los epígrafes 673.1 y 2 por el art. 78.1.9 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

@@ -186,6 +186,14 @@ Por cada Kw: 2.270 pesetas.
 
 Nota: Este epígrafe comprende el manipulado de vidrio plano (templado, pulido, moteado, grabado, tallado, azogado, plateado, etc.), manipulado de vidrio hueco (tallado, decorado, etc.), manipulado de vidrio al soplete y otros manipulados de vidrio.
 
+Epígrafe 246.6. Fabricación de fritas y esmaltes cerámicos.
+
+Cuota de:
+
+– Por cada obrero: 900 pesetas.
+
+– Por cada Kw: 1.350 pesetas.
+
 ## Grupo 247. Fabricación de productos cerámicos.
 
 Epígrafe 247.1 Fabricación de artículos refractarios.
@@ -271,3 +279,7 @@ Epígrafe 249.1 Productos asfálticos.
 Epígrafe 249.2 Productos a base de amianto.
 
 Epígrafe 249.9 Productos a base de otros minerales no metálicos.
+
+> Se añade el epígrafe 246.6 por el art. 75.1.2 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.

@@ -20,7 +20,7 @@ Cuota de: 45.000 pesetas.
 
 Cuota de: 29.500 pesetas.
 
-## Grupo 836. Ayudantes Técnicos Sanitarios.
+## Grupo 836. Ayudantes Técnicos Sanitarios y Fisoterapéutas.
 
 Cuota de: 19.700 pesetas.
 
@@ -35,3 +35,7 @@ Cuota de: 18.200 pesetas.
 ## Grupo 839. Masajistas, Bromatólogos, Dietistas y Auxiliares de enfermería.
 
 Cuota de: 15.000 pesetas.
+
+> Se modifica el Grupo 836 por el art. 75.1.48 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.

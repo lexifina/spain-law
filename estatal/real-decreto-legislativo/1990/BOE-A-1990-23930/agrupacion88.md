@@ -30,6 +30,8 @@ Cuota de: 17.300 pesetas.
 
 ## Grupo 888. Expendedores de efectos timbrados y sellos de correos.
 
-Cuota de: 6.000 pesetas.
+(Suprimido)
 
-Nota: Tributarán por cuota cero los titulares de Expendedurías de Carácter Complementario a que se refiere el artículo 13, apartado 3, del Real Decreto 2.738/1986, de 12 de diciembre.
+> Se suprime el Grupo 888 por el art. 75.1.49 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.

@@ -106,7 +106,7 @@ Cuota nacional de: 1.400.000 pesetas.
 
 ## Grupo 965. Espectáculos (excepto cine y deportes).
 
-Epígrafe 965.1 Espectáculos en salas y locales (excepto espectáculos taurinos).
+Epígrafe 965.1 Espectáculos en salas y locales (excepto espectáculos taurinos)
 
 Cuota de:
 
@@ -307,5 +307,23 @@ Notas:
 1.ª Los establecimientos que tengan instaladas máquinas recreativas y de azar tributarán por éstas con arreglo a lo prevenido en el epígrafe 969.4.
 
 2.ª Este epígrafe autoriza para realizar las actividades comprendidas en el epígrafe 969.5.
+
+Epígrafe 969.7. Otras máquinas automáticas.
+
+Por cada máquina, con independencia del lugar en que se encuentre funcionando:
+
+Cuota mínima municipal: 700 pesetas por máquina.
+
+Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local en el cual la máquina esté instalada.
+
+Cuota nacional: 1.000 pesetas por máquina.
+
+Esta cuota la satisfará, exclusivamente, el propietario de las máquinas.
+
+Nota: Este epígrafe comprende la prestación de servicios a través de máquinas automáticas tales como balancines, caballitos, animales parlantes, etc., así como plastificadoras de documentos, de impresión de tarjetas, etc., e igualmente, básculas, aparatos de medición de peso, altura, tensión arterial, etc.
+
+> Se añade el epígrafe 969.7 por el art. 75.1.43 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.
 
 > Se modifica el Grupo 965 por el art. 78.1.16 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

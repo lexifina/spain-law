@@ -95,3 +95,7 @@ Notas comunes al grupo:
 2.ª Cuando los titulares de los campamentos realicen en ellos por sí mismos, y no a través de terceras personas, otras actividades tales como prestación de servicios de café, bar y restaurante, comercio al por menor de artículos de alimentación y bebidas, etc., los sujetos pasivos satisfarán el 25 por ciento de la cuota correspondiente a dichas actividades.
 
 Nota común a las agrupaciones 67 y 68: Los sujetos pasivos clasificados en las agrupaciones 67 y 68, en cuyos locales tengan instaladas máquinas recreativas y de azar tipo «A» o tipo «B», incrementarán la cuota correspondiente a su actividad específica con la cantidad asignada a cada máquina en el epígrafe 969.4, sin tener que darse de alta por este último.
+
+A efectos de la liquidación del impuesto, el índice municipal previsto en el artículo 89 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, sólo se aplicará sobre la parte de la cuota de Tarifa incrementada correspondiente a la actividad específica del sujeto pasivo, pero no sobre la parte correspondiente a las máquinas instaladas en el local.
+
+> Se añade el párrafo último por el art. 75.1.50 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.

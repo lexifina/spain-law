@@ -2,7 +2,7 @@
 
 ## Grupo 931. Enseñanza reglada.
 
-Epígrafe 931.1 Enseñanza de educación preescolar, exclusivamente.
+Epígrafe 931.1 Guardería y enseñanza de educación infantil, exclusivamente.
 
 Cuota de: 29.900 pesetas.
 
@@ -81,5 +81,9 @@ Epígrafe 936.4 Investigaciones en ciencias sociales, humanidades y jurídicas.
 Epígrafe 936.5 Investigación técnica industrial.
 
 Epígrafe 936.9 Otras investigaciones científicas y técnicas, n.c.o.p.
+
+> Se modifica el epígrafe 931.1 por el art. 75.1.42 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.
 
 > Se añaden las notas comunes al Grupo 931 por el art. 78.1.15 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
