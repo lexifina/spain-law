@@ -1,0 +1,5 @@
+A fin de hacer efectivas las recomendaciones hechas por las organizaciones internacionales, especialmente Naciones Unidas y Consejo de Europa, y lograr que la acción de los Médicos Forenses en España se adapte a técnicas y procedimientos internacionalmente reconocidos, se ha elaborado un protocolo para que sea utilizado por dichos facultativos cuando realicen reconocimientos médicos a los detenidos, de modo que la información médica referente al detenido sea recogida de una forma homogénea en todos los casos y aparezca de la forma más clara y concisa posible.
+
+Con tal objeto, se dicta la presente Orden, haciendo uso de la habilitación prevista en el artículo 503 de la Ley Orgánica del Poder Judicial, en el que se dispone que el Ministerio de Justicia, previo informe del Consejo General del Poder Judicial y oídas las Comunidades Autónomas afectadas, determinará las reglas generales de actuación de los Médicos Forenses que presten asistencia técnica a los órganos jurisdiccionales.
+
+De conformidad con todo ello, he dispuesto:
