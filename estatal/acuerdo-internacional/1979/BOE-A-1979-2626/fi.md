@@ -1,0 +1,1 @@
+EN TESTIMONIO DE LO CUAL, los infrascritos, debidamente autorizados al efecto por sus respectivos gobiernos, han firmado el presente Convenio, abierto a la firma en Nueva York el día catorce de enero de mil novecientos setenta y cinco.
