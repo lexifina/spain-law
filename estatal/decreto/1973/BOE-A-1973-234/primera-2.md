@@ -1,0 +1,5 @@
+## Disposición transitoria primera.
+
+1. Las cotizaciones efectuadas en los anteriores Regímenes de la Previsión Social en la Agricultura, a partir de las correspondientes al año 1952, inclusive, se computarán para el derecho a las prestaciones reguladas en el presente Reglamento, siempre que dichas cotizaciones estén comprendidas dentro del período de tiempo en el que haya de acreditarse el período previo de cotización exigido para la prestación de que se trate.
+
+2. Cuando el período de cotización exigido en el nuevo Régimen para tener derecho a una prestación fuese superior al requerido en la legislación anterior, se aplicará aquél de modo paulatino; para ello se partirá en la fecha en que tenga efecto dicho Régimen del período de cotización anteriormente exigido, y se determinará el aplicable en cada caso concreto, añadiendo a tal período la mitad de los días transcurridos entre la citada fecha y la del hecho causante de la prestación; dicha regla se aplicará hasta el momento en que el período de cotización así resultante sea igual al implantado en este Reglamento.
