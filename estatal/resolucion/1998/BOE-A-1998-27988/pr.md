@@ -1,0 +1,3 @@
+La Orden del Ministerio del Interior, de fecha 18 de marzo de 1998, regula las pruebas de capacitación para obtener determinadas licencias de armas y los requisitos para la habilitación de entidades dedicadas a la enseñanza correspondiente, encomendando a la Dirección General de la Guardia Civil la determinación y evaluación de las pruebas de capacitación exigidas en el artículo 102.2 del Reglamento de Armas y facultando a la Intervención Central de Armas y Explosivos de esta Dirección General para la habilitación de las entidades contempladas en el artículo 102.3 de dicho Reglamento.
+
+En su virtud, y haciendo uso de la facultad que al Director general de la Guardia Civil concede la disposición final primera de la citada Orden, dispongo:
