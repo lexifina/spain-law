@@ -1,0 +1,3 @@
+## Disposición adicional quinta.
+
+La ciudad de Melilla podrá establecer con la Comunidad Autónoma de Andalucía y con la ciudad de Ceuta relaciones de especial colaboración.
