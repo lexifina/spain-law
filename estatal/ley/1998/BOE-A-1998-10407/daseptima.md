@@ -1,0 +1,5 @@
+## Disposición adicional séptima.
+
+1. Continuarán subsistentes las actuales autorizaciones y concesiones de expendedurías de régimen especial otorgadas al amparo de la normativa anterior o aduanera, así como las otorgadas a establecimientos autorizados para la venta de labores de tabaco libre de impuestos, aunque pierdan con posterioridad este cáracter. El Gobierno, a propuesta del Ministro de Economía y Hacienda, desarrollará dicho régimen especial y, en su caso, introducirá las modificaciones del mismo que resulten necesarias, sin que, en ningún caso, puedan otorgarse nuevas autorizaciones o concesiones de este tipo o modificarse las existentes.
+
+2. La concesión de las expendedurías de tabaco y timbre de los centros penitenciarios se entenderá otorgada, por ministerio de la Ley, al Organismo autónomo Trabajo y Prestaciones Penitenciarias o al Organismo autonómico competente al que se atribuya la gestión pública de este tipo de establecimientos. Reglamentariamente se establecerá el régimen de esta modalidad concesional.
