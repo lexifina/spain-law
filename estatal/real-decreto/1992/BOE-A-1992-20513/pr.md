@@ -1,0 +1,11 @@
+La Ley 17/1989, de 19 de julio, Reguladora del Régimen del Personal Militar Profesional, configura en su título VI el régimen de los militares de empleo, cuya categoría de tropa y marinería profesionales contribuye de forma muy importante al mantenimiento de la operatividad y eficacia de las Fuerzas Armadas, mediante la realización de cometidos cuya responsabilidad o complejidad requieren una experiencia o formación que sólo se pueden adquirir con un tiempo de servicio superior al de la prestación del servicio militar.
+
+Las modificaciones introducidas en dicha Ley por la Ley Orgánica 13/1991, de 20 de diciembre, del Servicio Militar, permiten el establecimiento de un marco general más amplio para el régimen de la tropa y marinería profesionales, de acuerdo con las previsiones del modelo mixto de Fuerzas Armadas definido en el texto aprobado por el Congreso de los Diputados en su sesión plenaria del día 27 de junio de 1991.
+
+Este marco general establece una clara diferenciación entre los militares de reemplazo que prestan el servicio militar y los militares de empleo, condición esta última que adquirirán quienes ingresen voluntariamente con carácter profesional en las Fuerzas Armadas, y permite, además, completar el programa de incorporación de la mujer al ejercicio profesional en las Fuerzas Armadas.
+
+En consecuencia, se hace necesario desarrollar un nuevo modelo de tropa y marinería profesionales de tal forma que contribuya a asegurar la operatividad de las Fuerzas Armadas, tenga en cuenta las diferencias entre los cometidos a desempeñar, la composición de las unidades e incluso las exigencias diversas que plantean las diferentes misiones y formas de actuación de cada uno de los Ejércitos y consiga, también, dar una respuesta favorable a las aspiraciones personales de promoción, proporcione oportunidades claras de acceso a militar de carrera y facilite la reincorporación laboral mediante una formación integral que permita la realización de estudios y obtención de titulaciones que complementen las especialidades militares.
+
+En su virtud, a propuesta del Ministro de Defensa, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 31 de julio de 1992,
+
+## DISPONGO:
