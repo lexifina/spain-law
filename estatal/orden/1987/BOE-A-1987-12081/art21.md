@@ -1,0 +1,15 @@
+## Art. 21. Retirada, suspensión y limitación de la condición de titular de cuentas en la Central de anotaciones o de Entidad gestora.
+
+1. De conformidad con lo establecido en el apartado 10 del artículo 12 del Real Decreto 505/1987, el Ministro de Economía y Hacienda, a propuesta motivada o con informe del Banco de España y previa audiencia del interesado, podrá retirar la condición de titular de cuentas en la Central de anotaciones, o de Entidad gestora, suspenderla o limitar el tipo y volumen de operaciones que puedan realizar dichos titulares o Entidades, en los casos de incumplimiento de condiciones a cuya observancia se hubieran comprometido o de actuaciones que generen un peligro u ocasionen un grave trastorno para el sistema.
+
+2. La retirada de la condición de titular de cuentas en la Central implicará que la Entidad o intermediario financiero afectado no pueda, a partir de la adopción de tal medida, realizar otras operaciones que aquéllas de las que derive una reducción definitiva de sus saldos en dicha Central. La suspensión de la condición de titular de cuentas en la Central producirá el mismo efecto, pero sólo durante el plazo que se determine en la resolución correspondiente.
+
+3. La retirada de la condición de Entidad gestora implicará que la Entidad no pueda, a partir de la adopción de tal medida, realizar o gestionar con o para sus comitentes otras operaciones que aquellas de las que derive una reducción definitiva de sus saldos de terceros. Sin perjuicio de ello, mientras la Entidad conserve saldos de terceros anotados en la Central deberá seguir cumpliendo estrictamente las obligaciones previstas en esta Orden. La suspensión de la condición de Entidad gestora producirá el mismo efecto, pero sólo durante el plazo que se determine en la resolución en la que se adopte tal medida.
+
+4. La resolución que imponga limitaciones al tipo o volumen de las operaciones que puedan realizar los titulares de cuentas en la Central de anotaciones o las Entidades gestoras determinará concretamente las operaciones afectadas y los volúmenes máximos autorizados, que podrán referirse tanto a las operaciones individuales como al conjunto de las mismas, así como el plazo de duración de dichas limitaciones.
+
+5. La retirada de la condición de titular de cuentas en la Central, cuando la Entidad afectada sea Entidad gestora, implicará también la pérdida de esta condición, con los efectos previstos en el número 3 anterior.
+
+6. La retirada de la condición de titular de cuentas en la Central de anotaciones o de Entidad gestora sólo podrá acordarse en los casos de reiteración de incumplimientos o en aquellos en que concurran circunstancias de especial gravedad o trascendencia en los hechos.
+
+7. La resolución en la que se acuerde la retirada de la condición de titular de cuentas en la Central o de Entidad gestora ordenará su publicación, determinando la forma en que la misma haya de tener lugar. Tal publicación podrá o no ordenarse en los casos de suspensión o limitación del tipo y volumen de operaciones.

@@ -1,0 +1,5 @@
+## Art. 8. Obligación de expedición de resguardos.
+
+1. Las Entidades gestoras deberán extender y entregar resguardos acreditativos de la formalización de la anotación en cuenta a nombre del titular de los derechos. Dichos resguardos deberán estar codificados de modo que se garantice la correspondencia con los registros de la Entidad gestora expedidora de los mismos. Los resguardos no serán representativos del valor, ni transmisibles, ni negociables, y sólo acreditarán la formalización de la anotación y su identificación. La Dirección General del Tesoro y Política Financiera establecerá las especificaciones que deben cumplir estos resguardos y el Banco de España hará llegar a las Entidades gestoras los impresos precisos para la extensión de los mismos.
+
+2. A propuesta de las Entidades gestoras y previo informe del Banco de España, la Dirección General del Tesoro y Política Financiera podrá homologar modelos de resguardos, siempre que cumplan los requisitos y especificaciones que se establezcan, garanticen el buen funcionamiento del sistema y aseguren la defensa de los intereses de los inversores.
