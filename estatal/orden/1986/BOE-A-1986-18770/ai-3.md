@@ -1,8 +1,8 @@
 ## ANEJO III
 
-## Indicación de la etiqueta del productor o inscripción en el envase (pequeños envases CEE)
+## Indicación de la etiqueta del productor o inscripción en el envase (pequeños envases CE)
 
-1. Pequeños envases CEE.
+1. Pequeños envases CE.
 
 2. Nombre y dirección del productor o su marca de identificación.
 
@@ -27,6 +27,10 @@ Cuando se trate de semillas calibradas, se indicará el calibre.
 Cuando se indique el peso y se empleen pesticidas granulados, sustancias para el pildorado u otros aditivos sólidos, se indicará la naturaleza del aditivo, así como la relación aproximada entre el peso de glomérulos o de semillas puras y el peso total.
 
 Cuando las semillas hayan sido tratadas con algún producto, se indicará la materia activa del mismo y su posible toxicidad.
+
+> Se modifica el título y el apartado 1 por el art. único de la Orden de 18 de julio de 1997. Ref. BOE-A-1997-16798.
+
+> Téngase en cuenta para su aplicación la disposición transitoria.
 
 > Se modifica el apartado 4 por el apartado 8.4 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.
 
