@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Período de adaptación.
+
+1. Los sujetos obligados a los que se refiere el artículo 2 de la Ley 3/1996, de 10 de enero, dispondrán de un plazo máximo de seis meses, contados a partir de la fecha de entrada en vigor del presente Real Decreto, para adaptarse a las disposiciones contenidas en dicha Ley y en su Reglamento, en relación con las sustancias químicas catalogadas en las categorías 2 y 3 del anexo I de la Ley mencionada.
+
+2. Los sujetos obligados a los que se refiere el artículo 2 de la Ley 3/1996, de 10 de enero, que a la fecha de entrada en vigor del presente Real Decreto viniesen realizando cualquiera de las actividades referidas en dicho precepto legal, que tengan por objeto sustancias químicas catalogadas incluidas en la categoría 1 del anexo I de dicha Ley, deberán adaptarse a las disposiciones contenidas en ella, y en el Reglamento aprobado en desarrollo de la misma, en el plazo máximo de tres meses contados a partir de la fecha de entrada en vigor del presente Real Decreto.
+
+3. Lo establecido en los apartados anteriores, se entenderá sin perjuicio del cumplimiento por todos los sujetos a que se refiere el artículo 2 de la Ley 3/1996, de 10 de enero, de las obligaciones establecidas en el artículo 3 de dicha Ley, desarrolladas en los artículos 6 a 13 del Reglamento aprobado por este Real Decreto, las cuales serán inmediatamente exigibles desde la fecha de entrada en vigor del mismo, y, sin perjuicio, igualmente, de lo establecido en el artículo 262 de la Ley de Enjuiciamiento Criminal.

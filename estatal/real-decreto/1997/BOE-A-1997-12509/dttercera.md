@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Licencias en vigor.
+
+Las licencias de actividad, así como las licencias individuales o genéricas de exportación, importación y tránsito otorgadas de conformidad con lo establecido en los apartados primero, y tercero a sexto, de la Orden del Ministerio de la Presidencia de 15 de noviembre de 1994, que no hubiesen agotado su vigencia en la fecha de entrada en vigor de este Real Decreto, serán válidas hasta el agotamiento del plazo o la ejecución de la operación para los cuales fueron otorgadas, sin perjuicio de ser de aplicación a las mismas, desde ese momento, las disposiciones sobre suspensión y revocación contenidas en el Reglamento aprobado por dicho Real Decreto.
