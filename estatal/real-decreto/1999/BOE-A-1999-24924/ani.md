@@ -361,8 +361,8 @@ c) En los casos de mezcla de isótopos, si la suma de los cocientes entre la act
 | Bi-212 + | TI-208, Po-212 |
 | Rn-220 + | Po-216 |
 | Rn-222 + | Po-218, Pb-214, Bi-214, Po-214 |
-| Ra-223 + | Rn-219, Po-215, Pb-211, Bi-211, TI-207, Rn-220, Po-216, Pb-212, Bi-212, TI-208 |
-| Ra-224 + | Po-212 |
+| Ra-223 + | Rn-219, Po-215, Pb-211, Bi-211, Tl-207. |
+| Ra-224 + | Rn-220, Po-216, Pb-212, Bi-212, Tl-208, Po-212. |
 | Ra-226 + | Rn-222, Po-218, Pb-214, Bi-214, Pb-210, Bi-210, Po-210, Po-214 |
 | Ra-228 + | Ac-228 |
 | Th-226 + | Ra-222, Rn-218, Po-214 |
@@ -379,5 +379,7 @@ c) En los casos de mezcla de isótopos, si la suma de los cocientes entre la act
 | Np-237 + | Pa-233 |
 | Am-242m + | Am-242 |
 | Am-243 + | Np-239 |
+
+> Se modifica la tabla B por la disposición adicional 6 del Reglamento aprobado por Real Decreto 783/2001, de 6 de julio de 2001. Ref. BOE-A-2001-14555.
 
 > Redactado el apartado 1.d) conforme a la corrección de errores publicada en BOE núm. 22, de 26 de enero de 2000. Ref. BOE-A-2000-1549

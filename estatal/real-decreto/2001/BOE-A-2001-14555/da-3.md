@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Normativa aplicable a las autorizaciones.
+
+Las prácticas a las que se refiere el presente Reglamento deberán además cumplir, en lo que les sea de aplicación y, en concreto, en materia de autorizaciones administrativas, la Ley 25/1964, de 29 de abril, sobre Energía Nuclear; la Ley 15/1980, de 22 de abril, por la que se crea el Consejo de Seguridad Nuclear; el Real Decreto 1836/1999, de 3 de diciembre, por el que se aprueba el Reglamento sobre Instalaciones Nucleares y Radiactivas, y el Real Decreto 1891/1991, de 30 de diciembre, por el que se aprueba el Reglamento sobre Instalación y Utilización de Aparatos de Rayos X con Fines de Diagnóstico Médico.
