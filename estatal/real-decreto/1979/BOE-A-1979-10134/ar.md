@@ -10,6 +10,8 @@ Los municipios con área de influencia recíproca y, consecuentemente, interacci
 
 Los automóviles amparados por licencias otorgadas por el órgano gestor para realizar servicio interurbano deberán disponer de la correspondiente autorización del servicio discrecional interurbano otorgada por el Ministerio de Transportes, Turismo y Comunicaciones u órgano de la Administración Autonómica correspondiente.
 
-En la prestación de los servicios regulados en este Reglamento se deberán respetar las normas previstas en la Ley y Reglamento de Ordenación de los Transportes Mecánicos por Carretera, cuando los vehículos autorizados realicen servicios de transporte interurbano.
+En la prestación de los servicios regulados en este Reglamento se deberán respetar las normas previstas en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, y demás normas complementarias, en relación a los transportes interurbanos, sin perjuicio de lo establecido en los artículos 113 a 118, ambos inclusive, de la misma Ley.
+
+> Se modifica por el art. 1 del Real Decreto 1080/1989, de 1 de septiembre. Ref. BOE-A-1989-21769
 
 > Se modifica por el art. único del Real Decreto 236/1983, de 9 de febrero. Ref. BOE-A-1983-4819
