@@ -24,6 +24,8 @@ El concepto de «límite inferior» exige la utilización de cero para la contri
 
 El concepto de «límite intermedio» exige la utilización de la mitad del límite de cuantificación para calcular la contribución de cada congénere no cuantificado al EQT.
 
+Exclusivamente a efectos de la presente Orden, el límite específico aceptado de cuantificación de un congénere individual será la concentración de un analito en el extracto de una muestra que produzca una respuesta instrumental a dos iones diferentes, que se controlará con una relación señal/ruido (SR) de 3:1 para la señal menos sensible y el cumplimiento de requisitos básicos tales como, por ejemplo, el tiempo de retención y la relación isotópica con arreglo al procedimiento de determinación descrito en el método EPA 1613, revisión B.
+
 3. Requisitos de garantía de calidad que han de cumplirse en la preparación de las muestras
 
 a) Deberán tomarse las medidas pertinentes para evitar la contaminación cruzada de cada fase del procedimiento de toma de muestras y de análisis.
@@ -173,3 +175,5 @@ Glosario de siglas
 | CB | Clorobifenilo. | CB |
 | EQT | Equivalentes tóxicos. | TEQ |
 | CV | Coeficiente de variación. | CV |
+
+> Se añade un último párrafo al apartado 2 por el apartado 1 y anexo II de la Orden SCO/3767/2004, de 10 de noviembre. Ref. BOE-A-2004-19564.
