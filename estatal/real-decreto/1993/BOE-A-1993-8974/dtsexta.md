@@ -1,0 +1,5 @@
+## Disposición transitoria sexta. Supuestos especiales.
+
+Sin perjuicio de lo establecido en el apartado 1 del artículo 7, en los supuestos en que el asegurado tuviera cincuenta y nueve o más años de edad y acreditase seis años de cotización al Régimen Especial de Funcionarios de la Administración Local a la fecha de la integración, el período de cotización exigido para tener derecho a la pensión de jubilación será el establecido en dicho Régimen Especial en la fecha indicada, más la mitad del tiempo transcurrido entre el 1 de abril de 1993 y la del hecho causante de la prestación.
+
+En tales supuestos, el funcionario, una vez haya cumplido los sesenta y cinco años de edad, sólo podrá seguir en activo y siempre que conserve la capacidad física para el ejercicio de sus funciones en el cargo que ocupase en el momento del cumplimiento de la edad, previa la incoación del expediente de capacidad por el órgano competente en cada caso, hasta que acredite el período de cotización exigido en el Régimen General de la Seguridad Social para tener derecho a la pensión de jubilación.

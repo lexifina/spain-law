@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Pensión por prestación simultánea de servicios.
+
+La pensión que, en su caso, se reconozca por el Régimen General de la Seguridad Social al personal activo a que se refiere el artículo 1 de este Real Decreto que, como consecuencia de la realización de dos o más actividades, haya estado incluido simultánea o sucesivamente en el campo de aplicación, tanto del régimen que se integra, como del Régimen General de la Seguridad Social, se determinará previa totalización de los períodos de cotización en ambos regímenes, considerando a los superpuestos como cotizados en situación de pluriempleo en el Régimen General.
