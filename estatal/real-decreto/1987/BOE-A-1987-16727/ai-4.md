@@ -40,4 +40,10 @@
 
 19. Cintas y cordones para cortinas y persianas.
 
+20. Paños higiénicos.
+
 (1) Para los productos que figuran en este punto y vendidos a metros, el etiquetado global es el de la pieza. Entre las cuerdas y cordajes contemplados en este punto están concretamente los utilizados en alpinismo y para el deporte náutico.
+
+> Se añade el apartado 20 por el art. único del Real Decreto 396/1990, de 16 de marzo. Ref. BOE-A-1990-7738.
+
+> Téngase en cuenta la disposición transitoria respecto a la aplicación de esta modificación.

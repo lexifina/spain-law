@@ -6,10 +6,10 @@
 | --- | --- | --- |
 | 1-2 | Lanas y pelos: |  |
 |  | Fibras peinadas. | 18,25 |
-|  | Fibras cardadas. | 17,00 |
+|  | Fibras cardadas. | 17,00(1) |
 | 3 | Pelos: |  |
 |  | Fibras peinadas. | 18,25 |
-|  | Fibras cardadas. | 17,00 |
+|  | Fibras cardadas. | 17,00(1) |
 |  | Crines: |  |
 |  | Fibras peinadas. | 16,00 |
 |  | Fibras cardadas. | 15,00 |
@@ -39,15 +39,9 @@
 | 25 | Clorofibra. | 2,00 |
 | 26 | Fluofibra. | 0,00 |
 | 27 | Modacrílica. | 2,00 |
-| 28 | Poliamida o «nylon» (6-6): |  |
+| 28 | Poliamida o nailon: |  |
 |  | Fibra discontinua. | 6,25 |
 |  | Filamento. | 5,75 |
-|  | Poliamida o «nylon» 6: |  |
-|  | Fibra discontinua. | 6,25 |
-|  | Filamento. | 5,75 |
-|  | Poliamida o «nylon» 11: |  |
-|  | Fibra discontinua. | 3,50 |
-|  | Filamento. | 3,50 |
 | 29 | Poliéster. |  |
 |  | Fibra discontinua. | 1,50 |
 |  | Filamento. | 1,50 |
@@ -62,9 +56,15 @@
 | 36 | Elastodieno. | 1,00 |
 | 37 | Elastano. | 1,50 |
 | 38 | Vidrio textil: |  |
-|  | Filamento de un diámetro superior a 5 micrómetros. | 2,00 |
-|  | Filamento de un diámetro igual o inferior a 5 micrómetros. | 3,00 |
+|  | De un diámetro medio superior a 5 micrones: | 2,00 |
+|  | De un diámetro medio igual o inferior a 5 micrones: | 3,00 |
 | 39 | Fibra metálica. | 2.00 |
 |  | Fibra metalizada. | 2,00 |
 |  | Amianto. | 2,00 |
 |  | Hilo de papel. | 13,75 |
+
+(1) El porcentaje convencional del 17,00 por 100 se aplicará en aquellos casos en que no sea posible afirmar si el producto textil que contiene lana y/o pelo pertenece al ciclo de peinado o al ciclo de cardado.
+
+> Se modifican los números 1, 2, 3, 28 y 38 y se añade la nota a pie de página por el art. único del Real Decreto 396/1990, de 16 de marzo. Ref. BOE-A-1990-7738.
+
+> Téngase en cuenta la disposición transitoria respecto a la aplicación de esta modificación.
