@@ -27,6 +27,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO V](cv.md)
 - [Art 10](art10.md)
 - [DISPOSICIÓN ADICIONAL](da.md)
+- [DISPOSICIÓN ADICIONAL PRIMERA](daprimera.md)
+- [DISPOSICIÓN ADICIONAL SEGUNDA](dasegunda.md)
 - [DISPOSICIÓN DEROGATORIA](dd.md)
 - [DISPOSICIÓN FINAL](df.md)
 - [firma](firma.md)

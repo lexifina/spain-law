@@ -16,6 +16,8 @@ Etilmorfina.
 
 Folcodina.
 
+Levo alfa acetilmetadol(LAAM).
+
 Metadona.
 
 Morfina.
@@ -29,3 +31,5 @@ Pentazocina.
 Petidina.
 
 Tilidina.
+
+> Se modifica por el art. 3 del Real Decreto 5/1996, de 15 de enero. Ref. BOE-A-1996-3693.
