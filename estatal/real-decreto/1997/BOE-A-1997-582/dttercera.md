@@ -8,6 +8,10 @@
 
 4. El requisito de inscripción en el censo del Régimen Especial Agrario de la Seguridad Social, en situación de alta o asimilada a ella, con carácter ininterrumpido en los doce meses naturales inmediatamente anteriores a la solicitud del subsidio se considerará cumplido por el tiempo que el trabajador haya estado cotizando al Régimen General de la Seguridad Social con ocasión del trabajo prestado en obras afectadas al Acuerdo para el Empleo y la Protección Social Agrarios.
 
+> Se prorroga la vigencia de lo dispuesto desde el 1 de enero hasta el 31 de diciembre de 1999, por el art. único del Real Decreto 217/1999, de 5 de febrero. Ref. BOE-A-1999-3085.
+
+> Esta modificación tiene efectos desde el 1 de enero de 1999, según establece la disposición final única.
+
 > Se prorroga la vigencia de lo dispuesto desde el 1 de enero hasta el 31 de diciembre de 1998, por el art. 1 del Real Decreto 699/1998, de 24 de abril. Ref. BOE-A-1998-9803.
 
 > Esta modificación tiene efectos desde el 1 de enero de 1998, según establece la disposición final 2.
