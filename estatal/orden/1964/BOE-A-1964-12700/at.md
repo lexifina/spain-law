@@ -4,6 +4,8 @@ Quedan facultadas las autoridades locales de Marina durante un período de un a�
 
 Dichos enrolamientos deberán ser comunicados en todo caso a la Dirección General de Navegación.
 
+> Se prorroga, hasta el 7 de marzo de 1973, la facultad concedida a las autoridades locales de Marina establecida en este artículo transitorio, según establece el art. único de la Orden de 29 de febrero de 1972. Ref. BOE-A-1972-359
+
 > Se prorroga, hasta el 9 de marzo de 1972, la facultad concedida a las autoridades locales de Marina establecida en este artículo transitorio, según establace el art. único de la Orden de 12 de febrero de 1971. Ref. BOE-A-1971-332
 
 > Se prorroga, hasta el 21 de enero de 1970, la facultad concedida a las autoridades locales de Marina establecida en este artículo transitorio, según establece el art. único de la Orden de 30 de junio de 1969. Ref. BOE-A-1969-906
