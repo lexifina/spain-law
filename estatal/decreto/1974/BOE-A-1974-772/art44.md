@@ -1,0 +1,3 @@
+## Art. 44.
+
+Los Plenos de las Cámaras, sobre la base de la propuesta elaborada por el Comité Ejecutivo, aprobarán el proyecto de presupuesto ordinario para el año siguiente, antes del 1 de noviembre, y la liquidación de las cuentas del ejercicio precedente antes del 1 de abril, elevándolos seguidamente al Ministerio de Comercio para su aprobación, el cual deberá negarla cuando vulneren los preceptos de la Ley de Bases y de este Reglamento. La aprobación de los presupuestos se entenderá hecha, si antes del 30 de diciembre, y la de las cuentas, si antes del 30 de junio, el Ministerio no ha hecho observación alguna.
