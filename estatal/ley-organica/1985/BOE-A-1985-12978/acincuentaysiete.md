@@ -28,6 +28,10 @@ l) Aprobar, a propuesta del titular, el reglamento de régimen interior del cent
 
 ll) Supervisar la marcha general del centro en los aspectos administrativos y docentes.
 
+m) Proponer medidas e iniciativas que favorezcan la convivencia en el centro, la igualdad entre hombres y mujeres y la resolución pacífica de conflictos en todos los ámbitos de la vida personal, familiar y social.
+
+> Se añade la letra m) por la disposición adicional 3.6 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+
 > Se deroga la letra d) y se modifica la letra f) por la disposición derogatoria única.3 y la disposición final 1.5 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
 
 > Se modifican las letras g), h) e i) por la disposición final 1.5 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202

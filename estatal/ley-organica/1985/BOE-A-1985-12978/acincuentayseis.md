@@ -2,17 +2,19 @@
 
 1. El Consejo Escolar de los centros concertados estará constituido por:
 
-El Director.
+- El Director.
 
-Tres representantes del titular del centro.
+- Tres representantes del titular del centro.
 
-Cuatro representantes de los profesores.
+- Cuatro representantes de los profesores.
 
-Cuatro representantes de los padres o tutores de los alumnos.
+- Cuatro representantes de los padres o tutores de los alumnos.
 
-Dos representantes de los alumnos, a partir del tercer curso de la Educación Secundaria Obligatoria.
+- Dos representantes de los alumnos, a partir del tercer curso de la Educación Secundaria Obligatoria.
 
-Un representante del personal de administración y servicios.
+- Un representante del personal de administración y servicios.
+
+- Una persona, elegida por los miembros del Consejo Escolar del Centro, que impulse medidas educativas que fomenten la igualdad real y efectiva entre hombres y mujeres.
 
 Además, en los centros específicos de Educación Especial y en aquellos que tengan aulas especializadas, formará parte también del Consejo Escolar un representante del personal de atención educativa complementaria.
 
@@ -23,6 +25,8 @@ Asimismo, los centros concertados que impartan Formación Profesional específic
 2. A las deliberaciones del consejo escolar del centro podrán asistir, con voz pero sin voto, siempre que sean convocados para informar sobre cuestiones de su competencia, los demás órganos unipersonales de acuerdo con lo que establezca el reglamento de régimen interior.
 
 3. El Consejo Escolar del centro se renovará por mitades cada dos años, sin perjuicio de que se cubran hasta dicho término las vacantes que se produzcan. Las Administraciones educativas regularán el procedimiento de renovación parcial, que se realizará de modo equilibrado entre los distintos sectores de la comunidad educativa que lo integran. Asimismo, regularán el procedimiento transitorio para la primera renovación parcial, una vez constituido el Consejo Escolar de acuerdo con lo dispuesto en la presente Ley.
+
+> Se añade un séptimo guión al apartado 1 por la disposición adicional 3.5 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
 
 > Se modifica el apartado 1 por la disposición final 1.4 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
 

@@ -46,6 +46,12 @@ En los supuestos de adopción internacional, cuando sea necesario el desplazamie
 
 Dicha reducción de jornada podrá ser solicitada y obtenida, de manera temporal, por aquellos funcionarios que la precisen en procesos de recuperación por razón de enfermedad, siempre que las necesidades del servicio lo permitan.
 
+5. En los casos en los que las funcionarias víctimas de violencia de género tuvieran que ausentarse por ello de su puesto de trabajo, estas faltas de asistencia, totales o parciales, tendrán la consideración de justificadas por el tiempo y en las condiciones en que así lo determinen los servicios sociales de atención o salud, según proceda.
+
+Las funcionarias víctimas de violencia sobre la mujer, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a la reducción de la jornada con disminución proporcional de la retribución, o a la reordenación del tiempo de trabajo, a través de la adaptación del horario, de la aplicación del horario flexible o de otras formas de ordenación del tiempo de trabajo que sean aplicables, en los términos que para estos supuestos establezca la Administración Pública competente en cada caso.
+
+> Se añade el apartado 5 por la disposición adicional 9.5 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+
 > Se modifica el apartado 1.g) por el art. 50.5 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se modifican los apartados 1 y 3 por el art. 58.1 a .4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412

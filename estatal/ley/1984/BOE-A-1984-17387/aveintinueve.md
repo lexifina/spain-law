@@ -122,6 +122,14 @@ Quienes pasen a la situación de excedencia voluntaria incentivada tendrán dere
 
 En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas acordar el pase a la situación de excedencia voluntaria incentivada.
 
+8. Excedencia por razón de violencia sobre la mujer funcionaria.
+
+Las funcionarias públicas víctimas de violencia de género, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a solicitar la situación de excedencia sin necesidad de haber prestado un tiempo mínimo de servicios previos y sin que resulte de aplicación ningún plazo de permanencia en la misma. Durante los seis primeros meses tendrán derecho a la reserva del puesto de trabajo que desempeñaran, siendo computable dicho período a efectos de ascensos, trienios y derechos pasivos.
+
+Esto no obstante, cuando de las actuaciones de tutela judicial resultase que la efectividad del derecho de protección de la víctima lo exigiere, se podrá prorrogar por períodos de tres meses, con un máximo de dieciocho, el período en el que, de acuerdo con el párrafo anterior, se tendrá derecho a la reserva del puesto de trabajo, con idénticos efectos a los señalados en dicho párrafo.
+
+> Se añade el apartado 8 por la disposición adicional 9.4 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+
 > Se añade el párrafo último del apartado 3 por el art. 50.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se modifica el apartado 2.h) por el art. 2 de la Ley 57/2003, de 16 de diciembre. Ref. BOE-A-2003-23103
@@ -144,6 +152,6 @@ En el ámbito de la Administración General del Estado, corresponde al Ministeri
 
 > Se modifican los apartados 1, 3.c), 2.e) y se añaden los apartados 3.d), 5, 6 y 7 por los arts. 18 a 24 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
 
-> Se modifica el apartado 1, se añade el 4 y se suprime el 3.b) por el art. 2.1, 2 y la disposición final 3 de la Ley 3/1989, de 3 de marzo. Ref. BOE-A-1989-5272
+> Se modifica el apartado 1, se añade el 4 y se suprime el 3.b) por art. 2.1, 2 y la disposición final 3 de la Ley 3/1989, de 3 de marzo. Ref. BOE-A-1989-5272
 
 > Se declara la inconstitucionalidad y nulidad del apartado 2.l) por Sentencia del TC 99/1987, de 11 de junio. Ref. BOE-T-1987-14852

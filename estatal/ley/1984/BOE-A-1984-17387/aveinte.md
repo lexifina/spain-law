@@ -68,11 +68,15 @@ La reasignación de efectivos como consecuencia de un Plan de Empleo en las dem�
 
 h) La Administración General del Estado podrá adscribir a los funcionarios a puestos de trabajo en distinta unidad o localidad, previa solicitud basada en motivos de salud o rehabilitación del funcionario, su cónyuge o los hijos a su cargo, con previo informe del servicio médico oficial legalmente establecido y condicionado a que existan puestos vacantes con asignación presupuestaria cuyo nivel de complemento de destino y específico no sea superior al del puesto de origen, y se reúnan los requisitos para su desempeño. Dicha adscripción tendrá carácter definitivo cuando el funcionario ocupara con tal carácter su puesto de origen.
 
+i) La funcionaria víctima de violencia sobre la mujer que se vea obligada a abandonar el puesto de trabajo en la localidad donde venía prestando sus servicios, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrá derecho preferente a ocupar otro puesto de trabajo propio de su Cuerpo o Escala y de análogas características que se encuentre vacante y sea de necesaria provisión. En tales supuestos la Administración Pública competente en cada caso estará obligada a comunicarle las vacantes de necesaria provisión ubicadas en la misma localidad o en las localidades que la interesada expresamente solicite.
+
 2. El Gobierno, y en el ámbito de sus competencias los Consejos de Gobierno de las Comunidades Autónomas y el Pleno de las Corporaciones Locales, determinarán el número de puestos con sus características y retribuciones, reservados a personal eventual, siempre dentro de los créditos presupuestarios consignados al efecto.
 
 El personal eventual sólo ejercerá funciones expresamente calificadas de confianza o asesoramiento especial y su nombramiento y cese, que serán libres, corresponden exclusivamente a los Ministros y a los Secretarios de Estado, y, en su caso, a los Consejeros de Gobierno de las Comunidades Autónomas y a los Presidentes de las Corporaciones Locales. El personal eventual cesará automáticamente cuando cese la autoridad a la que preste su función de confianza o asesoramiento.
 
 3. En ningún caso el desempeño de un puesto de trabajo reservado a personal eventual constituirá mérito para el acceso a la función pública o la promoción interna.
+
+> Se añade el apartado 1.i) por la disposición adicional 9.3 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
 
 > Se añade el apartado 1.h) por el art. 50.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
 

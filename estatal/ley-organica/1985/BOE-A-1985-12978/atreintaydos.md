@@ -10,7 +10,7 @@ c) Los proyectos de reglamento que hayan de ser aprobados por el Gobierno en des
 
 d) La regulación de las condiciones para la obtención, expedición y homologación de los títulos académicos y su aplicación en casos dudosos o conflictivos.
 
-e) Las disposiciones que se refieran al desarrollo de la igualdad de derechos y oportunidades en la enseñanza.
+e) Las disposiciones que se refieran al desarrollo de la igualdad de derechos y oportunidades y al fomento de la igualdad real y efectiva entre hombres y mujeres en la enseñanza.
 
 f) La ordenación general del sistema educativo y la determinación de los niveles mínimos de rendimiento y calidad.
 
@@ -19,3 +19,5 @@ g) La determinación de los requisitos mínimos que deben reunir los Centros doc
 2. Asimismo, el Consejo Escolar del Estado informará sobre cualquiera otra cuestión que el Ministerio de Educación y Ciencia decida someterle a consulta.
 
 3. El Consejo Escolar del Estado, por propia iniciativa, podrá formular propuestas al Ministerio de Educación y Ciencia sobre cuestiones relacionadas con los puntos enumerados en los apartados anteriores y sobre cualquier otra concerniente a la calidad de la enseñanza.
+
+> Se modifica el apartado 1.e) por la disposición adicional 3.3 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
