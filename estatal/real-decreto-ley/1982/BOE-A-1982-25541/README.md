@@ -11,3 +11,12 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 ## Bloques
 
 - [preambulo](preambulo.md)
+- [pr](pr.md)
+- [Artículo primero](aprimero.md)
+- [Artículo segundo](asegundo.md)
+- [Artículo tercero](atercero.md)
+- [Artículo cuarto](acuarto.md)
+- [Artículo quinto](aquinto.md)
+- [Artículo sexto](asexto.md)
+- [Artículo séptimo](aseptimo.md)
+- [firma](firma.md)
