@@ -1,0 +1,3 @@
+## Cuarto.
+
+Para la correcta apreciación de tales operaciones deberá extremarse la atención en clientes no habituales y desconocidos. Tratándose de operaciones de cuantía, deberá limitarse a las de importancia económica, siempre por encima de los 5.000.000 de pesetas (30.050 euros) a que se refiere el artículo 7.2 del Reglamento de la Ley 19/1993, de 28 de diciembre, sobre determinadas medidas de prevención del blanqueo de capitales, aprobado por Real Decreto 925/1995, de 6 de junio, o por encima de los 50.000.000 de pesetas (300.506 euros) en los supuestos específicos en que se atiende a este importe en los apartados anteriores de esta Instrucción.

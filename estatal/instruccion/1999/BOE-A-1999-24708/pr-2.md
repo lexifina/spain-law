@@ -1,0 +1,3 @@
+## Primero.
+
+Los Notarios y los Registradores de la Propiedad y Mercantiles deben informar por escrito al Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias dependiente de la Secretaría de Estado de Economía acerca de los contratos y actos de que tengan conocimiento en el ejercicio de su función que puedan constituir indicio o prueba de blanqueo de capitales procedentes de actividades delictivas, relacionadas con las drogas tóxicas, estupefacientes o sustancias sicotrópicas; relacionadas con las bandas armadas, organizaciones o grupos terroristas, o realizadas por bandas o grupos organizados.
