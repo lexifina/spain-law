@@ -1,0 +1,3 @@
+## Trece.
+
+Por miembros de la Comisión Nacional de Estimación de Alfalfa, Dáctilo, Festuca y Ray-grass, que de acuerdo con el apartado 26 del Reglamento General, ha de constituirse se visitarán dichos campos con el fin de elaborar los informes correspondientes a la posible inscripción de la variedad en el Registro.

@@ -1,0 +1,3 @@
+## Tres.
+
+En el caso de que actúe un representante del obtentor o sus causahabientes, deberá acompañarse documento legalizado de acreditación, con autorización expresa para presentar la solicitud. Cuando se trate de solicitantes extranjeros la actuación dé un representante con domicilio legal en España será necesaria de acuerdo con lo que señala el apartado 20 del Reglamento General del Registro de Variedades Comerciales, en lo sucesivo Reglamento General. Asimismo deberá acompañarse a la solicitud declaración del obtentor o causahabiente de poder ejercer en España los derechos que poseen sobre la variedad solicitada.
