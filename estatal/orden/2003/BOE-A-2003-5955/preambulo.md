@@ -1,0 +1,11 @@
+El apartado 5 del artículo 41 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, señala que los representantes de cada candidatura podrán obtener, el día siguiente a la proclamación de candidaturas, una copia del censo del distrito correspondiente, ordenado por Mesas, en soporte apto para su tratamiento informático. Alternativamente, los representantes generales podrán obtener en las mismas condiciones una copia del censo vigente de los distritos donde su partido, federación o coalición presente candidaturas. Por último, el apartado 5 del artículo 41 indica que las Juntas Electorales de Zona dispondrán de una copia del censo electoral utilizable, correspondiente a su ámbito. La proclamación de las candidaturas tiene lugar, según el artículo 47.3 de la Ley Orgánica 5/1985, el vigésimo séptimo día posterior la convocatoria de las elecciones.
+
+Sin embargo, la Ley Orgánica 1/2003, de 10 de marzo, para la garantía de la democracia en los Ayuntamientos y la seguridad de los Concejales, mediante su artículo 5 introduce un nuevo apartado 6 en el artículo 41 de la Ley Orgánica 5/1985, según el cual, excepcionalmente y por razones debidamente justificadas, podrá excluirse a las personas que pudieran ser objeto de amenazas o coacciones que pongan en peligro su vida, su integridad física o su libertad, de las copias del censo electoral a que se refiere el apartado 5 citado anteriormente.
+
+El objeto de la presente Orden es dictar instrucciones para que los solicitantes puedan pedir su exclusión de las copias del censo electoral, así como determinar el órgano destinatario de su petición y al que corresponde decidir sobre la misma.
+
+La exclusión, con vigencia, en principio, indefinida tendrá efectividad en el proceso electoral inmediatamente siguiente a la adopción de la decisión, siempre y cuando se plantee con el tiempo suficiente para que se pueda decidir sobre la misma antes de que la Oficina del Censo Electoral confeccione las listas que ha de entregar a los representantes de las candidaturas.
+
+Por tanto, la efectividad inmediata de las exclusiones radica en que los solicitantes pidan éstas antes de que transcurran quince días desde la convocatoria electoral. En otro caso, la exclusión tendrá efecto en próximas convocatorias electorales.
+
+En su virtud, dispongo:
