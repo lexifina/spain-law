@@ -1,0 +1,381 @@
+## ANEXO I
+
+## ÍNDICE DE MONOGRAFÍAS
+
+## Procedimientos normalizados de trabajo
+
+Procedimientos generales
+
+PN/L/PG/001/00 PN de elaboración de los procedimientos normalizados de trabajo.
+
+PN/L/PG/002/00 PN de indumentaria.
+
+PN/L/PG/003/00 PN de higiene del personal.
+
+PN/L/PG/004/00 PN de atribuciones del personal.
+
+PN/L/PG/005/00 PN de recepción, control de conformidad y almacenamiento de materias primas.
+
+PN/L/PG/006/00 PN de recepción y almacenamiento del material de acondicionamiento.
+
+PN/L/PG/007/00 PN de elaboración y control.
+
+PN/L/PG/008/00 PN de etiquetado.
+
+PN/L/PG/009/00 PN de control y registro de temperaturas.
+
+Procedimientos de elaboración de formas farmacéuticas
+
+PN/L/FF/001/00 PN de elaboración de cápsulas duras.
+
+PN/L/FF/002/00 PN de elaboración de emulsiones.
+
+PN/L/FF/003/00 PN de elaboración de geles.
+
+PN/L/FF/004/00 PN de elaboración de jarabes.
+
+PN/L/FF/005/00 PN de elaboración de pastas.
+
+PN/L/FF/006/00 PN de elaboración de pomadas.
+
+PN/L/FF/007/00 PN de elaboración de soluciones.
+
+PN/L/FF/008/00 PN de elaboración de suspensiones.
+
+PN/L/FF/009/00 PN de elaboración de tisanas vegetales.
+
+Procedimientos de operaciones farmacéuticas
+
+PN/L/OF/001/00 PN de pesada.
+
+PN/L/OF/002/00 PN de mezclado.
+
+PN/L/OF/003/00 PN de desagregación.
+
+PN/L/OF/004/00 PN de tamización.
+
+Procedimientos de controles de producto
+
+PN/L/CP/001/00 PN de determinación de pH.
+
+PN/L/CP/002/00 PN de determinación del signo de la emulsión.
+
+PN/L/CP/003/00 PN de determinación de extensibilidad.
+
+## Monografías de materias primas
+
+Monografías de principios activos
+
+FN/2003/PA/001 Acético glacial, ácido.
+
+FN/2003/PA/002 Alcanfor racémico.
+
+FN/2003/PA/003 Almendras, aceite de, virgen.
+
+FN/2003/PA/004 Almidón de trigo.
+
+FN/2003/PA/005 Bicarbonato de sodio.
+
+FN/2003/PA/006 Bórax.
+
+FN/2003/PA/007 Bórico, ácido.
+
+FN/2003/PA/008 Calamina.
+
+FN/2003/PA/009 Cloral, hidrato de.
+
+FN/2003/PA/010 Clorhexidina, digluconato de, disolución de.
+
+FN/2003/PA/011 Difenhidramina, hidrocloruro de.
+
+FN/2003/PA/012 Eritromicina.
+
+FN/2003/PA/013 Glicerol.
+
+FN/2003/PA/014 Hidrocortisona.
+
+FN/2003/PA/015 Hidrocortisona, acetato de.
+
+FN/2003/PA/016 Hidróxido de calcio.
+
+FN/2003/PA/017 Iodo.
+
+FN/2003/PA/018 Ioduro de potasio.
+
+FN/2003/PA/019 Ipecacuana, extracto fluido normalizado de.
+
+FN/2003/PA/020 Lidocaína, hidrocloruro de.
+
+FN/2003/PA/021 Mentol racémico.
+
+FN/2003/PA/022 Metadona, hidrocloruro de.
+
+FN/2003/PA/023 Metilrosanilina, cloruro de.
+
+FN/2003/PA/024 Metronidazol.
+
+FN/2003/PA/025 Morfina, hidrocloruro de.
+
+FN/2003/PA/026 Nitrato de plata.
+
+FN/2003/PA/027 Oliva, aceite de, virgen.
+
+FN/2003/PA/028 Óxido de zinc.
+
+FN/2003/PA/029 Permangato de potasio.
+
+FN/2003/PA/030 Povidona iodada.
+
+FN/2003/PA/031 Ricino, aceite de, virgen.
+
+FN/2003/PA/032 Salicilato de metilo.
+
+FN/2003/PA/033 Salicílico, ácido.
+
+FN/2003/PA/034 Sulfato de aluminio.
+
+FN/2003/PA/035 Sulfato de cobre pentahidrato.
+
+FN/2003/PA/036 Tánico, ácido.
+
+FN/2003/PA/037 Timol.
+
+FN/2003/PA/038 Tretinoina.
+
+FN/2003/PA/039 Urea.
+
+Monografías de excipientes
+
+FN/2003/EX/001 Agua conservante.
+
+FN/2003/EX/002 Crema base de Beeler.
+
+FN/2003/EX/003 Crema consistente hidrófila 1.
+
+FN/2003/EX/004 Crema consistente hidrófila 2.
+
+FN/2003/EX/005 Emulsión A/O.
+
+FN/2003/EX/006 Emulsión A/S.
+
+FN/2003/EX/007 Emulsión O/A aniónica.
+
+FN/2003/EX/008 Emulsión O/A fluida aniónica.
+
+FN/2003/EX/009 Emulsión O/A fluida no iónica.
+
+FN/2003/EX/010 Emulsión O/A no iónica 1.
+
+FN/2003/EX/011 Emulsión O/A no iónica 2.
+
+FN/2003/EX/012 Emulsión O/A no iónica 3.
+
+FN/2003/EX/013 Excipiente N.º 1 para cápsulas.
+
+FN/2003/EX/014 Excipiente N.º 2 para cápsulas.
+
+FN/2003/EX/015 Gel adhesivo oral.
+
+FN/2003/EX/016 Gel de carmelosa sódica.
+
+FN/2003/EX/017 Gel de metilcelulosa.
+
+FN/2003/EX/018 Gel fluido de metilcelulosa.
+
+FN/2003/EX/019 Gel hidroalcohólico de metilcelulosa.
+
+FN/2003/EX/020 Gel neutro.
+
+FN/2003/EX/021 Gel neutro hidroalcohólico.
+
+FN/2003/EX/022 Jarabe simple.
+
+FN/2003/EX/023 Magma de bentonita.
+
+FN/2003/EX/024 Sacarosa.
+
+FN/2003/EX/025 Solución concentrada de hidroxibenzoatos.
+
+FN/2003/EX/026 Solución hidroalcohólica 1.
+
+FN/2003/EX/027 Solución hidroalcohólica 2.
+
+## Monografías de fórmulas magistrales tipificadas y preparados oficinales
+
+Monografías de fórmulas magistrales tipificadas
+
+FN/2003/FMT/001 Acetato de aluminio, solución de.
+
+FN/2003/FMT/002 Acetato de hidrocortisona y fenol, crema de.
+
+FN/2003/FMT/003 Ácido acético, gotas óticas de.
+
+FN/2003/FMT/004 Ácido salicílico y acetónido de triamcinolona, crema de.
+
+FN/2003/FMT/005 Ácido salicílico y acetónido de triamcinolona, gel de.
+
+FN/2003/FMT/006 Colodión con ácido láctico y salicílico.
+
+FN/2003/FMT/007 Eritromicina, crema de.
+
+FN/2003/FMT/008 Gel anestésico tópico de lidocaína.
+
+FN/2003/FMT/009 Hidrato de cloral, enema de.
+
+FN/2003/FMT/010 Hidrato de cloral, jarabe de.
+
+FN/2003/FMT/011 Hidrocloruro de metadona, solución al 1% de.
+
+FN/2003/FMT/012 Hidrocloruro de morfina, solución oral de.
+
+FN/2003/FMT/013 Hidrocortisona, crema de.
+
+FN/2003/FMT/014 Ipecacuana, jarabe de.
+
+FN/2003/FMT/015 Lidocaína compuesta, suspensión bucal de.
+
+FN/2003/FMT/016 Lidocaína viscosa.
+
+FN/2003/FMT/017 Lugol débil, solución de.
+
+FN/2003/FMT/018 Lugol fuerte, solución de.
+
+FN/2003/FMT/019 Metronidazol, gel de.
+
+FN/2003/FMT/020 Nitrato de plata, solución al 2 % de.
+
+FN/2003/FMT/021 Tretinoína, gel de.
+
+Monografías de Preparados Oficinales
+
+FN/2003/PO/001 Aceite alcanforado.
+
+FN/2003/PO/002 Aceite gomenolado.
+
+FN/2003/PO/003 Aceite salicilado con alcohol.
+
+FN/2003/PO/004 Aceite salicilado sin alcohol.
+
+FN/2003/PO/005 Ácido tánico, solución de.
+
+FN/2003/PO/006 Agua boricada.
+
+FN/2003/PO/007 Agua de cal, solución de.
+
+FN/2003/PO/008 Agua timolada.
+
+FN/2003/PO/009 Alcohol alcanforado.
+
+FN/2003/PO/010 Alcohol boricado (a saturación).
+
+FN/2003/PO/011 Alcohol iodado.
+
+FN/2003/PO/012 Alcohol mentolado al 5%.
+
+FN/2003/PO/013 Alcohol tánico.
+
+FN/2003/PO/014 Calamina, loción de.
+
+FN/2003/PO/015 Clorhexidina, solución acuosa al 0,1% de.
+
+FN/2003/PO/016 Glicerolado de almidón.
+
+FN/2003/PO/017 Pasta al agua.
+
+FN/2003/PO/018 Pasta Lassar.
+
+FN/2003/PO/019 Permanganato de potasio, solución al 1/10000 de.
+
+FN/2003/PO/020 Polvos de oxido de zinc mentolados.
+
+FN/2003/PO/021 Pomada alcanforada.
+
+FN/2003/PO/022 Pomada analgésica de mentol y salicilato de metilo.
+
+FN/2003/PO/023 Povidona iodada, solución de.
+
+FN/2003/PO/024 Saliva artificial.
+
+FN/2003/PO/025 Solución para gargarismos.
+
+FN/2003/PO/026 Solución rubefaciente.
+
+FN/2003/PO/027 Sulfato de cobre, solución al 0,1% de.
+
+FN/2003/PO/028 Talco mentolado.
+
+FN/2003/PO/029 Urea, crema al 15% de.
+
+FN/2003/PO/030 Vaselina boricada.
+
+FN/2003/PO/031 Vaselina mentolada.
+
+FN/2003/PO/032 Vaselina salicílica.
+
+FN/2003/PO/033 Violeta de genciana, solución de.
+
+## Fitoterapia
+
+Monografías de materias primas
+
+FN/2003/PAF/001 Ajo, polvo de.
+
+FN/2003/PAF/002 Aloe de Barbados.
+
+FN/2003/PAF/003 Cáscara sagrada.
+
+FN/2003/PAF/004 Frángula, corteza de.
+
+FN/2003/PAF/005 Frángula, extracto seco normalizado de, corteza de.
+
+FN/2003/PAF/006 Gayuba, hoja de.
+
+FN/2003/PAF/007 Harpagofito, raíz de.
+
+FN/2003/PAF/008 Hinojo, fruto de.
+
+FN/2003/PAF/009 Ispágula, cutícula seminal de.
+
+FN/2003/PAF/010 Ortosifón, hoja de.
+
+FN/2003/PAF/011 Romero, hoja de.
+
+FN/2003/PAF/012 Sen, extracto seco normalizado de hoja de.
+
+FN/2003/PAF/013 Sen, hoja de.
+
+FN/2003/PAF/014 Valeriana, raíz de.
+
+FN/2003/PAF/015 Zaragatona, semilla de.
+
+Monografías de preparados oficinales
+
+FN/2003/POF/001 Aloe de Barbados, cápsulas duras de.
+
+FN/2003/POF/002 Cáscara sagrada, cápsulas duras de.
+
+FN/2003/POF/003 Corteza de frángula, cápsulas duras de.
+
+FN/2003/POF/004 Cutícula de ispágula, polvo para suspensión oral de.
+
+FN/2003/POF/005 Extracto seco de hoja de sen, cápsulas duras de.
+
+FN/2003/POF/006 Extracto seco de corteza de frángula, cápsulas duras de.
+
+FN/2003/POF/007 Fruto de hinojo, cápsulas duras de.
+
+FN/2003/POF/008 Hoja de gayuba, cápsulas duras de.
+
+FN/2003/POF/009 Hoja de ortosifón, cápsulas duras de.
+
+FN/2003/POF/010 Hoja de romero, cápsulas duras de.
+
+FN/2003/POF/011 Hoja de sen, cápsulas duras de.
+
+FN/2003/POF/012 Polvo de ajo, cápsulas duras de.
+
+FN/2003/POF/013 Raíz de harpagofito, cápsulas duras de.
+
+FN/2003/POF/014 Raíz de valeriana, cápsulas duras de.
+
+FN/2003/POF/015 Semilla de zaragatona, polvo para suspensión oral de.
