@@ -1,0 +1,3 @@
+Ilustrísimo señor:
+
+El Decreto 2248/1968, de 20 de septiembre, establece la nueva regulación de las Asociaciones de Estudiantes, siendo su contenido suficiente para que en esta primera etapa puedan irse constituyendo las Asociaciones sin necesidad de nuevas normas aclaratorias distintas a las contenidas en la presente Orden y dirigidas a concretar únicamente algunos aspectos administrativos en la organización de estas entidades, relativas a la concreción de las Autoridades Académicas ante las que ha de realizarse la pertinente tramitación en tanto por los propios Presidentes de las Asociaciones se estudia y propone un completo desarrollo del Decreto citado, en virtud de todo lo cual este Ministerio ha dispuesto:
