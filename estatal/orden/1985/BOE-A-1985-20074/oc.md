@@ -1,0 +1,5 @@
+## Octavo. Placa de identificación.
+
+1. En toda cisterna, contenedor-cisterna y vagón-cisterna, que corresponda a un tipo inscrito en el Registro Oficial, o para el cual se haya obtenido un certificado de seguridad, se fijará, con carácter permanente en lugar visible y no desmontable y donde no pueda dañarse con facilidad, una placa de identificación que reúna las características que se señalan en el anexo 5 de la presente Orden.
+
+2. El número de identificación, que figurará en dicha placa, estará formado en el caso de cisternas, contenedores-cisterna y vagones-cisterna, de tipo aprobado, por la contraseña de Registro y por el número de fabricación que asignará el constructor y que determinará el número de orden de la cisterna dentro de la serie inscrita. En el caso de cisternas, contenedores-cisterna y vagones-cisterna en circulación, no pertenecientes a tipos aprobados, la Entidad colaboradora, durante el primer reconocimiento de la unidad, les asignará provisionalmente un número de identificación, que será posteriormente confirmado por la Administración Pública, al extender la documentación del vehículo.
