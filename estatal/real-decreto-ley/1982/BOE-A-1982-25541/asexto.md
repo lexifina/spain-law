@@ -6,6 +6,4 @@ Cuando se den los supuestos del primer párrafo del artículo sexto de la repeti
 
 Dos. Cuando un Banco, Caja de Ahorros o Cooperativa de Crédito se declare formalmente en estado de quiebra, de conformidad con las normas del Código de Comercio y la Ley de Enjuiciamiento Civil, las funciones de los Órganos de la misma, es decir, del Comisario, Depositario y Síndicos, serán asumidas por el Fondo de Garantía de Depósitos al que la Entidad pertenezca o haya pertenecido, sustituyendo a aquéllos a todos los efectos.
 
-Tres. El Fondo de Garantía de Depósitos en establecimientos bancarios, el Fondo de Garantía de Depósitos en Cajas de Ahorro y el Fondo de Garantía de Depósitos en Cooperativas de Crédito, gozarán del beneficio de pobreza ante toda clase de juzgados, tribunales y jurisdicciones en cuantos procedimientos pueda intervenir activa o pasivamente.
-
-Los Bancos, Cajas de Ahorro y Cooperativas de Crédito que sean declarados en quiebra o incurran en sobreseimiento definitivo en expediente de suspensión de pagos, gozarán asimismo del beneficio de pobreza, salvo que una vez liquidado su patrimonio y pagados todos los acreedores resulten bienes suficientes para hacer efectivas las costas y gastos judiciales.
+> Se deroga el apartado 3 por la disposición derogatoria única.e) de la Ley 1/1996, de 10 de enero. Ref. BOE-A-1996-750.
