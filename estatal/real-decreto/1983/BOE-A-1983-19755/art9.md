@@ -12,4 +12,6 @@ También será responsable el envasador cuando se pruebe su connivencia con el m
 
 9.5 Cuando las infracciones se hubiesen cometido en relación con los productos sometidos a regulación y vigilancia de precios, serán considerados responsables tanto la Empresa que indebidamente elevó el precio como aquella otra que haya comercializado el producto bajo dicho precio sin haber dado cuenta de la elevación a los órganos competentes.
 
-9.6 La responsabilidad administrativa por las infracciones a que se refiere el presente Real Decreto, será independiente de la responsabilidad civil, penal o de otro orden que, en su caso, pueda exigirse a los interesados.
+9.6 (Anulado)
+
+> Se declara la nulidad el apartado 9.6 por Sentencia del TS de 6 de junio de 1988 publicada por Orden de 27 de febrero de 1989. Ref. BOE-A-1989-8498.

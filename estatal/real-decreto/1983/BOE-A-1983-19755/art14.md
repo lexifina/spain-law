@@ -1,4 +1,4 @@
-## Artículo 14. Obligaciones de los interesados.
+## Art. 14. Obligaciones de los interesados.
 
 14.1 Las personas físicas o jurídicas, Asociaciones o Entidades estarán obligadas, a requerimiento de los Organos competentes o de los Inspectores:
 

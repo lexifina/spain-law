@@ -4,7 +4,7 @@
 
 – Infracciones leves y antirreglamentarias tipificadas en el artículo 4º.1, multa hasta 100.000 pesetas.
 
-– Infracciones por clandestinidad tipificadas en el artículo 4º. 2, multa comprendida entre 50.000 y 500.000 pesetas.
+– Infracciones por clandestinidad tipificadas en el artículo 4º.2, multa comprendida entre 50.000 y 500.000 pesetas.
 
 – Infracciones graves, multa comprendida entre 100.001 y 2.500.000 pesetas, pudiendo rebasar dicha cantidad hasta alcanzar el quíntuplo del valor de los productos o servicios objeto de infracción.
 
@@ -20,7 +20,7 @@
 
 – El dolo, la culpa y la reincidencia.
 
-10.3 La autoridad a que corresponda resolver el expediente podrá acordar, como sanción accesoria, el decomiso de la mercancía adulterada, falsificada, fraudulenta o no identificada y que pueda entrañar riesgo para el consumidor; lo mismo podrá acordarse en los supuestos contemplados en los cinco primeros apartados del artículo 4º. 2.
+10.3 La autoridad a que corresponda resolver el expediente podrá acordar, como sanción accesoria, el decomiso de la mercancía adulterada, falsificada, fraudulenta o no identificada y que pueda entrañar riesgo para el consumidor; lo mismo podrá acordarse en los supuestos contemplados en los cinco primeros apartados del artículo 4º, 2.
 
 Dichas mercancías deberán ser destruidas si su utilización o consumo constituyera peligro para la salud pública. El Organo sancionador deberá, en todo caso, determinar el destino final que debe darse a las mercancías decomisadas.
 
@@ -28,7 +28,7 @@ Los gastos que originen las operaciones de intervención, depósito, decomiso, t
 
 En caso de que el decomiso no sea posible podrá ser sustituido por el pago del importe de su valor por la Empresa infractora.
 
-10.4 En el caso de infracciones en materia de industrias agrarias y alimentarias la autoridad a que corresponda resolver el expediente podrá acordar como sanción accesoria la declaración de caducidad de las autorizaciones administrativas si la infracción corresponde a la tipificada en el articulo 4º. 2.12, o la cancelación de la inscripción registral en las infracciones en esta materia en los casos contemplados en la legislación vigente (articulo 14 del Real Decreto 2685/1980, de 17 de octubre).
+10.4 En el caso de infracciones en materia de industrias agrarias y alimentarias la autoridad a que corresponda resolver el expediente podrá acordar como sanción accesoria la declaración de caducidad de las autorizaciones administrativas si la infracción corresponde a la tipificada en el articulo 4º.2.12, o la cancelación de la inscripción registral en las infracciones en esta materia en los casos contemplados en la legislación vigente (articulo 14 del Real Decreto 2685/1980, de 17 de octubre).
 
 10.5 En los supuestos de infracciones calificadas como muy graves podrá decretarse el cierre temporal de la Empresa, establecimiento o industria infractora, por un período máximo de cinco años.
 
@@ -41,3 +41,5 @@ La facultad de acordar el cierre queda atribuida, en todo caso, al Consejo de Mi
 10.8 En el acuerdo del Consejo de Ministros sobre el cierre de la Empresa, establecimiento o industria podrán determinarse medidas complementarias para la plena eficacia de la decisión adoptada.
 
 10.9 Los Gobernadores civiles de las provincias donde radiquen los establecimientos o industrias clausurados,ordenarán el levantamiento del cierre temporal tan pronto transcurra el plazo del mismo, dando cuenta de ello al Organo sancionador.
+
+> Se declara la nulidad del apartado 10.3 en la forma indicada por el fundamento jurídico 9 de la Sentencia del TS de 6 de junio de 1988, publicada por Orden de 27 de febrero de 1989. Ref. BOE-A-1989-8498.
