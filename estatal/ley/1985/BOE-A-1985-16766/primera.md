@@ -9,3 +9,5 @@ Segundo. En las actividades de las Cajas de Ahorros realizadas fuera del ámbito
 Dos. Las Comunidades Autónomas ejercerán las funciones de disciplina, inspección y sanción de las Cajas de Ahorros con domicilio social en su territorio, y para las actividades realizadas en el mismo, en las materias que sean de su competencia.
 
 Tres. En materia de disciplina e inspección el Banco de España podrá establecer Convenios con las Comunidades Autónomas.
+
+> Se declara la inconstitucionalidad y nulidad de los incisos destacados por Sentencia del TC 49/1988, de 22 de marzo. Ref. BOE-T-1988-9029

@@ -25,3 +25,5 @@ En el supuesto de Cajas de Ahorros cuyas personas o entidades fundadoras no est�
 Cuatro. Presidirá la Asamblea General el Presidente del Consejo de Administración, y actuarán de Vicepresidente o Vicepresidentes, en su caso, quienes lo sean del Consejo, cuyo Secretario ejercerá las correspondientes funciones también en ambos órganos.
 
 En ausencia del Presidente y Vicepresidentes, la Asamblea nombrará a uno de sus miembros Presidente en funciones, para dirigir la sesión de que se trate.
+
+> Se declara la inconstitucionalidad y nulidad del párrafo destacado del apartado 3 por Sentencia del TC 48/1998, de 22 de marzo. Ref. BOE-T-1988-9029
