@@ -1,0 +1,3 @@
+## Artículo ocho.
+
+Para determinar las líneas de actuación en las situaciones de emergencia a que se refiere la presente Ley se aprobará por el Gobierno, a propuesta del Ministerio del Interior previo informe de la Comisión Nacional de Protección Civil y, en su caso, de cuantas entidades públicas o privadas juzgue necesario, una Norma Básica de Protección Civil que contendrá las directrices esenciales para la elaboración de los Planes Territoriales de Comunidad Autónoma, Provinciales, Supramunicipales, Insulares y Municipales y de los Planes Especiales, por sectores de actividad, tipos de emergencia o actividades concretas.
