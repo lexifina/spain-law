@@ -18,7 +18,7 @@ e) Resolver los expedientes administrativos sancionadores a que se refiere el ar
 
 4. Corresponderán al Banco de España las competencias para:
 
-a) Conceder a bancos, cajas de ahorro y otras entidades financieras autorización para actuar en el mercado de divisas, en los casos en que dicha autorización se requiera de conformidad con la legislación vigente, así como registrar los establecimientos abiertos al público para cambio de divisas.
+a) Conceder a bancos, cajas de ahorro y otras entidades financieras autorización para actuar en el mercado de divisas, en los casos en que dicha autorización se requiera de conformidad con la legislación vigente, así como autorizar las actividades de cambio de moneda extranjera en establecimientos abiertos al público de acuerdo con su normativa reguladora.
 
 b) Dictar, en el ámbito de las competencias que le confiere la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito, las instrucciones relativas al contenido, procedimiento y frecuencia de las comunicaciones a que se refiere el artículo 5.º punto 4 del presente Real Decreto.
 
@@ -27,3 +27,5 @@ c) Recibir, en los términos prevenidos en el presente Real Decreto, y según el
 d) Ejercer el control e inspección de las operaciones efectuadas a través de las «Entidades registradas».
 
 e) Ejercer las actuaciones de inspección e investigación que resulten necesarias para prevenir y, en su caso, corregir las actividades contrarias al presente Real Decreto.
+
+> Se modifica el apartado 4.a) por la disposición final 1 del Real Decreto 2660/1998, de 14 de diciembre. Ref. BOE-A-1998-28816.
