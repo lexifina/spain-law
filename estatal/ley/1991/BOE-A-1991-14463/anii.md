@@ -2,97 +2,107 @@
 
 El tipo impositivo incrementado del 12 por 100 del Impuesto General Indirecto Canario se aplicará a las operaciones que tengan por objeto entregas, arrendamientos o importaciones de los bienes siguientes:
 
-a) Labores de tabaco rubio y cigarros puros con precio superior a 100 pesetas unidad.
+1.º Cigarros puros con precio superior a 100 pesetas unidad y labores de tabaco rubio.
 
-b) Los aguardientes compuestos, los licores, los aperitivos sin vino base y las demás bebidas derivadas de alcoholes naturales, conforme a las definiciones del Estatuto de la Viña, del Vino y de los Alcoholes y Reglamentaciones complementarias, asimismo, los extractos y concentrados alcohólicos aptos para la elaboración de bebidas derivadas. En los dos casos se aplicará, siempre que superen el precio de 200 pesetas litro.
+2.º Los aguardientes compuestos, los licores, los aperitivos sin vino base y las demás bebidas derivadas de alcoholes naturales, conforme a las definiciones del Estatuto de la Viña, del Vino y de los Alcoholes y Reglamentaciones Complementarias y asimismo, los extractos y concentrados alcohólicos aptos para la elaboración de bebidas derivadas. En los dos casos se aplicará, siempre que superen el precio de 200 pesetas litro.
 
-c) Los vehículos accionados a motor con potencia superior a 10 CV fiscales, excepto:
+3.º Los vehículos accionados a motor con potencia superior a 10 CV fiscales, excepto:
 
-1. Los camiones, motocarros, furgonetas y demás vehículos que, por su configuración objetiva, estén dedicados al transporte de mercancías.
+a) Los camiones, motocarros, furgonetas y demás vehículos que, por su configuración objetiva, no puedan destinarse a otra finalidad que el transporte de mercancías.
 
-2. Los autobuses, microbuses y demás vehículos dedicados al transporte colectivo de viajeros, entendiendo por tales aquellos cuya capacidad exceda de nueve plazas incluida la del conductor.
+b) Los autobuses, microbuses y demás vehículos aptos para el transporte colectivo de viajeros que:
 
-3. Los vehículos mencionados en la letra anterior cuya capacidad sea igual o inferior a nueve plazas, siempre que su altura total sobre el suelo sea superior a 1.800 milímetros y no puedan ser calificados técnicamente como vehículos tipo «jeep».
+- Tengan una capacidad que exceda de 9 plazas, incluida la del conductor, o
 
-4. Los considerados como autotaxis o autoturismos por la legislación vigente.
+- Cualquiera que sea su capacidad, tengan una altura sobre el suelo superior a 1.800 milímetros, salvo que se trate de vehículos tipo "jeep" o todo terreno.
 
-5. Los que, objetivamente considerados, sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica cuyos modelos de serie hubiesen sido debidamente homologados por la Consejería de Economía y Hacienda.
+c) Los furgones y furgonetas de uso múltiple, cuya altura total sobre el suelo sea superior a 1.800 milímetros y no sean vehículos tipo "jeep" o todo terreno.
 
-6. Los vehículos tipo «jeep» cuyos modelos de serie, por estar considerados de aplicación industrial, comercial o agrícola, hubiesen sido debidamente homologados por la Consejería de Economía y Hacienda, cuando su precio de venta al público no exceda de 2.500.000 pesetas.
+d) Los vehículos automóviles considerados como taxis, autotaxis o autoturismos por la legislación vigente.
 
-7. Los vehículos adquiridos por minusválidos para su uso exclusivo siempre que concurran los siguientes requisitos:
+e) Los que, objetivamente considerados, sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica, siempre que sus modelos de serie o los vehículos individualmente hubieran sido debidamente homologados por la Administración Tributaria Canaria. A estos efectos, se considerará que tienen exclusivamente alguna de estas aplicaciones los furgones y furgonetas de uso múltiple de cualquier altura siempre que dispongan únicamente de dos asientos para el conductor y el ayudante, en ningún caso posean asientos adicionales y el espacio destinado a la carga no goce de visibilidad lateral y sea superior al 50 por 100 del volumen interior.
 
-7.1 Que hayan transcurrido al menos cuatro años desde la adquisición de otro vehículo de análogas condiciones.
+f) Los vehículos tipo "jeep" cuyos modelos de serie, por estar considerados de aplicación industrial, comercial o agrícola hubiesen sido debidamente homologados por la Administración Tributaria Canaria, cuando su precio final de venta al público, excluidos el Impuesto General Indirecto Canario y el Impuesto Especial sobre Determinados Medios de Transporte, no exceda de 2.500.000 pesetas.
 
-No obstante, este requisito no se exigirá en supuestos de siniestro total de los vehículos, certificado por la compañía aseguradora.
+La homologación se realizará atendiendo a las características del vehículo en cuanto a su comportamiento en tracción, seguridad de vuelco y precio de venta al público. El precio final de venta al público será el de estos vehículos en el punto de entrega, en orden de marcha, con todas las opciones incorporadas de serie y certificado por el fabricante nacional o el representante legal debidamente autorizado por el fabricante extranjero.
 
-7.2 Que no sean objeto de una transmisión posterior por actos "ínter vivos" durante el plazo de cuatro años siguientes a la fecha de su adquisición.
+g) Los vehículos adquiridos por minusválidos, no contemplados en el anexo I, para su uso exclusivo siempre que concurran los siguientes requisitos:
+
+- Que hayan transcurrido al menos cuatro años desde la adquisición de otro vehículo en análogas condiciones.
+
+No obstante, este requisito no se exigirá en supuestos de siniestro total de los vehículos, certificado por la Compañía Aseguradora.
+
+- Que no sean objeto de una transmisión posterior por actos ínter vivos durante el plazo de cuatro años siguientes a la fecha de su adquisición.
 
 El incumplimiento de este requisito determinará la obligación, a cargo del beneficiario, de ingresar a la Hacienda Pública la diferencia entre la cuota que hubiese debido soportar por aplicación del tipo incrementado y la efectivamente soportada al efectuar la adquisición del vehículo.
 
-8. Los vehículos con potencia igual o inferior a 10 CV fiscales.
+La aplicación del tipo impositivo general requerirá el previo reconocimiento del derecho del adquirente en la forma que se determine reglamentariamente, previa certificación de la invalidez por el Instituto Nacional de Servicios Sociales.
 
-9. Los servicios de alquiler de automóviles de turismo prestados por empresas dedicadas habitual y exclusivamente a la realización de dichas actividades en las condiciones y con los requisitos que se determinen reglamentariamente.
+h) Los servicios de alquiler de automóviles de turismo prestados por empresas dedicadas habitual y exclusivamente a la realización de dichas actividades en las condiciones y con los requisitos siguientes:
 
-A efectos de lo dispuesto en el párrafo anterior no tendrán la consideración de contratos de alquiler de automóviles de turismo los de arrendamiento-venta y asimilados, ni los de arrendamiento con opción de compra.
+- Que no exista vinculación entre las partes que intervengan en las referidas operaciones, en los términos previstos en el número 3 del artículo 23 de la presente Ley.
 
-10. Vehículos de dos o tres ruedas cuya cilindrada sea igual o inferior a 50 centímetros cúbicos.
+- Que no exceda de tres meses el tiempo de alquiler de un mismo vehículo a una persona o entidad durante cada período de doce meses consecutivos.
 
-d) Remolques para vehículos de turismo.
+- Que, tratándose de alquiler de vehículos de turismo sin conductor, los servicios se presten con sujeción a las normas reguladoras de dicha actividad y por personas o entidades que cuenten con la preceptiva autorización administrativa.
 
-e) 1. Embarcaciones y buques de recreo o de deportes náuticos cuya eslora en cubierta sea igual o inferior a nueve metros, e igual o superior a cinco metros, accionados por motor.
+- Que los vehículos afectados a la actividad de alquiler no sean utilizados en la realización de otras actividades empresariales, que, en su caso, pudiera llevar a cabo el sujeto pasivo.
 
-2. Embarcaciones y buques de recreo o deportes náuticos que tengan más de nueve metros de eslora en cubierta, excepto las embarcaciones olímpicas que por su configuración solamente puedan ser accionadas a remo.
+A efectos de lo dispuesto en este número no tendrán la consideración de contratos de alquiler de automóviles de turismo los de arrendamiento-venta y asimilados, ni los de arrendamiento con opción de compra.
 
-f) Aviones, avionetas y demás aeronaves, provistas de motor mecánico, excepto:
+4.º Remolques para vehículos de turismo.
 
-1. Las aeronaves que, por sus características técnicas, sólo puedan destinarse a trabajos agrícolas o forestales o al traslado de enfermos o heridos.
+5.º Embarcaciones y buques de recreo o deportes náuticos que tengan más de nueve metros de eslora en cubierta, excepto:
 
-2. Las aeronaves cuyo peso máximo al despegue no exceda de 1.550 kilogramos, según certificado expedido por la Dirección General de Aviación Civil.
+a) Las embarcaciones olímpicas que por su configuración, solamente puedan ser accionadas a remo.
 
-3. Las adquiridas por escuelas reconocidas oficialmente por la Dirección General de Aviación Civil y destinadas exclusivamente a la educación y formación aeronáutica de pilotos o su reciclaje profesional.
+b) El arrendamiento de los buques de recreo o de deportes náuticos cuya eslora en cubierta no exceda de 15 metros, prestados por empresas dedicadas habitual y exclusivamente a la realización de dichas actividades.
 
-4. Las adquiridas por el Estado, Comunidades Autónomas, Corporaciones Locales o por empresas u organismos públicos.
+La excepción de esta letra b) quedará condicionada a las limitaciones y al cumplimiento de los requisitos establecidos para el alquiler de vehículos de turismo.
 
-5. Las adquiridas por empresas de navegación aérea, incluso en virtud de contratos de arrendamiento financiero.
+6.º Aviones, avionetas y demás aeronaves, provistas de motor mecánico, excepto:
 
-6. Las adquiridas por empresas para ser cedidas en arrendamiento financiero exclusivamente a empresas de navegación aérea.
+a) Las aeronaves que, por sus características técnicas, sólo puedan destinarse a trabajos agrícolas o forestales o al traslado de enfermos o heridos.
 
-g) Escopetas, incluso las de aire comprimido, y las demás armas largas de fuego, cuya contraprestación por unidad sea igual o superior a 45.000 pesetas.
+b) Las aeronaves cuyo peso máximo al despegue no exceda de 1.550 kilogramos, según certificado expedido por la Dirección General de Aviación Civil.
 
-h) Cartuchería para escopetas de caza y, en general, para las demás armas enumeradas en el apartado g) anterior, cuando su contraprestación por unidad sea superior a 17 pesetas.
+c) Las adquiridas por escuelas reconocidas oficialmente por la Dirección General de Aviación Civil y destinadas exclusivamente a la educación y formación aeronáutica de pilotos o su reciclaje profesional.
 
-i) 1. Las joyas y alhajas elaboradas total o parcialmente con oro, sin incorporación de platino, piedras preciosas, ni perlas naturales, cuya contraprestación por unidad no exceda de 100.000 pesetas, así como las monedas conmemorativas de curso legal y damasquinados, alhajas y objetos de plata, así como la bisutería fina que contenga plata, la bisutería fina que contenga plata, la bisutería ordinaria y las perlas de imitación.
+d) Las adquiridas por el Estado, Comunidades Autónomas, Corporaciones Locales o por empresas u organismos públicos.
 
-2. Joyas, alhajas, piedras preciosas, perlas naturales o cultivadas, objetos elaborados total o parcialmente con oro o platino, así como la bisutería fina que contengan piedras preciosas, perlas naturales o los referidos metales, aunque sea en forma de bañado o chapado.
+e) Las adquiridas por empresas de navegación aérea, incluso en virtud de contratos de arrendamiento financiero.
+
+f) Las adquiridas por empresas para ser cedidas en arrendamiento financiero exclusivamente a empresas de navegación aérea.
+
+7.º Escopetas, incluso las de aire comprimido, y las demás armas largas de fuego, cuya contraprestación por unidad sea igual o superior a 45.000 pesetas.
+
+8.º Cartuchería para escopetas de caza y, en general, para las demás armas enumeradas en el apartado anterior, cuando su contraprestación por unidad sea superior a 17 pesetas.
+
+9.º Joyas, alhajas, piedras preciosas y semipreciosas, perlas naturales, cultivadas y de imitación, objetos elaborados total o parcialmente con oro, plata o platino, las monedas conmemorativas de curso legal, los damasquinados y la bisutería.
 
 No se incluyen en el párrafo anterior:
 
-a) Los objetos que contengan oro o platino en forma de bañado o chapado con un espesor inferior a 35 micras.
+a) Los objetos de exclusiva aplicación industrial, clínica o científica.
 
-b) Los damasquinados.
+b) Los lingotes no preparados para su venta al público, chapas, láminas, varillas, chatarra, bandas, polvo y tubos que contengan oro o platino, siempre que todos ellos se adquieran por fabricantes, artesanos o protésicos para su transformación o por comerciantes mayoristas de dichos metales para su venta exclusiva a fabricantes, artesanos o protésicos.
 
-c) Los objetos de exclusiva aplicación industrial, clínica o científica.
-
-d) Los lingotes no preparados para su venta al público, chapas, láminas, varillas, chatarra, bandas, polvo y tubos que contengan oro o platino, siempre que todos ellos se adquieran por fabricantes, artesanos o protésicos para su transformación o por comerciantes mayoristas de dichos metales para su venta exclusiva a fabricantes, artesanos o protésicos.
-
-e) Las partes de productos o artículos manufacturados incompletos que se transfieran entre fabricantes para su transformación o elaboración posterior.
-
-f) Las joyas y alhajas elaboradas total o parcialmente con oro, sin incorporación de platino, piedras semipreciosas ni perlas naturales, cuya contraprestación por unidad no exceda de 100.000 pesetas, así como las monedas conmemorativas de curso legal.
+c) Las partes de productos o artículos manufacturados incompletos que se transfieran entre fabricantes para su transformación o elaboración posterior.
 
 A efectos de este impuesto se consideran piedras preciosas, exclusivamente, el diamante, el rubí, el zafiro, la esmeralda, el aguamarina, ópalo y la turquesa.
 
-j) Relojes de bolsillo, pulsera, sobremesa, pie, pared, etc., cuya contraprestación por unidad sea igual o superior a 20.000 pesetas.
+10.º Relojes de bolsillo, pulsera, sobremesa, pie, pared, etc., cuya contraprestación por unidad sea igual o superior a 20.000 pesetas.
 
-k) Toda clase de artículos de vidrio, cristal, loza, cerámica y porcelana que tengan finalidad artística o de adorno cuya contraprestación por unidad sea igual o superior a 10.000 pesetas.
+11.º Toda clase de artículos de vidrio, cristal, loza, cerámica y porcelana que tengan finalidad artística o de adorno cuya contraprestación por unidad sea igual o superior a 10.000 pesetas.
 
-l) Alfombras de nudo a mano en lana y las de piel.
+12.º Alfombras de nudo a mano en lana y las de piel.
 
-m) 1. Prendas de vestir o de adorno personal confeccionadas con pieles corrientes.
+13.º Prendas de vestir o de adorno personal confeccionadas con pieles. No se incluyen en este apartado los bolsos, carteras y objetos similares ni las prendas confeccionadas exclusivamente con retales o desperdicios.
 
-2. Prendas de vestir o de adorno personal confeccionadas con pieles de carácter suntuario, excepto las que lo sean exclusivamente con retales o desperdicios en los términos que reglamentariamente se establezcan.
+14.º Perfumes y extractos.
 
-n) Perfumes y extractos.
+15.º Producción, distribución y cesión de derechos de las películas cinematográficas para ser exhibidas en las salas "X", así como la exhibición de las mismas.
+
+> Se modifica por el art. 4 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
 
 > Se modifica por la disposición adicional 3 de la Ley 38/1992, de 28 de diciembre. Ref. BOE-A-1992-28741.
 
