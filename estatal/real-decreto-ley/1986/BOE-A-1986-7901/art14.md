@@ -1,11 +1,11 @@
 ## Art. 14.
 
-La estructura del activo de las Sociedades y Fondos de Capital-Riesgo será la siguiente:
+Las Sociedades y Fondos de Capital-Riesgo adecuarán su política de inversiones a los criterios expresamente establecidos en sus Estatutos o Reglamentos de Inversión, respectivamente.
 
-a) El 50 por 100, como mínimo, se materializará en acciones o participaciones de Sociedades que no coticen en el primer mercado de las Bolsas Oficiales de Comercio, sin que la participación directa o indirecta supere el 45 por 100 del capital social desembolsado de cada una de aquéllas.
+En todo caso deberán mantener, como mínimo, el 50 por 100 de su activo en acciones o participaciones en el capital de empresas de las señaladas en el artículo 12.1, sin que, con las condiciones que reglamentariamente se establezcan, puedan adquirir acciones o participaciones en el capital de empresas de otra naturaleza.
 
-b) Hasta completar un mínimo del 75 por 100 del activo en fórmulas de financiación ajena de las Sociedades participadas, con plazo mínimo de tres años, sin rebasar en ningún caso el 45 por 100 de los recursos ajenos de igual plazo obtenidos por cada una de las participadas.
+Reglamentariamente podrán establecerse limitaciones a la concentración del activo de las Sociedades y Fondos de Capital-Riesgo en una misma empresa o grupo de empresas.
 
-A efectos de lo dispuesto en las letras a) y b) serán de aplicación las normas generales sobre inversiones previstas en la normativa reguladora de las Instituciones de Inversión Colectiva.
+> Se modifica por el art. 8.2 del Real Decreto-Ley 5/1992, de 21 de julio. Ref. BOE-A-1992-17364.
 
 > Se modifica por la disposición adicional 3 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404.

@@ -6,16 +6,14 @@
 
 a) Deducción por dividendos del 100 por 100, cuando tales dividendos provengan de acciones que no reúnan los requisitos mínimos previstos en el artículo 32 del Reglamento de las Bolsas Oficiales de Comercio, y cualquiera que sea el grado de participación sobre la Entidad que distribuya los referidos rendimientos.
 
-b) Deducción de la cuota de acuerdo con lo establecido en el número 8 del artículo 26 de la Ley 61/1978, de 27 de diciembre, del Impuesto sobre Sociedades, con aplicación de la siguiente escala de coeficientes, según el año de enajenación computado desde el momento de la adquisición:
+b) Exención parcial de los incrementos de patrimonio que obtengan de la enajenación de acciones y participaciones en el capital de las empresas en que participen de acuerdo con la siguiente escala de coeficientes, según el año de enajenación computado desde el momento de la adquisición:
 
-I) Dentro de los tres primeros años, el 0,75.
+I. A partir del tercer año y hasta el sexto incluido, el 0,99.
 
-II) Dentro del cuarto y quinto años, el 0,99.
+II. Los años séptimo y octavo, el 0,80.
 
-III) Dentro del sexto, séptimo y octavo años, el 0,95.
+III. Los años noveno y décimo, el 0,50.
 
-IV) En el noveno año, el 0,75, y
+Los dos primeros años y a partir del undécimo no se aplicará exención.
 
-V) En el décimo año, el 0,50.
-
-A partir del décimo año no se aplicará deducción alguna.
+> Se modifica el apartado 2.b) por el art. 8.3 del Real Decreto-Ley 5/1992, de 21 de julio. Ref. BOE-A-1992-17364.
