@@ -12,7 +12,7 @@ Dos. El organismo autónomo Parques Nacionales asume las funciones que, de acuer
 
 4. Todas aquellas otras competencias, que hasta el momento correspondían a los organismos autónomos antes mencionados, no atribuidas por el presente Real Decreto a la Secretaría General de Desarrollo Rural y Conservación de la Naturaleza.
 
-Tres. La estructura del organismo autónomo Parques Nacionales estará constituida, además de por el Presidente y Vicepresidente, por un Director, con nivel orgánico de Subdirector general.
+Tres. (Derogado)
 
 Cuatro. El organismo autónomo Parques Nacionales se hará cargo de todos los bienes, derechos y obligaciones de los organismos autónomos Instituto Nacional de Reforma y Desarrollo Agrario (IRYDA) e Instituto Nacional de Conservación de la Naturaleza (ICONA) refundidos en él, a excepción de los inmuebles señalados en el anexo de este Real Decreto que pasan a integrarse en el patrimonio del Estado que los afecta al Ministerio de Agricultura, Pesca y Alimentación.
 
@@ -21,3 +21,5 @@ Los bienes necesarios para el desarrollo de las atribuciones que en materia de l
 Cinco. El Real Decreto 379/1977, de 21 de enero, modificado por los Reales Decretos 1773/1977, 424/1984 y 1422/1985, mantiene su vigencia, entendiendo que la consideración del medio propio del Instituto Nacional de Reforma y Desarrollo Agrario (IRYDA) y del Instituto Nacional para la Conservación de la Naturaleza (ICONA) se refiere, en lo sucesivo, a la Secretaría General de Desarrollo Rural y Conservación de la Naturaleza y al organismo autónomo Parques Nacionales, siendo de aplicación exclusivamente para las materias y actividades recogidas en los citados Reales Decretos y de acuerdo con los créditos presupuestarios disponibles. No obstante, quedará sin efecto lo dispuesto en el párrafo final del artículo 6.º del Real Decreto 379/1977 citado, que prevé la posibilidad de realizar anticipos de tesorería.
 
 Seis. Todos los convenios y contratos, actualmente vigentes, suscritos por los organismos autónomos Instituto Nacional para la Conservación de la Naturaleza (ICONA) e Instituto Nacional de Reforma y Desarrollo Agrario (IRYDA) permanecerán vigentes, considerándose subrogados por el Ministerio de Agricultura, Pesca y Alimentación o el organismo autónomo Parques Nacionales, de acuerdo con las atribuciones de competencias realizadas por el presente Real Decreto.
+
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto 1415/2000, de 21 de julio. Ref. BOE-A-2000-13865.
