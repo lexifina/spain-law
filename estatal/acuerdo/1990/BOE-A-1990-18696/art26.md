@@ -1,19 +1,13 @@
 ## Art. 26.
 
-1. Integrada en la Secretaría General existirá una Dirección de Servicios, desempeñada por un Letrado. El nombramiento y remoción del Letrado Director de Servicios corresponden al Presidente, previo acuerdo del Pleno adoptado a propuesta del Secretario general.
+1. El Presidente podrá designar de entre los Letrados, oído el Pleno, un Vicesecretario general a quien corresponderá:
 
-2. Bajo la dirección inmediata del Secretario general corresponde al Director de Servicios:
+a) La sustitución del Secretario general en casos de vacante, ausencia o enfermedad. De no ser ello posible, esta sustitución recaerá en el Letrado que designe el Presidente.
 
-a) La coordinación de los servicios y unidades administrativos y técnicos del Tribunal.
+b) El ejercicio por delegación de determinadas competencias de la Secretaría General, excluidas las definidas en los apartados "a", "c", en lo relativo al régimen disciplinario, "e", "f" e "i" del número 1 del artículo anterior. El acuerdo de delegación del Secretario general requerirá autorización previa del Presidente.
 
-b) La supervisión y coordinación de todo lo relacionado con la informatización del Tribunal.
+c) La asistencia y apoyo a la Presidencia y a la Secretaría General en el ejercicio de sus respectivas competencias y en el despacho ordinario de asuntos.
 
-c) La Presidencia de la Comisión de Informática Jurídica.
+2. Se designará por el Presidente un Letrado adscrito a la Secretaría General al que corresponderán aquellas tareas que, sin entrañar delegación, se le encomienden por el Secretario general.
 
-d) La dirección de la Oficina Auxiliar de Letrados, integrada por el personal que preste sus servicios a los Letrados del Tribunal.
-
-e) La asistencia al Secretario general en el despacho ordinario de asuntos.
-
-f) Cualesquiera otras tareas que, sin entrañar delegación, se le encomienden específicamente por el Secretario general.
-
-3. En caso de vacante, ausencia o enfermedad, el Secretario general será sustituido por el Letrado Director de Servicios, o en defecto de éste, por aquel otro Letrado que designare el Presidente.
+> Se modifica por el art. 1.4 del Acuerdo de 8 de septiembre de 1999. Ref. BOE-A-1999-19076.

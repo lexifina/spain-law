@@ -1,5 +1,5 @@
 ## Art. 38.
 
-1. Serán Vocales de la Comisión de Informática Jurídica cuatro Letrados nombrados por el Secretario general del Tribunal, uno de los cuales será el Letrado Jefe del Servicio de Biblioteca, Documentación y Tratamiento de la Doctrina Constitucional, y el Jefe de la Unidad de Informática.
+(Derogado)
 
-2. La Comisión se reunirá convocada por su Presidente. Podrá nombrar comisionados de su seno para el estudio y tratamiento de cuestiones especificas.
+> Se deroga por el art. 1.11 del Acuerdo de 8 de septiembre de 1999. Ref. BOE-A-1999-19076.

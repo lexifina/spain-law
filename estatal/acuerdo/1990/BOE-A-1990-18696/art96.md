@@ -6,6 +6,8 @@ Las retribuciones de los funcionarios a los que se refiere este título se orden
 
 2.º El complemento de destino será, para los funcionarios de la Administración de Justicia, el que corresponde a los funcionarios del Cuerpo respectivo que presten servicio en las Salas del Tribunal Supremo, y para los funcionarios de la Administración del Estado, el correspondiente a cada uno de los niveles asignados a los distintos grupos por el Pleno del Tribunal.
 
-3.º Existirá un complemento de especial dedicación e incompatibilidad cuya cuantía, para los funcionarios provenientes de la Administración de Justicia, se determinará mediante la aplicación de un porcentaje común, que fijará el Pleno, a la suma del sueldo y del complemento de destino. Para los funcionarios de la Administración del Estado, este complemento se cifrará en la diferencia entre la suma de lo que les corresponda percibir por los conceptos de sueldo y complemento de destino y la suma de lo que, por estos mismos conceptos y por el complemento de especial dedicación e incompatibilidad, corresponda a los funcionarios de la Administración de Justicia, en virtud de las equiparaciones que se establezcan.
+3.º Existirá un complemento de especial dedicación e incompatibilidad, para cuya determinación el Pleno atenderá al criterio de adecuar las retribuciones de los funcionarios provenientes de la Administración de Justicia y las de los que procedan de la Administración del Estado u otras Administraciones Públicas, en virtud de las equiparaciones que se establezcan.
 
 4.º El Pleno establecerá los complementos específicos que correspondan a puestos de trabajo determinados.
+
+> Se modifica el apartado 3 por el art. 1.15 del Acuerdo de 8 de septiembre de 1999. Ref. BOE-A-1999-19076.

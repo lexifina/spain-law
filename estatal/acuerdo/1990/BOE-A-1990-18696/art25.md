@@ -10,7 +10,7 @@ c) El gobierno y régimen disciplinario de todo el personal al servicio del Trib
 
 d) Proponer las bases de los concursos a que se refiere el articulo 14, g), de este Reglamento.
 
-e) Resolver sobre las peticiones de autorización para el ejercicio de funciones docentes o de investigación, cuando las mismas no hubieran de prolongarse durante más de siete días. En los demás supuestos, el Secretario general informará al Presidente sobre la solicitud formulada, a efectos de lo previsto en el artículo 2.º, g), de este Reglamento.
+e) Resolver sobre las peticiones de autorización para el ejercicio de funciones docentes o de investigación, cuando las mismas no hubieran de prolongarse durante más de siete días.
 
 f) La administración de los créditos para gastos del Presupuesto del Tribunal.
 
@@ -18,8 +18,10 @@ g) La autorización del gasto.
 
 h) La ordenación de los pagos.
 
-i) La recopilación, clasificación y publicación de la doctrina constitucional del Tribunal, sin perjuicio de lo dispuesto en el artículo 33, 2, b), de este Reglamento.
+i) La recopilación, clasificación y publicación de la doctrina constitucional del Tribunal, sin perjuicio de lo dispuesto en el artículo 34.2.a) de este Reglamento.
 
 2. El Secretario general podrá dictar instrucciones de régimen interior en materia de su competencia.
 
 3. El Secretario general deberá consultar o comunicar al Presidente los acuerdos relativos a aquellas materias previamente fijadas por el Presidente.
+
+> Se modifican los apartados 1.e) y 1.i) por el art. 1.2 y 3 del Acuerdo de 8 de septiembre de 1999. Ref. BOE-A-1999-19076.

@@ -8,10 +8,12 @@ a) Dirigir la Secretaria particular del Presidente.
 
 b) Organizar y custodiar los archivos deja Presidencia.
 
-c) Recopilar y procesar la información de carácter general que se considere de interés para uso de los miembros del Tribunal. A estos efectos, el Gabinete Técnico coordinará su labor con el Servicio de Biblioteca, Documentación y Tratamiento de la Doctrina Constitucional.
+c) Recopilar y procesar la información de carácter general que se considere de interés para uso de los miembros del Tribunal.
 
 d) Atender las relaciones del Tribunal con los medios de comunicación y disponer lo que corresponda cuando se recabe información sobre las funciones y actos del Tribunal.
 
 e) Impartir las instrucciones oportunas en orden al protocolo y cuidar de la organización de cuantos actos y visitas de carácter institucional tengan lugar en la sede del Tribunal.
 
 f) Cualesquiera otras tareas específicas que le sean encomendadas por el Presidente.
+
+> Se modifica el apartado 2.c) por el art. 1.1 del Acuerdo de 8 de septiembre de 1999. Ref. BOE-A-1999-19076.
