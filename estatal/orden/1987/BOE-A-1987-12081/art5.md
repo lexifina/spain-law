@@ -6,13 +6,21 @@
 
 3. Para obtener la condición de Entidad gestora será necesario pertenecer a alguna de las siguientes categorías de Entidades:
 
-a) Bancos privados, incluido el Exterior de España.
+a) Entidades Oficiales de Crédito.
 
-b) Cajas de Ahorros y Caja Postal de Ahorros.
+b) Bancos privados, incluido el Exterior de España.
 
-c) Sociedades mediadoras en el mercado de dinero.
+c) Cajas de Ahorros Confederadas.
 
-d) Sociedades instrumentales de Agentes Mediadores Colegiados.
+d) Confederación Española de Cajas de Ahorros.
+
+e) Caja Postal de Ahorros.
+
+f) Cooperativas de Crédito.
+
+g) Sociedades mediadoras en el mercado de dinero.
+
+h) Sociedades instrumentales de Agentes Mediadores Colegiados.
 
 4. Para que las Entidades citadas en el número anterior puedan obtener la condición de Entidad gestora deberán reunir los siguientes requisitos:
 
@@ -31,3 +39,5 @@ b) Cumplir lo dispuesto en los artículos 6.º, 7.º, 8.º, 9.º, 10, 11 y en lo
 c) Someterse a la actividad de supervisión y control atribuida al Banco de España, como gestor de la Central de anotaciones y supervisor del sistema, facilitándole cuantas informaciones solicite al efecto.
 
 d) Cumplir fielmente las obligaciones de información y de retención fiscal que puedan afectarle en razón de su condición de Entidad gestora.
+
+> Se modifica el apartado 3 por el apartado 1 de la Orden de 31 de julio de 1987. Ref. BOE-A-1987-18101.
