@@ -1,0 +1,3 @@
+## Art. 73. Cuotas para conservación y fomento.
+
+Las Sociedades deportivas y los organismos sindicales de profesionalesde pesca fluvial que obtengan concesiones para el establecimiento de cotos fluviales, deberán incluir en sus presupuestos una cantidad proporcional a sus ingresos por cuotas de asociados o por liquidación anual de la explotación industrial, cantidad que se fijará por el Ministerio de Agricultura en las condiciones de cada concesión, sin que pueda pasar en ningún caso del 20 por 100 de los citados ingresos Esta cantidad será destinada por el Ministerio de Agricultura a la conservación y fomento de la riqueza acuícola.

@@ -1,0 +1,3 @@
+## Art. 15. Impurificación de las aguas.
+
+Todas cuantas instalaciones industriales existentes en la actualidad viertan sus residuos de fabricación o de explotación a las masas de agua en cantidad que pueda perjudicar a la fauna y flora acuáticas, bien por envenenamiento del medio o desoxigenación del mismo, o a causa de sedimentación mecánica en los fondos, con daño para la producción del alimento de los peces, estarán obligadas a adoptar a su costa, en plazo que se fijará para cada caso, aquellas medidas que anulen o contribuyan a aminorar los daños ocasionados a la riqueza fictiológica, con arreglo a propuesta del Servicio Piscícola, que deberá ser aprobada por la Dirección General de Montes, Caza y Pesca Fluvial.

@@ -1,0 +1,3 @@
+## Art. 70. Subrogación.
+
+La Directiva General del Ramo, después de dar vista a la Sociedad a quien afecte, autorizará la subrogación de un organismo sindical de profesionales de pesca fluvial en los derechos y obligaciones dimanantes de una concesión otorgada a una Sociedad deportiva, por razones de mayor utilidad y siempre dentro de las normas reglamentarias establecidas para los organismos sindicales de profesionales de pesca fluvial; a los miembros de la Sociedad deportiva que lo deseen se le darán facilidades para verificar los aprovechamientos con los del organismo sindical de profesionales de pesca fluvial, en sujeción a las normas que se dicten en el pliego de condiciones correspondiente a la nueva modalidad.
