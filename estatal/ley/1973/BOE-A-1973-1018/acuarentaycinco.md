@@ -1,0 +1,3 @@
+## Artículo cuarenta y cinco.
+
+Los permisos de investigación se concederán por el plazo que se solicite, que no podrá ser superior a tres años. Dicho plazo podrá ser prorrogado por tres años por las Delegaciones Provinciales del Ministerio de Industria y, excepcionalmente, para sucesivos períodos por la Dirección General de Minas, teniendo en cuenta la solvencia técnica y económica que acredite el titular peticionario; la amplitud y características de los trabajos programados; el contexto geográfico, geológico y metalogenético del terreno solicitado, así como los trabajos desarrollados, las inversiones realizadas, los resultados obtenidos y las garantías que siga ofreciendo el titular peticionario.

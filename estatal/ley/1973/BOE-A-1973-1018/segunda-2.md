@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+Las minas adquiridas por cualquier título legal que originariamente no haya sido el de concesión minera otorgada con arreglo a la legislación vigente en su momento, se regularán conforme a lo establecido en esta Ley, sin perjuicio de los derechos que, por constar expresamente en tales títulos, deben considerarse subsistentes, como inseparables de la naturaleza contractual o legal de los mismos. El incumplimiento de los preceptos de esta Ley que les afectaran o de las condiciones impuestas en el título originario de adquisición dará lugar, según los casos, a la caducidad del derecho a la explotación o a la expropiación forzosa de dichas minas.

@@ -1,0 +1,11 @@
+## Artículo treinta y cuatro.
+
+Uno. Cualquier persona natural o jurídica que reúna las condiciones exigidas en el Título VIII podrá obtener autorización para utilizar una estructura subterránea. Con este fin deberá presentar la solicitud correspondiente en la Delegación Provincial del Ministerio de Industria, aportando, además de los documentos que señale el Reglamento de esta Ley, un proyecto que justifique la conveniencia de dicha utilización, así como la designación del perímetro de protección que se considere necesario.
+
+Dos. Si la Delegación estima insuficientemente conocida la estructura, podrá autorizar al peticionario para que realice los trabajos o labores necesarias para el reconocimiento de la misma dentro de un plazo no superior a dos años y con arreglo a un proyecto que ella misma aceptará o, en otro caso, hará que se modifique. Terminado el reconocimiento previo o expirado el plazo concedido, el peticionario deberá presentar en los seis meses siguientes el proyecto de utilización de la estructura.
+
+Tres. Determinado sobre el terreno el perímetro de protección, la Delegación Provincial comprobará la conveniencia de la utilización solicitada, elevando el expediente, previa información pública, con la propuesta que proceda, a la Dirección General de Minas, que, con los informes del Instituto Geológico y Minero, del Consejo Superior del Ministerio de Industria y de la Comisión Interministerial del Medio Ambiente, autorizará, en su caso, la utilización por un plazo inicial adecuado al proyecto y a la estructura y prorrogable por uno o más períodos hasta un máximo de noventa años. Podrá imponer las condiciones que estime oportunas dentro de una racional utilización y exigir al peticionario la constitución de una fianza en la forma y plazo que fije el Reglamento de esta Ley.
+
+Cuatro. La estructura se considerará recurso extinguido, quedando sin efecto la autorización de su aprovechamiento, al agotarse la capacidad de almacenamiento, si se usa para residuos, o por variar las condiciones que la definen como tal estructura subterránea.
+
+Cinco. El Gobierno podrá declarar no utilizables determinadas estructuras por razones de interés público, a propuesta conjunta del Departamento o Departamentos interesados y del de Industria.

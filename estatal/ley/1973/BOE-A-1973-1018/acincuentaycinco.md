@@ -1,0 +1,3 @@
+## Artículo cincuenta y cinco.
+
+Las solicitudes de permisos de investigación en terrenos afectados por alguna autorización de explotación de recursos de las Secciones A) o B), serán tramitadas con arreglo a las normas establecidas en los artículos precedentes, debiendo determinarse además si son compatibles o no los trabajos respectivos y, en el segundo caso, cuáles son los de mayor interés o utilidad pública. Si prevalecen las explotaciones referidas, no se concederá la facultad de ocupación de los terrenos comprendidos dentro de su perímetro para efectuar trabajos correspondientes a permisos de investigación.

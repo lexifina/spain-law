@@ -1,0 +1,3 @@
+## Artículo ciento veinte.
+
+Cuando ante los Tribunales pendiera procedimiento entre el titular o poseedor de un derecho minero y un tercero que lo pretenda, conservará éste el que pueda corresponderle en caso de sentencia a su favor, aun cuando el primero hubiese hecho dejación de sus derechos a la autorización, permiso o concesión o dado lugar a la declaración de caducidad de los mismos, siempre que estos hechos se hayan producido con posterioridad a la demanda judicial, acto de conciliación o requerimiento notarial. A estos efectos será precisa la comunicación formal de la pretensión del demandante a las Delegaciones Provinciales de Industria.

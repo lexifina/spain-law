@@ -1,0 +1,7 @@
+## Artículo setenta y cuatro.
+
+Uno. Los titulares de concesiones de explotación notificarán a la Delegación Provincial del Ministerio de Industria cualquier captación de aguas que realicen como consecuencia del desarrollo de sus trabajos, pudiendo utilizar con fines mineros las aguas subterráneas que alumbren, salvo que por pertenecer a la Sección B) sean consideradas por la Administración como de mejor utilidad para otros fines. Asimismo podrán utilizar para otros usos las aguas sobrantes, ponerlas a disposición del Estado o verterlas a los cauces públicos, previas las autorizaciones que procedan, con atención especial a la protección del medio ambiente.
+
+Dos. Si las labores proyectadas pudieran afectar al régimen de manantiales y alumbramientos de aguas de cualquier naturaleza, la Delegación Provincial, oídos los Organismos competentes, condicionará la aprobación de las mismas al cumplimiento de prescripciones especiales que garanticen la conservación de aquéllos y exigirá, en su caso, la fianza que reglamentariamente proceda.
+
+Tres. Cuando se hubieran cortado aguas que alimenten manantiales, alumbramientos o aprovechamientos preexistentes de cualquier naturaleza, debidamente legalizados, o se perjudicaran los acuíferos, los titulares de la concesión estarán obligados a reponer en cantidad y calidad las aguas afectadas y, en todo caso, a abonar las correspondientes indemnizaciones por los daños y perjuicios causados, con independencia de la responsabilidad penal en que hubieran podido incurrir.

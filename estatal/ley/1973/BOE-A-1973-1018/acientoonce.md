@@ -1,0 +1,5 @@
+## Artículo ciento once.
+
+Uno. Si se declarase obligatoria la formación del coto, los interesados habrán de constituir, en el plazo de seis meses a partir del acuerdo de constitución, un consorcio de aprovechamiento del mismo, que se regirá por los Estatutos aprobados por todos los titulares de derechos mineros y, a falta de acuerdo, por lo que decida la Dirección General de Minas después de oír a los interesados. Dicho consorcio llevará la administración y dirección de la Empresa.
+
+Dos. El transcurso del plazo fijado en el párrafo anterior sin dar cumplimiento a las obligaciones señaladas sobre la constitución del consorcio, llevará automáticamente consigo la imposición de multas en la cuantía y forma que determinará el Reglamento de esta Ley, con un límite máximo de 100.000 pesetas. Con el acuerdo de sanción se dará un nuevo plazo, no superior a tres meses, para constituir el consorcio, y transcurrido el nuevo término sin el debido cumplimiento, se incoará por el Ministerio de Industria el expediente de caducidad de las autorizaciones o concesiones cuyos titulares hubiesen incurrido en desobediencia.
