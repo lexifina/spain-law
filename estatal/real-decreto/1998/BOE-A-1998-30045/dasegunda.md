@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Interpretación de menciones.
+
+Las menciones que se hacen del Real Decreto 1462/1986, en los Reales Decretos de delimitación de las zonas de promoción económica y de zona promocionable, previstos en la Ley 50/1985, de 27 de diciembre, de incentivos regionales para la corrección de desequilibrios económicos interterritoriales, en lo relativo a los criterios sectoriales para establecer qué industrias agroalimentarias, de acuicultura o de transformación y conserva de productos pesqueros pueden ser consideradas como promocionables, deberán entenderse referidas al presente Real Decreto, para las solicitudes de ayudas presentadas a partir de la entrada en vigor del mismo.
