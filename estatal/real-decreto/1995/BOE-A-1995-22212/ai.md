@@ -19,9 +19,11 @@
 | Mantenimiento de Vehículos Autopropulsados. | Carrocería. Electromecánica de Vehículos. Automoción. Mantenimiento Aeromecánico. Mantenimiento de Aviónica. |
 | Mantenimiento y Servicios a la Producción. | Instalación y Mantenimiento Electromecánico y Conducción de Líneas. Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor. Mantenimiento Ferroviario. Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención. Mantenimiento de Equipo Industrial. Mantenimiento y Montaje de Instalaciones de Edificio y Proceso. |
 | Química. | Laboratorio. Operaciones de Fabricación de Productos Farmacéuticos. Operaciones de Proceso de Pasta y Papel. Operaciones de Proceso en Planta Química. Operaciones de Transformación de Plásticos y Caucho. Análisis y Control. Fabricación de Productos Farmacéuticos y Afines. Industrias de Proceso de Pasta y Papel. Industrias de Proceso Químico. Plásticos y Caucho. Química Ambiental. |
-| Sanidad. | Cuidados Auxiliares de Enfermería. Farmacia. Anatomía Patológica y Citología. Dietética. Documentación Sanitaria. Higiene Bucodental. Imagen para el Diagnóstico. Laboratorio de Diagnóstico Clínico. Ortoprotésica. Prótesis Dentales. Radioterapia. Salud Ambiental. |
+| Sanidad. | Cuidados Auxiliares de Enfermería. Farmacia. Anatomía Patológica y Citología. Dietética. Documentación Sanitaria. Higiene Bucodental. Imagen para el Diagnóstico. Laboratorio de Diagnóstico Clínico. Ortoprotésica. Prótesis Dentales. Radioterapia. Salud Ambiental. Audioprótesis. |
 | Servicios Socioculturales y a la Comunidad. | Animación Sociocultural. Educación Infantil. Interpretación de la Lengua de Signos. Integración Social. |
 | Textil, Confección y Piel. | Calzado y Marroquinería. Confección. Operaciones de Ennoblecimiento Textil. Producción de Hilatura y Tejeduría de Calada. Producción de Tejidos de Punto. Curtidos. Patronaje. Procesos de Confección Industrial. Procesos de Ennoblecimiento Textil. Procesos Textiles de Hilatura y Tejeduría de Calada. Procesos Textiles de Tejeduría de Punto. |
 | Vidrio y Cerámica. | Operaciones de fabricación de productos cerámicos. Operaciones de fabricación de vidrio y transformados. Fabricación y transformación de productos de vidrio. Desarrollo y fabricación de productos cerámicos. |
+
+> Se modifica por la disposición adicional 2.2 del Real Decreto 62/2001, de 26 de enero. Ref. BOE-A-2001-3128.
 
 > Se modifica por la disposición adicional 2 del Real Decreto 274/2000, de 25 de febrero. Ref. BOE-A-2000-4822.

@@ -282,6 +282,7 @@
 | Ortodoncia. | Prótesis dentales. |
 | Fundamentos y técnicas de tratamientos de braquiterapia. | Radioterapia. |
 | Fundamentos y técnicas de tratamientos de teleterapia. | Radioterapia. |
+| Acústica. | Audioprótesis. |
 | Procesos sanitarios. | Promoción de la salud y apoyo psicológico al paciente. | Cuidados auxiliares de enfermería. |
 | Operaciones administrativas y documentación sanitaria. | Cuidados auxiliares de enfermería. |
 | Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica y citología. | Anatomía patológica y citología. |
@@ -686,6 +687,10 @@
 |  | Relaciones en el entorno de trabajo. | Mantenimiento y montaje de instalaciones de edificio y proceso. |
 |  | Organización y gestión de una pequeña empresa de actividades de tiempo libre y socioeducativas. | Animación Turística. |
 |  | Formación y orientación laboral. | Animación Turística. |
+|  | Administración y gestión de un gabinete audioprotésico. | Audioprótesis. |
+|  | Formación y orientación laboral. |  |
+
+> Se modifica por la disposición adicional 2.2 del Real Decreto 62/2001, de 26 de enero. Ref. BOE-A-2001-3128.
 
 > Se modifica por la disposición adicional 2 del Real Decreto 274/2000, de 25 de febrero. Ref. BOE-A-2000-4822.
 

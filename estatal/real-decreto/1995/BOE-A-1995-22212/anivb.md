@@ -32,6 +32,7 @@
 |  | Sistemas electrónicos de potencia. | Sistemas de regulación control automáticos. |
 |  | Montaje y mantenimiento eléctrico/electrónico. | Mantenimiento ferroviario. |
 |  | Montaje y mantenimiento de los sistemas eléctrico y electrónico. | Mantenimiento de equipo industrial. |
+|  | Electrónica aplicada a audioprótesis. | Audioprótesis. |
 | Estética. | Fabricación de prótesis para caracterización. | Caracterización. |
 |  | Maquillaje de caracterización. | Caracterización. |
 |  | Maquillaje con efectos especiales. | Caracterización. |
@@ -242,6 +243,7 @@
 |  | Prótesis fija. | Prótesis dentales. |
 |  | Prótesis parcial removible metálica. | Prótesis dentales. |
 |  | Prótesis removible de resina. | Prótesis dentales. |
+| Procedimientos diagnósticos clínicos y productos ortoprotésicos. | Características anatomosensoriales auditivas. | Audioprótesis. |
 | Procedimientos sanitarios y asistenciales. | Técnicas de ayuda odontológica/estomatológica. | Cuidados auxiliares de enfermería. |
 |  | Técnicas básicas de enfermería. | Cuidados auxiliares de enfermería. |
 |  | Higiene del medio hospitalario y limpieza de material. | Cuidados auxiliares de enfermería. |
@@ -360,5 +362,7 @@
 |  | Fotografía macro y microscópica. | Anatomía patológica y citología. |
 |  | Realización en multimedia. | Realización de audiovisuales y espectáculos. |
 |  | Grabaciones musicales. | Sonido. |
+
+> Se modifica por la disposición adicional 2.2 del Real Decreto 62/2001, de 26 de enero. Ref. BOE-A-2001-3128.
 
 > Se modifica por la disposición adicional 8 y el Anexo VIII.b) del Real Decreto 777/1998, de 30 de abril. Ref. BOE-A-1998-10720.
