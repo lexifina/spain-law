@@ -1,11 +1,9 @@
-## Artículo treinta y nueve.
+## Artículo 39.
 
-Uno. Corresponde al Consejo de Gobierno la elaboración del presupuesto de la Comunidad Autónoma y a la Diputación General su examen, enmienda, aprobación y control.
+Corresponde al Gobierno de la Comunidad Autónoma:
 
-Dos. El Consejo de Gobierno presentara el proyecto de presupuesto a la Diputación General antes del último trimestre del año.
+1. Ejercer en su territorio todas las facultades que las Leyes reguladoras del Poder Judicial reconozcan o atribuyan al Gobierno de la Nación.
 
-Tres. El Presupuesto tendrá carácter anual, incluirá la totalidad de los gastos e ingresos de los organismos y entidades integrantes de la Comunidad Autónoma, y en el se consignara el importe de los beneficios fiscales que afecten a tributos atribuidos a la Comunidad Autónoma.
+2. Proponer al Parlamento de La Rioja la delimitación de las demarcaciones territoriales de los órganos jurisdiccionales en la misma, de acuerdo con la Ley Orgánica del Poder Judicial y teniendo en cuenta los límites de los actuales partidos judiciales y las características geográficas, históricas y de población.
 
-Cuatro. Si el presupuesto no se aprobara antes del primer día del ejercicio fiscal correspondiente, se considerará prorrogado el del ejercicio anterior hasta la aprobación del nuevo.
-
-Cinco. El presupuesto tendrá carácter de ley y en él no se podrán crear nuevos tributos. Podrá, sin embargo, modificar los existentes cuando una Ley Tributaria sustantiva así lo prevea.
+> Se modifica por el art. 1.36 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

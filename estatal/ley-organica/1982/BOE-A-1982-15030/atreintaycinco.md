@@ -1,21 +1,9 @@
 ## Artículo 35.
 
-Uno. La Comunidad Autónoma regulara por sus órganos competentes, según lo establecido en el presente Estatuto y normas que lo desarrollen, las siguientes materias:
+Uno. El Tribunal Superior de Justicia de La Rioja, que tendrá su sede en Logroño, es el órgano jurisdiccional de la Comunidad Autónoma en el que se agotarán las sucesivas instancias procesales en los términos del artículo 152 de la Constitución y de acuerdo con la Ley Orgánica del Poder Judicial y con el presente Estatuto.
 
-a) La elaboración, examen, aprobación y control de sus presupuestos.
+Dos. El Presidente del Tribunal Superior de Justicia de La Rioja será nombrado por el Rey a propuesta del Consejo General del Poder Judicial.
 
-b) El establecimiento, modificación y supresión de sus propios impuestos, tasas y contribuciones especiales, así como de los elementos directamente determinantes de la deuda tributaria, inclusive exenciones y bonificaciones que les afecten.
+Tres. El Presidente de la Comunidad Autónoma ordenará la publicación del nombramiento en el "Boletín Oficial de La Rioja".
 
-c) El establecimiento, modificación y supresión de los recargos sobre impuestos estatales.
-
-d) La emisión de deuda pública y las operaciones de crédito, de acuerdo con lo establecido en el artículo catorce de la Ley Orgánica de Financiación de las Comunidades Autónomas.
-
-e) El régimen jurídico de su patrimonio en el marco de la legislación básica del Estado.
-
-f) Los reglamentos generales de sus propios impuestos.
-
-g) Las normas reglamentarias precisas para gestionar los impuestos estatales cedidos de acuerdo con las especificaciones de dicha cesión.
-
-h) Las demás funciones y competencias que le atribuyan las Leyes.
-
-Dos. Deberán adoptar necesariamente la forma de ley las cuestiones referidas en los apartados b), c), d) y e) y aquellas otras que así lo requiera el ordenamiento jurídico.
+> Se modifica por el art. 1.32 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

@@ -1,23 +1,9 @@
 ## Artículo 34.
 
-Los recursos de la Comunidad Autónoma estarán constituidos por:
+En relación con la Administración de Justicia, exceptuada la militar, corresponde a la Comunidad Autónoma de La Rioja:
 
-a) Los ingresos procedentes de su patrimonio y demás de Derecho privado.
+1. Ejercer todas las facultades que las Leyes Orgánicas del Poder Judicial reconozcan o atribuyan al Gobierno del Estado.
 
-b) Los rendimientos de los propios impuestos, tasas y contribuciones especiales.
+2. Fijar las demarcaciones territoriales de los órganos jurisdiccionales, y la localización de su capitalidad, de acuerdo con la Ley Orgánica del Poder Judicial.
 
-c) Los rendimientos de los tributos cedidos total o parcialmente por el Estado y que se especifican en la disposición adicional primera, así como aquellos cuya cesión sea aprobada por las Cortes Generales.
-
-d) Los recargos que pudieran establecerse sobre los impuestos del Estado.
-
-e) Las participaciones en los ingresos del Estado, salvo los recaudados mediante monopolios fiscales.
-
-f) El producto de operaciones de crédito y emisión de deuda.
-
-g) El producto de multas y sanciones en el ámbito de su competencia.
-
-h) Asignaciones con cargo a los Presupuestos Generales del Estado.
-
-i) Transferencias del Fondo de Compensación Interterritorial.
-
-j) Cuantos otros recursos se le atribuyan de acuerdo con las Leyes.
+> Se modifica por el art. 1.31 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

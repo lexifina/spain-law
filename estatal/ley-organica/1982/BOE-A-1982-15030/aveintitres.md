@@ -1,13 +1,11 @@
 ## Artículo 23.
 
-Uno. El Consejo de Gobierno, como órgano colegiado, ejerce las funciones de gobierno y administración de la Comunidad Autónoma, correspondiéndole en particular:
+Uno. El Presidente dirige y coordina la actuación del Gobierno, designa y separa a los Consejeros y ostenta la más alta representación de la Comunidad Autónoma de La Rioja y la ordinaria del Estado en este territorio.
 
-a) El ejercicio de la potestad reglamentaria no reservada por este Estatuto a la Diputación General.
+Dos. El Presidente de la Comunidad Autónoma será elegido por el Parlamento de entre sus miembros y nombrado por el Rey. El Presidente del Parlamento, previa consulta con las fuerzas políticas representadas en el mismo, propondrá un candidato a Presidente de la Comunidad Autónoma de La Rioja. El candidato presentará su programa al Parlamento. Para ser elegido, el candidato deberá, en primera votación, obtener mayoría absoluta; de no obtenerla se procederá a una nueva votación pasadas cuarenta y ocho horas, y la confianza se entenderá otorgada si obtuviera mayoría simple. Caso de no conseguirse dicha mayoría se tramitarán sucesivas propuestas en la forma prevista anteriormente. Si transcurrido el plazo de dos meses a partir de la primera votación de investidura ningún candidato hubiere obtenido la confianza del Parlamento, éste quedará automáticamente disuelto, procediéndose dentro de los sesenta días siguientes a la celebración de nuevas elecciones para el mismo. El mandato del nuevo Parlamento durará, en todo caso, hasta la fecha en que debiera concluir el del primero.
 
-b) Interponer recursos ante el Tribunal Constitucional y personarse en las actuaciones en que así proceda.
+Tres. El Presidente cesa por dimisión, fallecimiento, incapacidad, disolución del Parlamento, pérdida de la confianza otorgada o censura del Parlamento.
 
-c) Ejecutar, en general, cuantas funciones se deriven del ordenamiento jurídico estatal y regional.
+Cuatro. Una Ley de la Comunidad Autónoma regulará el estatuto personal del Presidente, sus atribuciones y responsabilidad política.
 
-Dos. El Consejo de Gobierno se compone del Presidente de la Comunidad Autónoma y los Consejeros, que no requerirán la condición de Diputados regionales y que serán nombrados y cesados por aquel, quien también determinará su número, que, en todo caso, no podrá exceder de diez.
-
-Tres. Una Ley de la Comunidad Autónoma regulara el estatuto personal de los miembros del Consejo de Gobierno y sus relaciones con los demás órganos de la Comunidad Autónoma dentro de las normas del presente Estatuto y de la Constitución.
+> Se modifica por el art. 1.21 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

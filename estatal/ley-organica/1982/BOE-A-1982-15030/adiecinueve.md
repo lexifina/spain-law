@@ -1,19 +1,39 @@
 ## Artículo 19.
 
-Uno. La Diputación General elegirá de entre sus miembros si un Presidente y a la Mesa.
+Uno. El Parlamento, de conformidad con la Constitución, el presente Estatuto y el resto del ordenamiento jurídico, ejerce las siguientes funciones:
 
-Dos. El Reglamento de la Diputación General, que deberá ser aprobado por mayoría absoluta de sus miembros, regulará su composición, régimen y funcionamiento.
+a) La potestad legislativa de la Comunidad Autónoma en el ámbito de su competencia.
 
-Tres. La Diputación General fijará su propio presupuesto.
+b) El desarrollo de la legislación del Estado en aquellas materias que así le corresponda.
 
-Cuatro. La Diputación General funcionara en Pleno y en Comisiones.
+c) Elegir, de entre sus miembros, al Presidente de la Comunidad Autónoma.
 
-Cinco. Se reunirá durante cuatro, meses al año, en dos períodos de sesiones, comprendidos entre septiembre y diciembre el primero, y entre febrero y junio, el segundo.
+d) Aprobar los presupuestos de la Comunidad Autónoma y la rendición anual de cuentas, sin perjuicio del control que corresponda al Tribunal de Cuentas, con arreglo al apartado d) del artículo 153 de la Constitución.
 
-A petición del Consejo de Gobierno, de la Diputación Permanente o de la cuarta parte de los miembros de la Diputación General, esta podrá reunirse en sesión extraordinaria, que se clausurará al agotar el orden del día determinado para el que fue convocada.
+e) Impulsar y controlar la acción del Gobierno.
 
-Seis. En los períodos en que la Diputación General no este reunida o cuando hubiere expirado su mandato, habrá una Diputación Permanente, cuyo procedimiento de elección, composición y funciones determinará el Reglamento.
+f) Aprobar los planes de fomento de interés general de la Comunidad Autónoma.
 
-Siete. Para la deliberación y adopción de acuerdos la Diputación General deberá reunirse reglamentariamente y con asistencia de la mitad más uno de sus miembros. Los acuerdos se adoptarán por mayoría de los presentes si el Estatuto, las Leyes o el Reglamento no exigen otro tipo de mayoría más cualificada.
+g) Aprobar la ordenación comarcal y la alteración de los términos municipales existentes en La Rioja, sus denominaciones y capitalidad, de conformidad con lo previsto en el artículo veintisiete.
 
-Ocho. El voto es personal e indelegable.
+h) Autorizar las transferencias de competencias de la Comunidad Autónoma en favor de Entes Locales incluidos en su territorio.
+
+i) Ejercer la iniciativa legislativa y de reforma de la Constitución, según lo dispuesto en los artículos 87 y 166 de la misma.
+
+j) Interponer recursos ante el Tribunal Constitucional y personarse ante el mismo en las actuaciones en que así proceda.
+
+k) Establecer y exigir tributos, autorizar, mediante Ley, el recurso al crédito o la prestación de aval a corporaciones públicas, personas físicas o jurídicas.
+
+l) Designar para cada legislatura del Parlamento de La Rioja a los Senadores representantes de la Comunidad Autónoma, según lo previsto en el apartado 5 del artículo 69 de la Constitución, por el procedimiento determinado por el propio Parlamento. Los Senadores serán designados en proporción al número de miembros de los grupos políticos con representación en el Parlamento. Su mandato en el Senado estará vinculado a su condición de Diputados en el Parlamento Riojano.
+
+ll) Autorizar y aprobar los convenios a que se refiere el artículo catorce del presente Estatuto, de acuerdo con los procedimientos que en el mismo se establecen y supervisar su ejecución, por el procedimiento que el propio Parlamento determine.
+
+m) Colaborar con las Cortes Generales y con el Gobierno de la Nación en orden a lo dispuesto en el artículo 131 de la Constitución y en cuantos supuestos haya de suministrar datos aquél para la elaboración de proyectos de planificación.
+
+n) Ejercer, en general, cuantas competencias le sean atribuidas por la Constitución, por el presente Estatuto y por las Leyes del Estado y de La Rioja.
+
+Dos. El Parlamento de La Rioja tiene su sede en la ciudad de Logroño, pudiendo celebrar reuniones en otros lugares de La Rioja en la forma y supuestos que determine su propio Reglamento.
+
+Tres. El Parlamento de La Rioja podrá delegar su potestad legislativa en el Gobierno, en los términos del presente Estatuto y con iguales requisitos a los establecidos en los artículos 82, 83 y 84 de la Constitución.
+
+> Se modifica por el art. 1.17 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

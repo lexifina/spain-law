@@ -1,7 +1,9 @@
 ## Artículo 15.
 
-Uno. La Comunidad Autónoma de La Rioja podrá celebrar convenios con otras Comunidades Autónomas o Territorios de Régimen Foral para la gestión y prestación de los servicios propios de su competencia, de acuerdo con lo establecido en el artículo ciento cuarenta y cinco punto dos de la Constitución.
+Uno. Los órganos institucionales de la Comunidad Autónoma de La Rioja son el Parlamento, el Gobierno y su Presidente.
 
-Dos. Una vez aprobados los convenios, se comunicarán a las Cortes Generales y entrarán en vigor, a tenor de lo que en los mismos se establezca, transcurridos treinta días desde la recepción de la comunicación en las Cortes Generales, si éstas no manifestasen reparo.
+Dos. Las Leyes de la Comunidad Autónoma ordenarán su funcionamiento de acuerdo con la Constitución y el presente Estatuto.
 
-Tres. La Comunidad Autónoma de La Rioja podrá establecer también otros acuerdos de cooperación con Comunidades Autónomas o Territorios de Régimen Foral, previa autorización de las Cortes Generales.
+Tres. El Tribunal Superior de Justicia de La Rioja es el órgano jurisdiccional que, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, culmina la organización judicial en el territorio riojano.
+
+> Se modifica por el art. 1.13 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

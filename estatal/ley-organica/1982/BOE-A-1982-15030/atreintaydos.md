@@ -1,3 +1,5 @@
 ## Artículo 32.
 
-La Comunidad Autónoma de La Rioja contara para el desempeño de sus competencias y funciones con hacienda dominio público y patrimonio propios. Ejercerá la Autonomía financiera de acuerdo con la Constitución, el presente Estatuto, la Ley Orgánica de Financiación de las Comunidades Autónomas y demás normas de desarrollo.
+El control económico y presupuestario de la Comunidad Autónoma se ejercerá por el Tribunal de Cuentas conforme a lo dispuesto en los artículos 136 y 153.d) de la Constitución.
+
+> Se modifica por el art. 1.29 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

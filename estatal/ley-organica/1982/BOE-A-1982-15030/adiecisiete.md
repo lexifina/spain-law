@@ -1,35 +1,25 @@
 ## Artículo 17.
 
-Uno. La Diputación General, que representa al pueblo de La Rioja, es el órgano legislativo de la Comunidad Autónoma, que de conformidad con la Constitución, el presente Estatuto y el resto del ordenamiento jurídico, ejerce las siguientes funciones:
+Uno. El Parlamento será elegido por sufragio universal, libre, igual, directo y secreto. Una Ley electoral del Parlamento de La Rioja, que requerirá la mayoría de dos tercios de sus miembros para su aprobación, regulará el proceso de elecciones, así como las causas de inelegibilidad e incompatibilidad de los Diputados, su cese y sustitución, asegurando la proporcionalidad del sistema.
 
-a) La potestad legislativa de la Comunidad Autónoma en el ámbito de su competencia.
+Dos. Dicha Ley fijará también el número de Diputados que constituirán el Parlamento, con un mínimo de 32 y un máximo de 40.
 
-b) El desarrollo de la legislación del Estado en aquellas materias que así le corresponda.
+Tres. La circunscripción electoral será la Comunidad Autónoma de La Rioja.
 
-c) Elegir de entre sus miembros al Presidente de la Comunidad Autónoma y aprobar su programa.
+Cuatro. El Parlamento será elegido por un plazo de cuatro años, sin perjuicio de los casos de disolución anticipada. El mandato de los Diputados termina cuatro años después de su elección o el día de la disolución de la Cámara.
 
-d) Aprobar los presupuestos de la Comunidad Autónoma y la rendición anual de cuentas, sin perjuicio del control que corresponda al Tribunal de Cuentas con arreglo al artículo ciento cincuenta y tres, d), de la Constitución.
+Cinco. La convocatoria de elecciones se realizará por el Presidente de la Comunidad Autónoma, pudiendo coincidir con las elecciones locales.
 
-e) Aprobar los planes de fomento de interés general de la Comunidad Autónoma.
+Seis. El Presidente de la Comunidad Autónoma, previa deliberación del Gobierno y bajo su exclusiva responsabilidad, podrá acordar la disolución del Parlamento con anticipación al término natural de la legislatura.
 
-f) Aprobar la ordenación comarcal y la alteración de los términos municipales existentes en La Rioja, sus denominaciones y capitalidad.
+La disolución se acordará por Decreto, en el que se convocarán a su vez elecciones, conteniéndose en el mismo cuantos requisitos exija la legislación electoral aplicable.
 
-g) Autorizar las transferencias de competencias de la Comunidad Autónoma en favor de Entes Locales incluidos en su territorio.
+El Presidente no podrá acordar la disolución del Parlamento durante el primer período de sesiones de la legislatura, cuando reste menos de un año para su terminación ni cuando se encuentre en tramitación una moción de censura. Tampoco podrá acordar la disolución antes de que transcurra el plazo de un año desde la última disolución por este procedimiento. En ningún supuesto podrá el Presidente disolver el Parlamento cuando se encuentre convocado un proceso electoral estatal.
 
-h) Ejercer la iniciativa legislativa y de reforma de la Constitución, según lo dispuesto en los artículos ochenta y siete punto dos y ciento sesenta y seis de la misma.
+En todo caso, la nueva Cámara que resulte de la convocatoria electoral tendrá un mandato limitado por el término natural de la legislatura originaria.
 
-i) Interponer recursos ante el Tribunal Constitucional y personarse ante el misma en las actuaciones en que así proceda.
+Siete. Los miembros del Parlamento gozarán, aun después de haber cesado en su mandato, de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones. Durante su mandato no podrán ser detenidos ni retenidos por los actos delictivos cometidos en el territorio de La Rioja, sino en caso de flagrante delito, correspondiendo decidir, en todo caso, sobre su inculpación, prisión, procesamiento y juicio, al Tribunal Superior de Justicia de La Rioja. Fuera de dicho territorio la responsabilidad penal será exigible, en los mismos términos, ante la Sala de lo Penal del Tribunal Supremo.
 
-j) Autorizar, mediante ley, el recurso al crédito o la prestación de aval a Corporaciones públicas, personas físicas o jurídicas.
+Ocho. Los Diputados no estarán sujetos a mandato imperativo.
 
-k) Designar para cada legislatura de las Cortes Generales a los Senadores representantes de la Comunidad Autónoma de La Rioja, según lo previsto en el artículo sesenta y nueve punto cinco de la Constitución, por el procedimiento determinado por la propia Diputación General.
-
-l) Autorizar y aprobar los convenios a que se refiere el artículo catorce del presente Estatuto, de acuerdo con los procedimientos que en el mismo se establecen y supervisar su ejecución.
-
-m) Colaborar con las Cortes Generales y con el Gobierno de la Nación en orden a lo dispuesto en el artículo ciento treinta y uno de la Constitución y en cuantos supuestos haya de suministrar datos a aquel para la elaboración de proyectos de planificación.
-
-n) Ejercer, en general, cuantas competencias le sean atribuidas por la Constitución, por el presente Estatuto y por las Leyes del Estado y de La Rioja.
-
-Dos. La Diputación General de La Rioja es inviolable.
-
-Tres. La Diputación General podrá delegar su potestad legislativa en el Consejo de Gobierno, en los términos del presente Estatuto y con iguales requisitos a los establecidos en los artículos ochenta y dos, ochenta y tres y ochenta y cuatro de la Constitución. Igualmente podrá delegar, en su caso, su potestad de desarrollo legislativo en el Consejo de Gobierno, fijando las directrices, plazos y controles que considere pertinentes.
+> Se modifica por el art. 1.15 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

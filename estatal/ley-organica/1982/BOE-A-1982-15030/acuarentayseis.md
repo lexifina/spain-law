@@ -1,0 +1,5 @@
+## Artículo 46.
+
+A los efectos de concretar los ingresos de la Comunidad Autónoma de La Rioja, y de forma especial, la participación territorializada de La Rioja en los tributos generales que se determinen y las condiciones para la aprobación de recargos sobre tributos del sistema fiscal general, en el marco de lo dispuesto en el artículo 157.3 de la Constitución y en la legislación que lo desarrolle, la Administración General del Estado y la Comunidad Autónoma de La Rioja suscribirán un acuerdo bilateral que se formalizará en Comisión Mixta, que podrá ser revisado periódicamente de forma conjunta, el cual deberá tener en cuenta el esfuerzo fiscal de La Rioja y que atenderá singularmente los criterios de corresponsabilidad fiscal y solidaridad interterritorial, así como la corrección de los desequilibrios producidos en La Rioja por los efectos derivados de su situación limítrofe con otros territorios.
+
+> Se añade por el art. 1.43 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

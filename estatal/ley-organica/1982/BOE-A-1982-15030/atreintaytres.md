@@ -1,11 +1,9 @@
 ## Artículo 33.
 
-Uno. El patrimonio de la Comunidad Autónoma estará integrado por:
+Uno. La Administración de la Comunidad Autónoma y las Administraciones Locales ajustarán sus relaciones a los principios de información mutua, colaboración, coordinación y respeto a los ámbitos competenciales correspondientes determinados en el presente Estatuto y en la legislación básica del Estado.
 
-a) Los bienes y derechos pertenecientes a la Diputación Provincial de La Rioja en el momento de constituirse la Comunidad Autónoma.
+Dos. El Parlamento de La Rioja, en el marco de la legislación básica del Estado y mediante Ley, podrá regular aquellas materias relativas a la Administración Local que el presente Estatuto reconoce como de la competencia de la Comunidad Autónoma.
 
-b) Los bienes y derechos afectados a los servicios que le traspasen a la Comunidad Autónoma.
+Tres. La Comunidad Autónoma podrá transferir o delegar en las corporaciones locales, mediante Ley aprobada por mayoría absoluta, facultades correspondientes a materias de su competencia. Esta Ley preverá en cada caso la correspondiente transferencia de medios, así como la forma de dirección y control que se reserve la Comunidad.
 
-c) Los bienes y derechos que adquiera por cualquier título jurídico.
-
-Dos. La Comunidad Autónoma tiene capacidad para adquirir, poseer, administrar y enajenar los bienes que integran su patrimonio.
+> Se modifica por el art. 1.30 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

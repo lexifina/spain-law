@@ -1,9 +1,5 @@
 ## Artículo 37.
 
-Uno. El conocimiento de las distintas reclamaciones interpuestas contra los actos dictados por las respectivas Administraciones en materia tributaria, tanto si en ellas se suscitan cuestiones de hecho como de derecho, corresponderá:
+A instancia del Gobierno de la Comunidad Autónoma, el órgano estatal competente convocará los concursos y oposiciones para cubrir las plazas vacantes en la Comunidad Autónoma de Magistrados, Jueces, Secretarios Judiciales y restante personal al servicio de la Administración de Justicia de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial.
 
-a) Cuando se trate de tributos propios de la Comunidad Autónoma de La Rioja, a sus propios órganos económico-administrativos.
-
-b) Cuando se trate de tributos cedidos o de recargos establecidos sobre tributos del Estado, a los órganos económico-administrativos de éste.
-
-Dos. Las resoluciones de los órganos económico-administrativos, tanto del Estado como de la Comunidad Autónoma de La Rioja, podrán ser, en todo caso, objeto de recurso contencioso-administrativo en los términos establecidos en la normativa reguladora de esta jurisdicción.
+> Se modifica por el art. 1.34 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

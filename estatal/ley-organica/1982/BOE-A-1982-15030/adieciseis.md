@@ -1,5 +1,7 @@
 ## Artículo 16.
 
-Uno. Los órganos de la Comunidad Autónoma de La Rioja son la Diputación General, el Consejo de Gobierno y su Presidente.
+Uno. El Parlamento representa al pueblo de La Rioja, ejerce la potestad legislativa, aprueba los presupuestos y las cuentas de La Rioja, impulsa y controla la acción política y de Gobierno y ejerce las restantes competencias que le confiere la Constitución, este Estatuto y demás normas del ordenamiento jurídico.
 
-Dos. Las leyes de la Comunidad Autónoma ordenarán su funcionamiento de acuerdo con la Constitución y el presente Estatuto.
+Dos. El Parlamento es inviolable.
+
+> Se modifica por el art. 1.14 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

@@ -1,11 +1,15 @@
 ## Artículo 44.
 
-La Comunidad Autónoma de La Rioja podrá acordar su incorporación a otra limítrofe, con características históricas, culturales y económicas comunes, mediante el procedimiento siguiente:
+Uno. El patrimonio de la Comunidad Autónoma estará integrado por:
 
-a) La iniciativa corresponderá a la Diputación General de La Rioja, mediante decisión adoptada por mayoría de dos tercios de sus miembros.
+a) Los bienes y derechos pertenecientes a la Diputación Provincial de La Rioja en el momento de constituirse la Comunidad Autónoma.
 
-b) El acuerdo favorable deberá ser ratificado en el plazo de seis meses por un número no inferior a los dos tercios de los Ayuntamientos cuya población represente, al menos, la mayoría del censo electoral del territorio de la Comunidad Autónoma.
+b) Los bienes y derechos afectados a los servicios que se traspasen a la Comunidad Autónoma.
 
-c) La propuesta de incorporación deberá ser aprobada por la Comunidad Autónoma en la que deba integrarse, en la forma en que disponga su Estatuto de Autonomía.
+c) Los bienes y derechos que adquiera por cualquier título jurídico.
 
-d) La integración precisara, en todo caso, la aprobación de las Cortes Generales mediante Ley Orgánica.
+Dos. La Comunidad Autónoma tiene capacidad para adquirir, poseer, administrar y enajenar los bienes que integran su patrimonio.
+
+Tres. Una Ley del Parlamento de La Rioja regulará el régimen jurídico, así como la administración, defensa y conservación del Patrimonio de la Comunidad Autónoma.
+
+> Se modifica por el art. 1.41 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

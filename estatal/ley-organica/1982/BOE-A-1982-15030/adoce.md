@@ -1,7 +1,9 @@
 ## Artículo 12.
 
-Uno. Corresponde a la Comunidad Autónoma la competencia de desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27 de la Constitución y leyes orgánicas que conforme al apartado 1 del artículo 81 de la misma lo desarrollen y sin perjuicio de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 y de la alta inspección para su cumplimiento y garantía.
+La Comunidad Autónoma, previo acuerdo del Parlamento de La Rioja, adoptado por mayoría de dos tercios de sus miembros, podrá ampliar el ámbito de sus competencias en materias que no estén atribuidas en exclusiva al Estado, o que sólo estén atribuidas las bases o principios, según el artículo 149 de la Constitución. El acuerdo de asumir las nuevas competencias se someterá a las Cortes Generales para su aprobación mediante Ley Orgánica.
 
-Dos. Para garantizar una prestación homogénea y eficaz del servicio público de la educación que permita corregir las desigualdades o desequilibrios que puedan producirse, la Comunidad Autónoma facilitará a la Administración del Estado la información que ésta le solicite sobre el funcionamiento del sistema educativo en sus aspectos cualitativos y cuantitativos y colaborará con la Administración del Estado en las actuaciones de seguimiento y evaluación del sistema educativo nacional.
+Asimismo, podrá asumir competencias a través de los procedimientos establecidos en los números 1 y 2 del artículo 150 de la Constitución.
+
+> Se modifica por el art. 1.11 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
 
 > Se modifica por el art. único de la Ley Orgánica 3/1994, de 24 de marzo. Ref. BOE-A-1994-6942

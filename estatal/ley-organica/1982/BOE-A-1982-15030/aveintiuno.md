@@ -1,5 +1,7 @@
-## Artículo veintiuno.
+## Artículo 21.
 
-Uno. Las Leyes serán promulgadas en nombre del Rey por el Presidente de la Comunidad Autónoma, que ordenara su inmediata publicación en el «Boletín oficial de La Rioja» y en el «Boletín Oficial del Estado». El mismo sistema de publicación regirá para los Reglamentos que apruebe la Comunidad Autónoma respecto a las materias en que le corresponda el desarrollo de la legislación del Estado.
+Uno. Las Leyes serán promulgadas en nombre del Rey por el Presidente de la Comunidad Autónoma, que ordenará su publicación en un plazo máximo de quince días desde su aprobación en el "Boletín Oficial de La Rioja", así como en el "Boletín Oficial del Estado".
 
-Dos. Las Leyes y Reglamentos a que se refiere el párrafo anterior entrarán en vigor a los veinte días siguientes a su última publicación, salvo que la propia norma establezca otro plazo.
+Dos. Las Leyes y Reglamentos a que se refiere el párrafo anterior entrarán en vigor a los veinte días siguientes a su publicación en el "Boletín Oficial de La Rioja", salvo que la propia norma establezca otro plazo.
+
+> Se modifica por el art. 1.19 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339

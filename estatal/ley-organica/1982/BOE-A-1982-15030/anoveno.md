@@ -2,30 +2,34 @@
 
 En el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, corresponde a la Comunidad Autónoma de La Rioja el desarrollo legislativo y la ejecución en las siguientes materias:
 
-1. La alteración de términos municipales, su denominación y capitalidad, organización de mancomunidades, agrupación de municipios y creación de entidades infra y supramunicipales y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones Locales y cuya transferencia autorice la legislación sobre el régimen local.
+1. Protección del medio ambiente, normas adicionales de protección del medio ambiente y del paisaje. Espacios naturales protegidos. Protección de los ecosistemas.
 
-2. La ordenación y planificación de la actividad económica regional en el ejercicio de las competencias asumidas en el presente Estatuto.
+2. Régimen minero y energético.
 
-3. Las instituciones de crédito corporativo, público, territorial y Cajas de Ahorro.
+3. Defensa del consumidor y usuario, de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, las bases y coordinación general de la sanidad, en los términos de lo dispuesto en los artículos 38, 131 y en los números 11, 13 y 16 del apartado 1 del artículo 149 de la Constitución.
 
-4. Las vías pecuarias, montes, aprovechamientos forestales, pastos, régimen de las zonas de montaña y espacios naturales protegidos.
+4. La coordinación hospitalaria en general.
 
-5. La sanidad e higiene.
+5. Sanidad e higiene.
 
-6. La investigación en materias de interés para la Comunidad Autónoma de La Rioja.
+6. Radiodifusión y televisión, de acuerdo con la Ley que regule el estatuto jurídico de la radio y la televisión.
 
-7. La coordinación y demás facultades en relación con las policías locales, en los términos que establezca una ley orgánica.
+Igualmente le corresponde, en el marco de las normas básicas del Estado, el desarrollo legislativo y ejecución del régimen de prensa y, en general, de todos los medios de comunicación social.
 
-8. La coordinación hospitalaria en general.
+En los términos establecidos en los párrafos anteriores de este apartado, la Comunidad Autónoma podrá regular, crear y mantener su propia televisión, radio y prensa y, en general, todos los medios de comunicación social para el cumplimiento de sus fines.
 
-9. Corporaciones de derecho público representativas de intereses económicos y profesionales.
+7. Sistema de consultas populares en el ámbito de La Rioja, de conformidad con lo que disponga la Ley a la que se refiere el apartado 3 del artículo 92 de la Constitución y demás Leyes del Estado, correspondiendo a éste la autorización de su convocatoria.
 
-10. Defensa del consumidor y usuario, de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, las bases y coordinación general de la Sanidad, en los términos de lo dispuesto en los artículos 38 y 131 y en los números 11, 13 y 16 del apartado 1 del artículo 149 de la Constitución.
+8. Régimen local.
 
-11. Normas adicionales de protección del medio ambiente.
+9. Las restantes materias que con este carácter y mediante Ley del Estado, le sean transferidas.
 
-12. Régimen minero y energético.
+10. Cámaras agraria de comercio e industria o entidades equivalentes, Colegios Profesionales y ejercicio de las profesiones tituladas, así como cualquiera otra corporación de derecho público representativa de intereses económicos y profesionales.
 
-13. Prensa, radio, televisión y otros medios de comunicación social, en el marco de las normas básicas que el Estado establezca de acuerdo con el número 27 del apartado 1 del artículo 149 de la Constitución.
+11. Montes, aprovechamientos y servicios forestales, vías pecuarias y pastos.
+
+12. Ordenación farmacéutica.
+
+> Se modifica por el art. 1.9 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
 
 > Se modifica por el art. único de la Ley Orgánica 3/1994, de 24 de marzo. Ref. BOE-A-1994-6942

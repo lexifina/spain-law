@@ -1,7 +1,7 @@
 ## Artículo 26.
 
-En los términos previstos en los artículos quinto y noveno uno, del presente Estatuto, se regulará por Ley de la Comunidad Autónoma de La Rioja:
+Uno. Corresponde a la Comunidad Autónoma la creación y estructuración de su propia Administración pública dentro de los principios generales y normas básicas del Estado.
 
-Uno. El reconocimiento y delimitación de las comarcas.
+Dos. Todos los órganos encargados de la prestación de servicios o de la gestión de competencias y atribuciones de la Comunidad Autónoma dependen de ésta y se integran en su Administración.
 
-Dos. La creación de agrupaciones de municipios con fines específicos.
+> Se modifica por el art. 1.24 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
