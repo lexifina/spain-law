@@ -1,0 +1,7 @@
+## Artículo segundo.
+
+La participación inicial de España en el capital interregional del Banco Interamericano de Desarrollo será de sesenta y un millones quinientos noventa y cinco mil ochocientos ochenta y seis dólares de los Estados Unidos, del peso y ley en vigencia de acuerdo con la variación de la paridad de esta moneda en dieciocho de octubre de mil novecientos setenta y tres (equivalentes a cincuenta y un millones sesenta mil dólares de los Estados Unidos del peso y ley en vigencia en uno de enero de mil novecientos cincuenta y nueve). Del importe total de la participación inicial, diez millones ciento cincuenta y siete mil cuatrocientos diez dólares, corresponden al capital interregional pagadero en efectivo, y cincuenta y un millones cuatrocientos treinta y ocho mil cuatrocientos setenta y seis dólares, a capital interregional exigible de acuerdo con el Artículo II A, Sección tres, c), del citado Convenio Constitutivo.
+
+La suscripción del capital interregional se efectuará en los términos y condiciones previstos en la Sección dos de la Resolución del Consejo de Gobernadores del Banco Interamericano de Desarrollo sobre «Normas Generales para la Admisión de Países Extrarregionales como Miembros del Banco».
+
+El Gobierno necesitará enviar a las Cortes, para su aprobación, un nuevo Proyecto de Ley para el supuesto de que trate de ampliarse la participación inicial de España en el capital interregional del Banco Interamericano de Desarrollo.
