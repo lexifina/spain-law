@@ -6,7 +6,9 @@
 
 Para la preparación de la muestra de análisis, debe utilizarse la totalidad de la muestra recibida en el laboratorio.
 
-2. Tratamiento de la muestra recibida en el laboratorio: Se triturará finamente y se mezclará minuciosamente la muestra global en su integridad según un método reconocido que garantice una homogeneización completa.
+2. Tratamiento de la muestra recibida en el laboratorio: Cada muestra de laboratorio se triturará finamente y se mezclará cuidadosamente según un método que garantice una homogeneización completa.
+
+En el caso de que el contenido máximo sea aplicable a la materia seca, el contenido de materia seca se determinará sobre una parte de la muestra homogeneizada, utilizando un procedimiento que garantice una determinación precisa del contenido de materia seca.
 
 3. Subdivisión de las muestras a efectos comerciales, de arbitraje y de control: Las muestras idénticas a efectos comerciales, de arbitraje o de control oficial para la realización de los análisis inicial, contradictorio y dirimente, según lo establecido en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, y demás disposiciones que resulten de aplicación en cada caso, deberán proceder de la muestra homogeneizada.
 
@@ -50,6 +52,14 @@ b) C es la tasa de concentración (es decir, 1=100g/100g, 0,001=1000 mg/kg).
 
 Se trata de una ecuación generalizada de precisión, que se ha revelado independiente del analito y de la matriz y únicamente dependiente de la concentración en la mayoría de los métodos corrientes de análisis.
 
-d) Cálculo de la tasa de recuperación: El resultado analítico se expresará en forma corregida o no en función de la recuperación. Deberá indicarse la forma de expresión y la tasa de recuperación.
+d) Cálculo del factor de recuperación y expresión de los resultados:
+
+El resultado analítico se expresará en forma corregida o sin corregir en función de la recuperación. Deberá indicarse la forma de expresión y el factor de recuperación.
+
+El resultado analítico corregido en función de la recuperación se utilizará para la conformidad del lote según el apartado 5 del anexo I.
+
+El resultado analítico se expresará como x ± U, siendo x el resultado analítico y U la incertidumbre expandida de la medida, utilizando un factor de cobertura de 2, que da un nivel de confianza de aproximadamente el 95 %.
 
 e) Normas de calidad aplicables a los laboratorios: Los laboratorios deberán ajustarse a las disposiciones del Real Decreto 1397/1995, de 4 de agosto, por el que se aprueban medidas adicionales sobre el control oficial de los productos alimenticios.
+
+> Se modifican los apartados 2 y 4.d) por el apartado 1 y anexo II de la Orden de 16 de diciembre de 2004. Ref. BOE-A-2004-21693.

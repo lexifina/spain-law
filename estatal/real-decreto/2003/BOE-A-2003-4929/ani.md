@@ -114,12 +114,22 @@ Las cifras de los cuadros siguientes pueden utilizarse para determinar el númer
 | > 5,0 ≤ 10,0 | 80 |
 | > 10,0 ≤ 15,0 | 100 |
 
-f) Muestreo en la fase de comercio minorista:
+f) Método de toma de muestras para los alimentos destinados a lactantes y niños de corta edad:
 
-El muestreo que debe aplicarse en la fase de comercio minorista debe realizarse, siempre que sea posible, de conformidad con las disposiciones para el muestreo mencionadas anteriormente. En caso de que no sea posible, podrán aplicarse otros métodos de muestreo eficaces, siempre que garanticen una representatividad suficiente del lote objeto de muestreo.
+Se aplicará el método de muestreo para los cereales y los productos derivados de los cereales establecido en el punto 4.e) del presente anexo. Esto significa que el número de muestras elementales que deben tomarse dependerá del peso del lote, con un mínimo de 10 y un máximo de 100, de conformidad con el cuadro 2 del punto 4.e).
+
+1.º El peso de la muestra elemental será de 100 gramos, aproximadamente. En el caso de los lotes que se presentan en envases para la venta minorista, el peso de la muestra elemental dependerá del peso del envase.
+
+2.º Peso de la muestra global = 1 - 10 Kg, groseramente mezclada.
+
+g) Muestreo en la fase de comercio minorista:
+
+El muestreo de los productos alimenticios en la fase de comercio minorista debe realizarse, siempre que sea posible, de conformidad con las disposiciones para el muestreo mencionadas anteriormente. En el caso de que no sea posible, podrán aplicarse otros métodos de muestreo eficaces, siempre que garanticen una representatividad suficiente del lote objeto de muestreo.
 
 5. Aceptación de un lote o sublote:
 
-a) Aceptación, si la muestra global se ajusta al límite máximo.
+a) Aceptación, si la muestra global se ajusta al límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
 
-b) Rechazo, si la muestra global supera el límite máximo.
+b) Rechazo, si la muestra global supera, fuera de toda duda razonable, el límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
+
+> Se modifican los apartados 4.f) y 5 y se añade el apartado 4.g) por el apartado 1 y anexo I de la Orden SCO/4225/2004, de 16 de diciembre de 2004. Ref. BOE-A-2004-21693.
