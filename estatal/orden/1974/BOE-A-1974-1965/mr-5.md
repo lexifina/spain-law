@@ -1,6 +1,6 @@
 ## INSTRUCCION MIG-R.7.1
 
-## Estaciones de regulación y/o medida para presiones de entrada superiores a 12 bares
+## Estaciones de regulación y/o medida para presiones de entrada superiores a 16 bar
 
 1. INTRODUCCION
 
@@ -10,7 +10,7 @@ Esta Instrucción está de acuerdo con la Norma de Seguridad para las Estaciones
 
 2. GENERALIDADES
 
-2.1 Esta instrucción se aplicará a las estaciones de regulación y/o medida de nueva construcción, destinadas a funcionar a una presión de entrada superior a 12 bares.
+2.1 Esta Instrucción se aplicará a las estaciones de regulación y/o medida de nueva construcción, destinadas a funcionar a una presión de entrada superior a 16 bar.
 
 2.2 El proyecto, construcción y explotación de estaciones de regulación y/o medida debe realizarse conforme a la técnica más depurada del momento, tratando en particular de garantizar:
 
@@ -50,9 +50,11 @@ Con el fin de evitar la formación de atmósferas explosivas por acumulación ac
 
 Todas las canalizaciones que llegan o salen de la estación de regulación y/o medida deben poder ser aisladas desde el exterior de la estación y a una distancia de seguridad de la misma.
 
-3.3 Reglas técnicas para el establecimiento de las canalizaciones de gas.
+3.3 Todas las canalizaciones de las estaciones de regulación y/o medida y las piezas de unión que vayan a las canalizaciones principales, serán de acero y las tensiones transversales debidas a la presión interna, no excederán del 55 por 100 del límite elástico en función del espesor mínimo especificado para el material.
 
-Todas las canalizaciones de las estaciones de regulación y/o medida, los instrumentos de control, toma de muestras, piezas de unión que vayan a las canalizaciones principales, serán de acero y las tensiones transversales debidas a la presión interna, en función del espesor mínimo de la pared, no excederán del 55 por 100 del límite elástico mínimo especificado para el material.
+Las pequeñas conducciones de instrumentación, regulación y control podrán ser de materiales diferentes al acero, si garantizan un nivel de seguridad análogo al mencionado anteriormente.
+
+Estos materiales deberán estar de acuerdo con alguna norma de reconocido prestigio tales como UNE, DIN, ISO, CEN, ASTM y otras aceptadas por la Administración española en base a los criterios de seguridad equivalente.
 
 3.4 Pruebas de las canalizaciones de gas.
 
@@ -90,6 +92,8 @@ Se prohibirá fumar en todas las zonas de las estaciones de regulación y/o medi
 
 3.11 Instalación eléctrica.
 
-Todo el sistema eléctrico en el interior de la estación será antideflagrante.
+Todo el sistema eléctrico situado en el interior de la zona clasificada con riesgo de explosión cumplirá lo establecido en la instrucción MI-BT-026 del Reglamento Electrotécnico para Baja Tensión.
 
-Para evitar la formación de chispas por electricidad estática, se unirán a tierra todas las partes metálicas de la estación, debiéndose aislar eléctricamente de las canalizaciones de entrada y salida de la misma, a fin de no perturbar la protección catódica de la red.
+Para evitar la formación de chispas por electricidad estática, se unirán a tierra todas las partes metálicas de la estación debiéndose aislar eléctricamente de las canalizaciones de entrada y salida de la misma, a fin de no perturbar la protección catódica de la red.
+
+> Se modifica el título y los apartados 2.1, 3.3 y 3.11 por el apartado 1 y anexo de la Orden de 29 de mayo de 1998. Ref. BOE-A-1998-13740

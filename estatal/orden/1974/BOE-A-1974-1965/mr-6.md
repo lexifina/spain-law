@@ -1,6 +1,6 @@
 ## INSTRUCCION MIG-R.7.2
 
-## Estaciones de regulación y/o medida para presiones de entrada hasta 12 bares
+## Estaciones de regulación y/o medida para presiones de entrada hasta 16 bar
 
 1. INTRODUCCION
 
@@ -8,7 +8,7 @@ La presente Instrucción tiene por objeto fijar los requisitos técnicos esencia
 
 2. GENERALIDADES
 
-2.1 Esta Instrucción se aplicará a las estaciones de regulación y/o medida, de nueva construcción, destinadas a funcionar a una presión de entrada hasta 12 bares.
+2.1 Esta Instrucción se aplicará a las estaciones de regulación y/o medida de nueva construcción, destinadas a funcionar a una presión de entrada hasta 16 bar.
 
 2.2 El proyecto, construcción y explotación de estaciones de regulación y/o medida debe realizarse conforme a la técnica más depurada del momento, tratando en particular de garantizar:
 
@@ -54,9 +54,9 @@ Con el fin de evitar la formación de atmósferas explosivas por acumulación ac
 
 3.2 Sistema de seguridad contra sobrepresiones a la salida de una estación reguladora.
 
-Con el fin de evitar sobrepresiones a la salida de una estación reguladora, cuando la presión de entrada sea superior a 500 milímetros c. a., se dispondrá de un sistema de seguridad que limite las consecuencias de esta eventualidad.
+Con el fin de evitar sobrepresiones a la salida de una estación reguladora cuando la presión de entrada sea superior a 100 mbar se dispondrá de un sistema de seguridad que límite las consecuencias de esta eventualidad.
 
-Cuando para ello se use válvula de seguridad con descarga a la atmósfera, se dispondrá un sistema de evacuación del gas que evite posibles daños a personas o cosas que se hallen en las proximidades de la estación.
+Cuando para ello se use válvula de seguridad con descarga a la atmósfera se dispondrá un sistema de evacuación del gas que evite posibles daños a personas o cosas que se hallen en las proximidades de la estación.
 
 3.3 Dispositivos para la puesta fuera de servicio.
 
@@ -86,6 +86,8 @@ Se prohibirá fumar en todas las zonas de las estaciones de regulación y/o medi
 
 3.8 Instalación eléctrica.
 
-Todo el sistema eléctrico en el interior de la estación será antideflagrante.
+Todo el sistema eléctrico situado en el interior de la zona clasificada con riesgo de explosión cumplirá lo establecido en la instrucción MI-BT-026 del Reglamento Electrotécnico para Baja Tensión.
 
-Para evitar la formación de chispas por electricidad estática se unirán a tierra todas las partes metálicas de la estación, debiéndose aislar eléctricamente de las canalizaciones de entrada y salida de la misma, a fin de no perturbar la protección catódica de la red.
+Para evitar la formación de chispas por electricidad estática, se unirán a tierra todas las partes metálicas de la estación, debiéndose aislar eléctricamente de las canalizaciones de entrada y salida de la misma, a fin de no perturbar la protección catódica de la red.
+
+> Se modifica el título y los apartados 2.1, 3.2 y 3.8 por el apartado 1 y anexo de la Orden de 29 de mayo de 1998. Ref. BOE-A-1998-13740
