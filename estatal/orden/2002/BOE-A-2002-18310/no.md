@@ -1,0 +1,1 @@
+> Téngase en cuenta que, según establece la disposición transitoria 4.b) del Real Decreto 973/2009, de 12 de junio, por el que se regulan las titulaciones profesionales de la marina mercante, hasta su regulación por el Ministerio de Fomento, seguirá en vigor la presente disposición. Ref. BOE-A-2009-10900#dtcuarta

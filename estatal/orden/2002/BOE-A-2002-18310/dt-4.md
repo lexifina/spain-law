@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta.
+
+En el plazo de seis meses a partir de la fecha de entrada en vigor de esta Orden, la Dirección General de la Marina Mercante actualizará de oficio los datos del Registro de títulos profesionales y certificados de seguridad y especialidad marítima, de manera que figuren los nuevos certificados regulados en esta Orden. Ello se efectuará conforme a las condiciones de canje y equivalencia establecidas en la disposición transitoria primera y en función de los datos que figuren en dicho Registro. Se exceptúan aquellos certificados que impliquen condiciones de ejercicio profesional y, en concreto, los Certificados Básico de Buques de Pasaje y el de Buques Ro-Ro de Pasaje y Buques de Pasaje Distintos a Buques Ro-Ro.

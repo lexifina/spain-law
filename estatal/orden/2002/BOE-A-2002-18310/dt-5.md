@@ -1,0 +1,3 @@
+## Disposición transitoria quinta.
+
+Como consecuencia de lo determinado en la disposición transitoria cuarta, cuando el interesado solicite la renovación o revalidación de una tarjeta profesional de la Marina Mercante, se incluirá de oficio en la misma los certificados actualizados que correspondan y que sean equivalentes a los certificados regulados en normativas anteriores a esta Orden. En aquellos casos en los que se requieran condiciones adicionales de ejercicio profesional, el interesado deberá presentar la documentación oportuna mediante los asientos de embarco y desembarco de los buques de que se trate, al objeto de emitir un nuevo certificado.
