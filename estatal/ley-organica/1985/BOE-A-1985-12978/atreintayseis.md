@@ -1,7 +1,5 @@
-## Artículo treinta y seis.
+## Artículos treinta y seis.
 
-Los Centros públicos tendrán los siguientes órganos de gobierno:
+(Derogado)
 
-a) Unipersonales: Director, Secretario, Jefe de Estudios y cuantos otros se determinen en los reglamentos orgánicos correspondientes.
-
-b) Colegiados: Consejo Escolar del Centro, claustro de Profesores y cuantos otros se determinen en los reglamentos a que se refiere el párrafo anterior.
+> Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202

@@ -4,6 +4,8 @@
 
 2. En caso de desacuerdo, el director será designado por el consejo Escolar del centro de entre una terna de Profesores propuesta por el titular. Dichos profesores deberán reunir las condiciones establecidas en el apartado anterior. El acuerdo del Consejo Escolar del centro será adoptado por mayoría absoluta de sus miembros.
 
-3. El mandato del Director tendrá una duración de tres años.
+3. El mandato del Director tendrá la misma duración que en los centros públicos.
 
 4. El cese del Director requerirá el acuerdo entre la titularidad y el Consejo Escolar del centro.
+
+> Se modifica el apartado 3 por la disposición final 1.6 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202

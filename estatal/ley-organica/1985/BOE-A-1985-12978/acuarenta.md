@@ -1,5 +1,7 @@
 ## Artículo cuarenta.
 
-El Secretario y el Jefe de Estudios serán Profesores elegidos por el Consejo Escolar, a propuesta del Director y nombrados por la Administración Educativa competente. Los demás órganos de gobierno unipersonales que se determinen serán nombrados de acuerdo con el procedimiento que reglamentariamente se establezca.
+(Derogado)
 
-> Se modifica en cuanto se oponga por la disposición final 4.3 la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172
+> Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+> Se modifica en cuanto se oponga por la disposición final 4.3 de la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172

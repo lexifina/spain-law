@@ -1,3 +1,5 @@
 ## Artículo cuarenta y tres.
 
-Los alumnos participarán en las deliberaciones y decisiones del Consejo Escolar del Centro. No obstante, los representantes de los alumnos del ciclo superior de la Educación General Básica no intervendrán en los casos de elección del Director, designación del equipo directivo y propuesta de revocación del nombramiento del Director.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202

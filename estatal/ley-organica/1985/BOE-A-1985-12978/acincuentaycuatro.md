@@ -23,3 +23,7 @@ e) Ejecutar los acuerdos de los órganos colegiados en el ámbito de sus faculta
 f) Cuantas otras facultades le atribuya el reglamento de régimen interior en el ámbito académico.
 
 3. Los demás órganos de gobierno, tanto unipersonales como colegiados, se determinarán, en su caso, en el citado reglamento de régimen interior.
+
+4. Las Administraciones educativas podrán disponer que los centros concertados con más de un nivel o etapa financiado con fondos públicos tengan un único Director, Consejo Escolar y Claustro de profesores para todo el centro.
+
+> Se añade el apartado 4 por la disposición final 1.3 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202

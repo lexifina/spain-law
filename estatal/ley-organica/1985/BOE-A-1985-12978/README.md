@@ -54,6 +54,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo treinta y cuatro](atreintaycuatro.md)
 - [Artículo treinta y cinco](atreintaycinco.md)
 - [TÍTULO TERCERO](ttercero.md)
+- [Artículos treinta y seis a cuarenta y seis](astreintayseisacuarentayseis.md)
 - [Artículo treinta y seis](atreintayseis.md)
 - [Artículo treinta y siete](atreintaysiete.md)
 - [Artículo treinta y ocho](atreintayocho.md)
