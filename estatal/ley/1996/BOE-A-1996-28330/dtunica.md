@@ -1,0 +1,5 @@
+## Disposición transitoria única. Régimen transitorio de la deducción para evitar la doble imposición interna de dividendos en el Impuesto sobre Sociedades.
+
+1. En el caso de dividendos y participaciones en beneficios procedentes de valores representativos del capital o los fondos propios, adquiridos antes de la entrada en vigor del Real Decreto-ley 8/1996, de 7 de junio, no serán de aplicación las restricciones a la deducción para evitar la doble imposición interna de dividendos contenidas en el apartado 4 del artículo 28 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades. En este caso, serán aplicables las restricciones contenidas en el artículo 28 de la Ley 43/1995, de 27 de diciembre, en su redacción original, anterior a la entrada en vigor del Real Decreto-ley 8/1996.
+
+2. Las rentas obtenidas en las transmisiones de los valores a que se refiere el apartado anterior, realizadas con anterioridad a la fecha de entrada en vigor del Real Decreto-ley 8/1996, de 7 de junio, no tendrán derecho a la deducción prevista en el artículo 28 de la Ley 43/1995, de 27 de diciembre.
