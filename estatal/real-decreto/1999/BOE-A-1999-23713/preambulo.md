@@ -1,0 +1,13 @@
+El artículo 22 bis de la Ley 4/1989, de 27 de marzo, de Conservación de los espacios naturales y de la flora y fauna silvestre, modificada por la Ley 41/1997, de 5 de noviembre, crea la figura del Plan Director como instrumento básico de ordenación de la Red de Parques Nacionales, regula su contenido y determina que éste tendrá el carácter de directrices para la ordenación de los recursos naturales, a las que deberán de ajustarse los planes de ordenación de los recursos naturales que se aprueben para los distintos parques nacionales; los planes rectores de uso y gestión deberán ajustarse, asimismo, a las directrices fijadas en el Plan Director.
+
+A su vez, la disposición adicional segunda de la Ley 41/1997 señala que corresponde al Gobierno la aprobación del Plan Director de la red de parques nacionales, previo informe del Consejo de la Red, encomendando al Organismo autónomo Parques Nacionales su elaboración.
+
+Para dar cumplimiento a lo anterior, el citado Organismo autónomo elaboró un proyecto de Plan Director, enriquecido posteriormente con aportaciones de las Comunidades Autónomas y entidades locales afectadas, de los sectores sociales relacionados con los parques nacionales, de organizaciones no gubernamentales y de científicos. El proyecto definitivo, que figura como anexo de este Real Decreto, fue informado favorablemente por el Consejo de la Red de Parques Nacionales el 25 de enero de 1999.
+
+El Plan Director, de acuerdo con lo preceptuado en la Ley 4/1989, fija los objetivos a alcanzar durante su vigencia en materia de conservación, investigación, uso público, formación y sensibilización, mediante un programa común y homogéneo de actuaciones; señala los objetivos a alcanzar en materia de cooperación y colaboración con otras Administraciones u organismos, nacionales e internacionales; establece las actuaciones a desarrollar para mantener la imagen y coherencia interna de la red y regula las directrices para la planificación de dichos espacios protegidos. Además, el Plan Director determina y caracteriza lo que son la red y los parques nacionales, mediante la delimitación de sus rasgos distintivos; regula sus fuentes financieras y los criterios de distribución de recursos económicos y, finalmente, incorpora disposiciones relativas tanto a su evaluación y seguimiento como a su ejecución, vigencia y revisión.
+
+Se trata, en esencia, del primer instrumento genérico de gestión y planificación de los parques nacionales en España y debe ser el elemento vertebrador de éstos en el futuro.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 26 de noviembre de 1999,
+
+DISPONGO:
