@@ -1,0 +1,3 @@
+## Artículo veintiséis.
+
+Las personas físicas o jurídicas que desarrollen actividades de exploración, investigación, explotación o beneficio de yacimientos minerales y demás recursos geológicos clasificados en la Sección C), punto uno, del artículo tercero de la Ley de Minas, así como de los que por Decreto pueda el Gobierno determinar con carácter general entre los incluidos en las Secciones A) y B) del artículo citado, gozarán, en la parte correspondiente a sus inversiones en activos mineros, de libertad de amortización durante diez años a contar de la entrada en vigor de esta Ley. Para las nuevas inversiones dicho plazo se contará a partir del comienzo del primer ejercicio económico en cuyo balance aparezca el resultado de la explotación.
