@@ -19,12 +19,27 @@ K = k × 10-5
 
 El Ministerio de Obras Públicas y Urbanismo podrá autorizar la fijación de valores intermedios del coeficiente K, a cuyo efecto dictará la normativa oportuna.
 
+Cuando en una autorización de vertido se haga aplicación del párrafo segundo de la nota general que figura al pie de las "tablas de los parámetros característicos que se deben considerar, como mínimo, en la estima del tratamiento de vertido" contenidas en este anexo, permitiendo concentraciones superiores a las incluidas en la tabla 1, el coeficiente K utilizado para definir el canon de vertido se ampliará proporcionalmente, tomando como multiplicador el mayor de los cocientes de dividir las concentraciones autorizadas por los límites correspondientes de la tabla 1.
+
 ## CLASIFICACION DE ACTIVIDADES
 
 | CNAE | Actividades |
 | --- | --- |
 |  | Clase 1 |
-|  | Industrias de molinería y de fabricación de pastas alimenticias |
+|  | Industrias de grasas vegetales y animales |
+| 412 | Fabricación de aceites y grasas vegetales y animales (excepto aceite de oliva). |
+|  | Industrias conserveras |
+| 413, Ex | Despiece de ganado, preparación y conservas de carne. |
+| 415 | Fabricación de jugos y conservas vegetales. |
+|  | Industrias de fabricación de dulces. |
+| 420 | Industria del azúcar. |
+| 421.2 | Elaboración de productos de confitería. |
+|  | Industrias alimentarias diversas. |
+| 423 | Fabricación de productos alimentarios diversos. |
+|  | Industrias de elaboración de bebidas alcohólicas y destilación de alcoholes. |
+| 424.2 | Obtención de aguardientes naturales. |
+| 424.3,Ex | Obtención de aguardientes compuestos, licores y aperitivos no vinicos. |
+|  | Industrias de molinería y de fabricación de pastas alimenticias. |
 | 417 | Fabricación de productos de molinería. |
 | 418 | Fabricación de pastas alimenticias y productos amiláceos. |
 |  | Industrias del vestido y de la confección y decoración de textiles |
@@ -61,6 +76,20 @@ El Ministerio de Obras Públicas y Urbanismo podrá autorizar la fijación de va
 |  | Producción y distribución de energía eléctrica, de vapor, de agua caliente y de gas |
 | 15 | Producción, transporte y distribución de energía eléctrica. gas, vapor y agua caliente. |
 |  | Clase 2 |
+|  | Industrias de grasas vegetales y animales |
+| 411 | Fabricación de aceite de oliva. |
+|  | Industrias cárnicas |
+| 413.1,Ex | Sacrificio de ganado. |
+|  | Industrias de fabricación de queso |
+| 414.3,Ex | Fabricación de queso. |
+|  | Industrias conserveras |
+| 416 | Fabricación de conservas de pescado y otros productos marinos. |
+|  | Industrias de elaboración de bebidas alcohólicas y destilación de alcoholes |
+| 424.1 | Destilación y rectificación de alcoholes. |
+| 424.3,Ex | Obtención de whisky. |
+| 425 | Industria vinícola. |
+| 426 | Sidrerías. |
+| 427 | Fabricación de cerveza y malta cervecera. |
 |  | Extracción de minerales metálicos |
 | 21 | Extracción y preparación de minerales metálicos. |
 | 11 | Extracción, preparación y aglomeración de combustibles sólidos y coquerías. |
@@ -197,3 +226,7 @@ En lagos o embalses, la temperatura del vertido no superará los 30° C.
 (N) Expresado en lauril-sulfato.
 
 (P) Si se tratase exclusivamente de pesticidas fosforados puede admitirse un máximo de 0,1 mg/l.
+
+> Se añade un párrafo segundo al pie de las tablas de valores del coeficiente K y se modifica la tabla clasificación de actividades por los arts. 3, 4.a) y .b) del Real Decreto 1315/1992, de 30 de octubre. Ref. BOE-A-1992-26537
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.

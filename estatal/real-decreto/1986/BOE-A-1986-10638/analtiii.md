@@ -8,7 +8,7 @@
 
 3. Compuestos organoestánnicos.
 
-4. Sustancias en las que está demostrado su poder cancerígeno en el medio acuático o por medio de él.
+4. Sustancias que posean un poder cancerígeno, mutágeno o teratógeno en el medio acuático o a través del mismo.
 
 5. Mercurio y compuestos de mercurio.
 
@@ -20,7 +20,7 @@
 
 ## Relación II de sustancias contaminantes
 
-1. Sustancias que forman parte de las categorías y grupos de sustancias enumerados en la relación I para las que no se hayan fijado limites según eI artículo 254 de este Reglamento.
+1. Sustancias que forman parte de las categorías y grupos enumerados en la relación I para las que no se hayan fijado límites según el artículo 254 de este Reglamento, excepto cuando se trate de vertidos a aguas subterráneas.
 
 2. Sustancias o tipos de sustancias comprendidos en el siguiente apartado y que, aun teniendo efectos perjudiciales, puedan quedar limitados en zonas concretas según las características de las aguas receptoras y su localización.
 
@@ -55,3 +55,5 @@ h) Sustancias que influyen desfavorablemente en el balance de oxígeno, especial
 – Amoníaco.
 
 – Nitritos.
+
+> Se modifican los apartados 4 y 1 de la Relación I y II de sustancias contaminantes por el art. 2.1 y .2 del Real Decreto 1315/1992, de 30 de octubre. Ref. BOE-A-1992-26537
