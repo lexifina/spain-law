@@ -1,0 +1,9 @@
+El artículo 149.1.16 de la Constitución española señala la sanidad exterior como competencia exclusiva del Estado, y, en este sentido, el artículo 38.1 de la Ley 14/1986, de 25 de abril, General de Sanidad, reitera dicha afirmación, añadiendo que, asimismo, son competencia exclusiva del Estado las relaciones y acuerdos sanitarios internacionales.
+
+En concreción y desarrollo de lo previsto en la Constitución, la citada Ley General de Sanidad, en sus artículos 38 y 39, define el contenido de esta competencia estatal estableciendo que son «actividades de sanidad exterior todas aquellas que se realicen en materia de vigilancia y control de los posibles riesgos para la salud derivados de la importación, exportación o tránsito de mercancías y del tráfico internacional de viajeros», atribuyendo al Ministerio de Sanidad y Consumo, en coordinación con los demás Departamentos, el ejercicio de las funciones necesarias a estos fines.
+
+Del mismo modo, la Ley 26/1984, de 19 de julio, General de Defensa de los Consumidores y Usuarios, en sus artículos 4.o, 1, f), y 5.1, impone también la exigencia de controles en la importación y exportación de productos en defensa de la salud y seguridad física de los consumidores y usuarios.
+
+Para el cumplimiento de estas exigencias legales, sin perjuicio de las demás competencias y responsabilidades de otros Departamento ministeriales, y hasta tanto se regule íntegramente la sanidad exterior conforme a lo previsto en el precitado artículo 38.4 de la Ley General de Sanidad, el presente Real Decreto pretende fijar las funciones correspondientes al Ministerio de Sanidad y Consumo.
+
+En su virtud, a propuesta del Ministro de Sanidad y Consumo, oído el Consejo de Estado y previa deliberación en Consejo de Ministros en su reunión del día 13 de junio de 1986, dispongo:
