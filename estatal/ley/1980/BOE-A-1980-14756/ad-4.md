@@ -4,4 +4,8 @@ Las retribuciones básicas y las remuneraciones sustitutorias y compensatorias, 
 
 Se exceptúan de lo dispuesto en el párrafo anterior, las pensiones en favor de las huérfanas mayores de veintitrés años no incapacitadas con anterioridad a dicha edad para ganarse el sustento y pobres en el concepto legal, salvo que les sea de aplicación lo dispuesto en la legislación general de clases pasivas por el artículo cuarto de la Ley ochenta y dos/mil novecientos cincuenta y nueve, de veintitrés de diciembre, en razón de la fecha de ingreso del causante al servicio de la Administración. La cuantía de estas pensiones, cualquiera que fuera la fecha de su reconocimiento, se fijará según el importe alcanzado en mil novecientos ochenta por la retribución básica.
 
+> Se añade el párrafo segundo por el art. 3 de la Ley 42/1981, de 28 de octubre. Ref. BOE-A-1981-26085.
+
+> Téngase en cuenta que el párrafo ya estaba añadido por el Real Decreto-Ley 8/1980, de 26 de septiembre.
+
 > Se añade el párrafo segundo por el art. 3 del Real Decreto-Ley 8/1980, de 26 de septiembre. Ref. BOE-A-1980-21167.
