@@ -9,3 +9,5 @@ Las candidaturas serán propuestas por las Organizaciones profesionales agrarias
 Tres. En el caso de que un viticultor tenga parte de su explotación adherida a Cooperativas o Sociedades agrarias de transformación, y otra parte no adherida a ninguna de estas Entidades sólo tendrá derecho a ser elector y elegible en el grupo en que cuente con mayor número de hectáreas y, caso de que sean iguales, en el grupo a) exclusivamente.
 
 Cuatro. Para la elección de los Vocales representativos de los grupos a que se refiere el artículo tercero, serán electores y elegibles los pertenecientes a cada uno de dichos grupos. Las candidaturas serán propuestas por las Asociaciones profesionales debidamente legalizadas en la zona de producción o por los candidatos que se presenten como independientes.
+
+> Se modifica el primer párrafo del apartado 2 en la forma indicada en el art. único del Real Decreto 3182/1980, de 30 de diciembre. Ref. BOE-A-1981-5416.
