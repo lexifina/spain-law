@@ -74,6 +74,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)
 - [Disposición transitoria cuarta](dtcuarta.md)
+- [Disposición transitoria quinta](dtquinta.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
@@ -83,3 +84,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO 3](an3.md)
 - [ANEXO 4](an4.md)
 - [ANEXO 5](an5.md)
+- [ANEXO 6](an6.md)
