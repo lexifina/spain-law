@@ -1,0 +1,29 @@
+## Primero. Aprobación del modelo 309.
+
+Uno. Se aprueba el modelo 309 «Declaración-liquidación no periódica del Impuesto sobre el Valor Añadido», que figura como anexo I en la presente Orden y que consta de cuatro ejemplares: Ejemplar para el sujeto pasivo, Ejemplar para la Administración, Ejemplar para la entidad colaboradora y Ejemplar para la matriculación. El número de justificante que habrá de figurar en dicho modelo será un número secuencial cuyos tres primeros dígitos se corresponderán con el código 305.
+
+Asimismo, se aprueba el sobre que figura como anexo II en la presente Orden.
+
+Dos. Este modelo será presentado:
+
+1.º Por las personas y entidades que se indican a continuación en la medida en que realicen adquisiciones intracomunitarias de bienes y estén identificadas a efectos del Impuesto sobre el Valor Añadido por haber alcanzado su volumen de adquisiciones intracomunitarias el límite establecido en el artículo 14 de la Ley 37/1992, del Impuesto sobre el Valor Añadido o por haber ejercitado la opción contemplada en el mismo artículo:
+
+a) Sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca cuando se trate de adquisiciones intracomunitarias de bienes destinados al desarrollo de la actividad sometida a dicho régimen.
+
+b) Sujetos pasivos que realicen exclusivamente operaciones que no originan el derecho a la deducción total o parcial del Impuesto.
+
+c) Personas jurídicas que no actúen como empresarios o profesionales.
+
+2.º Por los sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca cuando realicen en el ejercicio de su actividad entregas de bienes inmuebles sujetas y no exentas del Impuesto sobre el Valor Añadido, así como cuando resulten ser sujetos pasivos de dicho tributo, de acuerdo con lo dispuesto en el artículo 84, apartado uno, número 2.º de su Ley reguladora.
+
+3.º Por los sujetos pasivos del Impuesto sobre el Valor Añadido que tributen en el régimen especial del recargo de equivalencia y que estén obligados al pago de dicho impuesto y del citado recargo por las adquisiciones intracomunitarias de bienes que efectúen, así como en los supuestos contemplados en el artículo 84, apartado uno, número 2.º de la Ley 37/1992. De la misma forma, habrán de presentar el modelo citado los sujetos pasivos que realicen exclusivamente actividades a las que sea de aplicación el régimen especial del recargo de equivalencia, cuando realicen operaciones en relación con las cuales hayan ejercitado la renuncia a la aplicación de la exención contemplada en el artículo 20, apartado dos de la Ley 37/1992 y en el artículo 8, apartado 1 de su Reglamento.
+
+4.º Por las personas o entidades que no tengan la condición de empresarios o profesionales y realicen adquisiciones intracomunitarias de medios de transporte nuevos, a título oneroso.
+
+5.º Por los adjudicatarios, en los procedimientos administrativos o judiciales de ejecución forzosa, que tengan la condición de empresarios o profesionales del Impuesto sobre el Valor Añadido, que estén facultados para presentar en nombre y por cuenta del sujeto pasivo de dicho tributo, la declaración-liquidación correspondiente y para ingresar el impuesto resultante de la operación de adjudicación, en los términos previstos en la disposición adicional quinta del Reglamento del Impuesto sobre el Valor Añadido.
+
+6.º Por los sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca cuando deban efectuar el reintegro de las compensaciones indebidamente percibidas, según lo dispuesto en el artículo 133 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+
+7.º Por los sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca cuando realicen el ingreso de las regularizaciones practicadas como consecuencia del inicio en la aplicación del citado régimen especial, según lo dispuesto en el artículo 49.bis del Reglamento del Impuesto sobre el Valor Añadido.
+
+8.º Por aquellos sujetos pasivos del Impuesto sobre el Valor Añadido para los que así se determine.
