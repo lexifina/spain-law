@@ -1,0 +1,5 @@
+## Disposición adicional primera.
+
+Se añade, como artículo 4 bis de la Reglamentación Técnico-Sanitaria en materia de intercambio de carnes frescas de aves para el comercio intracomunitario, e importación de las mismas de terceros países, aprobada por el Real Decreto 644/1989, de 19 de mayo; como punto 5 del artículo 3 del Real Decreto 110/1990, de 26 de enero, sobre condiciones de sanidad animal que deben reunir las carnes frescas destinadas al comercio intracomunitario e importadas de países terceros, y, como punto 3 del artículo 3 del Real Decreto 1066/1990, de 27 de julio, sobre requisitos de sanidad animal que deben reunir los productos cárnicos destinados al comercio intracomunitario e importados de países terceros, el siguiente texto:
+
+«Se aplicarán las normas previstas por el Real Decreto relativo a los controles veterinarios aplicables en los intercambios intracomunitarios de los productos de origen animal y, en particular, en lo que se refiere a controles en origen, organización y curso que hay que dar a los controles a realizar por la autoridad competente, así como a las medidas de salvaguardia que deban aplicarse.»
