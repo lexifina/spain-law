@@ -6,101 +6,106 @@ Conforme a lo dispuesto en el artículo 13 de esta Ley, los importes anuales y d
 
 |  | Pesetas |
 | --- | --- |
-| Educación General Básica Primaria: |  |
+| Educación General Básica/Primaria: |  |
 | Salarios de personal docente, incluidas cargas sociales: |  |
-| Del 1 de enero al 31 de agosto de 1993. | 3.072.895 |
-| Del 1 de septiembre al 31 de diciembre de 1993. | 3.186.954 |
-| Otros gastos (media). | 688.734 |
-| Gastos variables. | 450.223 |
+| del 1 de enero al 31 de agosto de 1993 | 3.131.188 |
+| del 1 de septiembre al 31 de diciembre de 1993 | 3.247.411 |
+| Otros gastos (media) | 688.734 |
+| Gastos variables | 450.223 |
 | Importe total anual: |  |
-| Del 1 de enero al 31 de agosto de 1993. | 4.211.852 |
-| Del 1 de septiembre al 31 de diciembre de 1993. | 4.325.911 |
-| Educación Especial (Niveles obligatorios y gratuitos): |  |
+| del 1 de enero al 31 de agosto de 1993 | 4.270.145 |
+| del 1 de septiembre al 31 de diciembre de 1993 | 4.386.368 |
+| Educación Especial (niveles obligatorios y gratuitos): |  |
 | I. Educación Básica/Primaria: |  |
 | Salarios de personal docente, incluidas cargas sociales: |  |
-| Del 1 de enero al 31 de agosto de 1993. | 3.072.895 |
-| Del 1 de septiembre al 31 de diciembre de 1993. | 3.186.954 |
-| Otros gastos (media). | 734.649 |
-| Gastos variables. | 450.223 |
+| del 1 de enero al 31 de agosto de 1993 | 3.131.188 |
+| del 1 de septiembre al 31 de diciembre de 1993 | 3.247.411 |
+| Otros gastos (media) | 734.649 |
+| Gastos variables | 450.223 |
 | Suma conceptos generales: |  |
-| Del 1 de enero al 31 de agosto de 1993. | 4.257.767 |
-| Del 1 de septiembre al 31 de diciembre de 1993. | 4.371.826 |
-| Personal complementario (Logopedas, Fisioterapeutas y Cuidadores), según deficiencias (desde el 1 de enero hasta el 31 de diciembre de 1993): |  |
-| Psíquicos. | 1.578.866 |
-| Motóricos. | 2.812.879 |
-| Autistas o problemas graves de personalidad. | 982.943 |
-| Auditivos. | 1.170.451 |
-| Plurideficientes. | 1.972.289 |
-| II. Formación Profesional «Aprendizaje de Tareas». |  |
+| del 1 de enero al 31 de agosto de 1993 | 4.316.060 |
+| del 1 de septiembre al 31 de diciembre de 1993 | 4.432.283 |
+| Personal complementario (Logopedas, Fisioterapeutas y cuidadores), según deficiencias (desde el 1 de enero hasta el 31 de diciembre de 1993): |  |
+| Psíquicos | 1.578.866 |
+| Motóricos | 2.812.879 |
+| Autistas o problemas graves de personalidad | 982.943 |
+| Auditivos | 1.170.451 |
+| Plurideficientes | 1.972.289 |
+| II. Formación Profesional «Aprendizaje de Tareas»: |  |
 | Salarios de personal docente, incluidas cargas sociales: |  |
-| Del 1 de enero al 31 de agosto de 1993. | 6.289.616 |
-| Del 1 de septiembre al 31 de diciembre de 1993. | 6.582.382 |
-| Otros gastos (media). | 1.046.604 |
+| del 1 de enero al 31 de agosto de 1993 | 6.408.930 |
+| del 1 de septiembre al 31 de diciembre de 1993 | 6.707.250 |
+| Otros gastos (media) | 1.046.604 |
 | Gastos variables: |  |
-| Del 1 de enero al 31 de agosto de 1993. | 574.696 |
-| Del 1 de septiembre al 31 de diciembre de 1993. | 590.728 |
+| del 1 de enero al 31 de agosto de 1993 | 574.696 |
+| del 1 de septiembre al 31 de diciembre de 1993 | 590.728 |
 | Suma conceptos generales: |  |
-| Del 1 de enero al 31 de agosto de 1993. | 7.910.916 |
-| Del 1 de septiembre al 31 de diciembre de 1993. | 8.219.714 |
-| Personal complementario (Logopedas, Fisioterapeutas y Cuidadores), según deficiencias (desde el 1 de enero hasta el 31 de diciembre de 1993): |  |
-| Psíquicos. | 2.110.618 |
-| Motóricos. | 5.625.758 |
-| Autistas o problemas graves de personalidad. | 1.574.192 |
-| Auditivos. | 1.273.962 |
-| Plurideficientes. | 2.933.459 |
-| Formación Profesional de Primer Grado: Ramas Industrial y Agraria: |  |
+| del 1 de enero al 31 de agosto de 1993 | 8.030.230 |
+| del 1 de septiembre al 31 de diciembre de 1993 | 8.344.582 |
+| Personal complementario (Logopedas, Fisioterapeutas y cuidadores), según deficiencias (desde el 1 de enero hasta el 31 de diciembre de 1993): |  |
+| Psíquicos | 2.110.618 |
+| Motóricos | 5.625.758 |
+| Autistas o problemas graves de personalidad | 1.574.192 |
+| Auditivos | 1.273.962 |
+| Plurideficientes | 2.933.459 |
+| Formación Profesional de Primer Grado: |  |
+| Ramas Industrial y Agraria: |  |
 | Gastos de personal docente, incluidas cargas sociales: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 5.428.685 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 5.730.280 |
-| Otros gastos (media). | 981.191 |
+| del 1 de enero al 30 de septiembre de 1993 | 5.531.667 |
+| del 1 de octubre al 31 de diciembre de 1993 | 5.838.983 |
+| Otros gastos (media) | 981.191 |
 | Gastos variables: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 742.178 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 783.456 |
+| del 1 de enero al 30 de septiembre de 1993 | 742.178 |
+| del 1 de octubre al 31 de diciembre de 1993 | 783.456 |
 | Importe total anual: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 7.152.054 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 7.494.927 |
+| del 1 de enero al 30 de septiembre de 1993 | 7.255.036 |
+| del 1 de octubre al 31 de diciembre de 1993 | 7.603.630 |
 | Rama Servicios: |  |
 | Gastos de personal docente, incluidas cargas sociales: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 5.428.685 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 5.730.280 |
-| Otros gastos (media). | 858.209 |
+| del 1 de enero al 30 de septiembre de 1993 | 5.531.667 |
+| del 1 de octubre al 31 de diciembre de 1993 | 5.838.983 |
+| Otros gastos (media) | 858.209 |
 | Gastos variables: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 742.178 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 783.456 |
+| del 1 de enero al 30 de septiembre de 1993 | 742.178 |
+| del 1 de octubre al 31 de diciembre de 1993 | 783.456 |
 | Importe total anual: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 7.029.072 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 7.371.945 |
+| del 1 de enero al 30 de septiembre de 1993 | 7.132.054 |
+| del 1 de octubre al 31 de diciembre de 1993 | 7.480.648 |
 | Formación Profesional de Segundo Grado: |  |
-| Ramas Administrativas y Delineación: |  |
+| Ramas Administrativa y Delineación: |  |
 | Gastos de personal docente, incluidas cargas sociales: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 5.086.074 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 5.289.489 |
-| Otros gastos (media). | 919.540 |
+| del 1 de enero al 30 de septiembre de 1993 | 5.182.557 |
+| del 1 de octubre al 31 de diciembre de 1993 | 5.389.831 |
+| Otros gastos (media) | 919.540 |
 | Gastos variables: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 759.383 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 789.778 |
+| del 1 de enero al 30 de septiembre de 1993 | 759.383 |
+| del 1 de octubre al 31 de diciembre de 1993 | 789.778 |
 | Importe total anual: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 6.764.997 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 6.998.807 |
+| del 1 de enero al 30 de septiembre de 1993 | 6.861.480 |
+| del 1 de octubre al 31 de diciembre de 1993 | 7.099.149 |
 | Restantes Ramas: |  |
 | Gastos de personal docente, incluidas cargas sociales: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 5.086.074 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 5.289.489 |
-| Otros gastos (media). | 1.050.721 |
+| del 1 de enero al 30 de septiembre de 1993 | 5.182.557 |
+| del 1 de octubre al 31 de diciembre de 1993 | 5.389.831 |
+| Otros gastos (media) | 1.050.721 |
 | Gastos variables: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 759.383 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 789.778 |
+| del 1 de enero al 30 de septiembre de 1993 | 759.383 |
+| del 1 de octubre al 31 de diciembre de 1993 | 789.778 |
 | Importe total anual: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 6.896.178 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 7.129.988 |
+| del 1 de enero al 30 de septiembre de 1993 | 6.992.661 |
+| del 1 de octubre al 31 de diciembre de 1993 | 7.230.330 |
 | Centros de Bachillerato Unificado y Polivalente, Curso de Orientación Universitaria procedentes de antiguas Secciones filiales: |  |
 | Gastos de personal docente, incluidas cargas sociales: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 4.764.255 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 4.970.943 |
-| Otros gastos (media). | 988.238 |
+| del 1 de enero al 30 de septiembre de 1993 | 4.854.633 |
+| del 1 de octubre al 31 de diciembre de 1993 | 5.065.242 |
+| Otros gastos (media) | 988.238 |
 | Gastos variables: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 934.447 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 974.936 |
+| del 1 de enero al 30 de septiembre de 1993 | 934.447 |
+| del 1 de octubre al 31 de diciembre de 1993 | 974.936 |
 | Importe total anual: |  |
-| Del 1 de enero al 30 de septiembre de 1993. | 6.686.940 |
-| Del 1 de octubre al 31 de diciembre de 1993. | 6.934.117 |
+| del 1 de enero al 30 de septiembre de 1993 | 6.777.318 |
+| del 1 de octubre al 31 de diciembre de 1993 | 7.028.416 |
+
+> Se modifica por el art. 2 del Real Decreto-ley 1/1993, de 8 de enero. Ref. BOE-A-1993-688
+
+> Esta modificación produce efectos económicos desde el 1 de enero de 1993, según establece la disposición final 1 del citado Real Decreto-ley.
