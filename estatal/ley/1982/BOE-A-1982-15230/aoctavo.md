@@ -31,3 +31,7 @@ k) La propuesta al Gobierno de desafectación de bienes muebles e inmuebles del 
 l) Aceptar donaciones, herencias o legados y, en general acordar las adquisiciones a título lucrativo de cualquier clase de bienes. La aceptación de herencias se entenderá hecha a beneficio de inventario.
 
 m) Elaborar y aprobar con carácter anual el anteproyecto de presupuesto del Patrimonio Nacional y remitirlo al Gobierno para su posterior inclusión en los Presupuestos Generales del Estado.
+
+n) La adopción de las medidas necesarias para el uso y gestión de los espacios naturales, en ejecución de los planes de protección medioambiental a que se refiere el artículo 3.
+
+> Se añade la letra n) por el art. 3 de la Ley 44/1995, de 27 de diciembre. Ref. BOE-A-1995-27753

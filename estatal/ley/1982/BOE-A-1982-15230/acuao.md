@@ -21,3 +21,7 @@ Ocho. Las donaciones hechas al Estado a través del Rey y los demás bienes y de
 Para la exacta delimitación de los bienes enumerados en los seis primeros apartados de este artículo, se atenderá al perímetro fijado por los correspondientes Decretos de declaración de conjunto histórico-artístico. En su defecto, se seguirá el criterio de preservar la unidad del conjunto monumental.
 
 A los efectos de está Ley se entiende por «Monte de El Pardo» la superficie de terreno que, bajo este nombre, aparece descrita en los planos del Instituto Geográfico Nacional.
+
+El Plan de protección medioambiental del monte de El Pardo afectará únicamente a los terrenos de dicho monte que tengan la calificación de rústicos.
+
+> Se añade el párrafo final por el art. 2 de la Ley 44/1995, de 27 de diciembre. Ref. BOE-A-1995-27753
