@@ -124,27 +124,27 @@ Cuota mínima municipal de:
 
 – En poblaciones de más de 500.000 habitantes: 68.000 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 54.800 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 55.000 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 41.200 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 41.000 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 29.400 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 30.400 pesetas.
 
-– En las poblaciones restantes: 17.300 pesetas.
+– En las poblaciones restantes: 18.000 pesetas.
 
-Epígrafe 673.2 Otros cafés y bares.
+Epígrafe 673.2 otros cafés y bares.
 
 Cuota mínima municipal de:
 
-– En poblaciones de más de 500.000 habitantes: 49.000 pesetas.
+– En poblaciones de más de 500.000 habitantes: 26.500 pesetas.
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 39.200 pesetas.
+– En poblaciones de más de 100.000 a 500.000 habitantes: 21.400 pesetas.
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 29.400 pesetas.
+– En poblaciones de más de 40.000 a 100.000 habitantes: 16.000 pesetas.
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 21.600 pesetas.
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.400 pesetas.
 
-– En las poblaciones restantes: 13.800 pesetas.
+– En las poblaciones restantes: 9.400 pesetas.
 
 Nota: En este epígrafe se clasificarán las denominadas tabernas.
 
@@ -259,3 +259,5 @@ Cuota mínima municipal de:
 – En las poblaciones restantes: 14.000 pesetas.
 
 Nota: Este epígrafe comprende los servicios de alimentación consistentes en la condimentación y venta de alimentos para ser consumidos fuera del lugar de elaboración en raciones o al por mayor, así como cuando los productos elaborados se destinen al servicio de «catering» o de colectividades.
+
+> Se modifican los epígrafes 673.1 y 2 por el art. 78.1.9 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

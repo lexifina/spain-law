@@ -268,7 +268,7 @@ Cuota provincial de: 280.000 pesetas.
 
 Cuota nacional de: 1.400.000 pesetas.
 
-Nota: Los sujetos pasivos matriculados en este epígrafe están facultados para colocar los trabajos realizados en sus talleres en las distintas obras, siempre que para ello no se empleen más de cuatro obreros. Cuando el número de obreros exceda de esta cifra o cuando se coloquen en obra trabajos realizados en otros talleres se tributará además por el epígrafe 503.1.
+Nota: Los sujetos pasivos matriculados en este epígrafe están facultados para colocar los trabajos realizados en sus talleres en las distintas obras, siempre que para ello no se empleen más de cuatro obreros. Cuando el número de obreros exceda de esta cifra o cuando se coloquen en obra trabajos realizados en otros talleres se tributara por el epígrafe 503.1.
 
 Si los sujetos pasivos comprendidos en estos epígrafes integran en sus trabajos hierro, bronce u otros metales semejantes, pagarán además un recargo del 10 por 100 sobre sus cuotas.
 
@@ -629,3 +629,5 @@ Notas:
 ## Grupo 508. Agrupaciones y uniones temporales de empresas.
 
 Nota: Las agrupaciones y uniones temporales de empresas se darán de alta en la matrícula del impuesto por este grupo, sin pago de cuota alguna. Lo anterior se entiende sin perjuicio de la tributación que corresponda a las empresas integrantes de la agrupación o unión de que se trate.
+
+> Se modifica el epígrafe 503.4 por el art. 78.1.4 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

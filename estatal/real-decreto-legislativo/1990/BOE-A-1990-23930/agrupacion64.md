@@ -182,13 +182,13 @@ Cuota mínima municipal de:
 
 Nota: Este epígrafe faculta para:
 
-– El comercio al por menor de todo tipo de pan y panes especiales; de productos de pastelería, confitería, bollería y repostería; de obleas y barquillos, caramelos, dulces, turrones, hojaldres, pastas, conservas en dulce, galletas, cacao y chocolate y sus derivados y sucedáneos; de leche, productos lácteos y miel; helados, fiambres, conservas de todas clases; salsas de carnes o pescados, frutas en almíbar, en mermelada o en pasta; infusiones, café y solubles; bebidas embotelladas y con marca; quesos, embutidos y emparedados.
+El comercio al por menor de todo tipo de pan y panes especiales; de productos de pastelería, confitería, bollería y repostería; de obleas y barquillos, caramelos, dulces, turrones, hojaldres, pastas, conservas en dulce, galletas, cacao y chocolate y sus derivados y sucedáneos; de leche, productos lácteos y miel; helados, fiambres, conservas de todas clases; salsas de carnes o pescados, frutas en almíbar, en mermelada o en pasta; infusiones, café y solubles; bebidas embotelladas y con marca; quesos, embutidos y emparedados.
 
-– La fabricación de pan de todas clases y productos de bollería en el propio establecimiento, siempre que su comercialización se realice en las propias dependencias de venta.
+La fabricación de pan de todas clases y productos de pastelería, bollería, confitería y helados, en el propio establecimiento, siempre que su comercialización se realice en las propias dependencias de venta.
 
-– Degustar los productos en el propio establecimiento, acompañados de bebidas refrescantes.
+Degustar los productos en el propio establecimiento acompañados de bebidas refrescantes y solubles.
 
-– Comercializar los artículos en envases de bisutería fina, porcelana o fantasía, así como en otro tipo de envases, tales como muñecos de plástico o trapo.
+Comercializar los artículos en envases de bisutería fina, porcelana o fantasía, así como en otro tipo de envases tales como muñecos de plástico o trapo.
 
 Epígrafe 644.2 Despachos de pan, panes especiales y bollería.
 
@@ -427,3 +427,5 @@ Epígrafe 647.5 Suministro de productos alimenticios y bebidas, excluido el taba
 Cuota mínima municipal: 1.120 pesetas por máquina. Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local en el cual la máquina esté instalada, siempre que perciba contraprestación por esta actividad.
 
 Cuota nacional: 1.120 pesetas por máquina. Esta cuota la satisfará, exclusivamente, el propietario de las máquinas.
+
+> Se modifica el epígrafe 644.1 por el art. 78.8 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

@@ -488,7 +488,9 @@ Notas:
 
 1.ª Este epígrafe faculta para reparar, en el propio establecimiento, los artículos que en el mismo se especifican.
 
-2.ª El comercio al por menor de bisutería exclusivamente, tributará al 50 por 100 de las cuotas anteriores.
+2.ª El comercio al por menor de bisutería exclusivamente, tributará al 50 por 100 de las cuotas anteriores. La misma reducción de las cuotas en el 50 por 100 se aplicará al comercio al por menor de relojería exclusivamente.
+
+3.ª Este epígrafe faculta para la venta en el propio establecimiento de objetos de cristal, bronce y otros metales, como espejos, arañas, lámparas, candelabros y demás artículos de adorno.
 
 Epígrafe 659.6 Comercio al por menor de juguetes, artículos de deporte, prendas deportivas de vestido, calzado y tocado, armas, cartuchería y artículos de pirotecnia.
 
@@ -559,3 +561,5 @@ Cuota mínima municipal de:
 Nota común a las agrupaciones 64 y 65:
 
 Cuando los locales en los que se ejerzan las actividades clasificadas en las agrupaciones 64 y 65 tengan una superficie computable igual o inferior a 50 metros cuadrados, la cuota de los grupos o epígrafes correspondientes será el 50 por 100 de la señalada en cada caso.
+
+> Se modifica el epígrafe 659.5 por el art. 78.1.5 y 6 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

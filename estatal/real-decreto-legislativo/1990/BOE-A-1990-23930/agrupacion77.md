@@ -27,3 +27,9 @@ Cuota de: 22.500 pesetas.
 ## Grupo 777. Especialistas en asuntos de personal y orientación y análisis profesional.
 
 Cuota de: 27.000 pesetas.
+
+## Grupo 778. Diplomados en Biblioteconomía y Documentación
+
+Cuota de 17.000 pesetas.
+
+> Se añade el Grupo 778 por el art. 78.1.18 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

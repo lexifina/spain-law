@@ -10,7 +10,7 @@ b) Las explotaciones en las que se ejerzan las actividades de extracción de pet
 
 c) Las centrales de producción de energía eléctrica.
 
-d) Las redes de suministro, oleoductos, gasoductos, etc., donde se ejercen las actividades de transporte y distribución de energía eléctrica (incluyendo las estaciones de transformación), así como las de distribución de crudos de petróleo, gas natural, gas ciudad, agua y vapor.
+d) Las redes de suministro, oleoductos, gasoductos, etc., donde se ejercen las actividades de transporte y distribución de energía eléctrica (incluyendo las estaciones de transformación), así como las de distribución de crudos de petróleo, gas natural, gas ciudad y vapor. Tampoco tendrán la consideración de local las redes de suministro y demás instalaciones afectas a la distribución de agua a núcleos urbanos, ni las plantas e instalaciones de tratamiento de la misma.
 
 e) Las obras, instalaciones y montajes objeto de la actividad de construcción, incluyendo oficinas, barracones y demás construcciones temporales sitas a pie de obra y que se utilicen exclusivamente durante el tiempo de ejecución de la obra, instalación o montaje.
 
@@ -23,6 +23,8 @@ h) Los bienes inmuebles, tanto de naturaleza rústica como urbana, objeto de las
 i) Las autopistas, carreteras, puentes y túneles de peaje, cuya explotación constituya actividad gravada por el impuesto.
 
 j) Las pistas de aterrizaje, hangares y los puertos, excepto las construcciones.
+
+En consecuencia, las instalaciones especificadas en las letras anteriores, no se considerarán a efectos del elemento tributario de superficie regulado en la Regla 14.1.F) de la presente instrucción, ni tampoco a efectos del índice previsto en el artículo 89 de la Ley 39/1988, de 28 de diciembre.
 
 2. En particular, y a efectos de lo previsto en el apartado 2.A) de la Regla 5.ª de esta Instrucción, se consideran locales separados:
 
@@ -38,6 +40,8 @@ e) Los puestos, cajones y compartimentos en las ferias, mercados o exposiciones 
 
 La Administración tributaria podrá considerar también la existencia de locales separados cuando en un local único se ejerzan actividades que sean objeto por su titular de administración o contabilidad distinta.
 
-Cuando se trate de fabricantes que efectúen las fases de fabricación de un determinado producto en instalaciones no situadas dentro de un mismo recinto se considerará el conjunto de todas como un solo local, siempre que dichas fases no constituyan por sí actividad que tenga señalada en las Tarifas tributación independiente. Este criterio de unidad de local se aplicará también en aquellos casos en los que las instalaciones de un establecimiento de hospedaje, o depósito, no estén ubicadas en el mismo recinto.
+Cuando se trate de fabricantes que efectúen las fases de fabricación de un determinado producto en instalaciones no situadas dentro de un mismo recinto, pero que integren una unidad de explotación, se considerará el conjunto de todas como un solo local, siempre que dichas fases no constituyan por si actividad que tenga señalada en las Tarifas tributación independiente. Este criterio de unidad de local se aplicará también en aquellos casos en los que las instalaciones de un establecimiento de hospedaje, o deportivas, no estén ubicadas en el mismo recinto.
 
 3. Cuando un bien se destine conjuntamente a vivienda y al ejercicio de una actividad gravada, sólo tendrá la consideración de local a efectos del impuesto, la parte del bien en la que, efectivamente, se ejerza la actividad de que se trate.
+
+> Se modifican los apartados 1 y 2 por el art. 78.2.2 a 4 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

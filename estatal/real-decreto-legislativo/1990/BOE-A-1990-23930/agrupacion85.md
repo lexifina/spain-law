@@ -70,32 +70,72 @@ Por cada 25 aparatos o fracción destinados a tal fin:
 
 Cuota nacional de: 2.000 pesetas.
 
-Epígrafe 857.4 Alquiler, lectura y conservación de contadores de energía eléctrica, gas y agua.
+Epígrafe 857.4 Alquiler, lectura y conservación de contadores de energía eléctrica.
 
 Por cada 1.000 aparatos o fracción destinados a tal fin:
 
-Cuota mínima municipal de: 11.000 pesetas.
+Cuota mínima municipal de 11.000 pesetas.
 
-Cuota provincial de: 11.000 pesetas.
+Cuota provincial de 11.000 pesetas.
 
-Cuota nacional de: 11.000 pesetas.
+Cuota nacional de 11.000 pesetas.
 
-Nota: Cuando la actividad se ejerza por una empresa distribuidora de energía eléctrica, gas o agua, la cuota será el 50 por ciento de la señalada en este epígrafe.
-
-Epígrafe 857.5 Lectura y conservación por un tanto alzado de contadores de energía eléctrica, gas y agua.
+Epígrafe 857.5 Lectura y conservación por un tanto alzado de contadores de energía eléctrica.
 
 Por cada 1.000 aparatos o fracción destinados a tal fin:
 
-Cuota mínima municipal de: 8.000 pesetas.
+Cuota mínima municipal de 8.000 pesetas.
 
-Cuota provincial de: 8.000 pesetas.
+Cuota provincial de 8.000 pesetas.
 
-Cuota nacional de: 8.000 pesetas.
+Cuota nacional de 8.000 pesetas.
 
-Nota: Cuando la actividad se ejerza por una empresa distribuidora de energía eléctrica, gas o agua, la cuota será el 50 por ciento de la señalada en este epígrafe.
+Epígrafe 857.6 Alquiler, lectura y conservación de contadores de gas.
+
+Por cada 1.000 aparatos o fracción destinados a tal fin:
+
+Cuota mínima municipal de 11.000 pesetas.
+
+Cuota provincial de 11.000 pesetas.
+
+Cuota nacional de 11.000 pesetas.
+
+Epígrafe 857.7 Lectura y conservación por un tanto alzado de contadores de gas.
+
+Por cada 1.000 aparatos o fracción destinados a tal fin:
+
+Cuota mínima municipal de 8.000 pesetas.
+
+Cuota provincial de 8.000 pesetas.
+
+Cuota nacional de 8.000 pesetas.
+
+Epígrafe 857.8 Alquiler, lectura y conservación de contadores de agua.
+
+Por cada 1.000 aparatos o fracción destinados a tal fin:
+
+Cuota mínima municipal de 700 pesetas.
+
+Cuota provincial de 700 pesetas.
+
+Cuota nacional de 700 pesetas.
+
+Epígrafe 857.9 Lectura y conservación por un tanto alzado de contadores de agua.
+
+Por cada 1.000 aparatos o fracción destinados a tal fin:
+
+Cuota mínima municipal de 500 pesetas.
+
+Cuota provincial de 500 pesetas.
+
+Cuota nacional de 500 pesetas.
+
+Nota común a los epígrafes 857.4 a 857.9: cuando la actividad se ejerza por una empresa distribuidora de energía eléctrica, gas o agua, la cuota será el 50 por 100 de la señalada en el epígrafe que corresponda.
 
 ## Grupo 859. Alquiler de otros bienes muebles n.c.o.p. (sin personal permanente).
 
 Cuota de: 32.000 pesetas.
 
 Nota: Este grupo comprende el alquiler (con o sin opción a compra y como servicio especializado) de bienes muebles no especificados en los grupos anteriores de la agrupación «Alquiler de bienes muebles» (85), tales como maquinaria y equipo para minería y petróleo, para la industria de transformación, máquinas expendedoras de artículos o suministradoras de servicios, maquinaria y equipos hoteleros, etc.; sin que este alquiler incluya los servicios del personal que maneja dicha maquinaria y equipo.
+
+> Se modifican los epígrafes 857.4 y 5 y se añaden el 857.6 a 9 por el art. 78.1.14 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

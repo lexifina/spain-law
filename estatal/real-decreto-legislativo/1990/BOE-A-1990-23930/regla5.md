@@ -24,7 +24,9 @@ a) Las actividades mineras y las extractivas, en general, incluyendo la captaci�
 
 b) La actividad de producción de energía eléctrica; esta actividad se ejerce en el término municipal en el que radique la respectiva central.
 
-c) Las actividades de transporte y distribución de energía eléctrica, así como las de distribución de crudos de petróleo, gas natural, gas ciudad, agua y vapor; estas actividades se ejercen en el término municipal cuyo vuelo, suelo o subsuelo esté ocupado por las respectivas redes de suministro, oleoductos, gasoductos, etc.
+c) Las actividades de transporte y distribución de energía eléctrica, así como las de distribución de crudos de petróleo, gas natural, gas ciudad y vapor; estas actividades se ejercen en el término municipal cuyo vuelo, suelo o subsuelo esté ocupado por las respectivas redes de suministro, oleoductos, gasoductos, etc.
+
+Las actividades de distribución y tratamiento de agua para núcleos urbanos; estas actividades se ejercen en el término municipal en el que se distribuya el agua o estén situadas las plantas o instalaciones de tratamiento de la misma.
 
 d) Las actividades de construcción; estas actividades se ejercen en el término municipal en el que se realicen las ejecuciones de obra y las instalaciones y montajes.
 
@@ -47,3 +49,5 @@ a) Cuando las actividades se ejerzan en local determinado, el término municipal
 b) Cuando la actividad no se realice en local determinado, el término municipal en el que tenga su domicilio fiscal el sujeto pasivo.
 
 4. El lugar de realización de las actividades artísticas será el término municipal en el que tenga su domicilio fiscal el sujeto pasivo.
+
+> Se modifica el apartado 2.B).c) por el art. 78.2.1 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

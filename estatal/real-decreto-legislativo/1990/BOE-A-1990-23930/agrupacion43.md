@@ -144,6 +144,8 @@ Por cada Kw: 1.790 pesetas.
 
 Nota: Este epígrafe comprende la fabricación a partir de hilos, de prendas exteriores de punto para señora, caballero y niños, tales como jerseys, chaquetas, vestidos, conjuntos, pantalones, camisas, ropa de niño, trajes de baño y deporte, guantes, corbatas, boinas, sombreros, bufandas, etc.
 
+Nota común al grupo 435: Cuando los sujetos pasivos realicen las actividades comprendidas en este grupo, exclusivamente, para terceros y por encargo, con un número de obreros inferior a 10, la cuota será el 25 por 100 de la asignada al epígrafe correspondiente; si el número de obreros fuera superior a 9 e inferior a 25, la cuota será el 50 por 100 de la asignada al epígrafe correspondiente.
+
 ## Grupo 436. Acabado de textiles.
 
 Cuota de:
@@ -229,3 +231,5 @@ Por cada obrero: 980 pesetas.
 Por cada Kw: 980 pesetas.
 
 Nota: Este epígrafe comprende la fabricación de otros artículos textiles, tales como textiles elásticos, guata, borra, miraguano, crin, entretelas y otras materias para relleno de tapicería y otros usos, etc.
+
+> Se añade la nota común al Grupo 435 por el art. 78.1.3 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

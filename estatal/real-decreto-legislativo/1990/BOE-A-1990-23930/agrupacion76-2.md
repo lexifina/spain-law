@@ -16,6 +16,8 @@ Cuota de: 18.400 pesetas.
 
 Cuota de: 20.000 pesetas.
 
-## Grupo 765. Grabadores informáticos y otros profesionales auxiliares del tratamiento electrónico de datos.
+## Grupo 765. Grabadores, Informáticos y otros profesionales auxiliares del tratamiento electrónico de datos.
 
-Cuota de: 24.000 pesetas.
+Cuota de: 18.400 pesetas.
+
+> Se modifica el Grupo 765 por el art. 78.1.17 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

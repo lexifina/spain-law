@@ -6,17 +6,29 @@ Epígrafe 751.1 Explotación de aparcamientos.
 
 Cuota de:
 
-Hasta un límite de 250 metros cuadrados de superficie dedicada a esta actividad: 32.500 pesetas.
+Hasta un límite de 250 metros cuadrados de superficie total dedicados a esta actividad: 32.500 pesetas.
 
-Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior: 9.000 pesetas.
+Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior: 8.000 pesetas.
 
-Epígrafe 751.2 Explotación de autopistas, carreteras, puentes y túneles de peaje.
+Epígrafe 751.2 Explotación de aparcamientos en solares o terrenos sin edificar.
+
+Cuota de:
+
+Hasta un límite de 250 metros cuadrados de superficie total dedicados a esta actividad: 12.000 pesetas.
+
+Por cada 50 metros cuadrados o fracción que exceda del límite anterior:
+
+Municipios que tengan una población de derecho superior a 100.000 habitantes: 1.800 pesetas.
+
+Municipios que tengan una población de derecho igual o inferior a 100.000 habitantes: 900 pesetas.
+
+Epígrafe 751.3 Explotación de autopistas, carreteras, puentes y túneles de peaje.
 
 Cuota:
 
-Cuota mínima municipal de 7.000 pesetas por kilómetro.
+Cuota mínima municipal de: 7.000 pesetas por kilómetro.
 
-Cuota provincial de 22.000 pesetas por kilómetro.
+Cuota provincial de: 22.000 pesetas por kilómetro.
 
 ## Grupo 752. Actividades anexas al transporte marítimo y por vías navegables interiores.
 
@@ -203,3 +215,5 @@ Epígrafe 756.1 Agencias de transporte, transitarios.
 Epígrafe 756.2 Consignatarios de buques.
 
 Epígrafe 756.9 Otros servicios de mediación del transporte.
+
+> Se modifica el grupo 751 por el art. 78.11 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

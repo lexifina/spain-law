@@ -60,21 +60,21 @@ Por cada Kw: 200 pesetas.
 
 Nota: Este epígrafe comprende la elaboración de harinas de pescado, de huesos y otras sustancias animales o vegetales para usarlas como alimento o en la preparación de alimentos para animales.
 
-Epígrafe 422.3 Elaboración de piensos compuestos de cualquier clase, a excepción de los incluidos en el epígrafe 422.4 (15).
+Epígrafe 422.3 Elaboración de piensos compuestos de cualquier clase, a excepción de los incluidos en el epígrafe 422.4.
 
 Cuota de:
 
-Por cada obrero: 1.120 pesetas.
+Por cada obrero: 1.120 pesetas
 
-Por cada Kw: 600 pesetas.
+Por cada Kw: 600 pesetas
 
-Epígrafe 422.4 Elaboración de piensos compuestos para perros, gatos y otros animales familiares (16).
+Epígrafe 422.4. Elaboración de piensos compuestos para perros, gatos y otros animales familiares.
 
 Cuota de:
 
-Por cada obrero: 1.400 pesetas.
+Por cada obrero: 1.400 pesetas
 
-Por cada Kw: 750 pesetas.
+Por cada Kw: 750 pesetas
 
 ## Grupo 423. Elaboración de productos alimenticios diversos.
 
@@ -273,3 +273,5 @@ Cuota de:
 Por cada obrero: 780 pesetas.
 
 Por cada Kw: 280 pesetas.
+
+> Se modifica por el art. 78.1.2 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

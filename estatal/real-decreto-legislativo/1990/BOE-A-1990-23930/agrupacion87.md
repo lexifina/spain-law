@@ -16,4 +16,6 @@ Nota: Los sujetos pasivos clasificados en este grupo están facultados para la d
 
 Cuota de: 19.000 pesetas.
 
-Nota: Aquellos expendedores que realicen su actividad en establecimientos tales como bares, comercios, etc., cuya actividad principal no sea la recepción de Apuestas Deportivas, Juegos y Loterías, tributarán con el 25 por ciento de la cuota asignada a este grupo.
+Nota: Aquellos expendedores que realicen su actividad en establecimientos tales como bares, comercios, etc., cuya actividad principal no sea la recepción de Apuestas Deportivas, Juegos y Loterías, incrementarán la cuota correspondiente a su actividad principal con una cantidad igual al 10 por 100 de la cuota asignada a este Grupo 873.
+
+> Se modifica la nota del grupo 873 por el art. 78.1.7 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

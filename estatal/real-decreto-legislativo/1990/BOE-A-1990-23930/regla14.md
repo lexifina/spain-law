@@ -138,7 +138,7 @@ Cuotas provinciales y nacionales
 
 h) Los locales en los que los sujetos pasivos por cuota mínima municipal no ejerzan directamente sus actividades respectivas, tales como centros de dirección, oficinas administrativas, centros de cálculo, almacenes o depósitos para los que se esté facultado, etc., tributarán cada uno de ellos por una cuota mínima de las previstas en el párrafo segundo de apartado 1 de la Regla 10.ª Dicha cuota mínima estará integrada, exclusivamente, por el importe que resulte de aplicar el cuadro que corresponda de los contenidos en la letra d) anterior, sin que proceda ponderar dicho importe por aplicación del coeficiente resultante del cuadro contenido en la letra e).
 
-Lo dispuesto en el párrafo anterior se aplicará, igualmente, respecto de las instalaciones distintas de la principal, en los supuestos a que se refiere el tercer párrafo de la letra e) del apartado 2 de la Regla 6.ª
+(Párrafo segundo suprimido)
 
 i) Cuando se tribute por cuota mínima municipal, en Municipios en los que no estuviere establecido el Impuesto Municipal sobre la Radicación a 31 de diciembre de 1991, la parte de la cuota correspondiente al elemento tributario superficie de los locales se reducirá aplicando los siguientes porcentajes:
 
@@ -171,3 +171,5 @@ c) A los efectos de aplicar las letras anteriores se tomarán los datos referent
 Cuando en las industrias ocurra alguno de los casos de interdicción judicial, incendio, inundación, hundimiento, falta absoluta de caudal de aguas empleado como fuerza motriz o graves averías en el equipo industrial, los interesados darán parte a la Administración Gestora del impuesto, y en el caso de comprobarse plenamente la interdicción por más de treinta días, o el siniestro o paralización de la industria, podrán obtener la rebaja de la parte proporcional de la cuota, según el tiempo que la industria hubiera dejado de funcionar.
 
 No será de aplicación la reducción antes fijada a la industria cuya cuota esté regulada según el tiempo de funcionamiento.
+
+> Se suprime el párrafo segundo del apartado 1.F).h) por el art. 78.2.5 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

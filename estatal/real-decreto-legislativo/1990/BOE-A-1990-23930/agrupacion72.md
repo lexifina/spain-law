@@ -50,7 +50,7 @@ Notas:
 
 1.ª Este epígrafe comprende el transporte regular, discrecional u ocasional de viajeros por carretera (incluso el alquiler de autocares con conductor), así como el transporte mixto de viajeros y mercancías.
 
-2.ª El pago de la cuota provincial faculta para ejercer la actividad en todas las provincias limítrofes a aquella en la que el vehículo esté dado de alta.
+2.ª El pago de la cuota provincial faculta para ejercer la actividad en todas las provincias limítrofes a aquélla en la que el vehículo este dado de alta. Lo anterior no será de aplicación cuando el vehículo disponga de autorización regional expedida por la Comunidad Autónoma no uniprovincial respectiva; en este caso el pago de la cuota provincial faculta para ejercer la actividad en todo el territorio de la Comunidad Autónoma de que se trate.
 
 3.ª En el cómputo del número de viajeros se incluyen los empleados de la empresa.
 
@@ -118,7 +118,7 @@ Notas comunes al grupo 722:
 
 1.ª Este grupo comprende el transporte (regular o no, urbano o interurbano) de mercancías en camiones o vehículos similares, así como los servicios de mudanzas.
 
-2.ª El pago de la cuota provincial faculta para ejercer la actividad en todas las provincias limítrofes a aquella en la que el vehículo esté dado de alta.
+2.ª El pago de la cuota provincial faculta para ejercer la actividad en todas las provincias limítrofes a aquélla en la que el vehículo este dado de alta. Lo anterior no será de aplicación cuando el vehículo disponga de autorización regional expedida por la Comunidad Autónoma no uniprovincial respectiva; en este caso el pago de la cuota provincial faculta para ejercer la actividad en todo el territorio de la Comunidad Autónoma de que se trate.
 
 ## Grupo 729. Otros transportes terrestres n.c.o.p.
 
@@ -133,3 +133,5 @@ Epígrafe 729.1 Servicios de transportes por ferrocarril de cremallera.
 Epígrafe 729.2 Servicios de transportes por teleféricos y funiculares.
 
 Epígrafe 729.3 Otros servicios de transportes terrestres n.c.o.p.
+
+> Se modifica la nota 2ª del epígrafe 721.3 y 722 por el art. 78.1.10 y 11 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

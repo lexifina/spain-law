@@ -22,6 +22,14 @@ Epígrafe 931.5 Enseñanza de Educación Superior.
 
 Cuota de: 38.570 pesetas.
 
+Notas comunes al Grupo 931:
+
+1.ª Cuando en el ejercicio de las actividades clasificadas en este Grupo se faciliten a los alumnos libros o artículos de escritorio, la cuota asignada al epígrafe correspondiente se incrementara en un 25 por 100.
+
+2.ª Cuando en el ejercicio de las actividades clasificadas en este grupo se preste el servicio de media pensión, la cuota asignada al epígrafe correspondiente se incrementara en un 25 por 100.
+
+3.ª Cuando en el ejercicio de las actividades clasificadas en este grupo se preste el servicio de internado, la cuota asignada al epígrafe correspondiente se incrementará en un 50 por 100. En estos casos no procederá el incremento previsto en la Nota 2.ª anterior.
+
 ## Grupo 932. Enseñanza no reglada de formación y perfeccionamiento profesional y educación superior.
 
 Epígrafe 932.1 Enseñanza de formación y perfeccionamiento profesional, no superior.
@@ -73,3 +81,5 @@ Epígrafe 936.4 Investigaciones en ciencias sociales, humanidades y jurídicas.
 Epígrafe 936.5 Investigación técnica industrial.
 
 Epígrafe 936.9 Otras investigaciones científicas y técnicas, n.c.o.p.
+
+> Se añaden las notas comunes al Grupo 931 por el art. 78.1.15 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

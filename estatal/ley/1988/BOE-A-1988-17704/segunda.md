@@ -10,6 +10,8 @@
 
 a) El Presidente, con categoría de Director General, será nombrado por el Gobierno, a propuesta del Ministro de Economía y Hacienda, y ostentará la representación legal del Instituto de Contabilidad y Auditoría de Cuentas, ejerciendo las facultades que le asigna la presente Ley y las que reglamentariamente se determinen.
 
-b) El Comité Consultivo del Instituto de Contabilidad y Auditoría de Cuentas es un órgano de asesoramiento que estará presidido por el Presidente de dicho Instituto y compuesto, en la forma que reglamentariamente se determine, por un máximo de diez miembros designados por el Ministro de Economía y Hacienda, de los cuales cuatro serán representantes del Ministerio de Economía y Hacienda y el resto a propuesta de las corporaciones de derecho público representativas de auditores de cuentas y expertos contables.
+b) El Comité Consultivo del Instituto de Contabilidad y Auditoría de Cuentas es un órgano de asesoramiento que estará presidido por el presidente de dicho Instituto y compuesto, en la forma que reglamentariamente se determine, por un máximo de once miembros designados por el Ministro de Economía y Hacienda, de los cuales cinco serán representantes del Ministerio de Economía y Hacienda y el resto a propuesta de las Corporaciones de Derecho público representativas de auditores de cuentas y expertos contables.
 
 5. El Gobierno mediante Real Decreto, a propuesta conjunta de los Ministros de Economía y Hacienda y para las Administraciones Públicas, procederá a la aprobación estatutaria correspondiente en la que se contendrán las especificaciones establecidas en el número 3 del articulo 6 de la Ley de Entidades Estatales Autónomas, de 26 de diciembre de 1958.
+
+> Se modifica la letra b) del apartado 4 por el art. 104 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903

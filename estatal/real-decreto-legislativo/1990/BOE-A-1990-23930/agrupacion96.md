@@ -110,39 +110,37 @@ Epígrafe 965.1 Espectáculos en salas y locales (excepto espectáculos taurinos
 
 Cuota de:
 
-– Hasta 10 espectáculos por año 25.000 pesetas.
+Fija: 20.000 pesetas.
 
-– Hasta 25 espectáculos por año 45.000 pesetas.
+Además: Por cada espectáculo celebrado:
 
-– Hasta 100 espectáculos por año 65.000 pesetas.
+En poblaciones de 100.000 o más habitantes: 900 pesetas.
 
-– Hasta 180 espectáculos por año 90.000 pesetas.
-
-– Más de 180 espectáculos por año 14.000 pesetas.
+En las restantes: 600 pesetas.
 
 Epígrafe 965.2 Espectáculos al aire libre (excepto espectáculos taurinos).
 
 Cuota de:
 
-– Hasta 5 espectáculos por año 12.500 pesetas.
+Fija: 10.000 pesetas.
 
-– Hasta 12 espectáculos por año 22.500 pesetas.
+Además: por cada espectáculo celebrado:
 
-– Hasta 50 espectáculos por año 32.500 pesetas.
+En poblaciones de 100.000 o más habitantes: 750 pesetas.
 
-– Más de 50 espectáculos por año 55.000 pesetas.
+En las restantes: 500 pesetas.
 
 Epígrafe 965.3 Espectáculos fuera de establecimiento permanente (excepto espectáculos taurinos).
 
-Cuota mínima municipal de: 79.000 pesetas.
+Cuota mínima municipal de 79.000 pesetas.
 
-Cuota provincial de: 298.000 pesetas.
+Cuota provincial de 298.000 pesetas.
 
-Cuota nacional de: 397.000 pesetas.
+Cuota nacional de 397.000 pesetas.
 
 Epígrafe 965.4 Empresas de espectáculos.
 
-Cuota de: 37.000 pesetas.
+Cuota de 37.000 pesetas.
 
 Nota: Las empresas de espectáculos que ejerzan la actividad en locales de su propiedad tributarán con arreglo a los epígrafes 965.1, 965.2 y 965.3, según los casos, y no estarán obligados a satisfacer cuota por este epígrafe.
 
@@ -150,37 +148,21 @@ Epígrafe 965.5 Espectáculos taurinos.
 
 Cuota de:
 
-En plazas de primera categoría:
+Fija: 75.000 pesetas.
 
-– Hasta 20 espectáculos por año 2.000.000 pesetas.
+Además: Por cada espectáculo celebrado:
 
-– Hasta 50 espectáculos por año 6.000.000 pesetas.
+En plazas de primera categoría: 120.000 pesetas.
 
-– Más de 50 espectáculos por año 8.000.000 pesetas.
+En plazas de segunda categoría: 80.000 pesetas.
 
-En plazas de segunda categoría:
+En plazas de tercera categoría: 60.000 pesetas.
 
-– Hasta 12 espectáculos por año 2.000.000 pesetas.
+En plazas de cuarta categoría: 40.000 pesetas.
 
-– Hasta 30 espectáculos por año 2.500.000 pesetas.
+Nota común a los epígrafes 965.1, 965.2 y 965.5: La parte fija de la cuota de estos epígrafes se exigirá en todo caso. A su vez, la parte de cuota por espectáculo celebrado se exigirá al celebrarse el mismo, estando obligado el sujeto pasivo a presentar en la administración tributaria competente dentro del primer mes de cada año natural declaración de variación de los espectáculos cuya celebración haya tenido lugar durante el año inmediato anterior.
 
-– Más de 30 espectáculos por año 4.000.000 pesetas.
-
-En plazas de tercera categoría:
-
-– Hasta 6 espectáculos por año 400.000 pesetas.
-
-– Hasta 15 espectáculos por año 900.000 pesetas.
-
-– Más de 15 espectáculos por año 1.400.000 pesetas.
-
-En plazas de cuarta categoría:
-
-– Hasta 3 espectáculos por año 100.000 pesetas.
-
-– Hasta 7 espectáculos por año 300.000 pesetas.
-
-– Más de 7 espectáculos por año 400.000 pesetas.
+En el supuesto de cese en el ejercicio de la actividad antes del 1 de enero, la declaración de los espectáculos cuya celebración haya tenido lugar durante el año en el que se produce el cese, deberá presentarse conjuntamente con la declaración de baja.
 
 ## Grupo 966. Bibliotecas, archivos, museos, jardines botánicos y zoológicos.
 
@@ -325,3 +307,5 @@ Notas:
 1.ª Los establecimientos que tengan instaladas máquinas recreativas y de azar tributarán por éstas con arreglo a lo prevenido en el epígrafe 969.4.
 
 2.ª Este epígrafe autoriza para realizar las actividades comprendidas en el epígrafe 969.5.
+
+> Se modifica el Grupo 965 por el art. 78.1.16 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

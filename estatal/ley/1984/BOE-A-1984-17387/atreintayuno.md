@@ -30,4 +30,6 @@ m) Los actos limitativos de la libre expresión de pensamiento, ideas y opinione
 
 n) Haber sido sancionado por la comisión de tres faltas graves en un período de un año.
 
-2. Las faltas de puntualidad y las de asistencia, cuando constituyan faltas leves, se sancionarán con la deducción proporcional de las retribuciones.
+2. (Derogado)
+
+> Se deroga el apartado 2 por el art. 36 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903
