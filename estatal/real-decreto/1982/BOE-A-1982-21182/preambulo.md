@@ -1,0 +1,5 @@
+El Real Decreto-ley nueve/mil novecientos ochenta y dos, de treinta de abril, modifica la redacción de los artículos veinticinco y treinta y uno, dos, del texto refundido regulador del Régimen Especial Agrario de la Seguridad Social, aprobado por Decreto dos mil ciento veintitrés/mil novecientos setenta y uno, de veintitrés de julio, incluyendo la prestación económica por Incapacidad Laboral Transitoria como mejora voluntaria en la acción protectora de los trabajadores por cuenta propia del citado Régimen Especial, tanto en cuanto a contingencias generales como a las de accidentes de trabajo y enfermedades profesionales, señalando dicho Real Decreto-ley que la prestación por incapacidad laboral transitoria, en ambos casos, se otorgará en las condiciones y con los requisitos que se determinen reglamentariamente.
+
+En su virtud, a propuesta del Ministro de Trabajo y Seguridad Social, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día veintitrés de julio de mil novecientos ochenta y dos,
+
+DISPONGO:

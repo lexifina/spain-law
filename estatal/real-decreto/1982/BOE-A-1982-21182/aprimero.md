@@ -1,0 +1,3 @@
+## Artículo primero.
+
+La mejora voluntaria de la acción protectora de los trabajadores por cuenta propia del Régimen Especial Agrario de la Seguridad Social a que se refieren los artículos veinticinco y treinta y uno, punto dos, del Decreto dos mil ciento veintitrés/mil novecientos setenta y uno, de veintitrés de julio, por el que se aprueba el texto refundido regulador de dicho Régimen, según la redacción dada a los mismos por el Real Decreto-ley nueve/mil novecientos ochenta y dos, de treinta de abril, se regirá por lo dispuesto en el presente Real Decreto, y en lo no previsto en él, por las normas sobre incapacidad laboral transitoria aplicables a los trabajadores por cuenta ajena comprendidos en el referido Régimen.
