@@ -1,3 +1,5 @@
 ## Art. 17.
 
-Los ciudadanos españoles que obtuvieren una merced nobiliaria de la Santa Sede ó de un Gobierno extranjero, deberán solicitar para su uso en España la autorización necesaria, acompañando el documento original en que conste la concesión, legalizando en forma la traducción hecha por la interpretación de lenguas del Ministerio de Estado, y la certificación de la inscripción en el Registro Civil del nacimiento del interesado. Esta autorización será solicitada del Ministerio de Gracia y Justicia, estará sujeta á los mismos derechos fiscales que los Títulos similares españoles, y es indispensable siempre que por cualquier concepto varíe el poseedor del Título de que se trate, debiendo oirse en todo caso, antes de otorgarla, á la Diputación permanente de la Grandeza y á la Comisión permanente del Consejo de Estado.
+En lo sucesivo sólo se expedirán autorizaciones de uso en España de títulos extranjeros que tuviesen una significación valiosa para España en el momento de la solicitud, que deberá ser apreciada como tal por la Diputación de la Grandeza y el Consejo de Estado. Denegada la autorización, no podrá reiterarse la solicitud mientras no concurran nuevas circunstancias.
+
+> Se modifica por el art. 1 del Real Decreto 222/1988, de 11 de marzo. Ref. BOE-A-1988-7023.
