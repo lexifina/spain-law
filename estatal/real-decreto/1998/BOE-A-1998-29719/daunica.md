@@ -1,0 +1,3 @@
+## Disposición adicional única. Información presupuestaria en las entidades no lucrativas.
+
+Si de acuerdo con el contenido de las normas sobre aspectos contables de la introducción del euro una entidad a la que resulta aplicable el Real Decreto 776/1998, de 30 de abril, por el que se aprueban las normas de adaptación del Plan General de Contabilidad a las entidades sin fines lucrativos y las normas de información presupuestaria a estas entidades, formula sus cuentas anuales en euros, deberá confeccionar los presupuestos que deba elaborar a partir de ese momento en dicha expresión monetaria, en los mismos términos establecidos para las cuentas anuales en el artículo 1 de las normas sobre aspectos contables de la introducción del euro.
