@@ -1,0 +1,1 @@
+Téngase en cuenta que la Comisión Interministerial para Asuntos Económicos relacionados con las Comunidades Europeas pasa a denominarse "Comisión Interministerial para Asuntos de la Unión Europea" según establece el art. 2.1 del Real Decreto 2077/1995, de 22 de diciembre. Ref. BOE-A-1995-27558
