@@ -1,3 +1,5 @@
 ## Disposición derogatoria primera.
 
-Queda derogada la Ley Penal y Procesal de Delitos Monetarios de veinticuatro de noviembre de mil novecientos treinta y ocho y todas las demás disposiciones legales que se opongan a lo dispuesto en esta Ley.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única de la Ley 19/2003, de 4 de julio. Ref. BOE-A-2003-13471.

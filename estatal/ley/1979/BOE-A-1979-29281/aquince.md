@@ -1,5 +1,5 @@
 ## Artículo quince.
 
-Uno. La Administración podrá acordar, durante la tramitación de un procedimiento administrativo relativo a una presunta infracción en materia de control de cambios, que se constituya garantía suficiente para asegurar las responsabilidades que, en su caso, pudieran derivarse.
+(Derogado)
 
-Dos. El importe de la moneda española o divisas intervenidas podrá aplicarse, en su caso, a la constitución de la garantía mencionada en el número anterior.
+> Se deroga por la disposición derogatoria única de la Ley 19/2003, de 4 de julio. Ref. BOE-A-2003-13471.

@@ -1,3 +1,5 @@
 ## Disposición final tercera.
 
-El Gobierno desarrollará, mediante Decreto, la composición y funciones de la Comisión de Vigilancia de las infracciones de Control de Cambios, prevista en el artículo diecisiete.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única de la Ley 19/2003, de 4 de julio. Ref. BOE-A-2003-13471.

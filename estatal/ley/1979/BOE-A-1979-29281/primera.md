@@ -1,3 +1,5 @@
 ## Disposición final primera.
 
-La presente Ley entrará en vigor a los tres meses de su publicación en el «Boletín Oficial del Estado».
+(Derogada)
+
+> Se deroga por la disposición derogatoria única de la Ley 19/2003, de 4 de julio. Ref. BOE-A-2003-13471.

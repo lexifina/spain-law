@@ -1,5 +1,5 @@
 ## Artículo trece.
 
-Uno. Las resoluciones que se dicten por los órganos a que se refiere el número tres del artículo anterior serán susceptibles de recurso de acuerdo con lo previsto en la Ley de Procedimiento Administrativo y en la Ley Reguladora de la Jurisdicción Contencioso-Administrativa.
+(Derogado)
 
-Dos. Las infracciones administrativas previstas en la presente Ley prescriben a los tres años y las sanciones correspondientes impuestas en virtud de resolución firme a los cuatro años.
+> Se deroga por la disposición derogatoria única de la Ley 19/2003, de 4 de julio. Ref. BOE-A-2003-13471.

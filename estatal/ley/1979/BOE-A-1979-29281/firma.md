@@ -1,11 +1,3 @@
-Por tanto,
+(Derogada)
 
-Mando a todos los españoles particulares y autoridades, que guarden y hagan guardar esta Ley.
-
-Palacio Real, de Madrid, a diez de diciembre de mil novecientos setenta y nueve.
-
-JUAN CARLOS R.
-
-El Presidente del Gobierno,
-
-ADOLFO SUÁREZ GONZÁLEZ
+> Se deroga por la disposición derogatoria única de la Ley 19/2003, de 4 de julio. Ref. BOE-A-2003-13471.

@@ -1,5 +1,5 @@
 ## Artículo dieciséis.
 
-Uno. La Administración vigilará el cumplimiento de sus normas de control de cambios, comprobando cuantas situaciones o actividades pudieran dar lugar a su infracción.
+(Derogado)
 
-Dos. Los funcionarios de los órganos administrativos competentes gozarán, en el ejercicio de sus funciones, de las facultades contenidas en el artículo dieciocho.
+> Se deroga por la disposición derogatoria única de la Ley 19/2003, de 4 de julio. Ref. BOE-A-2003-13471.
