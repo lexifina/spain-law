@@ -12,6 +12,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 - [preambulo](preambulo.md)
 - [Art 1](art1.md)
+- [Art 1 bis](art1bis.md)
 - [Art 2](art2.md)
 - [Art 3](art3.md)
 - [Art 4](art4.md)
