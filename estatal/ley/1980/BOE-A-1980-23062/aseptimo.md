@@ -31,3 +31,5 @@ a) A la dotación concesional o comprometida, los correspondientes al coste de l
 b) A la dotación concesional o comprometida, los correspondientes a los gastos de funcionamiento independientes del volumen de agua suministrada.
 
 c) Al consumo realmente producido, los correspondientes a los gastos de funcionamiento proporcionales al volumen de agua suministrada.
+
+> Se convierten a euros las cuantías contempladas, por el apartado 7 de la Resolución 9/2001, de 31 de octubre. Ref. BOE-A-2001-22215.
