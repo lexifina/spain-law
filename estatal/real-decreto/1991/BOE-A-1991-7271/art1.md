@@ -4,4 +4,6 @@
 
 2. Para el adecuado cumplimiento de sus fines, la Organización Nacional de Ciegos Españoles mantendrá la personalidad jurídica y beneficios de carácter procesal, tributario y postal que el ordenamiento jurídico le reconoce.
 
-3. Ninguna Entidad pública o privada podrá utilizar el título de Organización Nacional de Ciegos Españoles, ni otro que pudiera resultar de la adición de palabras o combinación de las que lo constituyen.
+3. Ninguna entidad pública o privada podrá utilizar el título de Organización Nacional de Ciegos Españoles, ni otro que pudiera resultar de la adición de palabras o combinación de las que lo constituyen, ni las siglas ONCE, salvo autorización expresa del Consejo General de la organización, destinada al cumplimiento de sus fines estatutarios.
+
+> Se modifica el apartado 3 por el art. único.1 del Real Decreto 1200/1999, de 9 de julio. Ref. BOE-A-1999-16374.
