@@ -20,6 +20,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 6](a6.md)
 - [Artículo 7](a7.md)
 - [Disposición transitoria única](dt.md)
+- [Disposición transitoria primera](dt-2.md)
+- [Disposición transitoria segunda](dt-3.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final única](df.md)
 - [fi](fi.md)
