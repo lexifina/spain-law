@@ -1,0 +1,3 @@
+En virtud de las atribuciones que me confiere la disposición final segunda de la Orden de 7 de julio de 1995, previa propuesta de la Dirección General de la Guardia Civil y con la conformidad de la Comisión Interministerial Permanente de Armas y Explosivos, se hace necesario dictar unas instrucciones para la realización de los ejercicios de tiro obligatorios por vigilantes de seguridad, escoltas privados y guardas particulares del campo, así como la habilitación de los directores e instructores de tiro y las pruebas a realizar para la obtención de licencias de armas «C».
+
+Por ello, he tenido a bien disponer:
