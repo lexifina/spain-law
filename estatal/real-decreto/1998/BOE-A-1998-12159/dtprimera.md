@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Expedición de títulos y tarjetas profesionales al amparo de la normativa anterior a este Real Decreto.
+
+Podrán expedirse títulos y tarjetas profesionales con los requisitos de formación establecidos en la normativa anterior a la entrada en vigor de este Real Decreto hasta dos años después de la implantación generalizada de la formación profesional específica, de grado medio y de grado superior, respectivamente, derivada de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. Todo ello sin perjuicio de las renovaciones reguladas en el artículo 7.3 de este Real Decreto.
