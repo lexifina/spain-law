@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+De conformidad con lo establecido en los artículos 2.2 y 139 a 144 y concordantes de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la responsabilidad patrimonial de las Entidades Gestoras y Servicios Comunes de la Seguridad Social, sean estatales o autonómicas, así como de las demás entidades, servicios y organismos del Sistema Nacional de Salud, por los daños y perjuicios causados por o con ocasión de la asistencia sanitaria, y las correspondientes reclamaciones, seguirán la tramitación administrativa y contencioso-administrativa prevista en dicha Ley y en el presente Reglamento.
