@@ -1,0 +1,9 @@
+La normativa que la Comunidad Económica Europea viene desarrollando en materia de seguridad de los productos, contiene exigencias sobre certificación y ensayo de muy diversos tipos de maquinaria, equipos y otros productos, como requisito previo para su libre comercialización y circulación por el territorio comunitario.
+
+El Instituto Nacional de Seguridad e Higiene en el Trabajo, Organismo autónomo adscrito al Ministerio de Trabajo y Seguridad Social, viene siendo reconocido como órgano técnicamente capacitado para realizar este tipo de actividades de certificación y ensayo. Así, por ejemplo, el Instituto ha sido acreditado por el Ministerio de Industria y Energía, por Resolución de la Dirección General de Política Tecnológica de 12 de marzo de 1990, para la realización de ensayos especificados en las Directivas transpuestas mediante el Real Decreto 245/1989, de 27 de febrero, sobre determinación y limitación de la potencia acústica admisible en material y maquinaria para la construcción.
+
+Las actividades de certificación y ensayo implican un coste que, conforme a las normas comunitarias de libre competencia, debe ser soportado por el solicitante de servicio.
+
+Estando previstos y autorizados por el artículo 10, tercero, a), del Real Decreto 577/1982, de 17 de marzo, como recursos del citado Organismo los procedentes de las prestaciones de servicios debidamente autorizados en el ejercicio de su actividad técnica, se hace necesario instruir el régimen jurídico de los precios a percibir, dentro del marco de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, teniendo en cuenta la necesidad de adaptar la determinación concreta de su cuantía a las variaciones que han de producirse en función del servicio solicitado.
+
+Por ello, en aplicación de lo dispuesto en el artículo 26.1, a), de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, he tenido a bien disponer:
