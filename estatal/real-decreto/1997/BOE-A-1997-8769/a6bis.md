@@ -1,0 +1,7 @@
+## Artículo 6 bis. Expedición de partes médicos de alta por facultativos adscritos al Instituto Nacional de la Seguridad Social, a iniciativa de las Mutuas.
+
+1. Cuando la propuesta de alta formulada por una Mutua no fuese resuelta en los plazos señalados en el artículo anterior, la Mutua podrá optar entre reiterar dicha propuesta ante el Servicio Público de Salud, en los términos señalados en el artículo 5, o plantear la iniciativa de alta médica ante los servicios médicos del Instituto Nacional de la Seguridad Social, a los efectos previstos en el apartado 4 del artículo 1 de este Real Decreto. En los supuestos en que, reiterada la propuesta inicial al Servicio Público de Salud, la Mutua no obtenga de nuevo contestación de dicho Servicio, podrá plantear la iniciativa de alta a los servicios médicos del Instituto Nacional de la Seguridad Social.
+
+2. De conformidad con lo establecido en el ar tículo 80 del Reglamento General de Colaboración en la gestión de la Seguridad Social por parte de las Mutuas, aprobado por Real Decreto 1993/1997, de 7 de diciembre, en la redacción dada por el Real Decreto 576/1997, de 18 de abril, la extinción del subsidio por incapacidad temporal se producirá, en base al alta médica expedida, y con efectos desde el día siguiente al de su expedición, por el correspondiente acto acordado por la Mutua.
+
+> Se añade por el art. único.3 del Real Decreto 1117/1998, de 5 de junio. Ref. BOE-A-1998-14283
