@@ -1,3 +1,5 @@
 ## Sexto.
 
-Como órgano de asistencia y consulta en orden a asegurar la necesaria integración de la actividad de la Escuela de Formación Técnica del Ministerio de Obras Públicas y Transportes en los ámbitos de la enseñanza e investigación universitarias y científico en general, se constituirá una Comisión Asesora, cuyos miembros serán designados por el titular del Departamento, y de la que formará parte, en todo caso, un representante del Instituto Nacional de Administración Pública.
+(Suprimido)
+
+> Se suprime por la disposición adicional única.3 del Real Decreto 1136/2002, de 31 de octubre. Ref. BOE-A-2002-21671.
