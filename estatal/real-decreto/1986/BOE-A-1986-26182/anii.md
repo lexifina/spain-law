@@ -1,16 +1,16 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2001/3/00175_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2001/189/15555_019.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2001/3/00175_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2001/189/15555_020.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2001/3/00175_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2001/189/15555_021.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2001/3/00175_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2001/189/15555_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2001/3/00175_022.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2001/189/15555_023.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2001/3/00175_023.png)
+> Se modifica por la Orden de 23 de julio de 2001. Ref. BOE-A-2001-15555.
 
 > Se modifica por la Orden de 27 de diciembre de 2000. Ref. BOE-A-2001-175.
 
