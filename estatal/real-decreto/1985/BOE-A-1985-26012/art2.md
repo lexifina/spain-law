@@ -40,7 +40,7 @@ Dichos extractos tendrán las características siguientes:
 
 2.2.1 Extracto soluble de achicoria.
 
-– Materia seca proveniente de la achicoria igual o superior al 96 por 100 en peso.
+– Materia seca proveniente de la achicoria igual o superior al 95 por 100 en masa.
 
 – No contendrán otros elementos que los procedentes de su extracción. Las sustancias que no procedan de la achicoria no pueden sobrepasar el 1 por 100.
 
@@ -62,10 +62,18 @@ No contendrán otros elementos que los procedentes de su extracción. Las sustan
 
 – No contendrán otros elementos que los procedentes de su extracción. Las sustancias que no procedan de dichos productos no pueden sobre pasar el 1 por 100.
 
-2.2.5 Extracto líquido de achicoria, malta o cereales tostados.
+2.2.5 Extracto líquido de achicoria.
 
-– Materia seca proveniente de dichos productos comprendida entre el 16 y el 50 por 100 en peso.
+– Materia seca procedente de la achicoria inferior al 55 por 100 y superior al 25 por 100 en masa.
 
-– No contendrán otros elementos que los procedentes de su extracción, sin embargo, pueden contener azúcares añadidos en una proporción no superior al 25 por 100 en peso.
+– No contendrán otros elementos que los procedentes de su extracción. No obstante, podrán contener azúcares en una proporción que no exceda del 35 por 100 en masa.
+
+2.2.6 Extracto líquido de malta o cereales tostados.
+
+– Materia seca procedente de dichos productos comprendida entre el 16 por 100 y el 50 por 100 en masa.
+
+– No contendrán otros elementos que los procedentes de su extracción. No obstante, podrán contener azúcares en una proporción que no exceda del 35 por 100 en masa.
+
+> Se modifican los apartados 2.2.1 y 2.2.5 y se añade el apartado 2.2.6 por el art. único del Real Decreto 1132/1988, de 14 de octubre. Ref. BOE-A-1988-24184.
 
 > Redactados los apartados 2.1.1 a 2.1.3 conforme a la corrección de errores publicada en BOE núm. 43, de 19 de febrero de 1986. Ref. BOE-A-1986-4462.
