@@ -1,0 +1,13 @@
+## CIRCULAR NÚMERO 4/2001, DE 24 DE SEPTIEMBRE
+
+## Entidades adscritas a un Fondo de Garantía de Depósitos
+
+Información sobre los saldos que integran la base de cálculo de las aportaciones a los fondos de garantía de depósitos, y alcance de los importes garantizados
+
+El Real Decreto 2606/1996, de 20 de diciembre, sobre fondos de garantía de depósitos en Entidades de Crédito, según la nueva redacción dada por el Real Decreto 948/2001, de 3 de agosto, sobre sistemas de indemnización de los inversores, desarrolla el régimen jurídico de los fondos de garantía de depósitos en establecimientos bancarios, Cajas de Ahorro y Cooperativas de Crédito. En su artículo 4 determina qué depósitos de efectivo, de valores y de otros instrumentos financieros están garantizados y cuáles deberán ser tenidos en cuenta para el cómputo de las aportaciones a los respectivos fondos que las Entidades adheridas realicen anualmente.
+
+En su disposición final primera, se autoriza al Banco de España para desarrollar las cuestiones técnico-contables relativas al concepto de depósitos y valores garantizados. Por otra parte, la disposición final tercera del citado Real Decreto 948/2001, de 3 de agosto, habilita al Banco de España para determinar los criterios de valoración a aplicar a los distintos tipos de valores e instrumentos financieros no cotizados a integrar en la base de cálculo de las aportaciones anuales a los Fondos.
+
+Además de abordar el desarrollo de los anteriores aspectos, la presente Circular establece la información que las Entidades adscritas deberán remitir anualmente al Banco de España a efectos del cálculo de las aportaciones. Asimismo, modifica algunos puntos de la Circular 4/1991, de 14 de junio, para suprimir el estado A.6 «Depósitos cubiertos por el Fondo de Garantía de Depósitos» que se integra en aquella información, y para subrayar la necesidad de que las Entidades identifiquen en la contabilidad interna los depósitos, fondos, valores e instrumentos financieros garantizados, así como que pongan el máximo cuidado en el control de las cuentas representativas de la actividad de custodia. Por último se realizan ligeras modificaciones en el balance reservado.
+
+En consecuencia, el Banco de España, en desarrollo de lo establecido en la disposición final primera del Real Decreto 2606/1996, de 20 de diciembre, y la disposición final tercera del Real Decreto 948/2001, de 3 de agosto, y en uso de las facultades que le otorga la Orden ministerial de 31 de marzo de 1989, por la que se desarrolla el artículo 48 de la Ley 26/1988, de 29 de julio, vistos los informes preceptivos y oídos los sectores interesados, ha dispuesto:
