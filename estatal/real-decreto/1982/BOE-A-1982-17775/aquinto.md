@@ -1,0 +1,3 @@
+## Artículo quinto.
+
+Los documentos que acrediten conocimientos académicos o habiliten para el ejercicio de una profesión y que carecen de validez en todo el territorio nacional por no reunir las condiciones exigidas en el presente Real Decreto, podrán ser homologados por el Estado y en su nombre, oído el Consejo Nacional de Educación, por el Ministro de Educación y Ciencia o Ministro competente, siempre que se cumplan las condiciones generales establecidas por la legislación estatal, en todo caso, la homologación se efectuará por especialidades de enseñanza y de acuerdo con los respectivos planes de estudios.
