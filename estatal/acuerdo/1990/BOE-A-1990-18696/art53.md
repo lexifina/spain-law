@@ -4,21 +4,23 @@
 
 2. Las plazas de Letrados podrán proveerse también en régimen de adscripción temporal mediante el nombramiento como Letrados, según lo dispuesto en los apartados siguientes, de funcionarios públicos de los relacionados en el artículo 44.1 de este Reglamento.
 
-3. La adscripción temporal será acordada libremente por el Pleno del Tribunal, a propuesta de un Magistrado.
+3. La designación de Letrados de adscripción temporal se acordará libremente por el Pleno del Tribunal, por mayoría absoluta, a propuesta conjunta de tres Magistrados. La adscripción será por dos años, prorrogables, por idéntica mayoría, hasta un máximo de seis, mediante acuerdos bienales del Pleno.
 
-Su duración máxima será de nueve años, sin perjuicio de lo previsto en el apartado siguiente.
+4. Los Letrados adscritos temporalmente, mientras presten sus servicios al Tribunal, tendrán los derechos y deberes propios de los miembros del Cuerpo, en todo aquello que sea compatible con la eventualidad de sus funciones.
 
-4. Los Letrados adscritos temporalmente al Tribunal tendrán, mientras presten sus servicios al mismo, los derechos y deberes propios de los miembros del Cuerpo. Su cese, además de por voluntad propia, se acordará en cualquiera de las circunstancias siguientes:
+5. El cese de los Letrados de adscripción temporal, además de por voluntad propia, se acordará en cualquiera de las circunstancias siguientes:
 
-a) Por acuerdo del Pleno, adoptado a propuesta del Magistrado que en su día propuso la designación o del Presidente del Tribunal.
+a) Por el transcurso del período máximo de adscripción de seis años.
 
-b) En el caso de los Letrados a los que se refiere el artículo 62.2 a), de este Reglamento, por cese en el cargo de Magistrado del Tribunal de quien propuso su designación. En esta hipótesis, podrá procederse a un nuevo nombramiento del Letrado afectado si aún no hubiera transcurrido el período máximo de adscripción fijado en el apartado anterior y por el tiempo que restare.
+b) Por no haber obtenido la prórroga a la que se refiere el apartado 3 de este artículo.
 
-c) Por el transcurso del período máximo de adscripción de nueve años.
+c) En cualquier momento, por acuerdo del Pleno adoptado por mayoría absoluta.
 
 d) Por jubilación o pérdida de la condición de funcionario.
 
-5. (Suprimido)
+> Se modifican los apartados 3 y 4, y se añade el 5, por el art. único.3 a 5 del Acuerdo de 27 de febrero de 2001. Ref. BOE-A-2001-4489.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 64, de 15 de marzo de 2001. Ref. BOE-A-2001-5058.
 
 > Se modifica el apartado 4.d) por el art. 1.12 del Acuerdo de 8 de septiembre de 1999. Ref. BOE-A-1999-19076.
 
