@@ -1,0 +1,7 @@
+## Artículo octavo.
+
+Uno. En las causas que se sigan en la jurisdicción ordinaria por cualquier tipo de delitos o faltas a los que se extiendan alguno de los indultos concedidos por este Real Decreto, serán aplicados éstos sin necesidad de celebración de juicio oral, previo dictamen del Ministerio Fiscal, en el que sucintamente se establezcan el hecho, la calificación jurídica y la pena procedente, cuando ésta resulte totalmente indultada, dictándose, en tal caso, sin más trámites, el auto de sobreseimiento libre previsto en el número tercero del articulo seiscientos treinta y siete de la Ley de Enjuiciamiento Criminal por el Tribunal o Juez competente. Estando personadas en la causa otras acusaciones, sólo se aplicará el indulto anticipado al que se refiere la primera parte de este párrafo, cuando todas ellas soliciten penas comprendidas en el indulto total.
+
+Dos. En la jurisdicción militar se procederá de manera análoga, aplicándose, en cuanto hace referencia al procedimiento, el articulo setecientos treinta y siete del Código de Justicia Militar y dictándose, en su caso, eI auto de sobreseimiento definitivo previsto en el artículo setecientos diecinueve número tercero de dicho Código, por la Autoridad judicial y militar que corresponda.
+
+Tres. En las causas por faltas se aplicará también el indulto anticipado, utilizándose un procedimiento análogo al establecido en los números anteriores.
