@@ -1,0 +1,1 @@
+b) De los índices
