@@ -1,0 +1,3 @@
+En fe de lo cual, los abajo firmantes, debidamente autorizados a estos efectos, han firmado el presente Convenio.
+
+Hecho en Oviedo (Asturias), el 4 de abril de 1997, en francés y en inglés, siendo ambos textos igualmente auténticos, en un solo ejemplar que será depositado en los Archivos del Consejo de Europa. El Secretario general del Consejo de Europa transmitirá copia certificada conforme del mismo a cada uno de los Estados miembros del Consejo de Europa, a la Comunidad Europea, a los Estados no miembros que hayan participado en la elaboración del presente Convenio y a todo Estado invitado a adherirse al presente Convenio.
