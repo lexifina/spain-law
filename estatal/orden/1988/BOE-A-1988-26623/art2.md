@@ -12,7 +12,7 @@ a) El peso máximo de proyecto, de acuerdo con el cálculo estructural, realizad
 
 b) El peso máximo resultante de la aplicación de la presente Orden.
 
-En ningún caso el peso máximo autorizado podrá ser superior a 400 kilogramos.
+(Párrafo suprimido)
 
 Limitaciones del centro de gravedad.–Se establecerán unas posiciones límites, longitudinal y transversal, del centro de gravedad de la aeronave, que serán las maás restrictivas entre las siguientes:
 
@@ -31,3 +31,5 @@ Cargas de proyecto.–Son las obtenidas en el cálculo teórico, para el cual se
 Coeficiente de planeo.–Relación entre la distancia horizontal recorrida en línea recta y la altura perdida en el mismo tiempo.
 
 Factor de carga.–Relación entre una carga específica y el peso total de la aeronave, teniendo en cuenta que la carga específica puede ser una carga aerodinámica, fuerzas de inercia, o reacciones de suelo o agua.
+
+> Se suprime lo indicado por el art. 2 del Real Decreto 1591/1999, de 15 de octubre. Ref. BOE-A-1999-20783.
