@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Gestión del transporte ferroviario de viajeros.
+
+Los capítulos II y III del título IV de esta ley no serán de aplicación al transporte ferroviario de viajeros hasta tanto la Unión Europea no establezca un régimen de apertura del mercado para este tipo de transporte. Hasta entonces, RENFE-Operadora tendrá derecho a explotar los servicios de transporte de viajeros que se presten sobre la Red Ferroviaria de Interés General, en la forma establecida en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, y en su normativa de desarrollo en cuanto no se opongan al resto del contenido de esta ley.
+
+Una vez que se imponga el régimen de apertura del mercado de transporte ferroviario de viajeros, de conformidad con lo previsto en el párrafo anterior, RENFE-Operadora conservará el derecho a explotar la capacidad de red que entonces utilice efectivamente y podrá solicitar que se le asigne otra capacidad de red, con arreglo a lo previsto en esta ley.

@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Destino de los bienes inmuebles de titularidad estatal correspondientes a las líneas de ferrocarril cerradas y de construcción abandonada.
+
+Quedarán integrados, como bienes patrimoniales, en el patrimonio de la entidad pública empresarial Administrador de Infraestructuras Ferroviarias todos los bienes inmuebles de titularidad estatal correspondientes a las líneas de ferrocarril cerradas o abandonadas. La entidad pública empresarial Administrador de Infraestructuras Ferroviarias se subroga en todos los derechos y obligaciones que correspondan al Ministerio de Fomento, con arreglo a lo establecido en el artículo 24 de esta ley.

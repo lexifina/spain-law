@@ -229,6 +229,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 164](a164.md)
 - [Artículo 165](a165.md)
 - [CAPÍTULO III](ciii-5.md)
+- [Artículos 166 a 188](as166a188.md)
 - [Artículo 166](a166.md)
 - [Artículo 167](a167.md)
 - [CAPÍTULO IV](civ-5.md)

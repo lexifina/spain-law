@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango a esta ley se opongan a lo dispuesto en ella y, en concreto, la sección 2.ª del capítulo II y los capítulos III, IV y V del título VI de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, el artículo 74 de la Ley 42/1994, de 30 de diciembre, de medidas fiscales, administrativas y de orden social, los artículos 160 y 161 de la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, el artículo 104 de la Ley 66/1997, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.

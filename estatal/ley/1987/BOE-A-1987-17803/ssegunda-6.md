@@ -1,1 +1,7 @@
 ## Sección segunda. Disposiciones específicas sobre concesionarios y usuarios
+
+(Derogada)
+
+> Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+
+> Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
