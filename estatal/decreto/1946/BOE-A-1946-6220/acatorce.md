@@ -7,3 +7,7 @@ Las partidas de manifiesto compuestas de uno o varios bultos que no reúnan las 
 Todas las importaciones que se realicen por vía aérea están sujetas a lo dispuesto respecto a licencias de importación.
 
 Para las mercancías cuyo despacho haya de efectuase por el sistema de adeudo por declaración verbal no será precisa la presentación de certificado de origen; pero sí para aquellas que se despachen con declaración de adeudo, cuando tal requisito sea preceptivo.
+
+> Téngase en cuenta que se deja sin efecto el párrafo cuarto, en cuanto se oponga, según establece la norma derogatoria de la Orden de 19 de junio de 1967. Ref. BOE-A-1967-11476.
+
+> Se deja sin efecto el párrafo cuarto, en cuanto se oponga, por la norma derogatoria de la Orden de 19 de junio de 1967. Ref. BOE-A-1967-11476.
