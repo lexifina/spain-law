@@ -32,4 +32,6 @@
 | Ministerio de la Presidencia: |  |
 | Ente Público Radio Televisión Española (esta cifra se entenderá como incremento neto máximo de la posición deudora a corto y largo plazo entre el 1 de enero y el 31 de diciembre de 1995, una vez deducida la asunción de deuda por el Estado prevista para dicho ejercicio, por lo que no afectará a las operaciones de tesorería que se concierten y autoricen en el año, ni se computará en el mismo la refinanciación de la deuda contraída con anterioridad a 31 de diciembre de 1995). | 90.693.000.000 |
 
+> Se modifica por la disposición adicional 3.1 de la Ley 8/1996, de 15 de enero. Ref. BOE-A-1996-1073.
+
 > Se modifica por la disposición adicional 3.1 del Real Decreto-ley 4/1995, de 12 de mayo. Ref. BOE-A-1995-11718.
