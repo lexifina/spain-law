@@ -1,0 +1,23 @@
+Mediante el Real Decreto 324/1986, de 10 de febrero, se implantó en la Administración General del Estado un Sistema de Información Contable (en adelante SIC) con soporte informático haciendo uso de los avances tecnológicos del momento, permitiendo una simplificación de los procedimientos contable-administrativos. Este sistema de información contable permitía llevar la contabilidad según el Plan General de Contabilidad Pública (PGCP) aprobado por Orden del Ministerio de Hacienda de 14 de octubre de 1981, modificado posteriormente en 1983.
+
+De acuerdo con las facultades conferidas por la disposición final primera del anterior Real Decreto, el Ministerio de Economía y Hacienda desarrolló las normas contenidas en el mismo, lo que dio lugar a la publicación de las diferentes Órdenes ministeriales por las que se aprobaban las Instrucciones de Contabilidad aplicables a cada una de las subentidades contables de la Administración General del Estado. Se aprobaron por este orden, la Instrucción de Contabilidad de los Centros Gestores del Presupuesto de Gastos, la de las Delegaciones de Hacienda, la de la Dirección General del Tesoro y Política Financiera, y la de la Central Contable. Dichas Instrucciones contenían sendos anexos por los que se aprobaron adaptaciones del PGCP para su aplicación por los órganos correspondientes.
+
+Posteriormente, dos hechos produjeron la necesidad de modificar las recién mencionadas normas contables de desarrollo del Real Decreto 324/1986. Por un lado la aprobación de un nuevo PGCP mediante Orden del Ministerio de Economía y Hacienda, de 6 de mayo de 1994, que pasó a ser de aplicación obligatoria para la Administración General del Estado a partir del 1 de enero de 1995. Por otro lado, la implantación de una nueva versión del SIC a partir del 1 de enero de 1996, fruto de los trabajos realizados con el fin de mejorar y completar el sistema utilizado hasta entonces.
+
+La norma resultante fue la Instrucción de Contabilidad para la Administración General del Estado, aprobada por Orden del Ministerio de Economía y Hacienda de 1 de febrero de 1996. Esta Instrucción sustituyó a las Instrucciones de Contabilidad vigentes hasta ese momento, y a diferencia de las mismas, que iban dirigidas a determinados órganos de la Administración General del Estado, se trataba de una norma aplicable a todos los órganos integrantes de dicha Administración Pública.
+
+En la actualidad, el Real Decreto 578/2001, de 1 de junio, por el que se regulan los Principios Generales del Sistema de Información Contable de la Administración General del Estado que deroga y sustituye al Real Decreto 324/1986, supone un nuevo paso en la evolución de la contabilidad de la Administración General del Estado.
+
+El Real Decreto 578/2001 establece los principios en los que se basa el SIC, introduciendo en los mismos un cambio de gran importancia, que consiste en la orientación hacia un modelo contable centralizado en la Administración General del Estado. Dicha modificación se hace posible merced a los continuos trabajos de mejora del SIC, y al avance de las tecnologías en que se apoya, todo lo cual ha derivado en la centralización de las bases de datos locales del sistema. El Real Decreto 578/2001, en su artículo 3, establece los siguientes principios, a los que habrá de ajustarse el SIC:
+
+1. Aplicación del PGCP, dando soporte a dicho Plan, así como a otras áreas contables que permitan la obtención de la información adecuada a los fines de información del SIC.
+
+2. Orientación hacia un modelo contable centralizado de acuerdo con los criterios establecidos en el PGCP.
+
+3. Simplificación de los procedimientos contable-administrativos a través del tratamiento de los datos y el archivo y conservación de la información por medios electrónicos, informáticos o telemáticos.
+
+4. Seguridad de funcionamiento del sistema que garantice la coherencia de la información obtenida, tanto agregada como de detalle, así como la restricción de las personas autorizadas para la utilización y acceso a los datos.
+
+La Instrucción de Contabilidad que es aprobada por la presente Orden ministerial, desarrolla lo establecido en el Real Decreto 578/2001, y sustituye a la Instrucción de Contabilidad que ha estado vigente hasta el momento actual. Al igual que esta última, es aplicable a todos los órganos integrantes de la Administración General del Estado.
+
+En su virtud, a propuesta de la Intervención General de la Administración del Estado, de conformidad con lo dispuesto en la disposición final primera del Real Decreto 578/2001, de 1 de junio, y en uso de las facultades que a este Ministerio otorga el artículo 125 del texto refundido de la Ley General Presupuestaria, vengo a disponer:
