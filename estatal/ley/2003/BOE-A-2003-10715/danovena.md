@@ -1,0 +1,3 @@
+## Disposición adicional novena. Régimen económico y fiscal de Canarias.
+
+La aplicación de lo dispuesto en los artículos 10, 22 y 28 de esta ley, en cuanto afecta a la actividad financiera de la Comunidad Autónoma de Canarias, se llevará a cabo respetando y salvaguardando su peculiar régimen económico y fiscal, de acuerdo con lo dispuesto en la disposición adicional cuarta de la Ley 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, y en la disposición adicional tercera de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía.
