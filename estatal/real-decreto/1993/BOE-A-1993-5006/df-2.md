@@ -1,0 +1,3 @@
+## Disposición final segunda.
+
+Las actuaciones de liquidación de la Mutualidad benéfica del Cuerpo de Médicos del Registro Civil, que queden pendientes, se concluirán conforme a los acuerdos de liquidación adoptados en aplicación de la Orden de 9 de noviembre de 1959, en el plazo de cuatro meses, a contar desde la publicación del presente Real Decreto. A los solos efectos del cumplimiento de estas actuaciones, se prorroga la Junta del Cuerpo de Médicos del Registro Civil en su actual composición, que, en el plazo señalado, remitirá a la Dirección General de los Registros y del Notariado memoria de la liquidación efectuada y la documentación acreditativa de las actuaciones.

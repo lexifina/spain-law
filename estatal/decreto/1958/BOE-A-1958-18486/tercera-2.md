@@ -1,3 +1,5 @@
 ## Disposición final tercera.
 
-Quedan vigentes los Aranceles sobre Registro Civil en tanto no se modifiquen en la forma prevista en el artículo 102 de la Ley.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. Ref. BOE-A-1993-5006.

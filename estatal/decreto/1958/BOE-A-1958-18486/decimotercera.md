@@ -1,6 +1,8 @@
 ## Disposición transitoria décimotercera.
 
-Las plazas de Médico del Registro Civil que hayan de suprimiese se amortizarán a medida que resulten vacantes.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. Ref. BOE-A-1993-5006.
 
 > Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. Ref. BOE-A-1986-24861.
 
