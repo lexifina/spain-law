@@ -1,0 +1,3 @@
+## Segundo.
+
+No se reputará incumplida la exigencia de mantenimiento de la cifra mínima de recursos propios que a las Sociedades Gestoras de Instituciones de Inversión Colectiva impone el artículo 53.1 del Reglamento de la Ley 46/1984 cuando, como consecuencia de alteraciones en las cotizaciones de los valores que integren los patrimonios o del número de participaciones o acciones de las Instituciones gestionadas, el defecto de recursos propios no exceda del 20 por 100. No obstante, en todo caso, deberán contar con la cifra mínima de recursos propios que les correspondería con referencia a los días 31 de diciembre y 30 de junio de cada año, dentro de los respectivos semestres naturales siguientes a estas fechas.
