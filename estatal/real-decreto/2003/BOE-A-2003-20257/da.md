@@ -1,0 +1,3 @@
+## Disposición adicional única. Financiación de nuevas especialidades.
+
+Podrán ser financiadas con cargo a fondos públicos aquellas especialidades farmacéuticas que, susceptibles de ser incluidas en los subgrupos terapéuticos del anexo I del Real Decreto 83/1993, de 22 de enero, y en el anexo I del Real Decreto 1663/1998, de 24 de julio, cumplan las condiciones exigidas por el artículo 94 de la Ley 25/1990, de 20 de diciembre, del Medicamento, así como por el artículo 3 del mencionado Real Decreto 83/1993, de 22 de enero, y cubran lagunas terapéuticas o sean medicamentos huérfanos o para enfermedades graves. La financiación podrá, en su caso, limitarse a determinadas indicaciones o a colectivos específicos.
