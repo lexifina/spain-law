@@ -1,0 +1,3 @@
+## Artículo único.
+
+Los Puestos de Inspección Fronterizos autorizados para los controles fitosanitarios aplicados a vegetales, productos vegetales u otros objetos procedentes de terceros países enumerados en la parte B del anexo V del Real Decreto 2071/1993, de 26 de noviembre, relativo a las medidas de protección contra la introducción y difusión en el territorio nacional y de la Comunidad Económica Europea de organismos nocivos para los vegetales o productos vegetales, así como para la exportación o tránsito hacia países terceros, deberán satisfacer, al menos, las condiciones contempladas en el anexo de la presente Orden.
