@@ -1,0 +1,7 @@
+## Disposición transitoria única. Expedientes de deslinde en tramitación.
+
+En los expedientes de deslinde en tramitación en la fecha de entrada en vigor del presente Real Decreto, en los que ya se hubiese manifestado la existencia de desacuerdo entre los Ayuntamientos afectados, se mantendrán todas las actuaciones realizadas, actuándose de acuerdo con el siguiente procedimiento:
+
+a) Cuando hubiese intervenido ingeniero o ingenieros designados por el Instituto Geográfico Nacional, se procederá de acuerdo con lo dispuesto en los apartados 7 y siguientes del artículo 3. Los Ayuntamientos deberán remitir sus actas y la restante documentación obrante en los expedientes a la Dirección General para la Administración Local en un plazo de un mes, contado desde la fecha de entrada en vigor del presente Real Decreto, salvo que ya se encontrase la documentación en dicha Dirección General.
+
+b) Si en las operaciones de deslinde no hubiese habido intervención del Instituto Geográfico Nacional, se procederá de acuerdo con lo dispuesto en el apartado 1 y siguientes del artículo 3, si bien el plazo señalado en su apartado 1 para la remisión de la documentación a la Dirección General para la Administración Local será de un mes desde la entrada en vigor del presente Real Decreto, salvo que ya se encontrase la documentación en dicha Dirección General. Las operaciones de deslinde se realizarán con las comisiones de deslinde designadas en su día por los respectivos Ayuntamientos, sin perjuicio de las sustituciones que, en su caso, fueren precisas.
