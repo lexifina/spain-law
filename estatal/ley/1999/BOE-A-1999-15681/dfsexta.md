@@ -1,0 +1,3 @@
+## Disposición final sexta. Aplicación a las cooperativas de las disposiciones de Seguridad Social para la contratación a tiempo parcial.
+
+Las disposiciones de Seguridad Social previstas para la contratación a tiempo parcial, serán objeto de las modificaciones y adaptación que resulten precisas para su aplicación en el ámbito de las sociedades cooperativas de trabajo asociado e integral. A tal efecto, el Gobierno procederá en el plazo de un año desde la entrada en vigor de la presente Ley al correspondiente desarrollo reglamentario, en aplicación de lo previsto en la disposición adicional cuarta de la Ley General de la Seguridad Social.
