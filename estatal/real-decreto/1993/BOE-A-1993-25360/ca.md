@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | Técnicos | Prácticos | Total |
 | Primer ciclo |  |  |  |  |
-| Bases Biológicas y Mecánicas de la actividad Física y del Deporte Anatomía Funcional. Fisiología Humana. Biomecánica. |  |  | 18 | Ciencias Morfológicas. |
+| Bases Biológicas y Mecánicas de la actividad Física y del Deporte Anatomía Funcional. Fisiología Humana. Biomecánica. |  |  | 18 | Anatomía y Embriología Humana. |
 |  | Física Aplicada. Fisiología. Ingeniería Mecánica. |
 | Fundamentos de los Deportes |  |  | 36 | Educación Física y Deportiva. |
 | Fundamentos técnicos, tácticos y didácticos de un mínimo de seis deportes. |  |  |  |  |
@@ -24,3 +24,5 @@
 | Estructura y Organización de las Instrucciones Deportivas Estructura y organización institucional del deporte. Legislación básica. |  |  | 4 | Derecho Administrativo. Educación Física y Deportiva. |
 | Planificación y Gestión de la Actividad Física y del Deporte Modelo de planificación y Técnicas de Gestión y Organización. Equipamiento e instalaciones deportivas. Organización de actividades y eventos deportivos. |  |  | 12 | Educación Física y Deportiva. Organización de Empresas. Proyectos Arquitectónicos. |
 | Practicum Conjunto integrado de prácticas a realizar por el alumno tendentes a proporcionar experiencia directa en cualquiera de los ámbitos de la actividad física y el deporte, así como de las técnicas de investigación aplicadas. |  |  | 12 | Todas las áreas vinculadas a las materias troncales. Estadística e investigación operativa. Metodología de las Ciencias del Comportamiento. Métodos de investigación y diagnóstico en educación. |
+
+> Se modifica por el art. 56 del Real Decreto 371/2001, de 6 de abril. Ref. BOE-A-2001-8155.
