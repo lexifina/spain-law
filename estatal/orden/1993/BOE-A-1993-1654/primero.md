@@ -440,7 +440,7 @@ siguiendo el límite del CTA/Granada en sentido contrario a las agujas del reloj
 
 37º 03’ 30’’ N - 003º 32’ 00’’ W.
 
-Límites verticales: Desde tierra o mar hasta 5.500 pies de altitud.
+Límites verticales: Desde tierra o mar hasta 6.550 pies de altitud.
 
 Tipo de restricción: Entrenamiento militar helicópteros de escuela.
 
@@ -737,6 +737,8 @@ Límites laterales: Comprendidos por las alineaciones de los puntos cuyas coorde
 Límites verticales: Desde el suelo hasta 6.000 pies de altitud.
 
 Tipo de restricción: Vuelos de entrenamiento de helicópteros militares.
+
+> Se modifica el apartado B. B.14 por el apartado único de la Orden de 11 de mayo de 1999. Ref. BOE-A-1999-10905.
 
 > Se modifican los apartados B. B.9, 19 y 20 por el apartado único de la Orden de 18 de enero de 1993. Ref. BOE-A-1997-12919.
 
