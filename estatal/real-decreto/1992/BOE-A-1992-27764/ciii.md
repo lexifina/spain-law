@@ -1,3 +1,7 @@
 ## Capítulo III
 
 ## Mediación sustitutiva del convenio
+
+(Derogado)
+
+> Se deroga por la disposición derogatoria única de la Ley 43/1994, de 30 de diciembre. Ref. BOE-A-1994-28969.
