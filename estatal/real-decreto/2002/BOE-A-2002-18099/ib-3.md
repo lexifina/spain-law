@@ -108,6 +108,8 @@ c.2) práctico, en las situaciones b.3 y b.5),
 
 sobre las disposiciones del Reglamento e Instrucciones Técnicas Complementarias correspondientes a la categoría en la que se desea obtener la cualificación, cuyos requisitos, criterios y contenidos mínimos podrán ser definidos mediante resolución del Órgano Competente en materia de Seguridad Industrial del Ministerio de Ciencia y Tecnología.
 
+> Téngase en cuenta que se anula, por ser contrario a derecho, el inciso 4.2.c.2, en tanto que incluye a los Ingenieros industriales, por Sentencia del TS de 17 de febrero de 2004. Ref. BOE-A-2004-6072
+
 4.3 Concesión y validez.
 
 Cumplidos los requisitos de 4.2, la Comunidad Autónoma expedirá el correspondiente Certificado de Cualificación Individual en Baja Tensión, con la anotación de la categoría o categorías correspondientes.
@@ -239,3 +241,5 @@ Además de los medios anteriores, deberán contar con los siguientes, según pro
 2.3 Herramientas, equipos y medios de protección individual.
 
 Estarán de acuerdo con la normativa vigente y las necesidades de la instalación.
+
+> Se anula el inciso 4.2.c.2, en tanto que incluye a los Ingenieros Industriales, por Sentencia del TS de 17 de febrero de 2004. Ref. BOE-A-2004-6072
