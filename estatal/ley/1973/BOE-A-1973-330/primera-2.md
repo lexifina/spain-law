@@ -1,3 +1,5 @@
 ## Disposición final primera. Régimen de modificación.
 
-Para cualquier modificación o alteración de la vigencia total o parcial de esta Compilación, será necesario nuevo convenio previo con la Diputación Foral al efecto de su ulterior formalización.
+(Suprimida)
+
+> Se suprime por el art. 3 de la Ley Foral 5/1987, de 1 de abril. Ref. BOE-A-1987-13331.

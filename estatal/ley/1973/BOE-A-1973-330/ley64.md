@@ -1,9 +1,9 @@
-## Ley 64. Atribuciones
+## Ley 64. Defensor judicial
 
-La potestad sobre los hijos menores no emancipados corresponde al padre y sólo en su defecto la ejercitará la madre. Esta potestad comprende la representación de los hijos y eI usufructo, administración y disposición de sus bienes.. Actos de disposición
+Cuando hubiere intereses contrapuestos entre los padres y los hijos bajo su potestad, se requerirá la intervención de defensor judicial. Si la contraposición de intereses existiera sólo con uno de los progenitores, corresponde al otro la representación del hijo, sin necesidad de nombramiento judicial.
 
-La enajenación o gravamen de estos bienes, cuando sean inmuebles, establecimientos industriales o mercantiles o sus elementos esenciales, requerirá la previa autorización judicial, con audiencia del Ministerio Fiscal. No será necesaria autorización judicial para la cancelación por cobro de créditos hipotecarios, para la retroventa por ejercicio de un derecho de retracto legal o voluntario, ni para cualesquiera actos de disposición que hayan de cumplirse obligatoriamente.
+El Juez nombrará defensor, con las facultades que señale, a alguna de las personas a quienes en su caso podría corresponder el ejercicio de la tutela.
 
-El padre, o la madre en su caso, puede aceptar o repudiar sin autorización judicial cualesquiera disposiciones a título lucrativo en favor de los hijos.. «Nascituri»
+No será necesario la intervención de defensor judicial, aunque haya intereses contrapuestos, cuando se trate de otorgamiento de capitulaciones matrimoniales, o de nombramientos de heredero y donaciones con pactos de convivencia entre donantes y donatarios.
 
-Corresponde al padre, o en su defecto a la madre, la defensa de los intereses de los hijos concebidos y no nacidos, e incluso de los no concebidos.
+> Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril.Ref. BOE-A-1987-13331.

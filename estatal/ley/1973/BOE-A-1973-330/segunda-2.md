@@ -1,3 +1,5 @@
 ## Disposición final segunda. Revisión.
 
-La Comisión Compiladora elevará cada diez años a la Diputación Foral de Navarra un informe comprensivo de las dudas y dificultades que se hayan originado en la aplicación de esta Compilación, así como de las omisiones y deficiencias posibles, con indicación de las correcciones que estime necesarias. En todo caso, para cualquier modificación, será necesario el informe de la Comisión Compiladora.
+(Suprimida)
+
+> Se suprime por el art. 3 de la Ley Foral 5/1987, de 1 de abril. Ref. BOE-A-1987-13331.

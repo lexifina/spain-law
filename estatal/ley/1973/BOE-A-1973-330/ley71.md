@@ -1,15 +1,29 @@
-## Ley 71. Acción declarativa
+## Ley 71. Acción de declaración
 
-La acción para obtener la declaración judicial de la paternidad o maternidad natural podrá ser promovida:
+## a) De la filiación matrimonial
 
-1). Por el hijo durante su vida; excepcionalmente podrá ejercitarla también cualquier descendiente suyo cuando aquél hubiere fallecido siendo menor de edad o después de interpuesta la demanda.
+El padre, la madre y el hijo pueden reclamar la filiación matrimonial de éste en cualquier tiempo. Si hubiese posesión de estado, pueden ejercitar la acción los terceros con interés lícito y directo.
 
-2). En interés del menor podrá también ser promovida por el padre o la madre que ejerciten la patria potestad, o por el tutor con autorización del Consejo de Familia. Será preciso el consentimiento del hijo para promover o proseguir la acción si éste ha llegado a la pubertad.
+## b) De la no matrimonial
 
-La acción para la declaración judicial de paternidad o maternidad, si el padre o la madre hubieren fallecido, podrá dirigirse contra sus herederos.. Efectos
+Los hijos no matrimoniales podrán ejercitar la acción conducente a la declaración de paternidad o maternidad en los casos siguientes:
 
-La declaración judicial de paternidad o maternidad produce los mismos efectos que el reconocimiento.. Acción de impugnación
+1. Cuando la madre y el padre presuntos hubiesen convivido notoriamente durante el tiempo de la concepción.
 
-La acción para impugnar la declaración de paternidad o maternidad natural corresponderá a los terceros que por ella resulten perjudicados, y podrá ser ejercitada dentro de los cuatro años siguientes a la declaración. Si la declaración se hubiere hecho durante la menor edad del hijo éste podrá impugnarla dentro de los cuatro años siguientes a la mayoría de edad.
+2. Cuando haya posesión de estado de hijo respecto del demandado.
 
-> Redactada conforme a la corrección de errores publicada en "BOE" núm. 129, de 30 de mayo de 1974.Ref. BOE-A-1974-10655.
+3. Cuando exista declaración del presunto progenitor.
+
+4. Cuando haya pruebas biológicas de la relación paterno-filial.
+
+5. Cuando respecto a la maternidad, haya pruebas del parto.
+
+También podrá ser ejercitada la acción por los descendientes del hijo no matrimonial que hubiese fallecido durante su menor edad o en estado de incapacitación.
+
+## Legitimación
+
+La acción para la declaración judicial de paternidad o maternidad, si el padre o la madre hubieren fallecido, podrá dirigirse contra sus herederos.
+
+> Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril.Ref. BOE-A-1987-13331.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 1974. Ref. BOE-A-1974-847.

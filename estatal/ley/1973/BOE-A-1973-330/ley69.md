@@ -1,9 +1,15 @@
-## Ley 69. Segundas nupcias
+## Ley 69. Reconocimiento
 
-El padre o madre que por contraer nuevas nupcias hubiere perdido la potestad sobre sus hijos de anterior matrimonio podrá pedir al Consejo de Familia que le confiera la tutela o le autorice para retener estos hijos bajo su guarda y protección. El Consejo de Familia podrá negar esta petición y revocar la autorización en cualquier momento. Mientras los hijos estén bajo la tutela o en poder del padre o madre bínubo, el Consejo de Familia le entregará los productos de los bienes del menor o le conferirá la administración de los mismos, en la medida en que lo considere necesario.
+El reconocimiento deberá hacerse por declaración ante el encargado del Registro Civil o en testamento u otro documento público.
 
-El padre o madre que hubiere perdido la potestad sobre sus hijos podrá pedir, en acto de jurisdicción voluntaria, la remoción del tutor, del Consejo de Familia o de algún miembro de este, así como la revocación de los acuerdos del Consejo, cuando estime que hay lesión para las personas o bienes de sus hijos sujetos a tutela. En caso de urgencia podrá pedir al Juez que suspenda provisionalmente la ejecución del acuerdo impugnado, y el Juez, oído el Consejo de Familia, decidirá la suspensión o ejecución del acuerdo.
+Los progenitores pueden otorgar el reconocimiento conjunta o separadamente. Si lo hicieran por separado, no podrán manifestar en él la identidad del otro progenitor a no ser que ya estuviese determinada.
 
-El padre o madre bínubo recuperarán la potestad sobre sus hijos al quedar nuevamente viudos.
+## Sujetos
 
-> Redactada conforme a la corrección de errores publicada en "BOE" núm. 129, de 30 de mayo de 1974 Ref. BOE-A-1974-10655.
+Puede reconocer toda persona púber; si es menor de edad o incapacitado, se requerirá aprobación judicial con audiencia del Ministerio Fiscal.
+
+El reconocimiento de un hijo mayor de edad requerirá su consentimiento expreso o tácito; el de menor de edad o incapacitado no está sujeto a requisito alguno supletorio de su consentimiento, pero podrá ser impugnado por su representante legal o por él mismo al alcanzar o recuperar la plena capacidad, en la forma y términos que se establecen en la Ley 70.
+
+> Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril.Ref. BOE-A-1987-13331.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 1974. Ref. BOE-A-1974-847.

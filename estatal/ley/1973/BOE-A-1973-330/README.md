@@ -732,6 +732,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Ley 594](ley594.md)
 - [Ley 595](ley595.md)
 - [Ley 596](ley596.md)
+- [Disposición adicional única](unica.md)
 - [Disposición transitoria primera](primera.md)
 - [Disposición transitoria segunda](segunda.md)
 - [Disposición transitoria tercera](tercera.md)
