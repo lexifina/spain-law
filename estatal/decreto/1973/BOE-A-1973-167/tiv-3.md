@@ -1,3 +1,7 @@
 ## TÍTULO IV
 
 ## Explotaciones agrarias ejemplares y calificadas
+
+(Derogado)
+
+> Se deroga por la disposición derogatoria única de la Ley 19/1995, de 4 de julio. Ref. BOE-A-1995-16257.
