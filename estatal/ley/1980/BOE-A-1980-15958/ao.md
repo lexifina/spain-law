@@ -12,4 +12,6 @@ Lo dispuesto en este artículo pasará a formar parte de los respectivos arancel
 
 4. Los beneficios a que se refiere este artículo se entienden sin perjuicio de los que fueren más favorables, en función de la legislación a cuyo tenor se obtuvo la calificación de las viviendas.
 
-> Se modifica, por el art. 37 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836#a37.
+> Véanse sobre la actualización de las cuantías en euros la Instrucción de 14 de diciembre de 2001 Ref. BOE-A-2001-24394 y la Instrucción de 22 de mayo de 2002 Ref. BOE-A-2002-12290.
+
+> Se modifica por el art. 37 del Real Decreto-Ley 6/2000, de 23 de junio.Ref. BOE-A-2000-11836#a37.
