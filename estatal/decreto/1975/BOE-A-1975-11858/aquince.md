@@ -17,3 +17,7 @@ Seis. La refrigeración, pasterización, aireación, oxigenación y tratamiento 
 Siete. En el ron dulce o licor de ron y ron escarchado, se permite la adición de extractos vegetales y esencias autorizados por la Dirección General de Sanidad.
 
 Ocho. En las destilerías, el empleo de levaduras seleccionadas del género «Sacharomyces» y la adición de fermentos proteolíticos, enzimas, estabilizadores y nutrientes autorizados por la Dirección General de Sanidad.
+
+Nueve. La edición de extractos hidroalcohólicos, que cumplan con lo dispuesto en el Decreto 406/1975, por el que se aprueba la Reglamentación Técnico-Sanitaria de los Agentes Aromáticos para la Administración.
+
+> Se añade apartado 9 por el art. 2.2 del Real Decreto 1908/1984, de 26 de septiembre. Ref. BOE-A-1984-24205.
