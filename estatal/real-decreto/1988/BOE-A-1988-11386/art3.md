@@ -17,3 +17,7 @@ Compete especialmente al Jefe de la Casa:
 – Establecer las normas de coordinación precisas entre la Guardia Real y el Servicio de Seguridad.
 
 2. Dependerán del Jefe de la Casa de Su Majestad todos los Servicios de la misma.
+
+3. Directamente dependiente del Jefe de la Casa existirá una Oficina, como órgano de apoyo y asistencia inmediata, cuyo titular tendrá la consideración de personal de Dirección y a la que podrán incorporarse hasta cinco miembros, como personal técnico de asesoramiento.
+
+> Se añade al apartado 3 por el art. único del Real Decreto 657/1990, de 25 de mayo. Ref. BOE-A-1990-11723.
