@@ -1,7 +1,11 @@
 ## Artículo 11.
 
-Las formas y solemnidades de los contratos, testamentos y demás instrumentos públicos se rigen por las Leyes del país en que se otorguen.
+1. Las formas y solemnidades de los contratos, testamentos y demás actos jurídicos se regirán por la ley del país en que se otorguen. No obstante, serán también válidos los celebrados con las formas y solemnidades exigidas por la ley aplicable a su contenido, así como los celebrados conforme a la ley personal del disponente o la común de los otorgantes. Igualmente serán válidos los actos y contratos relativos a bienes inmuebles otorgados con arreglo a las formas y solemnidades del lugar en que éstos radiquen.
 
-Cuando los actos referidos sean autorizados por funcionarios diplomáticos o consulares de España en el extranjero, se observarán en su otorgamiento las solemnidades establecidas por las Leyes españolas.
+Si tales actos fueren otorgados a bordo de buques o aeronaves durante su navegación, se entenderán celebrados en el país de su abanderamiento, matrícula o registro. Los navíos y las aeronaves militares se consideran como parte del territorio del Estado al que pertenezcan.
 
-No obstante lo dispuesto en este artículo y en el anterior, las Leyes prohibitivas concernientes a las personas, sus actos o sus bienes, y las que tienen por objeto el orden público y las buenas costumbres, no quedarán sin efecto por las Leyes o sentencias dictadas, ni por disposiciones o convenciones acordadas en país extranjero.
+2. Si la ley reguladora del contenido de los actos y contratos exigiere para su validez una determinada forma o solemnidad, será siempre aplicada, incluso en el caso de otorgarse aquéllos en el extranjero.
+
+3. Será de aplicación la ley española a los contratos, testamentos y demás actos jurídicos autorizados por funcionarios diplomáticos o consulares de España en el extranjero.
+
+> Se modifica por el Decreto 1836/1974, de 31 de mayo. Ref. BOE-A-1974-1083.

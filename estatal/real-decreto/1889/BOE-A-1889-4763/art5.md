@@ -1,3 +1,7 @@
 ## Artículo 5.
 
-Las Leyes sólo se derogan por otras Leyes posteriores, y no prevalecerá contra su observancia el desuso, ni la costumbre o la práctica en contrario.
+1. Siempre que no se establezca otra cosa, en los plazos señalados por días, a contar de uno determinado, quedará éste excluido del cómputo, el cual deberá empezar en el día siguiente; y si los plazos estuviesen fijados por meses o años, se computarán de fecha a fecha. Cuando en el mes del vencimiento no hubiera día equivalente al inicial del cómputo, se entenderá que el plazo expira el último del mes.
+
+2. En el cómputo civil de los plazos no se excluyen los días inhábiles.
+
+> Se modifica por el Decreto 1836/1974, de 31 de mayo. Ref. BOE-A-1974-1083.

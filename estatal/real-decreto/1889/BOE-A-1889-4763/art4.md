@@ -1,5 +1,9 @@
 ## Artículo 4.
 
-Son nulos los actos ejecutados contra lo dispuesto en la Ley, salvo los casos en que la misma Ley ordene su validez.
+1. Procederá la aplicación analógica de las normas cuando éstas no contemplen un supuesto específico, pero regulen otro semejante entre los que se aprecie identidad de razón.
 
-Los derechos concedidos por las Leyes son renunciables, a no ser esta renuncia contra el interés o el orden público, o en perjuicio de tercero.
+2. Las leyes penales, las excepcionales y las de ámbito temporal no se aplicarán a supuestos ni en momentos distintos de los comprendidos expresamente en ellas.
+
+3. Las disposiciones de este Código se aplicarán como supletorias en las materias regidas por otras leyes.
+
+> Se modifica por el Decreto 1836/1974, de 31 de mayo. Ref. BOE-A-1974-1083.

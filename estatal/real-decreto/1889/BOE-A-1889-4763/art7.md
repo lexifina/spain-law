@@ -1,5 +1,7 @@
 ## Artículo 7.
 
-Si en las Leyes se habla de meses, días o noches, se entenderá que los meses son de treinta días, los días de veinticuatro horas y las noches desde que se pone hasta que sale el sol.
+1. Los derechos deberán ejercitarse conforme a las exigencias de la buena fe.
 
-Si los meses se determinan por sus nombres, se computarán por los días que, respectivamente, tengan.
+2. La Ley no ampara el abuso del derecho o el ejercicio antisocial del mismo. Todo acto u omisión que por la intención de su autor, por su objeto o por las circunstancias en que se realice sobrepase manifiestamente los límites normales del ejercicio de un derecho, con daño para tercero, dará lugar a la correspondiente indemnización y a la adopción de las medidas judiciales o administrativas que impidan la persistencia en el abuso.
+
+> Se modifica por el Decreto 1836/1974, de 31 de mayo. Ref. BOE-A-1974-1083.

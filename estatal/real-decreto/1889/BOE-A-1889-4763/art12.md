@@ -1,5 +1,17 @@
 ## Artículo 12.
 
-Las disposiciones de este título, en cuanto determinan los efectos de las Leyes y de los estatutos y las reglas generales para su aplicación, son obligatorias en todas las provincias del Reino. También lo serán las disposiciones del título 4.º, libro 1.º.
+1. La calificación para determinar la norma de conflicto aplicable se hará siempre con arreglo a la ley española.
 
-En lo demás, las provincias y territorios en que subsiste derecho foral, lo conservarán por ahora en toda su integridad, sin que sufra alteración su actual régimen jurídico, escrito o consuetudinario, por la publicación de este Código, que regirá tan sólo como derecho supletorio en defecto del que lo sea en cada una de aquéllas por sus Leyes especiales.
+2. La remisión al derecho extranjero se entenderá hecha a su ley material, sin tener en cuenta el reenvío que sus normas de conflicto puedan hacer a otra ley que no sea la española.
+
+3. En ningún caso tendrá aplicación la ley extranjera cuando resulte contraria aI orden público.
+
+4. Se considerará como fraude de ley la utilización de una norma de conflicto con el fin de eludir una ley imperativa española.
+
+5. Cuando una norma de conflicto remita a la legislación de un Estado en el que coexistan diferentes sistemas legislativos, la determinación del que sea aplicable entre ellos se hará conforme a la legislación de dicho Estado.
+
+6. Los Tribunales y autoridades aplicarán de oficio las normas de conflicto del derecho español.
+
+La persona que invoque el derecho extranjero deberá acreditar su contenido y vigencia por los medios de prueba admitidos en la ley española. Sin embargo, para su aplicación, el juzgador podrá valerse además de cuantos instrumentos de averiguación considere necesarios, dictando al efecto las providencias oportunas.
+
+> Se modifica por el Decreto 1836/1974, de 31 de mayo. Ref. BOE-A-1974-1083.

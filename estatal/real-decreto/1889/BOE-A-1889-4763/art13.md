@@ -1,3 +1,7 @@
 ## Artículo 13.
 
-No obstante lo dispuesto en el artículo anterior, este Código empezará a regir en Aragón y en las islas Baleares al mismo tiempo que en las provincias no aforadas, en cuanto no se oponga a aquéllas de sus disposiciones forales o consuetudinarias que actualmente estén vigentes.
+1. Las disposiciones de este título preliminar, en cuanto determinan los efectos de las leyes y las reglas generales para su aplicación, así como las del título IV del libro I, con excepción de las normas de este último relativas al régimen económico matrimonial, tendrán aplicación general y directa en toda España.
+
+2. En lo demás, y con pleno respeto a los derechos especiales o forales de las provincias o territorios en que están vigentes, regirá el Código Civil como derecho supletorio, en defecto del que lo sea en cada una de aquéllas según sus normas especiales.
+
+> Se modifica por el Decreto 1836/1974, de 31 de mayo. Ref. BOE-A-1974-1083.
