@@ -1,0 +1,11 @@
+Como consecuencia del tiempo transcurrido desde la publicación del Real Decreto 2330/1978, de 29 de septiembre, aprobando el Reglamento General de la Seguridad Social de las Fuerzas Armadas, se halla en pleno funcionamiento el Instituto Social de las Fuerzas Armadas (ISFAS), Entidad Gestora del Régimen Especial de aquélla. Por lo mismo, este Instituto dispone ya de la organización necesaria para que la acción protectora que viene dispensando al personal profesional de las Fuerzas Armadas, en activo y retirado, pueda extenderse eficazmente a las Clases de Tropa y Marinería no profesionales mientras presten servicio en filas y, de esta suerte, pasen a ser realidad en cuanto a este personal no profesional, y a sus familiares, en su caso, las prestaciones básicas a cargo del expresado Régimen Especial, únicas a las que son acreedores, pues están excluidos de las complementarias según el párrafo 2 del articulo 55 del Reglamento General invocado.
+
+Al propio tiempo, es de advertir que las atenciones últimamente aludidas, a tenor del párrafo 1 del articulo 39 del propio Reglamento, han de ser costeadas en su totalidad por el Estado, con cargo a las consignaciones presupuestarias pertinentes, figurando éstas, desde luego, en los presupuestos del ISFAS para el ejercicio en curso.
+
+Es, pues, aconsejable se proceda a dar cumplimiento al mandato sancionado en el articulo 1.° del Real Decreto-ley 9/1976, de 23 de julio, que encomendó al Gobierno fijar la fecha de vigencia de la aplicación al referido personal del artículo 3.º, número 1, apartado d), de la Ley 28/1975, de 27 de junio, sobre Seguridad Social de las Fuerzas Armadas, norma que lo incluyó en el ámbito al que se contrae el Régimen Especial de esta Seguridad Social.
+
+Por lo demás, procede, asimismo, puntualizar que el antedicho mandato comprende a los alumnos de las Academias, Escuelas y Centros de Enseñanza e Instrucción Militar, puesto que como tales alumnos se les considera prestando servicio militar obligatorio, computándoseles el tiempo correspondiente.
+
+En su virtud, a propuesta del Ministro de Defensa, previo informe de los Ministros de Economía y Hacienda, del Interior, de Trabajo y Seguridad Social y de Sanidad y Consumo, con la aprobación de Presidencia del Gobierno y previa deliberación del Consejo de Ministros en su reunión del día 7 de marzo de 1986.
+
+DISPONGO:
