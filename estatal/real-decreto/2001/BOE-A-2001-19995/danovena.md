@@ -1,0 +1,7 @@
+## Disposición adicional novena. Normas aplicables a las Entidades locales.
+
+1. En los supuestos en que, de conformidad con lo dispuesto en los artículos 22.1. párrafo n) y 33.2 párrafo l) de la Ley 7/1985, de 2 de abril, reguladora de las bases del Régimen Local, el órgano de contratación sea el Pleno, las competencias atribuidas a dicho órgano de contratación en los artículos 73.1, 74, 78, apartados 1, 2 y 3, 80.4, 87.1, 94.1, 95, 96.3, 115, apartados 1 y 2, 118, 121, 123.1, 138, 139.4, 142.2, 144.2, 155.4 y 162.2 de este Reglamento podrán ser atribuidas por el mismo a otros órganos de la Corporación.
+
+2. La publicidad de los procedimientos de licitación de las Corporaciones locales, cuando no tenga que realizarse en el «Boletín Oficial del Estado» conforme al artículo 78 de la Ley, habrá de efectuarse conforme a lo dispuesto en el artículo 123.1 del Texto Refundido de las disposiciones legales vigentes en materia de Régimen Local, aprobado por Real Decreto-legislativo 781/1986, de 18 de abril.
+
+3. La supervisión de los proyectos de los Ayuntamientos y demás Entidades locales de ámbito inferior a la provincia, cuando no dispusieran de oficinas de supervisión de proyectos, se llevará a cabo a petición del Ayuntamiento o Entidad, por las correspondientes oficinas o unidades de supervisión de proyectos de las respectivas Diputaciones Provinciales, Cabildos y Consejos Insulares o Comunidades Autónomas, en su caso.
