@@ -1,3 +1,5 @@
 ## Disposición final quinta.
 
-El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+(Derogada)
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. Ref. BOE-A-1985-16766.

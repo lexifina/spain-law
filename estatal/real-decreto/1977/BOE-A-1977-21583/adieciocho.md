@@ -1,3 +1,5 @@
 ## Artículo dieciocho.
 
-El Director general o asimilado podrá suspender provisionalmente la ejecutividad de los acuerdos del Consejo de Administración de la Entidad que no se refiera a su persona, dando cuenta inmediata al Ministerio de Economía, cuando entienda que estos vulneran las disposiciones vigentes o afectan injusta y gravemente a la situación patrimonial, a los resultados o al crédito de la Caja de Ahorros o de sus impositores o clientes. En tales casos pedirá la convocatoria inmediata de la Comisión de Control para que por esta se eleve también informe al Ministerio de Economía, que resolverá en definitiva, sin perjuicio de las acciones que posteriormente procedan.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. Ref. BOE-A-1985-16766.

@@ -1,9 +1,5 @@
 ## Artículo noveno.
 
-Uno. Constituirán incompatibilidades para el nombramiento y para el ejercicio del cargo de Vocal del Consejo de Administración de las Cajas de Ahorros.
+(Derogado)
 
-a) Las establecidas en el artículo tercero, dos, respecto a los compromisarios y Consejeros generales, así como las relacionadas en el último párrafo del número cinco del referido artículo.
-
-b) Pertenecer al Consejo de Administración de más de cuatro Sociedades Anónimas. A estos efectos no se computarán los puestos ostentados en Consejo de Administración de Sociedades Anónimas en las que los interesados, su cónyuge, ascendientes o descendientes, juntos o separadamente, sean propietarios de un número de acciones no inferior al cociente de dividir el capital social por el número de Vocales del Consejo de Administración. La misma norma se aplicará a los casos de representación legal de menores, ausentes o incapacitados. En cualquier caso el número total de Consejos no será superior a ocho.
-
-Dos. Los Vocales de los Consejos de Administración, así como sus cónyuges, ascendientes o descendientes y las sociedades en que dichas personas participen mayoritariamente en el capital, bien de forma aislada o conjunta, o en las que desempeñen los cargos de Presidente, Consejero, Administrador, Gerente, Director general o asimilados, no podrán obtener créditos, avales ni garantías de la Caja respectiva, o enajenar a la misma bienes o valores de su propiedad o emitidos por tales Entidades sin que exista acuerdo del Consejo de Administración de la Caja y autorización expresa del Banco de España. Esta prohibición no será aplicable a los créditos, avales o garantías para la adquisición de viviendas concedidos por la Caja con aportación por el titular de garantía real suficiente y se extenderá, en todo caso, no solo a las operaciones realizadas directamente por las personas o Entidades referidas, sino aquellas otras en que pudieran aparecer una o varias personas físicas o jurídicas interpuestas.
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. Ref. BOE-A-1985-16766.

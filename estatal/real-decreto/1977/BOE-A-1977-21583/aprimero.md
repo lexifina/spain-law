@@ -1,11 +1,5 @@
 ## Artículo primero.
 
-Corresponde la administración, gestión y representación de las Cajas de Ahorros, para el desarrollo de las competencias que en cada caso se establecen, a los siguientes órganos de gobierno:
+(Derogado)
 
-Primero. Asamblea General.
-
-Segundo. Consejo de Administración.
-
-Tercero. Comisión de Control.
-
-Cuarto. Comisión de Obras Sociales.
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. Ref. BOE-A-1985-16766.

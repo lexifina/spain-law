@@ -1,0 +1,3 @@
+## Artículo veintisiete.
+
+El ejercicio del cargo de Director general o asimilado y Presidente del Consejo de Administración en el caso de haberle sido asignado sueldo, de una Caja de Ahorros requiere dedicación exclusiva y será, por tanto, incompatible con cualquier actividad retribuida tanto de carácter público como privado, salvo la administración del propio patrimonio y aquellas actividades que ejerza en representación de la Caja. En este último caso los ingresos que obtengan, distintos a dietas de asistencia a Consejos de Administración o similares, deberán cederse a la Caja por cuya cuenta realiza dicha actividad o representación.

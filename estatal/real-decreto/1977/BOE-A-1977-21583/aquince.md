@@ -1,9 +1,5 @@
 ## Artículo quince.
 
-Uno. La Comisión de Obras Sociales tendrá como función proponer a la Asamblea General, para su aprobación, las obras de esta naturaleza que habrán de ser acometidas y los presupuestos de las ya existentes, así como la gestión y administración de todas aquellas conforme a criterios de racionalidad económica y máximo servicio a los intereses generales de la región en que la Caja desarrolle sus actividades.
+(Derogado)
 
-Dos. La Comisión de Obras Sociales, a la que asistirá con voz y voto el Director general de la Entidad, estará integrada por seis Consejeros generales que no ostenten la condición de Vocales del Consejo de Administración ni sean miembros de la Comisión de Vigilancia, y en la misma estarán representados, además de los Consejeros de los impositores, los Consejeros de las Corporaciones Locales y los de Entidades de carácter cultural, científico o benéfico. Presidirá esta Comisión el Presidente de la Caja de Ahorros y a la misma se incorporarán dos representantes del personal, elegidos con los requisitos señalados en el artículo diez, tres.
-
-Tres. La elección de los miembros de esta Comisión se efectuará por la Asamblea General, conforme a lo dispuesto en el artículo diez, dos, salvo la representación del personal, y tendrán que cumplir idénticos requisitos y se les aplicará las mismas incompatibilidades y limitaciones que las establecidas para los Vocales del Consejo de Administración. Las vacantes se cubrirán en el plazo de tres meses, a partir de la fecha en que se hubieran producido.
-
-Cuatro. Dependiente directamente de la Comisión existirá, con autonomía funcional respecto a la vertiente financiera de la Caja de Ahorros, un departamento de obras sociales y al frente del mismo se hallara un jefe, responsable de la ejecución de las directrices de la comisión sobre tales materias.
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. Ref. BOE-A-1985-16766.

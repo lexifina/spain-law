@@ -1,5 +1,5 @@
 ## Artículo séptimo.
 
-La administración de la Caja de Ahorros en sus aspectos financieros estará confiada al Consejo de Administración.
+(Derogado)
 
-El número de Vocales del Consejo será el que fijen los Estatutos, pero no podrá ser inferior a quince ni superior a veintiuno.
+> Se deroga por la disposición derogatoria de la Ley 31/1985, de 2 de agosto. Ref. BOE-A-1985-16766.
