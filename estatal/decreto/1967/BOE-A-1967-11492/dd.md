@@ -1,0 +1,3 @@
+## DISPOSICIÓN DEROGATORIA
+
+Quedan derogados el Reglamento interino para la organización y régimen de las Bolsas de Comercio, aprobado por Real Decreto de 31 de diciembre de 1885; el Reglamento para el régimen interior de la Bolsa de Madrid, aprobado por Real Decreto de 12 de junio de 1928, y las Órdenes de 21 de diciembre de 1928 y 4 de julio de 1941 por las que se adoptó dicho Reglamento a las Bolsas de Bilbao y Barcelona, respectivamente; la Orden de 10 de diciembre de 1941, los artículos 6.º, 7.º, 10 y 11 del Decreto de 3 de febrero de 1945; la Orden de 18 de junio de 1947 y cuantas disposiciones de igual o inferior rango se opongan a lo que prescribe el presente Decreto.

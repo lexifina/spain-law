@@ -1,0 +1,3 @@
+## Art. 4.
+
+Cuando las circunstancias económicas de tiempo y lugar lo hagan aconsejable, las Bolsas Oficiales de Comercio, o alguna de ellas, podrán establecer mercados de determinadas clases de mercaderías cuyas sesiones deberán celebrarse a horas distintas de las fijadas para las de títulos-valores y las de divisas y metales precisos. El acuerdo ministerial que autorice el establecimiento de tales mercados en las Bolsas Oficiales de Comercio, o en alguna de ellas, fijará también el alcance y condiciones que, en cada uno, habrá de tener la intervención de los Agentes de Cambio y Bolsa, si bien habrán de quedar siempre sometidos a la jurisdicción y disciplina de la correspondiente Junta Sindical.
