@@ -1,12 +1,12 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_015.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_015.png)
+> Se modifica por la Orden de 9 de marzo de 1995. Ref. BOE-A-1995-7055.
 
 > Se modifica por la Orden de 22 de febrero de 1994. Ref. BOE-A-1994-6014.
 

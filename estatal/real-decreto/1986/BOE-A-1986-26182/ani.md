@@ -2,33 +2,39 @@
 
 1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_004.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_005.png)
 
 2. Tractores agrícolas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_008.png)
 
-3. Vehículos de dos o tres ruedas y cuadriciclos
+3. Vehículos de 2 ó 3 ruedas y cuadriciclos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_010.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_011.png)
 
 4. Varios
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1995/69/07055_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1994/63/06014_011.png)
+> Se modifica por la Orden de 9 de marzo de 1995. Ref. BOE-A-1995-7055.
+
+> Véase la corrección de errores publicada en BOE núm. 182, de 1 de agosto de 1995. Ref. BOE-A-1995-18490.
 
 > Se modifica por la Orden de 22 de febrero de 1994. Ref. BOE-A-1994-6014.
 
