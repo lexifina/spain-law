@@ -32,6 +32,10 @@ k) Cuando cumplan el servicio militar o prestación sustitutoria equivalente.
 
 l) (Anulada)
 
+m) Cuando sean nombrados Subsecretarios, Secretarios generales técnicos o Directores generales.
+
+n) Cuando sean nombrados Subdelegados del Gobierno en las provincias.
+
 A los funcionarios en situación de servicios especiales se les computará el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos pasivos y tendrán derecho a la reserva de plaza y destino que ocupasen. En todos los casos recibirán las retribuciones del puesto o cargo efectivo que desempeñen y no las que les correspondan como funcionarios, sin perjuicio del derecho a la percepción de los trienios que pudieran tener reconocidos como funcionarios.
 
 Los Diputados, Senadores y los miembros de las Asambleas Legislativas de las Comunidades Autónomas que pierdan dicha condición por disolución de las correspondientes Cámaras o terminación del mandato de las mismas podrán permanecer en la situación de servicios especiales hasta su nueva constitución.
@@ -105,6 +109,8 @@ La excedencia voluntaria incentivada tendrá una duración de cinco años e impe
 Quienes pasen a la situación de excedencia voluntaria incentivada tendrán derecho a una mensualidad de las retribuciones de carácter periódico, excluidas las pagas extraordinarias y el complemento de productividad, devengadas en el último puesto de trabajo desempeñado, por cada año completo de servicios efectivos y con un máximo de doce mensualidades.
 
 En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas acordar el pase a la situación de excedencia voluntaria incentivada.
+
+> Se añade el apartado 2.m) y .n) por la disposición adicional 3 de la Ley 6/1997, de 14 de abril. Ref. BOE-A-1997-7878
 
 > Se modifica el apartado 3.c) por el art. 104 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
 
