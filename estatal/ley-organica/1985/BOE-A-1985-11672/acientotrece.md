@@ -10,6 +10,6 @@ b) Validez de la elección y de la proclamación de electos, con expresión, en 
 
 c) Nulidad de acuerdo de proclamación de uno o varios electos y proclamación como tal de aquél o aquéllos a quienes corresponda.
 
-d) Nulidad de la elección celebrada y necesidad de efectuar nueva convocatoria en la circunscripción correspondiente o de proceder a una nueva elección cuando se trate de la del Presidente de una Corporación Local, en ambos casos dentro del plazo de tres meses.
+d) Nulidad de la elección celebrada en aquella o aquellas Mesas que resulten afectadas por irregularidades invalidantes y necesidad de efectuar nueva convocatoria en las mismas, que podrá limitarse al acto de la votación, o de proceder a una nueva elección cuando se trate del Presidente de una Corporación Local, en todo caso en el plazo de tres meses a partir de la sentencia. No obstante, la invalidez de la votación en una o varias Mesas o en una o varias Secciones no comportará nueva convocatoria electoral en las mismas cuando su resultado no altere la atribución de escaños en la circunscripción.
 
-3. No procederá la nulidad cuando el vicio del procedimiento electoral no sea determinante del resultado de la elección. La invalidez de la votación en una o varias Secciones tampoco comporta la nulidad de la elección cuando no se altere el resultado final.
+> Se suprime el apartado 3 y se modifica el 2.d) por el art. único.44 y 45 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.

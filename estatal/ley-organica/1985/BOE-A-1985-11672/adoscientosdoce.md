@@ -1,9 +1,11 @@
 ## Artículo doscientos doce.
 
-1. Los Diputados del Parlamento Europeo no podrán formar parte de los órganos Colegiados de Dirección o Consejos de Administración de Organismos, Entes públicos o Empresas con participación pública mayoritaria directa o indirecta.
+1. El mandato de los Diputados del Parlamento Europeo se ejercerá en régimen de dedicación absoluta, en los mismos términos previstos para los Diputados y Senadores en la presente Ley.
 
-2. El mandato de los Diputados del Parlamento Europeo es también incompatible con el desempeño por sí o mediante sustitución de cualquier otro puesto, cargo o actividad pública retribuido mediante sueldo, arancel o cualquier otra forma. Caso de producirse el pase a la situación administrativa que corresponda en aquéllos, deberá garantizarse la reserva de puesto o plaza y de destino en las condiciones que determinen las normas específicas de aplicación. Les es también de aplicación lo previsto en los párrafos 2 y 3 del artículo 157 de la presente Ley.
+2. En virtud de lo establecido en el apartado anterior, los artículos 157 y 158 de esta Ley serán aplicables a los Diputados del Parlamento Europeo, los cuales no podrán percibir con cargo a los presupuestos del sector público estatal, autonómico o local ninguna remuneración, salvo la que, en su caso, pudiera corresponderles por su condición de tales.
 
-3. Los Diputados del Parlamento Europeo no podrán recibir remuneración con cargo a los Presupuestos de los órganos constitucionales o de las Administraciones Públicas, salvo la que, en su caso, pudiera corresponderles por su condición de tales. Será también de aplicación lo previsto en el artículo 158.2 de la presente Ley.
+3. Los Diputados del Parlamento Europeo no podrán formar parte de los órganos colegiados de dirección o Consejos de Administración de Organismos, Entes públicos o Empresas con participación pública mayoritaria directa o indirecta.
+
+> Se modifica por el ar. único.69 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
 
 > Se añade por el art. 2 de la Ley Orgánica 1/1987, de 2 de abril. Ref. BOE-A-1987-8193.

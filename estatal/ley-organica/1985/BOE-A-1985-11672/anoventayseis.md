@@ -8,6 +8,8 @@
 
 4. Asimismo serán nulos los votos contenidos en sobre en los que se hubiera producido cualquier tipo de alteración de las señaladas en los párrafos anteriores.
 
-5. Se considera voto en blanco, pero válido, el sobre que no contenga papeleta y, en las elecciones para el Senado, las papeletas que no contengan indicación a favor de ninguno de los candidatos.
+5. Se considera voto en blanco, pero válido, el sobre que no contenga papeleta y, además, en las elecciones para el Senado, las papeletas que no contengan indicación a favor de ninguno de los candidatos.
+
+> Se modifica el apartado 5 por el art. único .28 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
 
 > Se modifica el apartado 2 por el art. 1 de la Ley Orgánica 1/1987, de 2 de abril. Ref. BOE-A-1987-8193.

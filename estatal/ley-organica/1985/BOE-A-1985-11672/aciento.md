@@ -12,6 +12,10 @@ c) Los documentos a que esta última haga referencia y, en particular, la lista 
 
 d) La lista del Censo electoral utilizada.
 
-3. El segundo y el tercer sobre contendrán, respectivamente, copia literal del Acta de constitución de la Mesa y del Acta de la sesión, ambas copias autorizadas por el Presidente, los Vocales y los interventores presentes.
+e) Las certificaciones censales aportadas.
+
+3. El segundo y el tercer sobre contendrán respectivas copias del acta de constitución de la Mesa y del acta de la sesión.
 
 4. Una vez cerrados todos los sobres, el Presidente, Vocales e interventores pondrán sus firmas en ellos, de forma que crucen la parte por la que en su día deban abrirse.
+
+> Se modifican los apartados 2 y 3 por el art. único.32 y 33 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.

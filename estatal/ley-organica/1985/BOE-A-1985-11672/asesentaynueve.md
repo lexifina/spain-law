@@ -23,3 +23,7 @@ Esta información no puede extenderse al contenido de los datos sobre las cuesti
 6. Las resoluciones de la Junta Electoral Central sobre materia de encuestas y sondeos son notificadas a los interesados y publicadas. Pueden ser objeto de recurso ante la Jurisdicción Contencioso-Administrativa, en la forma prevista en su Ley Reguladora y sin que sea preceptivo el recurso previo de reposición.
 
 7. Durante los cinco días anteriores al de la votación queda prohibida la publicación y difusión de sondeos electorales por cualquier medio de comunicación.
+
+8. En el supuesto de que algún organismo dependiente de las Administraciones Públicas realice en periodo electoral encuestas sobre intención de voto, los resultados de las mismas, cuando así lo soliciten, deben ser puestos en conocimiento de las entidades políticas concurrentes a las elecciones en el ámbito territorial de la encuesta en el plazo de cuarenta y ocho horas desde la solicitud.
+
+> Se añade el apartado 8 por el art. único .22 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.

@@ -6,8 +6,10 @@
 
 3. Dentro de las diez horas siguientes a la recepción de la última documentación, el Juez se desplazará personalmente a la sede de la Junta Electoral que deba realizar el escrutinio, donde hará entrega, bajo recibo detallado, de los primeros sobres.
 
-4. Los segundos sobres quedarán archivados en el Juzgado de Primera Instancia o de Paz correspondiente.
+4. Los segundos sobres quedarán archivados en el Juzgado de Primera Instancia o de Paz correspondiente, pudiendo ser reclamados por las Juntas Electorales en las operaciones de escrutinio general, y por los Tribunales competentes en los procesos contencioso-electorales.
 
 5. La Junta Electoral Provincial adoptará las medidas necesarias para facilitar el desplazamiento de los Jueces a que hace mención el párrafo tercero de este artículo.
+
+> Se modifica el apartado 4 por el art. único.34 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
 
 > Véase, para la interpretación del apartado 1, la Instrucción de 17 de febrero de 1986, de la Junta Electoral Central. Ref. BOE-A-1986-4628
