@@ -810,6 +810,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 729](a729.md)
 - [Artículo 730](a730.md)
 - [Artículo 731](a731.md)
+- [Artículo 731 bis](a731bis.md)
 - [CAPÍTULO IV](civ-4.md)
 - [Artículo 732](a732.md)
 - [Artículo 733](a733.md)
