@@ -1,0 +1,3 @@
+## Disposición adicional tercera.
+
+En el supuesto de falta de ingreso de las cuotas correspondientes, la aportación en soporte informático de los datos de las relaciones nominales de trabajadores efectuada en plazo reglamentario se considerará como presentación de documentos de cotización a los efectos previstos en el artículo 26 del Texto Refundido de la Ley General de la Seguridad Social aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, y en el artículo 73 del Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social aprobado por Real Decreto 1517/1991, de 11 de octubre.
