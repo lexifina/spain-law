@@ -1,0 +1,3 @@
+## Disposición transitoria única. Plazo de adaptación.
+
+Las sociedades de garantía recíproca deberán adaptar su actividad con el fin de cumplir los requisitos establecidos en relación con las normas de solvencia y el fondo de provisiones técnicas en el plazo de un año a la entrada en vigor del presente Real Decreto. Dicho plazo podrá ampliarse un año más, a petición de la sociedad de garantía recíproca, previa autorización del Banco de España. En todo caso, los recursos propios no podrán descender del mayor nivel alcanzado a la entrada en vigor de la presente disposición, salvo que, como consecuencia de una operación de saneamiento que tenga por objeto reconstituir su solvencia, el Banco de España lo autorice transitoriamente.
