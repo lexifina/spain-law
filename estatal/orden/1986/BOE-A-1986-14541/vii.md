@@ -1,8 +1,20 @@
-## VII. Productores de semillas y plantas de vivero
+## VII. Proveedores de semillas y plantas de vivero
 
-31. La producción de semillas y la de plantas de vivero es una actividad agrícola que corresponde a aquellas personas físicas o jurídicas que satisfagan los requisitos establecidos en este Reglamento para garantizar al agricultor la calidad de las semillas y plantas de vivero que utilizan y que en su virtud obtengan el correspondiente título de productor de semillas o el de productor de plantas de vivero.
+31. El organismo oficial responsable concederá a los proveedores la oportuna autorización, quedando estos registrados debidamente, una vez comprobados que sus métodos de producción y sus establecimientos se ajustan a los requisitos establecidos en la normativa en vigor. Si un proveedor decidiera ejercer actividades distintas de aquellas para las que esté reconocido, deberá renovar su autorización.
 
-Los mencionados títulos de productor de semillas y de productor de plantas de vivero se otorgarán por la Administración competente. Esta calificación de productor se referirá a especies o grupos de especies y se dará por un período provisional de cuatro años de vigencia, transcurridos los cuales podrá pasar a definitiva si ha cumplido todos los requisitos legalmente establecidos.
+Los análisis de laboratorio a que deba el proveedor someter a las semillas y plantas de vivero, con objeto de comprobar que cumplen con la normativa establecida, deberán efectuarse en un laboratorio reconocido por el organismo oficial responsable. Este concederá la autorización a los laboratorios, una vez que haya comprobado que los mismos, sus métodos y sus establecimientos, cumplen con la normativa establecida, teniendo en cuenta la actividad a la que se dediquen, debiéndose renovar la autorización concedida en caso de cambio de actividad.
+
+Si se comprobase la presencia de organismos nocivos de los incluidos en la normativa específica, por afectar a la calidad del material vegetal del género o especie de que se trate, los proveedores deberán informar inmediatamente de ello al organismo oficial responsable, y adoptar las medidas que éste les indique y otras que considere oportunas. Los proveedores llevarán un registro de todas las apariciones de organismos dañinos que hayan tenido lugar en sus locales y de todas las medidas que hayan adoptado en consecuencia.
+
+La vigilancia y el control de los proveedores, establecimientos y laboratorios se efectuará con regularidad, por el organismo oficial responsable o bajo la responsabilidad del mismo, que deberá en todo momento tener libre acceso a todos los locales de los establecimientos para poder garantizar el cumplimiento de la normativa establecida. En las disposiciones específicas que se dicten se establecerán, en su caso, otros requisitos y exigencias en orden a la aludida vigilancia y control de los proveedores y de sus establecimientos, así como a la de los laboratorios.
+
+Si dicha vigilancia y controles ponen de manifiesto el incumplimiento de la normativa establecida, el organismo oficial responsable tomará las medidas adecuadas. Caso de que se comprobase que los materiales de un proveedor específico no cumplen los requisitos y condiciones impuestos por la legislación, las medidas se tomarán con respecto a dicho proveedor, al que se le podría prohibir la comercialización de sus materiales.
+
+La reglamentación específica contemplará, en su caso, las excepciones a las obligaciones impuestas a los proveedores que correspondan a cada especie o grupos de especies.
+
+31 bis. La producción de semillas y la de plantas de vivero es una actividad agrícola que corresponde a aquellas personas físicas o jurídicas que satisfagan los requisitos establecidos en este Reglamento para garantizar al agricultor la calidad de las semillas y plantas de vivero que utilizan y que en su virtud obtengan el correspondiente título de productor de semillas o el de productor de plantas de vivero.
+
+Los mencionados títulos de productor de semillas y de productor de plantas de vivero se otorgarán por el organismo oficial responsable. Esta calificación de productor se referirá a especies o grupos de especies y se dará por un período provisional de cuatro años de vigencia, transcurridos los cuales podrá pasar a definitiva si ha cumplido todos los requisitos legalmente establecidos.
 
 En los casos en que el Ministerio de Agricultura, Pesca y Alimentación haga uso de las atribuciones que le confiere el artículo séptimo del Decreto 3767/1972, por el que se reglamenta la Ley 11/1971, y encomiende a Organismos dependientes del propio Ministerio la producción con carácter subsidiario de semillas o plantas de vivero, estas Entidades públicas deberán ajustarse a los mismos requisitos que se exigen en este Reglamento a las personas y Sociedades privadas.
 
@@ -73,3 +85,5 @@ En el caso en que al efectuarse la solicitud de concesión de título de product
 38. La pérdida del título de productor de semillas o de plantas de vivero, con autorización definitiva para una especie o grupos de especies, se hará en virtud de expediente administrativo que demuestre el incumplimiento grave de alguna o algunas de las condiciones exigidas en el Decreto 3767/1972, de 23 de diciembre, en los Reglamentos Técnicos y, en su caso, en las autorizaciones correspondientes. El expediente será incoado por el Instituto o, en su caso, por la Comunidad Autónoma que haya concedido eI título correspondiente. La tramitación del expediente se efectuará de acuerdo con lo establecido en la Ley de Procedimiento Administrativo.
 
 La Entidad a la que se le haya retirado el título de productor de semillas no podrá solicitar nueva autorización para las mismas especies hasta transcurrido un plazo de dos años.
+
+> Se modifica el título y el apartado 31 y se añade el 31 bis por el art. único.7 y 8 de la Orden de 10 de octubre de 1994. Ref. BOE-A-1994-22673.
