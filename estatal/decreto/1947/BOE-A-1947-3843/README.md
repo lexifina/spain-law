@@ -546,6 +546,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 412](a412.md)
 - [Artículo 413](a413.md)
 - [Artículo 414](a414.md)
+- [Diligencia de los libros de actas de la junta de propietarios](diligenciadeloslsdeactasdelajuntadepropietarios.md)
 - [Artículo 415](a415.md)
 - [Diario y asientos de presentación](diarioyasientosdepresentacion.md)
 - [Artículo 416](a416.md)

@@ -283,6 +283,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 208](a208.md)
 - [c) Actas de notoriedad](c-actasdenotoriedad.md)
 - [Artículo 209](a209.md)
+- [Artículo 209 bis](a209bis.md)
 - [Artículo 210](a210.md)
 - [d) Actas de protocolización](d-actasdeprotocolizacion.md)
 - [Artículo 211](a211.md)
