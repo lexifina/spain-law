@@ -1,3 +1,5 @@
 ## Artículo octavo.
 
-Corresponde al Ministerio del Aire entender en todo lo relativo a la navegación aérea.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.

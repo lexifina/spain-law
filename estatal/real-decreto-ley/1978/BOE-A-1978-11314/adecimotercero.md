@@ -1,3 +1,5 @@
 ## Artículo decimotercero.
 
-El Organismo autónomo «Aeropuertos Nacionales», adscrito al Ministerio de Transportes y Comunicaciones, ejercerá las funciones de coordinación, explotación, conservación y administración de los aeropuertos y aeródromos públicos civiles, en orden a la prestación del servicio público que se les encomiende.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.c) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.

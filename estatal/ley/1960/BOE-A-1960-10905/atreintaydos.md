@@ -1,5 +1,5 @@
 ## Artículo treinta y dos.
 
-El Registro de matrícula de aeronave estará a cargo de personal perteneciente al Cuerpo Jurídico del Aire, auxiliado por el personal especializado que sea necesario.
-
 Disposiciones reglamentarias establecerán normas sobre los actos y documentos inscribibles, requisitos, forma y efectos de la inscripción y modo de llevar el Registro.
+
+> Se deroga el párrafo primero por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.

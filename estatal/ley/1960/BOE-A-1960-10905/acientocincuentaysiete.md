@@ -1,6 +1,8 @@
 ## Artículo ciento cincuenta y siete.
 
-Incurrirá en multa hasta 601,01 euros, suspensión o privación de título aeronáutico, según los casos, el personal técnico aeronáutico de los servicios de tierra por todo acto u omisión relacionado con sus funciones que, sin constituir delito, ponga en peligro la seguridad de las aeronaves, de las instalaciones de los aeródromos o de las ayudas a la navegación, conforme a las disposiciones de los Reglamentos.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
 
 > Se convierte a euros la cuantía mencionada por el anexo de la Resolución de 12 de diciembre de 2001. Ref. BOE-A-2001-25009.
 

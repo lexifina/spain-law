@@ -1,6 +1,8 @@
 ## Artículo ciento cincuenta y cuatro.
 
-Incurrirán en multa de 601,01 a 6.010,12 euros, o revocación de los derechos de tráfico, las Empresas extranjeras de servicio público de transporte internacional que embarquen o desembarquen carga o correo en vuelos no comerciales, efectúen servicio de cabotaje en territorio español o verifiquen su entrada o salida de dicho territorio sin utilizar un aeropuerto aduanero.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
 
 > Se convierten a euros las cuantías mencionadas por el anexo de la Resolución de 12 de diciembre de 2001. Ref. BOE-A-2001-25009.
 

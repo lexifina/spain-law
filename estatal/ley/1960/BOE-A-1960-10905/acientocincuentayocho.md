@@ -1,3 +1,5 @@
 ## Artículo ciento cincuenta y ocho.
 
-Cualquier otra infracción de las disposiciones de esta Ley o de sus Reglamentos será sancionada según el prudente arbitrio de las autoridades aeronáuticas.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
