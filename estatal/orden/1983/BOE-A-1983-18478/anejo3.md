@@ -66,106 +66,7 @@ Sulfito reductores anaerobios esporulados: 1 x 102 colonias/gramo.
 
 La toma de muestras y técnicas analíticas serán las recomendadas por ISO y se realizarán sobre piezas en envase original.
 
-7. Aditivos autorizados.
-
-Las siguientes estipulaciones, relativas a los aditivos y sus especificaciones, han sido sancionadas por la Subsecretaría para la Sanidad del Ministerio de Sanidad y Consumo.
-
-De conformidad con el artículo 2.2, del Decreto 2519/1974, de 9 de agosto, dicha Subsecretaría podrá modificar en cualquier momento la presente relación de aditivos, mediante Resolución.
-
-Los aditivos que se indican a continuación deberán responder a las normas de identificación, calidad y pureza prescritas por la Subsecretaría para la Sanidad del Ministerio de Sanidad y Consumo.
-
-Conservadores:
-
-| E-200. | Acido sórbico. | } | 1.500 ppm. Cuando estos productos se utilicen conjuntamente la dosis no podrá ser superior a 1.800 ppm (partes por millón). |
-| --- | --- | --- | --- |
-|  | y/o |
-| E-201. | Sorbato de sodio. |
-|  | y/o |
-| E-202. | Sorbato de potasio. |
-| E-214. | Parahidroxibenzoato de etilo. | } | 900 ppm. Cuando estos productos se utilicen conjuntamente la dosis total no podrá ser superior a 1.800 ppm. |
-| E-215. | Parahidroxibenzoato, derivado sódico del éster etílico del ácido. |
-| E-216. | Parahidroxibenzoato de propilo. |
-| E-217. | Parahidroxibenzoato, derivado sódico del éster propílico del ácido. |
-| E-250. | Nitrito de sodio: 125 ppm. | } | Cuando estos productos se utilicen conjuntamente la dosis total no podrá ser superior a 250 ppm. |
-| E-252. | Nitrato de potasio |
-|  | y/o |
-| E-251. | Nitrato de sodio: 200 ppm. |
-| Starters microbianos. | } | BPF (buena práctica de fabricación). |
-
-Estabilizadores, emulsionantes:
-
-Los alimentos que puedan utilizarse con fines tecnológicos, excepto las proteínas texturizadas, podrán emplearse en dosis máxima: 3 por 100 proteínas extrañas y 10 por 100 almidón.
-
-| Azúcares | 5,0 % |
-| --- | --- |
-| Dextrinas y derivados | 1,5 % |
-| Gelatina | B.P.F. |
-| E.420. | Sorbitol | B.P.F. |
-| E.421. | Manitol | B.P.F. |
-| E.422. | Glicerol | B.P.F. |
-| E.405. | Alginato de propilenglicol | 1,0 % |
-
-Gelificantes y gomas:
-
-| E.400. | Acido algínico | 1,0 % | } | Máximo total de gelificantes y gomas, 1 por 100. |
-| --- | --- | --- | --- | --- |
-| E.401. | Alginato de sodio | 1,0 % |
-| E.402. | Alginato de potasio | 1,0 % |
-| E.406. | Agar-agar | 1,0 % |
-| E.407. | Carragenatos y carrageninas | 1,0 % |
-| E.140. | Goma de garrofín | 1,0 % |
-| E.412. | Harina de guar o goma guar | 0,5 % |
-| E.415. | Goma Xantana | 1,0 % |
-
-Polifosfatos:
-
-| E.450.a. | Difosfato o pirofosfato disódico. | } | El producto terminado no contendrá más de 7.500 p.p.m. de fosfatos, de los cuales 3.000 p.p.m. corresponderán a los polifosfatos añadidos expresados en P2O5 |
-| --- | --- | --- | --- |
-| E.450.a. | Difosfato o pirofosfato trisódico |
-| E.450.a. | Disfosfato o pirofosfato tetrasódico. |
-| E.450.a. | Disfosfato o pirofosfato tetrapotásico. |
-| E.450.b. | Trifosfato pentasódico. |
-| E.450.b. | Trifosfato pentapotásico. |
-| E.450.c. | Polifosfato de sodio. |
-| E.450.c. | Polifosfato de potasio. |
-| E.339. | Ortofosfato de sodio. |
-| E.340. | Ortofosfato de potasio. |
-
-Antioxidantes:
-
-| E.300. | Ác. l. ascórbico | } | 500 ppm. |
-| --- | --- | --- | --- |
-|  | y/o |
-| E.301. | Ascorbato de sodio |
-| E.270. | Ácido láctico y sus sales | B.P.F. |
-| E.330. | Ácido cítrico y sus sales | B.P.F. |
-
-Modificadores organolépticos:
-
-| Glutamato monosódico y ácido glutámico | 2.000 p.p.m. |
-| --- | --- |
-| Acido guanílico y sales de sodio y potasio | 500 p.p.m. |
-| Acido inosínico y sales de sodio y potasio | 500 p.p.m. |
-| Aromas naturales | B.P.F. |
-| Aromas artificiales (listas positivas) | B.P.F. |
-| Extractos y oleorresinas | B.P.F. |
-| Hidrolizado de proteínas | 0,5 %. |
-| Hidrolizado de levaduras | B.P.F. |
-| Extracto de humo | B.P.F. |
-| Colorantes: Dosis máximas de colorantes artificiales (sólo para fiambres) | 300 p.p.m. |
-|  |  |
-| E.100. | Curcumina. |  |
-| E.101. | Lactoflavina (Riboflavina). |  |
-| E.102. | Tartracina (Amarillo A-2). |  |
-| E.104. | Amarillo de quinoleína (Amarillo A-3). |  |
-| E.110. | Amarillo anaranjado 5. |  |
-| E.120. | Cochinilla (Acido carmínico). |  |
-| E.122. | Azorrubina (Rojo A-1). |  |
-| E.123. | Amaranto (Rojo A-3). |  |
-| E.124. | Rojo cochinilla (Ponceau AR o Rojo A-4). |  |
-| E.127. | Eritrosina. |  |
-| E.150. | Caramelo (no amoniacal) . Red 2 G. |  |
-| E.162. | Betanina. |  |
+7. Aditivos autorizados. (Derogado)
 
 8. Contaminantes.
 
@@ -331,6 +232,8 @@ Los productos importados, además de cumplir lo establecido en el punto 12 de la
 16. Etiquetado facultativo.
 
 Dada la importancia que tiene en estos productos la incorporación o no de fosfatos, se reserva la posibilidad de incorporar una frase con tal información, de tamaño menor al de la denominación comercial, tan sólo para la categoría «Extra», siempre y cuando no existan en dichos productos más de 4.500 p.p.m. de fosfatos expresados en anhídrido fosfórico.
+
+> Se deroga el apartado 7 por el art. 6 de la Resolución de 26 de diciembre de 1983. Ref. BOE-A-1984-166.
 
 > Se modifica el apartado 6 por los apartados 1 y 2 de la Resolución de 26 de diciembre de 1983. Ref. BOE-A-1984-71.
 
