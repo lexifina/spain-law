@@ -1,16 +1,24 @@
 ## Octavo.
 
-El Departamento de Recursos Humanos estará integrado por los siguientes órganos:
+1. El Departamento de Recursos Humanos y Administración Económica estará integrado por las Direcciones Adjuntas de Recursos Humanos y de Administración Económica.
 
-a) Dirección Adjunta de Recursos Humanos.
+2. Dependerán de la Dirección Adjunta de Recursos Humanos las siguientes Subdirecciones Generales:
 
-b) Subdirección General de Gestión Administrativa de Personal.
+Subdirección General de Gestión Administrativa de Personal.
 
-c) Subdirección General de Programación e Incentivación.
+Subdirección General de Programación e Incentivación.
 
-d) Subdirección General de Relaciones Laborales.
+Subdirección General de Relaciones Laborales.
 
-> Se modifica por el art. único. 2 de la Orden EHA/3650/2007, de 11 de diciembre. Ref. BOE-A-2007-21594.
+3. Dependerán de la Dirección Adjunta de Administración Económica las siguientes Subdirecciones Generales:
+
+Subdirección General de Presupuestos y Gestión Financiera.
+
+Subdirección General de Contabilidad.
+
+Subdirección General de Adquisiciones y Contratación.
+
+Subdirección General de Bienes Inmuebles e Instalaciones.
 
 > Se modifica por la disposición única de la Orden de 17 de junio de 1998. Ref. BOE-A-1998-15059.
 
