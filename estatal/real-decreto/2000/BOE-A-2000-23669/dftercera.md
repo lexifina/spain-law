@@ -1,3 +1,5 @@
 ## Disposición final tercera. Habilitación normativa.
 
-Se faculta al Ministro de Agricultura, Pesca y Alimentación para establecer los supuestos excepcionales en que las autoridades competentes de las Comunidades Autónomas podrán permitir la incineración o la inhumación de materiales especificados de riesgo o de cuerpos enteros sin su coloración previa, o, cuando proceda, la separación de los materiales especificados de riesgo en las circunstancias previstas en el apartado 2 del artículo 3 del Real Decreto 2224/1993, de 17 de diciembre, sobre normas sanitarias de eliminación y transformación de animales muertos y desperdicios de origen animal y protección frente a agentes patógenos en piensos de origen animal, y según un método que evite todo riesgo de transmisión de una encefalopatía espongiforme transmisible, y que cuente con la autorización y supervisión de la autoridad competente, en particular cuando los animales hayan muerto o se hayan matado en el contexto de medidas de lucha.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 1429/2003, de 21 de noviembre. Ref. BOE-A-2003-21343.
