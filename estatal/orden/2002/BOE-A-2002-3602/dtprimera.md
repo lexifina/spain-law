@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Definición inicial del ámbito de los servicios de tarificación adicional a los efectos de la presente Orden.
+
+A los efectos de la presente Orden se entenderán incluidos en la definición de servicios de tarificación adicional contenida en el apartado 4 de la misma únicamente aquellos servicios de tarificación adicional que actualmente vienen prestándose a través de los códigos 903 y 906. Mediante Resolución de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información podrá ampliarse el ámbito de aplicación de la presente Orden a otros servicios de tarificación adicional que se presten a través de códigos distintos a los mencionados.
