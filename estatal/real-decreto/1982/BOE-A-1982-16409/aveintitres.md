@@ -1,3 +1,5 @@
 ## Artículo veintitrés.
 
-Las bonificaciones de la cuota empresarial a la Seguridad Social serán abonadas con cargo a los recursos del Instituto Nacional de Empleo para el Seguro de Desempleo.
+(Derogado)
+
+> Se deroga por la disposición final 1 del Real Decreto 3239/1983, de 28 de diciembre. Ref. BOE-A-1983-34297.

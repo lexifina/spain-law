@@ -1,5 +1,5 @@
 ## Artículo treinta y seis.
 
-Uno. No podrán acogerse a los beneficios establecidos en la presente disposición las Empresas que en el plazo de un año anterior a la contratación hayan amortizado puesto de trabajo por expediente de regulación de empleo o por despido declarado improcedente por sentencia de Magistratura de Trabajo o por conciliación ante el IMAC.
+(Derogado)
 
-Dos. En ningún caso podrán contratarse los cónyuges, descendientes, ascendientes o demás parientes por consanguinidad o afinidad, hasta el tercer grado inclusive, del empresario o de quienes ocupen puestos de dirección en la Empresa.
+> Se deroga por la disposición final 1 del Real Decreto 3239/1983, de 28 de diciembre. Ref. BOE-A-1983-34297.
