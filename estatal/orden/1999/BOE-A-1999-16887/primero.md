@@ -1,0 +1,3 @@
+## Primero.
+
+Sin perjuicio de lo que pueda establecerse en otra reglamentación específica, a partir de la entrada en vigor de esta Orden, los extintores a instalar en vehículos de nueva matriculación, y los de reposición en el resto de los vehículos que estén obligados por el Reglamento General de Vehículos a llevarlos, serán de tipo portátil y manual, siendo su carga de polvo seco. Dichos extintores deberán cumplir con el Reglamento de Aparatos a Presión aprobado por Real Decreto 1244/1979, de 4 de abril, y la Instrucción Técnica Complementaria ITC MIE-AP 5, así como con lo referido a extintores en el Reglamento de Instalaciones de Protección contra Incendios aprobado por Real Decreto 1942/1993, de 5 de noviembre.
