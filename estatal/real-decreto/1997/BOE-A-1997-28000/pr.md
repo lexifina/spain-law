@@ -1,0 +1,17 @@
+La Decisión 3632/93/CECA, de la Comisión, de 28 de diciembre, relativa al Régimen comunitario de las intervenciones de los Estados miembros en favor de la industria del carbón, constituye el marco jurídico para la concesión de ayudas a esta industria. Las ayudas toman en consideración la concentración geográfica de la producción en determinadas áreas, con una elevada dependencia económica de esta actividad.
+
+En España, el carbón constituye el único recurso energético autóctono relativamente abundante, por lo que en su sostenimiento han de ser empleados los mecanismos que la normativa europea prevé. Dichos mecanismos se utilizarán con las limitaciones previstas, esto es, que las ayudas a la minería serán regresivas y compatibles con la liberalización del mercado y las empresas de difícil viabilidad reducirán su producción. Estos principios son los que determinan el contenido de las denominadas ayudas al funcionamiento y a la reducción de actividad de las empresas mineras y las ayudas destinadas a cubrir las cargas excepcionales vinculadas a planes de modernización, reestructuración y racionalización de la actividad.
+
+Pero el Real Decreto contempla también ayudas dirigidas a fomentar un desarrollo económico alternativo para las zonas mineras, con fuerte dependencia del carbón, en su doble vertiente de ayudas a la realización de proyectos de infraestructuras y de proyectos empresariales generadores de empleo. Se trata de ayudas que quedan fuera del ámbito de la Decisión CECA mencionada por no ir dirigidas directamente a empresas mineras.
+
+El presente Real Decreto se dicta en virtud de la competencia exclusiva del Estado, artículo 149.1.13.ª de la Constitución, en materia de bases y coordinación de la planificación general de la actividad económica. Teniendo en cuenta que las ayudas previstas se concederán en un marco global con la finalidad primordial de ayudar a la reestructuración de un sector económico en el que el Estado tiene competencias derivadas del citado artículo para la ejecución de la legislación sobre la minería en parte de su territorio, la gestión de aquéllas en la forma que diseña el presente Real Decreto, resulta imprescindible para asegurar su plena efectividad dentro de la ordenación básica del sector y para garantizar las mismas posibilidades de obtención y disfrute por parte de sus potenciales destinatarios.
+
+Además, constituye un objetivo constitucional básico según el artículo 131.1 de la Constitución que en el ámbito de la planificación económica y, más en concreto, en el marco de la política energética referida al sector de la minería, se equilibre y armonice el desarrollo regional.
+
+Asimismo, en atención al artículo 40.1 de la Constitución que establece que los poderes públicos promoverán las condiciones favorables para el progreso social y económico, con la presente regulación se coordinan actuaciones con las Comunidades Autónomas en el ámbito de la planificación de este sector, entendiéndose que han de insertarse, por su carácter básico y general, en las competencias del Estado anteriormente citadas.
+
+Por último, es preciso tener en cuenta la competencia exclusiva atribuida al Estado en virtud del artículo 149.1.7.ª de la Constitución relativa a la legislación laboral.
+
+En su virtud, a propuesta del Ministro de Industria y Energía, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 26 de diciembre de 1997,
+
+## D I S P O N G O :
