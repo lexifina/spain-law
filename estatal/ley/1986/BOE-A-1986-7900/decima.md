@@ -1,0 +1,9 @@
+## Disposición transitoria décima.
+
+1. Para el ejercicio de acciones encaminadas a dar efectividad a derechos de exclusiva derivados de una patente de invención solicitada con posterioridad a la entrada en vigor de la presente Ley será preciso que se haya obtenido o solicitado previamente el informe sobre el estado de la técnica, siempre que dicho informe hubiera sido puesto en vigor para el sector técnico que pertenezca la patente, conforme a lo dispuesto en la disposición transitoria cuarta.
+
+2. A los efectos mencionados en el apartado anterior, el Registro de la Propiedad Industrial, a petición del titular de la patente y previo el abono de la tasa correspondiente, procederá a elaborar el informe sobre el estado de la técnica referente al objeto de la patente concedida, en los términos previstos en el artículo 34 de la presente Ley. El informe, una vez elaborado, será notificado al peticionario y será puesto a disposición del público unido al expediente de la patente.
+
+3. En el supuesto de presentarse una demanda ejercitando las acciones mencionadas en el apartado primero, sin haber obtenido todavía el informe solicitado, el demandado podrá pedir la suspensión del plazo para contestarla hasta que se aporte dicho informe a los autos, o se justifique haber transcurrido el plazo de seis meses desde que la petición del mismo fue formalizada sin que el Registro de la Propiedad Industrial lo haya emitido.
+
+4. Solicitado el informe sobre el estado de la técnica, y aunque éste no se hubiera obtenido todavía, podrá instarse la práctica de diligencia de comprobación de hechos, así como la adopción de medidas cautelares, siempre que éstas no consistan en la paralización o cesación de la actividad industrial o comercial del demandado en relación con el objeto de la patente, y todo ello si procede de conformidad con lo previsto en esta Ley.

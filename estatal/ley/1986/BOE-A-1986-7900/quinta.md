@@ -1,0 +1,3 @@
+## Disposición transitoria quinta.
+
+El Gobierno, una vez implantado el informe sobre el estado de la técnica para la totalidad de las solicitudes de patentes de invención a que se refiere la disposición transitoria cuarta, podrá ir estableciendo por Real Decreto, progresivamente y en atención a las prioridades que se fijen para el desarrollo tecnológico e industrial del Estado, aquellos sectores de la técnica en los que las solicitudes de patente de invención quedarán sometidas al procedimiento de concesión con examen previo establecido en el capítulo III del título V de la presente Ley, siempre que les hayan sido aplicables durante, al menos, seis meses las normas relativas al informe sobre el estado de la técnica.
