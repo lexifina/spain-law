@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta con carácter de norma básica al amparo del artículo 149.1.16.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de bases y coordinación general de la sanidad, y en desarrollo de lo dispuesto en los artículos 24, 25.2 y 3, 26 y 31.2 de la Ley 14/1986, de 25 de abril, General de Sanidad, y artículos 3 y 5.2 de la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios. Se exceptúa de lo anterior el apartado 4 del artículo 15, que se dicta al amparo del artículo 149.1.16.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de sanidad exterior.

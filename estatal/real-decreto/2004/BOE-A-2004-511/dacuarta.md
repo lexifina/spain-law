@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Directrices y guías de funcionamiento.
+
+De conformidad con lo que establezca la Comisión Europea, el Instituto Nacional del Consumo, previo informe de la Comisión de Cooperación de Consumo, podrá aprobar unas directrices o guías de funcionamiento del sistema de red de alerta y de la comunicación ordinaria de las medidas de reacción adoptadas, donde se determine o concrete, entre otras posibles cuestiones, el formulario tipo de comunicación, la información que éste debe contener, los procedimientos de aplicación, sus plazos y los criterios para clasificar y ordenar las comunicaciones según su urgencia.
