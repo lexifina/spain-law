@@ -12,3 +12,7 @@
 | Otras semillas multigérmenes | 97 | 0,3 | 68 | 68 | – | – | 15 |
 
 (1) El porcentaje de glomérulos que den tres o más plántulas no debe sobrepasar un 5, calculado sobre los glomérulos germinados:
+
+El porcentaje en peso de materia inerte no sobrepasará el 1,0 en el caso de las ''semillas de base'', ni el 0,5 en el de las semillas de la categoría ''semillas certificadas''. Cuando se trate de semillas recubiertas de ambas categorías, y sin perjuicio del examen oficial de su pureza especifica mínima, el cumplimiento de los requisitos indicados se comprobará examinando muestras de semillas transformadas que hayan sido parcialniente descascarilladas (pulidas o trituradas), y que aun no se hayan recubierto, tomadas oficialmente.
+
+> Se añade el párrafo último por el apartado 3 de la Orden de 18 de noviembre de 1988. Ref. BOE-A-1988-28030.

@@ -11,18 +11,30 @@ a) Tamaño mínimo de las parcelas para la producción de semilla certificada:
 
 b) Aislamientos mínimos:
 
-|  | Semilla de prebase y base – metros | Semilla certificada – metros |
-| --- | --- | --- |
-| 1) Remolacha azucarera: |  |  |
-| Remolacha azucarera de variedades monogérmenes con remolacha azucarera de otras variedades | 1.000 | 600 |
-| Remolacha azucarera de variedades multigérmenes con remolacha azucarera de otras variedades | 600 | 300 |
-| Remolacha azucarera con remolacha forrajera u otras especies y subespecies del género Beta | 1.000 | 1.000 |
-| 2) Remolacha forrajera: |  |  |
-| Remolacha forrajera de variedades monogérmenes con remolacha forrajera de otras variedades | 1.000 | 600 |
-| Remolacha forrajera de variedades multigérmenes con remolacha forrajera de otras variedades | 600 | 300 |
-| Remolacha forrajera con remolacha azucarera, así como otras especies y subespecies del género Beta | 1.000 | 1.000 |
+| Cultivo | Distancia mínima - Metros |
+| --- | --- |
+| 1. Para la producción de semilla de base: |  |
+| De todo foco de polen de género Beta | 1.000 |
+| 2. Para la producción de semilla certificada: |  |
+| a) De remolacha azucarera: |  |
+| De todo foco de polen de género Beta no incluido a continuación | 1.000 |
+| Cuando el polinizador o uno de los polinizadores previstos sea diploide, de los focos de polen de la remolacha azucarera tetraploide | 600 |
+| Cuando el polinizador previsto sea exclusivamente tetraploide, de los focos de polen de remolacha azucarera diploide | 600 |
+| De focos de polen de remolacha azucarera cuya ploidía se desconozca | 600 |
+| Cuando el polinizador o uno de los polinizadores previstos sea diploide, de los focos de polen de remolacha azucarera diploide | 300 |
+| Cuando el polinizador previsto sea exclusivamente tetraploide, de los focos de polen de remolacha azucarera tetraploide | 300 |
+| Entre dos parcelas de producción de semillas de remolacha azucarera en que no se utilice la esterilidad masculina | 300 |
+| b) De remolacha forrajera: |  |
+| De todo foco de polen del género Beta no incluido a continuación | 1.000 |
+| Cuando el polinizador o uno de los polinizadores previstos sea diploide, de focos de polen de la remolacha forrajera tetraploide | 600 |
+| Cuando el polinizador previsto sea exclusivamente tetraploide, de focos de polen de remolacha forrajera diploide .: | 600 |
+| De focos de polen de remolacha forrajera cuya ploidía se desconozca | 600 |
+| Cuando el polinizador o uno de los polinizadores previstos sea diploide, de focos de polen de remolacha forrajera diploide | 300 |
+| Cuando el polinizador previsto sea exclusivamente tetraploide, de focos de polen de remolacha forrajera diploide | 300 |
+| Cuando el polinizador previsto sea exclusivamente tetraploide, de los focos de polen de remolacha forrajera tetraploide | 300 |
+| Entre dos parcelas de producción de semilla de remolacha forrajera en que no se utilice la esterilidad masculina | 300 |
 
-Estas distancias se aplican igualmente a los aislamientos con plantas o campos de remolacha para raíz y que florezcan al mismo tiempo que los campos de producción de semillas.
+Dichas distancias podrán no observarse cuando exista una protección suficiente contra cualquier polinización extraña no deseable. No es necesario el aislamiento entre cultivos de semillas que utilicen el mismo polinizador.
 
 c) Máximos admisibles de plantas espigadas prematuramente y plantas enfermas:
 
@@ -37,5 +49,7 @@ d) Enfermedades transmisibles a que se refiere el apartado anterior.
 1. Phoma betae (Oud) Frank (Pleospora betae)-Björling.
 
 2. Amarillez (Yellow virus). Raza 41.
+
+> Se modifica el apartado b) por el apartado 2 de la Orden de 18 de noviembre de 1988. Ref. BOE-A-1988-28030.
 
 > Redactado el apartado c) conforme a la corrección de errores publicada en BOE núm. 103, de 30 de abril de 1987. Ref. BOE-A-1987-10438.

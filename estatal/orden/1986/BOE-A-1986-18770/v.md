@@ -2,7 +2,7 @@ V. PRECINTADO DE LAS SEMILLAS
 
 1. Peso de los lotes
 
-El peso máximo de cada lote de semillas de remolacha azucarera y forrajera será de 20.000 kilogramos.
+El peso máximo de cada lote de semillas de remolacha azucarera y forrajera será de 20.000 kilogramos admitiéndose una tolerancia del 5 por 100.
 
 2. Normalización de capacidades de los envases
 
@@ -21,3 +21,5 @@ El peso mínimo de cada muestra oficial será de 500 gramos.
 4. Duración de la validez del precintado
 
 Los lotes certificados y precintados tendrán una validez máxima de dos años desde la fecha de precintado. Pasado este plazo, los lotes deberán anualmente ser objeto de nuevo análisis de germinación, previa toma oficial de muestras.
+
+> Se modifica el art. 1 por el apartado 1 de la Orden de 18 de noviembre de 1988. Ref. BOE-A-1988-28030.
