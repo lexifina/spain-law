@@ -1,0 +1,3 @@
+## Disposición adicional decimoctava. Autorizaciones administrativas en el sector de la construcción naval.
+
+La instalación, ampliación o traslado de toda industria perteneciente al sector de construcción naval en el que se están aplicando medidas encuadradas en las Directivas del Consejo de la Comunidad Económica Europea sobre ayudas a la construcción naval, precisará la autorización administrativa previa del Ministerio de Industria y Energía. A estos efectos, tendrá la consideración de ampliación de industria toda inversión que suponga un aumento de la capacidad productiva, manteniéndose, por otra parte, la vigencia de todo lo dispuesto en la disposición adicional decimotercera de la Ley 33/1987, de Presupuestos del Estado para 1988.

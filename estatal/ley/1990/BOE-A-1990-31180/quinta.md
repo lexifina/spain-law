@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Competencias sancionadoras en materia de Sanidad y Consumo.
+
+Las infracciones en materia de sanidad y consumo podrán ser sancionadas por las Autoridades Locales, conforme a lo establecido en los artículos 32 a 37 de la Ley 14/1986, de 25 de abril, General de Sanidad, 32 a 38 de la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios y disposiciones concordantes, hasta el límite de 2.500.000 pesetas de multa. Cuando por la naturaleza y gravedad de la infracción haya de superarse dicha cuantía, se remitirá el expediente, con la oportuna propuesta, a la autoridad que resulte competente.
