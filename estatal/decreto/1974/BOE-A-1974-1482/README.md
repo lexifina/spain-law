@@ -19,5 +19,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo quinto](aq.md)
 - [Disposición final primera](pp.md)
 - [Disposición final segunda](ps.md)
+- [Disposición final tercera](pt.md)
 - [Disposición final cuarta](pc.md)
 - [(firma)](fi.md)
