@@ -1,0 +1,7 @@
+La Ley General de la Seguridad Social de treinta de mayo de mil novecientos setenta y cuatro prevé en el número uno del artículo diez el establecimiento de Regímenes Especiales en aquellas actividades profesionales en las que, por su naturaleza, sus peculiares condiciones de tiempo y lugar o por la índole de sus procesos productivos se hiciere preciso para la adecuada aplicación de los beneficios de la Seguridad Social, autorizándose en el apartado uno del número dos del mismo precepto la creación de Regímenes Especiales para determinados grupos.
+
+El perfeccionamiento de la protección obligatoria de los jugadores profesionales de futbol, que actualmente vienen gozando de un régimen de previsión al amparo de la Ley de Mutualidades y Montepíos libres de seis de diciembre de mil novecientos cuarenta y uno, a través de la Mutualidad de Futbolistas Españoles, cuyos Estatutos fueron aprobados por el Ministerio de Trabajo con fecha de dieciocho de junio de mil novecientos sesenta y nueve, reclama la superación de este régimen de previsión mediante la integración de este colectivo en el sistema de la Seguridad Social, que ha de articularse en un Régimen Especial atendidas las peculiaridades de la actividad que los citados jugadores desarrollan.
+
+En su virtud, a propuesta del Ministro de Sanidad y Seguridad Social, y previa deliberación en la reunión del Consejo de Ministros del día siete de diciembre de mil novecientos setenta y nueve,
+
+DISPONGO:
