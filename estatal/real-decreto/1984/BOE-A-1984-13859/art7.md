@@ -22,6 +22,8 @@ El pan especial puede recibir las siguientes denominaciones, que se incluyen a t
 
 7.10 Pan rallado: es el producto resultante de la trituración industrial del pan. Se prohíbe fabri carlo con restos de pan procedentes de establecimientos de consumo.
 
-7.11 Por razones de sus ingredientes adicionales, además de su forma externa o el procedimiento de su elaboración son también panes especiales los siguientes: "pan bizcochado", "pan dulce", "pan de frutas", "palillos", "bastones", "grisines", "pan ácimo" y otros.
+7.11 Por razones de sus ingredientes adicionales, además de su forma externa o el procedimiento de su elaboración son también panes especiales los siguientes: "pan bizcochado", "pan dulce", "pan de frutas", "palillos", "bastones", "pan ácimo" y otros.
+
+> Se modifica el apartado 7.11 por el art. único del Real Decreto 1975/2004, de 1 de octubre. Ref. BOE-A-2004-17701.
 
 > Se modifica por el art. único.2 del Real Decreto 1202/2002, de 20 de noviembre. Ref. BOE-A-2002-22731.
