@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Plazo para la inscripción.
+
+Se establece un plazo máximo hasta el 31 de mayo de 2004, incluido, para que los órganos competentes de cada comunidad autónoma inscriban en el registro regulado en el artículo 3 a los agentes y contenedores del sector lácteo ubicados en su territorio, así como a las cisternas que pertenezcan a un operador o transportista cuyo domicilio o domicilio social radique en su ámbito territorial, con los datos mínimos que figuran en el anexo I, asignando a cada elemento del sistema un código de identificación, de acuerdo a lo establecido en el artículo 5.

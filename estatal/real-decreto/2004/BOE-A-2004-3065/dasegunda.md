@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Obligaciones respecto a la trazabilidad.
+
+El registro de movimientos y el registro de entregas de leche asociado a cada explotación contemplados en el artículo 7 servirán a los agentes a los efectos de cumplir sus obligaciones respecto al seguimiento del producto establecida por el Reglamento (CE) n.º 178/2002 del Parlamento Europeo y del Consejo, de 28 de enero de 2002, por el que se establecen los principios y los requisitos generales de la legislación alimentaria, se crea la Autoridad Europea de Seguridad Alimentaria y se fijan procedimientos relativos a la seguridad alimentaria.
