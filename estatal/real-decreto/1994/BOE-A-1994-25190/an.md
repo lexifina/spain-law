@@ -123,6 +123,7 @@
 | - Ingeniero en Geodesia y Cartografía. |  |
 | - Ingeniero Industrial. | - Ingeniero Industrial en todas sus especialidades. |
 | - Ingeniero en Informática. | - Licenciado en Informática en todas sus especialidades. |
+|  | - Licenciado en Ciencias (Sección Informática) |
 | - Ingeniero de Materiales. |  |
 | - Ingeniero de Minas. | - Ingeniero de Minas en todas sus especialidades. |
 | - Ingeniero de Montes. | - Ingeniero de Montes en todas sus especialidades. |
@@ -419,7 +420,7 @@
 |  | * Sección Historia Antigua. |
 |  | * Sección Historia Medieval. |
 |  | * Sección Historia General. |
-|  | * Sección Antropología Cultural. |
+|  | * Sección Antropología Cutural. |
 |  | * Sección Geografía e Historia. |
 |  | * Sección Prehistoria y Arqueología. |
 | - Licenciado en Historia del Arte. | - Licenciado en Filosofía y Letras: |
@@ -438,6 +439,8 @@
 | - Licenciado en Lingüística. |  |
 | - Licenciado en Teoría de la Literatura y Literatura Comparada. |  |
 | - Licenciado en Traducción e interpretación. |  |
+
+> Se modifica el apartado III por el apartado 1 de la Orden ECD/2471/2002, de 26 de septiembre. Ref. BOE-A-2002-19486.
 
 > Se modifica el apartado III por el apartado 1 de la Orden de 17 de febrero de 2000. Ref. BOE-A-2000-3516.
 
