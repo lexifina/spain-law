@@ -120,6 +120,8 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_028.png)
 
+> Téngase en cuenta que en los libros de defunciones del Registro Civil quedará en blanco y será cruzado con una raya el dato sobre la causa de la muerte, según establece el art. 1 de la Orden de 6 de junio de 1994 Ref. BOE-A-1994-13489.
+
 > Téngase en cuenta que en los libros del Registro Civil quedarán en blanco y serán cruzados con una raya los datos sobre la profesión de los padres y de los contrayentes en las respectivas actas de nacimiento y de matrimonio, según establece el art. 1 de la Orden de 10 de diciembre de 1993 Ref. BOE-A-1993-30391.
 
 > Se derogan los modelos 10, 11, 12, 13, 14 y 15 por la disposición final primera de la Orden de 20 julio 1989 Ref. BOE-A-1989-22111.
