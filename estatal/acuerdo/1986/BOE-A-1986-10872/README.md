@@ -156,6 +156,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 120](a120.md)
 - [Art 121](a121.md)
 - [Art 122](a122.md)
+- [Art 122 bis](a122bis.md)
 - [Art 123](a123.md)
 - [Art 124](a124.md)
 - [Art 125](a125.md)
