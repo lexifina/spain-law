@@ -77,3 +77,5 @@ c) En las Empresas con pérdidas de ejercicios anteriores que saneen las mismas 
 El importe de las acciones objeto de la reinversión tributará por este impuesto en el ejercicio en que se enajenen, siempre que no se reinviertan dentro del mismo ejercicio. Esta norma será de aplicación a las sucesivas enajenaciones de las acciones en que aparezcan materializadas las inversiones acogidas a esta deducción.
 
 8. Lo dispuesto en el número anterior será igualmente aplicable a aquellas Sociedades que tengan por objeto exclusivo la promoción o fomento de Empresas mediante participación temporal en su capital.»
+
+> Se incrementa la cuantía establecida en el apartado 5 en el importe resultante, según establece el art. 3 del Real Decreto-ley 4/1985, de 28 de agosto, de concesión de suplementos de crédito. Ref. BOE-A-1985-18804.
