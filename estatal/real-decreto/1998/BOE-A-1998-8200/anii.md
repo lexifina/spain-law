@@ -32,9 +32,21 @@ c) El contenido en proteínas de las fuentes mencionadas será como mínimo a 0,
 
 d) El contenido en proteínas total del producto de todas las fuentes será como mínimo 0,7 g/100 kJ (3 g/100 kcal).
 
-4.º Los productos que se designan en el etiquetado como una comida completa, pero en su denominación no se menciona la carne, el pollo, el pescado, los despojos u otra fuente tradicional de proteínas deberán cumplir: El contenido total de proteínas de todas las fuentes será como mínimo de 0,7 g/100 kJ (3 g/100 kcal).
+4.º Los productos salados en cuya denominación se mencione el queso junto con otros ingredientes, independientemente de que el producto se presente o no como una comida completa, deberán cumplir los siguientes requisitos:
 
-5.º Se autoriza la adición de aminoácidos únicamente para mejorar el valor nutritivo de la proteína presente y sólo en la proporción necesaria para tal fin.
+a) El contenido en proteínas de origen lácteo será como mínimo de 0,5 g/100 kJ (2,2 g/100 kcal).
+
+b) El contenido total en proteínas de todas las fuentes en el producto será como mínimo de 0,7 g/100 kJ (3g/100 kcal).
+
+5.º Los productos que se designan en el etiquetado como una comida completa, pero en su denominación no se menciona la carne, el pollo, el pescado, los despojos u otra fuente tradicional de proteínas deberán cumplir: El contenido total de proteínas de todas las fuentes será como mínimo de 0,7 g/100 kJ (3 g/100 kcal).
+
+6.º Las salsas que se presentan como acompañamiento de las comidas quedan exentas del cumplimiento de los requisitos establecidos en los puntos 1.º, 2.º, 3.º y 5.°
+
+7.º En los platos dulces en cuya denominación se mencione los productos de origen lácteo como primer o único ingrediente, el contenido en proteínas de origen lácteo será como mínimo de 0,5 g/100 kJ (2,2 g/100 kcal).
+
+Los demás platos dulces están exentos del cumplimiento de los requisitos establecidos en los puntos 1.º, 2.º, 3.º y 5.º
+
+8.º Se autoriza la adición de aminoácidos únicamente para mejorar el valor nutritivo de la proteína presente y sólo en la proporción necesaria para tal fin.
 
 2. Hidratos de carbono: la cantidad total de hidratos de carbono presentes en los zumos de fruta y de verduras, los néctares, los platos exclusivamente de fruta y los postres y las cremas no será superior a:
 
@@ -71,3 +83,5 @@ No se añadirá vitamina A al resto de los alimentos infantiles.
 3.º Vitamina D: no se añadirá vitamina D a los alimentos infantiles.
 
 (1) Todo equivalente de trans-retinol.
+
+> Se modifica el apartado 1 por el art. único.1 de la Orden de 14 de julio de 1999. Ref. BOE-A-1999-15850.
