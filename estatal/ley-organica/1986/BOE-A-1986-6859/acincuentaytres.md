@@ -1,0 +1,23 @@
+## Artículo cincuenta y tres.
+
+1. Los Cuerpos de Policía Local deberán ejercer las siguientes funciones:
+
+a) Proteger a las Autoridades de las Corporaciones Locales, y vigilancia o custodia de sus edificios e instalaciones.
+
+b) Ordenar, señalizar y dirigir el tráfico en el casco urbano, de acuerdo con lo establecido en las normas de circulación.
+
+c) Instruir atestados por accidentes de circulación dentro del casco urbano.
+
+d) Policía Administrativa, en lo relativo a las Ordenanzas, Bandos y demás disposiciones municipales dentro del ámbito de su competencia.
+
+e) Participar en las funciones de Policía Judicial, en la forma establecida en el artículo 29.2 de esta Ley.
+
+f) La prestación de auxilio, en los casos de accidente, catástrofe o calamidad pública, participando, en la forma prevista en las Leyes, en la ejecución de los planes de Protección Civil.
+
+g) Efectuar diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de actos delictivos en el marco de colaboración establecido en las Juntas de Seguridad.
+
+h) Vigilar los espacios públicos y colaborar con las Fuerzas y Cuerpos de Seguridad del Estado y con la Policía de las Comunidades Autónomas en la protección de las manifestaciones y el mantenimiento del orden en grandes concentraciones humanas, cuando sean requeridos para ello.
+
+i) Cooperar en la resolución de los conflictos privados cuando sean requeridos para ello.
+
+2. Las actuaciones que practiquen los Cuerpos de Policía Local en el ejercicio de las funciones previstas en los apartados c) y g) precedentes deberán ser comunicadas a las Fuerzas y Cuerpos de Seguridad del Estado competentes.
