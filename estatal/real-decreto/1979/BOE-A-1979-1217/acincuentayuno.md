@@ -1,0 +1,7 @@
+## Artículo cincuenta y uno. Precio de venta.
+
+El precio de venta en primera transmisión, por metro cuadrado de superficie útil de una vivienda de promoción pública, será para cada área geográfica homogénea igual al noventa por ciento del módulo (M) aplicable, vigente en la fecha de celebración del contrato de compraventa.
+
+Del sexto al decimoquinto año a partir de la calificación definitiva, ambos inclusive, el precio de venta por metro cuadrado de superficie útil, en segunda o posteriores transmisiones, si es un Ente público el que transmite la propiedad de la vivienda, estará comprendido entre el setenta y el ochenta por ciento de la cantidad que resulte de multiplicar eI módulo (M) aplicable, vigente en el momento de la celebración del correspondiente contrato de compraventa o arrendamiento, por cero coma nueve. Si el sujeto que transmite la propiedad es una persona privada, el precio será igual o inferior al ochenta por ciento de dicho precio de venta.
+
+Del decimosexto al trigésimo año a partir de la calificación definitiva, ambos inclusive, el precio de venta por metro cuadrado de superficie útil, en segunda o posteriores transmisiones, si es un Ente público el que transmite la propiedad de la vivienda, estará comprendido entre el sesenta por ciento y el setenta por ciento, igual que en el párrafo anterior: Si el sujeto que transmite la propiedad es una persona privada, el precio será igual o inferior al setenta por ciento de dicho precio de venta.

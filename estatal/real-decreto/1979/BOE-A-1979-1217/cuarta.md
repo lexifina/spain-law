@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta.
+
+Los Patronatos de Casas, creados por Ley como Organismos autónomos de la Administración del Estado, que tengan aprobadas por el Gobierno programas de ejecución de viviendas para arrendamiento de personal de los distintos Departamentos ministeriales (con independencia de que puedan acogerse a los preceptos y beneficios de este Real Decreto para promocionar viviendas de alquiler con función logística o social), continuarán acogidos a la legislación anterior hasta la terminación de los mencionados programas y en todo caso se regirán conforme a sus reglamentos y normas orgánicas en los regímenes especiales que regulan el uso de las viviendas que, por ser propiedad de los mismos, forman parte del Patrimonio del Estado.

@@ -1,0 +1,3 @@
+## Artículo veintinueve. Derechos sobre préstamos base.
+
+Se autoriza al Banco Hipotecario de España y al Banco de Crédito a la Construcción a que, mediante concierto con las Cajas de Ahorros Confederadas, la Caja Postal de Ahorros, las Cooperativas de Crédito o los Bancos inscritos en el Registro de Bancos y Banqueros, adquieran los derechos sobre los préstamos base de aquellos titulares beneficiarios de ayuda económica personal, a que se refiere el capítulo II del presente Real Decreto, mediante la entrega, en contraprestación, de cédulas hipotecarias emitidas por las Entidades oficiales de crédito mencionadas, las cuales serán computables como lo son los préstamos base.

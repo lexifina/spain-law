@@ -1,0 +1,13 @@
+## Artículo veinticuatro. Préstamo base al promotor y al adquirente.
+
+La calificación provisional de las viviendas de protección oficial posibilitará a los promotores la obtención de préstamos base cualificados, en los cuales los adquirentes se subrogarán a partir del momento de elevación a escritura pública del contrato privado de compraventa y pasarán a tener la consideración de préstamos al adquirente.
+
+El préstamo base al promotor, por metro cuadrado de superficie útil, podrá ser de hasta el setenta por ciento del módulo (M) aplicable, vigente en el momento de la calificación definitiva.
+
+Los promotores que promuevan viviendas para su cesión en compraventa sólo podrán percibir cantidades efectivas del total del préstamo concedido, en cuantía de hasta el cuarenta por ciento del módulo (M) aplicable, vigente en el momento de la concesión del préstamo, en tanto no exista adquirente con contrato de compraventa visado por la Delegación Provincial del Ministerio de Obras Públicas y Urbanismo: A partir de la celebración del contrato de compraventa el promotor podrá percibir cantidades, por metro cuadrado de superficie útil, de hasta el setenta por ciento del módulo (M) aplicable, vigente en el momento de la concesión del préstamo. El disfrute del préstamo base en cuantía, por metro cuadrado de superficie útil, del setenta por ciento del módulo (M) aplicable, vigente en el momento de la calificación definitiva, tendrá lugar cuando se produzca la elevación a escritura pública del contrato y consiguientemente la subrogación del adquirente, en el préstamo del promotor en su cuantía máxima.
+
+Cuando se trate de promotores sin ánimo de Iucro que construyan, por sí o colectivamente, viviendas para asentar en ellas su residencia familiar, o bien cuando las viviendas, para cuya promoción, ya sea con o sin ánimo de lucro, se solicita el préstamo base, se destinen aI arrendamiento, el promotor no podrá retirar cantidades, por metro cuadrado de superficie útil, superiores al setenta por ciento del módulo (M) aplicable, vigente en el momento de la concesión del préstamo, en tanto no se practique la inscripción de la escritura declarativa de obra nueva en el Registro de la Propiedad.
+
+A estos efectos, en el momento de la solicitud del préstamo base se dejará constancia por el promotor, mediante declaración jurada, del compromiso que está dispuesto a asumir.
+
+En el caso de viviendas destinadas a arrendamiento, y siempre que el promotor sea un Patronato de Casas Militares afecto al Ministerio de Defensa, o se trate de los Patronatos de la Fuerza de Seguridad del Estado, eI préstamo base podrá serlo en cuantía del ochenta y cinco por ciento del módulo (M) aplicable, vigente en el momento de concesión de la calificación definitiva.
