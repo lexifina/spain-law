@@ -50,9 +50,9 @@ d) Los productores de semillas llevarán un registro de las semillas utilizadas 
 
 e) Los productores de material vegetal de base de plantas de vivero deberán llevar un libro-registro o fichas individuales por planta o madre o conjunto de éstas, para recoger los datos que señalen en cada caso los Reglamentos Técnicos.
 
-15. Requisitos de las semillas.–Los Reglamentos Técnicos señalarán las normas que deben satisfacer las semillas en relación a todas o algunas de las siguientes características:
+15. Requisitos de las semillas: Los Reglamentos Técnicos señalarán las normas que deben satisfacer las semillas en relación a todas o algunas de las siguientes características:
 
-a) Pureza específica: Contenido máximo de semillas de malas hierbas; de semillas de otras plantas cultivadas; de semillas nocivas; de materias inertes.
+a) Pureza específica: Contenido máximo de semillas de malas hierbas, de otras plantas cultivadas, de semillas nocivas, de materias inertes.
 
 b) Pureza varietal, en su caso.
 
@@ -72,11 +72,11 @@ i) Condiciones para semillas especiales: Monogérmenes, poliploides y otras.
 
 j) Otras características particulares que señalen los Reglamentos Técnicos.
 
-Cuando circunstancias especiales inherentes a la producción lo aconsejen, y siempre de acuerdo con la normativa comunitaria, el Ministerio de Agricultura, Pesca y Alimentación podrá fijar transitoriamente exigencias inferiores a las que establezcan los Reglamentos Técnicos, debiendo en ese caso figurar ese particular en las etiquetas oficiales de los envases o, en su caso, en la del productor.
+Cuando las circunstancias especiales inherentes a la producción lo aconsejen, y siempre de acuerdo con la normativa comunitaria, el Ministerio de Agricultura, Pesca y Alimentación podrá fijar transitoriamente exigencias inferiores a las que establezcan los Reglamentos Técnicos, debiendo en ese caso figurar ese particular en las etiquetas oficiales de los envases o, en su caso, en la del productor.
 
-El Ministerio de Agricultura, Pesca y Alimentación podrá autorizar la certificación y comercialización de semillas de base que no cumplan los requisitos mínimos para la germinación marcados en el correspondiente Reglamento Técnico, en cuyo caso el productor deberá incluir una etiqueta especial en el envase indicando el porcentaje de germinación real de la semilla así tomo su nombre, dirección y número del lote.
+Se podrá autorizar la certificación y comercialización de semillas de base que no cumplan los requisitos mínimos para la germinación marcados en el correspondiente Reglamento Técnico, en cuyo caso el productor deberá incluir una etiqueta especial en el envase indicando el porcentaje de germinación real de la semilla, así como su nombre, dirección y número del lote.
 
-Las definiciones de los conceptos relativos a la calidad de las semillas y los métodos para la toma de muestras y para la realización de los análisis y ensayos de las mismas, que deberán utilizar tanto los laboratorios oficiales como los de los productores serán los establecidos en las normas de la Asociación Internacional de Ensayo de Semillas (ISTA), pudiendo los Reglamentos Técnicos marcar requisitos o normas especiales en su caso.
+Las definiciones de los conceptos relativos a la calidad de las semillas y los métodos para la toma de muestras y para la realización de los análisis y ensayos de las mismas, que deberán utilizar tanto los laboratorios oficiales como los de los productores, serán los establecidos en las normas de la Asociación Internacional de Ensayo de Semillas (ISTA), pudiendo los Reglamentos Técnicos marcar requisitos o normas especiales, en su caso.
 
 16. Requisitos de las plantas de vivero.–Los Reglamentos Técnicos, al menos en lo referente a plantas madre y otros elementos de multiplicación vegetativa, señalarán las normas que deben satisfacer en relación a todas o algunas de las siguientes características:
 
@@ -91,3 +91,5 @@ d) Sanidad.
 e) Técnicas de preparación del material.
 
 f) Otras características.
+
+> Se modifica el apartado 15 por el art. 1 de la Orden de 26 de noviembre de 1986. Ref. BOE-A-1986-33108.

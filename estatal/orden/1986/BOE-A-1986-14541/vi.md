@@ -14,8 +14,10 @@ En las normas para ensayos de precontrol y de postcontrol se fijarán al menos, 
 
 Con el fin de que el Instituto pueda observar el comportamiento de las plantas de vivero vendidas, se realizarán muestreos sobre la producción de los distintos productores de plantas de vivero.
 
-30. Si del resultado de las pruebas de precontrol de carácter nacional se dedujera, a juicio del Instituto, que los lotes correspondientes no cumplen las condiciones que para cada categoría señalan los Reglamentos Técnicos, podrá modificarse la calificación dada a la semilla obtenida como consecuencia de la multiplicación de dichos lotes, previa inspección oficial conjuntamente con el productor. En el caso de que análogas conclusiones se determinen en las pruebas de postcontrol de carácter nacional, se deberán comunicar dichos resultados a los productores y despreciar el sobrante sin utilizar, que pudiera existir de la semilla que corresponde a los mismos lotes.
+30. Si del resultado de las pruebas de precontrol de carácter nacional se dedujera que los lotes correspondientes no cumplen las condiciones que para cada categoría señalan los Reglamentos Técnicos, podrá modificarse la calificación dada a la semilla obtenida como consecuencia de la multiplicación de dichos lotes, previa inspección oficial conjuntamente con el productor. En el caso de que análogas conclusiones se determinen en las pruebas de carácter nacional, se deberá comunicar dichos resultados a los productores y desprecintar el sobrante sin utilizar que pudiera existir de la semilla que corresponde a los mismo lotes.
 
-La reincidencia del incumplimiento de las normas de calidad de la semilla, observado en el postcontrol, permitirá no autorizar nuevas declaraciones de cultivo de la variedad y categoría comprobadas, hasta que se subsanen las deficiencias observadas.
+La reincidencia del incumplimiento de normas de calidad de la semilla observado en el postcontrol permitirá no autorizar nuevas declaraciones de cultivo de la variedad y categoría comprobadas, hasta que se subsanen las deficiencias observadas.
 
-A las pruebas de pre y postcontrol oficiales que se realicen, tendrán acceso los productores e importadores de semillas.
+A las pruebas de pre y postcontrol oficiales que se realicen tendrán acceso los productores e importadores de semillas.
+
+> Se modifica el apartado 30 por el art. 1 de la Orden de 26 de noviembre de 1986. Ref. BOE-A-1986-33108.
