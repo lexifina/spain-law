@@ -2,35 +2,29 @@
 
 ## Cuestionario para la declaración de nacimiento al Registro Civil
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/135/13633_9857842_image1.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/285/26383_9750994_image1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/135/13633_9857842_image2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/285/26383_9750994_image2.png)
 
-## MODEL NÚMERO 5
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/285/26383_9750994_image3.png)
 
-## Questionari per la declaració de naixement al Registre Civil
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/285/26383_9750994_image4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/135/13633_9857842_image6.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/285/26383_9750994_image5.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/135/13633_9857842_image7.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/285/26383_9750994_image6.png)
 
-## 5. EREDUA
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/285/26383_9750994_image7.png)
 
-## Herri-Lerrokategian
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/285/26383_9750994_image8.png)
 
-## Jaiotzaren Berri Emateko Orria
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/285/26383_9750994_image9.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/135/13633_9857842_image11.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/285/26383_9750994_image10.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/135/13633_9857842_image12.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/285/26383_9750994_image11.png)
 
-## MODELO NÚMERO 5
-
-## Cuestionario para a declaración de nacemento o Rexistro Civil
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/135/13633_9857842_image16.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1988/135/13633_9857842_image17.png)
+> Se modifica por la Orden de 15 de noviembre de 1996. Ref. BOE-A-1996-26383
 
 > Se modifica incluyendo en este modelo, entre los datos de identidad de los padres y a continuación de la referencia al domicilio una casilla destinada a reflejar el número de documento nacional de identidad de los mismos, según establece el art. único de la Orden de 6 de junio de 1994. Ref. BOE-A-1994-13488
 
