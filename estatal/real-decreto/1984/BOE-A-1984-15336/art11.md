@@ -34,7 +34,7 @@ Las cenizas insolubles (en ácido clorhídrico al 10 por 100) en las harinas de 
 
 11.2.4 Gluten.–El gluten seco no será inferior al 5,5 por 100, salvo en casos en que por su utilización específica se requiera un porcentaje inferior, en cuyo caso se hará constar este porcentaje en la etiqueta.
 
-11.2.5 Acidez de la grasa.–Máximo 30 por 100, expresado en miligramos de potasa.
+11.2.5 Acidez de la grasa. Máximo 50 por 100, expresado en miligramos de potasa.
 
 11.2.6 Las harinas resultarán suaves al tacto, de color blanco ligeramente amarillento, dependiente del grado de extracción, sin resabios de rancidez, olores anormales, moho, acidez, amargor o dulzor. Presentará a la compresión una superficie mate y de granos finos de tamaño adecuado para que el 90 por 100 de los mismos pase por una tela de 180 micras de luz, o el 98 por 100 por una tela de 212 micras.
 
@@ -105,5 +105,7 @@ El salvado responderá a las siguientes características:
 | Recuento de mohos | Máximo 1 × 104/g. |
 | Escherichia coli | Máximo 1 × 102/g. |
 | Salmonella | Ausencia/25 g. |
+
+> Se modifica el apartado 2.5 por el art. único del Real Decreto 1166/1990, de 21 de septiembre. Ref. BOE-A-1990-23736.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 189, de 8 de agosto de 1984. Ref. BOE-A-1984-17658.
