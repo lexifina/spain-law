@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Indemnizaciones por gastos de los acompañantes cuidadores del personal con minusvalía.
+
+1. Los titulares de las Comisiones de servicio a que se refiere el presente Real Decreto que sufran minusvalía de tal naturaleza que les obligue necesariamente a contar con un acompañante cuidador de su persona, devengarán los gastos por manutención en cuantía doble a la establecida para el personal no minusválido, teniendo asimismo derecho a ser indemnizados del importe realmente gastado y justificado por alojamiento y gastos de viaje del citado acompañante, de acuerdo con las mismas condiciones y límites que correspondan al titular minusválido.
+
+2. A los efectos previstos en el apartado anterior se considerará justificada la necesidad de precisar acompañante si los minusválidos requieren la asistencia de otra persona para realizar los actos más esenciales de la vida, tales como vestirse, desplazarse, comer o análogos, previo informe que deberá emitir el equipo multiprofesional correspondiente.
