@@ -1,0 +1,9 @@
+La Ley 7/1986, de 24 de enero, de Ordenación de la Cartografía, establece, en su disposición adicional primera, que las reglas de dicha Ley serán de aplicación a los aspectos cartográficos del Catastro, autorizando al Gobierno para dictar, por Real Decreto, las normas correspondientes.
+
+La cartografía catastral, base geométrica del Catastro, fue producida y conservada por el Instituto Geográfico Nacional desde 1906 y hasta 1980, en que el Real Decreto 1365/1980, de 13 de junio, atribuyó tales funciones a los antiguos Consorcios para la gestión e inspección de las Contribuciones Territoriales, asumidas después en virtud del Real Decreto 1279/1985, de 24 de julio, por el Centro de Gestión y Cooperación Tributaria y con posterioridad y mediante el Real Decreto 222/1987, de 20 de febrero, que estructura el Ministerio de Economía y Hacienda, por el Centro de Gestión Catastral y Cooperación Tributaria, que es el que desarrolla en la actualidad las competencias de formación, conservación y revisión de los catastros inmobiliarios rústicos y urbanos.
+
+En consecuencia a lo anterior y teniendo en cuenta la conveniencia de un apoyo mutuo que facilite las respectivas misiones, así como la máxima coordinación deseable entre los diversos proyectos cartográficos en pos de la mayor eficacia y utilidad de los mismos, se hace necesario articular los criterios de colaboración entre los dos Centros citados y establecer las disposiciones precisas para la eficiente realización de la cartografía catastral.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda y de Obras Públicas y Urbanismo, con la aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 26 de mayo de 1989,
+
+DISPONGO:
