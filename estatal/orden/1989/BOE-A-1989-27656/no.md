@@ -1,0 +1,1 @@
+Se declara la vigencia de esta Orden, en tanto no se dicten nuevas disposiciones sobre la materia respectiva, según establece la disposición transitoria 3 de la Ley 43/2002, de 20 de noviembre, de sanidad vegetal. Ref. BOE-A-2002-22649#dttercera

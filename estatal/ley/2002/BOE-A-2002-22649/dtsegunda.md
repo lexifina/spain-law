@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Procedimiento de inspecciones y sanciones.
+
+Hasta que se establezcan procedimientos específicos en materia de inspecciones y sanciones, se aplicará lo dispuesto en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, salvo en lo que sea contrario a lo dispuesto por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, sin perjuicio de las competencias de las Comunidades Autónomas.
