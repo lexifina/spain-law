@@ -22,7 +22,9 @@ h) Sus propios precios públicos.
 
 a) Las asignaciones que se establezcan en los Presupuestos Generales del Estado, de acuerdo con lo dispuesto en la presente Ley.
 
-b) Las transferencias del Fondo de Compensación Interterritorial, cuyos recursos tienen el carácter de carga general del Estado a los efectos previstos en los artículos segundo, ciento treinta y ocho y ciento cincuenta y ocho de la Constitución.
+b) Las transferencias de los Fondos de Compensación Interterritorial, cuyos recursos tienen el carácter de carga general del Estado a los efectos previstos en los artículos 2, 138 y 158 de la Constitución.
+
+> Se modifica el apartado 2 por el art. 4.1 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
 
 > Se modifica el apartado 1.d) por el art. único.2 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
 

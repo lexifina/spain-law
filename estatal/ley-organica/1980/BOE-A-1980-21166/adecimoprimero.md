@@ -1,8 +1,8 @@
 ## Artículo 11.
 
-Sólo pueden ser cedidos a las Comunidades Autónomas en las condiciones que establece la presente Ley, los siguientes tributos:
+Sólo pueden ser cedidos a las Comunidades Autónomas, en las condiciones que establece la presente Ley, los siguientes tributos:
 
-a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial con el límite máximo del 30 por 100.
+a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial con el límite máximo del 33 por ciento.
 
 b) Impuesto sobre el Patrimonio.
 
@@ -10,11 +10,19 @@ c) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
 
 d) Impuesto sobre Sucesiones y Donaciones.
 
-e) La imposición general sobre las ventas en su fase minorista.
+e) Impuesto sobre el Valor Añadido, con carácter parcial con el límite máximo del 35 por ciento.
 
-f) Los impuestos sobre consumos específicos en su fase minorista, salvo los recaudados mediante monopolios fiscales.
+f) Los Impuestos Especiales de Fabricación, con excepción del Impuesto sobre la Electricidad, con carácter parcial con el límite máximo del 40 por ciento de cada uno de ellos.
 
-g) Los tributos sobre el juego.
+g) El Impuesto sobre la Electricidad.
+
+h) El Impuesto Especial sobre Determinados Medios de Transporte.
+
+i) Los Tributos sobre el Juego.
+
+j) El Impuesto sobre las Ventas Minoristas de determinados Hidrocarburos.
+
+> Se modifica por el art. 1.2 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
 
 > Se modifica por el art. único.5 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
 
