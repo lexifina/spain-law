@@ -1,0 +1,3 @@
+## Artículo cuarto.
+
+Actualizadas las pensiones con arreglo a la Ley ochenta y dos/mil novecientos sesenta y uno, de veintitrés de diciembre, y sus disposiciones complementarias, quedan derogadas las disposiciones transitorias quinta del texto refundido de veintiuno de abril de mil novecientos sesenta y seis y sexta del texto refundido de trece de abril de mil novecientos setenta y dos, sobre derechos pasivos civiles y militares, respectivamente, referentes a la concesión de dotes como consecuencia de pensiones de orfandad reconocidas con arreglo al Estatuto de Clases Pasivas de veintidós de octubre de mil novecientos veintiséis.
