@@ -1,0 +1,1 @@
+Téngase en cuenta que se deroga en cuanto afecta a las marcas, nombres comerciales y rótulos de establecimiento, por la disposición derogatoria única 2.b) del Real Decreto 687/2002, de 12 de julio.Ref. BOE-A-2002-13981#ddunica.

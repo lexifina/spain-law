@@ -10,6 +10,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [(Nota inicial)](pr.md)
 - [preambulo](preambulo.md)
 - [Artículo único](aunico.md)
 - [Disposición transitoria única](dtunica.md)
