@@ -1,0 +1,3 @@
+## Artículo octavo.
+
+La amnistía deja sin efecto las resoluciones judiciales y actos administrativos o gubernativos que hayan producido despidos, sanciones, limitaciones o suspensiones de los derechos activos o pasivos de los trabajadores por cuenta ajena, derivados de los hechos contemplados en los artículos primero y quinto de la presente Ley, restituyendo a los afectados todos los derechos que tendrían en el momento de aplicación de la misma de no haberse producido aquellas medidas, incluidas las cotizaciones de la Seguridad Social y Mutualismo laboral que, como situación de asimiladas al alta, serán de cargo del Estado.
