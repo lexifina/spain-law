@@ -56,6 +56,14 @@ Notas:
 
 4.ª Los vehículos que prestan servicios considerados de débil tráfico o de carácter rural por la vigente legislación de transporte por carretera, satisfarán el 50 por ciento de la cuota.
 
+Epígrafe 721.4. Transporte sanitario en ambulancias.
+
+Cuota:
+
+Cuota nacional de:
+
+Por cada vehículo: 12.420 pesetas. (74,645703 euros)
+
 ## Grupo 722. Transporte de mercancías por carretera.
 
 Cuota:
@@ -133,6 +141,10 @@ Epígrafe 729.1 Servicios de transportes por ferrocarril de cremallera.
 Epígrafe 729.2 Servicios de transportes por teleféricos y funiculares.
 
 Epígrafe 729.3 Otros servicios de transportes terrestres n.c.o.p.
+
+> Se añade el epígrafe 721.4 por el art. 67.1.1 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+
+> Téngase en cuenta para su aplicación el art. 67.3.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 

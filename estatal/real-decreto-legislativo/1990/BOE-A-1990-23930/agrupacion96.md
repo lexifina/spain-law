@@ -30,21 +30,19 @@ Cuota de: 31.671 pesetas. (190,35 euros)
 
 ## Grupo 963. Exhibición de películas cinematográficas y vídeos.
 
-Epígrafe 963.1 Exhibición de películas cinematográficas y vídeos en salas de cine.
+Epígrafe 963.1. Exhibición de películas cinematográficas y vídeos.
 
 Cuota de:
 
-Por cada sala:
+En poblaciones de más de 500.000 habitantes: 229.201 pesetas. (1.377,53 euros)
 
-– En poblaciones de más de 500.000 habitantes: 229.201 pesetas. (1.377,53 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 178.227 pesetas. (1.071,17 euros)
 
-– En poblaciones de más de 100.000 a 500.000 habitantes: 178.227 pesetas. (1.071,17 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 154.940 pesetas. (931,21 euros)
 
-– En poblaciones de más de 40.000 a 100.000 habitantes: 154.940 pesetas. (931,21 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 118.818 pesetas. (714,11 euros)
 
-– En poblaciones de más de 10.000 a 40.000 habitantes: 118.818 pesetas. (714,11 euros)
-
-– En las poblaciones restantes: 57.339 pesetas. (344,61 euros)
+En las poblaciones restantes: 57.339 pesetas. (344,61 euros)
 
 Epígrafe 963.2 Exhibición de películas cinematográficas y vídeos al aire libre.
 
@@ -345,6 +343,10 @@ Cuota nacional: 1.035 pesetas (6,220475 euros) por máquina.
 Esta cuota la satisfará, exclusivamente, el propietario de las máquinas.
 
 Nota: Este epígrafe comprende la prestación de servicios a través de máquinas automáticas tales como balancines, caballitos, animales parlantes, etc., así como plastificadoras de documentos, de impresión de tarjetas, etc., e igualmente, básculas, aparatos de medición de peso, altura, tensión arterial, etc.
+
+> Se modifica el epígrafe 963.1 por el art. 67.1.4 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+
+> Téngase en cuenta para su aplicación el art. 67.3.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 

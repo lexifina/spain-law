@@ -40,6 +40,8 @@ Epígrafe 932.2 Enseñanza de formación y perfeccionamiento profesional superio
 
 Cuota de: 45.540 pesetas.
 
+Nota común al grupo 932: No tendrán la consideración de actividad de enseñanza, no devengarán cuota alguna por este impuesto, las actividades de formación, tanto ocupacional como continua, financiada exclusivamente por el Instituto Nacional de Empleo o por el Fondo Social Europeo o cofinanciadas, también exclusivamente, por ambos Organismos.
+
 ## Grupo 933. Otras actividades de enseñanza.
 
 Epígrafe 933.1 Enseñanza de conducción de vehículos terrestres, acuáticos, aeronáuticos, etc.
@@ -89,6 +91,10 @@ Epígrafe 936.4 Investigaciones en ciencias sociales, humanidades y jurídicas.
 Epígrafe 936.5 Investigación técnica industrial.
 
 Epígrafe 936.9 Otras investigaciones científicas y técnicas, n.c.o.p.
+
+> Se añade la nota común al grupo 932 por el art. 67.1.3 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+
+> Téngase en cuenta para su aplicación el art. 67.3.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 

@@ -2,19 +2,29 @@
 
 ## Grupo 751. Actividades anexas al transporte terrestre.
 
-Epígrafe 751.1 Guarda y custodia de vehículos en garajes y locales cubiertos.
-
-Cuota: Hasta un límite de 250 metros cuadrados de superficie total dedicados a esta actividad: 26.910 pesetas.
-
-Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior: 6.624 pesetas.
-
-Epígrafe 751.2. Guarda y custodia de vehículos en los denominados «aparcamientos subterráneos» o «parkings».
+Epígrafe 751.1. Guarda y custodia de vehículos en garajes y locales cubiertos.
 
 Cuota de:
 
-Hasta un límite de 250 metros cuadrados de superficie total, incluyendo la de los pisos, sí los hubiera, dedicados a esta actividad: 33.638 pesetas.
+Hasta un límite de 250 metros cuadrados de superficie dedicada a esta actividad: 29.910 pesetas.
 
-Por cada 50 metros cuadrados o fracción que exceda sobre el límite: 8.280 pesetas.
+Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior: 6.624 pesetas.
+
+Para el cómputo de la superficie dedicada a esta actividad se deducirán aquellos elementos accesorios como rampas, jardines, zonas de seguridad y accesos.
+
+Nota: Estas cuotas no autorizan a la custodia durante el día de coches que únicamente se guardan algunas horas alternando con los que esencialmente se encierran de noche.
+
+En el caso de que se ejerza esta modalidad de custodia las cuotas se incrementarán en un 25 por 100.
+
+Epígrafe 751.2. Guarda y custodia de vehículos en los denominados aparcamientos subterráneos o «parkings».
+
+Cuota de:
+
+Hasta un límite de 250 metros cuadrados de superficie dedicada a esta actividad: 33.638 pesetas.
+
+Por cada 50 metros cuadrados o fracción que exceda del límite: 8.280 pesetas.
+
+Para el cómputo de la superficie dedicada a la actividad se incluirán todos los pisos existentes y se practicarán las deducciones previstas en el epígrafe anterior.
 
 Epígrafe 751.3. Guarda y custodia de vehículos en solares o terrenos sin edificar.
 
@@ -279,6 +289,10 @@ Cuota mínima municipal de:
 Cuota provincial de: 54.855 pesetas. (329,69 euros)
 
 Cuota nacional de: 76.590 pesetas. (460,32 euros)
+
+> Se modifican los epígrafes 751.1 y 2 por el art. 67.1.6 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+
+> Téngase en cuenta para su aplicación el art. 67.3.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
