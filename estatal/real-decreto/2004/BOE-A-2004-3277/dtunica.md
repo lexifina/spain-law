@@ -1,0 +1,3 @@
+## Disposición transitoria única. Enclaves existentes a la entrada en vigor de este real decreto.
+
+Los enclaves laborales existentes a la entrada en vigor de este real decreto deberán ajustarse a la regulación establecida en él en el plazo de un año desde dicha entrada en vigor. En estos enclaves a las empresas colaboradoras que opten por la aplicación del enclave como medida alternativa no les resultará de aplicación el procedimiento regulado en los artículos 1.2 y 3.1 del Real Decreto 27/2000, de 14 de enero, por el que se establecen medidas alternativas de carácter excepcional al cumplimiento de la cuota de reserva del dos por ciento en favor de trabajadores discapacitados en empresas de 50 o más trabajadores.
