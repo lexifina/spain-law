@@ -1,0 +1,3 @@
+## Artículo cuarenta y ocho. Competencia.
+
+A los efectos del aprovechamiento, conservación y fomento de la pesca de las aguas continentales públicas y privadas, corresponde su competencia al Servicio Piscícola, que continuará a cargo del Cuerpo de Ingenieros de Montes, extendiéndose la misma en los ríos y arroyos hasta su desembocadura en el mar. A los efectos de esta Ley, se entenderá por desembocadura del río en el mar la línea recta imaginaria que una los puntos de intersección de las dos orillas con la costa en las más bajas mareas, pero sin que nunca pueda exceder la anchura o la amplitud de esta línea de un kilómetro.

@@ -1,0 +1,7 @@
+## Artículo quinto. Caudal mínimo.
+
+Los concesionarios de aprovechamientos hidráulicos en cuyos embalses lleven las presas escalas salmoneras están obligados a dejar correr, en las épocas de paso de los peces, un caudal de agua que no será inferior a un libro por segundo en las escalas de artesa y de treinta litros en las de rampa, quintuplicándose estas cifras en los ríos que sean aptos para la cría del salmón y del sollo o esturión. El Servicio Piscícola fijará para cada presa las fechas del principio y final de las épocas migratorias, debiendo al informar, bajo este aspecto, los proyectos de construcción correspondientes, proponer razonadamente la elevación de estos caudales mínimos en aquellos casos que sean necesarios para el buen funcionamiento de las escalas, de acuerdo con el Ministerio de Obras Públicas.
+
+Será obligación de los concesionarios mantener en buen estado de conservación las escalas salmoneras y no podrá dejarse en seco el lecho de la corriente fluvial ni colocar sobre las presas tablas u otra clase de materiales con objeto de elevar el nivel de agua sin previa autorización del Servicio Piscícola, a menos que figure en sus cláusulas de concesión.
+
+Queda terminantemente prohibido colocar en las presas o diques, y en general en cuantas construcciones constituyan la instalación de un aprovechamiento hidráulico, toda clase de artefactos que faciliten la captura de los seres acuáticos a su paso por aquélla.

@@ -1,0 +1,3 @@
+## Artículo cuarto. Plazos de ejecución.
+
+En el plazo máximo de dos años deberán ser presentados los proyectos de obras y en el de tres más quedar aquéllos ejecutados en todas las presas y diques que las Jefaturas del Servicio consideren factible e indispensable las escalas y pasos; las que no lo realizaran en el plazo señalado sin causa de fuerza mayor plenamente justificada, satisfarán hasta que las lleven a cabo por sí o por la Administración a sus expensas un canon anual progresivo que será fijado por la Dirección General de Montes, Caza y Pesca Fluvial, a propuesta de las Jefaturas del Servicio, que empezando en el 5 por 100 del presupuesto total de ejecución pueda llegar al 20 por 100 a partir del tercer año.
