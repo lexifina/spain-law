@@ -1,0 +1,1 @@
+Norma derogada en aquellos artículos que traten del personal docente de Centros universitarios, según establece el apartado 1 de la disposición derogatoria del Real Decreto 898/1985, de 30 de abril. Ref. BOE-A-1985-11578#dd.
