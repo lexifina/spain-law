@@ -1,0 +1,11 @@
+La Orden INT/2992/2002, de 21 de noviembre, por la que el Ministro del Interior delega determinadas atribuciones y aprueba las delegaciones efectuadas por otras autoridades del Departamento en otros órganos del mismo, viene siendo un instrumento imprescindible para agilizar el funcionamiento administrativo del Departamento, incrementando los niveles de eficacia en la gestión.
+
+Con el Real Decreto 553/2004, de 17 de abril, por el que se reestructuran los Departamentos Ministeriales, y el Real Decreto 562/2004, de 19 de abril, por el que se aprueba la estructura orgánica básica de los Departamentos Ministeriales, se ha establecido una nueva estructura de la Administración General del Estado, mediante diversas supresiones y modificaciones en el ámbito de aquéllos.
+
+Así, salvando las competencias en materia de seguridad pública y de carácter policial, la Delegación del Gobierno para la Extranjería y la Inmigración, que hasta entonces tenía dependencia directa del Ministro del Interior, ha pasado a integrarse en la estructura del Ministerio de Trabajo y Asuntos Sociales, y la Delegación del Gobierno para el Plan Nacional sobre Drogas se ha reubicado orgánicamente en el Ministerio de Sanidad y Consumo; paralelamente, la Dirección General de Instituciones Penitenciarias ha quedado adscrita a la Subsecretaría del Interior, suprimiendo el rango de Subsecretario que anteriormente poseía su Titular.
+
+Como consecuencia de ello, el Real Decreto 1599/2004, de 2 de julio, ha procedido a modificar y desarrollar la estructura orgánica básica del Ministerio del Interior.
+
+En definitiva, las previsiones de la Orden INT/2992/2002, deben ser adaptadas a los cambios estructurales y a las necesidades de gestión administrativa derivadas de los mismos, por lo que se hace necesario aprobar una nueva Orden de delegación de competencias.
+
+Por todo ello, de conformidad con lo establecido en el artículo 12 y siguientes de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en la Disposición Adicional Decimotercera de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, a propuesta de los órganos superiores y centros directivos afectados, dispongo:

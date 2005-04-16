@@ -1,0 +1,67 @@
+# Orden INT/985/2005, de 7 de abril, por la que se delegan determinadas atribuciones y se aprueban las delegaciones efectuadas por otras autoridades.
+
+- Identificador: BOE-A-2005-6098
+- Rango: Orden
+- Fecha de disposición: 2005-04-07
+- Publicación: 2005-04-15
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2005-6098
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [no](no.md)
+- [preambulo](preambulo.md)
+- [Primero](primero.md)
+- [Secretaría de Estado de Seguridad](secretaria.md)
+- [Segundo](segundo.md)
+- [Subsecretaría](subsecretaria.md)
+- [Tercero](tercero.md)
+- [Dirección General de la Policía](direccion.md)
+- [Cuarto](cuarto.md)
+- [Dirección General de la Guardia Civil](direccion-2.md)
+- [Quinto](quinto.md)
+- [Delegaciones del Gobierno y Subdelegaciones del Gobierno](delegaciones.md)
+- [Sexto](sexto.md)
+- [Secretaría General Técnica](secretariageneraltecnica.md)
+- [Séptimo](septimo.md)
+- [Dirección General de Política Interior](direccion-3.md)
+- [Octavo](octavo.md)
+- [Dirección General de Instituciones Penitenciarias](direccion-4.md)
+- [Noveno](noveno.md)
+- [Dirección General de Tráfico](direccion-5.md)
+- [Décimo](decimo.md)
+- [Dirección General de Protección Civil y Emergencias](direccion-6.md)
+- [Undécimo](undecimo.md)
+- [Dirección General de Infraestructuras y Material de la Seguridad](direccion-7.md)
+- [Duodécimo](duodecimo.md)
+- [Direcciones Generales del Departamento](direcciones.md)
+- [Decimotercero](decimotercero.md)
+- [Subdirecciones Generales y Órganos Dependientes de la Dirección General de la policía](subdirecciones.md)
+- [Decimocuarto](decimocuarto.md)
+- [Decimoquinto](decimoquinto.md)
+- [Subdirecciones Generales y Órganos Dependientes de la Dirección General de la Guardia Civil](subdirecciones-2.md)
+- [Decimosexto](decimosexto.md)
+- [Subdirección General de Recursos Humanos de Instituciones Penitenciarias](subdireccion.md)
+- [Decimoséptimo](decimoseptimo.md)
+- [Subdirección General de Planificación y Gestión Económica](subdireccion-2.md)
+- [Decimoctavo](decimoctavo.md)
+- [Subdirección General de Personal](subdireccion-3.md)
+- [Decimonoveno](decimonoveno.md)
+- [Subdirección General de Gestión Económica y Patrimonial](subdireccion-4.md)
+- [Vigésimo](vigesimo.md)
+- [Subdirección General de Planificación y Gestión de Infraestructuras y Medios para la Seguridad](subdireccion-5.md)
+- [Vigésimo primero](vigesimoprimero.md)
+- [Centros Penitenciarios](centrospenitenciarios.md)
+- [Vigésimo segundo](vigesimosegundo.md)
+- [Centro de Estudios Penitenciarios](centro.md)
+- [Vigésimo tercero](vigesimotercero.md)
+- [Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado](gerencia.md)
+- [Vigésimo cuarto](vigesimocuarto.md)
+- [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
+- [Disposición adicional tercera](datercera.md)
+- [Disposición transitoria única](dtunica.md)
+- [Disposición derogatoria única](ddunica.md)
+- [Disposición final única](dfunica.md)
+- [firma](firma.md)

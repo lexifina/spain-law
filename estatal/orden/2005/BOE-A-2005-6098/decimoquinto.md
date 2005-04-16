@@ -1,0 +1,3 @@
+## Decimoquinto.
+
+Los Jefes de Brigadas o Unidades Centrales, por delegación del Comisario General de Extranjería y Documentación, los Titulares de las Comisarías de Distrito y los Jefes de las Brigadas Provinciales, por delegación de los Jefes Superiores de Policía y Comisarios Provinciales, ejercerán en sus respectivos ámbitos territoriales la competencia sobre incoación de expedientes sancionadores en materia de extranjería, de acuerdo con lo dispuesto en el artículo 50 de la Ley Orgánica 4/2000, en relación con el artículo 112 y siguientes de su Reglamento aprobado por Real Decreto 2393/2004.
