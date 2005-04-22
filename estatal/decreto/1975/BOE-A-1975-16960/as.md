@@ -4,7 +4,7 @@
 
 a) (Derogada)
 
-b) Programa de actividades, en el que se indicarán, en especial, el género de operaciones que se propongan realizar y la estructura de la organización de la caja, que deberá contar con personas con la honorabilidad necesaria y la experiencia adecuada para ejercer sus funciones.
+b) Programa de actividades, en el que se indicarán, en especial, el género de operaciones que se propongan realizar y la estructura de la organización de la caja, que deberá contar con personas con la honorabilidad necesaria y la experiencia adecuada para desempeñar sus funciones, así como los procedimientos y órganos adecuados de control interno y de comunicación que se establezcan para prevenir e impedir la realización de operaciones relacionadas con el blanqueo de capitales.
 
 c) Relación de miembros y circunstancias de los fundadores, así como de los miembros futuros de su Consejo de Administración.
 
@@ -25,6 +25,8 @@ A estos efectos, se entenderá que existen vínculos estrechos cuando dos o más
 a) Un vínculo de control en el sentido que determina el artículo 4 de la Ley 24/1988, del Mercado de Valores; o
 
 b) El hecho de poseer, de manera directa o indirecta, o mediante un vínculo de control, el 20 por 100 o más de los derechos de voto o del capital de una empresa o entidad.
+
+> Se modifica el apartado 1.b) por la disposición final 2.2 del Real Decreto 54/2005, de 21 de enero. Ref. BOE-A-2005-1153.
 
 > Se añaden los apartados 1.e) y 4 por la disposición adicional 1.3 del Real Decreto 692/1996, de 26 de abril. Ref. BOE-A-1996-11609.
 
