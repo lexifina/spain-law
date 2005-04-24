@@ -60,6 +60,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 35](a35.md)
 - [Artículo 36](a36.md)
 - [Artículo 37](a37.md)
+- [Artículo 37 bis](a37bis.md)
 - [Artículo 38](a38.md)
 - [TÍTULO IV](tiv.md)
 - [Artículo 39](a39.md)
