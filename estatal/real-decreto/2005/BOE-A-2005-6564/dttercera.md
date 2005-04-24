@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Percepción de la subvención de las lactaciones de hembras inscritas en los registros auxiliares.
+
+Las hembras lecheras inscritas en la sección auxiliar, subsección A libro genealógico, cuyas lactaciones finalizadas y válidas se ajusten a la definición prevista en el artículo 2, y que sean propiedad de ganaderos de nueva incorporación a los libros genealógicos o al control lechero, tendrán derecho a la percepción de las subvenciones establecidas en el artículo 19 durante un período transitorio máximo de cuatro años a partir de la fecha de entrada en vigor de este real decreto.
