@@ -52,6 +52,8 @@ a) El crédito 19.231F.04.484, destinado a la cobertura de los fines de interés
 
 b) Los créditos 19.251M.101.480.00, 19.251M.101.480.01, 19.251M.101.487.00 y 19.251M.101.487.01, destinados a financiar las prestaciones por desempleos reguladas en el título III del Real Decreto Legislativo 1/1994, de 20 de junio, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social.
 
+c) El crédito 19.101.241-A.487.03 destinado a la financiación de las bonificaciones en las cotizaciones de la Seguridad Social acogidas a medidas de fomento de empleo por contratación laboral.
+
 Siete. En la Sección 21, «Ministerio de Agricultura, Pesca y Alimentación»:
 
 El crédito 21.416A.01.440, «Al Consorcio de Compensación de Seguros para la cobertura de pérdidas del Seguro Agrario Combinado».
@@ -81,3 +83,5 @@ Tercero. Todos los créditos de este presupuesto en función de los compromisos 
 Cuarto. En el presupuesto de la Seguridad Social, los créditos que sean necesarios en los programas de gastos del Instituto Nacional de Gestión Sanitaria para reflejar las repercusiones que en los mismos tengan las modificaciones de los créditos, que figuran en el estado de transferencias entre subsectores de los Presupuestos Generales del Estado.
 
 Asimismo, serán ampliables los créditos destinados a dotar el Fondo de Reserva de la Seguridad Social.
+
+> Se añade el párrafo c) al apartado 2.6, por el art. único.3 del Real Decreto-ley 7/2005, de 22 de abril. Ref. BOE-A-2005-6654.
