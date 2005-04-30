@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Obligaciones de servicio público del servicio portador de televisión analógica.
+
+Continuarán en vigor las obligaciones de servicio público y la garantía de continuidad en la prestación de los servicios portadores soporte de los de difusión televisiva establecidos en el Real Decreto Ley 16/1999, de 15 de octubre, en los términos desarrollados en el vigente Reglamento de desarrollo de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones, en lo relativo al uso del dominio público radioeléctrico, para los servicios de televisión analógica, hasta tanto se den los supuestos previsto en el artículo 2 del Plan técnico nacional de televisión digital terrenal, aprobado por el Real Decreto 2169/1998, de 9 de octubre.

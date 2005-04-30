@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Derechos de los consumidores y usuarios.
+
+Hasta tanto no se desarrolle mediante orden ministerial el título VI de este reglamento en materia de derechos de los consumidores y usuarios y servicios de tarifas superiores, seguirá siendo de aplicación, en cuanto no se oponga a este reglamento, la Orden PRE/361/2002, de 14 de febrero, de desarrollo, en lo relativo a los derechos de los usuarios y a los servicios de tarificación adicional, del título IV del Real Decreto 1736/1998, de 31 de julio, por el que se aprueba el Reglamento por el que se desarrolla el título III de la Ley General de Telecomunicaciones. En aquella orden se establecerá el régimen aplicable a los servicios de mensajería que se prestan a través de números cortos.
