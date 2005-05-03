@@ -1,0 +1,5 @@
+## Disposición final primera. Comisiones Provinciales de Colaboración con las Corporaciones Locales.
+
+El apartado 3 del artículo 11 del Real Decreto 3489/2000, de 29 de diciembre, por el que se regula la naturaleza, composición y funciones de las Comisiones Provinciales de Colaboración del Estado con las Corporaciones Locales, queda redactado del siguiente modo:
+
+«3. En el ámbito de la función asignada a las Comisiones Provinciales de Colaboración del Estado con las Corporaciones Locales en el artículo 2.1, les corresponde la emisión del informe preceptivo previo a la aprobación por el órgano competente del Plan provincial o insular de obras y servicios, de acuerdo con lo dispuesto en el artículo 32.4 del texto refundido de las disposiciones legales vigentes en materia de régimen local, aprobado por el Real Decreto legislativo 781/1986, de 18 de abril, y en el artículo 9.2 del Real Decreto 835/2003, de 27 de junio, por el que se regula la cooperación económica del Estado a las inversiones de las entidades locales.»
