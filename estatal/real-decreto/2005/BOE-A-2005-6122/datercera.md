@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Verificaciones en centros técnicos como consecuencia de controles en carretera.
+
+No obstante lo establecido en el requisito técnico A.8 del apartado 1 del anexo I, cuando, como consecuencia de un control en carretera, los servicios de inspección o las fuerzas encargadas de la vigilancia del transporte en carretera acompañen a un vehículo hasta un centro técnico, en cumplimiento de lo establecido en el artículo 33.4 de la Ley 16/1987, de 30 de julio, este realizará las verificaciones pertinentes, en las condiciones establecidas en dicho artículo, con la máxima diligencia, con el fin de no perturbar la actuación inspectora.

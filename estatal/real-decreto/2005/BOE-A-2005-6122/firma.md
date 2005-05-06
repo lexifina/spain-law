@@ -1,0 +1,7 @@
+Dado en Madrid, el 15 de abril de 2005.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
