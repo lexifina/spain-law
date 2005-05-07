@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Comisión de Coordinación.
+
+Para la necesaria coordinación entre el sistema sanitario y educativo, en lo que hace referencia a las acciones encaminadas a servir de nexo entre la formación especializada en Enfermería y los títulos emanados dentro del marco del Espacio Europeo de Educación Superior, se crea una Comisión de Coordinación entre el Ministerio de Sanidad y Consumo y el de Educación y Ciencia, compuesta por tres representantes de cada departamento, designados por las Direcciones Generales de Recursos Humanos y Servicios Económico-Presupuestarios y de Universidades, respectivamente.

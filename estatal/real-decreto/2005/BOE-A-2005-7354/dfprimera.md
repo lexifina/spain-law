@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto se aprueba en uso de las competencias que atribuye en exclusiva al Estado el artículo 149.1.30.ª de la Constitución para regular las condiciones de obtención, expedición y homologación de títulos profesionales, y conforme a las que la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, asigna al Gobierno para la creación, cambio de denominación y supresión de las especialidades sanitarias y para la determinación de las condiciones de obtención, expedición y homologación de los títulos correspondientes.
