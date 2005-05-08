@@ -1,7 +1,5 @@
 ## Disposición final segunda. Adaptación a la normativa comunitaria.
 
-Se faculta a la Ministra de Agricultura, Pesca y Alimentación para, de acuerdo con la normativa comunitaria:
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para adaptar este real decreto, de acuerdo con la normativa comunitaria, a las modificaciones que ésta introduzca.
 
-a) Modificar los plazos y períodos de presentación de solicitudes y del plan de control.
-
-b) Adaptar el presente Real Decreto a las modificaciones introducidas por la normativa comunitaria.
+> Se modifica por el art. 1.9 del Real Decreto 448/2005, de 22 de abril. Ref. BOE-A-2005-7427.

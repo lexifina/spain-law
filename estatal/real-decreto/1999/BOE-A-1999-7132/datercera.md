@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Referencias a la normativa comunitaria.
+
+Toda mención al Reglamento (CE) n.º 1221/97 del Consejo, de 25 de junio de 1997, por el que se establecen las normas generales de aplicación de las medidas destinadas a mejorar la producción y comercialización de la miel, será sustituida por la mención al Reglamento (CE) n.º 797/2004 del Consejo, de 26 de abril de 2004, relativo a las medidas destinadas a mejorar las condiciones de producción y comercialización de los productos de la apicultura. Igualmente, toda mención al Reglamento (CE) n.º 2300/97 de la Comisión, de 20 de noviembre de 1997, por el que se establecen disposiciones de aplicación del Reglamento (CE) n.º 1221/1997, será sustituida por la mención al Reglamento (CE) n.º 917/2004 de la Comisión, de 29 de abril de 2004, por el que se establecen disposiciones de aplicación del Reglamento (CE) n.º 797/2004 del Consejo, relativo a las medidas destinadas a mejorar las condiciones de producción y comercialización de los productos de la apicultura.
+
+> Se añade por el art. 1.8 del Real Decreto 448/2005, de 22 de abril. Ref. BOE-A-2005-7427.

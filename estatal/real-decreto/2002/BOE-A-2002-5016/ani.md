@@ -1,75 +1,27 @@
 ## ANEXO I
 
-## Documento de explotación apícola y de trashumancia
+## Contenido mínimo del libro de registro de la explotación apícola
 
-Registro de explotaciones apícolas: .............................................................................................
+a) Datos identificativos del titular de la explotación (nombre, apellidos y NIF o CIF, domicilio, teléfono, municipio, provincia).
 
-Titular de la explotación: ..........................................................................................................
+b) Código de identificación de explotación de acuerdo al artículo 5 del Real Decreto 479/2004, de 26 de marzo.
 
-Municipio: ...................................................... Provincia: ......................................................
+c) Código de identificación de colmenas, de acuerdo a lo dispuesto en el artículo 4 de este real decreto.
 
-Comunidad Autónoma: ...........................................................................................................
+d) Tipo de explotación: estante o trashumante, conforme a las definiciones del artículo 2.g) de este real decreto.
 
-Código de la explotación apícola: ...............................................................................................
+e) Clase de explotación: producción (PD), selección y cría (SC), polinización (PZ), mixtas (MX), otras (OT), conforme a la clasificación del artículo 3.
 
-Código anterior a la entrada en vigor del Real Decreto 209/2002, de 22 de febrero: ....................................
+f) Número total de colmenas.
 
-Titular de la explotación: ..........................................................................................................
+g) Espacios para la actualización y diligencia, como mínimo anual, del veterinario oficial, autorizado o habilitado, de la comunidad autónoma.
 
-NIF/CIF: ................................................. Número de teléfono: .................................................
+h) Fecha de actualización del libro y firma del apicultor.
 
-Domicilio: C/ ...................... Número: ...................... Piso: ...................... Puerta: ......................
+i) Datos sanitarios: enfermedades diagnosticadas, tratamientos realizados, con fechas de los diagnósticos y fecha y lugar de los tratamientos, en su caso.
 
-Municipio: .................................. C. P.: .................................. Provincia: ..................................
+j) Análisis en laboratorios: fecha y tipo de análisis, identificación del laboratorio actuante y dictamen o resultado emitido por el laboratorio.
 
-Clase de explotación *: ............................................................................................................
+k) Traslados de colmenas (sólo en el caso de apicultores trashumantes): número de colmenas trasladadas, origen y destino del desplazamiento y fecha de los traslados.
 
-N.º de colmenas estantes: ........................................................................................................
-
-N.º de colmenas trashumantes: .................................................................................................
-
-N.º total de colmenas: ............................................................................................................
-
-Veterinario oficial de la Comunidad Autónoma: ...............................................................................
-
-Traslados de colmenas: ...........................................................................................................
-
-Datos sanitarios: Enfermedades, tratamientos: ................................................................................
-
-Análisis laboratoriales: ............................................................................................................
-
-Declara:
-
-Que son verdaderos todos los datos reseñados y contenidos en el presente documento de explotación apícola y de trashumancia.
-
-Se compromete:
-
-A cumplir lo dispuesto en el Real Decreto 209/2002, de 22 de febrero, por el que se establecen normas de ordenación de las explotaciones apícolas, así como la legislación apícola en vigor.
-
-En ........................, a ....... de .................. de ...........
-
-(Firma del apicultor o representante legal)
-
-* Según las categorías a que hace referencia el artículo 2 del Real Decreto 209/2002, de 22 de febrero:
-
-Producción: PD.
-
-Selección y cría: SC.
-
-Polinización: PZ.
-
-Mixtas: M.
-
-Otras: OT.
-
-Información que debe conocer el titular de este documento de explotación apícola y de trashumancia:
-
-1. Para desarrollar su actividad como apicultor deberá inscribirse en el Registro General de Explotaciones Apícolas.
-
-2. Todas las colmenas deberán estar identificadas con el código de explotación.
-
-3. Debe actualizarse el registro, una vez al año.
-
-4. En este documento, el apicultor anotará sus datos personales, las altas y bajas de colmenas, traslados, tratamientos sanitarios y análisis laboratoriales realizados en las colmenas de su explotación apícola.
-
-5. Este documento, acompañado con el programa de traslados debidamente visado por la autoridad competente, ampara el traslado de colmenas en todo el territorio nacional.
+> Se modifica por el art. 2.11 y anexo II del Real Decreto 448/2005, de 22 de abril. Ref. BOE-A-2005-7427.

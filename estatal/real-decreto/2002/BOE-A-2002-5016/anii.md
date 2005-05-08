@@ -110,7 +110,7 @@ Huesca: HU.
 
 Teruel: TE.
 
-Zaragoza: ZA.
+Zaragoza: Z.
 
 Comunidad Autónoma de Canarias:
 
@@ -133,3 +133,5 @@ País Vasco:
 Guipúzcoa: SS.
 
 Vizcaya: BI.
+
+> Se modifica por el art. 2.12 del Real Decreto 448/2005, de 22 de abril. Ref. BOE-A-2005-7427.
