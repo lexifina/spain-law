@@ -4,6 +4,10 @@ Tendrá derecho preferente para ocupar vacantes en unidades, centros u organismo
 
 a) Disolución o reorganización de unidades, o reducción de dotaciones del catálogo.
 
-b) Pérdida, en acto de servicio, de la aptitud psicofísica para el destino que ocupa.
+b) No haber podido reincorporarse a su anterior destino por haber agotado su plazo de reserva establecido en el párrafo d) del artículo 42.1, del Reglamento de provisión de destinos.
 
-c) Cumplir la edad máxima exigida para determinados destinos.
+c) Pérdida, en acto de servicio, de la aptitud psicofísica para el destino que ocupa.
+
+d) Cumplir la edad máxima exigida para determinados destinos.
+
+> Se modifica por el apartado único de la Orden INT/1295/2005, de 29 de abril. Ref. BOE-A-2005-7694.
