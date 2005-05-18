@@ -1,0 +1,29 @@
+## Artículo 3. Representación de las asociaciones en el Comité.
+
+Conforme a lo previsto en los artículos 55 y 58 del ROTT, las asociaciones estarán representadas en las distintas secciones del Comité con el número de votos que les corresponda por aplicación de las siguientes reglas:
+
+1. En las secciones previstas en las letras f) y g) del artículo 1.1 y en las letras d), e), f) y g) del artículo 2.1, corresponderá a cada asociación el número de votos que resulte determinado por la aplicación de la siguiente fórmula:
+
+![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI4AAAAoCAYAAAAouML7AAAEAElEQVR4nO2b0dWzIAyG31mcw0E6iaN4+6/hMO7S76J/jmmaBAJqsfKc40XVKoSXEAICnc6NeYpjVO5Z2fX1vKKFGPBZl4dx7yLu6wQY8SmUhzhHjTGze+b/54YTypjLgE9BT3iVcxLnn3gJR96ndZiOwgzde6zYhEI9UyKNfwQL3gXrMUEXsiy/JfoV7XrS5rCEs2BrCEsgZ3idiHAsbyHLaQ213esEoKFKxgFkWBq2pKsHNkNbMQR/VmksERGOBQkH2OqrPdOrK4fX52iP2zRkTDIY742eOHIMLT1SdDjYQzgrtgb2yuyJCti8rxf73Y4Bm0h4Y9cIZ8anUXO9FFErHCrjIH6XCEcbyrgob8eEdy9AweSIOuHIIYof2n+se7Ujt7Fk2WuEQ/dID3pL4TygV3zByyg1MY4nqtyAusbjUIDP2SPG4Z65Ks7RepY05gM7vWxnFuhl4W7ZMnRqVrXH+F8qHO9/lv1TsyqKabiwqj0OGTEV+OUo+kysHM3Ezpfmcaz/AfliKBGOFlvJ6yV5nEW5vstQ5aXrAT2z+W0sj8LPlWaO6dnSsDOOC45n5X38WTyXE80c08hCz7DqF4Zebj1oQlvehtDWd3KC19Jn54oGiAlHrj3JQ4pChhipuGvE+/1UtpTDyMJ7yNFZ1s6FIa8je8lDOafBFZxzdCH+EFqjrjh/DeRfP5o8TMhrkIcZ8Z3p97cN1I+gcHhAOOAlmkhA2LkxPK8TmYL3GOfmcK/T4hS8sz8TdhpZWtpeKfMpqRmezFk8E/encih0HJ0AjdZTLgXVtNdu9RvQxl4NMg7vDd4QypcbiFk5J+GNpjE679yDaD21FAnfGVDy7pL/NssTn7M6uXmLw/cbEySKlCtOeadIR4ouN0TrGV0E9eAet5UF7Cq8rQJWb9SEA+T1ppxhLZeIcErqadUlOqEhccrZ9KWhIUYzEvUSWclJOT8irxE94UQnCRHhlNTTIrrizVfj6V0thChVeEbzjM1XiykXlYMlnMgziJIFzmg9JdqemxT8vTzWuTQ1BqXGjswWvBnVFYRjfS5kMeGzXrTqfuk0TKlBZaPl9qJSjxNJelpbXWuFw2OVXGh7LYe8dWt7r0KUjP0z7P04KQ9w5RgnOpXWcl3yuOxSk5bbIKzZg+Vmta2T2n9TnumIbaMl9eSUNLK2GZ5fu/zUPJrf8IaDlCFSwsmdndH7jszjENpwk4KC6NT1SycEUxlVmX/QPnuxPhXm5GSOIz07KpxoPem6912YV7ZUJ/oJr6Ptl9WukRG1NRyv5+SuVUWCz5IvHCL1TJXTIrVXWdtnffnpuQd9ufnr3KWep3FplxrgLvU8hRU/sL6SwV3q2el0Op1OLX+WoPnoK2rzAQAAAABJRU5ErkJggg==)
+
+2. En las secciones previstas en las letras a), b), c), d), e) y h) del artículo 1.1 y en las letras a), b) y c) del artículo 2.1, corresponderá a cada asociación el número de votos que resulte determinado por la aplicación de la siguiente fórmula:
+
+![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI4AAAAoCAYAAAAouML7AAAD9ElEQVR4nO1b0dXzIAi9s2SODNJJMkpe/zUyTHb5/oeWU0oBRZNWG+85PjT1RNALAhpgYOCCmAD8iXYz+m6iX8uQOs1Kn539v39OtP4x4X3CFtwnchHP/3AnjuynLcg3MeNdrpt4Rsaysj7r49n0ARm7xwJ9osizEKxJ3fEZS93wusgeVugy7ewdUj+CNI4BA5a3kESxXPmnvM4RxNnwNBSLIMPrVIImEHi6fm3haAuQ25qEjI2iCxMhDskr4zQikyczGYIV4xG4LrlyXQI7nhbpTbRHKv4u7pGsbcJDhDhcLpKZeyCPHClDoPdO4nfKcC4BmrxJ/C4hzoL3LSHXS3FEiQPc5SeScH1qiKNtZcPrPCAntYY4covKcfFWf61ZgeyCVy9DcsyoIw4e7xjEEaAAkqMmxuGZjEQkzol4nBt0Qm0PeY6IccjzVMc5vJBkFdFuyLOWb8FbHEveVFbFY6UaRIizGWNyWa3FTmVVWuBd7XFo0FRdo8VgaoWvfGkdx1sIq4akIUocLfhe2PPSOo5mCIdsVV55G9Artd/GCnuyNrzWcqKVY6qZaNXps4Jjy6PwZ6WVY3nUQrtINXFoMr2grSVv4wWvGinklpzrMeR7o3MQzaq08zdtTNknBRlukNGV1qdUYTRLHFXJARPkdaSF3JRnGmTEnmqDiD8EbVFlBfUT+Ddak80EeQ3yMDO+k35/e4JGCxKHB2cT7qRJFZUGBgC81nUiKfiIcS4O7nVaSsEHzsOCg3aWli4GydpGKsOTNYscPVJ1IWpnF0Gjus54l7EEh+k2oY2TUyIBtwZvC9VKB/yE2QNfNA2zM+4RiOrKjyIIq/Isd9ycOeoGf3jP6rxLSNHDTq2fN/ERY4pWjaO6aif4RP7ItsO9bWsH2EXwrhFYluiddud4ixp3LxG9UhHV1br6EfEc/GbgzyQt5Ha1SSAryVUy95qER5wzz6lKdF2U53NgTBpXfkHRQohSBY8c3kRLkDXlLLxFHKppRVBypSKqKz/pL5GRj8ljna5xFHGsz040eBlVi8QBnoSJZkbavWq6RdB1GeYI4sjb/SmUepxI4dO6HlqiqyRnxGPQdVQO8mCt3b0K4YgYJ5pi9hTjrIZMpfUf2bo9atLqGoScLKlE+RyLjWw/0awqoqu1pdDl9pRsliEQUbtOzaO1DYLmhnPH84gTyVrOruN425636JQspP7vuiCYqqZq9Ycd/mcvFnIqxxEvFiVOVFftk5gcGVPEoj7dex25H2/Gf4vopzULuWdVkUC75CvOiK6Afi7neYnU3WvtznP36bkH+tLxCriSrqeja5caxJV0PRU7fuB8JRNX0nVgYGBgYKAU/wEwn/nYq+daFAAAAABJRU5ErkJggg==)
+
+3. En las secciones no incluidas en los apartados anteriores se aplicará la siguiente fórmula:
+
+![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAlCAYAAAA6PAXhAAABu0lEQVRoge2Yy5GDQAxEOxbiIBAiIRRfNw0HQy7sAVTWaiWNthYGy+hVzcF85tPTljQAxa0Yrp5AZiYAK4BFuTfu96jNRh9P8dytWAA8oIs479dHdm3FJhica9p7t2DBTxEHbEI8xHPk2mn/TRsgQ4Hs7xbIRZObJuVZ7jwrDNzSjVJEinFaslnwEkhzK/ByrBVD5TjUUic3KSIJpUELn2EL5QnMx+BOpX7T0lvEGb8TVNS9b0tvEeXfmDfPvW9N75hIpZWGGhdpUN5k1pvEfWn1s7Gys5ZdZXbW5trKzovxnotV0GoTvCIm9K4TrfeAbf1mliaXWbszNAY+E23RZ55YaJO0MV0TUeeWjZsdnIAW4Pn8ZJix4pgMWdF6T44dWr/nxvTFZi/IjVqsiaR2iiXR9rGboi1QVu89+ErSVMhN5LwR/Usa4Hpx/iUiZSZy4xP615KiAa8b/1LWVExkcDdmPHB7Z1/eTq97vao9A9wIGiM6iDgg8ReLHU9EIP/6utASsQjgiZgx1l+CJSKVbkUALzOXiEHKiQdQMfEAItm5ypwGLRFHlIgukRPLivq4YhI9O2c+1hZFcTzfih5G2a14sNIAAAAASUVORK5CYII=)
+
+Siendo en dichas fórmulas:
+
+V = Número de votos que corresponden a la asociación de que se trate dentro de la sección.
+
+e = Número de empresas debidamente autorizadas para realizar la actividad a que se refiera la sección, afiliadas a la asociación de que se trate.
+
+a = Número de autorizaciones de la clase a que se refiera la sección de que son titulares, en su conjunto, las empresas computadas en el factor e.
+
+E = Número total de empresas dedicadas a la actividad a que se refiera la sección, afiliadas a las distintas asociaciones representadas en la misma.
+
+A = Número de autorizaciones de la clase a que se refiera la sección de que son titulares, en su conjunto, las empresas computadas en el factor E.
+
+4. Sobre las cifras resultantes de la aplicación de las anteriores fórmulas se aplicará, en su caso, el redondeo preciso para suprimir fracciones inferiores a la unidad, el cual se llevará a cabo por defecto para las iguales o inferiores a 0,5 y por exceso para las superiores a dicha fracción.
