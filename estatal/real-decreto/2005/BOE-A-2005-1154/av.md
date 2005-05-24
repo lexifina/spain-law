@@ -52,7 +52,11 @@ b) corresponda a alguna de las siguientes designaciones de la parte 2 del anexo 
 
 2.3. Aráceas, Marantáceas, Musáceae, Persea spp. y Strelitziaceae, enraizadas o con el medio de cultivo unido o adjunto.
 
-2.4. Semillas y bulbos de Allium ascalonicum L., Allium cepa L. y Allium schoenoprasum L. destinados a la plantación y vegetales de Allium porrum L. destinados a la plantación.
+2.4. Semillas y bulbos de Allium ascalonicum L., Allium cepa L., Allium schoenoprasum L. y vegetales Allium porrum L., destinados a la plantación,
+
+Semillas de Medicago sativa L.,
+
+Semillas certificadas de Helianthus annuus L., Lycopersicum (L.,) Karsten ex Farw. y Phaseolus L.
 
 3. Bulbos y cormos destinados a la plantación, elaborados por productores cuya producción y venta esté autorizada a personas dedicadas profesionalmente al cultivo de vegetales, distintos de los vegetales, productos vegetales y demás objetos preparados y listos para la venta al consumidor final, y para los cuales los organismos responsables oficiales de los Estados miembros garanticen que la producción ha tenido efecto de manera claramente separada de la de otros productos de Camassia Lindl., Chionodoxa Boiss., Crocus flavus Weston «Golden Yellow», Galanthus L., Galtonia candicans (Baker) Decne., cultivares en miniatura y sus híbridos del género Gladiolus Tourn. ex L., como Gladiolus callianthus Marais, Gladiolus colvillei Sweet, Gladiolos nanus hort., Gladiolus ramosus hort. y Gladiolus tubergenii hort., Hyacinthus L., Iris L., Ismene Herbert, Muscari Miller, Narcissus L., Orinthogalum L., Puschkinia Adams, Scilla L. Tigridia Juss., y Tulipa L.
 
@@ -183,7 +187,7 @@ b) corresponda a alguna de las siguientes designaciones de la parte 2 del anexo 
 | ex 4407 99 | Madera distinta de la de coníferas (que no sea madera tropical contemplada en la nota de subpartida 1 del capítulo 44, u otra madera tropical, de roble (Quercus spp.) o de haya (Fagus spp.)), aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
 | 4415 | Cajones, cajas, jaulas, tambores y envases similares, de madera; carretes para cables, de madera; paletas, paletas caja y demás plataformas para carga, de madera; collarines para paletas, de madera |
 | 4416 00 00 | Barriles, cubas, tinas y demás manufacturas de tonelería y sus partes, de madera, incluidas las duelas |
-| 9406 00 20 | Construcciones prefabricadas de madera. » |
+| 9406 00 20 | Construcciones prefabricadas de madera. |
 
 7. a) La tierra y el medio de cultivo, formado total o parcialmente de tierra o sustancias orgánicas sólidas como partes de vegetales, humus con turba o cortezas, excepto el compuesto en su totalidad de turba.
 
@@ -242,5 +246,9 @@ b) responda a alguna de las siguientes designaciones de la parte 2 del anexo I d
 8. Partes de vegetales de Eucalyptus l’Hérit.
 
 9. Corteza aislada de coníferas (Coniferales), originaria de terceros países europeos.
+
+> Se modifica por el art. único y el anexo de la Orden APA/1440/2005, de 17 de mayo. Ref. BOE-A-2005-8426
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 143, de 16 de junio de 2005. Ref. BOE-A-2005-10184
 
 > Se modifica por el art. único y el anexo de la Orden APA/431/2005, de 18 de febrero. Ref. BOE-A-2005-3240

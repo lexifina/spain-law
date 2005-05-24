@@ -313,12 +313,14 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 | 1. Bemisia tabaci Genn (poblaciones europeas) | IRL, P (Entre Douro e Minho, Trás-os-Montes, Beira Litoral, Beira Interior, Ribatejo e Oeste, Alentejo, Madeira y Azores), UK, S, FIN |
 | 1.1. Daktulosphaira vitifoliae (Fitch) | CY |
 | 2. Globodera pallida (Stone) Behrens | FIN, LV, SI, SK |
-| 3. Leptinotarsa decemlineata Say. | E (Ibiza y Menorca), IRL, CY, M, P (Azores y Madeira), UK, S (Malmöhus, Kristianstads, Blekinge, Kalmar,Gotlands Län, Halland), FIN (distritos de Äland, Turku, Uusimaa, Kymi, Häme, Pirkanmaa, Satakunta). |
+| 3. Leptinotarsa decemlineata Say. | E (Ibiza y Menorca), IRL., CY, M, P (Azores y Madeira), UK, S (Blekinge, Gotland, Halland, Kalmar, Skåne), Fl (los distritos de Åland, Turku, Uusimaa, Kymi, Häme, Pirkanmaa, Satakunta) |
 | 4. Liriomyza bryoniae (Kaltenbach). | IRL y UK (Irlanda del Norte). |
 
 b) Virus y organismos afines
 
 | Especies | Zonas protegidas |
 | --- | --- |
-| 1. Beet necrotic yellow vein virus. | DK, F (Bretaña), FIN, IRL, LT, P (Azores), UK (Irlanda del Norte).». |
+| 1. Beet necrotic yellow vein virus. | F (Bretaña), FIN, IRL, LT, P (Azores), UK (Irlanda del Norte).». |
 | 2. Tomato spotted wilt virus. | S, FIN. |
+
+> Se modifica por el art. único y el anexo de la Orden APA/1440/2005, de 17 de mayo. Ref. BOE-A-2005-8426
