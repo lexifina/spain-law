@@ -1,0 +1,5 @@
+## Disposición transitoria única. Competencias de los órganos del Tribunal Económico-administrativo Central respecto a las reclamaciones pendientes.
+
+A los efectos previstos en la disposición transitoria quinta de la Ley 58/2003, de 17 de diciembre, General Tributaria, y en tanto deba continuar aplicándose el Reglamento de procedimiento en las reclamaciones económico-administrativas, aprobado por el Real Decreto 391/1996, de 1 de marzo, a las reclamaciones o recursos interpuestos con anterioridad al 1 de julio de 2004, las competencias atribuidas en este a los vocales del Tribunal Económico-administrativo Central pasarán a ser ejercidas por el Secretario General del citado tribunal, excepto las previstas en los párrafos c) y d) del apartado 1 y en el apartado 2 del artículo 14 del citado reglamento, en su artículo 21 y, en general, las funciones de asistencia y votación en las salas y en el pleno del tribunal, que continuarán siendo ejercidas por los vocales.
+
+> Esta disposición entra en vigor el 28 de mayo de 2005, según establece la disposición final única.
