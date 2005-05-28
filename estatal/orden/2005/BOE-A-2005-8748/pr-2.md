@@ -1,0 +1,3 @@
+## Primero. Creación de los ficheros «Quejas y Sugerencias» y «Registro de correspondencia».
+
+Se amplía el Anexo I de la Orden INT/3764/2004, de 11 de noviembre, por la que se adecuan los ficheros informáticos del Ministerio del Interior que contienen datos de carácter personal a la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal y se crean nuevos ficheros cuya gestión corresponde a dicho Ministerio, incorporando al mismo los ficheros denominados «Quejas y Sugerencias» y «Registro de correspondencia» en la Secretaría de Estado de Seguridad, descritos en el Anexo a la presente Orden.
