@@ -1,5 +1,5 @@
-## Disposición adicional tercera. Cambio de denominación del Consejo Superior de Informática.
+## Disposición adicional tercera.
 
-1. Desde la entrada en vigor del presente real decreto, el Consejo Superior de Informática pasará a denominarse Consejo Superior de Informática y para el impulso de la Administración Electrónica.
+(Derogada)
 
-2. Todas las referencias al Consejo Superior de Informática realizadas en la normativa vigente, en lo sucesivo, se entenderán hechas al Consejo Superior de Informática y para el impulso de la Administración Electrónica.
+> Se deroga por la disposición derogatoria única del Real Decreto 589/2005, de 20 de mayo. Ref. BOE-A-2005-8782
