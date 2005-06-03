@@ -1,3 +1,5 @@
 ## Disposición final única. Entrada en vigor.
 
-Este Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+(Anulado)
+
+> Se declara la nulidad por Sentencia del TS de 27 de abril de 2005. Ref. BOE-A-2005-9213.
