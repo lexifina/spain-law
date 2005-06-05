@@ -4,7 +4,7 @@ Uno. La Comisión estará formada por el Pleno y la Subcomisión Permanente.
 
 Dos. El Pleno de la Comisión tendrá la siguiente composición:
 
-Presidente: El Director general de Deportes del Consejo Superior de Deportes, o persona en quien delegue. El Presidente dirimirá con su voto los empates, a efectos de adoptar acuerdos.
+Presidente. El Director General de Infraestructuras Deportivas, del Consejo Superior de Deportes o, en su caso, el Director General que tenga la competencia en temas de titulaciones deportivas. El Presidente podrá delegar la función y dirimirá con su voto los empates a efectos de adoptar acuerdos.
 
 Vicepresidente: El Subdirector general del Consejo Superior de Deportes competente en temas de formaciones deportivas. El Vicepresidente sustituirá al Presidente en caso de vacante, ausencia, enfermedad u otra causa legal.
 
@@ -37,3 +37,5 @@ Secretario: El Secretario del Pleno de la Comisión.
 A cada sesión de la Subcomisión Permanente se incorporarán en calidad de Vocales, con voz pero sin voto, un representante de la Federación Deportiva Española y un representante de una Federación Deportiva Autonómica de la modalidad o especialidad deportiva a la que se refieran los diplomas o certificados que sean objeto de estudio o informe. La designación de estos Vocales se realizará por el Presidente del Consejo Superior de Deportes, a propuesta de la correspondiente Federación Deportiva Española. En todo caso, el representante de la Federación Deportiva Autonómica deberá permanecer a una de las cinco Federaciones Deportivas Autonómicas que, en la modalidad deportiva correspondiente, hayan formado mayor número de técnicos.
 
 Además, a las sesiones de la Subcomisión Permanente, el Presidente de la misma podrá convocar a otras personas, con voz pero sin voto, para que informen de determinados asuntos relacionados con el objeto de aquéllas.
+
+> Se modifica el apartado 2 por el apartado 1 de la Orden ECI/1636/2005, de 31 de mayo. Ref. BOE-A-2005-9336.
