@@ -1,0 +1,9 @@
+El Plan Básico de Emergencia Nuclear, aprobado por el Real Decreto 1546/2004, de 25 de junio, es la directriz que contiene las normas y criterios esenciales para la elaboración, implantación material y mantenimiento de la eficacia de los planes de emergencia nuclear de protección civil, cuya competencia corresponde a la Administración General del Estado con el concurso de las restantes Administraciones Públicas.
+
+El objeto general del citado Plan es proteger a las personas de las situaciones de grave riesgo colectivo, calamidad pública o catástrofe extraordinaria, en las que su vida y seguridad pueden peligrar y sucumbir masivamente, que se deriven de accidentes en centrales nucleares en operación o parada mientras almacenen combustible gastado, de acuerdo con lo que establece la Ley 2/1985, de 21 de enero, sobre Protección Civil, y su normativa de desarrollo.
+
+El Plan Básico de Emergencia Nuclear determina que la planificación de emergencias nucleares se organiza en dos niveles distintos y complementarios: el nivel de respuesta interior o de autoprotección corporativa y el nivel de respuesta exterior.
+
+A su vez, prevé que las actuaciones de preparación y respuesta a situaciones de emergencia en el nivel respuesta exterior deben establecerse, por una parte, en los planes de emergencia nuclear, exteriores a las centrales nucleares que, a su vez, incluirán los planes de actuación de los grupos operativos y los planes de actuación municipal en emergencia nuclear y, por otra parte, en el Plan de Emergencia Nuclear del Nivel Central de Respuesta y Apoyo a los anteriores, que incluirá la prestación de asistencia internacional.
+
+En su virtud, de conformidad con lo establecido en la disposición adicional segunda del Real Decreto 1546/2004, de 25 de junio, por el que se aprueba el Plan Básico de Emergencia Nuclear, previo informe favorable del Consejo de Seguridad Nuclear y de la Comisión Nacional de Protección Civil, dispongo:
