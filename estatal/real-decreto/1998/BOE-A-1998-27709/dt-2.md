@@ -15,3 +15,5 @@ b) Seguimiento en una unidad acreditada para la docencia de un programa formativ
 El programa específico de formación, cuya duración no podrá ser superior a seis meses, no será objeto de retribución y se planificará de tal forma que cause la menor interferencia en la actividad profesional ordinaria del interesado.
 
 c) Desestimación de la solicitud. Se adoptará esta propuesta cuando a juicio de la Comisión Nacional, la formación y experiencia acreditadas por el interesado, aun cuando sea superior al plazo de tres años, que se cita en el apartado 2 de esta disposición, no sea susceptible de ser completado mediante el programa formativo complementario, al que se refiere el apartado 3.b) de esta disposición.
+
+> Véase, sobre modificación del plazo para computar el ejercicio profesional requerido en esta disposición transitoria así como el de presentación de solicitudes, los arts. 1 y 2 del Real Decreto 654/2005, de 6 de junio. Ref. BOE-A-2005-10071
