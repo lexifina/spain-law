@@ -1,0 +1,15 @@
+La Comisión Internacional del Álamo se creó en París en 1947, quedando integrada en la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO). La Comisión Internacional del Álamo promueve la organización de comisiones nacionales dentro de los países productores y cultivadores de álamos y sauces que deseen pertenecer a ella.
+
+España se encuentra entre los países miembros de la Comisión Internacional del Álamo, creándose, mediante Orden de 25 de enero de 1952, la Comisión Nacional del Chopo, modificada por Orden de 25 de mayo de 1956, que fue modificada a su vez por Orden de 25 de noviembre de 1983, por la que se actualiza la composición y cometidos de la Comisión Nacional del Chopo.
+
+La Orden de 25 de noviembre de 1983 obedecía a la necesidad de coordinar e impulsar las actividades de los diversos órganos y Organismos de la Administración General del Estado interesados, para obtener una mayor eficacia en la gestión y mejor logro de los objetivos pretendidos con la Orden Ministerial de 9 de julio de 1982, sobre fomento de las plantaciones de chopo en los montes de régimen privado.
+
+Sin embargo, la Orden Ministerial de 25 de noviembre de 1983, ha quedado poco operativa, debido al tiempo transcurrido y a las modificaciones estructurales producidas en la configuración de la Administración General del Estado, además de haberse producido una evolución de la sensibilidad institucional en el sentido no solo de potenciar los valores productivos tradicionales de estos cultivos, sino también en el de contemplar los beneficios medioambientales y sociales que proporcionan, ordenando y gestionando los mismos.
+
+De ahí la necesidad de regular la composición de la Comisión Nacional del Chopo, para adaptarla a la actual realidad administrativa, respecto de la que ha quedado claramente desfasada. No sólo su constitución es anterior al Estado de las Autonomías, sino que además parte de las competencias que dependían del Ministerio de Agricultura, Pesca y Alimentación y que afectan a la Comisión Nacional del Chopo, han pasado a depender de otros Ministerios como son las competencias en materia de Conservación de la Naturaleza y Parques Nacionales que han sido asumidas por el Ministerio de Medio Ambiente y las competencias en materia de investigación forestal que han pasado al Ministerio de Educación y Ciencia.
+
+Finalmente, en el artículo 6.1, letra a), del Real Decreto 1417/2004, de 11 de junio, por el que se desarrolla la estructura orgánica básica del Ministerio de Agricultura, Pesca y Alimentación, se atribuye a la Dirección General de Agricultura la función de elaborar la normativa estatal y desarrollar y coordinar las actividades relacionadas con la producción agrícola.
+
+En la tramitación de la presente Orden Ministerial han sido consultadas las Comunidades Autónomas y las entidades y organizaciones representativas de los intereses del sector que resultan afectadas por la misma.
+
+En su virtud, a propuesta de las Ministras de Agricultura, Pesca y Alimentación, de Medio Ambiente y de Educación y Ciencia, previa aprobación del Ministro de Administraciones Públicas, dispongo:
