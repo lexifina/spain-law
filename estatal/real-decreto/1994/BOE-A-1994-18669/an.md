@@ -78,24 +78,24 @@ Las sustancias utilizadas deberán ser de buena calidad técnica por lo que resp
 | --- | --- |
 | A. Celulosa regenerada. | Ver primera parte. |
 | B. Aditivos. | Ver primera parte. |
-| C. Barnices. | No más de 50 mg/dm2 en el barniz de la cara en contacto con los productos alimenticios. |
+| C. Barnices. | (Suprimido) |
 | 1. Polímeros. | La cantidad total de sustancias no sobrepasará los 50 mg/dm2 en el barniz de la cara en contacto con los productos alimenticios. |
 | Esteres etílicos, hidroxietílicos, hidroxipropílicos y metílicos de celulosa. |  |
 | Nitrato de celulosa. | No más de 20 mg/dm2 en el barniz de la cara en contacto con los productos alimenticios, contenido de nitreno entre 10,8 por 100 (p/p) y 12 por 100 (p/p) en el nitrato de celulosa. |
-| Polímeros, copolímeros y sus mezclas, preparados a partir de los monómeros siguientes: |  |
-| Acetales de vinilo derivados de aldehídos saturados (C1 a C6). |  |
-| Acetato de vinilo. |  |
-| Éteres vinílicos de alquilo (C1 a C4). |  |
-| Ácidos acrílico, crotónico, itacónico, máiico, metacrílico y sus ésteres. |  |
-| Butadieno. |  |
-| Estireno. |  |
-| Metilestireno. |  |
-| Cloruro de vinilideno. |  |
-| Nitrilo acrílico. |  |
-| Nítrilo metacrílico. |  |
-| Etileno, propileno, 1 y 2 butileno. |  |
-| Cloruro de vinilo. | Con arreglo a la Directiva 78/142/CEE (DO núm. L 44 de 15 de febrero de 1978, p. 15). |
-| 2. Resinas. | La cantidad total de sustancias no sobrepasará los 12,5 mg/dm2 en el barniz de la cara en contacto con los productos alimenticios y sólo para la preparación de películas de celulosa regenerada recubiertas por un barniz a base de nitrato de celulosa o de copolímeros de cloruro de vinilo y acetato de vinilo. |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) | (Suprimido) |
+| 2. Resinas. | La cantidad total de sustancias no podrá exceder de 12,5 mg/dm2 en el barniz de la cara en contacto con los productos alimenticios y sólo para la preparación de películas de celulosa regenerada recubierta por un barniz a base de nitrato de celulosa. |
 | Caseína. |  |
 | Colofonia y/o sus productos de polimerización, hidrogenación o desproporción y sus ésteres de los alcoholes metílico, etílico y alcoholes polivalentes C2-C6 y las mezclas de dichos alcoholes. |  |
 | Colofonia y/o sus productos de polimerización, hidrogenación o desproporción condensados con el ácido acrílico, manco, cítrico, fumárico, y/oftálico, y/o 2,2 bis (4-hidroxifenil) propanoformaldehido y esterificados con los alcoholes metílico, etílico, o alcoholes polivalentes de C2 a C6, o mezclas de dichos alcoholes. |  |
@@ -111,15 +111,15 @@ Las sustancias utilizadas deberán ser de buena calidad técnica por lo que resp
 | Di-isobutiladipato. |  |
 | Di-n-butiladipato. |  |
 | Di-n-hexilazelato. |  |
-| Bultilbencilftalato. | No más de 2,0 mg/dm2 en el barniz de la cara en contacto con los productos |
-| Di-n-butilftalato. | No más de 3,0 mg/dm2 en el barniz de la cara en contacto con los productos alimenticios. |
+| (Suprimido) | (Suprimido) |
+| (Suprimido) | (Suprimido) |
 | Diciclohexilftalato. | No más de 4,0 mg/dm2 en el barniz de la cara en contacto con los productos alimenticios. |
-| 2-etilhexil-difenilfosfato. | No más de 2,5 mg/dm2 en el barniz de la cara en contacto con los productos alimenticios. |
+| 2-etilhexil-difenilfosfato [= fosfato de 2-etilhexilo y difenilo]. | La cantidad de 2-etilhexil-difenilfosfato no podrá exceder de: a) 2,4 mg/kg del producto alimenticio en contacto con una película de este tipo, o bien. b) 0,4 mg/dm2 en el barniz de la cara en contacto con los productos alimenticios. |
 | Monoacetato de glicerol (=monoacetina). |  |
 | Diacetato de glicerol (=diacetina). |  |
 | Triacetato de glicerol (=triacetina). |  |
 | Sebacato de dibutilo. |  |
-| Sebacato de di-2-etilhexilo (=dioctilsebacato). |  |
+| (Suprimido) |  |
 | Di-n-butiltartrato. |  |
 | Di-iso-butiltartrato. |  |
 | 4. Otros aditivos. | La cantidad total de sustancias no sobrepasará los 6 mg/dm2 en la película de celulosa regenerada, incluido el barniz de la cara en contacto con los productos alimenticios. |
@@ -156,11 +156,13 @@ Las sustancias utilizadas deberán ser de buena calidad técnica por lo que resp
 | Ciclohexano. |  |
 | 2-butoxietanol. |  |
 | Acetato de 2-butoxietanol. |  |
-| 2-etoxietanol. |  |
-| Acetato de 2-etoxietanol. |  |
-| 2-metoxietanol. |  |
-| Acetato de 2-metoxietanol. |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
+| (Suprimido) |  |
 | Metiletilcetona. |  |
 | Metilisobutilcetona. |  |
 | Tetrahidrofurano. |  |
 | Tolueno. | No más de 0,06 mg/dm2 en el barniz de la cara en contacto con productos alimenticios. |
+
+> Se modifica la segunda parte por el art. único.4 y el Anexo del Real Decreto 691/2005, de 10 de junio. Ref. BOE-A-2005-10381.
