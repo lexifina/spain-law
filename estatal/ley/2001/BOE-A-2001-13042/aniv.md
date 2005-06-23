@@ -1,6 +1,6 @@
 ## ANEXO IV
 
-## Actuaciones prioritarias y urgentes
+## Actuaciones prioritarias y urgentes en las cuencas mediterráneas
 
 1. CUENCA HIDROGRÁFICA DEL SUR.
 
@@ -10,13 +10,11 @@ a) Desaladora del Campo de Dalías.
 
 b) Desaladora en Níjar.
 
-c) Desaladora en el bajo Almanzora.
+c) Desaladora en el Bajo Almanzora.
 
-d) Desaladora de agua de mar de Carboneras.
+d) Desaladora de agua de mar de Carboneras. 2.ª fase.
 
-2.a fase.
-
-e) Desalación en el poniente almeriense.
+e) Desalación en el Poniente Almeriense.
 
 f) Remodelación y puesta en servicio de la desaladora de Marbella.
 
@@ -28,9 +26,9 @@ a) Actuaciones complementarias de reutilización de aguas residuales en el Campo
 
 b) Actuaciones de reutilización de aguas residuales en Almería.
 
-c) Conexión presa Cuevas de Almanzora-poniente almeriense (sector norte).
+c) Conexión presa Cuevas de Almanzora-Poniente Almeriense (Sector Norte).
 
-d) Mejora de las infraestructuras hidráulicas de los riegos de la zona de poniente de Adra.
+d) Mejora de las infraestructuras hidráulicas de los riegos de la zona de Poniente de Adra.
 
 e) Conducciones en la zona regable del embalse de Cuevas de Almanzora.
 
@@ -38,9 +36,9 @@ f) Corrección de vertidos salinos al embalse de Guadalhorce.
 
 g) Reutilización de aguas residuales en la Costa del Sol.
 
-h) Reutilización de aguas residuales en la ciudad de Málaga. 1.a fase.
+h) Reutilización de aguas residuales en la ciudad de Málaga. 1.ª fase.
 
-2. CUENCA HIDROGRÁFICA DEL SEGURA.
+2. Cuenca Hidrográfica del Segura.
 
 2.1 Actuaciones en incremento de la disponibilidad de recursos hídricos:
 
@@ -58,19 +56,21 @@ f) Planta desaladora de La Pedrera.
 
 g) Planta desaladora. Mejora de la calidad en Pilar de la Horadada.
 
-h) Desaladora para L'Alacantí y Vega Baja.
+h) Desaladora para L' Alacantí y Vega Baja.
 
 i) Desalación del Campo de Cartagena (red de distribución).
 
 j) Medidas urgentes para dotar de recursos al Altiplano.
 
-k) Medidas urgentes para dotar de recursos al alto Guadalentín.
+k) Medidas urgentes para dotar de recursos al Alto Guadalentín.
+
+l) Ampliación de la Estación Desaladora de Aguas Salobres -EDAS- de El Mojón y sus colectores.
 
 2.2 Actuaciones en mejora de la gestión de los recursos hídricos:
 
 a) Colector de evacuación de aguas salinas en la Vega Baja y desalobradora.
 
-b) Colector de evacuación de aguas salinas en el valle del Guadalentín y desalobradora.
+b) Colector de evacuación de aguas salinas en el Valle del Guadalentín y desalobradora.
 
 c) Reutilización de aguas residuales en el Mar Menor.
 
@@ -78,13 +78,11 @@ d) Modernización de las infraestructuras hidráulicas de los regadíos de la Ve
 
 e) Terminación de la modernización de las infraestructuras hidráulicas de los regadíos de la Vega Media.
 
-f) Modernización de las infraestructuras hidráulicas de los regadíos de la Vega Alta.
-
-Ojós-Contraparada.
+f) Modernización de las infraestructuras hidráulicas de los regadíos de la Vega Alta. Ojós-Contraparada.
 
 g) Modernización de las infraestructuras hidráulicas de los regadíos de la Vega Alta hasta Ojós.
 
-h) Terminación de la modernización de las infraestructuras hidráulicas de las zonas regables de Lorca y valle del Guadalentín.
+h) Terminación de la modernización de las infraestructuras hidráulicas de las zonas regables de Lorca y Valle del Guadalentín.
 
 i) Modernización de la infraestructura hidráulica de la zona regable de Librilla.
 
@@ -92,21 +90,19 @@ j) Modernización de las infraestructuras hidráulicas de los regadíos de la co
 
 k) Conexión Fuensanta-Taibilla.
 
-l) Recrecimiento del canal de la margen
+l) Recrecimiento del canal de la margen derecha del postrasvase Tajo-Segura. Tramo Fin sifón Segura a inicio acueducto de Campos del Río.
 
-derecha del postrasvase Tajo-Segura. Tramo fin sifón Segura a inicio acueducto de Campos del Río.
+m) Conducción Boca Sur del Túnel de El Saltador-Camino del Cerro Minado (Almanzora).
 
-m) Conducción boca sur del túnel de El
+n) Mejora de la calidad del agua para abastecimiento urbano procedente del Tajo-Segura.
 
-Saltador-Camino del Cerro Minado (Almanzora).
+o) Remodelación del sistema de conducciones de la Mancomunidad de los Canales del Taibilla.
 
-n) Mejora de la calidad del agua para
+p) Depósito, potabilizadora e instalaciones complementarias de abastecimiento de Hellín.
 
-abastecimiento urbano procedente del Tajo-Segura.
+q) Automatización y telemando de los canales e instalaciones principales del postrasvase Tajo-Segura.
 
-ñ) Remodelación del sistema de conducciones de la Mancomunidad de los Canales del Taibilla.
-
-o) Depósito, potabilizadora e instalaciones complementarias de abastecimiento de Hellín.
+r) Ampliación de la Estación Depuradora de Aguas Residuales -EDAR- de Murcia-Este y dotación de tratamientos terciarios para su reutilización.
 
 2.3 Actuaciones en mejora de la calidad del agua, prevención de inundaciones y restauración ambiental:
 
@@ -118,9 +114,13 @@ c) Ampliación de la EDAR de Hellín.
 
 d) Terminación de la conservación y acondicionamiento del dominio público hidráulico en el río Segura, Contraparada-Guardamar (tramo Murcia).
 
-e) Terminación de la conservación y acondicionamiento del dominio público hidráulico en el río Segura. Contraparada-Guardamar (tramo Alicante).
+e) Terminación de la conservación y acondicionamiento del dominio público hidráulico en el río Segura, Contraparada-Guardamar (tramo Alicante).
 
-3. CUENCA HIDROGRÁFICA DEL JÚCAR.
+f) Recirculación de caudales en el tramo urbano de Murcia.
+
+g) Interceptor de aguas pluviales de las ramblas del norte del municipio de Murcia.
+
+3. CUENCA HIDROGRÁFICA DEL JÚCAR
 
 3.1 Actuaciones en incremento de la disponibilidad de recursos hídricos:
 
@@ -132,13 +132,17 @@ c) Ampliación de la desaladora de la Mancomunidad de los Canales del Taibilla e
 
 d) Ampliación de la desaladora de Jávea.
 
-e) Desarrollo de programas para captación de aguas subterráneas para abastecimientos y regadíos en Castellón.
+e) Desarrollo de programas de aguas subterráneas y desalación para abastecimientos y regadíos en Castellón.
 
 f) Regulación para recarga de los excedentes invernales del río Belcaire.
 
 g) Azud de regulación diaria en el tramo bajo del río Turia.
 
 h) Adecuación del embalse de Arenós.
+
+i) Ampliación de la capacidad de depuración de agua en Sueca.
+
+j) Mejora del abastecimiento urbano de los municipios de la Marina Baja a través del canal bajo de Algar.
 
 3.2 Actuaciones en mejora de la gestión de los recursos hídricos:
 
@@ -150,7 +154,7 @@ c) Terminación de la reutilización de las aguas residuales de Pinedo.
 
 d) Reutilización de aguas residuales de la EDAR de Sueca.
 
-e) Reutilización de aguas residuales depuradas de la Albufera sur.
+e) Reutilización de aguas residuales depuradas de la Albufera Sur.
 
 f) Plan de modernización de riegos de la Plana de Castellón.
 
@@ -166,13 +170,33 @@ k) Modernización del canal del Campo del Turia.
 
 l) Reposición de la Acequia Mayor de Sagunto, afectada por la construcción de la presa de Algar.
 
-m) Prolongación del canal de la Cota 100 del río Mijares.
+m) Prolongación del Canal de la Cota 100 del río Mijares.
 
-n) Interconexión Manises-Picassent.
+n) Refuerzo del sistema de abastecimiento del área metropolitana de Valencia y el Camp de Morvedre.
 
-ñ) Reutilización de aguas residuales en el sistema Vinalopó-Alacantí.
+o) Reutilización de aguas residuales en el sistema Vinalopó-Alacantí.
 
-o) Mejora de la depuración y reutilización de aguas residuales de la Plana de Castellón.
+p) Mejora de la depuración y reutilización de aguas residuales de la Plana de Castellón.
+
+q) Abastecimiento a los municipios del entorno del embalse de Contreras.
+
+r) Abastecimiento a La Manchuela con aguas superficiales.
+
+s) Infraestructura para la sustitución de bombeos en acuífero de La Mancha Oriental.
+
+t) Infraestructuras para la reutilización de las aguas residuales de las EDAR's de Monte Orgegia (Alicante) y Rincón de León (Alicante) por los usuarios del Vinalopó.
+
+u) Desalobración e infraestructuras para la posterior reutilización agrícola de las aguas residuales depuradas de la EDAR de Elda-Petrer por los usuarios del Vinalopó.
+
+v) Tratamiento terciario y reutilización de la EDAR de Alcoià-Comtat para uso industrial.
+
+w) Tratamiento terciario y reutilización de la EDAR de Ontinyent-Vall d'Albaida para uso industrial.
+
+x) Tratamiento terciario y reutilización de las aguas residuales de la EDAR de Gandía.
+
+y) Tratamiento terciario y reutilización de las aguas residuales de la EDAR de Xàbia.
+
+z) Tratamiento terciario y reutilización de las aguas residuales de la EDAR de Oliva.
 
 3.3 Actuaciones en mejora de la calidad del agua, prevención de inundaciones y restauración ambiental:
 
@@ -184,7 +208,7 @@ c) Alternativa a la presa del Marquesado.
 
 d) Laminación y mejora del drenaje de la cuenca de la rambla Gallinera.
 
-e) Acondicionamiento del bajo Turia y nuevo cauce del río.
+e) Acondicionamiento del Bajo Turia y nuevo cauce del río.
 
 f) Laminación y control de avenidas en la cuenca media del río Serpis.
 
@@ -192,72 +216,24 @@ g) Laminación y mejora del drenaje en la cuenca del río Vacas.
 
 h) Prevención contra avenidas del Barranco de Benimodo.
 
+i) Encauzamiento del Barranco de Juan de Mora (Castellón).
+
 4. CUENCA HIDROGRÁFICA DEL EBRO.
 
 Actuaciones en mejora de la calidad del agua, prevención de inundaciones y restauración ambiental:
 
-a) Programa de calidad de las aguas del Delta del Ebro. Alimentación de las bahías con agua dulce de los canales de riego. 1.a fase.
+a) Programa de calidad de las aguas del Delta del Ebro. Alimentación de las bahías con agua dulce de los canales de riego (1.ª fase).
 
-b) Programa para corregir subsidencia y regresión del Delta del Ebro. 1.a fase.
+b) Programa para corregir subsidencia y regresión del Delta del Ebro (1.ª fase).
 
 c) Programa para la implantación de redes de indicadores ambientales del Delta del Ebro.
 
-d) Eliminación de la contaminación química del embalse de Flix. 1.a fase.
+d) Eliminación de la contaminación química del embalse de Flix.
 
 e) Restauración hidrológica de la continuidad del río Ebro.
 
-f) Programa de saneamiento de aguas residuales urbanas (PSARU 2002) en la cuenca del Ebro.
+f) Programa de saneamiento de aguas resi-duales urbanas (PSARU 2002) en la cuenca del Ebro (1.ª fase).
 
-1.a fase.
-
-5. CUENCAS INTERNAS DE CATALUÑA.
-
-5.1 Actuaciones en incremento de la disponibilidad de recursos hídricos:
-
-a) Desaladora del área metropolitana de Barcelona.
-
-b) Ampliación de la desaladora del Tordera.
-
-5.2 Actuaciones en mejora de la gestión de los recursos hídricos:
-
-a) Actuaciones adicionales de reutilización en el Llobregat y Tarragona.
-
-b) Balsas de regulación para las ETAP de Sant Joan Despí y Abrera.
-
-c) Ampliación y mejora del tratamiento en la potabilizadora de Abrera.
-
-d) Balsas de recarga en el acuífero del bajo Llobregat.
-
-e) Descontaminación del acuífero del Besòs.
-
-f) Abastecimiento desde la Llosa del Cavall.
-
-Tramo de Calaf hasta Igualada.
-
-g) Prolongación de la conducción Abrera-Fonsanta hasta el Prat de Llobregat.
-
-h) Interconexión de redes de abastecimiento del Maresme norte y ATLL.
-
-i) Complementación de la conexión entre las ETAP de Abrera y Cardedeu: tramo
-
-Fonsanta-Trinitat.
-
-j) Desdoblamiento de la arteria Cardedeu-Trinidad.
-
-k) Refuerzo del abastecimiento de la Costa Brava centro.
-
-l) Programa de ahorro y gestión sostenible:
-
-mejora de la estanqueidad de las redes de abastecimiento en alta.
-
-5.3 Actuaciones en mejora de la calidad del agua, prevención de inundaciones y restauración ambiental:
-
-a) Restauración hidrológico-ambiental de los residuos salinos del Llobregat para la mejora de la calidad del agua. 1.a fase.
-
-b) Programa de saneamiento de aguas residuales urbanas (PSARU 2002) en las CIC. 1.a fase.
-
-c) Recuperación hidromorfológica en Cardener, Llobregat y Ter.
-
-d) Incremento del tratamiento en los sistemas de saneamiento para mejora ambiental y de la calidad de las aguas de abastecimiento en la cuenca del Llobregat.
+> Se modifica por el art. único.20 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
 
 > Se añade por el art. único.2 del Real Decreto-Ley 2/2004, de 18 de junio. Ref. BOE-A-2004-11438.

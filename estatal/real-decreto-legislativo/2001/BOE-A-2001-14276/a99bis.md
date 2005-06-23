@@ -4,9 +4,7 @@
 
 2. En el registro se incluirán necesariamente:
 
-a) Las zonas en las que se realiza una captación de agua destinada a consumo humano, siempre
-
-que proporcione un volumen medio de al menos 10 metros cúbicos diarios o abastezca a más de cincuenta personas, así como, en su caso, los perímetros de protección delimitados.
+a) Las zonas en las que se realiza una captación de agua destinada a consumo humano, siempre que proporcione un volumen medio de al menos 10 metros cúbicos diarios o abastezca a más de cincuenta personas, así como, en su caso, los perímetros de protección delimitados.
 
 b) Las zonas que, de acuerdo con el respectivo plan hidrológico, se vayan a destinar en un futuro a la captación de aguas para consumo humano.
 
@@ -28,4 +26,8 @@ El registro deberá revisarse y actualizarse, junto con la actualización del pl
 
 4. Un resumen del registro formará parte del plan hidrológico de cuenca.
 
-> Se añade por el art. 129.31 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+5. Los instrumentos de ordenación urbanística contendrán las previsiones adecuadas para garantizar la no afección de los recursos hídricos de las zonas incluidas en las letras a), b) y d) del apartado 2 y los perímetros de protección que al efecto se establezcan por la Administración Hidráulica.
+
+> Se añade un apartado 5 por la disposición final 1.9 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622
+
+> Se añade por el art. 129.31 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936

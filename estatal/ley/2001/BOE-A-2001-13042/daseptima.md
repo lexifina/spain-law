@@ -9,3 +9,7 @@ b) La programación coordinada de las actuaciones de depuración de aguas residu
 c) Un programa de control de vertido en toda la cuenca.
 
 Este Plan estará redactado en el plazo máximo de un año a partir de la aprobación de la presente Ley.
+
+Se declaran de interés general las actuaciones incluidas en el Plan Integral de Mejora de la Calidad del río Tajo.
+
+> Se añade el último párrafo por el art. único.14 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.

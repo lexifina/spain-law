@@ -102,7 +102,9 @@ Saneamiento de la cuenca del río Louro: Colectores generales de los ríos Miño
 
 Saneamiento y depuración del Alto Nervión.
 
-Mejora del saneamiento de Lugo: Acondicionamiento de los colectores de los ríos Rato, Chanca y Fervedoira. (Colectores generales).
+Mejora del saneamiento de Lugo: Acondicionamiento de los colectores de los ríos Rato, Chanca y Fervedoira.
+
+(Colectores generales).
 
 Saneamiento de Bierzo Bajo: Colector interceptor del río Sil, Tramo Ponferrada-EDAR de Villapalos.
 
@@ -446,6 +448,8 @@ Programa de control y seguimiento de la calidad de las aguas.
 
 Delimitación del Dominio Público Hidráulico (LINDE).
 
+Infraestructuras de interconexión y aprovechamiento conjunto de los ríos Sorbe y Bornova.
+
 Cuencas del Guadiana, Piedras, Tinto y Odiel
 
 Presa de La Coronada.
@@ -605,6 +609,8 @@ Infraestructura de refuerzo de recarga artificial en el Alto Guadiana.
 Delimitación del Dominio Público Hidráulico (LINDE).
 
 Red básica de control de aguas subterráneas.
+
+Mejora del abastecimiento a la comarca de Almadén.
 
 Cuenca del Guadalquivir
 
@@ -1182,7 +1188,7 @@ Encauzamiento del río Seco entre la autopista A-7 y su desembocadura al mar.
 
 Restitución y adaptación de los cauces naturales del barranco del Poyo. (Fase I).
 
-Interconexión Manises-Picassent.
+Refuerzo del sistema de abastecimiento del área metropolitana de Valencia y el Camp de Morvedre".
 
 Encauzamiento, defensa y urbanización en el río Barxell.
 
@@ -1240,7 +1246,7 @@ Recrecimiento de la presa de Yesa.
 
 Embalses de El Espeso, Carabán, Umbrías y Orera (Jalón).
 
-Embalse de San Salvador.
+Embalse de Montbrun (San Salvador optimizado).
 
 Regulación del río Linares.
 
@@ -1848,4 +1854,6 @@ Programa de control y seguimiento de la calidad de las aguas.
 
 Red de estaciones foronómicas.
 
-> Redactado conforme a la corrección de errores publicada en BOE núm. 184, de 2 de agosto de 2001. Ref. BOE-A-2001-15033.
+> Se deroga los incisos destacados y se modifica por la disposición derogaroria única.2 y el art. único.19 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 184, de 2 de agosto de 2001. Ref. BOE-A-2001-15033
