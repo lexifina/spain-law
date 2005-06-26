@@ -31,6 +31,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPITULO IV](civ.md)
 - [Sección 1](s1.md)
 - [Artículo 13](a13.md)
+- [Artículo 13 bis](a13bis.md)
+- [Artículo 13 ter](a13ter.md)
 - [Artículo 14](a14.md)
 - [Artículo 15](a15.md)
 - [Artículo 16](a16.md)
