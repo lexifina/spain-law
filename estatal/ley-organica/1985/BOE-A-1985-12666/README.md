@@ -118,6 +118,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo ochenta y seis bis](aochentayseisbis.md)
 - [Artículo ochenta y seis ter](aochentayseister.md)
 - [Artículo ochenta y siete](aochentaysiete.md)
+- [Artículo ochenta y siete bis](aochentaysietebis.md)
+- [Artículo ochenta y siete ter](aochentaysieteter.md)
 - [Artículo ochenta y ocho](aochentayocho.md)
 - [Artículo ochenta y nueve](aochentaynueve.md)
 - [Artículo ochenta y nueve bis](aochentaynuevebis.md)

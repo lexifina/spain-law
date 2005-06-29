@@ -8,6 +8,8 @@
 
 3.º De los recursos que establezca la ley contra las resoluciones de los Juzgados de Vigilancia Penitenciaria, cuando la competencia no corresponda a la Sala de lo Penal de la Audiencia Nacional.
 
+4.º De los recursos que establezca la ley contra las resoluciones en materia penal dictadas por los Juzgados de Violencia sobre la Mujer de la provincia. A fin de facilitar el conocimiento de estos recursos, y atendiendo al número de asuntos existentes, deberán especializarse una o varias de sus secciones de conformidad con lo previsto en el artículo 98 de la citada Ley Orgánica. Esta especialización se extenderá a aquellos supuestos en que corresponda a la Audiencia Provincial el enjuiciamiento en primera instancia de asuntos instruidos por los Juzgados de Violencia sobre la Mujer de la provincia.
+
 2. Para el conocimiento de los recursos contra resoluciones de los Juzgados de Instrucción en juicio de faltas la Audiencia se constituirá con un solo Magistrado, mediante un turno de reparto.
 
 3. Las Audiencias Provinciales conocerán también de los recursos contra las resoluciones de los Juzgados de Menores con sede en la provincia y de las cuestiones de competencia entre los mismos.
@@ -18,11 +20,15 @@ También conocerán de los recursos que establezca la ley contra las resolucione
 
 Asimismo, la Sección o Secciones de la Audiencia Provincial de Alicante que se especialicen al amparo de lo previsto en el párrafo anterior conocerán, además, en segunda instancia y de forma exclusiva, de todos aquellos recursos a los que se refiere el artículo 101 del Reglamento n.º 40/94, del Consejo de la Unión Europea, de 20 de diciembre de 1993, sobre la marca comunitaria, y el Reglamento 6/2002, del Consejo de la Unión Europea, de 12 de diciembre de 2001, sobre los dibujos y modelos comunitarios. En el ejercicio de esta competencia extenderán su jurisdicción a todo el territorio nacional y a estos solos efectos se denominarán Tribunales de Marca Comunitaria.
 
+Las Audiencias Provinciales conocerán, asimismo, de los recursos que establezca la ley contra las resoluciones dictadas en materia civil por los Juzgados de Violencia sobre la Mujer de la provincia. A fin de facilitar el conocimiento de estos recursos, y atendiendo al número de asuntos existentes, podrán especializarse una o varias de sus secciones de conformidad con lo previsto en el artículo 98 de la citada Ley Orgánica.
+
 5. Corresponde igualmente a las Audiencias Provinciales el conocimiento:
 
 a) De las cuestiones de competencia en materia civil y penal que se susciten entre Juzgados de la provincia que no tengan otro superior común.
 
 b) De las recusaciones de sus Magistrados, cuando la competencia no esté atribuida a la Sala especial existente a estos efectos en los Tribunales Superiores de Justicia.
+
+> Se añade el párrafo 4º del apartado 1 y el último párrafo del apartado 4 por el art. 45 y 46 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760.
 
 > Se modifica el apartado 4 por el art. 2.4 de la Ley Orgánica 8/2003, de 9 de julio. Ref. BOE-A-2003-13812
 
