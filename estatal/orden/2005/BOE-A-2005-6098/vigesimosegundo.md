@@ -30,6 +30,8 @@ Los Directores o Gerentes de los centros penitenciarios, ejercerán por delegaci
 
 2.4 La designación de las comisiones de servicios con derecho a indemnización en territorio nacional, cuya duración no exceda de cinco días, respecto del personal funcionario y laboral que preste sus servicios en el centro penitenciario.
 
-3. Del Presidente del Organismo Autónomo Trabajo Penitenciario y Formación para el Empleo:
+3. (Derogado)
 
-3.1 Autorizar las reposiciones de fondos de caja fija para la atención de gastos de funcionamiento del Centro Penitenciario del que cada uno sea titular, dentro de las consignaciones presupuestarias que se habiliten a estos efectos, así como formalizar los documentos contables necesarios para llevar a cabo dichas reposiciones.
+3.1 (Derogado)
+
+> Se derogan los puntos 3 y 3.1 por la disposición derogatoria única de la Orden INT/2089/2005, de 17 de junio. Ref. BOE-A-2005-11340.

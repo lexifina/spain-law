@@ -2,7 +2,7 @@
 
 El Subdirector General de Personal de Instituciones Penitenciarias ejercerá, en su ámbito material de competencias, por delegación de las autoridades que se expresan las siguientes atribuciones:
 
-1. Del Ministro Titular del Departamento, en relación con el personal destinado en la Dirección General de Instituciones Penitenciarias y del Director General de Instituciones Penitenciarias respecto del personal destinado en el Organismo Autónomo Trabajo Penitenciario y Formación para el Empleo, salvo lo delegado en los Directores o Gerentes de los Centros Penitenciarios, la aprobación y compromiso de gastos correspondientes al capítulo I «Gastos de personal», el reconocimiento de la obligación y la propuesta de pago dirigida al Ministerio de Economía y Hacienda con excepción de los gastos que se tramiten al amparo del Texto Refundido de la Ley de Contratos de las Administraciones Públicas.
+1. Del Ministro Titular del Departamento, en relación con el personal destinado en la Dirección General Instituciones Penitenciarias, salvo lo delegado en los Directores o Gerentes de los Centros Penitenciarios, la aprobación y compromiso de gastos correspondientes al capítulo I "Gastos de personal", el reconocimiento de la obligación y la propuesta de gasto dirigida al Ministerio de Economía y Hacienda con excepción de los gastos que se tramiten al amparo del Texto Refundido de la Ley de Contratos de las Administraciones Públicas.
 
 2. Del Subsecretario del Interior:
 
@@ -28,7 +28,7 @@ El Subdirector General de Personal de Instituciones Penitenciarias ejercerá, en
 
 2.1.10 Todos aquellos actos de administración y gestión ordinaria no atribuidos por esta Orden a otros órganos de la Dirección General de Instituciones Penitenciarias.
 
-2.2 Respecto al personal funcionario destinado en los servicios centrales de la Dirección General de Instituciones Penitenciarias y en el Organismo Autónomo Trabajo Penitenciario y Formación para el Empleo:
+2.2 Respecto al personal funcionario destinado en los servicios centrales de la Dirección General de Instituciones Penitenciarias.
 
 2.2.1 Dar posesión y cese a los funcionarios.
 
@@ -48,7 +48,7 @@ El Subdirector General de Personal de Instituciones Penitenciarias ejercerá, en
 
 2.3.3 La jubilación cualquiera que sea su carácter, de funcionarios en situación distinta a la de servicio activo, excluido el personal en situación de servicio en Comunidades Autónomas.
 
-2.4 Respecto al personal laboral destinado en la Dirección General de Instituciones Penitenciarias y en el Organismo Autónomo Trabajo Penitenciario y Formación para el Empleo:
+2.4 Respecto al personal laboral destinado en los servicios centrales de la Dirección General de Instituciones Penitenciarias.
 
 2.4.1 La formalización de contratos de trabajo para personal fijo y temporal y, en su caso, de las cláusulas adicionales de los mismos.
 
@@ -67,3 +67,5 @@ El Subdirector General de Personal de Instituciones Penitenciarias ejercerá, en
 2.4.8 La resolución de las reclamaciones previas a la vía judicial laboral.
 
 2.4.9 La propuesta e informe sobre autorización de compatibilidades.
+
+> Se modifican los puntos 1, 2.2 y 2.4 por le disposición final 1.2 de la Orden INT/2089/2005, de 17 de junio. Ref. BOE-A-2005-11340.

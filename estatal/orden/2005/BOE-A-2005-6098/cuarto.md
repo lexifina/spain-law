@@ -10,6 +10,8 @@ El Director General de la Policía ejercerá por delegación de las autoridades 
 
 1.3 La aceptación de las donaciones de bienes muebles, en el ámbito de sus competencias, cuando el donante hubiera señalado el fin a que deben destinarse, conforme al artículo 21.1 de la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas.
 
+1..4 La resolución de las prohibiciones expresas de entrada en España por las causas señaladas en el artículo 10 d) del Reglamento de ejecución de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, aprobado por Real Decreto 2393/2004, de 30 de diciembre.
+
 2. Del Ministro Titular del Departamento y del Secretario de Estado de Seguridad, salvo las facultades delegadas en otros órganos:
 
 2.1 La gestión de la nómina, aprobación y compromiso de los gastos correspondientes al Servicio 03, Capítulo I «Gastos de personal», el reconocimiento de las obligaciones que de ellos se derive, así como la propuesta al Ministro de Economía y Hacienda de la ordenación de los pagos correspondientes, sin límite de cuantía.
@@ -29,5 +31,7 @@ El Director General de la Policía ejercerá por delegación de las autoridades 
 4. Del Subsecretario del Interior, las siguientes facultades:
 
 4.1 Designar las comisiones de servicio con derecho a indemnización respecto a todo el personal adscrito al centro directivo, hasta el límite del crédito, salvo las facultades delegadas en otros órganos.
+
+> Se añade el punto 1.4 por la disposición final 1.1 de la Orden INT/2089/2005, de 17 de junio. Ref. BOE-A-2005-11340.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 2005. Ref. BOE-A-2005-8407.
