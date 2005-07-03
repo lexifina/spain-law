@@ -14,7 +14,7 @@ Cuarta Unidad de Intervención Policial, con base en Sevilla y ámbito de actuac
 
 Quinta Unidad de Intervención Policial, con bases en Granada y Málaga y ámbito de actuación preferente en las provincias de Granada, Málaga, Almería, Jaén y Ciudad de Melilla.
 
-Sexta Unidad de Intervención Policial, con base en Bilbao y ámbito de actuación preferente en las provincias de Vizcaya, Álava, Guipúzcoa y Navarra.
+Sexta Unidad de Intervención Policial, con bases en Pamplona y Bilbao y ámbito de actuación preferente en las provincias de Vizcaya, Álava, Guipúzcoa y Navarra.
 
 Séptima Unidad de Intervención Policial, con base en Valladolid y ámbito de actuación preferente en las provincias de Valladolid, León, Palencia, Burgos, Soria, Ávila, Segovia, Zamora, La Rioja y Salamanca.
 
@@ -22,7 +22,9 @@ Octava Unidad de Intervención Policial, con bases en A Coruña y Vigo y ámbito
 
 Novena Unidad de Intervención Policial, con base en Oviedo y ámbito de actuación preferente en las provincias de Asturias y Cantabria.
 
-Décima Unidad de Intervención Policial, con bases en las Palmas de Gran Canaria y Santa Cruz de Tenerife y ámbito de actuación preferente en las provincias de Las Palmas y Santa Cruz de Tenerife.
+Décima Unidad de Intervención Policial, con bases en Las Palmas de Gran Canaria y Santa Cruz de Tenerife y ámbito de actuación preferente en las provincias de Las Palmas y Santa Cruz de Tenerife.
+
+> Se modifica por la disposición adicional 8 de la Orden INT/2103/2005, de 1 de julio. Ref. BOE-A-2005-11370.
 
 > Se modifica por el apartado 1 de la Orden de 11 de diciembre de 2000. Ref. BOE-A-2000-22619.
 

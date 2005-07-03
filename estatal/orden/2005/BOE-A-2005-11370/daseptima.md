@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Sustituciones y suplencias.
+
+Las sustituciones de los titulares de las unidades, no previstas expresamente en la presente Orden, en los casos de vacante ausencia o enfermedad, se efectuará de acuerdo con los criterios del artículo 17.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y a falta de designación expresa corresponderá ejercer la sustitución a los responsables de las unidades inmediatamente inferiores, en el orden en que estén relacionadas en el catálogo de puestos de trabajo.

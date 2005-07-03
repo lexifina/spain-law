@@ -1,0 +1,9 @@
+## Decimoctavo. Puestos Fronterizos.
+
+Son los pasos habilitados de entrada y salida del territorio nacional de españoles y extranjeros. Realizarán las funciones de control, de carácter fijo y móvil, de entrada y salida de personas del territorio nacional, así como la seguridad interior de los aeropuertos cuando tuvieran su sede en los mismos.
+
+Tienen también la consideración de Puestos Fronterizos aquellos puertos, aeropuertos y pasos terrestres que estén reconocidos, o puedan serlo en el futuro, como frontera exterior Schengen.
+
+Cuando las localidades en las que se encuentren los Puestos Fronterizos cuenten con Comisarías de Policía, estarán integrados en la estructura orgánica de ésta. En los demás casos, formarán parte de la estructura de la respectiva Comisaría Provincial.
+
+Existirán en las localidades reflejadas en el Anexo IV de esta Orden.

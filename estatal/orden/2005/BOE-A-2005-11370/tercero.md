@@ -1,0 +1,15 @@
+## Tercero. Subdirección General del Gabinete Técnico.
+
+Estará integrada por las siguientes unidades:
+
+Uno. Secretaría General.–Le corresponde prestar asistencia y apoyo al Subdirector General en el ejercicio de sus funciones, y gestionar los medios personales y materiales asignados a la Subdirección. De ella dependerá el Registro General Auxiliar del Registro General del Departamento en la Dirección General de la Policía, el servicio de traducción e interpretación de idiomas, el de Protocolo, encargado de desarrollar las relaciones públicas y organizar los actos institucionales y corporativos que lleve a cabo la Dirección General, y el de Apoyo Tecnológico con la misión, entre otras, de crear, gestionar y mantener las páginas web de la Dirección General de la Policía.
+
+Dos. Área de Estudios y Proyectos Normativos.–Con las funciones de estudio, preparación y elaboración de proyectos normativos del ámbito competencial de la Dirección General, informar los proyectos de disposiciones de carácter general sometidos a la consideración del mismo Órgano Directivo y la elaboración de informes de contenido jurídico, que sobre los asuntos relacionados con las competencias de la Dirección General, le sean encomendados.
+
+Tres. Área de Relaciones Institucionales.–Le corresponderá la preparación y elaboración de los proyectos de respuesta a las preguntas e interpelaciones parlamentarias, quejas y recomendaciones del Defensor del Pueblo y cuestiones que planteen los ciudadanos e instituciones sobre el funcionamiento de los servicios competencia de la Dirección General, así como la preparación de los informes y documentación en orden a la participación y comparecencia del las Autoridades policiales ante otras instituciones.
+
+Cuatro. Unidad de Relaciones Informativas y Sociales.–Con las misiones de planificar, preparar, coordinar y realizar las comunicaciones y relaciones de los Órganos Directivos con los medios de comunicación social. Esta Unidad y su responsable dependerán funcionalmente, de forma directa, del Director General.
+
+Cinco. Instituto de Estudios de Policía.–Con las funciones de promover la modernización y perfeccionamiento de los métodos y técnicas profesionales, la profundización en los conocimientos sobre necesidades sociales en relación con la Policía y la coordinación de las publicaciones de la Dirección General. Esta Unidad y su responsable dependerán funcionalmente, de forma directa, del Director General.
+
+Seis. Centro de Cooperación Cultural y Prospectiva.–Con las funciones de desarrollo de programas y proyectos de colaboración con las Universidades y otras entidades relacionadas con las actividades científicas, así como de propiciar la creación de aquellos instrumentos o entes que fueren precisos para la consecución de los indicados objetivos, con el fin de promover la investigación y desarrollo en el ámbito de las materias relacionadas con la seguridad pública y la investigación policial. Esta Unidad y su responsable dependerán funcionalmente, de forma directa, del Director General.

@@ -1,0 +1,3 @@
+## Vigésimo primero. Dependencia.
+
+Las Unidades que integran la organización periférica de la Dirección General de la Policía tendrán dependencia funcional de los órganos centrales correspondientes a su área de actividad policial, a través de la estructura orgánica y jerárquica de mando, que se establece en la presente Orden, sin perjuicio de las funciones de jefatura y dirección de las Fuerzas y Cuerpos de Seguridad del Estado que corresponden a los Delegados del Gobierno, Subdelegados o Directores Insulares, según los casos, quienes las ejercerán bajo la dependencia funcional del Ministerio del Interior.
