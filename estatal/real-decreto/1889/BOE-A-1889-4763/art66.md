@@ -1,6 +1,8 @@
 ## Artículo 66.
 
-El marido y la mujer son iguales en derechos y deberes.
+Los cónyuges son iguales en derechos y deberes.
+
+> Se modifica por el art. único.2 de la Ley 13/2005, de 1 de julio. Ref. BOE-A-2005-11364.
 
 > Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.
 
