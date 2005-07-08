@@ -136,6 +136,8 @@ Art. 135. Aunque no haya prueba directa de la generación o del parto, podrá de
 
 Art. 136. El marido podrá ejercitar la acción de impugnación de la paternidad en el plazo de un año contado desde la inscripción de la filiación en el Registro Civil. Sin embargo, el plazo no correrá mientras el marido ignore el nacimiento.
 
+> Téngase en cuenta que se declara la inconstitucionalidad del párrafo destacado por Sentencias del TC 138/2005, de 26 de mayo, Ref. BOE-T-2005-10545 y 156/2005, de 9 de junio. Ref. BOE-T-2005-11743
+
 Si el marido falleciere antes de transcurrir el plazo señalado en el párrafo anterior, la acción corresponde a cada heredero por el tiempo que faltare para completar dicho plazo.
 
 Fallecido el marido sin conocer el nacimiento, el año se contará desde que lo conozca el heredero.
@@ -157,3 +159,7 @@ Cuando exista posesión de estado, la acción de impugnación corresponderá a q
 Los hijos tendrán en todo caso acción durante un año después de haber llegado a la plena capacidad.
 
 Art. 141. La acción de impugnación del reconocimiento realizado mediante error, violencia o intimidación corresponde a quien lo hubiere otorgado. La acción caducará al año del reconocimiento o desde que cesó el vicio de consentimiento, y podrá ser ejercitada o continuada por los herederos de aquél, si hubiere fallecido antes de transcurrir el año.
+
+> Se declara la inconstitucionalidad del párrafo primero del art. 136 por Sentencia del TC 138/2005, de 26 de mayo. Ref. BOE-T-2005-10545.
+
+> En el mismo sentido se pronuncia la Sentencia del TC 156/2005, de 9 de junio. Ref. BOE-T-2005-11743.
