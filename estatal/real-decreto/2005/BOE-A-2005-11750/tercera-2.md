@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Autoridad competente durante los períodos 2005/2006 y 2006/2007.
+
+Durante los períodos 2005/2006 y 2006/2007, inclusive, la autoridad competente definida en el artículo 2.j) será el FEGA. Todas las referencias contenidas en este real decreto a la autoridad competente o a la autoridad competente de la comunidad autónoma deberán entenderse referidas al FEGA en todo lo relativo a dicho período de tasa. No obstante, a partir del inicio del período 2006/2007, las autoridades competentes de las comunidades autónomas, podrán asumir plenamente las funciones establecidas en este real decreto y lo notificarán previamente al FEGA antes del 31 de diciembre de 2005.
