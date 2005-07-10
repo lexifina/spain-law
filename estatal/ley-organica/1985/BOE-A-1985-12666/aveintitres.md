@@ -44,9 +44,13 @@ e) Los delitos relativos a la prostitución y los de corrupción de menores o in
 
 f) Tráfico ilegal de drogas psicotrópicas, tóxicas y estupefacientes.
 
-g) Y cualquier otro que, según los tratados o convenios internacionales, deba ser perseguido en España.
+g) Los relativos a la mutilación genital femenina, siempre que los responsables se encuentren en España.
+
+h) Y cualquier otro que, según los tratados o convenios internacionales, deba ser perseguido en España.
 
 5. En los supuestos de los apartados 3 y 4 será de aplicación lo dispuesto en la letra c) del apartado 2 de este artículo.
+
+> Se reordena la letra g) como h) y se añade la letra g) del apartado 4 por el art. único de la Ley Orgánica 3/2005, de 8 de julio. Ref. BOE-A-2005-11863.
 
 > Se modifican los apartados 2.a) y 4.e) por la disposición final única de la Ley Orgánica 11/1999, de 30 de abril. Ref. BOE-A-1999-9744
 

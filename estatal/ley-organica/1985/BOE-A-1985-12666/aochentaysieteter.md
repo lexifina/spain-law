@@ -1,4 +1,4 @@
-## Artículo 87 ter
+## Artículo 87 ter.
 
 1. Los Juzgados de Violencia sobre la Mujer conocerán, en el orden penal, de conformidad en todo caso con los procedimientos y recursos previstos en la Ley de Enjuiciamiento Criminal, de los siguientes supuestos:
 
@@ -9,6 +9,8 @@ b) De la instrucción de los procesos para exigir responsabilidad penal por cual
 c) De la adopción de las correspondientes órdenes de protección a las víctimas, sin perjuicio de las competencias atribuidas al Juez de Guardia.
 
 d) Del conocimiento y fallo de las faltas contenidas en los títulos I y II del libro III del Código Penal, cuando la víctima sea alguna de las personas señaladas como tales en la letra a) de este apartado.
+
+e) Dictar sentencia de conformidad con la acusación en los casos establecidos por la ley.
 
 2. Los Juzgados de Violencia sobre la Mujer podrán conocer en el orden civil, en todo caso de conformidad con los procedimientos y recursos previstos en la Ley de Enjuiciamiento Civil, de los siguientes asuntos:
 
@@ -39,5 +41,7 @@ d) Que se hayan iniciado ante el Juez de Violencia sobre la Mujer actuaciones pe
 4. Cuando el Juez apreciara que los actos puestos en su conocimiento, de forma notoria, no constituyen expresión de violencia de género, podrá inadmitir la pretensión, remitiéndola al órgano judicial competente.
 
 5. En todos estos casos está vedada la mediación.
+
+> Se añade la letra e) del apartado 1 por la disposición final 1 de la Ley Orgánica 3/2005, de 8 de julio. Ref. BOE-A-2005-11863.
 
 > Se añade por el art. 44 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760.
