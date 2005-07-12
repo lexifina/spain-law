@@ -24,7 +24,7 @@ Estados Unidos de América:
 
 Francia:
 
-1. Agrupación de Creteil.
+1. (Suprimido)
 
 2. Agrupación de Estrasburgo.
 
@@ -67,5 +67,7 @@ Suiza:
 6. Agrupación de Zurich.
 
 7. Agrupación de Neuchatel.
+
+> Se suprime el punto 1 de Francia, con efectos a partir del curso académico 2005-2006, por el apartado 1 de la Orden ECI/1922/2005, de 3 de junio. Ref. BOE-A-2005-10595.
 
 > Se suprime el punto 2 del Reino Unido de Gran Bretaña, con efectos a partir del curso académico 2001-2002, por el apartado 1 de la Orden de 27 de septiembre de 2001. Ref. BOE-A-2001-19399.
