@@ -114,6 +114,8 @@ e) Hora:
 
 13. En su caso, portal informático o página web donde figuren las informaciones relativas a la convocatoria o donde pueden obtenerse los pliegos.
 
+14. En su caso, sistema de notificación telemática aplicable.
+
 C. Modelo de anuncio para la licitación de los contratos de gestión de servicios públicos
 
 1. Entidad adjudicadora.
@@ -197,6 +199,8 @@ e) Hora:
 11. Gastos de anuncios.
 
 12. En su caso, portal informático o página web donde figuren las informaciones relativas a la convocatoria o donde pueden obtenerse los pliegos.
+
+13. En su caso, sistema de notificación telemática aplicable.
 
 D. Modelo de anuncio para la licitación de los contratos de suministro
 
@@ -287,6 +291,8 @@ e) Hora:
 12. Fecha de envío del anuncio al «Diario Oficial de las Comunidades Europeas» (en su caso).
 
 13. En su caso, portal informático o página web donde figuren las informaciones relativas a la convocatoria o donde pueden obtenerse los pliegos.
+
+14. En su caso, sistema de notificación telemática aplicable.
 
 E. Modelo de anuncio para la licitación de los contratos de consultoría y asistencia y de los contratos de servicios
 
@@ -380,6 +386,8 @@ e) Hora:
 
 13. En su caso, portal informático o página web donde figuren las informaciones relativas a la convocatoria o donde pueden obtenerse los pliegos.
 
+14. En su caso, sistema de notificación telemática aplicable.
+
 F. Modelo de anuncio para la licitación de los contratos administrativos especiales
 
 1. Entidad adjudicadora.
@@ -466,6 +474,8 @@ e) Hora:
 
 12. En su caso, portal informático o página web donde figuren las informaciones relativas a la convocatoria o donde pueden obtenerse los pliegos.
 
+13. En su caso, sistema de notificación telemática aplicable.
+
 G. Modelo de anuncio de adjudicación de contratos de obras, de suministro, de consultoría y asistencia, de servicios y de los contratos administrativos especiales
 
 1. Entidad adjudicadora.
@@ -545,3 +555,5 @@ c) Nacionalidad:
 d) Importe o canon de adjudicación:
 
 e) Plazo de adjudicación:
+
+> Se modifican los modelos B) a F) por el art. 10 de la Orden EHA/1307/2005, de 29 de abril. Ref. BOE-A-2005-7774.
