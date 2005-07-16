@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Excepción temporal al sistema de provisión de puestos de Inspectores de servicio.
+
+Durante un plazo máximo de tres años a partir de la publicación de este real decreto, con carácter excepcional y por causas justificadas, podrá convocarse la provisión de puestos de trabajo de inspector de servicios de las inspecciones generales sin que se requiera la acreditación a que hace referencia el primer inciso del artículo 15.2.d). Los ocupantes de dichas plazas quedarán obligados a participar en el primer curso selectivo sobre el desarrollo de la función inspectora que se convoque con posterioridad a su nombramiento.

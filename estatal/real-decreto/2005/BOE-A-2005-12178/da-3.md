@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Funciones específicas de las inspecciones generales de los Ministerios de Fomento y de Medio Ambiente.
+
+A las inspecciones generales de servicios de los Ministerios de Fomento y de Medio Ambiente les corresponden, además de las funciones establecidas en el capítulo II, las de análisis y control de la obra pública de competencia de sus respectivos departamentos, en sus aspectos técnico, funcional y administrativo. El régimen de selección de los inspectores asignados a las áreas funcionales de inspección técnica de las obras públicas será el previsto en la normativa general de la función pública para la provisión de puestos de trabajo.

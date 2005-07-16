@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Normativa específica de la Inspección de los Servicios del Ministerio de Economía y Hacienda.
+
+La Inspección de los Servicios del Ministerio de Economía y Hacienda se regirá por su normativa específica, constituida por las normas enumeradas en el artículo 3 del Real Decreto 1733/1998, de 31 de julio, sobre proce-dimiento de actuaciones de la Inspección de los Servicios del Ministerio de Economía y Hacienda, por el propio Real Decreto 1733/1998, de 31 de julio, y por la Orden de 8 de octubre de 1998, por la que se dictan normas sobre los procedimientos de actuación de la Inspección de los Servicios del Ministerio de Economía y Hacienda.
