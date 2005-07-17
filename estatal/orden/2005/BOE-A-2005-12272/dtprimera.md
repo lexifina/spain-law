@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Regularización de la situación de los funcionarios interinos.
+
+Hasta la constitución y entrada en vigor de las nuevas bolsas de trabajo, los funcionarios que estén efectivamente desempeñando un puesto de trabajo en virtud de nombramiento, así como los aspirantes de la bolsa de trabajo vigente que se encuentren en expectativa de nombramiento, continuarán en la misma situación. En dicho momento, las Gerencias Territoriales y la Subdirección General de Medios Personales al servicio de la Administración de Justicia, procederán a regularizar su situación, de conformidad con lo dispuesto en la Disposición Transitoria Decimotercera de la Ley Orgánica 19/2003, de 23 de diciembre, de modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+
+Los interinos que cesen como consecuencia del proceso de regularización, con carácter excepcional, y por una sola vez, serán incluidos al principio de la nueva bolsa del Cuerpo que corresponda, según el orden de puntuación.
