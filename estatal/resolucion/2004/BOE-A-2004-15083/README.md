@@ -24,4 +24,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Décima](de.md)
 - [Undécima](un.md)
 - [Duodécima](du.md)
+- [Decimotercera](de-2.md)
+- [Decimocuarta](de-3.md)
 - [(firma)](fi.md)

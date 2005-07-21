@@ -1,3 +1,7 @@
-## Décima. Instrucción transitoria.
+## Décima. Anuncios de subastas de bienes embargados en Boletines Oficiales.
 
-La competencia atribuida en materia de aplazamientos por esta Resolución a los Jefes de las Unidades de Recaudación Ejecutiva de la Seguridad Social será ejercitada por los Directores de las Administraciones de la Seguridad Social en tanto esta Dirección General, mediante Instrucción dictada al efecto, no determine otra cosa en función de las circunstancias concurrentes, tanto organizativas como estructurales y de disponibilidad de recursos humanos, etc., Instrucción que, en su caso, podrá prever que la atribución competencial al respecto a los Jefes de la Unidades de Recaudación Ejecutiva se implante de manera progresiva en el tiempo y en las distintas Direcciones Provinciales de la Tesorería General, en función de las circunstancias concurrentes.
+Cuando la valoración de los bienes o lotes de bienes embargados objeto de enajenación supere la cuantía de 600.000 euros, el anuncio de subasta de los bienes embargados en un expediente de apremio deberá insertarse en el Boletín Oficial de la Provincia o de la Comunidad Autónoma, en los términos establecidos en el artículo 117.1 del Reglamento General de Recaudación de la Seguridad Social.
+
+> Se renumera por la instrucción primera.4 de la Resolución de 4 de julio de 2005. Ref. BOE-A-2005-12460
+
+> Su anterior numeración era Octava.
