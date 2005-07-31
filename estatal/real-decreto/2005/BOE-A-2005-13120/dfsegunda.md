@@ -1,0 +1,3 @@
+## Disposición final segunda. Facultad de desarrollo.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para adoptar, en el ámbito de sus atribuciones, las disposiciones y medidas necesarias para el desarrollo de lo dispuesto en este real decreto. En particular, se le faculta para la modificación de los anexos en función de la experiencia adquirida y los avances técnicos, así como para su adaptación de acuerdo con las modificaciones introducidas por la normativa comunitaria y para la modificación de las fechas mencionadas en los artículos 10.4 y 9.2. Asimismo, se faculta al Ministro de Agricultura, Pesca y Alimentación para desarrollar el sistema de financiación establecido en el artículo 16.

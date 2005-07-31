@@ -2,14 +2,6 @@
 
 ## Hojas de ganado ovino y caprino
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/52/04584_009.png)
+## (Suprimido)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/52/04584_010.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/52/04584_011.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/52/04584_012.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/52/04584_013.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/52/04584_014.png)
+> Se suprime por la disposición final 4.9 del Real Decreto 947/2005, de 29 de julio. Ref. BOE-A-2005-13120.

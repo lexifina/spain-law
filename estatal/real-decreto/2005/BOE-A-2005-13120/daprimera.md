@@ -1,0 +1,5 @@
+## Disposición adicional primera. Obligaciones respecto a la trazabilidad para los productores de leche de oveja y cabra.
+
+1. Los productores de leche de oveja y cabra que comercialicen leche deberán anotar en un registro todas las entregas de leche realizadas. El formato de libro de registro de entregas de leche será establecido por la autoridad competente, se llevará de forma manual o informatizada y en él se cumplimentarán, al menos, la fecha de la entrega, la cantidad de producto (leche de oveja o cabra) en kg, la matrícula del vehículo que realiza la recogida y el destino de la leche (comprador) y, en su caso, relación con el documento comercial asociado (albarán).
+
+2. El registro de entregas de leche asociado a cada explotación servirá a los poseedores a los efectos de cumplir sus obligaciones respecto al seguimiento del producto establecido por el Reglamento (CE) n.° 178/2002 del Parlamento Europeo y del Consejo, de 28 de enero de 2002, por el que se establecen los principios y los requisitos generales de la legislación alimentaria, se crea la Autoridad Europea de Seguridad Alimentaria y se fijan procedimientos relativos a la seguridad alimentaria.
