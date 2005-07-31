@@ -1,0 +1,11 @@
+## Disposición adicional cuarta. Retribuciones del personal que participe o coopere en asistencia técnica policial, operaciones de mantenimiento de la paz y seguridad, humanitarias o de evacuación de personas en el extranjero.
+
+1. El personal de las Fuerzas y Cuerpos de Seguridad del Estado que participe o coopere en asistencia técnica policial, operaciones de mantenimiento de la paz y seguridad, humanitarias o de evacuación de personas en el extranjero percibirá las retribuciones básicas y complementarias de carácter general que le correspondan a su nivel y empleo o categoría profesional y el componente singular del complemento específico asignado al puesto de trabajo de su destino, así como una indemnización que retribuirá las especiales condiciones en que desarrolla su actividad el personal participante en ellas, durante su permanencia en territorio extranjero.
+
+2. Dicha indemnización será fijada por el Ministro del Interior, previo informe del Ministro de Economía y Hacienda, y se percibirá con cargo a los créditos de indemnizaciones por razón del servicio.
+
+3. El importe de la indemnización se fijará para cada empleo o categoría profesional mediante la suma de tres conceptos: complemento de productividad; un porcentaje, como máximo del 100 por cien de la indemnización de residencia eventual, y un porcentaje, como máximo, del 100 por cien del sueldo, complemento de destino y componente general del complemento específico.
+
+4. Las cuantías de este concepto retributivo se abonarán con periodicidad mensual, pero se devengarán por días, y su percepción será incompatible con las indemnizaciones por razón del servicio previstas en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.
+
+5. El personal del Cuerpo de la Guardia Civil que participe en este tipo de operaciones formando parte de contingentes militares percibirá la indemnización a que se refiere el artículo 17 del Reglamento de retribuciones del personal de las Fuerzas Armadas, aprobado por el Real Decreto 662/2001, de 22 de junio, con cargo a los créditos del Ministerio de Defensa específicamente aprobados para estas operaciones. Para el cálculo de la cuantía se tendrán en cuenta las retribuciones básicas y complementarias reguladas en este real decreto.

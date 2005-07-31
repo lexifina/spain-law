@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Real Decreto 311/1988, de 30 de marzo, modificado por los Reales Decretos 8/1995, de 13 de enero, 1847/1996, de 26 de julio, y 2298/2004, de 10 de diciembre, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
