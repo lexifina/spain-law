@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. Ejercicio de funciones hasta la constitución de la Agencia Estatal de Radiocomunicaciones.
+
+Las competencias y funciones administrativas que se atribuyen en este real decreto a la Agencia Estatal de Radiocomunicaciones serán ejercidas por los órganos competentes del Ministerio de Industria, Turismo y Comercio hasta la efectiva constitución de la misma, momento en que, de conformidad con lo dispuesto en el artículo 47 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, pasará a corresponder su ejercicio a dicho organismo.

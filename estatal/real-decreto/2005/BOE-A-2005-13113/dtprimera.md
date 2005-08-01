@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Canal digital de las sociedades concesionarias con tecnología analógica existentes a la entrada en vigor de este real decreto.
+
+El canal digital al que accedieron las sociedades concesionarias del servicio público de televisión con tecnología analógica de ámbito estatal existentes a la entrada en vigor de este real decreto mediante el Acuerdo del Consejo de Ministros, de 10 de marzo de 2000, sobre renovación de sus concesiones, es el mismo al que se refiere el apartado 1 de la disposición adicional segunda, sin perjuicio de las modificaciones técnicas introducidas por este real decreto.

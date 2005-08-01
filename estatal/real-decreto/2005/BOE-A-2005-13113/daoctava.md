@@ -1,0 +1,5 @@
+## Disposición adicional octava. Actualización del software de los equipos terminales de televisión digital terrestre.
+
+1. El Ente Público Radiotelevisión Española y las entidades públicas creadas a tenor de lo establecido en la Ley 46/1983, de 26 de diciembre, reguladora del tercer canal de televisión, deberán proporcionar, en su ámbito territorial de cobertura, la capacidad necesaria para la actualización del software de los equipos terminales de televisión digital terrestre.
+
+2. A tal efecto, el Ente Público Radiotelevisión Española y las entidades públicas creadas a tenor de lo establecido en la Ley 46/1983, de 26 de diciembre, celebrarán los oportunos acuerdos con los fabricantes de los equipos terminales u otras empresas en los que se regule la actualización del software de los equipos terminales de televisión digital terrestre, incluyendo las contraprestaciones económicas que se establezcan. Estos acuerdos deberán celebrarse en condiciones transparentes, objetivas y no discriminatorias.

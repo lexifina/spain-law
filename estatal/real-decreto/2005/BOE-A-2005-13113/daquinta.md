@@ -1,0 +1,9 @@
+## Disposición adicional quinta. Número de canales en cada múltiple digital.
+
+1. A los efectos de este real decreto, cada múltiple digital de cobertura estatal o autonómica integrará, inicialmente, al menos cuatro canales digitales susceptibles de ser explotados las 24 horas del día.
+
+2. Si a una entidad le ha sido asignada la explotación íntegra de un múltiple digital de ámbito estatal o autonómico, podrá emitir el número de canales que técnicamente sean viables, en las condiciones que fije el Gobierno, y siempre que se garantice el mantenimiento de la calidad del servicio. Asimismo, podrá utilizarlo para la emisión de canales de televisión de alta definición, de acuerdo con las condiciones que reglamentariamente fije el Gobierno.
+
+3. En el supuesto de que la explotación de un múltiple digital de cobertura estatal o autonómica no corresponda íntegramente a una entidad, sino que sea compartida entre varias, por los órganos competentes del Ministerio de Industria, Turismo y Comercio se podrá, en función del desarrollo tecnológico futuro y de acuerdo con las condiciones que reglamentariamente fije el Gobierno, establecer un número mayor de canales por múltiple, así como acordar con las entidades que lo exploten la emisión de canales de televisión de alta definición.
+
+4. La capacidad de transmisión del múltiple digital se podrá utilizar para prestar servicios adicionales distintos del de difusión de televisión, como los de transmisión de ficheros de datos y aplicaciones, actualizaciones de software para equipos, entre otros, si bien, en ningún caso, se podrá utilizar más del 20 por ciento de esa capacidad de transmisión del múltiple digital para la prestación de dichos servicios. No obstante, en función del desarrollo de los servicios interactivos y de los asociados a la televisión digital terrestre, el Gobierno podrá decidir la modificación de dicho porcentaje.

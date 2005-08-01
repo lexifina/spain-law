@@ -1,0 +1,7 @@
+## Disposición adicional undécima. Inspección técnica de las instalaciones.
+
+1. Finalizadas las instalaciones y con carácter previo al comienzo de la prestación del servicio, se solicitará la inspección técnica de las instalaciones ante la Agencia Estatal de Radiocomunicaciones. El plazo para verificar que las instalaciones se ajustan al proyecto técnico aprobado será de tres meses.
+
+2. De acuerdo con lo establecido en el artículo 45.4 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, las instalaciones no podrán ser puestas en servicio en tanto no se resuelva favorablemente sobre la verificación. No obstante, en el momento en que se comunique la finalización de las instalaciones y se demande su inspección técnica, podrá solicitarse la autorización para realizar emisiones temporales en pruebas y, en tal caso, sólo podrán efectuarse en las condiciones que se establezcan.
+
+3. La Agencia Estatal de Radiocomunicaciones podrá, en cualquier momento, inspeccionar las instalaciones. La entidad responsable de las instalaciones estará obligada a suministrar cuanta información le sea requerida de conformidad con el artículo 9 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones. Asimismo, la entidad responsable de las instalaciones estará obligada a cumplir las instrucciones que se deriven de la inspección para adaptarse a las características técnicas autorizadas o para resolver las situaciones de interferencias perjudiciales.
