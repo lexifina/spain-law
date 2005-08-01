@@ -1,0 +1,5 @@
+Primero.-En los tramos de las líneas de la red ferroviaria de interés general que discurran por zonas urbanas y siempre que lo permita el planeamiento urbanístico correspondiente, queda establecida la línea límite de edificación a una distancia de veinte metros de la arista exterior más próxima de la plataforma.
+
+Segundo.-Sin perjuicio de lo anterior, será posible asimismo reducir la distancia señalada en el apartado precedente en casos singulares siempre y cuando la reducción que se pretenda redunde en una mejora de la ordenación urbanística y no cause perjuicio a la explotación ferroviaria, previa solicitud del interesado y tramitación del correspondiente expediente administrativo, que deberá en todo caso ser informado favorablemente por el administrador de la infraestructura ferroviaria correspondiente.
+
+Esta orden se dicta por delegación de la Ministra de Fomento, conforme a lo previsto en la Orden FOM/1323/2005, de 5 de mayo, por la que se delega la competencia para la modificación de la línea límite de edificación en las líneas ferroviarias.
