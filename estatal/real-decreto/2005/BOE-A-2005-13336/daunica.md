@@ -1,0 +1,3 @@
+## Disposición adicional única. Referencias a la normativa derogada.
+
+Las referencias que se contengan, en la normativa aplicable, al Real Decreto 2599/1998, de 4 diciembre, sobre los aditivos en la alimentación de los animales, al Real Decreto 1329/1995, de 28 de julio, por el que se fijan las líneas directrices para la evaluación de los aditivos en la alimentación animal, y a los apartados 2.1, 3 y 4 del anexo de la Orden del Ministerio de Agricultura, Pesca y Alimentación, de 31 de octubre de 1988, relativa a determinados productos utilizados en la alimentación de los animales, se entenderán hechas a este real decreto y al Reglamento (CE) n.º 1831/2003.
