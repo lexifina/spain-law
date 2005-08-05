@@ -24,7 +24,7 @@ h) El ejercicio de actividades públicas o privadas incompatibles con el desempe
 
 i) La participación en huelgas, en acciones sustitutivas de las mismas, o en actuaciones concertadas con el fin de alterar el normal funcionamiento de los servicios.
 
-j) Haber sido sancionado por la comisión de tres o mas faltas graves en el período de un año.
+j) (Anulado)
 
 k) La falta de colaboración manifiesta con los demás miembros de las Fuerzas y Cuerpos de Seguridad.
 
@@ -47,3 +47,5 @@ e) Reincidencia.
 f) En general, su trascendencia para la seguridad ciudadana.
 
 5. Incurrirán en la misma responsabilidad que los autores de una falta los que induzcan a su comisión y los Jefes que la toleren. Asimismo, incurrirán en falta de inferior grado los que encubrieran la comisión de una falta.
+
+> Se declara la inconstitucionalidad y nulidad de la letra j) del apartado 3 por Sentencia del TC 188/2005, de 7 de julio. Ref. BOE-T-2005-13466
