@@ -26,6 +26,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Noveno](noveno.md)
 - [Décimo](decimo.md)
 - [Undécimo](undecimo.md)
+- [III.bis. Disposición adicional](iiibisda.md)
 - [IV](iv.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
