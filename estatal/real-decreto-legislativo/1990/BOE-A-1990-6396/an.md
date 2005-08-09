@@ -1,4 +1,4 @@
-## ANEXO
+## ANEXO I
 
 A los efectos de esta Ley y sus disposiciones complementarias, se entiende por:
 
@@ -16,7 +16,7 @@ Son también peatones quienes empujan o arrastran un coche de niño o de impedid
 
 6. Bicicleta: Ciclo de dos ruedas.
 
-7. Ciclomotor: tienen la condición de ciclomotores los vehículos que se definen a continuación:
+7. Ciclomotor:tienen la condición de ciclomotores los vehículos que se definen a continuación:
 
 a) Vehículo de dos ruedas, provistos de un motor de cilindrada no superior a 50 cm3, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h.
 
@@ -211,6 +211,8 @@ c) Constar de distintas calzadas para cada sentido de circulación, separadas en
 79. Glorieta. Se entiende por glorieta un tipo especial de intersección caracterizado por que los tramos que en él confluyen se comunican a través de un anillo en el que se establece una circulación rotatoria alrededor de una isleta central. No son glorietas propiamente dichas las denominadas glorietas partidas en las que dos tramos, generalmente opuestos, se conectan directamente a través de la isleta central, por lo que el tráfico pasa de uno a otro y no la rodea.
 
 80. Carril para vehículos con alta ocupación. Es aquel especialmente reservado o habilitado para la circulación de los vehículos con alta ocupación.
+
+> Se numera como anexo I por el art. único.26 de la Ley 17/2005, de 19 de julio. Ref. BOE-A-2005-12458
 
 > Se suprime el apartado 63, se modifican los apartados 62, 64 y 66, se reenumeran los apartados 64 a 75 como 63 a 74 y se añaden los apartados 75 a 80 por la disposición final 1 del Real Decreto 1428/2003, de 21 de noviembre. Ref. BOE-A-2003-23514
 
