@@ -2,4 +2,6 @@
 
 ## Del Consejo de Consumidores y Usuarios
 
+> Se deroga por la disposición derogatoria única del Real Decreto 894/2005, de 22 de julio. Ref. BOE-A-2005-14550.
+
 > Se modifica por el art. único del Real Decreto 1203/2002, de 20 de noviembre. Ref. BOE-A-2002-23341.

@@ -1,3 +1,5 @@
 ## Disposición adicional.
 
-El Consejo de Consumidores y Usuarios regulado en el presente Real Decreto promoverá el establecimiento de relaciones de colaboración con los Consejos que, de acuerdo con sus competencias, puedan crear las Comunidades Autónomas como órganos de representación y consulta de los consumidores y usuarios en sus respectivos ámbitos territoriales.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 894/2005, de 22 de julio. Ref. BOE-A-2005-14550.
