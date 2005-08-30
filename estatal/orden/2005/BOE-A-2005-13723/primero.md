@@ -1,0 +1,3 @@
+## Primero. Objeto de la Orden.
+
+Esta Orden tiene por objeto determinar el contenido, la duración y los requisitos de los cursos de sensibilización y reeducación vial que han de realizar los titulares de un permiso o licencia de conducción para la recuperación parcial de puntos, o como requisito previo para poder obtener de nuevo la autorización para conducir cuya pérdida de vigencia haya sido declarada como consecuencia de haber perdido la totalidad de los puntos asignados, o para poder volver a conducir tras haber sido condenado por sentencia firme por la comisión de un delito castigado con la privación del derecho a conducir un vehículo a motor o un ciclomotor.
