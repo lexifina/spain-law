@@ -96,6 +96,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 56 bis 6](a56bis6.md)
 - [Artículo 56 bis 7](a56bis7.md)
 - [Artículo 56 bis 8](a56bis8.md)
+- [Artículo 56 bis 9](a56bis9.md)
 - [Sección tercera](stercera.md)
 - [Artículo 57](a57.md)
 - [Artículo 58](a58.md)
