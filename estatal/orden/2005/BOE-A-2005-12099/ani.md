@@ -1,0 +1,803 @@
+## ANEXO I
+
+## Catálogo General de Material Ortoprotésico
+
+Normas de carácter general
+
+Renovación.–Existen dos tipos de renovación:
+
+a) Renovación ordinaria.–Deberá transcurrir el tiempo indicado en el Catálogo General de Material Ortoprotésico para cada artículo. Para realizar el cómputo de los plazos se tendrá en cuenta la fecha de la factura.
+
+b) Renovación extraordinaria.–Para este tipo de renovación no existe limitación temporal. El motivo de esta renovación podrá ser la variación de la talla u otra condición esencial de la prótesis, siendo imprescindible la presentación de un informe de facultativo que justifique la necesidad de esta variación. Para realizar el cómputo del plazo en la renovación ordinaria posterior se tendrá en cuenta la fecha de la factura presentada para la renovación por variación.
+
+Reparación.–En el caso de los artículos que precisen algún tipo de reparación, la cuantía de la ayuda será como máximo el 50% de la ayuda establecida para su adquisición.
+
+Indicaciones.–En el caso de aquellos artículos en los que se recogen indicaciones expresas, la concesión de las ayudas quedará condicionada al cumplimiento de las mismas.
+
+| Grupo | Subgrupo | Producto | Descripción | Financiación MUFACE | Período renovación |
+| --- | --- | --- | --- | --- | --- |
+| Euros | (en meses) |
+|  |  |  | PRÓTESIS EXTERNAS |  |  |
+|  |  |  | No se consideran incluidas las estructuras y articulaciones con control por microprocesador |  |  |
+| 0618 |  |  | PRÓTESIS DE MIEMBRO SUPERIOR |  |  |
+| 0618 | 03 | – | PRÓTESIS PARCIALES DE MANO, INCLUYENDO LAS PRÓTESIS DE DEDO |  | – |
+| 0618 | 03 |  | Prótesis para amputación parcial de mano, incluido el pulgar |  | – |
+| 0618 | 03 | 001 | Prótesis funcional para la amputación del pulgar. Artículo completo que no precisa accesorios | 550 | 24 |
+| 0618 | 03 | 003 | Prótesis funcional para la amputación parcial de mano y dedos, incluido el pulgar. Artículo completo que no precisa accesorios | 650 | 24 |
+| 0618 | 03 |  | Prótesis para amputación parcial de mano y de varios dedos (excluido el pulgar) |  |  |
+| 0618 | 03 | 101 | Prótesis funcional para amputación de dedo o dedos, excluido el pulgar. Artículo completo que no precisa accesorios | 350 | 24 |
+| 0618 | 03 | 103 | Prótesis funcional y estética para la amputación parcial o total de los dedos, excluido el pulgar. Artículo completo que no precisa accesorios | 650 | 24 |
+| 0618 | 06 |  | PRÓTESIS DE DESARTICULACIÓN DE LA MUÑECA |  |  |
+| 0618 | 06 |  | Prótesis pasivas para la desarticulación de muñeca con encaje de antebrazo y mano |  |  |
+| 0618 | 06 | 001 | Prótesis pasiva completa para desarticulación de muñeca, con encaje infracondilar. Artículo completo que no precisa accesorios | 825 | 24 |
+| 0618 | 06 | 003 | Prótesis pasiva completa para desarticulación de muñeca, con encaje supracondilar. Artículo completo que no precisa accesorios | 905 | 24 |
+| 0618 | 06 |  | Prótesis funcionales para la desarticulación de muñeca |  |  |
+| 0618 | 06 | 101 | Prótesis funcional para desarticulación de muñeca, con encaje infracondilar (incluye encaje, sistema de suspensión y control, y guante). La articulación de muñeca y el terminal (mano o pinza) a elección, y se financian a parte. | 1085 | 24 |
+| 0618 | 06 | 103 | Prótesis funcional para desarticulación de muñeca, con encaje supracondilar (incluye encaje, sistema de suspensión y control, y guante). La articulación de muñeca y el terminal (mano o pinza) a elección, y se financian a parte. | 1150 | 24 |
+| 0618 | 06 |  | Prótesis mioeléctricas para la desarticulación de muñeca |  |  |
+| 0618 | 06 | 201 | Prótesis mioeléctrica para desarticulación de muñeca, con encaje infracondilar (incluye encaje, sistema de suspensión, guante, baterías y cargador. La articulación de muñeca, el terminal (mano o pinza) y el sistema de accionamiento a elección, y se financian a parte. | 2865 | 24 |
+| 0618 | 06 | 203 | Prótesis mioeléctrica para desarticulación de muñeca, con encaje supracondilar (incluye encaje, sistema de suspensión, guante, baterías y cargador. La articulación de muñeca, el terminal (mano o pinza) y el sistema de accionamiento a elección, y se financian a parte. | 2950 | 24 |
+| 0618 | 09 |  | PRÓTESIS DE ANTEBRAZO (POR DEBAJO DEL CODO) |  |  |
+| 0618 | 09 |  | Prótesis pasivas de antebrazo |  |  |
+| 0618 | 09 | 001 | Prótesis pasiva completa de antebrazo, de estructura endoesquelética y encaje infracondilar, muñeca y mano. Artículo completo que no precisa accesorios | 830 | 24 |
+| 0618 | 09 | 003 | Prótesis pasiva completa de antebrazo, de estructura endoesquelética y encaje supracondilar, muñeca y mano. Artículo completo que no precisa accesorios | 935 | 24 |
+| 0618 | 09 | 011 | Prótesis pasiva completa de antebrazo, de estructura exoesquelética y encaje infracondilar, muñeca y mano. Artículo completo que no precisa accesorios | 860 | 24 |
+| 0618 | 09 | 013 | Prótesis pasiva completa de antebrazo, de estructura exoesquelética y encaje supracondilar, muñeca y mano. Artículo completo que no precisa accesorios | 910 | 24 |
+| 0618 | 09 |  | Prótesis funcionales de antebrazo |  |  |
+| 0618 | 09 | 101 | Prótesis funcional de antebrazo, de estructura exoesquelética y encaje infracondilar (incluye encaje, sistema de suspensión y control y guante). La articulación de muñeca y el terminal (mano o pinza) a elección, y se financian a parte. | 950 | 24 |
+| 0618 | 09 | 103 | Prótesis funcional de antebrazo, de estructura exoesquelética y encaje supracondilar (incluye encaje, sistema de suspensión y control y guante). La articulación de muñeca y el terminal (mano o pinza) a elección, y se financian a parte. | 1450 | 24 |
+| 0618 | 09 |  | Prótesis mioeléctricas de antebrazo |  |  |
+| 0618 | 09 | 201 | Prótesis mioeléctrica de antebrazo, de estructura exoesquelética y encaje infracondilar (incluye encaje, sistema de suspensión, guante, baterías y cargador). La articulación de muñeca, el terminal (mano o pinza) y el sistema de accionamiento a elección, y se financian a parte. | 2800 | 24 |
+| 0618 | 09 | 203 | Prótesis mioeléctrica de antebrazo, de estructura exoesquelética y encaje supracondilar (incluye encaje, sistema de suspensión, guante, baterías y cargador). La articulación de muñeca, el terminal (mano o pinza) y el sistema de accionamiento a elección, y se financian a parte. | 3000 | 24 |
+| 0618 | 12 |  | PRÓTESIS PARA DESARTICULACIÓN DE CODO |  |  |
+| 0618 | 12 |  | Prótesis pasivas para desarticulación del codo |  |  |
+| 0618 | 12 | 001 | Prótesis pasiva completa para desarticulación del codo, de estructura endoesquelética, codo de desarticulación, muñeca y mano. Artículo completo que no precisa accesorios | 1175 | 24 |
+| 0618 | 12 | 003 | Prótesis pasiva completa para desarticulación del codo, de estructura exoesquelética, codo de desarticulación, muñeca y mano. Artículo completo que no precisa accesorios | 1275 | 24 |
+| 0618 | 12 |  | Prótesis funcionales para desarticulación del codo |  |  |
+| 0618 | 12 | 101 | Prótesis funcional para desarticulación del codo, de estructura exoesquelética (incluye encaje, sistema de suspensión y control y guante). La articulación de codo y de muñeca y el terminal (mano o pinza) a elección, y se financian a parte. | 1650 | 24 |
+| 0618 | 12 |  | Prótesis mioeléctrica para desarticulación de codo |  |  |
+| 0618 | 12 | 201 | Prótesis mioeléctrica para desarticulación del codo, de estructura exoesquelética (incluye encaje, sistema de suspensión, guante, baterías y cargador). La articulación de codo y de muñeca, el terminal (mano o pinza) y el sistema de accionamiento a elección, y se financian a parte. | 3400 | 24 |
+| 0618 | 15 |  | PRÓTESIS DE BRAZO (POR ENCIMA DEL CODO) |  |  |
+| 0618 | 15 |  | Prótesis pasivas de brazo |  |  |
+| 0618 | 15 | 001 | Prótesis pasiva completa para amputación del brazo, de estructura endoesquelética, sistema de suspensión, codo, muñeca y mano. Artículo completo que no precisa accesorios | 1175 | 24 |
+| 0618 | 15 | 003 | Prótesis pasiva completa para amputación del brazo, de estructura exoesquelética, sistema de suspensión, codo, muñeca y mano. Artículo completo que no precisa accesorios | 1275 | 24 |
+| 0618 | 15 |  | Prótesis funcionales de brazo |  |  |
+| 0618 | 15 | 101 | Prótesis funcional de brazo, de estructura exoesquelética (incluye encaje, sistema de suspensión de abrazadera o corselete y control y guante). La articulación de codo y de muñeca y el terminal (mano o pinza) a elección, y se financian a parte | 1790 | 24 |
+| 0618 | 15 |  | Prótesis mioeléctricas de brazo |  |  |
+| 0618 | 15 | 201 | Prótesis mioeléctrica de brazo, de estructura exoesquelética (incluye encaje, sistema de suspensión, guante, baterías y cargador). La articulación de codo y de muñeca, el terminal (mano o pinza) y el sistema de accionamiento a elección, y se financian a parte. | 3400 | 24 |
+| 0618 | 18 |  | PRÓTESIS PARA DESARTICULACIÓN DE HOMBRO |  |  |
+| 0618 | 18 |  | Prótesis pasivas para desarticulación del hombro |  |  |
+| 0618 | 18 | 001 | Prótesis pasiva para desarticulación de hombro, de estructura endoesquelética. Artículo completo que no precisa accesorios | 1450 | 24 |
+| 0618 | 18 | 003 | Prótesis pasiva para desarticulación de hombro, de estructura exoesquelética. Artículo completo que no precisa accesorios | 1550 | 24 |
+| 0618 | 18 |  | Prótesis funcionales para desarticulación del hombro |  |  |
+| 0618 | 18 | 101 | Prótesis funcional para desarticulación de hombro, de estructura exoesquelética (incluye encaje, sistema de suspensión y control y guante). La articulación de hombro, de codo, de muñeca y el terminal (mano o pinza) a elección, y se financian a parte. | 2150 | 24 |
+| 0618 | 18 |  | Prótesis mioeléctricas para desarticulación de hombro |  |  |
+| 0618 | 18 | 201 | Prótesis mioeléctrica para desarticulación de hombro, de estructura exoesquelética (incluye encaje, sistema de suspensión, guante, baterías y cargador). La articulación de hombro, de codo, de muñeca, el terminal (mano o pinza) y el sistema de accionamiento a elección, y se financian a parte. | 2550 | 24 |
+| 0618 | 21 |  | PRÓTESIS PARA AMPUTADOS EN EL CUARTO SUPERIOR (INTERESCAPULOTORÁCICA) |  |  |
+| 0618 | 21 |  | Prótesis pasivas para amputados en el cuarto superior (interescapulotorácicas) |  |  |
+| 0618 | 21 | 001 | Prótesis pasiva para desarticulación interescapulotorácica, de estructura endoesquelética. Artículo completo que no precisa accesorios | 1710 | 24 |
+| 0618 | 21 | 003 | Prótesis pasiva para desarticulación interescapulotorácica, de estructura exoesquelética. Artículo completo que no precisa accesorios | 1850 | 24 |
+| 0618 | 21 |  | Prótesis funcionales para amputados en el cuarto superior (interescapulotorácicas) |  |  |
+| 0618 | 21 | 101 | Prótesis funcional para desarticulación interescapulotorácica, de estructura exoesquelética (incluye encaje, sistema de suspensión y control y guante). La articulación de hombro, de codo, de muñeca y el terminal (mano o pinza) a elección, y se financian a parte | 2150 | 24 |
+| 0618 | 21 |  | Prótesis mioeléctricas para amputados en el cuarto superior (interescapulotorácicas) |  |  |
+| 0618 | 21 | 201 | Prótesis mioeléctrica para desarticulación interescapulotorácica, de estructura exoesquelética (incluye encaje, sistema de suspensión y control y guante). La articulación de hombro, de codo, de muñeca, el terminal (mano o pinza) y el sistema de accionamiento a elección, y se financian a parte | 2650 | 24 |
+| 0618 | 24 |  | PRÓTESIS DE MANO |  |  |
+| 0618 | 24 |  | Prótesis de mano pasivas |  |  |
+| 0618 | 24 | 001 | Prótesis de mano pasiva. Como terminal de una prótesis nueva o como recambio | 300 | 24 |
+| 0618 | 24 |  | Prótesis de mano funcionales |  |  |
+| 0618 | 24 | 101 | Mano funcional de un tiro (dorsal o palmar). Mano activa de abertura bidigital. Como terminal de una prótesis nueva o como recambio | 395 | 24 |
+| 0618 | 24 | 103 | Mano funcional de dos tiros (dorsal o palmar). Mano activa de abertura bidigital. Como terminal de una prótesis nueva o como recambio | 695 | 24 |
+| 0618 | 24 | 105 | Mano funcional de pinza tridigital. Como terminal de una prótesis nueva o como recambio | 425 | 24 |
+| 0618 | 24 |  | Prótesis de mano mioeléctricas |  |  |
+| 0618 | 24 | 201 | Mano eléctrica de función constante. Como terminal de una prótesis nueva o como recambio | 4500 | 24 |
+| 0618 | 24 | 203 | Mano eléctrica de función variable. Como terminal de una prótesis nueva o como recambio | 5350 | 24 |
+| 0618 | 27 |  | PINZAS Y ÚTILES FUNCIONALES |  |  |
+|  |  |  | Todas ellas como terminales de prótesis nuevas o como recambio |  |  |
+| 0618 | 27 |  | Pinzas y útiles funcionales |  |  |
+| 0618 | 27 | 001 | Pinza gancho estándar adulto. | 650 | 24 |
+| 0618 | 27 | 003 | Pinza gancho niño. | 400 | 24 |
+| 0618 | 27 | 005 | Pinza gancho de acero, de trabajo. | 1250 | 24 |
+| 0618 | 27 |  | Pinzas y útiles eléctricos |  |  |
+| 0618 | 27 | 101 | Pinza eléctrica. | 5250 | 24 |
+| 0618 | 30 |  | ARTICULACIONES DE MUÑECA |  |  |
+|  |  |  | Todas ellas como terminales de prótesis nuevas o como recambio |  |  |
+| 0618 | 30 | 001 | Muñeca para mano estética. | 40 | 24 |
+| 0618 | 30 | 003 | Muñeca redonda. | 100 | 24 |
+| 0618 | 30 | 005 | Muñeca oval. | 275 | 24 |
+| 0618 | 30 | 100 | Muñeca con flexión palmar. | 250 | 24 |
+| 0618 | 30 | 101 | Muñeca con función continua. | 95 | 24 |
+| 0618 | 30 | 102 | Muñeca mecánica con 12 posiciones. | 400 | 24 |
+| 0618 | 30 | 103 | Muñeca bayoneta y fijación múltiple, cambio rápido o similar. | 495 | 24 |
+| 0618 | 30 | 104 | Muñeca de desarticulación. | 200 | 24 |
+| 0618 | 30 | 105 | Muñeca esférica. | 220 | 24 |
+| 0618 | 30 | 106 | Muñeca con semiesfera. | 195 | 24 |
+| 0618 | 30 | 107 | Muñeca para pronosupinación pasiva de desarticulación de muñeca | 415 | 24 |
+| 0618 | 30 | 108 | Muñeca para pronosupinación activa | 425 | 24 |
+| 0618 | 30 | 109 | Muñeca para pronosupinación pasiva | 265 | 24 |
+| 0618 | 30 | 201 | Muñeca eléctrica para pronosupinación (incluido el coste del accionamiento elegido) | 2225 | 24 |
+| 0618 | 33 |  | ARTICULACIONES DE CODO |  |  |
+| 0618 | 33 |  | Articulaciones de codo pasivas |  |  |
+| 0618 | 33 | 001 | Codo pasivo para prótesis de desarticulación de codo | 250 | 24 |
+| 0618 | 33 | 003 | Codo pasivo para estructura endoesquelética | 350 | 24 |
+| 0618 | 33 | 005 | Codo pasivo para estructura exoesquelética | 325 | 24 |
+| 0618 | 33 |  | Articulaciones de codo funcionales |  |  |
+| 0618 | 33 | 101 | Codo activo para prótesis de desarticulación de codo | 830 | 24 |
+| 0618 | 33 | 103 | Codo activo con sistema de bloqueo en doce posiciones | 935 | 24 |
+| 0618 | 33 | 105 | Codo activo con sistema de bloqueo multiposicional | 900 | 24 |
+| 0618 | 33 | 107 | Codo activo con sistema de bloqueo multiposicional y flexión asistida | 1550 | 24 |
+| 0618 | 33 |  | Articulaciones de codo eléctricas |  |  |
+| 0618 | 33 | 201 | Codo eléctrico | 5450 | 24 |
+| 0618 | 36 |  | ARTICULACIONES DE HOMBRO |  |  |
+| 0618 | 36 | 001 | Hombro pasivo de flexo-extensión multiposicional | 215 | 24 |
+| 0618 | 36 | 003 | Hombro pasivo de flexo-extensión y abducción/aducción | 305 | 24 |
+| 0621 | 00 |  | PRÓTESIS ESTÉTICAS Y NO FUNCIONALES DEL MIEMBRO SUPERIOR |  |  |
+| 0621 | 00 |  | Prótesis no funcionales del miembro superior |  |  |
+| 0621 | 00 | 001 | Prótesis estética para amputación de mano. Artículo completo que no precisa accesorios | 420 | 24 |
+| 0621 | 00 | 003 | Guante/Manopla estético. Sólo como recambio | 165 | 12 |
+| 0621 | 00 | 005 | Funda estética. Sólo como recambio en prótesis endoesquéleticas | 165 | 18 |
+| 0621 | 10 |  | ENCAJES DE PRÓTESIS DE MIEMBRO SUPERIOR |  |  |
+|  |  |  | Sólo como recambio |  |  |
+| 0621 | 10 | 001 | Encaje infracondilar de prótesis funcional para desarticulación de muñeca | 665 | 18 |
+| 0621 | 10 | 003 | Encaje supracondilar de prótesis funcional para desarticulación de muñeca | 750 | 18 |
+| 0621 | 10 | 005 | Encaje infracondilar de prótesis mioeléctrica para desarticulación de muñeca | 800 | 18 |
+| 0621 | 10 | 010 | Encaje supracondilar de prótesis mioeléctrica para desarticulación de muñeca | 900 | 18 |
+| 0621 | 10 | 015 | Encaje infracondilar para prótesis de antebrazo | 1300 | 18 |
+| 0621 | 10 | 020 | Encaje supracondilar para prótesis de antebrazo | 1400 | 18 |
+| 0621 | 10 | 025 | Encaje de prótesis para desarticulación de codo | 775 | 18 |
+| 0621 | 10 | 030 | Encaje de prótesis de brazo | 800 | 18 |
+| 0621 | 10 | 035 | Encaje de prótesis de brazo con sistema de suspensión de silicona | 975 | 18 |
+| 0621 | 10 | 040 | Encaje de prótesis para desarticulación de hombro | 950 | 18 |
+| 0621 | 10 | 045 | Encaje de prótesis para desarticulación interescapulotorácica | 1100 | 18 |
+| 0621 | 20 |  | SISTEMAS DE SUSPENSIÓN DE PRÓTESIS DE MIEMBRO SUPERIOR |  |  |
+|  |  |  | Sólo como recambio |  |  |
+| 0621 | 20 | 001 | Sistema de suspensión de prótesis para desarticulación de muñeca (abrazadera o corselete | 130 | 18 |
+| 0621 | 20 | 003 | Sistema de suspensión para prótesis de antebrazo (abrazadera o corselete) | 130 | 18 |
+| 0621 | 20 | 005 | Sistema de suspensión de prótesis para desarticulación de codo (abrazadera o corselete) | 75 | 18 |
+| 0621 | 20 | 007 | Sistema de suspensión para prótesis de brazo (abrazadera o corselete) | 130 | 18 |
+| 0621 | 20 | 009 | Sistema de suspensión de prótesis para desarticulación de hombro (abrazadera o corselete) | 80 | 18 |
+| 0621 | 20 | 011 | Sistema de suspensión de prótesis para desarticulación interescapulotorácica (abrazadera o corselete) | 80 | 18 |
+| 0621 | 20 | 015 | Correaje | 115 | 18 |
+| 0621 | 30 |  | SISTEMAS DE ACCIONAMIENTO Y CONTROL DE PRÓTESIS DE M. SUPERIOR |  |  |
+| 0621 | 30 | 001 | Sistema accionamiento o control mecánico para prótesis desarticulación de muñeca. Sólo como recambio | 95 | 18 |
+| 0621 | 30 | 003 | Sistema accionamiento o control mecánico para prótesis de antebrazo. Sólo como recambio | 120 | 18 |
+| 0621 | 30 | 005 | Sistema accionamiento o control mecánico para prótesis de desarticulación de codo. Sólo como recambio | 170 | 18 |
+| 0621 | 30 | 007 | Sistema accionamiento o control mecánico para prótesis de desarticulación de hombro. Sólo como recambio | 295 | 18 |
+| 0621 | 30 | 009 | Sistema accionamiento o control mecánico para prótesis de desarticulación interescapulotorácica. Sólo como recambio | 295 | 18 |
+| 0621 | 30 | 011 | Electrodo de dos canales de accionamiento eléctrico. Para prótesis nueva o recambio. | 850 | 18 |
+| 0621 | 30 | 013 | Dos electrodos de dos canales de accionamiento eléctrico. Para prótesis nueva o recambio. | 1475 | 18 |
+| 0621 | 30 | 015 | Dos electrodos de dos canales de accionamiento eléctrico y distribuidor. Para prótesis nueva o recambio. | 2275 | 18 |
+| 0621 | 30 | 017 | Cable electrodo. Sólo como recambio | 70 | 12 |
+| 0621 | 30 | 021 | Microllave de accionamiento eléctrico. Sólo como recambio | 420 | 18 |
+| 0621 | 30 | 031 | Batería de níquel-cadmio. Sólo como recambio | 290 | 12 |
+| 0621 | 30 | 033 | Batería de litio. Sólo como recambio | 445 | 12 |
+| 0621 | 30 | 035 | Cargador para batería de níquel-cadmio. Sólo como recambio | 285 | 24 |
+| 0621 | 30 | 037 | Cargador para batería de litio. Sólo como recambio | 515 | 24 |
+| 0624 |  |  | PRÓTESIS DE MIEMBRO INFERIOR |  |  |
+| 0624 | 03 |  | PRÓTESIS PARCIALES DE PIE, INCLUYENDO PRÓTESIS DE DEDOS |  |  |
+| 0624 | 03 |  | Prótesis para amputación parcial o total de dedos del pie |  |  |
+| 0624 | 03 | 001 | Prótesis completa para amputación parcial o total de dedos. Plantilla protésica sustituyendo el segmento amputado. | 150 | 24 |
+| 0624 | 03 |  | Prótesis para amputación transmetatarsiana o para desarticulación de Lisfranc |  |  |
+| 0624 | 03 | 101 | Prótesis de amputación transmetatarsiana. Plantilla protésica sustituyendo el segmento amputado y reconstrucción del arco transverso y longitudinal. | 160 | 24 |
+| 0624 | 03 | 103 | Prótesis para amputación transmetatarsiana (de Lisfranc). Botín con plantilla de reconstrucción del arco interno y relleno de antepié. | 400 | 24 |
+| 0624 | 03 | 105 | Prótesis para amputación transmetatarsiana (de Lisfranc) con férula posterior dinámica y relleno de antepié. | 390 | 24 |
+| 0624 | 03 |  | Prótesis para la amputación de Chopart |  |  |
+| 0624 | 03 | 201 | Prótesis para amputación parcial de pie (de Chopart). Botín con material elástico y relleno anterior. | 500 | 24 |
+| 0624 | 03 | 203 | Prótesis para amputación parcial de pie (de Chopart). Férula posterior dinámica y relleno de antepié. | 300 | 24 |
+| 0624 | 03 | 205 | Prótesis para amputación parcial de pie (de Chopart). Hemivalva anterior laminada, apoyos y cierres supracondilares y relleno antepié. | 795 | 24 |
+| 0624 | 03 |  | Prótesis para la amputación de Pirogoff |  |  |
+| 0624 | 03 | 301 | Prótesis para amputación parcial de pie (de Pirogoff), | 890 | 24 |
+| 0624 | 06 |  | PRÓTESIS DE DESARTICULACIÓN DE TOBILLO |  |  |
+| 0624 | 06 | 001 | Prótesis para desarticulación de tobillo tipo Syme. Incluido pie protésico. Artículo completo que no precisa accesorios | 1150 | 24 |
+| 0624 | 09 |  | PRÓTESIS TRANSTIBIAL (DEBAJO DE LA RODILLA) |  |  |
+| 0624 | 09 |  | Prótesis transtibiales con encaje PTB |  |  |
+| 0624 | 09 | 001 | Prótesis transtibial de estructura endoesquelética con encaje PTB (incluye funda estética y media). El sistema de suspensión y el pie a elegir, y se financian a parte | 1425 | 24 |
+| 0624 | 09 | 003 | Prótesis transtibial de estructura exoesquelética con encaje PTB (incluye media). El sistema de suspensión y el pie a elegir, y se financian a parte | 1100 | 24 |
+| 0624 | 09 |  | Prótesis transtibiales con encaje PTS |  |  |
+| 0624 | 09 | 101 | Prótesis transtibial de estructura endoesquelética con encaje PTS (incluye funda estética y media). Pie a elegir, y se financian a parte | 1400 | 24 |
+| 0624 | 09 | 103 | Prótesis transtibial de estructura exoesquelética con encaje PTS (incluye media). Pie a elegir, y se financian a parte | 1170 | 24 |
+| 0624 | 09 |  | Prótesis transtibiales con encaje KBM |  |  |
+| 0624 | 09 | 201 | Prótesis transtibial de estructura endoesquelética con encaje KBM (incluye funda estética y media). Pie a elegir, y se financian a parte | 1500 | 24 |
+| 0624 | 09 | 203 | Prótesis transtibial de estructura exoesquelética con encaje KBM (incluye media). Pie a elegir, y se financian a parte | 1125 | 24 |
+| 0624 | 09 |  | Prótesis transtibiales con encaje 3S |  |  |
+| 0624 | 09 | 301 | Prótesis transtibial de estructura endoesquelética con encaje 3S (incluye funda estética, encaje y media). El sistema de suspensión, en su caso, y el pie a elegir, y se financian a parte | 1900 | 24 |
+| 0624 | 09 | 303 | Prótesis transtibial de estructura exoesquelética con encaje 3S (incluye media). El sistema de suspensión, en su caso, y el pie a elegir, y se financian a parte | 1600 | 24 |
+| 0624 | 09 |  | Complementos y recambios de prótesis tibiales |  |  |
+| 0624 | 09 | 401 | Barras laterales de un eje. Para prótesis nueva o recambio. | 175 | 24 |
+| 0624 | 09 | 403 | Barras laterales de dos ejes. Para prótesis nueva o recambio. | 290 | 24 |
+| 0624 | 09 | 411 | Corselete de suspensión para prótesis PTB. Para prótesis nueva o recambio. | 185 | 24 |
+| 0624 | 09 | 413 | Corselete femoral. Para prótesis nueva o recambio | 290 | 24 |
+| 0624 | 09 | 421 | Rodillera o suspensor elástico para prótesis tibial. Para prótesis nueva o recambio | 90 | 18 |
+| 0624 | 09 | 431 | Válvula de succión para encaje tibial. Para prótesis nueva o recambio. | 85 | 12 |
+| 0624 | 09 | 441 | Funda estética tibial para prótesis de estructura endoesquelética. Sólo como recambio | 200 | 18 |
+| 0624 | 09 | 451 | Media tibial. Sólo como recambio | 15 | 6 |
+| 0624 | 09 | 453 | Media tibial de silicona. Para prótesis nueva o recambio. | 80 | 12 |
+| 0624 | 12 |  | PRÓTESIS DE DESARTICULACIÓN DE RODILLA |  |  |
+| 0624 | 12 |  | Prótesis para desarticulación de rodilla con apoyo distal |  |  |
+| 0624 | 12 | 001 | Prótesis para desarticulación de rodilla con apoyo distal, de estructura endoesquelética (incluye funda estética y media). La articulación de rodilla y el pie a elegir, y se financian a parte | 1625 | 24 |
+| 0624 | 12 | 003 | Prótesis para desarticulación de rodilla con apoyo distal, de estructura exoesquelética (incluye media). La articulación de rodilla y el pie a elegir, y se financian a parte | 1175 | 24 |
+| 0624 | 12 |  | Prótesis para desarticulación de rodilla con apoyo isquiático |  |  |
+| 0624 | 12 | 101 | Prótesis para desarticulación de rodilla con apoyo isquiático, de estructura endoesquelética (incluye funda estética y media). La articulación de rodilla y el pie a elegir, y se financian a parte | 1700 | 24 |
+| 0624 | 12 | 103 | Prótesis para desarticulación de rodilla con apoyo isquiático, de estructura exoesquelética (incluye media). La articulación de rodilla y el pie a elegir, y se financian a parte | 1100 | 24 |
+| 0624 | 12 |  | Recambios de prótesis para desarticulación de rodilla |  |  |
+| 0624 | 12 | 201 | Funda estética de prótesis para desarticulación de rodilla de estructura endoesquelética | 200 | 18 |
+| 0624 | 15 |  | PRÓTESIS TRANSFEMORAL (ENCIMA DE LA RODILLA) |  |  |
+| 0624 | 15 | 001 | Prótesis transfemoral de estructura endoesquelética con encaje cuadrangular (incluye funda estética y media). La articulación de rodilla, el sistema de suspensión y el pie a elegir, y se financian a parte | 1900 | 24 |
+| 0624 | 15 | 002 | Prótesis transfemoral de estructura exoesquelética con encaje cuadrangular (incluye media). La articulación de rodilla, el sistema de suspensión y el pie a elegir, y se financian a parte | 1200 | 24 |
+| 0624 | 15 | 003 | Prótesis transfemoral de estructura endoesquelética con encaje ISNY (incluye funda estética y media). La articulación de rodilla, el sistema de suspensión y el pie a elegir, y se financian a parte | 2150 | 24 |
+| 0624 | 15 | 004 | Prótesis transfemoral de estructura exoesquelética con encaje ISNY (incluye media). La articulación de rodilla, el sistema de suspensión y el pie a elegir, y se financian a parte | 1450 | 24 |
+| 0624 | 15 | 005 | Prótesis transfemoral de estructura endoesquelética con encaje CAT-CAM (incluye funda estética y media). La articulación de rodilla, el sistema de suspensión y el pie a elegir, y se financian a parte | 2300 | 24 |
+| 0624 | 15 | 006 | Prótesis transfemoral de estructura exoesquelética con encaje CAT-CAM (incluye media). La articulación de rodilla, el sistema de suspensión y el pie a elegir, y se financian a parte | 1650 | 24 |
+| 0624 | 15 | 007 | Prótesis transfemoral de estructura endoesquelética con encaje de contacto total (incluye funda estética y media). La articulación de rodilla, el sistema de suspensión y el pie a elegir, y se financian a parte | 2400 | 24 |
+| 0624 | 15 | 008 | Prótesis transfemoral de estructura exoesquelética con encaje de contacto total (incluye media). La articulación de rodilla, el sistema de suspensión y el pie a elegir, y se financian a parte | 1700 | 24 |
+| 0624 | 15 |  | Complementos prótesis transfemorales |  |  |
+| 0624 | 15 | 101 | Válvula de succión para encaje femoral. Para prótesis nueva o recambio | 85 | 12 |
+| 0624 | 15 | 111 | Cinturón pélvico con correa lateral. Para prótesis nueva o recambio | 90 | 18 |
+| 0624 | 15 | 112 | Cinturón pélvico con correa lateral y polea medial. Para prótesis nueva o recambio | 115 | 18 |
+| 0624 | 15 | 113 | Cinturón pélvico con articulación de cadera de acero de un eje libre o similar y polea media. Para prótesis nueva o recambio | 255 | 18 |
+| 0624 | 15 | 114 | Cinturón pélvico con articulación de cadera de acero de un eje libre cierre de anilla o similar. Para prótesis nueva o recambio | 235 | 18 |
+| 0624 | 15 | 115 | Cinturón pélvico con articulación de cadera de un eje, cierre de anilla y movimiento de abducción. Para prótesis nueva o recambio | 345 | 18 |
+| 0624 | 15 | 116 | Cinturón silesiano. Para prótesis nueva o recambio | 120 | 18 |
+| 0624 | 15 | 117 | Cinturón de neopreno o tejido elástico. Para prótesis nueva o recambio | 105 | 18 |
+| 0624 | 15 | 121 | Bandolera por encima del hombro. Para prótesis nueva o recambio | 55 | 18 |
+| 0624 | 15 | 131 | Arnés con tirantes. Para prótesis nueva o recambio | 175 | 18 |
+| 0624 | 15 | 141 | Funda estética femoral para prótesis de estructura endoesquelética. Sólo como recambio | 345 | 18 |
+| 0624 | 15 | 151 | Media femoral. Sólo como recambio | 20 | 6 |
+| 0624 | 15 | 153 | Media femoral de silicona. Sólo como recambio | 90 | 12 |
+| 0624 | 18 |  | PRÓTESIS PARA DESARTICULACIÓN DE CADERA |  |  |
+| 0624 | 18 | 001 | Prótesis para desarticulación de cadera de estructura endoesquelética (incluye funda estética y media). La articulación de cadera y de rodilla, y el pie a elegir, y se financian a parte | 2800 | 24 |
+| 0624 | 18 |  | Recambios de prótesis para desarticulación de cadera |  |  |
+| 0624 | 18 | 101 | Cesta pélvica (encaje) | 830 | 18 |
+| 0624 | 18 | 111 | Funda estética de prótesis para desarticulación de cadera de estructura endoesquelética | 365 | 18 |
+| 0624 | 18 | 121 | Media de prótesis para desarticulación de cadera | 30 | 6 |
+| 0624 | 21 |  | PRÓTESIS PARA HEMIPELVECTOMÍA |  |  |
+| 0624 | 21 | 001 | Prótesis para hemipelvectomía de estructura endoesquelética (incluye funda estética y media). La articulación de cadera y de rodilla, y el pie a elegir, y se financian a parte | 2900 | 24 |
+| 0624 | 21 |  | Recambios de prótesis para hemipelvectomía |  |  |
+| 0624 | 21 | 101 | Funda estética de prótesis para hemipelvectomía de estructura endoesquelética | 375 | 18 |
+| 0624 | 21 | 111 | Media de prótesis para hemipelvectomía | 30 | 6 |
+| 0624 | 27 |  | PIES PROTÉSICOS |  |  |
+|  |  |  | No se incluyen pies con almacenamiento de energía o similares |  |  |
+| 0624 | 27 |  | Pies no articulados |  |  |
+| 0624 | 27 | 001 | Pie no articulado | 150 | 24 |
+| 0624 | 27 | 003 | Pie Sach | 150 | 24 |
+| 0624 | 27 | 005 | Pie geriátrico | 160 | 24 |
+| 0624 | 27 |  | Pies articulados |  |  |
+| 0624 | 27 | 101 | Pie articulado | 240 | 24 |
+| 0624 | 27 |  | Pies dinámicos |  |  |
+| 0624 | 27 | 201 | Pie dinámico | 275 | 24 |
+| 0624 | 27 | 203 | Pie Greissinger | 260 | 24 |
+| 0624 | 27 | 205 | Pie Greissinger Plus | 625 | 24 |
+| 0624 | 27 | 207 | Pie especial para Syme | 300 | 24 |
+| 0624 | 27 | 209 | Pie Quantum | 310 | 24 |
+| 0624 | 30 |  | ROTADORES |  |  |
+| 0624 | 30 | 001 | Rotador o dispositivo de unión entre segmentos protésicos de prótesis endoesquelética (de bloqueo o de torsión). Sólo como recambio | 460 | 24 |
+| 0624 | 33 |  | ARTICULACIONES DE RODILLA |  |  |
+| 0624 | 33 |  | Articulaciones de rodillas monocéntricas |  |  |
+| 0624 | 33 | 001 | Rodilla endoesquelética monocéntrica libre con bloqueo a voluntad | 425 | 24 |
+| 0624 | 33 | 003 | Rodilla endoesquelética monocéntrica libre, con dispositivo de recuperación mecánica a la extensión y control de flexoextensión durante la fase de balanceo | 425 | 24 |
+| 0624 | 33 | 005 | Rodilla endoesquelética monocéntrica libre, con dispositivo de recuperación mecánica a la extensión y sistema de freno durante la fase de apoyo del pie | 450 | 24 |
+| 0624 | 33 | 007 | Rodilla exoesquelética monocéntrica libre, con recuperación mecánica a la extensión y control de la flexoextensión durante la fase de balanceo y sistema de freno durante la fase de apoyo del pie | 725 | 24 |
+| 0624 | 33 |  | Articulaciones de rodillas policéntricas |  |  |
+| 0624 | 33 | 101 | Rodilla endoesquelética policéntrica de cuatro ejes, con recuperación mecánica a la extensión | 1050 | 24 |
+| 0624 | 33 |  | Articulaciones de rodillas con control neumático |  |  |
+| 0624 | 33 | 201 | Rodilla endoesquelética monocéntrica con recuperación neumática y control en la fase de apoyo | 1800 | 24 |
+| 0624 | 33 | 203 | Rodilla endoesquelética policéntrica de cuatro ejes, con recuperación neumática y control en fase de apoyo | 2200 | 24 |
+| 0624 | 33 |  | Articulaciones de rodilla con control hidráulico |  |  |
+| 0624 | 33 | 301 | Rodilla endoesquelética monocéntrica libre, con dispositivo de recuperación hidráulico a la extensión y control de flexoextensión durante la fase de balanceo | 1800 | 24 |
+| 0624 | 33 | 303 | Rodilla endoesquelética monocéntrica libre, con control hidráulico del balanceo y de la frenada en la fase de apoyo | 3225 | 24 |
+| 0624 | 33 | 305 | Rodilla endoesquelética policéntrica de cuatro ejes, con recuperación hidráulica a la extensión | 4075 | 24 |
+| 0624 | 33 | 307 | Sistema de rodilla y tobillo de control hidráulico en las diferentes fases de la marcha | 5200 | 24 |
+| 0624 | 33 |  | Articulaciones de rodillas por barras externas |  |  |
+| 0624 | 33 | 401 | Articulación mecánica con un eje | 200 | 24 |
+| 0624 | 33 | 403 | Articulación mecánica con bloqueo | 215 | 24 |
+| 0624 | 33 | 405 | Articulación mecánica con tope oculto y rodamientos | 360 | 24 |
+| 0624 | 33 |  | Articulaciones de rodilla para desarticulación |  |  |
+| 0624 | 33 | 501 | Rodilla endoesquelética policéntrica de cuatro ejes para desarticulación de la rodilla con sistema de bloqueo a voluntad, y con recuperación a la extensión | 1125 | 24 |
+| 0624 | 33 | 503 | Rodilla endoesquelética policéntrica de cuatro ejes para desarticulación de la rodilla con dispositivo de recuperación mecánica, y extensión y control de la flexoextensión durante la fase de balanceo | 1035 | 24 |
+| 0624 | 33 | 505 | Rodilla endoesquelética policéntrica de cuatro ejes para desarticulación de la rodilla, con recuperación hidráulica a la extensión | 3750 | 24 |
+| 0624 | 36 |  | ARTICULACIONES DE CADERA |  |  |
+| 0624 | 36 | 001 | Articulación de cadera endoesquelética monocéntrica | 500 | 24 |
+| 0624 | 36 | 003 | Articulación de cadera endoesquelética con bloqueo | 585 | 24 |
+| 0624 | 36 | 005 | Articulación de cadera endoesquelética monocéntrica, libre con dispositivo de alineación incorporado | 660 | 24 |
+| 0624 | 36 | 007 | Articulación de cadera exoesquelética monocéntrica | 305 | 24 |
+| 0624 | 39 |  | ENCAJES TIBIALES |  |  |
+| 0624 | 39 | 001 | Encaje tibial para prótesis PTB. Sólo como recambio | 550 | 18 |
+| 0624 | 39 | 003 | Encaje tibial para prótesis PTS. Sólo como recambio | 550 | 18 |
+| 0624 | 39 | 005 | Encaje tibial para prótesis KBM. Sólo como recambio | 600 | 18 |
+| 0624 | 39 | 007 | Encaje tibial para prótesis 3S. Sólo como recambio | 675 | 18 |
+| 0624 | 39 | 011 | Encaje tibial interior (forro o vaina) de silicona. Para prótesis nueva o recambio | 395 | 12 |
+| 0624 | 39 | 012 | Encaje tibial interior (forro o vaina) de silicona gruesa (6mm). Para prótesis nueva o recambio | 410 | 12 |
+| 0624 | 39 | 013 | Encaje tibial interior (forro o vaina) de gel de polímero viscoelástico grueso. Para prótesis nueva o recambio | 575 | 12 |
+| 0624 | 41 |  | ENCAJES DE DESARTICULACIÓN DE RODILLA |  |  |
+| 0624 | 41 | 001 | Encaje de prótesis para desarticulación de rodilla con apoyo distal. Sólo como recambio | 600 | 18 |
+| 0624 | 41 | 003 | Encaje de prótesis para desarticulación de rodilla con apoyo isquiático. Sólo como recambio | 665 | 18 |
+| 0624 | 41 | 011 | Encaje interior (forro o vaina) de prótesis para desarticulación de rodilla. Para prótesis nueva o recambio | 275 | 12 |
+| 0624 | 42 |  | ENCAJES FEMORALES |  |  |
+| 0624 | 42 | 001 | Encaje femoral cuadrangular. Sólo como recambio | 600 | 18 |
+| 0624 | 42 | 003 | Encaje femoral ISNY. Sólo como recambio | 875 | 18 |
+| 0624 | 42 | 005 | Encaje femoral CAT-CAM. Sólo como recambio | 1000 | 18 |
+| 0624 | 42 | 007 | Encaje femoral de contacto total de silicona. Sólo como recambio | 1085 | 18 |
+| 0624 | 42 | 011 | Encaje femoral interior (forro o vaina) de silicona. Para prótesis nueva o recambio | 310 | 12 |
+|  |  |  | Encaje femoral interior (forro o vaina) de silicona gruesa (6 mm). Para prótesis nueva o recambio | 410 | 12 |
+|  |  |  | Encaje femoral interior (forro o vaina) de gel de polímero viscoelástico grueso. Para prótesis nueva o recambio | 575 | 12 |
+| 0624 | 48 |  | PRÓTESIS TEMPORALES PARA MOVILIZACIÓN PRECOZ DE LOS AMPUTADOS DE MIEMBROS INFERIORES |  |  |
+| 0624 | 48 |  | Prótesis temporales para desarticulación de tobillo |  |  |
+| 0624 | 48 | 001 | Prótesis temporal para desarticulación de tobillo, con pie incluido | 605 | Única |
+| 0624 | 48 |  | Prótesis temporales para amputación tibial |  |  |
+| 0624 | 48 | 101 | Prótesis temporal para amputación tibial, con pie a elegir, que se financia a parte, y aprovechable para la prótesis definitiva | 575 | Única |
+| 0624 | 48 |  | Prótesis temporales para desarticulación de rodilla |  |  |
+| 0624 | 48 | 201 | Prótesis temporal para desarticulación de rodilla, con pie y rodilla a elegir, que se financian a parte, y aprovechables par la prótesis definitiva | 600 | Única |
+| 0624 | 48 |  | Prótesis temporales para amputación femoral |  |  |
+| 0624 | 48 | 301 | Prótesis temporal para amputación femoral, con pie y rodilla a elegir, que se financian a parte, y aprovechables par la prótesis definitiva | 750 | Única |
+| 0624 | 48 |  | Prótesis temporales para desarticulación de cadera |  |  |
+| 0624 | 48 | 401 | Prótesis temporal para desarticulación de cadera, con pie, rodilla y cadera a elegir, que se financian a parte, y aprovechables par la prótesis definitiva | 800 | Única |
+| 0690 | 00 |  | ORTOPRÓTESIS PARA AGENESIAS |  |  |
+|  |  |  | Precisa informe clínicoradiológico y descripción de los componentes ortoprotésicos que la componen con sus importes |  |  |
+| 0690 | 00 | 001 | Ortoprótesis para agenesias o malformaciones congénitas de miembro superior | Según presupuesto | 24 |
+| 0690 | 00 | 003 | Ortoprótesis para agenesias o malformaciones congénitas de miembro inferior | Según presupuesto | 24 |
+| 1221 |  |  | SILLAS DE RUEDAS |  |  |
+| 1221 | 00 |  | SILLAS DE RUEDAS MANUALES |  |  |
+|  |  |  | Para pacientes con limitaciones funcionales graves del aparato locomotor por enfermedad, malformación o accidente que impidan de forma permanente la marcha independiente. De forma estandar estas sillas contienen reposabrazos, reposapiés, asiento y respaldo adaptables a las características del usuario. Se excluyen las sillas de rueda manuales con ruedas grandes delanteras maniobradas por los dos brazos, las sillas de ruedas propulsadas por el pie y las sillas de ruedas con motor. Las sillas de ruedas para pacientes con lesiones medulares, parálisis cerebral, trautamismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neuromusculares degenerativas han de ser prescritas por médicos especialistas en la materia correspondiente a la patología. |  |  |
+| 1221 | 00 |  | Sillas de ruedas manuales no autopropulsables |  |  |
+| 1221 | 00 |  | Sillas de ruedas manuales no autopropulsables no plegables o rígidas |  |  |
+| 1221 | 00 | 001 | Silla de ruedas manual no autopropulsable rígida | 300 | 36 |
+| 1221 | 00 | 003 | Silla de ruedas manual no autopropulsable rígida de material ligero. Para pacientes con lesiones medulares, parálisis cerebral, trautamismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neuromusculares degenerativas | 800 | 36 |
+| 1221 | 00 | 005 | Silla de ruedas manual no autopropulsable rígida con bloque asiento-respaldo postural separable, a medida o modular, incluido. Para pacientes con lesiones medulares, parálisis cerebral, trautamismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neuromusculares degenerativas | 2750 | 36 |
+| 1221 | 00 | 007 | Silla de ruedas manual no autopropulsable no plegable o rígida para niños, desmontable con respaldo, reposabrazos y reposapiés desmontables y graduables, y cinturón para sujeción de tronco | 500 | 36 |
+| 1221 | 00 |  | Sillas de ruedas manuales no autopropulsables plegables (no tipo paraguas) |  |  |
+|  |  |  | Silla de ruedas manual no autopropulsable plegable |  |  |
+| 1221 | 00 | 010 | Silla de ruedas manual no autopropulsable plegable | 350 | 36 |
+| 1221 | 00 | 012 | Silla de ruedas manual no autopropulsable plegable de material ligero. Para pacientes con lesiones medulares, parálisis cerebral, trautamismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neuromusculares degenerativas | 825 | 36 |
+| 1221 | 00 |  | Sillas de ruedas manuales no autopropulsables plegables para alteraciones funcionales infantiles |  |  |
+|  |  |  | Este tipo de sillas de ruedas están indicadas en niños con parálisis cerebral infantil u otras alteraciones funcionales con imposibilidad para caminar y para propulsar otro tipo de sillas de ruedas de forma autónoma. |  |  |
+| 1221 | 00 | 011 | Silla de ruedas manual no autopropulsable plegable, tipo paraguas o tipo nido | 600 | 36 |
+| 1221 | 00 | 013 | Silla de ruedas manual no autopropulsable plegable, tipo ajustable con bloque asiento-respaldo postural separable, modular o a medida, incluido | 2900 | 36 |
+| 1221 | 00 |  | Sillas de ruedas manuales autopropulsables |  |  |
+| 1221 | 00 |  | Sillas de ruedas manuales autopropulsables no plegables o rígidas |  |  |
+| 1221 | 00 | 101 | Silla de ruedas manual autopropulsable rígida | 365 | 36 |
+| 1221 | 00 | 103 | Silla de ruedas manual autopropulsable rígida de material ligero. Para pacientes con lesiones medulares, parálisis cerebral, trautamismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neuromusculares degenerativas | 800 | 36 |
+| 1221 | 00 | 105 | Silla de ruedas manual autopropulsable rígida con sistema de doble aro en ruedas traseras. Para personas con un sólo miembro superior útil para la propulsión (por ej. hemipléjicos) | 500 | 36 |
+| 1221 | 00 | 107 | Silla de ruedas manual autopropulsable rígida, con palanca propulsora y de dirección para la utilización con un solo brazo. Para personas con un sólo miembro superior útil para la propulsión (por ej. hemipléjicos) | 950 | 36 |
+| 1221 | 00 |  | Sillas de ruedas manuales autopropulsables plegables |  |  |
+| 1221 | 00 | 111 | Silla de ruedas manual autopropulsable plegable | 455 | 36 |
+| 1221 | 00 | 112 | Silla de ruedas manual autopropulsable plegable para amputados | 480 | 36 |
+| 1221 | 00 | 113 | Silla de ruedas manual autopropulsable plegable de material ligero. Para pacientes con lesiones medulares, parálisis cerebral, trautamismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neuromusculares degenerativas | 825 | 36 |
+| 1221 | 00 | 114 | Silla de ruedas manual autopropulsable plegable con sistema de doble aro en ruedas traseras. Para personas con un sólo miembro superior útil para la propulsión (por ej. hemipléjicos) | 550 | 36 |
+| 1221 | 00 | 115 | Silla de ruedas manual autopropulsable plegable de material ligero con ruedas traseras desmontables y sistema de doble aro. Para personas con un sólo miembro superior útil para la propulsión (por ej. hemipléjicos), estilo de vida activo y que no presenten espasticidad extrema. | 1000 | 36 |
+| 1221 | 27 |  | SILLAS DE RUEDAS ELÉCTRICAS |  |  |
+|  |  |  | Para pacientes con limitaciones funcionales graves del aparato locomotor por enfermedad, malformación o accidente que impidan de forma permanente la marcha independiente y que, además, cumplan los requisitos siguientes: |  |  |
+|  |  |  | Incapacidad funcional permanente para la propulsión de sillas de ruedas manuales con las extremidades superiores. |  |  |
+|  |  |  | Suficiente capacidad visual, mental y de control que les permita el manejo de sillas de ruedas eléctricas y ello no suponga un riesgo añadido para su integridad o la de otras personas. |  |  |
+|  |  |  | Sólo pueden ser prescritas por especialistas en medicina física y rehabilitación |  |  |
+| 1221 | 27 | 001 | Sillas de ruedas con motor eléctrico y dirección eléctrica (pequeña, mediana y grande) | 3625 | 48 |
+|  |  | 003 | Sillas de ruedas con motor eléctrico y dirección eléctrica (pequeña, mediana y grande), con función sube bordillos. Sólo para personas con estilo de vida activo y necesidad de desplazamientos frecuentes en el exterior | 4100 | 48 |
+| 1224 | 00 |  | ACCESORIOS PARA SILLAS DE RUEDAS |  |  |
+| 1224 | 00 |  | ASIENTOS Y RESPALDOS |  |  |
+| 1224 | 00 | 001 | Asiento estándar (flexible o rígido). Sólo como recambio | 75 | 18 |
+| 1224 | 00 | 002 | Tapizado silla de ruedas. Sólo como recambio | 100 | 18 |
+| 1224 | 00 | 003 | Asiento acolchado. Sólo como recambio | 90 | 18 |
+| 1224 | 00 | 004 | Asiento inodoro. Sólo como recambio para sillas de ruedas manuales no autopropulsables rígidas | 90 | 18 |
+| 1224 | 00 | 005 | Asiento postural de tipo modular o similar acoplable a sillas de ruedas para pacientes con lesiones medulares, parálisis cerebral, trautamismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neuromusculares degenerativas. Sólo como recambio para las sillas de ruedas con códigos 1221 00 005 y 1221 00 013 y para las sillas de ruedas eléctricas. | 275 | 18 |
+| 1224 | 00 | 006 | Asiento-respaldo postural modular o medida para pacientes con lesiones medulares, parálisis cerebral, trautamismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neuromusculares degenerativas. Sólo como recambio para las sillas de ruedas con códigos 1221 00 005 y 1221 00 013 y para las sillas de ruedas eléctricas. | 1250 | 18 |
+| 1224 | 00 | 007 | Respaldo estándar (flexible o rígido). Sólo como recambio | 90 | 18 |
+| 1224 | 00 | 008 | Prolongación de respaldo. Sólo como recambio para sillas de ruedas manuales no autopropulsables plegables | 45 | 18 |
+| 1224 | 00 | 009 | Respaldo reclinable. Sólo como recambio para sillas de ruedas manuales no propulsables, tanto rígidas como plegables y en sillas de ruedas eléctricas | 100 | 18 |
+| 1224 | 00 | 011 | Respaldo postural modular o a medida acoplable a sillas de ruedas para pacientes con lesiones medulares, parálisis cerebral, trautamismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neuromusculares degenerativas. Sólo como recambio para las sillas de ruedas con códigos 1221 00 004 y 1221 00 013 y para las sillas de ruedas eléctricas. | 700 | 18 |
+| 1224 | 00 |  | BANDEJAS |  |  |
+| 1224 | 00 | 010 | Bandeja/mesa desmontable especial. Como accesorio o recambio. | 100 | 18 |
+| 1224 | 00 |  | FRENOS |  |  |
+| 1224 | 00 | 020 | Frenos (unidad). Sólo como recambio | 35 | 18 |
+| 1224 | 00 |  | NEUMÁTICOS Y RUEDAS |  |  |
+| 1224 | 00 | 030 | Ruedas delanteras o pequeñas (unidad). Sólo como recambio | 60 | 18 |
+| 1224 | 00 | 031 | Ruedas traseras grandes (unidad). Sólo como recambio | 90 | 18 |
+| 1224 | 00 |  | BATERÍAS Y CARGADORES |  |  |
+| 1224 | 00 | 040 | Baterías para sillas de ruedas eléctricas (par). Sólo como recambio | 300 | 18 |
+| 1224 | 00 |  | OTROS ACCESORIOS DE SILLAS DE RUEDAS |  |  |
+| 1224 | 00 |  | CHASIS O BASTIDOR |  |  |
+| 1224 | 00 | 890 | Chasis o bastidor para las sillas de ruedas manuales con códigos 1221 00 005 y 1221 00 013. Sólo como recambio | 1600 | 18 |
+| 1224 | 00 |  | APOYOS POSTURALES PARA LA SILLA DE RUEDAS, INCLUIDOS TACOS Y CORREAS |  |  |
+| 1224 | 00 | 891 | Apoyos posturales (cinturón pélvico, pectoral, abdominal, anclajes, chaleco, cinchas, tacos y cuñas, etc.). (Unidad). Como accesorios o recambios. | 80 | 18 |
+| 1224 | 00 |  | REPOSABRAZOS |  |  |
+| 1224 | 00 | 892 | Reposabrazos (unidad). Sólo como recambio | 100 | 18 |
+| 1224 | 00 |  | REPOSACABEZAS |  |  |
+| 1224 | 00 | 893 | Reposacabezas (unidad). Como accesorio de sillas de ruedas manuales no autopropulsables plegables o como recambio | 125 | 18 |
+| 1224 | 00 |  | REPOSAPIÉS |  |  |
+| 1224 | 00 | 894 | Reposapiés (par). Sólo como recambio | 115 | 18 |
+| 1224 | 00 |  | DOBLE ARO PARA AUTOPROPULSIÓN CON UN SOLO BRAZO |  |  |
+| 1224 | 00 | 895 | Doble aro para afectados de hemiplejia (unidad). Como accesorio o recambio en sillas de ruedas manuales autopropulsables | 210 | 18 |
+|  |  |  | ORTESIS |  |  |
+|  |  |  | No se consideran incluidos: |  |  |
+|  |  |  | Los artículos que tengan la consideración de efectos y accesorios (tejidos elásticos destinados a la protección o reducción de lesiones o malformaciones internas, como puedan ser: fajas elásticas, tobilleras, rodilleras, muñequeras, musleras, coderas, hombreras, pantorrilleras, medias, etc.). Las fajas preventivas. Los artículos ortoprotésicos destinados a uso deportivo. |  |  |
+| 0603 |  |  | ORTESIS DE COLUMNA VERTEBRAL |  |  |
+| 0603 | 06 |  | ORTESIS LUMBO-SACRAS |  |  |
+| 0603 | 06 |  | Ortesis lumbosacras semirrígidas |  |  |
+| 0603 | 06 | 001 | Ortesis lumbosacra semirrígida estándar | 110 | 18 |
+| 0603 | 06 | 003 | Ortesis lumbosacra semirrígida a medida | 225 | 18 |
+| 0603 | 06 |  | Ortesis lumbosacras rígidas, estándar |  |  |
+| 0603 | 06 | 101 | Ortesis lumbosacra rígida estándar | 200 | 24 |
+| 0603 | 06 | 103 | Ortesis lumbosacra tipo Knight | 210 | 24 |
+| 0603 | 06 | 105 | Ortesis lumbosacra dinámica tipo Williams, a medida | 365 | 24 |
+| 0603 | 06 |  | Ortesis lumbosacras rígidas, a medida |  |  |
+| 0603 | 06 | 111 | Ortesis lumbosacra rígida a medida | 485 | 24 |
+| 0603 | 09 |  | ORTESIS DORSO-LUMBO-SACRAS (DORSO LUMBARES) |  |  |
+| 0603 | 09 |  | Ortesis dorsolumbares semirrígidas |  |  |
+| 0603 | 09 | 001 | Ortesis dorsolumbar semirrígida estándar | 110 | 18 |
+| 0603 | 09 | 011 | Ortesis dorsolumbar semirrígida a medida (tipo Taylor o similar) | 260 | 18 |
+| 0603 | 09 |  | Ortesis para Pectus Carinatum o tórax en quilla |  |  |
+| 0603 | 09 | 021 | Ortesis para Pectus Carinatum o tórax en quilla | 670 | 18 |
+| 0603 | 09 |  | Ortesis dorsolumbares rígidas |  |  |
+| 0603 | 09 | 101 | Ortesis dorsolumbar rígida para inmovilización | 605 | 18 |
+| 0603 | 09 | 103 | Ortesis dorsolumbar tipo Taylor, estándar | 265 | 18 |
+| 0603 | 09 | 111 | Ortesis dorsolumbar rígida para cifolordosis, a medida | 815 | 18 |
+| 0603 | 09 |  | Ortesis dorsolumbares rígidas para escoliosis |  |  |
+| 0603 | 09 | 121 | Corsé de Stagnara o Lyonés | 750 | 18 |
+| 0603 | 09 | 122 | Corsé de Michel | 775 | 18 |
+| 0603 | 09 | 123 | Corsé de Cheneau | 815 | 18 |
+| 0603 | 09 | 124 | Corsé de Boston | 820 | 18 |
+| 0603 | 09 | 125 | Ortesis de inclinación lateral de uso nocturno | 700 | 18 |
+| 0603 | 09 | 126 | Ortesis de Kallabis | 250 | 18 |
+| 0603 | 09 |  | Ortesis de hiperextensión |  |  |
+| 0603 | 09 | 201 | Ortesis de hiperextensión de Jewett | 300 | 18 |
+| 0603 | 09 |  | Lechos posturales |  |  |
+| 0603 | 09 | 301 | Lecho postural de Dennis-Brown, para tratamiento de la escoliosis del lactante | 410 | 18 |
+| 0603 | 09 | 311 | Lecho postural a medida | 550 | 18 |
+| 0603 | 12 |  | ORTESIS CERVICALES |  |  |
+| 0603 | 12 | 001 | Ortesis cervical (collarín) blando sin apoyo | 9 | No |
+| 0603 | 12 | 003 | Ortesis cervical (collarín) semirrígido sin apoyo | 12 | 12 |
+| 0603 | 12 | 005 | Ortesis cervical (collarín) semirrígido con apoyo mentoniano | 50 | 12 |
+| 0603 | 12 | 007 | Ortesis cervical (collarín) con apoyo occipitomentoniano (Tipo Philadelphia) | 80 | 18 |
+| 0603 | 15 |  | ORTESIS CÉRVICO-TORÁCICAS |  |  |
+| 0603 | 15 |  | Ortesis cervicotorácicas cortas |  |  |
+| 0603 | 15 | 001 | Ortesis cervical tipo Soy (minerva de duraluminio maleable con apoyo occipitomentoniano graduable, con o sin cincha de inmovilización frontal) | 165 | 18 |
+| 0603 | 15 |  | Ortesis cervicotorácicas largas |  |  |
+| 0603 | 15 | 101 | Minerva larga sobre molde | 445 | 18 |
+| 0603 | 15 | 111 | Minerva larga prefabricada | 395 | 18 |
+| 0603 | 15 |  | Chaleco para halo |  |  |
+| 0603 | 15 | 201 | Chaleco para halo | 265 | 18 |
+| 0603 | 18 |  | ORTESIS CÉRVICO-DORSO-LUMBO-SACRAS |  | 18 |
+| 0603 | 18 |  | Corsé de MilWaukee |  |  |
+| 0603 | 18 | 001 | Corsé de MilWaukee con cesta pélvica en cuero y supraestructura | 700 | 18 |
+| 0603 | 18 | 003 | Corsé de MilWaukee con cesta pélvica en termoplástico y supraestructura | 750 | 18 |
+| 0603 | 18 |  | Supraestructuras |  |  |
+| 0603 | 18 | 101 | Supraestructura para corsé de MilWaukee adaptada a corsé. Sólo como recambio | 225 | 18 |
+| 0603 | 18 |  | Recambios de ortesis cérvico-dorso-lumbo-sacras |  |  |
+| 0603 | 18 | 200 | Cesta pélvica en cuero. Sólo como recambio | 375 | 12 |
+| 0603 | 18 | 201 | Cesta pélvica en termoplástico. Sólo como recambio | 450 | 12 |
+| 0603 | 18 | 202 | Tirante. Sólo como recambio | 9 | 12 |
+| 0603 | 18 | 203 | Muletilla. Sólo como recambio | 35 | 12 |
+| 0603 | 18 | 204 | Hombrera. Sólo como recambio | 35 | 12 |
+| 0603 | 18 | 205 | Cambio de placa. Sólo como recambio | 35 | 12 |
+| 0603 | 18 | 206 | Cambio de apoyo. Sólo como recambio | 35 | 12 |
+| 0603 | 18 | 207 | Anillo cervical completo. Sólo como recambio | 100 | 12 |
+| 0603 | 18 | 208 | Prolongación glótica de plástico para corsé de Milwaukee. Sólo como recambio | 20 | 12 |
+| 0603 | 18 | 209 | Almohadillas occipitales para corsé de Milwaukee. Sólo como recambio | 55 | 12 |
+| 0603 | 18 | 210 | Guarnecido de barras posteriores y anteriores para corsé de Milwaukee | 150 | 12 |
+| 0603 | 18 | 211 | Collarete cervical de Milwaukee. Sólo como recambio | 130 | 12 |
+| 0606 |  |  | ORTESIS DE MIEMBRO SUPERIOR |  |  |
+| 0606 | 03 |  | ORTESIS DE DEDO |  |  |
+| 0606 | 03 |  | Férulas pasivas de dedos |  |  |
+| 0606 | 03 | 001 | Férula pasiva para mantener el dedo pulgar en oposición o abducción, en material rígido | 60 | 12 |
+| 0606 | 03 | 011 | Férula pasiva para mantener las articulaciones de un dedo en una posición determinada, en termoplástico | 30 | 12 |
+| 0606 | 03 | 013 | Férula pasiva para mantener las articulaciones de un dedo en una posición determinada, metálica | 15 | 12 |
+| 0606 | 03 | 015 | Férula pasiva para mantener las articulaciones de dedos en una posición determinada, en termoplástico | 55 | 12 |
+| 0606 | 03 | 017 | Férula pasiva tipo dedal para mantener la falange distal de un dedo en extensión, en material rígido | 25 | 12 |
+| 0606 | 03 |  | Férulas activas de dedos |  |  |
+| 0606 | 03 | 101 | Férula activa para mantener el dedo pulgar en oposición o abducción, estándar | 80 | 12 |
+| 0606 | 03 | 102 | Férula activa para mantener el dedo pulgar en oposición o abducción, a medida | 155 | 12 |
+| 0606 | 03 | 111 | Férula activa para mantener en extensión una o varias articulaciones de un dedo, estándar | 45 | 12 |
+| 0606 | 03 | 113 | Férula activa para mantener en extensión una o varias articulaciones de un dedo, a medida | 65 | 12 |
+| 0606 | 03 | 115 | Férula activa para la flexión de las articulaciones interfalángicas de uno o varios dedos, estándar | 50 | 12 |
+| 0606 | 03 | 117 | Férula activa para la flexión de las articulaciones interfalángicas de uno o varios dedos, a medida | 75 | 12 |
+| 0606 | 06 |  | ORTESIS DE MANO |  |  |
+| 0606 | 06 |  | Férulas pasivas de mano |  |  |
+| 0606 | 06 | 001 | Férula pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada, en material rígido o semirrígido (termoplástico o metálico) | 85 | 12 |
+| 0606 | 06 |  | Férulas activas de mano |  |  |
+| 0606 | 06 | 101 | Férula activa para la extensión de las articulaciones metacarpofalángicas | 105 | 12 |
+| 0606 | 06 | 111 | Férula activa para la flexión de las articulaciones metacarpofalángicas | 105 | 12 |
+| 0606 | 06 | 121 | Férula activa para la flexión de las articulaciones metacarpofalángicas con aditamento extensor de dedos | 175 | 12 |
+| 0606 | 06 | 131 | Férula activa para la extensión de las articulaciones metacarpofalángicas con aditamento extensor/abductor de pulgar | 105 | 12 |
+| 0606 | 06 | 133 | Férula activa para la flexión de las articulaciones metacarpofalángicas con aditamento extensor de pulgar | 175 | 12 |
+| 0606 | 12 |  | ORTESIS DE MUÑECA Y MANO |  |  |
+| 0606 | 12 |  | Ortesis pasivas de muñeca y mano |  |  |
+| 0606 | 12 | 001 | Ortesis pasiva de muñeca, en material elástico | 12 | 12 |
+| 0606 | 12 | 003 | Ortesis pasiva de muñeca, en material rígido o semirrígido (termoplástico o metálico) | 40 | 12 |
+| 0606 | 12 | 005 | Ortesis pasiva de muñeca y mano, en material elástico | 18 | 12 |
+| 0606 | 12 | 007 | Ortesis pasiva de muñeca y mano, en material rígido o semirrígido (termoplástico o metálico) | 65 | 12 |
+| 0606 | 12 | 009 | Ortesis pasiva de muñeca y mano a medida, en material rígido o semirrígido (termoplástico o metálico) | 150 | 12 |
+| 0606 | 12 |  | Ortesis activas de muñeca y mano |  |  |
+| 0606 | 12 | 101 | Ortesis activa de muñeca, en termoplástico o duraluminio | 65 | 12 |
+| 0606 | 12 | 111 | Ortesis activa extensora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca | 135 | 12 |
+| 0606 | 12 | 113 | Ortesis activa flexora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca | 220 | 12 |
+| 0606 | 13 |  | ORTESIS DE MUÑECA, MANO Y DEDOS |  |  |
+| 0606 | 13 |  | Ortesis pasivas de muñeca, mano y dedos |  |  |
+| 0606 | 13 | 001 | Férula pasiva de muñeca, mano y dedo o dedos, en material elástico | 20 | 12 |
+| 0606 | 13 | 003 | Férula pasiva de muñeca, mano y dedo o dedos, en material rígido (termoplástico) | 155 | 12 |
+| 0606 | 13 |  | Ortesis activas de muñeca, mano y dedos |  | 12 |
+| 0606 | 13 | 101 | Férula activa extensora de articulaciones metacarpofalángicas y aditamento extensor de dedo o dedos | 175 | 12 |
+| 0606 | 13 | 103 | Férula activa flexora de articulaciones metacarpofalángicas y aditamento flexor de dedo o dedos | 175 | 12 |
+| 0606 | 13 | 105 | Férula activa flexora de articulaciones metacarpofalángicas y aditamento extensor de dedo o dedos | 350 | 12 |
+| 0606 | 15 |  | ORTESIS DE CODO |  |  |
+| 0606 | 15 |  | Férulas pasivas de codo |  |  |
+| 0606 | 15 | 001 | Férula pasiva de antebrazo, en material rígido | 80 | 12 |
+| 0606 | 15 | 011 | Férula pasiva de codo sin articulación, en material rígido | 225 | 12 |
+| 0606 | 15 |  | Férulas activas de codo |  |  |
+| 0606 | 15 | 101 | Férula activa de codo con articulación. La articulación de codo a elegir, y se financia a parte | 220 | 12 |
+| 0606 | 15 |  | Componentes de ortesis de codo |  |  |
+| 0606 | 15 | 201 | Sistema de control de codo mediante tensor longitudinal | 105 | 12 |
+| 0606 | 24 |  | ORTESIS DE CODO Y HOMBRO |  |  |
+| 0606 | 24 |  | Férulas pasivas de codo y hombro |  |  |
+| 0606 | 24 | 001 | Férula pasiva de brazo para inmovilización ósea en material rígido, estándar | 110 | 12 |
+| 0606 | 24 | 003 | Férula pasiva de brazo para inmovilización ósea en material rígido, a medida | 215 | 12 |
+| 0606 | 27 |  | ORTESIS DE HOMBRO, CODO Y MUÑECA |  |  |
+| 0606 | 27 |  | Férulas pasivas de hombro, codo y muñeca |  |  |
+| 0606 | 27 | 001 | Férula pasiva de hombro, codo y muñeca en material rígido, sin articulación, estándar | 200 | 12 |
+| 0606 | 27 | 003 | Férula pasiva de hombro, codo y muñeca en material rígido, sin articulación, a medida | 455 | 12 |
+| 0606 | 27 | 005 | Férula pasiva de hombro, codo y muñeca en material rígido, con posibilidad de modificar las posiciones articulares | 325 | 12 |
+| 0606 | 27 | 011 | Férula para parálisis del plexo braquial, obstétrica o infantil | 300 | 12 |
+| 0606 | 27 |  | Férulas activas de hombro, codo y muñeca |  |  |
+| 0606 | 27 | 101 | Férula de hombro, codo y muñeca, con articulaciones. Artículo completo que no precisa accesorios | 575 | 12 |
+| 0606 | 27 | 111 | Férula para parálisis del plexo braquial del adulto, estándar | 400 | 12 |
+| 0606 | 27 | 113 | Férula para parálisis del plexo braquial multiarticulada, con accionamiento mediante un tirante cinemático para poder efectuar pinza tridigital | 1000 | 12 |
+| 0606 | 33 |  | ARTICULACIONES DE MUÑECA |  |  |
+|  |  |  | Sólo como recambio |  |  |
+| 0606 | 33 |  | Articulaciones de muñeca mecánicas |  |  |
+| 0606 | 33 | 001 | Articulación de muñeca de un eje (monocéntricas) | 115 | 12 |
+| 0606 | 33 | 003 | Articulación de muñeca policéntrica | 130 | 12 |
+| 0606 | 36 |  | ARTICULACIONES DE CODO |  |  |
+|  |  |  | Sólo como recambio, excepto para las ortesis en que se indique articulación a elegir |  |  |
+| 0606 | 36 |  | Articulaciones de codo mecánicas |  |  |
+| 0606 | 36 | 001 | Articulación de codo monocéntrica (par) | 80 | 12 |
+| 0606 | 36 | 003 | Articulación de codo tipo tornillo sin fin | 190 | 12 |
+| 0606 | 36 | 005 | Articulación de codo tipo cremallera o rueda dentada | 300 | 12 |
+| 0606 | 36 | 007 | Articulación de codo policéntrica (par) | 205 | 12 |
+| 0606 | 36 | 009 | Sistema de control de codo mediante semicírculo graduable | 145 | 12 |
+| 0606 | 39 |  | ARTICULACIONES DE HOMBRO |  |  |
+|  |  |  | Sólo como recambio |  |  |
+| 0606 | 39 | 001 | Articulación de hombro pasiva | 115 | 12 |
+| 0606 | 39 | 003 | Articulación de hombro esférica | 130 | 12 |
+| 0606 | 39 | 005 | Articulación de hombro helicoidal | 140 | 12 |
+| 0612 |  |  | ORTESIS DE MIEMBRO INFERIOR |  |  |
+| 0612 | 06 |  | ORTESIS DE PIE Y TOBILLO (TIBIALES) |  |  |
+| 0612 | 06 |  | Ortesis de pie pasivas |  |  |
+| 0612 | 06 | 001 | Férula posterior pasiva tibial | 175 | 18 |
+| 0612 | 06 | 002 | Férula postural antidecúbito de talón | 95 | 18 |
+| 0612 | 06 | 003 | Férula de Dennis Browne | 65 | 12 |
+| 0612 | 06 | 004 | Férula de Dennis Browne con garras | 140 | 12 |
+| 0612 | 06 | 005 | Férula de Saint Germain | 110 | 12 |
+| 0612 | 06 | 008 | Botín multiarticulado para las deformidades congénitas del pie (metatarso- varoadductus, pie supinado, pie cavo congénito, etc.) | 125 | 12 |
+| 0612 | 06 |  | Ortesis de tobillo pasivas |  |  |
+| 0612 | 06 | 011 | Ortesis para la inmovilización de la articulación tibiotarsiana, en material rígido | 135 | 18 |
+| 0612 | 06 |  | Ortesis de pierna pasivas |  |  |
+| 0612 | 06 | 021 | Polaina desde el tobillo hasta debajo de la rodilla | 250 | 18 |
+| 0612 | 06 |  | Ortesis de pie activas |  | 18 |
+| 0612 | 06 | 101 | Férula posterior antiequino dinámica | 150 | 18 |
+| 0612 | 06 | 103 | Férula posterior antiequino dinámica. Rancho los Amigos, estándar | 135 | 18 |
+| 0612 | 06 | 105 | Férula posterior antiequino dinámica. Rancho los Amigos, a medida | 250 | 18 |
+| 0612 | 06 |  | Ortesis de tobillo activas |  |  |
+| 0612 | 06 | 111 | Ortesis funcional tipo PTB (patelar tendón bearing) con articulación de tobillo flexible unida a cazoleta del talón, en termoplástico | 360 | 18 |
+| 0612 | 06 | 112 | Ortesis tibial de marcha en descarga con suela de balancín | 400 | 18 |
+| 0612 | 06 | 113 | Ortesis de control medio lateral de la articulación tibiotarsiana, por sistema de hemivalvas termoplásticas | 70 | 12 |
+| 0612 | 06 | 114 | Ortesis de control medio lateral de la articulación tibiotarsiana, por sistema de hemivalvas termoplásticas y cámara de aire o silicona | 90 | 12 |
+| 0612 | 06 | 115 | Ortesis de control medio lateral de la articulación del tobillo con sistema de tracción antiesguinces y cierre de cordonera en zona anterior | 30 | 12 |
+| 0612 | 06 | 117 | Ortesis dinámica para ligamentos laterales del tobillo | 35 | 12 |
+| 0612 | 06 |  | Ortesis de pierna activas |  |  |
+| 0612 | 06 | 121 | Bitutor corto sin articulación | 195 | 18 |
+| 0612 | 06 | 123 | Bitutor corto con articulación de tobillo a elegir, y se financia a parte | 200 | 18 |
+| 0612 | 06 | 125 | Bitutor de Klenzack | 285 | 18 |
+| 0612 | 06 | 127 | Ortesis dinámica antiequino | 125 | 18 |
+| 0612 |  | 129 | Ortesis para la descarga del pie, con apoyo de tendón rotuliano | 400 | 18 |
+| 0612 | 06 |  | Componentes de ortesis de pie y tobillo (tibiales) |  |  |
+| 0612 | 06 | 201 | Botín de cuero moldeado con articulación en tobillo. Para prótesis nueva (accesorio) o como recambio | 210 | 18 |
+| 0612 | 06 | 203 | Cazoleta de talón en termoplástico con prolongaciones superiores flexibles | 40 | 12 |
+| 0612 | 06 | 205 | Correa en forma de ˝T˝ para la corrección de varo o valgo | 25 | 12 |
+| 0612 | 09 |  | ORTESIS DE RODILLA |  |  |
+| 0612 | 09 |  | Ortesis de rodilla pasivas |  |  |
+| 0612 | 09 | 001 | Ortesis pasiva para la inmovilización de rodilla, en material rígido | 190 | 18 |
+| 0612 | 09 | 003 | Ortesis de rodilla articulada para la estabilidad medio lateral y control de la flexo-extensión, con articulación de cierre de anillas | 325 | 18 |
+| 0612 | 09 |  | Ortesis de rodilla activas |  |  |
+| 0612 | 09 | 101 | Ortesis para el control de la rodilla | 195 | 18 |
+| 0612 | 09 | 103 | Ortesis para la extensión asistida de la rodilla, con articulación de rodilla libre | 300 | 18 |
+| 0612 | 09 | 105 | Ortesis para la flexión o extensión progresiva de la rodilla, mediante tornillo sin fin | 345 | 18 |
+| 0612 | 09 | 106 | Ortesis para la flexión o extensión progresiva de la rodilla, mediante semicírculo graduable a voluntad | 275 | 18 |
+| 0612 | 09 | 108 | Soporte anatómico para la articulación de la rodilla, con rodete rotuliano de compresión intermitente, con barras o flejes laterales | 75 | 12 |
+| 0612 | 09 | 109 | Soporte anatómico para la articulación de la rodilla, con rodete rotuliano de compresión intermitente, sin barras o flejes laterales | 25 | 12 |
+| 0612 | 12 |  | ORTESIS DE RODILLA, TOBILLO Y PIE (FEMORALES) |  |  |
+| 0612 | 12 |  | Ortesis de pierna (femorales) pasivas |  |  |
+| 0612 | 12 | 001 | Férula con forma de cola de sirena | 260 | 18 |
+| 0612 | 12 | 003 | Polaina de pie a muslo | 345 | 18 |
+| 0612 | 12 | 005 | Ortesis tubular de muslo y pierna | 255 | 18 |
+| 0612 | 12 | 007 | Ortesis de valva posterior de muslo y pierna rígida | 200 | 18 |
+| 0612 | 12 |  | Ortesis de muslo pasiva |  |  |
+| 0612 | 12 | 011 | Férula de abducción | 360 | 18 |
+| 0612 | 12 | 013 | Muslera conformada en termoplástico, estándar | 75 | 18 |
+| 0612 | 12 | 015 | Muslera conformada en termoplástico, a medida | 185 | 18 |
+| 0612 | 12 |  | Ortesis de rodilla (femorales) activas |  |  |
+| 0612 | 12 | 101 | Ortesis estabilizadora de rodilla, en material rígido | 200 | 18 |
+| 0612 | 12 | 103 | Ortesis correctora dinámica genu-valgo o varo, para corrección unilateral | 245 | 18 |
+| 0612 | 12 | 105 | Ortesis correctora dinámica genu-valgo o varo, para corrección bilateral | 345 | 18 |
+| 0612 | 12 |  | Ortesis de muslo activas |  |  |
+| 0612 | 12 | 111 | Ortesis de Grenier | 375 | 18 |
+| 0612 | 12 | 113 | Ortesis femoral QTB (quadriteral thigh bearing) | 500 | 18 |
+| 0612 | 12 |  | Componentes de ortesis de muslo, pierna y pie |  |  |
+| 0612 | 12 | 201 | Semiaro femoral o tibial para ortesis de miembro inferior | 30 | 6 |
+| 0612 | 15 |  | ORTESIS DE CADERA, INCLUYENDO ORTESIS DE ABDUCCIÓN |  |  |
+| 0612 | 15 |  | Ortesis de cadera, incluyendo ortesis de abducción, pasivas |  |  |
+| 0612 | 15 | 001 | Ortesis de inmovilización de cadera sin articulación | 400 | 18 |
+| 0612 | 15 | 003 | Ortesis para la luxación congénita de cadera (Cojín o almohadilla de Frejka/Ortesis de Mignon) | 65 | 6 |
+| 0612 | 15 | 004 | Ortesis para la luxación congénita de cadera (Férula de von Rosen) | 100 | 6 |
+| 0612 | 15 | 005 | Ortesis para la luxación congénita de cadera (Férula de Ponsetí) | 110 | 6 |
+| 0612 | 15 | 006 | Ortesis para la luxación congénita de cadera (Arnés de Pavlik) | 150 | 6 |
+| 0612 | 15 | 008 | Ortesis modular inmovilizadora de cadera | 545 | 18 |
+| 0612 | 15 | 009 | Ortesis lumbo-sacra rígida con muslera | 425 | 18 |
+| 0612 | 15 |  | Ortesis de cadera, incluyendo ortesis de abducción, activas |  |  |
+| 0612 | 15 | 101 | Ortesis de Atlanta (o del Hospital Scottish Rita en Atlanta) | 385 | 18 |
+| 0612 | 18 |  | ORTESIS DE CADERA, RODILLA, TOBILLO Y PIE |  |  |
+| 0612 | 18 |  | Bitutores largos por encima de la rodilla |  |  |
+| 0612 | 18 | 001 | Bitutor femoral metálico, con articulación de rodilla de cierre de anillas | 1000 | 18 |
+| 0612 | 18 | 002 | Bitutor femoral metálico, con articulación de rodilla de cierre suizo | 1100 | 18 |
+| 0612 | 18 | 003 | Bitutor femoral metálico, con encaje cuadrangular y articulación de rodilla de cierre de anillas | 1175 | 18 |
+| 0612 | 18 | 004 | Bitutor femoral metálico, con encaje cuadrangular y articulación de rodilla de cierre suizo | 1350 | 18 |
+| 0612 | 18 | 005 | Ortesis femoral TPV | 850 | 18 |
+| 0612 | 18 | 007 | Férula de Thomas articulada | 625 | 18 |
+| 0612 | 18 | 008 | Ortesis femoral de abducción en acero de Tachdjian | 785 | 18 |
+| 0612 | 18 | 009 | Dispositivo estabilizador y reciprocador adaptado a ortesis de marcha bilateral. Sólo para pacientes lesionados medulares dorsales (D5 a D12) completos sin complicaciones graves asociadas | 3005 | 36 |
+| 0612 | 18 |  | Bitutores largos con cinturón pélvico |  |  |
+|  |  | 011 | Bitutor femoral metálico, con articulación de rodilla, articulación de cadera y cinturón pélvico | 1000 | 18 |
+| 0612 | 18 | 013 | Bitutor femoral metálico, con encaje cuadrangular, articulación de rodilla de cierre de anillas, articulación de cadera y cinturón pélvico | 1050 | 18 |
+| 0612 | 18 | 015 | Bitutor femoral metálico, con encaje cuadrangular, articulación de rodilla de cierre suizo, articulación de cadera y cinturón pélvico | 1175 | 18 |
+| 0612 | 18 | 017 | Ortesis desrotadora femoral (Tvviester), unilateral | 225 | 18 |
+| 0612 | 18 | 019 | Ortesis desrotadora femoral (Tvviester), bilateral | 300 | 18 |
+| 0612 | 18 |  | Bitutores largos con corsé |  |  |
+| 0612 | 18 | 021 | Bitutor femoral metálico, con articulación de rodilla de cierre de anillas, articulación de cadera y corsé pélvico | 1550 | 18 |
+| 0612 | 18 | 023 | Bitutor femoral metálico, con articulación de rodilla de cierre suizo, articulación de cadera y corsé pélvico | 1600 | 18 |
+| 0612 | 18 |  | Componentes de ortesis de cadera, rodilla, tobillo y pie |  |  |
+| 0612 | 18 | 101 | Cinturón pélvico de acero para ortesis de miembro inferior. Para ortesis nueva o como recambio | 150 | 18 |
+| 0612 | 18 | 103 | Barra para ortesis de miembro inferior. Para ortesis nueva o como recambio | 60 | 12 |
+| 0612 | 18 | 105 | Estribo de miembro inferior. Para ortesis nueva o como recambio | 85 | 12 |
+| 0612 | 21 |  | ARTICULACIONES DE TOBILLO |  |  |
+|  |  |  | Sólo como recambio, excepto para las ortesis en que se indique articulación a elegir |  |  |
+| 0612 | 21 | 001 | Articulación de tobillo no desmontable, colocada sobre un eje anatómico libre | 65 | 12 |
+| 0612 | 21 | 002 | Articulación de tobillo no desmontable, colocada sobre un eje anatómico con control de movimientos mediante topes anterior y posterior | 125 | 12 |
+| 0612 | 21 | 003 | Articulación de tobillo desmontable mediante pivotes, con control de movimiento mediante topes anterior y posterior | 95 | 12 |
+| 0612 | 21 | 004 | Articulación de tobillo desmontable, encastrada en el talón mediante pivotes, con control de movimiento mediante topes | 90 | 12 |
+| 0612 | 21 | 005 | Articulación de tobillo de Klenzak, metálica, con control antiequino | 100 | 12 |
+| 0612 | 21 | 006 | Articulación de tobillo telescópica para férulas de descarga | 125 | 12 |
+| 0612 | 21 | 007 | Articulación de tobillo flexible, para ortesis termoconformadas | 95 | 12 |
+| 0612 | 21 | 008 | Articulación de tobillo con flexoextensión graduable, para ortesis termoconformadas | 215 | 12 |
+| 0612 | 21 | 009 | Articulación de tobillo con tope limitador de movimiento, para ortesis termoconformadas | 30 | 12 |
+| 0612 | 24 |  | ARTICULACIONES DE RODILLA |  |  |
+|  |  |  | Sólo como recambio, excepto para las ortesis en que se indique articulación a elegir |  |  |
+| 0612 | 24 |  | Articulaciones de rodilla |  |  |
+| 0612 | 24 | 000 | Articulación de rodilla libre | 185 | 12 |
+| 0612 | 24 | 001 | Articulación de rodilla libre, con eje atrasado | 200 | 12 |
+| 0612 | 24 | 002 | Articulación de rodilla de cierre de anillas | 260 | 12 |
+| 0612 | 24 | 003 | Articulación de rodilla de cierre suizo | 325 | 12 |
+| 0612 | 24 | 004 | Articulación de rodilla policéntrica | 275 | 12 |
+| 0612 | 24 | 005 | Articulación de rodilla mediante semicírculo graduable | 210 | 12 |
+| 0612 | 24 | 006 | Articulación de rodilla libre de aluminio para valvas termoconformadas | 50 | 12 |
+| 0612 | 24 | 007 | Articulación de rodilla de plástico con control de la flexoextensión mediante topes | 110 | 12 |
+| 0612 | 24 | 008 | Articulación de rodilla de plástico flexible para ortesis termoconformadas | 110 | 12 |
+| 0612 | 24 | 009 | Articulación de rodilla policéntricas para yesos funcionales | 40 | 12 |
+|  |  |  | Componentes articulación de rodilla |  |  |
+| 0612 | 24 | 201 | Apoyo corrector de rodilla en valgo | 30 | 12 |
+| 0612 | 24 | 203 | Correa correctora de rodilla en valgo o varo | 30 | 12 |
+| 0612 | 27 |  | ARTICULACIONES DE CADERA |  |  |
+|  |  |  | Sólo como recambio, excepto para las ortesis en que se indique articulación a elegir |  |  |
+| 0612 | 27 | 001 | Articulación de cadera libre | 75 | 12 |
+| 0612 | 27 | 002 | Articulación de cadera libre, con movimiento de abducción | 165 | 12 |
+| 0612 | 27 | 003 | Articulación de cadera libre, de polipropileno | 140 | 12 |
+| 0612 | 27 | 005 | Articulación de cadera con cierre de anillas | 90 | 12 |
+| 0612 | 27 | 006 | Articulación de cadera con cierre de anillas y movimiento de abducción | 275 | 12 |
+| 0612 | 27 | 007 | Articulación de cadera con cierre suizo (u oculto) | 140 | 12 |
+| 0612 | 27 | 009 | Articulación de cadera policéntrica | 360 | 12 |
+| 0633 |  |  | CALZADOS ORTOPÉDICOS |  |  |
+| 0633 | 90 |  | CALZADOS ORTOPÉDICOS PARA GRANDES DEFORMIDADES |  |  |
+| 0633 | 90 | 000 | Calzado ortopédico de plastozote o similar (par). Para pies artríticos, diabéticos, neuropáticos y postcirugía inmediata | 90 | <14 años, 6 meses >14 años, 12 meses |
+| 0633 | 90 | 001 | Calzado ortopédico a medida sobre molde de escayola u otro para grandes deformidades (par). Para pies zambos estructurados, equinos importantes y otras deformidades que impidan la adaptación del calzado convencional o de plastozote | 450 | <14 años, 6 meses >14 años, 12 meses |
+| 0633 | 90 | 003 | Botas ortopédicas tipo boxer adaptadas a ortesis de marcha (bitutor, etc...) (par) | 105 | <14 años, 6 meses >14 años, 12 meses |
+| 0633 | 90 | 005 | Calzado postcirugía inmediata de antepié (unidad) | 30 | Único |
+|  |  |  | PRÓTESIS ESPECIALES |  |  |
+| 0630 |  |  | PRÓTESIS ESPECIALES DISTINTAS DE LAS DE MIEMBROS |  |  |
+| 0630 |  |  | PRÓTESIS DISTINTAS DE LAS DE MIEMBROS |  |  |
+| 0630 | 18 |  | Prótesis de mama |  |  |
+|  |  |  | No se considera incluido el sujetador postoperatorio |  |  |
+| 0630 | 18 | 000 | Prótesis de mama exógena (externa) de silicona sólida, con funda | 200 | 18 |
+| 0630 | 30 |  | Prótesis de restauración de cara |  |  |
+| 0630 | 30 |  | Para traumatismo, enfermedad o malformación congénita |  |  |
+| 0630 | 30 |  | Prótesis oculares |  |  |
+| 0630 | 30 | 001 | Prótesis ocular a medida | 750 | 36 En niños, según crecimiento |
+| 0630 | 30 | 003 | Prótesis esclerocorneal a medida | 500 | 36 |
+| 0630 | 30 | 5 | Prótesis de restauración de órbita a medida | 1000 | 36 En niños, según crecimiento |
+| 0630 | 30 | 007 | Prótesis corneal a medida | 800 | 36 |
+| 0630 | 30 |  | Pabellón auricular a medida |  |  |
+| 0630 | 30 | 101 | Pabellón auricular a media | 750 | 36 En niños, según crecimiento |
+| 0630 | 30 |  | Prótesis de restauración de la nariz |  |  |
+| 0630 | 30 | 201 | Prótesis de restauración de la nariz a medida | 750 | 36 En niños, según crecimiento |
+| 0630 | 33 |  | Prótesis palatinas |  |  |
+|  |  |  | Para malformaciones congénitas, traumatismos y procesos oncológicos del paladar |  |  |
+| 0630 | 33 | 001 | Prótesis palatinas | 425 | 48 |
+| 0630 | 89 |  | Otras prótesis |  |  |
+| 0630 | 89 | 001 | Ortesis craneal a medida, para pacientes menores de un año afectos de plagiocefalia. Sólo podrán ser prescritos por especialistas en neurocirugía y únicamente como alternativa al tratamiento quirúrgico. | 950 | Único |
+| 1203 |  |  | PRÓTESIS ESPECIALES (AYUDAS DE MARCHA) |  |  |
+| 1203 | 06 |  | AYUDAS DE MARCHA MANIPULADAS POR UN BRAZO |  |  |
+| 1203 | 06 |  | Bastones de codo con apoyo de antebrazo |  |  |
+| 1203 | 06 | 001 | Bastón (muleta) graduable con apoyo de antebrazo, con abrazadera basculante (unidad) | 35 | 36 |
+| 1203 | 06 | 003 | Bastón (muleta) graduable con apoyo de antebrazo (unidad) | 12 | 36 |
+| 1203 | 06 | 005 | Muleta de apoyo axilar graduable (unidad) | 30 | 36 |
+| 1203 | 09 |  | Bastones de codo con soporte en antebrazo |  |  |
+| 1203 | 09 | 001 | Bastón (muleta) con soporte en antebrazo (unidad). Para pacientes que padecen procesos artríticos que les dificulta el uso de bastones tradicionales | 48 | 36 |
+| 1203 | 16 |  | Bastones de marcha con tres o más patas |  |  |
+| 1203 | 16 | 001 | Bastón con tres o más patas (unidad) | 45 | 36 |
+| 1206 |  |  | AYUDAS DE MARCHA MANIPULADAS POR LOS DOS BRAZOS |  |  |
+| 1206 | 00 |  | Andadores |  |  |
+| 1206 | 00 | 001 | Andador fijo sin ruedas | 70 | 24 |
+| 1206 | 00 | 003 | Andador fijo con ruedas | 85 | 24 |
+| 1206 | 00 | 005 | Andador articulado | 95 | 36 |
+| 1206 | 00 | 007 | Andador con apoyo axilar. Para personas con movilidad reducida y con dificultades para mantener la estabilidad al andar | 315 | 36 |
+| 0306 |  |  | PRÓTESIS ESPECIALES (AYUDAS TRATAMIENTO AFECCIONES CIRCULATORIAS) |  |  |
+| 0306 |  |  | AYUDAS PARA EL TRATAMIENTO DE AFECCIONES CIRCULATORIAS |  |  |
+| 0306 | 03 |  | PRENDAS DE COMPRESIÓN PARA BRAZOS, PIERNAS Y OTRAS PARTES DEL CUERPO (PARA QUEMADOS, LINFEDEMAS DE MIEMBROS SUPERIORES, LINFEDEMAS GRAVES DE MIEMBROS INFERIORES Y GRANDES QUELOIDES) |  |  |
+| 0306 | 03 |  | Prendas de compresión para cabeza |  |  |
+| 0306 | 03 |  | Soportes |  |  |
+| 0306 | 03 | 001 | Soporte de cuello | 132 | 6 |
+| 0306 | 03 | 003 | Soporte para el mentón | 132 | 6 |
+| 0306 | 03 | 005 | Soporte de cuello y mentón | 180 | 6 |
+| 0306 | 03 |  | Máscaras |  |  |
+| 0306 | 03 | 011 | Máscara abierta | 185 | 6 |
+| 0306 | 03 | 013 | Máscara con banda labial | 185 | 6 |
+| 0306 | 03 | 015 | Máscara con banda labial, nariz y boca | 210 | 6 |
+| 0306 | 03 | 017 | Máscara de termoplástico | 240 | 6 |
+| 0306 | 03 | 019 | Máscara de silicona con soporte externo de termoplástico flexible y transparente | 1100 | 12 |
+| 0306 | 03 |  | Prendas de compresión para tronco |  |  |
+| 0306 | 03 |  | Tronco |  |  |
+| 0306 | 03 | 101 | Tronco sin mangas | 310 | 6 |
+| 0306 | 03 | 103 | Tronco con mangas cortas | 475 | 6 |
+| 0306 | 03 | 105 | Tronco con mangas largas | 605 | 6 |
+| 0306 | 03 |  | Camisetas |  |  |
+| 0306 | 03 | 111 | Camiseta de cuello alto sin mangas | 210 | 6 |
+| 0306 | 03 | 113 | Camiseta de cuello alto con mangas cortas | 300 | 6 |
+| 0306 | 03 | 115 | Camiseta con mangas largas | 335 | 6 |
+| 0306 | 03 |  | Prendas de compresión para miembro superior (Unidad) |  |  |
+| 0306 | 03 |  | Mangas |  |  |
+| 0306 | 03 | 201 | Manga | 110 | 6 |
+| 0306 | 03 | 203 | Manga con guantelete | 150 | 6 |
+| 0306 | 03 | 205 | Manga abarcando el hombro | 180 | 6 |
+| 0306 | 03 | 207 | Manga abarcando el hombro con guantelete | 210 | 6 |
+| 0306 | 03 |  | Guantes |  |  |
+| 0306 | 03 | 211 | Guante con protección de puntas | 170 | 6 |
+| 0306 | 03 | 213 | Guante sin protección de puntas | 135 | 6 |
+| 0306 | 03 | 215 | Guante hasta el codo | 150 | 6 |
+| 0306 | 03 |  | Prendas de compresión para miembro inferior (Unidad) |  |  |
+| 0306 | 03 |  | Medias o pantys |  |  |
+| 0306 | 03 | 301 | Media hasta la rodilla, a medida | 105 | 6 |
+| 0306 | 03 | 303 | Media entera (hasta el muslo), a medida | 150 | 6 |
+| 0306 | 03 | 305 | Panty, a medida | 400 | 6 |
+| 0306 | 03 |  | Calzones o pantalones |  |  |
+| 0306 | 03 | 311 | Calzón de pernera corta | 170 | 6 |
+| 0306 | 03 | 313 | Pantalón | 210 | 6 |
+| 0306 | 03 |  | Tobilleras |  |  |
+| 0306 | 03 | 321 | Tobillera, a medida | 65 | 6 |
+| 0333 |  |  | PRÓTESIS ESPECIALES AYUDAS PARA LA PREVENCIÓN DE PRESIONES DOLOROSAS (MATERIAL ANTIESCARAS) |  |  |
+| 0333 |  |  | AYUDAS PARA LA PREVENCIÓN DE LOS DAÑOS POR PRESIÓN (AYUDAS ANTIDECÚBITOS) |  |  |
+| 0333 | 03 |  | Cojines antiescaras |  |  |
+| 0333 | 03 | 001 | Cojín antiescaras de silicona | 150 | 24 |
+| 0333 | 03 | 003 | Cojín antiescaras de flotación líquida | 100 | 24 |
+| 0333 | 03 | 005 | Cojín antiescaras de flotación por aire o de fluido. Sólo para pacientes con lesiones medulares, parálisis cerebral, trautamismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neuromusculares degenerativas | 415 | 24 |
+| 0348 |  |  | PRÓTESIS ESPECIALES (EQUIPAMIENTO APRENDIZAJE) |  |  |
+| 0348 | 06 |  | EQUIPAMIENTO PARA EL APRENDIZAJE DEL MOVIMIENTO, LA FUERZA Y EL EQUILIBRIO |  |  |
+|  |  |  | Para pacientes con lesiones medulares, parálisis cerebral, trautamismos craneoencefálicos, mielomeningocele, distrofias musculares progresivas y enfermedades neurodegenerativas |  |  |
+| 0348 | 06 |  | Aparatos de bipedestación |  |  |
+| 0348 | 06 | 001 | Bipedestador (Parapodium) estático de adulto regulable en altura, con sujeción en diferentes puntos (talones, rodillas, cintura y tronco) | 1500 | 24 |
+| 0348 | 06 | 002 | Bipedestador (Parapodium) estático infantil regulable en altura, con sujeción en diferentes puntos (talones, rodillas, cintura y tronco) | 1300 | 24 |
+| 0348 | 06 | 003 | Bipedestador (Parapodium) de adulto regulable en altura, con sujeción en diferentes puntos (talones, rodillas, cintura y tronco), con ruedas | 1750 | 24 |
+| 0348 | 06 | 004 | Bipedestador (Parapodium) infantil regulable en altura, con sujeción en diferentes puntos (talones, rodillas, cintura y tronco), con ruedas | 1650 | 24 |
+| 0348 | 06 | 007 | Bandeja especial desmontable adaptada al bipedestador | 200 | 24 |
+| 0348 | 06 | 009 | Soporte de cabeza adaptado al bipedestador | 175 | 24 |
+| 0348 | 21 |  | Planos inclinados |  |  |
+| 0348 | 21 | 001 | Plano inclinado progresivo, graduable y mecánico, completo con accesorios. Para adultos | 1300 | 36 |
+| 0348 | 21 | 003 | Plano inclinado progresivo, graduable y mecánico, completo con accesorios. Infantil | 1150 | 36 |
+| 2145 |  |  | AYUDAS PARA LA AUDICIÓN |  |  |
+|  |  |  | Para pacientes hipoacúsicos, de 0 a 16 años de edad, afectados de hipoacusia bilateral neurosensorial, transmisiva o mixta, permanente, no susceptible de otros tratamientos con una pérdida de audición superior a 40 db en el mejor de los oídos, valor obtenido promediando las frecuencias de 500, 1000 y 2000 hz. Sólo pueden ser prescritos por especialistas en otorrinolaringología |  |  |
+| 2145 | 00 |  | Audífonos |  |  |
+| 2145 | 00 | 001 | Audífono | 750 | 48 |
+| 2145 | 90 |  | Moldes adaptadores para audífonos |  |  |
+| 2145 | 90 | 001 | Molde adaptador para audífono (unidad) | 30 | 24 |
