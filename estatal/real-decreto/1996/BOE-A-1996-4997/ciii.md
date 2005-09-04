@@ -1,3 +1,7 @@
 ## CAPÍTULO III
 
 ## El Libro de Quejas y Sugerencias
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 951/2005, de 29 de julio. Ref. BOE-A-2005-14836#ddunica.
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.

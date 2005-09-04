@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Intervención de las Inspecciones de Servicios específicas.
+
+Las funciones atribuidas por este real decreto a las Inspecciones Generales de Servicios de los departamentos ministeriales serán asumidas, en su respectivo ámbito, por la Inspección de Personal y Servicios de Seguridad de la Secretaría de Estado de Seguridad, por la Inspección Penitenciaria de la Dirección General de Instituciones Penitenciarias y por la Inspección de los Servicios de la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado, en los términos previstos en las disposiciones adicionales quinta y sexta del Real Decreto 799/2005, de 1 de julio, por el que se regulan las inspecciones generales de servicios de los departamentos ministeriales.
+
+Asimismo, las unidades de inspección de los servicios que existan en determinados órganos u organismos públicos podrán colaborar con la Inspección General de Servicios de su ministerio de adscripción en los términos previstos en el artículo 4 del real decreto antes citado.

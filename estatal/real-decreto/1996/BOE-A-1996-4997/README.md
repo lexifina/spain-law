@@ -42,6 +42,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 22](a22.md)
 - [Artículo 23](a23.md)
 - [Artículo 24](a24.md)
+- [Artículos 15 a 24 ](a1-2.md)
 - [Disposición adicional única](daunica.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
