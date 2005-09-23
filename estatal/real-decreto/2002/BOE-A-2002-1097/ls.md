@@ -822,6 +822,44 @@ En caso de interceptación de aeronaves civiles el Estado se atendrá a los comp
 
 2.3.8.2.9.1. Se mantendrá una estrecha coordinación entre la dependencia de control de interceptación y la dependencia correspondiente de los servicios de tránsito aéreo durante todas las fases de la interceptación de una aeronave que sea, o pudiera ser una aeronave civil, a fin de que se mantenga bien informada a la dependencia de los servicios de tránsito aéreo de los acontecimientos, así como de las medidas que se exigen de la aeronave interceptada.
 
+2.3.9 Operaciones Especiales. Serán catalogadas como Operaciones Especiales las realizadas por aeronaves en:
+
+a) Misiones militares de cualquier naturaleza.
+
+b) Misiones de policía propias de las Fuerzas de Seguridad del Estado y de las Policías autonómicas que tengan delegadas esas competencias.
+
+c) Misiones de vigilancia y persecución del tráfico en carreteras.
+
+d) Misiones de vigilancia y persecución aduanera sobre tierra o mar.
+
+e) Todas aquellas que se lleven a cabo para la realización de misiones de:
+
+1.º Búsqueda y Salvamento Marítimo o Terrestre.
+
+2.º Transporte Sanitario de Urgencia.
+
+3.º Evacuaciones.
+
+4.º Servicios de Extinción de Incendios.
+
+Los operadores de las aeronaves que realizan estas misiones, total o parcialmente, deberán contar con una "Carta Operacional" debidamente justificada y aprobada, en la que se establezcan los criterios de operación y posibles exenciones a las normas establecidas.
+
+La "Carta Operacional" deberá contener al menos la siguiente información:
+
+a) Características y justificación de las Operaciones Especiales que se realizarán en el cumplimiento de las misiones que el organismo solicitante tiene asignadas.
+
+b) Identificación de las exenciones al Reglamento de Circulación Aérea necesarias para el cumplimiento de las misiones especiales.
+
+c) Identificación de los aeródromos y helipuertos permanentes y eventuales, horario operativo, comunicaciones y centro de coordinación.
+
+d) Procedimientos de coordinación con la correspondiente Dependencia de Control de Tránsito Aéreo.
+
+e) Datos relativos a la flota de aeronaves, pilotos, permisos administrativos a las empresas.
+
+Se entenderá que las exenciones al Reglamento de Circulación Aérea incluidas en una Carta Operacional podrán otorgarse a cualquiera de las disposiciones contenidas en el Reglamento de Circulación Aérea, siempre que sean imprescindibles para el cumplimiento eficaz y seguro de las Operaciones Especiales objeto de dicha Carta Operacional, con motivo de las exigencias planteadas para la realización de dichas operaciones.
+
+Las aeronaves no podrán ajustarse a estas exenciones cuando no estén realizando las Operaciones Especiales que se especifiquen en la correspondiente Carta Operacional.
+
 ## CAPÍTULO 4
 
 ## Reglas de vuelo visual
@@ -1145,5 +1183,7 @@ b) mantenga la escucha en la radiofrecuencia adecuada y establezca comunicación
 notificará la posición de acuerdo con lo especificado en 2.3.6.3. para vuelos controlados.
 
 2.5.3.3.2. Las aeronaves que decidan utilizar el servicio de asesoramiento de tránsito aéreo mientras vuelan en condiciones IFR dentro de áreas especificadas con servicio de asesoramiento, se espera que cumplan las disposiciones de 2.3.6., pero el plan de vuelo y los cambios que se hagan en él no están supeditados a autorizaciones y las comunicaciones en ambos sentidos se mantendrán con la dependencia que suministre el servicio de asesoramiento de tránsito aéreo.
+
+> Se modifica el Capítulo 2 por el art. único.2 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637
 
 > Se modifica el Capítulo 3 por el art. 1 y 4 de la Orden PRE/2220/2004, de 6 de julio de 2004. Ref. BOE-A-2004-12699

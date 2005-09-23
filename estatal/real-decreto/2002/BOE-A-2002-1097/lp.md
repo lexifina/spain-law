@@ -110,7 +110,7 @@ Aeronave privada.
 
 Se considerarán aeronaves privadas todas aquellas que no tengan consideración de aeronave de estado.
 
-Aeronavegabilidad (Certificarla).
+Aeronavegabilidad (Certificar la).
 
 (Véase Certificar la aeronavegabilidad).
 
@@ -248,7 +248,7 @@ Aproximación por instrumentos en la que se inicia el tramo de aproximación fin
 
 Aproximación directa (VFR).
 
-Maniobra de entrada en el circuito de tránsito de aeródromo siguiendo una trayectoria que corta la prolongación del eje de la pista, sin que sea necesario efectuar cualquier otro tramo del circuito de tránsito de aeródromo.
+Maniobra de entrada en el circuito de tránsito de aeródromºo siguiendo una trayectoria que corta la prolongación del eje de la pista, sin que sea necesario efectuar cualquier otro tramo del circuito de tránsito de aeródromo.
 
 Aproximación en circuito.
 
@@ -429,7 +429,7 @@ c) los gradientes térmicos son:
 
 Nota 1: El metro geopotencial patrón vale 9,80665 m2s-2.
 
-Nota 2: Véase el Doc 7488 de OACI para la relación entre las variables y para las tablas que dan los valores correspondientes de temperatura, presión, densidad y geopotencial.
+Nota 2: Véase el Doc 7488 de OACI para la relación entre las variables y para las tablas que dan los valores correspondientes de temperatura, presión, densidad y geopotencial
 
 Nota 3: El Doc 7488 de OACI da también peso específico, viscosidad dinámica, viscosidad cinemática y velocidad del sonido a varias altitudes.
 
@@ -567,6 +567,10 @@ Carta de altitudes mínimas de guía vectorial radar.
 
 Carta en la que figuran las altitudes MSL más bajas a las que un controlador radar puede proporcionar guía vectorial radar a las aeronaves.
 
+Carta Operacional.
+
+Carta que recoge el acuerdo suscrito entre el Estado Mayor del Ejército del Aire, la Dirección General de Aviación Civil y el Director General o cargo equivalente del Organismo Público encargado de las operaciones, puntualizando las condiciones, medios y procedimientos necesarios para regular la cooperación mutua o la forma de llevar a cabo ciertas operaciones especiales para la realización de misiones de interés público, que por su urgencia o características pudieran verse afectadas por la estricta observación del Reglamento de Circulación Aérea.
+
 Categoría del vuelo.
 
 Indicación respecto a si las dependencias de los servicios de tránsito aéreo deben conceder o no trato especial a una aeronave dada.
@@ -689,7 +693,7 @@ Combustible mínimo.
 
 Término utilizado para describir una situación en que el combustible restante de la aeronave es tal que poco o ningún retraso puede aceptarse.
 
-Nota: No se trata de una situación de emergencia sino que se indica simplemente que es posible que surja una situación de emergencia en el caso de que se produzca algún retraso indebido.
+Nota: No se trata de una situación de emergencia sino que se indica simplemente que es posible que suja una situación de emergencia en el caso de que se produzca algún retraso indebido.
 
 Computadora.
 
@@ -715,21 +719,21 @@ Comunicación de tierra a aire.
 
 Comunicación en un sólo sentido, de las estaciones o puntos situados en la superficie de la tierra a las aeronaves.
 
-Comunicación interpiloto aire-aire.
-
-Comunicación en ambos sentidos por un canal aire-aire designado para que, en vuelos sobre áreas remotas y oceánicas, las aeronaves que estén fuera del alcance de estaciones terrestres VHF puedan intercambiar información operacional necesaria y para facilitar la resolución de dificultades operacionales.
-
 Comunicaciones «en conferencia».
 
 Instalaciones de comunicaciones por las que se pueden llevar a cabo comunicaciones orales directas entre tres o más lugares simultáneamente.
+
+Comunicaciones impresas.
+
+Comunicaciones que facilitan automáticamente en cada una de las terminales de un circuito una constancia impresa de todos los mensajes que pasan por dicho circuito.
 
 Comunicaciones fuera de red.
 
 Comunicaciones radiotelefónicas efectuadas por una estación del servicio móvil aeronáutico, distintas de las realizadas como parte de la red radiotelefónica.
 
-Comunicaciones impresas.
+Comunicación interpiloto aire-aire.
 
-Comunicaciones que facilitan automáticamente en cada una de las terminales de un circuito una constancia impresa de todos los mensajes que pasan por dicho circuito.
+Comunicación en ambos sentidos por un canal aire-aire designado para que, en vuelos sobre áreas remotas y oceánicas, las aeronaves que estén fuera del alcance de estaciones terrestres VHF puedan intercambiar información operacional necesaria y para facilitar la resolución de dificultades operacionales.
 
 Condiciones meteorológicas de vuelo por instrumentos.
 
@@ -905,7 +909,7 @@ La distancia más corta entre dos puntos cualesquiera de una superficie elipsoid
 
 Distancia DME.
 
-Alcance óptico (alcance oblicuo) a partir del transmisor de la señal DME hasta la antena receptora.
+Alcance óptico (alcance oblícuo) a partir del transmisor de la señal DME hasta la antena receptora.
 
 Documentación Integrada de Información Aeronaútica.
 
@@ -935,7 +939,7 @@ El tiempo que se estima necesario para volar desde un punto significativo a otro
 
 Duración total prevista.
 
-En el caso de los vuelos IFR, el tiempo que se estima necesario, a partir del momento del despegue, para llegar al punto designado, definido con relación a las ayudas para la navegación, desde el cual se tiene la intención de iniciar un procedimiento de aproximación por instrumentos o, si no existen ayudas para la navegación asociadas con el aeródromo de destino, para llegar a la vertical de dicho aeródromo. En el caso de los vuelos VFR, el tiempo que se estima necesario a partir del momento del despegue para llegar a la vertical del aeródromo de destino.
+En el caso de los vuelos IFR, el tiempo que se estima necesario, a partir del momento del despegue, para llegar al punto designado, definido con relación a las ayudas para la navegación, desde el cual se tiene la intención de iniciar un procedimiento de aproximación por instrumentos o, si no existen ayudas para la navegación asociadas con el aeródomo de destino, para llegar a la vertical de dicho aeródromo. En el caso de los vuelos VFR, el tiempo que se estima necesario a partir del momento del despegue para llegar a la vertical del aeródromo de destino.
 
 Eco radar.
 
@@ -1037,7 +1041,7 @@ Estación de telecomunicaciones aeronáuticas que, como principal responsabilida
 
 Estación de radio de control de aeródromo.
 
-Estación que sirve para las radiocomunicaciones entre la torre de control del aeródromo y las aeronaves o las estaciones móviles aeronáuticas.
+Estación que sirve para las radiocomunicaciones entre la torre de control del aedródromo y las aeronaves o las estaciones móviles aeronáuticas.
 
 Estación de radio de los Servicios de Tránsito Aéreo.
 
@@ -1681,6 +1685,10 @@ Operación de Categoría IIIC (CAT IIIC). Aproximación y aterrizaje de precisi�
 
 Nota: Cuando los valores de la altura de decisión (DH) y del alcance visual en la pista (RVR) corresponden a categorías de operación diferentes, las operaciones de aproximación y aterrizaje por instrumentos han de efectuarse de acuerdo con los requisitos de la categoría más exigente (p. ej., una operación con una DH correspondiente a la CAT IIIA, pero con un RVR de la CAT IIIB, se consideraría operación de la CAT IIIB, y una operación con una DH correspondiente a la CAT II, pero con un RVR de la CAT I, se consideraría operación de la CATII).
 
+Operaciones Especiales.
+
+Se denominan operaciones especiales las que, por motivos de interés público se realicen por aeronaves en cumplimiento de una Carta Operacional, debidamente aprobada por los Organismos competentes, en la que se establecen los criterios de operación y las exenciones a cualquiera de las disposiciones contenidas en el Reglamento de la Circulación Aérea, derivadas de la urgencia o características de la misión encomendada.
+
 Operaciones paralelas segregadas.
 
 Operaciones simultáneas en pistas de vuelo por instrumentos, paralelas o casi paralelas, cuando una de las pistas se utiliza exclusivamente para aproximaciones y la otra exclusivamente para salidas.
@@ -1755,7 +1763,7 @@ Pista destinada a las operaciones de aeronaves que utilicen procedimientos visua
 
 Pista para aproximaciones de precisión.
 
-(Véase Pista de vuelo por instrumentos.)
+(Veáse Pista de vuelo por instrumentos.)
 
 Pistas casi paralelas
 
@@ -2403,7 +2411,7 @@ Tránsito de aeródromo.
 
 Todo el tránsito que tiene lugar en el área de maniobras de un aeródromo, y todas las aeronaves que vuelen en las inmediaciones del mismo.
 
-Se considera que una aeronave está en las inmediaciones de un aeródromo, cuando está dentro de un circuito de tránsito de aeródromo, o bien entrando o saliendo del mismo.
+Se considera que una aeronave está en las inmediaciones de un aeródromo, cuando está dentro de un circuíto de tránsito de aeródromo, o bien entrando o saliendo del mismo.
 
 Transmisión a ciegas.
 
@@ -2527,7 +2535,7 @@ Viraje reglamentario.
 
 Maniobra que consiste en un viraje efectuado a partir de una derrota designada, seguido de otro en sentido contrario, de manera que la aeronave intercepte la derrota designada y pueda seguirla en sentido opuesto.
 
-Los virajes reglamentarios se designan «a la izquierda» o «a la derecha», según el sentido en que se haga el viraje inicial.
+Los virages reglamentarios se designan «a la izquierda» o «a la derecha», según el sentido en que se haga el viraje inicial.
 
 Pueden designarse como virajes reglamentarios los que se hacen ya sea en vuelo horizontal o durante el descenso, según las circunstancias en que se siga cada procedimiento.
 
@@ -2665,7 +2673,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 
 | Abrev. | Significado |
 | --- | --- |
-| A | Ámbar |
+| A | Ambar |
 | AA | Todo después de... |
 | A/A | Aire a Aire |
 | AAL | Por encima del nivel del aeródromo |
@@ -2868,7 +2876,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | CTN | Precaución |
 | CTOT | Hora calculada de despegue |
 | CTR | Zona de Control |
-| CU | Cúmulos |
+| CU | Cumulos |
 | CUF | Cumuliforme |
 | CUST | Aduana |
 | CW | Onda continua |
@@ -2876,7 +2884,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | D... | Zona peligrosa (seguida de la identificación) |
 | DA | Altitud de decisión |
 | DA/H | Altitud/altura de decisión |
-| DCD | Dúplex de doble canal |
+| DCD | Duplex de doble canal |
 | DCKG | Atraque |
 | DCS | Simplex de doble canal |
 | DCT | Directo (con relación a los permisos del plan de vuelo y tipo de aproximación) |
@@ -3240,7 +3248,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | NNE | Nornordeste |
 | NNW | Nornoroeste |
 | NOF | Oficina NOTAM internacional |
-| NOSIG | Sin ningún cambio importante (se utiliza en los pronósticos de aterrizaje de tipo «tendencia») |
+| NOSIG | Sin ningún cambio importante (se utiliza en los pronósicos de aterrizaje de tipo «tendencia») |
 | NOTAM | Aviso que contiene información relativa al establecimiento, condición o modificación de cualesquiera instalaciones, servicios, procedimientos o peligros aeronáuticos que es indispensable conozca oportunamente el personal que realiza operaciones de vuelo |
 | NOV | Noviembre |
 | NOZ | Zona normal de operaciones |
@@ -3461,7 +3469,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | SMC | Control de circulación en la superficie |
 | SMR | Radar de movimiento en la superficie |
 | SN | Nieve |
-| SNOWTAM | NOTAM especial que notifica la presencia o eliminación de condiciones peligrosas debidas a nieve, nieve fangosa, hielo o agua estancada, relacionadas con nieve, nieve fangosa y hielo en el área de movimiento por medio de un modelo concreto |
+| SNOWTAM | NOTAM especial que notifica la presencia o eliminación de condiciones peligrosas debidas a nieve, nieve fangosa, hielo o agua estancada, relacionadas con nieve, nieve fangosa y hielo en el ára de movimiento por medio de un modelo concreto |
 | SNSH | Chaparrones de nieve |
 | SOC | Comienzo del ascenso |
 | SPECI | Informe meteorológico aeronáutico especial seleccionado (en clave meteorológica aeronáutica) |
@@ -3487,7 +3495,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | ST | Estratos |
 | STA | Aproximación directa |
 | STAR | Llegada normalizada por instrumentos |
-| STD | Normal o estándar |
+| STD | Normal o estandar |
 | STF | Estratiforme |
 | STN | Estación |
 | STNR | Estacionario |
@@ -3655,3 +3663,5 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | YES | Sí (afirmativo) |
 | YR | Su (de usted) |
 | ZS | Zona de seguridad |
+
+> Se modifica el Capítulo 1 por el art. único.1 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637
