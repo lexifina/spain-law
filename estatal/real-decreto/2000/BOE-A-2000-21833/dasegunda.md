@@ -1,5 +1,5 @@
 ## Disposición adicional segunda. Colaboración con el Ministerio de Economía.
 
-El Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas colaborará con el Ministerio de Economía para la consecución de los objetivos de la política energética, desarrollando las actividades de investigación y de carácter técnico-científico que resulten necesarias.
+(Derogada)
 
-Con esta finalidad, se creará una Comisión Interministerial, presidida por el Director general del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas, y cuya Vicepresidencia corresponderá al Director general de Política Energética y Minas del Ministerio de Economía, en la que participarán paritariamente representantes de los Ministerios de Economía y de Ciencia y Tecnología. Corresponderá a esta Comisión, entre otras funciones, coordinar las actuaciones conjuntas de ambos Departamentos, en relación con el Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas, proponer el presupuesto necesario para su ejecución, así como el seguimiento de tales actividades.
+> Se deroga por la disposición derogatoria única del Real Decreto 1086/2005, de 16 de septiembre. Ref. BOE-A-2005-15678.
