@@ -38,7 +38,27 @@ intensivo, extensivo o mixto.
 
 10. Clasificación según la capacidad productiva.
 
-11. Clasificación según la forma de cría: producción ecológica, campera, en suelo o en jaulas.
+11. Clasificación según la forma de cría.
+
+a) Explotaciones avícolas de producción de huevos:
+
+Ecológica.
+
+Campera.
+
+En suelo.
+
+En jaulas.
+
+b) Explotaciones avícolas de producción de carne:
+
+Sistema extensivo en gallinero.
+
+Gallinero con salida libre.
+
+Granja al aire libre.
+
+Granja de cría en libertad.
 
 12. Censo y fecha de actualización.
 
@@ -57,3 +77,5 @@ intensivo, extensivo o mixto.
 19. Información sanitaria relativa a las restricciones de entrada y salida que afecten a la especie considerada dentro de la explotación, con indicación de sus causas.
 
 La información de los apartados 5, 6, 8, 9, 10, 11, 15, 17 y 18 se recogerá siempre que proceda, de acuerdo con las disposiciones normativas aplicables de carácter sectorial y/o sanitaria.
+
+> Se modifica el apartado B.11 por la disposición final 1 del Real Decreto 1084/2005, de 16 de septiembre. Ref. BOE-A-2005-16092
