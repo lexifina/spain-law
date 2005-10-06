@@ -6,6 +6,8 @@
 
 Dirección: Para los Oficiales de la Guardia Civil que pudieran ejercer mando o apoyo al mando, dirección, impulso y vigilancia del servicio, gestión de personal, logística y recursos materiales en las Unidades de la Agrupación de Tráfico.
 
-Motoristas: Para los Suboficiales y personal de la Escala Básica de Cabos y Guardias Civiles que presten servicio específico en Unidades de la Agrupación de Tráfico al objeto de garantizar la seguridad vial en las vías interurbanas, así como los cometidos recogidos en las normativas específicas de la Especialidad.
+Motoristas: Para los Suboficiales y personal de la Escala de Cabos y Guardias Civiles que presten servicio específico en Unidades de la Agrupación de Tráfico al objeto de garantizar la seguridad vial en las vías interurbanas, así como los cometidos recogidos en las normativas específicas de la Especialidad.
 
-Atestados: Para los Suboficiales y personal de la Escala Básica de Cabos y Guardias Civiles que instruyan diligencias e informes técnicos o periciales consecuentes de accidentes de tráfico ocurridos en su demarcación territorial y que no se hubieran confeccionado diligencias a prevención.
+Atestados: Para los Suboficiales y personal de la Escala de Cabos y Guardias Civiles que instruyan diligencias e informes técnicos o periciales consecuentes de accidentes de tráfico ocurridos en su demarcación territorial y que no se hubieran confeccionado diligencias a prevención.
+
+> Se modifican los párrafos segundo y tercero del apartado 2 por el art. único.1 de la Orden INT/3051/2005, de 28 de septiembre. Ref. BOE-A-2005-16415.

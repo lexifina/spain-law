@@ -12,7 +12,7 @@ A) Condiciones generales:
 
 a) Estar en situación de servicio activo.
 
-b) Llevar, como mínimo, dos años de servicio en el Cuerpo.
+b) Llevar, como mínimo, un año de servicio en el Cuerpo.
 
 c) No cumplir ni tener cumplidos en el año de la convocatoria:
 
@@ -20,11 +20,11 @@ Treinta y cinco años de edad para la modalidad de Motorista.
 
 Cuarenta y cinco años de edad para las modalidades de Dirección y de Atestados.
 
-d) Estar en posesión del permiso de conducción civil o del Cuerpo de la clase B y además del A para los Motoristas.
+d) Estar en posesión de los permisos de conducción que habiliten para conducir los vehículos que según la modalidad sean de dotación en la Agrupación de Tráfico, de acuerdo con la determinación que se establezca en las bases generales de las convocatorias.
 
 e) Carecer de notas desfavorables sin invalidar.
 
-f) No haber sido retenido en su empleo o no resultar apto para el ascenso
+f) No haber sido declarado no apto para el ascenso o retenido en su empleo.
 
 g) Otras que se determinen en las bases de la convocatoria.
 
@@ -59,3 +59,5 @@ e) No haber renunciado a un curso de especialización en un período de tres añ
 4. El concurso-oposición será el mismo para las modalidades de Motoristas y Atestados, y para la modalidad de Dirección otro concurso-oposición independiente. Las bases de la convocatoria, atendiendo a las necesidades de personal de la Agrupación de Tráfico, señalarán número de plazas por modalidad y cupo a reservar según empleos. Se establecerá un temario general y unos conocimientos exigibles según la modalidad, que serán objeto de las pruebas de la fase de oposición.
 
 5. Los aspirantes que superen ambas fases, una vez ordenados por puntuación, accederán a los cursos de especialización según la modalidad a la que hayan optado y el número de plazas asignadas a cada modalidad. Las plazas reservadas a un empleo y no cubiertas podrán ser transferidas a otros empleos siempre que sean de la misma modalidad.
+
+> Se modifican los apartados 3.A).b), d) y f) por el art. único.2 de la Orden INT/3051/2005, de 28 de septiembre. Ref. BOE-A-2005-16415.
