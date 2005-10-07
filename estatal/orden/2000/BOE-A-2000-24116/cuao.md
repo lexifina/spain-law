@@ -26,4 +26,8 @@ No se podrá efectuar la presentación telemática de las declaraciones correspo
 
 3. Cuando haya transcurrido más de un año desde el inicio del plazo de presentación a que se refiere el número cinco del apartado sexto de esta Orden. A partir de dicha fecha los obligados tributarios que pretendan regularizar su situación tributaria en relación con cada una de estas obligaciones, deberán efectuar la presentación de la declaración en impreso o, en su caso, en soporte directamente legible por ordenador.
 
+> Téngase en cuenta que se deroga el número 3 del subapartado Tres, en lo que a la declaración de los modelos 193 y 345 se refiere, por la disposición derogatoria única.2 de la Orden EHA/3061/2005, de 3 de octubre. Ref. BOE-A-2005-16483.
+
 Cuatro. Presentación de declaraciones con deficiencias de tipo formal. En aquellos casos en que se detecten anomalías de tipo formal en la transmisión telemática de declaraciones, dicha circunstancia se pondrá en conocimiento del declarante por el propio sistema mediante los correspondientes mensajes de error, para que proceda a su subsanación.
+
+> Se deroga el número 3 del subapartado 3, en lo que a la declaración de los modelos 193 y 345 se refiere, por la disposición derogatoria única.2 de la Orden EHA/3061/2005, de 3 de octubre. Ref. BOE-A-2005-16483.

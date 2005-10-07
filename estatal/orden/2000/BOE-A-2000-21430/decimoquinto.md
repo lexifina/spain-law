@@ -22,6 +22,8 @@ Tres. Supuestos de exclusión de la presentación telemática del modelo 180.–
 
 2. Cuando la presentación sea colectiva, según lo previsto en la presente Orden.
 
-3. Cuando haya transcurrido más de un año desde el inicio del plazo de presentación a que se refiere el apartado decimoséptimo de esta Orden. A partir de dicha fecha los obligados tributarios que pretendan regularizar su situación tributaria en relación con esta obligación, deberán efectuar la presentación de la declaración en impreso o, en su caso, en soporte directamente legible por ordenador.
+3. (Derogado)
 
 Cuatro. Presentación de declaraciones con deficiencias de tipo formal.–En aquellos casos en que se detecten anomalías de tipo formal en la transmisión telemática de declaraciones, dicha circunstancia se pondrá en conocimiento del declarante por el propio sistema mediante los correspondientes mensajes de error, para que proceda a su subsanación.
+
+> Se deroga el apartado 3.3 por la disposición derogatoria única.3 de la Orden EHA/3061/2005, de 3 de octubre. Ref. BOE-A-2005-16483.
