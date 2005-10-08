@@ -1,22 +1,22 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_016.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_017.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_018.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_022.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_019.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_023.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_020.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_024.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_021.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_025.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_026.png)
+> Se modifica por la Orden ITC/3079/2005, de 3 de octubre. Ref. BOE-A-2005-16583.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/41/02883_027.png)
+> Se modifica por la Orden ITC/3158/2004, de 23 de septiembre. Ref. BOE-A-2004-17095.
 
 > Se modifica por la Orden CTE/0315/2004, de 10 de febrero. Ref. BOE-A-2004-2883.
 

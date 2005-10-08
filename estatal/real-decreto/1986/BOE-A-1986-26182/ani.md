@@ -1,50 +1,46 @@
 ## ANEXO I
 
-1. Vehículos automóviles y sus partes y piezas
+1. Vehículos automóviles y sus partes y piezas.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_007.png)
+2. Tractores agrícolas.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_008.png)
 
-2. Tractores agrícolas
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_011.png)
+3. Vehículos de 2 ó 3 ruedas y cuadriciclos.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_012.png)
 
-3. Vehículos de 2 ó 3 ruedas y cuadriciclos
+4. Varios.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_015.png)
 
-4. Varios
+> Se modifica por la Orden ITC/3079/2005, de 3 de octubre. Ref. BOE-A-2005-16583.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_016.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_017.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/240/17095_018.png)
+> Véase la corrección de errores publicada en BOE núm. 270, de 11 de noviembre de 2005. Ref. BOE-A-2005-18492.
 
 > Se modifica por la Orden ITC/3158/2004, de 23 de septiembre. Ref. BOE-A-2004-17095.
 
