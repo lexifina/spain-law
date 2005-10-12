@@ -28,6 +28,8 @@ Cardo: Cynara cardúnculus L.
 
 Cebolla: Allium cepa L.
 
+Cebolleta: Allium fistulosum L
+
 Cebollino: Allium schoenoprasum L.
 
 Chirivia: Pastinaca sativa L.
@@ -105,6 +107,8 @@ Sandía: Citrullus lanatus (Thunb.) Matsum. et Nakai.
 Tomate: Lycopersicon lycopersicum L. Karrsten ex. Farw.
 
 Zanahoria: Daucus carota L.
+
+> Se modifica por el art. único.1 de la Orden APA/3127/2005, de 23 de septiembre. Ref. BOE-A-2005-16831.
 
 > Se modifica por el art. único de la Orden APA/2047/2003, de 10 de julio. Ref. BOE-A-2003-14631.
 

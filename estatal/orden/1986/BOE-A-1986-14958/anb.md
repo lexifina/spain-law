@@ -12,13 +12,15 @@
 
 1 de mayo: Alcachofa.
 
-1 de junio: Berenjena, Calabacín, Cebolla temprana, Cebollino, Lechuga, Melón, Pepino, Perifollo, Pimiento, Tomate.
+1 de junio: Berenjena, Calabacín, Cebolla temprana, Cebolleta, Cebollino, Lechuga, Melón, Pepino, Perifollo, Pimiento, Tomate.
 
 1 de agosto: Habas.
 
 15 de agosto: Guisante.
 
 1 de noviembre:Berenjena, Calabaza, Calabaza de peregrino, Calabaza moscada, Calabacín, Cebolla tardía, Chirivia, Lechuga, Melón, Pepino, Pimiento, Puerro, Sandía y Tomate.
+
+> Se modifica por el art. único.2 de la Orden APA/3127/2005, de 23 de septiembre. Ref. BOE-A-2005-16831.
 
 > Se modifica por el art. único de la Orden APA/2047/2003, de 10 de julio. Ref. BOE-A-2003-14631.
 

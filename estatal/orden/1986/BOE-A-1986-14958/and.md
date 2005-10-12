@@ -12,11 +12,13 @@
 
 1 de junio: Alcachofa.
 
-1 de julio: Berenjena, Calabacín, Cebolla temprana, Cebollino, Lechuga, Melón, Pepino, Perifollo, Pimiento, Tomate.
+1 de julio: Berenjena, Calabacín, Cebolla temprana, Cebolleta, Cebollino, Lechuga, Melón, Pepino, Perifollo, Pimiento, Tomate.
 
 1 de septiembre: Guisantes y Habas.
 
 1 de diciembre: Berenjena, Calabaza, Calabaza de peregrino, Calabaza moscada, Calabacín, Cebolla tardía, Chirivia, Lechuga, Melón, Pepino, Pimiento, Puerro, Sandía y Tomate.
+
+> Se modifica por el art. único.4 de la Orden APA/3127/2005, de 23 de septiembre. Ref. BOE-A-2005-16831.
 
 > Se modifica por el art. único de la Orden APA/2047/2003, de 10 de julio. Ref. BOE-A-2003-14631.
 

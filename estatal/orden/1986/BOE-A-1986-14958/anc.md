@@ -28,6 +28,8 @@ Cardo: 100 gramos.
 
 Cebolla: 100 gramos.
 
+Cebolleta: 100 gramos
+
 Cebollino: 100 gramos.
 
 Chirivia: 50 gramos.
@@ -97,6 +99,8 @@ Sandía: 150 gramos.
 Tomate: 20 gramos.
 
 Zanahoria: 50 gramos.
+
+> Se modifica por el art. único.3 de la Orden APA/3127/2005, de 23 de septiembre. Ref. BOE-A-2005-16831.
 
 > Se modifica por el art. único de la Orden APA/2047/2003, de 10 de julio. Ref. BOE-A-2003-14631.
 
