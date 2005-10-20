@@ -16,6 +16,8 @@ c) División de Logística: Será responsable del planeamiento, coordinación y 
 
 d) Secretaría General: Auxiliará directamente al Segundo Jefe del Estado Mayor y se encargará de los asuntos no específicos de las Divisiones del Estado Mayor.
 
+Sin perjuicio de lo anterior, la Armada dispondrá, además, de una División de Información y Telecomunicaciones que será responsable del planeamiento, coordinación y control general de los objetivos a alcanzar en cuanto a los Sistemas de Información y Telecomunicaciones.
+
 II. Órganos de Asistencia y Servicios Generales del Cuartel General.–Se articulará en los siguientes órganos que con carácter general desempeñarán los cometidos que para cada uno de ellos se especifican:
 
 a) Órgano de Asistencia Técnica: Responsable de lo relacionado con las materias de cartografía, sociología, estadística, investigación militar operativa, publicaciones.
@@ -47,3 +49,5 @@ IV. Asesoría Jurídica.–Será el órgano consultivo y asesor, único en mater
 El Comandante General de la Infantería de Marina ejercerá el mando orgánico de la Infantería de Marina, bajo la dependencia directa del Jefe del Estado Mayor de la Armada, asesorándole en todo lo relacionado con la organización, instrucción, doctrina, métodos de empleo y planes de adiestramiento de la Fuerza de Infantería de Marina.
 
 3. Existirá en cada Cuartel General una Intervención Delegada que, con la dependencia orgánica y funcional que corresponda, ejercerá las funciones de control interno, Notaría Militar y asesoramiento económico-fiscal.
+
+> Se añade el párrafo final al apartado 1.I por el apartado único de la Orden DEF/3229/2005, de 10 de octubre. Ref. BOE-A-2005-17210.
