@@ -18,4 +18,8 @@ La Subdirección General de Asuntos Consultivos y Contenciosos.
 
 4. Corresponderá a la Subdirección General de Asuntos Consultivos y Contenciosos el bastanteo de los documentos presentados por los interesados para acreditar la representación que invoquen, cuando dichos documentos pretendiesen ser utilizados ante los órganos centrales de la Agencia.
 
+5. El Servicio Jurídico de la Agencia Tributaria, a través de una unidad desconcentrada dependiente de su Dirección y denominada Servicio Jurídico de la Delegación Central de Grandes Contribuyentes, prestará asistencia jurídica a dicha Delegación Central.
+
+> Se añade el apartado 5 por la disposición final 1.5 de la Orden EHA/3230/2005, de 13 de octubre. Ref. BOE-A-2005-17211.
+
 > Se modifica por el apartado 2.5 de la Orden de 4 de abril de 1997. Ref. BOE-A-1997-7437.

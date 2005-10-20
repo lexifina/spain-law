@@ -2,15 +2,19 @@
 
 El Departamento de Informática Tributaria estará integrado por las siguientes Subdirecciones Generales:
 
-Subdirección General de Planificación y Coordinación Informática.
+a) Subdirección General de Planificación y Coordinación Informática.
 
-Subdirección General de Explotación.
+b) Subdirección General de Explotación.
 
-Subdirección General de Aplicaciones.
+c) Subdirección General de Aplicaciones.
 
-Subdirección General de Aplicaciones de Aduanas e Impuestos Especiales.
+d) Subdirección General de Aplicaciones de Aduanas e Impuestos Especiales.
 
-Subdirección General de Estudios Estadísticos y Tributarios.
+e) Subdirección General de Tecnologías de Análisis de la Información e Investigación del Fraude.
+
+f) Subdirección General de Estudios Estadísticos y Tributarios.
+
+> Se modifica por la disposición final 1.4 de la Orden EHA/3230/2005, de 13 de octubre. Ref. BOE-A-2005-17211.
 
 > Se modifica por la disposición única.3 de la Orden de 11 de julio de 1997. Ref. BOE-A-1997-15579.
 
