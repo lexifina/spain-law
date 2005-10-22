@@ -1,0 +1,11 @@
+El Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en estos transportes (ATP), hecho en Ginebra el 1 de septiembre de 1970 y publicado en el «Boletín Oficial del Estado» de 22 de noviembre de 1976, establece las medidas tendentes a asegurar la mejora de las condiciones de conservación y calidad de las mercancías perecederas durante su transporte, en especial en el transcurso de los intercambios internacionales.
+
+Este real decreto tiene por finalidad que la regulación contenida en dicho acuerdo internacional sea también de estricta aplicación al transporte en el territorio nacional, lo cual no sólo contribuirá a hacer más seguro el comercio de mercancías perecederas, sino que, además, será lógicamente un elemento positivo para el desarrollo de este comercio.
+
+Durante su tramitación en fase de proyecto, este real decreto, además de contar con la aprobación de la Comisión para la coordinación del transporte de mercancías perecederas, ha sido informado por la Dirección General de Transportes por Carretera, el Pleno del Departamento de Mercancías del Comité Nacional de Transporte por Carretera, la Sección de Transporte de Mercancías del Consejo Nacional de Transportes Terrestres, las Secretarías Generales Técnicas de todos los ministerios proponentes y la Dirección General de Cooperación Autonómica del Ministerio de Administraciones Públicas.
+
+Lo establecido en este real decreto se dicta al amparo de las competencias exclusivas del Estado de acuerdo con lo dispuesto en el artículo 149.1.13.ª, 16.ª y 21.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica, sanidad exterior y bases y coordinación general de la sanidad y, por último, ferrocarriles y transportes terrestres que transcurran por el territorio de más de una comunidad autónoma.
+
+En su virtud, a propuesta de la Ministra de Fomento y de los Ministros de Asuntos Exteriores y de Cooperación, del Interior, de Industria, Turismo y Comercio, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 7 de octubre de 2005,
+
+DISPONGO:
