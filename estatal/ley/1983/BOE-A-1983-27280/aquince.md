@@ -2,7 +2,7 @@
 
 1. Las Comunidades Autónomas que hayan asumido estatutariamente competencias en relación con las Corporaciones de Derecho público representativas de intereses económicos, adecuarán su actuación a los siguientes principios:
 
-a) Se constituirán en el territorio de todas las Comunidades Autónomas, Cámaras Agrarias, Cámaras de Comercio, Industria y Navegación, Cámaras de la Propiedad Urbana y Cofradías de Pescadores con estas denominaciones u otras similares.
+a) Se constituirán en el territorio de todas las Comunidades Autónomas, Cámaras Agrarias, Cámaras de Comercio, Industria y Navegación y Cofradías de Pescadores con estas denominaciones u otras similares.
 
 b) El ámbito territorial de estas Corporaciones será el Establecido por sus propios Estatutos.
 
@@ -13,6 +13,8 @@ d) Todos los cargos de los órganos del Gobierno de dichas Corporaciones tendrá
 2. Las Corporaciones de Derecho público representativas de intereses profesionales que existan o se constituyan en el territorio de cada Comunidad Autónoma, ajustarán su organización y competencias a los principios y reglas básicas establecidas en la legislación del Estado para dichas Entidades, sin perjuicio de cualesquiera otras competencias que pudiera atribuirles o delegarles la Administración Autonómica.
 
 3. Por Ley del Estado podrán constituirse Consejos Generales o Superiores de las Corporaciones a las que se refiere el presente artículo para asumir la representación de los intereses corporativos en el ámbito nacional o internacional. Sin embargo los acuerdos de los órganos de estas Corporaciones con competencias en ámbito inferior al nacional, no serán susceptibles de ser recurridos en alzada ante los Consejos Generales o Superiores, salvo que sus Estatutos no dispusieran lo contrario.
+
+> Se suprime la mención a las Cámaras Agrarias del apartado 1.a) por el art. único de la Ley 18/2005, de 30 de septiembre. Ref. BOE-A-2005-16256
 
 > Se suprime la referencia a las Cámaras Oficiales de la Propiedad Urbana y el Consejo Superior de las mismas del apartado 1.a) por el art. único del Real Decreto-Ley 8/1994, de 5 de agosto. Ref. BOE-A-1994-18616
 
