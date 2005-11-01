@@ -170,69 +170,223 @@ SERVICIOS SUMINISTRADOS Y REQUISITOS DE VUELO
 
 Cuando las partes del espacio aéreo ATS propuestas se yuxtapongan verticalmente, es decir, una encima de otra, los vuelos a un nivel común cumplirán con los requisitos correspondientes a la clase de espacio aéreo menos restrictiva y se les prestarán los servicios aplicables a dicha clase. Al aplicarse estos criterios se considerará, por tanto, que el espacio aéreo de Clase B es menos restrictivo que el de Clase A; que el espacio aéreo de Clase C es menos restrictivo que el de Clase B, etc.
 
-3.2.7. Performance de navegación requerida (RNP).
+3.2.7. Navegación de Área (RNAV) y Performance de Navegación Requerida (RNP).
 
-En virtud de acuerdos de navegación aérea, los procedimientos aplicables para las operaciones con navegación de área (RNAV) en las FIR/UIR Madrid, Barcelona y Canarias son los que se indican a continuación.
+En virtud de acuerdos regionales de navegación aérea, se establecerán los procedimientos aplicables para las operaciones con navegación de área (RNAV) y Performance de Navegación Requerida (RNP) en las FIR/UIR Barcelona, Canarias y Madrid, y en particular, los que se recogen a continuación.
 
-Nota: Para las aeronaves de Estado no equipadas con RNAV aprobado para RNP 5 les será de aplicación lo establecido en la sección 3.2.7.9.
+Nota.–Para las aeronaves de Estado no equipadas con RNAV les será de aplicación lo establecido en el párrafo 3.2.7.9.
 
-3.2.7.1. Únicamente las aeronaves equipadas con RNAV que tienen una precisión de navegación que satisface la performance de navegación requerida (RNP) 5 pueden presentar planes para operaciones IFR en las rutas ATS de las regiones de información de vuelo/regiones superiores de información de vuelo (FIR/UIR) indicadas en 3.2.7.4. Las operaciones de las aeronaves que no están equipadas con RNAV, pero que tienen una precisión de navegación que satisface la RNP 5, se limitarán a las rutas ATS que la Autoridad competente designe dentro de su espacio aéreo inferior, de conformidad con 3.2.7.3.
+3.2.7.1 Aplicación de Procedimientos RNAV.
 
-3.2.7.2. Las aeronaves que operen de acuerdo con las reglas IFR en las rutas ATS de las FIR/UIR indicadas en 3.2.7.4. tendrán, como mínimo, equipo RNAV que satisface los siguientes requisitos:
+3.2.7.1.1 Operaciones en TMA.
 
-a) proporciona una precisión de uso del sistema igual a 4,6 km. (2,5 NM), o mejor, para una desviación característica con un valor de confinamiento del 95% de ±9,26 km. (±5 NM), satisfaciendo así los requisitos de precisión aplicables a la RNP 5; y
+3.2.7.1.1.1 A excepción de lo indicado en los apartados 3.2.7.1.1.2 y 3.2.7.1.1.3, sólo aquellas aeronaves equipadas con RNAV con capacidad para mantener la derrota con una precisión lateral de ±1 NM (2 veces la desviación estándar) y capacidad de determinar su posición horizontal con una precisión suficiente que asegure el requisito de mantenimiento en su derrota y que dispongan de las funcionalidades y aprobación operacional correspondientes, pueden volar bajo reglas IFR procedimientos RNAV en área terminal (1). Este equipo RNAV se designará en adelante como de Navegación de Área de Precisión (P-RNAV).
 
-b) demuestra una continuidad de servicio media del 99,99% del tiempo de vuelo.
+Nota.–Los requisitos funcionales y para la aprobación operacional correspondiente a P-RNAV están recogidos en el documento: JAA (Joint Aviation Authorities) TGL (Temporary Guidance Leaflet) No 10 o equivalente.
 
-3.2.7.3. Hasta que ya no haya instalaciones de radiofaro omnidireccional VHF (VOR) o de equipo radiotelemétrico (DME), podrá aprobarse que la aeronave lleve para las operaciones RNAV un sistema RNAV único que tenga una precisión de navegación que satisface la RNP 5 pero que no satisface los requisitos de continuidad de servicio mencionados en 3.2.7.2. si la aeronave lleva también equipo VOR y DME.
+(1) En este contexto, los procedimientos de área terminal excluyen los tramos de aproximación final y frustrada.
 
-La autoridad competente puede designar rutas interiores (domésticas) dentro de su espacio aéreo inferior para las aeronaves que no tengan equipo RNAV y que tengan una precisión de navegación que satisface la RNP 5.
+3.2.7.1.1.2 Las aeronaves equipadas con RNAV con capacidad para mantener la derrota con una precisión lateral de ± 5NM (2 veces la desviación estándar) y capacidad de determinar su posición horizontal con una precisión suficiente que asegure el requisito de mantenimiento en su derrota y que dispongan de las funcionalidades y aprobación operacional correspondientes, designadas en adelante como de Navegación de Área Básica B-RNAV, pueden hacer uso de segmentos o rutas RNAV de salida y llegada cuando se cumplan los siguientes criterios:
 
-3.2.7.4. Ámbito de aplicación. Lo previsto en 3.2.7.1., 3.2.7.2. y 3.2.7.3. se aplica a las operaciones realizadas de acuerdo con las reglas IFR en toda la red de rutas ATS en las FIR/UIR Madrid, Barcelona y Canarias, incluidas las rutas designadas (SID y STAR) dentro y fuera de las áreas de control terminal (TMA), notificadas por la autoridad competente.
+a) La parte B-RNAV de la ruta debe estar:
 
-3.2.7.5. Cumplimiento. El Estado de matrícula o el Estado del explotador, según corresponda, verificará el cumplimiento del requisito de navegación.
+1) Por encima de la Altitud Mínima de Vuelo correspondiente (como Altitud Mínima de Sector, Altitud Mínima de Guía Vectorial Radar, etc.); y
 
-Nota: El texto de orientación relativo a los requisitos de precisión de la navegación figuran en el Manual sobre la performance de navegación de requerida (RNP) - Doc. 9613 de OACI, Capítulo 5.
+2) Debe estar de acuerdo con los criterios establecidos en los PANS-OPS de OACI (Doc. 8168 de OACI) para operaciones en ruta; y
 
-3.2.7.6. Designadores de rutas RNAV. Todas las rutas RNAV tendrán los designadores apropiados de acuerdo con lo dispuesto en Apéndice N, Adjunto 1.
+3) Debe ser conforme con los principios de diseño de rutas B-RNAV; (1).
 
-3.2.7.7. Planificación de los vuelos. Los explotadores de aeronaves equipadas con RNAV cuya precisión de navegación cumpla con la RNP 5 incluirán la letra «R» en la casilla 10 del plan de vuelo.
+b) Los procedimientos de salida deben ser convencionales (no-RNAV) hasta un fijo convencional (o una altitud mínima). Más allá de ese fijo (o altitud mínima) el procedimiento B-RNAV puede ser establecido de acuerdo con el criterio a) señalado anteriormente; y
 
-3.2.7.8. Procedimientos para las operaciones en rutas RNAV
+c) La parte B-RNAV de la ruta de llegada debe terminar en un fijo convencional de acuerdo con los criterios anteriores. Más allá de ese punto la llegada será completada por un procedimiento convencional (no-RNAV) o por medio de vectores radar; y
 
-3.2.7.8.1. El funcionamiento correcto del sistema RNAV de la aeronave se establecerá antes de entrar en una ruta RNAV y durante las operaciones en la misma. Esto incluirá la confirmación de que:
+d) Se deben tener en cuenta aquellos procedimientos operativos de ciertos usuarios que pueden afectar a la operatividad del sistema (como por ejemplo, posicionamiento inicial en pista, altitudes mínimas de acoplamiento del sistema automático de control de vuelo, etc.) (2); y
+
+e) Los procedimientos de llegada y salida que pue-dan ser volados por aeronaves B-RNAV estarán identificados explícitamente como aprobados para aplicación de B-RNAV.
+
+Nota.–Para cumplir con los requisitos B-RNAV, las aeronaves deben estar aprobadas de acuerdo con la JAA ACJ 20X4 (conocida anteriormente como JAA TGL No 2, revisión 1) o equivalente.
+
+(1) Véase «Altitudes Mínimas de Vuelo», apartado 3.2.21.
+
+(2) El explotador deberá observar y proceder consecuentemente con las limitaciones que pudieran recogerse en la documentación relevante de la aeronave (como manuales de vuelo o suplementos de los mismos) en relación con la aplicación de la B-RNAV en área terminal.
+
+3.2.7.1.1.3 Las aeronaves equipadas con RNAV basada en GNSS pueden utilizar únicamente procedimientos RNAV designados GNSS y en los que se identifique que no se requiere aprobación P-RNAV para operar dichos procedimientos.
+
+Nota.–Para cumplir con el requisito de RNAV basada en GNSS, las aeronaves deben estar aprobadas de acuerdo con la JAA ACJ 20X5 (conocida anteriormente como TGL No 3, revisión 1) o equivalente.
+
+La designación de procedimientos RNAV GNSS requerirá el cumplimiento de todos los requisitos que la autoridad competente determine, incluyendo los relativos a la infraestructura en tierra, de acuerdo con los estándares y acuerdos internacionales que les afecten, en particular la JAA ACJ 20X5.
+
+3.2.7.1.2 Operaciones en ruta.
+
+3.2.7.1.2.1 Únicamente las aeronaves aprobadas para operaciones B-RNAV pueden planificar operaciones IFR en las rutas ATS de las regiones de información de vuelo / regiones superiores de información de vuelo (FIR/UIR) de acuerdo con 3.2.7.2.2. Las operaciones de las aeronaves que no están equipadas con RNAV, pero que tienen una precisión de navegación que satisface los requisitos RNP 5, se limitarán a las rutas ATS que la autoridad competente designe dentro del espacio aéreo inferior, de conformidad con el apartado 3.2.7.1.2.2.
+
+3.2.7.1.2.2 Mientras estén disponibles las estaciones onmidireccionales VHF (VOR), las aeronaves que dispongan de un único sistema RNAV que no cumpla la continuidad media de servicio del 99,99 por 100 del tiempo de vuelo, pueden ser aprobadas para operaciones B-RNAV siempre que dichas aeronaves dispongan de equipos VOR y DME.
+
+Nota.–La autoridad competente puede designar rutas interiores dentro del espacio aéreo inferior para aeronaves que no tengan equipo RNAV y que tengan una precisión de navegación que satisface los requisitos RNP 5.
+
+3.2.7.2 Ámbito de aplicación.
+
+3.2.7.2.1 Lo previsto respecto a P-RNAV será aplicado para procedimientos RNAV en área terminal, excluyendo los tramos de aproximación final y frustrada.
+
+3.2.7.2.2 Lo previsto en 3.2.7.1.2 se aplica a las operaciones realizadas de acuerdo con las reglas IFR en toda la red de rutas ATS de las FIR/UIR de Barcelona, Canarias y Madrid, notificadas por la autoridad competente.
+
+3.2.7.3 Cumplimiento.
+
+3.2.7.3.1 El Estado de matrícula o el Estado del explotador, según corresponda, verificará el cumplimiento del requisito de navegación.
+
+Nota.–El texto de orientación relativo a los requisitos de navegación asociados con las operaciones B-RNAV está contenido en la JAA ACJ 20X4, y para las operaciones P-RNAV, en la JAA Temporary Guidance Leaftet 10.
+
+3.2.7.4 Designación de rutas RNAV.
+
+3.2.7.4.1 Todos los procedimientos instrumentales normalizados de salidas y llegadas RNAV deberán ser adecuadamente designados como RNAV de conformidad con lo dispuesto en el Apéndice N del Reglamento de la Circulación Aérea, complementado en su caso con el Documento 8168 (PANS-OPS) y Anexo 11, Apéndice 3, de OACI.
+
+3.2.7.4.2 Todas las demás rutas RNAV serán designadas de conformidad con lo dispuesto en el Apéndice N del Reglamento de la Circulación Aérea, complementado en su caso con el Anexo 11, Apéndice 1, de OACI.
+
+3.2.7.5 Planificación de vuelo.
+
+3.2.7.5.1 Los explotadores de aeronaves aprobadas para operaciones B-RNAV, como se indica en el párrafo 3.2.7.1.1.2, incluirán la letra «R» en la casilla 10 del plan de vuelo.
+
+3.2.7.5.2 Además de la letra «R», los explotadores de aeronaves aprobadas para operaciones P-RNAV, como se indica en el párrafo 3.2.7.1.1.1, también deberán incluir la letra «P» en la casilla 10 del plan de vuelo.
+
+Nota.–Los operadores deberán cumplir con los requisitos relativos a la inclusión del equipamiento de la aeronave en los planes de vuelo repetitivos (RPL).
+
+3.2.7.5.3 Cuando una falla o degradación afecte a la aeronave de manera que no sea posible cumplir las funcionalidades y requisitos de precisión P-RNAV expresadas en el párrafo 3.2.7.1.1.1 antes de su salida, el explotador de la aeronave no insertará la letra «P» en la casilla 10 del plan de vuelo. Consecuentemente, para un vuelo para el cual el plan de vuelo haya sido presentado, se presentará un nuevo plan de vuelo y se cancelará el anterior. Para un vuelo que sea operado de acuerdo con un plan de vuelo repetitivo (RPL), el plan de vuelo repetitivo será cancelado y se presentará un nuevo plan de vuelo apropiado.
+
+3.2.7.5.4 Adicionalmente, cuando una falla o degradación afecte a la aeronave de manera que no sea posible cumplir con las funcionalidades y requisitos de precisión B-RNAV expresadas en el párrafo 3.2.7.1.1.2 antes de su salida, el explotador de la aeronave no insertará las letras “S”, “R” o “P” en la casilla 10 del plan de vuelo. Como estos vuelos requieren una especial actuación por parte del ATC, la casilla 18 del plan de vuelo contendrá STS/ RNAVINOP. Consecuentemente, para un vuelo para el cual el plan de vuelo haya sido presentado, se presentará un nuevo plan de vuelo y se cancelará el anterior. Para un vuelo que sea operado de acuerdo con un plan de vuelo repetitivo (RPL), el plan de vuelo repetitivo será cancelado y se presentará un nuevo plan de vuelo apropiado.
+
+3.2.7.6 Altitudes mínimas de vuelo para operaciones en rutas RNAV.
+
+Salvo que una aeronave en vuelo IFR esté recibiendo guía vectorial radar por el ATC, el piloto es responsable de la separación de los obstáculos. Por lo tanto, la utilización de RNAV no exime a los pilotos de la responsabilidad de cerciorarse de que cualquier autorización o instrucción ATC sea segura a este respecto. El ATC asignará niveles que coincidan o estén por encima de las altitudes mínimas de vuelo establecidas.
+
+3.2.7.7 Procedimientos para operaciones en rutas RNAV.
+
+3.2.7.7.1 Se comprobará el funcionamiento correcto del sistema RNAV de la aeronave antes de entrar, y durante las operaciones, en una ruta RNAV. Ello incluirá confirmación de que:
 
 a) La ruta es conforme a la autorización; y
 
-b) La precisión de navegación de la aeronave cumple con los requisitos de la RNP 5.
+b) La precisión de navegación RNAV de la aeronave cumple con los requisitos de precisión de navegación de los procedimientos RNAV de ruta, entrada o salida, según corresponda.
 
-3.2.7.8.2. Si, como resultado de la falla o de la degradación del sistema RNAV por debajo de la RNP 5, una aeronave no puede entrar en los espacios aéreos designados en 3.2.7.4., o continuar las operaciones de conformidad con la autorización vigente del control de tránsito aéreo, el piloto obtendrá, cuando sea posible, una autorización modificada.
+3.2.7.7.2 Cuando una aeronave no pueda cumplir con los requisitos indicados en 3.2.7.1.1.1 ó 3.2.7.1.1.2, según se requiera para la ruta o procedimiento RNAV, como consecuencia de una falla o degradación del sistema RNAV, el piloto solicitará una autorización revisada.
 
-3.2.7.8.3. Las medidas subsiguientes del control del tránsito aéreo con respecto a dicha aeronave dependerán de la naturaleza de la falla notificada y de la situación general del tránsito. En muchas situaciones podrán continuar las operaciones de conformidad con la autorización ATC vigente. Cuando esto no pueda hacerse, podrá solicitarse una autorización revisada para volver a la navegación VOR/DME.
+Nota.–Véase la fraseología recogida en 3.2.7.8.1.
 
-3.2.7.9. Procedimientos ATC para aeronaves de Estado no equipadas con RNAV aprobado para RNP 5.
+3.2.7.7.3 Las medidas subsiguientes del control del tránsito aéreo con respecto a una aeronave que no pueda cumplir con los requisitos especificados en 3.2.7.1.1.1 ó 3.2.7.1.1.2, debido a la falla o degradación del sistema RNAV, dependerán de la naturaleza de la falla notificada y de la situación general del tránsito. En muchas ocasiones podrán continuar las operaciones de conformidad con la autorización ATC vigente. Cuando esto no pueda hacerse, podrá solicitarse una autorización revisada para volver a la navegación VOR/DME.
 
-3.2.7.9.1. Instrucciones para completar el plan de vuelo. Los explotadores de aeronaves de Estado no equipadas con RNAV no incluirán las letras «S» o «R» en la casilla 10 del plan de vuelo.
+3.2.7.7.4 Para operaciones en rutas de salida y llegada RNAV, cuando se haya expedido una autorización ATC para un procedimiento RNAV para el cual la aeronave no esté aprobada, el piloto informará al ATC el cual deberá proporcionar una ruta alternativa.
 
-Puesto que dichos vuelos requieren una atención especial del control de tránsito aéreo, en la casilla 18 se insertará STS/NONRNAV.
+Nota.–Véase la fraseología recogida en 3.2.7.8.1.
 
-3.2.7.9.2. Coordinación asistida por computadora de los mensajes de estimación. En caso de mensajes automatizados que no contengan la información proporcionada en la casilla 18 del plan de vuelo, la dependencia de control de tránsito aéreo que los expide informará a la dependencia de control de tránsito aéreo receptora complementando oralmente el mensaje ACT con la frase «RNAV-NEGATIVO» (NEGATIVE-RnAV) después del distintivo de llamada de la aeronave en cuestión.
+3.2.7.7.5 Si una aeronave no puede cumplir con los requisitos especificados en el apartado 3.2.7.1.1.2. como resultado de la falla o degradación del sistema RNAV que sea detectado antes de la salida de un aeródromo donde no es posible efectuar su reparación, debería permitirse a la aeronave dirigirse al aeródromo apropiado más cercano donde la reparación pueda ser realizada. Cuando se dé la autorización a tal vuelo, el ATC deberá tener en consideración el tráfico existente y previsto, pudiendo modificar la hora de salida, el nivel de vuelo o la ruta prevista del vuelo. Se podrán realizar ajustes posteriores según sea necesario en el transcurso del vuelo.
 
-3.2.7.9.3. Coordinación oral de los mensajes de estimación. Cuando se utilice la coordinación oral, la dependencia de control de tránsito aéreo que expide el mensaje incluirá la frase «RNAV-NEGATIVO» (NEGATIVE-RNAV) al final del mensaje.
+3.2.7.8 Procedimientos ATC.
 
-3.2.7.9.4. Fraseología. El piloto incluirá la frase «RNAV-NEGATIVO» (NEGATIVE-RNAV) inmediatamente después del distintivo de llamada de la aeronave cada vez que establezca contacto inicial con una frecuencia de control de tránsito aéreo.
+3.2.7.8.1 Fraseología.
 
-3.2.7.9.5. Autorizaciones ATC en las TMA. En las TMA, las aeronaves de Estado que no estén equipadas con RNAV aprobado para RNP 5, deberán ser autorizadas a volar por rutas que no son RNAV de acuerdo con procedimientos para SID y STAR.
+3.2.7.8.1.1 Si un procedimiento RNAV de salida o llegada que ha sido asignado pero que no puede ser aceptado por el piloto debido al equipo RNAV o a circunstancias asociadas con la operación, el piloto informará al ATC inmediatamente haciendo uso de la frase:
 
-3.2.7.9.6. Autorizaciones ATC en ruta. En ruta, para las aeronaves de Estado que no estén equipadas con RNAV aprobado para RNP 5, se aplican los siguientes procedimientos:
+UNABLE (designator) DEPARTURE (or ARRIVAL) DUE RNAV TYPE.
 
-a) Las aeronaves de Estado deberán ser autorizadas a volar por rutas ATS definidas VOR/DME; o
+IMPOSIBLE SALIDA (o LLEGADA) (designador) DEBIDO AL TIPO RNAV.
 
-b) Si esas rutas no estuvieran disponibles, las aeronaves de Estado deberán ser autorizadas a volar con ayudas para la navegación tradicionales, es decir, VOR/DME.
+3.2.7.8.1.2 Si por cualquier otra razón, el piloto no puede cumplir con el procedimiento de área terminal asignado, el piloto informará al ATC inmediatamente haciendo uso de la frase:
 
-Nota: Las aeronaves de Estado autorizadas a volar de conformidad con los apartados a) o b) podrán solicitar el seguimiento radar continuo de la correspondiente dependencia de control de tránsito aéreo.
+UNABLE (designator) DEPARTURE (or ARRIVAL) (reasons).
 
-3.2.7.9.7. Cuando no puedan aplicarse los procedimientos descritos en 3.2.7.9.5. o 3.2.7.9.6. la dependencia de control de tránsito aéreo proporcionará a la aeronave de Estado guía vectorial radar hasta que la aeronave pueda reanudar su propia navegación.
+IMPOSIBLE SALIDA (o LLEGADA) (designador) (razones).
+
+3.2.7.8.1.3 Si el ATC no puede asignar un procedimiento RNAV de salida o llegada solicitado por el piloto, por razones asociadas con el tipo de equipo RNAV a bordo indicado en el FPL/CPL, el ATC informará al piloto haciendo uso de la siguiente frase:
+
+UNABLE TO ISSUE (designator) DEPARTURE (or ARRIVAL) DUE RNAV TYPE.
+
+IMPOSIBLE CONCEDER SALIDA (o LLEGADA) (designador) DEBIDO AL TIPO RNAV.
+
+3.2.7.8.1.4 Si por cualquier otra razón, el ATC no puede asignar un procedimiento de salida o llegada solicitado por el piloto, el ATC informará al piloto haciendo uso de la frase:
+
+UNABLE TO ISSUE (designator) DEPARTURE (or ARRIVAL) (reasons).
+
+IMPOSIBLE CONCEDER SALIDA (o LLEGADA) (designador) (razones).
+
+3.2.7.8.1.5 El ATC pedirá confirmación de la capacidad del piloto para aceptar un procedimiento RNAV de salida o llegada específico mediante la siguiente fraseología:
+
+ADVISE IF ABLE (designator) DEPARTURE (or ARRIVAL).
+
+CONFIRME SI PUEDE SALIDA (o LLEGADA) (designador).
+
+3.2.7.8.2 Degradación del sistema RNAV.
+
+3.2.7.8.2.1 Si, como resultado de la falla o la degradación del sistema RNAV,
+
+a) detectado después de la salida, la aeronave no puede cumplir los requisitos del apartado 3.2.7.1.1.1.; o
+
+b) detectado antes o después de la salida, la aeronave no puede cumplir con los requisitos del apartado 3.2.7.1.1.2,
+
+se aplicarán los siguientes procedimientos ATC.
+
+3.2.7.8.2.2 Mensajes de coordinación.
+
+a) Coordinación asistida por computadora de los mensajes de estimación. En caso de mensajes automatizados que no contengan la información proporcionada en la casilla 18 del plan de vuelo, la dependencia/unidad ATC transferidora informará a la dependencia/unidad ATC receptora complementando oralmente el mensaje ACT con la frase “RNAV FUERA DE SERVICIO” (RNAV OUT OF SERVICE) después del distintivo de llamada de la aeronave afectada.
+
+b) Coordinación oral de los mensajes de estimación. Cuando se utilice la coordinación oral, la dependencia/ unidad ATC transferidora incluirá la frase “RNAV FUERA DE SERVICIO” (RNAV OUT OF SERVICE) al final del mensaje.
+
+3.2.7.8.2.3. Fraseología.
+
+3.2.7.8.2.3.1 El piloto incluirá, inmediatamente después del distintivo de llamada de la aeronave, la frase “IMPOSIBLE RNAV DEBIDO A EQUIPO” (UNABLE RNAV DUE EQUIPMENT) tras la falla o degradación del sistema RNAV cada vez que establezca contacto inicial con una frecuencia ATC.
+
+3.2.7.8.2.4 Autorizaciones ATC.
+
+3.2.7.8.2.4.1 Con respecto a la falla o degradación del sistema RNAV en vuelo, mientras la aeronave esté operando en una ruta ATS que requiera el uso de B-RNAV:
+
+a) la aeronave será autorizada a volar por rutas ATS definidas por VOR/DME; o
+
+b) si tales rutas no están disponibles, la aeronave será autorizada a volar por medio de radioayudas convencionales, es decir, VOR/DME; o
+
+c) cuando no se disponga de los procedimientos anteriores, el ATC, cuando sea posible proporcionará a la aeronave vectores radar hasta que la aeronave pueda reanudar su propia navegación.
+
+Nota.–Cuando la aeronave sea autorizada conforme con a) o b) puede requerir, cuando sea posible, seguimiento radar continuo por la dependencia ATC correspondiente.
+
+3.2.7.8.2.4.2 Con respecto a la falla o degradación del sistema RNAV en vuelo, de una aeronave que esté operando un procedimiento de salida o llegada que requiera la utilización de RNAV:
+
+a) Deberá proporcionarse vectores radar a la aeronave hasta que ésta pueda reanudar su propia navegación, o
+
+b) La aeronave será autorizada a volar por medio de radioayudas convencionales, es decir, VOR/DME.
+
+3.2.7.9 Procedimientos ATC para aeronaves de Estado no equipadas con RNAV pero que cumplan con una precisión de navegación RNP 5.
+
+3.2.7.9.1 Instrucciones para cumplimentar el plan de vuelo.
+
+3.2.7.9.1.1 Los operadores de aeronaves de Estado no equipadas con RNAV no insertarán las letras “S”, “R” o “P” en la casilla 10 del plan de vuelo.
+
+3.2.7.9.1.2 Como estos vuelos requieren una especial atención por parte del ATC, en la casilla 18 del plan de vuelo se insertará “STS/NONRNAV”.
+
+3.2.7.9.2 Coordinación de mensajes.
+
+3.2.7.9.2.1 Coordinación asistida por computadora de los mensajes de estimación. En caso de mensajes automatizados que no contengan la información proporcionada en la casilla 18 del plan de vuelo, la dependencia/ unidad ATC que los expida informará a la dependencia/ unidad de control de tránsito aéreo receptora complementando oralmente el mensaje ACT con la frase “RNAVNEGATIVO” (NEGATIVE-RNAV) después del distintivo de llamada de la aeronave en cuestión.
+
+3.2.7.9.2.2 Coordinación oral de los mensajes de estimación. Cuando se utilice la coordinación oral, la dependencia ATC que expide el mensaje incluirá la frase “RNAVNEGATIVO” (NEGATIVE-RNAV) al final del mensaje.
+
+3.2.7.9.2.3 Fraseología.
+
+3.2.7.9.2.3.1 El piloto incluirá la frase “RNAV-NEGATIVO” (NEGATIVE-RNAV) inmediatamente después del distintivo de llamada de la aeronave cada vez que establezca contacto inicial con una frecuencia ATC.
+
+3.2.7.9.2.4 Autorizaciones ATC.
+
+3.2.7.9.2.4.1 En áreas terminales (TMA), las aeronaves de Estado pueden ser dirigidas únicamente a través de procedimientos RNAV si están equipadas con el equipo RNAV apropiado (aplicación de los apartados 3.2.7.1.1.1 y 3.2.7.1.1.2).
+
+3.2.7.9.2.4.2 Para las aeronaves de Estado no equipadas RNAV pero que cumplan con una precisión de navegación RNP 5, que operen en ruta, se aplicarán los siguientes procedimientos:
+
+a) la aeronave de Estado deberá ser autorizada a volar por rutas ATS definidas por VOR/DME; o
+
+b) si tales rutas no están disponibles, la aeronave deberá ser autorizada a volar por medio de radioayudas convencionales, es decir, VOR/DME.
+
+Nota.–La aeronave de Estado que proceda según a) o b) puede requerir seguimiento radar continuo por la dependencia ATC correspondiente.
+
+3.2.7.9.2.4.3 Cuando los procedimientos anteriores no puedan ser aplicados, la dependencia ATC proporcionará a la aeronave de Estado guía vectorial radar hasta que la aeronave pueda reanudar su propia navegación.
+
+3.2.7.10 Performance de Navegación Requerida (RNP).
+
+La aplicación de procedimientos relativos a Performance de Navegación Requerida (RNP) se establecerá en virtud de acuerdos regionales de navegación aérea.
+
+Nota.–El texto de orientación relativo a los requisitos de navegación figura en el Manual sobre la Performance de Navegación Requerida (RNP) Doc. 9613 de OACI.
 
 3.2.8. Establecimiento y designación de las dependencias que facilitan servicios de tránsito aéreo.
 
@@ -1632,8 +1786,10 @@ Los operadores de globos libres no tripulados mantendrán informadas a las depen
 
 Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter local, acerca de la actividad volcánica precursora de erupción, erupciones volcánicas y nubes de cenizas volcánicas que podrían afectar al espacio aéreo utilizado por los vuelos dentro de su zona de responsabilidad.
 
-3.7.6. Información sobre ''nubes'' de materiales radiactivos y de sustancias químicas tóxicas.
+3.7.6. Información sobre ''nubes" de materiales radiactivos y de sustancias químicas tóxicas.
 
 Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter local, acerca de la liberación en la atmósfera de materiales radiactivos o sustancias químicas tóxicas que podrían afectar al espacio aéreo utilizado por los vuelos dentro de su zona de responsabilidad.
+
+> Se modifica el Capítulo 2 por el art. único.3 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637
 
 > Se modifica el Capítulo 2 por el art. 2 de la Orden PRE/2220/2004, de 6 de julio de 2004. Ref. BOE-A-2004-12699

@@ -110,17 +110,19 @@ MODELO VAR; para utilizarlo en las notificaciones posteriores a los vuelos.
 
 3. Ejemplos
 
-| Según se enuncia en radiotelefonía | Según se anota por la dependencia de servicios de tránsito aéreo y se remite a la oficina meteorológica correspondiente |
+| COMO SE ENUNCIA EN RADIOTELEFONÍA | COMO SE REGISTRA EN LA DEPENDENCIA DE SERVICIOS DE TRÁNSITO AÉREO Y SE REMITE A LA OFICINA METEOROLÓGICA CORRESPONDIENTE |
 | --- | --- |
-| I.1 AIREP SPEEDBIRD CINCO SEIS OCHO POSICIÓN CUATRO NUEVE DOS CINCO NORTE CERO CINCO CERO OESTE A UNO TRES UNO SIETE NIVEL DE VUELO TRES UNO CERO POSICIÓN SIGUIENTE CINCO CERO NORTE CERO CUATRO CERO OESTE A UNO TRES CINCO CINCO PUNTO SIGUIENTE CINCO CERO NORTE CERO TRES CERO OESTE AUTONOMÍA CERO OCHO TRES CERO TEMPERATURA MENOS CUATRO SIETE VIENTO DOS CINCO CINCO GRADOS SEIS CINCO NUDOS TURBULENCIA MODERADA ENGELAMIENTO LIGERO | I. BAW568 4925N050W 1317 F310 MS47 255/65 KT TURB MOD ICE FBL |
-| II.2 JAPANAIR CUATRO CUATRO UNO SOBRE ORDON A CERO NUEVE TRES CERO NIVEL DE VUELO TRES CINCO CERO POSICIÓN SIGUIENTE ONADE A UNO CERO CERO SIETE PUNTO SIGUIENTE OMPPA TEMPERATURA MENOS CINCO TRES VIENTO TRES UNO CERO GRADOS SEIS CERO KILÓMETROS POR HORA TURBULENCIA LIGERA ENGELAMIENTO LIGERO | II. JAL441 ORDON 0930 F350 MS53 310/6OKMH TURB FBL ICE FBL |
-| III.3 AIREP ESPECIAL CLIPPER UNO CERO UNO POSICIÓN CINCO CERO CUATRO CINCO NORTE CERO DOS CERO UNO CINCO OESTE A UNO CINCO TRES SEIS NIVEL DE VUELO TRES UNO CERO ASCENDIENDO A NIVEL DE VUELO TRES CINCO CERO TORMENTA CON GRANIZO | III. ARS PAA101 5045N020l5W 1536 F310 ASC F350 TSGR |
-| IV.4 ESPECIAL NIUGINI DOS SIETE TRES SOBREVOLANDO MADANG A CERO OCHO CUATRO SEIS UNO NUEVE MIL PIES TURBULENCIA FUERTE | IV. ARS ANG273 MID 0846 19000FT TURB SEV |
+| I.1 AIREP SPEEDBIRD CINCO SEIS OCHO POSICIÓN CUATRO NUEVE DOS CINCO NORTE CERO CINCO CERO OESTE UNO TRES UNO SIETE NIVEL DE VUELO TRES UNO CERO CINCO CERO NORTE CERO CUATRO CERO OESTE UNO TRES CINCO CINCO CINCO CERO NORTE CERO TRES CERO OESTE SIGUIENTE AUTONOMÍA CERO OCHO TRES CERO TEMPERATURA MENOS CUATRO SIETE VIENTO DOS CINCO CINCO GRADOS SEIS CINCO NUDOS TURBULENCIA MODERADA ENGELAMIENTO LIGERO. | I.–BAW568 4925N050W 1317 F310 MS47 255/65 KT TURB MOD ICE FBL. |
+| Il.2 JAPANAIR CUATRO CUATRO UNO SOBRE ORDON CERO NUEVE TRES CERO NIVEL DE VUELO TRES CINCO CERO ONADE UNO CERO CERO SIETE OMPPA SIGUIENTE TEMPERATURA MENOS CINCO TRES VIENTO TRES UNO CERO GRADOS SEIS CERO KILÓMETROS POR HORA TURBULENCIA LIGERA ENGELAMIENTO LIGERO. | II.–JAL441 ORDON 0930 F350 MS53 310/6OKMH TURB FBL ICE FBL. |
+| III.3 AIREP ESPECIAL CLIPPER UNO CERO UNO POSICIÓN CINCO CERO CUATRO CINCO NORTE CERO DOS CERO UNO CINCO OESTE UNO CINCO TRES SEIS NIVEL DE VUELO TRES UNO CERO ASCENDIENDO A NIVEL DE VUELO TRES CINCO CERO TORMENTAS CON GRANIZO. | III.–ARS PAA101 5045N02015W 1536 F310 ASC F350 TSGR. |
+| IV.4 ESPECIAL NIUGINI DOS SIETE TRES SOBREVOLANDO MADANG CERO OCHO CUATRO SEIS UNO NUEVE MIL PIES TURBULENCIA FUERTE. | IV.–ARS ANG273 MID 0846 19000FT TURB SEV. |
 
-1. Aeronotificación ordinaria para un vuelo transoceánico que ha sido designado para notificar observaciones meteorológicas ordinarias a meridianos espaciados a intervalos de 10°. No se requiere que se transmita a las oficinas meteorológicas correspondientes la información sobre la posición siguiente, el punto significativo siguiente y la autonomía.
+1 Aeronotificación ordinaria para un vuelo transoceánico que ha sido designado para notificar observaciones meteorológicas ordinarias a meridianos espaciados a intervalos de 10°. No se requiere que se transmita a las oficinas meteorológicas correspondientes la información sobre la posición siguiente, el punto significativo siguiente y la autonomía.
 
-2. Aeronotificación ordinaria para un vuelo transoceánico que se requiere que notifique observaciones meteorológicas ordinarias en puntos significativos especificados. No se requiere que se transmita a las oficinas meteorológicas correspondientes la información sobre la posición siguiente y el punto significativo siguiente.
+2 Aeronotificación ordinaria para un vuelo transoceánico que se requiere que notifique observaciones meteorológicas ordinarias en puntos significativos especificados. No se requiere que se transmita a las oficinas meteorológicas correspondientes la información sobre la posición siguiente y el punto significativo siguiente.
 
-3. Se requiere una aeronotificación especial debido a que ocurren tormentas con granizo generalizadas.
+3 Se requiere una aeronotificación especial debido a que ocurren tormentas con granizo generalizadas.
 
-4. Se requiere una aeronotificación especial debido a la turbulencia fuerte. La aeronave se encuentra en un reglaje del altímetro QNH.
+4 Se requiere una aeronotificación especial debido a la turbulencia fuerte. La aeronave se encuentra en un reglaje del altímetro QNH.
+
+> Se modifica el apartado 3 por el art. único.7 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637

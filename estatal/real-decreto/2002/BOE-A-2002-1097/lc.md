@@ -3471,19 +3471,21 @@ b) cuando sea posible, rectificar la etiqueta radar que muestra la identificaci�
 
 c) notificar la identificación errónea transmitida por la aeronave al puesto de control siguiente y a cualquier otra dependencia interesada que utilice el Modo S para fines de identificación.
 
-4.6.5.3.7. Cuando sea necesario que las aeronaves con respondedores IFF/SIF respondan en el Modo A/3, se solicitará a los pilotos que desconecten el Modo 3. En ningún caso se solicitará que estén conectados en STANDBY, puesto que la operación del conmutador STANDBY impide al respondedor IFF/SIF responder en todos los modos.
+4.6.5.3.7. Cuando sea necesario que las aeronaves con transpondedores IFF/SIF dejen de responder en Modo A/3, se solicitará a los pilotos que desconecten el Modo 3 «APAGUE TRANSPONDEDOR MODO TRES» (STOP SQUAWK MODE THREE). En ningún caso se solicitará que estén conectados en STANDBY, puesto que la operación del conmutador «STANDBY» impide al transpondedor IFF/SIF responder en todos los modos.
 
-4.6.5.3.8. A menos que hayan recibido otras instrucciones del control de tránsito aéreo, la aeronave:
+4.6.5.3.8. A menos que hayan recibido otras instrucciones del control del tránsito aéreo, la aeronave:
 
 a) Antes de entrar en una zona cubierta por el radar secundario, responderá en Modo A Código 2000 si opera como vuelo controlado y en modo A Código 7000 si opera como vuelo no controlado; y
 
 b) Conservará el último código de identidad asignado (Modo A) o el seleccionado de acuerdo con a) mientras se encuentre en una zona cubierta por el radar secundario.
 
+c) En la FIR/UIR Canarias, siempre que una aeronave abandone la cobertura radar SSR o el área de dicha región de información de vuelo, la dependencia ATS asignará el Código A2000 a no ser que se haya coordinado otra cosa entre las dependencias ATS transferidora y aceptante.
+
 4.6.5.4. Información sobre niveles basada en el empleo del Modo C.
 
 4.6.5.4.1. Criterio para comprobar la exactitud de la información sobre el nivel derivada del Modo C.
 
-4.6.5.4.1.1. El valor de tolerancia utilizado para determinar que la información sobre el nivel derivada del Modo C presentada al controlador es exacta, será de ±90 m (±300 ft).
+4.6.5.4.1.1. El valor de tolerancia utilizado para determinar que la información sobre el nivel derivada del Modo C presentada al controlador es exacta, será de ±60 m (±200 ft) en espacio aéreo RVSM. En otro tipo de espacio aéreo, será de ±90 m (±300 ft), a menos que las autoridades ATS competentes especifiquen un valor menor, pero no inferior a ±60 m (±200 ft), si se considera más práctico.
 
 4.6.5.4.1.2. La comprobación de la exactitud de la información sobre niveles obtenida en Modo C presentada al controlador, la efectuará, por lo menos una vez, cada una de las dependencias ATC que estén dotadas del equipo necesario durante el contacto inicial con la aeronave o, si ello no es posible, inmediatamente después de dicho contacto. La comprobación se efectuará por comparación simultánea con la información sobre niveles obtenida del altímetro y recibida radiotelefónicamente de la misma aeronave. No es necesario comunicar dicha comprobación al piloto de la aeronave a la que se refiere la información sobre niveles obtenida en Modo C si los datos se hallan dentro del valor de tolerancia aprobado.
 
@@ -3497,19 +3499,17 @@ b) comunicar al piloto la discrepancia y pedirle que continúe utilizando el Mod
 
 4.6.5.4.2. Determinación de ocupación de nivel
 
-4.6.5.4.2.1. El criterio que se utilizará para determinar que un cierto nivel está ocupado por una aeronave, será de ±90 m (±300 ft), a menos que las autoridades ATS competentes especifiquen un valor menor, pero no inferior a ±60 m (±200 ft), si se considera más práctico.
+4.6.5.4.2.1. El criterio que se utilizará para determinar que un cierto nivel está ocupado por una aeronave será de ±60 m (±200 ft) en espacio aéreo RVSM. En otro tipo de espacio aéreo, será de ±90 m (±300 ft), a menos que las autoridades ATS competentes especifiquen un valor menor, pero no inferior a ±60 m (±200 ft), si se considera más práctico.
 
-Nota: En el Manual de planificación de servicios de tránsito aéreo (Doc 9426 de OACI) se ofrece una breve explicación de las consideraciones en que se basa este valor.
+Nota.–En el Manual de planificación de servicios de tránsito aéreo (Doc. 9426) se ofrece una breve explicación de las consideraciones en que se basa este valor.
 
-4.6.5.4.2.2. Aeronaves que se mantienen a un nivel determinado. Se considera que una aeronave se mantiene en el nivel asignado mientras la información sobre el nivel, derivada del SSR en Modo C, indica que se halla dentro de un margen de ±90 m (±300 ft) con respecto al nivel asignado.
+4.6.5.4.2.2. Aeronaves que se mantienen a un nivel determinado. Se considera que una aeronave se mantiene en el nivel asignado mientras la información sobre el nivel, derivada del SSR en Modo C, indica que se halla dentro de las tolerancias apropiadas del nivel asignado, según se prescribe en 4.6.5.4.2.1.
 
 4.6.5.4.2.3. Aeronaves que abandonan un nivel. Se considera que una aeronave, autorizada a dejar un nivel, ha comenzado su maniobra y abandonado este nivel previamente ocupado, cuando la información sobre el nivel, derivada del SSR en Modo C, indica un cambio superior a 90 m (300 ft) en la dirección prevista, con respecto al nivel previamente asignado.
 
 4.6.5.4.2.4. Aeronaves en ascenso o descenso que pasan por un nivel. Se considera que una aeronave en ascenso o descenso habrá atravesado un nivel cuando la información sobre el nivel, derivada del SSR en Modo C, indica que ha pasado ese nivel en la dirección requerida, en más de 90 m (300 ft).
 
-4.6.5.4.2.5. Aeronaves que llegan a un nivel. Se considera que una aeronave ha alcanzado el nivel al cual ha sido autorizada, cuando tres renovaciones consecutivas de la información sobre el nivel, derivada del Modo C, han indicado que se encuentra dentro de los 90 m (300 ft) de su nivel asignado.
-
-Nota: En los sistemas ATS automatizados, los ciclos de renovación de los datos del Modo C pueden no resultar evidentes a los controladores. Por lo tanto será necesario indicar en las instrucciones a los controladores, el número de ciclos de repetición de presentación efectuados, o un intervalo de tiempo correspondiente a tres renovaciones consecutivas de los datos del Modo C.
+4.6.5.4.2.5. Aeronaves que llegan a un nivel. Se considera que una aeronave ha alcanzado el nivel al cual ha sido autorizado, cuando tres renovaciones consecutivas de la información sobre el nivel, derivada del Modo C, han indicado que se encuentra dentro de las tolerancias apropiadas del nivel asignado, según se prescribe en 4.6.5.4.2.1.
 
 4.6.5.4.2.6. Sólo será necesario que el controlador intervenga si las diferencias que existen entre la información sobre el nivel que se presenta al controlador y la utilizada para el control exceden de los valores indicados anteriormente.
 
@@ -3553,7 +3553,7 @@ d) transferencia de la identificación radar (véase 4.6.6.3);
 
 e) observación del cumplimiento de las instrucciones relativas al establecimiento de determinado código;
 
-f) observación del cumplimiento de las instrucciones relativas a la operación de pase a IDENTIFICACION;
+f) observación del cumplimiento de las instrucciones relativas a la operación de pase a IDENTIFICACIÓN;
 
 Nota 1: En los sistemas radar automatizados, la función «IDENTIFICACIÓN» puede presentarse de distintas formas, por ejemplo, mediante destellos de la posición radar y del bloque de datos conexo, en su totalidad o en parte.
 
@@ -5870,7 +5870,7 @@ d) breves detalles del incidente.
 
 4.10.2. Generalidades.
 
-4.10.2.1. La mayor parte de la fraseología de la Sección 4.10.3 de este Capítulo muestra textos de mensajes completos sin usar distintivos de llamada y no pretende ser exhaustiva. Cuando las circunstancias sean distintas es de esperar que los pilotos, el personal del ATS y demás personal de tierra utilicen otra fraseología apropiada, que debería ser lo más clara y concisa posible, para evitar cualquier confusión por parte de las personas que utilicen idiomas distintos del propio.
+4.10.2.1. La mayor parte de la fraseología de la Sección 4.10.3 de este Capítulo muestra textos de mensajes completos sin usar distintivos de llamada y no pretende ser exhaustiva. Cuando las circunstancias sean distintas es de esperar que los pilotos, el personal del ATS y demás personal de tierra utilicen lenguaje común y corriente, que debería ser lo más claro y conciso posible, a un nivel que satisfaga los requisitos para evitar cualquier confusión por parte de las personas que utilicen idiomas distintos del propio. La autoridad competente publicará los requisitos correspondientes teniendo en cuenta los acuerdos internacionales de navegación aérea, en particular, el Anexo 1 de OACI, licencias al personal.
 
 4.10.2.2. Para facilitar la consulta, la fraseología se agrupa según tipos de servicio de tránsito aéreo. Sin embargo, los usuarios deberán conocer y utilizar, en la medida necesaria, fraseología de grupos distintos de los que se refieran específicamente al tipo de servicio de tránsito aéreo que se suministre. Toda la fraseología se utilizará junto con los distintivos de llamada (aeronave, vehículo terrestre, ATC u otros) según corresponda. A fin de que pueda distinguirse claramente la fraseología de la Sección 4.10.3, se han omitido los distintivos de llamada. En el Anexo 10 de OACI, Volumen II, Capítulo 5, que se ha incluido en el Libro Décimo, se indican las disposiciones relativas a la compilación de los mensajes RTF, distintivos de llamada y procedimientos pertinentes.
 
@@ -6184,6 +6184,24 @@ La transmisión de piloto se indica con un asterisco.
 | h) LISTO PARA REANUDAR RVSM* | h) READY TO RESUME RVSM* |
 | Para que un controlador confirme que una aeronave ha recuperado su aprobación RVSM o para confirmar que el piloto está listo para reanudar las operaciones RVSM. |  |
 | i) NOTIFIQUE LISTO PARA REANUDAR RVSM | i) REPORT READY TO RESUME RVS |
+
+4.10.3.2.10 Operaciones RNAV.
+
+| Para que un piloto informe al ATC de que no puede aceptar un procedimiento RNAV de salida o llegada debido al equipo RNAV o a circunstancias relacionadas con la operación... |  |
+| --- | --- |
+| *a) IMPOSIBLE SALIDA (o LLEGADA) (designador) DEBIDO AL TIPO RNAV | *a) UNABLE (designator) DEPARTURE (or ARRIVAL) DUE RNAV TYPE |
+| Para que un piloto informe al ATC que no puede cumplir con el procedimiento de área terminal asignado... |  |
+| *b) IMPOSIBLE SALIDA (O LLEGADA) (designador) (razones) | *b) U NABLE (designator) DEPARTURE (or ARRIVAL) (reasons) |
+| Para que el ATC informe que no puede asignar un procedimiento RNAV de salida o llegada, solicitado por el piloto, debido al tipo de equipo RNAV... |  |
+| c) IMPOSIBLE CONCEDER SALIDA (O LLEGADA) (designador) DEBIDO AL TIPO RNAV | c) U NABLE TO ISSUE (designator) DEPARTURE (or ARRIVAL) DUE RNAV TYPE |
+| Para que el ATC informe que no puede asignar un procedimiento de llegada o salida solicitado por el piloto por cualquier otra razón... |  |
+| d) IMPOSIBLE CONCEDER SALIDA (O LLEGADA) (designador) (razones) | d) U NABLE TO ISSUE (designator) DEPARTURE (or ARRIVAL) (reasons) |
+| Para que el ATC pida confirmación al piloto para aceptar un procedimiento RNAV de salida o llegada específico... |  |
+| e) CONFIRME SI PUEDE SALIDA (O LLEGADA) (designador) | e) A DVISE IF ABLE (designator) DEPARTURE (or ARRIVAL) |
+| Para que el piloto informe al ATC en la primera comunicación en cada frecuencia que no dispone de sistema RNAV... |  |
+| * f) (identificación de la aeronave) RNAV NEGATIVO | *f) (call sign) NEGATIVE RNAV |
+| Para que el piloto comunique al ATC la falla o degradación del sistema RNAV... |  |
+| * g) (identificación de la aeronave) IMPOSIBLE RNAV DEBIDO A EQUIPO. | *g) (call sign) UNABLE RNAV DUE EQUIPMENT |
 
 4.10.3.3. Servicio de control de aproximación.
 
@@ -6627,6 +6645,14 @@ La transmisión de piloto se indica con un asterisco.
 | Para comunicar la causa de una contingencia relacionada con una aeronave que no puede realizar operaciones RVSM debido a fuerte turbulencia o a otro importante fenómeno meteorológico o fallo de equipo, según proceda. |  |
 | b) RVSM NEGATIVA DEBIDO A TURBULENCIA o EQUIPO (según proceda) | b) UNABLE RVSM DUE TURBULENCE or EQUIPMENT (as applicable) |
 
+4.10.3.5.9 Operaciones RNAV.
+
+| Para complementar oralmente un intercambio de mensaje de estimación automatizado que no incluya automáticamente la información de la casilla 18 y también para completar oralmente los mensajes de estimación de aeronaves sin sistema RNA. |  |
+| --- | --- |
+| a) RNAV NEGATIVO | a) NEGATIVE RNAV |
+| Para comunicar la falla o degradación del sistema RNAV. |  |
+| b) RNAV FUERA DE SERVICIO | b) RNAV OUT OF SERVICE |
+
 4.10.4. Fraseología radar.
 
 Nota: A continuación se incluye la fraseología específicamente aplicable cuando se utiliza el radar en el suministro de servicios de tránsito aéreo. La fraseología detallada de las secciones anteriores para utilizarla en el suministro de los servicios de tránsito aéreo es también aplicable, según sea apropiado, cuando se utiliza el radar.
@@ -6970,5 +6996,12 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 | VERIFIQUE (nivel). | VERIFY (level). |
 | --- | --- |
 | Nota: En la sección correspondiente a la fraseología del servicio radar de control de aproximación se proporcionan otras expresiones que han de usarse en el servicio radar de control de área. |  |
+
+4.10.4.3.14 Para solicitar la suspensión del Modo 3 del transpondedor.
+
+| APAGUE MODO TRES. | STOP SQUAWK MODE THREE. |
+| --- | --- |
+
+> Se modifican los Capítulos 2 y 10 por el art. único.4 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637
 
 > Se modifica el Capítulo 3 por el art. 3 de la Orden PRE/2220/2004, de 6 de julio de 2004. Ref. BOE-A-2004-12699

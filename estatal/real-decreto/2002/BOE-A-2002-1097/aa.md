@@ -12,7 +12,7 @@
 
 Síganse con exactitud los formatos prescritos y la manera de indicar los datos.
 
-Comiéncese insertando los datos en el primer espacio. Cuando haya exceso de espacio, déjese éste en blanco.
+Comiéncense insertando los datos en el primer espacio. Cuando haya exceso de espacio, déjese éste en blanco.
 
 Insértense siempre las horas con 4 cifras, UTC.
 
@@ -36,7 +36,7 @@ Insértese una de las siguientes identificaciones de aeronave, sin exceder de 7 
 
 a) Las marcas de matrícula de la aeronave (por ejemplo, EIKAO, 4XBCD, N2567GA) cuando:
 
-1) el distintivo de llamada radiotelefónico que empleará la aeronave consista en esta identificación sólamente (por ejemplo, OOTEK), o cuando vaya precedida del designador telefónico OACI de la empresa explotadora de aeronaves (por ejemplo, SABENA OOTEK);
+1) el distintivo de llamada radiotelefónico que empleará la aeronave consista en esta identificación solamente (por ejemplo, OOTEK), o cuando vaya precedida del designador telefónico OACI de la empresa explotadora de aeronaves (por ejemplo, SABENA OOTEK);
 
 2) la aeronave no esté equipada con radio;
 
@@ -104,29 +104,29 @@ Insértese una letra, como sigue:
 
 Insértese una o más de las letras siguientes para indicar el equipo COM y de ayudas para la navegación y la aproximación, disponible y que funciona:
 
-| A | (Sin asignar) | M | Omega |
+| A | (Sin asignar) | M | OMEGA |
 | --- | --- | --- | --- |
 | B | (Sin asignar) | O | VOR |
-| C | LORAN C | P | (Sin asignar) |
+| C | LORAN C | P | P-RNAV (5) |
 | D | DME | Q | (Sin asignar) |
-| E | (Sin asignar) | R | Certificación de tipo de RNP (5) |
-| F | ADF | T | TACAN |
+| E | (Sin asignar) | R | B-RNAV (5) |
+| F | (ADF) | T | TACAN |
 | G | GNSS | U | UHF RTF |
 | H | HF RTF | V | VHF RTF |
 | I | Navegación inercial | W | Aprobación RVSM (6) |
-| J | Enlace de datos (3) | X) | Aprobación MNPS (7) |
-| K | MLS | Y) | Equipo radio de 8,33 kHz (8) |
+| J | Enlace de datos (3) | X | Aprobación MNPS (7) |
+| K | MLS | Y | Equipo radio de 8,33 kHz (8) |
 | L | ILS | Z | demás equipo instalado a bordo (2) |
 
 (1) Los equipos VHF RTF, ADF, VOR e ILS se consideran normalizados, salvo que la autoridad ATS competente prescriba alguna otra combinación.
 
-(2) Sí se usa la letra Z, especifíquese en la Casilla 18 cualquier otro tipo de equipo instalado a bordo, precedido de COM/y/o NAV/, según corresponda.
+(2) Si se usa la letra Z, especifíquese en la Casilla 18 cualquier otro tipo de equipo instalado abordo, precedido de COM/ y/o NAV/, según corresponda.
 
 (3) Si se usa la letra J, especifíquese en la casilla 18 el equipo instalado a bordo, precedido de DAT/, seguido de una o varias letras según corresponda.
 
 (4) La información sobre capacidad de navegación se proporciona al ATC a efectos de autorización y encaminamiento.
 
-(5) La inclusión de la letra R indica que la aeronave satisface las condiciones del tipo RNP prescrito para el tramo o tramos de ruta, la ruta o rutas y/o el área en cuestión.
+(5) Se utilizarán la letra P y la letra R para aeronaves aprobadas P-RNAV y B-RNAV, respectivamente.
 
 (6) La inclusión de la letra W indica que la aeronave dispone de aprobación para el vuelo en espacio aéreo RVSM. En la casilla 18 deberá incluirse la matrícula de la aeronave precedida de REG/.
 
@@ -144,7 +144,7 @@ Equipo SSR.
 | --- | --- |
 | A | Respondedor - Modo A (4 dígitos-4.096 códigos) |
 | C | Respondedor - Modo A (4 dígitos-4.096 códigos) y Modo C |
-| X | Respondedor -Modo S sin transmisión de identificación de aeronave ni de altitud de presión |
+| X | Respondedor - Modo S sin transmisión de identificación de aeronave ni de altitud de presión |
 | P | Respondedor - Modo S, comprendida la transmisión de altitud de presión pero sin transmisión de identificación de aeronave |
 | I | Respondedor - Modo S, comprendida la transmisión de identificación de aeronave pero sin transmisión de altitud de presión |
 | S | Respondedor - Modo S, comprendida la transmisión de altitud de presión y la transmisión de identificación de aeronave |
@@ -340,7 +340,7 @@ Insértese 0 (cero) si no hay otros datos, o cualquier otra información necesar
 | --- | --- |
 |  | RIF/ESP G94 CLA APPH |
 | RIF/LEMD |
-| REG/ | Marcas de matrícula de la aeronave, si son distintas de la identificación de la aeronave consignada en la Casilla 7 y cuando en la casilla 10 se incluyan las letras W o X. |
+| REG/ | Marcas de matrícula de la aeronave, si son distintas de la identificación de la aeronave consignada en la Casilla 7 y cuando en la Casilla 10 se incluyan las letras W o X. |
 | --- | --- |
 | SEL/ | Clave SELCAL, si está prescrito por la autoridad ATS competente. |
 | OPR/ | Nombre del explotador, si no se desprende claramente de la identificación de la aeronave consignada en la Casilla 7. |
@@ -348,10 +348,11 @@ Insértese 0 (cero) si no hay otros datos, o cualquier otra información necesar
 |  | – STS/HUM: Vuelos que operan por razones humanitarias. |
 | – STS/HOSP: Vuelos médicos específicamente declarados por las autoridades sanitarias. |
 | – STS/SAR: Vuelos en misión de búsqueda y salvamento. |
-| – STS/HEAD: Vuelos con tratamiento de jefe de estado. |
-| – STS/STATE: Otros vuelos de autoridades del estado. |
+| – STS/HEAD: Vuelos con tratamiento de Jefe de Estado. |
+| – STS/STATE: Otros vuelos de autoridades del Estado. |
 | – STS/PROTECTED: Vuelos que requieren una seguridad especial. Indica que el plan de vuelo sólo estará disponible para determinadas personas. |
 | – STS/EMER: Vuelos en situación de emergencia. |
+| – STS/RNAVINOP: Aeronave con sistema B-RNAV inoperativo. |
 | – STS/NONRNAV: Aeronave de Estado no equipada con RNAV. |
 | – STS/EXM833: Aeronave exonerada del requisito de transporte obligatorio de equipo de radio con capacidad de separación entre canales de 8,33 kHz. |
 | – STS/ Texto libre: Ejemplo: (un motor parado) STS/ONE ENG INOP. Si fuera necesario utilizar más de un designador en el mismo FPL se hará en campos STS/separados. |
@@ -364,7 +365,7 @@ Nota: estos designadores deben ser utilizados únicamente por las autoridades es
 | --- | --- |
 |  |
 | PER/ | Datos de performance de la aeronave, cuando así lo prescriba la autoridad ATS competente. |
-| COM/ | Datos importantes relativos al equipo de comunicaciones según lo requiera la autoridad ATS competente. (ejemplo: COM/UHF solamente). |
+| COM | Datos importantes relativos al equipo de comunicaciones según lo requiera la autoridad ATS competente. (ejemplo: COM/UHF solamente). |
 |  |
 | DAT/ | Datos importantes relacionados con la capacidad de enlace de datos, utilizando una o varias de las letras S, H, V y M. |
 |  |
@@ -686,3 +687,5 @@ c) Toda otra información pertinente al plan de vuelo que resulte de interés pa
 8. Ejemplo de formulario ya completado de lista de plan de vuelo repetitivo (RPL).
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image4.png)
+
+> Se modifica el punto 2 por el art. único.6 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637
