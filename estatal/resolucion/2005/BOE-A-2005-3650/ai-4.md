@@ -122,11 +122,13 @@ La elaboración de material docente y las publicaciones relacionadas con la doce
 
 Se valora la formación académica en Diplomatura o Licenciatura del solicitante y las estancias en otros centros. Se considera especialmente si posee más de una titulación.
 
+Se incluirá como mérito a valorar la formación en programas de doctorado y la obtención del certificado-diploma acreditativo de estudios avanzados.
+
 3.2 Experiencia profesional.
 
 Este apartado se valora hasta un máximo de 40 puntos sobre 100, teniendo en cuenta principalmente los siguientes méritos:
 
-Se valora la duración y el grado de responsabilidad ejercido durante su experiencia profesional, así como su relevancia práctica para la docencia. Se tiene en cuenta como experiencia profesional el ejercicio de la profesión en empresas o entidades, públicas o privadas, diferente del relacionado con la actividad docente e investigadora en la Universidad.
+Se valora la duración y el grado de responsabilidad ejercido durante su experiencia profesional, así como su relevancia práctica para la docencia. Se tiene en cuenta como experiencia profesional el ejercicio de la profesión en empresas o entidades públicas o privadas.
 
 3.3 Experiencia investigadora.
 
@@ -139,3 +141,5 @@ La calidad e importancia de las publicaciones relacionadas con el campo científ
 Este apartado se valora hasta un máximo de 10 puntos sobre 100.
 
 Se tiene en cuenta el grado de Doctor y, con carácter general, cualquier otro mérito no valorado en aplicación de los restantes criterios.
+
+> Se modifican los apartados 3.1.C y 3.2 por los apartados 1 y 2 de la Resolución de 4 de octubre de 2005. Ref. BOE-A-2005-17103.
