@@ -78,4 +78,10 @@ Los productos líquidos que contengan proteína vegetal hidrolizada (HVP) o sals
 
 El laboratorio de control oficial analizará la muestra de laboratorio. Realizará al menos dos análisis independientes y calculará la media de los resultados.
 
-El lote será aceptado si la media se ajusta al contenido máximo establecido en el Reglamento (CE) número 466/2001. Será rechazado si la media supera el contenido máximo establecido en el referido Reglamento (CE) número 466/2001.
+El lote será aceptado si la media no supera el límite máximo establecido en el Reglamento (CE) número 466/2001, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre expandida de la medida (ver nota (4) del apartado 3 del anexo II de esta orden).
+
+El lote será rechazado si la media supera, fuera de toda duda razonable, el límite máximo establecido en el referido Reglamento (CE) número 466/2001, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre expandida de la medida.
+
+Estas normas de interpretación son aplicables a los resultados analíticos obtenidos de las muestras destinadas al control oficial. En caso de análisis con fines de defensa del comercio o de arbitraje, se aplicarán las normas nacionales.
+
+> Se modifica el apartado 5 por el apartado 1 y anexo I de la Orden SCO/3427/2005, de 25 de octubre. Ref. BOE-A-2005-18177.
