@@ -1,0 +1,3 @@
+## Disposición transitoria única. Componente singular del complemento específico.
+
+En tanto no se aprueben las nuevas características retributivas de las relaciones de puestos militares contemplados en la plantilla de destinos, continuará en vigor lo dispuesto para el componente singular del complemento específico en el Reglamento de retribuciones del personal de las Fuerzas Armadas, aprobado por el Real Decreto 662/2001, de 22 de junio, y en sus normas de desarrollo, así como las asignaciones de este componente derivadas de esta regulación. Las cuantías del componente singular del complemento específico se actualizarán en los términos previstos en las leyes de presupuestos generales del Estado.
