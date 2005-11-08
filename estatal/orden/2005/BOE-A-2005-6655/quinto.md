@@ -16,4 +16,6 @@ d) División de Logística. Responsable del planeamiento, coordinación y contro
 
 e) División de Sistemas de Información y Telecomunicaciones. Responsable del planeamiento, dirección y control del Sistema de Mando y Control Militar de las FAS, y de las telecomunicaciones que lo soportan.
 
-4. El cargo de Jefe del Estado Mayor Conjunto de la Defensa será desempeñado por un Oficial General en servicio activo perteneciente a los Cuerpos Generales de los Ejércitos o de la Armada.
+4. El cargo de Jefe del Estado Mayor Conjunto de la Defensa será desempeñado por un Oficial General en servicio activo perteneciente a los Cuerpos Generales de los Ejércitos o de la Armada o al Cuerpo de Infantería de Marina.
+
+> Se modifica el punto 4 por el apartado único.2 de la Orden DEF/3451/2005, de 2 de noviembre. Ref. BOE-A-2005-18318.

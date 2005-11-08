@@ -24,4 +24,6 @@ Secciones de Estado Mayor. El Estado Mayor dispondrá de las Secciones necesaria
 
 3. Dependerá asimismo del Estado Mayor un grupo de inspección sobre contrataciones, que llevará a cabo las inspecciones necesarias para el control de los medios de despliegue contratados.
 
-4. El cargo de Comandante del Mando de Operaciones será desempeñado por un Oficial General en servicio activo perteneciente a los Cuerpos Generales de los Ejércitos o de la Armada.
+4. El cargo de Comandante del Mando de Operaciones será desempeñado por un Oficial General en servicio activo perteneciente a los Cuerpos Generales de los Ejércitos o de la Armada o al Cuerpo de Infantería de Marina.
+
+> Se modifica el punto 4 por el apartado único.1 de la Orden DEF/3451/2005, de 2 de noviembre. Ref. BOE-A-2005-18318.
