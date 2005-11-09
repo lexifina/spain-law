@@ -1,0 +1,25 @@
+## Disposición final sexta. Modificación del Real Decreto 84/1993, de 22 de enero, por el que se aprueba el Reglamento de desarrollo de la Ley 13/1989, de 26 de mayo, cooperativas de crédito.
+
+El artículo 10 del Reglamento de desarrollo de la Ley 13/1989, de 26 de mayo, cooperativas de crédito, aprobado por el Real Decreto 84/1993, de 22 de enero, queda redactado en los términos siguientes:
+
+«Artículo 10. Aportaciones al capital social: requisitos y límites.
+
+1. Para integrar el capital social de las cooperativas de crédito las aportaciones de los socios y asociados deberán cumplir los siguientes requi-sitos:
+
+a) Su eventual retribución estará efectivamente condicionada a la existencia de resultados netos o reservas de libre disposición suficientes para satisfacerla; en este último caso, deberán cumplir lo dispuesto en el artículo 12.5.
+
+b) Su duración será indefinida.
+
+c) Su eventual reembolso quedará sujeto a las condiciones exigidas por el artículo 7.4 de la Ley 13/1989, de 22 de enero, así como a lo dispuesto en los artículos 13 y 14 de este reglamento.
+
+2. Los estatutos podrán prever que cuando durante un ejercicio económico el importe de la devolución de las aportaciones supere el porcentaje del capital social que en ellos se establezca, los nuevos reembolsos estén condicionados al acuerdo favorable del consejo rector.
+
+Asimismo, los estatutos podrán regular la existencia de aportaciones al capital social cuyo reembolso pueda ser rehusado incondicionalmente por el consejo rector. La transformación obligatoria de aportaciones de los socios con derecho de reembolso, en aportaciones cuyo reembolso pueda ser rehusado incondicionalmente por el consejo rector, requerirá el acuerdo de la asamblea general, el socio disconforme podrá darse de baja y esta se calificará como justificada.
+
+3. Los límites a la concentración de aportaciones establecidos en el apartado 3 del artículo 7 de la Ley 13/1989, de 22 de enero, girarán sobre las que, directa o indirectamente, supongan la titularidad o el control de los porcentajes máximos de capital establecido en aquel apartado.
+
+En el caso de que, por transmisión de aportaciones a título gratuito o mortis causa o por reembolso de las aportaciones a otros socios, las correspondientes a algún socio o al conjunto de socios personas jurídicas que no sean cooperativas sobrepasaran los límites legales a que se refiere el párrafo anterior, la Dirección General del Tesoro y Política Financiera, a solicitud de los interesados y previo informe del Banco de España, resolverá, sin poner fin a la vía administrativa, sobre el plazo y el procedimiento solicitados para que se restablezca el cumplimiento de aquellos límites, en un plazo máximo de tres meses desde la solicitud; la propuesta se entenderá aceptada si en dicho período no hubiera recaído una resolución expresa.
+
+4. La adquisición por las cooperativas de crédito de sus propias aportaciones o su aceptación en prenda u otra forma de garantía estará sometida a las mismas restricciones y limitaciones que prevea la normativa legal para las acciones de la banca privada, y a las que resulten de este reglamento.
+
+Las cooperativas de crédito tampoco podrán anticipar fondos, conceder préstamos o prestar garantías de ningún tipo para la adquisición de sus aportaciones, salvo en el caso de que el acreditado o garantizado sea empleado de la propia cooperativa, como asalariado, socio de trabajo o prestador de servicios profesionales de naturaleza civil a la cooperativa.»
