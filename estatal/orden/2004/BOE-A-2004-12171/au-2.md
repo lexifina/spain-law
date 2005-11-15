@@ -4,7 +4,7 @@
 
 Los puertos designados para los desembarques de merluza del norte que superen las dos toneladas, son los siguientes:
 
-Pasajes de San Pedro.
+Pasaia.
 
 Ondárroa.
 
@@ -16,11 +16,13 @@ Avilés.
 
 Gijón.
 
-Celeiro o Cillero.
+Celeiro.
 
 Burela.
 
-La Coruña.
+A Coruña.
+
+Cedeira.
 
 Cariño.
 
@@ -28,6 +30,8 @@ Vigo.
 
 Marín.
 
-Riveira.
+Ribeira.
+
+> Se modifica por el apartado 1 y anexo de la Resolución de 31 de octubre de 2005. Ref. BOE-A-2005-18757
 
 > Se modifica por el apartado 1 y anexo de la Resolución de 21 de junio de 2005. Ref. BOE-A-2005-11958
