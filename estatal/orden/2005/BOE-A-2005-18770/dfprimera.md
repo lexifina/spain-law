@@ -1,0 +1,3 @@
+## Disposición final primera. Habilitación a la CNMV.
+
+En virtud de lo previsto en la disposición final única del Real Decreto 926/1998, de 14 de mayo, por el que se regulan los fondos de titulización de activos y las sociedades gestoras de fondos de titulización, se habilita a la CNMV para dictar reglas específicas relativas a la contabilidad, al formato y contenido de las cuentas anuales y los informes de gestión de los fondos, al alcance y contenido de los informes especiales de auditores u otros expertos independientes, sin perjuicio de lo establecido en la Ley 19/1988, de 12 de julio, de auditoría de cuentas, y a las obligaciones de información de los fondos de titulización y sus sociedades gestoras.
