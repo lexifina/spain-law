@@ -1,0 +1,3 @@
+## Primero. Objeto de la Orden.
+
+La presente Orden tiene por objeto desarrollar lo dispuesto en el artículo 27.4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores (en adelante Ley del Mercado de Valores), especificando el contenido y los modelos de los distintos tipos de folletos exigibles en la admisión a negociación de valores en mercados secundarios oficiales y en las ofertas públicas de venta o suscripción; los documentos que deberán acompañarse; las excepciones a la obligación de incluir determinada información; y los supuestos en los que la información contenida en el folleto podrá incorporarse por referencia.
