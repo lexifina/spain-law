@@ -1,18 +1,10 @@
-## Artículo 50 bis. Tipo impositivo especial para biocarburantes.
+## Artículo 50 bis. Tipos impositivos para biocarburantes y biocombustibles.
 
-1. Con efectos hasta el día 31 de diciembre de 2012, en las condiciones que reglamentariamente se determinen y sin perjuicio de lo dispuesto en el apartado 3 de este artículo, se aplicará a los biocarburantes un tipo especial de cero euros por 1.000 litros. El tipo especial se aplicará exclusivamente sobre el volumen de biocarburante aun cuando éste se utilice mezclado con otros productos.
+1. Los biocarburantes y biocombustibles tributarán por este impuesto a los tipos impositivos establecidos en los epígrafes 1.13 a 1.15 de la tarifa 1.ª establecida en el apartado 1 del artículo 50 de esta Ley. Dichos tipos se aplicarán exclusivamente sobre el volumen de biocarburante o de biocombustible sin que puedan aplicarse sobre el volumen de otros productos con los que pudieran utilizarse mezclados.
 
-2. A los efectos de lo establecido en este artículo se consideran "biocarburantes" los siguientes productos incluidos en el ámbito objetivo del impuesto sobre hidrocarburos en virtud de lo dispuesto en el apartado 2 del artículo 46 de esta ley:
+2. Siempre que la evolución comparativa de los costes de producción de los productos petrolíferos y de los biocarburantes y biocombustibles así lo aconseje, las Leyes de Presupuestos Generales del Estado podrán fijar el importe de los tipos impositivos previstos en los epígrafes 1.13 a 1.15 en atención a las referidas circunstancias estableciendo, en su caso, tipos de gravamen de importe positivo.
 
-a) El alcohol etílico producido a partir de productos agrícolas o de origen vegetal (bioetanol) definido en el código NC 2207.20, ya se utilice como tal o previa modificación química.
-
-b) El alcohol metílico (metanol) definido en el código NC 2905.11.00 y obtenido a partir de productos de origen agrícola o vegetal, ya se utilice como tal o previa modificación química.
-
-c) Los productos definidos en los códigos, NC, 1507, 1508, 1510, 1511, 1512, 1513, 1514, 1515 y 1518, ya se utilicen como tales o previa modificación química.
-
-Lo dispuesto en los artículos 50.2 y 54.1 de la Ley no será aplicable en relación con los biocarburantes definidos en este apartado 2.
-
-3. Siempre que la evolución comparativa de los costes de producción de los productos petrolíferos y de los biocarburantes así lo aconseje, las Leyes de Presupuestos Generales del Estado podrán sustituir el tipo cero contemplado en el apartado 1 de este artículo por un tipo de gravamen de importe positivo, que no excederá del importe del tipo impositivo aplicable al carburante convencional equivalente.
+> Se modifica por el art. 2.6 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
 
 > Se modifica el apartado 2.c) por el art. 9.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
