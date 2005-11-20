@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Cesión de información de carácter tributario por medios informáticos o telemáticos.
+
+Siempre que en la tramitación de un procedimiento administrativo sea necesaria la obtención de información de la Agencia Estatal de Administración Tributaria, se procederá de la siguiente forma:
+
+a) En aquellos casos en los que exista una norma con rango de ley que ampare la cesión de información tributaria sin necesidad de consentimiento del interesado, la Agencia Estatal de Administración Tributaria procederá a facilitarla, a instancia de la Administración Pública que tramita el procedimiento, mediante certificado telemático o transmisión de datos, de conformidad con la normativa reglamentaria reguladora de los certificados telemáticos y transmisiones de datos.
+
+b) Cuando la cesión de información exija el consentimiento del interesado, la Administración Pública que tramita el procedimiento recabará el consentimiento de éste para que se proceda a la cesión de la información correspondiente a través de una trasmisión de datos o de un certificado telemático a instancia del órgano requirente, de conformidad con la normativa reglamentaria reguladora de los certificados telemáticos y transmisiones de datos. En el caso de que el interesado no preste el consentimiento, la Administración Pública que tramita el procedimiento le exigirá la aportación del correspondiente certificado de la Agencia Estatal de Administración Tributaria.

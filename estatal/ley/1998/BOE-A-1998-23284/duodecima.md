@@ -118,4 +118,10 @@ La recaudación en vía ejecutiva será competencia de los órganos de recaudaci
 
 Quinto. En lo no previsto en los apartados anteriores será de aplicación lo establecido en la Ley 230/1963, de 28 de diciembre, General Tributaria, en la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos y normas de desarrollo de las mismas.
 
+Sexto. Los tipos de gravamen a que hacen referencia los puntos 1.º e), 2.º f) y 3.º e) del apartado 2 de la presente disposición, serán revisados por el Gobierno con carácter cuatrienal, adaptándolos a las necesidades de financiación que justifique la Comisión Nacional de Energía, según lo establecido en la disposición adicional undécima de la presente Ley.
+
+La primera revisión se realizará para el año 2006.
+
+> Se añade el punto 6 al apartado 2 por el art. 1 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+
 > Se modifica por el art. 19.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965

@@ -116,9 +116,9 @@ Asimismo, informará semestralmente al Ministerio de Industria y Energía sobre 
 
 Segunda: resolver los conflictos que le sean planteados en relación con la gestión económica y técnica del sistema y el transporte.
 
-3. En relación con el sector gasista, corresponderá a la Comisión, además de las funciones a que se refiere el apartado 1 anterior, las siguientes:
+3. En relación con el sector gasista, corresponderán a la Comisión, además de las funciones a que se refiere el apartado 1 anterior, las siguientes:
 
-Efectuar las propuestas de liquidación correspondientes a los ingresos obtenidos por tarifas y peajes relativos al uso de las instalaciones de la Red Básica, transporte secundario y distribución a que hace referencia el artículo 96, que elevará a la Dirección General de Política Energética y Minas para su aprobación.
+Realizar las liquidaciones correspondientes a los ingresos obtenidos por tarifas y peajes relativos al uso de las instalaciones de la Red Básica, transporte secundario y distribución a que hace referencia el artículo 96 y comunicarla a los interesados y a la Dirección General de Política Energética y Minas.
 
 Resolver los conflictos que le sean planteados en relación con la gestión técnica del sistema de gas natural.
 
@@ -137,6 +137,8 @@ Asimismo, la Comisión Nacional de Energía tendrá acceso a los registros regul
 5. Contra las resoluciones adoptadas por la Comisión Nacional de Energía en el ejercicio de las funciones a que se refieren los números1 y 2 del presente apartado, y contra sus actos de trámite en las mismas materias que determinen la imposibilidad de continuar el procedimiento o produzcan indefensión, podrá interponerse recurso ordinario ante el Ministro de Industria y Energía.
 
 Se exceptúan de lo dispuesto en el párrafo anterior las resoluciones que se dicten en el ejercicio de la función segunda del número 2 del presente apartado y de las circulares que se refieran a materia de información, que pondrán fin a la vía administrativa.
+
+> Se modifica el apartado 3.3 por el art. 13 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
 
 > Se modifica el apartado 2.1 por el art. 92.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 

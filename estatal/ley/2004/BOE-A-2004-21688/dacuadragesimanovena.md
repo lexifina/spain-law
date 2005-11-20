@@ -1,6 +1,8 @@
 ## Disposición adicional cuadragésima novena. Iniciativa de Modernización de Destinos Turísticos Maduros del Litoral Español.
 
-Uno. El Estado apoyará financieramente los planes de renovación y modernización integral de destinos turísticos maduros del litoral español, diseñados y ejecutados mediante la iniciativa conjunta entre las diversas Administraciones y el sector privado.
+Uno. El Estado apoyará financieramente los planes de renovación y modernización integral de destinos turísticos maduros, diseñados y ejecutados mediante la iniciativa conjunta entre las diversas Administraciones y el sector privado.
+
+El apoyo financiero del Estado será canalizado a destinos turísticos maduros situados preferentemente en municipios costeros.
 
 Dos. Estas iniciativas de modernización y dinamización de destinos turísticos maduros incorporan la ampliación y/o puesta al día de las infraestructuras privadas (como hoteles o centros de ocio), así como las públicas (como paseos marítimos, aparcamientos, depuradoras de aguas residuales o campos de deporte), incluyendo las infraestructuras públicas con sistemas privados de gestión.
 
@@ -21,3 +23,5 @@ Seis. En el ejercicio 2005 la dotación máxima del Estado al FOMIT establecido 
 Siete. En el ejercicio 2005 el apoyo a los tipos de interés de la línea de financiación establecida en el párrafo b) del apartado Tres será de 2.000,00 miles de euros.
 
 Ocho. En el ejercicio 2005 las subvenciones establecidas en el párrafo c) del apartado Tres serán de 5.000,00 miles de euros.
+
+> Se modifica el apartado 1 por el art. 24 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005.

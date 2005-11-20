@@ -10,7 +10,7 @@ También podrán ser socios otras Cooperativas Agrarias y de Explotación Comuni
 
 a) Que las materias, productos o servicios, adquiridos, arrendados, elaborados, producidos, realizados o fabricados por cualquier procedimiento, por la cooperativa, con destino exclusivo para sus propias explotaciones o para las explotaciones de sus socios, no sean cedidos a terceros no socios, salvo que se trate de los remanentes ordinarios de la actividad cooperativa o cuando la cesión sea consecuencia de circunstancias no imputables a la cooperativa.
 
-No obstante, las cooperativas agrarias podrán suministrar gasóleo B a terceros no socios sin que ello determine la pérdida de la condición de especialmente protegidas.
+No obstante, las cooperativas agrarias podrán distribuir al por menor productos petrolíferos a terceros no socios sin que ello determine la pérdida de la condición de especialmente protegida.
 
 b) Que no se conserven, tipifiquen, manipulen, transformen, transporten, distribuyan o comercialicen productos procedentes de otras explotaciones, similares a los de las explotaciones de la cooperativa o de sus socios, en cuantía superior, por cada ejercicio económico, al 5 por 100 del precio de mercado obtenido por los productos propios, o al 40 por 100 del mismo precio, si así lo prevén sus estatutos.
 
@@ -23,5 +23,7 @@ Tratándose de cooperativas dedicadas a la comercialización y transformación d
 A efectos de la aplicación de estos límites, cuando figuren como socios otras cooperativas o Sociedades o comunidades de bienes, las bases imponibles o el volumen de ventas de éstas se imputarán a cada uno de sus socios en la proporción que estatutariamente les corresponda.
 
 Por excepción se admitirá la concurrencia de socios cuyas bases imponibles o volumen de ventas sean superiores a los indicados, siempre que dichas magnitudes no excedan en su conjunto del 30 por 100 de las que correspondan al resto de los socios.
+
+> Se modifica el segundo párrafo de la letra a) del apartado 2 por el art. 9.3 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
 
 > Se añade el párrafo segundo a la letra a) del apartado 2 por el art. 1.2 del Real Decreto-Ley 10/2000, de 6 de octubre. Ref. BOE-A-2000-18137

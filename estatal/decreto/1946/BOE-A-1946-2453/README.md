@@ -255,6 +255,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 221](a221.md)
 - [Sección 1](s1-2.md)
 - [Artículo 222](a222.md)
+- [Artículo 222 bis](a222bis.md)
 - [Sección 2](s2-2.md)
 - [Artículo 223](a223.md)
 - [Artículo 224](a224.md)

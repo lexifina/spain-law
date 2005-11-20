@@ -4,7 +4,7 @@ Si la calificación es positiva, el Registrador inscribirá y expresará en la n
 
 La calificación negativa, incluso cuando se trate de inscripción parcial en virtud de solicitud del interesado, deberá ser firmada por el Registrador, y en ella habrán de constar las causas impeditivas, suspensivas o denegatorias y la motivación jurídica de las mismas, ordenada en hechos y fundamentos de derecho, con expresa indicación de los medios de impugnación, órgano ante el que debe recurrirse y plazo para interponerlo, sin perjuicio de que el interesado ejercite, en su caso, cualquier otro que entienda procedente.
 
-Si el Registrador, con cumplimiento de sus obligaciones y dentro del plazo establecido, califica negativamente, total o parcialmente, el interesado podrá recurrir ante la Dirección de los Registros y del Notariado o bien instar la aplicación del cuadro de sustituciones previsto en el artículo 275 bis de esta ley.
+Si el registrador califica negativamente el título, sea total o parcialmente, dentro o fuera del plazo a que se refiere el artículo 18 de la Ley, el interesado podrá recurrir ante la Dirección General de los Registros y del Notariado o bien instar la aplicación del cuadro de sustituciones previsto en el artículo 275 bis de la Ley.
 
 Los interesados tendrán el derecho a solicitar al Registrador del cuadro de sustituciones la calificación de los títulos presentados, en los supuestos previstos en el párrafo anterior, conforme a las siguientes reglas:
 
@@ -31,6 +31,8 @@ En la calificación el registrador sustituto se ajustará a los defectos señala
 Los derechos arancelarios se abonarán por el interesado a cada Registrador en su parte correspondiente.
 
 7.ª Las comunicaciones que se deban practicar conforme a las reglas precedentes se realizarán por correo, fax, correo electrónico o cualquier otro medio telemático que permita tener constancia de su recepción.
+
+> Se modifica el párrafo tercero por el art. 29 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005.
 
 > Se modifica la regla 5ª del párrafo cuarto por el art. 135.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
 

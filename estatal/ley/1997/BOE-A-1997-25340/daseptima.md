@@ -22,7 +22,9 @@ Este valor base será modificado, cuando sea preciso, por el Ministerio de Indus
 
 Las desinversiones deberán ser autorizadas por el Ministerio de Industria y Energía. Los propietarios de las instalaciones deberán realizar, mediante procedimientos que garanticen la libre concurrencia y adecuadas condiciones de venta, las desinversiones que dicho Ministerio determine.
 
-Igualmente, el valor de la enajenación de los terrenos o emplazamientos de las instalaciones será tenido en cuenta por el Ministerio de Industria y Energía para calcular el importe pendiente de compensación. En el caso de inicio de explotación por sus titulares, dicho valor será el de mercado debidamente acreditado y autorizado por el Ministerio de Industria y Energía.
+Igualmente, el valor de la enajenación de los terrenos o emplazamientos de las instalaciones será tenido en cuenta por el Ministerio de Industria, Turismo y Comercio para calcular el importe pendiente de compensación. A estos efectos dicho Ministerio podrá acordar la celebración de un concurso o subasta, mediante el que se procederá a su enajenación a quien realice la mejor oferta, de acuerdo con las bases de la convocatoria, que deberán ser aprobadas por el mismo.
+
+En el caso de que los titulares estén interesados en el inicio de la explotación de los terrenos o emplazamientos de las instalaciones, tendrán derecho a igualar esta mejor oferta, en cuyo caso el concurso o subasta quedará sin efecto, procediéndose a la desinversión mediante el inicio de su explotación.
 
 4. El importe anual que represente la compensación prevista en la presente disposición deberá alcanzar al menos la cantidad de 69.000.000.000 de pesetas en 1994. Dicho importe mínimo se incrementará cada año en un 2 por 100, hasta la íntegra satisfacción de la cantidad total a compensar.
 
@@ -65,3 +67,5 @@ f) Las sociedades gestoras de Fondos de Titulización Hipotecaria podrán amplia
 9. Si en virtud de las normas aplicables para determinación de la base imponible en el Impuesto sobre Sociedades, ésta resultase negativa como consecuencia de la paralización acordada en esta disposición, su importe podrá ser compensado en un período que no excederá de diez años, contados a partir del ejercicio fiscal en el que la mencionada base imponible resultó negativa.
 
 10. La amortización correspondiente a los activos afectos a los proyectos cuya construcción se paraliza definitivamente se realizará como máximo en el plazo de diez años a partir de la entrada en vigor de la presente Ley.
+
+> Se modifica el último párrafo del apartado 3 por el art. 14 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005

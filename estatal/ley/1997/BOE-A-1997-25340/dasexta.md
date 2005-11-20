@@ -1,8 +1,8 @@
 ## Disposición adicional sexta. Fondo para la financiación de las actividades del Plan general de residuos radiactivos.
 
-1. Las cantidades ingresadas por tarifas, peajes o precios, así como cualquier otra forma de financiación de los costes de los trabajos correspondientes a la gestión de los residuos radiactivos y del combustible gastado, y al desmantelamiento y clausura de instalaciones, incluidos los rendimientos financieros generados por ellas, se destinará a dotar una provisión, dotación que tendrá la consideración de partida deducible en el Impuesto sobre Sociedades.
+1. Las cantidades recaudadas por las tasas reguladas en la disposición adicional sexta bis, así como cualquier otra forma de financiación de los costes de los trabajos correspondientes a la gestión de los residuos radiactivos y del combustible gastado, y al desmantelamiento y clausura de instalaciones, incluidos los rendimientos financieros generados por ellas, se destinará a dotar una provisión, teniendo dicha dotación la consideración de partida deducible en el Impuesto sobre Sociedades.
 
-Las cantidades recogidas en la provisión antes mencionada sólo podrán ser invertidas en gastos, trabajos, proyectos e inmovilizaciones derivados de actuaciones previstas en el Plan general de residuos radiactivos aprobado por el Gobierno.
+Las cantidades recogidas en la provisión antes mencionada sólo podrán ser invertidas en gastos, trabajos, proyectos e inmovilizaciones derivados de actuaciones previstas en el Plan General de Residuos Radiactivos aprobado por el Gobierno.
 
 2. La provisión a que se refiere el apartado 1 constituirá el denominado Fondo para la financiación de las actividades del Plan general de residuos radiactivos.
 
@@ -14,29 +14,7 @@ Asimismo, tendrán dicha consideración las cantidades destinadas a dotar la par
 
 Se imputarán a la gestión de los residuos radiactivos y del combustible gastado, y al desmantelamiento y clausura, todos los costes relativos a las actividades técnicas y servicios de apoyo necesarios para llevar a cabo dichas actuaciones, en los que se incluyen los correspondientes a los costes de estructura y a los proyectos y actividades de I+D, de acuerdo todo ello con lo previsto en el Plan general de residuos radiactivos.
 
-5. A los efectos de financiación de los costes a que se refiere el apartado anterior, la Empresa Nacional de Residuos Radiactivos, S. A. (ENRESA), facturará a los titulares de las centrales nucleares las cantidades que resulten de multiplicar los kilowatios hora brutos (kWh) generados por cada una de ellas en cada mes natural, a partir del 1 de abril de 2005, por un valor unitario específico para cada central expresado en céntimos de euro. Para el año 2005, este valor unitario, de acuerdo con los cálculos económicos actualizados, será el siguiente:
-
-José Cabrera: 0,216.
-
-Santa M.ª de Garoña: 0,220.
-
-Almaraz I: 0,186.
-
-Ascó I: 0,186.
-
-Almaraz II: 0,186.
-
-Cofrentes: 0,205.
-
-Ascó II: 0,186.
-
-Vandellós II: 0,186.
-
-Trillo: 0,186.
-
-La facturación tendrá lugar con carácter mensual durante el periodo comprendido entre los 30 y 45 días siguientes al mes de generación de la energía, y los titulares de las centrales nucleares deberán hacer efectivo el pago en un plazo máximo de 30 días a partir de la fecha de facturación.
-
-Estos valores unitarios serán revisados para cada año mediante real decreto con base en una memoria económico-financiera actualizada del coste de las actividades correspondientes.
+5. (Derogado)
 
 6. En el caso de que se produzca un cese de la explotación anticipado respecto al periodo establecido en el Plan general de residuos radiactivos por causa ajena a la voluntad del titular, el déficit de financiación que, en su caso, existiese tendrá la consideración de coste de diversificación y seguridad de abastecimiento. En el caso contrario, el titular deberá cubrir dicho déficit durante los tres años siguientes al cese.
 
@@ -47,6 +25,8 @@ Estos valores unitarios serán revisados para cada año mediante real decreto co
 9. El Estado asumirá la titularidad de los residuos radiactivos una vez se haya procedido a su almacenamiento definitivo. Asimismo, asumirá la vigilancia que, en su caso, pudiera requerirse tras la clausura de una instalación nuclear o radiactiva una vez haya transcurrido el periodo de tiempo que se establezca en la correspondiente declaración de clausura.
 
 10. Se autoriza al Gobierno para adoptar las disposiciones necesarias para la aplicación de lo establecido en esta disposición adicional.
+
+> Se modifica el apartado 1 y se deroga el apartado 5 por el art. 8.2 y 3 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
 
 > Se modifica por el art. 25 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
 

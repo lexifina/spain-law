@@ -1,0 +1,17 @@
+## Artículo vigésimo quinto. Modificación de la legislación de la Sociedad Limitada Nueva Empresa para facilitar el cambio de denominación social y facilitar los trámites de creación.
+
+Uno. Se modifica el apartado primero del artículo 131 de la Ley 2/1995, de 23 de marzo, de Sociedades de Responsabilidad Limitada, que queda redactado de la siguiente forma:
+
+«1. En la constitución de la sociedad, su denominación social estará formada por los dos apellidos y el nombre de uno de los socios fundadores seguidos de un código alfanumérico que permita la identificación de la sociedad de manera única e inequívoca.»
+
+Dos. Se modifica el artículo 140 de la Ley 2/1995, de 23 de marzo, de Sociedades de Responsabilidad Limitada, que queda redactado de la siguiente forma:
+
+«1. En la Sociedad Nueva Empresa, sólo podrán llevarse a cabo modificaciones en su denominación, su domicilio social, y su capital social, este último, dentro de los límites máximo y mínimo establecidos en el artículo 135.
+
+Lo establecido en el párrafo anterior no será de aplicación en el supuesto previsto en el artículo 144.
+
+2. Si los socios acordaren aumentar el capital social por encima del límite máximo establecido en el artículo 135, en dicho acuerdo deberán asimismo establecer si optan por la transformación de la Sociedad Nueva Empresa en cualquier otro tipo social o si continúan sus operaciones en forma de sociedad de responsabilidad limitada, conforme a lo establecido en el artículo 144.
+
+3. En caso de que el socio cuyo nombre y apellidos figuren en la denominación social pierda dicha condición, la Sociedad estará obligada a modificar de inmediato su denominación social.
+
+4. El notario que vaya a autorizar la escritura de cambio de denominación de la sociedad comprobará, de conformidad con la legislación registral, que no existe ninguna denominación social anterior idéntica a la que se pretenda adoptar. Para ello, el notario incorporará a la escritura de cambio de denominación social la certificación telemática de denominación social expedida por el Registro Mercantil Central con firma electrónica reconocida de su titular. Dicha incorporación se efectuará en los términos previstos en el artículo 113.1 de la Ley 24/2001, de 27 de diciembre.»

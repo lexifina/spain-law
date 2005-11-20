@@ -1,0 +1,13 @@
+## Disposición adicional sexta. Regulación de las garantías exigidas para otorgar un crédito Fondo de Ayuda al Desarrollo (FAD).
+
+Se modifica el punto 2 del apartado 2 de la disposición adicional vigésima segunda de la Ley 62/2003, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, que queda redactado como sigue:
+
+«2. Los créditos y líneas de financiación concesionales, así como las donaciones otorgadas a Estados, instituciones públicas extranjeras o empresas públicas o privadas residentes en el extranjero con cargo al Fondo de Ayuda al Desarrollo, se destinarán a la financiación de proyectos de desarrollo de estos países, para los cuales el beneficiario adquiera bienes y servicios españoles, o alternativamente de cualquier procedencia distinta de la española cuando haya razones, apreciadas por el Ministerio de Economía, que lo justifiquen. Igualmente se podrán poner a disposición de los países beneficiarios líneas de financiación con el objeto de impulsar la actividad productiva, en especial, la de pequeñas y medianas empresas.
+
+En los créditos otorgados a empresas públicas o privadas residentes en el extranjero será necesario que los correspondientes Estados garanticen directamente la operación crediticia.
+
+Excepcionalmente, podrán admitirse otras garantías no soberanas en operaciones de préstamo a administraciones subnacionales o a empresas públicas, de acuerdo a los límites y criterios que establezca la Comisión Interministerial del Fondo de Ayuda al Desarrollo (CIFAD). Estas operaciones no superarán anualmente en su conjunto el 5 por ciento del importe máximo de aprobaciones por Consejo de Ministros que establece el punto tres de la presente disposición adicional y que determina anualmente la Ley de Presupuestos Generales del Estado.
+
+Las condiciones financieras de los créditos y líneas de financiación concesionales se establecerán conforme a los requisitos establecidos en el acuerdo de la Organización para la Cooperación y el Desarrollo Económicos (OCDE) sobre Directrices en Materia de Crédito a la Exportación con Apoyo Oficial, o en aquellos otros tratados o acuerdos internacionales que sustituyan o complementen a aquél.
+
+Cuando en el país beneficiario acontezcan situaciones de guerra, terremotos o catástrofes naturales de singular gravedad u otras circunstancias excepcionales, el Gobierno podrá autorizar la realización de donaciones con cargo al Fondo de Ayuda al Desarrollo (FAD), sin perjuicio de lo previsto con carácter general en el número 3 del presente apartado dos en cuanto a la realización de las donaciones para la financiación de estudios.»

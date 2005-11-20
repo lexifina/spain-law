@@ -1,5 +1,5 @@
 ## Artículo treinta.
 
-La transferencia tanto de autorizaciones de construcción como de puesta en marcha de instalaciones nucleares o instalaciones radiactivas, requerirá autorización del Ministerio de Industria, siendo preceptivo el informe de la Junta de Energía Nuclear.
+La transferencia de autorizaciones de las instalaciones nucleares o radiactivas requerirá autorización del Ministerio de Industria, Turismo y Comercio, previa audiencia a las Comunidades Autónomas con competencias en materia de ordenación del territorio y medio ambiente, siendo preceptivo el informe del Consejo de Seguridad Nuclear.
 
-Por el Ministerio de Industria se señalarán los requisitos a cumplir y tramitaciones a seguir, de acuerdo con las normas anteriores, para otorgar o transferir las autorizaciones reguladas en los artículos anteriores.
+> Se modifica por el art. 15 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
