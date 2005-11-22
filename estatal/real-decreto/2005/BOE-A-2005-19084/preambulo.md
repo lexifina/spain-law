@@ -1,0 +1,27 @@
+Este real decreto tiene por objeto establecer las bases de regulación del Programa nacional de selección genética para la resistencia a las encefalopatías espongiformes transmisibles, en lo sucesivo EET, en ovino, y la normativa básica de las subvenciones para su desarrollo.
+
+Existen evidencias científicas que demuestran la resistencia natural de algunos animales a determinadas enfermedades, relacionada con caracteres genéticos. Esta resistencia puede ser determinada y medida utilizando técnicas de genotipado, y los estudios técnicos han llevado a la conclusión de que se pueden establecer, en función del genotipo del animal, categorías de resistencia o de riesgo a padecer EET en el caso del ovino.
+
+El Comité Científico Director de la Unión Europea recomendó a los Estados miembros realizar los estudios necesarios para conocer las características genéticas de la cabaña ovina de Europa, con relación al genotipo del gen que codifica para la proteína prion, en lo sucesivo gen PRNP, como parte de la estrategia de control de las EET en los pequeños rumiantes. Esta recomendación fue recogida en la Decisión 2002/1003/CE de la Comisión, de 18 de diciembre de 2002, por la que se fijan los requisitos mínimos para un estudio de los genotipos de la proteína del prion de las especies ovinas, que obligaba a los Estados miembros a realizar un estudio completo sobre el genotipo del gen PRNP de sus razas ovinas, que sean autóctonas o que constituyan una parte importante de la cabaña ovina de su territorio.
+
+Una vez concluidos los estudios técnicos realizados en España, se dispone de la información básica necesaria para establecer las directrices de las actuaciones futuras, en materia de selección genética para resistencia a EET en ovino.
+
+La Decisión 2003/100/CE de la Comisión, de 13 de febrero de 2003, por la que se fijan los requisitos mínimos para el establecimiento de programas de cría de ovinos resistentes a las encefalopatías espongiformes transmisibles, establece una serie de directrices y requisitos mínimos, que se incorporan a este real decreto, para articular los mecanismos que permitan la aplicación del Programa nacional de selección genética para la resistencia a las encefalopatías espongiformes transmisibles en ovino en España.
+
+El objetivo principal de la decisión de la Comisión es que cada raza ovina disponga de un programa de producción, que incluya, como objetivo de selección, el incremento de la frecuencia de un determinado genotipo del gen PRNP, para eliminar progresivamente los animales con genotipos de mayor sensibilidad y disponer de una cabaña de ganado ovino resistente a ese grupo de enfermedades. Es indispensable, por tanto, el análisis del genotipo del gen PRNP de toda la cabaña ovina de razas selectas, para poder establecer las medidas adecuadas en los programas de producción, para que se garantice la conservación o mejora de cada raza con la máxima resistencia genética, de acuerdo a los conocimientos científicos actuales.
+
+Es conveniente extender a los rebaños ovinos de producción no integrados por animales de raza pura la posibilidad de efectuar análisis del genotipo de sus animales reproductores y de acceder al reconocimiento oficial, según el nivel de resistencia a las EET, con el fin de extender la selección genética para resistencia a EET a toda la población ovina.
+
+Con fundamento en lo anterior, el Ministerio de Agricultura, Pesca y Alimentación, con la colaboración de las comunidades autónomas y las organizaciones de criadores de razas puras de ovino, ha diseñado el Programa nacional de selección genética para la resistencia a las EET, en adelante Programa nacional de genotipado ovino. El Programa nacional de genotipado ovino está constituido por las siguientes actuaciones: el establecimiento de programas de selección genética para cada raza, la identificación individual y genotipado de los animales, la clasificación de rebaños y la aplicación de un sistema específico de gestión de la información (Aries).
+
+Uno de los elementos clave del programa lo constituyen los programas de selección genética, consistentes en ampliar los programas de conservación o mejora de cada raza ovina, con la incorporación de la resistencia a las EET como objetivo de selección.
+
+Para el desarrollo del Programa nacional de genotipado ovino, se prevé la financiación, por parte del Ministerio de Agricultura, Pesca y Alimentación, de la identificación individual electrónica de los animales, así como de la puesta en marcha y mantenimiento del sistema de información Aries. Por otro lado, se prevé la instauración de diversas subvenciones, de conformidad con las Directrices comunitarias sobre ayudas estatales al sector agrario (2000/C 28/02), y notificadas a la Comisión de la Unión Europea, destinadas a incentivar el desarrollo del Programa nacional de genotipado ovino.
+
+Este real decreto se dicta en virtud de la habilitación contenida en la disposición final quinta de la Ley 8/2003, de 24 de abril, de sanidad animal.
+
+En la elaboración de este real decreto han sido consultadas las comunidades autónomas y las entidades representativas de los intereses de los sectores afectados.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Pesca y Alimentación, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de noviembre de 2005,
+
+## D I S P O N G O :
