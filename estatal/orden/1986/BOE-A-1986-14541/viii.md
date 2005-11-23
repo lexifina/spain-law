@@ -78,6 +78,8 @@ Se efectuarán controles oficiales de las semillas durante su comercialización,
 
 Por su parte, si se comprobara por los servicios oficiales de control que las semillas o plantas de vivero ya utilizadas u ofrecidas en venta no cumplen con las condiciones mínimas señaladas en los Reglamentos Técnicos, se podrá incoar expediente ateniéndose, igualmente, a la legislación citada en el párrafo anterior.
 
+En el caso de inspecciones de campo, toma de muestras y análisis de laboratorio realizados bajo supervisión oficial, se sancionarán las infracciones de acuerdo con lo dispuesto en la normativa vigente. En todo caso, el incumplimiento de las citadas normas, deliberadamente o por negligencia, por parte del inspector, muestreador o laboratorio oficialmente autorizado, podrá dar lugar a la retirada de la autorización otorgada. El organismo oficial responsable anulará la certificación de las semillas examinadas, salvo en caso de que pueda demostrarse que dichas semillas cumplen los requisitos pertinentes.
+
 45. Para poder efectuar importaciones de semillas y plantas de vivero de países terceros, de especies y categorías que no tengan establecida equivalencia comunitaria, deberá solicitarse preceptivamente autorización. La mencionada autorización deberá tramitarse ante la Subdirección General del Instituto Nacional de Semillas y Plantas de Vivero, de la Dirección General de Producciones y Mercados Agrícolas, presentado debidamente cumplimentado, el documento que, con la denominación "Solicitud de autorización para la importación de determinadas semillas y plantas de vivero", figura en el anexo I de la presente Orden.
 
 La autorización que, en su caso, se conceda se extenderá por duplicado, al objeto de que el interesado presente un ejemplar de la misma en las aduanas o puntos de entrada, en el momento que pase la partida correspondiente.
@@ -109,6 +111,8 @@ La Estación de Ensayos de Semillas del Instituto es la acreditada en la Asociac
 En los casos en que esté autorizado el fraccionamiento de los envases originales, los productores están obligados a conservar los albaranes de venta correspondientes durante un plazo superior en un año al de validez del precintado. Si existiese alguna reclamación, el Productor estará obligado a exhibir ante los servicios oficiales de control dichos albaranes en los que constará la especie y variedad de la semilla vendida, nombre y domicilio del comprador y número de lote o lotes, con las cantidades vendidas de cada uno.
 
 51. Las posibles infracciones en el comercio de semillas se clasificarán y sancionarán de acuerdo con lo preceptuado en la Ley 11/1971, de 30 de marzo, y disposiciones complementarias.
+
+> Se modifica el apartado 44 por el art. único.5 de la Orden APA/3602/2005, de 17 de noviembre. Ref. BOE-A-2005-19152.
 
 > Se modifica el apartado 41 por el art. 1.2 de la Orden APA/1588/2003, de 5 de junio. Ref. BOE-A-2003-12026.
 

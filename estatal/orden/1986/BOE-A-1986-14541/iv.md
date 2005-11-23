@@ -42,33 +42,29 @@ Queda prohibida la producción en una misma explotación de semillas y plantas d
 
 Nombre y domicilio del agricultor-colaborador, situación de la parcela o parcelas (finca, término municipal, provincia); superficie; especie y variedad; categoría de las semillas o plantas de vivero; número de kilogramos o de elementos de multiplicación empleados en la siembra, así como cuantas declaraciones y comunicaciones indiquen los correspondientes Reglamentos Técnicos, los cuales determinarán la forma y época de realizarlas. Asimismo, estarán obligados a llevar libros o fichas de inspecciones, que estarán a disposición de los servicios oficiales de control.
 
-13. Los servicios oficiales de control, por medio de su personal, realizarán las inspecciones de los cultivos al menos en las épocas fijadas por los Reglamentos Técnicos correspondientes, procurando que esté represente en los campos inspeccionados un representante del productor. Por los citados servicios se comunicará, en su caso, a los productores, indicando los motivos, la anulación de las parcelas inspeccionadas cuando así proceda. En caso de que por los servicios se indique la necesidad de realizar operaciones de depuración en la parcela, el productor podrá optar por la anulación o quedará obligado a la realización de las operaciones reseñadas.
+13. Los servicios oficiales de control, por medio de su personal, realizarán las inspecciones de los cultivos al menos en las épocas fijadas por los Reglamentos Técnicos correspondientes, procurando que esté presente en los campos inspeccionados un representante del productor. Por los citados servicios se comunicará, en su caso, a los productores, indicando los motivos, la anulación de las parcelas inspeccionadas cuando así proceda. En caso de que por los servicios se indique la necesidad de realizar operaciones de depuración en la parcela, el productor podrá optar por la anulación o quedará obligado a la realización de las operaciones reseñadas.
 
 La producción obtenida en parcelas contratadas que no reciban la aprobación definitiva, podrá ser controlada para comprobar el destino posterior de la misma.
 
-Para determinadas especies, estas inspecciones oficiales podrán ser sustituidas, en los cultivos destinados a la producción de semilla de categoría certificada, por inspecciones realizadas bajo supervisión oficial, si se cumplen los siguientes requisitos:
+Para las especies incluidas en los Reglamentos Técnicos, con excepción de la patata de siembra y de las plantas de vivero, estas inspecciones oficiales podrán ser sustituidas, de conformidad con la normativa nacional aplicable, en los cultivos destinados a la producción de semilla de categoría certificada, por inspecciones realizadas bajo supervisión oficial, si se cumplen los siguientes requisitos:
 
-Los inspectores:
+a) Los inspectores:
 
-a) Deberán contar con la cualificación técnica necesaria.
+Deberán contar con la cualificación técnica necesaria.
 
-b) No podrán obtener beneficios particulares derivados de la realización de las inspecciones.
+No podrán obtener beneficios particulares derivados de la realización de las inspecciones.
 
-c) Deberán contar con autorización oficial del organismo oficial responsable, que se otorgará bien una vez que los inspectores hayan prestado juramento, o bien previa firma de una declaración por escrito en que se comprometan a cumplir las normas que regulen los exámenes oficiales.
+Deberán contar con autorización oficial del organismo oficial responsable, que se otorgará bien una vez que los inspectores hayan prestado juramento, o bien previa firma de una declaración por escrito en que se comprometan a cumplir las normas que regulen los exámenes oficiales.
 
-d) Llevarán a cabo las inspecciones bajo supervisión oficial de acuerdo con las normas aplicables a las inspecciones oficiales.
+Llevarán a cabo las inspecciones bajo supervisión oficial de acuerdo con las normas aplicables a las inspecciones oficiales.
 
-El cultivo que vaya a inspeccionarse se habrá obtenido de semillas que hayan sido sometidas a un control oficial "a posteriori" con resultados satisfactorios.
+b) El cultivo que vaya a inspeccionarse se habrá obtenido de semillas sometidas a un control oficial a posteriori con resultados satisfactorios.
 
-Los inspectores oficiales procederán al control de una parte de los cultivos. La parte controlada será del 10 por 100 en el caso de cultivos de espe cies autógamas y del 20 por 100 en el caso de cultivos de especies alógamas; dicha parte será del 5 por 100 o del 15 por 100, respectivamente, cuando se trate de especies para las cuales se haya establecido que sus semillas se someterán a pruebas de laboratorio oficiales para determinar su variedad y establecer su pureza mediante procedimientos morfológicos, fisiológicos o, cuando proceda, bioquímicos.
+c) Los inspectores oficiales procederán al control de una parte de los cultivos inspeccionados bajo supervisión oficial. La parte controlada será como mínimo el 5% de los mismos.
 
-Una parte de las muestras, tomadas oficialmente, procedentes de las partidas de semillas cosechadas a partir de estos cultivos se someterá a un control oficial "a posteriori" y, en su caso, a pruebas de laboratorio oficiales para determinar su identidad y pureza varietales. El organismo oficial responsable determinará el número de muestras que se someterá a ese control.
+d) Una parte de las muestras, tomadas oficialmente, procedentes de las partidas de semillas cosechadas a partir de estos cultivos se someterá a un control oficial a posteriori y, en su caso, a pruebas de laboratorio oficiales para determinar su identidad y pureza varietales. El organismo oficial responsable determinará el número de muestras que se someterá a ese control.
 
-En los reglamentos técnicos se establecerán el procedimiento a seguir para acceder a este tipo de inspecciones y las determinaciones oficiales a efectuar, según las especies a las que sean de aplicación.
-
-El Ministerio de Agricultura, Pesca y Alimentación determinará las sanciones aplicables a las infracciones de las normas que regulen los exámenes bajo supervisión oficial. Las sanciones impuestas deberán ser eficaces, proporcionadas y disuasorias. Las penalizaciones podrán abarcar, entre otras cosas, la retirada de la autorización otorgada a los inspectores oficialmente autorizados que incumplan deliberadamente o por negligencia las normas que regulan los exámenes oficiales. En caso de tal infracción, se anulará la certificación de las semillas examinadas, salvo en caso de que pueda demostrarse que dichas semillas cumplen los requisitos pertinentes.
-
-Se podrán adoptar medidas suplementarias, aplicables a la realización de los exámenes bajo supervisión oficial de acuerdo con la normativa comunitaria.
+En los reglamentos técnicos se podrá establecer el procedimiento a seguir para acceder a este tipo de inspecciones.
 
 14. Requisitos especiales para las semillas de base y prebase y materia vegetal de base. En los procesos de producción de semilla y material vegetal de base, así como en los de semillas de prebase, se observarán las siguientes normas:
 
@@ -127,6 +123,8 @@ d) Sanidad.
 e) Técnicas de preparación del material.
 
 f) Otras características.
+
+> Se modifica el apartado 13 por el art. único.1 de la Orden APA/3602/2005, de 17 de noviembre. Ref. BOE-A-2005-19152.
 
 > Se modifican los apartados 8, 10, 13 y 15 por el art. 1.3 a 7 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333.
 

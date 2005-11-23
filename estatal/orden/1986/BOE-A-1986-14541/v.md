@@ -112,47 +112,69 @@ En el caso de las categoría prebase, base y certificada, las etiquetas o instru
 
 Asimismo, toda persona que comercialice alguna de esas variedades indicará con claridad en su catálogo de ventas que aquélla es una variedad modificada genéticamente.
 
-23. Para comprobar la calidad de las semillas y de las plantas de vivero, verificando que se cumplen los requisitos reflejados en los correspondientes Reglamentos Técnicos específicos, se tomarán muestras oficiales o bajo control oficial, de los lotes precintados.
-
-En determinados casos, se podrá acreditar, previa solicitud, a entidades o agrupaciones de entidades privadas para que colaboren, bajo control oficial, en la operación de la toma de muestras reglamentaria de los citados lotes, o realizar los análisis correspondientes en sus laboratorios, o a ambas.
-
-La acreditación de una entidad o agrupación de entidades privadas lo será para aquellas especies para las que se disponga de unos antecedentes suficientemente favorables en cuanto a resultados de los análisis de laboratorio y resultados obtenidos en los ensayos de precontrol y postcontrol oficiales. Esta acreditación la efectuará el órgano competente de cada Comunidad Autónoma para su ámbito territorial.
+23. Para comprobar la calidad de las semillas y de las plantas de vivero, verificando que se cumplen los requisitos reflejados en los correspondientes Reglamentos Técnicos específicos, se tomarán muestras oficiales de los lotes precintados.
 
 En el caso de las semillas se tomará de cada lote una muestra representativa del mismo, siguiendo la normativa legal establecida al respecto, para que en todo momento se pueda garantizar la identidad de la muestra y se ofrezcan las suficientes garantías a las partes interesadas en el procedimiento.
 
-Dichas muestras se dividirán en tantos ejemplares homogéneos como sean necesarios para realizar los análisis y ensayos preceptivos. El tamaño o peso de cada uno de los ejemplares de la muestra de semillas será el señalado en el correspondiente Reglamento Técnico, según las especificaciones que se vayan a analizar.
+Dichas muestras se dividirán en tantos ejemplares homogéneos como sean necesarios para realizar los análisis y ensayos preceptivos. El tamaño o peso de cada uno de los ejemplares de la muestra de semillas será el señalado en el correspondiente Reglamento Técnico según las especificaciones que se vayan a analizar.
 
 La toma de muestras se realizará de acuerdo con las reglas internacionales elaboradas por la Asociación Internacional de Ensayos de Semillas (ISTA).
 
-Cuando se trate de Entidades o Agrupaciones de Entidades privadas a las que se haya concedido la acreditación antes citada, y para las especies que estén autorizadas, la muestra se podrá tomar por ellas mismas, bajo control oficial.
-
-Con carácter general, en los casos en que no se haya concedido la acreditación citada, se tomará en cada lote una muestra oficial antes de la validación del precintado.
-
 En el caso de tubérculos y plantas de vivero se tomarán muestras de los lotes precintados para efectuar los análisis y controles que establezcan los correspondientes Reglamentos Técnicos.
+
+Para las especies incluidas en los Reglamentos Técnicos, con excepción de la patata de siembra y de las plantas de vivero, la toma de muestras oficial podrá ser sustituida en los lotes de semilla de categoría base, certificada y, en su caso comercial, por toma de muestras realizada bajo supervisión oficial, si se cumplen los siguientes requisitos:
+
+a) la efectuarán muestreadores de semillas debidamente autorizados a tal fin por el organismo oficial responsable de certificación. Dicho muestreo se realizará de acuerdo con los métodos internacionales vigentes.
+
+b) los muestreadores de semillas dispondrán de las cualificaciones técnicas necesarias, adquiridas en cursos de formación organizados en las mismas condiciones aplicables a los muestreadores de semillas oficiales y confirmadas en exámenes oficiales.
+
+c) los muestreadores de semillas serán:
+
+personas físicas independientes
+
+empleados de personas físicas o jurídicas cuyas actividades no incluyan la producción, el cultivo, la transformación o el comercio de semillas, o
+
+empleados de personas físicas o jurídicas cuyas actividades incluyan la producción, el cultivo, la transformación o el comercio de semillas. En este caso, sólo podrán muestrear lotes de semillas producidas por cuenta de su empleador, salvo acuerdo en contra entre este último, el solicitante de la certificación y el organismo oficial responsable de la certificación.
+
+d) los resultados que obtengan los muestreadores de semillas autorizados se someterán a un control adecuado por parte del organismo oficial responsable de la certificación. Cuando el muestreo automático sea operativo, deberán adoptarse procedimientos adecuados, que se someterán a supervisión oficial.
+
+e) al menos un 5% de los lotes muestreados por muestreadores de semillas autorizados se someterá a un muestreo de control por parte de muestreadores oficiales de semillas. Este muestreo de control no se aplicará al muestreo automático. Las muestras tomadas oficialmente se compararán con las del mismo lote tomadas bajo supervisión oficial.
+
+En cualquier caso, con objeto de comprobar la calidad de las semillas y de las plantas de vivero verificando que se cumplen los requisitos reflejados en los correspondientes Reglamentos Técnicos específicos, durante el proceso de comercialización se podrá proceder a la toma de muestras por sondeo y, en este caso, siempre de forma oficial.
 
 Cuando se tomen muestras de semillas o de plantas de vivero durante el proceso comercial, se procederá siguiendo la normativa legal establecida al respecto, para que en todo momento se pueda garantizar la identidad y representatividad de la muestra, y se ofrezcan las suficientes garantías a las partes interesadas en el procedimiento. Siempre se levantará un acta de la toma de muestras, en la que se reflejará cuantos datos y circunstancias sean necesarias para la identificación de la muestra. Dicha muestra se dividirá en tantos ejemplares homogéneos como sean necesarios para realizar los análisis y ensayos preceptivos, siendo su tamaño suficiente en función de dichas determinaciones; debiéndose ajustar a las normativas reglamentarias establecidas y, en su defecto, a las instrucciones dictadas por los órganos competentes.
 
-24. Los productores deben verificar la calidad de las semillas antes de proceder al precintado de los lotes, para lo cual realizarán los análisis previos pertinentes en sus laboratorios. Sólamente se podrán precintar los lotes de semilla que cumplan los requisitos de calidad expuestos en los correspondientes Reglamentos Técnicos específicos.
+24. Los productores deben verificar la calidad de las semillas antes de proceder al precintado de los lotes, para lo cual realizarán los análisis previos pertinentes en sus laboratorios. Solamente se podrán precintar los lotes de semilla que cumplan los requisitos de calidad expuestos en los correspondientes Reglamentos Técnicos específicos.
 
-Con carácter general, para las semillas (excepto patata de siembra y demás tubérculos) de categorías de prebase y base destinadas a la venta y de las categorías certificadas y comerciales, el precintado no supone autorización de salida del almacén, lo cual sólo se tendrá cuando hayan finalizado los análisis realizados en los laboratorios oficiales y se hayan obtenido resultados favorables. Cuando un lote no satisfaga los requisitos establecidos reglamentariamente se comunicarán al productor las deficiencias observadas. Si al realizarse en los laboratorios oficiales los análisis establecidos en el correspondiente Reglamento Técnico, se obtuvieran resultados inferiores a los indicados en dicho Reglamento, se ordenará la inmovilización del lote, procediéndose a nueva toma de muestras o análisis, o a ambas, si el productor lo solicita; si el resultado es de nuevo deficiente, se procederá al desprecintado del lote. En caso que el lote deficiente hubiese sido comercializado, se incoará al productor el correspondiente expediente sancionador.
+Con carácter general, para las semillas (excepto patata de siembra) de categorías de prebase y base destinadas a la venta y de las categorías certificadas y comerciales, el precintado no supone autorización de salida del almacén, lo cual sólo se tendrá cuando hayan finalizado los análisis realizados en los laboratorios oficiales y se hayan obtenido resultados favorables. Cuando un lote no satisfaga los requisitos establecidos reglamentariamente se comunicarán al productor las deficiencias observadas. Si al realizarse en los laboratorios oficiales los análisis establecidos en el correspondiente Reglamento Técnico, se obtuvieran resultados inferiores a los indicados en dicho Reglamento, se ordenará la inmovilización del lote, procediéndose a nueva toma de muestras o análisis, o a ambas, si el productor lo solicita; si el resultado es de nuevo deficiente, se procederá al desprecintado del lote. En caso que el lote deficiente hubiese sido comercializado, se incoará al productor el correspondiente expediente sancionador.
 
 Si en un plazo de quince días, contados a partir de la fecha del precintado para las determinaciones distintas a la germinación, o en el de quince días posteriores a la duración de los análisis de germinación, según las normas de la ISTA para determinar dicha germinación, no se ha comunicado al productor ninguna deficiencia, el lote de semillas lo podrá comercializar bajo su responsabilidad.
 
-En aquellos casos en los que se haya concedido la acreditación a una entidad o agrupación de entidades privadas, contemplada en el número 23 de este Reglamento para el caso de semillas, se procederá de la siguiente forma: En primer lugar, y para facilitar el control oficial, dichas entidades o agrupaciones deberán comunicar al Servicio Oficial de Control competente de la Comunidad Autónoma, el inicio de las operaciones de precintado, y, al menos semanalmente, deberán enviar la relación de lotes que hayan sido precintados, indicando los resultados analíticos obtenidos, así como el primer destino de venta, en su caso. La toma de muestras se realizará de acuerdo con lo expuesto en el número 23 de este Reglamento.
+Si los análisis de laboratorios diesen resultados inferiores a los establecidos en el correspondiente Reglamento Técnico, se deberá proceder a la inmovilización del lote de semillas, si bien el productor podrá solicitar una segunda toma de muestras. Si el resultado del análisis de esta muestra fuera de nuevo deficiente, se desprecintará el lote. En caso que el lote deficiente hubiese sido comercializado, se incoará el correspondiente expediente sancionador.
 
-Las entidades o agrupaciones acreditadas realizarán los análisis en sus laboratorios, que deberán haber sido previamente autorizados, por el Servicio Oficial de Control competente de la Comunidad Autónoma. Los lotes de semillas podrán ser comercializados si los resultados de los análisis reglamentarios cumplen las especificaciones establecidas en el correspondiente Reglamento Técnico, y deberán permanecer en los almacenes del productor, hasta que dichos análisis hayan finalizado.
+Para las especies incluidas en los Reglamentos Técnicos, con excepción de la patata de siembra y de las plantas de vivero, las determinaciones para comprobar que las semillas de categoría base, certificada y, en su caso, comercial, cumplen los requisitos exigidos por los correspondientes Reglamentos Técnicos, podrán realizarse bajo supervisión oficial si se cumplen las siguientes condiciones:
 
-Las entidades o agrupaciones acreditadas deberán tener a disposición del Servicio Oficial de Control competente de la Comunidad Autónoma, y para su validación, el acta de precintado y toma de muestras, así como los ejemplares correspondientes de la muestra tomada por ellas.
+a) Los análisis serán llevados a cabo por laboratorios debidamente autorizados a tal fin por el organismo oficial responsable.
 
-Periódicamente, y siempre que se considere oportuno, el personal del Servicio Oficial de Control competente de la Comunidad Autónoma, inspeccionará las operaciones del precintado, así como la realización de los análisis efectuados por la entidad o agrupación acreditada, debiendo retirar las muestras de semilla destinadas para la realización de análisis de control en los laboratorios oficiales y pruebas de pre y postcontrol, y se procederá a tomar nuevas muestras, duplicadas, al azar, entre los lotes que en ese momento se encuentren almacenados, en el momento de la inspección.
+b) Contarán con un analista directamente responsable de las operaciones técnicas de laboratorio que disponga de las cualificaciones necesarias para llevar la gestión técnica de un laboratorio de pruebas sobre semillas.
 
-Asimismo, se procedera, aleatoriamente, a la realización de toma de muestras por los Servicios Oficiales durante el proceso de comercialización de las semillas.
+c) Sus analistas de semillas contarán con las cualificaciones técnicas necesarias, adquiridas en cursos de formación organizados en las mismas condiciones aplicables a los analistas oficiales y confirmadas en exámenes oficiales.
 
-Si los resultados de análisis obtenidos en los laboratorios oficiales, diesen resultados inferiores a los establecidos en el correspondiente Reglamento Técnico, la Administración actuante deberá proceder a la inmovilización del lote de semillas, si bien el productor podrá solicitar una segunda toma de muestras. Si el resultado del análisis de esta muestra fuera de nuevo deficiente, se desprecintará el lote. En caso que el lote deficiente hubiese sido comercializado, se incoará el correspondiente expediente sancionador.
+d) Las instalaciones y los equipos de que dispongan los laboratorios deberán haber sido considerados como satisfactorios por el organismo oficial responsable.
+
+e) Llevarán a cabo las pruebas sobre semillas de acuerdo con los métodos internacionales actualmente vigentes.
+
+f) Deberán ser independientes o pertenecientes a una empresa de semillas.
+
+En este último caso, sólo podrán llevar a cabo los ensayos sobre lotes de semillas producidas por cuenta de dicha empresa, salvo acuerdo en contrario entre ésta, el solicitante de la certificación y el organismo oficial responsable.
+
+g) Los resultados obtenidos se someterán a un control por parte del organismo oficial responsable.
+
+h) Al menos un 5% de los lotes analizados en laboratorios autorizados se someterá a un análisis oficial de control.
 
 Para las plantas de reproducción asexual, los correspondientes Reglamentos Técnicos indicarán los análisis cuyos resultados hayan de presentarse por los productores.
 
-Las operaciones de precintado y toma de muestras de semillas o plantas de vivero se reflejarán en un acta según modelo oficial, que se firmará por la entidad y por el personal de los Servicios Oficiales de Control competentes, haciéndose constar las circunstancias en que se han realizado tales operaciones.
+Las operaciones de precintado y toma de muestras de semillas o plantas de vivero se reflejarán en un acta según modelo oficial, que se firmará por la entidad y por el muestreador, haciéndose constar las circunstancias en que se han realizado tales operaciones.
 
 El precintado de semillas y plantas de vivero tendrá un período de validez máximo de diez meses, salvo que, excepcionalmente, se indique lo contrario en el correspondiente Reglamento Técnico.
 
@@ -218,7 +240,9 @@ Certificado de que los cultivos de que proceden las semillas han cumplido los re
 
 En su caso, resultados de un análisis preliminar de las semillas.
 
-26c. En aquellos casos en que así se especifique en los correspondientes Reglamentos técnicos de control y certificación de semillas se certificarán oficialmente como semilla certificada, previa solicitud, las semillas recogidas en un país tercero, si las mismas han sido objeto de una inspección en campo, que cumplan con las condiciones establecidas en las Decisiones comunitarias de equivalencia con países terceros, y si un examen oficial prueba que se cumplen las condiciones establecidas para las semillas de la categoría correspondiente. Las semillas anteriormente citadas y que pueden ser objeto de certificación deben de proceder directamente de semillas de base, certificadas o certificadas de primera reproducción, oficialmente certificadas en uno o varios Estados miembros de la Comunidad Económica Europea o en un país tercero al que se haya otorgado equivalencia, o procedentes directamente del cruce de semillas de base oficialmente certificadas en un Estado miembro con semilla de base oficialmente certificada en los citados países terceros.
+26c. En aquellos casos en que así se especifique en los correspondientes Reglamentos técnicos de control y certificación de semillas se certificarán oficialmente, previa solicitud, las semillas recogidas en un país tercero, si las mismas han sido objeto de una inspección en campo, que cumplan con las condiciones establecidas en las Decisiones comunitarias de equivalencia con países terceros, y si un examen oficial prueba que se cumplen las condiciones establecidas para las semillas de la categoría correspondiente. Las semillas anteriormente citadas y que pueden ser objeto de certificación deben de proceder directamente de semillas de base, certificadas o certificadas de primera reproducción, oficialmente certificadas en uno o varios Estados miembros de la Comunidad Económica Europea o en un país tercero al que se haya otorgado equivalencia, o procedentes directamente del cruce de semillas de base oficialmente certificadas en un Estado miembro con semilla de base oficialmente certificada en los citados países terceros.
+
+> Se modifican los apartados 23, 24 y 26c por el art. único.2 a 4 de la Orden APA/3602/2005, de 17 de noviembre. Ref. BOE-A-2005-19152.
 
 > Se modifica el apartado 20 por el art. 1.1 de la Orden APA/1588/2003, de 5 de junio. Ref. BOE-A-2003-12026.
 
