@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 120, de 20 de mayo de 2003. Ref. BOE-A-2003-10174.
+Téngase en cuenta que las disposiciones relativas a la solicitud de valoración de inmuebles de entidades aseguradoras por los servicios técnicos de la Dirección General de Seguros y Fondos de Pensiones están derogadas por la disposición derogatoria única del Real Decreto 1332/2005, de 11 de noviembre. Ref. BOE-A-2005-19250#ddunica.
