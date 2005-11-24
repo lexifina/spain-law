@@ -1,0 +1,5 @@
+## Disposición final segunda. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto se incorpora parcialmente al derecho español la Directiva 2003/6/CE del Parlamento Europeo y del Consejo, de 28 de enero de 2003, sobre las operaciones con información privilegiada y la manipulación del mercado (abuso de mercado).
+
+Asimismo, se incorporan al derecho español las siguientes directivas: la Directiva 2003/124/CE de la Comisión, de 22 de diciembre de 2003, sobre la definición y revelación pública de la información privilegiada y la definición de manipulación de mercado; la Directiva 2003/125/CE de la Comisión, de 22 de diciembre de 2003, sobre la presentación imparcial de las recomendaciones de inversión y la revelación de conflictos de intereses, y, por último, la Directiva 2004/72/CE de la Comisión, de 29 de abril de 2004, de prácticas de mercado aceptadas, la definición de información privilegiada para los instrumentos derivados sobre materias primas, la elaboración de listas de personas con información privilegiada, la notificación de las operaciones efectuadas por directivos y la notificación de las operaciones sospechosas.
