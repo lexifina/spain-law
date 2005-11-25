@@ -2,6 +2,8 @@
 
 Los desembarques de más de 100 kilogramos de cualquier mezcla de especies profundas, de las relacionadas en el anexo I, capturadas en las subzonas, de la I a la XIV ambas inclusive, del CIEM y en las aguas comunitarias situadas dentro de las zonas Copace 34.1.1, 34.1.2, 34.1.3 y 34.2, sólo podrán realizarse en los muelles pesqueros de los siguientes puertos españoles:
 
+A Coruña.
+
 Avilés.
 
 Ayamonte.
@@ -10,7 +12,7 @@ Bermeo.
 
 Burela.
 
-Cangas del Morrazo.
+Cangas.
 
 Cariño.
 
@@ -18,7 +20,7 @@ Castro Urdiales.
 
 Cedeira.
 
-Cillero.
+Celeiro.
 
 Cudillero.
 
@@ -30,7 +32,7 @@ Hondarribia.
 
 Isla Cristina.
 
-A Coruña.
+Las Palmas de Gran Canaria.
 
 Lepe.
 
@@ -40,11 +42,11 @@ Moaña.
 
 Muros.
 
-Muxía.
+Muxia.
 
 Ondárroa.
 
-Pasajes de San Pedro.
+Pasaia.
 
 Puerto de Santa María.
 
@@ -54,10 +56,12 @@ Sanlúcar de Barrameda.
 
 San Vicente de la Barquera.
 
-Santa Eugenia de Ribeira.
+Ribeira.
 
 Santander.
 
 Santoña.
 
 Vigo.
+
+> Se modifica por el apartado 1 y 2 de la Resolución de 4 de noviembre de 2005. Ref. BOE-A-2005-19485
