@@ -41,6 +41,7 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER LOS PRODUCTOS COSMÉTICOS
 | 25 | (1,3,5)-triazina-2,4-bis{[4-(2etil-hexiloxi)-2hydroxi]-fenilo)-6-(4-metoxifenilo) | 10 por 100 |  |  |
 | 26 | Dimethicodiehylbenzal malonate (número CAS 207574-74-1). | 10 por 100 |  |  |
 | 27 | Titanium dioxide. | 25 por 100 |  |  |
+| 28 | Ácido benzoico, 2-(–4-(dietilamino)-2-hidroxibenzoil), hexilester (nombre INCI: Diethylamino Hydroxybenzoyl Hexyl benzoate: n.º CAS 302776-68-7) | 10 % en productos de protección solar. |  |  |
 
 (1) No se exigirá la mención si la concentración es igual o inferior a 0,5% y si la sustancia se utiliza sólo para proteger el producto.
 
@@ -52,6 +53,8 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER PROVISIONALMENTE LOS PRODUCTO
 | --- | --- | --- | --- | --- | --- |
 | a | b | c | d | e | f |
 |  |  |  |  |  |  |
+
+> Se añade el número 28 en la primera parte por el art. único de la Orden SCO/3691/2005, de 25 de noviembre. Ref. BOE-A-2005-19636.
 
 > Se añaden los números 26 y 27 en la primera parte por el apartado 1.4 de la Orden SCO/249/2003, de 5 de febrero. Ref. BOE-A-2003-3007.
 
