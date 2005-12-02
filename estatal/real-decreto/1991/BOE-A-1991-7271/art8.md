@@ -10,7 +10,7 @@ Vocales: tres representantes del Ministerio de Trabajo y Asuntos Sociales; dos r
 
 También podrán asistir como vocales con voz pero sin voto aquellas personas que sean convocadas expresamente por la Presidencia.
 
-Secretario: el Subdirector general de Fundaciones y Entidades Tuteladas de la Dirección General de Acción Social del Menor y de la Familia, que actuará con voz y sin voto.
+Secretario: el titular de la Subdirección General de Participación, Fundaciones y Entidades Tuteladas de la Dirección General de Coordinación de Políticas Sectoriales sobre la Discapacidad, que actuará con voz y sin voto.
 
 El Consejo de Protectorado aprobará sus normas internas de funcionamiento.
 
@@ -30,7 +30,7 @@ e) Ser informado documentalmente, durante el mes de diciembre del año anterior,
 
 Dichos presupuestos contendrán las previsiones y grandes magnitudes del ejercicio respecto de CEOSA, así como los criterios y cuantías de los flujos económicos entre la ONCE y su corporación empresarial.
 
-f) Simultáneamente a la presentación e información de los presupuestos de la organización, ser informado por el Consejo General sobre los mecanismos y procedimientos adoptados para ejercer el control sobre CEOSA al objeto de que ésta cumpla adecuadamente los objetivos empresariales o sociales que la ONCE le ha asignado, y sobre el cumplimiento de los criterios de funcionamiento de CEOSA que, en su caso, pudiera fijar el Consejo de Ministros.
+f) Simultáneamente a la presentación e información de las cuentas anuales de la organización, ser informado por el Consejo General sobre los mecanismos y procedimientos adoptados para ejercer el control sobre CEOSA, al objeto de que ésta cumpla adecuadamente los objetivos empresariales o sociales que la ONCE le ha asignado, y sobre el cumplimiento de los criterios de funcionamiento de CEOSA que, en su caso, pudiera fijar el Consejo de Ministros.
 
 g) Ser informado de las inversiones realizadas por la organización, así como de los actos de disposición que afecten al patrimonio de la misma, a partir de la cuantía que establezca el Consejo de Protectorado.
 
@@ -46,14 +46,20 @@ El contenido y alcance de las auditorías comprenderán necesariamente los eleme
 
 Asimismo, el Consejo de Protectorado, en el ejercicio de sus funciones, podrá determinar la realización de auditorías por empresa auditora independiente, a los fines que el mismo determine en el ámbito de sus competencias.
 
-l) Resolver las reclamaciones y recursos contra los actos de la organización, agotando la vía administrativa previa a la jurisdiccional, en materia de afiliación y de las modalidades de juegos autorizados a la ONCE, cuando, en este último caso, la cuantía del asunto supere 4.000.000 de pesetas.
+l) Ser informado por la ONCE del cumplimiento de las obligaciones y del resultado de las actuaciones en las materias contenidas en el Acuerdo General entre el Gobierno de la Nación y la ONCE vigente en cada momento, en los términos previstos en él.
 
-m) Informar con carácter previo a la aceptación de herencias, legados y donaciones por el Consejo General, cuando éstas impliquen cargas u obligaciones para la Organización.
+m) Resolver las reclamaciones y recursos contra los actos de la organización en materia de afiliación y de las modalidades de juegos autorizados a la ONCE, cuando, en este último caso, la cuantía del asunto supere los 30.000 euros. Dichas resoluciones agotarán la vía administrativa.
 
-n) En general, realizar cuantas actuaciones sean necesarias para el mejor desenvolvimiento de la ONCE, la correcta consecución de sus objetivos y la coordinación más idónea con la Administración del Estado.
+n) Informar con carácter previo a la aceptación de herencias, legados y donaciones por el Consejo General, cuando éstas impliquen cargas u obligaciones para la Organización.
+
+ñ) Aprobar y tramitar ante los órganos administrativos correspondientes, a solicitud del Consejo General, propuestas de medidas concretas, tanto de modificaciones normativas como de índole administrativa, para garantizar la efectiva persecución y represión de los juegos ilegales.
+
+o) En general, realizar cuantas actuaciones sean necesarias para el mejor desenvolvimiento de la ONCE, la correcta consecución de sus objetivos y la coordinación más idónea con la Administración del Estado.
 
 4. Los informes que de acuerdo con lo establecido en el presente Real Decreto deban ser elevados por la ONCE al Consejo de Protectorado, tienen carácter previo y preceptivo en relación con aquellas materias a las que los mismos se refieran.
 
-> Se modifican los apartados 1 a 4 por el art. único.7 del Real Decreto 1200/1999, de 9 de julio. Ref. BOE-A-1999-16374.
+> Se modifica el párrafo quinto del apartado 2 y el apartado 3 por el art. único.15 a 21 del Real Decreto 1359/2005, de 18 de noviembre. Ref. BOE-A-2005-19791.
+
+> Se modifican los apartados 1 a 3 por el art. único.7 del Real Decreto 1200/1999, de 9 de julio. Ref. BOE-A-1999-16374.
 
 > Redactados los apartados 3.j) y 3.k) conforme a la corrección de errores publicada en BOE núm. 85, de 9 de abril de 1991. Ref. BOE-A-1991-8486.
