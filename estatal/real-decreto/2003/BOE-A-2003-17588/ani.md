@@ -52,4 +52,6 @@ Hostelería y turismo.
 
 Actividades físicas y deportivas.
 
-Artesanías.
+Artes y Artesanías.
+
+> Se modifica por el art. único.5 del Real Decreto 1416/2005, de 25 de noviembre. Ref. BOE-A-2005-19989
