@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+En la tramitación de los documentos contables electrónicos, hasta tanto las aplicaciones informáticas de las Intervenciones delegadas permitan efectuar directamente a las oficinas de contabilidad los trámites que se regulan en los puntos 4, 5, 6 y 8 del apartado Cuarto de esta Resolución, la puesta a disposición de la oficina de contabilidad de la información y documentación relativa a los documentos contables electrónicos, así como los envíos por la oficina de contabilidad de la información y documentación a las unidades de tramitación, se efectuará a través de las unidades de seguimiento de expedientes de la Intervención delegada.

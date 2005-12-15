@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+Mientras se mantenga la convivencia de procedimientos de entrada de documentos contables en las oficinas de contabilidad (en soporte papel; lotes de documentos contables; documentos contables electrónicos), la Intervención General de la Administración del Estado podrá dictar la instrucción adecuada para sustituir, total o parcialmente, la remisión de los certificados en papel a los que se refiere la regla 64.1 de la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado, por la remisión en soporte fichero de los datos de los documentos contables incluidos en dichos certificados, cualquiera que hubiera sido la vía de entrada de dichos documentos contables.
