@@ -2,34 +2,24 @@
 
 ## Servicios prestados en las Fuerzas Armadas
 
-1. Militar de reemplazo
+1. Por cada año completo de servicio prestado como militar de complemento y como militar profesional de tropa o marinería, u ostentando la condición de reservista voluntario, 0,15 puntos, hasta un máximo de 1,5 puntos.
 
-1.1 Servicio militar cumplido en su totalidad como militar de reemplazo: 0,10.
+2. Además, en función del empleo alcanzado como militar de complemento, militar profesional de tropa o marinería o reservista voluntario, se asignará la siguiente puntuación:
 
-1.2 Servicio Militar cumplido de forma parcial por un período superior a la mitad del tiempo establecido con arreglo a la normativa vigente en el momento de su cumplimiento: 0,05.
+1. Cabo: 0,10 puntos.
 
-2. Militar de empleo
+2. Cabo 1.º: 0,15 puntos.
 
-2.1 Período cumplido de 18 meses: 0,20.
+3. Cabo Mayor: 0,20 puntos.
 
-2.2 Período cumplido de 24 meses: 0,25.
+4. Sargento: 0,25 puntos.
 
-2.3 Período cumplido de 36 meses: 0,30.
+5. Alférez: 0,30 puntos.
 
-2.4 Período cumplido de 4 años: 0,35.
+6. Teniente: 0,40 puntos.
 
-2.5 Período cumplido de 5 años: 0,40.
+7. Capitán: 0,50 puntos.
 
-2.6 Período cumplido de 6 años: 0,42.
+A los efectos de esta puntuación, únicamente se tendrá en cuenta el empleo máximo alcanzado, no considerándose aquellos ostentados para la consecución de aquél.
 
-2.7 Período cumplido de 7 años: 0,44.
-
-2.8 Período cumplido de 8 años: 0,46.
-
-2.9 Período cumplido de 9 años: 0,48.
-
-2.10 Período cumplido de 10 años: 0,50.
-
-2.11 Período cumplido de 11 años: 0,52.
-
-2.12 Período cumplido de 12 años: 0,54.
+> Se modifica por el apartado único.4 de la Orden INT/4008/2005, de 16 de diciembre. Ref. BOE-A-2005-21047.
