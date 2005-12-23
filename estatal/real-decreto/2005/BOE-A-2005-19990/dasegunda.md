@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Casos especiales de instalación y comprobación del funcionamiento.
+
+En casos especialmente justificados, los órganos competentes de las comunidades autónomas, con sujeción a las normas que al efecto dicten, podrán autorizar instalaciones y comprobaciones del funcionamiento de dispositivos de limitación de velocidad en vehículos en servicio realizadas por entidades y talleres distintos de los establecidos en el artículo 10. En estos casos se exige la inspección unitaria de la instalación del dispositivo, instalación de la placa de montaje, precintado y marcado por el órgano competente de la comunidad autónoma. La contraseña utilizada por el órgano inspector llevará en el grupo de caracteres alfabéticos x...x un único carácter X.
