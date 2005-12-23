@@ -242,7 +242,7 @@
 | SANIM (1) | 17.04 | Artículos de confitería sin cacao (incluido el chocolate blanco). |
 |  |  | CAPITULO 18 |
 |  |  | Cacao y sus preparaciones |
-| SANIM | 18.01 | Cacao en grano, entero o partido, crudo o tostado. |
+| SANIM | 18.01 | (Suprinido). |
 | SANIM | 18.03 | Pasta de cacao, incluso desgrasada. |
 | SANIM | 18.04 | Manteca, grasas y aceite de cacao. |
 | SANIM | 18.05 | Cacao en polvo sin azucarar ni edulcorar de otro modo. |
@@ -443,5 +443,7 @@ SANIM: Control sanitario en la importación (despacho a libre práctica).
 (S): Sólo los preservativos masculinos de caucho.
 
 (9): Sólo los implantables.
+
+> Se modifica por el art. único de la Orden SCO/4005/2005, de 16 de diciembre. Ref. BOE-A-2005-21042
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 55, de 5 de marzo de 1994. Ref. BOE-A-1994-5190
