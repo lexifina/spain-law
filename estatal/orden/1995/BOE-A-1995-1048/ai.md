@@ -69,13 +69,13 @@ A esta tarifa sólo le es de aplicación el complemento por energía reactiva si
 
 3.1.3. Tarifa 3.0 de utilización normal.
 
-Se podrá aplicar a cualquier suministro en baja tensión.
+Se podrá aplicar a cualquier suministro en baja tensión con potencia contratada superior a 15 kW.
 
 A esta tarifa le son de aplicación complementos por energía reactiva y discriminación horaria pero no por estacionalidad ni interrumpibilidad.
 
-3.1.4. Tarifa 4.0 de larga duración.
+3.1.4 Tarifa 4.0 de larga duración.
 
-Se podrá aplicar a cualquier suministro en baja tensión.
+Se podrá aplicar a cualquier suministro en baja tensión con potencia contratada superior a 15 kW.
 
 A esta tarifa le son de aplicación complementos por energía reactiva y discriminación horaria pero no por estacionalidad ni interrumpibilidad.
 
@@ -1382,7 +1382,9 @@ Tanto las empresas suministradoras como los abonados deberán facilitar las insp
 
 (Derogado)
 
-> Se modifica el apartado quinto del título II por el anexo I.2 del Real Decreto 2066/1999, de 30 de diciembre. Ref. BOE-A-1999-24925.
+> Se modifican los apartados 3.1.3 y 3.1.4 del título I por el art. 8 y el anexo I del Real Decreto 1454/2005, de 2 de diciembre. Ref. BOE-A-2005-21100.
+
+> Se modifica el apartado 5 del título II por el anexo I.2 del Real Decreto 2066/1999, de 30 de diciembre. Ref. BOE-A-1999-24925.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 22, de 26 de enero de 2000. Ref. BOE-A-2000-1550.
 

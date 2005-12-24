@@ -1,0 +1,5 @@
+## Artículo séptimo. Modificación del Real Decreto 2392/2004, de 30 de diciembre, por el que se establece la tarifa eléctrica para 2005.
+
+Se modifica la disposición adicional duodécima del Real Decreto 2392/2004, de 30 de diciembre, por el que se establece la tarifa eléctrica para 2005, que queda redactado de la siguiente forma:
+
+«Todo cambio de potencia contratada que derive únicamente de un proceso de normalización de tensión de 220V a 230V, de acuerdo con el Reglamento Electrotécnico para Baja Tensión aprobado por el Real Decreto 842/2002, de 2 de agosto, siempre que no suponga una modificación de la intensidad, no dará lugar a cargo alguno en concepto de cuota de acceso, actualización del deposito de garantía ni a la presentación de un nuevo boletín de instalador. En estos casos, los términos de potencia de las tarifas de acceso a las redes y de las tarifas de suministro deberán multiplicarse por el factor 0,956522.»
