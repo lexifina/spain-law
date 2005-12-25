@@ -1,0 +1,17 @@
+## Disposición final tercera. Modificación de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+
+Se modifica el artículo 30 ter de la Ley 24/1988, de 28 de julio, del Mercado de Valores, que queda redactado del siguiente modo:
+
+«Artículo 30 ter. Régimen de las emisiones de obligaciones u otros valores que reconozcan o creen deuda.
+
+1. Lo dispuesto en este capítulo será de aplicación a todas las emisiones de obligaciones o de otros valores que reconozcan o creen deuda siempre que vayan a ser objeto de una oferta pública de venta o de admisión a negociación en un mercado secundario oficial y respecto de las cuales se exija la elaboración de un folleto que esté sujeto a aprobación y registro por la Comisión Nacional del Mercado de Valores en los términos dispuestos en el capítulo anterior.
+
+Asimismo, se entenderán incluidas en el párrafo anterior y siempre que cumplan lo dispuesto en el mismo, las emisiones de obligaciones o de otros valores que reconozcan o creen deuda previstas en el Capítulo X del Real Decreto Legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el Texto Refundido de la Ley de Sociedades Anónimas. Igualmente, el presente capítulo será de aplicación a la emisión obligaciones previstas en la Ley 211/1964, de 24 de diciembre, por la que se regula la emisión de obligaciones por sociedades que no hayan adoptado la forma de anónimas o por asociaciones u otras personas jurídicas, y la constitución del sindicato de obligacionistas.
+
+No tendrán la consideración de obligaciones o de otros valores que reconocen o crean deuda los valores participativos a que se refiere el párrafo segundo del artículo 26.2 de esta Ley, tales como las obligaciones convertibles en acciones a condición de que sean emitidas por el emisor de las acciones subyacentes o por una entidad que pertenezca al grupo del emisor.
+
+2. No será necesario el requisito de escritura pública para la emisión de los valores a los que se refiere este capítulo.
+
+La publicidad de todos los actos relativos a las emisiones de valores a que se refiere este capítulo se regirá por lo dispuesto en esta Ley y en sus disposiciones de desarrollo, y no será necesaria la inscripción de la emisión ni de los demás actos relativos a ella en el Registro Mercantil ni su publicación en el "Boletín Oficial del Registro Mercantil" .
+
+3. Las condiciones de cada emisión, así como la capacidad del emisor para formalizarlas, cuando no hayan sido reguladas por la ley, se someterán a las cláusulas contenidas en los estatutos sociales del emisor y se regirán por lo previsto en el acuerdo de emisión y en el folleto informativo.»
