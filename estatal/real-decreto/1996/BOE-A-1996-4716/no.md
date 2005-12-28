@@ -1,1 +1,3 @@
+Norma derogada, salvo los artículos 50, 51 y 52, que se mantendrán en vigor hasta tanto se aprueben definitivamente por el Ministerio de Justicia todas las relaciones de puestos de trabajo y se hayan realizado íntegramente los procesos de acoplamiento de las distintas unidades que conforman la estructura de las oficinas judiciales según lo dispuesto en la Ley Orgánica 19/2003, de 23 de diciembre, según establece la disposición derogatoria única del Real Decreto 1451/2005, de 7 de diciembre. Ref. BOE-A-2005-21264#ddunica
+
 > Incluye la corrección de errores publicada en el BOE núm. 88, de 11 de abril de 1996. Ref. BOE-A-1996-8076.

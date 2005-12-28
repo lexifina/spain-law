@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Acceso por el turno libre a través del sistema de concurso oposición.
+
+Excepcionalmente y de acuerdo con lo dispuesto en el artículo 484.2 de la Ley Orgánica 6/1985, de 1 de julio, las dos primeras convocatorias de procesos selectivos para el acceso a los Cuerpos de funcionarios de la Administración de Justicia que se realicen a partir de la entrada en vigor del reglamento que se aprueba por este real decreto, se llevarán a cabo por el sistema de concurso-oposición. En el baremo que se establezca para la evaluación de la fase de concurso se contemplará específicamente, entre otros méritos, la valoración del desempeño como funcionario interino de las tareas propias de los cuerpos a los que se opte.
