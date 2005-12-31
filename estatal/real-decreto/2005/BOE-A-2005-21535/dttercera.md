@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Solicitudes en tramitación.
+
+Las solicitudes de autorización de los centros de limpieza y desinfección a que se refiere este real decreto que se hubieran presentado antes de su entrada en vigor y en relación con los cuales no haya recaído aún resolución firme en vía administrativa, se resolverán de acuerdo con lo dispuesto en la normativa vigente en el momento de presentación de la solicitud, si bien en la resolución de concesión se incluirá, en caso necesario, un plazo que no podrá ser superior a seis meses, para la adecuación del centro a lo dispuesto en la presente disposición.

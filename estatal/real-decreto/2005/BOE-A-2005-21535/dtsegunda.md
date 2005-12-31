@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Validez de las autorizaciones y período de adaptación de los centros.
+
+Los centros de limpieza y desinfección autorizados conforme al Real Decreto 644/2002, de 5 de julio, sobre condiciones básicas que deben cumplir los centros de limpieza y desinfección de los vehículos dedicados al transporte de ganado por carretera que, cumpliendo los requisitos de aquel real decreto, no cumplan alguno o algunos de los requisitos que se establecen en este real decreto, dispondrán de un período de adaptación máximo de seis meses desde la fecha de entrada en vigor de la presente disposición.
