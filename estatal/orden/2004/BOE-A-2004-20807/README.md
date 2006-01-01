@@ -1,0 +1,65 @@
+# Orden EHA/4040/2004, de 23 de noviembre, por la que se aprueba la Instrucción del modelo Básico de Contabilidad Local.
+
+- Identificador: BOE-A-2004-20807
+- Rango: Orden
+- Fecha de disposición: 2004-11-23
+- Publicación: 2004-12-09
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2004-20807
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [preambulo](preambulo.md)
+- [Apartado único](apaadounico.md)
+- [Disposición transitoria única](dtunica.md)
+- [Disposición final única](dfunica.md)
+- [firma](firma.md)
+- [INSTRUCCIÓN](instruccion.md)
+- [preambulo-2](preambulo-2.md)
+- [TÍTULO I](ti.md)
+- [Regla 1](regla1.md)
+- [Regla 2](regla2.md)
+- [Regla 3](regla3.md)
+- [Regla 4](regla4.md)
+- [Regla 5](regla5.md)
+- [TÍTULO II](tii.md)
+- [Regla 6](regla6.md)
+- [Regla 7](regla7.md)
+- [Regla 8](regla8.md)
+- [Regla 9](regla9.md)
+- [Regla 10](regla10.md)
+- [Regla 11](regla11.md)
+- [Regla 12](regla12.md)
+- [Regla 13](regla13.md)
+- [Regla 14](regla14.md)
+- [Regla 15](regla15.md)
+- [Regla 16](regla16.md)
+- [Regla 17](regla17.md)
+- [TÍTULO III](tiii.md)
+- [Regla 18](regla18.md)
+- [Regla 19](regla19.md)
+- [Regla 20](regla20.md)
+- [Regla 21](regla21.md)
+- [TÍTULO IV](tiv.md)
+- [Capítulo I](ci.md)
+- [Regla 22](regla22.md)
+- [Regla 23](regla23.md)
+- [Regla 24](regla24.md)
+- [Capítulo II](cii.md)
+- [Regla 25](regla25.md)
+- [Regla 26](regla26.md)
+- [Regla 27](regla27.md)
+- [Regla 28](regla28.md)
+- [Regla 29](regla29.md)
+- [Regla 30](regla30.md)
+- [Capítulo III](ciii.md)
+- [Regla 31](regla31.md)
+- [Regla 32](regla32.md)
+- [Regla 33](regla33.md)
+- [ANEXO](an-2.md)
+- [1. Liquidación del Presupuesto](tabla1.md)
+- [2. Información sobre ejecución presupuestaria](tabla7.md)
+- [3. Información sobre Tesorería](tabla15.md)
+- [4. Información sobre endeudamiento](tabla16.md)
+- [5. Información sobre operaciones no presupuestarias](tabla17.md)
