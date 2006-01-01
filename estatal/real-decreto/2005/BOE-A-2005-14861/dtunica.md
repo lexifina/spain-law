@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen de los ingresos producidos en los servicios del exterior antes de la entrada en vigor de este real decreto.
+
+Los servicios del exterior deberán remitir una «cuenta de gestión» específica correspondiente al periodo comprendido entre el inicio del ejercicio 2005 y el día anterior a la entrada en vigor de este real decreto, dentro de los 15 días siguientes a dicha entrada en vigor. En el «Estado de remanentes e ingresos pendientes de compensar» integrante de dicha «cuenta de gestión», se incluirán los remanentes e ingresos producidos en el citado periodo, que no hayan sido transferidos al Tesoro público, o a la cuenta del correspondiente organismo o entidad, y que se encuentren pendientes de compensar.

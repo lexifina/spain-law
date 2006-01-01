@@ -1,0 +1,3 @@
+## Disposición adicional única. Justificación de las cantidades no invertidas de los libramientos a justificar.
+
+A los efectos de la formación de las cuentas justificativas de la inversión de los libramientos a justificar a favor de servicios en el exterior, se hará constar en la correspondiente cuenta justificativa la «cuenta de gestión» periódica, a la que se refiere el apartado 1 de la disposición adicional quinta de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, y en el artículo 3 de este real decreto, en la que se haya incluido o se incluirá el remanente del libramiento a justificar.
