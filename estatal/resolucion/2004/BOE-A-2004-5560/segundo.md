@@ -24,4 +24,8 @@ c) Subdirección General de Aplicaciones.
 
 d) Subdirección General de Aplicaciones de Aduanas e Impuestos Especiales.
 
-e) Subdirección General de Estudios Estadísticos y Tributarios.
+e) Subdirección General de Tecnologías de Análisis de la Información e Investigación del Fraude.
+
+f) Subdirección General de Estudios Estadísticos y Tributarios.
+
+> Se modifica el apartado 2 por la disposición final 7 de la Resolución de 26 de diciembre de 2005. Ref. BOE-A-2005-21605.

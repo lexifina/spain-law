@@ -1,25 +1,29 @@
 ## Séptimo. Subdirecciones Generales Adjuntas.
 
-1. La Subdirección General Adjunta de Procesos Concursales asumirá:
+1. El Servicio Jurídico de la Delegación Central de Grandes Contribuyentes desempeñará respecto de este órgano las funciones y competencias atribuidas a los Servicios Jurídicos Regionales respecto de las Delegaciones Especiales de la Agencia Estatal de Administración Tributaria, con la colaboración que se precise de los demás órganos y unidades centrales del Servicio Jurídico.
 
-La coordinación general de los procesos concursales en los que se persone la Agencia y la coordinación de la asistencia jurídica a los órganos de dichos procesos cuando estén integrados por funcionarios de la Agencia.
+2. Además, el Servicio Jurídico de la Delegación Central de Grandes Contribuyentes prestará a la Dirección del Servicio Jurídico el apoyo que requiera su Director.
 
-La dirección de la representación y defensa de la Agencia en los procesos concursales relativos a deudores cuya gestión recaudatoria corresponda a los órganos centrales del Departamento de Recaudación seguimiento, con la colaboración del Departamento de Recaudación de la Agencia, del cobro de los créditos de la Hacienda Pública de deudores en situación concursal.
+3. Corresponde al Abogado del Estado-Jefe del Servicio Jurídico de la Delegación Central de Grandes Contribuyentes la asistencia jurídica, permanente e inmediata, al Delegado o Delegada Central de Grandes Contribuyentes y, en su caso, a los Delegados Centrales Adjuntos, así como la jefatura de la unidad desconcentrada, que ejercerá siempre bajo las directrices del Director del Servicio Jurídico de la Agencia. En particular, le compete:
 
-2. La Subdirección General Adjunta de Actuaciones Especiales asumirá:
+a) La ejecución de los criterios, instrucciones, proyectos, objetivos o actividades que sean asignados a la unidad por el Director o, según disponga éste, por los Subdirectores Generales del Servicio Jurídico.
 
-La ejecución de las actuaciones consultivas y contenciosas que les encomiende el Director en función de su especial relevancia para la Agencia o que exijan una singular coordinación, así como la organización de los equipos jurídicos que fueran necesarios para ello.
+b) Ser el cauce de información y comunicación ordinaria de los asuntos e incidencias de su unidad con la Dirección y Subdirecciones Generales del Servicio Jurídico.
 
-La coordinación general de la defensa jurídica de autoridades, funcionarios y empleados de la Agencia y la representación y defensa en juicio cuando aquéllos pertenezcan a los departamentos y servicios centrales de la misma.
+c) Elevar las consultas al Director del Servicio Jurídico de la Agencia, solicitar de éste las autorizaciones pertinentes y, especialmente, para el ejercicio de acciones, apartarse de las mismas, para que se preste defensa a funcionarios y para acordar sobre costas procesales.
 
-La redacción y examen de instrumentos jurídicos que se encomienden al Servicio Jurídico de la Agencia.
+d) En su caso, la coordinación y distribución de asuntos contenciosos, consultivos y preventivos entre los Abogados del Estado del Servicio, velar por el correcto desarrollo de los mismos, la organización ordinaria del Servicio Jurídico de la Delegación Central y la distribución de tareas entre su personal.
 
-La coordinación informativa de las denuncias formuladas por la Agencia y su situación, así como de los procesos penales instados por la misma, sin perjuicio de las competencias de otros órganos de la Agencia.
+e) Promover la coordinación, colaboración y comunicación fluida de la Delegación Central y los órganos que la integran con las Abogacías del Estado ante órganos jurisdiccionales de ámbito nacional.
 
-3. La Subdirección General Adjunta de Régimen Jurídico asumirá:
+f) Velar por la integridad y seguridad de los medios materiales, expedientes y documentación obrante en el Servicio Jurídico de la Delegación Central y por la confidencialidad de los asuntos encomendados o tramitados por el mismo.
 
-La ejecución y coordinación de las actuaciones consultivas y contenciosas que le encomiende el Director en materia de patrimonio, contratación, régimen del personal funcionario y laboral, inspección de trabajo, seguridad e higiene, inspección de servicios o régimen económico-financiero de la Agencia.
+g) Potenciar el empleo de medios electrónicos, informáticos y telemáticos, velando por la informatización permanente de todos los expedientes del Servicio Jurídico de la Delegación Central y por la supresión, en lo posible, del soporte papel.
 
-La dirección de la representación y defensa en juicio de la Agencia en las materias antes señaladas cuando los asuntos correspondan a los órganos centrales de la misma.
+4. La comunicación con los Departamentos, Servicios y otros órganos centrales de la Agencia de documentos, expedientes o de información sobre el estado de los asuntos u otros relativos a éstos se realizará siempre a través de la Dirección del Servicio Jurídico de la Agencia.
 
-Informará sobre los proyectos de disposiciones o de convenios que puedan incidir sobre el régimen jurídico de la Agencia y las funciones que le atribuye la legislación vigente, cuando fuesen sometidos a consulta del Servicio Jurídico.
+5. En los supuestos de vacante, ausencia o enfermedad del Abogado del Estado-Jefe del Servicio Jurídico de la Delegación Central de Grandes Contribuyentes, éste será suplido por el Abogado del Estado que designe el Director del Servicio Jurídico entre los destinados en la Dirección del Servicio Jurídico de la Agencia Estatal de Administración Tributaria.
+
+> Se modifica por la disposición final 5.2 de la Resolución de 26 de diciembre de 2005. Ref. BOE-A-2005-21605.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 83, de 7 de abril de 2006. Ref. BOE-A-2006-6245.

@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Autorizaciones de colaboración.
+
+El titular de la Delegación Central de Grandes Contribuyentes o sus Adjuntos podrán autorizar la colaboración de funcionarios de la Dependencia de Control Tributario y Aduanero en actuaciones propias de los Equipos de la Oficina Nacional de Investigación del Fraude del Departamento de Inspección Financiera y Tributaria o de la Oficina Nacional de Investigación del Departamento de Aduanas e Impuestos Especiales, así como de los Equipos o Unidades de las Dependencias Regionales de Inspección o de las Dependencias Regionales de Aduanas e Impuestos Especiales, a petición de los titulares de los correspondientes órganos. Estas autorizaciones se comunicarán al titular de la Oficina Nacional de Investigación del Fraude, al titular de la Oficina Nacional de Investigación o a los correspondientes Delegados Especiales.
+
+Estas autorizaciones deberán constar en el correspondiente expediente y se exhibirán por los funcionarios autorizados a petición del obligado tributario.
