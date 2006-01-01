@@ -1,0 +1,3 @@
+## Disposición adicional trigésima primera. Incorporación de remanentes de tesorería del Organismo Autónomo Instituto Nacional de Administración Pública.
+
+Se autoriza al Organismo Autónomo Instituto Nacional de Administración Pública, dependiente del Ministerio de Administraciones Públicas, a incorporar al remanente de tesorería propio del Organismo los importes no utilizados a final del ejercicio 2005, hasta un límite máximo de 660.000,00 euros, de los fondos destinados a ejecución de los Planes de Formación Continua asignados al INAP como promotor, y de los destinados a las partidas de apoyo a la gestión y de información, divulgación y fomento de la participación de los Planes de Formación Continua.

@@ -1,0 +1,7 @@
+## Disposición adicional vigésima octava. Ayudas reembolsables.
+
+1. Las ayudas públicas que, de acuerdo con lo establecido en el artículo 5 de la Ley 13/1986, de Fomento y Coordinación General de la Investigación Científica y Técnica, se conceden a empresas para la financiación de actuaciones de las previstas en los apartados 1 y 2 del citado artículo, podrán configurarse como ayudas reembolsables total o parcialmente –con cesión a la Administración General del Estado, en este último caso, de los derechos sobre los resultados– en función de lo conseguido en la ejecución de dichas actuaciones, y en los términos que establezcan las respectivas bases reguladoras. Los ingresos derivados de los reembolsos de las ayudas públicas con fines de investigación científica y desarrollo tecnológico a que se refiere este precepto podrán generar crédito en las aplicaciones 18.08.463B.740, 18.08.463B.750, 18.08.463B.760, 18.08.463B.770 y 18.08.463B780 del estado de gastos.
+
+2. El Consejo Superior de Investigaciones Científicas, como Organismo Público de Investigación, podrá concurrir a las ayudas previstas en el Capítulo 8 con el fin de cumplir las funciones previstas en los artículos 4 y 23 de su Estatuto, aprobado por Real Decreto 1945/2000, de 1 de diciembre.
+
+Para el reembolso de las ayudas podrá recurrir a los ingresos obtenidos por la realización de los contratos o convenios previstos en el artículo 23.2 de su Estatuto.
