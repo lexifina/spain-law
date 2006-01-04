@@ -1,0 +1,27 @@
+Los artículos 1 y 7 de la Ley 10/1998, de 21 de abril, de Residuos, facultan al Gobierno para fijar disposiciones específicas relativas a la producción y gestión de diferentes tipos de residuos, entre ellos los neumáticos fuera de uso, que por su peculiaridad requieren de una norma de desarrollo específica cuyo objetivo final es prevenir la incidencia ambiental de estos residuos.
+
+Por otra parte, la mencionada Ley 10/1998, de 21 de abril, incorpora a nuestro ordenamiento interno el principio de responsabilidad del productor, uno de los más relevantes de cuantos figuran en la estrategia comunitaria sobre residuos. De acuerdo con este principio, el artículo 7 determina una serie de obligaciones exigibles al productor por la puesta en el mercado de productos generadores de residuos. Dichas obligaciones afectan tanto al propio producto como a su residuo.
+
+Además, el título III, capítulo I, de la Ley 21/1992, de 16 de julio, de Industria, permite establecer, en materia de seguridad industrial, limitaciones a las actividades objeto de la ley que puedan ocasionar daños al medio ambiente.
+
+Este real decreto define, en primer lugar, los principales conceptos, entre ellos el de productor de neumáticos que se distingue del de generador de neumáticos fuera de uso. Establece, a continuación, la obligación de elaborar planes empresariales de prevención que identifiquen los mecanismos de fabricación que prolonguen la vida útil de los neumáticos y faciliten la reutilización y el reciclado de los neumáticos al final de su vida útil. Asimismo los productores quedan obligados a hacerse cargo de la gestión de los residuos derivados de sus productos y a garantizar su recogida y gestión de acuerdo con los principios de jerarquía establecidos en la Ley 10/1998, de 21 de abril, de Residuos.
+
+Las obligaciones que impone a los productores pueden realizarse directamente, mediante la organización de sistemas propios de gestión a través de la celebración de acuerdos voluntarios o convenios de colaboración o la participación en sistemas organizados de gestión de neumáticos fuera de uso, autorizados por las correspondientes comunidades autónomas. Dichos sistemas tendrán una estructura, contenido y financiación similar a los sistemas de gestión actualmente en funcionamiento para otro tipo de residuos, teniendo no obstante en cuenta las peculiaridades de los neumáticos fuera de uso.
+
+Asimismo se determina el régimen jurídico de las actividades de gestión. El titular de actividades de recogida, transporte y almacenamiento deberá notificarlo a las comunidades autónomas en tanto que las actividades de valorización y eliminación están sometidas a la preceptiva autorización, de acuerdo con lo previsto en el capítulo II de la Ley 10/1998, de 21 de abril, de Residuos. Igualmente, este real decreto determina la forma de realizar las operaciones de almacenamiento y exige el cumplimiento de determinados requisitos técnicos en las instalaciones. Estos requisitos técnicos vienen a completar lo dispuesto en el Real Decreto 1383/2002, de 20 de diciembre, sobre gestión de vehículos al final de su vida útil en relación con el almacenamiento de los componentes extraídos de los vehículos, en particular los neumáticos fuera de uso.
+
+Además, en aplicación del artículo 5.3.d) del Real Decreto 1481/2001, de 27 de diciembre, por el que se regula la eliminación de residuos mediante depósito en vertedero, se establece la prohibición de depósito en vertedero de neumáticos usados troceados a partir del 16 de julio de 2006.
+
+Se establece, además, la posibilidad de que la legislación de las comunidades autónomas pueda exigir a los solicitantes de las preceptivas autorizaciones la obligación de constituir un seguro de responsabilidad civil y una fianza en cuantía suficiente para, respectivamente, cubrir posibles daños y garantizar el cumplimiento de las obligaciones derivadas de las autorizaciones.
+
+A los efectos de fomentar una mayor y mejor concienciación ciudadana en materia de prevención de residuos y, concretamente, de los neumáticos fuera de uso, se establece la obligación de especificar en las facturas de venta de los neumáticos nuevos la repercusión en su precio final de los costes de gestión del residuo a que den lugar esos neumáticos cuando se conviertan en neumáticos fuera de uso.
+
+Por último, hay que destacar la colaboración del Ministerio de Medio Ambiente con las comunidades autónomas en la recopilación de la información y elaboración de las estadísticas sobre neumáticos y neumáticos fuera de uso. Se trata, con ello, de disponer de datos fiables para, entre otros fines, elaborar, revisar, ejecutar y realizar el seguimiento del Plan Nacional de Neumáticos Fuera de Uso y de los planes autonómicos de cuya integración éste resulta, así como verificar el grado de cumplimiento de sus objetivos ecológicos.
+
+En su elaboración han sido consultados los agentes económicos y sociales interesados, las comunidades autónomas y el Consejo Asesor de Medio Ambiente.
+
+Este real decreto tiene la consideración de legislación básica sobre protección del medio ambiente, de conformidad con lo establecido en el artículo 149.1.23.ª de la Constitución.
+
+En su virtud, a propuesta de los Ministros de Medio Ambiente y de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de diciembre de 2005,
+
+## D I S P O N G O :

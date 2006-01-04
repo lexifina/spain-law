@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Estadísticas sobre neumáticos.
+
+El Ministerio de Medio Ambiente colaborará con las comunidades autónomas para la implantación en cada una de ellas de sistemas de recogida de información sobre neumáticos y neumáticos fuera de uso, al objeto de la elaboración de bases de datos homogéneas que, a su vez, faciliten la correcta elaboración, revisión, ejecución, y seguimiento del Plan Nacional de Neumáticos Fuera de Uso y de los correspondientes planes autonómicos. A estos efectos, los sistemas estadísticos que se establezcan deberán permitir, en particular, la comprobación de que se han alcanzado los objetivos ecológicos, cualitativos y cuantitativos, establecidos en los citados planes.
