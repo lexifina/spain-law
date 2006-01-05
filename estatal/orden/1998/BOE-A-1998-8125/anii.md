@@ -4,8 +4,6 @@
 
 Emperador (Luvarus Imperialis).
 
-Pez Sable (Aphanopus Carbo).
+Otras especies profundas no sujetas a TAC y cuotas.
 
-Ganadero (Coryphaenoides).
-
-Pilona (Centrocym).
+> Se modifica por el apartado 1 de la Resolución de 30 de noviembre de 2005. Ref. BOE-A-2005-20660.
