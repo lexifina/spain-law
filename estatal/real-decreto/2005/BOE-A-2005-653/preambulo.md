@@ -1,0 +1,15 @@
+El aumento, desde los años 50, del uso de contenedores de carga para el envío de productos por mar y la construcción de buques portacontenedores especializados ha incrementado el interés por mejorar la seguridad en el transporte de dichos contenedores. Con este real decreto se pretende incrementar las garantías que deben acompañar a todo transporte de contenedores y atender las exigencias legales derivadas de los cambios normativos en la materia.
+
+Este real decreto persigue, por tanto, diversas finalidades. La primera de ellas, la incorporación de las modificaciones introducidas en el Convenio Internacional sobre la seguridad de los contenedores (CSC), de 2 de diciembre de 1972. La experiencia adquirida desde que se publicó la Orden de 31 de julio de 1979, por la que se establecieron normas para la aplicación de dicho convenio, hace igualmente necesaria la armonización y aprobación de una nueva normativa en la materia.
+
+En segundo lugar, las principales enmiendas experimentadas por el Convenio (CSC), dirigidas a la reforma de importantes aspectos técnicos, justifican también el establecimiento de un conjunto de normas que garanticen la aplicación uniforme de dicho convenio en España. Se trata, sobre todo, de dar cumplimiento de esta forma a lo dispuesto en la Circular CSC/100/Cir. de la Organización Marítima Internacional (OMI), en la redacción dada por la Circular CSC/124/Cir., que modifica la anterior.
+
+En tercer lugar, a través de este nuevo real decreto se busca satisfacer las peticiones y requerimientos contenidos en las últimas recomendaciones del Comité de Seguridad Marítima de la OMI, especialmente en materia de muestreos de control en los puertos y en las terminales de distribución de contenedores ferroviarios, así como, cuando sea posible, en carretera, y facilitar así su desarrollo, a través de la fijación de las medidas oportunas para una mejor verificación de su aplicación.
+
+Paralelamente, resulta de suma importancia integrar en nuestra legislación las reformas que afectan a las actuaciones de los nuevos organismos de control, autorizados de acuerdo con el Real Decreto 2200/1995, de 28 de diciembre, por el que se aprueba el Reglamento de la infraestructura para la calidad y la seguridad industrial.
+
+Este real decreto ha sido sometido al procedimiento de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información, previsto en la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio de 1998, modificada por la Directiva 98/48/CE del Parlamento Europeo y del Consejo, de 20 de julio de 1998, así como en el Real Decreto 1337/1999, de 31 de julio, por el que se regula la remisión de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información, el cual incorpora las anteriores directivas al ordenamiento interno español.
+
+En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 17 de diciembre de 2004,
+
+DISPONGO:
