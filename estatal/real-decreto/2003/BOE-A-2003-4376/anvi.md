@@ -46,33 +46,20 @@ Sí No
 
 En caso de respuesta negativa, especifíquese el nombre o designación comercial utilizado en los demás Estados miembros.
 
-Austria:
-
-Bélgica:
-
-Dinamarca:
-
-Alemania:
-
-Grecia:
-
-Finlandia:
-
-Francia:
-
-Suecia:
-
-Irlanda:
-
-Italia:
-
-Luxemburgo:
-
-Países Bajos:
-
-Portugal:
-
-Reino Unido:
+| BÉLGICA | LUXEMBURGO |
+| --- | --- |
+| REPÚBLICA CHECA | HUNGRÍA |
+| DINAMARCA | MALTA |
+| ALEMANIA | PAÍSES BAJOS |
+| ESTONIA | AUSTRIA |
+| GRECIA | POLONIA |
+| ESPAÑA | PORTUGAL |
+| FRANCIA | ESLOVENIA |
+| IRLANDA | ESLOVAQUIA |
+| ITALIA | FINLANDIA |
+| CHIPRE | SUECIA |
+| LETONIA | REINO UNIDO |
+| LITUANIA |  |
 
 6. Composición del preparado o preparados (tal y como se define en el apartado 2 del anexo VIII de este reglamento).
 
@@ -549,3 +536,5 @@ familia 016: compuestos de azufre
 nombre genérico: compuesto inorgánico de azufre
 
 (Los ejemplos citados son sustancias extraídas del anexo I del Reglamento de sustancias, para las que está justificado solicitar la preservación del carácter confidencial.)
+
+> Se modifica el apartado A.5 por el art. único y anexo de la Orden PRE/3/2006, de 12 de enero. Ref. BOE-A-2006-468
