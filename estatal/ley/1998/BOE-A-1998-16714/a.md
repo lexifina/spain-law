@@ -1,7 +1,7 @@
-## Artículo 11. Gestión, recaudación y afectación.
+## Artículo
 
-1. La gestión de la tasa corresponderá al ente público Aeropuertos Españoles y Navegación Aérea.
+Las cuantías unitarias de aquellas tarifas de la tasa por prestación de servicios y utilización del dominio público aeroportuario, susceptibles de recaudación por cajeros automáticos habilitados a dichos efectos, podrán ser redondeadas al múltiplo de 5 céntimos de euro más próximo.
 
-2. La autoridad aeroportuaria podrá exigir la presentación de cualquier documento acreditativo que sea preciso para la práctica de las liquidaciones procedentes por aplicación de la presente tasa.
+> Se añade por el art. 71.3 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525.
 
-3. El importe de lo recaudado por esta tasa formará parte del presupuesto de ingresos del ente público Aeropuertos Españoles y Navegación Aérea.
+> Aunque el legislador no le atribuye ninguna numeración, se incluye en esta sección por referirse a la "Tasa de prestación de servicios y utilización del dominio público aeroportuario".
