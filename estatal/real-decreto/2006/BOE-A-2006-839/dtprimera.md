@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Secretarios procedentes de la Jurisdicción del Trabajo.
+
+Los secretarios procedentes de la Jurisdicción del Trabajo tendrán preferencia, mientras permanezcan en órganos del orden jurisdiccional social, para ocupar los puestos de las Unidades Procesales de Apoyo Directo de los Juzgados de lo Social y de las Salas de lo Social de la Audiencia Nacional o Tribunales Superiores de Justicia, así como los puestos de los servicios comunes procesales que se ocupen, en su caso, de la ordenación del procedimiento que se tramita por los órganos del orden jurisdiccional social y de la ejecución de sus resoluciones, salvo los que deban proveerse por el sistema de libre designación.
