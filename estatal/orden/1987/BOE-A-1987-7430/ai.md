@@ -154,6 +154,8 @@ j) Dacus dorsalis Hendel.
 
 k) Otros trypetidae nocivos en tanto que no existan en Europa.
 
+65. Rhynchophorus ferrugineus (Olivier)
+
 b) Organismos del reino animal en todos los estados de su desarrollo, cuando no se demuestre que están muertos
 
 1. Globodera pallida Stone.
@@ -313,3 +315,5 @@ b) Potato yellow vein virus.
 f) Fanerógamas
 
 – Arceuthobium spp (especies no europeas).
+
+> Se añade el punto 65 al apartado a) por el art. 1.1 de la Orden APA/94/2006, de 26 de enero. Ref. BOE-A-2006-1330

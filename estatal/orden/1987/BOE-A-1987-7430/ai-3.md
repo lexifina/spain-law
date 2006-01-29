@@ -32,3 +32,6 @@
 | 21. Cañas secas (Arundo donax L.). | Países no pertenecientes a la CEE. |
 | 22. Medios de cultivo, excepto humus producidos por lombrices. | Todos los países, excepto los pertenecientes a la CEE, siempre que dichos medios estén sometidos a proceso e industrialización que garantice la total eliminación de organismos nocivos vivos. |
 | 23. Medios de cultivo adheridos o asociados a vegetales que contengan tierra. | Todos los países. |
+| 24.. Vegetales de "Palmae" distintos de frutos y semillas, de un diámetro en la base superior a 5 centímetros. | Cualquier país, incluida la España Peninsular, Illes Balears y las ciudades de Ceuta y Melilla. |
+
+> Se añade el punto 24 por el art. 1.2 de la Orden APA/94/2006, de 26 de enero. Ref. BOE-A-2006-1330
