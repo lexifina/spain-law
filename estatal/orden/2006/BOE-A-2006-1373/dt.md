@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen de adecuación a la nueva norma de los centros de trabajo de la industria extractiva ya existentes.
+
+Los centros de trabajo ya existentes, dentro de los referidos en el Reglamento General de Normas Básicas de Seguridad Minera, incluidos en el ámbito de aplicación del Real Decreto 150/1996 y el Real Decreto 1389/1997 deberán estar adaptados a lo dispuesto en la Instrucción Técnica Complementaria 02.1.01 del Reglamento General de Normas Básicas de Seguridad Minera: «Documento sobre seguridad y salud», en un plazo de 6 meses a contar desde la entrada en vigor de la presente orden, por la que se aprueba dicha instrucción técnica complementaria.
