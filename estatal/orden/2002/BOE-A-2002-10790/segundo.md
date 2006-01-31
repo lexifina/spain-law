@@ -14,7 +14,7 @@ Con la extensión se pretende reconocer el procesador de textos utilizado para l
 
 Grupo 2
 
-Los ficheros de la «Información sobre el Endeudamiento», «Información sobre las operaciones de Intercambio Financiero», «Información sobre operaciones de compraventa dobles sobre valores de la Deuda del Estado», «Información sobre Créditos» e «Información sobre Inversiones Financieras en Patrimonio», tendrán como nombre el código de la Administración General del Estado como entidad que lo remite, el tipo de información y una extensión en formato MS-DOS, de acuerdo con el siguiente detalle:
+Los ficheros de la ''Información sobre el Endeudamiento'', ''Información sobre las operaciones de Intercambio Financiero'', ''Información sobre operaciones de compraventa dobles sobre valores de la Deuda del Estado'', ''Información sobre Créditos'', ''Información sobre Inversiones Financieras en Patrimonio'' y ''Balance de resultados e informe de gestión'', tendrán como nombre el código de la Administración General del Estado como entidad que lo remite, el tipo de información y una extensión en formato MS-DOS, de acuerdo con el siguiente detalle:
 
 | NOMBRE | CONTENIDO Y DESCRIPCIÓN | POS | LON | TIP |
 | --- | --- | --- | --- | --- |
@@ -69,9 +69,11 @@ Los tipos de Información que se enviarán en este grupo son los que se detallan
 |  | INFORMACIÓN SOBRE OPERACIONES DE COMPRAVENTA DOBLES SOBRE VALORES DE LA DEUDA DEL ESTADO: |
 | J01 | Información sobre operaciones de compraventa dobles sobre valores de la Deuda del Estado |
 |  | INFORMACIÓN SOBRE CRÉDITOS: |
-| C01 | Información sobre Créditos |
+| C01 | Información sobre Créditosxxx |
 |  | INFORMACIÓN SOBRE INVERSIONES FINANCIERAS EN PATRIMONIO: |
 | C02 | Información sobre Inversiones Financieras en Patrimonio |
+|  | BALANCE DE RESULTADOS E INFORME DE GESTIÓN: |
+| C03 | Balance de resultados e informe de gestión |
 
 Grupo 3
 
@@ -143,5 +145,7 @@ Los tipos de Información que se enviarán en este grupo, son los que se detalla
 | T10 | Tabla de localización de bienes de inmovilizado material. |
 | T11 | Tabla de códigos de entidades en las que se ha invertido. |
 | T12 | Tabla de códigos de orgánica-1. |
+
+> Se modifica el Grupo-2 por el art. único.2 y 3 de la Resolución de 23 de diciembre de 2005. Ref. BOE-A-2006-331.
 
 > Se modifica el Grupo-3 por el apartado 1.6 de la Orden HAC/240/2004, de 26 de enero. Ref. BOE-A-2004-2499.

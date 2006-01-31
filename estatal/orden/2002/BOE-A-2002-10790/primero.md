@@ -18,6 +18,8 @@ Se generarán tantos ficheros como tipos de información a enviar, distribuidos 
 
 – «Información sobre Inversiones Financieras en Patrimonio».
 
+– «Balance de resultados e informe de gestión».
+
 ## Grupo 3. Resto de ficheros, con formato definido, que se relacionan en el apartado siguiente.
 
 OBSERVACIÓN:
@@ -33,3 +35,5 @@ TIP = Naturaleza del campo.
 Alf = Alfanumérico.
 
 Num = Numérico.
+
+> Se añade el párrafo último al Grupo-2 por el art. único.1 de la Resolución de 23 de diciembre de 2005. Ref. BOE-A-2006-331.
