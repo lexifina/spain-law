@@ -1,0 +1,3 @@
+## Disposición final primera. Habilitación constitucional.
+
+Este real decreto se dicta al amparo de lo establecido en el artículo 149.1.15.ª de la Constitución, excepto los párrafos e) y f) del apartado 1 del artículo 5, que se dictan al amparo de lo dispuesto en el artículo 149.1.9.ª de la Constitución; el apartado 2 del artículo 5, el párrafo e) del artículo 6, la disposición adicional primera y la disposición adicional segunda, que se dictan al amparo del artículo 149.1.17.ª de la Constitución, y el artículo 8, que se dicta al amparo de lo dispuesto en el artículo 149.1.7.ª de la Constitución.
