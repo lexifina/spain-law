@@ -1,0 +1,11 @@
+La exigencia de la seguridad en el transporte ferroviario ha determinado la aprobación de distintas normas encaminadas a la satisfacción de dicha garantía. Entre ellas, los Reales Decretos 1191/2000, de 23 de junio, sobre interoperabilidad del sistema ferroviario de alta velocidad y 646/2003, de 30 de mayo, sobre interoperabilidad del sistema ferroviario transeuropeo convencional, que acometieron ya, en cumplimiento de las obligaciones impuestas por la normativa comunitaria, la regulación de aquellos requisitos exigibles a los vehículos ferroviarios que circulasen por el espacio de la red ferroviaria de competencia estatal, desarrollando, al mismo tiempo, el régimen de autorizaciones establecido al efecto.
+
+Con la entrada en vigor de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, se ha incrementado esa garantía, entre otras medidas, mediante el mandato de su artículo 58 que insta al Ministerio de Fomento a regular las condiciones y requisitos necesarios para la homologación y registro del material rodante ferroviario que circule por las líneas de la Red Ferroviaria Estatal y el régimen para la autorización y funcionamiento de los centros donde este material ha de ser contenido.
+
+En cumplimiento de esa función, esta orden tiene como finalidad establecer los requisitos y condiciones necesarios para la circulación de los vehículos ferroviarios por la Red Ferroviaria de Interés General y la regulación de las autorizaciones requeridas al respecto. Además, se regulan los procedimientos para la homologación de los centros de mantenimiento del material rodante ferroviario, imponiendo las correspondientes condiciones de funcionamiento.
+
+Finalmente, mediante esta orden se fijan las cuantías de la tasa por certificación del material rodante ferroviario en cumplimiento y con la habilitación señalada en el artículo 69 de la Ley 39/2003, de 17 de noviembre.
+
+Componen el texto de esta orden, treinta y cinco artículos, distribuidos en siete títulos a los que se añaden once disposiciones adicionales, cuatro disposiciones transitorias, una derogatoria y una final.
+
+En su virtud, con la aprobación previa del Ministro de Administraciones Públicas y de acuerdo con el Consejo de Estado, dispongo:

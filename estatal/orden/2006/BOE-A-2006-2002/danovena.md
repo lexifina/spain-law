@@ -1,0 +1,3 @@
+## Disposición adicional novena. Vehículos ferroviarios mantenidos por centros de mantenimiento situados fuera de España.
+
+Cuando en una actuación inspectora se detectase cualquier anomalía, defecto o deterioro en un material rodante que fuera mantenido por un centro de mantenimiento ubicado fuera de España, y que pudiera implicar una disminución de la seguridad en el tráfico ferroviario o daños a la infraestructura ferroviaria, el Administrador de Infraestructuras Ferroviarias, de oficio o a instancia de la Dirección General de Ferrocarriles, podrá ordenar la inmovilización de dicho vehículo e instar la subsanación de aquéllos.
