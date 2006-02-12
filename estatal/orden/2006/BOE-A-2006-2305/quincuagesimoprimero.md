@@ -1,0 +1,5 @@
+## Quincuagésimo primero. Remanentes.
+
+1. Cuando consecuencia de bajas en la adjudicación de los contratos, bajas por anulación de un proyecto, parte del mismo, o la reducción de su presupuesto, o por cualquier otra circunstancia se produzcan remanentes, la entidad beneficiaria de la subvención deberá comunicar esta circunstancia a la Dirección General de Cooperación Local con carácter previo o simultáneo a la presentación de las certificaciones de adjudicación de los proyectos subvencionados o de la resolución o acuerdo de su ejecución directa por la Administración, quien lo pondrá en conocimiento de la Comisión de Valoración a los efectos de proponer la aplicación de los mismos.
+
+2. No obstante, cuando los remanentes producidos sea consecuencia de bajas en la adjudicación de un proyecto al que se ha concedido una subvención estatal inferior al 50 por 100 de su presupuesto, por ajustes de las demandas al crédito disponible, la Entidad local podrá mantener en la financiación del mismo la subvención concedida hasta el límite del 50 por 100 del importe de la inversión adjudicada, sin necesidad de recurrir al procedimiento establecido en el párrafo anterior.
