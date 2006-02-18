@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Almacenamiento y distribución de mezclas de biocarburantes con combustibles fósiles.
+
+En aquellas instalaciones destinadas al almacenamiento y expedición de mezclas de biocarburantes con gasolinas o gasóleos será necesario que los titulares de las instalaciones realicen las correspondientes comprobaciones técnicas, tanto en lo referente a los requisitos de compatibilidad de los materiales de las instalaciones mecánicas (tanques, tuberías, aparatos surtidores, etc.) con las citadas mezclas como en lo relativo a la posible presencia de agua en las mencionadas instalaciones.
