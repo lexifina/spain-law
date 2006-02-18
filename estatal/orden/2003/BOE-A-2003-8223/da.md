@@ -1,3 +1,5 @@
-## Disposición adicional única. Cosecha 2003.
+Disposición adicional única.
 
-Para la cosecha 2003 las solicitudes de intervención a que se refiere el artículo 6 podrán presentarse hasta el día 30 de abril inclusive y las fechas sobre comunicaciones se verán modificadas de conformidad con lo establecido en el artículo 26 del Reglamento (CE) 2182/2002.
+(Suprimida).
+
+> Se suprime por el art. único.11 de la Orden APA/373/2006, de 13 de febrero. Ref. BOE-A-2006-2780.
