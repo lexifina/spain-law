@@ -11,12 +11,12 @@
 | Piensos procedentes de la transformación de pescados u otros animales marinos. | 15 (9) |
 | Harina de algas marinas y materias primas procedentes de algas marinas. | 40(9) |
 | Piensos completos, excepto: | 20 |
-| Piensos completos para peces y piensos completos para animales de piel. | 6 (9) |
+| Piensos completos para peces y piensos completos para animales de piel. | 6(9) |
 | Piensos complementarios, excepto: | 4 |
 | Piensos minerales. | 12 |
 | 2. Plomo | Materias primas para la alimentación animal, excepto: | 10 |
-| Forrajes verdes. | 40 |
-| Fosfatos y algas marinas calcáreas | 15 |
+| Forrajes verdes (*). | 40 |
+| Fosfatos y algas marinas calcáreas. | 15 |
 | Carbonato cálcico. | 20 |
 | Levaduras. | 5 |
 | Piensos completos. | 5 |
@@ -35,14 +35,15 @@
 | Piensos completos para cerdos. | 100 |
 | Piensos completos para aves de corral. | 350 |
 | Piensos completos para pollitos. | 250 |
-| Mezclas minerales para bovinos, ovinos y caprinos. | 2000(1) |
-| Otros piensos complementarios. | 125(2) |
-| 4. Mercurio | Materias primas para la alimentación animal. excepto: | 0,1 |
-| – Piensos obtenidos mediante transformación de pescado u otros animales marinos. | 0,5 |
+| Piensos complementarios que contengan ≤4 % de fósforo. | 500 |
+| Piensos complementarios que contengan > 4 % de fósforo. | 125 por 1 % de fósforo |
+| 4. Mercurio | Materias primas para la alimentación animal, excepto: | 0,1 |
+| Piensos producidos mediante la transformación de pescados u otros animales marinos. | 0,5 |
+| Carbonato cálcico. | 0,3 |
 | Piensos completos, excepto: | 0,1 |
-| – Piensos completos para perros y gatos. | 0,4 |
+| Piensos completos para perros y gatos. | 0,4 |
 | Piensos complementarios, excepto: | 0,2 |
-| – Piensos complementarios para perros y gatos. |  |
+| Piensos complementarios para perros y gatos. |  |
 | 5. Nitritos | Harinas de pescado. | 60 (expresado en nitrito de sodio) |
 | Piensos completos, excepto: | 15 (expresado en nitrito de sodio) |
 | – Piensos para animales de compañía (con excepción de los pájaros y peces ornamentales). |  |
@@ -74,7 +75,7 @@
 | 9. Gosipol libre | Materias primas para la alimentación animal, excepto: | 20 |
 | Semilla de algodón. | 5000 |
 | Tortas de semillas de algodón y harina de semillas de algodón. | 1200 |
-| Piensos completos, excepto: | 2 |
+| Piensos completos, excepto: | 20 |
 | Piensos completos para bovinos, ovinos y caprinos. | 500 |
 | Piensos completos para aves de corral (excepto gallinas ponedoras) y terneros. | 100 |
 | Piensos completos para conejos y cerdos (excepto lechones). | 60 |
@@ -132,6 +133,8 @@
 | j) Hidrolisatos de proteínas de pescado que contengan más de un 20% de grasa | 2.25 ng EQT PCDD/F OMS/kg (5,6) |
 | 28. Albaricoque - Prunus armeniaca L. 29. Almendra amarga - Prunus dulcis (Mill.) D.A. Webb var. Amara (DC.) Focke (= Prunus amygdalus Batsch var. Amara (DC.) Focke) 30. Hayuco con cáscara - Fagus silvatica L. 31. Camelina - Camelina sativa (L.) Crantz 32. Mowrah, Bassia, Madhuca - Madhuca longifolia (L.) Macbr. (=Bassia longifolia L. = llliped malabrorum Eng.) Madhuca índica Gmelin (= Bassia latifolia Roxb.) = Illipe latifolia (Roscb.) F. Mueller) 33. Frailejón - Jatropha curcas L. 34. Crotón-Croton tiglium L. 35. Mostaza india - Brassica juncea (L.) Czern. Y Coss ssp. ltegrifolia (West) Thell 36. Mostaza de Sarepta - Brassuca hybcea (L.) Czern. y Coss. ssp. Juncea 37. Mostaza china - Brassica juncea (L.) Cezern y Coss ssp., juncea var. lutea Batalin 38. Mostaza negra - Brassica nigra (L.) Koch 39. Mostaza abisinia (etíope) - Brassica carinata A. Braun | } Todos los piensos. | } | Las semillas y frutos de las especies correspondientes, así como sus derivados procesados, pueden estar presentes en los piensos sólo en cantidades mínimas, no determinables cuantitativamente. |
 
+(*) Los forrajes verdes incluirán productos destinados a la alimentación animal como heno, ensilado, hierba fresca, etc.
+
 (1) Puede disponerse también un contenido máximo de flúor de 1,25% del contenido de fosfato.
 
 (2) Contenido de flúor por 1% de fósforo.
@@ -149,6 +152,8 @@
 (8) Los niveles máximos se refieren al arsénico total.
 
 (9) A petición de las autoridades competentes, el operador responsable debe efectuar un análisis para demostrar que el contenido de arsénico inorgánico es inferior a 2 ppm. Dicho análisis es especialmente importante en el caso de las algas de la especie Hizikia fusiforme.
+
+> Se modifican los apartados 2 a 4 por el art. único y anexo de la Orden PRE/1884/2005, de 13 de junio. Ref. BOE-A-2005-10433.
 
 > Se modifican los apartados 1 a 3, 7, 9 y 22 por el art. único y anexo de la Orden PRE/1422/2004, de 20 de mayo. Ref. BOE-A-2004-9533.
 
