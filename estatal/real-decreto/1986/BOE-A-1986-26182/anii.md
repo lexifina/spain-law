@@ -1,18 +1,24 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_016.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_021.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_017.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_023.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_024.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_025.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_026.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_022.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_027.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_028.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_029.png)
+
+> Se modifica por la Orden ITC/445/2006, de 14 de febrero. Ref. BOE-A-2006-3152.
 
 > Se modifica por la Orden ITC/3079/2005, de 3 de octubre. Ref. BOE-A-2005-16583.
 

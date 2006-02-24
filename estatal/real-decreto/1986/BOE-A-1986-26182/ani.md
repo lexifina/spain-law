@@ -1,42 +1,54 @@
 ## ANEXO I
 
-1. Vehículos automóviles y sus partes y piezas.
+1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_006.png)
 
-2. Tractores agrícolas.
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_010.png)
+2. Tractores agrícolas
 
-3. Vehículos de 2 ó 3 ruedas y cuadriciclos.
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_013.png)
 
-4. Varios.
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_013.png)
+3. Vehículos de 2 ó 3 ruedas cuadriciclos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_015.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/240/16583_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_016.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_017.png)
+
+4. Varios
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_018.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_019.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_020.png)
+
+> Se modifica por la Orden ITC/445/2006, de 14 de febrero. Ref. BOE-A-2006-3152.
 
 > Se modifica por la Orden ITC/3079/2005, de 3 de octubre. Ref. BOE-A-2005-16583.
 
