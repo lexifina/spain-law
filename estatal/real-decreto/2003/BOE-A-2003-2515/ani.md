@@ -88,9 +88,7 @@ Toda actividad de extracción de aceite vegetal de semillas y otras materias veg
 
 Toda actividad industrial o comercial de recubrimiento y actividades conexas de desengrasado mediante las que se efectúe:
 
-a) El recubrimiento de un vehículo de carretera según se define en el Real Decreto 2028/1986, o de una parte de aquél, realizados como parte de la reparación, conservación o decoración del vehículo fuera de las instalaciones de fabricacion, o
-
-b) El recubrimiento original del vehículo de carretera, o de una parte de aquél, con materiales del tipo de renovación del acabado, cuando se realice fuera de la línea de fabricación original, o
+a) El recubrimiento original del vehículo de carretera, o de una parte de aquél, con materiales del tipo de renovación del acabado, cuando se realice fuera de la línea de fabricación original, o
 
 c) El recubrimiento de remolques (incluidos los semirremolques) (categoría O).
 
@@ -105,3 +103,5 @@ Toda actividad que suponga impregnar la madera de conservantes.
 15. Laminación de madera y plástico
 
 Toda actividad de pegado de madera y plástico para producir laminados.
+
+> Se modifica el apartado 12 por la disposición final 1 del Real Decreto 227/2006, de 24 de febrero. Ref. BOE-A-2006-3377.
