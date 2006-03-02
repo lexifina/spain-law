@@ -120,6 +120,8 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_028.png)
 
+> Téngase en cuenta la modificación de los modelos 1 y 2 establecida por los arts. 4 y 5 de la Orden JUS/568/2006, de 8 de febrero, Ref. BOE-A-2006-3764, así como la Orden JUS/644/2006, de 6 de marzo, sobre aclaración de la misma. Ref. BOE-A-2006-4203
+
 > Téngase en cuenta que en los libros de defunciones del Registro Civil quedará en blanco y será cruzado con una raya el dato sobre la causa de la muerte, según establece el art. 1 de la Orden de 6 de junio de 1994 Ref. BOE-A-1994-13489.
 
 > Téngase en cuenta que en los libros del Registro Civil quedarán en blanco y serán cruzados con una raya los datos sobre la profesión de los padres y de los contrayentes en las respectivas actas de nacimiento y de matrimonio, según establece el art. 1 de la Orden de 10 de diciembre de 1993 Ref. BOE-A-1993-30391.
