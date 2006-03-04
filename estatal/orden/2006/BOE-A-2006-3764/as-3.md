@@ -1,0 +1,7 @@
+## Artículo séptimo. Incorporación de los nuevos modelos aprobados a la aplicación Inforeg 2.0 de los Registros civiles informatizados.
+
+1. La Dirección General de Relaciones con la Administración de Justicia, a través de la Subdirección General de Nuevas Tecnologías, incorporará a la aplicación Inforeg (versión 2.0) las modificaciones introducidas por los artículos cuarto y quinto de esta Orden ministerial en los modelos oficiales de las inscripciones principales de nacimientos y matrimonios (modelos oficiales 101 y 200, respectivamente, aprobados por Resolución de la Dirección General de los Registros y del Notariado de 25 de enero de 2005) en el plazo de un mes desde la entrada en vigor de esta Orden.
+
+2. Las modificaciones que apruebe la Dirección General de los Registros y del Notariado en los modelos oficiales de las inscripciones marginales a que se refiere el precedente artículo sexto, serán incorporadas a la aplicación informática Inforeg (versión 2.0) en el plazo de un mes desde su aprobación.
+
+3. Los modelos a que se refieren los dos apartados anteriores, en su versión informática, deberán recoger las menciones que son objeto de modificación en la presente Orden como «campos variables» de forma que las menciones actuales y las nuevas se ofrezcan al usuario de la aplicación como opciones alternativas, permitiendo de esta manera conservar los términos de «marido» y «mujer» o los de «padre» y «madre» para los supuestos de matrimonios o progenitores de sexo diferente.

@@ -1,0 +1,5 @@
+## Artículo sexto. Habilitación a la Dirección General de los Registros y del Notariado para la modificación de los modelos oficiales de las inscripciones marginales.
+
+1. La Dirección General de los Registros y del Notariado aprobará por medio de Resolución los modelos oficiales de las inscripciones marginales que se hayan de extender en lo sucesivo en las Secciones primera «de Nacimientos y General» y segunda «de Matrimonios», con objeto de adecuarlos a las adaptaciones terminológicas introducidas por la Ley 13/2005, de 1 de julio, debiendo aplicar en lo posible criterios y términos análogos a los recogidos en los artículos precedentes para las inscripciones principales de nacimiento y matrimonio.
+
+2. La Dirección General de los Registros y del Notariado aprobará la Resolución a que se refiere el apartado anterior en el plazo de dos meses desde la publicación de esta Orden ministerial y será objeto de publicación en el Boletín Oficial del Estado. En esta publicación se incluirán también, a efectos de mayor claridad y de su difusión, los modelos de inscripciones principales modificadas por esta Orden.
