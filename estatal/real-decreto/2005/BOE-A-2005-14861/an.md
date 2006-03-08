@@ -1,11 +1,9 @@
 ## ANEXO
 
-## Cuenta de gestión de los fondos disponibles en los servicios del exterior
+## Modelos de los estados de la «cuenta de gestión»
 
-Estado de movimientos y situación de los fondos
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/56/04010_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/212/14861_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/56/04010_002.png)
 
-Estado de remanentes e ingresos pendientes de compensar
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2005/212/14861_001.png)
+> Se modifica por el apartado 1 y anexo de la Resolución de 20 de febrero de 2006. Ref. BOE-A-2006-4010.
