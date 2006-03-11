@@ -44,7 +44,19 @@ Siempre que se cumpla con las siguientes condiciones:
 
 2.2 En aquellos casos en que el casco del buque se haya ensanchado estructuralmente de forma parcial a fin de cumplir con las disposiciones de este anexo, el aumento resultante del valor de un quinto de la manga del buque se utilizará en todos los cálculos, pero no regirá la ubicación de los orificios de los mamparos, sistemas de tuberías, etc., existentes que eran aceptables antes del ensanchamiento;
 
-2.3 La estanqueidad de los mamparos transversales o longitudinales que se tienen en cuenta como eficaces para encerrar el agua de mar que según se supone se ha acumulado en el compartimiento de que se trate en la cubierta de transbordo rodado con avería estará acorde con el sistema de desagüe y resistirá la presión hidrostática de conformidad con los resultados de los cálculos de la avería. Tales mamparos tendrán al menos 2,2 metros de altura. Sin embargo, en el caso de un buque con cubiertas para vehículos suspendidas, la altura mínima del mamparo no será inferior a la altura hasta la parte inferior de la cubierta para vehículos suspendida cuando esté en posición baja.
+2.3 La estanqueidad de los mamparos transversales o longitudinales que se tienen en cuenta como eficaces para encerrar el agua de mar que, según se supone, se ha acumulado en el compartimento de que se trate en la cubierta de transbordo rodado con avería, estará acorde con el sistema de desagüe y resistirá la presión hidrostática, de conformidad con los resultados de los cálculos de la avería. Dichos mamparos tendrán una altura mínima de 4 metros, a menos que la altura del agua sea inferiora 0,5 metros.
+
+En tales casos, la altura del mamparo podrá calcularse mediante la fórmula siguiente:
+
+Bh = 8hw
+
+donde:
+
+Bh es la altura del mamparo, y
+
+hww la altura del agua.
+
+En todo caso, la altura mínima del mamparo no debe ser inferior a 2,2 metros. Sin embargo, en el caso de un buque con cubiertas para automóviles suspendidas, la altura mínima del mamparo no debe ser inferior a la altura hasta la parte inferior de la cubierta para automóviles suspendida cuando esté en posición baja;
 
 2.4 En el caso de medios especiales, por ejemplo, cubiertas suspendidas a todo lo ancho y troncos laterales anchos, podrán aceptarse mamparos de otras alturas sobre la base de pruebas exhaustivas sobre modelo reducido.
 
@@ -74,54 +86,86 @@ Siendo λ la superficie total de las portas de desagüe a cada lado de la cubier
 
 1. Objetivos.
 
-En los ensayos estipulados en el apartado 1.4 de las prescripciones de estabilidad del anexo I, se debe demostrar que el buque tiene capacidad para soportar una mar encrespada como la que se define en el apartado 3 más abajo en el caso de avería más desfavorable.
+Este método de ensayo con modelo es una revisión del método que figura en el apéndice del anexo de la resolución 14 de la Conferencia de 1995 sobre el Convenio SOLAS. Desde la entrada en vigor del Acuerdo de Estocolmo se han efectuado varios ensayos con modelo, de conformidad con el método de ensayo previamente vigente, en los cuales han podido observarse algunas mejoras en los procedimientos aplicados. Este nuevo método de ensayo con modelo tiene como objetivo incluir estas mejoras y, junto con las notas de orientación adjuntas, proporcionar un procedimiento más sólido de evaluación de la conservación de la flotabilidad de un buque de pasaje de transbordo rodado después de avería con mar encrespada. En los ensayos estipulados en el punto 1.4 de las prescripciones de estabilidad del anexo I, se debe demostrar que el buque tiene capacidad para soportar una mar encrespada como la que se define más abajo en el punto 4 en el caso de avería más desfavorable.
 
-2. Modelo del buque.
+2. Definiciones.
 
-2.1 El modelo ha de reproducir el buque real, tanto por lo que respecta a su configuración externa como a la disposición interna, en particular de los espacios de carga rodada con avería, que influyen en el proceso de inundación y en el de embarque de agua en cubierta. La avería corresponderá al caso de avería más desfavorable que permita cumplir con lo dispuesto en la regla II-1/B/8.2.3.2 del Convenio SOLAS. Se exige la realización de un ensayo adicional en la mitad central de quilla a nivel si el caso de avería más desfavorable, de acuerdo con la norma SOLAS 90, se sitúa fuera de la gama ± 10 % Lpp desde la parte central. Este ensayo adicional únicamente es necesario cuando se supone que los espacios de carga rodada están averiados.
+LPP: eslora entre perpendiculares.
 
-2.2 El modelo se ajustará a los siguientes requisitos:
+HS: altura significativa de ola.
 
-2.2.1 La eslora entre perpendiculares (Lpp) será de al menos 3 m.
+B: manga de trazado del buque.
 
-2.2.2 El casco será lo suficientemente delgado en las zonas donde dicha característica influya sobre los resultados.
+TP: período máximo.
 
-2.2.3 Las características del movimiento se calcularán adecuadamente en proporción al buque real, prestando especial atención a la escala de los radios de giro en las condiciones de cabeceo y balance. El calado, asiento, escora y centro de gravedad corresponderán al caso de avería más desfavorable.
+TZ: período en el punto de cruce por cero.
 
-2.2.4 Las características principales de proyecto, tales como mamparos estancos, conductos de evacuación de aire, etc., por encima y por debajo de la cubierta de cierre, que puedan ser causa de una inundación asimétrica se representarán, en la medida de lo posible, de modo que correspondan a la situación real.
+3. Modelo del buque.
 
-2.2.5 La configuración de la brecha de la avería será según se indica a continuación:
+3.1 El modelo ha de reproducir el buque real, tanto por lo que respecta a su configuración externa como a la disposición interna y, en particular, de los espacios con avería que influyen en el proceso de inundación y de embarque de agua. Debe utilizarse el calado, el asiento, la escora y la altura KG operacional límite del buque sin avería que correspondan al caso de avería más desfavorable. Además, el caso o los casos que vayan a considerarse en el ensayo deben representar los casos de avería más desfavorables, definidos de conformidad con lo dispuesto en la regla II-1/8.2.3.2 del Convenio SOLAS (SOLAS 1990) por lo que respecta al área total bajo la curva GZ positiva, y el eje longitudinal de la brecha de la avería debe estar ubicado dentro de los límites siguientes:
 
-2.2.5.1 Perfil lateral rectangular de una anchura conforme a lo dispuesto en la regla II-1/B/8.4.1 del Convenio SOLAS, y de extensión vertical ilimitada.
+3.1.1 ± 35 % LPP desde el centro del buque;
 
-2.2.5.2 Perfil de triángulo isósceles en el plano horizontal, con una altura equivalente a B/5, de conformidad con la regla II-1/B/8.4.2 del Convenio SOLAS.
+3.1.2 se exigirá la realización de un ensayo adicional en el caso de avería más desfavorable dentro de los límites de + 10 % LPP desde el centro del buque si el caso de avería a que se hace referencia en el punto 3.1.1 queda fuera de los límites de + 10 % LPP desde el centro del buque.
 
-3. Procedimiento para los experimentos.
+3.2 El modelo debe ajustarse a los siguientes requisitos:
 
-3.1 El modelo se someterá a olas largas encrespadas e irregulares definidas mediante un espectro Jonswap con una altura significativa de la ola hs establecida en el apartado 1.3 de las prescripciones de estabilidad, y con un factor máximo de intensificación Ƴ y un período máximo Tp según se indica a continuación:
+3.2.1 la eslora entre perpendiculares LPP será de al menos 3 m o tendrá una longitud que corresponda a una escala de modelo de 1:40, si ésta es mayor, y la extensión vertical será de al menos tres alturas normales de superestructura por encima de la cubierta de cierre (francobordo);
 
-3.1.1 Tp = 4 √hs siendo Ƴ = 3.3; y
+3.2.2 el espesor del casco de los espacios inundados no excederá de 4 mm;
 
-3.1.2 Tp igual al período de resonancia en balance del buque con avería, sin agua en cubierta y en la condición de carga especificada, no será superior a 6√hs siendo ϒ = l.
+3.2.3 tanto con avería como sin avería, el modelo debe presentar el desplazamiento y la escala de calados correctos (TA, TM, TF, babor y estribor) con una tolerancia máxima en cualquier marca de calado de + 2 mm. Las marcas de calados a proa y popa deben estar ubicadas tan cerca de la perpendicular de proa y de la perpendicular de popa como sea posible;
 
-3.2 Se permitirá que el modelo derive y se colocará con mar de través (a 90o respecto de la ola) con el orificio de la avería de cara a las olas. El modelo no se debe sujetar de modo que resista la zozobra. Si el buque está en posición de equilibrio, con inundación, se añadirá un ángulo de escora de 1o en dirección de la avería.
+3.2.4 todos los compartimientos y espacios de carga rodada dañados deben representarse con las permeabilidades correctas de superficie y volumen (valores y distribuciones reales), garantizando que el volumen de la inundación y la distribución del peso también estén correctamente representados;
 
-3.3 Se llevarán a cabo como mínimo 5 ensayos para cada período máximo. Cada ensayo será de una duración tal que se alcance la condición estática, pero no inferior a 30 minutos a escala natural. Se elegirá un tren de olas diferente para cada ensayo.
+3.2.5 las características del movimiento del buque real deben representarse adecuadamente, prestando especial atención a la tolerancia de la altura GM sin avería y a los radios de giro en los movimientos de cabeceo y de balance. Ambos radios deben medirse en el aire y deben estar dentro de una gama de 0,35B a 0,4B para el movimiento de balance y de 0,2 LOA a 0,25 LOA para el movimiento de cabeceo;
 
-3.4 Si con ninguno de los experimentos se logra una inclinación final en dirección de la avería, éstos se repetirán cinco veces respecto de cada una de las dos condiciones de olas especificadas o, en vez de ello, se aplicará al modelo un ángulo de escora adicional de 1o hacia la avería y el experimento se llevará a cabo dos veces con cada una de las dos condiciones de ola especificadas. El objetivo de estos experimentos adicionales es demostrar, del mejor modo posible, la aptitud del buque para conservar la flotabilidad contra la zozobra en ambas direcciones.
+3.2.6 las características principales de proyecto, tales como mamparos estancos, conductos de evacuación de aire, etc., por encima y por debajo de la cubierta de cierre, que puedan ser causa de una inundación asimétrica se representarán, en la medida de lo posible, de modo que correspondan a la situación real. Los medios de ventilación y de inundación compensatoria se deben construir con una sección transversal mínima de 500 mm2;
 
-3.5 Los ensayos se realizarán respecto de dos casos de avería como mínimo:
+3.2.7 la configuración de la brecha de la avería será según se indica a continuación:
 
-3.5.1 El caso de avería más desfavorable en relación con la zona bajo la curva GZ, de conformidad con el Convenio SOLAS, y
+1) perfil trapezoidal cuyo lado tenga una inclinación de 15˚ respecto de la vertical y la anchura en la línea de flotación de proyecto esté definida conforme a lo dispuesto en la regla II-1/8.4.1 del Convenio SOLAS;
 
-3.5.2 El caso de avería más desfavorable en la parte central del buque respecto del francobordo residual en dicha zona central, si es necesario en virtud de lo dispuesto en el apartado 2.1.
+2) perfil de triángulo isósceles en el plano horizontal, con una altura equivalente a B/5, de conformidad con la regla II-1/8.4.2 del Convenio SOLAS. Si hay troncos laterales dentro de ese límite de B/5, la longitud de la avería en la zona de los troncos laterales no debe ser inferior a 25 mm;
 
-4. Criterios de conservación de la flotabilidad.
+3) no obstante las disposiciones de los puntos 3.2.7.1) y 3.2.7.2) anteriores, todos los compartimientos considerados averiados para el cálculo del caso o casos de avería más desfavorables a que se hace referencia en el punto 3.1 se deben inundar en los ensayos con modelo.
 
-Se considerará que el buque conserva la flotabilidad si se alcanza la condición estática en los ensayos consecutivos prescritos en el apartado 3.3, entendiéndose que los ángulos de balance superiores a 30º respecto del eje vertical, que tengan lugar con una frecuencia superior al 20 por ciento de los ciclos de balance o una escora sostenida superior a 20º, se considerarán casos de zozobra incluso si se alcanza la condición estática.
+3.3 Al modelo en equilibrio después de la inundación se le debe aplicar un ángulo de escora adicional que corresponda al ángulo inducido por el momento escorante Mh = max(Mpass; Mlaunch)-Mwind, aunque en ningún caso la escora final deberá ser inferior a 1˚ en dirección a la avería. Mpass, Mlaunch y Mwind son los especificados en la regla II-1/8.2.3.4 del Convenio SOLAS. Para los buques existentes este ángulo se puede considerar de 1˚.
 
-5. Aprobación de los ensayos.
+4. Procedimiento para los experimentos.
 
-5.1 Es responsabilidad de la Administración marítima española, de ser España el Estado de acogida, aprobar el programa de ensayos con modelos antes de su realización. También debe tenerse presente que averías de menor importancia pueden constituir casos más desfavorables.
+4.1 El modelo debe ser sometido a ensayo en olas largas encrespadas e irregulares definidas mediante un espectro JONSWAP con una altura significativa de la ola Hs, un factor máximo de intensificación y= 3,3 y un período máximo Tp = 4 √ HS (TZ = Tp/1,285). HS la altura significativa de la ola en la zona de operaciones, con una probabilidad de superarse no mayor del 10 % anual, pero limitada a un máximo de 4 m.
 
-5.2 Los ensayos se documentarán mediante un informe y una videocinta u otro documento visual que contengan toda la información pertinente del buque y los resultados.
+Además:
+
+4.1.1 la anchura del canal hidrodinámico debe ser suficiente para evitar el contacto o cualquier otro tipo de interacción con los costados de éste, recomendándose que no sea inferior a Lpp + 2 m;
+
+4.1.2 la profundidad del canal hidrodinámico debe ser suficiente para reproducir bien las olas, pero no inferior a 1 m;
+
+4.1.3 para utilizar olas representativas, se deben efectuar mediciones con anterioridad al ensayo en tres ubicaciones distintas dentro de los límites de la deriva;
+
+4.1.4 la sonda de olas más cercana al generador de olas se debe colocar en la posición donde esté ubicado el modelo cuando se inicie el ensayo;
+
+4.1.5 para estas tres ubicaciones, la variación en Hs y Tp debe estar dentro de una gama de + 5 %, y
+
+4.1.6 a efectos de la aprobación de los ensayos, durante éstos se debe permitir una tolerancia de + 2,5% en Hs, + 2,5% en TP y + 5 % en TZ en relación con la sonda más cercana al generador de olas.
+
+4.2 Se debe permitir que el modelo derive, situándolo mar de través (a 90˚ respecto de la ola) con la brecha de cara a las olas, sin ningún sistema de amarre permanente que lo sujete. A fin de mantener el modelo con mar de través a 90˚ aproximadamente respecto de la ola durante el ensayo, deben cumplirse las condiciones siguientes:
+
+4.2.1 las líneas de control del rumbo, destinadas a realizar ajustes mínimos, deben situarse en el eje longitudinal de la roda y de la popa, de manera simétrica y a un nivel intermedio entre la posición de la altura KG y la línea de flotación después de avería, y
+
+4.2.2 la velocidad de remolque debe ser igual a la velocidad de deriva real del modelo, debiendo efectuarse los ajustes de velocidad pertinentes cuando sea necesario.
+
+4.3 Se deben llevar a cabo como mínimo 10 ensayos. Cada ensayo debe tener una duración tal que se alcance la condición estática, pero que no sea inferior a 30 minutos a escala natural. Se elegirá un tren de olas diferente para cada ensayo.
+
+5. Criterios de conservación de la flotabilidad.
+
+Se considerará que el modelo conserva la flotabilidad si se alcanza la condición estática en los ensayos consecutivos prescritos en el punto 4.3. Se considerará que el modelo ha zozobrado, aunque se alcance la condición estática, si se observan ángulos de balance superiores a 30˚ respecto del eje vertical o se produce una escora sostenida (media) superior a 20˚ durante más de 3 minutos a escala natural.
+
+6. Documentación de los ensayos.
+
+6.1 El programa de ensayos con modelos debe ser aprobado por la Administración antes de su realización.
+
+6.2 Los ensayos se deben documentar mediante un informe y una videocinta u otro tipo de registro visual que contengan toda la información pertinente del modelo y los resultados, que la Administración deberá aprobar. Éstos deben incluir, como mínimo, los espectros de las olas teóricas y reales y las estadísticas (Hs, Tp, Tz) de la elevación de las olas de las tres ubicaciones distintas en el canal hidrodinámico para tener una visión representativa de las mismas, y, respecto de los ensayos con modelo, las series cronológicas de las estadísticas principales de la elevación de las olas medida cerca del generador de olas y los registros de los movimientos de balance, oscilación vertical y cabeceo y de la velocidad de deriva del modelo.
+
+> Se modifica por el art. único.1 y 2 y el anexo I de la Orden FOM/191/2006, de 24 de enero. Ref. BOE-A-2006-1766.

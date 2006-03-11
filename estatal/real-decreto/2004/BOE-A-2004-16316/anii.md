@@ -112,128 +112,120 @@ Apartado 2.6.
 
 ## Ensayo con modelo
 
-El objeto de estas directrices es garantizar la uniformidad de los métodos empleados para construir y comprobar modelos, así como para realizar y analizar los ensayos, entendiéndose que los medios disponibles y los costes podrán tener cierta repercusión en esta uniformidad.
+El objetivo de estas notas es garantizar la uniformidad en los métodos empleados para la construcción y verificación del modelo, así como en la realización y el análisis de los ensayos con modelo.
 
-El contenido del apartado 1 del apéndice del anexo I no requiere clarificación.
+Se considera que el contenido de los apartados 1 y 2 del apéndice al anexo I no necesita explicación.
 
-Apartado 2. Modelo del buque.
+3. Modelo del buque.
 
-2.1 El material con que se realiza el modelo no tiene importancia de por sí, siempre que el modelo intacto y con avería sea lo suficientemente rígido para que sus características hidrostáticas sean idénticas a las del buque real y para que la flexión del casco en la marejada sea insignificante.
+3.1 El material del que esté fabricado el modelo no es importante en sí mismo, siempre que, tanto después de avería como sin avería, sea lo suficientemente rígido para garantizar que sus propiedades hidrostáticas sean las mismas que las del buque real y también que la flexión del casco con las olas sea insignificante.
 
-También conviene velar por que los compartimentos averiados se reproduzcan con la mayor exactitud posible, de modo que el volumen de agua representado sea correcto.
+Asimismo, es importante garantizar que los compartimentos averiados se representen del modo más exacto posible para obtener el volumen de inundación correcto.
 
-Deberán adoptarse medidas para impedir que el agua penetre (incluso en pequeñas cantidades) en las partes intactas del modelo, ya que afectaría a su comportamiento.
+Dado que la entrada de agua (incluso en pequeñas cantidades) en las partes sin avería del modelo repercutirá en su comportamiento, se deberán adoptar las medidas oportunas para que esto no ocurra.
 
-2.2 Detalles del modelo.
+En los ensayos con modelo de los casos de avería más desfavorables cerca de los extremos del buque contemplados en el Convenio SOLAS, se observó que no era posible una inundación progresiva debido a la tendencia que tenía el agua en la cubierta a acumularse cerca de la brecha y por lo tanto a evacuarse.
 
-2.2.1 Conviene reducir en la medida de lo posible los efectos de escala, ya que influyen mucho en el comportamiento del modelo durante los ensayos. El modelo deberá ser lo más grande posible, dado que los detalles de los compartimentos averiados serán más fáciles de reproducir en modelos grandes y los efectos de escala serán menos importantes. Por consiguiente, se recomienda reproducir el modelo a una escala que no sea inferior al 1/40. No obstante, la longitud del modelo en la línea de carga de compartimentación no deberá ser inferior a tres m.
+Puesto que tales modelos fueron capaces de conservar la flotabilidad en situaciones de mar gruesa, mientras que zozobraron en mares menos fuertes con averías menos importantes lejos de los extremos, según el Convenio SOLAS, se introdujo el límite de ± 35 % para evitar tal situación.
 
-2.2.2.a) El modelo deberá ser lo más delgado posible en la zona de la avería hipotética, de tal modo que la cantidad de agua embarcada y su centro de gravedad estén representados correctamente. Se admitirá que el casco y los elementos de compartimentación primaria y secundaria en la zona de la avería no puedan construirse con suficiente detalle, por lo que no podrá calcularse correctamente la permeabilidad supuesta del espacio.
+Una exhaustiva investigación realizada a fin de elaborar criterios apropiados para los buques nuevos ha demostrado claramente que, además de la altura GM y del francobordo como parámetros importantes en la conservación de la flotabilidad de los buques de pasaje, el área bajo la curva de estabilidad residual también es otro factor determinante.
 
-2.2.2.b) Los ensayos han puesto de manifiesto que la dimensión vertical del modelo puede influir en los resultados de los ensayos dinámicos. Por consiguiente, la altura del buque en la cubierta de mamparo (francobordo) deberá corresponder al menos a tres alturas reglamentarias de superestructura para que las grandes olas no rompan el modelo.
+Por consiguiente, para seleccionar el caso de avería más desfavorable contemplado en el Convenio SOLAS con respecto al cumplimiento de lo dispuesto en el punto 3.1, la avería más desfavorable será aquella que dé la menor área bajo la curva de estabilidad residual.
 
-2.2.2.c) Conviene comprobar no sólo los calados en el estado intacto, sino medir también correctamente los calados con avería para establecer una correlación con los resultados del cálculo de estabilidad después de avería. Tras medir los calados después de avería, podrá ser necesario corregir la permeabilidad del compartimento averiado introduciendo volúmenes intactos o añadiendo peso. Es importante garantizar asimismo que se represente correctamente el centro de gravedad del agua que penetra en el modelo. Todas las correcciones deberán efectuarse con márgenes de seguridad suficientes.
+3.2 Características del modelo.
 
-2.2.2.d) Si la cubierta del modelo debe equiparse con barreras y la altura de dichas barreras es inferior a la prescrita en el apartado 2.3 del anexo I, el modelo deberá equiparse con un circuito cerrado de televisión para observar las proyecciones y la acumulación de agua en la parte no averiada de la cubierta. En este caso, deberá adjuntarse al informe de los ensayos una videocinta.
+3.2.1 Dado que los efectos de la escala desempeñan un papel importante en el comportamiento del modelo durante los ensayos, es importante garantizar que estos efectos se reducen en la mayor medida posible. El modelo será tan grande como sea factible, dado que los detalles de los compartimentos averiados son más fáciles de representar cuanto mayores son las dimensiones de los modelos y los efectos de la escala se reducen. Por consiguiente, se prescribe que la eslora del modelo no sea inferior a la correspondiente a una escala de 1:40 ó 3 m, si esta magnitud es mayor.
 
-2.2.3 Para garantizar que las características de movimiento del modelo reproducen las del buque real, conviene inclinar el modelo y balancearlo en el estado intacto, para comprobar el GM y la distribución de la masa en el estado intacto.
+Durante los ensayos se ha comprobado que la extensión vertical del modelo puede influir en los resultados cuando se trata de ensayos dinámicos. Por consiguiente, se prescribe que el buque se represente con una extensión vertical de al menos tres alturas normales de superestructura por encima de la cubierta de cierre (francobordo), de modo que las olas grandes del tren de olas no rompan por encima del modelo.
 
-El radio de giro transversal del buque real no deberá considerarse superior a 0,4 B y el radio de giro longitudinal no deberá considerarse superior a 0,25 L.
+3.2.2 En la zona de averías supuestas, el modelo, debe ser lo más delgado posible para garantizar que el volumen de la inundación y su centro de gravedad estén adecuadamente representados. El espesor del casco no debe exceder de 4 mm. Es posible que el casco del modelo y sus elementos primarios y secundarios de compartimentado, en la zona de la avería, no puedan construirse con el suficiente esmero y, debido a estas limitaciones de construcción, puede resultar imposible calcular con precisión la permeabilidad supuesta del espacio.
 
-El período de balanceo transversal del modelo se obtendrá del siguiente modo:
+3.2.3 Es importante no sólo verificar los calados del buque sin avería, sino también medir con exactitud los calados del modelo después de avería, para establecer una correlación con los resultantes del cálculo de la estabilidad después de avería. Por razones prácticas, se acepta una tolerancia de + 2 mm en cualquier calado.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/226/16316_001.png)
+3.2.4 Tras medir los calados después de la avería, es posible que se estime necesario ajustar la permeabilidad del compartimiento averiado, ya sea mediante la introducción de volúmenes intactos o mediante la adición de pesos.
 
-Siendo:
+No obstante, también es importante garantizar que el centro de gravedad de la inundación esté representado con exactitud. En este caso, cualesquiera ajustes realizados deben pecar por exceso de seguridad.
 
-GM: la altura metacéntrica del buque real (intacto).
+Si se exige que el modelo esté dotado de barreras sobre la cubierta y la altura de las barreras es inferior a la altura del mamparo indicada más abajo, se deberá instalar un circuito cerrado de televisión en el modelo a fin de poder detectar cualquier «salpicadura» y cualquier acumulación de agua en la zona sin avería de la cubierta. En este caso, debe incluirse una grabación en vídeo del suceso como parte de la documentación de los ensayos.
 
-g: la aceleración debida a la gravedad.
+La altura de los mamparos transversales o longitudinales que se tienen en cuenta como eficaces para encerrar el agua de mar que según se supone se ha acumulado en el compartimiento de que se trate en la cubierta de transbordo rodado con avería deber ser como mínimo de 4 m, a menos que la altura del agua sea inferior a 0,5 m. En tales casos, la altura del mamparo podrá calcularse mediante la fórmula siguiente:
 
-l: la escala del modelo.
+Bh = 8hw
 
-B: la manga del buque real.
+donde:
 
-Nota:
+Bh es la altura del mamparo, y
 
-Se podrá aceptar que la inclinación y el balanceo del modelo con avería se utilicen para comprobar la curva de estabilidad residual, pero tales ensayos no podrán sustituir a los ensayos en el estado intacto.
+hw la altura del agua.
 
-Sin embargo, es necesario balancear el modelo con avería a fin de obtener el período de balanceo necesario para la realización de los ensayos previstos en el apartado 3.1.2.
+Sea como fuere, la altura mínima del mamparo no debe ser inferior a 2,2 m. Sin embargo, en el caso de un buque con cubiertas para automóviles suspendidas, la altura mínima del mamparo no deber ser inferior a la altura hasta la parte inferior de la cubierta para automóviles suspendida cuando esté en posición baja.
 
-2.2.4 El contenido de este apartado no requiere clarificación. Se entiende que los ventiladores del compartimento averiado del buque real permiten al agua embarcada fluir y circular libremente. Sin embargo, la reducción a escala de los dispositivos de ventilación del buque real puede producir efectos de escala involuntarios. Para evitarlo, se recomienda construir los dispositivos de ventilación a una escala superior a la del modelo, sin que ello afecte al flujo de agua en la cubierta para vehículos.
+3.2.5 A fin de asegurarse de que las características de movimiento del modelo representan las del buque real, es importante inclinar el modelo sin avería, de modo que pueda verificarse la altura GM en ese estado. La distribución del peso debe medirse en el aire. El radio transversal de giro del buque real debe situarse entre 0,35B y 0,4B, y el radio longitudinal de giro, entre 0,2L y 0,25L.
 
-2.2.5 El perfil en triángulo isósceles de la brecha prismática corresponderá a la línea de flotación a plena carga.
+Nota: Aunque la inclinación y el balance del modelo con avería pueden aceptarse como prueba destinada a verificar la curva de estabilidad residual, tales ensayos no deben aceptarse en sustitución de los ensayos sin avería.
 
-Por otra parte, si se instalan troncos laterales de estabilidad de una anchura inferior a B/5, la longitud de la avería en las cajas no deberá ser inferior a dos metros, para evitar posibles efectos de escala.
+3.2.6 Se supone que los ventiladores del compartimiento averiado del buque real son adecuados para no obstaculizar la inundación ni su extensión. No obstante, al tratar de reducir a escala los dispositivos de ventilación del buque real, se pueden introducir efectos de la escala no deseables. Para que esto no ocurra, se recomienda representar los dispositivos de ventilación a una escala mayor que la del modelo, asegurándose de que esto no repercuta en el flujo de agua sobre la cubierta para automóviles.
 
-Apartado 3. Procedimiento para los experimentos.
+3.2.7 Se estima apropiado considerar una avería cuya configuración sea representativa de una sección transversal del buque en la zona de la proa. El ángulo de 15˚ se basa en un examen de la sección transversal a una distancia de B/5 de la proa en una muestra representativa de buques de distintos tipos y tamaños.
 
-3.1 Espectros de oleaje.
+El perfil de triángulo isósceles de la configuración prismática de la avería es el de la línea de flotación de carga.
 
-Deberá utilizarse el espectro Jonswap, que describe olas de alcance y duración limitados, lo que corresponde a la mayor parte de las condiciones observadas en el mundo. A este respecto, es importante que no sólo se compruebe el período máximo del tren de olas, sino también la exactitud de los períodos de paso por el punto cero.
+Además, en los casos en que haya troncos laterales de una anchura inferior a B/5, y a fin de evitar cualesquiera efectos posibles de la escala, la longitud de la avería en la zona de los troncos laterales no debe ser inferior a 25 mm.
 
-3.1.1 Habida cuenta de un período máximo de 4√hs y de un factor de intensificación ϒ de 3,3, el período de paso por el punto cero no deberá ser superior a:
+3.3 En el método de ensayo con modelo original de la Resolución 14 de la Conferencia de 1995 sobre el Convenio SOLAS, no se consideró el efecto de la escora inducida por el momento máximo producido por cualquier concentración de pasajeros, la puesta a flote de embarcaciones de supervivencia, el viento y el giro, a pesar de que dicho efecto formaba parte del Convenio SOLAS. No obstante, los resultados de una investigación han demostrado que sería prudente tener en cuenta estos efectos y aplicar al modelo un ángulo de escora mínimo de 1° en dirección a la avería, por razones prácticas. Cabe señalar que la escora debida al giro no se consideró pertinente.
 
-{Tp/(1.20 a 1.28)} +/– 5%
+3.4 En los casos en que en las condiciones reales de carga exista un margen en la altura GM, por comparación con la curva límite de la altura GM (de conformidad con el Convenio SOLAS 1990), la Administración podrá aceptar que se aproveche este margen en el ensayo con modelo. En tales casos, debe ajustarse la curva límite de la altura GM.
 
-3.1.2 El período de paso por el punto cero correspondiente al período máximo equivale al período de balanceo del modelo averiado y, dado que el factor Ƴ debe equivaler a 1, no deberá ser superior a:
+Ese ajuste puede realizarse del modo siguiente:
 
-{Tp/(1.3 a 1.4)} +/– 5%
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/30/01766_001.png)
 
-teniendo en cuenta que si el período de balanceo del modelo averiado es superior a 6√hs, el período máximo deberá limitarse a 6∙hs.
+d = dS -0,6 (ds -dLS)
 
-Nota:
+donde:
 
-Se ha comprobado que no se pueden limitar los períodos de paso por el punto cero del espectro de ondas en función de los valores nominales de las fórmulas matemáticas. Se admite por tanto un margen de error del cinco por ciento.
+dS es el calado de compartimentado; y
 
-Se exige registrar y documentar el espectro de oleaje correspondiente a cada ensayo. A este respecto, las medidas se realizarán en la proximidad inmediata del modelo (pero no en el costado de sotavento) –véase la figura a continuación– y cerca del generador de olas.
+dLS es el calado del buque en rosca.
 
-También se exige que el modelo disponga de instrumentos de medida que permitan controlar y registrar durante todo el ensayo sus movimientos (balanceo, oscilación vertical y cabeceo) y su comportamiento (inclinación, hundimiento y asiento).
+La curva ajustada es una línea recta entre la altura GM empleada para el ensayo con modelo en el calado de compartimentado y la intersección de la curva original del Convenio SOLAS 1990 y el calado d.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/226/16316_002.png)
+4. Procedimiento para los experimentos.
 
-La sonda de medición «junto al modelo» debe colocarse en el arco A o B (figura A).
+4.1 Espectro de las olas.
 
-Apartados 3.2, 3.3, 3.4.
+Se debe utilizar el espectro JONSWAP, dado que este espectro describe el alcance del viento y su duración sobre una extensión de mar limitada, lo que corresponde a condiciones más frecuentes en todo el mundo. A este respecto, es importante no sólo que se verifique el período máximo del tren de olas, sino también que el período en el punto de cruce por cero sea el correcto.
 
-El contenido de estos apartados no requiere clarificación.
+Se prescribe que en cada ensayo se registre y documente el espectro de las olas. Para ello, se efectuarán mediciones en la sonda más cercana al generador de olas.
 
-3.5 Averías simuladas.
+También se prescribe que el modelo esté dotado de los instrumentos necesarios para detectar y registrar sus movimientos (balance, oscilación vertical y cabeceo) y su comportamiento (escora, hundimiento y asiento).
 
-Las investigaciones realizadas para establecer criterios aplicables a los nuevos buques ponen claramente de manifiesto que, junto a parámetros importantes para la conservación de la flotabilidad de los buques de pasaje como el GM y el francobordo, la superficie bajo la curva de estabilidad residual hasta el ángulo de GZ máximo también constituye un factor importante. Al elegir el caso de avería más desfavorable previsto por el Convenio SOLAS que permita cumplir los requisitos del apartado 3.5.1, conviene optar por la avería que presente la menor superficie bajo la curva de estabilidad residual.
+Se ha demostrado que no es práctico establecer límites absolutos para la altura significativa de las olas, los períodos máximos y los períodos en el punto de cruce por cero de los espectros de olas del modelo; por tanto, se ha introducido un margen aceptable.
 
-Apartado 4. Criterios de conservación de la flotabilidad.
+4.2 Para evitar que el sistema de amarre afecte a la dinámica del buque, el remolcador (al cual está sujeto el sistema de amarre) debe seguir al modelo a su velocidad de deriva real. En un mar con olas irregulares, la velocidad de deriva no será constante; una velocidad de remolque constante someterá al modelo a oscilaciones de deriva de gran amplitud y baja frecuencia, lo que puede afectar al comportamiento del modelo.
 
-El contenido de este apartado no requiere clarificación.
+4.3 A fin de garantizar la fiabilidad de los datos estadísticos, es necesario efectuar un número suficiente de ensayos con diferentes trenes de olas; es decir, el objetivo es determinar, con un alto índice de fiabilidad, que un buque que no es seguro zozobrará en las condiciones seleccionadas. Un número mínimo de 10 ensayos brinda un índice de fiabilidad razonable.
 
-Apartado 5. Aprobación de los ensayos.
+5. Criterios de conservación de la flotabilidad.
 
-Deberán incluirse en el informe remitido a la Administración los documentos siguientes:
+Se considera que el contenido de este punto no necesita explicación.
 
-a) Cálculos de estabilidad después de avería en el caso de avería más desfavorable previsto por el Convenio SOLAS y con avería en la parte central del buque (si no coinciden).
+6. Aprobación de los ensayos.
 
-b) Diseño de la disposición general del modelo, junto con los detalles de su construcción e instrumentos.
+Los siguientes documentos deben formar parte del informe para la administración:
 
-c) Informes de los ensayos de inclinación y balanceo.
+a) cálculos de estabilidad con avería para los casos de avería más desfavorable contemplada en el Convenio SOLAS y de avería en la parte central del buque (si son distintos);
 
-d) Cálculos de los períodos de balanceo del buque real y del modelo.
+b) esquema de la disposición general del modelo y los detalles sobre su construcción e instrumentos;
 
-e) Espectros de oleaje nominales y medidos (junto a la máquina de hacer olas y junto al modelo, respectivamente).
+c) pruebas de estabilidad y mediciones de los radios de giro;
 
-f) Registro representativo de los movimientos, del comportamiento y de la deriva del modelo.
+d) espectros de olas nominales y medidos (en tres ubicaciones distintas para tener una visión representativa de los mismos y, respecto de los ensayos con modelos, en la sonda más cercana al generador de olas);
 
-g) Videocintas pertinentes.
+e) registros representativos de los movimientos, el comportamiento y la deriva del modelo, y
 
-Nota: todos los ensayos deberán ser atestiguados por la Administración.
+f) grabaciones de vídeo pertinentes.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/226/16316_003.png)
+Nota: La administración deberá ser testigo de todos los ensayos.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/226/16316_004.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/226/16316_005.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/226/16316_006.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/226/16316_007.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2004/226/16316_008.png)
+> Se modifica la parte II por el art. único.3 y el anexo II de la Orden FOM/191/2006, de 24 de enero. Ref. BOE-A-2006-1766.
