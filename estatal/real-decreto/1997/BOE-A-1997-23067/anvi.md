@@ -76,10 +76,11 @@ LISTA DE AGENTES CONSERVADORES ADMITIDOS
 | 50 | 3-(P-CLOROFENOXI)- PROPAN-1,2 DIOL (CLORFENESINA) | 0,3% |  |  |
 | 51 | HIDROXIMETILAMINACETATO DE SODIO (HIDROXIMETILGLICINATO DE SODIO) | 0,5% |  |  |
 | 52 | CLORURO DE PLATA DEPOSITADO SOBRE DIÓXIDO DE TITANIO | 0,004% calculado como AgCl | 20% AgCl (p/p) sobre TIO2. Prohibido en los productos para niños menores de tres años en los productos de higiene bucal y en los productos destinados a ser aplicados alrededor de los ojos o en los labios. |  |
-| 53 | Cloruro de bencetonio | 0,1% | Sólo productos para aclarado |  |
+| 53 | Benzethonium Chloride (INCI). | 0,1% | a) Para productos aclarados. b) Para productos no aclarados salvo los de higiene bucal. |  |
 | 54 | Cloruro, bromuro y sacarinato de benzalconio (+). | 0,1% expresado en cloruro de benzalconio. | Evitar el contacto con los ojos. |  |
 | 55 | Bencilhemiformal. | 0,15 por 100 | Solamente en los productos que se eliminan por aclarado. |  |
 | 56 | Carbamato de 3-yodo-2-propinilbutilo. | 0,05 por 100 | 1. No utilizar en los productos de higiene bucal y los productos para los labios. 2. Si la concentración en los productos destinados a permanecer sobre la piel es superior a 0,02 por 100 añadir la frase: «contiene yodo». | «contiene yodo». |
+| 57 | Methylisothiazolinone (INCI). | 0,01% |  |  |
 
 (1) Únicamente en los productos que podrían ser utilizados eventualmente para cuidados de niños menores de 3 años y que permanezcan en contacto prolongado con la piel.
 
@@ -93,6 +94,8 @@ LISTA DE AGENTES CONSERVADORES ADMITIDOS PROVISIONALMENTE
 | --- | --- | --- | --- | --- | --- |
 | a | b | c | d | e | f |
 |  |  |  |  |  |  |
+
+> Se modifica el número 53 y se añade el 57 en la primera parte por el art. 1.4 de la Orden SCO/747/2006, de 9 de marzo. Ref. BOE-A-2006-4879.
 
 > Se modifica el número 36 de la primera parte por el apartado 1.3 de la Orden SCO/2592/2004, de 21 de julio. Ref. BOE-A-2004-14315.
 

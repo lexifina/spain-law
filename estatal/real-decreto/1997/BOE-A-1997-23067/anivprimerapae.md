@@ -25,7 +25,6 @@ Columna 4: Colorantes admitidos únicamente en los productos cosméticos destina
 | 12.010 | rojo |  |  | X |  |  |
 | 12.085 (3) | rojo | X |  |  |  | 3% máximo en producto terminado. |
 | 12.120 | rojo |  |  |  | X |  |
-| 12.150 | rojo | X |  |  |  |  |
 | 12.370 | rojo |  |  |  | X |  |
 | 12.420 | rojo |  |  |  | X |  |
 | 12.480 | marrón |  |  |  | X |  |
@@ -61,14 +60,12 @@ Columna 4: Colorantes admitidos únicamente en los productos cosméticos destina
 | 18.965 | amarillo | X |  |  |  |  |
 | 19.140 (3) | amarillo | X |  |  |  | E 102 |
 | 20.040 | amarillo |  |  |  | X | Contenido máximo de 5 ppm en 3,3 –dimetilbencidina en el colorante. |
-| 20.170 | naranja |  |  | X |  |  |
 | 20.470 | negro |  |  |  | X |  |
 | 21.100 | amarillo |  |  |  | X | Contenido máximo de 5 ppm en 3-3 dimetilbencidina en el colorante. |
 | 21.108 | amarillo |  |  |  | X | Contenido máximo de 5 ppm en 3.3-dicloro bencidina en el colorante. |
 | 21.230 | amarillo |  |  | X |  |  |
 | 24.790 | rojo |  |  |  | X |  |
 | 26.100 | rojo |  |  | X |  | Criterio de pureza: Anilina ⩽ 0,2% 2-naftol ⩽ 0,2% 4-aminoazobenceno ⩽ 0,1% 1-(felinazo-2-2naftol ⩽ 3% 1-[(2-fenilazo) fenil)azo]-2-naftalenol ⩽ 2% |
-| 27.290 (3) | rojo |  |  |  | X |  |
 | 27.755 | negro | X |  |  |  | E 152 |
 | 28.440 | negro | X |  |  |  | E 151 |
 | 40.215 | naranja |  |  |  | X |  |
@@ -178,3 +175,5 @@ Columna 4: Colorantes admitidos únicamente en los productos cosméticos destina
 (2) Los colorantes, cuyo número va acompañado de la letra E, de acuerdo con las disposiciones de la directiva de la CEE de 1.962, relativas a los aditivos alimentarios y a colorantes, deben cumplir las condiciones de pureza allí establecidas. Dichos colorantes siguen estando sometidos a los criterios generales del anexo II de la Directiva de 1962 a los colorantes aún cuando el número E haya sido suprimido de tal Directiva.
 
 (3) Las lacas, pigmentos o sales de Bario, Estroncio y Zirconio, insolubles, de estos colorantes están igualmente admitidas. Deben cumplir el test de insolubilidad previsto en el artículo 8 de la Directiva de la CEE de 1.962 relativa a los aditivos alimentarios y colorantes.
+
+> Se modifica por el art. 1.3 de la Orden SCO/747/2006, de 9 de marzo. Ref. BOE-A-2006-4879.

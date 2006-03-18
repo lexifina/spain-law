@@ -2312,9 +2312,19 @@ e) 0,0002 por 100 en otros productos de contacto y productos de higiene bucal.
 
 1132. Mezcla de 4-alil-2,6-bis(2,3-epoxipropil)fenol, 4-alil-6-(3-(6-(3-(6-(3-(4-alil-2,6-bis(2,3-epoxipropil)fenoxi)2-hidroxipropil)-4-alil-2-(2,3-epoxipropil)fenoxi)-2-hidroxipropil)-4-alil-2-(2,3-epoxipropil)fenoxi-2-hidroxipropil-2-(2,3-epoxipropil)fenol, 4-alil-6-(3-(4-alil-2,6-bis(2,3-epoxipropil)fenoxi)-2-hidroxipropil)-2-(2,3-epoxipropil)fenoxi)fenol y 4-alil-6-(3-(6-(3-(4-alil-2,6-bis(2,3-epoxipropil)fenoxi)-2-hidroxipropil)-4-alil-2-(2,3-epoxipropil)fenoxi)2-hidroxipropil)-2-(2,3-epoxipropil)fenol» (n.º CE 417-470-1).
 
+1133. Aceite de la raíz del costus (Saussurea Lappa Clarke) (n.º CAS 8023-88-9), empleado como ingrediente de fragancia.
+
+1134. 7-etoxi-4-metilcumarina (n.º CAS 87-05-8), empleado como ingrediente de fragancia.
+
+1135. Hexahidrocumarina (n.º CAS 700-82-3), empleado como ingrediente de fragancia.
+
+1136. Bálsamo del Perú (nombre INCI: Myroxylon pereirae; n.º CAS 8007-00-9), empleado como ingrediente de fragancia.
+
 (1) Se tolerará la presencia de trazas de las sustancias comprendidas en este anexo, cuando éstas sean técnicamente inevitables como consecuencia de la aplicación de las buenas prácticas de fabricación y siempre que se cumpla el articulo cuarto de esta reglamentación.
 
 (a) El nombre de estas sustancias es el recomendado como «denominación común internacional» para las sustancias farmacéuticas publicadas por la Organización Mundial de la Salud. Ginebra 1982.
+
+> Se añaden los números 1133 a 1136 por el art. 1.1 de la Orden SCO/747/2006, de 9 de marzo. Ref. BOE-A-2006-4879.
 
 > Se modifica el número 289 y se añaden los números 452 a 1132 por el apartado 1.1.a) y b) de la Orden SCO/544/2005, de 8 de marzo. Ref. BOE-A-2005-3946.
 
