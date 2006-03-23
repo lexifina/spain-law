@@ -14,7 +14,17 @@ A los efectos del artículo 38 de la Ley 30/1992, de 26 de noviembre, de Régime
 
 2.1 El Registro General del Cuartel General del Ejército de Tierra.
 
-2.2 Los Registros de los Cuarteles Generales de los Mandos Regionales de las Regiones y Zonas Militares.
+2.2 El Registro General de la Fuerza de Maniobra.
+
+2.3 El Registro General de la Fuerza Terrestre.
+
+2.4 El Registro General de la Fuerza Logística Operativa.
+
+2.5 El Registro General de la Inspección General del Ejército de Tierra.
+
+2.6 El Registro General del Mando de Adiestramiento y Doctrina.
+
+2.7 El Registro del Mando de Canarias.
 
 3. En la Armada:
 
@@ -45,6 +55,8 @@ A los efectos del artículo 38 de la Ley 30/1992, de 26 de noviembre, de Régime
 5.7. El Registro del Servicio Militar de Construcciones.
 
 5.8. Los Registros de las Delegaciones Territoriales de dichos organismos autónomos.
+
+> Se modifica el apartado 2 por el apartado único de la Orden DEF/807/2006, de 13 de marzo. Ref. BOE-A-2006-5125.
 
 > Se modifica el apartado 5 por el apartado 1 de la Orden 5/1996, de 11 de enero. Ref. BOE-A-1996-1221.
 
