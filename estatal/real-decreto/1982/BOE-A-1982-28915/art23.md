@@ -1,3 +1,5 @@
 ## Art. 23.
 
-En lo no previsto especialmente en la presente Sección, se aplicara lo dispuesto con carácter general en la Norma Básica de la Edificación sobre «Condiciones de Protección Contra Incendios en los Edificios».
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.i) del Real Decreto 314/2006, de 17 de marzo. Ref. BOE-A-2006-5515

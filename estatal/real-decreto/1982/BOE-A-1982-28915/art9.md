@@ -1,3 +1,5 @@
 ## Art. 9.
 
-Los materiales de las armaduras, cubiertas y entreplantas, así como los tabiques divisorios y antepechos, serán los adecuados para esta clase de edificios, de acuerdo con lo dispuesto en las Normas Básicas de la Edificación vigentes y en especial la relativa a «Condiciones de Protección contra Incendios en los Edificios».
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.i) del Real Decreto 314/2006, de 17 de marzo. Ref. BOE-A-2006-5515
