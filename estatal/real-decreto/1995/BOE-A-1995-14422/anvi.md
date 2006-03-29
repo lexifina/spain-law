@@ -51,6 +51,7 @@ A) Material parental y plantas de base.
 | Enfermedades | Periodicidad del test en años |
 | --- | --- |
 | Plantas en abrigo de cuarentena | Plantas en pleno campo |
+|  |  |  |
 | Tristeza | 3 | 1 |
 | Vein-enation | 3 | 1 |
 | Grupo psoriasis y enfermedades que provocan en las hojas jóvenes síntomas similares a los de la Psoriasis (Psoriasis, Ring Spot, Cristacorbis, Impietratura y Cóncave Gum) | 10 | 6 |
@@ -58,6 +59,7 @@ A) Material parental y plantas de base.
 | Exocortis | 3 | 3 |
 | Cachexia-Xiloporosis | 6 | 6 |
 | Stuborn * (Spiroplasma citri) | 1 | 1 |
+| Manchado foliar de los cítricos (Citrus leaf Blotch) | 10 | 10 |
 
 * Síntomas visuales.
 
@@ -210,3 +212,5 @@ Se identificarán todas ellas mediante anillos o marcas de color situadas sobre 
 | Oroblanco | Negro | Amarillo | – |
 | Melogold | Negro | Verde | – |
 | Chandler | Negro | Rojo | Rojo |
+
+> Se modifica el cuadro 1.A) por el art. único.2 del Real Decreto 250/2006, de 3 de marzo. Ref. BOE-A-2006-5513
