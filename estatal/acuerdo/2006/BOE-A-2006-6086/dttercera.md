@@ -1,0 +1,5 @@
+## Disposición transitoria tercera.
+
+1. La aplicación del presente Estatuto no podrá suponer, en ningún caso, menoscabo en el actual régimen de retribuciones.
+
+2. Quienes a la entrada en vigor de este Estatuto disfruten de una jornada reducida o especial, se adaptarán a lo dispuesto en el artículo 59 conforme a las normas transitorias que se aprueben de común acuerdo por las Mesas del Congreso de los Diputados y del Senado en la resolución que establezca los criterios comunes de ambas Cámaras para la aprobación o modificación de las plantillas orgánicas. En todo caso, continuará siendo de aplicación el régimen retributivo existente antes de la entrada en vigor de este Estatuto, en su estructura y cuantías, con la salvedad del aumento porcentual anual general de todo el personal, a aquellos funcionarios que por virtud de estas normas transitorias no pasen a ocupar su puesto en plantilla, con el régimen de jornada que se asigne al mismo conforme a lo establecido en el artículo 59 de este Estatuto. Estos funcionarios no podrán percibir en ningún caso los complementos de jornada y destino.
