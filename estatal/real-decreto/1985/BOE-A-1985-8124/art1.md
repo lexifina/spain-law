@@ -36,6 +36,10 @@ Cuatro.–Cuando se reduzca temporalmente la jornada ordinaria de trabajo en, al
 
 Cinco.–Cuando los trabajadores fijos discontinuos dejen de prestar servicios por haber finalizado o haberse interrumpido la actividad intermitente o de temporada de la Empresa, mediante la presentación de la copia del contrato o de cualquier otro documento que acredite el carácter de la relación laboral y comunicación escrita del empresario acreditando las causas justificativas de la citada finalización o interrupción. En el supuesto de suspensión de la actividad por causas económicas, tecnológicas o por fuerza mayor, se estará a lo previsto en el número 3.
 
+Seis. En los supuestos en los que la situación legal de desempleo se acredite por comunicación, notificación escrita o certificación del empresario, de la Administración empleadora o de la cooperativa, la causa y fecha de efectos de la situación legal de desempleo deberá figurar en el certificado de empresa considerándose documento válido para su acreditación.
+
+> Se añade el apartado 6 por el art. único.1 del Real Decreto 200/2006, de 17 de febrero. Ref. BOE-A-2006-3767
+
 > Se derogan los apartados 1.b) a f) por la disposición derogatoria única.c) de la Ley 45/2002, de 12 de diciembre. Ref. BOE-A-2002-24244
 
 > Se derogan los apartados 1.c) a e) por la disposición derogatoria única.c) del Real Decreto-Ley 5/2002, de 24 de mayo. Ref. BOE-A-2002-10097

@@ -1,21 +1,23 @@
 ## Art. 4. Cuantía de la prestación.
 
-1. La base reguladora de la prestación por desempleo se calculará dividiendo por 180 la suma de las cotizaciones por la contingencia de desempleo correspondientes a los últimos ciento ochenta días cotizados precedentes al día en que se haya producido la situación legal de desempleo o al del que cesó la obligación de cotizar. Para el cálculo de la base reguladora no se computarán las cotizaciones correspondientes al tiempo de abono de la prestación que efectúe la Entidad Gestora o, en su caso, la Empresa.
+1. La base reguladora de la prestación por desempleo se calculará dividiendo por 180 la suma de las cotizaciones por la contingencia de desempleo correspondientes a los últimos 180 días cotizados precedentes al día en que se haya producido la situación legal de desempleo o al del que cesó la obligación de cotizar. Para el cálculo de la base reguladora no se computarán las cotizaciones correspondientes al tiempo de abono de la prestación que efectúe la entidad gestora o, en su caso, la empresa, ni la retribución por horas extraordinarias.
 
 Cuando exista descubierto de cotización durante alguno de los días computables a efectos de determinar la base reguladora, ésta se completará estimando la que hubiera correspondido de haberse cotizado.
 
-2. La cuantía de la prestación se determinará aplicando a la base reguladora el 80 por 100 durante los primeros 180 días, el 70 por 100 del día 181 al 360 y el 60 por 100 a partir del día 361.
+2. La cuantía de la prestación se determinará aplicando a la base reguladora los siguientes porcentajes: el 70 por ciento durante los ciento ochenta primeros días y el 60 por ciento a partir del día 181.
 
-3. A efectos de calcular las cuantías mínima y máxima de la prestación por desempleo, el salario mínimo interprofesional se incrementará en la parte proporcional de dos pagas extraordinarias de treinta días cada una de ellas.
+3. A efectos de calcular las cuantías máxima y mínima de la prestación por desempleo de nivel contributivo, se entenderá que se tienen hijos a cargo, cuando éstos sean menores de veintiséis años o mayores con una incapacidad en grado igual o superior al treinta y tres por ciento, carezcan de rentas de cualquier naturaleza iguales o superiores al salario mínimo interprofesional excluida la parte proporcional de las pagas extraordinarias, y convivan con el beneficiario.
 
-4. La cuantía máxima será proporcional al salario mínimo interprofesional según la siguiente escala:
+La carencia de rentas se presumirá en el caso de no realización de trabajo por cuenta propia, o por cuenta ajena cuya retribución sea igual o superior a la cuantía indicada en el párrafo anterior, sin perjuicio de que en dichos supuestos la entidad gestora pueda solicitar la acreditación de inexistencia de otras fuentes de ingresos.
 
-170 por 100 cuando el trabajador no tenga ningún hijo a su cargo.
+No será necesaria la convivencia cuando el beneficiario declare que tiene obligación de alimentos en virtud de convenio o resolución judicial o que sostiene económicamente al hijo, y cuando lo requiera la entidad gestora el beneficiario deberá aportar la documentación acreditativa que corresponda.
 
-195 por 100 cuando tenga un hijo.
+Durante la percepción de la prestación por desempleo, la cuantía máxima o mínima de la misma se adaptará al incremento o disminución de los hijos a cargo.
 
-220 por 100 cuando tenga dos o más hijos.
+4. La base reguladora diaria de la prestación por desempleo de nivel contributivo de los trabajadores que en los últimos 180 días, precedentes al día en que se haya producido la situación legal de desempleo o al del que cesó la obligación de cotizar, sólo tengan cotizaciones por jornadas reales en el Régimen Especial Agrario de la Seguridad Social, será la base de cotización de la última jornada real realizada por el trabajador.
 
-A estos efectos se entenderá que se tienen hijos a cargo cuando éstos sean menores de veintiséis años o mayores incapacitados, carezcan de rentas de cualquier naturaleza superiores al salario mínimo interprofesional y convivan con el beneficiario. No será necesaria la convivencia cuando exista la obligación de alimentos en virtud de convenio o resolución judicial.
+La base reguladora diaria de la prestación por desempleo de nivel contributivo de los trabajadores que en los últimos 180 días, precedentes al día en que se haya producido la situación legal de desempleo, o al del que cesó la obligación de cotizar, tengan cotizaciones por jornadas reales en el Régimen Especial Agrario de la Seguridad Social y en otros Regímenes, se calculará dividiendo por 180 la suma de las bases de cotización por la contingencia de desempleo de ese número de días, y, para ello, la base de cotización de la última jornada real realizada por el trabajador debe ser multiplicada y dividida por el número de jornadas reales incluidas en el período indicado.
+
+> Se modifica por el art. único.2 del Real Decreto 200/2006 de 17 de febrero. Ref. BOE-A-2006-3767
 
 > Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 134, de 5 de junio de 1985. Ref. BOE-A-1985-10282
