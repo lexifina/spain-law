@@ -13,6 +13,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [no](no.md)
 - [(preambulo)](pr.md)
 - [Artículo primero](ap.md)
+- [Artículo segundo](as.md)
+- [Artículo tercero](at.md)
 - [Artículo cuarto](ac.md)
 - [Artículo quinto](aq.md)
 - [Artículo sexto](as-2.md)
