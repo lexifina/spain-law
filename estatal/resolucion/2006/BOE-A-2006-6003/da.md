@@ -1,0 +1,3 @@
+## Disposición adicional primera. Mermas.
+
+En un plazo inferior a 60 días a contar desde el día siguiente a la publicación de esta resolución, el Grupo de Trabajo de Modificación de las Normas de Gestión Técnica del Sistema establecerá un subgrupo de trabajo para estudio de las repercusiones en las mermas reconocidas de la aplicación del sistema de medición SGERG-88 incluido en el Protocolo 01 «Medición». Las conclusiones de dicho estudio serán tenidas en cuenta en la propuesta anual sobre mermas que debe realizar el Gestor Técnico de la Energía, en cumplimiento de lo establecido en el apartado 2.4.3 «Mermas y autoconsumos» de la Norma de Gestión Técnica NGTS-02.
