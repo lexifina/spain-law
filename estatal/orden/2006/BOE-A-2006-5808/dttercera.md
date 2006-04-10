@@ -1,0 +1,7 @@
+## Disposición transitoria tercera. Cálculo de las liquidaciones para el ejercicio 2006.
+
+1. Los valores y parámetros contemplados en esta orden serán de aplicación desde el 1 de enero de 2006, a los efectos del cálculo del coste de generación definido en el artículo 7 del Real Decreto 1747/2003, de 19 de diciembre, y, consiguientemente, de las liquidaciones a practicar por la Comisión Nacional de Energía a los generadores en virtud del artículo 18 del citado real decreto.
+
+2. Desde el 1 de enero de 2006, los costes de generación en concepto de garantía de potencia serán los resultantes de la aplicación de los valores y parámetros establecidos en esta orden a los datos de efectivo funcionamiento de los grupos de generación y considerando asimismo los valores de energía suministrada tanto a clientes a tarifa como a clientes que hayan ejercido su condición de cualificados.
+
+3. Hasta la fecha de entrada en vigor de la presente orden, si no se dispusiera de datos suficientes de efectivo funcionamiento de los grupos de generación la retribución por garantía de potencia en cada sistema insular y extrapeninsular se calculará, para cada grupo i y para el período, aplicando la potencia disponible de cada grupo en cada hora considerando un factor de disponibilidad de 0,88 constante para todas las horas de la potencia neta y un factor de estacionalidad horario para cada uno de los sistemas insulares y extrapeninsulares igual a la unidad.
