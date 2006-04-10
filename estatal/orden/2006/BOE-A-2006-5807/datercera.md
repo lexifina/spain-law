@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Inscripción en los registros administrativos.
+
+A los efectos de la inscripción en los registros administrativos correspondientes conforme a lo establecido en el Real Decreto 1747/2003, de 19 de diciembre, por el que se regulan los sistemas eléctricos insulares y extrapeninsulares, los titulares de instalación de producción en régimen ordinario, los titulares de instalación de producción en régimen especial, los distribuidores y los comercializadores que deseen operar en los sistemas eléctricos insulares y extrapeninsulares así como los consumidores cualificados que adquieran su energía directamente a través del despacho no tendrán que adherirse a las reglas del mercado de producción de energía eléctrica, desarrolladas mediante el Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica.
+
+No obstante, estos agentes deberán adherirse a las reglas del sistema de liquidaciones y garantías de pago que regirá en los SEIE y suscribir el contrato de adhesión correspondiente a las mismas, así como contar con la certificación del Operador del Sistema del cumplimiento de los requisitos técnicos para poder ser dado de alta en dicho despacho. Estos requisitos serán indispensables para su inscripción definitiva en el Registro correspondiente.
+
+El Ministerio de Industria, Turismo y Comercio, a propuesta del Operador del Mercado y previo informe de la Comisión Nacional de Energía, aprobará el sistema de liquidaciones y garantías de pago a presentar por los agentes.

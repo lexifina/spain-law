@@ -1,0 +1,5 @@
+## Disposición transitoria quinta. Sistema de Liquidaciones y Garantías.
+
+1. El Operador de Mercado dispondrá de un plazo de dos meses desde la entrada en vigor de esta orden para presentar al Ministerio de Industria, Turismo y Comercio la propuesta de reglas para el sistema de liquidaciones y garantías de pago y el contrato de adhesión a las mismas para la actuación en estos sistemas.
+
+2. Los agentes de estos sistemas inscritos provisionalmente en el Registro correspondiente que participen en el despacho económico dispondrán de un plazo de tres meses desde la aprobación de las reglas del sistema de liquidaciones y garantías de pago para adherirse a dicho sistema presentando la correspondiente certificación de adhesión al Ministerio de Industria, Turismo y Comercio y solicitando su inscripción definitiva en el registro junto con la certificación del Operador del Sistema del cumplimiento de los requisitos técnicos para poder ser dado de alta en el despacho a que se refiere la disposición adicional tercera. La no presentación por los agentes de las certificaciones en los plazos citados implicará su baja en el Registro.

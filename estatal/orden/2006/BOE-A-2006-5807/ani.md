@@ -1,0 +1,168 @@
+## ANEXO I
+
+## Valores de los parámetros a, b y c para los grupos de generación existentes a 31 de diciembre de 2001
+
+| Denominación | Tipo | Parámetros curva consumos por funcionamiento |
+| --- | --- | --- |
+| a (te/h) | b (te/h.MW) | c (te/h.MW2) |
+| ALCUDIA 1 | C | 36.092,337 | 1.964,27 | 2,77 |
+| ALCUDIA 2 | C | 36.092,337 | 1.964,27 | 2,77 |
+| ALCUDIA 3 | TG | 31.391,054 | 1.773,42 | 11,58 |
+| ALCUDIA4 | TG | 31.391,054 | 1.773,42 | 11,58 |
+| ALCUDIA 5 | C | 39.925,725 | 1.964,27 | 1,62 |
+| ALCUDIA 6 | C | 39.925,725 | 1.964,27 | 1,62 |
+| FORMENTERA 1 | TG | 19.938,331 | 2.202,48 | 29,24 |
+| IBIZA 3 | D | 3.899,915 | -865,71 | 826,35 |
+| IBIZA 4 | D | 3899,915 | -865,71 | 826,35 |
+| IBIZA 5 | D | 3.465,000 | 1.597,28 | 42,00 |
+| IBIZA 6 | D | 3.465,000 | 1.597,28 | 42,00 |
+| IBIZA 7 | D | 3.465,000 | 1.597,28 | 42,00 |
+| IBIZA 8 | D | 3.465,000 | 1.597,28 | 42,00 |
+| IBIZA 9 | D | 5.647,584 | 1.425,34 | 29,24 |
+| IBIZA 10 | D | 5.647,584 | 1.425,34 | 29,24 |
+| IBIZA 11 | D | 5.647,584 | 1.425,34 | 29,24 |
+| IBIZA 12 | TG | 24.050,692 | 2.242,58 | 14,51 |
+| IBIZA 13 | D | 6.463,500 | 1.305,98 | 21,39 |
+| IBIZA 14 | D | 6.463,500 | 1.305,98 | 21,39 |
+| IBIZA 15 | TG | 19.923,222 | 2.172,40 | 40,81 |
+| IBIZA 16 | D | 9.556,467 | 1.039,20 | 36,41 |
+| IBIZA 17 | D | 9.556,467 | 1.039,20 | 36,41 |
+| MAHON 9 | D | 6.319,165 | 1.329,85 | 22,88 |
+| MAHON 10 | D | 6.319,165 | 1.329,85 | 22,88 |
+| MAHON 11 | D | 6.319,165 | 1.329,85 | 22,88 |
+| MAHON 12 | TG | 31.391,054 | 1.773,42 | 11,58 |
+| MAHON 13 | TG | 31.391,054 | 1.773,42 | 11,58 |
+| SAN JUAN DE DIOS 3 | F | 8.388,391 | 2.859,92 | 0,46 |
+| SAN JUAN DE DIOS 4 | F | 8.388,391 | 2.859,92 | 0,46 |
+| SAN JUAN DE DIOS 5 | F | 8.388,391 | 2.859,92 | 0,46 |
+| SON MOLINAS 1 | TG | 20.788,781 | 2.296,42 | 30,49 |
+| SON MOLINAS 4 | TG | 24.128,890 | 2.271,47 | 11,62 |
+| SON MOLINAS 5 | TG | 24.128,890 | 2.271,47 | 11,62 |
+| SON REUS 1 | TG | 31.391,054 | 1.773,42 | 11,58 |
+| SON REUS 2 | TG | 31.391,054 | 1.773,42 | 11,58 |
+| SON REUS 3 | TG | 31.391,054 | 1.773,42 | 11,58 |
+| SON REUS 4 | TG | 31.391,054 | 1.773,42 | 11,58 |
+| SON REUS 5 | TG | 47.785,860 | 1.684,02 | 7,74 |
+| SON REUS 6 | TG | 47.785,860 | 1.684,02 | 7,74 |
+| SON REUS 7 | TG | 47.785,860 | 1.684,02 | 7,74 |
+
+C = VAPOR CARBÓN
+
+F = VAPOR FUEL
+
+D = DIÉSEL
+
+TG = TURBINA DE GAS
+
+UNELCO GENERACIÓN, S.A.
+
+| Denominación | Tipo | Parámetros curva consumos por funcionamiento |
+| --- | --- | --- |
+| a (te/h) | b (te/h.MW) | c (te/h.MW2) |
+| BCO.TIRAJANA 1 | TG | 29.363,266 | 2.225,92 | 1,36 |
+| BCO.TIRAJANA 2 | TG | 29.363,286 | 2.225,92 | 1,36 |
+| BCO.TIRAJANA 3 | F | 21.254,082 | 2.159,80 | 0,23 |
+| BCO.TIRAJANA 4 | F | 21.254,082 | 2.159,80 | 0,23 |
+| JINAMAR 1 | F | 8.673,483 | 2.942,31 | 0,47 |
+| JINAMAR 2 | D | 1.286,063 | 2.511,43 | 6,13 |
+| JINAMAR 3 | D | 1.286,063 | 2.511,43 | 6,13 |
+| JINAMAR 4 | D | 1.286,083 | 2.511,43 | 6,13 |
+| JINAMAR 5 | F | 8.388,391 | 2.859,92 | 0,46 |
+| JINAMAR 6 | F | 8.388,391 | 2.859,92 | 0,46 |
+| JINAMAR 7 | TG | 2.3287,862 | 2.737,04 | 6,37 |
+| JINAMAR 8 | F | 12.991,345 | 2.677,03 | 0,19 |
+| JINAMAR 9 | F | 12.991,345 | 2.677,03 | 0,19 |
+| JINAMAR 10 | TG | 29.363,266 | 2.225,92 | 1,36 |
+| JINAMAR 11 | TG | 29.363,266 | 2.225,92 | 1,36 |
+| JINAMAR 12 | D | 7.613,794 | 1.381,90 | 15,25 |
+| JINAMAR 13 | D | 7.613,794 | 1.381,90 | 15,25 |
+| SALINAS, LAS 1 | D | 504,221 | 2.248,31 | 23,65 |
+| SALINAS, LAS 2 | D | 504,221 | 2.248,31 | 23,65 |
+| SALINAS, LAS 3 | D | 346,039 | 2.406,12 | 17,63 |
+| SALINAS, LAS 4 | D | 1.588,738 | 2.247,64 | 10,23 |
+| SALINAS, LAS 5 | D | 1.588.738 | 2.247,64 | 10,23 |
+| SALINAS, LAS 6 | D | 7.613.794 | 1.381,90 | 15,25 |
+| SALINAS, LAS 7 | TG | 23.439,541 | 2.526,18 | 3,36 |
+| SALINAS, LAS 8 | TG | 29.363,266 | 2.225,92 | 1,36 |
+| PUNTA GRANDE 2 | D | 1.599.883 | 2.243,21 | 10,66 |
+| PUNTA GRANDE 3 | D | 1.599,883 | 2.243,21 | 10,66 |
+| PUNTA GRANDE 7 | D | 1.599.883 | 2.243,21 | 10,66 |
+| PUNTA GRANDE 9 | TG | 23.411.648 | 2.530,00 | 3,24 |
+| PUNTA GRANDE 11 | D | 3.418,403 | 1.606,25 | 14,55 |
+| PUNTA GRANDE 12 | D | 3.418,403 | 1.606,25 | 14,55 |
+| PUNTA GRANDE 13 | D | 7.613,794 | 1.381,90 | 15,25 |
+| PUNTA GRANDE 14 | TG | 29.363.266 | 2.225,92 | 1,36 |
+| CANDELARIA 3 | D | 1.286,063 | 2.511,43 | 6,13 |
+| CANDELARIA 4 | D | 1.286,063 | 2.511,43 | 6,13 |
+| CANDELARIA 5 | TG | 23.254.276 | 2.742,84 | 6,13 |
+| CANDELARIA 6 | D | 1.286,063 | 2.511,43 | 6,13 |
+| CANDELARIA 7 | F | 8.388,391 | 2.859,92 | 0,46 |
+| CANDELARIA 8 | F | 8.388,391 | 2.859,92 | 0,46 |
+| CANDELARIA 9 | F | 8.388,391 | 2.859,92 | 0,46 |
+| CANDELARIA 10 | F | 8.388,391 | 2.859,92 | 0,46 |
+| CANDELARIA 11 | TG | 29.363,266 | 2.225,92 | 1,36 |
+| CANDELARIA 12 | TG | 29.363,266 | 2.225,92 | 1,36 |
+| GRANADILLA 1 | TG | 29.363,266 | 2.225,92 | 1,36 |
+| GRANADILLA 2 | D | 7.613,794 | 1.381,90 | 15,25 |
+| GRANADILLA 3 | D | 7.613,794 | 1.361,90 | 15,25 |
+| GRANADILLA 4 | F | 21.254.082 | 2.159,80 | 0,23 |
+| GRANADILLA 5 | F | 21.254.082 | 2.159,80 | 0,23 |
+| GUINCHOS, LOS 6 | D | 504.221 | 2.248,31 | 23,65 |
+| GUINCHOS, LOS 7 | D | 504.221 | 2.248,31 | 23,65 |
+| GUINCHOS, LOS 8 | D | 504.221 | 2.248,31 | 23,65 |
+| GUINCHOS, LOS 9 | D | 346.039 | 2.406,12 | 17,63 |
+| GUINCHOS, LOS 10 | D | 1.599.883 | 2.243,21 | 10,66 |
+| GUINCHOS, LOS 11 | TG | 25.849,662 | 2.113,22 | 12,27 |
+| GUINCHOS, LOS 12 | D | 1.599.883 | 2.243,21 | 10,66 |
+| GUINCHOS, LOS 13 | D | 1.203.375 | 2.038,81 | 9,45 |
+| PALMAR, EL 5 | D | 104,773 | 2.697,39 | 194,85 |
+| PALMAR, EL 11 | D | 104,773 | 2.697,39 | 194,85 |
+| PALMAR, EL 12 | D | 373,116 | 1.991,54 | 240,66 |
+| PALMAR, EL 13 | D | 399,908 | 1.895,46 | 186,52 |
+| PALMAR, EL 14 | D | 399,908 | 1.895,46 | 186,52 |
+| PALMAR, EL 15 | D | 630,189 | 1.780,00 | 88,06 |
+| PALMAR, EL 16 | D | 630,189 | 1.780,00 | 88,06 |
+| PALMAR, EL 17 | D | 865,969 | 1.678,83 | 81,52 |
+| PALMAR, EL 18 | D | 865,969 | 1.678,83 | 81,52 |
+| LLANOS BLANCOS 1 | D | 347,817 | 2.189,28 | 57,43 |
+| LLANOS BLANCOS 9 | D | 104,773 | 2.697,39 | 194,85 |
+| LLANOS BLANCOS 11 | D | 413,312 | 1.778,65 | 174,99 |
+| LLANOS BLANCOS 12 | D | 693,677 | 1.762,03 | 127,38 |
+| LLANOS BLANCOS 13 | D | 693,677 | 1.762,03 | 127,38 |
+| LLANOS BLANCOS 14 | D | 622,562 | 1.765,84 | 72,60 |
+| LLANOS BLANCOS 15 | D | 622,562 | 1.765,84 | 72,60 |
+| EL MULATO | H |  |  |  |
+
+F = VAPOR FUEL
+
+D = DIÉSEL
+
+TG = TURBINA DE GAS
+
+H = HIDRÁULICA
+
+ENDESA GENERACIÓN, S.A. (DIVISIÓN CEUTA Y MELILLA)
+
+| Denominación | Tipo | Parámetros curva consumos por funcionamiento |
+| --- | --- | --- |
+| a (te/h) | b (te/h.MW) | c (te/h.MW2) |
+| MELILLA 5 | D | 1.213,643 | 2.232,14 | 19,52 |
+| MELILLA 6 | D | 1.213,643 | 2.232,14 | 19,52 |
+| MELILLA 7 | D | 3.899,915 | -865,71 | 826,35 |
+| MELILLA 8 | D | 3.899,915 | -865,71 | 826,35 |
+| MELILLA 9 | TG | 19.938,331 | 2.202,48 | 29,24 |
+| MELILLA 10 | D | 1.286,063 | 2.511,43 | 6,13 |
+| MELILLA G. Electrógenos (*) | D | 2.060,900 | 0,00 | 0,00 |
+| CEUTA 1 | D | 1.213,643 | 2.232,14 | 19,52 |
+| CEUTA 2 | D | 1.213,643 | 2.232,14 | 19,52 |
+| CEUTA 5 | D | 3.899,915 | -865,71 | 826,35 |
+| CEUTA 6 | D | 1.213,643 | 2.232,14 | 19,52 |
+| CEUTA 7 | D | 1.588,738 | 2.247,64 | 10,23 |
+| CEUTA 8 | D | 1.286,063 | 2.511,43 | 6,13 |
+| CEUTA 9 | D | 1.203,375 | 2.038,81 | 9,45 |
+
+(*) Los datos contemplados en la tabla corresponden a un único grupo electrógeno de 1 MW de potencia.
+
+D = DIÉSEL
+
+TG =TURBINA DE GAS
