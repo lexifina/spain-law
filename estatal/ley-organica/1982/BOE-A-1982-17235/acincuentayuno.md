@@ -1,23 +1,31 @@
-## Artículo cincuenta y uno.
+## Artículo 51.
 
-La Hacienda de la Comunidad Autónoma se constituye por:
+1. Corresponde a la Generalitat la ejecución de la legislación del Estado en las siguientes materias:
 
-a) Los ingresos procedentes de su patrimonio y demás derechos privados, legados, donaciones y subvenciones.
+1.ª Laboral, asumiendo las facultades, competencias y servicios que en este ámbito y a nivel de ejecución ostenta el Estado con respecto a las relaciones laborales, sin perjuicio de la alta inspección de éste, y el fomento activo de la ocupación.
 
-b) Sus propios impuestos, tasas y contribuciones especiales de acuerdo con lo que establezca la ley prevista en el artículo ciento cincuenta y siete, tres, de la Constitución.
+2.ª Propiedad intelectual e industrial.
 
-c) Los rendimientos de los impuestos cedidos por el Estado.
+3.ª Pesos, medidas y contraste de metales.
 
-d) Los recargos sobre los impuestos estatales.
+4.ª Ferias internacionales que se celebren en la Comunitat Valenciana.
 
-e) Un porcentaje de participación en la recaudación total del Estado, incluyendo los rendimientos de los monopolios fiscales.
+5.ª Museos, archivos y bibliotecas de titularidad estatal, cuya ejecución no quede reservada al Estado.
 
-f) Las asignaciones y subvenciones a cargo de los Presupuestos Generales del Estado.
+6.ª Salvamento marítimo y vertidos industriales y contaminantes a las aguas territoriales del Estado correspondientes al litoral valenciano.
 
-g) La emisión de deuda y el recurso al crédito.
+7.ª La autorización de endeudamiento a los entes locales de la Comunitat Valenciana de acuerdo con lo que determine la legislación del Estado.
 
-h) Los ingresos procedentes del Fondo de Compensación Interterritorial.
+8.ª Régimen jurídico de las asociaciones cuyo ámbito principal de actuación sea la Comunitat Valenciana.
 
-i) El producto de las multas y sanciones en el ámbito de su competencia.
+9.ª Las funciones que sobre la zona marítimo terrestre, costas y playas le atribuye la legislación del Estado.
 
-j) Cualquier otro tipo de ingresos que puedan obtenerse en virtud de las leyes.
+10.ª Fondos europeo y estatal de garantía agraria en la Comunitat Valenciana.
+
+11.ª El resto de las materias que sean atribuidas en este Estatuto de forma expresa como competencia de ejecución, y aquellas que con este carácter y mediante Ley Orgánica sean transferidas por el Estado.
+
+2. Corresponde a la Generalitat la gestión de los puertos y aeropuertos con calificación de interés general cuando el Estado no se reserve su gestión directa.
+
+3. La Generalitat podrá colaborar con la Administración General del Estado en la gestión del catastro, a través de los pertinentes convenios.
+
+> Se modifica por el art. 57 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

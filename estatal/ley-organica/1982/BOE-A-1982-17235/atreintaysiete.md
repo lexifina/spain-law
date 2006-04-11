@@ -1,7 +1,13 @@
-## Artículo treinta y siete.
+## Artículo 37.
 
-Uno. En el marco de las normas básicas del Estado, corresponde a la Generalidad Valenciana el desarrollo legislativo y la ejecución del régimen de radiodifusión y televisión en los términos y casos establecidos en la Ley que regule el Estatuto jurídico de la radio y la televisión.
+La competencia de los órganos jurisdiccionales en la Comunitat Valenciana comprende:
 
-Dos. Igualmente le corresponde, en el marco de las normas básicas del Estado, el desarrollo legislativo y la ejecución del régimen de prensa y, en general, de todos los medios de comunicación social.
+1. El conocimiento y resolución de todos los litigios que se sustancien en la Comunitat Valenciana, en los órdenes jurisdiccionales en los que así proceda, en las instancias y grados determinados por la legislación del Estado.
 
-Tres. En los términos establecidos en los apartados anteriores de este artículo, la Generalidad Valenciana podrá regular, crear y mantener su propia televisión, radio y prensa y, en general, todos los medios de comunicación social para el cumplimiento de sus fines.
+2. En materia de Derecho civil foral valenciano, el conocimiento de los recursos de casación y de revisión, como competencia exclusiva del Tribunal Superior de Justicia de la Comunitat Valenciana, así como los recursos de casación para la unificación de la doctrina y el recurso en interés de ley en el ámbito Contencioso-Administrativo cuando afecten exclusivamente a normas emanadas de la Comunitat Valenciana.
+
+3. En materia de Derecho estatal y en los órdenes jurisdiccionales que la legislación estatal establezca, le corresponde al Tribunal Superior de Justicia de la Comunitat Valenciana, por la vía procesal pertinente, la fijación de la doctrina, sin perjuicio de la competencia del Tribunal Supremo.
+
+4. La resolución de las cuestiones de competencia entre órganos jurisdiccionales en la Comunitat Valenciana.
+
+> Se modifica por el art. 41 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

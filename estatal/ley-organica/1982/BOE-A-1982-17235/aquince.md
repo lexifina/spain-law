@@ -1,7 +1,5 @@
-## Artículo quince.
+## Artículo 15.
 
-Uno. El Presidente de la Generalidad será elegido por las Cortes Valencianas de entre sus miembros y nombrado por el Rey. La facultad de presentar candidatos corresponde a los Grupos Parlamentarios.
+Con el fin de combatir la pobreza y facilitar la inserción social, la Generalitat garantiza el derecho de los ciudadanos valencianos en estado de necesidad a la solidaridad y a una renta de ciudadanía en los términos previstos en la Ley.
 
-Dos. Para ser elegido se requiere la mayoría absoluta de las Cortes Valencianas en primera votación. En caso de no alcanzar dicha mayoría, la votación se repetirá cuarenta y ocho horas después, siendo candidatos los dos que habiéndolo sido en la primera, hubieran alcanzado mayor número de votos. En la segunda votación bastará la mayoría simple para ser elegido.
-
-Tres. En caso de renuncia, pérdida de la confianza en los términos del artículo dieciocho del presente Estatuto, dimisión o incapacidad, se procederá a elegir Presidente de acuerdo con el procedimiento del presente artículo.
+> Se modifica por el art. 18 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

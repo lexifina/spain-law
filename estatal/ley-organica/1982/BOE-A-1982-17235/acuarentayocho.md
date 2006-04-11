@@ -1,7 +1,5 @@
-## Artículo cuarenta y ocho.
+## Artículo 48.
 
-Uno. La Comunidad Autónoma Valenciana dispondrá, para el adecuado desarrollo y ejecución de sus competencias, de patrimonio y hacienda propios.
+En el ejercicio de sus competencias, la Generalitat gozará de las potestades y los privilegios propios de la Administración del Estado.
 
-Dos. La actividad financiera de la Comunidad Valenciana no supondrá, en ningún caso, el establecimiento de privilegios económicos o sociales.
-
-Tres. La Generalidad Valenciana gozará del tratamiento fiscal que la legislación establezca para el Estado.
+> Se modifica por el art. 54 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

@@ -1,42 +1,20 @@
-## Artículo cincuenta y dos.
+## Artículo 52.
 
-Uno. Se cede a la Generalidad Valenciana el rendimiento de los siguientes tributos:
+1. De acuerdo con las bases y la ordenación de la actividad económica general corresponde a la Generalitat, en los términos que disponen los artículos 38, 131 y los números 11 y 13 del apartado 1 del artículo 149 de la Constitución Española, la competencia exclusiva de las siguientes materias:
 
-a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial, con el límite del 33 por 100.
+1.ª Planificación de la actividad económica de la Comunitat Valenciana.
 
-b) Impuesto sobre el Patrimonio.
+2.ª Industria, sin perjuicio de lo que determinan las normas del Estado por razones de seguridad, sanitarias o de interés general y las normas relacionadas con las industrias sujetas a la legislación de minas, hidrocarburos y energía nuclear.
 
-c) Impuesto sobre Sucesiones y Donaciones.
+3.ª El desarrollo y ejecución en su territorio de los planes establecidos por el Estado para la reestructuración de sectores industriales y económicos.
 
-d) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+4.ª Sector público económico de la Generalitat, en cuanto no esté contemplado por otras normas del Estatuto.
 
-e) Los Tributos sobre el Juego.
+2. La Generalitat, en el ejercicio de sus competencias, y sin perjuicio de la coordinación general que corresponde al Estado, fomentará el sistema valenciano de ciencia, tecnología y empresa promoviendo la articulación y cooperación entre las universidades, organismos públicos de investigación, red de institutos tecnológicos de la Comunitat Valenciana y otros agentes públicos y privados, con la finalidad estatutaria de I+D+I y con el fin de fomentar el desarrollo tecnológico y la innovación, con apoyo del progreso y la competitividad empresarial de la Comunitat Valenciana. Se regulará mediante Ley de Les Corts.
 
-f) El Impuesto sobre el Valor Añadido, con carácter parcial, con el límite del 35 por 100.
+3. La Generalitat participará asimismo en la gestión del sector público económico estatal, en los casos y actividades en los que proceda.
 
-g) El Impuesto Especial sobre la Cerveza, con carácter parcial, con el límite del 40 por 100.
-
-h) El Impuesto Especial sobre el Vino y Bebidas Fermentadas, con carácter parcial, con el límite del 40 por 100.
-
-i) El Impuesto Especial sobre Productos Intermedios, con carácter parcial, con el límite del 40 por 100.
-
-j) El Impuesto Especial sobre el Alcohol y Bebidas Derivadas, con carácter parcial, con el límite del 40 por 100.
-
-k) El Impuesto Especial sobre Hidrocarburos, con carácter parcial, con el límite del 40 por 100.
-
-l) El Impuesto Especial sobre las Labores del Tabaco, con carácter parcial, con el límite del 40 por 100.
-
-m) El Impuesto Especial sobre la Electricidad.
-
-n) El Impuesto Especial sobre Determinados Medios de Transporte.
-
-ñ) El Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
-
-La eventual supresión o modificación por el Estado de alguno de los tributos antes señalados implicará la extinción o modificación de la cesión.
-
-Dos. El contenido de este artículo se podrá modificar mediante acuerdo del Gobierno con la Comunidad Autónoma, que será tramitado por el Gobierno como proyecto de ley. A estos efectos, la modificación del presente artículo no se considerará modificación del Estatuto.
-
-Tres. El alcance y condiciones de la cesión se establecerán por la Comisión Mixta mencionada en la disposición transitoria tercera que, en todo caso, lo referirá a rendimientos de la Comunidad Autónoma. El Gobierno tramitará el acuerdo de la Comisión como proyecto de ley, o, si concurrieran razones de urgencia, como Decreto-ley, en el plazo de seis meses a partir de la constitución de las primeras Cortes Valencianas.
+> Se modifica por el art. 58 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.
 
 > Se modifica el apartado 1 por el art. 1 de la Ley 24/2002, de 1 de julio. Ref. BOE-A-2002-13003.
 

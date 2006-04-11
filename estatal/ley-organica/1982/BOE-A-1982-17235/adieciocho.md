@@ -1,5 +1,5 @@
-## Artículo dieciocho.
+## Artículo 18.
 
-El «Consell» responde políticamente de forma solidaria ante las Cortes Valencianas, sin perjuicio de la responsabilidad directa de sus miembros por su gestión.
+Desde el reconocimiento social y cultural del sector agrario valenciano y de su importante labor en la actividad productiva, en el mantenimiento del paisaje, del territorio, del medio ambiente, de la cultura, de las tradiciones y costumbres más definitorias de la identidad valenciana, la Generalitat adoptará las medidas políticas, fiscales, jurídicas y legislativas que garanticen los derechos de este sector, su desarrollo y protección, así como de los agricultores y ganaderos.
 
-Su Presidente, previa deliberación por el órgano colegiado, puede plantear ante las Cortes Valencianas la cuestión de confianza sobre su programa, una decisión política o un proyecto de ley. Dicha moción se entenderá aprobada cuando obtenga la mayoría simple. Si la misma tuviere por objeto un proyecto de ley, éste se entenderá aprobado según el texto enviado por el Consell.
+> Se modifica por el art. 21 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

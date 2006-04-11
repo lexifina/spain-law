@@ -1,25 +1,5 @@
-## Artículo once.
+## Artículo 11.
 
-Son funciones de las Cortes Valencianas:
+La Generalitat, conforme a la Carta de Derechos Sociales, velará en todo caso para que las mujeres y los hombres puedan participar plenamente en la vida laboral, social, familiar y política sin discriminaciones de ningún tipo y garantizará que lo hagan en igualdad de condiciones. A estos efectos se garantizará la compatibilidad de la vida familiar y laboral.
 
-a) Aprobar los presupuestos de la Generalidad Valenciana y las emisiones de Deuda Pública.
-
-b) Controlar la acción del Gobierno valenciano.
-
-c) Elegir al Presidente de la Generalidad Valenciana.
-
-d) Exigir, en su caso, la responsabilidad política del Presidente y del Gobierno.
-
-e) Ejercer el control parlamentario sobre la acción de la Administración situada bajo la autoridad de la Generalidad Valenciana. A tal efecto, podrían crearse en su caso, comisiones especiales de investigación y atribuirse esta facultad a las comisiones permanentes.
-
-f) Presentar a la Mesa del Congreso proposiciones de ley y a nombrar a los Diputados encargados de defenderlas.
-
-g) Solicitar del Gobierno del Estado la adopción de proyectos de ley.
-
-h) Interponer recursos de inconstitucionalidad, así como personarse ante el Tribunal Constitucional.
-
-i) Aprobar, a propuesta del Gobierno valenciano, los convenios y acuerdos de cooperación con el Estado y las demás Comunidades Autónomas.
-
-j) Designar a los Senadores que han de representar a la Comunidad Autónoma Valenciana, según lo previsto en el artículo sesenta y nueve coma cinco de la Constitución.
-
-k) Cuantas otras le atribuyan las leyes y el presente Estatuto.
+> Se modifica por el art. 14 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

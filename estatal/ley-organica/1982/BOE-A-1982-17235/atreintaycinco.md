@@ -1,3 +1,7 @@
-## Artículo treinta y cinco.
+## Artículo 35.
 
-Es de la competencia plena de la Generalidad Valenciana la regulación y administración de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, en el ámbito de sus competencias, sin perjuicio de lo dispuesto en el artículo veintisiete de la Constitución y Leyes Orgánicas que conforme al apartado uno del artículo ochenta y uno de la misma, lo desarrollen de las facultades que atribuye al Estado el número treinta del apartado uno del artículo ciento cuarenta y nueve de la Constitución y de la alta inspección necesaria para su cumplimiento y garantía.
+1. A instancia de la Generalitat, el órgano competente convocará los concursos y oposiciones para cubrir las plazas vacantes de Magistrados, Jueces, Secretarios Judiciales y demás personal al servicio de la Administración de Justicia, de acuerdo con lo que dispone la Ley Orgánica del Poder Judicial. En esta resolución se tendrá en cuenta su especialización en el Derecho civil foral valenciano y el conocimiento del idioma valenciano.
+
+2. Corresponde íntegramente al Estado, de conformidad con las leyes generales, el derecho de gracia y la organización y el funcionamiento del Ministerio Fiscal.
+
+> Se modifica por el art. 39 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

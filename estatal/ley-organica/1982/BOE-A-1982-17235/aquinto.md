@@ -1,5 +1,7 @@
-## Artículo quinto.
+## Artículo 5.
 
-Uno. La tradicional señera de la Comunidad Valenciana está compuesta por cuatro barras rojas sobre fondo amarillo, coronadas sobre franja azul junto al asta.
+1. La sede de la Generalitat será el palacio de este nombre, en la ciudad de Valencia.
 
-Dos. Una ley de las Cortes Valencianas podrá determinar la simbología heráldica propia de la Comunidad que integra las tres provincias de Castellón, Valencia y Alicante y su incorporación a la señera, sobre las barras.
+2. Las instituciones de la Generalitat podrán establecerse y celebrar reuniones en cualquiera de los municipios de la Comunitat Valenciana, de acuerdo con lo que la Ley disponga.
+
+> Se modifica por el art. 6 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

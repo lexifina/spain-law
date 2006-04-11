@@ -1,5 +1,5 @@
-## Artículo cuarenta y cinco.
+## Artículo 45.
 
-Uno. Los Municipios estarán regidos por Ayuntamientos de carácter igual y representativo, elegidos por sufragio universal, libre, directo y secreto, en la forma que establezca la ley.
+En materia de competencia exclusiva, el Derecho Valenciano es el aplicable en el territorio de la Comunitat Valenciana, con preferencia sobre cualquier otro. En defecto del Derecho propio, será de aplicación supletoria el Derecho Estatal.
 
-Dos. Las Cortes Valencianas impulsarán la autonomía municipal, pudiendo delegar la ejecución de las funciones y competencias en aquellos Ayuntamientos que, por sus medios, puedan asumirlas, asegurando la debida coordinación y eficacia en la prestación de los servicios.
+> Se modifica por el art. 51 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

@@ -1,3 +1,5 @@
-## Artículo segundo.
+## Artículo 2.
 
-Los derechos, deberes y libertades de los valencianos son los establecidos o reconocidos por la Constitución y el presente Estatuto. Corresponde a la Generalidad Valenciana, en el ámbito de sus competencias promover las condiciones para que la libertad e igualdad de los ciudadanos y los grupos en que se integran sean reales y efectivas; eliminar los obstáculos que impidan o dificulten su plenitud, fomentar el desarrollo de las peculiaridades del Pueblo Valenciano y facilitar la participación de los valencianos en la vida política económica, cultural y social.
+El territorio de la Comunitat Valenciana comprende el de los municipios integrados en las provincias de Alicante, Castellón y Valencia.
+
+> Se modifica por el art. 3 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

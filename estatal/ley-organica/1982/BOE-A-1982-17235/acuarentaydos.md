@@ -1,5 +1,7 @@
-## Artículo cuarenta y dos.
+## Artículo 42. El Comité Econòmic i Social.
 
-Uno. La Generalidad Valenciana podrá celebrar convenios de colaboración para la gestión y prestación de servicios correspondientes a materias de su exclusiva competencia, tanto con el Estado como con otras Comunidades Autónomas. Dichos acuerdos deberán ser aprobados por las Cortes Valencianas y comunicados a las Cortes Generales, entrando en vigor a los treinta días de su publicación.
+El Comité Econòmic i Social es el órgano consultivo del Consell y, en general, de las instituciones públicas de la Comunitat Valenciana, en materias económicas, sociolaborales y de empleo.
 
-Dos. Para el establecimiento de acuerdos de cooperación con otras Comunidades Autónomas, se requerirá además de lo previsto en el apartado anterior, la autorización de las Cortes Generales.
+En cuanto al procedimiento del nombramiento de sus miembros, funciones, facultades, estatuto y duración del mandato, habrá que ajustarse a lo que disponga la Ley de Les Corts que lo regule.
+
+> Se modifica por el art. 47 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

@@ -1,7 +1,9 @@
-## Artículo cincuenta y ocho.
+## Artículo 58.
 
-Uno. La Generalidad Valenciana, en el ejercicio de las competencias que le vienen atribuidas por el presente Estatuto, podrá constituir entidades y organismos para el fomento del pleno empleo y el desarrollo económico y social.
+1. Los Notarios y Registradores de la Propiedad y Mercantiles en la Comunitat Valenciana serán nombrados por el Consell, de acuerdo con las leyes del Estado.
 
-Dos. La Generalidad Valenciana está facultada, mediante Ley de sus Cortes, para constituir un sector público propio que se coordinará con el estatal.
+2. Para la provisión de Notarías, los candidatos serán admitidos en igualdad de derechos, tanto si ejercen en el territorio de la Comunitat Valenciana como si lo hacen en el resto de España. En ningún caso podrá establecerse la excepción de naturaleza o de residencia. Los Notarios deberán garantizar el uso del valenciano en el ejercicio de su función en el ámbito de la Comunitat Valenciana de conformidad con las normas del presente Estatuto. Igualmente, garantizarán la aplicación del derecho civil foral valenciano que deberán conocer.
 
-Tres. En los términos y número que establezca la legislación general del Estado, la Comunidad Autónoma Valenciana propondrá las personas que han de formar parte de los órganos de administración de aquellas Empresas públicas de titularidad estatal implantadas en su territorio.
+3. El Consell participará también en la fijación de demarcaciones correspondientes a los registros de la propiedad y mercantiles, demarcaciones notariales y número de notarios, así como de las oficinas liquidadoras con cargo a los Registradores de la Propiedad, Mercantiles y de Bienes Muebles, de acuerdo con lo que prevén las leyes del Estado.
+
+> Se modifica por el art. 64 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

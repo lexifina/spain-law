@@ -1,11 +1,9 @@
-## Artículo diecisiete.
+## Artículo 17.
 
-Uno. El Consell, es el órgano colegiado del Gobierno valenciano, que ostenta la potestad ejecutiva y reglamentaria. En particular, dirige la Administración, situada bajo la autoridad de la Generalidad Valenciana.
+1. Se garantiza el derecho de los valencianos y valencianas a disponer del abastecimiento suficiente de agua de calidad. Igualmente, se reconoce el derecho de redistribución de los sobrantes de aguas de cuencas excedentarias atendiendo a criterios de sostenibilidad de acuerdo con la Constitución y la legislación estatal.
 
-Dos. Sus miembros, cuyo número no excederá de diez con funciones ejecutivas, además del Presidente de la Generalidad Valenciana, son designados por éste sus funciones, composición, forma de nombramiento y cese de sus miembros, serán regulados por ley de las Cortes Valencianas.
+Los ciudadanos y ciudadanas valencianos tienen derecho a gozar de una cantidad de agua de calidad, suficiente y segura, para atender a sus necesidades de consumo humano y para poder desarrollar sus actividades económicas y sociales de acuerdo con la Ley.
 
-Tres. La sede del Gobierno valenciano estará en la ciudad de Valencia, y sus organismos, servicios y dependencias podrán establecerse en diferentes lugares del territorio de la Comunidad, de acuerdo con criterios de descentralización y coordinación de funciones.
+2. Toda persona tiene derecho a gozar de una vida y un medio ambiente seguro, sano y ecológicamente equilibrado. La Generalitat protegerá el medio ambiente, la diversidad biológica, los procesos ecológicos y otras áreas de especial importancia ecológica.
 
-Cuatro. Todas las normas, disposiciones y actos emanados del Gobierno valenciano, que por su naturaleza lo requieran, serán publicados en el «Diario Oficial de la Generalidad Valenciana». Esta publicación será suficiente para su validez y entrada en vigor.
-
-En relación con la publicación en el «Boletín Oficial del Estado» se estará a lo que disponga la correspondiente norma estatal.
+> Se modifica por el art. 20 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

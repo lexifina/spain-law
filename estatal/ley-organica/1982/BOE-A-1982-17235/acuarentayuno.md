@@ -1,5 +1,9 @@
-## Artículo cuarenta y uno.
+## Artículo 41. L'Acadèmia Valenciana de la Llengua.
 
-Los Notarios y los Registradores de la Propiedad y Mercantiles serán nombrados por el «Consell», de conformidad con las leyes del Estado.
+L' Acadèmia Valenciana de la Llengua, institución de la Generalitat de carácter público, tiene por función determinar y elaborar, en su caso, la normativa lingüística del idioma valenciano.
 
-Para la provisión de Notarías, los candidatos serán admitidos en igualdad de derechos, tanto si ejercen en el territorio de la Comunidad Autónoma Valenciana como en el resto de España. En ningún caso podrá establecerse la excepción de naturaleza o vecindad. También participarán en la fijación de demarcaciones correspondientes a los registros de la propiedad y mercantiles, demarcaciones notariales y número de notarios, de acuerdo con lo previsto en las Leyes del Estado.
+La normativa lingüística de L'Acadèmia Valenciana de la Llengua será de aplicación obligatoria en todas las administraciones públicas de la Comunitat Valenciana.
+
+En cuanto al procedimiento del nombramiento de sus miembros, funciones, facultades, estatuto y duración del mandato, habrá que ajustarse a lo que disponga la Ley de Les Corts que lo regule.
+
+> Se modifica por el art. 46 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

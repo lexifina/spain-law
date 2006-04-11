@@ -1,9 +1,23 @@
-## Artículo sesenta y uno.
+## Artículo 61.
 
-Uno. La iniciativa de reforma del Estatuto corresponde al «Consell», a la quinta parte de los miembros de las Cortes Valencianas o a las Cortes Generales. La reforma del Estatuto deberá ser aprobada por las Cortes Valencianas, mediante acuerdo adoptado por tres quintas partes de sus miembros, salvo que sólo tuviera por objeto la ampliación del ámbito competencial, en cuyo caso bastará la mayoría simple de las Cortes Valencianas.
+1. La Comunitat Valenciana tendrá una Delegación en Bruselas como órgano administrativo de representación, defensa y promoción de sus intereses multisectoriales ante las instituciones y órganos de la Unión Europea.
 
-Dos. Los trámites posteriores a la aprobación por las Cortes Valencianas de la modificación pretendida serán los mismos que se requirieron para la aprobación del presente Estatuto.
+2. Asimismo, la Generalitat, a través del Organismo de Promoción de la Comunitat Valenciana, abrirá una red de oficinas de promoción de negocios en todos aquellos países y lugares donde crea que debe potenciarse la presencia de las empresas valencianas.
 
-Tres. Si la reforma no obtuviera las mayorías previstas para cada caso en el apartado uno del presente artículo, o los requisitos exigidos para su aprobación, no se podrá iniciar nuevo procedimiento de reforma sobre el mismo punto durante el mismo mandato de las Cortes Valencianas.
+3. La Comunitat Valenciana, como región de la Unión Europea, sin perjuicio de la legislación del Estado:
 
-Cuatro. Si las Cortes Generales no aprueban la reforma propuesta, se devolverá a las Cortes Valencianas para nueva deliberación, acompañando mensaje motivado sobre el punto o puntos que hubieren ocasionado su devolución y proponiendo soluciones alternativas.
+a) Participará en los mecanismos de control del principio de subsidiariedad previsto en el Derecho de la Unión Europea.
+
+b) Tiene derecho a participar en todos los procesos que establezca el Estado para configurar la posición española en el marco de las instituciones europeas, cuando estén referidas a competencias propias de la Comunitat Valenciana. También a ser oída en aquellos otros que, incluso sin ser de su competencia, le afecten directa o indirectamente.
+
+c) Tendrá al President de la Generalitat como representante de la Comunitat Valenciana en el Comité de las Regiones.
+
+d) Ostenta la competencia exclusiva para el desarrollo y ejecución de las normas y disposiciones europeas en el ámbito de sus competencias.
+
+e) Podrá participar, de forma especial, en el marco de la Asociación Euromediterránea.
+
+4. La Generalitat, igualmente, podrá formar parte y participar en organizaciones e instituciones supranacionales de carácter regional.
+
+5. Una Ley creará el Comité Valenciano para los Asuntos Europeos, órgano de carácter consultivo, encargado de asesorar y realizar estudios y propuestas para mejorar la participación en las cuestiones europeas y plantear acciones estratégicas de la Comunitat Valenciana.
+
+> Se modifica por el art. 67 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

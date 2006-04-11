@@ -1,9 +1,19 @@
-## Artículo cincuenta y cinco.
+## Artículo 55.
 
-Uno. Corresponde al Gobierno valenciano la elaboración del presupuesto de la Generalidad, el cual debe ser sometido a las Cortes Valencianas para su aprobación. Toda proposición o enmienda que suponga un aumento de los créditos o disminución de los ingresos presupuestarios, requerirá la conformidad del Gobierno valenciano para su tramitación.
+1. La Generalitat, mediante una Ley de Les Corts, creará un Cuerpo único de la Policía Autónoma de la Comunitat Valenciana en el marco del presente Estatuto y de la Ley Orgánica que determina el artículo 149.1.29.ª de la Constitución Española.
 
-Dos. El presupuesto de la Generalidad será único y se elaborará con criterios homogéneos con los del Estado. El presupuesto tiene carácter anual.
+2. La Policía Autónoma de la Comunitat Valenciana ejercerá las siguientes funciones:
 
-Tres. El presupuesto incluirá necesariamente la totalidad de los ingresos y gastos de los organismos y, en su caso, los beneficios fiscales que afecten a los tributos propios establecido por las Cortes Valencianas.
+a) La protección de las personas y bienes y el mantenimiento de la seguridad pública.
 
-Cuatro. El presupuesto debe ser presentado a las Cortes Valencianas, al menos con dos meses de antelación al comienzo del correspondiente ejercicio. Si aquél no estuviera aprobado el primer día del ejercicio, se entenderá prorrogado el del ejercicio anterior hasta la aprobación.
+b) La vigilancia y protección de los edificios e instalaciones de la Generalitat.
+
+c) El resto de funciones que determina la Ley Orgánica a la que hace referencia el punto 1 de este artículo.
+
+3. Es competencia de la Generalitat, en el marco de la Ley Orgánica a que se refiere el artículo 149.1.29.ª de la Constitución, el mando supremo de la Policía Autónoma y la coordinación de la actuación de las policías locales de la Comunitat Valenciana, sin perjuicio de su dependencia de las autoridades municipales.
+
+4. La Policía Judicial se organizará al servicio, y bajo la vigilancia, de la Administración de Justicia de acuerdo con lo que regulan las Leyes procesales.
+
+5. De acuerdo con la legislación estatal, se creará la Junta de Seguridad que, bajo la Presidencia del President de la Generalitat y con representación paritaria del Estado y de la Generalitat, coordinará las actuaciones de la Policía Autónoma y de los Cuerpos y Fuerzas de Seguridad del Estado.
+
+> Se modifica por el art. 61 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

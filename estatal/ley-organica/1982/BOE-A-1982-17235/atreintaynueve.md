@@ -1,9 +1,7 @@
-## Artículo treinta y nueve.
+## Artículo 39. La Sindicatura de Comptes.
 
-En relación a la Administración de Justicia, exceptuada la militar, corresponde a la Generalidad Valenciana:
+La Sindicatura de Comptes es el órgano al que corresponde el control externo económico y presupuestario de la actividad financiera de la Generalitat, de los entes locales comprendidos en su territorio y del resto del sector público valenciano, así como de las cuentas que lo justifiquen.
 
-Primera. Ejercer todas las facultades que las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial reconozcan o atribuyan al Gobierno del Estado.
+En cuanto al procedimiento del nombramiento de sus miembros, funciones, facultades, estatuto y duración del mandato, habrá que ajustarse a lo que disponga la Ley de Les Corts que lo regule.
 
-Segunda. Fijar la delimitación de las demarcaciones territoriales de los órganos jurisdiccionales en su territorio y la localización de su capitalidad.
-
-tercera. Coadyuvar en la organización de los Tribunales consuetudinarios y tradicionales y en especial en el Tribunal de las Aguas de la Vega Valenciana, y en la instalación de los Juzgados, con sujeción, en todo caso, a lo dispuesto en la Ley Orgánica del Poder Judicial.
+> Se modifica por el art. 44 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.
