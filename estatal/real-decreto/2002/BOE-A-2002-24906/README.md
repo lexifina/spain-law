@@ -160,3 +160,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO VIII](cviii.md)
 - [Artículo 120](a120.md)
 - [Disposición transitoria única](dtunica.md)
+- [Disposición transitoria primera](dtprimera.md)
+- [Disposición transitoria segunda](dtsegunda.md)
