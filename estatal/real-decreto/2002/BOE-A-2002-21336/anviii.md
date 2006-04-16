@@ -16,7 +16,7 @@ d) Lechones de 10 a 20 kilos/peso vivo: al importe del lechón de menos de 10 ki
 
 e) Animales de más de 20 y menos de 90 kilos/peso vivo: al importe del lechón de 20 kilos calculado como se indica en el párrafo anterior, se le incrementará el importe de los kilogramos que excedan de 20. Dicho importe se calculará teniendo en cuenta la siguiente fórmula:
 
-I = F - D × K
+I = [(F - D)/70] x K
 
 en la que:
 
@@ -75,3 +75,5 @@ De 155 en adelante: 201,94 euros.
 5.º Los animales inscritos en libros genealógicos percibirán un incremento del 10 por 100.
 
 2. Una vez realizado el cálculo al que se refiere el apartado 1 de este anexo, dichos valores podrán ser incrementados hasta un máximo de un 10 por 100 para aquellos animales cuyos propietarios puedan acreditar su pertenencia a una Agrupación de Defensa Sanitaria Ganadera reconocida por la Comunidad Autónoma de que se trate, de acuerdo con lo dispuesto en el Real Decreto 1880/1996, de 2 de agosto, por el que se regulan las Agrupaciones de Defensa Sanitaria Ganaderas.
+
+> Se modifica el apartado 1.A).e) por el art. único de la Orden APA/1095/2006, de 11 de abril. Ref. BOE-A-2006-6789.
