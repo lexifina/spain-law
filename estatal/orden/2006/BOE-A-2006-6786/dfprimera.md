@@ -1,0 +1,5 @@
+## Disposición final primera. Habilitación a la CNMV.
+
+1. Se habilita a la CNMV para dictar las disposiciones precisas en desarrollo y ejecución de esta Orden y, en concreto, para determinar los requisitos de especialidad y profesionalidad que han de reunir los miembros industriales, previo informe del Ministerio de Industria, Turismo y Comercio, así como, en su caso, los requisitos adicionales de solvencia y la forma, el contenido y los plazos en que éstos deberán remitir información contable a la CNMV y a los organismos rectores de los mercados, así como las particularidades aplicables a los miembros industriales no residentes.
+
+2. Asimismo, se habilita a la CNMV para establecer y modificar, previo informe del Instituto de Contabilidad y Auditoría de Cuentas, los registros que deberán llevar las Sociedades Rectoras y las normas contables y modelos a los que deberán ajustar sus estados financieros, información estadística y cuentas anuales. Del mismo modo, la Comisión Nacional del Mercado de Valores podrá disponer la frecuencia y el detalle con que los correspondientes datos deberán serle suministrados o hacerse públicos con carácter general.
