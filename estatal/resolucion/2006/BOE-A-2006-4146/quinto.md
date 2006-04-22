@@ -36,8 +36,10 @@ e) Acordar la baja de beneficiarios cuando se produzca por alguna de las siguien
 
 3. Por baja o renuncia del titular de que dependan.
 
-4. Por pérdida de las condiciones exigidas.
+4. Por pérdida de las condiciones exigidas, excepto en los supuestos previstos en el apartado Primero d) de la presente Resolución.
 
 f) Acordar la baja de los alumnos de los centros docentes militares de formación, centros militares de formación y centros docentes de formación de la Guardia Civil, cuando causen baja en dichos centros.
 
 g) Registrar las variaciones que se produzcan respecto a los titulares y beneficiarios pertenecientes a su colectivo.
+
+> Se modifica la letra e).4 por el art. único de la Resolución 4B0/38020/2006, de 12 de abril. Ref. BOE-A-2006-7143.
