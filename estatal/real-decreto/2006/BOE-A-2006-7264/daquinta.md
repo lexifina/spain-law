@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Ejercicio de funciones atribuidas en convenios.
+
+Para el ejercicio de las funciones atribuidas en virtud de los convenios regulados en el Capítulo I del Título IV de este real decreto, la entidad colaboradora podrá solicitar a la Dirección General del Catastro que formule encargo a la Sociedad Estatal de Gestión Inmobiliaria de Patrimonio, Sociedad Anónima (SEGIPSA) en los términos previstos en la disposición adicional décima de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas. En estos casos, los gastos que se originen serán sufragados por la entidad colaboradora en los términos, plazos y condiciones que se determinen por orden ministerial.

@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Inscripción de trasteros y plazas de estacionamiento.
+
+No será obligatoria la inscripción catastral de los trasteros y plazas de estacionamiento en pro indiviso a que se refiere el artículo 22, cuando hubieran sido adscritos al uso y disfrute exclusivo y permanente de un titular mediante escritura pública formalizada con anterioridad a la entrada en vigor de este real decreto. La comunidad, con la conformidad de todos los comuneros, o cada uno de ellos individualmente, podrá solicitar voluntariamente su incorporación al Catastro Inmobiliario, con efectos a partir del día siguiente al de la solicitud.
