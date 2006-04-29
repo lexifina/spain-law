@@ -2,6 +2,8 @@
 
 [El Reglamento se publicó en suplemento aparte. Los Anexos se han omitido. Consúltese el PDF oficial del suplemento.]
 
+> Véase la Orden PRE/1244/2006, de 20 de abril, por la que se modifican los anexos I y V. Ref. BOE-A-2006-7581.
+
 > Véase el Real Decreto 99/2003, de 24 de enero, por el que se modifica el anexo XI. Ref. BOE-A-2003-2211.
 
 > Véase la Orden PRE/2317/2002, de 16 de septiembre, por la que se modifican los anexos I, II, III, IV, V, VI, VII y VIII. Ref. BOE-A-2002-18438.
