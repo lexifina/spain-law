@@ -39,6 +39,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo dieciocho bis](adieciochobis.md)
 - [Artículo dieciocho ter](adieciochoter.md)
 - [Artículo dieciocho quáter](adieciochoquater.md)
+- [Artículo dieciocho quinquies](adieciochoquinquies.md)
 - [Artículo diecinueve](adiecinueve.md)
 - [Artículo veinte](aveinte.md)
 - [Artículo veintiuno](aveintiuno.md)

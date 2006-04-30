@@ -6,4 +6,8 @@
 
 En particular, en estos territorios la defensa contra incendios forestales será responsabilidad del Ministerio de Defensa, con el asesoramiento técnico del Ministerio de Medio Ambiente.
 
-3. El territorio forestal de titularidad estatal incluido en los parques nacionales se administra en el régimen de cogestión establecido en la Ley 41/1997, de 5 de noviembre, por la que se modifica la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres.
+Lo dispuesto en el artículo 58.3 no será de aplicación en estos territorios.
+
+3. Lo dispuesto en esta ley se entiende sin perjuicio de las normas específicas aplicables a los montes afectados al ejercicio de competencias estatales o adscritos a servicios públicos gestionados por la Administración del Estado.
+
+> Se añade el párrafo tercero al apartado 2 y se modifica el apartado 3 por el art. único.37.1 y 2 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.

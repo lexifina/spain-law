@@ -1,3 +1,5 @@
 ## Disposición final tercera. Habilitación normativa.
 
-El Gobierno, en el ámbito de sus competencias, dictará las disposiciones necesarias para el desarrollo de esta ley. Las Instrucciones básicas para la ordenación y aprovechamiento de montes referidas en el artículo 32 se elaborarán con las comunidades autónomas y se aprobarán en el plazo de un año desde la entrada en vigor de esta ley.
+El Gobierno y las Comunidades Autónomas, en el ámbito de sus respectivas competencias, dictarán las disposiciones necesarias para el desarrollo de esta ley.
+
+> Se modifica por el art. único.39 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
