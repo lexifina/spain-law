@@ -1,3 +1,5 @@
 ## Disposición adicional vigésima cuarta. Incompatibilidades.
 
-La incompatibilidad para el ejercicio simultáneo de funciones de cargo público a que se refiere el apartado 2 del artículo 181 de la Ley 33/2003, de 3 de noviembre de Patrimonio de las Administraciones Públicas, no resultará de aplicación a los Presidentes de las sociedades a que se refiere el artículo 166.2 de la citada ley cuando el Consejo de Ministros a propuesta del Ministro de tutela declare la compatibilidad para el ejercicio de las funciones de presidente de una sociedad y de las funciones atribuidas a un alto cargo de la Administración General del Estado y de las entidades de derecho público dependientes de aquella, en el caso que la naturaleza de los fines de la sociedad guarde conexión con las competencias legalmente atribuidas a dicho alto cargo.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.c) de la Ley 5/2006, de 10 de abril. Ref. BOE-A-2006-6473.

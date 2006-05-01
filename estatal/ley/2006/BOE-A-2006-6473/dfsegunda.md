@@ -1,0 +1,5 @@
+## Disposición final segunda. Ley de Contratos de las Administraciones Públicas.
+
+Se añade una nueva letra l) al artículo 20 del Texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto Legislativo 2/2000, de 16 de junio, en los siguientes términos:
+
+«Haber contratado a personas respecto de las que se haya publicado en el Boletín Oficial del Estado el incumplimiento a que se refiere el artículo 18.6 de la Ley 5/2006, de regulación de los conflictos de intereses de los miembros del Gobierno y de los altos cargos de la Administración General del Estado, por haber pasado a prestar servicios en empresas o sociedades privadas directamente relacionadas con las competencias del cargo desempeñado durante los dos años siguientes a la fecha de cese en el mismo. La prohibición de contratar se mantendrá durante el tiempo que permanezca dentro de la organización de la empresa la persona contratada con el límite máximo de dos años a contar desde el cese como alto cargo.»
