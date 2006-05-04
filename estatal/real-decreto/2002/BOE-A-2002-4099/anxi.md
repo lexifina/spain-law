@@ -90,39 +90,6 @@ Definición punto 53 del anexo I. Medición: punto 53 de la parte B del anexo II
 
 Definición: punto 57 del anexo I. Medición: punto 57 de la parte B del anexo III.
 
-| CUADRO DE VALORES LIMITE |
-| --- |
-| Tipo de máquina | Potencia neta instalada P en kW; Potencia eléctrica Pel (1) en kW; Masa del aparato m en kg; Anchura de corte L en cm | Nivel de potencia acústica admisible en dB/pW |
-| Fase I a partir de entrada en vigor de este Real Decreto | Fase II a partir de 03.01.2006 |
-| Máquinas compostadoras (rodillos vibrantes, planchas y apisonadoras). | P ≤ 8 | 108 | 105 |
-| 8 < P ≤ 70 | 109 | 106 |
-| P > 70 | 89 + 11 lg P | 86 + 11 Ig P |
-| Topadoras, cargadoras y palas cargadoras sobre orugas. | P ≤ 55 | 106 | 103 |
-| P > 55 | 87 + 11 Ig P | 84 + 11 Ig P |
-| Topadoras, cargadoras y palas cargadoras sobre ruedas, motovolquetes, niveladoras, compactadoras de basura tipo cargadoras, carretillas elevadoras en voladizo accionadas por motor de combustión, grúas móviles, máquinas compactadoras (rodillos no vibrantes), pavimentadoras, generadores de energía hidráulica. | P ≤ 55 | 104 | 101 |
-| P > 55 | 85 + 11 Ig P | 82 + 11 Ig P |
-| Motocargadoras para el transporte de materiales de construcción, tornos de construcción, motoazadas. | P ≤ 15 | 96 | 93 |
-| P > 15 | 83 + 11 Ig P | 80 + 11 Ig P |
-| Trituradores de hormigón y martillos picadores de mano. | m ≤ 15 | 107 | 105 |
-| 15 < m < 30 | 94 + 11 Ig m | 92 + 11 Ig m |
-| m ≥ 30 | 96 + 11 Ig m | 94 + 11 Ig m |
-| Grúas torre. |  | 98 + Ig P | 96 + Ig P |
-| Grupos electrógenos de soldadura y de potencia. | Pel ≤ 2 | 97 + Ig Pel | 95 + Ig Pel |
-| 2 < Pel ≤ 10 | 98 + Ig Pel | 96 + Ig Pel |
-| Pel > 10 | 97 + Ig Pel | 95 + Ig Pel |
-| Motocompresores. | P ≤ 15 | 99 | 97 |
-| P > 15 | 97 + 2 Ig P | 95 + 2 Ig P |
-| Cortadoras de césped, máquinas para el acabado del césped/recortadoras de césped. | L ≤ 50 | 96 | 94 (2) |
-| 50 < L ≤ 70 | 100 | 98 |
-| 70 < L ≤ 120 | 100 | 98 (2) |
-| L > 120 | 105 | 103 (2) |
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/106/07900_001.png)
 
-(1) Pel de grupos electrógenos de soldadura: corriente nominal de soldadura multiplicada por la tensión convencional en carga correspondiente al valor más bajo del factor de marcha que indica el fabricante.
-
-Pel de los grupos electrógenos de potencia: energía primaria de conformidad con la norma ISO 8528-1:1993, punto 13.3.2.
-
-(2) Se trata únicamente de valores indicativos. Los valores definitivos estarán supeditados a la posible modificación de la Directiva 2000/14/CE, en función del informe previsto en el apartado 3 del artículo 20 de dicha Directiva. Si no se produjese esa modificación, los valores de la fase I seguirían aplicándose en la fase II.
-
-El nivel de potencia admisible debe redondearse en el número entero más próximo (si es inferior a 0,5 se utilizará el número inferior; si es mayor o igual a 0,5 se utilizará el número superior).
-
-> Los niveles de potencia acústica admisible para la fase II que se mencionan en el cuadro de valores límite entran en vigor el 3 de enero de 2006, según establece la disposición final 3.
+> Se modifica el "Cuadro de valores límite" por el art. único.3 del Real Decreto 524/2006, de 28 de abril. Ref. BOE-A-2006-7900

@@ -882,7 +882,7 @@ Medición de la presión del alimentador hidráulico ps.
 
 ps deberá medirse lo más cerca posible de la conexión de entrada del ruptor.
 
-ps deberá medirse con un manómetro (diámetro ≤ 100 mm; clase de precisión: ± 1,0% FSO).
+ps deberá medirse con un manómetro (diámetro ≥ 100 mm; clase de precisión: ± 1,0% FSO).
 
 Circulación del aceite en la entrada del ruptor, Q.
 
@@ -912,7 +912,7 @@ d Diámetro de la herramienta (mm)
 
 d1 Diámetro del yunque: 1200 ± 100 mm
 
-d2 Diámetro interior de la estructura de soporte del yunque ≤1800 mm
+d2 Diámetro interior de la estructura de soporte del yunque ≤ 1800 mm
 
 d3 Diámetro de la plataforma del bloque de ensayo ≤ 2200 mm
 
@@ -1726,7 +1726,7 @@ Si se utiliza un integrador, el período de integración será igual a tr+ tf se
 
 El valor cuadrático medio en una posición de micrófono i se obtendrá mediante la ecuación siguiente:
 
-Lpi = 10 lg [(tr 10 0,1 L fi) / (tr + tf)]
+Lpi = 10 lg [(tr 100,1Lri + tf 100,1Lfi)/(tr + tf)]
 
 siendo:
 
@@ -1815,3 +1815,5 @@ ISO 8528-10:1998, punto 9.
 Período de observación.
 
 El período de observación durará por lo menos 15 segundos.
+
+> Se modifica el apartado 53 de la Parte B por el art. único.2 del Real Decreto 524/2006, de 28 de abril. Ref. BOE-A-2006-7900
