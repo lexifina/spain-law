@@ -1,0 +1,3 @@
+## Disposición final primera. Sistema de Verificación de Datos de Residencia.
+
+El establecimiento de los requisitos y procedimientos de acceso al Sistema de Verificación de Datos de Residencia, así como la fecha en que dicho Sistema deberá estar plenamente operativo, se llevará a cabo mediante orden, a propuesta conjunta de los Ministerios de Economía y Hacienda y de Administraciones Públicas. A partir de esa fecha y en los casos en que el domicilio no conste o sea diferente al existente en el Sistema de Verificación de Datos, sólo se solicitará el certificado de empadronamiento como documento probatorio del domicilio y residencia en los supuestos previstos en los apartados 4 y 5 del artículo único.
