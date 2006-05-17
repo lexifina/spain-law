@@ -1,0 +1,11 @@
+La Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil, establece en su artículo 11 que el personal del Cuerpo de la Guardia Civil se agrupa en escalas, en función de las facultades profesionales asignadas al conjunto de los empleos de cada una de ellas y el grado educativo exigido para su incorporación. Entre dichas escalas se encuentra la de Cabos y Guardias.
+
+El artículo 19.1 de dicha Ley 42/1999, de 25 de noviembre, recoge como finalidad del sistema de enseñanza de la Guardia Civil, entre otras, la capacitación profesional específica de quienes han de integrarse en cualquiera de las escalas del Cuerpo. Asimismo, el artículo 20.1 determina que es la enseñanza de formación la que proporciona la preparación necesaria para dicha integración, estableciendo, además, una correspondencia de la enseñanza de formación para la incorporación a la escala de Cabos y Guardias con la formación profesional de grado medio. Por otro lado y de acuerdo con el apartado 2 del mismo artículo, la obtención del primer empleo de dicha escala será equivalente al título del sistema educativo general de Técnico.
+
+Por el Real Decreto 313/2006, de 17 de marzo, fueron aprobadas las directrices generales de los planes de estudios de la enseñanza de formación para la incorporación a las escalas de Suboficiales y de Cabos y Guardias del Cuerpo de la Guardia Civil, en las que se han tenido en cuenta las modificaciones establecidas por la Ley y las novedades introducidas por el Real Decre-to 362/2004, de 5 de marzo, por el que se establece la ordenación general de la formación profesional específica.
+
+Las nuevas directrices generales, así como la mejora y mayor adecuación del diseño curricular respecto a las demandas actuales de la ciudadanía en materia de seguridad pública, aconsejan la aprobación de un nuevo plan de estudios de la enseñanza de formación para la incorporación a la escala de Cabos y Guardias.
+
+De conformidad con lo señalado en el artículo 35.1 de la Ley 42/1999, de 25 de noviembre, corresponde a los Ministros de Defensa y del Interior la aprobación de los planes de estudios del sistema de enseñanza de la Guardia Civil.
+
+En su virtud, a propuesta de los Ministros de Defensa y del Interior, dispongo:
