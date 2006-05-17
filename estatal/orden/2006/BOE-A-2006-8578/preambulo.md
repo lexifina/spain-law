@@ -1,0 +1,11 @@
+El personal de Cuerpo de la Guardia Civil se agrupa en Escalas, de acuerdo con el artículo 11 de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil en función de las facultades profesionales asignadas al conjunto de los empleos de cada una de ellas y el grado educativo exigido para la incorporación; dentro de dichas Escalas se encuentra la Facultativa Superior, objeto de la presente Orden Ministerial.
+
+La Ley 42/1999, de 25 de noviembre, en su artículo 20.1, establece que la enseñanza de formación tiene como finalidad la preparación para la incorporación a las distintas Escalas del Cuerpo de la Guardia Civil. Esta enseñanza se concreta en el correspondiente plan de estudios, que deberá ajustarse a los criterios establecidos en el artículo 31.1 de la Ley 42/1999, de 25 de noviembre, y, por lo que respecta al de la Escala Facultativa Superior, complementará la formación técnica, acreditada con el título exigido para el ingreso, con la específica necesaria para el desempeño de cometidos y el ejercicio de las facultades correspondientes a los componentes de dicha Escala, e incluirá la formación militar necesaria, de acuerdo con lo dispuesto en el apartado 3 del mismo artículo.
+
+Además, el artículo 20.4 de la Ley 42/1999, de 25 de noviembre, en su párrafo tercero, determina que los que vayan a incorporarse a las Escalas Facultativa Superior y Facultativa Técnica por acceso directo cursarán una fase de formación militar en la Academia General Militar del Ejército de Tierra.
+
+De conformidad con lo establecido en la disposición adicional tercera del Real Decreto 434/2002, de 10 de mayo, sobre directrices generales de los planes de estudios de la enseñanza militar de formación para la incorporación a las Escalas, Superior de Oficiales y de Oficiales, de los Cuerpos de las Fuerzas Armadas, en la elaboración de la presente Orden Ministerial, además de los citados artículos de la Ley, se han tenido en cuenta las referidas directrices generales.
+
+De acuerdo con lo dispuesto en el artículo 35.1, párrafo segundo, de la Ley 42/1999, de 25 de noviembre, corresponde a los Ministros de Defensa y del Interior la aprobación de los planes de estudios del sistema de enseñanza en la Guardia Civil.
+
+En su virtud, y a propuesta conjunta de los Ministros de Defensa y del Interior, dispongo:
