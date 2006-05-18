@@ -1,23 +1,29 @@
-## Disposición final cuarta. Competencia exclusiva del Estado.
+## Disposición final cuarta. Ordenación básica y competencia exclusiva del Estado.
 
-Las disposiciones contenidas en la presente Ley, y en sus disposiciones reglamentarias de desarrollo, que sean complemento indispensable de la misma para garantizar los objetivos de ordenación y completar la regulación por ella definida, tiene la consideración de ordenación básica de la banca y los seguros, y de bases de la planificación general de la actividad económica, con arreglo al artículo 149.1.11.ª y 13.ª de la Constitución, salvo las siguientes materias, que se consideran competencia exclusiva del Estado:
+Las disposiciones contenidas en esta Ley y en sus disposiciones reglamentarias de desarrollo, que sean complemento indispensable para garantizar los objetivos de ordenación y completar la regulación por ella definida, tienen la consideración de ordenación básica de la banca y los seguros y de bases de la planificación general de la actividad económica, con arreglo al artículo 149.1.11.ª y 13.ª de la Constitución, salvo las materias que se enumeran a continuación:
 
-A) Con arreglo al artículo 149.1.6.ª de la Constitución, se consideran legislación mercantil las materias reguladas en:
+a) Son competencia exclusiva del Estado con arreglo al artículo 149.1.6.ª de la Constitución, por constituir legislación mercantil, las materias reguladas en:
 
-a) Los capítulos I y II, salvo el artículo 7.
+1.º Los Capítulos I y II, salvo el artículo 7.
 
-b) Los apartados 3 a 10 del artículo 8.
+2.º Los apartados 3 a 10 del artículo 8.
 
-c) Disposiciones adicionales primera, tercera y cuarta.
+3.º El artículo 43.
 
-d) Disposiciones transitorias primera, segunda y cuarta, así como la transitoria quinta, salvo los párrafos tercero y cuarto del apartado 5, y apartados 7 y 8.
+4.º Los apartados 2 y 7 del artículo 45.
 
-B) Con arreglo al artículo 149.1.14.ª de la Constitución, se consideran legislación de la Hacienda general las materias reguladas en:
+5.º Las disposiciones adicionales primera, tercera y cuarta.
 
-a) El capítulo VIII.
+6.º Las disposiciones transitorias primera, segunda y cuarta, así como la disposición transitoria quinta, salvo los párrafos tercero y cuarto del apartado 5, y los apartados 7 y 8.
 
-b) Los párrafos tercero y cuarto del apartado 5, y apartados 7 y 8 de la disposición transitoria quinta.
+b) Son competencia exclusiva del Estado con arreglo al artículo 149.1.14.ª de la Constitución, ya que constituyen legislación de la Hacienda general, las materias reguladas en:
 
-c) Disposiciones transitorias primera, sexta y séptima.
+1.º El Capítulo VIII.
 
-d) Disposiciones finales primera y segunda.
+2.º Los párrafos tercero y cuarto del apartado 5, y los apartados 7 y 8 de la disposición transitoria quinta.
+
+3.º Las disposiciones transitorias primera, sexta y séptima.
+
+4.º Las disposiciones finales primera y segunda.
+
+> Se modifica por el art. único.7 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
