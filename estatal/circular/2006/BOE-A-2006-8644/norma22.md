@@ -1,0 +1,9 @@
+## Norma 22. Valoración de las IIC de IIC de Inversión Libre.
+
+En el cálculo del valor liquidativo de participaciones y acciones, a las IIC de IIC de Inversión Libre se les aplicarán los principios básicos y criterios generales de valoración establecidos para las IIC de carácter financiero, todo ello de acuerdo con los criterios de valoración establecidos en el folleto informativo de la institución. Dichos criterios tendrán por objetivo reflejar el valor al que podrían razonablemente liquidarse los activos a un tercero que no tuviera una relación especial con la IIC y que estuviera adecuadamente informado en el momento de la valoración.
+
+En cualquier caso se deberán observar las siguientes reglas:
+
+a) Las IIC y valores asimilables en cartera se valorarán al último valor liquidativo que, no susceptible de recálculo o confirmación, sea conocido en el momento de la valoración. Si no se dispusiera de valoraciones definitivas, las suscripciones y reembolsos se materializarán sólo por la parte cierta. La diferencia se hará efectiva cuando se conozcan las valoraciones definitivas. En la suscripción, el partícipe, y en el reembolso, la sociedad gestora, harán constar que se comprometen a hacer efectivas estas diferencias.
+
+b) Cuando los valores liquidativos de las IIC y valores asimilables en cartera no correspondan con la fecha de cálculo del valor liquidativo de la IIC de IIC de Inversión Libre, la sociedad gestora deberá establecer mecanismos que eviten los conflictos de interés entre inversores, de modo que el valor liquidativo aplicable a suscripciones y reembolsos resulte desconocido para el inversor y resulte imposible de estimar de forma cierta. A tal efecto, podrá fijar preavisos mínimos para las operaciones de suscripción y reembolso, o retrasar el cálculo del valor liquidativo aplicable a tales operaciones. De todo ello informará en el folleto.
