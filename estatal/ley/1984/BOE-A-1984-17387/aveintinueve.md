@@ -36,6 +36,8 @@ m) Cuando sean nombrados Subsecretarios, Secretarios generales técnicos o Direc
 
 n) Cuando sean nombrados Subdelegados del Gobierno en las Provincias o Directores Insulares de la Administración General del Estado y no opten por permanecer en la situación de servicio activo en su Administración de origen.
 
+ñ) Cuando sean nombrados para desempeñar puestos en las Áreas Funcionales de la Alta Inspección de Educación funcionarios de los cuerpos docentes o escalas en que se ordena la función pública docente.
+
 A los funcionarios en situación de servicios especiales se les computará el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos pasivos y tendrán derecho a la reserva de plaza y destino que ocupasen. En todos los casos recibirán las retribuciones del puesto o cargo efectivo que desempeñen y no las que les correspondan como funcionarios, sin perjuicio del derecho a la percepción de los trienios que pudieran tener reconocidos como funcionarios.
 
 Los Diputados, Senadores y los miembros de las Asambleas Legislativas de las Comunidades Autónomas que pierdan dicha condición por disolución de las correspondientes Cámaras o terminación del mandato de las mismas podrán permanecer en la situación de servicios especiales hasta su nueva constitución.
@@ -128,6 +130,8 @@ Las funcionarias públicas víctimas de violencia de género, para hacer efectiv
 
 Esto no obstante, cuando de las actuaciones de tutela judicial resultase que la efectividad del derecho de protección de la víctima lo exigiere, se podrá prorrogar por períodos de tres meses, con un máximo de dieciocho, el período en el que, de acuerdo con el párrafo anterior, se tendrá derecho a la reserva del puesto de trabajo, con idénticos efectos a los señalados en dicho párrafo.
 
+> Se añade el apartado 2.ñ) por la disposición final 2 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+
 > Se añade el apartado 8 por la disposición adicional 9.4 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
 
 > Se añade el párrafo último del apartado 3 por el art. 50.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
@@ -152,6 +156,6 @@ Esto no obstante, cuando de las actuaciones de tutela judicial resultase que la 
 
 > Se modifican los apartados 1, 3.c), 2.e) y se añaden los apartados 3.d), 5, 6 y 7 por los arts. 18 a 24 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
 
-> Se modifica el apartado 1, se añade el 4 y se suprime el 3.b) por art. 2.1, 2 y la disposición final 3 de la Ley 3/1989, de 3 de marzo. Ref. BOE-A-1989-5272
+> Se modifica el apartado 1, se añade el 4 y se suprime el 3.b) por el art. 2.1, 2 y la disposición final 3 de la Ley 3/1989, de 3 de marzo. Ref. BOE-A-1989-5272
 
 > Se declara la inconstitucionalidad y nulidad del apartado 2.l) por Sentencia del TC 99/1987, de 11 de junio. Ref. BOE-T-1987-14852

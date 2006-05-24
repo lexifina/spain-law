@@ -6,13 +6,13 @@ a) Intervenir en la designación y cese del director del centro, de acuerdo con 
 
 b) Intervenir en la selección y despido del profesorado del centro, conforme con el artículo 60.
 
-c) Garantizar el cumplimiento de las normas generales sobre admisión de alumnos.
+c) Participar en el proceso de admisión de alumnos, garantizando la sujeción a las normas sobre el mismo.
 
-d) (Derogado)
+d) Conocer la resolución de conflictos disciplinarios y velar porque se atengan a la normativa vigente. Cuando las medidas disciplinarias adoptadas por el director correspondan a conductas del alumnado que perjudiquen gravemente la convivencia del centro, el Consejo Escolar, a instancia de padres o tutores, podrá revisar la decisión adoptada y proponer, en su caso, las medidas oportunas.
 
 e) Aprobar, a propuesta del titular, el presupuesto del centro en lo que se refiere tanto a los fondos provenientes de la Administración como a las cantidades autorizadas, así como la rendición anual de cuentas.
 
-f) Informar la programación general del centro que, con carácter anual, aprobará el equipo directivo.
+f) Aprobar y evaluar la programación general del centro que con carácter anual elaborará el equipo directivo.
 
 g) Proponer, en su caso, a la Administración la autorización para establecer percepciones a los padres de los alumnos por la realización de actividades escolares complementarias.
 
@@ -29,6 +29,8 @@ l) Aprobar, a propuesta del titular, el reglamento de régimen interior del cent
 ll) Supervisar la marcha general del centro en los aspectos administrativos y docentes.
 
 m) Proponer medidas e iniciativas que favorezcan la convivencia en el centro, la igualdad entre hombres y mujeres y la resolución pacífica de conflictos en todos los ámbitos de la vida personal, familiar y social.
+
+> Se modifican las letras c), d), f) y m) por la disposición final 1.9 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
 
 > Se añade la letra m) por la disposición adicional 3.6 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
 

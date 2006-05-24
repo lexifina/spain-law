@@ -12,4 +12,8 @@ c) Promover la participación de los alumnos en los órganos colegiados del cent
 
 d) Realizar actividades culturales, deportivas y de fomento de la acción cooperativa y de trabajo en equipo.
 
+3. Las Administraciones educativas favorecerán el ejercicio del derecho de asociación de los alumnos, así como la formación de federaciones y confederaciones.
+
+> Se añade el apartado 3 por la disposición final 1.4 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+
 > Se deroga el apartado 2.e) por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037

@@ -28,7 +28,11 @@ l) El Instituto de la Mujer.
 
 m) Personalidades de reconocido prestigio en la lucha para la erradicación de la violencia de género.
 
+n) Los Consejos Escolares de ámbito autonómico.
+
 2. El Gobierno, a propuesta del Ministerio de Educación y Ciencia, aprobará las normas que determinen la representación numérica de los miembros del Consejo Escolar del Estado, así como su organización y funcionamiento. La representación de los miembros de la comunidad educativa a que se refieren los apartados a), b), c) y d) de este artículo no podrá ser en ningún caso inferior a un tercio del total de los componentes de este Consejo.
+
+> Se añade la letra n) por la disposición final 1.7 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
 
 > Se añaden las letras k), l) y m) al apartado 1 por la disposición adicional 3.2 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
 

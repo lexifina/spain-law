@@ -1,0 +1,3 @@
+## Disposición final séptima. Carácter de Ley Orgánica de la presente Ley.
+
+Tienen rango de Ley Orgánica el capítulo I del título preliminar, los artículos 3; 4; 5.1, 5.2; el capítulo III del título preliminar, los artículos 16; 17; 18.1, 18.2 y 18.3; 19.1; 22; 23; 24; 25; 27; 30.1, 30.2, 30.3, 30.4 y 30.6; 38; 68; 71; 74; 78; 80; 81.3 y 81.4; 82.2; 83; 84.1, 84.2, 84.3, 84.4, 84.5, 84.6, 84.7, 84.8 y 84.9; 85; 108; 109; 115; el capítulo IV del título IV; los artículos 118; 119; 126.1 y 126.2; 127; 128; 129; las disposiciones adicionales decimosexta y decimoséptima; la disposición transitoria sexta, apartado tercero; la disposición transitoria décima; las disposiciones finales primera y séptima, y la disposición derogatoria única.

@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Maestros adscritos a los cursos primero y segundo de la educación secundaria obligatoria.
+
+1. Los funcionarios del cuerpo de maestros adscritos con carácter definitivo, en aplicación de la disposición transitoria cuarta de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, a puestos de los dos primeros cursos de la educación secundaria obligatoria, podrán continuar en dichos puestos indefinidamente, así como ejercer su movilidad en relación con las vacantes que a tal fin determine cada Administración educativa. En el supuesto de que accedieran al cuerpo de profesores de enseñanza secundaria conforme a lo previsto en la disposición adicional duodécima de esta Ley, podrán permanecer en su mismo destino en los términos que se establezcan.
+
+2. Los maestros que, en aplicación a la disposición transitoria octava de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, vengan impartiendo los dos primeros cursos de la educación secundaria obligatoria en centros docentes privados, podrán continuar realizando la misma función en los puestos que vienen ocupando.

@@ -1,30 +1,34 @@
 ## Artículo cincuenta y seis.
 
-1. El Consejo Escolar de los centros concertados estará constituido por:
+1. El Consejo Escolar de los centros privados concertados estará constituido por:
 
-- El Director.
+El director.
 
-- Tres representantes del titular del centro.
+Tres representantes del titular del centro.
 
-- Cuatro representantes de los profesores.
+Un concejal o representante del Ayuntamiento en cuyo término municipal se halle radicado el centro.
 
-- Cuatro representantes de los padres o tutores de los alumnos.
+Cuatro representantes de los profesores.
 
-- Dos representantes de los alumnos, a partir del tercer curso de la Educación Secundaria Obligatoria.
+Cuatro representantes de los padres o tutores de los alumnos, elegidos por y entre ellos.
 
-- Un representante del personal de administración y servicios.
+Dos representantes de los alumnos elegidos por y entre ellos, a partir del primer curso de educación secundaria obligatoria.
 
-- Una persona, elegida por los miembros del Consejo Escolar del Centro, que impulse medidas educativas que fomenten la igualdad real y efectiva entre hombres y mujeres.
+Un representante del personal de administración y servicios.
 
-Además, en los centros específicos de Educación Especial y en aquellos que tengan aulas especializadas, formará parte también del Consejo Escolar un representante del personal de atención educativa complementaria.
+Una vez constituido el Consejo Escolar del centro, éste designará una persona que impulse medidas educativas que fomenten la igualdad real y efectiva entre hombres y mujeres.
 
-Las Administraciones educativas regularán el procedimiento para que uno de los representantes de los padres en el Consejo Escolar sea designado por la asociación de padres más representativa en el centro.
+Además, en los centros específicos de educación especial y en aquéllos que tengan aulas especializadas, formará parte también del Consejo Escolar un representante del personal de atención educativa complementaria.
 
-Asimismo, los centros concertados que impartan Formación Profesional específica podrán incorporar a su Consejo Escolar un representante del mundo de la empresa, designado por las organizaciones empresariales, de acuerdo con el procedimiento que las Administraciones educativas establezcan.
+Uno de los representantes de los padres en el Consejo Escolar será designado por la asociación de padres más representativa en el centro.
+
+Asimismo, los centros concertados que impartan formación profesional podrán incorporar a su Consejo Escolar un representante del mundo de la empresa, designado por las organizaciones empresariales, de acuerdo con el procedimiento que las Administraciones educativas establezcan.
 
 2. A las deliberaciones del consejo escolar del centro podrán asistir, con voz pero sin voto, siempre que sean convocados para informar sobre cuestiones de su competencia, los demás órganos unipersonales de acuerdo con lo que establezca el reglamento de régimen interior.
 
 3. El Consejo Escolar del centro se renovará por mitades cada dos años, sin perjuicio de que se cubran hasta dicho término las vacantes que se produzcan. Las Administraciones educativas regularán el procedimiento de renovación parcial, que se realizará de modo equilibrado entre los distintos sectores de la comunidad educativa que lo integran. Asimismo, regularán el procedimiento transitorio para la primera renovación parcial, una vez constituido el Consejo Escolar de acuerdo con lo dispuesto en la presente Ley.
+
+> Se modifica el apartado 1 por la disposición final 1.8 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
 
 > Se añade un séptimo guión al apartado 1 por la disposición adicional 3.5 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
 
