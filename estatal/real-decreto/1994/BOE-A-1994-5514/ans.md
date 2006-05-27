@@ -2,6 +2,10 @@
 
 [Los anexos se han omitido. Consúltese el PDF oficial publicado en suplemento aparte.]
 
+> Véase la Orden PRE/1595/2006, de 24 de mayo, por la que se modifica el Anexo II. Ref. BOE-A-2006-9191.
+
+> Véase la Orden PRE/266/2006, de 6 de febrero, por la que se modifica el Anexo II. Ref. BOE-A-2006-2189.
+
 > Véase la Orden PRE/1041/2005, de 19 de abril, por la que se modifica el Anexo II. Ref. BOE-A-2005-6500.
 
 > Véase la Orden PRE/3673/2004, de 11 de noviembre, por la que se modifica el Anexo II. Ref. BOE-A-2004-19314.
