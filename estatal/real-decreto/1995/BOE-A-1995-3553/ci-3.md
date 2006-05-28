@@ -2,24 +2,8 @@
 
 ## Importaciones a partir de países terceros de productos cárnicos obtenidos a partir de carne de aves de corral, de caza de cría, de caza salvaje y carne de conejo
 
-La autoridad competente adoptará las medidas necesarias para que los productos cárnicos obtenidos a partir de aves de corral, caza de cría, caza salvaje y carne de conejo, no sean importados a menos que:
+(Suprimido)
 
-a) Procedan de un país tercero que figure en alguna de las siguientes listas:
-
-1. La contemplada en el artículo 9 del Real Decreto 1322/1992, de 30 de octubre, modificado por el Real Decreto 362/1995, de 10 de marzo, en el caso de aves de corral.
-
-2. La contemplada en el artículo 13 del Real Decreto 2044/1994, de 14 de octubre, que establece las condiciones sanitarias y de sanidad animal aplicables al sacrificio de animales de caza silvestre y a la producción y comercialización de sus carnes, en el caso de carne de caza silvestre.
-
-3. La contemplada en el capítulo XI del anexo I del presente Real Decreto, en el caso de la carne de conejo y de la caza de cría.
-
-4. La contemplada en la parte 1 del anexo de la Decisión 79/542/CEE; en este caso, deberá habérseles aplicado un tratamiento al calor en recipiente hermético en el que el valor Fo haya sido igual o superior a 3,00. No obstante, cuando se trate de productos a base de carne de una especie distinta de la de los suidos, este tratamiento podrá sustituirse por un tratamiento al calor en el que la temperatura en el centro de la pieza haya alcanzado 70 ºC como mínimo.
-
-b) La carne fresca utilizada responda a los requisitos contemplados en el artículo 14 del Real Decreto 2087/1994, de 20 de octubre, por el que se establece las condiciones sanitarias de producción y comercialización de carnes frescas de aves de corral, en el caso de la carne de ave de corral, en el artículo 16 del Real Decreto 2044/1994, de 14 de octubre, por el que se establecen las condiciones sanitarias y de sanidad animal aplicables al sacrificio de animales de caza silvestre y a la producción y comercialización de sus carnes, en el caso de la caza salvaje, y del artículo 3 del Real Decreto 1543/1994, de 8 de julio, por el que se establecen los requisitos sanitarios y de policía sanitaria aplicables a la producción y a la comercialización de carne de conejo doméstico y de caza de granja y del artículo 6 del mismo Real Decreto.
-
-c) Procedan de un establecimiento que ofrezca las mismas garantías que las contempladas en el Real Decreto 1904/1993, aprobadas de acuerdo con el procedimiento comunitario previsto, o mientras se espera la adopción de dicha Decisión, por la autoridad competente. Las importaciones de dichos productos seguirán estando sometidas a las normas del apartado 2 del artículo 10 del Real Decreto 2022/1993.
-
-d) Sean preparados, controlados y manipulados respetando los requisitos apropiados previstos en el Real Decreto 1904/1993.
-
-e) Cada lote de productos cárnicos vaya acompañado de un certificado sanitario establecido de conformidad con el procedimiento comunitario previsto.
+> Se suprime por el art. único.3 del Real Decreto 639/2006, de 26 de mayo. Ref. BOE-A-2006-9299.
 
 > Se modifica la letra a) por el art. único.3 y anexo II del Real Decreto 74/1998, de 23 de enero. Ref. BOE-A-1998-1460.
