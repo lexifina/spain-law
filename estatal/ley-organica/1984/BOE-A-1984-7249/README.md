@@ -28,5 +28,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo decimoquinto](adecimoquinto.md)
 - [DISPOSICIONES ADICIONALES](da.md)
 - [Primera](primera.md)
+- [Segunda](segunda.md)
 - [DISPOSICIÓN DEROGATORIA](dd.md)
 - [firma](firma.md)

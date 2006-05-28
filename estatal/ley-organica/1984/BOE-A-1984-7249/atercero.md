@@ -6,6 +6,8 @@
 
 a) El texto articulado de la proposición de Ley precedido de una exposición de motivos.
 
-b) Un documento en el que se detallen las razones que aconsejan, a juicio de los firmantes, la tramitación y aprobación por las Cámaras de la proposición de Ley.
+b) (Suprimido)
 
 c) La relación de los miembros que componen la Comisión Promotora de la iniciativa, con expresión de los datos personales de todos ellos.
+
+> Se suprime el apartado 2.b) por el art. único.2 de la Ley Orgánica 4/2006, de 26 de mayo. Ref. BOE-A-2006-9290

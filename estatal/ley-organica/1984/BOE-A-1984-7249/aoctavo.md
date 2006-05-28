@@ -2,6 +2,10 @@
 
 1. Recibida la notificación de admisión de la proposición, la Comisión Promotora presentará ante la Junta Electoral Central, en papel de oficio, los pliegos necesarios para la recogida de firmas. Estos pliegos reproducirán el texto íntegro de la proposición.
 
+Los pliegos deberán estar escritos en castellano. Para la recogida de firmas en el territorio de una Comunidad Autónoma con otra lengua cooficial podrá utilizarse, conjuntamente, esta otra lengua.
+
 2. Si el texto de la proposición superase en extensión las tres caras de cada pliego, se acompañará en pliegos aparte, que se unirán al destinado a recoger las firmas, de modo que no puedan ser separados, sellándose y numerándose, de acuerdo con lo dispuesto en el apartado siguiente.
 
 3. Recibidos los pliegos por la Junta Electoral Central, ésta, dentro de las cuarenta y ocho horas siguientes, los sellará, numerará y devolverá a la Comisión Promotora.
+
+> Se añade el párrafo segundo al apartado 1 por el art. único.6 de la Ley Orgánica 4/2006, de 26 de mayo. Ref. BOE-A-2006-9290
