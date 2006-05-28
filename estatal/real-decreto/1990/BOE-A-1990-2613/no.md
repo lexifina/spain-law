@@ -1,0 +1,1 @@
+Téngase en cuenta que se derogan los aspectos de salud pública contenidos en esta norma, con efectos de 28 de mayo de 2006, por la disposición derogatoria única.o) Real Decreto 640/2006, de 26 de mayo. Ref. BOE-A-2006-9300#ddunica

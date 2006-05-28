@@ -1,0 +1,3 @@
+## Disposición final segunda. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto se incorporan al derecho español los artículos 2, 4.2, 4.3, 5 y 8 de la Directiva 2004/41/CE del Parlamento Europeo y del Consejo, de 21 de abril de 2004, por la que se derogan determinadas directivas que establecen las condiciones de higiene de los productos alimenticios y las condiciones sanitarias para la producción y comercialización de determinados productos de origen animal destinados al consumo humano y se modifican las Directivas 89/662/CEE y 92/118/CEE del Consejo y la Decisión 95/408/CE del Consejo.
