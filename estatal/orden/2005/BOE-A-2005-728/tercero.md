@@ -4,6 +4,8 @@
 
 2. Se considera «fondo moderno», a los efectos de esta Orden, el integrado por libros e impresos editados a partir de 1 de enero de 1931.
 
-3. El carné de lector se expedirá previa solicitud del interesado en la que se harán constar la materia y los fondos que se propone consultar.
+3. El carné de lector se expedirá a solicitud del interesado y tendrá una validez de tres años.
 
-4. Este carné tendrá una validez de un año.
+4. (Suprimido)
+
+> Se modifica el apartado 3 y se suprime el apartado 4 por el art. único.1 y 2 de la Orden CUL/1628/2006, de 22 de mayo. Ref. BOE-A-2006-9448.
