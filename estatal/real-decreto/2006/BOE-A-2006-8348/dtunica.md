@@ -1,0 +1,3 @@
+## Disposición transitoria única. Certificados de aprobación de determinadas cisternas para transportar residuos.
+
+No obstante lo dispuesto en el artículo 16, los vehículos-cisterna construidos antes del 1 de julio de 1999 que se vayan a utilizar únicamente en territorio español para el transporte de residuos considerados mercancías peligrosas en el ADR, conforme al anexo IV de la disposición recogida en el apartado 3 b) del anexo III de este real decreto, deberán estar provistos de un certificado emitido por un organismo de control según modelo del apéndice F-2 del anexo VI de este real decreto.
