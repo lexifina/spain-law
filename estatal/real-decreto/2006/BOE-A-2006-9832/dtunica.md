@@ -1,0 +1,3 @@
+## Disposición transitoria única. Subvención de la recogida y gestión hasta la entrada en vigor de la obligación de los fabricantes o, en su caso, de los sistemas integrados de gestión.
+
+El Ministerio de Medio Ambiente subvencionará la recogida y gestión de los aceites industriales usados hasta la entrada en vigor de la obligación de realizar esas operaciones por parte de los fabricantes o, en su caso, de los sistemas integrados de gestión, en aplicación de este Real Decreto. Para ello publicará la resolución de convocatoria de acuerdo con la Orden MAM/2191/2005, de 27 de junio, por la que se establecen las bases reguladoras para concesión de las subvenciones por las actividades de recuperación y valorización de aceites usados.
