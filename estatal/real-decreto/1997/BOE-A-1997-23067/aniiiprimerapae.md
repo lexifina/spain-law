@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | Campo de aplicación y/o uso | Concentración máxima en producto terminado | Otras limitaciones y exigencias |
 | a | b | c | d | e | f |
-| 1a | Ácido bórico, boratos y tetraboratos. | a) Talco. | a) 5 por 100 (expresado en ácido bórico, masa/masa). | a) 1. No utilizar en productos para niños menores de tres años. 2. No utilizar en pieles excoriadas o irritadas si la concentración de borato soluble libre es superior al 1,5 por 100 (expresado en ácido bórico, masa/masa). | a) 1. No utilizar en niños menores de tres años. 2. No utilizar en pieles excoriadas o irritadas. |
+| 1a | Ácido bórico, boratos y tetraboratos, excepto la sustancia número 1184 del anexo II. | a) Talco. | a) 5 por 100 (expresado en ácido bórico, masa/masa). | a) 1. No utilizar en productos para niños menores de tres años. 2. No utilizar en pieles excoriadas o irritadas si la concentración de borato soluble libre es superior al 1,5 por 100 (expresado en ácido bórico, masa/masa). | a) 1. No utilizar en niños menores de tres años. 2. No utilizar en pieles excoriadas o irritadas. |
 |  |  | b) Productos para la higiene bucal. | b) 0,1 por 100 (expresado en ácido bórico, masa/masa). | b) 1. No utilizar en productos para niños menores de tres años. | b) 1. No tragar. 2. No utilizar en niños menores de tres años |
 |  |  | c) Otros productos a excepción de los productos para el baño y para la ondulación del cabello. | c) 3 por 100 (expresado en ácido bórico, masa/masa). | c) 1. No utilizar en productos para niños menores de tres años. 2. No utilizar en pieles excoriadas o irritadas si la concentración de borato soluble libre es superior al 1,5 por 100 (expresado en ácido bórico, masa/masa). | c) 1. No utilizar en niños menores de tres años. 2. No utilizar en pieles excoriadas o irritadas. |
 | 1b | Tetraboratos. | a) Productos para el baño. | a) 18 por 100 (expresado en ácido bórico, masa/masa). | a) No utilizar en productos para niños menores de tres años. | a) No utilizar para el baño de niños menores de tres años. |
@@ -28,7 +28,7 @@
 | 6 | CLORATOS DE METALES ALCALINOS | a) Dentífricos. | – 5% |  |  |
 |  |  | b) Otros usos. | – 3% |  |  |
 | 7 | CLORURO DE METILENO |  | – 35% (en caso de mezcla con el 1,1,1, tricloroetano, la concentración total no puede sobrepasar el 35%) | – Contenido máximo de impurezas 0,2% |  |
-| 8 | Compuestos m- y p-fenilendiamina, sus derivados N-sustituidos y sus sales; derivados N-sustituidos de o-fenilendiaminas, con la excepción de los derivados enumerados en cualquier otra parte del presente anexo (1). | Colorantes de oxidación para el cabello. a) Uso general. | – 6% calculado en base libre |  | a) – Puede provocar reacción alérgica. – Contiene diaminobencenos. – No emplear para teñir cejas y pestañas. |
+| 8 | Compuestos p-fenilendiamina, sus derivados N-sustituidos y sus sales; derivados N-sustituidos de la o-fenilendiamina (1), excluidos los ya mencionados en el presente anexo. | Colorantes de oxidación para el cabello. a) Uso general. | – 6% calculado en base libre |  | a) – Puede provocar reacción alérgica. – Contiene diaminobencenos. – No emplear para teñir cejas y pestañas. |
 |  |  | b) Uso profesional. |  |  | b) – Reservado a profesionales. – Usar guantes apropiados. – Contiene diaminobencenos. – Puede provocar una reacción alérgica. |
 | 9 | DIAMINOTOLUENOS, SUS SUS DERIVADOS N- SUSTITUIDOS Y SUS SALES(1) EXCEPTO EL NÚMERO 364 DEL ANEXO II | Colorantes de oxidación para el cabello. | – 10% calculado en base libre |  |  |
 |  |  | a) Uso general |  |  | a) – Puede provocar reacción alérgica. – Contiene diaminotoluenos. – No emplear para teñir cejas y pestañas. |
@@ -61,7 +61,7 @@
 | 16 | 1-Naphthol (número CAS 90-15-3) y sus sales. | Colorantes de oxidación para el teñido del cabello. | 2,0 por 100. | En combinación con peróxido de hidrógeno, la concentración máxima para su uso es de 1,0 por 100. | Puede provocar una reacción alérgica. |
 | 17 | NITRITO SÓDICO | Inhibidor de corrosión. | 0,2% | No emplear con aminas secundarias y/o terciarias u otras sustancias que formen nitrosaminas. |  |
 | 18 | NITROMETANO | Inhibidor de corrosión. | 0,3% |  |  |
-| 19 | FENOL Y SUS SALES ALCALINAS | Jabones y champús. | 1% calculado en fenol. |  | Contiene fenol. |
+| 19 (Suprimido) |  |  |  |  |  |
 | 21 | QUININA Y SUS SALES | a) Champús. | a) 0,5% expresado en quinina base. |  |  |
 |  |  | b) Lociones capilares | b) 0,2% expresado en quinina base. |  |  |
 | 22 | RESORCINA (3) | a) Colorante de oxidación para el cabello. | a) 5% |  | a) |
@@ -164,6 +164,8 @@ Se denomina «cociente relativo» a la relación entre la concentración de una 
 Se denomina «cociente relativo» a la relación entre la concentración de una sustancia y la concentración máxima permitida para esa sustancia.
 
 (4) La cantidad de hidróxido de potasio, sodio o litio se expresa en peso de hidróxido de sodio. En caso de mezclas, la suma no debería sobrepasar los límites establecidos en la columna d).
+
+> Se modifican los números 1a y 8 y se suprime el 19, por el art. 1.2 de la Orden SCO/1730/2006, de 24 de mayo. Ref. BOE-A-2006-9894.
 
 > Se suprime el número 55 por el apartado 1.2 de la Orden SCO/544/2005, de 8 de marzo. Ref. BOE-A-2005-3946.
 

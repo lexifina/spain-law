@@ -1276,9 +1276,9 @@ e) 0,0002 por 100 en otros productos de contacto y productos de higiene bucal.
 
 614. Destilados (petróleo-hulla), fracción aromática con anillos condensados (n.º CAS 68188-48-7), si contienen > 0,005% w/w de benzo[a]pireno.
 
-615. Destilados (alquitrán de hulla), superiores, libre de fluoreno (n.º CAS 84989-10-6), si contienen > 0,005% w/w de benzo[a]pireno.
+615. (Suprimido)
 
-616. Destilados (alquitrán de hulla), superiores, ricos en fluoreno (n.º CAS 84989-11-7), si contienen > 0,005% w/w de benzo[a]pireno.
+616. (Suprimido)
 
 617. Aceite de creosota, fracción de acenafteno, libre de acenafteno (n.º CAS 90640-85-0), si contiene > 0,005% w/w de benzo[a]pireno.
 
@@ -1420,7 +1420,7 @@ e) 0,0002 por 100 en otros productos de contacto y productos de higiene bucal.
 
 686. 4-nitrobifenilo (n.º CAS 92-93-3).
 
-687. 2,4-dinitrotolueno (n.º CAS 121-14-2).
+687. dinitrotolueno, calidad técnica (N.ª CAS 121-14-2).
 
 688. Binapacril (n.º CAS 485-31-4).
 
@@ -2323,6 +2323,90 @@ e) 0,0002 por 100 en otros productos de contacto y productos de higiene bucal.
 (1) Se tolerará la presencia de trazas de las sustancias comprendidas en este anexo, cuando éstas sean técnicamente inevitables como consecuencia de la aplicación de las buenas prácticas de fabricación y siempre que se cumpla el articulo cuarto de esta reglamentación.
 
 (a) El nombre de estas sustancias es el recomendado como «denominación común internacional» para las sustancias farmacéuticas publicadas por la Organización Mundial de la Salud. Ginebra 1982.
+
+| N.º de referencia | Nombre químico | Número CAS n.º CE |
+| --- | --- | --- |
+| 1137 | Nitrito de isobutilo. | 542-56-3 |
+| 1138 | Isopreno (estabilizado). (2-metil-1,3-butadieno). | 78-79-5 |
+| 1139 | 1-bromopropano. n-bromuro de propilo. | 106-94-5 |
+| 1140 | Cloropreno (estabilizado). (2-clorobuta-1,3-dieno). | 126-99-8 |
+| 1141 | 1,2,3-tricloropropano. | 96-18-4 |
+| 1142 | Éter dimetílico de etilenglicol (EGDME). | 110-71-4 |
+| 1143 | Dinocap (ISO). | 39300-45-3 |
+| 1144 | Diaminotolueno, productos técnico -mezcla de [4-metil-m-fenileno diamina] (1) y [2-metil-m-fenileno diamina] (2) metilfenilendiamina. | 25376-45-8 |
+| 1145 | Tricloruro de p-clorobencilo. | 5216-25-1 |
+| 1146 | Éter difenílico; derivado octabromado. | 32536-52-0 |
+| 1147 | 1,2-bis(2-metoxietoxi)etano. Éter dimetílico de trietilenglicol (TEGDME). | 112-49-2 |
+| 1148 | Tetrahidrotiopiran-3-carboxaldehído. | 61571-06-0 |
+| 1149 | 4,4'-bis(dimetilamino)benzofenona. (Cetona de Michler). | 90-94-8 |
+| 1150 | 4-metilbencenosulfonato de (S)-oxiranometanol. | 70987-78-9 |
+| 1151 | Ácido 1,2-bencenodicarboxílico, dipentilester, ramificado y lineal [1]. Ftalato de n-pentil-isopentilo [2]. Ftalato de di-n-pentilo [3]. Ftalato de diisopentilo [4]. | 84777-06-0 [1] -[2] 131-18-0 [3] 605-50-5 [4] |
+| 1152 | Ftalato de butilbencilo (BBP). | 85-68-7 |
+| 1153 | Ácido 1,2-bencenodicarboxílico, di-C 7-11 alquilesteres, ramificados y lineales. | 68515-42-4 |
+| 1154 | Mezcla de: disodio 4-(3-etoxicarbonil-4-(5-(3-etoxicarbonil-5-hidroxi-1-(4-sulfonatofenil) pirazol-4-il)penta-2,4-dienilideno)-4,5-dihidro-5-oxopirazol-1-il) bencenosulfonato y trisodio 4-(3-etoxicarbonil-4-(5-(3-etoxicarbonil-5-oxido-1-(4-sulfonatofenil)pirazol-4-il) penta-2,4-dienilideno)-4,5-dihidro-5-oxopirazol-1-il) bencenosulfonato. | n.º CE 402-660-9 |
+| 1155 | (Metilenobis(4,1-fenilenazo(1-(3-(dimetilamino)propil)-1,2-dihidro-6-hidroxi-4-metil-2-oxopiridina-5,3-diil)))-1,1'-dipiridinio dicloruro dihidrocloruro. | n.º CE 401-500-5 |
+| 1156 | 2-[2-hidroxi-3-(2-clorofenil)carbamoil-1-naftilazo]-7. [2-hidroxi-3-(3-metilfenil)-carbamoil-1-naftilazo]fluoren. 9-ona. | n.º CE 420-580-2 |
+| 1157 | Azafenidina. | 68049-83-2 |
+| 1158 | 2,4,5-trimetilanilina [1]. Clorhidrato de 2,4,5-trimetilanilina [2]. | 137-17-7 [1] 21436-97-5 [2] |
+| 1159 | 4,4'-tiodianilina y sus sales. | 139-65-1 |
+| 1160 | 4,4'-oxidianilina (p-aminofenil éter) y sus sales. | 101-80-4 |
+| 1161 | N,N,N',N'-tetrametil-4,4'-metilendianilina. | 101-61-1 |
+| 1162 | 6-metoxi-m-toluidina. (p-cresidina). | 120-71-8 |
+| 1163 | 3-etil-2-metil-2-(3-metilbutil)-1,3-oxazolidina. | 143860-04-2 |
+| 1164 | Mezcla de: 1,3,5-tris(3-aminometilfenil)-1,3,5-(1H,3H,5H)-triacina-2,4,6-triona y mezcla de oligómeros de 3,5-bis(3-aminometilfenil)-1-poli[3,5-bis(3-aminometilfenil)-2,4,6-trioxo-1,3,5-(1H,3H,5H)-triacin-1-il]-1,3,5-(1H,3H,5H)-triacina-2,4,6-triona. | n.º CE 421-550-1 |
+| 1165 | 2-nitrotolueno. | 88-72-2 |
+| 1166 | Fosfato tributílico. | 126-73-8 |
+| 1167 | Naftaleno. | 91-20-3 |
+| 1168 | Nonilfenol [1]. 4-nonilfenol, ramificado [2]. | 25154-52-3 [1] 84852-15-3 [2] |
+| 1169 | 1,1,2-tricloroetano. | 79-00-5 |
+| 1170 | Pentacloroetano. | 76-01-7 |
+| 1171 | Cloruro de vinilideno. (1,1-dicloroetileno). | 75-35-4 |
+| 1172 | Cloruro de alilo; (3-cloropropeno). | 107-05-1 |
+| 1173 | 1,4-diclorobenceno. (p-diclorobenceno). | 106-46-7 |
+| 1174 | Bis(2-cloroetil) éter. | 111-44-4 |
+| 1175 | Fenol. | 108-95-2 |
+| 1176 | Bisfenol A. (4,4'-isopropilidendifenol). | 80-05-7 |
+| 1177 | Trioximetileno. (1,3,5-trioxan). | 110-88-3 |
+| 1178 | Propargita (ISO). | 2312-35-8 |
+| 1179 | 1-cloro-4-nitrobenceno. | 100-00-5 |
+| 1180 | Molinato (ISO). | 2212-67-1 |
+| 1181 | Fenpropimorf. | 67564-91-4 |
+| 1182 | Epoxiconazol. | 133855-98-8 |
+| 1183 | Isocianato de metilo. | 624-83-9 |
+| 1184 | N,N-dimetilanilinio tetrakis (pentafluorofenil) borato. | 118612-00-3 |
+| 1185 | O,O'-(etenilmetilsilileno) di[(4-metilpentan-2-ona)oxima]. | n.º CE 421-870-1 |
+| 1186 | Mezcla 2:1 de: 4-(7-hidroxi-2,4,4-trimetil-2-cromanil) resorcinol-4-il-tris(6-diazo-5,6-dihidro-5-oxonaftalen-1-sulfonato) y 4-(7-hidroxi-2,4,4-trimetil-2-cromanil) resorcinolbis(6-diazo-5,6-dihidro-5-oxonaftalen-1-sulfonato). | 140698-96-0 |
+| 1187 | Mezcla de: producto de reacción de 4,4'-metilenbis[2-(4 hidroxibencil)-3,6-dimetilfenol] y 6-diazo-5,6-dihidro-5-oxo-naftalensulfonato (1:2) y producto de reacción de 4,4'-metilenbis[2-(4-hidroxibencil)-3,6-dimetilfenol] y 6-diazo-5,6-dihidro-5-oxonaftalensulfonato (1:3). | n.º CE 417-980-4 |
+| 1188 | Verde de malaquita clorhidrato [1]. Verde de malaquita oxalato [2]. | 569-64-2 [1] 18015-76-4 [2] |
+| 1189 | 1-(4-clorofenil)-4,4-dimetil-3-(1,2,4-triazol-1-ilmetil)pentan-3-ol. | 107534-96-3 |
+| 1190 | 5-(3-butiril-2,4,6-trimetilfenil)-2-[1-(etoxiimino)propil]. 3-hidroxiciclohex-2-en-1-ona. | 138164-12-2 |
+| 1191 | Trans-4-fenil-l-prolina. | 96314-26-0 |
+| 1192 | Heptanoato de bromoxinilo (ISO). | 56634-95-8 |
+| 1193 | Mezcla de: 5-[(4-[(7-amino-1-hidroxi-3-sulfo-2-naftil)azo]-2,5-dietoxifenil)azo]-2-[(3-fosfonofenil)azo] del ácido benzoico y 5-[(4-[(7-amino-1-hidroxi-3-sulfo-2-naftil)azo]-2,5-dietoxifenil)azo]-3-[(3-fosfonofenil)azo] del ácido benzoico. | 163879-69-4 |
+| 1194 | 2-{4-(2-amoniopropilamino)-6-[4-hidroxi-3-(5-metil-2. Metoxi-4-sulfamoilfenilazo)-2-sulfonatonaft-7-ilamino]. 1,3,5-triacin-2-ilamino}-2-aminopropil formato. | n.º CE 424-260-3 |
+| 1195 | 5-nitro-o-toluidina [1]. Clorhidrato de 5-nitro-o-toluidina [2]. | 99-55-8 [1] 51085-52-0 [2] |
+| 1196 | 1-(1-naftilmetil)quinolinio cloruro. | 65322-65-8 |
+| 1197 | (R)-5-bromo-3-(1-metil-2-pirrolidinil metil)-1H-indol. | 143322-57-0 |
+| 1198 | Pimetrocina (ISO). | 123312-89-0 |
+| 1199 | Oxadiargilo (ISO). | 39807-15-3 |
+| 1200 | Clortoluron. 3-(3-Cloro-p-tolil)-1,1-dimetilurea. | 15545-48-9 |
+| 1201 | N-[2-(3-acetil-5-nitrotiofen-2-ilazo)-5-dietilaminofenil]. Acetamida. | n.º CE 416-860-9 |
+| 1202 | 1,3-bis(vinilsulfonilacetamido)-propano. | 93629-90-4 |
+| 1203 | p-fenetidina (4-etoxianilina). | 156-43-4 |
+| 1204 | m-fenilendiamina y sus sales. | 108-45-2 |
+| 1205 | Residuos (alquitrán de hulla), destilación del aceite de creosota, si contienen más de 0,005 % p/p de benzo[a]pireno. | 92061-93-3 |
+| 1206 | Aceite de creosota, fracción de acenafteno, aceite de lavado, si contiene más de 0,005 % p/p de benzo[a]pireno. | 90640-84-9 |
+| 1207 | Aceite de creosota, si contiene más de 0,005 % p/p de benzo[a]pireno. | 61789-28-4 |
+| 1208 | Creosota, si contiene más de 0,005 % p/p de benzo[a]pireno. | 8001-58-9 |
+| 1209 | Aceite de creosota, destilado de elevado punto de ebullición, aceite de lavado, si contiene más de 0,005 % p/p de benzo[a]pireno. | 70321-79-8 |
+| 1210 | Residuos del extracto (hulla), ácido de aceite de creosota, residuo de extracto de aceite de lavado, si contienen más de 0,005 % p/p de benzo[a]pireno. | 122384-77-4 |
+| 1211 | Aceite de creosota, destilado de bajo punto de ebullición, aceite de lavado, si contiene más de 0,005 % p/p de benzo[a]pireno. | 70321-80-1 |
+
+(1) Véase el número de referencia 364 del anexo II.
+
+(2) Véase el número de referencia 411 del anexo II.
+
+> Se suprimen los números 615 y 616, se modifica el 687 y se añaden del 1137 al 1211 por el art. 1.1 de la Orden SCO/1730/2006, de 24 de mayo. Ref. BOE-A-2006-9894.
 
 > Se añaden los números 1133 a 1136 por el art. 1.1 de la Orden SCO/747/2006, de 9 de marzo. Ref. BOE-A-2006-4879.
 
