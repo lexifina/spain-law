@@ -50,9 +50,9 @@ C.2.5.8 Centros de transfusión: centros sanitarios en los que se efectúan cual
 
 C.2.5.9 Bancos de tejidos: centros sanitarios encargados de conservar y garantizar la calidad de los tejidos, después de su obtención y hasta su utilización como aloinjertos o autoinjertos.
 
-C.2.5.10 Centros de reconocimiento médico: centros sanitarios donde se efectúan las revisiones médicas e informes de aptitud a los aspirantes o titulares de permisos o licencias, o para la realización de determinadas actividades, y para su renovación.
+C.2.5.10 Centros de reconocimiento: centros sanitarios donde, de acuerdo con lo previsto en su normativa específica, se llevan a cabo reconocimientos médicos y psicológicos para determinar las condiciones físicas y psicológicas de los aspirantes o titulares de permisos o licencias, o para la realización de determinadas actividades y para su renovación.
 
-C.2.5.11 Centros de salud mental: centros sanitarios en los que se realiza el diagnóstico y tratamiento en régimen ambulatorio de las enfermedades mentales.
+C.2.5.11 Centros de salud mental: centros sanitarios en los que se realiza el diagnóstico y tratamiento en régimen ambulatorio de las enfermedades y trastornos mentales, emocionales, relacionales y del comportamiento.
 
 C.2.5.90. Otros centros especializados: son aquellos centros especializados que no se ajustan a las características de ninguno de los grupos anteriores.
 
@@ -214,7 +214,7 @@ U.68 Urgencias: unidad asistencial que, bajo la responsabilidad de un médico, e
 
 U.69 Psiquiatría: unidad asistencial en la que un médico especialista en Psiquiatría es responsable de realizar el estudio, diagnóstico y tratamiento de los trastornos mentales y del comportamiento.
 
-U.70 Psicología clínica: unidad asistencial en la que un psicólogo especialista en Psicología clínica, dentro del campo de su titulación, es responsable de realizar diagnósticos, evaluaciones y tratamientos de carácter psicológico de aquellos fenómenos psicológicos, conductales y relacionales que inciden en la salud de los seres humanos.
+U.70 Psicología clínica: unidad asistencial en la que un psicólogo especialista en Psicología clínica es responsable de realizar el diagnóstico, evaluación, tratamiento y rehabilitación de los trastornos mentales, emocionales, relacionales y del comportamiento.
 
 U.71 Atención sanitaria a drogodependientes: unidad asistencial pluridisciplinar en la que, bajo la supervisión de un facultativo sanitario, se prestan servicios de prevención, atención y rehabilitación al drogodependiente, mediante la aplicación de técnicas terapéuticas.
 
@@ -278,6 +278,8 @@ U.100 Transporte sanitario (carretera, aéreo, marítimo): unidad asistencial qu
 
 U.101 Terapias no convencionales: unidad asistencial en la que un médico es responsable de realizar tratamientos de las enfermedades por medios de medicina naturista o con medicamentos homeopáticos o mediante técnicas de estimulación periférica con agujas u otros que demuestren su eficacia y su seguridad.
 
-U.900 Otras unidades asistenciales: unidades que, bajo la responsabilidad de profesionales sanitarios, capacitados por su titulación oficial o habilitación profesional, no se ajustan a las características de ninguna de las anteriormente definidas por realizar actividades sanitarias innovadoras o en fase de evaluación clínica.
+U.900 Otras unidades asistenciales: unidades bajo la responsabilidad de profesionales con titulación oficial o habilitación profesional que, aun cuando no tengan la consideración legal de «profesiones sanitarias tituladas y reguladas» en el sentido previsto en el artículo 2.1 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, llevan a cabo actividades sanitarias que no se ajustan a las características de ninguna de las unidades anteriormente definidas, por su naturaleza innovadora, por estar en fase de evaluación clínica, o por afectar a profesiones cuyo carácter polivalente permite desarrollar, con una formación adecuada, actividades sanitarias vinculadas con el bienestar y salud de las personas en centros que tengan la consideración de sanitarios.
+
+> Se modifican los apartados "Centros sanitarios" y "Oferta asistencial" por el art. único.2 a 5 de la Orden SCO/1741/2006, de 29 de mayo. Ref. BOE-A-2006-9963.
 
 > Redactado el apartado "Oferta asistencial" conforme a la corrección de errores publicada en BOE núm. 162, de 6 de julio de 2004. Ref. BOE-A-2004-12572

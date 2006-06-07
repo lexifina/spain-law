@@ -32,7 +32,7 @@
 | C.2.5.7 Centros móviles de asistencia sanitaria. | U.26 Ginecología. |
 | C.2.5.8 Centros de transfusión. | U.27 Inseminación artificial. |
 | C.2.5.9 Bancos de tejidos. | U.28 Fecundación in vitro. |
-| C.2.5.10 Centros de reconocimiento médico. | U.29 Banco de semen. |
+| C.2.5.10 Centros de reconocimiento. | U.29 Banco de semen. |
 | C.2.5.11 Centros de salud mental. | U.30 Laboratorio de semen para capacitación espermática. |
 | C.2.5.90 Otros centros especializados. |  |
 | C.2.90 Otros proveedores de asistencia sanitaria sin Internamiento. | U.31 Banco de embriones. |
@@ -119,5 +119,7 @@ E.3 Ópticas.
 E.4 Ortopedias.
 
 E.5 Establecimientos de audioprótesis.
+
+> Se modifica la referencia C.2.5.10 por el art. único.1 de la Orden SCO/1741/2006, de 29 de mayo. Ref. BOE-A-2006-9963.
 
 > Redactado conforme a las correcciones de errata y de errores publicadas en BOE núms. 279, de 21 de noviembre de 2003. Ref. BOE-A-2003-21190, y 162, de 6 de julio de 2004. Ref. BOE-A-2004-12572
