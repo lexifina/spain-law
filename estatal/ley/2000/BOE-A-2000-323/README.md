@@ -1036,4 +1036,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final decimonovena](dfdecimonovena.md)
 - [Disposición final vigésima](dfvigesima.md)
 - [Disposición final vigésima primera](dfvigesimaprimera.md)
+- [Disposición final vigésima segunda](dfvigesimasegunda.md)
+- [Disposición final vigésima tercera](dfvigesimatercera.md)
 - [firma](firma.md)
