@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Uso de la banda de 50 MHz.
+
+Hasta la efectiva liberación de la banda 50,0 a 51,0 MHz por otros servicios de radiocomunicaciones autorizados, el uso de la misma por aficionados, con cualquier tipo de estación, quedará restringida a los ámbitos geográficos en los que se asegure la ausencia de interferencias perjudiciales a dicho servicio. En función de los planes de abandono de emisiones por el servicio de televisión en esta banda de frecuencia, las instrucciones que se dicten para la aplicación del Reglamento de Radioaficionados especificarán, en cada momento, las restricciones geográficas de uso por los radioaficionados.
