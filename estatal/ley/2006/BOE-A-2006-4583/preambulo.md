@@ -1,0 +1,87 @@
+## JUAN CARLOS I
+
+## REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+
+Exposición de motivos
+
+## I
+
+Barcelona, capital de Cataluña, ha sido siempre un símbolo de libertad y de progreso. Ciudad de convivencia, hecha en la pluralidad y en la diversidad, ha proyectado al mundo su capacidad de iniciativa, su vocación de modernidad y su compromiso solidario con la construcción de un mundo en paz, basado en el respeto y la tolerancia. Barcelona, cuna de culturas, ha sido y quiere ser un ejemplo en la defensa de los derechos humanos y de los pueblos.
+
+A comienzos del siglo XXI, Barcelona quiere otorgarse, partiendo de la experiencia de muchos siglos de estatuto propio, de casi veinticinco años de autogobierno democrático y de acuerdo con el mandato del Parlamento de Cataluña y de las Leyes del Estado, una Carta Municipal que refuerce su autonomía, al servicio de una gestión administrativa eficaz y próxima a las ciudadanas y ciudadanos, de una descentralización más amplia, de una potenciación de las competencias municipales en el marco de una positiva colaboración institucional, y de una mejora de la calidad de los servicios de la ciudad que se corresponda con las necesidades y ambiciones de todos los barceloneses y barcelonesas.
+
+Una Carta que responda a los anhelos de la ciudadanía que, a través de su participación e implicación colectiva, ha hecho de Barcelona lo que es. La Carta profundiza los mecanismos de participación ciudadana, refuerza la práctica democrática y estimula la cooperación entre el Ayuntamiento y el movimiento asociativo y los agentes sociales, como factor de progreso y cohesión.
+
+Barcelona es el núcleo central de un continuo urbano y de un territorio que se expresa en realidades municipales plurales y con valor propio, pero que, por su carácter metropolitano, requiere coordinación, entendimiento y la aplicación de criterios comunes en ámbitos diversos.
+
+El Municipio de Barcelona dispone desde el año 1960 de un régimen especial, aprobado por Decreto 1166/1960, por el que se regula el régimen especial de Barcelona, en virtud del cual se introdujeron determinadas singularidades relativas a la organización, administración y hacienda municipal en dicho Municipio. Este régimen especial fue complementado con el Decreto 3276/1974, de 28 de noviembre, de constitución y desarrollo de la Entidad Metropolitana de Barcelona y sus disposiciones concordantes.
+
+Posteriormente, la Ley 7/1985, reguladora de las Bases del Régimen Local, mantuvo vigente dicho régimen especial salvo en lo que se oponga, contradiga o resulte incompatible con la misma, en virtud de lo dispuesto en su disposición adicional sexta.
+
+Pero más allá de antecedentes históricos, desde la década de los 80, el Ayuntamiento de Barcelona ha plasmado, en diversos documentos, su inquietud por disponer de una normativa que solucionara las deficiencias que los responsables municipales se encontraban a la hora de gestionar una ciudad de más de un millón y medio de habitantes, pero con un anillo metropolitano que engloba casi tres millones, y ofreciera soluciones adecuadas para la óptima gestión de la ciudad. El hito más relevante de este proceso lo constituyó la promulgación por el Parlamento de Cataluña, tras su aprobación por el Pleno del Ayuntamiento de Barcelona por unanimidad en julio de 1997 de un «Anteproyecto de Ley especial de Barcelona», de la Ley 22/1998, de 30 de diciembre, de la Carta Municipal de Barcelona, norma autonómica donde se contempla un régimen especial para dicha ciudad en lo que se refiere a diversos aspectos referidos en los títulos de la misma, como son la organización del Gobierno Municipal, los distritos, la potestad normativa municipal, la participación ciudadana y los derechos de los vecinos, la organización municipal ejecutiva, y, esencialmente las competencias municipales (urbanismo, infraestructuras, vivienda, transportes, movilidad, telecomunicaciones, medio ambiente, salud pública, servicios sociales, juventud, cultura, deportes, educación, seguridad ciudadana y protección civil, entre otras).
+
+La legislación estatal posconstitucional se ha hecho eco de esta necesidad de que las dos ciudades más pobladas de la geografía española dispongan de una serie de especialidades, justificadas precisamente en las dificultades que la gestión de los asuntos municipales comporta en las mismas.
+
+Así, la disposición transitoria cuarta de la reciente Ley 57/2003, de 16 de diciembre, de Medidas para la Modernización del Gobierno Local, establece que «En tanto no se apruebe su régimen especial, el Título X de esta Ley no será de aplicación al municipio de Barcelona».
+
+Por su parte, el artículo 161 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales dispone que «El municipio de Barcelona tendrá un régimen financiero especial, del que será supletorio lo dispuesto en esta ley».
+
+Las Cortes Generales, en diversas ocasiones, han destacado también la importancia de aprobar el régimen especial que en esta ley se instaura. En fecha 18 de marzo de 2003, el Congreso de los Diputados adoptó la proposición no de ley sobre las grandes ciudades, las ciudades y sus áreas de influencia urbana, en la que se instaba al Gobierno de la Nación para que, a través del diálogo con las Entidades Locales, las Comunidades Autónomas y buscando el más amplio consenso con las fuerzas políticas presentes en las Cortes Generales, diera cumplimiento a la moción aprobada por el Senado en sesión de 19 de febrero de 2002, por la que se insta al Gobierno, en el marco de las conversaciones existentes entre éste y la Comisión Mixta Generalidad de Cataluña-Ayuntamiento de Barcelona, y de los acuerdos que en ésta se adopten, a presentar, con la mayor brevedad posible, un proyecto de ley que otorgue al Ayuntamiento de Barcelona las capacidades y competencias que se recogen en la Carta Municipal de Barcelona.
+
+La relevancia de Barcelona en los ámbitos económico, social y cultural, así como su proyección europea e internacional, motiva la existencia de unas necesidades organizativas y competenciales que difieren, en algunos aspectos, de las existentes en otros municipios españoles. Si una de las críticas más reiteradas por la doctrina en relación con la regulación de las entidades locales, ha sido la relativa al uniformismo en su tratamiento, en metrópolis como Barcelona es donde resulta más acusada la necesidad de articular alguna medida que permita a los responsables municipales atender de manera efectiva las demandas ciudadanas. A la voluntad de dar respuesta a esta necesidad obedece la presente Ley, que constituye, junto a la Ley del Parlamento de Cataluña 22/1998, de la Carta Municipal de Barcelona, la regulación del régimen especial aplicable a esta ciudad.
+
+## II
+
+La Ley consta de 77 artículos, distribuidos en cuatro Títulos, cuatro disposiciones adicionales, una derogatoria y cuatro finales.
+
+El Título I recoge las disposiciones generales, aclarando el régimen jurídico que resulta de aplicación al municipio de Barcelona y consagrando la autonomía local que garantiza la Constitución. De esta forma, se hace eco del principio de subsidiariedad, construido en el Derecho comunitario y plasmado en el artículo 4 de la Carta Europea de Autonomía Local, hecha en Estrasburgo el 15 de octubre de 1985, y ratificada por España por Instrumento de 20 de enero de 1988.
+
+Asimismo, este Título I regula una Comisión de Colaboración interadministrativa, configurada como órgano de colaboración entre las Administraciones estatal, autonómica y municipal, que plasmará sus acuerdos a través de los convenios que se suscriban en las materias de interés común.
+
+El Título II recoge las especialidades competenciales del Ayuntamiento de Barcelona, en una serie de materias de directa incidencia en la convivencia ciudadana, tales como el Puerto de Barcelona, el litoral, las telecomunicaciones, la movilidad o la seguridad ciudadana.
+
+La incidencia de la planificación y de la gestión de las grandes infraestructuras del transporte y de comunicaciones en general en los intereses de la comunidad vecinal municipal se evidencia tanto desde el punto de vista de su calidad de vida como desde el de su promoción económica. En este sentido, la participación municipal en dichos ámbitos es una materialización del principio de autonomía local.
+
+En cualquier caso, el carácter de competencia estatal no oculta la interrelación existente entre la planificación y la gestión de las infraestructuras estatales y las competencias estrictamente municipales.
+
+La participación municipal que se instaura en esta materia es compatible con las disposiciones normativas que contemplan la intervención municipal mediante informes previos a las diferentes resoluciones a adoptar. Además del análisis previo en el momento del informe, se considera conveniente contemplar la presencia de representantes municipales que puedan colaborar en la adopción de decisiones públicas y en la ponderación de la totalidad de intereses públicos implicados. A esta finalidad responde la previsión contenida en el artículo 6.2, donde se permite incrementar la representación que corresponde al Ayuntamiento de Barcelona en el Consejo de Administración de la Autoridad Portuaria del Puerto de Barcelona, dadas las especiales características del mismo, donde coexisten, junto a su actividad portuaria principal, múltiples actividades lúdicas y de ocio.
+
+Similares consideraciones procede realizar en relación con la previsión de suscripción de un Plan de Gestión integrada del litoral, como fórmula de colaboración entre el Estado -a través del Ministerio de Medio Ambiente-, la Generalidad de Cataluña y el Ayuntamiento de Barcelona para la gestión de los bienes de dominio público marítimo-terrestre ubicados en el término municipal.
+
+El capítulo II de este Título introduce algunas medidas destinadas a facilitar la construcción de viviendas sujetas a algún régimen de protección pública, tratando de posibilitar la adquisición por parte del Ayuntamiento de inmuebles radicados en el municipio, para que puedan dedicarse a la construcción de esta tipología de viviendas.
+
+Tal y como se ha señalado, la Ley se incardina en un proceso de atribución de una mayor participación de los entes locales en competencias que, a pesar de definirse y estructurarse como competencias exclusivas del Estado, tienen repercusiones importantes en el ámbito local; entre ellas, las telecomunicaciones. Por esta razón, se dedica el capítulo III a la regulación de esta materia, si bien siguiendo el esquema de la reciente Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones.
+
+El capítulo IV se dedica a introducir una especialidad en los procedimientos de declaración de bienes de interés cultural sobre inmuebles radicados en Barcelona, estableciendo un informe preceptivo del Ayuntamiento.
+
+El capítulo V se destina a la regulación de un aspecto tan capital en las grandes ciudades como es la movilidad. En general, los distintos artículos contenidos en este capítulo V del Título II de la Ley vienen motivados por la necesidad de incrementar y reforzar la autoridad del Alcalde y de sus agentes en materia de tráfico, circulación y seguridad vial en las vías urbanas y travesías que discurren por el término municipal de Barcelona.
+
+Tal reforzamiento de la autoridad se justifica por las características concretas que presenta el tráfico en Barcelona, que a su vez causan problemas de movilidad importantes que son específicos y distintos a los que se pueden encontrar en otros municipios españoles. Entre tales circunstancias es de especial importancia tener en cuenta los problemas provocados por los efectos de la centralidad de Barcelona, especialmente respecto a los municipios del área metropolitana, que, atendiendo a la gran densidad de población existente en dicha área, tiene como consecuencia directa la entrada y salida constante de una gran cantidad de vehículos provenientes de otros municipios.
+
+El fortalecimiento de la autoridad del Alcalde y de sus agentes constituye un paso importante para incrementar el nivel de eficacia en la realización efectiva de las políticas municipales en materia de movilidad. Basta tener en cuenta, en este sentido, que Barcelona es una ciudad en la que se imponen, anualmente, más de un millón seiscientas mil multas de tráfico, de las cuales apenas se llegan a poder hacer efectivas un bajo porcentaje de las mismas. Este reducido nivel de efectividad de las sanciones, que está motivado por distintas causas específicas, conlleva, como consecuencia inmediata, un declive de la autoridad del Alcalde y, consiguientemente, un aumento de la indisciplina vial y una dificultad adicional para alcanzar la eficacia deseable en la implantación de las medidas y acciones de movilidad emprendidas por el Ayuntamiento.
+
+En definitiva, sólo incrementando las facultades del Ayuntamiento, de su Alcalde y de sus agentes en materia de ordenación, vigilancia y control del tráfico y las potestades correspondientes, podrá conseguirse un aumento del nivel de efectividad de las distintas políticas municipales en materia de movilidad.
+
+Finalmente, el capítulo VI versa sobre otra materia de indudable incidencia e importancia en las metrópolis: la seguridad ciudadana, constituyendo uno de los aspectos que más preocupa a los ciudadanos de las grandes urbes, debido al incremento de las actividades delictivas en este ámbito. El objetivo de la regulación en esta materia persigue, por un lado, incrementar la eficacia de las políticas desarrolladas mediante un reforzamiento de las funciones de autoridad del Alcalde y, por otro, asegurar en esta materia la participación ciudadana y de todas aquellas instituciones con competencias en materia de seguridad ciudadana en la elaboración y diseño de las correspondientes estrategias.
+
+El Título III consolida la existencia de la denominada «Justicia de Proximidad», un nuevo escalón judicial dirigido a resolver los conflictos derivados de la convivencia ciudadana, sin los inconvenientes de formalismo y lentitud que en ocasiones sufre la justicia ordinaria. No obstante, y dado que el artículo 122 de la Constitución reserva la regulación de esta materia a la Ley Orgánica del Poder Judicial, se difiere la puesta en marcha de los Juzgados de Proximidad a la aprobación de la modificación de dicha Ley Orgánica en este sentido.
+
+Finalmente, el Título IV aborda la regulación del régimen financiero especial del Ayuntamiento de Barcelona al que hace referencia el artículo 161 de la Ley Reguladora de las Haciendas Locales, aprobada por Real Decreto Legislativo 2/2004, de 5 de marzo. Dicho régimen especial recoge aquellas peculiaridades del Ayuntamiento de Barcelona que resultan necesarias por la elevada población del municipio, así como por sus características singulares. Así, se regulan una serie de particularidades en relación a los recursos tributarios, tales como el tratamiento de las bonificaciones, el procedimiento de autoliquidación, el sistema de recursos o la plasmación del Consejo Tributario, órgano existente actualmente en la estructura orgánica del Ayuntamiento, cuyo balance de funcionamiento ha sido muy positivo, por lo que se desea incluir su regulación en la Ley, aclarando de esta forma el régimen jurídico de un organismo que interviene en la resolución de los recursos interpuestos por los ciudadanos en materia tributaria.
+
+Por otra parte, se introducen ciertas especialidades en la regulación propia de cada uno de los tributos -impuestos, tasas y contribuciones especiales- con la finalidad de mejorar la gestión y funcionamiento de los mismos.
+
+El capítulo III de este Título regula la participación del Ayuntamiento de Barcelona en los tributos del Estado, recogiendo fundamentalmente dos especialidades que singularizan al municipio de Barcelona en relación a otros de equivalentes características:
+
+La financiación de instituciones con amplia proyección y relevancia del municipio de Barcelona.
+
+La existencia «de facto» del área metropolitana de Barcelona. No obstante, la eventual financiación de la misma se difiere a la necesidad de que la propia Comunidad Autónoma, en uso de sus competencias en materia de creación de las entidades locales no necesarias, proceda a su creación.
+
+El capítulo IV recoge algunas particularidades en materia de planificación económica, presupuesto y gasto público.
+
+La disposición adicional primera pretende conseguir el objetivo, señalado por la Unión Europea, de que las personas con discapacidad puedan estacionar en las zonas reservadas al efecto, con independencia del lugar de procedencia del discapacitado, pudiéndose acoger a esta medida todos aquellos Ayuntamientos que emitan dichas tarjetas de estacionamiento con arreglo al modelo establecido en la Recomendación 98/376/CE del Consejo, de 4 de junio de 1988, sobre la creación de una tarjeta para las personas con discapacidad.
+
+La disposición adicional segunda concreta la legislación aplicable en materia de financiación del área metropolitana, para el supuesto de que se proceda a su creación por la Comunidad Autónoma. Asimismo, se contienen en esta parte final otras concreciones, como el plazo de suscripción del convenio al que se refiere el artículo 6.3, o la modificación de la Ley de Régimen del Suelo y Valoraciones.

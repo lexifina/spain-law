@@ -1,3 +1,5 @@
 ## Disposición transitoria cuarta. Régimen del municipio de Barcelona.
 
-En tanto no se apruebe su régimen especial, el título X de esta ley no será de aplicación al municipio de Barcelona.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.d) de la Ley 1/2006, de 13 de marzo. Ref. BOE-A-2006-4583.
