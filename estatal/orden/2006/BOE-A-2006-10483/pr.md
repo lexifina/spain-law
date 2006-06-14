@@ -1,0 +1,11 @@
+La Constitución Española, en su artículo 9.2, establece que corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas, removiendo los obstáculos que impidan o dificulten su plenitud y facilitando su participación en la vida política, social y cultural. La misma norma, en su artículo 14 reconoce la igualdad ante la Ley, sin que pueda existir discriminación alguna.
+
+En el ámbito de la Administración Pública, la Ley 53/2003, de 10 de diciembre, sobre empleo público de discapacitados, modifica la disposición adicional decimonovena de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, en el sentido de que se reservará, en las ofertas de empleo público, un cupo no inferior al 5 % de las vacantes para ser cubiertas por personas con discapacidad cuyo grado de minusvalía sea igual o superior a 33 %, de modo que progresivamente se alcance el dos por ciento de los efectivos totales de la Administración del Estado, siempre que superen las pruebas selectivas y acrediten la compatibilidad con el desempeño de las tareas y funciones correspondientes.
+
+En desarrollo de esta norma y con el objetivo de fomentar la práctica de acciones positivas que favorezcan la igualdad de oportunidades, se aprueba el Real Decreto 2271/2004, de 3 de diciembre, por el que se regula el acceso al empleo público y la provisión de puestos de trabajo de las personas con discapacidad.
+
+Este texto, incorpora en las pruebas selectivas, incluyendo los cursos de formación o períodos de prácticas, la adopción, para las personas con discapacidad que lo soliciten, de diversas medidas de adaptación y ajustes razonables de medios y tiempos atendiendo a las dificultades específicas que la persona pueda tener para la realización de las pruebas.
+
+El artículo 8.3 del citado Real Decreto, expresa el mandato a los Ministerios de Administraciones Públicas y de Trabajo y Asuntos Sociales, para que dicten una resolución conjunta en la que se establezcan los criterios generales para determinar la adaptación de tiempos adicionales en los procesos selectivos en los que concurran personas con discapacidad.
+
+En virtud de todo lo anteriormente expuesto, a propuesta de los Ministros de Administraciones Públicas y de Trabajo y Asuntos Sociales, dispongo:
