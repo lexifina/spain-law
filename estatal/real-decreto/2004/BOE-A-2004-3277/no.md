@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 84, de 7 de abril de 2004. Ref. BOE-A-2004-6226
+Se derogan las referencias a las bonificaciones en las cuotas empresariales a la Seguridad Social por la disposición derogatoria única.2.c) del Real Decreto-ley 5/2006, de 9 de junio. Ref. BOE-A-2006-10562.
