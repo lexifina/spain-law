@@ -2,51 +2,55 @@
 
 1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_010.png)
 
 2. Tractores agrícolas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_014.png)
 
-3. Vehículos de 2 ó 3 ruedas cuadriciclos
+3. Vehículos de 2 ó 3 ruedas y cuadriciclos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_015.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_016.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_016.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_017.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_017.png)
 
 4. Varios
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_018.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_019.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_020.png)
+
+> Se modifica por la Orden ITC/1900/2006, de 13 de junio. Ref. BOE-A-2006-10739.
+
+> Véase la corrección de errores publicada en BOE núm. 167, de 14 de julio de 2006. Ref. BOE-A-2006-12689.
 
 > Se modifica por la Orden ITC/445/2006, de 14 de febrero. Ref. BOE-A-2006-3152.
 

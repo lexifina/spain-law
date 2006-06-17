@@ -1,22 +1,24 @@
-## ANEXO II
+Anexo II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_021.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_022.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_023.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_023.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_024.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_024.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_025.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_025.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_026.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_026.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_027.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_027.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_028.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_028.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/46/03152_029.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/143/10739_029.png)
+
+> Se modifica por la Orden ITC/1900/2006, de 13 de junio. Ref. BOE-A-2006-10739.
 
 > Se modifica por la Orden ITC/445/2006, de 14 de febrero. Ref. BOE-A-2006-3152.
 
