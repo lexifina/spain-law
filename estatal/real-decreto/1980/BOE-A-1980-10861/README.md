@@ -131,6 +131,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria cuarta](dt-4.md)
 - [ESTATUTOS DEL CONSEJO](ed.md)
 - [CAPÍTULO I](ci-11.md)
+- [Artículos 1 a 27](a1-12.md)
 - [Artículo 1](a1-13.md)
 - [Artículo 2](a2-12.md)
 - [CAPÍTULO II](ci-12.md)
