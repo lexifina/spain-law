@@ -41,6 +41,8 @@
 | 10 Pipradrol. |  | 1,1-fifenil-1-(2-peperidi) metanol. |
 | 11 | SPA. | (-)-1-dimetiIamino-1,2-difeniletano. |
 
+> Véase el art. único de la Orden SCO/2004/2006, de 19 de junio, por el que se modifica el apartado 2 de la Orden SCO/469/2002, de 19 de febrero, en relación a la inclusión de sustancias en la lista IV.Ref. BOE-A-2006-11291.
+
 > Véase el apartado 1 de la Orden SCO/2359/2004, de 2 de julio Ref. BOE-A-2004-13290, en relación a la inclusión de sustancias en la lista I.
 
 > Téngase en cuenta para su aplicación los apartados 2 y 3.
