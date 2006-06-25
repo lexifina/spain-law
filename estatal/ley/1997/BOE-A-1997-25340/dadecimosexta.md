@@ -1,12 +1,14 @@
 ## Disposición adicional decimosexta.
 
-El Gobierno podrá establecer por vía reglamentaria mecanismos de mercado que fomenten la contratación a plazo de energía eléctrica. Dichos mecanismos tomarán la forma de una emisión primaria de cierta cantidad de energía eléctrica, equivalente a una potencia constante durante un plazo de tiempo no superior a un año natural.
+El Gobierno podrá establecer por vía reglamentaria mecanismos de mercado que fomenten la contratación a plazo de energía eléctrica. Dichos mecanismos tomarán la forma de una emisión primaria de cierta cantidad de energía eléctrica, equivalente a una potencia determinada, en las condiciones y durante el período de tiempo que se especifiquen en la emisión.
 
 Esta emisión primaria de energía será realizada por aquellos productores de energía eléctrica que tengan la condición de operadores dominantes en el sector eléctrico.
 
 La potencia afectada en cada emisión no podrá ser superior, para cada operador dominante, al 20 por ciento de la potencia eléctrica instalada de la que sea directa o indirectamente titular. La capacidad de producción que podrá ser adquirida individualmente en cada emisión por cada participante quedará limitada a un máximo del 10 por ciento de la potencia total emitida.
 
 El Gobierno fijará reglamentariamente las condiciones y el procedimiento de funcionamiento y participación en esta emisión primaria de energía eléctrica, que deberá ser pública, transparente y no discriminatoria.
+
+> Se modifica el párrafo primero por el art. 1.14 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
 
 > Se modifican los párrafos segundo y tercero por el art. 21.6 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
 
