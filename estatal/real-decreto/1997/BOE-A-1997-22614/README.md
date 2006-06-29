@@ -34,6 +34,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 17](a17.md)
 - [Artículo 18](a18.md)
 - [Artículo 19](a19.md)
+- [Disposición adicional única](daunica.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
