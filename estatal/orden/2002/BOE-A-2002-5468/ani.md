@@ -22,15 +22,13 @@ La tarjeta modelo «D», con fondo color verde (norma color pantone 3272).
 
 3.3 Dispondrá asimismo de cuatro espacios reservados:
 
-a) Para el personal incluido en los puntos 1 y 2 del apartado tercero de esta Orden Ministerial, el primer espacio reservado estará formado por un código numérico, de doce dígitos, integrado por tres grupos diferenciados:
+a) Para el personal incluido en los puntos 1, 2 y 4 del apartado tercero de esta Orden Ministerial, el primer espacio reservado estará formado por un código numérico, de doce dígitos, integrado por tres grupos diferenciados:
 
 Primer grupo: Tres dígitos que identificarán respectivamente: El Ejército al que pertenece el titular de la TIM, el Cuerpo de la Guardia Civil o el Órgano Central para el personal de Cuerpos Comunes de las Fuerzas Armadas, la situación administrativa en la que se encuentra el interesado y la categoría en la que se encuadra el empleo que ostenta el propietario de la TIM.
 
 Segundo grupo: Ocho dígitos reservados para el número del documento nacional de identidad.
 
 Tercer grupo: Un dígito de control, que garantizará la correcta introducción del código completo en aquellas aplicaciones que lo requieran.
-
-Para el personal incluido en el punto 4 del apartado tercero de esta Orden ministerial la primera reserva estará formada por ocho dígitos para especificar el número que figura en el documento nacional de identidad del titular.
 
 b) El segundo será cumplimentado con el nombre y apellidos (en el que figurará el nombre y los dos primeros apellidos, concordando con los que figuran en el documento nacional de identidad).
 
@@ -85,5 +83,7 @@ Notas:
 (3). Espacio reservado para la fotografía.
 
 (4). Código numérico.
+
+> Se modifica el punto 3.3.a) por el apartado único.2 y 3 de la Orden DEF/2042/2006, de 20 de junio.Ref. BOE-A-2006-11489.
 
 > Se modifican los puntos 3.3.a) y 4.a) por el apartado 3 de la Orden DEF/728/2003, de 25 de marzo. Ref. BOE-A-2003-6587.

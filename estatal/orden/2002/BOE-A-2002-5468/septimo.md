@@ -1,6 +1,6 @@
 ## Séptimo. Renovación de la TIM.
 
-1. Para recibir la nueva TIM será preciso entregar previamente la antigua, excepto por motivo de pérdida o sustracción en cuyo caso se pondrá en conocimiento del Mando o Jefatura de Personal correspondiente, de la Subdirección General de Régimen Interior para el personal de los Cuerpos Comunes de las Fuerzas Armadas o de la Secretaría General de Política de Defensa para el personal militar de nacionalidad distinta a la española destinado en alguno de los Cuarteles Generales Internacionales ubicados en España, siguiendo el conducto reglamentario, y acompañando al escrito una fotocopia de la denuncia interpuesta en Comisaría o Puesto de la Guardia Civil por el hecho.
+1. Para recibir la nueva TIM será preciso entregar previamente la antigua, excepto por motivo de pérdida o sustracción en cuyo caso se pondrá en conocimiento del Mando o Jefatura de Personal correspondiente, de la Dirección General de Personal para el personal de los Cuerpos Comunes de las Fuerzas Armadas o de la Secretaría General de Política de Defensa para el personal militar de nacionalidad distinta a la española destinado en alguno de los Cuarteles Generales Internacionales ubicados en España, siguiendo el conducto reglamentario, y acompañando al escrito una fotocopia de la denuncia interpuesta en Comisaría o Puesto de la Guardia Civil por el hecho.
 
 2. Las tarjetas antiguas entregadas serán destruidas.
 
@@ -31,3 +31,5 @@ k) Variación en la condición de «destinado» del personal en la reserva.
 l) Pase a retiro.
 
 m) Prolongación del tiempo de misión.
+
+> Se modifica el punto 1 por el apartado único.1 de la Orden DEF/2042/2006. Ref. BOE-A-2006-11489.
