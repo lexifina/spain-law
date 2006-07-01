@@ -1,6 +1,14 @@
-## Artículo 108 bis. Aplicación del tipo especial para los biocarburantes.
+## Artículo 108 bis. Aplicación de los tipos impositivos de biocarburantes y biocombustibles.
 
-1. La aplicación del tipo especial previsto en el artículo 50 bis de la Ley 38/1992, de 28 de diciembre, se regirá por lo dispuesto en este artículo y requerirá la previa introducción de los biocarburantes en una fábrica o depósito fiscal situados en el ámbito territorial interno, si no se hallasen previamente en uno de estos establecimientos.
+1. La aplicación de los tipos previstos en los epígrafes 1.13 a 1.15 del artículo 50 de la Ley se regirá por lo dispuesto en este artículo.
+
+A los solos efectos de la aplicación de este artículo se entenderá que la expresión «biocarburantes» comprende tanto los biocarburantes definidos en el artículo 49.1.m) de la Ley como los biocombustibles definidos en el artículo 49.1.n) que, en ambos casos, se destinen, como tales o previa modificación química, respectivamente a su uso como carburante o como combustible, directamente o mezclados con otros carburantes o combustibles.
+
+La aplicación de estos tipos impositivos requerirá la previa introducción de los biocarburantes en una fábrica o depósito fiscal situados en el ámbito territorial interno, si no se hallasen previamente en uno de estos establecimientos, o bien, tratándose de biocarburantes recibidos del resto del ámbito territorial comunitario sin pasar por dichos establecimientos, que el receptor tenga la condición de operador registrado o de operador no registrado. En caso de importaciones de biocarburantes fuera de régimen suspensivo, la aplicación de estos tipos podrá solicitarse de la Aduana de importación.
+
+Sin perjuicio de lo establecido en el párrafo anterior, una vez ultimado el régimen suspensivo, el biocarburante o el producto que lo contenga podrá ser mezclado, en establecimientos de venta e instalaciones de consumo final, con otros biocarburantes, productos que los contengan o carburantes convencionales por los que, en todos los casos, el régimen suspensivo estuviera igualmente ultimado. Cuando el biocarburante sea alcohol etílico deberá tener la condición de alcohol total o parcialmente desnaturalizado.
+
+Lo establecido en el párrafo anterior se entiende sin perjuicio del cumplimiento de lo previsto en la normativa vigente en materia de especificaciones técnicas de carburantes y biocarburantes.
 
 2. Cuando se trate de biocarburantes destinados, como tales o previa modificación química, a utilizarse sin mezclar, el tipo impositivo especial se aplicará en las condiciones previstas en el artículo 50 bis de la Ley 38/1992, de 28 de diciembre, una vez que se produzca el devengo del impuesto y siempre que no concurra la aplicación de un supuesto de exención.
 
@@ -16,55 +24,57 @@ d) Cuando la mezcla que contiene el biocarburante, como tal o previa modificaci�
 
 En los casos en que proceda, la autorización previa a que se refiere este apartado podrá ser concedida, en su caso, por el centro gestor cuando las operaciones de mezcla se lleven a cabo en más de un depósito fiscal o fábrica de los que sea titular una misma persona.
 
-4. No obstante lo dispuesto en el apartado 3, cuando se trate de gasolina sin plomo cuyo único contenido en biocarburante sea el bioetanol empleado en la obtención del aditivo ETBE (etil ter-butil eter) con el que está formulada, que sea introducida en depósitos fiscales logísticos, la aplicación del tipo especial respecto del referido bioetanol podrá alternativamente llevarse a cabo, previa autorización del centro gestor, por el procedimiento que se describe a continuación:
+4. No obstante lo dispuesto en el apartado 3, cuando se trate de biocarburantes destinados, como tales o previa modificación química, a mezclarse con un carburante antes de la ultimación del régimen suspensivo, o ya mezclados con un carburante en una fábrica o depósito fiscal, que se introduzcan en depósitos fiscales logísticos, la aplicación de los tipos previstos en los epígrafes 1.13 a 1.15 respecto de los referidos biocarburantes podrá alternativamente llevarse a cabo, previa autorización del centro gestor, por el procedimiento que se describe a continuación:
 
-a) Definiciones. Para la aplicación del procedimiento previsto en los párrafos b) a i) de este apartado 4, se establecen las siguientes definiciones:
+a) Definiciones.-Para la aplicación del procedimiento previsto en los párrafos b) a i) de este apartado 4 se establecen las siguientes definiciones:
 
-1.º Base a tipo impositivo especial: conforme a lo establecido en el artículo 50 bis de la Ley 38/1992, de 28 de diciembre, es el volumen de bioetanol que se considera contenido en determinada cantidad de gasolina sin plomo que haya salido del depósito fiscal a destinos fuera de régimen suspensivo y que no implican la aplicación de un supuesto de exención, sobre el que se aplica el tipo impositivo especial contemplado en dicho artículo. La determinación de su cuantía se efectuará conforme a lo establecido en el párrafo c) de este apartado.
+1.º "Base para la aplicación de los tipos de los epígrafes 1.13 a 1.15".-Conforme a lo establecido en el artículo 50 bis de la Ley, es el volumen de biocarburante que se considera contenido en determinada cantidad de gasolina sin plomo o de gasóleo que haya salido del depósito fiscal a destinos fuera de régimen suspensivo y que no implican la aplicación de un supuesto de exención, sobre el que se aplica uno de los tipos impositivos regulados en dichos epígrafes. La determinación de su cuantía se efectuará conforme a lo establecido en el párrafo c) de este apartado.
 
-2.º Depósito fiscal logístico: el depósito fiscal de hidrocarburos cuyo titular opere por cuenta de fabricantes o de otros introductores, que no adquiere la propiedad de los productos que recibe ni transmite la de los que expide. Cuando el titular del depósito fiscal logístico lo sea de otros, los movimientos producidos en el conjunto de los depósitos fiscales logísticos de los que sea titular se considerarán producidos en uno de ellos, que tendrá la consideración depósito fiscal logístico único, si se cumplen las siguientes condiciones:
+2.º "Depósito fiscal logístico".-El depósito fiscal de hidrocarburos cuyo titular opere por cuenta de fabricantes o de otros introductores, no adquiriendo la propiedad de los productos que recibe ni transmitiendo la de los que expide. Cuando el titular del depósito fiscal logístico lo sea de otros, los movimientos producidos en el conjunto de los depósitos fiscales logísticos de los que sea titular se considerarán producidos en uno de ellos, que tendrá la consideración depósito fiscal logístico único, si se cumplen las siguientes condiciones:
 
-Que el titular tenga una gestión contable integrada del conjunto de los movimientos producidos entre los depósitos, sin perjuicio de la que corresponde individualmente a cada una de ellos.
+que el titular tenga una gestión contable integrada del conjunto de los movimientos producidos entre los depósitos, sin perjuicio de la que corresponde individualmente a cada una de ellos,
 
-Que le haya sido autorizada la centralización del pago del impuesto para el conjunto de los depósitos de que es titular.
+que le haya sido autorizada la centralización del pago del impuesto para el conjunto de los depósitos de que es titular,y
 
-Que con referencia al depósito fiscal logístico único, se lleve un registro global que refleje los movimientos del bioetanol en aquél y, por cada fabricante o introductor, una cuenta de registro comprensiva de las entradas y salidas en el depósito fiscal logístico único de la gasolina aditivada y del bioetanol contenido en ella.
+que con referencia al depósito fiscal logístico único, se lleve un registro global que refleje los movimientos del biocarburante y, por cada fabricante o introductor, una cuenta de registro comprensiva de las entradas y salidas en el depósito fiscal logístico único de la gasolina sin plomo y del gasóleo, así como del biocarburante contenido en estos.
 
-3.º Cargo de bioetanol del período: la suma de las cantidades de bioetanol que, para cada fabricante o introductor, figuran en existencias en el depósito fiscal logístico al inicio de un período dado y de las cantidades de bioetanol introducidas en aquél durante dicho período.
+3.º "Cargo de biocarburante del período".-La suma de las cantidades de cada clase de biocarburante, diferenciadas según el epígrafe que les corresponda, que, para cada fabricante o introductor, figuran en existencias en el depósito fiscal logístico al inicio de un período dado y de las cantidades de biocarburante introducidas en el mismo durante dicho período.
 
-4.º Fabricante o introductor: el fabricante de hidrocarburos o comerciante de dichos productos a cuyo nombre se han introducido las gasolinas sin plomo aditivadas con ETBE en el depósito fiscal logístico.
+4.º "Fabricante o introductor".-El fabricante de hidrocarburos o comerciante de dichos productos a cuyo nombre se han introducido la gasolina sin plomo o el gasóleo que incorporan el biocarburante, en el depósito fiscal logístico.
 
-5.º Porcentaje de bioetanol en gasolinas aditivadas con ETBE: el porcentaje que, para cada período impositivo y fabricante o introductor, exprese el contenido teórico medio de bioetanol en el conjunto de las gasolinas sin plomo aditivadas con ETBE introducidas en el depósito fiscal logístico a lo largo de dicho período o que figuren como existencia al inicio de éste. Se computará como bioetanol, a estos efectos, el 45 por ciento en volumen del ETBE con el que se aditive la gasolina sin plomo.
+5.º "Porcentaje de biocarburante en gasolinas o gasóleos".-El porcentaje que, para cada período de liquidación y fabricante o introductor, exprese el contenido teórico medio de cada clase de biocarburante en el conjunto de las gasolinas o gasóleos que incorporan biocarburante, introducido en el depósito fiscal logístico a lo largo de dicho período o que figuren como existencia al inicio de este.
 
-6.º Salidas con pago del impuesto: las salidas del depósito fiscal logístico a destinos fuera de régimen suspensivo y que no implican la aplicación de un supuesto de exención.
+Cuando se trate de etil ter-butil eter (ETBE) se computará como bioetanol, a estos efectos, el 45 por ciento en volumen del ETBE con el que se aditive la gasolina sin plomo.
 
-b) Recepción de la gasolina sin plomo que contiene bioetanol.
+6.º "Salidas con pago del impuesto".-Las salidas del depósito fiscal logístico a destinos fuera de régimen suspensivo y que no implican la aplicación de un supuesto de exención.
 
-1.º La gasolina sin plomo aditivada con ETBE que contiene el bioetanol será objeto de anotación, a su recepción en el depósito fiscal logístico, en el cargo de la cuenta de gasolina sin plomo del libro de productos recibidos, indistintamente junto con el resto de gasolinas sin plomo recibidas, sin perjuicio de la anotación separada que proceda en función de su octanaje.
+b) Recepción de la gasolina o el gasóleo que contiene biocarburante.
 
-2.º Dicha gasolina sin plomo se recibirá en el depósito al amparo del correspondiente documento de acompañamiento en el que se indicará su porcentaje de bioetanol. Esta indicación tendrá carácter provisional hasta la confirmación de la cantidad global de bioetanol contenida en la gasolina sin plomo enviada al depósito fiscal logístico considerado desde cada establecimiento de origen y que figurará en la certificación recapitulativa a que se refiere el párrafo siguiente.
+1.º La gasolina o el gasóleo que contiene el biocarburante será objeto de anotación, a su recepción en el depósito fiscal logístico, en el cargo de la correspondiente cuenta del libro de productos recibidos, indistintamente junto con el resto de gasolinas o gasóleos, sin perjuicio de la anotación separada que de estos proceda en función del su octanaje o de su destino a un uso como combustible o carburante.
 
-3.º La cantidad de bioetanol contenida en la gasolina sin plomo recibida será contabilizada separadamente, justificándose por una certificación recapitulativa del conjunto de los envíos recibidos en el mes anterior, expedida por el interventor del establecimiento desde el que la gasolina sin plomo fue enviada al depósito fiscal logístico considerado.
+2.º Dicha gasolina o dicho gasóleo se recibirán en el depósito al amparo del correspondiente documento de acompañamiento en el que se indicará su porcentaje de biocarburante. Esta indicación tendrá carácter provisional hasta la confirmación de la cantidad global de biocarburante contenida en la gasolina o el gasóleo enviada al depósito fiscal logístico considerado desde cada establecimiento de origen y que figurará en la certificación recapitulativa a que se refiere el párrafo siguiente.
 
-c) Determinación de la base a tipo especial de cada período.
+3.º La cantidad de biocarburante contenida en la gasolina o en el gasóleo será contabilizada separadamente, justificándose por una certificación recapitulativa del conjunto de los envíos recibidos en el mes anterior, expedida por el interventor del establecimiento desde el que la gasolina o el gasóleo fueron enviados al depósito fiscal logístico considerado.
 
-1.º La base a tipo especial estará constituida por el cargo de bioetanol del período, siempre que dicho cargo no sea superior, para cada fabricante o introductor, al volumen que resultaría de aplicar, al volumen total de gasolina sin plomo que ha salido del depósito con pago del impuesto durante el período considerado por cuenta del mismo fabricante o introductor, el porcentaje de bioetanol en gasolinas aditivadas con ETBE.
+c) Determinación de la base para la aplicación de los tipos de los epígrafes 1.13 a 1.15 en cada período.
 
-2.º Cuando no se cumpla la condición establecida en el párrafo anterior, la base a tipo especial estará constituida por el volumen que resultaría de aplicar, al volumen total de gasolina sin plomo que ha salido del depósito con pago del impuesto durante el período considerado por cuenta del fabricante o introductor, el porcentaje de bioetanol en gasolinas aditivadas con ETBE.
+1.º Esta base estará constituida por el cargo de biocarburante del período correspondiente a cada epígrafe, siempre que dicho cargo no sea superior, para cada fabricante o introductor, al volumen que resultaría de aplicar, al volumen total de gasolina o de gasóleo que ha salido del depósito con pago del impuesto durante el período considerado por cuenta del mismo fabricante o introductor, el porcentaje de biocarburante en gasolinas o gasóleos.
 
-En este caso, no obstante, podrá integrarse en la base a tipo especial el volumen de bioetanol que, por imputación contable, se considere contenido en gasolinas sin plomo que se acredite fehacientemente que han salido del depósito, con pago del impuesto, por cuenta de otros fabricantes o introductores distintos del fabricante o introductor de que se trate.
+2.º Cuando no se cumpla la condición establecida en el párrafo anterior, la base estará constituida por el volumen que resultaría de aplicar, al volumen total de gasolina o gasóleo que ha salido del depósito con pago del impuesto durante el período considerado por cuenta del fabricante o introductor, el porcentaje de biocarburante en gasolinas o gasóleos.
 
-d) Envío de gasolina sin plomo a otros depósitos fiscales o a fábricas.
+En este caso, no obstante, podrá integrarse en esta base el volumen de biocarburante que, por imputación contable, se considere contenido en gasolinas o gasóleos que se acredite fehacientemente que han salido del depósito, con pago del impuesto, por cuenta de otros fabricantes o introductores distintos del fabricante o introductor de que se trate.
 
-1.º En el caso previsto en el párrafo c).2.º anterior, podrá imputarse, a las gasolinas sin plomo directamente enviadas en régimen suspensivo, por cuenta del fabricante o introductor, con destino a un depósito fiscal de distinto titular o a una fábrica situados en el ámbito territorial interno, una cantidad de bioetanol cuyo contenido porcentual en las referidas gasolinas no podrá exceder del porcentaje de bioetanol en gasolinas aditivadas con ETBE. En todo caso, deberá respetarse además la regla de cuantía máxima prevista en el párrafo e) siguiente.
+d) Envío de gasolina o gasóleo a otros depósitos fiscales o a fábricas.
 
-2.º La gasolina sin plomo a la que se impute el bioetanol será recibida en el depósito fiscal o fábrica de destino conforme a lo previsto, según el caso, en el apartado 3.d) o en el párrafo b) de este apartado 4. Las cantidades de gasolina sin plomo a las que se imputa el bioetanol serán objeto de una relación recapitulativa mensual, por cada depósito o fábrica de destino, y serán enviadas a éstos por el titular del depósito fiscal logístico que realiza la imputación. Dicha relación recapitulativa será igualmente enviada a la oficina gestora de la que dependa el referido depósito fiscal logístico, dentro de los 30 días siguientes a la terminación del mes a que dicha relación se refiere.
+1.º En el caso previsto en el párrafo c), 2.º, podrá imputarse, a las gasolinas o gasóleos directamente enviados en régimen suspensivo, por cuenta del fabricante o introductor, con destino a un depósito fiscal de distinto titular o a una fábrica situados en el ámbito territorial interno, una cantidad de biocarburante cuyo contenido porcentual en las referidas gasolinas o gasóleos no podrá exceder del porcentaje de biocarburante en gasolinas o gasóleos. En todo caso, deberá respetarse además la regla de cuantía máxima prevista en el párrafo e) siguiente.
 
-3.º Lo dispuesto en este párrafo d) se entiende sin perjuicio de lo establecido en el párrafo a).2.º anterior.
+2.º La gasolina o el gasóleo a los que se impute el biocarburante serán recibidos en el depósito fiscal o fábrica de destino conforme a lo previsto, según el caso, en el apartado 3 de este artículo o en el párra-fo b) del apartado 4. Las cantidades de gasolina o gasóleo a las que se imputa el biocarburante serán objeto de una relación recapitulativa mensual, por cada depósito o fábrica de destino, y serán enviadas a los mismos por el titular del depósito fiscal logístico que realiza la imputación. Dicha relación recapitulativa será igualmente enviada a la oficina gestora de la que dependa el referido depósito fiscal logístico, dentro de los treinta días siguientes a la terminación del mes a que dicha relación se refiere.
 
-e) Cuantía máxima. A los efectos de los párrafos c) y d) anteriores, la suma del volumen de bioetanol que comprende la base a tipo especial y del volumen de bioetanol imputado a envíos de gasolina sin plomo a otros depósitos fiscales o fábricas situados en el ámbito territorial interno nunca podrá exceder, para cada fabricante o introductor, de su respectivo cargo de bioetanol del período.
+3.º Lo dispuesto en este párrafo d) se entiende sin perjuicio de lo establecido en el párrafo a), 2.º anterior.
 
-f) Orden de las salidas del depósito fiscal logístico. A los efectos de la aplicación del procedimiento previsto en este apartado, se considerará que, dentro de cada período impositivo y para cada fabricante o introductor, las salidas de gasolina sin plomo del depósito fiscal logístico se producen en el siguiente orden:
+e) Cuantía máxima.-A los efectos de los párrafos c) y d) anteriores, la suma del volumen de biocarburante que comprende la base para la aplicación de los tipos de los epígrafes 1.13 a 1.15 y del volumen de biocarburante imputado a envíos de gasolina o gasóleo a otros depósitos fiscales o fábricas situados en el ámbito territorial interno nunca podrá exceder, para cada fabricante o introductor, de su respectivo cargo de biocarburante del período.
+
+f) Orden de las salidas del depósito fiscal logístico.-A los efectos de la aplicación del procedimiento previsto en este apartado, se considerará que, dentro de cada período de liquidación y para cada fabricante o introductor, las salidas del depósito fiscal logístico de la gasolina o del gasóleo se producen en el siguiente orden:
 
 1.º Salidas con pago del impuesto.
 
@@ -72,11 +82,17 @@ f) Orden de las salidas del depósito fiscal logístico. A los efectos de la apl
 
 3.º Demás salidas en régimen suspensivo y salidas con destinos fuera de régimen suspensivo por los que resulte aplicable un supuesto de exención.
 
-g) Existencia final de bioetanol. En el caso previsto en el párrafo c).2.º anterior, se considerará, en su caso, como existencia final de bioetanol del período considerado, e inicial del siguiente, para cada fabricante de hidrocarburos o introductor, un volumen de bioetanol igual al resultado de restar, del cargo de bioetanol del período, las cantidades de bioetanol imputadas, por el orden establecido en el párrafo f), a las gasolinas sin plomo que han salido del depósito fiscal durante el período considerado.
+g) Existencia final de biocarburante.-En el caso previsto en el párrafo c) 2.º anterior, se considerará, en su caso, como existencia final de biocarburante del período considerado, e inicial del siguiente, para cada fabricante de hidrocarburos o introductor, un volumen de biocarburante igual al resultado de restar del cargo de biocarburante del período, las cantidades de biocarburante imputadas, por el orden establecido en el párrafo f) anterior, a las gasolinas o gasóleos que han salido del depósito fiscal durante el período considerado.
 
-h) Repercusión del impuesto. La repercusión del impuesto respecto del bioetanol, al tipo especial, se efectuará por el titular del depósito fiscal logístico sobre el fabricante o introductor, en su condición de persona por cuya cuenta se realizan las operaciones gravadas.
+h) Repercusión del impuesto.-La repercusión del impuesto respecto del biocarburante se efectuará por el titular del depósito fiscal logístico sobre el fabricante o introductor, en su condición de persona por cuya cuenta se realizan las operaciones gravadas.
 
-i) Mezclas con otros biocarburantes. Si la gasolina sin plomo formulada con el aditivo ETBE recibida se mezclase, dentro del depósito fiscal logístico, con otros biocarburantes, la aplicación del tipo especial respecto de estos últimos se llevará a cabo por el procedimiento establecido en el apartado 3.
+i) Otros biocarburantes.-Podrán recibirse en el depósito fiscal logístico biocarburantes a los que se apliquen los tipos de los epígrafes 1.13 a 1.15 por el procedimiento establecido en el apartado 3 de este artículo, siempre que se cumplan las siguientes condiciones:
+
+1.º Deberán contabilizarse separadamente de los biocarburantes a los que los tipos de los epígrafes 1.13 a 1.15 se apliquen por el procedimiento previsto en el presente apartado 4.
+
+2.º Su almacenamiento se producirá de un modo tal que las existencias de los mismos puedan ser confrontadas en cualquier momento con el saldo que resulte de la contabilización separada a que alude el párrafo 1.º precedente.
+
+3.º Podrán mezclarse en el depósito fiscal logístico, en el momento inmediatamente anterior al de su salida de este, biocarburantes a los que se pretenda aplicar los tipos de los epígrafes 1.13 a 1.15 por uno y otro procedimiento siempre que se respeten las reglas relativas a cada uno de ellos, se cumplan los dos requisitos anteriores de este párrafo i), no se produzca una duplicidad en la aplicación del beneficio y se respeten las medidas de control que pueda establecer la oficina gestora.
 
 5. A los efectos de lo dispuesto en los apartados anteriores, tendrán la consideración de fábrica de hidrocarburos y deberán inscribirse como tales en el registro territorial los siguientes establecimientos:
 
@@ -88,12 +104,14 @@ c) Lo dispuesto en los párrafos a) y b) se entiende sin perjuicio de los casos 
 
 6. Para la aplicación de la normativa del Impuesto sobre Hidrocarburos, los asientos en la contabilidad de existencias, las certificaciones de los interventores y cualesquiera otros documentos que deban de cumplimentarse en relación al volumen de los biocarburantes, como tales o previa modificación química, se efectuarán siempre referidos a la temperatura de 15 º C.
 
-7. Salvo en los casos de envíos en los que se aplique el procedimiento especial previsto en el apartado 4, en el documento de circulación que proceda expedir para amparar la circulación de los biocarburantes, como tales o previa modificación química, o de los productos que los contengan, se indicará el biocarburante de que se trate y, en su caso, la proporción en la que se incluye en la mezcla de la que forme parte.
+7. Sin perjuicio de lo previsto en el apartado 4 de este artículo, en el documento de circulación que proceda expedir para amparar la circulación de los biocarburantes, como tales o previa modificación química, o de los productos que los contengan, se indicará el biocarburante de que se trate y, en su caso, la proporción en la que se incluye en la mezcla de la que forme parte. Esta obligación no será exigible respecto de la circulación de biocarburantes fuera de régimen suspensivo iniciada desde un establecimiento distinto de una fábrica o distinto de un depósito fiscal que no tenga la consideración de depósito fiscal logístico, cuando dichos biocarburantes se hallen mezclados con gasolinas o gasóleos en una proporción tal que el conjunto de la mezcla, con arreglo a la normativa sobre especificaciones técnicas, no tenga otra consideración que la de mera gasolina o gasóleo.
 
 8. Cuando el biocarburante producido sea alcohol etílico (bioetanol) y mientras no sea sometido a una transformación química que altere su composición, o bien mientras no sea mezclado con carburantes convencionales en una proporción de alcohol etílico igual o inferior a un 85 por ciento en volumen, regirán respecto del mismo las disposiciones de la Ley 38/1992, de 28 de diciembre, y de este reglamento relativas al Impuesto sobre el Alcohol y Bebidas Derivadas que resulten aplicables, con independencia de lo establecido en los apartados anteriores.
 
 El producto resultante de la mezcla citada en el párrafo anterior tendrá, a efectos fiscales, la consideración del carburante convencional que se le haya adicionado, sin perjuicio de la aplicación del tipo especial a la parte de aquél correspondiente al alcohol etílico (bioetanol).
 
 El referido alcohol etílico (bioetanol) será objeto de desnaturalización conforme al procedimiento y desnaturalizante aprobado previamente por el centro gestor.
+
+> Se modifican el título y los apartados 1, 4 y 7 por el art. único.22 del Real Decreto 774/2006, de 23 de junio. Ref. BOE-A-2006-11286
 
 > Se añade por el art. 1.16 del Real Decreto 1739/2003, de 19 de diciembre. Ref. BOE-A-2004-614
