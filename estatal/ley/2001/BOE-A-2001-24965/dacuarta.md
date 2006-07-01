@@ -22,11 +22,11 @@ En ese caso, al nuevo contrato le serán de aplicación las bonificaciones de la
 
 Si el primer empleador hubiera percibido alguna otra ayuda de fomento del empleo por la misma contratación, no estará obligado a su devolución, ni se tendrá derecho a una nueva ayuda en su caso por el nuevo contrato.»
 
-Tres. La disposición adicional tercera queda redactada de la siguiente forma:
-
-«A partir de 1 de enero de 2002 será de aplicación la disposición adicional sexta de la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, en relación con el artículo 44 de la Ley 42/1994, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, en lo relativo al fomento del empleo temporal de los trabajadores minusválidos.»
+Tres. (Derogado)
 
 Tres. (Derogado)
+
+> Se deroga el apartado 3 por la disposición derogatoria única.1.c) del Real Decreto-Ley 5/2006, de 9 de junio. Ref. BOE-A-2006-10562.
 
 > Se deroga el apartado 3 añadido por Real Decreto-Ley 16/2001, de 27 de diciembre, según la disposición derogatoria única.a) de la Ley 35/2002, de 12 de julio. Ref. BOE-A-2002-13972.
 
