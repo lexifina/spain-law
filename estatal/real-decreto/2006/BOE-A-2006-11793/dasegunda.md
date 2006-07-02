@@ -1,0 +1,11 @@
+## Disposición adicional segunda. Prestaciones por desempleo.
+
+Los trabajadores que causen baja en la empresa y que, por reunir las condiciones previstas en el artículo 7, perciban indemnizaciones por cese del vínculo laboral, financiadas con las ayudas aquí reguladas, así como los trabajadores de las empresas públicas de la minería del carbón, aunque sus empresas no sean beneficiarias de las ayudas previstas en este real decreto, tendrán derecho al reconocimiento, por una sola vez, de la prestación por desempleo de nivel contributivo por el período máximo legal, de acuerdo con lo establecido en la disposición adicional decimonovena de la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990.
+
+La situación legal de desempleo de dichos trabajadores deberá producirse en virtud de resolución en expediente de regulación de empleo o por causa prevista en el artículo 52.c), del texto refundido de la Ley del Estatuto de los Trabajadores, en cuyo caso será necesaria, además de la comunicación escrita del empresario al trabajador, prevista en el artículo 53.1 de la misma norma legal, una resolución de la autoridad laboral que determine la aplicación de la disposición adicional decimonovena de dicha Ley 4/1990, de 29 de junio, previa acreditación de la extinción del contrato y de la concesión de las ayudas.
+
+Los trabajadores que causen baja laboral en el sector no incluidos en los párrafos anteriores tendrán derecho a las prestaciones por desempleo que les correspondan, en función de sus períodos de ocupación cotizada.
+
+En ambos supuestos, los trabajadores deben reunir el resto de los requisitos que se exigen para la percepción de las prestaciones por desempleo de nivel contributivo o asistencial.
+
+Cuando tras la extinción de los contratos de trabajo en las empresas mineras del carbón, con independencia de la percepción o no de ayudas por prejubilación, se haya determinado la aplicación a los trabajadores afectados de lo dispuesto en la disposición adicional decimonovena de la citada Ley 4/1990, de 29 de junio, y se les hayan reconocido las prestaciones de nivel contributivo por el período máximo legal, no se les podrá volver a reconocer la aplicación de dicha disposición en ninguna prestación contributiva posterior.
