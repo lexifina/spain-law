@@ -762,9 +762,9 @@ C09X. Otros agentes que actúan sobre el sistema renina-angiotensina.
 
 C09X A. Inhibidores de la renina.
 
-C10. Agentes que reducen los lindos séricos.
+C10. Agentes modificadores de los lípidos.
 
-C10A. Reductores del colesterol y los triglicéridos.
+C10A. Agentes modificadores de los lípidos, monofármacos.
 
 C10A A. Inhibidores MAC CoA reductasa.
 
@@ -774,7 +774,13 @@ C10A C. Secuestradores de ácidos biliares.
 
 C10A D. Acido nicotinico y derivados.
 
-C10A X. Otros agentes reductores del colesterol y los triglicéridos.
+C10A X. Otros agentes modificadores de los lípidos.
+
+C10B. Agentes modificadores de los lípidos, combinaciones.
+
+C10B A. Inhibidores de la HMG CoA reductasa en combinación con otros agentes modificadores de los lípidos.
+
+C10B X. Inhibidores de la HMG CoA reductasa, otras combinaciones.
 
 D. Dermatológicos.
 
@@ -1218,9 +1224,11 @@ H05A. Hormonas paratiroideas y análogos.
 
 H05A A. Hormonas paratiroideas y análogas.
 
-H05B. Hormonas contra la hormona paratiroidea.
+H05B. Agentes antiparatiroideos.
 
 H05B A. Preparados con calcitonina.
+
+H05B X. Otros agentes antiparatiroideos.
 
 J. Antiinfecciosos para uso sistémico.
 
@@ -1496,7 +1504,7 @@ L01X B. Metilhidrazinas.
 
 L01X C. Anticuerpos monoctonales.
 
-L01X D. Agentes usados en terapia fotodinámica.
+L01X D. Sensibilizadores usados en terapia fotodinámica y radiación.
 
 L01X X. Otros agentes antineoplásicos.
 
@@ -2451,5 +2459,7 @@ V10X A. Compuestos con lodo (131 1).
 V10X X. Productos radiofarmacéuticos terapéuticos, varios.
 
 V20. Vendajes quirúrgicos.
+
+> Se modifica por el art. único.1 a 2 de la Orden SCO/2147/2006, de 26 de junio. Ref. BOE-A-2006-12065
 
 > Se modifica por el art. único.1 a 3 de la Orden SCO/114/2006, de 20 de enero. Ref. BOE-A-2006-1439
