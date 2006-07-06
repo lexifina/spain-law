@@ -1,0 +1,7 @@
+Mediante la Orden ITC/4134/2004, de 9 de diciembre, se reguló la composición y funciones de la Comisión Ministerial de Tecnologías de la Información del Departamento, que se adaptaba a los cambios de carácter orgánico producidos a resultas de la supresión de los Ministerios de Economía y de Ciencia y Tecnología y de la creación, a su vez, del Ministerio de Industria, Turismo y Comercio, mediante el Real Decreto 553/2004, de 17 de abril, por el que se reestructuran los departamentos ministeriales, cuya estructura orgánica fue desarrollada por el Real Decreto 1554/2004, de 25 de junio.
+
+Por otra parte, el Real Decreto 589/2005, de 20 de mayo, por el que se reestructuran los órganos colegiados responsables de la Administración Electrónica, establece un nuevo marco de actuación para las antiguas Comisiones Ministeriales de Informática, que pasan a denominarse Comisiones Ministeriales de Administración Electrónica. Además, en la disposición transitoria segunda de este Real Decreto se determina que, en el plazo de seis meses desde su entrada en vigor, se aprobarán las correspondientes órdenes ministeriales reguladoras de las Comisiones Ministeriales de Administración Electrónica.
+
+Esta modificación hace aconsejable la revisión de la normativa de la Comisión Ministerial de Tecnologías de la Información para adecuarla a la nueva situación creada por el Real Decreto 589/2005, de 20 de mayo.
+
+En su virtud, con la previa aprobación del Ministro de Administraciones Públicas, dispongo:
