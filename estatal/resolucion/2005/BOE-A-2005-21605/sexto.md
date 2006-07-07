@@ -14,9 +14,9 @@ Equipos de Apoyo Informático.
 
 En caso de vacante, ausencia o enfermedad, el titular de la Dependencia designará a los sustitutos de sus Adjuntos, de los Inspectores Jefes y de los Jefes de las Unidades de Control y Selección y sus Adjuntos.
 
-2. Funciones y competencias.–La Dependencia de Control Tributario y Aduanero tendrá atribuidas, respecto a los obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes, las funciones de aplicación de los tributos que integran el sistema tributario estatal y el aduanero cuya competencia corresponde a la Agencia Tributaria, a través de las actuaciones y procedimiento de inspección, así como de los procedimientos de verificación de datos, comprobación de valores, comprobación limitada y demás actuaciones de comprobación establecidas por la normativa vigente, teniendo la consideración de órgano con atribuciones propias de la inspección de los tributos.
+2. Funciones y competencias.-La Dependencia de Control Tributario y Aduanero tendrá atribuidas, respecto a los obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes, las funciones de aplicación de los tributos que integran el sistema tributario estatal y el aduanero cuya competencia corresponde a la Agencia Tributaria, a través de las actuaciones y procedimiento de inspección, así como de los procedimientos de verificación de datos, comprobación de valores, comprobación limitada y demás actuaciones de comprobación establecidas por la normativa vigente, teniendo la consideración de órgano con atribuciones propias de la inspección de los tributos.
 
-Como excepción, los procedimientos de verificación de datos, comprobación de valores, comprobación limitada y demás actuaciones de comprobación en el ámbito de la gestión aduanera y de la gestión e intervención de los Impuestos Especiales respecto a dichos obligados se realizarán por los órganos territoriales de la Agencia Tributaria.
+Como excepción, los procedimientos de verificación de datos, comprobación de valores, comprobación limitada y demás actuaciones de comprobación en el ámbito de la gestión aduanera, de la gestión e intervención de los Impuestos Especiales y de la gestión del Impuesto sobre Ventas Minoristas de Determinados Hidrocarburos respecto a dichos obligados se realizarán por los órganos territoriales de la Agencia Tributaria.
 
 También le corresponde el inicio, la tramitación y la resolución de los procedimientos sancionadores que se deriven de las actuaciones y procedimientos indicados en el primer párrafo de este número.
 
@@ -42,9 +42,9 @@ Los integrantes de los Equipos Nacionales de Inspección podrán estar especiali
 
 La Oficina Técnica, bajo la dirección de su titular, con la asistencia, en su caso, de un Adjunto o Adjunta, estará integrada por los funcionarios que en cada momento se determinen por el titular de la Dependencia o sus Adjuntos.
 
-5. Unidad de Control Tributario y Aduanero.–Esta Unidad desarrollará preferentemente los procedimientos de verificación de datos, comprobación limitada y demás actuaciones de comprobación establecidas por la normativa vigente competencia de la Dependencia de Control Tributario y Aduanero, así como procedimientos de inspección de carácter parcial y los procedimientos sancionadores que se deriven de las actuaciones anteriores.
+5. Unidad de Control Tributario y Aduanero.-Esta Unidad desarrollará preferentemente los procedimientos de verificación de datos, comprobación limitada y demás actuaciones de comprobación establecidas por la normativa vigente competencia de la Dependencia de Control Tributario y Aduanero, así como procedimientos de inspección de carácter parcial y los procedimientos sancionadores que se deriven de las actuaciones anteriores.
 
-Asimismo, tramitará los procedimientos de verificación de datos y de comprobación limitada respecto a las personas físicas y entidades no residentes en territorio español que obtengan rendimientos en España sin mediación de establecimiento permanente y no estén adscritas a la Delegación Central, cuando el representante, el pagador de los rendimientos o el depositario o gestor de los bienes o derechos del no residente esté adscrito a la Delegación Central, todo ello de acuerdo con lo dispuesto en la normativa que regula la gestión de dichos no residentes.
+Asimismo, podrá tramitar los procedimientos de verificación de datos y de comprobación limitada respecto a las personas físicas y entidades no residentes en territorio español que obtengan rendimientos en España sin mediación de establecimiento permanente y no estén adscritas a la Delegación Central, cuando el representante, el pagador de los rendimientos o el depositario o gestor de los bienes o derechos del no residente esté adscrito a la Delegación Central, todo ello de acuerdo con lo dispuesto en la normativa que regula la gestión de dichos no residentes.
 
 Además de practicar las liquidaciones que procedan en cada caso, corresponde a esta Unidad tramitar y, en su caso, resolver los expedientes de imposición de sanciones por infracciones tributarias, así como de intereses y recargos, en relación con los expedientes tramitados por la Unidad.
 
@@ -55,5 +55,7 @@ La Unidad de Control Tributario y Aduanero, dirigida por su titular, con la asis
 La Unidad de Selección, dirigida por su titular, estará integrada por los funcionarios que en cada momento se determinen por el titular de la Dependencia o sus Adjuntos.
 
 7. Equipos de Apoyo Informático.–Los Equipos de Apoyo Informático desarrollarán actuaciones conjuntas y de coordinación de trabajos informáticos con los Equipos Nacionales de Inspección, investigando y analizando la estructura de los sistemas informáticos y de las bases de datos y sus movimientos para el descubrimiento de datos ocultos. Estos Equipos, dirigidos por Jefes de Equipo, estarán integrados por los funcionarios que se les adscriban.
+
+> Se modifican los puntos 2 y 5 por la disposición final 1.5 y 6 de la Resolución de 3 de julio de 2006. Ref. BOE-A-2006-12150.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 83, de 7 de abril de 2006. Ref. BOE-A-2006-6245.

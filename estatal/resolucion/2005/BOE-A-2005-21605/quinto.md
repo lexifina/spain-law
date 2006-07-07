@@ -100,7 +100,9 @@ h) En materia de procesos concursales, salvo que la competencia esté atribuida 
 
 6.º Autorizar, en relación con los concursos regidos por la Ley Concursal, la abstención en las juntas de acreedores respecto a los créditos de naturaleza pública calificados como ordinarios.
 
-Para ejercer las competencias recogidas en esta letra, será necesario solicitar autorización previa al titular del Departamento de Recaudación a través de la Subdirección General de Recaudación Ejecutiva.
+7.º Aceptar o rechazar, en virtud de justa causa, el nombramiento de la Agencia Tributaria como administrador concursal.
+
+Para ejercer las competencias recogidas en los números 1.º a 6.º de esta letra, será necesario solicitar autorización previa al titular del Departamento de Recaudación a través de la Subdirección General de Recaudación Ejecutiva.
 
 i) En materia de medidas cautelares:
 
@@ -143,5 +145,7 @@ c) Dependencia de Gestión de Medios y Recursos: Adjuntos al titular de la Depen
 En ausencia de los anteriores, el titular de la Delegación Central acordará la sustitución que proceda en cada caso.
 
 7. El titular de la Delegación Central de Grandes Contribuyentes y sus Adjuntos serán nombrados y cesados por la Presidencia de la Agencia Tributaria a propuesta de la Dirección General, de conformidad con lo establecido en el artículo 103.Tres.2 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991. Su nombramiento y cese se publicarán en el «Boletín Oficial del Estado».
+
+> Se modifica el punto 2.h) por la disposición final 1.4 de la Resolución de 3 de julio de 2006. Ref. BOE-A-2006-12150.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 83, de 7 de abril de 2006. Ref. BOE-A-2006-6245.

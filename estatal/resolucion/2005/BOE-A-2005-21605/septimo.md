@@ -8,7 +8,7 @@ Equipos Nacionales de Recaudación.
 
 En caso de vacante, ausencia o enfermedad, el titular de la Dependencia designará a los sustitutos de sus Adjuntos y de los Inspectores Coordinadores
 
-2. Funciones y competencias.–La Dependencia de Asistencia y Servicios Tributarios tendrá atribuidas, respecto a los obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes, las funciones de aplicación de los tributos cuya competencia corresponde a la Agencia Tributaria, a través de las actuaciones y procedimientos de gestión tributaria y de recaudación, con excepción de los procedimientos de verificación de datos, comprobación de valores, comprobación limitada y demás actuaciones de comprobación establecidas por la normativa vigente.
+2. Funciones y competencias.–La Dependencia de Asistencia y Servicios Tributarios tendrá atribuidas, respecto a los obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes, las funciones de aplicación de los tributos cuya competencia corresponde a la Agencia Tributaria, a través de las actuaciones y procedimientos de gestión tributaria y de recaudación, con excepción de los procedimientos de comprobación de valores y de comprobación limitada.
 
 En relación con las personas físicas y entidades no residentes en territorio español que obtengan rendimientos en España sin mediación de establecimiento permanente y no estén adscritas a la Delegación Central, esta Dependencia realizará las funciones de gestión tributaria indicadas en el párrafo anterior cuando el representante, el pagador de los rendimientos o el depositario o gestor de los bienes o derechos del no residente esté adscrito a la Delegación Central, todo ello de acuerdo con lo dispuesto en la normativa que regula la gestión de dichos no residentes.
 
@@ -175,5 +175,7 @@ i) Formular los requerimientos de información o de otra naturaleza en los proce
 Los Inspectores integrados en los Equipos Nacionales de Recaudación podrán ejercer las competencias relacionadas en este número con respecto a los obligados tributarios que el Jefe del Equipo les asigne.
 
 En los casos de vacante, ausencia o enfermedad de los Jefes de Equipo, su sustitución será ejercida por otros Jefes de Equipo o por los Inspectores que designe el titular de la Dependencia.
+
+> Se modifica el punto 2, párrafo primero por la disposición final 1.7 de la Resolución de 3 de julio de 2006. Ref. BOE-A-2006-12150.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 83, de 7 de abril de 2006. Ref. BOE-A-2006-6245.

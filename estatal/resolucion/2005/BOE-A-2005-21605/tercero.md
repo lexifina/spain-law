@@ -46,10 +46,16 @@ Cuando dejen de concurrir las circunstancias que originaron su adscripción a la
 
 Del mismo modo, desde el momento en que se les notifique el fin de la adscripción, cesará la competencia de la Delegación Central sobre dichos obligados tributarios.
 
-4. Cuando sea necesario para realizar las funciones que tiene atribuidas sobre los obligados tributarios adscritos, la Delegación Central de Grandes Contribuyentes podrá efectuar requerimientos de información a cualquier obligado tributario, con autorización del titular de la Delegación Central y conocimiento de la Delegación Especial de la Agencia Tributaria a la que se encuentre adscrito el obligado tributario al que se va a requerir.
+No obstante, las actuaciones inspectoras iniciadas con anterioridad a la fecha de notificación del cambio de adscripción serán finalizadas por los órganos que las estuvieran desarrollando, salvo que, en el caso de adscripción a la Delegación Central, el titular de la misma decida la terminación del expediente por la correspondiente Dependencia de la Delegación Central, en cuyo caso, se notificará al obligado tributario.
+
+4. Los órganos de la Delegación Central de Grandes Contribuyentes son competentes para realizar actuaciones de obtención de información, así como para ejercer la correspondiente potestad sancionadora en caso de incumplimiento, respecto de obligados tributarios no adscritos a la misma, cuando sea necesario para realizar las funciones que tiene atribuidas.
+
+Las Delegaciones Especiales de la Agencia Tributaria serán competentes para realizar actuaciones de obtención de información, así como para ejercer la correspondiente potestad sancionadora en caso de incumplimiento, respecto de obligados tributarios adscritos a la Delegación Central que tengan su domicilio fiscal o la sucursal, oficina o local que haya realizado las operaciones objeto del requerimiento en sus respectivos ámbitos territoriales, cuando sea necesario para realizar las funciones que tienen atribuidas.
 
 5. Cuando, a efectos del desarrollo de actuaciones inspectoras, se acuerde la adscripción temporal a la Oficina Nacional de Investigación del Fraude del Departamento de Inspección Financiera y Tributaria de obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes, se comunicará a ésta el acuerdo de adscripción.
 
 Asimismo, cuando se realicen actuaciones de investigación por la Oficina Nacional de Investigación del Departamento de Aduanas e Impuestos Especiales o controles sobre restituciones previstos en la normativa comunitaria, respecto a obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes, se comunicará a ésta con carácter previo la realización de dichas actuaciones o controles.
 
 El Equipo Central de Información de la Oficina Nacional de Investigación del Fraude del Departamento de Inspección Financiera y Tributaria podrá ejercer las funciones que tiene atribuidas respecto a los obligados tributarios adscritos a la Delegación Central.
+
+> Se modifican los puntos 3 y 4 por la disposición final 1.2 y 3 de la Resolución de 3 de julio de 2006. Ref. BOE-A-2006-12150.
