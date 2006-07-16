@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Modificación de la escala que fija la duración de la prestación por desempleo de nivel contributivo de los trabajadores eventuales del Régimen Especial Agrario de la Seguridad Social.
+
+La escala que figura en el primer párrafo del apartado 1.2.b) del artículo cuarto de la Ley 45/2002, de 12 de diciembre, de medidas urgentes para la reforma del sistema de protección por desempleo y mejora de la ocupabilidad, queda sustituida por la escala establecida en el artículo 210.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio.
