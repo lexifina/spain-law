@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Jubilación anticipada de los conductores de transporte de mercancías por carretera.
+
+En el marco del diálogo social, el Gobierno realizará, en el plazo máximo de tres meses, un estudio en el que se analice llevar a cabo medidas de reducción de la edad de jubilación de los conductores del transporte pesado o de larga distancia por carretera, en el año 2006, siempre que se acredite la realización de trabajos de esta naturaleza y siempre que los trabajadores afectados acrediten en la profesión el mínimo de actividad que se establezca.
+
+En el estudio, que deberá ser realizado con el concurso del Instituto Nacional de Seguridad e Higiene en el Trabajo, se incorporarán las compensaciones económicas que deban efectuarse a favor de la Seguridad Social, por la aplicación de las medidas oportunas, en orden a preservar el equilibrio económico-financiero del sistema y los principios de contribución y proporcionalidad entre las aportaciones efectuadas y las prestaciones a recibir. Entre tales compensaciones podrán preverse cotizaciones incrementadas para el colectivo beneficiario de las medidas de reducción de la edad de jubilación.
