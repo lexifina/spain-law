@@ -1,0 +1,7 @@
+## Disposición final segunda. Potestad reglamentaria.
+
+1. Corresponde al Gobierno, a propuesta del Ministro de Economía y Hacienda y previa audiencia de la Junta Consultiva de Seguros y Fondos de Pensiones, desarrollar esta Ley en las materias que se atribuyen expresamente a la potestad reglamentaria, así como, en general, en todas aquellas susceptibles de desarrollo reglamentario en que sea preciso para su correcta ejecución, mediante la aprobación de su reglamento y las modificaciones ulteriores de este que sean necesarias.
+
+2. Corresponde al Ministro de Economía y Hacienda, a propuesta de la Dirección General de Seguros y Fondos de Pensiones y previa audiencia de la Junta Consultiva de Seguros y Fondos de Pensiones, desarrollar esta Ley en las materias que específicamente atribuye a la potestad reglamentaria de dicho Ministro y, asimismo, desarrollar su reglamento en cuanto sea necesario y así se prevea en él.
+
+También queda facultado para llevar a cabo las modificaciones que resulten necesarias en la regulación de los libros-registro y en los modelos de información estadístico-contable anual, al objeto de adaptar el Real Decreto 301/2004, de 20 de febrero, por el que se regulan los libros-registro y el deber de información estadístico-contable de los corredores de seguros y de las sociedades de correduría de seguros, a las disposiciones de esta Ley en relación con los corredores de seguros y los de reaseguros, ya sean personas físicas o jurídicas.
