@@ -66,7 +66,7 @@ La fabricación, a efectos de las categorías de actividades de esta Ley, design
 
 a) Hidrocarburos simples (lineales o cíclicos, saturados o insaturados, alifáticos o aromáticos).
 
-b) Hidrocarburos oxigenados, tales como alcoholes, aldehídos, cetonas, ácidos orgánicos, ésteres, acetatos, éteres, peróxidos, resinas, epóxidos.
+b) hidrocarburos oxigenados, tales como alcoholes, aldehídos, cetonas, ácidos orgánicos, ésteres, acetatos, éteres, peróxidos, resinas epóxi;
 
 c) Hidrocarburos sulfurados.
 
@@ -154,11 +154,17 @@ c) Tratamiento y transformación de la leche, con una cantidad de leche recibida
 
 9.3 Instalaciones destinadas a la cría intensiva de aves de corral o de cerdos que dispongan de más de:
 
-a) 40.000 emplazamientos si se trata de gallinas ponedoras o del número equivalente para otras orientaciones productivas de aves.
+a) 40.000 plazas si se trata de gallinas ponedoras o del número equivalente para otras orientaciones productivas de aves.
 
-b) 2.000 emplazamientos para cerdos de cría (de más de 30 Kg).
+b) 2.000 plazas para cerdos de cebo de más de 30 kg.
 
-c) 750 emplazamientos para cerdas.
+c) 2.500 plazas para cerdos de cebo de más de 20 kg.
+
+750 plazas para cerdas reproductoras.
+
+530 plazas para cerdas en ciclo cerrado.
+
+d) En el caso de explotaciones mixtas, en las que coexistan animales de los apartados b) y c) de esta Categoría 9.3, el número de animales para determinar la inclusión de la instalación en este Anejo se determinará de acuerdo con las equivalencias en Unidad Ganadera Mayor (UGM) de los distintos tipos de ganado porcino, recogidas en el Anexo I del Real Decreto 324/2000, de 3 de marzo, por el que se establecen normas básicas de ordenación de las explotaciones porcinas.
 
 10. Consumo de disolventes orgánicos.
 
@@ -167,3 +173,5 @@ c) 750 emplazamientos para cerdas.
 11. Industria del carbono.
 
 11.1 Instalaciones para la fabricación de carbono sinterizado o electrografito por combustión o grafitación.
+
+> Se modifican las categorías 4.1b) y 9.3 por la disposición final 2.6 de la Ley 27/2006, de 18 de julio. Ref. BOE-A-2006-13010
