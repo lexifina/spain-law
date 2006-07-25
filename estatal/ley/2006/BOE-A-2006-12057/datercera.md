@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Instalación subterránea de las redes de servicios públicos y de interés general.
+
+1. Todas las instalaciones propias de las redes de los servicios públicos de suministros y de interés general que discurran por el término municipal deben ser subterráneas y ajustar su ubicación y trazado al planeamiento urbanístico y, en su caso, a las Ordenanzas de utilización del dominio público municipal. Sólo en caso de concurrencia de urgencia o de impracticabilidad técnica o económica puede autorizarse por el Ayuntamiento su instalación en superficie o aérea, sin perjuicio de las competencias urbanísticas de la Comunidad de Madrid.
+
+2. Las instalaciones ya existentes al tiempo de la entrada en vigor de esta Ley deben ser soterradas cuando así lo disponga el planeamiento urbanístico o las correspondientes Ordenanzas de utilización del dominio público municipal y en los plazos que uno y otras establezcan. La imposición del soterramiento sólo da lugar a indemnización únicamente por el importe del valor de las instalaciones existentes que no deban considerarse amortizadas al tiempo en que deba efectuarse dicho soterramiento.
