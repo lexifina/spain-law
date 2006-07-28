@@ -1,0 +1,5 @@
+## Disposición adicional décima. Participación de las Comunidades Autónomas en los procedimientos de decisión en materia de medicamentos y productos sanitarios.
+
+Las Comunidades Autónomas participarán, en los términos establecidos reglamentariamente, en el Consejo Rector de la Agencia Española de Medicamentos y Productos Sanitarios, como órgano colegiado de dirección del organismo. Asimismo, la Agencia contará con la colaboración de expertos independientes de reconocido prestigio científico propuestos por las Comunidades Autónomas.
+
+El Ministerio de Sanidad y Consumo facilitará un informe a todas las Comunidades Autónomas, en cada reunión del Consejo Interterritorial del Sistema Nacional de Salud, identificando el nombre de los medicamentos y productos sanitarios que hayan sido autorizados por la Agencia Española de Medicamentos y Productos Sanitarios desde la última reunión del Consejo, así como el precio de aquellos medicamentos y productos sanitarios que hayan sido incluidos en la financiación del Sistema Nacional de Salud.
