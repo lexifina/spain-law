@@ -42,7 +42,7 @@ Alicante/Alacant.
 
 Gijón.
 
-Hospitalet de Llobregat (L’).
+Hospitalet de Llobregat (L?).
 
 Granada.
 
@@ -106,6 +106,10 @@ Castellón de la Plana/Castelló.
 
 Badajoz.
 
+San Cristobal de la Laguna (Tenerife).
+
+León.
+
 Grupo 4.
 
 Resto de destinos correspondientes a la segunda categoría de fiscales.
@@ -113,3 +117,7 @@ Resto de destinos correspondientes a la segunda categoría de fiscales.
 Grupo 5.
 
 Resto de destinos correspondientes a la tercera categoría de fiscales, excepto fiscales de la Fiscalía Especial para la prevención y represión del tráfico ilegal de drogas y fiscales de la Fiscalía Especial para la represión de los delitos económicos relacionados con la corrupción.
+
+> Se modifica el grupo 3 por el art. único del Real Decreto 921/2006, de 28 de julio. Ref. BOE-A-2006-13752
+
+> Esta modificación surte efectos económicos a partir del 1 de enero de 2006, según establece la disposición final 1.

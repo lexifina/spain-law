@@ -106,6 +106,10 @@ Castellón de la Plana/Castelló.
 
 Badajoz.
 
+San Cristobal de la Laguna (Tenerife).
+
+León.
+
 Grupo 4.
 
 Resto de destinos correspondientes a órganos judiciales servidos por magistrados.
@@ -113,3 +117,7 @@ Resto de destinos correspondientes a órganos judiciales servidos por magistrado
 Grupo 5.
 
 Destinos correspondientes a órganos judiciales servidos por jueces.
+
+> Se modifica el grupo 3 por art. único del Real Decreto 921/2006, de 28 de julio. Ref. BOE-A-2006-13752
+
+> Esta modificación surte efectos económicos a partir del 1 de enero de 2006, según establece la disposición final 1.
