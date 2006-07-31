@@ -1,0 +1,19 @@
+## Artículo 2. Impuestos comprendidos.
+
+1. El presente Convenio se aplica a los Impuestos sobre la Renta exigibles por cada uno de los Estados contratantes, sus subdivisiones políticas o sus entidades locales, cualquiera que sea el sistema de su exacción.
+
+2. Los impuestos actuales a los que se aplica este Convenio son:
+
+a) en España:
+
+i) el Impuesto sobre la Renta de las Personas Físicas;
+
+ii) el Impuesto sobre Sociedades;
+
+iii) el Impuesto sobre la Renta de no Residentes, y
+
+iv) los impuestos locales sobre la renta, (denominados en lo sucesivo «impuesto español»).
+
+b) en Nueva Zelanda: El Impuesto sobre la Renta, (denominado en lo sucesivo «impuesto neozelandés»);
+
+3. El Convenio se aplicará igualmente a los impuestos de naturaleza idéntica o análoga que se establezcan con posterioridad a la firma del mismo y que se añadan a los actuales o les sustituyan. Las autoridades competentes de los Estados contratantes se comunicarán mutuamente, en un plazo de tiempo prudencial, las modificaciones importantes que se hayan introducido en sus legislaciones fiscales.
