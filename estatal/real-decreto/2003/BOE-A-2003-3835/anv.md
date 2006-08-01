@@ -1,37 +1,75 @@
 ## ANEXO V
 
-## Organismos nocivos
+## Etiquetado
 
-a) Tratamiento en cultivo:
+## 1. Indicaciones obligatorias
 
-Deberán realizarse los tratamientos fitosanitarios periódicos necesarios, principalmente para el control de nematodos, ácaros, insectos, hongos y bacterias.
+La etiqueta oficial tendrá las siguientes informaciones:
 
-b) Plantas de vivero portadoras de plagas y enfermedades:
+1. Norma CE.
 
-El material de multiplicación, así como las cepas madre, estarán libres de las siguientes plagas o enfermedades:
+2. País productor: España.
 
-Nematodos: «Xiphinema sp»; «Longidorus sp».
+3. Organismo responsable de la certificación o el control.
 
-Ácaros: «Phillocoptes vitis», «Panonychus ulmi 7 eotetranychus carpini».
+4. Nombre y dirección de la persona responsable del precintado o su número de identificación.
 
-Cochinillas: «Pseudococus citri» y «quadraspidiotus perniciosus».
+5. Especie.
 
-Podredumbres: «Armillariella mellea» y «Rosellinia necatrix».
+6. Tipo de material.
 
-Excoriosis: «Phomosis sp».
+7. Categoría.
 
-Eutiopiosis: «Eutypa armeniaca».
+8. Variedad y, en su caso, el clon. Para las plantas injerto esta indicación es aplicable a los portainjertos y los injertos.
 
-Yesca: «Estereum sp».
+9. Número de referencia del lote.
 
-Bacteriosis: «Xanthomonas ampelina».
+10. Cantidad.
 
-Se admitirá la presencia de ligeras infestaciones de las plagas y enfermedades citadas en el apartado a), siempre que se hubieran realizado los oportunos tratamientos.
+11. Longitud (sólo para las estacas: se refiere a la longitud mínima de las estacas del lote en cuestión).
 
-c) Virosis:
+12. Año de producción.
 
-1. Entrenudo corto (GFLV).
+## 2. Condiciones mínimas
 
-2. Enrollado, razas 1 y 3 (GLRaV1, GLRaV3).
+La etiqueta deberá cumplir los requisitos siguientes:
 
-3. Jaspeado (GFkV).
+1. La etiqueta estará impresa de forma indeleble y será claramente legible.
+
+2. La etiqueta se colocará en un lugar destacado, de forma que resulte fácilmente visible.
+
+3. Las indicaciones contempladas en el punto 1 no quedarán en ningún caso disimuladas, veladas o separadas por otras indicaciones o imágenes.
+
+4. Las indicaciones contempladas en el punto 1 figurarán en un único campo visual.
+
+5. La dimensión mínima de la etiqueta será de 110 x 67 mm para los haces de estacas, estaquillas e injertos y de 80 x 70 mm para los haces de barbados y plantas-injerto.
+
+## 3. Excepción por lo que respecta a pequeñas cantidades destinadas al usuario final
+
+1. Más de una unidad: Las indicaciones obligatorias relativas a la etiqueta con arreglo al punto 1.10, rezarán: «Número exacto de unidades por unidad de embalaje o haz».
+
+2. Sólo una unidad: No serán obligatorias las indicaciones siguientes contempladas en el punto 1:
+
+Tipo de material.
+
+Categoría.
+
+Número de referencia del lote.
+
+Cantidad.
+
+Longitud para las estacas injertables.
+
+Año de producción.
+
+## 4. Excepción con respecto a las vides en macetas, cajas o cartones
+
+En el caso de las plantas de vid con raíces en cualquier sustrato, en macetas, cajas y cartones, siempre que estos materiales no puedan ajustarse a los requisitos de precintado (incluido el etiquetado) debido a su composición:
+
+a) Los materiales de multiplicación se mantendrán en lotes separados que se identificarán adecuadamente atendiendo a la variedad, y en su caso, al clon, así como al número de unidades.
+
+b) La etiqueta oficial no será obligatoria.
+
+c) Los materiales de multiplicación irán acompañados por el documento de acompañamiento o albarán previsto en el artículo 18.
+
+> Se modifica por el art. único de la Orden APA/2474/2006, de 27 de julio. Ref. BOE-A-2006-13846

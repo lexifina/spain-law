@@ -1,37 +1,25 @@
 ## ANEXO IV
 
-## Etiqueta
+## Acondicionamiento
 
-1. La etiqueta oficial tendrá las siguientes informaciones:
+Composición de los haces o embalajes
 
-a) Norma CE.
+| 1. Tipo | 2. Número de unidades | 3. Cantidad máxima |
+| --- | --- | --- |
+| 1. Plantas injerto. | 25, 50, 100 o múltiplos de 100. | 500 |
+| 2. Barbados. | 50, 100 o múltiplos de 100. | 500 |
+| 3. Injertos. |  |  |
+| - con al menos cinco yemas utilizables. | 100 ó 200. | 200 |
+| - con una yema utilizable. | 500 o múltiplos de 500. | 5.000 |
+| 4. Estacas. | 100 o múltiplos de 100. | 1.000 |
+| 5. Estaquillas. | 100 o múltiplos de 100. | 500 |
 
-b) País de producción: ESPAÑA.
+Condiciones particulares:
 
-c) Autoridad competente del control y precintado del material.
+I. Pequeñas cantidades: Si fuese necesario, el tamaño (número de unidades) de los embalajes y haces de todos los tipos y categorías de materiales de multiplicación enumerados en la columna 1, incluidos los materiales de multiplicación iniciales, podrán ser inferiores a las cantidades mínimas indicadas en la columna 2.
 
-d) Nombre y dirección de la persona física o jurídica responsable del precintado o su número de registro oficial.
+II. Plantas de vid con raíces en cualquier sustrato, en macetas, cajas y cartones: No son aplicables el número de unidades ni la cantidad máxima.
 
-e) Especie.
+III. Plantas embaladas en contenedor: Las plantas embaladas en contenedores precintados podrán llevar una sola etiqueta por contenedor por la cantidad total de plantas que contenga. La cantidad total será un múltiplo de las fijadas para el tipo de material correspondiente, salvo en el caso de las plantas en pot cuyo acondicionado no lo permita.
 
-f) Tipo de material.
-
-g) Categoría.
-
-h) Variedad y, en su caso, el clon. Para las plantas-injerto esta indicación se aplicará tanto para el patrón como para el injerto.
-
-i) Número de referencia del lote.
-
-j) Cantidad.
-
-2. Para los materiales de multiplicación «Barbados» y «Planta-injerto» serán suficientes las indicaciones contempladas en las letras a), b), c), d), e), f), g), h) y j).
-
-3. En los casos que se haya testado la planta para las virosis citadas en el anexo V, con resultado negativo, podrá indicase esta circunstancia, para las categorías de base y certificada de la siguiente forma:
-
-«Los materiales de multiplicación de base y los materiales de un estadío vegetativo anterior a los materiales de base han sido examinados por ........ (autoridad competente) y han sido reconocidos exentos de ........ (enfermedad por virus) según ........ (método de análisis).»
-
-Dichas indicaciones podrán referirse a todos los materiales de las categorías «de base» o «certificados» en lo referente al enrrollado y al entrenudo corto y, para los portainjertos, a título suplementario, al jaspeado. Las pruebas deberán estar oficialmente reconocidas y deberán haber sido realizadas durante un periodo mínimo de tres años, por una autoridad reconocida y controlada oficialmente.
-
-Se podrá aplicar para todas las enfermedades de virus los métodos de análisis con plantas indicadoras de vid, y, además, para el entrenudo corto, los métodos de análisis con plantas herbáceas, así como el método serológico.
-
-4. La dimensión mínima de la etiqueta será de 110 × 67 milímetros para los haces de estacas, estaquillas e injertos y de 80 × 70 milímetros para los haces de barbados y plantas-injerto.
+> Se modifica por el art. único de la Orden APA/2474/2006, de 27 de julio. Ref. BOE-A-2006-13846
