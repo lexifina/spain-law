@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Acceso a las pruebas de aptitud psicofísica al personal ferroviario de empresas distintas de RENFE-Operadora y del Administrador de Infraestructuras Ferroviarias.
+
+En tanto la Dirección General de Ferrocarriles no homologue, al menos, un centro de reconocimiento médico independiente de las entidades RENFE-Operadora y el Administrador de Infraestructuras Ferroviarias, estas últimas vendrán obligadas a practicar las pruebas de aptitud psicofísica requeridas para la obtención de los certificados de aptitud psicofísica, al personal ferroviario de otras empresas ferroviarias, en los términos establecidos en el Título VIII, en condiciones de mercado, equitativas y no discriminatorias respecto de las que apliquen a su propio personal.

@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Homologación de los centros de reconocimiento médico de la entidad Red Nacional de Ferrocarriles Españoles.
+
+Los centros de reconocimiento médico que, a la entrada en vigor de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, venían realizando en la entidad Red Nacional de los Ferrocarriles Españoles funciones análogas a la certificación de valoración de aptitud psicofísica, que se recoge en esta orden, se considerarán autorizados para continuar ejerciendo las mencionadas funciones.
+
+No obstante, en el plazo de dos años desde la entrada en vigor de la Ley del Sector Ferroviario, los centros de reconocimiento médico de las entidades RENFE-Operadora y del Administrador de Infraestructuras Ferroviarias deberán presentar en la Dirección General de Ferrocarriles la documentación a que se refiere el artículo 69. Revisada la documentación, la Dirección General de Ferrocarriles entregará, si procede, el documento acreditativo de la correspondiente homologación al mencionado centro de reconocimiento médico.

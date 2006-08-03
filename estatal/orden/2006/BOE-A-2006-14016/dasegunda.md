@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Aplicación al personal ajeno al Administrador de Infraestructuras Ferroviarias, que ejerza su actividad en las conexiones de la Red Ferroviaria de Interés General administrada por dicha entidad, con otras redes.
+
+1. En los convenios que establezca el Administrador de Infraestructuras Ferroviarias con los Puertos o Aeropuertos de Interés General, con los titulares de apartaderos o derivaciones o con administradores de infraestructuras de otras redes ferroviarias, se especificarán, entre otros aspectos, los requisitos y las condiciones de autorización que deberá cumplir el personal ajeno al Administrador de Infraestructuras Ferroviarias que interviene como responsable de circulación en las conexiones con la Red Ferroviaria de Interés General administrada por el Administrador de Infraestructuras Ferroviarias. Dichos requisitos y condiciones deberán ajustarse a lo establecido en esta orden.
+
+2. Asimismo, los requisitos y condiciones para otras habilitaciones y títulos a que se refieran dichos convenios serán los contemplados en esta orden.

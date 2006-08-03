@@ -1,0 +1,21 @@
+## Disposición adicional primera. Títulos de conducción de vehículos ferroviarios y habilitaciones del personal ferroviario cualificado que venía ejerciendo sus funciones con anterioridad a la entrada en vigor de la Ley del Sector Ferroviario.
+
+1. De acuerdo con lo previsto en la disposición adicional sexta de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, se entenderá que el personal que, a la entrada en vigor de la citada Ley, pertenecía a la entidad Red Nacional de los Ferrocarriles Españoles y ejercía las funciones contempladas en esta orden está autorizado para continuar con el desempeño de las mismas.
+
+No obstante, en el plazo de dos años desde la entrada en vigor de la citada Ley, dicho personal deberá contar con los documentos que formalicen las habilitaciones y, en su caso, los títulos de conducción de vehículos ferroviarios conforme a lo dispuesto en los apartados siguientes.
+
+2. Para que la Dirección General de Ferrocarriles proceda al otorgamiento formal de los correspondientes títulos de conducción de vehículos ferroviarios, en el plazo de dos años computados desde la entrada en vigor de la Ley del Sector Ferroviario:
+
+a) El Administrador de Infraestructuras Ferroviarias y RENFE-Operadora, según los casos, elevarán a la Dirección General de Ferrocarriles una relación de todo el personal de su entidad para el que, certificando que reunían las condiciones establecidas en el apartado primero anterior, solicitan el título de conducción para el ejercicio de las funciones facultadas por los títulos de las categorías A y B. Dichas entidades adjuntarán un listado conteniendo relación o copia de todos los datos y documentos que procedan para el otorgamiento del título correspondiente.
+
+b) El personal que, figurando en la plantilla de la entidad Red Nacional de Ferrocarriles Españoles en el momento de entrada en vigor de la Ley del Sector Ferroviario, ejercía funciones contempladas en esta orden para los títulos de conducción de vehículos ferroviarios y cuya relación laboral con ADIF o RENFE-Operadora ha sido extinguida con anterioridad a la entrada en vigor de esta orden, podrá solicitar a dichas entidades, según corresponda, la emisión de un certificado que acredite que reúne los requisitos previstos en el apartado primero anterior, que le permita solicitar el correspondiente título de conducción a la Dirección General de Ferrocarriles.
+
+c) Una vez recibida la documentación referida en los párrafos anteriores, la Dirección General de Ferrocarriles emitirá los correspondientes títulos de conducción de vehículos ferroviarios, supeditando la eficacia de dichos títulos a la validez del correspondiente certificado de aptitud psicofísica, que se sujetará, además, a las condiciones de validez, suspensión y revocación establecidas en los artículos 30 y 31.
+
+3. Una vez otorgados los títulos de conducción de vehículos ferroviarios, de conformidad con los apartados precedentes, las entidades para las que los titulares de aquellos presten sus servicios deberán otorgar las correspondientes habilitaciones de conducción.
+
+No obstante lo anterior, en el plazo de dos años desde la entrada en vigor de la Ley del Sector Ferroviario, dichas entidades deberán emitir los documentos que formalicen las habilitaciones de conducción correspondientes, que se sujetarán a las condiciones de validez, suspensión y revocación establecidas en los artículos 37 y 38.
+
+4. El personal ferroviario que, a la entrada en vigor de la Ley del Sector Ferroviario, viniera desempeñando, con la previa autorización de la entidad Red Nacional de Ferrocarriles Españoles o de la extinguida entidad Gestor de Infraestructuras Ferroviarias, las funciones descritas en los Títulos II, III, IV y VI de esta orden, podrán continuar ejerciendo esas funciones con las mismas condiciones e idénticos requisitos con los que las venían desempeñando.
+
+No obstante lo anterior, en el plazo de dos años desde la entrada en vigor de la Ley del Sector Ferroviario, RENFE-Operadora y el Administrador de Infraestructuras Ferroviarias deberán emitir los documentos que formalicen las habilitaciones correspondientes, que se sujetarán a las condiciones de validez, suspensión y revocación establecidas, según los casos, en los correspondientes artículos de los Títulos II, III, IV y VI de esta orden.
