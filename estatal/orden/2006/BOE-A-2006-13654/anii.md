@@ -55,3 +55,9 @@ Municipio de Ceuta.
 Ciudad de Melilla
 
 Municipio de Melilla.
+
+Comunidad Autónoma del País Vasco
+
+Provincia de Álava: Municipios de Arrazua-Ubarrundia, Barrundia, Elburgo, Legutiano, Vitoria-Gasteiz y Zigoitia.
+
+> Se añade el último apartado por el art. único.3 de la Orden APA/2556/2006, de 3 de agosto. Ref. BOE-A-2006-14191.

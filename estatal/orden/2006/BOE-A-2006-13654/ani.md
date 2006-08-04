@@ -79,3 +79,13 @@ Comunidad Autónoma de Galicia
 Comunidad Autónoma de la Región de Murcia
 
 1. Salinas de San Pedro del Pinatar.
+
+Comunidad Autónoma del País Vasco
+
+1. Balsas de Salburúa. Provincia de Álava.
+
+2. Embalse de Zadorra. Provincia de Álava.
+
+3. Embalse de Santa Engracia. Provincia de Álava.
+
+> Se añade el último apartado por el art. único.2 de la Orden APA/2556/2006, de 3 de agosto. Ref. BOE-A-2006-14191.
