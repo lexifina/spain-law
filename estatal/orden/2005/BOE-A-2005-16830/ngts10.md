@@ -108,7 +108,7 @@ Incumplimiento de las comercializadoras, consumidores cualificados que se autoab
 
 En general, cualquier situación provocada por un incremento imprevisible de la demanda del mercado doméstico, o por el incremento de consumos no previstos como firmes y que, por razones de interés general, se conviertan en necesariamente atendibles.
 
-10.6.1 Medidas a adoptar en Situación de Operación Excepcional de Nivel 0.–En el caso de que el desbalance sea causado por un comercializador, el Gestor Técnico del Sistema comprobará que se ha procedido a interrumpir el suministro de los clientes con los que aquel tenga establecidos contratos interrumpibles, y en caso contrario procederá a la interrupción.
+10.6.1 Medidas a adoptar en Situación de Operación Excepcional de Nivel 0.–En el caso de que el desbalance sea causado por un comercializador, el Gestor Técnico del Sistema comprobará que se ha procedido a interrumpir el suministro de los clientes con los que aquél tenga establecidos contratos interrumpibles comerciales y, en caso contrario, no estará habilitado a hacerlo él.
 
 En el caso de que el desbalance sea causado por el responsable del suministro a tarifa, el Gestor Técnico del Sistema comprobará que se ha procedido interrupción del suministro de los clientes con los que aquel tenga establecidos contratos interrumpibles a tarifa (grupo 4) y en caso contrario procederá a la interrupción.
 
@@ -197,3 +197,5 @@ Se recabará de las autoridades correspondientes el apoyo a las medidas adoptada
 Una vez que el sistema retorne a la Operación Normal, el Gestor Técnico del Sistema lo declarará y efectuará un informe completo de lo sucedido, incluyendo su criterio sobre las causas que hayan motivado dicha situación, y las medidas adoptadas y los sujetos afectados por dichas medidas. Dicho informe será remitido al Ministerio de Industria, Turismo y Comercio y a la Comisión Nacional de Energía.
 
 Del mismo modo, tras la finalización de la situación de desbalance, los sujetos cuyos consumos o clientes se hayan visto afectados (con independencia de su carácter de firme o interrumpible) podrán plantear cuantas acciones estimen pertinentes para la reparación de los daños y perjuicios que el desbalance les haya ocasionado a ellos o sus clientes.
+
+> Se modifica el primer párrafo del apartado 10.6.1 por la disposición adicional 1 de la Resolución de 25 de julio de 2006. Ref. BOE-A-2006-14314.
