@@ -1,0 +1,3 @@
+## Séptimo.
+
+Todas las recepciones de soportes informáticos y telemáticos serán provisionales, a resultas de su proceso y comprobación. Cuando no se ajusten al diseño y demás especificaciones establecidas en la presente Resolución, se requerirá al declarante para que subsane la notificación en el plazo de 10 días establecido en el artículo 71.1 de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Si transcurrido dicho plazo no se hubiera recibido su notificación, se le tendrá por desistido de su petición, procediéndose sin más trámite al archivo de su solicitud.
