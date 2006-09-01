@@ -1,0 +1,9 @@
+## Tercero. Creación del Registro Telemático de la Agencia Española de Protección de Datos.
+
+1. Se crea el Registro Telemático de la Agencia Española de Protección de Datos para la recepción y remisión de solicitudes, escritos y comunicaciones relativas a los trámites y procedimientos que se especifican en el apartado segundo de esta Resolución, que se remitan y expidan mediante firma electrónica en aplicación de lo previsto en el artículo 38.9 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+2. En defecto de lo que pueda disponer la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y sus disposiciones de desarrollo, resultará de aplicación lo dispuesto en el Real Decreto 263/1996, de 16 de febrero, de utilización de técnicas electrónicas, Informáticas y telemáticas por la Administración General del Estado, así como en el Real Decreto 772/1999, de 7 de mayo, que regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias de documentos y devoluciones de originales y el régimen de las oficinas de registro, y la Orden PRE/1551/2003, por la que se desarrolla la disposición final primera del Real Decreto 209/2003, de 21 de febrero, que regula los registros y notificaciones telemáticas, así como la utilización de los medios telemáticos para la sustitución de certificados por los ciudadanos.
+
+3. El Registro Telemático de la Agencia Española de Protección de Datos, se configura como un registro auxiliar del Registro de Entrada y Salida de este Ente Público, en los términos previstos en el apartado 4 del artículo 7 del Real Decreto 263/1996.
+
+4. El acceso al Registro Telemático de la Agencia Española de Protección de Datos por los interesados se realizará a través de la dirección electrónica de la Agencia (www.agpd.es).
