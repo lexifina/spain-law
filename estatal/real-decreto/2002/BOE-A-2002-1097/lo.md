@@ -228,7 +228,7 @@ e) el grado de confianza que merece la información si ésta es dudosa.
 
 8.4.3.6. En la cubierta de las Enmiendas AIP se hará una descripción breve de los asuntos afectados por la Enmienda.
 
-8.4.3.7. Cuando no se publique ninguna Enmienda a las AIP en los intervalos regulares establecidos o fechas de publicación, se hará la correspondiente notificación NIL (ninguna) y se distribuirá como resumen mensual impreso en lenguaje claro de los NOTAM vigentes según lo exigido por 8.5.2.8.3.
+8.4.3.7. Cuando no se publique ninguna Enmienda a las AIP en los intervalos regulares establecidos o fechas de publicación, se hará la correspondiente notificación NIL (ninguna) y se distribuirá como lista mensual impresa en lenguaje claro de los NOTAM vigentes según lo exigido por 8.5.2.13.3.
 
 8.4.4. Especificaciones relativas a los Suplementos AIP.
 
@@ -240,7 +240,7 @@ e) el grado de confianza que merece la información si ésta es dudosa.
 
 8.4.4.4. Cuando se envíe un Suplemento AIP en sustitución de un NOTAM, se incluirá como referencia el número de serie del NOTAM.
 
-8.4.4.5. Se expedirá una lista de verificación de los Suplementos AIP vigentes a intervalos de no más de un mes. Esta información se expedirá mediante el resumen mensual impreso en lenguaje claro de los NOTAM vigentes según lo exigido por 8.5.2.8.3.
+8.4.4.5. Se expedirá una lista de verificación de los Suplementos AIP vigentes a intervalos de no más de un mes. Esta información se expedirá mediante la lista mensual impresa en lenguaje claro de los NOTAM vigentes según lo exigido por 8.5.2.13.3.
 
 8.4.4.6. Las páginas de los Suplementos AIP deberán insertarse como primeras páginas de las partes AIP.
 
@@ -256,13 +256,15 @@ Las AIP, Enmiendas AIP y Suplementos AIP se distribuirán por el medio más ráp
 
 8.5.1.1. Se iniciará un NOTAM y se expedirá a la mayor brevedad cuando la información que se tenga que distribuir sea de carácter temporal y de corta duración o cuando se introduzcan con poco tiempo de preaviso cambios permanentes, o temporales de larga duración, que sean de importancia para las operaciones, salvo cuando el texto sea extenso o contenga gráficos. La información de corta duración que contenga texto extenso o gráficos, se publicará como Suplemento AIP (véase 8.4.4.1).
 
-8.5.1.1.1. Los NOTAM se iniciarán y expedirán siempre que la información siguiente tenga importancia directa para las operaciones:
+Nota: Los cambios que sean de importancia para las operaciones relativos a los casos que se enumeran en el punto 8.6.1.6.1. se publican dentro del sistema de reglamentación y control de la información aeronáutica (AIRAC) que se detalla en el Capítulo 6.
 
-a) establecimiento, cierre o cambios importantes que afecten a las operaciones de aeródromo o pistas;
+8.5.1.1.1 Los NOTAM se iniciarán y expedirán en relación con la información siguiente:
 
-b) establecimiento, eliminación y cambios importantes que afecten a las operaciones de los servicios aeronáuticos (AGA, AIS, ATS, COM, MET, SAR, etc.);
+a) establecimiento, cierre o cambios importantes que afecten a las operaciones de aeródromo/helipuertos o pistas;
 
-c) establecimiento o eliminación de ayudas electrónicas y de otra clase para la navegación aérea y aeródromos. Esto comprende: interrupción o reanudación de cualquier servicio; cambio de orientación (ayudas direccionales); cambio de ubicación; aumento o disminución en un 50 % o más de la potencia; cambios en los horarios de las radiodifusiones o en contenido, e irregularidad o inseguridad de operación de cualquier ayuda electrónica para la navegación aérea y de los servicios de comunicaciones aeroterrestres;
+b) establecimiento, eliminación y cambios importan-tes que afecten a las operaciones de los servicios aeronáuticos (AGA, AIS, ATS, COM, MET, SAR, etc.);
+
+c) establecimiento o eliminación de ayudas electrónicas y de otra clase para la navegación aérea y aeródromos/helipuertos. Esto comprende: interrupción o reanudación de cualquier servicio; cambio de frecuencias, cambio en las horas de servicio notificadas, cambio de identificación, cambio de orientación (ayudas dirección (ayudas direccionales); cambio de ubicación; aumento o disminución en un 50% o más de la potencia; cambios en los horarios de las radiodifusiones o en su contenido, e irregularidad o inseguridad de operación de cualquier ayuda electrónica para la navegación aérea y de los servicios de comunicaciones aeroterrestres;
 
 d) establecimiento, eliminación o cambios importantes en las ayudas visuales;
 
@@ -270,7 +272,7 @@ e) interrupción o reanudación del funcionamiento de los componentes importante
 
 f) establecimiento, eliminación o cambios importantes en los procedimientos de los servicios de navegación aérea;
 
-g) presencia, eliminación de defectos o impedimentos importantes en el área de maniobras;
+g) presencia o eliminación de defectos o impedimentos importantes en el área de maniobras;
 
 h) modificaciones y limitaciones en el suministro de combustible, lubricantes y oxígeno;
 
@@ -278,9 +280,9 @@ i) cambios importantes en las instalaciones y servicios disponibles de búsqueda
 
 j) establecimiento, interrupción o reanudación del servicio de los faros de peligro que señalan obstáculos importantes para la navegación aérea;
 
-k) cambios en las disposiciones que requieran medidas inmediatas, por ejemplo, respecto a zonas prohibidas debido a actividades de búsqueda y salvamento;
+k) cambios en las disposiciones que requieran medidas inmediatas, por ejemplo, respecto a zonas prohibidas debido a actividades SAR;
 
-l) presencia de peligros para la navegación aérea (comprendidos los obstáculos, maniobras militares, exhibiciones, competiciones, actividades importantes de paracaidismo fuera de emplazamientos promulgados);
+l) presencia de peligros para la navegación aérea (comprendidos los obstáculos, maniobras militares, exhibiciones y competiciones, actividades importantes de paracaidismo fuera de emplazamientos promulgados);
 
 m) erección, eliminación o modificación de obstáculos importantes para la navegación aérea en las áreas de despegue/ascenso, aproximación frustrada, aproximación y en la franja de pista;
 
@@ -292,31 +294,33 @@ p) asignación, anulación o cambio de indicadores de lugar;
 
 q) cambios significativos del nivel de protección de que normalmente se dispone en un aeródromo para fines de salvamento y extinción de incendios; se iniciará un NOTAM sólo cuando se trate de un cambio de categoría y dicho cambio deberá indicarse claramente;
 
-r) presencia, eliminación o cambios importantes de condiciones peligrosas debidas a nieve, nieve fundente, hielo o agua en el área de movimiento; la notificación de dichas condiciones habrá de hacerse, de preferencia, utilizando el formato SNOWTAN del Apéndice Q o el código NOTAM y lenguaje claro;
+r) presencia, eliminación o cambios importantes de condiciones peligrosas debidas a nieve, nieve fundente, hielo o agua en el área de movimiento;
 
 s) aparición de epidemias que necesiten cambios en los requisitos notificados respecto a vacunas y cuarentenas;
 
 t) pronósticos de radiación cósmica solar, cuando se facilitan;
 
-u) cambios de importancia para las operaciones por actividad volcánica, lugar, fecha y hora de erupciones volcánicas y/o extensión horizontal y vertical de nubes de cenizas volcánicas, comprendidos el sentido en que se mueven, los niveles de vuelo y las rutas o tramos de rutas que podrían estar afectados. La notificación de tales condiciones se efectuará de preferencia en el formato ASHTAM del Apéndice Q o en el Código NOTAM y lenguaje claro.
+t) cambios de importancia para las operaciones por actividad volcánica, lugar, fecha y hora de erupciones volcánicas y/o extensión horizontal y vertical de nubes de cenizas volcánicas, comprendidos el sentido en que se mueven, los niveles de vuelo y las rutas o tramos de rutas que podrían estar afectados;
 
-v) liberación a la atmósfera de materiales radiactivos o productos químicos tóxicos como consecuencia de un incidente nuclear o químico, lugar, fecha y hora del incidente, niveles de vuelo y rutas o tramos de rutas que podrían estar afectados, así como dirección del movimiento.
+u) liberación a la atmósfera de materiales radiactivos o productos químicos tóxicos como consecuencia de un incidente nuclear o químico, lugar, fecha y hora del incidente, niveles de vuelo y rutas o tramos de rutas que podrían estar afectados, así como dirección del movimiento;
 
-w) establecimiento de operaciones de misiones humanitarias de socorro, tales como las emprendidas bajo los auspicios de las Naciones Unidas, junto con los procedimientos y/o limitaciones que afectan a la navegación aérea.
+v) establecimiento de operaciones de misiones humanitarias de socorro, tales como las emprendidas bajo los auspicios de las Naciones Unidas, junto con los procedimientos o limitaciones que afectan a la navegación aérea; y
 
-8.5.1.1.2 Cuando se publique una Enmienda AIP o un suplemento AIP de conformidad con los procedimientos AIRAC, se iniciará un NOTAM dando una breve descripción del contenido, la fecha de entrada en vigor y el número de referencia de la Enmienda o suplemento. Este NOTAM tendrá la misma fecha de entrada en vigor que la Enmienda o Suplemento.
+w) aplicación de procedimientos de contingencia a corto plazo en casos de perturbación parcial, de los servicios de tránsito aéreo o de los servicios de apoyo correspondientes.
 
-8.5.1.1.3. Se considerará la necesidad de iniciar un NOTAM en toda otra circunstancia que sea importante desde el punto de vista operacional.
+Nota: Véase apartado 3.2.27.
 
-8.5.1.1.4. La información siguiente no se notificará por NOTAM:
+8.5.1.1.2. Se considerará la necesidad de iniciar un NOTAM en toda otra circunstancia que pueda afectar las operaciones de la aeronave.
+
+8.5.1.1.3 La información siguiente no se notificará por NOTAM:
 
 a) trabajos habituales de mantenimiento en plataformas y calles de rodaje que no afectan a la seguridad de movimiento de las aeronaves;
 
 b) trabajos de señalización de pistas, cuando las operaciones de aeronaves puedan efectuarse de manera segura en otras pistas disponibles, o el equipo utilizado pueda ser retirado cuando sea necesario;
 
-c) obstáculos temporales en la vecindad de los aeródromos, que no afecten a la operación segura de las aeronaves;
+c) obstáculos temporales en la vecindad de los aeródromos/helipuertos, que no afecten a la operación segura de las aeronaves;
 
-d) falla parcial de las instalaciones de iluminación en el aeródromo, cuando no afecte directamente a las operaciones de aeronaves;
+d) falla parcial de las instalaciones de iluminación en el aeródromo/helipuerto, cuando no afecte directamente a las operaciones de aeronaves;
 
 e) falla parcial temporal de las comunicaciones aeroterrestres cuando se sepa que pueden utilizarse frecuencias adecuadas de alternativa;
 
@@ -324,79 +328,89 @@ f) la falta de servicios relativos a los movimientos de plataforma y al control 
 
 g) el hecho de que no estén en servicio los letreros para indicar un emplazamiento o destino u otra información en el área de movimiento del aeródromo;
 
-h) actividades de paracaidismo en el espacio aéreo no controlado en condiciones VFR (véase 8.5.1.1.1. l), o en emplazamientos promulgados o dentro de zonas peligrosas o prohibidas, en el espacio aéreo controlado;
+h) actividades de paracaidismo en el espacio aéreo no controlado en condiciones VFR (véase 8.5.1.1.1 apartado l), o en emplazamientos promulgados o dentro de zonas peligrosas o prohibidas, en el espacio aéreo controlado;
 
 i) otra información de naturaleza análogamente temporal.
 
-8.5.1.1.5. Deberá, siempre que sea posible, comunicarse con siete días de antelación, por lo menos, la activación de las zonas peligrosas, restringidas o prohibidas que se hayan establecido, y la realización de actividades que requieran restricciones temporales del espacio aéreo, que no sean debidas a operaciones de emergencia.
+8.5.1.1.4 Deberá, siempre que sea posible, comunicarse con siete días de antelación, por lo menos, la activación de las zonas peligrosas, restringidas o prohibidas que se hayan establecido, y la realización de actividades que requieran restricciones temporales del espacio aéreo, que no sean debidas a operaciones de emergencia.
 
-8.5.1.1.5.1. Se comunicará lo antes posible toda anulación consiguiente de las actividades o toda reducción de las horas de actividad o de las dimensiones del espacio aéreo afectado.
+8.5.1.1.4.1 Se comunicará lo antes posible toda anulación consiguiente de las actividades o toda reducción de las horas de actividad o de las dimensiones del espacio aéreo afectado.
 
 Siempre que sea posible, conviene avisar con 24 horas de antelación a fin de poder terminar oportunamente el proceso de notificación y facilitar la planificación de la utilización del espacio aéreo.
 
-8.5.1.1.6. Los NOTAM para notificar que no están en servicio las ayudas a la navegación aérea, las instalaciones o servicios de comunicaciones, deberán siempre que sea posible dar una idea del período en que no estén en servicio o del tiempo en que se espera restablecer el servicio.
+8.5.1.1.5 Los NOTAM para notificar que no están en servicio las ayudas a la navegación aérea, las instalaciones o servicios de comunicaciones, darán siempre que sea posible dar una idea del período en que no estén en servicio o del tiempo en que se espera restablecer el servicio.
+
+8.5.1.1.6 Cuando se publique una Enmienda AIP o un suplemento AIP de conformidad con los procedimientos AIRAC, se iniciará un NOTAM dando una breve descripción del contenido, la fecha de entrada en vigor y el numero de referencia de la Enmienda o suplemento. Este NOTAM tendrá la misma fecha de entrada en vigor que la Enmienda o Suplemento y deberá mantenerse válido en el boletín de información previo al vuelo por un período de 14 días.
+
+Nota: En el Manual para los servicios de información aeronáutica (Doc 8126) de OACI figuran los textos de orientación relativos a la iniciación de los NOTAM en los que se anuncia las fechas de entrada en vigor de Enmiendas AIP o Suplementos AIP de conformidad con los procedimientos AIRAC («NOTAM iniciador»).
 
 8.5.2. Especificaciones generales.
 
-8.5.2.1. El originador asignará un número de serie a cada uno de los NOTAM de una serie. El número será consecutivo y se basará en el año civil.
+8.5.2.1. A reserva de lo especificado en 8.5.2.3 y 8.5.2.4., cada NOTAM contendrá la información en el orden indicado en el formato NOTAM del Apéndice Q.
 
-8.5.2.2. Cada NOTAM será lo más conciso posible y se redactará de modo que se entienda claramente, sin referirse a otro documento.
+8.5.2.2 El texto de un NOTAM se compondrá utilizando los significados/fraseología abreviada uniforme asignados al código NOTAM de la OACI, complementados mediante abreviaturas de la OACI, indicadores, identificadores, designadores, distintivos de llamada, frecuencias, cifras y lenguaje claro.
 
-8.5.2.3. Cada NOTAM se transmitirá como mensaje único de telecomunicación.
+8.5.2.2.1 Cuando se seleccione un NOTAM para distribución internacional, se deberá incluir el texto en inglés en las partes que se expresen en lenguaje claro.
 
-8.5.2.4. Los NOTAM que contengan información de carácter permanente o temporal de larga duración llevarán las referencias apropiadas a la AIP o al Suplemento AIP.
+Nota: Los códigos NOTAM de la OACI así como los significados /fraseología abreviada uniforme y las abreviaturas de la OACI figuran en el documento titulado PANS-ABC (Doc. 8400).
 
-8.5.2.5. Cuando se expida un NOTAM que cancele, o sustituya un NOTAM anterior, se indicará el número de serie del NOTAM expedido previamente.
+8.5.2.3 La información relativa a depósitos de nieve, nieve fundente, hielo y agua estancada en el pavimento de los aeródromos/helipuertos contendrá los datos, cuando se notifique por medio de un SNOWTAM, en el orden indicado en el formato de SNOWTAM que figura en el Apéndice Q.
 
-8.5.2.6. Cuando un NOTAM contenga errores, se expedirá otro NOTAM sustitutivo.
+8.5.2.4 La información relativa a un cambio de importancia para las operaciones en la actividad volcánica, erupción volcánica o nube de cenizas volcánicas contendrá los datos, cuando se notifiquen por medio de un ASHTAM, en el orden indicado en el formato de ASHTAM del Apéndice Q.
 
-8.5.2.7. Los indicadores de lugar, contenidos en el texto de todo NOTAM, corresponderán a los de la lista oficial de la OACI.
+8.5.2.5 El originador de los NOTAM asignará a cada uno de los NOTAM un número de serie identificado por una letra y un número de cuatro cifras seguidas de una barra y de un número de dos cifras para el año. El número de cuatro cifras será consecutivo y se basará en el año civil.
 
-8.5.2.7.1. En ningún caso se usará una forma más breve de tal indicador.
+Nota: Las series de NOTAM pueden identificarse mediante las letras A a Z, con excepción de S y T.
 
-8.5.2.7.2. Si a un emplazamiento no se hubiera asignado ningún indicador de lugar OACI, se indicará el nombre del lugar en lenguaje claro deletreándolo de conformidad con 8.3.4.2.
+8.5.2.6. Cuando un NOTAM contenga errores, se expedirá un NOTAM con un número nuevo, que sustituya al NOTAM con errores.
 
-8.5.2.8. Se emitirá por AFTN una lista de verificación de los NOTAM vigentes, a intervalos de no más de un mes.
+8.5.2.7 Cuando se expida un NOTAM que cancele o sustituya un NOTAM anterior se indicará el número del NOTAM anterior. La serie, indicador de lugar y asunto de ambos NOTAM serán los mismos. Un NOTAM podrá ser únicamente cancelado o sustituido por otro NOTAM.
 
-8.5.2.8.1. La lista de verificación de los NOTAM contendrá una referencia a las últimas Enmiendas AIP, Suplementos AIP y por lo menos a las AIC de distribución internacional.
+8.5.2.8 Cada NOTAM tratará únicamente de un asunto y de una condición relativa al asunto.
 
-8.5.2.8.2. La lista de verificación de los NOTAM tendrá la misma distribución que la actual serie de mensajes a la que se refiere y se identificará claramente como lista de verificación.
+Nota: La orientación sobre la combinación de un asunto y una condición relativa al asunto de conformidad con los Criterios de selección de los NOTAM figura en el Manual para los servicios de información aeronáutica (Doc. 8126) de OACI.
 
-8.5.2.8.3. Se preparará con la menor demora posible y se transmitirá por el medio más rápido de que se disponga a los destinatarios de la Documentación Integrada de Información Aeronáutica un resumen mensual impreso en lenguaje claro de los NOTAM vigentes comprendida la indicación de las Enmiendas AIP, listas de verificación de Suplementos AIP y AIC últimamente expedidos.
+8.5.2.9 Cada NOTAM será lo más conciso posible y se redactará de modo que se entienda claramente, sin remitir a otro documento.
+
+8.5.2.10 Cada NOTAM se transmitirá como mensaje único de telecomunicación.
+
+8.5.2.11 Los NOTAM que contengan información de carácter permanente o temporal de larga duración llevarán las referencias apropiadas a la AIP o al Suplemento AIP.
+
+8.5.2.12 Los indicadores de lugar, contenidos en el texto de todo NOTAM, serán los que figuran en los Indicadores de lugar (Doc.7910 de OACI).
+
+8.5.2.12.1 En ningún caso se usará una forma abreviada de tales indicadores.
+
+8.5.2.12.2 Si a un emplazamiento no se hubiera asignado ningún indicador de lugar OACI, se indicará el nombre del lugar en lenguaje claro deletreándolo de conformidad con 8.3.4.2.
+
+8.5.2.13 Se expedirá como NOTAM, por el servicio fijo aeronáutico (AFS), una lista de verificación de los NOTAM vigentes, a intervalos de no más de un mes, utilizando el formato NOTAM especificado en el Apéndice Q, Adjunto 2. Se expedirá un NOTAM para cada serie.
+
+8.5.2.13.1 La lista de verificación de los NOTAM contendrá una referencia a las últimas Enmiendas AIP, Suplementos AIP y por lo menos a las AIC de distribución internacional.
+
+8.5.2.13.2 La lista de verificación de los NOTAM tendrá la misma distribución que la actual serie de mensajes a la que se refiere y se identificará claramente como lista de verificación.
+
+8.5.2.13.3 Se preparará con la menor demora posible y se transmitirá por el medio más rápido de que se disponga a los destinatarios de la Documentación Integrada de Información Aeronáutica una lista mensual impresa en lenguaje claro de los NOTAM vigentes, comprendida la indicación de las Enmiendas AIP, AIC últimamente expedidos y una lista de verificación de Suplementos AIP.
 
 8.5.3. Distribución.
 
-8.5.3.1. Los NOTAM se distribuirán a los destinatarios a quienes la información sea de importancia directa para sus operaciones y que, de no ser así, no tendrían por lo menos siete días denotificación previa.
+8.5.3.1 Los NOTAM se distribuirán en respuesta a una solicitud.
 
-8.5.3.2. A reserva de lo especificado en 8.5.3.3. y 8.5.3.4., el texto de cada NOTAM contendrá la información en el orden indicado en el formato NOTAM del Apéndice Q.
+8.5.3.2 Los NOTAM se prepararán de conformidad con las disposiciones correspondientes de los procedimientos de comunicaciones de la OACI.
 
-8.5.3.3. La información relativa a depósitos de nieve, hielo y agua estancada en el pavimento de los aeródromos contendrá los datos, cuando se notifiquen por medio de un SNOWTAM, en el orden indicado en el formato que figura en el Apéndice Q.
+8.5.3.2.1 Siempre que sea posible, se empleará el AFS para su distribución de los NOTAM.
 
-8.5.3.4. La información relativa a un cambio de importancia para las operaciones en la actividad volcánica, erupción volcánica o nube de cenizas volcánicas contendrá los datos, cuando se notifiquen por medio de un ASHTAM, en el orden indicado en el formato del Apéndice Q,
+8.5.3.2.2 Cuando algún NOTAM intercambiado según lo especificado en 8.5.3.4 se envíe por otro medio que no sea el AFS, se empleará un grupo de seis dígitos de fecha y hora que indique la fecha y la hora de origen del NOTAM y la identificación del originador, que precederá al texto.
 
-8.5.3.5. Los NOTAM se prepararán de conformidad con las disposiciones correspondientes de los procedimientos de comunicaciones fijas aeronáuticas (AFTN) para la distribución de los NOTAM.
+8.5.3.3 El servicio de Información Aeronáutica determinará qué NOTAM debe difundirse internacionalmente.
 
-8.5.3.5.1. Siempre que sea posible, se empleará la red de telecomunicaciones fijas aeronáuticas (AFTN) para su distribución de los NOTAM.
+8.5.3.3.1 Cuando sea posible deberán utilizarse las listas de distribución selectiva. Estas listas tienen por objeto evitar la distribución superflua de información.
 
-8.5.3.5.2. Cuando algún NOTAM intercambiado según lo especificado en 8.5.3.8., se envíe por otro medio que no sea la red de telecomunicaciones fijas aeronáuticas (AFTN), se empleará un grupo de seis dígitos de fecha y hora que indique la fecha y la hora de depósito del NOTAM y la identificación del originador, que deberá preceder al texto.
+8.5.3.4 El intercambio internacional de NOTAM tendrá lugar solamente por acuerdo mutuo entre las oficinas NOTAM internacionales interesadas. El intercambio internacional de ASHTAM (véase 8.5.2.4) y de NOTAM cuando los Estados sigan utilizando los NOTAM para distribuir información sobre actividad volcánica, incluirá los centros de avisos de cenizas volcánicas, y tomará en consideración los requisitos de las operaciones de larga distancia.
 
-8.5.3.6. Los NOTAM transmitidos por el servicio de telecomunicaciones internacionales se compondrán utilizando los significados/fraseología abreviada uniforme asignados al código NOTAM de la OACI, complementados mediante abreviaturas de la OACI, indicadores, identificadores, designadores, distintivos de llamada, frecuencias, cifras y lenguaje claro.
+8.5.3.4.1 Podrán hacerse arreglos para intercambio directo de SNOWTAM (véase Apéndice Q) entre aeródromos/helipuertos.
 
-8.5.3.6.1. Puede usarse un SNOWTAM (véase formato que figura en el Apéndice Q) para la difusión de información relativa a nieve, nieve fundente, hielo y agua estancada relacionada con nieve, nieve fundente y hielo en el área de movimiento.
+8.5.3.4.2 Estos intercambios de NOTAM entre oficinas NOTAM internacionales se limitarán, en cuanto sea posible, a las necesidades de los Estados interesados que los reciben, por medio de series separadas proporcionadas por lo menos a los vuelos internacionales e interiores.
 
-8.5.3.6.2. Puede usarse un ASHTAM (véase formato que figura en Apéndice Q) para la difusión de información relativa a cambios de importancia para las operaciones en la actividad volcánica, erupción volcánica o nube de cenizas volcánicas.
-
-8.5.3.7. El servicio de Información Aeronáutica determinará qué NOTAM debe difundirse internacionalmente.
-
-8.5.3.7.1. Cuando sea posible deberán utilizarse las listas de distribución selectiva. Estas listas tienen por objeto evitar la difusión superflua de información.
-
-8.5.3.8. El intercambio internacional de NOTAM tendrá lugar solamente por acuerdo mutuo entre las oficinas NOTAM internacionales interesadas. El intercambio internacional de ASHTAM (véase 8.5.3.4) y de NOTAM cuando los Estados sigan utilizando los NOTAM para distribuir información sobre actividad volcánica, incluirá los centros de avisos de cenizas volcánicas, y tomará en consideración los requisitos de las operaciones de larga distancia.
-
-8.5.3.8.1. Podrán hacerse arreglos para intercambio directo de SNOWTAM (véase Apéndice Q) entre aeródromos.
-
-8.5.3.8.2. Estos intercambios de NOTAM entre oficinas NOTAM internacionales se limitarán, en cuanto sea posible, a las necesidades de los Estados interesados que los reciben, por medio de series separadas proporcionadas por lo menos a los vuelos internacionales e interiores.
-
-8.5.3.8.3. En lo posible y a reserva de los requisitos estipulados en 8.5.3.8, se usará un sistema de distribución predeterminada para los NOTAM transmitidos por la AFTN de conformidad con 8.5.4.
+8.5.3.4.3 En lo posible y de acuerdo con los requisitos estipulados en 8.5.3.4 se usará un sistema de distribución predeterminada para los NOTAM transmitidos por el AFS de conformidad con 8.5.4.
 
 8.5.4. Sistema de Distribución Predeterminada para los NOTAM.
 
@@ -424,9 +438,13 @@ Las letras quinta, sexta y séptima reemplazan al designador YNY de tres letras 
 
 8.6.1. Sistema reglamentado (AIRAC).
 
-8.6.1.1. La información relativa a las circunstancias mencionadas en el párrafo 8.6.1.6, se distribuirá mediante el sistema reglamentado (AIRAC), es decir, basando el establecimiento, suspensión o cambios importantes en una serie de fechas comunes de entrada en vigor a intervalos de 28 días, comprendido el 6 de noviembre de 1997. La dependencia AIS iniciará y distribuirá la información con una antelación por lo menos de 42 días con respecto a la fecha de entrada en vigor, de forma que los destinatarios puedan recibirla por lo menos 28 días antes de dicha fecha; y la información notificada no se modificará de nuevo por lo menos hasta 28 días después de la fecha de entrada en vigor, a menos que la circunstancia notificada sea de carácter temporal y no subsista por todo el período.
+8.6.1.1. La información relativa a las circunstancias mencionadas en el párrafo 8.6.1.6., se distribuirá bajo el sistema reglamentado (AIRAC), es decir, basando el establecimiento, suspensión o cambios importantes en una serie de fechas comunes de entrada en vigor a intervalos de 28 días, comprendido el 29 de enero de 1998.
 
-8.6.1.1.1. Siempre que se prevean modificaciones de importancia y cuando sea conveniente y factible, deberá fijarse la fecha de publicación con una antelación por lo menos de 56 días con respecto a la fecha de entrada en vigor.
+La información notificada no se modificará de nuevo por lo menos hasta 28 días después de la fecha de entrada en vigor, a menos que la circunstancia notificada sea de carácter temporal y no subsista por todo el período.
+
+8.6.1.1.1 La información proporcionada según el Sistema AIRAC se publicará en forma impresa, la dependencia AIS iniciará y distribuirá la información por lo menos con 42 días de antelación respecto a la fecha de entrada en vigor, de forma que los destinatarios puedan recibirla por lo menos 28 días antes de dicha fecha.
+
+8.6.1.1.2 Siempre que se prevean modificaciones de importancia y cuando sea conveniente y factible, deberá fijarse la fecha de publicación con una antelación por lo menos de 56 días con respecto a la fecha de entrada en vigor
 
 8.6.1.2. Cuando no se haya presentado ninguna información para su publicación en la fecha AIRAC, se iniciará la notificación NIL, y se distribuirá mediante NOTAM, no más tarde de un ciclo antes de la fecha de entrada en vigor del AIRAC de que se trate.
 
@@ -434,7 +452,7 @@ Las letras quinta, sexta y séptima reemplazan al designador YNY de tres letras 
 
 8.6.1.4. No se fijarán fechas de aplicación distintas a las fechas de entrada en vigor AIRAC respecto a modificaciones planeadas, importantes para las operaciones que exijan trabajos cartográficos, ni para actualizar las bases de datos de navegación.
 
-8.6.1.5. Cuando la fecha prevista de entrada en vigor no coincida con la fecha de entrada en vigor AIRAC, la fecha de publicación de la información, siempre que sea posible, debería preceder 28 días al comienzo del ciclo AIRAC al cual corresponda la fecha prevista de entrada en vigor.
+8.6.1.5. Cuando la dependencia AIS suministre información en forma electrónica respecto de las circunstancias mencionadas en los apartados 8.6.1.6.1 y 8.6.1.6.2 la distribuirá, asegurándose de que las fechas de entrada en vigor de los datos coincidan con las AIRAC utilizadas para el suministro de información en forma impresa y de manera que llegue a los destinatarios por lo menos con 28 días de antelación respecto a la fecha de entrada en vigor AIRAC.
 
 8.6.1.6. El sistema reglamentado (AIRAC) deberá emplearse también, siempre que sea posible, para la promulgación de información relativa al establecimiento, suspensión y cambios importantes premeditados en las circunstancias que se mencionan a continuación:
 
@@ -602,7 +620,7 @@ La documentación enumerada en a) y b) puede limitarse a publicaciones nacionale
 
 a) trabajos de construcción o de conservación en el área de maniobras o contiguos a la misma;
 
-b) partes desiguales del área de maniobras, tanto si están señaladas como si no, por ejemplo, las partes rotas de las superficies de las pistas y calles de rodaje;
+b) partes desiguales del área de maniobras, tanto sí están señaladas como si no, por ejemplo, las partes rotas de las superficies de las pistas y calles de rodaje;
 
 c) presencia y profundidad de nieve, hielo o agua en las pistas y calles de rodaje; incluyendo su efecto en el frenado;
 
@@ -610,13 +628,13 @@ d) la nieve acumulada en las pistas o en las calles de rodaje, o adyacente a las
 
 e) las aeronaves estacionadas u otros objetos en las calles de rodaje o junto a las mismas;
 
-f) la presencia de otros peligros temporales (comprendido el de aves, etc.);
+f) la presencia de otros peligros temporales.
 
-g) la avería o el funcionamiento irregular de una parte o de todo el sistema de iluminación del aeródromo, incluyendo las luces de aproximación, de umbral, de pista, de calle de rodaje, de obstáculos, de zonas fuera de servicio del área de maniobras y la fuente de energía eléctrica del aeródromo;
+g) la presencia de aves que puedan ser un peligro para las operaciones de una aeronave;
 
-h) las averías, el funcionamiento irregular y las variaciones en el estado operacional del ILS (incluidas las radiobalizas), así como de los siguientes elementos, SRE, PAR, DME, SSR, VOR, NDB, canales VHF del servicio móvil aeronáutico, sistema de observación del alcance visual en la pista, y fuente secundaria de energía eléctrica.
+h) la avería o el funcionamiento irregular de una parte o de todo el sistema de iluminación del aeródromo, incluyendo las luces de aproximación, de umbral, de pista, de calle de rodaje, de obstáculos, de zonas fuera de servicio del área de maniobras y la fuente de energía eléctrica del aeródromo;
 
-i) el desarrollo en curso de operaciones de misiones humanitarias de socorro, tales como las emprendidas bajo los auspicios de las Naciones Unidas, junto con los procedimientos o limitaciones que se apliquen al respecto.
+i) El desarrollo en curso de operaciones de misiones humanitarias de socorro, tales como las emprendidas bajo los auspicios de las Naciones Unidas, junto con los procedimientos o limitaciones que se apliquen al respecto.
 
 8.8.1.3. Se pondrá a disposición de las tripulaciones de vuelo una recapitulación de los NOTAM vigentes y demás información de carácter urgente en forma de boletines de información previa al vuelo en lenguaje claro.
 
@@ -625,6 +643,8 @@ i) el desarrollo en curso de operaciones de misiones humanitarias de socorro, ta
 8.8.2. Información posterior al vuelo.
 
 8.8.2.1. El Estado se cerciorará de que se toman medidas para que en los aeródromos se reciba información respecto al estado y condiciones de funcionamiento de las instalaciones de navegación aérea que observen las tripulaciones de las aeronaves, y se cerciorarán asimismo de que el servicio de información aeronáutica dispone de tal información para distribuirla según lo requieran las circunstancias.
+
+8.8.2.2 El Estado se cerciorará de que se toman medidas para que en los aeródromos se reciba información respecto a la presencia de aves que observen las tripulaciones de las aeronaves, y se cerciorarán asimismo de que el servicio de información aeronáutica dispone de tal información para distribuirla según lo requieran las circunstancias.
 
 ## CAPÍTULO 9
 
@@ -1118,9 +1138,9 @@ Descripción detallada de las observaciones e informes meteorológicos proporcio
 
 2) el tipo y frecuencia de las observaciones, incluyendo una indicación del tipo automático de observación;
 
-3) los tipos de informes meteorológicos (p.ej. METAR) y detalles de cualquier otra información complementaria que se incluya (p.ej. pronóstico de tipo tendencia para el aterrizaje);
+3) los tipos de informes meteorológicos (p.ej. METAR) y la disponibilidad de pronósticos de tendencia;
 
-4) el tipo específico de sistema de observación y número de emplazamientos de observación utilizados para observar y notificar el viento en la superficie, la visibilidad, el alcance visual en la pista, la base de nubes, la temperatura y, cuando corresponda, la cortante del viento (p.ej. anemómetro en la intersección de las pistas, transmisómetro en las proximidades de los puntos de toma de contacto e intersección, etc.);
+4) el tipo específico de sistema de observación y número de emplazamientos de observación utilizados para observar y notificar el viento en la superficie, la visibilidad, el alcance visual en la pista, la base de nubes, la temperatura y, cuando corresponda, la cortante del viento (p.ej. anemómetro en la intersección de las pistas, transmisómetro en las proximidades de la zona de toma de contacto, etc.);
 
 5) las horas de funcionamiento; y
 
@@ -1144,7 +1164,7 @@ Descripción del servicio VOLMET, que comprenda:
 
 1) el nombre de la estación transmisora;
 
-2) el distintivo de llamada o identificación y tipo de emisión;
+2) el distintivo de llamada o identificación y abreviatura para la emisión de telecomunicaciones;
 
 3) la frecuencia o frecuencias utilizadas para la radiodifusión;
 
@@ -1154,9 +1174,9 @@ Descripción del servicio VOLMET, que comprenda:
 
 6) la lista de los aeródromos/helipuertos para los cuales se incluyen notificaciones y/o pronósticos;
 
-7) el contenido y formato de las notificaciones y de los pronósticos incluidos, y observaciones que correspondan.
+7) las notificaciones, pronósticos e información SIGMET incluidos, y observaciones que correspondan.
 
-GEN 3.5.8. Servicio SIGMET.
+GEN 3.5.8. Servicio SIGMET y AIRMET.
 
 Descripción de la vigilancia meteorológica proporcionada dentro de las regiones de información de vuelo o áreas de control para las cuales se facilitan servicios de tránsito aéreo, incluyendo una lista de las oficinas de vigilancia meteorológica, que comprenda:
 
@@ -1170,9 +1190,11 @@ Descripción de la vigilancia meteorológica proporcionada dentro de las regione
 
 5) los procedimientos específicos que se aplican a la información SIGMET (p.ej. para cenizas volcánicas, ciclones tropicales);
 
-6) las dependencias de servicios de tránsito aéreo a las que se proporciona información SIGMET;
+6) los procedimientos aplicados a la información AIRMET (de conformidad con los acuerdos regionales de navegación aérea pertinentes);
 
-7) y, otra información (p.ej. relativa a cualquier limitación del servicio, etc.).
+7) las dependencias de servicios de tránsito aéreo a las que se proporciona información SIGMET y AIRMET; y
+
+8) otra información (p.ej. relativa a cualquier limitación del servicio, etc.).
 
 GEN 3.5.9. Otros servicios meteorológicos automáticos.
 
@@ -1916,7 +1938,7 @@ c) la indicación NIL cuando corresponda.
 
 Nota: En el Anexo 4 de OACI, apartados 3.2.2. y 5.2.1.b) se especifica que se publicará una notificación de que no existen obstáculos destacados en el área de la trayectoria de vuelo de despegue, en el área de vuelo en circuito y en el aeródromo.
 
-****AD 2.11. Información meteorológica suministrada.
+**** AD 2.11. Información meteorológica suministrada.
 
 Descripción detallada de la información meteorológica que se proporciona en el aeródromo y una indicación de la oficina meteorológica encargada de prestar el servicio enumerado, incluyendo:
 
@@ -1926,7 +1948,7 @@ Descripción detallada de la información meteorológica que se proporciona en e
 
 3) la oficina responsable de la preparación de TAF y períodos de validez e intervalo de expedición de los pronósticos;
 
-4) tipo de pronósticos de aterrizaje disponibles para el aeródromo e intervalos de expedición;
+4) tipo de la disponibilidad de pronósticos de tipo tendencia para el aeródromo e intervalos de expedición;
 
 5) información acerca de la forma en que se facilitan las exposiciones verbales y/o las consultas;
 
@@ -1934,7 +1956,7 @@ Descripción detallada de la información meteorológica que se proporciona en e
 
 7) cartas y otra información que se exija o se utilice para las exposiciones verbales o las consultas;
 
-8) equipo suplementario (p.ej. radar meteorológico) de que se dispone para suministrar información sobre condiciones meteorológicas;
+8) equipo suplementario de que se dispone para suministrar información sobre condiciones meteorológicas p. ej., radar meteorológico y receptor para las imágenes de satélite;
 
 9) la dependencia o dependencias de los servicios de tránsito aéreo a las cuales se suministra información meteorológica; y
 
@@ -2140,7 +2162,7 @@ Es necesario incluir cartas relativas al aeródromo, en el orden siguiente:
 
 Si algunas de las cartas no se producen, deberá incluirse en la sección GEN 3.2, Cartas aeronáuticas, una declaración a esos efectos.
 
-8.10.3.3. AD 3. Helipuertos.
+8.10.3.3 Helipuertos.
 
 Cuando el aeródromo tenga una zona para el aterrizaje de helicópteros, los datos al efecto han de presentarse en ****AD 2.16 únicamente.
 
@@ -2298,7 +2320,7 @@ Descripción detallada de los obstáculos destacados en el helipuerto o en sus p
 
 4) la indicación NIL cuando corresponda.
 
-****AD 3.11. Información meteorológica suministrada.
+**** AD 3.11. Información meteorológica suministrada.
 
 Descripción detallada de la información meteorológica que se proporciona en el helipuerto conjuntamente con una indicación de la oficina meteorológica encargada de prestar el servicio enumerado, que comprenda:
 
@@ -2308,7 +2330,7 @@ Descripción detallada de la información meteorológica que se proporciona en e
 
 3) la oficina responsable de la preparación de TAF y períodos de validez de los pronósticos;
 
-4) el tipo de pronóstico de aterrizaje disponible para el helipuerto e intervalos de expedición;
+4) la disponibilidad de pronósticos de tipo tendencia para el helipuerto e intervalos de expedición;
 
 5) información acerca de la forma en que se facilitan las exposiciones verbales y/o las consultas;
 
@@ -2316,7 +2338,7 @@ Descripción detallada de la información meteorológica que se proporciona en e
 
 7) cartas y otra información que se exhiba o se utilice para las exposiciones verbales o las consultas;
 
-8) equipo suplementario (p.ej. radar meteorológico) de que se dispone para suministrar información sobre condiciones meteorológicas;
+8) equipo suplementario de que se dispone para suministrar información sobre condiciones meteorológicas; p. ej. radar meteorológico y receptor para las imágenes de satélite;
 
 9) la dependencia o dependencias de los servicios de tránsito aéreo a las cuales se suministra información meteorológica; y
 
@@ -2481,3 +2503,5 @@ Es necesario incluir cartas relacionadas con el helipuerto, en el orden siguient
 8) concentraciones de aves en las proximidades del helipuerto.
 
 Si alguna de las cartas no se produce, deberá incluirse en la sección GEN 3.2, Cartas aeronáuticas, una declaración a esos efectos.
+
+> Se modifican los Capítulos 4 a 6, 8 y 10 por el art. único.5 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407

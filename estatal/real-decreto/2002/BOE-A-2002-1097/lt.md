@@ -202,7 +202,7 @@ c) La parte B-RNAV de la ruta de llegada debe terminar en un fijo convencional d
 
 d) Se deben tener en cuenta aquellos procedimientos operativos de ciertos usuarios que pueden afectar a la operatividad del sistema (como por ejemplo, posicionamiento inicial en pista, altitudes mínimas de acoplamiento del sistema automático de control de vuelo, etc.) (2); y
 
-e) Los procedimientos de llegada y salida que pue-dan ser volados por aeronaves B-RNAV estarán identificados explícitamente como aprobados para aplicación de B-RNAV.
+e) Los procedimientos de llegada y salida que puedan ser volados por aeronaves B-RNAV estarán identificados explícitamente como aprobados para aplicación de B-RNAV.
 
 Nota.–Para cumplir con los requisitos B-RNAV, las aeronaves deben estar aprobadas de acuerdo con la JAA ACJ 20X4 (conocida anteriormente como JAA TGL No 2, revisión 1) o equivalente.
 
@@ -560,6 +560,8 @@ c) se establecerá una comunicación directa entre la autoridad ATS competente o
 
 3.2.17.4. Si las actividades que constituyen un peligro potencial para los vuelos de las aeronaves civiles se realizan en forma regular o continua se establecerán comités especiales, según sea necesario, para asegurar una coordinación adecuada entre las necesidades de todas las partes interesadas.
 
+3.2.17.5 Se tomarán medidas adecuadas para evitar que las emisiones de los rayos láser afecten negativamente a las operaciones de vuelo.
+
 3.2.18. Datos aeronáuticos.
 
 3.2.18.1. La determinación y notificación de los datos aeronáuticos relativos a los Servicios de tránsito aéreo se efectuará conforme a los requisitos de exactitud e integridad fijados en las Tablas 1 a 5 del Apéndice V, teniendo en cuenta al mismo tiempo los procedimientos del sistema de calidad establecido. Los requisitos de exactitud de los datos aeronáuticos se basan en un nivel de probabilidad del 95% y a tal efecto se identificarán tres tipos de datos de posición: puntos objeto de levantamiento topográfico (p. ej., posición de las ayudas para la navegación), puntos calculados (cálculos matemáticos a partir de puntos conocidos objeto de levantamiento topográfico para establecer puntos en el espacio, puntos de referencia) y puntos declarados (p. ej., puntos de los límites de las regiones de información de vuelo).
@@ -724,6 +726,16 @@ La autoridad competente fijará los requisitos para llevar a bordo transpondedor
 
 Nota. La finalidad de esta disposición es aumentar la eficacia de los servicios de tránsito aéreo y de los sistemas de anticolisión de a bordo.
 
+3.2.26 Competencia lingüística.
+
+3.2.26.1 El proveedor de servicios de tránsito aéreo se cerciorará de que los controladores de tránsito aéreo hablen y comprendan los idiomas utilizados en las comunicaciones radiotelefónicas conforme a lo especificado en el Anexo 1 de OACI y lo que pueda establecer la autoridad competente de acuerdo a tratados internacionales.
+
+3.2.26.2 Salvo en el caso de que las comunicaciones entre las dependencias de control de tránsito aéreo se efectúen en un idioma convenido mutuamente, el idioma inglés se utilizará para tales comunicaciones.
+
+3.2.27 Arreglos para casos de contingencia.
+
+Las autoridades de los servicios de tránsito aéreo elaborarán y promulgarán planes de contingencia para su ejecución en el caso de interrupción, o posible interrupción de los servicios de tránsito aéreo y los servicios de apoyo correspondientes en el espacio aéreo en el que tienen la responsabilidad de proporcionar dichos servicios. Estos planes de contingencia se elaborarán en estrecha coordinación con las autoridades de los servicios de tránsito aéreo responsables del suministro de servicios en partes adyacentes del espacio aéreo y con los usuarios del espacio aéreo correspondientes.
+
 ## CAPÍTULO 3
 
 ## Servicio de control de tránsito aéreo
@@ -782,7 +794,7 @@ d) coordinar las autorizaciones que sean necesarias con las otras dependencias:
 
 3.3.3.3. Las autorizaciones concedidas por las dependencias de control de tránsito aéreo proporcionarán separación:
 
-a) entre todos los vuelos en espacio áereo Clases A y B;
+a) entre todos los vuelos en espacio aéreo Clases A y B;
 
 b) entre los vuelos IFR en espacio aéreo de Clases C, D y E;
 
@@ -940,13 +952,17 @@ c) la ruta de vuelo (1).
 
 d) el nivel o niveles de vuelo para toda la ruta o parte de ella y cambios de nivel si corresponde (2).
 
-e) las instrucciones o información necesaria sobre otros aspectos, como las maniobras de aproximación o de salida, las comunicaciones y la hora en que expira la autorización (3).
+e) las instrucciones o información necesaria sobre otros aspectos, como las maniobras de aproximación o de salida, las comunicaciones y la hora en que expira la autorización(3).
+
+f) el turno de salida (slot ATFM), cuando sea aplicable (4).
 
 (1) El piloto al mando pedirá a los servicios de tránsito aéreo, si tiene duda en cualquier momento, una descripción detallada de la ruta.
 
-(2) Si la autorización, por lo que respecta a los niveles, abarca únicamente parte de la ruta, es importante que la dependencia de control de tránsito aéreo especifique el punto hasta el cual afecta la parte de la autorización que atañe a los niveles, siempre que sea necesario para asegurar la observancia de 2.3.6.5.2.2. a).
+(2) Sí la autorización, por lo que respecta a los niveles, abarca únicamente parte de la ruta, es importante que la dependencia de control de tránsito aéreo especifique el punto hasta el cual afecta la parte de la autorización que atañe a los niveles, siempre que sea necesario para asegurar la observancia de 2.3.6.5.2.2. a).
 
 (3) La hora de expiración de la autorización es aquella en que caduca automáticamente si no se ha iniciado el vuelo.
+
+(4) Las compañías aéreas y los pilotos deberán ajustarse en todo momento al turno de salida (slot ATFM) asignado, asumiendo las posibles demoras en tierra.
 
 3.3.7.1.2. Se establecerán rutas normalizadas de salida y de llegada y procedimientos conexos (1) cuando sea necesario para facilitar:
 
@@ -984,9 +1000,9 @@ Antes de llegar a dicho punto, o sobre tal punto, la aeronave recibirá una nuev
 
 Tales autorizaciones o sus revisiones se aplicarán solamente a las partes del vuelo efectuadas dentro del espacio aéreo controlado.
 
-3.3.7.4. Control de afluencia del tránsito aéreo.
+3.3.7.4. Turno de salida (slot ATFM) como parte de la autorización ATC.
 
-Cuando la dependencia de control de tránsito aéreo estime que no es posible atender a más tránsito del que ya se ha aceptado, para un período de tiempo y lugar o área determinados, o que sólo puede atenderlo a un ritmo determinado, dicha dependencia o quien la autoridad competente civil determine notificará a las demás dependencias de control de tránsito aéreo interesadas, a las empresas explotadoras que se sepa o se crea que están interesadas y a los pilotos al mando de aeronaves destinadas a dicho lugar o área, que es probable que los vuelos adicionales estén sujetos a demora excesiva, o si procede, que se impondrán determinadas restricciones a todo tránsito adicional durante un determinado período, con el fin de evitar demoras excesivas a las aeronaves en vuelo.
+Cuando, como consecuencia de la gestión de la demanda de tránsito aéreo frente a la capacidad del ATC, sea necesario aplicar medidas ATFM podrán emitirse turnos de salida (slot ATFM) que formarán parte de la autorización ATC. En estos casos el turno de salida estará incluido y formará parte de dicha autorización ATC y como tal la aeronave estará obligada a su cumplimiento con sujeción a los procedimientos publicados.
 
 3.3.8. Control de personas y vehículos en los aeródromos.
 
@@ -1786,9 +1802,11 @@ Los operadores de globos libres no tripulados mantendrán informadas a las depen
 
 Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter local, acerca de la actividad volcánica precursora de erupción, erupciones volcánicas y nubes de cenizas volcánicas que podrían afectar al espacio aéreo utilizado por los vuelos dentro de su zona de responsabilidad.
 
-3.7.6. Información sobre ''nubes" de materiales radiactivos y de sustancias químicas tóxicas.
+3.7.6. Información sobre ''nubes'' de materiales radiactivos y de sustancias químicas tóxicas.
 
 Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter local, acerca de la liberación en la atmósfera de materiales radiactivos o sustancias químicas tóxicas que podrían afectar al espacio aéreo utilizado por los vuelos dentro de su zona de responsabilidad.
+
+> Se modifican los Capítulos 2 y 3 por el art. único.3 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407
 
 > Se modifica el Capítulo 2 por el art. único.3 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637
 

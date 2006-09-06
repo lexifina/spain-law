@@ -110,7 +110,7 @@ Aeronave privada.
 
 Se considerarán aeronaves privadas todas aquellas que no tengan consideración de aeronave de estado.
 
-Aeronavegabilidad (Certificar la).
+Aeronavegabilidad (Certificarla).
 
 (Véase Certificar la aeronavegabilidad).
 
@@ -248,7 +248,7 @@ Aproximación por instrumentos en la que se inicia el tramo de aproximación fin
 
 Aproximación directa (VFR).
 
-Maniobra de entrada en el circuito de tránsito de aeródromºo siguiendo una trayectoria que corta la prolongación del eje de la pista, sin que sea necesario efectuar cualquier otro tramo del circuito de tránsito de aeródromo.
+Maniobra de entrada en el circuito de tránsito de aeródromo siguiendo una trayectoria que corta la prolongación del eje de la pista, sin que sea necesario efectuar cualquier otro tramo del circuito de tránsito de aeródromo.
 
 Aproximación en circuito.
 
@@ -429,7 +429,7 @@ c) los gradientes térmicos son:
 
 Nota 1: El metro geopotencial patrón vale 9,80665 m2s-2.
 
-Nota 2: Véase el Doc 7488 de OACI para la relación entre las variables y para las tablas que dan los valores correspondientes de temperatura, presión, densidad y geopotencial
+Nota 2: Véase el Doc 7488 de OACI para la relación entre las variables y para las tablas que dan los valores correspondientes de temperatura, presión, densidad y geopotencial.
 
 Nota 3: El Doc 7488 de OACI da también peso específico, viscosidad dinámica, viscosidad cinemática y velocidad del sonido a varias altitudes.
 
@@ -693,7 +693,7 @@ Combustible mínimo.
 
 Término utilizado para describir una situación en que el combustible restante de la aeronave es tal que poco o ningún retraso puede aceptarse.
 
-Nota: No se trata de una situación de emergencia sino que se indica simplemente que es posible que suja una situación de emergencia en el caso de que se produzca algún retraso indebido.
+Nota: No se trata de una situación de emergencia sino que se indica simplemente que es posible que surja una situación de emergencia en el caso de que se produzca algún retraso indebido.
 
 Computadora.
 
@@ -769,7 +769,7 @@ Contacto radar.
 
 Control de afluencia.
 
-Medidas encaminadas a regular el tránsito dentro de un espacio aéreo determinado, a lo largo de una ruta determinada, o con destino a un determinado aeródromo, a fin de aprovechar al máximo el espacio aéreo.
+(Suprimido).
 
 Control de calidad.
 
@@ -911,19 +911,19 @@ Distancia DME.
 
 Alcance óptico (alcance oblícuo) a partir del transmisor de la señal DME hasta la antena receptora.
 
-Documentación Integrada de Información Aeronaútica.
+Documentación Integrada de Información Aeronáutica.
 
 Un conjunto de documentos que comprende los siguientes elementos:
 
-– las AIP, con las enmiendas correspondientes;
+las AIP, con las enmiendas correspondientes;
 
-– suplementos de la AIP;
+suplementos de la AIP;
 
-– NOTAM y boletines de información previa al vuelo (PIB);
+NOTAM;
 
-– AIC;
+AIC;
 
-– listas de verificación y sumarios.
+listas de verificación y listas de NOTAM vigentes.
 
 Documentación (meteorológica) de vuelo.
 
@@ -939,7 +939,7 @@ El tiempo que se estima necesario para volar desde un punto significativo a otro
 
 Duración total prevista.
 
-En el caso de los vuelos IFR, el tiempo que se estima necesario, a partir del momento del despegue, para llegar al punto designado, definido con relación a las ayudas para la navegación, desde el cual se tiene la intención de iniciar un procedimiento de aproximación por instrumentos o, si no existen ayudas para la navegación asociadas con el aeródomo de destino, para llegar a la vertical de dicho aeródromo. En el caso de los vuelos VFR, el tiempo que se estima necesario a partir del momento del despegue para llegar a la vertical del aeródromo de destino.
+En el caso de los vuelos IFR, el tiempo que se estima necesario, a partir del momento del despegue, para llegar al punto designado, definido con relación a las ayudas para la navegación, desde el cual se tiene la intención de iniciar un procedimiento de aproximación por instrumentos o, si no existen ayudas para la navegación asociadas con el aeródromo de destino, para llegar a la vertical de dicho aeródromo. En el caso de los vuelos VFR, el tiempo que se estima necesario a partir del momento del despegue para llegar a la vertical del aeródromo de destino.
 
 Eco radar.
 
@@ -1041,7 +1041,7 @@ Estación de telecomunicaciones aeronáuticas que, como principal responsabilida
 
 Estación de radio de control de aeródromo.
 
-Estación que sirve para las radiocomunicaciones entre la torre de control del aedródromo y las aeronaves o las estaciones móviles aeronáuticas.
+Estación que sirve para las radiocomunicaciones entre la torre de control del aeródromo y las aeronaves o las estaciones móviles aeronáuticas.
 
 Estación de radio de los Servicios de Tránsito Aéreo.
 
@@ -1198,6 +1198,14 @@ Geoide.
 Superficie equipotencial en el campo de gravedad de la Tierra que coincide con el nivel medio del mar (MSL) en calma y su prolongación continental.
 
 El geoide tiene forma irregular debido a las perturbaciones gravitacionales locales (mareas, salinidad, corrientes, etc.) y la dirección de la gravedad es perpendicular al geoide en cada punto.
+
+Gestión de Afluencia del Tránsito Aéreo (ATFM).
+
+Servicio ATM establecido con el objetivo de contribuir a una circulación segura, ordenada y expedita del tránsito aéreo, asegurando que se utiliza al máximo posible la capacidad ATC, y que el volumen de tránsito es compatible con las capacidades declaradas por la autoridad ATS competente.
+
+Gestión del tránsito Aéreo (ATM).
+
+Servicio que comprende la administración del espacio aéreo, la gestión de afluencia del tránsito aéreo y los servicios de tránsito aéreo.
 
 Giroavión.
 
@@ -1581,7 +1589,7 @@ Las horas comprendidas entre el fin del crepúsculo civil vespertino y el comien
 
 NOTAM.
 
-Aviso distribuido por medios de telecomunicaciones que contiene información relativa al establecimiento, condición o modificación de cualquier instalación aeronaútica, servicio, procedimiento o peligro, cuyo conocimiento oportuno es esencial para el personal encargado de las operaciones de vuelo.
+Aviso distribuido por medios de telecomunicaciones que contiene información relativa al establecimiento, condición o modificación de cualquier instalación aeronáutica, servicio, procedimiento o peligro, cuyo conocimiento oportuno es esencial para el personal encargado de las operaciones de vuelo.
 
 Número de clasificación de aeronaves (ACN).
 
@@ -1818,6 +1826,10 @@ Plataforma.
 Posición (geográfica).
 
 Conjunto de coordenadas (latitud y longitud) con relación al elipsoide matemático de referencia que define la ubicación de un punto en la superficie de la Tierra.
+
+Posición de Gestión de Afluencia (FMP).
+
+Posición de Coordinación en materia ATFM ubicada en un centro de control de área (ACC) que actúa como nexo de unión entre CFMU y el ACC y sus aeródromos asociados.
 
 Posición de seguimiento radar.
 
@@ -2411,7 +2423,7 @@ Tránsito de aeródromo.
 
 Todo el tránsito que tiene lugar en el área de maniobras de un aeródromo, y todas las aeronaves que vuelen en las inmediaciones del mismo.
 
-Se considera que una aeronave está en las inmediaciones de un aeródromo, cuando está dentro de un circuíto de tránsito de aeródromo, o bien entrando o saliendo del mismo.
+Se considera que una aeronave está en las inmediaciones de un aeródromo, cuando está dentro de un circuito de tránsito de aeródromo, o bien entrando o saliendo del mismo.
 
 Transmisión a ciegas.
 
@@ -2535,7 +2547,7 @@ Viraje reglamentario.
 
 Maniobra que consiste en un viraje efectuado a partir de una derrota designada, seguido de otro en sentido contrario, de manera que la aeronave intercepte la derrota designada y pueda seguirla en sentido opuesto.
 
-Los virages reglamentarios se designan «a la izquierda» o «a la derecha», según el sentido en que se haga el viraje inicial.
+Los virajes reglamentarios se designan «a la izquierda» o «a la derecha», según el sentido en que se haga el viraje inicial.
 
 Pueden designarse como virajes reglamentarios los que se hacen ya sea en vuelo horizontal o durante el descenso, según las circunstancias en que se siga cada procedimiento.
 
@@ -2673,7 +2685,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 
 | Abrev. | Significado |
 | --- | --- |
-| A | Ambar |
+| A | Ámbar |
 | AA | Todo después de... |
 | A/A | Aire a Aire |
 | AAL | Por encima del nivel del aeródromo |
@@ -2770,9 +2782,9 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | ATA | Hora real de llegada |
 | ATC | Control de tránsito aéreo (en general) |
 | ATD | Hora real de salida |
-| ATFM | Control de afluencia de tránsito aéreo |
-| ATFMU | Servicio de control de afluencia de tránsito aéreo |
+| ATFM | Gestión de afluencia del Tránsito Aéreo |
 | ATIS | Servicio automático de información terminal |
+| ATM | Gestión del Tránsito Aéreo |
 | ATP | A las...(hora) o en...(lugar) |
 | ATS | Servicios de tránsito aéreo |
 | ATTN | Atención |
@@ -2827,6 +2839,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | CDN | Coordinación (designador de tipo de mensaje) |
 | CF | Cambie frecuencia a..... |
 | CFM | Confirme (o confirmo) |
+| CFMU | Unidad Central de Gestión de Afluencia |
 | CGL | Luz de guía en circuito |
 | CH | Canal |
 | CH | Esta es la transmisión de verificación de continuidad de canal para permitir la comparación de su registro de los números de orden en el canal, correspondientes a los mensajes recibidos por este canal |
@@ -2861,7 +2874,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | COT | En la costa |
 | COV | Abarcar o abarcado o abarcando |
 | CP | Llamada general a dos o más estaciones especificadas |
-| CPL | Plan de vuelo dactualizado (designador de tipo de mensaje) |
+| CPL | Plan de vuelo actualizado (designador de tipo de mensaje) |
 | CQ | Llamada general a todas las estaciones |
 | CRC | Verificación por redundancia cíclica |
 | CRM | Modelo de riesgo de colisión |
@@ -2876,7 +2889,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | CTN | Precaución |
 | CTOT | Hora calculada de despegue |
 | CTR | Zona de Control |
-| CU | Cumulos |
+| CU | Cúmulos |
 | CUF | Cumuliforme |
 | CUST | Aduana |
 | CW | Onda continua |
@@ -2884,7 +2897,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | D... | Zona peligrosa (seguida de la identificación) |
 | DA | Altitud de decisión |
 | DA/H | Altitud/altura de decisión |
-| DCD | Duplex de doble canal |
+| DCD | Dúplex de doble canal |
 | DCKG | Atraque |
 | DCS | Simplex de doble canal |
 | DCT | Directo (con relación a los permisos del plan de vuelo y tipo de aproximación) |
@@ -2990,6 +3003,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | FLW | Sigue o siguiendo |
 | FLY | Volar o volando |
 | FM | Desde |
+| FMP | Posición de Gestión de Afluencia |
 | FMS | Sistema de gestión de vuelo |
 | FNA | Aproximación final |
 | FPL | Plan de vuelo presentado (designador de tipo de mensaje) |
@@ -3248,7 +3262,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | NNE | Nornordeste |
 | NNW | Nornoroeste |
 | NOF | Oficina NOTAM internacional |
-| NOSIG | Sin ningún cambio importante (se utiliza en los pronósicos de aterrizaje de tipo «tendencia») |
+| NOSIG | Sin ningún cambio importante (se utiliza en los pronósticos de aterrizaje de tipo «tendencia») |
 | NOTAM | Aviso que contiene información relativa al establecimiento, condición o modificación de cualesquiera instalaciones, servicios, procedimientos o peligros aeronáuticos que es indispensable conozca oportunamente el personal que realiza operaciones de vuelo |
 | NOV | Noviembre |
 | NOZ | Zona normal de operaciones |
@@ -3469,7 +3483,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | SMC | Control de circulación en la superficie |
 | SMR | Radar de movimiento en la superficie |
 | SN | Nieve |
-| SNOWTAM | NOTAM especial que notifica la presencia o eliminación de condiciones peligrosas debidas a nieve, nieve fangosa, hielo o agua estancada, relacionadas con nieve, nieve fangosa y hielo en el ára de movimiento por medio de un modelo concreto |
+| SNOWTAM | NOTAM especial que notifica la presencia o eliminación de condiciones peligrosas debidas a nieve, nieve fangosa, hielo o agua estancada, relacionadas con nieve, nieve fangosa y hielo en el área de movimiento por medio de un modelo concreto |
 | SNSH | Chaparrones de nieve |
 | SOC | Comienzo del ascenso |
 | SPECI | Informe meteorológico aeronáutico especial seleccionado (en clave meteorológica aeronáutica) |
@@ -3495,7 +3509,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | ST | Estratos |
 | STA | Aproximación directa |
 | STAR | Llegada normalizada por instrumentos |
-| STD | Normal o estandar |
+| STD | Normal o estándar |
 | STF | Estratiforme |
 | STN | Estación |
 | STNR | Estacionario |
@@ -3664,4 +3678,6 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | YR | Su (de usted) |
 | ZS | Zona de seguridad |
 
-> Se modifica el Capítulo 1 por el art. único.1 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637
+> Se modifican los Capítulos 1 y 2 por el art. único.1 y 8 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407
+
+> Se modifica el Capítulo 1 por el art. único.1 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-157637

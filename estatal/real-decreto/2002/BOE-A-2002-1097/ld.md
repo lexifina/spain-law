@@ -1349,7 +1349,7 @@ Nota: Cuando se apliquen las disposiciones de 10.4.4.11.15, el centro de retrans
 
 10.4.4.14.1. Cuando entre las administraciones interesadas se haya convenido en hacer uso de un sistema de distribución predeterminada para los mensajes de la AFTN, se empleará el sistema descrito a continuación.
 
-10.4.4.14.2. El indicador de destinatario para distribución predeterminada (PDAI) estará constituido de la manera siguiente:
+10.4.4.14.2. El indicador de destinario para distribución predeterminada (PDAI) estará constituido de la manera siguiente:
 
 a) primera y segunda letras:
 
@@ -1375,7 +1375,7 @@ Nota 2: Para evitar conflictos con la señal de fin de mensaje de la AFTN, no se
 
 10.4.4.14.3. Los indicadores de destinatario para distribución predeterminada (PDAI) serán utilizados, siempre que sea posible, en los mensajes AFTN transmitidos entre los Estados que han convenido en hacer uso del sistema de distribución predeterminada.
 
-10.4.4.14.4. Los mensajes AFTN que comprendan indicadores de destinatario de distribución predeterminada que hayan sido atribuidos por el Estado receptor del mensaje, serán encaminados a los destinatarios que figuren en la lista correspondiente de indicadores de destinatario descrita en 10.4.4.14.5.
+10.4.4.14.4. Los mensajes AFTN que comprendan indicadores de destinatario de distribución predeterminada que hayan sido atribuidos por el Estado receptor del mensaje, serán encaminados a los destinatarios que figuren en la lista correspondiente de indicadores de destinario descrita en 10.4.4.14.5.
 
 10.4.4.14.5. Los Estados enviarán su lista de indicadores de destinatarios seleccionados para distribución predeterminada así como las listas correspondientes de indicadores de destinatario a:
 
@@ -1387,7 +1387,7 @@ b) los Estados que remitirán mensajes AFTN para su distribución predeterminada
 
 a) indicadores de destinatario para distribución nacional; o
 
-b) indicadores de destinatario para distribución internacional; o
+b) indicadores de destinario para distribución internacional; o
 
 c) indicadores de destinatario de distribución predeterminada para distribución internacional; o
 
@@ -1735,7 +1735,7 @@ Nota 2: Para los fines de las presentes disposiciones, los procedimientos de com
 
 10.5.1.1. En todas las comunicaciones se observará la mayor disciplina en todo momento.
 
-10.5.1.1.1. En todas las situaciones en que se especifique, se utilizará la fraseología normalizada en radiotelefonía.
+10.5.1.1.1. Se utilizará la fraseología normalizada de la OACI en todas las situaciones para las que se haya especificado. Sólo cuando la fraseología normalizada no sea útil para una transmisión prevista, se utilizará un lenguaje claro.
 
 10.5.1.1.2. Se evitará la transmisión de mensajes distintos de los especificados en 10.5.1.8, en frecuencias del servicio móvil aeronáutico cuando los servicios fijos aeronáuticos sirvan para el fin deseado.
 
@@ -1830,19 +1830,31 @@ Nota: Cuando se usa equipo de Llamada Selectiva (SELCAL), algunos de los procedi
 
 10.5.2.1.1. Idioma que debe usarse.
 
-10.5.2.1.1.1. Por regla general las comunicaciones aeroterrestres en radiotelefonía deberá efectuarse en el idioma que la estación terrestre usa normalmente.
+10.5.2.1.1.1. Las comunicaciones aeroterrestres en radiotelefonía se efectuarán en el idioma que la estación terrestre usa normalmente o en inglés.
 
-Nota: El idioma normalmente usado por la estación en tierra no tiene que ser necesariamente el del Estado en que está emplazada.
+Nota: El idioma normalmente usado por la estación en tierra no tiene que ser necesariamente el del Estado en que está emplazada. Podría convenirse regionalmente en un idioma común como requisito para las estaciones terrestres de la región en cuestión.
 
-10.5.2.1.1.2. Hasta que se prepare y adopte una forma de fraseología más adecuada para uso universal en las comunicaciones radiotelefónicas aeronáuticas, deberá usarse el inglés como tal, y utilizarse éste, a petición de toda estación de aeronave que no esté en condiciones de cumplir con 10.5.2. l. l.1, en todas las estaciones terrestres que sirvan a aeropuertos designados y a rutas usadas por los servicios aéreos internacionales.
+10.5.2.1.1.2. Se usará el inglés a petición de toda estación de aeronave en todas las estaciones terrestres que sirvan a aeropuertos designados y a rutas usadas por los servicios aéreos internacionales.
 
-Nota 1: Si bien los Estados contratantes designan los aeropuertos que deberán usarse y las rutas seguirán los servicios aéreos internacionales, el Consejo se encarga de formular periódicamente la opinión de la OACI, así como de hacer recomendaciones a los Estados contratantes interesados, generalmente a base de las recomendaciones dimanantes de las conferencias regionales de navegación aérea.
+10.5.2.1.1.3. Los idiomas disponibles en una determinada estación en tierra, se indicarán en las publicaciones de información aeronáutica y demás información aeronáutica que se publique respecto a esas instalaciones.
 
-Nota 2: En ciertas regiones, la disponibilidad de otro idioma, además del inglés, podrá decidirse regionalmente, como un requisito para las estaciones terrestres de la región en cuestión.
+10.5.2.1.1.3.1 Cuando el idioma utilizado para las comunicaciones sea el inglés, los números se transmitirán usando la siguiente pronunciación:
 
-Nota 3: La preparación a que se refiere 10.5.2.1.1.2 es objeto de estudio constante, y en el Adjunto B del Volumen II del Anexo 10 de OACI se indican los principios generales en que se basa ese estudio.
-
-10.5.2.1.1.3. Hasta que se dé aplicación a 10.5.2.1.1.2, y cuando la estación de aeronave y la estación en tierra no puedan usar un idioma común, se harán las gestiones necesarias entre la autoridad competente y la empresa explotadora de la aeronave en cuestión para que ésta suministre un intérprete.
+| Número o elemento numérico | Pronunciación | Pronunciation |
+| --- | --- | --- |
+| 0 | cero | SI-RO |
+| 1 | uno | UAN |
+| 2 | dos | TU |
+| 3 | tres | TRI |
+| 4 | cuatro | FO-ar |
+| 5 | cinco | FA-IF |
+| 6 | seis | SIKS |
+| 7 | siete | SEV’N |
+| 8 | ocho | EIT |
+| 9 | nueve | NAI-na |
+| Decimal | Decimal | DE-si-mal |
+| Cientos (hundred) | Cientos | JAN-dred |
+| Mil (thousand) | Mil | ZAU-sand |
 
 10.5.2.1.1.4. Cuando se suministren, tales intérpretes tendrán acceso a los canales radiotelefónicos y podrán usarlos bajo la inspección del encargado que esté de servicio.
 
@@ -1994,7 +2006,7 @@ Nota: En inglés debe acentuarse la pronunciación de las sílabas impresas en l
 
 10.5.2.1.4.1. Antes de empezar la transmisión deberá leerse todo el mensaje escrito con objeto de eliminar demoras innecesarias en las comunicaciones.
 
-10.5.2.1.4.2. Las transmisiones se efectuarán en forma concisa y en un tono de conversación normal. Se usará en todos los casos la fraseología reglamentaria siempre que se haya prescrito.
+10.5.2.1.4.2. Las transmisiones se efectuarán en forma concisa y en un tono de conversación normal.
 
 10.5.2.1.4.3. La técnica de transmisión oral deberá ser tal que se consiga la máxima inteligibilidad posible en cada una de las transmisiones. Para lograr este objetivo es indispensable que la tripulación de vuelo y el personal de tierra:
 
@@ -2010,7 +2022,7 @@ e) suspendan momentáneamente la transmisión si hubiere necesidad de alejar la 
 
 10.5.2.1.4.4. La técnica de transmisión oral deberá adaptarse a las condiciones predominantes de las comunicaciones y a las frecuencias utilizadas.
 
-10.5.2.1.4.5. Los mensajes aceptados para transmisión deberán transmitirse en lenguaje claro o en frases aprobadas sin alterar en modo alguno el sentido del mensaje. Las abreviaturas aprobadas, contenidas en el texto del mensaje que se ha de transmitir a una aeronave, deberán convertirse en las palabras o frases completas que tales abreviaturas representan en el idioma empleado, salvo aquellas abreviaturas que, por su utilización frecuente y común, son generalmente comprendidas por el personal aeronáutico.
+10.5.2.1.4.5. Los mensajes aceptados para transmisión deberán transmitirse en lenguaje claro o en fraseología OACI sin alterar en modo alguno el sentido del mensaje. Las abreviaturas aprobadas, contenidas en el texto del mensaje que se ha de transmitir a una aeronave, deberán convertirse en las palabras o frases completas que tales abreviaturas representan en el idioma empleado, salvo aquellas abreviaturas que, por su utilización frecuente y común, son generalmente comprendidas por el personal aeronáutico.
 
 10.5.2.1.4.6. Para acelerar las comunicaciones se podrá prescindir del uso del alfabeto de deletreo si no hay riesgo de que ello afecte a la recepción correcta y a la inteligibilidad del mensaje.
 
@@ -2411,7 +2423,7 @@ MADRID
 
 10.5.2.1.8.4.4. Si el operador que recibe el mensaje duda de la exactitud del mismo, solicitará su repetición total o parcial.
 
-10.5.2.1.8.4.5. En caso de requerirse la repetición de todo un mensaje se enunciará la palabra «Repita» (“Say again”). Si se pide la repetición de parte de un mensaje, el operador dirá: “Repita todo lo anterior a...” (“Say again all before”) (la primera palabra recibida satisfactoriamente); o “Repita...” (“Say again”) (la palabra anterior a la parte que falte) “Hasta...” (“To”) (la palabra que sigue después de la parte que falta), o “Repita todo lo que sigue a...” (“Say again all after”) (la última palabra recibida satisfactoriamente)».
+10.5.2.1.8.4.5. En caso de requerirse la repetición de todo un mensaje se enunciará la palabra «Repita» («“Say again”). Si se pide la repetición de parte de un mensaje, el operador dirá: “Repita todo lo anterior a...” (“Say again all before”) (la primera palabra recibida satisfactoriamente); o “Repita...” (“Say again”) (la palabra anterior a la parte que falte) “Hasta...” (“To”) (la palabra que sigue después de la parte que falta), o “Repita todo lo que sigue a...” (“Say again all after”) (la última palabra recibida satisfactoriamente)».
 
 10.5.2.1.8.4.6. Deberán pedirse componentes determinados que se estimen apropiados, tales como «Repita altímetro» («Say again altimeter»), «Repita viento» («Say again wind»).
 
@@ -3060,3 +3072,5 @@ Nota: El siguiente ejemplo ilustra la aplicación de este procedimiento:
 | (la palabra) | Aquí | This is |
 | (nombre de la estación) | Nueva York Radio | New York Radio |
 | (hora de difusión) | Hora, cero cero cuatro cinco | Time, zero zero four five |
+
+> Se modifica el Capítulo 5por el art. único.6 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407

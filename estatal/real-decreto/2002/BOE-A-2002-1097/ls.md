@@ -146,6 +146,8 @@ Ninguna aeronave volará tan cerca de otra de modo que pueda ocasionar peligro d
 
 La aeronave que tenga el derecho de paso mantendrá su rumbo y velocidad, pero ninguna de estas reglas eximirá al piloto al mando de ella de la obligación de proceder en la forma más eficaz para evitar una colisión, lo que incluye llevar a cabo las maniobras anticolisión necesarias basándose en los avisos de resolución proporcionados por el equipo ACAS.
 
+Nota.-El uso de las indicaciones del ACAS vienen descritos en los apartados 2.3.2.2.8 y siguientes.
+
 2.3.2.2.1. La aeronave que por las reglas siguientes esté obligada a mantenerse fuera de la trayectoria de otra, evitará pasar por encima, por debajo o por delante de ella, a menos que lo haga a suficiente distancia y que tenga en cuenta, en la medida de lo posible, el efecto de la estela turbulenta de la aeronave.
 
 2.3.2.2.2. Aproximación de frente.
@@ -195,6 +197,48 @@ c) toda aeronave que sea alcanzada por otra tendrá el derecho de paso y la aero
 2.3.2.2.7.2. Cuando una aeronave esté en rodaje en el área de maniobras se detendrá y se mantendrá a la espera en todos los puntos de espera en rodaje, a menos que la torre de control de aeródromo le autorice de otro modo.
 
 2.3.2.2.7.3. Cuando una aeronave esté en rodaje en el área de maniobras se detendrá y se mantendrá a la espera en todas las barras de parada iluminadas y podrá proseguir cuando se apaguen las luces.
+
+2.3.2.2.8 Procedimientos ACAS.
+
+2.3.2.2.8.1 Los pilotos utilizarán las indicaciones del ACAS en la evitación de posibles colisiones, el mejoramiento de su conocimiento de la situación y en la búsqueda activa y adquisición visual del tránsito con el que puedan entrar en conflicto.
+
+2.3.2.2.8.2 En los procedimientos especificados en 2.3.2.2.8.3 no se incluirá nada que impida al piloto al mando decidir según su mejor juicio y ejercer plena autoridad para elegir las acciones que juzgue más adecuadas para resolver un conflicto de tránsito o prevenir una posible colisión.
+
+Nota: La capacidad del ACAS de desempeñar su función de ayuda a los pilotos para evitar las posibles colisiones dependen de la respuesta correcta y oportuna de los pilotos a las indicaciones del ACAS.
+
+2.3.2.2.8.3 Uso de las indicaciones del ACAS Los pilotos utilizarán las indicaciones generadas por el ACAS de conformidad con las consideraciones siguientes respecto a la seguridad:
+
+a) los pilotos no realizarán ninguna maniobra con sus aeronaves por el único motivo de responder a avisos del tránsito (TA);
+
+Nota: El objetivo de los TA es alertar a los pilotos respecto a la posibilidad de un aviso de resolución (RA), aumentar su conocimiento de la situación y ayudar a la observación visual del tránsito con el que puedan entrar en conflicto. No obstante, es posible que el tránsito observado visualmente no sea el mismo que produce un TA. La percepción visual de un encuentro puede interpretarse erróneamente, en particular de noche.
+
+b) después de recibir un TA, los pilotos utilizarán toda la información disponible a fin de prepararse para adoptar las medidas apropiadas en caso de que se produzca un aviso de resolución (RA);
+
+c) en caso de un RA, los pilotos:
+
+1) responderán inmediatamente siguiendo lo indicado en el RA, a menos que por ello se ponga en peligro la seguridad de la aeronave;
+
+Nota 1.-Las advertencia de pérdida, de cizalladura del viento y de los sistemas de advertencia de la proximidad del terreno tienen prioridad sobre el ACAS.
+
+Nota 2.-El tránsito observado visualmente podría no ser el mismo tránsito que ocasiona el RA. La percepción visual de un encuentro puede interpretarse erróneamente, en particular de noche.
+
+2) seguirán las instrucciones del RA aún si existe un conflicto entre el RA y la instrucción de maniobra del control de tránsito aérea (ATC);
+
+3) no ejecutarán maniobras en sentido contrario a un RA.
+
+Nota: En el caso de un encuentro coordinado ACAS-ACAS, los RA se complementan entre sí a fin de reducir la posibilidad de colisión. Las maniobras, o la ausencia de maniobras, que den como resultado velocidades verticales contrarias al sentido del RA, pueden traducirse en una colisión con la aeronave que representa amenaza.
+
+4) tan pronto como sea posible, en la medida que lo permita el volumen de trabajo de la tripulación de vuelo, notificarán sobre el RA a la dependencia ATC apropiada, incluyendo el sentido de toda desviación respecto de la instrucción o autorización vigente de control de tránsito aéreo.
+
+Nota: Salvo si el piloto informa, el ATC no sabe cuándo el ACAS expide RA. Es posible que el ATC expida instrucciones que son inadvertidamente contrarias a las indicaciones del RA del ACAS. En consecuencia, es importante notificar al ATC cuando no se siguen las instrucciones ATC porque puede haber conflicto con un RA.
+
+5) cumplirán prontamente con cualquier RA modificado;
+
+6) limitarán las alteraciones de la trayectoria de vuelo al mínimo necesario para cumplir con los avisos de resolución;
+
+7) prontamente volverán a atenerse a los términos de la instrucción o autorización del ATC al resolverse el conflicto; y
+
+8) notificarán al ATC al volver a los términos de la autorización vigente.
 
 2.3.2.3. Luces que deben ostentar las aeronaves.
 
@@ -1184,6 +1228,6 @@ notificará la posición de acuerdo con lo especificado en 2.3.6.3. para vuelos 
 
 2.5.3.3.2. Las aeronaves que decidan utilizar el servicio de asesoramiento de tránsito aéreo mientras vuelan en condiciones IFR dentro de áreas especificadas con servicio de asesoramiento, se espera que cumplan las disposiciones de 2.3.6., pero el plan de vuelo y los cambios que se hagan en él no están supeditados a autorizaciones y las comunicaciones en ambos sentidos se mantendrán con la dependencia que suministre el servicio de asesoramiento de tránsito aéreo.
 
-> Se modifica el Capítulo 2 por el art. único.2 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637
+> Se modifica el Capítulo 3 por el art. único.2 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637
 
 > Se modifica el Capítulo 3 por el art. 1 y 4 de la Orden PRE/2220/2004, de 6 de julio de 2004. Ref. BOE-A-2004-12699
