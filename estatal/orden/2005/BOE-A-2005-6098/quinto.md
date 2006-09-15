@@ -66,4 +66,6 @@ El Director General de la Guardia Civil ejercerá por delegación de las autorid
 
 3.4 En relación con el personal sujeto a Derecho Laboral el ejercicio de todas aquellas competencias de gestión ordinaria que no impliquen relaciones con otros Departamentos ministeriales, con excepción de la resolución de las reclamaciones previas a la vía judicial laboral.
 
+> Las delegaciones efectuadas en los órganos de la Dirección General de la Guardia Civil se ratifican en los órganos de la Dirección General de la Guardia Civil que los sustituyen, y las delegaciones efectuadas por el Director General de la Guardia Civil en los órganos dependientes del mismo se ratifican en los órganos dependientes del mismo que los sustituyen, según establece el apartado segundo y tercero de la Orden INT/2853/2006, de 13 de septiembre. Ref. BOE-A-2006-16193
+
 > Redactado el punto 2.2 conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 2005. Ref. BOE-A-2005-8407.

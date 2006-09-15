@@ -32,6 +32,8 @@ El Director General de la Policía ejercerá por delegación de las autoridades 
 
 4.1 Designar las comisiones de servicio con derecho a indemnización respecto a todo el personal adscrito al centro directivo, hasta el límite del crédito, salvo las facultades delegadas en otros órganos.
 
+> Las delegaciones efectuadas en los órganos de la Dirección General de la Policía se ratifican en los órganos de la Dirección General de la Policía que los sustituyen, y las delegaciones efectuadas por el Director General del Policía en los órganos dependientes del mismo se ratifican en los órganos dependientes del mismo que los sustituyen, según establece el apartado segundo y tercero de la Orden INT/2853/2006, de 13 de septiembre. Ref. BOE-A-2006-16193
+
 > Se añade el punto 1.4 por la disposición final 1.1 de la Orden INT/2089/2005, de 17 de junio. Ref. BOE-A-2005-11340.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 2005. Ref. BOE-A-2005-8407.

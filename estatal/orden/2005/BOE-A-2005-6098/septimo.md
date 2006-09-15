@@ -25,3 +25,5 @@ El Secretario General Técnico ejercerá por delegación de las autoridades que 
 2.1 La presidencia de la Comisión Asesora de Publicaciones.
 
 2.2 Respecto del personal del centro directivo, designar comisiones de servicio a realizar en territorio nacional con derecho a indemnización hasta el límite de las consignaciones presupuestarias.
+
+> La delegación efectuada en el Secretario General Técnico en el apartado 1.5 se entenderá realizada en el Director General de Apoyo a Víctimas del Terrorismo, así como las correspondientes competencias financieras y presupuestarias, según establece el apartdo cuarto de la Orden INT/2853/2006, de 13 de septiembre. Ref. BOE-A-2006-16193

@@ -58,4 +58,6 @@ El Director General de Instituciones Penitenciarias por delegación de las autor
 
 2.9 Las relaciones sindicales en el ámbito de las Instituciones Penitenciarias.
 
+> Las competencias delegadas por el Titular del Departamento en el Director General de Instituciones Penitenciarias y en el Subsecretario quedan delegadas por el Secretario de Estado de Seguridad en la Directora General de Instituciones Penitenciarias en lo que afecte a su ámbito de actuación y las delegadas en el resto de los órganos de la Dirección General de Instituciones Penitenciarias quedan delegadas por el Secretario de Estado de Seguridad en los mismos órganos, según establece el apartado primero de la Orden INT/2853/2006, de 13 de septiembre. Ref. BOE-A-2006-16193
+
 > Redactado el punto 1 conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 2005. Ref. BOE-A-2005-8407.
