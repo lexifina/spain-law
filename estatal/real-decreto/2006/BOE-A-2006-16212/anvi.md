@@ -1,0 +1,7 @@
+## ANEXO VI
+
+## Cartera de servicios comunes de prestación ortoprotésica
+
+La prestación ortoprotésica consiste en la utilización de productos sanitarios, implantables o no, cuya finalidad es sustituir total o parcialmente una estructura corporal, o bien modificar, corregir o facilitar su función. Comprenderá los elementos precisos para mejorar la calidad de vida y autonomía del paciente.
+
+Esta prestación se facilitará por los servicios de salud o dará lugar a ayudas económicas, en los casos y de acuerdo con las normas que reglamentariamente se establezcan por parte de las administraciones sanitarias competentes.
