@@ -2,23 +2,25 @@
 
 ## Fechas límite de presentación de solicitudes
 
-1 de enero: Espárrago.
+1 de enero: Espárrago
 
-1 de febrero: Judía y Judía escarlata.
+1 de febrero: Judía y Judía escarlata
 
-1 de marzo: Acelga, Achicoria, Apio, Borraja, Bróculi, Cardo, Col de Bruselas, Col de Milán, Col forrajera o Berza, Col repollo chino, Coliflor, Colinabo, Colirrábano, Endivia, escarola, Hinojo, Lombarda, Rábano y Rabanito, Remolacha de mesa, Repollo, Salsifi y Zanahoria.
+1 de marzo: Acelga, Achicoria, Apio, Borraja, Bróculi, Cardo, Col de Bruselas, Col de Milán, Col forrajera o Berza, Col repollo chino, Coliflor, Colinabo, Coolí rábano, Endivia, Escarola, Hinojo, Lombarda, Rábano y Rabanito, Remolacha de mesa, Repollo, Salsifi y Zanahoria.
 
 1 de abril: Nabo, Perejil y Espinaca.
 
 1 de mayo: Alcachofa.
 
-1 de junio: Berenjena, Calabacín, Cebolla temprana, Cebolleta, Cebollino, Lechuga, Melón, Pepino, Perifollo, Pimiento, Tomate.
+1 de junio: Berenjena, Calabacín, Cebolla temprana, Cebolleta, Cebollino, Híbridos ínter-específicos del Género Lycopersicon, Lechuga, Melón, Pepino, Perifollo, Pimiento, Tomate.
 
 1 de agosto: Habas.
 
 15 de agosto: Guisante.
 
-1 de noviembre:Berenjena, Calabaza, Calabaza de peregrino, Calabaza moscada, Calabacín, Cebolla tardía, Chirivia, Lechuga, Melón, Pepino, Pimiento, Puerro, Sandía y Tomate.
+1 de noviembre: Berenjena, Calabaza, Calabaza de peregrino, Calabaza moscada, Calabacín, Cebolla tardía, Chirivia, Híbridos ínter-específicos del Género Cucúrbita, Lechuga, Melón, Pepino, Pimiento, Puerro, Sandía y Tomate.
+
+> Se modifica por el art. único de la Orden APA/2861/2006, de 11 de septiembre. Ref. BOE-A-2006-16332.
 
 > Se modifica por el art. único.2 de la Orden APA/3127/2005, de 23 de septiembre. Ref. BOE-A-2005-16831.
 
