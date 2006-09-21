@@ -38,7 +38,7 @@ De acuerdo con lo dispuesto en el artículo 32, apartado 3 de este Reglamento, e
 
 3.º Los documentos que sobre la identidad y representación se especifican en el apartado A, números 1 y 3 del anexo XIII, sobre la matriculación.
 
-4.º Tarjeta de inspección técnica con reconocimiento en vigor o certificado de características, .
+4.º Tarjeta de inspección técnica o certificado de características, con reconocimiento en vigor.
 
 5.º Original de la autoliquidación del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, o justificante de la exención o no sujeción del mismo, y fotocopia.
 
@@ -112,13 +112,13 @@ De acuerdo con lo dispuesto en el artículo 32, apartado 6 de este Reglamento, l
 
 3.º Los documentos que sobre la identidad y representación se especifican en el apartado A, números 1 y 3 del anexo XIII, sobre matriculación.
 
-4.º Certificado de defunción del titular del vehículo, con fotocopia, o Libro de Familia donde conste el fallecimiento y fotocopía.
+4.º Certificado de defunción del titular del vehículo, con fotocopia, o Libro de Familia donde conste el fallecimiento y fotocopia.
 
 5.º Documento que acredite la custodia, posesión o uso del vehículo.
 
 6.º Permiso o licencia de circulación del vehículo, en el que se anotará la adjudicación provisional.
 
-7.º Tarjeta de inspección técnica con reconocimiento en vigor o certificado de características.
+7.º Tarjeta de inspección técnica o certificado de características, con reconocimiento en vigor.
 
 B) Transmisión definitiva:
 
@@ -130,7 +130,7 @@ La persona que resulte adjudicataria definitiva del vehículo deberá solicitar 
 
 3.º Permiso o licencia de circulación.
 
-4.º Tarjeta de inspección técnica con reconocimiento en vigor o certificado de características.
+4.º Tarjeta de inspección técnica o certificado de características, con reconocimiento en vigor.
 
 5.º Si se trata de un vehículo especial agrícola, documento acreditativo de baja y alta en el Registro Oficial de Maquinaria Agrícola.
 
@@ -151,3 +151,5 @@ De acuerdo con lo dispuesto en los artículos 32, apartado 7 y 33, apartado 2 de
 3.º Los documentos que sobre la identidad y representación se especifican en el apartado A, números 1.º y 3.º del anexo XIII, sobre la matriculación.
 
 4.º En el caso de la hipoteca mobiliaria, comunicación del Registrador en la que figure la cancelación de la hipoteca; si se trata de una reserva de dominio, escrito del Registro de Venta a Plazos de Bienes Muebles en el que se haga constar la cancelación de la inscripción de reserva de dominio; en el caso de arrendamiento con opción de compra o de arrendamiento a largo plazo, escrito del arrendador en el que conste su consentimiento para la cancelación de la inscripción, con su firma reconocida.
+
+> Se modifican los apartados I.1.B).4º, II.A)7º y II.B).4º por el art.5.3 del Real Decreto 711/2006, de 9 de junio. Ref. BOE-A-2006-11051.

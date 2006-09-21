@@ -144,9 +144,9 @@ De acuerdo con lo dispuesto en el artículo 30, apartado 3 del Reglamento, para 
 
 5.º Permiso o licencia de circulación, excepto en el caso de duplicado por extravío o robo.
 
-6.º Tarjeta de inspección técnica con reconocimiento en vigor, certificado de características.
+6.º Tarjeta de inspección técnica de vehículos o certificado de características, con reconocimiento en vigor.
 
-En caso de duplicado por extravío o sustracción, no será necesaria la presentación de la tarjeta de inspección técnica si existe constancia de que el vehículo está al corriente de las inspecciones periódicas.
+En caso de duplicado por extravío o sustracción, no será necesaria la presentación de la tarjeta de inspección técnica o el certificado de características si existe constancia de que el vehículo está al corriente de las inspecciones periódicas.
 
 7.º Baja y alta a efectos del Impuesto sobre Vehículos de Tracción Mecánica, en caso de duplicado por cambio de domicilio, y justificante del pago de dicho Impuesto, mediante el último recibo puesto al cobro, si cambia de localidad.
 
@@ -185,6 +185,8 @@ E) Cambio de matrícula por razones de seguridad:
 5.º La solicitud se considerará desestimada por el transcurso del plazo de un mes, a contar desde el día siguiente al de la entrada de la solicitud en el Registro de la Secretaría de Estado de Seguridad, sin que se hubiere dictado resolución expresa.
 
 6.º Las resoluciones otorgando la autorización del cambio de matrícula por razones de seguridad, además de ser notificadas al solicitante, serán comunicadas a la Dirección General de Tráfico a los efectos oportunos.
+
+> Se modifica el apartado C).6º por el art. 5.2 del Real Decreto 711/2006, de 9 de junio. Ref. BOE-A-2006-11051.
 
 > Se modifican los apartados A).8º y B) por el art. único.1 y 2 de la Orden PRE/1355/2005, de 16 de mayo. Ref. BOE-A-2005-7984.
 

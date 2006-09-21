@@ -52,7 +52,7 @@ De acuerdo con lo dispuesto en el artículo 37, apartado 2 de este Reglamento, c
 
 4.º Impreso de alta del Impuesto sobre Vehículos de Tracción Mecánica, o autoliquidación del mismo o justificante de su exención.
 
-En el caso de que la tarjeta de inspección técnica no tuviera el reconocimiento en vigor en el momento de solicitarse el alta, deberá someterse el vehículo a inspección técnica y, una vez superada la misma, la Jefatura de Tráfico procederá a devolver el permiso de circulación al interesado.
+En el caso de que la tarjeta de inspección técnica o el certificado de características no tuviera el reconocimiento en vigor en el momento de solicitarse el alta, deberá someterse el vehículo a inspección técnica y, una vez superada la misma, la Jefatura de Tráfico procederá a devolver el permiso de circulación al interesado.
 
 D) Rehabilitación de los vehículos.
 
@@ -75,3 +75,5 @@ A la vista de esta documentación, la Jefatura de Tráfico dirigirá un oficio a
 Si el vendedor es un empresario que actúa en el ejercicio de su actividad, podrá ser eximido de la presentación del citado documento.
 
 4.º En el caso de vehículo especial agrícola, documento acreditativo del alta en el Registro Oficial de Maquinaria Agrícola.
+
+> Se modifica el párrafo último del apartado C) por el art. 5.4 del Real Decreto 711/2006, de 9 de junio. Ref. BOE-A-2006-11051.
