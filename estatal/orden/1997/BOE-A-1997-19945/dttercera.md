@@ -1,3 +1,5 @@
 ## Disposición transitoria tercera.
 
-El límite en el ejercicio de los cargos que establece el artículo 21 no se aplicará con carácter retroactivo, excepto en el caso de personas que vengan ocupando el cargo por un período superior a doce años consecutivos anteriores a su nueva designación, en cuyo caso únicamente podrán ser renovados en el mismo cargo por un período de cuatro años.
+En un plazo no superior a tres meses desde la entrada en vigor de los Estatutos, el Comité Nacional aprobará el Código de conducta de los cargos directivos.
+
+> Se modifica por el art. único.12 de la Orden TAS/2981/2006, de 26 de septiembre. Ref. BOE-A-2006-17082.

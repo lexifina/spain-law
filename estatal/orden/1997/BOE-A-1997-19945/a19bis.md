@@ -1,0 +1,5 @@
+## Artículo 19. Bis. El Coordinador General.
+
+El Coordinador General es nombrado y cesado por el Presidente, dando conocimiento al Comité Nacional. Bajo la dirección del Presidente, al Coordinador General le corresponde la dirección superior de los Departamentos y servicios de su competencia que tienen encomendado el desarrollo de las actividades propias de la Institución en materia de promoción del voluntariado, formación y participación, prestación de servicios asistenciales y sanitarios a la población, socorros y emergencias, protección del medio ambiente y cualquier otra que le sea atribuida, así como establecer, controlar y evaluar el cumplimiento de los objetivos fijados para los distintos planes de actuación. Asimismo, tiene competencia para supervisar las actividades del área de coordinación de los distintos ámbitos. Es miembro nato de la Asamblea General y del Comité Nacional.
+
+> Se añade por el art. único.8 de la Orden TAS/2981/2006, de 26 de septiembre. Ref. BOE-A-2006-17082.
