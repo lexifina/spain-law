@@ -68,12 +68,15 @@
 |  | Fibra metalizada | 2,00 |
 |  | Amianto | 2,00 |
 |  | Fibra de papel. |  |
+| 45 | Elastomultiéster | 1,50 |
 
 (1) El porcentaje convencional del 17 por 100 se aplicará en aquellos casos en que no sea posible afirmar si el producto textil que contiene lana y/o pelo pertenece al proceso de peinado o al proceso de cardado.
 
+> Se añade la fila 45 por el art. único.2 del Real Decreto 1115/2006, de 29 de septiembre. Ref. BOE-A-2006-17097.
+
 > Se añade la fila 33.a) por el art. único.2 del Real Decreto 2322/2004, de 17 de diciembre. Ref. BOE-A-2004-21769.
 
-> Se modifica por el art. único del real decreto 1748/1998, de 31 de julio. Ref. BOE-A-1998-20602.
+> Se modifica por el art. único del Real Decreto 1748/1998, de 31 de julio. Ref. BOE-A-1998-20602.
 
 > Se modifican los números 1, 2, 3, 28 y 38 y se añade la nota a pie de página por el art. único del Real Decreto 396/1990, de 16 de marzo. Ref. BOE-A-1990-7738.
 

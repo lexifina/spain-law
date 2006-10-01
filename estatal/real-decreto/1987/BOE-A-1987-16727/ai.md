@@ -52,10 +52,13 @@
 | 42 | Elastano. | Fibra elastómera constituida por al menos 85 por 100 en masa de poliuretano segmentario que, alargada por una fuerza de tracción hasta alcanzar tres veces su longitud inicial, recobra rápida y sustancialmente esta longitud, desde el momento en que deja de aplicarse la fuerza de tracción. |
 | 43 | Vidrio textil. | Fibra constituida por vidrio. |
 | 44 | Denominación correspondiente a la materia de que las fibras están compuestas, por ejemplo: metal (metálico, metalizado), amianto, papel (papelero), precedida o no de la palabra "hilo" o "fibra". | Fibras obtenidas a partir de materias diversas o nuevas que no sean las anteriormente mencionadas. |
+| 45 | Elastomultiéster. | Fibra formada por la interacción de dos o más macromoléculas lineales químicamente distintas en dos o más fases distintas (ninguna de las cuales superior al 85% en masa) que contengan grupos éster como unidad funcional dominante (85% como mínimo) y que, tras un tratamiento adecuado, cuando se estira hasta una vez y media su longitud original y se suelta, recobra de forma rápida y sustancial su longitud inicial. |
 
 (1) La denominación "lana" que figura en el número 1 de este anexo podrá también utilizarse para indicar una mezcla de fibras procedentes del vellón de cordero u oveja y de los pelos indicados en la tercera columna, número 2. Esta disposición se aplicará a los productos textiles enumerados en los artículos 4 y 5, así como a los mencionados en el artículo 6, siempre que estos últimos estén compuestos en parte por las fibras indicadas en los números 1 y 2.
 
 (2) Por "disolvente orgánico" se entiende fundamentalmente una mezcla de productos químicos orgánicos y de agua.
+
+> Se añade la fila 45 por el art. único.1 del Real Decreto 1115/2006, de 29 de septiembre. Ref. BOE-A-2006-17097.
 
 > Se añade la fila 33.a) por el art único.1 del Real Decreto 2322/2004, de 17 de diciembre. Ref. BOE-A-2004-21769.
 
