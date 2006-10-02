@@ -1,0 +1,39 @@
+El marco general de las telecomunicaciones en España quedó constituido en 1987 por la Ley 31/1987, de 18 de diciembre, de Ordenación de las Telecomunicaciones, cuyo artículo 1 se refería someramente a las comunicaciones mediante cable y radiocomunicación.
+
+Las necesidades de desarrollo de este tipo de tecnología requirieron la aprobación de una ley específica, la Ley 42/1995, de 22 de diciembre, de las telecomunicaciones por cable, que vino a configurar de forma más detallada el marco legal aplicable a este sector de los servicios de telecomunicación, estableciendo unas normas de rango legal que regulaban, por primera vez en España, la prestación conjunta de servicios de telecomunicación y audiovisuales a través de las nuevas tecnologías del cable. La Ley 42/1995, de 22 de diciembre, definía el servicio de telecomunicaciones por cable como un servicio público de titularidad estatal y determinaba que el título para prestarlo se obtendría mediante concurso público. A su vez la concesión del título para la prestación del servicio de telecomunicaciones llevaba aneja la concesión para la prestación del servicio público de televisión por cable.
+
+En su disposición transitoria tercera ordenaba al Gobierno la aprobación del correspondiente reglamento técnico y de prestación del servicio, que se llevó a cabo mediante el Real Decreto 2066/1996, de 13 de septiembre.
+
+La Ley 42/1995, de 22 de diciembre, de las telecomunicaciones por cable, fue derogada por la Ley 11/1998, de 24 de abril, General de Telecomunicaciones, a excepción de lo dispuesto para el régimen del servicio de difusión de televisión. En especial, según se señalaba en su disposición derogatoria, mantenían su vigencia el artículo 9.2, primer párrafo; el artículo 10; el artículo 11.1, e), f) y g), el artículo 12, y los apartados 1 y 2 de la disposición adicional tercera de la referida Ley de telecomunicaciones por cable.
+
+El nuevo régimen obligó a transformar las anteriores concesiones en dos títulos habilitantes de características muy diferentes, uno de telecomunicaciones, que habilitaba para prestar servicios en este ámbito en un contexto ampliamente liberalizado, y otro de televisión, consistente en una concesión administrativa para la prestación de un servicio público mediante gestión indirecta.
+
+Durante los casi cinco años de vigencia de la Ley 11/1998, de 24 de abril, ello dio lugar al mantenimiento de una situación singular en la que la liberalización de las telecomunicaciones por cable se producía en paralelo al mantenimiento de las restricciones para prestar el servicio de difusión de televisión, restringido a aquéllos que hubieran obtenido la concesión para la gestión indirecta del servicio público en el correspondiente concurso.
+
+Finalmente, la Ley de las telecomunicaciones por cable fue derogada en su totalidad por la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, que, en su disposición adicional décima, declaraba plenamente liberalizada la prestación del servicio de difusión de televisión por cable que dejaba de ser servicio público, si bien la disposición transitoria décima aplazaba la entrada en vigor de dicha liberalización hasta el 31 de diciembre de 2009.
+
+La misma disposición adicional décima disponía que el servicio se prestaría en régimen de libre competencia en las condiciones que se establecieran por el Gobierno mediante reglamento, «que establecerá las obligaciones de los titulares de las autorizaciones».
+
+La Ley 10/2005, de 14 de junio, de Medidas Urgentes para el Impulso de la Televisión Digital Terrestre, de Liberalización de la Televisión por Cable y de Fomento del Pluralismo ha modificado la disposición transitoria décima de la citada Ley 32/2003, de 3 de noviembre, supeditando la entrada en vigor de la liberalización, no al cumplimiento de un plazo, sino a la publicación del Reglamento al que se refería la disposición adicional décima de la misma ley.
+
+En consecuencia, el Reglamento que se aprueba por el presente real decreto viene a dar cumplimiento a las previsiones regulatorias de la disposición adicional décima de la Ley 32/2003, y, al mismo tiempo, pone en vigor la liberalización efectiva del servicio prevista en dicha disposición, en la redacción dada por la Ley 10/2005.
+
+Por otra parte, el apartado 3 de la disposición transitoria sexta de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones dispone que seguirán siendo aplicables determinadas obligaciones de transmisión establecidas en la referida Ley de las telecomunicaciones por cable, pero hasta tanto no se supriman, modifiquen o sustituyan mediante un nuevo reglamento, conforme a lo dispuesto en el apartado 4 de la disposición adicional séptima de dicha Ley 32/2003, de 3 de noviembre. Dicha supresión se realiza en la disposición adicional primera de este real decreto.
+
+Cabe hacer notar que el reglamento a que se refiere la disposición transitoria sexta antes citada es de aplicación a los operadores de telecomunicaciones titulares de redes de cable, por lo que se trata de una norma de telecomunicaciones cuya habilitación constitucional es distinta de la que corresponde al reglamento aprobado por la presente norma.
+
+Justamente por eso, la disposición transitoria primera del propio reglamento que se aprueba, introduce una obligación de transmisión, que afectará a los canales analógicos nacionales y a los gestionados directamente por las comunidades autónomas, pero que se exige, no a los operadores de telecomunicaciones por cable, sino a los titulares del servicio de difusión.
+
+La disposición adicional segunda, obliga a los operadores nacionales en analógico a presentar un calendario de implantación de la tecnología digital que permita adelantar en determinadas áreas la fecha del cierre definitivo de las emisiones en analógico dentro del objetivo de acelerar la migración de la televisión desde la tecnología analógica a la digital.
+
+Además, la disposición final primera del presente real decreto modifica el Reglamento que regula el derecho de los usuarios del servicio de televisión a ser informados de la programación a emitir, y se desarrollan otros artículos de la Ley 25/1994, de 12 de julio, modificada por Ley 22/1999, de 7 de junio, aprobado por el Real Decreto 1462/1999, de 17 de septiembre, reduciendo el plazo en el que debe hacerse pública la programación anunciada, de acuerdo con la evolución de la tecnología y el incremento de la oferta de canales de televisión a disposición de los usuarios.
+
+La modificación del reglamento aprobado por el Real Decreto 1462/1999, de 17 de septiembre, quiere reforzar además los mecanismos de autorregulación con objeto de que los operadores de televisión puedan llegar a acuerdos para facilitar a los medios interesados, con mayor anticipación de la exigida legalmente y evitando cualquier discriminación, la información sobre sus programas.
+
+La disposición final segunda del real decreto modifica el apartado 7 de la disposición adicional segunda del Real Decreto 944/2005, por el que se aprobó el Plan Técnico de Televisión Digital Terrestre, para incorporar con más precisión las previsiones sobre televisión a través de teléfonos móviles,
+
+Mientras que el Reglamento, en sí mismo, es una norma de carácter básico, las disposiciones adicionales primera y segunda y final segunda son preceptos que se dictan al amparo de la competencia exclusiva del Estado en materia de telecomunicaciones. En cuanto a la disposición final primera, viene a modificar una norma dictada por el Estado en el ejercicio de su potestad reglamentaria, en relación con los operadores de televisión bajo su competencia.
+
+En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 28 de julio de 2006,
+
+## D I S P O N G O :
