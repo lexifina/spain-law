@@ -20,4 +20,4 @@ d) Estatutos adaptados firmados por los representantes de la entidad, en el supu
 
 2. Transcurrido el plazo de dos años, no se inscribirá en el correspondiente registro documento alguno de las asociaciones no adaptadas, hasta que se haya efectuado ante el registro la acreditación en forma de los extremos a que se refiere el apartado 1 anterior.
 
-3. Las asociaciones no adaptadas, ni disueltas, que actúen, en su caso, sin haber regularizado su situación registral se asimilarán a las asociaciones no inscritas a los efectos previstos en el artículo 10 de la Ley Orgánica 1/2002, de 22 de marzo.
+> Se declara la nulidad del apartado 3 por Sentencia del TS de 20 de abril de 2006. Ref. BOE-A-2006-17578
