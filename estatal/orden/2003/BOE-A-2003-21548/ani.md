@@ -314,6 +314,24 @@ FN/2003/PO/032 Vaselina salicílica.
 
 FN/2003/PO/033 Violeta de genciana, solución de.
 
+FN/2006/PO/034: Agua de alibour.
+
+FN/2006/PO/035: Alcohol de romero al 5%.
+
+FN/2006/PO/036: Alcohol glicerinado.
+
+FN/2006/PO/037:Crema analgésica de salicilato de metilo, mentol y alcanfor.
+
+FN/2006/PO/038: Eosina al 2%, solución acuosa de.
+
+FN/2006/PO/039: Minoxidil al 2%, solución de.
+
+FN/2006/PO/040: Polvos pédicos.
+
+FN/2006/PO/041: Pomada de bálsamo de Perú.
+
+FN/2006/PO/042: Sulfato de zinc, solución al 0,1% de.
+
 ## Fitoterapia
 
 Monografías de materias primas
@@ -379,3 +397,5 @@ FN/2003/POF/013 Raíz de harpagofito, cápsulas duras de.
 FN/2003/POF/014 Raíz de valeriana, cápsulas duras de.
 
 FN/2003/POF/015 Semilla de zaragatona, polvo para suspensión oral de.
+
+> Se modifica por el art. único.1 y anexo de la Orden SCO/3123/2006, de 29 de septiembre. Ref. BOE-A-2006-17812.
