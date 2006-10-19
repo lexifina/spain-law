@@ -1,0 +1,5 @@
+## Artículo 5. Comunicación de establecimientos.
+
+1. Los establecimientos de explotadores de empresas de piensos, que no estén obligados a efectuar una solicitud de autorización de acuerdo con el artículo anterior, deberán ser comunicados a la autoridad competente, a que se refiere el artículo 9 del Reglamento (CE) n.° 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero, previamente al inicio de la actividad.
+
+2. Los explotadores de empresas de piensos, a los que se refieren el artículo 4 y el apartado 1 de este artículo, comunicarán a la autoridad competente de las comunidades autónomas o de las ciudades de Ceuta y Melilla o, en el caso de las importaciones o exportaciones, al Ministerio de Agricultura, Pesca y Alimentación, el cese en alguna de sus actividades, así como cualquier cambio en la denominación de la empresa explotadora de piensos o de sus titulares. Dicha comunicación se hará en el plazo máximo de un mes desde que se produzca la modificación significativa de la actividad. En el caso de inicio de una nueva actividad, será de aplicación el artículo 16 del Reglamento (CE) n.° 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero.

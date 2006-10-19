@@ -1,0 +1,5 @@
+## Artículo 3. Obligaciones de los explotadores de empresas de piensos.
+
+1. Además de las obligaciones establecidas en el Reglamento (CE) n.° 183/2005, del Parlamento Europeo y del Consejo, de 12 de enero de 2005 los explotadores de las empresas de piensos deberán conservar los registros a que se hace referencia en el artículo 6.2.g) y en los anexos I y II del Reglamento (CE) n.° 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero, un mínimo de tres años, sin perjuicio de que otra normativa específica requiera un período de tiempo mayor.
+
+2. En el caso de los explotadores de empresas de piensos que sean fabricantes de piensos compuestos, aditivos o premezclas, deberán remitir a la autoridad competente, antes del 31 de enero de cada año, los datos relativos a las cantidades de cada uno de los productos fabricados así como la cantidad de las materias primas, aditivos, premezclas y piensos complementarios empleadas, referidas todas al año precedente. La Comisión nacional de coordinación en materia de alimentación animal podrá proponer un modelo con los datos mínimos que se deben remitir.
