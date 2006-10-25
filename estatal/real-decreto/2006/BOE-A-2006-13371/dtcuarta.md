@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Aplicación del régimen de la base de datos nacional de subvenciones en el ámbito de las Comunidades Autónomas.
+
+En el ámbito de las Comunidades Autónomas, los órganos a que se refieren los apartados 1 y 2 del artículo 36 de este Reglamento que no pudieran habilitar los procedimientos necesarios para el suministro de la información en los términos establecidos por el Ministro de Economía y Hacienda en desarrollo de lo dispuesto en la Sección 6.ª del Capítulo III del Título Preliminar de este Reglamento, podrán solicitar justificadamente a la Intervención General de la Administración del Estado, a través de los órganos previstos en el artículo 36.4.a) de este Reglamento, un aplazamiento de sus obligaciones hasta el 1 de enero de 2008, si bien este aplazamiento del momento del envío de información no exonera de la obligación de suministrar toda la información sobre las subvenciones a las que resulte de aplicación el presente Reglamento desde la fecha de su entrada en vigor.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 270, de 11 de noviembre de 2006. Ref. BOE-A-2006-19623

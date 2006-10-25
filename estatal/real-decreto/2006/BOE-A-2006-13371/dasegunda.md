@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Créditos concedidos por la Administración del Estado a particulares sin interés o con interés inferior al de mercado.
+
+1. En el ámbito de la Administración General del Estado y de los organismos públicos y restantes entidades de derecho público con personalidad jurídica propia vinculadas o dependientes de aquélla, los Ministros aprobarán, para los créditos dotados en los estados de gastos en sus respectivos presupuestos, la normativa reguladora de los créditos de la Administración a particulares sin interés o con interés inferior al de mercado y, en su defecto, serán de aplicación las prescripciones de la Ley General de Subvenciones, en los términos previstos en la Disposición Adicional Sexta de ésta, todo ello sin perjuicio de lo dispuesto en el apartado 3 de esta Disposición.
+
+2. En el caso de que no exista crédito dotado inicialmente, la normativa reguladora se aprobará por el Consejo de Ministros, con carácter previo a la tramitación de la correspondiente modificación presupuestaria.
+
+3. Para los créditos sin interés o con interés inferior al del mercado que concede el Instituto de Crédito Oficial u otras entidades de derecho público dependientes de la Administración General del Estado, tendrá naturaleza de normativa reguladora los procedimientos, instrucciones o acuerdos aprobados por el órgano administrativo competente para estas entidades, o los acuerdos que al efecto apruebe su Consejo General, su Consejo de Administración u órgano directivo equivalente.

@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Pagos de subvenciones y ayudas concedidas con cargo a los fondos europeos agrícolas.
+
+El Fondo Español de Garantía Agraria comunicará a la base de datos nacional de subvenciones información sobre las ayudas concedidas con cargo a la Sección Garantía del FEOGA o a los fondos FEAGA y FEADER que le sustituyan, en soporte informático con el alcance y formato previstos por la normativa comunitaria, junto con las tablas descriptivas necesarias para el correcto proceso de dicha información, dentro del primer trimestre de cada año con referencia al ejercicio inmediatamente anterior.
+
+La comunicación de las irregularidades y el seguimiento de las mismas se realizarán con la frecuencia, el alcance y el contenido que establezcan los Reglamentos de la Unión Europea aplicables en cada momento. Dichas comunicaciones se dirigirán a la Intervención General de la Administración del Estado, con el formato y en los soportes que a tal fin establezca dicho centro directivo.
