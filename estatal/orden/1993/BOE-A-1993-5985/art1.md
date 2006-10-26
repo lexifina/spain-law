@@ -9,3 +9,5 @@ a) Los establecimientos en que se fabriquen, manipulen, almacenen o comercialice
 b) Los establecimientos en que se fabriquen, manipulen, almacenen o comercialicen productos sometidos al régimen de control de los medicamentos veterinarios.
 
 c) Los establecimientos donde se comercialicen exclusivamente plaguicidas autorizados para usos domésticos o para uso en higiene personal, a que se refiere el punto 10.2.3 del artículo 10 de la RTS.
+
+> Se deroga en cuanto se oponga para los establecimientos y servicios plaguicidas no agrícolas (biocidas), por la disposición derogatoria única.1 de la Orden SCO/3269/2006, de 13 de octubre. Ref. BOE-A-2006-18558.

@@ -11,3 +11,5 @@
 5. El plazo de validez del certificado de inscripción no será superior a diez años. El titular del establecimiento o servicio habrá de solicitar la expedición de un nuevo certificado previamente a la caducidad del anterior, acompañando una nueva declaración conforme al artículo 2.º en los casos en que se hayan producido modificaciones.
 
 6. Anualmente, en el primer trimestre de cada año, la autoridad competente, en la gestión del Registro remitirá al Ministerio de Agricultura, Pesca y Alimentación y al Ministerio de Sanidad y Consumo un informe incluyendo el resumen del movimiento anual del Registro y su estado a 31 de diciembre.
+
+> Se deroga en cuanto se oponga para los establecimientos y servicios plaguicidas no agrícolas (biocidas), por la disposición derogatoria única.1 de la Orden SCO/3269/2006, de 13 de octubre. Ref. BOE-A-2006-18558.

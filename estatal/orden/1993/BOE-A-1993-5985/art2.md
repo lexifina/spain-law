@@ -27,3 +27,5 @@ h) Relación de locales bajo la misma titularidad inscritos en el Registro en la
 i) Relación del personal afecto al establecimiento o servicio, detallando la titulación o capacitación de las personas que desempeñen los puestos de particular responsabilidad o desarrollan las actividades que expresamente la requieren en aplicación del apartado 4 del artículo 6.º de la RTS.
 
 j) Licencia municipal en el caso de establecimientos.
+
+> Se deroga en cuanto se oponga para los establecimientos y servicios plaguicidas no agrícolas (biocidas), por la disposición derogatoria única.1 de la Orden SCO/3269/2006, de 13 de octubre. Ref. BOE-A-2006-18558.

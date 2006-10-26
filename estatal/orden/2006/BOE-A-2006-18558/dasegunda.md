@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Remisión de los expedientes de los establecimientos y servicios biocidas actualmente inscritos en los diferentes registros oficiales de los establecimientos y servicios plaguicidas.
+
+Los expedientes de los establecimientos y servicios plaguicidas incluidos en el ámbito de aplicación del Real Decreto 1054/2002, de 11 de octubre, inscritos en el Registro Oficial de Establecimientos y Servicios Plaguicidas en virtud de la Orden de 24 de febrero de 1993, por la que se normaliza la inscripción y funcionamiento del Registro de Establecimientos y Servicios Plaguicidas, serán transferidos al nuevo Registro Oficial de Establecimientos y Servicios Biocidas en el plazo que determine la autoridad sanitaria competente en cada Comunidad Autónoma.
