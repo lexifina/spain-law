@@ -2401,10 +2401,34 @@ e) 0,0002 por 100 en otros productos de contacto y productos de higiene bucal.
 | 1209 | Aceite de creosota, destilado de elevado punto de ebullición, aceite de lavado, si contiene más de 0,005 % p/p de benzo[a]pireno. | 70321-79-8 |
 | 1210 | Residuos del extracto (hulla), ácido de aceite de creosota, residuo de extracto de aceite de lavado, si contienen más de 0,005 % p/p de benzo[a]pireno. | 122384-77-4 |
 | 1211 | Aceite de creosota, destilado de bajo punto de ebullición, aceite de lavado, si contiene más de 0,005 % p/p de benzo[a]pireno. | 70321-80-1 |
+| 1212 | 6-metoxi-2,3-piridindiamina y su sal HCl, cuando se emplee en tintes de cabello. | 94166-62-8 |
+| 1213 | 2,3-naftalenodiol, cuando se emplee en tintes de cabello. | 92-44-4 |
+| 1214 | 2,4-diaminodifenilamina, cuando se emplee en tintes de cabello. | 136-17-4 |
+| 1215 | 2,6-bis(2-hidroxietoxi)-3,5-piridindiamina y su sal HCl, cuando se emplee en tintes de cabello. | 117907-42-3 |
+| 1216 | 2-metoximetil-p-aminofenol y su sal HCl, cuando se emplee en tintes de cabello. | 29785-47-5 |
+| 1217 | 4,5-diamino-1-metilpirazol y su sal HCl, cuando se emplee en tintes de cabello. | 20055-01-0 |
+| 1218 | 4,5-diamino-1-[(4-clorofenil)metil]-1H-pirazol sulfato, cuando se emplee en tintes de cabello. | 163183-00-4 |
+| 1219 | 4-cloro-2-aminofenol, cuando se emplee en tintes de cabello. | 95-85-2 |
+| 1220 | 4-hidroxiindol, cuando se emplee en tintes de cabello. | 2380-94-1 |
+| 1221 | 4-metoxitolueno-2,5-diamina y su sal HCl, cuando se emplee en tintes de cabello. | 56496-88-9 |
+| 1222 | 5-amino-4-fluoro-2-metilfenol sulfato, cuando se emplee en tintes de cabello. | 163183-01-5 |
+| 1223 | N,N-dietil-m-aminofenol, cuando se emplee en tintes de cabello. | 91-68-9 |
+| 1224 | N,N-dimetil-2,6-piridindiamina y su sal HCl, cuando se emplee en tintes de cabello. |  |
+| 1225 | N-ciclopentil-m-aminofenol, cuando se emplee en tintes de cabello. | 104903-49-3 |
+| 1226 | N-(2-metoximetil)-p-fenilendiamina y su sal HCl, cuando se emplee en tintes de cabello. | 72584-59-9 |
+| 1227 | 2,4-diamino-5-metilfenetol y su sal HCl, cuando se emplee en tintes de cabello. | 113715-25-6 |
+| 1228 | 1,7-naftalenodiol, cuando se emplee en tintes de cabello. | 575-38-2 |
+| 1229 | Ácido 3,4-diaminobenzoico, cuando se emplee en tintes de cabello. | 619-05-6 |
+| 1230 | 2-aminometil-p-aminofenol y su sal HCl, cuando se emplee en tintes de cabello. | 79352-72-0 |
+| 1231 | Solvent Red 1 (CI 12150), cuando se emplee en tintes de cabello. | 1229-55-6 |
+| 1232 | Acid Orange 24 (CI 20170), cuando se emplee en tintes de cabello. | 1320-07-6 |
+| 1233 | Acid Red 73 (CI 27290), cuando se emplee en tintes de cabello. | 5413-75-2 |
 
 (1) Véase el número de referencia 364 del anexo II.
 
 (2) Véase el número de referencia 411 del anexo II.
+
+> Se añaden los números 1212 a 1233 por el art. 1.1 de la Orden SCO/3283/2006, de 19 de octubre. Ref. BOE-A-2006-18636.
 
 > Se suprimen los números 615 y 616, se modifica el 687 y se añaden del 1137 al 1211 por el art. 1.1 de la Orden SCO/1730/2006, de 24 de mayo. Ref. BOE-A-2006-9894.
 
