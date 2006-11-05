@@ -1,0 +1,5 @@
+## Disposición adicional primera. Régimen de recursos.
+
+1. Las resoluciones dictadas en materia de mutualismo judicial por el órgano competente de la Mutualidad General Judicial no pondrán fin a la vía administrativa, siendo susceptibles de recurso de alzada ante el Ministro de Justicia.
+
+2. Se exceptúan de lo dispuesto en el apartado anterior y, en todo caso, pondrán fin a la vía administrativa, las resoluciones a que se refiere el artículo 109.a) y b) de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y las dictadas en materia de personal por el Gerente de la mutualidad, sin perjuicio de que puedan ser recurridos potestativamente en reposición ante el mismo órgano que los hubiese dictado o ser impugnados directamente ante el orden contencioso-administrativo con arreglo a lo dispuesto en la Ley 30/1992, de 26 de noviembre, y en la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa.

@@ -1,19 +1,5 @@
 ## Artículo tercero.
 
-La Mutualidad General Judicial, para el ejercicio de sus funciones, se estructura en los siguientes Órganos:
+(Derogado)
 
-I. De ámbito nacional:
-
-– La Asamblea General.
-
-– La Junta de Gobierno.
-
-– El Presidente.
-
-Como Órgano ejecutivo, bajo la inmediata dependencia del Presidente, un Gerente desempeñará la Jefatura de los servicios administrativos, técnicos y económicos.
-
-II. De ámbito provincial:
-
-– El Delegado.
-
-– La Junta Consultiva.
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto 1206/2006, de 20 de octubre. Ref. BOE-A-2006-19175

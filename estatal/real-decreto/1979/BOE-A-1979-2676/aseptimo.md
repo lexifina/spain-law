@@ -1,5 +1,5 @@
 ## Artículo séptimo.
 
-La Asamblea General celebrará sesión ordinaria una vez al año, dentro del primer trimestre, y cuantas extraordinarias convoque el Presidente, oída la Junta de Gobierno, o soliciten, al menos, una tercera parte de los miembros de la Asamblea que representan mayoritariamente a cinco circunscripciones territoriales.
+(Derogado)
 
-Las sesiones ordinarias o extraordinarias serán convocadas por el Presidente, con veinte días, al menos, de antelación en las ordinarias y cinco en las extraordinarias, como mínimo, salvo en casos de urgencia, debiendo enviarse, con la convocatoria, el orden del día.
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto 1206/2006, de 20 de octubre. Ref. BOE-A-2006-19175

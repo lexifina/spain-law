@@ -1,5 +1,5 @@
 ## Artículo veintiuno.
 
-Los cargos de Presidente, miembros de la Asamblea y de la Junta de Gobierno, y el de Delegados y miembros de la Junta Consultiva, son gratuitos y obligatorios.
+(Derogado)
 
-Los gastos que origine el desempeño de estas funciones serán justificados y abonados por la Mutualidad General, con cargo al capítulo de gastos de administración.
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto 1206/2006, de 20 de octubre. Ref. BOE-A-2006-19175

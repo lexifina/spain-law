@@ -1,15 +1,5 @@
 ## Artículo noveno.
 
-La Junta de Gobierno, Organo colegiado al que corresponde de modo permanente la dirección y gestión de la Mutualidad General Judicial, tiene la siguiente composición:
+(Derogado)
 
-– El Presidente, que será el de la Mutualidad.
-
-– Seis Consejeros.
-
-– El Tesorero.
-
-– El Interventor; y
-
-– El Secretario.
-
-Todos los miembros de la Junta de Gobierno deben ser mutualistas en servicio activo y con residencia oficial en Madrid.
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto 1206/2006, de 20 de octubre. Ref. BOE-A-2006-19175

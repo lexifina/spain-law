@@ -1,3 +1,5 @@
 ## Artículo trece.
 
-El Interventor será nombrado por el Ministro de Justicia, entre mutualistas que sean funcionarios en activo, con residencia oficial en Madrid. Esta intervención se entiende sin perjuicio de la que corresponde a la Intervención Delegada del Interventor general de la Administración del Estado.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto 1206/2006, de 20 de octubre. Ref. BOE-A-2006-19175
