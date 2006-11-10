@@ -1,0 +1,9 @@
+El Archivo de la Corona de Aragón, de titularidad y gestión estatal, es un archivo de excepcional importancia y de interés supracomunitario, ya que corresponde a una de las entidades históricas fundamentales, la Corona de Aragón, que constituyó parte esencial en el proceso de formación de España. Sus fondos documentales afectan al decurso histórico de territorios actualmente bajo distintas soberanías –el Rosellón, la Cerdaña, el Conflent y el Vallespir, Córcega, Cerdeña, Sicilia– y especialmente a cuatro comunidades autónomas –Comunidad Autónoma de Cataluña, Comunitat Valenciana, Comunidad Autónoma de Aragón y Comunidad Autónoma de las Illes Balears–. Dicho archivo constituye un patrimonio documental comunitario que requiere la atención y cuidado inexcusable del Estado y la colaboración que los Estatutos de las cuatro comunidades autónomas mencionadas han previsto.
+
+El artículo 149.1.28.ª de la Constitución Española confiere al Estado la competencia exclusiva en archivos de titularidad estatal y, a su vez, los Estatutos de Autonomía de Cataluña, de la Comunidad Valenciana, de Aragón y de las Illes Balears, prevén la creación y regulación por parte del Estado del Patronato del Archivo de la Corona de Aragón.
+
+De acuerdo con las normas anteriores, el presente real decreto viene a reforzar la especial colaboración de las cuatro comunidades autónomas citadas para la mejor conservación de los fondos documentales y para facilitar la investigación histórica y la proyección cultural del Archivo en el ámbito de los territorios afectados y fuera de ellos.
+
+En la elaboración del presente real decreto han sido consultadas las cuatro comunidades autónomas afectadas. En su virtud, a propuesta de la Ministra de Cultura, con la aprobación previa del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 3 de noviembre de 2006,
+
+DISPONGO:
