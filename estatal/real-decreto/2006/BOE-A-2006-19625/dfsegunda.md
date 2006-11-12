@@ -1,0 +1,3 @@
+## Disposición final segunda. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto se incorpora al ordenamiento jurídico español la Directiva 2004/23/CE del Parlamento Europeo y del Consejo, de 31 de marzo de 2004, relativa al establecimiento de normas de calidad y de seguridad para la donación, la obtención, la evaluación, el procesamiento, la preservación, el almacenamiento y la distribución de células y tejidos humanos, así como la Directiva 2006/17/CE de la Comisión, de 8 de febrero de 2006, por la que se aplica la Directiva 2004/23/CE del Parlamento Europeo y del Consejo en lo relativo a determinados requisitos técnicos para la donación, la obtención y la evaluación de células y tejidos humanos.
