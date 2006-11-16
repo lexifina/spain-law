@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Presentación de declaraciones por fedatarios públicos y otras entidades, instituciones y organizaciones.
+
+Uno. La Dirección General del Catastro podrá celebrar convenios para que los fedatarios públicos, sin perjuicio de la obligación de realizar ante el Catastro las comunicaciones a que se refiere el artículo 14.a) del texto refundido de la Ley del Catastro Inmobiliario, puedan presentar las declaraciones catastrales correspondientes a aquellas alteraciones inmobiliarias de las que tengan conocimiento como consecuencia de los documentos que otorguen o inscriban, actuando como mandatarios de los obligados tributarios, conforme a los requisitos, condiciones y formatos de entrega de la información que se establezcan, todo ello de acuerdo con lo dispuesto en el artículo 92 de la Ley General Tributaria.
+
+Dos. También podrán acogerse a esta fórmula de colaboración otras entidades, instituciones u organizaciones representativas de sectores profesionales que intervengan en el tráfico inmobiliario.
