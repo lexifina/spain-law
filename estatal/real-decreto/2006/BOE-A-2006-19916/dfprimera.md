@@ -1,0 +1,3 @@
+## Disposición final primera. Normas de evaluación.
+
+En el plazo máximo de un año a partir de la entrada en vigor de este real decreto, conjuntamente los Ministros de Defensa y del Interior, a propuesta del Director General de la Policía y de la Guardia Civil, determinarán con carácter general los méritos y aptitudes que deben considerar los órganos de evaluación de acuerdo con la finalidad de ésta, así como las normas objetivas de valoración. Dichas normas objetivas, que contendrán los coeficientes de valoración de los diferentes destinos, especialidades y títulos, se publicarán en el «Boletín Oficial de la Guardia Civil».
