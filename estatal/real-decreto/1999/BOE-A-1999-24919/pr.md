@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 36, de 11 de febrero de 2000. Ref. BOE-A-2000-2763
+Téngase en cuenta que quedan derogados cuantos preceptos de esta norma contradigan lo dispuesto en el Real Decreto 1298/2006, de 10 de noviembre. Ref. BOE-A-2006-20368, según establece su disposición derogatoria única.
