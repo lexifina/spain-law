@@ -1,0 +1,147 @@
+## Artículo primero. Modificación del Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
+
+Con efectos para los períodos impositivos que se inicien a partir de la entrada en vigor de esta Ley, se introducen las siguientes modificaciones en el Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo:
+
+Uno. Se modifica el apartado 1 del artículo 8, que queda redactado en los siguientes términos:
+
+«1. Se considerarán residentes en territorio español las entidades en las que concurra alguno de los siguientes requisitos:
+
+a) Que se hubieran constituido conforme a las leyes españolas.
+
+b) Que tengan su domicilio social en territorio español.
+
+c) Que tengan su sede de dirección efectiva en territorio español.
+
+A estos efectos, se entenderá que una entidad tiene su sede de dirección efectiva en territorio español cuando en él radique la dirección y control del conjunto de sus actividades.
+
+La Administración tributaria podrá presumir que una entidad radicada en algún país o territorio de nula tributación, según lo previsto en el apartado 2 de la disposición adicional primera de la Ley de Medidas para la Prevención del Fraude Fiscal, o considerado como paraíso fiscal, tiene su residencia en territorio español cuando sus activos principales, directa o indirectamente, consistan en bienes situados o derechos que se cumplan o ejerciten en territorio español, o cuando su actividad principal se desarrolle en éste, salvo que dicha entidad acredite que su dirección y efectiva gestión tienen lugar en aquel país o territorio, así como que la constitución y operativa de la entidad responde a motivos económicos válidos y razones empresariales sustantivas distintas de la simple gestión de valores u otros activos.»
+
+Dos. Se modifica el artículo 16, que queda redactado en los siguientes términos:
+
+«Artículo 16. Operaciones vinculadas.
+
+1. 1.º Las operaciones efectuadas entre personas o entidades vinculadas se valorarán por su valor normal de mercado. Se entenderá por valor normal de mercado aquel que se habría acordado por personas o entidades independientes en condiciones de libre competencia.
+
+2.º La Administración tributaria podrá comprobar que las operaciones realizadas entre personas o entidades vinculadas se han valorado por su valor normal de mercado y efectuará, en su caso, las correcciones valorativas que procedan respecto de las operaciones sujetas a este Impuesto, al Impuesto sobre la Renta de las Personas Físicas o al Impuesto sobre la Renta de No Residentes que no hubieran sido valoradas por su valor normal de mercado, con la documentación aportada por el sujeto pasivo y los datos e información de que disponga. La Administración tributaria quedará vinculada por dicho valor en relación con el resto de personas o entidades vinculadas.
+
+La valoración administrativa no determinará la tributación por este Impuesto ni, en su caso, por el Impuesto sobre la Renta de las Personas Físicas o por el Impuesto sobre la Renta de No Residentes de una renta superior a la efectivamente derivada de la operación para el conjunto de las personas o entidades que la hubieran realizado. Para efectuar la comparación se tendrá en cuenta aquella parte de la renta que no se integre en la base imponible por resultar de aplicación algún método de estimación objetiva.
+
+2. Las personas o entidades vinculadas deberán mantener a disposición de la Administración tributaria la documentación que se establezca reglamentariamente.
+
+3. Se considerarán personas o entidades vinculadas las siguientes:
+
+a) Una entidad y sus socios o partícipes.
+
+b) Una entidad y sus consejeros o administradores.
+
+c) Una entidad y los cónyuges o personas unidas por relaciones de parentesco, en línea directa o colateral, por consanguinidad o afinidad hasta el tercer grado de los socios o partícipes, consejeros o administradores.
+
+d) Dos entidades que pertenezcan a un grupo.
+
+e) Una entidad y los socios o partícipes de otra entidad, cuando ambas entidades pertenezcan a un grupo.
+
+f) Una entidad y los consejeros o administradores de otra entidad, cuando ambas entidades pertenezcan a un grupo.
+
+g) Una entidad y los cónyuges o personas unidas por relaciones de parentesco, en línea directa o colateral, por consanguinidad o afinidad hasta el tercer grado de los socios o partícipes de otra entidad cuando ambas sociedades pertenezcan a un grupo.
+
+h) Una entidad y otra entidad participada por la primera indirectamente en, al menos, el 25 por 100 del capital social o de los fondos propios.
+
+i) Dos entidades en las cuales los mismos socios partícipes o sus cónyuges, o personas unidas por relaciones de parentesco, en línea directa o colateral, por consanguinidad o afinidad hasta el tercer grado, participen, directa o indirectamente, en, al menos, el 25 por 100 del capital social o de los fondos propios.
+
+j) Una entidad residente en territorio español y sus establecimientos permanentes en el extranjero.
+
+k) Una entidad no residente en territorio español y sus establecimientos permanentes en el mencionado territorio.
+
+l) Dos entidades que formen parte de un grupo que tribute en el régimen de los grupos de sociedades cooperativas.
+
+En los supuestos en los que la vinculación se defina en función de la relación socios o partícipes-entidad, la participación deberá ser igual o superior al 5 por 100, o al 1 por 100 si se trata de valores admitidos a negociación en un mercado regulado. La mención a los administradores incluirá a los de derecho y a los de hecho.
+
+Existe grupo cuando varias sociedades constituyan una unidad de decisión según los criterios establecidos en el artículo 42 del Código de Comercio, con independencia de su residencia y de la obligación de formular cuentas anuales consolidadas.
+
+4. 1.º Para la determinación del valor normal de mercado se aplicará alguno de los siguientes métodos:
+
+a) Método del precio libre comparable, por el que se compara el precio del bien o servicio en una operación entre personas o entidades vinculadas con el precio de un bien o servicio idéntico o de características similares en una operación entre personas o entidades independientes en circunstancias equiparables, efectuando, si fuera preciso, las correcciones necesarias para obtener la equivalencia y considerar las particularidades de la operación.
+
+b) Método del coste incrementado, por el que se añade al valor de adquisición o coste de producción del bien o servicio el margen habitual en operaciones idénticas o similares con personas o entidades independientes o, en su defecto, el margen que personas o entidades independientes aplican a operaciones equiparables, efectuando, si fuera preciso, las correcciones necesarias para obtener la equivalencia y considerar las particularidades de la operación.
+
+c) Método del precio de reventa, por el que se sustrae del precio de venta de un bien o servicio el margen que aplica el propio revendedor en operaciones idénticas o similares con personas o entidades independientes o, en su defecto, el margen que personas o entidades independientes aplican a operaciones equiparables, efectuando, si fuera preciso, las correcciones necesarias para obtener la equivalencia y considerar las particularidades de la operación.
+
+2.º Cuando debido a la complejidad o a la información relativa a las operaciones no puedan aplicarse adecuadamente los métodos anteriores, se podrán aplicar los siguientes métodos para determinar el valor de mercado de la operación:
+
+a) Método de la distribución del resultado, por el que se asigna a cada persona o entidad vinculada que realice de forma conjunta una o varias operaciones la parte del resultado común derivado de dicha operación u operaciones, en función de un criterio que refleje adecuadamente las condiciones que habrían suscrito personas o entidades independientes en circunstancias similares.
+
+b) Método del margen neto del conjunto de operaciones, por el que se atribuye a las operaciones realizadas con una persona o entidad vinculada el resultado neto, calculado sobre costes, ventas o la magnitud que resulte más adecuada en función de las características de las operaciones, que el contribuyente o, en su caso, terceros habrían obtenido en operaciones idénticas o similares realizadas entre partes independientes, efectuando, cuando sea preciso, las correcciones necesarias para obtener la equivalencia y considerar las particularidades de las operaciones.
+
+5. La deducción de los gastos en concepto de servicios entre entidades vinculadas, valorados de acuerdo con lo establecido en el apartado 4, estará condicionada a que los servicios prestados produzcan o puedan producir una ventaja o utilidad a su destinatario.
+
+Cuando se trate de servicios prestados conjuntamente en favor de varias personas o entidades vinculadas, y siempre que no fuera posible la individualización del servicio recibido o la cuantificación de los elementos determinantes de su remuneración, será posible distribuir la contraprestación total entre las personas o entidades beneficiarias de acuerdo con unas reglas de reparto que atiendan a criterios de racionalidad. Se entenderá cumplido este criterio cuando el método aplicado tenga en cuenta, además de la naturaleza del servicio y las circunstancias en que éste se preste, los beneficios obtenidos o susceptibles de ser obtenidos por las personas o entidades destinatarias.
+
+6. La deducción de los gastos derivados de un acuerdo de reparto de costes de bienes o servicios suscrito entre personas o entidades vinculadas, valorados de acuerdo con lo establecido en el apartado 4, estará condicionada al cumplimiento de los siguientes requisitos:
+
+a) Las personas o entidades participantes que suscriban el acuerdo deberán acceder a la propiedad u otro derecho que tenga similares consecuencias económicas sobre los activos o derechos que en su caso sean objeto de adquisición, producción o desarrollo como resultado del acuerdo.
+
+b) La aportación de cada persona o entidad participante deberá tener en cuenta la previsión de utilidades o ventajas que cada uno de ellos espere obtener del acuerdo en atención a criterios de racionalidad.
+
+c) El acuerdo deberá contemplar la variación de sus circunstancias o personas o entidades participantes, estableciendo los pagos compensatorios y ajustes que se estimen necesarios.
+
+El acuerdo suscrito entre personas o entidades vinculadas deberá cumplir los requisitos que reglamentariamente se fijen.
+
+7. Los sujetos pasivos podrán solicitar a la Administración tributaria que determine la valoración de las operaciones efectuadas entre personas o entidades vinculadas con carácter previo a la realización de éstas. Dicha solicitud se acompañará de una propuesta que se fundamentará en el valor normal de mercado.
+
+La Administración tributaria podrá formalizar acuerdos con otras Administraciones a los efectos de determinar conjuntamente el valor normal de mercado de las operaciones.
+
+El acuerdo de valoración surtirá efectos respecto de las operaciones realizadas con posterioridad a la fecha en que se apruebe, y tendrá validez durante los períodos impositivos que se concreten en el propio acuerdo, sin que pueda exceder de los cuatro períodos impositivos siguientes al de la fecha en que se apruebe. Asimismo, podrá determinarse que sus efectos alcancen a las operaciones del período impositivo en curso, así como a las operaciones realizadas en el período impositivo anterior, siempre que no hubiera finalizado el plazo voluntario de presentación de la declaración por el impuesto correspondiente.
+
+En el supuesto de variación significativa de las circunstancias económicas existentes en el momento de la aprobación del acuerdo de la Administración tributaria, éste podrá ser modificado para adecuarlo a las nuevas circunstancias económicas.
+
+Las propuestas a que se refiere este apartado podrán entenderse desestimadas una vez transcurrido el plazo de resolución.
+
+Reglamentariamente se fijará el procedimiento para la resolución de los acuerdos de valoración de operaciones vinculadas, así como el de sus posibles prórrogas.
+
+8. En aquellas operaciones en las cuales el valor convenido sea distinto del valor normal de mercado, la diferencia entre ambos valores tendrá para las personas o entidades vinculadas el tratamiento fiscal que corresponda a la naturaleza de las rentas puestas de manifiesto como consecuencia de la existencia de dicha diferencia.
+
+En particular, en los supuestos en los que la vinculación se defina en función de la relación socios o partícipes-entidad, la diferencia tendrá, en la proporción que corresponda al porcentaje de participación en la entidad, la consideración de participación en beneficios de entidades si dicha diferencia fuese a favor del socio o partícipe, o, con carácter general, de aportaciones del socio o partícipe a los fondos propios si la diferencia fuese a favor de la entidad.
+
+9. Reglamentariamente se regulará la comprobación del valor normal de mercado en las operaciones vinculadas con arreglo a las siguientes normas:
+
+1.º La comprobación de valor se llevará a cabo en el seno del procedimiento iniciado respecto del obligado tributario cuya situación tributaria vaya a ser objeto de comprobación. Sin perjuicio de lo dispuesto en el siguiente párrafo, estas actuaciones se entenderán exclusivamente con dicho obligado tributario.
+
+2.º Si contra la liquidación provisional practicada a dicho obligado tributario como consecuencia de la corrección valorativa, éste interpusiera el correspondiente recurso o reclamación o insta la tasación pericial contradictoria, se notificará dicha circunstancia a las demás personas o entidades vinculadas afectadas, al objeto de que puedan personarse en el correspondiente procedimiento y presentar las oportunas alegaciones.
+
+Transcurridos los plazos oportunos sin que el obligado tributario haya interpuesto recurso o reclamación o instado la tasación pericial, se notificará la valoración a las demás personas o entidades vinculadas afectadas, para que aquellos que lo deseen puedan optar de forma conjunta por promover la tasación pericial o interponer el oportuno recurso o reclamación. La interposición de recurso o reclamación o la promoción de la tasación pericial contradictoria interrumpirá el plazo de prescripción del derecho de la Administración tributaria a efectuar las oportunas liquidaciones al obligado tributario, iniciándose de nuevo el cómputo de dicho plazo cuando la valoración practicada por la Administración haya adquirido firmeza.
+
+3.º La firmeza de la valoración contenida en la liquidación determinará la eficacia y firmeza del valor de mercado frente a las demás personas o entidades vinculadas. La Administración tributaria efectuará las regularizaciones que correspondan en los términos que reglamentariamente se establezcan.
+
+4.º Lo dispuesto en este apartado será aplicable respecto de las personas o entidades vinculadas afectadas por la corrección valorativa que sean sujetos pasivos del Impuesto sobre Sociedades, contribuyentes del Impuesto sobre la Renta de las Personas Físicas o establecimientos permanentes de contribuyentes del Impuesto sobre la Renta de No Residentes.
+
+5.º Lo dispuesto en este apartado se entenderá sin perjuicio de lo previsto en los tratados y convenios internacionales que hayan pasado a formar parte del ordenamiento interno.
+
+10. Constituye infracción tributaria no aportar o aportar de forma incompleta, inexacta o con datos falsos la documentación que conforme a lo previsto en el apartado 2 de este artículo y en su normativa de desarrollo deban mantener a disposición de la Administración tributaria las personas o entidades vinculadas.
+
+También constituye infracción tributaria que el valor normal de mercado que se derive de la documentación prevista en este artículo y en su normativa de desarrollo no sea el declarado en el Impuesto sobre Sociedades, el Impuesto sobre la Renta de las Personas Físicas o el Impuesto sobre la Renta de No Residentes.
+
+Esta infracción será grave y se sancionará de acuerdo con las siguientes normas:
+
+1.º Cuando no proceda efectuar correcciones valorativas por la Administración tributaria respecto de las operaciones sujetas al Impuesto sobre Sociedades, al Impuesto sobre la Renta de las Personas Físicas o al Impuesto sobre la Renta de No Residentes, la sanción consistirá en multa pecuniaria fija de 1.500 euros por cada dato y 15.000 euros por conjunto de datos, omitido, inexacto o falso, referidos a cada una de las obligaciones de documentación que se establezcan reglamentariamente para el grupo o para cada entidad en su condición de sujeto pasivo o contribuyente.
+
+2.º Cuando proceda efectuar correcciones valorativas por la Administración tributaria respecto de las operaciones sujetas al Impuesto sobre Sociedades, al Impuesto sobre la Renta de las Personas Físicas o al Impuesto sobre la Renta de No Residentes, la sanción consistirá en multa pecuniaria proporcional del 15 por ciento sobre el importe de las cantidades que resulten de las correcciones valorativas de cada operación, con un mínimo del doble de la sanción que correspondería por aplicación del número 1.º anterior. Esta sanción será incompatible con la que proceda, en su caso, por la aplicación de los artículos 191, 192, 193 ó 195 de la Ley 58/2003, de 17 de diciembre, General Tributaria, por la parte de bases que hubiesen dado lugar a la imposición de la infracción prevista en este número.
+
+La cuantía de las sanciones pecuniarias impuestas de acuerdo con lo previsto en este número se reducirá conforme a lo dispuesto en el artículo 188.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+3.º La cuantía de las sanciones pecuniarias impuestas de acuerdo con lo previsto en los números 1.º y 2.º de este apartado se reducirán conforme a lo dispuesto en el artículo 188.3 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+4.º Cuando proceda efectuar correcciones valorativas por la Administración tributaria respecto de las operaciones sujetas al Impuesto sobre Sociedades, al Impuesto sobre la Renta de las Personas Físicas o al Impuesto sobre la Renta de No Residentes sin que se haya producido el incumplimiento que constituye esta infracción y dicha corrección origine falta de ingreso, obtención indebida de devoluciones tributarias o determinación o acreditación improcedente de partidas a compensar en declaraciones futuras o se declare incorrectamente la renta neta sin que produzca falta de ingreso u obtención indebida de devoluciones por haberse compensado en un procedimiento de comprobación o investigación cantidades pendientes de compensación, deducción o aplicación, dichas conductas no constituirán comisión de las infracciones de los artículos 191, 192, 193 ó 195 de la Ley 58/2003, de 17 de diciembre, General Tributaria, por la parte de bases que hubiesen dado lugar a corrección valorativa.
+
+5.º Las sanciones previstas en este apartado serán compatibles con la establecida para la resistencia, obstrucción, excusa o negativa a las actuaciones de la Administración tributaria en el artículo 203 de la Ley 58/2003, de 17 de diciembre, General Tributaria, por la desatención de los requerimientos realizados.»
+
+Tres. Se modifica el apartado 2 del artículo 17, que queda redactado de la siguiente manera:
+
+«2. Las operaciones que se efectúen con personas o entidades residentes en países o territorios considerados como paraísos fiscales se valorarán por su valor normal de mercado siempre que no determine una tributación en España inferior a la que hubiere correspondido por aplicación del valor convenido o un diferimiento de dicha tributación.
+
+Quienes realicen las operaciones señaladas en el párrafo anterior estarán sujetos a la obligación de documentación a que se refiere el artículo 16.2 de esta Ley con las especialidades que reglamentariamente se establezcan.»
+
+Cuatro. Se modifica el apartado 3 del artículo 20, que queda redactado en los siguientes términos:
+
+«3. Los sujetos pasivos podrán someter a la Administración tributaria, en los términos del artículo 16.7 de esta ley, una propuesta para la aplicación de un coeficiente distinto del establecido en el apartado 1. La propuesta se fundamentará en el endeudamiento que el sujeto pasivo hubiese podido obtener en condiciones normales de mercado de personas o entidades no vinculadas.
+
+Lo previsto en este apartado no será de aplicación a las operaciones efectuadas con o por personas o entidades residentes en países o territorios considerados como paraísos fiscales.»

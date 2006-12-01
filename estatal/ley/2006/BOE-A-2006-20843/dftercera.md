@@ -1,0 +1,7 @@
+## Disposición final tercera. Modificación de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía.
+
+Con efectos a partir de la entrada en vigor de esta Ley se modifica el apartado 2 del artículo 44 de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, que queda redactado como sigue:
+
+«2. La competencia normativa podrá ejercerse bien en todos los productos gravados, bien sólo en algunos de ellos.
+
+Cuando se trate de gasóleo de uso general, las Comunidades Autónomas podrán no ejercer, en todo o en parte, la competencia normativa en relación con el gasóleo al que resulte aplicable la devolución del Impuesto sobre Hidrocarburos establecida en el artículo 52 bis de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales. En tal caso, la no aplicación total o parcial del tipo de gravamen autonómico revestirá la forma de devolución parcial del impuesto previamente satisfecho respecto del referido gasóleo, en los términos que establezca la normativa reguladora del Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos. En el supuesto indicado la Comunidad Autónoma fijará el tipo de devolución, cuyo importe no podrá exceder del importe del tipo de gravamen autonómico al que hubiera tributado el indicado gasóleo.»

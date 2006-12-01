@@ -17,3 +17,11 @@ Reglamentariamente se podrán establecer reglas especiales y excepciones a la ci
 De igual manera, las entidades de crédito exigirán la comunicación del número de identificación fiscal a las personas o entidades que presenten al cobro, cuando el abono no se realice en una cuenta bancaria, cheques emitidos por una entidad de crédito. También lo exigirán en caso de cheques librados por personas distintas por cuantía superior a 3.000 euros. En ambos casos deberá quedar constancia del pago del cheque así como de la identificación del tenedor que lo presente al cobro.
 
 Reglamentariamente se establecerá la forma en que las entidades de crédito deberán dejar constancia y comunicar a la Administración tributaria los datos a que se refieren los párrafos anteriores.
+
+4. La publicación de la revocación del número de identificación fiscal asignado a las personas jurídicas o entidades en el Boletín Oficial del Estado determinará que el registro público correspondiente, en función del tipo de entidad de que se trate, proceda a extender en la hoja abierta a la entidad a la que afecte la revocación una nota marginal en la que se hará constar que, en lo sucesivo, no podrá realizarse inscripción alguna que afecte a esta, salvo que se rehabilite dicho número o se asigne un nuevo número de identificación fiscal.
+
+Asimismo, determinará que las entidades de crédito no realicen cargos o abonos en las cuentas o depósitos de que dispongan las personas jurídicas o entidades sin personalidad a quienes se revoque el número de identificación fiscal, en tanto no se produzca la rehabilitación de dicho número o la asignación a la persona jurídica o entidad afectada de un nuevo número de identificación fiscal.
+
+Lo dispuesto en este apartado se entenderá sin perjuicio del cumplimiento por la entidad de las obligaciones tributarias pendientes, para lo que se utilizará transitoriamente el número de identificación fiscal revocado.
+
+> Se añade un apartado 4 por el art. 5.17 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843
