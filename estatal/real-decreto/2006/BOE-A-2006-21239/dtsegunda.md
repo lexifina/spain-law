@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Financiación en 2006 de la cotización a la Seguridad Social de los perceptores de la renta activa de inserción.
+
+En consideración a la aprobación y entrada en vigor de la nueva regulación del programa de la renta activa de inserción con posterioridad a la aprobación de la Ley 30/2005, de 29 de diciembre, de Presupuestos Generales del Estado para el año 2006, la financiación de la cotización a la Seguridad Social de los perceptores de la renta activa de inserción a que se refiere el artículo 4 de este Real Decreto, imputable al ejercicio económico de 2006, se sufragará con cargo al presupuesto de gastos del Servicio Público de Empleo Estatal.
