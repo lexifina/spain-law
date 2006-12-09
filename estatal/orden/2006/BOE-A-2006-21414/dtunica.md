@@ -1,0 +1,5 @@
+## Disposición transitoria única. Instrumentos en servicio.
+
+Los analizadores de gases de escape que se encuentren en servicio a la entrada en vigor de esta orden podrán seguir siendo utilizados siempre que superen satisfactoriamente la fase de control metrológico regulada en el capítulo III precedente, referido a la verificación periódica.
+
+Los analizadores de gases de escape que se encuentren en servicio a la entrada en vigor de esta orden y que no hubiesen estado sometidos al control metrológico según la Orden del Ministerio de Fomento, de 15 de abril de 1998, por la que se regula el control petrológico del Estado sobre los instrumentos destinados a medir las emisiones de los gases de escape de los vehículos equipados con motores de encendido por chispa (gasolina), y cuyos modelos cumplan con las reglas técnicas, normas o procedimientos indicados en el Real Decreto 889/2006, de 21 de julio, deberán superar la fase de control metrológico regulada en el capítulo III de esta orden antes del 1 de enero de 2008.
