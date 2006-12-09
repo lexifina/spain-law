@@ -1,0 +1,17 @@
+## Artículo tercero. Principios rectores de la política española de gestión de deuda externa.
+
+La política española se inspirará en los siguientes principios:
+
+a) Respeto a la estabilidad financiera y de las obligaciones contractuales. Dado que en condiciones normales el endeudamiento externo es un instrumento de financiación al desarrollo que contribuye a paliar la ausencia de recursos internos y permite acometer inversiones de otro modo imposibles, el principio general de actuación de la política de gestión de la deuda externa debe ser el de respeto de las obligaciones contractuales y de estabilidad en las relaciones financieras. Solo se requerirán actuaciones excepcionales en los casos en que el sobreendeudamiento frene el desarrollo del país deudor.
+
+b) Cooperación al desarrollo. Las medidas en materia de deuda exterior se adaptarán a las necesidades de desarrollo de los países deudores y serán proporcionadas a los problemas financieros de éstos. Estas medidas se dirigirán preferentemente a los países en vías de desarrollo con menor renta y mayor nivel de endeudamiento y, dentro de ellos, a los que sean prioritarios para la cooperación española.
+
+c) Coordinación interna. La política española de gestión de deuda será consistente con la política presupuestaria española y estará vinculada con la política española de cooperación al desarrollo. La coordinación será continuada entre el Ministerio de Economía y de Hacienda, el Ministerio de Industria, Comercio y Turismo y con el Ministerio de Asuntos Exteriores y Cooperación, y se extenderá, caso a caso, a los Ministerios que resulte conveniente. En concreto, el tratamiento de la deuda externa se considerará como una de las actuaciones prioritarias de cooperación financiera dentro de los Planes Directores de la Cooperación Española.
+
+d) Coordinación multilateral. La política española de gestión de la deuda externa será consistente con los compromisos asumidos en el marco multilateral y estará coordinada con las Instituciones Internacionales relacionadas. España optará preferentemente respecto a los países más empobrecidos y endeudados por la atribución de tratamientos concesionales hasta los niveles más ventajosos permitidos por la legalidad vigente y el marco multilateral.
+
+e) Condicionalidad. España se asegurará de que sus actuaciones de deuda exterior sean acompañadas por políticas del país deudor tendentes a solucionar los desequilibrios que les condujeron a una situación de endeudamiento que requiera tratamientos excepcionales. Se prestará especial atención a que los países beneficiarios de tratamientos de deuda se comprometan de forma expresa y verificable a reducir el nivel de pobreza, a avanzar en la democratización del país, a progresar significativamente en el respeto de los derechos humanos, a perseguir el crecimiento económico sostenible y el bienestar y el pleno desarrollo social y humano de sus pueblos y a la conservación del medio ambiente.
+
+f) Las actuaciones en materia de deuda externa dirigidas a los países de origen de los flujos migratorios que recibe España deberían incluir fórmulas de participación de los propios migrantes, de modo que puedan contribuir al desarrollo de sus países.
+
+g) Estos principios se complementan con los generales relativos a la actuación administrativa, de transparencia y control parlamentario, así como la participación de la sociedad civil. Esta última se realizará en el Consejo de Cooperación, órgano previsto en la Ley 23/1998, de 7 de julio, de Cooperación Internacional para el Desarrollo.
