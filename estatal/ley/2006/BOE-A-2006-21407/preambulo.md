@@ -1,0 +1,43 @@
+## JUAN CARLOS I
+
+## REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+
+## EXPOSICIÓN DE MOTIVOS
+
+## I
+
+El artículo 205 del Texto Refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto legislativo 1/1994, de 20 de junio, que determina las personas que están protegidas ante la contingencia de desempleo, no incluye entre ellas a quienes desempeñan cargos públicos, electos o por designación, y ello a pesar de que dichos cargos públicos hayan sido incluidos legalmente, de forma expresa, en el ámbito de aplicación del Régimen General de la Seguridad Social y no se haya previsto en la correspondiente norma la exclusión de la protección de ninguna de las contingencias a que alcanza la acción protectora del indicado régimen de la Seguridad Social.
+
+Nos estamos refiriendo, en concreto, de una parte a los cargos electos de las corporaciones locales que desempeñan su función con dedicación exclusiva o parcial y percibiendo una retribución y que fueron incluidos, en la forma indicada, en el ámbito de aplicación del Régimen General de la Seguridad Social en virtud de lo dispuesto en el número 1 del artículo 75 de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local, inclusión que posteriormente ha sido recogida en el apartado j) del número 2 del artículo 97 del Texto refundido de la Ley General de la Seguridad Social; aunque no ha sido todavía actualizada a las modificaciones posteriores de la propia Ley de Bases de Régimen Local; y por otra parte; a los altos cargos de las Administraciones Públicas que no sean funcionarios, que fueron incluidos también en el ámbito de aplicación del Régimen General de la Seguridad Social en virtud de lo establecido en el número 2 de la disposición adicional tercera de la Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública, inclusión que también posteriormente fue recogida en el apartado h) del número 2 del artículo 97 del Texto refundido de la Ley General de la Seguridad Social.
+
+Asimismo, tampoco se incluye en el indicado artículo del Texto refundido de la Ley General de la Seguridad Social entre las personas protegidas de la contingencia de desempleo a los cargos sindicales representativos que ejercen funciones de dirección en el sindicato en régimen de dedicación exclusiva o parcial y percibiendo una retribución; en este caso, además no está prevista en ninguna norma legal la inclusión de estas personas en el ámbito de aplicación del sistema de la Seguridad Social ni a efectos de protección por desempleo ni del resto de contingencias protegidas por la Seguridad Social.
+
+## II
+
+La exclusión de los cargos públicos y sindicales a que se refiere el número anterior de la protección por desempleo obedece más a razones formales que materiales.
+
+En efecto, aunque los indicados cargos no pueden ser considerados propiamente trabajadores por cuenta ajena, es lo cierto, no obstante, que la situación en que se encuentran los mismos cuando pierden el cargo es bastante similar a la que se encuentra un trabajador por cuenta ajena cuando pierde su trabajo; en ambos casos, la consecuencia inmediata que se produce es que se pierde la retribución que llevaba aparejada la actividad que se venía realizando y se deja de realizar.
+
+Por ello, las razones que sistemáticamente se han esgrimido para no reconocer la protección por desempleo a los indicados cargos públicos y sindicales es que los mismos no estaban incluidos expresamente entre las personas a las que legalmente se les reconocía la protección por desempleo y asimismo, que la pérdida de dichos cargos no estaba contemplada entre las situaciones legales de desempleo que se recogían en la ley.
+
+En esta línea, el Tribunal Constitucional indica, en su Sentencia 44/2004, de 23 de marzo, referida al reconocimiento de la protección por desempleo de los referidos cargos sindicales, que la inclusión o no de éstos en el sistema de protección por desempleo, y consiguientemente también en el sistema de la Seguridad Social, es simplemente una opción del legislador, pues no ve ningún inconveniente para que tal inclusión, por vía legal o reglamentaria haciendo uso de la habilitación que se recoge a tal efecto en el artículo 97.2 del Texto refundido de la Ley General de la Seguridad Social (para la inclusión en el ámbito de aplicación del Régimen General de la Seguridad Social) y en la Disposición Final Quinta, apartado 1, del referido texto legal (para la inclusión por Real Decreto en la protección por desempleo), se pueda producir; al contrario, el Tribunal Constitucional, refiriéndose al supuesto de los cargos sindicales, considera que podría reputarse como deseable el que se produjera la inclusión de dichos cargos en el ámbito de aplicación del sistema de la Seguridad Social, y consiguientemente también en el sistema de protección por desempleo, pues con ello se evitarían posibles perjuicios a la carrera de aseguramiento de quienes accedan a dichos cargos.
+
+## III
+
+Consecuentemente con lo anterior, no parece lógico que se siga privando a los cargos públicos y sindicales que estamos considerando de la protección de la contingencia por desempleo y mucho menos, incluso, de la cobertura general del sistema de la Seguridad Social, ya que como se ha indicado existen razones de justicia y equidad, que justifican la equiparación de dichos cargos a trabajadores por cuenta ajena.
+
+Pues bien, para llevar a cabo dicha equiparación, así como la inclusión de los indicados cargos en el ámbito subjetivo de aplicación del sistema de protección por desempleo, se considera adecuado en este caso utilizar la vía de la ley. Con ella se pueden remover los obstáculos legales que impiden que a los indicados cargos se les pueda reconocer la protección por desempleo cuando cesan en el ejercicio de los mismos.
+
+Para ello, lo que se hace, en un caso, el que afecta a los cargos públicos con dedicación exclusiva, es simplemente modificar los artículos del Texto refundido de la Ley General de la Seguridad Social que determinan, de una parte las personas que están protegidas de la contingencia de desempleo y de otra las situaciones que se consideran constitutivas de la situación legal de desempleo y que son, por tanto, susceptibles de protección; con estas modificaciones lo que se pretende es que se incluya a los indicados cargos entre las personas protegidas de la contingencia de desempleo y a la pérdida involuntaria del cargo como una de las situaciones legales de desempleo.
+
+En cambio, en el caso de los cargos de sindicatos constituidos al amparo de Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, además de modificar en el sentido antes indicado los artículos que delimitan el ámbito de aplicación del sistema de protección por desempleo, también se modifica el artículo que regula el ámbito de aplicación subjetivo del Régimen General de la Seguridad Social, ya que es un presupuesto necesario en este caso para el reconocimiento de la protección por desempleo. De este modo, quedan protegidos por el citado Régimen tanto quienes desempeñen el cargo con dedicación completa -o «exclusiva» en los términos de la presente Ley- como con dedicación parcial.
+
+Además, en el caso de los miembros de las corporaciones locales, se incorpora a la definición del ámbito de aplicación de la Ley General de la Seguridad Social lo que ya estaba previsto en la Ley de Bases de Régimen Local, esto es, se incluye expresamente en el Régimen General a quienes desempeñen esos cargos tanto con dedicación exclusiva como parcial. Para evitar cualquier duda, se menciona expresamente, tanto respecto a su inclusión en el Régimen General de la Seguridad Social como en el ámbito de la protección por desempleo, junto a los miembros de las corporaciones locales, a los miembros de las Juntas Generales de los Territorios Históricos Forales, Cabildos Insulares Canarios y Consejos Insulares Baleares que desempeñen sus cargos con dedicación exclusiva o parcial.
+
+En cuanto a la extensión de la protección por desempleo, dadas las peculiaridades de los sujetos afectados y de las instituciones u organizaciones en que desempeñan su labor, se protege tanto la pérdida absoluta, involuntaria y definitiva del cargo como, en su caso, los supuestos en que, aun manteniendo el cargo, se pierda con carácter involuntario y definitivo la dedicación exclusiva o parcial al mismo.
+
+Con estas modificaciones legales se conseguiría el objetivo perseguido con esta ley que no es otro que extender la protección de la contingencia por desempleo a determinados cargos públicos y sindicales.
