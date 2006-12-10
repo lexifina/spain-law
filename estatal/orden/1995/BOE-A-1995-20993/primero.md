@@ -28,9 +28,17 @@ A los efectos del artículo 38 de la Ley 30/1992, de 26 de noviembre, de Régime
 
 3. En la Armada:
 
-3.1 El Registro General del Cuartel General de la Armada.
+3.1 El Registro General del Cuartel General de la Armada, en Madrid (Madrid).
 
-3.2 Los Registros de las Jefaturas de Flota, de las Zonas Marítimas y de la Jurisdicción Central.
+3.2 El Registro General de Ferrol, en Ferrol (A Coruña).
+
+3.3 El Registro General de Cartagena, en Cartagena (Murcia).
+
+3.4 El Registro General de San Fernando, en San Fernando (Cádiz).
+
+3.5 El Registro General de Rota, en Rota (Cádiz).
+
+3.6 El Registro General de Las Palmas, en Las Palmas de Gran Canaria (Las Palmas).
 
 4. En el Ejército del Aire:
 
@@ -55,6 +63,8 @@ A los efectos del artículo 38 de la Ley 30/1992, de 26 de noviembre, de Régime
 5.7. El Registro del Servicio Militar de Construcciones.
 
 5.8. Los Registros de las Delegaciones Territoriales de dichos organismos autónomos.
+
+> Se modifica el apartado 3 por el apartado único de la Orden DEF/3746/2006, de 30 de noviembre. Ref. BOE-A-2006-21505.
 
 > Se modifica el apartado 2 por el apartado único de la Orden DEF/807/2006, de 13 de marzo. Ref. BOE-A-2006-5125.
 
