@@ -1,0 +1,19 @@
+La anisakiasis humana es un problema de salud pública cuya incidencia está aumentando en los últimos años, como demuestran diversos estudios, entre ellos los del Centro Nacional de Epidemiología y del Comité Científico de la Agencia Española de Seguridad Alimentaria. Este aumento podría ser debido a una mayor infestación del pescado capturado en todos los mares y consumido en España, a mejoras en el diagnóstico de la enfermedad gracias al progreso de nuestro sistema sanitario y a la multiplicación de la costumbre de comer pescado crudo o poco cocinado.
+
+El problema es, pues, complejo y afecta a toda la cadena alimentaria desde la pesca hasta el consumo final, así como al sistema sanitario. Su solución exige un planteamiento integral, desde la introducción de mejoras en las fases de extracción y elaboración hasta el perfeccionamiento de las intervenciones médicas. En este contexto, las medidas preventivas son esenciales y entre ellas la congelación del pescado a consumir en crudo y la adecuada cocción del pescado cocinado se han revelado muy eficaces. Estas medidas no excluyen trabajar en otros ámbitos de la cadena alimentaria, particularmente en el sector primario, ni informar a los consumidores de la necesidad de prevenir esta parasitosis en el hogar.
+
+El objetivo de este real decreto es, precisamente, contribuir a la solución del problema, haciendo obligatoria la garantía de aplicación de estos procesos por los establecimientos que sirven comidas, ordenar la puesta en marcha de un plan general de control sanitario de la parasitosis por anisakis con participación de todas la Administraciones públicas implicadas y los sectores privados concernidos y, finalmente, mejorar la información a los consumidores y la formación del personal de los establecimientos afectados.
+
+Actuaciones de este tipo para la prevención de parasitosis están previstas desde hace tiempo en la normativa comunitaria. Primero en la Directiva 91/493/CEE del Consejo, de 22 de julio de 1991, por la que se fijan las normas sanitarias aplicables a la producción y a la puesta en el mercado de los productos pesqueros y después, en la Decisión 93/140/CEE de la Comisión, de 19 de enero de 1993, por la que se establecen las modalidades de control visual para detectar parásitos en los productos de la pesca, disposiciones actualmente derogadas.
+
+La normativa vigente relevante es el Reglamento CE) n.º 853/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, por el que se establecen normas específicas de higiene de los alimentos de origen animal. Este reglamento prevé la obligación de congelar los productos de la pesca para consumir crudos o prácticamente crudos, incluso en el comercio al por menor (que abarca a los establecimientos que sirven comida), matizada en el caso de ahumados, escabeches y salazones.
+
+Por su parte el Reglamento (CE) n.º 2074/2005 de la Comisión, de 5 de diciembre de 2005, establece normas detalladas que recaen sobre los operadores de empresas alimentarias relativas a las inspecciones visuales para detectar parásitos en los productos de la pesca.
+
+En la elaboración de este real decreto han sido oídos los sectores afectados y consultadas las comunidades autónomas, y ha emitido su informe preceptivo la Comisión Interministerial para la Ordenación Alimentaria.
+
+Este real decreto, que tiene carácter de norma básica, se dicta al amparo de lo dispuesto en el artículo 149.1.16.ª de la Constitución, por el que se atribuye al Estado la competencia exclusiva en materia de bases y coordinación general de la sanidad, y de acuerdo con lo establecido en el artículo 40.2 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 1 de diciembre de 2006,
+
+DISPONGO:
