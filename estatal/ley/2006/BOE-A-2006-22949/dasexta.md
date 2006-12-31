@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Modernización de los Servicios Públicos de Empleo.
+
+El Gobierno instrumentará en un plazo de tres meses desde la entrada en vigor de esta Ley un Plan Global de Modernización del Servicio Público de Empleo Estatal que garantice la modernización y mejora de los recursos materiales y tecnológicos de la red de oficinas y que contará con una adecuada dotación presupuestaria que se reflejará en la Ley de Presupuestos Generales del Estado para el año 2007. Este Plan incluirá necesariamente un Plan Estratégico de Recursos Humanos del Servicio Público de Empleo Estatal para mejorar su estructura organizativa y la situación laboral y retributiva de su personal.

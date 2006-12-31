@@ -1,1 +1,1 @@
-Se derogan las referencias a las bonificaciones en las cuotas empresariales a la Seguridad Social por la disposición derogatoria única.2.c) del Real Decreto-ley 5/2006, de 9 de junio. Ref. BOE-A-2006-10562.
+Téngase en cuenta que se derogan las referencias a las bonificaciones en las cuotas empresariales a la Seguridad Social por la disposición derogatoria única.2.c) de la Ley 43/2006, de 29 de diciembre. Ref. BOE-A-2006-22949.

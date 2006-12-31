@@ -10,4 +10,8 @@ Diez. Autorizaciones y mandatos al Gobierno.
 
 3. (Derogado)
 
+> Se deroga, excepto los apartados 1 y 2 del punto 10 por la disposición derogatoria única.1.e) de la Ley 43/2006, de 29 de diciembre. Ref. BOE-A-2006-22949.
+
+> Téngase en cuenta que ésta derogación ya fue realizada por el Real Decreto-ley 5/2006, de 9 de junio.
+
 > Se deroga, excepto los apartados 1 y 2 del punto 10 por la disposición derogatoria única.1.e) del Real Decreto-ley 5/2006, de 9 de junio. Ref. BOE-A-2006-10562.

@@ -1,0 +1,9 @@
+## Disposición adicional tercera. Financiación, aplicación y control de los incentivos del Programa de Fomento del empleo.
+
+1. Las bonificaciones previstas para las contrataciones establecidas en el Programa de Fomento del empleo regulado en esta Ley, se financiarán con cargo a la correspondiente partida presupuestaria del Servicio Público de Empleo Estatal.
+
+2. Las bonificaciones de cuotas de la Seguridad Social se aplicarán por los empleadores con carácter automático en los correspondientes documentos de cotización, sin perjuicio de su control y revisión por la Inspección de Trabajo y Seguridad Social, por la Tesorería General de Seguridad Social y por el Servicio Público de Empleo Estatal.
+
+3. La Tesorería General de la Seguridad Social facilitará mensualmente al Servicio Público de Empleo Estatal, el número de trabajadores objeto de bonificaciones de cuotas a la Seguridad Social, desagregados por cada uno de los colectivos de bonificación, con sus respectivas bases de cotización y las deducciones que se apliquen de acuerdo con los programas de incentivos al empleo y que son financiadas por el Servicio Público de Empleo Estatal.
+
+4. Con la misma periodicidad, la Dirección General del Servicio Público de Empleo Estatal, facilitará a la Dirección General de Inspección de Trabajo y Seguridad Social la información necesaria sobre el número de contratos comunicados objeto de bonificaciones de cuotas, detallados por colectivos, así como cuanta información relativa a las cotizaciones y deducciones aplicadas a los mismos sea precisa, al efecto de facilitar a este centro directivo la planificación y programación de la actuación inspectora que permita vigilar la adecuada aplicación de las bonificaciones previstas en los correspondientes programas de incentivos al empleo, por los sujetos beneficiarios de la misma.

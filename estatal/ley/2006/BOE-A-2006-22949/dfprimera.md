@@ -1,0 +1,5 @@
+## Disposición final primera. Consulta y participación de los interlocutores sociales y Comunidades Autónomas en la definición de los objetivos y programas del Sistema de la Inspección de Trabajo y Seguridad Social.
+
+Las Organizaciones sindicales y empresariales más representativas serán consultadas y podrán formular propuestas sobre los objetivos y programas del Sistema de Inspección de Trabajo y Seguridad Social, en el ámbito de la Administración General del Estado y de las Comunidades Autónomas, a través de órganos de representación de carácter consultivo de composición tripartita y paritaria.
+
+A tal efecto, el Ministro de Trabajo y Asuntos Sociales dictará, en el plazo de tres meses, las normas oportunas para la constitución del órgano correspondiente en el ámbito de la Administración General del Estado. Las Comunidades Autónomas, en función de su capacidad de autoorganización, establecerán las correspondientes instancias de esta participación de las Organizaciones sindicales y empresariales más representativas.

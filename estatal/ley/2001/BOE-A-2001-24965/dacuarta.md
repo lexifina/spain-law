@@ -26,6 +26,10 @@ Tres. (Derogado)
 
 Tres. (Derogado)
 
+> Se deroga el apartado 3 por la disposición derogatoria única.1.c) de la Ley 43/2006, de 29 de diciembre. Ref. BOE-A-2006-22949.
+
+> Téngase en cuenta que ya estaba derogado por el Real Decreto-Ley 5/2006, de 9 de junio.
+
 > Se deroga el apartado 3 por la disposición derogatoria única.1.c) del Real Decreto-Ley 5/2006, de 9 de junio. Ref. BOE-A-2006-10562.
 
 > Se deroga el apartado 3 añadido por Real Decreto-Ley 16/2001, de 27 de diciembre, según la disposición derogatoria única.a) de la Ley 35/2002, de 12 de julio. Ref. BOE-A-2002-13972.
