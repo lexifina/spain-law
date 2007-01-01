@@ -340,11 +340,18 @@ A los efectos anteriores, el Gestor Técnico del Sistema determinará las existe
 
 Se entenderá a los efectos de esta norma como un mismo usuario de la planta al conjunto de usuarios que pertenezcan a un mismo grupo empresarial.
 
-Cuando las existencias medias de GNL de un usuario superen el máximo valor permitido, el titular de las instalaciones procederá a aplicar al exceso de GNL que se encuentre por encima de dicho valor, el canon de almacenamiento correspondiente incrementado de acuerdo con lo siguiente:
+Cuando las existencias medias de GNL de un usuario superen el máximo permitido, el Gestor Técnico del Sistema procederá a aplicar al exceso de GNL que se encuentre por encima de dicho valor, el canon de almacenamiento correspondiente incrementado de acuerdo con lo siguiente:
 
-Al exceso inferior o igual a medio día de la capacidad contratada, se le aplicará 5 veces el canon de almacenamiento de GNL.
+A los excesos sobre los ocho días de almacenamiento de GNL se les aplicará los siguientes cánones:
 
-Al exceso superior a medio día de la capacidad contratada, se le aplicará 30 veces el canon de almacenamiento de GNL.
+|  | Tres veces el canon de almacenamiento | Quince veces el canon de almacenamiento |
+| --- | --- | --- |
+| Trimestre 1.º | Por encima de 8 días | Por encima de 8,5 días |
+| Trimestre 2.º | Por encima de 9 días | Por encima de 9,5 días |
+| Trimestre 3.º | Por encima de 9 días | Por encima de 9,5 días |
+| Trimestre 4.º | Por encima de 8 días | Por encima de 8,5 días |
+
+Se faculta a la Dirección General de Política Energética y Minas a dictar resolución modificando los días por exceso a los que se aplican los cánones anteriores, en función de la evolución del mercado y la capacidad de almacenamiento y a propuesta del Gestor Técnico del Sistema.
 
 Esta facturación tendrá la consideración de ingreso liquidable del sistema.
 
@@ -359,5 +366,7 @@ Número de buques previstos, por tamaño de buque.
 Cantidad de gas a descargar.
 
 Ventanas libres de descarga si las hubiera, indicando para cada mes los días concretos en los que podrían haber posibilidad de descarga de nuevos buques y posibles tamaños admisibles.
+
+> Se modifica el cuarto párrafo del apartado 3.6.3 por la disposición final 1 de la Orden ITC/3996/2006, de 29 de diciembre. Ref. BOE-A-2006-22968.
 
 > Se modifica el apartado 3.6.3 por el art. único de la Resolución de 28 de julio de 2006. Ref. BOE-A-2006-14081.
