@@ -6,10 +6,10 @@
 | --- | --- | --- |
 | Perjuicios económicos |  |  |
 | Ingresos netos anuales de la víctima por trabajo personal: |  |  |
-| Hasta 24.153,53 euros (1) | Hasta el 10 | – |
-| De 24.153,54 a 48.307,06 euros | Del 11 al 25 | – |
-| De 48.307,07 hasta 80.511,76 euros | Del 26 al 50 | – |
-| Más de 80.511,76 euros | Del 51 al 75 | – |
+| Hasta 24.805,67 euros (1) | Hasta el 10 | – |
+| De 24.805,68 a 49.611,35 euros | Del 11 al 25 | – |
+| De 49.611,36 hasta 82.685,58 euros | Del 26 al 50 | – |
+| Más de 82.685,58 euros | Del 51 al 75 | – |
 | Circunstancias familiares especiales |  |  |
 | Discapacidad física o psíquica acusada (anterior al accidente) del perjudicado/beneficiario: |  |  |
 | Si es cónyuge o hijo menor | Del 75 al 100 (2) |  |
@@ -26,11 +26,11 @@
 | Sin hijos menores de veinticinco años | Del 10 al 25 (3) |  |
 | Víctima embarazada con pérdida de feto a consecuencia del accidente |  |  |
 | Si el concebido fuera el primer hijo: |  |  |
-| Hasta el tercer mes de embarazo | 12.076,76 |  |
-| A partir del tercer mes | 32.204,71 |  |
+| Hasta el tercer mes de embarazo | 12.402,84 |  |
+| A partir del tercer mes | 33.074,24 |  |
 | Si el concebido fuera el segundo hijo o posteriores: |  |  |
-| Hasta el tercer mes | 8.051,18 |  |
-| A partir del tercer mes | 16.102,35 |  |
+| Hasta el tercer mes | 8.268,56 |  |
+| A partir del tercer mes | 16.537,11 |  |
 | Elementos correctores del apartado primero.7 de este anexo. | – | Hasta el 75 |
 
 (1) Se incluirá en este apartado cualquier víctima en edad laboral, aunque no se justifiquen ingresos.
@@ -38,6 +38,8 @@
 (2) Sobre la indemnización que corresponda al beneficiario discapacitado.
 
 (3) Sobre la indemnización básica que corresponda a cada perjudicado.
+
+> Se actualizan las cuantías con vigencia durante el año 2007 por el Anexo de la Resolución de 7 de enero de 2007. Ref. BOE-A-2007-2955.
 
 > Se actualizan las cuantías con vigencia durante el año 2006 por el Anexo I de la Resolución de 24 de enero de 2006. Ref. BOE-A-2006-1695.
 
