@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Valores netos pendientes de amortizar.
+
+En el plazo de seis meses desde la entrada en vigor de la presente orden, la Comisión Nacional de Energía elaborará un estudio acerca de los activos de transporte (sin incluir plantas de regasificación ni almacenamientos subterráneos). Dicho estudio enumerará su fecha de puesta en marcha, sus valores contables brutos y netos, junto con la vida útil a efectos de amortización. Para la realización de dicho estudio, los transportistas estarán obligados a enviar a la Comisión Nacional de Energía la información que ésta requiera.
