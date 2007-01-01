@@ -1,0 +1,49 @@
+## Disposición adicional primera. Clasificación de las empresas acogidas a la disposición transitoria undécima de la Ley del Sector Eléctrico.
+
+Las empresas distribuidoras que adquieran su energía a tarifa de acuerdo con la disposición transitoria undécima de la Ley 54/1997, de 27 de noviembre, a efectos de la entrega a la Comisión Nacional de Energía de las tasas a que se refiere el artículo 3 del presente Real Decreto, se clasifican en los grupos siguientes:
+
+1) Empresas cuya energía entrante en sus redes no sea superior a 15 millones de kWh en el ejercicio anterior. Estas empresas no tendrán obligación de hacer entrega a la Comisión Nacional de Energía de ninguna cantidad de las previstas como porcentajes de facturación en el artículo 3.1 del presente Real Decreto.
+
+2) Empresas cuya energía entrante en sus redes totalice más de 15 y menos de 45 millones de kWh en el ejercicio anterior y tuvieran una distribución de carácter rural diseminado, superior al 10 por 100 de su distribución.
+
+Se considerarán de carácter rural diseminado los núcleos de población siguientes:
+
+a) Inferiores a 2.500 clientes con consumo en baja tensión, por contrato, inferior a la media nacional a tarifas.
+
+b) Entre 2.500 y 4.999 clientes con consumo en baja tensión, por contrato, inferior al 90 por 100 de la media nacional a tarifas.
+
+c) Entre 5.000 y 7.499 clientes con consumo en baja tensión, por contrato, inferior al 80 por 100 de la media nacional a tarifas.
+
+En estos núcleos se contabilizará como energía distribuida con carácter rural diseminada exclusivamente la energía distribuida en baja tensión y los suministros en alta tensión con tarifa "R" de riegos.
+
+En todo caso, no tendrá la consideración de rural diseminado la energía que se distribuya a industrias propias o clientes cuya potencia contratada sea igual o superior a 100 kW, excepto si en este último caso se hace a tarifa de riegos.
+
+Si concurrieran varias empresas distribuidoras en un mismo núcleo de la población se imputaría a cada una de ellas el número de contratos propios.
+
+Para las empresas del grupo 2) la Dirección General de Política Energética y Minas, previo informe de la Comisión Nacional de Energía, podrá autorizar un coeficiente reductor que afecte a los fondos a entregar a la Comisión Nacional de Energía expresados como porcentajes sobre la facturación regulados en el artículo 3.1 del presente Real Decreto.
+
+Dicho coeficiente reductor se calculará de la forma siguiente:
+
+1.º Empresas cuya energía distribuida, sin considerar la correspondiente a consumidores cualificados, hubiera totalizado hasta 30 millones de kWh. El coeficiente reductor se calculará según la siguiente fórmula:
+
+![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANcAAABFCAYAAADZ03P9AAAEtElEQVR4nO2d3XUcIQxG1ZFLSBpxQ65n23EtzkMyx0RmBkmwi2DuPYeHZH/MMPqQ0AhWBAAALnkXkc/ZnZjMm4h8yd+xABjG17+WlXf57mPZRgjhEFXkOz9P+tVqCPgmfMj3TX+b3BdNafgf6rXefmtR9Rq+FlotEtB/U18TbETPrP1sSm91ZoRRgZXG/5AxY2D9HgR2E7RBZLrRVx6gpPQYFrTRj5pgtOe6Ersed9iM2jrmMbVH35TG1xJ86b0i/R8lrlZIWFL2OVvEAAOoLcYzZAy1sbfCPe/7W5+PGLqeqDwTQraIATo5bu6Rgs8UopSGZxV7eQ1eQx0hLu+6LXM4Dp1cLehnZwxLoVjDvPIavN53hLi8E5R+P2HhJhye4U39O8ONjmbS9DV4JohecenPt8StQ8gMoTgM4DCE0iN41wvPJNqXngmiV1ze9ZNe586OFGAQR/hU3lBtXDMzhlpcVkPvmSB6xWUNq/FYG3Pc3JrhZbnpUQ80U1zaE129NnvygidxLKKvXpudMVxNXGc1j2cNYW1ImXqvkSVjuJq4LP3VYzt7XQuDaYV7WTKGq4nLU/KEwDbkmDmvjKY3Y2gNj1rfu1JCozcFPzP8hgGcbasYvTYYJa7oc66oKGt/0/pZ7WUtY6bHg4fHDR6SN636Kfa+eWZhzShx6X5kfogc2aqiw0hCwxN6Sm5ewWHwVmPJkjFcpfwpEuIhrga17E9GcXm8lkjOjGGkcNcb0kbEFX0gjLhOKNPZ3sXsq2ml3q8+M3s9ENlC0jMpRMQV3TKiJ2VKn/6hBz1zWDhi3TRzVvVsliz7/arNkpGqdi3IbDaTiqzisqTea2SqMRSxj21p6NoTWIzZK65aBtYCXstBRnGVs7iXbKFueS2WA2q0KLSnOJswvGn8yHoLYTnJJi4tDi81Y5z9HKbnaLXa9dTGxSLAq/dfjZMOH2dHA8uQSVy1G24RiPUh8+ys1plQvHunvi7+/6yJ+At0I2Gji4f8nFF2OjI4k7igzYcsep8sit3t3ADEtRYPme+Buzg7Q04LyxNq9LrkVosuLhHXOhw2tDS1DE85Y5Qii1Y8Iy7wcNjP8hk6ncH5kJ8Zkk/xXSjigijHZL68sET+N7gjebEriAteSrneesj6SYsrEBe8DF3jtbvB9Yhr5P6nX7StWhW9VWBnryWSR1yW76Gt06qUmcDdvZYI4qI9p/3gmb9QSLbwmt+0rdoPtABGgrjg1pSGNrryF3HBrRlhrKuBuMZTK5OztG2TZ737iFYFcT0XLbTaGEfPOVyG3h98XpW7ZUdfjfVcwK0FFinGXZ3a5r27hMOvQnuuq/HVQtyCO4WEZ7tha22r2XMSrZCwJMuxcADp8R7zFj1HEOB2eM9h1+9HXAAneM+t3+0ICYCn0Pu7V2RuAU7wrp/I2gIYsf7aCh4LwIn2RFev3a1wASCMt0gbYQEYsTwMrv34IKl3gAaekicEBmCkNwW/e/kdQBgdElrWU1pcPDwGqOAteRLhB7wBTERCPMQF0CD6QBhxATSIbhmh9AmgQaSqXQuS8icARe13mS3gtQAaRNZbCAvAQK1m8Cws1OEjtYUAit5TlAEAACAVfwCXmFFldAHTZQAAAABJRU5ErkJggg==)
+
+Siendo A la energía en kWh distribuida en núcleos de población rural diseminado anteriormente definido y B el total de energía distribuida, en ambos casos sin considerar la correspondiente a consumidores cualificados.
+
+2.º Empresas cuya energía distribuida, sin considerar la correspondiente a consumidores cualificados, hubiera totalizado más de 30 y menos de 45 millones de kWh. El coeficiente reductor se calculará según la siguiente fórmula:
+
+![imagen](data:image/png;base64,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)
+
+Siendo A y B los mismos conceptos definidos anteriormente y C el sumatorio de la energía en MWh entrante en las redes del distribuidor medida en los puntos frontera correspondientes en el ejercicio anterior.
+
+Estos coeficientes reductores se redondean a tres cifras decimales por defecto.
+
+La autorización de dicho coeficiente reductor deberá solicitarse a la Dirección General de Política Energética y Minas. La reducción tendrá vigencia por dos años y podrá renovarse o revisarse al cabo de ellos, a solicitud de la empresa interesada.
+
+Para el cómputo de los límites a que se refieren los apartados 1) y 2) anteriores, no se tendrán en cuenta los kWh cedidos y facturados a otro distribuidor en la misma tensión a que se reciben.
+
+Dichos límites podrán ser modificados anualmente por la Dirección General de Política Energética y Minas tomando como referencia el incremento de la demanda del sistema peninsular.
+
+3) Se incluyen en él todas las empresas no comprendidas en los grupos 1 y 2. Entregarán a la Comisión Nacional de Energía las cantidades detalladas en el artículo 3 del presente Real Decreto, con las salvedades que se establecen en el apartado 3 de dicho artículo.
+
+A efectos de la aplicación de la tasa y cuotas se considerarán como ingresos procedentes de la facturación a sus clientes indicados en el artículo 20.3 del Real Decreto 2017/1997, de 26 de diciembre.
