@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Régimen aplicable a los sistemas de Concierto y Convenio.
+
+La financiación de los servicios y prestaciones del Sistema en la Comunidad Autónoma del País Vasco y en la Comunidad Foral de Navarra que corresponda, según lo previsto en el artículo 32 de esta Ley, a la Administración General del Estado con cargo a su presupuesto de gastos se tendrá en cuenta en el cálculo del cupo vasco y de la aportación navarra, de conformidad con el Concierto Económico entre el Estado y la Comunidad del País Vasco y con el Convenio Económico entre el Estado y la Comunidad Foral de Navarra, respectivamente.
