@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Normas derogadas.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto. Quedan expresamente derogados el Real Decreto 1995/1978, de 12 de mayo, por el que se aprueba el cuadro de enfermedades profesionales en el sistema de la Seguridad Social, y la lista de enfermedades profesionales que figura como su anexo, así como el cuadro de enfermedades profesionales y la lista de trabajos con riesgo de producirlas, que figura como anexo al Decreto 3772/1972, de 23 de diciembre, por el que se aprueba el Reglamento general del Régimen Especial Agrario de la Seguridad Social.
