@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Contratos de arrendamiento anteriores al 9 de mayo de 1985.
+
+En la determinación de los rendimientos del capital inmobiliario derivados de contratos de arrendamiento celebrados con anterioridad al 9 de mayo de 1985, que no disfruten del derecho a la revisión de la renta del contrato en virtud de la aplicación de la regla 7.ª del apartado 11 de la disposición transitoria segunda de la Ley 29/1994, de 24 de noviembre, de arrendamientos urbanos, se incluirá adicionalmente, como gasto deducible, mientras subsista esta situación y en concepto de compensación, la cantidad que corresponda a la amortización del inmueble.

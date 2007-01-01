@@ -83,6 +83,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 52](a52.md)
 - [Artículo 53](a53.md)
 - [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
 - [Disposición transitoria única](dtunica-2.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
