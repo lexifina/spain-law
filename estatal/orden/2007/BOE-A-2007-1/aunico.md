@@ -1,0 +1,7 @@
+## Artículo único. Objeto.
+
+1. Se aprueba el Reglamento Técnico del Sistema de Verificación de Datos de Residencia, que figura como anexo a la presente Orden Ministerial, como instrumento que establece la configuración, características, requisitos y procedimientos de acceso al citado Sistema.
+
+2. Se fija como fecha de operatividad del Sistema de Verificación de Datos de Residencia la de entrada en vigor de la presente Orden, a partir de la cual no podrá exigirse en los procedimientos cuya tramitación y resolución corresponda a la Administración General del Estado, o a los Organismos vinculados o dependientes de aquélla, la aportación de certificados de empadronamiento, salvo en los supuestos previstos en el Real Decreto 523/2006, de 28 de abril.
+
+3. La presente Orden Ministerial se aprueba en aplicación de lo dispuesto en la disposición final primera del Real Decreto 523/2006, de 28 de abril, por el que se suprime la exigencia de aportar el certificado de empadronamiento, como documento probatorio del domicilio y residencia, en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes. Lo dispuesto en esta Orden Ministerial se aplicará en todo caso de conformidad con lo previsto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y demás normativa aplicable en esta materia.
