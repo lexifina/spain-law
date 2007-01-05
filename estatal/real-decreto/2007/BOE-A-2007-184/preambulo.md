@@ -1,0 +1,7 @@
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, regula en sus artículos 59, 60, 61 y 62 las enseñanzas de idiomas de régimen especial y establece que estas enseñanzas se organizarán en tres niveles: Básico, intermedio y avanzado. En consonancia con lo dispuesto en el artículo 6.2 de la Ley, el Gobierno debe fijar los aspectos básicos del currículo que constituyen las respectivas enseñanzas mínimas, con el fin de asegurar una formación común y garantizar la validez de los certificados correspondientes. El artículo 59.1 establece que las enseñanzas del nivel básico de idiomas tendrán las características y la organización que las Administraciones educativas determinen y el artículo 60.1 establece que las enseñanzas de idiomas correspondientes a los niveles intermedio y avanzado serán impartidas en las escuelas oficiales de idiomas. En fin, de acuerdo con lo previsto en el artículo 61.1, en la definición de los aspectos básicos del currículo de las distintas lenguas deben determinarse los efectos de los certificados acreditativos de la superación de las exigencias académicas correspondientes a los diferentes niveles.
+
+En el proceso de elaboración de este real decreto han sido consultadas las Comunidades Autónomas y han emitido informe el Consejo Escolar del Estado y el Ministerio de Administraciones Públicas.
+
+En su virtud, a propuesta de la Ministra de Educación y Ciencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión de 29 de diciembre de 2006,
+
+D I S P O N G O :
