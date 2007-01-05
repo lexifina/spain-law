@@ -14,6 +14,38 @@ Abortar.
 
 Interrumpir una maniobra de aeronave previamente planeada (abortar despegue, etc.)
 
+Accidente.
+
+Todo suceso, relacionado con la utilización de una aeronave, que ocurre dentro del período comprendido entre el momento en que una persona entra a bordo de la aeronave, con intención de realizar un vuelo, y el momento en que todas las personas han desembarcado, durante el cual:
+
+a) Cualquier persona sufre lesiones mortales o graves a consecuencia de:
+
+hallarse en la aeronave, o
+
+por contacto directo con cualquier parte de la aeronave, incluso las partes que se hayan desprendido de la aeronave, o
+
+por exposición directa al chorro de un reactor,
+
+excepto cuando las lesiones obedezcan a causas naturales, se las haya causado una persona a sí misma o hayan sido causadas por otras personas o se trate de lesiones sufridas por pasajeros clandestinos escondidos fuera de las áreas destinadas normalmente a los pasajeros y la tripulación; o
+
+b) La aeronave sufre daños o roturas estructurales que:
+
+afectan adversamente su resistencia estructural, su prestación técnica o sus características de vuelo, y
+
+normalmente exigen una reparación importante o el recambio del componente afectado,
+
+excepto por falla o daños del motor, cuando el daño se limita al motor, su capó o sus accesorios; o por daños limitados en las hélices, extremos de ala, antenas, neumáticos, frenos o carenas, pequeñas abolladuras o perforaciones en el revestimiento de la aeronave; o
+
+c) La aeronave desaparece o es totalmente inaccesible.
+
+Actuación humana.
+
+Capacidades y limitaciones humanas que repercuten en la seguridad y eficiencia de las operaciones aeronáuticas.
+
+Acuerdo ADS.
+
+Plan de notificación ADS que rige las condiciones de notificación de datos ADS (o sea, aquéllos que exige la dependencia de servicios de tránsito aéreo, así como la frecuencia de dichas notificaciones, que deben acordarse antes de proporcionarse los servicios ADS).
+
 Acuerdos de tránsito directo.
 
 (Ver Arreglos de tránsito directo).
@@ -49,6 +81,10 @@ Aeródromo de alternativa en el que podría aterrizar una aeronave si esto fuera
 Aeródromo de alternativa en ruta.
 
 Aeródromo en el que podría aterrizar una aeronave si ésta fuera objeto de condiciones anormales o de emergencia en ruta. (1)
+
+Aeródromo de alternativa en ruta para ETOPS.
+
+Aeródromo de alternativa adecuado en el que podría aterrizar un avión con dos grupos motores de turbina si se le apagara un motor o si experimentara otras condiciones no normales o de emergencia en ruta en una operación ETOPS.
 
 Aeródromo de alternativa de destino.
 
@@ -457,6 +493,10 @@ Autoridad meteorológica.
 
 Autoridad que, en nombre del Estado, suministra o hace arreglos para que se suministre servicio meteorológico para la navegación aérea.
 
+Autorización anticipada.
+
+Autorización otorgada a una aeronave por una dependencia de control de tránsito aéreo que no es la autoridad de control actual respecto a dicha aeronave.
+
 Autorización de control de tránsito aéreo.
 
 Autorización para que una aeronave proceda en condiciones especificadas por una dependencia de control de tránsito aéreo.
@@ -570,10 +610,6 @@ Carta en la que figuran las altitudes MSL más bajas a las que un controlador ra
 Carta Operacional.
 
 Carta que recoge el acuerdo suscrito entre el Estado Mayor del Ejército del Aire, la Dirección General de Aviación Civil y el Director General o cargo equivalente del Organismo Público encargado de las operaciones, puntualizando las condiciones, medios y procedimientos necesarios para regular la cooperación mutua o la forma de llevar a cabo ciertas operaciones especiales para la realización de misiones de interés público, que por su urgencia o características pudieran verse afectadas por la estricta observación del Reglamento de Circulación Aérea.
-
-Categoría del vuelo.
-
-Indicación respecto a si las dependencias de los servicios de tránsito aéreo deben conceder o no trato especial a una aeronave dada.
 
 Centro coordinador de salvamento.
 
@@ -731,6 +767,14 @@ Comunicaciones fuera de red.
 
 Comunicaciones radiotelefónicas efectuadas por una estación del servicio móvil aeronáutico, distintas de las realizadas como parte de la red radiotelefónica.
 
+Comunicaciones por enlace de datos.
+
+Forma de comunicación destinada al intercambio de mensajes mediante enlace de datos.
+
+Comunicaciones por enlace de datos controlador piloto (CPDLC).
+
+Comunicación entre el controlador y el piloto por medio de enlace de datos para las comunicaciones ATC.
+
 Comunicación interpiloto aire-aire.
 
 Comunicación en ambos sentidos por un canal aire-aire designado para que, en vuelos sobre áreas remotas y oceánicas, las aeronaves que estén fuera del alcance de estaciones terrestres VHF puedan intercambiar información operacional necesaria y para facilitar la resolución de dificultades operacionales.
@@ -766,6 +810,10 @@ Diálogo con un meteorólogo o con otra persona calificada sobre las condiciones
 Contacto radar.
 
 (Ver Identificación radar).
+
+Contrato ADS.
+
+Medio que permite al sistema de tierra y a la aeronave establecer las condiciones de un acuerdo ADS, en el cual se indican las condiciones en que han de iniciarse los informes ADS, así como los datos que deben figurar en los mismos.
 
 Control de afluencia.
 
@@ -1283,7 +1331,7 @@ Hora a la que el ATC prevé que una aeronave que sale podrá despegar de un aer�
 
 Hora prevista de aproximación.
 
-Hora a la que el ATC prevé que una aeronave que llega, después de haber experimentado una demora, abandonará el punto de espera para completar su aproximación para aterrizar. La hora a que realmente se abandone el punto de espera dependerá de la autorización de aproximación.
+Hora a la que el ATC prevé que una aeronave que llega, después de haber experimentado una demora, abandonará el punto de referencia de espera para completar su aproximación para aterrizar. La hora a que realmente se abandone el punto de referencia de espera dependerá de la autorización de aproximación.
 
 Hora prevista de fuera calzos.
 
@@ -1316,6 +1364,10 @@ Símbolo utilizado para designar las condiciones meteorológicas de vuelo por in
 INCERFA.
 
 Palabra clave utilizada para designar una fase de incertidumbre.
+
+Incidente.
+
+Todo suceso relacionado con la utilización de una aeronave, que no llegue a ser un accidente, que afecte o pueda afectar la seguridad de las operaciones aéreas.
 
 Indicación de posición radar (RPI).
 
@@ -1494,10 +1546,6 @@ Persona a quien el explotador asigna obligaciones que ha de cumplir a bordo, dur
 Miembro de la tripulación de vuelo.
 
 Miembro de la tripulación titular de la correspondiente licencia, a quien se asignan obligaciones esenciales para la operación de una aeronave durante el tiempo de vuelo.
-
-Mínimo de combustible.
-
-Indica que la aeronave dispone de combustible que no permite demora, o muy poca demora, a su llegada al destino. Esta no es una situación de emergencia pero indica que es posible la emergencia si se produjera una demora indebida.
 
 Mínimos de utilización de aeródromo.
 
@@ -1731,6 +1779,10 @@ Permiso de control de tránsito aéreo.
 
 (Véase Autorización de control de tránsito aéreo).
 
+Personal que ejerce funciones significativas desde el punto de vista de la seguridad.
+
+Personas que podrían poner en peligro la seguridad de la aviación si cumplieran sus obligaciones y funciones del modo indebido, lo cual comprende –sin limitarse sólo a los que siguen– a los miembros de tripulaciones, al personal de mantenimiento de aeronaves y a los controladores de tránsito aéreo.
+
 Pilotar.
 
 Manipular los mandos de una aeronave durante el tiempo de vuelo.
@@ -1849,6 +1901,10 @@ Presentación radar.
 
 Presentación electrónica de información derivada del radar que representa la posición y movimiento de las aeronaves.
 
+Principios relativos a factores humanos.
+
+Principios que se aplican al diseño, certificación, instrucción, operaciones y mantenimiento aeronáuticos y cuyo objeto consiste en establecer una interfaz segura entre los componentes humano y de otro tipo del sistema mediante la debida consideración de la actuación humana.
+
 Procedimiento de aproximación frustrada
 
 Procedimiento que hay que seguir si no se puede proseguir la aproximación.
@@ -1943,7 +1999,9 @@ Un punto designado en el que puede requerirse que los vehículos esperen.
 
 Punto de espera en rodaje.
 
-Punto designado en el que las aeronaves en rodaje y los vehículos se detendrán y se mantendrán a la espera, a menos que haya una autorización en contrario por parte de la torre de control de aeródromo.
+Punto designado destinado a proteger una pista, una superficie limitadora de obstáculos o un área crítica o sensible para los sistemas ILS/MLS, en el que las aeronaves en rodaje y los vehículos se detendrán y mantendrán a la espera, a menos que haya una autorización en contrario por parte de la torre de control de aeródromo.
+
+Nota.–En la fraseología radiotelefónica la expresión «punto de espera» designa el punto de espera en rodaje.
 
 Punto de espera en vuelo.
 
@@ -1956,6 +2014,14 @@ Lugar geográfico especificado, con referencia al cual puede notificarse la posi
 Punto de recorrido.
 
 Un lugar geográfico especificado, utilizado para definir una ruta de navegación de área o la trayectoria de vuelo de una aeronave que emplea navegación de área.
+
+Punto de recorrido de paso (vuelo por).
+
+Punto de recorrido que requiere anticipación del viraje para que pueda realizarse la interceptación tangencial del siguiente tramo de una ruta o procedimiento.
+
+Punto de recorrido de sobrevuelo.
+
+Punto de recorrido en el que se inicia el viraje para incorporarse al siguiente tramo de una ruta o procedimiento.
 
 Punto de referencia de aeródromo.
 
@@ -2060,6 +2126,10 @@ El ángulo determinado en una estación radiogoniométrica, formado por la direc
 a) Radiomarcación verdadera es aquella cuya dirección de referencia es el Norte verdadero.
 
 b) Radiomarcación magnética es aquella cuya dirección de referencia es el Norte magnético.
+
+Radiotelefonía.
+
+Forma de radiocomunicación destinada principalmente al intercambio oral de información.
 
 Rastreo.
 
@@ -2198,6 +2268,14 @@ Separación vertical mínima de 300 metros (1.000 pies) que se aplica entre aero
 Servicio automático de información terminal.
 
 El suministro de información regular, actualizada, a las aeronaves que llegan y a las que salen, mediante radiodifusiones continuas y repetitivas durante todo el día o durante una parte determinada del mismo.
+
+Servicio automático de información terminal por enlace de datos (ATIS-D).
+
+Suministro del ATIS mediante enlace de datos.
+
+Servicio automático de información terminal-voz (ATIS-voz).
+
+Suministro del ATIS mediante radiodifusiones orales continuas y repetitivas.
 
 Servicio de alerta.
 
@@ -2349,6 +2427,10 @@ Suplemento AIP.
 
 Modificaciones temporales de la información que figura en las AIP y que se publica en hojas sueltas especiales.
 
+Sustancias psicoactivas.
+
+El alcohol, los opiáceos, los cannabinoides, los sedativos e hipnóticos, la cocaína, otros psicoestimulantes, los alucinógenos y los disolventes volátiles, con exclusión del tabaco y la cafeína, así como otras que determinen las autoridades sanitarias nacionales.
+
 Tabla climatológica de aeródromo.
 
 Tabla que proporciona datos sobre la presencia observada de uno o más elementos meteorológicos en un aeródromo.
@@ -2471,6 +2553,14 @@ Unidad IFPS (IFPU).
 
 Dependencia del sistema integrado para el tratamiento inicial de planes de vuelo (IFPS) encargada del tratamiento y distribución de planes de vuelo y mensajes asociados dentro de una zona determinada.
 
+Uso problemático de ciertas sustancias.
+
+El uso de una o más sustancias psicoactivas por el personal aeronáutico de manera que:
+
+a) constituya un riesgo directo para quien las usa o ponga en peligro las vidas, la salud o el bienestar de otros; o
+
+b) provoque o empeore un problema o desorden de carácter ocupacional, social, mental o físico.
+
 Validación.
 
 Confirmación mediante examen y aporte de pruebas objetivas de que se satisfacen completamente los requisitos concretos para un uso específico previsto.
@@ -2553,7 +2643,15 @@ Pueden designarse como virajes reglamentarios los que se hacen ya sea en vuelo h
 
 Visibilidad.
 
-Distancia, determinada por las condiciones atmosféricas y expresada en unidades de longitud, a que pueden verse e identificarse durante el día objetos prominentes no iluminados y durante la noche objetos prominentes iluminados.
+En sentido aeronáutico se entiende por visibilidad el valor más elevado entre los siguientes:
+
+a) la distancia máxima a la que pueda verse y reconocerse un objeto de color negro de dimensiones convenientes, situado cerca del suelo, al ser observado ante un fondo brillante.
+
+b) la distancia máxima a la que puedan verse e identificarse las luces de aproximadamente mil candelas ante un fondo no iluminado.
+
+Nota 1.–Estas dos distancias tienen distintos valores en una masa de aire de determinado coeficiente de extinción y la distancia de b) varía con la iluminación del fondo. La distancia de a) está representada por el alcance óptico meteorológico (MOR)
+
+Nota 2.–La definición se aplica a las observaciones de visibilidad en los informes locales ordinarios y especiales, a las observaciones de la visibilidad reinante y mínima notificadas en los informes METAR y SPECI y a las observaciones de la visibilidad en tierra.
 
 Visibilidad en tierra.
 
@@ -2874,6 +2972,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | COT | En la costa |
 | COV | Abarcar o abarcado o abarcando |
 | CP | Llamada general a dos o más estaciones especificadas |
+| CPDLC | Comunicaciones por enlace de datos controlador piloto. |
 | CPL | Plan de vuelo actualizado (designador de tipo de mensaje) |
 | CQ | Llamada general a todas las estaciones |
 | CRC | Verificación por redundancia cíclica |
@@ -2968,6 +3067,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | ETA | Hora prevista de llegada o estimo llegar a las... |
 | ETD | Hora prevista de salida o estimo salir a las... |
 | ETO | Hora prevista sobre punto significativo |
+| ETOPS | Operaciones de largo alcance con aviones bimotores. |
 | EUR | Región Europea |
 | EV | Cada |
 | EXC | Excepto |
@@ -3603,6 +3703,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | UTA | Área superior de control |
 | UTC | Tiempo Universal Coordinado |
 | VA | Final de trabajo (...-.- ) |
+| VAAC | Centro de avisos de cenizas volcánicas. |
 | VAC | Carta de aproximación visual |
 | VAL | En los valles |
 | VAL | Carta de aproximación y aterrizaje visual |
@@ -3618,7 +3719,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | VFRN | Reglas de vuelo visual nocturno |
 | VHF | Muy alta frecuencia (30 a 300 M Hz) |
 | VIA | Vía... |
-| VIFNO... | Hora en que expira la autorización ATC... (hora) |
+| VIFNO... | Hora en que expira la autorización de salida expedida por una dependencia ACC o APP. |
 | VIO | Intensa (usada en los informes para calificar interferencia o estáticos) |
 | VIP | Persona muy importante |
 | VIS | Visibilidad |
@@ -3677,6 +3778,8 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | YES | Sí (afirmativo) |
 | YR | Su (de usted) |
 | ZS | Zona de seguridad |
+
+> Se modifican los Capítulos 1 y 2 por el art. único.1 de la Orden PRE/4063/2006, de 29 de diciembre. Ref. BOE-A-2007-187
 
 > Se modifican los Capítulos 1 y 2 por el art. único.1 y 8 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407
 

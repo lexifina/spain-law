@@ -478,6 +478,8 @@ Esto implica que, en caso de que se utilice, el nivel de crucero VFR seleccionad
 
 3.2.11. Establecimiento e identificación de rutas ATS.
 
+Establecimiento e identificación de rutas ATS. Cuando se establezcan las rutas ATS, se proporcionará un espacio aéreo protegido a lo largo de cada ruta ATS y una separación segura entre rutas ATS adyacentes.
+
 3.2.11.1. Las rutas ATS se identificarán por medio de designadores.
 
 3.2.11.2. Los designadores de las rutas ATS distintas de las rutas normalizadas de salida y de llegada se seleccionarán de conformidad con los principios expuestos en el Apéndice N.
@@ -604,6 +606,8 @@ c) comunique tan pronto como sea posible a la oficina meteorológica correspondi
 
 (1) Véase 3.4.2.3. referente a la transmisión de aeronotificaciones especiales.
 
+3.2.19.1 Se mantendrá estrecha coordinación entre los centros de control de área, los centros de información de vuelo y las oficinas de vigilancia meteorológica correspondientes para asegurar que la información acerca de cenizas volcánicas que se incluye en los mensajes NOTAM, ASHTAM y SIGMET sea coherente.
+
 3.2.20. Coordinación entre la autoridad de los servicios de información aeronáutica y la de los servicios de tránsito aéreo.
 
 3.2.20.1. Para garantizar que las dependencias de los servicios de información aeronáutica reciban información que les permita proporcionar información previa al vuelo actualizada y satisfacer la necesidad de contar con información durante el vuelo, se concertarán acuerdos entre la autoridad de los servicios de información aeronáutica y la de los servicios de tránsito aéreo para que el personal de los servicios de tránsito aéreo comunique, con un mínimo de demora, a la dependencia encargada de los servicios de información aeronáutica:
@@ -636,7 +640,13 @@ a) en el Modo A, código 7700; o
 
 b) en el Modo A, código 7500, para indicar en forma específica que está siendo objeto de interferencia ilícita.
 
+c) activar la capacidad de emergencia o urgencia apropiada de la ADS; o
+
+d) transmitir el mensaje de emergencia apropiado mediante el CPDLC.
+
 3.2.22.2. Cuando se sepa o sospeche que una aeronave es objeto de interferencia ilícita, las dependencias ATS atenderán con prontitud las solicitudes de dicha aeronave. Seguirá transmitiéndose la información que proceda para que el vuelo se realice con seguridad, y se tomarán las medidas necesarias para facilitar la realización de todas las fases de vuelo, especialmente el aterrizaje, en condiciones de seguridad.
+
+3.2.22.3 En caso de una emergencia, en las comunicaciones entre las dependencias ATS y las aeronaves deberían observarse los principios relativos a factores humanos.
 
 3.2.23. Contingencias en vuelo.
 
@@ -706,13 +716,13 @@ b) retransmitirá los mensajes entre la aeronave interceptada y la dependencia A
 
 3.2.24. La hora en los servicios de tránsito aéreo.
 
-3.2.24.1. Las dependencias de servicios de tránsito aéreo emplearán el Tiempo Universal Coordinado (UTC) y lo expresarán en horas y minutos del día de 24 horas que comienza a medianoche.
+3.2.24.1. Las dependencias de servicios de tránsito aéreo emplearán el Tiempo Universal Coordinado (UTC) y lo expresarán en horas y minutos y, cuando se requiera, en segundos del día de 24 horas que comienza a medianoche.
 
 3.2.24.2. Las dependencias de servicios de tránsito aéreo estarán dotadas de relojes que indiquen horas, minutos y segundos, claramente visibles desde cada puesto de trabajo de la dependencia.
 
-3.2.24.3. Los relojes de las dependencias de servicios de tránsito aéreo y otros dispositivos para registrar la hora, serán verificados según sea necesario, a fin de que den la hora exacta dentro de más o menos 30 segundos del UTC en todo momento.
+3.2.24.3. Los relojes de las dependencias de servicios de tránsito aéreo y otros dispositivos para registrar la hora, serán verificados según sea necesario, a fin de que den la hora exacta con una tolerancia de más o menos 30 segundos respecto al UTC. Cuando una dependencia de servicios de tránsito aéreo utilice comunicaciones por enlace de datos, los relojes y otros dispositivos para registrar la hora se verificarán según sea necesario, a fin de que den la hora exacta con una tolerancia de un segundo respecto al UTC.
 
-3.2.24.4. La hora exacta deberá obtenerse de una estación homologadora, o si no fuese posible, de otra dependencia que haya obtenido la hora exacta de dicha estación.
+3.2.24.4 La hora exacta deberá obtenerse de una estación normalizada, o si no fuese posible, de otra dependencia que haya obtenido la hora exacta de dicha estación.
 
 3.2.24.5. Las torres de control de aeródromo suministrarán la hora exacta al piloto, antes de que la aeronave inicie su rodaje para el despegue, a menos que se haya dispuesto lo necesario para que el piloto la obtenga de otra fuente.
 
@@ -735,6 +745,38 @@ Nota. La finalidad de esta disposición es aumentar la eficacia de los servicios
 3.2.27 Arreglos para casos de contingencia.
 
 Las autoridades de los servicios de tránsito aéreo elaborarán y promulgarán planes de contingencia para su ejecución en el caso de interrupción, o posible interrupción de los servicios de tránsito aéreo y los servicios de apoyo correspondientes en el espacio aéreo en el que tienen la responsabilidad de proporcionar dichos servicios. Estos planes de contingencia se elaborarán en estrecha coordinación con las autoridades de los servicios de tránsito aéreo responsables del suministro de servicios en partes adyacentes del espacio aéreo y con los usuarios del espacio aéreo correspondientes.
+
+3.2.28 Gestión de la seguridad del ATS.
+
+3.2.28.1 El Estado implantará programas sistemáticos y adecuados de gestión de la seguridad ATM para garantizar que se mantiene la seguridad en el suministro del ATS dentro del espacio aéreo y en los aeródromos.
+
+3.2.28.2 Se deberán establecer niveles aceptables de seguridad aplicables al suministro del ATS dentro del espacio aéreo y en los aeródromos. De ser aplicable, se establecerán los niveles de seguridad y los objetivos de seguridad mediante acuerdos regionales de navegación aérea.
+
+3.2.28.3 En el programa de gestión de la seguridad ATS, entre otras cosas:
+
+a) Se identificarán los peligros reales y posibles y se determinará la necesidad de medidas correctoras;
+
+b) Se asegurará que se aplican las medidas correctoras necesarias para mantener un nivel aceptable de seguridad; y
+
+c) Se preverá la supervisión permanente y evaluación periódica del nivel de seguridad logrado.
+
+3.2.28.4 Cualquier cambio significativo del sistema ATM relacionado con la seguridad, incluida la implantación de una mínima reducida de separación o de un nuevo procedimiento, solamente entrará en vigor después de que una evaluación de la seguridad haya demostrado que se satisfará un nivel aceptable de seguridad y se haya consultado a los usuarios. Cuando proceda, la autoridad responsable asegurará que se tomen las medidas adecuadas para que haya supervisión después de la implantación de un cambio o modificación sustancial con el objeto de verificar que se satisface el nivel definido de seguridad.
+
+3.2.28.5 Recopilación y evaluación de datos relacionados con la seguridad.
+
+3.2.28.5.1 La autoridad ATS competente establecerá un sistema oficial de notificación de incidentes destinado al personal ATS que facilite la recopilación de información sobre riesgos de la seguridad, reales o posibles o deficiencias relacionadas con el suministro de ATS, incluidas las estructuras de rutas, procedimientos, sistemas de comunicaciones, navegación y vigilancia, y otros sistemas y equipo importantes para la seguridad, así como la carga de trabajo de los controladores.
+
+Nota.–En el Manual de prevención de accidentes (Doc. 9422) de OACI figura orientación relativa a los sistemas obligatorios y voluntarios de notificación de incidentes de los Estados.
+
+3.2.28.6 Examen de informes de incidentes y otros relacionados con la seguridad.
+
+3.2.28.6.1 Los informes relacionados con la seguridad que atañen al funcionamiento de los servicios de tránsito aéreo, incluidos los informes de incidentes de tránsito aéreo, serán examinados de forma sistemática por la autoridad ATS competente a fin de detectar cualquier tendencia adversa en el número y en los tipos de incidentes que ocurren, así como sus causas y la aplicación de medidas correctoras.
+
+3.2.28.6.2 La autoridad ATS competente examinará de forma sistemática los informes relativos a las condiciones de servicio de las instalaciones y sistemas ATS, tales como fallo o deterioro de los sistemas y equipo de comunicaciones, vigilancia y otros importantes para la seguridad a fin de detectar cualquier tendencia en el funcionamiento de tales sistemas que pueda tener un impacto adverso en la seguridad.
+
+3.2.28.7 Evaluación de la seguridad.
+
+3.2.28.7.1 Se realizarán evaluaciones de la seguridad en las dependencias ATS de forma regular y sistemática a cargo de personal cualificado mediante la instrucción, la experiencia y conocimientos y que tenga una comprensión completa de las normas y métodos recomendados, (SARPS) pertinentes, los procedimientos para los servicios de navegación aérea (PANS), y las prácticas de funcionamiento seguras, así como los principios relativos a factores humanos.
 
 ## CAPÍTULO 3
 
@@ -882,41 +924,45 @@ La responsabilidad del control de una aeronave se transferirá de la dependencia
 
 3.3.6.1.3. Entre la dependencia que suministra el servicio de control de aproximación y la que suministra el servicio de control de aeródromo.
 
-3.3.6.1.3.1. Aeronaves que llegan.
-
-La responsabilidad del control de una aeronave que se aproxima para aterrizar se transferirá de la dependencia que proporcione servicio de control de aproximación a la que proporcione servicio de control de aeródromo, cuando la aeronave:
+3.3.6.1.3.1. Aeronaves que llegan. La responsabilidad del control de una aeronave que llega se transferirá de la dependencia que proporcione servicio de control de aproximación a la torre de control de aeródromo, cuando la aeronave:
 
 a) se encuentre en las proximidades del aeródromo, y:
 
 1) se considere que podrá realizar la aproximación y el aterrizaje por referencia visual a tierra; o
 
-2) haya alcanzado condiciones meteorológicas ininterrumpidas de vuelo visual; o bien
+2) haya alcanzado condiciones meteorológicas ininterrumpidas de vuelo visual; o
 
-b) haya aterrizado;
+b) haya llegado a un punto o nivel prescritos, según lo especificado en cartas de acuerdo o instrucciones de la dependencia ATS; o
 
-lo que ocurra antes.
+c) haya aterrizado.
 
 Incluso cuando exista una oficina de control de aproximación, el control de ciertos vuelos puede transferirse directamente de un centro de control de área a una torre de control de aeródromo, por acuerdo previo entre las dependencias interesadas, respecto a la parte pertinente del servicio de control de aproximación que ha de ser proporcionado por el centro de control de área o por la torre de control de aeródromo, según corresponda.
 
 3.3.6.1.3.2. Aeronaves que salen.
 
-La responsabilidad del control de una aeronave que sale se transferirá de la dependencia que proporcione servicio de control de aeródromo a la que proporcione servicio de control de aproximación:
+La responsabilidad del control de una aeronave que sale se transferirá de la torre de control de aeródromo a la que proporcione servicio de control de aproximación:
 
 a) cuando en las proximidades del aeródromo prevalezcan condiciones meteorológicas de vuelo visual:
 
 1) antes del momento en que la aeronave abandone las proximidades del aeródromo; o
 
-2) antes de que la aeronave pase a operar en condiciones meteorológicas de vuelo por instrumentos;
+2) antes de que la aeronave pase a operar en condiciones meteorológicas de vuelo por instrumentos; o
 
-lo que ocurra antes.
+3) a un punto o nivel prescritos,
+
+según lo especificado en cartas de acuerdo o instrucciones de la dependencia ATS;
 
 b) cuando en el aeródromo prevalezcan condiciones meteorológicas de vuelo por instrumentos:
 
-1) inmediatamente antes de que la aeronave entre en la pista que se utiliza para efectuar los despegues, o
+1) inmediatamente después de que la aeronave esté en vuelo; o
 
-2) inmediatamente después de que la aeronave esté en vuelo, si los procedimientos locales consideran preferible tal medida.
+2) a un punto o nivel prescritos,
+
+según lo especificado en cartas de acuerdo o instrucciones de la dependencia ATS;
 
 Incluso cuando exista una oficina de control de aproximación, el control de ciertos vuelos puede transferirse directamente de una torre de control de aeródromo a un centro de control de área, por acuerdo previo entre las dependencias interesadas, respecto a la parte pertinente del servicio de control de aproximación que ha de ser proporcionado por la torre de control de aeródromo o por el centro de control de área, según corresponda.
+
+3.3.6.1.4 Entre los sectores o posiciones de control dentro de la misma dependencia de control de tránsito aéreo. Se transferirá la responsabilidad de control de una aeronave de un sector o una posición de control a otro sector de control dentro de la misma dependencia de control de tránsito aéreo, al llegar a un punto, nivel u hora según lo especificado en las instrucciones de la dependencia ATS.
 
 3.3.6.2. Coordinación de la transferencia.
 
@@ -935,6 +981,8 @@ a) indicar que se halla en situación de aceptar el control de la aeronave en la
 b) especificar cualquier otra información o autorización referente a la parte siguiente del vuelo que la aeronave necesite en el momento de la transferencia.
 
 3.3.6.2.4. A no ser que se haya acordado lo contrario entre las dos dependencias de control interesadas, la dependencia aceptante notificará a la dependencia transferidora el momento en que haya establecido la comunicación por radio en ambos sentidos con la aeronave de que se trate y asumido el control de la misma.
+
+3.3.6.2.5 Se especificarán en cartas de acuerdo o instrucciones de la dependencia ATS, según corresponda, los procedimientos de coordinación aplicables, incluidos los puntos de transferencia de control. Nota: Se entiende por Carta de Acuerdo (LoA) el acuerdo concertado entre dos o mas dependencias ATS (civiles) adyacentes que tratan de la forma en que las partes interesadas tienen que proporcionar los servicios de tránsito aéreo.
 
 3.3.7. Autorizaciones del control de tránsito aéreo.
 
@@ -978,31 +1026,51 @@ b) la descripción de la ruta y el procedimiento para autorizaciones del control
 
 3.3.7.2.2. La autorización del control de tránsito aéreo referente a la deceleración y al descenso de una aeronave que pasa del vuelo de crucero supersónico al vuelo subsónico, deberá permitirle un descenso ininterrumpido, al menos durante la fase transónica.
 
-3.3.7.3. Coordinación de las autorizaciones.
+3.3.7.3. Colación de autorizaciones y de información relacionadas con la seguridad.
 
-La autorización del control de tránsito aéreo se coordinará entre las dependencias del control de tránsito aéreo, para que abarque toda la ruta de la aeronave, o determinada parte de la misma, de la manera siguiente:
+3.3.7.3.1. La tripulación de vuelo colacionará de forma completa al controlador de tránsito aéreo las partes de las autorizaciones e instrucciones que se transmiten oralmente del ATC que estén relacionadas con la seguridad. Se colacionarán completamente los siguientes elementos:
 
-3.3.7.3.1. Se expedirá una autorización a la aeronave para toda la ruta hasta el aeródromo del primer aterrizaje previsto:
+a) autorizaciones de ruta ATC (incluido el slot ATFM);
 
-a) cuando haya sido posible antes de la partida, coordinar la autorización con todas las dependencias bajo cuyo control pasará la aeronave; o bien,
+b) autorizaciones e instrucciones para entrar, aterrizar, despegar, mantenerse en espera a distancia, cruzar y retroceder en cualquier pista; y
 
-b) cuando haya cierta seguridad de que se obtendrá previamente la coordinación entre aquellas dependencias bajo cuyo control pasará subsiguientemente la aeronave.
+c) pista en uso, reglajes de altímetro, códigos SSR, instrucciones de nivel, instrucciones de rumbo y de velocidad y niveles de transición, ya sean expedidos por el controlador o incluidos en las radiodifusiones ATIS.
 
-3.3.7.3.1.1. Cuando se expida una autorización que cubra la parte inicial del vuelo únicamente como medio para acelerar el tránsito de salida, las autorizaciones sucesivas que se expidan en ruta se ajustarán a lo especificado anteriormente, aunque el aeródromo del primer aterrizaje previsto esté bajo la jurisdicción de un centro de control de área que no sea el que expide la autorización en ruta.
+3.3.7.3.1.1 Otras autorizaciones o instrucciones, incluidas las autorizaciones condicionadas, serán colacionadas o se dará acuse de recibo de las mismas de forma que se indique claramente que han sido comprendidas y que se cumplirá con las mismas.
 
-3.3.7.3.2. Cuando no se haya logrado o previsto la coordinación mencionada en 3.3.7.3.1. solo se dará autorización a la aeronave para llegar hasta el punto en donde pueda asegurarse razonablemente la coordinación.
+3.3.7.3.1.2 El controlador escuchará la colación para asegurarse de que la tripulación de vuelo ha acusado recibo correctamente de la autorización o la instrucción y adoptará medidas inmediatas para corregir cualquier discrepancia revelada por la colación.
 
-Antes de llegar a dicho punto, o sobre tal punto, la aeronave recibirá una nueva autorización, debiéndose dar entonces las instrucciones que sean necesarias.
+3.3.7.3.2. A menos que lo prescriba la autoridad ATS competente, no se requerirá la colación oral de mensajes CPDLC.
 
-3.3.7.3.3. Cuando una aeronave intente partir de un aeródromo situado dentro de un área de control para entrar en otra, dentro de un período de 30 minutos, o de otro período de tiempo especificado que convengan los centros de control de área pertinentes, se efectuará la coordinación con la dependencia de control subsiguiente antes de extender la autorización de partida.
+3.3.7.4 Coordinación de las autorizaciones. La autorización del control de tránsito aéreo se coordinará entre las dependencias del control de tránsito aéreo, para que abarque toda la ruta de la aeronave, o determinada parte de la misma, de la manera siguiente:
 
-3.3.7.3.4. Cuando una aeronave vaya a salir de un área de control para proseguir su vuelo fuera del espacio aéreo controlado, y luego vuelva a entrar en la misma o en otra área de control, podrá concederse una autorización desde el punto de salida hasta el aeródromo del primer aterrizaje previsto.
+3.3.7.4.1 Se expedirá una autorización a la aeronave para toda la ruta hasta el aeródromo del primer aterrizaje previsto:
 
-Tales autorizaciones o sus revisiones se aplicarán solamente a las partes del vuelo efectuadas dentro del espacio aéreo controlado.
+a) cuando haya sido posible, antes de la salida, coordinar la autorización con todas las dependencias bajo cuyo control pasará la aeronave; o bien,
 
-3.3.7.4. Turno de salida (slot ATFM) como parte de la autorización ATC.
+b) cuando haya seguridad razonable de que se obtendrá previamente la coordinación entre aquellas dependencias bajo cuyo control pasará subsiguientemente la aeronave.
 
-Cuando, como consecuencia de la gestión de la demanda de tránsito aéreo frente a la capacidad del ATC, sea necesario aplicar medidas ATFM podrán emitirse turnos de salida (slot ATFM) que formarán parte de la autorización ATC. En estos casos el turno de salida estará incluido y formará parte de dicha autorización ATC y como tal la aeronave estará obligada a su cumplimiento con sujeción a los procedimientos publicados.
+3.3.7.4.1.1 Cuando se expida una autorización que cubra la parte inicial del vuelo únicamente como medio para acelerar el tránsito de salida, las autorizaciones sucesivas que se expidan en ruta se ajustarán a lo especificado anteriormente, aunque el aeródromo del primer aterrizaje previsto esté bajo la jurisdicción de un centro de control de área que no sea el que expide la autorización en ruta.
+
+3.3.7.4.2 Cuando no se haya logrado o previsto la coordinación mencionada en 3.3.7.4.1. sólo se dará autorización a la aeronave para llegar hasta el punto en donde pueda asegurarse razonablemente la coordinación. Antes de llegar a dicho punto, o sobre tal punto, la aeronave recibirá una nueva autorización, debiéndose dar entonces las instrucciones que sean necesarias.
+
+3.3.7.4.2.1 Cuando así lo disponga la autoridad ATS competente, las aeronaves entrarán en contacto con una dependencia de control de tránsito aéreo subsiguiente a fin de recibir una autorización anticipada antes del punto de transferencia de control.
+
+3.3.7.4.2.1.1 Las aeronaves mantendrán la necesaria comunicación en ambos sentidos, con la dependencia de control de tránsito aéreo apropiada mientras estén solicitando una autorización anticipada.
+
+3.3.7.4.2.1.2 Debe indicarse claramente al piloto el carácter específico de toda autorización anticipada que se otorgue.
+
+3.3.7.4.2.1.3 A menos que estén coordinadas, las autorizaciones anticipadas no afectarán el perfil de vuelo original de la aeronave en ningún espacio aéreo, salvo el de la dependencia de control de tránsito aéreo responsable del otorgamiento de la autorización anticipada.
+
+3.3.7.4.2.1.4 Cuando sea posible y se utilicen comunicaciones por enlace de datos para facilitar el otorgamiento de autorizaciones anticipadas, debería contarse con comunicaciones orales en ambos sentidos entre el piloto y la dependencia de control de tránsito aéreo que otorgue dichas autorizaciones.
+
+3.3.7.4.3 Cuando una aeronave intente partir de un aeródromo situado dentro de un área de control para entrar en otra, dentro de un período de 30 minutos, o de otro período de tiempo especificado que convengan los centros de control de área pertinentes, se efectuará la coordinación con la dependencia de control subsiguiente antes de extender la autorización de partida.
+
+3.3.7.4.4 Cuando una aeronave vaya a salir de un área de control para proseguir su vuelo fuera del espacio aéreo controlado y luego vuelva a entrar en la misma o en otra área de control, podrá concederse una autorización desde el punto de salida hasta el aeródromo del primer aterrizaje previsto. Tales autorizaciones o sus revisiones se aplicarán solamente a las partes del vuelo efectuadas dentro del espacio aéreo controlado.
+
+3.3.7.5 Turno de salida (slot ATFM) como parte de la autorización ATC.
+
+Cuando, como consecuencia de la gestión de la demanda de tránsito aéreo frente a la capacidad del ATC, sea necesario aplicar medidas ATFM podrán emitirse turnos de salida (slot ATFM) que formarán parte de la autorización ATC. En estos casos el turno de salida estará incluido y formará parte de dicha autorización ATC y como tal la aeronave estará obligada a su cumplimiento.
 
 3.3.8. Control de personas y vehículos en los aeródromos.
 
@@ -1232,7 +1300,7 @@ p) noticia de los mensajes SIGMET actualizados.
 
 3.4.3.4. Servicio automático de información del área terminal (ATIS).
 
-3.4.3.4.1. Se efectuarán radiodifusiones del servicio automático de información del área terminal (ATIS) en los aeródromos donde sea necesario reducir el volumen de comunicaciones de los canales aeroterrestres VHF ATS. Cuando se efectúen, dichas transmisiones comprenderán:
+3.4.3.4.1. Se efectuarán radiodifusiones del servicio automático de información del área terminal-voz (ATIS-voz) en los aeródromos donde sea necesario reducir el volumen de comunicaciones de los canales aeroterrestres VHF ATS. Cuando se efectúen, dichas transmisiones comprenderán:
 
 a) una radiodifusión que sirva a las aeronaves que llegan; o
 
@@ -1242,179 +1310,197 @@ c) una radiodifusión que sirva tanto a las aeronaves que llegan como a las que 
 
 d) dos radiodifusiones que sirvan respectivamente a las aeronaves que llegan y a las aeronaves que salen en los aeródromos en los cuales la duración de una radiodifusión que sirviera tanto a las aeronaves que llegan como a las que salen sería excesiva.
 
-3.4.3.4.2. En lo posible, se usará una frecuencia VHF por separado para las radiodifusiones ATIS.
+3.4.3.4.2. En lo posible, se usará una frecuencia VHF por separado para las radiodifusiones ATIS-voz. Si no se dispusiera de una frecuencia discreta, la transmisión puede hacerse por el o los canales radiotelefónicos de las ayudas para la navegación de terminal más apropiadas, de preferencia el VOR, a condición de que el alcance y la legibilidad sean adecuados y que la señal de identificación de la ayuda para la navegación se inserte en la radiodifusión sin enmascarar esta última.
 
-Si no se dispusiera de una frecuencia discreta, la transmisión puede hacerse por el o los canales radiotelefónicos de las ayudas para la navegación de terminal más apropiadas, de preferencia el VOR, a condición de que el alcance y la legibilidad sean adecuados y que la señal de identificación de la ayuda para la navegación se inserte en la radiodifusión sin enmascarar esta última.
+3.4.3.4.2.1. Las transmisiones ATIS-voz, en lo posible, no deberán requerir la asignación de una frecuencia VHF sujeta a la asignación internacional de frecuencias.
 
-3.4.3.4.2.1. Las transmisiones ATIS, en lo posible, no deberán requerir la asignación de una frecuencia VHF sujeta a la asignación internacional de frecuencias.
+3.4.3.4.2.2 Cuando las transmisiones ATIS-voz sólo contengan informaciones de salida y tengan que ser transmitidas en una frecuencia discreta, se transmitirán, en lo posible, en una frecuencia VHF de control terrestre.
 
-3.4.3.4.2.2. Cuando las transmisiones ATIS sólo contengan informaciones de salida y tengan que ser transmitidas en una frecuencia discreta, se transmitirán, en lo posible, en una frecuencia VHF de control terrestre.
+3.4.3.4.3 Las radiodifusiones ATIS-voz no se transmitirán en los canales radiotelefónicos del ILS.
 
-3.4.3.4.3. Las radiodifusiones ATIS no se transmitirán en los canales radiotelefónicos del ILS.
-
-3.4.3.4.4. Cuando se suministre ATIS:
+3.4.3.4.4 Cuando se suministre ATIS-voz o ATIS-D:
 
 a) la información radiodifundida se referirá a un solo aeródromo;
 
-b) la radiodifusión será continua y repetitiva;
+b) la radiodifusión será continua y repetitiva (cuando se suministre ATIS-voz);
 
 c) la información radiodifundida será actualizada inmediatamente después de haberse producido un cambio importante;
 
 d) la preparación y difusión del mensaje ATIS estarán a cargo de los servicios de tránsito aéreo;
 
-e) la información contenida en la radiodifusión en vigor se pondrá de inmediato en conocimiento de la o las dependencias ATS encargadas de suministrar a las aeronaves la información sobre la aproximación, aterrizaje y despegue, siempre que el mensaje no haya sido preparado por esta o estas dependencias;
+e) la información contenida en la radiodifusión en vigor se pondrá de inmediato en conocimiento de la o las dependencias ATS encargadas de suministrar a las aeronaves la información sobre la aproximación, aterrizaje y despegue, siempre que el mensaje no haya sido preparado por esas dependencias;
 
 f) cada mensaje ATIS se identificará por medio de un designador en forma de una letra del alfabeto de deletreo de la OACI. Los designadores asignados a los mensajes ATIS consecutivos estarán en orden alfabético;
 
-g) las aeronaves acusarán recibo de la información radiodifundida al establecer la comunicación con la dependencia ATS que presta el servicio de control de aproximación o de control de aeródromo, como corresponda (1); y
+g) las aeronaves acusarán recibo de la información radiodifundida al establecer la comunicación con la dependencia ATS que presta el servicio de control de aproximación o de control de aeródromo, como corresponda (1);
 
-h) al responder al mensaje mencionado en g) o bien, en el caso de las aeronaves de llegada, en el momento que pueda prescribir la autoridad ATS competente, la dependencia ATS apropiada comunicará a la aeronave el reglaje de altímetro en vigor.
+(1) No es necesario que los mensajes ATIS-voz transmitidos contengan una instrucción en el sentido de que al hacer el contacto inicial con la dependencia ATS apropiada el piloto acuse recibo del mensaje ATIS.
 
-(1) No es necesario que los mensajes ATIS transmitidos contengan una instrucción en el sentido de que al hacer el contacto inicial con la dependencia ATS apropiada, el piloto acuse recibo del mensaje ATIS.
+h) al responder al mensaje mencionado en g) o bien, en el caso de las aeronaves que llegan, en el momento que pueda prescribir la autoridad ATS competente, la dependencia ATS apropiada comunicará a la aeronave el reglaje de altímetro en vigor.
 
-3.4.3.4.5. Hasta que no se prepare y adopte una forma de fraseología más adecuada para uso universal en las comunicaciones radiotelefónicas aeronáuticas, las radiodifusiones ATIS suministradas en los aeródromos destinados a utilizarse en servicios aéreos internacionales estarán disponibles en inglés.
+i) la información meteorológica se extraerá del informe meteorológico local ordinario o especial.
 
-3.4.3.4.6. Cuando se disponga de radiodifusiones ATIS en más de un idioma, debería utilizarse un canal separado para cada idioma.
+3.4.3.4.5 Hasta que no se prepare y adopte una forma de fraseología más adecuada para uso universal en las comunicaciones radiotelefónicas aeronáuticas, las radiodifusiones ATIS-voz suministradas en los aeródromos destinados a utilizarse en servicios aéreos internacionales estarán disponibles en inglés.
 
-3.4.3.4.7. Cuando debido a la rápida alteración de las condiciones meteorológicas no sea aconsejable incluir un informe meteorológico en la radiodifusión ATIS, los mensajes ATIS mencionados en 3.4.3.4.1, indicarán que se facilitará la información meteorológica del caso cuando la aeronave se ponga en contacto inicial con la dependencia ATS pertinente.
+3.4.3.4.6 Cuando se disponga de radiodifusiones ATIS-voz en más de un idioma debería utilizarse un canal separado para cada idioma.
 
-3.4.3.4.8. No es necesario incluir en las transmisiones dirigidas a las aeronaves la información contenida en la radiodifusión ATIS actualizada, cuyo recibo haya sido confirmado por la aeronave respectiva, exceptuando el reglaje de altímetro, que se suministrará de acuerdo con 3.4.3.4.4.h).
+3.4.3.4.7 Cuando debido a la rápida alteración de las condiciones meteorológicas no sea aconsejable incluir un informe meteorológico en el ATIS, los mensajes ATIS indicarán que se facilitará la información meteorológica del caso cuando la aeronave se ponga en contacto inicial con la dependencia ATS pertinente.
 
-3.4.3.4.9. Si una aeronave acusa recibo de una radiodifusión ATIS que ya no es de actualidad, toda información que deba actualizarse se transmitirá a la aeronave sin demora.
+3.4.3.4.8 No es necesario incluir en las transmisiones dirigidas a las aeronaves la información contenida en el ATIS actualizado, cuyo recibo haya sido confirmado por la aeronave respectiva, exceptuando el reglaje de altímetro, que se suministrará de acuerdo con 3.4.3.4.4. h).
 
-3.4.3.4.10. Mensajes de radiodifusión ATIS.
+3.4.3.4.9 Si una aeronave acusa recibo de un ATIS que ya no es de actualidad, toda información que deba actualizarse se transmitirá a la aeronave sin demora.
 
-3.4.3.4.10.1. Cuando sea posible, el mensaje ATIS radiodifundido no excederá de 30 segundos, procurándose que la legibilidad del mensaje ATIS no se vea afectada por la velocidad de transmisión o por la señal de identificación de la ayuda para la navegación que se emplee para la transmisión del ATIS.
+3.4.3.4.10 Mensajes de radiodifusión ATIS.
 
-3.4.3.4.10.2. Los mensajes ATIS serán lo más breves posible. La información adicional a la que se especifica en los párrafos 3.4.3.5. a 3.4.3.7. aunque se encuentre ya disponible en las publicaciones de información aeronáutica (AIP) y en los NOTAM, se incluirá únicamente cuando circunstancias excepcionales lo justifiquen.
+3.4.3.4.10.1 Cuando sea posible, el mensaje ATIS-voz radiodifundido no excederá de 30 segundos, procurándose que la legibilidad del mensaje no se vea afectada por la velocidad de transmisión o por la señal de identificación de la ayuda para la navegación que se emplee para la transmisión del ATIS. En el mensaje de radiodifusión ATIS debería tomarse en consideración la actuación humana.
 
-3.4.3.5. Radiodifusiones ATIS destinadas a las aeronaves que llegan y salen.
+3.4.3.4.10.2 Los mensajes ATIS serán lo más breves posible. La información adicional a la que se especifica en los párrafos 3.4.3.6 a 3.4.3.8, aunque se encuentre ya disponible en las publicaciones de información aeronáutica (AIP) y en los NOTAM, se incluirá únicamente cuando circunstancias excepcionales lo justifiquen.
 
-Los mensajes de radiodifusión ATIS que contengan información tanto para la llegada como para la salida constarán de los siguientes datos, en el orden indicado:
+3.4.3.5 Servicio automático de información terminal por enlace de datos (ATIS-D).
 
-a) nombre del aeródromo;
+3.4.3.5.1 Cuando un ATIS-D complementa la disponibilidad del ATIS-voz, la información será idéntica, por su contenido y formato, a la radiodifusión ATIS-voz correspondiente.
 
-b) designador;
+3.4.3.5.1.1 Cuando se incluye información meteorológica en tiempo real pero los datos permanecen dentro de los parámetros de los criterios de cambio significativo, el contenido se considerará idéntico para los fines de mantener el mismo designador.
 
-c) hora de observación, cuando corresponda;
+3.4.3.5.2 Cuando un ATIS-D complementa la disponibilidad del ATIS-voz y el ATIS debe actualizarse, se actualizarán ambos sistemas simultáneamente.
 
-d) tipo de aproximación que se espera;
-
-e) la o las pistas en uso; estado del sistema de detención que constituya un posible peligro;
-
-f) condiciones importantes de la superficie de la pista y, cuando corresponda, eficacia de frenado;
-
-g) tiempo de espera, cuando corresponda;
-
-h) nivel de transición, cuando sea aplicable;
-
-i) otra información esencial para las operaciones;
-
-j) dirección y velocidad del viento de superficie, con las variaciones importantes;
-
-k) visibilidad y, cuando sea aplicable, alcance visual en la pista (RVR); (2)
-
-l) tiempo presente (2);
-
-m) nubes por debajo de la más elevada de las altitudes siguientes: 1500 m (5000 ft) o la altitud mínima de sector más elevada; cumulonimbus, si el cielo está oscurecido, visibilidad vertical cuando se disponga de ella; (2).
-
-n) temperatura del aire;
-
-o) temperatura del punto de rocío (1);
-
-p) reglaje o reglajes del altímetro;
-
-q) cualquier información disponible respecto a los fenómenos meteorológicos significativos en las zonas de aproximación, despegue o ascenso inicial, incluido el de la cizalladura del viento, y otros fenómenos recientes de importancia para las operaciones;
-
-r) pronóstico para el aterrizaje de tipo tendencia, cuando se disponga de él; y
-
-s) instrucciones ATIS específicas.
-
-(1) Según se determine mediante acuerdo regional de navegación aérea.
-
-(2) Se sustituye por el término CAVOK en las condiciones indicadas en 4.9.4.3.2.3.9.
-
-3.4.3.6. Radiodifusiones ATIS para las aeronaves que llegan.
-
-Los mensajes de radiodifusión ATIS que contengan únicamente información para la llegada constarán de los siguientes datos, en el orden indicado:
+3.4.3.6 Radiodifusiones ATIS destinadas a las aeronaves que llegan y salen. Los mensajes de radiodifusión ATIS que contengan información tanto para la llegada como para la salida constarán de los siguientes datos, en el orden indicado:
 
 a) nombre del aeródromo;
 
-b) designador;
+b) indicador de llegada o salida;
 
-c) hora de observación, cuando corresponda;
+c) tipo de contrato, si la comunicación se establece mediante el ATIS-D;
 
-d) tipo de aproximación que se espera;
+d) designador;
 
-e) pista principal de aterrizaje; estado del sistema de detención que constituya un peligro;
+e) hora de observación, cuando corresponda;
 
-f) condiciones importantes de la superficie de la pista y, cuando corresponda, eficacia de frenado;
+f) tipo de aproximación que se espera;
 
-g) tiempo de espera, cuando corresponda;
+g) la o las pistas en uso; estado del sistema de detención que constituya un posible peligro;
 
-h) nivel de transición, cuando sea aplicable;
+h) condiciones importantes de la superficie de la pista y, cuando corresponda, eficacia de frenado;
 
-i) otras informaciones esenciales para las operaciones;
+i) tiempo de espera, cuando corresponda;
 
-j) dirección y velocidad del viento de superficie, con las variaciones importantes;
+j) nivel de transición, cuando sea aplicable;
 
-k) visibilidad y, cuando sea aplicable, alcance visual en la pista (RVR); (2)
+k) otra información esencial para las operaciones;
 
-l) tiempo presente; (2)
+l) dirección y velocidad del viento de superficie, con las variaciones importantes y, si se dispone de sensores del viento en la superficie relacionados específicamente con los tramos de las pistas en uso, y los explotadores requieren tal información, indicación de la pista y de la sección de la pista a la que se refiere la información;
 
-m) nubes por debajo de la más elevada de las altitudes siguientes: 1500 m (5000 ft) o la altitud mínima de sector más elevada; cumulonimbos; si el cielo está oscurecido, visibilidad vertical cuando se disponga de ella; (2)
+m) visibilidad y, cuando sea aplicable, alcance visual en la pista (RVR);
 
-n) temperatura del aire;
+n) tiempo presente;
 
-o) temperatura del punto de rocío (1);
+o) nubes por debajo de la más elevada de las altitudes siguientes: 1500 m (5000 ft) o la altitud mínima de sector más elevada; cumulonimbus, si el cielo está oscurecido, visibilidad vertical cuando se disponga de ella;
 
-p) reglaje o reglajes del altímetro;
+p) temperatura del aire;
 
-q) toda información disponible sobre los fenómenos meteorológicos significativos en la zona de aproximación, incluido el de la cizalladura del viento, y otros fenómenos recientes de importancia para las operaciones;
+q) temperatura del punto de rocío;
 
-r) pronóstico para el aterrizaje de tipo tendencia, cuando esté disponible; y
+r) reglaje o reglajes del altímetro;
 
-s) instrucciones ATIS específicas.
+s) cualquier información disponible respecto a los fenómenos meteorológicos significativos en las zonas de aproximación, despegue o ascenso inicial, incluido el de la cizalladura del viento, y otros fenómenos recientes de importancia para las operaciones;
 
-(1) Según se determine mediante acuerdo regional de navegación aérea.
+t) pronóstico de tendencia, cuando se disponga de él; y
 
-(2) Se sustituye por el término CAVOK en las condiciones indicadas en 4.9.4.3.2.3.9.
+u) instrucciones ATIS específicas.
 
-3.4.3.7. Radiodifusiones ATIS para las aeronaves de salida.
-
-Los mensajes de radiodifusión ATIS que contengan únicamente información para la salida constarán de los siguientes datos, en el orden indicado:
+3.4.3.7 ATIS para las aeronaves que llegan. Los mensajes ATIS que contengan únicamente información para la llegada constarán de los siguientes datos, en el orden indicado:
 
 a) nombre del aeródromo;
 
-b) designador;
+b) indicador de llegada;
 
-c) hora de la observación, cuando corresponda;
+c) tipo de contrato, si la comunicación se establece mediante el ATIS-D;
 
-d) pista o pistas que se utilizarán para el despegue; estado del sistema de detención que constituya un peligro;
+d) designador;
 
-e) condiciones importantes de la superficie de la pista que se usará para el despegue y, cuando corresponda, eficacia de frenado;
+e) hora de observación, cuando corresponda;
 
-f) otras informaciones esenciales para las operaciones;
+f) tipo de aproximación que se espera;
 
-g) dirección y velocidad del viento de superficie con sus variaciones importantes;
+g) pista principal de aterrizaje; estado del sistema de detención que constituya un peligro;
 
-h) visibilidad y, cuando sea aplicable, alcance visual en la pista (RVR); (1)
+h) condiciones importantes de la superficie de la pista y, cuando corresponda, eficacia de frenado;
 
-i) nubes por debajo de la más elevada de las altitudes siguientes: 1500 m (5000 ft) o la altitud mínima de sector más elevada; cumulonimbus; si el cielo está oscurecido, la visibilidad vertical cuando se disponga de ella; (1)
+i) tiempo de espera, cuando corresponda;
 
-j) temperatura del aire que sea representativa de la o las pistas;
+j) nivel de transición, cuando sea aplicable;
 
-k) reglaje o reglajes del altímetro;
+k) otras informaciones esenciales para las operaciones;
 
-l) toda la información disponible sobre los fenómenos meteorológicos significativos en las zonas de despegue y ascenso, incluido el de la cizalladura del viento; y
+l) dirección y velocidad del viento de superficie, con las variaciones importantes y, si se dispone de sensores del viento en la superficie relacionados específicamente con los tramos de las pistas en uso, y los explotadores requieren tal información, indicación de la pista y de la sección de la pista a la que se refiere la información;
 
-m) instrucciones ATIS específicas.
+m) visibilidad y, cuando sea aplicable, alcance visual en la pista (RVR);
+
+n) tiempo presente;
+
+o) nubes por debajo de la más elevada de las altitudes siguientes: 1500 m (5000 ft) o la altitud mínima de sector más elevada; cumulonimbos; si el cielo está oscurecido, visibilidad vertical cuando se disponga de ella;
+
+p) temperatura del aire;
+
+q) temperatura del punto de rocío;
+
+r) reglaje o reglajes del altímetro;
+
+s) toda información disponible sobre los fenómenos meteorológicos significativos en la zona de aproximación, incluido el de la cizalladura del viento, y otros fenómenos recientes de importancia para las operaciones;
+
+t) pronóstico de tendencia, cuando esté disponible; y
+
+u) instrucciones ATIS específicas.
+
+3.4.3.8 ATIS para las aeronaves de salida. Los mensajes ATIS que contengan únicamente información para la salida constarán de los siguientes datos, en el orden indicado:
+
+a) nombre del aeródromo;
+
+b) indicador de salida;
+
+c) tipo de contrato, si la comunicación se establece mediante el ATIS-D;
+
+d) designador;
+
+e) hora de la observación, cuando corresponda;
+
+f) pista o pistas que se utilizarán para el despegue; estado del sistema de detención que constituya un peligro;
+
+g) condiciones importantes de la superficie de la pista que se usará para el despegue y, cuando corresponda, eficacia de frenado;
+
+h) demora de salida, si corresponde;
+
+i) nivel de transición, si corresponde;
+
+j) otras informaciones esenciales para las operaciones;
+
+k) dirección y velocidad del viento de superficie con sus variaciones importantes y, si se dispone de sensores del viento en la superficie relacionados específicamente con los tramos de las pistas en uso, y los explotadores requieren tal información, indicación de la pista y de la sección de la pista a la que se refiere la información;
+
+l) visibilidad y, cuando sea aplicable, alcance visual en la pista (RVR); (1)
 
 (1) Se sustituye por el término CAVOK en las condiciones indicadas en 4.9.4.3.2.3.9.
 
-3.4.3.8. Uso de los mensajes OFIS en las transmisiones dirigidas de petición/respuesta.
+m) tiempo presente;
 
-Cuando lo pida el piloto, el o los mensajes OFIS serán transmitidos por la dependencia ATS correspondiente.
+n) nubes por debajo de la más elevada de las altitudes siguientes: 1500 m (5000 ft) o la altitud mínima de sector más elevada; cumulonimbus; si el cielo está oscurecido, la visibilidad vertical cuando se disponga de ella;
+
+o) temperatura del aire que sea representativa de la o las pistas;
+
+p) temperatura del punto de rocío;
+
+q) reglaje o reglajes del altímetro;
+
+r) toda la información disponible sobre los fenómenos meteorológicos significativos en las zonas de despegue y ascenso, incluido el de la cizalladura del viento; y
+
+s) pronóstico de tendencia, cuando se disponga de él;
+
+t) instrucciones ATIS específicas.
+
+3.4.3.9 Uso de los mensajes OFIS en las transmisiones dirigidas de petición/respuesta. Cuando lo pida el piloto, el o los mensajes OFIS serán transmitidos por la dependencia ATS correspondiente.
+
+3.4.3.10 Se proporcionarán las radiodifusiones VOLMET en HF o VHF o el servicio D-VOLMET cuando se determine por acuerdo regional de navegación aérea que existe tal necesidad.
+
+En la radiodifusión VOLMET se utilizará la fraseología radiotelefónica normalizada.
 
 ## CAPÍTULO 5
 
@@ -1484,9 +1570,11 @@ f) último mensaje de posición y cómo se determinó ésta;
 
 g) colores y marcas distintivas de la aeronave;
 
-h) toda medida tomada por la dependencia que hace la notificación;
+h) mercancías peligrosas transportadas como carga;
 
-i) demás observaciones pertinentes.
+i) toda medida tomada por la dependencia que hace la notificación; y
+
+j) demás observaciones pertinentes.
 
 3.5.2.2.1. La parte de la información especificada en 3.5.2.2., de que no se disponga en el momento de hacer la notificación a un centro coordinador de salvamento, será recabada por una dependencia de los servicios de tránsito aéreo antes de declararse la fase de peligro, si hay motivos suficientes para creer que se producirá dicha fase.
 
@@ -1530,11 +1618,11 @@ También se trazarán los vuelos de otras aeronaves que se sepa que están opera
 
 3.6.1.1. Generalidades.
 
-3.6.1.1.1. Para fines de los servicios de tránsito aéreo, en las comunicaciones aeroterrestres se utilizará la radiotelefonía, y/o procedimientos de intercambio de datos digitales.
+3.6.1.1.1. Para fines de los servicios de tránsito aéreo, en las comunicaciones aeroterrestres se utilizará la radiotelefonía, o el enlace de datos.
 
 3.6.1.1.1.1. Las dependencias ATS dispondrán de un canal de emergencia de 121,5 MHz y mantendrán la escucha en dicho canal.
 
-3.6.1.1.2. Cuando se emplee comunicación radiotelefónica directa en ambos sentidos, o haya un intercambio de datos digitales entre el piloto y el controlador para dar servicio de control de tránsito aéreo, todos los canales de comunicación aeroterrestres de este servicio, y que se utilicen de ese modo, estarán provistos de dispositivo de registro.
+3.6.1.1.2. Cuando se emplee comunicación radiotelefónica directa en ambos sentidos, o comunicación por enlace de datos entre el piloto y el controlador para dar servicio de control de tránsito aéreo, todos los canales de comunicación aeroterrestres de este servicio, estarán provistos de dispositivo de registro.
 
 3.6.1.2. Para el servicio de información de vuelo.
 
@@ -1548,7 +1636,7 @@ También se trazarán los vuelos de otras aeronaves que se sepa que están opera
 
 3.6.1.3.2. Las instalaciones de comunicaciones aeroterrestres del servicio de control de área, permitirán las comunicaciones directas rápidas y continuas, libres de parásitos atmosféricos, en ambos sentidos.
 
-3.6.1.3.3. Cuando en los servicios de control de área se utilicen canales de comunicaciones aeroterrestres de alta frecuencia (o de muy alta frecuencia de alcance ampliado y uso general), de los que se encargan operadores aeroterrestres, se tomarán las medidas para permitir comunicaciones directas entre el piloto y el controlador, siempre que sea necesario.
+3.6.1.3.3. Cuando en los servicios de control de área se utilicen canales de comunicaciones orales aeroterrestres de los que se encargan operadores aeroterrestres, deberían tomarse las medidas para permitir comunicaciones orales directas entre el piloto y el controlador, siempre que sea necesario.
 
 3.6.1.4. Para el servicio de control de aproximación.
 
@@ -1566,9 +1654,7 @@ También se trazarán los vuelos de otras aeronaves que se sepa que están opera
 
 3.6.2.1. Generalidades.
 
-3.6.2.1.1. Se utilizarán comunicaciones orales directas o técnicas de intercambio de datos digitales en las comunicaciones tierra-tierra para fines de los servicios de tránsito aéreo.
-
-Nota: La rapidez expresada en el tiempo con que las comunicaciones deberían establecerse, se facilita como orientación para los servicios de comunicaciones, especialmente para determinar los tipos de canales necesarios, por ejemplo: «instantáneo» significa comunicaciones que proporcionan efectivamente acceso inmediato entre los controladores; «15 segundos» que es factible la utilización del tablero de conmutación, y «cinco minutos», que requieren retransmisión.
+3.6.2.1.1. Se utilizarán comunicaciones orales directas o por enlace de datos en las comunicaciones tierra-tierra para fines de los servicios de tránsito aéreo.
 
 3.6.2.2. Comunicaciones dentro de una región de información de vuelo.
 
@@ -1626,29 +1712,29 @@ e) la dependencia que proporcione el servicio de dirección en la plataforma, cu
 
 3.6.2.2.3. Descripción de las instalaciones de comunicaciones.
 
-3.6.2.2.3.1. Las instalaciones de comunicaciones estipuladas en 3.6.2.2.1., 3.6.2.2.2.1 a) y 3.6.2.2.2.2.a), b) y c), estarán en condiciones de proporcionar:
+3.6.2.2.3.1. Las instalaciones de comunicaciones estipuladas en 3.6.2.2.1., 3.6.2.2.2.1 a) y 3.6.2.2.2.2 a), b) y c), estarán en condiciones de proporcionar:
 
-a) comunicaciones orales directas que puedan establecerse instantáneamente para fines de transferencia de control radar, o normalmente en 15 segundos para otros fines; y
+a) comunicaciones orales directas solas o en combinación con comunicaciones por enlace de datos, que puedan establecerse instantáneamente para fines de transferencia de control radar, o normalmente en 15 segundos para otros fines; y
 
 b) comunicaciones impresas, cuando sea necesario que quede constancia por escrito; el tiempo de tránsito del mensaje en esta clase de comunicaciones no excederá de cinco minutos.
 
-3.6.2.2.3.2. En todos los casos no previstos por 3.6.2.2.3.1, las instalaciones de comunicaciones proporcionarán:
+3.6.2.2.3.2 En todos los casos no previstos en 3.6.2.2.3.1, las instalaciones de comunicaciones deberían poder proporcionar:
 
-a) comunicaciones orales directas, que puedan normalmente establecerse en un tiempo aproximado de 15 segundos; y
+a) comunicaciones orales directas solas o en combinación con comunicaciones por enlace de datos, que puedan establecerse normalmente en 15 segundos; y
 
 b) comunicaciones impresas, cuando sea necesario que quede constancia por escrito; el tiempo de tránsito del mensaje en esta clase de comunicaciones no excederá de cinco minutos.
 
 3.6.2.2.3.3. En todos los casos en que es necesaria la transferencia automática de datos hacia las computadoras de los servicios de tránsito aéreo y/o desde ellas, se contará con dispositivos convenientes de registro automático.
 
-3.6.2.2.3.4. Las instalaciones de comunicaciones necesarias de acuerdo con 3.6.2.2.1. y 3.6.2.2.2. se complementarán, cuando sea necesario, con otros tipos de comunicaciones visuales o auditivas.
+3.6.2.2.3.4. Las instalaciones de comunicaciones necesarias de acuerdo con 3.6.2.2.1. y 3.6.2.2.2., deberían complementarse, cuando sea necesario, con otros tipos de comunicaciones visuales o auditivas, por ejemplo, la televisión en circuito cerrado o sistemas de tratamiento por separado de la información.
 
 3.6.2.2.3.5. Las instalaciones de comunicaciones estipuladas en 3.6.2.2.2.2. a), b) y c), estarán en condiciones de establecer comunicación oral directa adaptada para comunicación «en conferencia».
 
 3.6.2.2.3.6. Las instalaciones de comunicaciones estipuladas en 3.6.2.2.2.2. d) deberán poder establecer comunicación oral directa adaptada para comunicación «en conferencia», de modo que las comunicaciones puedan establecerse normalmente en 15 segundos.
 
-3.6.2.2.3.7. Todas las instalaciones de comunicaciones orales directas entre distintas dependencias de los servicios de tránsito aéreo, así como entre las dependencias de los servicios de tránsito aéreo y las dependencias militares correspondientes, deberán contar con registro automático.
+3.6.2.2.3.7. Todas las instalaciones de comunicaciones orales directas o por enlace de datos entre distintas dependencias de los servicios de tránsito aéreo, así como entre las dependencias de los servicios de tránsito aéreo civiles y las dependencias militares correspondientes, deberán contar con registro automático.
 
-3.6.2.2.3.8. Todas las instalaciones de comunicaciones orales directas estipuladas en 3.6.2.2.2.1. y 3.6.2.2.2.2. y no incluidas en 3.6.2.2.3.7. contarán con registro automático.
+3.6.2.2.3.8. Todas las instalaciones de comunicaciones orales directas o por enlace de datos estipuladas 3.6.2.2.2.1 y 3.6.2.2.2.2 y no incluidas en 3.6.2.2.3.7, contarán con registro automático.
 
 3.6.2.3. Comunicaciones entre regiones de información de vuelo.
 
@@ -1656,9 +1742,9 @@ b) comunicaciones impresas, cuando sea necesario que quede constancia por escrit
 
 3.6.2.3.1.1. Estas comunicaciones se efectuarán en todos los casos de modo que los mensajes estén en la forma adecuada para conservarlos como registro permanente, y se reciban de conformidad con los tiempos de tránsito estipulados en los acuerdos regionales de navegación aérea.
 
-3.6.2.3.1.2. A no ser que lo determinen de otro modo los acuerdos regionales de navegación aérea, las instalaciones de comunicaciones entre centros de control de área que presten servicio a áreas de control contiguas dispondrán, además, de comunicaciones orales directas, con posibilidad de registro automático, que puedan establecerse instantáneamente a fines de transferencia de control utilizando datos radar o ADS, y normalmente en 15 segundos para otras finalidades.
+3.6.2.3.1.2. A no ser que lo determinen de otro modo los acuerdos regionales de navegación aérea, las instalaciones de comunicaciones entre centros de control de área que presten servicio a áreas de control contiguas dispondrán de comunicaciones orales directas y, cuando corresponda, por enlace de datos con registro automático que puedan establecerse instantáneamente respecto a transferencia de control utilizando datos radar o ADS; para otros fines lo harán normalmente en 15 segundos.
 
-3.6.2.3.1.3. Cuando sea necesario por acuerdo entre los Estados interesados, con el objeto de eliminar o disminuir la necesidad de interceptación por el hecho de que una aeronave se haya desviado de la derrota asignada, se dispondrá que las instalaciones de comunicaciones entre centros de información de vuelo o centros de control de área adyacentes que no sean los mencionados en 3.6.2.3.1.2. tengan capacidad de comunicaciones orales directas. Las instalaciones de comunicaciones contarán con registro automático.
+3.6.2.3.1.3. Cuando sea necesario por acuerdo entre los Estados interesados, con el objeto de eliminar o disminuir la necesidad de interceptación por el hecho de que una aeronave se haya desviado de la derrota asignada, se dispondrá que las instalaciones de comunicaciones entre centros de información de vuelo o centros de control de área adyacentes que no sean los mencionados en 3.6.2.3.1.2, tengan capacidad de comunicaciones orales directas solas o en combinación con comunicaciones por enlace de datos. Las instalaciones de comunicaciones contarán con registro automático.
 
 3.6.2.3.1.4. Se preverá en las instalaciones de comunicaciones citadas en 3.6.2.3.1.3. la posibilidad de establecerlas normalmente en un plazo de 15 segundos.
 
@@ -1668,7 +1754,7 @@ Pueden darse circunstancias especiales por razón de la densidad del tránsito, 
 
 3.6.2.3.3. Siempre que las condiciones locales obliguen a autorizar a una aeronave, antes de la salida, a penetrar en un área de control adyacente, una oficina de control de aproximación y/o torre de control de aeródromo estarán conectadas con el centro de control de área que presta servicios al área adyacente.
 
-3.6.2.3.4. Las instalaciones de comunicaciones citadas en 3.6.2.3.2. y 3.6.2.3.3. proporcionarán comunicaciones orales directas con registro automático que puedan establecerse instantáneamente a fines de transferencia de control utilizando datos radar o ADS, y normalmente en 15 segundos para otros fines.
+3.6.2.3.4. Las instalaciones de comunicaciones citadas en 3.6.2.3.2 y 3.6.2.3.3, deberían poder proporcionar comunicaciones orales directas solas o en combinación con comunicaciones por enlace de datos con registro automático que puedan establecerse instantáneamente a fines de transferencia de control utilizando datos radar o ADS, y normalmente en 15 segundos para otros fines.
 
 3.6.2.3.5. En todos los casos en que sea necesario el intercambio automático de datos entre las computadoras de los servicios de tránsito aéreo, se contará con dispositivos apropiados de registro automático.
 
@@ -1802,9 +1888,15 @@ Los operadores de globos libres no tripulados mantendrán informadas a las depen
 
 Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter local, acerca de la actividad volcánica precursora de erupción, erupciones volcánicas y nubes de cenizas volcánicas que podrían afectar al espacio aéreo utilizado por los vuelos dentro de su zona de responsabilidad.
 
+3.7.5.1 Se proporcionará a los centros de control de área y a los centros de información de vuelo la información de asesoramiento sobre cenizas volcánicas expedida por el VAAC correspondiente.
+
 3.7.6. Información sobre ''nubes'' de materiales radiactivos y de sustancias químicas tóxicas.
 
 Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter local, acerca de la liberación en la atmósfera de materiales radiactivos o sustancias químicas tóxicas que podrían afectar al espacio aéreo utilizado por los vuelos dentro de su zona de responsabilidad.
+
+> Se modifican los Capítulos 2 a 7 por el art. único.3 de la Orden PRE/4063/2006, de 29 de diciembre. Ref. BOE-A-2007-187
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 42, de 17 de febrero de 2007. Ref. BOE-A-2007-3382
 
 > Se modifican los Capítulos 2 y 3 por el art. único.3 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407
 

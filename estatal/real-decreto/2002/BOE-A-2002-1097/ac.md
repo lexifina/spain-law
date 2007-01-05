@@ -79,13 +79,13 @@ De día y de noche, una serie de proyectiles disparados desde el suelo a interva
 
 ## Señales para el tránsito de aeródromo
 
-4.1. Señales con luces corrientes y con luces pirotécnicas.
+4.1. Señales con luces corrientes.
 
 4.1.1. Instrucciones.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image7.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image8.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image3.png)
 
 4.1.2. Acuse de recibo por parte de la aeronave.
 
@@ -159,15 +159,17 @@ b) En tierra:
 
 Estas señales se han ideado para que las haga el señalero, con sus manos iluminadas si es necesario para facilitar la observación por parte del piloto, y mirando hacia la aeronave desde un punto:
 
-a) para aeronaves de alas fijas, delante del extremo del ala izquierda y bien a la vista del piloto; y (1)
-
-b) para helicópteros, en el lugar donde mejor pueda ser visto por el piloto (2).
-
-El significado de la señal sigue siendo el mismo ya se empleen palas, toletes iluminados o linternas.
+a) para aeronaves de alas fijas, a la izquierda de la aeronave, donde mejor pueda ser visto por el piloto; y (1)
 
 (1) Los motores de las aeronaves se numeran, para el señalero situado frente a la aeronave, de derecha a izquierda (es decir, el motor Núm. 1 es el motor externo de babor).
 
-(2) Las señales 16 a 20 (véase 5.1.1.) están previstas para utilizarlas cuando se trate de helicópteros en vuelo estacionario.
+b) para helicópteros, en el lugar donde mejor pueda ser visto por el piloto (2).
+
+(2) Las señales 16 a 20 (véase 5.1.l.) están previstas para utilizarlas cuando se trate de helicópteros en vuelo estacionario.
+
+El significado de la señal sigue siendo el mismo ya se empleen palas, toletes iluminados o linternas.
+
+Las referencias a toletes pueden también interpretarse como referencias a palas de tipo raqueta de tenis o guantes con colores fluorescentes (sólo en horas diurnas).
 
 5.1.1. Antes de utilizar las señales siguientes, el señalero se asegurará de que el área a la cual ha de guiarse una aeronave está libre de objetos que esta última, de no ser así, podría golpear al cumplir con lo dispuesto en el párrafo 2.3.4.1. del Libro Segundo.
 
@@ -175,73 +177,112 @@ La forma de muchas aeronaves es tal que no siempre puede vigilarse visualmente d
 
 5.1.1.1. Señales.
 
-|  | 1. Para continuar bajo la guía del encargado de señales. El encargado de señales dirige al piloto si las condiciones de tránsito del aeródromo lo requieren. |
-| --- | --- |
-|  | 2. A este espacio libre. Brazos por encima de la cabeza en posición vertical, con las palmas hacia dentro. |
-|  | 3. Siga hasta el siguiente encargado de señales. Brazo derecho o izquierdo hacia abajo, el otro brazo extendido transversalmente respecto al cuerpo indicando la dirección del siguiente encargado de señales. |
-|  | 4. Avance de frente. Los brazos algo separados y con las palmas hacia atrás, se mueven repetidamente hacia arriba y hacia atrás desde la altura de los hombros. |
-|  | 5. Viraje. a) Viraje a la izquierda: El brazo derecho hacia abajo, el izquierdo se mueve repetidamente hacia arriba y hacia atrás. La rapidez con que se mueve el brazo indica la velocidad de viraje. |
-|  | b) Viraje a la derecha: El brazo izquierdo hacia abajo, el derecho se mueve repetidamente hacia arriba y hacia atrás. La rapidez con que se mueve el brazo indica la velocidad de viraje. |
-|  | 6. Alto. Se cruzan repetidamente los brazos por encima de la cabeza. La rapidez del movimiento guardará relación con la urgencia del caso, es decir, cuanto más rápido sea, más brusca habrá de ser la parada. |
-|  | 7. Frenos. a) Accionar frenos: Levantar brazo y mano, con los dedos extendidos, horizontalmente delante del cuerpo, luego cerrar la mano. b) Soltar frenos: Levantar el brazo, con el puño cerrado, horizontalmente delante del cuerpo, luego extender los dedos. |
-|  | 8. Calzos. a) Calzos puestos: Brazos hacia abajo, palmas hacia dentro, moviendo los brazos hacia dentro desde la posición extendida. b) Calzos fuera: Brazos hacia abajo, palmas hacia fuera, moviendo los brazos hacia fuera. |
-|  | 9. Poner motores en marcha. La mano izquierda en alto con el número apropiado de dedos extendidos, para indicar el número del motor que ha de ponerse en marcha, y con movimiento circular de la mano derecha al nivel de la cabeza. |
-|  | 10. Parar motores. Brazo y mano horizontales, mano frente al cuello, palma hacia abajo. La mano se mueve hacia los lados mientras el brazo permanece doblado. |
-|  | 11. Reducir velocidad. Brazos hacia abajo con palmas hacia el suelo, se mueven hacia arriba y hacia abajo varias veces. |
-|  | 12. Reducir el motor o motores del lado que se indica. Brazos hacia abajo con las palmas hacia el suelo, después se mueve de arriba abajo la mano derecha o la izquierda según deban reducirse el motor o motores de la izquierda o de la derecha, respectivamente. |
-|  | 13. Retroceda. Brazos a los lados, con las palmas hacia adelante, se mueven hacia adelante y hacia arriba repetidamente, hasta la altura de los hombros. |
-|  | 14. Virajes durante la marcha atrás. a) Para virar cola a estribor: Con el brazo izquierdo dirigido hacia abajo, se lleva el derecho desde la posición vertical, por encima de la cabeza, hasta la horizontal delantera, repitiéndose el movimiento del brazo derecho. |
-|  | b) Para virar cola a babor: Con el brazo derecho hacia abajo, se lleva el izquierdo desde la posición vertical, por encima de la cabeza, hasta la horizontal delantera, repitiéndose el movimiento del brazo izquierdo. |
-|  | 15. Todo listo. Brazo derecho levantado a la altura del codo con el pulgar dirigido hacia arriba. |
-|  | 16. Vuelo estacionario. Brazos extendidos horizontalmente, palmas hacia abajo. |
-|  | 17. Ascienda. Brazos extendidos horizontalmente hacia los lados, moviéndose hacia arriba, palmas hacia arriba. La rapidez del movimiento indica la velocidad ascensional. |
-|  | 18. Descienda. Brazos extendidos horizontalmente hacia los lados, moviéndose hacia abajo, palmas hacia abajo. La rapidez del movimiento indica la velocidad vertical del descenso. |
-|  | 19. Desplácese en sentido horizontal. El brazo que corresponda extendido horizontalmente, en la dirección del movimiento, y el otro brazo se mueve repetidamente delante del cuerpo, en la misma dirección. |
-|  | 20. Aterrice. Brazos cruzados y extendidos hacia abajo delante del cuerpo. |
+|  |
+| --- |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image19.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image20.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image5.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image21.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image6.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image22.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image7.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image23.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image8.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image24.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image9.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image25.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image10.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image26.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image11.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image27.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image12.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image28.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image13.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image29.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image14.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image30.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image15.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image31.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image16.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image32.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image17.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image33.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image18.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image34.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image19.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image35.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image20.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image36.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image21.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image37.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image22.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image38.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image23.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image39.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image24.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image40.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image25.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image26.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image27.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image28.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image29.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image30.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image31.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image32.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image33.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image34.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image35.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image36.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image37.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image38.png)
 
 5.2. Del piloto de una aeronave al señalero.
 
@@ -265,7 +306,13 @@ b) Fuera calzos: Manos cruzadas delante del rostro, palmas hacia fuera, moviendo
 
 5.2.3. Preparado para poner en marcha los motores.
 
-Levantar el número apropiado de dedos en una mano indicando el número del motor que ha de arrancar.
+5.3. Señales de comunicación técnica o de servicio.
+
+5.3.1 Las señales manuales se utilizarán solamente cuando no sea posible la comunicación verbal con respecto a las señales de comunicación técnica/ servicio.
+
+5.3.2. Los señaleros se cerciorarán de que la tripulación de vuelo ha acusado recibo con respecto a las señales de comunicación técnica / servicio.
+
+Nota.–Las señales de comunicación técnica / servicio se incluyen en el apéndice 1 para normalizar el uso de señales manuales utilizadas para comunicarse con las tripulaciones de vuelo durante el movimiento de la aeronave relacionado con funciones de servicio técnico o servicio de escala.
 
 ## ADJUNTO 6
 
@@ -391,21 +438,15 @@ emitiendo destellos dos veces con los faros de aterrizaje de la aeronave o, si n
 
 ## Señales del servicio AFIS
 
-7.1. Señales luminosas para el tránsito de aeronaves.
-
-7.1.1. Señales con luces corrientes.
+7.1. Señales luminosas, con luces corrientes, para el tránsito de aeronaves.
 
 Cuando el operador del AFIS emplee las luces que se indican a continuación éstas tendrán el significado que se indica:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image53.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image39.png)
 
-La(s) aeronave(s) acusará(n) recibo de la información recibida en la forma que se indica en el apéndice C adjunto 4, párrafo 4.1.2.
+La(s) aeronave(s) acusará(n) recibo de la información recibida en la forma que se indica en el apéndice C, adjunto 4, párrafo 4.1.2.
 
-7.1.2. Señales con luces pirotécnicas.
-
-Cuando el operador del AFIS emplee luz pirotécnica de color rojo la(s) aeronave(s) en vuelo alrededor del aeródromo deberá(n) entender que el aterrizaje es peligroso y deberá(n) esperar más información a través de señales con luces corrientes (véase Figura C.7-1).
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image54.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image40.png)
 
 7.2. Señales luminosas para tránsito que no sea de aeronaves.
 
@@ -431,3 +472,5 @@ Cuando la comunicación mediante un sistema de señales visuales se considere ad
 7.3. Señales visuales en tierra.
 
 El operador del AFIS puede informar a las aeronaves sobre las señales visuales en tierra que se detallan en el apéndice C, adjunto 4, sección 4.2.
+
+> Se modifican los Adjuntos 4, 5 y 7 por el art. único.5 de la Orden PRE/4063/2006, de 29 de diciembre. Ref. BOE-A-2007-187

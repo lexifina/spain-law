@@ -446,7 +446,7 @@ Las FMP son las responsables de proporcionar, en todo momento, a la CFMU la info
 
 El servicio para la Gestión de Afluencia del Tránsito Aéreo, ATFM, está disponible para todos los Estados de la Región EUR y se proporciona de acuerdo con las provisiones contenidas en los documentos de OACI: Doc. 4444 «PANS-ATM» y Doc. 7754 «Plan de Navegación Aérea EUR».
 
-Nota: El Doc. 7754 de OACI «Plan de Navegación aérea de la región Europea, Vol. II: Documento para la implantación de instalaciones y servicios (FASID), contiene una lista de los Estados de la Región EUR que reciben los servicios del Sistema ATFM (ASTER: Sistema ATFM de la Región EUR).
+Nota: El Doc. 7754 de OACI «Plan de Navegación aérea de la región Europea, Vol. II: Documento para la implantación de instalaciones y servicios (FASID), contiene una lista de los Estados de la Región EUR que reciben los servicios del Sistema ATFM (ASTER: Sistema ATFM de la Región EUR)
 
 4.2.11.3. Aplicación de las medidas ATFM.
 
@@ -1240,9 +1240,7 @@ La autoridad competente podrá establecer:
 
 a) otras mínimas para uso en circunstancias no prescritas, o
 
-b) condiciones adicionales a las prescritas para el uso de una mínima determinada, siempre que se mantenga en todo momento el nivel de seguridad inherente a las disposiciones detalladas que figuran en la Sección 4.3.7.
-
-El Capítulo 10, Sección 4.10.2.7., contiene disposiciones que rigen la separación radar.
+b) condiciones adicionales a las prescritas para el uso de una mínima determinada, siempre que se mantenga en todo momento el nivel de seguridad inherente a las disposiciones detalladas que figuran en el apartado 4.3.7.
 
 4.3.7.1. Aplicación de la separación lateral.
 
@@ -1258,9 +1256,9 @@ Este margen de seguridad lo determinará la autoridad correspondiente y se inclu
 
 4.3.7.2.1.1. Separación geográfica, es decir, la separación específicamente indicada mediante mensajes de posición sobre puntos geográficos diferentes cuya determinación se efectúe visualmente o por referencia a una ayuda para la navegación (véase Fig. 4-1).
 
-4.3.7.2.1.2. Separación de derrotas entre aeronaves que utilicen la misma ayuda o el mismo método de navegación.
-
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image2.png)
+
+4.3.7.2.1.2. Separación de derrotas entre aeronaves que utilicen la misma ayuda o el mismo método de navegación.
 
 Exigiendo a las aeronaves que sigan determinadas derrotas con un mínimo de separación apropiado a la ayuda o al método de navegación empleados del modo siguiente:
 
@@ -1274,14 +1272,14 @@ ii) Una aeronave se aleja y otra se acerca a la ayuda:
 
 Derrotas que diverjan 15 grados por lo menos y la aeronave que se aleja se encuentre a 28 km (15 NM) o más de la ayuda (véase Fig. 4-2B);
 
-b) NDB:
-
 |  |  |
 | --- | --- |
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image4.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/4/00187_6629927_image1.png)
+
+b) NDB:
 
 i) Ambas aeronaves se alejan de la ayuda:
 
@@ -1336,9 +1334,9 @@ La separación longitudinal entre aeronaves que sigan la misma derrota o derrota
 
 4.3.8.1.4. A efectos de aplicación de la separación longitudinal, los términos «la misma derrota», «derrotas opuestas», «derrotas que se cruzan» y «en la derrota» tendrán el siguiente significado:
 
-a) La misma derrota (véase la Figura 4-5A):
+a) La misma derrota (véase Fig. 4-5A):
 
-Derrotas en la misma dirección y derrotas y derrotas intersecantes o partes de las mismas, cuya diferencia angular es inferior a 45° o superior a 315° y cuyas áreas de protección se superponen.
+Derrotas en la misma dirección y derrotas intersecantes o partes de las mismas, cuya diferencia angular es inferior a 45.º o superior a 315.º y cuyas áreas de protección se superponen.
 
 b) Derrotas opuestas (véase la Figura 4-5 B):
 
@@ -1348,6 +1346,10 @@ c) Derrotas que se cruzan (véase la Figura 4-5 C):
 
 Derrotas intersectantes o partes de las mismas, distintas de las especificadas en a) y b) anteriores.
 
+d) En la derrota (véase la figura 4-6):
+
+Las aeronaves vuelan directamente hacia la estación o la tienen en cola.
+
 |  |  |
 | --- | --- |
 
@@ -1355,18 +1357,14 @@ Derrotas intersectantes o partes de las mismas, distintas de las especificadas e
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image9.png)
 
-d) En la derrota (véase la figura 4-6):
-
-Las aeronaves vuelan directamente hacia la estación o la tienen en cola.
-
-4.3.8.2. Mínimas de separación longitudinal en función del tiempo.
-
 |  |  |
 | --- | --- |
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image10.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image11.png)
+
+4.3.8.2. Mínimas de separación longitudinal en función del tiempo.
 
 4.3.8.2.1. Aeronaves al mismo nivel de crucero:
 
@@ -1378,14 +1376,18 @@ b) diez minutos, si las ayudas para la navegación permiten determinar frecuente
 
 c) cinco minutos en los siguientes casos, siempre que, en cada caso, la aeronave precedente mantenga una velocidad verdadera que exceda en 37 km/h (20 kt) o más de la aeronave que sigue (véase Fig. 4-9):
 
+i) entre aeronaves que han salido del mismo aeródromo;
+
+ii) entre aeronaves en ruta que hayan notificado exactamente sobre el mismo punto de notificación;
+
+iii) entre una aeronave que salga y otra en ruta, después de que la aeronave en ruta haya notificado sobre un punto de posición situado de tal forma en relación con el punto de salida, que se asegure que puede establecerse una separación de cinco minutos en el punto en que la aeronave que sale entrará en la ruta aérea; o
+
 |  |  |
 | --- | --- |
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image12.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image13.png)
-
-i) entre aeronaves que han salido del mismo aeródromo;
 
 |  |  |
 | --- | --- |
@@ -1394,41 +1396,35 @@ i) entre aeronaves que han salido del mismo aeródromo;
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image15.png)
 
-ii) entre aeronaves en ruta que hayan notificado exactamente sobre el mismo punto de notificación;
-
-iii) entre una aeronave que salga y otra en ruta, después de que la aeronave en ruta haya notificado sobre un punto de posición situado de tal forma en relación con el punto de salida, que se asegure que puede establecerse una separación de cinco minutos en el punto en que la aeronave que sale entrará en la ruta aérea; o
-
 d) tres minutos en los casos enumerados en c), siempre que, en cada caso, la aeronave precedente mantenga una velocidad verdadera que exceda en 74 km/h (40 kt) o más la de la aeronave que sigue (véase Fig. 4-10).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image16.png)
 
 4.3.8.2.1.2. Aeronaves que sigan derrotas que se cruzan:
 
 a) quince minutos (véase Fig. 4-11A), veinte minutos en la FIR/UIR Canarias (véase Fig. 4-11B); o
 
+b) diez minutos, si las ayudas para la navegación permiten determinar frecuentemente la posición y la velocidad (véase Fig. 4-12).
+
 |  |  |
 | --- | --- |
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image16.png)
-
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image17.png)
 
-b) diez minutos, si las ayudas para la navegación permiten determinar frecuentemente la posición y la velocidad (véase Fig. 4-12).
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image18.png)
+
+|  |
+| --- |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image19.png)
 
 4.3.8.2.2. Aeronaves en subida o descenso.
 
 4.3.8.2.2.1. Tránsito que sigue la misma derrota.
 
-|  |  |
-| --- | --- |
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image18.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image19.png)
-
 Cuando una aeronave vaya a cruzar el nivel de otra aeronave que sigue la misma derrota, se establecerá la siguiente separación longitudinal mínima:
 
 a) quince minutos (véase Fig. 4-13A1, 4-13A2), veinte minutos en la FIR/UIR Canarias, (véase Fig. 4-13B1, 4-13B2) cuando no exista separación vertical o
-
-b) diez minutos cuando no exista separación vertical, pero esta separación se autorizará únicamente donde las ayudas para la navegación permitan determinar frecuentemente la posición y la velocidad (véase Fig. 4-14A y 4-14B); o
 
 |  |  |
 | --- | --- |
@@ -1442,7 +1438,11 @@ b) diez minutos cuando no exista separación vertical, pero esta separación se 
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image23.png)
 
+b) diez minutos cuando no exista separación vertical, pero esta separación se autorizará únicamente donde las ayudas para la navegación permitan determinar frecuentemente la posición y la velocidad (véase Fig. 4-14A y 4-14B); o
+
 c) cinco minutos cuando no exista separación vertical, siempre que el cambio de nivel se inicie dentro de diez minutos a partir del momento en que la segunda aeronave ha notificado encontrarse exactamente sobre un punto de notificación preciso (véase Fig. 4-15A y 4-15B).
+
+Con el fin de facilitar la aplicación del procedimiento cuando hay que hacer un cambio de nivel considerable, puede autorizarse, a la aeronave que desciende, a volar a algún nivel conveniente sobre la aeronave que esté más baja, o puede autorizarse a la aeronave que sube a volar a un nivel conveniente por debajo de la aeronave que esté más alta, para permitir otra verificación de la separación que se obtendrá cuando no exista separación vertical.
 
 |  |  |
 | --- | --- |
@@ -1450,8 +1450,6 @@ c) cinco minutos cuando no exista separación vertical, siempre que el cambio de
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image24.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image25.png)
-
-Con el fin de facilitar la aplicación del procedimiento cuando hay que hacer un cambio de nivel considerable, puede autorizarse, a la aeronave que desciende, a volar a algún nivel conveniente sobre la aeronave que esté más baja, o puede autorizarse a la aeronave que sube a volar a un nivel conveniente por debajo de la aeronave que esté más alta, para permitir otra verificación de la separación que se obtendrá cuando no exista separación vertical.
 
 |  |  |
 | --- | --- |
@@ -1466,8 +1464,6 @@ a) quince minutos (véase Fig. 4-16A1 y 4-16A2), veinte minutos en la FIR/UIR Ca
 
 b) diez minutos cuando no exista separación vertical, si las ayudas para la navegación permiten determinar frecuentemente la posición y la velocidad (véase Fig. 4-17A y 4-17B).
 
-4.3.8.2.3. Tránsito que sigue derrotas opuestas.
-
 |  |  |
 | --- | --- |
 |  |  |
@@ -1480,8 +1476,6 @@ b) diez minutos cuando no exista separación vertical, si las ayudas para la nav
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image31.png)
 
-Cuando no se proporcione separación lateral, la vertical se proveerá por lo menos diez minutos antes, veinte minutos en la FIR/UIR Canarias, y hasta diez minutos después, veinte minutos en la FIR/UIR Canarias, del momento en que se prevea que las aeronaves se cruzarán o se hayan cruzado. Con tal que se haya determinado positivamente que las aeronaves se han cruzado, no es necesario aplicar esta mínima (véase Fig. 4-18A y 4-18B).
-
 |  |  |
 | --- | --- |
 
@@ -1489,9 +1483,9 @@ Cuando no se proporcione separación lateral, la vertical se proveerá por lo me
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image33.png)
 
-4.3.8.3. Mínimas de separación longitudinal basadas en distancia DME.
+4.3.8.2.3. Tránsito que sigue derrotas opuestas.
 
-4.3.8.3.1. La separación se establecerá manteniendo por lo menos la distancia o distancias especificadas entre posiciones de aeronaves, que se notifiquen por referencia al DME junto con otras ayudas para la navegación apropiadas.
+Cuando no se proporcione separación lateral, la vertical se proveerá por lo menos diez minutos antes, veinte minutos en la FIR/UIR Canarias, y hasta diez minutos después, veinte minutos en la FIR/UIR Canarias, del momento en que se prevea que las aeronaves se cruzarán o se hayan cruzado. Con tal que se haya determinado positivamente que las aeronaves se han cruzado, no es necesario aplicar esta mínima (véase Fig. 4-18A y 4-18B).
 
 |  |  |
 | --- | --- |
@@ -1499,6 +1493,10 @@ Cuando no se proporcione separación lateral, la vertical se proveerá por lo me
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image34.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image35.png)
+
+4.3.8.3. Mínimas de separación longitudinal basadas en distancia DME.
+
+4.3.8.3.1. La separación se establecerá manteniendo por lo menos la distancia o distancias especificadas entre posiciones de aeronaves, que se notifiquen por referencia al DME junto con otras ayudas para la navegación apropiadas.
 
 Se mantendrá comunicación directa entre el controlador y el piloto mientras se utilice tal separación.
 
@@ -1520,10 +1518,6 @@ ii) cada aeronave utilice las estaciones DME «en la derrota»; y
 
 iii) la separación se verifique por medio de lecturas DME simultáneas desde las aeronaves, a los intervalos que sean necesarios para asegurar que se establece la separación mínima y que no se infringe ésta (véase Fig. 4-19B).
 
-4.3.8.3.1.1.2. Aeronaves que siguen derrotas que se cruzan.
-
-La separación longitudinal prescrita en 4.3.8.3.1.1.1. se aplicará también con tal que cada aeronave notifique la distancia a que se halla de la estación situada en el punto donde se cruzan las derrotas y el ángulo entre las derrotas sea inferior a 90° (véase Fig. 4-20A y 4-20B).
-
 |  |  |
 | --- | --- |
 
@@ -1531,9 +1525,9 @@ La separación longitudinal prescrita en 4.3.8.3.1.1.1. se aplicará también co
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image37.png)
 
-4.3.8.3.1.2. Aeronaves que ascienden o descienden en la misma derrota. 19 km (10 NM), cuando no exista separación vertical, siempre que:
+4.3.8.3.1.1.2. Aeronaves que siguen derrotas que se cruzan.
 
-a) cada aeronave utilice las estaciones DME «en la derrota»
+La separación longitudinal prescrita en 4.3.8.3.1.1.1. se aplicará también con tal que cada aeronave notifique la distancia a que se halla de la estación situada en el punto donde se cruzan las derrotas y el ángulo entre las derrotas sea inferior a 90° (véase Fig. 4-20A y 4-20B).
 
 |  |  |
 | --- | --- |
@@ -1541,6 +1535,10 @@ a) cada aeronave utilice las estaciones DME «en la derrota»
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image38.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image39.png)
+
+4.3.8.3.1.2. Aeronaves que ascienden o descienden en la misma derrota. 19 km (10 NM), cuando no exista separación vertical, siempre que:
+
+a) cada aeronave utilice las estaciones DME «en la derrota»
 
 b) una aeronave mantenga un nivel mientras no exista separación vertical; y
 
@@ -1617,25 +1615,19 @@ a) cada aeronave notifique su distancia hasta o desde el mismo punto de recorrid
 
 b) se verifique la separación por medio de lecturas simultáneas de la distancia RNAV desde las aeronaves, a intervalos frecuentes, con el objeto de asegurar que se respete la mínima.
 
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image42.png)
+
 4.3.8.5.7. Aeronaves que ascienden o descienden en la misma derrota
 
 4.3.8.5.7.1. Se podrá aplicar una mínima de separación de 150 km (80 NM) basada en la distancia RNAV cuando no exista separación vertical, siempre que:
 
 a) cada aeronave notifique su distancia hasta o desde el mismo punto de recorrido «en la derrota»;
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image42.png)
-
 b) una aeronave mantenga el nivel, mientras no haya separación vertical; y
 
 c) se establezca la separación por medio de lecturas simultáneas de la distancia RNAV desde las aeronaves (véanse las Figuras 4-22B y 4-22C).
 
 Nota: Con el fin de facilitar la aplicación del procedimiento cuando haya un cambio de nivel considerable, puede autorizarse a la aeronave que desciende a volar hasta un nivel conveniente sobre la aeronave que esté a menor altitud, o puede autorizarse a la aeronave que sube a volar hasta un nivel conveniente por debajo de la aeronave que esté a mayor altitud, para poder verificar nuevamente la separación que se obtendrá cuando no exista separación vertical
-
-4.3.8.5.8. Aeronaves que siguen derrotas opuestas.
-
-4.3.8.5.8.1. Puede autorizarse a las aeronaves que utilizan RNAV a que asciendan o desciendan hasta los niveles ocupados por otras aeronaves que utilicen RNAV, siempre que se haya establecido con certeza por medio de lecturas simultáneas de la distancia RNAV desde o hasta el mismo punto de recorrido «en la derrota» que las aeronaves se han cruzado a 150 km (80 NM) de distancia como mínimo (véase la Figura 4-22D).
-
-4.3.8.6. Separación longitudinal mínima basada en tiempo y distancia observada por radar en el espacio aéreo español de la región EUR.
 
 |  |  |
 | --- | --- |
@@ -1644,11 +1636,17 @@ Nota: Con el fin de facilitar la aplicación del procedimiento cuando haya un ca
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image44.png)
 
+4.3.8.5.8. Aeronaves que siguen derrotas opuestas.
+
+4.3.8.5.8.1. Puede autorizarse a las aeronaves que utilizan RNAV a que asciendan o desciendan hasta los niveles ocupados por otras aeronaves que utilicen RNAV, siempre que se haya establecido con certeza por medio de lecturas simultáneas de la distancia RNAV desde o hasta el mismo punto de recorrido «en la derrota» que las aeronaves se han cruzado a 150 km (80 NM) de distancia como mínimo (véase la Figura 4-22D).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image45.png)
+
+4.3.8.6. Separación longitudinal mínima basada en tiempo y distancia observada por radar en el espacio aéreo español de la región EUR.
+
 4.3.8.6.1. A reserva de todas las limitaciones en el uso del radar y cuando no se puedan aplicar mínimas inferiores en el espacio aéreo español de la región EUR se podrá aplicar una separación longitudinal mínima de tres minutos entre aeronaves que sigan la misma derrota o derrotas que se crucen, independientemente de que se hallen en el mismo nivel, asciendan o desciendan, a condición de que:
 
 1. La marcha de sus vuelos sea observada continuamente por radar que forme parte íntegramente de la correspondiente dependencia ATC; y
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image45.png)
 
 2. La distancia entre aeronaves observadas por radar no sea, en ningún caso, inferior a 20 NM.
 
@@ -2122,6 +2120,10 @@ Las siguientes disposiciones son complementarias de las mínimas de separación 
 
 Esta separación mínima podrá reducirse si las aeronaves usan pistas paralelas, o cuando se adopte el procedimiento prescrito en 4.4.2.2. para operaciones en pistas divergentes que no se crucen, con tal de que la autoridad ATS competente haya aprobado instrucciones referentes al procedimiento, y de que la separación lateral se obtenga inmediatamente después del despegue.
 
+4.4.3.2. Dos minutos entre despegues cuando la aeronave precedente vuele por lo menos a 74 km/h (40 kt) más rápida que la aeronave que le sigue, y ambas aeronaves se propongan seguir la misma derrota (véase Fig. 4-25B).
+
+Los cálculos, basados en las velocidades aerodinámicas verdaderas (TAS), de las diferencias de velocidad entre aeronaves durante el ascenso, pueden no ser suficientemente precisos en todas las circunstancias para determinar si puede aplicarse el procedimiento indicado en 4.4.3.2., en cuyo caso pueden ser más convenientes los cálculos basados en las velocidades aerodinámicas indicadas (IAS).
+
 |  |  |
 | --- | --- |
 
@@ -2129,17 +2131,13 @@ Esta separación mínima podrá reducirse si las aeronaves usan pistas paralelas
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image47.png)
 
-4.4.3.2. Dos minutos entre despegues cuando la aeronave precedente vuele por lo menos a 74 km/h (40 kt) más rápida que la aeronave que le sigue, y ambas aeronaves se propongan seguir la misma derrota (véase Fig. 4-25B).
-
-Los cálculos, basados en las velocidades aerodinámicas verdaderas (TAS), de las diferencias de velocidad entre aeronaves durante el ascenso, pueden no ser suficientemente precisos en todas las circunstancias para determinar si puede aplicarse el procedimiento indicado en 4.4.3.2., en cuyo caso pueden ser más convenientes los cálculos basados en las velocidades aerodinámicas indicadas (IAS).
-
 4.4.3.3. Cinco minutos de separación cuando no exista separación vertical, si una aeronave que sale atravesara el nivel de otra que haya salido antes, y ambas vayan a seguir la misma derrota (véase Fig. 4-25C). Deben tomarse medidas para asegurar que se mantenga o aumente la separación de cinco minutos cuando no exista separación vertical.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image48.png)
 
 4.4.4. Autorizaciones a las aeronaves que salen para que asciendan cuidando su propia separación en condiciones meteorológicas de vuelo visual.
 
 4.4.4.1. Cuando lo solicite una aeronave, o cuando lo proponga una dependencia ATC y lo acepte la aeronave, se podrá dar autorización a un vuelo controlado que sale y que opere en condiciones meteorológicas visuales durante las horas diurnas para que ascienda cuidando su propia separación y permaneciendo en condiciones meteorológicas de vuelo visual. Cuando así se permita a un vuelo controlado, regirá lo dispuesto en los apartados a), b), c) y d) del párrafo 4.3.13.1.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image48.png)
 
 4.4.5. Aeronaves que salen de pistas paralelas o casi paralelas.
 
@@ -2822,9 +2820,9 @@ f) otros peligros temporales, incluyendo aeronaves estacionadas y aves en el sue
 
 g) la avería o el funcionamiento irregular de una parte o de todo el sistema de iluminación del aeródromo;
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image56.png)
-
 h) cualquier otra información pertinente.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image56.png)
 
 4.5.8.3. La información esencial sobre las condiciones del aeródromo se dará a todas las aeronaves, excepto cuando se sepa que la aeronave ya ha recibido de otras fuentes (1) toda o parte de la información.
 
@@ -2966,8 +2964,6 @@ i) hasta que la aeronave que la preceda en el orden de salidas haya cruzado el f
 
 ii) hasta que las aeronaves que acaben de aterrizar (B) hayan dejado la pista libre (véase Fig. 4-35B).
 
-b) Aeronaves que usan pistas que se cruzan:
-
 |  |  |
 | --- | --- |
 
@@ -2975,13 +2971,11 @@ b) Aeronaves que usan pistas que se cruzan:
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image60.png)
 
+b) Aeronaves que usan pistas que se cruzan:
+
 i) hasta que la aeronave que la preceda en el orden de salidas haya cruzado la intersección de ambas pistas (B) o haya iniciado un viraje (C) (véase Fig. 4-35C); y
 
 ii) hasta que las aeronaves que acaben de aterrizar hayan dejado ambas pistas libres (B), hayan cruzado la intersección de ambas pistas (C) o hayan completado la carrera de aterrizaje y se mantendrán fuera de la pista de despegue (D) (véase Fig 4-35D).
-
-4.5.14.1.1.1. Reducción de la separación entre aeronaves.
-
-4.5.14.1.1.1.1. Cuando así lo prescriba la autoridad ATS competente, previa consulta con los explotadores, una aeronave que sale a continuación de otra puede comenzar el despegue de la misma pista si existe entre ellas la siguiente distancia mínima:
 
 |  |  |
 | --- | --- |
@@ -2989,6 +2983,10 @@ ii) hasta que las aeronaves que acaben de aterrizar hayan dejado ambas pistas li
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image61.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image62.png)
+
+4.5.14.1.1.1. Reducción de la separación entre aeronaves.
+
+4.5.14.1.1.1.1. Cuando así lo prescriba la autoridad ATS competente, previa consulta con los explotadores, una aeronave que sale a continuación de otra puede comenzar el despegue de la misma pista si existe entre ellas la siguiente distancia mínima:
 
 a) 3.000 ft (900 m) cuando ambas aeronaves sean de categoría I (véase Fig. 4-23);
 
@@ -3014,13 +3012,13 @@ c) Cuando la eficacia de frenado pueda estar adversamente afectada por la existe
 
 d) En condiciones meteorológicas que impidan al piloto la pronta evaluación de las condiciones del tránsito en la pista.
 
-4.5.14.1.1.1.3. A los efectos de las separaciones prescritas en 4.5.14.1.1.1.1., las aeronaves se clasifican en las categorías siguientes:
+4.5.14.1.1.1.3. A los efectos de las separaciones prescritas en 4.5.14.1.1.1.1, las aeronaves se clasifican en las categorías siguientes:
 
-i) Categoría I: Aeronaves ligeras (7.500 kg/12.500 lbs o menos), monomotoras y propulsadas por hélice;
+i) Categoría I-Aeronaves ligeras (5.670 kg/12.500 lbs o menos), monomotoras y propulsadas por hélice;
 
-ii) Categoría II: Aeronaves ligeras (7.500 kg/12.500 lbs o menos), bimotoras y propulsadas por hélice;
+ii) Categoría II-Aeronaves ligeras (5.670 kg/12.500 lbs o menos), bimotoras y propulsadas por hélice;
 
-iii) Categoría III: Todas las demás aeronaves.
+iii) Categoría III-Todas las demás aeronaves.
 
 4.5.14.2. Puede concederse la autorización de despegue a una aeronave si se tiene un grado razonable de seguridad de que la separación que figura en 4.5.14.1.1. o la que se prescriba de acuerdo con 4.5.14.1.1.1. existirán cuando la aeronave comience el despegue.
 
@@ -3088,8 +3086,6 @@ i) 3.000 ft (900 m) cuando una aeronave de categoría I aterrice detrás de otra
 
 ii) 4.500 ft (1.350 m) cuando una aeronave de categoría II aterrice detrás de otra de categoría I o II (véase Fig 4-24B);
 
-b) que la otra aeronave esté en el aire y que desde el umbral de aterrizaje se dé alguna de las distancias mínimas siguientes:
-
 |  |  |
 | --- | --- |
 
@@ -3097,15 +3093,17 @@ b) que la otra aeronave esté en el aire y que desde el umbral de aterrizaje se 
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image69.png)
 
+b) que la otra aeronave esté en el aire y que desde el umbral de aterrizaje se dé alguna de las distancias mínimas siguientes:
+
 i) 3.000 ft (900 m) cuando una aeronave de categoría I aterrice detrás de otra de categoría I o II (véase Fig. 4-24C);
 
 ii) 4.500 ft (1.350 m) cuando una aeronave de categoría II aterrice detrás de otra de categoría I o II (véase Fig. 4-24C);
 
-iii) 6.000 ft (1.800 m) cuando ambas aeronaves sean de categoría III (véase Fig. 4-24C).
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image70.png)
+iii) 6.000 ft (1.800 m) cuando una de las aeronaves sea de categoría III (véase Fig. 4-24C).
 
 Las distancias serán determinadas por el controlador con relación a puntos adecuados de referencia sobre el terreno.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image70.png)
 
 4.5.15.1.1.1.2. Las mínimas reducidas prescritas en 4.5.15.1.1.1.1. no se aplicarán:
 
@@ -3115,13 +3113,13 @@ b) Cuando la eficacia de frenado pueda estar adversamente afectada por la existe
 
 c) En condiciones meteorológicas que impidan al piloto la pronta evaluación de las condiciones del tránsito en la pista.
 
-4.5.15.1.1.1.3. A los efectos de las separaciones prescritas en 4.5.15.1.1.1.1., las aeronaves se clasifican en las categorías siguientes:
+4.5.15.1.1.1.3. A los efectos de las separaciones prescritas en 4.5.15.1.1.1.1, las aeronaves se clasifican en las categorías siguientes:
 
-i) Categoría I: Aeronaves ligeras (7.500 kg/12.500 lbs o menos), monomotoras y propulsadas por hélice;
+i) Categoría I-Aeronaves ligeras (5.670 kg/12.500 lbs o menos), monomotoras y propulsadas por hélice;
 
-ii) Categoría II: Aeronaves ligeras (7.500 kg/12.500 lbs o menos), bimotoras y propulsadas por hélice;
+ii) Categoría II-Aeronaves ligeras (5.670 kg/12.500 lbs o menos), bimotoras y propulsadas por hélice;
 
-iii) Categoría III: Todas las demás aeronaves.
+iii) Categoría III-Todas las demás aeronaves.
 
 4.5.15.2. Puede concederse la autorización de aterrizar a una aeronave si se tiene un grado razonable de seguridad de que la separación que figura en 4.5.15.1.1., o la que se prescriba de acuerdo con 4.5.15.1.1.1., existirá cuando la aeronave cruce el umbral de la pista, con tal de que, en el caso de aterrizajes sucesivos, la autorización de aterrizar no se conceda hasta que la aeronave precedente en la secuencia de aterrizaje haya cruzado el umbral de la pista.
 
@@ -3157,15 +3155,15 @@ Las disposiciones que rigen las mínimas de separación radar por estela turbule
 
 4.5.16.2.2. Aeronaves que llegan.
 
-4.5.16.2.2.1. Para las aproximaciones cronometradas, deberán aplicarse las mínimas siguientes a las aeronaves que aterricen detrás de una aeronave PESADA o MEDIA:
+4.5.16.2.2.1. Para las aproximaciones cronometradas, deberán aplicarse las mínimas siguientes a las aeronaves que aterricen detrás de una aeronave PESADA (1) o MEDIA:
 
-a) aeronave MEDIA detrás de una aeronave PESADA - 2 minutos
+a) aeronave MEDIA o PESADA detrás de una aeronave PESADA (1)-2 minutos
 
-b) aeronave LIGERA detrás de una aeronave PESADA o MEDIA - 3 minutos
+b) aeronave LIGERA detrás de una aeronave PESADA (1) ó MEDIA-3 minutos
 
-4.5.16.2.3. Aeronaves que salen.
+4.5.16.2.3 Aeronaves que salen.
 
-4.5.16.2.3.1. Salvo lo previsto en 4.5.16.2.3.2., deberá aplicarse un mínimo de DOS MINUTOS entre una aeronave LIGERA o MEDIA que despegue detrás de una aeronave PESADA o entre una aeronave LIGERA que despegue detrás de una aeronave MEDIA cuando las aeronaves utilicen:
+4.5.16.2.3.1 Salvo lo previsto en 4.5.16.2.3.2., deberá aplicarse un mínimo de DOS MINUTOS entre una aeronave LIGERA o MEDIA o PESADA que despegue detrás de una aeronave PESADA (1) o entre una aeronave LIGERA que despegue detrás de una aeronave MEDIA cuando las aeronaves utilicen:
 
 a) la misma pista;
 
@@ -3175,17 +3173,7 @@ c) pistas que se cruzan, si la trayectoria de vuelo prevista de la segunda aeron
 
 d) pistas paralelas separadas 760 m o más, si la trayectoria de vuelo prevista de la segunda aeronave se cruzará con la trayectoria de vuelo prevista de la primera aeronave a la misma altitud o a menos de 300 m (1.000 ft) por debajo.
 
-(Véase Fig. 4-36A y 4-36B)
-
-4.5.16.2.3.2. Se aplicará una mínima separación de TRES MINUTOS entre una aeronave LIGERA o MEDIA cuando despegue detrás de una aeronave PESADA, o entre una aeronave LIGERA cuando despegue detrás de una aeronave MEDIA, desde:
-
-a) una parte intermedia de la misma pista; y
-
-b) una parte intermedia de una pista paralela separada menos de 760 m.
-
-(Véase Fig. 4-37).
-
-4.5.16.2.4. Umbral de aterrizaje desplazado.
+(Véase Fig. 4-36A y Fig. 4-36B).
 
 |  |  |
 | --- | --- |
@@ -3194,25 +3182,29 @@ b) una parte intermedia de una pista paralela separada menos de 760 m.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image72.png)
 
+4.5.16.2.3.2 Se aplicará una mínima separación de TRES MINUTOS entre una aeronave LIGERA o MEDIA o PESADA cuando despegue detrás de una aeronave PESADA (1), o entre una aeronave LIGERA cuando despegue detrás de una aeronave MEDIA, desde:
+
+a) una parte intermedia de la misma pista; y
+
+b) una parte intermedia de una pista paralela separada menos de 760 m (véase Fig. 4-37).
+
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image73.png)
 
-4.5.16.2.4.1. Se aplicará una mínima separación de DOS MINUTOS entre una aeronave LIGERA o MEDIA y una aeronave PESADA, y entre una aeronave LIGERA y una aeronave MEDIA, en caso de que operen en una pista con umbral de aterrizaje desplazado, cuando:
+4.5.16.2.4 Umbral de aterrizaje desplazado.
 
-a) la salida de una aeronave LIGERA o MEDIA siga a la llegada de una aeronave PESADA, y la salida de una aeronave LIGERA siga a la llegada de una aeronave MEDIA; o
+4.5.16.2.4.1 Se aplicará una mínima separación de DOS MINUTOS entre una aeronave LIGERA o MEDIA o PESADA y una aeronave PESADA (1), y entre una aeronave LIGERA y una aeronave MEDIA, en caso de que operen en una pista con umbral de aterrizaje desplazado, cuando:
 
-b) la llegada de una aeronave LIGERA o MEDIA siga a la salida de una aeronave PESADA y la llegada de una aeronave LIGERA siga a la salida de una aeronave MEDIA, si se espera que las trayectorias de vuelo previstas se crucen.
+a) la salida de una aeronave LIGERA o MEDIA siga a la llegada de una aeronave PESADA (1), y la salida de una aeronave LIGERA siga a la llegada de una aeronave MEDIA: o
 
-4.5.16.2.5. Sentidos opuestos.
+b) la llegada de una aeronave LIGERA o MEDIA siga a la salida de una aeronave PESADA (1) y la llegada de una aeronave LIGERA siga a la salida de una aeronave MEDIA, si se espera que las trayectorias de vuelo previstas se crucen.
 
-4.5.16.2.5.1. Se aplicará una mínima separación de DOS MINUTOS entre una aeronave LIGERA o MEDIA y una aeronave PESADA, o entre una aeronave LIGERA y una aeronave MEDIA cuando la más pesada efectúe una aproximación baja o frustrada, y la más ligera:
+4.5.16.2.5 Sentidos opuestos.
+
+4.5.16.2.5.1 Se aplicará una mínima separación de DOS MINUTOS entre una aeronave LIGERA o MEDIA o PESADA y una aeronave PESADA (1), o entre una aeronave LIGERA y una aeronave MEDIA cuando la más pesada efectúe una aproximación baja o frustrada, y la más ligera:
 
 a) utilice para el despegue una pista en sentido opuesto; o (véase Fig. 4-38A)
 
-b) aterrice en la misma pista en sentido opuesto o en una pista paralela de sentido opuesto separada menos de 760 m. (Véase Fig. 4-38B).
-
-4.5.17. Autorización de vuelos VFR especiales.
-
-4.5.17.1. Cuando las condiciones del tránsito lo permitan, podrán autorizarse vuelos VFR especiales a reserva de la aprobación de la dependencia que suministra servicio de control de aproximación y de las disposiciones de 4.5.17.2. y 4.5.17.3. que figuran a continuación.
+b) aterrice en la misma pista en sentido opuesto o en una pista paralela de sentido opuesto separada menos de 760 m (Véase Fig. 4-38B).
 
 |  |  |
 | --- | --- |
@@ -3220,6 +3212,10 @@ b) aterrice en la misma pista en sentido opuesto o en una pista paralela de sent
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image74.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image75.png)
+
+4.5.17. Autorización de vuelos VFR especiales.
+
+4.5.17.1. Cuando las condiciones del tránsito lo permitan, podrán autorizarse vuelos VFR especiales a reserva de la aprobación de la dependencia que suministra servicio de control de aproximación y de las disposiciones de 4.5.17.2. y 4.5.17.3. que figuran a continuación.
 
 4.5.17.1.1. Las solicitudes para tales autorizaciones se tramitarán separadamente.
 
@@ -3232,24 +3228,6 @@ b) aterrice en la misma pista en sentido opuesto o en una pista paralela de sent
 a) la aeronave esté equipada con un radiorreceptor que funcione y el piloto haya convenido en mantenerse a la escucha en la frecuencia correspondiente; o
 
 b) dentro del espacio aéreo Clase E, si la aeronave no está equipada con un radiorreceptor, se hayan hecho los arreglos oportunos para la terminación del vuelo.
-
-4.5.18 Autorización de vuelos VFRN.
-
-4.5.18.1. En los aeródromos homologados para el vuelo VFRN y cuando las condiciones de seguridad existentes lo permitan podrán autorizarse vuelos VFRN a reserva de las disposiciones que figuran a continuación.
-
-4.5.18.2. Las solicitudes para las autorizaciones de vuelos VFRN se tramitarán separadamente.
-
-4.5.18.3. Los vuelos VFRN precisan de autorización ATC de la dependencia que suministra servicio de control de aproximación y/o de la que suministra servicio de control de área cuando se vayan a efectuar en espacio aéreo controlado clases B, C, D o E más allá del circuito de tránsito de aeródromo.
-
-4.5.18.4. Los vuelos VFRN recibirán información de vuelo de la dependencia que suministre servicio de información de vuelo cuando se vayan a efectuar en espacio aéreo no controlado clases F o G más allá del circuito de tránsito de aeródromo.
-
-4.5.18.5. Se mantendrá la separación entre todos los vuelos VFRN y entre los vuelos IFR y los vuelos VFRN de conformidad con las mínimas de separación estipuladas en los Capítulo 3 y 4.
-
-4.5.18.6. Podrán autorizarse vuelos VFRN locales cuando:
-
-a) el techo de nubes no sea inferior a 450 m (1.500 ft) y la visibilidad en tierra no sea inferior a 5 km; y
-
-b) la previsión meteorológica no sea de condiciones inferiores a los mínimos indicados en a).
 
 ## CAPÍTULO 6
 
@@ -3765,17 +3743,23 @@ viii) los procedimientos relativos a la aplicación de la separación mínima re
 
 4.6.7.4.3. La mínima de separación radar o los mínimos aplicables serán los prescritos por la autoridad ATS competente, de acuerdo con la capacidad del sistema o de los sensores de que se trate, para poder identificar con exactitud la posición de la aeronave en relación con el centro de una traza RPS, PSR o respuesta SSR y teniéndose en cuenta factores que pueden influir en la precisión de la información proveniente del radar, tales como la distancia desde la aeronave hasta el emplazamiento radar.
 
-4.6.7.4.4. En las circunstancias que se indican en 4.6.7.4.4.1, se aplicarán a las aeronaves en las fases de aproximación y salida las siguientes mínimas de separación radar por estela turbulenta.
+4.6.7.4.4. En las circunstancias que se indican en 4.6.7.4.4.1, se aplicarán a las aeronaves en las fases de aproximación y salida las siguientes mínimas de separación radar por estela turbulenta
 
 | Categoría de aeronaves | Mínimas de separación radar por estela turbulenta |
 | --- | --- |
 | Aeronave que precede | Aeronave que sigue |
-| PESADA | PESADA | 7,4 Km. (4 NM) |
-| MEDIA | 9,3 Km. (5 NM) |
-| LIGERA | 11,1 Km. (6 NM) |
-| MEDIA | LIGERA | 9,3 Km. (5 NM) |
+| PESADA (1) | PESADA | 7,4 km (4 NM) |
+|  | MEDIA | 9,3 km (5 NM) |
+|  | LIGERA | 11,1 km (6 NM) |
+| MEDIA | LIGERA | 9,3 km (5 NM) |
 
-Nota: Las disposiciones que rigen la clasificación de aeronaves según la estela turbulenta se presentan en el Capítulo 5, Sección 4.5.16.
+Nota. ‒Las disposiciones que rigen la clasificación de aeronaves según la estela turbulenta se presentan en el capítulo 5, Sección 4.5.16.
+
+(1) A los efectos de aplicación de separación por estela turbulenta, las aeronaves B757 y B737 (800/900) serán consideradas:
+
+— aeronaves PESADAS cuando vayan seguidas de otra aeronave, debido a la estela turbulenta que generan, y
+
+— aeronaves MEDIAS cuando sigan a otra aeronave.
 
 4.6.7.4.4.1. Las mínimas establecidas en 4.6.7.4.4 se aplicarán cuando:
 
@@ -5556,7 +5540,7 @@ c) ruta de vuelo;
 
 d) nivel o niveles de vuelo para toda la ruta o parte de la misma, y cambios de nivel, si son necesarios; (1)
 
-e) toda instrucción o información necesaria, sobre otros asuntos tales como el control de afluencia, maniobras de aproximación o salida, comunicaciones, y la hora en que expira la autorización (VIFNO).
+e) toda instrucción o información necesaria, sobre otros asuntos tales como el control de afluencia, maniobras de aproximación o salida, comunicaciones, y la hora en que expira la autorización.
 
 (1) Si la autorización de niveles abarca sólo parte de la ruta, es importante que la dependencia de control de tránsito aéreo especifique un punto al cual se aplica la parte de la autorización referente a niveles, siempre que sea necesario garantizar el cumplimiento de lo dispuesto en 2.3.6.5.2.2.
 
@@ -5832,11 +5816,11 @@ por ejemplo:
 
 Nota: Esto implica la necesidad de que la aeronave que reciba la autorización condicional identifique la aeronave o vehículos a que hace referencia dicha autorización condicional.
 
-4.10.2.5. Las autorizaciones ATC de ruta deberán ser colacionadas siempre por el piloto a menos que la autoridad ATS apropiada autorice lo contrario, en cuyo caso deberá acusarse positivamente recibo.
+4.10.2.5. Las autorizaciones ATC de ruta deberán ser colacionadas de forma completa siempre por el piloto a menos que la autoridad ATS apropiada autorice lo contrario, en cuyo caso deberá acusarse positivamente recibo.
 
-4.10.2.6. Todas las autorizaciones para entrar a, aterrizar en, despegar de, cruzar y regresar por la pista en uso deberán ser colacionadas por el piloto.
+4.10.2.6 Todas las autorizaciones para entrar a, aterrizar en, despegar de, cruzar y regresar por la pista en uso deberán ser colacionadas completamente por el piloto, el controlador se asegurará siempre de que la colación es correcta.
 
-4.10.2.7. Otras autorizaciones o instrucciones, incluidas las autorizaciones condicionales, se colacionarán o se acusará recibo de las mismas indicándose claramente que han sido comprendidas y que se cumplirán.
+4.10.2.7 Otras autorizaciones o instrucciones, incluidas las autorizaciones condicionales, se colacionarán completamente o se acusará recibo de las mismas indicándose claramente que han sido comprendidas y que se cumplirán.
 
 4.10.2.8. Las instrucciones sobre pista en uso, reglaje del altímetro, códigos SSR, niveles, rumbo y velocidad y cuando lo requiera la autoridad ATS competente, niveles de transición, deberán ser colacionados siempre por el piloto, por ejemplo:
 
@@ -5871,9 +5855,9 @@ La transmisión de piloto se indica con un asterisco.
 | --- | --- |
 | seguido, si es necesario, de: | followed as necessary by: |
 | i) A (nivel); | i) TO (level); |
-| ii) HASTA ALCANZAR (nivel) A (o ANTES DE) LAS (hora) (o EN punto significativo); | ii) TO REACH (level) AT (or BY) (time or significant point); |
-| iii) NOTIFIQUE DEJANDO (o ALCANZANDO o PASANDO POR) (nivel); | iii) REPORT LEAVING (or REACHING or PASSING) (level); |
-| iv) NOTIFIQUE PASANDO NIVELES PARES (o IMPARES); | iv) REPORT PASSING ODD (or EVEN) LEVELS; |
+| ii) HASTA ALCANZAR (nivel) A (o ANTES DE) LAS (hora) [o EN (punto significativo)]; | ii) TO REACH (level) AT (or BY) (time or significant point); |
+| iii) NOTIFIQUE DEJANDO (o ALCANZANDO o PASANDO POR) (nivel); | iii) REPORT LEAVING (or REACHING, or PASSING) (level); |
+| iv) NOTIFIQUE PASANDO NIVELES; | iv) REPORT PASSING LEVELS; |
 | v) A (número) METROS POR SEGUNDO (o PIES POR MINUTO) [MÍNIMO (o MÁXIMO)]; | v) AT (number) METRES PER SECOND (or FEET PER MINUTE) [MINIMUM (or MAXIMUM)]; |
 | ... sólo para aeronaves SST: |  |
 | vi) NOTIFIQUE COMENZANDO LA ACELERACIÓN (o DECELERACIÓN); | vi) REPORT STARTING ACCELERATION (or DECELERATION); |
@@ -6628,9 +6612,9 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 
 | a) NOTIFIQUE RUMBO [Y NIVEL DE VUELO) (o ALTITUD)]; | a) REPORT HEADING [AND FLIGHT LEVEL (or ALTITUDE)]; |
 | --- | --- |
-| b) PARA IDENTIFICACIÓN VIRE IZQUIERDA (o DERECHA) CON RUMBO (tres cifras); | b) FOR IDENTIFICATION TU RN LEFT (or RIGHT) HEADING (three digits); |
-| c) TRANSMITA PARA IDENTIFICACIÓN Y NOTIFIQUE RUMBO; | c) TRANSM IT FOR IDENTIFICATION AND REPORT HEADING; |
-| d) CONTACTO RADAR (posición); | d) IDENTIFIED (position); |
+| b) PARA IDENTIFICACIÓN VIRE IZQUIERDA (o DERECHA) RUMBO (tres cifras); | b) FOR IDENTIFICATION TURN LEFT (or RIGHT) HEADING (three digits); |
+| c) TRANSMITA PARA IDENTIFICACIÓN Y NOTIFIQUE RUMBO; | c) TRANSMIT FOR IDENTIFICATION AND REPORT HEADING; |
+| d) CONTACTO RADAR (posición); | d) RADAR CONTACT [position]; |
 | e) IDENTIFICADO [posición]; | e) IDENTIFIED [position] |
 | f) NO IDENTIFICADO [motivo]. [REANUDE (o CONTINÚE) SU NAVEGACIÓN] | f) NOT IDENTIFIED [reason]. [RESUME (or CONTINUE) OWN NAVIGATION] |
 
@@ -6966,6 +6950,8 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 
 | APAGUE MODO TRES. | STOP SQUAWK MODE THREE. |
 | --- | --- |
+
+> Se modifican los Capítulos 3, 5,6, 9 y 10 por el art. único.4 de la Orden PRE/4063/2006, de 29 de diciembre. Ref. BOE-A-2007-187
 
 > Se modifican los Capítulos 2 y 10 por el art. único.4 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407
 

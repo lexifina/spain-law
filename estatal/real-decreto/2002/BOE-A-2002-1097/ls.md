@@ -470,7 +470,7 @@ A reserva de los dispuesto en 2.3.6.2.2., todos los cambios (1) de un plan de vu
 
 2.3.3.5. Expiración del plan de vuelo.
 
-2.3.3.5.1. A menos que la autoridad ATS competente prescriba otra cosa, se dará aviso de llegada, personalmente o por radio, tan pronto como sea posible después del aterrizaje, a la correspondiente dependencia ATS del aeródromo de llegada, después de todo vuelo respecto al cual se haya presentado un plan de vuelo que comprenda la totalidad del vuelo o la parte restante de un vuelo hasta el aeródromo de destino.
+2.3.3.5.1. A menos que la autoridad ATS competente prescriba otra cosa, se dará aviso de llegada, personalmente, por radiotelefonía o por enlace de datos, tan pronto como sea posible después del aterrizaje, a la correspondiente dependencia ATS del aeródromo de llegada, después de todo vuelo respecto al cual se haya presentado un plan de vuelo que comprenda la totalidad del vuelo o la parte restante de un vuelo hasta el aeródromo de destino.
 
 2.3.3.5.2. Cuando se haya presentado un plan de vuelo únicamente respecto a una parte del vuelo distinta de la parte restante del vuelo hasta el punto de destino se cancelará, cuando sea necesario, mediante un informe apropiado a la pertinente dependencia de los servicios de tránsito aéreo.
 
@@ -498,13 +498,23 @@ e) hora de llegada.
 
 2.3.4.2. Las señales del Apéndice C, cuando se utilicen, tendrán el significado que en él se indica. Se utilizarán solamente para los fines indicados, y no se usará ninguna otra señal que pueda confundirse con ellas.
 
+2.3.4.3 Un señalero será responsable de proporcionar a las aeronaves señales normalizadas para maniobrar en tierra, en forma clara y precisa, utilizando las señales que se indican en el Apéndice C.
+
+2.3.4.4 Nadie guiará una aeronave a menos que esté debidamente instruido y cualificado para realizar tales funciones.
+
+2.3.4.5 El señalero usará un chaleco de identificación fluorescente para permitir que la tripulación de vuelo determine que se trata de la persona responsable de la operación de maniobra en tierra.
+
+2.3.4.6 Todo el personal de tierra que participe en la provisión de señales utilizará durante las horas diurnas toletes, palas de tipo raqueta de tenis o guantes, todos ellos con colores fluorescentes. Por la noche, o en condiciones de mala visibilidad, se utilizarán toletes iluminados.
+
 2.3.5. Hora.
 
-2.3.5.1. Se utilizará el Tiempo Universal Coordinado (UTC) que deberá expresarse en horas y minutos del día de 24 horas que comienza a medianoche.
+2.3.5.1. Se utilizará el Tiempo Universal Coordinado (UTC) que deberá expresarse en horas y minutos y, cuando se requiera, en segundos del día de 24 horas que comienza a medianoche.
 
 2.3.5.2. Se verificará la hora antes de la iniciación de un vuelo controlado y en cualquier otro momento del vuelo que sea necesario.
 
 Esta verificación se efectúa normalmente con una dependencia del servicio de tránsito aéreo, salvo que el explotador o la autoridad ATS competente haya convenido otra cosa.
+
+2.3.5.3 Cuando se utiliza en la aplicación de comunicaciones por enlace de datos, la hora será exacta, con una tolerancia de un segundo con respecto a la UTC.
 
 2.3.6. Servicio de control de tránsito aéreo.
 
@@ -530,7 +540,7 @@ Si antes de la salida se prevé que dependiendo de la autonomía de combustible 
 
 2.3.6.2.1. Salvo lo dispuesto en 2.3.6.2.2. y 2.3.6.2.4., toda aeronave se atendrá al plan de vuelo actualizado o a la parte aplicable de un plan de vuelo actualizado presentada para un vuelo controlado, a menos que haya solicitado un cambio y se haya conseguido la autorización de la dependencia apropiada del control de tránsito aéreo, o que se presente una situación de emergencia que exija tomar medidas inmediatas por parte de la aeronave, en cuyo caso, tan pronto como lo permitan las circunstancias, después de aplicadas dichas medidas, se informará a la dependencia correspondiente de los servicios de tránsito aéreo de las medidas tomadas y del hecho que dichas medidas se debieron a una situación de emergencia.
 
-2.3.6.2.1.1. A menos que la dependencia de control de tránsito aéreo competente autorice o disponga otra cosa, los vuelos controlados, en la medida de lo posible:
+2.3.6.2.1.1. A menos que la autoridad ATS competente autorice o que la dependencia de control de tránsito aéreo competente autorice o disponga otra cosa, los vuelos controlados, en la medida de lo posible:
 
 a) cuando se efectúen en una ruta ATS establecida, operarán a lo largo del eje definido de esa ruta, o
 
@@ -553,6 +563,8 @@ a) Desviación respecto a la derrota: Si la aeronave se desvía de la derrota, t
 b) Variación en la velocidad aerodinámica verdadera: Si el promedio de velocidad aerodinámica verdadera al nivel de crucero entre puntos de notificación varía, o se espera que varíe en un 5% en más o en menos respecto a la consignada en el plan de vuelo, se notificará a la dependencia correspondiente de los servicios de tránsito aéreo,
 
 c) Cambio de la hora prevista: Si la hora prevista de llegada al próximo punto de notificación aplicable, al límite de región de información de vuelo o al aeródromo de destino, el que esté antes, resulta errónea en más de 3 minutos con respecto a la notificada a los servicios de tránsito aéreo, o con relación a otro período de tiempo que haya prescrito la autoridad ATS competente o que se base en acuerdos regionales de navegación aérea, la nueva hora prevista revisada se notificará lo antes posible a la dependencia correspondiente de los servicios de tránsito aéreo.
+
+2.3.6.2.2.1 Además, cuando exista un acuerdo ADS, se informará automáticamente a la dependencia de los servicios de tránsito aéreo, por enlace de datos, cuando tenga lugar un cambio que sea superior a los valores de umbral establecidos en el contrato ADS relacionado con un evento.
 
 2.3.6.2.3. Cambios que se intentan hacer.
 
@@ -586,6 +598,8 @@ En la FIR/UIR Canarias, asimismo, además de los informes de posición requerido
 
 (1) En el Libro Cuarto se indican las condiciones y circunstancias en las cuales la transmisión SSR en el Modo C de la altitud de presión satisface el requisito correspondiente a la información sobre el nivel en los informes de posición.
 
+2.3.6.3.1 Los vuelos controlados que notifiquen su posición a la dependencia de servicios de tránsito aéreo apropiada, mediante comunicaciones por enlace de datos, proporcionarán informes de posición orales únicamente cuando así se solicite.
+
 2.3.6.4. Terminación del control.
 
 Salvo cuando aterricen en un aeródromo controlado, los vuelos controlados tan pronto dejen de estar sujetos al servicio de control de tránsito aéreo, notificarán este hecho a la dependencia ATC correspondiente.
@@ -598,21 +612,43 @@ Salvo cuando aterricen en un aeródromo controlado, los vuelos controlados tan p
 
 2.3.6.5.2. Fallo de las comunicaciones.
 
-Si el fallo de las comunicaciones impide cumplir con lo dispuesto en 2.3.6.5.1., la aeronave observará los procedimientos de fallo de comunicaciones del Libro Cuarto, y aquellos de los procedimientos siguientes que sean apropiados. Además, la aeronave, cuando forme parte del tránsito de aeródromo en un aeródromo controlado, se mantendrá vigilante para atender a las instrucciones que puedan darse por medio de señales visuales.
+Si el fallo de las comunicaciones impide cumplir con lo dispuesto en 2.3.6.5.1, la aeronave observará los procedimientos de fallo de comunicaciones del libro Cuarto, y aquellos de los procedimientos siguientes que sean apropiados. La aeronave intentará comunicarse con la dependencia de control de tránsito aéreo pertinente utilizando todos los demás medios disponibles. Además, la aeronave, cuando forme parte del tránsito de aeródromo en un aeródromo controlado, se mantendrá vigilante para atender a las instrucciones que puedan darse por medio de señales visuales.
 
-2.3.6.5.2.1. Si la aeronave con fallo de comunicaciones opera en condiciones meteorológicas de vuelo visual o de vuelo visual nocturno, la aeronave (1), a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea:
+2.3.6.5.2.1. Si la aeronave con fallo de comunicaciones opera en condiciones meteorológicas de vuelo visual o de vuelo visual nocturno, la aeronave:
 
 a) hará funcionar el transpondedor en Código 7600;
 
-b) proseguirá su vuelo en condiciones meteorológicas de vuelo visual o de vuelo visual nocturno, según corresponda;
+b) proseguirá su vuelo en condiciones meteorológicas de vuelo visual o de vuelo visual nocturno, según corresponda; aterrizará en el aeródromo adecuado más próximo y notificará su llegada, por el medio más rápido, a la dependencia apropiada del control de tránsito aéreo;
 
-c) aterrizará en el aeródromo adecuado más próximo; y
+c) completará un vuelo IFR, conforme a lo establecido en el punto 2.3.6.5.2.2.
 
-d) notificará su llegada, por el medio más rápido, a la dependencia apropiada del control de tránsito aéreo.
+2.3.6.5.2.2. Si la aeronave con fallo de comunicaciones en vuelo controlado opera en condiciones meteorológicas de vuelo por instrumentos, o si el piloto de un vuelo IFR considera que no es conveniente terminar el vuelo de acuerdo con lo prescrito en 2.3.6.5.2.1, la aeronave:
 
-2.3.6.5.2.2 Si la aeronave con fallo de comunicaciones en vuelo controlado opera en condiciones meteorológicas de vuelo por instrumentos, o si las condiciones son tales que no es posible terminar el vuelo de acuerdo con lo prescrito en 2.3.6.5.2.1, se observarán los procedimientos siguientes de acuerdo al espacio aéreo donde se desarrolla dicho vuelo.
+a) hará funcionar el transpondedor en Código 7600;
 
-Nota: Las aeronaves equipadas con respondedor que experimenten una falla de comunicaciones, harán funcionar el respondedor SSR en el Modo A, Código 7600.
+b) a menos que se prescriba de otro modo con base en un acuerdo regional de navegación aérea, en el espacio aéreo en el que no se utilice radar para el control del tránsito aéreo, mantendrá el último nivel y velocidad asignados, o la altitud mínima de vuelo, si ésta es superior, por un período de 20 minutos desde el momento en que la aeronave deje de notificar su posición al pasar por un punto de notificación obligatoria y después de ese período de 20 minutos ajustará el nivel y velocidad conforme al plan de vuelo presentado;
+
+c) en el espacio aéreo en el que se utilice radar para el control del tránsito aéreo, mantendrá el último nivel y velocidad asignados, o la altitud mínima de vuelo, si ésta es superior, por un período de siete minutos desde el momento en que:
+
+1) se alcance el último nivel asignado o la altitud mínima de vuelo; o
+
+2) se regule el transpondedor en Código 7600; o
+
+3) la aeronave deje de notificar su posición al pasar por un punto de notificación obligatoria; lo que ocurra más tarde, y a partir de ese momento, ajustará el nivel y la velocidad conforme al plan de vuelo presentado.
+
+d) cuando reciba guía vectorial radar o efectúe un desplazamiento indicado por ATC utilizando RNAV sin un límite especificado, volverá a la ruta del plan de vuelo actualizado al alcanzar el siguiente punto significativo, a más tardar, teniendo en cuenta la altitud mínima de vuelo que corresponda.
+
+e) proseguirá según la ruta del plan de vuelo actualizado hasta la ayuda o el punto de referencia para la navegación que corresponda y que haya sido designada para servir al aeródromo de destino y, cuando sea necesario para asegurar que se satisfagan los requisitos señalados en f), la aeronave se mantendrá en circuito de espera sobre esta ayuda o el punto de referencia hasta iniciar el descenso.
+
+f) iniciará el descenso desde la ayuda o el punto de referencia para la navegación especificada en e), a la última hora prevista de aproximación recibida y de la que se haya acusado recibo, o lo más cerca posible de dicha hora; o si no se ha recibido y acusado recibo de la hora prevista de aproximación, iniciará el descenso a la hora prevista de llegada resultante del plan de vuelo actualizado o lo más cerca posible de dicha hora.
+
+g) realizará un procedimiento normal de aproximación por instrumentos especificado para la ayuda o el punto de referencia de navegación designada, y
+
+h) aterrizará, de ser posible, dentro de los 30 minutos siguientes a la hora prevista de llegada especificada en f) o la hora prevista de aproximación de que últimamente se haya acusado recibo, lo que resulte más tarde.
+
+Nota 1.–El suministro de control de tránsito aéreo a otras aeronaves que vuelen en el espacio aéreo en cuestión, se basará en la premisa de que una aeronave que experimente fallo de las comunicaciones observará las disposiciones de 2.3.6.5.2.2.
+
+Nota 2.–Véase también 2.5.1.2.
 
 2.3.6.5.2.2.1 La aeronave (1), a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea, en las FIR/UIRs Barcelona y Madrid,
 
@@ -678,9 +714,9 @@ e) aterrizará, de ser posible, dentro de los 30 minutos siguientes a la hora pr
 
 en c) o la hora prevista de aproximación de que últimamente se haya acusado recibo, lo que resulte más tarde.
 
-2.3.6.5.2.2.3 La autoridad competente podrá establecer y publicar en AIP las partes del espacio aéreo de la FIR/UIR Canarias donde sean de aplicación los procedimientos recogidos en 2.3.6.5.2.2.1.
+2.3.6.5.2.2.3 La autoridad competente podrá establecer y publicar en AIP las partes del espacio aéreo de la FIR/UIR Canarias donde sean de aplicación los procedimientos recogidos en 2.3.6.5.2.2
 
-2.3.6.5.2.3. (Suprimido).
+2.3.6.5.2.3. La autoridad competente podrá establecer y publicar en AIP las partes del espacio aéreo de la FIR/UIR Canarias donde sean de aplicación los procedimientos recogidos en 2.3.6.5.2.2.
 
 2.3.6.5.2.4. (Suprimido).
 
@@ -747,6 +783,10 @@ f) las dependencias de control de interceptación y las aeronaves interceptoras 
 g) se disponga en la medida de lo posible, de instalaciones de radar secundario de vigilancia para que las dependencias de control de interceptación puedan identificar a las aeronaves civiles en zonas en las que éstas, dado el caso, pudieran ser interceptadas. Estas instalaciones deberán permitir el reconocimiento de los códigos discretos de cuatro dígitos en Modo A, incluso el reconocimiento inmediato de los códigos 7500, 7600 y 7700 en el modo A.
 
 2.3.8.2.3. Maniobras de interceptación.
+
+Las aeronaves equipadas con sistema anticolisión de a bordo (ACAS), que estén siendo interceptadas, pueden percibir la aeronave interceptora como una amenaza de colisión e iniciar entonces una maniobra para evitarlo en respuesta a un aviso de resolución de ACAS. Por consiguiente, es importante que los pilotos de las aeronaves interceptoras equipadas con transpondedor de radar secundario de vigilancia (SSR) supriman la transmisión de información de presión / altitud (en respuestas en Modo C o en el campo AC de las respuestas en Modo S) dentro de una distancia de por lo menos 37 Km (20NM) de la aeronave interceptada. Esto evitará que el ACAS de la aeronave interceptada use avisos de resolución con respecto a la interceptora, mientras que quedará disponible la información de avisos de tránsito del ACAS.
+
+Sin perjuicio de lo anterior, la dependencia de control de interceptación podrá ordenar apagar el transpondedor de la aeronave interceptora si la situación así lo requiere.
 
 2.3.8.2.3.1. Se establece el método normalizado que figura a continuación para las maniobras de la aeronave que intercepte una aeronave civil a fin de evitar todo riesgo a la aeronave interceptada. En este método se toman debidamente en cuenta las limitaciones de las características de las aeronaves civiles, la necesidad de evitar volar tan cerca de la aeronave interceptada que pueda haber peligro de colisión, y de evitar cruzar la trayectoria de vuelo de la aeronave o ejecutar cualquier otra maniobra de tal modo que la estela turbulenta pueda ser peligrosa, especialmente si la aeronave interceptada es ligera.
 
@@ -908,27 +948,29 @@ Las aeronaves no podrán ajustarse a estas exenciones cuando no estén realizand
 
 ## Reglas de vuelo visual
 
-2.4.1. Salvo cuando operen con carácter de vuelos VFR especiales o nocturnos, los vuelos VFR se realizarán de forma que la aeronave vuele en condiciones de visibilidad y de distancia de las nubes que sean iguales o superiores a las indicadas en la tabla siguiente:
+2.4.1. Salvo cuando operen con carácter de vuelo VFR especiales o nocturnos, los vuelos VFR se realizarán de forma que la aeronave vuele en condiciones de visibilidad y de distancia de las nubes que sean iguales o superiores a las indicadas en la tabla siguiente:
 
-Tabla de condiciones de visibilidad y distancia de nubes de vuelos VFR *
+Tabla de condiciones de visibilidad y distancia de nubes de vuelos VFR
 
-| Clase de espacio aéreo | B | C-D-E | F - G |
+| Altitud | Clases de Espacio Aéreo | Visibilidad de vuelo | Distancia de las nubes |
 | --- | --- | --- | --- |
-| Por encima de 900 m (3000 ft) AMSL o por encima de 300 m (1000 ft) sobre el terreno, de ambos valores el mayor | A 900 m (3000 ft) AMSL o por debajo, o a 300 m (1000 ft) sobre el terreno, de ambos valores el mayor |
-| Distancia de las nubes | Libre de nubes | 1500 m horizontalmente 300 m (1000 ft) verticalmente | Libre de nubes y a la vista de la superficie |
-| Visibilidad de vuelo | 8 km a 3050 m (10.000 ft) AMSL o por encima 5 km por debajo de 3050 m (10.000 ft) AMSL | 5 km ** |
+| Horizontal | Vertical |
+| A, o por encima, de FL 100 (*) | B C D E F G | 8 km | 1.500 m | 300 m (1000 ft) |
+| Entre FL 100 y 900 m (3000 ft) AMSL o 300 m (1000 ft) AGL, de ambos valores el mayor. | 5 km |
+| A, o por debajo, de 900 m (3000 ft) AMSL o 300 m (1000 ft) AGL, de ambos valores el mayor. | B C D E |
+| F G | 5 km (**) | Libre de nubes y con la superficie a la vista. |
 
-* Cuando la altitud de transición sea inferior a 3050 m (10.000 ft) AMSL, deberá utilizarse el FL100 en vez de 10.000 ft.
+(*) Cuando la altitud de transición es inferior a 3050 m (10.000 ft) AMSL, se utilizará el FL 100 en vez de 10.000 ft.
 
-** Cuando así lo prescriba la autoridad ATS competente:
+(**) Cuando así lo prescriba la autoridad ATS competente:
 
-a) pueden permitirse visibilidades de vuelo inferiores, hasta 1500 m, para los vuelos que se realicen
+a) pueden permitirse visibilidades de vuelo inferiores, hasta 1500 m, para los vuelos que se realicen:
 
 1) a velocidades que en las condiciones de visibilidad predominantes den oportunidad adecuada para observar el tránsito, o cualquier obstáculo, con tiempo suficiente para evitar una colisión; o
 
 2) en circunstancias en que haya normalmente pocas probabilidades de encontrarse con tránsito, como en áreas de escaso volumen de tránsito y para efectuar trabajos aéreos a poca altura.
 
-b) Los helicópteros pueden estar autorizados a volar con una visibilidad de vuelo interior a 1500 m si maniobran a una velocidad que dé oportunidad adecuada para observar el tránsito, o cualquier obstáculo, con el tiempo suficiente para evitar una colisión.
+b) Los helicópteros pueden estar autorizados a volar con una visibilidad de vuelo inferior a 1500 m si maniobran a una velocidad que dé oportunidad adecuada para observar el tránsito, o cualquier obstáculo, con el tiempo suficiente para evitar una colisión.
 
 2.4.2. Excepto cuando lo autorice la dependencia de control de tránsito aéreo, en vuelos VFR no se despegará ni se aterrizará en ningún aeródromo dentro de una zona de control, ni se entrará en la zona de tránsito de aeródromo o en el circuito de tránsito de dicho aeródromo:
 
@@ -1212,9 +1254,7 @@ b) una tabla modificada de niveles de crucero, cuando así se prescriba de confo
 
 2.5.3.2. Comunicaciones.
 
-Un vuelo IFR que se realice fuera del espacio aéreo controlado pero dentro de áreas, o a lo largo de rutas, designadas por la autoridad ATS competente de acuerdo con 2.3.3.1.2.c) o d), mantendrá la escucha en la radiofrecuencia apropiada y establecerá, cuando sea necesario, comunicación en ambos sentidos con la dependencia de los servicios de tránsito aéreo que suministre servicio de información de vuelo.
-
-El sistema SELCAL o dispositivos similares de señalización automática, satisfacen el requisito de mantener la escucha.
+Un vuelo IFR que se realice fuera del espacio aéreo controlado pero dentro de áreas, o a lo largo de rutas, designadas por la autoridad ATS competente de acuerdo con 2.3.3.1.2.a), mantendrá la escucha en la radiofrecuencia apropiada y establecerá, cuando sea necesario, comunicación en ambos sentidos con la dependencia de los servicios de tránsito aéreo que suministre servicio de información de vuelo. El sistema SELCAL o dispositivos similares de señalización automática, satisfacen el requisito de mantener la escucha.
 
 2.5.3.3. Informes de posición
 
@@ -1227,6 +1267,10 @@ b) mantenga la escucha en la radiofrecuencia adecuada y establezca comunicación
 notificará la posición de acuerdo con lo especificado en 2.3.6.3. para vuelos controlados.
 
 2.5.3.3.2. Las aeronaves que decidan utilizar el servicio de asesoramiento de tránsito aéreo mientras vuelan en condiciones IFR dentro de áreas especificadas con servicio de asesoramiento, se espera que cumplan las disposiciones de 2.3.6., pero el plan de vuelo y los cambios que se hagan en él no están supeditados a autorizaciones y las comunicaciones en ambos sentidos se mantendrán con la dependencia que suministre el servicio de asesoramiento de tránsito aéreo.
+
+> Se modifican los Capítulos 3 a 5 por el art. único.2 de la Orden PRE/4063/2006, de 29 de diciembre. Ref. BOE-A-2007-187
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 42, de 17 de febrero de 2007. Ref. BOE-A-2007-3382
 
 > Se modifica el Capítulo 3 por el art. único.2 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637
 
