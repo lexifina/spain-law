@@ -1,0 +1,25 @@
+Como consecuencia de la adhesión de España a las Comunidades Europeas y recogiendo los principios de la Directiva 71/307/CEE del Consejo, de 26 de julio de 1971, relativa a la aproximación de las legislaciones de los Estados miembros sobre las denominaciones textiles, y sus modificaciones posteriores, se aprobó el Real Decreto 928/1987, de 5 de junio, relativo al etiquetado de composición de los productos textiles.
+
+Dado que para el cumplimiento del citado real decreto era necesario establecer unos métodos de análisis cuantitativos de mezclas binarias y ternarias de fibras textiles, adaptando así nuestra normativa a las exigencias de la legislación comunitaria, por medio del Real Decreto 656/1989, de 2 de junio, por el que se aprueban los métodos de análisis cuantitativos de mezclas binarias y terciarias de fibras textiles, se declararon oficiales los métodos establecidos por la Comunidad Europea mediante las Directivas 72/276/CEE y 73/44/CEE del Consejo, de 17 de julio de 1972 y de 26 de febrero de 1973, respectivamente, y sus posteriores modificaciones, con objeto de que la determinación de la composición en fibras de los productos textiles, tanto en lo que se refiere al tratamiento previo de la muestra como a su análisis cuantitativo, se efectuase a través de métodos uniformes.
+
+Por otra parte, en el año 1996 se aprobó la Directiva 96/74/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 1996, relativa a las denominaciones textiles, por la que se prescribe un etiquetado que indique la composición de la fibra de los productos textiles, así como la realización de pruebas mediante análisis de la conformidad de dichos productos con las indicaciones que figuren en su etiqueta.
+
+Como consecuencia de ello, ese mismo año se aprobó también la Directiva 96/73/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 1996, sobre determinados métodos de análisis cuantitativos de mezclas binarias de fibras textiles, que estableció métodos uniformes de análisis cuantitativos de mezclas binarias de fibras textiles.
+
+Posteriormente, la Directiva 97/37/CE de la Comisión, de 19 de junio de 1997, llevó a cabo una adaptación al progreso técnico de los anexos I y II de la Directiva 96/74/CE. Dicha Directiva 96/73/CE se incorporó al ordenamiento interno por el Real Decreto 928/1987, de 5 de junio, relativo al etiquetado de composición de los productos textiles.
+
+También, con la misma finalidad de adaptación al progreso técnico, se aprobó la Directiva 2004/34/CE de la Comisión, de 23 de marzo de 2004, por la que se modifican, con objeto de adaptarlos al progreso técnico, los anexos I y II de la Directiva 96/74/CE, que fue incorporada al ordenamiento interno por el Real Decreto 2322/2004, de 17 de diciembre, por el que se añade la fibra polilactida a los anexos I y II del Real Decreto 928/1987, de 5 de junio, relativo al etiquetado de composición de los productos textiles.
+
+Asimismo, se aprobó la Directiva 2006/3/CE de la Comisión, de 9 de enero de 2006, por la que se modifican, para su adaptación al progreso técnico, los anexos I y II de la Directiva 96/74/CE, con objeto de añadir el elastomultiéster a la lista de fibras que figura en sus anexos I y II, cuya incorporación al ordenamiento interno se ha realizado por medio de Real Decreto 1115/2006, de 29 de septiembre, por el que se modifica el Real Decreto 928/1987, de 5 de junio, relativo al etiquetado de composición de los productos textiles.
+
+En función de ello, la Comisión Europea ha considerado que era necesario definir métodos uniformes de ensayo para la polilactida y el elastomultiéster. A tal efecto se ha aprobado la Directiva 2006/2/CE de la Comisión, de 6 de enero de 2006, por la que se modifica, para su adaptación al progreso técnico, el anexo II de la Directiva 96/73/CE del Parlamento Europeo y del Consejo sobre determinados métodos de análisis cuantitativos de mezclas binarias de fibras textiles.
+
+En virtud de esta circunstancia y en aras de una mayor racionalidad y claridad respecto a los métodos de análisis cuantitativos de mezclas binarias de fibras textiles, por medio de este real decreto se procede a la incorporación al ordenamiento jurídico interno de las Directivas 96/73/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 1996, y 2006/2/CE de la Comisión, de 6 de enero de 2006.
+
+Este real decreto se dicta al amparo del artículo 149.1.13.a de la Constitución, que atribuye al Estado competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+En la tramitación de este real decreto se ha dado audiencia a las asociaciones de consumidores y usuarios y a los sectores afectados, habiéndose realizado igualmente un trámite de consulta a las comunidades autónomas.
+
+En su virtud, a propuesta de los Ministros de Sanidad y Consumo y de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 12 de enero de 2007,
+
+DISPONGO:
