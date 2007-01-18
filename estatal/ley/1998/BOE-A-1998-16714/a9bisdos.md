@@ -1,4 +1,4 @@
-## Artículo 9.bis Dos.
+## Artículo 9 bis dos.
 
 1. Sin perjuicio de lo dispuesto en el artículo 9 y 9 bis de esta Ley, este último en su redacción dada por el artículo 27 Dos de la Ley 24/2001, de 27 de diciembre, las cuantías para las tarifas B.2, C.2, E.2 y F.2 serán las que a continuación se expresan:
 
@@ -55,9 +55,11 @@ Para este tipo de aparcamiento, destinado al personal de las empresas u organism
 | D | Peninsular | 14,50 |
 |  | No Peninsular | 12,50 |
 
-Cuando el aeropuerto no disponga de un aparcamiento específico para empleados, éstos podrán utilizar el aparcamiento para el público general, por medio de abonos mensuales, al precio anteriormente establecido.
+El abono tendrá 30 usos que podrán ser no consecutivos y permitirá la utilización del aparcamiento de empleados durante 30 periodos de 24 horas, desde la primera entrada de cada periodo, no computándose usos adicionales por entradas y salidas dentro de cada uno de estos periodos de 24 horas.
 
-En el caso de los aparcamientos de empleados que cuenten con servicio de traslado por autobús desde el aparcamiento hasta otros espacios situados en el recinto aeroportuario, las cuantías definidas anteriormente se incrementarán un 50 por ciento.
+Estos abonos serán personales, no pudiendo transferirse para su uso a otras personas.
+
+Cuando el aeropuerto no disponga de un aparcamiento específico de empleados, éstos podrán utilizar el aparcamiento para el público general, por medio de abonos de 30 usos, al precio anteriormente establecido.
 
 En caso de pérdida de tique en cualquier tipo de aparcamiento de pago, el usuario abonará la estancia de cinco días, conforme a la cuantía máxima diaria hasta cuatro días para el aparcamiento general, excepto si se acreditase la estancia real del vehículo, en cuyo caso se liquidará esta última en función de la estancia real.
 
@@ -115,6 +117,8 @@ F2.2 Consignas.
 | Estancia en almacén (€/día) | 1,80 | 1,80 | 1,80 |
 
 El traslado de consigna a almacén se regulará conforme a las directrices establecidas por cada aeropuerto.
+
+> Se modifica la tarifa B.2.3 del apartado 1, con efectos desde el 1 de enero de 2007, por el art. 73.2 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865.
 
 > Se añade por el art. 71.2 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525.
 

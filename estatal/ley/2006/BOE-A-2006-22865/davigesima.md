@@ -1,0 +1,13 @@
+## Disposición adicional vigésima. Aportación financiera del Servicio Público de Empleo Estatal a la financiación de un Plan Integral de Empleo en Canarias.
+
+Uno. De conformidad con lo establecido en la disposición adicional quinta de la Ley 56/2003, de 16 de diciembre, de Empleo, el Servicio Público de Empleo Estatal aportará 42.070,85 miles de euros a la financiación, en el año 2007, de un Plan Integral de Empleo en Canarias. Dicha cantidad se destinará a financiar las acciones y medidas de fomento de empleo, que se describan en el Convenio de Colaboración que suscriba la Administración General del Estado con la Administración de la citada Comunidad Autónoma.
+
+Dos. La citada aportación financiera se librará en el segundo mes de cada cuatrimestre natural del año 2007, previa solicitud documentada de la Comunidad Autónoma de Canarias al Servicio Público de Empleo Estatal de la aplicación de los fondos. No obstante lo anterior, el Servicio Público de Empleo Estatal no dará curso a la tramitación de los libramientos hasta en tanto no haya sido justificada ante dicho Organismo, con la correspondiente aportación documental, la ejecución de los fondos librados en el ejercicio 2006 en cumplimiento de los compromisos adoptados en el Convenio de Colaboración suscrito entre ambas administraciones con fecha 27 de diciembre de 2002.
+
+Tres. La aplicación por la Comunidad Autónoma de Canarias de la aportación financiera, así como su seguimiento y evaluación se regirá por lo, al efecto, estipulado en el Convenio de Colaboración que se suscriba.
+
+Cuatro. Finalizado el ejercicio 2007 y con anterioridad al 1 de abril de 2008, la Comunidad Autónoma de Canarias remitirá a la Dirección General del Servicio Público de Empleo Estatal información de los colectivos de desempleados atendidos con dicha aportación, las acciones realizadas, así como la documentación necesaria a efectos de la cofinanciación del Fondo Social Europeo.
+
+Cinco. No obstante lo indicado en el apartado Cuatro anterior, el remanente de la aportación financiera no comprometido por la Comunidad Autónoma de Canarias en el ejercicio 2007 será reintegrado al Servicio Público de Empleo Estatal en la forma que se determine en la resolución de concesión que adopte dicho Organismo para la efectividad de los libramientos a que se refiere el apartado Dos, con sujeción a las prescripciones que, en materia de subvenciones, establece la Ley 38/2003, de 17 de noviembre, General de Subvenciones y su Reglamento de desarrollo, aprobado por el Real Decreto 887/2006, de 21 de julio.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 52, de 1 de marzo de 2007. Ref. BOE-A-2007-4234.

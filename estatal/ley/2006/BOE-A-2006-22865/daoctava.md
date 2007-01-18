@@ -1,0 +1,5 @@
+## Disposición adicional octava. Bonificación de cuotas de Seguridad Social respecto de los trabajadores contratados para la celebración de la Exposición Internacional Zaragoza 2008.
+
+Los países participantes en la Exposición Internacional Zaragoza 2008, las personas jurídicas que los representen, las Organizaciones Internacionales participantes y la Empresa Pública Expoagua Zaragoza 2008, S.A., tendrán una bonificación del 100 por ciento en la cotización a la Seguridad Social por contingencias comunes, así como por los conceptos de recaudación conjunta con las cuotas de Seguridad Social, respecto de los trabajadores que directamente contraten para la realización exclusiva de labores estrictamente relacionadas con su participación en el citado acontecimiento.
+
+En el plazo de dos meses desde la entrada en vigor de la ley se aprobará por Real Decreto un reglamento en el que se establezcan los requisitos, plazos, procedimiento de concesión y medidas de control relativas a la mencionada bonificación.

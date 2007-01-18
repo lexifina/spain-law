@@ -18,7 +18,9 @@ e) Las demás instituciones del Estado sin la autorización previa de la institu
 
 4. Tendrá la consideración de infracción administrativa cualquier alteración o modificación de las características físicas de las monedas de curso legal, sin autorización de la Dirección General del Tesoro y Política Financiera, para su empleo como soporte de publicidad o para cualquier otro fin distinto al previsto en la norma de emisión.
 
-5. También tendrá la consideración de infracción administrativa la realización de actividades descritas en los apartados 1, 2, 3 y 4 con incumplimiento de las condiciones impuestas por la Dirección General del Tesoro y Política Financiera.
+5. Tendrá la consideración de infracción administrativa toda conducta contraria a lo dispuesto en el Reglamento (CE) n.º 2182/2004, de 6 de diciembre de 2004, sobre medallas y fichas similares a monedas euro.
+
+> Se modifica el apartado 5, con efectos desde el 1 de enero de 2007, por la disposición final 1 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865.
 
 > Se modifica el apartado 4 y se añade el 5 por el art. 103 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
 

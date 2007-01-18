@@ -8,7 +8,7 @@ a) Los vehículos accionados a motor con potencia igual o inferior a 11 CV fisca
 
 a') Los vehículos incluidos en los apartados 4.º y 5.º del número 1 del anexo I de esta ley.
 
-b') Los vehículos de dos, tres y cuatro ruedas cuya cilindrada no sea superior a 50 centímetros cúbicos y cumplan la definición jurídica de ciclomotor.
+b') Los vehículos de dos, tres y cuatro ruedas que cumplan la definición jurídica de ciclomotor.
 
 c') Los vehículos exceptuados de la aplicación del tipo incrementado del 13 por ciento contenidos en el apartado 3.º del número 1 del anexo II de esta ley.
 
@@ -17,6 +17,8 @@ b) Embarcaciones y buques en cuya entrega o importación no sea aplicable el tip
 c) Aviones, avionetas y demás aeronaves en cuya entrega o importación no sea aplicable el tipo incrementado del 13 por ciento.
 
 2. Las prestaciones de servicios de ejecuciones de obra mobiliarias que tengan por objeto los bienes a que se refiere el apartado 1 anterior.
+
+> Se modifica el apartado 1.a).b') por la disposición adicional 63 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865.
 
 > Se modifica por el art. 12.1.15 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
 

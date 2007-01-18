@@ -16,4 +16,8 @@ El Instituto de Crédito Oficial destinará los resultados generados por las ant
 
 Las anteriores operaciones, de cancelación y todas las provisiones vinculadas a las mismas se realizarán sin perjuicio de lo establecido en la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.
 
-Queda sin efecto la disposición adicional quinta de la Ley 13/1996, de 30 de diciembre.»
+Queda sin efecto la disposición adicional quinta de la Ley 13/1996, de 30 de diciembre.
+
+Los importes que el Instituto recupere tras la cancelación de estas deudas pasarán a formar parte de su patrimonio.»
+
+> Se añade el último párrafo por la disposición adicional 49.1.b) de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865.

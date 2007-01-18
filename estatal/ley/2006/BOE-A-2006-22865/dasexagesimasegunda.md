@@ -1,0 +1,3 @@
+## Disposición adicional sexagésima segunda. Financiación de los programas de desarrollo rural para el ejercicio 2007.
+
+La Administración General del Estado garantiza, como mínimo, un nivel de inversión pública en los programas de desarrollo rural para el año 2007 similar a la del ejercicio 2006. Dicha financiación mínima será complementaria a las actuaciones en desarrollo rural de la Administración General del Estado. El nivel de inversión pública de referencia se tomará respecto al del año 2006, incrementado en el IPC de este ejercicio, del conjunto de los programas (programas operativos autonómicos e interautonómicos), y programas de desarrollo rural que contienen medidas financiadas por el FEOGA-G y el FEOGA-O, incluida la iniciativa comunitaria LEADER.

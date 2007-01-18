@@ -1,0 +1,7 @@
+## Disposición adicional quincuagésima quinta. Cotización a la Seguridad Social de docentes del euskera.
+
+Se considerarán como cotizados a la Seguridad Social los períodos de dedicación a la enseñanza del euskera de aquellas personas que realizaron dicha actividad profesional sin poder ser dadas de alta en el Sistema de la Seguridad Social como consecuencia de la clandestinidad en la que se desenvolvió dicha actividad. Se habilita al Gobierno para que, en el plazo máximo de seis meses a partir de la entrada en vigor de esta Ley, apruebe las disposiciones normativas necesarias para establecer los términos y condiciones en los que procederá el cómputo de dichos periodos como cotizados a la Seguridad Social, a efectos de que pueda reconocerse a las personas afectadas el derecho a las correspondientes prestaciones o, en su caso, el incremento de las cuantías de las prestaciones que vinieran percibiendo. Los efectos económicos de este reconocimiento se producirán a partir de 1 de enero de 2007.
+
+El coste de la mejora de la pensión, como consecuencia de lo dispuesto en el apartado anterior, será financiado por una transferencia finalista del Estado al presupuesto de la Seguridad Social, por importe de 5.000.000 de euros.
+
+Se faculta al Gobierno para que, en el plazo de los seis meses posteriores a la entrada en vigor de la presente Ley, dicte las normas necesarias para la aplicación de lo dispuesto en esta disposición adicional.
