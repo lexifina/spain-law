@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 756/1992, de 26 de junio, por el que se establecen los aspectos básicos del currículo de los grados elemental y medio de las enseñanzas de música, sin perjuicio de su aplicación transitoria en función del calendario de aplicación de la nueva ordenación del sistema educativo establecido por el Real Decreto 806/2006, de 30 de junio. Asimismo, queda derogada la Orden de 29 de mayo de 1995, por la que se establecen los elementos básicos de los informes de evaluación del grado elemental de danza y de los grados elemental y medio de las enseñanzas de música, reguladas por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
