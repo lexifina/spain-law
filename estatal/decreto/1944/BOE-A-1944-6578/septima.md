@@ -1,3 +1,5 @@
 ## Séptima.
 
-La limitación de dos años de servicios efectivos, exigida en el artículo 99 para tomar parte en las oposiciones entre Notarios, sólo se aplicará a los que ingresen en oposiciones convocadas con posterioridad a este Reglamento.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1.1 del Real Decreto 45/2007, de 19 de enero. Ref. BOE-A-2007-1810.

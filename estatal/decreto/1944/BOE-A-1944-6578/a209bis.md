@@ -22,10 +22,12 @@ b) La relación de parentesco de las personas que el requirente designe como her
 
 Habrá de presentar el libro de familia del causante o las certificaciones correspondientes del Registro Civil acreditativas del matrimonio y filiaciones. Los documentos presentados o testimonio de los mismos quedarán incorporados al acta.
 
-5. En el acta habrá de constar necesariamente, al menos, la declaración de dos testigos que aseveren que de ciencia propia o por notoriedad les constan los hechos positivos y negativos cuya declaración de notoriedad se pretende. Se practicarán, también, las pruebas propuestas por el requirente, así como las que se estimen oportunas, en especial las dirigidas a acreditar la nacionalidad y vecindad civil y, en su caso, la ley extranjera aplicable.
+5. En el acta habrá de constar necesariamente, al menos, la declaración de dos testigos que aseveren que de ciencia propia o por notoriedad les constan los hechos positivos y negativos cuya declaración de notoriedad se pretende. Dichos testigos podrán ser, en su caso, parientes del fallecido, sea por consanguinidad o afinidad, cuando no tengan interés directo en la declaración. Se practicarán, también, las pruebas propuestas por el requirente así como las que se estimen oportunas, en especial las dirigidas a acreditar la nacionalidad y vecindad civil y, en su caso, la ley extranjera aplicable.
 
-6. Ultimadas las anteriores diligencias hará constar el Notario su juicio de conjunto sobre si quedan acreditados por notoriedad los hechos en que se funda la declaración de herederos.
+6. Ultimadas las anteriores diligencias, y transcurrido el plazo previsto en la regla 3.ª, hará constar el notario su juicio de conjunto sobre si quedan acreditados por notoriedad los hechos en que se funda la declaración de herederos.
 
-En caso afirmativo declarará qué parientes del causante son los herederos «abintestato», siempre que todos ellos sean de aquéllos en que la declaración corresponde al Notario. En la declaración se expresarán las circunstancias de identidad de cada uno y los derechos que por Ley le corresponden en la herencia.
+En caso afirmativo declarará qué parientes del causante son los herederos "abintestato", siempre que todos ellos sean de aquellos en que la declaración corresponde al notario. En la declaración se expresarán las circunstancias de identidad de cada uno y los derechos que por Ley le corresponden en la herencia.
+
+> Se modifican los apartados 5 y 6 por el art. 1.123 del Real Decreto 45/2007, de 19 de enero. Ref. BOE-A-2007-1810.
 
 > Se añade por el art. 2 del Real Decreto 1368/1992, de 13 de noviembre. Ref. BOE-A-1992-27995.
