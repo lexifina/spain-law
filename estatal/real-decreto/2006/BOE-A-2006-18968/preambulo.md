@@ -1,0 +1,21 @@
+La Conferencia de los Gobiernos contratantes del Convenio Internacional para la Seguridad de la Vida Humana en el Mar (SOLAS) de 1974, aprobó el 9 de noviembre de 1988 una serie de enmiendas referentes a las radiocomunicaciones para el Sistema Mundial de Socorro y Seguridad Marítimos (SMSSM) que, entre otras consecuencias, ha supuesto la sustitución del capítulo IV, intitulado «Radiocomunicaciones».
+
+Dichas enmiendas fueron publicadas en el Boletín Oficial del Estado el 19 de mayo de 1990, aunque no alcanzaron plena efectividad hasta el 1 de febrero de 1999.
+
+Dado que el Convenio SOLAS tiene un ámbito de aplicación restringido, debido a que sólo afecta a determinados buques de pasaje, la Organización Marítima Internacional ha recomendado a las Administraciones marítimas que hagan efectivas las normas del Sistema Mundial de Socorro y Seguridad Marítimos incluso para los buques a los que no les es de aplicación el Convenio SOLAS.
+
+Por ello, un primer objetivo del reglamento que se aprueba mediante este real decreto consiste en extender la aplicación de las citadas normas, hasta donde resulta posible, a los buques que no contaban hasta ahora con ninguna cobertura legal en materia de radiocomunicaciones.
+
+En lo que afecta a los buques pesqueros de eslora igual o superior a 24 metros, su regulación se encuentra recogida en el Real Decreto 1032/1999, de 18 de junio, que determina las normas de seguridad que deben cumplir dichos buques y que ha incorporado al ordenamiento jurídico español la Directiva 97/70/CE, del Consejo, de 11 de diciembre de 1997, por la que se establece un régimen armonizado de seguridad para los citados buques. El reglamento que ahora se aprueba pretende completar y precisar, para este tipo de buques, las prescripciones en materia de radiocomunicaciones marítimas recogidas en la normativa reguladora.
+
+Este reglamento viene, igualmente, a solucionar otras dos cuestiones relacionadas con la aplicación del Convenio SOLAS. Al ser éste un convenio de prescripciones mínimas, se ha considerado conveniente, en primer lugar, extender sus exigencias a buques que, en principio, no estaban incluidos dentro de su ámbito regulador y, en segundo término, se concretan las reglas aplicables en aquellas materias para las que el convenio otorga a las autoridades marítimas nacionales libertad de optar entre diferentes alternativas posibles.
+
+Este reglamento, finalmente, pretende acabar con la dispersión y heterogeneidad existente en la regulación de las radiocomunicaciones marítimas en España, proporcionando un soporte normativo adecuado y suficiente, que comporte la sustitución de normas que han quedado obsoletas, como son la Orden de 10 de agosto de 1957, por la que se aprueba el texto refundido de las normas reguladoras de la Inspección radiomarítima y la Orden de 10 de junio de 1975, sobre regulación del uso de frecuencias y clases de emisión por las instalaciones de radio en los buques.
+
+Este real decreto se dicta al amparo de las competencias que el artículo 149.1.20.ª de la Constitución atribuye al Estado en el ámbito de la marina mercante, cuyo contenido ha quedado definido en el artículo 6 de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y la Marina Mercante, entre los que incluye, en los párrafos c) y d) del apartado primero, la seguridad de la navegación, de la vida humana en el mar y la seguridad marítima. A su vez, el artículo 86 de la Ley 27/1992 atribuye al Ministerio de Fomento la facultad para regular dicha materia, así como la ordenación y control de las inspecciones y controles técnicos y radioeléctricos de los buques civiles españoles.
+
+Se ha cumplido el trámite de comunicación previa a la Comisión de la Unión Europea a los efectos previstos en el Real Decreto 1337/1999, de 31 de julio, que regula la remisión de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información.
+
+En su virtud, a propuesta de la Ministra de Fomento, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 13 de octubre de 2006,
+
+DISPONGO:
