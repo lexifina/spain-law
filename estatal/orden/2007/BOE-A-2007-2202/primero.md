@@ -1,0 +1,5 @@
+## Primero. Depósito de documentos en la AECI por parte de las entidades promotoras de la cooperación.
+
+Las entidades promotoras de la cooperación deberán depositar en la AECI en el plazo de 20 días hábiles desde su firma una copia del acuerdo complementario de destino y una copia simple del contrato de trabajo suscrito con el cooperante en el que figure el acuerdo complementario de destino como anexo. Se podrá sustituir la copia simple del contrato por la información telemática del registro del contrato en el INEM.
+
+En todo caso, en el acuerdo complementario de destino, cuyo modelo figura como anejo a esta Orden Ministerial, deberá constar expresamente el consentimiento del cooperante para que los datos de carácter personal contenidos en la documentación mencionada en el párrafo anterior puedan ser cedidos o comunicados a la AECI exclusivamente a efectos del refrendo y del seguro colectivo a los que se refiere la presente Orden, cumpliéndose así con lo dispuesto en el artículo 11 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
