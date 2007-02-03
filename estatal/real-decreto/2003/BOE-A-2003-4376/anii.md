@@ -515,7 +515,7 @@ CUADRO IV
 | C y R35 | C y R34 | Xi y R41 | Xi y R36, R37, R38 |
 | C y R35 | Concentración ≥ 10 % R35 obligatoria. | 5% ≤ concentración < 10% R34 obligatoria | 5 % (*) | 1 % ≤ concentración < 5 % R36/38 obligatoria. |
 | C y R34 |  | Concentración ≥ 10 % R34 obligatoria | 10 % (*) | 5 % ≤ concentración < 10 % R36/38 obligatoria. |
-| Xi y R41 |  |  | Concentración ≥ 10 % R41 obligatoria. | 5 % ≥ concentración < 10 % R36 obligatoria. |
+| Xi y R41 |  |  | Concentración ≥ 10 % R41 obligatoria. | 5 % ≤ concentración < 10 % R36 obligatoria. |
 | Xi y R36, R37, R38 |  |  |  | Concentración ≥ 20 % R36, R37, R38 son obligatorias en función de la concentración presente, cuando se apliquen a las sustancias consideradas. |
 
 (*) Con arreglo a la guía de etiquetado del anexo VI del Reglamento de sustancias, las sustancias corrosivas a las que se haya asignado las frases R35 o R34 también deberán considerarse afectadas por la frase R41. Por consiguiente, si el preparado contiene sustancias corrosivas con R35 o R34 por debajo de los límites de concentración necesarios para clasificarlo como preparado corrosivo, dichas sustancias podrán contribuir a la clasificación del preparado como irritante con R41 o R36.
@@ -602,17 +602,20 @@ Tóxico para la reproducción, desarrollo categoría 3: Xn; R63.
 
 CUADRO VI
 
+| Cuadro VI |
+| --- |
 | Clasificación de la sustancia | Clasificación del preparado |
-| --- | --- |
 | Categorías 1 y 2 | Categoría 3 |
+|  |  |  |
 | Sustancias carcinogénicas de categoría 1 ó 2 y R45 o R49. | Concentración ≥ 0,1 % carcinogénico R45, R49 obligatorias, según el caso. |  |
-| Sustancias carcinogénicas de categoría 3 y R40. |  | Concentración ≥ 1 % carcinogénico R40 obligatoria. |
-| Sustancias mutagénicas de categoría 1 ó 2 y R46. | Concentración ≥ 0,1 % mutagénico R46 obligatorias. |  |
-| Sustancias mutagénicas de categoría 3 y R68. |  | Concentración ≥ 1 % mutagénico R68 obligatoria. |
-| Sustancias «tóxicas para la reproducción» de categoría 1 ó 2 con R60 (fertilidad). | Concentración ≥ 0,5 % tóxico para la reproducción (fertilidad) R60 obligatoria. |  |
-| Sustancias «tóxicas para la reproducción» de categoría 3 con R62 (fertilidad). |  | Concentración ≥ 5 % tóxico para la reproducción (fertilidad) R62 obligatoria. |
-| Sustancias «tóxicas para la reproducción» de categoría 1 ó 2 con R61 (desarrollo). | Concentración ≥ 0,5 % tóxico para la reproducción (desarrollo) R61 obligatoria. |  |
-| Sustancias «tóxicas para la reproducción» de categoría 3 con R63 (desarrollo). |  | Concentración ≥ 5 % tóxico para la reproducción (desarrollo) R63 obligatoria. |
+| Sustancias carcinogénicas de categoría 3 y R40. |  | Concentración ≥ 1 % carcinogénico R40 obligatoria (salvo que R45* ya estuviera asignada). |
+| Sustancias mutagénicas de categoría 1 ó 2 y R46. | Concentración ≥ 0,1 % mutagénico R46 obligatoria. |  |
+| Sustancias mutagénicas de categoría 3 y R68. |  | Concentración ≥ 1 % mutagénico R68 obligatoria (salvo que R46 ya estuviera asignada). |
+| Sustancias «tóxicas para la reproducción» de categoría 1 ó 2 y R60 (fertilidad). | Concentración ≥ 0,5 % tóxico para la reproducción (fertilidad) R60 obligatoria. |  |
+| Sustancias «tóxicas para la reproducción» de categoría 3 y R62 (fertilidad). |  | Concentración ≥ 5 % tóxico para la reproducción (fertilidad) R62 obligatoria (salvo que R60 ya estuviera asignada). |
+| Sustancias «tóxicas para la reproducción» de categoría 1 ó 2 y R61 (desarrollo). | Concentración ≥ 0,5 % tóxico para la reproducción (desarrollo) R61 obligatoria. |  |
+| Sustancias «tóxicas para la reproducción» de categoría 3 y R63 (desarrollo). |  | Concentración ≥ 5 % tóxico para la reproducción (desarrollo) R63 obligatoria (salvo que R61 ya estuviera asignada). |
+| * En los casos en que se hayan asignado las frases R49 y R40 al preparado, deberán mantenerse ambas, ya que R40 no establece la distinción entre vías de exposición, mientras que R49 se asigna únicamente en caso de exposición por inhalación. |  |
 
 6.2 Preparados gaseosos.
 
@@ -638,16 +641,21 @@ Tóxico para la reproducción, desarrollo categorías 3: Xn; R63.
 
 CUADRO VI A
 
-| Clasificación de la sustancia (gas) | Clasificación del preparado gaseoso |
-| --- | --- |
+| Cuadro VI A |
+| --- |
+| Clasificación de la sustancia | Clasificación del preparado |
 | Categorías 1 y 2 | Categoría 3 |
-| Sustancias carcinogénicas de categoría 1 ó 2 y R45 o R49. | Concentración ≥ 0,1 % carcinogénico R45 o R49 obligatorias, según el caso. |  |
-| Sustancias carcinogénicas de categoría 3 y R40. |  | Concentración ≥ 1 % carcinogénico R40 obligatoria. |
-| Sustancias mutagénicas de categoría 1 ó 2 y R46. | Concentración ≥ 0,1 % mutagénico R46 obligatorias. |  |
-| Sustancias mutagénicas de categoría 3 y R68. |  | Concentración ≥ 1 % mutagénico R68 obligatoria. |
-| Sustancias «tóxicas para la reproducción» de categoría 1 ó 2 con R60 (fertilidad). | Concentración ≥ 0,2 % tóxico para la reproducción (fertilidad) R60 obligatoria. |  |
-| Sustancias «tóxicas para la reproducción» de categoría 3 con R62 (fertilidad). |  | Concentración ≥ 1 % tóxico para la reproducción (fertilidad) R62 obligatoria. |
-| Sustancias «tóxicas para la reproducción» de categoría 1 ó 2 con R61 (desarrollo). | Concentración ≥ 0,2 % tóxico para la reproducción (desarrollo) R61 obligatoria. |  |
-| Sustancias «tóxicas para la reproducción» de categoría 3 con R63 (desarrollo). |  | Concentración ≥ 1 % tóxico para la reproducción (desarrollo) R63 obligatoria. |
+|  |  |  |
+| Sustancias carcinogénicas de categoría 1 ó 2 y R45 o R49. | Concentración ≥ 0,1 % carcinogénico R45, R49 obligatorias, según el caso. |  |
+| Sustancias carcinogénicas de categoría 3 y R40. |  | Concentración ≥ 1 % carcinogénico R40 obligatoria (salvo que R45* ya estuviera asignada). |
+| Sustancias mutagénicas de categoría 1 ó 2 y R46. | Concentración ≥ 0,1 % mutagénico R46 obligatoria. |  |
+| Sustancias mutagénicas de categoría 3 y R68. |  | Concentración ≥ 1 % mutagénico R68 obligatoria (salvo que R46 ya estuviera asignada). |
+| Sustancias «tóxicas para la reproducción» de categoría 1 ó 2 y R60 (fertilidad). | Concentración ≥ 0,2 % tóxico para la reproducción (fertilidad) R60 obligatoria. |  |
+| Sustancias «tóxicas para la reproducción» de categoría 3 y R62 (fertilidad). |  | Concentración ≥ 1 % tóxico para la reproducción (fertilidad) R62 obligatoria (salvo que R60 ya estuviera asignada). |
+| Sustancias «tóxicas para la reproducción» de categoría 1 ó 2 y R61 (desarrollo). | Concentración ≥ 0,2 % tóxico para la reproducción (desarrollo) R61 obligatoria. |  |
+| Sustancias «tóxicas para la reproducción» de categoría 3 y R63 (desarrollo). |  | Concentración ≥ 1 % tóxico para la reproducción (desarrollo) R63 obligatoria (salvo que R61 ya estuviera asignada). |
+| * En los casos en que se hayan asignado las frases R49 y R40 al preparado, deberán mantenerse ambas, ya que R40 no establece la distinción entre vías de exposición, mientras que R49 se asigna únicamente en caso de exposición por inhalación. |  |
+
+> Se modifican los cuadros VI y VI A por el art. único y anexo de la Orden PRE/164/2007, de 29 de enero. Ref. BOE-A-2007-2205
 
 > Redactado el cuadro V conforme a la corrección de errores publicada en BOE núm. 56, de 5 de marzo de 2004. Ref. BOE-A-2004-4020

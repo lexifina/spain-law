@@ -200,27 +200,7 @@ a) Bien a la fijada en el anexo I del Reglamento de sustancias para la sustancia
 
 b) Bien a la fijada en la parte B del presente anexo (cuadro 5) cuando la sustancia o sustancias no figuren en el anexo I del Reglamento de sustancias o cuando figuren sin límites de concentración.
 
-2. Se les aplicará la frase de riesgo R59 a los preparados que contengan una o varias sustancias clasificadas como peligrosas para el medio ambiente y a las que se aplica la frase R59 en una concentración individual igual o superior:
-
-a) Bien a la fijada en el anexo I del Reglamento de sustancias para la sustancia o sustancias consideradas.
-
-b) Bien a la fijada en la parte B del presente anexo (cuadro 5) cuando la sustancia o sustancias no figuren en el anexo I del Reglamento de sustancias o cuando figuren sin límites de concentración.
-
-Medio Ambiente Terrestre:
-
-Evaluación de los preparados peligrosos para el medio ambiente terrestre:
-
-La utilización de las frases de riesgo siguientes para la clasificación de los preparados tendrá en cuenta los criterios detallados una vez introducidos en el anexo VI del Reglamento de sustancias:
-
-R54 Tóxico para la flora.
-
-R55 Tóxico para la fauna.
-
-R56 Tóxico para los organismos del suelo.
-
-R57 Tóxico para las abejas.
-
-R58 Puede producir efectos perjudiciales a largo plazo para el medio ambiente.
+2. (Suprimido)
 
 PARTE B
 
@@ -232,23 +212,45 @@ Los límites de concentración fijados en los cuadros siguientes y expresados en
 
 CUADRO 1
 
-Toxicidad acuática aguda y efectos perjudiciales a largo plazo
+## Cuadro 1a
+
+## Toxicidad acuática aguda y efectos perjudiciales a largo plazo
 
 | Clasificación de la sustancia | Clasificación del preparado |
 | --- | --- |
 | N, R50-53 | N, R51-53 | R52-53 |
-| N, R50-53 | Cn ≥ 25 por 100 | 2,5 por 100 ≤ Cn < 25 por 100 | 0,25 por 100 ≤ Cn < 2,5 por 100 |
-| N, R51-53 |  | Cn ≥ 25 por 100 | 2,5 por 100 ≤ Cn < 25 por 100 |
-| R52-53 |  |  | Cn ≥ 25 por 100 |
+|  |  |  |  |
+| N, R50-53. | Véase el cuadro 1b. | Véase el cuadro 1b. | Véase el cuadro 1b. |
+| N, R51-53. |  | Cn ≥ 25 % | 2,5 % ≤ Cn < 25 % |
+| R52-53. |  |  | Cn ≥ 25 % |
 
-CUADRO 2
+Para los preparados que contengan una sustancia clasificada con la frase N, R50-53, se aplican los límites de concentración y la clasificación resultante que figuran en el cuadro 1b.
 
-Toxicidad acuática aguda
-
-| Clasificación de la sustancia | Clasificación del preparado N, R50 |
+| Cuadro 1b Toxicidad acuática aguda y efectos perjudiciales a largo plazo de las sustancias muy tóxicas para el medio ambiente acuático |  |
 | --- | --- |
-| N, R50 | Cn ≥ 25 por 100 |
-| N, R50-53 | Cn ≥ 25 por 100 |
+| Valor LC50 o EC50(«L(E)C50») de sustancia clasificada como N, R50-53 (mg/l) | Clasificación del preparado |
+| N, R50-53 | N, R51-53 | R52-53 |
+|  |  |  |  |
+| 0,1 < L(E)C50 ≤ 1 | Cn ≥ 25 % | 2,5 % ≤ Cn < 25 % | 0,25 % ≤ Cn < 2,5 % |
+| 0,01 < L(E)C50 ≤ 0,1 | Cn ≥ 2,5 % | 0,25 % ≤ Cn < 2,5 % | 0,025 % ≤ Cn < 0,25 % |
+| 0,001 < L(E)C50 ≤ 0,01 | Cn ≥ 0,25 % | 0,025 % ≤ Cn < 0,25 % | 0,0025 % ≤ Cn < 0,025 % |
+| 0,0001 < L(E)C50 ≤ 0,001 | Cn ≥ 0,025 % | 0,0025 % ≤ Cn < 0,025 % | 0,00025 % ≤ Cn < 0,0025 % |
+| 0,00001 < L(E)C50 ≤ 0,0001 | Cn ≥ 0,0025 % | 0,00025 % ≤ Cn < 0,0025 % | 0,000025 % ≤ Cn < 0,00025 % |
+| Para los preparados que contengan sustancias con un valor LC50 o EC50 inferior a 0,00001 mg/l, se calcularán en consecuencia los correspondientes límites de concentración (en intervalos de factor 10). |  |
+
+## Cuadro 2
+
+## Toxicidad acuática aguda
+
+| Valor LC50 o EC50 («L(E)C50») de sustancia clasificada como N, R50 o como N, R50-53 (mg/l) | Clasificación del preparado N, R50 |
+| --- | --- |
+|  |  |
+| 0,1 < L(E)C50 ≤ 1 | Cn ≥ 25 % |
+| 0,01 < L(E)C50 ≤ 0,1 | Cn ≥ 2,5 % |
+| 0,001 < L(E)C50 ≤ 0,01 | Cn ≥ 0,25 % |
+| 0,0001 < L(E)C50 ≤ 0,001 | Cn ≥ 0,025 % |
+| 0,00001 < L(E)C50 ≤ 0,0001 | Cn ≥ 0,0025 % |
+| Para los preparados que contengan sustancias con un valor LC50 o EC50 inferior a 0,00001 mg/l, se calcularán en consecuencia los correspondientes límites de concentración (en intervalos de factor 10). |  |
 
 CUADRO 3
 
@@ -273,16 +275,14 @@ B) Para el medio ambiente no acuático.
 
 Los límites de concentración fijados en los cuadros siguientes y expresados en porcentaje peso/peso o para los preparados gaseosos en porcentaje volumen/volumen, determinan la clasificación del preparado en función de la concentración individual de la sustancia o sustancias presentes, cuya clasificación también se indica.
 
-CUADRO 5
+## Cuadro 5
 
-Peligrosos para la capa de ozono
+## Peligrosos para la capa de ozono
 
 | Clasificación de la sustancia | Clasificación del preparado N, R59 |
 | --- | --- |
-| N con R59 | Cn ≥ 0,1 por 100 |
-| Clasificación de la sustancia | Clasificación del preparado R59 |
-| --- | --- |
-| R59 | Cn ≥ 0,1 por 100 |
+|  |  |
+| N y R59 | Cn ≥ 0,1 % |
 
 PARTE C
 
@@ -295,3 +295,5 @@ El resultado de estos ensayos sobre el preparado sólo puede modificar la clasif
 Si el responsable de la comercialización elige estos ensayos, éstos deberán realizarse respetando los criterios de calidad de los métodos que figuran en la parte C del anexo V del Reglamento de sustancias.
 
 Además, los ensayos se efectuarán en cada una de las tres especies previstas con arreglo a los criterios del anexo VI del Reglamento de sustancias (algas, dafnias y peces), a menos que se haya atribuido ya al preparado, tras el ensayo en una de las especies, la clasificación de peligro más elevada relativa a la toxicidad acuática aguda o que se encuentre ya disponible el resultado de un ensayo antes de la entrada en vigor del presente reglamento.
+
+> Se suprime el apartado A.B).2 y se modifican los cuadros 1, 2 y 5 por el art. único y anexo.2 de la Orden PRE/164/2007, de 29 de enero. Ref. BOE-A-2007-2205
