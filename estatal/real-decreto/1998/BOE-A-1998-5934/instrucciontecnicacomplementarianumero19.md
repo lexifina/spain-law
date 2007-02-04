@@ -76,4 +76,24 @@ d) Las casetas habrán de guardar como mínimo una distancia de 20 metros con re
 
 e) Simultáneamente sólo se admitirá en cada caseta dos personas despachando los productos, las cuales deberán estar autorizadas por el Delegado del Gobierno correspondiente.
 
+3. Comercialización de artificios pirotécnicos.
+
+3.1 La unidad mínima de venta al público será el envase, prohibiéndose la venta de unidades sueltas fuera de él. El envase será del tipo o tipos declarados en el proceso de catalogación (registrados en el catalogo) y tomados en consideración en el momento de la certificación de tipo.
+
+Sobre el envase y los distintos embalajes que pudieran existir, irá colocada una etiqueta de acuerdo con la Instrucción Técnica Complementaria número 15.
+
+Sobre cada artificio se reflejara, al menos, el número de orden de catalogación y el número de registro industrial o el CIF o el NIF, del fabricante nacional o del importador en su caso, excepto en los de pequeño tamaño y en aquellos artificios que por su constitución no permitan ningún tipo de impresión o pegatina.
+
+3.2 En virtud del artículo 213 del Reglamento de Explosivos, se establecen las siguientes limitaciones para el uso de los artificios pirotécnicos:
+
+Clase I. Mayores de 12 años.
+
+Clase II. Mayores de 16 años.
+
+Clase III. Mayores de 18 años.
+
+A los menores de 12 años, queda prohibido el suministro y uso de artificios pirotécnicos, con excepción de los pistones de percusión para juguetes.
+
+> Se añade el apartado 3 por el art. único.1 de la Orden PRE/174/2007, de 31 de enero. Ref. BOE-A-2007-2295.
+
 > Redactado el apartado 2.1.c) conforme a la corrección de errores publicada en BOE núm. 157, de 2 de julio. Ref. BOE-A-1998-15589.
