@@ -1,0 +1,3 @@
+## Disposición transitoria única. Cumplimiento de la obligación de declaración.
+
+Hasta la entrada en vigor de la presente Orden la obligación de declaración establecida en el artículo 3.9 de la Ley 19/1993, de 28 de diciembre, sobre determinadas medidas de prevención del blanqueo de capitales, deberá ser cumplida mediante la presentación del modelo B1 ante los órganos mencionados en el artículo 4 de la Orden del Ministro de Economía y Hacienda de 27 de diciembre de 1991, de desarrollo del Real Decreto 1816/1991, de 27 de diciembre, sobre transacciones económicas con el exterior. En el caso de movimientos por territorio nacional, el declarante indicará en el apartado relativo a «país de origen o destino» la localidad de origen y la localidad de destino del movimiento.

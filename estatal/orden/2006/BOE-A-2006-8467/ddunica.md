@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+A la entrada en vigor de la presente Orden quedarán derogados los apartados 1, 2 y 3 del artículo 4 de la Orden del Ministro de Economía y Hacienda de 27 de diciembre de 1991, de desarrollo del Real Decreto 1816/1991, de 27 de diciembre, sobre transacciones económicas con el exterior, modificada por Orden de 9 de julio de 1996, y las Instrucciones 1.ª, apartado primero, 2.ª y 3.ª de la Resolución de la Dirección General de Política Comercial e Inversiones Exteriores de 9 de julio de 1996, por la que se dictan normas para la aplicación de los artículos 4, 5, 7 y 10 de la Orden del Ministro de Economía y Hacienda de 27 de diciembre de 1991.
