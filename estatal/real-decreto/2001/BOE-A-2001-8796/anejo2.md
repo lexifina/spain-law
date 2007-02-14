@@ -30,28 +30,29 @@ CUADRO 1
 
 | Equipos de inspección | III | IV |
 | --- | --- | --- |
-| Medidor de espesores por ultrasonidos, válido para distintos materiales (mínimo acero y aluminio) | X | X |
-| Cinta métrica, galgas, calibres para control dimensional | X |  |
-| Pinzas amperimétricas (CC y CA) y termómetro de contacto o tizas termométricas, para control de los parámetros de soldadura | X |  |
-| Equipos de END: líquidos penetrantes. Partículas magnéticas fluorescentes | X | X |
-| Equipos de END: ultrasonidos y radiografías | X |  |
-| Equipos de DE: durómetro, fotomacrografía, fotomicrografía, máquina universal de ensayos de tracción y de plegado, máquina de ensayo de resilencia (péndulo Charpy) | X |  |
-| Laboratorio de análisis químicos de materiales | X |  |
-| Útiles y máquinas para la preparación de ensayos y pruebas | X |  |
-| Contador volumétrico o báscula, con error inferior al 1 por 100 para la prueba de capacidad | X |  |
+| Equipos de ultrasonido con pantalla de lectura digital para medición de espesores de envolventes metálicos y equipos de ultrasonidos con pantalla gráfica para la exploración de soldaduras y zonas anexas (propias) | X | X |
+| Cinta métrica, galgas, calibres para control dimensional | X | – |
+| Pinzas amperiméticas (CC y CA) y termómetro de contacto o tizas termométricas, para control de los parámetros de soldadura | X | – |
+| Equipos de END: líquidos penetrantes, partículas magnéticas fluorescentes (propias) | X | X |
+| Equipos de END: radiografías | X | X |
+| Equipos de ED: durométro, fotomacrografía, fotomicrografía, máquina universal de ensayos de tracción y de plegado, máquina de ensayo de resilencia (péndulo Charpy) | X | – |
+| Laboratorio de análisis químicos de materiales | X | – |
+| Útiles y máquinas para la preparación de ensayos y pruebas | X | – |
+| Contador volumétrico o báscula, con error inferior al 1% para la prueba de capacidad | X | – |
 | Bomba hidráulica para la prueba de presión | X | X |
 | Bomba de vacío para la prueba de cisternas criogénicas, con aislamiento al vacío | X | X |
 | Equipo de detección de fugas con gas trazador de helio, para las cisternas con aislamiento al vacío | X | X |
 | Compresor neumático para la prueba de estanqueidad | X | X |
 | Spray de agua jabonosa para la detección de fugas | X | X |
 | Banco de pruebas y compresor neumático (o botella de gas inerte) para la prueba y tarado de válvulas de seguridad y comprobación de válvulas de aireación | X | X |
-| Juego de manómetros, aptos para medir en el 2.º tercio de la escala la presión a verificar | X | X |
-| Vacuómetro y termómetro (hasta -196 ºC) para control de pruebas de vacío | X | X |
-| Lámpara antideflagrante |  | X |
-| Explosímetro, para verificar la ausencia de atmósferas explosivas |  | X |
+| Juego de manómetros, con rango adecuado y precisión 3% (propios) | X | X |
+| Vacuómetro y termómetro (hasta –196 ºC) para control de pruebas de vacío | X | X |
+| Lámpara antideflagrante (propia) | X | X |
+| Explosímetro, para verificar la ausencia de atmósferas explosivas (propias) | X | X |
 | Troqueles alfanuméricos, de distintos materiales | X | X |
-| Cámara fotográfica (propia) |  |  |
+| Cámara fotográfica (propia) | X | X |
 | Equipos de protección individual | X | X |
+| Flexométro (rango 0-4 m. aproximadamente). Resolución 0,001 m. con precisión de 3% | X | X» |
 
 CUADRO 2
 
@@ -91,3 +92,5 @@ CUADRO 3
 | Mecanismos de seguridad |  |  |  |  |
 | Grabado de placas |  |  | X | X |
 | Seguridad del personal de inspección |  |  | X | X |
+
+> Se modifica el cuadro 1 por el art. único.2 de la Orden ITC/254/2007, de 1 de febrero. Ref. BOE-A-2007-2957.
