@@ -1,5 +1,5 @@
-## Disposición adicional quinta. Cuantía máxima de cobertura en los riesgos complementarios y accesorios.
+## Disposición adicional quinta. Cuantía máxima de cobertura de responsabilidad civil como riesgo accesorio.
 
-El Ministro de Economía y Hacienda podrá actualizar, atendiendo al índice de precios al consumo, el límite de 10.000.000 de pesetas que se establece como cuantía máxima de cobertura de responsabilidad civil cuando ésta tenga la consideración de riesgo accesorio conforme a lo establecido en la disposición adicional primera, apartado 1.C de la Ley, siempre que dicho importe no supere el valor asegurado respecto del riesgo principal.
+El Ministro de Economía y Hacienda podrá actualizar, atendiendo al índice de precios al consumo, el límite de 60.101,21 euros que se establece como cuantía máxima de cobertura de responsabilidad civil cuando tenga la consideración de riesgo accesorio conforme a lo establecido en el artículo 6, apartado 1, c) del texto refundido de la Ley de ordenación y supervisión de los seguros privados, siempre que dicho importe no supere el valor asegurado respecto del riesgo principal.
 
-El importe máximo asegurado en los seguros cuyos riesgos cubiertos tengan la consideración de complementarios o accesorios no podrá superar la suma asegurada del riesgo principal.
+> Se modifica por el art. 1.27 del Real Decreto 239/2007, de 16 de febrero. Ref. BOE-A-2007-3433
