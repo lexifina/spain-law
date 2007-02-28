@@ -33,3 +33,7 @@ f) Datos que deberán ser incorporados al DUE por la Tesorería General de la Se
 5.º Número de afiliación asignado a cada uno de los trabajadores, en su caso.
 
 6.º Acreditación de la realización de los trámites de alta de los trabajadores.
+
+g) Datos relativos al nombre de dominio ''.es'' asignado que deberán ser incorporados por la Autoridad de Asignación: asignación del nombre o de los nombres de dominio solicitados.
+
+> Se añade la letra g) por la disposición final 1.4 del Real Decreto 1332/2006, de 21 de noviembre. Ref. BOE-A-2006-20846

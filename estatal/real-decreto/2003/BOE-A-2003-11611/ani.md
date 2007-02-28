@@ -238,4 +238,22 @@ Categoría profesional.
 
 Coeficiente de permanencias.
 
+s) Datos relativos al nombre de dominio ''.es'' solicitado:
+
+1. Nombre o nombres de dominio bajo ''.es'' solicitados.
+
+2. Datos identificativos del titular del nombre de dominio o de los nombres de dominio que se solicitan.
+
+3. Datos identificativos de la persona de contacto administrativo.
+
+4. En su caso, Marca o Marcas Registradas y Número o Números de Inscripción en la Oficina Española de Patentes y Marcas/Oficina de Armonización del Mercado Interior, que correspondan con el nombre o nombres de dominio solicitados.
+
+5. Datos identificativos de la persona de contacto técnico.
+
+6. Datos identificativos de la persona de contacto de facturación.
+
+7. En su caso, datos técnicos de los servidores DNS (Domain Name System).
+
 2. Cuando haya de figurar en el DUE un domicilio o el lugar donde se halle un establecimiento, se expresarán los datos necesarios para su correcta localización, tales como tipo de vía pública, nombre de la vía pública, carretera, kilómetro, número de identificación del piso o local, localidad, municipio, código postal, código municipal, provincia, número de teléfono, fax o dirección de correo electrónico. Si se encontrara fuera de poblado, se indicará el término municipal y el nombre del lugar o cualquier otro dato que permita su localización.
+
+> Se añade la letra s) al apartado 1 por la disposición final 1.3 del Real Decreto 1332/2006, de 21 de noviembre. Ref. BOE-A-2006-20846
