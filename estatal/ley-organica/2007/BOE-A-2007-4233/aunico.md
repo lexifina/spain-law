@@ -1,0 +1,3 @@
+## Artículo único.
+
+Se modifica el Estatuto de Autonomía de las Illes Balears, aprobado mediante Ley Orgánica 2/1983, de 25 de febrero, dándose una nueva redacción a su preámbulo, a determinados artículos, a determinadas disposiciones adicionales y transitorias, a las denominaciones de todos sus artículos, de algunos de sus capítulos y títulos y de todas sus disposiciones adicionales y transitorias; incorporando, asimismo, determinados artículos, capítulos, títulos y disposiciones adicionales y transitorias y renumerando todos los títulos, capítulos, artículos y disposiciones adicionales y transitorias, de tal manera que el texto del citado Estatuto de Autonomía de las Illes Balears es del siguiente tenor:

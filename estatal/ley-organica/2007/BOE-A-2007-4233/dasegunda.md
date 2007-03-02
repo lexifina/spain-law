@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Patrimonio lingüístico común.
+
+La Comunidad Autónoma de las Illes Balears, siendo la lengua catalana también patrimonio de otras comunidades autónomas, podrá solicitar al Gobierno del Estado y a las Cortes Generales los convenios de cooperación y de colaboración que se consideren oportunos para salvaguardar el patrimonio lingüístico común, así como para efectuar la comunicación cultural entre las comunidades antes citadas, sin perjuicio de los deberes del Estado establecidos en el apartado 2 del artículo 149 de la Constitución y de lo que dispone el artículo 145 de la misma.
