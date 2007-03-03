@@ -106,7 +106,9 @@ Agrupación Base Aérea Torrejón de Ardoz (Madrid).
 
 Agrupación Base Aérea Zaragoza.
 
-Base Aérea Son San Juan, en Palma de Mallorca (Islas Baleares).
+Base Aérea Son San Juan, en Palma de Mallorca (Illes Balears).
+
+Base Aérea de Villanubla, en Villanubla (Valladolid).
 
 Agrupación Central del Ejército del Aire, en Madrid.
 
@@ -114,7 +116,7 @@ Agrupación Acuartelamiento Aéreo Tablada, en Sevilla.
 
 Agrupación Acuartelamiento Aéreo El Prat, en Barcelona.
 
-Aeródromo Militar Santiago, en Santiago de Compostela (La Coruña).
+Aeródromo Militar Santiago, en Santiago de Compostela (A Coruña).
 
 Centro de Sistemas Aeroespaciales de Observación, en Torrejón de Ardoz (Madrid).
 
@@ -128,29 +130,29 @@ Jefatura del Servicio de Búsqueda y Salvamento, en Torrejón de Ardoz (Madrid).
 
 Centro de Coordinación de Salvamento Madrid, en Torrejón de Ardoz (Madrid).
 
-Ala 48, en Torrejón de Ardoz (Madrid).
+Ala 48, en Getafe (Madrid).
+
+Ala 37, en Villanubla (Valladolid).
 
 43 Grupo, en Torrejón de Ardoz (Madrid).
 
 45 Grupo, en Torrejón de Ardoz (Madrid).
 
-801 Escuadrón, en Palma de Mallorca (Islas Baleares).
+801 Escuadrón, en Palma de Mallorca (Illes Balears).
 
 Fuerzas Auxiliares de Apoyo Operativo:
 
 Jefatura, en Madrid.
 
-Centro Cartográfico y Fotográfico, en Torrejón de Ardoz (Madrid).
+Centro Cartográfico y Fotográfico, en Getafe (Madrid).
 
 Centro de Material de Apoyo, en Getafe (Madrid).
 
 Grupo de Automóviles, en Getafe (Madrid).
 
-Acuartelamiento Aéreo de Villanubla (Valladolid).
-
 Acuartelamiento Aéreo de Málaga.
 
-Acuartelamiento Aéreo de Pollensa, en Pollensa-Mallorca (Islas Baleares).
+Acuartelamiento Aéreo de Pollensa, en Pollensa-Mallorca (Illes Balears).
 
 Acuartelamiento Aéreo Bobadilla (Málaga).
 
@@ -169,3 +171,5 @@ Ala 46 en Gando-Telde (Las Palmas).
 Aeródromo Militar Lanzarote, en San Bartolomé -Lanzarote (Las Palmas).
 
 Sector Aéreo Tenerife, en Santa Cruz de Tenerife.
+
+> Se modifica por apartado único de la Orden DEF/448/2007, de 27 de febrero. Ref. BOE-A-2007-4371
