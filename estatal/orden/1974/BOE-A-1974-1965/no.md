@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 39 de 14 de febrero de 1975. Ref. BOE-A-1975-3219
+Téngase en cuenta que quedan derogadas las disposiciones de esta norma en aquello que contradigan o se opongan a lo dispuesto en el Reglamento y sus ITCs aprobados por el Real Decreto 919/2006, de 28 de julio, según establece su disposición derogatoria única.1. Ref. BOE-A-2006-15345#ddunica

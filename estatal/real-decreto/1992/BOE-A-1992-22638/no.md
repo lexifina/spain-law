@@ -1,0 +1,1 @@
+Téngase en cuenta que esta norma queda derogada en aquello que contradiga o se oponga a lo dispuesto en el reglamento técnico de distribución y utilización de combustibles gaseosos y sus instrucciones técnicas complementarias, aprobados por Real Decreto 919/2006, de 28 de julio, según establece su disposición derogatoria única, apartado 1. Ref. BOE-A-2006-15345#ddunica.
