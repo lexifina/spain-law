@@ -20,6 +20,10 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2005/60/04096_001.png)
 
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/38/03017_001.png)
+
+> Se amplía por el apartado 2 y anexo de la Resolución de 31 de enero de 2007. Ref. BOE-A-2007-3017.
+
 > Se amplía por el apartado 2 y anexo de la Resolución de 21 de febrero de 2005. Ref. BOE-A-2005-4096.
 
 > Se amplía por el apartado 2 y anexo de la Resolución de 26 de mayo de 2004. Ref. BOE-A-2004-10955.
