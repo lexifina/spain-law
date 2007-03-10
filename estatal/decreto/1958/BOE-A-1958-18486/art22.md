@@ -6,15 +6,19 @@ No obstante, no requieren autorización especial para obtener certificación:
 
 2.º Respecto de la rectificación del sexo, el propio inscrito.
 
-3.º Respecto de las causas de privación o suspensión de la patria potestad, el sujeto a ésta o sus ascendientes o descendientes o herederos, y respecto de las de nulidad de matrimonio o de separación o divorcio, los cónyuges o sus herederos, además, en su caso, de aquéllos.
+3.º Respecto de las causas de privación o suspensión de la patria potestad, el sujeto a ésta o sus ascendientes o descendientes o herederos.
 
 4.º Respecto de los documentos archivados, las personas antes referidas en los distintos supuestos, y cuando se trate de resolución notificada, el destinatario de la notificación.
 
 5.º Respecto del legajo de abortos, los padres.
 
+6.º Respecto de los cambios de apellido autorizados conforme a lo previsto en el párrafo tercero del artículo 208, únicamente la persona inscrita.
+
 Tampoco requieren autorización los que tienen bajo su guarda las personas antes referidas y los apoderados especialmente por aquéllos o estas. Aunque el apoderamientos escrito o la guarda no consten fehacientemente, el Encargado discrecionalmente podrá estimarlos acreditados.
 
-En la certificación se expresará, en todos los supuestos de este artículo, el nombre del solicitante.
+En la certificación se expresará, en todos los supuestos de este articulo, el nombre del solicitante.
+
+> Se modifica el número 3º y se añade el 6º por el art. único.2 del Real Decreto 170/2007, de 9 de febrero. Ref. BOE-A-2007-4942.
 
 > Se modifica por el art. 1 del Real Decreto 1917/1986, de 29 de agosto. Ref. BOE-A-1986-24861.
 
