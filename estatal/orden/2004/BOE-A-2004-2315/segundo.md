@@ -1,3 +1,5 @@
 ## Segundo. Sistemas normalizados de solicitudes.
 
-Con el fin de hacer efectivo el ejercicio de derechos y acciones y permitir la presentación de solicitudes escritos y comunicaciones por los interesados, referidas a los procedimientos y actuaciones a los que se hace referencia en el apartado anterior, se aprueban los sistemas normalizados de solicitudes y preimpresos incluidos en el Anexo II.
+(Suprimido)
+
+> Se suprime por el apartado 2 de la Orden APU/513/2007, de 1 de marzo. Ref. BOE-A-2007-4943.
