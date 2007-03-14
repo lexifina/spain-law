@@ -12,7 +12,7 @@
 
 ## CERTIFICADO DE COMPETENCIA PROFESIONAL PARA EL TRANSPORTE NACIONAL [E INTERNACIONAL] (3) DE MERCANCÍAS [VIAJEROS] (3) POR CARRETERA
 
-| N.º ........................ |
+| N.º .................... |
 | --- |
 
 Por la presente (2) ..............................................................................................
@@ -38,7 +38,7 @@ Expedido en ................................... , el ...........................
 
 ....................................... (7)
 
-(1) Distintivo del Estado: (B) Bélgica, (DK) Dinamarca, (D) Alemania, (GR) Grecia, (E) España, (F) Francia, (IRL) Irlanda, (I) Italia, (L) Luxemburgo, (NL) Países Bajos, (A) Austria, (P) Portugal, (FIN) Finlandia, (S) Suecia, (UK) Reino Unido.
+(1) Distintivo del Estado: (B) Bélgica, (BG) Bulgaria, (CZ) República Checa, (DK) Dinamarca, (D) Alemania, (EST) Estonia, (GR) Grecia, (E) España, (F) Francia, (IRL) Irlanda, (I) Italia, (CY) Chipre, (LV) Letonia, (LT) Lituania, (L) Luxemburgo, (H) Hungría, (M) Malta, (NL) Países Bajos, (A) Austria, (PL) Polonia, (P) Portugal, (RO) Rumanía, (SLO) Eslovenia, (SK) Eslovaquia, (FIN) Finlandia, (S) Suecia, (UK) Reino Unido.
 
 (2) Autoridad o entidad previamente designada a tal efecto por cada miembro de la Comunidad Europea para expedir el presente certificado.
 
@@ -51,3 +51,5 @@ Expedido en ................................... , el ...........................
 (6) Referencia a las disposiciones de Derecho interno adoptadas en la materia, conforme a la mencionada Directiva.
 
 (7) Sello y firma de la autoridad o entidad competente que expide el certificado.
+
+> Se modifica la nota (1) a pie de página por la Resolución de 25 de enero de 2007. Ref. BOE-A-2007-3691.
