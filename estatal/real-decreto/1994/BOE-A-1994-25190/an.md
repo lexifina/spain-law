@@ -59,6 +59,8 @@
 |  | * Sección Políticas. |
 |  | - Licenciado en Ciencias Políticas y Sociología: |
 |  | * Sección Ciencias Políticas y de la Administración. |
+|  | - Licenciado en Ciencias Políticas y Sociología. |
+|  | * Sección de Ciencias Políticas. |
 | - Licenciado en Comunicación Audiovisual. | - Licenciado en Ciencias de la Información: |
 |  | * Especialidad Ciencias de la Imagen Visual y Auditiva. |
 | - Licenciado en Derecho. | - Licenciado en Derecho. |
@@ -179,7 +181,7 @@
 |  | - Ingeniero Técnico en Electricidad. |
 | - Ingeniero Técnico Industrial, especialidad en Electrónica Industrial. | - Ingeniero Técnico Industrial: |
 |  | * Especialidad en Electricidad (Electrónica industrial). |
-|  | * Especialidad Eléctrica, Intensificación Autonómica y Electrónica. |
+|  | * Especialidad Eléctrica, Intensificación Automática y Electrónica. |
 | - Ingeniero Técnico Industrial, especialidad en Mecánica. | - Ingeniero Técnico Industrial: |
 |  | * Especialidad en Mecánica. |
 |  | - Ingeniero Técnico en Mecánica. |
@@ -281,6 +283,9 @@
 |  | ** División Filología: |
 |  | * Sección Filología Anglogermánica. |
 |  | - Licenciado en Filología (especialidad: Alemana) |
+|  | - Licenciado en Filosofía y Letras: |
+|  | ** División Filología |
+|  | * Sección Filología Alemana. |
 | - Licenciado en Filología Arabe. | - Licenciado en Filología: |
 |  | * Sección Filología Semítica: Especialidades Común, Arabe e Islam y Arabo-islámica. |
 |  | - Licenciado en Filosofia y Letras: |
@@ -420,7 +425,7 @@
 |  | * Sección Historia Antigua. |
 |  | * Sección Historia Medieval. |
 |  | * Sección Historia General. |
-|  | * Sección Antropología Cutural. |
+|  | * Sección Antropología Cultural. |
 |  | * Sección Geografía e Historia. |
 |  | * Sección Prehistoria y Arqueología. |
 | - Licenciado en Historia del Arte. | - Licenciado en Filosofía y Letras: |
@@ -439,6 +444,8 @@
 | - Licenciado en Lingüística. |  |
 | - Licenciado en Teoría de la Literatura y Literatura Comparada. |  |
 | - Licenciado en Traducción e interpretación. |  |
+
+> Se modifica el apartado II, III y IV por el apartado 1 de la Orden ECJ/576/2007, de 12 de marzo. Ref. BOE-A-2007-5442.
 
 > Se modifica el apartado III por el apartado 1 de la Orden ECD/2471/2002, de 26 de septiembre. Ref. BOE-A-2002-19486.
 
