@@ -1,0 +1,3 @@
+## Disposición final segunda. Plazo de creación de la Comisión Mixta de Asuntos Económicos y Fiscales del Estado-Comunidad Autónoma.
+
+La Comisión Mixta de Asuntos Económicos y Fiscales del Estado-Comunidad Autónoma que establece el artículo 184, debe crearse en el plazo máximo de seis meses desde la entrada en vigor del presente Estatuto. Mientras no se constituya, la Comisión Mixta Paritaria Gobierno-Junta de Andalucía prevista en la Disposición Transitoria Primera, asume sus competencias, y en tanto ésta se constituye, asumirá esas competencias la Comisión Mixta de Transferencias Administración del Estado-Comunidad Autónoma.
