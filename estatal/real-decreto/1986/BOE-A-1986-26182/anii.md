@@ -1,24 +1,26 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/297/21817_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_021.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/297/21817_022.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/297/21817_023.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_023.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/297/21817_024.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_024.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/297/21817_025.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_025.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/297/21817_026.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_026.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/297/21817_027.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_027.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/297/21817_028.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_028.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/297/21817_029.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_029.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/297/21817_030.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_030.png)
+
+> Se modifica por la Orden ITC/658/2007, de 13 de marzo. Ref. BOE-A-2007-5939.
 
 > Se modifica por la Orden ITC/3780/2006, de 30 de noviembre. Ref. BOE-A-2006-21817.
 
