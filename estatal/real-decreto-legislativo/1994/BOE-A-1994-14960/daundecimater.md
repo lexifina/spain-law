@@ -1,6 +1,8 @@
-## Disposición adicional undécima ter. Gestión de las prestaciones económicas por maternidad.
+## Disposición adicional undécima ter. Gestión de las prestaciones económicas por maternidad y por paternidad.
 
-Con relación a las prestaciones económicas de maternidad reguladas en la presente Ley, no cabrá fórmula alguna de colaboración en la gestión por parte de las empresas, siendo gestionadas directamente por la Entidad Gestora respectiva sin perjuicio de que ésta pueda concertar la encomienda de gestión para el pago de la prestación con el Instituto Nacional de Empleo en los supuestos a que se refiere el artículo 222.2 de esta Ley.
+La gestión de las prestaciones económicas de maternidad y de paternidad reguladas en la presente ley corresponderá directa y exclusivamente a la entidad gestora correspondiente.
+
+> Se modifica por la disposición adicional 18.22 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
 
 > Se modifica por el art. 81 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.
 

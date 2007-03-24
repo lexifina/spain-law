@@ -14,6 +14,8 @@
 
 3. La elección de los Consejeros Insulares se realiza mediante el procedimiento previsto para la elección de Concejales, pero cada isla constituye una circunscripción electoral.
 
+Lo previsto en el artículo 44 bis de esta ley no será exigible en las candidaturas que se presenten en las islas con un número de residentes igual o inferior a 5.000 habitantes.
+
 4. Los Cabildos Insulares se constituyen en sesión pública dentro de los treinta días siguientes a la celebración de las elecciones, formándose a tal efecto una Mesa de Edad conforme a lo establecido en el artículo 195 para las Corporaciones Municipales.
 
 5. Será Presidente del Cabildo Insular el candidato primero de la lista más votada en la circunscripción insular.
@@ -45,6 +47,8 @@ b) Sesenta pesetas por cada uno de los votos obtenidos por cada candidatura, uno
 10. Para las elecciones a Cabildos Insulares el límite de los gastos electorales será el que resulte de multiplicar por 15 pesetas el número de habitantes correspondientes a la población de derecho de cada una de las islas donde presente sus candidaturas cada partido, federación, coalición o agrupación.
 
 11. En materia de subvenciones electorales habrán de respetarse las limitaciones establecidas en los apartados 2, 3 y 4 del artículo 127 de la presente ley.
+
+> Se añade un párrafo al apartado 3 por la disposición adicional 2.3 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
 
 > Se añade el apartado 11 por el art. 5 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923.
 

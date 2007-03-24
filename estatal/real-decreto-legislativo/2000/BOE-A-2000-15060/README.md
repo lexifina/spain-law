@@ -90,6 +90,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 45](a45.md)
 - [Subsección 3](ss3-2.md)
 - [Artículo 46](a46.md)
+- [Subsección 3 bis](ss3bis.md)
+- [Artículo 46 bis](a46bis.md)
 - [Subsección 4](ss4-2.md)
 - [Articulo 47](a47.md)
 - [CAPÍTULO VII](cvii.md)

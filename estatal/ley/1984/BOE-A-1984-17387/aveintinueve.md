@@ -66,15 +66,15 @@ No obstante lo dispuesto en el párrafo anterior, se computará a efectos de tri
 
 4. Los funcionarios tendrán derecho a un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción o acogimiento permanente o preadoptivo, a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.
 
-También tendrán derecho a un período de excedencia, de duración no superior a un año, los funcionarios para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado inclusive de consanguinidad o afinidad, que, por razones de edad, accidente, enfermedad o discapacidad, no pueda valerse por sí mismo y no desempeñe actividad retribuida.
+También tendrán derecho a un periodo de excedencia de duración no superior a tres años, los funcionarios para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado inclusive de consanguinidad o afinidad, que por razones de edad, accidente, enfermedad o discapacidad no pueda valerse por sí mismo y no desempeñe actividad retribuida.
 
 El período de excedencia será único por cada sujeto causante. Cuando un nuevo sujeto causante diera origen a una nueva excedencia, el inicio del período de la misma pondrá fin al que se viniera disfrutando.
 
 Esta excedencia constituye un derecho individual de los funcionarios. En caso de que dos funcionarios generasen el derecho a disfrutarlo por el mismo sujeto causante, la Administración podrá limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios.
 
-El período de permanencia en esta situación será computable a efectos de trienios, consolidación de grado personal y derechos pasivos. Durante el primer año, los funcionarios tendrán derecho a la reserva del puesto de trabajo que desempeñaban. Transcurrido este período, dicha reserva lo será al puesto en la misma localidad y de igual nivel y retribución.
+El periodo de permanencia en esta situación será computable a efectos de trienios, consolidación de grado personal y derechos pasivos.
 
-En el caso de la excedencia prevista en el párrafo 1 del presente título, el derecho a la reserva del puesto de trabajo durante el primer año a que se refiere el párrafo anterior se extenderá hasta un máximo de 15 meses, cuando se trate de miembros de unidades familiares que tengan reconocida la condición de familia numerosa de categoría general, y hasta un máximo de 18 meses, si tienen la condición de familia numerosa de categoría especial.
+(Párrafo sexto suprimido)
 
 5. Expectativa de destino.
 
@@ -124,11 +124,15 @@ Quienes pasen a la situación de excedencia voluntaria incentivada tendrán dere
 
 En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas acordar el pase a la situación de excedencia voluntaria incentivada.
 
-8. Excedencia por razón de violencia sobre la mujer funcionaria.
+8. Excedencia por razón de violencia de género sobre la mujer funcionaria.
 
 Las funcionarias públicas víctimas de violencia de género, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a solicitar la situación de excedencia sin necesidad de haber prestado un tiempo mínimo de servicios previos y sin que resulte de aplicación ningún plazo de permanencia en la misma. Durante los seis primeros meses tendrán derecho a la reserva del puesto de trabajo que desempeñaran, siendo computable dicho período a efectos de ascensos, trienios y derechos pasivos.
 
+Igualmente, durante los dos primeros meses de esta excedencia la funcionaria tendrá derecho a percibir las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo.
+
 Esto no obstante, cuando de las actuaciones de tutela judicial resultase que la efectividad del derecho de protección de la víctima lo exigiere, se podrá prorrogar por períodos de tres meses, con un máximo de dieciocho, el período en el que, de acuerdo con el párrafo anterior, se tendrá derecho a la reserva del puesto de trabajo, con idénticos efectos a los señalados en dicho párrafo.
+
+> Se modifican los apartados 4 y 8 por la disposición adicional 19.1 a .5 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
 
 > Se añade el apartado 2.ñ) por la disposición final 2 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
 

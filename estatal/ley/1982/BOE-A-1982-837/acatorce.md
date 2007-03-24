@@ -24,9 +24,13 @@ i) Conocer e informar los planes de formación y selección de los fiscales.
 
 j) Informar los proyectos de ley o normas reglamentarias que afecten a la estructura, organización y funciones del Ministerio Fiscal.
 
+Habrá de integrarse en el seno del Consejo Fiscal una Comisión de Igualdad para el estudio de la mejora de los parámetros de igualdad en la Carrera Fiscal, cuya composición quedará determinada en la normativa que rige la constitución y funcionamiento del Consejo Fiscal.
+
 2. La Junta de Fiscales de Sala se constituirá, bajo la presidencia del Fiscal General del Estado, por el Teniente Fiscal del Tribunal Supremo, los Fiscales de Sala, el Fiscal Inspector Jefe y el Fiscal Jefe de la Secretaría Técnica, que actuará de Secretario.
 
 La Junta asiste al Fiscal General del Estado en materia doctrinal y técnica, en orden a la formación de los criterios unitarios de interpretación y actuación legal, la resolución de consultas, elaboración de las memorias y circulares, preparación de proyectos e informes que deban ser elevados al Gobierno y cualesquiera otras, de naturaleza análoga, que el Fiscal General del Estado estime procedente someter a su conocimiento y estudio.
+
+> Se añade el último párrafo al apartado 1 por la disposición adicional 4 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
 
 > Se modifica por el art. único.6 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
 

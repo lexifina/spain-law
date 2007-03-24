@@ -1,0 +1,5 @@
+## Artículo 133 octies. Situación protegida.
+
+A efectos de la prestación por paternidad, se considerarán situaciones protegidas el nacimiento de hijo, la adopción y el acogimiento, tanto preadoptivo como permanente o simple, de conformidad con el Código Civil o las leyes civiles de las Comunidades Autónomas que lo regulen, siempre que, en este último caso, su duración no sea inferior a un año, y aunque dichos acogimientos sean provisionales, durante el período de suspensión que, por tales situaciones, se disfrute de acuerdo con lo previsto en el artículo 48. bis del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, o durante el período de permiso que se disfrute, en los mismos supuestos, de acuerdo con lo dispuesto en la letra a) del artículo 30.1 de la Ley 30/1984, de 2 de agosto, de Medidas para la reforma de la Función Pública.
+
+> Se añade por la disposición adicional 18.7 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.

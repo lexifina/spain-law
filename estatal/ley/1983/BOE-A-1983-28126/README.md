@@ -13,6 +13,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [preambulo](preambulo.md)
 - [Artículo primero](aprimero.md)
 - [Artículo segundo](asegundo.md)
+- [Artículo segundo bis](asegundobis.md)
 - [Artículo tercero](atercero.md)
 - [Artículo cuarto](acuao.md)
 - [Artículo quinto](aquinto.md)

@@ -8,7 +8,9 @@ No obstante lo dispuesto en el párrafo anterior, se exceptúa la aplicación a 
 
 3. Lo previsto en el apartado 3 del artículo 161 será de aplicación a los trabajadores por cuenta ajena incluidos en los Regímenes Especiales de la Minería del Carbón y de Trabajadores del Mar.
 
-4. Lo previsto en los artículos 134, 135 y 166 será aplicable, en su caso, a los trabajadores por cuenta ajena de los regímenes especiales. Lo previsto en los artículos 112 bis y 162.6 será igualmente aplicable a los trabajadores por cuenta ajena de los regímenes especiales con excepción de los incluidos en los regímenes especiales agrario y de empleados de hogar. Asimismo, lo dispuesto en los artículos 134, 135 y 166 resultará de aplicación a los trabajadores por cuenta propia incluidos en los regímenes especiales de trabajadores del mar, agrario y de trabajadores autónomos, en los términos y condiciones que se establezcan reglamentariamente.
+4. Lo previsto en los artículos 134, 135, 135 bis, 135 ter y 166 será aplicable, en su caso, a los trabajadores por cuenta ajena de los regímenes especiales. Lo previsto en los artículos 112 bis y 162.6 será igualmente de aplicación a los trabajadores por cuenta ajena de los regímenes especiales con excepción de los incluidos en los regímenes especiales agrario y de empleados de hogar. Asimismo, lo dispuesto en los artículos 134, 135, 135 bis, 135 ter y 166 resultará de aplicación a los trabajadores por cuenta propia incluidos en los regímenes especiales de trabajadores del mar, agrario y de trabajadores autónomos, en los términos y condiciones que se establezcan reglamentariamente.
+
+> Se modifica el apartado 4 por la disposición adicional 18.20 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
 
 > Se modifica el párrafo primero del apartado 1 por el art. 19.4 de la Ley 52/2003, de 10 de diciembre. Ref. BOE-A-2003-22716.
 

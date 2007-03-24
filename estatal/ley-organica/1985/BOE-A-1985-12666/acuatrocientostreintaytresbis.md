@@ -10,4 +10,10 @@ El cumplimiento de los objetivos del Plan Especializado de Formación de cada un
 
 4. La Escuela Judicial desarrollará los programas e impartirá los cursos de formación que integren el Plan de Formación Continuada de la Carrera Judicial, pudiendo, por ello, celebrar actividades formativas de manera descentralizada, en el ámbito autonómico o provincial, y mediante colaboración, en su caso, con entidades y organismos expertos en la impartición de la formación de que se trate.
 
+5. El Plan de Formación Continuada de la Carrera Judicial contemplará la formación de los Jueces y Magistrados en el principio de igualdad entre mujeres y hombres y la perspectiva de género.
+
+La Escuela Judicial impartirá anualmente cursos de formación sobre la tutela jurisdiccional del principio de igualdad entre mujeres y hombres y la violencia de género.
+
+> Se añade el apartado 5 por la disposición adicional 3.15 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
+
 > Se añade por el art. único.122 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

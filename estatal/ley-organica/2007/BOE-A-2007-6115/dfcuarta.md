@@ -1,0 +1,5 @@
+## Disposición final cuarta. Transposición de Directivas.
+
+Mediante la presente Ley se incorpora al ordenamiento jurídico la Directiva 2002/73, del Parlamento Europeo y del Consejo, de 23 de septiembre de 2002, de modificación de la Directiva 76/207, de 9 de febrero de 1976, relativa a la aplicación del principio de igualdad de trato entre hombres y mujeres en lo que se refiere al acceso al empleo, a la formación y a la promoción profesionales, y a las condiciones de trabajo y la Directiva 2004/113, del Consejo, de 13 de diciembre de 2004, sobre aplicación del principio de igualdad de trato entre hombres y mujeres en el acceso a bienes y servicios y su suministro.
+
+Asimismo, mediante la presente Ley, se incorporan a la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, y a la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, la Directiva 97/80/CE del Consejo, de 15 de diciembre de 1997, relativa a la carga de la prueba en los casos de discriminación por razón de sexo.

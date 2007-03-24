@@ -1,6 +1,6 @@
 ## Artículo veintiuno
 
-1. La actuación sanitaria en el ámbito de la salud laboral comprenderá los siguientes aspectos:
+1. La actuación sanitaria en el ámbito de la salud laboral, que integrará en todo caso la perspectiva de género, comprenderá los siguientes aspectos.
 
 a) Promover con carácter general la salud integral del trabajador.
 
@@ -19,3 +19,5 @@ g) Promover la información, formación y participación de los trabajadores y e
 2. Las acciones enumeradas en el apartado anterior se desarrollarán desde las Áreas de Salud a que alude el capítulo III del título III de la presente Ley.
 
 3. El ejercicio de las competencias enumeradas en este artículo se llevará a cabo bajo la dirección de las autoridades sanitarias, que actuarán en estrecha coordinación con las autoridades laborales y con los órganos de participación, inspección y control de las condiciones de trabajo y seguridad e higiene en las Empresas.
+
+> Se modifica el inciso inicial del apartado 1 por la disposición adicional 8.4 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.

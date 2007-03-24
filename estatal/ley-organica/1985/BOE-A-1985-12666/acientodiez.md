@@ -48,9 +48,13 @@ r) Sistemas de racionalización, organización y medición del trabajo que se es
 
 3. Los proyectos de reglamentos de desarrollo se someterán a informe de las asociaciones profesionales de jueces y magistrados y de las corporaciones profesionales o asociaciones de otra naturaleza que tengan reconocida legalmente representación de intereses a los que puedan afectar. Se dará intervención a la Administración del Estado, por medio del Ministerio de Justicia, y a las de las comunidades autónomas siempre que una y otras tengan competencias relacionadas con el contenido del reglamento o sea necesario coordinar éstas con las del Consejo General. Se recabarán las consultas y los estudios previos que se consideren pertinentes y un dictamen de legalidad sobre el proyecto.
 
+En todo caso, se elaborará un informe previo de impacto de género.
+
 El Ministerio Fiscal será oído cuando le afecte la materia sobre la que verse el proyecto y especialmente en los supuestos contemplados en los párrafos n), ñ) y q) del apartado 2 de este artículo.
 
 4. Los reglamentos que deberán ser aprobados por el Pleno del Consejo General del Poder Judicial por mayoría de tres quintos de sus miembros autorizados por su Presidente, se publicarán en el "Boletín Oficial del Estado".
+
+> Se añade el párrafo segundo del apartado 3 por la disposición adicional 3.2 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
 
 > Se modifica por el art. único.15 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
