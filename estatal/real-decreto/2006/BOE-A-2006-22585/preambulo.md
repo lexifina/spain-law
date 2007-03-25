@@ -1,0 +1,17 @@
+La Ley 21/1992, de 16 de julio, de Industria, establece en su artículo 12.5 que los reglamentos de seguridad de ámbito estatal se aprobarán por el Gobierno de la Nación, sin perjuicio de que las comunidades autónomas con competencias legislativas sobre Industria puedan introducir requisitos adicionales sobre las mismas materias cuando se trate de instalaciones radicadas en su territorio.
+
+La reglamentación de instalaciones petrolíferas, aprobada por el Real Decreto 2085/1994, de 20 de octubre, no contempla ningún procedimiento a seguir para dejar fuera de servicio los tanques de almacenamiento de productos petrolíferos líquidos (PPL). Sin embargo, existen tanques de almacenamiento de PPL que por haber superado su vida útil, por su estado de deterioro, por necesidad o por cualquier otra razón se hace necesario anular, para lo cual se deben tomar las medidas necesarias para realizar esta operación minimizando los riesgos para las instalaciones, las personas y el medio ambiente.
+
+Se considera necesario, en consecuencia, establecer las obligaciones de los titulares de los tanques que estén fuera de servicio o que vayan a quedar en este estado, de realizar un proceso de desgasificación y limpieza previos a su rellenado o extracción. Este es el objeto fundamental de la nueva Instrucción Técnica Complementaria MI-IP 06 que se aprueba por el presente real decreto; que, por otra parte, establece un período transitorio que permita cumplir con la nueva legislación a todos aquellos titulares de este tipo de tanques que hayan sido puestos fuera de servicio antes de la entrada en vigor de la misma.
+
+También se ha considerado necesario completar lo dispuesto en dicha nueva Instrucción Técnica Complementaria, mediante dos anexos. En el primero de ellos, de inequívoco contenido técnico, se describen las actuaciones que permiten asegurar que esas labores son realizadas con las debidas garantías de seguridad para los operarios que las llevan a cabo y para el resto de ciudadanos. En el segundo figura un modelo de certificado de fuera de servicio de los tanques.
+
+En la elaboración del real decreto se ha dado audiencia a las entidades interesadas y se ha consultado a las comunidades autónomas. Asimismo ha informado el Consejo de Coordinación de la Seguridad Industrial.
+
+La presente disposición ha sido sometida al procedimiento de información en materia de normas y reglamentaciones técnicas y de reglamentos relativos a los servicios de la sociedad de la información, regulado en el Real Decreto 1337/1999, de 31 de julio, a los efectos de dar cumplimiento a lo dispuesto en la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio, modificada por la Directiva 98/48/CE del Parlamento Europeo y del Consejo, de 20 de julio.
+
+La presente normativa se aprueba en ejercicio de las competencias que, en relación con la materia de seguridad industrial, han venido a atribuir expresamente a la Administración General del Estado la totalidad de los Estatutos de Autonomía, conforme ha declarado reiteradamente la jurisprudencia constitucional recaída al respecto (por todas ellas, las Sentencias del Tribunal Constitucional 203/1992, de 26 de noviembre, 243/1994, de 21 de julio, y 175/2003, de 30 de septiembre).
+
+En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 1 de diciembre de 2006,
+
+## DISPONGO:

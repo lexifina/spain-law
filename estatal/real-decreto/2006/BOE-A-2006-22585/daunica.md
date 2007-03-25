@@ -1,0 +1,3 @@
+## Disposición adicional única. Tanques existentes fuera de servicio.
+
+Los propietarios de tanques de productos petrolíferos líquidos, que a la entrada en vigor de este real decreto se encuentren en situación de fuera de servicio, deberán notificarlo al órgano competente de la comunidad autónoma en la que estuvieran registrados, en el plazo de 6 meses a partir de la entrada en vigor de este real decreto, aportando una memoria técnica descriptiva de lo realizado en su instalación de almacenamiento de productos petrolíferos líquidos y especificando el procedimiento seguido para el tratamiento de residuos.
