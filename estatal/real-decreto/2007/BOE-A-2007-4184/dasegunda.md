@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Normativa aplicable a los procedimientos.
+
+En lo no previsto en materia de procedimientos en el presente real decreto, se estará a lo dispuesto en la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, en su Reglamento, aprobado por Real Decreto 2393/2004, de 30 de diciembre, en la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las Administraciones Públicas y del procedimiento administrativo común, y en su normativa de desarrollo, con carácter supletorio y en la medida en que no se oponga a lo dispuesto en los Tratados constitutivos de las Comunidades Europeas y el derecho derivado de los mismos.
