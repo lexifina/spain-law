@@ -4,7 +4,7 @@
 
 A) Capacidad física general
 
-1. Talla inferior a 170 centímetros en hombres y 160 centímetros en mujeres, o superior a 203 centímetros en bipedestación.
+1. Talla inferior a 165 centímetros en hombres y 160 centímetros en mujeres, o superior a 203 centímetros en bipedestación.
 
 2. Perímetro torácico inferior a la mitad de la talla.
 
@@ -295,5 +295,7 @@ N) Enfermedades del aparato genital masculino
 4. Incontinencia, retención permanente de orina o enuresis nocturna.
 
 5. Infecciones o supuraciones de vejiga, próstata, uretra y órganos genitales en general, en evolución, cuya importancia pronóstica o funcional, sea incompatible con el servicio.
+
+> Se modifica el apartado 1 del párrafo A) por el apartado único de la Orden PRE/735/2007, de 27 de marzo. Ref. BOE-A-2007-6515.
 
 > Se modifica el apartado 1 del párrafo A) por el apartado único de la Orden PRE/600/2006, de 3 de marzo. Ref. BOE-A-2006-4016.
