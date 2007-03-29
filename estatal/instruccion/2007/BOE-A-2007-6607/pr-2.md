@@ -1,0 +1,3 @@
+## Primero.
+
+El procedimiento ordinario para el nombramiento de interventores de las candidaturas es el previsto en el artículo 78 de la LOREG, mediante la expedición de credenciales talonarias con papel autocopiativo. No obstante, los representantes de las candidaturas podrán someter a las Juntas Electorales de Zona las cuatro copias a las que se refiere dicho precepto en documentos individuales idénticos editados mediante sistemas informáticos, a efectos de que las citadas Juntas verifiquen la concordancia de dichas copias y de ser así procedan a su sellado. Los citados documentos debidamente sellados tendrán idéntico valor que el de las hojas talonarias.
