@@ -1,19 +1,23 @@
 ## ANEXO III
 
-1. En todos los casos en que se sospeche la presencia del organismo y, habiéndose obtenido un resultado positivo en pruebas de detección realizadas con arreglo al método correspondiente establecido en el anexo II del presente Real Decreto para el material vegetal indicado o a cualquier otro método oficialmente aprobado, para todos los demás casos, se espere a la conclusión de dicho método para confirmar o disipar la sospecha, deberán retenerse y conservarse convenientemente hasta ese momento:
+## Conservación de las pruebas analíticas en caso de aparición de un brote sospechoso
 
-— siempre que sea posible, el lote, o la parte del mismo (del que se haya tomado la muestra) en su embalaje original con etiqueta,
+1. En cada caso de foco sospechoso para el que se haya realizado una o varias pruebas de selección con resultados positivos de acuerdo con los métodos establecidos en el anexo II para el material vegetal enumerado y para todos los otros casos, y se espere recibir confirmación o refutación por aplicación de los citados métodos, se deberá proceder a la retención y adecuada conservación, hasta completar los métodos mencionados, de:
 
-— siempre que sea posible, la parte restante de las muestras,
+– todos los tubérculos de los que se hayan obtenido muestras y, siempre que sea posible, todas las plantas de las que se hayan obtenido muestras,
 
-— cualquier extracto que sobre y cualquier material adicional que se haya preparado para la prueba o pruebas de detección (por ejemplo, las placas de inmunofluorescencia),
+– cualquier extracto sobrante y cualquier material adicional que se haya preparado para la prueba o pruebas de selección, como por ejemplo placas de inmunofluorescencia, y
 
-— toda la documentación pertinente.
+– toda la documentación pertinente.
 
-2. En los casos en que finalmente se confirme la presencia del organismo, deberán retenerse y conservarse convenientemente durante al menos el mes siguiente al procedimiento de notificación dispuesto en el apartado 2 del artículo 6:
+La retención de los tubérculos permitirá que se puedan llevar a cabo pruebas de variedades cuando se estime oportuno.
 
-— el material mencionado en el punto 1, y
+2. En el caso de confirmación de la presencia del organismo, se procederá a la retención y adecuada conservación hasta un mes después, como mínimo, en virtud del procedimiento establecido en el artículo 6, apartado 2:
 
-— una muestra del material de tomate o berenjena infectado que se haya inoculado con el extracto de tubérculo o planta en su caso, y
+– del material especificado en el punto 1, y
 
-— el cultivo aislado del organismo.
+– de una muestra de las berenjenas o los tomates infectados inoculados con extracto de tubérculo o de planta, cuando sea adecuado, y
+
+– del cultivo aislado del organismo.
+
+> Se modifica por el art. único de la Orden APA/719/2007, de 15 de marzo. Ref. BOE-A-2007-6422

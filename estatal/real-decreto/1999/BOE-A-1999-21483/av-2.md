@@ -1,131 +1,173 @@
 ## ANEXO VI
 
-1. Con respecto al apartado 1 del artículo 7, se dispondrá lo siguiente:
+## Métodos oficialmente autorizados para la eliminación de residuos
 
-— la incineración,
+1. Las disposiciones mencionadas en el artículo 7, apartado 1, serán las siguientes:
 
-— la utilización como piensos, previo tratamiento térmico adecuado, de forma que no haya riesgo alguno de supervivencia del organismo, o
+– la utilización como piensos, previo tratamiento térmico adecuado, de forma que no haya riesgo alguno de supervivencia del organismo,
 
-— el enterramiento profundo en un vertedero donde no exista ningún riesgo de filtración a tierras agrícolas ni de contacto con fuentes de agua que puedan utilizarse para riego de dichas tierras,
+o
 
-— la transformación industrial, previa entrega directa e inmediata del material a una planta de transformación con instalaciones que estén oficialmente autorizadas para la eliminación de residuos y, se ajusten a las disposiciones del anexo VII del presente Real Decreto, u,
+– la eliminación en un vertedero de eliminación de residuos autorizado oficialmente en donde no exista ningún riesgo identificable de escape del organismo al medio ambiente, por ejemplo, a través de filtración a tierras agrícolas ni de contacto con fuentes de agua que puedan utilizarse para el riego de dichas tierras,
 
-— otras medidas, siempre que se haya establecido que no existe ningún riesgo identificable de propagación del organismo y a condición de que tales medidas sean notificadas inmediatamente al Ministerio de Agricultura, Pesca y Alimentación y éste a su vez, a través del cauce correspondiente, a la Comisión y a los demás Estados miembros.
+o
 
-2. El uso adecuado o la eliminación del material vegetal indicado dispuestos en el apartado 2 del artículo 7 deberán efectuarse bajo el control de los organismos oficiales responsables interesados, así como con la oportuna comunicación entre estos organismos para garantizar en todo momento dicho control, y con la aprobación del organismo oficial de cada Comunidad Autónoma donde vayan a envasarse o transformarse las patatas, en lo que se refiere a los vertederos citados en los guiones primero y segundo, y consistirán en los siguiente:
+– la incineración,
+
+o
+
+– la transformación industrial mediante entrega directa e inmediata a una planta de transformación dotada de instalaciones de eliminación de residuos autorizadas oficialmente, para las que se establezca la ausencia de riesgos detectables de propagación del organismo, y de un sistema de limpieza y desinfección de los vehículos de transporte, al menos,
+
+u
+
+– otras medidas, siempre que se descarte el posible riesgo de propagación del organismo; dichas medidas y su justificación se notificarán inmediatamente al Ministerio de Agricultura, Pesca y Alimentación y este a su vez, a través del cauce correspondiente, a la Comisión y a los demás Estados miembros.
+
+Cualquier residuo restante asociado con las opciones anteriores y derivado de ellas se eliminará con métodos autorizados oficialmente de conformidad con el anexo VII de este real decreto.
+
+2. El uso adecuado o la eliminación del material vegetal indicado dispuestos en el artículo 7, apartado 2, deberán efectuarse bajo el control de los organismos oficiales responsables interesados, así como con la oportuna comunicación entre estos organismos para garantizar en todo momento dicho control, y con la aprobación del organismo oficial responsable de la Comunidad Autónoma donde vayan a envasarse o transformarse las patatas, en lo que se refiere a los vertederos citados en los guiones primero y segundo, y consistirán en lo siguiente:
 
 i) en el caso de los tubérculos de patata:
 
-— el uso como patatas de consumo que se embalen en lugares con instalaciones apropiadas para la eliminación de residuos, listas para la entrega y uso directos sin necesidad de nuevo embalaje, y que se destinen a esa entrega y uso directos, o
+– la utilización como patatas de consumo destinadas al consumo, envasadas para su distribución y venta directa sin cambio de envase, en un lugar dotado de instalaciones de eliminación de residuos adecuadas. Las patatas destinadas a la siembra sólo pueden manipularse en el mismo lugar si esto se realiza separadamente o tras la limpieza y desinfección,
 
-— el uso como patatas de consumo que se destinen a la transformación industrial y a la entrega directa e inmediata a una planta de transformación con instalaciones apropiadas para la eliminación de residuos, o
+o
 
-— algún otro tipo de uso o eliminación, siempre que se establezca que no existe ningún riesgo identificable de propagación del organismo, y previa aprobación de los citados organismos oficiales responsables. Dichas medidas se notificarán inmediatamente al Ministerio de Agricultura, Pesca y Alimentación y éste a su vez, a través del cauce correspondiente, a la Comisión y a los demás Estados miembros;
+– su uso como patatas de consumo para la transformación industrial y destinadas a la entrega directa e inmediata a una planta de transformación dotada de instalaciones de eliminación de residuos adecuadas y de un sistema de limpieza y desinfección de los vehículos de transporte, al menos,
 
-ii) en el caso de las otras partes de las plantas, incluidos los detritos del tallo y de las hojas:
+o
 
-— la destrucción, o
+– algún otro tipo de uso o eliminación, siempre que se establezca que no existe ningún riesgo identificable de propagación del organismo, y previa aprobación de los citados organismos oficiales responsables,
 
-— algún otro tipo de uso o eliminación, siempre que se establezca que no existe ningún riesgo identificable de propagación del organismo y a condición de que ese uso o eliminación sean notificados al Ministerio de Agricultura, Pesca y Alimentación y éste, a su vez, a través del cauce correspondiente, a la Comisión y a los demás Estados miembros.
+ii) en el caso de las otras partes de las plantas, incluidos los detritos del tallo y de las hojas,
 
-3. Los métodos adecuados para la descontaminación de los objetos a los que se refiere el apartado 3 del artículo 7 consistirán en una limpieza y, en su caso, una desinfección que permitan descartar todo riesgo identificable de propagación del organismo; estas operaciones se efectuarán bajo la supervisión de los organismos oficiales responsables de las Comunidades Autónomas.
+– la destrucción,
 
-4. La serie de medidas mencionadas en el apartado 4 del artículo 7 que se deberán aplicar dentro de la zona o zonas delimitadas que se hayan establecido en virtud del inciso iv) de la letra a) y del inciso iii) de la letra c) del apartado 1 del artículo 6 serán las siguientes:
+o
 
-4.1 En los casos en que en virtud del inciso ii) de la letra a) del apartado 1 del artículo 6, se hayan declarado contaminados lugares de producción, las medidas consistirán en lo siguiente:
+– cualquier otro uso o eliminación, a condición de que se garantice que no existe riesgo identificable de dispersar el organismo, y previa aprobación de los citados organismos oficiales responsables.
+
+3. Los métodos adecuados para la descontaminación de los objetos a los que se refiere el artículo 7, apartado 3, consistirán en una limpieza y, en su caso, una desinfección que permitan descartar todo riesgo identificable de propagación del organismo; estas operaciones se efectuarán bajo la supervisión de los organismos oficiales responsables de las Comunidades Autónomas.
+
+4. La serie de medidas mencionadas en el artículo 7, apartado 4, que deberán aplicar las Comunidades Autónomas dentro de la zona o zonas delimitadas que se hayan establecido en virtud del artículo 6, apartado 1, letra a), inciso iv), y del artículo 6, apartado 1, letra c), inciso iii), serán las siguientes:
+
+4.1 En los casos en que, en virtud del artículo 6, apartado 1, letra a), inciso ii), se hayan declarado contaminados lugares de producción, las medidas consistirán en lo siguiente:
 
 a) en los campos o unidades de producción de cultivos protegidos que se hayan declarado contaminados en virtud de esa misma disposición:
 
 i) durante al menos los cuatro años de cultivo siguientes a la declaración de la contaminación:
 
-— se adoptarán medidas para eliminar las patatas y tomateras espontáneas así como otras plantas huésped del organismo, incluidas las malas hierbas solanáceas; — no se plantarán:
+– se adoptarán medidas para eliminar las patatas y tomateras espontáneas así como otras plantas que puedan ser huésped del organismo, incluidas las malas hierbas solanáceas,
 
-patatas ni tubérculos de patata,
+y
 
-tomateras y semillas de tomate,
+– no se plantarán:
 
-— teniendo en cuenta la biología del organismo:
+• tubérculos, plantas ni semillas propiamente dichas de patata,
 
-otras plantas huésped,
+• tomateras y semillas de tomateras,
 
-plantas de especies de Brassica para las que exista un riesgo identificado de supervivencia o propagación del organismo,
+• teniendo en cuenta la biología del organismo.
 
-otros cultivos para los que exista un riesgo identificado de supervivencia o propagación del organismo;
+• otras plantas huésped,
 
-— en la primera temporada de cultivo de patatas o tomates siguiente al período indicado en el guión anterior y, siempre que se haya comprobado que durante al menos los dos años de vegetación inmediatamente anteriores a la plantación, el campo estuvo libre de patatas y tomateras espontáneas y de otras plantas huésped del organismo, incluidas las malas hierbas solanáceas:
+• plantas de especies de Brassica para las que exista un riesgo identificado de supervivencia del organismo,
 
-en el caso de las patatas, se plantarán patatas de siembra certificadas oficialmente para la producción de patatas de consumo exclusivamente, y
+• otros cultivos para los que exista un riesgo identificado de propagación del organismo,
 
-se efectuará un examen oficial, acompañado de los análisis oportunos, según se dispone en el apartado 1 del artículo 3;
+– en la primera temporada de cultivo de patatas o tomates siguiente al período indicado en el guión anterior, y siempre que se haya comprobado que, durante al menos los dos años de vegetación inmediatamente, anteriores a la plantación, el campo estuvo libre de patatas y tomateras espontáneas y de otras plantas huésped del organismo, incluidas las malas hierbas solanáceas:
 
-— en la temporada de cultivo de patatas o tomates siguiente a la indicada en el guión anterior y tras un ciclo de rotación adecuado, se procederá, en el caso de las patatas, a la plantación de patatas de siembra certificadas oficialmente para la producción de patatas de siembra o de consumo y, en el caso de las patatas y tomates, a la realización del examen oficial que dispone el apartado 1 del artículo 3; o
+• en el caso de las patatas, solamente se autorizará la producción de patatas de consumo,
+
+• en el caso de las patatas y los tomates, los tubérculos de patata cosechados, o las tomateras, según corresponda, serán analizados de conformidad con el procedimiento detallado en el anexo II,
+
+– en la temporada de cultivo de patatas o tomates siguiente a la indicada en el guión anterior y tras un ciclo de rotación adecuado, que será de un mínimo de dos años si se cultivan patatas de siembra, se efectuará un examen oficial tal como se dispone el artículo 3, apartado 1,
+
+o
 
 ii) durante los cinco años de cultivo siguientes al de la declaración de la contaminación:
 
-— se adoptarán medidas para eliminar las patatas y tomateras espontáneas así como otras plantas que puedan ser huésped del organismo, incluidas las malas hierbas solanáceas, y
+– se adoptarán medidas para eliminar las patatas y tomateras espontáneas así como otras plantas que puedan contener naturalmente el organismo, incluidas las malas hierbas solanáceas,
 
-— durante los tres primeros años, se dejará y mantendrá el campo, bien en barbecho completo, bien para el cultivo de cereales, con arreglo al riesgo que se haya determinado, bien como pasto permanente, con siega intensa y frecuente o pastoreo intensivo, o bien como pastizal para la producción de semillas y, a continuación, en los dos años subsiguientes, se plantarán plantas que no sean huésped del organismo para las que no exista ningún riesgo identificado de supervivencia o propagación de éste;
+y
 
-— en la primera temporada de cultivo de patatas o tomates siguiente al período indicado en el guión anterior:
+– durante los tres primeros años, se dejará y mantendrá el campo, bien en barbecho completo, bien para el cultivo de cereales, con arreglo al riesgo que se haya determinado, bien como pasto permanente, con siega intensa y frecuente o pastoreo intensivo, o bien como pastizal para la producción de semillas y, a continuación, en los dos años subsiguientes, se plantarán plantas que no sean huésped del organismo para las que no exista ningún riesgo identificado de supervivencia o propagación de este,
 
-en el caso de las patatas, se plantarán exclusivamente patatas de siembra certificadas oficialmente para la producción de patatas de siembra o de consumo, y
+– en la primera temporada de cultivo de patatas o tomates siguiente al período indicado en el guión anterior y, siempre que se haya comprobado que, durante al menos los dos años de vegetación inmediatamente anteriores a la plantación, el campo estuvo libre de patatas y tomateras espontáneas y de otras plantas huésped del organismo, incluidas las malas hierbas solanáceas:
 
-se efectuará el examen oficial, acompañado de los análisis oportunos, que dispone el apartado 1 del artículo 3.
+• en el caso de las patatas, se autorizará la producción de patatas de siembra y de consumo,
 
-b) en otros campos, las medidas consistirán en lo siguiente:
+• los tubérculos de patata cosechados, o las tomateras, según corresponda, serán analizados de conformidad con el procedimiento detallado en el anexo II;
 
-— durante el año de cultivo siguiente a la declaración de la contaminación:
+b) en el resto de los campos del lugar de producción contaminado y a condición de que los organismos oficiales competentes tengan la certeza de que se ha eliminado adecuadamente el riesgo de plantas de patata y de tomate espontáneas y de cualquier otra planta que pueda contener naturalmente el organismo, incluidas las malas hierbas solanáceas:
 
-no se plantarán patatas ni tubérculos de patata ni otras plantas que puedan ser huésped del organismo, y se adoptarán medidas para eliminar las patatas y tomateras espontáneas así como otras plantas que puedan ser huésped del organismo, incluidas las malas hierbas solanáceas, o
+– durante el año de cultivo siguiente al de declaración de contaminación.
 
-en el caso de los tubérculos de patata, se podrán plantar exclusivamente patatas de siembra certificadas oficialmente, para la producción de patatas de consumo, con la condición de que los organismos oficiales responsables hayan quedado plenamente convencidos de la eliminación de riesgos a través de plantas espontáneas de patatas y tomateras y otros hospederos del organismo, incluidas las malas hierbas solanáceas; durante la fase de crecimiento, se inspeccionarán los cultivos en los momentos oportunos, las patatas espontáneas se someterán a análisis para la posible detección del organismo y, al final, se inspeccionarán los tubérculos cosechados; en el primer año de cultivo siguiente al indicado en el guión anterior:
+– o bien no se plantarán tubérculos, plantas ni semillas propiamente dichas de patata, ni cualquier otra planta que pueda contener naturalmente el organismo,
 
-en el caso de las patatas, se plantarán exclusivamente patatas de siembra certificadas oficialmente para la producción de patatas de siembra o de consumo; durante al menos el segundo año de cultivo siguiente al indicado en el primer guión:
+o
 
-en el caso de las patatas, se plantarán para la producción de patatas de siembra o de consumo exclusivamente patatas de siembra certificadas oficialmente o patatas de siembra que se hayan cultivado bajo control oficial a partir de patatas de siembra certificadas oficialmente;
+– en el caso de los tubérculos de patata, se podrá plantar patata de siembra oficialmente certificada, pero sólo para la producción de patata de consumo,
 
-en cada uno de los años de cultivo indicados en los guiones anteriores, se adoptarán medidas para eliminar las patatas y tomateras espontáneas así como otras plantas que puedan ser huésped del organismo, incluidas las malas hierbas solanáceas; además, se efectuará el examen oficial que dispone el apartado 1 del artículo 3 y, en los casos en que se planten patatas de siembra para la producción de ese mismo tipo de patatas, se someterán a análisis los tubérculos.
+– en el caso de las tomateras, solamente se plantarán tomateras obtenidas de semillas que cumplan los requisitos de la Directiva 2000/29/CE del Consejo, de 8 de mayo de 2000, relativa a las medidas de protección contra la introducción en la Comunidad de organismos nocivos para los vegetales o productos vegetales y contra su propagación en el interior de la Comunidad, para la producción de fruto,
 
-c) Inmediatamente después de haberse declarado la contaminación en virtud del inciso ii) de la letra a) del apartado 1 del artículo 6, y en cada uno de los años de cultivo subsiguientes hasta, inclusive, la primera temporada de cultivo permisible de patatas o tomates en el campo o campos declarados contaminados que se contemplan en la letra a) anterior:
+– durante el segundo año de cultivo siguiente al de declaración de contaminación.
 
-— toda la maquinaria e instalaciones de almacenamiento del lugar de producción que se utilicen en la producción de patatas o tomates se limpiarán y, en su caso, desinfectarán utilizando métodos adecuados de la forma que se dispone en el punto 3, y
+– en el caso de las patatas, solamente se plantarán, para la producción de patatas de siembra o de consumo, patatas de siembra certificadas o patatas de siembra analizadas para determinar la inexistencia de podredumbre parda y cultivadas bajo control oficial en lugares de producción diferentes de los mencionados en el punto 4.1,
 
-— con el fin de impedir la propagación del organismo, se efectuarán controles oficiales de los planes de riego y aspersión y, en caso necesario, se prohibirán los mismos.
+– en el caso de los tomates, solamente se plantarán tomateras obtenidas de semillas que cumplan los requisitos de la Directiva 2000/29/CE o, si se han propagado vegetativamente, de tomateras producidas a partir de esas semillas y cultivadas bajo control oficial en lugares de producción diferentes de los mencionados en el punto 4.1, para la producción de plantas o de fruto,
 
-d) En el caso de las unidades de producción de cultivos protegidos que hayan sido declaradas contaminadas en virtud del inciso ii) de la letra a) del apartado 1 del artículo 6, y en las que sea posible una sustitución total de los medios de cultivo:
+– durante al menos los tres años de cultivo siguientes a la declaración de la contaminación.
 
-— no se plantarán patatas ni tubérculos de patata ni otras plantas que puedan ser huésped del organismo, incluidas tomateras y semillas de tomate, a menos que, por una parte, dichas unidades se hayan sometido a medidas oficialmente supervisadas que, teniendo por objeto la eliminación del organismo y la retirada de todo el material vegetal huésped, incluyan, como mínimo, un cambio completo de los medios de cultivo y una limpieza y, en su caso, una desinfección de tales unidades y de todo el equipo y que, por otra parte, los organismos oficiales responsables hayan dado subsiguientemente su autorización para la producción de patatas o tomates, y
+– en el caso de las patatas, se plantarán para la producción de patatas de siembra o de consumo exclusivamente patatas de siembra certificadas o patatas de siembra que se hayan cultivado bajo control oficial a partir de patatas de siembra certificadas,
 
-además, la producción procederá, en el caso de la patata, de patatas de siembra certificadas oficialmente o de minitubérculos o microplantas obtenidos de fuentes analizadas,
+– en el caso de los tomates, solamente se plantarán tomateras obtenidas de semillas que cumplan los requisitos de la Directiva 2000/29/CE o tomateras cultivadas bajo control oficial a partir de estas plantas, para la producción de plantas o de fruto,
 
-asimismo, con objeto de impedir la propagación del organismo, se efectuarán controles oficiales de los planes de riego y aspersión y, en su caso, se prohibirán los mismos.
+– en cada uno de los años de cultivo mencionados en los guiones anteriores, se tomarán medidas para eliminar las plantas de patata espontáneas y otras plantas que puedan contener naturalmente el organismo, si existen, y se efectuará una inspección oficial del cultivo en crecimiento en los momentos pertinentes y, en cada campo de patatas, se efectuarán pruebas oficiales de las patatas cosechadas con arreglo al procedimiento detallado en el anexo II;
 
-4.2 Dentro de la zona delimitada y sin perjuicio de las medidas dispuestas en el punto 4.1, las Comunidades Autónomas:
+c) inmediatamente después de la declaración de contaminación prevista en el artículo 6, apartado 1, letra a), inciso ii), y tras el primer año de cultivo siguiente:
 
-a) inmediatamente después de la declaración de contaminación y durante un período de al menos tres años de cultivo:
+– toda la maquinaria e instalaciones de almacenamiento del lugar de producción que se utilicen en la producción de patatas o tomates se limpiarán y, en su caso, desinfectarán utilizando métodos adecuados de la forma que se dispone en el punto 3,
 
-aa) en los casos en que la delimitación de la zona se haya efectuado en virtud del inciso iv) de la letra a) del apartado 1 del artículo 6:
+– con el fin de impedir la propagación del organismo, se efectuarán controles oficiales de los planes de riego y rociamiento y, en caso necesario, se prohibirán los mismos;
 
-— garantizarán que sus organismos oficiales responsables supervisen las instalaciones que cultiven, almacenen o manipulen tubérculos de patata o tomates, así como aquellas otras instalaciones que utilicen en el marco de un contrato maquinaria para la producción de patatas o tomates,
+d) en el caso de las unidades de producción de cultivos protegidos que hayan sido declaradas contaminadas en virtud del artículo 6, apartado 1, letra a), inciso ii), y en las que sea posible una sustitución total de los medios de cultivo:
 
-— exigirán que la maquinaria y los almacenes de esas instalaciones se limpien y, en su caso, desinfecten utilizando métodos adecuados de la forma que se dispone en el punto 3,
+– no se plantarán tubérculos, plantas ni semillas propiamente dichas de patata, ni otras plantas que puedan ser huésped del organismo, incluidas tomateras y semillas de tomateras, a menos que, por una parte, la unidad de producción se haya sometido a medidas oficialmente supervisadas que, teniendo por objeto la eliminación del organismo y la retirada de todo el material vegetal huésped, incluyan, como mínimo, un cambio completo de los medios de cultivo y una limpieza y, en su caso, una desinfección de tales unidades y de todo el equipo y que, por otra parte, los organismos oficiales responsables hayan dado subsiguientemente su autorización para la producción de patatas o tomates,
 
-— requerirán que para todos los cultivos de patata dentro de la zona delimitada, se planten exclusivamente semillas certificadas o semillas cultivadas bajo control oficial, y se efectúe un análisis después de cosechar los cultivos de patatas de siembra en lugares de producción determinados como probablemente contaminados según el inciso iii) de la letra a) del apartado 1 del artículo 6,
+y
 
-— dispondrán que en todas las instalaciones situadas en la zona se manipulen separadamente las existencias cosechadas de patatas de siembra y las de patatas de consumo,
+– además, la producción procederá, en el caso de la patata, de patatas de siembra certificadas o de minitubérculos o microplantas obtenidos de fuentes analizadas,
 
-— efectuarán el examen oficial que dispone el apartado 1 del artículo 3;
+– en cuanto a la producción de tomates, la producción deberá proceder de semillas que cumplan los requisitos de la Directiva 2000/29/CE o, si se han propagado vegetativamente, de tomateras producidas a partir de estas semillas y cultivadas bajo control oficial,
 
-ab) en los casos en que, en virtud del inciso ii) de la letra c) del apartado 1 del artículo 6, se hayan declarado contaminadas aguas de superficie o en que, por disposición del punto 2 del anexo V del presente Real Decreto, se hayan incluido dichas aguas entre los factores de la posible propagación del organismo:
+– con el fin de impedir la propagación del organismo, se efectuarán controles oficiales de los planes de riego y rociamiento y, en caso necesario, se prohibirán los mismos.
 
-— realizarán un examen anual, en los momentos oportunos, con una toma de muestras de las aguas de superficie y de las plantas huésped solanáceas presentes en las fuentes hídricas pertinentes, así como análisis con arreglo a:
+4.2 Dentro de la zona delimitada, y sin perjuicio de las medidas dispuestas en el punto 4.1, las Comunidades Autónomas:
 
-en el caso del material vegetal indicado, el método correspondiente establecido en el anexo II del presente Real Decreto, o
+a) inmediatamente después de la declaración de contaminación, garantizarán que se limpie y desinfecte toda la maquinaria e instalaciones de almacenamiento de la explotación que se hayan utilizado para la producción de patatas y tomates, como resulte adecuado y con los métodos apropiados, según lo dispuesto en el punto 3;
 
-en otros casos, cualquier otro método oficialmente autorizado;
+b) inmediatamente y durante al menos tres años de cultivo después de la declaración de contaminación:
 
-— con el fin de impedir la propagación del organismo, establecerán controles oficiales de los planes de riego y aspersión así como una prohibición (revisable a la vista de los resultados del examen anual arriba mencionado) del uso de las aguas declaradas contaminadas para el riego y aspersión del material vegetal indicado y, en su caso, de otras plantas huésped;
+ba) en los casos en que la delimitación de la zona se haya efectuado en virtud del artículo 6, apartado 1, letra a), inciso iv):
 
-— en los casos en que se hayan contaminado por vertidos de residuos líquidos, establecerán controles oficiales de la eliminación de los residuos procedentes de las instalaciones industriales de transformación o envasado que manipulen el material vegetal indicado;
+– garantizarán que sus organismos oficiales responsables supervisen las instalaciones que cultiven, almacenen o manipulen tubérculos de patata o tomates, así como aquellas otras instalaciones que utilicen en el marco de un contrato maquinaria para la producción de patatas o tomates,
 
-b) establecerán, cuando así proceda, un programa para la sustitución en un plazo adecuado de todas las existencias de patatas de siembra.
+– requerirán que, para todos los cultivos de patata dentro de la zona delimitada, se planten exclusivamente semillas certificadas o semillas cultivadas bajo control oficial, y se efectúe un análisis después de cosechar los cultivos de patatas de siembra en lugares de producción determinados como probablemente contaminados según el artículo 6, apartado 1, letra a), inciso iii),
+
+– exigirán que se manipulen por separado las existencias de patatas de siembra y de patatas de consumo recolectadas en todas las explotaciones de la zona o, cuando sea adecuado, que se efectúe una desinfección entre la manipulación de las existencias de patatas de siembra y de patatas de consumo,
+
+– exigirán que, para todos los cultivos de tomate de la zona, solamente se planten tomateras obtenidas de semillas que cumplan los requisitos de la Directiva 2000/29/CE o, si se han propagado vegetativamente, de tomateras producidas a partir de estas semillas y cultivadas bajo control oficial,
+
+– efectuarán el examen oficial que dispone el artículo 3, apartado 1;
+
+bb) en los casos en que, en virtud del artículo 6, apartado 1, letra c), inciso ii), se hayan declarado contaminadas aguas de superficie o en que, de conformidad con el anexo V, punto 2, se hayan incluido dichas aguas entre los factores de la posible propagación del organismo:
+
+– realizarán un examen anual, en los momentos oportunos, con una toma de muestras de las aguas de superficie y, cuando sea oportuno, de las plantas huésped solanáceas en las fuentes hídricas pertinentes, así como análisis con arreglo a los métodos pertinentes establecidos en el anexo II para el material vegetal indicado y para otros casos,
+
+– con el fin de impedir la propagación del organismo, establecerán controles oficiales de los planes de riego y rociamiento, así como una prohibición del uso de las aguas declaradas contaminadas para el riego y rociamiento del material vegetal indicado y, en su caso, de otras plantas huésped. Esta prohibición podrá reexaminarse en función de los resultados obtenidos en el examen anual mencionado, y podrán revocarse las declaraciones cuando los organismos oficiales responsables tengan la certeza de que las aguas superficiales ya no están contaminadas. Podrá autorizarse el uso del agua sometida a prohibición, bajo control oficial, para el riego y el rociamiento de las plantas huésped, cuando se utilicen técnicas aprobadas oficialmente que eliminen el organismo y eviten su propagación,
+
+– en los casos en que se hayan contaminado vertidos de residuos líquidos, establecerán controles oficiales de la eliminación de los residuos sólidos o líquidos procedentes de las instalaciones industriales de transformación o envasado que manipulen el material vegetal indicado;
+
+c) establecerán, cuando sea pertinente, un programa para la sustitución en un plazo adecuado de todas las existencias de patatas de siembra.
+
+> Se modifica por el art. único de la Orden APA/719/2007, de 15 de marzo. Ref. BOE-A-2007-6422

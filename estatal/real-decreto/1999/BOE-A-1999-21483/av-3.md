@@ -1,17 +1,31 @@
 ## ANEXO VII
 
-Las instalaciones de eliminación de residuos autorizadas oficialmente a las que se refiere el cuarto guión del punto 1 del anexo VI del presente Real Decreto deberán cumplir las disposiciones que se indican a continuación con el fin de evitar todo riesgo de propagación del organismo:
+## Disposiciones que se deben cumplir para la eliminación de los residuos
 
-i) los residuos procedentes de la transformación de patatas y tomates (incluidas las patatas y tomates rechazados y las peladuras), así como cualquier otro residuo sólido que acompañe a las patatas y tomates, se eliminarán:
+Los métodos de eliminación de residuos autorizados oficialmente mencionados en el anexo VI, punto 1, deberán cumplir las disposiciones que se indican a continuación con el fin de evitar todo riesgo identificable de propagación del organismo:
 
-— mediante su enterramiento profundo en un vertedero donde no exista ningún riesgo de filtración a tierras agrícolas ni de contacto con fuentes de agua que puedan utilizarse para el riego de dichas tierras; los residuos se conducirán directamente al vertedero en las condiciones necesarias para evitar todo riesgo de pérdida de los mismos, o
+i) los residuos de patatas y tomates (incluidas las patatas, mondaduras y tomates descartados) y cualquier otro residuo sólido asociado con las patatas y los tomates (incluido el suelo, las piedras y otros restos) se eliminarán de una de las siguientes maneras:
 
-— mediante su incineración;
+– en un vertedero de eliminación de residuos autorizado oficialmente en donde no exista ningún riesgo identificable de escape del organismo al medio ambiente, por ejemplo, a través de filtración a tierras agrícolas ni de contacto con fuentes de agua que puedan utilizarse para el riego de dichas tierras. Los residuos se conducirán directamente al vertedero en unas condiciones de confinamiento que impidan todo riesgo de pérdida de los mismos,
 
-ii) los residuos líquidos procedentes de la transformación que contengan elementos sólidos en suspensión se filtrarán o se someterán a procesos de sedimentación para la separación de dichos elementos. Éstos se eliminarán de la forma dispuesta en el inciso i).
+o
 
-Por su parte, los residuos líquidos se someterán a alguna de las medidas siguientes:
+– mediante incineración,
 
-— calentamiento a una temperatura mínima de 70 0C durante al menos treinta minutos antes de la eliminación, o
+o
 
-eliminación por otro sistema que, aprobado oficialmente y aplicado bajo control oficial, descarte todo riesgo de contacto de los residuos con tierras agrícolas o con fuentes de agua que puedan utilizarse para el riego de tierras agrícolas. Las características de tal sistema serán notificadas al Ministerio de Agricultura, Pesca y Alimentación y éste a su vez, a través del cauce correspondiente, a los demás Estados miembros y a la Comisión.
+– a través de otras medidas, siempre que se descarte el posible riesgo de propagación del organismo. Dichas medidas se notificarán inmediatamente al Ministerio de Agricultura, Pesca y Alimentación y este a su vez, a través del cauce correspondiente, a la Comisión y a los demás Estados miembros,
+
+ii) residuos líquidos: antes de la eliminación, los residuos líquidos que contengan sólidos en suspensión se someterán a procesos de filtración o sedimentación para eliminar dichos sólidos. Estos sólidos se eliminarán tal como se establece en el inciso i).
+
+A continuación, los residuos líquidos:
+
+– se calentarán a un mínimo de 60°C en todo su volumen durante un mínimo de 30 minutos antes de la eliminación,
+
+o
+
+– se eliminarán, previa autorización oficial y bajo control oficial, de manera que no exista ningún riesgo identificable de que los residuos puedan entrar en contacto con tierras agrícolas ni fuentes de agua que pudieran utilizarse para la irrigación de tierras agrícolas. Los detalles de estas medidas se notificarán al Ministerio de Agricultura, Pesca y Alimentación y este a su vez, a través del cauce correspondiente, a los demás Estados miembros y a la Comisión.
+
+Las opciones descritas en el presente anexo se aplican asimismo a los residuos asociados a la manipulación, la eliminación y el tratamiento de lotes contaminados.
+
+> Se modifica por el art. único de la Orden APA/719/2007, de 15 de marzo. Ref. BOE-A-2007-6422
