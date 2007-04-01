@@ -1,0 +1,9 @@
+## Disposición transitoria segunda. Plazo de renuncias y revocaciones a los regímenes especiales simplificado y de la agricultura, ganadería y pesca del Impuesto sobre el Valor Añadido, del método de estimación objetiva y de la modalidad simplificada del método de estimación directa del Impuesto sobre la Renta de las Personas Físicas para el año 2007.
+
+1. El plazo de renuncias, al que se refieren los artículos 29.1 y 33.1.a) del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por este Real Decreto, y el artículo 33.2, párrafo segundo, del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, así como la revocación de las mismas, que deben surtir efectos para el año 2007, comprenderá desde el día siguiente a la fecha de publicación en el «Boletín Oficial del Estado» de la Orden ministerial, que desarrolla para el año 2007 el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido, hasta el 20 de abril de 2007.
+
+Lo dispuesto en el párrafo anterior debe entenderse sin perjuicio de las renuncias previstas en el artículo 33.1.b) del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por este Real Decreto, y el artículo 33.2, párrafo tercero, del Reglamento del Impuesto sobre el Valor Añadido.
+
+2. Las renuncias presentadas, para el año 2007, a los regímenes especiales simplificado y de la agricultura, ganadería y pesca del Impuesto sobre el Valor Añadido, al método de estimación objetiva o a la modalidad simplificada del método de estimación directa del Impuesto sobre la Renta de las Personas Físicas, durante el mes de diciembre de 2006, se entenderán presentadas en período hábil.
+
+No obstante, los sujetos pasivos afectados por lo dispuesto en el párrafo anterior, podrán modificar su opción en el plazo previsto en el apartado 1 anterior.

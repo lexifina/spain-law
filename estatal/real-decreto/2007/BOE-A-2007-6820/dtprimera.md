@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Plazo de publicación de la Orden de desarrollo del método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y del régimen especial simplificado del Impuesto sobre el Valor Añadido para el año 2007.
+
+La Orden ministerial por la que se desarrollan para el año 2007 el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido, deberá publicarse en el «Boletín Oficial del Estado» en el plazo de quince días a partir de la publicación en el «Boletín Oficial del Estado» de este Real Decreto.

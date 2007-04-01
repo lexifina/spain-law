@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Información a los tomadores de los Planes de Previsión Asegurados y seguros de dependencia.
+
+Sin perjuicio de las obligaciones de información establecidas en la normativa de seguros privados, mediante resolución de la Dirección General de Seguros y Fondos de Pensiones se establecerán las obligaciones de información que las entidades aseguradoras que comercialicen planes de previsión asegurados y seguros de dependencia deberán poner en conocimiento de los tomadores, con anterioridad a su contratación, sobre tipo de interés garantizado, plazos de cada garantía y gastos previstos, así como la información periódica que deberán remitir a los tomadores y aquélla que deba estar a disposición de los mismos.
