@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Amortización de determinados créditos concedidos a la Seguridad Social.
+
+Uno. Durante el ejercicio 2007 la Tesorería General de la Seguridad Social reembolsará al Banco de España la totalidad del principal de los créditos concedidos a la Seguridad Social en los años 1990 y 1991, atendiendo al valor actual que tenga la deuda pendiente de los mismos en el momento de su pago. Queda sin efecto el calendario de amortización previsto en la disposición transitoria sexta de la Ley 41/1994, de 30 de diciembre, de Presupuestos Generales del Estado para 1995, al resultar cancelada con dicho pago la deuda en su totalidad.
+
+Dos. La modificación presupuestaria por la que se habiliten los créditos para el reembolso de la totalidad del principal a que se refiere el apartado anterior no computará en cuanto a los límites porcentuales establecidos en el artículo 57.2 de la Ley General Presupuestaria a efectos de determinar la competencia para acordar posteriores suplementos de crédito o créditos extraordinarios en el presupuesto de la Tesorería General de la Seguridad Social.
