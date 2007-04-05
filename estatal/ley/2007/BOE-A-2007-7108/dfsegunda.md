@@ -1,0 +1,3 @@
+## Disposición final segunda. Adecuación de los Parques Nacionales existentes a la presente Ley.
+
+Las Administraciones públicas adoptarán, en un plazo máximo de diez años a partir de la aprobación de la presente Ley, las medidas precisas para adecuar la situación de los Parques Nacionales ya declarados a la entrada en vigor de esta ley a las determinaciones contenidas en los artículos 9 y 13 de la misma, con la excepción de lo relativo a las superficies mínimas establecidas en el artículo 9.1.c) Las Administraciones Públicas promoverán la celebración de acuerdos voluntarios en los casos en que la adecuación afecte a derecho de terceros.
