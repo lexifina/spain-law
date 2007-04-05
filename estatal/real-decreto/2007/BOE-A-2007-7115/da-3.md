@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Relación con otros órganos de coordinación y participación.
+
+1. La ordenación de las enseñanzas artísticas superiores garantizará la coordinación de las funciones del Consejo Superior de Enseñanzas Artísticas con las propias del Consejo de Coordinación Universitaria, para la aplicación de las previsiones contenidas en el artículo 46.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+2. Las funciones del Consejo Superior de Enseñanzas Artísticas se entenderán sin perjuicio de las propias del Consejo Escolar del Estado en materia de enseñanzas no universitarias, salvo en lo relativo a las enseñanzas artísticas superiores habida cuenta de la equiparación de las titulaciones respectivas con las universitarias en los artículos 54, 55, 56 y 57 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y la excepcionalidad que para la ordenación de las enseñanzas artísticas superiores y para los centros que las impartan establecen sus artículos 46.2, 107.3 y 118.6.
