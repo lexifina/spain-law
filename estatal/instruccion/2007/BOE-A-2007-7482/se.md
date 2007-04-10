@@ -1,0 +1,5 @@
+## Segunda.
+
+La vía registral para determinar la aplicabilidad en cada caso concreto del precepto contenido en el artículo 17, n.º 1, c), del Código civil, es el expediente de declaración de la nacionalidad española con valor de simple presunción (cfr. art. 96-2.º L.R.C. y 338 R.R.C.), que decide en primera instancia el Encargado del Registro Civil del domicilio (cfr. art. 335 R.R.C.).
+
+Ahora bien, frente a la norma general conforme a la cual resulta competente en materia de expedientes el Juez Encargado del Registro Civil en que deba inscribirse la resolución pretendida (cfr. art. 342 R.R.C.), en relación con los específicos expedientes para declaraciones con valor de simple presunción la competencia corresponde al Encargado del Registro del domicilio del solicitante (cfr. art. 335 R.R.C.). Este régimen de competencia lo es tanto para instruir como para resolver el expediente, conforme a lo previsto por el artículo 342 del Reglamento del Registro Civil en la redacción dada por el Real Decreto de 29 de agosto de 1986.
