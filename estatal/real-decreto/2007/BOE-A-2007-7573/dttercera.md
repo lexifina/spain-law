@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Centros Nacionales de Formación Profesional.
+
+Los Centros Nacionales de Formación Profesional Ocupacional regulados en el artículo 17 del Real Decreto 631/1993, de 3 de mayo, por el que se regula el Plan Nacional de Formación e Inserción Profesional, continuarán con su estatus jurídico y con la afectación de los mismos a funciones de carácter nacional en tanto no adquieran la condición de Centros de Referencia Nacional de acuerdo con lo que establezca la normativa de desarrollo del artículo 11.7 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
