@@ -24,6 +24,8 @@ g) En los demás casos al menos 8.000 firmas.
 
 4. Las candidaturas presentadas y las proclamadas se publicarán el en «Boletín Oficial» de la provincia correspondiente.
 
+> Véase, para la interpretación del apartado 2, la Instrucción 5/2007, de 12 de abril, de la Junta Electoral Central. Ref. BOE-A-2007-8182
+
 > Se añade un párrafo al apartado 2 por la disposición adicional 2.2 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
 
 > Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 17 del 20 de enero de 1986. Ref. BOE-A-1986-1478.

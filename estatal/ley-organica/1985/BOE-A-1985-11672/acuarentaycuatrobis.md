@@ -10,4 +10,6 @@ En las elecciones de miembros de las Asambleas Legislativas de las Comunidades A
 
 4. Cuando las candidaturas para el Senado se agrupen en listas, de acuerdo con lo dispuesto en el artículo 171 de esta Ley, tales listas deberán tener igualmente una composición equilibrada de mujeres y hombres, de forma que la proporción de unas y otros sea lo más cercana posible al equilibrio numérico.
 
+> Véase, para la interpretación de este artículo, la Instrucción 5/2007, de 12 de abril, de la Junta Electoral Central. Ref. BOE-A-2007-8182
+
 > Se añade por la disposición adicional 2.1 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
