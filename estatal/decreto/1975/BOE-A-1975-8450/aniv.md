@@ -230,18 +230,21 @@ La emisión de SO2 en cualquier instalación siderúrgica se ajustará a lo pres
 
 5.1 Aluminio:
 
-|  | Niveles de emisión – Kg/Tm Al |
+Instalaciones de fabricación de aluminio primario
+
+| Contaminantes emitidos al aire | Valor límite emisión en mg/Nm3 |
 | --- | --- |
-| Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
-| Obtención por reducción de alúmina. |  |  |  |
-| Emisiones de partículas sólidas | 12 | 9 | 3,5 |
-| Emisión de SO2 | 8 | 6 | 3 |
-| Emisión de flúor, ácido fluorhidríco y fluoruros (gas y partículas) (medida en F) | 3,6 | 1,2 | 1,0 |
-|  | Niveles de emisión – mg/Nm3 |
+| SO2. | Ins. quemen fuel-oil 350. |
+|  | Ins. quemen gas 200. |
+| NOx. | Ins. quemen fuel-oil 450. |
+|  | Ins. quemen gas 300. |
+| Partículas en suspensión. | 50. |
+| F y comp. expresados como HF. | 27. |
+| Perfluorocarbono PFC. | 11. |
+| Contaminantes vertidos al agua | Valor límite vertido en k/T Al producida |
 | --- | --- |
-| Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
-| Aluminio de 2.ª fusión: |  |  |  |
-| Emisión de partículas sólidas | 200 | 150 | 100 |
+| PAH (Borneff 6). | 0,05. |
+| HF. | 1,5. |
 
 5.2 Cobre:
 
@@ -305,8 +308,9 @@ La opacidad no será superior al 20 por 100 o al número 1 de la escala de Riuge
 | --- | --- |
 | Regeneración de catalizadores | 500 ppm |
 | Otras unidades | 1.500 ppm |
-|  | mg/Nm3 |
-| --- | --- |
+|  |
+| --- |
+| Niveles de emisión mg/Nm3 Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
 | Emisión de H2 S |  |  |  |
 | Cualquier proceso | 10 | 7,5 | 5 |
 | Emisión SO2 | mg/Nm3 |
@@ -546,10 +550,14 @@ Nota: El volumen total emitido no podrá exceder de 1,36 kilogramos por 168 hora
 
 25. Fabricación de viscosa y otros procesos que emitan ácido sulfhídrico.
 
-|  | Niveles de emisión – mg/Nm3 |
+Instalaciones de fabricación de viscosa fibra cortada
+
+| Contaminantes emitidos al aire | Valor límite emisión en k/T producida |
 | --- | --- |
-| Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
-| Emisión de H2 S | 10 | 10 | 7,5 |
+| S total (H2S+ CS2). | 20. |
+| Contaminantes vertidos al agua | Valor límite vertido en mg/l |
+| --- | --- |
+| Zn. | 1. |
 
 26. Incineración de lodos procedentes de las estaciones de depuración de aguas residuales.
 
@@ -574,6 +582,8 @@ La opacidad de los humos no superará el número 1 de la escala de Ringelmann.
 Opacidad:
 
 El índice de ennegrecimiento no será superior al número 1 de la escala de Ringelmann o al número 2 de la escala de Bacharach, que equivale al 20 por 100 de opacidad.
+
+> Se modifican los valores de emisión contenidos en los apartados 5.1 y 25 por la disposición final 1 del Real Decreto 509/2007, de 20 de abril. Ref. BOE-A-2007-8352#dfprimera.
 
 > Se modifica el apartado 7, en lo referente a emisión de SO2, por la disposición final 1 del Real Decreto 430/2004, de 12 de marzo. Ref. BOE-A-2004-5117#dfprimera.
 
