@@ -14,6 +14,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [preambulo](preambulo.md)
 - [Primero](primero.md)
 - [Segundo](segundo.md)
+- [Disposición adicional única](daunica.md)
 - [Disposición derogatoria](dd.md)
 - [firma](firma.md)
 - [REGLAMENTACIÓN](reglamentacion.md)
