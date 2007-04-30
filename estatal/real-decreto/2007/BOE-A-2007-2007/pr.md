@@ -1,0 +1,23 @@
+La Directiva 2002/91/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 2002, relativa a la eficiencia energética de los edificios establece la obligación de poner a disposición de los compradores o usuarios de los edificios un certificado de eficiencia energética. Este certificado deberá incluir información objetiva sobre las características energéticas de los edificios de forma que se pueda valorar y comparar su eficiencia energética, con el fin de favorecer la promoción de edificios de alta eficiencia energética y las inversiones en ahorro de energía.
+
+Debe, por lo tanto, fomentarse entre el público la difusión de esta información y en particular en el caso de las viviendas, que constituyen un producto de uso ordinario y generalizado, siguiendo las directrices de la Ley 26/1984, de 19 de julio, general para la defensa de los consumidores y usuarios, que establece el derecho de los consumidores y usuarios a la información correcta sobre los diferentes productos puestos a su disposición en el mercado, a fin de facilitar el necesario conocimiento sobre su adecuado uso, consumo y disfrute.
+
+El objetivo principal de este real decreto consiste en establecer el Procedimiento básico que debe cumplir la metodología de cálculo de la calificación de eficiencia energética, con el que se inicia el proceso de certificación, considerando aquellos factores que más incidencia tienen en el consumo de energía de los edificios de nueva construcción o que se modifiquen, reformen o rehabiliten en una extensión determinada. También se establecen en el mismo las condiciones técnicas y administrativas para las certificaciones de eficiencia energética de los proyectos y de los edificios terminados.
+
+Con el fin de facilitar la interpretación, por parte de los consumidores, del certificado de eficiencia energética, se aprueba un distintivo común en todo el territorio nacional denominado etiqueta de eficiencia energética, garantizando, en todo caso, las especificidades que sean precisas en las distintas comunidades autónomas. En el caso de los edificios ocupados por autoridades públicas o instituciones que presten servicios públicos a un número importante de personas y que sean frecuentados habitualmente por ellas, será obligatoria la exhibición de este distintivo de forma destacada.
+
+Por otra parte, para velar por el mantenimiento y actualización del Procedimiento básico de certificación de eficiencia energética de edificios se crea una comisión asesora, como órgano colegiado de carácter permanente, cuyas funciones, organización y composición quedan determinadas.
+
+Por último, en esta disposición se concreta un régimen sancionador con infracciones y sanciones, de acuerdo con lo previsto en la legislación vigente en materia de protección de los consumidores y usuarios.
+
+En cuanto a los anexos del Procedimiento básico, el primero de ellos contiene las especificaciones técnicas de la metodología de cálculo de la calificación de eficiencia energética, donde se particularizan las características y alcance de los métodos informáticos que podrán utilizarse para el cálculo de las calificaciones de eficiencia energética, y que se hacen necesarios en la mayoría de los casos para llevar a cabo los complejos cálculos con fiabilidad suficiente.
+
+Este real decreto se dicta en ejercicio de las competencias que corresponden al Estado sobre bases y coordinación de la planificación general de la actividad económica, sobre protección del medio ambiente y sobre bases del régimen minero y energético.
+
+Además, este real decreto transpone parcialmente la Directiva 2002/91/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 2002, relativa a la eficiencia energética de los edificios.
+
+En la elaboración de este real decreto se han cumplido el trámite de información previa a la Comisión europea con arreglo a lo establecido en el real decreto 1337/1999, de 31 de julio, por el que se regula la remisión de información en materia de normas y reglamentaciones técnicas y de las reglas relativas a los servicios de la sociedad de la información, en cumplimiento de la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio, y cumpliendo, lo previsto en la Ley 50/1997, de 27 de noviembre, del Gobierno, se ha consultado a las comunidades autónomas, así como se ha oído a las asociaciones profesionales y a los sectores afectados.
+
+En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio y de la Ministra de Vivienda, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 19 de enero de 2007,
+
+DISPONGO:
