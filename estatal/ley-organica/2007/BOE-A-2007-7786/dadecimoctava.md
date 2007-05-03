@@ -1,0 +1,5 @@
+## Disposición adicional decimoctava. Deducción por donaciones a universidades públicas y privadas de entidades sin fines lucrativos.
+
+1. Los porcentajes de deducción y del límite de la base de deducción establecidos en los artículos 19, 20 y 21 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo, se elevarán en cinco puntos porcentuales por los donativos y donaciones establecidos en el artículo 17 de la Ley 49/2002 realizados a favor de universidades públicas y privadas de entidades sin fines lucrativos a las que se refiere el artículo 2 de la Ley 49/2002, que hayan comunicado la opción por aplicar el régimen fiscal especial, siempre que esas universidades desarrollen enseñanzas de doctorado o tercer ciclo de estudios universitarios.
+
+2. Dichas universidades deberán destinar el importe del donativo o el bien o derecho donado a programas de investigación universitaria y doctorado, debiendo constar en la certificación que han de expedir en los términos establecidos en el artículo 24 de la Ley 49/2002.

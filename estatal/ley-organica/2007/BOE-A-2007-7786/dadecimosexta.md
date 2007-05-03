@@ -1,0 +1,3 @@
+## Disposición adicional decimosexta. Proyección exterior de las universidades.
+
+Para potenciar la proyección internacional del sistema universitario español y la movilidad interuniversitaria, y con el fin de promover en el exterior la oferta educativa e investigadora de las universidades españolas, contribuir a la mejora de la acogida y estancia de estudiantes, profesores e investigadores extranjeros en España, y de españoles en el extranjero, y de impulsar el espacio europeo de educación superior y el espacio iberoamericano del conocimiento. Previo informe del Consejo de Universidades y de la Conferencia General de Política Universitaria, el Gobierno autorizará la constitución de una fundación del sector público estatal.

@@ -13,3 +13,5 @@ c) El desempeño, por sí o por persona interpuesta, de cargos de todo orden en 
 d) La participación superior al 10 por 100 en el capital de las Empresas o Sociedades a que se refiere el párrafo anterior.
 
 2. Las actividades privadas que correspondan a puestos de trabajo que requieran la presencia efectiva del interesado durante un horario igual o superior a la mitad de la jornada semanal ordinaria de trabajo en las Administraciones Públicas sólo podrán autorizarse cuando la actividad pública sea una de las enunciadas en esta Ley como de prestación a tiempo parcial.
+
+> Véase la disposición adicional 24 de la Ley Orgánica 4/2007, de 12 de abril Ref. BOE-A-2007-7786, sobre las limitaciones establecidas en el apartado.1 b) y d).

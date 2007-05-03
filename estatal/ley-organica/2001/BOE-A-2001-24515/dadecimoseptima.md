@@ -1,3 +1,5 @@
 ## Disposición adicional decimoséptima. De las actividades deportivas de las Universidades.
 
-El Gobierno, a propuesta del Consejo de Coordinación Universitaria, dictará las disposiciones necesarias para coordinar las actividades deportivas de las Universidades con el fin de asegurar su proyección nacional e internacional y articular fórmulas para compatibilizar los estudios de deportistas de alto nivel con sus actividades deportivas.
+(Sin contenido)
+
+> Se deja sin contenido por el art. único.87 de la Ley Orgánica 4/2007, de 12 de abril. Ref. BOE-A-2007-7786
