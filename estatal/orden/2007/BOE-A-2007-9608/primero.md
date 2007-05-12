@@ -1,0 +1,5 @@
+## Primero. Ámbito de aplicación.
+
+1. Lo dispuesto en la presente Orden será de aplicación a los extranjeros que se encuentren incluidos en el ámbito de aplicación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, reformada por las Leyes Orgánicas 8/2000, de 22 de diciembre, 11/2003, de 29 de septiembre, y 14/2003, de 20 de noviembre, que deseen efectuar su entrada en territorio español.
+
+2. No será aplicable la presente Orden a los ciudadanos de los Estados miembros de la Unión Europea, de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo, de la Confederación Suiza o del Principado de Andorra, así como a los familiares de todos éstos que se encuentren dentro del ámbito de aplicación del Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.

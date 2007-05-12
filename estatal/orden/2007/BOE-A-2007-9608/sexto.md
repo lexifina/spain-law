@@ -1,0 +1,3 @@
+## Sexto. Interpretación.
+
+Bajo la dirección de la Secretaría de Estado de Seguridad, se encomienda la interpretación, con carácter general, de las normas contenidas en la presente Orden y en las instrucciones que la desarrollen, a la Dirección General de la Policía y de la Guardia Civil, Comisaría General de Extranjería y Documentación, con objeto de conseguir la unidad de criterio en la aplicación de las mismas, por parte de las distintas autoridades y servicios periféricos competentes del Ministerio del Interior y, en definitiva, la coordinación operativa en el control de entradas, tránsitos y salidas.
