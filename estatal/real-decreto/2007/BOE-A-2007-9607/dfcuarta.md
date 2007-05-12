@@ -1,0 +1,3 @@
+## Disposición final cuarta. Documento técnico de las condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los espacios públicos urbanizados.
+
+Al menos con un año de antelación a la fecha de obligatoriedad que se establece en la disposición final quinta para los espacios públicos urbanizados nuevos, las condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados que se aprueban en virtud del presente real decreto se desarrollarán en un documento técnico que se aprobará por orden del Ministerio de Vivienda.
