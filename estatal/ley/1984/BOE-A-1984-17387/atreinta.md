@@ -68,6 +68,8 @@ Dicha reducción de jornada podrá ser solicitada y obtenida, de manera temporal
 
 Las funcionarias víctimas de violencia sobre la mujer, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a la reducción de la jornada con disminución proporcional de la retribución, o a la reordenación del tiempo de trabajo, a través de la adaptación del horario, de la aplicación del horario flexible o de otras formas de ordenación del tiempo de trabajo que sean aplicables, en los términos que para estos supuestos establezca la Administración Pública competente en cada caso.
 
+> Se derogan los apartados 3 y 5, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
 > Se modifican los apartados 1, 2 y 3 por la disposición adicional 19.6 a .13 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
 
 > Se modifica el apartado 1.a) y se añade el párrafo segundo al apartado 1.f) por la disposición final 1.1 y .2 de la Ley 21/2006, de 20 de junio. Ref. BOE-A-2006-11049

@@ -28,6 +28,10 @@ Sin perjuicio de lo dispuesto en el párrafo anterior, quienes cesen por alterac
 
 c) El tiempo de permanencia en la situación de servicios especiales será computado, a efectos de consolidación del grado personal, como prestado en el último puesto desempeñado en la situación de servicio activo o en el que posteriormente se hubiera obtenido por concurso.
 
+> Téngase en cuenta que este artículo se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
 > Se modifican los apartados 1.d), f) y 2 por el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
 
 > Se declara la inconstitucionalidad y nulidad del apartado 2.d) por Sentencia del TC 99/1987, de 11 de junio. Ref. BOE-T-1987-14852

@@ -14,4 +14,8 @@ El Gobierno, a propuesta del Ministro de la Presidencia, aprobará las normas re
 
 El personal tendrá libre acceso a su expediente individual.
 
+> Téngase en cuenta que los apartados 2 a 4 se mantendrán en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se derogan los apartados 2 a 4, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
 > Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 229, de 24 de septiembre de 1984. Ref. BOE-A-1984-21926

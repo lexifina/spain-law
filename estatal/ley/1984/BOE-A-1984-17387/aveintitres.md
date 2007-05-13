@@ -30,4 +30,8 @@ d) Las gratificaciones por servicios extraordinarios, fuera de la jornada normal
 
 4. Los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.
 
+> Téngase en cuenta que este artículo se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
 > Se añaden dos párrafos al apartado 2.b) por la disposición adicional 7 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087

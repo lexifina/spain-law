@@ -76,6 +76,10 @@ El personal eventual sólo ejercerá funciones expresamente calificadas de confi
 
 3. En ningún caso el desempeño de un puesto de trabajo reservado a personal eventual constituirá mérito para el acceso a la función pública o la promoción interna.
 
+> Téngase en cuenta que las letras a), párrafo primero de la b), c), e), párrafos 1º a 4º de la g) e i) del apartado 1 y los apartados 2 y 3 se mantendrán en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se derogan del apartado 1 las letras a), párrafo primero de la b), c), e), párrafos 1º a 4º de la g) e i) y los apartados 2 y 3, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
 > Se añade el apartado 1.i) por la disposición adicional 9.3 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
 
 > Se añade el apartado 1.h) por el art. 50.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412

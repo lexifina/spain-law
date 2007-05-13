@@ -9,3 +9,7 @@ Se garantiza la igualdad entre todos los funcionarios propios de las Comunidades
 2. Los funcionarios transferidos son funcionarios en situación administrativa de servicio activo en la Función Pública de la Comunidad Autónoma en la que se integran.
 
 En sus Cuerpos o Escalas de origen, permanecen en una situación administrativa especial de servicios en Comunidades Autónomas, que les permite mantener respecto de ellos todos sus derechos como si se hallaran en servicio activo, de acuerdo con lo establecido en los respectivos Estatutos de Autonomía.
+
+> Téngase en cuenta que este artículo se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788

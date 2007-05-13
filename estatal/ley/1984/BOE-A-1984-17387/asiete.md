@@ -21,3 +21,7 @@ c) Por parte de las Corporaciones Locales diecisiete representantes de las misma
 d) Por parte del personal diecisiete representantes designados por las Organizaciones Sindicales, en proporción a su representatividad respectiva.
 
 2. El Consejo elaborará sus normas de organización y funcionamiento.
+
+> Téngase en cuenta que este artículo se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788

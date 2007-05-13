@@ -74,8 +74,6 @@ Esta excedencia constituye un derecho individual de los funcionarios. En caso de
 
 El periodo de permanencia en esta situación será computable a efectos de trienios, consolidación de grado personal y derechos pasivos.
 
-(Párrafo sexto suprimido)
-
 5. Expectativa de destino.
 
 Los funcionarios en expectativa de destino percibirán las retribuciones básicas, el complemento de destino del grado personal que le corresponda y el 50 por 100 del complemento específico del puesto que desempeñaban al pasar a esta situación.
@@ -131,6 +129,10 @@ Las funcionarias públicas víctimas de violencia de género, para hacer efectiv
 Igualmente, durante los dos primeros meses de esta excedencia la funcionaria tendrá derecho a percibir las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo.
 
 Esto no obstante, cuando de las actuaciones de tutela judicial resultase que la efectividad del derecho de protección de la víctima lo exigiere, se podrá prorrogar por períodos de tres meses, con un máximo de dieciocho, el período en el que, de acuerdo con el párrafo anterior, se tendrá derecho a la reserva del puesto de trabajo, con idénticos efectos a los señalados en dicho párrafo.
+
+> Téngase en cuenta que este artículo, excepto el último párrafo de los apartados 5, 6 y 7, se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga excepto el último párrafo de los apartados 5, 6 y 7, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
 
 > Se modifican los apartados 4 y 8 por la disposición adicional 19.1 a .5 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
 

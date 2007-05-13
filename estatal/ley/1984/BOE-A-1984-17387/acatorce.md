@@ -11,3 +11,7 @@ A estos afectos serán previamente informadas por Comisiones de análisis de los
 4. Las Comunidades Autónomas determinarán en sus respectivas Leyes de Presupuestos las plantillas de todo su personal.
 
 5. Las plantillas y puestos de trabajo de todo el personal de la Administración Local se fijarán anualmente a través de su Presupuesto.
+
+> Téngase en cuenta que los apartados 4 y 5 se mantendrán en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se derogan los apartados 4 y 5, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788

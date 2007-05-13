@@ -21,3 +21,7 @@ g) Aprobar la oferta de empleo de la Administración del Estado.
 h) Aprobar la estructura en grados del personal de la Administración del Estado, los intervalos de niveles de puestos de trabajo asignados a cada Cuerpo o Escala y los criterios generales de promoción profesional de los funcionarios públicos.
 
 i) El ejercicio de las otras competencias que le estén legalmente atribuidas.
+
+> Téngase en cuenta que los apartados 2.e) y f) se mantendrán en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga el apartado 2.e) y f), con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788

@@ -11,3 +11,7 @@ Grupo C. Título de Bachiller, Formación Profesional de segundo grado o equival
 Grupo D. Título de Graduado Escolar, Formación Profesional de primer grado o equivalente.
 
 Grupo E. Certificado de escolaridad.
+
+> Téngase en cuenta que este artículo se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788

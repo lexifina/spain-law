@@ -27,3 +27,7 @@ b) En 30 de septiembre de 1986 los que tengan cumplidos sesenta y seis y sesenta
 c) En 30 de septiembre de 1987 los que tengan cumplidos los sesenta y cinco años.
 
 d) A partir de primero de octubre de 1987 será de plena aplicación la jubilación a los sesenta y cinco años.
+
+> Téngase en cuenta que esta disposición se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788

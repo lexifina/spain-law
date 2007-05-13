@@ -33,3 +33,7 @@ b) Por parte de las Comunidades Autónomas, los titulares de los órganos direct
 4. Bajo la dependencia inmediata del Secretario general existirá un Gabinete Técnico, al que podrán adscribirse funcionarios pertenecientes a la Administración del Estado y de las Comunidades Autónomas.
 
 5. La Comisión elaborará sus normas de organización y funcionamiento.
+
+> Téngase en cuenta que este artículo se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788

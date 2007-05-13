@@ -13,3 +13,7 @@ c) A propuesta de sus componentes, tomar conocimiento, debatir y, en su caso, re
 d) Debatir y proponer, a iniciativa de sus componentes, las medidas necesarias para la coordinación de las políticas de personal de las distintas Administraciones Públicas, y, en especial, en lo referente a Registros de Personal, sistemas de acceso, relación de puestos de trabajo, retribuciones, homologación de funcionarios y oferta de empleo.
 
 3. El contenido de las deliberaciones y propuestas del Consejo Superior de la Función Pública, reflejados en las correspondientes actas, se elevará a la consideración del Gobierno y de los órganos de Gobierno de las demás Administraciones Públicas, sin que en ningún caso tengan carácter vinculante.
+
+> Téngase en cuenta que este artículo se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788

@@ -20,6 +20,10 @@ A estos efectos, en las convocatorias para el ingreso en los referidos Cuerpos y
 
 3. A propuesta del Ministro de Administraciones Públicas, el Gobierno podrá determinar los cuerpos y escalas de funcionarios a los que podrá acceder el personal laboral de los grupos y categorías profesionales equivalentes al grupo de titulación correspondiente al cuerpo o escala al que se pretende acceder, siempre que desempeñen funciones sustancialmente coincidentes o análogas en su contenido profesional y en su nivel técnico, se deriven ventajas para la gestión de los servicios, se encuentren en posesión de la titulación requerida, hayan prestado servicios efectivos durante al menos dos años como personal laboral fijo en categorías del grupo profesional a que pertenezcan o en categorías de otro grupo profesional para cuyo acceso se exija el mismo nivel de titulación y superen las correspondientes pruebas.
 
+> Téngase en cuenta que el apartado 1, a excepción de los dos últimos párrafos, se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga el apartado 1 a excepción de los dos últimos párrafos, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
 > Se modifica el apartado 3 y el párrafo primero de los apartados 1 y 2 por el art. 50.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se añade el apartado 3 por el art. 50.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412

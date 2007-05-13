@@ -34,6 +34,10 @@ n) Haber sido sancionado por la comisión de tres faltas graves en un período d
 
 2. (Derogado)
 
+> Téngase en cuenta que este artículo se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
 > Se modifica el apartado 1.b) por el art. 50.6 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se añade el apartado 1.ñ) por la disposición adicional 4 de la Ley 12/1995, de 11 de mayo. Ref. BOE-A-1995-11340

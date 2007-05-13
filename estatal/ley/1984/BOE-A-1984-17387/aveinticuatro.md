@@ -6,6 +6,10 @@ El sueldo de los funcionarios del grupo A no podrá exceder en más de tres vece
 
 2. La cuantía de las retribuciones básicas, de los complementos de destino asignados a cada puesto de trabajo y de los complementos específicos y de productividad, en su caso, deberá reflejarse para cada ejercicio presupuestario en la correspondiente Ley de Presupuestos Generales del Estado y figurar en los Presupuestos de las demás Administraciones Públicas.
 
+> Téngase en cuenta que este artículo se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
 > Se modifica el apartado 1 por el art. 50.3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
 
 > Redactado el párrafo 2 conforme a la corrección de errores publicada en BOE núm. 81, de 4 de abril de 2003.Ref. BOE-A-2003-6800

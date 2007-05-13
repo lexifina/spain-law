@@ -23,3 +23,7 @@ Dicha jubilación dará derecho a la percepción del 150 por 100 de las retribuc
 7. Los efectivos de personal que, procedentes de los servicios centrales, deban ser transferidos a las Comunidades Autónomas, y que no puedan ser obtenidos por éstas a través de los procedimientos previstos en la presente disposición transitoria, se procurarán mediante el sistema de traslado forzoso.
 
 El personal afectado por dichos traslados que no desee trasladarse, podrá optar por pasar a la situación administrativa de excedencia forzosa sin derecho a retribución alguna.
+
+> Téngase en cuenta que esta disposición se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788

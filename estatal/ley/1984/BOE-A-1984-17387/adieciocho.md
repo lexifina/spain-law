@@ -42,6 +42,10 @@ La Oferta de Empleo Público será aprobada por el Gobierno a propuesta del Mini
 
 Anualmente, y de acuerdo con las prioridades de la política económica y las necesidades de la planificación de los recursos humanos, las Leyes de Presupuestos señalarán los criterios aplicables a la Oferta de Empleo en el Sector Público Estatal incluido en el capítulo II del título III de las Leyes de Presupuestos Generales del Estado y en el artículo 6.5 de la Ley General Presupuestaria.
 
+> Téngase en cuenta que los apartados 1 a 5 se mantendrán en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se derogan los apartados 1 a 5, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
 > Se añaden los párrafos segundo y cuarto a los apartados 4 y 6 por el art. 103.1 y .2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
 
 > Se modifica por el art. 15 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153

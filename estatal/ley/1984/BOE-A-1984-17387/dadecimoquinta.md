@@ -62,6 +62,10 @@ En el plazo de seis meses, el Gobierno, a propuesta de los Ministros de Educaci�
 
 10. En el marco de las competencias en materia educativa atribuidas por sus respectivos Estatutos de Autonomía, las Comunidades Autónomas ordenarán su función pública docente, de conformidad con lo que se establezca en las normas básicas que regulen los aspectos señalados en el punto 2 de esta disposición adicional.
 
+> Téngase en cuenta que esta disposición se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
 > Se deroga el apartado 7 por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
 
 > Se añade el párrafo segundo y tercero al apartado 5 por el art. único de la Ley 27/1994, de 29 de septiembre. Ref. BOE-A-1994-21316

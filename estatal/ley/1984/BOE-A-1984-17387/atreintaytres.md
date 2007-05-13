@@ -6,4 +6,8 @@ No obstante lo dispuesto en el párrafo anterior, tal declaración no se produci
 
 De lo dispuesto en el párrafo anterior quedan exceptuados los funcionarios de aquellos cuerpos y escalas que tengan normas específicas de jubilación.
 
+> Téngase en cuenta que este artículo se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
 > Se modifica por el art. 107 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117

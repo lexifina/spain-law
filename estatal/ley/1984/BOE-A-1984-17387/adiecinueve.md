@@ -9,3 +9,7 @@ En las convocatorias para acceso a la función pública, las Administraciones P�
 2. El Gobierno regulará la composición y funcionamiento de los órganos de selección, garantizando la especialización de los integrantes de los órganos selectivos y la agilidad del proceso selectivo sin perjuicio de su objetividad. En ningún caso, y salvo las peculiaridades del personal docente e investigador, los órganos de selección podrán estar formados mayoritariamente por funcionarios pertenecientes al mismo Cuerpo que se ha de seleccionar.
 
 3. Corresponde al Instituto Nacional de Administración Pública la coordinación, control y, en su caso, la realización de los cursos de selección, formación y perfeccionamiento de los funcionarios de la Administración del Estado, así como las funciones de colaboración y cooperación con los centros que tengan atribuidas dichas competencias en las restantes Administraciones Públicas.
+
+> Téngase en cuenta que los apartados 1 y 3 se mantendrán en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+
+> Se derogan los apartados 1 y 3, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
