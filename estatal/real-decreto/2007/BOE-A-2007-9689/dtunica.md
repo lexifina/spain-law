@@ -1,0 +1,3 @@
+## Disposición transitoria única. Aportación transitoria de fondos a las comunidades autónomas.
+
+Hasta tanto se acuerden por el Consejo Territorial los criterios para determinar la intensidad de protección de los servicios, la compatibilidad e incompatibilidad entre los mismos, las condiciones y cuantías de las prestaciones económicas y los criterios de participación de los beneficiarios en el coste de los servicios, el Gobierno aportará a la comunidad autónoma las cantidades previstas en el Anexo, siempre que exista un reconocimiento de la situación de dependencia y el beneficiario esté recibiendo servicios o prestaciones económicas de dependencia.
