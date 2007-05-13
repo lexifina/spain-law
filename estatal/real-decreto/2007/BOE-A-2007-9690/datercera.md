@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Encuadramiento en la Seguridad Social de las personas que prestan cuidados profesionales y servicios de asistencia personal.
+
+El encuadramiento en la Seguridad Social de los cuidadores profesionales contratados por instituciones públicas o por entidades privadas, los contratados mediante la prestación económica vinculada al servicio regulada en los artículos 14.3 y 17 de la Ley 39/2006, así como de los trabajadores dedicados a la asistencia personal a grandes dependientes, en los términos previstos en el artículo 19 de la misma, se regirá por lo dispuesto en las normas de Seguridad Social que resulten de aplicación.
