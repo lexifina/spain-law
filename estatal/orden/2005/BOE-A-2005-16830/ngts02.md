@@ -288,47 +288,9 @@ Esta capacidad disponible se entenderá limitada por las restricciones técnicas
 
 La limitación de capacidad de inyección y extracción no será de aplicación siempre que existan posibilidades técnicas para incrementarlas.
 
-2.8 Principios para el cálculo de la capacidad de las instalaciones.–Siguiendo lo indicado en este apartado se desarrollarán, en el protocolo de detalle correspondiente, las normas y procedimientos para determinar las capacidades máximas, útiles y disponibles de las instalaciones que constituyen el sistema gasista.
+2.8 Principios para el cálculo de la capacidad de las instalaciones.–Los titulares de las instalaciones desarrollarán y publicarán los procedimientos para determinar las capacidades de sus instalaciones de acuerdo con lo recogido en el protocolo de detalle PD-10 «Cálculo de la Capacidad de las Instalaciones del Sistema Gasista».
 
-Para el cálculo de las capacidades útiles se tendrán en cuenta, no solamente los parámetros de diseño de la misma, sino también aquellos aspectos operativos que la disminuyen o limitan y que son, entre otros: los factores de servicio, la simultaneidad, los márgenes de operación y seguridad, periodo del año al que se refiere la capacidad y presión de garantía.
-
-Planta de regasificación.–En las plantas de regasificación se distinguirá entre la capacidad de emisión a la red de transporte a la presión de diseño de la misma y la capacidad de descarga de buques metaneros, si esta fuera limitativa.
-
-La capacidad en operación normal será la útil y se calculará en función de los equipos de emisión y descarga que estén instalados en la planta, teniendo en cuenta sus límites de operación, de seguridad, equipos de reserva, etc.
-
-En su caso, podrá existir una capacidad superior a la máxima o útil, correspondiente a la capacidad de operación en punta de emisión, con la utilización total o parcial de equipos de reserva.
-
-Carga de GNL a buques.–Se establecerá y publicará la posibilidad y capacidad de carga de GNL a buques desde cada planta de regasificación; igualmente acerca de la puesta en frío de buques y transbordos.
-
-Capacidad de carga de cisternas.–Se calculará teniendo en cuenta la capacidad de los equipos de bombeo instalados en la planta de regasificación, teniendo en cuenta sus límites de operación y seguridad, y dentro de los valores autorizados.
-
-Almacenamientos subterráneos.–Se distinguirá entre capacidad de inyección y de extracción y capacidad de almacenamiento:
-
-Capacidad de inyección y extracción: La capacidad de inyección se calculará teniendo en cuenta los equipos de compresión instalados en la instalación, sus límites de operación y seguridad, así como la presión de entrega del gas en el gasoducto de transporte al que esté conectado y la presión existente en el propio almacenamiento.
-
-La capacidad de extracción es función de la cantidad de gas existente en el almacenamiento en cada momento y se calculará teniendo en cuenta los equipos de tratamiento del gas de la planta, sus límites de operación y seguridad, así como la contrapresión de salida del gas en el gasoducto de transporte al que esté conectado.
-
-Capacidad de almacenamiento:
-
-Capacidad máxima de almacenamiento: Es la cantidad de gas natural contenida en un almacenamiento cuando la presión del mismo coincide con la presión máxima de operación.
-
-Cantidad máxima extraíble: Es la diferencia entre la capacidad máxima del almacenamiento y la cantidad para asegurar el almacenamiento en condiciones que permitan una futura recuperación de su capacidad, teniendo en cuenta, que el gas extraído pueda ser introducido en la red de gasoductos a la presión normal de operación, directamente o por medio de elementos de compresión. La parte correspondiente al gas colchón extraíble por medios mecánicos sólo podrá ser extraída en situaciones de emergencia.
-
-Gasoductos de transporte.–La capacidad máxima de un gasoducto de transporte se define como el caudal máximo de gas que se puede vehicular a través del mismo en m3(n)/h, teniendo en consideración que la presión de entrada es igual a la presión máxima operativa que legalmente este autorizada en el inicio del gasoducto o la presión de garantía en el punto de entrada del mismo, manteniendo la presión de garantía más restrictiva en todos los puntos del mismo (puntos de entrega o de aspiración de estaciones de compresión intermedia).
-
-En los gasoductos de transporte secundario se considerará como presión de entrada la que se garantice en el punto de entrega.
-
-Se deberán tener en cuenta los niveles de demanda previstos para época estival, invernal y punta y para cada uno de estos escenarios se considerarán los factores de simultaneidad y márgenes de operación y seguridad que se establezcan.
-
-En relación al consumo para estas salidas se tendrán en cuenta escenarios de demanda para época estival, invernal y punta, de esta manera se crearán los escenarios base, a partir de los cuales se realizarán los cálculos de simulación de capacidad. De este modo se irá estableciendo la capacidad según los consumos que incrementalmente se vayan añadiendo.
-
-Además de estos escenarios se considerarán los factores de simultaneidad y márgenes de seguridad que se establezcan.
-
-Tanto en los casos de gasoductos lineales como mallados, se utilizarán para los cálculos sistemas de simulación que contemplen modelos hidráulicos de general aceptación y reconocidos en la industria del gas.
-
-Gasoductos de distribución.–La capacidad máxima de un gasoducto de distribución de un determinado nivel de presión se define como el gas que se puede vehicular a través del mismo, en m3(n)/h, manteniendo la presión de garantía más restrictiva en todos los puntos del mismo.
-
-Esta capacidad depende de la presión de regulación en la/s entrada/s de la red, así como de las pérdidas de carga existentes. La determinación de la capacidad disponible de una red se efectuará evaluando el caudal adicional que se puede entregar en el/los punto/s de mínima presión, introduciendo el gas a la máxima presión posible y manteniendo las presiones mínimas de garantía.
+Asimismo, dado su carácter fundamental, los titulares de las instalaciones deberán publicar las capacidades de sus instalaciones con el detalle y alcance recogido en el citado protocolo, para que de esta forma se garantice que todos los sujetos con derecho de acceso a las instalaciones gasistas disponen de una misma información, uniforme y suficiente, que posibilite una eficaz toma de decisiones en el ejercicio de su derecho acceso de terceros.
 
 2.9 Indisponibilidades en instalaciones de transporte.–En caso de indisponibilidad, el operador de la instalación con indisponibilidad deberá comunicar a los usuarios con capacidades contratadas con él y a los titulares de instalaciones conectadas a las suyas cual es su capacidad disponible mientras dure dicha situación. Al objeto de minimizar su repercusión, las indisponibilidades se comunicarán con la máxima antelación posible. En todos los casos el titular de las instalaciones afectadas por la indisponibilidad realizará todos los esfuerzos a su alcance para reducir al mínimo la duración de la misma y sus efectos sobre la normal prestación del servicio.
 
@@ -343,3 +305,5 @@ En caso de que, como consecuencia de la indisponibilidad planteada, se redujese 
 Ninguno de los contenidos de los acuerdos suscritos entre los sujetos del sistema podrá ir en contra de lo establecido en la legislación vigente.
 
 Los titulares de las instalaciones de regasificación, almacenamiento y conexiones a gasoductos internacionales publicarán con la periodicidad que se establezca la capacidad contratada, reservada y disponible en cada una de estas instalaciones, distinguiendo la capacidad asignada a los contratos de acceso y la reservada para el mercado a tarifa.
+
+> Se modifica el apartado 2.8 por el art. 2 y el Anexo 2 de la Resolución de 20 de abril de 2007. Ref. BOE-A-2007-9765.
