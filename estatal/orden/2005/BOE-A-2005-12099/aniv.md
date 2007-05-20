@@ -4,14 +4,14 @@
 
 |  | Euros |
 | --- | --- |
-| Audífono | 365 |
+| Audífono | 423 |
 | Colchón o colchoneta antiescaras (con o sin compresor) | 121 |
-| Laringófono | 905 |
+| Laringófono | 1.057 |
 | Bomba externa de infusión continua subcutánea de insulina. | Financiación total según procedimiento |
 
 El período mínimo de renovación ordinaria de las prestaciones de audífono, colchón o colchoneta antiescaras o laringófono será de 24 meses desde la fecha de factura, excepto que las mismas deban renovarse por variación, acreditada por informe del facultativo correspondiente.
 
-En el caso de los artículos que precisen algún tipo de reparación, la cuantía de la ayuda será como máximo el 50% de la ayuda establecida para su adquisición. Las ayudas concedidas por este concepto serán tenidas en cuenta a efectos del cómputo de plazos para la renovación del mismo artículo.
+En el caso de los artículos que precisen algún tipo de reparación, la cuantía de la ayuda será como máximo el 50% de la ayuda establecida para su adquisición. Las ayudas concedidas por este concepto serán tenidas en cuenta a efectos del computo de plazos para la renovación del mismo artículo.
 
 La ayuda para audífono, prevista en este Anexo, será incompatible con la prestación de audífono prevista en el Catálogo de Material Ortoprotésico (Código 21 45 00).
 
@@ -134,3 +134,5 @@ Que D./Dña. _________________________________________________________reúne las
 ________________ a_______ de________________ 20___
 
 (Firma)
+
+> Se modifica por el apartado 1 y anexo de la Resolución de 8 de mayo de 2007. Ref. BOE-A-2007-10140.
