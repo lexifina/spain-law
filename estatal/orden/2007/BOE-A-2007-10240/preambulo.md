@@ -1,0 +1,3 @@
+La disposición adicional cuarta del Real Decreto 950/2005, de 29 de julio, de retribuciones de las Fuerzas y Cuerpos de Seguridad del Estado, regula las retribuciones del personal que participe o coopere en asistencia técnica policial, operaciones de mantenimiento de la paz y seguridad, humanitarias o de evacuación de personas en el extranjero, entre las que se encuentra una indemnización que retribuirá las especiales condiciones en que desarrolla su actividad el personal participante en ellas, durante su permanencia en territorio extranjero.
+
+Por ello, en virtud de las atribuciones que me confiere la mencionada disposición adicional cuarta del Real Decreto 950/2005, de 29 de julio, previo informe del Ministerio de Economía y Hacienda, dispongo:
