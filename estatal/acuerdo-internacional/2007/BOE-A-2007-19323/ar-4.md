@@ -1,0 +1,5 @@
+## Artículo 4. Representación de los Miembros en el Consejo Oleícola Internacional.
+
+1. Cada Miembro designará a su representante en el Consejo Oleícola Internacional.
+
+2. Toda referencia que se haga en el presente Convenio a un «Gobierno» o «Gobiernos» será interpretada en el sentido de que incluye a la Comunidad Europea y a cualquier organización intergubernamental que sea competente en lo que respecta a la negociación, celebración y aplicación de convenios internacionales, en particular de convenios sobre productos básicos. En consecuencia, toda referencia que se haga en el presente Convenio a la firma, ratificación, aceptación o aprobación, o a la notificación de aplicación provisional, o a la adhesión, será interpretada, en el caso de la Comunidad Europea o esas organizaciones intergubernamentales, en el sentido de que incluye una referencia a la firma, ratificación, aceptación o aprobación, o a la notificación de aplicación provisional, o a la adhesión, por la Comunidad Europea o esas organizaciones intergubernamentales.
