@@ -1,0 +1,21 @@
+El artículo 74 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado mediante Real Decreto 887/2006, de 21 de julio, regula, entre las distintas modalidades de justificación por el beneficiario del cumplimiento de las condiciones impuestas y de la consecución de los objetivos previstos en el acto de concesión de la subvención, la cuenta justificativa con aportación de informe de auditor. A través de esta fórmula novedosa de justificación, las bases reguladoras de la subvención pueden prever una reducción de la información a incorporar en la memoria económica a que se refiere el apartado 2 del artículo 72 de este Reglamento siempre que:
+
+a) La cuenta justificativa vaya acompañada de un informe de un auditor de cuentas inscrito como ejerciente en el Registro Oficial de Auditores de Cuentas dependiente del Instituto de Contabilidad y Auditoría de Cuentas.
+
+b) El auditor de cuentas lleve a cabo la revisión de la cuenta justificativa con el alcance que se determine en las bases reguladoras de la subvención y con sujeción a las normas de actuación y supervisión que, en su caso, proponga el órgano que tenga atribuidas las competencias de control financiero de subvenciones en el ámbito de la administración pública concedente.
+
+c) La cuenta justificativa incorpore, además de la memoria de actuaciones a que se refiere el apartado 1 del artículo 72 del Reglamento de la Ley General de Subvenciones, una memoria económica abreviada.
+
+Al amparo de la previsión contenida en la letra b) del anterior apartado, esta Orden tiene por objeto la aprobación de las normas de actuación del ejercicio de esta actividad, en el marco del sector público estatal, para lo cual la Intervención General de la Administración del Estado ha elaborado y propuesto las bases, metodología y reglas que deben regir la actuación del auditor de cuentas, delimitando el alcance de los trabajos y determinando el contenido del informe resultante de la revisión realizada.
+
+El trabajo del auditor se circunscribe a realizar las comprobaciones que se establecen en la Norma, con la finalidad de emitir un informe que ayude al órgano concedente de la subvención en la tarea de comprobación de la adecuada justificación, recogiendo aquellos hechos o excepciones que pudieran suponer un incumplimiento por parte del beneficiario de la normativa aplicable o de las condiciones impuestas para la percepción de la subvención.
+
+El auditor queda sujeto, en su relación de sujeción especial con la Administración, al cumplimiento estricto de la presente Norma y, subsidiariamente, se extiende la aplicabilidad a estos profesionales de las reglas y principios que sobre independencia, incompatibilidad, diligencia profesional, secreto profesional, honorarios y papeles de trabajo, están contenidos en la legislación vigente sobre auditoría de cuentas.
+
+Respecto a los procedimientos de actuación, sobre la base de la normativa reguladora de la subvención, el auditor deberá requerir la cuenta justificativa en los términos y con el alcance previsto en el artículo 74 del Reglamento de la Ley General de Subvenciones, a partir de la cual iniciará las actuaciones de revisión específicas tanto sobre la memoria de actuación como sobre la memoria económica abreviada. La revisión de la memoria económica abreviada, con la extensión con la que se proyecta en esta Orden, será verificar que se cumplen los requisitos de subvencionalidad generales establecidos en la Ley General de Subvenciones, y su reglamento general de desarrollo, así como las condiciones y reglas singulares de elegibilidad que dimanen específicamente de la normativa reguladora de cada subvención.
+
+En otro orden de cuestiones, la Norma contiene unas previsiones sobre el contenido mínimo del contrato que han de suscribir el auditor y el beneficiario de la subvención, en el que, entre otros extremos, ha de incluirse una cláusula de confidencialidad, con los límites y excepciones que en todo caso se prevén en la presente Orden.
+
+Finalmente, y una vez reguladas las condiciones materiales para la documentación acreditativa del trabajo realizado, la Norma concluye con la previsión del contenido mínimo que ha de tener el informe, adjuntando además un modelo, a fin de normalizar la estructura y el formato del mismo.
+
+En su virtud, dispongo:
