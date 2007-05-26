@@ -1,21 +1,21 @@
 ## Artículo cincuenta
 
-1. La Sección, por unanimidad de sus miembros, podrá acordar mediante providencia la inadmisión del recurso cuando concurra alguno de los siguientes supuestos:
+1. El recurso de amparo debe ser objeto de una decisión de admisión a trámite. La Sección, por unanimidad de sus miembros, acordará mediante providencia la admisión, en todo o en parte, del recurso solamente cuando concurran todos los siguientes requisitos:
 
-a) Que la demanda incumpla de manera manifiesta e insubsanable alguno de los requisitos contenidos en los artículos 41 a 46 o concurra en la misma el caso al que se refiere el artículo 4.2.
+a) Que la demanda cumpla con lo dispuesto en los artículos 41 a 46 y 49.
 
-b) Que la demanda se deduzca respecto de derechos o libertades no susceptibles de amparo constitucional.
+b) Que el contenido del recurso justifique una decisión sobre el fondo por parte del Tribunal Constitucional en razón de su especial trascendencia constitucional, que se apreciará atendiendo a su importancia para la interpretación de la Constitución, para su aplicación o para su general eficacia, y para la determinación del contenido y alcance de los derechos fundamentales.
 
-c) Que la demanda carezca manifiestamente de contenido que justifique una decisión sobre el fondo de la misma por parte del Tribunal Constitucional.
+2. Cuando la admisión a trámite, aun habiendo obtenido la mayoría, no alcance la unanimidad, la Sección trasladará la decisión a la Sala respectiva para su resolución.
 
-d) Que el Tribunal Constitucional hubiera ya desestimado en el fondo un recurso o cuestión de inconstitucionalidad o un recurso de amparo en supuesto sustancialmente igual, señalando expresamente en la providencia la resolución o resoluciones desestimatorias.
+3. Las providencias de inadmisión, adoptadas por las Secciones o las Salas, especificarán el requisito incumplido y se notificarán al demandante y al Ministerio Fiscal. Dichas providencias solamente podrán ser recurridas en súplica por el Ministerio Fiscal en el plazo de tres días. Este recurso se resolverá mediante auto, que no será susceptible de impugnación alguna.
 
-2. La providencia a que se refiere el apartado anterior, que indicará el supuesto en el que se encuentra el recurso, se notificará al demandante y al Ministerio Fiscal. Contra dicha providencia solamente podrá recurrir el Ministerio Fiscal, en súplica, en el plazo de tres días. El recurso se resolverá mediante auto.
+4. Cuando en la demanda de amparo concurran uno o varios defectos de naturaleza subsanable, se procederá en la forma prevista en el artículo 49.4; de no producirse la subsanación dentro del plazo fijado en dicho precepto, la Sección acordará la inadmisión mediante providencia, contra la cual no cabrá recurso alguno
 
-3. Cuando en los supuestos a que alude el apartado primero no hubiere unanimidad, la Sección, previa audiencia del solicitante de amparo y del Ministerio Fiscal, por plazo común que no excederá de diez días, podrá acordar mediante auto la inadmisión del recurso.
+> Artículo redactado conforme a la Ley Orgánica 6/2007, de 24 de mayo (Ref. BOE-A-2007-10483). Véase su disposición transitoria tercera, que dice:
 
-4. Contra los autos a los que se refieren los apartados 2 y 3 anteriores no cabrá recurso alguno.
+> «La admisión e inadmisión de los recursos de amparo cuya demanda se haya interpuesto antes de la vigencia de esta Ley Orgánica se regirá por la normativa anterior. No obstante, la providencia de inadmisión se limitará a expresar el supuesto en el que se encuentra el recurso.»
 
-5. Cuando en la demanda de amparo concurran uno o varios defectos de naturaleza subsanable, la Sección procederá en la forma prevista en el artículo 85.2; de no producirse la subsanación dentro del plazo fijado en dicho precepto, la Sección acordará la inadmisión mediante providencia, contra la cual no cabrá recurso alguno.
+> Se modifica por el art. único.17 de la Ley Orgánica 6/2007, de 24 de mayo. Ref. BOE-A-2007-10483.
 
 > Se modifica por el art. 1 de la Ley Orgánica 6/1988, de 9 de junio. Ref. BOE-A-1988-14328.
