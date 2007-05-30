@@ -14,6 +14,8 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_002.png)
 
+> Téngase en cuenta para los modelos 1 y 2 los arts. 4 y 5 de la Orden JUS/568/2006, de 8 de febrero, Ref. BOE-A-2006-3764, así como la Orden JUS/644/2006, de 6 de marzo, sobre aclaración de la misma, en cuanto a la adaptación de los modelos. Ref. BOE-A-2006-4203
+
 ## Modelo número 3
 
 ## Libro de defunciones
@@ -38,7 +40,7 @@
 
 ## Aviso para la celebración de matrimonio canónico
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_007.png)
+(Suprimido el «Aviso para la celebración de matrimonio canónico» y «Recibo de aviso de matrimonio»)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_008.png)
 
@@ -118,9 +120,9 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_027.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1959/16/00900_028.png)
+> Se suprime el «Aviso para la celebración de matrimonio canónico» y «Recibo de aviso de matrimonio» del modelo 6 por la disposición derogatoria única.2 de la Orden JUS/1468/2007, de 17 de mayo. Ref. BOE-A-2007-10702.
 
-> Téngase en cuenta la modificación de los modelos 1 y 2 establecida por los arts. 4 y 5 de la Orden JUS/568/2006, de 8 de febrero, Ref. BOE-A-2006-3764, así como la Orden JUS/644/2006, de 6 de marzo, sobre aclaración de la misma. Ref. BOE-A-2006-4203
+> Téngase en cuenta la modificación de los modelos 1 y 2 establecida por los arts. 4 y 5 de la Orden JUS/568/2006, de 8 de febrero, Ref. BOE-A-2006-3764, así como la Orden JUS/644/2006, de 6 de marzo, sobre aclaración de la misma, en cuanto a la adaptación de los modelos. Ref. BOE-A-2006-4203
 
 > Téngase en cuenta que en los libros de defunciones del Registro Civil quedará en blanco y será cruzado con una raya el dato sobre la causa de la muerte, según establece el art. 1 de la Orden de 6 de junio de 1994 Ref. BOE-A-1994-13489.
 
