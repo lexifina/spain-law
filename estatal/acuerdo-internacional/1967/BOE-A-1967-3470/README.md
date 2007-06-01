@@ -43,6 +43,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO VI](cv-2.md)
 - [Artículo 24](a2-6.md)
 - [Artículo 25](a2-7.md)
+- [Artículo 25 bis](a2-11.md)
 - [Artículo 26](a2-8.md)
 - [CAPÍTULO VII](cv-3.md)
 - [Artículo 27](a2-9.md)
@@ -50,4 +51,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [nu](nu.md)
 - [pa](pa.md)
 - [Instrumento de ratificación](ra.md)
+- [Protocolo](pr-2.md)
 - [(Información relacionada)](ir.md)
