@@ -1,0 +1,9 @@
+## Disposición adicional sexta. Instalaciones de potencia instalada mayor de 50 MW y no superior a 100 MW del Real Decreto 436/2004, de 12 de marzo.
+
+1. Aquellas instalaciones de potencia instalada mayor de 50 MW y no superior a 100 MW, que hubieran estado acogidas a la disposición transitoria primera del Real Decreto 436/2004, de 12 de marzo, por el que se establece la metodología para la actualización y sistematización del régimen jurídico y económico de la actividad e producción de energía eléctrica en régimen especial, tendrán derecho al cobro por energía reactiva regulado en el artículo 29 del presente real decreto.
+
+2. Aquellas de las instalaciones contempladas en el párrafo 1, que utilicen como energía primaria residuos con valorización energética, percibirán una prima por su energía vendida en el mercado de 1,9147 c€/kWh, en lugar de la contemplada en el artículo 45.3 de este real decreto, que será actualizada anualmente con el incremento del IPC, durante un periodo máximo de quince años desde su puesta en servicio.
+
+3. Igualmente, aquellas instalaciones de potencia instalada mayor de 50 MW y no superior a 100 MW que hubieran estado acogidas al artículo 41.2 del Real Decreto 436/2004, de 12 de marzo, que utilicen la cogeneración con gas natural, siempre que éste suponga al menos el 95 por ciento de la energía primaria utilizada, medida por el poder calorífico inferior, y siempre que cumplan los requisitos que se determinan en el anexo, percibirán una prima por su energía vendida en el mercado de 1,9147 c€/kWh, en lugar de la contemplada en el artículo 45.4 de este real decreto, que será actualizada anualmente con el mismo incremento que les sea de aplicación a las instalaciones de la categoría a.1.1 del presente real decreto, durante un periodo máximo de quince años desde su puesta en servicio.
+
+> Redactados los apartados 2 y 3 conforme a la corrección de errores publicada en BOE núm. 177, de 25 de julio. Ref. BOE-A-2007-14234

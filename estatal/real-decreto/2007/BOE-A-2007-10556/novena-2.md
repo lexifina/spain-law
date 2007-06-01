@@ -1,0 +1,3 @@
+## Disposición transitoria novena. Retribución por garantía de potencia para instalaciones de energía renovables no consumibles hasta el 31 de mayo de 2006.
+
+A lo efectos del cálculo por garantía de potencia para las instalaciones de energía primaria renovable no consumible, desde la entrada en vigor del Real Decreto 436/2004, de 12 de marzo, por el que se establece la metodología para la actualización y sistematización del régimen jurídico y económico de la actividad de producción de energía eléctrica en régimen especial y hasta el día 31 de mayo de 2006, si no existen cinco años de producción neta medida del mes m, la retribución de garantía de potencia para dichas instalaciones se calculará valorando la producción neta a 0,48 c€/kWh.
