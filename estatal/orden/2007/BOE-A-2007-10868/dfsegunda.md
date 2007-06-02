@@ -1,0 +1,3 @@
+## Disposición final segunda. Incorporación de derecho de la Unión Europea.
+
+Mediante esta orden se incorporan al derecho español los artículos 5 y 9 de la Directiva 2004/8/CE del Parlamento Europeo y del Consejo, de 11 de febrero de 2004, relativa al fomento de la cogeneración sobre la base de la demanda de calor útil en el mercado interior de la energía y por la que se modifica la Directiva 92/42/CEE, así como los aspectos pendientes de transposición de la Directiva 2001/77/CE del Parlamento Europeo y del Consejo, de 27 de septiembre de 2001, relativa a la promoción de la electricidad generada a partir de fuentes de energía renovables en el mercado interior de la electricidad, excepto los apartados 4 y 5 de su artículo 7.
