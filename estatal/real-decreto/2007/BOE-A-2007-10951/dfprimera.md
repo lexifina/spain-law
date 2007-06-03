@@ -1,0 +1,3 @@
+## Disposición final primera. Modificación del Real Decreto 1027/1989, de 28 de julio, sobre abanderamiento, matriculación de buques y registro marítimo.
+
+Las referencias que el Real Decreto 1027/1989 sobre abanderamiento, matriculación de buques y registro marítimo hace a los Jefes Provinciales de la Marina Mercante, a los Inspectores Provinciales de Seguridad Marítima, Buques y Comunicaciones y a las Provincias Marítimas deberán entenderse hechas, respectivamente, a los Capitanes Marítimos, a los Jefes de Distrito, a los Inspectores Navales, a los Inspectores Marítimos Náuticos, de Máquinas y de Radio, y a las Capitanías Marítimas.
