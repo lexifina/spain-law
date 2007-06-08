@@ -1,0 +1,5 @@
+## Disposición adicional primera. Comunidades Autónomas.
+
+1. Esta orden se considera incluida en la relación de normas reguladoras de subvenciones concedidas por el Servicio Público de Empleo Estatal, a los efectos establecidos en los correspondientes Reales Decretos sobre traspaso a las Comunidades Autónomas de la gestión realizada por el Servicio Público de Empleo Estatal en el ámbito del trabajo, el empleo y la formación.
+
+2. Las Comunidades Autónomas que hayan asumido el traspaso de la gestión realizada por el Servicio Público de Empleo Estatal en el ámbito del trabajo, el empleo y la formación así como de los programas de apoyo al mismo ejercerán las funciones que les correspondan según lo dispuesto en los Reales Decretos de traspaso. Dicha gestión se realizará de acuerdo con lo dispuesto en el Real Decreto 357/2006, de 24 de marzo, las disposiciones generales establecidas en el capítulo I de esta orden y las normas de procedimiento y bases reguladoras para la concesión de subvenciones que dicten las Comunidades Autónomas para su ejecución en función de su propia organización.
