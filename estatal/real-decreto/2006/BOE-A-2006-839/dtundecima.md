@@ -1,3 +1,5 @@
 ## Disposición transitoria undécima. Secretarios Judiciales destinados en el Ministerio de Justicia.
 
-Hasta que entren en funcionamiento las Unidades Procesales de Apoyo Directo de las Salas del Tribunal Superior de Justicia de Madrid, los Secretarios Judiciales destinados en el Ministerio de Justicia percibirán las retribuciones complementarias correspondientes a un Secretario de Audiencia Provincial, Grupo primero, cuando pertenezcan a la primera y segunda categorías, y las retribuciones complementarias correspondientes a un Secretario de Audiencia Provincial, Grupo quinto, cuando pertenezcan a la tercera categoría del Cuerpo de Secretarios Judiciales.
+(Anulada)
+
+> Se anula por Sentencia del TS de 9 de abril de 2007. Ref. BOE-A-2007-11499
