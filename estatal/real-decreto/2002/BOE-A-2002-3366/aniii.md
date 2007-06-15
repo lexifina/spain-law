@@ -243,7 +243,7 @@
 | Patatas deshidratadas | SO2 E-310 a E-312 E-320 | 400 25 (galatos, y BHA, por separado ó en combinación) |
 | Masa de patata | Sa SO2 | 2.000 100 |
 | Maíz dulce envasado al vacío | SO2 | 100 |
-| Tratamiento de superficie de los cítricos | E-231* E-232* | 12 |
+| Tratamiento de superficie de los cítricos | E-231* E-232* | 12. |
 | * La supresión del E-231 y E-232 entrará en vigor tan pronto como los requisitos de etiquetado de los alimentos tratados con dichas sustancias sean de aplicación, en virtud de la legislación comunitaria sobre contenidos máximos de residuos de plaguicidas. |
 | QUESOS |  |  |
 | Queso en lonchas envasado | Sa | 1.000 |
@@ -273,8 +273,8 @@
 | Tratamiento de superficie de sucedáneos de queso | Sa E-280 a E-283 | Quantum satis Quantum satis |
 | (1) Sólo para sucedáneos de carne, pescado y crustáceos |
 | TURRONES Y MAZAPANES |  |  |
-| Turrones y Mazapanes | Sa | 1.000 |
-|  | E-310 a E-312 E-320 | 200 (Galatos y BHA solos ó en combinación) expresados sobre la grasa |
+| Turrones y Mazapanes | Sa + Ba + PHB | 1500 (máx. 300 PHB) |
+|  | E-310 a E-312 E-320 | 200 (Galatos y BHA, solos o en combinación) expresados sobre la grasa |
 | VINAGRE |  |  |
 | Vinagre de fermentación | SO2 | 170 |
 | VINOS |  |  |
@@ -330,5 +330,7 @@
 | Gelatina | SO2 | 50 |
 | Ensaladas preparadas | Sa + Ba | 1.500 |
 | Frutos secos transformados | E-310 a E-312 E-320 | 200 (galatos y BHA, separados ó en combinación) expresados sobre la grasa. |
+
+> Se modifica por el art. único del Real Decreto 698/2007, de 1 de junio. Ref. BOE-A-2007-11674.
 
 > Se modifica por el art. único.3 y anexo 3 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.
