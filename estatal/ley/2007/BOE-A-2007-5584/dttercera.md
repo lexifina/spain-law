@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Exenciones fiscales y reducciones arancelarias.
+
+Durante el plazo de un año contado desde la entrada en vigor de esta Ley, los actos y documentos precisos para que las sociedades constituidas con anterioridad se adapten a sus disposiciones estarán exentos del Impuesto sobre Transmisiones Patrimoniales, en sus modalidades de operaciones societarias y de actos jurídicos documentados, y disfrutarán de la reducción que determine el Consejo de Ministros a propuesta del de Justicia en los derechos que los Notarios y los Registradores Mercantiles hayan de percibir como consecuencia de la aplicación de los respectivos aranceles.

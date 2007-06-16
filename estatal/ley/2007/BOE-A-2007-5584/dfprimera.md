@@ -1,0 +1,3 @@
+## Disposición final primera. Carácter de la Ley.
+
+Los preceptos de esta Ley son de aplicación plena, y se dictan en virtud de lo dispuesto en el artículo 149.1.6.ª de la Constitución; así como, en lo que se refiere al artículo 8, apartados 1, 2 y 3, al amparo del artículo 149.1.8.ª de la Constitución; y en lo relativo al artículo 8, apartados 4, 5 y 6, el artículo 9 y la disposición transitoria segunda, al amparo del artículo 149.1.8.ª y 18.ª de la Constitución; que declaran respectivamente la competencia exclusiva del Estado en materia de legislación mercantil, ordenación de los registros e instrumentos públicos y bases del régimen jurídico de las administraciones públicas.
