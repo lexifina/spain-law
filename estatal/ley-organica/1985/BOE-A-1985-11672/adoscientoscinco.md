@@ -8,4 +8,6 @@
 
 4. Si en aplicación de los párrafos anteriores se produjera coincidencia de cocientes entre distintos partidos, coaliciones, federaciones y agrupaciones, la vacante se atribuye al que mayor número de votos ha obtenido, y en caso de empate, al de mayor número de Concejales en el partido judicial. Subsidiariamente se resolverá el empate por sorteo.
 
+> Véase, para la interpretación del apartado 1, la Instrucción 9/2007, de 19 de junio, de la Junta Electoral Central. Ref. BOE-A-2007-12200
+
 > Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 17 del 20 de enero de 1986. Ref. BOE-A-1986-1478
