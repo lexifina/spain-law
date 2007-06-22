@@ -10,6 +10,7 @@ A) Porcentajes mínimos de pureza específica, germinación y máximos de semill
 | --- | --- | --- | --- |
 | Acelga | 97 | 70 (gl.) | 0,5 |
 | Achicoria industrial | 97 | 70 | 1 |
+| Ajo | 97 | 65 | 0,5 |
 | Apio | 97 | 80 | 1,0 |
 | Berenjena | 96 | 65 | 0,5 |
 | Berza | 97 | 75 | 1,0 |
@@ -18,7 +19,9 @@ A) Porcentajes mínimos de pureza específica, germinación y máximos de semill
 | Calabacín | 98 | 75 | 0,1 |
 | Calabaza | 98 | 85 | 0,1 |
 | Cardo | 96 | 65 | 0,5 |
-| Cebolla | 97 | 70 | 0,5 |
+| Cebolla y Chalota | 97 | 70 | 0,5 |
+| Cebolleta | 97 | 65 | 0,5 |
+| Cebollino | 97 | 65 | 0,5 |
 | Col china | 97 | 75 | 1,0 |
 | Col de Bruselas | 97 | 75 | 1,0 |
 | Col de Milán | 97 | 75 | 1,0 |
@@ -39,6 +42,7 @@ A) Porcentajes mínimos de pureza específica, germinación y máximos de semill
 | Lechuga | 95 | 75 | 0,5 |
 | Lenteja | 98 | 80 | 0,1 |
 | Lombarda | 97 | 75 | 1,0 |
+| Maíz dulce y Maíz para palomitas | 98 | 85 | 0,1 |
 | Melón | 98 | 75 | 0,1 |
 | Nabo | 97 | 80 | 1,0 |
 | Pepino | 98 | 80 | 0,1 |
@@ -47,6 +51,7 @@ A) Porcentajes mínimos de pureza específica, germinación y máximos de semill
 | Puerro | 97 | 65 | 0,5 |
 | Rábano | 97 | 70 | 1,0 |
 | Remolacha | 97 | 70 (gl.) | 0,5 |
+| Ruibardo | 97 | 70 | 0,5 |
 | Sandía | 98 | 75 | 0,1 |
 | Tomate | 97 | 75 | 0,5 |
 | Zanahoria | 95 | 65 | 1,0 |
@@ -78,6 +83,8 @@ Especies alógamas (el resto de las especies citadas en el epígrafe I).
 – Semilla Certificada: 98 por 100.
 
 – Semilla standard: 95 por 100.
+
+> Se modifica por el art. 1.2 de la Orden APA/1818/2007, de 13 de junio. Ref. BOE-A-2007-12197.
 
 > Se modifica por el apartado 10.7 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.
 
