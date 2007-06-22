@@ -14,6 +14,8 @@ e) En caso de incapacidad permanente parcial por accidente, y en función de la 
 
 f) Asistencia en viaje: 45.000 euros.
 
-g) Asistencia sanitaria: 1.000.000 euros.
+g) Asistencia sanitaria: 100.000 euros.
 
 Los capitales asegurados de incapacidad permanente total para la profesión habitual, incapacidad permanente absoluta para cualquier profesión y gran invalidez no son, en su caso, acumulativos.
+
+> Se modifica la letra g) por el apartado 1 de la Orden AEC/1817/2007, de 15 de junio. Ref. BOE-A-2007-12195.
