@@ -1,8 +1,8 @@
 III. Ensayos de identificación
 
-10. En lo que respecta a la distinción, estabilidad y homogeneidad para las especies recogidas en el Anexo 1, la realización de los exámenes oficiales para la admisión de variedades cumplirán las condiciones establecidas en los "Protocolos para los exámenes de distinción, homogeneidad y estabilidad", dictados por el Consejo de Administración de la Oficina Comunitaria de Variedades Vegetales (OCVV) que se citan en dicho Anexo.
+10. En lo que respecta a la distinción, estabilidad y homogeneidad para las especies recogidas en el anexo E, la realización de los exámenes oficiales para la admisión de variedades cumplirán las condiciones establecidas en los "Protocolos para los exámenes de distinción, homogeneidad y estabilidad", dictados por el Consejo de Administración de la Oficina Comunitaria de Variedades Vegetales (OCVV) que se citan en dicho anexo.
 
-En lo que respecta a la distinción, estabilidad y homogeneidad, las variedades de las especies recogidas en el Anexo 2, cumplirán las directrices de examen, de la Unión Internacional para la Protección de las Obtenciones Vegetales (UPOV) que se citan en dicho Anexo.
+En lo que respecta a la distinción, estabilidad y homogeneidad, las variedades de las especies recogidas en el anexo F, cumplirán las directrices de examen, de la Unión Internacional para la Protección de las Obtenciones Vegetales (UPOV) que se citan en dicho anexo.
 
 Al menos se contemplarán todos los caracteres a los que hace referencia el párrafo primero y todos los caracteres señalados con un asterisco de las directrices de examen a las que hace referencia el párrafo segundo, siempre y cuando la expresión de alguno de ellos no impida la observación de otros, o las condiciones ambientales en que se efectúe el ensayo, no impidan la expresión de algunos de ellos.
 
@@ -15,6 +15,8 @@ Si los resultados obtenidos en el primer año o ciclo demostraran graves deficie
 Para las especies citadas en el punto anterior, los requisitos mínimos en relación con el diseño de la prueba y las condiciones de cultivo se efectuarán de conformidad con lo dispuesto en las directrices mencionadas y deberán cumplirse en el momento de la realización de los exámenes.
 
 Doce. Por los miembros de la Comisión Nacional de Estimación de Hortícolas que, de acuerdo con el apartado 26 del Reglamento General ha de constituirse, se visitarán dichos campos con el fin de elaborar los informes correspondientes a la posible inscripción de la variedad en el Registro.
+
+> Se modifica el apartado 10 por el art. único.1 de la Orden APA/1820/2007, de 13 de junio. Ref. BOE-A-2007-12199.
 
 > Se modifican los apartados 10 y 11 por el art. 1.1 y 2 de la Orden APA/530/2004, de 13 de febrero. Ref. BOE-A-2004-3865.
 
