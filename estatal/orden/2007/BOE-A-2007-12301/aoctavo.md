@@ -1,0 +1,11 @@
+## Artículo octavo. Informe personal por traslado.
+
+1. Para garantizar la continuidad del proceso de aprendizaje de quienes se trasladen a otro centro sin haber concluido el ciclo en la Educación primaria o el curso en la Educación secundaria obligatoria, se emitirá un informe personal en el que se consignarán los siguientes elementos:
+
+a) Resultados parciales de evaluación, en el caso de que se hubieran emitido en ese período.
+
+b) Aplicación, en su caso, de medidas educativas complementarias de refuerzo y apoyo, así como las adaptaciones curriculares realizadas.
+
+c) Todas aquellas observaciones que se consideren oportunas acerca del progreso general del alumno.
+
+2. El informe personal por traslado será elaborado y firmado por el tutor, con el visto bueno del director, a partir de los datos facilitados por los profesores de las áreas, materias o módulos.

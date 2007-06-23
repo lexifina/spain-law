@@ -1,0 +1,7 @@
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su artículo 6.2 y en relación con los objetivos, competencias básicas, contenidos y criterios de evaluación del currículo, establece que el Gobierno fijará los aspectos básicos del currículo, que constituyen las enseñanzas mínimas, con el fin de garantizar una formación común a todo el alumnado y la validez de los títulos correspondientes.
+
+Las enseñanzas mínimas correspondientes a la Educación primaria y Educación secundaria obligatoria han sido establecidas, respectivamente, por los Reales Decretos 1513/2006, de 7 de diciembre, y 1631/2006, de 29 de diciembre. Estos reales decretos disponen que el Ministerio de Educación y Ciencia, previo informe de las comunidades autónomas, determinará los elementos de los documentos básicos de evaluación, así como los requisitos formales derivados del proceso de evaluación que sean precisos para garantizar la movilidad del alumnado.
+
+Una vez regulado el calendario de implantación de la nueva ordenación del sistema educativo, procede establecer los documentos básicos que han de reflejar los aprendizajes realizados por el alumnado y que deben permitir su movilidad de uno a otro nivel o etapa y entre centros escolares de la misma o de distinta comunidad autónoma, en las debidas condiciones de continuidad.
+
+En su virtud, previo informe del Consejo Escolar del Estado y consultadas las comunidades autónomas, dispongo:
