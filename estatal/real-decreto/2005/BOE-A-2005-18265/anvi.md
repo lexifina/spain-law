@@ -1,9 +1,14 @@
 ## ANEXO VI
 
-## Retribuciones del personal de la antigua Escala a extinguir de la Guardia Real
+## Retribuciones mensuales del personal de la antigua Escala a extinguir de la Guardia Real
 
-| Empleo | Sueldo (euros) | Complemento de destino (euros) | Complemento especifico normalizado (euros) |
+| Empleo | Sueldo - Euros | C. Destino - Euros | C. Específico - Euros |
 | --- | --- | --- | --- |
-| Cabo primero | 676,70 | 295,69 | 141,86 |
-| Cabo | 676,70 | 252,12 | 135,09 |
-| Guardia | 676,70 | 208,61 | 129,85 |
+|  |
+| Cabo primero | 704,05 | 307,65 | 151,73 |
+| Cabo | 704,05 | 262,32 | 148,19 |
+| Guardia | 704,05 | 217,05 | 143,02 |
+
+> Se modifica por el art. único.9 del Real Decreto 789/2007, de 15 de junio. Ref. BOE-A-2007-12303
+
+> Esta modificación tiene efectos económicos desde 1 de enero de 2007, según establece la disposición final 2.

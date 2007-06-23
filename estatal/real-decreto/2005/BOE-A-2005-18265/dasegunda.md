@@ -6,4 +6,8 @@
 
 3. Los trienios perfeccionados con anterioridad a la entrada en vigor de este reglamento se mantendrán de acuerdo con las disposiciones vigentes en el momento en el que se perfeccionaron, así como la exclusión del tiempo del servicio militar obligatorio a los efectos de trienios, según la duración de este servicio en las sucesivas leyes que lo han establecido.
 
-> Este art. tiene efectos económicos de 1 de noviembre de 2005, según establece la disposición final 3.
+4. El personal de tropa y marinería con una relación de carácter temporal que hubiera suscrito un compromiso de larga duración devengará trienios, computándose a estos efectos el tiempo de servicios efectivos desde la fecha de inicio del compromiso inicial.
+
+> Se añade el apartado 4 por el art. único.7 del Real Decreto 789/2007, de 15 de junio. Ref. BOE-A-2007-12303
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 2.
