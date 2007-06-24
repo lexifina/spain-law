@@ -1,3 +1,5 @@
 ## Artículo trigésimo octavo. Industria de interés preferente.
 
-El Gobierno puede declarar de interés preferente el sector industrial del libro o parte del mismo, sin perjuicio de los beneficios que se establecen en esta Ley.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.2.a) de la Ley 10/2007, de 22 de junio de 2007. Ref. BOE-A-2007-12351.

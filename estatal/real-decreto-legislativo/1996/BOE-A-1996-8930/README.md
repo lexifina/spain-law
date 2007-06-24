@@ -252,5 +252,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria decimoséptima](dtdecimoseptima.md)
 - [Disposición transitoria decimoctava](dtdecimoctava.md)
 - [Disposición transitoria decimonovena](dtdecimonovena.md)
+- [Disposición transitoria vigésima](dtvigesima.md)
 - [Disposición derogatoria única](ddunica-2.md)
 - [Disposición final única](dfunica-2.md)
