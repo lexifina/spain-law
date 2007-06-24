@@ -1,11 +1,7 @@
 ## Disposición adicional decimoctava. Presentación telemática de solicitudes y comunicaciones dirigidas a la Administración General del Estado y sus Organismos Públicos.
 
-1. La presentación de solicitudes y comunicaciones, así como de la documentación complementaria exigida, por las empresas que agrupen a más de cien trabajadores o tengan la condición de gran empresa a efectos del Impuesto sobre el Valor Añadido, así como por cualesquiera institución o entidad de derecho público deberá realizarse necesariamente por medios telemáticos en aquellos supuestos y condiciones que se determinen por Orden del titular del departamento ministerial competente. En dicha Orden, que deberá ser informada previamente por el Ministerio de Administraciones Públicas, se especificarán las solicitudes y comunicaciones afectadas, los procedimientos a los que se refieren y la tipología de empresas y entidades que resulten afectados.
+(Derogada).
 
-2. Las personas físicas, organizaciones o asociaciones no contempladas en el apartado anterior, pertenecientes a colectivos o sectores que ordinariamente hagan uso de este tipo de técnicas y medios en el desarrollo de su actividad normal, deberán necesariamente utilizar medios telemáticos para la presentación de solicitudes, comunicaciones y documentación complementaria exigida en aquellos supuestos y condiciones en que se determine por Orden del titular del departamento ministerial competente, que deberá ser informada previamente por el Ministerio de Administraciones Públicas. En dicha Orden, además de las especificaciones expresadas en el apartado anterior, deberá acreditarse que la necesaria utilización de medios telemáticos no implica restricción o discriminación alguna para los integrantes del sector o colectivo que resulte afectado en el ejercicio de sus derechos frente a la Administración Pública.
+> Se deroga por la disposición derogatoria única de la Ley 11/2007, de 22 de junio. Ref. BOE-A-2007-12352#ddunica.
 
-3. La aportación de certificaciones tributarias o de Seguridad Social junto con las solicitudes y comunicaciones a que se refieren los apartados anteriores se sustituirá, siempre que se cuente con el consentimiento expreso de los interesados, por la cesión de los correspondientes datos al órgano gestor por parte de las Entidades competentes.
-
-4. Lo dispuesto en la presente disposición se ajustará a lo dispuesto en la Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal,en la presente Ley, en la vigente normativa sobre firma electrónica y en las correspondientes normas de desarrollo.
-
-> Se añade por el art. 68.3 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+> Se añade por el art. 68.3 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965#a68.

@@ -1,0 +1,9 @@
+## Disposición final tercera. Adaptación de las Administraciones Públicas para el ejercicio de derechos.
+
+1. Desde la fecha de entrada en vigor de la presente Ley, los derechos reconocidos en el artículo 6 de la presente ley podrán ser ejercidos en relación con los procedimientos y actuaciones adaptados a lo dispuesto en la misma, sin perjuicio de lo señalado en los siguientes apartados. A estos efectos, cada Administración Pública hará pública y mantendrá actualizada la relación de dichos procedimientos y actuaciones.
+
+2. En el ámbito de la Administración General del Estado y los organismos públicos vinculados o dependientes de ésta, los derechos reconocidos en el artículo 6 de la presente ley podrán ser ejercidos en relación con la totalidad de los procedimientos y actuaciones de su competencia a partir del 31 de diciembre de 2009. A tal fin, el Consejo de Ministros establecerá y hará público un calendario de adaptación gradual de aquellos procedimientos y actuaciones que lo requieran.
+
+3. En el ámbito de las Comunidades Autónomas, los derechos reconocidos en el artículo 6 de la presente ley podrán ser ejercidos en relación con la totalidad de los procedimientos y actuaciones de su competencia a partir del 31 de diciembre de 2009 siempre que lo permitan sus disponibilidades presupuestarias.
+
+4. En el ámbito de las Entidades que integran la Administración Local, los derechos reconocidos en el artículo 6 de la presente ley podrán ser ejercidos en relación con la totalidad de los procedimientos y actuaciones de su competencia a partir del 31 de diciembre de 2009 siempre que lo permitan sus disponibilidades presupuestarias. A estos efectos las Diputaciones Provinciales, o en su caso los Cabildos y Consejos Insulares u otros organismos supramunicipales, podrán prestar los servicios precisos para garantizar tal efectividad en el ámbito de los municipios que no dispongan de los medios técnicos y organizativos necesarios para prestarlos.
