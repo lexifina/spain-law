@@ -2,7 +2,7 @@
 
 ## Lista de sustancias
 
-| Nº | Número CAS1 | A.1. Contaminantes/sustancias respecto de los que, en todo caso, hay que suministrar información cuando se emitan de forma significativa, de acuerdo con el art. 3.4 (1) | Valores umbrales de emisiones (2.a) |
+| Nº | Número CAS1 | A.1. Contaminantes/sustancias respecto de los que, en todo caso, hay que suministrar información. | Valores umbrales de emisiones (2.a) |
 | --- | --- | --- | --- |
 | A.2. Valor umbral de información pública de emisiones a la atmósfera kg/año) | A.3. Valor umbral de información pública de emisiones al agua (kg/año) | A.4. Valor umbral de información pública de emisiones al suelo (kg/año) |
 | 1 | 74-82-8 | Metano (CH4) | 100.000 | - (2.b) | - |
@@ -105,10 +105,10 @@
 | 97 |  | Vanadio | (18) |  |  |
 | Otras sustancias emitidas al agua y al suelo |
 | 98 |  | DQO |  | (18) | (18) |
-| 200 |  | o,p’-DDT |  | (18), (19) | (18), (19) |
-| 201 |  | p,p’-DDD |  | (18), (19) | (18), (19) |
-| 202 |  | p,p’-DDE |  | (18), (19) | (18), (19) |
-| 203 |  | p,p’-DD |  | (18), (19) | (18), (19) |
+| 200 |  | o,p′-DDT |  | (18), (19) | (18), (19) |
+| 201 |  | p,p′-DDD |  | (18), (19) | (18), (19) |
+| 202 |  | p,p′-DDE |  | (18), (19) | (18), (19) |
+| 203 |  | p,p′-DD |  | (18), (19) | (18), (19) |
 | 204 | 50-32-8 | Benzo(a)pireno |  | (18), (19) | (18), (19) |
 | 205 | 205-99-2 | Benzo(b)fluoranteno |  | (18), (19) | (18), (19) |
 | 206 | 207-08-9 | Benzo(k)fluoranteno |  | (18), (19) | (18), (19) |
@@ -127,3 +127,5 @@
 | Notas: (1) A no ser que se indique otra cosa, los datos de emisiones deberán de indicarse como masa total de contaminante para el caso de contaminantes individuales o como masa total del grupo, cuando el contaminante esté constituido por un grupo de sustancias. (2) a).- Los umbrales de emisiones indicados en esta tabla, indican los valores umbrales por encima de los cuales los datos de emisiones notificados serán públicos. b).- Un guión (-) indica que el parámetro y medio en cuestión no entraña la obligación de notificar la información. (3) Masa total de hidrofluorocarburos (HFC) expresados como las suma de HFC23, HFC32, HFC41, HFC4310mee, HFC125, HFC134, HFC134a, HFC152a, HFC143, HFC143a, HFC227ea, HFC236fa, HFC245ca, HFC365mfc. (4) Masa total de Perfluorcarburos (PFC) expresados como la suma de CF4, C2F6, C3F8, C4F10, c-C4F8, C5F12, C6F14 (5) Hidroclorofluorocarburos, (HCFC): masa total de las sustancias, incluidos sus isómeros, enumeradas en el grupo VIII del anexo I del Reglamento (CE) nº 2037/2000 del Parlamento Europeo y del Consejo, de 29 de junio de 2000, sobre las sustancias que agotan la capa de ozono (DO L 244 de 29.9.2000, p. 1). Reglamento modificado por el Reglamento (CE) nº 1804/2003 (DO L 265 de 16.10.2003, p. 1). (6) Clorofluorocarburos (CFC): masa total de las sustancias incluidas en el Grupo I y II del anexo 1 del Reglamento 2000/2037 CE incluidos sus isómeros. (7) Halones: masa total de las sustancias incluidas en el Grupo III y VI del anexo 1 del Reglamento 2000/2037 CE incluidos sus isómero. (8) Todos los metales se deberán notificar como masa total del elemento en todas las formas químicas que se presenten en la emisión. (9) Compuestos orgánicos halogenados (AOX) adsorbibles en carbón activo expresado como cloruro. (10) Expresado como I-TEQ. (11) En caso de que se supere el umbral de BTEX (suma de benceno, tolueno, etilbenceno y xilenos) deberá notificarse cada uno de los contaminantes de forma individual. (12) Masa total de los siguientes bromodifeniléteres (PBDE): penta-BDE, octa-BDE y deca-BDE. (13) Masa total de fenoles y fenoles monosustituidos (sustituidos simples) expresados como carbono total. (14) Para la información sobre emisiones a la atmósfera, los hidrocarburos aromáticos policíclicos (HAP) incluyen el benzo(a)pireno (50-32-8), el benzo(b)fluoranteno (205-99-2), el benzo(k)fluoranteno (207-08-9) y el indeno(1,2,3-cd)pireno (193-39-5) (con arreglo al Protocolo relativo a los contaminantes orgánicos persistentes del Convenio sobre la contaminación atmosférica transfronteriza a gran distancia y al Reglamento (CE) nº 850/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004 relativo a los contaminantes orgánicos persistentes (DO L 229 de 29.6.2004, p. 5). (15) Masa total de los compuestos de tributilestaño expresados como masa de tributilestaño. (16) Masa total de lo compuestos de trifenilestaño expresado como masa de trifenilestaño. (17) Masa total de xilenos (ortho-xileno, meta-xileno, para-xileno). (18) Se notificarán las emisiones de estas sustancias, aunque no serán incluidos, en principio, dichos datos en la información que el Ministerio de Medio Ambiente, en cumplimiento de los requisitos de información, deba remitir a organismos europeos o cualquiera otro de carácter internacional. (19) Deberán notificarse los datos de emisiones de estas sustancias de forma individualizada y de forma global de acuerdo con el número correspondiente de la lista de sustancias. Así, deberá notificarse el DDT total, sustancia 33 y las sustancias 200 a 203, isómeros del DDT, deberán notificarse de forma individualizada. Del mismo modo las sustancias 204 al 207 respecto a los hidrocarburos aromáticos policíclicos (HAP), sustancia número 72; las sustancias 208 a 210 respecto a la sustancia número 54 triclorobencenos; las sustancias 211 a 213 respecto a la sustancia número 78 xilenos (ver nota 17) y las sustancias 214 a 216 respecto a la sustancia 63 bromodifenileteres (ver nota 12). |
 
 Número CAS1: número dado por 'Chemical Abstrac Service' para el contaminate/sustancia indicado
+
+> Se modifica el título del apartado A.1 por la disposición final 1.2 del Real Decreto 812/2007, de 22 de junio. Ref. BOE-A-2007-12354
