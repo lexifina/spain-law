@@ -1,0 +1,3 @@
+## Artículo 9. Registro de exportadores y otros operadores económicos en régimen comercial.
+
+El modelo 036 de declaración censal de modificación servirá, asimismo, para que los empresarios o profesionales que tengan derecho al procedimiento de devolución que se regula en el artículo 30 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el artículo 1 del Real Decreto 1624/1992, de 29 de diciembre, soliciten la inscripción, así como la baja en su caso, en el Registro de exportadores y otros operadores económicos en régimen comercial, el cual también forma parte del Censo de empresarios, profesionales y retenedores.
