@@ -255,6 +255,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO III](ciii-6.md)
 - [Artículo 189](a189.md)
 - [Artículo 190](a190.md)
+- [Artículo 190 bis](a190bis.md)
 - [Artículo 191](a191.md)
 - [TÍTULO IX](tix.md)
 - [CAPÍTULO I](ci-9.md)
