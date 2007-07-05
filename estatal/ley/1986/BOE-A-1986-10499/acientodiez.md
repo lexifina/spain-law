@@ -1,3 +1,5 @@
 ## Artículo ciento diez
 
-Corresponde a la Administración Sanitaria del Estado valorar la seguridad, eficacia y eficiencia de las tecnologías relevantes para la salud y la asistencia sanitaria.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única de la Ley 14/2007, de 3 de julio. Ref. BOE-A-2007-12945.

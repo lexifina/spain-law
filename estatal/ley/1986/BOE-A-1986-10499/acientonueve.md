@@ -1,7 +1,5 @@
 ## Artículo ciento nueve
 
-En la financiación de la investigación se tendrán en cuenta los siguientes criterios:
+(Derogado)
 
-a) Establecimiento de un presupuesto anual mínimo de investigación, consistente en un 1 por 100 de los presupuestos globales de salud, que se alcanzará progresivamente a partir de la promulgación de la presente Ley.
-
-b) Evaluación sanitaria y económica de las inversiones en investigación.
+> Se deroga por la disposición derogatoria única de la Ley 14/2007, de 3 de julio. Ref. BOE-A-2007-12945.

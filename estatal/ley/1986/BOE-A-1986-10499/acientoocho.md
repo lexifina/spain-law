@@ -1,3 +1,5 @@
 ## Artículo ciento ocho
 
-En las áreas y objetivos prioritarios se desarrollarán programas específicos de formación de recursos para cubrir las respectivas necesidades. Se regulará la dedicación a la investigación de quienes participan en la información, asistencia, docencia y administración.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única de la Ley 14/2007, de 3 de julio. Ref. BOE-A-2007-12945.
