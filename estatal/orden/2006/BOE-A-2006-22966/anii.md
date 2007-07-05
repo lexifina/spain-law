@@ -29,3 +29,15 @@ y: 100 puntos básicos.
 Para el cálculo de la variación de los índices de precios en el año «n», se tomará como valor la última variación interanual disponible cuando se efectúe el cálculo.
 
 La revisión de los valores unitarios se efectuará cada 4 años.
+
+3. Los valores unitarios de referencia de los costes de operación y mantenimiento fijos, COMFi2006, aplicables durante el año 2006 a las instalaciones de regasificación puestas en marcha durante dicho año se calcularán de acuerdo a la siguiente fórmula:
+
+COMFi2006 = COMFi2007 /(1+IA2007)
+
+Siendo:
+
+COMFi2007 el valor publicado en el apartado 1 del presente anexo.
+
+IA2007 el índice de actualización (IA) establecido en el apartado anterior.
+
+> Se añade el apartado 3 por la disposición final 1.2 de la Orden ITC/1968/2007, de 2 de julio. Ref. BOE-A-2007-12949.

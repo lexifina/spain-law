@@ -1,1 +1,1 @@
-Norma derogada, en lo que se oponga a la Orden de 10 de mayo de 1999, según establece el apartado 4 de la citada Orden. Ref. BOE-A-1999-10737
+Téngase en cuenta que esta norma ha sido derogada, en lo que se oponga, por el apartado 4 de la Orden de 10 de mayo de 1999, Ref. BOE-A-1999-10737 y que la Orden ITC/1968/2007, de 2 de julio, Ref. BOE-A-2007-12949 ha incidido sobre el sistema de determinación automática de precios máximos de venta de los gases licuados del petróleo.
