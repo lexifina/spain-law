@@ -16,13 +16,17 @@ En defecto de norma específica, al procedimiento de determinación del valor ca
 
 En los municipios en los que se realice el procedimiento de valoración colectiva general a que se refiere este apartado y hasta que entre en vigor el citado desarrollo reglamentario, se aplicarán estas mismas reglas a la valoración tanto de las variaciones que experimenten las construcciones en suelo rústico, como de las nuevas construcciones que sobre el mismo se levanten.
 
-2. Los bienes inmuebles de características especiales que, a la entrada en vigor de la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, constaran en el Catastro Inmobiliario conforme a su anterior naturaleza, mantendrán, hasta la entrada en vigor de los nuevos valores resultantes de las ponencias especiales que se aprobarán antes del 1 de octubre de 2007, su valor catastral, sin perjuicio de su actualización cuando proceda, así como el régimen de valoración.
+2. Los bienes inmuebles de características especiales que, a la entrada en vigor de la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, constaran en el Catastro Inmobiliario conforme a su anterior naturaleza, mantendrán, hasta la entrada en vigor de los nuevos valores resultantes de las ponencias especiales que se aprobarán antes del 31 de diciembre de 2007, su valor catastral, sin perjuicio de su actualización cuando proceda, así como el régimen de valoración.
 
 La incorporación al Catastro Inmobiliario de los restantes inmuebles que, conforme a esta Ley, tengan la condición de bienes inmuebles de características especiales se practicará antes del 31 de diciembre de 2005.
 
 3. La descripción de los bienes inmuebles contenida en el Catastro Inmobiliario a la entrada en vigor de la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, se mantendrá hasta que tenga lugar la práctica de otra posterior conforme a los procedimientos de incorporación regulados en esta ley o hasta que por cualquier otro medio se modifique, sin perjuicio de la actualización de valores.
 
 No obstante, será a partir del 1 de enero de 2005 cuando se incorporen las titularidades que correspondan conforme a los supuestos y reglas de esta ley, siempre que así resulte de los procedimientos de declaración, comunicación, solicitud, subsanación de discrepancias e inspección catastral previstos en ella e iniciados con posterioridad a la citada fecha.
+
+> Se amplía el plazo del primer párrafo del apartado 2 por la disposición adicional 7.4 de la Ley 16/2007, de 4 de julio. Ref. BOE-A-2007-13023
+
+> Téngase en cuenta que la entrada en vigor de esta modificación es el 6 de julio de 2007 en lugar de 1 de enero de 2008, según establece la disposición final 2 de la Ley 16/2007, de 4 de julio, en la redacción dada por la disposición final 4.2 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744.
 
 > Se modifica el apartado 1 por el art. 10.6 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843
 
