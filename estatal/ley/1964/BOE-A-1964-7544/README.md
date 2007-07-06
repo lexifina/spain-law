@@ -125,4 +125,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo noventa y seis](anoventayseis.md)
 - [Artículo noventa y siete](anoventaysiete.md)
 - [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
 - [firma](firma.md)

@@ -10,6 +10,8 @@ c) Producción y suministro de gases licuados del petróleo.
 
 d) Producción y suministro de gas natural.
 
-La Comisión Nacional de Energía hará público por medios telemáticos el listado de operadores dominantes a los que se refiere esta disposición adicional.
+La Comisión Nacional de Energía, previo acuerdo del Consejo de Reguladores del MIBEL, hará público por medios telemáticos el listado de operadores dominantes a los que se refiere esta disposición adicional.
+
+> Se modifica el último párrafo por la disposición adicional 4.2 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024.
 
 > Se añade por el art. 19 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172.

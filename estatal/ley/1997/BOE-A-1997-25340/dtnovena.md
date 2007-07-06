@@ -10,8 +10,10 @@ A las transmisiones de elementos patrimoniales derivadas de la aplicación de es
 
 2. La sociedad mercantil que, de acuerdo con el artículo 33 de la presente Ley, ha de asumir las funciones del operador del mercado será constituida por «Red Eléctrica de España, Sociedad Anónima», que suscribirá aquella parte del capital que no sea atendida por otros accionistas, debiendo en el plazo de seis meses proceder a la enajenación de dicha participación.
 
-3. Sin perjuicio de lo previsto en el artículo 13.4 de la presente Ley, los contratos que, teniendo por objeto intercambios intracomunitarios e internacionales de energía eléctrica a largo plazo hubieran sido suscritos por «Red Eléctrica de España, Sociedad Anónima» con anterioridad a la entrada en vigor de la presente Ley, mantendrán su vigencia hasta que se produzca su extinción, conforme al período de finalización pactado en el contrato.
+3. Sin perjuicio de lo previsto en el artículo 13.4 de la presente Ley, los contratos que, teniendo por objeto intercambios intracomunitarios e internacionales de energía eléctrica a largo plazo hubieran sido suscritos por «Red Eléctrica de España, S. A.» con anterioridad a la entrada en vigor de la presente Ley, mantendrán su vigencia hasta que se produzca su extinción.
 
-La energía que tenga su origen en los mencionados contratos, se retribuirá al precio y en las condiciones previstas en los mismos y quedará excluida del sistema de ofertas.
+La energía que tenga su origen en los mencionados contratos, se retribuirá al precio y en las condiciones previstas en los mismos y se integrará en el mercado de producción de energía eléctrica en las condiciones que se establezcan reglamentariamente.
+
+> Se modifica el apartado 3 por el art. único.72 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
 
 > Se modifica el apartado 1 por el art. 92.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412

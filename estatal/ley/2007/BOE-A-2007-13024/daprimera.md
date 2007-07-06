@@ -1,0 +1,5 @@
+## Disposición adicional primera. Modificación del artículo 57 de la Ley 25/1964, de 29 de abril, de Energía Nuclear.
+
+Se modifica el primer párrafo del artículo 57 de la Ley 25/1964, de 29 de abril, de Energía Nuclear, quedando el mencionado párrafo con la siguiente redacción:
+
+«En el caso de instalaciones nucleares, la cobertura exigible, de acuerdo con el artículo 55 de la presente Ley, será de 700 millones de euros. No obstante, el Ministerio de Industria, Turismo y Comercio podrá imponer otro límite, no inferior a 30 millones de euros, cuando se trate de transportes de sustancias nucleares o de cualquier otra actividad, cuyo riesgo, a juicio del Consejo de Seguridad Nuclear, no requiera una cobertura superior. Estas cifras podrán ser modificadas por el Gobierno, a propuesta del Ministerio de Industria, Turismo y Comercio, para tener en cuenta la evolución de los convenios internacionales suscritos por el Estado español y el transcurso del tiempo o la variación del índice de precios al consumo para mantener el mismo nivel de cobertura.»

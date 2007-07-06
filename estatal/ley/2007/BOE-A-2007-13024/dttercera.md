@@ -1,0 +1,7 @@
+## Disposición transitoria tercera. Adaptación de los estatutos y estructura orgánica de la sociedad Red Eléctrica de España, S. A.
+
+1. Antes de que transcurra un año desde la entrada en vigor de la presente Ley, Red Eléctrica de España, Sociedad Anónima, constituirá las sociedades filiales a que se refiere la disposición adicional quinta de esta ley y procederá a la adaptación de sus estatutos y estructura orgánica a lo dispuesto en la disposición adicional vigésimo tercera, sobre creación de una unidad orgánica específica, de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
+
+Los aranceles de Notarios, Registradores Mercantiles y de la Propiedad correspondientes a los actos necesarios de adaptación de la estructura orgánica a la exigencia de separación de actividades así como los necesarios para la constitución de las filiales quedarán reducidos al 10 por 100.
+
+2. Asimismo antes de que transcurran seis meses desde la entrada en vigor de la presente Ley, «Red Eléctrica de España, Sociedad Anónima» dará una solución a los contratos que hubieran sido suscritos con anterioridad a la entrada en vigor de la presente Ley, que exima a dicha sociedad de la responsabilidad de su gestión. Para ello se habilita a «Red Eléctrica de España, Sociedad Anónima», a ceder los derechos de estos contratos a terceros previa autorización de la Secretaría General de Energía del Ministerio de Industria, Turismo y Comercio.

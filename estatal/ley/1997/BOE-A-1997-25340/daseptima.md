@@ -34,7 +34,7 @@ En el supuesto de que los importes referidos en el párrafo anterior sean, en al
 
 En ningún caso, los titulares de los derechos de compensación percibirán un importe superior al que les corresponda de los valores establecidos en el apartado 3 de la presente disposición y los intereses que procedan conforme a lo establecido en el apartado 2 de esta disposición.
 
-5. El porcentaje de facturación por venta de energía eléctrica afecto a la compensación, que a los efectos del artículo 16.6 de la presente Ley, tendrá el carácter de coste por diversificación y seguridad de abastecimiento, se determinará por el Gobierno y será, como máximo, el 3,54 por 100.
+5. El porcentaje de facturación por venta de energía eléctrica afecto a la compensación, que a los efectos del artículo 16.6 de la presente Ley, tendrá el carácter de coste por diversificación y seguridad de abastecimiento, se determinará por el Gobierno y será, como máximo, el 3,54 por 100 o el porcentaje que corresponda en los peajes de acceso a las redes.
 
 La recaudación y distribución del citado porcentaje se llevará a cabo en la forma prevista en el artículo 19 de la presente Ley. La Comisión Nacional del Sistema Eléctrico adoptará en el procedimiento de liquidación las medidas necesarias para que los perceptores de la compensación reciban la cantidad que les corresponda cada año antes del 31 de marzo del año siguiente.
 
@@ -67,5 +67,7 @@ f) Las sociedades gestoras de Fondos de Titulización Hipotecaria podrán amplia
 9. Si en virtud de las normas aplicables para determinación de la base imponible en el Impuesto sobre Sociedades, ésta resultase negativa como consecuencia de la paralización acordada en esta disposición, su importe podrá ser compensado en un período que no excederá de diez años, contados a partir del ejercicio fiscal en el que la mencionada base imponible resultó negativa.
 
 10. La amortización correspondiente a los activos afectos a los proyectos cuya construcción se paraliza definitivamente se realizará como máximo en el plazo de diez años a partir de la entrada en vigor de la presente Ley.
+
+> Se modifica el primer párrafo del apartado 5 por el art. único.67 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
 
 > Se modifica el último párrafo del apartado 3 por el art. 14 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
