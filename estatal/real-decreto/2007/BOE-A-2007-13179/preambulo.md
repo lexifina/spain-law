@@ -1,0 +1,9 @@
+La Decisión n.º 1720/2006/CE del Parlamento Europeo y del Consejo, de 15 de noviembre de 2006, por la que se establece un Programa de acción en el ámbito del aprendizaje permanente de la Unión Europea, establece un nuevo marco jurídico y organizativo al que deben adaptarse las actuaciones comprendidas en los actuales Programas sectoriales denominados «Comenius» «Erasmus», «Leonardo da Vinci» y «Grundtvig», así como el Programa Transversal y el Programa «Jean Monnet», para el período 2007-2013.
+
+Con el fin de cumplimentar los requerimientos establecidos en la citada decisión a los estados miembros de la Unión Europea, la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales para el año 2007, ha creado en su disposición adicional cuadragésima sexta el Organismo Autónomo «Programas Educativos Europeos», para la ejecución de los créditos presupuestarios que puedan resultar afectados por la gestión coordinada, a escala nacional, de la realización de las acciones del citado programa de la Unión Europea, así como para el desarrollo de todas las demás actividades necesarias para dicha gestión; todo ello sin implicar aumento alguno del gasto público, de acuerdo con lo previsto en el apartado nueve de la disposición adicional cuadragésima sexta de dicha ley.
+
+Asimismo la citada norma legal determina, además de su configuración jurídica como organismo autónomo y su designación como Agencia Nacional, la normativa de ámbito nacional y supranacional que le resulta de aplicación y habilita al Gobierno para aprobar el Estatuto del mencionado organismo.
+
+En consecuencia, a iniciativa de la Ministra de Educación y Ciencia, a propuesta conjunta de los Ministros de Economía y Hacienda y de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 6 de julio de 2007,
+
+## D I S P O N G O :
