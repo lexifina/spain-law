@@ -1,3 +1,5 @@
 ## TÍTULO II
 
 ## De la planificación hidrológica
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 907/2007, de 6 de julio. Ref. BOE-A-2007-13182

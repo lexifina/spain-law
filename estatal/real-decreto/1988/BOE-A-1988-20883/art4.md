@@ -1,3 +1,5 @@
 ## Artículo 4.
 
-Cuando un acuífero subterráneo esté situado en los ámbitos territoriales de dos o más planes hidrológicos de cuenca, corresponderá al Plan Hidrológico Nacional asignar los recursos a cada uno de ellos.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 907/2007, de 6 de julio. Ref. BOE-A-2007-13182
