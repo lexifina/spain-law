@@ -6,6 +6,12 @@ Inscripción y pago de la correspondiente tasa en las convocatorias de procesos 
 
 Inscripción y pago de la correspondiente tasa en las convocatorias de procesos selectivos para el ingreso en Cuerpos o Escalas de personal funcionario o en plazas de personal laboral adscritos a la Administración General del Estado y sus organismos públicos vinculados o dependientes, cuyos formularios de inscripción figuren en la dirección electrónica de acceso al registro, para las que exista un Acuerdo de encomienda de gestión entre el órgano convocante y el Ministerio de Administraciones Públicas por el cual se encomiende a este último la gestión de la inscripción y pago por vía telemática.
 
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/176/14219_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/176/14219_002.png)
+
+> Se amplía por el apartado 2 y anexo de la Resolución de 9 de julio de 2007. Ref. BOE-A-2007-14219.
+
 > Se modifica por el apartado 8 de la Orden APU/513/2007, de 1 de marzo. Ref. BOE-A-2007-4943.
 
 > Se amplía por el apartado 2 y anexo de la Resolución de 31 de enero de 2007. Ref. BOE-A-2007-3017.

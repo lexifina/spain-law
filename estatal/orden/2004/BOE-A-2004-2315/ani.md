@@ -22,10 +22,20 @@ Liquidación de la tasa con código 055 ''Tasas Fitosanitarias''
 
 Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
 
+Liquidación de la tasa con código 052 «Tasa por reconocimientos, autorizaciones y concursos»
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+Liquidación de la tasa con código 053 «Tasa por prestación de servicios y actividades en materia de seguridad privada»
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+> Se amplía por el apartado 1 de la Resolución de 9 de julio de 2007. Ref. BOE-A-2007-14219.
+
 > Se modifica por el apartado 7 de la Orden APU/513/2007, de 1 de marzo. Ref. BOE-A-2007-4943.
 
 > Se amplía por el apartado 1 de la Resolución de 31 de enero de 2007. Ref. BOE-A-2007-3017.
 
 > Se amplía por el apartado 1 de la Resolución de 21 de febrero de 2005. Ref. BOE-A-2005-4096.
 
-> Se amplía por el apartado 1o de la Resolución de 26 de mayo de 2004. Ref. BOE-A-2004-10955.
+> Se amplía por el apartado 1 de la Resolución de 26 de mayo de 2004. Ref. BOE-A-2004-10955.
