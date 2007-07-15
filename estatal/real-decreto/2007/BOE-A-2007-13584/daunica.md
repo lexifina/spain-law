@@ -1,0 +1,5 @@
+## Disposición adicional única. Retroactividad de la norma.
+
+El Jefe de Estado Mayor de Defensa, el Subsecretario de Defensa y los Jefes de Estado Mayor de los Ejércitos, cada uno en el ámbito de sus respectivas competencias, podrán iniciar de oficio los procedimientos necesarios para la concesión de Cruces del Mérito Militar, del Mérito Naval y del Mérito Aeronáutico, con distintivo rojo, al personal que, como consecuencia de las modificaciones realizadas en los artículos 36 y 37 del Reglamento general de recompensas militares, se haya hecho acreedor a dicha recompensa, siempre que los hechos que den lugar a su concesión se hubiesen producido a partir de la entrada en vigor del Real Decreto 1040/2003, de 1 de agosto, por el que se aprueba el Reglamento general de recompensas militares.
+
+Si por los mismos hechos se hubiesen concedido ya Cruces del Mérito Militar, del Mérito Naval y del Mérito Aeronáutico, con distintivo diferente al rojo, las mismas autoridades mencionadas en el párrafo anterior y mediante el mismo procedimiento podrán promover la modificación del distintivo inicialmente concedido.
