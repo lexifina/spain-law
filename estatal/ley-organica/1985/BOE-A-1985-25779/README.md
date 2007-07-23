@@ -236,6 +236,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO II](cii-6.md)
 - [Artículo ciento sesenta y nueve](acientosesentaynueve.md)
 - [Artículo ciento setenta](acientosetenta.md)
+- [Artículo ciento setenta bis](acientosetentabis.md)
 - [Artículo ciento setenta y uno](acientosetentayuno.md)
 - [Artículo ciento setenta y dos](acientosetentaydos.md)
 - [Artículo ciento setenta y tres](acientosetentaytres.md)
