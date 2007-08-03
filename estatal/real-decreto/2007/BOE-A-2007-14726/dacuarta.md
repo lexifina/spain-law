@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Conductores con certificado de capacitación profesional para el ejercicio de la actividad de transportista.
+
+Por orden del Ministro de Fomento podrá establecerse que los conductores que hubieran obtenido el certificado de capacitación profesional para el ejercicio de la actividad de transportista, queden parcialmente dispensados de la asistencia al curso y de los exámenes necesarios para la cualificación inicial en la parte que corresponda a las materias recogidas en el anexo B de la Orden del Ministro de Fomento de 28 de mayo de 1999 por la que se desarrolla el capítulo I del título II del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de expedición de certificados de capacitación profesional.

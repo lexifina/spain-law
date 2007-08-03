@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Fundación para la Formación en el sector Transporte.
+
+En ejecución de la medida a tal efecto prevista en el apartado 6.3.3.3 del Plan Estratégico de Infraestructuras y Transporte (PEIT), aprobado por Acuerdo del Consejo de Ministros de 15 de julio de 2005, y de conformidad con lo dispuesto en el artículo 45.1 de la Ley 50/2002, de 26 de diciembre, de Fundaciones, se creará, a iniciativa del Ministerio de Fomento, una fundación que, con la denominación «Fundación para la Formación en el sector Transporte», tenga por objeto contribuir a la promoción y desarrollo de la formación en el sector del transporte por carretera.

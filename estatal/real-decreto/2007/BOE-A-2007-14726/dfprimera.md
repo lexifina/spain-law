@@ -1,0 +1,3 @@
+## Disposición final primera. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto se incorpora al derecho español la Directiva 2003/59/CE, del Parlamento Europeo y del Consejo de 15 de julio de 2003, adaptada por las Directivas 2004/66/CE y 2006/103/CE del Consejo, relativas a la cualificación inicial y a la formación continua de los conductores de determinados vehículos destinados al transporte de mercancías o de viajeros por carretera, por la que se modifican el Reglamento (CEE) n.º 3820/85 del Consejo y la Directiva 91/439/CEE del Consejo y se deroga la Directiva 76/914/CEE del Consejo.
