@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Condiciones específicas para el proveedor del servicio de interrumpibilidad cuyo proceso productivo está asociado a una instalación de cogeneración.
+
+En el caso de que el proceso productivo del proveedor del servicio de interrumpibilidad esté asociado a una instalación de cogeneración, solo podrá quedar acogido a este servicio si en aplicación de una orden de reducción de potencia del Operador del Sistema, la instalación de cogeneración se compromete a mantener su producción de acuerdo con el programa que establezca para dicha instalación el operador del sistema.
+
+En estos casos para la instalación de cogeneración quedarán excluidas del cálculo del promedio de un período anual, para el computo del rendimiento eléctrico equivalente, aquellas horas en las que la instalación haya sido programada por el Operador del Sistema para mantener su producción cuando el proceso consumidor asociado reduzca la potencia demandada en respuesta a una orden de reducción de potencia. Por tanto, los valores de Q, V y E serán los correspondientes al resto del período anual.

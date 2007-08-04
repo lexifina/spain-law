@@ -1,0 +1,9 @@
+## Disposición transitoria primera. Aplicación del servicio de interrumpibilidad hasta el 31 de octubre de 2008.
+
+1. La Dirección General de Política Energética y Minas podrá autorizar hasta el 31 de octubre de 2008 la aplicación de estos servicios una vez comenzada la temporada alta eléctrica (1 de noviembre de cada año) a aquellos consumidores que, cumpliendo los requisitos exigidos para la aplicación de los mismos en la presente Orden así lo soliciten y siempre que se trate de suministros que hubieran estado acogidos al sistema de interrumpibilidad en tarifa general o tarifa horaria de potencia con anterioridad a la entrada en vigor de la presente orden, estableciendo en la misma las condiciones de adaptación la retribución, quedando obligados a permanecer en el servicio que contraten hasta el 31 de octubre de 2008.
+
+En estos casos, el plazo para que el Operador del Sistema emita el informe que se establece en el artículo 10 y para que la Dirección General de Política Energética y Minas resuelva la solicitud conforme el artículo 11 será de 15 días. La certificación que ha de emitir el Operador del Sistema para el otorgamiento de la autorización administrativa, a que se hace referencia en el articulo 11.5, tendrá carácter provisional, estableciéndose un período de tres meses para la realización de las inspecciones que den lugar a la certificación definitiva.
+
+2. El Operador del Sistema, procederá a la formalización del contrato en el plazo máximo de 5 días desde que el consumidor presente la autorización al citado Operador.
+
+3. Para la aplicación de la presente disposición será requisito necesario que previamente se haya aprobado por la Dirección General de Política Energética y Minas el modelo de contrato del servicio de interrumpibilidad en el mercado, así como el procedimiento del sistema de comunicación, ejecución y control de este servicio, conforme se establece en la disposición adicional segunda.
