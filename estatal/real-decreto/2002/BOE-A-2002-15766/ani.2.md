@@ -74,7 +74,7 @@ e, número e = 2,7183.
 
 a y b, son coeficientes de valores:
 
-a = 2,366; b = 0,1751.
+a = 2,1333; b = 0,1828.
 
 La media de consumo está expresada en litros por 100 kilómetros.
 
@@ -88,8 +88,10 @@ e, número e = 2,7183.
 
 a' y b', son coeficientes de valores:
 
-a' = 1,786 ; b' = 0,1669.
+a' = 1,7052 ; b' = 0,1680.
 
 La media de consumo está expresada en litros por 100 kilómetros.
 
 La actualización de las anteriores ecuaciones y de los valores de a, a' y de b, b', se realizará, cuando proceda, por Resolución de la Secretaría de Estado de Política Científica y Tecnológica.
+
+> Se actualiza por el apartado 1 de la Resolución de 27 de julio de 2007. Ref. BOE-A-2007-15113.
