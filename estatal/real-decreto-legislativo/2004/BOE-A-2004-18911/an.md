@@ -14,7 +14,9 @@ Primero. Criterios para la determinación de la responsabilidad y la indemnizaci
 
 5. Darán lugar a indemnización la muerte, las lesiones permanentes, invalidantes o no, y las incapacidades temporales.
 
-6. Además de las indemnizaciones fijadas con arreglo a las tablas, se satisfarán en todo caso los gastos de asistencia médica y hospitalaria y, además, en las indemnizaciones por muerte, los gastos de entierro y funeral.
+6. Además de las indemnizaciones fijadas con arreglo a las tablas, se satisfarán en todo caso los gastos de asistencia médica, farmacéutica y hospitalaria en la cuantía necesaria hasta la sanación o consolidación de secuelas, siempre que el gasto esté debidamente justificado atendiendo a la naturaleza de la asistencia prestada.
+
+En las indemnizaciones por fallecimiento se satisfarán los gastos de entierro y funeral según los usos y costumbres del lugar donde se preste el servicio, en la cuantía que se justifique.
 
 7. La cuantía de la indemnización por daños morales es igual para todas las víctimas, y la indemnización por los daños psicofísicos se entiende en su acepción integral de respeto o restauración del derecho a la salud. Para asegurar la total indemnidad de los daños y perjuicios causados, se tienen en cuenta, además, las circunstancias económicas, incluidas las que afectan a la capacidad de trabajo y pérdida de ingresos de la víctima, las circunstancias familiares y personales y la posible existencia de circunstancias excepcionales que puedan servir para la exacta valoración del daño causado. Son elementos correctores de disminución en todas las indemnizaciones, incluso en los gastos de asistencia médica y hospitalaria y de entierro y funeral, la concurrencia de la propia víctima en la producción del accidente o en la agravación de sus consecuencias y, además, en las indemnizaciones por lesiones permanentes, la subsistencia de incapacidades preexistentes o ajenas al accidente que hayan influido en el resultado lesivo final; y son elementos correctores de agravación en las indemnizaciones por lesiones permanentes la producción de invalideces concurrentes y, en su caso, la subsistencia de incapacidades preexistentes.
 
@@ -30,19 +32,19 @@ Segundo. Explicación del sistema.
 
 a) Indemnizaciones por muerte (tablas I y II).
 
-Tabla I.–Comprende la cuantificación de los daños morales, de los daños patrimoniales básicos y la determinación legal de los perjudicados, y fijará los criterios de exclusión y concurrencia entre ellos.
+Tabla I.– Comprende la cuantificación de los daños morales, de los daños patrimoniales básicos y la determinación legal de los perjudicados, y fijará los criterios de exclusión y concurrencia entre ellos.
 
 Para la determinación de los daños se tienen en cuenta el número de los perjudicados y su relación con la víctima, de una parte, y la edad de la víctima de otra.
 
 Las indemnizaciones están expresadas en euros.
 
-Tabla II.–Describe los criterios que deben ponderarse para fijar los restantes daños y perjuicios ocasionados, así como los elementos correctores de estos. A dichos efectos, debe tenerse en cuenta que tales daños y perjuicios son fijados mediante porcentajes de aumento o disminución sobre las cuantías fijadas en la tabla I y que son satisfechos separadamente y además de los gastos correspondientes al daño emergente, esto es, los de asistencia médica y hospitalaria y los de entierro y funeral.
+Tabla II.– Describe los criterios que deben ponderarse para fijar los restantes daños y perjuicios ocasionados, así como los elementos correctores de estos. A dichos efectos, debe tenerse en cuenta que tales daños y perjuicios son fijados mediante porcentajes de aumento o disminución sobre las cuantías fijadas en la tabla I y que son satisfechos separadamente y además de los gastos correspondientes al daño emergente, esto es, los de asistencia médica y hospitalaria y los de entierro y funeral.
 
 Los factores de corrección fijados en esta tabla no son excluyentes entre sí, sino que pueden concurrir conjuntamente en un mismo siniestro.
 
 b) Indemnizaciones por lesiones permanentes (tablas III, IV y VI).–La cuantía de estas indemnizaciones se fija partiendo del tipo de lesión permanente ocasionado al perjudicado desde el punto de vista físico o funcional, mediante puntos asignados a cada lesión (tabla VI); a tal puntuación se aplica el valor del punto en euros en función inversamente proporcional a la edad del perjudicado e incrementado el valor del punto a medida que aumenta la puntuación (tabla III); y, finalmente, sobre tal cuantía se aplican los factores de corrección en forma de porcentajes de aumento o reducción (tabla IV), con el fin de fijar concretamente la indemnización por los daños y perjuicios ocasionados que deberá ser satisfecha, además de los gastos de asistencia médica y hospitalaria.
 
-Tablas III y VI.-Se corresponden, para las lesiones permanentes, con la tabla I para la muerte.
+Tablas III y VI.– Se corresponden, para las lesiones permanentes, con la tabla I para la muerte.
 
 En concreto, para la tabla VI ha de tenerse en cuenta:
 
@@ -70,6 +72,8 @@ En cualquier caso, la última puntuación no podrá ser superior a 100 puntos.
 
 Si, además de las secuelas permanentes, se valora el perjuicio estético, los puntos por este concepto se sumarán aritméticamente a los resultantes de las incapacidades permanentes, sin aplicar respecto a aquellos la indicada fórmula.
 
-Tabla IV.–Se corresponde con la tabla II de las indemnizaciones por muerte y le son aplicables las mismas reglas, singularmente la de posible concurrencia de los factores de corrección.
+Tabla IV.– Se corresponde con la tabla II de las indemnizaciones por muerte y le son aplicables las mismas reglas, singularmente la de posible concurrencia de los factores de corrección.
 
 c) Indemnizaciones por incapacidades temporales (tabla V).–Estas indemnizaciones serán compatibles con cualesquiera otras y se determinan por un importe diario (variable según se precise, o no, una estancia hospitalaria) multiplicado por los días que tarda en sanar la lesión y corregido conforme a los factores que expresa la propia tabla, salvo que se apreciara en la conducta del causante del daño culpa relevante y, en su caso, judicialmente declarada.
+
+> Se modifica el número 6 del apartado 1 por el art. 1.17 de la Ley 21/2007, de 11 de julio. Ref. BOE-A-2007-13410
