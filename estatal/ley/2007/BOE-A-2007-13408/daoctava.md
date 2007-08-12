@@ -1,0 +1,5 @@
+## Disposición adicional octava. Delimitación de competencias.
+
+Tendrán la consideración de autoridades, a los efectos de la presente Ley, las correspondientes de las Comunidades Autónomas con competencias para la protección de personas y bienes y para el mantenimiento de la seguridad ciudadana, con arreglo a lo dispuesto en los correspondientes Estatutos y en las Leyes Orgánicas de Fuerzas y Cuerpos de la Seguridad y de Protección de la Seguridad Ciudadana, y podrán imponer las sanciones y demás medidas determinadas en esta Ley en las materias sobre las que tengan competencia.
+
+En todo caso, la vigente Ley será de aplicación respetando las competencias que las Comunidades Autónomas puedan tener en el ámbito del deporte y, específicamente, sobre la regulación en materia de prevención de la violencia en los espectáculos públicos deportivos. A su vez, la aplicación de las medidas de seguridad previstas en la presente Ley se ejecutará respetando las competencias en materia de seguridad pública conferidas a las Comunidades Autónomas, de conformidad con lo dispuesto en la normativa de Fuerzas y Cuerpos de Seguridad.
