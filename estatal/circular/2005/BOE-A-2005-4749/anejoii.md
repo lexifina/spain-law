@@ -740,17 +740,19 @@ Medidas de seguridad): Nivel: Alto.
 
 ## Control de acceso y permanencia en edificios del Banco de España (*)
 
-Finalidad del fichero y usos previstos del mismo: Control de la seguridad de los edificios e instalaciones del Banco de España.
+Finalidad del fichero y usos previstos del mismo:
 
-Personas físicas afectadas: Las personas no pertenecientes a la plantilla del Banco de España que accedan a zonas de sus edificios e instalaciones no abiertas al público en general y las que presten servicios en dichas zonas durante distintos períodos.
+Control de la seguridad de los edificios, instalaciones y patrimonio del Banco de España.
+
+Personas físicas afectadas:
+
+Las personas, pertenecientes o no a la plantilla del Banco de España, que accedan a zonas de sus edificios e instalaciones.
 
 Procedencia y procedimiento de recogida de los datos de carácter personal:
 
 Los datos proceden del propio interesado.
 
-Los datos se recogen mediante encuestas y entrevistas, por aportación del propio interesado.
-
-El soporte utilizado para la obtención de los datos es papel y digitalización del DNI, mediante scanner.
+Los datos se recogen mediante encuestas y entrevistas, por aportación del propio interesado. El soporte utilizado para la obtención de los datos es papel y digitalización del DNI, mediante escáner. Grabación de imágenes mediante un sistema de circuito cerrado de televisión (CCTV), que se almacenan en soporte digital.
 
 Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
 
@@ -772,15 +774,25 @@ Número de registro personal.
 
 Imagen.
 
-Cesiones de datos de carácter personal: No se prevén cesiones.
+Cesiones de datos de carácter personal:
 
-Transferencias de datos de carácter personal a países terceros: No se prevén transferencias.
+No se prevén cesiones.
 
-Responsable del fichero: Banco de España.
+Transferencias de datos de carácter personal a países terceros:
 
-Servicio o unidad ante el que se pueden ejercer los derechos de acceso, rectificación, cancelación y oposición: Servicio de Seguridad.
+No se prevén transferencias.
 
-Medidas de seguridad: Nivel: Básico.
+Responsable del fichero:
+
+Banco de España.
+
+Servicio o unidad ante el que se pueden ejercer los derechos de acceso, rectificación, cancelación y oposición:
+
+Servicio de Seguridad.
+
+Medidas de seguridad:
+
+Nivel: Básico.
 
 (*) Nombre anterior: Datos correspondientes al control de acceso físico a edificios.
 
@@ -863,3 +875,5 @@ Servicio o unidad ante el que se pueden ejercer los derechos de acceso, rectific
 Medidas de seguridad: Nivel: Básico.
 
 (*) Nombre anterior: Datos correspondientes a consultas del archivo.
+
+> Se modifica por la Circular3/2007, de 27 de julio. Ref. BOE-A-2007-15479.
