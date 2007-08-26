@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Colaboración entre el Ministerio de Trabajo y Asuntos Sociales y las comunidades autónomas.
+
+1. A efectos de lo previsto en el artículo 4.2 de la Ley 30/1992, de 26 de noviembre, el Ministerio de Trabajo y Asuntos Sociales y las comunidades autónomas elaborarán un protocolo de colaboración para el funcionamiento de los Registros de Empresas Acreditadas. Dicho protocolo garantizará la adecuada intercomunicación de los registros y el acceso público a los datos contenidos en cualquiera de ellos desde el registro de cualquier autoridad laboral.
+
+2. A los mismos efectos señalados en el apartado anterior, el Ministerio de Trabajo y Asuntos Sociales y las comunidades autónomas colaborarán con objeto de facilitar a las empresas establecidas en la Unión Europea y el Espacio Económico Europeo el desplazamiento de trabajadores en el marco de prestaciones de servicios transnacionales. Con tal fin, podrán crear modelos de solicitud en la lengua oficial de aquellos Estados cuyas empresas se desplacen con mayor frecuencia a España.
