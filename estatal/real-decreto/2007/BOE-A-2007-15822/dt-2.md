@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Compilación y publicación de la cartografía y bases de datos de información geográfica y cartográfica.
+
+Toda la cartografía y bases de datos de información geográfica y cartográfica producida o actualizada por las Administraciones Públicas deberá compilarse y publicarse conforme a lo que se dispone en este real decreto a partir del 1 de enero de 2015. Hasta entonces, la información geográfica y cartográfica oficial podrá compilarse y publicarse en cualquiera de los dos sistemas, ED50 o ETRS89, conforme a las necesidades de cada Administración Pública, siempre que las producciones en ED50 contengan la referencia a ETRS89.
