@@ -554,9 +554,13 @@ Regla 8: chalecos salvavidas.
 
 Apartado 3:
 
-«Los tripulantes de los buques pesqueros cuya actividad se realice sobre cubierta deberán llevar puesto un chaleco o dispositivo salvavidas de inflado automático que, sin entorpecer sus movimientos, sea apto para mantenerlos a flote en caso de caída al agua.
+«3. Para cada una de las personas que se encuentren a bordo, se llevará el correspondiente chaleco salvavidas de tipo aprobado según el Real Decreto 809/1999 para abandono de buque.
 
-Estos chalecos o dispositivos salvavidas serán de inflado automático y aprobados de acuerdo con la norma EN 396, y podrán ser distintos a los exigidos en la normativa vigente sobre dispositivos de salvamento exigidos por seguridad en casos de abandono del buque, siempre que reúnan las condiciones de efectividad necesarias para el fin propuesto.»
+Se dispondrán chalecos de respeto a razón de uno por cada 6 personas.
+
+Los tripulantes de los buques pesqueros cuya actividad se realice sobre cubierta deberán llevar puesto un chaleco o dispositivo salvavidas de inflado automático, cuando el estado de la mar o del viento así lo aconseje que, sin entorpecer sus movimientos, sea apto para mantenerlos a flote en caso de caída al agua.
+
+Estos chalecos o dispositivos salvavidas serán de inflado automático y estarán aprobados de acuerdo con lo prescrito por el Real Decreto 809/1999 o estándar internacional reconocido, y serán distintos a los exigidos en la normativa vigente sobre dispositivos de salvamento exigidos por seguridad en caso de abandono del buque, siempre que reúnan las condiciones de efectividad necesarias para el fin propuesto. Es responsabilidad del Patrón el exigir el uso de estos chalecos cuando la situación así lo requiera.»
 
 Regla 23: botes de rescate.
 
@@ -571,5 +575,7 @@ ii) Poder transportar, como mínimo, cinco personas sentadas y una persona tendi
 Párrafo c) del apartado 1:
 
 «La Administración marítima establecerá el total de personas al que se podrá dar cabida en un bote mediante un ensayo para determinar el número de asientos. La capacidad mínima de transporte habrá de ser acorde a lo dispuesto en el inciso ii) del párrafo b) del apartado 1 de la regla 23. Los asientos podrán encontrarse en el suelo, exceptuando el del timonel. Ninguna parte de las posiciones sentadas podrá reposar en la regala, el espejo o los dispositivos de flotabilidad situados a los lados del bote.»
+
+> Se modifica el apartado 3 de la regla 8, capítulo VII por la disposición final.1 del Real Decreto 543/2007, de 27 de abril. Ref. BOE-A-2007-10867.
 
 > Se modifica por el art. único y anexo del Real Decreto 1422/2002, de 27 de diciembre. Ref. BOE-A-2002-25287.

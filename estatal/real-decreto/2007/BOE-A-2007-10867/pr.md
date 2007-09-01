@@ -1,0 +1,17 @@
+El artículo 6.1 de la Ley 27/1992, de 24 de noviembre, de puertos del Estado y de la marina mercante, considera como marina mercante, a efectos de lo dispuesto en la propia norma, la ordenación y el control de la flota civil española, la seguridad de la navegación y de la vida humana en el mar y la prevención de la contaminación producida desde los buques.
+
+Por otra parte, el artículo 8 de la citada ley incluye dentro del concepto técnico y jurídico de la flota civil española a la flota pesquera nacional.
+
+Para completar los dos preceptos anteriores, el artículo 74 de la Ley 27/1992, de 24 de noviembre, encomienda a la marina mercante, en el cumplimiento de su política, la tutela de la seguridad de la vida humana en la mar, la seguridad marítima y de la navegación y la protección del medio ambiente marino. Al mismo tiempo, el artículo 86 confiere la competencia sobre las citadas materias al Ministerio de Fomento.
+
+Al objeto de garantizar el cumplimiento de los objetivos descritos, se aprobó el Real Decreto 1032/1999, de 18 de junio, por el que se determinan las normas de seguridad a cumplir por los buques pesqueros de eslora igual o superior a 24 metros, que se dictó en aplicación de la Directiva 97/70/CE, del Consejo y la Directiva 99/19/CE, de 18 de marzo, por las que se implantaron en la Unión Europea los principios del Protocolo de Torremolinos sobre seguridad de los buques de pesca, y que ha sido modificado por el Real Decreto 1422/2002, de 27 de diciembre, en aplicación de la Directiva 2002/35/CE.
+
+No obstante, la mayor parte de la actividad pesquera en España se lleva a cabo en embarcaciones menores de 24 metros de eslora (L), las cuales no están incluidas en el ámbito de aplicación de los reales decretos anteriormente citados, sino sujetas a una normativa dispersa que regula aspectos parciales. El Real Decreto 1837/2000, de 10 de noviembre, por el que se aprueba el Reglamento de inspección y certificación de buques civiles, se aplica a los aspectos procedimentales y a los relacionados con las inspecciones y la obtención de certificados; la Orden de 29 de julio de 1970 por la que se establecen las normas de estabilidad para buques pesqueros y la Orden de 17 de noviembre de 1947 sobre alturas mínimas de líneas de máxima carga, regulan prescripciones técnicas referidas a su construcción.
+
+A efectos de garantizar el cumplimiento de los objetivos que establece el artículo 74 de la Ley 27/1992, de 24 de noviembre, se hace necesario regular globalmente todas las cuestiones que, desde una perspectiva técnica y jurídica, afectan a la seguridad marítima y de la vida humana en la mar relacionadas con las actividades desarrolladas por los buques pesqueros menores de 24 metros de eslora (L), de manera que se establezca un marco legal que pueda aplicarse con carácter general a este tipo de embarcaciones.
+
+En cumplimiento del procedimiento establecido en el Real Decreto 1337/1999, de 31 de julio, que regula la remisión de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de información que incorpora la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio, en la elaboración de este real decreto se ha cumplido el trámite de notificación previa a la Comisión europea.
+
+En su virtud, a propuesta de la Ministra de Fomento, previo informe del Ministerio de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión de 27 de abril de 2007.
+
+DISPONGO:
