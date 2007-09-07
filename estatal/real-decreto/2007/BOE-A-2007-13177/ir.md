@@ -1,0 +1,3 @@
+> Información relacionada
+
+> Téngase en cuenta que las referencias realizadas a lo largo del Reglamento al Administrador de las Infraestructuras Ferroviarias se entenderán efectuadas en lo sucesivo al administrador de la infraestructura, según establece la disposición final 2.3 del Real Decreto 623/2014, de 18 de julio Ref. BOE-A-2014-7651. y las referencias realizadas a "indicadores de seguridad" se entienden efectuadas a "Indicadores Comunes de Seguridad" (ICS), y aquellas realizadas a la Dirección General de Ferrocarriles se entienden efectuadas a la Dirección General de Infraestructuras Ferroviarias, según establece el art. 1.2 y 3 del Real Decreto 918/2010, de 16 de julio. Ref. BOE-A-2010-12533.
