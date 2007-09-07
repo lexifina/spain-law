@@ -1,0 +1,3 @@
+## Disposición adicional tercera. De la supervisión de la Inspección educativa.
+
+Corresponde a la Inspección educativa asesorar y supervisar el desarrollo del proceso de evaluación y proponer la adopción de las medidas que contribuyan a mejorarlo. A tal fin, en sus visitas a los centros, los inspectores se reunirán con el equipo directivo, con los maestros y con los demás responsables de la evaluación, dedicando especial atención a la valoración y análisis de los resultados de la evaluación de los alumnos y al cumplimiento de lo dispuesto en la presente orden. Para ello se hará uso del Informe de los resultados de la evaluación final de los alumnos a que se refiere el artículo 9.5 de la presente orden.
