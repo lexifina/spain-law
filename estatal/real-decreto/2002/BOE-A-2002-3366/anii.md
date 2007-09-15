@@ -121,6 +121,7 @@
 | Pain courant français | E-260 Ácido acético | Quantum satis |
 | E-261 Acetato potásico | Quantum satis |
 | E-262 Acetatos de sodio | Quantum satis |
+| Friss búzakenyér, fehér és félbarna kenyerek |  |
 |  | E-263 Acetato cálcico | Quantum satis |
 |  | E-270 Ácido láctico | Quantum satis |
 |  | E-300 Ácido ascórbico | Quantum satis |
@@ -156,6 +157,7 @@
 |  |
 |  |
 | Foie gras, foie gras entier, blocs de foie gras | E-300 Ácido ascórbico E-301 Ascorbato sódico | Quantum satis Quantum satis |
+| Libamáj, libamáj egészben, libamáj tömbben |  |
 
 ## Productos de la pesca
 
@@ -299,10 +301,8 @@
 
 | Productos Alimenticios | Aditivos | Dosis máxima |
 | --- | --- | --- |
-| Quesos madurados | E-170 Carbonato de calcio | Quantum satis |
-|  | E-504 Carbonatos de magnesio | Quantum satis |
-|  | E-509 Cloruro cálcico | Quantum satis |
-|  | E-575 Glucono-delta-lactona | Quantum satis |
+| Quesos madurados | E-170 Carbonato de calcio E-504 Carbonato de magnesio E-509 Cloruro cálcico E-575 Glucono-delta lactona | Quantum satis |
+| E-500ii Carbonato ácido de sodio | Quantum Satis (Sólo para los quesos de leche agria) |
 | Quesos de tipo mozzarella y quesos obtenidos a partir de lactosueros | E-260 Ácido acético | Quantum satis |
 | E-270 Ácido láctico | Quantum satis |
 | E-330 Ácido cítrico | Quantum satis |
@@ -362,4 +362,6 @@
 |  | E-332 Citratos potásicos | Quantum satis |
 |  | E-333 Citratos cálcicos | Quantum satis |
 
-> Se modifica por el art. único.3 y anexo.2 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.
+> Se modifica por el art. único.3 y anexo II del Real Decreto 1118/2007, de 24 de agosto. Ref. BOE-A-2007-16339.
+
+> Se modifica por art. único.3 y anexo.2 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.

@@ -15,8 +15,6 @@
 | E-213 | Benzoato cálcico |
 | E-214 | p-hidroxibenzoato de etilo | PHB |
 | E-215 | p-hidroxibenzoato sódico de etilo |
-| E-216 | p-hidroxibenzoato de propilo |
-| E-217 | p-hidroxibenzoato sódico de propilo |
 | E-218 | p-hidroxibenzoato de metilo |
 | E-219 | p-hidroxibenzoato sódico de metilo |
 | (1) | El ácido benzoico puede estar presente en determinados productos fermentados resultantes de un proceso de fermentación que siga las buenas prácticas de fabricación. |
@@ -83,24 +81,27 @@
 | E-312 | Galato de dodecilo (1) |
 | E-315 | Ácido eritórbico (2) |
 | E-316 | Eritorbato sódico (2) |
+| E-319 | Terbutilhidroquinona (TBHQ) |
 | E-320 | Butil hidroxianisol (BHA) |
 | E-321 | Butil hidroxitoluol (BHT) |
+| E-586 | 4-Hexilresorcinol |
 | (1) | La dosis de estas sustancias se expresan como galatos. |
 | --- | --- |
 | (2) | La dosis de estas sustancias se expresan como Ácido eritórbico. |
 | PRODUCTOS ALIMENTICIOS | ADITIVOS | DOSIS MÁXIMA mg/Kg ó mg/l |
 | --- | --- | --- |
 | ACEITES Y GRASAS |  |  |
-| Aceites y grasas para la fabricación profesional de productos alimenticios tratados por el calor. | E-310 a E-312 E-320 y E-321 | 200* (Galatos, y BHA, solos o en combinación). 100* (BHT) ambos expresados sobre la grasa |
-| Aceites y grasas para freír, excluido el aceite de orujo de aceituna | E-310 a E-312 E-320 y E-321 | 200* (galatos, y BHA, solos o en combinación). 100* (BHT) ambos expresados sobre la grasa |
-| Tocino, aceite de pescado y grasas de vacuno, ovino y ave | E-310 a E-312 E-320 y E-321 | 200* (Galatos, y BHA, solos o en combinación) 100* (BHT) ambos expresados sobre la grasa |
+| Aceites y grasas para la fabricación profesional de productos alimenticios tratados por el calor | E-310 a E-312 E-319 a E-321 | 200* (Galatos, TBHQ y BHA, por separado o en combinación) 100* BHT Expresados en ambos casos respecto del contenido de grasa |
+| Aceites y grasas para freír, excluido el aceite de orujo de oliva | E-310 a E-312 E-319 a E-321 | 200* (Galatos, TBHQ y BHA, por separado o en combinación) 100* BHT Expresados en ambos casos respecto del contenido de grasa |
+| Tocino, aceite de pescado y grasas de vacuno, ovino y ave | E-310 a E-312 E-319 a E-321 | 200* (Galatos, TBHQ y BHA, por separado o en combinación) 100* BHT Expresados en ambos casos respecto del contenido de grasa |
 | Preparados grasos, incluídas las emulsiones grasas (excluída la mantequilla) con un contenido mínimo de grasa del 60% | Sa | 1.000 |
 | Preparados grasos con un contenido de grasa inferior al 60% (incluídas las emulsiones grasas) | Sa | 2.000 |
-| Nota: El asterisco se refiere a la regla de proporcionalidad: cuando se utilicen combinaciones de galatos, BHA y BHT, deben reducirse proporcionalmente cada uno de los niveles. |
+| Nota: El asterisco se refiere a la regla de proporcionalidad: cuando se utilicen combinaciones de galatos, TBHQ, BHA y BHT, deben reducirse proporcionalmente las dosis individuales. |
 | AROMAS |  |  |
 | Aromas | Sa+Ba. | 1500. |
-| Aceites esenciales | E-310 Galato de propilo. E-311 Galato de octilo. E-312 Galato de dodecilo. E-320 Butil hidroxianisol (BHA). | 1000 mg/kg (galatos y BHA, por separado o en combinación). |
-| Aromas distintos de los aceites esenciales. | E-310 Galato de propilo. E-311 Galato de octilo. E-312 Galato de dodecilo. E-320 Butil hidroxianisol (BHA). | 100 mg/kg (galatos por separado o en combinación) o 200 mg/kg BHA. |
+| Aceites esenciales | E-310 a E-312 E-319 y E-320 | 1000 (Galatos, TBHQ y BHA, por separado o en combinación) |
+| Aromas distintos de los aceites esenciales. | E-310 a E-312 E-319 y E-320 | 100* (Galatos, por separado o en combinación) 200* (TBHQ y BHA, por separado o en combinación). |
+| Nota: El asterisco se refiere a la regla de proporcionalidad: cuando se utilicen combinaciones de Galatos, TBHQ y BHA, deben reducirse proporcionalmente las dosis individuales. |
 | AZÚCARES |  |  |
 | Azúcares en el sentido del Real Decreto 1261/1987 de 11 de septiembre, excepto azúcar terciado, azúcar moreno de caña, azúcar en polvo, azúcar cande y el jarabe de glucosa deshidratado o no | SO2 | 10 |
 | Jarabe de glucosa deshidratada o no | SO2 | 20 |
@@ -124,21 +125,21 @@
 | 3. Concentrados a base de zumo de frutas o de frutas trituradas | Sa + Ba SO2 | 600 250 |
 | CALDOS Y SOPAS |  |  |
 | Caldos y sopas líquidos (excluidos los enlatados) | Sa + Ba | 500 |
-| Caldos y sopas deshidratadas | E-310 a E-312 E-320 | 200 (galatos y BHA, solos o en combinación) expresados sobre grasa |
+| Caldos y sopas deshidratadas | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, por separado o en combinación) Expresados respecto del contenido de grasa |
 | CERVEZAS |  |  |
 | Cervezas, incluidas las cervezas bajas en alcohol y sin alcohol | SO2 | 20 |
 | Cerveza de barril sin alcohol | Ba SO2 | 200 20 |
 | Cerveza sometida a una segunda fermentación en barril | SO2 | 50 |
-| COMPLEMENTOS ALIMENTICIOS |  |  |
-| Complementos de la dieta sólidos | E-310 a E-312 E-320 y E-321 | 400 (galatos, BHA y BHT) por separado o en combinación. |
-| Complementos de la dieta líquidos | Sa + Ba + PHB E-310 a E-312 E-320 y E-321 | 2.000 400 (galatos, BHA y BHT) por separado ó en combinación) |
-| GOMA DE MASCAR |  |  |
-| Goma de mascar o chicle | Sa + Ba E-310 a E-312 E-320 y E-321 | 1.500 400 (galatos, BHA y BHT, por separado ó en combinación) |
+| COMPLEMENTOS ALIMENTICIOS |
+| Complementos alimenticios, tal y como se definen en el Real Decreto 1275/2003, de 10 de octubre, relativo a los complementos alimenticios | Sa + Ba | 2000 (solo para complementos alimenticios suministrados en forma líquida) |
+| E-310 a E-312 E-319 a E-321 | 400 (Galatos, TBHQ, BHA y BHT, por separado o en combinación) |
+| Goma de mascar o chicle | Sa + Ba | 1500 |
+| E-310 a E-312 E-319 a E-321 | 400 (Galatos, TBHQ, BHA y BHT, por separado o en combinación) |
 | HUEVOS Y OVOPRODUCTOS |  |  |
 | Huevo líquido (clara, yema o huevo completo) | Sa + Ba | 5.000 |
 | Ovoproductos deshidratados concentrados, congelados o ultracongelados | Sa | 1.000 |
 | LECHE |  |  |
-| Leche en polvo para máquinas automáticas | E-310 a E-312 E-320 | 200 (galatos, y BHA, por separado o en combinación) expresados sobre grasa |
+| Leche en polvo para máquinas automáticas | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA por separado o en combinación) Expresados respecto del contenido de grasa |
 | MASAS PARA REBOZAR |  |  |
 | Masas para rebozar | Sa | 2.000 |
 | PAN, PANES ESPECIALES Y BOLLERÍA |  |  |
@@ -153,48 +154,142 @@
 | Productos de pastelería, repostería y galletería con una actividad acuosa superior a 0,65 | Sa | 2.000 |
 | Productos de pastelería, repostería y galletería envasados con una actividad acuosa superior a 0,65 | Sa E-280 a E-283 | 2.000 2.000 |
 | Galletas secas | SO2 | 50 |
-| Mezclas para pasteles | E-310 a E-312 E-320 | 200 (galatos, y BHA, por separado ó en combinación) expresados sobre grasa |
-| Cereales precocinados | E-310 a E-312 E-320 | 200 (galatos, y BHA, por separado ó en combinación) expresados sobre grasa |
+| Mezclas para pasteles | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, solos o en combinación) Expresados respecto del contenido de grasa |
+| Cereales precocinados | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, solos o en combinación) Expresados respecto del contenido de grasa |
 | POSTRES |  |  |
 | Postres a base de leche no tratados por calor | Sa + Ba | 300 |
 | Leche cuajada | Sa | 1.000 |
 | Postres a base de semolina y tapioca | E-234 | 3 |
 | PRODUCTOS ALIMENTICIOS DESTINADOS A UNA ALIMENTACIÓN ESPECIAL |  |  |
-| Productos alimenticios destinados a usos médicos especiales, excluidos los alimentos para lactantes y niños de corta edad a que hace referencia el Real Decreto 1809/1991, de 13 de diciembre | Sa+Ba | 1.500 |
+| Alimentos dietéticos destinados a usos médicos especiales tal como se definen en el Real Decreto 1091/2000, de 9 de junio, excluidos los alimentos para lactantes y niños de corta edad a que hace referencia el Real Decreto 1809/1991, de 13 de diciembre. | Sa+Ba | 1.500 |
 | Preparados completos de régimen para el control de peso que reemplacen una comida o el régimen alimenticio de un día | Sa + Ba | 1.500 |
 | PRODUCTOS DE APERITIVO |  |  |
-| Productos de aperitivo a base de cereales o patata y frutos secos recubiertos | Sa + PHB | 1.000 (de ellos 300 de PHB máximo) |
+| Productos de aperitivo a base de cereales o patata y frutos secos transformados o recubiertos | Sa + PHB | 1.000 (de ellos 300 de PHB máximo) |
 |  | SO2 | 50 |
-|  | E-310 a E-312 E-320 | 200 (galatos y BHA, por separado ó en combinación) expresados sobre la grasa |
+|  | E-310 a E-312 E-319 y E-320 | 200 (galatos, TBHQ y BHA, solos o en combinación) Expresados respecto del contenido de grasa Sólo para productos de aperitivo a base de cereales y para frutos secos transformados |
 | PRODUCTOS CÁRNICOS |  |  |
 | Longaniza fresca y butifarra fresca | SO2 | 450 |
-| Productos cárnicos crudos adobados | E-249 y E-250 | 150 cantidad añadida indicativa |
-| Productos cárnicos embutidos crudos-curados | E-249 y E-250 | 50 cantidad residual en el punto de venta al consumidor final |
-| Salazones cárnicas. | E-251 y E-252 | 300 cantidad añadida indicativa |
-| Panceta curada. (1) | E-251 y E-252 | 250 cantidad residual |
-| Productos cárnicos tratados por el calor. (2) | E-315 y E-316 | 500 expresados como ácido eritórbico |
-| (1) E-249 y E-250: 175 como cantidad residual |
-| (2) E-249 y E-250: 100 como cantidad residual |
-| Carne deshidratada | E-310 a E-312 E-320 y E-321 | 200 (galatos, y BHA, por separado ó en combinación) expresados sobre grasa |
 | Pastas de higado, pastas de carne, patés de higado y patés de carne | Sa + PHB | 1.000 |
 | Tratamiento de superficie de productos cárnicos crudos-curados | Sa + Ba + PHB | Quantum satis |
 | Tratamiento de superficie de embutidos crudos-curados | Sa + Ba+ PHB E-235 | Quantum satis 1 mg/dm2 de superficie (no presente a 5 mm de profundidad) |
 | Cobertura de gelatina de los productos cárnicos (crudos-curados ó cocidos) | Sa + PHB | 1.000 |
+| Productos alimenticios | Aditivos | Cantidad máxima que puede añadirse durante la fabricación (expresada en mg/kg como NaNO2) | Dosis residual máxima (expresada en mg/kg como NaNO2) |
+| --- | --- | --- | --- |
+| Productos cárnicos | E-249 y E-250 (x) | 150 |  |
+| Productos cárnicos esterilizados (Fo>3.00) (y) | 100 |  |
+| Productos alimenticios con denominación española |
+| Productos cárnicos tradicionales curados en seco (2) |
+| Jamón curado, paleta curada, lomo embuchado, cecina y productos similares (2.2) | E-249 y E-250 (x) |  | 100 |
+| Productos alimenticios con denominación no española |
+| Productos cárnicos tradicionales curados por inmersión (1) |
+| Wiltshire bacon y productos similares (1.1) | E-249 y E-250 (x) |  | 175 |
+| Wiltshire ham y productos similares (1.1) |  | 100 |
+| Entremeada, entrecosto, chispe, orelheira e cabeça (salgados), toucinho fumado y productos similares (1.2) |  | 175 |
+| Cured tongue (1.3) |  | 50 |
+| Rohschinken nassgepökelt y productos similares (1.6) |  | 50 |
+| Productos cárnicos tradicionales curados en seco (2) |
+| Dry cured bacon y productos similares (2.1) | E-249 y E-250 (x) |  | 175 |
+| Dry cured ham y productos similares (2.1) |  | 100 |
+| Presunto, presunto da Pá y Paio do Lombo y productos similares (2.3) |  | 100 |
+| Rohschinken trockengepökelt y productos similares (2.5) |  | 50 |
+| Otros productos cárnicos curados por métodos tradicionales (3) |
+| Vysocina, Selský salám, Turistický trvanlivý salám, Polican, Herkules, Lovecký salám, Dunajská klobása, Paprikáš y productos similares (3.5) | E-249 y E-250 (x) | 180 |  |
+| Rohschinken, trocken/nassgepökelt y productos similares (3.1) |  | 50 |
+| Jellied veal and brisket (3.2) |  | 50 |
+| Productos alimenticios | Aditivos | Cantidad máxima que puede añadirse durante la fabricación (expresada en mg/kg como NaNO3) | Dosis residual máxima (expresada en mg/kg como NaNO3) |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Productos cárnicos no tratados por el calor | E-251 y E-252 (z) | 150 |  |
+| Productos alimenticios con denominación española |
+| Productos cárnicos tradicionales curados en seco (2) |
+| Jamón curado, paleta curada, lomo embuchado, cecina y productos similares (2.2) | E-251 y E-252 (z) |  | 250 |
+| Otros productos cárnicos curados por métodos tradicionales (3) |
+| Salchichón y chorizo tradicionales de larga curación (3.4) | E-251 y E-252 (z) | 250 (Sin adición de E-249 ni E-250) |  |
+| Productos alimenticios con denominación no española |
+| Productos cárnicos tradicionales curados por inmersión (1) |
+| Wiltshire bacon, Wiltshire ham y productos similares (1.1) | E-251 y E-252 (z) |  | 250 |
+| Entremeada, entrecosto, chispe, orelheira e cabeça (salgados), toucinho fumado y productos similares (1.2) |  | 250 |
+| Cured tongue (1.3) |  | 10 |
+| Rohschinken nassgepökelt y productos similares (1.6) |  | 250 |
+| Kylmäsavustettu poronliha/Kallrökt renkött (1,4) | 300 |  |
+| Bacon, Filet de bacon y productos similares (1.5) |  | 250 (sin adición de E-249 ni E-250) |
+| Productos cárnicos tradicionales curados en seco (2) |
+| Dry cured bacon, dry cured ham y productos similares (2.1) | E-251 y E-252 (z) |  | 250 |
+| Presunto, presunto da Pá y Paio do Lombo y productos similares (2.3) |  | 250 |
+| Jambon sec, jambon sel sec et autres pièces maturées séchées similaires (2.4) |  | 250 (Sin adición de E-249 ni E-250) |
+| Rohschinken trockengepökelt y productos similares (2.5) |  | 250 |
+| Otros productos cárnicos curados por métodos tradicionales (3) |
+| Rohschinken, trocken/nassgepökelt y productos similares (3.1) | E-251 y E-252 (z) |  | 250 |
+| Jellied veal and brisket (3.2) |  | 10 |
+| Rohwürste (Salami y Kantwurst) (3.3) | 300 (sin adición de E-249 ni E-250) |  |
+| Saucissons secs y productos similares (3.6) | 250 (Sin adición de E-249 ni E-250) |  |
+
+Notas:
+
+(x) Cuando esté etiquetado «para uso alimentario», el nitrito sólo puede venderse en una mezcla con sal o sustituto de sal.
+
+(y) El valor Fo 3 equivale a un tratamiento térmico de tres minutos a 121 ºC (reducción de la carga bacteriológica de mil millones de esporas por cada mil latas a una espora por cada mil latas).
+
+(z) En algunos productos cárnicos tratados por calor pueden aparecer nitratos resultantes de la conversión natural de nitritos en nitratos en un medio con bajo contenido en ácido.
+
+1. Los productos cárnicos se sumergen en una solución de curado que contiene nitritos y/o nitratos y otros componentes. Los productos cárnicos pueden someterse después a otros tratamientos, por ejemplo el ahumado.
+
+1.1 Se inyecta en la carne una solución de curado, y después se somete la carne a curado por inmersión durante 3-10 días. La solución de salmuera para la inmersión incluye asimismo fermentos microbiológicos.
+
+1.2 Curado por inmersión durante 3-5 días. El producto no es tratado por calor y tiene una elevada actividad hídrica.
+
+1.3 Curado por inmersión durante 4 días como mínimo y precocinado.
+
+1.4 Se inyecta en la carne una solución de curado, y después se somete la carne a curado por inmersión. El tiempo de curado es de 14-21 días, seguido de maduración en humo frío durante 4-5 semanas.
+
+1.5 Curado por inmersión durante 4-5 días a 5-7 ºC, maduración normalmente durante 24-40 horas a 22 ºC, posibilidad de ahumado durante 24 horas a 20-25 ºC y almacenamiento durante 3-6 semanas a 12-14 ºC.
+
+1.6 Tiempo de curado dependiente de la forma y el peso de las piezas de carne, de una duración aproximada de 2 días/kg, seguido de estabilización y maduración.
+
+2 El procedimiento de curado en seco supone la aplicación en seco a la superficie de la carne de una mezcla de curado que contiene nitrato y/o nitrito, sal y otros componentes, y después un período de estabilización y maduración. Los productos cárnicos pueden someterse posteriormente a otros tratamientos, por ejemplo el ahumado.
+
+2.1 Curado en seco y después maduración durante 4 días como mínimo.
+
+2.2 Curado en seco con un período de estabilización de 10 días como mínimo, y después un período de maduración de más de 45 días.
+
+2.3 Curado en seco durante 10-15 días, y después un período de estabilización de 30-45 días y un período de maduración de 2 meses como mínimo.
+
+2.4 Curado en seco durante 3 días + 1 día/kg seguido de un período de postsalado de una semana y de un período de envejecimiento y maduración de 45 días a 18 meses.
+
+2.5 Tiempo de curado dependiente de la forma y el peso de las piezas de carne, de una duración aproximada de 10 a 14 días, seguido de estabilización y maduración.
+
+3. Procesos de inmersión y curado en seco utilizados conjuntamente, o cuando se incluyen nitritos y/o nitratos en un producto compuesto, o cuando la solución de curado se inyecta en el producto antes de su cocinado. Los productos pueden someterse después a otros tratamientos, por ejemplo el ahumado.
+
+3.1 Combinación de curado en seco y curado por inmersión (sin inyección de solución de curado). Tiempo de curado dependiente de la forma y el peso de las piezas de carne, de una duración aproximada de 14 a 35 días, seguido de estabilización y maduración.
+
+3.2 Inyección de solución de curado y, transcurridos 2 días como mínimo, cocido en agua hirviendo durante un período de hasta 3 horas.
+
+3.3 El producto se somete a un período mínimo de maduración de 4 semanas y tiene una proporción agua/proteína inferior a 1,7.
+
+3.4 Período de maduración de 30 días como mínimo.
+
+3.5 Producto secado, cocinado a 70 ºC, y sometido después a un proceso de secado y ahumado de 8-12 días. Producto fermentado sometido a un proceso de fermentación de 14-30 días, en tres fases, y después al ahumado.
+
+3.6 Salchicha cruda fermentada y secada sin adición de nitritos. Se fermenta el producto a temperaturas que pueden ser de 18-22 ºC o inferiores (10-12 ºC) y a continuación se lo somete a un período de envejecimiento y maduración de tres semanas como mínimo. El producto tiene una proporción agua/proteína inferior a 1,7.
+
+| Productos alimenticios | Aditivos | Dosis máxima mg/kg |
+| --- | --- | --- |
+| Salsicha fresca | SO2 | 450 |
+| Productos cárnicos curados y en conserva | E-315 y E-316 | 500 (expresados como ácido eritórbico) |
+| Carne deshidratada | E-310 a E-312 E-319 a E-320 | 200 (Galatos, TBHQ y BHA solos o en combinación) Expresados respecto del contenido de grasa |
+| PRODUCTOS ALIMENTICIOS | ADITIVOS | DOSIS MÁXIMA mg/Kg ó mg/l |
+| --- | --- | --- |
 | PRODUCTOS DE CONFITERÍA |  |  |
 | Productos de confitería (excluido el chocolate) | Sa + Ba + PHB | 1.500 (max. 300 PHB) |
 | Productos de confitería a base de jarabe de glucosa | SO2 | 50 (procedente solo del Jarabe de glucosa) |
 | Productos de confitería a base de harina con una actividad acuosa superior al 0,65 | E-280 a E-283 | 2.000 |
 | PRODUCTOS DE LA PESCA |  |  |
-| Crustáceos frescos, congelados y ultracongelados | SO2 | 150 (en las partes comestibles) |
 | Crustáceos frescos, congelados y ultracongelados de las familias Peneidae, Solenceridae, Aristeidae: |  |  |
 | • Hasta 80 unidades | SO2 | 150 (en las partes comestibles) |
 | • Entre 80 y 120 unidades | SO2 | 200 (en las partes comestibles) |
 | • Más de 120 unidades | SO2 | 300 (en las partes comestibles) |
-| Crustáceos y cocidos | SO2 | 50 (en las partes comestibles) |
-| Gambas cocidas | Sa + Ba SO2 | 2.000 50 (en las partes comestibles). |
 | Crangon crangon y Crangon vulgaris cocido | Sa + Ba SO2 | 6.000 50 (en las partes comestibles) |
 | Cefalópodos frescos, congelados y ultracongelados | SO2 | 150 (en las partes comestibles) |
-| Cefalópodos cocidos | SO2 | 50 (en las partes comestibles) |
 | Pescado de piel roja congelado y ultracongelado | E-315 y E-316 | 1500 |
 | Productos salados o desecados de pescado | Sa + Ba | 200 |
 | Pescados de la especie Gadidae desecados salados | Sa + Ba SO2 | 200 200 |
@@ -202,8 +297,13 @@
 | Semiconservas de pescado | Sa + Ba E-315 y E-316 | 2.000 1.500 |
 | Productos de huevas de pescado | Sa + Ba | 2.000 |
 | Huevas de esturión (Caviar) | Sa + Ba E-284 y E-285 | 2.000 4 g/Kg |
-| Arenque y espadin escabechados | E-251 y E-252 | 200 (cantidad residual, incluido el nitrito formado a partir del nitrato, expresada como NO2Na |
-| Colas de cangrejo cocidas y moluscos cocidos marinados envasados. | Sa. | 2000 |
+| Crustáceos frescos congelados y ultracongelados | SO2 | 150 (en las partes comestibles) |
+| E-586 | 2 (como residuo en la carne de crustáceos). |
+| Crustáceos y moluscos cocidos | SO2 | 50 (en las partes comestibles). Sólo aplicable a crustáceos y cefalópodos cocidos. |
+| Ba | 1000 |
+| Sa + Ba | 2000 |
+| Crustáceos cocidos de las familias Penaeidae, Solenoceridae y Aristaeidae -hasta 80 unidades/kg -entre 80 y 120 unidades/kg -más de 120 unidades/kg | SO2 | 135 (en las partes comestibles) 180 (en las partes comestibles) 270 (en las partes comestibles) |
+| Arenque y espadín escabechados | E-251 y E-252 | 500 (Cantidad máxima que puede añadirse durante la fabricación expresada como NaNO2). |
 | PRODUCTOS VEGETALES ELABORADOS |  |  |
 | Confituras, jaleas, mermeladas y marmalades de frutas como se menciona en el R.D. 670/1990 de 25 de mayo (excepto la confitura extra y la jalea extra) | SO2 | 50 |
 | Confituras, jaleas, mermeladas y marmalade de frutas de valor energético reducido o sin azúcares añadidos | Ba Sa + Ba SO2 | 500 1.000 50 |
@@ -240,32 +340,41 @@
 | Patatas troceadas, precocinadas y prefritas | Sa SO2 | 2.000 100 |
 | Patatas peladas | SO2 | 50 |
 | Patatas transformadas (incluidas las congeladas y ultracongeladas) | SO2 | 100 |
-| Patatas deshidratadas | SO2 E-310 a E-312 E-320 | 400 25 (galatos, y BHA, por separado ó en combinación) |
+| Patatas deshidratadas | SO2 | 400 |
+| E-310 a E-312 E-319 y E-320 | 25 (Galatos, TBHQ y BHA, por separado o en combinación) |
 | Masa de patata | Sa SO2 | 2.000 100 |
 | Maíz dulce envasado al vacío | SO2 | 100 |
 | Tratamiento de superficie de los cítricos | E-231* E-232* | 12. |
 | * La supresión del E-231 y E-232 entrará en vigor tan pronto como los requisitos de etiquetado de los alimentos tratados con dichas sustancias sean de aplicación, en virtud de la legislación comunitaria sobre contenidos máximos de residuos de plaguicidas. |
+| PRODUCTOS VEGETALES SIN ELABORAR |  |  |
+| Uvas de mesa | SO2 | 10 |
+| Lichis frescos | SO2 | 10, medidos en la parte comestible |
 | QUESOS |  |  |
 | Queso en lonchas envasado | Sa | 1.000 |
 | Queso fundido | Sa E-234 | 2.000 12,5 |
 | Queso en capas | Sa | 1.000 |
 | Queso con otros alimentos añadidos | Sa | 1.000 |
 | Queso sin madurar | Sa | 1.000 |
-| Queso curado ó madurado: duro, semiduro y semiblando | E-234 E-251 y E-252 | 12,5 50 (cantidad residual, expresada en NO2Na) |
-|  | E-1105 | Quantum satis |
 | Tratamiento de superficie de queso curado o madurado: duro, semiduro y semiblando | E-235 | 1 mg/dm2 de superficie (no presente a 5 mm de profundidad) |
 |  | Sa | Quantum satis |
 |  | E-280 a E-283 | Quantum satis |
+| Queso madurado: duro, semiduro y semiblando | E-234 | 12,5 |
+| E-251 y E-252 | 150 en la leche de quesería o dosis equivalente si se añade tras la eliminación del suero y el añadido de agua (Cantidad máxima que puede añadirse durante la fabricación, expresada como NaNO2) |
+| E-1105 | Quantum satis |
+| Sucedáneos de queso a base de leche | E-251 y E-252 | 150 en la leche de quesería o dosis equivalente si se añade tras la eliminación del suero y el añadido de agua (Cantidad máxima que puede añadirse durante la fabricación, expresada como NaNO2) |
 | SALSAS |  |  |
 | Salsas emulsionadas con un contenido mínimo de grasa del 60% | Sa Ba Sa + Ba | 1.000 500 1.000 |
-|  | E-310 a E-312 E-320 | 200 (galatos, y BHA por separado ó en combinación) expresados sobre la grasa |
+|  | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, por separado o en combinación) Expresados respecto del contenido de grasa |
 | Salsas emulsionadas con un contenido de grasa inferior al 60% | Sa Ba Sa + Ba | 2.000 1.000 2.000 |
-|  | E-310 a E-312 E-320 | 200 (Galatos, y BHA por separado ó en combinación) expresados sobre la grasa |
+|  | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, por separado o en combinación) Expresados respecto del contenido de grasa |
 | Salsas no emulsionadas | Sa + Ba | 1.000 |
-|  | E-310 a E-312 y E-320 | 200 (galatos, y BHA por separado ó en combinación) expresados sobre la grasa |
+|  | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, por separado o en combinación) Expresados respecto del contenido de grasa |
 | Mostaza, con exclusión de la de Dijon | Sa + Ba SO2 | 1.000 250 |
+|  | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, por separado o en combinación) Expresados respecto del contenido de grasa |
 | Mostaza de Dijon | Sa + Ba SO2 | 1.000 500 |
+|  | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, por separado o en combinación) Expresados respecto del contenido de grasa |
 | Salsas a base de fruta | Sa | 1.000 |
+|  | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, por separado o en combinación) Expresados respecto del contenido de grasa |
 | SUCEDÁNEOS |  |  |
 | Sucedáneos de carne, pescado y crustáceos y cefalópodos a base de proteínas | Sa SO2(1) | 2.000 200 |
 | Sucedáneos de queso a base de proteínas | Sa | 2.000 |
@@ -273,13 +382,13 @@
 | Tratamiento de superficie de sucedáneos de queso | Sa E-280 a E-283 | Quantum satis Quantum satis |
 | (1) Sólo para sucedáneos de carne, pescado y crustáceos |
 | TURRONES Y MAZAPANES |  |  |
-| Turrones y Mazapanes | Sa + Ba + PHB | 1500 (máx. 300 PHB) |
-|  | E-310 a E-312 E-320 | 200 (Galatos y BHA, solos o en combinación) expresados sobre la grasa |
+| Turrones y Mazapanes | Sa + Ba + PHB | 1500 (Máximo 300 de PHB) |
+|  | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, solos o en combinación) expresados sobre la grasa |
 | VINAGRE |  |  |
 | Vinagre de fermentación | SO2 | 170 |
 | VINOS |  |  |
 | Vinos | Sa | 200 con arreglo al Reglamento n.º 822/87 |
-|  | SO2 | Con arreglo a los Reglamentos n.º 1493/99, 4252/88, 1037/2001 y 1099/2001 del Consejo De acuerdo con el Reglamento (CEE) n.º 1037/2001 del Consejo de 22 de mayo de 2001, por el que se autoriza la oferta y la entrega para el consumo humano directo de determinados vinos importados que pueden haber sido sometidos a prácticas anológicas no previstas en el Reglamento (CEE) n.º 1493/99xx |
+|  | SO2 | Con arreglo a los Reglamentos n.º 1493/99, 4252/88, 1037/2001 y 1099/2001 del Consejo De acuerdo con el Reglamento (CEE) n.º 1037/2001 del Consejo de 22 de mayo de 2001, por el que se autoriza la oferta y la entrega para el consumo humano directo de determinados vinos importados que pueden haber sido sometidos a prácticas anológicas no previstas en el Reglamento (CEE) n.º 1493/99 |
 | Vinos con arreglo al Reglamento 1493/1999* y su Reglamento de aplicación 1622/2000**. | E-1105 Lisozima. | Pro memoria. |
 | * Reglamento (CE) n.º 1493/1999 del Consejo, de 17 de mayo de 1999, por el que se establece la organización común del mercado vitivi-nícola (DO L 179 de 14.7.1999. p.1. Reglamento cuya última modificación la constituye el Reglamento (CE) n.º 1795/2003 de la Comisión (DO L 262 de 14.10.2003 p.13). ** Reglamento (CE) n.º 1622/2000 de la Comisión, de 24 de julio de 2000, que fija determinadas disposiciones de aplicación del Reglamento (CE) n.º 1493/1999, por el que se establece la organización común del mercado vitivinícola, e introduce un código comunitario de prácticas y tratamientos enológicos (DO L 194 de 31.7.2000 p.1); Reglamento cuya última modificación la constituye el Reglamento (CE) n.º 1410/2003 (DO L 201 de 8.8.2003 p.9). |
 | Vinos de frutas incluidos los sin alcohol | Sa SO2 | 200 200 |
@@ -324,12 +433,16 @@
 | Coberturas (jarabes para tortitas, jarabes aromatizados para batidos y helados; productos similares) | Sa SO2 | 1.000 40 |
 | Condimentos y aderezos | Sa + Ba E-310 a E-312 E-320 | 1.000 200 (Galatos y BHA, por separado ó en combinación) expresados sobre la grasa |
 | Aderezos a base de Zumos cítricos | SO2 | 200 |
-| Almidones (con exclusión del almidón en alimentos de destete y preparados de continuación y para lactantes) | SO2 | 50 |
+| Almidones (con exclusión de los preparados para lactantes, los preparados de continuación y los alimentos elaborados a base de cereales y alimentos infantiles). | SO2 | 50 |
 | Envolturas a base de colágeno con una actividad acuosa de más del 0,6 | Sa | Quantum satis |
 | Cebada perlada | SO2 | 30 |
 | Gelatina | SO2 | 50 |
 | Ensaladas preparadas | Sa + Ba | 1.500 |
 | Frutos secos transformados | E-310 a E-312 E-320 | 200 (galatos y BHA, separados ó en combinación) expresados sobre la grasa. |
+
+> Se modifica por el art. único.3 y anexo III del Real Decreto 1118/2007, de 24 de agosto. Ref. BOE-A-2007-16339.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 85, de 8 de abril de 2008. Ref. BOE-A-2008-6204.
 
 > Se modifica por el art. único del Real Decreto 698/2007, de 1 de junio. Ref. BOE-A-2007-11674.
 

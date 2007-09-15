@@ -48,6 +48,7 @@ Nota: No se incluyen en esta lista:
 | E-459 | Beta Cidodextrina | 1 g/Kg |
 | E-460 | Celulosa (microcristalina o en polvo) |  |
 | E-461 | Metilcelulosa |  |
+| E-462 | Etil celulosa |  |
 | E-463 | Hidroxipropil celulosa |  |
 | E-464 | Hidroxipropil metil celulosa |  |
 | E-465 | Etilmetil celulosa |  |
@@ -77,7 +78,7 @@ Nota: No se incluyen en esta lista:
 | E-515 | Sulfato potásico |  |
 | E-516 | Sulfato cálcico |  |
 | E-517 | Sulfato amónico |  |
-| E-551 | Dióxido de silicio | Emulgentes y colorantes, máximo 5%. |
+| E-551 | Dióxido de silicio | Emulgentes y colorantes, máximo 5%. Para el E-551: en E-171 dióxido de titanio y E-172 óxidos e hidróxidos de hierro (máximo 90% con relación al pigmento. |
 | E-552 | Silicato cálcico |
 | E-553 b | Talco | En colorantes, max 5% |
 | E-558 | Bentonita |
@@ -92,6 +93,7 @@ Nota: No se incluyen en esta lista:
 | E-965 | Maltitol |  |
 | E-966 | Lactitol |  |
 | E-967 | Xilitol |  |
+| E-968 | Eritritol |  |
 | E-1200 | Polidextrosa |  |
 | E-1201 | Polivinilpirrolidona | En edulcorantes |
 | E-1202 | Polivinilpolipirrolidona |
@@ -109,5 +111,7 @@ Nota: No se incluyen en esta lista:
 | E-1505 | Citrato de trietilo |  |
 | E-1518 | Triacetato de glicerilo (triacetina) |  |
 | E-1520 | Propano-1-2-diol(propilenglicol) | Colorantes, emulgentes, antioxidantes y enzimas (máximo 1 g/Kg en el producto alimenticio) |
+
+> Se modifica por el art. único.3 y anexo V del Real Decreto 1118/2007, de 24 de agosto. Ref. BOE-A-2007-16339.
 
 > Se modifica por el art. único.3 y anexo 5 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.

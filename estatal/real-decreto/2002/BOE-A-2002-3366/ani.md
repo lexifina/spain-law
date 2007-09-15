@@ -10,15 +10,17 @@ Notas:
 
 3. Explicación de los símbolos empleados.
 
-* Las sustancias E-290, E-938, E-939, E-941, E-942, E-948 y E-949 podrán utilizarse también en los productos alimenticios mencionados en los apartados 3 y 4 del Artículo 3.
+* Las sustancias E-290, E-938, E-939, E-941, E-942, E-948 y E-949 podrán utilizarse también en los productos alimenticios mencionados en los apartados 3 y 4 del artículo 3.
 
 # Las sustancias E-410, E-412, E-415 y E-417 no podrán utilizarse para producir alimentos deshidratados destinados a rehidratarse en la ingestión.
 
 ▶ Solamente puede utilizarse como agente de tratamiento de la harina.
 
+4. Las sustancias incluidas con los números E-400, E-401, E-402, E-403, E-404, E-406, E-407, E-407a, E-410, E-412, E-413, E-414, E-415, E-417, E-418 y E-440 no podrán utilizarse en minicápsulas de gelatina definidas, a efectos del presente real decreto, como los artículos de confitería a base de gelatina de consistencia firme, contenidos en minicápsulas semirrígidas, destinadas a ser ingeridas de golpe tras haber presionado la minicápsula para proyectar el producto de confitería en la boca.
+
 | N° E | Denominaciones |
 | --- | --- |
-| E-170 | Carbonatos de calcio |
+| E-170 | Carbonato cálcico |
 | E-260 | Ácido acético |
 | E-261 | Acetato potásico |
 | E-262 | Acetatos de sodio |
@@ -77,6 +79,7 @@ Notas:
 | E-440 | Pectinas i) Pectina ii) Pectina amidada |
 | E-460 | Celulosa i) Celulosa microcristalina ii) Celulosa en polvo |
 | E-461 | Metil celulosa |
+| E-462 | Etil celulosa |
 | E-463 | Hidroxipropil celulosa |
 | E-464 | Hidroxipropil metíí celulosa |
 | E-465 | Etilmetil celulosa |
@@ -140,5 +143,7 @@ Notas:
 | E-1442 | Fosfato de hidroxipropil dialmidón |
 | E-1450 | Octenil sucinato sódico de almidón |
 | E-1451 | Almidón acetilado oxidado |
+
+> Se modifica por el art. único.3 y anexo I del Real Decreto 1118/2007, de 24 de agosto. Ref. BOE-A-2007-16339.
 
 > Se modifica por el art. único.3 y anexo.1 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.

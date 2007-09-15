@@ -145,10 +145,14 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-1517 | Diacetato de glicerilo (diacetina). |  |
 | E-1519 | Alcohol bencilico. |  |
 | E-1520 | 1,2 Propanodiol (propilenglicol). |  |
+| E-426 | Hemicelulosa de soja |  |
+| E-968 | Eritritol | Para fines distintos de la edulcoración |
+| E-1204 | Pullulan |  |
+| E-1452 | Octenil succinato alumínico de almidón |  |
 | Productos alimenticios | Aditivo permitido | Dosis máxima |
 | --- | --- | --- |
 | ALIMENTOS EN GENERAL |  |  |
-| 1. Alimentos en general (excepto los contemplados en el Art. 3.3) | E-420(1) y E-421(1) E-953(1) E-965(1) a E-967(1) | Quantum Satis Quantum Satis Quantum Satis |
+| 1. Alimentos en general (excepto los contemplados en el Art. 3.3) | E-420(1) y E-421(1) E-953(1) E-965(1) a E-968(1) | Quantum Satis Quantum Satis Quantum Satis |
 |  | E-551(1) a E-556(2) | Quantum Satis |
 |  | E-559(2) | Quantum Satis |
 |  | E-620 a E-625 | 10 g/Kg Sólos o en combinación |
@@ -191,7 +195,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-416 Goma Karaya. | 50 g/kg. |
 | E-551 a E-559. | 50 g/kg (sólo E-551). |
 | E-900 Dimetilpolisiloxano. | 10 mg/kg |
-| E-1505 Citrato de trietilo. E-1517 Diacetato de glicerilo (diacetina). E-1518 Triacetato de glicerilo (triacetina). E-1520 1,2 Propanodiol (Propilenglicol). | 3 g/kg de todas las fuentes en productos alimenticios consumidos o reconstituidos con arreglo a las instrucciones del fabricante, por separado o en combinación. En el caso de las bebidas, la dosis máxima del E-1520 será de 1 g/l. |
+| E-1505 Citrato de trietilo. E-1517 Diacetato de glicerilo (diacetina). E-1518 Triacetato de glicerilo (triacetina). E-1520 1,2 Propanodiol (Propilenglicol). | 3 g/kg, procedente de todas las fuentes en productos alimenticios tal y como son consumidos o reconstituidos con arreglo a las instrucciones del fabricante por separado o en combinación. En el caso de bebidas, excepto los licores de crema la dosis máxima de E-1520 será de 1 g/l. |
 | 2.1 Aromas excepto Aromas de humo liquido y Aromas basados en oleorresinas *de especias. | E-432 a E-436. | 10 g/kg. |
 | 2.2 Alimentos que contienen aromas de humo liquido y aromas basados en oleorresinas de especias. | E-432 a E-436. | 1 g/kg. |
 | 2.3 Aromas encapsulados para: a) Tes aromatizados y bebidas en polvo instantáneas aromatizadas. b) Productos de aperitivo aromatizados | E-459 Betaciclodextrina. | 500 mg/l en productos alimenticios consumidos o reconstituidos con arreglo a las instrucciones del fabricante. 1 g/kg en productos alimenticios consumidos o reconstituidos con arreglo a las instrucciones del fabricante. |
@@ -206,6 +210,8 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-481(1) y E-482(1) | 4 g/Kg Sólos o en combinación |
 | Nota: |  |  |
 | (1) Solo de cocción rápida. |  |  |
+| Arroz preenvasado listo para su consumo, destinado a la venta al por menor. | E-426 | 10 g/Kg |
+| Productos transformados preenvasados de arroz (incluidos los productos transformados, congelados, ultracongelados, refrigerados, y deshidratados) destinados a la venta al por menor | E-426 | 10 g/Kg |
 | AZÚCARES |  |  |
 | Azúcares | E-551 a E-556 E-559 | 10 g/Kg Sólos o en combinación |
 |  | E-338(1) a E-341(1) E-343(1) E-450(1) a E-452(1) | 10 g/Kg Sólos o en combinación |
@@ -216,7 +222,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | 1.1 Bebidas espirituosas | E-473 y E-474 | 5 g/l Sólos o en combinación |
 | 1.1.1 Licores | E-420 y E-421 | Quantum satis |
 |  | E-953 | Quantum satis |
-|  | E-965 a E-967 | Quantum satis |
+|  | E-965 a E-968 | Quantum satis |
 |  | E-405(1) | 10 g/l |
 |  | E-475(1) | 5 g/l Sólos o en combinación |
 |  | E-481(1) y E-482(1) | 8 g/l |
@@ -259,6 +265,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-491 a E-495 | 5g/Kg Sólos o en combinación |
 | 4. Bebidas a base de leche | E-473 y E-474 | 5 g/l Sólos o en combinación |
 | 4.1 Bebidas lácteas de chocolate y malta | E-338 a E-341 E-343 E-450 a E-452 | 2 g/l Sólos o en combinación |
+| 4.2 Bebidas a base de leche destinadas a la venta al por menor | E-426 | 5 g/l |
 | CACAO Y CHOCOLATE |  |  |
 | Productos de cacao y chocolate (Real Decreto 822/1990 de 22 de junio. BOE de 28 de junio) | E-442 E-476 E-492 | 10 g/Kg 5 g/Kg 10 g/Kg |
 | Rellenos de y para productos de Cacao y chocolate | E-442 | 10 g/Kg |
@@ -286,15 +293,16 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | CERVEZAS |  |  |
 | Cervezas | E-405 | 100 mg/l |
 | COMPLEMENTOS ALIMENTICIOS |
-| Complementos de la dieta | E-338 a E-341 | Quantum satis |
-|  | E-343 | Quantum satis |
-|  | E-450 a E-452 | Quantum satis |
-|  | E-405 | 1 g/kg |
-|  | E-416 | Quantum satis |
-|  | E-432 a E-436 | Quantum satis |
-|  | E-468(2) | 30 g/kg |
-|  | E-473 y E-474 E-475 E-491 a E-495 E-551 a E-556 E-559 E-1201(1) y E-1202(1) | Quantum satis Quantum satis Quantum satis Quantum satis Quantum satis Quantum satis |
-| Nota: (1) Sólo para complementos de la dieta en tabletas y en forma de grageas. (2) Solo para complementos de la dieta sólidos. |
+| Complementos alimenticios, tal y como se definen en el Real Decreto 1275/2003, de 10 de octubre, relativo a los complementos alimenticios | E-338 a E-341 E-343 | Quantum satis |
+| E-405 | 1 g/kg |
+| E-416 | Quantum satis |
+| E-426(1) | 1,5 g/l |
+| E-432 a E-436 E-450 a E-452 | Quantum satis |
+| E-468(2) | 30 g/kg |
+| E-901 a E-904(3) | Quantum satis |
+| E-473 a E-475 E-491 a E-495 E-551 a E-556 E-559 E-1201(4) y E-1202(4) E-1204(5) | Quantum satis |
+| E-1452(6) | 35 g/kg como complemento alimenticio |
+| Nota: (1) Sólo para complementos líquidos. (2) Sólo para complementos suministrados en forma sólida. (3) Sólo como agentes de recubrimiento. (4) Sólo para complementos en forma de tabletas y grageas. (5) Sólo para complementos en forma de cápsulas y tabletas. (6) Solo para preparados vitamínicos encapsulados en complementos. |
 | Agentes de recubrimiento para complementos de la dieta | E-901 a E-902 | Quantum satis |
 | E-903 Cera Carnauba. | 200 mg/kg |
 | E-904 | Quantum satis |
@@ -341,6 +349,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-520(1) a E-523(1) | 30 mg/Kg Sólos o en combinación |
 |  | E-1505 (2) | Quantum Satis |
 | 1.1 Ovoproductos | E-475 | 1 g/Kg |
+| Ovoproductos deshidratados, concentrados, congelados y ultracongelados | E-426 | 10 g/kg |
 | Notas: (1) Sólo para clara de huevo. (2) Sólo para clara de huevo deshidratada. |
 | Productos alimenticios | Aditivo permitido | Dosis máxima |
 | --- | --- | --- |
@@ -367,6 +376,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-491 a E-495 | 10 g/Kg Sólos o en combinación |
 | E-541(2) | 1 g/kg como A1 |
 | Notas: (1) 3 g/Kg para Panes Especiales. (2) Sólo para scones y bizcochos. |  |  |
+| Productos preenvasados de panadería fina destinados a la venta al por menor | E-426 | 10 g/kg |
 | Agentes de recubrimiento para bollería fina | E-405 | 5 g/Kg |
 | E-416 | 5 g/Kg |
 | E-491 a E-495 | 5 g/Kg Sólos o en combinación |
@@ -425,7 +435,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | Rellenos, coberturas y recubrimientos para postres | E-405 | 5 g/Kg |
 | Coberturas batidas para postres (distintas de la nata) | E-477 | 30 g/Kg |
 | PRODUCTOS ALIMENTICIOS DESTINADOS A UNA ALIMENTACIÓN ESPECIAL |
-| Productos alimenticios destinados a usos médicos especiales, excluidos los alimentos para lactantes y niños de corta edad a que hace referencia el Real Decreto 1809/1991 de 13 de diciembre | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
+| Alimentos dietéticos destinados a usos médicos especiales tal como se definen en el Real Decreto 1091/2000, de 9 de junio. | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
 | E-405 | 1,2 g/Kg |
 | E-432 a E-436 | 1 g/Kg Sólos o en combinación |
 | E-473 y E-474 | 5 g/Kg Sólos o en combinación |
@@ -480,18 +490,19 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-904 | Quantum Satis |
 | E-905 | Quantum Satis |
 | Agente de recubrimiento para confitería a base de azúcar. | E-907 Poli-1-deceno hidrogenado. | 2 g /kg. |
+| 3. Productos de confitería a base de gelatina, excepto las minicápsulas de gelatina | E-426 | 10 g/kg |
 | PRODUCTOS DE LA PESCA |  |  |
 | 1. Pescados congelados y ultracongelados sin elaborar | E-338(1) a E-341(1) E-343(1) E-450(1) a E-452(1) | 5 g/Kg Sólos o en combinación |
 | E-420 y E-421 | Quantum Satis |
 | E-953 | Quantum Satis |
-| E-965 a E-967 | Quantum Satis |
+| E-965 a E-968 | Quantum Satis |
 | Notas: (1) Sólo para pescado cortado y filetes. |  |  |
 | 2. Crustáceos y moluscos sin elaborar, congelados y ultracongelados | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
 | E-385(2) | 75 mg/Kg |
 | E-420 | Quantum Satis |
 | E-421 | Quantum Satis |
 | E-953 | Quantum Satis |
-|  | E-965 a E-967 | Quantum Satis |
+|  | E-965 a E-968 | Quantum Satis |
 | Notas: (2) Sólo para crustáceos. |  |  |
 | 3. Productos a base de crustáceos congelados y ultracongelados Pasta de crustáceos Pasta de pescado | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
 | Surimi | E-338 a E-341 E-343 E-450 a E-452 | 1 g/ Kg Sólos o en combinación |
@@ -516,6 +527,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-520 a E-523 | 200 mg/Kg Sólos o en combinación |
 | Nota: (1) Sólo para frutas confitadas. |  |  |
 | Patatas transformadas (incluidas las congeladas, ultracongeladas, refrigeradas y deshidratadas) | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
+| E-426 | 10 g/kg (sólo para productos preenvasados destinados a la venta al por menor) |
 | Patatas fritas congeladas y ultracongeladas | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
 | Tratamiento de superficie de frutas frescas | E-445(1) | 50 mg/Kg |
 | E-473 y E-474 | Quantum Satis |
@@ -547,6 +559,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-416 | 10 g/Kg |
 | E-432 a E-436 | 5 g/Kg Sólos o en combinación |
 | E-491 a E-495 | 5 g/Kg Sólos o en combinación |
+| E-426 | 30 g/l |
 | SUCEDÁNEOS |  |  |
 | Sucedáneos de grasas vegetales | E-338 a E-341 E-343 E-450 a E-452 | 5 g/ Kg Sólos o en combinación |
 | Sucedáneos de queso fundido | E-338 a E-341 E-343 E-450 a E-452 | 20 g/Kg Sólos o en combinación |
@@ -575,12 +588,17 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | Aerosoles de emulsiones acuosas | E-944 | Quantum Satis |
 | Coberturas (jarabes para tortitas, Jarabes aromatizados para batidos y helados; Productos similares) | E-338 a E-341 E-343 E-450 a E-452 | 3 g/Kg Sólos o en combinación |
 | Proteínas vegetales | E-959 | 5 mg/Kg |
+| Micropastillas para refrescar el aliento en forma de láminas | E-1204 | Quantum Satis |
 | ALIMENTOS CON DENOMINACIÓN NO ESPAÑOLA |  |  |
 | Soda bread | E-338 a E-341 E-343 E-450 a E-452 | 20 g/Kg Sólos o en combinación |
-| Noodles | E-338 a E-341 E-343 | 2 g/kg (sólos o en combinación) |
+| Noodles (Fideos orientales) | E-338 a E-341 E-343 | 2 g/kg (sólos o en combinación) |
+| E-426 | 10 g/kg (sólo para productos preenvasados listos para su consumo, destinados a la venta al por menor) |
 | Mostarda di fruta | E-481 y E-482 | 2 g/Kg Sólos o en combinación |
 | Sod... Saft | E-900 | 10 mg/l |
 | Made wine | E-353 | 100 mg/l |
+| Libamáj, egészben és tömbben | E-385 | 250 mg/kg |
+
+> Se modifica por el art. único.3 y anexo IV del Real Decreto 1118/2007, de 24 de agosto. Ref. BOE-A-2007-16339.
 
 > Se modifica por el art. único.3 y anexo 4 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.
 

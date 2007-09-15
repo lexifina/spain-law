@@ -69,19 +69,19 @@ Notas:
 
 ## TERCERA PARTE
 
-## Aditivos alimentarios permitidos en preparados de destete para lactantes y niños de corta edad.
+## Aditivos alimentarios permitidos en alimentos elaborados a base de cereales y alimentos infantiles para lactantes y niños de corta edad.
 
-Los preparados y alimentos para el destete de lactantes y niños de corta edad podrán contener E-414 (goma de acacia o goma arábiga) y E-551 (dióxido de silicio) como resultado de la adición de preparados nutritivos que contengan un máximo de 150 g/kg de E-414 y 10 g/kg de E-551, así como E-421 (manitol) cuando es utilizado como portador de la vitamina B12 (un mínimo de una parte de vitamina B12 por 1.000 partes de manitol). el aporte de E-414 al producto listo para el consumo no deberá exceder los 10 mg/kg.
+Los alimentos elaborados a base de cereales y alimentos infantiles para lactantes y niños de corta edad podrán contener E-414 (goma de acacia o goma arábiga) y E-551 (dióxido de silicio) como resultado de la adición de preparados nutritivos que contengan un máximo de 150 g/kg de E-414 y 10 g/kg de E-551, así como E-421 (manitol) cuando es utilizado como portador de la vitamina B12 (un mínimo de una parte de vitamina B12 por 1000 partes de manitol). El aporte de E-414 al producto listo para el consumo no deberá exceder los 10 mg/kg.
 
-Los preparados y alimentos de destete para lactantes y niños de corta edad podrán contener E-301 (L-ascorbato sódico) utilizado a nivel de quantum satis en aditivos de recubrimiento de preparados nutritivos que contengan ácidos grasos poliinsaturados. El aporte de E-301 al producto listo para el consumo no deberá exceder los 75 mg/l.
+Los alimentos elaborados a base de cereales y alimentos infantiles para lactantes y niños de corta edad podrán contener octenil succinato sódico de almidón (E-1450) como resultado de la adición de preparados vitamínicos o de preparados que contengan ácidos grasos poliinsaturados. La transferencia de E-1450 en el producto listo para el consumo no deberá exceder los 100 mg/kg procedentes de los preparados vitamínicos y 1000 mg/kg de preparados que contengan ácidos grasos poliinsaturados.
+
+Los alimentos elaborados a base de cereales y alimentos infantiles para lactantes y niños de corta edad podrán contener E-301 (L -ascorbato sódico) utilizado a nivel de quantum satis en aditivos de recubrimiento de preparados nutritivos que contengan ácidos grasos poliinsaturados. El aporte de E 301 en el producto listo para el consumo no deberá exceder los 75 mg/l.
 
 Las dosis máximas de utilización se refieren a los alimentos listos para el consumo, preparados según las instrucciones del fabricante.
 
-Los preparados alimenticios para el destete de lactantes y niños de corta edad podrán contener octenil succinato sódico de almidón (E-1450) como resultado de la adición de preparados vitamínicos o de preparados que contengan ácidos grasos poliinsaturados. La transferencia de E-1450 en el producto listo para el consumo no deberá exceder los 100 mg/kg procedentes de los preparados vitamínicos y 1000 mg/kg de preparados que contengan ácidos grasos poliinsaturados.
-
 | PRODUCTOS ALIMENTICIOS | ADITIVOS PERMITIDOS | DOSIS MÁXIMA |
 | --- | --- | --- |
-| 1. PREPARADOS DE DESTETE | E-170 | Quantum satis(sólo para ajustar pH) |
+| 1. Alimentos elaborados a base de cereales y alimentos infantiles. | E-170 | Quantum satis(sólo para ajustar pH) |
 |  | E-260 a E-263 |
 |  | E-270(1) |
 |  | E-296(1) |
@@ -171,6 +171,9 @@ Se aplicarán las tablas contenidas en las partes primera a tercera del Anexo VI
 | E-466 | Carboximetil celulosa | 10 g/l o kg | Desde el nacimiento, en productos destinados al tratamiento dietético de trastornos metabólicos |
 | E-471 | Mono y diglicéridos de ácidos grasos | 5 g/l | Desde el nacimiento, en dietas especializadas en particular, en dietas sin proteínas |
 | E-472c | Ésteres cítricos de los mono- y diglicéridos de los ácidos grasos. | 7,5 g/l para productos en polvo. 9 g/l para productos en forma líquida. | Desde el nacimiento. |
+| E-473 | Sucroésteres de ácidos grasos | 120 mg/l | Productos que contengan proteínas, péptidos y aminoácidos hidrolizados |
 | E-1450 | Octenil succinato sódico de almidón | 20 g/l | Preparados para lactantes y preparados de continuación para lactantes |
+
+> Se modifica por el art. único.3 y anexo VI del Real Decreto 1118/2007, de 24 de agosto. Ref. BOE-A-2007-16339.
 
 > Se modifica por el art. único.3 y anexo 6 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.
