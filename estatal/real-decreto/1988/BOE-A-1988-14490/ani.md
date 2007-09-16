@@ -60,11 +60,11 @@ El solicitante dirigirá simultáneamente a todos los Estados miembros un ejempl
 
 3.1 El certificado reproducirá las conclusiones del examen de modelo y establecerá los demás requisitos que se deben cumplir. Se le adjuntarán descripciones, planos y esquemas necesarios para identificar el modelo y explicar su funcionamiento. El signo de aprobación previsto en el artículo de esta disposición estará formado por una letra estilizada ε que contenga:
 
-– En la parte superior, la letra mayúscula E y las dos últimas cifras del año de aprobación. Cuando la aprobación haya sido concedida por otro Estado miembro, en lugar de la E figurará la letra correspondiente a este Estado (B, para Bélgica; D, para Alemania; DK, para Dinamarca; F, para Francia; EL, para Grecia; I, para Italia; IRL, para Irlanda; L, para Luxemburgo; NL, para los Países Bajos; P, para Portugal; UK, para el Reino Unido).
+a) En la parte superior, la letra mayúscula E y las dos últimas cifras del año de aprobación. Cuando la aprobación haya sido concedida por otro Estado miembro, en lugar de la E figurará la letra correspondiente a este Estado (B, para Bélgica; BG para Bulgaria; CZ, para la República Checa; DK, para Dinamarca; D, para Alemania; EST, para Estonia; EL, para Grecia; F, para Francia; IRL, para Irlanda; I, para Italia; CY, para Chipre; LV, para Letonia; LT, para Lituania; L, para Luxemburgo; H, para Hungría; M, para Malta; NL, para los Países Bajos; A, para Austria; PL, para Polonia; P, para Portugal; RO, para Rumanía; SI, para Eslovenia; SK, para Eslovaquia; FI, para Finlandia; S, para Suecia y UK, para el Reino Unido).
 
-– En la parte inferior, una designación a determinar por el servicio de metrología que haya concedido la aprobación (número característico).
+b) En la parte inferior, una designación a determinar por el servicio de metrología que haya concedido la aprobación (número característico).
 
-En el punto 6.1 figura un modelo del signo de aprobación:
+En el punto 6.1 figura un modelo del signo de aprobación.
 
 3.2 En el caso de una aprobación CEE de efecto limitado, el signo se completará con la letra P que tendrá las mismas dimensiones que la letra estilizada ε e irá colocada delante de ella.
 
@@ -129,3 +129,5 @@ Ejemplo:
 | --- | --- |
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/142/14990_004.png)
+
+> Se modifica el apartado 3.1 por el art. único.1 del Real Decreto 1111/2007, de 24 de agosto. Ref. BOE-A-2007-16392.

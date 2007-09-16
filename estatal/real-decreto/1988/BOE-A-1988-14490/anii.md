@@ -36,15 +36,15 @@
 
 3.1.1 A reserva de lo dispuesto en disposiciones específicas, las marcas de verificación primitiva CEE que se coloquen de conformidad con el punto 3.3 serán las siguientes:
 
-3.1.1.1 La marca de verificación final CEE constara de dos impresiones:
+3.1.1.1 La marca de verificación final CEE constará de dos impresiones:
 
-a) la primera estará formada por la letra minúscula «c» conteniendo:
+a) la primera estará formada por la letra minúscula ''e'' conteniendo:
 
-– en la mitad superior, la letra mayúscula distintiva del Estado donde se efectúe la verificación primitiva (B para Bélgica, D para Alemania, DK para Dinamarca, E para España, F para Francia, EL para Grecia, I para Italia, IRL para Irlanda, L para Luxemburgo, NL para los Países Bajos, P para Portugal, UK para el Reino Unido) acompañada, cuando sea necesario, de una o dos cifras, precisando una subdivisión territorial:
+- en la mitad superior, la letra mayúscula distintiva del Estado donde se efectúe la verificación primitiva (B, para Bélgica; BG, para Bulgaria; CZ, para la República Checa; DK, para Dinamarca; D, para Alemania; EST, para Estonia; EL, para Grecia; E, para España; F, para Francia; IRL, para Irlanda; I, para Italia; CY, para Chipre; LV, para Letonia; LT, para Lituania; L, para Luxemburgo; H, para Hungría; M, para Malta; NL, para los Países Bajos; A, para Austria; PL, para Polonia; P, para Portugal; RO, para Rumanía; SI, para Eslovenia; SK, para Eslovaquia; FI, para Finlandia; S, para Suecia y UK, para el Reino Unido) acompañada, cuando sea necesario, de una o dos cifras, precisando una subdivisión territorial.
 
-– en la mitad inferior, el número distintivo del agente o de la oficina que haya efectuado la verificación;
+- en la mitad inferior, el número distintivo del agente o de la oficina que haya efectuado la verificación.
 
-b) la segunda impresión estará compuesta por las dos últimas cifras del año de verificación situadas en el interior de un hexágono.
+b) La segunda impresión estará compuesta por las dos últimas cifras del año de verificación situadas en el interior de un hexágono.
 
 3.1.1.2 La marca de verificación parcial CEE constará únicamente de la primera impresión. Dicha marca cumplirá también la función de precinto.
 
@@ -69,3 +69,7 @@ Los diámetros reales de los círculos circunscritos a las marcas serán de 1,6 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/142/14990_005.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1988/142/14990_006.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/222/16392_001.png)
+
+> Se modifica el apartado 3.1.1.1 y se añade al apartado 3.3.2.2 el último dibujo por el art. único.2 y 3 del Real Decreto 1111/2007, de 24 de agosto. Ref. BOE-A-2007-16392.
