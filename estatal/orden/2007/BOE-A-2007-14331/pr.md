@@ -1,0 +1,7 @@
+El Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, establece en el artículo 81 la posibilidad de utilizar medios electrónicos, informáticos y telemáticos en los procedimientos de justificación de las subvenciones, señalando que tal posibilidad deberá estar prevista en las bases reguladoras, en las que se deberán indicar los trámites que pueden ser cumplimentados por vía electrónica, informática o telemática y los medios electrónicos y sistemas de comunicación utilizables que deberán ajustarse a las especificaciones que se establezcan por Orden del Ministro de Economía y Hacienda.
+
+Paralelamente, la disposición final segunda del mencionado Reglamento autoriza al Ministro de Economía y Hacienda para que, mediante Orden Ministerial, establezca las normas que regulen los procedimientos relativos a la justificación de subvenciones mediante el empleo de medios electrónicos, informáticos y telemáticos.
+
+La presente orden tiene por objeto regular las condiciones para el empleo de medios electrónicos, informáticos y telemáticos en la justificación de subvenciones, así como los requisitos y especificaciones técnicas que han de cumplir los medios que se utilicen y el régimen aplicable a las comunicaciones y notificaciones telemáticas que se deriven de la utilización de los citados medios.
+
+En su virtud, dispongo:
