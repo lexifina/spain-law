@@ -1,8 +1,10 @@
-## Art. 23.
+## Art. 23. Elección en caso de vacantes en el Comité Ejecutivo.
 
-1. Cuando la vacante producida en el Pleno tenga como consecuencia una vacante en el Comité Ejecutivo, o la de la propia presidencia de la Cámara, se procederá a cubrir primero la vacante del Pleno, por el procedimiento establecido en el artículo 22 del presente Reglamento.
+1. Cuando la vacante producida en el Pleno tenga como consecuencia una vacante en el comité ejecutivo, o la de la propia presidencia de la Cámara, se procederá a cubrir primero la vacante del Pleno, por el procedimiento establecido en el artículo 22 del presente Reglamento.
 
-2. Celebrada esta elección, se proveerá la vacante del cargo de Presidente o del Comité Ejecutivo en sesión del Pleno convocada al efecto, por el procedimiento establecido en el artículo 21 bis de este Reglamento.
+2. Celebrada esta elección, se proveerá la vacante del cargo de presidente o del comité ejecutivo en sesión del Pleno convocada al efecto, por el procedimiento establecido en el artículo 21 bis de este Reglamento.
+
+> Se modifica por el art. único del Real Decreto 1133/2007, de 31 de agosto. Ref. BOE-A-2007-17077.
 
 > Se modifica por el art. único y anexo del Real Decreto 816/1990, de 22 de junio. Ref. BOE-A-1990-14648.
 

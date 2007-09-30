@@ -43,6 +43,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 18 bis](art18bis.md)
 - [Art 19](art19.md)
 - [Art 19 bis](art19bis.md)
+- [Art 19 ter](art19ter.md)
 - [Art 20](art20.md)
 - [Art 20 bis](art20bis.md)
 - [Art 21](art21.md)
