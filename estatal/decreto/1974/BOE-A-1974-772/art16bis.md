@@ -1,23 +1,13 @@
-## Art. 16 bis.
+## Art. 16 bis. Censo electoral.
 
-1. Para ser elegible como miembro del pleno se habrán de reunir los siguientes requisitos:
+1. El censo electoral de las Cámaras comprenderá la totalidad de sus electores, clasificados por grupos y categorías, en atención a la importancia económica relativa de los diversos sectores representados, en la forma que determine la respectiva administración tutelante y se formará y revisará anualmente, por el comité ejecutivo con referencia al 1 de enero.
 
-a) Formar parte del censo de la Cámara.
+2. Para ser elector en nombre propio o en representación de personas jurídicas, se requerirá la edad y capacidad fijadas en la vigente legislación electoral general.
 
-b) Ser elector del grupo o categoría correspondiente.
+3. La Agencia Estatal de Administración Tributaria, así como las otras administraciones territoriales competentes en materia tributaria colaborarán con los órganos de gobierno de las Cámaras para proporcionarles la información necesaria para la elaboración y constitución de los censos. A tal efecto, la Agencia Estatal de Administración Tributaria contará con la información que se desprenda del censo del Impuesto de Actividades Económicas o del tributo que lo sustituya.
 
-c) Ser mayor de edad si se trata de una persona física.
+4. A efectos electorales y con las garantías derivadas del régimen legal de protección de datos personales, la administración tutelante podrá recabar de los órganos de gobierno de las Cámaras la información necesaria contenida en el censo electoral.
 
-d) Estar al corriente en el pago de los recursos de la Cámara.
-
-e) Llevar, como mínimo, dos años de ejercicio en la actividad empresarial en el territorio español, o en el ámbito de la CEE cuando se trate de empresas procedentes de otros países miembros. Esta circunstancia se acreditará mediante el alta en la licencia fiscal correspondiente o, en su caso, acreditación equivalente para el ejercicio de la actividad en el supuesto de otros países de la CEE.
-
-f) No ser empleado de la Cámara ni estar participando en obras o concursos que aquella haya convocado, en el momento de presentarse la candidatura o de celebrarse elecciones.
-
-2. Las empresas extranjeras de países no pertenecientes a la CEE con establecimiento o sucursales en España pueden ser elegidas si cumplen los requisitos anteriores, atendiendo al principio de reciprocidad internacional.
-
-3. La duración del mandato de los miembros de las Cámaras será de cuatro años, pudiendo ser reelegidos.
-
-4. Las personas naturales o jurídicas que ejerzan actividades correspondientes a diversos grupos del censo de una Cámara tendrán derecho electoral activo y pasivo en cada uno de ellos. No obstante, si salieran elegidas en más de un grupo, deberán renunciar dentro del plazo de tres días a los puestos de miembros del Pleno que excedan de uno. En el caso de que no presenten renuncia en el plazo indicado, se tendrá por efectuada en el grupo o grupos en que hayan acreditado menor antigüedad o, si ésta fuera igual, en el o los que satisfagan una cuota menor, y se considerara automáticamente electo al siguiente candidato mas votado. A las personas naturales o jurídicas que ejerzan varias actividades, pertenecientes a distintas categorías de un mismo grupo, se les acumularán todas las cuotas que paguen dentro de este grupo para determinar la categoría en que habrán de ejercer su derecho electoral, activo o pasivo.
+> Se modifica por el art. único del Real Decreto 1133/2007, de 31 de agosto. Ref. BOE-A-1990-17077.
 
 > Se añade por el art. único y anexo del Real Decreto 816/1990, de 22 de junio. Ref. BOE-A-1990-14648.

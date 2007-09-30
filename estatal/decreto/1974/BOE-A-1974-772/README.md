@@ -36,6 +36,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO III](ciii.md)
 - [Art 16](art16.md)
 - [Art 16 bis](art16bis.md)
+- [Art 16 ter](art16ter.md)
 - [Art 17](art17.md)
 - [Art 17 bis](art17bis.md)
 - [Art 18](art18.md)
