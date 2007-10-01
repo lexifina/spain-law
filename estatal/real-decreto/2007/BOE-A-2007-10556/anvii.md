@@ -22,7 +22,7 @@ Los valores de referencia iniciales de estos índices de precios de combustible,
 
 Índice de precios CIF del crudo importado por España (PF0): 100
 
-Porcentaje de variación en el trimestre del IPC 0,556%
+Porcentaje de variación en el trimestre del IPC -0,556%
 
 a) Actualización de tarifas y primas para los subgrupos a.1.1 y a.1.2.
 
@@ -56,7 +56,7 @@ siendo:
 
 lCombn: Índice del precio del combustible tras la actualización para el trimestre «n»
 
-ΔnIPC = (IPCn - IPCn-1) / IPCn-1
+ΔnIPC = (IPCn - IPC n - 1)
 
 A, B: coeficientes fijos de actualización dependientes del nivel de potencia y del combustible utilizado. Los valores aparecen recogidos en la tabla nº1 que se adjunta a este anexo.
 
@@ -102,5 +102,7 @@ A aquellas instalaciones de los grupos a.1.1 y a.1.2 que hayan superado el núme
 β=1 - 0,17 (Pv /Cr)
 
 función de la relación Pv/Cr distinta para cada nivel de potencia
+
+> Se modifica por la disposición final 1 de la Orden ITC/2794/2007, de 27 de septiembre. Ref. BOE-A-2007-17078.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 177, de 25 de julio de 2007. Ref. BOE-A-2007-14234
