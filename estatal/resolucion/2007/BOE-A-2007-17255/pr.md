@@ -1,0 +1,9 @@
+Los modelos de actas de inspección catastral y de diligencia de colaboración en la inspección catastral vigentes fueron aprobados por la Resolución de la Dirección General del Catastro de 28 de noviembre de 2003, en virtud de las competencias atribuidas por la Orden ministerial de 31 de julio de 2003 y lo señalado en el artículo 7.3 de la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, posteriormente sustituida por el Real Decreto Legislativo 1/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley del Catastro Inmobiliario.
+
+El Real Decreto 417/2006, de 7 de abril, que desarrolla el citado texto refundido, ha precisado el régimen de competencias de los órganos que pueden realizar actuaciones de inspección catastral, así como los documentos que servirán de soporte a dichas actuaciones, los cuales deben recoger como novedad respecto a la situación anterior lo regulado por el citado Real Decreto para la denominada inspección conjunta.
+
+Asimismo el Real Decreto 417/2006 prevé, en su artículo 64.3.e), la posibilidad de que en virtud de un convenio de colaboración determinadas funciones de la inspección catastral puedan ser ejercidas plenamente por las entidades colaboradoras de la Dirección General del Catastro, por lo que es preciso proceder a la regulación de los documentos que recojan las actuaciones inspectoras formalizadas en este marco de colaboración.
+
+Por lo expuesto, se precisa adaptar al nuevo reglamento los documentos que recojan las actuaciones de inspección catastral, mediante el establecimiento de nuevos modelos de comunicaciones, actas y diligencias de inspección, que se deben aprobar por resolución de esta Dirección General en uso de las atribuciones que le otorga el artículo 61.1 del Real Decreto 417/2006 y la disposición final segunda de la Orden ministerial antes citada.
+
+En su virtud, he resuelto lo siguiente:
