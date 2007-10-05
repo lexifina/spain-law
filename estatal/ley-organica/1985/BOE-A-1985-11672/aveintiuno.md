@@ -6,4 +6,6 @@
 
 > Se declara inconstitucional y nulo el inciso destacado del apartado 2 por Sentencia del TC 149/2000, de 1 de junio. Ref. BOE-T-2000-12320.
 
+> Véase, sobre el procedimiento de tramitación de los recursos contra los acuerdos de las Juntas Electorales previsto en este artículo, la Instrucción 11/2007, de 27 de septiembre. Ref. BOE-A-2007-17421
+
 > Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 2 por Sentencia 149/2000, de 1 de junio. Ref. BOE-T-2000-12320.
