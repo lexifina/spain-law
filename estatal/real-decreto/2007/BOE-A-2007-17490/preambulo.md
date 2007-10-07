@@ -1,0 +1,17 @@
+En el ordenamiento jurídico español, en el que constitucionalmente corresponde al Gobierno la dirección de la Administración militar y de la defensa del Estado y a su Presidente la dirección de la acción del Gobierno y la coordinación de las funciones de los demás miembros del mismo, es una constante histórica que el Gobierno disponga de un órgano de asesoramiento en el ámbito de la Defensa Nacional como ocurre también en la gran mayoría de los países de nuestro entorno y aliados.
+
+Así, como antecedente histórico más próximo, la ya derogada Ley Orgánica 6/1980, de 1 de julio, por la que se regulan los criterios básicos de la Defensa Nacional y la Organización Militar, modificada por la Ley Orgánica 1/1984, de 5 de enero, atribuía a la Junta de Defensa Nacional la función primordial de ser el órgano asesor y consultivo del Gobierno en materia de Defensa Nacional, así como de Su Majestad el Rey y del Presidente del Gobierno de acuerdo con lo dispuesto en la Constitución.
+
+Por su parte, la vigente Ley Orgánica 5/2005, de 17 de noviembre, de la Defensa Nacional, crea el Consejo de Defensa Nacional como órgano asesor, coordinador y consultivo del Presidente del Gobierno en materia de defensa, y dispone que reglamentariamente se determinará su régimen de funcionamiento y la composición y funciones de la Comisión Interministerial de Defensa, órgano de trabajo permanente del Consejo, tal como establece el artículo 8 del citado texto legal.
+
+La gran complejidad de las materias de defensa aconseja potenciar el régimen de funcionamiento del Consejo de Defensa Nacional en el marco de la regulación específica contenida en la Ley Orgánica de la Defensa Nacional, concretando sus funciones y manteniendo su composición ajustable a las necesidades de cada circunstancia, de tal manera que se garantice el cumplimiento de sus altos fines con eficacia y celeridad.
+
+Para coadyuvar a esa finalidad, se dota al Consejo de la estructura de apoyo concentrada en la Comisión Interministerial de Defensa, verdadera novedad que aporta la Ley Orgánica de la Defensa Nacional, órgano de trabajo permanente del Consejo y a la que se asignan las funciones adecuadas para la preparación de las actividades y para la ejecución de los acuerdos adoptados por el Consejo de Defensa Nacional.
+
+Para lograr el funcionamiento armónico del Consejo y de su órgano de trabajo, es necesario determinar, conforme a lo dispuesto en el artículo 8.10 de la Ley Orgánica 5/2005, de 17 de noviembre, de la Defensa Nacional, el régimen de funcionamiento del Consejo de Defensa Nacional y la composición y funciones de la Comisión Interministerial de Defensa mediante real decreto, en el marco del régimen jurídico aplicable con carácter general a los órganos colegiados en el ámbito de la Administración General del Estado, en los términos previstos en este real decreto.
+
+Por último, la disposición final primera de la Ley Orgánica de la Defensa Nacional, faculta al Gobierno y al Ministro de Defensa, en el ámbito de sus respectivas competencias, a dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de la citada Ley Orgánica.
+
+En su virtud, a propuesta del Ministro de Defensa, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 5 de octubre de 2007,
+
+## D I S P O N G O :
