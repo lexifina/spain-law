@@ -1,0 +1,5 @@
+## Disposición transitoria primera. De las pruebas de habilitación y de los concursos de acceso entre habilitados.
+
+Hasta un año después de la resolución de las últimas pruebas de habilitación convocadas conforme a lo dispuesto en el Real Decreto 774/2002, de 26 de julio, las universidades podrán decidir la convocatoria de plazas para los Cuerpos de Catedráticos de Universidad y de Profesores Titulares de Universidad mediante concurso de acceso entre habilitados comunicándolo al Consejo de Universidades, todo ello según lo dispuesto en el artículo 62 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, y su normativa de desarrollo, que, a estos efectos se considerará vigente y como se establece en la disposición transitoria primera de la Ley Orgánica 4/2007, de 12 de abril.
+
+Así mismo, a las pruebas de habilitación ya convocadas y pendientes de resolución, les será de aplicación la regulación anterior a la entrada en vigor de la Ley Orgánica 4/2007, de 12 de abril, de Universidades.
