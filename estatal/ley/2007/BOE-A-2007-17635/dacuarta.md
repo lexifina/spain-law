@@ -1,0 +1,3 @@
+## Disposición adicional cuarta.
+
+En el plazo de un año desde la entrada en funcionamiento de la Comisión, ésta creará una sede electrónica en la que serán accesibles todos los informes realizados por la Comisión para el cumplimiento de sus objetivos y funciones y aquellos que prevea en cada momento el Plan Estratégico de la Comisión, salvaguardando, en todo caso, la confidencialidad de los datos e informaciones que pudieran afectar al secreto comercial e industrial de los operadores y con sujeción a los principios de publicidad oficial, responsabilidad, calidad, seguridad, disponibilidad y accesibilidad.
