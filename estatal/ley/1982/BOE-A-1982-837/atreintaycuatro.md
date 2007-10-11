@@ -4,11 +4,11 @@ Las categorías de la carrera fiscal serán las siguientes:
 
 1.ª Fiscales de Sala del Tribunal Supremo, equiparados a Magistrados del Alto Tribunal. El Teniente Fiscal del Tribunal Supremo tendrá la consideración de Presidente de Sala.
 
-El Fiscal Jefe de la Secretaría Técnica tendrá la consideración de Fiscal de Sala en los términos previstos en el artículo 16.
+2.ª Fiscales, equiparados a Magistrados.
 
-2.ª Fiscales equiparados a Magistrados.
+3.ª Abogados-Fiscales, equiparados a Jueces.
 
-3.ª Abogados-fiscales equiparados a Jueces.
+> Se modifica por el art. único.26 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
 
 > Se modifica por el art. único.11 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
 

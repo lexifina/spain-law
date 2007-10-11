@@ -1,28 +1,34 @@
 ## Artículo doce
 
-1. Son órganos del Ministerio Fiscal:
+Son órganos del Ministerio Fiscal:
 
-- El Fiscal General del Estado.
+a) El Fiscal General del Estado.
 
-- El Consejo Fiscal.
+b) El Consejo Fiscal.
 
-- La Junta de Fiscales de Sala.
+c) La Junta de Fiscales de Sala.
 
-- La Fiscalía del Tribunal Supremo.
+d) La Junta de Fiscales Superiores de las Comunidades Autónomas.
 
-- La Fiscalía ante el Tribunal Constitucional.
+e) La Fiscalía del Tribunal Supremo.
 
-- La Fiscalía de la Audiencia Nacional.
+f) La Fiscalía ante el Tribunal Constitucional.
 
-- La Fiscalía Especial para la Prevención y Represión del Tráfico Ilegal de Drogas.
+g) La Fiscalía de la Audiencia Nacional.
 
-- La Fiscalía Especial para la Represión de los Delitos Económicos relacionados con la Corrupción.
+h) Las Fiscalías Especiales.
 
-- Las Fiscalías de los Tribunales Superiores de Justicia.
+i) La Fiscalía del Tribunal de Cuentas, que se regirá por lo dispuesto en la Ley Orgánica de dicho Tribunal.
 
-- Las Fiscalías de las Audiencias Provinciales.
+j) La Fiscalía Jurídico Militar.
 
-2. La Fiscalía del Tribunal de Cuentas se regirá por lo dispuesto en la Ley Orgánica de dicho Tribunal.
+k) Las Fiscalías de las Comunidades Autónomas.
+
+l) Las Fiscalías Provinciales.
+
+m) Las Fiscalías de Área.
+
+> Se modifica por el art. único.6 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
 
 > Se modifica el apartado 1 por el art. único.1 de la Ley 10/1995, de 24 de abril. Ref. BOE-A-1995-10066
 

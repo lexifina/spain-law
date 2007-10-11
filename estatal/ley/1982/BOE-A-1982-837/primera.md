@@ -1,9 +1,5 @@
-## Primera.
+## Disposición transitoria primera.
 
-Los actuales miembros de la Carrera Fiscal integrarán, en lo sucesivo, las dos primeras categorías y el grado de ascenso de la categoría tercera en la siguiente forma:
+(Derogada)
 
-A. Los Fiscales Generales integrarán la primera.
-
-B Los Fiscales, la categoría segunda.
-
-C Los Abogados Fiscales, la categoría tercera, grado de ascenso.
+> Se deroga por la disposición derogatoria 1 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769

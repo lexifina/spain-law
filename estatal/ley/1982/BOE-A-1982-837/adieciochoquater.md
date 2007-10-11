@@ -1,17 +1,7 @@
 ## Artículo dieciocho quáter
 
-1. El Fiscal General del Estado nombrará, oído el Consejo Fiscal, como delegado, un Fiscal contra la Violencia sobre la Mujer, con categoría de Fiscal de Sala, que ejercerá las siguientes funciones:
+(Suprimido)
 
-a) Practicar las diligencias a que se refiere el artículo 5 del Estatuto Orgánico del Ministerio Fiscal, e intervenir directamente en aquellos procesos penales de especial trascendencia apreciada por el Fiscal General del Estado, referentes a los delitos por actos de violencia de género comprendidos en el artículo 87 ter.1 de la Ley Orgánica del Poder Judicial.
-
-b) Intervenir, por delegación del Fiscal General del Estado, en los procesos civiles comprendidos en el artículo 87 ter.2 de la Ley Orgánica del Poder Judicial.
-
-c) Supervisar y coordinar la actuación de las Secciones contra la Violencia sobre la Mujer, y recabar informes de las mismas, dando conocimiento al Fiscal Jefe de las Fiscalías en que se integren.
-
-d) Coordinar los criterios de actuación de las diversas Fiscalías en materias de violencia de género, para lo cual podrá proponer al Fiscal General del Estado la emisión de las correspondientes instrucciones.
-
-e) Elaborar semestralmente, y presentar al Fiscal General del Estado, para su remisión a la Junta de Fiscales de Sala del Tribunal Supremo, y al Consejo Fiscal, un informe sobre los procedimientos seguidos y actuaciones practicadas por el Ministerio Fiscal en materia de violencia de género.
-
-2. Para su adecuada actuación se le adscribirán los profesionales y expertos que sean necesarios para auxiliarlo de manera permanente u ocasional.
+> Se suprime por el art. único.13 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
 
 > Se añade por el art. 70 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760

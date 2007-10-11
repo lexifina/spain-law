@@ -2,32 +2,38 @@
 
 Se consideran faltas muy graves:
 
-1. El incumplimiento consciente del deber de fidelidad a la Constitución establecido en el artículo 45 de esta ley, cuando así se apreciara en sentencia firme.
+Uno. El incumplimiento consciente del deber de fidelidad a la Constitución establecido en el artículo cuarenta y cinco de esta Ley, cuando así se apreciara en sentencia firme.
 
-2. El incumplimiento de las órdenes particulares y requerimientos personales dirigidos por escrito en la forma establecida en este estatuto, cuando de aquél se haya derivado perjuicio en el proceso o alteración relevante en el funcionamiento interno de la Fiscalía.
+Dos. El incumplimiento de las órdenes particulares y requerimientos personales dirigidos por escrito en la forma establecida en este Estatuto, cuando de aquel se haya derivado perjuicio en el proceso o alteración relevante en el funcionamiento interno de la Fiscalía.
 
-3. La afiliación a partidos políticos o sindicatos, o el desempeño de empleos o cargos a su servicio.
+Tres. La afiliación a partidos políticos o sindicatos, o el desempeño de empleos o cargos a su servicio.
 
-4. La provocación reiterada de enfrentamientos graves con las autoridades de la circunscripción en que el fiscal desempeñe el cargo, por motivos ajenos al ejercicio de su función.
+Cuatro. La provocación reiterada de enfrentamientos graves con las autoridades de la circunscripción en que el Fiscal desempeñe el cargo, por motivos ajenos al ejercicio de su función.
 
-5. Las acciones y omisiones que hayan dado lugar en sentencia firme a una declaración de responsabilidad civil contraída en el ejercicio de la función por dolo o culpa grave conforme al artículo 60 de esta ley.
+Cinco. Las acciones y omisiones que hayan dado lugar en sentencia firme a una declaración de responsabilidad civil contraída en el ejercicio de la función por dolo o culpa grave conforme al artículo Sesenta de esta Ley.
 
-6. El ejercicio de cualquiera de las actividades incompatibles con el cargo de fiscal, establecidas en el artículo 57 de esta ley, salvo las que puedan constituir falta grave con arreglo a lo dispuesto en su artículo 63.
+Seis. El ejercicio de cualquiera de las actividades incompatibles con el cargo de Fiscal, establecidas en el artículo Cincuenta y siete de esta Ley, salvo las que puedan constituir falta grave con arreglo a lo dispuesto en su artículo Sesenta y Tres.
 
-7. Provocar el propio nombramiento para alguna Fiscalía cuando concurra en el nombrado alguna de las situaciones de incompatibilidad o prohibición previstas en el artículo 58 de esta ley, o mantenerse en el desempeño del cargo en dichos órganos sin poner en conocimiento de la Fiscalía General del Estado las circunstancias necesarias para proceder al traslado forzoso previsto en el artículo 39.3.
+Siete. Provocar el propio nombramiento para alguna Fiscalía cuando concurra en el nombrado alguna de las situaciones de incompatibilidad o prohibición previstas en el artículo Cincuenta y ocho de esta Ley, o mantenerse en el desempeño del cargo en dichos órganos sin poner en conocimiento de la Fiscalía General del Estado las circunstancias necesarias para proceder al traslado forzoso previsto en el artículo Treinta y Nueve, apartado tres.
 
-8. La inobservancia del deber de abstención a sabiendas de que concurre alguna de las causas legalmente previstas.
+Ocho. La inobservancia del deber de abstención a sabiendas de que concurre alguna de las causas legalmente previstas.
 
-9. La desatención o el retraso injustificado en el despacho de los asuntos o en el ejercicio de cualesquiera otras de las funciones que le fueran encomendadas.
+Nueve. La desatención o el retraso injustificado y reiterado en el despacho de los asuntos o en el ejercicio de cualesquiera otras de las funciones que le fueran encomendadas.
 
-10. La ausencia injustificada, por siete días naturales o más, de la sede de la Fiscalía en que se hallase destinado.
+Diez. El abandono del servicio o la ausencia injustificada y continuada por siete días naturales o más de la sede de la Fiscalía en que se hallase destinado.
 
-11. Faltar a la verdad en la solicitud de obtención de permisos, autorizaciones, declaraciones de compatibilidad, dietas y ayudas económicas.
+Once. Faltar a la verdad en la solicitud de obtención de permisos, autorizaciones, declaraciones de compatibilidad, dietas y ayudas económicas.
 
-12. La revelación por el fiscal de hechos o datos conocidos en el ejercicio de su función o con ocasión de ésta, cuando se cause algún perjuicio a la tramitación de un proceso o a cualquier persona.
+Doce. La revelación por el Fiscal de hechos o datos conocidos en el ejercicio de su función o con ocasión de ésta, cuando se cause algún perjuicio a la tramitación de un proceso o a cualquier persona.
 
-13. El abuso de la condición de fiscal para obtener un trato favorable e injustificado de autoridades, funcionarios o profesionales.
+Trece. El abuso de la condición de Fiscal para obtener un trato favorable e injustificado de autoridades, funcionarios o profesionales.
 
-14. La comisión de una falta grave cuando el fiscal hubiera sido anteriormente sancionado por otras dos graves, que hayan adquirido firmeza, sin que hubieran sido canceladas o procedido la cancelación de las correspondientes anotaciones, conforme a lo establecido en el artículo 69 de esta ley.
+Catorce. La comisión de una falta grave cuando el Fiscal hubiera sido anteriormente sancionado por otras dos graves, que hayan adquirido firmeza, sin que hubieran sido canceladas o procedido la cancelación de las correspondientes anotaciones, conforme a lo establecido en el artículo Sesenta y Nueve de esta Ley.
+
+Quince. La ignorancia inexcusable en el cumplimiento de sus deberes.
+
+Dieciséis. La absoluta y manifiesta falta de motivación en los informes y dictámenes que la precisen de conformidad con las Instrucciones de la Fiscalía General del Estado.
+
+> Se modifica por el art. único.35 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
 
 > Se modifica por el art. único.19 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523

@@ -112,6 +112,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria quinta](quinta.md)
 - [Disposición transitoria sexta](sexta.md)
 - [Disposición transitoria séptima](septima.md)
+- [Disposición transitoria octava](octava.md)
+- [Disposición transitoria novena](novena.md)
 - [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](dasegunda.md)
 - [Disposición adicional tercera](datercera.md)

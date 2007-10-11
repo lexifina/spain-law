@@ -1,3 +1,5 @@
-## Cuarta.
+## Disposición transitoria cuarta.
 
-Los años de antigüedad exigidos en esta Ley a efectos de promociones y nombramientos, se entenderán siempre referidos para los actuales Fiscales de Distrito a los servicios prestados a partir de su integración en la categoría tercera, grado de ingreso de la Carrera Fiscal.
+(Derogada)
+
+> Se deroga por la disposición derogatoria 1 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
