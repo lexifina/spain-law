@@ -1,0 +1,3 @@
+## Disposición adicional decimoquinta. Adaptación del Régimen Especial de los Trabajadores Autónomos.
+
+En el plazo de un año, el Gobierno presentará un estudio sobre la actualización de la normativa que regula el Régimen Especial de los Trabajadores Autónomos establecida esencialmente en el Decreto 2530/1970, de 20 de agosto, parcialmente derogado, a las necesidades y exigencias actuales del colectivo de los trabajadores autónomos. Este estudio preverá las medidas necesarias para fijar la convergencia en las aportaciones y derechos de los trabajadores autónomos, en relación a los establecidos por los trabajadores por cuenta ajena incluidos en el Régimen General de la Seguridad Social.

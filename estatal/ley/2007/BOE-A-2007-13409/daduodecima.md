@@ -1,0 +1,3 @@
+## Disposición adicional duodécima. Participación de trabajadores autónomos en programas de formación e información de prevención de riesgos laborales.
+
+Con la finalidad de reducir la siniestralidad y evitar la aparición de enfermedades profesionales en los respectivos sectores, las asociaciones representativas de los trabajadores autónomos y las organizaciones sindicales más representativas podrán realizar programas permanentes de información y formación correspondientes a dicho colectivo, promovidos por las Administraciones Públicas competentes en materia de prevención de riesgos laborales y de reparación de las consecuencias de los accidentes de trabajo y las enfermedades profesionales.
