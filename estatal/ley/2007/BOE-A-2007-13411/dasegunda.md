@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Plan de medidas de lucha contra las actividades de captación a distancia de información confidencial de forma fraudulenta.
+
+En el plazo de seis meses, el Gobierno, conjuntamente con las Comunidades Autónomas, y en colaboración con los agentes económicos afectados, presentará un plan de medidas de lucha contra las actividades de captación a distancia de información confidencial de forma fraudulenta, incorporando medidas de protección de los consumidores y usuarios que prioricen los elementos de seguridad en las transacciones y minimicen los riesgos y consecuencias económicas que para los ciudadanos se derivan de estas conductas delictivas.
