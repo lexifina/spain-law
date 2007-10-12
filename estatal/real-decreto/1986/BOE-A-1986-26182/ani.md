@@ -2,51 +2,47 @@
 
 1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_008.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_009.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_008.png)
 
 2. Tractores agrícolas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_012.png)
 
 3. Vehículos de 2 ó 3 ruedas cuadriciclos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_016.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_017.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_014.png)
 
 4. Varios
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_015.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_016.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/69/05939_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_017.png)
+
+> Se modifica por la Orden ITC/2948/2007, de 27 de septiembre de 2007. Ref. BOE-A-2007-17837.
 
 > Se modifica por la Orden ITC/658/2007, de 13 de marzo. Ref. BOE-A-2007-5939.
 
