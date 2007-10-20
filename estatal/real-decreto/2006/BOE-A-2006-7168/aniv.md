@@ -38,6 +38,8 @@ e) 23.ª Compañía de Ingenieros.
 
 f) Unidad de Intervención en Emergencias Naturales, en Gando-Telde (Las Palmas).
 
+g) Unidad de Intervención en Emergencias Naturales, en Los Rodeos-San Cristóbal de la Laguna (Santa Cruz de Tenerife).
+
 5. III Batallón de Intervención en Emergencias, en Bétera, (Valencia):
 
 a) Mando y Plana Mayor.
@@ -87,5 +89,7 @@ d) Compañía de Mantenimiento.
 e) Compañía de Abastecimiento.
 
 f) Compañía de Apoyo en Emergencias.
+
+> Se añade letra g) al apartado 4 por apartado único de la Orden DEF/3033/2007, de 11 de octubre. Ref. BOE-A-2007-18245
 
 > Se modifica por disposición final 1de la Orden DEF/1766/2007, de 13 de junio. Ref. BOE-A-2007-11932
