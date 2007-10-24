@@ -2,22 +2,28 @@
 
 ## Métodos de evaluación de los efectos nocivos
 
-Las relaciones dosis-efecto se utilizarán para evaluar el efecto del ruido sobre la población. Las relaciones dosis-efecto que se establezcan para la adaptación de este anexo a la normativa comunitaria se referirán en particular a lo siguiente:
+1. Las relaciones dosis-efecto se utilizarán para evaluar el efecto del ruido sobre la población.
 
-La relación entre las molestias y los valores de Lden por lo que se refiere al ruido del tráfico rodado, ferroviario, aéreo y de fuentes industriales.
+2. Las relaciones dosis-efecto que se establezcan para la adaptación de este anexo a la normativa comunitaria se referirán en particular a lo siguiente:
 
-La relación entre las alteraciones del sueño y los valores de Ln por lo que se refiere al ruido del tráfico rodado, ferroviario, aéreo y de fuentes industriales.
+– la relación entre las molestias y los valores de Lden por lo que se refiere al ruido del tráfico rodado, ferroviario, aéreo y de fuentes industriales,
 
-En caso necesario, podrán presentarse relaciones dosis-efecto específicas para:
+– La relación entre las alteraciones del sueño y los valores de Ln por lo que se refiere al ruido del tráfico rodado, ferroviario, aéreo y de fuentes industriales.
 
-Viviendas con aislamiento especial contra el ruido, según la definición del anexo VI.
+3. En caso necesario, podrán presentarse relaciones dosis-efecto específicas para:
 
-Viviendas con fachada tranquila, según la definición del anexo VI.
+– Viviendas con aislamiento especial contra el ruido, según la definición del anexo VI,
 
-Distintos climas o culturas.
+– viviendas con fachada tranquila, según la definición del anexo VI,
 
-Grupos de población vulnerables.
+– distintos climas o culturas,
 
-Ruido industrial tonal.
+– grupos de población vulnerables,
 
-Ruido industrial impulsivo y otros casos especiales.
+– ruido industrial tonal,
+
+– ruido industrial impulsivo y otros casos especiales.
+
+4. En tanto no se establezcan en la normativa comunitaria procedimientos comunes para determinar el grado de molestia, basados en las relaciones dosis-efectos del ruido sobre la población, se considerarán como valores admisibles de referencia en relación con las molestias y alteraciones del sueño, los que se determinen reglamentariamente.
+
+> Se modifica por la disposición final 1.3 del Real Decreto 1367/2007, de 19 de octubre. Ref. BOE-A-2007-18397.

@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Prevención de riesgos laborales.
+
+En materia de protección de la salud y seguridad de los trabajadores, se estará a lo dispuesto en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y su normativa de desarrollo y, específicamente, en el Real Decreto 1311/2005, de 4 de noviembre, sobre la protección de la salud y la seguridad de los trabajadores frente a los riesgos derivados o que puedan derivarse de la exposición a vibraciones mecánicas, y en el Real Decreto 286/2006, de 10 de marzo sobre protección de la salud y seguridad de los trabajadores contra los riesgos relacionados con la exposición al ruido, respecto a la protección de los trabajadores frente a los riesgos que en ellos se contemplan.

@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Zonas de servidumbre acústica.
+
+En tanto no se apruebe el mapa acústico o las servidumbres acústicas procedentes de cada una de las infraestructuras de competencia de la Administración General del Estado, se entenderá por zona de servidumbre acústica de las mismas a efectos de lo dispuesto en este Real Decreto y, especialmente, de sus artículos 10 y 23, el territorio incluido en el entorno de la infraestructura delimitado por los puntos del territorio, o curva isófona en los que se midan los objetivos de calidad acústica que sean de aplicación a las áreas acústicas correspondientes.
