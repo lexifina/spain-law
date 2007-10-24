@@ -16,6 +16,6 @@ c) Los diferentes elementos del marcado «CE» deberán tener una dimensión ver
 
 a) Las dos últimas cifras del año de colocación del marcado «CE».
 
-b) La marca de prestación energética atribuida en virtud del artículo 5 del presente Real Decreto corresponde al símbolo que figura a continuación:
+b) (Suprimida)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1995/73/07536_002.png)
+> Se suprime el apartado 2.b) por la disposición final 1.3 del Real Decreto 1369/2007, de 19 de octubre. Ref. BOE-A-2007-18398.
