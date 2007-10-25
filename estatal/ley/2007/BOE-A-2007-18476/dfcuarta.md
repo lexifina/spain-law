@@ -1,0 +1,3 @@
+## Disposición final cuarta. Facultades de ejecución y desarrollo.
+
+El Gobierno, en el ámbito de sus competencias y previa consulta a las conferencias sectoriales correspondientes y al Consejo Nacional de la Discapacidad, queda autorizado para dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de esta Ley. Asimismo, el Gobierno elaborará, específicamente, un reglamento que desarrolle la utilización de la lengua de signos española, así como los apoyos para cualquier tipo de ayuda técnica que contribuya a la eliminación de las barreras de comunicación para la integración social de las personas sordas con discapacidad auditiva o sordociegas.
