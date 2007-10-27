@@ -94,7 +94,6 @@ Columna 4: Colorantes admitidos únicamente en los productos cosméticos destina
 | 45.396 | naranja | X |  |  |  | Cuando se emplea para los labios, el colorante se admite únicamente en forma de ácido libre con una concetración máxima de 1%. |
 | 45.405 | rojo |  | X |  |  | Contenido máximo del 1% en fluoresceína y del 2% en monobromofluoresceína. |
 | 45.410 (3) | rojo | X |  |  |  | Ídem. |
-| 45.425 | rojo | X |  |  |  | Contenido máximo del 1% en fluoresceína y del 3% en monoiodofluoresceína. |
 | 45.430 (3) | rojo | X |  |  |  | E 127 Ídem. |
 | 47.000 | amarillo |  |  | X |  |  |
 | 47.005 | amarillo | X |  |  |  | E 104 |
@@ -175,5 +174,7 @@ Columna 4: Colorantes admitidos únicamente en los productos cosméticos destina
 (2) Los colorantes, cuyo número va acompañado de la letra E, de acuerdo con las disposiciones de la directiva de la CEE de 1.962, relativas a los aditivos alimentarios y a colorantes, deben cumplir las condiciones de pureza allí establecidas. Dichos colorantes siguen estando sometidos a los criterios generales del anexo II de la Directiva de 1962 a los colorantes aún cuando el número E haya sido suprimido de tal Directiva.
 
 (3) Las lacas, pigmentos o sales de Bario, Estroncio y Zirconio, insolubles, de estos colorantes están igualmente admitidas. Deben cumplir el test de insolubilidad previsto en el artículo 8 de la Directiva de la CEE de 1.962 relativa a los aditivos alimentarios y colorantes.
+
+> Se modifica por el art. 1.2 de la Orden SCO/3089/2007, de 19 de octubre. Ref. BOE-A-2007-18584.
 
 > Se modifica por el art. 1.3 de la Orden SCO/747/2006, de 9 de marzo. Ref. BOE-A-2006-4879.
