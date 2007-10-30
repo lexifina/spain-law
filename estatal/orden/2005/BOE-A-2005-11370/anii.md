@@ -208,6 +208,8 @@
 
 103. Sama de Langreo-San Martín del Rey Aurelio.
 
+103 bis San Andrés de Rabanedo
+
 104. San Fernando.
 
 105. San Juan de Aznalfarache.
@@ -275,3 +277,5 @@
 136. Xirivella-Aldaia-Alaquàs.
 
 137. Yecla.
+
+> Se añade el apartado 103. bis por el apartado único de la Orden INT/3117/2007, de 26 de octubre. Ref. BOE-A-2007-18721.
