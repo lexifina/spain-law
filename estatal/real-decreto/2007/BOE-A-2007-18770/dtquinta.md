@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Agencia Nacional de Evaluación de la Calidad y Acreditación.
+
+Hasta tanto se lleve a efecto la previsión contenida en el artículo 32 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, en su nueva redacción dada por la Ley Orgánica 4/2007, de 12 de abril, por la que se modifica la anterior, las funciones atribuidas a la ANECA en el presente real decreto, así como en el Real Decreto 1312/2007, de 5 de octubre, por el que se establece la acreditación nacional para el acceso a los cuerpos docentes universitarios, serán ejercidas por la actual Agencia Nacional de Evaluación de la Calidad y Acreditación.

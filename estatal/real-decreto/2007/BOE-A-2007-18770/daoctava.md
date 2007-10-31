@@ -1,0 +1,7 @@
+## Disposición adicional octava. Régimen transitorio de la modificación del Real Decreto 285/2004.
+
+La modificación del Real Decreto 285/2004, de 20 de febrero, por el que se regulan las condiciones de homologación y convalidación de títulos y estudios extranjeros de educación superior, que se establece en la disposición adicional séptima, tendrá el siguiente régimen transitorio:
+
+1. El plazo de cuatro años para la superación de los requisitos formativos complementarios se aplicará a todos los expedientes tramitados de acuerdo con el real decreto 285/2004, sobre los que no se hubiera dictado resolución en la fecha de entrada en vigor del presente real decreto, con independencia de su fecha de iniciación.
+
+2. En el caso de resoluciones de homologación, condicionadas a la superación de requisitos formativos complementarios, dictadas con anterioridad a la entrada en vigor del presente real decreto, si el plazo de dos años para la superación de los requisitos formativos complementarios no ha vencido el día de dicha entrada en vigor, se entenderá prorrogado hasta un total de cuatro años, a contar desde la notificación de la resolución. Si el plazo de dos años ya ha vencido antes de la entrada en vigor del presente real decreto, se entenderá concedido un nuevo plazo complementario de dos años para la superación de los requisitos formativos complementarios, a contar desde dicha entrada en vigor.
