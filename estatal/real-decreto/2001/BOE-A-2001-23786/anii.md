@@ -1,10 +1,10 @@
 ## ANEXO II
 
-## Relación de códigos municipales
+## Relación de códigos de comunidades autónomas y ciudades
 
-Illes Balears
+## Baleares
 
-070005 Código de provincia.
+## 070005 Código de provincia
 
 070027 Alaior.
 
@@ -46,7 +46,7 @@ Illes Balears
 
 070184 Deyá.
 
-070260 Eivissa.
+070260 Eivissa..
 
 070197 Escorca.
 
@@ -138,11 +138,11 @@ Illes Balears
 
 070630 Valldemosa.
 
-070658 Vilafranca de Bonany.
+070658 Vilafranca de Bonany
 
-Tenerife
+## Tenerife
 
-380005 Código de provincia.
+## 380005 Código de provincia
 
 380012 Adeje.
 
@@ -218,9 +218,9 @@ Tenerife
 
 380374 Santa Cruz de la Palma.
 
-380380 Santa Cruz de Tenerife.
+380380 San Cruz de Tenerife.
 
-380393 Santa Úrsula.
+380393 Santa Ursula.
 
 380407 Santiago del Teide.
 
@@ -250,9 +250,9 @@ Tenerife
 
 380532 Villa de Mazo.
 
-Las Palmas
+## Las Palmas
 
-350000 Código de provincia.
+## 350000 Código de provincia
 
 350017 Agaete.
 
@@ -320,14 +320,16 @@ Las Palmas
 
 350332 Vega de San Mateo.
 
-350347 Yaiza.
+350347 Yaiza
 
-Melilla
+## Melilla
 
 520018 Melilla.
 
-Ceuta
+## Ceuta
 
 510013 Ceuta.
+
+> Se modifica por el art. único.4 y anexo II del Real Decreto 1340/2007, de 11 de octubre. Ref. BOE-A-2007-18085.
 
 > Redactados los apartados Illes Balears y Tenerife conforme a la corrección de errores y erratas publicada en BOE núm. 28, de 1 de febrero de 2002. Ref. BOE-A-2002-1994.
