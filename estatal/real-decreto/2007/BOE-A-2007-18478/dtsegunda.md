@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Actividades de estiba y desestiba desarrolladas con anterioridad al 2 de marzo de 1995.
+
+Para las actividades de estiba y desestiba desarrolladas con anterioridad al 2 de marzo de 1995, únicamente se reconocerán coeficientes reductores de la edad de jubilación cuando se acrediten trabajos correspondientes a las categorías profesionales de: capataces generales, capataces de operaciones, jefes de grupo, amanteros, maquinilleros, gruistas, conductores, estibadores, gabarreros, osteros, escaladores, clasificadores, arrumbadores y arrastradores de pescado. El coeficiente reductor a aplicar será del 0,30.
