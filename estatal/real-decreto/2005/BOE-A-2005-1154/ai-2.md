@@ -200,7 +200,7 @@ c) Hongos
 
 | Especies | Objeto de contaminación | Zonas protegidas |
 | --- | --- | --- |
-| 01. Cryphonectria parasitica (Murrill.) Barr. | Madera, excluida la madera que ha sido descortezada y la corteza aislada de Castanea Mill. | CZ, DK, EL (Creta, Lesbos), IRL, S y UK (excepto la Isla de Man) |
+| 01. Cryphonectria parasitica (Murrill.) Barr. | Madera, excluida la madera que ha sido descortezada y la corteza aislada de Castanea Mill. | CZ, EL (Creta, Lesbos), IRL, S y UK (excepto la Isla de Man) |
 | 1. Glomerella gossypii Edgerton | Semillas y frutos (cápsulas) de Gossypium spp. | EL |
 | 2. Gremmeniella abietina (Lag.) Morelet | Vegetales de Abies Mill., Larix Mill., Picea A. Dietr., Pinus L., Pseudotsuga Carr., destinados a la plantación, excepto las semillas | IRL, UK (Irlanda del Norte) |
 | 3. Hypoxylon mammatum (Wahl.) J. Miller | Vegetales de Populus L., destinados a la plantación, excepto las semillas | IRL, UK (Irlanda del Norte) |
@@ -209,7 +209,10 @@ d) Virus y organismos similares
 
 | Especies | Objeto de contaminación | Zonas protegidas |
 | --- | --- | --- |
-| Citrus tristeza virus (cepas europeas) | Frutos de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, con hojas y pedúnculos | EL, F (Córcega), M y P |
+| 1. Citrus tristeza virus (cepas europeas) | Frutos de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, con hojas y pedúnculos | EL, F (Córcega), M y P |
+| 2. Flavescencia dorada de la vid (MLO). | Vegetales de Vitis L. excepto frutos y semillas. | CZ, FR (Alsacia, Champaña-Ardenas y Lorena) e IT (Basilicata). |
+
+> Se modifica por el art. único.1 de la Orden APA/2802/2007, de 24 de septiembre. Ref. BOE-A-2007-17112
 
 > Se modifica por el art. único.2 de la Orden APA/1242/2006, de 26 de abril. Ref. BOE-A-2006-7579
 

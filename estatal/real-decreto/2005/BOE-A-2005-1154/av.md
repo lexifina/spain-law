@@ -70,7 +70,7 @@ Además de los vegetales, productos vegetales y otros objetos enumerados en la p
 
 1.2. Populus L. y Beta vulgaris L. destinados a la plantación, excepto las semillas
 
-1.3. Vegetales, excepto los frutos y semillas, de Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill. Eriobotrya Lindl., Eucalyptus l’Hérit., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardo, Pyracantha Roem., Pyrus L.y Sorbus L.
+1.3. Vegetales, excepto frutos y semillas, de Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Eucalyptus L’Herit., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardot, Pyracantha Roem., Pyrus L., Sorbus L. y Vitis L.
 
 1.4. Polen vivo para polinización de Amelanchier Med, Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardo, Pyracantha Roem., Pyrus L. y Sorbus L.
 
@@ -246,6 +246,8 @@ b) responda a alguna de las siguientes designaciones de la parte 2 del anexo I d
 8. Partes de vegetales de Eucalyptus l’Hérit.
 
 9. Corteza aislada de coníferas (Coniferales), originaria de terceros países europeos.
+
+> Se modifica por el art. único.3 de la Orden APA/2802/2007, de 24 de septiembre. Ref. BOE-A-2007-17112
 
 > Se modifica por el art. único de la Orden APA/4139/2005, de 23 de diciembre. Ref. BOE-A-2006-40
 
