@@ -14,4 +14,10 @@
 
 6. Escuelas de Pedagogía del Tiempo Libre y Animación Socio-Cultural, reconocidas por el Instituto Catalán de Nuevas Profesiones (INCANOP) de la Generalidad de Cataluña: Pedagogia del Lleure i Animació Sociocultural.
 
+7. Escuelas Profesionales Luis Amigó (EPLA): Técnico Especialista en Adaptación Social
+
+8. Escuela de Educadores Especializados de la Fundación Bartolomé de Carranza: Educador Especializado en Inadaptación Psico-social.
+
+> Se añaden los apartados 7 y 8 por el art. único.3 del Real Decreto 1339/2007, de 11 de octubre. Ref. BOE-A-2007-18912.
+
 > Redactado conforme a la corrección de errores publicada en BOE núm. 119, de 19 de mayo de 2005. Ref. BOE-A-2005-8151.

@@ -20,6 +20,10 @@ Escuela de Educadores Especializados de Girona: Educador Especializado.
 
 Escuelas de Pedagogía del Tiempo Libre y Animación Socio-Cultural, reconocidas por el Instituto Catalán de Nuevas Profesiones (INCANOP) de la Generalidad de Cataluña: Pedagogia del Lleure i Animació Sociocultural.
 
+Escuelas Profesionales Luis Amigó (EPLA): Técnico Especialista en Adaptación Social
+
+Escuela de Educadores Especializados de la Fundación Bartolomé de Carranza: Educador Especializado en Inadaptación Psico-social.
+
 3. Requisitos:
 
 Estar en posesión de los requisitos previos para acceder a la universidad.
@@ -29,5 +33,7 @@ Estar en posesión de un título de Formación en Educación Social de tres año
 Haber iniciado los estudios en materia de educación social con anterioridad al curso académico 1992-1993.
 
 Que se trate de títulos expedidos a titulados que acrediten, al menos, un año de ejercicio profesional en las tareas propias de la educación social.»
+
+> Se modifica por el art. único.2 del Real Decreto 1339/2007, de 11 de octubre. Ref. BOE-A-2007-18912.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 119, de 19 de mayo de 2005. Ref. BOE-A-2005-8151.
