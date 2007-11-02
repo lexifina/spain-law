@@ -10,6 +10,8 @@
 
 5. Se considera voto en blanco, pero válido, el sobre que no contenga papeleta y, además, en las elecciones para el Senado, las papeletas que no contengan indicación a favor de ninguno de los candidatos.
 
+> Véase, sobre interpretación del apartado 2, la Instrucción 12/2007, de 25 de octubre, de la Junta Electoral Central. Ref. BOE-A-2007-19013
+
 > Se modifica el apartado 3 por el art. 13 de la Ley Orgánica 13/1994, de 30 de marzo. Ref. BOE-A-1994-7420.
 
 > Se modifica el apartado 5 por el art. único .28 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
