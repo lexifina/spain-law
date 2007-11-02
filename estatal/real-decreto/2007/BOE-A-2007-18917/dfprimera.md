@@ -1,0 +1,3 @@
+## Disposición final primera. Aplicación supletoria.
+
+En lo no previsto en este real decreto, la Comisión Interministerial de Igualdad entre mujeres y hombres, se regirá por sus propias normas de organización y funcionamiento y, en todo caso, por lo dispuesto en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
