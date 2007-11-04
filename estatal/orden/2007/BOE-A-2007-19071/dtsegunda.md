@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Coordinación de los registros de los títulos.
+
+A efectos de dar cumplimiento a lo dispuesto en el artículo 20 de esta orden, en el plazo de 12 meses desde su entrada en vigor, las administraciones públicas con competencia para el otorgamiento de los títulos regulados en esta orden, establecerán los mecanismos y medios de interconexión entre el registro de la Dirección General de la Marina Mercante y los de las comunidades autónomas que han asumido el ejercicio efectivo de las competencias en materia de enseñanzas náutico-deportivas, con sujeción a lo previsto en el artículo 6 de la Ley 30/1992, de 26 de noviembre.

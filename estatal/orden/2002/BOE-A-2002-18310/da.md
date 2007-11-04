@@ -1,5 +1,7 @@
 ## Disposición adicional primera. Personal que presta servicios en organismos o entidades públicas sin implicar ejercicio profesional.
 
-La Dirección General de la Marina Mercante, a través de las Capitanías Marítimas, podrá autorizar al personal que preste servicios en organismos o entidades públicas, sin que implique actividad profesional, el manejo de embarcaciones pertenecientes a los mismos inscritas en la Lista Octava, siempre y cuando estén en posesión de un título de recreo con atribuciones suficientes para la embarcación y esté previsto en los acuerdos de colaboración entre los citados organismos o entidades y el Ministerio de Fomento o la Dirección General de la Marina Mercante. A estos efectos, el organismo o entidad respectiva emitirá una certificación que acredite que el titular está autorizado para manejar las embarcaciones que corresponda.
+(Derogada)
 
-Los períodos de embarque realizados en estas condiciones no generarán derechos a efectos de justificar períodos de embarque para obtener titulaciones profesionales.
+> Se deroga por la disposición derogatoria de la Orden FOM/3200/2007, de 26 de octubre. Ref. BOE-A-2007-19071#dd
+
+> Téngase en cuenta que seguirán en vigor, sin necesidad de obtener una nueva autorización, aquellos convenios que se firmaron en base a esta disposición, según establece la disposición adicional 3 de la citada Orden.
