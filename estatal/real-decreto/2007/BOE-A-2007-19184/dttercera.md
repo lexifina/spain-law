@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Validez del libro de calificaciones de bachillerato.
+
+Los libros de calificaciones de bachillerato tendrán los efectos de acreditación establecidos en la legislación vigente respecto a las enseñanzas cursadas hasta la finalización del curso 2007-2008. Se cerrarán mediante diligencia oportuna al finalizar dicho curso y se inutilizarán las páginas restantes. Cuando la apertura del historial académico suponga la continuación del anterior libro de calificaciones de bachillerato, se reflejará la serie y el número de éste en dicho historial académico. Estas circunstancias se reflejarán también en el correspondiente expediente académico.
