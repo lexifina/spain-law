@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Aplicación del Capítulo III sobre etiquetado y prospecto a las solicitudes en trámite.
+
+El Capítulo III del mismo será aplicable a las solicitudes de autorización de comercialización que estén en trámite, así como a las modificaciones de los medicamentos de uso humano elaborados industrialmente y a los medicamentos que se encuentren en situación de suspensión temporal. No obstante, lo dispuesto en el artículo 36.3 de este reglamento, podrá ser cumplimentado como documentación adicional antes de la resolución de la solicitud o, como máximo, seis meses después de concedida la autorización, mediante la modificación correspondiente.
