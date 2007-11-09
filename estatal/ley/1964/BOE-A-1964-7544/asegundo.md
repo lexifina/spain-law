@@ -40,7 +40,7 @@ El Ministerio de Industria podrá determinar se considere como una sola instalac
 
 12 bis. Otros dispositivos e instalaciones experimentales.
 
-Se definen como dispositivos e instalaciones experimentales los que utilicen materiales radiactivos con vistas al desarrollo de nuevas fuentes energéticas.
+Se definen como dispositivos e instalaciones experimentales los que utilicen reacciones nucleares de fusión o fisión para producir energía o con vistas a la producción o desarrollo de nuevas fuentes energéticas.
 
 Estos dispositivos e instalaciones se someterán al mismo régimen de autorizaciones que se fije reglamentariamente para las instalaciones nucleares.
 
@@ -73,6 +73,8 @@ iii) La pérdida de vidas humanas, las lesiones corporales y los daños y perjui
 19.«Buque de guerra» es todo buque que pertenezca a las fuerzas navales de un Estado y lleve los signos exteriores que caracterizan a los buques de guerra de su nacionalidad, que esté bajo el mando de un Oficial debidamente autorizado por el Gobierno de dicho Estado y cuyo nombre figure en el Escalafón de la Marina y cuya tripulación se halle bajo la disciplina naval militar.
 
 20.«Aeronave militar» es toda aeronave que tenga como misión la defensa nacional o esté mandada por un militar comisionado al efecto.
+
+> Se modifica el apartado 12 bis por la disposición adicional 2.2 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
 
 > Se añade el apartado 12 bis por el art. 93.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 

@@ -1,7 +1,9 @@
-## Artículo primero. La presente Ley tiene por objeto:
+## Artículo primero.
 
-a) Fomentar el desarrollo de las aplicaciones pacíficas de la energía nuclear en España y regular su puesta en práctica dentro del territorio nacional.
+La presente ley tiene por objeto:
 
-b) Proteger vidas, salud y haciendas contra peligros derivados de la energía nuclear y de los efectos nocivos de las radiaciones ionizantes.
+a) Establecer el régimen jurídico para el desarrollo y puesta en práctica de las aplicaciones pacíficas de la energía nuclear y de las radiaciones ionizantes en España, de manera que se proteja adecuadamente a personas, cosas y medio ambiente.
 
-c) Regular la aplicación de los compromisos internacionales adquiridos por el Estado en materia de energía nuclear y radiaciones ionizantes.
+b) Regular la aplicación de los compromisos internacionales adquiridos por el Estado en materia de energía nuclear y radiaciones ionizantes.
+
+> Se modifica por la disposición adicional 2.1 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322

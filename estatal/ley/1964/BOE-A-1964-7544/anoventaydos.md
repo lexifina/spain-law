@@ -1,22 +1,18 @@
-## Artículo noventa y dos. Calificación de las infracciones.
+## Artículo noventa y dos. Medidas cautelares.
 
-Para la calificación de las infracciones se tendrán en cuenta las siguientes circunstancias:
+El órgano competente para imponer la sanción podrá acordar, a propuesta del Consejo de Seguridad Nuclear, entre otras, las siguientes medidas provisionales:
 
-1. El peligro resultante de la infracción para la vida y la salud de las personas, la seguridad de las cosas y el medio ambiente.
+a) Medidas de corrección, seguridad o control que impidan la continuidad en la infracción o en la producción del riesgo o daño.
 
-2. La importancia del daño o deterioro causado a personas y cosas.
+b) Precintado de aparatos o equipos.
 
-3. El grado de participación y beneficio obtenido.
+c) Incautación de materiales o equipos.
 
-4. El incumplimiento de las advertencias previas o requerimientos de las autoridades competentes.
+d) Suspensión temporal, parcial o total del funcionamiento de las instalaciones o de la ejecución de las actividades.
 
-5. La intencionalidad o negligencia en la comisión de la infracción y la reiteración.
+Las medidas señaladas en el apartado anterior podrán ser acordadas antes de la iniciación del procedimiento administrativo sancionador o durante el mismo, en las condiciones establecidas en los artículos 72 y 136 de la Ley 30/1992, sobre Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común.
 
-6. El fraude y la connivencia en su ejecución.
-
-7. La diligencia en la identificación de la infracción y en la información a los organismos competentes, siempre que se adopten las medidas correctoras oportunas.
-
-8. La reincidencia por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+> Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
 
 > Se modifica por la disposición adicional 5 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
 

@@ -1,20 +1,18 @@
-## Artículo noventa y tres.
+## Artículo noventa y tres. Prescripción.
 
-1. Tratándose de instalaciones nucleares y de las radiactivas de primera categoría, las infracciones en materia de energía nuclear serán sancionadas:
+1. Las infracciones y sanciones previstas en este capítulo prescribirán:
 
-a) Las infracciones muy graves, con multa de hasta 500.000.000 de pesetas.
+a) Las infracciones muy graves, a los cinco años, las graves a los tres años y las leves al año.
 
-b) Las infracciones graves, con multa de hasta 100.000.000 de pesetas.
+b) Las sanciones impuestas por faltas muy graves a los cinco años, las impuestas por faltas graves a los tres años y las impuestas por faltas leves al año.
 
-c) Las infracciones leves, con multa de hasta 10.000.000 de pesetas.
+2. El plazo de prescripción de las infracciones comenzará a contarse desde el día en que la infracción se hubiera cometido. En las infracciones derivadas de una actividad continuada, la fecha inicial del cómputo será la de finalización de la actividad, la del último acto en el que la infracción se consume o en el momento en que se detecte por la Administración competente la existencia de la infracción.
 
-2. Las infracciones muy graves y graves podrán dar lugar, conjuntamente con las multas previstas, a la revocación o suspensión temporal de los permisos, licencias o autorizaciones.
+Interrumpirá la prescripción la iniciación del procedimiento sancionador, con el conocimiento del interesado, reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.
 
-La cuantía de las sanciones se graduará atendiendo a los criterios de proporcionalidad y a las circunstancias especificadas en el artículo anterior.
+3. El tiempo de prescripción de las sanciones comenzará a contarse desde la fecha en que la resolución sancionadora sea firme, interrumpiéndose la prescripción por la iniciación, con el conocimiento del interesado, del procedimiento correspondiente.
 
-Las multas se podrán reiterar en el tiempo hasta que cese la conducta infractora.
-
-3. Cuando se trate de instalaciones radiactivas de segunda y tercera categorías, las sanciones económicas de multa se reducirán en su grado máximo a la mitad de las señaladas anteriormente.
+> Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
 
 > Se modifica por la disposición adicional 5 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
 

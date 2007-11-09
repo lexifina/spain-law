@@ -1,56 +1,32 @@
-## Artículo noventa y uno.
+## Artículo noventa y uno. Procedimiento y competencias.
 
-Sin perjuicio de las responsabilidades civiles y penales o de otro orden en que puedan incurrir las empresas que realicen actividades reguladas en la presente Ley, serán infracciones administrativas las acciones y omisiones que supongan incumplimiento o inobservancia de lo dispuesto en la misma, en la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear, y sus disposiciones que las desarrollan.
+1. El procedimiento para la imposición de las sanciones se ajustará a los principios de los artículos 127 a 138 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común, y a lo dispuesto en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el procedimiento para el ejercicio de la potestad sancionadora, a excepción del plazo máximo para la tramitación y notificación de la resolución del mismo, que será de un año.
 
-a) Son infracciones muy graves:
+2. El Consejo de Seguridad Nuclear propondrá, en su caso, la iniciación del correspondiente expediente sancionador respecto de aquellos hechos que pudieran ser constitutivos de infracción en materia de seguridad nuclear, protección radiológica o protección física, poniendo en conocimiento del órgano al que corresponda incoar el expediente tanto los hechos constitutivos de la infracción apreciada como las circunstancias relevantes que sean necesarias para su adecuada calificación.
 
-1. Realizar, sin obtener la preceptiva autorización, cualquier actividad que la requiera, de acuerdo con esta Ley o con sus normas de desarrollo.
+Asimismo, iniciado un expediente sancionador en materia de seguridad nuclear, protección radiológica o protección física, el Consejo de Seguridad Nuclear emitirá, con carácter preceptivo, un informe en el plazo de tres meses, para la adecuada calificación de los hechos objeto del procedimiento. Este informe se emitirá cuando dicha iniciación no fuera a propuesta del Consejo de Seguridad Nuclear, o en el supuesto en que, habiéndolo sido, consten en dicho procedimiento otros datos además de los comunicados por dicho ente.
 
-2. Continuar realizando una actividad cuando la autorización correspondiente esté suspendida o caducada, o no paralizar o suspender de forma inmediata, a requerimiento del Consejo de Seguridad Nuclear, el funcionamiento de la instalación cuando exista probabilidad de grave riesgo para la vida y salud de las personas o seguridad de las cosas.
+Dicho informe del Consejo de Seguridad Nuclear producirá la suspensión del plazo de resolución del procedimiento sancionador, hasta su emisión, y en todo caso, hasta un máximo período de tres meses desde que fue requerido.
 
-3. Ejercitar cualquier actividad regulada en esta Ley sin tener cubierta la responsabilidad civil por los daños que la misma pueda causar en la forma y con los límites legal o reglamentariamente previstos, salvo en lo referente a instalaciones radiactivas de segunda y tercera categoría.
+3. En el caso de la presunta comisión de infracciones que pudieran calificarse como leves, el Consejo de Seguridad Nuclear de modo alternativo a la propuesta de apertura de expediente sancionador podrá apercibir al titular de la actividad y requerir las medidas correctoras que correspondan, cuando las circunstancias del caso así lo aconsejen y siempre que no se deriven daños y perjuicios directos a las personas o al medio ambiente.
 
-4. El incumplimiento de los términos, requisitos, obligaciones, límites, condiciones o prohibiciones impuestos en las autorizaciones y licencias o en los documentos oficiales de explotación cuando tal incumplimiento implique un grave riesgo para la vida y la salud de las personas, y la seguridad de las cosas.
+Si este requerimiento no fuese atendido, el Consejo de Seguridad Nuclear podrá imponer multas coercitivas por un importe que será, la primera vez, del diez por ciento, y las segundas y sucesivas del veinte por ciento del valor medio de la sanción que correspondiera imponer, en su grado medio, con el fin de obtener la cesación de conductas activas u omisivas que resulten contrarias a las prescripciones de la presente Ley, de la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear, y sus disposiciones de desarrollo.
 
-5. La negativa absoluta, la resistencia reiterada a prestar colaboración o la obstrucción voluntaria grave de las funciones de inspección y control que al Consejo de Seguridad Nuclear corresponden.
+4. Con independencia de la sanción que pudiera corresponder en su caso al titular, el Consejo de Seguridad Nuclear podrá amonestar por escrito a la persona física que, mediante negligencia grave, sea responsable de la realización de una mala práctica por la que se haya originado la comisión material de hechos susceptibles de sanción.
 
-6. La ocultación deliberada de información relevante, o su suministro falso, a la Administración o al Consejo de Seguridad Nuclear, cuando dicho comportamiento implique un riesgo grave para las personas o las cosas.
+5. En el ámbito de la Administración del Estado, la competencia para la iniciación e instrucción de los expedientes sancionadores previstos en este capítulo corresponderá a los órganos y unidades que integran la Dirección General de Política Energética y Minas.
 
-7. La inaplicación de las medidas técnicas o administrativas que con carácter general o par ticular se impongan a una actividad, el incumplimiento de los plazos señalados para su puesta en práctica y la omisión de los requerimientos o medidas correctoras necesarias para el cumplimiento de los preceptos legales o reglamentarios cuando en todos los casos se produzca un grave riesgo para la vida y la salud de las personas, y la seguridad de las cosas.
+6. En el ámbito de la Administración del Estado, las sanciones por infracciones muy graves cometidas por titulares de instalaciones nucleares o radiactivas de primera categoría serán impuestas por el Consejo de Ministros, las graves por el Ministro de Industria, Turismo y Comercio, y las leves por el Director General de Política Energética y Minas.
 
-8. El incumplimiento o demora injustificados de las notificaciones obligadas en supuestos de emergencia, que lleven aparejado un grave riesgo para personas o bienes.
+Cuando se trate de sanciones por infracciones muy graves cometidas por los titulares de instalaciones radiactivas de segunda y tercera categoría y restantes actividades reguladas por esta Ley o sus normas de desarrollo, serán impuestas por el Ministro de Industria, Turismo y Comercio, y por el Director General de Política Energética y Minas en los supuestos de infracciones graves y leves.
 
-9. La manipulación, traslado o disposición en cualquier forma, de sustancias radiactivas o equipos productores de radiaciones ionizantes intervenidos.
+7. En el ámbito de las Comunidades Autónomas se estará a lo previsto en su propia normativa.
 
-b) Son infracciones graves:
+8. El Gobierno, mediante Real Decreto, podrá actualizar la cuantía de las multas establecidas en esta Ley, de acuerdo con las variaciones que experimente el índice de precios al consumo.
 
-1. El incumplimiento de los preceptos legales o reglamentarios aplicables o de los términos y condiciones de las autorizaciones o documentos oficiales de explotación, cuando no constituya falta muy grave, salvo los de escasa trascendencia.
+9. En materia de transporte de materiales radiactivos será de aplicación el presente cuadro sancionador en aquellos aspectos específicamente regulados por esta Ley o sus normas de desarrollo, sin perjuicio de las infracciones y sanciones establecidas en la legislación básica sobre ordenación del transporte.
 
-2. La omisión de las medidas correctoras necesarias para el cumplimiento de los preceptos legales o de los términos y condiciones de las autorizaciones, así como la inaplicación de las medidas técnicas o administrativas que con carácter general o particular pudieran imponerse a una actividad, o el incumplimiento de los plazos señalados para su puesta en práctica, cuando ninguno de los casos constituyan falta muy grave.
-
-3. Tener en funcionamiento instalaciones radiactivas que requieran la pertinente declaración sin que ésta haya sido formulada.
-
-4. La falta de comunicación a la autoridad que concedió la autorización o al Consejo de Seguridad Nuclear de los incumplimientos temporales de los términos y condiciones de aquélla.
-
-5. El funcionamiento de las instalaciones radiactivas de segunda y tercera categoría, sin tener cubierta la responsabilidad civil por los daños que las mismas puedan causar en la forma y límites legal o reglamentariamente previstos.
-
-6. La ocultación de información, o su suministro falso, a la Administración o al Consejo de Seguridad Nuclear, cuando no constituya falta muy grave o leve.
-
-7. Impedir, obstaculizar o retrasar las actuaciones inspectoras con acciones u omisiones, siempre que dicho comportamiento no deba ser calificado como falta muy grave o leve.
-
-8. El incumplimiento o demora injustificados de las notificaciones obligadas en supuestos de emergencia, siempre que no lleven aparejado un grave riesgo para personas o bienes.
-
-c) Son infracciones leves:
-
-1. El retraso en el cumplimiento de las medidas administrativas que no constituya falta grave o muy grave.
-
-2. La falta de información a las autoridades que concedieron las autorizaciones o licencias y al Consejo de Seguridad Nuclear, o su envío incompleto, inexacto, erróneo, o con retraso, que dificulte el oportuno control de las instalaciones o actividades, cuando no constituyan otra infracción y carezcan de trascendencia grave.
-
-3. No facilitar las actuaciones inspectoras, cuando se trate de un mero retraso en el cumplimiento de las obligaciones de información, comunicación o comparecencia.
-
-4. Las cometidas por simple negligencia, siempre que el riesgo derivado fuera de escasa importancia.
-
-5. Las simples irregularidades o cualquier incumplimiento meramente formal de los preceptos legales o reglamentarios cuando asimismo tengan escasa trascendencia.
+> Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
 
 > Se modifica por la disposición adicional 5 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
 
