@@ -1,0 +1,5 @@
+## Disposición adicional decimotercera. Procedimiento de evaluación y acreditación de unidades de competencia adquiridas por la experiencia laboral y aprendizajes no formales.
+
+1. La evaluación y acreditación de las unidades de competencia que formen parte del Catálogo Nacional de Cualificaciones Profesionales, adquiridas mediante la experiencia profesional, o por vía de aprendizajes no formales, se realizará mediante la acreditación parcial obtenida a través del procedimiento que se establezca en cumplimiento de lo dispuesto en el artículo 8.4 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+
+2. El Ministerio de Educación y Ciencia establecerá el procedimiento de acreditación de aquellas competencias no referidas al Catálogo Nacional de Cualificaciones Profesionales que formen parte del perfil profesional de los títulos objeto de regulación en este real decreto, adquiridas mediante la experiencia profesional y deportiva, o por vías de aprendizaje no formales.
