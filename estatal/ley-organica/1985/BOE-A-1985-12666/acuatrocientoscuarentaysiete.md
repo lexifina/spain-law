@@ -6,9 +6,9 @@
 
 3. Los conceptos retributivos complementarios serán los siguientes:
 
-a) El complemento general de puesto, que retribuye las características generales de los mismos ;
+a) El complemento general de puesto, que retribuye las características generales de los mismos;
 
-b) El complemento específico, único para cada puesto de trabajo y destinado a retribuir las condiciones particulares de los mismos ;
+b) El complemento específico, único para cada puesto de trabajo y destinado a retribuir las condiciones particulares de los mismos;
 
 c) El complemento de productividad, destinado a retribuir el especial rendimiento, la actividad extraordinaria y el interés o iniciativa con que el funcionario desempeñe su trabajo, así como su participación en los programas concretos de actuación y en la consecución de los objetivos que se determinen por el Ministerio de Justicia, oído el Consejo General del Poder Judicial, y negociados con las organizaciones sindicales más representativas.
 
@@ -26,7 +26,11 @@ b) Las correspondientes a sustituciones que impliquen el desempeño conjunto de 
 
 Estas retribuciones serán compatibles con todos los conceptos retributivos previstos anteriormente.
 
-5. Los secretarios sustitutos no profesionales percibirán las retribuciones correspondientes al puesto de trabajo desempeñado, excepto la correspondiente al concepto de antigüedad.
+5. Los secretarios sustitutos no profesionales percibirán las retribuciones correspondientes al puesto de trabajo desempeñado.
+
+Se reconocerán los trienios correspondientes a los servicios prestados que tendrán efectos retributivos conforme a lo establecido en la normativa vigente para los funcionarios de la Administración General del Estado. Este reconocimiento se efectuará previa solicitud del interesado.
+
+> Se modifica el apartado 5 por la disposición final 1.3 de la Ley Orgánica 13/2007, de 19 de noviembre. Ref. BOE-A-2007-19879.
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

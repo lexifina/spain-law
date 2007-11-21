@@ -44,11 +44,15 @@ e) Los delitos relativos a la prostitución y los de corrupción de menores o in
 
 f) Tráfico ilegal de drogas psicotrópicas, tóxicas y estupefacientes.
 
-g) Los relativos a la mutilación genital femenina, siempre que los responsables se encuentren en España.
+g) Tráfico ilegal o inmigración clandestina de personas, sean o no trabajadores.
 
-h) Y cualquier otro que, según los tratados o convenios internacionales, deba ser perseguido en España.
+h) Los relativos a la mutilación genital femenina, siempre que los responsables se encuentren en España.
+
+i) Y cualquier otro que, según los tratados o convenios internacionales, deba ser perseguido en España.
 
 5. En los supuestos de los apartados 3 y 4 será de aplicación lo dispuesto en la letra c) del apartado 2 de este artículo.
+
+> Se modifica el apartado 4 por el art. 1.1 de la Ley Orgánica 13/2007, de 19 de noviembre. Ref. BOE-A-2007-19879.
 
 > Se reordena la letra g) como h) y se añade la letra g) del apartado 4 por el art. único de la Ley Orgánica 3/2005, de 8 de julio. Ref. BOE-A-2005-11863.
 

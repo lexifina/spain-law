@@ -26,9 +26,13 @@ d) Las acciones relativas a condiciones generales de la contratación en los cas
 
 e) Los recursos contra las resoluciones de la Dirección General de los Registros y del Notariado en materia de recurso contra la calificación del Registrador Mercantil, con arreglo a lo dispuesto en la Ley Hipotecaria para este procedimiento.
 
-f) De los procedimientos de aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea y de su derecho derivado.
+f) De los procedimientos de aplicación de los artículos 81 y 82 del Tratado constitutivo de la Comunidad Europea y su derecho derivado, así como los procedimientos de aplicación de los artículos que determine la Ley de Defensa de la Competencia.
 
 g) De los asuntos atribuidos a los Juzgados de Primera Instancia en el artículo 8 de la Ley de Arbitraje cuando vengan referidos a materias contempladas en este apartado.
+
+3. Los juzgados de lo mercantil tendrán competencia para el reconocimiento y ejecución de sentencias y demás resoluciones judiciales y arbitrales extranjeras, cuando éstas versen sobre materias de su competencia, a no ser que, con arreglo a lo acordado en los tratados y otras normas internacionales, corresponda su conocimiento a otro juzgado o tribunal.
+
+> Se modifica la letra f) del apartado 2 y se añade el apartado 3 por la disposición final 1.1 y 2 de la Ley Orgánica 13/2007, de 19 de noviembre. Ref. BOE-A-2007-19879.
 
 > Se modifica la letra g) del apartado 2 por el art. 1 de la Ley Orgánica 20/2003, de 23 de diciembre. Ref. BOE-A-2003-23645.
 
