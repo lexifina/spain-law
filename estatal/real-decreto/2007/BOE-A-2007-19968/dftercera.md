@@ -1,0 +1,3 @@
+## Disposición final tercera. Facultades de desarrollo.
+
+Se autoriza a los Ministros de Economía y Hacienda, de Trabajo y Asuntos Sociales, de Industria, Turismo y Comercio y de Administraciones Públicas, previa consulta al Consejo Nacional de la Discapacidad y al sector de operadores y empresas obligadas a cumplir las medidas del real decreto, a proponer al Ministro de la Presidencia la adopción mediante orden de cuantas disposiciones sean necesarias para la actualización de estándares determinados en el reglamento sobre las condiciones básicas para el acceso de las personas con discapacidad a las tecnologías, productos y servicios relacionados con la sociedad de la información y medios de comunicación social o el reconocimiento de otros nuevos.
