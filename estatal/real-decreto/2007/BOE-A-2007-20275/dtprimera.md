@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Garantía de continuidad en la ejecución de la política española de cooperación internacional para el desarrollo.
+
+No obstante lo establecido en la disposición adicional segunda de este real decreto y al efecto de garantizar la continuidad en la ejecución de la política de cooperación para el desarrollo, los órganos directivos de la Agencia Española de Cooperación Internacional, continuarán transitoriamente en el desempeño de sus funciones hasta tanto se produzca el nombramiento del Director y del personal directivo de la Agencia Española de Cooperación Internacional para el Desarrollo
