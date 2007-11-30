@@ -18,6 +18,7 @@
 | 320 | I.V.A. GRANDES EMPRESAS | M |
 | 330 | I.V.A. EXPORTADORES | M-T |
 | 332 | I.V.A. EXPORTADORES. GRANDES EMPRESAS | M |
+| 353 | GRUPO DE ENTIDADES. AUTOLIQUIDACIÓN MENSUAL. | M |
 | 430 | IMPUESTO SOBRE LAS PRIMAS DE SEGUROS | M |
 | 559 | IMPUESTO SOBRE EL ALCOHOL Y BEBIDAS DERIVADAS. RÉGIMEN DE DESTILACIÓN ARTESANAL Y COSECHERO | 0A-M-T |
 | 560 | IMPUESTO SOBRE LA ELECTRICIDAD | M-T |
@@ -29,3 +30,5 @@
 | 569 | I. VENTAS MINORISTAS DE HIDROCARBUROS | T |
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se modifica por la disposición adicional única de la Orden EHA/3434/2007, de 23 de noviembre. Ref. BOE-A-2007-20484.

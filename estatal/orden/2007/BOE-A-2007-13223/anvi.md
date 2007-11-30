@@ -15,4 +15,7 @@
 | 311 | DEVOLUCIÓN IVA RÉGIMEN SIMPLIFICADO-DECLARACIÓN FINAL (una vez al año). | 0A (4T) |
 | 320 | DEVOLUCIÓN IVA GRANDES EMPRESAS (una vez al año). | 0A (12) |
 | 330 | DEVOLUCIÓN IVA EXPORTADORES. | M-T |
+| 353 | GRUPO DE ENTIDADES. AUTOLIQUIDACIÓN MENSUAL. | M |
 | 371 | DEVOLUCIÓN IVA RÉGIMEN GENERAL Y SIMPLIFICADO-DECLARACIÓN FINAL (una vez al año). | 0A (4T) |
+
+> Se añade el modelo 353 por la disposición adicional única de la Orden EHA/3434/2007, de 23 de noviembre. Ref. BOE-A-2007-20484.
