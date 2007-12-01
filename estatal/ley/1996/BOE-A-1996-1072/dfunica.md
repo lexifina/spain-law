@@ -14,4 +14,6 @@ Los restantes preceptos de esta Ley podrán ser de aplicación en defecto de leg
 
 El artículo 48.3 se dicta, además, al amparo de las competencias exclusivas del Estado en materia de legislación procesal contenidas en la regla 6.ª del artículo 149.1 de la Constitución.
 
+> Se derogan las menciones que se hacen al art. 48 y disposición adicional primera por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2007, de 16 de noviembre. Ref. BOE-A-2007-20555
+
 > Se modifica por el art. 7 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811

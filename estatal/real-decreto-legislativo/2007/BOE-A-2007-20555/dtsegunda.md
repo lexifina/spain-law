@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Productos de naturaleza duradera.
+
+En tanto no se concreten por el Gobierno los productos de naturaleza duradera, se entenderá que tales productos son los enumerados en el anexo II del Real Decreto 1507/2000, de 1 de septiembre, por el que se actualizan los catálogos de productos y servicios de uso o consumo común, ordinario y generalizado y de bienes de naturaleza duradera, a efectos de lo dispuesto, respectivamente, en los artículos 2, apartado 2, y 11, apartados 2 y 5, de la Ley General para la Defensa de los Consumidores y Usuarios y normas concordantes.
