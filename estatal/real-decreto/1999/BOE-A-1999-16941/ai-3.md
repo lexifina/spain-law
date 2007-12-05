@@ -18,4 +18,8 @@ En los casos en los que las personas con movilidad reducida deban seguir en el b
 
 5. Prescripciones adicionales para garantizar la movilidad dentro del buque. Las barandillas, los corredores y los pasillos, los accesos y las puertas permitirán el movimiento de una persona en silla de ruedas. Los ascensores, las cubiertas para vehículos, los salones de pasajeros, los alojamientos y los servicios estarán diseñados de forma que sean razonable y proporcionadamente accesibles a las personas.»
 
+> Téngase en cuenta que este anexo se encuentra derogado con efectos de 5 de diciembre de 2007, en lo que sea de aplicación a los buques de pabellón español de las clases A, B y C, por la disposición derogatoria única.1 del Real Decreto 1544/2007, de 23 de noviembre. Ref. BOE-A-2007-20785
+
+> Se deroga, en lo que sea de aplicación a los buques de pabellón español de las clases A, B y C, por la disposición derogatoria única.1 del Real Decreto 1544/2007, de 23 de noviembre. Ref. BOE-A-2007-20785
+
 > Se añade por el art. único del Real Decreto 1036/2004, de 7 de mayo. Ref. BOE-A-2004-9350
