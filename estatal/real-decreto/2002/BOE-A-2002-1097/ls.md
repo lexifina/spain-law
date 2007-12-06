@@ -26,11 +26,9 @@ La frase «acuerdo regional de navegación aérea» se refiere a un acuerdo apro
 
 La operación de aeronaves, tanto en vuelo como en el área de movimiento de los aeródromos, se ajustará a las reglas generales y, además, durante el vuelo:
 
-a) a las reglas de vuelo visual, o
+a) A las reglas de vuelo visual, o
 
-b) a las reglas de vuelo visual nocturno; o
-
-c) a las reglas de vuelo por instrumentos.
+b) A las reglas de vuelo por instrumentos.
 
 2.2.3. Responsabilidad respecto al cumplimiento del Reglamento del Aire.
 
@@ -338,13 +336,13 @@ Entre la puesta y la salida del sol, o durante cualquier otro período entre la 
 
 2.3.3.1.2. Se presentará un plan de vuelo antes de realizar:
 
-a) cualquier vuelo IFR o parte del mismo;
+a) Cualquier vuelo IFR o parte del mismo.
 
-b) cualquier vuelo VFR o parte del mismo al que tenga que prestarse servicio de control de tránsito aéreo;
+b) Cualquier vuelo VFR o parte del mismo al que tenga que prestarse servicio de control de tránsito aéreo.
 
 c) cualquier vuelo VFR que requiera el suministro de servicios de información de vuelo, de alerta y de búsqueda y salvamento;
 
-d) cualquier vuelo VFR dentro de áreas designadas o a lo largo de rutas designadas, cuando así lo requiera la autoridad ATS competente para facilitar la coordinación con las dependencias militares o con las dependencias de los servicios de tránsito aéreo competentes en Estados adyacentes, a fin de evitar la posible necesidad de interceptación para fines de identificación;
+d) cualquier vuelo dentro de áreas designadas o a lo largo de rutas designadas, cuando así lo requiera la autoridad ATS competente para facilitar la coordinación con las dependencias militares o con las dependencias de los servicios de tránsito aéreo competentes en Estados adyacentes, a fin de evitar la posible necesidad de interceptación para fines de identificación;
 
 e) todo vuelo VFR a través de fronteras internacionales.
 
@@ -354,21 +352,17 @@ Podrán constituir excepción a dicha regla:
 
 i) los vuelos militares en misiones tácticas o de defensa aérea,
 
-ii) los vuelos de búsqueda y salvamento en misiones de urgencia y
+ii) los vuelos de búsqueda y salvamento en misiones de urgencia y iii) los vuelos expresamente autorizados por la autoridad competente.
 
-iii) los vuelos expresamente autorizados por la autoridad competente.
+Los vuelos exceptuados de presentar un plan de vuelo relacionados en i), ii) y iii) se realizarán conforme a las reglas de vuelo por instrumentos o a las reglas de vuelo visual, según se acuerde en cada caso con las dependencias de los servicios de tránsito aéreo.
 
-Los vuelos exceptuados de presentar un plan de vuelo relacionados en i), ii) y iii) se realizarán conforme a las reglas de vuelo por instrumentos, a las reglas de vuelo visual o a las reglas de vuelo visual nocturno, según se acuerde en cada caso con las dependencias de los servicios de tránsito aéreo.
+La expresión "plan de vuelo" se aplica a la información acerca de los conceptos contenidos en la descripción del plan de vuelo, que comprenda la totalidad o parte de la ruta de vuelo y, en los supuestos exceptuados, a la información que se exige cuando se trata de obtener autorización para una parte secundaria de un vuelo, como podría ser si se quisiera cruzar una aerovía, despegar de un aeródromo controlado o aterrizar en él.
 
-La expresión «plan de vuelo» se aplica a la información acerca de los conceptos contenidos en la descripción del plan de vuelo, que comprenda la totalidad o parte de la ruta de vuelo y, en los supuestos exceptuados, a la información que se exige cuando se trata de obtener autorización para una parte secundaria de un vuelo, como podría ser si se quisiera cruzar una aerovía, despegar de un aeródromo controlado o aterrizar en él.
-
-Nota: No será necesaria la presentación de plan de vuelo para el vuelo VFR en aeródromos no controlados y en espacio aéreo clases E, F y G, a menos que se cruce una frontera internacional o que la autoridad ATS competente lo requiera para evitar la posible necesidad de interceptación o que el piloto solicite servicios de tránsito aéreo.
+Nota.-No será necesaria la presentación de plan de vuelo para el vuelo VFR en aeródromos no controlados y en espacio aéreo clases E, F y G, a menos que se cruce una frontera internacional o que la autoridad ATS competente lo requiera para evitar la posible necesidad de interceptación o que el piloto solicite servicios de tránsito aéreo.
 
 2.3.3.1.3. El plan de vuelo se presentará antes de la salida a una oficina de notificación de los servicios de tránsito aéreo o a una unidad IFPS (IFPU) en los casos que se especifican en las publicaciones de información aeronáutica, o se transmitirá durante el vuelo, a la dependencia de los servicios de tránsito aéreo o a la estación de radio de control aeroterrestre competente a menos que se hayan efectuado otros arreglos para la presentación de planes de vuelo repetitivos.
 
-2.3.3.1.4. Presentación del plan de vuelo.
-
-A menos que la autoridad ATS competente prescriba otra cosa, se presentará un plan de vuelo para un vuelo al que haya de suministrarse servicios de tránsito aéreo con la antelación que se indica a continuación.
+2.3.3.1.4. Presentación del plan de vuelo. A menos que la autoridad ATS competente prescriba otra cosa, se presentará un plan de vuelo para un vuelo al que haya de suministrarse servicios de tránsito aéreo con la antelación que se indica a continuación.
 
 a) Presentación del plan de vuelo antes de la salida:
 
@@ -380,7 +374,7 @@ b) por lo menos 3 horas antes de la EOBT si solicita servicio de control o de as
 
 c) por lo menos 60 minutos antes de la EOBT si solicita servicio de control o de asesoramiento de tránsito aéreo y no está sujeto a control de afluencia.
 
-2) Vuelo VFR y VFRN desde aeródromo no controlado:
+2) Vuelo VFR desde aeródromo no controlado:
 
 a) antes de la salida si solo solicita servicio de información de vuelo y alerta;
 
@@ -392,23 +386,23 @@ a) Por lo menos 3 horas antes de la EOBT si el vuelo está sujeto a control de a
 
 b) Por lo menos 60 minutos antes de la EOBT si el vuelo no está sujeto a control de afluencia.
 
-4) Vuelo VFR y VFRN desde aeródromo controlado:
+4) Vuelo VFR desde aeródromo controlado:
 
 a) Por lo menos 60 minutos antes de la EOBT si sale de un aeródromo con servicio H24;
 
 b) Por lo menos 30 minutos antes de la EOBT si sale de un aeródromo sin servicio H24.
 
-b) Presentación del plan de vuelo durante el vuelo:
+b) [Sic] Presentación del plan de vuelo durante el vuelo:
 
 1) En cualquier momento, si se solicita servicio de información de vuelo y alerta.
 
 2) Si se solicita servicio de control o de asesoramiento de tránsito aéreo, se presentará el plan de vuelo en el momento en que exista la seguridad de que lo recibirá la dependencia apropiada de los servicios de tránsito aéreo por lo menos 10 minutos antes de la hora en que se calcule que la aeronave llegará:
 
-a) al punto previsto de entrada en un área de control o en un área con servicio de asesoramiento; o
+a) Al punto previsto de entrada en un área de control o en un área con servicio de asesoramiento; o
 
 b) al punto de cruce con una aerovía o con una ruta con servicio de asesoramiento.
 
-Nota: En este caso los vuelos IFR podrían sufrir retraso en vuelo, sobre todo si estuvieran sujetos a control de afluencia.
+Nota.-En este caso los vuelos IFR podrían sufrir retraso en vuelo, sobre todo si estuvieran sujetos a control de afluencia.
 
 2.3.3.2. Contenido del plan de vuelo.
 
@@ -462,7 +456,7 @@ El plan de vuelo contendrá información respecto a los conceptos siguientes que
 
 2.3.3.4. Cambios en el plan de vuelo.
 
-A reserva de los dispuesto en 2.3.6.2.2., todos los cambios (1) de un plan de vuelo presentado para el vuelo IFR, o para un vuelo VFR o VFRN que se realice como vuelo controlado, se notificarán lo antes posible a la dependencia correspondiente de los servicios de tránsito aéreo. Para otros vuelos VFR o VFRN, los cambios importantes del plan de vuelo se notificarán lo antes posible a la dependencia correspondiente de los servicios de tránsito aéreo (2).
+A reserva de lo dispuesto en 2.3.6.2.2., todos los cambios (1) de un plan de vuelo presentado para el vuelo IFR, o para un vuelo VFR que se realice como vuelo controlado, se notificarán lo antes posible a la dependencia correspondiente de los servicios de tránsito aéreo. Para otros vuelos VFR, los cambios importantes del plan de vuelo se notificarán lo antes posible a la dependencia correspondiente de los servicios de tránsito aéreo (2).
 
 (1) La información presentada antes de la salida respecto a la autonomía o al número total de personas transportadas a bordo, si es inexacta en el momento de la salida, constituye un cambio importante en el plan de vuelo y como tal debe notificarse.
 
@@ -540,7 +534,7 @@ Si antes de la salida se prevé que dependiendo de la autonomía de combustible 
 
 2.3.6.2.1. Salvo lo dispuesto en 2.3.6.2.2. y 2.3.6.2.4., toda aeronave se atendrá al plan de vuelo actualizado o a la parte aplicable de un plan de vuelo actualizado presentada para un vuelo controlado, a menos que haya solicitado un cambio y se haya conseguido la autorización de la dependencia apropiada del control de tránsito aéreo, o que se presente una situación de emergencia que exija tomar medidas inmediatas por parte de la aeronave, en cuyo caso, tan pronto como lo permitan las circunstancias, después de aplicadas dichas medidas, se informará a la dependencia correspondiente de los servicios de tránsito aéreo de las medidas tomadas y del hecho que dichas medidas se debieron a una situación de emergencia.
 
-2.3.6.2.1.1. A menos que la autoridad ATS competente autorice o que la dependencia de control de tránsito aéreo competente autorice o disponga otra cosa, los vuelos controlados, en la medida de lo posible:
+2.3.6.2.1.1. A menos que la dependencia de control de tránsito aéreo competente autorice o disponga otra cosa, los vuelos controlados, en la medida de lo posible:
 
 a) cuando se efectúen en una ruta ATS establecida, operarán a lo largo del eje definido de esa ruta, o
 
@@ -578,13 +572,11 @@ b) Cambio de ruta:
 
 2) Con modificación del punto de destino: Identificación de la aeronave; reglas de vuelo; descripción de la ruta de vuelo revisada hasta el nuevo aeródromo de destino, incluso los datos relacionados con el plan de vuelo empezando con la posición desde la cual se inicia el cambio de ruta solicitado; horas previstas revisadas; aeródromo(s) de alternativa; cualquier otra información pertinente.
 
-2.3.6.2.4. Deterioro de las condiciones meteorológicas hasta quedar por debajo de las VMC o VMCN.
+2.3.6.2.4. Deterioro de las condiciones meteorológicas hasta quedar por debajo de las VMC. Cuando sea evidente que no será factible el vuelo en VMC de conformidad con su plan de vuelo actualizado, el vuelo VFR que se realice como vuelo controlado deberá:
 
-Cuando sea evidente que no será factible el vuelo en VMC o VMCN de conformidad con su plan de vuelo actualizado, el vuelo VFR o VFRN que se realice como vuelo controlado deberá:
+a) solicitar una autorización enmendada que le permita continuar en VMC, hasta el punto de destino o hasta un aeródromo de alternativa, o salir del espacio aéreo dentro del cual se necesita una autorización ATC; o
 
-a) solicitar una autorización enmendada que le permita continuar en VMC o VMCN, según corresponda hasta el punto de destino o hasta un aeródromo de alternativa, o salir del espacio aéreo dentro del cual se necesita una autorización ATC; o
-
-b) si no puede obtener una autorización de conformidad con a), continuar el vuelo en VMC o VMCN, según corresponda, y notificar a la dependencia ATC correspondiente las medidas que toma, ya sea salir del espacio aéreo de que se trate o aterrizar en el aeródromo apropiado más próximo; o
+b) si no puede obtener una autorización de conformidad con a), continuar el vuelo en VMC y notificar a la dependencia ATC correspondiente las medidas que toma, ya sea salir del espacio aéreo de que se trate o aterrizar en el aeródromo apropiado más próximo; o
 
 c) solicitar autorización para volar de acuerdo con las reglas de vuelo por instrumentos; o
 
@@ -614,15 +606,19 @@ Salvo cuando aterricen en un aeródromo controlado, los vuelos controlados tan p
 
 Si el fallo de las comunicaciones impide cumplir con lo dispuesto en 2.3.6.5.1, la aeronave observará los procedimientos de fallo de comunicaciones del libro Cuarto, y aquellos de los procedimientos siguientes que sean apropiados. La aeronave intentará comunicarse con la dependencia de control de tránsito aéreo pertinente utilizando todos los demás medios disponibles. Además, la aeronave, cuando forme parte del tránsito de aeródromo en un aeródromo controlado, se mantendrá vigilante para atender a las instrucciones que puedan darse por medio de señales visuales.
 
-2.3.6.5.2.1. Si la aeronave con fallo de comunicaciones opera en condiciones meteorológicas de vuelo visual o de vuelo visual nocturno, la aeronave:
+2.3.6.5.2.1. Si la aeronave con fallo de comunicaciones opera en condiciones meteorológicas de vuelo visual, la aeronave (1), a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea:
 
-a) hará funcionar el transpondedor en Código 7600;
+a) Hará funcionar el transpondedor en Código 7600.
 
-b) proseguirá su vuelo en condiciones meteorológicas de vuelo visual o de vuelo visual nocturno, según corresponda; aterrizará en el aeródromo adecuado más próximo y notificará su llegada, por el medio más rápido, a la dependencia apropiada del control de tránsito aéreo;
+b) Proseguirá su vuelo en condiciones meteorológicas de vuelo visual.
 
-c) completará un vuelo IFR, conforme a lo establecido en el punto 2.3.6.5.2.2.
+c) Aterrizará en el aeródromo adecuado más próximo; y
 
-2.3.6.5.2.2. Si la aeronave con fallo de comunicaciones en vuelo controlado opera en condiciones meteorológicas de vuelo por instrumentos, o si el piloto de un vuelo IFR considera que no es conveniente terminar el vuelo de acuerdo con lo prescrito en 2.3.6.5.2.1, la aeronave:
+d) Notificará su llegada, por el medio más rápido, a la dependencia apropiada del control de tránsito aéreo.
+
+(1) Se refiere a todos los vuelos controlados.
+
+2.3.6.5.2.2 Si la aeronave con fallo de comunicaciones en vuelo controlado opera en condiciones meteorológicas de vuelo por instrumentos, o si el piloto de un vuelo IFR considera que no es conveniente terminar el vuelo de acuerdo con lo prescrito en 2.3.6.5.2.1, la aeronave:
 
 a) hará funcionar el transpondedor en Código 7600;
 
@@ -714,9 +710,9 @@ e) aterrizará, de ser posible, dentro de los 30 minutos siguientes a la hora pr
 
 en c) o la hora prevista de aproximación de que últimamente se haya acusado recibo, lo que resulte más tarde.
 
-2.3.6.5.2.2.3 La autoridad competente podrá establecer y publicar en AIP las partes del espacio aéreo de la FIR/UIR Canarias donde sean de aplicación los procedimientos recogidos en 2.3.6.5.2.2
+2.3.6.5.2.2.3 La autoridad competente podrá establecer y publicar en AIP las partes del espacio aéreo de la FIR/UIR Canarias donde sean de aplicación los procedimientos recogidos en 2.3.6.5.2.2.
 
-2.3.6.5.2.3. La autoridad competente podrá establecer y publicar en AIP las partes del espacio aéreo de la FIR/UIR Canarias donde sean de aplicación los procedimientos recogidos en 2.3.6.5.2.2.
+2.3.6.5.2.3. (Suprimido).
 
 2.3.6.5.2.4. (Suprimido).
 
@@ -972,13 +968,23 @@ a) pueden permitirse visibilidades de vuelo inferiores, hasta 1500 m, para los v
 
 b) Los helicópteros pueden estar autorizados a volar con una visibilidad de vuelo inferior a 1500 m si maniobran a una velocidad que dé oportunidad adecuada para observar el tránsito, o cualquier obstáculo, con el tiempo suficiente para evitar una colisión.
 
-2.4.2. Excepto cuando lo autorice la dependencia de control de tránsito aéreo, en vuelos VFR no se despegará ni se aterrizará en ningún aeródromo dentro de una zona de control, ni se entrará en la zona de tránsito de aeródromo o en el circuito de tránsito de dicho aeródromo:
+2.4.2. Techo de nubes y visibilidad para operaciones de vuelo VFR en aeródromos/helipuertos.
 
-a) si el techo de nubes es inferior a 450 m (1500 ft); o
+Excepto cuando lo autorice la dependencia ATC, en vuelo VFR no se despegará ni aterrizará en ningún aeródromo/ helipuerto controlado, situado dentro o fuera de una CTR, ni se entrará en el ATZ ni en el circuito de tránsito de dicho aeródromo si:
 
-b) si la visibilidad en tierra es inferior a 5 km.
+a) el techo de nubes es inferior a 450 m (1500 ft); o
 
-2.4.3. Los vuelos VFR, entre la puesta y la salida del sol, se realizarán de conformidad con las condiciones prescritas en 2.4.11.
+b) la visibilidad en tierra es inferior a 5 km.
+
+2.4.3. Los vuelos VFR, entre la puesta y la salida del sol o durante otro cualquier período entre la puesta y la salida del sol que pueda prescribir la autoridad ATS competente, se realizarán de conformidad con las condiciones prescritas por dicha autoridad.
+
+2.4.3.1 Equipo de aeronave para vuelos visuales nocturnos.
+
+La aeronave para vuelos visuales, entre la puesta y la salida del sol o durante cualquier otro período entre la puesta y la salida del sol, estará provista de:
+
+a) los instrumentos y equipo de comunicaciones y navegación prescritos para aeronaves en vuelo IFR nocturno, y
+
+b) respondedor SSR en estado operativo con Modo A/3 y capacidad para 4096 claves de respuesta y, cuando se requiera en el espacio aéreo en que se vaya a volar, dispositivo de transmisión automática de altitud de presión en Modo C.
 
 2.4.4. A menos que lo autorice la autoridad ATS competente civil/militar, no se realizarán vuelos VFR:
 
@@ -1028,177 +1034,11 @@ b) cuando así lo requiera 2.3.3.1.2., someterá un plan de vuelo a la dependenc
 
 2.4.11. Reglas de vuelo visual nocturno.
 
-2.4.11.1. Condiciones de visibilidad y distancia de nubes.
+(Suprimido).
 
-El vuelo VFRN se realizará de forma que la aeronave vuele en condiciones de visibilidad de vuelo y distancia de las nubes que sean iguales o superiores a las que se indican a continuación:
+2.4.11.1. a 2.4.11.20
 
-Tabla de condiciones de visibilidad y distancia de nubes de vuelos VFR nocturnos*
-
-| Clase de Espacio Aéreo | B - C - D - E | F - G |
-| --- | --- | --- |
-| Por encima de 900 m (3000 ft) AMSL o por encima de 300 m (1000 ft) sobre el terreno, de ambos valores el mayor | A 900 m (3000 ft) AMSL o por debajo, o a 300 m (1000 ft) sobre el terreno, de ambos valores el mayor |
-| Distancia de las nubes | 1.500 m horizontalmente 300 m (1000 ft) verticalmente | Libre de nubes y a la vista de la superficie |
-| Visibilidad de vuelo | 8 km a 3050 m (10.000 ft) AMSL o por encima 5 km por debajo de 3050 m (10.000 ft) AMSL | 5 km |
-
-* Cuando la altitud de transición sea inferior a 3050 m (10.000 ft) AMSL, deberá utilizarse el FL100 en vez de 10.000 ft.
-
-2.4.11.2. Mínimos de utilización de aeródromos.
-
-En vuelo VFR nocturno no se aterrizará, excepto en caso de emergencia, ni se despegará de ningún aeródromo controlado o no controlado si el techo de nubes es inferior a 450 m (1.500 ft) o si la visibilidad en tierra es inferior a 5 km.
-
-2.4.11.3. Prohibiciones.
-
-2.4.11.3.1. A menos que lo autorice la autoridad ATS competente civil o militar no se realizarán vuelos VFR nocturnos:
-
-a) por encima de nivel de vuelo 200 en la región EUR y por encima de nivel de vuelo 150 en la región AFI; y
-
-b) a velocidades transónicas o supersónicas.
-
-No se otorgará autorización para vuelos VFR nocturnos por encima de FL 290 en áreas donde se aplica una separación vertical mínima de 300 m (1.000 ft) por encima de dicho nivel de vuelo.
-
-2.4.11.3.2. Excepto cuando sea necesario para el despegue o el aterrizaje, o cuando se tenga autorización de la autoridad competente, los vuelos VFR nocturnos no se efectuarán:
-
-a) sobre aglomeraciones de edificios en ciudades, pueblos o lugares habitados o sobre una reunión de personas al aire libre a una altura menor de 300 m (1000 ft) sobre el obstáculo más alto situado dentro de un radio de 600 m desde la aeronave;
-
-b) en cualquier otra parte distinta de la especificada en a), a una altura menor de 150 m (500 ft) sobre tierra o agua.
-
-Las limitaciones especificadas en los apartados a) y b) podrán ser modificadas por la autoridad competente cuando las circunstancias lo aconsejen.
-
-2.4.11.3.3. Los vuelos VFR nocturnos no operarán a una velocidad superior a 250 kt. IAS por debajo de nivel de vuelo 100, salvo que sean autorizados por la correspondiente dependencia ATS.
-
-2.4.11.4. Nivel de crucero.
-
-Los vuelos VFR nocturnos se efectuarán:
-
-a) En rutas ATS dentro de espacio aéreo controlado clases B, C, D y E: A un nivel de los especificados en AIP, a menos que la dependencia ATC autorice otro nivel; y
-
-b) En rutas VFRN dentro de espacio aéreo no controlado clases F y G: A un nivel de los especificados en AIP; y
-
-c) En otros casos: A un nivel de vuelo IFR (vuelo por instrumentos) apropiado a la derrota, como se especifica en la tabla de niveles de crucero aplicable del Apéndice B del RCA.
-
-2.4.11.5. Los vuelos VFR nocturnos observarán las disposiciones de 2.3.6.:
-
-a) cuando se realicen en espacio aéreo de Clases B, C, D y E; y
-
-b) cuando formen parte del tránsito de aeródromo en aeródromos controlados.
-
-2.4.11.6. Comunicaciones.
-
-Los vuelos VFR nocturnos mantendrán continuamente la escucha en la radiofrecuencia apropiada del ATC, establecerán comunicación en ambos sentidos, cuando sea necesario, con la dependencia que suministre servicios de tránsito aéreo y notificarán su posición de acuerdo con los procedimientos establecidos para los vuelos controlados.
-
-El sistema SELCAL o dispositivos similares de señalización automática, satisfacen el requisito de mantener la escucha.
-
-2.4.11.7. Cambio de vuelo VFR a vuelo VFR nocturno.
-
-Toda aeronave que opere de acuerdo con las reglas de vuelo visual y desee cambiar para ajustarse a las reglas de vuelo visual nocturno deberá, al menos 15 minutos antes de la puesta del sol:
-
-a) someter un plan de vuelo a la dependencia ATS apropiada, si no ha presentado plan de vuelo; o
-
-b) comunicar los cambios necesarios que hayan de efectuarse en su plan de vuelo actualizado, si ha presentado plan de vuelo; y
-
-c) obtener una autorización ATC o el acuse de recibo de la dependencia ATS apropiada, en función del espacio aéreo en que se vaya a operar en vuelo VFR nocturno.
-
-Será responsabilidad del piloto que, en el plan de vuelo o los cambios propuestos para proseguir en vuelo VFR nocturno, las rutas de vuelo se ajusten a lo indicado en 2.4.11.15.2., los niveles de crucero se ajusten a lo indicado en 2.4.11.4. y el aeródromo de destino se ajuste a lo indicado en 2.4.11.12.
-
-2.4.11.8. Cambio de vuelo VFR nocturno a vuelo VFR.
-
-Toda aeronave que opere de acuerdo con las reglas de vuelo visual nocturno y desee cambiar para ajustarse a las reglas de vuelo visual deberá, al menos 15 minutos antes de la salida del sol:
-
-a) notificarlo a la dependencia ATS apropiada; y
-
-b) comunicar, si procede, los cambios que hayan de efectuarse en su plan de vuelo actualizado; y
-
-c) obtener la correspondiente autorización ATC o el acuse de recibo de la dependencia ATS apropiada, en función del espacio aéreo en que se vaya a operar en vuelo VFR.
-
-2.4.11.9. Cambio de vuelo VFR nocturno a vuelo IFR.
-
-Toda aeronave que opere de acuerdo con las reglas de vuelo visual nocturno y desee cambiar para ajustarse a las reglas de vuelo por instrumentos, deberá:
-
-a) comunicar los cambios, si hubiera alguno, que hayan de efectuarse en su plan de vuelo actualizado; o
-
-b) someter un plan de vuelo a la dependencia ATS apropiada y deberá:
-
-1) obtener una autorización ATC de la dependencia ATS apropiada, antes de proseguir en vuelo IFR, cuando se encuentre o vaya a entrar en espacio aéreo controlado; o
-
-2) obtener el acuse de recibo de la dependencia ATS apropiada antes de proseguir en vuelo IFR, cuando no se encuentre ni vaya a entrar en espacio aéreo controlado.
-
-2.4.11.10. Equipo de aeronave.
-
-Para el vuelo VFR nocturno la aeronave estará provista de:
-
-a) los instrumentos y equipo de comunicaciones y navegación prescritos para aeronaves en vuelo IFR nocturno, y
-
-b) respondedor SSR en estado operativo con Modo A/3 y capacidad para 4096 claves de respuesta y, cuando se requiera en el espacio aéreo en que se vaya a volar, dispositivo de transmisión automática de altitud de presión en Modo C.
-
-2.4.11.11. Espacio aéreo utilizable.
-
-Los vuelos VFR nocturnos se realizarán dentro de espacio aéreo controlado y no controlado en donde se permita el vuelo VFR.
-
-2.4.11.12. Aeródromos utilizables.
-
-Para el despegue, aterrizaje y vuelo local de vuelos VFRN serán utilizables:
-
-a) los aeródromos no controlados que sean aptos para operaciones nocturnas, y
-
-b) los aeródromos controlados que sean aptos para operaciones nocturnas y en los que se permita el vuelo VFRN.
-
-Los aeródromos utilizables para operaciones de vuelo VFRN deberán ser previamente homologados por la autoridad competente, para lo cual deberán disponer de los equipos, servicios, procedimientos de salida y llegada y medios que dicha autoridad determine.
-
-2.4.11.13. Servicios de tránsito aéreo.
-
-En espacio aéreo controlado clases B, C, D y E a los vuelos VFR nocturnos se les proporcionará servicio de control de tránsito aéreo, con separación entre vuelos VFR nocturnos, y entre vuelos VFR nocturnos y vuelos IFR.
-
-En espacio aéreo no controlado clases F y G a los vuelos VFR nocturnos se les proporcionará servicio de información de vuelo y alerta.
-
-2.4.11.14. Autorizaciones de control de tránsito aéreo.
-
-Las autorizaciones de control de tránsito aéreo no eximen al piloto de un vuelo VFRN del cumplimiento de las reglas aplicables.
-
-Cuando un piloto de vuelo VFRN no pueda cumplir una autorización ATC solicitará una autorización enmendada.
-
-2.4.11.15. Ruta de vuelo.
-
-2.4.11.15.1. Salidas y llegadas.
-
-En los aeródromos controlados y no controlados las salidas y llegadas de los vuelos VFR nocturnos se realizarán por las rutas de salida y llegada normalizadas establecidas por la autoridad ATS competente.
-
-2.4.11.15.2. Vuelo en ruta.
-
-Los vuelos VFR nocturnos se efectuarán:
-
-a) En espacio aéreo controlado clases B, C, D y E: Por rutas ATS, excepto cuando la dependencia ATC autorice otra ruta o, en caso necesario, cuando la aeronave sufra fallo de comunicaciones o emergencia, y
-
-b) En espacio aéreo no controlado clases F y G: Por rutas VFRN basadas en radioayudas para la navegación aérea, establecidas a requerimiento previo de los usuarios o por iniciativa de la autoridad ATS competente, excepto, en caso necesario, cuando la aeronave sufra fallo de comunicaciones o emergencia.
-
-2.4.11.16. Vuelo VFR nocturno local.
-
-Se podrá efectuar un vuelo VFR nocturno local cuando en el aeródromo de referencia la visibilidad en tierra sea igual o superior a 5 km y el techo de nubes sea igual o superior a 450 m (1.500 ft) y la previsión meteorológica no sea de condiciones inferiores a los mínimos indicados.
-
-2.4.11.17. Cruce de fronteras.
-
-No se autorizará el cruce de fronteras internacionales en vuelo VFR nocturno a menos que el Estado que tenga jurisdicción sobre el espacio aéreo adyacente permita el vuelo VFR nocturno en su espacio aéreo.
-
-Las dependencias ATC colaterales establecerán en carta de acuerdo las condiciones de transferencia de los vuelos VFR nocturnos.
-
-2.4.11.18. Fallo de comunicaciones.
-
-Las aeronaves en vuelo VFR nocturno que experimenten un fallo de comunicaciones seleccionarán el código 7600 en su respondedor SSR y procederán de conformidad con 2.3.6.5.2.1., tanto si el fallo se produce en espacio aéreo controlado clases B, C, D o E como si se produce en espacio aéreo no controlado clases F o G.
-
-2.4.11.19. Emergencias.
-
-Las aeronaves en vuelo VFR nocturno que experimenten una emergencia lo comunicarán a la dependencia ATC y seleccionarán el código 7700 en su respondedor SSR tan pronto como sea posible.
-
-2.4.11.20. Deterioro de las condiciones meteorológicas hasta quedar por debajo de las VMCN.
-
-Cuando sea evidente que no será factible el vuelo en VMCN de conformidad con su plan de vuelo actualizado, el vuelo VFRN deberá:
-
-a) proceder de acuerdo con indicado en 2.3.6.2.4. a), b) o c) si el vuelo se realiza en espacio aéreo controlado clases B, C, D o E; y
-
-b) proceder como se indica a continuación si el vuelo se realiza en espacio aéreo no controlado clases F o G:
-
-1) informar a la dependencia ATS apropiada y solicitar información de vuelo para continuar en VMCN hasta el punto de destino, hasta un aeródromo de alternativa o hasta el aeródromo apropiado más próximo; o
-
-2) solicitar cambio de vuelo VFRN a vuelo IFR de conformidad con 2.4.11.9.
+(Suprimidos).
 
 ## CAPÍTULO 5
 
@@ -1267,6 +1107,8 @@ b) mantenga la escucha en la radiofrecuencia adecuada y establezca comunicación
 notificará la posición de acuerdo con lo especificado en 2.3.6.3. para vuelos controlados.
 
 2.5.3.3.2. Las aeronaves que decidan utilizar el servicio de asesoramiento de tránsito aéreo mientras vuelan en condiciones IFR dentro de áreas especificadas con servicio de asesoramiento, se espera que cumplan las disposiciones de 2.3.6., pero el plan de vuelo y los cambios que se hagan en él no están supeditados a autorizaciones y las comunicaciones en ambos sentidos se mantendrán con la dependencia que suministre el servicio de asesoramiento de tránsito aéreo.
+
+> Se modifican los Capítulos 2 a 4 por el art. único. 2 de la Orden PRE/3531/2007, de 29 de noviembre. Ref. BOE-A-2007-20912
 
 > Se modifican los Capítulos 3 a 5 por el art. único.2 de la Orden PRE/4063/2006, de 29 de diciembre. Ref. BOE-A-2007-187
 

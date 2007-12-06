@@ -88,9 +88,7 @@ Se designarán como regiones de información de vuelo aquellas partes del espaci
 
 3.2.5.2.2.1. Se designarán como áreas de control o zonas de control aquellas partes del espacio aéreo en las cuales se decida facilitar servicio de control de tránsito aéreo a todos los vuelos IFR.
 
-3.2.5.2.2.1.1. Se designarán como espacio aéreo clases B, C o D aquellas partes del espacio aéreo controlado en las que se determine que también se suministrará servicio de control de tránsito aéreo a los vuelos VFR.
-
-Se designarán como espacio aéreo clases B, C, D o E aquellas partes del espacio aéreo controlado en las que se determine que también se suministrará servicio de control de tránsito aéreo a los vuelos VFRN.
+3.2.5.2.2.1.1. Se designarán como espacio aéreo de Clases B, C ó D aquellas partes del espacio aéreo controlado, en las que se determine que también se suministrará servicio de control de tránsito aéreo a los vuelos VFR.
 
 3.2.5.2.2.2. Cuando dentro de una región de información de vuelo se designen áreas y zonas de control, éstas formarán parte de dicha región de información de vuelo.
 
@@ -102,71 +100,57 @@ Se designarán como aeródromos controlados aquellos aeródromos en los que se d
 
 3.2.6.1. El espacio aéreo ATS se clasificará y designará de conformidad con lo indicado a continuación:
 
-Clase A. Solo se permiten vuelos IFR, todos los vuelos están sujetos al servicio de control de tránsito aéreo y están separados unos de otros.
+Clase A. Sólo se permiten vuelos IFR, todos los vuelos están sujetos al servicio de control de tránsito aéreo y están separados unos de otros.
 
-Clase B. Se permiten vuelos IFR, VFR y VFRN, todos los vuelos están sujetos al servicio de control de tránsito aéreo y están separados unos de otros.
+Clase B. Se permiten vuelos IFR y VFR, todos los vuelos están sujetos al servicio de control de tránsito aéreo y están separados unos de otros.
 
-Clase C. Se permiten vuelos IFR, VFR y VFRN, todos los vuelos están sujetos al servicio de control de tránsito aéreo y:
+Clase C. Se permiten vuelos IFR y VFR, todos los vuelos están sujetos al servicio de control de tránsito aéreo y:
 
-a) los vuelos IFR están separados de otros vuelos IFR, de los vuelos VFR y de los vuelos VFRN;
+a) los vuelos IFR están separados de otros vuelos IFR y de los vuelos VFR;
 
 b) los vuelos VFR están separados de los vuelos IFR y reciben información de tránsito respecto a otros vuelos VFR;
 
-c) los vuelos VFRN están separados de otros vuelos VFRN y de los vuelos IFR.
+Clase D. Se permiten vuelos IFR y VFR, todos los vuelos están sujetos al servicio de control de tránsito aéreo y:
 
-Clase D. Se permiten vuelos IFR, VFR y VFRN, todos los vuelos están sujetos al servicio de control de tránsito aéreo y:
+a) los vuelos IFR están separados de otros vuelos IFR y reciben información de tránsito respecto a los vuelos VFR,
 
-a) los vuelos IFR están separados de otros vuelos IFR y de los vuelos VFRN y reciben información de tránsito respecto a los vuelos VFR;
+b) los vuelos VFR reciben información de trán-sito respecto a todos los otros vuelos.
 
-b) los vuelos VFR reciben información de tránsito respecto a todos los otros vuelos;
+Clase E. Se permiten vuelos IFR y VFR, los vuelos IFR están sujetos al servicio de control de tránsito aéreo y;
 
-c) los vuelos VFRN están separados de otros vuelos VFRN y de los vuelos IFR.
+a) los vuelos IFR están separados de otros vuelos IFR y reciben información de tránsito respecto a los vuelos VFR en la medida de lo posible,
 
-Clase E. Se permiten vuelos IFR, VFR y VFRN, los vuelos IFR y VFRN están sujetos al servicio de control de tránsito aéreo y:
+b) los vuelos VFR reciben información de tránsito respecto a los vuelos IFR en la medida de lo posible.
 
-a) los vuelos IFR están separados de otros vuelos IFR y de los vuelos VFRN y reciben información de tránsito respecto a los vuelos VFR en la medida de lo posible;
+Clase F. Se permiten vuelos IFR y VFR, todos los vuelos IFR participantes reciben servicio de asesoramiento de tránsito aéreo y todos los vuelos VFR reciben servicio de información de vuelo, si lo solicitan.
 
-b) los vuelos VFR reciben información de tránsito respecto a los vuelos IFR en la medida de lo posible;
-
-c) los vuelos VFRN están separados de otros vuelos VFRN y de los vuelos IFR.
-
-Clase F. Se permiten vuelos IFR, VFR y VFRN, todos los vuelos IFR participantes reciben servicio de asesoramiento de tránsito aéreo y todos los vuelos VFR y VFRN reciben servicio de información de vuelo, si lo solicitan.
-
-Clase G. Se permiten vuelos IFR, VFR y VFRN, todos los vuelos reciben servicio de información de vuelo, si lo solicitan.
+Clase G. Se permiten vuelos IFR y VFR, y todos los vuelos reciben servicio de información de vuelo, si lo solicitan.
 
 3.2.6.2. El Estado seleccionará las clases de espacio aéreo apropiadas a sus necesidades.
 
 3.2.6.3. Los requisitos para los vuelos dentro de cada clase de espacio aéreo serán los indicados en la tabla que figura a continuación:
 
-CLASES DE ESPACIO AÉREO ATS
+Clasificación del espacio aéreo ATS. Servicios suministrados y requisitos de vuelo
 
-SERVICIOS SUMINISTRADOS Y REQUISITOS DE VUELO
-
-| Clase | Tipo de vuelo | Separación proporcionada | Servicios suministrados | Limitaciones de velocidad | Requisitos de radiocomunicación | Sujeto a autorización ATC |
+| Clase | Tipo de vuelo | Separación proporcionada | Servicios suministrados | Limitaciones de velocidad | Requisitos de radiocomunicaciones | Sujeto a autorización ATC |
 | --- | --- | --- | --- | --- | --- | --- |
-| A | Sólo IFR | Todas las aeronaves | ATC | No se aplica | Continua en ambos sentidos | Sí |
-| B | IFR | Todas las aeronaves | ATC | No se aplica | Continua en ambos sentidos | Sí |
-| VFR | Todas las aeronaves | ATC | No se aplica | Continua en ambos sentidos | Sí |
-| VFRN | Todas las aeronaves | ATC | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL | Continua en ambos sentidos | Sí |
-| C | IFR | IFR / IFR IFR / VFR IFR / VFRN | ATC | No se aplica | Continua en ambos sentidos | Sí |
-| VFR | VFR / IFR | 1) ATC para separación de IFR 2) Información de tránsito VFR/VFR (y asesoramiento anticolisión a solicitud) | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL *, ** | Continua en ambos ambos sentidos | Sí |
-| VFRN | VFRN / IFR VFRN / VFRN | ATC | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL | Continua en ambos ambos sentidos | Sí |
-| D | IFR | IFR / IFR IFR / VFRN | ATC, incluso información de tránsito sobre vuelos VFR (y asesoramiento anticolisión a solicitud) | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL** | Continua en ambos sentidos | Sí |
-| VFR | Ninguna | 1) ATC y 2) Información de tránsito VFR/VFR y VFR/IFR (y asesoramiento anticolisión a solicitud) | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL ** | Continua en ambos sentidos | Sí |
-| VFRN | VFRN / IFR VFRN / VFRN | ATC | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL | Continua en ambos sentidos | Sí |
-| E | IFR | IFR / IFR IFR / VFRN | ATC e información de tránsito sobre vuelos VFR en la medida de lo posible | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL ** | Continua en ambos sentidos | Sí |
-| VFR | Ninguna | Información de tránsito en la medida de lo posible | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL ** | No | No |
-| VFRN | VFRN / IFR VFRN / VFRN | ATC | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL | Continua en ambos sentidos | Sí |
-| F | IFR | IFR / IFR e IFR / VFRN siempre que sea factible | Servicio de asesoramiento de tránsito, servicio de información de vuelo | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL ** | Continua en ambos sentidos | No |
-| VFR | Ninguna | Servicio de información de vuelo | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL ** | No | No |
-| VFRN | VFRN / IFR y VFRN / VFRN siempre que sea factible | Servicio de información de vuelo | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL | Continua en ambos sentidos | No |
-| G | IFR | Ninguna | Servicio de información de vuelo | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL ** | Continua en ambos sentidos | No |
-| VFR | Ninguna | Servicio de información de vuelo | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL ** | No | No |
-| VFRN | Ninguna | Servicio de información de vuelo | 250 kt IAS por debajo de 3050 m (10.000 ft) AMSL | Continua en ambos sentidos | No |
+| A | Solo IFR. | Todas las aeronaves. | ATC. | No se aplica. | Continua en ambos sentidos. | Sí |
+| B | IFR. | Todas las aeronaves. | ATC. | No se aplica. | Continua en ambos sentidos. | Sí |
+| VFR. | Todas las aeronaves. | ATC. | No se aplica. | Continua en ambos sentidos. | Sí |
+| C | IFR. | IFR/IFRIFR/VFR. | ATC. | No se aplica. | Continua en ambos sentidos | Sí |
+|  | VFR. | VFR/IFR. | 1) ATC para separación de IFR2) Información de tránsito VFR/VFR (y asesoramiento anticolisión a solicitud). | 250 kt IAS por debajo de 3050m (10000 ft) AMSL**. | Continua en ambos sentidos. | Sí |
+| D | IFR. | IFR/IFR. | ATC, incluso información de tránsito sobre vuelos VFR (y asesoramiento anticolisión a solicitud). | 250 kt IAS por debajo de 3050m (10000 ft) AMSL**. | Continua en ambos sentidos. | Sí Sí |
+| VFR. | Ninguna. | 1) ATC, y2) Información de tránsito VFR/VFR y VFR/IFR (y asesoramiento anticolisión a solicitud). | 250 kt IAS por debajo de 3050m (10000 ft) AMSL**. | Continua en ambos sentidos. |
+| E | IFR. | IFR/IFR. | ATC e información de tránsito sobre vuelos VFR en la medida de lo posible. | 250 kt IAS por debajo de 3050m (10000 ft) AMSL** | Continua en ambos sentidos. | Sí |
+| VFR. | Ninguna. | Información de tránsito en la medida de lo posible. | 250 kt IAS por debajo de 3050m (10000 ft) AMSL**. | No. | No |
+| F | IFR. | IFR/IFR. | Servicio de asesoramiento de tránsito, servicio de información de vuelo. | 250 kt IAS por debajo de 3050m (10000 ft) AMSL**. | Continua en ambos sentidos. | No |
+| VFR. | Ninguna. | Servicio de información de vuelo. | 250 kt IAS por debajo de 3050m (10000 ft) AMSL**. | No. | No |
+| G | IFR . | Ninguna. | Servicio de información de vuelo. | 250 kt IAS por debajo de 3050m (10000 ft) AMSL**. | Continua en ambos sentidos. | No |
+| VFR. | Ninguna. | Servicio de información de vuelo. | 250 kt IAS por debajo de 3050m (10000 ft) AMSL**. | No. | No |
 
 * Cuando la altitud de transición es inferior a 3050 m (10000 ft) AMSL, debería utilizarse el nivel de vuelo 100 en vez de 10000 ft.
 
-** Excepto los vuelos militares en misiones operativas o de defensa aérea, o cuando sus características de actuación no lo permitan
+** Excepto los vuelos militares en misiones operativas o de defensa aérea, o cuando sus características de actuación no lo permitan.
 
 Cuando las partes del espacio aéreo ATS propuestas se yuxtapongan verticalmente, es decir, una encima de otra, los vuelos a un nivel común cumplirán con los requisitos correspondientes a la clase de espacio aéreo menos restrictiva y se les prestarán los servicios aplicables a dicha clase. Al aplicarse estos criterios se considerará, por tanto, que el espacio aéreo de Clase B es menos restrictivo que el de Clase A; que el espacio aéreo de Clase C es menos restrictivo que el de Clase B, etc.
 
@@ -750,7 +734,17 @@ Las autoridades de los servicios de tránsito aéreo elaborarán y promulgarán 
 
 3.2.28.1 El Estado implantará programas sistemáticos y adecuados de gestión de la seguridad ATM para garantizar que se mantiene la seguridad en el suministro del ATS dentro del espacio aéreo y en los aeródromos.
 
-3.2.28.2 Se deberán establecer niveles aceptables de seguridad aplicables al suministro del ATS dentro del espacio aéreo y en los aeródromos. De ser aplicable, se establecerán los niveles de seguridad y los objetivos de seguridad mediante acuerdos regionales de navegación aérea.
+3.2.28.2 El Estado establecerá el nivel aceptable y los objetivos de seguridad aplicables al suministro del ATS dentro del espacio aéreo y en los aeródromos. De ser aplicable, se establecerán los niveles de seguridad y los objetivos de seguridad mediante acuerdos regionales de navegación aérea.
+
+Nota. Puede especificarse el nivel aceptable de seguridad en términos cualitativos o cuantitativos. Los siguientes son ejemplos de medidas que podrían aplicarse para expresar el grado de seguridad aceptable:
+
+a) una probabilidad máxima de un suceso indeseable, como colisión, pérdida de la separación o incursión en la pista;
+
+b) un número máximo de accidentes por hora de vuelo;
+
+c) un número máximo de incidentes por movimientos de aeronaves; y
+
+d) un número máximo de alertas de conflicto a corto plazo válidas por movimiento de aeronaves.
 
 3.2.28.3 En el programa de gestión de la seguridad ATS, entre otras cosas:
 
@@ -778,11 +772,29 @@ Nota.–En el Manual de prevención de accidentes (Doc. 9422) de OACI figura ori
 
 3.2.28.7.1 Se realizarán evaluaciones de la seguridad en las dependencias ATS de forma regular y sistemática a cargo de personal cualificado mediante la instrucción, la experiencia y conocimientos y que tenga una comprensión completa de las normas y métodos recomendados, (SARPS) pertinentes, los procedimientos para los servicios de navegación aérea (PANS), y las prácticas de funcionamiento seguras, así como los principios relativos a factores humanos.
 
+3.2.29 Sistema de referencias comunes.
+
+3.2.29.1 Sistema de referencia horizontal.
+
+3.2.29.1.1 El Sistema Geodésico Mundial-1984 (WGS-84) se utilizará como sistema de referencia (geodésica) horizontal para la navegación aérea. Las coordenadas geográficas aeronáuticas, publicadas (que indiquen la latitud y la longitud) se expresarán en función de la referencia geodésica del WGS-84.
+
+Nota.–En el Manual del sistema geodésico mundial-1984 (WGS-84) (Doc. 9674) de OACI figuran textos de orientación amplios relativos al WGS 84.
+
+3.2.29.2 Sistema de referencia vertical.
+
+3.2.29.2.1 La referencia al nivel medio del mar (MSL) que proporciona la relación de la altura (elevaciones) relacionadas con la gravedad respecto de una superficie conocida como geoide se utilizará como sistema de referencia vertical para la navegación aérea.
+
+3.2.29.3 Sistema de referencia temporal.
+
+3.2.29.3.1 El calendario gregoriano y el tiempo universal coordinado (UTC) se utilizarán como sistema de referencia temporal para la navegación aérea.
+
+3.2.29.3.2 Cuando en las cartas se utilice un sistema de referencia temporal diferente, así se indicará en GEN 2.1.2. de la publicación de información aeronáutica (AIP).
+
 ## CAPÍTULO 3
 
 ## Servicio de control de tránsito aéreo
 
-3.3.1 Aplicación.
+3.3.1. Aplicación.
 
 Se suministrará servicio de control de tránsito aéreo:
 
@@ -790,11 +802,9 @@ a) a todos los vuelos IFR en el espacio aéreo de Clases A, B, C, D y E;
 
 b) a todos los vuelos VFR en el espacio aéreo de Clases B, C y D;
 
-c) a todos los vuelos VFRN en el espacio aéreo de Clases B, C, D y E;
+c) a todos los vuelos VFR especiales;
 
-d) a todos los vuelos VFR especiales;
-
-e) a todo el tránsito de aeródromo en los aeródromos controlados.
+d) a todo el tránsito de aeródromo en los aeródromos controlados.
 
 3.3.2. Provisión del servicio de control de tránsito aéreo.
 
@@ -836,21 +846,17 @@ d) coordinar las autorizaciones que sean necesarias con las otras dependencias:
 
 3.3.3.3. Las autorizaciones concedidas por las dependencias de control de tránsito aéreo proporcionarán separación:
 
-a) entre todos los vuelos en espacio aéreo Clases A y B;
+a) entre todos los vuelos en el espacio aéreo Clases A y B;
 
-b) entre los vuelos IFR en espacio aéreo de Clases C, D y E;
+b) entre los vuelos IFR en el espacio aéreo de Clases C, D y E;
 
-c) entre vuelos IFR y VFR en espacio aéreo de Clase C;
+c) entre vuelos IFR y VFR en el espacio aéreo de Clase C;
 
-d) entre vuelos IFR y VFRN en espacio aéreo de Clases C, D y E;
+d) entre vuelos IFR y vuelos especiales VFR;
 
-e) entre vuelos VFRN en espacio aéreo de Clases C, D y E;
+e) entre vuelos especiales VFR, cuando así lo prescriba la autoridad ATS competente,
 
-f) entre vuelos IFR y vuelos especiales VFR;
-
-g) entre vuelos especiales VFR, cuando así lo prescriba la autoridad ATS competente,
-
-excepto que, cuando lo solicite una aeronave, o lo proponga una dependencia ATC y lo acepte la aeronave, y con tal de que el procedimiento haya sido previamente aprobado por la autoridad ATS competente para los casos enumerados en a), b), c), d) y e), un vuelo puede ser autorizado sin proporcionarle separación con respecto a una parte específica del vuelo que se lleve a cabo en condiciones meteorológicas visuales.
+excepto que, cuando lo solicite una aeronave, o lo proponga una dependencia ATC y lo acepte la aeronave, y con tal de que el procedimiento haya sido previamente aprobado por la autoridad ATS competente para los casos enumerados en b) en el espacio aéreo de Clases D y E, un vuelo puede ser autorizado sin proporcionarle separación con respecto a una parte específica del vuelo que se lleve a cabo en condiciones meteorológicas visuales.
 
 3.3.3.4. La separación proporcionada por una dependencia de control de tránsito aéreo se obtendrá por lo menos en una de las formas siguientes:
 
@@ -1098,7 +1104,15 @@ d) no obstante lo dispuesto en a), b) y c), todos los vehículos, comprendidos l
 
 3.3.9. Uso de radar de movimiento en la superficie (SMR).
 
-En el Adjunto 3 del Apéndice Z figura texto de orientación sobre el uso del radar de movimiento en la superficie (SMR), útil para ayudar al control de las aeronaves y de los vehículos en el área de maniobras.
+3.3.9.1 Se recomienda que, cuando no se disponga de observación visual de la totalidad o parte del área de maniobras o para complementar las observaciones visuales, se utilice el radar de movimiento en la superficie (SMR), proporcionado con arreglo a las disposiciones del Anexo 14, Vol. I, de OACI, u otro equipo de vigilancia adecuado, para complementar las observaciones visuales del área de maniobras a efectos de:
+
+a) vigilar los movimientos de las aeronaves y vehículos en el área de maniobras;
+
+b) proporcionar información de dirección a los pilotos y conductores de vehículos, según sea necesario.
+
+c) Proporcionar asesoramiento y asistencia para el movimiento seguro y eficiente de aeronaves o vehículos en el área de maniobras.
+
+Nota.–En el Adjunto 3 del Apéndice Z figura texto de orientación sobre el uso del radar de movimiento en la superficie (SMR), útil para ayudar al control de las aeronaves y de los vehículos en el área de maniobras.
 
 ## CAPÍTULO 4
 
@@ -1158,7 +1172,7 @@ Las transmisiones a las aeronaves continuarán por un período que se determinar
 
 En la FIR/UIR Madrid y Barcelona las aeronotificaciones especiales se transmitirán con la menor demora posible a las aeronaves a las que pueda afectar y abarcarán la parte de la ruta correspondiente a la próxima hora de tiempo de vuelo.
 
-3.4.2.4. Además de lo dispuesto en 3.4.2.1, el servicio de información de vuelo suministrado a los vuelos VFR y VFRN incluirá información sobre las condiciones del tránsito y meteorológicas a lo largo de la ruta de vuelo, que puedan hacer que no sea posible operar en condiciones de vuelo visual o visual nocturno, según proceda.
+3.4.2.4. Además de lo dispuesto en 3.4.2.1, el servicio de información de vuelo suministrado a los vuelos VFR incluirá información sobre las condiciones del tránsito y meteorológicas a lo largo de la ruta de vuelo, que puedan hacer que no sea posible operar en condiciones de vuelo visual.
 
 3.4.2.5. Además de lo dispuesto en 3.4.2.1, el servicio de información de vuelo incluirá información sobre presencia de aves que pudiera afectar la seguridad de las operaciones.
 
@@ -1624,6 +1638,8 @@ También se trazarán los vuelos de otras aeronaves que se sepa que están opera
 
 3.6.1.1.2. Cuando se emplee comunicación radiotelefónica directa en ambos sentidos, o comunicación por enlace de datos entre el piloto y el controlador para dar servicio de control de tránsito aéreo, todos los canales de comunicación aeroterrestres de este servicio, estarán provistos de dispositivo de registro.
 
+3.6.1.1.3 Los registros de los canales de comunicaciones, según se requiere en el párrafo 3.6.1.1.2. se conservarán por un período de 45 días.
+
 3.6.1.2. Para el servicio de información de vuelo.
 
 3.6.1.2.1. Las instalaciones de comunicaciones aeroterrestres permitirán efectuar comunicaciones en ambos sentidos entre la dependencia que proporcione servicio de información de vuelo y las aeronaves debidamente equipadas que vuelen en cualquier dirección dentro de la región de información de vuelo.
@@ -1732,9 +1748,9 @@ b) comunicaciones impresas, cuando sea necesario que quede constancia por escrit
 
 3.6.2.2.3.6. Las instalaciones de comunicaciones estipuladas en 3.6.2.2.2.2. d) deberán poder establecer comunicación oral directa adaptada para comunicación «en conferencia», de modo que las comunicaciones puedan establecerse normalmente en 15 segundos.
 
-3.6.2.2.3.7. Todas las instalaciones de comunicaciones orales directas o por enlace de datos entre distintas dependencias de los servicios de tránsito aéreo, así como entre las dependencias de los servicios de tránsito aéreo civiles y las dependencias militares correspondientes, deberán contar con registro automático.
+3.6.2.2.3.7. Todas las instalaciones de comunicaciones orales directas o por enlace de datos entre distintas dependencias de los servicios de tránsito aéreo, así como entre las dependencias de los servicios de tránsito aéreo civiles y otras dependencias que se describen en 3.6.2.2.2.1 y 3.6.2.2.2.2 deberán contar con registro automático.
 
-3.6.2.2.3.8. Todas las instalaciones de comunicaciones orales directas o por enlace de datos estipuladas 3.6.2.2.2.1 y 3.6.2.2.2.2 y no incluidas en 3.6.2.2.3.7, contarán con registro automático.
+3.6.2.2.3.8 Los registros de datos y comunicaciones, según se requiere en los párrafos 3.6.2.2.3.3. y 3.6.2.2.3.7, se conservarán por un período mínimo de 45 días.
 
 3.6.2.3. Comunicaciones entre regiones de información de vuelo.
 
@@ -1758,6 +1774,8 @@ Pueden darse circunstancias especiales por razón de la densidad del tránsito, 
 
 3.6.2.3.5. En todos los casos en que sea necesario el intercambio automático de datos entre las computadoras de los servicios de tránsito aéreo, se contará con dispositivos apropiados de registro automático.
 
+3.6.2.3.6 Los registros de datos y comunicaciones, según se requiere en 3.6.2.3.5. se conservarán por un período mínimo de 45 días.
+
 3.6.2.4. Procedimientos para las comunicaciones orales directas.
 
 Se elaborarán procedimientos adecuados para las comunicaciones orales directas que permitan establecer conexiones inmediatas en caso de llamada urgente relativa a la seguridad de una aeronave, y, si es necesario, la interrupción de otras llamadas menos urgentes en curso en aquel momento.
@@ -1772,15 +1790,15 @@ Se elaborarán procedimientos adecuados para las comunicaciones orales directas 
 
 Todos estos canales contarán con dispositivos de registro automático.
 
+3.6.3.1.3 Los registros de datos y comunicaciones, según se requiere en 3.6.3.1.2. se conservarán por un período mínimo de 45 días.
+
 3.6.4. Servicio de radionavegación aeronáutica.
 
 3.6.4.1. Registro automático de datos de vigilancia.
 
-3.6.4.1.1. Los datos de vigilancia obtenidos del equipo radar primario y secundario o de la ADS que se utilizan como ayuda a los servicios de tránsito aéreo se registrarán automáticamente, para poder utilizarlos en la investigación de accidentes e incidentes, búsqueda y salvamento, control del tránsito aéreo, y en la evaluación de los sistemas de vigilancia e instrucción del personal.
+3.6.4.1.1. Los datos de vigilancia obtenidos del equipo radar primario y secundario o de la ADS u otros sistemas de vigilancia que se utilizan como ayuda a los servicios de tránsito aéreo se registrarán automáticamente, para poder utilizarlos en la investigación de accidentes e incidentes, búsqueda y salvamento, control del tránsito aéreo, y en la evaluación de los sistemas de vigilancia e instrucción del personal.
 
-3.6.4.1.2. Las grabaciones automáticas se conservarán por un período mínimo de 14 días.
-
-Cuando las grabaciones sean pertinentes a la investigación de accidentes e incidentes, se conservarán más tiempo, hasta que sea evidente que ya no son necesarias.
+3.6.4.1.2 Las grabaciones automáticas se conservarán por un período mínimo de 45 días. Cuando las grabaciones sean pertinentes a la investigación de accidentes e incidentes, se conservarán más tiempo, hasta que sea evidente que ya no son necesarias.
 
 ## CAPÍTULO 7
 
@@ -1804,11 +1822,9 @@ Cuando no fuera posible el emplazamiento conjunto, la consulta requerida se llev
 
 3.7.1.2. Centros de información de vuelo y centros de control de área.
 
-3.7.1.2.1. Se proporcionarán a los centros de información de vuelo y a los centros de control de área información SIGMET y AIRMET, aeronotificaciones especiales, e informes y pronósticos meteorológicos actuales, dando especial importancia al acaecimiento o acaecimiento probable del empeoramiento de las condiciones meteorológicas tan pronto como pueda determinarse.
+3.7.1.2.1. Se proporcionarán a los centros de información de vuelo y a los centros de control de área información SIGMET y AIRMET, aeronotificaciones especiales, e informes y pronósticos meteorológicos actuales, dando especial importancia al acaecimiento o acaecimiento probable del empeoramiento de un elemento meteorológico tan pronto como pueda determinarse. Dichos informes y pronósticos se referirán a la región de información de vuelo o al área de control y a todas las demás áreas que puedan determinarse a base de los acuerdos regionales de navegación aérea.
 
-Dichos informes y pronósticos se referirán a la región de información de vuelo o al área de control y a todas las demás áreas que puedan determinarse a base de los acuerdos regionales de navegación aérea.
-
-3.7.1.2.1.1. Ciertos cambios de las condiciones meteorológicas se interpretan como empeoramiento de las mismas aunque corrientemente no se considere así (1).
+3.7.1.2.1.1 Ciertos cambios de las condiciones meteorológicas se interpretan como empeoramiento de un elemento meteorológico aunque corrientemente no se considere así (1).
 
 (1) El aumento de la temperatura puede afectar adversamente a la operación de ciertos tipos de aeronaves.
 
@@ -1820,19 +1836,21 @@ Dichos informes y pronósticos se referirán a la región de información de vue
 
 Los informes especiales y las enmiendas de los pronósticos se comunicarán a las dependencias que suministran servicio de control de aproximación tan pronto como sean necesarios, de conformidad con los criterios establecidos, sin esperar el próximo informe o pronóstico ordinario.
 
-Cuando se utilicen anemómetros múltiples se señalarán claramente los indicadores con los que están conectados, con objeto de identificar la pista y la sección de ésta que corresponde a cada anemómetro (1).
+Cuando se utilicen sensores múltiples se señalarán claramente los presentadores visuales con los que están conectados, con objeto de identificar la pista y la sección de ésta que corresponde a cada sensor (1).
 
 (1) Véase 3.7.1.2.1.1.
 
-3.7.1.3.2. Se facilitarán a las dependencias que suministran servicio de control de aproximación, datos actuales de presión para el reglaje de altímetros, respecto a los lugares especificados por la dependencia que suministre el servicio de control de aproximación.
+3.7.1.3.2 Se facilitarán a las dependencias que suministran servicio de control de aproximación, datos actuales de presión para el reglaje de altímetros, respecto a los lugares especificados por la dependencia que suministre el servicio de control de aproximación.
 
-3.7.1.3.3. Las dependencias que suministran servicios de control de aproximación para la aproximación final, el aterrizaje y el despegue, estarán equipadas con indicadores para conocer el viento en la superficie.
+3.7.1.3.3 Las dependencias que suministran servicios de control de aproximación para la aproximación final, el aterrizaje y el despegue, estarán equipadas con presentadores visuales para conocer el viento en la superficie.
 
-El indicador o los indicadores estarán relacionados con los mismos puntos de observación y obtendrán sus lecturas de los mismos anemómetros a que están conectados los correspondientes indicadores instalados en la torre de control de aeródromo y en la estación meteorológica, cuando tal estación exista.
+Los presentadores visuales estarán relacionados con los mismos puntos de observación y obtendrán sus lecturas de los mismos sensores a que están conectados los correspondientes presentadores visuales instalados en la torre de control de aeródromo y en la estación meteorológica, cuando tal estación exista.
 
-3.7.1.3.4. Las dependencias que suministran servicio de control de aproximación para la aproximación final, el aterrizaje y el despegue, en aeródromos en que los valores del alcance visual en la pista se miden por medios instrumentales, se equiparán con indicadores que permitan la lectura del valor o valores actuales del alcance visual en la pista.
+3.7.1.3.4 Las dependencias que suministran servicio de control de aproximación para la aproximación final, el aterrizaje y el despegue, en aeródromos en que los valores del alcance visual en la pista se miden por medios instrumentales, se equiparán con presentadores visuales que permitan la lectura del valor o valores actuales del alcance visual en la pista.
 
-El indicador o indicadores deberán estar relacionados con los mismos puntos de observación y obtener sus lecturas de los mismos dispositivos de medición del alcance visual en la pista que los correspondientes indicadores instalados en la torre de control de aeródromo y en la estación meteorológica, cuando tal estación exista.
+Los presentadores visuales se relacionarán con los mismos puntos de observación y obtendrán sus lecturas de los sensores en la pista que los correspondientes presentadores visuales instalados en la torre de control de aeródromo y en la estación meteorológica, cuando tal estación exista.
+
+Se recomienda que las dependencias que suministran servicios de control de aproximación para la aproximación final, el aterrizaje y el despegue en aeródromos en que la altura de la base de nubes se mide por medios instrumentales estén equipadas con presentadores visuales que permitan la lectura de los valores actuales de la altura de la base de nubes. Estos presentadores visuales deberían relacionarse con los mismos puntos de observación y obtener sus lecturas de los mismos sensores que los correspondientes presentadores visuales instalados en la torre de control de aeródromo y en la estación meteorológica cuando tal estación exista.
 
 3.7.1.3.5. A las dependencias que prestan servicio de control para la aproximación final, el aterrizaje y el despegue, se les proporcionará, cuando sea posible, información sobre la cizalladura del viento que pudiera perjudicar a las aeronaves en la trayectoria de aproximación o de despegue o durante la aproximación en circuito.
 
@@ -1846,21 +1864,23 @@ Los informes especiales y las enmiendas de los pronósticos se comunicarán a la
 
 3.7.1.4.2. Se suministrarán a las torres de control de aeródromo datos de presión actuales para el reglaje de altímetros, correspondientes al aeródromo en cuestión.
 
-3.7.1.4.3. Las torres de control de aeródromo estarán equipadas con indicadores para conocer el viento en la superficie.
+3.7.1.4.3. Las torres de control de aeródromo estarán equipadas con presentadores visuales para conocer el viento en la superficie.
 
-El indicador o los indicadores estarán relacionados con los mismos puntos de observación y obtendrán sus lecturas de los mismos anemómetros a que estén conectados los correspondientes indicadores instalados en la estación meteorológica, cuando tal estación exista.
+Los presentadores visuales estarán relacionados con los mismos puntos de observación y obtendrán sus lecturas de los mismos sensores a que estén conectados los correspondientes presentadores visuales instalados en la estación meteorológica, cuando tal estación exista.
 
-Cuando se utilicen anemómetros múltiples se señalarán claramente los indicadores con los que están conectados, con objeto de identificar la pista y la sección de ésta que corresponde a cada anemómetro.
+Cuando se utilicen sensores múltiples se señalarán claramente los indicadores con los que están conectados, con objeto de identificar la pista y la sección de ésta que corresponde a cada sensor.
 
-3.7.1.4.4. Las torres de control de aeródromo en aeródromos donde el alcance visual en la pista se mida por medios instrumentales, se equiparán con indicadores que permitan la lectura del valor o valores actuales del alcance visual en la pista.
+3.7.1.4.4. Las torres de control de aeródromo en aeródromos donde el alcance visual en la pista se mida por medios instrumentales, se equiparán con presentadores visuales que permitan la lectura del valor o valores actuales del alcance visual en la pista.
 
-Estos indicadores deberán estar relacionados con los mismos puntos de observación y obtener sus lecturas de los mismos dispositivos medidores del alcance visual en la pista que los correspondientes indicadores instalados en la estación meteorológica, cuando tal estación exista.
+Estos presentadores visuales se relacionarán con los mismos puntos de observación y obtendrán sus lecturas de los mismos sensores que los correspondientes presentadores visuales instalados en la estación meteorológica, cuando tal estación exista.
+
+En la medida de lo posible, las torres de control de aeródromo en aeródromos en que la altura de la base de nubes se mide por medios instrumentales estarán equipadas con presentadores visuales que permitan la lectura de los valores actuales de la altura de la base de nubes. Estos presentadores visuales deberían relacionarse con los mismos puntos de observación y obtener sus lecturas de los mismos sensores a que estén conectados los correspondientes presentadores visuales instalados en la estación meteorológica cuando tal estación exista.
 
 3.7.1.4.5. A las torres de control de aeródromo se les proporcionará, cuando sea posible, información acerca de la cizalladura del viento que pudiera perjudicar a las aeronaves en las trayectorias de aproximación o despegue, o durante la aproximación en circuito, y a las aeronaves en la pista durante el recorrido de aterrizaje o la carrera de despegue.
 
-3.7.1.4.6. A las torres de control de aeródromo y a las dependencias pertinentes se les proporcionará información respecto a las condiciones meteorológicas que pudieran perjudicar a las aeronaves en tierra, incluso a las aeronaves estacionadas y a las instalaciones y servicios de aeródromos.
+3.7.1.4.6. A las torres de control de aeródromo y a las dependencias pertinentes se les proporcionará avisos de aeródromo.
 
-Nota: Las condiciones meteorológicas se enumeran en el Anexo 3 de OACI, Capítulo 7, 7.5.2.
+Nota.–Las condiciones meteorológicas para las cuales se expiden avisos de aeródromo figuran en el Anexo 3 de OACI, Apéndice 6.
 
 3.7.1.5. Estaciones de comunicaciones.
 
@@ -1893,6 +1913,8 @@ Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter
 3.7.6. Información sobre ''nubes'' de materiales radiactivos y de sustancias químicas tóxicas.
 
 Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter local, acerca de la liberación en la atmósfera de materiales radiactivos o sustancias químicas tóxicas que podrían afectar al espacio aéreo utilizado por los vuelos dentro de su zona de responsabilidad.
+
+> Se modifican los Capítulos 2 a 4, 6 y 7 por el art. único.3 de la Orden PRE/3531/2007, de 29 de noviembre. Ref. BOE-A-2007-20912
 
 > Se modifican los Capítulos 2 a 7 por el art. único.3 de la Orden PRE/4063/2006, de 29 de diciembre. Ref. BOE-A-2007-187
 

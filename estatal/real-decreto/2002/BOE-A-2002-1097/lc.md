@@ -966,15 +966,11 @@ b) entre vuelos IFR en el espacio aéreo de Clases C, D y E;
 
 c) entre vuelos IFR y los vuelos VFR en el espacio aéreo de Clase C;
 
-d) entre vuelos IFR y VFRN en espacio aéreo de Clases C, D y E;
+d) entre los vuelos IFR y los vuelos VFR especiales; y
 
-e) entre vuelos VFRN en espacio aéreo de Clases C, D y E;
+e) entre vuelos VFR especiales, cuando así lo prescriba la autoridad ATS competente,
 
-f) entre los vuelos IFR y los vuelos VFR especiales; y
-
-g) entre vuelos VFR especiales, cuando así lo prescriba la autoridad ATS competente,
-
-excepto, para los casos indicados en a), b) y c), durante las horas diurnas cuando se haya autorizado a los vuelos para subir o descender a condición de que mantengan su propia separación y permanezcan en condiciones meteorológicas visuales.
+excepto, para los casos indicados en a), b) y c) durante las horas diurnas cuando se haya autorizado a los vuelos para subir o descender a condición de que mantengan su propia separación y permanezcan en condiciones meteorológicas visuales.
 
 4.3.1.2. No se concederá autorización para ejecutar ninguna maniobra que reduciría la separación entre dos aeronaves a un valor menor que la separación mínima aplicable en las circunstancias.
 
@@ -1154,7 +1150,7 @@ Nota: Véase en 4.3.3.2.4.2.5 lo indicado sobre los requisitos de planificación
 
 4.3.3.2.7.5.3. Los ascensos o descensos a través del espacio aéreo RVSM, de conformidad con 4.3.3.2.7.5.2, se completarán antes de que las aeronaves pasen el punto de transferencia de control con el ACC/UAC adyacente, a menos que se especifique otra cosa en una carta de acuerdo entre los ACC afectados.
 
-4.3.3.2.8. Procedimientos especiales para casos de pérdida de la capacidad de performance de navegación vertical requerida para el vuelo dentro del espacio aéreo EUR RVSM
+4.3.3.2.8. Procedimientos especiales para casos de pérdida de la capacidad de performance de navegación vertical requerida para el vuelo dentro del espacio aéreo EUR RVSM.
 
 4.3.3.2.8.1. General
 
@@ -4628,7 +4624,7 @@ Todas las instalaciones destinadas a las comunicaciones entre una dependencia AF
 
 4.7.1.5.3.1. Solicitud de información.
 
-El personal, incluso los conductores de todos los vehículos, solicitarán información de vuelo de aeródromo antes de entrar en el área de maniobras y para cualquier cambio en la operación que se desee efectuar dentro del área de manoibras y de la que ya tiene conocimiento la dependencia AFIS.
+El personal, incluso los conductores de todos los vehículos, solicitarán información de vuelo de aeródromo antes de entrar en el área de maniobras y para cualquier cambio en la operación que se desee efectuar dentro del área de maniobras y de la que ya tiene conocimiento la dependencia AFIS.
 
 4.7.1.5.3.2. Requisitos en materia de comunicaciones.
 
@@ -5020,7 +5016,7 @@ d) mensajes que contienen información esencial de aeródromos (GG).
 
 e) mensajes relativos a notificaciones de incidentes de tránsito aéreo (FF).
 
-4.9.1.5. Cuando lo justifique la necesidad de darles curso especial, a los mensajes cursados por los servicios fjos se les asignará el indicador de prioridad dD en vez del indicador de prioridad normal.
+4.9.1.5. Cuando lo justifique la necesidad de darles curso especial, a los mensajes cursados por los servicios fijos se les asignará el indicador de prioridad dD en vez del indicador de prioridad normal.
 
 4.9.2. Disposiciones generales.
 
@@ -5236,7 +5232,7 @@ Este proceso se repetirá progresivamente de centro a centro hasta la primera de
 
 – mensajes de modificación (4.9.4.2.2.4.)
 
-– mensajes de concelación de plan de vuelo (4.9.4.2.2.5.)
+– mensajes de cancelación de plan de vuelo (4.9.4.2.2.5.)
 
 – mensajes de salida (4.9.4.2.2.6.)
 
@@ -6836,7 +6832,7 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 | h) VOLVIENDO [LENTAMENTE (o RÁPIDAMENTE)] A LA TRAYECTORIA DE PLANEO; | h) COMING BACK [SLOWLY (or QUICKLY)] TO THE GLIDE PATH; |
 | i) REANUDE VELOCIDAD VERTICAL NORMAL DE DESCENSO; | i) RESUME NORMAL RATE OF DESCENT; |
 | j) ELEMENTO ELEVACIÓN FUERA DE SERVICIO (seguido de las oportunas instrucciones); | j) ELEVATION ELEMENT UNSERVICEABLE (to be followed by appropriate instructions); |
-| k) A (distancia) DEL PUNTO DE TOMA DE CONTACTO, SU ALTITUD ALTURA) DEBERÍA SER (números y unidades). | k) (distance) FROM TOUCHDOWN, (o ALTITUDE (or HEIGHT) SHOULD BE (numbers and units). |
+| k) A (distancia) DEL PUNTO DE TOMA DE CONTACTO, SU ALTITUD ALTURA DEBERÍA SER (números y unidades). | k) (distance) FROM TOUCHDOWN, (o ALTITUDE (or HEIGHT) SHOULD BE (numbers and units). |
 
 4.10.4.2.5.5. Posición.
 
@@ -6951,7 +6947,9 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 | APAGUE MODO TRES. | STOP SQUAWK MODE THREE. |
 | --- | --- |
 
-> Se modifican los Capítulos 3, 5,6, 9 y 10 por el art. único.4 de la Orden PRE/4063/2006, de 29 de diciembre. Ref. BOE-A-2007-187
+> Se modifican los Capítulos 3 y 5 por el art. único.4 de la Orden PRE/3531/2007, de 29 de noviembre. Ref. BOE-A-2007-20912
+
+> Se modifican los Capítulos 3, 5, 6, 9 y 10 por el art. único.4 de la Orden PRE/4063/2006, de 29 de diciembre. Ref. BOE-A-2007-187
 
 > Se modifican los Capítulos 2 y 10 por el art. único.4 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407
 

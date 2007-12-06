@@ -557,6 +557,18 @@ Calculador.
 
 (Véase Computadora).
 
+Calendario.
+
+Sistema de referencia temporal discreto que sirve de base para definir la posición temporal con resolución de un día (1).
+
+Calendario gregoriano.
+
+Calendario que se utiliza generalmente; se estableció en 1582 para definir un año que se aproxima más estrechamente al año tropical que el calendario juliano (1).
+
+Nota.-En el calendario gregoriano los años comunes tienen 365 días y los bisiestos 366, y se dividen en 12 meses sucesivos.
+
+(1) (ver norma ISO 19108, Información geográfica-Modelos temporales).
+
 Calidad.
 
 Todas las características de una entidad que se refieren a su capacidad para satisfacer necesidades establecidas e implícitas.
@@ -791,9 +803,7 @@ Condiciones meteorológicas expresadas en términos de visibilidad, distancia de
 
 Condiciones meteorológicas de vuelo visual nocturno.
 
-Condiciones meteorológicas entre la puerta y la salida del sol expresadas en términos de visibilidad, distancia de las nubes y techo de nubes, iguales o mejores que los mínimos especificados.
-
-Nota: Los mínimos especificados figuran en el Libro Segundo.
+(Suprimido).
 
 Configuración (aplicada al avión).
 
@@ -957,7 +967,7 @@ La distancia más corta entre dos puntos cualesquiera de una superficie elipsoid
 
 Distancia DME.
 
-Alcance óptico (alcance oblícuo) a partir del transmisor de la señal DME hasta la antena receptora.
+Alcance óptico (alcance oblicuo) a partir del transmisor de la señal DME hasta la antena receptora.
 
 Documentación Integrada de Información Aeronáutica.
 
@@ -1823,7 +1833,7 @@ Pista destinada a las operaciones de aeronaves que utilicen procedimientos visua
 
 Pista para aproximaciones de precisión.
 
-(Veáse Pista de vuelo por instrumentos.)
+(Véase Pista de vuelo por instrumentos.)
 
 Pistas casi paralelas
 
@@ -2146,6 +2156,12 @@ Grupo de estaciones aeronáuticas radiotelefónicas que usan y observan las mism
 Red de telecomunicaciones fijas aeronáuticas.
 
 Sistema completo y mundial de circuitos fijos aeronáuticos dispuestos como parte del Servicio fijo aeronáutico, para el intercambio de mensajes y/o datos numéricos entre estaciones fijas aeronáuticas que posean características de comunicación idénticas o compatibles.
+
+Referencia (Datum).
+
+Toda cantidad o conjunto de cantidades que pueda servir como referencia o base para el cálculo de otras cantidades (2).
+
+(2) (ver norma ISO 19104, Información geográfica-Terminología).
 
 Referencia geodésica.
 
@@ -2707,10 +2723,6 @@ b) que se sabe que va a salir o llegar de un vuelo en un área de prácticas de 
 
 c) que ejecuta aproximaciones por instrumentos de práctica en el aeródromo.
 
-Vuelo visual (VFR) nocturno.
-
-Vuelo afectado de acuerdo con las reglas de vuelo visual nocturno.
-
 Zona de cobertura (sistema mundial de pronóstico de área).
 
 Zona geográfica para la cual el centro regional de pronósticos de área proporciona pronósticos para los vuelos que salen de los aeródromos situados en su zona de servicio.
@@ -2874,13 +2886,13 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | AS | Espere (.-...) |
 | ASC | Suba o subiendo a |
 | ASDA | Distancia de aceleración-parada disponible |
-| ASHTAM | NOTAM sobre actividad de un volcán, erupción volcánica o nube de cenizas volcánicas. |
+| ASHTAM | NOTAM sobre actividad de un volcán, erupción volcánica o nube de cenizas volcánicas |
 | ASPH | Asfalto |
 | ASR | Radar de vigilancia de aeródromo |
 | ATA | Hora real de llegada |
 | ATC | Control de tránsito aéreo (en general) |
 | ATD | Hora real de salida |
-| ATFM | Gestión de afluencia del Tránsito Aéreo |
+| ATFM | Gestión de afluencia de Tránsito Aéreo |
 | ATIS | Servicio automático de información terminal |
 | ATM | Gestión del Tránsito Aéreo |
 | ATP | A las...(hora) o en...(lugar) |
@@ -2938,7 +2950,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | CF | Cambie frecuencia a..... |
 | CFM | Confirme (o confirmo) |
 | CFMU | Unidad Central de Gestión de Afluencia |
-| CGL | Luz de guía en circuito |
+| CGL | Luz de guía en circuito |  |
 | CH | Canal |
 | CH | Esta es la transmisión de verificación de continuidad de canal para permitir la comparación de su registro de los números de orden en el canal, correspondientes a los mensajes recibidos por este canal |
 | CHG | Modificación (designador de tipo de mensaje) |
@@ -3716,7 +3728,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | VE | Exceptuando el vuelo visual |
 | VER | Vertical |
 | VFR | Reglas de vuelo visual |
-| VFRN | Reglas de vuelo visual nocturno |
+| VFRN | (Suprimido) |
 | VHF | Muy alta frecuencia (30 a 300 M Hz) |
 | VIA | Vía... |
 | VIFNO... | Hora en que expira la autorización de salida expedida por una dependencia ACC o APP. |
@@ -3726,7 +3738,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | VLF | Muy baja frecuencia (3 a 30 MHz) |
 | VLR | De muy larga distancia |
 | VMC | Condiciones meteorológicas de vuelo visual |
-| VMCN | Condiciones meteorológicas de vuelo visual nocturno |
+| VMCN | (Suprimido) |
 | VOLMET | Información meteorológica para aeronaves en vuelo |
 | VOR | Radiofaro omnidireccional VHF |
 | VORTAC | VOR y TACAN combinados |
@@ -3779,8 +3791,10 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | YR | Su (de usted) |
 | ZS | Zona de seguridad |
 
+> Se modifican los Capítulos 1 y 2 por el art. único. 1 de la Orden PRE/3531/2007, de 29 de noviembre. Ref. BOE-A-2007-20912
+
 > Se modifican los Capítulos 1 y 2 por el art. único.1 de la Orden PRE/4063/2006, de 29 de diciembre. Ref. BOE-A-2007-187
 
 > Se modifican los Capítulos 1 y 2 por el art. único.1 y 8 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407
 
-> Se modifica el Capítulo 1 por el art. único.1 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-157637
+> Se modifican los Capítulos 1 y 2 por el art. único.1 y 8 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637
