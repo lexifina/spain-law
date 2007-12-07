@@ -1,3 +1,5 @@
-## Disposición final tercera. Incorporación del derecho de la Unión Europea.
+## Disposición final tercera. Facultad de desarrollo.
 
-Mediante este real decreto se incorporan al ordenamiento jurídico interno las Directivas 96/73/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 1996, y 2006/2/CE de la Comisión, de 6 de enero de 2006, por la que se modifica, para su adaptación al progreso técnico, el anexo II de la Directiva 96/73/CE.
+Se faculta a los Ministros de Industria, Turismo y Comercio y de Sanidad y Consumo para dictar, en el ámbito de sus competencias, las disposiciones necesarias para modificar los anexos de este real decreto, conforme al avance de los conocimientos científicos y técnicos, y para adaptarlos a las modificaciones introducidas por la normativa comunitaria.
+
+> Se modifica por el art. único.1 del Real Decreto 1522/2007, de 16 de noviembre. Ref. BOE-A-2007-20985.
