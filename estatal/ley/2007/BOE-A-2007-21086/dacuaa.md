@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Aseguramiento de rentas futuras por la constitución de una hipoteca inversa.
+
+Las disposiciones periódicas que pueda obtener el beneficiario como consecuencia de la constitución de una hipoteca inversa podrán destinarse, total o parcialmente, a la contratación de un plan de previsión asegurado, en los términos y condiciones previstos en el apartado 3 del artículo 51 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio. A estos efectos, se asimilará a la contingencia de jubilación prevista en la letra b) del apartado 3 del artículo 51 de la citada Ley 35/2006, la situación de supervivencia del tomador una vez transcurridos diez años desde el abono de la primera prima de dicho plan de previsión asegurado.
+
+La provisión matemática del plan de previsión asegurado no podrá ser objeto de movilización a otro instrumento de previsión social, ni podrán movilizarse a aquél los derechos consolidados o las provisiones matemáticas de otros sistemas de previsión social.

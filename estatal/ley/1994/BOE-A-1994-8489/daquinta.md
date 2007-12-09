@@ -6,7 +6,7 @@
 
 Los fondos que se autoricen al amparo de la normativa que se dicte se denominarán Fondos de Titulización de Activos (FTA).
 
-Las participaciones hipotecarias agrupadas en los fondos de titulización de activos podrán corresponder a préstamos y créditos que no reúnan los requisitos establecidos en la Sección 2.ª de la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario. Estas participaciones se emitirán y comercializarán con la denominación de "certificados de transmisión de hipoteca".
+Las entidades a que se refiere el artículo 2 de la Ley 2/1981 de 25 de marzo, de Regulación del Mercado Hipotecario, podrán hacer participar a terceros en todo o parte de uno o varios préstamos o créditos hipotecarios de su cartera, aunque estos préstamos o créditos no reúnan los requisitos establecidos en la Sección 2.ª de dicha Ley. Estos valores, denominados «certificados de transmisión de hipoteca» podrán emitirse para su colocación entre inversores cualificados, o para su agrupación en fondos de titulización de activos. A estos certificados les será de aplicación las normas que para las participaciones hipotecarias se establecen en la Ley 2/1981, de 25 de marzo, salvo lo previsto en este apartado.
 
 3. El párrafo h) del artículo 8.1 de la Ley 14/1985, de 29 de mayo, de Régimen Fiscal de determinados activos financieros quedará redactado en los siguientes términos:
 
@@ -16,4 +16,6 @@ Las participaciones hipotecarias agrupadas en los fondos de titulización de act
 
 5. Reglamentariamente se regulará el régimen jurídico de las Sociedades Gestoras de los Fondos de Titulización, quienes podrán asumir tanto la administración y representación legal de los Fondos de Titulización Hipotecaria previstos en la Ley 19/1992, de 7 de julio, como la de los Fondos de Titulización de Activos. Las Sociedades Gestoras de Fondos de Titulización Hipotecaria actualmente existentes podrán transformarse en Sociedades Gestoras de Fondos de Titulización en los plazos y con cumplimiento de las condiciones que se determinen reglamentariamente.
 
-> Se añade el párrafo último al apartado 2 por el art. 18 de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807.
+> Se modifica el párrafo tercero del apartado 2 por la disposición final 1 de la Ley 41/2002, de 22 de noviembre. Ref. BOE-A-2007-21086.
+
+> Se añade el párrafo tercero al apartado 2 por el art. 18 de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807.

@@ -4,4 +4,8 @@ El crédito garantizado con hipoteca mobiliaria o con prenda sin desplazamiento 
 
 El crédito garantizado con prenda sin desplazamiento y formalizado en póliza intervenida por Agente de Cambio y Bolsa o Corredor colegiado, podrá enajenarse o cederse total o parcialmente por documento intervenido también por Agente o Corredor.
 
-La notificación al deudor deberá ser hecha en todos los casos por acta notarial.
+La notificación al deudor deberá ser hecha en todos los casos por acta notarial
+
+Los créditos garantizados con hipoteca mobiliaria o prenda sin desplazamiento podrán servir de cobertura a las emisiones de títulos del mercado secundario.
+
+> Se añade el último párrafo por la disposición final 3.2 de la Ley 41/2007, de 7 de diciembre. Ref. BOE-A-2007-21086.

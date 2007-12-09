@@ -1,7 +1,13 @@
 ## Artículo tercero.
 
-Uno. Las Sociedades de crédito hipotecario revestirán la forma de Sociedades Anónimas y tendrán por objeto único la realización de las operaciones activas y pasivas reguladas en esta Ley.
+1. Las sociedades de tasación y los servicios de tasación de las entidades de crédito estarán sometidas a los requisitos de homologación previa, independencia y secreto que se establezcan reglamentariamente.
 
-Dos. Las Sociedades de crédito hipotecario podrán abrir cuenta de depósito a largo plazo y de ahorro vinculado. En este caso, el importe del crédito que estas Sociedades otorguen guardará relación con el tiempo transcurrido desde la constitución del ahorro vinculado.
+2. Las sociedades de tasación que presten sus servicios a entidades de crédito de su mismo grupo, así como las sociedades de tasación cuyos ingresos totales deriven, en el período temporal que reglamentariamente se establezca, al menos en un 25 por ciento de su relación de negocio con una entidad de crédito o con el conjunto de entidades de crédito de un mismo grupo, deberán, siempre que alguna de esas entidades de crédito haya emitido y tenga en circulación títulos hipotecarios, disponer de mecanismos adecuados para favorecer la independencia de la actividad de tasación y evitar conflictos de interés, especialmente con los directivos o las unidades de la entidad de crédito que, sin competencias específicas en el análisis o la gestión de riesgos, estén relacionados con la concesión o comercialización de créditos o préstamos hipotecarios.
 
-Tres. La autorización para su establecimiento será reglada.
+Esos mecanismos consistirán al menos en un reglamento interno de conducta que establezca las incompatibilidades de sus directivos y administradores y los demás extremos que la entidad, atendiendo a su tamaño, tipo de negocio, y demás características, resulten más adecuados. El Banco de España verificará dichos mecanismos y podrá establecer los requisitos mínimos que deban cumplir con carácter general y requerir a las entidades, de manera razonada, para que adopte las medidas adicionales que resulten necesarias para preservar su independencia profesional.
+
+La obligación de disponer de esos mecanismos afectará también a los propios servicios de tasación de las entidades de crédito, y a aquellas sociedades de tasación controladas por o en las que ejerzan una influencia notable en su gestión, accionistas con intereses específicos en la promoción o comercialización de inmuebles, o en actividades que, a juicio del Banco de España, sean de análoga naturaleza.
+
+3. Las entidades de crédito que hayan emitido y tengan en circulación títulos hipotecarios y cuenten con servicios propios de tasación o encarguen tasaciones a una sociedad de tasación de su mismo grupo, deberán constituir una comisión técnica que verificará el cumplimiento de los requisitos de independencia contenidos en los mecanismos mencionados en el apartado anterior. Dicha comisión elaborará un informe anual, que deberá remitir al consejo de administración u órgano equivalente de la entidad, sobre el grado de cumplimiento de las citadas exigencias. El referido informe anual deberá ser remitido igualmente al Banco de España.
+
+> Se modifica por el art. 3.2 de la Ley 41/2007, de 7 de diciembre. Ref. BOE-A-2007-21086

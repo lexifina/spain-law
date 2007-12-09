@@ -22,7 +22,7 @@ Cuando se perciba la deducción de forma anticipada no se minorará la cuota dif
 
 3. En ningún caso se tendrá derecho a esta deducción cuando, en relación con el mismo nacimiento o adopción, ya hubiera percibido la prestación a que se refiere la letra b) del artículo 3 de la Ley 35/2007, de 15 de noviembre.»
 
-Tres. Se modifica el artículo 103, que quedará redactado en los siguientes términos:
+Tres. Se modifican los apartados 1 y 2 del artículo 103, que quedan redactados en los siguientes términos.
 
 «Artículo 103. Devolución derivada de la normativa del tributo.
 
@@ -37,3 +37,5 @@ Cuatro. Se añade una nueva disposición adicional vigésimo sexta, que quedará
 «Disposición adicional vigésimo sexta. Deducción por nacimiento o adopción en el período impositivo 2007.
 
 Lo previsto en los artículos 81 bis y 103 de esta Ley sólo resultará aplicable respecto de los nacimientos que se hubieran producido a partir del 1 de julio de 2007, así como de las adopciones que se hubieran constituido a partir de dicha fecha.»
+
+> Se modifica el apartado 3, con efectos desde la entrada en vigor de la Ley 35/2007, de 15 de noviembre, por la disposición final 4 de la Ley 41/2007, de 7 de diciembre. Ref. BOE-A-2007-21086

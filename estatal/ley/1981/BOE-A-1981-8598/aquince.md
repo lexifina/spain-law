@@ -12,6 +12,8 @@ Si el acreedor hipotecario no instare la ejecución judicial dentro de los sesen
 
 La parte de créditos cedida en participaciones hipotecarias no se computará dentro de la cifra de capitales en riesgo.
 
-En caso de quiebra de la entidad emisora de la participación, el negocio de emisión de la participación sólo será impugnable en los términos del artículo 10 y, en consecuencia, el titular de aquella participación gozará de derecho absoluto de separación en los términos previstos en los artículos 908 y 909 del Código de Comercio. Igual derecho de separación le asistirá en caso de suspensión de pagos o situaciones asimiladas de la entidad emisora de la participación.
+En caso de concurso de la entidad emisora de la participación, el negocio de emisión de la participación sólo será impugnable en los términos del artículo 10, y, en consecuencia, el titular de aquella participación gozará de derecho absoluto de separación.
+
+> Se modifica el párrafo séptimo por el art. 12.3 de la Ley 41/2007, de 7 de diciembre. Ref. BOE-A-2007-21086
 
 > Se añade el último párrafo por el art. 4.1 de la Ley 19/1992, de 7 de julio. Ref. BOE-A-1992-16412
