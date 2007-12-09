@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Régimen transitorio de los expedientes de reutilización directa de aguas depuradas, iniciados y no resueltos a la entrada en vigor de este real decreto.
+
+Los expedientes de reutilización directa, iniciados y no resueltos a la entrada en vigor de este real decreto, se resolverán conforme a la legislación vigente al tiempo de su solicitud, sin perjuicio de que una vez otorgada la correspondiente concesión o autorización, el titular de la misma deba realizar, en el plazo de dos años contados desde el otorgamiento de la autorización, las adaptaciones que resulten necesarias para poder cumplir las condiciones básicas de la reutilización y las obligaciones impuestas en este real decreto.

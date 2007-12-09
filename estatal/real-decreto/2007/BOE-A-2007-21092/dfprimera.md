@@ -1,0 +1,3 @@
+## Disposición final primera. Carácter básico.
+
+Este real decreto tiene el carácter de legislación básica sobre sanidad y medio ambiente y sobre contratos y concesiones administrativas, de conformidad con lo dispuesto en el artículo 149.1.13.ª, 16.ª, 23.ª y 18.ª de la Constitución, excepto los artículos 3.3, 8 –salvo el primer párrafo de su apartado 5 que también tiene carácter de legislación básica ambiental de conformidad con lo establecido en el artículo 149.1.23.ª–, 9, 10 y 11.1, que serán exclusivamente de aplicación en las cuencas hidrográficas intercomunitarias, cuya gestión corresponde a la Administración General del Estado conforme al artículo 149.1.22.ª de la Constitución.
