@@ -8,10 +8,20 @@ De conformidad con lo dispuesto en el artículo 93.2 de la Ley 42/1999, de 25 de
 
 | Empleo | Grupo |
 | --- | --- |
-| General de División a Teniente. Alférez y Suboficial Mayor a Sargento. Cabo Mayor a Guardia Civil. | A B C |
+| Teniente General a Teniente. | A |
+| Alférez y Suboficial Mayor a Sargento. | B |
+| Cabo Mayor a Guardia Civil. | C |
 
 Cuerpo Nacional de Policía
 
 | Escalas | Grupo |
 | --- | --- |
-| Escala Superior y Personal Facultativo. Escala Ejecutiva. Personal Técnico. Escala de Subinspección. Escala Básica. | A A B B C |
+| Escala Superior y Personal Facultativo. | A |
+| Escala Ejecutiva. | A |
+| Personal Técnico. | B |
+| Escala de Subinspección. | B |
+| Escala Básica. | C |
+
+> Se modifica la tabla primera por el art. único del Real Decreto 1622/2007, de 7 de diciembre. Ref. BOE-A-2007-21093.
+
+> Esta modificación tiene efectos económicos desde el 22 de septiembre de 2007, según establece la disposición final 3.

@@ -2,25 +2,40 @@
 
 ## Importe de los complementos de disponibilidad correspondientes al personal de la Guardia Civil que haya pasado o pase a la situación de reserva sin destino a partir de la entrada en vigor de la Ley 42/1999, de 25 de noviembre
 
+Cuerpo de la Guardia Civil
+
 | Empleo | Cuantía anual (en euros) |
 | --- | --- |
-| General de División | 20.332,07 |
-| General de Brigada | 17.775,11 |
-| Coronel | 15.732,11 |
-| Teniente Coronel | 15.568,17 |
-| Comandante | 15.469,65 |
-| Capitán | 13.098,69 |
-| Teniente | 11.404,77 |
-| Alférez | 10.385,85 |
-| Suboficial Mayor | 12.461,54 |
-| Subteniente | 11.577,26 |
-| Brigada | 9.310,94 |
-| Sargento Primero | 8.628,74 |
-| Sargento | 8.047,82 |
-| Cabo Mayor | 10.440,50 |
-| Cabo Primero | 9.612,50 |
-| Cabo | 8.958,86 |
-| Guardia Civil | 7.927,82 |
+| Teniente General | 24.591,72 |
+| General de División | 22.857,48 |
+| General de Brigada | 20.196,96 |
+| Coronel | 18.071,52 |
+| Teniente Coronel | 17.708,64 |
+| Comandante | 17.606,04 |
+| Capitán | 14.945,64 |
+| Teniente | 13.123,92 |
+| Alférez | 12.061,92 |
+| Suboficial Mayor | 14.091,00 |
+| Subteniente | 13.059,12 |
+| Brigada | 10.701,36 |
+| Sargento Primero | 9.972,00 |
+| Sargento | 9.367,44 |
+| Cabo Mayor | 11.857,08 |
+| Cabo Primero | 10.950,36 |
+| Cabo | 10.270,44 |
+| Guardia Civil | 9.063,00 |
+
+> Se modifica por el art. 2.1 del Real Decreto 29/2009, de 16 de enero. Ref. BOE-A-2009-911.
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2009, según establece la disposición final 3.
+
+> Se modifica por el art. 2.1 del Real Decreto 10/2008, de 11 de enero. Ref. BOE-A-2008-518.
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifica por el art. 2.1 y anexo IV del Real Decreto 5/2007, de 12 de enero. Ref. BOE-A-2007-882. en la redacción dada por el art. único del Real Decreto 1622/2007, de 7 de diciembre. Ref. BOE-A-2007-21093.
+
+> Esta modificación tiene efectos económicos desde el 22 de septiembre de 2007, según establece la disposición final 3.
 
 > Se modifica por el art. 2.1 y anexo IV del Real Decreto 5/2007, de 12 de enero. Ref. BOE-A-2007-882.
 

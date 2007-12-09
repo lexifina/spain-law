@@ -6,38 +6,48 @@ Cuerpo de la Guardia Civil
 
 | Empleo | Cuantía anual (en euros) |
 | --- | --- |
-|  |
-| General de División | 13.246,49 |
-| General de Brigada | 10.050,05 |
-| Coronel | 9.147,29 |
-| Teniente Coronel | 9.384,59 |
-| Comandante | 9.703,79 |
-| Capitán | 8.875,07 |
-| Teniente | 7.199,99 |
-| Alférez | 6.368,63 |
-| Suboficial Mayor | 8.963,13 |
-| Subteniente | 8.300,25 |
-| Brigada | 5.467,65 |
-| Sargento Primero | 5.463,81 |
-| Sargento | 4.737,57 |
-| Cabo Mayor | 7.728,57 |
-| Cabo Primero | 6.965,13 |
-| Cabo | 6.148,05 |
-| Guardia Civil | 5.403,14 |
+| Teniente General | 16.018,08 |
+| General de División | 15.911,14 |
+| General de Brigada | 12.585,58 |
+| Coronel | 11.646,32 |
+| Teniente Coronel | 11.652,76 |
+| Comandante | 11.984,84 |
+| Capitán | 10.880,80 |
+| Teniente | 9.063,74 |
+| Alférez | 8.196,30 |
+| Suboficial Mayor | 10.732,54 |
+| Subteniente | 9.903,04 |
+| Brigada | 6.956,04 |
+| Sargento Primero | 6.927,62 |
+| Sargento | 6.171,90 |
+| Cabo Mayor | 9.283,82 |
+| Cabo Primero | 8.433,32 |
+| Cabo | 7.583,38 |
+| Guardia Civil | 6.639,78 |
 
 Cuerpo Nacional de Policía
 
 | Categorías | Cuantía anual (en euros) |
 | --- | --- |
-| Comisario Principal | 11.917,49 |
-| Comisario | 10.380,41 |
-| Facultativo | 9.992,87 |
-| Inspector Jefe | 8.875,07 |
-| Inspector | 7.199,99 |
-| Personal Técnico | 10.785,47 |
-| Subinspector | 5.537,85 |
-| Oficial de Policía | 6.965,13 |
-| Policía | 5.403,14 |
+| Comisario Principal | 14.528,36 |
+| Comisario | 12.892,74 |
+| Facultativo | 12.084,66 |
+| Inspector Jefe | 10.880,80 |
+| Inspector | 9.063,74 |
+| Personal Técnico | 12.792,36 |
+| Subinspector | 7.016,80 |
+| Oficial de Policía | 8.433,32 |
+| Policía | 6.639,78 |
+
+> Se modifica por el art. 1 y anexo III del Real Decreto 29/2009, de 16 de enero. Ref. BOE-A-2009-911.
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2009, según establece la disposición final 3.
+
+> Se modifica por el art. 1 y anexo III del Real Decreto 10/2008, de 11 de enero. Ref. BOE-A-2008-518.
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifica por el art. 1 y anexo III del Real Decreto 5/2007, de 12 de enero. Ref. BOE-A-2007-882. en la redacción dada por el art. único del Real Decreto 1622/2007, de 7 de diciembre. Ref. BOE-A-2007-21093.
 
 > Se modifica por el art. 1 y anexo III del Real Decreto 5/2007, de 12 de enero. Ref. BOE-A-2007-882.
 
