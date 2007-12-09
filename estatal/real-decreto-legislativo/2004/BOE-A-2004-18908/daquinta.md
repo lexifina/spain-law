@@ -1,3 +1,7 @@
 ## Disposición adicional quinta. Validez de la autorización administrativa en todo el Espacio Económico Europeo.
 
 La autorización administrativa concedida a las entidades aseguradoras españolas al amparo del artículo 6.1 de la Ley 33/1984, de 2 de agosto, sobre ordenación del seguro privado, cuando se extienda a todo el territorio español, es válida en todo el Espacio Económico Europeo en los términos del artículo 5.5 de esta ley, desde el 10 de noviembre de 1995. Todo ello sin perjuicio de que las referidas entidades aseguradoras se ajusten a las disposiciones del capítulo IV del título II cuando pretendan operar en régimen de derecho de establecimiento o en régimen de libre prestación de servicios, sin necesidad de reiterar la notificación o información iniciales respecto de las actividades ya comenzadas en dicha fecha en ambos regímenes.
+
+La autorización administrativa concedida a entidades reaseguradoras con anterioridad al 10 de diciembre de 2005 será valida en todo el Espacio Económico Europeo en los términos del artículo 58, en la redacción dado al mismo por la Ley por la que se modifica el Texto Refundido de la Ley de Ordenación y Supervisión de los Seguros Privados, aprobado por el Real Decreto Legislativo 6/2004, de 29 de octubre, en materia de supervisión del reaseguro.
+
+> Se añade un párrafo 2 por el art. único.11 de la Ley 13/2007, de 2 de julio. Ref. BOE-A-2007-12870
