@@ -734,6 +734,24 @@ Los poderes públicos impulsarán el fortalecimiento del movimiento asociativo e
 
 2. Reglamentariamente se determinará su composición, competencias, régimen de funcionamiento y adscripción administrativa.»
 
+> Se declara la inconstitucionalidad de los apartados 5, 6 y lo indicado del 9, con los efectos que se indican en el fundamento jurídico 17, y la inconstitucionalidad y nulidad de los incisos destacados de los apartados 7 y 16, por Sentencia del TC 236/2007, de 7 de noviembre. Ref. BOE-T-2007-21162.
+
+> Véase tambíen en cuanto a la inconstitucionalidad y/o nulidad de lo indicado de los apartados 5, 6 y 9, las siguientes sentencias:
+
+> Sentencia del TC 259/2007, de 19 de diciembre. Ref. BOE-T-2008-1083.
+
+> Sentencia del TC 260/2007, de 20 de diciembre. Ref. BOE-T-2008-1084.
+
+> Sentencia del TC 261/2007, de 20 de diciembre. Ref. BOE-T-2008-1085.
+
+> Sentencia del TC 262/2007, de 20 de diciembre. Ref. BOE-T-2008-1086.
+
+> Sentencia del TC 263/2007, de 20 de diciembre. Ref. BOE-T-2008-1087.
+
+> Sentencia del TC 264/2007, de 20 de diciembre. Ref. BOE-T-2008-1088.
+
+> Sentencia del TC 265/2007, de 20 de diciembre. Ref. BOE-T-2008-1089.
+
 > Se convierten a euros las cuantías contempladas en el apartado 48 por el anexo de la Resolución de 22 de octubre de 2001. Ref. BOE-A-2001-21533.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
