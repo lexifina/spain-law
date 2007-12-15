@@ -51,3 +51,7 @@ Respecto a los perros, se estará a lo dispuesto en el artículo 30 de este Regl
 23. Tirar, con fines de caza, alambres o redes en arroyos, ríos o embalses, o extender estas celosías en lugares de entrada o salida de aves, aprovechando el paso de éstas.
 
 24. Incumplir cualquier otro precepto o limitación de la Ley de Caza o de los que para su desarrollo se fijan en este Reglamento.
+
+> Téngase en cuenta que se derogan los apartados 15, 18 y 19, en lo referente a la caza con reclamo, por la disposición derogatoria.2 de la Ley 42/2007, de 13 de diciembre. Ref. BOE-A-2007-21490#dd.
+
+> Se derogan los apartados 15, 18 y 19, en lo referente a la caza con reclamo, por la disposición derogatoria.2 de la Ley 42/2007, de 13 de diciembre. Ref. BOE-A-2007-21490#dd.

@@ -1,0 +1,45 @@
+## Disposición final primera. Modificación de la Ley 22/1988, de 28 de julio, de Costas.
+
+El artículo 84 de la Ley 22/1988, de 28 de julio, de Costas, queda redactado de la siguiente manera:
+
+«Artículo 84.
+
+1. Toda ocupación o aprovechamiento del dominio público marítimo-terrestre en virtud de una concesión o autorización, cualquiera que fuere la Administración otorgante, devengará el correspondiente canon en favor de la Administración del Estado, sin perjuicio de los que sean exigibles por aquélla.
+
+2. Están obligados al pago del canon, en la cuantía y condiciones que se determinan en esta Ley, los titulares de las concesiones y autorizaciones antes mencionadas.
+
+3. La base imponible será el valor del bien ocupado y aprovechado, que se determinará de la siguiente forma:
+
+a) Por ocupación de bienes de dominio público marítimo-terrestre, la valoración del bien ocupado se determinará por equiparación al valor asignado a efectos fiscales a los terrenos contiguos a sus zonas de servidumbre, incrementado en los rendimientos que sea previsible obtener en la utilización de dicho dominio. En el caso de obras e instalaciones el valor material de las mismas. En los supuestos de obras e instalaciones en el mar territorial destinadas a la investigación o explotación de recursos mineros y energéticos se abonará un canon de 0,006 euros por metro cuadrado de superficie ocupada.
+
+b) Por aprovechamiento de bienes de dominio público marítimo-terrestre, el valor del bien será el de los materiales aprovechados a precios medio de mercado.
+
+4. En el caso de cultivos marinos la base imponible del canon de ocupación y aprovechamiento del dominio público marítimo-terrestre se calculará con arreglo a las siguientes reglas:
+
+a) Se considerará como valor de los terrenos ocupados la cantidad de 0,006 euros por metro cuadrado.
+
+b) En cuanto a los rendimientos que se prevé obtener en la utilización del dominio público marítimo-terrestre, se considerarán los siguientes coeficientes:
+
+Tipo 1. Cultivos marinos en el mar territorial y aguas interiores 0,4 €/m2.
+
+Tipo 2. Cultivos marinos en la ribera del mar y de las rías 0,16 €/m2.
+
+Tipo 3. Estructuras para las tomas de agua de mar y desagües desde cultivos marinos localizados en tierra 5 €/m2.
+
+En ambos casos, las cantidades se revisarán por Orden del Ministerio de Medio Ambiente, teniendo en cuenta la variación experimentada por el Índice General Nacional del sistema de Índices de Precios de Consumo.
+
+5. El tipo de gravamen anual será del 8 por ciento sobre el valor de la base, salvo en el caso de aprovechamiento, que será del 100 por ciento.
+
+6. El canon de ocupación a favor de la Administración General del Estado que devengarán las concesiones que las Comunidades autónomas otorguen en dominio público marítimo-terrestre adscrito para la construcción de puertos deportivos o pesqueros, se calculará según lo previsto en esta Ley y en su normativa de desarrollo. La estimación del beneficio que se utilice para obtener la base imponible del canon, en ningún caso podrá ser inferior al 3,33 por ciento del importe de la inversión a realizar por el solicitante.
+
+7. El canon podrá reducirse un 90 por ciento en los supuestos de ocupaciones destinadas al uso público gratuito.
+
+Con objeto de incentivar mejores prácticas medioambientales en el sector de la acuicultura, el canon se reducirá un 40 por ciento en el supuesto de concesionarios adheridos, con carácter permanente y continuado, al sistema comunitario de gestión y auditoría medioambiental (EMAS). Si no estuvieran adheridos a dicho sistema de gestión pero dispusieran del sistema de gestión medioambiental UNE-EN ISO 14001:1996, los concesionarios tendrán una reducción del 25 por ciento.
+
+8. Las Comunidades autónomas y las corporaciones locales estarán exentas del pago del canon de ocupación en las concesiones o autorizaciones que se les otorguen, siempre que éstas no sean objeto de explotación lucrativa, directamente o por terceros. Igualmente quedarán exentos del pago de este canon los supuestos previstos en el apartado 2 del artículo 54 de esta Ley.
+
+9. El devengo del canon, calculado de acuerdo con los criterios establecidos en los apartados anteriores, se producirá con el otorgamiento inicial y mantenimiento anual de la concesión o autorización, y será exigible en la cuantía que corresponda y en los plazos que se señalen en las condiciones de dicha concesión o autorización. En el caso de aprovechamiento, el devengo se producirá cuando aquél se lleve a cabo.
+
+En el supuesto de concesiones de duración superior a un año, cuyo canon se haya establecido o haya sido revisado, aplicando la Orden de 30 de octubre de 1992, del Ministerio de Obras Públicas y Transportes, por la que se determina la cuantía del canon de ocupación y aprovechamiento del dominio público marítimo-terrestre, el mismo quedará actualizado anualmente, de forma automática, incrementando o minorando la base del vigente mediante la aplicación a la misma de la variación experimentada por el Índice General Nacional del sistema de Índices de Precios de Consumo en los últimos doce meses, según los datos publicados anteriores al primer día de cada nuevo año. El devengo del canon, cuya base se haya actualizado conforme a lo expuesto, será exigible en los plazos fijados en las condiciones establecidas en cada título.
+
+En el caso de las concesiones de duración superior a un año, cuyo canon no se haya establecido o revisado aplicando la Orden de 30 de octubre de 1992, previamente se procederá a su revisión conforme a la misma. Una vez realizada esta revisión quedará actualizado anualmente tal como establece el párrafo anterior.»

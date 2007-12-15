@@ -1,4 +1,4 @@
-## Artículo 48. Definición, clasificación y sanciones.
+## Art. 48. Definición, clasificación y sanciones.
 
 Definición
 
@@ -249,5 +249,9 @@ Clasificación y sanciones
 55. Usar artes, redes u otros medios cuyo contraste sea preceptivo sin el correspondiente precinto del Servicio.
 
 56. Tirar, con fines de caza, alambres o redes en arroyos, ríos o embalses o extender estas celosías en lugares de entrada o salida de aves aprovechando el paso de ellas.
+
+> Téngase en cuenta que se derogan los apartados 1.15, 2.17, 2.31 y 3.46, en lo referente a la caza con reclamo, por la disposición derogatoria.2 de la Ley 42/2007, de 13 de diciembre. Ref. BOE-A-2007-21490#dd.
+
+> Se derogan, en lo referente a la caza con reclamo, los apartados 1.15, 2.17, 2.31 y 3.46 por la disposición derogatoria.2 de la Ley 42/2007, de 13 de diciembre. Ref. BOE-A-2007-21490#dd.
 
 > Redactados los apartados 2.10, 21 y 3.37 conforme a la corrección de errores publicada en BOE núm. 112, de 11 de mayo de 1971. Ref. BOE-A-1971-618.

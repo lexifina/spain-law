@@ -41,3 +41,7 @@ e) Tratándose de Empresas Turístico-Cinegéticas, el Servicio, previa petició
 b) Los puestos para practicar esta modalidad de caza no podrán establecerse a menos de 500 metros de la linde cinegética más próxima.
 
 c) Queda prohibido cazar con reclamo de perdiz hembra o con artificio que lo sustituya.
+
+> Téngase en cuenta que se deroga el apartado 13, en lo referente a la caza con reclamo, por la disposición derogatoria.2 de la Ley 42/2007, de 13 de diciembre. Ref. BOE-A-2007-21490#dd.
+
+> Se deroga el apartado 13, en lo referente a la caza con reclamo, por la disposición derogatoria.2 de la Ley 42/2007, de 13 de diciembre. Ref. BOE-A-2007-21490#dd.
