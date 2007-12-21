@@ -1,18 +1,28 @@
 ## Art. 4.º
 
-En el Centro de Investigación en Sanidad Animal se crea un Consejo Técnico como órgano colegiado de asesoramiento, propuesta e informe respecto de las actividades que en dicho Centro se desarrollan, y estará formado por:
+En el Centro de Investigación en Sanidad Animal se crea un Consejo Técnico como órgano colegiado de asesoramiento respecto de las actividades que en dicho Centro se desarrollan, y estará formado por un presidente, un vicepresidente y un máximo de diez vocales, uno de los cuales ejercerá como secretario.
 
-1. Presidente: el Director general del INIA.
+a) La presidencia corresponderá alternativamente, por períodos anuales, al Director General del INIA y al Director General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación.
 
-2. Vicepresidente 1.º: un representante de la Secretaría General de Política Científica del Ministerio de Ciencia y Tecnología, con rango de Subdirector general.
+Corresponde al presidente acordar las convocatorias de las sesiones ordinarias y extraordinarias, presidirlas, así como fijar el orden del día.
 
-3. Vicepresidente 2.º: Un representante de la Dirección General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación, con rango de Subdirector General.
+b) El vicepresidente será el Director General del INIA o el Director General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación, de acuerdo con la alternancia establecida en el apartado anterior.
 
-4. Diez vocales nombrados por el Presidente entre especialistas de reconocido prestigio científico-técnico.
+El vicepresidente sustituirá al presidente en caso de vacante, ausencia, enfermedad u otra causa legal.
 
-5. El Subdirector general de Investigación y Tecnología del INIA, quien desempeñará, además, el cargo de Secretario, y tendrá derecho a participar en las reuniones con voz y voto.
+c) Los vocales serán nombrados por el Director General del INIA por un período de 4 años para aquellos que no lo sean por razón de su cargo, y entre los que se encontrará:
 
-En caso de vacante, ausencia, enfermedad u otra causa legal, el Presidente será sustituido por el Vicepresidente 1.º
+El Subdirector General de Investigación y Tecnología del INIA, que además, desempeñará las funciones de Secretario.
+
+El Subdirector General de Sanidad Animal de la Dirección General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación.
+
+Dos representantes para el conjunto de las comunidades autónomas que decidan participar en él, en cuyo caso su nombramiento se realizará de acuerdo con la propuesta de éstas, formulada en el seno de la Comisión Coordinadora de Investigación Agraria, regulada por Orden de 8 de enero de 1987.
+
+El Director del CISA.
+
+El resto de miembros serán nombrados entre especialistas de reconocido prestigio, representantes del sector ganadero y otros sectores implicados.
+
+> Se modifica por el art. único.1 de la Orden PRE/3715/2007, de 17 de diciembre. Ref. BOE-A-2007-21919.
 
 > Se modifica por el apartado único.1 de la Orden PRE/870/2003, de 9 de abril. Ref. BOE-A-2003-7682.
 
