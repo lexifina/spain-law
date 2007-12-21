@@ -1,10 +1,6 @@
 ## Disposición adicional decimoctava. Régimen fiscal de determinados préstamos de valores.
 
-1. Lo previsto en esta disposición resultará de aplicación a los siguientes préstamos de valores:
-
-a) Los regulados en el apartado 7 del artículo 36 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
-
-b) Los no comprendidos en el párrafo a) anterior que tengan por objeto valores admitidos a negociación en bolsas de valores, mercados y sistemas organizados de negociación radicados en Estados miembros de la OCDE que cumplan los requisitos previstos en el artículo 30 de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, y reúnan las siguientes condiciones:
+1. Lo previsto en esta disposición adicional resultará de aplicación a los préstamos de valores mencionados en el apartado 3 del artículo 36 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, así como a aquellos que tengan por objeto valores admitidos a negociación en bolsas de valores, mercados y sistemas organizados de negociación radicados en Estados miembros de la OCDE que cumplan los requisitos previstos en el artículo 30 de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, siempre que, en ambos casos, tales préstamos reúnan las siguientes condiciones:
 
 Que la cancelación del préstamo se efectúe mediante devolución de otros tantos valores homogéneos a los prestados.
 
@@ -69,3 +65,5 @@ e) Los servicios y operaciones relativos a préstamos de valores se entenderán 
 Dicha información adicional se suministrará con la restante información relativa a la operación en el mismo lugar y plazos previstos para esta última y en la forma y modelo que determine el Ministro de Hacienda.
 
 Asimismo la Sociedad de Gestión de los Sistemas de Registro, Compensación y Liquidación de Valores o, en su caso, la entidad que realice las funciones de registro, compensación y liquidación de los mercados o sistemas organizados de negociación de valores contemplados en el apartado 4 del artículo 31 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, suministrará a la Administración tributaria, la información relativa al número de la operación de préstamo, la identificación y número de los valores prestados, número de identificación fiscal de las entidades financieras que intermedian o registran la operación, la fecha de constitución y cancelación, así como a las garantías de la operación cuando se hubiesen constituido o entregado a través de los sistemas gestionados por aquélla.
+
+> Se modifica el apartado 1 por la disposición final 3 de la Ley 47/2007, de 19 de diciembre. Ref. BOE-A-2007-21913.
