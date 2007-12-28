@@ -10,7 +10,7 @@ Las medidas de la cabina serán las siguientes: 2 metros de altura x 1 metro de 
 
 La cabina electoral contendrá, necesariamente, los siguientes elementos:
 
-–Casillero metálico incrustado en el interior de la cabina que contenga, al menos 36 casillas (de 14 cms. de altura x 10 cms. de anchura cada casilla) para introducir las papeletas de votación.
+a) Casillero metálico incrustado en el interior de la cabina que contenga, al menos, 36 casillas (de 14 centímetros de altura por 11 centímetros de anchura, cada casilla) para introducir las papeletas de votación.
 
 –Repisa unida a la estructura de la cabina a una altura de 1 metro del suelo.
 
@@ -23,6 +23,8 @@ El material de la cabina será el acero o similar.
 El modelo de cabina, con las características anteriores, se ajustará al diseño que se acompaña.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2003/249/19153_002.png)
+
+> Se modifica el apartado a) por el art. 1 de la Orden INT/3816/2007, de 19 de diciembre. Ref. BOE-A-2007-22299
 
 > Se modifica por el art. único de la Orden INT/2838/2003, de 14 de octubre. Ref. BOE-A-2003-19153
 

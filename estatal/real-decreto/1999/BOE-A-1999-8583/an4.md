@@ -22,9 +22,13 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2007/299/21501_005.png)
 
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/310/22299_002.png)
+
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_030.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_031.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/310/22299_003.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_032.png)
 
@@ -37,6 +41,8 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_036.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_037.png)
+
+> Se añaden los modelos C.4.5.b y EL.4.5.b por el art. 3 de la Orden INT/3816/2007, de 19 de diciembre. Ref. BOE-A-2007-22299
 
 > Se añaden los modelos C.4.5.bis y C.4.5.a-bis por la disposición final 2.2 del Real Decreto 1621/2007, de 7 de diciembre. Ref. BOE-A-2007-21501
 

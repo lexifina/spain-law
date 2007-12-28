@@ -6,9 +6,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_009.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/310/22299_001.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_011.png)
 
@@ -29,6 +27,8 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_018.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_019.png)
+
+> Se suprime el anterior modelo de papeleta ECG-3.2. y se sustituye el ECG-32.a por el nuevo ECG-3.2 por el art. 2 de la Orden INT/3816/2007, de 19 de diciembre. Ref. BOE-A-2007-22299
 
 > Se añade el modelo 3.5.bis por la disposición final 2.1 del Real Decreto 1621/2007, de 7 de diciembre. Ref. BOE-A-2007-21501
 
