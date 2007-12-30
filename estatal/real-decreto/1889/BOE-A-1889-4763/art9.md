@@ -12,13 +12,7 @@ La nulidad, la separación y el divorcio se regirán por la ley que determina el
 
 4. El carácter y contenido de la filiación, incluida la adoptiva y las relaciones paterno-filiales, se regirán por la Ley personal del hijo y si no pudiera determinarse ésta, se estará a la de la residencia habitual del hijo.
 
-5. Para la constitución de la adopción, los Cónsules españoles tendrán las mismas atribuciones que el Juez, siempre que el adoptante sea español y el adoptando esté domiciliado en la demarcación consular. La propuesta previa será formulada por la entidad pública correspondiente al último lugar de residencia del adoptante en España. Si el adoptante no tuvo residencia en España en los dos últimos años, no será necesaria propuesta previa, pero el Cónsul recabará de las autoridades del lugar de residencia de aquél informes suficientes para valorar su idoneidad.
-
-En la adopción constituida por la competente autoridad extranjera, la Ley del adoptando regirá en cuanto a capacidad y consentimientos necesarios. Los consentimientos exigidos por tal Ley podrán prestarse ante una autoridad del país en que se inició la constitución o, posteriormente, ante cualquier otra autoridad competente. En su caso, para la adopción de un español será necesario el consentimiento de la entidad pública correspondiente a la última residencia del adoptando en España.
-
-No será reconocida en España como adopción la constituida en el extranjero por adoptante español, si los efectos de aquélla no se corresponden con los previstos por la legislación española. Tampoco lo será, mientras la entidad pública competente no haya declarado la idoneidad del adoptante, si éste fuera español y estuviera domiciliado en España al tiempo de la adopción.
-
-La atribución por la ley extranjera de un derecho de revocación de la adopción no impedirá el reconocimiento de ésta si se renuncia a tal derecho en documento público o por comparecencia ante el encargado del Registro Civil.
+5. La adopción internacional se regirá por las normas contenidas en la Ley de Adopción Internacional. Igualmente, las adopciones constituidas por autoridades extranjeras surtirán efectos en España con arreglo a las disposiciones de la citada Ley de Adopción Internacional.
 
 6. La tutela y las demás instituciones de protección del incapaz se regularán por la ley nacional de éste. Sin embargo, las medidas provisionales o urgentes de protección se regirán por la ley de su residencia habitual.
 
@@ -41,6 +35,8 @@ Prevalecerá en todo caso la nacionalidad española del que ostente además otra
 11. La ley personal correspondiente a las personas jurídicas es la determinada por su nacionalidad, y regirá en todo lo relativo a capacidad, constitución, representación, funcionamiento, transformación, disolución y extinción.
 
 En la fusión de sociedades de distinta nacionalidad se tendrán en cuenta las respectivas leyes personales.
+
+> Se modifica el apartado 5 por la disposición final 1.1 de la Ley 54/2007, de 28 de diciembre. Ref. BOE-A-2007-22438.
 
 > Se modifica el segundo párrafo del apartado 2 por el art. 3.2 de la Ley Orgánica 11/2003, de 29 de septiembre. Ref. BOE-A-2003-18088.
 
