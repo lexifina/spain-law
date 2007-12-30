@@ -1,0 +1,3 @@
+## Disposición adicional duodécima. Exhibición cinematográfica y acceso a la diversidad de la producción.
+
+El Gobierno reconocerá la contribución del sector de la exhibición al acceso de los ciudadanos a la diversidad de la producción cinematográfica a través del cumplimiento de la cuota de pantalla para películas originadas en los Estados miembros de la Unión Europea, mediante el desarrollo reglamentario de las ayudas previstas en el artículo 29 de esta Ley, con una especial incidencia sobre aquellas destinadas a la modernización tecnológica de las salas y el apoyo a las radicadas en pequeños núcleos urbanos o rurales, así como a la adaptación de las salas a las condiciones de accesibilidad para las personas con discapacidad.

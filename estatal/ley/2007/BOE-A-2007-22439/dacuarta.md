@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Consultas sobre incentivos fiscales.
+
+El plazo de contestación a las consultas formuladas a la Administración tributaria durante los seis meses siguientes a la entrada en vigor de esta Ley, sobre la aplicación de la bonificación por actividades exportadoras y la deducción por producciones cinematográficas y audiovisuales reguladas en los artículos 34.1 y 38.2 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto legislativo 4/2004, de 5 de marzo, en el supuesto de que la creación cinematográfica o audiovisual se realice por una agrupación de interés económico, se reducirá a la mitad.
