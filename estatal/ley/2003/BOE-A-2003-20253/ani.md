@@ -82,6 +82,8 @@ Asimismo, dará derecho a la exacción de las correspondientes tasas compensator
 
 La realización de pruebas o ensayos para comprobar el cumplimiento de especificaciones técnicas tendrá la consideración de precio público cuando aquéllas puedan efectuarse por el interesado, opcionalmente, en centros dependientes de la Administración de cualquier Estado miembro de la Unión Europea, de la Administración española o en centros privados o ajenos a aquéllas, cuando dichas pruebas sean solicitadas por el interesado voluntariamente sin que venga obligado a ello por la normativa en vigor.
 
+5. Estarán exentos del pago de la tasa de tramitación de autorizaciones de uso especial de dominio público radioeléctrico aquellos solicitantes de dichas autorizaciones que cumplan 65 años en el año en que efectúen la solicitud, o que los hayan cumplido con anterioridad, así como los beneficiarios de una pensión pública o que tengan reconocido un grado de minusvalía igual o superior al 33 por 100.
+
 5. Fines de las tasas, su gestión y recaudación en período voluntario, por la Comisión del Mercado de las Telecomunicaciones, por la Agencia Estatal de Radiocomunicaciones y por el Ministerio de Ciencia y Tecnología.
 
 1. A los efectos de lo dispuesto en el apartado 5 del artículo 49, la Comisión del Mercado de las Telecomunicaciones y la Agencia Estatal de Radiocomunicaciones deberán presentar, en los términos que se establezcan reglamentariamente, una cuenta anual de los ingresos generados por las tasas que recaudan, al amparo de la competencia de gestión recaudatoria que les otorgan los párrafos siguientes de este apartado. La diferencia, en su caso, entre los ingresos obtenidos por la tasa general de operadores y los gastos ocasionados por el ejercicio de sus actividades será ingresado por la Comisión del Mercado de las Telecomunicaciones en la Agencia Estatal de Radiocomunicaciones, de conformidad con lo dispuesto en el apartado 1 del anexo I de esta ley.
@@ -91,5 +93,7 @@ La realización de pruebas o ensayos para comprobar el cumplimiento de especific
 La Agencia Estatal de Radiocomunicaciones gestionará en período voluntario la tasa que regula en el apartado 3, y gestionará y recaudará en período voluntario las tasas previstas en el apartado 4 cuando se recauden por la prestación de servicios que tenga encomendados la Agencia, de acuerdo con lo previsto en esta ley.
 
 3. En los supuestos no incluidos en el párrafo anterior, corresponderá la gestión en período voluntario de estas tasas al órgano competente del Ministerio de Ciencia y Tecnología.
+
+> Se modifica el apartado 3.7 y se añade el punto 5 al apartado 4 por el art. 7.4 y 5 de la Ley 56/2007, de 28 de diciembre. Ref. BOE-A-2007-22440.
 
 > Se modifica el apartado 3.3 y 5 por el art. 11.1 y 2 de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831.

@@ -1,0 +1,5 @@
+## Disposición adicional primera. Utilización de caracteres de las lenguas oficiales de España en el «.es».
+
+La autoridad de asignación de los nombres de dominio de Internet bajo el código de país correspondiente a España («.es») adoptará las medidas que sean necesarias para asegurar que puedan asignarse nombres de dominio que contengan caracteres propios de las lenguas oficiales de España distintos de los incluidos en el alfabeto inglés en un plazo máximo de 3 meses desde la entrada en vigor de esta Ley.
+
+Con carácter previo a que los mecanismos de reconocimiento de caracteres multilingües estén disponibles para la asignación de nombres de dominio bajo el código de país «.es», la autoridad de asignación dará publicidad a la posibilidad de solicitar nombres de dominio que contengan dichos caracteres y establecerá con antelación suficiente un registro escalonado para los mismos. En este registro escalonado se dará preferencia a las solicitudes de nombres de dominio con caracteres multilingües que resulten equivalentes a nombres de dominio bajo el código de país «.es» previamente asignados, en los términos que determine la autoridad de asignación.
