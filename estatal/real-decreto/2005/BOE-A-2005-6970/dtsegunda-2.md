@@ -1,6 +1,6 @@
 ## Disposición transitoria segunda. Régimen transitorio aplicable al servicio universal.
 
-1. De conformidad con la habilitación reglamentaria establecido en la disposición transitoria segunda de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, se establece la obligación de Telefónica de España, S. A. U., de prestar el servicio universal hasta el 31 de diciembre del año 2007.
+1. De conformidad con la habilitación reglamentaria establecida en la disposición transitoria segunda de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, se establece la obligación de Telefónica de España, S. A. U., de prestar el servicio universal hasta el 31 de diciembre del año 2008.
 
 Con una antelación de al menos dos años sobre la fecha establecida en el párrafo anterior, el Ministerio de Industria, Turismo y Comercio deberá haber concluido la consulta pública inicial a que se refiere el artículo 37 de este reglamento.
 
@@ -15,3 +15,5 @@ Asimismo, hasta dicha fecha se entenderán incluidos en la consideración de tel
 3. Hasta que se apruebe la orden ministerial a que se refiere el artículo 34 de este reglamento, continuarán siendo de aplicación en la prestación del servicio universal las condiciones de calidad de servicio fijadas en la Orden del Ministro de Fomento, de 14 de octubre de 1999, y en la Orden del Ministro de Ciencia y Tecnología, de 21 de diciembre de 2001.
 
 4. Hasta que, de conformidad con lo establecido en el artículo 35.2 de este reglamento, la Comisión Delegada del Gobierno para Asuntos Económicos determine el indicador de referencia para tener la condición de beneficiario del abono social, continuará siendo de aplicación el indicador vigente antes de la aprobación de este reglamento.
+
+> Se modifica el párrafo primero del apartado 1 por el artículo único del Real Decreto 1768/2007, de 28 de diciembre. Ref. BOE-A-2007-22457
