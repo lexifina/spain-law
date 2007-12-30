@@ -1,9 +1,9 @@
 ## Disposición transitoria segunda. Incremento de existencias estratégicas.
 
-Lo dispuesto en el artículo 14 será de aplicación a partir del 1 de enero de 2007. El Ministro de Industria, Turismo y Comercio determinará mediante orden el calendario de adaptación de la situación actual a lo dispuesto en el artículo 14 siguiendo los siguientes criterios:
+1. Lo dispuesto en los apartados 1 y 2 del artículo 14 será de aplicación a partir del 31 de diciembre de 2010.
 
-a) El proceso debe ser progresivo y de carácter anual con entrada en vigor el 1 de enero de los años 2005, 2006 y 2007.
+2. Los aumentos de reservas constituidas por cuenta de los sujetos obligados que efectúe la Corporación de Reservas Estratégicas de Productos Petrolíferos desde la entrada en vigor de la presente disposición hasta que se alcance la capacidad suficiente para dar cumplimiento a lo dispuesto en el artículo 14, serán asignados entre los sujetos que lo soliciten de acuerdo con los criterios establecidos en los apartados 4 y 6 del citado artículo.
 
-b) Las compras de existencias necesarias para cubrir las nuevas necesidades deberán realizarse en condiciones de mercado, preferentemente a los sujetos obligados en la proporción que corresponda a sus obligaciones.
+El Ministro de Industria, Turismo y Comercio podrá modificar lo establecido en la presente disposición en función de la evolución del mercado y de la disponibilidad de infraestructuras.
 
-c) No obstante lo anterior, tendrán prioridad, en cualquier caso, las ofertas de venta que conlleven servicios de almacenamiento en condiciones de mercado, con contratos a largo plazo.
+> Se modifica por el art. 3.8 del Real Decreto 1766/2007, de 28 de diciembre. Ref. BOE-A-2007-22455
