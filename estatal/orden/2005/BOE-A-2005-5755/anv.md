@@ -2,25 +2,30 @@
 
 ## Clasificación de estaciones
 
-| Categoría 1. | Madrid-Puerta de Atocha. |
+| Categoría1. | Madrid-Puerta de Atocha. |
 | --- | --- |
+|  | Madrid-Chamartín A.V. |
 |  | Barcelona-Sants. |
+|  | Camp de Tarragona. |
 |  | Córdoba. |
 |  | Lleida. |
+|  | Málaga-María Zambrano A.V. |
 |  | Sevilla-Santa Justa. |
+|  | Valladolid-Campo Grande A.V. |
 |  | Zaragoza-Delicias. |
 | Categoría 2. | A Coruña. |
 |  | Alacant. |
 |  | Albacete. |
-|  | Alcazar de San Juan. |
+|  | Alcázar de San Juan. |
 |  | Algeciras. |
 |  | Almería. |
+|  | Antequera-Santa Ana. |
 |  | Ávila. |
 |  | Badajoz. |
 |  | Barcelona-Estación de França. |
 |  | Barcelona-Passeig de Gracia. |
 |  | Benicarló-Peñíscola. |
-|  | Bilbao-Abando. |
+|  | Bilbao-Abando Indalecio Prieto. |
 |  | Bobadilla. |
 |  | Burgos. |
 |  | Cáceres. |
@@ -38,13 +43,13 @@
 |  | Gijón-Jovellanos. |
 |  | Girona. |
 |  | Granada. |
-|  | Guadalajara Yebes. |
+|  | Guadalajara-Yebes. |
 |  | Huelva-Término. |
 |  | Huesca. |
 |  | Irún. |
 |  | Jaén. |
 |  | Jerez de la Frontera. |
-|  | L´Aldea-Amposta. |
+|  | L'Aldea-Amposta. |
 |  | Lebrija. |
 |  | León. |
 |  | Linares-Baeza. |
@@ -52,7 +57,8 @@
 |  | Lorca-Sutullena. |
 |  | Lugo. |
 |  | Llança. |
-|  | Málaga. |
+|  | Málaga-María Zambrano. |
+|  | Madrid-Atocha. |
 |  | Madrid-Chamartín. |
 |  | Medina del Campo. |
 |  | Mérida. |
@@ -66,6 +72,7 @@
 |  | Ponferrada. |
 |  | Pontevedra. |
 |  | Portbou. |
+|  | Puente Genil. |
 |  | Puertollano. |
 |  | Reus. |
 |  | Ripoll. |
@@ -76,12 +83,13 @@
 |  | Santander. |
 |  | Santiago de Compostela. |
 |  | Segovia. |
+|  | Segovia-Guiomar. |
 |  | Sils. |
 |  | Soria. |
 |  | Tarragona. |
 |  | Teruel. |
 |  | Toledo. |
-|  | Torelló. |
+|  | Torello. |
 |  | Torredembarra. |
 |  | Tortosa. |
 |  | Tudela de Navarra. |
@@ -89,9 +97,11 @@
 |  | Valencia-Estación del Nord. |
 |  | Valladolid-Campo Grande. |
 |  | Vigo. |
-|  | Villagarcía de Arousa. |
+|  | Villagarcia de Arousa. |
 |  | Villena. |
 |  | Vinarós. |
 |  | Vitoria/Gasteiz. |
 |  | Zamora. |
-| Categoría 3. | Estaciones no incluidas en las categorías 1 y 2. |
+| Categoría 3. | Estaciones no incluidas en la categoría 1 y 2. |
+
+> Se modifica por el art. único.2 de la Orden FOM/3852/2007, de 20 de diciembre. Ref. BOE-A-2007-22444.
