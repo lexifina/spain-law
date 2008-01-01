@@ -8,7 +8,7 @@ Equipos Nacionales de Recaudación.
 
 En caso de vacante, ausencia o enfermedad, el titular de la Dependencia designará a los sustitutos de sus Adjuntos y de los Inspectores Coordinadores
 
-2. Funciones y competencias.–La Dependencia de Asistencia y Servicios Tributarios tendrá atribuidas, respecto a los obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes, las funciones de aplicación de los tributos cuya competencia corresponde a la Agencia Tributaria, a través de las actuaciones y procedimientos de gestión tributaria y de recaudación, con excepción de los procedimientos de comprobación de valores y de comprobación limitada.
+2. Funciones y competencias. La Dependencia de Asistencia y Servicios Tributarios tendrá atribuidas, respecto a los obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes, las funciones de aplicación de los tributos cuya competencia corresponde a la Agencia Tributaria, a través de las actuaciones y procedimientos de gestión tributaria y de recaudación, con excepción de los procedimientos de comprobación de valores y de comprobación limitada. Asimismo le corresponderá el inicio, la tramitación y la resolución de los procedimientos sancionadores que se deriven de aquellas actuaciones y procedimientos.
 
 En relación con las personas físicas y entidades no residentes en territorio español que obtengan rendimientos en España sin mediación de establecimiento permanente y no estén adscritas a la Delegación Central, esta Dependencia realizará las funciones de gestión tributaria indicadas en el párrafo anterior cuando el representante, el pagador de los rendimientos o el depositario o gestor de los bienes o derechos del no residente esté adscrito a la Delegación Central, todo ello de acuerdo con lo dispuesto en la normativa que regula la gestión de dichos no residentes.
 
@@ -32,19 +32,21 @@ e) Dictar los siguientes actos y acuerdos:
 
 2.º Las resoluciones de imposición de sanciones cuya instrucción hayan realizado las unidades y equipos de la Dependencia.
 
-3.º Las resoluciones de los acuerdos de devolución de ingresos indebidos para los que sean competentes.
+3.º Las resoluciones de los acuerdos de rectificación de autoliquidaciones y de devolución de ingresos indebidos para los que sean competentes.
 
-4.º La providencia de apremio de las deudas, ordenando a tal efecto la ejecución de los procesos informáticos que correspondan.
+4.º La resolución de los demás procedimientos de gestión tributaria sobre los que la Dependencia resulte competente.
 
-5.º El inicio del procedimiento de deducción sobre transferencias respecto de entidades de derecho público.
+5.º La providencia de apremio de las deudas, ordenando a tal efecto la ejecución de los procesos informáticos que correspondan.
 
-6.º La prescripción del derecho a exigir el pago de las deudas liquidadas y autoliquidadas, del derecho a solicitar las devoluciones de ingresos indebidos en los supuestos recogidos en el artículo 221.1 de la Ley General Tributaria y del derecho a solicitar el reembolso del coste de las garantías.
+6.º El inicio del procedimiento de deducción sobre transferencias respecto de entidades de derecho público.
 
-7.º La declaración de créditos incobrables y su rehabilitación cuando fuese procedente.
+7.º La prescripción del derecho a exigir el pago de las deudas liquidadas y autoliquidadas, del derecho a solicitar las devoluciones de ingresos indebidos en los supuestos recogidos en el artículo 221.1 de la Ley General Tributaria y del derecho a solicitar el reembolso del coste de las garantías.
 
-8.º La declaración de la responsabilidad solidaria y subsidiaria cuando la liquidación de la que derive haya sido dictada por la Dependencia o la competencia corresponda a los órganos de recaudación conforme a lo dispuesto en el artículo 174.2 de la Ley General Tributaria.
+8.º La declaración de créditos incobrables y su rehabilitación cuando fuese procedente.
 
-9.º Todos los que corresponden a los Jefes de los Equipos Nacionales de Recaudación cuando se emitan de forma masiva mediante los correspondientes sistemas informáticos o telemáticos.
+9.º La declaración de la responsabilidad solidaria y subsidiaria cuando la liquidación de la que derive haya sido dictada por la Dependencia o la competencia corresponda a los órganos de recaudación conforme a lo dispuesto en el artículo 174.2 de la Ley General Tributaria.
+
+10.º Todos los que corresponden a los Jefes de los Equipos Nacionales de Recaudación cuando se emitan de forma masiva mediante los correspondientes sistemas informáticos o telemáticos.
 
 f) En materia de embargos:
 
@@ -96,19 +98,21 @@ b) Acordar el reembolso del coste de las garantías aportadas a la Administraci�
 
 Los Adjuntos y los Inspectores Coordinadores asistirán al titular de la Dependencia en el ejercicio de sus funciones y podrán ejercer las funciones y competencias relacionadas en este número con respecto a los obligados tributarios que aquél les asigne.
 
-3. Unidades de Gestión.–Las actuaciones y procedimientos de gestión tributaria atribuidos a la Dependencia de Asistencia y Servicios Tributarios serán desarrollados, con carácter general, por las Unidades de Gestión.
+3. Unidades de Gestión. Las actuaciones y procedimientos de gestión tributaria atribuidos a la Dependencia de Asistencia y Servicios Tributarios serán desarrollados, con carácter general, por las Unidades de Gestión.
 
 Las Unidades de Gestión, dirigidas por Jefes de Unidad, estarán integradas por los funcionarios que en cada momento se determinen por el titular de la Dependencia o sus Adjuntos.
 
-Los Jefes de estas Unidades podrán ejercer las funciones y competencias de gestión tributaria relacionadas en el número 2 de este apartado respecto a los obligados tributarios que el titular de la Dependencia les asigne. Asimismo, ejercerán las siguientes funciones y competencias:
+Los Jefes de estas Unidades podrán ejercer las funciones y competencias de gestión tributaria y de ejercicio de la potestad sancionadora relacionadas en el número 2 de este apartado respecto a los obligados tributarios que el titular de la Dependencia les asigne. Asimismo, ejercerán las siguientes funciones y competencias:
 
-a) Formular las propuestas de actos administrativos que deban ser dictados por el titular de la Dependencia o sus Adjuntos en materia de gestión tributaria, salvo que estén expresamente atribuidas a un órgano distinto, y elaborar las propuestas de resolución que el titular de la Dependencia deba elevar al titular de la Delegación Central.
+a) La tramitación y formulación de las propuestas de resolución de los actos administrativos que deban ser dictados por el titular de la Dependencia o sus Adjuntos en materia de gestión tributaria, salvo que estén expresamente atribuidas a un órgano distinto, y elaborar las propuestas de resolución que el titular de la Dependencia deba elevar al titular de la Delegación Central.
 
 b) Dirigir las campañas de información y asistencia tributaria que se lleven a cabo, así como las plataformas telefónicas de información y asistencia tributaria que se establezcan.
 
 c) Instruir y, en su caso, formular las propuestas de resolución de los recursos y reclamaciones que se presenten contra cualquier acto de los procedimientos de gestión tributaria dictado por la Jefatura de la Dependencia, así como de los demás recursos y reclamaciones formulados en materia tributaria cuya resolución no corresponda a otros órganos o unidades administrativas.
 
 d) Formular los requerimientos de información o de otra naturaleza en los procedimientos de gestión tributaria competencia de la Dependencia.
+
+e) La formación y mantenimiento de los censos tributarios de la Delegación Central así como la asignación y revocación del Número de Identificación Fiscal de los obligados tributarios adscritos a la misma.
 
 En los casos de vacante, ausencia o enfermedad de los Jefes de Unidad, su sustitución será ejercida por otros Jefes de Unidad o por los Inspectores que designe el titular de la Dependencia.
 
@@ -175,6 +179,8 @@ i) Formular los requerimientos de información o de otra naturaleza en los proce
 Los Inspectores integrados en los Equipos Nacionales de Recaudación podrán ejercer las competencias relacionadas en este número con respecto a los obligados tributarios que el Jefe del Equipo les asigne.
 
 En los casos de vacante, ausencia o enfermedad de los Jefes de Equipo, su sustitución será ejercida por otros Jefes de Equipo o por los Inspectores que designe el titular de la Dependencia.
+
+> Se modifican los puntos 2 y 3 por el art. único.12 a 14 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22253.
 
 > Se modifica el punto 2, párrafo primero por la disposición final 1.7 de la Resolución de 3 de julio de 2006. Ref. BOE-A-2006-12150.
 

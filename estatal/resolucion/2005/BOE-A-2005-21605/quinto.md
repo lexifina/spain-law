@@ -18,15 +18,11 @@ f) Formular las propuestas de resoluciones o autorizaciones cuya tramitación co
 
 a) Autorizar las siguientes actuaciones:
 
-1.º Los requerimientos individualizados de información relativos a los movimientos de cuentas corrientes, depósitos de ahorro y a plazo, cuentas de préstamos y créditos y demás operaciones activas y pasivas, incluidas las que se reflejen en cuentas transitorias o se materialicen en la emisión de cheques u otras órdenes de pago, de los bancos, cajas de ahorro, cooperativas de crédito y cuantas entidades se dediquen al tráfico bancario o crediticio, en el ejercicio de las funciones de inspección o recaudación.
+1.º El ejercicio de acciones civiles frente a obligados al pago que hayan impedido o dificultado el cobro de sus deudas y, en general, contra cualquier persona o entidad, en defensa del crédito público cuya recaudación se efectúe por órganos de la Delegación Central. En concreto, serán competentes para autorizar la interposición de las acciones legales a las que se refiere el artículo 64 del Reglamento General de Recaudación.
 
-2.º La entrada de los funcionarios que desarrollen funciones de inspección y recaudación de los tributos en las fincas, locales de negocio y demás establecimientos o lugares en que se desarrollen actividades o explotaciones sometidas a gravamen, existan bienes sujetos a tributación, se produzcan hechos imponibles o supuestos de hecho de las obligaciones tributarias o exista alguna prueba de los mismos, en los supuestos en los que reglamentariamente se requiera esta autorización.
+2.º La subrogación a que se refiere el artículo 77.2 del Reglamento General de Recaudación.
 
-3.º El ejercicio de acciones civiles frente a obligados al pago que hayan impedido o dificultado el cobro de sus deudas y, en general, contra cualquier persona o entidad, en defensa del crédito público cuya recaudación se efectúe por órganos de la Delegación Central. En concreto, serán competentes para autorizar la interposición de las acciones legales a las que se refiere el artículo 64 del Reglamento General de Recaudación.
-
-4.º La subrogación a que se refiere el artículo 77.2 del Reglamento General de Recaudación.
-
-5.º La solicitud de la declaración de heredero a que se refiere el artículo 127.3 del Reglamento General de Recaudación.
+3.º La solicitud de la declaración de heredero a que se refiere el artículo 127.3 del Reglamento General de Recaudación.
 
 b) Dictar los siguientes acuerdos:
 
@@ -34,7 +30,7 @@ b) Dictar los siguientes acuerdos:
 
 2.º Baja provisional en el índice de entidades regulado en la Ley del Impuesto sobre Sociedades, así como rehabilitación de la inscripción en dicho índice.
 
-3.º Resolución de los procedimientos relativos a planes de amortización, de reparaciones extraordinarias, de gastos de abandono de las explotaciones económicas de carácter temporal y especiales de reinversión.
+3.º Resolución de los procedimientos relativos a planes de amortización, gastos correspondientes a actuaciones medioambientales, inversiones y gastos de las comunidades titulares de montes vecinales en mano común y especiales de reinversión.
 
 4.º Resolución del procedimiento para acogerse al sistema de cuenta corriente tributaria.
 
@@ -118,9 +114,13 @@ j) Acordar la ejecución subsidiaria de las resoluciones o requerimientos efectu
 
 k) Proponer al titular del Departamento de Recaudación la autorización del ejercicio de acciones penales en defensa de los derechos de la Hacienda Pública, cuando la gestión recaudatoria de las deudas que se haya visto perjudicada corresponda a la Delegación Central de Grandes Contribuyentes.
 
-l) Acordar la remisión del expediente a la jurisdicción competente o al Ministerio Fiscal cuando aprecie la posible existencia de delito contra la Hacienda Pública u otro delito no perseguible únicamente a instancia de la persona agraviada.
+l) Acordar la remisión del expediente a la jurisdicción competente o al Ministerio Fiscal cuando aprecie la posible existencia de delito contra la Hacienda Pública u otro delito no perseguible únicamente a instancia de la persona agraviada, excepto en los casos previstos en la Orden por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias.
 
-m) Ejercer cualesquiera otras competencias y funciones que le atribuya la normativa legal, reglamentaria y demás disposiciones que sean de aplicación.
+m) Dar traslado de las actuaciones al Servicio Jurídico de la Agencia Tributaria en los casos de inobservancia de la obligación de prestar al personal integrado en la Delegación Central el apoyo, concurso, auxilio y protección que le sea necesario para el ejercicio de sus funciones, por las autoridades, titulares de los órganos del Estado, de las Comunidades Autónomas y Entidades Locales y, en general, por quienes ejerzan funciones públicas.
+
+n) La designación del perito tercero en tasaciones periciales contradictorias promovidas frente a las actuaciones de comprobación de valor desarrolladas por los órganos integrados en la Delegación Central.
+
+ñ) Ejercer cualesquiera otras competencias y funciones que le atribuya la normativa legal, reglamentaria y demás disposiciones que sean de aplicación.
 
 3. De conformidad con la Orden de 2 de junio de 1994, por la que se desarrolla la estructura de la Agencia Estatal de Administración Tributaria, el titular de la Delegación Central de Grandes Contribuyentes forma parte del Comité de Coordinación de la Dirección Territorial de la Agencia.
 
@@ -145,6 +145,8 @@ c) Dependencia de Gestión de Medios y Recursos: Adjuntos al titular de la Depen
 En ausencia de los anteriores, el titular de la Delegación Central acordará la sustitución que proceda en cada caso.
 
 7. El titular de la Delegación Central de Grandes Contribuyentes y sus Adjuntos serán nombrados y cesados por la Presidencia de la Agencia Tributaria a propuesta de la Dirección General, de conformidad con lo establecido en el artículo 103.Tres.2 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991. Su nombramiento y cese se publicarán en el «Boletín Oficial del Estado».
+
+> Se modifica el punto 2 por el art. único.4 a 7 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22253.
 
 > Se modifica el punto 2.h) por la disposición final 1.4 de la Resolución de 3 de julio de 2006. Ref. BOE-A-2006-12150.
 

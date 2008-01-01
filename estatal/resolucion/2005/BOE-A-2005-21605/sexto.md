@@ -14,13 +14,27 @@ Equipos de Apoyo Informático.
 
 En caso de vacante, ausencia o enfermedad, el titular de la Dependencia designará a los sustitutos de sus Adjuntos, de los Inspectores Jefes y de los Jefes de las Unidades de Control y Selección y sus Adjuntos.
 
-2. Funciones y competencias.-La Dependencia de Control Tributario y Aduanero tendrá atribuidas, respecto a los obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes, las funciones de aplicación de los tributos que integran el sistema tributario estatal y el aduanero cuya competencia corresponde a la Agencia Tributaria, a través de las actuaciones y procedimiento de inspección, así como de los procedimientos de verificación de datos, comprobación de valores, comprobación limitada y demás actuaciones de comprobación establecidas por la normativa vigente, teniendo la consideración de órgano con atribuciones propias de la inspección de los tributos.
+2. Funciones y competencias. La Dependencia de Control Tributario y Aduanero tendrá atribuidas, respecto a los obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes, las funciones de aplicación de los tributos que integran el sistema tributario estatal y el aduanero cuya competencia corresponde a la Agencia Tributaria, a través de las actuaciones y procedimientos de inspección, así como de los procedimientos de verificación de datos, comprobación de valores, comprobación limitada y demás actuaciones de comprobación establecidas por la normativa vigente, teniendo la consideración de órgano con atribuciones propias de la inspección de los tributos.
 
 Como excepción, los procedimientos de verificación de datos, comprobación de valores, comprobación limitada y demás actuaciones de comprobación en el ámbito de la gestión aduanera, de la gestión e intervención de los Impuestos Especiales y de la gestión del Impuesto sobre Ventas Minoristas de Determinados Hidrocarburos respecto a dichos obligados se realizarán por los órganos territoriales de la Agencia Tributaria.
 
-También le corresponde el inicio, la tramitación y la resolución de los procedimientos sancionadores que se deriven de las actuaciones y procedimientos indicados en el primer párrafo de este número.
+También le corresponde el inicio, la tramitación y la resolución de los procedimientos sancionadores que se deriven de las actuaciones y procedimientos indicados en el primer párrafo de este número. Asimismo le corresponde el inicio, tramitación y resolución de los procedimientos de declaración de responsabilidad cuando ésta tenga lugar antes de la finalización del período voluntario de pago y derive de liquidaciones dictadas por esta Dependencia.
 
-3. Equipos Nacionales de Inspección.–Las actuaciones de comprobación e investigación atribuidas a la Dependencia de Control Tributario y Aduanero serán desarrolladas por Equipos Nacionales de Inspección, sin perjuicio de la realización por dichos Equipos de las demás actuaciones inspectoras establecidas en la normativa vigente. Asimismo, les corresponderá la instrucción de los procedimientos sancionadores que se deriven de las actuaciones y procedimientos indicados en el número 2 de este apartado.
+Corresponde a los Inspectores Jefes el ejercicio de las siguientes funciones y competencias:
+
+a) Ordenar el inicio de las actuaciones de comprobación e investigación, así como su alcance y extensión.
+
+b) Acordar la modificación de la extensión de estas actuaciones y la ampliación o reducción de su alcance, así como la asignación de las mismas a un equipo distinto de aquel al que inicialmente se asignaron.
+
+c) Dictar las liquidaciones por las que se regularice la situación tributaria del obligado, así como los demás acuerdos que pongan término al procedimiento de inspección o a otros procedimientos que sean de la competencia de la Dependencia de Control Tributario y Aduanero.
+
+d) Realizar los requerimientos individualizados de obtención de información, excepto en aquellos casos en que la normativa vigente atribuya dicha competencia a otros órganos.
+
+e) Autorizar el inicio de los expedientes sancionadores en aquellos casos en los que la normativa reglamentaria exija dicha autorización, y dictar los actos de imposición de sanción.
+
+f) Cualesquiera otras funciones y competencias que les atribuyan la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
+
+3. Equipos Nacionales de Inspección. Las actuaciones de comprobación e investigación atribuidas a la Dependencia de Control Tributario y Aduanero serán desarrolladas por Equipos Nacionales de Inspección, sin perjuicio de la realización por dichos Equipos de las demás actuaciones inspectoras establecidas en la normativa vigente, así como el inicio y la instrucción de los procedimientos sancionadores que se deriven de las actuaciones y procedimientos indicados en el número 2 de este apartado y el inicio y tramitación de los procedimientos para declarar la responsabilidad cuando la competencia para declarar dicha responsabilidad corresponda al órgano competente para dictar la liquidación.
 
 Estos Equipos se definirán fundamentalmente por su adscripción total o preponderante a un sector económico, agrupándose funcionalmente los Equipos relacionados con uno o varios sectores económicos bajo la jefatura y coordinación de los Inspectores Jefes.
 
@@ -38,9 +52,9 @@ En los casos de vacante, ausencia o enfermedad de los Jefes de Equipo Coordinado
 
 Los integrantes de los Equipos Nacionales de Inspección podrán estar especializados en las diversas materias tributarias y aduaneras que se consideren necesarias y realizarán también aquellas otras actuaciones de informe o propuesta que se les encomienden.
 
-4. Oficina Técnica.–Corresponde a la Oficina Técnica el asesoramiento, la asistencia y el apoyo al titular de la Dependencia de Control Tributario y Aduanero y a sus Adjuntos en todas aquellas cuestiones relativas a competencias y funciones de la Dependencia. Además, le corresponde el análisis, estudio y propuesta de resolución de los expedientes administrativos que le sean encomendados por el titular de la Dependencia o sus Adjuntos.
+4. Oficina Técnica. Corresponde a la Oficina Técnica el asesoramiento, la asistencia y el apoyo al titular de la Dependencia de Control Tributario y Aduanero y a sus Adjuntos en todas aquellas cuestiones relativas a competencias y funciones de la Dependencia. Además, le corresponde el análisis, estudio y propuesta de resolución de los expedientes administrativos que le sean encomendados por el titular de la Dependencia o sus Adjuntos.
 
-La Oficina Técnica, bajo la dirección de su titular, con la asistencia, en su caso, de un Adjunto o Adjunta, estará integrada por los funcionarios que en cada momento se determinen por el titular de la Dependencia o sus Adjuntos.
+La Oficina Técnica, bajo la dirección de su titular, con la asistencia de uno o varios Adjuntos, estará integrada por los funcionarios que en cada momento se determinen por el titular de la Dependencia o sus Adjuntos.
 
 5. Unidad de Control Tributario y Aduanero.-Esta Unidad desarrollará preferentemente los procedimientos de verificación de datos, comprobación limitada y demás actuaciones de comprobación establecidas por la normativa vigente competencia de la Dependencia de Control Tributario y Aduanero, así como procedimientos de inspección de carácter parcial y los procedimientos sancionadores que se deriven de las actuaciones anteriores.
 
@@ -48,13 +62,15 @@ Asimismo, podrá tramitar los procedimientos de verificación de datos y de comp
 
 Además de practicar las liquidaciones que procedan en cada caso, corresponde a esta Unidad tramitar y, en su caso, resolver los expedientes de imposición de sanciones por infracciones tributarias, así como de intereses y recargos, en relación con los expedientes tramitados por la Unidad.
 
-La Unidad de Control Tributario y Aduanero, dirigida por su titular, con la asistencia de uno o varios Adjuntos, estará integrada por los funcionarios que en cada momento se determinen por el titular de la Dependencia o sus Adjuntos.
+La Unidad de Control Tributario y Aduanero, dirigida por su titular, con la asistencia de uno o varios Adjuntos, estará integrada por los funcionarios que en cada momento se determinen por el titular de la Dependencia o sus Adjuntos. Corresponderá a los inspectores integrados en esta Unidad, con excepción de su titular, la suscripción de las actas que proceda extender por la misma. Asimismo, podrán realizar la instrucción de los procedimientos sancionadores que se deriven de las actuaciones que se desarrollen por la Unidad.
 
 6. Unidad de Selección.–Corresponde a la Unidad de Selección la asistencia al titular de la Dependencia de Control Tributario y Aduanero en la confección de los planes de inspección de la Dependencia, en el control de su cumplimiento y en la realización de estudios y estadísticas de apoyo a la planificación. Asimismo, le corresponden todas aquellas funciones que sean necesarias para la adecuada planificación de las actuaciones inspectoras y selección de contribuyentes. Esta Unidad podrá desarrollar también las actuaciones inspectoras que le encomienden el titular de la Dependencia o sus Adjuntos.
 
 La Unidad de Selección, dirigida por su titular, estará integrada por los funcionarios que en cada momento se determinen por el titular de la Dependencia o sus Adjuntos.
 
 7. Equipos de Apoyo Informático.–Los Equipos de Apoyo Informático desarrollarán actuaciones conjuntas y de coordinación de trabajos informáticos con los Equipos Nacionales de Inspección, investigando y analizando la estructura de los sistemas informáticos y de las bases de datos y sus movimientos para el descubrimiento de datos ocultos. Estos Equipos, dirigidos por Jefes de Equipo, estarán integrados por los funcionarios que se les adscriban.
+
+> Se modifican los puntos 2, 3, 4 y 5 por el art. único.8 a 11 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22253.
 
 > Se modifican los puntos 2 y 5 por la disposición final 1.5 y 6 de la Resolución de 3 de julio de 2006. Ref. BOE-A-2006-12150.
 
