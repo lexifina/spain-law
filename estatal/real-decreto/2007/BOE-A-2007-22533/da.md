@@ -1,0 +1,3 @@
+## Disposición adicional primera. Valoración-revisión de incapacidad permanente.
+
+En los procedimientos de valoración-revisión de incapacidades permanentes del sistema de la Seguridad Social de trabajadores del Régimen Especial de la Seguridad Social de los Trabajadores del Mar, un médico de sanidad marítima, designado por el Instituto Social de la Marina, formará parte como miembro del equipo de valoración de incapacidades en aquellas provincias donde este organismo se halle implantado. En el resto de situaciones, la intervención de este facultativo consistirá en la emisión de un informe médico motivado.
