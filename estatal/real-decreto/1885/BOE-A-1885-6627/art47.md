@@ -1,25 +1,23 @@
 ## Art. 47.
 
-1. Cuando una sociedad incluida en la consolidación gestione conjuntamente con una o varias sociedades ajenas al grupo otra sociedad, ésta podrá incluirse en las cuentas consolidadas en proporción al porcentaje que de su capital social posea la sociedad incluida en la consolidación.
+1. Cuando una sociedad incluida en la consolidación gestione conjuntamente con una o varias sociedades ajenas al grupo otra sociedad, ésta podrá incluirse en las cuentas consolidadas aplicando el método de integración proporcional, es decir, en proporción al porcentaje que de su capital social posean las sociedades incluidas en la consolidación.
 
-2. Para efectuar esta consolidación proporcional se tendrán en cuenta, en la medida de lo posible, las reglas establecidas en el artículo anterior.
+2. Para efectuar esta consolidación proporcional se tendrán en cuenta, con las necesarias adaptaciones, las reglas establecidas en el artículo anterior.
 
-No obstante, la eliminación de los créditos y débitos recíprocos de los resultados generados por estas transacciones se limitará a las cantidades que resulten aplicando sobre los importes totales de los mismos idéntico porcentaje al que represente la participación que posea, directa o indirectamente, la sociedad dominante en el capital social de la sociedad dominada de manera conjunta.
+3. Cuando una sociedad incluida en la consolidación ejerza una influencia significativa en la gestión de otra sociedad no incluida en la consolidación, pero con la que esté asociada por tener una participación en ella que, creando con ésta una vinculación duradera, esté destinada a contribuir a la actividad de la sociedad, dicha participación deberá figurar en el balance consolidado como una partida independiente y bajo un epígrafe apropiado.
 
-3. Cuando una sociedad incluida en la consolidación ejerza una influencia notable en la gestión de otra sociedad no incluida en la consolidación, pero con la que esté asociada por tener una participación en ella en el sentido indicado en la Ley sobre Régimen Jurídico de las Sociedades Anónimas, dicha participación deberá figurar en el balance consolidado como una partida independiente y bajo un epígrafe apropiado.
+Se presumirá, salvo prueba en contrario, que existe una participación en el sentido expresado, cuando una o varias sociedades del grupo posean, al menos, el 20 por ciento de los derechos de voto de una sociedad que no pertenezca al grupo.
 
-4. A los efectos de lo dispuesto en el párrafo anterior, se tendrán en cuenta las reglas siguientes:
+4. Se incluirán en las cuentas consolidadas aplicando el procedimiento de puesta en equivalencia o método de la participación, todas las sociedades incluidas en el apartado 3, así como las sociedades del apartado 1 que no se consoliden a través del método de integración proporcional. La opción establecida para las sociedades del apartado 1, se ejercerá de manera uniforme respecto a todas las sociedades que se encuentren en dicha situación.
 
-a) El valor contable de la participación a que se refiere el número 3 de este artículo se calculará conforme a las normas de valoración de la Sección quinta del capítulo VII de la Ley sobre Régimen Jurídico de las Sociedades Anónimas. Dicho valor y el importe correspondiente al porcentaje de capital y reservas que represente tal participación se compensarán y la diferencia que resulte se pondrá de manifiesto por separado en el balance consolidado o en la memoria. Esta compensación se efectuará sobre la base de los valores contables existentes en la fecha en la que el método se aplique por primera vez.
+5. A los efectos de lo dispuesto en el apartado anterior, se tendrán en cuenta las reglas siguientes:
 
-b) A la diferencia que se pueda producir a consecuencia de la compensación indicada le serán de aplicación las reglas del artículo 46.
+a) Cuando se aplique por primera vez el procedimiento de puesta en equivalencia, el valor contable de la participación en las cuentas consolidadas será el importe correspondiente al porcentaje que represente dicha participación, en el momento de la inversión, sobre el valor razonable de los activos adquiridos y pasivos asumidos, incluidas, en su caso, las provisiones en los términos que reglamentariamente se determinen. Si la diferencia que resulta entre el coste de la participación y el valor a que se ha hecho referencia es positiva, se incluirá en el importe en libros de la inversión y se pondrá de manifiesto en la memoria, siéndole de aplicación lo dispuesto en el artículo 46. Si la diferencia es negativa deberá llevarse directamente a la cuenta de pérdidas y ganancias consolidada.
 
-c) Las variaciones experimentadas en el patrimonio neto de la sociedad asociada en el curso del ejercicio aumentarán o disminuirán, según los casos, el valor contable de dicha participación, en la proporción que corresponda.
+Reglamentariamente se regulará el tratamiento contable en el caso de adquisiciones de participaciones sucesivas.
 
-d) Se eliminarán, en la parte que resulte procedente, los resultados generados por transacciones entre la sociedad asociada y las demás comprendidas en las cuentas consolidadas.
+b) Las variaciones experimentadas en el ejercicio en curso, en el patrimonio neto de la sociedad incluida en las cuentas anuales consolidadas por el procedimiento de puesta en equivalencia, una vez eliminada la proporción procedente de los resultados generados en transacciones entre dicha sociedad y la sociedad que posee la participación, o cualquiera de las sociedades del grupo, que no estén realizados frente a terceros, aumentarán o disminuirán, según los casos, el valor contable de dicha participación en la proporción que corresponda, una vez consideradas las amortizaciones y deterioros producidos desde la fecha en la que el método se aplique por primera vez.
 
-e) Los resultados obtenidos en el ejercicio por la sociedad asociada, después de la eliminación a que se refiere la regla anterior, incrementarán o reducirán, según los casos, el valor contable de la participación en el balance consolidado. El incremento o la reducción indicados se limitará a la parte de los resultados atribuible a la referida participación. Dicha parte deberá figurar en la cuenta de pérdidas y ganancias consolidada con denominación adecuada.
+c) Los beneficios distribuidos por la sociedad incluida en las cuentas anuales consolidadas por el procedimiento de puesta en equivalencia, reducirán el valor contable de la participación en el balance consolidado.
 
-f) Los beneficios distribuidos por la sociedad asociada a las demás comprendidas en las cuentas consolidadas reducirán el valor contable de la participación en el balance consolidado.
-
-5. Podrá prescindirse de la aplicación de lo dispuesto en el presente artículo, cuando las participaciones en el capital de la sociedad asociada no tengan un interés significativo para la imagen fiel que deben expresar las cuentas consolidadas.
+> Se modifica por el art. 1.2 de la Ley 16/2007, de 4 de julio. Ref. BOE-A-2007-13023.

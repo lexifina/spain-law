@@ -1,56 +1,22 @@
 ## Art. 46.
 
-La consolidación de las cuentas anuales se realizará mediante la aplicación de las siguientes reglas:
+Los activos, pasivos, ingresos y gastos de las sociedades del grupo se incorporarán en las cuentas anuales consolidadas aplicando el método de integración global. En particular, se realizará mediante la aplicación de las siguientes reglas:
 
-1.ª Los valores contables de las participaciones en el capital de las sociedades dependientes que posea, directa o indirectamente, la sociedad dominante se compensarán con la parte proporcional que dichos valores representen en relación a los capitales y reservas de esas sociedades dependientes. Esta compensación se hará sobre la base de los valores contables que existan en la fecha en que la sociedad dependiente se incluya por primera vez en la consolidación.
+1.ª Los valores contables de las participaciones en el capital de las sociedades dependientes que posea, directa o indirectamente, la sociedad dominante se compensarán, en la fecha de adquisición, con la parte proporcional que dichos valores representen en relación con el valor razonable de los activos adquiridos y pasivos asumidos, incluidas, en su caso, las provisiones en los términos que reglamentariamente se determinen.
 
-2.ª La diferencia que se pueda producir a consecuencia de la compensación indicada se imputará directamente, en la medida de lo posible, a las partidas del balance consolidado que tengan un valor superior o inferior a su valor contable. Esta imputación a las partidas del balance consolidado se amortizará con idénticos criterios a los que se apliquen a las mismas.
+Reglamentariamente se regulará el tratamiento contable en el caso de adquisiciones sucesivas de participaciones.
 
-3.ª La diferencia que subsista después de la imputación señalada se inscribirá en el balance consolidado en una partida especial, con denominación adecuada, que será comentada en la memoria, así como las modificaciones que haya sufrido con respecto al ejercicio anterior en caso de ser importantes.
+2.ª La diferencia positiva que subsista después de la compensación señalada se inscribirá en el balance consolidado en una partida especial, con denominación adecuada, que será comentada en la memoria, así como las modificaciones que haya sufrido con respecto al ejercicio anterior en caso de ser importantes. Esta diferencia se tratará conforme a lo establecido para el fondo de comercio en el artículo 39.4 de este Código.
 
-Si la diferencia que corresponda a esta partida especial fuera positiva se amortizará conforme a lo establecido para el fondo de comercio en el artículo 106, a), en la Ley sobre Régimen Jurídico de las Sociedades Anónimas.
+Si la diferencia fuera negativa deberá llevarse directamente a la cuenta de pérdidas y ganancias consolidada.
 
-Si la diferencia fuera negativa únicamente podrá llevarse a la cuenta de pérdidas y ganancias consolidada en los casos siguientes:
+3.ª Los elementos del activo y del pasivo de las sociedades del grupo se incorporarán al balance consolidado, previa aplicación de lo establecido en el artículo 45 de este Código, con las mismas valoraciones con que figuran en los respectivos balances de dichas sociedades, excepto cuando sea de aplicación la regla 1.ª, en cuyo caso se incorporarán sobre la base del valor razonable de los activos adquiridos y pasivos asumidos, incluidas, en su caso, las provisiones en los términos que reglamentariamente se determinen, en la fecha de primera consolidación, una vez consideradas las amortizaciones y deterioros producidos desde dicha fecha.
 
-a) Cuando esté basada, con referencia a la fecha de adquisición de la correspondiente participación, en la evolución desfavorable de los resultados de la sociedad de que se trate o en la previsión razonable de gastos correspondientes a la misma y en la medida en que esa previsión se realice.
+4.ª Los ingresos y los gastos de las sociedades del grupo, se incorporarán a las cuentas anuales consolidadas, salvo en los casos en que aquéllos deban eliminarse conforme a lo previsto en la regla siguiente.
 
-b) Cuando corresponda a una plusvalía realizada.
+5.ª Deberán eliminarse generalmente los débitos y créditos entre sociedades comprendidas en la consolidación, los ingresos y los gastos relativos a las transacciones entre dichas sociedades, y los resultados generados a consecuencia de tales transacciones, que no estén realizados frente a terceros. Sin perjuicio de las eliminaciones indicadas, deberán ser objeto, en su caso, de los ajustes procedentes las transferencias de resultados entre sociedades incluidas en la consolidación.
 
-4.ª La participación que sobre el capital de la sociedad dominante posea esta misma o la sociedad dependiente se mantendrá en el balance consolidado en una partida con denominación adecuada.
-
-5.ª Los elementos del activo y del pasivo de la sociedad dependiente se incorporarán al balance consolidado con las mismas valoraciones con que figuren en el balance de dicha sociedad, excepto cuando sea de aplicación la regla 2.ª
-
-6.ª Los elementos del activo y del pasivo comprendidos en la consolidación deben ser valorados siguiendo métodos uniformes y de acuerdo con las reglas de la Sección quinta del capítulo VII de la Ley sobre Régimen Jurídico de las Sociedades Anónimas. La sociedad que formula las cuentas consolidadas debe aplicar los mismos métodos de valoración que los aplicados a sus propias cuentas anuales. Si algún elemento del activo y del pasivo comprendido en la consolidación ha sido valorado por alguna sociedad que forma parte de la misma, según métodos no uniformes al aplicado en la consolidación, tal elemento debe ser valorado de nuevo conforme a tal método, salvo que el resultado de la nueva valoración ofrezca un interés poco relevante a los efectos de alcanzar la imagen fiel del grupo. En casos excepcionales se admiten derogaciones a este principio que deberán recogerse y justificarse en la memoria.
-
-7.ª Los ingresos y los gastos de la cuenta de pérdidas y ganancias de la sociedad dependiente se incorporarán a la cuenta de pérdidas y ganancias consolidada, salvo en los casos en que aquéllos deban eliminarse conforme a lo previsto en la regla siguiente.
-
-8.ª Deberán eliminarse generalmente los débitos y créditos entre sociedades comprendidas en la consolidación, los ingresos y los gastos relativos a las transacciones entre dichas sociedades y los resultados generados a consecuencia de tales transacciones. Sin perjuicio de las eliminaciones indicadas, deberán ser objeto, en su caso, de los ajustes procedentes las transferencias de resultados entre sociedades incluidas en la consolidación.
-
-9.ª Uno. No obstante lo dispuesto en las reglas anteriores, se valorarán por su valor razonable los siguientes activos y pasivos:
-
-a) Activos financieros que formen parte de una cartera de negociación, o se califiquen como disponibles para la venta, o sean instrumentos financieros derivados.
-
-b) Pasivos financieros que formen parte de una cartera de negociación o sean instrumentos financieros derivados.
-
-Dos. En ningún caso se aplicará el valor razonable a:
-
-a) Los instrumentos financieros, distintos de los derivados, que van a ser mantenidos hasta su vencimiento.
-
-b) Los préstamos y partidas a cobrar originados por la sociedad a cambio de suministrar efectivo, bienes o servicios, no mantenidos con fines de negociación.
-
-c) Las participaciones en sociedades dependientes, en empresas asociadas y en sociedades multigrupo.
-
-d) Los instrumentos de capital emitidos por la sociedad.
-
-e) Los contratos en los que se prevé una contrapartida eventual en una adquisición de empresas, motivada por ajustes de la contraprestación por sucesos futuros.
-
-f) Otros instrumentos financieros que, por sus especiales características, se consideren contablemente elementos patrimoniales distintos a los demás instrumentos financieros.
-
-Tres. El valor razonable se calculará con referencia a un valor de mercado fiable. En aquellos instrumentos financieros para los que no pueda determinarse un valor de mercado fiable, se obtendrá mediante la aplicación de los modelos y técnicas de valoración en los términos que reglamentariamente se determinen, y si no fuese fiable se valorarán por su precio de adquisición.
-
-Cuatro. Como criterio general, las variaciones en el valor razonable se consignarán en la cuenta de pérdidas y ganancias.
-
-Cinco. Reglamentariamente se desarrollarán los conceptos contenidos en este artículo, así como los casos en que la variación de valor razonable se incluya directamente en los fondos propios, en una reserva por valor razonable.
+> Se modifica por el art. 1.2 de la Ley 16/2007, de 4 de julio. Ref. BOE-A-2007-13023.
 
 > Se añade la regla 9ª por el art. 106.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
 

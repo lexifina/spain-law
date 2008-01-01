@@ -1,7 +1,7 @@
 ## Disposición adicional decimocuarta. Régimen simplificado de la contabilidad.
 
-El régimen simplificado de la contabilidad consistirá en la posibilidad de formular las cuentas anuales en modelos específicos, así como de aplicar criterios de registro contable simplificado. En particular, respecto a las operaciones de arrendamiento financiero y del gasto por impuesto sobre sociedades, siempre que en la memoria de las cuentas anuales se incluya información suficiente.
+(Derogada)
 
-En los términos que reglamentariamente se apruebe, en cualquier caso, al amparo de la reducida dimensión económica de sus destinatarios, podrá ser aplicado por todas las entidades, cualquiera que sea su forma jurídica, que debiendo llevar contabilidad ajustada al Código de Comercio, o a las normas por las que se rigen, durante dos ejercicios consecutivos reúnan, a la fecha de cierre de cada uno de ellos, al menos dos de las circunstancias que se establezcan en relación con el total de las partidas del activo, el importe neto de la cifra anual de negocios y el número medio de trabajadores empleados.
+> Se deroga por la disposición derogatoria.1.b) de la Ley 16/2007, de 4 de julio. Ref. BOE-A-2007-13023
 
 > Se añade por el art. 105 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936

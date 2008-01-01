@@ -1,7 +1,11 @@
 ## Art. 45.
 
-1. La estructura de las cuentas consolidadas se regirá por lo dispuesto en la Ley sobre Régimen Jurídico de las Sociedades Anónimas, sin perjuicio de la aplicación de las disposiciones específicas y de las adaptaciones indispensables que proceda realizar teniendo en cuenta las características propias de estas cuentas o de las personas o entidades a que se refiere el artículo 42.7.
+1. Los elementos del activo, pasivo, ingresos y gastos comprendidos en la consolidación deben ser valorados siguiendo métodos uniformes y de acuerdo con los criterios incluidos en este Código y sus disposiciones de desarrollo.
 
-2. El balance consolidado comprenderá íntegramente los elementos del activo y del pasivo de las sociedades comprendidas en la consolidación. Indicará también de forma separada la parte correspondiente a los accionistas o socios externos al grupo, que figurará en una partida específica con denominación adecuada.
+2. Si algún elemento del activo, pasivo, ingresos y gastos comprendido en la consolidación ha sido valorado por alguna sociedad que forma parte de la misma, según métodos no uniformes al aplicado en la consolidación, dicho elemento debe ser valorado de nuevo conforme a tal método, salvo que el resultado de la nueva valoración ofrezca un interés poco relevante a los efectos de alcanzar la imagen fiel del grupo.
 
-3. La cuenta de pérdidas y ganancias consolidada comprenderá, también con la debida separación, los ingresos y los gastos del citado conjunto correspondientes al ejercicio y, por diferencia, el resultado del mismo con expresión, en su caso, de la parte correspondiente a los accionistas o socios externos al grupo, que figurará en una partida específica con denominación adecuada.
+3. La estructura y contenido de las cuentas anuales consolidadas se ajustará a los modelos aprobados reglamentariamente, en sintonía con lo dispuesto en el artículo 35 de este Código para las cuentas anuales individuales.
+
+4. En el balance consolidado se indicará en una partida específica del patrimonio neto, con denominación adecuada, la participación correspondiente a los socios externos o intereses minoritarios del grupo.
+
+> Se modifica por el art. 1.2 de la Ley 16/2007, de 4 de julio. Ref. BOE-A-2007-13023.
