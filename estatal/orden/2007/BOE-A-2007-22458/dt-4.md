@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Utilización de perfiles de consumo.
+
+Aquellos suministros que desde la entrada en vigor del Real Decreto 1110/2007, de 24 de agosto, por el que se aprueba el Reglamento unificado de puntos de medida del sistema eléctrico, han cambiado su clasificación de tipo de punto de medida pasando de ser puntos de medida tipo 4 a ser de puntos de medida tipo 3, y que no dispongan de registro horario de consumo, podrán utilizar perfiles de consumo para la liquidación de la energía hasta el momento en que sustituyan el equipo de medida para adaptarlo a lo establecido en el Real Decreto 1110/ 2007, de 24 de agosto.

@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Minoración de la retribución de la actividad de producción de energía eléctrica por los derechos de emisión de gases de efecto invernadero asignados gratuitamente.
+
+A los exclusivos efectos de la minoración de la retribución de la actividad de producción de energía eléctrica por los derechos de emisión de gases de efecto invernadero asignados gratuitamente a partir de 1 de enero de 2006, las instalaciones a las que hace referencia la Disposición adicional sexta del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial, se considerarán como instalaciones de producción en régimen especial.
