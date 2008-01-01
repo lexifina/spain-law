@@ -1,5 +1,7 @@
 ## Noveno.
 
-En los supuestos de vacante, ausencia o enfermedad de los Directores de Departamento sus funciones serán desempeñadas por los Subdirectores generales por el orden que se mencionan en los apartados anteriores, con excepción del Departamento de Recursos Humanos y Administración Económica en el que la sustitución corresponderá a los Directores adjuntos por el orden mencionado en el apartado octavo. Asimismo, la sustitución del Director del Departamento de Organización, Planificación y Relaciones Institucionales corresponderá a la Dirección Adjunta mencionada en el apartado sexto. La circunstancia de la sustitución se hará constar en los documentos que se suscriban.
+En los supuestos de vacante, ausencia o enfermedad de los Directores de los Departamentos sus funciones serán desempeñadas por los Directores Adjuntos, donde existan, y, en su defecto, por los Subdirectores Generales por el orden en el que se mencionan para cada Departamento en los apartados anteriores.
+
+> Se modifica por el art. único.3 de la Orden EHA/3650/2007, de 11 de julio. Ref. BOE-A-2007-21594.
 
 > Se modifica por la disposición única.5 de la Orden de 11 de julio de 1997. Ref. BOE-A-1997-15579.
