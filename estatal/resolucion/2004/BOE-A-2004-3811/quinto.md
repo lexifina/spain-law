@@ -1,18 +1,16 @@
 ## Quinto. Las Dependencias Regionales de Gestión Tributaria.
 
-1.° Funciones.–Sin perjuicio de las competencias atribuidas a otras Dependencias, en el ámbito territorial de la Delegación Especial en que tenga su sede y respecto de los tributos de su competencia, la Dependencia Regional de Gestión Tributaria tiene a su cargo la elaboración y desarrollo de los planes de actuación regional en materia de gestión, correspondiéndole las siguientes funciones, además de las que se establecen en los apartados siguientes para cada una de las áreas que la componen:
+1.° Funciones.-Corresponden a las Dependencias Regionales de Gestión Tributaria, respecto a los obligados tributarios con domicilio fiscal en el ámbito territorial de la respectiva Delegación Especial, las siguientes funciones y competencias que no se encuentren atribuidas a ningún otro órgano de Gestión Tributaria:
 
-a) La coordinación y supervisión de las funciones desarrolladas por los órganos de Gestión Tributaria de su ámbito territorial.
+a) La aplicación de los tributos a través de las actuaciones y procedimientos de gestión tributaria establecidos en la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
 
-b) La coordinación, seguimiento y control, del cumplimiento de los planes y programas establecidos por el Director General de la Agencia Tributaria, por el Director del Departamento de Gestión Tributaria o por el Delegado Especial.
+b) Las funciones propias de la Inspección de los Tributos respecto de los contribuyentes en régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y de los regímenes especiales simplificado, de la agricultura, ganadería y pesca, y del recargo de equivalencia del Impuesto sobre el Valor Añadido. Estas competencias se ejercerán a través de las Unidades de Módulos que podrán radicar en las sedes de las Delegaciones y de las Administraciones, para el control del cumplimiento de las obligaciones fiscales derivadas del ejercicio de actividades económicas sujetas a regímenes de estimación objetiva, tanto por parte de los contribuyentes a quienes se aplican como por parte de aquellos otros incluidos en su ámbito de aplicación y que renunciaron a ella.
 
-c) La propuesta al Delegado Especial de las medidas que aseguren el cumplimiento de los programas e instrucciones de aplicación general relativos a la gestión tributaria.
+c) La realización de las actuaciones de gestión tributaria previstas en la normativa específica del Impuesto sobre el Valor Añadido.
 
-d) La resolución de los procedimientos competencia de la Dependencia Regional de Gestión Tributaria.
+d) El reconocimiento previo de la no sujeción y la exención en los supuestos previstos en la normativa reguladora del Impuesto Especial de Determinados Medios de Transporte.
 
-e) Cualquier otra función atribuida normativamente a los órganos territoriales de Gestión Tributaria.
-
-Estas funciones se extenderán a todos los contribuyentes con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia Tributaria no adscritos a otra Dependencia.
+e) El inicio, la tramitación y la resolución de los procedimientos sancionadores derivados de las actuaciones y procedimientos incluidos en las letras anteriores.
 
 2.° Competencia territorial.–La Dependencia Regional de Gestión Tributaria extenderá su competencia al ámbito territorial de la correspondiente Delegación Especial de la Agencia Tributaria, pudiendo las unidades en las que aquélla se organiza, cualquiera que sea su sede, desarrollar sus actuaciones en todo este ámbito territorial.
 
@@ -291,6 +289,8 @@ Podrá asumir las funciones propias de la Sección del Impuesto sobre el Valor A
 Además de las propuestas de liquidación que consideren oportunas en cada caso, les corresponde iniciar, tramitar y proponer la resolución de los expedientes de imposición de sanciones por infracciones tributarias en vía de gestión tributaria, así como de intereses y recargos, en relación con los expedientes tramitados por estas mismas Unidades.
 
 3. Cuando por necesidades del servicio se estime oportuno, y en particular, en el período anual de campaña del Impuesto sobre la Renta de las Personas Físicas, podrá encomendarse al personal adscrito a las distintas Unidades, Servicios, Oficinas y Secciones, funciones distintas de las específicamente señaladas en esta Resolución.
+
+> Se modifica el apartado 1 por el art. único.1 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22250.
 
 > Se modifica el apartado 3.2 por la disposición adicional 4.1 de la Resolución de 21 de septiembre de 2004. Ref. BOE-A-2004-16708.
 
