@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen transitorio del personal afectado.
+
+Los funcionarios y demás personal que resulten afectados por las modificaciones orgánicas establecidas en esta Orden percibirán la totalidad de sus retribuciones con cargo a los créditos del presupuesto de la Agencia Estatal de Administración Tributaria, de conformidad con lo establecido para el puesto de trabajo que estuviesen desempeñando según las relaciones de puestos de trabajo aprobadas a la fecha de la entrada en vigor de la Orden y en tanto no se proceda a su modificación o a la readscripción de los puestos afectados.
