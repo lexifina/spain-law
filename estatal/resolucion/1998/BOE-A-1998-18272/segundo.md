@@ -38,6 +38,8 @@ e) Área Regional Químico-Tecnológica de Aduanas e Impuestos Especiales.
 
 5. Con carácter general, cada área estará a cargo de un Jefe adjunto de la misma. No obstante, la estructura orgánica de una Dependencia Regional podrá estar integrada por varias áreas adscritas a un mismo Jefe adjunto.
 
-6. En el supuesto de que en la Dependencia Regional exista Jefe adjunto del Área de Inspección e Investigación, éste tendrá el carácter de Inspector-Jefe, respecto de las actuaciones de inspección, a efectos de lo previsto en el Reglamento General de la Inspección de los Tributos. En las Dependencias Regionales donde no existan Jefes Adjuntos, el carácter de Inspector-Jefe recaerá en el Jefe de la Dependencia Regional.
+6. (Suprimido)
 
 7. La distribución de las Dependencias Regionales de Aduanas e Impuestos Especiales por Delegaciones Especiales es la desarrollada en el anexo II de la presente Resolución.
+
+> Se suprime el punto 6 por el art. único.1 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22254.
