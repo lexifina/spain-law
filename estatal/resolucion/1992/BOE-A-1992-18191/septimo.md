@@ -1,7 +1,5 @@
-## Séptimo. Actuaciones relativas a posibles delitos contra la Hacienda Pública.
+## Séptimo. Disposición adicional segunda.
 
-Cuando las Unidades de Inspección aprecien la existencia de hechos que pudieran ser constitutivos de un delito contra la Hacienda Pública, lo podrán inmediatamente en conocimiento a través del Inspector-Jefe respectivo, si lo hubiere, del Jefe de Dependencia Regional, a quien remitirán todo lo actuado. La existencia de tales hechos podrán también ser apreciada directamente por los Inspectores-Jefes.
+La Subdirección General de Inspección e Investigación ejercerá, entre otras, las siguientes funciones y competencias: la realización directa de actuaciones inspectoras y de control de restituciones a la exportación; la definición, dirección y planificación de los instrumentos de análisis de riesgo en el ámbito del comercio exterior, de seguridad en la cadena logística y de Impuestos Especiales, así como su implementación, seguimiento y explotación y las actuaciones derivadas del cumplimiento de la normativa comunitaria referida a la asistencia mutua administrativa o de convenios en la materia suscritos por España o por la Unión Europea.
 
-El Jefe de la Dependencia Regional podrá los hechos en conocimiento del Jefe Nacional de Inspección, quien coordinará las actuaciones en que existan indicios racionales de delitos contra la Hacienda Pública, a cuyos efectos le serán comunicadas las actuaciones de esta naturaleza, así como las incidencias que se produzcan hasta la terminación del expediente.
-
-Completado dicho expediente, se procederá, de conformidad con lo establecido en el artículo 66 del Reglamento General de Inspección de los Tributos.
+> Se modifica por los apartados 4 y 6 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22251.

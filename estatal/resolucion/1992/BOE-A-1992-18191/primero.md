@@ -1,13 +1,13 @@
 ## Primero. Órganos con funciones propias de la Inspección de los Tributos.
 
-Las funciones propias de la Inspección de los Tributos en el ámbito de las competencias del Departamento de Aduanas e Impuestos Especiales, sin perjuicio de su dirección, coordinación y control por la Subdirección General de Inspección, serán ejercidas por los siguientes órganos:
+1. Las funciones propias de la Inspección de los Tributos en el ámbito de las competencias del Departamento de Aduanas e Impuestos Especiales, serán ejercidas por los siguientes órganos:
 
-1.º En la esfera central y respecto de todo el territorio nacional, por las Oficinas Nacionales de Inspección y de Investigación integradas en la citada Subdirección General.
+a) En la esfera central y respecto de todo el territorio nacional, por la Subdirección General de Inspección e Investigación.
 
-2.º En la esfera de la Administración Periférica de la Hacienda Pública:
+b) En la esfera de la Administración territorial de la Agencia Estatal de Administración Tributaria, por las Dependencias Regionales de Aduanas e Impuestos Especiales, a través de los equipos y unidades de inspección e intervención en ellas integradas, respecto de la demarcación territorial de cada Delegación Especial de la Agencia.
 
-a) Por las Dependencias Regionales de Aduanas e Impuestos Especiales, respecto de la demarcación de cada Delegación Especial de la Agencia.
+Los citados órganos de Inspección de los tributos en la Administración territorial ejercerán sus competencias sin perjuicio de las que tienen atribuidas los Delegados Especiales en relación con la superior jefatura y coordinación entre las distintas áreas de las Delegaciones Especiales.
 
-b) Por las Administraciones Principales de Aduanas e Impuestos Especiales e Intervenciones de Territorios Francos, respecto de la demarcación de sus respectivas Delegaciones de la Agencia.
+2. A los efectos del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos y de lo dispuesto en esta Resolución, tendrán la consideración de órganos de inspección tributaria todos los órganos a los que se refiere el número 1 anterior así como los Equipos y las Unidades integrados en los mismos.
 
-c) Por las Administraciones de Aduanas, respecto a los espacios de cada una de ellas que tengan la consideración de recintos aduaneros o asimilados.
+> Se modifica por el apartado 1 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22251.
