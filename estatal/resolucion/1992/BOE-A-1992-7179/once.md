@@ -1,14 +1,16 @@
-## Once. Disposición transitoria.
+## Once. Disposición adicional segunda.
 
-1. Lo dispuesto en esta Resolución no afectará a las actuaciones iniciadas con anterioridad a su entrada en vigor por Unidad o funcionario competente, con arreglo a la Orden del Ministerio de Economía y Hacienda de 26 de mayo de 1986, que proseguirán hasta su terminación, con arreglo a la misma.
+A petición del titular de la Delegación Central de Grandes Contribuyentes:
 
-2. En tanto subsistan como personal laboral, los Agentes tributarios tendrán las facultades y desempeñarán las funciones a que se referían los artículos 6.º y 7.º de la Orden del Ministerio de Economía y Hacienda de 26 de mayo de 1986.
+a) El Director del Departamento de Inspección Financiera y Tributaria podrá autorizar la colaboración de funcionarios de la Oficina Nacional de Investigación del Fraude en actuaciones propias de Equipos de la Dependencia de Control Tributario y Aduanero de la Delegación Central.
 
-3. Mantendrán su validez los acuerdos de extensión de actuaciones a personas o entidades por parte de la Oficina Nacional de Inspección dictados por el Director general de inspección Financiera y Tributaria.
+b) El correspondiente Delegado Especial de la Agencia Tributaria podrá autorizar que los funcionarios, Equipos o Unidades de Inspección que fueran competentes por razón del domicilio realicen las funciones de la Dependencia de Control Tributario y Aduanero de la Delegación Central respecto a los obligados tributarios adscritos a ésta.
 
-4. En tanto sean sustituidos, mantendrán su vigencia los acuerdos a que se refería la Orden del Ministerio de Economía y Hacienda de 26 de mayo de 1986, en su articulo 17, números 2 y 3.
+Estas autorizaciones deberán constar en el correspondiente expediente y se exhibirán por los funcionarios autorizados a petición del obligado tributario.
 
-5. Sin perjuicio de lo dispuesto en número 1 anterior, quedan sin efecto todas las resoluciones del Director general de Inspección Financiera y Tributaria a que se refería el número 2 del artículo 4 de la Orden del Ministerio de Economía y Hacienda de 26 de mayo de 1986.
+> Se renumera por el apartado 10 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22252.
+
+> Su anterior numeración era apartado Diez.ter
 
 > Se modifica por los apartados 6 y 7 de la Resolución de 20 de marzo de 2003. Ref. BOE-A-2003-5908.
 

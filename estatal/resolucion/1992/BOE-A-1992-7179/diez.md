@@ -1,10 +1,10 @@
-## Diez. Entrega del expediente por los actuarios.
+## Disposición adicional primera.
 
-1. Las actas, las propuestas de imposición de sanción y las diligencias, acompañadas de todos sus antecedentes, debidamente fijados, ordenados y foliados, serán entregados por el funcionario, Equipo o Unidad a la unidad administrativa encargada de su tramitación.
+Los órganos con funciones de inspección de los tributos integrados en las Dependencias Regionales de Aduanas e Impuestos Especiales de las Delegaciones Especiales de la Agencia Estatal de Administración Tributaria tendrán competencia para la realización de actuaciones inspectoras y la correspondiente regularización de los incumplimientos detectados relativos a cualquiera de los hechos imponibles del Impuesto sobre el Valor Añadido que queden afectados por incumplimientos en los Impuestos Especiales o en los tributos que graven el comercio exterior.
 
-2. Cuando las actas, las propuestas de imposición de sanción o diligencias se hayan formalizado en un lugar situado fuera del ámbito territorial de la Delegación de la Agencia Tributaria donde se halle la sede del Equipo o Unidad actuante de la Inspección de los Tributos, podrá servir como unidad administrativa la de la Delegación de la Agencia Tributaria en cuyo ámbito territorial se hayan formalizado aquéllas.
+> Se renumera por el apartado 10 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22252.
 
-Cuando las actas, las propuestas de imposición de sanción o las diligencias se hayan formalizado en un lugar situado en una de las islas Baleares o Canarias, en la cual no se halle la sede de la correspondiente Delegación de la Agencia Tributaria, podrá servir como unidad administrativa la que corresponda de la Administración de la Agencia Tributaria que hubiere en la isla y en cuyo ámbito se hubiesen formalizado aquéllas.
+> Su anterior numeración era apartado Diez.bis.
 
 > Se modifica por el apartado 5 de la Resolución de 20 de marzo de 2003. Ref. BOE-A-2003-5908.
 
