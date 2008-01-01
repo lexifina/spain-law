@@ -13,6 +13,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [no](no.md)
 - [preambulo](preambulo.md)
 - [Artículo único](aunico.md)
+- [Disposición adicional única](daunica.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
