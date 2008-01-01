@@ -45,6 +45,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección 8](s8.md)
 - [Artículo 23](a23.md)
 - [Artículo 24](a24.md)
+- [Disposición adicional primera](daprimera.md)
 - [Disposición adicional segunda](dasegunda.md)
 - [Disposición final única](dfunica.md)
 - [firma](firma.md)
