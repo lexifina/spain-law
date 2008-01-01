@@ -14,30 +14,6 @@ b) Que la entidad dominante sea una entidad cuya actividad principal consista en
 
 c) Que una empresa cuya actividad principal consista en tener participaciones en entidades financieras, una persona física, un grupo de personas físicas que actúen sistemáticamente en concierto, o una entidad no consolidable con arreglo a esta Ley, controlen a varias entidades financieras, siendo al menos una de ellas una entidad de crédito, y siempre que las entidades de crédito sean las de mayor dimensión relativa entre las entidades financieras, de conformidad con los criterios que establezca al efecto el Ministro de Economía y Hacienda.
 
-d) Que a través de un acuerdo contractual varias entidades de crédito integren un sistema institucional de protección que cumpla con los siguientes requisitos:
-
-i. Que exista una entidad central que determine con carácter vinculante sus políticas y estrategias de negocio, así como los niveles y medidas de control interno y de gestión de riesgos. Esta entidad central será la responsable de cumplir los requerimientos regulatorios en base consolidada del sistema institucional de protección.
-
-ii. Que la citada entidad central sea una de las entidades de crédito integrantes del sistema institucional de protección u otra entidad de crédito participada por todas ellas y que formará asimismo parte del sistema.
-
-iii. Que el acuerdo contractual que constituye el sistema institucional de protección contenga un compromiso mutuo de solvencia y liquidez entre las entidades integrantes del sistema que alcance como mínimo el 40% de los recursos propios computables de cada una de ellas, en lo que se refiere al apoyo de solvencia. El compromiso de apoyo mutuo incluirá las previsiones necesarias para que el apoyo entre sus integrantes se lleve a cabo a través de fondos inmediatamente disponibles.
-
-iv. Que las entidades integrantes del sistema institucional de protección pongan en común una parte significativa de sus resultados, que suponga al menos el 40% de los mismos y que deberá ser distribuida de manera proporcional a la participación de cada una de ellas en el sistema.
-
-v. Que el acuerdo contractual establezca que las entidades deberán permanecer en el sistema un periodo mínimo de 10 años, debiendo preavisar con, al menos, 2 años de antelación su deseo de abandonar el mismo transcurrido aquel período. Adicionalmente, el acuerdo deberá incluir un régimen de penalizaciones por baja que refuerce la permanencia y estabilidad de las entidades en el sistema institucional de protección.
-
-vi. Que, a juicio del Banco de España, se cumplan los requisitos previstos en la normativa vigente sobre recursos propios de las entidades financieras para asignar una ponderación de riesgo del 0% a las exposiciones que tengan entre si los integrantes del sistema institucional de protección.
-
-Corresponderá al Banco de España la comprobación de los requisitos anteriores a los efectos de lo previsto en este artículo.
-
-Con carácter previo al abandono de un sistema institucional de protección por cualquiera de las entidades integrantes del mismo, el Banco de España valorará tanto la viabilidad individual de la entidad que pretenda abandonar el sistema, como la de este último y la del resto de las entidades participantes tras la pretendida desvinculación.
-
-Cuando la entidad de crédito que tenga la consideración de entidad central dentro de un sistema institucional de protección sea de naturaleza distinta al resto de las entidades integradas en el mismo y se encuentre participada por todas ellas, se adherirá al Fondo de Garantía de Depósitos al que pertenezcan estas últimas.
-
-Cuando las entidades integradas conforme a lo previsto en esta letra sean Cajas de Ahorros, la entidad central tendrá la naturaleza de sociedad anónima y habrá de estar controlada conjuntamente por todas ellas, en los términos del artículo 42 del Código de Comercio.
-
-El Banco de España podrá eximir del cumplimiento individual de los requisitos previstos en las partes segunda a octava del Reglamento (UE) n.º 575/2013, de 26 de junio, a las entidades de crédito integradas en un sistema institucional de protección cuando dicho sistema se constituya a través de un acuerdo contractual entre varias entidades de crédito y cumpla con los requisitos establecidos en el artículo 10 del citado reglamento y con lo previsto en los puntos i, ii, v y vi anteriores.
-
 4. Reglamentariamente se determinarán los tipos de entidades financieras que deberán incluirse en el grupo consolidable de entidades de crédito a que se refiere el número anterior.
 
 En todo caso, formarán parte del grupo consolidable:
@@ -85,14 +61,6 @@ a) Cuya sociedad dominante sea una entidad de crédito;
 b) Cuya sociedad dominante tenga como actividad principal la tenencia de participaciones en entidades de crédito;
 
 c) En los que, incluyendo a una o más entidades de crédito, la actividad de éstas sea la más importante dentro del grupo.
-
-> Se añade un párrafo al final del apartado 3 por el art. 1.2 del Real Decreto-ley 14/2013, de 29 de noviembre. Ref. BOE-A-2013-12529.
-
-> Se modifica el último párrafo de la letra d) del apartado 3, con efectos de 1 de enero de 2012, por la disposición final 15 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
-
-> Se modifica la letra d) del apartado 3 por el art. 4 del Real Decreto-Ley 11/2010, de 9 de julio. Ref. BOE-A-2010-11086
-
-> Se añade la letra d) al apartado 3 por el art. 25 del Real Decreto-Ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879
 
 > Se modifica por el art. único. 3 de la Ley 36/2007, de 16 de noviembre. Ref. BOE-A-2007-19813
 
