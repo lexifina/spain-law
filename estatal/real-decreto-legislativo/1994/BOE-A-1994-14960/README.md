@@ -432,6 +432,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria decimotercera](dtdecimotercera.md)
 - [Disposición transitoria decimocuarta](dtdecimocuarta.md)
 - [Disposición transitoria decimoquinta](dtdecimoquinta.md)
+- [Disposición transitoria decimosexta](dtdecimosexta.md)
+- [Disposición transitoria decimoséptima](dtdecimoseptima.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
