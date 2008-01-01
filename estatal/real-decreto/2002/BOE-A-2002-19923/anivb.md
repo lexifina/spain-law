@@ -1,175 +1,219 @@
 ## ANEXO IVB
 
-## Documentación para los biocidas
+## Documentación sobre los biocidas
 
-HONGOS, MICROORGANISMOS Y VIRUS
+MICROORGANISMOS, INCLUIDOS VIRUS Y HONGOS
 
-1. La documentación sobre biocidas deberá responder al menos a todos los puntos mencionados en la siguiente lista, "Requisitos de la documentación". Las respuestas deberán apoyarse en datos. Los requisitos de la documentación deberán estar a la altura de los avances técnicos.
+1. A efectos de este anexo, se entenderá que el término "microorganismos" incluye también virus y hongos. El presente anexo establece requisitos de datos para la autorización de un biocida a base de preparados de microorganismos. Deben presentarse todos los datos pertinentes disponibles así como la información bibliográfica, respecto a todos los biocidas a base de preparados de microorganismos que sean objeto de una solicitud. La información relativa a la identificación y caracterización de todos los componentes de un biocida es especialmente importante, debe consignarse en los apartados I a IV y constituye la base para evaluar su posible impacto sobre la salud humana y sobre el medio ambiente.
 
-2. No se facilitará información que no resulte necesaria debido al carácter del biocida o de sus utilizaciones propuestas. Lo mismo ocurrirá cuando no sea científicamente necesario ni técnicamente posible facilitar la información. En tales casos deberá presentarse una comunicación aceptable a la autoridad competente. Dicha justificación podrá ser la existencia de una formulación marco a la que el solicitante tenga el derecho de acceder.
+2. El artículo 8.6 se aplicará cuando no sea necesaria alguna información por la naturaleza del biocida.
 
-3. La información podrá obtenerse a partir de los datos existentes cuando se presente una justificación aceptable a la autoridad competente. En particular, y siempre que sea posible, a fin de reducir al mínimo los ensayos con animales, deberían aplicarse las disposiciones contenidas en el Real Decreto 1078/1993, de 2 de julio, por el que se aprueba el Reglamento sobre clasificación, envasado y etiquetado de preparados peligrosos.
+3. La información podrá obtenerse a partir de datos existentes cuando se presente a la autoridad competente una justificación aceptable. En particular, para reducir los ensayos con animales siempre que sea posible se aplicarán las disposiciones del Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, aprobado por el Real Decreto 363/1995, de 10 de marzo, y del Reglamento sobre clasificación, envasado y etiquetado de preparados peligrosos, aprobado por el Real Decreto 255/2003, de 28 de febrero.
+
+4. En caso de realización de ensayos, deberá presentarse una descripción detallada (especificación) del material utilizado y sus impurezas, según se dispone en la sección II. En caso necesario, se exigirá la presentación de datos según se establece en los anexos IIB y IIIB en relación con todos los componentes químicos del biocida que sean pertinentes toxicológica o ecotoxicológicamente, en particular si los componentes son sustancias de posible riesgo como se definen en el artículo 2.e).
+
+5. Cuando se trate de un nuevo preparado, podría aceptarse la extrapolación del anexo IVA, siempre que se evalúen todos los posibles efectos de los componentes, especialmente en lo relativo a la patogenicidad e infecciosidad.
 
 Requisitos de la documentación
 
-I. Solicitante.
+Secciones:
 
-II. Identificación y composición del biocida.
+I. Identificación del biocida.
 
-III. Propiedades técnicas del biocida y cualquier propiedad biocida complementaria de las del organismo activo.
+II. Propiedades físicas, químicas y técnicas del biocida.
 
-IV. Métodos de identificación y análisis del biocida.
+III. Datos sobre la aplicación.
 
-V. Usos previstos del producto y eficacia en estos usos.
+IV. Otros datos sobre el biocida.
 
-VI. Datos toxicológicos del biocida (adicionales a los del organismo activo).
+V. Métodos analíticos.
 
-VII. Datos ecotoxicológicos del biocida (adicionales a los del organismo activo).
+VI. Datos sobre la eficacia.
 
-VIII. Medidas que deben tomarse para la protección del ser humano, los animales y el medio ambiente.
+VII. Efectos sobre la salud humana.
 
-IX. Clasificación, envasado y etiquetado del biocida.
+VIII. Residuos en el interior o en la superficie de los materiales tratados, alimentos y piensos.
 
-X. Resumen de II-IX.
+IX. Destino y comportamiento en el medio ambiente.
+
+X. Efectos en los organismos distintos de los organismos objetivo.
+
+XI. Clasificación, envasado y etiquetado del biocida.
+
+XII. Resumen y evaluación de los apartados I a XI, con conclusiones sobre la evaluación del riesgo y recomendaciones.
 
 Los puntos anteriores deberán ir apoyados por los datos siguientes:
 
-I. Solicitante:
+I. Identificación del biocida:
 
-1.1 Nombre, apellidos, dirección, etc.
+1.1 Solicitante.
 
-1.2 Fabricante del biocida y del organismo activo, incluida situación de la instalación.
+1.2 Fabricante del biocida y de los microorganismos.
 
-II. Identificación del biocida:
+1.3 Denominación comercial o denominación comercial propuesta, así como número de código de experimentación del biocida, dado por el fabricante.
 
-2.1 Denominación comercial o denominación comercial propuesta, así como número de código de experimentación del fabricante del biocida, cuando proceda.
+1.4 Información cualitativa y cuantitativa detallada sobre la composición del biocida.
 
-2.2 Declaración detallada sobre la composición cuantitativa y cualitativa del biocida, por ejemplo, organismos activos, componentes inertes, organismos extraños, etc.
+1.5 Estado físico y naturaleza del biocida.
 
-2.3 Estado físico y naturaleza del biocida, por ejemplo, concentrado emulsionable, polvo mojable, etc.
+1.6 Función.
 
-2.4 Concentración del organismo activo en el material utilizado.
+II. Propiedades físicas, químicas y técnicas del biocida:
 
-III. Propiedades técnicas y biológicas:
+2.1 Aspecto (color y olor).
 
-3.1 Aspecto (color y olor).
+2.2 Estabilidad en el almacenamiento y plazo de conservación:
 
-3.2 Almacenamiento: estabilidad y plazo de validez. Efectos de la temperatura, método de envasado y almacenamiento, etc., sobre el mantenimiento de la actividad biológica.
+2.2.1 Efectos de la luz, temperatura y humedad sobre las características técnicas del biocida.
 
-3.3 Métodos de determinación de la estabilidad de almacenamiento y del plazo de validez.
+2.2.2 Otros factores que afectan a la estabilidad.
 
-3.4 Características técnicas del biocida:
+2.3 Explosividad y propiedades oxidantes.
 
-3.4.1 Mojabilidad.
+2.4 Punto de destello y otros datos sobre la inflamabilidad o combustión espontánea.
 
-3.4.2 Formación de espuma persistente.
+2.5 Acidez, alcalinidad y valor de pH.
 
-3.4.3 Suspensibilidad y estabilidad de la suspensión.
+2.6 Viscosidad y tensión superficial.
 
-3.4.4 Prueba de tamiz húmedo y prueba de tamiz seco.
+2.7 Características técnicas del biocida:
 
-3.4.5 Granulometría, contenido de polvo/finos, dureza y friabilidad.
+2.7.1 Mojabilidad.
 
-3.4.6 En caso de gránulos, prueba de tamiz e indicación de la distribución en peso de los gránulos, al menos en las fracciones con tamaños de partículas superiores a 1 milímetro.
+2.7.2 Formación de espuma persistente.
 
-3.4.7 Contenido de sustancia activa en las partículas del cebo, gránulos o material tratado.
+2.7.3 Suspensibilidad y estabilidad de la suspensión.
 
-3.4.8 Emulsionabilidad, reemulsionabilidad y estabilidad de la emulsión.
+2.7.4 Prueba de tamiz seco y prueba de tamiz húmedo.
 
-3.4.9 Fluidez, capacidad de vertido y pulverulencia.
+2.7.5 Granulometría (polvos espolvoreables y mojables, gránulos), contenido de polvos o finos (gránulos), resistencia al desgaste y friabilidad (gránulos).
 
-3.5 Compatibilidad fisicoquímica con otros productos, incluidos otros biocidas con los que vaya a autorizarse su uso.
+2.7.6 Emulsionabilidad, reemulsionabilidad y estabilidad de la emulsión.
 
-3.6 Poder mojante, adherencia y distribución tras la aplicación.
+2.7.7 Propiedades de flujo, vertido (enjuagado) y pulverización.
 
-3.7 Todo cambio de las propiedades biológicas del organismo como resultado de la formulación y, en particular, cambios en la patogenicidad o infectividad.
+2.8 Compatibilidad física, química y biológica con otros productos, incluidos otros biocidas con los que vaya a autorizarse o registrarse su uso:
 
-IV. Método de identificación y análisis:
+2.8.1 Compatibilidad física.
 
-4.1 Métodos analíticos para determinar la composición del biocida.
+2.8.2 Compatibilidad química.
 
-4.2 Métodos de determinación de residuos (por ejemplo, bioensayo).
+2.8.3 Compatibilidad biológica.
 
-4.3 Métodos utilizados para demostrar la pureza microbiológica del biocida.
+2.9 Resumen y evaluación de las propiedades físicas, químicas y técnicas del biocida.
 
-4.4 Métodos utilizados para demostrar que el biocida se encuentra libre de cualquier patógeno para el ser humano o los mamíferos o, si fuera necesario, de patógenos nocivos para los organismos distintos de los organismos objetivo y el medio ambiente.
+III. Datos sobre la aplicación:
 
-4.5 Técnicas utilizadas para garantizar un producto uniforme y métodos de ensayo para su normalización.
+3.1 Ámbito de uso previsto.
 
-V. Usos previstos y eficacia en estos usos:
+3.2 Modo de acción.
 
-5.1 Uso.– Tipo de producto (por ejemplo, protector para la madera, insecticida, etc.) 5.2 Detalles del uso previsto, por ejemplo, tipos de organismo nocivo controlado, materiales que van a tratarse, etc.
+3.3 Datos sobre el uso previsto.
 
-5.3 Tasa de aplicación.
+3.4 Tasa de aplicación.
 
-5.4 Cuando sea necesario, a la luz de los resultados de los ensayos, cualquier circunstancia específica o condiciones ambientales en las que el producto puede o no puede usarse.
+3.5 Contenido del microorganismo en el material utilizado (por ejemplo, en el dispositivo de aplicación o en el cebo).
 
-5.5 Método de aplicación.
+3.6 Método de aplicación.
 
-5.6 Número y ritmo de las aplicaciones.
+3.7 Número y distribución temporal de las aplicaciones y duración de la protección.
 
-5.7 Instrucciones de uso propuestas. Datos sobre la eficacia.
+3.8 Plazos de espera necesarios u otras precauciones a fin de evitar que se produzcan efectos adversos para la salud humana y animal y para el medio ambiente.
 
-5.8 Ensayos preliminares orientados a determinar la concentración.
+3.9 Instrucciones de uso propuestas.
 
-5.9 Experimentación en campo.
+3.10 Categoría de usuarios.
 
-5.10 Información sobre el posible desarrollo de resistencias.
+3.11 Información sobre el posible desarrollo de resistencias.
 
-5.11 Efectos sobre la calidad de los materiales o productos tratados.
+3.12 Efectos sobre los materiales o productos tratados con el biocida.
 
-VI. Información sobre la toxicidad complementaria a la exigida para el organismo activo:
+IV. Otros datos sobre el biocida:
 
-6.1 Dosis oral única.
+4.1 Envasado y compatibilidad del biocida con los materiales propuestos de envasado.
 
-6.2 Dosis percutánea única.
+4.2 Procedimientos de limpieza del equipo de aplicación.
 
-6.3 Inhalación.
+4.3 Plazos para volver a acceder a las zonas tratadas, plazos de espera necesarios u otras precauciones para la protección de las personas, del ganado y del medio ambiente.
 
-6.4 Irritación cutánea y, cuando proceda, ocular.
+4.4 Métodos recomendados y precauciones en relación con la manipulación, el almacenamiento, el transporte o en caso de incendio.
 
-6.5 Sensibilización cutánea.
+4.5 Medidas en caso de accidente. 4.6 Procedimientos de destrucción o descontaminación del biocida y de sus envases:
 
-6.6 Datos toxicológicos disponibles relativos a las sustancias no activas.
+4.6.1 Incineración controlada.
 
-6.7 Exposición del aplicador.
+4.6.2 Otros.
 
-6.7.1 Absorción percutánea o inhalación, según la formulación y el método de aplicación.
+4.7 Plan de seguimiento aplicable al microorganismo activo y a otros microorganismos contenidos en el biocida, incluyendo su manipulación, almacenamiento, transporte y utilización.
 
-6.7.2 Exposición probable del aplicador en condiciones de campo, incluido, en su caso, el análisis cuantitativo de dicha exposición.
+V Métodos analíticos:
 
-VII. Información sobre la ecotoxicidad complementaria a la exigida para el organismo activo:
+5.1 Métodos para el análisis del biocida.
 
-7.1 Observaciones sobre efectos colaterales indeseados o indeseables, por ejemplo, en organismos beneficiosos u otros organismos distintos de los organismos a los que se destina o persistencia en el medio ambiente.
+5.2 Métodos para determinar y cuantificar los residuos.
 
-VIII. Medidas que deben adoptarse para la protección del ser humano, los organismos distintos del organismo a los que se destina y el medio ambiente:
+VI. Datos sobre la eficacia.
 
-8.1 Métodos recomendados y precauciones respecto al manejo, almacenamiento, transporte y utilización.
+VII. Efectos sobre la salud humana:
 
-8.2 Plazos de seguridad, período de supresión necesario u otras precauciones para protección del ser humano o los animales.
+7.1 Estudios básicos de toxicidad aguda:
 
-8.3 Medidas de emergencia en caso de accidente.
+7.1.1 Toxicidad aguda oral.
 
-8.4 Procedimientos de destrucción o descontaminación del biocida y de su envasado.
+7.1.2 Toxicidad aguda por inhalación.
 
-IX. Clasificación, envasado y etiquetado:
+7.1.3 Toxicidad aguda por vía cutánea
 
-9.1 Propuestas, que incluyan argumentos justificativos, de clasificación, envasado y etiquetado.
+7.2 Estudios complementarios de toxicidad aguda:
 
-1.º Respecto a los componentes no biológicos del producto con arreglo al Real Decreto 1078/1993, de 2 de julio, por el que se aprueba el Reglamento sobre clasificación, envasado y etiquetado de preparados peligrosos:
+7.2.1 Irritación cutánea.
 
-a) Símbolo de peligro.
+7.2.2 Irritación ocular.
 
-b) Indicaciones de peligro.
+7.2.3 Sensibilización cutánea.
 
-c) Frases tipo relativas a los riesgos.
+7.3 Datos sobre la exposición.
 
-d) Frases tipo relativas a la seguridad.
+7.4 Datos toxicológicos disponibles relativos a las sustancias no activas.
 
-2.º Respecto al etiquetado de los organismos activos con el grupo de riesgo adecuado, tal y como figura en el artículo 3 del Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo, junto con el signo de peligro biológico que figura en el Real Decreto, si procede.
+7.5 Estudios complementarios sobre combinaciones de biocidas.
 
-9.2 Envase (tipo, materiales, tamaño, etc.), compatibilidad del preparado con los materiales de envasado propuestos.
+7.6 Resumen y evaluación de los efectos sobre la salud humana.
 
-9.3 Muestras del envase propuesto.
+VIII. Residuos en el interior o en la superficie de los materiales tratados, alimentos y piensos.
 
-X. Resumen de II-IX.
+IX. Destino y comportamiento en el medio ambiente.
+
+X. Efectos en los organismos distintos de los organismos objetivo:
+
+10.1 Efectos en las aves.
+
+10.2 Efectos en los organismos acuáticos.
+
+10.3 Efectos en las abejas.
+
+10.4 Efectos en los artrópodos distintos de las abejas.
+
+10.5 Efectos en las lombrices de tierra.
+
+10.6 Efectos en los microorganismos del suelo.
+
+10.7 Estudios complementarios sobre otras especies o estudios de etapas superiores, como estudios sobre organismos seleccionados distintos de los organismos objetivo:
+
+10.7.1 Plantas terrestres.
+
+10.7.2 Mamíferos.
+
+10.7.3 Otras especies y procesos pertinentes.
+
+10.8 Resumen y evaluación de los efectos en organismos distintos de los organismos objetivo.
+
+XI. Clasificación, envasado y etiquetado del biocida.
+
+Como se establece en el artículo 19, deben presentarse propuestas con su justificación para la clasificación y el etiquetado del biocida de acuerdo con lo dispuesto en el Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, aprobado por el Real Decreto 363/1995, de 10 de marzo, y en el Reglamento sobre clasificación, envasado y etiquetado de preparados peligrosos, aprobado por el Real Decreto 255/2003, de 28 de febrero. La clasificación incluye la descripción de la categoría o categorías de peligro y frases sobre la naturaleza de los riesgos relativas a todas las propiedades peligrosas. A partir de la clasificación, debe formularse una propuesta de etiquetado con inclusión de los símbolos de peligro y las indicaciones de peligro, así como las frases sobre la naturaleza de los riesgos y las medidas de seguridad. La clasificación y el etiquetado tendrán en cuenta las sustancias químicas que contenga el biocida. En caso necesario, se presentarán a la autoridad competente de un Estado miembro muestras del envase propuesto.
+
+El expediente irá acompañado por una propuesta razonada para asignar el biocida a uno de los grupos de riesgo especificados en el artículo 3 del Real Decreto 664/1997, de 12 de mayo, junto con indicaciones sobre la necesidad de que los productos lleven la señal de peligro biológico especificada en el anexo III de dicho real decreto.
+
+XII. Resumen y evaluación de los apartados I a XI, incluyendo conclusiones sobre la evaluación del riesgo y recomendaciones.
+
+> Se modifica por el art. único.2 y anexo II de la Orden PRE/1982/2007, de 29 de junio. Ref. BOE-A-2007-13027.
