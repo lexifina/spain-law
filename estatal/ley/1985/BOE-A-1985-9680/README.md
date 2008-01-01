@@ -25,6 +25,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo noveno](anoveno.md)
 - [Artículo décimo](adecimo.md)
 - [Artículo décimo bis](adecimobis.md)
+- [Artículo décimo ter](adecimoter.md)
 - [Artículo undécimo](aundecimo.md)
 - [TÍTULO TERCERO](ttercero.md)
 - [Artículo duodécimo](aduodecimo.md)

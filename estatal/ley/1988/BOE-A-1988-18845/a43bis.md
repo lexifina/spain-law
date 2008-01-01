@@ -2,6 +2,10 @@
 
 1. Corresponderá al Banco de España el control e inspección de las entidades de crédito, extendiéndose esta competencia a cualquier oficina o centro dentro o fuera del territorio nacional y, en la medida en que el cumplimiento de las funciones encomendadas al Banco de España lo exija, a las sociedades que se integren en el grupo de la afectada. También le corresponderá la supervisión de los grupos consolidables de entidades de crédito, según lo previsto en la Ley 13/1992, de 1 de junio, sobre Recursos propios y supervisión en base consolidada de las Entidades Financieras.
 
+1.bis Para el adecuado ejercicio de sus funciones de supervisión, tanto de las mencionadas en el apartado anterior, como de cualesquiera otras que le encomienden las leyes, el Banco de España podrá recabar de las entidades y personas sujetas a su supervisión conforme a la normativa aplicable cuantas informaciones sean necesarias para comprobar el cumplimiento de la normativa de ordenación y disciplina a que aquellas estén obligadas.
+
+Con el fin de que el Banco de España pueda obtener dichas informaciones, o confirmar su veracidad, las entidades y personas mencionadas quedan obligadas a poner a disposición del Banco cuantos libros, registros y documentos considere precisos, incluidos los programas informáticos, ficheros y bases de datos, sea cuál sea su soporte físico o virtual.
+
 2. En el caso de las sucursales de entidades de crédito autorizadas en otros Estados miembros de la Comunidad Europea, el Banco de España podrá inspeccionarlas:
 
 a) En el ejercicio de sus propias competencias de control, en particular en lo que se refiere a la liquidez de la sucursal, la ejecución de la política monetaria y al adecuado funcionamiento del sistema de pagos.
@@ -21,5 +25,7 @@ c) Para controlar que la actividad de la sucursal se realiza de conformidad con 
 7. Las resoluciones que dicte el Banco de España en el ejercicio de las funciones a que se refieren los apartados anteriores serán susceptibles de recurso ante el Ministro de Economía y Hacienda.
 
 8. Lo dispuesto en este artículo y en el anterior se entiende sin perjuicio de las competencias que tengan atribuidas las Comunidades Autónomas y de lo que resulte de los convenios entre el Banco de España, y las Comunidades Autónomas a que se refiere la disposición adicional primera, apartado 3 de la Ley 31/1985, de 2 de agosto, sobre Organos Rectores de las Cajas de Ahorro. En todo caso, la inscripción en los correspondientes registros del Banco de España y, cuando proceda, de la Comunidad Autónoma competente será indispensable para que las entidades a que se refiere este artículo puedan desarrollar sus actividades.
+
+> Se añade el apartado 1 bis por la disposición final 2.7 de la Ley 36/2007, de 16 de noviembre. Ref. BOE-A-2007-19813
 
 > Se añade por el art. 3.9 de la Ley 3/1994, de 14 de abril. Ref. BOE-A-1994-8489
