@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Reducción de cuotas a favor de determinados familiares del titular de la explotación agraria incorporados al Régimen Especial Agrario.
+
+En el supuesto de personas incorporadas al Régimen Especial Agrario, como trabajadores por cuenta propia, entre la fecha de entrada en vigor de esta Ley, de acuerdo con lo establecido en el número 2 de la disposición final tercera de la misma, y el 31 de diciembre de 2007, que tengan cuarenta o menos años de edad en el momento de dicha incorporación y sean cónyuges o descendientes del titular de la explotación agraria, siempre que éste se encuentre incluido en el citado régimen especial, se aplicará, sobre la cotización por contingencias comunes de cobertura obligatoria, una reducción equivalente al 30 por 100 de la cuota que resulte de aplicar a la base de cotización que corresponda, el tipo del 18,75 por 100.
+
+La reducción de cuotas establecida en el párrafo anterior producirá efectos desde la fecha de inicio de la obligación de cotizar hasta el 31 de diciembre de 2007.
