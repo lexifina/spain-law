@@ -33,6 +33,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 20](a2-2.md)
 - [Artículo 21](a2-3.md)
 - [Artículo 22](a2-4.md)
+- [Artículo 23](a2-5.md)
 - [Disposición adicional única](da.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)
