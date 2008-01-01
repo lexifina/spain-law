@@ -10,5 +10,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [Artículo 16](a16.md)
+- [Artículo 95](a95.md)
 - [Disposición final octava](dfoctava.md)
 - [Disposición final novena](dfnovena.md)
