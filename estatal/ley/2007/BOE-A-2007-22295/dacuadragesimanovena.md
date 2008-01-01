@@ -1,0 +1,3 @@
+## Disposición adicional cuadragésima novena. Aplicación de las transferencias de fondos del Instituto de la Vivienda de las Fuerzas Armadas.
+
+Con vigencia exclusiva para el año 2008, los ingresos que se produzcan en el Estado como consecuencia de las transferencias de fondos que realice el Instituto de la Vivienda de las Fuerzas Armadas, en aplicación de lo dispuesto en el artículo 16.2 de la Ley 26/1999, de 9 de julio, de medidas de apoyo a la movilidad geográfica de los miembros de las Fuerzas Armadas, se destinarán a financiar gastos operativos y de inversión derivados del proceso de profesionalización y modernización de las Fuerzas Armadas.

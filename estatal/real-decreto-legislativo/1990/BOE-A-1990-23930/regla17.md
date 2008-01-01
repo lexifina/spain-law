@@ -32,11 +32,11 @@ El 66 por 100 en función de la superficie de cada término municipal comprendid
 
 El 34 por 100 en función de la superficie de cada término municipal en la que se ubiquen instalaciones especiales, tales como parques de distribución eléctrica y embalses artificiales de refrigeración, que se encuentren fuera de la zona bajo control del explotador.
 
-b) El 34 por 100 restante en función de la ubicación en el área circular de 10 kilómetros de radio con centro en la instalación nuclear, y con arreglo a los porcentajes siguientes:
+b) El 34 por ciento restante en función de la ubicación en el área circular de diez kilómetros de radio con centro en la instalación nuclear, y con arreglo a los porcentajes siguientes:
 
-El 50 por 100 en función de la superficie de cada término municipal comprendida en el área circular de referencia.
+El 50 por ciento en función de la superficie de cada término municipal comprendida en el área circular de referencia.
 
-El 50 por 100 en función de la población de derecho de cada municipio comprendido en el área circular. A estos efectos se entenderá por población de derecho la definida en la regla 14.ª, 1, D) de esta Instrucción.
+El 50 por ciento en función de la población de derecho de cada municipio comprendida en el área circular. A estos efectos se entenderá por población de derecho la definida en la Regla 14.ª 1.D) de esta Instrucción.
 
 4. Las cuotas municipales correspondientes a actividades que se desarrollen en zonas portuarias que se extiendan sobre más de un término municipal serán distribuidas por el Ayuntamiento exactor entre todos los municipios sobre los que se extienda la zona portuaria de que se trate en los términos siguientes:
 
@@ -98,7 +98,9 @@ a) Una tercera parte en función de la población de derecho de la provincia, en
 
 b) Una tercera parte en función del número de sujetos pasivos por cuota municipal resultante de la suma de todos los que consten en las matrículas de los municipios de la provincia correspondientes al año de que se trate.
 
-c) Una tercera parte en función del importe total de las cuotas de tarifa municipales consignadas en las matrículas de los municipios de la provincia correspondientes al año de que se trate. Por consiguiente, no se computará el importe que, en su caso, resulte de aplicar el coeficiente o el recargo provincial, regulados, respectivamente, en los artículos 88 y 124 de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales.
+c) Una tercera parte en función del importe total de las cuotas de tarifa municipales consignadas en las matrículas de los municipios de la provincia correspondientes al año de que se trate.
+
+Por consiguiente, no se computará el importe que, en su caso, resulte de aplicar el coeficiente o el recargo provincial, regulados, respectivamente, en los artículos 88 y 124 de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales.
 
 C) El 80 por 100 de la recaudación a que se refiere la letra A) anterior de este apartado tres.2 se distribuirá entre los municipios con arreglo a los mismos criterios y términos que los establecidos en los párrafos a), b) y c) de la letra B) del apartado dos.2 anterior de esta regla.
 
@@ -106,13 +108,13 @@ D) Las cuotas correspondientes a los servicios de telefonía móvil se distribui
 
 a) El 20 por 100 de la recaudación se distribuirá entre las Diputaciones Provinciales con arreglo a los criterios siguientes:
 
-La parte de cuota nacional correspondiente al elemento tributario antenas, en función del número de éstas con potencia radiada aparente superior a 10 vatios (PAR > 10 w) instaladas en los municipios integrados en cada demarcación provincial y que cuenten con la licencia municipal correspondiente.
+La parte de cuota nacional correspondiente al elemento tributario antenas, en función del número de éstas con potencia radiada aparente superior a 10 vatios (PAR T 10 w) instaladas en los municipios integrados en cada demarcación provincial y que cuenten con la licencia municipal correspondiente.
 
 La parte de cuota nacional correspondiente al elemento tributario abonados, en función de la población de derecho de la provincia, entendida ésta como la suma de la población de derecho de todos los municipios integrados en la demarcación provincial, según la definición a que se refiere el párrafo a) de la letra B) del apartado dos.2 anterior.
 
 b) El 80 por 100 restante se distribuirá entre los municipios con arreglo a los siguientes criterios:
 
-La parte de cuota nacional correspondiente al elemento tributario antenas, en función del número de éstas con potencia radiada aparente superior a 10 vatios (PAR > 10 w) instaladas en los respectivos términos municipales y que cuenten con la licencia municipal correspondiente.
+La parte de cuota nacional correspondiente al elemento tributario antenas, en función del número de éstas con potencia radiada aparente superior a 10 vatios (PAR T 10 w) instaladas en los respectivos términos municipales y que cuenten con la licencia municipal correspondiente.
 
 La parte de cuota nacional correspondiente al elemento tributario abonados, en función de la población de derecho del municipio, entendida ésta en los términos señalados en la regla 14.1.D) de la presente Instrucción.
 
@@ -155,6 +157,8 @@ b) Las cuotas provinciales correspondientes a actividades que se ejerzan en prov
 c) Las cuotas nacionales correspondientes a sujetos pasivos que tengan su domicilio fiscal en territorio común.
 
 2. La presente regla se aplicará sin perjuicio de los regímenes fiscales especiales vigentes en los territorios forales del País Vasco y Navarra.
+
+> Se modifica el apartado 1.3.C).b) por el art. 71.2 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295.
 
 > Se modifican los apartados 3, 6 y 7 por la disposición adicional 4.h) e i) de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
 

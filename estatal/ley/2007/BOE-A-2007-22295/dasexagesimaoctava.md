@@ -1,0 +1,3 @@
+## Disposición adicional sexagésima octava. Convenio entre el Ministerio de Educación y Ciencia y la Comunidad Autónoma de Canarias en desarrollo del Plan Integral de Empleo de Canarias.
+
+Se autoriza al Gobierno para que durante al año 2008, a la vista de los resultados de los sucesivos acuerdos singulares anuales suscritos entre el Ministerio de Educación y Ciencia y la Consejería de Educación, Cultura y Deportes del Gobierno de Canarias para el desarrollo del Plan Integral de Empleo de Canarias, pueda continuar con esta línea de actuación mediante la suscripción, en su caso, de un nuevo convenio que podrá suponer una aportación máxima por parte del Ministerio de Educación y Ciencia de 40.000,00 miles de euros.

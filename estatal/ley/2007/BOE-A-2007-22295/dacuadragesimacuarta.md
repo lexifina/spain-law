@@ -1,0 +1,7 @@
+## Disposición adicional cuadragésima cuarta. Subvenciones al transporte aéreo y marítimo para residentes en Canarias, Baleares, Ceuta y Melilla.
+
+El porcentaje de reducción en las tarifas de los servicios de transporte aéreo y marítimo de viajeros, para viajes realizados entre las Comunidades y Ciudades Autónomas de Canarias, Baleares, Ceuta y Melilla, respectivamente y el resto del territorio nacional será, con vigencia indefinida, del 50 por ciento. Asimismo, y con la misma vigencia el porcentaje de reducción de tarifas en los viajes interinsulares será el 25 por ciento en transporte marítimo y 50 por ciento en transporte aéreo. Todo ello aplicable a los ciudadanos españoles, de los demás Estados miembros de la Unión Europea, de los Estados pertenecientes al Espacio Económico Europeo y de Suiza residentes en Canarias, Baleares, Ceuta y Melilla.
+
+Se autoriza al Gobierno de la Nación para que, durante el año 2008, modifique las cuantías a que se refiere el párrafo anterior o, en su caso, reemplace dicho régimen por otro sistema de compensación. Dicha modificación nunca podrá suponer una disminución de la ayuda prestada o un deterioro en la calidad del servicio, ni incremento de los créditos asignados a esta finalidad.
+
+En todo caso, para las Comunidades de Canarias y de Baleares se estará a lo regulado en el artículo 6 de la Ley 19/1994, de 6 de junio, de Modificación del Régimen Económico y Fiscal de Canarias, así como el artículo 5 de la Ley 30/1998, de 29 de julio, del Régimen Especial de las islas Baleares, respectivamente.

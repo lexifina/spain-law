@@ -62,7 +62,7 @@ Por cada Kw: 1.449 pesetas. (8,708665 euros)
 
 Nota: Este epígrafe comprende la producción de fibras artificiales y sintéticas, continuas y discontinuas, obtenidas por polimerización o condensación de monómeros orgánicos o por transformacion química de polímeros orgánicos naturales, tales como el rayón y otras fibras celulósicas, fibras acrilicas, el nylón y otras fibras poliamídicas, de poliester, hilo de polipropileno, etc.
 
-Epígrafe 251.7 Fabricación de ácido y anhidrido ftálico y maléico.
+Epígrafe 251.7 Fabricación de ácido y anhídrido ftálico y maléico y de ácidos isoftálico y tereftálico.
 
 Cuota de:
 
@@ -269,6 +269,8 @@ Por cada obrero: 3.312 pesetas. (19,905521 euros)
 Por cada Kw: 5.289 pesetas. (31,787530 euros)
 
 Nota: Este epígrafe comprende la fabricación de otros productos quimicos principalmente destinados al consumo final, tales como productos químicos de oficina y escritorio (tintas, clisés, papel carbón, etc.); productos de limpieza (limpia-cristales, limpia-metales, quitamanchas, purificadores de ambiente, etc.) y otros.
+
+> Se modifica el título del epígrafe 251.7 por el art. 71.1 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
