@@ -1,3 +1,5 @@
 ## Segundo. Aprobación del modelo 06.
 
-Se aprueba el modelo 06 «Impuesto Especial sobre Determinados Medios de Transporte. Declaración de exenciones y no sujeciones sin reconocimiento previo». Dicho modelo, que figura como anexo II en la presente orden, consta de tres ejemplares: Ejemplar para la Administración, ejemplar para el interesado y ejemplar para el Órgano de matriculación. El citado modelo deberá ser presentado por los sujetos pasivos a cuyo nombre se efectúe la primera matriculación definitiva de los medios de transporte en España, sean de fabricación comunitaria o importados, nuevos o usados, o por las personas o entidades a que se refiere la disposición adicional primera de la Ley 38/1992, de Impuestos Especiales, en el supuesto contemplado en el artículo 65, apartado 1, letra d), de la citada ley cuando soliciten las exenciones o no sujeciones a que se refiere el último párrafo de los artículos 65.2 y 66.2 de la Ley 38/1992, de Impuestos Especiales.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única de la Orden EHA/3851/2007, de 26 de diciembre. Ref. BOE-A-2007-22442#dd
