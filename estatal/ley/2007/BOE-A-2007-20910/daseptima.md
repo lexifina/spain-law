@@ -1,0 +1,5 @@
+## Disposición adicional séptima. Aplicación de los mecanismos de jubilación anticipada y parcial en el ámbito de los empleados públicos.
+
+En el plazo de un año, el Gobierno presentará un estudio sobre la normativa reguladora de la jubilación anticipada y parcial de los empleados públicos, así como del personal de las Fuerzas Armadas y al servicio de la Administración de Justicia, que aborde la aplicación de la normativa reguladora de tales modalidades de jubilación, las condiciones en que esta aplicación no genere problemas de sostenibilidad a los sistemas de protección social y la homogeneización, en términos equiparables, de los diferentes regímenes.
+
+En dicho estudio se contemplará la realidad específica de los diferentes colectivos afectados, incluida la del personal al que le es de aplicación la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, tomando en consideración las singularidades que rodean al mismo, desde una perspectiva acorde con las prioridades y garantías que se señalan en el párrafo anterior.

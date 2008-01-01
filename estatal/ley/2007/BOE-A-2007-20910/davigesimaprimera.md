@@ -1,0 +1,3 @@
+## Disposición adicional vigésima primera. Protección social de los investigadores.
+
+Antes de 31 de diciembre de 2007, la Secretaría de Estado de Universidades e Investigación y la Secretaría de Estado de la Seguridad Social realizarán una evaluación conjunta de la aplicación del Real Decreto 63/2006, de 27 de enero, en lo tocante a la incorporación al régimen de protección social del personal becario, y adoptarán las medidas necesarias para garantizar esta incorporación a los sectores del colectivo en los que se hayan manifestado mayores dificultades, tales como los becarios en el extranjero y los titulares de becas asociados a proyectos de investigación y becas de tipo «tecnológico», entre otros.

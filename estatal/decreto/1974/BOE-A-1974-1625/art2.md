@@ -22,14 +22,20 @@ a) Trabajadores por cuenta ajena, retribuidos a salario o a la parte, empleados 
 
 9.° Cualquier otra actividad marítimo-pesquera, cuya inclusión en este Régimen sea determinada por el Ministerio de Trabajo, previo informe de la Organización Sindical.
 
-b) Trabajadores por cuenta propia o autónomos que realicen de forma habitual, personal y directa alguna de las actividades que a continuación se enumeran, siempre que la misma constituya su medio fundamental de vida y concurren las demás condiciones que reglamentariamente se determinen respecto a cada una de dichas actividades.
+b) Trabajadores por cuenta propia o autónomos que realicen de forma habitual, personal y directa alguna de las actividades que a continuación se enumeran, siempre que la misma constituya su medio fundamental de vida y concurran las demás circunstancias que reglamentariamente se determinen respecto a cada una de dichas actividades:
 
-1.° Los armadores de pequeñas embarcaciones que trabajen a bordo de ellas.
+1.º Los armadores de pequeñas embarcaciones que trabajen a bordo de ellas.
 
-2.° Las que se dediquen a la extracción de productos de mar.
+2.º Los que se dediquen a la extracción de productos del mar.
 
-3.º Los rederos que no realicen sus faenas por cuenta de una Empresa pesquera determinada.
+3.º Los rederos que no realicen sus faenas por cuenta de una empresa pesquera determinada.
 
-4.º Los prácticos de puerto.
+Se presumirá que las anteriores actividades constituyen su medio fundamental de vida, a efectos de la inclusión en este Régimen Especial, siempre que de las mismas se obtengan ingresos para atender a sus propias necesidades o, en su caso, las de la unidad familiar, aun cuando con carácter ocasional o permanente realicen otros trabajos no específicamente marítimo-pesqueros determinantes o no de su inclusión en cualquier otro de los Regímenes del Sistema de la Seguridad Social.
+
+> Se modifica el apartado b) por la disposición adicional 16 de la Ley 40/2007, de 4 de diciembre. Ref. BOE-A-2007-20910.
+
+> Se modifica el apartado a).4.º por el art. 45.2.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+> Téngase en cuenta que el apartado ya estaba modificado por la Ley 48/2003, de 26 de noviembre.
 
 > Se modifica el apartado a).4.º y se añade el apartado b).4.º por la disposición final 3 de la Ley 48/2003, de 26 de noviembre. Ref. BOE-A-2003-21615.

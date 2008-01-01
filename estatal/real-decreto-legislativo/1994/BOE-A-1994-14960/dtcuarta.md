@@ -1,11 +1,31 @@
-## Disposición transitoria cuarta. Aplicación paulatina de los periodos de cotización exigibles para la pensión de jubilación.
+## Disposición transitoria cuarta. Aplicación paulatina del período mínimo de cotización para el acceso a la pensión de jubilación.
 
-1. Para los trabajadores por cuenta ajena del Régimen General, de los Regímenes Especiales de la Minería del Carbón, Agrario y Mar, y del extinguido de Ferroviarios, el período mínimo de cotización exigible para causar derecho a jubilación será el que resulte de sumar al período mínimo establecido en la legislación anterior a la entrada en vigor de la Ley 26/1985, de 31 de julio, la mitad del tiempo transcurrido entre dicha fecha de entrada en vigor y la del hecho causante de la jubilación, hasta que el período así determinado alcance los quince años.
+El período mínimo de cotización establecido en la letra b) del apartado 1 del artículo 161 se aplicará de forma gradual, por períodos de seis meses, a partir de la entrada en vigor de la Ley de Medidas en materia de Seguridad Social, del siguiente modo:
 
-2. El período mínimo de cotización exigible para causar derecho a jubilación a quienes, en el momento de la entrada en vigor de la Ley 26/1985, de 31 de julio, tuvieran cumplida la edad de sesenta o más años y estuvieran incluidos en los Regímenes Especiales de Autónomos, Empleados de Hogar, o en los extinguidos de Artistas, Representantes de Comercio, Toreros y Escritores de Libros, o, como trabajadores por cuenta propia, en los Regímenes Especiales Agrario y del Mar, será el que resulte de sumar al período mínimo exigido en la legislación anterior el lapso de tiempo que, en aquel momento, les faltara para cumplir los sesenta y cinco años de edad.
+Durante los seis primeros meses se exigirán 4.700 días.
 
-3. Lo dispuesto en los apartados anteriores no será de aplicación a quienes soliciten pensión de jubilación sin encontrarse en alta o situación asimilada a la de alta.
+Durante el segundo semestre se exigirán 4.777 días.
 
-4. Durante 1997, el período de dos años de cotización, a que se refieren los párrafos primero y segundo de la letra b), apartado 1, del artículo 161, deberá estar comprendido dentro de los diez años inmediatamente anteriores al momento de causar el derecho, o la fecha en que cesó la obligación de cotizar, respectivamente.
+Durante el tercer semestre se exigirán 4.854 días.
+
+Durante el cuarto semestre se exigirán 4.931 días.
+
+Durante el quinto semestre se exigirán 5.008 días.
+
+Durante el sexto semestre se exigirán 5.085 días.
+
+Durante el séptimo semestre se exigirán 5.162 días.
+
+Durante el octavo semestre se exigirán 5.239 días.
+
+Durante el noveno semestre se exigirán 5.316 días.
+
+Durante el décimo semestre se exigirán 5.393 días.
+
+A partir del sexto año se exigirán 5.475 días.
+
+No obstante, en el supuesto de los trabajadores que durante todo el año inmediatamente anterior a la fecha del hecho causante hubieran estado contratados a tiempo parcial, el periodo transitorio previsto en el párrafo anterior se incrementará en proporción inversa al porcentaje de jornada realizada en dicho periodo. A estos efectos, el número de días en que ha de incrementarse, en cada caso, el periodo mínimo de cotización exigido en la fecha de entrada en vigor de la Ley de Medidas en materia de Seguridad Social, se reajustará por periodos semestrales en función de la ampliación del periodo transitorio.
+
+> Se modifica por el art. 3.6 de la Ley 40/2007, de 4 de diciembre. Ref. BOE-A-2007-20910.
 
 > Se añade el apartado 4 por el art. 4.2 de la Ley 24/1997, de 15 de julio. Ref. BOE-A-1997-15810.

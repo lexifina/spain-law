@@ -1,0 +1,3 @@
+## Disposición adicional undécima. Apoyo a las familias de las personas con discapacidad.
+
+El Gobierno presentará en el Congreso de los Diputados, en el plazo de un año, un estudio que analice globalmente las diferentes posibilidades para las familias de las personas en situación de discapacidad (patrimonio protegido, previsión social complementaria, convenio especial con la Administración de la Seguridad Social y beneficios fiscales) a fin de garantizar una renta suficiente para las personas discapacitadas que, por la naturaleza o gravedad de sus afecciones, no puedan realizar a lo largo de su vida una actividad profesional y se encuentren desprovistas de apoyo familiar.
