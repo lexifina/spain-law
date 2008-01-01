@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Aplicación del Plan General de Contabilidad de Pymes cuando en ejercicios previos se ha utilizado el Plan General de Contabilidad.
+
+En el primer ejercicio en el que una empresa deje de aplicar el Plan General de Contabilidad y aplique el Plan General de Contabilidad de Pymes, realizará esta aplicación de forma retroactiva, cancelándose al inicio de dicho ejercicio los ajustes por cambios de valor que figuren en el patrimonio neto con cargo o abono a las partidas de los instrumentos financieros que hubieran originado los citados ajustes.
+
+En las primeras cuentas anuales que se formulen aplicando el Plan General de Contabilidad de Pymes, la empresa creará en la memoria un apartado con la denominación «Aspectos derivados de la transición al Plan General de Contabilidad de Pymes», en el que se incluirá una explicación de las principales diferencias entre los criterios contables aplicados en el ejercicio anterior y los actuales, así como la cuantificación del impacto que produce esta variación de criterios contables en el patrimonio neto de la empresa.
