@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Aplicación de las normas sobre declaraciones censales en los Territorios Históricos del País Vasco y en la Comunidad Foral de Navarra.
+
+1. Los empresarios, profesionales y retenedores que tengan su domicilio fiscal en territorio común deberán presentar las declaraciones censales reguladas en este reglamento ante el órgano competente de la Administración tributaria del Estado, sin perjuicio de las obligaciones que les sean exigibles por las Administraciones tributarias de los Territorios Históricos del País Vasco o de la Comunidad Foral de Navarra.
+
+2. Los empresarios, profesionales y retenedores que tengan su domicilio fiscal en territorio vasco o navarro deberán presentar las declaraciones censales reguladas en este reglamento ante el órgano competente de la Administración tributaria del Estado cuando hayan de presentar ante esta autoliquidaciones periódicas y sus correspondientes resúmenes anuales, o declaraciones anuales que incluyan rendimientos de actividades económicas, así como cuando se trate de sujetos pasivos del Impuesto sobre Actividades Económicas que desarrollen actividades económicas en territorio común.
