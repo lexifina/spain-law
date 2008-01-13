@@ -1,35 +1,29 @@
 ## ANEXO IV
 
-## Importe de los complementos de disponibilidad correspondientes al personal de la Guardia Civil que haya pasado o pase a la situación de reserva sin destino a partir de la entrada en vigor de la Ley 42/1999, de 25 de noviembre
-
-Cuerpo de la Guardia Civil
+## Importe de los complementos de disponibilidad correspondiente al personal del Cuerpo de la Guardia Civil que haya pasado o pase a la situación de reserva sin destino a partir de la entrada en vigor de la Ley 42/1999, de 25 de noviembre
 
 | Empleo | Cuantía anual (en euros) |
 | --- | --- |
-| Teniente General | 24.591,72 |
-| General de División | 22.857,48 |
-| General de Brigada | 20.196,96 |
-| Coronel | 18.071,52 |
-| Teniente Coronel | 17.708,64 |
-| Comandante | 17.606,04 |
-| Capitán | 14.945,64 |
-| Teniente | 13.123,92 |
-| Alférez | 12.061,92 |
-| Suboficial Mayor | 14.091,00 |
-| Subteniente | 13.059,12 |
-| Brigada | 10.701,36 |
-| Sargento Primero | 9.972,00 |
-| Sargento | 9.367,44 |
-| Cabo Mayor | 11.857,08 |
-| Cabo Primero | 10.950,36 |
-| Cabo | 10.270,44 |
-| Guardia Civil | 9.063,00 |
+| Teniente General | 26.353,92 |
+| General de División | 22.009,44 |
+| General de Brigada | 19.401,12 |
+| Coronel | 17.317,32 |
+| Teniente Coronel | 17.041,56 |
+| Comandante | 16.941,00 |
+| Capitán | 14.332,80 |
+| Teniente | 12.546,72 |
+| Alférez | 11.505,60 |
+| Suboficial Mayor | 13.558,80 |
+| Subteniente | 12.547,08 |
+| Brigada | 10.235,64 |
+| Sargento Primero | 9.520,56 |
+| Sargento | 8.928,00 |
+| Cabo Mayor | 11.368,68 |
+| Cabo Primero | 10.479,84 |
+| Cabo | 9.813,12 |
+| Guardia Civil | 8.680,56 |
 
-> Se modifica por el art. 2.1 del Real Decreto 29/2009, de 16 de enero. Ref. BOE-A-2009-911.
-
-> Esta modificación tiene efectos económicos desde el 1 de enero de 2009, según establece la disposición final 3.
-
-> Se modifica por el art. 2.1 del Real Decreto 10/2008, de 11 de enero. Ref. BOE-A-2008-518.
+> Se modifica por el art. 2.1 y anexo IV del Real Decreto 10/2008, de 11 de enero. Ref. BOE-A-2008-518.
 
 > Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
 

@@ -4,26 +4,30 @@
 
 | Empleo | Cuantía anual (en euros) |
 | --- | --- |
-| General de División | 20.332,07 |
-| General de Brigada | 17.775,11 |
-| Coronel | 15.732,11 |
-| Teniente Coronel | 15.568,17 |
-| Comandante | 15.469,65 |
-| Capitán | 13.098,69 |
-| Teniente | 11.404,77 |
-| Alférez | 10.385,85 |
-| Suboficial Mayor | 12.461,54 |
-| Subteniente | 11.577,26 |
-| Brigada | 8.645,90 |
-| Sargento Primero | 8.005,34 |
-| Sargento | 7.411,94 |
-| Cabo Primero | 9.276,26 |
-| Cabo | 8.655,14 |
-| Guardia Civil | 7.570,82 |
+| General de División | 22.009,44 |
+| General de Brigada | 19.401,12 |
+| Coronel | 17.317,32 |
+| Teniente Coronel | 17.041,56 |
+| Comandante | 16.941,00 |
+| Capitán | 14.332,80 |
+| Teniente | 12.546,72 |
+| Alférez | 11.505,60 |
+| Suboficial Mayor | 13.558,80 |
+| Subteniente | 12.547,08 |
+| Brigada | 9.557,16 |
+| Sargento Primero | 8.884,68 |
+| Sargento | 8.279,40 |
+| Cabo Primero | 10.137,00 |
+| Cabo | 9.503,40 |
+| Guardia Civil | 8.316,36 |
 
 Cuantías calculadas de conformidad con lo dispuesto en la Ley 28/1994, de 18 de octubre, y en el Real Decreto-ley 12/1995, de 28 de diciembre.
 
-> Se modifica por el art. 2.2 y anexo VII del Real Decreto 5/2007, de 12 de enero. Ref. BOE-A-2007-882.
+> Se modifica por el art. 2.2 y anexo VII del Real Decreto 10/2008, de 11 de enero. Ref. BOE-A-2008-518.
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifica por el art. 2.2 anexo VII del Real Decreto 5/2007, de 12 de enero. Ref. BOE-A-2007-882.
 
 > Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 3.
 
