@@ -8,7 +8,7 @@ Los órganos correspondientes y, en su caso, las Policías de las Comunidades Au
 
 3.ª Artículo 5.3. Inspección y control en materia de seguridad privada, así como requerimiento de informes sobre las características de los armeros de empresas de seguridad.
 
-4.ª Artículo 7.1. La garantía deberá constituirse en la caja que determine la Comunidad Autónoma competente, con arreglo a la normativa correspondiente, y a disposición de sus autoridades.
+4.ª Artículo 7.1 La referencia a la Caja General de Depósitos se entenderá hecha a la caja que determine la comunidad autónoma correspondiente.
 
 5.ª Artículo 12.2. Cancelación de inscripciones de empresas de seguridad.
 
@@ -101,5 +101,7 @@ Autorización para la sustitución de medidas de seguridad por la implantación 
 46.ª Artículo 158. Competencia para la instrucción de procedimientos sancionadores a las empresas de seguridad.
 
 47.ª Artículos 160 y 162. Competencia para la emisión de informe y para acordar la publicación de la sanción.
+
+> Se modifica la función 4 por el art. 1.25 del Real Decreto 4/2008, de 11 de enero. Ref. BOE-A-2008-512.
 
 > Se modifican las funciones numeradas como 6ª, 8ª, 22ª, 26ª y 35ª de la presente disposición que pasa a ser disposición adicional primera por el art. 1.47 del Real Decreto 1123/2001, de 19 de octubre. Ref. BOE-A-2001-21874.
