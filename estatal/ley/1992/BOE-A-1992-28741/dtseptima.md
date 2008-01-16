@@ -6,9 +6,7 @@ No obstante lo dispuesto en el párrafo anterior, estará sujeta al Impuesto Esp
 
 2. Los vehículos de exclusiva aplicación industrial, comercial, agraria, clínica o científica, cuyos modelos de serie hubiesen sido homologados por la Administración tributaria con anterioridad al 1 de enero de 1993, conservarán dicha homologación a efectos de lo previsto en el apartado 1.a).3.) del artículo 65 de la presente Ley.
 
-3. (Derogado)
-
-4. (Derogado)
+> Se derogan los apartados 3 y 4, con efectos a partir del 1 de enero de 2008, por la disposición adicional 8.1.5 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744. en la redacción dada por la disposición adicional 62 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295.
 
 > Se derogan los apartados 3 y 4, con efectos a partir del 1 de enero de 2008, por la disposición adicional 8.1.5 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744
 

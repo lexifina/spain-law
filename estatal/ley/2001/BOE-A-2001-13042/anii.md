@@ -968,8 +968,6 @@ Recrecimiento de la presa de Valdeinfierno.
 
 Presa de la rambla de Lebor.
 
-Recrecimiento del embalse de Camarillas.
-
 Dragado del embalse del azud de Ojós y adecuación ambiental de su entorno.
 
 Puente de la Vicaría sobre el embalse de La Fuensanta.
@@ -1340,8 +1338,6 @@ Canal de Navarra.
 
 Canal Segarra-Garrigues.
 
-Embalse de Santaliestra.
-
 Revestimiento y modernización del Canal Imperial de Aragón entre p. k. 31 y 77.
 
 Canal de la Hoya de Huesca.
@@ -1624,8 +1620,6 @@ Canalización de los tramos urbanos de las rieras St.
 
 Domenec, Gavarra y Buscarons y del torrente de Can Figuerola. (Canet de Mar).
 
-Conexión CAT-Abrera.
-
 Plantas de desalación en el ámbito territorial de la Costa Brava y de la Costa Dorada.
 
 Red de abastecimiento de la Llosa del Cavall.
@@ -1853,6 +1847,8 @@ Servicios centrales
 Programa de control y seguimiento de la calidad de las aguas.
 
 Red de estaciones foronómicas.
+
+> Se suprime el inciso destacado por la disposición adicional 71 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295.
 
 > Se deroga los incisos destacados y se modifica por la disposición derogaroria única.2 y el art. único.19 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
 
