@@ -1,0 +1,9 @@
+## Disposición adicional tercera. Titulaciones equivalentes y vinculación con capacitaciones profesionales.
+
+1. De acuerdo con lo establecido en la disposición adicional trigesimoprimera de la Ley Orgánica 2/2006, de Educación, el título de Técnico Especialista en Viticultura y Enotecnia, rama agraria, de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa, tendrán los mismos efectos profesionales y académicos que el título de Técnico Superior en Vitivinicultura establecido en el presente real decreto.
+
+2. La formación establecida en este real decreto en el módulo profesional de Formación y orientación laboral capacita para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de nivel básico en prevención de riesgos laborales establecidas en el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención de Riesgos Laborales, siempre que tenga, al menos, 45 horas lectivas.
+
+3. La formación establecida en el presente real decreto en el módulo profesional de Legislación Vitivinícola y Seguridad Alimentaria garantiza el nivel de conocimiento necesario para posibilitar unas prácticas correctas de higiene y manipulación de alimentos de acuerdo con la exigencia del artículo 4.6 del Real Decreto 202/2000, de 11 de febrero, por el que se establecen las normas relativas a los manipuladores de alimentos.
+
+4. La formación establecida en el presente real decreto, en el conjunto de los módulos profesionales del Título, garantiza el nivel de conocimiento exigido para ser habilitado en el ejercicio profesional de técnico especialista en vitivinicultura. Y a efectos laborales se declara equivalente con el título de técnico superior en Industria Alimentaria, establecido por el Real Decreto 2050/1995, de 22 de diciembre, de conformidad con el artículo 4 del Real Decreto 595/2002, de 28 de junio.
