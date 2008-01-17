@@ -1,0 +1,11 @@
+## Artículo 4. Procedimiento de remisión y formatos.
+
+1. Las empresas y órganos del artículo 2.1, letras a), b), c) y d), del presente real decreto remitirán a la Intervención General de la Administración del Estado la información que se enumera en el artículo anterior, dentro de los siete meses siguientes a la terminación del ejercicio económico a que dicha información se refiera.
+
+2. Las empresas enumeradas en el artículo 2.1, letras a) y c), del presente real decreto, remitirán la información a través de los formularios de captura interactiva previstos entre los medios informáticos y telemáticos habilitados al efecto por la Intervención General de la Administración del Estado o por el procedimiento que ésta pueda establecer en desarrollo del presente real decreto.
+
+3. Los órganos enumerados en el artículo 2.1, letra d), del presente real decreto remitirán, para cada empresa de su ámbito, un fichero PDF por cada uno de los tipos de información, a través de los medios informáticos y telemáticos habilitados al efecto por la Intervención General de la Administración del Estado.
+
+4. Las empresas del artículo 2.1, letra b), que, según la Ley 4/2007, de 3 de abril, deban remitir la información a la que se refiere el artículo 3 del presente real decreto por conducto de los órganos del artículo 2.1, letra d), efectuarán el envío de dicha información a esos órganos de acuerdo con el procedimiento de remisión aprobado por la respectiva comunidad autónoma o entidad local.
+
+No obstante, los órganos anteriores podrán autorizar a efectuar el citado envío de información utilizando los medios informáticos y telemáticos habilitados al efecto por la Intervención General de la Administración del Estado. En este caso, previamente a la primera remisión de información, los órganos del artículo 2.1, letra d), deberán comunicar a la Intervención General de la Administración del Estado, a través de dichos medios informáticos y telemáticos, la utilización, por las empresas de su ámbito, del procedimiento establecido en este párrafo. Posteriormente, las empresas remitirán a los correspondientes órganos del artículo 2.1, letra d), a través de dichos medios, un fichero PDF por cada uno de los tipos de información.
