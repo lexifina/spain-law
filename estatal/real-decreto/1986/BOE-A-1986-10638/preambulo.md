@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 157, de 2 de julio de 1986. Ref. BOE-A-1986-17435
+Téngase en cuenta que el Reglamento aprobado por este Real Decreto pasa a denominarse "Reglamento del Dominio Público Hidráulico que desarrolla los títulos preliminar, I, IV, V, VI, VII y VIII del texto refundido de la Ley de Aguas, aprobado por el Real Decreto Legislativo 1/2001, de 20 de julio", según establece el art. único.1 del Real Decreto 9/2008, de 11 de enero. Ref. BOE-A-2008-755
