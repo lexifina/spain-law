@@ -30,6 +30,12 @@ Liquidación de la tasa con código 053 «Tasa por prestación de servicios y ac
 
 Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
 
+Liquidación de la tasa con código 054 «Tasa por servicios prestados por órganos del anterior Ministerio de Industria y Energía»
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+> Se amplía por el apartado 1 de la Resolución 17 de diciembre de 2007. Ref. BOE-A-2007-22517.
+
 > Se amplía por el apartado 1 de la Resolución de 9 de julio de 2007. Ref. BOE-A-2007-14219.
 
 > Se modifica por el apartado 7 de la Orden APU/513/2007, de 1 de marzo. Ref. BOE-A-2007-4943.

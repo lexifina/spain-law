@@ -10,6 +10,8 @@ Inscripción y pago de la correspondiente tasa en las convocatorias de procesos 
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2007/176/14219_002.png)
 
+> Véase el apartado 2 de la Resolución de 17 de diciembre de 2007 Ref. BOE-A-2007-22517 en lo referente a la inclusión de determinados trámites.
+
 > Se amplía por el apartado 2 y anexo de la Resolución de 9 de julio de 2007. Ref. BOE-A-2007-14219.
 
 > Se modifica por el apartado 8 de la Orden APU/513/2007, de 1 de marzo. Ref. BOE-A-2007-4943.
