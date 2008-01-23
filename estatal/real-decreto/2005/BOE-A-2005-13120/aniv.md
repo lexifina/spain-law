@@ -30,7 +30,7 @@ k) Nombre, apellidos y firma del representante de las autoridades competentes qu
 
 No obstante, el libro de registro de los mataderos podrá no incluir los datos contenidos en los párrafos d), e), g), i), j) y k) anteriores.
 
-2. A partir del 1 de enero de 2008 se registrará, adicionalmente, a la información mencionada en el apartado 1, para cada animal, nacido después de esa fecha, identificado individualmente:
+2. A partir del 31 de diciembre de 2009 se registrará, adicionalmente a la información mencionada en el apartado 1, para cada animal nacido después de esa fecha, identificado individualmente:
 
 a) Código de identificación del animal.
 
@@ -39,3 +39,7 @@ b) Año de nacimiento y fecha de identificación.
 c) Raza y, si se conoce, el genotipo.
 
 d) Mes y año si el animal murió en la explotación.
+
+> Se modifica el apartado 2 por el art. único.3 de la Orden APA/38/2008, de 17 de enero. Ref. BOE-A-2008-1096
+
+> Esta modificación tiene efectos retroactivos desde el 1 de enero de 2008, según establece la disposición transitoria única.
