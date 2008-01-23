@@ -1,5 +1,7 @@
 ## Disposición transitoria tercera. Aplicación del crédito de bonificaciones en el ejercicio 2007.
 
-Se podrán bonificar con arreglo a esta orden las acciones formativas, incluidos los permisos individuales de formación, iniciadas con anterioridad a la fecha de entrada en vigor de la misma, siempre que se comunique su inicio antes del 1 de diciembre de 2007.
+Se podrán bonificar con arreglo a esta orden las acciones formativas, incluidos los permisos individuales de formación, iniciadas con anterioridad a la fecha de entrada en vigor de la misma, siempre que se comunique su inicio y finalización con anterioridad a que finalice el plazo de presentación del boletín de cotización a la Seguridad Social en el que se apliquen las bonificaciones las empresas y, en todo caso, antes del 1 de febrero de 2008.
 
 A los efectos de lo previsto en el párrafo anterior, respecto de aquellas acciones formativas bonificables al amparo de esta orden que no lo fueran conforme al Real Decreto 1046/2003, de 1 de agosto, por el que se regula el subsistema de formación profesional continua y su normativa de desarrollo, se entenderá cumplida la obligación prevista en el artículo 16.1 cuando la empresa hubiese informado a la representación legal de los trabajadores de la ejecución de dichas acciones con al menos 15 días de antelación al de finalización del plazo establecido en el párrafo anterior. Si la representación legal de los trabajadores plantease discrepancias en los 15 días siguientes a dicha información, será de aplicación el procedimiento previsto en los apartados 2 y siguientes del artículo 16 de esta orden.
+
+> Se modifica el párrafo primero por el art. único de la Orden TAS/37/2008, de 16 de enero. Ref. BOE-A-2008-1095.
