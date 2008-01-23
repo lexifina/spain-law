@@ -1,7 +1,9 @@
 ## Artículo quince.
 
-1. La Guardia Civil, por su condición de Instituto armado de naturaleza militar, a efectos disciplinarios, se regirá por su normativa especifica.
+1. La Guardia Civil, por su condición de instituto armado de naturaleza militar, a efectos disciplinarios, se regirá por su normativa específica. Cuando la Guardia Civil actúe en el cumplimiento de misiones de carácter militar o cuando el personal de dicho Cuerpo se integre en unidades militares, resultará de aplicación el régimen disciplinario de las Fuerzas Armadas.
 
-En todo caso, será competente para la imposición de la sanción de separación del servicio el Ministro de Defensa, previo informe del Ministro del Interior.
+En todo caso, será competente para la imposición de la sanción de separación del servicio el Ministro de Defensa, a propuesta del de Interior.
 
-2. Los miembros de la Guardia Civil no podrán pertenecer a partidos políticos o sindicatos ni hacer peticiones colectivas: individualmente podrán ejercer el derecho de petición en los términos establecidos en su legislación especifica.
+2. Los miembros de la Guardia Civil no podrán pertenecer a partidos políticos o sindicatos ni hacer peticiones colectivas: individualmente podrán ejercer el derecho de petición en los términos establecidos en su legislación específica.
+
+> Se modifica el apartado 1 por la disposición adicional 6 de la Ley 12/2007, de 22 de octubre. Ref. BOE-A-2007-18392
