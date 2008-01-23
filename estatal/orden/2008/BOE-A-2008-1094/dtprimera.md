@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Inexigibilidad de flota mínima.
+
+Las autorizaciones de arrendamiento de vehículos con conductor obtenidas por canje de las antiguas licencias municipales de la clase C, conforme a lo previsto en el párrafo segundo de la disposición transitoria segunda del ROTT, se regirán por lo dispuesto en esta orden, si bien, en tanto continúen bajo la misma titularidad, no les será exigible el número mínimo de vehículos previstos en el artículo 10.
+
+Los titulares de autorizaciones de arrendamiento de vehículos con conductor actualmente vigentes que no se encuentren incluidas en el supuesto contemplado en el párrafo anterior, podrán continuar el ejercicio de su actividad cumpliendo el requisito relativo al número mínimo de vehículos con arreglo a lo que se disponía en la Orden del Ministro de Obras Públicas y Transportes de 14 de junio de 1993, cuando dichas autorizaciones se hubiesen otorgado con anterioridad al 1 de septiembre de 1998, y a lo que se disponía en la Orden de 30 de julio de 1998, cuando se hubiesen otorgado con posterioridad.
+
+En todo caso, tales autorizaciones podrán ser transmitidas sin que se tenga en cuenta el requisito relativo al número mínimo de vehículos cuando el adquirente ya fuese titular de otras autorizaciones de arrendamiento de vehículos con conductor domiciliadas en la misma comunidad autónoma o se trate de un heredero forzoso del cedente en los supuestos previstos en el artículo 21.
