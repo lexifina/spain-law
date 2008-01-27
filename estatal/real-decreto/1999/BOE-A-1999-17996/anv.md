@@ -24,6 +24,12 @@ Mostaza y productos derivados. Granos de sésamo y productos a base de granos de
 
 Anhídrido sulfuroso y sulfitos en concentraciones superiores a 10 mg/kg o 10 mg/litro expresado como SO2.
 
+Altramuces y productos a base de altramuces.
+
+Moluscos y productos a base de moluscos.
+
+> Se añaden los dos últimos párrafos por el art. único del Real Decreto 36/2008, de 18 de enero. Ref. BOE-A-2008-1402.
+
 > Véase el art. único y anexo del Real Decreto 1164/2005, de 30 de septiembre, sobre suspensión de la aplicación de determinados ingredientes hasta el 25 de noviembre de 2007. Ref. BOE-A-2005-16259.
 
 > Se añade por el art. único.7 y anexo del Real Decreto 2220/2004, de 26 de noviembre. Ref. BOE-A-2004-20122.
