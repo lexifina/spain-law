@@ -1,0 +1,5 @@
+## Disposición final segunda. Aplicación del derecho de la Unión Europea.
+
+Este real decreto se dicta de conformidad con el Reglamento (CE) n.º 2042/2003 de la Comisión, de 20 de noviembre de 2003, sobre el mantenimiento de la aeronavegabilidad de las aeronaves y productos aeronáuticos, componentes y equipos y sobre la aprobación de las organizaciones y personal que participan en dichas tareas, y sin perjuicio de lo previsto en el mismo y en el Reglamento (CE) n.º 1592/2002 del Parlamento Europeo y del Consejo, de 15 de julio de 2002, sobre normas comunes en el ámbito de la aviación civil y por el que se crea una Agencia Europea de Seguridad Aérea.
+
+Lo dispuesto en este real decreto no exime de la observancia del deber de registro de cualquier defecto que no se rectifique antes del vuelo conforme a lo previsto en la disposición M.A. 403 del anexo I del Reglamento (CE) n.º 2042/2003 de la Comisión, de 20 de noviembre de 2003, que será de obligado cumplimiento tanto en los supuestos en los que el piloto utilice la lista de equipo mínimo, como en los casos en los que se conceda una exención según lo dispuesto en el artículo 9.
