@@ -1,0 +1,3 @@
+## Disposición final tercera. Actualizaciones.
+
+El Ministerio de Industria, Turismo y Comercio, previo informe de la Junta Interministerial Reguladora del Comercio Exterior de Material de Defensa y de Doble Uso, actualizará las listas de materiales, productos y tecnologías incluidas en los Anexos del Reglamento aprobado por el Real Decreto que desarrolle esta ley y de acuerdo con los cambios aprobados en los respectivos regímenes internacionales (Naciones Unidas, Unión Europea, Tratado de no Proliferación Nuclear, Convención de Armas Químicas, Convención de Armas Biológicas y Toxínicas, Arreglo de Wassenaar, Régimen de Control de Tecnología de Misiles, Grupo de Suministradores Nucleares y Grupo Australia).
