@@ -1,0 +1,5 @@
+## Disposición transitoria quinta. Régimen de control y supervisión del dopaje en animales.
+
+1. Sin perjuicio de lo indicado en la Disposición adicional primera de la Ley Orgánica 7/2006 y la Derogatoria Única del presente real decreto, con el objetivo de hacer efectivo el régimen de control y supervisión, las federaciones deportivas españolas que sean titulares de competiciones en las que participen animales deberán disponer de un reglamento para la toma y análisis de muestras biológicas que regule los aspectos esenciales de dichos actos en competición y fuera de ella, la indicación los profesionales que deben realizar dichas actividades, tras la habilitación por el Consejo Superior de Deportes.
+
+2. Los jueces y comisarios de competición estarán habilitados para someter a control antes o después de la competición a los animales que participen o hayan participado en las mismas. Los reglamentos federativos determinarán los efectos sobre la competición y la coordinación con los de carácter disciplinario.

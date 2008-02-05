@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Órganos competentes para la tramitación de los procedimientos disciplinarios.
+
+1. En tanto las federaciones deportivas procedan a la adaptación de sus reglamentos en materia antidopaje a la Ley Orgánica 7/2006 y a sus disposiciones de desarrollo, caso de no regularse en las reglamentaciones federativas vigentes un órgano específicamente competente en materia de dopaje, la competencia corresponderá al órgano disciplinario de primera o única instancia. En las competiciones profesionales, será competente el órgano disciplinario cuyos miembros sean designados mediante acuerdo entre la liga y federación correspondiente; si estos designaran miembros de varios órganos, resultará competente el que actúe en primera instancia.
+
+2. En tanto se proceda al nombramiento de los miembros de la lista de personas elegibles para integrar el órgano arbitral del Comité Español de Disciplina Deportiva, la designación de los miembros de dicho órgano recaerá necesariamente en los miembros del Comité Español de Disciplina Deportiva, siguiéndose en lo demás el procedimiento de designación regulado en el presente real decreto.
