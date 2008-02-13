@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Adecuación para la lectura remota.
+
+Todos los contadores incluidos en el ámbito de aplicación de la presente orden podrán ser modificados, previa solicitud y con la autorización de la Administración pública competente en materia metrológica, para la incorporación de un sistema que permita su lectura a distancia, siempre que con posterioridad sean sometidos a la verificación después de reparación o modificación regulada en el capítulo II del título I, en el caso de los contadores tipo A y lo determinado en el capítulo I título III, en el caso de los contadores tipo B. La adecuación no deberá tener influencia alguna sobre las mediciones que realice el contador.
