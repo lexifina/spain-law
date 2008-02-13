@@ -34,6 +34,12 @@ Liquidación de la tasa con código 054 «Tasa por servicios prestados por órga
 
 Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
 
+Subvenciones de Planes de Formación Continua
+
+Solicitud, Adaptación, Modificación y Justificación de ayudas económicas para la gestión de Planes de Formación Continua.
+
+> Se amplía por el apartado 1 de la Resolución de 21 de enero de 2008. Ref. BOE-A-2008-1326.
+
 > Se amplía por el apartado 1 de la Resolución 17 de diciembre de 2007. Ref. BOE-A-2007-22517.
 
 > Se amplía por el apartado 1 de la Resolución de 9 de julio de 2007. Ref. BOE-A-2007-14219.
