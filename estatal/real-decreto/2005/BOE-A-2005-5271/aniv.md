@@ -6,8 +6,6 @@
 
 Las condiciones de reacción al fuego que establece la reglamentación vigente se deben cumplir acreditando, para la clase exigida conforme a la norma UNE 23727:1990, las clases determinadas conforme a la norma UNE EN 13501-1:2002 que se indican bien en la tabla 4.1 para los revestimientos de paredes o techos, para los aislamientos térmicos o acústicos o para los conductos, bien en la tabla 4.2 para los revestimientos de suelos.
 
-No obstante, si la clase de un producto determinada según la norma UNE 23727:1990 antes de la fecha de entrada en vigor de este real decreto es admisible para una aplicación determinada, dicho producto seguirá siendo admisible para esa aplicación, hasta que se establezca una nueva regulación de la reacción al fuego para dicha aplicación basada en su escenario de riesgo específico. Si el marcado «CE» fuera ya exigible al producto en cuestión, para poder acogerse a esta posibilidad se deberá acreditar la clase de reacción al fuego según la norma UNE 23727:1990 mediante un sistema de evaluación de la conformidad equivalente al del marcado «CE».
-
 De acuerdo con el capítulo 13 de la norma UNE-EN 13501-1:2002, si un producto concreto se destina a aplicaciones de uso final distintas, esto puede dar por resultado distintas clasificaciones.
 
 ## TABLA 4.1
@@ -48,3 +46,5 @@ CLASES DE REACCIÓN AL FUEGO DE REVESTIMIENTOS DE SUELOS
 a) UNE EN 1021-1:1994, «Valoración de la inflamabilidad del mobiliario tapizado – Parte 1: Fuente de ignición: cigarrillo en combustión.
 
 b) UNE EN 1021-2:1994, «Valoración de la inflamabilidad del mobiliario tapizado –Parte 2: Fuente de ignición: llama equivalente a una cerilla».
+
+> Se deroga el segundo párrafo del apartado 4.1 por la disposición derogatoria única del Real Decreto 110/2008, de 1 de febrero. Ref. BOE-A-2008-2388.
