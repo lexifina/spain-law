@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Régimen aplicable a la prevención de riesgos laborales en operaciones y actividades en los que exista riesgo de exposición al amianto.
+
+Además de lo previsto en este real decreto en materia de residuos, las operaciones y actividades en las que los trabajadores estén expuestos o sean susceptibles de estar expuestos a fibras de amianto o de materiales que lo contengan se regirán, en lo que se refiere a prevención de riesgos laborales, por el Real Decreto 396/2006, de 31 de marzo, por el que se establecen las disposiciones mínimas de seguridad y salud aplicables a los trabajos con riesgo de exposición al amianto.

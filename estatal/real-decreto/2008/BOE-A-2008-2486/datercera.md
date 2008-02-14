@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Régimen aplicable a los excedentes de excavación generados en obras de titularidad pública sometidas a evaluación de impacto ambiental.
+
+Las medidas previstas en este real decreto, salvo lo referido en el artículo 4.1.a), no serán aplicables a los excedentes generados en excavaciones y demoliciones de obras de titularidad pública, a los que será de aplicación lo previsto en el Texto Refundido de la Ley de Evaluación de Impacto Ambiental de Proyectos, aprobado por Real Decreto Legislativo 1/2008, de 11 de enero. Cuando dichos excedentes estuvieran contaminados por sustancias peligrosas será de aplicación la normativa específica de residuos.
