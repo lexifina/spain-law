@@ -1,0 +1,25 @@
+## Disposición final segunda. Modificación del Real Decreto 1644/1997, de 31 de octubre, relativo a las normas de autorización administrativa y requisitos de solvencia de las sociedades de reafianzamiento.
+
+El artículo 12 del Real Decreto 1644/1997, de 31 de octubre, sobre normas de autorización administrativa y requisitos de solvencia de las sociedades de reafianzamiento queda redactado de la siguiente forma:
+
+«Artículo 12. Régimen de recursos propios mínimos y diversificación de riesgos.
+
+1. Las sociedades de reafianzamiento deberán mantener, en todo momento, unos recursos propios no inferiores a la suma de los siguientes requerimientos:
+
+a) Por el riesgo de crédito de sus compromisos, el 8 por ciento de los reafianzamientos que asuman sobre garantías crediticias y el 4 por ciento de las restantes reaseguramientos o cauciones que concedan.
+
+b) Por riesgo operacional, el 15 por ciento de sus ingresos financieros netos anuales, sean por rendimientos de los activos en que inviertan su patrimonio, sean por comisiones derivadas de las garantías de toda índole que concedan.
+
+c) Los que pueda establecer el Banco de España, siguiendo las disposiciones análogas que puedan resultar de aplicación a las entidades de crédito, para cubrir el riesgo de crédito u operacional derivado de compromisos o inversiones no habituales en su actividad.
+
+No obstante, los compromisos que se beneficien de contratos generales de reaseguramiento podrán recibir un factor de reducción a efectos de los requerimientos indicados en los dos primeros guiones del párrafo anterior, en los términos que el Banco de España determine y sin que puedan ser superiores al 0,5. A tal efecto el Banco de España tendrá en cuenta:
+
+a) las cláusulas específicas de los contratos y la naturaleza de la garantía recibida;
+
+b) la naturaleza de las contrapartes que reaseguren, así como el importe del riesgo indirecto asumido con las mismas; y,
+
+c) a las características de las operaciones que se beneficien de la citada reducción de riesgo.
+
+También se faculta al Banco de España para obligar a las sociedades de reafianzamiento a mantener recursos propios adicionales a los exigidos con carácter mínimo, hasta en un 25 por ciento de su importe, cuando aprecie, y en tanto subsistan, deficiencias en los procedimientos internos de la entidad o cuando la naturaleza particular de las operaciones por ellas concertadas por la entidad o su concentración sectorial o de otro orden, pueda menoscabar la cobertura de sus riesgos.
+
+2. El valor de todos los riesgos reavalados por una sociedad de reafianzamiento respecto de una sola persona o grupo no podrá exceder del 10 por ciento de sus recursos propios.»
