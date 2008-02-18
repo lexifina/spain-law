@@ -1,0 +1,5 @@
+## Cláusula 11. Implicaciones de una liquidación fallida.
+
+Si, llegado el cierre del día de TARGET2, no fuera posible liquidar una posición de efectivo por indisponibilidad o insuficiencia de fondos, el asiento de esta liquidación no se realizará parcialmente, ni se procederá a su desagregación, por lo que el fallo en la liquidación de tal posición de efectivo implicará el fallo en la liquidación de todas las operaciones de depósito implícitas en la misma y que, por tanto, previamente hubieran sido compensadas para determinar dicha posición.
+
+Si el fallo en la liquidación de las posiciones de efectivo a que se refiere el párrafo anterior afectara a una operación de depósito en el momento de su inicio, impidiéndose, por tanto, la cesión de fondos por la entidad prestamista a la prestataria, el Servicio considerará revocada, dándola de baja a efectos de su liquidación, la orden de devolución de fondos que hubiera correspondido, en ausencia de tal fallo, a cargo de la entidad prestataria al vencimiento de la misma.

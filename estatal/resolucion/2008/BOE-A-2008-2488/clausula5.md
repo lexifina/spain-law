@@ -1,0 +1,5 @@
+## Cláusula 5. Responsabilidades.
+
+La admisión de una entidad como miembro del Servicio no supone, en modo alguno, que el Banco de España garantice el buen fin de sus operaciones en el mercado de depósitos interbancarios. Las entidades miembro asumirán por su propia y exclusiva cuenta los riesgos de crédito, de tipo de interés, de liquidación y cualquier otro que contraigan en la contratación, compensación y liquidación de las operaciones de depósito registradas por dicho Servicio.
+
+Las entidades miembro del Servicio que sean participantes directos en TARGET2 son responsables de que su cuenta en TARGET2 para hacer frente a las liquidaciones de las posiciones de efectivo propias o domiciliadas en su cuenta disponga en todo momento de fondos suficientes. Asimismo, las entidades miembro del Servicio que sean participantes indirectos en TARGET2 son responsables de que la cuenta de TARGET2 en la que domicilien sus liquidaciones de las posiciones de efectivo resultantes disponga en todo momento de fondos suficientes para atender dichas liquidaciones.
