@@ -10,13 +10,17 @@ Condiciones generales
 
 3. Caso de contener sustancias radiactivas deberán estar dispuestas en forma de fuente encapsulada de manera que se asegure una protección contra cualquier escape o fuga de la sustancia radiactiva.
 
-4. El aparato no presentará en condiciones normales de funcionamiento una tasa de dosis superior a µSv/h en ningún punto situado a 0,1 m de la superficie accesible del mismo.
+4. El aparato no presentará en condiciones normales de funcionamiento una tasa de dosis superior a 1 µSv/h en ningún punto situado a 0,1 m de la superficie accesible del mismo.
 
 5. La aprobación del tipo ha de ser solicitada por el fabricante nacional o, en su caso, por el importador.
 
 Para la aprobación de tipo de un aparato de fabricación extranjera, se precisará que su fabricación o distribución esté autorizada en el país de origen o que cumpla con los requisitos legales en él establecidos, lo que se demostrará con la oportuna documentación justificativa.
 
-6. La solicitud de aprobación del tipo se tramitará de acuerdo con el artículo 4, y se acompañará de los documentos siguientes:
+6. La solicitud de aprobación del tipo se tramitará de acuerdo con el artículo 4 del presente Reglamento.
+
+Se podrá dar cobertura en una única aprobación de tipo a los aparatos que sean del mismo fabricante y para el mismo campo de aplicación, no pudiéndose incluir en la misma aprobación, aparatos que incorporen sustancias radiactivas con aquellos que sean generadores de radiaciones ionizantes.
+
+La solicitud irá acompañada de los documentos siguientes:
 
 a) Documentación acreditativa de que el solicitante, si se trata de fabricación nacional, cuenta con autorización de instalación radiactiva.
 
@@ -36,27 +40,27 @@ b) Documentación que permita un pleno conocimiento del tipo a aprobar. Dicha do
 
 7.º Análisis de riesgos en situaciones que accidentalmente puedan presentarse, incluyendo utilizaciones incorrectas. En el caso de aparatos provistos de material radiactivo, el análisis considerará el acceso a la población por pérdidas de control sobre el mismo.
 
-8.º Manual de operación, en español, que se entregará a los usuarios y que recoja sus características técnicas e instrucciones de uso, información sobre sus riesgos y las recomendaciones básicas de protección radiológica a considerar durante su uso o en caso de emergencia, avería o rotura.
+8.º Manual de operación, en español, que se entregará a los usuarios y que recoja sus características técnicas e instrucciones de uso, información sobre sus riesgos y las recomendaciones básicas de protección radiológica a considerar durante su uso o, en su caso, de emergencia, avería o rotura.
 
 9.º Programa de mantenimiento, en español, que incluya, si es el caso, las verificaciones periódicas que el fabricante recomienda efectuar sobre los sistemas o parámetros que afecten a la seguridad de los aparatos, señalando expresamente aquellas que, en base a sus riesgos, no podrá efectuar el usuario.
 
-c) Para aparatos provistos de material radiactivo se hará una propuesta de gestión del mismo al final de su vida útil. Si es el caso, la propuesta se apoyará con una análisis de los riesgos que dicha gestión pueda implicar para la población. En el caso de que se prevea la retirada por el suministrador de origen, se aportará un documento original emitido por el mismo, que garantice esa retirada.
+c) Para aparatos provistos de material radiactivo se hará una propuesta de gestión del mismo al final de su vida útil. Si es el caso, la propuesta se apoyará con un análisis de los riesgos que dicha gestión pueda implicar para la población. En el caso de que se prevea la retirada por el suministrador de origen, se aportará un documento original emitido por el mismo, que garantice esa retirada.
 
 d) Documentación acreditativa de las normas de garantía de calidad aplicadas por el fabricante del aparato productor de radiaciones ionizantes.
 
 e) En el caso de fabricación nacional, autorización de fabricación de los aparatos productores de radiaciones ionizantes.
 
-f) En el caso de tratarse de mercancía importada, la Dirección General de la Energía o el Consejo de Seguridad Nuclear podrán requerir la traducción al idioma español de la documentación que se estime necesaria, avalada por el Consulado de España en el país de origen.
+f) En el caso de tratarse de mercancía importada, la Dirección General de Política Energética y Minas o el Consejo de Seguridad Nuclear podrán requerir la traducción al idioma español de la documentación que se estime necesaria, avalada por el consulado de España en el país de origen.
 
 7. El Consejo de Seguridad Nuclear, una vez recibida la copia de toda la documentación, procederá a emitir su dictamen técnico sobre seguridad, para lo que podrá solicitar del peticionario, si lo considera preciso, las aclaraciones que considere necesarias.
 
-8. El dictamen del Consejo de Seguridad Nuclear, junto con las aclaraciones que, en su caso, haya aportado el peticionario, será remitido por dicho organismo a la Dirección General de la Energía.
+8. El dictamen del Consejo de Seguridad Nuclear, junto con las aclaraciones que, en su caso, haya aportado el peticionario, será remitido por dicho organismo a la Dirección General de Política Energética y Minas.
 
-9. Recibido el dictamen del Consejo de Seguridad Nuclear, la Dirección General de la Energía adoptará la resolución que proceda.
+9. Recibido el dictamen del Consejo de Seguridad Nuclear, la Dirección General de Política Energética y Minas adoptará la resolución que proceda.
 
-10. La Dirección General de la Energía, en las resoluciones aprobatorias de tipos, describirá las características del tipo, la utilización para la que se admite y las condiciones y obligaciones a que se somete y las siglas y número que le corresponden, reservándose el derecho de imponer nuevas condiciones. Las citadas resoluciones aprobatorias se publicarán en el «Boletín Oficial del Estado».
+10. La Dirección General de Política Energética y Minas, en las resoluciones aprobatorias de tipos, describirá las características del tipo, la utilización para la que se admite y las condiciones y obligaciones a que se somete y las siglas y número que le corresponden, reservándose el derecho de imponer nuevas condiciones. Las citadas resoluciones aprobatorias se publicarán en el "Boletín Oficial del Estado".
 
-11. La Dirección General de la Energía, a propuesta del Consejo de Seguridad Nuclear, podrá requerir del importador o fabricante nacional que se efectúen ensayos o pruebas sobre determinadas unidades suministradas, conducentes a comprobar que mantienen las condiciones de seguridad del tipo aprobado. En el caso de que se detecten desviaciones, la Dirección General de la Energía podrá anular la aprobación del tipo.
+11. La Dirección General de Política Energética y Minas, a propuesta del Consejo de Seguridad Nuclear, podrá requerir del importador o fabricante nacional que se efectúen ensayos o pruebas sobre determinadas unidades suministradas, conducentes a comprobar que mantienen las condiciones de seguridad del tipo aprobado. En el caso de que se detecten desviaciones, la Dirección General de Política Energética y Minas podrá anular la aprobación del tipo.
 
 12. El fabricante español o el importador de un aparato con el tipo aprobado, quedan obligados a suministrar junto a cada ejemplar la siguiente documentación:
 
@@ -64,7 +68,7 @@ a) Un certificado en el que se haga constar:
 
 1.º El número de serie del aparato y su fecha de fabricación.
 
-2.º Declaración de que el tipo ha sido aprobado por la Dirección General de la Energía, señalando el número de aprobación y la fecha de Resolución y la del «Boletín Oficial del Estado» en el que ha sido publicada.
+2.º Declaración de que el tipo ha sido aprobado por la Dirección General de Política Energética y Minas, señalando el número de aprobación y la fecha de la resolución y la del "Boletín Oficial del Estado" en el que ha sido publicada.
 
 3.º Que el aparato corresponde exactamente al tipo aprobado.
 
@@ -82,6 +86,8 @@ d) Cualquier otra documentación establecida en la aprobación del tipo.
 
 13. Los aparatos productores de radiaciones ionizantes que se suministren deberán ir señalizados tal y como se establezca en la correspondiente aprobación del tipo.
 
-14. El usuario del aparato viene obligado a respetar las condiciones impuestas por la Dirección General de la Energía en la Resolución por la que se apruebe el tipo.
+14. El usuario del aparato viene obligado a respetar las condiciones impuestas por la Dirección General de Política Energética y Minas en la resolución por la que se apruebe el tipo.
+
+> Se modifica por el art. 7.4 del Real Decreto 35/2008, de 18 de enero. Ref. BOE-A-2008-2935.
 
 > Redactado el apartado 6.b).8º conforme a la corrección de erratas publicada en BOE núm. 31, de 5 de febrero de 2000. Ref. BOE-A-2000-2411
