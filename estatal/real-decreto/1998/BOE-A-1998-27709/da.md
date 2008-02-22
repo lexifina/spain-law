@@ -1,3 +1,5 @@
-## Disposición adicional primera. Títulos extranjeros.
+## Disposición adicional primera.
 
-La homologación o reconocimiento de títulos extranjeros por el correspondiente español de Psicólogo Especialista en Psicología Clínica se efectuará por el Ministerio de Educación y Cultura. El procedimiento se atendrá, con las necesarias adaptaciones, a lo previsto en la Orden de 14 de octubre de 1991 («Boletín Oficial del Estado» del 23), por la que se regulan las condiciones y el procedimiento de homologación de los títulos extranjeros de farmacéuticos y médicos especialistas por los correspondientes títulos oficiales españoles, modificada por la Orden de 16 de octubre de 1996 («Boletín Oficial del Estado» del 19) y, en su caso, por lo previsto en la Directiva 89/48/CEE y en el Real Decreto 1665/1991, de 25 de octubre, y demás disposiciones que trasponen al ordenamiento jurídico español dicha Directiva relativa a un sistema general de reconocimiento de títulos de Enseñanza Superior que sancionan formaciones profesionales de una duración mínima de tres años.
+(Derogada).
+
+> Se deroga por la disposición derogatoria 1 del Real Decreto 183/2008, de 8 de febrero. Ref. BOE-A-2008-3176

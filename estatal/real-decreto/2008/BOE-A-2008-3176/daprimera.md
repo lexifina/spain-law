@@ -1,0 +1,5 @@
+## Disposición adicional primera. Supuestos especiales para el nombramiento de determinados tutores.
+
+1. En las especialidades en Ciencias de la Salud de nueva creación y las que a la entrada en vigor de este real decreto no se hayan desarrollado o estén en período de implantación, los requisitos exigidos en el artículo 11.5 para el nombramiento de tutores se sustituirán por una experiencia acreditada que se corresponda con el ámbito profesional de la especialidad de que se trate, en los términos que determinen los Ministerios de Sanidad y Consumo y de Educación y Ciencia al aprobar los requisitos generales de acreditación de cada una de ellas.
+
+2. Hasta que concluya el proceso de homologación del título de especialista en Medicina Familiar y Comunitaria regulado por el Real Decreto 1753/1998, de 31 de julio, podrán ser tutores de dicha especialidad, aun cuando no sean especialistas, los licenciados en Medicina con anterioridad al 1 de enero de 1995, siempre que acrediten ejercicio profesional continuado y experiencia docente en el ámbito de la atención primaria de salud.

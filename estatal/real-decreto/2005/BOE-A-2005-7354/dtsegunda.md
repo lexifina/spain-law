@@ -16,13 +16,9 @@ c) Haber ejercido durante al menos tres años como profesor de escuelas universi
 
 3. Los requisitos establecidos en el apartado 2 deberán reunirse con anterioridad a la fecha de publicación en el «Boletín Oficial del Estado» de la convocatoria de la prueba anual de carácter estatal en la que, por primera vez, se oferten plazas de formación en la especialidad cuyo título se aspira a obtener.
 
-En el caso de aspirantes al título de Especialista en Enfermería de Salud Mental, tales requisitos deberán haber sido reunidos antes del 4 de agosto de 1998.
-
 Lo establecido en los dos apartados anteriores se entiende sin perjuicio de que la formación complementaria pueda desarrollarse durante el plazo de presentación de solicitudes previsto en el apartado 4.
 
 4. Las solicitudes para la obtención del título conforme a esta disposición transitoria podrán presentarse desde la entrada en vigor de este real decreto. El plazo de presentación de solicitudes finalizará, para cada especialidad, a los seis meses de la publicación en el «Boletín Oficial del Estado» de la convocatoria de la prueba anual de carácter estatal en la que, por primera vez, se oferten plazas de formación en la especialidad correspondiente.
-
-En el caso de la especialidad de Salud Mental, el plazo de presentación de solicitudes será de dos años, contado desde la entrada en vigor de este real decreto.
 
 Las solicitudes se dirigirán a la Secretaría de Estado de Universidades e Investigación y se presentarán en los servicios centrales o periféricos del Ministerio de Educación y Ciencia o en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
@@ -45,3 +41,5 @@ En la comisión evaluadora participarán al menos dos miembros de la comisión n
 La prueba objetiva se dirigirá a evaluar la competencia de los aspirantes en sus ámbitos de conocimientos, habilidades y actitudes necesarios para el adecuado ejercicio de la especialidad de que se trate.
 
 7. Lo establecido en esta disposición transitoria no será de aplicación a la especialidad de Enfermería Obstétrico-Ginecológica (Matrona).
+
+> Se suprimen el párrafo segundo del apartado 3 y el párrafo segundo del apartado 4 por la disposición derogatoria 1.8 del Real Decreto 183/2008, de 8 de febrero. Ref. BOE-A-2008-3176.

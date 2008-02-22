@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Aplicación de este real decreto a los centros y unidades docentes acreditados para la formación de especialistas en Ciencias de la Salud, pertenecientes a la red sanitaria militar del Ministerio de Defensa.
+
+Las normas que se contienen en este real decreto se adaptarán por el Ministerio de Defensa a las peculiaridades propias de la red sanitaria militar así como a las especificidades propias del Cuerpo Militar de Sanidad, incluso cuando alguno de sus miembros realice actividades de formación sanitaria especializada en otros centros y unidades docentes del sistema sanitario acreditados para dicha formación que no pertenezcan a dicha red.

@@ -1,5 +1,5 @@
-## Disposición transitoria quinta. Normas relativas al funcionamiento inicial de la Comisión Nacional.
+## Disposición transitoria quinta.
 
-1. El Ministerio de Educación y Cultura, oída la Organización Colegial de Psicólogos y sociedades científicas que se citan en el artículo 4, otorgará el título de Psicólogo Especialista en Psicología Clínica a aquellos vocales citados en los párrafos a), b), c) y e) del artículo 4 que sean designados para el primer mandato de la Comisión Nacional de Psicología Clínica, siempre que dicha designación recaiga en personas de reconocido prestigio y una experiencia profesional de, al menos, cinco años en puestos de trabajo que requieran los conocimientos propios del título de Psicólogo Especialista en Psicología Clínica.
+(Derogada).
 
-2. Con la finalidad de que la renovación de la Comisión Nacional de Psicología Clínica se produzca de forma escalonada, la duración del primer mandato se reducirá a dos años, para los siguientes vocales que se citan en el artículo 4: dos vocales de los incluidos en el párrafo a) y dos vocales del párrafo b).
+> Se deroga por la disposición derogatoria 1 del Real Decreto 183/2008, de 8 de febrero. Ref. BOE-A-2008-3176
