@@ -1,4 +1,4 @@
-II. Contraseñas de las placas
+## II. Contraseñas de las placas
 
 A. Siglas de provincias
 
@@ -56,9 +56,9 @@ A. Siglas de provincias
 | Ceuta | CE |
 | Melilla | ML |
 
-B) Contraseñas de los vehículos pertenecientes al Estado y al servicio de los Cuarteles Generales Militares Internacionales de la OTAN:
+B) Contraseñas de los vehículos pertenecientes al Estado y al servicio de los Cuarteles Generales Militares Internacionales de la OTAN.
 
-ET, FN y EA: Para los vehículos pertenecientes al Ministerio de Defensa, correspondientes, respectivamente, al Ejército de Tierra, Armada y Ejército del Aire.
+ET, FN y EA: Para vehículos pertenecientes al Ministerio de Defensa, correspondientes, respectivamente al Ejército de Tierra, Armada y Ejército del Aire.
 
 MF: Para los del Parque del Ministerio de Fomento.
 
@@ -66,13 +66,17 @@ MMA: Para los del Parque del Ministerio de Medio Ambiente.
 
 PME: Para los del Parque Móvil del Estado.
 
-PGC: Para los de la Dirección General de la Guardia Civil.
+CNP: Para los de la Dirección General de la Policía y de la Guardia Civil, adscritos al ámbito del Cuerpo Nacional de Policía.
 
-DGP: Para los adscritos a la Dirección General de la Policía.
+PGC: Para los de la Dirección General de la Policía y de la Guardia Civil, adscritos al ámbito del Cuerpo de la Guardia Civil.
 
 En el caso de vehículos especiales, figurarán las contraseñas anteriores y, separadas por un guión, las letras VE.
 
-FAE para los vehículos al servicio de los Cuarteles Generales Militares Internacionales de la OTAN matriculados en España
+FAE: Para los vehículos al servicio de los Cuarteles Generales Militares Internacionales de la OTAN matriculados en España.
+
+> Se modifica el apartado B) por el art. único de la Orden PRE/438/2008, de 20 de febrero. Ref. BOE-A-2008-3422.
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.
 
 > Se modifica el apartado B) por la disposición adicional 1 de la Orden PRE/513/2002, de 5 de marzo. Ref. BOE-A-2002-4792.
 
