@@ -135,3 +135,7 @@ C) Servicios.
 15. Turismo y hostelería.
 
 16. Servicios de reparación, mantenimiento y garantía de aquellos bienes y servicios relacionados en el presente anexo que, por su naturaleza, puedan requerir de los mismos.
+
+17. Servicios de la sociedad de la información.
+
+> Se añade el apartado C).17 por el art. único de la Orden SCO/453/2008, de 14 de febrero. Ref. BOE-A-2008-3583.
