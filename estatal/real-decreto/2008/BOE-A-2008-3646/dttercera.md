@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Autorizaciones singulares concedidas conforme a la Ley 16/1989, de 17 de julio, de Defensa de la Competencia.
+
+Las autorizaciones singulares concedidas al amparo de la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, cuyo plazo no haya vencido a la entrada en vigor de este Reglamento, quedarán extinguidas, sin perjuicio de que los acuerdos no se consideran prohibidos mientras cumplan las condiciones previstas en el apartado 3 del artículo 1 de la Ley 15/2007, de 3 de julio, sin decisión administrativa expresa al respecto y bajo la evaluación de las propias empresas.
