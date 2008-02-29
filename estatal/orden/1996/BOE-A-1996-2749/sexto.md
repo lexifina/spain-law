@@ -48,7 +48,13 @@ s) Documento PR: Se utilizará para el registro de la prescripción de obligacio
 
 t) Documento MD: Se utilizará para el registro de las modificaciones o rectificaciones de errores de las obligaciones reconocidas en ejercicios anteriores pendientes de proponer el pago para el supuesto que se indica en el apartado o) anterior y para el caso de otras obligaciones reconocidas con anterioridad a la entrada en vigor de la presente Orden.
 
+u) Documento “Anexo distribución territorial del área origen del gasto”: Mediante la remisión de uno o más de estos documentos junto con los documentos OK y ADOK, se podrá extender la eficacia de éstos a un número variable de áreas origen del gasto. Este documento sólo se utilizará en aquellas operaciones cuyas aplicaciones presupuestarias pertenezcan a los capítulos 6 y 7 del presupuesto de gastos.
+
+v) Documento “Modificación de distribución territorial del área origen del gasto”: Se utilizará para el registro de las modificaciones de distribuciones territoriales del gasto que se hayan registrado con anterioridad.
+
 2. Cuando se deba proceder a la anulación de cualquiera de las operaciones que se indican en el punto anterior, se expedirá un documento idéntico al confeccionado para el registro de la operación en cuestión pero de signo contrario.
+
+> Se añaden las letras u) y v) al punto 1 por el art. 1.1 de la Orden EHA/480/2008, de 20 de febrero. Ref. BOE-A-2008-3740.
 
 > Se modifica el punto 1.c) por el apartado 3.1 de la Orden HAC/240/2004, de 26 de enero. Ref. BOE-A-2004-2499.
 

@@ -202,7 +202,7 @@ Cuando se utilicen documentos «Anexo Aplicaciones», en aquellos documentos a l
 
 26. Forma de pago: Este campo no deberá cumplimentarse por el servicio gestor.
 
-27. Área origen del gasto: Se indicará el código identificativo y denominación de la provincia o grupo de provincias en donde se va a ejecutar el gasto.
+27. Área origen del gasto: Se indicará el código identificativo y denominación de la provincia o grupo de provincias que corresponda. Si en un documento OK o ADOK, cuyas aplicaciones presupuestarias pertenezcan a los capítulos 6 ó 7 del presupuesto de gastos, se incluye el área origen del gasto 90 correspondiente a varias provincias de distintas Comunidades Autónomas, necesariamente se deberá acompañar dicho documento de uno o más documentos “Anexo Distribución territorial del área origen del gasto”, desglosando el importe total entre las provincias o grupos de provincias de la Comunidad Autónoma o Comunidades Autónomas que correspondan. No será obligatorio el desglose anterior si en el documento OK o ADOK figura como área origen del gasto alguna de las comprendidas entre las claves 91 a 98.
 
 28. Caja Pagadora: Se indicará, en su caso, el código y denominación de la Caja Pagadora que deba efectuar el pago.
 
@@ -617,6 +617,8 @@ Cuando se utilicen documentos «Anexo», en aquellos documentos a los que comple
 208. Fecha de aprobación: Se indicará la fecha en que se haya aprobado la cuenta justificativa del pago a justificar.
 
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifica por el art. 1.2 de la Orden EHA/480/2008, de 20 de febrero. Ref. BOE-A-2008-3740.
 
 > Se modica por el apartado 3.3 de la Orden HAC/240/2004, de 26 de enero. Ref. BOE-A-2004-2499.
 
