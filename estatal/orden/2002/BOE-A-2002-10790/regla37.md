@@ -18,11 +18,15 @@ Importe de la amortización acumulada a 31 de diciembre.
 
 Se incorporará únicamente la información relativa a los elementos para los que se hubiese producido alguna variación a lo largo del ejercicio.
 
-2. Inmovilizado material.–Ofrecerá el detalle de los elementos del inmovilizado que contablemente se reflejen a través de las cuentas del subgrupo 22 «Inmovilizaciones materiales», indicando:
+2. Inmovilizado material.
+
+Ofrecerá el detalle de los elementos del inmovilizado que contablemente se reflejen a través de las cuentas del subgrupo 22 “Inmovilizaciones materiales”, indicando:
 
 Identificación del elemento del inmovilizado.
 
 Calificación jurídica, detallando si se trata de bienes de naturaleza patrimonial o de dominio público, así como, para elementos adscritos, cedidos, recibidos en adscripción o recibidos en cesión, dicha circunstancia.
+
+Identificación del ente al que se haya entregado el bien en cesión, adscripción o gestión.
 
 Valor a 1 de enero.
 
@@ -59,3 +63,7 @@ Importe de la inversión realizada en el ejercicio.
 Importe de la inversión entregada al uso general.
 
 Importe de la inversión acumulada al final del ejercicio.
+
+> Se modifica el apartado 2 por el art. 3.2 de la Orden EHA/480/2008, de 20 de febrero. Ref. BOE-A-2008-3740.
+
+> Esta modificación es aplicable a las cuentas anuales del ejercicio 2008 y siguientes, según establece la disposición final única.

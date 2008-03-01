@@ -54,7 +54,9 @@ Pagos realizados.
 
 Obligaciones pendientes de pago a 31 de diciembre.
 
-e) Ejecución de proyectos de inversión.–Para cada uno de los proyectos de inversión que estuviesen en ejecución en 1 de enero o que se hubiesen iniciado durante el ejercicio se indicará:
+e) Ejecución de proyectos de inversión.
+
+Para cada uno de los proyectos de inversión que estuviesen en ejecución en 1 de enero o que se hubiesen iniciado durante el ejercicio se indicará:
 
 Inversión total.
 
@@ -68,7 +70,9 @@ Inversión realizada en el ejercicio.
 
 Inversión a realizar en las anualidades pendientes, con detalle por ejercicios.
 
-La información anterior se presentará agrupada según los programas de la clasificación funcional del presupuesto de gastos con cargo a los que se ejecuten los proyectos de inversión.
+Compromisos de gasto de ejercicios posteriores en contratos de obra bajo la modalidad de abono total del precio, con detalle por ejercicios.
+
+La información anterior se presentará agrupada según los programas de la clasificación funcional del Presupuesto de gastos con cargo a los que se ejecuten los proyectos de inversión.
 
 f) Contratación administrativa de inversiones.–Según tipos de contrato, se presentará la información sobre gastos de inversión que a continuación se indica:
 
@@ -167,5 +171,9 @@ Esta información se presentará desagregada a nivel de artículo, agrupándose 
 l) Compromisos de gasto con cargo a presupuestos de ejercicios posteriores.–En relación con los gastos que, según lo previsto en el artículo 61 del texto refundido de la Ley General Presupuestaria, estuviesen comprometidos con cargo a presupuestos de ejercicios sucesivos, se indicará su importe así como el año al que se refieran.
 
 Esta información se presentará por aplicaciones presupuestarias y como mínimo con el nivel de desagregación del Presupuesto inicialmente aprobado en el ejercicio que se cierra y las posteriores modificaciones al mismo.
+
+> Se modifica la letra e) por el art. 3.1 de la Orden EHA/480/2008, de 20 de febrero. Ref. BOE-A-2008-3740.
+
+> Esta modificación es aplicable a las cuentas anuales del ejercicio 2008 y siguientes, según establece la disposición final única.
 
 > Se modifican las letras c), d) y k) por el apartado 1.3 de la Orden HAC/240/2004, de 26 de enero. Ref. BOE-A-2004-2499.
