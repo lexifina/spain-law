@@ -1,0 +1,3 @@
+## Disposición transitoria única. Unidades y puestos de trabajo con nivel orgánico inferior a subdirección general.
+
+Las unidades y puestos de trabajo de los extinguidos Tribunal de Defensa de la Competencia y Servicio de Defensa de la Competencia integrados en la Comisión Nacional de la Competencia, de acuerdo con lo dispuesto en la disposición adicional sexta de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, continuarán subsistentes, manteniendo sus características, hasta que se apruebe la relación de puestos de trabajo adaptada a la estructura orgánica prevista en este Estatuto.
