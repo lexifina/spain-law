@@ -1,9 +1,11 @@
 ## Disposición adicional segunda. Equivalencia entre los diplomas de español como lengua extranjera.
 
-Los diplomas establecidos en el artículo 2 del Real Decreto 826/1988, de 20 de julio, por el que se establecen diplomas acreditativos del conocimiento del español como lengua extranjera, en su redacción dada por el Real Decreto 1/1992, de 10 de enero, equivaldrán, a todos los efectos, a los diplomas previstos en el artículo 1.1 del presente Real Decreto, en los siguientes términos:
+Los antiguos diplomas de español en sus niveles inicial, intermedio y superior equivaldrán, a todos los efectos, a los diplomas previstos en el presente real decreto, en los siguientes términos:
 
-a) El certificado inicial de español como lengua extranjera equivaldrá al diploma de español (nivel inicial).
+a) El diploma de español (nivel inicial) equivaldrá al diploma de español (nivel B1).
 
-b) El diploma básico de español como lengua extranjera equivaldrá al diploma de español (nivel intermedio).
+b) El diploma de español (nivel intermedio) equivaldrá al diploma de español (nivel B2).
 
-c) El diploma superior de español como lengua extranjera equivaldrá al diploma de español (nivel superior).
+c) El diploma de español (nivel superior) equivaldrá al diploma de español (nivel C2).
+
+> Se modifica por el art. único.6 del Real Decreto 264/2008, de 22 de febrero. Ref. BOE-A-2008-4727.
