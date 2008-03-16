@@ -11,3 +11,7 @@
 5. A partir de la entrada en vigor de la presente orden, y sin perjuicio del derecho de acceso a las bases de datos a través de medios telemáticos establecido en el apartado 4 anterior, las empresas distribuidoras deberán remitir a la Oficina de Cambio de Suministrador, o a los comercializadores que lo soliciten, los datos relativos a todos y cada uno de los puntos de suministro conectados a sus redes y a las redes de transporte de su zona a través de un soporte físico informático que permita su inmediata y efectiva disposición y tratamiento. La empresa distribuidora deberá remitir dicha información en el plazo máximo de quince días desde la fecha de solicitud por parte del comercializador.
 
 6. Los comercializadores que hagan uso de la información que figura en las bases de datos de puntos de suministro de las empresas distribuidoras, a tenor de lo contemplado en la presente disposición y en el artículo 45.1.i de la Ley 54/1997, del Sector Eléctrico, deberán garantizar la confidencialidad de la información contenida en las mismas.
+
+7. No obstante lo señalado anteriormente, los consumidores podrán manifestar por escrito a los distribuidores su voluntad de que sus datos no sean accesibles a los comercializadores.
+
+> Se añade el apartado 7 por la disposición final 1 de la Orden ITC/694/2008, de 7 de marzo. Ref. BOE-A-2008-5005#dfprimera
