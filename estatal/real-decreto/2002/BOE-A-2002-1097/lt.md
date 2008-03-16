@@ -462,17 +462,21 @@ Esto implica que, en caso de que se utilice, el nivel de crucero VFR seleccionad
 
 3.2.11. Establecimiento e identificación de rutas ATS.
 
-Establecimiento e identificación de rutas ATS. Cuando se establezcan las rutas ATS, se proporcionará un espacio aéreo protegido a lo largo de cada ruta ATS y una separación segura entre rutas ATS adyacentes.
+3.2.11.1 Cuando se establezcan las rutas ATS, se proporcionará un espacio aéreo protegido a lo largo de cada ruta ATS y una separación segura entre rutas ATS adyacentes.
 
-3.2.11.1. Las rutas ATS se identificarán por medio de designadores.
+3.2.11.2 Cuando lo justifiquen la densidad, la complejidad o la naturaleza del tránsito, se establecerán rutas especiales para uso del tránsito a bajo nivel, comprendidos los helicópteros que operen hacia o desde heliplataformas situadas en alta mar. Al determinar la separación lateral entre dichas rutas, se tendrán en cuenta los medios de navegación disponibles y el equipo de navegación transportado a bordo de los helicópteros.
 
-3.2.11.2. Los designadores de las rutas ATS distintas de las rutas normalizadas de salida y de llegada se seleccionarán de conformidad con los principios expuestos en el Apéndice N.
+3.2.11.3 Las rutas ATS se identificarán por medio de designadores.
 
-3.2.11.3. Las rutas normalizadas de salida y de llegada así como los procedimientos conexos se identificarán de conformidad con los principios expuestos en el Apéndice N.
+3.2.11.4 Los designadores de las rutas ATS distintas de las rutas normalizadas de salida y de llegada se seleccionarán de conformidad con los principios expuestos en el Apéndice N.
 
-3.2.11.4. Cuando lo justifiquen la densidad, la complejidad o la naturaleza del tránsito, se establecerán rutas especiales para uso del tránsito a bajo nivel, comprendidos los helicópteros que operen hacia o desde heliplataformas situadas en alta mar. Al determinar la separación lateral entre dichas rutas, se tendrán en cuenta los medios de navegación disponibles y el equipo de navegación transportado a bordo de los helicópteros.
+3.2.11.5 Las rutas normalizadas de salida y de llegada así como los procedimientos conexos se identificarán de conformidad con los principios expuestos en el Adjunto 3 del Apéndice N.
 
-Nota: En el Manual de planificación de servicios de tránsito aéreo (Doc 9426 de OACI) figura un texto de orientación relativo al establecimiento de rutas ATS.
+Nota 1: En el Manual de planificación de servicios de tránsito aéreo (Doc 9426 de OACI) figura un texto de orientación relativo al establecimiento de rutas ATS.
+
+Nota 2:En el Adjunto 5 del Apéndice N se incluyen textos de orientación sobre el establecimiento de rutas ATS definidas por VOR.
+
+Nota 3: El espaciado entre derrotas paralelas o entre ejes de rutas ATS paralelas respecto a las cuales se requiere un tipo RNP, dependerá del tipo de RNP correspondiente especificado. En el Adjunto 6 del Apéndice N se incluyen textos de orientación sobre el establecimiento de rutas ATS para uso de las aeronaves con equipos RNAV y sobre el espaciado entre rutas basadas en tipos de RNP.
 
 3.2.12. Establecimiento de puntos de cambio.
 
@@ -790,6 +794,10 @@ Nota.–En el Manual del sistema geodésico mundial-1984 (WGS-84) (Doc. 9674) de
 
 3.2.29.3.2 Cuando en las cartas se utilice un sistema de referencia temporal diferente, así se indicará en GEN 2.1.2. de la publicación de información aeronáutica (AIP).
 
+3.2.30 Incorporación del sistema de navegación aérea al marco de Cielo Único Europeo.
+
+Las incorporaciones de modificaciones del sistema de navegación aérea y, en particular, la introducción de nuevos servicios en el mismo, requiere el cumplimiento de lo dispuesto en los Reglamentos comunitarios que en materia de Cielo Único Europeo le sean de aplicación, en particular, el Reglamento (CE) n.º 550/2004 relativo a la prestación de servicios de navegación aérea en el cielo único europeo y el Reglamento (CE) n.º 2096/2005 por el que se establecen requisitos comunes para la prestación de servicios de navegación aérea.
+
 ## CAPÍTULO 3
 
 ## Servicio de control de tránsito aéreo
@@ -930,7 +938,9 @@ La responsabilidad del control de una aeronave se transferirá de la dependencia
 
 3.3.6.1.3. Entre la dependencia que suministra el servicio de control de aproximación y la que suministra el servicio de control de aeródromo.
 
-3.3.6.1.3.1. Aeronaves que llegan. La responsabilidad del control de una aeronave que llega se transferirá de la dependencia que proporcione servicio de control de aproximación a la torre de control de aeródromo, cuando la aeronave:
+3.3.6.1.3.1. Aeronaves que llegan.
+
+La responsabilidad del control de una aeronave que se aproxima para aterrizar se transferirá de la dependencia que proporcione servicio de control de aproximación a la que proporcione servicio de control de aeródromo, cuando la aeronave:
 
 a) se encuentre en las proximidades del aeródromo, y:
 
@@ -942,7 +952,7 @@ b) haya llegado a un punto o nivel prescritos, según lo especificado en cartas 
 
 c) haya aterrizado.
 
-Incluso cuando exista una oficina de control de aproximación, el control de ciertos vuelos puede transferirse directamente de un centro de control de área a una torre de control de aeródromo, por acuerdo previo entre las dependencias interesadas, respecto a la parte pertinente del servicio de control de aproximación que ha de ser proporcionado por el centro de control de área o por la torre de control de aeródromo, según corresponda.
+Incluso cuando exista una oficina de control de aproximación, el control de ciertos vuelos puede transferirse directamente de un centro de control de área a una torre de control de aeródromo y viceversa, por acuerdo previo entre las dependencias interesadas, respecto a la parte pertinente del servicio de control de aproximación que ha de ser proporcionado por el centro de control de área o por la torre de control de aeródromo, según corresponda.
 
 3.3.6.1.3.2. Aeronaves que salen.
 
@@ -1044,7 +1054,7 @@ c) pista en uso, reglajes de altímetro, códigos SSR, instrucciones de nivel, i
 
 3.3.7.3.1.1 Otras autorizaciones o instrucciones, incluidas las autorizaciones condicionadas, serán colacionadas o se dará acuse de recibo de las mismas de forma que se indique claramente que han sido comprendidas y que se cumplirá con las mismas.
 
-3.3.7.3.1.2 El controlador escuchará la colación para asegurarse de que la tripulación de vuelo ha acusado recibo correctamente de la autorización o la instrucción y adoptará medidas inmediatas para corregir cualquier discrepancia revelada por la colación.
+3.3.7.3.1.2 El controlador escuchará la colación para asegurarse de que la tripulación de vuelo ha acusado recibo correctamente de la autorización o la instrucción y adoptará medidas inmediatas para corregir cualquier discrepancia revelada por la colación o la falta de la misma.
 
 3.3.7.3.2. A menos que lo prescriba la autoridad ATS competente, no se requerirá la colación oral de mensajes CPDLC.
 
@@ -1058,7 +1068,11 @@ b) cuando haya seguridad razonable de que se obtendrá previamente la coordinaci
 
 3.3.7.4.1.1 Cuando se expida una autorización que cubra la parte inicial del vuelo únicamente como medio para acelerar el tránsito de salida, las autorizaciones sucesivas que se expidan en ruta se ajustarán a lo especificado anteriormente, aunque el aeródromo del primer aterrizaje previsto esté bajo la jurisdicción de un centro de control de área que no sea el que expide la autorización en ruta.
 
-3.3.7.4.2 Cuando no se haya logrado o previsto la coordinación mencionada en 3.3.7.4.1. sólo se dará autorización a la aeronave para llegar hasta el punto en donde pueda asegurarse razonablemente la coordinación. Antes de llegar a dicho punto, o sobre tal punto, la aeronave recibirá una nueva autorización, debiéndose dar entonces las instrucciones que sean necesarias.
+3.3.7.4.2 Cuando no se haya logrado o previsto la coordinación mencionada en 3.3.7.4.1 sólo se dará autorización a la aeronave para llegar hasta el punto en donde pueda asegurarse razonablemente la coordinación.
+
+Antes de llegar a dicho punto, o sobre tal punto, la aeronave recibirá una nueva autorización, debiéndose dar entonces las instrucciones que sean necesarias.
+
+Nota: Los procedimientos y disposiciones relativos al intercambio y acuse de recibo de los mensajes CPDLC figuran en el Libro 4, Capítulo 12.
 
 3.3.7.4.2.1 Cuando así lo disponga la autoridad ATS competente, las aeronaves entrarán en contacto con una dependencia de control de tránsito aéreo subsiguiente a fin de recibir una autorización anticipada antes del punto de transferencia de control.
 
@@ -1913,6 +1927,8 @@ Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter
 3.7.6. Información sobre ''nubes'' de materiales radiactivos y de sustancias químicas tóxicas.
 
 Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter local, acerca de la liberación en la atmósfera de materiales radiactivos o sustancias químicas tóxicas que podrían afectar al espacio aéreo utilizado por los vuelos dentro de su zona de responsabilidad.
+
+> Se modifican los Capítulos 2 y 3 por el art. único.2 de la Orden PRE/697/2008, de 12 de marzo. Ref. BOE-A-2008-5008
 
 > Se modifican los Capítulos 2 a 4, 6 y 7 por el art. único.3 de la Orden PRE/3531/2007, de 29 de noviembre. Ref. BOE-A-2007-20912
 

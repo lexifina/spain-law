@@ -1638,13 +1638,115 @@ Nota: Con el fin de facilitar la aplicación del procedimiento cuando haya un ca
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image45.png)
 
-4.3.8.6. Separación longitudinal mínima basada en tiempo y distancia observada por radar en el espacio aéreo español de la región EUR.
+4.3.8.6. Mínima de separación longitudinal basada en distancia utilizando RNAV donde se especifique RNP.
 
-4.3.8.6.1. A reserva de todas las limitaciones en el uso del radar y cuando no se puedan aplicar mínimas inferiores en el espacio aéreo español de la región EUR se podrá aplicar una separación longitudinal mínima de tres minutos entre aeronaves que sigan la misma derrota o derrotas que se crucen, independientemente de que se hallen en el mismo nivel, asciendan o desciendan, a condición de que:
+Nota: Se incluyen textos de orientación en el Adjunto 6 del Apéndice N del RCA, el Manual sobre la performance de navegación requerida (RNP) (Doc 9613) de OACI, el Manual de planificación de servicios de tránsito aéreo (Doc 9426) de OACI y el Manual sobre la metodología de planificación del espacio aéreo para determinar las mínimas de separación (Doc 9689) de OACI.
 
-1. La marcha de sus vuelos sea observada continuamente por radar que forme parte íntegramente de la correspondiente dependencia ATC; y
+4.3.8.6.1 Dentro de espacios aéreos designados, o en rutas designadas, podrán utilizarse mínimas de separación de conformidad con las disposiciones de esta sección (4.3.8.6.), sujetas a los acuerdos regionales de navegación aérea.
 
-2. La distancia entre aeronaves observadas por radar no sea, en ningún caso, inferior a 20 NM.
+4.3.8.6.2 Se establecerá la separación manteniendo una distancia no inferior a la distancia especificada, entre posiciones de aeronaves, notificadas con referencia al mismo punto de recorrido «en derrota» situado delante de ambas aeronaves siempre que sea posible, o notificadas por medio de un sistema automático de notificación de la posición.
+
+Nota: El término «en derrota» significa que la aeronave está volando, bien directamente en acercamiento, o bien directamente en alejamiento, a la estación o punto de recorrido.
+
+4.3.8.6.2.1 Cuando se reciba información que indique que existe un fallo del equipo de navegación o un deterioro por debajo de los requisitos de performance de navegación, el ATC entonces, según corresponda, aplicará mínimas de separación alternativas.
+
+4.3.8.6.2.2 Se mantendrán las comunicaciones directas entre el controlador y el piloto cuando se apliquen mínimas de separación basadas en distancia. Las comunicaciones directas entre el controlador y el piloto serán orales o CPDLC. Los criterios en materia de comunicaciones necesarios para que las CPDLC satisfagan los requisitos de comunicaciones directas entre controlador y piloto se establecerán mediante un estudio apropiado de seguridad.
+
+Nota: Los criterios en materia de comunicaciones utilizados como base para la determinación de la mínima de separación en esta sección se estipulan en el Apéndice 5 del Manual sobre la metodología de planificación del espacio aéreo para determinar las mínimas de separación (Doc 9689) de OACI. Se incluyen textos de orientación para CPDLC en el Manual sobre aplicaciones de enlace de datos ATS (Doc 9694) de OACI.
+
+4.3.8.6.2.2.1 Antes y durante la aplicación de una mínima de separación basada en la distancia, el controlador determinará la idoneidad del enlace de comunicaciones de que dispone, teniendo presente el lapso de tiempo requerido para recibir respuestas de dos o más aeronaves, así como el volumen general de carga de trabajo y de tránsito asociado con la aplicación de dicha mínima.
+
+4.3.8.6.3 Mínima de separación basada en la distancia en un entorno RNAV RNP que no utiliza ADS.
+
+4.3.8.6.3.1 Respecto a las aeronaves en crucero, que asciendan o desciendan en la misma derrota, podrá utilizarse la siguiente mínima de separación:
+
+| Mínima de separación | Tipo de RNP | Requisito de comunicación | Requisito de vigilancia | Requisitos de verificación de distancia |
+| --- | --- | --- | --- | --- |
+| 93 km (50 NM). | 10 | Comunicaciones directas controlador-piloto. | Informes reglamentarios de posición. | Al menos cada 24 minutos. |
+
+Nota 1: Cuando durante la utilización de una separación basada en la distancia se realice un cambio considerable de nivel, podrá autorizarse a una aeronave en descenso a un nivel conveniente por encima de la aeronave que vuela más bajo, o a una aeronave en ascenso a un nivel conveniente por debajo de la aeronave que vuela a nivel más alto [p. ej., 1200 m (4 000 ft) o menos], a fin de permitir realizar una comprobación adicional de la separación que se mantendrá mientras no exista separación vertical.
+
+Nota 2: Cabe hacer notar que la mínima de separación indicada anteriormente se basa en estudios de seguridad realizados específicamente para una estructura particular de derrotas o rutas. Por tanto, dichos estudios consideraron características de tránsito que podrían ser exclusivas de la estructura analizada.
+
+Nota 3: La mínima de separación indicada anteriormente fue elaborada de conformidad con un análisis de riesgo de colisión que prescribe condiciones bajo las cuales se puede aplicar dicha mínima.
+
+Nota 4: El Manual sobre la metodología de planificación del espacio aéreo para determinar las mínimas de separación (Doc 9689) de OACI incluye información detallada sobre el análisis realizado para determinar la mínima de separación y de cómo realizar estudios de seguridad.
+
+4.3.8.6.3.2 Durante la aplicación de la separación de 93 km (50 NM), cuando una aeronave no notifique su posición, el controlador tomará medidas para establecer comunicación antes de 3 minutos. Si la comunicación no se estableciese dentro de los 8 minutos a partir del momento en que debió haberse recibido el informe, el controlador tomará medidas para aplicar una forma alternativa de separación.
+
+4.3.8.6.3.3 Donde se utilice la notificación automática de la posición, se utilizará una referencia común de tiempo.
+
+4.3.8.6.3.4 Aeronaves en derrotas opuestas. Se podrá autorizar a las aeronaves a que asciendan o desciendan hasta o a través de los niveles ocupados por otras, a condición de que se haya establecido inequívocamente que las aeronaves se han cruzado y la distancia entre ellas es igual por lo menos a la mínima de separación aplicable.
+
+4.3.8.6.4 Mínimas de separación longitudinal basadas en la distancia en un entorno RNAV RNP que utiliza ADS.
+
+4.3.8.6.4.1 Se aplicará la separación basada en la utilización de la ADS de modo que la distancia entre las posiciones calculadas de las aeronaves nunca sea menor que la mínima prescrita. Esta distancia se obtendrá mediante uno de los métodos siguientes:
+
+a) cuando las aeronaves se encuentren en la misma derrota idéntica, la distancia podrá medirse entre las posiciones calculadas de las aeronaves o podrá calcularse midiendo las distancias a un punto común de la derrota (véanse las Figuras 4-23A y 4-23B);
+
+Nota: «Misma derrota idéntica» es un caso especial de «la misma derrota», que se define en 4.3.8.1.4.a), cuando la diferencia angular es cero grados, o de «derrotas opuestas», que se define en 4.3.8.1.4.b), cuando la diferencia angular es 180°.
+
+b) cuando las aeronaves se encuentren en las mis-mas derrotas no paralelas o en derrotas opuestas no paralelas que no sean las de a), la distancia se calculará midiendo las distancias al punto común de intersección de las derrotas o derrota proyectada (véanse las Figuras 4-23C a 4-23E); y
+
+c) cuando las aeronaves se encuentren en derrotas paralelas cuyas áreas de protección se superpongan, la distancia se medirá a lo largo de la derrota de una de las aeronaves como se indicó en a), utilizando su posición calculada y el punto al través (abeam) de la posición calculada de la otra aeronave (véase la Figura 4-23F).
+
+Nota: En todos los casos presentados en las Figuras 4-23A a 4-23F, «d» se calcula restando la distancia de la aeronave más cercana al punto común, a la distancia de la aeronave más lejana al punto común, excepto en la Figura 4-23E en que ambas distancias se suman y el orden de las aeronaves no es importante para el cálculo.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/65/05008_6635613_image1.png)
+
+Figura 4-23A. Cálculo de la distancia longitudinal entre aeronaves en la misma derrota idéntica y mismo sentido (ver 4.3.8.6.4.1 a))
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/65/05008_6635613_image2.png)
+
+Figura 4-23B. Cálculo de la distancia longitudinal entre aeronaves en la misma derrota idéntica y sentido opuesto (ver 4.3.8.6.4.1 a))
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/65/05008_6635613_image3.png)
+
+Figura 4-23C. Cálculo de la distancia longitudinal entre aeronaves con la misma derrota pero no idéntica (ver 4.3.8.6.4.1 b))
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/65/05008_6635613_image4.png)
+
+Figura 4-23D. Cálculo de la distancia longitudinal entre aeronaves con la misma derrota pero no idéntica (4.3.8.6.4.1 b))
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/65/05008_6635613_image5.png)
+
+Figura 4-23E. Cálculo de la distancia longitudinal entre aeronaves – a lados opuestos del punto común (ver 4.3.8.6.4.1 b))
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/65/05008_6635613_image6.png)
+
+Figura 4-23F. Cálculo de la distancia longitudinal entre aeronaves con derrotas paralelas (ver 4.3.8.6.4.1 c))
+
+4.3.8.6.4.2 Cuando las aeronaves se encuentren a la separación mínima aplicable o se prevé que se aproximen a ella, se utilizarán técnicas de control de velocidad, incluyendo la asignación de número de Mach, para garantizar que la distancia mínima se respete durante el período de aplicación de la mínima.
+
+4.3.8.6.4.3 Para aeronaves en crucero, que asciendan o desciendan en la misma derrota, podrán utilizarse las mínimas de separación siguientes
+
+| Mínima de separación | Tipo de RNP | Intervalo máximo de notificación periódica ADS |
+| --- | --- | --- |
+| 93 km (50 NM). | 10 | 27 minutos. |
+|  | 4 | 32 minutos. |
+| 55,5 km (30 NM). | 4 | 14 minutos. |
+
+Nota 1: En el Manual sobre la metodología de planificación del espacio aéreo para determinar las mínimas de separación (Doc 9689) de OACI se encuentra información detallada sobre el análisis utilizado para determinar estas mínimas de separación y sobre la realización de estudios de seguridad, incluyendo ejemplos de medios de comunicación e hipótesis operacionales que pueden satisfacer los requisitos de intervención. Los intervalos periódicos de notificación indicados son específicos de la utilización de la ADS y se han deducido de los estudios de seguridad realizados. Consecuentemente, estos intervalos pueden diferir de los requeridos para uso con otra mínima de separación longitudinal RNAV basada en procedimientos.
+
+Nota 2: Las mínimas de separación que se indican en la tabla anterior requieren valores específicos de RNP y están basadas en un modelo de riesgo de colisión que determina los requisitos de comunicación y vigilancia. Sin embargo, este modelo no incluye todos los aspectos operacionales y técnicos, y depende de valores de parámetros que pueden variar dependiendo del espacio aéreo particular donde la mínima sea aplicada. En consecuencia, antes, de la implantación, debe llevarse a cabo una verificación del sistema de suficiente duración e integridad que permita evaluar dichos parámetros y condiciones, incluyendo desviaciones meteorológicas u otras contingencias, para el espacio aéreo de que se trate y que permita demostrar que los requisitos operacionales y técnicos se cumplen.
+
+4.3.8.6.4.3.1 Los requisitos operacionales y técnicos para el suministro de servicios ADS cumplirán con las disposiciones del Capítulo 11.
+
+Nota: Antes de la implantación deberá prestarse una atención especial a los requisitos que figuran en el Capítulo 11, 4.11.4.3 y 4.11.4.3.4.6.
+
+4.3.8.6.4.3.2 El sistema de comunicaciones que se suministre para permitir la aplicación de las mínimas de separación que figuran en 4.3.8.6.4.3, permitirá al controlador, dentro de un intervalo de 4 minutos, intervenir y resolver un posible conflicto comunicándose con una aeronave utilizando los medios normales de comunicaciones. Se dispondrá de un medio alternativo para permitir al controlador intervenir y resolver el conflicto dentro de un lapso total de 10½ minutos en caso de fallo de los medios normales de comunicaciones.
+
+4.3.8.6.4.3.3 Cuando no se reciba un informe «ADS periódico» o «de evento de cambio de punto de recorrido» dentro de 3 minutos a partir del momento en que debió haber sido enviado, el informe se considerará retrasado y el controlador tomará medidas para obtener el informe lo antes posible, normalmente mediante ADS o CPDLC. Si no se recibe ningún informe dentro de los 6 minutos después del momento en que debió haberse enviado el informe original y existe posibilidad de pérdida de separación con otra aeronave, el controlador tomará medidas para resolver cualquier posible conflicto tan pronto como sea posible. El medio de comunicaciones de que se disponga será tal que permita resolver el conflicto dentro de 7½ minutos adicionales.
+
+4.3.8.6.4.4 Las aeronaves en sentido opuesto en derrotas opuestas podrán ser autorizadas a ascender o descender a niveles ocupados por otra aeronave o a pasar a través de los mismos, siempre que las aeronaves se hayan sobrepasado y la distancia entre ellas sea igual o superior a la mínima, calculada de acuerdo con 4.3.8.6.4.1.
+
+4.3.8.7 Separación longitudinal mínima basada en tiempo y distancia observada por radar en el espacio aéreo español de la región EUR.
+
+4.3.8.7.1 A reserva de todas las limitaciones en el uso del radar y cuando no se puedan aplicar mínimas inferiores, en el espacio aéreo español de la región EUR se podrá aplicar una separación longitudinal mínima de tres minutos entre aeronaves que sigan la misma derrota o derrotas que se crucen, independientemente de que se hallen en el mismo nivel, asciendan o desciendan, a condición de que:
+
+1) La marcha de sus vuelos sea observada continuamente por radar que forme parte integrante de la correspondiente dependencia ATC; y
+
+2) La distancia entre aeronaves, observadas por radar, no sea, en ningún caso, inferior a 20 NM.
 
 Reducción en las mínimas de separación
 
@@ -6946,6 +7048,1099 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 
 | APAGUE MODO TRES. | STOP SQUAWK MODE THREE. |
 | --- | --- |
+
+4.10.4.3.15 Fraseología de la vigilancia dependiente automática (ADS).
+
+4.10.4.3.15.1. Fraseología general ADS. Circunstancias.
+
+4.10.4.3.15.1.1 Degradación ADS.
+
+| Fraseología | Phraseologies |
+| --- | --- |
+| ADS (o VIGILANCIA DEPENDIENTE AUTOMÁTICA) FUERA DE SERVICIO (información apropiada si necesaria). | ADS (or AUTOMATIC DEPENDENT SURVEILLANCE) OUT OF SERVICE (appropriate information as necessary). |
+
+CAPÍTULO 11
+
+4.11. Servicios de vigilancia dependiente automática (ADS).
+
+Nota: Este capítulo 11 se refiere exclusivamente a la ADS tipo contrato.
+
+4.11.1. Generalidades.
+
+El suministro de servicios de tránsito aéreo a aeronaves en base a la información recibida de ellas mediante la ADS, se denomina generalmente «suministro de servicios ADS».
+
+4.11.2. Capacidades del sistema ADS de tierra.
+
+4.11.2.1. Los sistemas ADS de tierra utilizados en el suministro de servicios de tránsito aéreo tendrán un nivel muy alto de fiabilidad, disponibilidad e integridad conforme a los niveles establecidos a nivel europeo. La posibilidad de que se produzcan fallos o degradaciones significativas del sistema que puedan ocasionar interrupciones totales o parciales del servicio será muy remota. Se deberá contar con instalaciones de reserva.
+
+Nota 1: Un sistema ADS de tierra consistirá normalmente en diversos elementos integrados, incluyendo interfaces de comunicaciones, un sistema de proceso de datos, y una o más interfaces de controlador.
+
+Nota 2: La información relativa a la utilización de la ADS, así como a la fiabilidad, disponibilidad e integridad del sistema, figura en el Manual de Aplicaciones de Enlace de Datos para los Servicios de Tránsito Aéreo (Doc 9694 de OACI).
+
+4.11.2.2. Los sistemas ADS de tierra serán capaces de integrarse con otros sistemas automatizados utilizados en el suministro de ATS y contarán con un nivel apropiado de automatización con objeto de mejorar la precisión y prontitud de los datos presentados al controlador, así como de reducir la carga de trabajo de éste y la necesidad de coordinación oral entre posiciones de control y entre dependencias ATC adyacentes.
+
+4.11.2.3. Varios requisitos funcionales significativos son necesarios para permitir la implantación eficaz de un servicio ADS en un entorno CNS/ATM. Los sistemas de tierra deberán soportar:
+
+a) La transmisión, recepción, proceso y presentación de mensajes ADS relativos a vuelos equipados que operen en entornos donde se suministre servicios ADS;
+
+b) La presentación de alertas y avisos relacionados con la seguridad;
+
+c) La supervisión de la posición (la posición actual de la aeronave, tal como se deduce de los informes ADS, se presenta al controlador para supervisar la situación del tránsito aéreo);
+
+d) La supervisión del cumplimiento (la posición actual notificada ADS o el perfil proyectado ADS se compara con la posición prevista de la aeronave de acuerdo a su plan de vuelo. Las desviaciones longitudinales, laterales y verticales que excedan un límite de tolerancia predefinido permitirán generar una alerta de incumplimiento dirigida al controlador);
+
+e) La actualización del plan de vuelo (p. ej., se utilizarán las variaciones longitudinales que excedan los límites de tolerancia predefinidos para ajustar los tiempos de llegada previstos a los fijos subsiguientes);
+
+f) La validación de intenciones (los datos de intención contenidos en los informes ADS, tales como el perfil proyectado ampliado, se comparan con la autorización vigente y se identifican las discrepancias);
+
+g) La detección de conflictos (los datos ADS pueden ser utilizados por la automatización del sistema de tierra ADS para identificar la trasgresión de la mínima de separación);
+
+h) La predicción de conflictos (los datos de posición ADS pueden ser utilizados por la automatización del sistema ADS de tierra para identificar transgresiones potenciales de la mínima de separación);
+
+i) El seguimiento de pistas (la función de seguimiento está destinada a extrapolar la posición actual de la aeronave recibida a través de los informes ADS);
+
+j) La estimación del viento (los informes ADS que contienen datos sobre el viento pueden utilizarse para actualizar los pronósticos de viento y consecuentemente los tiempos de llegada previstos a los puntos de recorrido); y
+
+k) La gestión de vuelo (los informes ADS pueden ayudar a la automatización a generar autorizaciones óptimas libres de conflicto en apoyo de posibles técnicas de ahorro de combustible, tal como ascensos al nivel de crucero, solicitadas por los explotadores).
+
+Nota: La utilización de ADS no exime al controlador de la obligación de supervisar constantemente la situación del tránsito.
+
+4.11.2.4. Deberá facilitarse la compartición de la información ADS en la medida de lo posible a fin de ampliar y mejorar la vigilancia en áreas de control adyacentes, reduciéndose la necesidad de establecer contratos ADS adicionales con una aeronave determinada.
+
+4.11.2.5. De conformidad con acuerdos regionales de navegación aérea, se realizará el intercambio automático de datos de coordinación relativos a aeronaves a las que se suministre servicio ADS y se establecerán procedimientos de coordinación automática.
+
+4.11.2.6. Los sistemas de control del tránsito aéreo que suministren un servicio ADS serán capaces de almacenar y difundir información de vuelo específica relativa a los vuelos equipados ADS que operen dentro de los entornos donde se proporcione dicho servicio ADS.
+
+4.11.2.7. Deberán existir interfaces eficaces hombre-máquina que permitan al controlador una utilización apropiada de la información derivada de la ADS y de las funciones automatizadas asociadas.
+
+4.11.3. Información aeronáutica relacionada con la ADS.
+
+La información adecuada sobre prácticas operacionales que tengan un efecto directo en las operaciones de los servicios de tránsito aéreo, será publicada en las publicaciones de información aeronáutica. Esta información incluirá una breve descripción del área de responsabilidad, de los requisitos y condiciones bajo las que el servicio ADS está disponible, las limitaciones del equipo, los procedimientos en caso de fallo ADS, si se requieren, y la dirección o direcciones iniciales de conexión de cada dependencia ATC.
+
+4.11.4. Utilización de la ADS en el suministro de servicios de control del tránsito aéreo.
+
+4.11.4..1 Generalidades.
+
+4.11.4.1.1. La ADS podrá utilizarse en el suministro de servicios de control de tránsito aéreo (ATC), siempre que se establezca de forma inequívoca la identificación de la aeronave.
+
+4.11.4.1.2. El procesado de datos de vuelo ADS podrá ser utilizado en el suministro del servicio de control de tránsito aéreo, siempre que se haya llevado a cabo la correlación entre los datos ADS recibidos de una aeronave y los detalles de su plan de vuelo almacenado.
+
+Nota: Podría ser necesario una combinación de información recibida de la aeronave para asegurar una correlación sin ambigüedades, p. ej., podría utilizarse el aeródromo de salida, la hora estimada de fuera de calzos (EOBT) y el aeródromo de destino.
+
+4.11.4.1.3. Se cumplirá con los principios relativos a factores humanos. En especial, se proporcionará al controlador información suficiente para:
+
+a) mantener el conocimiento de la situación; y
+
+b) ser capaz de asumir, en caso de mal funciona-miento del sistema, las tareas mínimas relativas al suministro del servicio de control de tráfico aéreo que normalmente sean soportadas por la automatización.
+
+Nota 1: Aunque los sistemas automatizados están diseñados para proporcionar una elevada integridad operacional, siguen siendo susceptibles de errores y fallos. La participación humana constituye parte integrante de la seguridad del sistema de tránsito aéreo.
+
+Nota 2: Los textos de orientación sobre principios relativos a los factores humanos se encuentran en los documentos de OACI: Manual de instrucción sobre factores humanos (Doc 9683), Compendio sobre factores humanos núm. 8 –Los factores humanos en el control de tránsito aéreo (Circular 241) y Compendio sobre factores humanos núm. 11 –Los factores humanos en los sistemas CNS/ATM (Circular 249).
+
+4.11.4.1.4. La información proporcionada por el sistema ADS de tierra podrá ser utilizada por el controlador para desempeñar las siguientes funciones en el suministro de servicios de control del tránsito aéreo:
+
+a) mejorar la seguridad;
+
+b) mantener un conocimiento preciso de la situación del tránsito aéreo;
+
+c) aplicar mínimas de separación;
+
+d) tomar las medidas oportunas en relación a cual-quier desviación significativa de las aeronaves con respecto a los términos de sus autorizaciones de control de tránsito aéreo, incluyendo sus rutas, niveles y velocidades autorizados cuando corresponda;
+
+Nota: Cuando, la autoridad ATS competente haya prescrito tolerancias respecto a cuestiones tales como cumplimiento de la posición 3-D, velocidad o tiempo, las desviaciones no se consideran significativas hasta que se excedan dichas tolerancias.
+
+e) proporcionar información actualizada de posición de las aeronaves a otros controladores cuando así sea requerido; y
+
+f) mejorar la utilización del espacio aéreo, reducir demoras, así como autorizar rutas directas y más perfiles óptimos de vuelo.
+
+4.11.4.2. Presentación de los datos ADS.
+
+4.11.4.2.1 Los datos ADS pertinentes se presentarán al controlador de forma apropiada de modo que permita desempeñar las funciones de control reseñadas en 4.11.4.1.4. Los sistemas de presentación incluirán una pantalla de presentación de la situación (vista en planta), una pantalla de presentación de textos de información y alertas auditivas y visuales, combinado todo ello de la manera que se considere más adecuada.
+
+4.11.4.2.2. Los sistemas de presentación podrán mostrar información genuina procedente de los informes ADS solamente, o una combinación de información genuina procedente de los informes ADS y de datos deducidos de los informes ADS. Además, los sistemas de presentación podrán incorporar información de vigilancia procedente de otras diversas fuentes, incluyendo datos obtenidos del radar, del sistema de proceso de datos de plan de vuelo (FDPS) y/o de informes voz de posición.
+
+4.11.4.2.2.1. Cuando la información de vigilancia se obtenga de diferentes fuentes, el tipo de vigilancia (fuente/s) deberá indicarse claramente al controlador.
+
+4.11.4.2.3. La información ADS mostrada al controlador en una pantalla de presentación de la situación deberá incluir, como mínimo, indicadores (símbolos) de la posición ADS e información de mapas.
+
+4.11.4.2.3.1 Cuando corresponda, deberán utilizarse símbolos diferenciados para la presentación de elementos tales como:
+
+a) la posición ADS;
+
+b) la posición combinada ADS/SSR;
+
+c) la posición combinada ADS/PSR;
+
+d) la posición combinada ADS/SSR/PSR; o
+
+e) las posiciones predichas (extrapoladas) en el caso de una pista no actualizada.
+
+4.11.4.2.3.2. Las etiquetas utilizadas para proporcionar información procedente de la ADS y cualquier otra información disponible se presentarán, como mínimo, en forma alfanumérica.
+
+4.11.4.2.3.3. La información de etiqueta incluirá, como mínimo, la identificación de la aeronave y la información de nivel. Toda información de etiqueta se presentará en forma clara y concisa. Las etiquetas estarán asociadas a sus respectivos indicadores (símbolos) de posición ADS de tal forma que se evite la identificación errónea.
+
+4.11.4.2.4. Cuando se pongan informes ADS en cola se indicará al controlador la existencia de informes más urgentes en base al siguiente orden de prioridades:
+
+a) informes ADS en modo emergencia y/o urgencia;
+
+b) informes ADS de evento o demanda; y luego
+
+c) informes ADS periódicos.
+
+4.11.4.2.4.1. Si se pone en cola más de un informe ADS de una misma prioridad de las indicadas en a), b), o c) arriba, éstos se atenderán de acuerdo al orden en que se reciban.
+
+4.11.4.2.5. Las alertas y avisos relacionados con la seguridad, incluyendo los informes de emergencia/ urgencia, se presentarán de forma clara y distintiva. Se dispondrá lo necesario para alertar al controlador cuando los informes ADS previstos no se reciban dentro del plazo adecuado.
+
+4.11.4.3. Suministro de servicios ADS.
+
+4.11.4.3.1. Generalidades.
+
+4.11.4.3.1.1. El número de aeronaves a las que se suministren simultáneamente servicios ADS no deberá exceder del que pueda manejarse con seguridad en las circunstancias existentes, teniendo en cuenta:
+
+a) la complejidad de la situación del tránsito y su carga de trabajo asociada en el sector o área de responsabilidad del controlador;
+
+b) el nivel de automatización del sistema ADS de tierra;
+
+c) la performance técnica general de los sistemas ADS y de los sistemas de comunicaciones, incluyendo posibles degradaciones que podrían requerir la utilización de sistemas de reserva;
+
+d) la performance general de los sistemas reserva de vigilancia y comunicaciones; y
+
+e) el efecto de la pérdida de comunicaciones entre controlador y piloto.
+
+Nota: En el Manual de aplicaciones de enlace de datos para los servicios de tránsito aéreo (Doc 9694 de OACI) se puede encontrar información adicional sobre los factores que deben tenerse en cuenta.
+
+4.11.4.3.2. Coordinación y transferencia del control de aeronaves ADS.
+
+4.11.4.3.2.1. Se tomarán las medidas oportunas, en y entre todas las dependencias ATC que utilicen ADS, para garantizar la coordinación entre tránsito ADS y no ADS, así como, garantizar la provisión de separación adecuada entre las aeronaves ADS y el resto de las aeronaves.
+
+4.11.4.3.2.2. La transferencia de control se llevará a cabo de modo que se facilite el suministro ininterrumpido de los servicios ADS allí donde la ADS esté operativa en dependencias ATC adyacentes.
+
+4.11.4.3.2.3. La dependencia ATC aceptante deberá establecer un contrato con la aeronave afectada antes de alcanzar ésta el punto de transferencia de control. Si la dependencia ATC aceptante no pudiera establecer el contrato, se lo notificará a la dependencia ATC que realiza la transferencia a fin de que ésta le proporcione los datos ADS por tierra y se permita así un servicio ADS ininterrumpido.
+
+4.11.4.3.2.4. Cuando una aeronave se encuentre en modo de emergencia/urgencia o sea objeto de alertas o advertencias de seguridad, esta información deberá ser proporcionada a la dependencia ATC aceptante, y la dependencia ATC que realiza la transferencia no cancelará el contrato ADS hasta que se haya realizado la coordinación adecuada.
+
+4.11.4.3.2.5. La transferencia de control de una aeronave entre posiciones de control adyacentes o entre dependencias ATC adyacentes podrá llevarse a cabo tal como sigue:
+
+a) cumpliendo con los protocolos de transferencia ADS apropiados:
+
+1) indicando claramente la posición ADS por medios automatizados; o
+
+2) señalando directamente la posición ADS si hubiese dos sistemas de presentación adyacentes, o si se utilizase un tipo de pantalla de presentación común (conferencia); o
+
+3) indicando la posición ADS con relación a otra posición indicada exactamente en ambos sistemas de presentación;
+
+b) proporcionando al controlador aceptante, con anterioridad a la trasferencia, información actualizada de plan de vuelo relativa a la aeronave que va a ser transferida;
+
+c) cuando los controladores no se encuentren físicamente adyacentes, disponiendo en todo momento de comunicaciones directas entre los mismos;
+
+Nota: Este requisito podría cumplirse mediante sistemas de comunicaciones orales directas bidireccionales o mediante comunicación de datos entre instalaciones ATS (AIDC).
+
+d) el punto o puntos de transferencia y todas las demás condiciones de aplicación, han sido objeto de instrucciones especificas o de una carta de acuerdo especifica; y
+
+e) se mantiene informado constantemente al controlador aceptante de todas las instrucciones de control (p. ej., instrucciones sobre nivel o velocidad) impartidas a la aeronave con anterioridad a su transferencia que modifiquen la evolución prevista del vuelo.
+
+Nota: Este requisito podría cumplirse mediante sistemas de comunicaciones orales directas bidireccionales o mediante comunicación de datos entre instalaciones ATS (AIDC).
+
+4.11.4.3.2.6. La separación mínima acordada entre aeronaves a punto de ser transferidas deberá estar de acuerdo con lo especificado en cartas de acuerdo o procedimientos locales, según proceda.
+
+4.11.4.3.3. Comunicaciones.
+
+Las comunicaciones entre controlador y piloto serán tales que la posibilidad de fallo de comunicaciones o de degradaciones significativas sea muy remota. Deberán existir sistemas de reserva adecuados.
+
+4.11.4.3.4. Procedimientos generales ADS.
+
+4.11.4.3.4.1. Gestión de contratos ADS.
+
+4.11.4.3.4.1.1 Únicamente las dependencias ATC apropiadas establecerán contratos ADS con una determinada aeronave. Los procedimientos deberán garantizar que los contratos no vigentes sean cancelados en el momento oportuno.
+
+4.11.4.3.4.1.2. El sistema ADS de tierra deberá ser capaz de identificar la capacidad ADS de la aeronave y establecer los contratos ADS apropiados.
+
+4.11.4.3.4.1.3. Los contratos ADS necesarios para el control de la aeronave se establecerán con cada aeronave por el sistema ADS de tierra adecuado, al menos para aquellos segmentos del vuelo de la aeronave para los que la dependencia ATC proporciona servicios de tránsito aéreo.
+
+4.11.4.3.4.1.4. El contrato permitirá solicitar el envío de informes básicos ADS a intervalos periódicos definidos por el sistema ADS de tierra y, opcionalmente, datos adicionales conteniendo información específica, que podrá ser o no enviada con cada informe periódico. El contrato también podrá especificar que se envíen informes ADS al sobrevolar puntos geográficamente definidos tales como puntos de notificación, además de otros informes específicos cuyo envío se active cuando suceda un determinado evento.
+
+4.11.4.3.4.1.5. La aeronave será capaz de soportar simultáneamente contratos ADS con al menos cuatro sistemas de tierra ADS, correspondientes a unidades ATC.
+
+4.11.4.3.4.1.5.1 Cuando un sistema ADS de tierra intente establecer un contrato ADS con una aeronave y no pueda hacerlo debido a la incapacidad de la aeronave para soportar un contrato ADS adicional, la aeronave deberá responder con los indicadores de lugar OACI o con los indicadores de ocho letras de la instalación correspondientes a los sistemas de tierra con los cuales tiene contratos en curso, todo ello con objeto de que la dependencia ATC pueda negociar la liberación de un contrato. En caso de que no pueda proporcionarse esa información al sistema de tierra, éste deberá no obstante alertar al controlador de que no puede establecerse un contrato ADS. Entonces deberá coordinarse entre las dependencias ATC afectadas con objeto de establecer prioridades de conexión ADS con la aeronave.
+
+4.11.4.3.4.1.6 Una dependencia ATC deberá ser capaz de remplazar o cancelar sus propios contratos ADS cuando se requiera. Un contrato existente continuará vigente hasta que un nuevo contrato del mismo tipo sea aceptado por la aeronave o hasta que dicho tipo de contrato sea cancelado.
+
+4.11.4.3.4.2 Terminación de contratos ADS.
+
+4.11.4.3.4.2.1 Los contratos ADS podrán ser cancelados manual o automáticamente por el sistema ADS de tierra, en base a acuerdos establecidos entre autoridades ATS para aquellas aeronaves que crucen los límites de la FIR.
+
+4.11.4.3.4.2.2 Las autoridades ATS establecerán procedimientos para garantizar que se restablezcan los contratos ADS cuando se requiera, en aquellos casos en que tenga lugar una terminación ADS no planificada.
+
+4.11.4.3.4.3 Acuerdos ADS.
+
+4.11.4.3.4.3.1 Los acuerdos (o contratos) ADS a establecer inicialmente serán fijados por la autoridad ATS. Podrán realizarse modificaciones subsiguientes a los contratos individuales (para una aeronave específica) a discreción del controlador, en base a las condiciones de tránsito existentes y a la complejidad del espacio aéreo.
+
+4.11.4.3.4.3.2 Cuando la aplicación de mínimas de separación específicas dependa del intervalo de notificación de los informes periódicos de posición, la dependencia ATC no establecerá contratos periódicos con un intervalo de notificación mayor que el intervalo de notificación requerido.
+
+4.11.4.3.4.3.3 Cuando no se reciba un informe de posición previsto dentro de un parámetro de tiempo prescrito, se tomarán las medidas apropiadas para verificar la posición de la aeronave. Esto podrá conseguirse mediante un contrato de demanda ADS, CPDLC o comunicaciones orales, o por la recepción de un informe periódico subsiguiente.
+
+Nota: Los requisitos relativos al suministro de un servicio de alerta figuran en el Capítulo 7.
+
+4.11.4.3.4.3.4 Si se observa que una aeronave ADS se desvía significativamente respecto a su perfil de vuelo autorizado, ésta deberá ser notificada de ello. Además se tomarán las acciones oportunas cuando, en opinión del controlador, sea probable que dicha desviación afecte al servicio de tránsito aéreo que se está proporcionando.
+
+4.11.4.3.4.4 Verificaciones de la performance.
+
+4.11.4.3.4.4.1 Una dependencia ATC que preste un servicio ADS a una aeronave, verificará la información de posición tridimensional ADS recibida de esa aeronave mediante informes del piloto y/o conformidad con el plan de vuelo.
+
+4.11.4.3.4.4.2 El piloto de una aeronave cuya información de posición ADS se encuentre dentro del valor de tolerancia aprobado, no necesitará ser informado con respecto a la anteriormente mencionada verificación.
+
+4.11.4.3.4.4.3 Cuando la información de posición presentada no se encuentre dentro del valor de tolerancia aprobado, o cuando se detecte una discrepancia que supere dicho valor de tolerancia subsiguientemente a la verificación, se informará al piloto de ello y se le pedirá que verifique el sistema de navegación de la aeronave.
+
+4.11.4.3.4.4.4 El controlador ajustará la(s) presentación(es) y llevará a cabo verificaciones adecuadas sobre su exactitud, de conformidad con los procedimientos prescritos por la autoridad responsable del sistema de presentación ADS o del sistema de presentación integrado correspondiente.
+
+4.11.4.3.4.4.5 El controlador se asegurará de que la capacidad funcional del sistema de presentación ADS o del sistema de presentación integrado, así como la información presentada, sean adecuados para la ejecución de las funciones a realizar.
+
+4.11.4.3.4.4.6 El controlador notificará, de conformidad con procedimientos locales, cualquier fallo del equipo, o cualquier incidente que exija una investigación, o cualquier circunstancia que haga difícil o impracticable prestar servicio en base a las posiciones ADS presentadas en pantalla.
+
+4.11.4.3.4.5 Informes de emergencia o urgencia.
+
+Nota: Para comunicar que se encuentra en un estado de emergencia, una aeronave equipada con ADS podría activar el modo de emergencia y/o de urgencia para indicar:
+
+a) emergencia;
+
+b) fallo de comunicaciones;
+
+c) interferencia ilícita;
+
+d) mínimo de combustible; y/o
+
+e) condición médica.
+
+4.11.4.3.4.5.1 Cuando se reciba un informe de emergencia y/o de urgencia ADS, el controlador responsable del vuelo deberá acusar recibo de dicha información por el medio de comunicaciones más apropiado.
+
+4.11.4.3.4.5.2 Tanto la aeronave como el sistema ADS de tierra serán capaces de soportar el modo de emergencia y/o urgencia ADS para apoyar los procedimientos de alerta ATS, así como las operaciones de búsqueda y salvamento. En el caso de qué una aeronave esté, o parezca estar, en cualquier forma de emergencia, el controlador prestará todo tipo de asistencia posible.
+
+Nota: El sistema de a bordo ADS contará con un modo de emergencia y/o urgencia activado por el piloto. También permitirá que la aeronave pueda establecer automáticamente el modo de emergencia y/o urgencia.
+
+4.11.4.3.4.5.3 El sistema ADS de tierra será capaz de reconocer el inicio, modificación y terminación de un modo de emergencia y/o urgencia, y alertará al controlador. El sistema ADS de tierra será capaz de modificar el periodo de notificación de emergencia y/o urgencia, si fuera necesario. El sistema ADS de tierra será capaz de inhibir una indicación de emergencia/urgencia.
+
+4.11.4.3.4.6 Fallo del equipo.
+
+Nota: No se ha previsto que se informe al piloto de cualquier fallo de la ADS mediante un equipo de supervisión de a bordo.
+
+4.11.4.3.4.6.1 Fallo del sistema ADS de a bordo.
+
+4.11.4.3.4.6.1.1 Al recibir una notificación de fallo ADS de a bordo, el controlador:
+
+a) informará al piloto de tal fallo;
+
+b) informará al piloto de la necesidad de realizar informes de posición mediante voz o CPDLC; y
+
+c) tomará las medidas necesarias para establecer una separación alternativa, si se requiere.
+
+4.11.4.3.4.6.1.2 Cuando una aeronave que experimente fallo ADS después de la salida esté operando, o se prevé que operará, en un área donde sea obligatorio llevar ADS operativo con unas capacidades especificadas, las dependencias ATS afectadas procurarán permitir la continuación del vuelo hasta el aeródromo previsto en primer lugar para el aterrizaje según plan de vuelo. No obstante, en ciertas circunstancias, la continuidad del vuelo podría no ser posible debido a la configuración del tránsito o del espacio aéreo. Podrá entonces requerirse a la aeronave para que regrese al aeródromo de salida o que aterrice en el aeródromo apropiado más cercano que sea aceptable para el operador involucrado.
+
+4.11.4.3.4.6.1.3 En el caso de fallo ADS detectado antes de la salida de un aeródromo donde no es posible realizar una reparación, se permitirá a la aeronave correspondiente proceder, lo más directamente posible, al aeródromo idóneo más próximo donde puedan efectuarse la misma. Al otorgar autorización a esa aeronave, la dependencia de control de tránsito aéreo deberá tener en consideración la situación de tránsito existente o prevista, pudiendo tener que modificar la hora de salida, el nivel de vuelo, o la ruta del vuelo previsto. Podría ser necesario realizar ajustes posteriores durante el curso del vuelo.
+
+4.11.4.3.4.6.2 Paro del sistema ADS de tierra.
+
+4.11.4.3.4.6.2.1 Cuando ocurra un paro planificado del sistema ADS de tierra:
+
+a) se publicará un NOTAM para informar a todas las partes interesadas del período de desconexión;
+
+b) se requerirán informes de posición orales o mediante CPDLC; y
+
+c) se establecerá una separación alternativa, si fuera necesario.
+
+4.11.4.3.4.6.2.2 En caso de un paro no planificado del sistema ADS de tierra, el proveedor ATS correspondiente:
+
+a) informará a todas las aeronaves afectadas y las notificará la necesidad de realizar informes de posición mediante voz o CPDLC;
+
+b) tomará las medidas necesarias para establecer una separación alternativa, si fuese necesario;
+
+c) informará a las dependencias ATS adyacentes mediante coordinación directa; e
+
+d) informará a todas las otras partes interesadas mediante la publicación de un NOTAM, si procede.
+
+4.11.5. Utilización de la ADS en la aplicación de mínimas de separación.
+
+4.11.5.1 Generalidades.
+
+Nota: En un sistema de control del tránsito aéreo (ATC) basado en ADS, la precisión de la información de posición presentada al controlador depende de los sistemas de navegación o de determinación de la posición a bordo de la aeronave. En consecuencia, toda degradación del sistema de la aeronave que afecte a las capacidades de navegación de la misma, también afectará a la precisión de los datos de posición presentados al controlador.
+
+4.11.5.1.1. Los procedimientos y mínimas que figuran en esta sección serán aplicables cuando se utilice ADS en el suministro de servicios de control del tránsito aéreo.
+
+4.11.5.1.1.1. La utilización de informes de posición ADS para garantizar la separación sólo se aplicará cuando exista una seguridad razonable de que no se interrumpirá el suministro de informes ADS.
+
+4.11.5.2. Determinación de la ocupación de nivel.
+
+4.11.5.2.1. El valor de tolerancia que deberá ser utilizado para determinar que la información de nivel ADS que se presenta al controlador es exacta será de ±60 m (±200 ft) en espacio aéreo RVSM. En otros espacios aéreos, será de ±90 m (±300 ft), excepto cuando la autoridad ATS competente especifique un criterio inferior, pero no menor que ±60 m (±200 ft), si se estima que esto es más práctico.
+
+4.11.5.2.2. Cuando la información de nivel ADS no se encuentre dentro del valor de tolerancia aprobado, la información deberá ser validada mediante voz o CPDLC. Cuando se establezca que la información de nivel ADS es incorrecta, la autoridad ATS competente determinará las medidas que deberán tomarse con respecto a la presentación y la utilización de esta información.
+
+4.11.5.2.3. Se considera que una aeronave autorizada a abandonar un nivel ha comenzado su maniobra y abandonado el nivel ocupado previamente, cuando la información de nivel ADS indique un cambio de más de 90 m (300 ft) en la dirección prevista a partir de su nivel previamente asignado, o se haya verificado mediante la recepción de un mensaje CPDLC o informe voz del piloto.
+
+4.11.5.2.4. Se considera que una aeronave que asciende o desciende ha cruzado un nivel cuando, la información de nivel ADS indique que ha pasado dicho nivel en la dirección requerida en más de 90 m (300 ft), o se haya verificado mediante la recepción de un mensaje CPDLC o informe voz del piloto.
+
+4.11.5.2.5. Se considera que una aeronave que asciende o desciende ha alcanzado el nivel autorizado cuando se haya verificado mediante la recepción del nivel asignado vía CPDLC o mediante un informe voz del piloto. Podrá entonces considerarse que la aeronave está manteniendo este nivel en tanto la información de nivel ADS permanezca dentro de los valores de tolerancia apropiados especificados en 4.11.5.2.1.
+
+Nota: Puede utilizarse un contrato de evento de desviación de nivel para vigilar el continuo cumplimiento por parte de la aeronave de los valores de tolerancia de nivel adecuados.
+
+4.11.5.2.5.1. Cuando se utilice CPDLC para verificar que la aeronave ha alcanzado el nivel autorizado, deberá emplearse el mensaje ascendente núm. 129, REPORT MAINTAINING (level), o el mensaje ascendente núm. 200, REPORT REACHING.
+
+Nota: El mensaje ascendente núm. 175, REPORT REACHING (level) no proporciona la misma garantía de que la aeronave esté manteniendo el nivel asignado. Esto es debido a que cuando el sistema de gestión de vuelo es configurado por el piloto para responder automáticamente a este mensaje, la respuesta podría enviarse cuando la aeronave alcance el nivel asignado, independientemente de si la aeronave mantiene dicho nivel o no.
+
+4.11.5.2.6. Cuando se tenga la intención de proveer separación vertical por debajo de un nivel de transición utilizando información de nivel ADS, la autoridad responsable garantizará que dicha información es corregida al valor de altitud barométrica apropiado.
+
+4.11.5.3. Aplicación de separación horizontal utilizando la información de posición ADS.
+
+Nota 1: Los factores que el controlador ADS deberá tener en cuenta al determinar la separación a ser aplicada en circunstancias particulares con objeto de garantizar que la separación mínima no sea vulnerada, incluirán rumbos relativos y velocidades relativas de las aeronaves, las limitaciones técnicas de la ADS, el volumen de trabajo del controlador y cualquier dificultad ocasionada por la congestión de las comunicaciones.
+
+Nota 2: Información sobre la determinación y aplicación de mínimas de separación figura en el Manual sobre la metodología de planificación del espacio aéreo para determinar las mínimas de separación (Doc 9689) de OACI.
+
+4.11.5.3.1. Las mínimas de separación longitudinal para ADS figuran en 4.3.8.6.4 del Capítulo 3.
+
+4.11.5.3.2. La autoridad ATS garantizará que haya procedimientos de contingencia a seguir en caso de degradación de la información ADS debido a una pérdida de precisión de la performance de navegación requerida.
+
+4.11.5.3.3. Las mínimas de separación basadas en distancia a utilizar con la ADS podrán aplicarse entre posiciones de aeronaves obtenidas mediante ADS o entre posiciones obtenidas mediante ADS y posiciones obtenidas mediante radar. Las posiciones de la aeronaves se extrapolarán o interpolarán, según sea necesario, para garantizar que representan las posiciones de las aeronaves en un instante común.
+
+4.11.5.3.3.1. Los símbolos de posición ADS presentados deberán permitir que el controlador distinga entre posiciones notificadas, extrapoladas o interpoladas. Cuando exista alguna duda sobre la integridad de la información presentada mediante un símbolo de posición extrapolada o interpolada, esta deberá ser actualizada mediante una petición de contrato de demanda.
+
+4.11.5.3.3.2. La separación basada en ADS no se aplicará entre aeronaves que esperan sobre el mismo fijo de espera. La aplicación de la separación horizontal entre aeronaves que esperan y otros vuelos estará sujeta a los requisitos y procedimientos prescritos por la autoridad ATS competente.
+
+4.11.5.3.4 La información procedente de un sistema de presentación ADS no se utilizará para proporcionar guía vectorial a una aeronave.
+
+Nota: En el futuro podría ser posible proporcionar guía vectorial utilizando ADS en los casos en que la performance de la vigilancia y las comunicaciones sea comparable a la performance de los sistemas radar y de las comunicaciones orales directas usando VHF.
+
+4.11.6 Aeronaves que utilicen ADS.
+
+Las aeronaves que utilicen ADS deberán cumplimentar debidamente el plan de vuelo asignando la letra correspondiente de función ADS, de conformidad con las disposiciones del Apéndice A y con las publicaciones de información aeronáutica correspondientes (AIP).
+
+Para rellenar la casilla del plan de vuelo correspondiente a función ADS, las aeronaves deben contar con el equipamiento y procedimientos operacionales de aeronave adecuados, autorizados a través de la correspondiente aprobación operacional o autorización equivalente emitida por el Estado de matrícula o del operador.
+
+CAPÍTULO 12
+
+4.12. Comunicaciones por enlace de datos controlador piloto (CPDLC)
+
+4.12.1. Generalidades.
+
+4.12.1.1. La aplicación CPDLC constituye un medio de comunicaciones entre el controlador y el piloto mediante enlace de datos para comunicaciones ATC.
+
+4.12.1.2. Esta aplicación abarca una serie de elementos de mensajes de autorización, información y solicitud que se corresponden con la fraseología utilizada en radiotelefonía.
+
+Nota: Véase en 4.12.4. la serie de mensajes CPDLC en la que se enumeran los elementos del mensaje y su objeto o uso correspondiente.
+
+4.12.1.2.1. Se proporcionará al controlador la capacidad de responder a los mensajes, incluidas las emergencias, expedir autorizaciones, instrucciones y asesoramiento y solicitar y proporcionar información, según corresponda.
+
+4.12.1.2.2. Se proporcionará al piloto la capacidad de responder a los mensajes, solicitar autorizaciones e información, notificar información y declarar o cancelar emergencias.
+
+4.12.1.2.3. Se proporcionará al piloto y al controlador la capacidad de intercambiar mensajes que no se ajusten a los formatos definidos (es decir, mensajes de texto libre).
+
+4.12.1.3. Los sistemas de tierra y de a bordo permitirán que los mensajes se presenten adecuadamente, se impriman cuando se requiera y se almacenen de forma que facilite su recuperación oportuna y conveniente si ello fuera necesaria.
+
+4.12.1.4. Cuando sea necesaria la presentación en forma de texto, se presentará por lo menos en el idioma inglés.
+
+4.12.1.5. Cuando corresponda, los procedimientos de comunicaciones para el suministro de CPDLC, serán de conformidad con el Anexo 10 de OACI, Volumen III, Parte I, Capítulo 3. Por regla general, el objeto y el texto del elemento del mensaje y los procedimientos conexos siguen el capítulo 12 –Fraseología. Se reconoce, no obstante, que la serie de mensajes CPDLC y los procedimientos correspondientes difieren en cierto grado del equivalente vocal utilizado debido a las diferencias que existen entre ambos medios; el primero consiste en conversación directa y el segundo, en un intercambio de datos que puede presentarse en la pantalla o imprimirse.
+
+4.12.2. Establecimiento de las CPDLC.
+
+Se establecerán las CPDLC con tiempo suficiente para asegurar que la aeronave se comunique con la dependencia ATC apropiada. Se publicará en las publicaciones de información aeronáutica la información relativa a cuándo y, de ser aplicable, dónde, los sistemas de a bordo y de tierra deberán establecer las CPDLC.
+
+4.12.2.2. CPDLC iniciadas a bordo.
+
+4.12.2.2.1. Cuando una dependencia ATC reciba una solicitud imprevista de inicio de las CPDLC de una aeronave, obtendrá de esta aeronave las circunstancias que llevaron a realizar tal solicitud para determinar medidas ulteriores.
+
+4.12.2.2.2. Cuando una dependencia ATC rechace una solicitud de inicio de las CPDLC, proporcionará al piloto el motivo del rechazo utilizando un mensaje CPDLC apropiado.
+
+4.12.2.3. CPDLC iniciadas por una dependencia ATC.
+
+4.12.2.3.1. Una dependencia ATC solamente establecerá CPDLC con una aeronave si la aeronave no tiene establecido ningún enlace CPDLC o si ha sido autorizada para ello por la dependencia ATC que actualmente tiene establecidas CPDLC con la aeronave.
+
+4.12.2.3.2. Cuando una aeronave rechace una solicitud de CPDLC, se proporcionará el motivo del rechazo utilizándose el elemento de mensaje CPDLC de enlace descendente NOT CURRENT DATA AUTHORITY o el elemento de mensaje NO AUTHORIZED NEXT DATA AUTHORITY, según corresponda. Los procedimientos locales dictarán si el motivo del rechazo se presenta al controlador. No se permitirá ningún otro motivo para rechazar a bordo el inicio de las CPDLC por la dependencia ATC.
+
+4.12.3. Intercambio de mensajes CPDLC operacionales.
+
+4.12.3.1. El controlador o el piloto construirán los mensajes CPDLC utilizando el conjunto de mensajes definido, un mensaje de texto libre, o una combinación de ambos.
+
+Nota: Véase en 4.12.4. la serie de mensajes CPDLC en la que se enumeran los elementos del mensaje y su objeto y uso correspondiente.
+
+4.12.3.1.1. Debería evitarse dentro de lo posible el uso de mensajes largos o de mensajes con múltiples elementos de autorización, o de mensajes con una combinación de autorizaciones y de información.
+
+Nota: En las Directrices sobre factores humanos para los sistemas de gestión del tránsito aéreo (ATM) (Doc 9758 de OACI) figuran textos de orientación sobre la elaboración de procedimientos operacionales locales y técnicas adecuadas de operación de las CPDLC.
+
+4.12.3.1.2. Cuando se utilice CPDLC, y la intención del mensaje figure en el conjunto de mensajes CPDLC que figura en el 4.12.4., se utilizará el correspondiente mensaje asociado.
+
+4.12.3.1.3. Salvo lo previsto en 4.12.3.5.1, cuando un controlador o un piloto se comunique por CPDLC la respuesta debería ser por CPDLC. Cuando un controlador o un piloto se comuniquen por voz, la respu.esta debería ser por voz.
+
+4.12.3.1.4. Si se negocia subsiguientemente por voz un mensaje CPDLC que requiere una respuesta operacional, se enviará una respuesta apropiada de cierre del mensaje CPDLC para garantizar la adecuada sincronización del diálogo CPDLC.
+
+4.12.3.2. Los atributos de los mensajes indican requisitos relativos a la tramitación de los mensajes y están destinados al usuario CPDLC que recibe el mensaje. Cada mensaje CPDLC tiene tres atributos: Urgencia, alerta y respuesta.
+
+4.12.3.2.1. Urgencia.
+
+El atributo de urgencia describe los requisitos de puesta en secuencia (cola) de los mensajes recibidos que se presentan en la pantalla del usuario final. En la Tabla 4.12.1 figuran los tipos de urgencia.
+
+| Tipo | Descripción | Prioridad |
+| --- | --- | --- |
+| D | Socorro. | 1 |
+| U | Urgente. | 2 |
+| N | Normal. | 3 |
+| L | Baja. | 4 |
+
+Tabla 4.12.1 Atributo de urgencia (enlace ascendente descendente).
+
+4.12.3.2.2. Alerta.
+
+El atributo de alerta describe el tipo de alerta que se requiere una vez recibido el mensaje. En la Tabla 4.12.2 figuran los tipos de alerta.
+
+| Tipo | Descripción | Prioridad |
+| --- | --- | --- |
+| H | Alta. | 1 |
+| M | Media. | 2 |
+| L | Baja. | 3 |
+| N | No requiere alerta. | 4 |
+
+Tabla 4.12.2 Atributo de alerta (enlace ascendente descendente).
+
+4.12.3.2.3. Respuesta.
+
+4.12.3.2.3.1. El atributo de respuesta describe las respuestas válidas para un elemento dado de mensaje. En la Tabla 4.12.3 figuran los tipos de respuesta para los mensajes de enlace ascendente y en la Tabla 4.12.4 los correspondientes al enlace descendente.
+
+| Tipo | Respuesta requerida | Respuestas válidas | Prioridad |
+| --- | --- | --- | --- |
+| W/U | Sí. | CUMPLIRÉ, IMPOSIBLE, ESPERE, NO ES LA AUTORIDAD DE DATOS VIGENTE, AUTORIDAD DE DATOS SIGUIENTE NO AUTORIZADA, ACUSE DE RECIBO LÓGICO (sólo si se requiere), ERROR, | 1 |
+| A/N | Sí. | AFIRMATIVO, NEGATIVO, ESPERE, NO ES LA AUTORIDAD DE DATOS VIGENTE, AUTORIDAD DE DATOS SIGUIENTE NO AUTORIZADA, ACUSE DE RECIBO LÓGICO (sólo si se requiere), ERROR. | 2 |
+| R | Sí. | RECIBIDO, IMPOSIBLE, ESPERE, NO ES LA AUTORIDAD DE DATOS VIGENTE, AUTORIDAD DE DATOS SIGUIENTE NO AUTORIZADA, ACUSE DE RECIBO LÓGICO (sólo si se requiere), ERROR. | 3 |
+| Y | Sí. | Cualquier mensaje CPDLC de enlace descendente, ACUSE DE RECIBO LÓGICO (sólo si se requiere). | 4 |
+| N | No, a no ser que se requiera acuse de recibo lógico. | ACUSE DE RECIBO LÓGICO (sólo si se requiere), NO ES LA AUTORIDAD DE DATOS VIGENTE, AUTORIDAD DE DATOS SIGUIENTE NO AUTORIZADA, ERROR. | 5 |
+
+Tabla 4.12.3 Atributo de respuesta (enlace ascendente).
+
+| Tipo | Respuesta requerida | Respuestas válidas | Prioridad |
+| --- | --- | --- | --- |
+| Y | Sí. | Cualquier mensaje CPDLC de enlace ascendente, ACUSE DE RECIBO LÓGICO (sólo si se requiere). | 1 |
+| N | No, a no ser que se requiera acuse de recibo lógico. | ACUSE DE RECIBO LÓGICO (sólo si se requiere), SERVICIO NO DISPONIBLE, NO HAY PLAN DE VUELO, ERROR. | 2 |
+
+Tabla 4.12.4 Atributo de respuesta (enlace descendente).
+
+4.12.3.2.3.2. Cuando un mensaje de múltiples elementos requiere una respuesta, y la respuesta consista en un solo elemento de mensaje, la respuesta se aplicará a todos los elementos del mensaje.
+
+Nota: Por ejemplo, en un mensaje de múltiples elementos que contenga CLIMB TO FL310 MAINTAIN MACH.84, la respuesta WILCO se refiere a ambos elementos del mensaje e indica cumplimiento con los mismos.
+
+4.12.3.2.3.3. Cuando no pueda cumplirse con la autorización de un mensaje de un solo elemento o con cualquier parte de un mensaje de autorización de múltiples elementos, el piloto enviará una respuesta UNABLE referida a todo el mensaje.
+
+4.12.3.2.3.4. Cuando no pueda aprobarse ningún elemento de una solicitud de autorización de un solo elemento o de múltiples elementos, el controlador responderá con un mensaje UNABLE que se referirá a todos los elementos de la solicitud. No se restablecerán las autorizaciones vigentes.
+
+4.12.3.2.3.5. Cuando puedan satisfacerse todos los elementos de una solicitud de autorización de un solo o de múltiples elementos, el controlador responderá con autorizaciones correspondientes a cada elemento de la solicitud. Esta respuesta debería consistir en un solo mensaje de enlace ascendente.
+
+4.12.3.2.3.6. Cuando un controlador solamente pueda satisfacer parcialmente solicitudes de autorización de múltiples elementos, responderá a dichas solicitudes con autorizaciones relativas a aquellas partes que puedan satisfacerse y respecto a las partes que no puedan satisfacerse se restablecerá la autorización vigente o se dará una autorización alternativa.
+
+Nota: Por ejemplo, podría responderse a un mensaje en enlace descendente de múltiples elementos que contenga los elementos de mensaje indicados:
+
+MAINTAINING FL310.
+
+REQUEST CLEARANCE YQM YYG YYT YQX.
+
+TRACK X EINN FPL EDDF.
+
+REQUEST CLIMB FL350.
+
+WE CAN ACCEPT FL390 AT 1139Z.
+
+REQUEST MACH.84.
+
+De la forma siguiente:
+
+CLEARED YQM YYG YYT YQX TRACK X EINN.
+
+FPL EDDF.
+
+CLIMB TO FL350.
+
+REPORT REACHING.
+
+CROSS 52N 30W AT OR AFTER 1150Z.
+
+NO SPEED RESTRICTION.
+
+4.12.3.2.3.7. Cuando un mensaje CPDLC contenga más de un elemento de mensaje y el atributo de respuesta del mensaje sea Y, cuando se utilice, el único mensaje de respuesta incluirá el correspondiente número de respuestas y en el mismo orden.
+
+Nota: Por ejemplo, podría responderse a un mensaje de enlace ascendente de múltiples elementos que contenga.
+
+CONFIRM SQUAWK.
+
+WHEN CAN YOU ACCEPT FL410.
+
+De esta forma:
+
+SQUAWKING 5525.
+
+WE CAN ACCEPT FL410 AT 1636Z.
+
+4.12.3.3. Transferencia de las CPDLC.
+
+Nota: Pueden encontrarse detalles sobre la transferencia de las CPDLC en el Manual de aplicaciones de enlace de datos para los servicios de tránsito aéreo (Doc 9694 de OACI).
+
+4.12.3.3.1. Cuando se transfieran las CPDLC, la transferencia de las comunicaciones orales y de las CPDLC comenzará simultáneamente.
+
+4.12.3.3.2. Cuando se efectúe la transferencia de una aeronave desde una dependencia ATC en la que se dispone de CPDLC a una dependencia ATC en la que no se dispone de CPDLC, la terminación de las CPDLC se iniciará simultáneamente con la transferencia de comunicaciones orales.
+
+4.12.3.3.3. Cuando una transferencia de las CPDLC de lugar a un cambio de la autoridad de datos, y todavía quedan mensajes de los cuales no se haya recibido la respuesta de cierre (es decir, mensajes pendientes), se informará al controlador que transfiere las CPDLC.
+
+4.12.3.3.3.1. Si el controlador necesita transferir la aeronave sin responder a algún mensaje pendiente de enlace descendente, el sistema tendrá la capacidad de enviar automáticamente los mensajes de respuesta de cierre apropiados. En tales casos, el contenido de cualquiera de los mensajes de respuesta de cierre enviados automáticamente se especificará en los procedimientos locales.
+
+4.12.3.3.3.2. Cuando el controlador decida transferir la aeronave sin recibir respuesta del piloto a alguno de los mensajes de enlace ascendente pendientes, el controlador debería revertir a comunicaciones orales para clarificar cualquier ambigüedad asociada a los mensajes pendientes.
+
+4.12.3.4. Mensajes de texto libre.
+
+Debería evitarse el uso de mensajes de texto libre por parte de controladores o pilotos que no sean mensajes de texto libre preformateados.
+
+Nota 1: Aunque se reconoce que las situaciones no rutinarias y de emergencia pueden necesitar del uso de texto libre, particularmente cuando fallen las comunicaciones orales, el evitar el uso de mensajes de texto libre tiene por objeto el reducir la posibilidad de interpretación errónea y de ambigüedades.
+
+Nota 2: Las disposiciones relativas al uso de mensajes de texto libre preformateados figuran en el Anexo 10 de OACI, Volumen II, Capítulo 4.
+
+4.12.3.5. Procedimientos en caso de emergencias, peligros y fallo de equipo.
+
+4.12.3.5.1. Cuando se reciba un mensaje de emergencia CPDLC, el controlador hará acuse de recibo de dicho mensaje por el medio más eficiente de que disponga.
+
+4.12.3.5.2. Cuando se responda por CPDLC a un informe indicando interferencia ilícita, se utilizará el mensaje de enlace ascendente ROGER 7500.
+
+4.12.3.5.3. Cuando se responda por CPDLC a todos los otros mensajes de emergencia o de urgencia, se utilizará el mensaje de enlace ascendente ROGER.
+
+4.12.3.5.4. Cuando un mensaje CPDLC requiera acuse de recibo lógico o una respuesta operacional y no se reciba tal respuesta, se alertará al piloto o al controlador, según corresponda.
+
+4.12.3.6. Fallo de las CPDLC.
+
+4.12.3.6.1. Se alertará al controlador y al piloto del fallo de las CPDLC tan pronto como sea detectado.
+
+4.12.3.6.2. Cuando se alerte al piloto o al controlador de que han fallado las CPDLC y el controlador o el piloto necesiten comunicarse antes de que se restauren éstas, el controlador o el piloto deberán revertir a voz, si es posible, y utilizar, como prefacio de la información, la oración: CPDLC FAILURE.
+
+4.12.3.6.3. Los controladores que tengan la necesidad de transmitir información relativa a un fallo completo del sistema CPDLC de tierra a todas las estaciones que pudiesen recibirla deberán utilizar como prefacio de tal transmisión la llamada general ALL STATIONS CPDLC FAILURE, seguido de la identificación de la estación que llama.
+
+Nota: No se esperará ninguna respuesta a tal llamada general a no ser que se llame subsiguientemente a cada una de las estaciones para que hagan acuse de recibo.
+
+4.12.3.6.4. Cuando fallen las CPDLC y las comunicaciones retornen a voz, todos los mensajes CPDLC pendientes deberán considerarse como no entregados y deberá reiniciarse por voz la totalidad del diálogo relacionado con los mensajes pendientes.
+
+4.12.3.6.5. Cuando fallen las CPDLC pero se restauren antes de que sea necesario revertir a comunicaciones orales, todos los mensajes pendientes deberán considerarse como no entregados y deberá reiniciarse por CPDLC la totalidad del diálogo relativo a los mensajes pendientes.
+
+4.12.3.7. Cierre intencional de las CPDLC.
+
+4.12.3.7.1. Cuando se planifique un cierre del sistema de la red de comunicaciones o del sistema de tierra CPDLC, se publicará un NOTAM para informar a todas las partes afectadas sobre el período de cierre y, de ser necesario, de los detalles de las frecuencias de comunicaciones orales que hayan de utilizarse.
+
+4.12.3.7.2. Se notificará a las aeronaves que estén en ese momento en comunicación con la dependencia ATC acerca de cualquier pérdida inminente del servicio CPDLC, mediante voz o CPDLC.
+
+4.12.3.7.3. Se proporcionará al controlador y al piloto la capacidad de interrumpir las CPDLC.
+
+4.12.3.8. Pruebas CPDLC.
+
+Cuando la realización de pruebas CPDLC con una aeronave pueda afectar a los servicios de tránsito aéreo que se estén proporcionando a dicha aeronave, se realizará la coordinación pertinente antes de la realización de las mismas.
+
+4.12.4. Serie de mensajes.
+
+4.12.4.1. Mensajes de enlace ascendente.
+
+Tabla 4.12.5 Respuestas/acuses de recibo (enlace ascendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 0 | Indica que el ATC no puede responder a una solicitud. | UNABLE. | N | M | N |
+| 1 | Indica que el ATC ha recibido el mensaje y responderá. | STANDBY. | N | L | N |
+| 2 | Indica que el ATC ha recibido la solicitud, aplazándola para más tarde. | REQUEST DEFERRED. | N | L | N |
+| 3 | Indica que el ATC ha recibido y comprendido la solicitud del mensaje. | ROGER. | N | L | N |
+| 4 | Sí. | AFFIRM. | N | L | N |
+| 5 | No. | NEGATIVE. | N | L | N |
+| 235 | Notificación de recibo de mensaje sobre interferencia ilícita. | ROGER 7500. | U | H | N |
+| 211 | Indica que el ATC ha recibido la solicitud y la ha transmitido a la autoridad de control siguiente. | REQUEST FORWARDED. | N | L | N |
+| 218 | Indica al piloto que la solicitud ya se ha recibido en tierra. | REQUEST ALREADY RECEIVED. | L | N | N |
+| 237 | Indica que la dependencia actual no puede responder a la solicitud y que debería dirigirse a la siguiente dependencia. | REQUEST AGAIN WITH NEXT UNIT. | N | L | N |
+
+Tabla 4.12.6 Autorizaciones verticales (enlace ascendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 6 | Notificación de que debe preverse una instrucción de cambio de nivel. | EXPECT (level). | L | L | R |
+| 7 | Notificación de que debe preverse una instrucción para que la aeronave inicie el ascenso a la hora indicada. | EXPECT CLIMB AT (time). | L | L | R |
+| 8 | Notificación de que debe preverse una instrucción para que la aeronave inicie el ascenso en la posición indicada. | EXPECT CLIMB AT (position). | L | L | R |
+| 9 | Notificación de que debe preverse una instrucción para que la aeronave inicie el descenso a la hora indicada. | EXPECT DESCENT AT (time). | L | L | R |
+| 10 | Notificación de que debe preverse una instrucción para que la aeronave inicie el descenso en la posición indicada. | EXPECT DESCENT AT (position). | L | L | R |
+| 11 | Notificación de que debe preverse una instrucción para que la aeronave inicie el ascenso en crucero a la hora indicada. | EXPECT CRUISE CLIMB AT (time). | L | L | R |
+| 12 | Notificación de que debe preverse una instrucción para que la aeronave inicie el ascenso en crucero en la posición indicada. | EXPECT CRUISE CLIMB AT (position). | L | L | R |
+| 13 | Notificación de que debe preverse una instrucción para que la aeronave inicie el ascenso a la hora indicada hasta el nivel indicado. | AT (time) EXPECT CLIMB TO (level). | L | L | R |
+| 14 | Notificación de que debe preverse una instrucción para que la aeronave inicie el ascenso en la posición indicada hasta el nivel indicado. | AT (position) EXPECT CLIMB TO (level). | L | L | R |
+| 15 | Notificación de que debe preverse una instrucción para que la aeronave inicie el descenso a la hora indicada hasta el nivel indicado. | AT (time) EXPECT DESCENT TO (level). | L | L | R |
+| 16 | Notificación de que debe preverse una instrucción para que la aeronave inicie el descenso en la posición indicada hasta el nivel indicado. | AT (position) EXPECT DESCENT TO (level). | L | L | R |
+| 17 | Notificación de que debe preverse una instrucción para que la aeronave inicie el ascenso en crucero a la hora indicada hasta el nivel indicado. | AT (time) EXPECT CRUISE CLIMB TO (level). | L | L | R |
+| 18 | Notificación de que debe preverse una instrucción para que la aeronave inicie el ascenso en crucero en la posición indicada hasta el nivel indicado. | AT (position) EXPECT CRUISE CLIMB TO (level). | L | L | R |
+| 19 | Instrucción de mantener el nivel indicado | MAINTAIN (level). | N | M | W/U |
+| 20 | Instrucción de que debe iniciarse el ascenso hasta un nivel indicado y, cuando se alcance, debe mantenerse dicho nivel. | CLIMB TO (level). | N | M | W/U |
+| 21 | Instrucción de que, a la hora indicada, debe iniciarse el ascenso hasta el nivel indicado y, cuando se alcance, debe mantenerse dicho nivel. | AT (time) CLIMB TO (level). | N | M | W/U |
+| 22 | Instrucción de que, en la posición indicada, debe iniciarse el ascenso hasta el nivel indicado y, cuando se alcance, debe mantenerse dicho nivel. | AT (position) CLIMB TO (level). | N | M | W/U |
+| 185 | Instrucción de que después de pasar por la posición indicada, debe iniciarse el ascenso hasta el nivel indicado y, una vez alcanzado, debe mantenerse dicho nivel. | AFTER PASSING (position) CLIMB TO (level). | N | M | W/U |
+| 23 | Instrucción de que debe iniciarse el descenso hasta un nivel indicado y, cuando se alcance, debe mantenerse dicho nivel. | DESCEND TO (level). | N | M | W/U |
+| 24 | Instrucción de que, a la hora indicada, debe iniciarse el descenso a un nivel indicado y, una vez alcanzado, debe mantenerse dicho nivel. | AT (time) DESCEND TO (level). | N | M | W/U |
+| 25 | Instrucción de que, en la posición indicada, debe iniciarse el descenso hasta el nivel indicado y, cuando se alcance, debe mantenerse dicho nivel. | AT (position) DESCEND TO (level). | N | M | W/U |
+| 186 | Instrucción de que después de pasar por la posición indicada, debe iniciarse el descenso hasta el nivel indicado y, una vez alcanzado, debe mantenerse dicho nivel. | AFTER PASSING (position) DESCEND TO (level). | N | M | W/U |
+| 26 | Instrucción de que debe iniciarse el ascenso a una velocidad tal que se alcance el nivel a la hora indicada o antes. | CLIMB TO REACH (level) BY (time). | N | M | W/U |
+| 27 | Instrucción de que debe iniciarse el ascenso a una velocidad tal que se alcance el nivel indicado en la posición indicada o antes. | CLIMB TO REACH (level) BY (position). | N | M | W/U |
+| 28 | Instrucción de que debe iniciarse el descenso a una velocidad tal que se alcance el nivel indicado a la hora indicada o antes. | DESCEND TO REACH (level) BY (time). | N | M | W/U |
+| 29 | Instrucción de que debe iniciarse el descenso a una velocidad tal que se alcance el nivel indicado en la posición indicada o antes. | DESCEND TO REACH (level) BY (position). | N | M | W/U |
+| 192 | Instrucción de que debe continuar un cambio de nivel, pero a una velocidad tal que se alcance el nivel indicado a la hora indicada o antes. | REACH (level) BY (time). | N | M | W/U |
+| 209 | Instrucción de que debe continuar un cambio de nivel, pero a una velocidad tal que se alcance el nivel indicado en la posición indicada o antes. | REACH (level) BY (position). | N | M | W/U |
+| 30 | Instrucción de que debe mantenerse un nivel dentro del intervalo vertical indicado. | MAINTAIN BLOCK (level) TO (level). | N | M | W/U |
+| 31 | Instrucción de que debe iniciarse el ascenso hasta un nivel dentro del intervalo vertical indicado. | CLIMB TO AND MAINTAIN BLOCK (level) TO (level). | N | M | W/U |
+| 32 | Instrucción de que debe iniciarse el descenso hasta un nivel dentro del intervalo vertical indicado. | DESCEND TO AND MAINTAIN BLOCK (level) TO (level). | N | M | W/U |
+| 34 | Instrucción de que un ascenso en crucero debe iniciarse y continuar hasta que se alcance el nivel indicado. | CRUISE CLIMB TO (level). | N | M | W/U |
+| 35 | Instrucción de que debe iniciarse un ascenso en crucero después de sobrepasar el nivel indicado. | CRUISE CLIMB ABOVE (level). | N | M | W/U |
+| 219 | Instrucción para interrumpir el ascenso por debajo del nivel asignado anteriormente. | STOP CLIMB AT (level). | U | M | W/U |
+| 220 | Instrucción para interrumpir el descenso por encima del nivel asignado anteriormente. | STOP DESCENT AT (level). | U | M | W/U |
+| 36 | Instrucción de que el ascenso al nivel indicado debería efectuarse a la mayor velocidad posible. | EXPEDITE CLIMB TO (level). | U | M | W/U |
+| 37 | Instrucción de que el descenso hasta el nivel indicado debería efectuarse a la mayor velocidad posible. | EXPEDITE DESCENT TO (level). | U | M | W/U |
+| 38 | Instrucción urgente para ascender inmediatamente hasta el nivel indicado. | INMEDIATELY CLIMB TO (level). | D | H | W/U |
+| 39 | Instrucción urgente para descender inmediatamente hasta el nivel indicado. | INMEDIATELY DESCEND TO (level). | D | H | W/U |
+| 40 | (reservado). |  | L | L | Y |
+| 41 | (reservado). |  | L | L | Y |
+| 171 | Instrucción para ascender a una velocidad no inferior a la indicada. | CLIMB AT (vertical rate) MINIMUM. | N | M | W/U |
+| 172 | Instrucción para ascender a una velocidad no superior a la indicada. | CLIMB AT (vertical rate) MAXIMUM. | N | M | W/U |
+| 173 | Instrucción para descender a una velocidad no inferior a la indicada. | DESCEND AT (vertical rate) MINIMUM. | N | M | W/U |
+| 174 | Instrucción para descender a una velocidad no superior a la indicada. | DESCEND AT (vertical rate) MAXIMUM. | N | M | W/U |
+| 33 | (Reservado). |  | L | L | Y |
+
+Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede establecer un nivel único o bien un intervalo vertical, es decir, un bloque de niveles.
+
+Tabla 4.12.7 Restricciones relativas al paso (enlace ascendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 42 | Notificación de que debe preverse una instrucción de cambio de nivel que exigirá que se pase por la posición indicada al nivel indicado. | EXPECT TO CROSS (position) AT (level). | L | L | R |
+| 43 | Notificación de que debe preverse una instrucción de cambio de nivel que exigirá que se pase por una posición indicada a un nivel indicado o por encima del mismo. | EXPECT TO CROSS (position) AT OR ABOVE (level). | L | L | R |
+| 44 | Notificación de que debe preverse una instrucción de cambio de nivel que exigirá que se pase por la posición indicada en el nivel indicado o por debajo del mismo. | EXPECT TO CROSS (position) AT OR BELOW (level). | L | L | R |
+| 45 | Notificación de que debe preverse una instrucción de cambio de nivel que exigirá que se pase por la posición indicada en el nivel indicado que luego debe mantenerse. | EXPECT TO CROSS (position) AT AND MAINTAIN (level). | L | L | R |
+| 46 | Instrucción de que debe pasarse por la posición indicada en el nivel indicado. Esto puede exigir que la aeronave modifique su perfil de ascenso o descenso. | CROSS (position) AT (level). | N | M | W/U |
+| 47 | Instrucción de que debe pasarse por la posición indicada en el nivel indicado o por encima del mismo. | CROSS (position) AT OR ABOVE (level). | N | M | W/U |
+| 48 | Instrucción de que debe pasarse por la posición indicada en el nivel indicado o por debajo del mismo. | CROSS (position) AT OR BELOW (level). | N | M | W/U |
+| 49 | Instrucción de que debe pasarse por la posición indicada en el nivel indicado y que, cuando se alcance, debe mantenerse dicho nivel. | CROSS (position) AT AND MAINTAIN (level). | N | M | W/U |
+| 50 | Instrucción de que debe pasarse por la posición indicada a un nivel entre los niveles indicados. | CROSS (position) BETWEEN (level) AND (level). | N | M | W/U |
+| 51 | Instrucción de que debe pasarse por la posición indicada a la hora indicada. | CROSS (position) AT (time). | N | M | W/U |
+| 52 | Instrucción de que debe pasarse por la posición indicada a la hora indicada o antes. | CROSS (position) AT OR BEFORE (time). | N | M | W/U |
+| 53 | Instrucción de que debe pasarse por la posición indicada a la hora indicada o después. | CROSS (position) AT OR AFTER (time). | N | M | W/U |
+| 54 | Instrucción de que debe pasarse por la posición indicada a una hora situada entre las horas indicadas. | CROSS (position) BETWEEN (time) AND (time). | N | M | W/U |
+| 55 | Instrucción de que debe pasarse por la posición indicada a la velocidad indicada y ésta debe mantenerse hasta nuevo aviso. | CROSS (position) AT (speed). | N | M | W/U |
+| 56 | Instrucción de que debe pasarse por la posición indicada a una velocidad igual o inferior a la velocidad indicada y ésta, u otra velocidad inferior, debe mantenerse hasta nuevo aviso. | CROSS (position) AT OR LESS THAN (speed). | N | M | W/U |
+| 57 | Instrucción de que debe cruzarse por la posición indicada a una velocidad igual o superior a la indicada, manteniéndose la misma hasta nuevo aviso. | CROSS (position) AT OR GREATER THAN (speed). | N | M | W/U |
+| 58 | Instrucción de que debe pasarse por la posición indicada a la hora indicada y al nivel indicado. | CROSS (position) AT (time) AT (level). | N | M | W/U |
+| 59 | Instrucción de que debe pasarse por la posición indicada a la hora indicada o antes y al nivel indicado. | CROSS (position) AT OR BEFORE (time) AT (level). | N | M | W/U |
+| 60 | Instrucción de que debe pasarse por la posición indicada a la hora indicada o después y al nivel indicado. | CROSS (position) AT OR AFTER (time) AT (level). | N | M | W/U |
+| 61 | Instrucción de que debe pasarse por la posición indicada al nivel y a la velocidad indicados, debiendo mantenerse los mismos. | CROSS (position) AT AND MAINTAIN (level) AT (speed). | N | M | W/U |
+| 62 | Instrucción de que, a la hora indicada, debe pasarse por la posición indicada al nivel indicado, manteniéndose dicho nivel. | AT (time) CROSS (position) AT AND MAINTAIN (level). | N | M | W/U |
+| 63 | Instrucción de que, a la hora indicada, debe pasarse por la posición indicada al nivel y a la velocidad indicados, debiendo mantenerse los mismos. | AT (time) CROSS (position) AT AND MAINTAIN (level) AT (speed). | N | M | W/U |
+
+Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede establecer un nivel único o bien un intervalo vertical, es decir, un bloque de niveles.
+
+Tabla 4.12.8 Desplazamientos laterales (enlace ascendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 64 | Instrucción para volar por una derrota paralela a la ruta autorizada, con un desplazamiento equivalente a la distancia indicada en la dirección indicada. | OFFSET (specified distance) (direction) OF ROUTE. | N | M | W/U |
+| 65 | Instrucción para volar por una derrota paralela a la ruta autorizada, con un desplazamiento equivalente a la distancia indicada en la dirección indicada, a partir de la posición indicada. | AT (position) OFFSET (specified distance) (direction) OF ROUTE. | N | M | W/U |
+| 66 | Instrucción para volar por una derrota paralela a la ruta autorizada con un desplazamiento equivalente a la distancia indicada en la dirección indicada, a partir de la hora indicada. | AT (time) OFFSET (specified distance) (direction) OF ROUTE. | N | M | W/U |
+| 67 | Instrucción de que debe entrarse de nuevo en la ruta de vuelo autorizada. | PROCEED BACK ON ROUTE. | N | M | W/U |
+| 68 | Instrucción de que debe entrarse de nuevo en la ruta de vuelo autorizada en la posición indicada o antes. | REJOIN ROUTE BY (position). | N | M | W/U |
+| 69 | Instrucción de que debe entrarse de nuevo en la ruta de vuelo autorizada a la hora indicada o antes. | REJOIN ROUTE BY (time). | N | M | W/U |
+| 70 | Notificación de que puede concederse una autorización para permitir que la aeronave entre de nuevo en la ruta autorizada en la posición indicada o antes. | EXPECT BACK ON ROUTE BY (position). | L | L | R |
+| 71 | Notificación de que puede concederse una autorización para permitir que la aeronave entre de nuevo en la ruta autorizada a la hora indicada o antes. | EXPECT BACK ON ROUTE BY (time). | L | L | R |
+| 72 | Instrucción para reanudar la propia navegación después de un período de autorizaciones relativas a la derrota o el rumbo. Puede usarse en relación con una instrucción sobre la manera de entrar de nuevo en una ruta autorizada o sobre el lugar correspondiente. | RESUME OWN NAVIGATION. | N | M | W/U |
+
+Tabla 4.12.9 Modificaciones de ruta (enlace ascendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 73 | Notificación a la aeronave acerca de las instrucciones que deben seguirse desde la salida hasta el límite de autorización indicado. | (departure clearance). | N | M | W/U |
+| 74 | Instrucción para dirigirse directamente de su posición actual a la posición indicada. | PROCEED DIRECT TO (position). | N | M | W/U |
+| 75 | Instrucción para dirigirse, cuando pueda hacerlo, directamente a la posición indicada. | WHEN ABLE PROCEED DIRECT TO (position). | N | M | W/U |
+| 76 | Instrucción para dirigirse directamente a la posición indicada a la hora indicada. | AT (time) PROCEED DIRECT TO (position). | N | M | W/U |
+| 77 | Instrucción para dirigirse, a partir de la posición indicada, directamente a la posiciónindicada siguiente. | AT (position) PROCEED DIRECT TO (position). | N | M | W/U |
+| 78 | Instrucción para dirigirse, al alcanzar el nivel indicado, directamente a la posición indicada. | AT (level) PROCEED DIRECT TO (position). | N | M | W/U |
+| 79 | Instrucción para dirigirse a la posición indicada vía la ruta indicada. | CLEARED TO (position) VIA (route clearance). | N | M | W/U |
+| 80 | Instrucción para dirigirse vía la ruta indicada. | CLEARED (route clearance). | N | M | W/U |
+| 81 | Instrucción para proseguir el vuelo de conformidad con el procedimiento indicado. | CLEARED (procedure name). | N | M | W/U |
+| 236 | Instrucción para salir del espacio aéreo controlado. | LEAVE CONTROLLED AIRSPACE. | N | M | W/U |
+| 82 | Aprobación para desviarse de la ruta autorizada en la dirección indicada hasta la distancia indicada. | CLEARED TO DEVIATE UP TO (specified distance) (direction) OF ROUTE. | N | M | W/U |
+| 83 | Instrucción para proseguir el vuelo a partir de la posición indicada vía la ruta indicada. | AT (position) CLEARED (route clearance). | N | M | W/U |
+| 84 | Instrucción para proseguir el vuelo a partir de la posición indicada mediante el procedimiento indicado. | AT (position) CLEARED (procedure name). | N | M | W/U |
+| 85 | Notificación de que puede concederse una autorización para volar por la ruta indicada. | EXPECT (route clearance). | L | L | R |
+| 86 | Notificación de que puede concederse una autorización para volar por la ruta indicada a partir de la posición indicada. | AT (position) EXPECT (route clearance). | L | L | R |
+| 87 | Notificación de que puede concederse una autorización para volar directamente a la posición indicada. | EXPECT DIRECT TO (position). | L | L | R |
+| 88 | Notificación de que puede concederse una autorización para volar directamente desde la primera posición indicada a la siguiente. | AT (position) EXPECT DIRECT TO (position). | L | L | R |
+| 89 | Notificación de que puede concederse una autorización para volar directamente a la posición indicada a partir de la hora indicada. | AT (time) EXPECT DIRECT TO (position). | L | L | R |
+| 90 | Notificación de que puede concederse una autorización para volar directamente a la posición indicada a partir del momento en que se alcanza el nivel indicado. | AT (level) EXPECT DIRECT TO (position). | L | L | R |
+| 91 | Instrucción para entrar en un circuito de espera con las características indicadas en la posición y el nivel indicados. | HOLD AT (position) MAINTAIN (level) INBOUND TRACK (degrees) (direction) TURNS (leg type). | N | M | W/U |
+| 92 | Instrucción para entrar en un circuito de espera con las características publicadas en la posición y el nivel indicados. | HOLD AT (position) AS PUBLISHED MAINTAIN (level). | N | M | W/U |
+| 93 | Notificación de que puede concederse, a la hora indicada, una autorización relativa a la continuación del vuelo. | EXPECT FURTHER CLEARANCE AT (time). | L | L | R |
+| 94 | Instrucción para virar a la izquierda o a la derecha, según lo indicado, con el rumbo indicado. | TURN (direction) HEADING (degrees). | N | M | W/U |
+| 95 | Instrucción para virar a la izquierda o a la derecha, según lo indicado, hasta la derrota indicada. | TURN (direction) GROUND TRACK (degrees). | N | M | W/U |
+| 215 | Instrucción para virar el número indicado de grados a la izquierda o a la derecha. | TURN (direction) (degrees). | N | M | W/U |
+| 190 | Instrucción para volar con el rumbo indicado. | FLY HEADING (degrees). | N | M | W/U |
+| 96 | Instrucción para seguir el vuelo con el rumbo actual. | CONTINUE PRESENT HEADING. | N | M | W/U |
+| 97 | Instrucción para volar con el rumbo indicado a partir de la posición indicada. | AT (position) FLY HEADING (degrees). | N | M | W/U |
+| 221 | Instrucción para interrumpir el viraje en el rumbo indicado antes de alcanzar el rumbo asignado anteriormente. | STOP TURN HEADING (degrees). | U | M | W/U |
+| 98 | Instrucción para virar inmediatamente a la izquierda o a la derecha, según lo indicado, con el rumbo indicado. | INMEDIATELY TURN (direction) HEADING (degrees). | D | H | W/U |
+| 99 | Notificación de que puede concederse una autorización para que la aeronave vuele según el procedimiento indicado. | EXPECT (procedure name). | L | L | R |
+
+Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede establecer un nivel único o bien un intervalo vertical, es decir, un bloque de niveles.
+
+Tabla 4.12.10 Cambios de velocidad (enlace ascendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 100 | Notificación de que puede emitirse una instrucción relativa a la velocidad que entrará en vigor a la hora indicada. | AT (time) EXPECT (speed). | L | L | R |
+| 101 | Notificación de que puede emitirse una instrucción relativa a la velocidad que se aplicará en la posición indicada. | AT (position) EXPECT (speed). | L | L | R |
+| 102 | Notificación de que puede emitirse una instrucción relativa a la velocidad que se aplicará al nivel indicado. | AT (level) EXPECT (speed). | L | L | R |
+| 103 | Notificación de que puede emitirse una instrucción relativa a la gama de velocidades que se aplicará a la hora indicada. | AT (time) EXPECT (speed) TO (speed). | L | L | R |
+| 104 | Notificación de que puede emitirse una instrucción relativa a la gama de velocidades que se aplicará en la posición indicada. | AT (position) EXPECT (speed) TO (speed). | L | L | R |
+| 105 | Notificación de que puede emitirse una instrucción relativa a la gama de velocidades que se aplicará al nivel indicado. | AT (level) EXPECT (speed) TO (speed). | L | L | R |
+| 106 | Instrucción de que debe mantenerse la velocidad indicada. | MAINTAIN (speed). | N | M | W/U |
+| 188 | Instrucción de que después de pasar por la posición indicada debe mantenerse la velocidad indicada. | AFTER PASSING (position) MAINTAIN (speed). | N | M | W/U |
+| 107 | Instrucción de que debe mantenerse la velocidad actual. | MAINTAIN PRESENT SPEED. | N | M | W/U |
+| 108 | Instrucción de que debe mantenerse la velocidad indicada u otra superior. | MAINTAIN (speed) OR GREATER. | N | M | W/U |
+| 109 | Instrucción de que debe mantenerse la velocidad indicada u otra inferior. | MAINTAIN (speed) OR LESS. | N | M | W/U |
+| 110 | Instrucción de que debe mantenerse una velocidad dentro de la gama indicada. | MAINTAIN (speed) TO (speed). | N | M | W/U |
+| 111 | Instrucción de que debe aumentarse la velocidad actual hasta la velocidad indicada y mantenerse hasta nuevo aviso. | INCREASE SPEED TO (speed). | N | M | W/U |
+| 112 | Instrucción de que debe aumentarse la velocidad actual hasta la velocidad indicada u otra superior, manteniéndose hasta nuevo aviso. | INCREASE SPEED TO (speed) OR GREATER. | N | M | W/U |
+| 113 | Instrucción de que debe reducirse la velocidad actual hasta la velocidad indicada y mantenerse hasta nuevo aviso. | REDUCE SPEED TO (speed). | N | M | W/U |
+| 114 | Instrucción de que debe reducirse la velocidad actual hasta la velocidad indicada u otra inferior, manteniéndose hasta nuevo aviso. | REDUCE SPEED TO (speed) OR LESS. | N | M | W/U |
+| 115 | Instrucción de que no debe excederse la velocidad indicada. | DO NOT EXCEED (speed). | N | M | W/U |
+| 116 | Notificación de que la aeronave ya no necesita aplicar la limitación de velocidad emitida anteriormente. | RESUME NORMAL SPEED. | N | M | W/U |
+| 189 | Instrucción de que debe mantenerse la velocidad actual hasta alcanzar la indicada. | ADJUST SPEED TO (speed). | N | M | W/U |
+| 222 | Notificación de que la aeronave puede mantener su velocidad preferida sin restricciones. | NO SPEED RESTRICTION. | L | L | R |
+| 223 | Instrucción para reducir la velocidad actual hasta alcanzar la velocidad mínima de aproximación que sea segura. | REDUCE TO MINIMUM APPROACH SPEED. | N | M | W/U |
+
+Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede establecer un nivel único o bien un intervalo vertical, es decir, un bloque de niveles.
+
+Tabla 4.12.11 Solicitudes de contacto/escucha/vigilancia (enlace ascendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 117 | Instrucción de que debe entrarse en contacto, por la frecuencia indicada, con la dependencia ATS cuyo nombre se indica. | CONTACT (unit name) (frequency). | N | M | W/U |
+| 118 | Instrucción de que debe entrarse en contacto, en la posición indicada y por la frecuencia indicada, con la dependencia ATS cuyo nombre se indica. | AT (position) CONTACT (unit name) (frequency). | N | M | W/U |
+| 119 | Instrucción de que debe entrarse en contacto, a la hora indicada y por la frecuencia indicada, con la dependencia ATS cuyo nombre se indica. | AT (time) CONTACT (unit name) (frequency). | N | M | W/U |
+| 120 | Instrucción de que la dependencia ATS cuyo nombre se indica debe escucharse por la frecuencia indicada. | MONITOR (unit name) (frequency). | N | M | W/U |
+| 121 | Instrucción de que en la posición indicada, la dependencia ATS cuyo nombre se indica debe escucharse por la frecuencia indicada. | AT (position) MONITOR (unit name) (frequency). | N | M | W/U |
+| 122 | Instrucción de que a la hora indicada, la dependencia ATS cuyo nombre se indica debe escucharse por la frecuencia indicada. | AT (time) MONITOR (unit name) (frequency). | N | M | W/U |
+| 123 | Instrucción de que debe seleccionarse el código de radiofaro (código SSR) indicado. | SQUAWK (code). | N | M | W/U |
+| 124 | Instrucción de que deben interrumpirse las respuestas del transpondedor SSR. | STOP SQUAWK. | N | M | W/U |
+| 125 | Instrucción de que las respuestas del transpondedor SSR deberían incluir información sobre nivel. | SQUAWK MODE CHARLIE. | N | M | W/U |
+| 126 | Instrucción de que las respuestas del transpondedor SSR ya no deberían incluir información sobre nivel. | STOP SQUAWK MODE CHARLIE. | N | M | W/U |
+| 179 | Instrucción de que debe activarse la función IDENTIFICACIÓN del transpondedor. | SQUAWK IDENT. | N | M | W/U |
+
+Tabla 4.12.12 Solicitudes de notificación/confirmación (enlace ascendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 127 | Instrucción para notificar que la aeronave ha regresado a la ruta autorizada. | REPORT BACK ON ROUTE. | N | L | W/U |
+| 128 | Instrucción para notificar que la aeronave ha salido del nivel indicado. | REPORT LEAVING (level). | N | L | W/U |
+| 129 | Instrucción para notificar que la aeronave se mantiene en vuelo en nivel horizontal a la altitud indicada. | REPORT MAINTAINING (level). | N | L | W/U |
+| 175 | Instrucción para notificar que la aeronave ha alcanzado el nivel indicado. | REPORT REACHING (level). | N | L | W/U |
+| 200 | Instrucción utilizada con una autorización de nivel para notificar que se ha alcanzado el nivel indicado. | REPORT REACHING. | N | L | W/U |
+| 180 | Instrucción para notificar que la aeronave se haya dentro del intervalo vertical indicado. | REPORT REACHING BLOCK (level) TO (level). | N | L | W/U |
+| 130 | Instrucción para notificar que la aeronave ha pasado por la posición indicada. | REPORT PASSING (position). | N | L | W/U |
+| 181 | Instrucción para notificar la distancia actual hasta la posición indicada o desde la misma. | REPORT DISTANCE (to/from) (position). | N | M | Y |
+| 184 | Instrucción para notificar la distancia actual hasta la posición indicada o desde la misma a la hora indicada. | AT (time) REPORT DISTANCE (to/from) (position). | N | L | Y |
+| 228 | Instrucción para notificar la hora prevista de llegada a la posición indicada. | REPORT ETA (position). | L | L | Y |
+| 131 | Instrucción para notificar la cantidad restante de combustible y el número de personas a bordo. | REPORT REMAINING FUEL AND PERSONS ON BOARD. | U | M | Y |
+| 132 | Instrucción para notificar la posición actual. | REPORT POSITION. | N | M | Y |
+| 133 | Instrucción para notificar el nivel actual. | REPORT PRESENT LEVEL. | N | M | Y |
+| 134 | Instrucción para notificar la velocidad solicitada. | REPORT (speed type) (speed type) (speed type) SPEED. | N | M | Y |
+| 135 | Instrucción para confirmar y acusar recibo del nivel asignado actualmente. | CONFIRM ASSIGNED LEVEL. | N | L | Y |
+| 136 | Instrucción para confirmar y acusar recibo de la velocidad asignada actualmente. | CONFIRM ASSIGNED SPEED. | N | L | Y |
+| 137 | Instrucción para confirmar y acusar recibo de la ruta asignada actualmente. | CONFIRM ASSIGNED ROUTE. | N | L | Y |
+| 138 | Instrucción para confirmar la hora notificada anteriormente por encima del último punto de recorrido notificado. | CONFIRM TIME OVER REPORTED WAYPOINT. | N | L | Y |
+| 139 | Instrucción para confirmar la identidad del punto de recorrido notificado anteriormente. | CONFIRM REPORTED WAYPOINT. | N | L | Y |
+| 140 | Instrucción para confirmar la identidad del punto de recorrido siguiente. | CONFIRM NEXT WAYPOINT. | N | L | Y |
+| 141 | Instrucción para confirmar la hora estimada notificada anteriormente en el punto de recorrido siguiente. | CONFIRM NEXT WAYPOINT ETA. | N | L | Y |
+| 142 | Instrucción para confirmar la identidad del punto de recorrido siguiente + 1. | CONFIRM ENSUING WAYPOINT. | N | L | Y |
+| 143 | No se ha entendido la solicitud. Debe aclararse y presentarse de nuevo. | CONFIRM REQUEST. | N | L | Y |
+| 144 | Instrucción para notificar el código (SSR) seleccionado. | CONFIRM SQUAWK. | N | L | Y |
+| 145 | Instrucción para notificar el rumbo actual. | REPORT HEADING. | N | M | Y |
+| 146 | Instrucción para notificar la derrota actual. | REPORT GROUND TRACK. | N | M | Y |
+| 182 | Instrucción para notificar el código de identificación del último ATIS recibido. | CONFIRM ATIS CODE. | N | L | Y |
+| 147 | Instrucción para presentar un informe de posición. | REQUEST POSITION REPORT. | N | M | Y |
+| 216 | Instrucción para presentar un plan de vuelo. | REQUEST FLIGHT PLAN. | N | M | Y |
+| 217 | Instrucción para notificar que la aeronave ha aterrizado. | REPORT ARRIVAL. | N | M | Y |
+| 229 | Instrucción para notificar el aeródromo de alternativa preferido para el aterrizaje. | REPORT ALTERNATE AERODROME. | L | L | Y |
+| 231 | Instrucción para indicar el nivel preferido del piloto. | STATE PREFERRED LEVEL. | L | L | Y |
+| 232 | Instrucción para indicar la hora y posición preferidas del piloto para iniciar el descenso al aeródromo de llegada previsto. | STATE TOP OF DESCENT. | L | L | Y |
+
+Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede establecer un nivel único o bien un intervalo vertical, es decir, un bloque de niveles.
+
+Tabla 4.12.13 Solicitudes de negociación (enlace ascendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 148 | Solicitud relativa a la hora más temprana en que puede aceptarse el nivel indicado. | WHEN CAN YOU ACCEPT (level). | N | L | Y |
+| 149 | Instrucción para notificar si puede aceptarse el nivel indicado en la posición indicada. | CAN YOU ACCEPT (level) AT (position). | N | L | A/N |
+| 150 | Instrucción para notificar si puede aceptarse el nivel indicado a la hora indicada. | CAN YOU ACCEPT (level) AT (time). | N | L | A/N |
+| 151 | Instrucción para notificar la hora más temprana en que puede aceptarse el nivel indicado. | WHEN CAN YOU ACCEPT (speed). | N | L | Y |
+| 152 | Instrucción para notificar la hora más temprana en que puede aceptarse la derrota desplazada indicada. | WHEN CAN YOU ACCEPT (specified distance) (direction) OFFSET. | N | L | Y |
+
+Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede establecer un nivel único o bien un intervalo vertical, es decir, un bloque de niveles.
+
+Tabla 4.12.14 Avisos de tránsito aéreo (enlace ascendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 153 | Aviso ATS de que el reglaje de altímetro debe ser el que se indica. | ALTIMETER (altimeter). | N | L | R |
+| 213 | Aviso ATS de que el reglaje de altímetro indicado se relaciona con la instalación indicada. | (facility designation) ALTIMETER (altimeter). | N | L | R |
+| 154 | Aviso ATS de que se ha interrumpido el servicio radar. | RADAR SERVICE TERMINATED. | N | L | R |
+| 191 | Aviso ATS de que la aeronave está entrando en un espacio aéreo en que no se proporcionan servicios de tránsito aéreo y se han interrumpido todos los existentes. | ALL ATS TERMINATED. | N | M | R |
+| 155 | Aviso ATS de que se ha establecido el contacto radar en la posición indicada. | RADAR CONTACT (position). | N | M | R |
+| 156 | Aviso ATS de que se ha perdido el contacto radar. | RADAR CONTACT LOST. | N | M | R |
+| 210 | Aviso ATS de que se ha identificado la aeronave en el radar en la posición indicada. | IDENTIFIED (position). | N | M | R |
+| 193 | Notificación de que se ha perdido la identificación radar. | IDENTIFICATION LOST. | N | M | R |
+| 157 | Notificación de que se observa una transmisión continua en la frecuencia indicada. Verifique el interruptor de micrófono. | CHECK STUCK MICROPHONE (frequency). | U | M | N |
+| 158 | Aviso ATS de que la información ATIS identificada por el código indicado es la vigente. | ATIS (atis code). | N | L | R |
+| 212 | Aviso ATS de que la información ATIS indicada en el aeropuerto indicado es la vigente. | (facility designation) ATIS (atis code) CURRENT. | N | L | R |
+| 214 | Aviso ATS para indicar el valor RVR de la pista indicada. | RVR RUNWAY (runway) (rvr). | N | M | R |
+| 224 | Aviso ATS de que no se prevé demora alguna. | NO DELAY EXPECTED. | N | L | R |
+| 225 | Aviso ATS de que no se ha determinado la demora prevista. | DELAY NOT DETERMINED. | N | L | R |
+| 226 | Aviso ATS de que puede preverse que se autorice a la aeronave iniciar sus procedimientos de aproximación a la hora indicada. | EXPECTED APPROACH TIME (time). | N | L | R |
+
+Tabla 4.12.15 Mensajes de gestión del sistema (enlace ascendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 159 | Un mensaje producido por el sistema para notificar que el sistema de tierra ha detectado un error. | ERROR (error information). | U | M | N |
+| 160 | Notificación a la aviónica de que la autoridad de datos indicada es la autoridad de datos siguiente. Si no se indica autoridad responsable del intercambio de datos, quiere decir que la autoridad responsable del intercambio de datos siguiente indicada con autoridad ya no es válida. | NEXT DATA AUTHORITY (facility designation). | L | N | N |
+| 161 | Notificación a la aviónica de que se está interrumpiendo la conexión de enlace de datos con la autoridad actual responsable del intercambio de datos. | END SERVICE. | L | N | N |
+| 162 | Notificación de que el sistema de tierra no acepta este mensaje. | SERVICE UNAVAILABLE. | L | L | N |
+| 234 | Notificación de que el sistema de tierra no tiene un plan de vuelo para esa aeronave. | FLIGHT PLAN NOT HELD. | L | L | N |
+| 163 | Notificación de un identificador ATSU al piloto. | (facility designation). | L | N | N |
+| 227 | Confirmación al sistema de aeronave de que el sistema de tierra ha recibido el mensaje al que se refiere el acuse de recibo lógico y lo ha encontrado aceptable para presentación a la persona responsable. | LOGICAL ACKNOWLEDGEMENT. | N | M | N |
+| 233 | Notificación al piloto de que este sistema de tierra no aceptará los mensajes enviados que exigen acuse de recibo lógico. | USE OF LOGICAL ACKNOWLEDGEMENT PROHIBITED. | N | M | N |
+
+Tabla 4.12.16 Mensajes adicionales (enlace ascendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 164 | La instrucción conexa puede seguirse en cualquier momento futuro. | WHEN READY. | L | N | N |
+| 230 | La instrucción conexa puede seguirse inmediatamente. | INMEDIATELY. | D | H | N |
+| 165 | Utilízase para enlazar dos mensajes, indicando el orden de ejecución apropiado de autorizaciones/instrucciones. | THEN. | L | N | N |
+| 166 | Se emite la instrucción conexa por motivos de tránsito. | DUE TO (traffic type) TRAFFIC. | L | N | N |
+| 167 | Se emite la instrucción conexa debido a limitaciones del espacio aéreo. | DUE TO AIRSPACE RESTRICTION. | L | N | N |
+| 168 | No debe tenerse en cuenta la comunicación indicada. | DISREGARD. | U | M | R |
+| 176 | Notificación de que le toca al piloto mantener la separación respecto a otras aeronaves y también las condiciones meteorológicas de vuelo visual. | MAINTAIN OWN SEPARATION AND VMC. | N | M | W/U |
+| 177 | Utilízase en relación con una autorización o instrucción para indicar que el piloto puede ejecutarla cuando esté en condiciones de hacerlo. | AT PILOTS DISCRETION. | L | L | N |
+| 178 | (Reservado). |  | L | L | Y |
+| 169 |  | (free text). | N | L | R |
+| 170 |  | (free text). | D | H | R |
+| 183 |  | (free text). | N | M | N |
+| 187 |  | (free text). | L | N | N |
+| 194 |  | (free text). | N | L | Y |
+| 195 |  | (free text). | L | L | R |
+| 196 |  | (free text). | N | M | W/U |
+| 197 |  | (free text). | U | M | W/U |
+| 198 |  | (free text). | D | H | W/U |
+| 199 |  | (free text). | N | L | N |
+| 201 | No utilizado. |  | L | L | N |
+| 202 | No utilizado. |  | L | L | N |
+| 203 |  | (free text). | N | M | R |
+| 204 |  | (free text). | N | M | Y |
+| 205 |  | (free text). | N | M | A/N |
+| 206 |  | (free text). | L | N | Y |
+| 207 |  | (free text). | L | L | Y |
+| 208 |  | (free text). | L | L | N |
+
+Nota: Para los elementos del mensaje de texto libre no se especifica el uso del mensaje. La capacidad de enviar un mensaje de texto libre con cualesquiera de las combinaciones de atributos ya utilizadas en la serie de mensajes se ha considerado en los requisitos técnicos de la ATN (Anexo 10, Volumen III, Parte I, Capítulo 3).
+
+4.12.4.2 Mensajes de enlace descendente.
+
+Tabla 4.12.17 Respuestas (enlace descendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 0 | Se ha entendido la instrucción y se seguirá. | WILCO. | N | M | N |
+| 1 | No puede seguirse la instrucción. | UNABLE. | N | M | N |
+| 2 | Espere una respuesta. | STANDBY. | N | M | N |
+| 3 | Mensaje recibido y comprendido. | ROGER. | N | M | N |
+| 4 | Sí. | AFFIRM. | N | M | N |
+| 5 | No. | NEGATIVE. | N | M | N |
+
+Tabla 4.12.18 Solicitudes verticales (enlace descendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 6 | Solicitud para volar al nivel indicado. | REQUEST (level). | N | L | Y |
+| 7 | Solicitud para volar al nivel dentro del intervalo vertical indicado. | REQUEST BLOCK (level) TO (level). | N | L | Y |
+| 8 | Solicitud para ascender en crucero al nivel indicado. | REQUEST CRUISE CLIMB TO (level). | N | L | Y |
+| 9 | Solicitud para ascender al nivel indicado. | REQUEST CLIMB TO (level). | N | L | Y |
+| 10 | Solicitud para descender al nivel indicado. | REQUEST DESCENT TO (level). | N | L | Y |
+| 11 | Solicitud para que se apruebe el ascenso al nivel indicado en la posición indicada. | AT (position) REQUEST CLIMB TO (level). | N | L | Y |
+| 12 | Solicitud para que se apruebe el descenso al nivel indicado en la posición indicada. | AT (position) REQUEST DESCENT TO (level). | N | L | Y |
+| 13 | Solicitud para que se apruebe el ascenso al nivel indicado en la hora indicada. | AT (time) REQUEST CLIMB TO (level). | N | L | Y |
+| 14 | Solicitud para que se apruebe el descenso al nivel indicado en la hora indicada. | AT (time) REQUEST DESCENT TO (level). | N | L | Y |
+| 69 | Solicitud para que se apruebe el descenso en condiciones de «ver y eludir». | REQUEST VMC DESCENT. | N | L | Y |
+
+Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede establecer un nivel único o bien un intervalo vertical, es decir, un bloque de niveles.
+
+Tabla 4.12.19 Solicitudes relativas al desplazamiento lateral (enlace descendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 15 | Solicitud para que se apruebe una derrota paralela, con un desplazamiento respecto a la derrota autorizada equivalente a la distancia indicada en la dirección indicada. | REQUEST OFFSET (specified distance) (direction) OF ROUTE. | N | L | Y |
+| 16 | Solicitud para que se apruebe, a partir de la posición indicada, una derrota con un desplazamiento respecto a la derrota autorizada equivalente a la distancia indicada en la dirección indicada. | AT (position) REQUEST OFFSET (specified distance) (direction) OF ROUTE. | N | L | Y |
+| 17 | Solicitud para que se apruebe, a partir de la hora indicada, una derrota paralela, con un desplazamiento respecto a la derrota autorizada equivalente a la distancia en la dirección indicada. | AT (time) REQUEST OFFSET (specified distance) (direction) OF ROUTE. | N | L | Y |
+
+Tabla 4.12.20 Solicitudes relativas a la velocidad (enlace descendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 18 | Solicitud para volar a la velocidad indicada. | REQUEST (speed). | N | L | Y |
+| 19 | Solicitud para volar dentro del intervalo de velocidad indicado. | REQUEST (speed) TO (speed). | N | L | Y |
+
+Tabla 4.12.21 Solicitudes de contacto voz (enlace descendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 20 | Solicitud de contacto vocal. | REQUEST VOICE CONTACT. | N | L | Y |
+| 21 | Solicitud de contacto vocal por la frecuencia indicada. | REQUEST VOICE CONTACT (frequency). | N | L | Y |
+
+Tabla 4.12.22 Solicitudes de modificación de rutas (enlace descendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 22 | Solicitud para dirigirse directamente de la posición actual a la posición indicada. | REQUEST DIRECT TO (position). | N | L | Y |
+| 23 | Solicitud de autorización de los procedimientos indicados. | REQUEST (procedure name). | N | L | Y |
+| 24 | Solicitud de una autorización de ruta. | REQUEST CLEARANCE (route clearance). | N | L | Y |
+| 25 | Solicitud de una autorización | REQUEST (clearance type) CLEARANCE. | N | L | Y |
+| 26 | Solicitud de una desviación ocasionada por las condiciones meteorológicas a la posición indicada vía la ruta indicada. | REQUEST WEATHER DEVIATION TO (position) VIA (route clearance). | N | M | Y |
+| 27 | Solicitud de una desviación ocasionada por las condiciones meteorológicas hasta la distancia indicada de desplazamiento de la derrota en la dirección indicada. | REQUEST WEATHER DEVIATION UP TO (specified distance) (direction) OF ROUTE. | N | M | Y |
+| 70 | Solicitud de una autorización para adoptar el rumbo indicado. | REQUEST HEADING (degrees). | N | L | Y |
+| 71 | Solicitud de una autorización para adoptar la derrota en tierra indicada. | REQUEST GROUND TRACK (degrees). | N | L | Y |
+
+Tabla 4.12.23 Informes (enlace descendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 28 | Notificación de salida del nivel indicado. | LEAVING (level). | N | L | N |
+| 29 | Notificación de ascenso al nivel indicado. | CLIMBING TO (level). | N | L | N |
+| 30 | Notificación de descenso al nivel indicado. | DESCENDING TO (level). | N | L | N |
+| 31 | Notificación de paso por la posición indicada. | PASSING (position). | N | L | N |
+| 78 | Notificación de que a la hora indicada, la posición de la aeronave era la que se había indicado. | AT (time) (distance) (to/from) (position). | N | L | N |
+| 32 | Notificación del nivel actual. | PRESENT LEVEL (level). | N | L | N |
+| 33 | Notificación de la posición actual. | PRESENT POSITION (position). | N | L | N |
+| 34 | Notificación de la velocidad actual. | PRESENT SPEED (speed). | N | L | N |
+| 113 | Notificación de la velocidad solicitada. | (speed type) (speed type) (speed type) SPEED (speed). | N | L | N |
+| 35 | Notificación del rumbo actual en grados. | PRESENT HEADING (degrees). | N | L | N |
+| 36 | Notificación de la derrota en tierra actual en grados. | PRESENT GROUND TRACK (degrees). | N | L | N |
+| 37 | Notificación de que la aeronave está manteniendo el nivel indicado. | MAINTAINING (level). | N | L | N |
+| 72 | Notificación de que la aeronave ha llegado al nivel indicado. | REACHING (level). | N | L | N |
+| 76 | Notificación de que la aeronave ha llegado a un nivel dentro del intervalo vertical indicado. | REACHING BLOCK (level) TO (level). | N | L | N |
+| 38 | Repetición del nivel asignado. | ASSIGNED LEVEL (level). | N | M | N |
+| 77 | Repetición del intervalo vertical asignado. | ASSIGNED BLOCK (level) TO (level). | N | M | N |
+| 39 | Repetición de la velocidad asignada. | ASSIGNED SPEED (speed). | N | M | N |
+| 40 | Repetición de la ruta asignada. | ASSIGNED ROUTE (route clearance). | N | M | N |
+| 41 | La aeronave ha entrado de nuevo en la ruta autorizada. | BACK ON ROUTE. | N | M | N |
+| 42 | El punto de recorrido siguiente es la posición indicada. | NEXT WAYPOINT (position). | N | L | N |
+| 43 | La hora prevista de llegada al punto de recorrido siguiente es la que se indica. | NEXT WAYPOINT ETA (time). | N | L | N |
+| 44 | El punto de recorrido siguiente +1 es la posición indicada. | ENSUING WAYPOINT (position). | N | L | N |
+| 45 | Aclaración del paso por un punto de recorrido notificado anteriormente. | REPORTED WAYPOINT (position). | N | L | N |
+| 46 | Aclaración de la hora de sobrevuelo de un punto de recorrido notificado anteriormente. | REPORTED WAYPOINT (time). | N | L | N |
+| 47 | Se ha seleccionado el código (SSR) indicado. | SQUAWKING (code). | N | L | N |
+| 48 | Informe de posición. | POSITION REPORT (position report). | N | M | N |
+| 79 | El código de la última ATIS recibida es el indicado. | ATIS (atis code). | N | L | N |
+| 89 | La dependencia ATS indicada se está escuchando por la frecuencia indicada. | MONITORING (unit name) (frequency). | U | M | N |
+| 102 | Úsase para notificar que la aeronave ha aterrizado. | LANDING REPORT. | N | N | N |
+| 104 | Notificación del tiempo previsto de llegada a la posición indicada. | ETA (position) (time). | L | L | N |
+| 105 | Notificación del aeródromo de alternativa para el aterrizaje. | ALTERNATIVE AERODROME (airport). | L | L | N |
+| 106 | Notificación del nivel preferido. | PREFERRED LEVEL (levelt). | L | L | N |
+| 109 | Notificación de la hora preferida para iniciar el descenso para la aproximación. | TOP OF DESCENT (time). | L | L | N |
+| 110 | Notificación de la posición preferida para iniciar el descenso para la aproximación. | TOP OF DESCENT (position). | L | L | N |
+| 111 | Notificación de la hora y posición preferidas para iniciar el descenso para la aproximación. | TOP OF DESCENT (time) (position). | L | L | N |
+
+Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede establecer un nivel único o bien un intervalo vertical, es decir, un bloque de niveles.
+
+Tabla 4.12.24 Solicitudes de Negociación (enlace descendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 49 | Solicitud de la hora más temprana a la que puede preverse una autorización para la velocidad indicada. | WHEN CAN WE EXPECT (speed). | L | L | Y |
+| 50 | Solicitud de la hora más temprana a la que puede preverse una autorización para una velocidad dentro del intervalo indicado. | WHEN CAN WE EXPECT (speed) TO (speed). | L | L | Y |
+| 51 | Solicitud de la hora más temprana a la que puede preverse una autorización para entrar de nuevo en la ruta planificada. | WHEN CAN WE EXPECT BACK ON ROUTE. | L | L | Y |
+| 52 | Solicitud de la hora más temprana a la que puede preverse una autorización para descender. | WHEN CAN WE EXPECT LOWER LEVEL. | L | L | Y |
+| 53 | Solicitud de la hora más temprana a la que puede preverse una autorización para ascender. | WHEN CAN WE EXPECT HIGHER LEVEL. | L | L | Y |
+| 54 | Solicitud de la hora más temprana a la que puede preverse una autorización para ascender en crucero hasta el nivel indicado. | WHEN CAN WE EXPECT CRUISE CLIMB TO (level). | L | L | Y |
+| 87 | Solicitud de la hora más temprana a la que puede preverse una autorización para ascender al nivel indicado. | WHEN CAN WE EXPECT CLIMB TO (level). | L | L | y |
+| 88 | Solicitud de la hora más temprana a la que puede preverse una autorización para descender hasta el nivel indicado. | WHEN CAN WE EXPECT DESCENT TO (level). | L | L | Y |
+
+Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede establecer un nivel único o bien un intervalo vertical, es decir, un bloque de niveles.
+
+Tabla 4.12.25 Mensajes de emergencia y urgentes (enlace descendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 55 | Prefijo de urgencia. | PAN PAN PAN. | U | H | Y |
+| 56 | Prefijo de socorro. | MAYDAY MAYDAY MAYDAY. | D | H | Y |
+| 112 | Indica específicamente que la aeronave es objeto de interferencia ilícita. | SQUAWKING 7500. | U | H | N |
+| 57 | Notificación relativa al combustible restante y al número de personas a bordo. | (remaining fuel) OF FUEL REMAINING AND (persons on board) PERSONS ON BOARD. | U | H | Y |
+| 58 | Notificación de que el piloto desea cancelar la condición de emergencia. | CANCEL EMERGENCY. | U | M | Y |
+| 59 | Notificación de que la aeronave está desviándose hacia la posición indicada vía la ruta indicada por una necesidad urgente. | DIVERTING TO (position) VIA (route clearance). | U | H | Y |
+| 60 | Notificación de que la aeronave está desviándose de la ruta autorizada por la distancia indicada y en la dirección indicada y está manteniendo una derrota paralela por una necesidad urgente. | OFFSETTING (specified distance) (direction) OF ROUTE. | U | H | Y |
+| 61 | Notificación de que la aeronave está descendiendo hasta el nivel indicado por una necesidad urgente. | DESCENDING TO (level). | U | H | Y |
+| 80 | Notificación de que la aeronave está desviándose hasta la distancia indicada desde la ruta autorizada en la dirección indicada por una necesidad urgente. | DEVIATING UP TO (specified distance) (direction) OFF ROUTE. | U | H | Y |
+
+Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede establecer un nivel único o bien un intervalo vertical, es decir, un bloque de niveles.
+
+Tabla 4.12.26 Mensajes de gestión del sistema (enlace descendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 62 | Mensaje producido por el sistema de que la aviónica ha detectado un error. | ERROR (error information). | U | L | N |
+| 63 | Rechazo producido por el sistema de todo mensaje CPDLC procedente de una instalación de tierra que no es la actual autoridad responsable del intercambio de datos. | NOT CURRENT DATA AUTHORITY. | L | L | N |
+| 99 | Mensaje producido por el sistema para informar a una instalación de tierra que es ahora la actual autoridad responsable del intercambio de datos. | CURRENT DATA AUTHORITY. | L | L | N |
+| 64 | Notificación al sistema de tierra de que la ATSU indicada es la actual autoridad responsable del intercambio de datos. | (facility designation). | L | L | N |
+| 107 | Mensaje producido por el sistema y enviado a un sistema de tierra que trata de comunicarse con una aeronave cuando la actual autoridad responsable del intercambio de datos no ha designado a dicho sistema de tierra como autoridad siguiente (NDA). | NOT AUTHORIZED NEXT DATA AUTHORITY. | L | L | N |
+| 73 | Mensaje producido por el sistema para indicar el número de versión del soporte lógico. | (version number). | L | L | N |
+| 100 | Confirmación al sistema de tierra de que el sistema de aeronave ha recibido el mensaje al que se refiere el acuse de recibo lógico y lo considera aceptable para su presentación a la persona responsable. | LOGICAL ACKNOWLEDGEMENT. | N | M | N |
+
+Tabla 4.12.27 Mensajes adicionales (enlace descendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 65 | Úsase para explicar los motivos del mensaje del piloto. | DUE TO WEATHER. | L | L | N |
+| 66 | Úsase para explicar los motivos del mensaje del piloto. | DUE TO AIRCRAFT PERFORMANCE | L | L | N |
+| 74 | Señala que el piloto desea ocuparse de su propia separación y permanecer en VMC. | REQUEST TO MAINTAIN OWN SEPARATION AND VMC. | L | L | Y |
+| 75 | Úsase en relación con otro mensaje para indicar que el piloto desea ejecutar la solicitud cuando la tripulación de vuelo esté preparada para hacerlo. | AT PILOTS DISCRETION. | L | L | N |
+| 101 | Permite al piloto indicar que desea interrumpir el servicio CPDLC con la actual autoridad responsable del intercambio de datos. | REQUEST END OF SERVICE. | L | L | Y |
+| 103 | Permite al piloto indicar que ha cancelado el plan de vuelo IFR. | CANCELLING IFR. | N | L | Y |
+| 108 | Notificación de que se ha llevado a cabo la operación de descongelamiento. | DE-ICING COMPLETE. | L | L | N |
+| 67 |  | (free text). | N | L | N |
+| 68 |  | (free text). | D | H | Y |
+| 90 |  | (free text). | N | M | N |
+| 91 |  | (free text). | N | L | Y |
+| 92 |  | (free text). | L | L | Y |
+| 93 |  | (free text). | U | H | N |
+| 94 |  | (free text). | D | H | N |
+| 95 |  | (free text). | U | M | N |
+| 96 |  | (free text). | U | L | N |
+| 97 |  | (free text). | L | L | N |
+| 98 |  | (free text). | N | N | N |
+
+Nota: Para los elementos del mensaje de texto libre no se especifica el uso del mensaje. La capacidad de enviar un mensaje de texto libre con cualesquiera de las combinaciones de atributos ya utilizadas en la serie de mensajes se ha considerado en los requisitos técnicos de la ATN (Anexo 10, Volumen III, Parte I, Capítulo 3).
+
+Tabla 4.12.28 Respuestas de negociación (enlace descendente).
+
+|  | Objeto/uso del mensaje | Elementos del mensaje | URG | ALRT | RESP |
+| --- | --- | --- | --- | --- | --- |
+| 81 | Podemos aceptar el nivel indicado a la hora indicada. | WE CAN ACCEPT (level) AT (time). | L | L | N |
+| 82 | No podemos aceptar el nivel indicado | WE CANNOT ACCEPT (level) | L | L | N |
+| 83 | Podemos aceptar la velocidad indicada a la hora indicada. | WE CAN ACCEPT (speed) AT (time). | L | L | N |
+| 84 | No podemos aceptar la velocidad indicada. | WE CANNOT ACCEPT (speed). | L | L | N |
+| 85 | Podemos aceptar, a la hora indicada, una derrota paralela desplazada por la distancia indicada en la dirección indicada. | WE CAN ACCEPT (specified distance) (direction) AT (time). | L | L | N |
+| 86 | No podemos aceptar una derrota paralela desplazada por la distancia indicada en la dirección indicada. | WE CANNOT ACCEPT (specified distance) (direction). | L | L | N |
+
+Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede establecer un nivel único o bien un intervalo vertical, es decir, un bloque de niveles.
+
+4.12.5. Aeronaves que utilicen CPDLC.
+
+Las aeronaves que utilicen CPDLC deberán cumplimentar debidamente el plan de vuelo asignando la letra correspondiente de enlace de datos, de conformidad con las disposiciones del Apéndice A y con las publicaciones de información aeronáutica correspondientes (AIP).
+
+Para rellenar la casilla del plan de vuelo correspondiente a enlace de datos (CPDLC), las aeronaves deben contar con el equipamiento y procedimientos operacionales de aeronave adecuados, autorizados a través de la correspondiente aprobación operacional o autorización equivalente emitida por el Estado de matrícula o del operador.
+
+> Se modifican los Capítulos 3 y 10 y se añaden los Capítulo 11 y 12 por el art.único.3 de la Orden PRE/697/2008, de 12 de marzo. Ref. BOE-A-2008-5008
 
 > Se modifican los Capítulos 3 y 5 por el art. único.4 de la Orden PRE/3531/2007, de 29 de noviembre. Ref. BOE-A-2007-20912
 

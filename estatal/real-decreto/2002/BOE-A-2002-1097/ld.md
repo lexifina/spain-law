@@ -1349,7 +1349,7 @@ Nota: Cuando se apliquen las disposiciones de 10.4.4.11.15, el centro de retrans
 
 10.4.4.14.1. Cuando entre las administraciones interesadas se haya convenido en hacer uso de un sistema de distribución predeterminada para los mensajes de la AFTN, se empleará el sistema descrito a continuación.
 
-10.4.4.14.2. El indicador de destinario para distribución predeterminada (PDAI) estará constituido de la manera siguiente:
+10.4.4.14.2. El indicador de destinatario para distribución predeterminada (PDAI) estará constituido de la manera siguiente:
 
 a) primera y segunda letras:
 
@@ -1375,7 +1375,7 @@ Nota 2: Para evitar conflictos con la señal de fin de mensaje de la AFTN, no se
 
 10.4.4.14.3. Los indicadores de destinatario para distribución predeterminada (PDAI) serán utilizados, siempre que sea posible, en los mensajes AFTN transmitidos entre los Estados que han convenido en hacer uso del sistema de distribución predeterminada.
 
-10.4.4.14.4. Los mensajes AFTN que comprendan indicadores de destinatario de distribución predeterminada que hayan sido atribuidos por el Estado receptor del mensaje, serán encaminados a los destinatarios que figuren en la lista correspondiente de indicadores de destinario descrita en 10.4.4.14.5.
+10.4.4.14.4. Los mensajes AFTN que comprendan indicadores de destinatario de distribución predeterminada que hayan sido atribuidos por el Estado receptor del mensaje, serán encaminados a los destinatarios que figuren en la lista correspondiente de indicadores de destinatario descrita en 10.4.4.14.5.
 
 10.4.4.14.5. Los Estados enviarán su lista de indicadores de destinatarios seleccionados para distribución predeterminada así como las listas correspondientes de indicadores de destinatario a:
 
@@ -1387,7 +1387,7 @@ b) los Estados que remitirán mensajes AFTN para su distribución predeterminada
 
 a) indicadores de destinatario para distribución nacional; o
 
-b) indicadores de destinario para distribución internacional; o
+b) indicadores de destinatario para distribución internacional; o
 
 c) indicadores de destinatario de distribución predeterminada para distribución internacional; o
 
@@ -1974,11 +1974,11 @@ Nota: El ejemplo siguiente ilustra la aplicación de este procedimiento al poner
 | 0920 (9,20 de la mañana) | Dos cero o cero nueve dos cero | two zero or zero nine two zero |
 | 1643 (4,43 de la tarde) | cuatro tres o uno seis cuatro tres | four three or one six four three |
 
-10.5.2.1.3.2. Verificación de números
+10.5.2.1.3.2. Verificación de números.
 
 10.5.2.1.3.2.1. Cuando se desee verificar la recepción exacta de los números transmitidos, la persona que transmita el mensaje solicitará de la persona que recibe el mensaje que le repita los números.
 
-10.5.2.1.3.3. Pronunciación de números
+10.5.2.1.3.3. Pronunciación de números.
 
 10.5.2.1.3.3.1. Cuando se aplique lo dispuesto en 10.5.2.1.1.2, los números se transmitirán usando la siguiente pronunciación:
 
@@ -2423,7 +2423,7 @@ MADRID
 
 10.5.2.1.8.4.4. Si el operador que recibe el mensaje duda de la exactitud del mismo, solicitará su repetición total o parcial.
 
-10.5.2.1.8.4.5. En caso de requerirse la repetición de todo un mensaje se enunciará la palabra «Repita» («“Say again”). Si se pide la repetición de parte de un mensaje, el operador dirá: “Repita todo lo anterior a...” (“Say again all before”) (la primera palabra recibida satisfactoriamente); o “Repita...” (“Say again”) (la palabra anterior a la parte que falte) “Hasta...” (“To”) (la palabra que sigue después de la parte que falta), o “Repita todo lo que sigue a...” (“Say again all after”) (la última palabra recibida satisfactoriamente)».
+10.5.2.1.8.4.5. En caso de requerirse la repetición de todo un mensaje se enunciará la palabra «Repita» (“Say again”). Si se pide la repetición de parte de un mensaje, el operador dirá: “Repita todo lo anterior a...” (“Say again all before”) (la primera palabra recibida satisfactoriamente); o “Repita...” (“Say again”) (la palabra anterior a la parte que falte) “Hasta...” (“To”) (la palabra que sigue después de la parte que falta), o “Repita todo lo que sigue a...” (“Say again all after”) (la última palabra recibida satisfactoriamente)».
 
 10.5.2.1.8.4.6. Deberán pedirse componentes determinados que se estimen apropiados, tales como «Repita altímetro» («Say again altimeter»), «Repita viento» («Say again wind»).
 
@@ -2783,7 +2783,7 @@ f) cualquier variación en los factores enumerados en 10.5.3.2.l.1 b), cuando no
 
 Nota 2: La estación llamada será normalmente la estación que está en contacto con la aeronave o en cuya área de responsabilidad ésta esté volando.
 
-10.5.3.2.2. Medidas que debe tomar la estación llamada o la primera estación que acuse recibo de un mensaje de peligro
+10.5.3.2.2. Medidas que debe tomar la estación llamada o la primera estación que acuse recibo de un mensaje de peligro.
 
 10.5.3.2.2.1. La estación llamada por la aeronave en peligro o la primera estación que acuse recibo del mensaje de socorro:
 
@@ -2811,7 +2811,7 @@ d) avisará a otras estaciones, según proceda, a fin de impedir la transferenci
 
 10.5.3.2.3.2. El uso de las señales especificadas en 10.5.3.2.3.1 estará reservado a la estación de aeronave en peligro o a la estación que controle el tráfico de socorro.
 
-10.5.3.2.4. Medidas que deben tomar todas las demás estaciones
+10.5.3.2.4. Medidas que deben tomar todas las demás estaciones.
 
 10.5.3.2.4.1. Las comunicaciones de socorro tienen prioridad absoluta y la estación que tenga conocimiento de ellas las transmitirá en la frecuencia de que se trate, a menos que:
 
@@ -3073,4 +3073,335 @@ Nota: El siguiente ejemplo ilustra la aplicación de este procedimiento:
 | (nombre de la estación) | Nueva York Radio | New York Radio |
 | (hora de difusión) | Hora, cero cero cuatro cinco | Time, zero zero four five |
 
-> Se modifica el Capítulo 5por el art. único.6 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407
+CAPÍTULO 8
+
+10.8. Servicio móvil aeronáutico-comunicaciones por enlace de datos.
+
+10.8.1. Generalidades.
+
+Nota 1: Aunque las disposiciones de este Capítulo están basadas principalmente en el uso de comunicaciones controlador piloto por enlace de datos (CPDLC), las disposiciones de 10.8.1 servirían para otras aplicaciones de enlace de datos, donde sean de aplicación, incluidos los servicios de información de vuelo por enlace de datos (p. ej., D-ATIS, D-VOLMET, etc.).
+
+Nota 2: Para los propósitos de estas disposiciones, los procedimientos de comunicaciones aplicables al servicio móvil aeronáutico, se aplican también, según corresponda, al servicio móvil aeronáutico por satélite.
+
+10.8.1.1. Composición de los mensajes de enlace de datos.
+
+10.8.1.1.1. Se compondrá el texto de los mensajes en el formato normalizado de mensajes (p. ej., conjunto de mensajes CPDLC), en lenguaje claro o con abreviaturas y códigos, según lo prescrito en 10.3.7. Se evitará el uso de lenguaje claro cuando la longitud del texto pueda reducirse utilizándose las abreviaturas y códigos apropiados. No se utilizarán palabras y oraciones no esenciales tales como expresiones de cortesía.
+
+10.8.1.1.2. En la composición de los mensajes están permitidos los siguientes caracteres:
+
+Letras: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+(solamente mayúsculas)
+
+Cifras: 1 2 3 4 5 6 7 8 9 0
+
+Otros signos:
+
+– (guión).
+
+? (interrogación).
+
+: (dos puntos).
+
+( (abrir paréntesis).
+
+) (cerrar paréntesis).
+
+. (punto y aparte, punto y seguido o punto decimal).
+
+, (coma).
+
+‘ (apóstrofo).
+
+= (guión doble o signo de igual)
+
+/ (oblicua).
+
++ (signo de más).
+
+y el carácter de espacio.
+
+No se emplearán en los mensajes caracteres distintos a los arriba indicados.
+
+10.8.1.1.3. No se emplearán números romanos. Si el remitente del mensaje desea que se informe al destinatario que se trata de números romanos, se escribirán la cifra o cifras arábigas precedidas de la palabra ROMANOS.
+
+10.8.1.2. Presentación de mensajes de enlace de datos.
+
+10.8.1.2.1. Los sistemas de tierra y de a bordo permitirán la presentación adecuada de los mensajes, su impresión cuando sea requerida y su almacenamiento de forma que puedan recuperarse oportuna y convenientemente si tal medida fuera necesaria.
+
+10.8.1.2.2. Siempre que se requiera su presentación en forma de texto se hará como mínimo en el idioma inglés.
+
+Nota: Los registros de datos y comunicaciones, y las grabaciones automáticas, correspondientes a CPDLC se conservarán durante el periodo de tiempo señalado en los apartados correspondientes del Libro Tercero, Capítulo 6.
+
+10.8.2. Procedimientos CPDLC.
+
+Nota: El conjunto de mensajes CPDLC mencionado en esta sección puede consultarse en el Capítulo 12, Libro Cuarto.
+
+10.8.2.1. En todas las comunicaciones se observará en todo momento la más elevada norma de disciplina.
+
+10.8.2.1.1. Al componer un mensaje deberá tenerse en cuenta las consecuencias de la actuación humana que pudieran influir en la recepción y comprensión precisas de los mensajes.
+
+Nota: En los documentos «Manual de instrucción sobre factores humanos (Doc 9683)» y «Directrices sobre factores humanos para los sistemas de gestión del tránsito aéreo (ATM) (Doc 9758)» de OACI pueden consultarse textos de orientación sobre la actuación humana.
+
+10.8.2.2. Los sistemas de tierra y de a bordo proporcionarán a los controladores y a los pilotos la capacidad de examinar y validar cualquier mensaje operacional que envíen.
+
+10.8.2.3. Los sistemas de tierra y de a bordo proporcionarán a los controladores y a los pilotos la capacidad de examinar, validar y, cuando así proceda, acusar recibo de cualquier mensaje operacional que reciban.
+
+10.8.2.4. Se proporcionará al controlador la capacidad de responder a los mensajes, incluidas las emergencias, expedir autorizaciones, instrucciones y asesoramiento y solicitar y proporcionar información, según corresponda.
+
+10.8.2.5. Se proporcionará al piloto la capacidad de responder a los mensajes, de solicitar autorizaciones e información, de informar y declarar o cancelar emergencias.
+
+10.8.2.6. Se proporcionará al piloto y al controlador la capacidad de intercambiar mensajes que no se correspondan con los formatos definidos (es decir, mensajes de texto libre).
+
+10.8.2.7. A no ser que lo especifique la autoridad ATS competente, no se requerirá la colación oral de los mensajes CPDLC.
+
+10.8.2.8. Establecimiento de las CPDLC.
+
+10.8.2.8.1. Se informará al controlador y al piloto una vez se hayan establecido con éxito las CPDLC.
+
+10.8.2.8.2. Se establecerán las CPDLC con tiempo suficiente que garantice que la aeronave se comunicará con la dependencia ATC apropiada.
+
+10.8.2.8.3. El controlador y el piloto serán informados cuando las CPDLC estén disponibles para uso operacional, de su establecimiento inicial, así como al reanudarse después de un fallo.
+
+10.8.2.8.4. El piloto tendrá la capacidad de identificar la dependencia de control de tránsito aéreo que proporciona el servicio de control de tránsito aéreo, en cualquier momento durante el que se proporcione el servicio.
+
+10.8.2.8.5. Cuando el sistema de a bordo detecte que se dispone de CPDLC para uso operacional, enviará el elemento de mensaje CPDLC descendente CURRENT DATA AUTHORITY.
+
+10.8.2.8.6. CPDLC iniciadas a bordo.
+
+10.8.2.8.6.1. Cuando una dependencia ATC reciba una solicitud imprevista para utilizar las CPDLC de una aeronave, obtendrá de esta aeronave las circunstancias que han dado lugar a tal solicitud para determinar medidas ulteriores.
+
+10.8.2.8.6.2. Cuando una dependencia ATC rechace una solicitud de utilizar las CPDLC, proporcionará al piloto el motivo de dicho rechazo utilizando un mensaje CPDLC apropiado.
+
+10.8.2.8.7. CPDLC iniciadas por una dependencia ATC.
+
+10.8.2.8.7.1. Una dependencia ATC solamente establecerá un enlace CPDLC con una aeronave si la aeronave no tiene establecido ningún otro enlace CPDLC o haya sido autorizada para ello por la dependencia ATC que en ese momento tiene establecido un enlace CPDLC con la aeronave.
+
+10.8.2.8.7.2. Cuando se rechaza por una aeronave una solicitud de CPDLC, se proporcionará el motivo del rechazo utilizándose el elemento de mensaje CPDLC descendente NOT CURRENT DATA AUTHORITY o el elemento de mensaje NOT AUTHORIZED NEXT DATA AUTHORITY, según corresponda. Los procedimientos locales determinarán si el motivo del rechazo deberá ser presentado al controlador. No se permitirá ningún otro motivo para rechazar a bordo el inicio de la CPDLC por la dependencia ATC.
+
+10.8.2.9. Intercambio de mensajes CPDLC operacionales.
+
+10.8.2.9.1. El controlador o el piloto construirán los mensajes CPDLC utilizando el conjunto de mensajes definido, un mensaje de texto libre o una combinación de ambos.
+
+10.8.2.9.1.1. Cuando se utilicen las CPDLC y la intención del mensaje que se quiere enviar se corresponda con alguna de las intenciones incluidas en el conjunto de mensajes CPDLC que figura en el Capítulo 12, del Libro Cuarto, se utilizará el mensaje CPDLC asociado a dicha intención.
+
+10.8.2.9.1.2. Salvo lo previsto en 10.8.2.12.1, cuando un controlador o piloto se comunique por CPDLC, la respuesta debería ser por CPDLC. Cuando un controlador o piloto se comunique por voz, la respuesta debería ser por voz.
+
+10.8.2.9.1.3. Si se negocia subsiguientemente por voz un mensaje CPDLC que requiere una respuesta operacional, se enviará un mensaje CPDLC de respuesta apropiado de cierre, para asegurar la adecuada sincronización del diálogo CPDLC.
+
+10.8.2.9.2. La composición de un mensaje CPDLC no excederá de cinco elementos de mensaje, donde solamente dos de los cuales podrán incluir la variable de autorización de ruta.
+
+10.8.2.9.2.1. Deberá evitarse siempre que sea posible el uso de mensajes largos o de mensajes con múltiples elementos de autorización, o el uso de mensajes con una combinación de autorizaciones y de información.
+
+Nota: En el documento «Directrices sobre factores humanos para sistemas de gestión del tránsito aéreo (ATM) (Doc 9758) de OACI» pueden consultarse textos de orientación sobre el desarrollo de procedimientos de operación locales y técnicas adecuadas de operación de las CPDLC.
+
+10.8.2.9.3. Los sistemas CPDLC de tierra y de a bordo serán capaces de procesar los atributos de urgencia y alerta de los mensajes CPDLC con objeto de modificar las presentaciones para llamar la atención sobre aquellos mensajes de más alta prioridad.
+
+Nota: Los atributos de los mensajes indican requisitos relativos a la tramitación de los mensajes, destinados al usuario CPDLC que recibe el mensaje. Cada mensaje CPDLC tiene tres atributos: urgencia, alerta y respuesta. Cuando un mensaje consta de múltiples elementos, el tipo de atributo del elemento de mensaje de máxima precedencia se convierte en el tipo de atributo para la totalidad del mensaje.
+
+10.8.2.9.3.1. El atributo de urgencia establece los requisitos de puesta en secuencia (cola) de los mensajes recibidos que son presentados al usuario final. En la Tabla 10.8-1 figuran los tipos de urgencia.
+
+10.8.2.9.3.2. El atributo de alerta establece el tipo de alerta que se requiere una vez recibido el mensaje. En la Tabla 10.8-2 figuran los tipos de alerta.
+
+10.8.2.9.3.3. El atributo de respuesta determinará las respuestas válidas para un elemento dado de mensaje. En la Tabla 10.8-3 figuran los tipos de respuesta para los mensajes ascendentes y en la Tabla 10.8-4, los correspondientes a los descendentes.
+
+10.8.2.9.3.3.1. Cuando un mensaje de múltiples elementos requiere una respuesta y la respuesta consista en un solo elemento de mensaje, la respuesta se referirá a todos los elementos del mensaje.
+
+Nota: Por ejemplo, en un mensaje de múltiples elementos que contenga CLIMB TO FL310 MAINTAIN MACH.84, la respuesta WILCO se refiere a ambos elementos del mensaje e indica cumplimiento con los mismos.
+
+Tabla 10.8-1 Atributo de urgencia (enlace ascendente y enlace descendente)
+
+| Tipo | Descripción | Prioridad |
+| --- | --- | --- |
+| D | Socorro. | 1 |
+| U | Urgente. | 2 |
+| N | Normal. | 3 |
+| L | Baja. | 4 |
+
+Tabla 10.8-2. Atributo de alerta (enlace ascendente y enlace descendente
+
+| Tipo | Descripción | Prioridad |
+| --- | --- | --- |
+| H | Alta. | 1 |
+| M | Media. | 2 |
+| L | Baja. | 3 |
+| N | No requiere alerta. | 4 |
+
+Tabla 10.8-3. Atributo de respuesta (enlace ascendente)
+
+| Tipo | Respuesta requerida | Respuestas válidas | Prioridad |
+| --- | --- | --- | --- |
+| W/U | Sí. | WILCO, UNABLE, STANDBY, NOT CURRENT DATA AUTHORITY, NOT AUTHORIZED NEXT DATA AUTHORITY, LOGICAL ACKNOWLEDGMENT (sólo si se requiere), ERROR. | 1 |
+| A/N | Sí. | AFFIRM, NEGATIVE, STANDBY, NOT CURRENT DATA AUTHORITY, NOT AUTHORIZED NEXT DATA AUTHORITY, LOGICAL ACKNOWLEDGMENT (sólo si se requiere), ERROR. | 2 |
+| R | Sí. | ROGER, UNABLE, STANDBY, NOT CURRENT DATA AUTHORITY, NOT AUTHORIZED NEXT DATA AUTHORITY, LOGICAL ACKNOWLEDGMENT (sólo si se requiere), ERROR. | 3 |
+| Y | Sí. | Cualquier mensaje CPDLC descendente, LOGICAL ACKNOWLEDGMENT (sólo si se requiere). | 4 |
+| N | No, a no ser que se requiera acuse de recibo lógico. | LOGICAL ACKNOWLEDGMENT (sólo si se requiere), NOT CURRENT DATA AUTHORITY, NOT AUTHORIZED NEXT DATA AUTHORITY, ERROR. | 5 |
+
+Tabla 10.8-4. Atributo de respuesta (enlace descendente)
+
+| Tipo | Respuesta requerida | Respuestas válidas | Prioridad |
+| --- | --- | --- | --- |
+| Y | Sí. | Cualquier mensaje CPDLC ascendente, LOGICAL ACKNOWLEDGMENT (sólo si se requiere). | 1 |
+| N | No, a no ser que se requiera acuse de recibo lógico. | LOGICAL ACKNOWLEDGMENT (sólo si se requiere), SERVICE UNAVAILABLE, FLIGHT PLAN NOT HELD, ERROR. | 2 |
+
+10.8.2.9.3.3.2. Cuando no pueda cumplirse con una autorización de un mensaje de un solo elemento o con cualquier parte de un mensaje de autorización de múltiples elementos, el piloto enviará una respuesta UNABLE referida a todo el mensaje.
+
+10.8.2.9.3.3.3. Cuando no pueda aprobarse ningún elemento de una solicitud de autorización de un solo elemento o de múltiples elementos, el controlador responderá con un mensaje UNABLE que se referirá a todos los elementos de la solicitud. No se restablecerán las autorizaciones vigentes.
+
+10.8.2.9.3.3.4. Cuando pueda satisfacerse todos los elementos de una solicitud de autorización de un solo o de múltiples elementos, el controlador responderá con autorizaciones correspondientes a cada elemento de la solicitud. Esta respuesta debería consistir en un solo mensaje ascendente.
+
+10.8.2.9.3.3.5. Cuando un controlador solamente pueda satisfacer parcialmente solicitudes de autorización de múltiples elementos, responderá con autorizaciones a las solicitudes que pueda satisfacer y respecto a las que no pueda satisfacer, restablecerá la autorización vigente o dará una autorización alternativa.
+
+Nota: Por ejemplo, un mensaje descendente de múltiples elementos que contenga los elementos de mensaje seguidamente indicados:
+
+MAINTAINING FL310.
+
+REQUEST CLEARANCE YQM YYG YYT YQX TRACK.
+
+X EINN FPL EDDF.
+
+REQUEST CLIMB FL350.
+
+WE CAN ACCEPT FL390 AT 1139Z.
+
+REQUEST MACH.84.
+
+Podría responderse de la forma siguiente:
+
+CLEARED YQM YYG YYT YQX TRACK X EINN FPL.
+
+EDDF.
+
+CLIMB TO FL350.
+
+REPORT REACHING.
+
+CROSS 52N 30W AT OR AFTER 1150Z.
+
+NO SPEED RESTRICTION.
+
+10.8.2.9.3.3.6. Cuando un mensaje CPDLC contenga más de un elemento de mensaje y el atributo de respuesta del mensaje sea Y, cuando se utilice, el único mensaje de respuesta deberá contener el correspondiente número de respuestas y en el mismo orden.
+
+Nota: Por ejemplo, un mensaje ascendente de múltiples elementos que incluya:
+
+CONFIRM SQUAWK
+
+WHEN CAN YOU ACCEPT FL410
+
+Podría responderse con:
+
+SQUAWKING 5525.
+
+WE CAN ACCEPT FL410 AT 1636Z.
+
+10.8.2.9.4. Cuando un sistema de tierra o de a bordo genere el mensaje CPDLC ERROR, se incluirá en el mensaje el motivo del error.
+
+10.8.2.9.5. La autoridad ATS competente seleccionará aquellos elementos de mensaje incluidos en el Capítulo 12, del Libro Cuarto, que soporten operaciones en su espacio aéreo. Si la autoridad ATS opta por seleccionar un subconjunto de los elementos de mensaje, y un mensaje recibido no pertenece a este subconjunto, la dependencia ATC responderá mediante el elemento de mensaje ascendente SERVICE UNAVAILABLE.
+
+Nota: No se requiere ningún proceso ulterior del mensaje recibido.
+
+10.8.2.9.5.1. Deberán presentarse solamente al controlador aquellos mensajes ascendentes apropiados a las operaciones específicas de un sector de control determinado.
+
+Nota: El conjunto de mensajes CPDLC que figura en el Capítulo 12, del Libro Cuarto, fue elaborado para atender a distintos entornos de gestión de tránsito aéreo.
+
+10.8.2.9.5.2. Cuando lo considere necesario la autoridad ATS competente, se pondrán a disposición del controlador otros mensajes de texto libre preformateados para utilizarse en aquellas ocasiones en las que el conjunto de mensajes CPDLC incluidos en el Capítulo 12, del Libro Cuarto, no cumplan los requisitos específicos. En tales casos, la autoridad ATS competente establecerá una lista de los mensajes de texto libre preformateados, en consulta con los explotadores y con otras autoridades ATS que pudieran estar involucradas.
+
+10.8.2.9.5.3. La información relativa a los subconjuntos de elementos de mensaje CPDLC utilizados y, si procede, los mensajes de texto libre preformateados, se publicará en las publicaciones de información aeronáutica.
+
+10.8.2.9.6 Transferencia de las CPDLC.
+
+Nota: Detalles sobre la transferencia de las CPDLC pueden consultarse en el Manual de aplicaciones de enlace de datos para los servicios de tránsito aéreo (Doc 9694) de OACI.
+
+10.8.2.9.6.1. Cuando se transfieran las CPDLC, la transferencia de las comunicaciones orales y CPDLC se iniciarán simultáneamente.
+
+10.8.2.9.6.2. Cuando se efectúa la transferencia de una aeronave desde una dependencia ATC en la que se dispone de CPDLC a una dependencia ATC en la que no se dispone de CPDLC, la terminación de las CPDLC se iniciará simultáneamente con la transferencia de las comunicaciones orales.
+
+10.8.2.9.6.3. Cuando una transferencia de las CPDLC dé lugar a un cambio de la autoridad de datos, y todavía queden mensajes de los cuales no se haya recibido la respuesta de cierre (es decir, mensajes pendientes), se informará al controlador que transfiere las CPDLC.
+
+10.8.2.9.6.3.1. Si el controlador necesitase transferir la aeronave sin responder a algún mensaje descendente pendiente, el sistema tendrá la capacidad de enviar automáticamente los mensajes respuesta de cierre apropiados. En tales casos, el contenido de cualquiera de los mensaje respuesta de cierre enviados automáticamente se especificará en los procedimientos locales.
+
+10.8.2.9.6.3.2. Cuando el controlador decida transferir la aeronave sin recibir respuestas del piloto a algún mensaje ascendente pendiente, el sistema de tierra tendrá la capacidad de finalizar automáticamente el diálogo para cada mensaje antes de la transferencia.
+
+10.8.2.9.6.3.2.1. El controlador deberá reanudar las comunicaciones orales para explicar cualquier ambigüedad asociada a mensajes pendientes.
+
+10.8.2.9.6.4. Cuando una transferencia de las CPDLC no dé lugar a un cambio de la autoridad de datos y todavía queden mensajes pendientes, estos mensajes se transmitirán al controlador adecuado o serán cerrados de conformidad con procedimientos locales y, de ser necesario, de cartas de acuerdo.
+
+10.8.2.10. Presentación de mensajes CPDLC.
+
+Las dependencias ATC que utilicen un mensaje CPDLC de los que figuran en el Capítulo 12 del Libro Cuarto deberá poder presentar el texto correspondiente a tal mensaje que allí figura.
+
+10.8.2.11. Mensajes de texto libre.
+
+Debería evitarse la utilización de mensajes de texto libre por parte de controladores o pilotos que no sean los mensajes de texto libre preformateados a los que se refiere 10.8.2.9.5.2.
+
+Nota: Aunque se reconoce que las situaciones no rutinarias y de emergencia pueden necesitar del uso de texto libre, particularmente cuando fallen las comunicaciones orales, el evitar el uso de mensajes de texto libre tiene por objeto el reducir la posibilidad de interpretación errónea y de ambigüedades.
+
+10.8.2.12. Procedimientos en emergencias, peligros y fallo de equipo.
+
+10.8.2.12.1. Cuando se reciba un mensaje de emergencia CPDLC, el controlador hará acuse de recibo del mensaje por el medio más eficientes de que disponga.
+
+10.8.2.12.2. Cuando se responda por CPDLC a un
+
+informe indicando interferencia ilícita, se utilizará el mensaje ascendente ROGER 7500.
+
+10.8.2.12.3. Cuando se responda por CPDLC a todos los otros mensajes de emergencia o de urgencia, se utilizará el mensaje ascendente ROGER.
+
+10.8.2.12.4. Cuando un mensaje CPDLC requiera acuse de recibo lógico o una respuesta operacional y no se reciba tal respuesta, se alertará al piloto o al controlador, según corresponda.
+
+10.8.2.12.5. Fallo de las CPDLC.
+
+10.8.2.12.5.1. Deberá detectarse oportunamente cualquier fallo de las CPDLC.
+
+10.8.2.12.5.2. Se alertará al controlador y al piloto acerca del fallo de las CPDLC tan pronto como sea detectado.
+
+10.8.2.12.5.3. Cuando se alerte al piloto o al controlador de que han fallado las CPDLC y el controlador o el piloto necesiten comunicarse antes de que se restauren éstas, el controlador o el piloto deberán retornar a voz, si es posible, y utilizar como prefacio de la información la oración: CPDLC FAILURE.
+
+10.8.2.12.5.4. Los controladores que tengan la necesidad de transmitir información relativa a un fallo completo del sistema CPDLC de tierra a todas las estaciones que pudiesen recibirla deberían de utilizar como prefacio de la transmisión la llamada general ALL STATIONS CPDLC FAILURE, seguido de la identificación de la estación que llama.
+
+Nota: No se esperará ninguna respuesta a tal llamada general a no ser que se llame subsiguientemente a cada una de las estaciones para que hagan acuse de recibo.
+
+10.8.2.12.5.5. Cuando fallen las CPDLC y las comunicaciones retornen a voz, todos los mensajes CPDLC pendientes deberán considerarse como no entregados y deberá reiniciarse por voz la totalidad del diálogo relacionado con los mensajes pendientes.
+
+10.8.2.12.5.6. Cuando fallen las CPDLC pero se restauren antes de que sea necesario retornar a comunicaciones orales, todos los mensajes pendientes deberán considerarse como no entregados y deberá reiniciarse por CPDLC la totalidad del diálogo relativo a los mensajes pendientes.
+
+10.8.2.12.6. Cierre intencionado de las CPDLC.
+
+10.8.2.12.6.1. Cuando se planifique un cierre del sistema de la red de comunicaciones o del sistema de tierra CPDLC se publicará un NOTAM para informar a todas las partes afectadas sobre el del período de cierre y, de ser necesario, de los detalles de las frecuencias de comunicaciones orales que hayan de utilizarse.
+
+10.8.2.12.6.2 Se notificará a las aeronaves que estén en ese momento en comunicación con la dependencia ATC por voz o por CPDLC acerca de cualquier pérdida inminente del servicio CPDLC.
+
+10.8.2.12.6.3. Se proporcionará al controlador y al piloto la capacidad de interrumpir las CPDLC.
+
+10.8.2.13. Cuando la realización de pruebas CPDLC con una aeronave pueda afectar a los servicios de tránsito aéreo que se estén proporcionando a dicha aeronave, se realizará la coordinación pertinente antes de la realización de los mismas.
+
+10.8.2.14. Servicio de entrega de autorización anticipada.
+
+10.8.2.14.1. La autoridad ATS competente determinará si una dependencia ATC soporta el servicio de entrega de autorización anticipada.
+
+10.8.2.14.2. Establecimiento del servicio de entrega de autorización anticipada.
+
+10.8.2.14.2.1. El servicio de entrega de autorización anticipada será iniciado únicamente por el sistema de a bordo. Se indicará en la iniciación que esta comunicación es solamente para recibir una autorización anticipada.
+
+10.8.2.14.2.2. Cuando una dependencia ATC rechace una solicitud de servicio de entrega de autorización anticipada, proporcionará al piloto el motivo del rechazo utilizando el mensaje CPDLC «SERVICE UNAVAILABLE».
+
+10.8.2.14.3 Funcionamiento del servicio de entrega de autorización anticipada.
+
+10.8.2.14.3.1 Se informará al controlador y al piloto cuando el servicio de entrega de autorización anticipada este disponible para comunicaciones operacionales.
+
+10.8.2.14.3.2 Se informará al controlador y al piloto del fallo del servicio de entrega de autorización anticipada.
+
+10.8.2.14.3.3 Se establecerán por acuerdo regional de navegación aérea los elementos de mensaje CPDLC que estén permitidos para el servicio de entrega de autorización anticipada.
+
+10.8.2.14.3.4 Se indicará claramente al controlador cuando una petición de autorización se haya expedido como petición de autorización anticipada.
+
+10.8.2.14.3.5 Se indicará claramente al piloto cuando una autorización se haya expedido como autorización anticipada.
+
+10.8.2.14.4 Terminación del servicio de entrega de autorización anticipada.
+
+10.8.2.14.4.1 Únicamente el sistema de a bordo iniciará la terminación del servicio de entrega de autorización anticipada.
+
+10.8.2.14.4.2 Se terminará el servicio de entrega de autorización anticipada con una dependencia ATC siempre que la autoridad de datos posterior pase a ser la autoridad de datos vigente.
+
+> Se añade el Capítulo 8 por el art.único.4 de la Orden PRE/697/2008, de 12 de marzo. Ref. BOE-A-2008-5008
+
+> Se modifica el Capítulo 5 por el art. único.6 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407

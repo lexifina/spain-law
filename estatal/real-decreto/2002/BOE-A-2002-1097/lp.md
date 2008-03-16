@@ -489,6 +489,18 @@ Autoridad competente militar.
 
 Ministerio de Defensa. Ejército del aire.
 
+Autoridad de datos posterior.
+
+El sistema de tierra así designado, distinto de la autoridad de datos vigente, a través del cual el piloto puede ponerse en contacto con una dependencia ATC apropiada con el fin de recibir una autorización anticipada.
+
+Autoridad de datos siguiente.
+
+El sistema de tierra así designado por la autoridad de datos vigente, a través del cual ésta realiza la transferencia de las comunicaciones y del control de un vuelo al centro siguiente.
+
+Autoridad de datos vigente.
+
+El sistema de tierra así designado, a través del cual se permite un diálogo CPDLC entre un piloto y el controlador en ese momento responsable del vuelo.
+
 Autoridad meteorológica.
 
 Autoridad que, en nombre del Estado, suministra o hace arreglos para que se suministre servicio meteorológico para la navegación aérea.
@@ -606,6 +618,10 @@ Calle de rodaje en tierra destinada únicamente a helicópteros.
 Capa de transición.
 
 Espacio aéreo entre la altitud de transición y el nivel de transición.
+
+Capacidad de iniciación de enlace de datos (DLIC).
+
+Aplicación de enlace de datos que permite intercambiar direcciones, nombres y números de versión necesarios para iniciar aplicaciones de enlace de datos.
 
 Caracteres alfanuméricos (alfanuméricos).
 
@@ -801,10 +817,6 @@ Condiciones meteorológicas expresadas en términos de visibilidad, distancia de
 
 (1) Los mínimos especificados figuran en el Libro Segundo.
 
-Condiciones meteorológicas de vuelo visual nocturno.
-
-(Suprimido).
-
 Configuración (aplicada al avión).
 
 La combinación especial de las posiciones de los elementos móviles, tales como flaps, tren de aterrizaje, etc., que influyan en las características aerodinámicas del avión.
@@ -824,10 +836,6 @@ Contacto radar.
 Contrato ADS.
 
 Medio que permite al sistema de tierra y a la aeronave establecer las condiciones de un acuerdo ADS, en el cual se indican las condiciones en que han de iniciarse los informes ADS, así como los datos que deben figurar en los mismos.
-
-Control de afluencia.
-
-(Suprimido).
 
 Control de calidad.
 
@@ -969,6 +977,10 @@ Distancia DME.
 
 Alcance óptico (alcance oblicuo) a partir del transmisor de la señal DME hasta la antena receptora.
 
+Documentación (meteorológica) de vuelo.
+
+Documentos escritos o impresos, incluyendo mapas o formularios, que contienen información meteorológica para un vuelo.
+
 Documentación Integrada de Información Aeronáutica.
 
 Un conjunto de documentos que comprende los siguientes elementos:
@@ -982,10 +994,6 @@ NOTAM;
 AIC;
 
 listas de verificación y listas de NOTAM vigentes.
-
-Documentación (meteorológica) de vuelo.
-
-Documentos escritos o impresos, incluyendo mapas o formularios, que contienen información meteorológica para un vuelo.
 
 Dúplex.
 
@@ -1062,6 +1070,10 @@ Espacio aéreo controlado.
 Espacio aéreo de dimensiones definidas dentro del cual se facilita servicio de control de tránsito aéreo a los vuelos IFR y a los vuelos VFR, de conformidad con la clasificación del espacio aéreo. (1)
 
 (1) Espacio aéreo controlado es una expresión genérica que abarca las Clases A,B,C,Dy E del espacio aéreo ATS.
+
+Espacio aéreo reservado.
+
+Un volumen definido de espacio aéreo que se reserva temporalmente para uso exclusivo o específico de determinadas categorías de usuario.
 
 Espacio aéreo RVSM.
 
@@ -2886,13 +2898,13 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | AS | Espere (.-...) |
 | ASC | Suba o subiendo a |
 | ASDA | Distancia de aceleración-parada disponible |
-| ASHTAM | NOTAM sobre actividad de un volcán, erupción volcánica o nube de cenizas volcánicas |
+| ASHTAM | NOTAM sobre actividad de un volcán, erupción volcánica o nube de cenizas volcánicas. |
 | ASPH | Asfalto |
 | ASR | Radar de vigilancia de aeródromo |
 | ATA | Hora real de llegada |
 | ATC | Control de tránsito aéreo (en general) |
 | ATD | Hora real de salida |
-| ATFM | Gestión de afluencia de Tránsito Aéreo |
+| ATFM | Gestión de afluencia del Tránsito Aéreo |
 | ATIS | Servicio automático de información terminal |
 | ATM | Gestión del Tránsito Aéreo |
 | ATP | A las...(hora) o en...(lugar) |
@@ -2950,7 +2962,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | CF | Cambie frecuencia a..... |
 | CFM | Confirme (o confirmo) |
 | CFMU | Unidad Central de Gestión de Afluencia |
-| CGL | Luz de guía en circuito |  |
+| CGL | Luz de guía en circuito |
 | CH | Canal |
 | CH | Esta es la transmisión de verificación de continuidad de canal para permitir la comparación de su registro de los números de orden en el canal, correspondientes a los mensajes recibidos por este canal |
 | CHG | Modificación (designador de tipo de mensaje) |
@@ -3728,7 +3740,6 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | VE | Exceptuando el vuelo visual |
 | VER | Vertical |
 | VFR | Reglas de vuelo visual |
-| VFRN | (Suprimido) |
 | VHF | Muy alta frecuencia (30 a 300 M Hz) |
 | VIA | Vía... |
 | VIFNO... | Hora en que expira la autorización de salida expedida por una dependencia ACC o APP. |
@@ -3738,7 +3749,6 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | VLF | Muy baja frecuencia (3 a 30 MHz) |
 | VLR | De muy larga distancia |
 | VMC | Condiciones meteorológicas de vuelo visual |
-| VMCN | (Suprimido) |
 | VOLMET | Información meteorológica para aeronaves en vuelo |
 | VOR | Radiofaro omnidireccional VHF |
 | VORTAC | VOR y TACAN combinados |
@@ -3790,6 +3800,8 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | YES | Sí (afirmativo) |
 | YR | Su (de usted) |
 | ZS | Zona de seguridad |
+
+> Se modifica el Capítulo 1 por el art. único.1 de la Orden PRE/697/2008, de 12 de marzo. Ref. BOE-A-2008-5008
 
 > Se modifican los Capítulos 1 y 2 por el art. único. 1 de la Orden PRE/3531/2007, de 29 de noviembre. Ref. BOE-A-2007-20912
 

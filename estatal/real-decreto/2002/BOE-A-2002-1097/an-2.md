@@ -647,7 +647,7 @@ c) que las transmisiones VOR, las cuales son comprobadas en vuelo periódicament
 
 d) que no hay supervisión ni control radar en tiempo real de las desviaciones laterales.
 
-4.3 El trabajo preliminar realizado indica que, en las circunstancias descritas en a) a c), que siguen, quizá sería posible reducir la distancia mínima entre las rutas. Sin embargo, los valores facilitados no han sido calculados con precisión, por lo cual, en cada caso es esencial hacer un estudio detallado de las circunstancias particulares:
+4.3 El trabajo preliminar realizado indica que, en las circunstancias descritas en a) a c), que siguen, quizá sería posible reducir la distancia mínima entre las rutas.¶Sin embargo, los valores facilitados no han sido calculados con precisión, por lo cual, en cada caso es esencial hacer un estudio detallado de las circunstancias particulares:
 
 a) si las aeronaves en rutas adyacentes no tienen asignados los mismos niveles de vuelo, la distancia entre las rutas puede ser reducida; la magnitud de esta reducción dependerá de la separación vertical entre las aeronaves en las derrotas adyacentes y del porcentaje del tránsito que está ascendiendo y descendiendo, pero probablemente no será de más de 5,6 km (3 NM);
 
@@ -721,58 +721,218 @@ b) que cuando la protección de las frecuencias sea crítica, se deberán llevar
 
 ## ADJUNTO 6
 
-## Métodos para establecer rutas ATS destinadas a las aeronaves dotadas de equipo RNAV
+## Método para establecer rutas ATS destinadas a las aeronaves dotadas de equipo RNAV (Véase Libro 3, Capítulo 2, sección 3.2.11).
 
 1. Introducción.
 
-1.1. El presente texto de orientación se basa en estudios realizados en Australia, Canadá y varios Estados de Europa, cuyos resultados concordaban. En este texto también se refleja la existencias desde hace largo tiempo, de criterios RNAV en diversos Estados. Es preciso señalar que los valores que figuran en el texto no se han obtenido por medio del método de riesgo de colisión/nivel de seguridad perseguido.
+1.1. El presente texto de orientación es el resultado de estudios realizados en varios Estados. Este texto también refleja la existencia, desde hace mucho tiempo, de criterios RNAV en diversos Estados. Es preciso señalar que algunos de los valores que figuran aquí no se han obtenido por medio del método de riesgo de colisión/nivel de seguridad de referencia. Así se indica cuando corresponde.
 
-1.2. Este texto de orientación está destinado a utilizarse con respecto a las rutas RNAV que se establecen dentro del área de cobertura de las ayudas electrónicas que proporcionarán la actualización necesaria y protección contra errores RNAV «crasos».
+1.2. Deberá informarse a la OACI respecto a los resultados de la aplicación de las disposiciones de este texto de orientación.
 
-1.3. Este texto se preparó para la RNP 4. Los textos relativos a tipos de RNP más exigentes, p. ej. RNP 1, están en preparación.
+1.3. En el apartado 3.2.7 se recogen aspectos adicionales sobre RNAV y RNP.
 
-1.4. El Estado entregará información completa a la OACI con respecto a los resultados que obtengan al poner en práctica el contenido del texto de orientación.
+2. Aplicaciones operacionales de rutas RNAV basadas en RNP 4.
 
-2. Aplicaciones operacionales, RNP 4.
+2.1 Generalidades.
 
-2.1. Generalidades.
+2.1.1. Este texto de orientación está destinado a ser utilizado en rutas RNAV que se establezcan dentro del área de cobertura de ayudas a la navegación electrónicas que proporcionarán las actualizaciones necesarias y ofrecerán protección contra errores crasos RNAV.
 
-2.1.1. Únicamente las aeronaves a las que se ha otorgado una certificación de aeronavegabilidad/aprobación operacional de conformidad con las secciones 5.4 y 5.5 del Manual sobre la performance de navegación requerida (RNP) (Doc 9613 de OACI) podrán aprovechar los servicios de tránsito aéreo en rutas RNAV definidos de acuerdo con este texto.
+2.1.2. Únicamente a las aeronaves a las que se haya otorgado una certificación de aeronavegabilidad/aprobación operacional de conformidad con las secciones 5.5 y 5.6 del Manual sobre la performance de navegación requerida (RNP) (Doc 9613 de OACI) podrá prestárseles servicios de tránsito aéreo en rutas RNAV definidas de acuerdo con este texto.
 
-2.1.2. El empleo de equipo RNAV debería permitirse en la navegación por rutas ATS definidas por VOR. Asimismo, las rutas RNAV podrán contar con capacidad RNAV cuando resulte práctico y lo justifique el número de aeronaves. Las rutas podrán ser:
+2.1.3. Se permitirá el empleo de equipo RNAV para navegar por rutas ATS definidas mediante VOR. Adicionalmente, podrán establecerse rutas RNAV allí donde resulte práctico y lo justifique el número de aeronaves con capacidad RNAV. Las rutas podrán ser:
 
-a) rutas RNAV fjas;
+a) Rutas RNAV fijas;
 
-b) rutas RNAV contingentes; y
+b) Rutas RNAV de contingencia; y
 
-e) rutas RNAV aleatorias.
+e) Rutas RNAV aleatorias.
 
-2.1.3. En la performance de navegación requerida para ese equipo RNAV se prevé un nivel de precisión de navegación a efectos de navegación en ruta, cuya performance sea igual o superior a una precisión de mantenimiento de la derrota de ±l1,1 km (6 NM) durante el 99,5% del tiempo de vuelo de todas las aeronaves con equipo RNAV. Se supone que una performance de navegación de este tipo corresponde a una precisión de mantenimientos de la derrota de ±7,4 km (4 NM) durante el 95% del tiempo de vuelo de todas las aeronaves con equipo RNAV. Este nivel es análogo al que consiguen ahora las aeronaves sin capacidad RNAV que efectúan vuelos en las actuales rutas definidas por VOR o VOR/DME, cuando los VOR están situados a menos de 93 km (50 NM) de distancia entre sí.
+2.1.4. La performance de navegación requerida del mencionado equipo RNAV prevé un nivel de precisión de navegación en ruta, que tenga una performance de navegación igual o superior a la de una precisión de mantenimiento de la derrota de ± 11,1 Km (6 NM) durante el 99,5 % del tiempo de vuelo de todas las aeronaves que utilicen equipo RNAV. Se espera que una performance de navegación de este tipo sea congruente con una precisión de mantenimiento de la derrota de ± 7,4 km (4 NM) durante el 95 % del tiempo de vuelo de todas las aeronaves que utilicen equipo RNAV. Este nivel es similar al que consiguen actualmente las aeronaves sin capacidad RNAV que vuelan en las actuales rutas definidas por VOR o VOR/DME, cuando los VOR están situados a menos de 93 km (50 NM) de distancia entre sí.
 
-2.2. Espacio aéreo protegido.
+2.2. Espacio aéreo de protección para rutas ATS RNAV basadas en RNP 4.
 
-El espacio aéreo protegido mínimo estipulado para las rutas ATS RNAV debería ser de 11, 1 km (6 NM) a cada lado de la derrota prevista; y cabe esperar que las aeronaves equipadas con RNAV se mantengan dentro de este espacio durante el 99,5% del tiempo de vuelo. Antes de aplicar los valores dimanantes de este concepto debería tenerse en cuenta toda experiencia práctica adquirida en el espacio aéreo en cuestión, al igual que la posibilidad de que se logre mejorar la performance de navegación general de las aeronaves. Por ello, cuando las desviaciones laterales se controlan con ayuda de la vigilancia radar, la extensión del espacio aéreo protegido necesario puede reducirse según se indica a continuación:
+2.2.1. El espacio aéreo de protección mínimo estipulado para rutas ATS RNAV deberá ser de 11,1 km (6 NM) a cada lado de la derrota prevista, cabiendo esperar que las aeronaves equipadas con RNAV se mantengan dentro de este espacio durante el 99,5% del tiempo de vuelo. Antes de aplicar los valores dimanantes de este concepto deberá tenerse en cuenta toda experiencia práctica adquirida en el espacio aéreo en cuestión, al igual que la posibilidad de conseguir mejoraras de la performance de navegación general de las aeronaves. En este contexto, cuando las desviaciones laterales se controlen con ayuda de la vigilancia radar, la extensión del espacio aéreo de protección necesario podrá reducirse de acuerdo con lo que se indica a continuación:
 
-| Porcentaje de contención |
-| --- |
+Porcentaje de contención
+
 |  | 95 | 96 | 97 | 98 | 99 | 99,5 |
-| km | ±7,4 | ±7,4 | ±8,3 | ±9,3 | ±10,2 | ±11,1 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Km | ±7,4 | ±7,4 | ±8,3 | ±9,3 | ±10,2 | ±11,1 |
 | NM | ±4,0 | ±4,0 | ±4,5 | ±5,0 | ±5,5 | ±6,0 |
 
-2.2.1. Los estudios realizados sobre la vigilancia radar indican que cualquier reducción posible del espacio aéreo protegido está estrechamente relacionada con las características del tránsito, la información de que dispone el controlador y el volumen de trabajo en el sector. Por último, vale la pena considerar que según los análisis sobre la precisión RNAV efectuados por algunos Estados de Europa en relación con las mediciones de la contención o retención, los vuelos dotados de capacidad RNAV se mantienen dentro de 5 NM de distancia con respecto al eje de la ruta durante el 99,5% del tiempo (véase EUR Doc 001, RNAV/4). Si el servicio ATS competente considera que se requiere más protección, p. ej., debido a la proximidad de zonas prohibidas, restringidas o peligrosas, trayectorias de ascenso y descenso de aeronaves militares, etc., dicho servicio podrá decidir que se proporcionen áreas de protección adicionales.
+2.2.2. Los estudios realizados sobre la vigilancia radar indican que cualquier reducción potencial del espacio aéreo de protección está estrechamente relacionada con las características del tránsito, la información de que dispone el controlador y la carga de trabajo del sector. Por último, vale la pena considerar que según los análisis sobre la precisión RNAV efectuados por algunos Estados de Europa en términos de mediciones de la contención, los vuelos dotados de capacidad RNAV se mantenían dentro de 5 NM de distancia con respecto al eje de la ruta durante el 99,5% del tiempo (véase EUR Doc 001, RNAV/4). Si la autoridad ATS competente considerase que se requiere más protección, p. ej., debido a la proximidad de zonas prohibidas, restringidas o peligrosas, trayectorias de ascenso y descenso de aeronaves militares, etc., deberán establecerse áreas de protección adicionales.
 
-2.2.2. Si hay una diferencia angular de más de 25° entre los tramos de ruta, debería proporcionarse espacio aéreo protegido adicional, tal como se indica en el Adjunto 5, 3.5 a 3.12. y en la Sección 7.
+2.2.3. Donde exista una diferencia angular de más de 25 º entre los tramos de ruta, deberá proporcionarse espacio aéreo de protección adicional, tal como se indica en el Adjunto 5 del Apéndice N, 3.5 a 3.12 y punto 7.
 
-Nota: Es posible que el Estado requiera distintos niveles de precisión de navegación para las operaciones de aeronaves dotadas de equipo RNAV. En este texto de orientación no figuran dichos requisitos y es posible que sea necesario modificar los criterios sobre espacio aéreo protegido.
+Nota: Es posible que el Estado requiera distintos niveles de precisión de navegación para la operación de aeronaves dotadas de equipo RNAV. Este texto de orientación no cubre dichos requisitos y podría ser necesario modificar los criterios sobre espacio aéreo de protección.
 
-2.3. Espaciado entre rutas paralelas (RNAV/RNAV o RNAV/tradicionales).
+2.3. Separación entre rutas RNAV paralelas basadas en RNP 4.
 
-Es preciso tomar nota de que los textos sobre rutas RNAV no se basan en el método de riesgo de colisión/nivel perseguido de seguridad, en tanto que se dispone de esa información para las rutas VOR. En el Adjunto 5, Sección 4, figura la información sobre rutas VOR, que debería utilizarse para determinar el espaciado entre rutas RNAV.
+Cuando se utilice el espacio aéreo de protección descrito en 2.2, los ejes de ruta deberán separarse de modo que los espacios aéreos de protección correspondientes a los valores de contención del 99,5 % no se superpongan. Cuando se implante una separación que comprenda valores de contención inferiores al 99,5 %, se requerirá vigilancia radar.
 
-2.4. Espaciado entre rutas no paralelas, (RNAV/RNAV o RNAV/tradicionales).
+3. Separación entre derrotas paralelas o entre ejes de rutas RNAV paralelas basadas en los tipos de RNP.
 
-Nota 1: El texto de este adjunto tiene por objeto proporcionar orientación en los casos de rutas adyacentes que no se cortan y que forman un ángulo entre sí de más de 10°.
+3.1. Cabe hacer notar que, donde se indique, las separaciones descritas a continuación se basan en estudios de seguridad realizados específicamente para una determinada estructura de derrotas o rutas. De ahí que los estudios evaluaron características de tránsito que podrían ser exclusivas de la estructura examinada. Por ejemplo, algunas de estas características son la densidad de tránsito, la frecuencia de las aeronaves que se pasan con separación mínima, las instalaciones de comunicaciones y vigilancia, etc. En el Manual sobre la metodología de planificación del espacio aéreo para determinar las mínimas de separación (Doc 9689) se incluye información adicional sobre la realización de estudios de seguridad.
 
-Nota 2: El texto de este adjunto no se ha obtenido mediante el método de riesgo de colisión/nivel perseguido de seguridad.
+3.2. Cuando se determine la separación entre derrotas paralelas o rutas ATS paralelas (mencionadas a continuación como un «sistema»), el estudio de seguridad, que deberá examinar cuestiones tales como las que se enumeran en 3.1, deberá realizarse tomando como referencia un nivel mínimo de seguridad aceptable.
 
-El espacio aéreo protegido entre tales rutas no debería ser menor que, el que permite obtener, sin superposición, los valores de contención del 99,5% que se indican en 2.2.
+3.2.1. Cuando se estime que los «accidentes mortales por hora de vuelo» constituyan una medida idónea, se aplicará un nivel de seguridad de referencia (TLS) de 5 x 10-9 accidentes mortales por hora de vuelo (o el TLS definido por el Estado o el calculado por el proveedor de servicios de navegación aérea, el que sea más restrictivo) por dimensión para determinar la aceptabilidad de sistemas de ruta futuros que sean implantados después del año 2000. Hasta esa fecha conviene que se aplique para este fin un TLS de 2 x 10-8 accidentes mortales por hora de vuelo por dimensión.
+
+3.2.2. Sin embargo, cuando se estime que los «accidentes mortales por hora de vuelo» no constituyan una medida idónea, el Estado podrá establecer medidas y métodos de evaluación alternativos justificados que proporcionen un nivel de seguridad aceptable y, cuando corresponda, se implantarán por medio de acuerdos regionales.
+
+3.3. Si, en el momento, en que se establece un sistema, o después de la realización del subsiguiente estudio de seguridad del sistema, se determina que el sistema no ofrece el nivel de seguridad apropiado en base al método de evaluación utilizado, deberá considerarse la posibilidad de realizar una nueva evaluación. Esta evaluación debería llevarse a cabo de conformidad con el Doc 9689 para determinar si se puede alcanzar un nivel de seguridad equivalente o superior al nivel mínimo aceptable.
+
+3.4. A continuación se proporcionan ejemplos de separaciones para sistemas en áreas o regiones específicas basadas en el tipo de RNP. Cuando estas separaciones estén basadas en las características de un área o región específica (sistema de referencia), será necesario que otros Estados o regiones evalúen sus propios sistemas, comparándolos con el sistema de referencia.
+
+3.4.1. Para entornos regidos por procedimientos:
+
+a) RNP 20:
+
+Separación: 185 Km (100 NM);
+
+Base: Uso actual, basado en una experiencia operacional prolongada; y
+
+Requisitos mínimos ATS:
+
+NAV-Todas las aeronaves requieren una aprobación RNP de tipo 20 apropiada para las rutas/derrotas por las que volarán.
+
+COM-Comunicaciones vocales por medio de una tercera parte.
+
+SUR-Informes de posición reglamentarios del piloto.
+
+b) RNP 12.6:
+
+Separación: 110 Km (60 NM);
+
+Base: Modelo de riesgo de colisión realizado para la Estructura Organizada de Derrotas de NAT [Informe de la Reunión regional limitada de navegación aérea Atlántico septentrional (1976) (Doc 9182)]; y Requisitos mínimos ATS:
+
+NAV-Todas las aeronaves requieren una aprobación RNP de tipo 12.6 apropiada para las rutas/derrotas por las que volarán.
+
+COM-Comunicaciones vocales por medio de una tercera parte.
+
+SUR-Informes de posición reglamentarios del piloto.
+
+Otros-La seguridad del sistema debe evaluarse periódicamente.
+
+Nota: Podría ser deseable contar con comunicaciones directas entre el controlador y el piloto en determinadas áreas, tales como las que poseen condiciones meteorológicas convectivas conocidas.
+
+c) RNP 10:
+
+Separación: 93 Km (50NM);
+
+Base: Modelo de riesgo de colisión realizado por la Administración Federal de Aviación de los Estados Unidos para la región Pacífico, basándose en las características del tránsito en el Pacífico norte; y Requisitos mínimos ATS:
+
+NAV-Todas las aeronaves requieren una aprobación RNP de tipo 10 apropiada para las rutas/derrotas por las que volarán.
+
+COM-Comunicaciones orales por medio de una tercera parte.
+
+SUR-Informes de posición reglamentarios del piloto.
+
+Otros-La seguridad del sistema debe evaluarse periódicamente.
+
+Nota: Podría ser deseable contar con comunicaciones directas entre el controlador y el piloto en determinadas áreas, tales como las que posean condiciones meteorológicas convectivas reconocidas.
+
+d) RNP 5 (o RNP 4 o mejor):
+
+Separación: 30,6 Km (16,5 NM) en un sistema unidireccional;
+
+33,3 Km (18 NM) en un sistema bidireccional
+
+Base: Comparación con un sistema de referencia continental de alta densidad (separación VOR) tal como se describe en el Adjunto 5 del Apéndice N; y Requisitos mínimos ATS:
+
+NAV-Todas las aeronaves requieren una aprobación RNP de tipo 5 apropiada para las rutas/derrotas por las que volarán, y debe proporcionarse una infraestructura de ayudas a la navegación aérea (NAVAID) que sea suficiente para permitir operaciones RNP 5.
+
+COM-Comunicaciones orales directas VHF entre el controlador y el piloto.
+
+SUR-Informes de posición reglamentarios del piloto.
+
+Nota 1: En el Manual sobre la performance de navegación requerida (RNP) (Doc 9613) figuran textos de orientación relativos a la utilización de RNP 5.
+
+Nota 2: Esta separación no fue elaborada para aplicarse en espacio aéreo oceánico o remoto, donde no se dispone de una infraestructura VOR apropiada.
+
+e) RNP 4:
+
+Separación: 55,5 Km (30 NM);
+
+Base 1: Estudio de seguridad realizado por la Administración Federal de Aviación de los Estados Unidos, basándose en análisis relativos a una proporción aceptable de errores laterales crasos en un sistema de rutas paralelas en que se utilice la separación de 55,5 KM (30 NM) entre derrotas, cumpliendo al mismo tiempo el nivel de seguridad de referencia de 5 x 10-9 accidentes mortales por hora de vuelo.
+
+Base 2: Los requisitos mínimos de comunicaciones y vigilancia reseñados seguidamente son necesarios desde el punto de vista operacional para la gestión de sucesos de contingencia y de emergencia en un sistema de rutas con separación de 55,5 Km (30 NM).
+
+Nota: Se dispone de más información sobre el estudio de seguridad realizado, en el Manual sobre la metodología de planificación del espacio aéreo para determinar las mínimas de separación (Doc 9689). Requisitos mínimos ATS:
+
+NAV-Se estipulará RNP 4 para el área, derrotas o rutas ATS designadas.
+
+COM-Comunicaciones orales directas controlador-piloto o comunicaciones por enlace de datos controlador-piloto (CPDLC).
+
+SUR-Un sistema ADS en el que deberá establecerse un contrato por evento que incluya un informe de evento de desviación lateral cuando se produzca una desviación con respecto al eje de la derrota superior a 9,3 Km (5 NM).
+
+Otros-Antes de la implantación, se efectuará una verificación del sistema de duración e integridad suficientes para demostrar que la proporción máxima aceptable de desviaciones laterales superiores o iguales a 27,8 Km (15 NM) no excederá lo indicado en la Tabla B-1 y que el sistema satisface los requisitos operacionales y técnicos. La verificación debería realizarse después de que se hayan cumplido los requisitos mínimos arriba reseñados en materia de navegación, comunicaciones y vigilancia. Seguidamente a la implantación deberá establecerse un programa de supervisión para verificar periódicamente que la proporción real de desviaciones laterales superiores o iguales a 27,8 Km (15 NM) no excede el máximo prescrito en la Tabla B-1 [información relativa a la supervisión figura en el Manual sobre la metodología de planificación del espacio aéreo para determinar las mínimas de separación (Doc 9689), Capítulo 8].
+
+Nota 1: El planificador del espacio aéreo debería decidir en primer lugar cuál de los cuatro sistemas descritos se aplica al espacio aéreo considerado. Si el sistema no es idéntico a uno de los cuatro casos descritos en la Tabla B-1, el planificador debería efectuar una interpolación conservadora entre los casos, tomando de los dos casos que más se parezcan al sistema aquél que presente la proporción de desviaciones laterales más baja. Seguidamente se seleccionará de la primera columna el valor correspondiente al coeficiente de ocupación lateral del sistema, que se prevé no se excederá a lo largo del periodo objeto de planificación. Mediante la lectura de la tabla en la fila y columna seleccionadas, el planificador del espacio aéreo obtiene el valor correspondiente a la proporción de desviaciones laterales que no debe excederse para que el sistema satisfaga el TLS de 5 x 10-9 accidentes mortales por hora de vuelo, el TLS definido por el Estado, o el calculado por el proveedor de servicios de navegación aérea, el que sea más restrictivo.
+
+Nota 2: Las desviaciones laterales que deberían tenerse en cuenta para fines de evaluación de la seguridad operacional del sistema son aquellas desviaciones con respecto a la derrota de magnitud superior o igual a 27,8 Km (15 NM), que no están relacionados con la ejecución de un procedimiento de contingencia aprobado.
+
+Nota 3: Los procedimientos relacionados con el uso de CPDLC y ADS, se encuentran en el libro Cuarto del RCA, Capítulos 12 y 11, respectivamente. Los criterios en materia de ADS y CPDLC deberán establecerse mediante un estudio de seguridad adecuado. Información relativa a estudios de seguridad figura en el Manual sobre la metodología de planificación del espacio aéreo para determinar las mínimas de separación (Doc 9689).
+
+Nota 4: Esta separación se elaboró con miras a su aplicación en espacio aéreo remoto y oceánico donde no se dispone de infraestructura VOR adecuada.
+
+Nota 5: En este texto, el coeficiente de ocupación lateral equivale a un número igual al doble del número de pares de aeronaves próximas en sentido lateral, dividido por el número total de aeronaves. Se puede encontrar una explicación detallada de los términos utilizados en la realización de modelos de riesgo de colisión en el Manual de planificación de servicios de tránsito aéreo (Doc 9426), Parte II, Capítulo 4, Apéndices A y C.
+
+3.4.2. Para entornos radar:
+
+a) RNP 4:
+
+Separación: 14,8 –22,2 Km (8 –12 NM);
+
+Base: Comparación con un sistema de referencia; las áreas de contención, determinadas de conformidad con 2.2.1, no se superponen; y
+
+Requisitos mínimos ATS:
+
+NAV-Todas las aeronaves requieren al menos una aprobación RNP de tipo 4 apropiada para las rutas/derrotas por las que volarán, y debe proporcionarse la infraestructura NAVAID suficiente para permitir operaciones RNP 4.
+
+COM-Comunicaciones orales directas VHF entre el controlador y el piloto.
+
+SUR-Radar que cumpla con la normativa existente.
+
+Otros-Debe evaluarse la seguridad del sistema, incluyendo la carga de trabajo del controlador.
+
+b) RNP 5:
+
+Separación: 18,5 –27,8 Km (10 –15 NM);
+
+Base: Comparación con un sistema de referencia; las áreas de contención, adaptadas de las disposiciones de 2.2.1 para reflejar RNP 5, no se superponen; y Requisitos mínimos ATS:
+
+NAV-Todas las aeronaves requieren al menos RNP de tipo 5 apropiado para las rutas/derrotas por las que volarán, y debe proporcionarse la infraestructura NAVAID suficiente para permitir operaciones RNP 5.
+
+COM-Comunicaciones vocales directas VHF entre el controlador y el piloto.
+
+SUR-Radar que cumpla con la normativa existente.
+
+Otros-Debe evaluarse la seguridad del sistema, incluyendo la carga de trabajo del controlador.
+
+Tabla B-1. Valores máximos aceptables de desviaciones laterales superiores o iguales a 27,8 Km (15 NM)
+
+| Ocupación lateral máxima prevista del sistema de rutas | Valor para dos rutas en el mismo sentido | Valor para cuatro rutas en el mismo sentido | Valor para siete rutas en el mismo sentido | Valor para dos rutas en sentido opuesto |
+| --- | --- | --- | --- | --- |
+| 0,1 | 1,99 x 10-4 | 1,75 x 10-4 | 1,52 x 10-4 | 3,14 x 10-5 |
+| 0,2 | 1,06 x 10-4 | 9,39 x 10-5 | 8,27 x 10-5 | 2,23 x 10-5 |
+| 0,3 | 7,50 x 10-5 | 6,70 x 10-5 | 5,95 x 10-5 | 1,92 x 10-5 |
+| 0,4 | 5,95 x 10-5 | 5,35 x 10-5 | 4,79 x 10-5 | 1,77 x 10-5 |
+| 0,5 | 5,03 x 10-5 | 4,55 x 10-5 | 4,10 x 10-5 | 1,68 x 10-5 |
+| 0,6 | 4,41 x 10-5 | 4,01 x 10-5 | 3,64 x 10-5 | 1,62 x 10-5 |
+| 0,7 | 3,97 x 10-5 | 3,62 x 10-5 | 3,30 x 10-5 | 1,58 x 10-5 |
+| 0,8 | 3,64 x 10-5 | 3,34 x 10-5 | 3,06 x 10-5 | 1,55 x 10-5 |
+| 0,9 | 3,38 x 10-5 | 3,11 x 10-5 | 2,86 x 10-5 | 1,52 x 10-5 |
+| 1 | 3,17 x 10-5 | 2,93 x 10-5 | 2,71 x 10-5 | 1,50 x 10-5 |
+| 1,1 | 3,00 x 10-5 | 2,79 x 10-5 | 2,58 x 10-5 | 1,48 x 10-5 |
+| 1,2 | 2,86 x 10-5 | 2,66 x 10-5 | 2,48 x 10-5 | 1,47 x 10-5 |
+| 1,3 | 2,74 x 10-5 | 2,56 x 10-5 | 2,39 x 10-5 | 1,46 x 10-5 |
+| 1,4 | 2,64 x 10-5 | 2,47 x 10-5 | 2,31 x 10-5 | 1,45 x 10-5 |
+| 1,5 | 2,55 x 10-5 | 2,39 x 10-5 | 2,25 x 10-5 | 1,44 x 10-5 |
+| 1,6 | 2,48 x 10-5 | 2,33 x 10-5 | 2,19 x 10-5 | 1,43 x 10-5 |
+| 1,7 | 2,41 x 10-5 | 2,27 x 10-5 | 2,14 x 10-5 | 1,42 x 10-5 |
+| 1,8 | 2,35 x 10-5 | 2,22 x 10-5 | 2,09 x 10-5 | 1,42 x 10-5 |
+| 1,9 | 2,29 x 10-5 | 2,17 x 10-5 | 2,05 x 10-5 | 1,41 x 10-5 |
+| 2 | 2,24 x 10-5 | 2,13 x 10-5 | 2,01 x 10-5 | 1,41 x 10-5 |
+
+> Se modifica el Adjunto 6 por el art.único.5 de la Orden PRE/697/2008, de 12 de marzo. Ref. BOE-A-2008-5008
