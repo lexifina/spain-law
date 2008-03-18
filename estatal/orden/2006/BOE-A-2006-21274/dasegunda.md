@@ -1,6 +1,6 @@
 ## Disposición adicional segunda. Certificaciones expedidas por las áreas o dependencias de Trabajo y Asuntos Sociales u oficinas de extranjeros.
 
-1. Se podrán inscribir en los servicios públicos de empleo y en las agencias de colocación los extranjeros que aporten certificación expedida para tal fin por las oficinas de extranjeros, en defecto de éstas por las áreas o dependencias de Trabajo y Asuntos Sociales, cuando acrediten que se encuentran en alguno de los siguientes supuestos:
+1. Se podrán inscribir en los servicios públicos de empleo y en las agencias de colocación los extranjeros en situación de estancia o de residencia que porten certificación expedida para tal fin por las oficinas de extranjeros o, en defecto de éstas, por las áreas o dependencias de Trabajo y Asuntos Sociales, cuando acrediten que se encuentran en alguno de los siguientes supuestos:
 
 a) Ser cónyuge o hijo de extranjero residente en España con una autorización renovada.
 
@@ -23,3 +23,5 @@ i) Ser solicitante de asilo, de conformidad con lo previsto en el artículo 15.2
 j) Otros supuestos en los que proceda la expedición de las certificaciones, previa determinación de los mismos por la Secretaría de Estado de Inmigración y Emigración en el desempeño de sus competencias.
 
 2. Las certificaciones expedidas según el anterior apartado 1 no tendrán, por si mismas, efecto alguno en relación con la situación jurídica del interesado en España, por lo que no serán base ni consolidarán derecho alguno de residencia que no correspondiera a aquél, según lo previsto por la Ley Orgánica 4/2000 y por su Reglamento aprobado por el Real Decreto 2393/2004.
+
+> Se modifica el párrafo primero del apartado 1 por el art. único.6 de la Orden TAS/711/2008, de 7 de marzo. Ref. BOE-A-2008-5069.
