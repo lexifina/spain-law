@@ -2426,6 +2426,95 @@ e) 0,0002 por 100 en otros productos de contacto y productos de higiene bucal.
 
 (3) Véase el número de referencia 411 del anexo II.
 
+| 1244 | 1-metil-2,4,5-trihidroxibenceno (n.º CAS 1124-09-0) y sus sales, cuando se emplee en tintes de cabello. |
+| --- | --- |
+| 1245 | 2,6-dihidroxi-4-metilpiridina (n.º CAS 4664-16-8) y sus sales, cuando se emplee en tintes de cabello. |
+| 1246 | 5-hidroxi-1,4-benzodioxano (n.º CAS 10288-36-5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1247 | 3,4-metilendioxifenol (n.º CAS 533-31-3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1248 | 3,4-metilendioxianilina (n.º CAS 14268-66-7) y sus sales, cuando se emplee en tintes de cabello. |
+| 1249 | Hidroxil-2-piridona (n.º CAS 822-89-9) y sus sales, cuando se emplee en tintes de cabello. |
+| 1250 | 3-nitro-4-aminofenoxietanol (n.º CAS 50982-74-6) y sus sales, cuando se emplee en tintes de cabello. |
+| 1251 | 2-metoxi-4-nitrofenol (n.º CAS 3251-56-7) (4-nitroguayacol) y sus sales, cuando se emplee en tintes de cabello. |
+| 1252 | C.I. Acid Black 131 (n.º CAS 12219-01-1) y sus sales, cuando se emplee en tintes de cabello |
+| 1253 | 1,3,5-trihidroxibenceno (n.º CAS 108-73-6) (floroglucinol) y sus sales, cuando se emplee en tintes de cabello. |
+| 1254 | Triacetato de benceno 1,2,4 (n.º CAS 613-6-3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1255 | 1,4-bencenodiamina, 2-nitro-, productos con clorometiloxirano y 2,2'-iminobisetanol (n.º CAS 68478-64-8) (n.º CAS 158571-58-5) (HC Blue n.º 5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1256 | Un producto complejo de reacción de la N-metil-1,4-diaminoantraquinona, la epiclorohidrina y la monoetanolamina (n.º CAS 158571-57-4) (HC Blue n.º 4) y sus sales, cuando se emplee en tintes de cabello. |
+| 1257 | Ácido 4-aminobencenosulfónico (n.º CAS 121-57-3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1258 | Ácido 3,3'-(sulfonilbis(2-nitro-4,1-fenilen)imino)bis(6-(fenilamino)-bencenosulfónico y sus sales, cuando se emplee en tintes de cabello. |
+| 1259 | 3(o 5)-((4-(benzilmetilamino)fenil)azo)-1,2-(o 1,4)-dimetil-1H-1,2,4-triazolio y sus sales, cuando se emplee en tintes de cabello. |
+| 1260 | 2,2'-[[3-cloro-4-[(2,6-dicloro-4-nitrofenil)azo]fenil]imino]bisetanol (n.º CAS 23355-64-8) (Disperse Brown 1) y sus sales, cuando se emplee en tintes de cabello. |
+| 1261 | 2-[[4-[etil(2-hidroxietil)amino]fenil]azo]-6-metoxi-3-metilbenzotiazolio y sus sales, cuando se emplee en tintes de cabello. |
+| 1262 | 2-[(4-cloro-2-nitrofenil)azo]-N-(2-metoxifenil)-3-oxobutiramida (n.º CAS 13515-40-7) (Pigment Yellow 73) y sus sales, cuando se emplee en tintes de cabello. |
+| 1263 | 2,2'-[(3,3'-dicloro[1,1'-bifenil]-4,4'-diil)bis(azo)]bis[3-oxo-N-fenilbutiramida] (n.º CAS 6358-85-6) (Pigment Yellow 12) y sus sales, cuando se emplee en tintes de cabello. |
+| 1264 | Ácido 2,2'-(1,2-etenodiil)bis[5-(4-etoxifenil)azo]bencenosulfónico y sus sales, cuando se emplee en tintes de cabello. |
+| 1265 | 2,3-dihidro-2,2-dimetil-6-[[4-(fenilazo)-1-naftalenil]azo]-1H-pirimidina (n.º CAS 4197-25-5) (Solvent Black 3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1266 | Ácido 3(o 5)-[[4-[(7-amino-1-hidroxi-3-sulfonato-2-naftil)azo]-1-naftil]azo]salicílico y sus sales, cuando se emplee en tintes de cabello. |
+| 1267 | Ácido 7-(benzoilamino)-4-hidroxi-3-[[4-[(4-sulfofenil)azo]fenil]azo]-2-naftalenosulfónico y sus sales, cuando se emplee en tintes de cabello. |
+| 1268 | [μ-[[7,7'-iminobis[4-hidroxi-3-[[2-hidroxi-5-(N-metilsulfamoil)fenil]azo]naftaleno-2-sulfonato]](6-)]]dicuprato(2-) y sus sales, cuando se emplee en tintes de cabello. |
+| 1269 | Ácido 3-[(4-(acetilamino)fenil)azo]-4-hidroxi-7-[[[[5-hidroxi-6-(fenilazo)-7-sulfo-2-naftalenil]amino]carbonil]amino]-2-naftalenosulfónico y sus sales, cuando se emplee en tintes de cabello. |
+| 1270 | Ácido 7,7-(benzoilamino)-4-hidroxi-3-[[4-[(4-sulfofenil)azo]fenil]azo]-2-naftalenosulfónico (n.º CAS 25188-41-4) y sus sales, cuando se emplee en tintes de cabello. |
+| 1271 | N-[4-[bis[4-(dietilamino)fenil]metileno]-2,5-ciclohexadien-1-ilideno]-N-etiletanaminio y sus sales, cuando se emplee en tintes de cabello. |
+| 1272 | 2-[[(4-metoxifenil)metilhidrazono]metil]-1,3,3-trimetil-3H-indolio y sus sales, cuando se emplee en tintes de cabello. |
+| 1273 | 2-[2-[(2,4-dimetoxifenil)amino]etenil]-1,3,3-trimetil-3H-indolio y sus sales, cuando se emplee en tintes de cabello. |
+| 1274 | Nigrosina soluble en alcohol (n.º CAS 11099-03-9) (Solvent Black 5), cuando se emplee en tintes de cabello. |
+| 1275 | 3,7-bis(dietilamino)-fenoxazin-5-io (n.º CAS 47367-75-9) y sus sales, cuando se emplee en tintes de cabello. |
+| 1276 | 9-(dimetilamino)benzo[a]fenoxazin-7-io y sus sales, cuando se emplee en tintes de cabello. |
+| 1277 | 6-amino-2-(2,4-dimetilfenil)-1H-benzo[de]isoquinolina-1,3(2H)-diona (n.º CAS 2478-20-8) (Solvent Yellow 44) y sus sales, cuando se emplee en tintes de cabello. |
+| 1278 | 1-amino-4-[[4-[(dimetilamino)metil]fenil]amino]antraquinona (n.º CAS 12217-43-5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1279 | Ácido lacaico (CI Natural Red 25) (n.º CAS 60687-93-6) y sus sales, cuando se emplee en tintes de cabello. |
+| 1280 | Ácido 5-[(2,4-dinitrofenil)amino]-2-(fenilamino)-bencenosulfónico (n.º CAS 15347-52-1) y sus sales, cuando se emplee en tintes de cabello. |
+| 1281 | 4-[(4-nitrofenil)azo]anilina (n.º CAS 730-40-5) (Disperse Orange 3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1282 | 4-nitro-m-fenilendiamina (n.º CAS 5131-58-8) y sus sales, cuando se emplee en tintes de cabello. |
+| 1283 | 1-amino-4-(metilamino)-9,10-antraquinona (n.º CAS 1220-94-6) (Disperse Violet 4) y sus sales, cuando se emplee en tintes de cabello. |
+| 1284 | N-metil-3-nitro-p-fenilendiamina (n.º CAS 2973-21-9) y sus sales, cuando se emplee en tintes de cabello. |
+| 1285 | N1-(2-hidroxietil)-4-nitro-o-fenilendiamina (n.º CAS 56932-44-6) (HC Yellow n.º 5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1286 | N1-(tris(hidroximetil))metil-4-nitro-1,2-fenilendiamina (n.º CAS 56932-45-7) (HC Yellow n.º 3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1287 | 2-nitro-N-hidroxietil-p-anisidina (n.º CAS 57524-53-5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1288 | N,N'-dimetil-N-hidroxietil-3-nitro-p-fenilendiamina (n.º CAS 10228-03-2) y sus sales, cuando se emplee en tintes de cabello. |
+| 1289 | 3-(N-metil-N-(4-metilamino-3-nitrofenil)amino)propano-1,2-diol (n.º CAS 93633-79-5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1290 | Ácido 4-etilamino-3-nitrobenzoico (n.º CAS 2788-74-1) (N-etil-3-nitro PABA) y sus sales, cuando se emplee en tintes de cabello. |
+| 1291 | (8-[(4-amino-2-nitrofenil)azo]-7-hidroxi-2-naftil)trimetilamonio y sus sales, excepto Basic Red 118 (n.º CAS 71134-97-9) como impureza en Basic Brown 17, cuando se emplee en tintes de cabello. |
+| 1292 | 5-((4-(dimetilamino)fenil)azo)-1,4-dimetil-1H-1,2,4-triazolio y sus sales, cuando se emplee en tintes de cabello. |
+| 1293 | 4-(fenilazo)-m-fenilendiamina (n.º CAS 495-54-5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1294 | 4-metil-6-(fenilazo)-1,3-bencenodiamina y sus sales, cuando se emplee en tintes de cabello. |
+| 1295 | Ácido 2,7-naftalenodisulfónico, 5-(acetilamino)-4-hidroxi-3-((2-metilfenil)azo)-y sus sales, cuando se emplee en tintes de cabello. |
+| 1296 | 4,4'-[(4-metil-1,3-fenileno)bis(azo)]bis(6-metil-1,3-bencenodiamina (n.º CAS 4482-25-1) (Basic Brown 4) y sus sales, cuando se emplee en tintes de cabello. |
+| 1297 | 3-((4-((diamino(fenilazo)fenil)azo)-2-metilfenil)azo)-N,N,N-trimetil-benzenaminio y sus sales, cuando se emplee en tintes de cabello. |
+| 1298 | 3-((4-((diamino(fenilazo)fenil)azo)-1-naftalenil)azo)-N,N,N-trimetil-benzenaminio y sus sales, cuando se emplee en tintes de cabello. |
+| 1299 | N-[4-[(4-(dietilamino)fenil]fenilmetileno]-2,5-ciclohexadien-1-ilideno]-N-etiletanaminio y sus sales, cuando se emplee en tintes de cabello. |
+| 1300 | 1-[(2-hidroxietil)amino]-4-(metilamino)-9,10-antraquinona (n.º CAS 86722-66-9), sus derivados y sus sales, cuando se emplee en tintes de cabello. |
+| 1301 | 1,4-diamino-2-metoxi-9,10-antraquinona (n.º CAS 2872-48-2) (Disperse Red 11) y sus sales, cuando se emplee en tintes de cabello. |
+| 1302 | 1,4-dihidroxi-5,8-bis((2-hidroxietil)amino)antraquinona (n.º CAS 3179-90-6) (Disperse Blue 7) y sus sales, cuando se emplee en tintes de cabello. |
+| 1303 | 1-((3-aminopropil)amino)-4-(metilamino)antraquinona y sus sales, cuando se emplee en tintes de cabello. |
+| 1304 | N-(6-((2-cloro-4-hidroxifenil)imino)-4-metoxi-3-oxo-1,4-ciclohexadien-1-il)acetamida (n.º CAS 66612-11-1) (HC Yellow n.º 8) y sus sales, cuando se emplee en tintes de cabello. |
+| 1305 | (6-((3-cloro-4-(metilamino)fenil)imino)-4-metil-3-oxociclohexa-1,4-dien-1-il)urea (n.º CAS 56330-88-2) (HC Red n.º 9) y sus sales, cuando se emplee en tintes de cabello. |
+| 1306 | 3,7-bis(dimetilamino)-fenotiazin-5-io y sus sales, cuando se emplee en tintes de cabello. |
+| 1307 | 4,6-bis(2-hidroxietoxi)-m-fenilendiamina y sus sales, cuando se emplee en tintes de cabello. |
+| 1308 | 5-amino-2,6-dimetoxi-3-hidroxipiridina (n.º CAS 104333-03-1) y sus sales, cuando se emplee en tintes de cabello. |
+| 1309 | 4,4-diaminodifenilamina (n.º CAS 537-65-5) y sus sales, cuando se emplee en tintes de cabello. |
+| 1310 | 4-dietilamino-o-toluidina (n.º CAS 148-71-0) y sus sales, cuando se emplee en tintes de cabello. |
+| 1311 | N,N-dietil-p-fenilendiamina (n.º CAS 93-05-0) y sus sales, cuando se emplee en tintes de cabello. |
+| 1312 | N,N-dimetil-p-fenilendiamina (n.º CAS 99-98-9) y sus sales, cuando se emplee en tintes de cabello. |
+| 1313 | Tolueno-3,4-diamina (n.º CAS 496-72-0) y sus sales, cuando se emplee en tintes de cabello |
+| 1314 | 2,4-diamino-5-metilfenoxietanol (n.º CAS 141614-05-3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1315 | 6-amino-o-cresol (n.º CAS 17672-22-9) y sus sales, cuando se emplee en tintes de cabello. |
+| 1316 | Hidroxietilaminometil-p-aminofenol (n.º CAS 110952-46-0) y sus sales, cuando se emplee en tintes de cabello. |
+| 1317 | 2-amino-3-nitrofenol (n.º CAS 603-85-0) y sus sales, cuando se emplee en tintes de cabello. |
+| 1318 | 2-cloro-5-nitro-N-hidroxietil-p-fenilendiamina (n.º CAS 50610-28-1) y sus sales, cuando se emplee en tintes de cabello. |
+| 1319 | 2-nitro-p-fenilendiamina (n.º CAS 5307-14-2) y sus sales, cuando se emplee en tintes de cabello. |
+| 1320 | Hidroxietil-2,6-dinitro-p-anisidina (n.º CAS 122252-11-3) y sus sales, cuando se emplee en tintes de cabello. |
+| 1321 | 6-nitro-2,5-piridindiamina (n.º CAS 69825-83-8) y sus sales, cuando se emplee en tintes de cabello. |
+| 1322 | 3,7-diamino-2,8-dimetil-5-fenilfenazinio y sus sales, cuando se emplee en tintes de cabello. |
+| 1323 | Ácido 3-hidroxi-4-((2-hidroxinaftil)azo)-7-nitronaftalen-1-sulfónico (n.º CAS 16279-54-2) y sus sales, cuando se emplee en tintes de cabello. |
+| 1324 | 3-((2-nitro-4-(trifluorometil)fenil)amino)propano-1,2-diol (n.º CAS 104333-00-8) (HC Yellow n.º 6) y sus sales, cuando se emplee en tintes de cabello. |
+| 1325 | 2-[(4-cloro-2-nitrofenil)amino]etanol (n.º CAS 59320-13-7) (HC Yellow n.º 12) y sus sales, cuando se emplee en tintes de cabello. |
+| 1326 | 3-[[4-[(2-hidroxietil)metilamino]-2-nitrofenil]amino]-1,2-propanodiol (n.º CAS 173994-75-7) y sus sales, cuando se emplee en tintes de cabello. |
+| 1327 | 3-[[4-[etil(2-hidroxietil)amino]-2-nitrofenil]amino]-1,2-propanodiol (n.º CAS 114087-41-1) y sus sales, cuando se emplee en tintes de cabello. |
+| 1328 | N-[4-[(4-(dietilamino)fenil][4-(etilamino)-1-naftalenil]metileno]-2,5-ciclohexadien-1-ilideno]-N-etiletanaminio y sus sales, cuando se emplee en tintes de cabello. |
+
+> Se añaden los números 1244 a 1328 por el art. único.1 de la Orden SCO/719/2008, de 7 de marzo. Ref. BOE-A-2008-5161.
+
 > Se modifica el número 663, se suprime el 1182 y se añaden del 1234 al 1243 por el art. 1 de la Orden SCO/2614/2007, de 4 de septiembre. Ref. BOE-A-2007-16210.
 
 > Se modifica el número 417 por el art. 1 de Orden SCO/504/2007, de 5 de marzo. Ref. BOE-A-2007-4816.
