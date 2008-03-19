@@ -6,21 +6,21 @@
 
 | Grupo | Subgrupo | Combustible | Potencia | Tarifa regulada c€/kWh | Prima de referencia c€/kWh |
 | --- | --- | --- | --- | --- | --- |
-| a.1 | a.1.1 |  | P≤0,5 MW | 12,1533 | 0,0000 |
-| 0,5<P≤1 MW | 9,9729 | 0,0000 |
-| 1<P≤10 MW | 7,7840 | 2,8075 |
-| 10<P≤25 MW | 7,3693 | 2,2301 |
-| 25<P≤50 MW | 6,9741 | 1,9296 |
-| a.1.2 |  | P≤0,5 MW | 14,3153 | 0,0000 |
-| Gasóleo / GLP | 0,5<P≤1 MW | 12,1826 | 0,0000 |
-| 1<P≤10 MW | 10,4275 | 5,0718 |
-| 10<P≤25 MW | 10,1513 | 4,5988 |
-| 25<P≤50 MW | 9,8100 | 4,1730 |
-| Fuel | 0,5<P≤1 MW | 11,1786 | 0,0000 |
-| 1<P≤10 MW | 9,5022 | 4,1593 |
-| 10<P≤25 MW | 9,2149 | 3,6753 |
-| 25<P≤50 MW | 8,8803 | 3,2625 |
-| c.2 |  |  |  | 5,8245 | 2,4993 |
+| a.1 | a.1.1 |  | P≤0,5 MW | 12,1533 |  |
+| 0,5<P≤1 MW | 9,9729 |  |
+| 1<P≤10 MW | 7,7840 | 3,2593 |
+| 10<P≤25 MW | 7,3693 | 2,6820 |
+| 25<P≤50 MW | 6,9741 | 2,3816 |
+| a.1.2 | Gasóleo / GLP. | P≤0,5 MW | 14,3153 |  |
+| 0,5<P≤1 MW | 12,1826 |  |
+| 1<P≤10 MW | 10,4275 | 5,5449 |
+| 10<P≤25 MW | 10,1513 | 5,0726 |
+| 25<P≤50 MW | 9,8100 | 4,6474 |
+| Fuel. | 0,5<P≤1 MW | 11,1786 |  |
+| 1<P≤10 MW | 9,5022 | 4,6315 |
+| 10<P≤25 MW | 9,2149 | 4,1482 |
+| 25<P≤50 MW | 8,8803 | 3,7364 |
+| c.2 |  |  |  | 5,8245 | 2,9722 |
 
 2. Tarifas para las instalaciones acogidas a la disposición transitoria segunda del Real Decreto 661/2007, de 25 de mayo.
 
@@ -41,3 +41,5 @@
 | 1<P≤10 MW | 11,3788 | 10,1422 | 5,8141 | 4,9897 |
 | 10<P≤25 MW | 11,3990 | 10,1603 | 5,8245 | 4,9986 |
 | 25<P≤50 MW | 11,4300 | 10,1878 | 5,8403 | 5,0121 |
+
+> Se modifica, para su aplicación a partir del 1 de enero de 2008, el apartado 1 por la disposición final 3.2 del Real Decreto 222/2008, de 15 de febrero. Ref. BOE-A-2008-5159#dftercera

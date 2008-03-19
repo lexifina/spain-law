@@ -25,6 +25,8 @@ A continuación se indican los perfiles de producción para las instalaciones fo
 
 ## Perfil horario de producción para las instalaciones fotovoltaicas.
 
-Los valores de las horas que aparecen en las tablas siguientes corresponden al tiempo solar. En el horario de invierno la hora civil corresponde a la hora solar más 2 unidades, y en el horario de verano la hora civil corresponde a la hora solar más 1 unidad. Los cambios de horario de invierno a verano o viceversa coincidirán con la fecha de cambio oficial de hora.
+Los valores de las horas que aparecen en las tablas siguientes corresponden al tiempo solar. En el horario de invierno la hora civil corresponde a la hora solar más 1 unidad, y en el horario de verano la hora civil corresponde a la hora solar más 2 unidades. Los cambios de horario de invierno a verano o viceversa coincidirán con la fecha de cambio oficial de hora.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2007/126/10556_002.png)
+
+> Se modifica por la disposición final 1.5 del Real Decreto 222/2008, de 15 de febrero.Ref. BOE-A-2008-5159
