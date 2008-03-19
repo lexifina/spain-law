@@ -1,0 +1,3 @@
+## Disposición final tercera. Facultades de aplicación.
+
+El Director General del Servicio Público de Empleo Estatal y los órganos competentes de las Administraciones autonómicas podrán dictar, en sus respectivos ámbitos competenciales, las disposiciones que sean necesarias para la aplicación de la presente orden. Asimismo, en el ámbito estatal se faculta al Director General de la Economía Social, del Trabajo Autónomo y del Fondo Social Europeo para dictar las disposiciones necesarias para fijar las condiciones, requisitos y formas de acreditación de la representatividad e implantación de los solicitantes de planes intersectoriales para la economía social y para trabajadores autónomos.
