@@ -19,3 +19,7 @@ Este tratamiento se llevará a cabo con un medicamento veterinario bajo la super
 4.º Número de colmenas tratadas.
 
 5.º Denominación comercial del producto administrado.
+
+4. No obstante lo previsto en los apartados anteriores, cuando se estén efectuando en las colmenas experimentaciones o investigaciones, las autoridades competentes podrán prever otros períodos de tratamiento, la suspensión temporal de los mismos u otro tipo de excepciones en función de la modalidad que resulte más operativa.
+
+> Se añade el apartado 4 por el art. único de la Orden APA/735/2008, de 14 de marzo. Ref. BOE-A-2008-5270.
