@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Infracciones en materia de accesibilidad y ajustes razonables.
+
+La aplicación de lo dispuesto en los artículos 3.3.b), 16.2.a), 16.3.f), 16.3.g), 16.3.h), 16.4.f) y 16.4.g) de esta Ley, en cuanto se derive del incumplimiento de las exigencias de accesibilidad o negativa a adoptar un ajuste razonable, quedará sujeta a la entrada en vigor de los desarrollos normativos y a los plazos previstos en las disposiciones finales quinta a novena de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad.
