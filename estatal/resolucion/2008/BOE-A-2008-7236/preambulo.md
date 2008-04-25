@@ -1,0 +1,15 @@
+La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, establece en su artículo 29.2 que para el acceso a los estudios universitarios será necesaria la superación de una prueba de acceso, que, junto a las calificaciones obtenidas en el bachillerato, valorará, con carácter objetivo, la madurez académica de los alumnos y los conocimientos adquiridos en él.
+
+En términos similares, la Ley Orgánica 2/2006, de 3 de mayo, de Educación, mantiene en su artículo 38.1 que para el acceso a los estudios universitarios será necesaria la superación de una única prueba que, junto con las calificaciones obtenidas en el bachillerato, valorará con carácter objetivo la madurez académica y los conocimientos adquiridos en él, así como la capacidad para seguir con éxito los estudios universitarios.
+
+En los procedimientos de selección para el ingreso en los centros universitarios, se establece la nota media del expediente académico como criterio de valoración para la adjudicación de las plazas en el caso de los estudiantes procedentes de los distintos planes del sistema educativo español anteriores a la Ley Orgánica 1/1990 que no tenían que realizar prueba de acceso y que mantienen este derecho.
+
+Asimismo, algunas convocatorias de ayudas en régimen de concurrencia competitiva establecen la nota media del expediente académico y/o las calificaciones de alguna materia como criterio de valoración para la adjudicación de estas ayudas.
+
+La Orden de 30 de octubre de 1992, por la que se establecen los elementos básicos de los informes de evaluación, de las enseñanzas de Régimen General reguladas por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, así como los requisitos formales derivados del proceso de evaluación que son precisos para garantizar la movilidad de los alumnos, establecía en su punto tercero que los resultados de la evaluación en el Bachillerato, se expresarían mediante calificaciones numéricas en una escala de uno a diez sin decimales.
+
+De igual modo, el Real Decreto 1467/2007, de 2 de noviembre, por el que se establece la estructura del bachillerato y se fijan sus enseñanzas mínimas, dispone en la disposición adicional primera que los resultados de la evaluación se expresarán mediante calificaciones numéricas de 0 a 10 sin decimales y que la nota media del expediente será la media aritmética de las calificaciones de todas las materias superadas, con un rango de valores de 5 a 10.
+
+La Resolución de 15 de febrero de 1985, de la Dirección General de Enseñanza Universitaria, establece las normas para el cálculo de la nota media en el expediente académico de los alumnos del Bachillerato y COU que desean acceder a las Facultades, Escuelas Técnicas Superiores y Colegios Universitarios, fijando unas equivalencias entre las calificaciones cualitativas positivas y las numéricas, con un rango de valores que va del 5,5 al 9.
+
+Tras constatar que la aplicación de las diferentes normas mencionadas puede producir discriminaciones entre el alumnado procedente de los diversos planes de estudio y con el fin de corregir los posibles desajustes, esta Secretaría General dispone:
