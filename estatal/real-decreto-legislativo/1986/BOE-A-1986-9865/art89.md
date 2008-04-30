@@ -1,3 +1,5 @@
 ## Art. 89.
 
-Las obras municipales podrán ser de urbanización u ordinarias. Las primeras se rigen por la legislación urbanística.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874

@@ -1,0 +1,3 @@
+## Disposición adicional vigésimo séptima. Prácticas contrarias a la libre competencia.
+
+Los órganos de contratación y la Junta Consultiva de Contratación Administrativa del Estado notificarán a la Comisión Nacional de la Competencia cualesquiera hechos de los que tengan conocimiento en el ejercicio de sus funciones que puedan constituir infracción a la legislación de defensa de la competencia. En particular, comunicarán cualquier indicio de acuerdo, decisión o recomendación colectiva, o práctica concertada o conscientemente paralela entre los licitadores, que tenga por objeto, produzca o pueda producir el efecto de impedir, restringir o falsear la competencia en el proceso de contratación.

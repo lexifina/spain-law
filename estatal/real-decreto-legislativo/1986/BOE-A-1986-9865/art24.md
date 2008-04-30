@@ -6,7 +6,7 @@ a) Decidir los empates con voto de calidad.
 
 b) La organización de los servicios administrativos de la Corporación, en el marco del Reglamento orgánico.
 
-c) La contratación y concesión de obras, servicios y suministros, que excediendo de la cuantía señalada en el artículo 21.1.1) de la Ley 7/1985, de 2 de abril, tengan una duración no superior a un año y no exijan créditos superiores al consignado en el presupuesto anual.
+c) (Derogada).
 
 d) Todas las atribuciones en materia de personal que no competan al Pleno.
 
@@ -17,5 +17,7 @@ f) El desarrollo de la gestión económica conforme al presupuesto aprobado.
 g) Publicar, ejecutar y hacer cumplir los acuerdos del Ayuntamiento.
 
 h) Presidir las subastas y concursos para ventas, arrendamientos, suministros y toda clase de adjudicaciones de servicios y obras municipales.
+
+> Se deroga la letra c) por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
 
 > Redactadas las letras c) y f) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
