@@ -1,0 +1,3 @@
+## Disposición final primera. Justificación de esta ley.
+
+Mediante la presente ley se incorpora al ordenamiento jurídico la Directiva 2004/17/CE del Paramento Europeo y del Consejo, de 31 de marzo de 2004, sobre la coordinación de los procedimientos de contratación en los sectores del agua, de la energía, de los transportes y de los servicios postales, y la Directiva 92/13/CEE del Consejo, de 25 de febrero de 1992, sobre coordinación de las disposiciones legales, reglamentarias y administrativas referentes a la aplicación de las normas comunitarias en los procedimientos de adjudicación de contratos de las entidades que operan en dichos sectores.
