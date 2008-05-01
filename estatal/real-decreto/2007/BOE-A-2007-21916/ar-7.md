@@ -21,3 +21,5 @@ e) Documentación justificativa de la condición de PYME del beneficiario, que p
 2. En el caso de que la ayuda se solicite para la actividad prevista en el párrafo a) del artículo 5.1, y esta actividad sea previa a la implantación del programa de producción de calidad, sólo será exigible el cumplimiento de los requisitos establecidos en los apartados 1.a), 1.b) y 2 del artículo 4 de este real decreto.
 
 3. Las solicitudes de ayudas podrán presentarse anualmente hasta el 1 de mayo de cada año.
+
+> Se amplía el plazo que figura en el apartado 3, durante el año 2008, hasta el día 31 de mayo inclusive, por el art. 3 de la Orden ARM/1221/2008, de 29 de abril. Ref. BOE-A-2008-7711
