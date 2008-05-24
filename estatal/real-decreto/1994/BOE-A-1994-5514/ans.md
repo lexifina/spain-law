@@ -2,6 +2,8 @@
 
 [Los anexos se han omitido. Consúltese el PDF oficial publicado en suplemento aparte.]
 
+> Véase la Orden PRE/1402/2008, de 20 de mayo, por la que se modifica el Anexo II. Ref. BOE-A-2008-8906.
+
 > Véase la Orden PRE/695/2008, de 7 de marzo, por la que se modifican los Anexos I y II. Ref. BOE-A-2008-5006.
 
 > Véase la Orden PRE/508/2008, de 26 de febrero, por la que se modifican los Anexos I y II. Ref. BOE-A-2008-3872.
