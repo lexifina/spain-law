@@ -1,0 +1,1 @@
+Norma derogada salvo el art. 9 y la disposición transitoria única, con efectos de 27 de mayo de 2008, por la disposición derogatoria única del Real Decreto 821/2008, de 16 de mayo. Ref. BOE-A-2008-9043#dd
