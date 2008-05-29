@@ -1,0 +1,5 @@
+## Disposición transitoria única. Régimen de las cantidades no aplicadas.
+
+1. Las cantidades derivadas de créditos para financiar actividades del CEHOPU que, con anterioridad a la entrada en vigor de esta orden, hubieran sido transferidos al CEDEX y no hayan sido aplicados a tal fin, deberán destinarse, en un plazo máximo de cuatro años, a financiar las actuaciones previstas en los apartados 7, 8 y 9 del articulo 4 del Real Decreto 1136/2002, de 31 de octubre.
+
+2. La aplicación de dichos fondos podrá llevarse a cabo incluyendo actuaciones adicionales en las relaciones detalladas de actividades que el CEDEX debe de presentar dentro del primer trimestre de cada año, con arreglo a lo previsto en el articulo 4.1.a). La Subsecretaria de Fomento podrá acordar, no obstante, el ingreso de los fondos no ejecutados en el Tesoro Público, a fin de que se autorice la generación de crédito pertinente en el presupuesto del Ministerio de Fomento para la financiación de actuaciones comprendidas en el marco de lo previsto en los apartados 7, 8 y 9 del articulo 4 del Real Decreto 1136/2002, de 31 de octubre
