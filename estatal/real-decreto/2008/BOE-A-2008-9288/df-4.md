@@ -1,0 +1,3 @@
+## Disposición final cuarta. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto se incorpora al derecho español la Directiva 2007/19/CE de la Comisión, de 2 de abril de 2007, y se actualiza la transposición de las Directivas 2002/72/CE relativa a los materiales y objetos plásticos destinados a entrar en contacto con productos alimenticios, y 85/572/CEE del Consejo, de 19 de diciembre, por la que se determina la lista de los simulantes que se deben utilizar para controlar la migración de los componentes de los materiales y objetos de material plástico destinados a entrar en contacto con los productos alimenticios, modificadas por aquella.
