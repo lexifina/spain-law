@@ -1,0 +1,5 @@
+## Disposición adicional única. Equivalencias.
+
+1. El Ministerio de Agricultura, Pesca y Alimentación establecerá, de acuerdo con el Ministerio de Trabajo y Asuntos Sociales las condiciones de equivalencia de los certificados de profesionalidad que puedan expedir las administraciones laborales al amparo de lo previsto en el artículo 10 del Real Decreto 395/2007, de 23 de marzo, por el que se regula el subsistema de formación profesional para el empleo.
+
+2. El Ministerio de Agricultura, Pesca y Alimentación y el Ministerio de Educación y Ciencia, determinarán conjuntamente los títulos de formación profesional que capaciten para el desempeño de la profesión de marinero de pesca, capacitación que quedará reflejada en los reales decretos por los que se establezcan los correspondientes títulos y, en su caso, en los módulos profesionales incluidos en los títulos de formación profesional o en los programas de cualificación profesional inicial que fueran suficientes para el desempeño de la citada profesión.

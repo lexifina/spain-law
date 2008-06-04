@@ -10,5 +10,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [co](co.md)
 - [pr](pr.md)
 - [fi](fi.md)
