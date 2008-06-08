@@ -1,0 +1,5 @@
+## Disposición final primera. Facultades de desarrollo.
+
+Se autoriza al Ministro de Industria, Turismo y Comercio, en el ámbito de sus competencias, a dictar las disposiciones necesarias para el desarrollo y aplicación de este real decreto, en especial, para modificar o actualizar el contenido del anexo del reglamento que se aprueba mediante este real decreto, así como la relación de bandas de frecuencias a la que hace referencia su disposición adicional primera. La modificación o actualización del contenido del anexo del reglamento que se aprueba mediante este real decreto, así como la relación de bandas de frecuencias a la que hace referencia su disposición adicional primera se aprobará por orden del Ministro de Industria, Turismo y Comercio, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+Asimismo, se autoriza a la Agencia Estatal de Radiocomunicaciones para aprobar los modelos de solicitud de títulos habilitantes para el uso del dominio público radioeléctrico, así como sus posibles modificaciones.
