@@ -1,4 +1,4 @@
-## ANEJO
+## ANEJO I
 
 ## BASE PARA EL CÁLCULO DE LAS APORTACIONES AL FONDO DE GARANTÍA DE DEPÓSITOS E IMPORTE DE LOS SALDOS GARANTIZADOS
 
@@ -29,5 +29,7 @@
 (l) Para reflejar el número de depositantes se tendrá en cuenta lo señalado en los números 2, 3 Y 4 del artículo 7 del Real Decreto 2606/1996.
 
 (m) Se consignará el importe depositado incluso cuando su saldo, sin considerar los ajustes por valoración, sea superior al máximo garantizado. En caso de existir diferencia entre el valor de reembolso y el valor efectivo, dicha diferencia se considerará importe depositado.
+
+> Se modifica el título por la disposición adicional única.2 de la Circular 3/2008, de 22 de mayo. Ref. BOE-A-2008-9915.
 
 > Se modifica por la Norma única.3 de la Circular 1/2006, de 24 de febrero. Ref. BOE-A-2006-3379.
