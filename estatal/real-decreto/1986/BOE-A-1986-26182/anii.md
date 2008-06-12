@@ -1,24 +1,28 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/141/09972_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/141/09972_023.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/141/09972_024.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/141/09972_025.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_022.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/141/09972_026.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_023.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/141/09972_027.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_024.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/141/09972_028.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_025.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/141/09972_029.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_026.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/141/09972_030.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/244/17837_027.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/141/09972_031.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/141/09972_032.png)
+
+> Se modifica por la Orden ITC/1620/2008, de 5 de junio. Ref. BOE-A-2008-9972.
 
 > Se modifica por la Orden ITC/2948/2007, de 27 de septiembre de 2007. Ref. BOE-A-2007-17837.
 
