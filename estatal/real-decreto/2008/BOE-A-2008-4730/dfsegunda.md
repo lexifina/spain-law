@@ -1,0 +1,5 @@
+## Disposición final segunda. Modificación del Real Decreto 1456/2005, de 2 de diciembre, por el que se regulan las Direcciones Territoriales y Provinciales de Comercio.
+
+Se modifica el párrafo e) del artículo 2 del Real Decreto 1456/2005, de 2 de diciembre, por el que se regulan las Direcciones Territoriales y Provinciales de Comercio, que quedará con la siguiente redacción:
+
+«e) La inspección y control de calidad comercial de productos objeto de comercio exterior, incluido el intracomunitario, en cuanto a normas y especificaciones técnicas, envases y embalajes, almacenes, depósitos, medios de transporte, etc. La realización de los controles de conformidad con las normas comunes de comercialización en el sector de frutas y hortalizas frescas. El control de la conformidad respecto a las normas aplicables de seguridad y de etiquetado de determinados productos industriales a importar de terceros países, previo a su despacho a libre práctica, en la forma que reglamentariamente se establezca sin perjuicio de las competencias atribuidas a otros departamentos ministeriales u organismos de la Administración General del Estado.»
