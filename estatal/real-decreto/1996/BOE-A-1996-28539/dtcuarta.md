@@ -1,6 +1,6 @@
 ## Disposición transitoria cuarta. Vacunación contra la brucelosis.
 
-1. Sin perjuicio de lo dispuesto en el apartado 1 del artículo 14, hasta el 31 de diciembre de 2007 podrá autorizarse, como excepción en lo referente a la brucelosis bovina, cuando la situación epidemiológica de la enfermedad valorada en cada región así lo aconseje, la vacunación de hembras, en determinadas áreas o explotaciones, con la vacuna RB-51 respecto de la infección con "brucella abortus", o con la vacuna REV-1 respecto de la infección con "brucella melitensis".
+1. Sin perjuicio de lo dispuesto en el artículo 14.1, hasta el 31 de diciembre de 2010 podrá autorizarse, como excepción en lo referente a la brucelosis bovina, cuando la situación epidemiológica de la enfermedad valorada en cada región así lo aconseje, la vacunación de hembras, en determinadas áreas o explotaciones, con la vacuna RB-51 respecto de la infección con brucella abortus, o con la vacuna REV-1 respecto de la infección con brucella melitensis.
 
 2. Los órganos competentes de las comunidades autónomas que deseen acogerse a estas excepciones lo someterán a la aprobación del Comité Nacional del Sistema de Alerta Sanitaria Veterinaria regulado en el Real Decreto 1440/2001, de 21 de diciembre, por el que se establece el sistema de alerta sanitaria veterinaria, en función de la competencia que le corresponde según lo establecido en el artículo 5 de dicho real decreto.
 
@@ -31,6 +31,10 @@ i) Los órganos competentes de las comunidades autónomas velarán por que, hast
 3.º Con destino directo a matadero.
 
 j) Los órganos competentes en materia de sanidad animal de las comunidades autónomas informarán a los órganos competentes en materia de salud pública de la respectiva comunidad acerca del uso de las vacunas y de los sistemas disponibles de diagnóstico y terapéuticos que se apliquen.
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 908/2008, de 30 de mayo. Ref. BOE-A-2008-10204
+
+> Esta modificación surte efectos desde el 1 de enero de 2008, según establece la disposición final única.
 
 > Se modifica el apartado 1 por el art. único del Real Decreto 1616/2005, de 30 de diciembre. Ref. BOE-A-2005-21613
 
