@@ -18,4 +18,8 @@ g) La conformidad y aprobación del contenido de la póliza tal como aparece red
 
 Si fuera requerida la actuación de un notario y éste se negara motivadamente a intervenir, los interesados si consideran injustificada la negativa, podrán ponerlo en conocimiento de la Dirección General de los Registros y del Notariado, la cual, oído el notario, resolverá en el plazo de quince días. La resolución será susceptible de recurso de alzada ante el Ministro de Justicia.
 
+> Téngase en cuenta que se declara la nulidad de los incisos destacados por Sentencia del TS de 20 de mayo de 2008. Ref. BOE-A-2008-10272.
+
+> Se declara la nulidad de los incisos destacados por Sentencia del TS de 20 de mayo de 2008. Ref. BOE-A-2008-10272.
+
 > Se añade por el art. 1.104 del Real Decreto 45/2007, de 19 de enero. Ref. BOE-A-2007-1810.
