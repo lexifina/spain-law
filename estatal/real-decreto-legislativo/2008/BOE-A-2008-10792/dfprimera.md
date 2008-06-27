@@ -1,0 +1,15 @@
+## Disposición final primera. Título competencial y ámbito de aplicación.
+
+1. Tienen el carácter de condiciones básicas de la igualdad en el ejercicio de los derechos y el cumplimiento de los correspondientes deberes constitucionales y, en su caso, de bases del régimen de las Administraciones Públicas, de la planificación general de la actividad económica y de protección del medio ambiente, dictadas en ejercicio de las competencias reservadas al legislador general en el artículo 149.1.1.ª, 13.ª, 18.ª y 23.ª de la Constitución, los artículos 1; 2; 3; 4; 5; 6; 7; 8; 9; 10, apartados 1 y 2; 11, apartados 1, 2, 3, 4, 6 y 7; 12; 13; apartados 1, 2, 3, letra a) párrafo primero y letra b) y apartado 4; 14; 15; 16; 29, apartados 2, párrafo segundo y 3; 33; 36, apartado 3; 42; las disposiciones adicionales primera; sexta, apartados 1 y 2, y undécima, y las disposiciones transitorias primera; segunda; cuarta y quinta.
+
+2. Los artículos 38 y 39, apartados 1 y 2, tienen el carácter de bases de la planificación general de la actividad económica dictadas en ejercicio de la competencia reservada al legislador estatal en el artículo 149. 1. 13.ª de la Constitución, sin perjuicio de las competencias exclusivas sobre suelo y urbanismo que tengan atribuidas las Comunidades Autónomas.
+
+3. Tienen el carácter de disposiciones establecidas en ejercicio de la competencia reservada al legislador estatal por el artículo 149.1.4.ª, 8.ª y 18.ª sobre defensa, legislación civil, expropiación forzosa y sistema de responsabilidad de las Administraciones Públicas, los artículos 10, apartado 3; 11, apartado 5; 13, apartado 3, letra a), párrafo segundo; 17; 18; 19; 20; 21; 22; 23; 24; 25; 26; 27; 28; 29, apartados 1, 2 párrafo primero y 4; 30; 31; 32; 34; 35; 36, apartados 1 y 2; 37; 39, apartados 3 y 4; 40; 41; 43; 44; 45; 46; 47; 48; 49; 50; 51; 52; 53 y 54 y las disposiciones adicionales segunda; quinta; sexta, apartado 3; séptima y décima y la disposición transitoria tercera.
+
+4. El contenido normativo íntegro de esta Ley es de aplicación directa en los territorios de las Ciudades de Ceuta y Melilla, con las siguientes precisiones:
+
+a) La potestad que la letra b) del apartado primero del artículo 10 reconoce a la Ley para reducir el porcentaje de reserva de vivienda sometida a algún régimen de protección pública y la de determinar los posibles destinos del patrimonio público del suelo, de entre los previstos en el apartado 1 del artículo 39, podrán ser ejercidas directamente en el Plan General.
+
+b) El porcentaje a que se refiere la letra b) del apartado 1 del artículo 16 será el del 15 por ciento, que el Plan General podrá incrementar motivada y proporcionadamente hasta el 20 por ciento en las actuaciones o ámbitos en los que el valor de los solares resultantes o de su incremento, en su caso, sea sensiblemente superior al medio de los incluidos en su misma clase de suelo.
+
+5. Lo dispuesto en esta Ley se aplicará sin perjuicio de los regímenes civiles, forales o especiales, allí donde existen.

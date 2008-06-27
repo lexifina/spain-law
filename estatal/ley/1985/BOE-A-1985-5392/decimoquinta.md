@@ -8,4 +8,8 @@ A estos efectos, tendrán la consideración de personal directivo los titulares 
 
 2. El régimen previsto en el artículo 75.7 de esta Ley será de aplicación al personal directivo local y a los funcionarios de las Corporaciones Locales con habilitación de carácter estatal que, conforme a lo previsto en el artículo 5.2 de la Disposición Adicional Segunda de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, desempeñen en las Entidades locales puestos que hayan sido provistos mediante libre designación en atención al carácter directivo de sus funciones o a la especial responsabilidad que asuman.
 
+> Se añade por la disposición adicional 9.5 del Real Decreto Legislativo 2/2008, de 20 de junio. Ref. BOE-A-2008-10792
+
+> Téngase en cuenta que esta disposición ya había sido añadida por la Ley 8/2007, de 28 de mayo.
+
 > Se añade por la disposición adicional 9.5 de la Ley 8/2007, de 28 de mayo. Ref. BOE-A-2007-10701

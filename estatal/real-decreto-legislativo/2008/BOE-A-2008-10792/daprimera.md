@@ -1,0 +1,3 @@
+## Disposición adicional primera. Sistema de información urbana.
+
+Con el fin de promover la transparencia, la Administración General del Estado, en colaboración con las Comunidades Autónomas, definirá y promoverá la aplicación de aquellos criterios y principios básicos que posibiliten, desde la coordinación y complementación con las administraciones competentes en la materia, la formación y actualización permanente de un sistema público general e integrado de información sobre suelo y urbanismo, procurando, asimismo, la compatibilidad y coordinación con el resto de sistemas de información y, en particular, con el Catastro Inmobiliario.
