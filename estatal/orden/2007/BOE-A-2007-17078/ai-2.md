@@ -56,7 +56,7 @@ Temporada media con punta de tarde: Diciembre y marzo.
 
 Temporada baja: Abril, mayo, octubre y noviembre.
 
-El inicio de la temporada alta eléctrica coincidirá con el primer día del mes de la temporada alta con punta de mañana y tarde.
+El inicio de la temporada eléctrica coincidirá con el día uno de noviembre de cada año, tanto para el sistema peninsular como para los sistemas insulares y extrapeninsulares.
 
 1.2 Definición de Tipos de días: A efectos de la aplicación de tarifas, tanto de suministro como de acceso, se clasifican los días del año eléctrico en diferentes tipos, incluyendo en cada uno los siguientes:
 
@@ -247,3 +247,7 @@ Zona 4: Ceuta y Melilla:
 | 4 |  |  | De 8 a 9 h. De 15 a 24 h. | De 8 a 17 h. De 23 a 24 h. | --- | --- |
 | 5 |  |  | --- | --- | De 8 a 24 h. | --- |
 | 6 | De 0 a 8 | De 0 a 8 | De 0 a 8 | De 0 a 8 | De 0 a 8 | De 0 a 24 |
+
+> Se modifica el último párrafo del apartado 1.1 por la disposición final 2 de la Orden ITC/1857/2008, de 26 de junio. Ref. BOE-A-2008-10968
+
+> Redactado conforme a la corrección publicada por Orden ITC/2308/2008, de 31 de julio. Ref. BOE-A-2008-13245
