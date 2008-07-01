@@ -11,8 +11,8 @@ Las tasas y exacciones parafiscales unificadas a que se refiere el artículo 10 
 | 1.1 Solicitudes: |  |
 | Por la solicitud de una demanda de depósito de patente de invención, certificado de adición o modelo de utilidad, ya sea directamente o como consecuencia de la división de una solicitud, así como por la solicitud de rehabilitación prevista en el artículo 117, inclusive en ambos casos la inserción de la solicitudes el "Boletín Oficial de la Propiedad Industrial" | 78,25 |
 | Por solicitud de cambio de modalidad de protección | 11,81 |
-| Por solicitud de informe sobre el estado de la técnica | 433,87 |
-| Por solicitud de examen previo | 473,96 |
+| Por solicitud de informe sobre el estado de la técnica | 651,48 |
+| Por solicitud de examen previo | 370,89 |
 |  |
 | Por solicitud de inscripción en el Registro Especial de Agentes de la Propiedad Industrial | 60,10 |
 | Por la presentación de un recurso o solicitud de revisión | 90,79 |
@@ -94,6 +94,8 @@ Por demoras en los pagos de anualidad, recargos del 25 por 100, dentro de los tr
 |  | Euros |
 | --- | --- |
 | 3.1 Por cada certificación de datos registrados relativos a patentes o modelos de utilidad, así como por la expedición de copia autorizada de cada uno de los documentos permitidos por la Ley | 24,13 |
+
+> Se modifica el epígrafe 1.1 por el art. 77 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295
 
 > Se modifica el epígrafe 1.1 y se añade el 2.5 por la disposición adicional 11.2 de la Ley 20/2003, de 7 de julio. Ref. BOE-A-2003-13615
 
