@@ -1,0 +1,3 @@
+## Disposición adicional primera. Acreditaciones anteriores.
+
+La contratación de profesoras y profesores colaboradores a la que se refiere este real decreto podrá extenderse a aquellos diplomados, arquitectos técnicos o ingenieros técnicos que, con carácter previo a la entrada en vigor de la Ley Orgánica 4/2007, de 12 de abril, por la que se modifica la Ley Orgánica 6/2001 de 21 de diciembre, de Universidades, cuenten con informe favorable, como profesora o profesor colaborador de la Agencia Nacional de Evaluación de la Calidad y Acreditación o del órgano de evaluación externa que la Ley de la Comunidad Autónoma determine.
