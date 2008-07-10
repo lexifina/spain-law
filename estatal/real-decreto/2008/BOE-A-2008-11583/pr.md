@@ -1,0 +1,7 @@
+El Real Decreto 432/2008, de 12 de abril, por el que se reestructuran los Departamentos ministeriales, en su artículo 14 encomienda al Ministerio de Cultura el mismo ámbito competencial que ha venido desarrollando el Departamento desde su creación mediante el Real Decreto 553/2004, de 17 de abril, por el que se reestructuran los departamentos ministeriales. Con la finalidad de profundizar en un mejor desarrollo de dichas competencias el Real Decreto 438/2008, de 14 de abril, por el que se aprueba la estructura orgánica básica de los Departamentos Ministeriales, ha creado la Dirección General de Política e Industrias Culturales, suprimiendo la Dirección General de Cooperación y Comunicación Cultural, con el objeto de atribuirle funciones de impulso y fomento de las industrias del sector, necesariamente complementadas por el desarrollo de las competencias en materia de fundaciones y de propiedad intelectual que viene ejerciendo el Departamento.
+
+Procede ahora desarrollar dicha estructura mediante este real decreto, en el que se determinan los órganos directivos del Ministerio de Cultura hasta el nivel de Subdirección General y quedan definidas las competencias de cada uno de estos órganos.
+
+En su virtud, a iniciativa del Ministro de Cultura, a propuesta de la Ministra de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 4 de julio de 2008,
+
+## D I S P O N G O :
