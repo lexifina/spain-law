@@ -65,3 +65,5 @@ La representación gráfica de dichas dimensiones del documento se muestra en la
 ![imagen](https://www.boe.es/datos/imagenes/disp/1997/40/03364_005.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1997/40/03364_006.png)
+
+> Téngase en cuenta el apartado único.1 de la Orden INT/2058/2008, de 14 de julio Ref. BOE-A-2008-12050., en relación al Número de Indentidad de Extranjero contenido en la figura 3 y 6.
