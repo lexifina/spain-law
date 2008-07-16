@@ -96,12 +96,14 @@ En los dos días hábiles siguientes a la petición de la revisión del balance 
 
 Una vez se conozca el reparto definitivo, éste no modificará el balance diario cerrado.
 
-7.2.3 Regularizaciones al balance diario por el reparto definitivo.–Una vez se ha obtenido el reparto definitivo y las regularizaciones a repartos definitivos anteriores, se calculará la regularización del balance diario, que tendrá en cuenta la diferencia entre el reparto definitivo de un mes con respecto al reparto provisional de ese mismo mes, así como las regularizaciones a repartos definitivos anteriores.
+7.2.3 Regularizaciones al balance diario "n+2" por el reparto definitivo.-Una vez se ha obtenido el reparto definitivo, las regularizaciones a repartos definitivos anteriores y las diferencias de medición, se calculará el ajuste del balance diario "n+2", que tendrá en cuenta la diferencia entre el reparto definitivo de un mes con respecto al reparto diario "n+2" cerrado de ese mismo mes, así como las regularizaciones a repartos definitivos anteriores y las diferencias de medición.
 
-Estas diferencias se imputarán repartidas por igual en cada uno de los días del mes natural siguiente al del día que se comuniquen a los usuarios y formarán parte del reparto a todos los efectos.
+Estos ajustes se imputaran repartidos por igual en cada uno de los días del mes natural siguiente al que se comunique a los usuarios y formarán parte del reparto diario "n+2" a todos los efectos.
 
 7.3 Información detallada de repartos definitivos.
 
 El Gestor Técnico del Sistema publicará en el SL-ATR (Sistema Logístico de Acceso de Terceros a la Red) información detallada de repartos definitivos con un desglose por comercializador, día y punto de conexión transporte-distribución, así como el detalle de las regularizaciones sobre el balance diario y el mes de imputación.
 
-Dicha información se publicará antes del vigésimo día hábil del mes siguiente al de reparto definitivo.
+Dicha información se publicará antes del vigésimo día laborable del mes siguiente al del reparto definitivo.
+
+> Se modifican los apartados 7.2.3 y 7.3 por el apartado segundo de la Resolución de 4 de julio de 2008. Ref. BOE-A-2008-12051.
