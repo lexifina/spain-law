@@ -23,6 +23,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Décimo](decimo.md)
 - [Undécimo](undecimo.md)
 - [Undécimo bis](undecimobis.md)
+- [Undécimo ter](undecimoter.md)
 - [Duodécimo](duodecimo.md)
 - [Decimotercero](decimotercero.md)
 - [Decimocuarto](decimocuarto.md)
