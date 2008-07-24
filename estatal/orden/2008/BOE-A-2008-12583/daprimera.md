@@ -1,0 +1,3 @@
+## Disposición adicional primera. Otros uniformes de trabajo.
+
+No obstante lo dispuesto en la presente Orden, la uniformidad de trabajo de los funcionarios adscritos a las Unidades a que se refieren específicamente las Ordenes del Ministerio del Interior de 30 de noviembre de 1990, por la que se establece el uniforme de trabajo de las Unidades Especiales y Servicios Específicos del Cuerpo Nacional de Policía, y de 1 de octubre de 1992, por la que se complementan diversos aspectos de la regulación sobre uniformidad y distintivos del Cuerpo Nacional de Policía, será la que se determina en dichas normas.
