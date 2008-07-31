@@ -68,4 +68,6 @@ El Subdirector General de Personal de Instituciones Penitenciarias ejercerá, en
 
 2.4.9 La propuesta e informe sobre autorización de compatibilidades.
 
+> Las competencias delegadas en el Subdirector General de Personal de Instituciones Penitenciarias se entenderán delegadas en el Subdirector General de Recursos Humanos de Instituciones Penitenciarias, según establece el apartado único de la Orden INT/2275/2008, de 28 de julio. Ref. BOE-A-2008-13135
+
 > Se modifican los puntos 1, 2.2 y 2.4 por le disposición final 1.2 de la Orden INT/2089/2005, de 17 de junio. Ref. BOE-A-2005-11340.
