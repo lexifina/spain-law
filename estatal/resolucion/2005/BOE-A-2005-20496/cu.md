@@ -30,7 +30,7 @@ Los justificantes en soporte papel correspondientes al documento contable.
 
 4. Para su carga en el sistema de información contable, la oficina de contabilidad obtendrá un fichero que contenga los datos de los documentos contables electrónicos recibidos de las unidades de tramitación, de acuerdo con las especificaciones del anexo II de esta Resolución.
 
-5. Una vez cargado el fichero en el sistema de información contable, la oficina de contabilidad realizará las actuaciones de verificación destinadas a comprobar si concurre o no alguno de los supuestos previstos en el punto 2 de la regla 2 «Documentos contables» de la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado, aprobada por Orden de 1 de febrero de 1996.
+5. Una vez cargado el fichero en el sistema de información contable, la oficina de contabilidad realizará las actuaciones de verificación destinadas a comprobar si concurre o no alguno de los supuestos previstos en el punto 2 de la regla 2 ''Documentos contables'' de la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado, aprobada por Orden de 1 de febrero de 1996. Sin embargo, en el caso de que viniera sin cumplimentar la fecha del reconocimiento de la obligación en los documentos OK o ADOK, dicho dato se registrará por la oficina de contabilidad de acuerdo con la fecha que figure en la aprobación del acto de reconocimiento de la obligación que acompañe como justificante a dichos documentos contables.
 
 A tal efecto, los datos del documento contable correspondiente a cada justificante podrán visualizarse mediante la introducción en el sistema del COE y del N.I.D. del documento contable asociado al justificante electrónico o en soporte papel.
 
@@ -57,3 +57,5 @@ Asimismo, se remitirán los justificantes en soporte papel correspondientes.
 9. Los justificantes, en soporte electrónico o papel, deberán conservarse debidamente ordenados por los Servicios gestores o las unidades de tramitación, así como los ficheros que contengan la información de los documentos contables contabilizados.
 
 En todo caso, el archivo y conservación de los justificantes y documentos contables permitirá que éstos estén a disposición de las instituciones de control a las que se refiere el punto 2 de la regla 23 de la Instrucción de contabilidad para la Administración General del Estado, al objeto de posibilitar y facilitar las actuaciones de control y verificación que corresponda realizar a dichas instituciones.
+
+> Se modifica el párrafo primero del apartado 5 por el art. único.1 de la Resolución de 17 de julio de 2008. Ref. BOE-A-2008-12968

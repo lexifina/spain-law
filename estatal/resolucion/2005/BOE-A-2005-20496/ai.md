@@ -37,6 +37,16 @@
 | 2.00.090.1 | MC/ | Bajas por anulación o rectificación. |
 | 2.00.095.0 | MC | Aumento por rectificaciones. |
 | 2.00.095.1 | MC/ | Cancelación del aumento por rectificaciones. |
+| 2.00.100.0 | RC | Retención de crédito para gastar. |
+| 2.00.100.1 | RC/ | Anulación de la retención de crédito para gastar. |
+| 2.00.101.0 | RC | Retención de crédito para transferencias. |
+| 2.00.101.1 | RC/ | Anulación de la retención de crédito para transferencias. |
+| 2.00.102.0 | RC | Retención de no disponibilidad de crédito. |
+| 2.00.102.1 | RC/ | Anulación de la retención de no disponibilidad de crédito. |
+| 2.00.105.0 | RC | Retención cautelar de crédito. |
+| 2.00.105.1 | RC/ | Anulación de la retención cautelar de crédito. |
+| 2.00.106.0 | RC | Retención de crédito para bajas y otras disminuciones. |
+| 2.00.106.1 | RC/ | Anulación de la retención de crédito para bajas y otras disminuciones. |
 | 2.00.200.0 | A | Autorización sobre crédito disponible. |
 | 2.00.200.1 | A/ | Anulación autorización sobre crédito disponible. |
 | 2.00.210.0 | A | Autorización sobre crédito retenido. |
@@ -90,6 +100,8 @@
 | 2.01.730.0 | K | Rectificación de operaciones pagadas. Propuesta de pago. |
 | 2.01.730.1 | K/ | Rectificación de operaciones pagadas. Anulación de propuestas de pago. |
 |  |  | Documentos contables de gastos de ejercicios posteriores |
+| 2.10.100.0 | RC | Retención de crédito para gastar. |
+| 2.10.100.1 | RC/ | Anulación de la retención de crédito para gastar. |
 | 2.10.200.0 | A | Autorización sobre crédito disponible. |
 | 2.10.200.1 | A/ | Anulación autorización sobre crédito disponible. |
 | 2.10.210.0 | A | Autorización sobre crédito retenido. |
@@ -177,3 +189,5 @@
 |  |  | Documentos de terceros |
 | T.xx.xxx.1 |  | Terceros. Datos generales. |
 | T.xx.xxx.2 |  | Terceros. Datos bancarios. |
+
+> Se añaden claves de operación en las agrupaciones relativas a los documentos contables de gastos de ejercicio corriente y de gastos de ejercicios posteriores por el art. único.2 de la Resolución de 17 de julio de 2008. Ref. BOE-A-2008-12968
