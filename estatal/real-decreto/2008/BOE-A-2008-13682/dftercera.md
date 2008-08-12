@@ -1,0 +1,5 @@
+## Disposición final tercera. Desarrollo normativo.
+
+1. Se faculta a los Ministros de Sanidad y Consumo y de Medio Ambiente, y Medio Rural y Marino, para dictar las disposiciones necesarias para la aplicación y el desarrollo de este real decreto, así como a actualizar sus anexos conforme al avance de los conocimientos científicos y técnicos, de acuerdo con las orientaciones y directrices de la Unión Europea.
+
+2. Se faculta a los Ministros de Sanidad y Consumo y de Medio Ambiente, y Medio Rural y Marino, para dictar las disposiciones necesarias para el desarrollo del artículo 6.6 de este real decreto en lo relativo a los requisitos de las solicitudes de medicamentos destinados a peces de acuario, pájaros de casas particulares, palomas mensajeras, animales de terrario, pequeños roedores, hurones y conejos utilizados únicamente como animales de compañía y no sometidos a prescripción veterinaria así como de los requerimientos específicos en el material de acondicionamiento para estos medicamentos.

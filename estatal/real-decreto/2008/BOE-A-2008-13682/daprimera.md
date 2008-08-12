@@ -1,0 +1,3 @@
+## Disposición adicional primera. Exención del requisito de la prescripción veterinaria para medicamentos destinados a animales productores de alimentos.
+
+Todos los medicamentos veterinarios destinados a animales productores de alimentos de consumo humano, estarán sometidos a prescripción veterinaria desde la entrada en vigor de este real decreto. Para los medicamentos veterinarios que cumplan las condiciones de exención de esta obligación, prevista en el artículo 24, deberán solicitar la correspondiente solicitud de modificación de las condiciones autorización en la que justifique que el medicamento cumple con dichas condiciones.
