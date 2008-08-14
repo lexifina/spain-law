@@ -78,9 +78,19 @@ El coste de dicho seguro, en los supuestos en que se acuerde suscribirlo, tendr�
 
 Si no se hubiera pactado lo contrario, en los términos previstos en la condición 4.1, se entenderá que el transporte se ha concertado a porte pagado.
 
-2.4 Exigibilidad del pago del precio del transporte.–Cuando el transporte se hubiera concertado a porte pagado, el porteador podrá exigir su pago en el momento de recibir el envío del remitente, salvo que se hubiera pactado otro posterior, en los términos previstos en la condición 4.1, en cuyo caso éste no podrá ser exigido por el porteador hasta llegado dicho momento.
+2.4 Exigibilidad del pago del precio del transporte.
+
+Cuando el transporte se hubiera concertado a porte pagado, el porteador podrá exigir su pago en el momento de recibir el envío del remitente, salvo que se hubiera pactado otro posterior, en los términos previstos en la condición 4.1, en cuyo caso éste no podrá ser exigido por el porteador hasta llegado dicho momento.
 
 Cuando el transporte se hubiera concertado a porte debido, el porteador podrá exigir su pago en el momento de hacer entrega del envío al destinatario.
+
+Salvo que, expresamente y por escrito, se hubiese pactado otra cosa distinta, el obligado al pago del transporte incurrirá en mora y deberá pagar el interés señalado en la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, por el mero incumplimiento del pago en el plazo de 30 días contados a partir de la emisión de la correspondiente factura por el porteador o, en su defecto, desde que el deudor haya recibido la correspondiente factura o una solicitud de pago equivalente.
+
+Si la fecha de recibo de la factura o la solicitud de pago equivalente se presta a duda, así como en todos los casos de autofacturación por parte del obligado al pago, los 30 días anteriormente señalados se computarán desde la fecha de entrega de las mercancías en destino.
+
+El pacto en contrario se considerará nulo en todos aquellos casos en que tenga un contenido abusivo en perjuicio del porteador, conforme a las reglas que, a tal efecto, señala el artículo 9 de la Ley 3/2004.
+
+Asimismo, carecerá de efecto el pacto en contrario cuando se contenga en unas condiciones generales respecto de las que la parte que no las ha propuesto sólo pueda mostrar su aceptación o rechazo global.
 
 2.5 Modalidades de pago del precio del transporte.–El pago del precio del transporte podrá realizarse con dinero o a través de cualquier otro instrumento con valor liberatorio, considerándose que, a no ser que se hubiera pactado, en los términos previstos en la condición 4.1, el pago aplazado, éste deberá producirse al contado.
 
@@ -289,3 +299,5 @@ En las controversias cuya cuantía exceda de 500.000 pesetas, las partes contrat
 La parte demandante podrá presentar su reclamación bien ante la Junta competente en el lugar de origen del transporte, bien ante la competente en el lugar de destino del mismo, o bien ante la competente en el lugar de celebración del contrato, salvo que se haya pactado la sumisión a una Junta concreta en los términos previstos en la condición 4.1.
 
 5.2 Depósito, enajenación y peritación de las mercancías.–Cuando no hubieran pactado lo contrario, en los términos previstos en la condición 4.1, las partes contratantes podrán recurrir a la Junta Arbitral del Transporte competente en el lugar en que se encuentren las mercancías para la realización de las actuaciones de depósito, enajenación o peritación de las mercancías que, en su caso, resulten procedentes con arreglo a lo previsto en las presentes condiciones generales de contratación.
+
+> Se modifica el apartado 2.2.4 por el art. único.4 de la Orden FOM/2184/2008, de 23 de julio. Ref. BOE-A-2008-12719.
