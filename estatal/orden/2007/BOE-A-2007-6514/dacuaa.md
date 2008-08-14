@@ -1,3 +1,5 @@
 ## Disposición adicional cuarta. Vehículos-grúa especialmente acondicionados para el arrastre de vehículos averiados.
 
-En el cómputo del número de conductores de que ha de disponer la empresa, a efectos del cumplimiento de lo previsto en la letra i) del artículo 10 y en la letra e) del ar-tículo 30, así como para la obtención de nuevas autorizaciones o nuevas copias certificadas de una autorización, no se computarán aquellas copias respecto de las cuales su titular acredite que se encuentran referidas a vehículos-grúa especialmente acondicionados para el transporte y arrastre de vehículos averiados.
+(Derogada)
+
+> Se deroga por el art. único de la Orden FOM/2185/2008, de 23 de julio. Ref. BOE-A-2008-12720.
