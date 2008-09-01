@@ -268,7 +268,7 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 
 2. Globodera rostochiensis (Wollenweber) Behrens
 
-3. Fieliothis armígera (Hübner)
+3. (Suprimido).
 
 6.1. Meloidogyne chitwoodi Golden et al. (todas las poblaciones)
 
@@ -322,6 +322,8 @@ b) Virus y organismos afines
 | --- | --- |
 | 1. Beet necrotic yellow vein virus. | F (Bretaña), FIN, IRL, P (Azores), UK (Irlanda del Norte).». |
 | 2. Tomato spotted wilt virus. | S, FIN. |
+
+> Se modifica por el art. único.1 de la Orden ARM/2505/2008, de 28 de agosto. Ref. BOE-A-2008-14423
 
 > Se modifica por el art. único.1 de la Orden APA/1242/2006, de 26 de abril. Ref. BOE-A-2006-7579
 

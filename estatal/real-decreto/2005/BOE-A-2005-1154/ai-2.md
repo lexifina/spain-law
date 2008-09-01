@@ -110,6 +110,7 @@ a) Insectos, ácaros y nematodos, en todas las fases de su desarrollo
 | 5. Circulifer haematoceps | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
 | 6. Circulifer tenellus | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
 | 6.1. Eutetranychus orientalis Klein | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
+| 6.2. Helicoverpa armigera (Hübner) | Vegetales de Dendranthema (DC.) Des Moul., Dianthus L., Pelargonium l’Hérit. ex Ait. y de la familia Solanaceae, destinados a la plantación excepto las semillas. |
 | 7. Radopholus similis (Cobb) Thorne | Vegetales de Araceae, Marantaceae, Musaceae, Persea spp., Strelitziaceae, con raíces o medio de cultivo unido o adjunto |
 | 8. Liriomyza huidobrensis (Blanchard) | Flores cortadas, hortalizas de hojas de Apium graveolens L., y vegetales de especies herbáceas, destinados a la plantación excepto: bulbos cormos vegetales de la familia de Gramineae rizomas semillas |
 | 9. Liriomyza trifolii (Burgess) | Flores cortadas, hortalizas de hojas de Apium graveolens L., y vegetales de especies herbáceas, destinados a la plantación excepto: bulbos cormos vegetales de la familia de Gramineae rizomas semillas |
@@ -135,7 +136,7 @@ c) Hongos
 | Especies | Objeto de contaminación |
 | --- | --- |
 | 1. Ceratocystis fimbriata f. sp. platani Walter | Vegetales de Platanus L., destinados a la plantación, excepto las semillas, y madera de Platanus L., incluida la madera que no conserva su superficie redondeada natural |
-| 2. Colletotrichum acutatum Simmonds | Vegetales de Fragaria L., destinados a la plantación, excepto las semillas |
+| 2. (Suprimido). |  |
 | 3. Cryphonectria parasitica (Murrill) Barr | Vegetales de Castanea Mill. y Quercus L., destinados a la plantación, excepto las semillas. |
 | 4. Didymella ligulicola (Baker, Dimock et Davis) v. Arx | Vegetales de Dendranthema (DC.) Des Moul., destinados a la plantación, excepto las semillas |
 | 5. Phialophora cinerescens (Wollenweber) van Beyma | Vegetales de Dianthus L., destinados a la plantación, excepto las semillas |
@@ -187,14 +188,14 @@ a) Insectos, ácaros y nematodos, en todas las fases de su desarrollo
 | d) Ips sexdentatus Börner | Vegetales de Abies Mill., Larix Mill., Picea A. Dietr., Pinus L., y Pseudotsuga Carr., de más de 3 m de altura, excepto frutos y semillas, madera de coníferas (Coniferales) con corteza, y corteza aislada de coníferas | IRL, CY, UK (Irlanda del Norte, Isla de Man) |
 | e) Ips typographus Heer | Vegetales de Abies Mill., Larix Mill., Picea A. Dietr., Pinus L. y Pseudotsuga Carr., de más de 3 m de altura, excepto frutos y semillas, madera de coníferas (Coniferales) con corteza, y corteza aislada de coníferas | IRL, UK |
 | 9. Sternochetus mangiferae Fabricius | Semillas de Mangífera spp. originarias de terceros países | E (Granada y Málaga), P (Alentejo, Algarve y Madeira) |
-| 10. Thaumetopoea pityocampa (Den. et Schiff.) | Vegetales de Pinus L., destinados a la plantación, excepto los frutos y semillas | E (Ibiza) |
+| 10. (Suprimido). |  |  |
 
 b) Bacterias
 
 | Especies | Objeto de contaminación | Zonas protegidas |
 | --- | --- | --- |
 | 1. Curtobacterium flaccumfaciens pv. flaccumfaciens (Hedges) Collins et Jones | Semillas de Phaseolus vulgaris L. y Dolichos Jacq. | EL, E, P |
-| 2. Erwinia amylovora (Burr.) Winsl. et al. | Partes de vegetales, distintos los frutos, semillas y de los destinados a ser plantados, pero con inclusión del polen activo para polinización de Amelanchier Med, Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne) Cardot, Pyracantha Roem., Pyrus L.y Sorbus L. | E, EE, F (Córcega), IRL, I [Abruzzi; Apulia; Basilicata; Calabria; Campania; Emilia-Romaña: provincias de Forlí - Cesena (excepto el área provincial situada al norte de la carretera nacional n.º 9 - Via Emilia), Parma, Piacenza, Rimini (excepto el área provincial situada al norte de la carretera nacional n.º 9 - Via Emilia), Friuli-Venecia Giulia; Lacio; Liguria; Lombardía; Marche; Molise; Piemonte; Cerdeña; Sicilia; Toscana; Umbría; Valle d´Aosta; Véneto: excepto, en la provincia de Rovigo, los municipios de Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba y Salara; en la provincia de Padua los municipios de Castelbaldo, Barbona, Piacenza d’Adige, Vescovana, S. Urbano, Boara Pisani y Masi; y en la provincia de Verona, los municipios de Palù, Roverchiara, Legnago, Castagnaro, Ronco all’Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza y Angiari], LV, LT, A [Burgenland, Carintia, Baja Austria, Tirol (distrito administrativo de Lienz), Estiria y Viena], P, SI (excepto las regiones de Gorenjska y Maribor), SK [excepto los municipios de Blahová, Horné Mýto y Okoc (distrito de Dunajská Streda), Hronovce y Hronské Klacany (distrito de Levice), Velké Ripñany (distrito de Topolcany), Málinec (distrito de Poltár), Hrhov (distrito de Rozñava), Kazimir, Luhyña, Malý Hores, Svatuse y Zatín (distrito de Trebisov)], FIN, UK (Irlanda del Norte, isla de Man e islas del Canal de La Mancha). |
+| 2. Erwinia amylovora (Burr.) Winsl. et al. | Partes de vegetales, distintos los frutos, semillas y de los destinados a ser plantados, pero con inclusión del polen activo para polinización de Amelanchier Med, Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne) Cardot, Pyracantha Roem., Pyrus L.y Sorbus L. | E, EE, F (Córcega), IRL, I [Abruzos, Apulia, Basilicata, Calabria, Campania, Emilia-Romaña (provincias de Parma y Piacenza), Friul-Venecia Julia, Lacio, Liguria, Lombardía (excepto la provincia de Mantua), Las Marcas, Molise, Piamonte, Cerdeña, Sicilia, Toscana, Umbría, Valle de Aosta, Véneto (excepto la provincia de Rovigo, los municipios de Castelbaldo, Barbona, Piacenza d’Adige, Vescovana, S. Urbano, Boara Pisani y Masi en la provincia de Padua y la zona situada al sur de la autopista A4 en la provincia de Verona)], LV, LT, A [Burgenland, Carintia, Baja Austria, Tirol (distrito administrativo de Lienz), Estiria y Viena], P, SI (excepto las regiones de Gorenjska, Koroška, Notranjska y Maribor), SK [excepto los municipios de Blahová, Horné Mýto y Okoč (distrito de Dunajská Streda), Hronovce y Hronské Kľačany (distrito de Levice), Veľké Ripňany (distrito de Topoľčany), Málinec (distrito de Poltár), Hrhov (distrito de Rožňava), Kazimír, Luhyňa, Malý Horeš, Svätuše y Zatín (distrito de Trebišov)], FI, UK (Irlanda del Norte, Isla de Man e Islas del Canal de la Mancha) |
 
 c) Hongos
 
@@ -209,8 +210,10 @@ d) Virus y organismos similares
 
 | Especies | Objeto de contaminación | Zonas protegidas |
 | --- | --- | --- |
-| 1. Citrus tristeza virus (cepas europeas) | Frutos de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, con hojas y pedúnculos | EL, F (Córcega), M y P |
+| 1. Citrus tristeza virus (cepas europeas) | Frutos de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, con hojas y pedúnculos | EL, F (Córcega), M, P (excepto Madeira). |
 | 2. Flavescencia dorada de la vid (MLO). | Vegetales de Vitis L. excepto frutos y semillas. | CZ, FR (Alsacia, Champaña-Ardenas y Lorena) e IT (Basilicata). |
+
+> Se modifica por el art. único.2 y 3 de la Orden ARM/2505/2008, de 28 de agosto. Ref. BOE-A-2008-14423
 
 > Se modifica por el art. único.1 de la Orden APA/2802/2007, de 24 de septiembre. Ref. BOE-A-2007-17112
 
