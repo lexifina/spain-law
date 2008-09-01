@@ -24,4 +24,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria](dt.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final](df.md)
+- [Disposición final primera](primera.md)
+- [Disposición final segunda](segunda.md)
 - [firma](firma.md)

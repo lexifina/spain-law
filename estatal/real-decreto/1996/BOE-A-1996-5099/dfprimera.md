@@ -1,3 +1,5 @@
 ## Disposición final primera. Habilitación reglamentaria.
 
-Se autoriza a la Ministra de Asuntos Sociales a dictar, previo el cumplimiento de los trámites que sean preceptivos, cuantas disposiciones sean necesarias para la ejecución y desarrollo del presente Real Decreto.
+Todas las referencias del presente Real Decreto al departamento que ejerce la protección del Estado sobre Cruz Roja Española se entienden efectuadas al Ministerio de Educación, Política Social y Deporte.
+
+> Se modifica por el art. 3.4 del Real Decreto 1434/2008, de 29 de agosto. Ref. BOE-A-2008-14464
