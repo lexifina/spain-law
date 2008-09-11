@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Trabajadores autónomos con actividades profesionales con mayor riesgo de siniestralidad.
+
+Lo dispuesto en los reglamentos generales modificados por este real decreto respecto a los trabajadores autónomos que estén obligados a proteger las contingencias profesionales por desempeñar una actividad profesional con elevado riesgo de siniestralidad, así como la efectividad de la acción protectora que de dicha cobertura se derive, quedará condicionado al específico desarrollo reglamentario previsto en la Ley 20/2007, de 11 de julio, en cuanto a la determinación de las actividades con mayor riesgo de siniestralidad.

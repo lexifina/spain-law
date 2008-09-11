@@ -1,0 +1,5 @@
+## Artículo tercero. Modificación del Reglamento general de recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio.
+
+Se adiciona un apartado 5.º al artículo 56.1.c) del Reglamento general de recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio, con la siguiente redacción:
+
+«5.º Respecto a las solicitudes de exclusión del Sistema Especial para Trabajadores por Cuenta Propia Agrarios, presentadas por los trabajadores por incumplimiento sobrevenido de los requisitos para quedar comprendidos en él, el plazo reglamentario para el ingreso de las cuotas devengadas y no ingresadas en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos finalizará el último día del mes siguiente al de la presentación de la respectiva solicitud, que habrá de formularse en los plazos indicados en el apartado 3.6.ª del artículo 47 bis del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social.»
