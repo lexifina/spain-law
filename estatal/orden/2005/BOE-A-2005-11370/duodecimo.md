@@ -18,6 +18,8 @@ f) Determinación de criterios básicos en materia de estímulos, recompensas y 
 
 g) Adopción de medidas para el mantenimiento de la deontología profesional, prestigio y buena imagen profesional de la Policía.
 
-2. Bajo la presidencia del Director General de la Policía, la Junta de Gobierno, estará compuesta por el Subdirector General Operativo, que tendrá la condición de Vicepresidente, el Subdirector General de Gestión y Recursos Humanos, el Subdirector General del Gabinete Técnico, los Comisarios Generales y los Jefes de División. Actuará como Secretario de la Junta el Jefe de la División del Personal.
+2. Bajo la presidencia del Director General de la Policía y de la Guardia Civil, la Junta de Gobierno estará compuesta por el Director Adjunto Operativo, que tendrá la condición de Vicepresidente, el Subdirector General de Recursos Humanos, el Subdirector General de Gestión Económica, Técnica y Documental, el titular de la Unidad de Coordinación en el ámbito del Cuerpo Nacional de Policía, los Comisarios Generales, los Jefes de División y el titular de la Unidad de Documentación de Españoles y Archivo dependiente del Subdirector General de Gestión Económica, Técnica y Documental. Actuará como Secretario de la Junta el Jefe de la División del Personal.
 
-Asimismo, podrán asistir a las reuniones de la Junta de Gobierno, con voz, pero sin voto, aquellas otras personas que, en función de los asuntos a tratar, convoque el Director General de la Policía.
+Asimismo, podrán asistir a las reuniones de la Junta de Gobierno, con voz, pero sin voto, aquellas otras personas que, en función de los asuntos a tratar, convoque el Director General de la Policía y de la Guardia Civil.
+
+> Se modifica el apartado 2 por el art. único de la Orden INT/2606/2008, de 15 de septiembre. Ref. BOE-A-2008-15040.
