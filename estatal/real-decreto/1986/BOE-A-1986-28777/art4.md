@@ -4,7 +4,9 @@
 
 a) Que se solicita una patente de invención.
 
-b) Nombre y apellidos o denominación social del solicitante, su nacionalidad y domicilio. Tratándose del nombre de las personas jurídicas, se identificarán por su razón social o de acuerdo con las disposiciones legales por las que se rijan. Las personas físicas deberán hacer constar el número de su documento nacional de identidad.
+b) Nombre y apellidos o denominación social del solicitante, su nacionalidad y domicilio. Tratándose del nombre de las personas jurídicas, se identificarán por su razón social o de acuerdo con las disposiciones legales por las que se rijan. Las personas físicas deberán hacer constar el número de su documento de identidad. En el caso de extranjeros, constará su número de identidad de extranjero (NIE) o, en su defecto, el de su documento de identidad o pasaporte.
+
+En el supuesto de que el solicitante actúe por sí mismo y no tenga domicilio ni sede social en territorio del Estado español deberá designar, a efecto de notificaciones, una dirección postal en España o, alternativamente, indicar que las notificaciones le sean dirigidas por correo electrónico o por cualquier otro medio técnico de comunicación de que disponga la Oficina Española de Patentes y Marcas, sin perjuicio de lo dispuesto en el artículo 155.2 de la Ley 11/1986, de 20 de marzo, de Patentes.
 
 c) Título de la invención, en el que, sin denominaciones de fantasía y de la manera más clara y concisa posible, aparezca la designación técnica de la invención que deberá ser congruente con las reivindicaciones.
 
@@ -23,3 +25,5 @@ c) En el supuesto de que se reivindique una prioridad extranjera, deberá conten
 d) Si la invención hubiera sido exhibida en exposiciones oficiales u oficialmente reconocidas, deberá hacerse constar esta circunstancia.
 
 e) Si se solicitara la exención del pago de las tasas, prevista en el artículo 162 de la Ley, deberá mencionarse este extremo.
+
+> Se modifica el apartado 1.b) por el art. 1.1 del Real Decreto 1431/2008, de 29 de agosto. Ref. BOE-A-2008-14979
