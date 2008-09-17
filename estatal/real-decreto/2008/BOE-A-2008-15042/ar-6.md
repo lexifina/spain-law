@@ -1,0 +1,9 @@
+## Artículo 6. Comunicación a las autoridades competentes y a la Unión Europea.
+
+1. El Ministerio de Medio Ambiente, y Medio Rural y Marino a través de la Dirección General de Recursos Agrícolas y Ganaderos, tras recibir las informaciones que se citan en el artículo 3.2 y artículo 5, las transmitirán inmediatamente al resto de autoridades competentes y en el caso de que tuviera o pudiera tener un riesgo grave, directo, o indirecto para la salud humana, a la Agencia Española de Seguridad Alimentaria y Nutrición.
+
+Si el riesgo tuviera implicaciones para la salud humana, la sanidad animal o el medio ambiente, o pudiera resultar de interés su conocimiento en el ámbito de la Comunidad Europea, la transmitirá a la Comisión Europea a través del Red de alerta para los alimentos y piensos (RASFF), de conformidad con lo dispuesto en el artículo 50 del Reglamento (CE) n.º 178/2002 del Parlamento Europeo y del Consejo, de 28 de enero de 2002, por el que se establecen los principios y los requisitos generales de la legislación alimentaria, se crea la Autoridad Europea de Seguridad Alimentaria y se fijan procedimientos relativos a la seguridad alimentaria.
+
+2. Asimismo, el Ministerio de Medio Ambiente y Medio Rural y Marino a través de la Dirección General de Recursos Agrícolas y Ganaderos dará traslado a las autoridades competentes de las comunicaciones procedentes de la Comisión Europea a través de la RASFF, velando por la integridad de las mismas.
+
+3. Las autoridades competentes comunicarán inmediatamente a la Dirección General de Recursos Agrícolas y Ganaderos, para su traslado a la Comisión Europea, si el producto ha sido comercializado en su territorio, las medidas que, en su caso, hayan adoptado o prevean adoptar y toda información complementaria que hayan obtenido al respecto.
