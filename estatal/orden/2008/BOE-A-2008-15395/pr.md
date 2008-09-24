@@ -1,0 +1,17 @@
+El apartado primero de la Orden del Ministerio de Relaciones con las Cortes y Secretaría del Gobierno, de 5 de julio de 1989, por la que se modifican determinadas prendas y efectos de la uniformidad del Cuerpo de la Guardia Civil declaró de uniformidad en este Cuerpo las divisas de los empleos del Ejército de Tierra establecidas en la Orden Ministerial 38/1986, de 28 de abril, por la que se modifican determinadas prendas y efectos de la uniformidad del Ejército de Tierra.
+
+Desde el año 1986 las divisas, tanto en la Guardia Civil como en el Ejército de Tierra, han sufrido una serie de modificaciones, en unos casos por la creación de nuevos empleos militares, y en otros por la adecuación de los ya existentes a los nuevos.
+
+La derogada Ley 17/1989, de 19 de julio, reguladora del Régimen de Personal Militar Profesional, creó el empleo militar de Suboficial Mayor y, consecuente con lo anterior, el apartado primero de la Orden Ministerial 45/1991, de 31 de mayo, por la que se establecen las divisas de los suboficiales superiores, aprobó las divisas correspondientes a los empleos de suboficial mayor y de subteniente que se establecían en el anexo de dicha orden.
+
+En el ámbito de la Guardia Civil la derogada Ley 28/1994, de 18 de octubre, por la que se completa el Régimen de Personal de la Guardia Civil, creó dicho empleo de suboficial mayor cuyas divisas se regularon en la Orden 169/1995, de 19 de diciembre, por la que se establecen las divisas para la categoría de suboficiales superiores de la Guardia Civil.
+
+La citada Ley 17/1999, de 18 de mayo, creó los empleos militares de General de Ejército, Almirante General y General del Aire, Cabo Mayor, y el grado de Soldado o Marinero de Primera y, con el fin de determinar las divisas de los nuevos empleos, se dictó la Orden Ministerial 136/1999, de 20 de mayo, por la que se determinan las divisas correspondientes a los empleos de Capitán General, General de Ejército, Almirante General, General del Aire y Cabo Mayor y al grado de Soldado o Marinero de Primera. Posteriormente se dictó la Orden Ministerial 22/2002, de 19 de febrero, por la que se determinan las divisas correspondientes a los empleos de Teniente General, General de División y General de Brigada del Ejército de Tierra.
+
+El artículo 10 de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil, estableció las diferentes categorías y empleos militares del Cuerpo de la Guardia Civil, creando el empleo de Cabo Mayor así como la distinción, en el empleo de Guardia Civil, del grado militar de Guardia Civil de Primera.
+
+La citada Ley 42/1999, de 25 de noviembre, fue modificada por la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para 2007, donde, en su disposición final decimoquinta, se creó el empleo de Teniente General en el Cuerpo de la Guardia Civil.
+
+La creación de estos nuevos empleos y grados militares en el Cuerpo de la Guardia Civil, así como las modificaciones sufridas en las divisas de los empleos de Teniente General, General de División y General de Brigada del Ejército de Tierra, aconsejan determinar las correspondientes divisas en el Cuerpo de la Guardia Civil, teniendo presente la tradición del Instituto y su naturaleza militar.
+
+Por ello, en virtud de lo dispuesto en el artículo 10.6 de la Ley 42/1999, de 25 de noviembre, de Régimen de Personal del Cuerpo de la Guardia Civil, y a propuesta del Director General de la Policía y de la Guardia Civil, dispongo:
