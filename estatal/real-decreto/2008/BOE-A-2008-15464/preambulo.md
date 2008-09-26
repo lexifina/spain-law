@@ -1,0 +1,15 @@
+La disposición adicional vigésima de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, en su redacción dada por la Ley Orgánica 4/2007, de 12 de abril, establece que en el Ministerio de Educación y Ciencia existirá el Registro de universidades, centros y títulos (RUCT) cuyo régimen, organización y funcionamiento será regulado por el Gobierno. La citada disposición adicional establece también que dicho Registro tendrá carácter público y que en él se inscribirán, además de las universidades y centros, los títulos oficiales con validez en todo el territorio nacional. Asimismo podrán inscribirse, a efectos informativos, otros títulos que expidan las universidades.
+
+Posteriormente, el Real Decreto 432/2008, de 12 de abril, por el que se reestructuran los departamentos ministeriales, atribuye al Ministerio de Ciencia e Innovación la propuesta y ejecución de la política del Gobierno en materia de universidades, por lo que la anterior referencia al Ministerio de Educación y Ciencia se ha de entender ahora hecha al Ministerio de Ciencia e Innovación, en el que habrá de residir el mencionado Registro.
+
+Así, el RUCT, que tendrá carácter público y de registro administrativo, se concibe como un instrumento que recogerá la información actualizada relativa al sistema universitario español, para lo que se inscribirán en el mismo los datos relevantes relativos a Universidades, Centros y Títulos.
+
+La nueva concepción en el diseño de los títulos universitarios que se recoge en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se basa en un proceso de verificación del plan de estudios que culmina con la inscripción en el RUCT del título oficial, como requisito necesario para la determinación del carácter oficial del mismo. De este modo, la inscripción en el RUCT de los títulos oficiales tendrá carácter constitutivo. Dicha inscripción tendrá como efecto la consideración inicial de título acreditado. Además todos los procesos relativos a la renovación de la acreditación de los títulos, así como a la modificación y extinción de los planes de estudios conducentes a títulos oficiales deberán ser anotados en el RUCT.
+
+El acceso a dichos datos por parte de los interesados se realizará a través de los oportunos soportes informáticos en la forma que se establezca por el Ministerio de Ciencia e Innovación, que en todo caso se articulará sobre las bases de la accesibilidad, el tratamiento técnico de los datos y la actualización permanente de su contenido. Además se tendrá en cuenta, a tales efectos, la normativa vigente sobre acceso a la información por parte de las personas con discapacidad.
+
+Este real decreto ha sido informado por el Consejo de Universidades y por la Conferencia General de Política Universitaria.
+
+En su virtud, a propuesta de la Ministra de Ciencia e Innovación, con la aprobación de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 12 de septiembre de 2008,
+
+## D I S P O N G O :
