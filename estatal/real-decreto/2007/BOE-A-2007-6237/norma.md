@@ -18,7 +18,7 @@ b) Realizar la información previa de todos los Planes de Autoprotección que hu
 
 c) Fomentar la creación de foros de debate y la realización de actividades de formación en materia de autoprotección.
 
-d) Constituirse como punto de contacto y autoridad competente en todo lo relativo a autoprotección en relación con la Unión Europea y otros Organismos Internacionales.
+d) Constituirse como punto de contacto en todo lo relativo a la autoprotección en relación con la Unión Europea y otros Organismos Internacionales.
 
 2. Los órganos de las Administraciones Públicas competentes para el otorgamiento de licencia o permiso para la explotación o inicio de actividad, para:
 
@@ -197,3 +197,5 @@ La adecuación de los procedimientos de actuación.
 7. De las actividades de mantenimiento de la eficacia del Plan se conservará por parte de la empresa a disposición de las Administraciones Públicas, información sobre las mismas, así como de los informes de evaluación realizados debidamente firmados por el responsable del Plan.
 
 3.7 Vigencia del plan de autoprotección y criterios para su actualización y revisión.—El Plan de Autoprotección tendrá vigencia indeterminada; se mantendrá adecuadamente actualizado, y se revisará, al menos, con una periodicidad no superior a tres años.
+
+> Se modifica el apartado 1.3.1.d) por el art. 2 del Real Decreto 1468/2008, de 5 de septiembre. Ref. BOE-A-2008-15919.
