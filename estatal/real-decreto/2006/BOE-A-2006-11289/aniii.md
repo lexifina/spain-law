@@ -25,3 +25,7 @@
 11. Número identificativo del certificado sanitario o de origen asociado al movimiento y fecha de expedición.
 
 12. Fecha y lugar de desinfección del vehículo y número de certificado o talón de desinfección del contenedor o medio de transporte. Este requisito no será obligatorio en el caso de medios de transporte de abejas de la miel, en cumplimiento del artículo 49.1 de la Ley 8/2003, de 24 de abril, de sanidad animal.
+
+13. En el caso de transporte de animales de la acuicultura, asimismo, se incluirá la mortalidad durante el transporte, en la medida de lo posible, por el tipo de transporte y las especies transportadas; las explotaciones, las zonas de cría de moluscos y los establecimientos de transformación donde ha estado el vehículo de transporte; y todos los cambios de agua durante el transporte, en particular, el origen del agua nueva y el lugar de evacuación del agua.
+
+> Se añade el apartado 13 por la disposición final 2.b) del Real Decreto 1614/2008, de 3 de octubre. Ref. BOE-A-2008-16090.

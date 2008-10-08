@@ -63,3 +63,7 @@ Gamos.
 Jabalíes.
 
 Otras.
+
+Especies animales de acuicultura: Peces pertenecientes a la superclase ''Agnatha'' y a las clases ''Chondrichthyes'' y ''Osteichthyes'', moluscos pertenecientes al filum ''Mollusca'', crustáceos pertenecientes al subfilum ''Crustácea''
+
+> Se añade el último párrafo por la disposición final 3 del Real Decreto 1614/2008, de 3 de octubre. Ref. BOE-A-2008-16090

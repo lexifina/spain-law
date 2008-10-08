@@ -27,3 +27,7 @@ Asimismo, se incluirán en este tipo las explotaciones que no pertenezcan a ning
 2.9 Pastos: aquellas explotaciones que albergan ganado de forma permanente u ocasional para el aprovechamiento mediante pastoreo de las producciones vegetales naturales o sembradas del terreno.
 
 2.10 Centros de sacrificio domiciliario: aquellos centros establecidos por la autoridad competente donde se sacrifican porcinos para autoconsumo.
+
+2.11 Establecimientos de transformación autorizados para el sacrificio de animales de la acuicultura a efectos de control de enfermedades, así como centros de recogida y centros de depuración, de expedición o centros similares de moluscos.
+
+> Se añade el apartado 2.11 por la disposición final 3 del Real Decreto 1614/2008, de 3 de octubre. Ref. BOE-A-2008-16090

@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Zonas y piscifactorías libres.
+
+Sin perjuicio, en su caso, de lo establecido en este real decreto y en particular en el anexo V, las zonas y piscifactorías de España incluidas a la entrada en vigor de esta norma en, respectivamente, los anexos I y II de la Decisión 2002/308/ce, de la Comisión, de 22 de abril de 2002, por la que se establecen listas de zonas y piscifactorías autorizadas en relación con la septicemia hemorrágica viral (SHV) y la necrosis hematopoyética infecciosa (NHI), mantendrán los efectos de dicha inclusión en tanto en cuanto no varíe la situación sanitaria que dio lugar a la citada calificación. La información de dichas zonas y piscifactorías se pondrá a disposición del público de acuerdo con el artículo 48.
