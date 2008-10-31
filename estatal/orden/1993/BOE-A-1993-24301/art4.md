@@ -18,7 +18,21 @@
 
 9. El cobro del precio por la venta de inmuebles no podrá aplazarse más de seis meses desde que se perfeccione el contrato de compraventa.
 
-10. Se habilita a la Comisión Nacional del Mercado de Valores para especificar los conceptos que integrarán el activo computable a los efectos de lo dispuesto en el presente artículo.
+10. Se habilita a la Comisión Nacional del Mercado de Valores para especificar el valor de los bienes inmuebles, de otros activos y de las referencias de denominador a utilizar en el cálculo de los coeficientes y límites establecidos en la normativa que les sea de aplicación. Adicionalmente especificará las condiciones que deben cumplir los límites a las obligaciones frente a terceros.
+
+En el ejercicio de esta habilitación, la Comisión Nacional del Mercado de Valores podrá determinar especialmente:
+
+El cálculo del valor estimado de realización de la cartera de inversiones de carácter inmobiliario en las referencias de numerador del coeficiente de inversión obligatorio,
+
+El cálculo de los coeficientes de diversificación del riesgo en el caso de: inmuebles y derechos arrendados al mismo grupo; inmuebles en construcción, sobre plano y compromisos de compra; e inmuebles adquiridos a entidades del mismo grupo,
+
+Las partidas que se incluyen y se excluyen de los saldos de las cuentas acreedoras a efectos del cálculo de los límites a las financiaciones ajenas,
+
+El cálculo de las referencias de numerador del coeficiente de liquidez, y
+
+La asignación de bienes inmuebles en el calendario de tasaciones.
+
+> Se modifica el apartado 10 por el art. 3.1 de la Orden EHA/3064/2008, de 28 de octubre. Ref. BOE-A-2008-17328.
 
 > Se deroga el apartado 5 por la disposición derogatoria.2 de la Orden de 18 de abril de 2001. Ref. BOE-A-2001-8094.
 
