@@ -1,0 +1,7 @@
+## Artículo 13 bis. Régimen de suplencia.
+
+1. En los supuestos de ausencia, vacante o enfermedad del Director de la Agencia Española de Protección de Datos, el ejercicio de las competencias previstas en los artículos 12.2 y 13.1 del presente Estatuto, así como las que le correspondieran en aplicación de lo previsto en el artículo 37 de la Ley Orgánica 5/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, será asumido por el Subdirector General de la Inspección de Datos. En el supuesto de que cualquiera de las circunstancias mencionadas concurriera igualmente en él, el ejercicio de las competencias afectadas será asumido por el Subdirector General del Registro General de Protección de Datos y, en su defecto, por el Secretario General.
+
+2. Cuando, conforme a lo previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, concurriera en el Director de la Agencia Española de Protección de Datos alguna causa de abstención o recusación, el ejercicio de las competencias a las que se refiere el apartado anterior, será asumido por el Subdirector General de la Inspección de Datos. En el supuesto de que cualquiera de las causas mencionadas concurriera igualmente en él, el ejercicio de las competencias afectadas será asumido por el Subdirector General del Registro General de Protección de Datos y, en su defecto, por el Secretario General.
+
+> Se añade por el art. único del Real Decreto 1665/2008, de 17 de octubre. Ref. BOE-A-2008-17711.
