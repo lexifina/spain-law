@@ -1,0 +1,3 @@
+## Séptimo. Ponencias o Grupos de Trabajo.
+
+En el seno de la Comisión Ministerial de Administración Electrónica podrán crearse Ponencias o Grupos de Trabajo para el estudio y preparación de asuntos concretos, o para el desarrollo de programas específicos relacionados con la naturaleza de la Comisión.
