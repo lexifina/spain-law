@@ -1,9 +1,9 @@
-## Disposición transitoria segunda. Plazo para el cumplimiento de determinadas obligaciones.
+## Disposición transitoria segunda. Plazo para el cumplimiento de determinadas disposiciones.
 
-1. Antes del transcurso de nueve meses, desde la entrada en vigor de esta orden, deberá haber sido elaborado el código de conducta y actualizada la composición de la Comisión para la Supervisión de los Servicios de Tarificación Adicional conforme al artículo 10.2.º de la presente orden.
+1. Lo dispuesto en el artículo 10.3º será exigible transcurridos cuatro meses desde la publicación en el "Boletín Oficial del Estado" del código de conducta previsto en el artículo 10.2º.
 
-2. La obligación establecida en el párrafo segundo del artículo 10.6.º de esta orden será exigible a partir de los dos meses desde la entrada en vigor de la misma.
+2. Las obligaciones establecidas en el artículo 10.4º, 5º y 6º, primer párrafo, serán exigibles transcurrido un plazo de cuatro meses desde la fecha de publicación en el «Boletín Oficial del Estado» del código de conducta previsto en el artículo 10.2º.
 
-3. Las obligaciones establecidas en el artículo 10.4.º, 5.º y 6.º, primer párrafo, serán exigibles en todo caso a partir de los nueve meses desde la entrada en vigor de la misma.
+3. La obligación establecida en el párrafo segundo del artículo 10.6º de esta orden será exigible a partir de los dos meses desde la entrada en vigor de la misma.
 
-4. La obligación establecida en el artículo 10.3.º será exigible a partir de la publicación del código de conducta.
+> Se modifica por el art. único.4 de la Orden ITC/3237/2008, de 11 de noviembre. Ref. BOE-A-2008-18281.
