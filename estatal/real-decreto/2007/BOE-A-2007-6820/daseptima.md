@@ -1,0 +1,5 @@
+## Disposición adicional séptima. Rendimientos del capital mobiliario a integrar en la renta del ahorro.
+
+A los exclusivos efectos de lo establecido en el artículo 46 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial del las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, se entenderá que no proceden de entidades vinculadas con el contribuyente los rendimientos del capital mobiliario previstos en el artículo 25.2 de la Ley 35/2006 satisfechos por las entidades previstas en el artículo 1.2 del Real Decreto Legislativo 1298/1986, de 28 de junio, sobre Adaptación del Derecho vigente en materia de Entidades de Crédito al de las Comunidades Europeas, cuando no difieran de los que hubieran sido ofertados a otros colectivos de similares características a las de las personas que se consideran vinculadas a la entidad pagadora.
+
+> Se añade, con efectos desde el 1 de enero de 2008 por la disposición final 3.2 del Real Decreto 1804/2008, de 3 de noviembre. Ref. 2008/18548
