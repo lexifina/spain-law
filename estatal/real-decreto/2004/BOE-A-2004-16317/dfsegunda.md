@@ -1,3 +1,5 @@
-## Disposición final segunda. Entrada en vigor.
+## Disposición final segunda. Facultades de ejecución.
 
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+El Director General de la Marina Mercante dictará las resoluciones que puedan resultar necesarias para la ejecución y cumplimiento de este real decreto y en particular para aprobar y modificar los modelos de formularios a que se refiere el artículo 8.2.
+
+> Se modifica por la disposición final 1.5 del Real Decreto 1795/2008, de 3 de noviembre. Ref. BOE-A-2008-18546.

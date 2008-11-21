@@ -1,3 +1,5 @@
-## Disposición final primera. Habilitación para dictar instrucciones.
+## Disposición final primera. Habilitación de aplicación y desarrollo.
 
-La Dirección General de la Marina Mercante y la Dirección General de Seguros y Fondos de Pensiones dictarán, en el ámbito de sus respectivas competencias, las instrucciones de servicio que resulten necesarias para la aplicación de este real decreto.
+Se faculta al Ministro de Fomento, en el ámbito de sus competencias, para dictar las normas de aplicación y desarrollo de este real decreto.
+
+> Se modifica por la disposición final 1.4 del Real Decreto 1795/2008, de 3 de noviembre. Ref. BOE-A-2008-18546.
