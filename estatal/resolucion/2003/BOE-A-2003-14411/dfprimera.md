@@ -1,6 +1,6 @@
 ## Disposición final primera. Delegación de Barcelona.
 
-1. La Comisión Nacional del Mercado de Valores contará con una Delegación en Barcelona.
+1. La CNMV contará con una Delegación en Barcelona.
 
 2. Corresponderá a esta Delegación, bajo la inmediata dependencia funcional de las Direcciones Generales competentes por razón de la materia, el ejercicio de las siguientes competencias:
 
@@ -10,4 +10,6 @@ b) Recibir, analizar y tramitar los expedientes de registro de entidades y los d
 
 c) Informar a las entidades, instituciones, empresas o inversores sobre los asuntos relacionados con el mercado de valores.
 
-3. La Delegación de la Comisión Nacional del Mercado de Valores en Barcelona contará con un registro de entrada de documentos, que desarrollará su actividad bajo la dependencia del Registro General de la CNMV al que se refiere el artículo 34.1 de este Reglamento.
+3. La Delegación de la Comisión Nacional del Mercado de Valores en Barcelona contará con un registro de entrada de documentos, el cual tiene la consideración de registro auxiliar del Registro General de la CNMV al que se refiere el artículo 33.1.
+
+> Se modifican los apartados 1 y 3 por el art. único.48 de la Resolución de 5 de noviembre de 2008. Ref. BOE-A-2008-18703.
