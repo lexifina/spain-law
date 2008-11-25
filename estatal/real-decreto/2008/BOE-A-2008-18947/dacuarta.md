@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Nota de admisión para títulos equivalentes a Técnico Superior de Formación Profesional, de Artes Plásticas y Diseño y de Técnico Deportivo Superior de Enseñanzas Deportivas.
+
+El Ministro de Educación, Política Social y Deporte establecerá en el plazo de seis meses, el procedimiento a que se refiere el artículo 26.2 y 26.3 de este real decreto, para aquellos títulos declarados equivalentes a los títulos de Técnico Superior de Formación Profesional, de Artes Plásticas y Diseño y de Técnico Deportivo Superior de Enseñanzas Deportivas de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
