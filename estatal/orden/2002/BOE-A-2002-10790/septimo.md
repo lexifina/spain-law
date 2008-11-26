@@ -2,19 +2,20 @@
 
 a) Tabla de tipos de contratos:
 
-| Código de tipos de contrato | Descripción |
+| 001 | Contrato de Obras. |
 | --- | --- |
-| 001 | Contrato de Obras |
-| 002 | Contrato de Suministro |
-| 004 | Contrato de Consultoría y Asistencia Técnica |
-| 005 | Contrato de Trabajos Específicos y Concretos no Habituales |
-| 006 | Contrato Patrimonial |
-| 008 | Contrato de Retribuciones con Cargo a Inversiones |
-| 011 | Contrato de Gestión de Servicios Públicos |
-| 012 | Contrato de Servicios |
-| 015 | Contrato de Obras Abono Total |
-| 016 | Contrato de Suministros de Fabricación del Ministerio de Defensa |
-| 999 | Otros Contratos |
+| 002 | Contrato de Suministro. |
+| 006 | Contrato Patrimonial. |
+| 011 | Contrato de Gestión de Servicios Públicos. |
+| 012 | Contrato de Servicios. |
+| 014 | Expediente de inversiones militares FAS. |
+| 015 | Contrato de Obras Abono Total. |
+| 016 | Contrato de suministro de fabricación del Ministerio de Defensa. |
+| 017 | Contrato de Concesión de Obra Pública. |
+| 018 | Contrato de Concesión de Obra Pública Abono Total. |
+| 019 | Contrato de Colaboración entre el Sector público y el Sector privado. |
+| 020 | Contrato de carácter administrativo especial. |
+| 999 | Otros Contratos. |
 
 b) Tabla de código de país.
 
@@ -310,6 +311,10 @@ k) Tabla de tipos de operaciones de Caja General de Depósitos por otras garant�
 | 002 | Participaciones en fondos de inversión |
 | 003 | Aval |
 | 004 | Certificados seguro de caución |
+
+> Se modifica el apartado a) por el art. 2 de la Orden EHA/3371/2008, de 17 de noviembre. Ref. BOE-A-2008-18990.
+
+> Esta modificación es aplicable a las cuentas anuales del ejercicio 2008 y siguientes, según establece la disposición final única.
 
 > Se modifican los apartados d) y e) por el apartado 2 de la Resolución de 30 de julio de 2003. Ref. BOE-A-2003-16487.
 

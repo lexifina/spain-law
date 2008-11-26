@@ -69,7 +69,7 @@ Los tipos de Información que se enviarán en este grupo son los que se detallan
 |  | INFORMACIÓN SOBRE OPERACIONES DE COMPRAVENTA DOBLES SOBRE VALORES DE LA DEUDA DEL ESTADO: |
 | J01 | Información sobre operaciones de compraventa dobles sobre valores de la Deuda del Estado |
 |  | INFORMACIÓN SOBRE CRÉDITOS: |
-| C01 | Información sobre Créditosxxx |
+| C01 | Información sobre Créditos |
 |  | INFORMACIÓN SOBRE INVERSIONES FINANCIERAS EN PATRIMONIO: |
 | C02 | Información sobre Inversiones Financieras en Patrimonio |
 |  | BALANCE DE RESULTADOS E INFORME DE GESTIÓN: |
@@ -92,7 +92,7 @@ Los tipos de Información que se enviarán en este grupo, son los que se detalla
 | --- | --- |
 | A01 | Presupuesto de gastos. Ejercicio corriente. |
 | A02 | Proyectos de inversión. |
-| A03 | Contratación administrativa: procedimientos y situación. |
+| (Suprimido) | (Suprimido) |
 | A04 | Contratación administrativa: adjudicatarios. |
 | A05 | Transferencias de capital concedidas. |
 | A06 | Subvenciones de capital concedidas. |
@@ -127,6 +127,7 @@ Los tipos de Información que se enviarán en este grupo, son los que se detalla
 | A35 | Estado de tesorería. |
 | A36 | Variación de resulfados presupuestarios de ejercicios anteriores. |
 | A37 | Cuentas del P.G.C.P. (antes de asientos de ajustes y de regularización). |
+| A38 | Contratación administrativa: Procedimientos y situación. Ley 30/2007 de contratos del Sector Público. |
 | H15 | Presupuesto de ingresos. Ejercicio corriente (concepto presupuestario). |
 | H16 | Presupuesto de ingresos. Ejercicios cerrados (concepto presupuestario). |
 | H17 | Derechos presupuestarios pendientes de cobro según su grado de exigibilidad. Ejercicio corriente (concepto presupuestario). |
@@ -145,6 +146,10 @@ Los tipos de Información que se enviarán en este grupo, son los que se detalla
 | T10 | Tabla de localización de bienes de inmovilizado material. |
 | T11 | Tabla de códigos de entidades en las que se ha invertido. |
 | T12 | Tabla de códigos de orgánica-1. |
+
+> Se modifica el Grupo-3 por el art. 2.1 de la Orden EHA/3371/2008, de 17 de noviembre. Ref. BOE-A-2008-18990.
+
+> Esta modificación es aplicable a las cuentas anuales del ejercicio 2008 y siguientes, según establece la disposición final única.
 
 > Se modifica el Grupo-2 por el art. único.2 y 3 de la Resolución de 23 de diciembre de 2005. Ref. BOE-A-2006-331.
 
