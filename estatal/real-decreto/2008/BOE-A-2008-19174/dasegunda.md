@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Profesorado de cuerpos declarados a extinguir.
+
+Las Administraciones educativas determinarán, en sus ámbitos respectivos, qué materias y módulos de la educación secundaria obligatoria, del bachillerato y de la formación profesional del sistema educativo podrán impartir los profesores pertenecientes a los cuerpos docentes declarados a extinguir por las normas anteriores a la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. En dicha determinación se tendrán en cuenta las áreas, materias o módulos que actualmente estén impartiendo.

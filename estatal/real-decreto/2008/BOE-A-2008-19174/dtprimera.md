@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Profesorado de centros privados.
+
+1. En tanto no se proceda a la actualización de las exigencias de titulación y especialización para ejercer la docencia en centros privados, contenidas en la Orden de 24 de julio de 1995 por la que se regulan las titulaciones mínimas que deben poseer los profesores de los centros privados de educación secundaria obligatoria y bachillerato, así como en la Orden de 23 de febrero de 1998 y en la Orden ECI/759/2008, de 19 de febrero de 2008, que completan la Orden de 24 de julio de 1995 citada, será de aplicación lo previsto en dichas normas para las enseñanzas a las que las mismas se refieren.
+
+2. En el caso de las materias de Educación secundaria obligatoria y Bachillerato no contempladas en la Orden de 24 de julio de 1995 citada en el punto anterior, el profesorado de los centros privados deberá reunir los requisitos de titulación establecidos para las áreas o materias relacionadas en dicha Orden cuya denominación coincida con la de las especialidades de los Anexos III, IV y V a las que están asignadas dichas materias no contempladas en la mencionada Orden.

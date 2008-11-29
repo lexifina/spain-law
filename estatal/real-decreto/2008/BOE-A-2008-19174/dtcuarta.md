@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Equivalencia de la docencia impartida a la formación pedagógica y didáctica.
+
+A quienes acrediten que antes del término del curso 2008-2009 han impartido docencia durante dos cursos académicos completos o, en su defecto, 12 meses en períodos continuos o discontinuos, en centros públicos o privados de enseñanza reglada debidamente autorizados, en los niveles y enseñanzas cuyas especialidades docentes se regulan en este real decreto, se les reconocerá dicha docencia como equivalente a la formación pedagógica y didáctica establecida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
