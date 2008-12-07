@@ -43,6 +43,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria primera](dt.md)
 - [Disposición transitoria segunda](dt-2.md)
 - [Disposicion derogatoria única](dd.md)
+- [Disposicion final primera](df.md)
+- [Disposicion final segunda](df-2.md)
 - [Disposición final única](df-3.md)
 - [fi](fi.md)
 - [ANEXO 1](a1-10.md)
