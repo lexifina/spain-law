@@ -54,6 +54,10 @@ Liquidación de la tasa con código 062 «Tasa por expedición de permisos de tr
 
 Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
 
+Procedimiento de solicitud y concesión de recursos del Fondo Estatal de Inversión Local para la financiación de proyectos de inversión generadores de empleo, regulado en el Título I del Real Decreto-ley 9/2008, de 28 de noviembre, por el que se crean un Fondo Estatal de Inversión Local y un Fondo Especial del Estado para la Dinamización de la Economía y el Empleo y se aprueban créditos extraordinarios para atender a su financiación.
+
+> Se amplía por el apartado 1 de la Resolución de 9 de diciembre de 2008. Ref. BOE-A-2008-20062.
+
 > Se amplía por el apartado 1 de las Resoluciones de 11 de septiembre de 2008. Ref. BOE-A-2008-14975. y Ref. BOE-A-2008-14976.
 
 > Se amplía por el apartado 1 de la Resolución de 21 de enero de 2008. Ref. BOE-A-2008-1326.
