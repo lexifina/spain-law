@@ -7,7 +7,7 @@
 | Colectivos | Descripción | Cuantía anual (en euros) | Duración |
 | --- | --- | --- | --- |
 | BONIFICACIONES A LA CONTRATACIÓN INDEFINIDA |
-| Mujeres | Desempleadas, así como las víctimas de violencia de género [art. 2.1.a) y 2.4]. | 850 | 4 años |
+| Mujeres | Desempleadas, así como las víctimas de violencia de género [art. 2.1.a) y 2.4]. | 1.500 | 4 años |
 | Contratadas en los 24 meses siguientes al parto (art. 2.1.b). | 1.200 | 4 años |
 | Contratadas después de 5 años de inactividad laboral, si, anteriormente a su retirada, han trabajado, al menos, 3 años (art. 2.1.c). | 1.200 | 4 años |
 | Mayores de 45 años (art. 2.1.d). | 1.200 | Toda la vigencia del contrato |
@@ -30,5 +30,7 @@
 | Mujeres con contrato suspendido (indefinido o temporal que se transforme en indefinido) reincorporadas tras la maternidad (art. 4.2). | 1.200 | 4 años |
 | BONIFICACIONES PARA LA CONTRATACION DE PERSONAS CON DISCAPACIDAD POR LOS CENTROS ESPECIALES DE EMPLEO |
 | Contratos indefinidos o temporales (art. 2.3). | 100 por 100 de las cuotas empresariales a la Seguridad Social, incluidas las de accidentes de trabajo y enfermedad profesional y las cuotas de recaudación conjunta. | Toda la vigencia del contrato |
+
+> Se modifica la cuantía de la bonificación por la contratación indefinida a tiempo completo de las mujeres víctimas de violencia de género por la disposición final 1 del Real Decreto 1917/2008, de 21 de noviembre. Ref. BOE-A-2008-19918.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 37, de 12 de febrero de 2007. Ref. BOE-A-2007-2891

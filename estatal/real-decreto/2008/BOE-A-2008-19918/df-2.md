@@ -1,0 +1,3 @@
+## Disposición final segunda. Título competencial.
+
+El presente real decreto se dicta al amparo de lo establecido en el artículo 149.1.7.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de legislación laboral, sin perjuicio de la ejecución de sus servicios por las comunidades autónomas. Se exceptúa de lo anterior la regulación de las bonificaciones contempladas en el artículo 9 y en la disposición final primera, que se dicta al amparo del artículo 149.1.17.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de legislación básica y régimen económico de la Seguridad Social.

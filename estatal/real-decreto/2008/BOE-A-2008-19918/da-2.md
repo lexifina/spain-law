@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Gestión de subvenciones por las Comunidades Autónomas.
+
+Las Comunidades Autónomas que hayan asumido el traspaso de la gestión realizada por el Servicio Público de Empleo Estatal en el ámbito del trabajo, el empleo y la formación, así como de los programas de apoyo a la creación de empleo, ejercerán las funciones que les correspondan según lo dispuesto en los reales decretos de traspaso. Dicha gestión se realizará de acuerdo con lo establecido en este real decreto y en las normas de procedimiento y bases reguladoras para la concesión de subvenciones que dicten las comunidades autónomas para su ejecución en función de su propia organización.

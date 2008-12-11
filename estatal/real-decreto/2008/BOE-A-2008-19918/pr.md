@@ -1,0 +1,37 @@
+La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, atiende a las víctimas de este tipo de violencia de un modo integral y multidisciplinar, por lo que para el cumplimiento de sus fines prevé un conjunto de medidas que abarcan aspectos preventivos, educativos, sociales, asistenciales y de atención posterior a las víctimas.
+
+Entre dichas medidas, cabe destacar las que se dirigen a las víctimas desempleadas inscritas en los servicios públicos de empleo, que buscan su inserción sociolaboral y, de este modo, acceder a una independencia económica y personal necesaria para romper el vínculo con su agresor y lograr su efectiva recuperación integral. No obstante, las mujeres víctimas de violencia de género presentan, en muchas ocasiones, especiales dificultades para acceder a un empleo debido a circunstancias derivadas de la situación de violencia sufrida, tales como el consiguiente aislamiento del mundo laboral y social, el deterioro de la propia autoestima personal o el hecho de tener que hacerse cargo en exclusiva de los familiares dependientes. En otras ocasiones, se hallan en la necesidad de trasladar su residencia habitual a una localidad distinta en aras de su protección personal, lo que a menudo implica la búsqueda de un nuevo puesto de trabajo.
+
+Por ello, la Ley Orgánica establece en su artículo 22 que «en el marco del Plan de Empleo del Reino de España, se incluirá un programa de acción específico para las víctimas de violencia de género inscritas como demandantes de empleo.
+
+Este programa incluirá medidas para favorecer el inicio de una nueva actividad por cuenta propia».
+
+En consecuencia, en el actual Programa Nacional de Reformas del Reino de España (PNR), cuyo predecesor, desde 1998, fue el Plan Nacional de Acción para el Empleo de cada año, se incluyó el mandato de poner en marcha un programa específico para las víctimas de violencia de género inscritas como demandantes de empleo, dentro de las medidas para aumentar la tasa de ocupación femenina y eliminar su discriminación laboral.
+
+El artículo 17.3 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo, establece que «el Gobierno podrá otorgar subvenciones, desgravaciones y otras medidas para fomentar el empleo de grupos específicos de trabajadores que encuentren dificultades especiales para acceder al empleo». En el mismo sentido, el artículo 26.1 de la Ley 56/2003, de 16 de diciembre, de Empleo, habilita al Gobierno para establecer programas específicos destinados a fomentar el empleo de las personas con especiales dificultades de integración en el mercado de trabajo.
+
+Por su parte, la Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad Efectiva de Mujeres y Hombres, prevé el desarrollo de políticas activas para hacer efectivo el principio de igualdad, cuya máxima expresión de quebranto se materializa en la violencia de género. Con este objetivo, su artículo 11 establece que los poderes públicos adoptarán medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres. Tales medidas, que serán aplicables en tanto subsistan dichas situaciones, habrán de ser razonables y proporcionadas en relación con el objetivo perseguido en cada caso.
+
+Asimismo, el apartado 6 del artículo 14 del mismo texto legal, establece que los poderes públicos podrán adoptar medidas de acción positiva en consideración de las singulares dificultades en que se encuentran las víctimas de la violencia de género, considerándolas expresamente como un colectivo de mujeres en situación de especial vulnerabilidad.
+
+Finalmente, dentro del ámbito laboral, el apartado 2 del artículo 42 de la mencionada Ley Orgánica, permite que los programas de inserción sociolaboral activa se destinen prioritariamente a colectivos específicos de mujeres.
+
+Este real decreto es una de las normas reguladoras de subvenciones concedidas por el Servicio Público de Empleo Estatal, a los efectos establecidos en los correspondientes reales decretos de traspaso a las comunidades autónomas de la gestión realizada por el Servicio Público de Empleo Estatal en el ámbito del trabajo, el empleo y la formación así como de los programas de apoyo a la creación de empleo.
+
+El Programa que este real decreto aprueba, con el que se da cumplimiento al mandato del artículo 22 de la Ley Orgánica 1/2004, tiene su fundamento en los objetivos descritos. Por un lado compendia las ayudas que con la misma finalidad se han venido estableciendo desde la entrada en vigor de dicha Ley Orgánica y por otro establece ayudas adicionales que contribuirán al incremento de la empleabilidad de las mujeres víctimas de la violencia de género inscritas en los Servicios Públicos de Empleo como demandantes, facilitando y promoviendo la inserción sociolaboral tanto en el empleo por cuenta ajena como en la constitución como trabajadoras autónomas o en la creación de empresas.
+
+Asimismo prevé la atención especializada y confidencial a través de puntos de atención a las víctimas de violencia de género integrados por personal de los Servicios Públicos de Empleo con formación específica en igualdad y violencia de género.
+
+Por tanto, en el Programa se establecen acciones de políticas activas de empleo disponibles para facilitar la inserción sociolaboral de estas trabajadoras y se regulan subvenciones y ayudas específicas que se otorgan para hacer efectivo el desarrollo de tales acciones que conformarán el itinerario profesional de inserción de cada participante.
+
+Por otro lado, y de acuerdo con la autorización al Gobierno establecida en la disposición final segunda de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo, este real decreto dispone el incremento de las bonificaciones por contratación indefinida de mujeres víctimas de violencia de género reguladas en dicha Ley a fin de promover su contratación, al tratarse de un colectivo, dentro de las mujeres, con especiales dificultades de acceso al mercado de trabajo.
+
+Este real decreto prevé la concesión directa de las subvenciones de nueva creación recogidas en el mismo, atendiendo a su carácter singular por su interés público, social y humanitario derivado de las particulares circunstancias en que se encuentran las mujeres víctimas de violencia de género, al amparo de lo dispuesto en los artículos 22.2.c) y 28 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+La gestión de estas subvenciones corresponderá al Servicio Público de Empleo Estatal y a las Comunidades Autónomas con competencias en materia de gestión de las políticas activas de empleo dentro del marco definido en este real decreto, que se dicta al amparo de lo establecido en el artículo 149.1.7 de la Constitución Española.
+
+La Conferencia Sectorial de Asuntos Laborales, en la reunión celebrada el día 5 de noviembre de 2007 ha sido informada de este real decreto. Asimismo han sido consultadas las organizaciones sindicales y empresariales más representativas y las comunidades autónomas.
+
+En su virtud, a propuesta conjunta del Ministro de Trabajo e Inmigración y de la Ministra de Igualdad, previo informe del Ministerio de Economía y Hacienda, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 21 de noviembre de 2008,
+
+DISPONGO:
