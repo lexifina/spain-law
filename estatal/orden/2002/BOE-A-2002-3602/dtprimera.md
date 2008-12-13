@@ -4,4 +4,6 @@
 
 2. Cuando las Administraciones Públicas o entidades de derecho público de ellas dependientes presten servicios de información a través de números distintos a los antes mencionados no les será de aplicación lo dispuesto en la presente Orden.
 
+> Véase la Resolución de 4 de diciembre de 2008 sobre la ampliación del ámbito de aplicación. Ref. BOE-A-2008-20145
+
 > Se modifica por el apartado 1.15 de la Orden PRE/2410/2004, de 20 de julio. Ref. BOE-A-2004-13562
