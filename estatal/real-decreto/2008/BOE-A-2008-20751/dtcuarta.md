@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Ayudas financieras para actuaciones derivadas de planes y programas anteriores.
+
+1. A partir de la entrada en vigor de este Real Decreto, y sin perjuicio de lo establecido en las restantes disposiciones transitorias, el Ministerio de Vivienda no dará conformidad a concesiones de préstamos convenidos, ni admitirá ninguna propuesta o reconocimiento de nuevos derechos a ayudas económicas directas, en aplicación de planes y programas anteriores de vivienda, salvo cuando se haga en cumplimiento de plazos temporales concretos establecidos en la normativa reguladora de dichos planes y programas.
+
+2. La concesión y los beneficios de todos los préstamos directos a adquirentes de viviendas protegidas cuya promoción esté acogida a normativas anteriores, que se otorguen entre la fecha de publicación en el «Boletín Oficial del Estado» de la orden ministerial a que se refiere el apartado 1 de la disposición transitoria primera y el 31 de diciembre del año 2012, se ajustarán a lo establecido en este Real Decreto.
