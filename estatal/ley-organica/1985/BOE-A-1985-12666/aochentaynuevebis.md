@@ -6,7 +6,13 @@
 
 A fin de facilitar el conocimiento de los asuntos instruidos por los Juzgados de Violencia sobre la Mujer, y atendiendo al número de asuntos existentes, deberán especializarse uno o varios Juzgados en cada provincia, de conformidad con lo previsto en el artículo 98 de la presente Ley.
 
+Corresponde asimismo a los Juzgados de lo Penal la ejecución de las sentencias dictadas en causas por delito por los Juzgados de Instrucción, y el reconocimiento y ejecución de las resoluciones que impongan sanciones pecuniarias transmitidas por las autoridades competentes de otros Estados miembros de la Unión Europea, cuando las mismas deban cumplirse en territorio español.
+
 3. En la Villa de Madrid, con jurisdicción en toda España, habrá uno o varios Juzgados Centrales de lo Penal que conocerán, en los casos en que así lo establezcan las leyes procesales, de las causas por los delitos a que se refiere el artículo 65 y de los demás asuntos que señalen las leyes.
+
+Corresponde asimismo a los Juzgados Centrales de lo Penal la ejecución de las sentencias dictadas en causas por delito por los Juzgados Centrales de Instrucción.
+
+> Se añade el último párrafo de los apartados 2 y 3 por el art. único.2 y 3 de la Ley Orgánica 2/2008, de 4 de diciembre. Ref. BOE-A-2008-19660.
 
 > Se añade el párrafo segundo del apartado 2 por la disposición adicional 10.3 bis de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760.
 

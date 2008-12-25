@@ -16,7 +16,7 @@ e) Delitos cometidos fuera del territorio nacional, cuando conforme a las leyes 
 
 En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su competencia al conocimiento de los delitos conexos con todos los anteriormente reseñados.
 
-2.º De los procedimientos penales iniciados en el extranjero, de la ejecución de sentencias dictadas por Tribunales extranjeros o del cumplimiento de pena de prisión impuesta por Tribunales extranjeros, cuando en virtud de un tratado internacional corresponda a España la continuación de un procedimiento penal iniciado en el extranjero, la ejecución de una sentencia penal extranjera o el cumplimiento de una pena o medida de seguridad privativa de libertad.
+2.° De los procedimientos penales iniciados en el extranjero, de la ejecución de las sentencias dictadas por Tribunales extranjeros o del cumplimiento de pena de prisión impuesta por Tribunales extranjeros, cuando en virtud de un tratado internacional corresponda a España la continuación de un procedimiento penal iniciado en el extranjero, la ejecución de una sentencia penal extranjera o el cumplimiento de una pena o medida de seguridad privativa de libertad, salvo en aquellos casos en que esta Ley atribuya alguna de estas competencias a otro órgano jurisdiccional penal.
 
 3.º De las cuestiones de cesión de jurisdicción en materia penal derivadas del cumplimiento de tratados internacionales en los que España sea parte.
 
@@ -27,6 +27,8 @@ En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su compete
 6.º De los recursos contra las resoluciones dictadas por los Juzgados Centrales de Vigilancia Penitenciaria de conformidad con lo previsto en la disposición adicional quinta.
 
 7.º De cualquier otro asunto que le atribuyan las leyes.
+
+> Se modifica el número 2º por el art. único.1 de la Ley Orgánica 2/2008, de 4 de diciembre. Ref. BOE-A-2008-19660.
 
 > Se renumera el número 6º como 7º y se añade un nuevo número 6º por el art. 1.1 de la Ley Orgánica 5/2003, de 27 de mayo. Ref. BOE-A-2003-10614
 
