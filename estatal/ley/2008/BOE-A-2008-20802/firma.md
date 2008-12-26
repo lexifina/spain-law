@@ -1,0 +1,11 @@
+Por tanto,
+
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+
+Madrid, 23 de diciembre de 2008.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno,
+
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

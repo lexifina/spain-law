@@ -1,0 +1,5 @@
+## Disposición final segunda. Modificación de la Ley 13/1985, de 25 de mayo, de coeficientes de inversión, recursos propios y obligaciones de información a los intermediarios financieros.
+
+Se modifica la redacción del apartado 3 de la Disposición adicional segunda que queda redactado de la siguiente forma:
+
+«3. La entidad de crédito dominante de un grupo o subgrupo consolidable de entidades de crédito tendrá la obligación de informar a la Administración tributaria y a las instituciones encargadas de la supervisión financiera, en la forma en que reglamentariamente se establezca, de las actividades realizadas por las filiales a que se refiere el párrafo a) del apartado 1 de esta disposición adicional y de la identidad de los contribuyentes del Impuesto sobre la Renta de las Personas Físicas y los sujetos pasivos del Impuesto sobre Sociedades, que sean titulares de los valores emitidos por aquéllas, así como los contribuyentes del Impuesto sobre la Renta de no Residentes que obtengan rentas procedentes de tales valores mediante establecimiento permanente situado en territorio español.»

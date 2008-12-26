@@ -1,5 +1,7 @@
-## DISPOSICIÓN TRANSITORIA
+## Disposición transitoria.
 
-Los sujetos pasivos no residentes en territorio español dispondrán de plazo hasta el 31 de diciembre de 1991 para designar y poner en conocimiento de la Administración el nombramiento debidamente acreditado del representante a que se refiere el artículo 6 de esta Ley.
+(Derogada)
 
-> Esta disposición entra en vigor el 8 de junio de 1991, según establece la disposición final 1.
+> Se deroga por el art. 3.2 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+
+> Esta modificación es aplicable a partir del 1 enero de 2008, según establece la disposición final 5.b).

@@ -6,11 +6,11 @@ Dos. La entidad dominante tendrá la representación del grupo ante la Administr
 
 Tres. Tanto la entidad dominante como cada una de las entidades dependientes deberán cumplir las obligaciones establecidas en el artículo 59 de esta Ley, excepción hecha del pago de la deuda tributaria o de la solicitud de compensación o devolución, debiendo procederse, a tal efecto, conforme a lo dispuesto en la obligación 2.ª del apartado siguiente.
 
-Cuatro. La entidad dominante, sin perjuicio del cumplimiento de sus obligaciones propias, y con los requisitos, límites, plazos y condiciones que se determinen reglamentariamente por el Gobierno de Canarias, será responsable del cumplimiento de las siguientes obligaciones:
+Cuatro. La entidad dominante, sin perjuicio del cumplimiento de sus obligaciones propias, y con los requisitos, límites, plazos y condiciones, que se determinen reglamentariamente por el Gobierno de Canarias, será responsable del cumplimiento de las siguientes obligaciones:
 
 1.ª Comunicar a la Administración tributaria canaria la siguiente información:
 
-a) El cumplimiento de los requisitos exigidos, la adopción de los acuerdos correspondientes y la opción por la aplicación del régimen especial a que se refieren los artículos 58 quater y quinquies de esta Ley.
+a) El cumplimiento de los requisitos exigidos, la adopción de los acuerdos correspondientes y la opción por la aplicación del régimen especial a que se refieren los artículos 58 quáter y quinquies de esta Ley.
 
 b) La relación de entidades del grupo que apliquen el régimen especial, identificando las entidades que motiven cualquier alteración en su composición respecto a la del año anterior, en su caso.
 
@@ -18,15 +18,13 @@ c) La renuncia al régimen especial, que deberá ejercitarse durante el mes de d
 
 d) La opción que se establece en el artículo 58 quinquies.cinco de esta Ley.
 
-2.ª Presentar las declaraciones-liquidaciones periódicas agregadas del grupo de entidades, procediendo, en su caso, al ingreso de la deuda tributaria o a la solicitud de compensación o devolución que proceda. Dichas declaraciones-liquidaciones agregadas integrarán los resultados de las declaraciones-liquidaciones individuales de las entidades que apliquen el régimen especial del grupo de entidades.
+2.ª Presentar las autoliquidaciones periódicas agregadas del grupo de entidades, procediendo, en su caso, al ingreso de la deuda tributaria o a la solicitud de compensación o devolución que proceda. Dichas autoliquidaciones agregadas integrarán los resultados de las autoliquidaciones individuales de las entidades que apliquen el régimen especial del grupo de entidades.
 
-Las declaraciones-liquidaciones periódicas agregadas del grupo de entidades deberán presentarse una vez presentadas las declaraciones-liquidaciones periódicas individuales de cada una de las entidades que apliquen el régimen especial del grupo de entidades.
+Las autoliquidaciones periódicas agregadas del grupo de entidades deberán presentarse una vez presentadas las autoliquidaciones periódicas individuales de cada una de las entidades que apliquen el régimen especial del grupo de entidades.
 
 El período de liquidación de las entidades que apliquen el régimen especial del grupo de entidades será determinado por el Gobierno de Canarias.
 
-Cuando, para un período de liquidación, la cuantía total de los saldos a compensar a favor de las entidades que apliquen el régimen especial del grupo de entidades supere el importe de los saldos a ingresar del resto de entidades que apliquen el régimen especial del grupo de entidades para el mismo período de liquidación, el exceso podrá ser compensado en las declaraciones-liquidaciones agregadas que presenten con posterioridad, siempre que no hubiesen transcurrido cuatro años contados a partir de la presentación de la declaración-liquidación individual en que se origine dicho exceso.
-
-No obstante, el grupo de entidades podrá optar por la devolución del saldo existente a su favor cuando resulte procedente en virtud de lo dispuesto en el Capítulo II del Título II de esta Ley, sin que en tal caso pueda efectuar su compensación en declaraciones-liquidaciones agregadas posteriores, cualquiera que sea el período de tiempo transcurrido hasta que dicha devolución se haga efectiva. A los empresarios o profesionales que opten por aplicar el régimen del grupo no les será de aplicación lo dispuesto por los artículos 45.dos y 46 de esta Ley.
+Cuando, para un período de liquidación, la cuantía total de los saldos a devolver a favor de las entidades que apliquen el régimen especial del grupo de entidades supere el importe de los saldos a ingresar del resto de entidades que apliquen el régimen especial del grupo de entidades para el mismo período de liquidación, se podrá solicitar la devolución del exceso, siempre que no hubiesen transcurrido cuatro años contados a partir de la presentación de las autoliquidaciones individuales en que se originó dicho exceso. Esta devolución se practicará en los términos dispuestos en el número tres del artículo 45 de esta Ley. En tal caso, no procederá la compensación de dichos saldos a devolver en autoliquidaciones agregadas posteriores, cualquiera que sea el período de tiempo transcurrido hasta que dicha devolución se haga efectiva.
 
 En caso de que deje de aplicarse el régimen especial del grupo de entidades y queden cantidades pendientes de compensación para las entidades integradas en el grupo, estas cantidades se imputarán a dichas entidades en proporción al volumen de operaciones del último año natural en que el régimen especial hubiera sido de aplicación, aplicando a tal efecto lo dispuesto en el artículo 51 de esta Ley.
 
@@ -59,6 +57,8 @@ Las actuaciones de comprobación o investigación realizadas a cualquier entidad
 Las actas y liquidaciones que deriven de la comprobación de este régimen especial se extenderán a la entidad dominante.
 
 Se entenderá que concurre la circunstancia de especial complejidad prevista en el artículo 150.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, cuando se aplique este régimen especial.
+
+> Se modifica el apartado 4 por el art. 6.15 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
 
 > Se añade por la disposición final 1.5 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
 

@@ -10,25 +10,23 @@ Cuatro. La entidad dominante, sin perjuicio del cumplimiento de sus obligaciones
 
 1.ª Comunicar a la Administración tributaria la siguiente información:
 
-a) El cumplimiento de los requisitos exigidos, la adopción de los acuerdos correspondientes y la opción por la aplicación del régimen especial a que se refieren los artículos 163 quinquies y sexies de esta Ley. Toda esta información deberá presentarse antes del inicio del año natural en el que se vaya a aplicar el régimen especial.
+a) El cumplimiento de los requisitos exigidos, la adopción de los acuerdos correspondientes y la opción por la aplicación del régimen especial a que se refieren los artículos 163 quinquies y sexies de esta Ley. Toda esta información deberá presentarse en el mes de diciembre anterior al inicio del año natural en el que se vaya a aplicar el régimen especial.
 
 b) La relación de entidades del grupo que apliquen el régimen especial, identificando las entidades que motiven cualquier alteración en su composición respecto a la del año anterior, en su caso. Esta información deberá comunicarse durante el mes de diciembre de cada año natural respecto al siguiente.
 
 c) La renuncia al régimen especial, que deberá ejercitarse durante el mes de diciembre anterior al inicio del año natural en que deba surtir efecto, tanto en lo relativo a la renuncia del total de entidades que apliquen el régimen especial como en cuanto a las renuncias individuales.
 
-d) La opción que se establece en el artículo 163 sexies.cinco de esta Ley, que deberá ejercitarse durante el mes de diciembre anterior al inicio del año natural en que deba surtir efecto.
+d) La opción que se establece en el artículo 163 sexies.cinco de esta Ley, que deberá comunicarse durante el mes de diciembre anterior al inicio del año natural en que deba surtir efecto.
 
-2.ª Presentar las declaraciones-liquidaciones periódicas agregadas del grupo de entidades, procediendo, en su caso, al ingreso de la deuda tributaria o a la solicitud de compensación o devolución que proceda. Dichas declaraciones-liquidaciones agregadas integrarán los resultados de las declaraciones-liquidaciones individuales de las entidades que apliquen el régimen especial del grupo de entidades.
+2.ª Presentar las autoliquidaciones periódicas agregadas del grupo de entidades, procediendo, en su caso, al ingreso de la deuda tributaria o a la solicitud de compensación o devolución que proceda. Dichas autoliquidaciones agregadas integrarán los resultados de las autoliquidaciones individuales de las entidades que apliquen el régimen especial del grupo de entidades.
 
-Las declaraciones-liquidaciones periódicas agregadas del grupo de entidades deberán presentarse una vez presentadas las declaraciones-liquidaciones periódicas individuales de cada una de las entidades que apliquen el régimen especial del grupo de entidades.
+Las autoliquidaciones periódicas agregadas del grupo de entidades deberán presentarse una vez presentadas las autoliquidaciones periódicas individuales de cada una de las entidades que apliquen el régimen especial del grupo de entidades.
 
 El período de liquidación de las entidades que apliquen el régimen especial del grupo de entidades coincidirá con el mes natural, con independencia de su volumen de operaciones.
 
-Cuando, para un período de liquidación, la cuantía total de los saldos a compensar a favor de las entidades que apliquen el régimen especial del grupo de entidades supere el importe de los saldos a ingresar del resto de entidades que apliquen el régimen especial del grupo de entidades para el mismo período de liquidación, el exceso podrá ser compensado en las declaraciones-liquidaciones agregadas que presenten con posterioridad, siempre que no hubiesen transcurrido cuatro años contados a partir de la presentación de las declaraciones-liquidaciones individuales en que se origine dicho exceso.
+Cuando, para un período de liquidación, la cuantía total de los saldos a devolver a favor de las entidades que apliquen el régimen especial del grupo de entidades supere el importe de los saldos a ingresar del resto de entidades que apliquen el régimen especial del grupo de entidades para el mismo período de liquidación, se podrá solicitar la devolución del exceso, siempre que no hubiesen transcurrido cuatro años contados a partir de la presentación de las autoliquidaciones individuales en que se originó dicho exceso. Esta devolución se practicará en los términos dispuestos en el apartado tres del artículo 115 de esta Ley. En tal caso, no procederá la compensación de dichos saldos a devolver en autoliquidaciones agregadas posteriores, cualquiera que sea el período de tiempo transcurrido hasta que dicha devolución se haga efectiva.
 
-No obstante, el grupo de entidades podrá optar por la devolución del saldo existente a su favor cuando resulte procedente en virtud de lo dispuesto en el Capítulo II del Título VIII de esta Ley, sin que en tal caso pueda efectuar su compensación en declaraciones-liquidaciones agregadas posteriores, cualquiera que sea el período de tiempo transcurrido hasta que dicha devolución se haga efectiva. A los empresarios o profesionales que opten por aplicar el régimen del grupo no les será de aplicación lo dispuesto por los artículos 115.dos y 116 de esta Ley.
-
-En caso de que deje de aplicarse el régimen especial del grupo de entidades y queden cantidades pendientes de compensación para las entidades integradas en el grupo, estas cantidades se imputarán a dichas entidades en proporción al volumen de operaciones del último año natural en que el régimen especial hubiera sido de aplicación, aplicando a tal efecto lo dispuesto en el artículo 121 de esta Ley.
+En caso de que deje de aplicarse el régimen especial del grupo de entidades y queden cantidades pendientes de devolución o compensación para las entidades integradas en el grupo, estas cantidades se imputarán a dichas entidades en proporción al volumen de operaciones del último año natural en que el régimen especial hubiera sido de aplicación, aplicando a tal efecto lo dispuesto en el artículo 121 de esta Ley.
 
 3.ª Disponer de un sistema de información analítica basado en criterios razonables de imputación de los bienes y servicios utilizados directa o indirectamente, total o parcialmente, en la realización de las operaciones a que se refiere el artículo 163 octies.uno de esta Ley. Este sistema deberá reflejar la utilización sucesiva de dichos bienes y servicios hasta su aplicación final fuera del grupo.
 
@@ -59,5 +57,9 @@ Las actuaciones de comprobación o investigación realizadas a cualquier entidad
 Las actas y liquidaciones que deriven de la comprobación de este régimen especial se extenderán a la entidad dominante.
 
 Se entenderá que concurre la circunstancia de especial complejidad prevista en el artículo 150.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, cuando se aplique este régimen especial.
+
+> Se modifica el apartado 4 por el art. 5.11 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+
+> Aplicable a los periodos de liquidación que se inicien desde el 1 de enero de 2009, según establece la disposición final 5.d).
 
 > Se añade por el art. 3.5 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.

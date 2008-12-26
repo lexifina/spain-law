@@ -1,0 +1,7 @@
+## Disposición transitoria vigésimo novena. Cálculo para el período impositivo 2008 de las correcciones de valor de participaciones en el capital de otras entidades.
+
+Con efectos exclusivos para el primer período impositivo que se inicie a partir de 1 de enero de 2008, para determinar la base imponible de dicho período se podrá deducir, sin necesidad de imputación contable en la cuenta de pérdidas y ganancias, la diferencia positiva que resulte de aplicar lo establecido en el apartado 3 del artículo 12 de esta Ley, para lo cual se computarán los fondos propios al inicio del ejercicio en el que se adquirió la participación y los fondos propios al cierre del primer ejercicio iniciado en 2008, con el límite y demás condiciones establecidas en dicho precepto, siempre que la parte de esa diferencia imputable a períodos impositivos iniciados antes de dicha fecha se corresponda con provisiones fiscalmente deducibles en dichos períodos y que se abonen a cuentas de reservas con ocasión de la primera aplicación del Plan General de Contabilidad aprobado por el Real Decreto 1514/2007, de 16 de noviembre, o del Plan General de Contabilidad de Pequeñas y Medianas Empresas y los criterios contables específicos para microempresas, aprobado por el Real Decreto 1515/2007, de 16 de noviembre.
+
+> Se añade por el art. 1.16 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+
+> Esta modificación surte efectos para los períodos impositivos que se inicien a partir del 1 de enero de 2008, según establece la disposición final 5.a).

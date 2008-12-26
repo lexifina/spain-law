@@ -8,7 +8,9 @@
 
 4. No podrá interponerse recurso alguno contra los citados acuerdos, sin perjuicio de los recursos previstos contra el acto o actos administrativos que se dicten en aplicación de dichos acuerdos.
 
-5. 1.º En los procedimientos amistosos, el ingreso de la deuda quedará suspendido automáticamente a instancias del interesado cuando se garantice su importe, los intereses de demora que genere la suspensión y los recargos que pudieran proceder en el momento de la solicitud de la suspensión, en los términos que reglamentariamente se establezcan.
+5. Durante la tramitación de los procedimientos amistosos no se devengarán intereses de demora.
+
+6. 1.º En los procedimientos amistosos, el ingreso de la deuda quedará suspendido automáticamente a instancias del interesado cuando se garantice su importe y los recargos que pudieran proceder en el momento de la solicitud de la suspensión, en los términos que reglamentariamente se establezcan.
 
 No se podrá suspender el ingreso de la deuda, de acuerdo con lo previsto en el párrafo anterior, mientras se pueda solicitar la suspensión en vía administrativa o jurisdiccional.
 
@@ -19,6 +21,8 @@ a) Depósito de dinero o valores públicos.
 b) Aval o fianza de carácter solidario de entidad de crédito o sociedad de garantía recíproca o certificado de seguro de caución.
 
 3.º Si los procedimientos amistosos no se refieren a la totalidad de la deuda, la suspensión prevista en este apartado se limitará al importe afectado por los procedimientos amistosos.
+
+> Se modifica el apartado 5 y se añade el apartado 6 por el art. 2.3 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
 
 > Se añade por el art. 2.9 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
 

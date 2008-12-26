@@ -32,7 +32,7 @@ d) Las rentas derivadas de las participaciones preferentes obtenidas por sujetos
 
 e) Las operaciones derivadas de la emisión de participaciones preferentes estarán exentas de la modalidad de operaciones societarias del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
 
-3. La entidad de crédito dominante de un grupo o subgrupo consolidable de entidades de crédito tendrá la obligación de informar a la Administración tributaria y a las instituciones encargadas de la supervisión financiera, en la forma en que reglamentariamente se establezca, de las actividades realizadas por las filiales a que se refiere el párrafo a) del apartado 1 de esta disposición adicional y de la identidad de los titulares de los valores emitidos por aquéllas.
+3. La entidad de crédito dominante de un grupo o subgrupo consolidable de entidades de crédito tendrá la obligación de informar a la Administración tributaria y a las instituciones encargadas de la supervisión financiera, en la forma en que reglamentariamente se establezca, de las actividades realizadas por las filiales a que se refiere el párrafo a) del apartado 1 de esta disposición adicional y de la identidad de los contribuyentes del Impuesto sobre la Renta de las Personas Físicas y los sujetos pasivos del Impuesto sobre Sociedades, que sean titulares de los valores emitidos por aquéllas, así como los contribuyentes del Impuesto sobre la Renta de no Residentes que obtengan rentas procedentes de tales valores mediante establecimiento permanente situado en territorio español.
 
 4. Lo dispuesto en esta disposición adicional será igualmente aplicable en los supuestos en los que la entidad dominante a que se refiere el párrafo a) de su apartado 1 sea una entidad que se rija por el derecho de otro Estado.
 
@@ -41,6 +41,8 @@ e) Las operaciones derivadas de la emisión de participaciones preferentes estar
 6. Lo dispuesto en esta disposición adicional será aplicable, igualmente, a las participaciones preferentes o a otros instrumentos de deuda emitidos por entidades cotizadas que no sean de crédito o por una sociedad residente en España o en un territorio de la Unión Europea, que no tenga la consideración de paraíso fiscal, y cuyos derechos de voto correspondan en su totalidad, directa o indirectamente, a entidades cotizadas que no sean de crédito. En estos casos, para proceder a la amortización anticipada no será necesaria la autorización prevista en la letra f) del apartado 1, y no será de aplicación el límite establecido en la letra i) del mismo apartado 1.
 
 7. A las emisiones de instrumentos de deuda a las que se refieren los dos apartados precedentes no les será de aplicación la limitación impuesta, por razones de capital y de reservas, en los artículos 282 y 289 de la Ley de Sociedades Anónimas ni en relación con la sociedad emisora ni con la sociedad dominante garante de la emisión.
+
+> Se modifica el apartado 3 por la disposición final 2. de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
 
 > Se modifican los apartados 5 y 6 por la disposición final 2 de la Ley 23/2005, de 18 de noviembre. Ref. BOE-A-2005-19004
 
