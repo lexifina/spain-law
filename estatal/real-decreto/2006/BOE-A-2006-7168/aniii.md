@@ -30,7 +30,7 @@ Escuadrón de Vigilancia Aérea N.º 4, en Rosas (Gerona).
 
 Escuadrón de Vigilancia Aérea N.º 5, en Alcoy (Alicante).
 
-Escuadrón de Vigilancia Aérea N.º 7, en Sóller -Mallorca (Islas Baleares).
+Escuadrón de Vigilancia Aérea N.º 7, en Sóller (Mallorca).
 
 Escuadrón de Vigilancia Aérea N.º 9, en Motril (Granada).
 
@@ -104,9 +104,7 @@ Jefatura, en Madrid.
 
 Agrupación Base Aérea Torrejón de Ardoz (Madrid).
 
-Agrupación Base Aérea Zaragoza.
-
-Base Aérea Son San Juan, en Palma de Mallorca (Illes Balears).
+Agrupación Base Aérea Zaragoza. Agrupación Base Aérea Getafe (Madrid).
 
 Base Aérea de Villanubla, en Villanubla (Valladolid).
 
@@ -126,19 +124,19 @@ Fuerzas Auxiliares de Contribución a la Acción del Estado:
 
 Jefatura, en Madrid.
 
-Jefatura del Servicio de Búsqueda y Salvamento, en Torrejón de Ardoz (Madrid).
+Jefatura del Servicio de Búsqueda y Salvamento, en Madrid.
 
 Centro de Coordinación de Salvamento Madrid, en Torrejón de Ardoz (Madrid).
 
+Ala 37, en Villanubla (Valladolid).
+
 Ala 48, en Getafe (Madrid).
 
-Ala 37, en Villanubla (Valladolid).
+Ala 49, en Palma (Mallorca).
 
 43 Grupo, en Torrejón de Ardoz (Madrid).
 
 45 Grupo, en Torrejón de Ardoz (Madrid).
-
-801 Escuadrón, en Palma de Mallorca (Illes Balears).
 
 Fuerzas Auxiliares de Apoyo Operativo:
 
@@ -146,13 +144,9 @@ Jefatura, en Madrid.
 
 Centro Cartográfico y Fotográfico, en Getafe (Madrid).
 
-Centro de Material de Apoyo, en Getafe (Madrid).
-
-Grupo de Automóviles, en Getafe (Madrid).
-
 Acuartelamiento Aéreo de Málaga.
 
-Acuartelamiento Aéreo de Pollensa, en Pollensa-Mallorca (Illes Balears).
+Acuartelamiento Aéreo de Pollensa, en Pollensa (Mallorca).
 
 Acuartelamiento Aéreo Bobadilla (Málaga).
 
@@ -168,8 +162,10 @@ Ala 46 en Gando-Telde (Las Palmas).
 
 802 Escuadrón en Gando-Telde (Las Palmas).
 
-Aeródromo Militar Lanzarote, en San Bartolomé -Lanzarote (Las Palmas).
+Aeródromo Militar Lanzarote, en San Bartolomé-Lanzarote (Las Palmas).
 
 Sector Aéreo Tenerife, en Santa Cruz de Tenerife.
 
-> Se modifica por apartado único de la Orden DEF/448/2007, de 27 de febrero. Ref. BOE-A-2007-4371
+> Se modifica por el apartado único de la Orden DEF/3771/2008, de 10 de diciembre. Ref. BOE-A-2008-20818
+
+> Se modifica por el apartado único de la Orden DEF/448/2007, de 27 de febrero. Ref. BOE-A-2007-4371

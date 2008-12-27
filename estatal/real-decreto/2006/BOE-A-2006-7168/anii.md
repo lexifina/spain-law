@@ -2,45 +2,49 @@
 
 ## DESPLIEGUE DE LA FUERZA DE LA ARMADA
 
-## La Flota, en Rota (Cádiz)
+## FLOTA
 
 Cuartel General, en Rota (Cádiz).
 
-Estado Mayor.
+Órgano Auxiliar de Mando.
 
-Centro de Calificación Operativa para el Combate.
+Centros de Adiestramiento, Valoración y Certificación de la Flota.
 
-Centro de Programas Tácticos y de Instrucción y Adiestramiento.
+## Fuerza de Acción Naval
 
-Mando de Guerra Naval Especial.
+Cuartel General.
 
-Cuartel General Marítimo de Alta Disponibilidad, en Rota (Cádiz).
+Órgano Auxiliar de Mando. Grupo de Proyección, en Rota (Cádiz):
 
-Grupo de Proyección, en Rota (Cádiz):
-
-Estado Mayor.
+Órgano Auxiliar de Mando.
 
 Portaaviones «Príncipe de Asturias».
 
-Buque Anfibio «Galicia».
+Buque de Asalto Anfibio «Galicia».
 
-Buque Anfibio «Castilla».
+Buque de Asalto Anfibio «Castilla» (Buque con capacidad Cuartel General Marítimo).
 
-Buque de Proyección Estratégica.
+LHD «Juan Carlos I».
 
-Buque de Aprovisionamiento de Combate «Patiño», en Ferrol (La Coruña).
+LST «Pizarro».
 
-Buque de Aprovisionamiento de Combate «Cantabria».
+LST «Hernán Cortés».
 
-Grupo Naval de Playa, en Puntales (Cádiz).
+Buque de Aprovisionamiento de Combate «Patiño» (Ferrol, A Coruña).
 
-31.ª Escuadrilla de Escoltas, en Ferrol (La Coruña):
+Buque de Aprovisionamiento de Combate «Cantabria» (Ferrol, A Coruña).
 
-Jefatura de Órdenes.
+Petrolero de Flota ''Marqués de La Ensenada''.
 
-Fragata «Alvaro de Bazán».
+Grupo Naval de Playa.
 
-Fragata «Juan de Borbón».
+31.ª Escuadrilla de Escoltas, en Ferrol (A Coruña):
+
+Órgano Auxiliar de Mando.
+
+Fragata «Álvaro de Bazán».
+
+Fragata «Almirante Juan de Borbón».
 
 Fragata «Blas de Lezo».
 
@@ -48,11 +52,9 @@ Fragata «Méndez Núñez».
 
 Fragata (F-105).
 
-Fragata «Asturias».
+41.ª Escuadrilla de Escoltas, en Rota (Cádiz):
 
-41.ª Escuadrilla de escoltas, en Rota (Cádiz):
-
-Jefatura de Órdenes.
+Órgano Auxiliar de Mando.
 
 Fragata «Santa María».
 
@@ -68,97 +70,85 @@ Fragata «Canarias».
 
 Flotilla de Submarinos, en Cartagena (Murcia):
 
-Estado Mayor.
+Órgano Auxiliar de Mando.
 
-Base de Submarinos.
+Submarinos clase «Galerna».
 
-Órgano de Valoración y Adiestramiento.
-
-Submarino «Galerna».
-
-Submarino «Siroco».
-
-Submarino «Mistral».
-
-Submarino «Tramontana».
-
-Submarino S-81.
-
-Submarino S-82.
-
-Submarino S-83.
-
-Submarino S-84.
+Submarino clase S-80.
 
 Flotilla de Aeronaves, en Rota (Cádiz):
 
-Jefatura de Órdenes.
+Órgano Auxiliar de Mando.
 
-3.ª Escuadrilla.
+Escuadrillas.
 
-4.ª Escuadrilla.
-
-5.ª Escuadrilla.
-
-6.ª Escuadrilla.
-
-9.ª Escuadrilla.
-
-10.ª Escuadrilla.
-
-Equipo Naval en el Ala 11 del Ejército del Aire, en Morón (Sevilla).
-
-Fuerza de Medidas Contraminas, en Cartagena (Murcia):
-
-Jefatura de Órdenes.
-
-Organismo de Valoración y Adiestramiento.
-
-Cazaminas «Segura».
-
-Cazaminas «Sella».
-
-Cazaminas «Tambre».
-
-Cazaminas «Turia».
-
-Cazaminas «Duero».
-
-Cazaminas «Tajo».
-
-Unidad de Buceadores MCM.
-
-Buque de Mando y Apoyo en Operaciones MCM «Diana».
-
-## Fuerza de Infantería de Marina
-
-Tercio de Armada, en San Fernando (Cádiz):
+## Fuerza de Acción Marítima
 
 Cuartel General.
 
-Batallón de Desembarco I.
+Órgano Auxiliar de Mando.
 
-Batallón de Desembarco II.
+Fuerza de Medidas Contraminas, en Cartagena (Murcia):
 
-Grupo de Artillería de Desembarco.
+Órgano Auxiliar de Mando.
 
-Batallón Mecanizado III.
+Buque de Mando MCM «Diana».
 
-Grupo de Apoyo de Servicios de Combate.
+Buques MCM.
 
-Grupo de Armas Especiales.
+Centro de Buceo de la Armada, en Cartagena (Murcia):
 
-Unidad de Operaciones Especiales.
+Buque de Salvamento y Rescate «Neptuno».
+
+Instituto Hidrográfico de la Marina, en Cádiz:
+
+Buques Hidrográficos.
+
+Lanchas Hidrográficas Transportables.
+
+Buque Escuela «Juan Sebastián de Elcano», en San Fernando (Cádiz).
+
+Buque de Investigación Oceanográfica «Hespérides».
+
+Buque de Investigación Oceanográfica «Las Palmas».
+
+Transporte Ligero «Martín Posadillo».
+
+Transporte Ligero «El Camino Español».
+
+Buque Auxiliar «Alerta», en Cartagena (Murcia).
+
+Buques de Acción Marítima clase «Meteoro».
+
+Patrulleros clase «Descubierta».
+
+Patrulleros clase «Serviola».
+
+Patrulleros clase «Chilreu».
+
+Otros Buques de Acción Marítima.
+
+Comandancias Navales.
+
+Estaciones de vigilancia.
+
+## Fuerza de Infantería de Marina
+
+Cuartel General.
+
+Órgano Auxiliar de Mando.
+
+Tercio de Armada, en San Fernando (Cádiz):
+
+Brigada de Infantería de Marina.
 
 Unidad de Base.
 
-Fuerza de Protección:
+Fuerza de Protección, en Madrid:
 
-Órgano Auxiliar de Mando, en Madrid.
+Tercio del Norte, en Ferrol (A Coruña).
 
-Tercio del Norte, en Ferrol (La Coruña).
-
-Tercio del Sur, en San Fernando (Cádiz.)
+Tercio del Sur, en San Fernando (Cádiz).
 
 Tercio de Levante, en Cartagena (Murcia).
 
@@ -166,110 +156,8 @@ Unidad de Seguridad de Canarias, en Las Palmas de Gran Canaria (Las Palmas).
 
 Agrupación de Madrid.
 
-## Fuerza de Acción Marítima
+Fuerzas de Guerra Naval Especial, en Cartagena (Murcia).
 
-Cuartel General, en Cartagena (Murcia).
+El despliegue de unidades menores de la Flota, no incluidas en este anexo, será definido por el Jefe de Estado Mayor de la Armada de acuerdo con las necesidades operativas, de adiestramiento, y de apoyo logístico.
 
-Buques de Acción Marítima (en diversas bases).
-
-Buque Escuela «Juan Sebastián de Elcano», en San Fernando (Cádiz).
-
-Buque de Investigación Oceanográfica «Hespérides», en Cartagena (Murcia).
-
-Buque de Investigación Oceanográfica «Las Palmas», en Cartagena (Murcia).
-
-Transporte Ligero «Martín Posadillo», en Cartagena (Murcia).
-
-Transporte Ligero «El Camino Español», en Cartagena (Murcia).
-
-Buque Auxiliar «Alerta», en Cartagena (Murcia).
-
-Grupo Embarcable de Apoyo Técnico, en Cartagena (Murcia).
-
-Centro de Buceo de la Armada, en Cartagena (Murcia):
-
-Unidades Especiales de Buceadores.
-
-Buque de Salvamento y Rescate «Neptuno».
-
-Sector Naval de Baleares, en Palma de Mallorca (Islas Baleares):
-
-Jefatura.
-
-Tres Comandancias Navales:
-
-Instituto Hidrográfico de la Marina, en Cádiz:
-
-Buque Hidrográfico «Malaspina».
-
-Buque Hidrográfico «Tofiño».
-
-Lanchas Hidrográficas Transportables.
-
-Mando Naval de Canarias, en Las Palmas de Gran Canaria (Las Palmas):
-
-Cuartel General.
-
-Patrullero «Cazadora».
-
-Patrullero «Vencedora».
-
-Patrullero «Centinela».
-
-Patrullero «Arnomendi».
-
-Unidad de Buceo de Canarias.
-
-Una Comandancia y cinco Ayudantías Militares de Marina.
-
-Mando de Acción Marítima de Cádiz:
-
-Estado Mayor.
-
-Patrullero «Descubierta», en Cartagena (Murcia).
-
-Patrullero «Infanta Elena», en Cartagena (Murcia).
-
-Patrullero «Infanta Cristina», en Cartagena (Murcia).
-
-Patrullero «Tarifa», en Cartagena (Murcia).
-
-Patrullero «Vigía», en Cádiz.
-
-Patrullero «Alborán», en Cartagena (Murcia).
-
-Transporte Ligero «Contramaestre Casado», en San Fernando (Cádiz).
-
-Remolcador «La Graña», en San Fernando (Cádiz).
-
-Buque Auxiliar «Mar Caribe», en San Fernando (Cádiz).
-
-Aljibe «Condestable Zaragoza», en San Fernando (Cádiz).
-
-Aljibe «Marinero Jarano», en Cartagena (Murcia).
-
-Unidad de Buceo de Cádiz.
-
-Estación de Vigilancia de Ceuta.
-
-Estación de Vigilancia de Tarifa (Cádiz).
-
-Once Comandancias y un Destacamento Naval.
-
-Mando de Acción Marítima de Ferrol (La Coruña):
-
-Estado Mayor.
-
-Patrullero «Serviola».
-
-Patrullero «Atalaya».
-
-Patrullero «Chilreu».
-
-Remolcador «Mahón».
-
-Patrullero de Vigilancia Interior «Cabo Fradera», en Tuy (Pontevedra).
-
-Unidad de Buceo de Ferrol.
-
-Cinco Comandancias Navales.
+> Se modifica por el apartado único de la Orden DEF/3771/2008, de 10 de diciembre. Ref. BOE-A-2008-20818
