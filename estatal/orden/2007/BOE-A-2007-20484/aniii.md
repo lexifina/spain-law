@@ -1,9 +1,5 @@
 ## ANEXO III
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/286/20484_003.png)
+(Derogado)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/286/20484_004.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/286/20484_005.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/286/20484_006.png)
+> Se deroga, como consecuencia de la derogación de los arts. 3, 4 y 9, por la disposición derogatoria única.2 de la Orden EHA/3788/2008, de 29 de diciembre, que aprueba el modelo 039 de Comunicación de datos, relativa al Régimen especial del Grupo de Entidades en el Impuesto sobre el Valor Añadido. Ref. BOE-A-2008-20955#ddunica.
