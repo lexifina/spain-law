@@ -1,4 +1,4 @@
-## Tres. La Unidad Central de Coordinación en materia de Delitos contra la Hacienda Pública, la Unidad de Coordinación de Grupos y la Unidad Central de Auditoría Informática
+## Tres. La Unidad Central de Coordinación en materia de Delitos contra la Hacienda Pública y la Unidad de Coordinación de Grupos.
 
 1. La Unidad Central de Coordinación en materia de delitos contra la Hacienda Pública.
 
@@ -12,7 +12,7 @@ c) El Asesoramiento a los servicios de inspección a que se refiere el apartado 
 
 Las funciones de la Unidad Central de Coordinación en materia de delitos contra la Hacienda Pública se entienden sin perjuicio de las propias de los demás órganos a que se refiere el apartado Uno de esta Resolución.
 
-El Departamento de Inspección Financiera y Tributaria dictará instrucciones sobre asignación de tareas a los Subinspectores adscritos, con distintos niveles de responsabilidad, en atención a las diferentes categorías de puestos de trabajo que pueden ocupar.
+El Departamento de Inspección Financiera y Tributaria dictará instrucciones sobre asignación de tareas a los Técnicos de Hacienda adscritos, con distintos niveles de responsabilidad, en atención a las diferentes categorías de puestos de trabajo que pueden ocupar.
 
 2. La Unidad de Coordinación de Grupos.
 
@@ -22,21 +22,11 @@ a) La planificación de las actuaciones inspectoras que vayan a llevarse a cabo 
 
 b) La coordinación e impulso de las actuaciones que se practiquen cerca de tales contribuyentes, sin perjuicio de las funciones que en el mismo sentido correspondan a los restantes órganos, equipos y unidades de inspección.
 
-El Departamento de Inspección Financiera y Tributaria dictará instrucciones sobre la asignación de tareas a los Subinspectores adscritos, con distintos niveles de responsabilidad, en atención a las diferentes categorías de puestos de trabajo que pueden ocupar.
+El Departamento de Inspección Financiera y Tributaria dictará instrucciones sobre la asignación de tareas a los Técnicos de Hacienda adscritos, con distintos niveles de responsabilidad, en atención a las diferentes categorías de puestos de trabajo que pueden ocupar.
 
-3. Unidad Central de Auditoría Informática.
+3. (Suprimido).
 
-A la Unidad Central de Auditoría Informática le corresponden, principalmente, las siguientes funciones:
-
-a) Las de control y revisión, así como la de llevanza de los registros, a que se refiere la Orden EHA/962/2007 de 10 de abril por la que se desarrollan determinadas disposiciones sobre facturación telemática y conservación electrónica de facturas, contenidas en el Real Decreto 1496/2003, de 28 de noviembre, por el que se aprueba el reglamento por el que se regulan las obligaciones de facturación.
-
-b) Funciones de apoyo a los Equipos y Unidades de Inspección en sus actuaciones inspectoras, cuando así lo acuerde el Director del Departamento. Dichas funciones se referirán principalmente al examen de la documentación mencionada en el artículo 171 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, cuando la misma se encuentre en soportes informáticos, así como el tratamiento de la información allí contenida.
-
-c) El análisis y verificación de los sistemas y equipos informáticos mediante los que se lleve a cabo, total o parcialmente, la gestión de la actividad económica, de acuerdo con lo establecido en el artículo 173.5.f) del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos.
-
-En el desempeño de estas funciones la Unidad Central de Auditoría Informática tendrá cuantas facultades confiere el ordenamiento jurídico vigente a la inspección de los tributos.
-
-Las funciones de la Unidad Central de Auditoría Informática se entienden sin perjuicio de las propias de los demás órganos a que se refiere el apartado Uno de esta Resolución.
+> Se modifican el título y determinados términos y se suprime el punto 3 por los apartados 3 y 9 de la Resolución de 26 de noviembre de 2008. Ref. BOE-A-2008-20956.
 
 > Se modifica y se añade el punto 3 por el apartado 3 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22252.
 

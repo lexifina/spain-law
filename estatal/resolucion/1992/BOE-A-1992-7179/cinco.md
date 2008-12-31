@@ -2,7 +2,7 @@
 
 1. Tienen la consideración de Inspector Jefe:
 
-a) El Jefe y los Inspectores Jefes Adjuntos de la Oficina Nacional de Investigación del Fraude.
+a) El Jefe, el Jefe Adjunto, los Jefes de Área, los Jefes Adjuntos de Área y el Jefe del Equipo Central de Información de la Oficina Nacional de Investigación del Fraude.
 
 b) El Jefe de la Dependencia Regional de Inspección, los Inspectores Regionales Adjuntos, los Inspectores Coordinadores y el Jefe de la Oficina Técnica, en cuanto a dicha Dependencia.
 
@@ -30,11 +30,13 @@ h) Cualesquiera otras competencias y funciones que les atribuya la normativa leg
 
 a) El Director del Departamento de Inspección Financiera y Tributaria designará al sustituto del Jefe de la Oficina Nacional de Investigación del Fraude.
 
-b) El Jefe de la Oficina Nacional de Investigación del Fraude designará al sustituto de sus Inspectores Jefes Adjuntos.
+b) El Jefe de la Oficina Nacional de Investigación del Fraude designará al sustituto del Jefe Adjunto, de los Jefes de Áreas y Jefes Adjuntos de Áreas y del Jefe del Equipo Central de Información de la Oficina.
 
 c) El Delegado Especial de la Agencia Tributaria designará al sustituto del Jefe de la Dependencia Regional de Inspección.
 
 d) El Jefe de la Dependencia Regional de Inspección designará al sustituto de los Inspectores Regionales Adjuntos, de los Inspectores Coordinadores y del Jefe de la Oficina Técnica.
+
+> Se modifican los puntos 1.a) y 3.b) por los apartados 5 y 6 de la Resolución de 26 de noviembre de 2008. Ref. BOE-A-2008-20956.
 
 > Se renumera y se modifica por el apartado 6 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22252.
 

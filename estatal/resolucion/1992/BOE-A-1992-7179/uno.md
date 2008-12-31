@@ -2,13 +2,15 @@
 
 1. Las funciones o atribuciones propias de la Inspección de los Tributos, en el ámbito de la competencia del Departamento de Inspección Financiera y Tributaria de la Agencia Estatal de Administración Tributaria, serán ejercidas por los siguientes órganos:
 
-a) En la esfera central y respecto de todo el territorio nacional, por la Oficina Nacional de Investigación del Fraude, la Unidad Central de Coordinación en materia de Delitos contra la Hacienda Pública, la Unidad de Coordinación de Grupos y la Unidad Central de Auditoría Informática, que dependerán directamente del Director del Departamento.
+a) En la esfera central y respecto de todo el territorio nacional, por la Oficina Nacional de Investigación del Fraude, la Unidad Central de Coordinación en materia de Delitos contra la Hacienda Pública y la Unidad de Coordinación de Grupos, que dependerán directamente del Director del Departamento.
 
 b) En la esfera de la Administración territorial de la Agencia Estatal de Administración Tributaria por las Dependencias Regionales de Inspección, respecto de la demarcación territorial de cada Delegación Especial de la Agencia.
 
 Los citados órganos de Inspección de los Tributos en la Administración territorial ejercerán sus competencias sin perjuicio de las que tienen atribuidas los Delegados Especiales, Delegados y Administradores de la Agencia en relación con la superior jefatura y coordinación entre las distintas áreas de las Delegaciones Especiales, Delegaciones y Administraciones de la Agencia, respectivamente.
 
 2. A los efectos de lo dispuesto en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos y de lo dispuesto en esta Resolución, tendrán la consideración de órganos de inspección tributaria todos los órganos a los que se refiere el número 1 anterior así como las unidades integradas en los mismos.
+
+> Se modifica el punto 1.a) por el apartado 1 de la Resolución de 26 de noviembre de 2008. Ref. BOE-A-2008-20956.
 
 > Se modifica por el apartado 1 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22252.
 
