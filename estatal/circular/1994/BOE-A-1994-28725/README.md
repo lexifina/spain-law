@@ -14,6 +14,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección primera](sprimera.md)
 - [Norma 1](norma1.md)
 - [Sección segunda](ssegunda.md)
+- [Normas 2 a la 8](normas2ala8.md)
 - [Norma 2](norma2.md)
 - [Norma 3](norma3.md)
 - [Norma 4](norma4.md)
