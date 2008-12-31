@@ -27,6 +27,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Norma 10](norma10.md)
 - [Norma 11](norma11.md)
 - [Sección cuarta](scuaa.md)
+- [Normas 12 a 14](normas12a14.md)
 - [Norma 12](norma12.md)
 - [Norma 13](norma13.md)
 - [Norma 14](norma14.md)

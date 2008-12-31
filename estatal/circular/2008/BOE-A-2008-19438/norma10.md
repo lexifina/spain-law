@@ -1,0 +1,9 @@
+## Norma 10.ª Coeficientes de diversificación.
+
+1. Adquisición de un inmueble o derecho: Para el cálculo del numerador del coeficiente del 35% establecido a la adquisición de un inmueble o derecho en el artículo 61.1 del Reglamento de IIC, se utilizará el valor de tasación previa a la compra, o el efectivamente pagado o comprometido cuando sea superior al de tasación, de los inmuebles que subyacen en el contrato.
+
+Cuando se adquiera una nueva unidad funcional en un mes posterior a la adquisición de otras unidades integrantes del mismo edificio, al numerador se le deberá añadir el valor razonable de las partes adquiridas con anterioridad. En el caso de que se trate de opciones, compromisos de compra o inmuebles en fase de construcción al numerador se le añadirá el importe comprometido o precio total pactado, si no se hubiese realizado aún la primera tasación periódica, o el valor de tasación del inmueble que subyace en el contrato cuando exista una tasación periódica.
+
+2. Inmuebles y derechos arrendados a un mismo grupo: Para el cumplimiento del coeficiente del 35% establecido a los bienes inmuebles arrendados a entidades de un mismo grupo en el artículo 61.3 del Reglamento de IIC como numerador se utilizará el valor razonable de los inmuebles o derechos en el mes de inicio o renovación del contrato de arrendamiento, de la totalidad de inmuebles en propiedad de la institución arrendadas a personas o entidades pertenecientes al mismo grupo. Para el concepto de grupo será de aplicación el artículo 4 de la Ley 24/1998, de 28 de julio, del Mercado de Valores.
+
+El importe de las inversiones indirectas a considerar será el valor razonable de los inmuebles o derechos arrendados a un mismo grupo multiplicado por el porcentaje de participación de la IIC en la sociedad o entidad de arrendamiento.

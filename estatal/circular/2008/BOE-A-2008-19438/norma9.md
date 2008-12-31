@@ -1,0 +1,7 @@
+## Norma 9.ª Coeficiente de inversión en inmuebles.
+
+1. El numerador del coeficiente lo formará la suma, para el conjunto de los meses del año para el cual se realiza el cálculo, del valor estimado de realización de la cartera de inversiones inmobiliarias, incluido los anticipos o entregas a cuenta, indemnizaciones a arrendatarios y las inversiones adicionales, complementarias o rehabilitaciones en curso.
+
+En la suma anterior, las inversiones en inmuebles en fase de construcción y compromisos de compra a plazo se tendrán en cuenta por el precio total de adquisición pactado o el importe comprometido, según corresponda y si no se hubiese realizado una tasación periódica, o por el valor de tasación del inmueble que subyace en el contrato, cuando exista una tasación periódica. En el caso de los compromisos de compra a plazo, este cómputo sólo se podrá aplicar cuando la inversión cuente con la autorización o licencia para edificar, si el subyacente es una compra sobre plano o inmueble en fase de construcción, y las posibles cláusulas que se establezcan en el contrato indiquen una probabilidad razonable de ser ejecutado.
+
+2. Como denominador se utilizará la suma del patrimonio de cada mes del ejercicio que se trate, sin que se considere en cada uno de esos importes, si la sociedad gestora o los administradores de la sociedad de inversión así lo deciden, las aportaciones netas realizadas por los partícipes o las ampliaciones de capital desembolsadas por los accionistas en los 24 meses precedentes a cada uno de los meses considerados en su cálculo.
