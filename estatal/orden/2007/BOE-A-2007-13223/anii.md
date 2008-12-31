@@ -15,9 +15,9 @@
 | 218 | IS E IRNR PAGO FRACCIONADO GRANDES EMPRESAS | 1P,2P,3P |
 | 220 | IS. REGIMEN GRUPOS FISCALES | 0A |
 | 222 | IS. PAGO FRACCIONADO GRUPOS FISCALES | 1P,2P,3P |
-| 320 | I.V.A. GRANDES EMPRESAS | M |
-| 330 | I.V.A. EXPORTADORES | M-T |
-| 332 | I.V.A. EXPORTADORES. GRANDES EMPRESAS | M |
+| 320 | (Suprimido) | (Suprimido) |
+| 330 | (Suprimido) | (Suprimido) |
+| 332 | (Suprimido) | (Suprimido) |
 | 353 | GRUPO DE ENTIDADES. AUTOLIQUIDACIÓN MENSUAL. | M |
 | 430 | IMPUESTO SOBRE LAS PRIMAS DE SEGUROS | M |
 | 559 | IMPUESTO SOBRE EL ALCOHOL Y BEBIDAS DERIVADAS. RÉGIMEN DE DESTILACIÓN ARTESANAL Y COSECHERO | 0A-M-T |
@@ -30,5 +30,9 @@
 | 569 | I. VENTAS MINORISTAS DE HIDROCARBUROS | T |
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se suprimen los modelos 320, 330 y 332 por la disposición final 4.3 de la Orden EHA/3786/2008, de 29 de diciembre. Ref. BOE-A-2008-20953.
+
+> Esta modificación es aplicable a partir del 1 de enero de 2009, según establece la disposición final 5.
 
 > Se modifica por la disposición adicional única de la Orden EHA/3434/2007, de 23 de noviembre. Ref. BOE-A-2007-20484.

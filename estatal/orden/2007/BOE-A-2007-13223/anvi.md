@@ -11,8 +11,10 @@
 | 225 | Devolución Impuesto sobre Sociedades Patrimoniales. | 0A |
 | 300 | Devolución IVA régimen general (una vez al año). | 0A (4T) |
 | 311 | Devolución IVA régimen simplificado-declaración final (una vez al año). | 0A (4T) |
-| 320 | Devolución IVA grandes empresas (una vez al año). | 0A (12) |
+| 320 | (Suprimido) | (Suprimido) |
 | 371 | Devolución IVA régimen general y simplificado-declaración final (una vez al año). | 0A (4T) |
+
+> Se suprime el modelo 320 por la disposición final 4.4 de la Orden EHA/3786/2008, de 29 de diciembre. Ref. BOE-A-2008-20953.
 
 > Se modifica por la disposición final 3 de la Orden EHA/1420/2008, de 22 de mayo. Ref. BOE-A-2008-9042.
 

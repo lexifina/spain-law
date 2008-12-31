@@ -24,7 +24,8 @@
 | 214 | IP E IR NO RESIDENTES. DECLA. SIMPLIFICADA | 0A |
 | 215 | IR NO RESIDENTES SIN EST. PERMANENTE.- DECLA COLECTIVA | T |
 | 225 | IS SOCIEDADES PATRIMONIALES | 0A |
-| 300 | I.V.A. DECLARACIÓN TRIMESTRAL | T |
+| 300 | (Suprimido) | (Suprimido) |
+| 303 | IMPUESTO SOBRE EL VALOR AÑADIDO. AUTOLIQUIDACIÓN. | M-T |
 | 309 | IVA DECL. LIQUID. NO PERIÓDICA | 1T,2T,3T,4T y 0A |
 | 310 | I.V.A. REG. SIMPLIFICADO | 1T,2T,3T |
 | 311 | IVA REG. SIMPLIFICADO. DECLA.-LIQUIDACIÓN FINAL | 4T |
@@ -51,3 +52,7 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se modifica por la disposición final 4.1 y 2 de la Orden EHA/3786/2008, de 29 de diciembre. Ref. BOE-A-2008-20953.
+
+> Esta modificación es aplicable a partir del 1 de enero de 2009, según establece la disposición final 5.
