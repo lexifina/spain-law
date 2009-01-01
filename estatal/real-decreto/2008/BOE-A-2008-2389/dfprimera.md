@@ -1,0 +1,3 @@
+## Disposición final primera. Habilitación normativa.
+
+Se autoriza al Ministro de la Presidencia para que dicte cuantas disposiciones sean necesarias para el desarrollo y ejecución de lo previsto en este real decreto, y en particular para el establecimiento de las garantías y especificaciones con arreglo a las cuales los originales destinados a la publicación en el «Boletín Oficial del Estado» podrán remitirse a través de medios electrónicos, informáticos y telemáticos, así como para el establecimiento de los modelos electrónicos que deban emplearse para la remisión telemática de los originales de disposiciones o actos que deban ser insertados en el «Boletín Oficial del Estado».
