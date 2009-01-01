@@ -1,0 +1,3 @@
+## Disposición adicional sexagésima octava. Pensiones indemnizatorias de los Consejeros Permanentes de Estado.
+
+Los Consejeros Permanentes de Estado causarán en su propio favor derecho a la pensión indemnizatoria establecida en la norma primera del número 5 del artículo 10 de la Ley 74/1980, de 29 de diciembre, si se declarase su incapacidad permanente en los términos que establece el artículo 32.1 del Reglamento Orgánico del Consejo de Estado, aprobado por el Real Decreto 1674/1980, de 18 de julio. También la causarán aquellos que renunciaren al cargo cuando lo hubieren desempeñado durante un mínimo de cinco años y tuvieren al menos ochenta años de edad.

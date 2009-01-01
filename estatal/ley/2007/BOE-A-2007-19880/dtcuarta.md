@@ -24,9 +24,15 @@ Las convocatorias al curso de adaptación deberán realizarse a partir del 30 de
 
 Los componentes de dichas escalas que no superen el curso permanecerán en su escala de origen con los efectos previstos en el apartado 16 para los que hubieran renunciado a la incorporación.
 
+Los componentes de dichas escalas que superen el curso, en el momento de su incorporación efectiva a las nuevas escalas, tendrán el reconocimiento académico equivalente al título de grado universitario.
+
 c) Los coroneles de las escalas superiores de oficiales de los cuerpos generales se incorporarán a las nuevas escalas de oficiales de los cuerpos generales correspondientes el día 1 de julio del año 2009, según su empleo y antigüedad.
 
-d) Los tenientes coroneles, los comandantes y los capitanes de las escalas superiores de oficiales y de las escalas de oficiales de los cuerpos generales y de especialistas de los Ejércitos se ordenarán para incorporarse a las nuevas escalas de oficiales de los cuerpos generales de cada Ejército por empleos de forma proporcional a los efectivos de cada empleo y de cada una de las procedencias. En esa ordenación se modificarán las fechas de antigüedad en el empleo de forma que se obtenga un listado decreciente de antigüedad y sin que a ninguno de los escalafonados se le asigne una menor de la que tuviera en su escala de procedencia.
+d) Los tenientes coroneles, los comandantes y los capitanes de las escalas superiores de oficiales y de las escalas de oficiales de los cuerpos generales y de especialistas de los Ejércitos se ordenarán para incorporarse a las nuevas escalas de oficiales de los cuerpos generales de cada Ejército por empleos de forma proporcional a los efectivos de cada empleo y de cada una de las procedencias.
+
+En el caso de los capitanes/tenientes de navío de la Armada, incluidos los del apartado 10, y del Ejército del Aire se hará formando conjuntos, de mayor a menor antigüedad, con quienes hayan ascendido a ese empleo en cada periodo del 1 de julio de un año al 30 de junio del siguiente. La ordenación se efectuará de forma proporcional a los efectivos de las distintas procedencias en cada conjunto.
+
+Efectuadas las ordenaciones se modificarán las fechas de antigüedad en el empleo de forma que se obtenga un listado decreciente de antigüedad y sin que a ninguno de los escalafonados se le asigne una menor de la que tuviere en su escala de procedencia.
 
 La incorporación de los procedentes de las escalas superiores de oficiales se hará efectiva el 1 de julio del año 2009 y la de los procedentes de las escalas de oficiales de los cuerpos generales y de especialistas el 1 de julio de cada año, a partir del 2009, cuando se tenga superado el curso de adaptación al que se refiere esta disposición. En todo caso, se materializará en la posición derivada de la ordenación del párrafo anterior.
 
@@ -97,3 +103,5 @@ El ascenso a teniente se producirá por antigüedad al cumplir tres años de tie
 En las relaciones de puestos militares se especificarán aquellos que puedan ser ocupados por personal de estas escalas a extinguir de oficiales.
 
 El pase a la situación de reserva de este personal se producirá al cumplir la edad prevista en el artículo 113.4; en los cupos regulados en el artículo 113.3, tanto de forma voluntaria o anuente como con carácter forzoso entre los de mayor antigüedad en el empleo correspondiente, y por cumplir treinta y tres años desde la obtención de la condición de militar de carrera según lo previsto en la disposición transitoria octava, apartado 4. Este último supuesto no será de aplicación a los tenientes coroneles que pasarán a la reserva al cumplir seis años de permanencia en el empleo, si bien los que al corresponderles pasar a esta situación cuenten con menos de cincuenta y seis años de edad, lo harán en la fecha que cumplan dicha edad.
+
+> Se modifica el primer párrafo del apartado 7.d) y se añade el último del 7.b) por la disposición adicional 15.b) y c) de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744.

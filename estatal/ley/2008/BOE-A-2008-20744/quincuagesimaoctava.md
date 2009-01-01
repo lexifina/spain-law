@@ -1,0 +1,3 @@
+## Disposición adicional quincuagésima octava. Generación de crédito para la financiación de medidas de reestructuración del sector lácteo.
+
+Los ingresos en el Tesoro procedentes de la venta de la cuota láctea de la Reserva Nacional, en particular a través del Fondo Nacional coordinado o del Banco Nacional coordinado de Agricultura, Pesca y Alimentación, podrán generar crédito en la Sección 23 «Ministerio del Medio Ambiente y Medio Rural y Marino», Servicio 12 «Dirección General de Recursos Agrícolas y Ganaderos», Programa 412B «Competitividad y calidad de la producción ganadera», Concepto 755.03 «Plan de ordenación y competitividad del sector lácteo» para atender la financiación de medidas de reestructuración del sector lácteo.
