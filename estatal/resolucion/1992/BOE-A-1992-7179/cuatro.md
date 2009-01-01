@@ -68,45 +68,51 @@ Será el domicilio fiscal que el obligado tributario tenga al iniciarse las actu
 
 4. Área de Inspección.
 
-4.1 Funciones.
-
-Las actuaciones de comprobación e investigación atribuidas a las Dependencias Regionales de Inspección serán desarrolladas, con carácter general, por los Equipos y Unidades del Área de Inspección. Estos Equipos y Unidades podrán realizar otras actuaciones inspectoras, de informe o de propuesta.
+4.1 Funciones. Las actuaciones de comprobación e investigación atribuidas a las Dependencias Regionales de Inspección serán desarrolladas, con carácter general, por los Equipos y Unidades del Área de Inspección. Estos Equipos y Unidades podrán asimismo realizar otras actuaciones inspectoras.
 
 4.2 Estructura y distribución de competencias.
 
-El Área de Inspección podrá estar integrada por Equipos y Unidades que se configurarán de acuerdo con alguna de las siguientes modalidades:
+4.2.1 Estructura.-El Área de Inspección estará integrada por los Equipos y Unidades de Inspección que se estimen convenientes.
 
-Equipos Regionales de Inspección.
+Los Equipos de Inspección, estarán dirigidos por un Jefe de Equipo, Inspector de Hacienda, conforme a las instrucciones que, en su caso, dicte el Director General de la Agencia Tributaría, y podrán estar integrados por Inspectores de Hacienda, Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine por el Jefe de la Dependencia Regional.
 
-Unidades Regionales de Inspección.
+Podrán constituirse, por acuerdo del Director del Departamento de Inspección Financiera y Tributaria y a propuesta del Delegado Especial afectado, Equipos de Inspección formados por el número de Técnicos de Hacienda que en cada caso se determine por el Jefe de la Dependencia Regional, cuya dirección corresponderá a un Inspector de Hacienda quién, por delegación del Inspector Jefe, podrá dictar los actos de liquidación e imponer las sanciones que procedan como consecuencia de las actuaciones realizadas por los miembros del Equipo.
 
-Equipos de Inspección.
+Las Unidades de Inspección estarán dirigidas por un Jefe de Unidad, Técnico de Hacienda, conforme a las instrucciones que, en su caso, dicte el Director General de la Agencia Tributaría, y podrán estar integradas por Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine por el Jefe de la Dependencia Regional.
 
-Unidades de Inspección.
+4.2.2 Distribución de competencias.
 
-4.2.1 Equipos Regionales de Inspección.
+A) Equipos de Inspección.-Los Equipos de Inspección, excepto los previstos en el tercer párrafo del número 4.2.1 anterior, podrán desarrollar sus actuaciones sobre todos los obligados tributarios a los que extienda su competencia la Dependencia Regional de Inspección de acuerdo con lo establecido en los números 2 y 3 de este apartado cuatro, si bien su ámbito de actuación preferente estará constituido por las actuaciones inspectoras de comprobación e investigación que revistan especial dificultad de acuerdo con lo establecido en el número 4.2.3 siguiente y las actuaciones relativas a obligados tributarios que desarrollen actividades económicas cuya cifra de negocios o, en su defecto, el volumen anual de operaciones declarado en cualquiera de los ejercicios comprobados supere 4.000.000 euros, tratándose de actuaciones de alcance general, o 5.700.000 euros, tratándose de actuaciones de alcance parcial.
 
-El ámbito de actuación de los Equipos Regionales de Inspección está constituido preferentemente por las actuaciones inspectoras de comprobación e investigación que revistan especial complejidad, tales como las que tuvieran por objeto entidades que tributen en régimen de consolidación fiscal, operaciones de concentración empresarial, grandes patrimonios o grupos económicos, así como actuaciones coordinadas de carácter vertical, sin perjuicio de que puedan desarrollar otras actuaciones que se les encomienden.
+Los Equipos previstos en el tercer párrafo del número 4.2.1 anterior sólo podrán desarrollar actuaciones inspectoras que no revistan especial dificultad de acuerdo con lo establecido en la letra A del número 4.2.3 siguiente, y que se refieran a obligados tributarios que no desarrollen actividades económicas o a obligados tributarios que, desarrollando este tipo de actividades, su cifra de negocios o, en su defecto, el volumen anual de operaciones declarado en cualquiera de los ejercicios comprobados no supere 2.500.000 euros, tratándose de actuaciones de alcance general, o 4.000.000 euros, tratándose de actuaciones de alcance parcial.
 
-Los Equipos Regionales de Inspección podrán estar integrados por el Jefe de Equipo, y los Inspectores adjuntos, Subinspectores, Agentes de la Hacienda Pública y demás personal, que en cada momento se determine por el Jefe de la Dependencia o sus Adjuntos.
+La distribución de los expedientes entre los Equipos del Área de Inspección se realizará por el Jefe de la Dependencia atendiendo a las instrucciones que, en su caso, dicte el Director General de la Agencia Tributaria.
 
-4.2.2 Unidades Regionales de Inspección.
+B) Unidades de Inspección.-Las Unidades de Inspección desarrollarán actuaciones inspectoras que no revistan especial dificultad de acuerdo con lo establecido en la letra A del número 4.2.3 siguiente, y que se refieran a obligados tributarios que no desarrollen actividades económicas o a obligados tributarios que, desarrollando este tipo de actividades, su cifra de negocios o, en su defecto, el volumen anual de operaciones declarado en cualquiera de los ejercicios comprobados no supere 4.000.000 euros, tratándose de actuaciones de alcance general, o 5.700.000 euros, tratándose de actuaciones de alcance parcial.
 
-El ámbito de actuación de las Unidades Regionales de Inspección está constituido preferentemente por las actuaciones inspectoras de comprobación e investigación relativas a personas o entidades pertenecientes a un determinado sector, subsector económico o actividad económica y cuya cifra de negocios, en cualquiera de los períodos objeto de comprobación, supere 6.010.121,04 euros, sin perjuicio de que puedan desarrollar otras actuaciones que se les encomienden.
+La distribución de los expedientes entre las Unidades del Área de Inspección se realizará por el Jefe de la Dependencia atendiendo a las instrucciones que, en su caso, dicte el Director General de la Agencia Tributaria, que podrán atender a los tipos de puestos de trabajo desempeñados por los funcionarios que ostenten la jefatura de cada Unidad. En este caso, la atribución efectiva de competencias a las Unidades hasta los importes indicados en el párrafo anterior estará condicionada a la creación, en función de las necesidades de servicio, de aquellos puestos en la Relación de Puestos de Trabajo de la Agencia Estatal de Administración Tributaria.
 
-Las Unidades Regionales de Inspección podrán estar integradas por el Jefe de Unidad, y los Inspectores adjuntos, Subinspectores, Agentes de la Hacienda Pública y demás personal, que en cada momento se determine por el Jefe de la Dependencia o sus Adjuntos.
+4.2.3 Actuaciones inspectoras de especial dificultad.
 
-4.2.3 Equipos y Unidades de Inspección.
+A) A efectos de lo dispuesto en el número 4.2.2 anterior y en el apartado seis.1.3 de esta Resolución, se considerará que una actuación inspectora reviste especial dificultad cuando el motivo de la selección y asignación del expediente sea la comprobación y, en su caso, regularización de las siguientes materias:
 
-A. El ámbito de actuación de los Equipos y Unidades de Inspección está constituido preferentemente por las actuaciones inspectoras de comprobación e investigación distintas de las contempladas en los apartados 4.2.1 y 4.2.2 anteriores, sin perjuicio de que puedan desarrollar otras actuaciones que se les encomienden.
+Operaciones de reestructuración empresarial (Capítulo VIII del Título VII del Texto Refundido de la Ley del Impuesto sobre Sociedades).
 
-Los Equipos de Inspección actuarán prioritariamente sobre contribuyentes personas físicas que desarrollen actividades empresariales o personas jurídicas cuyo volumen anual de operaciones en los ejercicios comprobados exceda de 1.803.036,31 euros y, tratándose de profesionales, 180.303,63 euros.
+Tributación en el Impuesto sobre Sociedades por el régimen de consolidación fiscal.
 
-Los Equipos y Unidades de Inspección podrán estar integrados por el Jefe de Equipo o Unidad, Subinspectores, Agentes de la Hacienda Pública y demás personal que en cada momento se determine por el Jefe de la Dependencia o sus Adjuntos. De forma temporal, en estos Equipos o Unidades podrán integrarse Inspectores adjuntos.
+Tributación en el Impuesto sobre el Valor Añadido por el régimen especial del grupo de entidades.
 
-B. Cuando la conveniencia del servicio de Inspección así lo aconseje, determinadas Unidades de Inspección podrán hallarse a cargo de un Subjefe de Unidad, correspondiendo la dirección efectiva a un Inspector Regional Adjunto o un Inspector Coordinador. En este caso, el Subjefe de Unidad tendrá las funciones a que se refieren los párrafos segundo y tercero del apartado Seis.1 de esta Resolución, pudiendo ultimar actuaciones de comprobación e investigación dentro de los límites cuantitativos a los que se refiere el mismo apartado.
+Programas calificados como de especial dificultad en el Plan Parcial de Inspección.
 
-C. En las Dependencias Regionales de Inspección podrán constituirse, por acuerdo del Director del Departamento de Inspección Financiera y Tributaria y a propuesta de los Delegados Especiales afectados, Unidades de Inspección formadas por el número de Subinspectores que en cada caso se determine, cuya dirección efectiva corresponderá a un Inspector quién, por delegación de un Inspector Jefe, podrá dictar los actos de liquidación e imponer las sanciones que procedan como consecuencia de las actuaciones realizadas por los miembros de la Unidad. Los Subinspectores adscritos a dichas Unidades podrán desarrollar la totalidad de las actuaciones de comprobación e investigación previas a la firma de las actas, siempre que se refieran a actuaciones de comprobación e investigación de carácter general cerca de personas físicas que desarrollen actividades empresariales, o personas jurídicas, cuyo volumen anual de operaciones en los ejercicios comprobados no exceda de 1.803.036,31 euros, y tratándose de profesionales, de 180.303, 63 euros.
+B) Se considerarán de especial dificultad sobrevenida, a efectos de lo dispuesto en los apartados ocho.2.b) y ocho.3.2 de esta Resolución, los expedientes en los que:
+
+Se pongan de manifiesto durante la comprobación materias de especial dificultad definidas en el párrafo anterior.
+
+Se aprecie la existencia de simulación en los términos definidos en el artículo 16 de la Ley 58/2003, General Tributaria.
+
+Se aprecie la existencia de conflicto en la aplicación de la norma conforme a lo establecido en el artículo 15 de la Ley 58/2003, General Tributaria, o fraude de ley en los términos del artículo 24 de la Ley 230/1963, General Tributaria.
+
+La cantidad que pudiera ser regularizada exceda de las cuantías fijadas en el artículo 305 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 
 4.3 Actuaciones Especializadas.
 
@@ -140,7 +146,7 @@ Las actuaciones en este ámbito tendrán por objeto las funciones de apoyo a los
 
 Corresponde a la Oficina Técnica la asistencia y apoyo en todas aquellas cuestiones relativas a funciones de la Dependencia Regional de Inspección de la que forma parte. Además, le corresponde el análisis, estudio y propuesta de resolución de los expedientes administrativos que le sean encomendados por el Jefe de la Dependencia.
 
-La Oficina Técnica podrá estar integrada por el Jefe de la misma, los Inspectores, Subinspectores, Agentes de la Hacienda Pública y demás personal, que en cada momento se determine por el Jefe de la Dependencia.
+La Oficina Técnica podrá estar integrada por el Jefe de la misma, los Inspectores de Hacienda, Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal, que en cada momento se determine por el Jefe de la Dependencia.
 
 El personal de la Oficina Técnica que radique en sedes distintas de la que corresponda a la Delegación Especial, dependerá directamente del Inspector Regional Adjunto o Coordinador al frente de dicha sede, sin perjuicio de la dirección y coordinación en el ámbito de la Delegación Especial que corresponde al Jefe de la Oficina Técnica.
 
@@ -148,7 +154,7 @@ El personal de la Oficina Técnica que radique en sedes distintas de la que corr
 
 Corresponde a la Unidad de Planificación y Selección la asistencia al Inspector Regional en la confección de los planes de inspección de la Dependencia, en el control de su cumplimiento y en la realización de estudios y estadísticas de apoyo a la planificación. Asimismo, le corresponde: la captación de datos ; el análisis, contraste y verificación de la información obtenida por la Dependencia por cualquier medio y la valoración de los resultados obtenidos en estas operaciones en orden a su trascendencia tributaria ; la determinación sectorial o individual de los contribuyentes respecto de los que se considere conveniente el inicio de actuaciones de comprobación e investigación ; y, en general, todas aquellas que sean necesarias para la adecuada planificación de las actuaciones, selección de contribuyentes y control del cumplimiento de planes y programas. Excepcionalmente y por necesidades del servicio, esta Unidad podrá desarrollar actuaciones de comprobación e investigación.
 
-La Unidad de Planificación y Selección podrá estar integrada por el Jefe de la Unidad, los Inspectores, Subinspectores, Agentes de la Hacienda Pública y demás personal, que en cada momento se determine por el Jefe de la Dependencia.
+La Unidad de Planificación y Selección podrá estar integrada por el Jefe de la Unidad, los Inspectores de Hacienda, Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal, que en cada momento se determine por el Jefe de la Dependencia.
 
 El personal de esta Unidad que radique en sedes distintas de la que corresponda a la Delegación Especial, dependerá directamente del Inspector Regional Adjunto o Coordinador al frente de dicha sede, sin perjuicio de la dirección y coordinación en el ámbito de la Delegación Especial que corresponde al Jefe de la Unidad de Planificación y Selección.
 
@@ -167,6 +173,10 @@ Las Unidades de Gestión de Grandes Empresas de las Dependencias Regionales de I
 El Jefe de la Dependencia Regional de Inspección y los Inspectores Regionales Adjuntos ejercerán, respecto a las personas o entidades adscritas a la misma, las competencias de gestión tributaria atribuidas a los Jefes de Dependencia Regional de Gestión Tributaria.
 
 Sin perjuicio de lo anterior, los obligados tributarios podrán, en cualquier caso, presentar sus declaraciones, recursos, consultas y cualquier otro documento con trascendencia tributaria en la Delegación o Administración que corresponda a su domicilio fiscal.
+
+> Se modifican los puntos 4.1, 4.2 y determinados términos de los puntos 5 y 6 por los apartados 4 y 9 de la Resolución de 26 de noviembre de 2008. Ref. BOE-A-2008-20956.
+
+> La nuevas denominaciones contenidas en los puntos 5 y 6 entran en vigor el 31 de diciembre de 2008, según establece la disposición final única.
 
 > Se renumera y se modifican los puntos 1, 2, 3, 4 y 7 por el apartado 5 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22252.
 
