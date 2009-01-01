@@ -20,7 +20,7 @@ Uno. Los procedimientos que se relacionan a continuación podrán entenderse des
 
 9. Procedimiento para el reconocimiento del derecho a la aplicación del tipo impositivo reducido en las entregas, adquisiciones intracomunitarias o importaciones de vehículos destinados a autotaxis o autoturismos especiales para el transporte de personas con minusvalía en sillas de ruedas, bien directamente o previa su adaptación, así como los vehículos a motor que, previa adaptación o no, deban transportar habitualmente a personas con minusvalía en silla de ruedas o con movilidad reducida, previsto en el artículo 91.Dos.1.4.º de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
 
-10. Procedimiento para tramitar las solicitudes de inclusión en el Registro de exportadores y otros operadores económicos, previsto en el artículo 30.3 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+10. (Derogado)
 
 11. Procedimiento para la realización de devoluciones a empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto sobre el Valor Añadido, regulado en el artículo 31 del reglamento del citado impuesto, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
 
@@ -197,3 +197,5 @@ Dos. Los procedimientos que se relacionan a continuación deberán entenderse es
 2. Procedimiento para el reconocimiento de la condición de entidades o establecimiento de carácter social, regulado en el artículo 6 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
 
 3. Procedimiento para el reconocimiento del derecho a la exención de los servicios prestados directamente a sus miembros por determinadas entidades, previsto en el artículo 20.Uno.6.º de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y en el artículo 5 del reglamento de dicho impuesto, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+
+> Se deroga el apartado 1.10 por la disposición derogatoria única del Real Decreto 2126/2008, de 26 de diciembre. Ref. BOE-A-2008-20839
