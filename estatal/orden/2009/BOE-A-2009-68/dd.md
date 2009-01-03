@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas la Orden de 19 de abril de 1990 por la que se establece una reserva marina en el entorno de las Islas Columbretes; Orden de 7 de diciembre de 2000 por la que se modifica la anterior; Orden APA/162/2002, de 17 de enero, por la que por la que se regulan el acceso y el ejercicio en la reserva marina de las Islas Columbretes de las actividades de pesca marítima de recreo y subacuáticas de recreo; Orden APA/781/2003, de 21 de marzo, por la que se establecen la zonificación de la reserva marina de las islas Columbretes y los usos permitidos en cada zona.
