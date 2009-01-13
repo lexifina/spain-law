@@ -24,11 +24,15 @@ b) A efecto de las pensiones de jubilación y de la incapacidad permanente, deri
 
 c) El tiempo de cotización que resulte acreditado conforme a lo dispuesto en el apartado b) de la regla segunda se computará para determinar el número de años cotizados a efectos de fijar el porcentaje aplicable a la base reguladora de la pensión de jubilación. La fracción de año que pueda resultar se computará como un año completo.
 
+d) No obstante lo dispuesto en los apartados anteriores, las prestaciones por maternidad y paternidad podrán reconocerse mediante resolución provisional por el Instituto Nacional de la Seguridad Social, tomando la última base de cotización que conste en las bases de datos corporativas del sistema, en tanto no esté incorporada a dichas bases la base de cotización por contingencias comunes correspondiente al mes anterior al del inicio del descanso, suspensión del contrato o permiso que se disfruten, momento en el que se emitirá la resolución definitiva con el recálculo del subsidio que corresponda.
+
 Cuarta. Protección por desempleo.
 
 Para determinar los períodos de cotización y de cálculo de la base reguladora de las prestaciones por desempleo se estará a lo que se determine reglamentariamente en su normativa específica.
 
 2. Las reglas contenidas en el apartado anterior serán de aplicación a los trabajadores con contrato a tiempo parcial, contrato de relevo a tiempo parcial y contrato de trabajo fijo-discontinuo, de conformidad con lo establecido en los artículos 12 y 15.8 de la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto legislativo 1/1995, de 24 de marzo, que estén incluidos en el campo de aplicación del Régimen General y del Régimen especial de la minería del carbón, y a los que, siendo trabajadores por cuenta ajena, estén incluidos en el Régimen especial de los trabajadores del mar.
+
+> Se añade la letra d) de la regla 3, con efectos desde el 1 de enero de 2009, por la disposición final 3.8 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744.
 
 > Se modifican las letras a) de las reglas 2 y 3 del apartado 1 por la disposición adicional 18.19 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
 
