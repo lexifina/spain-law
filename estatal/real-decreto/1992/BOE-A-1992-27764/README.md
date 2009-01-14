@@ -15,6 +15,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Título preliminar](tpreliminar.md)
 - [Artículo 1](a1.md)
 - [Título I](ti.md)
+- [Artículos 2 a 8](as2a8.md)
 - [Artículo 2](a2.md)
 - [Artículo 3](a3.md)
 - [Artículo 4](a4.md)
