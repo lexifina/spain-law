@@ -4,13 +4,17 @@
 
 | Categorías | Cuantía anual (en euros) |
 | --- | --- |
-| Comisario Principal | 16.664,28 |
-| Comisario | 15.287,04 |
-| Inspector Jefe | 11.591,76 |
-| Inspector | 9.353,16 |
-| Subinspector | 6.591,84 |
-| Oficial de Policía | 7.405,80 |
-| Policía | 5.500,68 |
+| Comisario Principal | 17.405,40 |
+| Comisario | 16.000,56 |
+| Inspector Jefe | 12.149,88 |
+| Inspector | 9.866,52 |
+| Subinspector | 6.984,72 |
+| Oficial de Policía | 7.815,00 |
+| Policía | 5.819,52 |
+
+> Se modifica por el art. 3 y anexo VI del Real Decreto 29/2009, de 16 de enero. Ref. BOE-A-2009-911.
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2009, según establece la disposición final 3.
 
 > Se modifica por el art. 3 y anexo VI del Real Decreto 10/2008, de 11 de enero. Ref. BOE-A-2008-518.
 

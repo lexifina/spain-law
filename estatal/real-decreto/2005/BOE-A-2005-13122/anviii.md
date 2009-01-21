@@ -4,17 +4,21 @@
 
 | Empleo | Cuantía anual (en euros) |
 | --- | --- |
-| Coronel | 15.136,20 |
-| Teniente Coronel | 14.172,72 |
-| Comandante | 14.172,72 |
-| Capitán | 11.591,76 |
-| Teniente | 9.353,16 |
-| Subteniente | 10.856,88 |
-| Brigada | 6.936,60 |
-| Sargento Primero | 6.157,56 |
-| Sargento | 5.484,48 |
-| Cabo Primero | 7.405,80 |
-| Guardia Civil | 5.500,68 |
+| Coronel | 15.846,72 |
+| Teniente Coronel | 14.782,44 |
+| Comandante | 14.782,44 |
+| Capitán | 12.149,88 |
+| Teniente | 9.866,52 |
+| Subteniente | 11.335,08 |
+| Brigada | 7.336,32 |
+| Sargento Primero | 6.541,80 |
+| Sargento | 5.855,16 |
+| Cabo Primero | 7.815,00 |
+| Guardia Civil | 5.819,52 |
+
+> Se modifica por el art. 2.2 y anexo VIII del Real Decreto 29/2009, de 16 de enero. Ref. BOE-A-2009-911.
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2009, según establece la disposición final 3.
 
 > Se modifica por el art. 2.2 y anexo VIII del Real Decreto 10/2008, de 11 de enero. Ref. BOE-A-2008-518.
 

@@ -6,38 +6,42 @@ Cuerpo de la Guardia Civil
 
 | Empleo | Cuantía anual (en euros) |
 | --- | --- |
-| Teniente General | 17.926,30 |
-| General de División | 15,099,35 |
-| General de Brigada | 11.838,98 |
-| Coronel | 10.918,16 |
-| Teniente Coronel | 11.024,47 |
-| Comandante | 11.350,05 |
-| Capitán | 10.267,58 |
-| Teniente | 8.486,20 |
-| Alférez | 7.635,73 |
-| Suboficial Mayor | 10.202,20 |
-| Subteniente | 9.389,04 |
-| Brigada | 6.499,75 |
-| Sargento Primero | 6.471,87 |
-| Sargento | 5.731,05 |
-| Cabo Mayor | 8.781,97 |
-| Cabo Primero | 7.948,08 |
-| Cabo | 7.114,74 |
-| Guardia Civil | 6.253,73 |
+| Teniente General | 18.794,58 |
+| General de División | 15.911,14 |
+| General de Brigada | 12.585,58 |
+| Coronel | 11.646,32 |
+| Teniente Coronel | 11.652,76 |
+| Comandante | 11.984,84 |
+| Capitán | 10.880,80 |
+| Teniente | 9.063,74 |
+| Alférez | 8.196,30 |
+| Suboficial Mayor | 10.732,54 |
+| Subteniente | 9.903,04 |
+| Brigada | 6.956,04 |
+| Sargento Primero | 6.927,62 |
+| Sargento | 6.171,90 |
+| Cabo Mayor | 9.283,82 |
+| Cabo Primero | 8.433,32 |
+| Cabo | 7.583,38 |
+| Guardia Civil | 6.639,78 |
 
-## Cuerpo Nacional de Policía
+Cuerpo Nacional de Policía
 
-| Categorías | Cuantía anual (En euros) |
+| Categorías | Cuantía anual (en euros) |
 | --- | --- |
-| Comisario Principal | 13.743,77 |
-| Comisario | 12.140,16 |
-| Facultativo | 11.447,85 |
-| Inspector Jefe | 10.267,58 |
-| Inspector | 8.486,20 |
-| Personal Técnico | 12.141,65 |
-| Subinspector | 6.559,33 |
-| Oficial de Policía | 7.948,08 |
-| Policía | 6.253,73 |
+| Comisario Principal | 14.528,36 |
+| Comisario | 12.892,74 |
+| Facultativo | 12.084,66 |
+| Inspector Jefe | 10.880,80 |
+| Inspector | 9.063,74 |
+| Personal Técnico | 12.792,36 |
+| Subinspector | 7.016,80 |
+| Oficial de Policía | 8.433,32 |
+| Policía | 6.639,78 |
+
+> Se modifica por el art. 1 y anexo III del Real Decreto 29/2009, de 16 de enero. Ref. BOE-A-2009-911.
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2009, según establece la disposición final 3.
 
 > Se modifica por el art. 1 y anexo III del Real Decreto 10/2008, de 11 de enero. Ref. BOE-A-2008-518.
 
