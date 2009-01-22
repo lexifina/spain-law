@@ -14,4 +14,6 @@
 
 7. Las disposiciones de este artículo no son aplicables al voto en las elecciones municipales de los residentes ausentes que viven en el extranjero, que se rige por las disposiciones especiales de esta Ley.
 
+> Véase, sobre interpretación de este artículo, la Instrucción 1/2009, de 20 de enero, de la Junta Electoral Central, Ref. BOE-A-2009-1021, sustituida por la Instrucción 2/2009, de 2 de abril. Ref. BOE-A-2009-6415
+
 > Se modifica el apartado 3 por el art. 12 de la Ley Orgánica 3/1995, de 23 de marzo. Ref. BOE-A-1995-7239.
