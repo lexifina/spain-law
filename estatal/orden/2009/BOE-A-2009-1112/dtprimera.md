@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Gestión temporal de medios y servicios.
+
+De acuerdo con lo dispuesto en la disposición transitoria primera del Real Decreto 1183/2008, de 11 de julio, hasta que se produzca la integración efectiva de los créditos presupuestarios y los medios materiales y personales adscritos a las funciones que hayan sido asignadas al Ministerio de Ciencia e Innovación, los Ministerios de Educación, Política Social y Deporte y de Industria, Turismo y Comercio seguirán prestando la ayuda que sea necesaria al Ministerio de Ciencia e Innovación para mantener el funcionamiento ordinario de la Comisión Ministerial.
