@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 25 de enero de 2009, con la única excepción de las Normas 14ª, 15ª y 16ª, en particular esta última relativa al Informe complementario de auditoría que continúa en vigor, según establece la norma derogatoria de la Circular 9/2008, de 10 de diciembre. Ref. BOE-A-2009-133
