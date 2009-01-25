@@ -16,3 +16,5 @@
 | Setas comestibles. | Ciruelas. |
 |  | Chirimoyas. |
 |  | Fresones. |
+
+> Se suprime el inciso destacado por la disposición final 1 del Real Decreto 31/2009, de 16 de enero. Ref. BOE-A-2009-1171

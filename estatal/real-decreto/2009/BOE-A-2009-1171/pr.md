@@ -1,0 +1,11 @@
+La aplicación de la Orden de 6 de julio de 1983 por la que se aprueba la norma de calidad para la patata de consumo destinada al mercado interior, ha ido poniendo de manifiesto la conveniencia de realizar ciertas innovaciones para recoger tanto las nuevas tendencias del comercio como los nuevos hábitos del consumo, y de esta forma mejorar la calidad del producto en el mercado, orientar a la producción a las exigencias de los consumidores y facilitar las relaciones comerciales en un marco de competencia leal, contribuyendo así a aumentar la rentabilidad de la producción, teniendo en cuenta las normas internacionales en la materia.
+
+Con objeto de homogeneizar todas las normas de calidad de los productos hortofrutícolas para consumo en fresco entre sí, se introduce como novedad la clasificación de los distintos tipos comerciales de patata en categorías, más fácilmente comprensible por el consumidor. La presente norma se adapta al texto revisado de la norma cuadro relativo a la comercialización y el control de la calidad comercial para las frutas y las hortalizas frescas, adoptado en la 63 Sesión del Grupo de Trabajo de las Normas de Calidad para los Productos Agrícolas del Comité de Comercio de la Comisión Económica para Europa de las Naciones Unidas (CEPE-ONU).
+
+El presente real decreto ha sido sometido al procedimiento de información en materia de normas y reglamentaciones técnicas y de reglamentos relativos a los servicios de la sociedad de la información, previstos en la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio, así como en el Real Decreto 1337/1999, de 31 de julio, que incorpora esta Directiva al ordenamiento jurídico español.
+
+Este real decreto ha sido sometido a consulta de las comunidades autónomas y de las entidades representativas de los sectores afectados, y ha sido informado por la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente y Medio Rural y Marino, del Ministro de Sanidad y Consumo y del Ministro de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 16 de enero de 2009,
+
+## DISPONGO:
