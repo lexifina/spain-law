@@ -1,0 +1,3 @@
+## Disposición final tercera. Modificación del Real Decreto 558/2001, de 25 de mayo, por el que se regula el reconocimiento oficial de las organizaciones o asociaciones de criadores de perros de raza pura.
+
+La referencia hecha en la disposición final primera (Facultad de desarrollo) del Real Decreto 558/2001, de 25 de mayo, por el que se regula el reconocimiento oficial de las organizaciones o asociaciones de criadores de perros de raza pura, al Comité de Razas de Ganado de España, establecido por el Real Decreto 1682/1997, por el que se actualiza el Catálogo Oficial de Razas de Ganado de España, se entenderá hecha a la Comisión Nacional de Coordinación, regulada en el artículo 34 de este real decreto.

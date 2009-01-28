@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Adaptación a la presente normativa.
+
+1. Las asociaciones oficialmente reconocidas al amparo de la normativa vigente antes de la entrada en vigor de este real decreto que no reúnan la totalidad de requisitos previstos en el mismo, a excepción de los establecidos en el artículo 10, para el caso de concurrencia de asociaciones, dispondrán de un plazo máximo de tres años para acreditar su cumplimiento. En caso de que no se produzca esa acreditación, el reconocimiento oficial quedará extinguido, previo expediente tramitado por la autoridad competente que le otorgó el reconocimiento, con audiencia de la asociación interesada.
+
+2. No obstante lo dispuesto en la disposición derogatoria única, las reglamentaciones específicas del libro genealógico de cada raza, recogidas en dicha disposición, y los programas de mejora, seguirán en vigor hasta que, por la autoridad competente, se aprueben las correspondientes reglamentaciones específicas y programas, en aplicación de este real decreto.

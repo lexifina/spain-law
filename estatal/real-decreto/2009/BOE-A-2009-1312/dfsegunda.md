@@ -1,0 +1,5 @@
+## Disposición final segunda. Modificación del Real Decreto 391/1992, de 21 de abril, por el que se regula el reconocimiento oficial de las organizaciones o asociaciones de criadores de animales de raza que lleven o creen libros genealógicos.
+
+El artículo 1 del Real Decreto 391/1992, de 21 de abril, por el que se regula el reconocimiento oficial de las organizaciones o asociaciones de criadores de animales de raza que lleven o creen libros genealógicos, queda redactado como sigue:
+
+«Se entenderá por animal de raza, a efectos de este real decreto, todo animal de cría contemplado en el anexo II del Tratado constitutivo de la Comunidad Económica Europea cuyos intercambios aún no hayan sido objeto de una normativa comunitaria zootécnica más específica y no pertenezca a ninguna raza contemplada en el Catálogo Oficial de Razas de Ganado de España, ni sea équido registrado, y que esté inscrito o registrado en un libro o registro genealógico llevado por una organización o asociación de criadores reconocida oficialmente.»
