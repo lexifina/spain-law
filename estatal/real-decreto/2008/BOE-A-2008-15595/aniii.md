@@ -42,6 +42,12 @@ Publicación del resultado del procedimiento de pre-asignación de retribución:
 
 ii. Convocatoria 2.º trimestre de 2009.
 
-Presentación de la solicitud. Entre el 16 de noviembre de 2008 y el 31 de enero de 2009, ambos inclusive.
+Presentación de la solicitud. Entre el 16 de noviembre de 2008 y el quinto día hábil siguiente inclusive a la publicación de la resolución definitiva de la convocatoria correspondiente al primer trimestre de 2009.
 
-Publicación del resultado del procedimiento de pre-asignación de retribución: Antes del 1 de abril de 2009.
+Publicación del resultado del procedimiento de pre-asignación de retribución: Antes del 16 de abril de 2009.
+
+La resolución de la convocatoria correspondiente al primer trimestre de 2009 deberá establecer en su parte dispositiva que desde el día siguiente a su publicación en el “Boletín Oficial del Estado” empieza el cómputo del plazo de cinco días hábiles para el cierre de la convocatoria del segundo trimestre de 2009.
+
+Sin perjuicio de la publicación y notificación de la resolución en los términos establecidos en el artículo 7 de este real decreto, la publicación de la parte dispositiva determinante del plazo de la segunda convocatoria se efectuará en el “Boletín Oficial del Estado”.
+
+> Se modifica el apartado 4.ii por el art. único de la Orden ITC/82/2009, de 30 de enero. Ref. BOE-A-2009-1601.
