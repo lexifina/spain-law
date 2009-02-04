@@ -13,3 +13,9 @@ a) Elaboren guías telefónicas impresas o electrónicas.
 b) Provean servicios de consulta telefónica sobre números de abonados, mediante autorización general tipo D, a través de los códigos que se regulan en el capítulo IV de la presente Orden.
 
 c) Presten servicios de llamadas de urgencia a través del número 112, y otras entidades que determine la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información por prestar servicios de llamadas de urgencia a través de números cortos.
+
+d) Estén autorizados para solicitar información previa a la interceptación en virtud del artículo 89.1 del Reglamento sobre las condiciones para la prestación de servicios de comunicaciones electrónicas, el servicio universal y la protección de los usuarios, aprobado por Real Decreto 424/2005, de 15 de abril.
+
+e) Estén autorizados para solicitar información complementaria a la interceptación en virtud de los artículos 88.2, 88.3 y 89.2 del Reglamento sobre las condiciones para la prestación de servicios de comunicaciones electrónicas, el servicio universal y la protección de los usuarios, aprobado por Real Decreto 424/2005, de 15 de abril.
+
+> Se añaden los apartados 3.d) y e) por la disposición final 2.1 de la Orden ITC/110/2009, de 28 de enero. Ref. BOE-A-2009-1771.
