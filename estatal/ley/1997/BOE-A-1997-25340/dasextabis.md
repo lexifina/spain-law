@@ -74,13 +74,17 @@ Primero. Tasa por la prestación de servicios de gestión de residuos radiactivo
 
 a) Hecho imponible:
 
-Constituye el hecho imponible de la tasa la prestación de los servicios relativos a las actividades a que se refiere el apartado 3 mencionado en el párrafo anterior, es decir, la gestión de residuos radiactivos y combustible gastado generados en las centrales nucleares y su desmantelamiento y clausura, que sean atribuibles a la explotación de las mismas llevada a cabo con anterioridad al 1 de abril de 2005, así como la gestión de residuos radiactivos procedentes de actividades de investigación que han estado directamente relacionadas con la generación de energía nucleoeléctrica y las operaciones de desmantelamiento y clausura que deban realizarse como consecuencia de la minería y producción de concentrados de uranio con anterioridad al 4 de julio de 1984.
+Constituye el hecho imponible de la tasa la prestación de los servicios relativos a las actividades a que se refiere el apartado 3 mencionado en el párrafo anterior, es decir, la gestión de los residuos radiactivos y del combustible gastado generados en las centrales nucleares cuya explotación haya cesado definitivamente con anterioridad a la fecha de constitución efectiva de la entidad pública empresarial ENRESA de gestión de residuos radiactivos, así como su desmantelamiento y clausura, aquellos costes futuros correspondientes a las centrales nucleares o fábricas de elementos combustibles que, tras haber cesado definitivamente su explotación, no se hubiesen previsto durante dicha explotación, y los que, en su caso, se pudieran derivar de lo previsto en el apartado 6 de la disposición adicional sexta de esta Ley.
+
+Asimismo, constituye el hecho imponible la gestión de residuos radiactivos procedentes de aquellas actividades de investigación que el Ministerio de Industria, Turismo y Comercio determine que han estado directamente relacionadas con la generación de energía nucleoeléctrica, las operaciones de desmantelamiento y clausura que deban realizarse como consecuencia de la minería y producción de concentrados de uranio con anterioridad al 4 de julio de 1984, los costes derivados del reproceso del combustible gastado enviado al extranjero con anterioridad a la entrada en vigor de esta Ley, y aquellos otros costes que se especifiquen mediante real decreto.
 
 b) Base imponible:
 
-La base imponible de la tasa viene constituida por la recaudación total derivada de la aplicación de las tarifas eléctricas y peajes a que se refieren los artículos 17 y 18 de la presente Ley.
+La base imponible de la tasa viene constituida por la recaudación total derivada de la aplicación de las tarifas eléctricas y peajes a que se refiere la presente Ley.
 
-c) Devengo de la tasa: La tasa se devengará el día último de cada mes natural durante el período de explotación de las centrales.
+c) Devengo de la tasa:
+
+La tasa se devengará el día último de cada mes natural durante el período de gestión establecido en el Plan General de Residuos Radiactivos.
 
 d) Sujetos pasivos:
 
@@ -90,13 +94,13 @@ Serán sujetos pasivos a título de sustitutos del contribuyente y obligados a l
 
 e) Tipos de gravamen y cuota:
 
-En el caso de las tarifas eléctricas a que se refiere el artículo 17 de la presente Ley, el tipo por el que se multiplicará la base imponible para determinar la cuota tributaria a ingresar es de 0,173 por ciento.
+En el caso de la tarifa a que se refiere la presente Ley, el tipo por el que se multiplicará la base imponible para determinar la cuota tributaria a ingresar es de 0,001 por ciento.
 
-En el caso de los peajes a que se refiere el artículo 18, el tipo por el que se multiplicará la base imponible para determinar la cuota tributaria a ingresar es de 0,508 por ciento.
+En el caso del peaje a que se refiere la presente Ley, el tipo por el que se multiplicará la base imponible para determinar la cuota tributaria a ingresar es de 0,001 por ciento.
 
-f) Normas de gestión.
+f) Normas de gestión:
 
-La gestión de la tasa corresponde a la entidad pública empresarial ENRESA. Mediante Orden ministerial se aprobará el modelo de autoliquidación y los medios para hacer efectivo el ingreso de las cuantías exigibles.
+La gestión de la tasa corresponde a la entidad pública empresarial ENRESA. Mediante orden ministerial se aprobará el modelo de autoliquidación y los medios para hacer efectivo el ingreso de las cuantías exigibles.
 
 La tasa correspondiente a la recaudación del penúltimo mes anterior se ingresará mediante autoliquidación a efectuar por el sujeto pasivo sustituto del contribuyente antes del día 10 de cada mes o, en su caso, del día hábil inmediatamente posterior.
 
@@ -110,7 +114,7 @@ Segundo. Tasa por la prestación de servicios de gestión de residuos radiactivo
 
 a) Hecho imponible:
 
-Constituye el hecho imponible de la tasa la prestación de los servicios relativos a las actividades a que se refiere el apartado 4 mencionado en el párrafo anterior, es decir, la gestión de residuos radiactivos y combustible gastado generados en las centrales nucleares y su desmantelamiento y clausura, que sean atribuibles a la explotación de las mismas llevada a cabo con posterioridad al 31 de marzo de 2005.
+Constituye el hecho imponible de la tasa la prestación de los servicios relativos a las actividades a que se refiere el apartado 4 mencionado en el párrafo anterior, es decir, la gestión de los residuos radiactivos y del combustible gastado generados en las centrales nucleares durante su explotación con independencia de la fecha de su generación, así como los correspondientes a su desmantelamiento y clausura, y las asignaciones de la entidad pública empresarial ENRESA destinadas a los municipios afectados por centrales nucleares o instalaciones de almacenamiento de combustible gastado o residuos radiactivos, en los términos establecidos por el Ministerio de Industria, Turismo y Comercio, así como los importes correspondientes a los tributos que se devenguen en relación con las actividades de almacenamiento de residuos radiactivos y combustible gastado
 
 b) Base imponible:
 
@@ -138,27 +142,26 @@ C =Cuota a ingresar.
 
 B.i. = Base imponible en Kwh.
 
-T = Tarifa fija unitaria: 0,188 céntimos de €/Kwh.
+T = Tarifa fija unitaria en céntimos de €/Kwh.
 
 Cc = Coeficiente corrector aplicable de acuerdo con la siguiente escala:
 
-|  | Potencia de la central nuclear (Mwe) | PWR | BWR |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  | 1- 300 | 1,15 | 1,28 |
-|  | 301- 600 | 1,06 | 1,17 |
-|  | 601- 900 | 1,02 | 1,12 |
-|  | 901-1.200 | 0,99 | 1,09 |
+| Potencia bruta de la central nuclear (Mwe) | PWR | BWR |
+| --- | --- | --- |
+| 1-300 | 1,15 | 1,28 |
+| 301-600 | 1,06 | 1,17 |
+| 601-900 | 1,02 | 1,12 |
+| 901-1200 | 0,99 | 1,09 |
 
 PWR = Reactores de agua a presión.
 
 BWR = Reactores de agua en ebullición.
 
-f) Normas de gestión.
+f) Normas de gestión:
 
 La gestión de la tasa corresponde a la entidad pública empresarial ENRESA.
 
-Mediante Orden ministerial se aprobará el modelo de autoliquidación y los medios para hacer efectivo el ingreso de las cuantías exigibles.
+Mediante orden ministerial se aprobará el modelo de autoliquidación y los medios para hacer efectivo el ingreso de las cuantías exigibles.
 
 La tasa se ingresará mediante autoliquidación a efectuar por el sujeto pasivo en el plazo de los tres meses naturales siguientes a su devengo.
 
@@ -271,6 +274,10 @@ Segundo: Estarán exentas de aranceles u honorarios por la intervención de feda
 21. Hasta la constitución efectiva de la entidad pública empresarial ENRESA que tendrá lugar mediante la entrada en vigor de su Estatuto, que será aprobado por Real Decreto, la Empresa Nacional de Residuos Radiactivos, S. A., continuará realizando las actividades previstas en el Real Decreto 1349/2003, de 31 de octubre, sobre ordenación de las actividades de la Empresa Nacional de Residuos Radiactivos, S. A. (ENRESA), y su financiación.
 
 22. Se autoriza al Gobierno para dictar las normas y adoptar las medidas que sean necesarias para la aplicación de lo previsto en esta disposición.
+
+> Se modifica el apartado 17.1 y 2 por el art. 3.2 del Real Decreto-ley 6/2009, de 30 de abril. Ref. BOE-A-2009-7581
+
+> Téngase en cuenta la disposición transitoria 3 para su aplicación.
 
 > Se modifica la letra f) del apartado 17.1, 2 y 3 por la disposición adicional 1.2 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
 
