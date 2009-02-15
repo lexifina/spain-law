@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Ascensos de los miembros de las escalas técnicas de oficiales de los cuerpos de ingenieros y de la escala de oficiales del cuerpo militar de sanidad.
+
+1. Los alféreces pertenecientes a las escalas técnicas de oficiales de los cuerpos de ingenieros y de la escala de oficiales del cuerpo militar de sanidad ascenderán a teniente por el sistema de antigüedad, con las evaluaciones establecidas en este reglamento, al cumplir tres años de tiempo de servicios en el empleo de alférez o, en todo caso, el 1 de julio del año 2012.
+
+2. El ascenso a capitán se producirá por el sistema de antigüedad, con las evaluaciones establecidas en este reglamento, al cumplir los interesados los tiempos de permanencia en determinado tipo de destinos que establezca el Ministro de Defensa y nueve años de tiempo de servicios entre los empleos de alférez y teniente. Cada uno de los que accedieron a estas escalas con el empleo de teniente ascenderá a capitán el mismo día del ascenso del que le preceda en el escalafón, si reúne el resto de condiciones exigidas.
