@@ -33,17 +33,14 @@
 | 9 | Metilfenilendiaminas, sus derivados N-sustituidos y sus sales(1) excepto las sustancias de los números de referencia 364, 1310 y 1313 del anexo II. | Colorantes de oxidación para el cabello. | – 10% calculado en base libre |  |  |
 |  |  | a) Uso general |  |  | a) – Puede provocar reacción alérgica. – Contiene diaminotoluenos. – No emplear para teñir cejas y pestañas. |
 |  |  | b) Uso profesional |  |  | b) – Reservado a profesionales. – Utilizar guantes apropiados. – Contiene diaminotoluenos. – Puede provocar una reacción alérgica. |
-| 10 | DIAMINOFENOLES(1) | Colorantes de oxidación para el cabello. | – 10% calculado en base libre |  |  |
-|  |  | a) Uso general. |  |  | a) – Puede provocar reacción alérgica. – Contiene diaminofenoles. – No emplear para teñir cejas y pestañas. |
-|  |  | b) Uso profesional. |  |  | b) – Reservado a profesionales. – Utilizar guantes apropiados. – Contiene diaminofenoles. – Puede provocar reacción alérgica. |
+| 10 (Suprimido) |  |  |  |  |  |
 | 11 | DICLOROFENO |  | – 0,5% |  | – Contiene diclorofeno. |
 | 12 | AGUA OXIGENADA Y OTROS COMPUESTOS O MEZCLAS QUE LIBEREN AGUA OXIGENADA, ENTRE ELLOS LA CARBAMIDA DE AGUA OXIGENADA Y EL PERÓXIDO DE CINC | a) Preparados para tratamientos capilares. b) Preparados para la higiene de la piel. c) Preparados para endurecer las uñas. d) Productos para la higiene bucal. | – 12% de H2 O2 (40 volúmenes) presente o desprendido. – 4% de H2 O2 presente o desprendido. – 2% de H2 O2 presente o desprendido. – 0,1% de H2 O2 presente o desprendido |  | a) – Utilizar guantes apropiados. a), b) y c) – Contiene agua oxigenada – Evítese el contacto con los ojos. – En caso de contacto con los ojos, lávenlos inmediata y abundantemente con agua. |
 |  |  |
 |  |  |
 |  |  |
 | 13 | FORMALDEHÍDO | Preparaciones para endurecer las uñas | – 5% expresado en formaldehído |  | – Protéjanse las cutículas con una sustancia grasa. – Contiene formaldehído (2). |
-| 14 | Hidroquinona * | a) Colorante de oxidación para el teñido del cabeIlo: 1. Uso general. 2. Uso profesional. | 0,3% |  | a) 1. No emplear para teñir las pestañas y las cejas. Enjuagar inmediatamente los ojos en caso de que el producto entre en contacto con ellos. Contiene hidroquinona. 2. Reservado a los profesionales. Contiene hidroquinona. Enjuagar inmediatamente los ojos en caso de que el producto entre en contacto con ellos. |
-|  |  | b) Sistemas de uñas artificiales. | 0,02% (después de la mezcla para su utilización. | Reservado a los profesionales. | b) Reservado a los profesionales. Evítese el contacto con la piel. Léanse las instrucciones de uso. |
+| 14 | Hidroquinona * | b) Sistemas de uñas artificiales. | 0,02% (después de la mezcla para su utilización. | Reservado a los profesionales. | b) Reservado a los profesionales. Evítese el contacto con la piel. Léanse las instrucciones de uso |
 | 15a | HIDRÓXIDO DE POTASIO O HIDRÓXIDO DE SODIO | a) Disolvente de las cutículas de las uñas. | a) 5% en peso (4). |  | a) – Contiene agente alcalino. – Evítese el contacto con los ojos. Peligro de ceguera. – Manténgase fuera del alcance de los niños. |
 |  |  | b) Productos para el alisado del cabello. | b) |  | b) |
 |  |  | 1. Uso general. | 1. 2% en peso (4). |  | 1. – Contiene agente alcalino. – Evítese el contacto con los ojos. Peligro de ceguera. – Manténgase fuera del alcance de los niños. |
@@ -259,6 +256,8 @@ Se denomina «cociente relativo» a la relación entre la concentración de una 
 (7) Este límite se aplica a la sustancia y no al producto terminado.
 
 (8) La suma de estas sustancias utilizadas juntas no debe exceder los límites indicados en la columna d.
+
+> Se suprime el número 10 y lo indicado del 14 por el art. 1.2.a) y b) de la Orden SCO/322/2009, de 13 de febrero. Ref. BOE-A-2009-2802.
 
 > Se añade el número 102 y con efectos de 4 de abril de 2009 del 103 al 184, se suprime el 68 y se modifican el 45, 72, 73, 88 y 89 por el art. único.2 de la Orden SCO/2242/2008, de 22 de julio. Ref. BOE-A-2008-13037.
 

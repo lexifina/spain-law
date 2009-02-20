@@ -67,14 +67,14 @@
 |  |  | b) Colorantes no de oxidación para el teñido del cabello. | b) 3,0 por 100. |  |  |  |
 | 56 | 2-Amino-6-chloro-4-nitrophenol (número CAS 6358-09-4) y sus sales. | a) Colorantes de oxidación para el teñido del cabello. | a) 2,0 por 100. | En combinación con peróxido de hidrógeno, la concentración máxima para su uso es de 1,0 por 100. |  | 31-12-2009 |
 |  |  | b) Colorantes no de oxidación para el teñido del cabello. | b) 2,0 por 100. |  |  |  |
-| 57 * | Basic Blue 26 (número CAS 2580-56-5) (CI 44045) y sus sales. | a) Colorantes de oxidación para el teñido del cabello. | a) 0,5 por 100. | En combinación con peróxido de hidrógeno, la concentración máxima para su uso es de 0,25 por 100. |  | 31-12-2009 |
-|  |  | b) Colorantes no de oxidación para el teñido del cabello. | b) 0,5 por 100. |  |  |  |
+| 57 * (Suprimido) |  |  |  |  |  |  |
 | 58 * | Acid Red 33 (número CAS 3567-66-6) (CI 17200) y sus sales. | Colorantes no de oxidación para el teñido del cabello. | a) 2,0 por 100. |  |  | 31-12-2009 |
-| 59 * | Ponceau SX (número CAS 4548-53-2) (CI 14700) y sus sales. | Colorantes no de oxidación para el teñido del cabello. | 2,0 por 100. |  |  | 31-12-2009 |
-| 60 * | Basic Violet 14 (número CAS 632-99-5) (CI 42510) y sus sales. | a) Colorantes de oxidación para el teñido del cabello. | a) 0,3 por 100. | En combinación con peróxido de hidrógeno, la concentración máxima para su uso es de 0,15 por 100. |  | 31-12-2009 |
-|  |  | b) Colorantes no de oxidación para el teñido del cabello. | b) 0,3 por 100. |  |  |  |
+| 59 * (Suprimido) |  |  |  |  |  |  |
+| 60 * (Suprimido) |  |  |  |  |  |  |
 
 * Lo indicado en este anexo no afecta a la utilización de estas sustancias como colorantes generales en las condiciones expresadas en el anexo IV.
+
+> Se suprimen los números 57, 59 y 60 por el art. 1.2.c) de la Orden SCO/322/2009, de 13 de febrero. Ref. BOE-A-2009-2802.
 
 > Se modifica por el art. único.3 de la Orden SCO/719/2008, de 7 de marzo. Ref. BOE-A-2008-5161.
 
