@@ -44,7 +44,7 @@
 | 651 (2) | IMP. SUCESIONES Y DONACIONES. INTERVIVOS | 0A |
 | 652 (2) | IMP. SUCESIONES Y DONACIONES. MORTIS CAUSA SIMPLIFICADA | 0A |
 | 696 | TASA JUDICIAL | 0A |
-| 714 | IMP. SOBRE EL PATRIMONIO | 0A |
+| 714 | (Suprimido) | (Suprimido) |
 | 777 | DECLARACIONES-LIQUIDACIONES EXTEMPORÁNEAS Y COMPLEMENTARIAS. | 0A |
 
 (1) Sólo en algunas Comunidades.
@@ -52,6 +52,8 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se suprime el modelo 714 por la disposición final 1.1 de la Orden EHA/396/2009, de 13 de febrero. Ref. BOE-A-2009-3144.
 
 > Se modifica por la disposición final 4.1 y 2 de la Orden EHA/3786/2008, de 29 de diciembre. Ref. BOE-A-2008-20953.
 
