@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Otras convalidaciones.
+
+En virtud de lo dispuesto en el artículo 20.4 del Real Decreto 1577/2006, de 22 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de música reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación y en el artículo 20.4 del Real Decreto 85/2007, de 26 de enero, por el que se fijan los aspectos básicos del currículo de las enseñanzas profesionales de danza reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las Administraciones educativas podrán establecer convalidaciones cuando éstas afecten a las materias optativas de Educación Secundaria Obligatoria y de Bachillerato, teniendo en cuenta las convalidaciones establecidas en este real decreto.
