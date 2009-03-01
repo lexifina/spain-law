@@ -1,0 +1,9 @@
+Los museos son instituciones que están firmemente asentadas en la sociedad como uno de los más importantes y significativos recursos culturales con los que ésta cuenta y de los que disfruta en grado creciente.
+
+El incremento de actividades y servicios en los museos hace que su uso por parte de la sociedad se esté consolidando como un hábito cada vez más arraigado y, para ajustarse a esta demanda creciente, se hace necesaria una revisión que acomode el ordenamiento anterior, en materia de visita pública, a los nuevos hábitos, transcurrida más de una década desde la entrada en vigor de la Orden de 28 de junio de 1994 por la que se regulaba la visita pública a los museos de titularidad estatal adscritos al Ministerio de Cultura y de la Orden de 20 de enero de 1995, que desarrollaba el régimen de exenciones, precios reducidos, tarjetas anuales de acceso y abonos para la visita a los museos de titularidad estatal adscritos y gestionados por el Ministerio de Cultura.
+
+La presente Orden establece una serie de medidas de fomento para la visita que no estaban recogidas en la anterior normativa, que buscan ante todo facilitar la visita a los museos, y hacer más accesibles estas instituciones a los diferentes tipos de público con la creación de distintos abonos y entradas combinadas, teniendo en cuenta factores como el incremento del turismo cultural.
+
+Por otra parte, es necesario adaptar los precios de entrada a los museos a las condiciones socioeconómicas actuales, y a las novedades legislativas que han sido aprobadas en los últimos años, así como equiparar estos precios a otras instituciones museísticas análogas.
+
+En su virtud, conforme a lo recogido en el artículo 26 de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, y en los artículos 21 y 22 del Real Decreto 620/1987, de 10 de abril, por el que se aprueba el Reglamento de los Museos de Titularidad Estatal y del Sistema Español de Museos, dispongo:
