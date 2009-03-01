@@ -18,6 +18,8 @@ El/La Subdirector/a General de Apoyo de la Dirección General de la Policía y d
 
 El/La Subdirector/a General de Servicios Penitenciarios de la Dirección General de Gestión de Recursos, de la Secretaría General de Instituciones Penitenciarias.
 
+El/La Gerente del Organismo Autónomo Trabajo Penitenciario y Formación para el Empleo.
+
 El/la Subdirector/a General del Centro de Inteligencia contra el Crimen Organizado (CICO) de la Secretaría de Estado de Seguridad.
 
 El/la Subdirector/a General del Gabinete de Estudios de Seguridad Interior (GESI) de la Secretaría de Estado de Seguridad.
@@ -39,3 +41,5 @@ El/la Subdirector/a General de Política Interior y Procesos Electorales de la D
 El/la Subdirector/a General Adjunto del Centro de Sistemas de Información de la Dirección General de Personal y Servicios.
 
 Secretario: Un/a funcionario/a de la Subdirección General del Centro de Sistemas de Información, designado/a por el Presidente, que asistirá a las reuniones con voz pero sin voto.
+
+> Se modifica por el apartado único de la Orden INT/441/2009, de 21 de febrero. Ref. BOE-A-2009-3423.
