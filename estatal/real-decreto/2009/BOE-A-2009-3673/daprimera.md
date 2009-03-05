@@ -1,0 +1,3 @@
+## Disposición adicional primera. Trabajadores autónomos económicamente dependientes prestadores del servicio de transporte.
+
+De conformidad con lo dispuesto en la disposición adicional undécima del Estatuto del Trabajo Autónomo, los trabajadores autónomos económicamente dependientes prestadores del servicio de transporte al amparo de autorizaciones administrativas de las que sean titulares, realizada mediante el correspondiente precio con vehículos comerciales de servicio público cuya propiedad o poder directo de disposición ostenten, aun cuando dichos servicios se realicen de forma continuada para un mismo cargador o comercializador, quedan excluidos de la aplicación del artículo 5.1 y de la letra d) del artículo 5.2 de este real decreto.
