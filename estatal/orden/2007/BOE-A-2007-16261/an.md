@@ -46,7 +46,22 @@ El IMC se obtiene con la fórmula siguiente: IMC = (peso en kg) / (talla en metr
 
 b) Para la Escala Superior de Oficiales y Escala de Oficiales (especialidad fundamental de operaciones aéreas) del Cuerpo General del Ejército del Aire, además, el peso mínimo será de 60 kilogramos.
 
-3. Presión arterial: Cifras superiores a 140 mmhg. de sistólica o 90 mmhg. de diastólica, determinadas en posición clinoestática y sin medicación. En los que sobrepasen cualquiera de las dos cifras se repetirá la determinación en ayunas y tras reposo horizontal de diez minutos.
+3. Alteraciones de la tensión arterial.
+
+Tensión arterial normal alta e hipertensión. Se valorará sin medicación y si fuera necesario se repetirá en ayunas y tras reposo horizontal de diez minutos.
+
+La tensión arterial se valorará según el siguiente cuadro:
+
+| Categoría | Sistólica (mmHg) | Diastólica (mmHg) |
+| --- | --- | --- |
+| Normotensión o hipertensión controlada |
+| Óptima | < 120 | < 80 |
+| Normal | 121 - 129 | 81 - 84 |
+| Normal alta | 130 - 139 | 85 - 89 |
+| Hipertensión |
+| Grado 1 | 140 - 159 | 90 - 99 |
+| Grado 2 | 160 - 179 | 100 - 109 |
+| Grado 3 | 180 o más | 110 o más» |
 
 Enfermedades y causas generales:
 
@@ -143,6 +158,8 @@ D Aparato digestivo.
 9. Alteraciones de la pared abdominal incompatibles con la actividad física. Hernias de cualquier tipo y localización, aun las pequeñas y reducibles.
 
 10. Fístulas perineales, incluida la sacrocoxígea.
+
+11. Trastornos funcionales digestivos incompatibles con el servicio.
 
 E. Aparato respiratorio.
 
@@ -386,7 +403,7 @@ Descalifica una pérdida unilateral superior al 12 por 100 o bilateral superior 
 
 J. Aparato urogenital.
 
-1. Afecciones o modificaciones congénitas o adquiridas del aparato urinario que alteren o puedan alterar el normal desarrollo de la profesión militar.
+1. Afecciones o modificaciones congénitas o adquiridas que puedan alterar el normal ejercicio de la profesión militar.
 
 2. Nefropatías y cistopatías.
 
@@ -396,39 +413,25 @@ J. Aparato urogenital.
 
 5. Fístulas urinarias. Incontinencia o retención de orina.
 
-6. Alteraciones analíticas de la orina, aunque no respondan a una entidad nosológica objetivable.
+6. Alteraciones analíticas de la orina, aunque no correspondan a una entidad patológica objetivable.
 
-Sólo aplicables a los hombres:
+7. Orquitis y orquiepididimitis
 
-7. Epispadías. Hipospadías perineal, escrotal o peneano.
+8. Hidrocele y varicocele esencial significativo.
 
-8. Falta total del pene.
+9. Prolapsos genitales
 
-9. Pérdida, ausencia o atrofia de ambos testículos. Criptorquidia.
+10. Infecciones genitales
 
-10. Orquitis y orquiepididimitis.
+11. Endometriosis incapacitante
 
-11. Hidrocele. Varicocele esencial significativo.
+12. Hipertrofia gigante de mama y otra patología mamaria incompatible con el servicio.
 
-K. Ginecología.
+13. Varicosidades genitales significativas.
 
-1. Afecciones o modificaciones del aparato genital femenino y mama que incapaciten para la profesión militar.
+14. Fístulas rectovaginales y rectovesicales.
 
-2. Disgenesias, hipogenesias y agenesias gonadales y genitales.
-
-3. Prolapsos genitales.
-
-4. Infecciones genitales.
-
-5. Endometriosis incapacitante.
-
-6. Hipertrofia gigante de mama y otra patología mamaria que incapacite para la profesión militar.
-
-7. Varicosidades vulvares o de genitales internos significativas.
-
-8. Fístulas rectovaginales.
-
-L. Sangre y órganos hematopoyéticos.
+K. Sangre y órganos hematopoyéticos.
 
 1. Afecciones hematológicas que incapaciten para la profesión militar.
 
@@ -447,3 +450,5 @@ L. Sangre y órganos hematopoyéticos.
 8. Inmunodeficiencias.
 
 9. Alteraciones analíticas significativas de la sangre aunque no respondan a una entidad nosológica objetivable.
+
+> Se modifica por el apartado único.2 a 6 de la Orden PRE/528/2009, de 2 de marzo. Ref. BOE-A-2009-3791.
