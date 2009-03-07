@@ -205,6 +205,7 @@ LME(T) = Límite de migración específica en alimentos o en simulantes alimenti
 | 15272 | 000107-15-3 | 1,2-Diaminoetano | Ver «Etilendiamina» |
 | 15274 | 000124-09-4 | 1,6-Diaminohexano | Ver «Hexametilendiamina» |
 | 15310 | 000091-76-9 | 2,4-Diamino-6-fenil-1,3,5-triazina | CMA = 5 mg/6 dm2 |
+| 15404 | 000652-67-5 | 1,41,4:3,6-dianhidrosorbitol | LME= 5 mg/kg. Para uso sólo como comonómero en el tereftalato de poli(etilencoisosorbida) |
 | 15565 | 000106-46-7 | 1,4-Diclorobenceno | LME = 12 mg/kg |
 | 15610 | 000080-07-9 | 4,4’-Diclorodifenilsulfona | LME = 0,05 mg/kg |
 | 15700 | 005124-30-1 | 4,4’-Diisocianato de diciclohexilmetano | CM(T) = 1 mg/kg (expresado como NCO) (26) |
@@ -272,7 +273,8 @@ LME(T) = Límite de migración específica en alimentos o en simulantes alimenti
 | 19000 | 000115-11-7 | Isobuteno |  |
 | 19060 | 000109-53-5 | Éter isobutilvinílico | CM = 5 mg/kg en PT |
 | 19110 | 004098-71-9 | 1-Isocianato-3-isocianatometil-3,5,5-tri-metilciclohexano | CM(T) = 1 mg/kg (expresado como NCO) (26) |
-| 19150 | 000121-91-5 | Ácido isoftálico | LME = 5 mg/kg |
+| 19150 | 000121-91-5 | Ácido isoftálico | LME(T) = 5 mg/kg (43) |
+| 19180 | 000099-63-8 | Dicloruro del ácido isoftálico | LME(T) = 5 mg/kg (43) (expresado como ácido isoftálico) |
 | 19210 | 001459-93-4 | Isoftalato de dimetilo | LME = 0,05 mg/kg |
 | 19243 | 000078-79-5 | Isopreno | Ver «2-Metil-1,3-butadieno» |
 | 19270 | 000097-65-4 | Ácido itacónico |  |
@@ -421,6 +423,7 @@ LME(T) = Límite de migración específica en alimentos o en simulantes alimenti
 | 26140 | 000075-38-7 | Fluoruro de vinilideno | LME = 5 mg/kg |
 | 26155 | 001072-63-5 | 1-Vinilimidazol | CM = 5 mg/kg en PT |
 | 26170 | 003195-78-6 | N-Vinil-N-metilacetamida | CM = 2 mg/kg en PT |
+| 26305 | 000078-08-0 | Vinitrietoxisilano | LME = 0,05 mg/kg. Para uso sólo como agente de tratamiento de superficie |
 | 26320 | 002768-02-7 | Viniltrimetoxisilano | CM = 5 mg/kg en PT |
 | 26360 | 007732-18-5 | Agua | De acuerdo con el Real Decreto 140/2003, de 7 de febrero, por el que se establecen los criterios sanitarios de la calidad del agua de consumo humano |
 
@@ -460,9 +463,11 @@ LME(T) = Límite de migración específica en alimentos o en simulantes alimenti
 
 (35) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los nos de ref. 25540 y 25550, no debe superar la restricción indicada.
 
-(36) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los nos de ref. 10690, 10750, 10780, 10810,10840, 11470, 11590, 11680, 11710, 11830, 11890, 11980 y 31500, no debe superar la restricción indicada.
+(36) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los n.os de ref. 10690, 10750, 10780, 10810, 10840, 11470, 11590, 11680, 11710, 11830, 11890, 11980, 31500 y 76463, no debe superar la restricción indicada.
 
 (37) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los nos de ref. 20020, 20080, 20110, 20140, 20170, 20890, 21010, 21100, 21130, 21190, 21280, 21340 y 21460, no debe superar la restricción indicada.
+
+(43) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los n.os de ref. 19150 y 19180, no debe superar la restricción indicada.
 
 ## SECCIÓN B
 
@@ -474,3 +479,5 @@ LME(T) = Límite de migración específica en alimentos o en simulantes alimenti
 | 15730 | 000077-73-6 | Diciclopentadieno |  |
 | 18370 | 000592-45-0 | 1,4-Hexadieno |  |
 | 26230 | 000088-12-0 | Vinilpirrolidona |  |
+
+> Se modifica la sección A por el art. único.1 y anexo I del Real Decreto 103/2009, de 6 de febrero. Ref. BOE-A-2009-2638

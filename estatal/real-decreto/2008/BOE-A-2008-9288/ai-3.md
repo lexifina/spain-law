@@ -80,7 +80,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 30140 | 000141-78-6 | Acetato de etilo |  |
 | 30280 | 000108-24-7 | Anhídrido acético |  |
 | 30295 | 000067-64-1 | Acetona |  |
-| 30340 | 330198-91-9 | 12-(Acetoxi) estearato de 2,3-bis (acetoxi) propilo |  |
+| 30340 | 330198-91-9 | (Suprimido) |  |
 | 30370 | — | Ácido acetilacético, sales |  |
 | 30401 | — | Monoglicéridos y diglicéridos de ácidos grasos, acetilados |  |
 | 30610 | — | Ácidos, C2-C24, alifáticos, lineales, monocarboxílicos, obtenidos a partir de grasas y aceites naturales, y sus ésteres con mono-, di y triglicerol (incluidos los ácidos grasos ramificados a los niveles que se presentan naturalmente) |  |
@@ -128,12 +128,14 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 38515 | 001533-45-5 | 4,4’Bis (2-benzoxazolil)estilbeno | LME = 0,05 mg/kg (1) |
 | 38810 | 080693-00-1 | Difosfito de bis (2,6-di-terc-butil-4-metilfenil) pentaeritritol | LME = 5 mg/kg (como suma de fosfito y fosfato) |
 | 38840 | 154862-43-8 | Difosfito de bis (2,4-dicumilfenil)pentaeritritol | LME = 5 mg/kg (como suma de la sustancia misma, su forma oxidada [fosfato de bis (2,4-dicumilfenil) pentaeri tritol] y su producto de hidrólisis [2,4-dicumilfenol]) |
+|  |
+| 38875 | 002162-74-5 | Bis(2,6-diisopropilfenil)carbodiimida. | LME = 0,05 mg/kg. Para uso detrás de una capa de PET. |
 | 38879 | 135861-56-2 | Bis(3,4-dimetilbencilideno)sorbitol |  |
 | 38885 | 002725-22-6 | 2,4-Bis(2,4-dimetilfenil)-6-(2-hidroxi-4-n-octiloxifenil)-1,3,5-triazina | LME = 0,05 mg/kg. Solamente para alimentos acuosos |
 | 38950 | 079072-96-1 | Bis(4-etilbencilideno) sorbitol |  |
 | 39200 | 006200-40-4 | Cloruro de bis(2-hidroxietil)-2-hidroxi-propil-3-(dodeciloxi) metilamonio | LME = 1,8 mg/kg |
 | 39680 | 000080-05-7 | 2,2-bis(4-hidroxifenil)propano | LME(T)= 0,6 mg/kg (28) |
-| 39815 | 182121-12-6 | 9,9-Bis(metoximetil)fluoreno | CMA = 0,05 mg/6 dm2 |
+| 39815 | 182121-12-6 | 9,9-Bis(metoximetil)fluoreno | LME = 0,05 mg/kg |
 | 39890 | 087826-41-3 069158-41-4 054686-97-4 081541-12-0 | Bis(metilbencilideno) sorbitol |  |
 | 39925 | 129228-21-3 | 3,3-Bis(metoximetil)-2,5-dimetilhexano | LME = 0,05 mg/kg |
 | 40120 | 068951-50-8 | Hidroximetilfosfonato de bis(polietilen-glicol) | LME = 0,6 mg/kg |
@@ -175,6 +177,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 45560 | 014464-46-1 | Cristobalita |  |
 | 45600 | 003724-65-0 | Ácido crotónico | CMA(T) = 0,05 mg/6 dm2(33) |
 | 45640 | 005232-99-5 | 2-ciano-3,3-difenilacrilato de etilo | LME = 0,05 mg/kg |
+| 45703 | 491589-22-1 | Sal de calcio del ácido cis-1,2-.ciclohexanodicarboxílico. | LME = 5 mg/kg. |
 | 45705 | 166412-78-8 | Ácido 1,2-ciclohexanodicarboxílico, diisononil éster |  |
 | 45760 | 000108-91-8 | Ciclohexilamina |  |
 | 45920 | 009000-16-2 | Dammar |  |
@@ -197,6 +200,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 48460 | 000075-37-6 | 1,1-Difluoroetano |  |
 | 48620 | 000123-31-9 | 1,4-Dihidroxibenceno | LME = 0,6 mg/kg |
 | 48720 | 000611-99-4 | 4,4’-Dihidroxibenzofenona | LME(T) = 6 mg/kg (15) |
+| 48960 | — | Ácido 9,10-dihidroxiesteárico y sus oligómeros. | LME = 5 mg/kg. |
 | 49485 | 134701-20-5 | 2,4-Dimetil-6-(1-metilpentadecil)fenol | LME = 1 mg/kg |
 | 49540 | 000067-68-5 | Dimetil sulfóxido |  |
 | 51200 | 000126-58-9 | Dipentaeritritol |  |
@@ -230,6 +234,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 55520 | — | Fibras de vidrio |  |
 | 55600 | — | Micropartículas de vidrio |  |
 | 55680 | 000110-94-1 | Ácido glutárico |  |
+| 55910 | 736150-63-3 | Glicéridos, aceite de ricino monohidrogenado, acetatos. |  |
 | 55920 | 000056-81-5 | Glicerol |  |
 | 56020 | 099880-64-5 | Dibehenato de glicerol |  |
 | 56360 | — | Ésteres de glicerol con ácido acético |  |
@@ -267,6 +272,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 59360 | 000142-62-1 | Ácido hexanoico |  |
 | 59760 | 019569-21-2 | Huntita |  |
 | 59990 | 007647-01-0 | Ácido clorhídrico |  |
+| 60025 | — | Homopolímeros y/o copolímeros hidrogenados compuestos de 1-deceno y/o 1-dodeceno y/o de 1 octeno. | Con arreglo a las especificaciones establecidas en el anexo V. No utilizarse en objetos en contacto con alimentos grasos. |
 | 60030 | 012072-90-1 | Hidromagnesita |  |
 | 60080 | 012304-65-3 | Hidrotalcita |  |
 | 60160 | 000120-47-8 | 4-Hidroxibenzoato de etilo |  |
@@ -285,6 +291,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 62140 | 006303-21-5 | Ácido hipofosforoso |  |
 | 62240 | 001332-37-2 | Óxido de hierro |  |
 | 62245 | 012751-22-3 | Fosfuro de hierro | Sólo para polímeros y copolímeros de PET |
+| 62280 | 009044-17-1 | Copolímero de isobutileno buteno. |  |
 | 62450 | 000078-78-4 | Isopentano |  |
 | 62640 | 008001-39-6 | Cera japonesa |  |
 | 62720 | 001332-58-7 | Caolín |  |
@@ -313,7 +320,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 66640 | 009004-59-5 | Metiletilcelulosa |  |
 | 66695 | — | Metilhidroximetilcelulosa |  |
 | 66700 | 009004-65-3 | Metilhidroxipropilcelulosa |  |
-| 66755 | 002682-20-4 | 2-Metil-4-isotiazolin-3-ona | LME = ND (LD = 0,02 mg/ kg, tolerancia analítica incluida) |
+| 66755 | 002682-20-4 | 2-Metil-4-isotiazolin-3-ona | LME = 0,5 mg/kg. Para uso sólo en dispersiones y emulsiones acuosas de polímero y en las concentraciones que no dan lugar a un efecto antimicrobiano en la superficie del polímero o en la propia comida. |
 | 66905 | 000872-50-4 | N-metilpirrolidona |  |
 | 66930 | 068554-70-1 | Metilsilsesquioxano | Monómero residual en metil-silsesquioxano: < 1 mg de metiltrimetoxisilano/kg de metilsilsesquioxano |
 | 67120 | 012001-26-2 | Mica |  |
@@ -334,6 +341,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 70000 | 070331-94-1 | 2,2’-Oxamidobis[etil-3-(3,5-di-terc-butil 4-hidroxifenil) propionato] |  |
 | 70240 | 012198-93-5 | Ozocerita |  |
 | 70400 | 000057-10-3 | Ácido palmítico |  |
+| 70480 | 000111-06-8 | Éster butílico del ácido palmítico. |  |
 | 71020 | 000373-49-9 | Ácido palmitoleico |  |
 | 71440 | 009000-69-5 | Pectina |  |
 | 71600 | 000115-77-5 | Pentaeritritol |  |
@@ -355,7 +363,10 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 75105 | 068515-49-1 026761-40-0 | Diésteres de ácido ftálico con alcoholes primarios, saturados C9-C11, más de 90% C10 | Se utilizará únicamente: a) como plastificante en materiales y objetos de uso repetido; b) como plastificante en materiales y objetos de un solo uso que estén en contacto con alimentos no grasos excepto para preparados para lactantes y preparados de continuación tal como se definen en el Real Decreto 72/1998, de 23 de Enero, y los productos de conformidad con el Real Decreto 490/1998, de 27 de Marzo; c) como agente de apoyo técnico en concentraciones de hasta el 0,1 % en el producto final. LME(T) = 9 mg/kg de simu-lante alimenticio (42) |
 | 76320 | 000085-44-9 | Anhídrido ftálico |  |
 | 76415 | 019455-79-9 | Pimelato de calcio |  |
+| 76463 | — | Sales del ácido poliacrílico. | LME(T) = 6 mg/kg (36) (para el ácido acrílico) |
 | 76721 | 009016-00-6 063148-62-9 | Polidimetilsiloxano (PM > 6800) | De acuerdo con las especifica-ciones del anexo V |
+| 76723 | 167883-16-1 | Polidimetilsiloxano 3-aminopropil terminal, polímero con diciclohexilmetano - 4,4’-diisocianato. | Con arreglo a las especificaciones establecidas en el anexo V |
+| 76725 | 661476-41-1 | Polidimetilsiloxano 3-aminopropil terminal, polímero con 1-isocianato- 3-isocianatometil-3,5,5-trimetilciclohexano. | Con arreglo a las especificaciones establecidas en el anexo V. |
 | 76730 | — | Polidimetilsiloxano, gamma-hidroxipro-pilado | LME = 6 mg/kg |
 | 76815 | — | Ésteres de poliéster de ácido adípico con glicerol o pentaeritritol, con ácidos grasos C12-C22 no ramificados con número par de átomos de carbono | Con arreglo a las especifica-ciones establecidas en el anexo V |
 | 76845 | 031831-53-5 | Poliéster de 1,4-butanodiol con capro-lactona | Deberá respetarse la restricción para el nº de referencia 14260 y el nº de referencia 13720. Con arreglo a las especificaciones establecidas en el anexo V |
@@ -364,7 +375,10 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 77370 | 070142-34-6 | Polietilenglicol-30 dipolihidroxiestea rato |  |
 | 77600 | 061788-85-0 | Éster de polietilenglicol con aceite de ricino hidrogenado |  |
 | 77702 | — | Ésteres de polietilenglicol con ácidos alifáticos monocarboxílicos (C6-C22) y sus sulfatos de amonio y sodio |  |
+| 77732 | — | Acrilato de polietilenglicol (EO=1-30, típicamente 5) éter de butil 2-ciano 3-(4-hidroxi-3-metoxifenil). | LME = 0,05 mg/kg. Para uso sólo en PET. |
+| 77733 | — | Acrilato de polietilenglicol (EO=1-30, típicamente 5) éter de butil 2-ciano-3-(4-hidroxifenil). | LME = 0,05 mg/kg. Para uso sólo en PET. |
 | 77895 | 068439-49-6 | Éter monoalquílico (C16-C18) de polieti-lenglicol (OE = 2-6) | LME = 0,05 mg/kg y con arreglo a las especificaciones establecidas en el anexo V |
+| 77897 | — | Sales, sulfato de polietilenglicol (EO = 1-50) monoalquil éter (lineal y ramificado, C8-C20). | LME = 5 mg/kg. |
 | 79040 | 009005-64-5 | Monolaurato de polietilenglicol sorbi- tano |  |
 | 79120 | 009005-65-6 | Monooleato de polietilenglicol sorbi- tano |  |
 | 79200 | 009005-66-7 | Monopalmitato de polietilenglicol sor- bitano |  |
@@ -445,6 +459,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 88880 | 068412-29-3 | Almidón hidrolizado |  |
 | 88960 | 000124-26-5 | Estearamida |  |
 | 89040 | 000057-11-4 | Ácido esteárico |  |
+| 89120 | 000123-95-5 | Éster butílico del ácido esteárico. |  |
 | 89200 | 007617-31-4 | Estearato de cobre | LME(T) = 5 mg/kg (7) (expresado como cobre) |
 | 89440 | — | Ésteres del ácido esteárico con etilen-glicol | LME(T) = 30 mg/kg (3) |
 | 90720 | 058446-52-9 | Estearoilbenzoilmetano |  |
@@ -478,6 +493,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 95420 | 745070-61-5 | 1,3,5-tris(2,2-dimetilpropanamido)-benceno | LME = 0,05 mg/kg de alimento |
 | 95725 | 110638-71-6 | Vermiculita, producto de reacción con citrato de litio | LME(T) = 0,6 mg/kg (8) (expresado como litio) |
 | 95855 | 007732-18-5 | Agua | De acuerdo con el Real Decreto 140/2003 |
+| 95858 | — | Ceras parafínicas refinadas derivadas de materias primas a base de petróleo o de hidrocarburos sintéticos. | LME = 0,05 mg/kg y con arreglo a las especificaciones establecidas en el anexo V. No utilizarse en objetos en contacto con alimentos grasos. |
 | 95859 | — | Ceras, de elevada pureza, derivadas del petróleo basadas en materias primas hidrocarbonadas sintéticas | De acuerdo con las especifica-ciones del anexo V |
 | 95883 | — | Aceites minerales blancos, parafínicos, derivados del petróleo, basados en materias primas hidrocarbonadas | De acuerdo con las especifica-ciones del anexo V |
 | 95905 | 013983-17-0 | Wollastonita |  |
@@ -527,6 +543,8 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 
 (33) CMA(T) significa en este caso que la suma de las cantidades residuales de las sustancias siguientes, señaladas con los nos de ref. 14800 y 45600, no debe superar la restricción indicada.
 
+(36) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los n.os de ref. 10690, 10750, 10780, 10810, 10840, 11470, 11590, 11680, 11710, 11830, 11890, 11980, 31500 y 76463, no debe superar la restricción indicada.
+
 (38) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los nos de ref. 81515, 96190, 96240 y 96320, así como de las sales (incluidas sales dobles y sales ácidas) de zinc de los ácidos, fenoles o alcoholes autorizados, no debe superar la restricción indicada. La restricción prevista para el Zn se aplicará igualmente a las sustancias cuyo nombre contenga «… ácido(s), sal(es)» que aparezcan en las listas, en caso de que el/los correspondiente(s) ácido(s) libre(s) no se mencione(n).
 
 (42) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los nos de referencia 75100 y 75105, no debe superar la restricción indicada.
@@ -541,6 +559,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 31500 | 025134-51-4 | Copolímero de ácido acrílico y acrilato de 2-etilhexilo | LME(T) = 6 mg/kg (36) (expresado como ácido acrílico) y LME = 0,05 mg/ kg (expresado como acrilato de 2-etil hexilo) |
 | 31520 | 061167-58-6 | Acrilato de 2-terc-butil-6-(3-terc-butil-2-hidroxi-5-metilbencil)-4-metilfenilo | LME = 6 mg/kg |
 | 31920 | 000103-23-1 | Adipato de bis(2-etilhexilo) | LME = 18 mg/kg (1) |
+| 34130 | — | Alquildimetilaminas, lineales con número par de átomos de carbono (C12-C20). | LME = 30 mg/kg. |
 | 34230 | — | Ácido alquil(C8-C22)sulfónico | LME = 6 mg/kg |
 | 34650 | 151841-65-5 | Fosfato hidroxibis [2,2’-metilenbis (4,6-di- terc.-butilfenil)] de aluminio | LME = 5 mg/kg |
 | 35760 | 001309-64-4 | Trióxido de antimonio | LME = 0,04 mg/kg (39) (expresado como antimo nio) |
@@ -600,6 +619,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 52320 | 052047-59-3 | 2-(4-Dodecilfenil)indol | LME = 0,06 mg/kg |
 | 52880 | 023676-09-7 | 4-Etoxibenzoato de etilo | LME = 3,6 mg/kg |
 | 53200 | 023949-66-8 | 2-Etoxi-2’-etiloxanilida | LME = 30 mg/kg |
+| 53670 | 032509-66-3 | Bis[3,3-bis(3-terc-butil-4 hidroxifenil)butirato] de etilenglicol. | LME = 6 mg /kg |
 | 54880 | 000050-00-0 | Formaldehído | LME(T) = 15 mg/kg (22) |
 | 55200 | 001166-52-5 | Galato de dodecilo | LME(T) = 30 mg/kg (34) |
 | 55280 | 001034-01-1 | Galato de octilo | LME(T) = 30 mg/kg (34) |
@@ -639,7 +659,7 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 | 69160 | 014666-94-5 | Oleato de cobalto | LME(T) = 0,05 mg/kg (14) (expre-sado como cobalto) |
 | 69840 | 016260-09-6 | Oleilpalmitamida | LME = 5 mg/kg |
 | 71935 | 007601-89-0 | Perclorato de sodio monohidratado | LME = 0,05 mg/kg (31) |
-| 72081/10 | — | Resinas de hidrocarburos de petróleo (hidrogenadas) | LME = 5 mg/kg (1) y con arreglo a las especificaciones establecidas en el anexo V |
+| 72081/10 | — | Resinas de hidrocarburos de petróleo (hidrogenadas) | Con on arreglo a las especificaciones establecidas en el anexo V |
 | 72160 | 000948-65-2 | 2-Fenilindol | LME = 15 mg/kg |
 | 72800 | 001241-94-7 | Fosfato de difenilo 2-etilhexilo | LME = 2,4 mg/kg |
 | 73040 | 013763-32-1 | Fosfato de litio | LME(T) = 0,6 mg/kg (8) (expre-sado como litio) |
@@ -718,10 +738,12 @@ v) Cualquier otro tipo de especificaciones vinculadas a la sustancia o al polím
 
 (34) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los nos de ref. 55200, 55280 y 55360, no debe superar la restricción indicada.
 
-(36) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los nos de ref. 10690, 10750, 10780, 10810, 10840, 11470, 11590, 11680, 11710, 11830, 11890, 11980 y 31500, no debe superar la restricción indicada.
+(36) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los n.os de ref. 10690, 10750, 10780, 10810, 10840, 11470, 11590, 11680, 11710, 11830, 11890, 11980, 31500 y 76463, no debe superar la restricción indicada.
 
 (39) El límite de migración puede superarse a muy alta temperatura.
 
 (40) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los nos de ref. 38940 y 40020, no debe superar la restricción indicada.
 
 (41) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los nos de referencia 47600 y 67360, no debe superar la restricción indicada.
+
+> Se modifica por el art. único.2 y anexo II del Real Decreto 103/2009, de 6 de febrero. Ref. BOE-A-2009-2638

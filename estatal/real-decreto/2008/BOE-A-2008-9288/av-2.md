@@ -7,6 +7,7 @@
 | 31520 | 061167-58-6 | Acrilato de 2-terc-butil-6-(3-terc-butil-2-hidroxi-5-metilbencil)-4-metilfenilo |
 | 31530 | 123968-25-2 | Acrilato de 2,4-di-terc-pentil-6-[1-(3,5-di-terc-pentil-2-hidroxifenil)etil]fenilo |
 | 31920 | 000103-23-1 | Adipato de bis(2-etilhexilo) |
+| 34130 | — | Alquildimetilaminas, lineales con número par de átomos de carbono (C12-C20). |
 | 38240 | 000119-61-9 | Benzofenona |
 | 38515 | 001533-45-5 | 4,4’Bis(2-benzoxazolil)estilbeno |
 | 38560 | 007128-64-5 | 2,5-bis(5-terc-butil-2-benzoxazolil)tiofeno |
@@ -16,6 +17,7 @@
 | 38820 | 026741-53-7 | Difosfito de bis(2,4-di-terc-butilfenil)pentaeritritol |
 | 38840 | 154862-43-8 | Difosfito de bis(2,4-dicumilfenil)pentaeritritol |
 | 39060 | 035958-30-6 | 1,1-Bis(2-hidroxi-3,5-di-terc-butilfenil)etano |
+| 39815 | 182121-12-6 | 9,9-Bis(metoximetil)fluoreno. |
 | 39925 | 129228-21-3 | 3,3-Bis(metoximetil)-2,5-dimetilhexano |
 | 40000 | 000991-84-4 | 2,4-Bis(octiltio)-6-(4-hidroxi-3,5-di-terc-butilanilino)-1,3,5-triazina |
 | 40020 | 110553-27-0 | 2,4-Bis(octiltiometil)-6-metilfenol |
@@ -33,6 +35,7 @@
 | 51680 | 000102-08-9 | N,N’-Difeniltiourea |
 | 52320 | 052047-59-3 | 2-(4-Dodecilfenil)indol |
 | 53200 | 023949-66-8 | 2-Etoxi-2’-etiloxanilida |
+| 53670 | 032509-66-3 | Bis[3,3-bis(3-terc-butil-4 hidroxifenil)butirato] de etilenglicol |
 | 54300 | 118337-09-0 | 2,2’Etilidenbis(4,6-di-terc-butilfenil) fluorofosfonito |
 | 59120 | 023128-74-7 | 1,6-Hexametilenbis[3-(3,5-di-terc-butil-4-hidroxifenil)propionamida] |
 | 59200 | 035074-77-2 | 1,6-Hexametilenbis[3-(3,5-di-terc-butil-4-hidroxifenil)propionato] |
@@ -52,20 +55,20 @@
 | 68400 | 010094-45-8 | Octadecilerucamida |
 | 69840 | 016260-09-6 | Oleilpalmitamida |
 | 71670 | 178671-58-4 | Tetrakis (2-ciano-3,3-difenilacrilato) de pentaeritritol |
-| 72081/10 | – | Resinas de hidrocarburos de petróleo (hidrogenadas) |
+| 72081/10 | — | Resinas de hidrocarburos de petróleo (hidrogenadas) |
 | 72160 | 000948-65-2 | 2-Fenilindol |
 | 72800 | 001241-94-7 | Fosfato de difenilo 2-etilhexilo |
-| 73160 | – | Fosfatos de mono- y di-n-alquilo (C16 y C18) |
+| 73160 | — | Fosfatos de mono- y di-n-alquilo (C16 y C18) |
 | 74010 | 145650-60-8 | Fosfito de bis(2,4-di-terc-butil-6-metilfenilo) etilo |
-| 74400 | – | Fosfito de tris(nonil- y/o dinonilfenilo) |
-| 76866 | – | Poliésteres de 1,2-propanodiol y/o 1,3- y/o 1,4-butanodiol y/o poliproilenglicol con ácido adípico, además con el extremo encapsulado con ácido acético o ácidos grasos C12-C18 o n-octanol y/o n-decanol |
-| 77440 | – | Diricinoleato de polietileneglicol |
+| 74400 | — | Fosfito de tris(nonil- y/o dinonilfenilo) |
+| 76866 | — | Poliésteres de 1,2-propanodiol y/o 1,3- y/o 1,4-butanodiol y/o poliproilenglicol con ácido adípico, además con el extremo encapsulado con ácido acético o ácidos grasos C12-C18 o n-octanol y/o n-decanol |
+| 77440 | — | Diricinoleato de polietileneglicol |
 | 78320 | 009004-97-1 | Monoricinoleato de polietileneglicol |
 | 81200 | 071878-19-8 | Poli[6-[(1,1,3,3-tetrametilbutil)amino]-1,3,5-triazina-2,4-diil- [(2,2,6,6,-tetrametil-4-piperidil)iminohexametileno-[(2,2,6,6-tetrametil-4-piperidil)imino |
 | 83599 | 068442-12-6 | Productos de reacción de oleato de 2-mercaptoetilo con diclorodimetilestaño, sulfuro de sodio y triclorometilestaño |
 | 83700 | 000141-22-0 | Ácido ricinoleico |
 | 84800 | 000087-18-3 | Salicilato de 4-terc-butilfenilo |
-| 92320 | - | Éter de tetradecil-polioxietileno(OE=3-8) del ácido glicolico |
+| 92320 | — | Éter de tetradecil-polioxietileno(OE=3-8) del ácido glicolico |
 | 92560 | 038613-77-3 | Difosfonito de tetrakis(2,4-di-terc-butilfenil)-4,4’-bifenileno |
 | 92700 | 078301-43-6 | Polímero de 2,2,4,4-tetrametil-20-(2,3-epoxipropil)-7-oxa-3,20-diazadies-piro[5.1.11.2]-henecosan-21-ona |
 | 92800 | 000096-69-5 | 4,4’-Tiobis(6-terc-butil-3-metilfenol) |
@@ -76,3 +79,5 @@
 | 95280 | 040601-76-1 | 1,3,5-Tris(4-terc-butil-3-hidroxi-2,6-dimetilbencil)-1,3,5-triazina-2,4,6 (1H,3H,5H)-triona |
 | 95360 | 027676-62-6 | 1,3,5-Tris(3,5-di-terc-butil-4-hidroxibencil)-1,3,5-triazina-2,4,6(1H,3H,5H)-triona |
 | 95600 | 001843-03-4 | 1,1,3-Tris(2-metil-4-hidroxi-5-terc-butilfenil)butano |
+
+> Se modifica por el art. único.2 y anexo IV del Real Decreto 103/2009, de 6 de febrero. Ref. BOE-A-2009-2638
