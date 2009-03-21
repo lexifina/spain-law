@@ -1,0 +1,9 @@
+El artículo 149.1.28.ª de la Constitución Española establece que el Estado tiene competencia exclusiva sobre bibliotecas de titularidad estatal, sin perjuicio de su gestión por parte de las Comunidades autónomas.
+
+En el artículo 14.3.a) de la Ley 10/2007, de 22 de junio, de la Lectura, del Libro y de las Bibliotecas, se establece que el Ministerio de Cultura, en cooperación con las Comunidades autónomas, al objeto de promover un desarrollo equilibrado, coherente, progresivo, innovador y constante del conjunto de bibliotecas, sistemas, redes y consorcios existentes en España y fomentar la igualdad en el acceso a un servicio público de biblioteca de calidad en el conjunto del Estado, desarrollará, entre otras, la función de creación, dotación y fomento de bibliotecas, de acuerdo con la normativa vigente, previa consulta o, en su caso, previo acuerdo con la Comunidad autónoma correspondiente.
+
+La ciudad de Ceuta no dispone hasta el presente de biblioteca pública del Estado, por lo que el Ministerio de Cultura considera necesaria su creación para prestar a la población los servicios culturales a que se ha hecho referencia.
+
+En el artículo 13 de la Ley 10/2007, de 22 de junio, se establecen los principios y criterios por los que se regirá la Administración General del Estado en todo lo relativo a las bibliotecas públicas, tanto en relación con las bibliotecas públicas de su titularidad, como en sus relaciones en esta materia con el resto de administraciones públicas, todo ello, sin perjuicio de las competencias de las Comunidades autónomas y de las entidades locales. Dichos principios y criterios se han recogido, sintéticamente, en el artículo 1 de esta orden.
+
+En consecuencia, de conformidad con lo previsto en el artículo 14.3 a) de la Ley 10/2007, de 22 de junio, de la Lectura, del Libro y de las Bibliotecas, y previa aprobación de la Ministra de Administraciones Públicas, he dispuesto:
