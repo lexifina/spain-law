@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Solicitudes de compensación al transporte realizado en 2007 y 2008.
+
+Las solicitudes de compensación a los transportes realizados en los ejercicios 2007 y 2008 ya presentadas según el Real Decreto 199/2000, de 11 de febrero, sobre compensación al transporte marítimo y aéreo de mercancías con origen o destino en las Islas Canarias, quedan amparadas por el presente real decreto y serán ampliadas con una solicitud complementaria en la que se incorporarán los nuevos conceptos de costes subvencionables regulados en el artículo 7.1. Esta solicitud complementaria podrá presentarse en un plazo de 15 días hábiles a contar desde el día siguiente al de la publicación del presente real decreto en el «Boletín Oficial del Estado».
+
+Los transportes realizados en los ejercicios 2007 y 2008 no recogidos en el Real Decreto 199/2000, deberán presentar una nueva solicitud ajustada al presente real decreto en el plazo de 15 días hábiles a contar desde el día siguiente al de su publicación en el «Boletín Oficial del Estado».
