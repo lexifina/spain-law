@@ -1,0 +1,15 @@
+El Real Decreto 589/2005, de 20 de mayo, por el que se reestructuran los órganos colegiados responsables de la Administración electrónica, estableció las líneas estratégicas en materia de tecnologías de la información en el ámbito de la Administración General del Estado y las medidas necesarias para su ordenada implantación.
+
+En cumplimiento del mandato establecido en dicho real decreto, fue aprobada la Orden FOM 911/2006, de 16 de marzo, por la que se regula la composición y funcionamiento de la Comisión de Administración Electrónica del Ministerio de Fomento.
+
+La aprobación y entrada en vigor de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, establece como una de las principales novedades el reconocimiento de la relación con las Administraciones Públicas por medios electrónicos como un derecho de los ciudadanos y, como contrapartida, la obligación de dichas administraciones de garantizarlo. Los derechos específicos que comprende la utilización de estos medios se detallan en el artículo 6 de dicha ley y podrán ser ejercidos por los ciudadanos a partir del 31 de diciembre de 2009, conforme prevé la disposición final tercera.
+
+Teniendo en cuenta el fuerte crecimiento de la demanda de soluciones de tecnologías de la información en la Administración, junto con la globalización y acelerada evolución de este sector, es aconsejable la intensificación de la labor de planificación y normalización de estas tecnologías en el ámbito público, racionalizando su uso y potenciando la eficacia de las inversiones y gastos que de ello se derivan y las actividades de contratación que ello conlleva.
+
+Es preciso reforzar la composición y funciones del órgano colegiado responsable de la Administración Electrónica en el ámbito del Ministerio de Fomento para asegurar la eficiencia en el establecimiento de las líneas estratégicas, dentro de la política del Gobierno, en materia de tecnologías de la información, así como en el impulso y coordinación del desarrollo de la Administración electrónica en el citado Ministerio mediante la adopción de las medidas necesarias para su ordenada implantación.
+
+A tales efectos, se promueve esta renovación de la estructura organizativa y competencial del órgano colegiado responsable de la Administración Electrónica en el ámbito del Ministerio de Fomento. Asimismo es precisa la actualización de la composición del citado órgano colegiado para adecuarlo a la estructura orgánica del mismo, que ha sido modificada en los últimos meses, mediante Real Decreto 432/2008, de 12 de abril, por el que se reestructuran los Departamentos Ministeriales, que ha sido modificado por Real Decreto 1662/2008, de 17 de octubre, y mediante Real Decreto 438/2008, de 14 de abril, por el que se aprueba la estructura orgánica básica de los Departamentos Ministeriales.
+
+La orden ha sido informada favorablemente por el Consejo Superior de Administración Electrónica.
+
+En su virtud, con la aprobación previa de la Ministra de Administraciones Públicas, dispongo:
