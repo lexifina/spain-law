@@ -2,9 +2,9 @@
 
 ## Documentación sobre animales de la especie bovina, ovina o caprina, destinados a matadero
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/240/17496_001.png)
+(Derogado)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/240/17496_002.png)
+> Se deroga por la disposición derogatoria del Real Decreto 361/2009, de 20 de marzo. Ref. BOE-A-2009-5129.
 
 > Se modifica por el art. único y anexo de la Orden PRE/2893/2007, de 5 de octubre. Ref. BOE-A-2007-17496.
 
