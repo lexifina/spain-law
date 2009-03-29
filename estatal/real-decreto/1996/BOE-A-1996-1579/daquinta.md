@@ -4,4 +4,6 @@
 
 2. La base de cotización por las contingencias profesionales en el supuesto que se señala en el apartado anterior, se calculará conforme al promedio de la base de cotización por dichas contingencias en los últimos seis meses de ocupación efectiva.
 
-3. Para la determinación de la cuota, a la base así calculada se aplicará el tipo de cotización que para cada ejercicio determine el Ministerio de Trabajo y Seguridad Social.
+3. Para la determinación de la cuota, a la base así calculada se aplicará el tipo de cotización que corresponda de la tarifa de primas vigente.
+
+> Se modifica el apartado 3 por el art. 2 .9 del Real Decreto 328/2009, de 13 de marzo. Ref. BOE-A-2009-5128
