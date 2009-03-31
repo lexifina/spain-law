@@ -1,0 +1,19 @@
+El artículo 17 de la Ley 35/2003, de instituciones de inversión colectiva («Boletín Oficial del Estado» de 5 de noviembre de 2003, y en adelante LIIC), establece los documentos informativos que deberán publicar las sociedades gestoras, para cada uno de los fondos que administre, y las sociedades de inversión. Entre dichos documentos se encuentran los informes anual, semestral y trimestrales cuyos modelos normalizados deberá establecer la CNMV, de acuerdo con el punto 6 del artículo 17 comentado.
+
+Haciendo acopio del mandato anterior, en la presente Circular se desarrolla el contenido de los modelos de informes trimestrales, semestral y anual de las instituciones de inversión colectiva, en su parte común, tal y como señalan los artículos 24.2 y 25 del Real Decreto 1309/2005, de 4 de noviembre («Boletín Oficial del Estado» de 8 de noviembre, y en adelante RIIC).
+
+Se ha procurado simplificar el informe trimestral completo existente hasta el momento, que se diferenciará de los informes simplificados en cuanto a que incorporará el detalle de la cartera de inversiones, mientras que en el segundo caso se informará a nivel de subtotales y totales. De acuerdo con lo que establece la Norma quinta de la Orden de 118/04/2001, sobre folletos explicativos, informes trimestrales y obligaciones de información de las IIC, al partícipe deberá remitírsele el informe simplificado. Tanto la publicidad de los informes periódicos a la que hacen referencia los artículos 18.2 LIIC y 27 RIIC, como el envío de dichos informes a la CNMV se referirá al informe completo. La entrega de estos documentos con anterioridad a la suscripción se referirá al informe simplificado.
+
+En relación al informe anual, éste se estructura en dos partes: la primera corresponde al informe semestral del segundo semestre, y la segunda que contendrá las cuentas anuales, informe de gestión y opinión de auditoría.
+
+Por otra parte, se regula la forma de acreditar el cumplimiento de la obligación de entrega de los informes periódicos con carácter previo a la suscripción de participaciones o acciones de las instituciones de inversión colectiva y la manera de acreditar, por parte de la entidad, la renuncia expresa, por parte del partícipe o accionista, a la recepción de dichos informes junto con la solicitud de los informes trimestrales o la remisión de los mismos por medios telemáticos, de acuerdo a lo previsto en el artículo 21 del RIIC.
+
+Asimismo, se incorpora la obligación de remitir a la CNMV los informes trimestral, semestral y primera parte del informe anual por el servicio CIFRADOC/CNMV, aprobado por Acuerdo del Consejo de la CNMV de 15 de septiembre de 2006 u otro similar, haciendo uso de las habilitaciones contenidas en los artículos 21, 24.2 y 25 del RIIC.
+
+Adicionalmente, se establece un nuevo contenido a los estados de posición que la sociedad gestora debe remitir a los partícipes y accionistas, en la sección segunda de esta Circular, al amparo de la habilitación contenida en el artículo 4.3 del RIIC y el artículo 10 de la Orden EHA/596/2008, por la que se regulan determinados aspectos del régimen jurídico del depositario de instituciones de inversión colectiva, y se concreta el contenido de los estados de posición.
+
+Por último, y dada la dispersión de la normativa relativa a estos informes, se ha optado por reunir en la presente Circular todas las referencias a los mismos, con las adaptaciones necesarias, derogando la normativa existente hasta la fecha.
+
+Por todo lo anterior, y al amparo de la habilitación directa conferida a la Comisión Nacional del Mercado de Valores en el apartado 6 del artículo 17 de la Ley 35/2003, de 4 de noviembre, de instituciones de inversión colectiva, la presente Circular regula los modelos normalizados de los informes semestral, trimestral y primera parte del informe anual.
+
+En su virtud, el Consejo de la CNMV, en su reunión de 11 de septiembre de 2008 ha dispuesto:
