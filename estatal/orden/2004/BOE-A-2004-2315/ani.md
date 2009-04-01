@@ -56,6 +56,12 @@ Este procedimiento comprenderá la liquidación de la mencionada tasa y la recep
 
 Procedimiento de solicitud y concesión de recursos del Fondo Estatal de Inversión Local para la financiación de proyectos de inversión generadores de empleo, regulado en el Título I del Real Decreto-ley 9/2008, de 28 de noviembre, por el que se crean un Fondo Estatal de Inversión Local y un Fondo Especial del Estado para la Dinamización de la Economía y el Empleo y se aprueban créditos extraordinarios para atender a su financiación.
 
+Procedimiento de presentación de solicitudes reguladas en el Real Decreto 170/2009, de 13 de febrero, sobre compensación al transporte marítimo y aéreo de mercancías incluidas en el anexo I del Tratado Constitutivo de la Comunidad Europea, con origen o destino en las Islas Canarias.
+
+Procedimiento de presentación de solicitudes reguladas en el Real Decreto 362/2009, de 20 de marzo, sobre compensación al transporte marítimo y aéreo de mercancías no incluidas en el anexo I del Tratado Constitutivo de la Comunidad Europea, con origen o destino en las Islas Canarias.
+
+> Se amplía por el apartado 1 de la Resolución de 27 de marzo de 2009. Ref. BOE-A-2009-5386.
+
 > Se amplía por el apartado 1 de la Resolución de 9 de diciembre de 2008. Ref. BOE-A-2008-20062.
 
 > Se amplía por el apartado 1 de las Resoluciones de 11 de septiembre de 2008. Ref. BOE-A-2008-14975. y Ref. BOE-A-2008-14976.
