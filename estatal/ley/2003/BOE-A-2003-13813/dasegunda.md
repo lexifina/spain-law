@@ -4,7 +4,7 @@
 
 2. Se considera legislación especial, a los efectos de la aplicación del apartado 1, la regulada en las siguientes normas:
 
-a) Artículos 14 y 15 de la Ley 2/1981, de 25 de marzo, de regulación del mercado hipotecario, así como las normas reguladoras de otros valores o instrumentos a los que legalmente se atribuya el mismo régimen de solvencia que el aplicable a las cédulas hipotecarias.
+a) Artículos 10, 14 y 15 de la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario, así como las normas reguladoras de otros valores o instrumentos a los que legalmente se atribuya el mismo régimen de solvencia que el aplicable a las cédulas hipotecarias.
 
 b) Artículo 16 del Real Decreto Ley 3/1993, de 26 de febrero, sobre medidas urgentes en materias presupuestarias, tributarias, financieras y de empleo.
 
@@ -26,12 +26,14 @@ j) Ley 6/2005, de 22 de abril, sobre Saneamiento y Liquidación de las Entidades
 
 3. Las normas legales mencionadas en el apartado anterior se aplicarán con el alcance subjetivo y objetivo previsto en las mismas a las operaciones o contratos que en ellas se contemplan y, en particular, las referidas a las operaciones relativas a los sistemas de pagos y de liquidación y compensación de valores, operaciones dobles, operaciones con pacto de recompra o se trate de operaciones financieras relativas a instrumentos derivados.
 
-> Se modifica el apartado 2 por la disposición final 4 de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874.
+> Se modifica el apartado 2.a) por el art. 8.4 del Real Decreto-ley 3/2009, de 27 de marzo. Ref. BOE-A-2009-5311
 
-> Se modifica el apartado 2 por la disposición final 2 de la Ley 25/2005, de 24 de noviembre. Ref. BOE-A-2005-19412.
+> Se modifica el apartado 2 por la disposición final 4 de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
 
-> Se modifica el apartado 2 por la disposición final 3.2 de la Ley 6/2005, de 22 de abril. Ref. BOE-A-2005-6562.
+> Se modifica el apartado 2 por la disposición final 2 de la Ley 25/2005, de 24 de noviembre. Ref. BOE-A-2005-19412
 
-> Se modifica el apartado 2 por la disposición adicional 3 del Real Decreto-ley 5/2005 , de 11 de marzo. Ref. BOE-A-2005-4172.
+> Se modifica el apartado 2 por la disposición final 3.2 de la Ley 6/2005, de 22 de abril. Ref. BOE-A-2005-6562
 
-> Se añade el apartado 3 por la disposición adicional 3 de la Ley 36/2003, de 11 de noviembre. Ref. BOE-A-2003-20695.
+> Se modifica el apartado 2 por la disposición adicional 3 del Real Decreto-ley 5/2005 , de 11 de marzo. Ref. BOE-A-2005-4172
+
+> Se añade el apartado 3 por la disposición adicional 3 de la Ley 36/2003, de 11 de noviembre. Ref. BOE-A-2003-20695
