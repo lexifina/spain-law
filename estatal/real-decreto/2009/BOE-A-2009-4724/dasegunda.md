@@ -1,0 +1,9 @@
+## Disposición adicional segunda. Certificación médica sobre la existencia de riesgo durante el embarazo o de riesgo durante la lactancia natural.
+
+1. En las direcciones provinciales del Instituto Nacional de la Seguridad Social en las que no se disponga de servicios médicos propios, la certificación médica prevista en los artículos 39, 47 y 51 de este real decreto será expedida por la Inspección de Servicios Sanitarios del Servicio Público de Salud u órgano equivalente de las comunidades autónomas que hayan asumido las transferencias en materia sanitaria.
+
+En el ámbito de aplicación del Régimen Especial de la Seguridad Social de los Trabajadores del Mar, en las direcciones provinciales en las que el Instituto Social de la Marina no disponga de servicios médicos propios, la referida certificación médica será expedida por los servicios médicos del Instituto Nacional de la Seguridad Social o, en su caso, y de conformidad con lo establecido en el párrafo anterior, por la Inspección de los Servicios Sanitarios del Servicio Público de Salud u órgano equivalente de las comunidades autónomas.
+
+2. La expedición de esta certificación, si procede el reconocimiento de la situación de riesgo durante el embarazo o de riesgo durante la lactancia natural, será de tramitación preferente y constará de un original y dos copias. Se entregará a la trabajadora el original y una copia con destino a la empresa o, en su caso, al responsable del hogar familiar, quedándose la otra copia en poder del servicio médico.
+
+3. La entidad gestora o colaboradora, responsable de la gestión y pago del subsidio por riesgo durante el embarazo o del subsidio por riesgo durante la lactancia natural, podrá solicitar la aportación de la evaluación inicial del riesgo del puesto de trabajo ocupado por la trabajadora, así como la relación de puestos de trabajo exentos de riesgo, según lo establecido, respectivamente, en los artículos 16.2 y 26.2 de la Ley 31/1995, de 8 de noviembre.

@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Guías para la determinación de los riesgos derivados de los puestos de trabajo.
+
+Con el fin de valorar homogéneamente la existencia de los riesgos durante el embarazo y durante la lactancia natural, el Ministerio de Trabajo e Inmigración elaborará las correspondientes guías en las que se definan los riesgos que pueden derivar del puesto de trabajo, y en las que se recogerá una relación no exhaustiva de agentes, procedimientos o condiciones de trabajo que pueden influir de forma negativa en la salud de las trabajadoras o del feto, en caso de embarazo, y en la de la madre o en la del hijo, en supuestos de lactancia natural.
