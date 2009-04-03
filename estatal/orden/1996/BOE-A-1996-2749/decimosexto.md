@@ -2,13 +2,17 @@
 
 1. Los documentos del Presupuesto de Ingresos y de operaciones no presupuestarias son los siguientes:
 
-a) Resúmenes contables: Son documentos que resumen la información de detalle que se gestiona a través de sistemas auxiliares de contabilidad por fuera del SICOP.
+a) Resúmenes contables: Son documentos que resumen la información de detalle que se gestiona a través de sistemas auxiliares de contabilidad no integrados en el SIC.
+
+Para la rectificación de los ingresos aplicados se utilizará el documento “Resumen Contable de Rectificación”.
 
 b) Órdenes de cobro de Departamentos ministeriales.
 
 c) Anulación de órdenes de cobros de Departamentos ministeriales.
 
-d) Instrumentos de cobro. Constan de dos partes que tendrán la consideración de documentos independientes: Carta de pago y talón de cargo. En el caso del modelo 012 para liquidaciones de contraído previo, se incluye también otra copia para «justificante de notificación».
+d) Instrumentos de cobro. Para los cobros realizados a través de entidades colaboradoras se utilizarán los documentos 060, 061 y 069 que se regulan en la Orden PRE/3662/2003, de 29 de diciembre.
+
+Para los cobros a través de Caja el instrumento de cobro constará de tres partes que tendrán la consideración de documentos independientes: Carta de pago, talón de cargo y resguardo complementario a efectos de generación de crédito..
 
 e) Propuesta de mandamiento de pago por devolución de ingresos.
 
@@ -25,3 +29,5 @@ i) Anexo: Permite incluir más de cinco aplicaciones contables en las propuestas
 La Intervención General de la Administración del Estado podrá dictar las disposiciones necesarias para la normalización de estos documentos, así como para su remisión a través de medios informáticos.
 
 3. Para el resto de documentos se utilizarán los modelos que figuran en el anexo II.
+
+> Se modifican las letras a) y d) del punto 1 por el art. único.2 de la Orden EHA/818/2009, de 27 de marzo. Ref. BOE-A-2009-5488.

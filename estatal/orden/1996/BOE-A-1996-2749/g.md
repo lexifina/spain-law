@@ -1,14 +1,16 @@
 ## G) OTROS DOCUMENTOS DE CONTABILIDAD
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_039.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_019.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_020.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_061.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_040.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_062.png)
+
+> Se modifican determinados modelos por el art. único.4.4 y el anexo III de la Orden EHA/818/2009, de 27 de marzo. Ref. BOE-A-2009-5488.
 
 > Se modifican y añaden determinados modelos por el apartado 3.B) y anexo de la Resolución de 23 de febrero de 1999. Ref. BOE-A-1999-5362.
 

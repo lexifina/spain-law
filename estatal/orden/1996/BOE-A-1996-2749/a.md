@@ -1,54 +1,58 @@
 ## A) DOCUMENTOS CONTABLES DEL PRESUPUESTO DE GASTOS
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/134/10789_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/134/10789_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/134/10789_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_015.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/134/10789_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_016.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/134/10789_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_017.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_018.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_019.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_020.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_016.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_021.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_023.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_024.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_017.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_025.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/51/03740_001.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/51/03740_002.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_001.png)
+
+> Se añade el modelo de documento "Anexo información adicional" y se modifican determinados modelos por el art. único.4.1 y 4 y los anexos I y III de la Orden EHA/ 818/2009, de 27 de marzo. Ref. BOE-A-2009-5488.
 
 > Se añaden los modelos de documentos "Anexo distribución territorial del área origen del gasto" y "Modificación distribución territorial del área origen del gasto"por el art. 1.3 y anexos I y II de la Orden EHA/480/2008, de 20 de febrero. Ref. BOE-A-2008-3740.
 

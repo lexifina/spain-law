@@ -40,9 +40,17 @@ b) Documento RC de ejercicio corriente (Solicitud de retenciones de crédito y r
 
 106 Retención de crédito para bajas por anulación y otras minoraciones.
 
+108 Retención adicional del 10% de la adjudicación.
+
+109 Retención 1% cultural (art. 58.3.b) del R.D. 111/1986).
+
 c) Documento RC de ejercicios posteriores (solicitud de certificado de cumplimiento de límites del artículo 61 del TRLGP):
 
 100 Retención de crédito para ejercicios posteriores.
+
+108 Retención adicional del 10% de la adjudicación.
+
+109 Retención 1% cultural (art. 58.3.b) del R.D. 111/1986).
 
 d) Documento A de ejercicio corriente y de ejercicios posteriores (autorizaciones de gasto):
 
@@ -170,7 +178,7 @@ Los documentos contables del presupuesto de gastos, los de Anticipos de Tesorer�
 
 13. Orgánica: Se indicará el código del servicio en los dos primeros dígitos y, en su caso, si se hubiese aprobado un desglose mayor, se consignará el código identificativo de las unidades que dependan de dicho servicio.
 
-14. Funcional: Se indicará el código correspondiente a la clasificación funcional del Presupuesto de Gastos.
+14. Programa: Se indicará el código correspondiente a la clasificación por programas del Presupuesto de Gastos.
 
 14 bis. C. Modif.: Código correspondiente a la modificación presupuestaria. Este dato solamente se introducirá en los documentos expedidos por la Dirección General de Presupuestos.
 
@@ -204,7 +212,17 @@ Cuando se utilicen documentos «Anexo Aplicaciones», en aquellos documentos a l
 
 27. Área origen del gasto: Se indicará el código identificativo y denominación de la provincia o grupo de provincias que corresponda. Si en un documento OK o ADOK, cuyas aplicaciones presupuestarias pertenezcan a los capítulos 6 ó 7 del presupuesto de gastos, se incluye el área origen del gasto 90 correspondiente a varias provincias de distintas Comunidades Autónomas, necesariamente se deberá acompañar dicho documento de uno o más documentos “Anexo Distribución territorial del área origen del gasto”, desglosando el importe total entre las provincias o grupos de provincias de la Comunidad Autónoma o Comunidades Autónomas que correspondan. No será obligatorio el desglose anterior si en el documento OK o ADOK figura como área origen del gasto alguna de las comprendidas entre las claves 91 a 98.
 
-28. Caja Pagadora: Se indicará, en su caso, el código y denominación de la Caja Pagadora que deba efectuar el pago.
+28. Epígrafe de gasto: Mediante el epígrafe de gasto, el Servicio gestor puede clasificar los gastos de los diversos expedientes atendiendo a criterios distintos de los que se derivan de las clasificaciones orgánica, por programas y económica del presupuesto.
+
+Este apartado es de cumplimentación opcional.
+
+El campo “Código” tendrá la estructura que asigne el servicio gestor, no pudiendo exceder de los dígitos previstos en el documento contable. Junto al código figurará su denominación.
+
+En el campo “Importe” se consignará el importe asignado a cada epígrafe de gasto.
+
+Si hubiera más de dos epígrafes se consignarán en otro documento “Anexo información adicional”.
+
+En su caso, la Intervención General de la Administración del Estado podrá crear epígrafes de gasto, que los Servicios gestores deberán consignar en los documentos contables que expidan para la ejecución de los gastos afectados.
 
 29. Código descuento: Se indicará los códigos correspondientes a los descuentos que se deban efectuar sobre el importe íntegro de la orden de pago.
 
@@ -230,11 +248,15 @@ Arrendamientos.
 
 Otros gastos de carácter periódico y de tracto sucesivo.
 
-b) Día en que se efectúa la recepción:
+b.1) Día en que se efectúa la recepción:
 
-Liquidación de contratos de obras.
+Certificación final del contrato de obras.
 
-Liquidación de contratos de suministros.
+Liquidación de los contratos, excepto el de obras.
+
+b.2) Día de finalización plazo de garantía:
+
+Liquidación de los contratos de obras.
 
 c) Día en que se efectúa la adquisición:
 
@@ -280,10 +302,6 @@ j) Día en el que la Caja Pagadora haya presentado la cuenta justificativa a la 
 
 42. Texto libre de la operación: Espacio para indicar, en su caso, las explicaciones necesarias referentes a la operación que se pretende registrar.
 
-En el caso de documentos relativos a transferencias o subvenciones concedidas que incorporen la fase «D» de compromiso del gasto, se consignará en el texto libre de los mismos la normativa con base en la cual se han efectuado o concedido las correspondientes transferencias o subvenciones.
-
-Además, en el caso de subvenciones concedidas se consignará también en dicho texto libre la finalidad de las mismas.
-
 43. Importe a desglosar o distribuir: Importe que se pretende desglosar o, en su caso, distribuir entre los servicios periféricos.
 
 44. ''Subconcepto o partida, subprograma o elemento de programa, código territorial u orgánico'': Se indicarán los subconceptos en los que se desglosa un concepto o, en su caso, las partidas en que se desglosa un subconcepto; los subprogramas en que se desglosa un programa o, en su caso, los elementos de programa en que se desglosa un subprograma, y los códigos territorial u orgánico en que se desglosa la sección. Cuando se refiera a delegación o desconcentración de competencias, se indicará el código territorial a que corresponda el servicio periférico.
@@ -314,7 +332,7 @@ Además, en el caso de subvenciones concedidas se consignará también en dicho 
 
 57. Total acuerdos: Se recogerá la suma o diferencia de los importes anteriores 55 y 56 según que el acuerdo sea de incremento o disminución, respectivamente.
 
-58. Cajero pagador: Código de identificación fiscal y denominación de los cajeros pagadores a los que se les distribuyen los fondos del anticipo de caja fija
+58. Cajero pagador/Ordinal: Se consignará el Código de identificación fiscal y la denominación de los cajeros pagadores a los que se les distribuyen los fondos del anticipo de caja fija y, opcionalmente, el ordinal del cajero pagador.
 
 59. Importe: Importe en cifras que se distribuye a cada cajero pagador
 
@@ -322,7 +340,7 @@ Además, en el caso de subvenciones concedidas se consignará también en dicho 
 
 61. Se indicará la denominación de la subentidad contable u órgano gestor a cuyo ámbito corresponda la operación que se pretende registrar.
 
-62. Número: Se indicará el número correlativo del resumen contable.
+62. Tipo/Número: Se indicará el código del tipo de resumen y el número correlativo del resumen contable.
 
 63. Año: Ejercicio al que corresponde la numeración del resumen contable.
 
@@ -330,11 +348,11 @@ Además, en el caso de subvenciones concedidas se consignará también en dicho 
 
 65. Código operación contable: Se indicará el código y denominación asignados en las tablas del sistema a la operación que se pretende registrar.
 
-66. Descripción: Se indicará la denominación de cada aplicación contable incluida en el documento.
+66. Descripción: Se indicará la denominación de cada concepto incluido en el documento.
 
 67. Núm. orden: Numeración correlativa de las aplicaciones contables que contenga el documento.
 
-68. Aplicación contable: Se indicarán los códigos de los conceptos contables que correspondan según las tablas del sistema.
+68. Concepto: Se indicarán los códigos de los conceptos contables que correspondan según las tablas del sistema.
 
 69. Número: Se indicará el número de operaciones de detalle que se agrupan por cada aplicación contable.
 
@@ -616,7 +634,57 @@ Cuando se utilicen documentos «Anexo», en aquellos documentos a los que comple
 
 208. Fecha de aprobación: Se indicará la fecha en que se haya aprobado la cuenta justificativa del pago a justificar.
 
+209. Fecha cesión del cobro: En este campo figurará la fecha de entrada de la comunicación de la cesión del derecho de cobro en el órgano competente para proponer el pago, siempre que en el correspondiente documento contable figure cumplimentado el campo «Cesionario».
+
+210. Número de perceptores: Se consignará en este campo el número de perceptores finales, siempre que en el correspondiente documento contable figure el tipo de pago 02 «Habilitado personal (Decreto 680/74)» ó el 07 «Cajero clases pasivas».
+
+211. Normativa/Finalidad de las subvenciones/transferencias: Se cumplimentarán los campos de este apartado cuando el correspondiente documento contable incorpore la fase D.
+
+A tal efecto, el Servicio gestor podrá solicitar a la Oficina de contabilidad los códigos asignados a cada normativa y finalidad en las tablas del SIC.
+
+En el campo «Normativa» se consignará el código asignado en el Sistema de información contable a la norma que autoriza la concesión de la subvención o transferencia, que tendrá como máximo seis dígitos, así como la denominación de dicha norma.
+
+En el campo «Finalidad» se consignará el código asignado en el Sistema de información contable a la finalidad para la que se conceden, que tendrá como máximo seis dígitos, así como la descripción de la misma. En el caso de transferencias el código a cumplimentar será TRANSF.
+
+En el campo «Tipo de operación» se consignará, en su caso, el código del tipo de operación que corresponda.
+
+212. Contratación no proyectos: Los campos de este apartado podrán cumplimentarse cuando el correspondiente documento contable incorpore la fase D y el seguimiento del gasto no se realice a través del subsistema de proyectos de gasto.
+
+En el campo «Sistema de adjudicación» se consignará el código de la tabla Sistemas de adjudicación, y la denominación, que correspondan al sistema de adjudicación del contrato.
+
+En el campo «Tipo de expediente» se consignará el código de la tabla de tipos de expedientes, y la denominación, correspondientes al expediente de contratación de que se trate.
+
+En el campo «Contrato menor S/N» se indicará si se trata de un contrato menor o no, conforme a lo establecido en la Ley de Contratos del Sector Público.
+
+En el campo «Regulación armonizada S/N» se indicará si se trata de un contrato sujeto o no a regulación armonizada, según la Ley de Contratos del Sector Público.
+
+En el campo «Tipo de operación» se consignará el código y la denominación relativos al tipo de operación que corresponda.
+
+213. Pagos a Juzgados: Cuando en el correspondiente documento contable que incorpore la fase OK figure como interesado o cesionario el tercero «Juzgados y Audiencias MJU», deberá cumplimentarse el campo de este apartado «Código de Juzgado», así como los tres campos que identifican el procedimiento: Tipo, número y ejercicio.
+
+214. Pagos masivos y al exterior: Cuando en un documento contable que incorpore la fase OK figure el tipo de pago 45 «Pago masivo», se deberá cumplimentar el campo de este apartado «Número de referencia del fichero adjunto», que tendrá la estructura establecida en la normativa que regula el procedimiento de pagos masivos.
+
+Asimismo, en el caso de pagos al exterior, se cumplimentará dicho campo con el código del fichero que contenga los datos complementarios especificados en la normativa que regula el procedimiento de pagos en divisas.
+
+215. Compensación de ingresos del exterior (RD 938/2005): Cuando se expidan documentos que incorporen la fase OK a favor de servicios en el exterior, en los que figuren como descuento cantidades reservadas por saldos pendientes de compensar, se cumplimentarán los campos de este apartado «Código de reserva», «Servicio exterior», «Tipo de cambio» e «Importe de reserva».
+
+El campo «Importe de reserva» se expresará en la divisa de situación.
+
+216. Justificantes de ingreso asociados a descuentos: Cuando en el correspondiente documento contable figure algún descuento relativo a liquidaciones que hayan sido practicadas por entidades distintas de la Administración General del Estado, se cumplimentarán los campos de este apartado correspondientes a dichos descuentos, indicando en el campo «N.º Justificante» el número que la entidad haya asignado a la liquidación, que deberá tener doce dígitos numéricos en las primeras posiciones y una letra en la última. Únicamente se podrá cumplimentar este campo cuando el descuento asociado sea un concepto no presupuestario previamente habilitado en el sistema para admitir este campo.
+
+Si hubiera más de tres justificantes de ingreso asociados a descuentos se consignarán en otro documento «Anexo información adicional».
+
+217. Pagos a justificar: Se indicará en este apartado la normativa que autoriza la expedición del correspondiente documento contable con fase OK a favor de un habilitado de pagos a justificar que tenga cuentas fuera del plazo de presentación, o «a favor de servicios del exterior» que no hayan rendido la cuenta de gestión o efectuado la transferencia de los fondos en el exterior a que se refieren los artículos 3.2 y 7.1, respectivamente, del Real Decreto 938/2005, de 29 de julio.
+
+218. Orgánica: En las aplicaciones de presupuesto de ingresos figurará en las dos primeras posiciones el código de la sección y en las cuatro siguientes los códigos orgánicos adicionales.
+
+En las aplicaciones no presupuestarias, las dos primeras posiciones no se cumplimentarán y en las cuatro restantes figurarán los códigos orgánicos correspondientes.
+
+219. Compensación de deudas: Se marcará la casilla de este apartado cuando el interesado haya solicitado la compensación de la deuda en los términos previstos en el apartado Decimosegundo de la Orden PRE/1576/2002, de 19 de junio, por la que se regula el procedimiento para el pago de obligaciones de la Administración General del Estado.
+
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifica por el art. único.3 de la Orden EHA/ 818/2009, de 27 de marzo. Ref. BOE-A-2009-5488.
 
 > Se modifica por el art. 1.2 de la Orden EHA/480/2008, de 20 de febrero. Ref. BOE-A-2008-3740.
 
