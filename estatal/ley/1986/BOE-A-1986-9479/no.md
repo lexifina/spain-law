@@ -1,0 +1,1 @@
+Las referencias a la Comisión Interministerial de Ciencia y Tecnología deberán entenderse realizadas a la Comisión Delegada del Gobierno para Política Científica y Tecnológica y al Ministerio de Ciencia e Innovación, según establece la disposición adicional única.1 del Real Decreto 332/2009, de 13 de marzo. Ref. BOE-A-2009-5620
