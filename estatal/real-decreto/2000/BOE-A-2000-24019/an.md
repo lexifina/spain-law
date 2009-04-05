@@ -72,57 +72,9 @@ La información a que hace referencia el apartado anterior deberá estar debidam
 
 La información de los apartados anteriores se remitirá junto con la solicitud de inscripción, y cuando se produzca cualquier cambio de los datos que figuran en la misma.
 
-2.1 Datos e información para la inscripción de los agentes externos que vendan energía en España.
+2.1 (Derogado)
 
-1) Datos de la sociedad:
-
-Denominación o razón social:
-
-Domicilio social:
-
-Dirección:
-
-Población:
-
-Provincia:
-
-Código postal:
-
-País:
-
-Teléfono:
-
-Fax y correo electrónico, en su caso:
-
-Representantes legales:
-
-Fecha de constitución de la sociedad:
-
-2) Unidades de producción que acredita en su país para la venta de energía en España (para cada unidad de producción):
-
-Unidad de producción:
-
-Tipo:
-
-Tecnología:
-
-Potencia instalada:
-
-Ubicación de la central:
-
-Dirección:
-
-Población:
-
-Provincia:
-
-País:
-
-2.2 Requisitos y periodicidad de la información.
-
-La información a que hace referencia el apartado anterior deberá estar debidamente acreditada mediante la firma de un representante legal de la sociedad.
-
-La información de los apartados anteriores se remitirá cuando se solicite la inscripción de la sociedad en el Registro y cuando se produzca algún cambio en los datos que figuran en la misma.
+2.2 (Derogado)
 
 3.1 Información y datos para la inscripción de los distribuidores.
 
@@ -415,3 +367,5 @@ Fecha de constitución de la sociedad:
 La información a que hace referencia el apartado anterior deberá estar debidamente acreditada mediante la firma de un representante legal de la sociedad.
 
 La información del apartado anterior deberá remitirse cuando se solicite la inscripción de la sociedad en el registro y cuando se produzca algún cambio de los datos que figuran en el mismo.
+
+> Se derogan los apartados 2.1 y 2.2 por la disposición derogatoria única.1.a) del Real Decreto 485/2009, de 3 de abril. Ref. BOE-A-2009-5618
