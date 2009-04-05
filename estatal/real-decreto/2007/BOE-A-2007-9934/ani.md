@@ -2,9 +2,11 @@
 
 ## Enfermedades
 
-## A. Enfermedades de declaración obligatoria en la Unión Europea
+A. Enfermedades de declaración obligatoria en la Unión Europea conforme a la Decisión 2008/650/CE, de la Comisión, de 30 de julio de 2008, y la Directiva 2006/88/CE, del Consejo, de 24 de octubre de 2006, y a la Organización Mundial de Sanidad Animal (OIE).
 
-Enfermedades comunes a varias especies:
+1. Enfermedades de los animales terrestres.
+
+1.1 Enfermedades comunes a varias especies:
 
 Lengua azul o fiebre catarral ovina.
 
@@ -16,7 +18,7 @@ Peste bovina.
 
 Estomatitis vesicular.
 
-Enfermedades de los bovinos:
+1.2 Enfermedades de los bovinos:
 
 Encefalopatía espongiforme bovina.
 
@@ -24,29 +26,27 @@ Dermatosis nodular contagiosa.
 
 Perineumonía contagiosa bovina.
 
-Enfermedades de los ovinos y caprinos:
+1.3 Enfermedades de los ovinos y caprinos:
 
 Peste de los pequeños rumiantes.
 
 Viruela ovina y caprina.
 
-Enfermedades de los suidos:
+1.4 Enfermedades de los suidos:
 
 Peste porcina clásica.
 
 Peste porcina africana.
 
-Encefalomielitis enterovírica porcina (antes denominada enfermedad de Teschen).
-
 Enfermedad vesicular porcina.
 
-Enfermedades de las aves:
+1.5 Enfermedades de las aves:
 
-Influenza aviar de alta patogenicidad.
+Influenza aviar.
 
 Enfermedad de Newcastle.
 
-Enfermedades de los équidos:
+1.6 Enfermedades de los équidos:
 
 Peste equina africana.
 
@@ -58,85 +58,83 @@ Anemia infecciosa equina.
 
 Muermo.
 
-Enfermedades de los peces:
+1.7 Enfermedades de las abejas:
 
-Anemia infecciona del salmón.
-
-Necrosis hematopoyética infecciosa.
-
-Septicemia hemorrágica viral.
-
-Enfermedades de las abejas:
-
-Aethinosis (Pequeño escarabajo de la colmena. Aethina tumida).
+Aethinosis (Pequeño escarabajo de la colmena Aethina tumida).
 
 Tropilaelapsosis (Tropilaelaps spp.).
 
-## B. Otras enfermedades de declaración obligatoria en España:
+2. Enfermedades de los animales acuáticos.
+
+2.1 Enfermedades de los peces:
+
+Anemia infecciosa del salmón.
+
+Enfermedad causada por el herpesvirus Koi.
+
+Necrosis hematopoyética infecciosa.
+
+Necrosis hematopoyética epizóotica.
+
+Septicemia hemorrágica viral.
+
+Síndrome ulceroso epizoótico.
+
+2.2 Enfermedades de los moluscos:
+
+Infección por Bonamia ostreae.
+
+Infección por Bonamia exitiosa.
+
+Infección por Marteilia refringens.
+
+Infección por Perkinsus Marinus.
+
+Infección por Mikrocytos mackini.
+
+2.3 Enfermedades de crustáceos:
+
+Síndrome de Taura.
+
+Enfermedad de la mancha blanca.
+
+Enfermedad de la cabeza amarilla.
+
+B. Otras enfermedades incluidas en la lista única de la Organización Mundial de Sanidad Animal que, no apareciendo en el apartado A de este anexo, están sometidas a la obligación de comunicación en los términos previstos en los artículos 3, 4 y 5.
 
 1. Enfermedades comunes a varias especies:
 
 Carbunco bacteridiano.
 
-Rabia.
-
-Triquinelosis.
-
-2. Enfermedades de los bovinos:
-
-Brucelosis bovina.
-
-Tuberculosis bovina.
-
-Leucosis enzoótica bovina.
-
-3. Enfermedades de los ovinos y caprinos:
-
-Epididimitis ovina (Brucella ovis).
-
-Brucelosis ovina y caprina (no debida a Brucella ovis).
-
-Agalaxia contagiosa.
-
-Prurigo lumbar (scrapie).
-
-4. Enfermedades de los suidos: Mal rojo.
-
-5. Enfermedades de las aves: Influenza aviar de baja patogenicidad.
-
-6. Enfermedades de las abejas: Loque americana.
-
-7. Otras enfermedades: Enfermedad hemorrágica epizoótica de los ciervos.
-
-## C. Otras enfermedades objeto de comunicación semestral. Las enfermedades incluidas en la lista única de la Organización Mundial de Sanidad Animal, que no figuran en las listas A y B del presente anexo, son las siguientes
-
-1. Enfermedades comunes a varias especies:
+Cowdriodis (heartwater).
 
 Enfermedad de Aujeszky.
 
 Equinococosis/hidatidosis.
 
-Cowdriodis (heartwater).
-
-Leptospirosis.
-
-Fiebre Q.
-
-Paratuberculosis.
-
-Miasis por Cochliomyia hominivorax.
-
-Miasis por Chrysomya bezziana.
-
-Tularemia.
-
 Encefalitis japonesa.
-
-Estomatitis vesicular.
 
 Fiebre del Nilo Occidental.
 
 Fiebre hemorrágica de Crimea-Congo.
+
+Fiebre Q.
+
+Leptospirosis.
+
+Miasis por Chrysomya bezziana.
+
+Miasis por Cochliomyia hominivorax.
+
+Paratuberculosis.
+
+Rabia.
+
+Surra (Trypanosoma evansi).
+
+Triquinelosis.
+
+Tularemia.
 
 2. Enfermedades de los bovinos:
 
@@ -144,11 +142,19 @@ Anaplasmosis bovina.
 
 Babesiasis bovina.
 
+Brucelosis bovina.
+
 Campilobacteriosis genital bovina.
 
 Cisticercosis bovina.
 
 Dermatofilosis.
+
+Diarrea viral bovina.
+
+Fiebre catarral maligna.
+
+Leucosis enzoótica bovina.
 
 Septicemia hemorrágica.
 
@@ -156,27 +162,33 @@ Rinotraqueítis infecciosa bovina/vulvovaginitis pustular infecciosa.
 
 Teileriosis.
 
+Tuberculosis bovina.
+
 Tricomonosis.
 
 Tripanosomiasis.
 
-Fiebre catarral maligna.
-
-Diarrea viral bovina.
-
 3. Enfermedades de los ovinos y caprinos:
-
-Artritis/encefalitis caprina.
-
-Pleuroneumonía contagiosa caprina.
 
 Aborto enzoótico de ovejas (Clamidiosis ovina).
 
+Agalaxia contagiosa.
+
+Artritis/encefalitis caprina.
+
+Brucelosis ovina y caprina (no debida a Brucella ovis).
+
 Enfermedad de Nairobi.
 
-Salmonelosis (Salmonella abortus ovis)
+Epididimitis ovina (Brucella ovis).
 
 Maedi-visna.
+
+Pleuroneumonía contagiosa caprina.
+
+Prurigo lumbar (scrapie).
+
+Salmonelosis (Salmonella abortus ovis).
 
 4. Enfermedades de los équidos:
 
@@ -196,8 +208,6 @@ Arteritis viral equina.
 
 Sarna equina.
 
-Surra (Trypanosoma evansi).
-
 5. Enfermedades de los suidos:
 
 Rinitis atrófica del cerdo.
@@ -208,9 +218,9 @@ Brucelosis porcina.
 
 Gastroenteritis transmisible.
 
-Síndrome disgenésico y respiratorio porcino.
+Síndrome reproductivo y respiratorio porcino.
 
-Encefalitis por virus Nipah
+Encefalitis por virus Nipah.
 
 6. Enfermedades de las aves:
 
@@ -236,7 +246,7 @@ Bursitis infecciosa (enfermedad de Gumboro).
 
 Enfermedad de Marek.
 
-Micoplasmosis (M. gallisepticum).
+Micoplasmosis (Mycoplasma gallisepticum).
 
 Micoplasmosis aviar (Mycoplasma synoviae).
 
@@ -250,65 +260,41 @@ Mixomatosis.
 
 Enfermedad hemorrágica viral del conejo.
 
-8. Enfermedades de los peces:
-
-Iridovirosis de la dorada japonesa
-
-Viremia primaveral de la carpa.
-
-Necrosis hematopoyética epizoótica.
-
-Herpesvirosis de la carpa koi.
-
-Virosis del bagre de canal.
-
-Encefalopatía y retinopatía virales.
-
-Necrosis pancreática infecciosa.
-
-Síndrome ulcerante epizoótico.
-
-Renibacteriosis (Renibacterium salmoninarum).
-
-Septicemia entérica del bagre (Edwardsiella ictaluri).
-
-Piscirickettsiosis (Piscirickettsia salmonis).
-
-Girodactilosis (Gyrodactylus salaris).
-
-9. Enfermedades de las abejas:
+8. Enfermedades de las abejas:
 
 Acaripisosis de las abejas.
 
 Loque europea.
 
+Loque americana.
+
 Nosemosis de las abejas.
 
 Varroosis.
+
+9. Enfermedades de los peces:
+
+Iridovirosis de la dorada japonesa.
+
+Viremia primaveral de la carpa.
+
+Girodactilosis (Gyrodactylus salaris).
 
 10. Enfermedades de los moluscos:
 
 Infección por Candidatus xenohaliotis califormiensis.
 
-Bonamiosis (Bonamia ostrae, Bonamia exitiosus).
-
-Marteiliosis (Marteilia refringens y Marteilia sydneyi).
+Infección por Marteilia sydneyi.
 
 Haplosporidiosis (Haplosporidium nelsoni, Haplosporidium costale).
 
-Perkinsosis (Perkinsus marinus, Perkinsus olseni/atlanticus).
+Infección por Perkinsus olseni.
 
-Microquitosis (Mikrocytos mackini, Mikrocytos roughleyi).
+Infección por Mikrocytos roughleyi.
 
 Mortalidad viral de los abalones.
 
 11. Enfermedades de crustáceos:
-
-Síndrome de Taura.
-
-Enfermedad de las manchas blancas.
-
-Enfermedad de la cabeza amarilla.
 
 Baculovirosis tetraédrica (Baculovirus penaei).
 
@@ -320,4 +306,10 @@ Plaga del cangrejo de río (Aphanomyces astaci).
 
 Virosis mortal de los genitores.
 
-12. Otras enfermedades: Leishmaniosis y Viruela del camello.
+12. Otras enfermedades:
+
+Leishmaniosis.
+
+Viruela del camello.
+
+> Se modifica por el art. único de la Orden ARM/831/2009, de 27 de marzo. Ref. BOE-A-2009-5619
