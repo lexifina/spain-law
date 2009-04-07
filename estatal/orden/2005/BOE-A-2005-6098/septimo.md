@@ -16,14 +16,14 @@ El Secretario General Técnico ejercerá por delegación de las autoridades que 
 
 1.4 La resolución de las peticiones de resarcimiento a transportistas extranjeros, formuladas al amparo de la Ley 52/1984, de 26 de diciembre.
 
-1.5 La resolución de las solicitudes de ayudas a víctimas de actos de terrorismo en virtud de lo dispuesto en la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social y de la Ley 32/1999, de 8 de octubre, de Solidaridad con las Víctimas del Terrorismo, y sus normativas de desarrollo.
-
-1.6 La resolución de los recursos de alzada que se interpongan contra resoluciones de los Delegados del Gobierno en materia de seguridad privada o de medidas de seguridad en entidades de crédito y otras entidades y establecimientos.
+1.5 La resolución de los recursos de alzada que se interpongan contra resoluciones de los Delegados del Gobierno en materia de seguridad privada o de medidas de seguridad en entidades de crédito y otras entidades y establecimientos.
 
 2. Del Subsecretario del Interior:
 
 2.1 La presidencia de la Comisión Asesora de Publicaciones.
 
 2.2 Respecto del personal del centro directivo, designar comisiones de servicio a realizar en territorio nacional con derecho a indemnización hasta el límite de las consignaciones presupuestarias.
+
+> Se deroga el punto 1.5 y se renumera el anterior 1.6 como 1.5, por la disposición derogatoria única de la Orden INT/849/2009, de 31 de marzo. Ref. BOE-A-2009-5730.
 
 > La delegación efectuada en el Secretario General Técnico en el apartado 1.5 se entenderá realizada en el Director General de Apoyo a Víctimas del Terrorismo, así como las correspondientes competencias financieras y presupuestarias, según establece el apartdo cuarto de la Orden INT/2853/2006, de 13 de septiembre. Ref. BOE-A-2006-16193
