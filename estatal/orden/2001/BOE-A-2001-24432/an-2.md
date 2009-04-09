@@ -10,17 +10,21 @@
 | Ministerio de Economía y Hacienda | EHA |
 | Ministerio del Interior | INT |
 | Ministerio de Fomento | FOM |
-| Ministerio de Educación, Política Social y Deporte | ESD |
+| Ministerio de Educación | EDU |
 | Ministerio de Trabajo e Inmigración | TIN |
 | Ministerio de Industria, Turismo y Comercio | ITC |
 | Ministerio de Medio Ambiente, y Medio Rural y Marino | ARM |
 | Ministerio de la Presidencia | PRE |
-| Ministerio de Administraciones Públicas | APU |
+| Ministerio de Política Territorial | TER |
 | Ministerio de Cultura | CUL |
-| Ministerio de Sanidad y Consumo | SCO |
+| Ministerio de Sanidad y Política Social | SAS |
 | Ministerio de Vivienda | VIV |
 | Ministerio de Ciencia e Innovación | CIN |
 | Ministerio de Igualdad | IGD |
+
+> Se modifica por Resolución de 8 de abril de 2009. Ref. BOE-A-2009-5928.
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 7 de abril de 2009, fecha de la entrada en vigor del Real Decreto 542/2009, de 7 de abril, según establece el apartado segundo de la citada Resolución.
 
 > Se modifica por Resolución de 14 de abril de 2008. Ref. BOE-A-2008-6575.
 
