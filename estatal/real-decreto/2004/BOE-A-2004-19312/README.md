@@ -22,6 +22,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 9](a9.md)
 - [Artículo 10](a10.md)
 - [Artículo 11](a11.md)
+- [Artículo 12](a12.md)
 - [Disposición adicional única](daunica.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)

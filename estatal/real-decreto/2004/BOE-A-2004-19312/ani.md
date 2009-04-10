@@ -2,14 +2,14 @@
 
 ## Lista de sustancias prohibidas
 
-Lista A:
+Lista A (sustancias prohibidas):
 
 a) Tireostáticos.
 
-b) Estilbenos, derivados de los estilbenos, sus sales y ésteres.
+b) Estilbenos, derivados de estilbenos, sus sales y ésteres.
 
-Lista B:
+c) 17-Beta-Estradiol o sus derivados de tipo éster.
 
-a) 17-Beta-Estradiol o sus derivados de tipo éster.
+Lista B (sustancias prohibidas con excepciones): Beta-agonistas.
 
-b) Beta-agonistas.
+> Se modifica por el art. único.10 del Real Decreto 562/2009, de 8 de abril. Ref. BOE-A-2009-5927.
