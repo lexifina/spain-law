@@ -20,7 +20,7 @@ que el fabricante deberá especificar.
 
 2. Categoría X de instrumentos:
 
-2.1 La categoría X se aplica a los instrumentos utilizados para comprobar los preenvasados realizados de acuerdo con los requisitos dispuestos por el Real Decreto 723/1988, de 24 de junio, relativo al control del contenido efectivo de los productos alimenticios envasados.
+2.1 La categoría X se aplica a los instrumentos utilizados para comprobar los preenvasados realizados de acuerdo con los requisitos dispuestos por el Real Decreto 1801/2008, de 3 de noviembre, por el que se establecen normas relativas a las cantidades nominales para productos envasados y al control de su contenido efectivo
 
 2.2 Las clases de exactitud se complementan con un factor (x) que cuantifica la desviación típica máxima permitida tal como se especifica en el punto 4.2.
 
@@ -145,3 +145,5 @@ Para pesaje estático en funcionamiento no automático, los que se especifican p
 Para las clases XI e Y(I), el intervalo mínimo es 5 °C.
 
 Para las clases XII e Y(II), el intervalo mínimo es 15 °C.
+
+> Se modifica el apartado 2.1 por la disposición adicional 2 del Real Decreto 1801/2008, de 3 de noviembre. Ref. BOE-A-2008-17629.

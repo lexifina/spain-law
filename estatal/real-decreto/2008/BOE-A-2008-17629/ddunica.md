@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Se derogan el Real Decreto 1472/1989, de 1 de diciembre, por el que se regulan las gamas de cantidades nominales y capacidades nominales para determinados productos envasados; el Real Decreto 707/1990, de 1 de junio, por el que se establecen las gamas de cantidades nominales permitidas, para ciertos productos industriales envasados; la Norma general para el control del contenido efectivo de los productos alimenticios envasados, aprobada por el Real Decreto 723/1988, de 24 de junio; así como todas aquellas disposiciones de igual o inferior rango en lo que se opongan a lo dispuesto en este real decreto.
