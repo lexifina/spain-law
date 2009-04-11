@@ -4,6 +4,8 @@
 
 2. Las personas o entidades autorizadas a presentar por vía telemática declaraciones en representación de terceras personas, de acuerdo con lo dispuesto en el Real Decreto 1377/2002, de 20 de diciembre, por el que se desarrolla la colaboración social en la gestión de los tributos para la presentación telemática de declaraciones, comunicaciones y otros documentos tributarios, podrán hacer uso de dicha facultad respecto de las siguientes declaraciones y documentos:
 
+La contabilidad de los movimientos de productos.
+
 Documentos de acompañamiento, administrativos y comerciales.
 
 Documentos simplificados de acompañamiento, administrativos y comerciales.
@@ -20,6 +22,8 @@ Modelo DDE. Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos. 
 
 Modelo RBRC. Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Relación de beneficiarios del régimen de cosechero.
 
+Modelo 504. Impuestos Especiales de Fabricación. Solicitud de autorización de recepción de productos del resto de la Unión Europea.
+
 Modelo 506. Impuestos Especiales de Fabricación. Solicitud de devolución por introducción en depósito fiscal.
 
 Modelo 507. Impuestos Especiales de Fabricación. Solicitud de devolución en el sistema de envíos garantizados.
@@ -30,7 +34,7 @@ Modelo 509. Impuestos Especiales de Fabricación. Parte de incidencias.
 
 Modelo 510. Impuestos Especiales de Fabricación. Declaración de operaciones de recepción de productos del resto de la Unión Europea.
 
-Modelo 511. Impuestos Especiales de Fabricación. Relación mensual de notas de entrega de productos con el impuesto devengado a tipo reducido o con aplicación de una exención por avituallamiento, expedidos por el procedimiento de ventas en ruta.
+Modelo 511. Impuestos Especiales de Fabricación. Relación mensual de notas de entrega de productos con el impuesto devengado a tipo reducido, expedidos por el procedimiento de ventas en ruta.
 
 Modelo 512. Impuesto sobre Hidrocarburos. Relación anual de destinatarios de productos de la tarifa segunda.
 
@@ -38,7 +42,7 @@ Modelo 517. Impuestos Especiales de Fabricación. Petición de marcas fiscales a
 
 Modelo 518. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de trabajo.
 
-Modelo 519.Impuesto sobre el Alcohol y Bebidas Derivadas. Parte de incidencias en operaciones de trabajo.
+Modelo 519. Impuesto sobre el Alcohol y Bebidas Derivadas. Parte de incidencias en operaciones de trabajo.
 
 Modelo 520. Impuesto sobre el Alcohol y Bebidas Derivadas. Parte de resultado en operaciones de trabajo.
 
@@ -95,5 +99,7 @@ Modelo 590. Impuestos Especiales de Fabricación. Solicitud de devolución por e
 Modelo 380. Impuesto sobre el Valor Añadido. Operaciones asimiladas a las importaciones. Declaración-liquidación.
 
 3. Las condiciones generales y el procedimiento para la presentación telemática de estas declaraciones serán, con carácter general, y sin perjuicio de lo dicho en el apartado anterior de esta disposición adicional, las que se establecen en las respectivas Órdenes por las que se aprobaron cada uno de estos modelos de declaración.
+
+> Se modifica el apartado 2 por el art. 2 de la Orden EHA/886/2009, de 1 de abril. Ref. BOE-A-2009-6016.
 
 > Se modifica el apartado 2 por la disposición final 2 de la Orden EHA/3482/2007, de 20 de noviembre. Ref. BOE-A-2007-20637.
