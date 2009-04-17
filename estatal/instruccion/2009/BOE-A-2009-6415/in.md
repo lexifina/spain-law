@@ -1,0 +1,13 @@
+## INSTRUCCIÓN
+
+1. Los electores residentes ausentes que voten por correo en las elecciones a Diputados, Senadores, miembros de las Asambleas Legislativas de las Comunidades Autónomas y Diputados al Parlamento Europeo, deben incluir en el sobre a enviar a la Junta Electoral Provincial, junto al sobre o sobres de votación y el certificado de inscripción en el censo, fotocopia del pasaporte o del Documento Nacional de Identidad, expedidos por las autoridades españolas, o en su defecto, certificación de nacionalidad expedida por el Consulado de España en el país de residencia.
+
+2. La certificación de inscripción en el Registro de Matrícula Consular, regulada por el Real Decreto 3425/2000, de 15 de diciembre, es un documento equivalente a los indicados en el apartado anterior, siempre que en ella se acredite al elector como residente en situación de alta y sea expedida por la autoridad consular competente para cada proceso electoral a petición del elector, sin que haya inconveniente en que tal extremo pueda hacerse constar mediante diligencia realizada manualmente, antes de la firma.
+
+3. Las papeletas de voto de los residentes ausentes que no vengan acompañadas de alguno de los documentos de identificación previstos en los anteriores apartados no garantizan el ejercicio personal del derecho de sufragio activo y no cumplen por tanto un requisito sustantivo del acto de votación. En consecuencia, las Juntas Electorales competentes para realizar el cómputo de estos votos en el trámite de escrutinio general previsto en el art. 75.4 y 5 LOREG, no computarán los votos que no vengan acompañados de alguno de estos documentos, conservándolos, no obstante, a efectos de posibles reclamaciones o recursos posteriores.
+
+4. La «nota explicativa» que ha de acompañar al envío de oficio a los electores inscritos por parte de la Oficina del Censo Electoral de la documentación necesaria para la votación debe incluir, con tipografía destacada, la necesidad de adjuntar fotocopia de alguno de los documentos indicados en los apartados anteriores en el sobre de la documentación de la votación que el elector haya de remitir a la Junta Electoral correspondiente.
+
+5. Las campañas institucionales destinadas a informar a los electores residentes ausentes del procedimiento para votar deberían comunicar también la necesidad de adjuntar uno u otro de los referidos documentos de acreditación del ejercicio personal del voto.
+
+6. La presente Instrucción, que se publicará en el Boletín Oficial del Estado, sustituye y deja sin efecto la Instrucción de la Junta Electoral Central 1/2009, de 20 de enero, sobre garantía del ejercicio personal del voto por correo de los electores residentes ausentes.
