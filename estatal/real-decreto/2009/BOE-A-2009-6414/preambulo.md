@@ -1,0 +1,27 @@
+La política agrícola común (en adelante PAC), desde los años 90, ha ido integrando progresivamente las nuevas demandas de la sociedad europea. En este sentido, el medioambiente, la salud pública, la sanidad y el bienestar animal son algunos de los nuevos condicionantes de la PAC.
+
+La revisión de la reforma de la PAC del 2003, que se ha llevado a cabo a través del Reglamento (CE) n.º 73/2009 del Consejo, de 19 de enero de 2009, por el que se establecen disposiciones comunes aplicables a los regímenes de ayuda directa a los agricultores en el marco de la política agrícola común y se instauran determinados regímenes de ayuda a los agricultores y por el que se modifican los Reglamentos (CE) n.º 1290/2005, (CE) n.º 247/2006, (CE) n.º 378/2007 y se deroga el Reglamento (CE) n.º 1782/2003, ha reforzado el concepto de condicionalidad, que incluye las buenas condiciones agrarias y medioambientales y los requisitos legales de gestión en materia de medio ambiente, salud publica, sanidad y bienestar animal. Este Reglamento establece la obligación para todo agricultor que reciba pagos directos de cumplir con los requisitos legales de gestión citados en su anexo II y con las buenas condiciones agrarias y medioambientales que establezcan los Estados miembros, y en virtud de su artículo 6, sobre la base del marco establecido en su anexo III.
+
+El Reglamento (CE) n.º 73/2009 del Consejo, de 19 de enero, en el artículo 4.2, establece que la autoridad competente proporcionará a los agricultores la lista de los requisitos legales de gestión y de las buenas condiciones agrarias y medioambientales que deberán respetar.
+
+El Reglamento (CE) n.º 796/2004 de la Comisión, de 21 de abril de 2004, por el que se establecen disposiciones para la aplicación de la condicionalidad, la modulación y el sistema integrado de gestión y control previstos en el Reglamento (CE) n.º 73/2009, establece las bases del sistema de control de la condicionalidad y la base para el cálculo de las reducciones y exclusiones de la ayuda por incumplimiento, debiendo los Estados miembros establecer los sistemas concretos que garanticen un control efectivo del cumplimiento de la condicionalidad.
+
+Por otra parte, el Reglamento (CE) n.º 1698/2005 del Consejo, de 20 de septiembre de 2005, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER), establece en su artículo 51 que los beneficiarios de las ayudas previstas en los incisos i) a v) de la letra a) y en los incisos i), iv) y v) de la letra b) del artículo 36 de dicho Reglamento, deberán cumplir en toda su explotación los mismos requisitos legales de gestión y las buenas condiciones agrarias y medioambientales que los beneficiarios de ayudas directas.
+
+Además, los beneficiarios de las ayudas agroambientales, previstas en el artículo 36, letra a), inciso iv) del Reglamento (CE) 1698/2005, deberán cumplir también los requisitos mínimos en relación con la utilización de abonos y productos fitosanitarios establecidos en los correspondientes programas de desarrollo rural.
+
+El Reglamento (CE) n.º 1975/2006 de la Comisión, de 7 de diciembre de 2006, establece las disposiciones de aplicación del Reglamento (CE) n.º 1698/2005 del Consejo en lo que respecta a los procedimientos de control de la condicionalidad en relación con las medidas de ayuda al desarrollo rural.
+
+Por otra parte el Reglamento (CE) n.º 479/2008 del Consejo de 29 de abril de 2008, por el que se establece la organización común del mercado vitivinícola, establece en los artículos 20 y 103 respectivamente que deberán respetar los requisitos legales de gestión y las buenas condiciones agrarias y medioambientales los agricultores que reciban ayudas en virtud de los programas de apoyo a la reestructuración y reconversión del viñedo así como los que reciban pagos de la prima por arranque.
+
+El Reglamento (CE) n.º 796/2004 ha sido modificado para establecer las disposiciones de aplicación del Reglamento (CE) n.º 479/2008 en lo que respecta a los procedimientos de control de la condicionalidad en relación con las medidas de reconversión, reestructuración y arranque de viñedo.
+
+En España, mediante el Real Decreto 2352/2004, de 23 de diciembre, sobre la aplicación de la condicionalidad en relación con las ayudas directas en el marco de la política agrícola común, se establecieron las buenas condiciones agrarias y medioambientales y se señalaban los requisitos legales de gestión que debe cumplir el agricultor con arreglo a la condicionalidad de las ayudas directas de la PAC, de conformidad con el Reglamento (CE) n.º 1782/2003 del Consejo, de 29 de septiembre.
+
+Tras un primer período de aplicación de la condicionalidad, se considera conveniente sustituir el Real Decreto 2352/2004, de 23 de diciembre, para incluir las modificaciones de la legislación comunitaria, tener en cuenta las recomendaciones de la Comisión en relación a la aplicación de la condicionalidad, y simplificar y clarificar algunos requisitos con el objetivo de favorecer su cumplimiento y control.
+
+En la elaboración de este real decreto han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, y Medio Rural y Marino, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 3 de abril de 2009,
+
+DISPONGO:
