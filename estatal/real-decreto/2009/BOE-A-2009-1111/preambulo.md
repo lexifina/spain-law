@@ -1,0 +1,21 @@
+El Real Decreto 2609/1996, de 20 diciembre, por el que se regulan los centros de innovación y tecnología, ha sido un instrumento de fomento de éstos, atendiendo los requerimientos de la empresa, desarrollando proyectos de investigación y desarrollo tecnológico, prestando servicios tecnológicos, contribuyendo a la transferencia de resultados de investigación, fomentando la investigación cooperativa entre las empresas y, en general, elevando su nivel tecnológico y competitividad.
+
+En los años transcurridos, el entorno productivo y la dinámica competitiva han sufrido una profunda transformación poniendo de relieve el importante papel de estos centros, mayor aún si cabe en momentos en los que son frecuentes los cambios en la estructura productiva e industrial y en los que las empresas rediseñan sus estrategias de negocio y reorganizan y flexibilizan sus procesos productivos. En este entorno, desarrollar nuevas capacidades y competencias, gestionar el conocimiento y fomentar la innovación son elementos clave de competitividad.
+
+Con estos objetivos, se plantea la necesidad de reforzar el marco institucional para disponer de agentes cada vez mas dinámicos y flexibles, con fuertes capacidades en investigación industrial, desarrollo experimental e innovación, con cultura emprendedora y creativa, capaces de acompañar a las empresas en su internacionalización y que posibiliten, a través de la cooperación y el aprendizaje, la capitalización del conocimiento y la generación de valor, actuando eficazmente en el sistema español de ciencia y tecnología.
+
+Estos factores, hacen necesario establecer un instrumento con el fin de reconocer y apoyar de manera más eficaz y específica el desarrollo de las instituciones sin ánimo de lucro que, con fines de interés general, demuestren su eficacia tanto en la generación de conocimiento para el beneficio general de la sociedad como en el apoyo a la competitividad empresarial mediante actividades de I+D+i y servicios tecnológicos.
+
+Este real decreto refuerza el papel de estos centros en el Sistema Español de Ciencia y Tecnología y enfatiza su relación con las empresas, superando la situación anterior en la cual entidades con escasa relación con el mundo empresarial accedían al registro.
+
+Esta norma distingue dos tipos de centros de ámbito estatal: los tecnológicos y los de apoyo a la innovación tecnológica. Los primeros se caracterizan por realizar primordialmente actividades de generación de conocimientos tecnológicos y de I+D+i y desarrollo de su aplicación. Mientras que el rasgo principal de los segundos es facilitar la aplicación del conocimiento generado en los diversos organismos y entidades de investigación, mediante su intermediación entre estos y las empresas, proporcionando servicios de apoyo a la innovación tecnológica.
+
+Se contemplan los elementos de los centros que se consideran básicos: la personalidad jurídica del centro; la necesidad de contar con estructura y recursos bien dimensionados y suficientes para la consecución de los objetivos; una financiación pública-privada equilibrada; la diversificación de la cartera de clientes y de sus fuentes de financiación y una participación efectiva del colectivo empresarial en la toma de decisiones estratégicas por parte de los centros.
+
+Se mantienen o acentúan las exigencias de solvencia y experiencia y, muy en especial, el interés general de su actividad y ello tanto en lo que se refiere a las empresas o entidades beneficiarias de su actividad, cuanto al destino de su patrimonio en caso de liquidación. Se regula asimismo la función de control y seguimiento por la Administración para asegurar que se mantienen en el tiempo las condiciones que permitieron a los centros tecnológicos obtener la inscripción en el registro.
+
+A la entrada en vigor de esta norma existen centros inscritos en el antiguo registro creado por el Real Decreto 2609/1996, de 20 de diciembre, por lo que, con el objetivo de no producir distorsiones, se prevé un período transitorio para que estos centros puedan adaptarse a los requerimientos que establece este real decreto.
+
+En su virtud, a propuesta de la Ministra de Ciencia e Innovación, con la aprobación previa de la Ministra de Administraciones Publicas, y previa deliberación del Consejo de Ministros en su reunión del día 19 de diciembre de 2008,
+
+## DISPONGO:
