@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Revisión de los métodos para la fijación de la cuantía de la garantía financiera y para la reparación del daño medioambiental.
+
+El método establecido en el artículo 33 de este reglamento para la fijación de la cuantía de la garantía financiera del daño y la metodología de reparación se revisará por el Gobierno a la luz de la experiencia derivada de su aplicación cuando haya transcurrido un plazo suficiente para evaluar su idoneidad, y en todo caso, transcurridos cinco años computados desde que la garantía financiera obligatoria sea exigible, en el primer caso, y desde la entrada en vigor del reglamento, en el segundo caso.
