@@ -26,7 +26,9 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_018.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/104/07113_001.png)
+
+> Se modifica el modelo EPE 3.1 por el apartado único de la Orden INT/1025/2009, de 28 de abril. Ref. BOE-A-2009-7113.
 
 > Se suprime el anterior modelo de papeleta ECG-3.2. y se sustituye el ECG-32.a por el nuevo ECG-3.2 por el art. 2 de la Orden INT/3816/2007, de 19 de diciembre. Ref. BOE-A-2007-22299
 
