@@ -42,4 +42,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
+- [Disposición final tercera](dftercera.md)
 - [firma](firma.md)
