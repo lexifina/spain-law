@@ -1,0 +1,7 @@
+## Disposición transitoria tercera. Valor de la tarifa unitaria prevista en el párrafo segundo.e) del apartado 17 de la disposición adicional sexta bis de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
+
+1. En tanto no se determine por Acuerdo de Consejo de Ministros el valor de la tarifa unitaria prevista en el párrafo segundo.e) del apartado 17 de la disposición adicional sexta bis de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, será de aplicación el valor establecido en la disposición transitoria primera.2 del Real Decreto 40/2009, de 23 de enero, por el que se determinan los valores a aplicar para la financiación de los costes correspondientes a la gestión de los residuos radiactivos y del combustible gastado, y al desmantelamiento y clausura de instalaciones.
+
+Esta determinación se hará en un plazo máximo de tres meses a contar desde la entrada en vigor del Estatuto de la entidad pública empresarial ENRESA de gestión de residuos radiactivos creada por la disposición adicional sexta bis de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
+
+2. A partir de la entrada en vigor del Estatuto de la entidad pública empresarial ENRESA producirán efecto las modificaciones introducidas en la disposición adicional sexta y disposición adicional sexta bis de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrica, por el artículo 3 de este real decreto-ley.
