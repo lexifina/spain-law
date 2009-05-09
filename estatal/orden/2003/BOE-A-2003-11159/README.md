@@ -24,6 +24,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Décimo](decimo.md)
 - [Undécimo](undecimo.md)
 - [Duodécimo](duodecimo.md)
+- [Duodécimo bis](duodecimobis.md)
 - [Decimotercero](decimotercero.md)
 - [Decimocuarto](decimocuarto.md)
 - [Decimoquinto](decimoquinto.md)
