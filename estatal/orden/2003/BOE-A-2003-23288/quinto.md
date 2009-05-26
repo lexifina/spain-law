@@ -18,10 +18,16 @@ d) Dirección de Infraestructura: Será responsable de las actividades relaciona
 
 En el Ejército de Tierra, estas actividades serán responsabilidad de la Inspección General del Ejército de Tierra, de quien dependerá orgánicamente esta Dirección.
 
-2. En el Ejército de Tierra, la Inspección General del Ejército de Tierra, bajo la dependencia directa del Jefe de Estado Mayor, será el órgano del Apoyo a la Fuerza responsable, a su nivel, de dirigir y controlar las actividades relativas a la seguridad de las Unidades, Centros y Organismos, así como el apoyo administrativo, técnico, de personal, de infraestructura y de acción cultural a las Unidades, Centros y Organismos del Ejército de Tierra. También desarrollará, dentro del marco de sus capacidades, los cometidos relativos a protección civil, protección medioambiental y zonas e instalaciones de interés para la Defensa Nacional.
+2. En el Ejército de Tierra, la Inspección General del Ejército de Tierra, bajo la dependencia directa del Jefe de Estado Mayor, será el órgano del Apoyo a la Fuerza responsable, a su nivel, de la dirección, gestión, coordinación y control en materia de infraestructura, seguridad de Bases, Acuartelamientos y Establecimientos, vida de las Unidades, Centros y Organismos en guarnición y de la prevención de riesgos laborales. También desarrollará los cometidos asignados al Ejército de Tierra relativos a protección medioambiental y zonas e instalaciones de interés para la Defensa Nacional.
 
-Dependerá funcionalmente de los Centros Directivos del Ministerio de Defensa bajo la coordinación del Secretario de Estado de Defensa y del Subsecretario de Defensa en el ámbito de sus respectivas competencias.
+Dependerá funcionalmente de los Centros Directivos del Ministerio de Defensa, bajo la coordinación del Secretario de Estado de Defensa y del Subsecretario de Defensa en el ámbito de sus respectivas competencias.
 
 Tendrá un órgano auxiliar de Jefatura.
 
-Se articulará en las Subinspecciones Generales del Ejército de Tierra. Serán los órganos que, subordinados al Inspector General del Ejército de Tierra, tendrán las misiones genéricas de la Inspección en su área de responsabilidad. Su ubicación y número vendrá condicionado por el de las unidades de la fuerza a las que debe apoyar rigiéndose únicamente por criterios de eficacia y economía de medios.
+Se articulará en los siguientes órganos que con carácter general desempeñarán los cometidos que para cada uno de ellos se especifican:
+
+a) La Dirección de Acuartelamiento, que será el órgano responsable de la programación, gestión, administración y control de las actividades, apoyos y recursos que, no teniendo carácter de preparación o logístico, son necesarios para garantizar la vida, en condiciones adecuadas, de las Unidades, Centros y Organismos en guarnición, de la seguridad de las Bases, Acuartelamientos y Establecimientos y de su inventario. Será responsable de la prevención de riesgos laborales en aquellos aspectos contemplados en la normativa correspondiente. Asimismo, desarrollará los cometidos asignados al Ejército de Tierra relativos a las zonas e instalaciones de interés para la Defensa Nacional.
+
+b) La Dirección de Infraestructura, que será el órgano técnico responsable de la ejecución en materia de construcciones y obras, del mantenimiento y ordenación de las instalaciones, así como de los aspectos relacionados con la protección medioambiental del Ejército de Tierra.
+
+> Se modifica el apartado 2 por el apartado único.4 de la Orden DEF/1298/2009, de 14 de mayo. Ref. BOE-A-2009-8612.

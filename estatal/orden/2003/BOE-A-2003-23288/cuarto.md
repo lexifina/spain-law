@@ -22,10 +22,12 @@ Tendrá un órgano auxiliar de Jefatura.
 
 Se articulará en los siguientes órganos que con carácter general desempeñarán los cometidos que para cada uno de ellos se especifican:
 
-a) Dirección de Investigación y Análisis para el Combate: Será responsable de las actividades relacionadas con la evolución y experimentación teórica del combate.
+a) Dirección de Investigación, Doctrina, Orgánica y Materiales:
+
+Será responsable de las actividades relacionadas con la evolución y experimentación teórica del combate, con la doctrina, normativa de empleo de las unidades, estructura y plantilla orgánica y la formulación de los requerimientos operativos de su armamento, material y equipo.
 
 b) Dirección de Enseñanza, Instrucción, Adiestramiento y Evaluación: Será responsable de las actividades relacionadas con la enseñanza militar de formación y perfeccionamiento del personal militar y de los medios y procedimientos de instrucción, adiestramiento, evaluación y simulación.
 
-c) Dirección de Doctrina, Orgánica y Materiales:
+c) (Sin contenido)
 
-Será responsable de las actividades relacionadas con doctrina, normativa de empleo de las unidades, estructura y plantilla orgánica y la formulación de los requerimientos operativos de su armamento, material y equipo.
+> Se modifica el apartado 2.a) y se deja sin contenido el 2.c) por el apartado único.2 y 3 de la Orden DEF/1298/2009, de 14 de mayo. Ref. BOE-A-2009-8612.
