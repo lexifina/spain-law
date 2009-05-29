@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Aplicación del régimen transitorio del Plan General de Contabilidad.
+
+La formulación de las cuentas anuales de 2008, primeras cuentas en las que se utilizarán los criterios de esta orden, deberá realizarse aplicando, en todo caso, lo establecido en las disposiciones transitorias primera a cuarta del Real Decreto 1514/2007, de 16 de noviembre, por el que se aprueba el Plan General de Contabilidad. Adicionalmente, no será necesario aplicar el criterio del tercer párrafo del apartado I.1.1 A) del anexo I al importe de las comisiones o primas percibidas en el inicio de las operaciones a los avales y garantías vigentes a 31 de diciembre de 2007.
