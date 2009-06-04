@@ -8,43 +8,21 @@
 
 2. Controles de animales sacrificados para el consumo humano. Se realizarán pruebas de EEB a todos los animales bovinos de los siguientes grupos de edad:
 
-a) Animales nacidos en países incluidos en el anexo de la Decisión 2009/719/CE, de la Comisión, de 28 de septiembre de 2009, por la que se autoriza a determinados Estados miembros a revisar su programa anual de seguimiento de la EEB:
-
-a.1) Mayores de cuarenta y ocho meses siempre que se trate de:
-
-1.º Animales sometidos a un sacrificio de urgencia.
-
-2.º Animales que durante la inspección ante-mortem sean sospechosos de sufrir una enfermedad o hallarse en un estado de salud que pueda perjudicar a la salud de las personas, salvo los animales sacrificados en el marco de una campaña de erradicación que no presenten signos clínicos de la enfermedad.
-
-a.2) Todos los animales nacidos con anterioridad al 1 de enero de 2001, siempre que procedan de explotaciones en las que se hayan diagnosticado focos de EEB. Dicha condición será recogida en la documentación prevista en el artículo 6 del Real Decreto 728/2007, de 13 de junio, por el que se establece y regula el Registro general de movimientos de ganado y el Registro general de identificación individual de animales.
-
-b) Animales nacidos en países no incluidos en el anexo de la Decisión 2009/719/CE de la Comisión, de 28 de septiembre de 2009, y que por lo tanto son países no autorizados a revisar su programa anual de seguimiento de la EEB:
-
-b.1) Mayores de treinta meses de edad siempre que se trate de:
+a) Mayores de cuarenta y ocho meses si se trata de animales nacidos en España o nacidos en el resto de países recogidos en el anexo de la Decisión 2008/908/CE de la Comisión, de 28 de noviembre de 2008, por la que se autoriza a determinados Estados miembros a revisar su programa anual de seguimiento de la EEB, siempre que se trate de:
 
 1.º Animales sacrificados de manera normal para el consumo humano.
 
-2.º Animales sacrificados en el marco de la ejecución del Real Decreto 2611/1996, de 20 de diciembre, por el que se regulan los programas nacionales de erradicación de enfermedades de los animales, siempre que no presenten signos clínicos de la enfermedad.
+2.º O de animales sacrificados en el marco de la ejecución del Real Decreto 2611/1996, de 20 de diciembre, por el que se regulan los programas nacionales de erradicación de enfermedades de los animales, siempre que no presenten signos clínicos de la enfermedad.
 
-b.2) Mayores de veinticuatro meses de edad si se trata de:
+b) Mayores de treinta y seis meses de edad si se trata de animales nacidos en España o nacidos en el resto de países recogidos en el anexo de la Decisión 2008/908/CE de la Comisión, de 28 de noviembre de 2008, que sean sometidos a un sacrificio de urgencia o los que durante la inspección ante mortem sean sospechosos de padecer una enfermedad o hallarse en un estado de salud que puedan perjudicar a la salud de las personas salvo los previstos en el párrafo a).2.º anterior.
 
-1.º Animales sometidos a un sacrificio de urgencia.
+c) Mayores de treinta meses de edad, en todos los supuestos de sacrificio en matadero, cuando hayan nacido en países no recogidos en el anexo de la Decisión 2008/908/CE de la Comisión, de 28 de noviembre de 2008.
 
-2.º Animales que, durante la inspección ante-mortem sean sospechosos de sufrir una enfermedad o hallarse en un estado de salud que pueda perjudicar a la salud de las personas, salvo los animales sacrificados en el marco de una campaña de erradicación que no presenten signos clínicos de la enfermedad.
+3. Controles de animales muertos o cuyo sacrificio no está destinado al consumo humano. Se realizarán pruebas de la EEB a todos los animales bovinos:
 
-3. Controles en animales muertos o cuyo sacrificio no está destinado al consumo humano: Se realizarán pruebas de EEB a todos los animales bovinos:
+a) Sacrificados por un foco de EEB en aplicación de las medidas de erradicación del mismo.
 
-a) De cualquier edad, si han sido sacrificados como medida de erradicación de un foco de EEB.
-
-b) Mayores de cuarenta y ocho meses de edad que hayan muerto o hayan sido sacrificados, pero que no fueron sacrificados en el marco de una epidemia, como es el caso de la fiebre aftosa. No obstante, si se trata de animales nacidos en países no recogidos en el anexo de la Decisión 2009/719/CE, de la Comisión, de 28 de septiembre de 2009, se realizarán pruebas de EEB a todos los animales mayores de veinticuatro meses de edad.
-
-c) El operador del establecimiento o planta de subproductos, inscritos en el Registro de establecimientos SANDACH que reciba los animales deberá comunicar, a la autoridad competente en materia de sanidad animal de la comunidad autónoma en la que esté ubicado, en un plazo no superior a 24 horas, la identificación individual (crotal) de cualquier animal de ganado vacuno que reciba, independientemente de que la explotación de origen del animal este ubicada en la misma o en diferente comunidad autónoma.
-
-Dicha comunicación se realizará a través del registro nacional de movimientos de subproductos animales y los productos derivados no destinados a consumo humano, creado en el artículo 3 del Real Decreto 476/2014, de 13 de junio, por el que se regula el registro nacional de movimientos de subproductos animales y los productos derivados no destinados a consumo humano.
-
-d) Con el fin de garantizar una correcta ejecución del muestreo, el operador del establecimiento o planta que reciba los animales colaborará en la correcta identificación y trazabilidad de las cabezas de los animales objeto de muestreo poniéndolas a disposición de la autoridad competente o personal designado para la toma de muestras de la comunidad autónoma en la que esté ubicado el establecimiento.
-
-e) La autoridad competente en materia de sanidad animal de la comunidad autónoma en donde se ubica el establecimiento o planta será la responsable de realizar las analíticas correspondientes.
+b) Mayores de treinta y seis meses de edad que hayan muerto o hayan sido sacrificados, pero que no fueron sacrificados en el marco de una epidemia, como es el caso de la fiebre aftosa. No obstante, si se trata de animales nacidos en países no recogidos en el anexo de la Decisión 2008/908/CE de la Comisión, de 28 de noviembre de 2008, se realizarán pruebas de la EEB a todos los animales bovinos mayores de veinticuatro meses de edad.
 
 4. Medidas posteriores a la realización de pruebas:
 
@@ -117,12 +95,6 @@ b) Todas las partes del cuerpo de un animal que dé positivo en las pruebas de d
 a) Se determinará el genotipo de la proteína del prión por cada caso positivo de EET en el ganado ovino. En los casos de EET en que se encuentren genotipos resistentes (ovinos de genotipos que codifican alanina en ambos alelos en el codon 136, arginina en los dos alelos en el codon 154 y arginina en ambos alelos en el codon 171), se informará de inmediato a la Dirección General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación, para su traslado a la Comisión de las Comunidades Europeas. En la medida de lo posible, los casos de este tipo se someterán a la caracterización de cepas. Cuando no sea posible identificar las cepas de tales casos, el rebaño de origen y todos los otros rebaños en los que haya estado el animal se someterán a un control más intensivo por si pudieran encontrarse otros casos de la enfermedad para la caracterización de las cepas.
 
 b) Además de los animales a los que se determine el genotipo conforme a lo dispuesto en el punto 5.1 anterior, deberá determinarse también el genotipo de la proteína del prión de una submuestra aleatoria de los animales ovinos a los que se realicen pruebas con arreglo a lo dispuesto en el punto 2 de este anexo II.B. Esta submuestra será representativa de, al menos, el 1 por 100 de la muestra total anual para cada Comunidad Autónoma. Como excepción, la Comunidad Autónoma podrá optar por determinar el genotipo de un número equivalente de animales vivos de la misma edad.
-
-> Se modifica el apartado 3 por el art. único de la Orden AAA/2504/2015, de 17 de noviembre. Ref. BOE-A-2015-12817.
-
-> Se modifican los apartados 2 y 3 del Anexo II.A por el art. único de la Orden PRE/1550/2013, de 2 de agosto. Ref. BOE-A-2013-8929.
-
-> Se modifican los apartados A.2 y 3 por el art. único de la Orden PRE/2493/2011, de 16 de septiembre. Ref. BOE-A-2011-14954.
 
 > Se modifican los apartados A.2 y 3 por el art. único de la Orden PRE/1431/2009, de 29 de mayo. Ref. BOE-A-2009-9180.
 
