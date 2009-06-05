@@ -1,8 +1,8 @@
 ## ANEXO I
 
-## Adscripción, a la que hace referencia el artículo 14.2 de este real decreto, de las materias de modalidad que son impartidas en el segundo curso de bachillerato, según lo dispuesto en el Real Decreto 1467/2007, de 2 de noviembre, por el que se establece la estructura del bachillerato y se fijan sus enseñanzas mínimas y las normas de desarrollo del mismo por parte de las Administraciones educativas, a las ramas de conocimiento establecidas en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales
+## Adscripción de las materias de modalidad que son impartidas en el segundo curso de bachillerato, según lo dispuesto en el Real Decreto 1467/2007, de 2 de noviembre, por el que se establece la estructura del bachillerato y se fijan sus enseñanzas mínimas y las normas de desarrollo del mismo por parte de las Administraciones educativas, a las ramas de conocimiento establecidas en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales
 
-| Materias modalidad 2.º bachillerato | Ramas de conocimiento |
+| Materias de modalidad | Ramas de conocimiento |
 | --- | --- |
 | Análisis musical II. | Artes y Humanidades. Ciencias Sociales y Jurídicas. |
 | Anatomía aplicada. | Artes y Humanidades. Ciencias de la Salud. Ciencias Sociales y Jurídicas. |
@@ -31,3 +31,5 @@
 | Técnicas de expresión gráfico-plástica. | Artes y Humanidades. Ciencias Sociales y Jurídicas. |
 | Tecnología industrial II. | Ciencias. Ingeniería y Arquitectura. |
 | Volumen. | Artes y Humanidades. Ciencias Sociales y Jurídicas. |
+
+> Se modifica por art. 1 de la Orden EDU/1434/2009, de 29 de mayo. Ref. BOE-A-2009-9247
