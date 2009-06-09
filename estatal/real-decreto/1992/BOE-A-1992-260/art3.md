@@ -10,7 +10,7 @@ Escala Activa de Ingenieros Técnicos de Armamento y Construcción, ramas de Arm
 
 Escala Legionaria de Jefes y Oficiales de Infantería: Teniente, Capitán y Comandante.
 
-Escala de Subdirectores Músicos: Alférez y Teniente.
+Escala de subdirectores músicos: Alférez, Teniente y Capitán.
 
 Escala de Mar de Oficiales de Infantería: Alférez, Teniente y Capitán.
 
@@ -36,7 +36,7 @@ Reserva Naval Activa, Servicio de Máquinas: Teniente, Capitán y Comandante.
 
 Escala Especial modalidad «B» de las Secciones de Operaciones y Armas y de Energía y Propulsión y de los Cuerpos de Infantería de Marina y de Intendencia: Alférez de Navío o Teniente.
 
-Escala de Subdirectores Músicos: Alférez y Teniente.
+Escala de subdirectores músicos: Alférez, Teniente y Capitán.
 
 Sección de Vigilancia de Costas y Puertos de la Escala Básica del Cuerpo de Suboficiales: Sargento, Sargento Primero, Brigada y Subteniente.
 
@@ -52,7 +52,7 @@ Sección Sanitaria del Cuerpo de Suboficiales: Sargento, Sargento Primero, Briga
 
 Escala de Ingenieros Técnicos Aeronáuticos: Teniente, Capitán y Comandante.
 
-Escala de Subdirectores Músicos: Alférez y Teniente.
+Escala de subdirectores músicos: Alférez, Teniente y Capitán.
 
 Escala de Suboficiales de Banda: Sargento, Sargento Primero, Brigada y Subteniente.
 
@@ -77,3 +77,5 @@ Escala Auxiliar de Farmacia (Suboficiales): Sargento, Sargento Primero, Brigada 
 Escala de Enfermeros Auxiliares de Sanidad (Suboficiales): Sargento, Sargento Primero, Brigada y Subteniente.
 
 Escala de Telegrafistas (Suboficiales): Sargento, Sargento Primero, Brigada y Subteniente.
+
+> Se modifican los apartados 1, 2 y 3 por la disposición final 2 del Real Decreto 947/2009, de 5 de junio. Ref. BOE-A-2009-9480.
