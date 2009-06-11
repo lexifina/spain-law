@@ -80,7 +80,7 @@ N=7. Servicios de numeración personal (X=0) y pendiente de atribución (X≠0).
 
 N=8. Servicios de numeración geográfica (X≠0,9), tarifas especiales y acceso a Internet (X=0), y pendiente de atribución (X=9).
 
-N=9. Servicios de numeración geográfica y radiobúsqueda (X ≠ 0), tarifas especiales y acceso a Internet (X=0), y pendiente de atribución (X=9).
+N=9. Servicios de numeración geográfica y radiobúsqueda (X≠0), tarifas especiales y acceso a Internet (X=0), y pendiente de atribución (X=9).
 
 Los segmentos y bloques de numeración pendientes se podrán atribuir posteriormente en función de las necesidades que surjan.
 
@@ -279,6 +279,8 @@ APENDICE
 | 986 | 9 | 9 | Numeración geográfica. | Pontevedra. |
 | 987 | 9 | 9 | Numeración geográfica. | León. |
 | 988 | 9 | 9 | Numeración geográfica. | Ourense. |
+
+> Se declara la nulidad del inciso destacado del apartado 5.4 por Sentencia del TS de 10 de marzo de 2009. Ref. BOE-A-2009-9717
 
 > Se modifica por el art. único.1 a 3 de la Orden ITC/3991/2006, de 28 de diciembre. Ref. BOE-A-2006-22963
 
