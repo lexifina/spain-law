@@ -1,0 +1,3 @@
+## Disposición final tercera. Anexos I y II de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público.
+
+De conformidad con la autorización conferida al Consejo de Ministros por la disposición adicional decimotercera de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, se modifican los Anexos I y II de la citada Ley de conformidad con la modificación introducida en la Directiva 2004/18/CE por el artículo 3 del Reglamento (CE) n.º 213/2008 de la Comisión, aprobado en 28 de noviembre de 2007. En su consecuencia, los mencionados anexos quedan redactados en la forma que se recoge en la Sección Primera del Apéndice de este real decreto.

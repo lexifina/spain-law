@@ -1,0 +1,5 @@
+## Disposición final octava. Entrada en vigor.
+
+1. Sin perjuicio de lo establecido en las disposiciones transitorias, el presente real decreto entrará en vigor transcurrido un mes a contar desde el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+2. Ello no obstante, las disposiciones de este real decreto reguladoras del Registro Oficial de Licitadores y Empresas Clasificadas del Estado entrarán en vigor a partir de la publicación de la Orden Ministerial que acuerde la puesta en funcionamiento de la aplicación informática desarrollada al efecto. Hasta tal fecha subsistirán los registros voluntarios de licitadores creados en los diferentes órganos de la Administración General del Estado, así como en los organismos dependientes de ésta al amparo de lo dispuesto en la disposición adicional decimoquinta del Texto Refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto Legislativo 2/2000, de 16 de junio, así como el Registro Oficial de Empresas Clasificadas.

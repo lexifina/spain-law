@@ -1,49 +1,51 @@
 ## ANEXO II
 
-## Servicios a los que se refiere el artículo 10
+## Servicios a que se refiere el artículo 10 de la 30/2007, de 30 de octubre, de Contratos del Sector Público
 
-| Categoría | Descripción | Número de referencia CCP(1) | Número de referencia CPV(2) |
+| Categorías | Descripción | Número de referencia CPC (1) | Número de referencia CPV |
 | --- | --- | --- | --- |
-| 1 | Servicios de mantenimiento y reparación. | 6112, 6122, 633, 886 | De 50100000 a 50982000 (excepto 50310000 a 50324200 y 0116510-9, 50190000-3, 50229000-6, 50243000-0) |
-| 2 | Servicios de transporte por vía terrestre(3), incluidos servicios de furgones blindados y servicios de mensajería, excepto transporte de correo. | 712 (excepto 71235) 7512, 87304 | De 60112000-6 a 60129300-1 (excepto 60121000 a 60121600, 60122200-1, 60122230-0), y de 64120000-3 a 64121200-2 |
-| 3 | Servicios de transporte aéreo: transporte de pasajeros y carga, excepto el transporte de correo. | 73 (excepto 7321) | De 62100000-3 a 62300000-5 (excepto 62121000-6, 62221000-7) |
-| 4 | Transporte de correo por vía terrestre(4) y por vía aérea. | 71235, 7321 | 60122200-1, 60122230-0, 62121000-6, 62221000-7 |
-| 5 | Servicios de telecomunicación. | 752 | De 64200000-8 a 64228200-2, 72318000-7, y de 72530000-9 a 72532000-3 |
-| 6 | Servicios financieros: a) Servicios de seguros. b) Servicios bancarios y de inversiones(5). | ex 81, 812, 814 | De 66100000-1 a 66430000-3 y de 67110000-1 a 67262000-1(3) |
-| 7 | Servicios de informática y servicios conexos. | 84 | De 50300000-8 a 50324200-4, de 72100000-6 a 72591000-4 (excepto 72318000-7 y de 72530000-9 a 72532000-3) |
-| 8 | Servicios de investigación y desarrollo(6). | 85 | De 73000000-2 a 73300000-5 (excepto 73200000-4, 73210000-7, 7322000-0) |
-| 9 | Servicios de contabilidad, auditoría y teneduría de libros. | 862 | De 74121000 a 74121250-0 |
-| 10 | Servicios de investigación de estudios y encuestas de la opinión pública | 864 | De 74130000-9 a 74133000-0, y 74423100-1, 74423110-4 |
-| 11 | Servicios de consultores de dirección(7) y servicios conexos. | 865, 866 | 73200000, 73210000, 73220000, 7De 73200000-4 a 73220000-0, de 74140000-2 a 74150000-5 (excepto 74142200-8) y 74420000-9, 74421000-6, 74423000-0, 74423200-2, 74423210-5, 74871000-5, 93620000-0 |
-| 12 | Servicios de arquitectura; servicios de ingeniería y servicios integrados de ingeniería; Servicios de planificación urbana y servicios de arquitectura paisajista. Servicios conexos de consultores en ciencia y tecnología. Servicios de ensayos y análisis técnicos. | 867 | De 74200000-1 a 74276400-8, y de 74310000-5 a 74323100-0, y 74874000-6 |
-| 13 | Servicios de publicidad. | 871 | De 74400000-3 a 74422000-3 (excepto 74420000-9 y 74421000-6) |
-| 14 | Servicios de limpieza de edificios y servicios de administración de bienes raíces. | 874, 82201 a 82206 | De 70300000-4 a 70340000-6, y de 74710000-9 a 74760000-4 |
-| 15 | Servicios editoriales y de imprenta, por tarifa o por contrato. | 88442 | De 78000000-7 a 78400000-1 |
-| 16 | Servicios de alcantarillado y eliminación de desperdicios: servicios de saneamiento y servicios similares. | 94 | De 90100000-8 a 90320000-6, y 50190000-3, 50229000-6, 50243000-0 |
-| 17 | Servicios de hostelería y restaurante. | 64 | De 55000000-0 a 55524000-9, y de 93400000-2 a 93411000-2 |
-| 18 | Servicios de transporte por ferrocarril. | 711 | 60111000-9, y de 60121000-2 a 60121600-8 |
-| 19 | Servicios de transporte fluvial y marítimo. | 72 | De 61000000-5 a 61530000-9, y de 63370000-3 a 63372000-7 |
-| 20 | Servicios de transporte complementarios y auxiliares | 74 | 662400000-6, 62440000-8, 62441000-5, 62450000-1, de 63000000-9 a 63600000-5 (excepto 63370000-3, 63371000-0, 63372000-7), y 74322000-2, 93610000-7 |
-| 21 | Servicios jurídicos. | 861 | De 74110000-3 a 74114000-1 |
-| 22 | Servicios de colocación y suministro de personal (8). | 872 | De 74500000-4 a 74540000-6 (excepto 74511000-4), y de 95000000-2 a 95140000-5 |
-| 23 | Servicios de investigación y seguridad, excepto servicios de furgones blindados. | 873 (excepto 87304) | De 74600000-5 a 74620000-1 |
-| 24 | Servicios de educación y formación profesional | 92 | De 80100000-5 a 80430000-7 |
-| 25 | Servicios sociales y de salud. | 93 | 74511000-4, y de 85000000-9 a 85323000 (excepto 85321000-5 y 85322000-2) |
-| 26 | Servicios de esparcimiento, culturales y deportivos. | 96 | De 74875000-3 a 74875200-5, y de 92000000-1 a 92622000-7 (excepto 92230000-2) |
+| 1 | Servicios de mantenimiento y reparación. | 6112, 6122, 633, 886 | De 50100000-6 a 50884000-5 (excepto de 50310000-1 a 50324200-4 y 50116510-9, 50190000-3, 50229000-6, 50243000-0) y de 51000000-9 a 51900000-1. |
+| 2 | Servicios de transporte por vía terrestre (2), incluidos los servicios de furgones blindados y servicios de mensajería, excepto el transporte de correo. | 712 (excepto 71235), 7512, 87304 | De 60100000-9 a 60183000-4 (excepto 60160000-7, 60161000-4, 60220000-6), y de 64120000-3 a 64121200-2. |
+| 3 | Servicios de transporte aéreo: Transporte de pasajeros y carga, excepto el transporte de correo. | 73 (excepto 7321) | De 60410000-5 a 60424120-3 (excepto 60411000-2, 60421000-5), y 60500000-3. De 60440000-4 a 60445000-9. |
+| 4 | Transporte de correo por vía terrestre (2) y por vía aérea. | 71235, 7321 | 60160000-7, 60161000-4 60411000-2, 60421000-5. |
+| 5 | Servicios de telecomunicación. | 752 | De 64200000-8 a 64228200-2 72318000-7, y de 72700000-7 a 72720000-3. |
+| 6 | Servicios financieros: a) Servicios de seguros. b) Servicios bancarios y de inversión (3). | ex 81, 812, 814 7 | De 66100000-1 a 66720000-3 (3). |
+| 7 | Servicios de informática y servicios conexos. | 84 | De 50310000-1 a 50324200-4, de 72000000-5 a 72920000-5 (excepto 72318000-7 y desde 72700000-7 a 72720000-3), 79342410-4. |
+| 8 | Servicios de investigación y desarrollo (4). | 85 | De 73000000-2 a 73436000-7 (excepto 73200000-4, 73210000-7, 73220000-0. |
+| 9 | Servicios de contabilidad, auditoría y teneduría de libros. | 862 | De 79210000-9 a 79223000-3. |
+| 10 | Servicios de investigación de estudios y encuestas de la opinión pública. | 864 | De 79300000-7 a 79330000-6, y 79342310-9, 79342311-6. |
+| 11 | Servicios de consultores de dirección (5) y servicios conexos. | 865, 866 | De 73200000-4 a 73220000-0 de 79400000-8 a 79421200-3 y 79342000-3, 79342100-4, 79342300-6, 79342320-2, 79342321-9, 79910000-6, 79991000-7, 98362000-8. |
+| 12 | Servicios de arquitectura; servicios de ingeniería y servicios integrados de ingeniería; servicios de planificación urbana y servicios de arquitectura paisajista. Servicios conexos de consultores en ciencia y tecnología. Servicios de ensayos y análisis técnicos. | 867 | De 71000000-8 a 71900000-7 (excepto 71550000-8) y 79994000-8. |
+| 13 | Servicios de publicidad. | 871 | De 79341000-6 a 79342200-5 (excepto 79342000-3 y 79342100-4. |
+| 14 | Servicios de limpieza de edificios y servicios de administración de bienes raíces. | 874, 82201 a 82206 | De 70300000-4 a 70340000-6, y de 90900000-6 a 90924000-0. |
+| 15 | Servicios editoriales y de imprenta, por tarifa o por contrato. | 88442 | De 79800000-2 a 79824000-6. De 79970000-6 a 79980000-7. |
+| 16 | Servicios de alcantarillado y eliminación de desperdicios: Servicios de saneamiento y servicios similares. | 94 | De 90400000-1 a 90743200-9 (excepto 90712200-3. De 90910000-9 a 90920000-2 y 50190000-3, 50229000-6, 50243000-0. |
+| 17 | Servicios de hostelería y restaurante. | 64 | De 55100000-1 a 55524000-9, y de 98340000-8 a 98341100-6. |
+| 18 | Servicios de transporte por ferrocarril. | 711 | De 60200000-0 a 60220000-6. |
+| 19 | Servicios de transporte fluvial y marítimo. | 72 | De 60600000-4 a 60653000-0, y de 63727000-1 a 63727200-3. |
+| 20 | Servicios de transporte complementarios y auxiliares. | 74 | De 63000000-9 a 63734000-3 (excepto 63711200-8, 63712700-0, 63712710-3, y de 63727000-1 a 63727200-3), y 98361000-1. |
+| 21 | Servicios jurídicos. | 861 | De 79100000-5 a 79140000-7. |
+| 22 | Servicios de colocación y suministro de personal (6). | 872 | De 79600000-0 a 79635000-4 (excepto 79611000-0, 79632000-3, 79633000-0), y de 98500000-8 a 98514000-9. |
+| 23 | Servicios de investigación y seguridad, excepto los servicios de furgones blindados. | 873 (excepto 87304) | De 79700000-1 a 79723000-8. |
+| 24 | Servicios de educación y formación profesional. | 92 | De 80100000-5 a 80660000-8 (excepto 80533000-9, 80533100-0, 80533200-1. |
+| 25 | Servicios sociales y de salud. | 93 | 79611000-0, y de 85000000-9 a 85323000-9 (excepto 5321000-5 y 85322000-2). |
+| 26 | Servicios de esparcimiento, culturales y deportivos (7). | 96 | De 79995000-5 a 79995200-7, y de 92000000-1 a 92700000-8 (excepto 92230000-2, 92231000-9, 92232000-6. |
 | 27 | Otros servicios. |  |  |
 
-(1). La Nomenclatura CCP (versión provisional) se utiliza para definir el ámbito de aplicación de la Directiva 93/38/CEE en relación con los contratos de servicios.
+(1) Nomenclatura CPC (versión provisional) empleada para definir el ámbito de aplicación de la Directiva 92/50/CEE. En caso de diferentes interpretaciones entre CPV y CPC, se aplicará la nomenclatura CPC.
 
-(2). Reglamento (CE) número 2195/2002 del Parlamento Europeo y del Consejo, de 5 de noviembre de 2002, por el que se aprueba el Vocabulario común de contratos públicos (CPV).
+(2) Exceptuando los servicios de transporte por ferrocarril incluidos en la categoría 18.
 
-(3). Exceptuando los servicios de transporte por ferrocarril incluidos en la categoría 18.
+(3) Exceptuando los servicios financieros relativos a la emisión, compra, venta y transferencia de títulos u otros instrumentos financieros, y los servicios prestados por los bancos centrales. Quedan también excluidos los servicios que consistan en la adquisición o el arrendamiento, independientemente del sistema de financiación, de terrenos, edificios ya existentes u otros bienes inmuebles, o relativos a derechos sobre estos bienes; no obstante, los servicios financieros prestados, bien al mismo tiempo, bien con anterioridad o posterioridad al contrato de adquisición o de arrendamiento, en cualquiera de sus formas, se regularán por lo dispuesto en la presente Ley en cuanto se refiere al procedimiento de adjudicación.
 
-(4). Exceptuando los servicios de transporte por ferrocarril incluidos en la categoría 18.
+(4) Exceptuando los servicios de investigación y desarrollo distintos de aquellos cuyos resultados corresponden al poder adjudicador y/o a la entidad adjudicadora para su uso exclusivo, siempre que éste remunere íntegramente la prestación del servicio.
 
-(5). Exceptuando los servicios financieros relativos a la emisión, compra, venta y transferencia de títulos u otros instrumentos financieros, y los servicios prestados por los bancos centrales. Quedan también excluidos los servicios consistentes en la adquisición o alquiler, con independencia de cuáles sean sus modalidades financieras, de terrenos, edificios ya existentes u otros bienes inmuebles o relacionados con los derechos sobre dichos bienes; no obstante, los servicios financieros prestados bien al mismo tiempo, bien con anterioridad o posterioridad al contrato de adquisición o de arrendamiento, en cualquiera de sus formas, se regularán por lo dispuesto en la presente Directiva.
+(5) Exceptuando los servicios de arbitraje y conciliación.
 
-(6). Exceptuando los servicios de investigación y desarrollo distintos de aquellos cuyos resultados corresponden a la entidad adjudicadora para su uso exclusivo, siempre que ésta remunere íntegramente la prestación del servicio.
+(6) Exceptuando los contratos de trabajo.
 
-(7). Exceptuando los servicios de arbitraje y conciliación.
+(7) Exceptuando los contratos para la compra, el desarrollo, la producción o la coproducción de material de programación por parte de los organismos de radiodifusión y los contratos relativos al tiempo de radiodifusión.
 
-(8). Exceptuando los contratos de trabajo.
+> Se modifica por la disposición final 3 del Real Decreto 817/2009, de 8 de mayo. Ref. BOE-A-2009-8053
+
+> Redactadas las citas 1 y 3 conforme a la corrección de errores publicada en BOE núm. 239 ,de 3 de octubre de 2009.Ref. BOE-A-2009-15716
