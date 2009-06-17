@@ -18,16 +18,18 @@ c) El Jefe de la Oficina de Estadística y Central de Balances del Banco de Espa
 
 «3.b) los enumerados en apartado 1.b) de este artículo, por otros suplentes nombrados por el mismo sistema que los titulares.»
 
-3. El artículo 7, apartado 3, del Real Decreto 1036/1990, de 27 de julio, por el que se regula la naturaleza, funciones, composición, organización y funcionamiento de la Comisión Interministerial de Estadística, modificado por el Real Decreto 732/1993, de 14 de mayo, quedará redactado como sigue:
+3. El artículo 7, apartado 3, del Real Decreto 1036/1990, de 27 de julio, por el que se regula la naturaleza, funciones, composición, organización y funcionamiento de la Comisión Interministerial de Estadística, quedará redactado como sigue:
 
 «3. La Comisión Permanente estará constituida por los siguientes miembros:
 
-Presidente: Director general de Productos Estadísticos del Instituto Nacional de Estadística.
+a) Presidente: Director General de Planificación, Coordinación y Difusión Estadística del Instituto Nacional de Estadística.
 
-Vicepresidente: Director general de Procesos e Infraestructura Estadística del Instituto Nacional de Estadística.
+b) Vicepresidente: Director General de Metodología, Calidad y Tecnologías de la Información y las Comunicaciones del Instituto Nacional de Estadística.
 
-Vocales: seis vocales representantes de los Ministerios en el Pleno de la Comisión, elegidos por éste.
+c) Vocales: Seis vocales representantes de los Ministerios en el Pleno de la Comisión, elegidos por éste.
 
-Secretario: el Secretario de la Comisión Interministerial de Estadística.»
+d) Secretario: El Secretario de la Comisión Interministerial de Estadística.»
+
+> Se modifica el apartado 3 por el art. 1.2 del Real Decreto 950/2009, de 5 de junio. Ref. BOE-A-2009-9980.
 
 > Se suprimen los órganos destacados por la disposición adicional única del Real Decreto 947/2003, de 18 de julio. Ref. BOE-A-2003-15367.
