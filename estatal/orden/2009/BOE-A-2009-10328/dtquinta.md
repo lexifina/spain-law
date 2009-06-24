@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Traspaso de aquellos consumidores en alta tensión que, sin tener derecho a acogerse a la tarifa de último recurso, transitoriamente carecen de un contrato de suministro en vigor con un comercializador y continúen consumiendo electricidad.
+
+En el caso de consumidores con tarifas de alta tensión a los que se les esté aplicando lo dispuesto en la disposición transitoria primera de la Orden ITC/1857/2008, pasarán a ser suministrados por el comercializador de último recurso que les corresponda al precio establecido en el artículo 21.2. Asimismo será de aplicación lo dispuesto en el artículo 21.3.
