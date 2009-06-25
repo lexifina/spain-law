@@ -52,13 +52,15 @@ c) Graphocephala atropunctata (Signoret)
 
 10. Conotrachelus nenuphar (Herbst)
 
+10.0 Dendrolimus sibiricus Tschetverikov.
+
 10.1 Diabrotica barben Smith & Lawrence
 
 10.2 Diabrotica undecimpunctata howardi Barber
 
 10.3 Diabrotica undecimpunctata undecimpunctata Mannerheim
 
-10.4 Diabrotica virgifera Le Conte
+10.4 Diabrotica virgifera zeae Krysan & Smith.
 
 11. Heliothis zea (Boddie)
 
@@ -81,6 +83,8 @@ c) Graphocephala atropunctata (Signoret)
 18. Pseudopityophthorus minutissimus (Zimmermann)
 
 19. Pseudopityophthorus pruinosus (Eichhoff)
+
+19.1 Rhynchophorus palmarum (L.).
 
 20. Scaphoideus luteolus (Van Duzee)
 
@@ -264,6 +268,8 @@ ORGANISMOS NOCIVOS DE CUYA PRESENCIA SE TIENE CONSTANCIA EN LA COMUNIDAD Y CUYOS
 
 a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 
+0.1 Diabrotica virgifera virgifera Le Conte.
+
 1. Globodera pallida (Stone) Behrens
 
 2. Globodera rostochiensis (Wollenweber) Behrens
@@ -322,6 +328,8 @@ b) Virus y organismos afines
 | --- | --- |
 | 1. Beet necrotic yellow vein virus. | F (Bretaña), FIN, IRL, P (Azores), UK (Irlanda del Norte).». |
 | 2. Tomato spotted wilt virus. | S, FIN. |
+
+> Se modifica por el art. único.1 de la Orden ARM/1671/2009, de 16 de junio. Ref. BOE-A-2009-10428
 
 > Se modifica por el art. único.1 de la Orden ARM/2505/2008, de 28 de agosto. Ref. BOE-A-2008-14423
 

@@ -13,6 +13,7 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 | Especies | Objeto de contaminación |
 | --- | --- |
 | 1. Acuiops fuchsiae Keifer | Vegetales de Fuchsia L., destinados a la plantación, excepto las semillas |
+| 1.1 Agrilus planipennis Fairmaire | Vegetales destinados a la plantación, excepto los vegetales en cultivo de tejidos y las semillas, madera y corteza de Fraxinus L., Juglans mandshurica Maxim., Ulmus davidiana Planch., Ulmus parvifolia Jacq., y Pterocarya rhoifolia Siebold & Zucc, originarios de Canadá, China, Japón, Mongolia, República de Corea, Rusia, Taiwán y EE.UU. |
 | 2. Aleurocantus spp. | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
 | 3. Anthonomus bisignifer (Schenkling) | Vegetales de Fragaria L., destinados a la plantación, excepto las semillas |
 | 4. Anthonomus signatus (Say) | Vegetales de Fragaria L., destinados a la plantación, excepto las semillas |
@@ -34,11 +35,12 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 | 21. OUgonychus perditus Pritchard et Baker. | Vegetales de Juniperus L., excepto los frutos y semillas, originarios de países no europeos |
 | 22. Pissodes spp. (especies no europeas) | Vegetales de coníferas (Coniferales), excepto los frutos y semillas, madera de coníferas (Coniferales) con corteza y corteza aislada de coníferas (Coniferales) originarios de países no europeos |
 | 23. Radopholus citrophilus Huettel Dickson et Kaplan | Vegetales de Citrus L., Fortunella Swingle, y Poncirus Raf., y sus híbridos, excepto los frutos y semillas, y vegetales de Araceae, Marantaceae, Musaceae, Persea spp., Strelitziaceae, con raíces o medio de cultivo unido o adjunto |
-| 24. Saissetia nigra (Nietm.) | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
+| 24. (Sin contenido). |  |
 | 25. Scirtothrips aurantii Faure | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto las semillas |
 | 26. Scirtothrips dorsalis Hood | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
 | 27. Scirtothrips citri (Moultex) | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto las semillas |
 | 28. Scolytidae spp. (especies no europeas) | Vegetales de coníferas (Coniferales) de 3 m de altura mínima, excepto los frutos y semillas, madera de coníferas (Coniferales) con corteza y corteza aislada de coníferas (Coniferales) originarios de países no europeos |
+| 28.1 Scrobipalpopsis solanivora Povolny | Tubérculos de Solanum tuberosum L. |
 | 29. Tachypterellus quadrigibbus Say | Vegetales de Cydonia Mill., Malus Mill., Prunus L. y Pyrus L., excepto las semillas, originarios de países no europeos |
 | 30. Toxoptera citricida Kirk | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
 | 31. Trioza erytreae Del Guercio | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, y Clausena Burm. f., excepto los frutos y semillas |
@@ -73,6 +75,7 @@ c) Hongos
 | 12. Guignardia piricola (Nosa) Yamamoto | Vegetales de Cydonia Mill., Malus Mill., Prunus L. y Pyrus L., excepto las semillas, originarios de países no europeos |
 | 13. Puccinia pittieriana Hennings | Vegetales de Solanaceae, excepto los frutos y semillas |
 | 14. Scirrhia acicola (Dearn.) Siggers | Vegetales de Pinus L., excepto los frutos y semillas |
+| 14.1 Stegophora ulmea (Schweinitz: Fries) Sydow & Sydow | Vegetales de Ulmus L. y Zelkova L., destinados a la plantación, excepto las semillas. |
 | 15. Venturia nashicola Tanaka et Yamamoto | Vegetales de Pyrus L., destinados a la plantación, excepto las semillas, originarios de países no europeos |
 
 d) Virus y organismos afines
@@ -84,6 +87,7 @@ d) Virus y organismos afines
 | 3. Blight y análogos | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
 | 4. Cadang-Cadang viroid | Vegetales de Palmae, destinados a la plantación, excepto las semillas, originarios de países no europeos |
 | 5. Cherry leafroll virus | Vegetales de Rubus L., destinados a la plantación (Cherry leaf roll virus no se presenta en Rubus L. en la Comunidad) |
+| 5.1 Chrysanthemum stem necrosis virus | Vegetales de Dendranthema (DC.) Des Moul. y Lycopersicon lycopersicum (L.) Karsten ex Farw., destinados a la plantación, excepto las semillas |
 | 6. Citrus mosaic virus | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
 | 7. Citrus tristeza virus (cepas no europeas) | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
 | 8. Leprosis | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas. |
@@ -111,9 +115,11 @@ a) Insectos, ácaros y nematodos, en todas las fases de su desarrollo
 | 6. Circulifer tenellus | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
 | 6.1. Eutetranychus orientalis Klein | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
 | 6.2. Helicoverpa armigera (Hübner) | Vegetales de Dendranthema (DC.) Des Moul., Dianthus L., Pelargonium l’Hérit. ex Ait. y de la familia Solanaceae, destinados a la plantación excepto las semillas. |
+| 6.3 Parasaissetia nigra (Nietner) | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas. |
 | 7. Radopholus similis (Cobb) Thorne | Vegetales de Araceae, Marantaceae, Musaceae, Persea spp., Strelitziaceae, con raíces o medio de cultivo unido o adjunto |
 | 8. Liriomyza huidobrensis (Blanchard) | Flores cortadas, hortalizas de hojas de Apium graveolens L., y vegetales de especies herbáceas, destinados a la plantación excepto: bulbos cormos vegetales de la familia de Gramineae rizomas semillas |
 | 9. Liriomyza trifolii (Burgess) | Flores cortadas, hortalizas de hojas de Apium graveolens L., y vegetales de especies herbáceas, destinados a la plantación excepto: bulbos cormos vegetales de la familia de Gramineae rizomas semillas |
+| 10. Paysandisia archon (Burmeister) | Vegetales de Palmae, destinados a la plantación, con un diámetro del tallo en la base superior a 5 cm, y pertenecientes a los géneros siguientes: Brahea Mart., Butia Becc., Chamaerops L., Jubaea Kunth, Livistona R. Br., Phoenix L., Sabal Adans., Syagrus Mart., Trachycarpus H. Wendl., Trithrinax Mart. y Washingtonia Raf. |
 
 b) Bacterias
 
@@ -212,6 +218,8 @@ d) Virus y organismos similares
 | --- | --- | --- |
 | 1. Citrus tristeza virus (cepas europeas) | Frutos de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, con hojas y pedúnculos | EL, F (Córcega), M, P (excepto Madeira). |
 | 2. Flavescencia dorada de la vid (MLO). | Vegetales de Vitis L. excepto frutos y semillas. | CZ, FR (Alsacia, Champaña-Ardenas y Lorena) e IT (Basilicata). |
+
+> Se modifica por el art. único.2 de la Orden ARM/1671/2009, de 16 de junio. Ref. BOE-A-2009-10428
 
 > Se modifica por el art. único.2 y 3 de la Orden ARM/2505/2008, de 28 de agosto. Ref. BOE-A-2008-14423
 

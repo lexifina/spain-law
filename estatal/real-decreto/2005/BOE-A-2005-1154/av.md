@@ -52,6 +52,8 @@ b) corresponda a alguna de las siguientes designaciones de la parte 2 del anexo 
 
 2.3. Aráceas, Marantáceas, Musáceae, Persea spp. y Strelitziaceae, enraizadas o con el medio de cultivo unido o adjunto.
 
+2.3.1 Vegetales de Palmae, destinados a la plantación, con un diámetro del tallo en la base superior a 5 cm, y pertenecientes a los géneros siguientes: Brahea Mart., Butia Becc., Chamaerops L., Jubaea Kunth, Livistona R. Br., Phoenix L., Sabal Adans., Syagrus Mart., Trachycarpus H. Wendl., Trithrinax Mart. y Washingtonia Raf.
+
 2.4. Semillas y bulbos de Allium ascalonicum L., Allium cepa L. y Allium schoenoprasum L., destinados a la plantación, y vegetales de Allium porrum L., destinados a la plantación,
 
 Semillas de Medicago sativa L.,
@@ -152,6 +154,8 @@ I. Vegetales, productos vegetales y otros objetos que puedan ser portadores de o
 
 – Acer saccharum Marsh, Popuius L., y Quercus L., excepto Quercus suber L.
 
+– Fraxinus L., Juglans mandshurica Maxim., Ulmus davidiana Planch., Ulmus parvifolia Jacq., y Pterocarya rhoifolia Siebold & Zucc., originaria de Canadá, China, Japón, Mongolia, República de Corea, Rusia, Taiwán y EE.UU.
+
 6. Madera, en el sentido del párrafo primero del apartado 2 del artículo 2, siempre y cuando:
 
 a) se haya obtenido en su totalidad o en parte de los órdenes, géneros y especies que se enumeran a continuación, excepto los embalajes de madera contemplados en el punto 2 de la sección I de la parte A del anexo IV:
@@ -165,6 +169,8 @@ a) se haya obtenido en su totalidad o en parte de los órdenes, géneros y espec
 – Acer saccharum Marsh., incluida la madera que no conserve su superficie redondeada habitual, originaria de los Estados Unidos y Canadá;
 
 – Coníferas (Coniferales), incluida la madera que no conserve su superficie redondeada habitual, originaria de países no europeos, Kazajistán, Rusia y Turquía;
+
+– Fraxinus L., Juglans mandshurica Maxim., Ulmus davidiana Planch., Ulmus parvifolia Jacq., y Pterocarya rhoifolia Siebold & Zucc., incluida madera que no conserve su superficie redondeada habitual, originaria de Canadá, China, Japón, Mongolia, República de Corea, Rusia, Taiwán y EE.UU.
 
 y
 
@@ -184,8 +190,10 @@ b) corresponda a alguna de las siguientes designaciones de la parte 2 del anexo 
 | 4406 | Traviesas (durmientes) de madera para vías férreas o similares |
 | 4407 10 | Madera de coníferas, aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
 | 4407 91 | Madera de roble (Quercus spp.) aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
-| ex 4407 99 | Madera distinta de la de coníferas (que no sea madera tropical contemplada en la nota de subpartida 1 del capítulo 44, u otra madera tropical, de roble (Quercus spp.) o de haya (Fagus spp.)), aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
-| 4415 | Cajones, cajas, jaulas, tambores y envases similares, de madera; carretes para cables, de madera; paletas, paletas caja y demás plataformas para carga, de madera; collarines para paletas, de madera |
+| ex 4407 93 | Madera de Acer saccharum Marsh, aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
+| 4407 95 | Madera de fresno (Fraxinus spp.), aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
+| ex 4407 99 | Madera distinta de la de coníferas [que no sea madera tropical contemplada en la nota de subpartida 1 del capítulo 44, u otra madera tropical, de roble (Quercus spp.), haya (Fagus spp.), arce (Acer spp.), cerezo (Prunus spp.) o fresno (Fraxinus spp.)], aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
+| 4415 | Cajones, cajas, jaulas, tambores y envases similares, de madera; carretes para cables, de madera; paletas, paletas caja y demás plataformas para carga, de madera; collarines para paletas, de madera |  |
 | 4416 00 00 | Barriles, cubas, tinas y demás manufacturas de tonelería y sus partes, de madera, incluidas las duelas |
 | 9406 00 20 | Construcciones prefabricadas de madera. |
 
@@ -246,6 +254,8 @@ b) responda a alguna de las siguientes designaciones de la parte 2 del anexo I d
 8. Partes de vegetales de Eucalyptus l’Hérit.
 
 9. Corteza aislada de coníferas (Coniferales), originaria de terceros países europeos.
+
+> Se modifica por el art. único.5 de la Orden ARM/1671/2009, de 16 de junio. Ref. BOE-A-2009-10428
 
 > Se modifica por el art. único.3 de la Orden APA/2802/2007, de 24 de septiembre. Ref. BOE-A-2007-17112
 
