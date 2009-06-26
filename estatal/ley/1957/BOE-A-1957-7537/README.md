@@ -64,6 +64,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo cuarenta y cuatro](acuarentaycuatro.md)
 - [Artículo cuarenta y cinco](acuarentaycinco.md)
 - [Artículo cuarenta y seis](acuarentayseis.md)
+- [Artículo cuarenta y seis bis](acuarentayseisbis.md)
+- [Artículo cuarenta y seis ter](acuarentayseister.md)
 - [CAPÍTULO II](cii.md)
 - [Artículo cuarenta y siete](acuarentaysiete.md)
 - [Artículo cuarenta y ocho](acuarentayocho.md)
