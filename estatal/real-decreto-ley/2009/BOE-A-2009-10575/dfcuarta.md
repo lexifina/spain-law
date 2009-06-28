@@ -1,0 +1,5 @@
+## Disposición final cuarta. Modificación del artículo 4 de la Ley 26/1988, de 29 de julio, sobre disciplina e intervención de las entidades de crédito.
+
+En el artículo 4 de la Ley 26/1988, de 29 de julio, sobre disciplina e intervención de las entidades de crédito, se adiciona una nueva letra p) con la siguiente redacción:
+
+«p) La falta de remisión al Banco de España por parte de los administradores de una entidad de crédito del plan de retorno al cumplimiento de las normas de solvencia o del plan al que se refiere el artículo 6.1 del Real Decreto-ley 9/2009, de 26 de junio de 2009, sobre reestructuración bancaria y reforzamiento de los recursos propios de las entidades de crédito, cuando ello resulte procedente. Se entenderá que existe falta de remisión cuando hubiera transcurrido el plazo establecido para efectuar la misma, a contar desde el momento en que los administradores conocieron o debieron conocer que la entidad se encontraba en alguna de las situaciones que determinan la existencia de dicha obligación.»

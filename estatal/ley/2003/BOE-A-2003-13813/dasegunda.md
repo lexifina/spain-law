@@ -24,7 +24,11 @@ i) El Capítulo II del Título I del Real Decreto Ley 5/2005, de 11 de marzo, de
 
 j) Ley 6/2005, de 22 de abril, sobre Saneamiento y Liquidación de las Entidades de Crédito.
 
+k) Disposición adicional tercera del Real Decreto-ley 9/2009, de 26 de junio, sobre reestructuración bancaria y reforzamiento de los recursos propios de las entidades de crédito.
+
 3. Las normas legales mencionadas en el apartado anterior se aplicarán con el alcance subjetivo y objetivo previsto en las mismas a las operaciones o contratos que en ellas se contemplan y, en particular, las referidas a las operaciones relativas a los sistemas de pagos y de liquidación y compensación de valores, operaciones dobles, operaciones con pacto de recompra o se trate de operaciones financieras relativas a instrumentos derivados.
+
+> Se añade un apartado 2.k) por la disposición final 5 del Real Decreto-ley 9/2009, de 26 de junio. Ref. BOE-A-2009-10575
 
 > Se modifica el apartado 2.a) por el art. 8.4 del Real Decreto-ley 3/2009, de 27 de marzo. Ref. BOE-A-2009-5311
 

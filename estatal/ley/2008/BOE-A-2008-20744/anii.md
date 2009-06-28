@@ -16,7 +16,7 @@ Uno.–En la Sección 07, «Clases Pasivas»: Los créditos relativos a atender 
 
 Dos.–En la Sección 12, «Ministerio de Asuntos Exteriores y de Cooperación»: El crédito 12.000X.03.431 «A la Agencia Española de Cooperación Internacional para el Desarrollo, para los fines sociales que se realicen en el campo de la cooperación internacional (artículo 2 del Real Decreto 825/1988, de 15 de julio). Porcentaje IRPF».
 
-Tres.–En la Sección 14, ((Ministerio de Defensa»:
+Tres.–En la Sección 14, «Ministerio de Defensa»:
 
 a) El crédito 14.121M.01.489 para el pago de las indemnizaciones derivadas de la aplicación del Real Decreto-ley 8/2004, de 5 de noviembre, sobre indemnizaciones a los participantes en operaciones internacionales de paz y seguridad.
 
@@ -28,7 +28,7 @@ a) El crédito 15.231G.13.875, destinado al «Fondo de Garantía del Pago de Ali
 
 b) El crédito 15.923O.19.351.01, destinado a la cobertura de riesgos en avales prestados por el Tesoro.
 
-c) El crédito 15.931M.16.879, destinado a la aportación al Fondo para la Adquisición de Activos Financieros. El crédito final no podrá superar la cantidad de 50.000.000 miles de euros, importe máximo previsto en el artículo 2 del Real Decreto-ley 6/2008, de 10 de octubre, por el que se crea el Fondo para la Adquisición de Activos Financieros.
+c) El crédito 15.931M.16.879, destinado a la aportación al Fondo para la Adquisición de Activos Financieros. El crédito final no podrá superar la cantidad de 43.250.000 miles de euros, importe máximo previsto en el artículo 2 del Real Decreto-ley 6/2008, de 10 de octubre, por el que se crea el Fondo para la Adquisición de Activos Financieros.
 
 Cinco.–En la Sección 16, «Ministerio del Interior»:
 
@@ -99,3 +99,5 @@ Quince.–Los créditos de la Sección 34, «Relaciones Financieras con la Unió
 Tercero. Todos los créditos de este presupuesto en función de los compromisos de financiación exclusiva o de confinanciación que puedan contraerse con las Comunidades Europeas.
 
 Cuarto. En el presupuesto de la Seguridad Social, los créditos que sean necesarios en los programas de gastos del Instituto Nacional de Gestión Sanitaria para reflejar las repercusiones que en los mismos tengan las modificaciones de los créditos, que figuran en el estado de transferencias entre Subsectores de los Presupuestos Generales del Estado.
+
+> Se modifica el apartado 2.4.c) por la disposición final 2.2 del Real Decreto-ley 9/2009, de 26 de junio. Ref. BOE-A-2009-10575#dfsegunda.
