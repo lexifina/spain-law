@@ -27,3 +27,7 @@ c) La modalidad y condiciones de los contratos suscritos con los trabajadores de
 d) Las variables económicas que concurran en el Centro en relación con su objetivo y función social.
 
 e) Los servicios de ajuste personal y social que preste el Centro a sus trabajadores minusválidos.
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto-Ley 3/2011, de 18 de febrero. Ref. BOE-A-2011-3255.
+
+> Téngase en cuenta que este artículo permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
