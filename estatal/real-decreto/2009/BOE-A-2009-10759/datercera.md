@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Referencias a la Secretaría General para la Administración Pública.
+
+Las menciones a la «Secretaría General para la Administración Pública», contenidas en el Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado, han de entenderse referidas a la «Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los servicios», cuyas relaciones con las Inspecciones Generales de Servicios departamentales se realizarán a través de la Dirección General de Organización Administrativa y Procedimientos.

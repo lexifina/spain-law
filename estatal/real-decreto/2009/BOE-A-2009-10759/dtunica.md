@@ -1,0 +1,9 @@
+## Disposición transitoria única. Unidades y puestos de trabajo con nivel orgánico de Subdirección General y régimen transitorio de los servicios comunes.
+
+Las unidades y puestos de trabajo con nivel orgánico inferior a subdirección general que resulten afectados por las modificaciones orgánicas establecidas en este real decreto, continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se aprueben las relaciones de puestos de trabajo adaptadas a la estructura orgánica de este real decreto y se produzca la efectiva distribución de los créditos presupuestarios.
+
+Las unidades y puestos de trabajo encuadrados en los órganos afectados por este Real Decreto se adscribirán provisionalmente, mediante resolución del Subsecretario, hasta tanto entre en vigor la nueva relación de puestos de trabajo, a los órganos regulados en este Real Decreto, en función de las atribuciones que éstos tengan asignadas.
+
+En tanto los Ministerios de la Presidencia y de Política Territorial no aprueben las normas de regulación de sus propios órganos de contratación, se mantendrán vigentes los órganos colegiados en materia de contratación, así como los demás órganos colegiados del Ministerio de Administraciones Públicas.
+
+Hasta tanto se produzca la efectiva distribución de efectivos y créditos presupuestarios, las nuevas Subdirecciones Generales de la Dirección General de Coordinación y Administración de los Servicios Periféricos prestarán los servicios comunes que venían desempeñando las Subdirecciones Generales de la Dirección General de Servicios y Coordinación de la Administración General del Estado en las Comunidades Autónomas y Ciudades con Estatuto de Autonomía antes de la reestructuración ministerial. Los Ministerio de Presidencia y el de Política Territorial se seguirán prestando la ayuda que sea necesaria para mantener el funcionamiento ordinario de los servicios y de la gestión de las ayudas.

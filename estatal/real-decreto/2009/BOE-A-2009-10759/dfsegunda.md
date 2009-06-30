@@ -1,0 +1,3 @@
+## Disposición final segunda. Facultades de desarrollo y ejecución.
+
+Se autoriza al Titular del Ministerio de la Presidencia para que, previo cumplimiento de los trámites legales oportunos, adopte las medidas que sean necesarias para el desarrollo y ejecución de este Real Decreto.
