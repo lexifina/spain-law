@@ -18,7 +18,7 @@ Las cuantías anteriores serán objeto de revisión desde el 10 de diciembre de 
 
 Los administradores de las entidades reaseguradoras a que se refiere este precepto están obligados a formular, en el plazo máximo de seis meses contados a partir del cierre del ejercicio social, las cuentas anuales, el informe de gestión y la propuesta de aplicación del resultado. La junta general ordinaria de estas entidades, previamente convocada al efecto, se reunirá necesariamente dentro de los tres meses siguientes a la fecha de la citada formulación por los administradores para censurar la gestión social, aprobar, en su caso, las cuentas del ejercicio anterior y resolver sobre la aplicación del resultado.
 
-6. Serán de aplicación a las entidades reaseguradoras a las que se refiere este artículo las normas sobre participaciones significativas contenidas en el artículo 22 de esta Ley.
+6. Serán de aplicación a las entidades reaseguradoras a las que se refiere este artículo las normas sobre participaciones significativas contenidas en los artículos 22, 22 bis, 22 ter y 22 quáter de esta Ley.
 
 7. La cesión de cartera de las entidades reaseguradoras reguladas en este artículo se regirá por lo dispuesto en el artículo 23 y deberá realizarse entre alguna de las entidades que se enumeran en el artículo 57.1, ambos de esta Ley. La cesión podrá ser general de toda la cartera, de todos los contratos de reaseguro de vida o de todos los contratos de reaseguro distinto del de vida.
 
@@ -49,5 +49,7 @@ d) establecimiento de provisiones técnicas para garantizar su adecuación, fiab
 e) inversión de los activos que cubran las provisiones técnicas con el fin de garantizar que tomen en consideración el tipo de operaciones efectuadas por la entidad de reaseguros y, en particular, el carácter, el importe y la duración de los pagos por siniestros esperados para garantizar la suficiencia, liquidez, seguridad, rentabilidad y congruencia de sus activos;
 
 f) normas relativas al patrimonio propio no comprometido, a la cuantía mínima del margen de solvencia y al fondo mínimo de garantía que deberá mantener la entidad reaseguradora en relación con las actividades de reaseguro limitado.
+
+> Se modifica el apartado 6 por el art. 3.6 de la Ley 5/2009, de 29 de junio. Ref. BOE-A-2009-10751
 
 > Se añade por el art. único.8 de la Ley 13/2007, de 2 de julio. Ref. BOE-A-2007-12870

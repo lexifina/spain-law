@@ -18,5 +18,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo cuarto](acuarto.md)
 - [Artículo quinto](aquinto.md)
 - [Artículo sexto](asexto.md)
+- [Artículo séptimo](aseptimo.md)
 - [Disposición adicional](da.md)
 - [firma](firma.md)

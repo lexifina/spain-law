@@ -1,0 +1,13 @@
+## Disposición final primera. Modificación de la Ley 26/2006, de 17 de julio, de mediación de seguros y reaseguros privados.
+
+El artículo 28 del texto refundido de la Ley 26/2006, de 17 de julio, de mediación de seguros y reaseguros privados, queda redactado del siguiente modo:
+
+«Artículo 28. Vínculos estrechos y régimen de participaciones significativas.
+
+1. Las sociedades de correduría de seguros deberán informar a la Dirección General de Seguros y Fondos de Pensiones de cualquier relación que pretendan establecer con personas físicas o jurídicas que pueda implicar la existencia de vínculos estrechos, así como de la proyectada transmisión de acciones o participaciones que pudiera dar lugar a un régimen de participaciones significativas. Será necesaria la falta de oposición previa de la Dirección General de Seguros y Fondos de Pensiones para llevar a cabo estas operaciones.
+
+2. La Dirección General de Seguros y Fondos de Pensiones dispondrá de un plazo de tres meses, a partir de la presentación de la información, para oponerse a la adquisición de la participación significativa o de cada uno de sus incrementos que igualen o superen los límites del 20 por ciento, 30 por ciento o 50 por ciento y también cuando en virtud de la adquisición se pudiera llegar a controlar la sociedad de correduría. La oposición deberá fundarse en que quien pretenda adquirirla no sea idóneo para garantizar una gestión sana y prudente de la sociedad. Si la Dirección General de Seguros y Fondos de Pensiones no se pronunciara en el plazo de tres meses, podrá procederse a la adquisición o incremento de participación. Si dicha Dirección General expresa su conformidad a la adquisición o incremento de participación significativa, podrá fijar un plazo máximo distinto al comunicado para efectuar la adquisición.
+
+3. No podrán tener vínculos estrechos o participación significativa en las sociedades de correduría de seguros las personas físicas o jurídicas que hubieren sido suspendidas en sus funciones de dirección de entidades aseguradoras, de sociedades de mediación en seguros o como corredores de seguros, o separadas de dichas funciones.
+
+4. A los efectos de lo dispuesto en esta Ley se entiende por vínculo estrecho y por participación significativa los así definidos en los artículos 8 y 22, respectivamente, del Texto refundido de la Ley de ordenación y supervisión de los seguros privados, aprobado por el Real Decreto Legislativo 6/2004, de 29 de octubre, de los que se aplicarán sus disposiciones, así como del artículo 22.bis salvo su apartado 1, pero entendiéndose sustituida la referencia a entidades aseguradoras por la de sociedades de correduría de seguros.»

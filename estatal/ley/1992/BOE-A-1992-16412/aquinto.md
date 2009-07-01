@@ -12,11 +12,9 @@ Los Fondos constituirán patrimonios separados y cerrados, carentes de personali
 
 3.º Se establecerán las demás reglas a las que haya de ajustarse el Fondo, determinándose, en particular, las operaciones que, conforme a lo establecido en el número 7, vayan a concertarse por su cuenta.
 
-3. Otorgada la escritura de constitución del Fondo, no podrá sufrir alteración sino en los supuestos excepcionales y con las condiciones que reglamentariamente se establezcan.
+3. La constitución de Fondos deberá ser objeto de verificación y registro por la Comisión Nacional del Mercado de Valores en los términos previstos en la Ley 24/1988 para la emisión de valores, con las adaptaciones que reglamentariamente puedan establecerse. Ni los Fondos ni los valores que se emitan con cargo a ellos serán objeto de inscripción en el Registro Mercantil, ni quedarán sujetos a lo dispuesto en la Ley 211/1964, de 24 de diciembre, sobre emisión de obligaciones por personas jurídicas que no sean sociedades anónimas.
 
-La constitución de Fondos deberá ser objeto de verificación y registro por la Comisión Nacional del Mercado de Valores en los términos previstos en la Ley 24/1988 para la emisión de valores, con las adaptaciones que reglamentariamente puedan establecerse. Ni los Fondos ni los valores que se emitan con cargo a ellos serán objeto de inscripción en el Registro Mercantil, ni quedarán sujetos a lo dispuesto en la Ley 211/1964, de 24 de diciembre, sobre emisión de obligaciones por personas jurídicas que no sean sociedades anónimas.
-
-Los Fondos se extinguirán en todo caso al amortizarse íntegramente las participaciones hipotecarias que agrupen. También podrá preverse expresamente en la escritura de constitución su liquidación anticipada cuando el importe de las participaciones hipotecarias pendiente de amortización sea inferior al 10 por 100 del inicial, debiendo en tal caso determinarse en la escritura la forma en que se dispondrá de los activos remanentes del Fondo.
+Los Fondos se extinguirán en todo caso al amortizarse íntegramente las participaciones hipotecarias que agrupen. También podrá preverse expresamente en la escritura de constitución su liquidación anticipada cuando el importe de las participaciones hipotecarias pendiente de amortización sea inferior al 10 % del inicial, debiendo en tal caso determinarse en la escritura la forma en que se dispondrá de los activos remanentes del Fondo.
 
 4. Las participaciones hipotecarias agrupadas en los Fondos, además de corresponder a préstamos que reúnan los requisitos establecidos en la Sección Segunda de la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario, deberán tener un vencimiento igual al de los préstamos participados.
 
@@ -43,6 +41,8 @@ Las contraprestaciones satisfechas a los titulares de los valores que se emitan 
 La administración de los Fondos por las sociedades gestoras quedará exenta del Impuesto sobre el Valor Añadido.
 
 11. Reglamentariamente podrán establecerse limitaciones especiales a la adquisición por Instituciones de Inversión Colectiva de valores emitidos con cargo a Fondos de Titulización Hipotecaria administrados por Sociedades pertenecientes al mismo grupo que las sociedades gestoras de dichas Instituciones.
+
+> Se modifica el apartado 3 por la disposición final 4.1 de la Ley 5/2009, de 29 de junio. Ref. BOE-A-2009-10751
 
 > Se deroga el apartado 10, en lo que afecte al Impuesto sobre Sociedades, por la disposición derogatoria única.1.29 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
 
