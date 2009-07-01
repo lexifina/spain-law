@@ -185,3 +185,7 @@ Los coeficientes a aplicar al término fijo de caudal de los peajes correspondie
 | Diciembre | 0,10 | 2,00 |
 
 El término variable (Tvij) a aplicar es el del peaje correspondiente.
+
+> Véase el anexo de la Orden ITC/1724/2009, de 26 de junio. Ref. BOE-A-2009-10671., que revisa los peajes y cánones de los servicios básicos.
+
+> Téngase en cuenta que el apartado 2.2 del anexo se anula por Sentencia del TS de 15 de febrero de 2011. Ref. BOE-A-2011-5201.
