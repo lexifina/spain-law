@@ -14,7 +14,7 @@
 | 131 | IRPF PAGO FRACCIONADO. ACTIVIDADES ECONOMICAS EN ESTIMACIÓN OBJETIVA | T |
 | 150 | IRPF-RÉGIMEN ESPECIAL DE TRIBUTACIÓN POR EL IRNR. | 0A |
 | 200 | IS. E IRNR. DECLARACIÓN ANUAL | 0A |
-| 201 | IS.E IRNR. DECLARACIÓN ANUAL SIMPLIFICADA | 0A |
+| 201 | (Suprimido) | (Suprimido) |
 | 202 | IS. PAGO FRACCIONADO | 1P,2P,3P |
 | 206 | IMP. RENTA NO RESIDENTES (EST. PERMANENTE) | 0A |
 | 210 | IMP. RENTA NO RESIDENTES (SIN EST. PERMANENTE).- DECLA ORDINARIA | 0A |
@@ -23,7 +23,7 @@
 | 213 | GRAVAMEN ESPECIAL SOBRE INM. DE ENTIDADES NO RESIDENTES | 0A |
 | 214 | IP E IR NO RESIDENTES. DECLA. SIMPLIFICADA | 0A |
 | 215 | IR NO RESIDENTES SIN EST. PERMANENTE.- DECLA COLECTIVA | T |
-| 225 | IS SOCIEDADES PATRIMONIALES | 0A |
+| 225 | (Suprimido) | (Suprimido) |
 | 300 | (Suprimido) | (Suprimido) |
 | 303 | IMPUESTO SOBRE EL VALOR AÑADIDO. AUTOLIQUIDACIÓN. | M-T |
 | 309 | IVA DECL. LIQUID. NO PERIÓDICA | 1T,2T,3T,4T y 0A |
@@ -44,7 +44,7 @@
 | 651 (2) | IMP. SUCESIONES Y DONACIONES. INTERVIVOS | 0A |
 | 652 (2) | IMP. SUCESIONES Y DONACIONES. MORTIS CAUSA SIMPLIFICADA | 0A |
 | 696 | TASA JUDICIAL | 0A |
-| 714 | (Suprimido) | (Suprimido) |
+| 715 | (Suprimido) | (Suprimido) |
 | 777 | DECLARACIONES-LIQUIDACIONES EXTEMPORÁNEAS Y COMPLEMENTARIAS. | 0A |
 
 (1) Sólo en algunas Comunidades.
@@ -52,6 +52,8 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se suprimen los modelos 201 y 225 por la disposición final 1.1 de la Orden EHA/1375/2009, de 26 de mayo. Ref. BOE-A-2009-8955.
 
 > Se suprime el modelo 714 por la disposición final 1.1 de la Orden EHA/396/2009, de 13 de febrero. Ref. BOE-A-2009-3144.
 
