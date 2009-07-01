@@ -66,7 +66,9 @@ Suiza:
 
 6. Agrupación de Zurich.
 
-7. Agrupación de Neuchatel.
+7. (Suprimido)
+
+> Se suprime el punto 7 de Suiza por el apartado 1 de la Orden EDU/1651/2009, de 1 de junio. Ref. BOE-A-2009-10304.
 
 > Se suprime el punto 1 de Francia, con efectos a partir del curso académico 2005-2006, por el apartado 1 de la Orden ECI/1922/2005, de 3 de junio. Ref. BOE-A-2005-10595.
 
