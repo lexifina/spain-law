@@ -1,3 +1,7 @@
 ## CAPÍTULO VIII
 
 ## Transformación, fusión y escisión de la sociedad
+
+## (Derogado)
+
+> Se deroga por la disposición derogatoria.2 de la Ley 3/2009, de 3 de abril. Ref. BOE-A-2009-5614
