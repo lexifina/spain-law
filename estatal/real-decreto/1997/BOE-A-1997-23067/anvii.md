@@ -15,7 +15,7 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER LOS PRODUCTOS COSMÉTICOS
 | NÚMERO DE ORDEN | SUSTANCIAS | CONCENTRACIÓN MÁXIMA AUTORIZADA | LÍMITES Y EXIGENCIAS | CONDICIONES DE EMPLEO Y ADVERTENCIAS QUE DEBEN FIGURAR OBLIGATORIAMENTE EN EL ETIQUETADO |
 | --- | --- | --- | --- | --- |
 | a | b | c | d | e |
-| 1 | ÁCIDO 4-AMINOBENZOICO | 5% |  |  |
+| 1 (Suprimido) |  |  |  |  |
 | 2 | SULFATO DE METILO Y DE N,N,N-TRIMETIL-4-[(2-OXO-3 BORMILIDEN)-METIL]‑ ANILINA | 6% |  |  |
 | 3 | HOMOSALATO | 10% |  |  |
 | 4 | OXIBENZONA | 10% |  | Contiene oxibenzona (1) |
@@ -41,7 +41,7 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER LOS PRODUCTOS COSMÉTICOS
 | 25 | (1,3,5)-triazina-2,4-bis{[4-(2etil-hexiloxi)-2hydroxi]-fenilo)-6-(4-metoxifenilo) | 10 por 100 |  |  |
 | 26 | Dimethicodiehylbenzal malonate (número CAS 207574-74-1). | 10 por 100 |  |  |
 | 27 | Titanium dioxide. | 25 por 100 |  |  |
-| 28 | Ácido benzoico, 2-(–4-(dietilamino)-2-hidroxibenzoil), hexilester (nombre INCI: Diethylamino Hydroxybenzoyl Hexyl benzoate: n.º CAS 302776-68-7) | 10 % en productos de protección solar. |  |  |
+| 28 | Ácido benzoico, 2-(–4-(dietilamino)-2-hidroxibenzoil), hexilester (nombre INCI: Diethylamino Hydroxybenzoyl Hexyl benzoate: n.º CAS 302776-68-7) | 10 % |  |  |
 
 (1) No se exigirá la mención si la concentración es igual o inferior a 0,5% y si la sustancia se utiliza sólo para proteger el producto.
 
@@ -53,6 +53,8 @@ LISTA DE FILTROS ULTRAVIOLETAS QUE PUEDEN CONTENER PROVISIONALMENTE LOS PRODUCTO
 | --- | --- | --- | --- | --- | --- |
 | a | b | c | d | e | f |
 |  |  |  |  |  |  |
+
+> Se suprime el número 1 y lo indicado del 28 en la primera parte por el art. único.3 de la Orden SAS/1868/2009, de 8 de julio. Ref. BOE-A-2009-11601.
 
 > Se añade el número 28 en la primera parte por el art. único de la Orden SCO/3691/2005, de 25 de noviembre. Ref. BOE-A-2005-19636.
 
