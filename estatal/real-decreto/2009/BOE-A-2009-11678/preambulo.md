@@ -1,0 +1,27 @@
+La maquinaria agrícola constituye un medio de producción que se ha hecho imprescindible en la actividad agraria, dependiendo en muchos casos la rentabilidad de las explotaciones del buen empleo de los equipos mecánicos.
+
+En una agricultura respetuosa con el medio ambiente es necesario utilizar máquinas que en su diseño y fabricación se hayan tenido en cuenta una serie de requisitos mínimos, sin olvidar su equipamiento con una serie de dispositivos que minimicen el riesgo de accidente para sus usuarios y el resto de población.
+
+Con estos fines, están en vigor una serie de disposiciones de distinto rango que con carácter general regulan los distintos equipos que intervienen en la mecanización agraria.
+
+En cuanto a la seguridad vial, el Reglamento General de Vehículos, aprobado por Real Decreto 2822/1998, de 20 de diciembre, establece las definiciones y categorías de los vehículos, entre los que se incluyen los especiales agrícolas y regula el procedimiento para su matriculación, exigiendo la inscripción previa en el Registro Oficial de Maquinaria Agrícola (ROMA), regulado mediante la Orden del Ministerio de Agricultura, Pesca y Alimentación, de 28 de mayo de 1987, sobre inscripción de Máquinas Agrícolas en los Registros Oficiales.
+
+En este mismo sentido, el Real Decreto 2140/1985, de 9 de octubre, por el que se dictan normas de homologación de tipos de vehículos automóviles, remolques y semirremolques, así como partes y piezas de dichos vehículos, determina en su artículo primero que la homologación de tipo de los tractores de ruedas y sus remolques será sin perjuicio de las competencias del extinto Ministerio de Agricultura, Pesca y Alimentación, hoy Ministerio de Medio Ambiente, y Medio Rural y Marino, en lo que se refiere a la homologación de bastidores, cabinas y otros dispositivos de seguridad, así como de las potencias y prestaciones de funcionamiento y operaciones agrícolas.
+
+En cuanto a la caracterización de los tractores y demás maquinaria automotriz, se considera necesario derogar la Orden del Ministerio de Agricultura, de 14 de febrero de 1964, por la que se establece el procedimiento de homologación de la potencia de los tractores agrícolas, adoptando los mismos criterios que la normativa comunitaria para fijar de forma inequívoca este importante parámetro, de acuerdo con el Real Decreto 2028/1986, de 6 de junio, y sus modificaciones posteriores, por el que se dictan normas para la aplicación de determinadas directivas de la CEE, relativas a la homologación de tipos de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos, que traspone al derecho interno español, la Directiva 2000/25/CE del Parlamento Europeo y del Consejo, de 22 de mayo de 2000, relativa a las medidas que deben adoptarse contra las emisiones de gases contaminantes y de partículas contaminantes procedentes de motores destinados a propulsar tractores agrícolas o forestales y por la que se modifica la Directiva 74/150/CEE del Consejo.
+
+Así mismo, para el resto de maquinaria automotriz, en la determinación de la potencia, se adoptan los criterios del Real Decreto 2028/1986, de 6 de junio, y sus modificaciones posteriores, que traspone lo dictado por la Directiva 97/68/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 1997, relativa a la aproximación de las legislaciones de los Estados miembros sobre medidas contra la emisión de gases y partículas contaminantes procedentes de los motores de combustión interna que se instalen en las máquinas móviles no de carretera, y sus modificaciones posteriores.
+
+Atendiendo a la Ley 43/2002, de 20 de noviembre, de Sanidad Vegetal, que establece un procedimiento de revisiones periódicas del funcionamiento de los medios de defensa fitosanitarios, sería necesario disponer de un registro de los equipos de aplicación de productos fitosanitarios. De ahí la conveniencia de ampliar a estos equipos la inscripción en el ROMA.
+
+En este mismo sentido, en el Plan de Medidas Urgentes de la Estrategia Española de Cambio Climático y Energía Limpia, aprobado en Consejo de Ministros en 2007, se propuso la medida de la reducción de fertilizantes nitrogenados, que incluye la inspección de los equipos de distribución de abonos sólidos, por lo que es también conveniente ampliar a estos equipos la obligación de su inscripción en el ROMA.
+
+Todo ello obliga a actualizar las vigentes disposiciones sobre inscripción de maquinaria agrícola en los registros oficiales.
+
+En el proceso de elaboración de este real decreto han sido consultados las comunidades autónomas y los sectores afectados.
+
+Este real decreto ha sido sometido al procedimiento de información en materia de normas y reglamentaciones técnicas, previsto en el Real Decreto 1337/1999, de 31 de julio, por el que se regula la emisión de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información, previsto en la Directiva 98/34/CE del Parlamento Europeo y del Consejo de 22 de junio de 1998 por la que se establece un procedimiento de información en materia de normas y reglamentaciones técnicas.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, y Medio Rural y Marino, con la aprobación previa de la Ministra de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 19 de junio de 2009,
+
+DISPONGO:
