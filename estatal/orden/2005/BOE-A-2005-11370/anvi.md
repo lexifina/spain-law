@@ -5,15 +5,18 @@
 | Unidad de Extranjería | Órgano al que está adscrito |
 | --- | --- |
 | Alcañices. | Comisaría Provincial de Zamora. |
-| Camprodon. | Comisaría Provincial de Girona. |
+| Camprodón. | Comisaría Provincial de Girona. |
 | Canfranc. | Comisaría Provincial de Huesca. |
+| Chiclana de la Frontera. | Comisaría Provincial de Cádiz. |
 | Dancharinea. | Jefatura Superior de Policía de Navarra. |
-| Irún. | Comisaría local de Irún. |
+| Irún. | Comisaría Local de Irún. |
 | La Junquera. | Comisaría Provincial de Girona. |
 | Les. | Comisaría Provincial de Lleida. |
 | Portbou. | Comisaría Provincial de Girona. |
-| Puigcerdà. | Comisaría Provincial de Girona. |
+| Puigcerdá. | Comisaría Provincial de Girona. |
 | Salvaterra de Miño. | Comisaría Provincial de Pontevedra. |
 | Valcarlos. | Jefatura Superior de Policía de Navarra. |
 | Valencia de Alcántara. | Comisaría Provincial de Cáceres. |
 | Verín. | Comisaría Provincial de Ourense. |
+
+> Se modifica por el art. único de la Orden INT/1926/2009, de 15 de julio. Ref. BOE-A-2009-11929.
