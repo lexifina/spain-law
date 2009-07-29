@@ -42,12 +42,16 @@ Las condiciones generales para la realización de estos ensayos deben ser:
 
 2) Humedad: relativa entre 5 y 95 por 100.
 
-Errores máximos permitidos
+Errores máximos permitidos:
 
-En los ensayos sobre el conjunto de medida (taxímetros más vehículo), los errores máximos permitidos para una distancia recorrida dada no deberán sobrepasar los valores establecidos a continuación:
+En los ensayos sobre el conjunto de medida (taxímetro más vehículo), los errores máximos permitidos para una distancia recorrida dada no deberán sobrepasar los valores establecidos a continuación:
 
-a) Ensayo de arrastre horario: ± 0,2 % del valor real (con un valor mínimo de error máximo permitido de 1 segundo).
+a) Ensayo de arrastre horario: ± 0,2 % del valor real.
 
-b) Ensayo de arrastre kilométrico: ± 1,0 % del valor real (con un valor mínimo de error máximo permitido de 10 metros).
+b) Ensayo de arrastre kilométrico: ± 2 % del valor real.
 
-c) Para el cálculo de importe: ± 0,3 % del valor real, incluido el redondeo correspondiente al último dígito significativo del importe.
+El verificador realizará los ensayos durante el tiempo y la distancia necesarios para garantizar la fiabilidad de los mismos en función de su equipamiento y de las características del taxímetro verificado.
+
+Se deberá ajustar la constante, k, del taxímetro al vehículo en el que éste está instalado de manera que el error sea lo más próximo a cero como sea posible, compensando el desgaste de los neumáticos del vehículo cuando sea necesario.
+
+> Se modifica por el art. único de la Orden ITC/2032/2009, de 21 de julio. Ref. BOE-A-2009-12456.
