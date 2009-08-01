@@ -1,5 +1,7 @@
 ## Disposición final primera. Habilitación.
 
-1. Se aprueba el modelo, que se acompaña como anexo II, de convenio especial de empresarios y trabajadores sujetos a expediente de regulación de empleo que incluyan trabajadores con 55 o más años y la Tesorería General de la Seguridad Social.
+Se faculta a la Tesorería General de la Seguridad Social para aprobar y, en su caso, modificar los modelos a los que han de ajustarse los distintos tipos de convenio especial regulados en esta orden, con sujeción en todo caso a lo dispuesto en ella.
 
-2. Se faculta a la Dirección General de la Tesorería General de la Seguridad Social para aprobar y, en su caso, modificar los modelos a que deban ajustarse los distintos tipos de convenio especial regulados en esta Orden, con sujeción en todo caso a lo dispuesto en la misma.
+> Se modifica por el art. único.3 de la Orden TIN/2077/2009, de 27 de julio. Ref. BOE-A-2009-12690.
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.
