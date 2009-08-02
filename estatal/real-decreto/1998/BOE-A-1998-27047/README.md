@@ -159,6 +159,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPITULO VI](cvi.md)
 - [Artículo 104](a104.md)
 - [Artículo 105](a105.md)
+- [Artículo 105 bis](a105bis.md)
 - [Artículo 106](a106.md)
 - [Artículo 107](a107.md)
 - [Artículo 108](a108.md)
