@@ -49,6 +49,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 25](a2-7.md)
 - [Artículo 26](a2-8.md)
 - [Artículo 27](a2-9.md)
+- [Artículos 25 a 27](a2-10.md)
 - [DISPOSICIONES FINALES](df.md)
 - [Primera](pr-2.md)
 - [Segunda](se.md)
