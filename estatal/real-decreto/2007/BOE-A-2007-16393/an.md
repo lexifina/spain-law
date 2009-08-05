@@ -8,6 +8,8 @@
 | Andalucía. | Córdoba. | Espiel. |
 | Andalucía. | Córdoba. | Fuente Obejuna. |
 | Andalucía. | Córdoba. | Peñarroya-Pueblonuevo. |
+| Andalucía. | Córdoba. | Villanueva del Rey. |
+| Aragón. | Teruel. | Albalate del Arzobispo. |
 | Aragón. | Teruel. | Alcorisa. |
 | Aragón. | Teruel. | Alloza. |
 | Aragón. | Teruel. | Andorra. |
@@ -19,6 +21,7 @@
 | Aragón. | Teruel. | Estercuel. |
 | Aragón. | Teruel. | Foz-Calanda. |
 | Aragón. | Teruel. | Gargallo. |
+| Aragón. | Teruel. | Montalbán. |
 | Aragón. | Teruel. | Palomar de Arroyos. |
 | Aragón. | Teruel. | Utrillas. |
 | Aragón. | Zaragoza. | Mequinenza. |
@@ -77,9 +80,11 @@
 | Castilla y León. | Palencia. | Santibáñez de la Peña. |
 | Castilla y León. | Palencia. | Velilla del Río Carrión. |
 | Cataluña. | Barcelona. | Berga. |
+| Cataluña. | Barcelona. | La Pobla de Lillet. |
 | Cataluña. | Barcelona. | Saldes. |
 | Cataluña. | Barcelona. | Vallcebre. |
 | Cataluña. | Lleida. | Gosol. |
+| Cataluña. | Lleida. | Serós. |
 | Galicia. | A Coruña. | Cerceda. |
 | Galicia. | A Coruña. | As Pontes de García Rodríguez. |
 
@@ -96,13 +101,13 @@
 | Andalucía. | Córdoba. | Pozoblanco. |
 | Andalucía. | Córdoba. | Villaharta. |
 | Andalucía. | Córdoba. | Villanueva del Duque. |
-| Andalucía. | Córdoba. | Villanueva del Rey. |
+| (Suprimido). | (Suprimido). | (Suprimido). |
 | Andalucía. | Córdoba. | Villaviciosa de Córdoba. |
 | Aragón. | Huesca. | Fraga. |
 | Aragón. | Huesca. | Torrente del Cinca. |
 | Aragón. | Teruel. | Aguaviva. |
 | Aragón. | Teruel. | Alacón. |
-| Aragón. | Teruel. | Albalate del Arzobispo. |
+| (Suprimido). | (Suprimido). | (Suprimido). |
 | Aragón. | Teruel. | Alcaine. |
 | Aragón. | Teruel. | Alcañiz. |
 | Aragón. | Teruel. | Aliaga. |
@@ -120,7 +125,7 @@
 | Aragón. | Teruel. | Mata de los Olmos, La. |
 | Aragón. | Teruel. | Mezquita de Jarque. |
 | Aragón. | Teruel. | Molinos. |
-| Aragón. | Teruel. | Montalbán. |
+| (Suprimido). | (Suprimido). | (Suprimido). |
 | Aragón. | Teruel. | Muniesa. |
 | Aragón. | Teruel. | Obón. |
 | Aragón. | Teruel. | Oliete. |
@@ -215,6 +220,10 @@
 | Cataluña. | Barcelona. | Gisclareny. |
 | Cataluña. | Barcelona. | Guardiola de Berguedá. |
 | Cataluña. | Barcelona. | Olvan. |
+| Cataluña. | Lleida. | Almatrot. |
+| Cataluña. | Lleida. | Granja d'Éscarp La. |
+| Cataluña. | Lleida. | Maials. |
+| Cataluña. | Lleida. | Masalcoreig. |
 | Galicia. | A Coruña. | A Capela. |
 | Galicia. | A Coruña. | As Somozas. |
 | Galicia. | A Coruña. | Carballo. |
@@ -229,5 +238,7 @@
 | Galicia. | A Coruña. | Tordoia. |
 | Galicia. | Lugo. | Muras. |
 | Galicia. | Lugo. | Xermade. |
+
+> Se modifica por el art. único.7 del Real Decreto 1219/2009, de 17 de julio. Ref. BOE-A-2009-12935.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 262, de 1 de noviembre de 2007. Ref. BOE-A-2007-18914.
