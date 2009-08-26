@@ -1,0 +1,5 @@
+## Disposición adicional sexta. Profesiones del área sanitaria de formación profesional.
+
+1. Las convocatorias del procedimiento de evaluación y acreditación de las competencias profesionales en la familia profesional sanidad habrán de ajustarse a los requisitos específicos que se acuerden entre el Ministerio de Sanidad y Política Social y las comunidades autónomas, en el marco de la cooperación territorial, tendentes a garantizar la adecuada planificación de los recursos humanos del sistema de salud y el adecuado nivel formativo de los profesionales del área sanitaria, en coherencia con lo regulado en la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias.
+
+2. Para la evaluación de unidades de competencia profesional que estén incluidas en títulos de formación profesional exigidos para el ejercicio de una profesión sanitaria regulada, las Comisiones de evaluación deberán, a propuesta de la Administración sanitaria competente, incorporar profesionales cualificados en calidad de expertos, de acuerdo con el artículo 27.4 de este Real Decreto o como evaluadores, si están habilitados para ello.

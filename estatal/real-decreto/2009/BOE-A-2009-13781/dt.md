@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Aplicación de normas anteriores.
+
+Hasta el 30 de septiembre de 2009, las administraciones competentes podrán realizar convocatorias de procesos de evaluación y acreditación de competencias profesionales adquiridas a través de la experiencia laboral o de vías no formales de formación, al amparo de lo dispuesto en el Real Decreto 942/2003, de 18 de julio, por el que se determinan las condiciones básicas que deben reunir las pruebas para la obtención de los títulos de técnico y técnico superior de formación profesional específica, y en el Real Decreto 1506/2003, de 28 de noviembre, por el que se establecen las directrices de los certificados de profesionalidad.
