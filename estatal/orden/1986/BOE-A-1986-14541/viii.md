@@ -4,7 +4,7 @@
 
 40. Las semillas deberán expedirse en envases o contenedores precintados o cerrados en la forma establecida en el apartado 18, no pudiendo comercializarse a granel.
 
-Los envases de las semillas de producción nacional, salvo lo previsto para los de semillas de categoría estándar, deberán llevar una etiqueta oficial que cumpla las especificaciones establecidas en el apartado 20.
+Los envases de las semillas de producción nacional, salvo lo previsto para los de semillas de categoría estándar y de semilla de variedades de conservación, deberán llevar una etiqueta oficial que cumpla las especificaciones establecidas en el apartado 20.
 
 Como excepciones a lo dispuesto en los dos párrafos anteriores, siempre que así se establezcan en los correspondientes Reglamentos Técnicos para determinadas especies o grupos de especies, se establecen las siguientes:
 
@@ -62,6 +62,28 @@ j) Las Comunidades Autónomas remitirán al Ministerio de Agricultura, Pesca y A
 
 Los productores quedan autorizados a envasar mezclas de semillas y asociaciones varietales en los casos en que esté previsto en los correspondientes Reglamentos Técnicos.
 
+41 bis. La semilla de una variedad de conservación sólo puede comercializarse si se cumplen las siguientes condiciones:
+
+a) Se ha producido en su región de origen o en una de las regiones a las que se refiere el apartado 15 bis.
+
+b) La comercialización tiene lugar en su región de origen.
+
+c) No obstante lo dispuesto en el apartado b), se podrán autorizar regiones adicionales para la comercialización de semilla de una variedad de conservación, siempre que tales regiones sean comparables a la región de origen en cuanto a los hábitats naturales y seminaturales de esa variedad.
+
+Cuando se autoricen esas regiones adicionales, es necesario asegurarse de que se reserva para conservar la variedad en su región de origen la cantidad de semilla necesaria para producir, como mínimo, la cantidad a la que se refiere el apartado e).
+
+d) Estas regiones adicionales para la comercialización no podrán autorizarse si se autorizan las regiones adicionales para la producción de semilla mencionadas en el apartado 15 bis.
+
+e) Por cada variedad de conservación, la cantidad de semilla comercializada no excederá del 0,5% del total de la semilla de la misma especie utilizada en España en una campaña de cultivo, o de la cantidad necesaria para sembrar 100 ha, si esta cantidad es mayor. Para las especies Pisum sativum, Triticum spp., Hordeum vulgare, Zea mays, Solanum tuberosum, Brassica napus y Helianthus annuus, ese porcentaje no excederá del 0,3%, o de la cantidad necesaria para sembrar 100 ha, si esta cantidad es mayor.
+
+No obstante, la cantidad total de semilla de variedades de conservación comercializadas no excederá del 10 % del total de la semilla de la especie de que se trate utilizada anualmente en España. En los casos en que ese porcentaje sea inferior a la cantidad necesaria para sembrar 100 ha, la cantidad máxima de semilla de la especie de que se trate utilizada anualmente en España podrá incrementarse hasta alcanzar la cantidad necesaria para sembrar 100 ha.
+
+f) Los productores notificarán al órgano competente de cada Comunidad Autónoma, las dimensiones y la localización de la zona de producción de semilla antes del comienzo de cada temporada de producción.
+
+Las comunidades autónomas, deberán comunicar a la Oficina Española de Variedades Vegetales las cantidades totales por variedad al objeto de comprobar el cumplimiento del apartado e).
+
+Si a la vista de las notificaciones a que se refiere el apartado anterior, se comprobara que un año dado, la cantidad de semilla comercializada supera las cantidades que se establecen en el apartado e), se asignará a cada productor afectado la cantidad que podrá comercializar en la campaña de producción correspondiente.
+
 42. Toda Entidad o particular dedicado al almacenado y/o comercio de semillas o plantas de vivero, salvo en el caso de que se trate de productores autorizados, deberán estar inscritos en el Registro de Comerciantes de Semillas y Plantas de Vivero de la correspondiente Comunidad Autónoma. Asimismo, en todo almacén de semillas deberá llevarse un libro-registro en el que, por especies, variedades y categorías, se anotarán las entradas y salidas de almacén.
 
 No podrán depositarse en los almacenes de semillas y plantas de vivero granos ni órganos vegetales destinados a fines comerciales distintos de los de multiplicación y reproducción, salvo autorización especial de los servicios oficiales de control, que se dará en función del volumen de ventas y del nivel de especialización del establecimiento.
@@ -111,6 +133,8 @@ La Estación de Ensayos de Semillas del Instituto es la acreditada en la Asociac
 En los casos en que esté autorizado el fraccionamiento de los envases originales, los productores están obligados a conservar los albaranes de venta correspondientes durante un plazo superior en un año al de validez del precintado. Si existiese alguna reclamación, el Productor estará obligado a exhibir ante los servicios oficiales de control dichos albaranes en los que constará la especie y variedad de la semilla vendida, nombre y domicilio del comprador y número de lote o lotes, con las cantidades vendidas de cada uno.
 
 51. Las posibles infracciones en el comercio de semillas se clasificarán y sancionarán de acuerdo con lo preceptuado en la Ley 11/1971, de 30 de marzo, y disposiciones complementarias.
+
+> Se modifica el apartado 40 y se añade el 41 bis por el art 2.7 y 8 de la Orden ARM/2308/2009, de 12 de agosto. Ref. BOE-A-2009-13930.
 
 > Se modifica el apartado 44 por el art. único.5 de la Orden APA/3602/2005, de 17 de noviembre. Ref. BOE-A-2005-19152.
 

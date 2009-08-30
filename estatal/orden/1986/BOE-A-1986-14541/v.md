@@ -112,6 +112,36 @@ En el caso de las categoría prebase, base y certificada, las etiquetas o instru
 
 Asimismo, toda persona que comercialice alguna de esas variedades indicará con claridad en su catálogo de ventas que aquélla es una variedad modificada genéticamente.
 
+22 ter. La semilla de variedades de conservación sólo podrá comercializarse en embalajes cerrados o contenedores con un dispositivo de precintado.
+
+El proveedor precintará los embalajes o contenedores de semilla de manera que no puedan abrirse sin dañar el sistema de precintado ni dejar pruebas de manipulación indebida en la etiqueta del proveedor, en el embalaje o en el contenedor.
+
+Para que el cierre sea seguro de conformidad con el párrafo anterior, el sistema deberá incluir, al menos, la colocación de la etiqueta o de un precinto.
+
+Los embalajes o contenedores de semilla de variedades de conservación llevarán una etiqueta del proveedor o una nota impresa o estampada que incluya la siguiente información:
+
+La inscripción: "Reglas y normas CE".
+
+Nombre y dirección de la persona responsable de la colocación de las etiquetas o su marca de identificación.
+
+Año de precintado, expresado del siguiente modo: "precintado en …" (año), o, salvo en relación con la patata de siembra, el año del último muestreo a efectos de las últimas pruebas de germinación, expresado del siguiente modo: "muestras tomadas en…" (año).
+
+Especie.
+
+Variedad.
+
+La inscripción: "Variedad de conservación".
+
+Regiόn de origen.
+
+Región de producción de la semilla, cuando sea diferente de la región de origen.
+
+Número de referencia del lote dado por la persona responsable de la colocación de las etiquetas.
+
+Peso neto o bruto declarado, o, excepto en el caso de patata de siembra, número de semillas.
+
+Cuando la cantidad se indique en peso y se utilicen plaguicidas granulados, sustancias de pildorado u otros aditivos sólidos, se indicará la naturaleza de los mismos así como la proporción aproximada entre el peso de semilla pura y el peso total, salvo en el caso de patata de siembra.
+
 23. Para comprobar la calidad de las semillas y de las plantas de vivero, verificando que se cumplen los requisitos reflejados en los correspondientes Reglamentos Técnicos específicos, se tomarán muestras oficiales de los lotes precintados.
 
 En el caso de las semillas se tomará de cada lote una muestra representativa del mismo, siguiendo la normativa legal establecida al respecto, para que en todo momento se pueda garantizar la identidad de la muestra y se ofrezcan las suficientes garantías a las partes interesadas en el procedimiento.
@@ -143,6 +173,12 @@ e) al menos un 5% de los lotes muestreados por muestreadores de semillas autoriz
 En cualquier caso, con objeto de comprobar la calidad de las semillas y de las plantas de vivero verificando que se cumplen los requisitos reflejados en los correspondientes Reglamentos Técnicos específicos, durante el proceso de comercialización se podrá proceder a la toma de muestras por sondeo y, en este caso, siempre de forma oficial.
 
 Cuando se tomen muestras de semillas o de plantas de vivero durante el proceso comercial, se procederá siguiendo la normativa legal establecida al respecto, para que en todo momento se pueda garantizar la identidad y representatividad de la muestra, y se ofrezcan las suficientes garantías a las partes interesadas en el procedimiento. Siempre se levantará un acta de la toma de muestras, en la que se reflejará cuantos datos y circunstancias sean necesarias para la identificación de la muestra. Dicha muestra se dividirá en tantos ejemplares homogéneos como sean necesarios para realizar los análisis y ensayos preceptivos, siendo su tamaño suficiente en función de dichas determinaciones; debiéndose ajustar a las normativas reglamentarias establecidas y, en su defecto, a las instrucciones dictadas por los órganos competentes.
+
+23 bis. Se llevarán a cabo ensayos para comprobar que la semilla de variedades de conservación cumple los requisitos de certificación establecidos en el apartado 15 bis, párrafos b), c) y d).
+
+Estos ensayos se efectuarán conforme a los métodos internacionales vigentes, o, de no existir tales métodos, de acuerdo con cualquier método que resulte apropiado.
+
+Las muestras destinadas a dichos ensayos se tomarán de lotes homogéneos. Asimismo, se aplicarán las normas sobre peso del lote y peso de la muestra establecidas en los correspondientes Reglamentos Técnicos de Control y Certificación específicos.
 
 24. Los productores deben verificar la calidad de las semillas antes de proceder al precintado de los lotes, para lo cual realizarán los análisis previos pertinentes en sus laboratorios. Solamente se podrán precintar los lotes de semilla que cumplan los requisitos de calidad expuestos en los correspondientes Reglamentos Técnicos específicos.
 
@@ -241,6 +277,8 @@ Certificado de que los cultivos de que proceden las semillas han cumplido los re
 En su caso, resultados de un análisis preliminar de las semillas.
 
 26c. En aquellos casos en que así se especifique en los correspondientes Reglamentos técnicos de control y certificación de semillas se certificarán oficialmente, previa solicitud, las semillas recogidas en un país tercero, si las mismas han sido objeto de una inspección en campo, que cumplan con las condiciones establecidas en las Decisiones comunitarias de equivalencia con países terceros, y si un examen oficial prueba que se cumplen las condiciones establecidas para las semillas de la categoría correspondiente. Las semillas anteriormente citadas y que pueden ser objeto de certificación deben de proceder directamente de semillas de base, certificadas o certificadas de primera reproducción, oficialmente certificadas en uno o varios Estados miembros de la Comunidad Económica Europea o en un país tercero al que se haya otorgado equivalencia, o procedentes directamente del cruce de semillas de base oficialmente certificadas en un Estado miembro con semilla de base oficialmente certificada en los citados países terceros.
+
+> Se añaden los apartados 22 ter y 23 bis por el art 2.5 y 6 de la Orden ARM/2308/2009, de 12 de agosto. Ref. BOE-A-2009-13930.
 
 > Se modifican los apartados 23, 24 y 26c por el art. único.2 a 4 de la Orden APA/3602/2005, de 17 de noviembre. Ref. BOE-A-2005-19152.
 

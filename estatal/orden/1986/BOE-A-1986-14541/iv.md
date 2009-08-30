@@ -110,6 +110,22 @@ Se podrá autorizar la certificación y comercialización de semillas de base qu
 
 Las definiciones de los conceptos relativos a la calidad de las semillas y los métodos para la toma de muestras y para la realización de los análisis y ensayos de las mismas, que deberán utilizar tanto los laboratorios oficiales como los de los productores, serán los establecidos en las normas de la Asociación Internacional de Ensayo de Semillas (ISTA), pudiendo los Reglamentos Técnicos marcar requisitos o normas especiales, en su caso.
 
+15 bis. Requisitos especiales para la semilla de variedades de conservación:
+
+a) La semilla deberá descender de semilla producida conforme a prácticas bien definidas para el mantenimiento de la variedad.
+
+b) La semilla, salvo la de Oryza sativa, deberá cumplir los requisitos de certificación de la semilla certificada establecidos en los correspondientes Reglamentos Técnicos de Control y Certificación específicos, a excepción de los relativos a la pureza varietal mínima y de los relacionados con el examen oficial o el examen bajo supervisión oficial.
+
+c) La semilla de Oryza sativa deberá cumplir los requisitos de certificación aplicables a la semilla certificada de arroz de segunda reproducción (R-2), establecidos en el Reglamento Técnico de Control y Certificación de semilla de Cereales a excepción de los relativos a la pureza varietal mínima y de los relacionados con el examen oficial o el examen bajo supervisión oficial.
+
+d) La semilla deberá tener una pureza varietal suficiente.
+
+e) La semilla de una variedad de conservación sólo puede producirse en su región de origen.
+
+Si las condiciones de certificación establecidas en los párrafos b), c) y d) no pueden cumplirse en esa región, debido a un problema medioambiental concreto, se podrán autorizar otras regiones para la producción de semilla teniendo en cuenta la información suministrada por las autoridades en materia de recursos fitogenéticos o por las organizaciones por ellos reconocidas al efecto. Sin embargo, la semilla producida en esas regiones adicionales solo podrá utilizarse en su región de origen.
+
+Se comprobará, por medio de seguimiento oficial, que los cultivos de semilla de una variedad de conservación cumplen las disposiciones del presente Reglamento, prestando una atención especial a la variedad, las localizaciones de la producción de semilla y las cantidades.
+
 16. Requisitos de las plantas de vivero.–Los Reglamentos Técnicos, al menos en lo referente a plantas madre y otros elementos de multiplicación vegetativa, señalarán las normas que deben satisfacer en relación a todas o algunas de las siguientes características:
 
 a) Pureza específica y varietal.
@@ -123,6 +139,8 @@ d) Sanidad.
 e) Técnicas de preparación del material.
 
 f) Otras características.
+
+> Se añade el apartado 15 bis por el art 2.4 de la Orden ARM/2308/2009, de 12 de agosto. Ref. BOE-A-2009-13930.
 
 > Se modifica el apartado 13 por el art. único.1 de la Orden APA/3602/2005, de 17 de noviembre. Ref. BOE-A-2005-19152.
 

@@ -14,6 +14,12 @@ a) Variedad comercial seleccionada (cultivar seleccionado o cultivar de obtentor
 
 b) Variedad comercial local (cultivar local), es la que procede de una región geográfica claramente definida, que en ensayos oficialmente comprobados ha demostrado poseer suficiente uniformidad, estabilidad y caracteres distintivos para permitir su identificación, pero que no ha sido obtenida como resultado de trabajos controlados de selección.
 
+c) Variedad de conservación, es, sin perjuicio de lo previsto en el artículo 3.5 de la Ley 30/2006, de 26 de julio, de semillas y plantas de vivero y de recursos filogenéticos, aquella variedad local adaptada de forma natural a las condiciones locales y regionales y, amenazadas por la erosión genética.
+
+Región de origen de una variedad de conservación: Es la región o regiones en las que históricamente se haya cultivado o a las que esté adaptada de forma natural. Para identificarla se debe tomar en cuenta la información proporcionada por las autoridades en materia de recursos fitogenéticos o las organizaciones reconocidas al efecto.
+
+Erosión genética: Pérdida de diversidad genética entre poblaciones o variedades de la misma especie, y dentro de ellas, a lo largo del tiempo, o la reducción de la base genética de una especie debido a la intervención humana o al cambio medioambiental.
+
 Proveedor: Toda persona, física o jurídica, que ejerza profesionalmente, en relación con las semillas o las plantas de vivero, al menos una de las actividades siguientes: Producción, reproducción, protección, tratamiento, almacenaje y comercialización o puesta en el mercado.
 
 Organismo oficial responsable:
@@ -74,11 +80,15 @@ e) Semillas estándar: Son las que poseen suficiente identidad y pureza varietal
 
 f) Semillas comerciales: Son las que poseen únicamente la identidad de la especie y cumplen los requisitos que se determinen en los Reglamentos Técnicos de Control y Certificación.
 
+g) Semilla de variedades de conservación: es la que desciende de semilla producida conforme a prácticas bien definidas para el mantenimiento de la variedad, posee suficiente pureza varietal, ha sido producida en su región de origen y cumple los requisitos indicados en el apartado 15 bis.
+
 Los Reglamentos Técnicos indicarán, para cada especie, las categorías y el número de reproducciones de semilla certificada admitidas.
 
 En el caso de la patata y otras especies de multiplicación asexual, las categorías base y certificada podrán subdividirse en clases.
 
 En plantas de vivero, dada su especificidad, las categorías de éstas, así como, en su caso, los materiales con determinadas características que procedan, se establecerán en la normativa específica que se dicte.
+
+> Se modifican los apartados 5 y 6 por el art. 2.1 a 3 de la Orden ARM/2308/2009, de 12 de agosto. Ref. BOE-A-2009-13930.
 
 > Se modifica el apartado 5 por el art. 1.1 del Real Decreto 323/2000, de 3 de marzo. Ref. BOE-A-2000-4333.
 
