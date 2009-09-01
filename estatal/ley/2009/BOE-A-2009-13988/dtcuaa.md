@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Compensaciones en los Presupuestos Generales del Estado.
+
+Con el fin de hacer frente a las necesidades de producción de contenidos para completar los espacios de la programación derivados de la eliminación de la publicidad hasta el 31 de diciembre de 2009, así como para compensar la pérdida de ingresos que desde la entrada en vigor de la ley hasta la citada fecha se produzca como consecuencia de lo establecido en el número 1 de la disposición transitoria primera de esta ley se incrementarán las compensaciones por el cumplimiento de las obligaciones de servicio público consignadas en los Presupuestos Generales del Estado a favor de la Corporación RTVE hasta un máximo de 165 millones de euros.
