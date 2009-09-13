@@ -51,7 +51,7 @@
 | 42. Estornino. | Scomber coliar (Gml). | Estornino. |
 | 43. Atún. | Thunnus thynnus (L). | Atún. |
 | 44. Rabil. | Thunnus albacares. | Atún o atún claro. |
-| 45. Patudo. | Thunnus obesus. | Atún. |
+| 45. Patudo. | Thunnus obesus. | Atún o atún claro. |
 | 46. Listado. | Katsuwonus pelamys. | Atún. |
 | 47. Albacora. | Thunnus alalunga. | Atún blanco-albacora o atún blanco (bonito del Norte). |
 | 48. Bonito. | Sarda sarda (Bloch). | Bonito Sarda. |
@@ -129,5 +129,7 @@
 | 114. Cigarra. | Scyllaridess Latus (Latr.). | Santiaguiño. |
 | 115. Cigala. | Nephrps norvegicus (L). | Cigala. |
 | 116. Percebe. | Pollicipes cornucopiae (Lach). | Percebe. |
+
+> Se modifica el apartado 45 por el art. único del por Real Decreto 1385/2009, de 28 de agosto. Ref. BOE-A-2009-14505.
 
 > Se modifica el apartado 44 por el art. único del Real Decreto 1193/2000, de 23 de junio. Ref. BOE-A-2000-12601.
