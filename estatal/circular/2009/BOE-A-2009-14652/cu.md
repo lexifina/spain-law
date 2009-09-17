@@ -1,0 +1,3 @@
+## Cuarto. Exenciones para las empresas que elaboren sus estados financieros bajo el Nuevo Plan General de Contabilidad de PYMES.
+
+Las empresas que puedan acogerse al Nuevo Plan General de Contabilidad de PYMES no estarán obligadas a facilitar el desglose de aquellas partidas que no estén recogidas en el mismo, dentro de los formularios de la presente Circular. Adicionalmente, tampoco estarán obligadas a reportar el Estado de cambios en el patrimonio neto. Ingresos y Gastos reconocidos, recogido en el Anexo IV de los Formularios eléctricos y gasistas, ni el Estado de Flujos de Efectivo, recogido en el Anexo VI de los Formularios eléctricos y gasistas.
