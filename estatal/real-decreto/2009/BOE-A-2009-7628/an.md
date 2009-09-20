@@ -16,7 +16,7 @@ Código ético para laboratorios: Compendio de directrices establecidas en el Ap
 
 Comité de Autorizaciones de Uso Terapéutico (CAUT): Es el órgano encargado de conceder o denegar las Autorización de Uso Terapéutico solicitadas por los deportistas. Orgánicamente dependiente de la Subcomisión contra el Dopaje de la Comisión de Control y Seguimiento de la Salud y el Dopaje.
 
-Control en competición: Es aquél al que se somete a un determinado deportista en el marco de una competición.
+Control en competición: Salvo disposición en contrario a tal efecto en las normas de la Federación Internacional o del organismo antidopaje en cuestión, un control en competición es aquel al que se somete a un determinado deportista en el marco de una competición, es decir, desde 12 horas antes de celebrarse una competición en la que el deportista tenga previsto participar hasta el final de dicha competición y el proceso de recogida de muestras relacionado con ella.
 
 Control fuera de competición: Es aquel control que no se realiza en competición.
 
@@ -28,7 +28,7 @@ Equipo de Recogida de Muestras: Equipo formado por Agentes de control del dopaje
 
 Escolta: Persona formada y autorizada para realizar uno o varios deberes específicos de los siguientes durante un control del dopaje: notificación al deportista, observación del mismo hasta su presentación en el área de control, y/o ser testigo de la toma de la muestra.
 
-Horas de descanso nocturno: Período de tiempo durante el cual los controles de dopaje fuera de competición no podrán realizarse en territorio español. La franja horaria está comprendida entre las once de la noche y las ocho de la mañana del día siguiente.
+(Párrafo suprimido)
 
 Libro-registro de productos Libro, debidamente registrado en la Agencia Estatal Antidopaje y del que exista garantía de su integridad, en el que se inscribirán los medicamentos y/o productos sanitarios que, en el caso de los sometidos a previa prescripción mediante receta médica se hayan dispensado, el médico que ordene o autorice dicha utilización y el periodo de tratamiento. En el caso de los medicamentos no sujetos a prescripción médica se inscribirán los que se hayan dispensado a los deportistas
 
@@ -53,3 +53,7 @@ Resultado anómalo: Es un certificado emitido por un laboratorio de control de d
 Sala de extracción: Lugar en el que se realiza la extracción a un deportista de una muestra de sangre con la finalidad de control del dopaje.
 
 Técnico de control del dopaje: Personal sanitario habilitado por la Comisión de Control y Seguimiento de la Salud y el Dopaje para la extracción directa de muestras de sangre.
+
+> Se modifica por el art. único.3 y 4 del Real Decreto 1462/2009, de 18 de septiembre. Ref. BOE-A-2009-14829
+
+> Téngase en cuenta que el citado Real Decreto se declara nulo por Sentencia del TS de 13 de octubre de 2011. Ref. BOE-A-2011-20483.
