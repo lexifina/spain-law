@@ -4,16 +4,15 @@
 
 | Modelo | Denominación | Periodos ingreso |
 | --- | --- | --- |
-| 100 | Devolución IRPF ordinario y borrador. | 0A |
-| 150 | Devolución IRPF régimen especial aplicable a los trabajadores desplazados a territorio español. | 0A |
-| 201 | (Suprimido) | (Suprimido) |
-| 206 | Devolución Impuesto Renta no Residentes (establecimiento permanente). | 0A |
-| 225 | (Suprimido) | (Suprimido) |
-| 300 | Devolución IVA régimen general (una vez al año). | 0A (4T) |
-| 308 | Impuesto sobre el Valor Añadido, solicitud de devolución: recargo de equivalencia, artículo 30 bis del Reglamento del IVA y sujetos pasivos ocasionales. |  |
-| 311 | Devolución IVA régimen simplificado-declaración final (una vez al año). | 0A (4T) |
-| 320 | (Suprimido) | (Suprimido) |
-| 371 | Devolución IVA régimen general y simplificado-declaración final (una vez al año). | 0A (4T) |
+| 100 | Devolución IRPF ordinario y borrador | 0A |
+| 150 | Devolución IRPF régimen especial aplicable a los trabajadores desplazados a territorio español | 0A |
+| 206 | Devolución Impuesto Renta no Residentes (establecimiento permanente) | 0A |
+| 303 | Devolución IVA. Autoliquidación | 4T |
+| 308 | Devolución IVA Régimen especial recargo de equivalencia, art. 30 bis RIVA y sujetos pasivos ocasionales | M-T-0A |
+| 311 | Devolución IVA régimen simplificado. Declaración final | 4T |
+| 371 | Devolución IVA régimen general y simplificado. Declaración final | 4T |
+
+> Se modifica por la disposición final 1 de la Orden EHA/1658/2009, de 12 de junio. Ref. BOE-A-2009-10326.
 
 > Se suprimen los modelos 201 y 225 por la disposición final 1.2 de la Orden EHA/1375/2009, de 26 de mayo. Ref. BOE-A-2009-8955.
 
