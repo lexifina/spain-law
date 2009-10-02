@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Remolcadores de puerto.
+
+Los titulados como oficial de máquinas de primera de la marina mercante, oficial de máquinas de segunda de la marina mercante, mecánico mayor naval y mecánico naval, regulados en este real decreto y los titulados como mecánico naval mayor, de primera y de segunda clase regulados en la normativa anterior a este real decreto, podrán ser habilitados por las capitanías marítimas correspondientes para ejercer funciones inherentes a su titulación en remolcadores de puertos que operen exclusivamente con un único puerto base, hasta duplicar la potencia propulsora correspondiente a sus respectivas atribuciones.
