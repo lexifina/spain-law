@@ -23,3 +23,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [2. Definiciones y denominaciones de venta](A2.definicionesydenominacionesdeventa.md)
 - [3. Método](A3.metodo.md)
 - [4. Etiquetado](A4.etiquetado.md)
+- [5. Coadyuvantes tecnológicos](A5.coadyuvantestecnologicos.md)
+- [ANEXO](an.md)
