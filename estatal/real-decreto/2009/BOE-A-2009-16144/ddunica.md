@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados los siguientes reales decretos: el Real Decreto 798/1995 de 19 de mayo, por el que se definen los criterios y condiciones de intervenciones con finalidad estructural en el sector de la pesca, de la acuicultura y la comercialización, la transformación y la promoción de sus productos, excepto la disposición adicional octava; el Real Decreto 1048/2003, de 1 de agosto, sobre ordenación del sector pesquero y ayudas estructurales y el Real Decreto 3448/2000, de 22 de diciembre, por el que se establece la normativa básica de ayudas estructurales al sector pesquero, sin perjuicio de lo dispuesto en la disposición transitoria única.
