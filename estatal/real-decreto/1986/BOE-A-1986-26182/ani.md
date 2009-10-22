@@ -2,51 +2,55 @@
 
 1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_010.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_011.png)
 
 2. Tractores agrícolas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_015.png)
 
 3. Vehículos de 2 ó 3 ruedas cuadriciclos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_016.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_016.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_017.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_017.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_018.png)
 
 4. Varios
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_019.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_020.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_021.png)
+
+> Se modifica por la Orden ITC/2816/2009, de 16 de octubre. Ref. BOE-A-2009-16729.
 
 > Se modifica por la Orden ITC/743/2009, de 20 de marzo. Ref. BOE-A-2009-5081.
 
@@ -126,7 +130,7 @@
 
 > Véase la corrección de errores publicada en BOE núm. 101, de 27 de abril de 1992. Ref. BOE-A-1992-9029.
 
-> Se modifica por la Orden de 16 de julio de 1991.Ref. BOE-A-1991-19294.
+> Se modifica por la Orden de 16 de julio de 1991. Ref. BOE-A-1991-19294.
 
 > Se modifica por la Orden de 24 de noviembre de 1989. Ref. BOE-A-1989-29544.
 

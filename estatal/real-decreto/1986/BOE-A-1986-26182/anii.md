@@ -1,24 +1,26 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_022.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_023.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_023.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_024.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_024.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_025.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_025.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_026.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_026.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_027.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_027.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_028.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_028.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_029.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_029.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_030.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/74/05081_030.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/254/16729_031.png)
+
+> Se modifica por la Orden ITC/2816/2009, de 16 de octubre. Ref. BOE-A-2009-16729.
 
 > Se modifica por la Orden ITC/743/2009, de 20 de marzo. Ref. BOE-A-2009-5081.
 
