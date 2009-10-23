@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Traslado de animales de fauna silvestre de especies catalogadas o no cinegéticas con destino a centros de recuperación o centros de cría de especies amenazadas autorizados por la autoridad competente.
+
+Quedará excluido de la aplicación de lo establecido en los artículos 4 y 5 el movimiento de aquellos ejemplares de la fauna silvestre cuando sea necesario su traslado para su atención en centros de recuperación o centros de cría de especies amenazadas específicamente autorizados por la autoridad competente, así como su posterior salida de los mismos, con independencia del destino de que se trate.
