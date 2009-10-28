@@ -1,34 +1,177 @@
-## Disposición adicional sexta. Fondo para la financiación de las actividades del Plan general de residuos radiactivos.
+## Disposición adicional sexta. Fondo para la financiación de las actividades del Plan General de Residuos Radioactivos.
 
-1. Las cantidades recaudadas por las tasas reguladas en la disposición adicional sexta bis, así como cualquier otra forma de financiación de los costes de los trabajos correspondientes a la gestión de los residuos radiactivos y del combustible gastado, y al desmantelamiento y clausura de instalaciones, incluidos los rendimientos financieros generados por ellas, se destinará a dotar una provisión, teniendo dicha dotación la consideración de partida deducible en el Impuesto sobre Sociedades.
+1. La gestión de los residuos radiactivos, incluido el combustible nuclear gastado, y el desmantelamiento y clausura de instalaciones nucleares, a que se refiere el artículo 38 bis de la Ley 25/1964, de 29 de abril, encomendada a la Empresa Nacional de Residuos Radiactivos, S.A. (ENRESA), se efectuará con cargo al Fondo para la financiación de las actividades del Plan General de Residuos Radiactivos.
 
-Las cantidades recogidas en la provisión antes mencionada sólo podrán ser invertidas en gastos, trabajos, proyectos e inmovilizaciones derivados de actuaciones previstas en el Plan General de Residuos Radiactivos aprobado por el Gobierno.
+Dicho Fondo está integrado por las cantidades procedentes de la recaudación de las tasas reguladas en el apartado 9, así como por cualesquiera contraprestaciones o ingresos derivados de la prestación de los referidos servicios. Asimismo, se integran en el Fondo los rendimientos derivados de las inversiones financieras transitorias del mismo. Las dotaciones al Fondo tendrán la consideración de partida deducible en el Impuesto sobre Sociedades.
 
-2. La provisión a que se refiere el apartado 1 constituirá el denominado Fondo para la financiación de las actividades del Plan general de residuos radiactivos.
+Las cantidades integradas en el Fondo, sin perjuicio de las mencionadas inversiones financieras transitorias, sólo podrán ser invertidas en gastos, trabajos, proyectos e inmovilizaciones derivados de actuaciones previstas en el Plan General de Residuos Radiactivos aprobado por el Gobierno.
 
-3. Tendrán la consideración de coste de diversificación y seguridad de abastecimiento a los efectos previstos en esta Ley, las cantidades destinadas a dotar la parte de la provisión para la financiación de los costes correspondientes a la gestión de los residuos radiactivos y del combustible gastado generados en las centrales nucleares cuya explotación haya cesado definitivamente con anterioridad a la fecha de constitución efectiva de la entidad pública empresarial ENRESA de gestión de residuos radiactivos, creada por la disposición adicional sexta bis de esta Ley, así como a su desmantelamiento y clausura, aquellos costes futuros correspondientes a las centrales nucleares o fábricas de elementos combustibles que, tras haber cesado definitivamente su explotación, no se hubiesen previsto durante dicha explotación, y los que, en su caso, se pudieran derivar de lo previsto en el apartado 6 de esta disposición adicional.
+2. La supervisión y control de las inversiones transitorias relativas a la gestión financiera del Fondo corresponde a un Comité de Seguimiento y Control adscrito al Ministerio de Industria, Turismo y Comercio, a través de la Secretaría de Estado de Energía.
 
-Asimismo, tendrán dicha consideración las cantidades destinadas a dotar la parte de la provisión para la financiación de los costes de la gestión de residuos radiactivos procedentes de aquellas actividades de investigación que el Ministerio de Industria, Turismo y Comercio determine que han estado directamente relacionadas con la generación de energía nucleoeléctrica, las operaciones de desmantelamiento y clausura que deban realizarse como consecuencia de la minería y producción de concentrados de uranio con anterioridad al 4 de julio de 1984, los costes derivados del reproceso del combustible gastado enviado al extranjero con anterioridad a la entrada en vigor de esta Ley y aquellos otros costes que se especifiquen mediante real decreto.
+3. Tendrán la consideración de coste de diversificación y seguridad de abastecimiento a los efectos previstos en esta Ley, las cantidades destinadas a dotar la parte del Fondo para la financiación de los costes correspondientes a la gestión de los residuos radiactivos y del combustible gastado generados en las centrales nucleares cuya explotación haya cesado definitivamente con anterioridad al 1 de enero de 2010, así como a su desmantelamiento y clausura, aquellos costes futuros correspondientes a las centrales nucleares o fábricas de elementos combustibles que, tras haber cesado definitivamente su explotación, no se hubiesen previsto durante dicha explotación, y los que, en su caso, se pudieran derivar de lo previsto en el apartado 5 de esta disposición adicional.
 
-4. Las cantidades destinadas a dotar la parte de la provisión para la financiación de los costes en los que se incurra a partir de la fecha de constitución efectiva de la entidad pública empresarial ENRESA de gestión de residuos radiactivos, correspondientes a la gestión de los residuos radiactivos y del combustible gastado generados en las centrales nucleares en explotación, no tendrán la consideración de coste de diversificación y seguridad de abastecimiento y serán financiadas por los titulares de las centrales nucleares durante dicha explotación, con independencia de la fecha de su generación, así como los correspondientes a su desmantelamiento y clausura.
+Asimismo, tendrán dicha consideración las cantidades destinadas a dotar la parte del Fondo para la financiación de los costes de la gestión de residuos radiactivos procedentes de aquellas actividades de investigación que el Ministerio de Industria, Turismo y Comercio determine que han estado directamente relacionadas con la generación de energía nucleoeléctrica, las operaciones de desmantelamiento y clausura que deban realizarse como consecuencia de la minería y producción de concentrados de uranio con anterioridad al 4 de julio de 1984, los costes derivados del reproceso del combustible gastado enviado al extranjero con anterioridad a la entrada en vigor de esta Ley y aquellos otros costes que se especifiquen mediante real decreto.
 
-Asimismo, serán financiadas por los titulares de las centrales nucleares las asignaciones de la entidad pública empresarial ENRESA destinadas a los municipios afectados por centrales nucleares o instalaciones de almacenamiento de combustible gastado o residuos radiactivos, en los términos establecidos por el Ministerio de Industria, Turismo y Comercio, así como los importes correspondientes a los tributos que se devenguen en relación con las actividades de almacenamiento de residuos radiactivos y combustible gastado, con independencia de su fecha de generación.
+4. Las cantidades destinadas a dotar la parte del Fondo para la financiación de los costes en los que se incurra a partir del 1 de enero de 2010, correspondientes a la gestión de los residuos radiactivos y del combustible gastado generados en las centrales nucleares en explotación, no tendrán la consideración de coste de diversificación y seguridad de abastecimiento y serán financiadas por los titulares de las centrales nucleares durante dicha explotación, con independencia de la fecha de su generación, así como los correspondientes a su desmantelamiento y clausura.
 
-5. (Derogado)
+Asimismo, serán financiadas por los titulares de las centrales nucleares las asignaciones destinadas a los municipios afectados por centrales nucleares o instalaciones de almacenamiento de combustible gastado o residuos radiactivos, en los términos establecidos por el Ministerio de Industria, Turismo y Comercio, así como los importes correspondientes a los tributos que se devenguen en relación con las actividades de almacenamiento de residuos radiactivos y combustible gastado, con independencia de su fecha de generación.
 
-6. En el caso de que se produzca un cese de la explotación anticipado respecto al periodo establecido en el Plan general de residuos radiactivos por causa ajena a la voluntad del titular, el déficit de financiación que, en su caso, existiese tendrá la consideración de coste de diversificación y seguridad de abastecimiento. En el caso contrario, el titular deberá cubrir dicho déficit durante los tres años siguientes al cese.
+5. En el caso de que se produzca un cese de la explotación anticipado respecto al periodo establecido en el Plan General de Residuos Radiactivos por causa ajena a la voluntad del titular, el déficit de financiación que, en su caso, existiese tendrá la consideración de coste de diversificación y seguridad de abastecimiento. En caso de que dicho cese se produzca por voluntad del titular éste deberá satisfacer la tasa correspondiente.
 
-7. La cantidad remanente de la provisión existente en la fecha de constitución efectiva de la entidad pública empresarial ENRESA de gestión de residuos radiactivos, una vez deducidas las cantidades necesarias para la financiación de los costes previstos a los que se refiere el apartado 3, será destinado a la financiación de los costes a que se refiere el apartado 4.
+6. La cantidad remanente del Fondo existente a 31 de diciembre de 2009, una vez deducidas las cantidades necesarias para la financiación de los costes previstos a los que se refiere el apartado 3, será destinado a la financiación de los costes a que se refiere el apartado 4.
 
-En los costes de gestión de los residuos radiactivos y del combustible gastado y en el desmantelamiento y clausura, se incluirán todos los costes relativos a las actividades técnicas y servicios de apoyo necesarios para llevar a cabo dichas actuaciones, en los que se consideran los correspondientes a los costes de estructura y a los proyectos y actividades de I+D, de acuerdo todo ello con lo previsto en el Plan General de Residuos Radiactivos.
+7. En los costes de gestión de los residuos radiactivos y del combustible gastado y en el desmantelamiento y clausura, se incluirán todos los costes relativos a las actividades técnicas y servicios de apoyo necesarios para llevar a cabo dichas actuaciones, en los que se consideran los correspondientes a los costes de estructura y a los proyectos y actividades de I+D+i, de acuerdo todo ello con lo previsto en el Plan General de Residuos Radiactivos.
 
-El coste de la gestión de los residuos radiactivos y combustible gastado en las propias instalaciones de producción de energía nucleoeléctrica incluirá, únicamente, el correspondiente al coste de las actividades realizadas por la entidad pública empresarial ENRESA y, en su caso, los costes de terceros derivados de dichas actividades.
+El coste de la gestión de los residuos radiactivos y combustible gastado en las propias instalaciones de producción de energía nucleoeléctrica incluirá, únicamente, el correspondiente al coste de las actividades realizadas por ENRESA y, en su caso, los costes de terceros derivados de dichas actividades.
 
-8. Se financiarán con cargo a los rendimientos financieros de la parte de la provisión a que se refiere el apartado 3 los costes correspondientes a la retirada y gestión de los cabezales de los pararrayos radiactivos, y a la gestión de los residuos radiactivos generados en los supuestos excepcionales previstos en el artículo 2 de la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear, estos últimos cuando no puedan repercutirse de conformidad con la normativa vigente y así lo determine el Ministerio de Industria, Turismo y Comercio.
+8. Se financiarán con cargo al Fondo los costes correspondientes a la retirada y gestión de los cabezales de los pararrayos radiactivos, y a la gestión de los residuos radiactivos generados en los supuestos excepcionales previstos en el artículo 2 de la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear, estos últimos cuando no puedan repercutirse de conformidad con la normativa vigente y así lo determine el Ministerio de Industria, Turismo y Comercio.
 
-9. El Estado asumirá la titularidad de los residuos radiactivos una vez se haya procedido a su almacenamiento definitivo. Asimismo, asumirá la vigilancia que, en su caso, pudiera requerirse tras la clausura de una instalación nuclear o radiactiva una vez haya transcurrido el periodo de tiempo que se establezca en la correspondiente declaración de clausura.
+9. A los efectos de lo previsto en el apartado 1 de esta disposición adicional, se establecen las tasas que se relacionan a continuación, que tendrán el carácter de tasas afectadas a los servicios a los que se refiere al artículo 38 bis de la Ley 25/1964, de 29 de abril, y que se ingresarán en el Tesoro Público aplicadas a un concepto no presupuestario. Las cuantías correspondientes a las tasas ingresadas se librarán desde el Tesoro hacia el Fondo para la financiación de las actividades del Plan General de Residuos Radiactivos, a propuesta del Secretario de Estado de Energía:
+
+Primero. Tasa por la prestación de servicios de gestión de residuos radiactivos a que se refiere el apartado 3.
+
+a) Hecho imponible: Constituye el hecho imponible de la tasa la prestación de los servicios relativos a las actividades a que se refiere el apartado 3 anterior, es decir, la gestión de los residuos radiactivos y del combustible gastado generados en las centrales nucleares cuya explotación haya cesado definitivamente con anterioridad al 1 de enero de 2010, así como su desmantelamiento y clausura, aquellos costes futuros correspondientes a las centrales nucleares o fábricas de elementos combustibles que, tras haber cesado definitivamente su explotación, no se hubiesen previsto durante dicha explotación, y los que, en su caso, se pudieran derivar de lo previsto en el apartado 5.
+
+Asimismo, constituye el hecho imponible la gestión de residuos radiactivos procedentes de aquellas actividades de investigación que el Ministerio de Industria, Turismo y Comercio determine que han estado directamente relacionadas con la generación de energía nucleoeléctrica, las operaciones de desmantelamiento y clausura que deban realizarse como consecuencia de la minería y producción de concentrados de uranio con anterioridad al 4 de julio de 1984, los costes derivados del reproceso del combustible gastado enviado al extranjero con anterioridad a la entrada en vigor de esta Ley, y aquellos otros costes que se especifiquen mediante real decreto.
+
+b) Base imponible: La base imponible de la tasa viene constituida por la recaudación total derivada de la aplicación de los peajes a que se refiere la presente Ley.
+
+c) Devengo de la tasa: La tasa se devengará el día último de cada mes natural durante el período de gestión establecido en el Plan General de Residuos Radiactivos.
+
+d) Sujetos pasivos: Serán sujetos pasivos de la tasa a título de contribuyentes las empresas explotadoras titulares de las centrales nucleares. Serán sujetos pasivos a título de sustitutos del contribuyente y obligados a la realización de las obligaciones materiales y formales de la tasa las empresas que desarrollan las actividades de transporte y distribución en los términos previstos en esta Ley.
+
+e) Tipos de gravamen y cuota: El tipo por el que se multiplicará la base imponible para determinar la cuota tributaria a ingresar es de 0,001 por ciento.
+
+f) Normas de gestión: Mediante Orden Ministerial se aprobará el modelo de autoliquidación y los medios para hacer efectivo el ingreso de las cuantías exigibles.
+
+La tasa correspondiente a la recaudación del penúltimo mes anterior se ingresará mediante autoliquidación a efectuar por el sujeto pasivo sustituto del contribuyente antes del día 10 de cada mes o, en su caso, del día hábil inmediatamente posterior.
+
+La recaudación de la tasa se hará efectiva a través de las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria al amparo de lo dispuesto en el artículo 9 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
+
+Esta tasa se integrará a todos los efectos en la estructura de peajes establecida en la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico y sus disposiciones de desarrollo.
+
+Segundo. Tasa por la prestación de servicios de gestión de residuos radiactivos a que se refiere el apartado 4.
+
+a) Hecho imponible: Constituye el hecho imponible de la tasa la prestación de los servicios relativos a las actividades a que se refiere el apartado 4 anterior, es decir, la gestión de los residuos radiactivos y del combustible gastado generados en las centrales nucleares durante su explotación con independencia de la fecha de su generación, así como los correspondientes a su desmantelamiento y clausura, y las asignaciones destinadas a los municipios afectados por centrales nucleares o instalaciones de almacenamiento de combustible gastado o residuos radiactivos, en los términos establecidos por el Ministerio de Industria, Turismo y Comercio, así como los importes correspondientes a los tributos que se devenguen en relación con las actividades de almacenamiento de residuos radiactivos y combustible gastado. También constituye hecho imponible de esta tasa el cese anticipado de la explotación de una central nuclear por voluntad del titular, con respecto a las previsiones establecidas en el Plan General de Residuos Radiactivos.
+
+b) Base imponible: La base imponible de la tasa viene constituida por la energía nucleoeléctrica bruta generada por cada una de las centrales en cada mes natural, medida en kilowatios hora brutos (Kwh) y redondeada al entero inferior.
+
+Cuando se trate del cese anticipado de la explotación de una central nuclear por voluntad del titular, la base imponible será igual al déficit de financiación que, en su caso, existiera en el momento del cese, en la cuantía que determine el Ministerio de Industria, Turismo y Comercio en base al estudio económico que realice ENRESA.
+
+c) Devengo de la tasa: La tasa se devengará el día último de cada mes natural durante el período de explotación de las centrales.
+
+En caso de cese anticipado de la explotación por voluntad del titular, la tasa se devengará en el momento en que, de conformidad con la legislación aplicable, se produzca dicho cese.
+
+d) Sujetos pasivos: Serán sujetos pasivos de la tasa las empresas explotadoras titulares de las centrales nucleares. En caso de que sean varias las titulares de una misma central, la responsabilidad será solidaria entre todas ellas.
+
+e) Determinación de la cuota: La cuota tributaria a ingresar durante la explotación de la instalación será la resultante de multiplicar la base imponible por la tarifa fija unitaria y el coeficiente corrector que a continuación se señala, de tal modo que la cuota a ingresar será la resultante de la aplicación de la siguiente fórmula:
+
+C = B.i. × T × Cc
+
+En la cual:
+
+C = Cuota a ingresar.
+
+B.i. = Base imponible en Kwh.
+
+T = Tarifa fija unitaria: 0,669 céntimos de €/Kwh.
+
+Cc = Coeficiente corrector aplicable de acuerdo con la siguiente escala:
+
+| Potencia bruta de la central nuclear (Mwe) | PWR | BWR |
+| --- | --- | --- |
+| 1-300 | 1,15 | 1,28 |
+| 301-600 | 1,06 | 1,17 |
+| 601-900 | 1,02 | 1,12 |
+| 901-1200 | 0,99 | 1,09 |
+
+PWR = Reactores de agua a presión.
+
+BWR = Reactores de agua en ebullición.
+
+En los supuestos de cese anticipado de la explotación de una central nuclear por voluntad del titular, la cuota será igual al 100 por ciento de la base imponible.
+
+f) Normas de gestión: Mediante Orden Ministerial se aprobará el modelo de autoliquidación y los medios para hacer efectivo el ingreso de las cuantías exigibles.
+
+La tasa se ingresará mediante autoliquidación a efectuar por el sujeto pasivo en el plazo de los tres meses naturales siguientes a su devengo.
+
+En el caso del cese anticipado de la explotación de una central nuclear por voluntad del titular, con respecto a las previsiones establecidas en el Plan General de Residuos Radiactivos, el déficit de financiación que, en su caso, existiera en el momento del cese, deberá ser abonado por el titular durante los tres años siguientes a partir de la fecha de dicho cese, efectuando pagos anuales iguales en la cuantía que determine el Ministerio de Industria, Turismo y Comercio en base al estudio económico que realice ENRESA.
+
+La recaudación de la tasa se hará efectiva a través de las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria al amparo de lo dispuesto en el artículo 9 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
+
+Tercero. Tasa por la prestación de servicios de gestión de los residuos radiactivos derivados de la fabricación de elementos combustibles, incluido el desmantelamiento de las instalaciones de fabricación de los mismos.
+
+a) Hecho imponible: Constituye el hecho imponible de la tasa la prestación de los servicios de gestión de los residuos radiactivos derivados de la fabricación de elementos combustibles, incluido el desmantelamiento de las instalaciones de fabricación de los mismos. También constituye hecho imponible de esta tasa el cese anticipado de la explotación de una instalación dedicada a la fabricación de elementos combustibles por voluntad del titular, con respecto a las previsiones establecidas en el Plan General de Residuos Radiactivos.
+
+b) Base imponible: La base imponible de la tasa viene constituida por la cantidad de combustible nuclear fabricado en cada año natural, medida en toneladas métricas (Tm) y expresada con dos decimales, redondeando los restantes al segundo decimal inferior.
+
+Cuando se trate del cese anticipado de la explotación de una instalación dedicada a la fabricación de elementos combustibles por voluntad del titular, la base imponible será igual al déficit de financiación que, en su caso, existiera en el momento del cese, en la cuantía que determine el Ministerio de Industria, Turismo y Comercio en base al estudio económico que realice ENRESA.
+
+c) Devengo de la tasa: La tasa se devengará el día último de cada año natural en que haya existido fabricación de elementos combustibles.
+
+d) Sujetos pasivos: Serán sujetos pasivos de la tasa los titulares de las instalaciones de fabricación de elementos combustibles.
+
+e) Tipos de gravamen y cuota: La cuota tributaria a ingresar será la resultante de multiplicar la base imponible por el tipo de gravamen de 1.449 €/Tm.
+
+En los supuestos de cese anticipado de una instalación dedicada a la fabricación de elementos combustibles por voluntad del titular, la cuota será igual al 100 por ciento de la base imponible.
+
+f) Normas de gestión: Mediante Orden Ministerial se aprobará el modelo de autoliquidación y los medios para hacer efectivo el ingreso de las cuantías exigibles.
+
+La tasa se ingresará mediante autoliquidación a efectuar por el sujeto pasivo en el plazo de los tres meses naturales siguientes a su devengo.
+
+En el caso de cese anticipado de la explotación de una instalación de fabricación de elementos combustibles por voluntad del titular, con respecto a las previsiones establecidas en el Plan General de Residuos Radiactivos, el déficit de financiación que, en su caso, existiera en el momento del cese, deberá ser abonado por el titular durante los tres años siguientes a partir de la fecha de dicho cese, efectuando pagos anuales iguales en la cuantía que determine el Ministerio de Industria, Turismo y Comercio en base al estudio económico que realice ENRESA.
+
+La recaudación de la tasa se hará efectiva a través de las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria al amparo de lo dispuesto en el artículo 9 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
+
+Cuarto. Tasa por la prestación de servicios de gestión de residuos radiactivos generados en otras instalaciones.
+
+a) Hecho imponible: Constituye el hecho imponible de la tasa la prestación de los servicios de gestión de los residuos radiactivos generados en cualesquiera otras instalaciones no comprendidas en el hecho imponible de las tasas previstas en los puntos anteriores.
+
+b) Base imponible: La base imponible de la tasa viene constituida por la cantidad o unidad de residuos entregados para su gestión, medida en la unidad correspondiente aplicable entre las comprendidas en la letra e) siguiente, de acuerdo con la naturaleza del residuo y expresada con dos decimales, redondeando los restantes al segundo decimal inferior.
+
+c) Devengo de la tasa: La tasa se devengará en el momento de la retirada por ENRESA de los residuos de las instalaciones.
+
+d) Sujetos pasivos: Serán sujetos pasivos de la tasa los titulares de las instalaciones.
+
+e) Tipos de gravamen y cuota: La cuota tributaria a ingresar será la resultante de multiplicar la base imponible por los tipos de gravamen siguientes para cada tipo de residuos.
+
+| Tipo residuo | Descripción | Tipo gravamen (€/unid) |
+| --- | --- | --- |
+| Sólidos. |
+| S01. | Residuos sólidos compactables (bolsas de 25 litros). | 104,74 |
+| S02. | Residuos no compactables (bolsas de 25 litros). | 104,74 |
+| S03. | Cadáveres de animales. Residuos biológicos (bolsas de 25 litros). | 270,76 |
+| S04. | Agujas hipodérmicas en contenedores rígidos (bolsas de 25 litros). | 104,74 |
+| S05. | Sólidos especiales: |
+| S051. | Residuos con Ir-192 como componente activo (bolsas de 25 litros). | 104,74 |
+| S052. | Sales de Uranio o Torio (bolsas de 25 litros). | 195,82 |
+| Mixtos |
+| M01. | Residuos mixtos compuestos por líquidos orgánicos más viales (contenedores de 25 litros). | 225,51 |
+| M02. | Placas y similares con líquidos o geles (bolsas de 25 litros). | 104,74 |
+| Líquidos |
+| L01. | Residuos líquidos orgánicos (contenedores de 25 litros). | 229,53 |
+| L02. | Residuos líquidos acuosos (contenedores de 25 litros). | 195,20 |
+| Fuentes |
+| F01. | Fuentes encapsuladas cuya actividad no sobrepase los límites establecidos por el ADR para bultos del Tipo A y el conjunto de la fuente con su contenedor de origen o con el equipo en que va instalada no supere los 20 litros: |
+| F011. | Las fuentes F01 con elementos de semiperíodo inferior o igual al del Co-60. | 310,07 |
+| F012. | Las fuentes F01 con elementos de semiperíodo comprendido entre el del Co-60 y el del Cs-137 incluido éste. | 310,07 |
+| F013. | Las fuentes F01 con elementos de semiperíodo superior al del Cs-137. | 310,07 |
+| F02. | Fuentes encapsuladas cuya actividad no sobrepase los límites establecidos por el ADR para bultos del Tipo A y el conjunto de la fuente con su contenedor de origen o con el equipo en que va instalada sea superior a 20 l. e inferior o igual a 80 l. |
+| F021. | Las fuentes F02 con elementos de semiperíodo inferior o igual al del Co-60. | 575,85 |
+| F022. | Las fuentes F02 con elementos de semiperíodo comprendido entre el del Co-60 y el del Cs-137, incluido éste. | 575,85 |
+| F023. | Las fuentes F02 con elementos de semiperíodo superior al del Cs-137. | 575,85 |
+
+f) Normas de gestión: Mediante Orden Ministerial se aprobará el modelo de autoliquidación y los medios para hacer efectivo el ingreso de las cuantías exigibles.
+
+Sobre las cuantías que resulten exigibles por las tasas a que se refiere este apartado 9, se aplicará el Impuesto sobre el Valor Añadido que grava la prestación de los servicios objeto de gravamen en los términos establecidos en la legislación vigente.
+
+Los tipos de gravamen y elementos tributarios para la determinación de la cuota de estas tasas podrán ser revisados por el Gobierno mediante Real Decreto, en base a una memoria económico-financiera actualizada del coste de las actividades correspondientes contempladas en el Plan General de Residuos Radiactivos.
 
 10. Se autoriza al Gobierno para adoptar las disposiciones necesarias para la aplicación de lo establecido en esta disposición adicional.
+
+> Se modifica por la disposición final 9.2 de la Ley 11/2009, de 26 de octubre. Ref. BOE-A-2009-17000
+
+> Esta modificación tiene efectos a partir del 1 de enero de 2010, según establece la disposición final 12.e).
 
 > Se modifican los apartados 3, 4 y 7 por el art. 3.1 del Real Decreto-ley 6/2009, de 30 de abril. Ref. BOE-A-2009-7581
 

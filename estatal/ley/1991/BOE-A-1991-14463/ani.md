@@ -96,6 +96,12 @@ No se entenderán comprendidos en el concepto de las viviendas del párrafo ante
 
 3.º Los servicios de reparación de los vehículos y de las sillas de ruedas comprendidos en el párrafo primero del apartado 4.º del número 1 anterior y los servicios de adaptación de los autotaxis y autoturismos para personas con minusvalías y de los vehículos a motor a los que se refiere los párrafos segundo y tercero del mismo precepto, independientemente de quién sea el conductor de los mismos.
 
+4.º Los arrendamientos de las viviendas previstas en el apartado 10.º del número 1 anterior cuando deriven de un contrato de arrendamiento con opción de compra.
+
+> Se añade el apartado 2.4 por la disposición final 4.4 de la Ley 11/2009, de 26 de octubre. Ref. BOE-A-2009-17000.
+
+> Téngase en cuenta la disposición final 12 en cuanto a su aplicación.
+
 > Se modifica, con efectos desde el 1 de enero de 2007 por el art. 67 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865.
 
 > Se modifica el apartado 1.4 y se añade el 1.15 por el art. 12.1.13 y 14 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.

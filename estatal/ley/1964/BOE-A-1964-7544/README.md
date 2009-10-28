@@ -56,6 +56,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo treinta seis](atreintaseis.md)
 - [Artículo treinta y siete](atreintaysiete.md)
 - [Artículo treinta y ocho](atreintayocho.md)
+- [Artículo treinta y ocho bis](atreintayochobis.md)
 - [Artículo treinta y nueve](atreintaynueve.md)
 - [Artículo cuarenta](acuarenta.md)
 - [Artículo cuarenta y uno](acuarentayuno.md)
