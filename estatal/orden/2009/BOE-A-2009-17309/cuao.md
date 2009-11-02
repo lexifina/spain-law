@@ -1,0 +1,7 @@
+## Cuarto. Autorización del servicio de seguridad.
+
+1. El procedimiento de autorización del servicio de seguridad se iniciará mediante solicitud motivada, dirigida al Ministerio del Interior (Dirección General de la Policía y de la Guardia Civil – Unidad Central de Seguridad Privada de la Comisaría General de Seguridad Ciudadana del Cuerpo Nacional de Policía), por la empresa armadora o su representante, indicando la empresa de seguridad, el motivo por el cual se solicita la autorización, la relación nominativa de los vigilantes de seguridad que prestarán el servicio, número de armas indicando el modelo, calibre y munición a emplear y los demás requisitos que resulten de aplicación.
+
+2. En la tramitación del procedimiento, el Ministerio del Interior solicitará del Ministerio de Defensa (Dirección General de Armamento y Material) informe sobre la procedencia o no del empleo de las armas solicitadas para la prestación del servicio requerido.
+
+3. Obtenido el informe favorable del Ministerio de Defensa para la utilización de las armas, el Director General de la Policía y de la Guardia Civil, previo examen de la solicitud y valoración de las circunstancias concurrentes y del cumplimiento de los demás requisitos, resolverá sobre el servicio solicitado. Concedida la autorización, ésta quedará vinculada al cumplimiento de los términos y condiciones contenidos en la presente Orden sobre la adquisición, tenencia, utilización y control de dichas armas.
