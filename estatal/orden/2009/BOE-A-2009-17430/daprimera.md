@@ -1,0 +1,3 @@
+## Disposición adicional primera. Normativa aplicable al Registro Electrónico de la Guardia Civil.
+
+El funcionamiento del Registro Electrónico de la Guardia Civil se regirá, además de por lo previsto en esta Orden, por lo establecido en la Ley 30/1992, de 26 de noviembre; en la Ley 11/2007, de 22 de junio; en el Real Decreto 263/1996, de 16 de febrero; en el Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias de documentos y la devolución de originales y el régimen y funcionamiento de las oficinas de registro; en la Orden PRE/1551/2003, de 10 de junio; así como en las demás normas que le sean aplicables.
