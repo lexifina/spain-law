@@ -1,4 +1,4 @@
-## Artículo doscientos treinta y uno
+## Artículo 231.
 
 1. En todas las actuaciones judiciales, los Jueces, Magistrados, Fiscales, Secretarios y demás funcionarios de Juzgados y Tribunales usarán el castellano, lengua oficial del Estado.
 
@@ -8,7 +8,11 @@
 
 4. Las actuaciones judiciales realizadas y los documentos presentados en el idioma oficial de una Comunidad Autónoma tendrán, sin necesidad de traducción al castellano, plena validez y eficacia. De oficio se procederá a su traducción cuando deban surtir efecto fuera de la jurisdicción de los órganos judiciales sitos en la Comunidad Autónoma, salvo si se trata de Comunidades Autónomas con lengua oficial propia coincidente. También se procederá a su traducción cuando así lo dispongan las leyes o a instancia de parte que alegue indefensión.
 
-5. En las actuaciones orales, el Juez o Tribunal podrá habilitar como intérprete a cualquier persona conocedora de la lengua empleada, previo juramento o promesa de aquélla.
+5. En las actuaciones orales se podrá habilitar como intérprete a cualquier persona conocedora de la lengua empleada, previo juramento o promesa de aquélla.
+
+> Se modifica el apartado 5 por el art. 1.4 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
+
+> Se declara que el apartado 4 no es inconstitucional, en la redacción dada por la Ley Orgánica 16/1984, de 8 de noviembre, interpretado en el sentido indicado en el fundamento jurídico 12 de la Sentencia 105/2000, de 13 de abril. Ref. BOE-T-2000-9230.
 
 > Se modifica el apartado 4 por el art. 8.3 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
 

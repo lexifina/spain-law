@@ -12,9 +12,13 @@ Asimismo, podrán crear servicios comunes procesales que asuman la ordenación d
 
 5. Al frente de cada servicio común procesal constituido en el seno de la Oficina judicial habrá un secretario judicial, de quien dependerán funcionalmente el resto de los secretarios judiciales y el personal destinado en los puestos de trabajo en que se ordene el servicio de que se trate y que, en todo caso, deberá ser suficiente y adecuado a las funciones que tiene asignado el mismo.
 
+En aquellos partidos judiciales en que el escaso número de órganos judiciales lo aconseje, el mismo Secretario Judicial de la unidad procesal de apoyo directo podrá estar al frente de los servicios comunes procesales que se constituyan con las funciones relacionadas en el apartado 3 de este artículo.
+
 6. El secretario judicial que dirija un servicio común procesal deberá hacer cumplir, en el ámbito organizativo y funcional que le es propio, las ordenes y circulares que reciba de sus superiores jerárquicos. En el ámbito jurisdiccional, responderán del estricto cumplimiento de cuantas actuaciones o decisiones adopten jueces o tribunales en el ejercicio de sus competencias.
 
 7. El Consejo General del Poder Judicial podrá establecer criterios generales que permitan la homogeneidad en las actuaciones de los servicios comunes procesales de la misma clase en todo el territorio nacional que, en ningún caso, podrán incidir en el ejercicio de la función jurisdiccional o en las competencias de las Administraciones públicas en el ámbito de la Administración de Justicia.
+
+> Se añade el párrafo segundo del apartado 5 por el art. 1.15 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

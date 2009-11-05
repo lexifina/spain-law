@@ -1,4 +1,4 @@
-## Artículo veintitrés
+## Artículo 23.
 
 1. En el orden penal corresponderá a la jurisdicción española el conocimiento de las causas por delitos y faltas cometidos en territorio español o cometidos a bordo de buques o aeronaves españoles, sin perjuicio de lo previsto en los tratados internacionales en los que España sea parte.
 
@@ -30,27 +30,31 @@ h) Los perpetrados en el ejercicio de sus funciones por funcionarios públicos e
 
 i) Los relativos al control de cambios.
 
-4. Igualmente será competente la jurisdicción española para conocer de los hechos cometidos por españoles o extranjeros fuera del territorio nacional susceptibles de tipificarse, según la ley penal española, como alguno de los siguientes delitos:
+4. Igualmente, será competente la jurisdicción española para conocer de los hechos cometidos por españoles o extranjeros fuera del territorio nacional susceptibles de tipificarse, según la ley española, como alguno de los siguientes delitos:
 
-a) Genocidio.
+a) Genocidio y lesa humanidad.
 
 b) Terrorismo.
 
 c) Piratería y apoderamiento ilícito de aeronaves.
 
-d) Falsificación de moneda extranjera.
+d) Delitos relativos a la prostitución y corrupción de menores e incapaces.
 
-e) Los delitos relativos a la prostitución y los de corrupción de menores o incapaces.
+e) Tráfico ilegal de drogas psicotrópicas, tóxicas y estupefacientes.
 
-f) Tráfico ilegal de drogas psicotrópicas, tóxicas y estupefacientes.
+f) Tráfico ilegal o inmigración clandestina de personas, sean o no trabajadores.
 
-g) Tráfico ilegal o inmigración clandestina de personas, sean o no trabajadores.
+g) Los relativos a la mutilación genital femenina, siempre que los responsables se encuentren en España.
 
-h) Los relativos a la mutilación genital femenina, siempre que los responsables se encuentren en España.
+h) Cualquier otro que, según los tratados y convenios internacionales, en particular los Convenios de derecho internacional humanitario y de protección de los derechos humanos, deba ser perseguido en España.
 
-i) Y cualquier otro que, según los tratados o convenios internacionales, deba ser perseguido en España.
+Sin perjuicio de lo que pudieran disponer los tratados y convenios internacionales suscritos por España, para que puedan conocer los Tribunales españoles de los anteriores delitos deberá quedar acreditado que sus presuntos responsables se encuentran en España o que existen víctimas de nacionalidad española, o constatarse algún vínculo de conexión relevante con España y, en todo caso, que en otro país competente o en el seno de un Tribunal internacional no se ha iniciado procedimiento que suponga una investigación y una persecución efectiva, en su caso, de tales hechos punibles.
 
-5. En los supuestos de los apartados 3 y 4 será de aplicación lo dispuesto en la letra c) del apartado 2 de este artículo.
+El proceso penal iniciado ante la jurisdicción española se sobreseerá provisionalmente cuando quede constancia del comienzo de otro proceso sobre los hechos denunciados en el país o por el Tribunal a los que se refiere el párrafo anterior.
+
+5. Si se tramitara causa penal en España por los supuestos regulados en los anteriores apartados 3 y 4, será en todo caso de aplicación lo dispuesto en la letra c) del apartado 2 del presente artículo.
+
+> Se modifican los apartados 4 y 5 por el art. 1.1 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
 
 > Se modifica el apartado 4 por el art. 1.1 de la Ley Orgánica 13/2007, de 19 de noviembre. Ref. BOE-A-2007-19879.
 

@@ -1,14 +1,16 @@
 ## Artículo 311.
 
-1. De cada cuatro vacantes que se produzcan en la categoría de magistrados, dos se proveerán mediante ascenso con los jueces que ocuparan el primer lugar en el escalafón dentro de esta categoría.
+1. De cada cuatro vacantes que se produzcan en la categoría de Magistrado, dos darán lugar al ascenso de los Jueces que ocupen el primer lugar en el escalafón dentro de esta categoría.
 
-Cualquier juez podrá renunciar al ascenso a la categoría de Magistrado notificándolo expresamente al Consejo General del Poder Judicial en la forma y plazo que éste determine. Dicha renuncia obligará a permanecer en la categoría de juez durante dos años y podrá efectuarse un máximo de tres veces. Transcurridos los plazos señalados, el juez ascenderá en el turno que le corresponda. El juez que ejercite la renuncia mantendrá su puesto en el escalafón de jueces hasta que ascienda y no podrá participar en los concursos ordinarios de traslado mientras permanezca en esta situación.
+El Magistrado así ascendido podrá optar por continuar en la plaza que venía ocupando o por ocupar la vacante que en el momento del ascenso le sea ofertada, comunicándolo al Consejo General del Poder Judicial en la forma y plazo que éste determine. En el primer supuesto no podrá participar en los concursos ordinarios de traslado durante tres años si la plaza que venía ocupando es de categoría de Juez y un año si es de categoría de Magistrado.
 
-La tercera vacante se proveerá, entre jueces, por medio de pruebas selectivas en los órdenes jurisdiccionales civil y penal, y de especialización en los órdenes contencioso-administrativo y social.
+La tercera vacante se proveerá, entre Jueces, por medio de pruebas selectivas en los órdenes jurisdiccionales civil y penal, y de especialización en los órdenes contencioso-administrativo, social y mercantil.
 
-La cuarta vacante se proveerá por concurso, entre juristas de reconocida competencia y con más de 10 años de ejercicio profesional, que superen el curso de formación al que se refiere el apartado 5 del artículo 301. A su vez, una tercera parte de estas vacantes se reservará a miembros del Cuerpo de Secretarios Judiciales de primera o segunda categoría.
+La cuarta vacante se proveerá por concurso entre juristas de reconocida competencia y con más de diez años de ejercicio profesional que superen el curso de formación al que se refiere el apartado 5 del artículo 301. A su vez, una tercera parte de estas vacantes se reservará a miembros del Cuerpo de Secretarios Judiciales de primera o segunda categoría.
 
 Por este procedimiento sólo podrá convocarse un número de plazas que no supere el total de las efectivamente vacantes más las previsibles que vayan a producirse durante el tiempo en que se prolongue la resolución del concurso.
+
+En las Comunidades Autónomas en las que exista más de una lengua oficial o tengan Derecho Civil propio se aplicarán, para la provisión de estas plazas, las previsiones establecidas a tal efecto en la presente Ley.
 
 2. Para el ascenso por escalafón será necesario que hayan prestado tres años de servicios efectivos como jueces. Para presentarse a las pruebas selectivas o de especialización bastará, sin embargo, con dos años de servicios efectivos, cualquiera que fuere la situación administrativa del candidato. Podrán presentarse también a las pruebas de especialización en los órdenes contencioso-administrativo y social, los miembros de la Carrera Judicial con categoría de magistrado y, como forma de acceso a la Carrera Judicial, los de la Carrera Fiscal ; en ambos casos, será necesario haber prestado al menos dos años de servicios efectivos en sus respectivas carreras. Igual exigencia se requerirá a quienes se presenten a las pruebas selectivas a las que se refiere el apartado 4 del artículo 329.
 
@@ -23,6 +25,8 @@ Por este procedimiento sólo podrá convocarse un número de plazas que no super
 7. Las vacantes que no resultaren cubiertas por este procedimiento acrecerán al turno de pruebas selectivas y de especialización, si estuvieren convocadas, o, en otro caso, al de antigüedad.
 
 8. En los órdenes contencioso-administrativo y social, el número de plazas de magistrado especialista que se convoquen no podrá ser superior al del número de vacantes a la fecha de la convocatoria.
+
+> Se modifica el apartado 1 por el art. 1.6 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
 
 > Se modifica por el art. único.72 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

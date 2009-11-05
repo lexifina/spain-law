@@ -2,21 +2,19 @@
 
 1. La ordenación del personal y su integración en las distintas unidades que conforman la estructura de las Oficinas judiciales se realizará a través de las relaciones de puestos de trabajo que se aprueben y que, en todo caso, serán públicas.
 
-2. Las relaciones de puestos de trabajo contendrán la dotación de todos los puestos de trabajo de las distintas unidades que componen la Oficina judicial, incluidos aquellos que hayan de ser desempeñados por secretarios judiciales, e indicarán su denominación, ubicación y características esenciales, los requisitos exigidos para su desempeño, el complemento general de puesto y el complemento específico.
+2. Las relaciones de puestos de trabajo contendrán la dotación de todos los puestos de trabajo de las distintas unidades que componen la Oficina judicial, incluidos aquellos que hayan de ser desempeñados por Secretarios Judiciales, e indicarán su denominación, ubicación, los requisitos exigidos para su desempeño, el complemento general de puesto y el complemento específico.
 
 3. Las relaciones de puestos de trabajo deberán contener necesariamente las siguientes especificaciones:
 
 A) Centro Gestor. Centro de destino.
 
-A efectos de la ordenación de los puestos de trabajo y de su ocupación por el personal funcionario, tendrán la consideración de centros gestores, los órganos competentes del Ministerio de Justicia o el órgano competente de las comunidades autónomas para la gestión del personal, a quienes corresponderá la formulación de la relación de puestos de trabajo en sus respectivos ámbitos territoriales.
+A efectos de la ordenación de los puestos de trabajo y de su ocupación por el personal funcionario, tendrán la consideración de centros gestores los órganos competentes del Ministerio de Justicia o el órgano competente de las Comunidades Autónomas para la gestión del personal, a quienes corresponderá la formulación de la relación de puestos de trabajo en sus respectivos ámbitos territoriales.
 
 Se entenderá por centro de destino:
 
 Cada uno de los servicios comunes procesales.
 
-El conjunto de unidades procesales de apoyo directo a un determinado órgano judicial colegiado que radiquen en el mismo municipio.
-
-El conjunto de unidades procesales de apoyo directo a órganos judiciales unipersonales pertenecientes al mismo orden jurisdiccional que radiquen en el mismo municipio.
+El conjunto de unidades procesales de apoyo directo a órganos judiciales que radiquen en el mismo municipio.
 
 El Registro Civil Central y los Registros Civiles Únicos de cada localidad, donde los hubiese.
 
@@ -28,7 +26,11 @@ En el Instituto Nacional de Toxicología y Ciencias Forenses, aquellos que su no
 
 La Mutualidad General Judicial.
 
-Cada Oficina judicial de apoyo a Juzgados de Paz de más de 7.000 habitantes o de menos de 7.000 habitantes, dotados de plantilla funcionarial en razón de su carga de trabajo.
+Cada Oficina judicial de apoyo directo a Juzgados de Paz de más de 7.000 habitantes o de menos de 7.000 habitantes, dotados de plantilla funcionarial en razón de su carga de trabajo.
+
+El Gabinete Técnico de Información y Documentación del Tribunal Supremo.
+
+Las Secretarías de Gobierno.
 
 B) Tipo de puesto. A estos efectos los puestos se clasifican en genéricos y singularizados.
 
@@ -53,5 +55,7 @@ Los puestos de trabajo de las relaciones de puestos de trabajo de las Oficinas j
 4.º Conocimientos informáticos cuando sean necesarios para el desempeño del puesto.
 
 5.º Aquellas otras condiciones que se consideren relevantes en el contenido del puesto o su desempeño.
+
+> Se modifica el apartado 2 y la letra A) del apartado 3 por el art. 1.18 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
 
 > Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.

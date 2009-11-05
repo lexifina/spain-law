@@ -8,9 +8,13 @@ b) Cuando sean autorizados por el Consejo General del Poder Judicial para realiz
 
 c) Cuando adquieran la condición de funcionarios al servicio de Organizaciones Internacionales o de carácter supranacional.
 
-d) Cuando sean nombrados Letrados al servicio del Tribunal de Justicia de las Comunidades Europeas, del Tribunal Constitucional, del Consejo General del Poder Judicial o del Tribunal Supremo, o Magistrados del Gabinete Técnico del Tribunal Supremo, o sean adscritos al servicio del Defensor del Pueblo u órgano equivalente de las comunidades autónomas.
+d) Cuando sean nombrados o adscritos como Letrados al servicio del Tribunal de Justicia de las Comunidades Europeas, del Tribunal Constitucional, del Consejo General del Poder Judicial o del Tribunal Supremo, o Magistrados del Gabinete Técnico del Tribunal Supremo, o al servicio del Defensor del Pueblo u órgano equivalente de las Comunidades Autónomas.
 
 e) Cuando presten servicio, en virtud de nombramiento por real decreto, o por decreto en las comunidades autónomas, en cargos que no tengan rango superior a director general.
+
+f) Cuando presten servicio en el Ministerio de Justicia en virtud de nombramiento por Real Decreto o en las Consejerías de Justicia, o asimiladas, de las Comunidades Autónomas, en virtud de nombramiento por Decreto, en cargos que tengan rango inferior al de Ministro o Consejero de Comunidad Autónoma.
+
+> Se añade la letra f) y se modifica la letra d) por el art. 1.12 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
 
 > Se modifica por el art. único.88 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
