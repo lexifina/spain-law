@@ -1,41 +1,61 @@
 ## ANEXO
 
-Vitaminas y sales minerales que pueden declararse y sus cantidades diarias recomendadas (CDR):
+Vitaminas y minerales que pueden declararse y sus cantidades diarias recomendadas (CDR)
 
-Vitamina A (Retinol) μg: 800.
+Vitamina A (μg): 800.
 
-Vitamina D (Ergocalciferol o colecalciferol) μg: 5.
+Vitamina D (μg): 5.
 
-Vitamina E (Tocoferol) mg: 10.
+Vitamina E (mg): 12.
 
-Vitamina C (Acido ascórbico) mg: 60.
+Vitamina K (μg): 75.
 
-Vitamina B1 (Tiamina) mg: 1,4.
+Vitamina C (mg): 80.
 
-Vitamina B2 (Riboflavina) mg: 1,6.
+Tiamina (mg): 1,1.
 
-Vitamina B3 (Niacina) mg: 18.
+Riboflavina (mg): 1,4.
 
-Vitamina B6 (Piridoxina o piridoxal o piridoxamina) mg: 2.
+Niacina (mg): 16.
 
-Vitamina B9 (Acido fólico o folatos) μg: 200.
+Vitamina B6 (mg): 1,4.
 
-Vitamina B12 (Cianocobalamina) mg: 1.
+Ácido fólico (μg): 200.
 
-Biotina mg: 0,15.
+Vitamina B12 (μg): 2,5.
 
-Acido pantoténico mg: 6.
+Biotina (μg): 50.
 
-Calcio mg: 800.
+Ácido pantoténico (mg): 6.
 
-Fósforo mg: 800.
+Potasio (mg): 2000.
 
-Hierro mg: 14.
+Cloruro (mg): 800.
 
-Magnesio mg: 300.
+Calcio (mg): 800.
 
-Zinc mg: 15.
+Fósforo (mg): 700.
 
-Iodo μg: 150.
+Magnesio (mg): 375.
 
-Por regla general, para decidir lo que constituye una cantidad significativa se considera un 15 por 100 de la cantidad recomendada especificada en este anexo y suministrada por 100 g o 100 ml o por envase si éste contiene una única porción.
+Hierro (mg): 14.
+
+Zinc (mg): 10.
+
+Cobre (mg): 1.
+
+Manganeso (mg): 2.
+
+Floruro (mg): 3,5.
+
+Selenio (μg): 55.
+
+Cromo (μg): 40.
+
+Molibdeno (μg): 50.
+
+Yodo (μg): 150.
+
+Por regla general, para decidir lo que constituye una cantidad significativa se considera un 15 por ciento de la cantidad recomendada especificada en el presente anexo y suministrada por 100 gramos o 100 ml o por envase, si este contiene una única porción.
+
+> Se modifica por el art. único.3 del Real Decreto 1669/2009, de 6 de noviembre. Ref. BOE-A-2009-17652.
