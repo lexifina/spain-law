@@ -1,0 +1,21 @@
+La Biblioteca Nacional fue concebida desde su creación como el centro depositario del patrimonio bibliográfico y documental de España, responsable de la identificación, preservación, conservación, gestión y difusión del patrimonio bibliográfico y documental español, en cualquier tipo de soporte.
+
+El transcurso del tiempo puso de manifiesto la necesidad de dotar a la Biblioteca Nacional de mayor agilidad administrativa y de adecuar su estructura a una organización más moderna que contribuyera a prestar mejor servicio como centro investigador. De aquí que la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, en su artículo 97 determinara su transformación en organismo autónomo de carácter administrativo, señalando en el apartado 4 del mismo precepto que el Gobierno, mediante real decreto, procediera a la aprobación del correspondiente estatuto.
+
+El vigente Estatuto de la Biblioteca Nacional fue aprobado por el Real Decreto 1581/1991, de 31 de octubre y con posterioridad a esta fecha ha experimentado diferentes modificaciones, la última de las cuales fue realizada por el Real Decreto 1514/2005, de 16 de diciembre.
+
+La Biblioteca Nacional ha experimentado una evolución acorde con la demanda creciente de servicios por parte de los ciudadanos, potenciándose su papel como proveedora de servicios y recursos de información especializados. De este modo, la Biblioteca Nacional ha reforzado su oferta y su orientación al público, a través de una renovación de los servicios al usuario, realizando exposiciones y actividades culturales y didácticas, y asegurando el más amplio acceso a todos sus fondos, incluyendo los contenidos digitales en línea. Igualmente, se ha convertido en un centro de referencia fundamental para la cultura hispánica, por medio de su participación en proyectos de innovación y desarrollo nacional e internacional y por su contribución a la difusión y conocimiento del patrimonio bibliográfico y documental español.
+
+La gestión del cambio al que se refiere el párrafo anterior y las exigencias que plantea el cumplimiento de los objetivos del Plan de Modernización de las Instituciones Culturales de la Administración General del Estado, aprobado por Acuerdo del Consejo de Ministros de 7 de septiembre de 2007, comporta la modificación del Estatuto de la Biblioteca Nacional. A este respecto y por razones de seguridad y técnica jurídicas se ha considerado más conveniente la elaboración de un nuevo Estatuto que consolide todas las modificaciones que hasta la fecha actual ha experimentado el Real Decreto 1581/1991, de 31 de octubre, por el que se aprueba el mismo.
+
+Los cambios que se introducen afectan en primer lugar a la denominación de la Biblioteca Nacional cuya presencia creciente en foros y organizaciones internacionales, donde concurre con bibliotecas nacionales de otros países, aconseja añadir en su denominación la expresión «de España», para una mejor identificación.
+
+En segundo lugar, se incorporan nuevos miembros al Real Patronato, garantizando con ello la representación de las comunidades autónomas y de las universidades entre sus miembros natos, a través y respectivamente, del vicepresidente segundo de la Conferencia sectorial de Cultura y del presidente de la Conferencia de Rectores de las Universidades españolas. Como novedad se introduce el conocimiento por parte del Real Patronato de los criterios para el nombramiento del Director General de la Biblioteca Nacional de España que le sean sometidos para su consideración por el Ministro de Cultura.
+
+Asimismo, el cumplimiento de los objetivos anteriormente señalados, se recogen las nuevas funciones que la Biblioteca Nacional viene desempeñando en los ámbitos de las relaciones institucionales e internacionales y de acción y difusión cultural.
+
+En consecuencia, con el presente real decreto se pretende crear el nuevo marco organizativo y de funcionamiento que permita a la Biblioteca Nacional de España, como organismo autónomo, cumplir sus funciones de forma eficaz.
+
+En su virtud, a iniciativa de la Ministra de Cultura, a propuesta conjunta de la Ministra de la Presidencia y de la Ministra de Economía y Hacienda, y previa deliberación del Consejo de Ministros en su reunión del día 30 de octubre de 2009,
+
+DISPONGO:
