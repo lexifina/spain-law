@@ -1,0 +1,7 @@
+## Disposición transitoria undécima. Complemento transitorio.
+
+Los puestos de trabajo que, según los convenios de origen, tuvieran asignados complementos por el desempeño de trabajo en horario o jornada distinta de la habitual o complemento singular de puesto, a los que no se atribuya, en la relación inicial de puestos de trabajo, ningún complemento de los regulados en los apartados 5.1 y 5.2 del artículo 73, tendrán atribuido un complemento transitorio en una cuantía igual a la de los anteriores complementos de los respectivos convenios de origen.
+
+Estos complementos transitorios se suprimirán con motivo de cualquier cambio de puesto de trabajo, ya sea como consecuencia de los procedimientos previstos en el Convenio único, o por reclasificación profesional. No obstante, en los supuestos de traslado obligatorio previstos en el artículo 26 y la disposición transitoria tercera del Convenio Único en los que se mantenga el mismo puesto de trabajo no se suprimirá dicho complemento transitorio.
+
+La cuantía del complemento transitorio será objeto de compensación y de absorción del cien por cien de los incrementos derivados del reconocimiento de nuevos complementos de puesto de trabajo o establecimiento de nuevos conceptos retributivos de carácter fijo o periódico. Tampoco serán de aplicación a dichos complementos transitorios los incrementos que se establezcan en las leyes de presupuestos generales del Estado como límite de crecimiento de la masa salarial, ni los que puedan derivarse de cualquier otra norma o acuerdo.

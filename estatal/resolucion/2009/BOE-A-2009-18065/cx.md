@@ -1,0 +1,3 @@
+## CAPÍTULO X
+
+## Incompatibilidades

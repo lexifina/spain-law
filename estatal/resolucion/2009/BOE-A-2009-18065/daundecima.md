@@ -1,0 +1,5 @@
+## Disposición adicional undécima. Complementos de puestos de trabajo.
+
+1. Con carácter provisional se podrán atribuir el complemento singular de puesto y los complementos horarios que correspondan a puestos vacantes o a puestos cuyo titular se encuentre en situación de suspensión de contrato con derecho a reserva de puesto, conforme al artículo 53 del Convenio, a otros puestos ocupados que no tengan asignado el complemento de que se trate, en orden a una mayor eficiencia organizativa o una mejor prestación de los servicios públicos y previa aceptación del trabajador a cuyo puesto se asigne temporalmente el complemento.
+
+2. El procedimiento para dicha atribución temporal de complementos, que sólo podrá llevarse a cabo entre puestos del mismo grupo profesional y área funcional, será objeto de negociación en la Comisión de Interpretación, Vigilancia, Estudio y Aplicación del Convenio único, en la que, entre otros aspectos, se regularán los requisitos, los supuestos de finalización y el plazo máximo de dichas atribuciones temporales de complementos.»
