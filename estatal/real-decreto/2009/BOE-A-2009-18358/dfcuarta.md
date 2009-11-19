@@ -1,0 +1,3 @@
+## Disposición final cuarta. Sedes electrónicas.
+
+Los puntos de acceso electrónico pertenecientes a la Administración General del Estado o sus organismos públicos dependientes o vinculados en los que se desarrollan actualmente comunicaciones con terceros, propias de sede electrónica, deberán adaptarse, en el plazo de cuatro meses, contados a partir de la entrada en vigor de este real decreto, a lo dispuesto en el mismo para las sedes o, en su caso, subsedes, electrónicas, sin perjuicio de lo previsto en las disposiciones transitorias primera y segunda de este real decreto y en la disposición final tercera.2 de la Ley 11/2007, de 22 de junio.

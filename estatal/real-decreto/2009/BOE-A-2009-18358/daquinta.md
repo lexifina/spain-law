@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Plataforma de verificación de certificados de la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda.
+
+De conformidad con las facultades que otorga a la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda el artículo 81 de la Ley 66/1997, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social en relación con la disposición adicional cuarta de la Ley 59/2003, de 19 de diciembre, de firma electrónica, la plataforma de verificación de certificados desarrollada por esta entidad se integrará en el sistema nacional de verificación de certificados regulado en el artículo 25.3 del presente real decreto, cumpliendo con lo especificado en el artículo 25.4.
+
+El Ministerio de la Presidencia y la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda adoptarán las medidas para conseguir la permanente y perfecta coordinación operativa y la coherencia técnica de ambas plataformas de verificación, con la finalidad de asegurar su interoperabilidad y garantizar el mejor servicio a las Administraciones y los ciudadanos.
