@@ -40,7 +40,7 @@
 | Madrid-Carretera. |  |
 | Madrid-Ferrocarril. |  |
 | Delegación Especial de Murcia |
-| Nonduermas | Murcia. |
+| Murcia-carretera Murcia | Murcia. |
 | Delegación Especial del País Vasco |
 | Pasajes | Guipúzcoa. |
 | Aeropuerto de Bilbao | Vizcaya. |
@@ -52,3 +52,5 @@
 | Valencia-Marítima | Valencia. |
 | Sagunto | Valencia. |
 | Gandía | Valencia. |
+
+> Se modifica por la disposición final 2 de la Resolución de 16 de noviembre de 2009. Ref. BOE-A-2009-18568.

@@ -286,7 +286,7 @@ Dependencia de Aduanas e Impuestos Especiales de Murcia:
 
 Administraciones de Aduanas adscritas:
 
-Administración de Aduanas de Nonduermas.
+Administración de Aduanas de Murcia-carretera.
 
 Recintos aduaneros habilitados adscritos:
 
@@ -385,6 +385,8 @@ Recinto habilitado de Algemesí.
 Recinto habilitado de Carcagente.
 
 Recinto habilitado de Silla.
+
+> Se modifica para Murcia por la disposición final 1 de la Resolución de 16 de noviembre de 2009. Ref. BOE-A-2009-18568.
 
 > Se modifica para Madrid por el apartado 1.1 de la Resolución de 8 de abril de 2003. Ref. BOE-A-2003-13838.
 
