@@ -30,7 +30,7 @@ El Subsecretario del Interior ejercerá por delegación de las autoridades que s
 
 1.13 La resolución de las solicitudes en materia de reconocimiento del estatuto de apátrida y de protección temporal en caso de afluencia masiva de personas desplazadas, de conformidad con lo dispuesto en la normativa aplicable.
 
-1.14 La resolución de las solicitudes de asilo, de acuerdo con lo dispuesto en el artículo 7 de la Ley 5/1984, de 26 de marzo, reguladora del derecho de asilo y de la condición de refugiado, modificada por la Ley 9/1994, de 19 de mayo.
+1.14 La resolución de las solicitudes de protección internacional, de acuerdo con lo dispuesto en los artículos 24 y 40 de la Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, así como las que resuelvan los procedimientos de cese y revocación de la protección internacional previstas en el artículo 45 de la citada Ley.
 
 1.15 La declaración de lesividad de los actos administrativos.
 
@@ -77,6 +77,8 @@ El Subsecretario del Interior ejercerá por delegación de las autoridades que s
 2.3 El nombramiento y el cese del personal eventual.
 
 3. Del Secretario de Estado de Seguridad, la resolución de los recursos que se interpongan contra resoluciones de las autoridades centrales del Departamento, en cualesquiera de las materias objeto de la competencia del mismo, así como la declaración de lesividad de los actos administrativos cuando le corresponda.
+
+> Se modifica el punto 1.14 por el apartado único.1 de la Orden INT/3162/2009, de 25 de noviembre. Ref. BOE-A-2009-18872.
 
 > Se modifica por el apartado 1.1 de la Orden INT/849/2009, de 31 de marzo. Ref. BOE-A-2009-5730.
 
