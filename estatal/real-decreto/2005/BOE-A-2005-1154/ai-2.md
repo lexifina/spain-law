@@ -201,13 +201,13 @@ b) Bacterias
 | Especies | Objeto de contaminación | Zonas protegidas |
 | --- | --- | --- |
 | 1. Curtobacterium flaccumfaciens pv. flaccumfaciens (Hedges) Collins et Jones | Semillas de Phaseolus vulgaris L. y Dolichos Jacq. | EL, E, P |
-| 2. Erwinia amylovora (Burr.) Winsl. et al. | Partes de vegetales, distintos los frutos, semillas y de los destinados a ser plantados, pero con inclusión del polen activo para polinización de Amelanchier Med, Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne) Cardot, Pyracantha Roem., Pyrus L.y Sorbus L. | E, EE, F (Córcega), IRL, I [Abruzos, Apulia, Basilicata, Calabria, Campania, Emilia-Romaña (provincias de Parma y Piacenza), Friul-Venecia Julia, Lacio, Liguria, Lombardía (excepto la provincia de Mantua), Las Marcas, Molise, Piamonte, Cerdeña, Sicilia, Toscana, Umbría, Valle de Aosta, Véneto (excepto la provincia de Rovigo, los municipios de Castelbaldo, Barbona, Piacenza d’Adige, Vescovana, S. Urbano, Boara Pisani y Masi en la provincia de Padua y la zona situada al sur de la autopista A4 en la provincia de Verona)], LV, LT, A [Burgenland, Carintia, Baja Austria, Tirol (distrito administrativo de Lienz), Estiria y Viena], P, SI (excepto las regiones de Gorenjska, Koroška, Notranjska y Maribor), SK [excepto los municipios de Blahová, Horné Mýto y Okoč (distrito de Dunajská Streda), Hronovce y Hronské Kľačany (distrito de Levice), Veľké Ripňany (distrito de Topoľčany), Málinec (distrito de Poltár), Hrhov (distrito de Rožňava), Kazimír, Luhyňa, Malý Horeš, Svätuše y Zatín (distrito de Trebišov)], FI, UK (Irlanda del Norte, Isla de Man e Islas del Canal de la Mancha) |
+| 2. Erwinia amylovora (Burr.) Winsl. et al. | Partes de vegetales, distintos los frutos, semillas y de los destinados a ser plantados, pero con inclusión del polen activo para polinización de Amelanchier Med, Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne) Cardot, Pyracantha Roem., Pyrus L.y Sorbus L. | E, EE, F (Córcega), IRL, I [Abruzos, Apulia, Basilicata, Calabria, Campania, Emilia-Romaña (provincias de Parma y Piacenza), Friul-Venecia Julia, Lacio, Liguria, Lombardía (excepto la provincia de Mantua), Las Marcas, Molise, Piamonte, Cerdeña, Sicilia, Toscana, Umbría, Valle de Aosta, Véneto (excepto la provincia de Rovigo, los municipios de Castelbaldo, Barbona, Piacenza d’Adige, Vescovana, S. Urbano, Boara Pisani y Masi en la provincia de Padua y la zona situada al sur de la autopista A4 en la provincia de Verona)], LV, LT, P, SI (excepto las regiones de Gorenjska, Koroška, Notranjska y Maribor), SK [excepto los municipios de Blahová, Horné Mýto y Okoč (distrito de Dunajská Streda), Hronovce y Hronské Kľačany (distrito de Levice), Veľké Ripňany (distrito de Topoľčany), Málinec (distrito de Poltár), Hrhov (distrito de Rožňava), Kazimír, Luhyňa, Malý Horeš, Svätuše y Zatín (distrito de Trebišov)], FI, UK (Irlanda del Norte, Isla de Man e Islas del Canal de la Mancha) |
 
 c) Hongos
 
 | Especies | Objeto de contaminación | Zonas protegidas |
 | --- | --- | --- |
-| 01. Cryphonectria parasitica (Murrill.) Barr. | Madera, excluida la madera que ha sido descortezada y la corteza aislada de Castanea Mill. | CZ, EL (Creta, Lesbos), IRL, S y UK (excepto la Isla de Man) |
+| 01. Cryphonectria parasitica (Murrill.) Barr. | Madera, excluida la madera que ha sido descortezada y la corteza aislada de Castanea Mill. | CZ, IRL, S y UK (excepto la Isla de Man) |
 | 1. Glomerella gossypii Edgerton | Semillas y frutos (cápsulas) de Gossypium spp. | EL |
 | 2. Gremmeniella abietina (Lag.) Morelet | Vegetales de Abies Mill., Larix Mill., Picea A. Dietr., Pinus L., Pseudotsuga Carr., destinados a la plantación, excepto las semillas | IRL, UK (Irlanda del Norte) |
 | 3. Hypoxylon mammatum (Wahl.) J. Miller | Vegetales de Populus L., destinados a la plantación, excepto las semillas | IRL, UK (Irlanda del Norte) |
@@ -218,6 +218,8 @@ d) Virus y organismos similares
 | --- | --- | --- |
 | 1. Citrus tristeza virus (cepas europeas) | Frutos de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, con hojas y pedúnculos | EL, F (Córcega), M, P (excepto Madeira). |
 | 2. Flavescencia dorada de la vid (MLO). | Vegetales de Vitis L. excepto frutos y semillas. | CZ, FR (Alsacia, Champaña-Ardenas y Lorena) e IT (Basilicata). |
+
+> Se modifica por el art. único.1 de la Orden ARM/3196/2009, de 26 de noviembre. Ref. BOE-A-2009-18975
 
 > Se modifica por el art. único.2 de la Orden ARM/1671/2009, de 16 de junio. Ref. BOE-A-2009-10428
 

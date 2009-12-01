@@ -34,7 +34,7 @@ b) corresponda a alguna de las siguientes designaciones de la parte 2 del anexo 
 | --- | --- |
 | 4401 10 00 | Leña, en trozos, leños, leña menuda, haces de ramillas o formas similares |
 | 4401 22 00 | Madera de plantas distintas de las coníferas, en plaquitas o partículas |
-| ex 4401 30 90 | Desperdicios y desechos de madera (distintos del serrín), sin aglomerar en forma de bolas, briquetas, leños o formas similares |
+| ex 4401 30 80 | Desperdicios y desechos de madera (distintos del serrín), sin aglomerar en forma de bolas, briquetas, leños o formas similares |
 | 4403 10 00 | Madera en bruto, incluso descortezada, desalburada o escuadrada, tratada con pintura, tinte, creosota u otros agentes de conservación. |
 | ex 4403 99 | Madera distinta de la de coníferas (que no sea madera tropical contemplada en la nota de subpartida 1 del capítulo 44, u otra madera tropical, de roble (Quercus spp.) o de haya (Fagus spp.)), en bruto, incluso descortezada, desalburada o escuadrada, no tratada con pintura, tinte, creosota u otros agentes de conservación |
 | ex 4404 20 00 | Rodrigones hendidos procedentes de vegetales distintos de las coníferas; estacas y estaquillas de madera, apuntadas sin aserrar longitudinalmente |
@@ -179,9 +179,10 @@ b) corresponda a alguna de las siguientes designaciones de la parte 2 del anexo 
 | Código NC | Designación de la mercancía |
 | --- | --- |
 | 4401 10 00 | Leña, en trozos, leños, leña menuda, haces de ramillas o formas similares |
-| 4401 21 00 4401 22 00 | Madera de coníferas, en plaquitas o partículas Madera de vegetales distintos de las coníferas, en plaquitas o partículas |
-| 4401 30 10 | Serrín |
-| ex 4401 30 90 | Otros desperdicios y desechos de madera, sin aglomerar en forma de bolas, briquetas, leños o formas similares |
+| 4401 21 00 | Madera de coníferas, en plaquitas o partículas |
+| 4401 22 00 | Madera de vegetales distintos de las coníferas, en plaquitas o partículas |
+| ex 4401 30 40 | Serrín, sin aglomerar en forma de bolas, briquetas, leños o formas similares; |
+| ex 4401 30 80 | Otros desperdicios y desechos de madera, sin aglomerar en forma de bolas, briquetas, leños o formas similares |  |
 | 4403 10 00 | Madera en bruto, incluso descortezada, desalburada o escuadrada, tratada con pintura, tinte, creosota u otros agentes de conservación |
 | 4403 20 | Madera de coníferas en bruto, incluso descortezada, desalburada o escuadrada, que no esté tratada con pintura, tinte, creosota u otros agentes de conservación |
 | 4403 91 | Madera de roble (Quercus spp.) en bruto, incluso descortezada, desalburada o escuadrada, que no esté tratada con pintura, tinte, creosota u otros agentes de conservación |
@@ -254,6 +255,8 @@ b) responda a alguna de las siguientes designaciones de la parte 2 del anexo I d
 8. Partes de vegetales de Eucalyptus l’Hérit.
 
 9. Corteza aislada de coníferas (Coniferales), originaria de terceros países europeos.
+
+> Se modifica por el art. único.4 de la Orden ARM/3196/2009, de 26 de noviembre. Ref. BOE-A-2009-18975
 
 > Se modifica por el art. único.5 de la Orden ARM/1671/2009, de 16 de junio. Ref. BOE-A-2009-10428
 
