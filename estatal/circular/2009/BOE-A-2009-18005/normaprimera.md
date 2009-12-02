@@ -1,0 +1,5 @@
+## Norma primera. Identificación de la información relevante.
+
+De conformidad con el artículo 2 de la Orden EHA/1421/2009, de 1 de junio, y el artículo 1 del R.D. 1333/2005 y para facilitar la identificación y clasificación de información relevante, se detalla en el Anexo adjunto una relación no exhaustiva y puramente indicativa de supuestos de información relevante. El hecho de que un supuesto no figure en dicha relación no significa que no pueda ser información relevante y, por el contrario, que esté incluido en ella no significa que siempre tenga tal consideración. Se deberá tener en cuenta asimismo cada uno de los hitos o fases de un determinado proceso, a fin de valorar si pueden constituir información relevante en sí mismos.
+
+Quedan excluidos, a efectos de realizar la identificación y clasificación anteriormente mencionada, aquellas informaciones que la normativa vigente especifique que han de comunicarse como información relevante o a las que les otorgue tal consideración, de modo que siempre darán lugar a una comunicación de información relevante.
