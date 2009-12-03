@@ -116,7 +116,7 @@ Está materializado por un conjunto de vasijas-patrón de capacidades nominales 
 
 Se conserva, en sus diferentes capacidades, mediante comparaciones periódicas efectuadas con patrones de volumen de organismos metrológicos de otros Estados.
 
-18. Patrón nacional correspondiente a la magnitud atenuación en alta frecuencia.–El patrón nacional correspondiente a la magnitud atenuación en alta frecuencia, cuya unidad es el decibel (dB), es mantenido, conservado, custodiado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Departamento de Metrología y Ensayos del Taller de Precisión y Centro Electrotécnico de Artillería.
+18. Patrón nacional correspondiente a la magnitud atenuación en alta frecuencia.–El patrón nacional correspondiente a la magnitud atenuación en alta frecuencia, cuya unidad es el decibel (dB), es mantenido, conservado, custodiado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Laboratorio de Radiofrecuencia y Microondas del Instituto Nacional de Técnica Aeroespacial ''Esteban Terradas''.
 
 Está materializado mediante un atenuador de pistón de guía de onda circular, que trabaja por debajo de la frecuencia de corte, siendo la frecuencia de funcionamiento de 30 MHz. El valor de atenuación depende de la distancia física de dos bobinas y un sistema de medida de atenuación por sustitución en doble canal paralelo.
 
@@ -137,3 +137,5 @@ Este patrón se conserva mediante la comparación periódica efectuada con patro
 Está materializado mediante divisores resistivos y capacitivos, transformadores de tensión eléctrica inductivos y sistemas basados en diodos Zener.
 
 Este patrón se conserva mediante comparaciones periódicas efectuadas con patrones de alta tensión eléctrica de otros Institutos Nacionales de Metrología y del BIPM.
+
+> Se modifica el párrafo 1º del epígrafe 18 por el art. único de la Orden ITC/3259/2009, de 26 de noviembre. Ref. BOE-A-2009-19265.
