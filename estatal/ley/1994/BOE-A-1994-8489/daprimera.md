@@ -47,5 +47,3 @@ d) El procedimiento de transformación de las actuales sociedades de crédito hi
 Las sociedades de crédito hipotecario, las entidades de financiación, así como las sociedades de arrendamiento financiero gozarán de una reducción del 30 por 100 de los derechos que los notarios y los registradores hayan de percibir como consecuencia de la aplicación de sus respectivos aranceles por los negocios, actos y documentos necesarios para la realización e inscripción registral de las operaciones a que se refiere el párrafo anterior.
 
 > Se añade el apartado 1.f) por la disposición final 6 de la Ley 16/2009, de 13 de noviembre. Ref. BOE-A-2009-18118.
-
-> Se declara que el apartado 5 vulnera las competencias de la Comunidad Autónoma de Cataluña respecto a los establecimientos financieros de crédito por Sentencia, del TC 235/1999, de 16 de diciembre. Ref. BOE-T-2000-1177.
