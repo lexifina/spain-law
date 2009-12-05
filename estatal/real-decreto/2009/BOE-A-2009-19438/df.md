@@ -1,0 +1,9 @@
+## Disposición final primera. Funcionamiento del Consejo.
+
+1. De conformidad con el artículo 22.2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, corresponde al pleno del Consejo la aprobación de sus propias normas de funcionamiento, con sujeción a lo establecido en la citada Ley 30/1992, de 26 de noviembre, en este real decreto y en las resoluciones aprobadas por el Secretario de Estado de Hacienda y Presupuestos a las que se refiere el apartado siguiente.
+
+En el plazo de tres meses desde la entrada en vigor de este real decreto, el pleno del Consejo aprobará la adaptación de sus actuales normas de funcionamiento a lo previsto en este real decreto.
+
+2. Las normas de desarrollo de la regulación del procedimiento para la formulación, tramitación y contestación de las quejas, sugerencias y propuestas a las que se refiere el presente real decreto serán aprobadas por resolución del Secretario de Estado de Hacienda y Presupuestos, siendo de aplicación supletoria a estos efectos, en las cuestiones no expresamente previstas por el Consejo, las previsiones contenidas en el Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado así como en su normativa de aplicación y desarrollo.
+
+3. Con sujeción a lo dispuesto en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos y sus normas de desarrollo, mediante resolución del Secretario de Estado de Hacienda y Presupuestos se determinarán los sistemas de firma electrónica admitidos para la presentación de quejas y sugerencias, la sede electrónica y, en su caso, subsedes del órgano u organismo, y los mecanismos técnicos de coordinación que aseguren la tramitación eficaz por la unidad operativa de las quejas y sugerencias presentadas por medios electrónicos.
