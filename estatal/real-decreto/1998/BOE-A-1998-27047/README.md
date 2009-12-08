@@ -58,6 +58,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Subsección 2](ss2-2.md)
 - [Artículo 27](a27.md)
 - [Artículo 28](a28.md)
+- [Artículo 28 bis](a28bis.md)
 - [CAPITULO II](cii.md)
 - [SECCIÓN 1](s1-2.md)
 - [Artículo 29](a29.md)
