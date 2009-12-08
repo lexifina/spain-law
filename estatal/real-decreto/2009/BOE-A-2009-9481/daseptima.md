@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Ayuda mutua y utilización de la red del permiso de conducción de la Unión Europea.
+
+De conformidad con lo previsto en el artículo 15 de la Directiva 2006/126/CE, del Parlamento Europeo y del Consejo, de 20 de diciembre, se prestará ayuda y se intercambiará información con otros Estados miembros sobre los permisos de conducción expedidos, canjeados, sustituidos, renovados o anulados, por cualquiera de los cauces operativos en cada momento, hasta tanto la red del permiso de conducción de la Unión Europea entre en funcionamiento, desde cuyo momento se recurrirá a ella para intercambiar la citada información.
