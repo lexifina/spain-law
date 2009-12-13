@@ -1,6 +1,6 @@
 ## Artículo 62 bis. Derechos de los extranjeros internados.
 
-Los extranjeros sometidos a internamiento tienen los siguientes derechos:
+1. Los centros de internamiento de extranjeros son establecimientos públicos de carácter no penitenciario; el ingreso y estancia en los mismos tendrá únicamente finalidad preventiva y cautelar, salvaguardando los derechos y libertades reconocidos en el ordenamiento jurídico, sin más limitaciones que las establecidas a su libertad ambulatoria, conforme al contenido y finalidad de la medida judicial de ingreso acordada. En particular, el extranjero sometido a internamiento tiene los siguientes derechos:
 
 a) A ser informado de su situación.
 
@@ -19,5 +19,13 @@ g) A comunicarse en el horario establecido en el centro, con sus familiares, fun
 h) A ser asistido de intérprete si no comprende o no habla castellano y de forma gratuita, si careciese de medios económicos.
 
 i) A tener en su compañía a sus hijos menores, siempre que el Ministerio Fiscal informe favorablemente tal medida y existan en el centro módulos que garanticen la unidad e intimidad familiar.
+
+j) A entrar en contacto con organizaciones no gubernamentales y organismos nacionales, internacionales y no gubernamentales de protección de inmigrantes.
+
+2. Los centros dispondrán de servicios de asistencia social y sanitaria con dotación suficiente. Las condiciones para la prestación de estos servicios se desarrollarán reglamentariamente.
+
+3. Las organizaciones constituidas legalmente en España para la defensa de los inmigrantes y los organismos internacionales pertinentes podrán visitar los centros de internamiento; reglamentariamente se desarrollarán las condiciones de las mismas.
+
+> Se modifica por el art. único.66 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
 
 > Se añade por el art. 1.32 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
