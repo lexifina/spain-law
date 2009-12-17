@@ -1,3 +1,5 @@
-## Disposición final primera. Habilitación normativa.
+## Disposición final primera. Habilitación para el desarrollo reglamentario.
 
-Se faculta al Ministro de Trabajo y Asuntos Sociales y al Ministro de Justicia para que dicten, en el ámbito de sus competencias, las disposiciones necesarias para el cumplimiento de este real decreto.
+Se habilita a las personas titulares de los Ministerios de Sanidad y Política Social y de Justicia para dictar, en el ámbito de sus competencias, las disposiciones que sean necesarias para el cumplimiento de este real decreto.
+
+> Se modifica por el art. único.8 del Real Decreto 1853/2009, de 4 de diciembre. Ref. BOE-A-2009-20158.
