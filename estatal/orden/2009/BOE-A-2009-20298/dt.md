@@ -1,0 +1,5 @@
+## Disposición transitoria única. Diploma Militar en Investigación Operativa.
+
+1. A todas aquellas convocatorias para la obtención del Diploma en Investigación Militar Operativa, regulado en la Orden ministerial 31/1993, de 14 de abril, por la que regula la estructura, misiones y funcionamiento del Servicio de Investigación Operativa de las Fuerzas Armadas, que a la entrada en vigor de esta orden ministerial estuviesen en curso, les será de aplicación lo dispuesto en la citada orden y sus requisitos se considerarán válidos a todos los efectos del artículo 9 del reglamento aprobado por esta orden ministerial.
+
+2. Al personal que a la entrada en vigor de esta Orden ministerial estuviera realizando los trabajos para la obtención del Diploma en Investigación Militar Operativa, regulado por la Orden Ministerial 31/1993, de 14 de abril, le será de aplicación lo dispuesto en el apartado 9.1.b) de la citada orden y sus requisitos se considerarán válidos a todos los efectos del artículo 9 del reglamento aprobado por esta Orden ministerial.
