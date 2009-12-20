@@ -1,0 +1,3 @@
+## Disposición adicional primera. Organismos públicos.
+
+Los organismos públicos adscritos al Ministerio que, a la entrada en vigor de la presente orden, ya hubieran optado por utilizar el Registro Telemático del Ministerio de Cultura, conforme al procedimiento establecido en el artículo 2.1 segundo párrafo, de la Orden CUL/4229/2005, de 28 de diciembre, por la que se crea un registro telemático en el Ministerio de Cultura para la presentación de escritos, solicitudes y comunicaciones y se establecen los criterios generales de tramitación telemática de determinados procedimientos, se entenderán incluidos en el Registro Electrónico que se regula con la presente orden.
