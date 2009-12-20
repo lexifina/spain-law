@@ -1,0 +1,13 @@
+## Disposición transitoria cuarta. Aplicación del artículo 20.3 de la presente Ley en los años 2009 a 2013.
+
+La aplicación de las reglas generales de homogeneización para determinar la variación de los ITES entre el año base 2007 y los años 2009, 2010, 2011, 2012 y 2013 se concretará en los siguientes cálculos:
+
+a) Variación del ITE entre 2009 y el año base. Dado que los componentes de ambos años tanto en entregas a cuenta como en liquidaciones están calculados con los mismos términos de cesión, no se realizará ninguna simulación del año base.
+
+b) Variación del ITE entre 2010 y el año base. Dado que los componentes de ambos años tanto en entregas a cuenta como en liquidaciones están calculados con los mismos términos de cesión, no se realizará ninguna simulación del año base. En el año 2010 se imputarán al ITE los importes de la liquidación del año 2008 ingresados o pagados en efectivo o mediante compensación.
+
+c) Variación del ITE entre 2011 y el año base. Se procederá a simular la entrega a cuenta del año base en los términos de cesión correspondientes al año 2011. Respecto a la liquidación se computará en el año 2011 la liquidación de los recursos tributarios cedidos computables del año 2009, determinada con arreglo a la Ley 21/2001, de 27 de diciembre, que se ingrese o pague en efectivo o mediante compensación. Asimismo se computarán las liquidaciones negativas de 2008 de recursos computables aplazadas que se ingresen en efectivo o por compensación en 2011. En el año base se imputará la liquidación del año 2005 realmente producida.
+
+d) Variación del ITE entre 2012 y el año base. Como entregas a cuenta del año base se tomarán las simuladas en el apartado c). La liquidación del año 2010 a imputar en el ITE se determinará por diferencia entre el importe de los rendimientos definitivos conforme a la cesión correspondiente a 2010 y las entregas a cuenta que se efectuaron. Asimismo se computarán las liquidaciones negativas de 2008 y 2009 de recursos computables aplazadas que se ingresen en efectivo o por compensación en 2012. Respecto al año base la liquidación del 2005 se calculará por diferencia entre el rendimiento definitivo en los términos de cesión del año 2010 y las entregas realmente efectuadas en 2005.
+
+e) Variación del ITE entre 2013 y el año base. Como entregas a cuenta del año base se tomarán las simuladas en el apartado c). Se procederá a simular la liquidación del año 2005 como diferencia entre el rendimiento definitivo en los términos de cesión del año 2011 y las entregas a cuenta que se hubiera efectuado de acuerdo con dichos términos de cesión. Asimismo se computarán las liquidaciones negativas de 2008 y 2009 de recursos computables aplazadas que se ingresen en efectivo o por compensación en 2013.
