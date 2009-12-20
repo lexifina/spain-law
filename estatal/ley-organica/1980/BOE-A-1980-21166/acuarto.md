@@ -1,6 +1,6 @@
 ## Artículo 4.
 
-1. De conformidad con el apartado 1 del artículo 157 de la Constitución, y sin perjuicio de lo establecido en el resto del articulado, los recursos de las Comunidades Autónomas estarán constituidos por:
+Uno. De conformidad con el apartado 1 del artículo 157 de la Constitución, y sin perjuicio de lo establecido en el resto del articulado, los recursos de las Comunidades Autónomas estarán constituidos por:
 
 a) Los ingresos procedentes de su patrimonio y demás de derecho privado.
 
@@ -8,21 +8,27 @@ b) Sus propios impuestos, tasas y contribuciones especiales.
 
 c) Los tributos cedidos, total o parcialmente, por el Estado.
 
-d) Los recargos que pudieran establecerse sobre los tributos del Estado.
+d) La participación en el Fondo de Garantía de Servicios Públicos Fundamentales.
 
-e) Las participaciones en los ingresos del Estado.
+e) Los recargos que pudieran establecerse sobre los tributos del Estado.
 
-f) El producto de las operaciones de crédito.
+f) Las participaciones en los ingresos del Estado a través de los fondos y mecanismos que establezcan las leyes.
 
-g) El producto de las multas y sanciones en el ámbito de su competencia.
+g) El producto de las operaciones de crédito.
 
-h) Sus propios precios públicos.
+h) El producto de las multas y sanciones en el ámbito de su competencia.
 
-2. En su caso, las Comunidades Autónomas podrán obtener igualmente ingresos procedentes de:
+i) Sus propios precios públicos.
+
+Dos. En su caso, las Comunidades Autónomas podrán obtener igualmente ingresos procedentes de:
 
 a) Las asignaciones que se establezcan en los Presupuestos Generales del Estado, de acuerdo con lo dispuesto en la presente Ley.
 
 b) Las transferencias de los Fondos de Compensación Interterritorial, cuyos recursos tienen el carácter de carga general del Estado a los efectos previstos en los artículos 2, 138 y 158 de la Constitución.
+
+> Se modifica el apartado 1 por el art. único.2 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+
+> Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
 
 > Se modifica el apartado 2 por el art. 4.1 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
 

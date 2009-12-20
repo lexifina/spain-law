@@ -1,15 +1,19 @@
 ## Artículo 20.
 
-1. El conocimiento de las reclamaciones interpuestas contra los actos dictados por las respectivas Administraciones en materia tributaria, tanto si en ellas se suscitan cuestiones de hecho como de derecho, corresponderá:
+Uno. El conocimiento de las reclamaciones interpuestas contra los actos dictados por las Comunidades Autónomas y por las Ciudades con Estatuto de Autonomía en relación con sus tributos propios corresponderá a sus propios órganos económico-administrativos.
 
-a) Cuando se trate de tributos propios de las Comunidades Autónomas, a sus propios órganos económico-administrativos.
+Dos. Cuando así se establezca en la correspondiente ley del Estado, y en relación con los tributos estatales, la competencia para el ejercicio de la función revisora en vía administrativa de los actos dictados por las Comunidades Autónomas y por las Ciudades con Estatuto de Autonomía podrá corresponder a las mismas, sin perjuicio de la colaboración que pueda establecerse con la Administración Tributaria del Estado.
 
-b) Cuando se trate de tributos cedidos, a los órganos económico-administrativos del Estado.
+Tres. Dicha competencia podrá efectuarse en los términos establecidos por la ley en la que se fije el alcance y condiciones de la cesión de tributos por parte del Estado.
 
-c) Cuando se trate de recargos establecidos sobre tributos del Estado, a los órganos económico-administrativos del mismo.
+Sin perjuicio del ejercicio de esta competencia, entre el Estado y las Comunidades Autónomas y Ciudades con Estatuto de Autonomía podrán establecerse fórmulas de colaboración específica en orden al ejercicio de la citada función revisora, cuando la naturaleza del tributo así lo aconseje, acordando los mecanismos de cooperación que sean precisos para su adecuado ejercicio.
 
-2. Lo dispuesto en las letras b) y c) del apartado 1 anterior se entenderá sin perjuicio de la participación de las Comunidades Autónomas en los Tribunales Económico-Administrativos Regionales del Estado.
+Cuatro. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de las competencias atribuidas en exclusiva al Estado en el artículo 149.1. 1.ª, 8.ª, 14.ª y 18.ª de la Constitución Española en relación con el establecimiento de los principios y normas jurídicas generales, sustantivas y de procedimiento, del sistema tributario español, contenidas en las disposiciones tributarias de Estado y, específicamente, en la Ley 58/2003, de 17 de diciembre, General Tributaria y su normativa de desarrollo, aplicables a y por todas las Administraciones tributarias.
 
-3. Las resoluciones de los órganos económico-administrativos, tanto del Estado como de las Comunidades Autónomas, podrán ser en todo caso objeto de recurso contencioso-administrativo, en los términos establecidos por la normativa reguladora de esta jurisdicción.
+Cinco. La función unificadora de criterio en los tributos estatales corresponde a la Administración Tributaria del Estado que la ejercerá conforme a lo dispuesto en la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+> Se modifica por el art. único.9 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+
+> Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
 
 > Se modifica por el art. 5 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961

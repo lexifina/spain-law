@@ -1,16 +1,16 @@
 ## Artículo 15.
 
-1. El Estado garantizará en todo el territorio español el nivel mínimo de los servicios públicos fundamentales de su competencia.
+Uno. El Estado garantizará en todo el territorio español el nivel mínimo de los servicios públicos fundamentales de su competencia.
 
-A efectos de este artículo se considerarán servicios públicos fundamentales la educación y la sanidad.
+A efectos de este artículo se considerarán servicios públicos fundamentales la educación, la sanidad y los servicios sociales esenciales.
 
-2. Cuando una Comunidad Autónoma, con la utilización de los recursos financieros regulados en los artículos 11 y 13 de la presente Ley Orgánica, no llegara a cubrir el nivel mínimo de la prestación del conjunto de los servicios públicos fundamentales que haya asumido, se establecerá, a través de los Presupuestos Generales del Estado, previo el correspondiente estudio y con especificación de su destino, una asignación complementaria cuya finalidad será la de garantizar el nivel de dicha prestación en los términos que señala el artículo 158.1 de la Constitución.
+Se considerará que no se llega a cubrir el nivel de prestación de los servicios públicos al que hace referencia este apartado, cuando su cobertura se desvíe del nivel medio de los mismos en el territorio nacional.
 
-3. Se considerará que no se llega a cubrir el nivel mínimo de prestación de los servicios públicos a los que hacen referencia los apartados anteriores, cuando su cobertura se desvíe, en la cuantía que disponga la ley del nivel medio de los mismos en el territorio nacional.
+Dos. En cumplimiento del artículo 158.1 de la Constitución y dando satisfacción a lo dispuesto en el apartado anterior, el Fondo de Garantía de Servicios Públicos Fundamentales tendrá por objeto garantizar que cada Comunidad recibe, en los términos fijados por la Ley, los mismos recursos por habitante, ajustados en función de sus necesidades diferenciales, para financiar los servicios públicos fundamentales, garantizando la cobertura del nivel mínimo de los servicios fundamentales en todo el territorio. Participarán en la constitución del mismo las Comunidades Autónomas con un porcentaje de sus tributos cedidos, en términos normativos, y el Estado con su aportación, en los porcentajes y cuantías que marque la Ley.
 
-4. Si estas asignaciones en favor de las Comunidades Autónomas hubieren de reiterarse en un espacio de tiempo inferior a cinco años, el Gobierno propondrá, previa deliberación del Consejo de Política Fiscal y Financiera, a las Cortes Generales la corrección del Fondo de suficiencia establecido en el artículo 13 de la presente Ley Orgánica.
+> Se modifica por el art. único.6 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
 
-5. Cada Comunidad Autónoma deberá dar cuenta anualmente a las Cortes Generales de la utilización que ha efectuado de las asignaciones presupuestarias percibidas y del nivel de prestación alcanzado en los servicios con ellas financiados.
+> Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
 
 > Se modifica por el art. 3 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
 

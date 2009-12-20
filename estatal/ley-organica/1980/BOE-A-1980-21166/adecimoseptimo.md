@@ -4,14 +4,20 @@ Las Comunidades Autónomas regularán por sus órganos competentes, de acuerdo c
 
 a) La elaboración, examen, aprobación y control de sus presupuestos.
 
-B) El establecimiento y la modificación, de sus propios impuestos, tasas y contribuciones especiales, así como de sus elementos directamente determinantes de la cuantía de la deuda tributaria.
+b) El establecimiento y la modificación de sus propios impuestos, tasas y contribuciones especiales, así como de sus elementos directamente determinantes de la cuantía de la deuda tributaria.
 
-c) El establecimiento y la modificación de los recargos sobre los impuestos del Estado.
+c) El ejercicio de las competencias normativas establecidas por la Ley reguladora de la cesión de tributos.
 
-d) Las operaciones de crédito concertadas por la Comunidad Autónoma, sin perjuicio de lo establecido en el artículo quince de la presente Ley.
+d) El establecimiento y la modificación de los recargos sobre los tributos del Estado.
 
-e) El régimen jurídico del patrimonio de las Comunidades Autónomas en el marco de la legislación básica del Estado.
+e) Las operaciones de crédito concertadas por la Comunidad Autónoma, sin perjuicio de lo establecido en el artículo decimocuarto de la presente Ley.
 
-f) Los Reglamentos Generales de sus propios tributos.
+f) El régimen jurídico del patrimonio de las Comunidades Autónomas en el marco de la legislación básica del Estado.
 
-g) Las demás funciones o competencias que le atribuyan las Leyes.
+g) Los Reglamentos Generales de sus propios tributos.
+
+h) Las demás funciones o competencias que le atribuyan las Leyes.
+
+> Se modifica por el art. único.7 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+
+> Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
