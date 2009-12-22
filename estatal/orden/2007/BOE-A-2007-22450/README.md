@@ -14,5 +14,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Primero](primero.md)
 - [Segundo](segundo.md)
 - [Tercero](tercero.md)
+- [Disposición transitoria primera](dt.md)
+- [Disposición transitoria segunda](dt-2.md)
 - [firma](firma.md)
 - [ANEXO](an.md)
