@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Notificación a la Comisión Europea.
+
+El órgano administrativo competente comunicará al Ministerio de Asuntos Exteriores y de Cooperación, antes de su aprobación y en los términos y por los cauces que se establezcan reglamentariamente, cualquier proyecto de norma legal o reglamentaria en el que se prevean requisitos del artículo 11.1 de esta Ley, incorporando una memoria justificativa en la que se motive su compatibilidad con los criterios del artículo 11.2, o requisitos del artículo 12.2, incorporando una memoria justificativa en la que se motive su compatibilidad con los criterios del artículo 12.3, para su posterior notificación a la Comisión Europea.
