@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1977. Ref. BOE-A-1977-26395
+Este Reglamento pasa a denominarse "Reglamento de la Oficina de Interpretación de Lenguas del Ministerio de Asuntos Exteriores y de Cooperación", según establece el art. único.1 del Real Decreto 2002/2009, de 23 de diciembre. Ref. BOE-A-2009-20767
