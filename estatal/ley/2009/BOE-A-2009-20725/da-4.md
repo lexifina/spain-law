@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Aplicación de los requisitos previstos para el silencio administrativo desestimatorio regulado en normas preexistentes.
+
+A los efectos previstos en el primer párrafo del artículo 43.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, de acuerdo con la redacción dada por la presente Ley, se entenderá que concurren razones imperiosas de interés general en aquéllos procedimientos que, habiendo sido regulados con anterioridad a la entrada en vigor de esta Ley por normas con rango de ley o de Derecho comunitario, prevean efectos desestimatorios a la falta de notificación de la resolución expresa del procedimiento en el plazo previsto.

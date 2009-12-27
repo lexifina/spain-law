@@ -54,11 +54,13 @@ Servicios complementarios: son servicios complementarios, aquellos que el admini
 
 a) La corriente de tracción.
 
-b) El precalentamiento de trenes de viajeros.
+b) El suministro de combustible.
 
-c) El suministro de combustible, servicio de maniobras y cualquier otro suministrado en las instalaciones de los servicios de acceso.
+c) El precalentamiento de trenes de viajeros.
 
-d) Los específicos para control del transporte de mercancías peligrosas y para la asistencia a la circulación de convoyes especiales.
+d) El de maniobras y cualquier otro relacionado con las operaciones sobre el material ferroviario prestado en las instalaciones de mantenimiento, reparación, suministro y terminales de carga y estaciones de clasificación.
+
+e) Los específicos para control del transporte de mercancías peligrosas y para la asistencia a la circulación de convoyes especiales.
 
 Servicios auxiliares: son servicios auxiliares, los que las empresas ferroviarias pueden solicitar al administrador de infraestructuras ferroviarias u otros prestadores.
 
@@ -71,3 +73,5 @@ a) El acceso a la red de telecomunicación.
 b) El suministro de información complementaria.
 
 c) La inspección técnica del material rodante.
+
+> Se modifica por el art. 24.6 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725

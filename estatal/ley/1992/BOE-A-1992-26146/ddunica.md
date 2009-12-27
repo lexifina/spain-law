@@ -1,6 +1,6 @@
 ## Disposición derogatoria única.
 
-1. Quedan derogados, en lo que se opongan a la presente Ley y, en todo caso, no serán de aplicación en el ámbito de los puertos que dependen del Estado los puntos siguientes de la Ley General de Obras Públicas, de 13 de abril de 1877: La referencia «los puertos» del párrafo 2.º del artículo 1.º; los puntos 3.º y 4.º del artículo 4.º, el punto 2.º del artículo 5.º; el punto 4.º del artículo 6.º; el punto 2.º del artículo 7.º; los puntos 6.º y 7.º del artículo 8.º, y el punto 4.º del artículo 11 y las referencias a puertos del artículo 125. El resto de las disposiciones de la mencionada Ley se entenderá que no es de aplicación en las zonas de servicio de los puertos que dependen del Estado.
+1. Quedan derogados, en lo que se opongan a la presente Ley y, en todo caso, no serán de aplicación en el ámbito de los puertos que dependen del Estado los puntos siguientes de la Ley General de Obras Públicas, de 13 de abril de 1877: La referencia «los puertos» del párrafo 2.º del artículo 1.º; los puntos 3º y 4º del artículo 4º, el punto 2º del artículo 5.º; el punto 4.º del artículo 6.º; el punto 2.º del artículo 7.º; los puntos 6.º y 7.º del artículo 8.º, y el punto 4.º del artículo 11 y las referencias a puertos del artículo 125. El resto de las disposiciones de la mencionada Ley se entenderá que no es de aplicación en las zonas de servicio de los puertos que dependen del Estado.
 
 2. Quedan derogadas las siguientes disposiciones:
 
@@ -44,4 +44,8 @@ r) Real Decreto-ley 13/1980, de 3 de octubre, sobre supresión y reordenación d
 
 s) Ley 18/1985, de 1 de julio, por la que se modifica la Ley 1/1966, de 28 de enero, sobre régimen financiero de los puertos españoles.
 
+t) El artículo 609 del Código de Comercio en cuanto a la exigencia de la nacionalidad española para el ejercicio de la profesión de Capitán, así como cualesquiera otras normas de similar carácter.
+
 Quedan, asimismo, derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley.
+
+> Se añade el apartado 2.t) por el art. 23.3 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725

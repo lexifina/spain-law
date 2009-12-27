@@ -18,8 +18,14 @@ Lo dispuesto en este apartado se entiende sin perjuicio de la legislación auton
 
 Tales iniciativas pueden llevar incorporada una propuesta de consulta popular local, que será tramitada en tal caso por el procedimiento y con los requisitos previstos en el artículo 71.
 
-3. Asimismo, las entidades locales y, especialmente, los municipios, deberán impulsar la utilización interactiva de las tecnologías de la información y la comunicación para facilitar la participación y la comunicación con los vecinos, para la presentación de documentos y para la realización de trámites administrativos, de encuestas y, en su caso, de consultas ciudadanas.
+3. Asimismo, las Entidades Locales y, especialmente, los municipios, deberán impulsar la utilización interactiva de las tecnologías de la información y la comunicación para facilitar la participación y la comunicación con los vecinos, para la presentación de documentos y para la realización de trámites administrativos, de encuestas y, en su caso, de consultas ciudadanas.
 
 Las Diputaciones provinciales, Cabildos y Consejos insulares colaborarán con los municipios que, por su insuficiente capacidad económica y de gestión, no puedan desarrollar en grado suficiente el deber establecido en este apartado.
+
+4. Cuando se trate de procedimientos y trámites relativos a una actividad de servicios y a su ejercicio incluida en el ámbito de aplicación de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, los prestadores podrán realizarlos, por medio de una ventanilla única, por vía electrónica y a distancia, salvo que se trate de la inspección del lugar o del equipo que se utiliza en la prestación del servicio.
+
+Asimismo, las Entidades Locales garantizarán, dentro del ámbito de sus competencias, que los prestadores de servicios puedan a través de la ventanilla única obtener la información y formularios necesarios para el acceso a una actividad y su ejercicio, y conocer las resoluciones y resto de comunicaciones de las autoridades competentes en relación con sus solicitudes. Las Entidades Locales impulsarán la coordinación para la normalización de los formularios necesarios para el acceso a una actividad y su ejercicio.
+
+> Se añade el apartado 4 por el art. 1.1 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
 
 > Se añade por el art. 1.3 de la Ley 57/2003, de 16 de diciembre. Ref. BOE-A-2003-23103

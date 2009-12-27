@@ -10,7 +10,7 @@ a) Utilizar unidades de medida no autorizadas con arreglo a las disposiciones de
 
 b) Eludir los controles metrológicos y mediciones establecidos en esta Ley y en las normas reglamentarias de desarrollo de la misma.
 
-c) Incumplir las obligaciones relacionadas con la inscripción en el Registro de Control Metrológico.
+c) Incumplir las obligaciones relacionadas con la presentación de la declaración responsable en el Registro de Control Metrológico.
 
 d) Negarse u obstruir la acción inspectora del personal que haya de practicar actuaciones de control metrológico.
 
@@ -25,5 +25,7 @@ d) Negarse u obstruir la acción inspectora del personal que haya de practicar a
 8. Las resoluciones administrativas sancionadoras podrán acordar igualmente el comiso de los aparatos e instrumentos.
 
 9. La imposición de las sanciones administrativas se ajustará al procedimiento establecido en el Título VI, Capítulo II de la Ley de Procedimiento Administrativo.
+
+> Se modifica el apartado 3.c) por el art. 11.3 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
 
 > Se convierten a euros las cuantías contempladas en los apartados 5 y 6 por el anexo de la Resolución de 12 de diciembre de 2001. Ref. BOE-A-2001-25009

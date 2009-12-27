@@ -54,11 +54,11 @@ Seis. De las dotaciones de los buques.
 
 La dotación de los buques inscritos en el Registro especial deberá reunir las siguientes características:
 
-a) Nacionalidad: El Capitán y el primer Oficial de los buques deberán tener, en todo caso, la nacionalidad española.
+a)Nacionalidad: El Capitán y el primer Oficial de los buques deberán tener, en todo caso, la nacionalidad de un Estado miembro de la Unión Europea o del Espacio Económico Europeo, salvo en los supuestos en que se establezca, por la Administración Marítima, que estos empleos han de ser desempeñados por ciudadanos de nacionalidad española por implicar el ejercicio efectivo de forma habitual de prerrogativas de poder público que no representen una parte muy reducida de sus actividades.
 
-El resto de la dotación deberá ser de nacionalidad española o de algún otro Estado miembro de la Comunidad Europea, al menos, en un 50 por 100.
+El resto de la dotación deberá ser de nacionalidad española o de algún otro Estado miembro de la Unión Europea o del Espacio Económico Europeo al menos, en su 50 por ciento.
 
-No obstante lo anterior, cuando no haya disponibilidad de tripulantes de nacionalidad española o de algún otro Estado miembro de la Comunidad Europea, cuando medien razones de viabilidad económica del servicio de transporte, o por cualquier otra causa que pudiera tener una incidencia fundamental en la existencia del servicio, el Ministerio de Obras Públicas y Transportes podrá autorizar a las Empresas solicitantes el empleo de tripulantes no nacionales de los Estados miembros de la Comunidad Europea en proporción superior a la expresada anteriormente, siempre que quede garantizada la seguridad del buque y la navegación.
+No obstante lo anterior, cuando no haya disponibilidad de tripulantes de nacionalidad española o de algún otro Estado miembro de la Unión Europea o del Espacio Económico Europeo, cuando medien razones de viabilidad económica del servicio de transporte, o por cualquier otra causa que pudiera tener una incidencia fundamental en la existencia del servicio, el Ministerio de Fomento podrá autorizar a las Empresas solicitantes el empleo de tripulantes no nacionales de los Estados miembros de la Unión Europea o del Espacio Económico Europeo en proporción superior a la expresada anteriormente, siempre que quede garantizada la seguridad del buque y la navegación, teniendo en cuenta las formalidades establecidas en la normativa española vigente en materia de extranjería e inmigración.
 
 b) Composición mínima: A instancia de la Empresa naviera, que en todo caso deberá acompañar la solicitud de inscripción del buque en el Registro, el Ministerio de Obras Públicas y Transportes fijará, antes de que se formalice la matrícula del buque en el mencionado Registro, la tripulación mínima del mismo, en función del tipo del buque, de su grado de automatización y del tráfico a que esté destinado, ajustándose al mínimo compatible con la seguridad del buque y de la navegación y a los compromisos internacionales asumidos por España. A estos efectos se determinarán las homologaciones profesionales precisas para cubrir los puestos que requieran una especial cualificación técnica y se tendrá en cuenta la posible polivalencia funcional de las tripulaciones derivadas de una adecuada cualificación de las mismas.
 
@@ -69,6 +69,8 @@ Las condiciones laborales y de Seguridad Social de los trabajadores no nacionale
 Ocho. Normativa aplicable en materia de jornada laboral y descansos.
 
 En materia de jornada laboral y descansos, los buques inscritos en el Registro Especial se regirán por lo dispuesto en la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto legislativo 1/1995, de 24 de marzo, y en la normativa sectorial específica, constituida por el Real Decreto 1561/1995, de 21 de septiembre, sobre jornadas especiales de trabajo, o la norma que lo sustituya, con excepción de lo dispuesto en el apartado 2 del artículo 35 del Estatuto de los Trabajadores, que no será de aplicación.
+
+> Se modifica el apartado 6.a) por el art. 23.2 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
 
 > Se modifican los apartados 4.1 y 4.2.a) y c) por el art. 99 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
 

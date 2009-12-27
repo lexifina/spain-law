@@ -8,4 +8,6 @@ Hasta el 31 de diciembre de 2009 se aplicarán las reglas siguientes a los ingre
 
 3.ª La aportación a realizar en 2009 por las sociedades concesionarias y prestadoras del servicio de televisión de ámbito geográfico estatal o superior al de una Comunidad Autónoma se calculará dividiendo por 365 el importe anual en 2009 de los ingresos brutos de explotación a que se refiere el artículo 6, multiplicándose el resultado obtenido por el número de días de vigencia de la presente ley en el referido ejercicio y aplicando al nuevo resultado el porcentaje del 3% o el 1,5%, según corresponda.
 
-4.ª En julio de 2010 deberán realizarse los pagos a cuenta de las aportaciones reguladas en los artículos 5 y 6 correspondientes a dicho ejercicio.
+4.ª (Suprimido).
+
+> Se suprime el apartado 4 por la disposición final 4 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725

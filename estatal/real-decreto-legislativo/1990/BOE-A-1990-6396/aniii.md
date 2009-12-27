@@ -16,7 +16,7 @@ b) Los cursos de sensibilización y reeducación vial para aquellos conductores 
 
 3. Contenido de los cursos.-El contenido de los cursos de sensibilización y reeducación vial versará, principalmente, sobre aquellas materias relacionadas con los accidentes de tráfico, sus causas, consecuencias y los comportamientos adecuados para evitarlos.
 
-4. Centros de reeducación vial.-La adjudicación de estos cursos se realizará mediante concesión administrativa, de acuerdo con lo establecido en la legislación de contratos de las Administraciones Públicas.
+> Se suprime el apartado 4 por el art. 22.3 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
 
 > Se añade por el art. único.27 de la Ley 17/2005, de 19 de julio. Ref. BOE-A-2005-12458
 

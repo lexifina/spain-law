@@ -2,4 +2,6 @@
 
 1. Se autoriza al Consejo de Ministros para dictar cuantas disposiciones de aplicación y desarrollo de la presente Ley sean necesarias.
 
-2. Se autoriza en particular al Consejo de Ministros para que, oídas las respectivas organizaciones colegiales, regule mediante real decreto el ejercicio profesional en el seno de las sociedades que tengan por objeto el ejercicio de varias actividades profesionales y el régimen de incompatibilidades que sea aplicable a las sociedades profesionales y a los profesionales que en ellas desarrollen su actividad
+2. También se autoriza al Consejo de Ministros para dictar las disposiciones reglamentarias que sean precisas para adaptar la normativa sobre establecimiento o ejercicio de profesionales comunitarios a la naturaleza societaria del prestador de los servicios.
+
+> Se modifica por el art. 6.5 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725

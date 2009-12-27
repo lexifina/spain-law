@@ -18,4 +18,6 @@ Los preceptos de la Ley 17/2006, de 5 de junio, que a continuación se relaciona
 
 «Si al cierre de un ejercicio se constata que la compensación supera el coste neto incurrido en tal periodo, el montante en exceso se destinará a dotar el fondo de reserva en los términos establecidos en el artículo 8 de la Ley 8/2009, de 28 de agosto, de financiación de la Corporación RTVE y el remanente, si lo hubiere, minorará las cantidades asignadas en los Presupuestos Generales del Estado para el ejercicio siguiente a aquel en que se haya producido tal exceso.»
 
-5. Se entenderán referidas a las autopromociones y a la publicidad institucional las referencias a las competencias en materia de publicidad que se contienen en el artículo 20, apartado 2, letra c) y en el artículo 23, apartado 3, letra c).
+5. (Suprimido).
+
+> Se suprime el apartado 5 por la disposición final 4 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725

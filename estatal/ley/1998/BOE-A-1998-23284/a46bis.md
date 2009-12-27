@@ -24,8 +24,6 @@ c) La adecuación del emplazamiento de la instalación al régimen de ordenació
 
 d) Su capacidad legal, técnica y económico-financiera para la realización del proyecto.
 
-e) Los solicitantes deberán revestir la forma de sociedad mercantil de nacionalidad española o, en su caso, de otro Estado miembro de la Unión Europea con establecimiento permanente en España.
-
 5. Las autorizaciones a que se refiere el apartado 1 de este artículo serán otorgadas por la Administración competente, sin perjuicio de las concesiones y autorizaciones que sean necesarias, de acuerdo con otras disposiciones que resulten aplicables, la correspondiente legislación sectorial y, en especial, las relativas a la ordenación del territorio y al medio ambiente, valorándose la conveniencia de diseñar y construir las instalaciones compatibles para la distribución de gas natural.
 
 El procedimiento de autorización incluirá el trámite de información pública y la forma de resolución en el supuesto de concurrencia de dos o más solicitudes de autorización.
@@ -45,5 +43,7 @@ La Administración competente denegará la autorización cuando no se cumplan lo
 9. Reglamentariamente, se regularán las obligaciones y derechos de los titulares de las instalaciones, así como las de los consumidores y comercializadores de GLP a granel. Asimismo, se definirá el contenido mínimo de los contratos entre los usuarios y los propietarios de las instalaciones.
 
 10. El titular de instalaciones o en su caso los usuarios, serán responsables de que sus instalaciones cumplan las condiciones técnicas y de seguridad que reglamentariamente resulten exigibles así como de su correcto mantenimiento.
+
+> Se suprime la letra e) del apartado 4 por el art. 19.5 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
 
 > Se añade por el art. único.5 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
