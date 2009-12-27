@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 62, de 13 de marzo de 2000. Ref. BOE-A-2000-4785.
+Esta norma pasa a denominarse "Real Decreto 1971/1999, de 23 de diciembre, de procedimiento para el reconocimiento, declaración y calificación del grado de discapacidad", según establece el art. único.1 del Real Decreto 1856/2009, de 4 de diciembre. Ref. BOE-A-2009-20891.
