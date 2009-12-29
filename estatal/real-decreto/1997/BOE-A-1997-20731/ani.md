@@ -18,11 +18,11 @@ Observaciones preliminares
 
 Cuando exista el riesgo correspondiente y no se contemple en el presente anexo, se aplicarán los requisitos esenciales de seguridad y salud del anexo I del Real Decreto 1435/1992, de 17 de noviembre, por el que se dictan las disposiciones de aplicación de la Directiva 89/392/CEE, sobre Máquinas, modificado por el Real Decreto 56/1995, de 20 de enero. En todos los casos será de aplicación el requisito esencial del apartado 1.1.2 del anexo I de dicho Real Decreto.
 
-1.2 Cabina.
+1.2 Habitáculo.
 
-La cabina deberá estar diseñada y fabricada de forma que su espacio y resistencia correspondan al número máximo de personas y a la carga nominal del ascensor fijados por el instalador.
+El habitáculo de cada ascensor será una cabina. Esta cabina deberá estar diseñada y fabricada de forma que su espacio y resistencia correspondan al número máximo de personas y a la carga nominal del ascensor fijados por el instalador.
 
-Cuando el ascensor se destine al transporte de personas y sus dimensiones lo permitan, la cabina estará diseñada y fabricada de forma que, por sus características estructurales, no dificulte o impida el acceso a la misma o su utilización por los minusválidos, y permita toda adaptación destinada a facilitar su utilización por estas personas.
+Cuando el ascensor se destine al transporte de personas y sus dimensiones lo permitan, la cabina estará diseñada y fabricada de forma que, por sus características estructurales, no dificulte o impida el acceso a la misma o su utilización por las personas con discapacidades, y permita cualquier adaptación destinada a facilitar su utilización por estas personas.
 
 1.3 Elementos de suspensión y elementos de sustentanción.
 
@@ -114,7 +114,7 @@ Este requisito no se aplicará a los ascensores cuya cabina, debido al diseño d
 
 4.9 Los medios de comunicación previstos en el apartado 4.5 y la iluminación de socorro prevista en el apartado 4.8 deberán diseñarse y fabricarse de manera que funcionen incluso cuando falte por completo el suministro normal de energía. Su tiempo de funcionamiento deberá ser suficiente para permitir la intervención normal de los servicios de socorro.
 
-4.10 El circuito de mando de tos ascensores utilizables en caso de incendio deberá diseñarse y fabricarse de modo que pueda condenarse el servicio de determinados niveles y permitir un control prioritario del ascensor por parte de los equipos de socorro.
+4.10 El circuito de mando de los ascensores utilizables en caso de incendio deberá diseñarse y fabricarse de modo que pueda condenarse el servicio de determinados niveles y permitir un control prioritario del ascensor por parte de los equipos de socorro.
 
 5. Marcado
 
@@ -127,3 +127,5 @@ Este requisito no se aplicará a los ascensores cuya cabina, debido al diseño d
 6.1 Los componentes de seguridad citados en el anexo IV irán acompañados de un manual de instrucciones redactado en una lengua oficial del Estado miembro del instalador del ascensor o en otra lengua comunitaria aceptada por éste, de forma que: el montaje, la conexión, el ajuste, el mantenimiento, pueda efectuarse eficazmente y sin peligro.
 
 6.2 Cada ascensor irá acompañado de una documentación redactada en la lengua o lenguas oficiales de la Comunidad, las cuales podrán ser determinadas, de conformidad con el Tratado, por el Estado miembro en que se instale el ascensor. Dicha documentación constará como mínimo: de un manual de instrucciones que contenga los planos y esquemas necesarios para el uso corriente, así como los necesarios para el mantenimiento, la inspección, la reparación, las revisiones periódicas y las operaciones de socorro citadas en el apartado 4.4; de un cuaderno de incidencias, en el que se podrán anotar las reparaciones y, en su caso, las revisiones periódicas.
+
+> Se modifica el apartado 1.2 por la disposición final 1.3 del Real Decreto 1644/2008, de 10 de octubre. Ref. BOE-A-2008-16387.
