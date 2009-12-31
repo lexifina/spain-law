@@ -1,5 +1,5 @@
-## Disposición adicional séptima. Viviendas de protección oficial de Régimen Especial.
+## Disposición adicional octava. Aplicación de medidas del Plan a actuaciones protegidas de planes anteriores.
 
-1. A los efectos establecidos en el artículo 91.dos.1.6.º de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, o de los impuestos que se aplican en lugar de aquél, en el caso de la Comunidad Autónoma de Canarias y de las ciudades de Ceuta y Melilla, se incluyen bajo la denominación de viviendas de protección oficial de régimen especial, las viviendas de nueva construcción, o procedentes de la rehabilitación, así calificadas y destinadas exclusivamente a familias o personas cuyos ingresos familiares no excedan de 2,5 veces el IPREM siempre que su precio máximo de venta por metro cuadrado de superficie útil no exceda de 1,50 veces el MBE.
+La posibilidad de recalificación y financiación a que se refiere el apartado 3 del artículo 30 de este Real Decreto, será aplicable a promociones de viviendas protegidas o a parte de dichas promociones, incluso las procedentes de planes estatales de vivienda anteriores. Estas viviendas se computarán como objetivos financiados en el Plan Estatal de Vivienda y Rehabilitación 2009-2012.
 
-2. Se considerarán asimismo viviendas de protección oficial de Régimen Especial, a los efectos de la Ley mencionada en el apartado anterior, las viviendas calificadas, en el marco de este Real Decreto, como protegidas para venta de régimen especial, y las protegidas para arrendamiento, de régimen especial y general.
+> Se añade por el art. 2 del Real Decreto 1961/2009, de 18 de diciembre. Ref. BOE-A-2009-21131
