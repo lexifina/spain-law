@@ -4,6 +4,8 @@ Con el fin de agilizar y simplificar los trámites necesarios para proceder al r
 
 Asimismo, se faculta a los titulares de los órganos competentes para el reconocimiento y abono de las prestaciones satisfechas con cargo a los créditos de la Sección 07 del Presupuesto del Gasto del Estado, para que establezcan, mediante resolución, las normas que resulten necesarias en orden a una mayor agilización y simplificación de los trámites administrativos correspondientes.
 
+> Se prorroga la facultad conferida en esta disposición durante 2010, según establece la disposición final 9 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765#novena-2
+
 > Se prorroga la facultad conferida en esta disposición durante 2009, según establece la disposición final 17 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744#decimoseptima-2
 
 > Se prorroga la facultad conferida en esta disposición durante 2008, según establece la disposición final 17 de la lo indicado de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295#dfdecimoseptima
