@@ -2,7 +2,7 @@
 
 1. En el convenio especial a que se refiere el artículo 51.15 del texto refundido de la Ley del Estatuto de los Trabajadores, las cotizaciones abarcarán el periodo comprendido entre la fecha en que se produzca el cese en el trabajo o, en su caso, en que cese la obligación de cotizar por extinción de la prestación por desempleo contributivo, y la fecha en la que el trabajador cumpla los 65 años, en los términos establecidos en los apartados siguientes.
 
-2. A tal efecto, las cotizaciones por el referido período se determinarán aplicando al promedio de las bases de cotización del trabajador en los últimos seis meses de ocupación cotizada el tipo de cotización previsto en la normativa reguladora del convenio especial. De la cantidad resultante se deducirá la cotización, a cargo del Servicio Público de Empleo Estatal, correspondiente al periodo en el que el trabajador pueda tener derecho a la percepción del subsidio de desempleo, cuando corresponda cotizar por la contingencia de jubilación, calculándola en función de la base y tipo aplicable en la fecha de suscripción del convenio especial.
+2. A tal efecto, las cotizaciones por el referido período se determinarán aplicando al promedio de las bases de cotización del trabajador, en los últimos seis meses de ocupación cotizada, el tipo de cotización previsto en la normativa reguladora del convenio especial. De la cantidad resultante se deducirá la cotización, a cargo del Servicio Público de Empleo Estatal, correspondiente al periodo en el que el trabajador pueda tener derecho a la percepción del subsidio de desempleo, cuando corresponda cotizar por la contingencia de jubilación, calculándola en función de la base y tipo aplicable en la fecha de suscripción del convenio especial.
 
 Hasta la fecha de cumplimiento por parte del trabajador de la edad de 61 años, las cotizaciones serán a cargo del empresario y se ingresarán en la Tesorería General de la Seguridad Social, bien de una sola vez, dentro del mes siguiente al de la notificación por parte del citado Servicio Común de la cantidad a ingresar, bien de manera fraccionada garantizando el importe pendiente mediante aval solidario o a través de la sustitución del empresario en el cumplimiento de la obligación por parte de una entidad financiera o aseguradora, previo consentimiento de la Tesorería General de la Seguridad Social, en los términos que establezca el Ministerio de Trabajo e Inmigración.
 
@@ -17,6 +17,10 @@ A partir del cumplimiento por parte del trabajador de la edad de 61 años las ap
 A tal efecto, el hecho causante del reintegro tendrá lugar en la fecha del fallecimiento del trabajador o en aquella en la que éste hubiera causado pensión de incapacidad permanente para los supuestos previstos en el apartado 3, y en la fecha en que el trabajador hubiera causado pensión de jubilación, para el supuesto previsto en el apartado 4.
 
 6. En lo no previsto en los apartados precedentes, este convenio especial se regirá por lo dispuesto en las normas reglamentarias reguladoras del convenio especial en el sistema de la Seguridad Social.
+
+> Se modifica por el art. 2 de la Ley 27/2009, de 30 de diciembre. Ref. BOE-A-2009-21160.
+
+> Téngase en cuenta que esta modificación ya estaba realizada por el Real Decreto-Ley 2/2009, de 6 de marzo.
 
 > Se modifica por el art. 2 del Real Decreto-Ley 2/2009, de 6 de marzo. Ref. BOE-A-2009-3903.
 
