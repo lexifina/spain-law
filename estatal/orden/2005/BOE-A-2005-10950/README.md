@@ -17,6 +17,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Cuarto](cu.md)
 - [Quinto](qu.md)
 - [Sexto](se-2.md)
+- [Séptimo](se-3.md)
+- [Octavo](oc.md)
 - [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](da-2.md)
 - [Disposición derogatoria única](dd.md)
