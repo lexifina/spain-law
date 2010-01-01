@@ -4,25 +4,49 @@
 
 Los métodos de actualización de tarifas y complementos retributivos que se muestran en este anexo se basan en las variaciones de los índices de precios de combustibles (en adelante IComb) y la variación del IPC.
 
-Para el caso del subgrupo a.1.1 se tomará como IComb el índice del precio del gas natural «IGNn» siendo éste el valor medio durante el trimestre natural «n» del precio de venta de gas natural aplicado por los comercializadores a sus clientes cogeneradores tanto acogidos a mercado liberalizado como a tarifa regulada, dividido por el correspondiente al tercer trimestre de 2006 y multiplicado por 100.
+Para el caso del subgrupo a.1.1 se tomará como IComb el siguiente valor:
 
-El Ministerio de Industria, Turismo y Comercio calculará y publicará trimestralmente el correspondiente valor a aplicar, a partir de los datos aportados por las comercializadoras, que sirven gas al segmento de clientes de cogeneración. Siendo estos datos:
+IComb = CbmpGN
 
-Ingreso_Totali : Retribución total obtenida por el comercializador «i» por todo el gas vendido para cogeneración, como agregación de sus clientes a tarifa y a mercado, durante todo el periodo de tiempo del trimestre «n»
+Siendo:
 
-Volumen_Totali : Cantidad total de energía como MWh de gas natural expresado en P.C.S. que el comercializador ha vendido a sus clientes cogeneradores, como agregación de sus clientes a tarifa y a mercado, durante todo el periodo de tiempo del trimestre «n».
+CbmpGN: Coste base de la materia prima del gas natural en el trimestre en que vaya a ser de aplicación (c€/kWh PCS), que se publicará por Resolución de la Secretaría de Estado de Energía, en el «Boletín Oficial del Estado», durante el primer mes del trimestre natural en el que vaya a ser de aplicación, y que se calculará de acuerdo con la siguiente fórmula:
 
-A tal efecto todas las empresas distribuidoras y comercializadoras, con un volumen de ventas superior a 1.000 GWh anuales a cogeneradores, suministrarán los datos de ingresos y volumen de energía totales especificados anteriormente y los remitirán a la Dirección General de Política Energética y Minas del Ministerio de Industria Turismo y Comercio con una periodicidad trimestral, siendo los trimestres considerados los cuatro trimestres naturales, debiendo enviar la información citada correspondiente al trimestre anterior, antes del día 20 de los meses de abril, julio, octubre y enero de cada año.
+CbmpGN = Cn + TP
+
+Donde:
+
+Cn: El coste de la materia prima calculada de acuerdo con la formulación recogida en el artículo 8 de la Orden ITC/1660/2009, de 22 de junio, por la que se establece la metodología de cálculo de la tarifa de último recurso de gas natural, tomando nulos los valores de los términos PRQ y α, y los del resto de valores, los de aplicación en el trimestre correspondiente.
+
+TP: Término de peaje en c€/kWh que se calculará de acuerdo con la siguiente fórmula:
+
+| TP=12 x | (Trc+ Tf + 0,72 * Tfr) | + Tcv+ 0,72*Tvr + | 0,72 * 5 * TGNLv |
+| --- | --- | --- | --- |
+| 229 | 1000 |
+
+Siendo:
+
+Trc: Término de reserva de capacidad del peaje de transporte y distribución, expresado en c€/kWh/día/mes.
+
+Tf: Componente fijo del término de conducción del peaje de transporte y distribución, escalón 2.4, expresado en c€/kWh/día/mes.
+
+Tfr: Término fijo del peaje de regasificación, expresado en c€/kWh/día/mes.
+
+Tcv: Componente variable del término de conducción del peaje de transporte y distribución, expresado en c€/kWh.
+
+Tvr: Término variable del peaje de regasificación, expresado en c€/kWh.
+
+TGNLv: Canon de almacenamiento de GNL, expresado en c€/MWh/día.
 
 Para el subgrupo a.1.2 se tomará como ICombn el valor medio, durante el trimestre natural «n», del coste medio CIF del crudo importado por España, obtenido de los datos publicados mensualmente por el Ministerio de Industria, Turismo y Comercio en el Boletín Estadístico de Hidrocarburos, dividido por el correspondiente al tercer trimestre de 2006 y multiplicado por 100.
 
-Los valores de referencia iniciales de estos índices de precios de combustible, con los que se han realizado los cálculos que han dado lugar a los valores de tarifas y primas que figuran en el artículo 35 del presente real decreto, son:
+Los valores de referencia iniciales de estos índices de precios de combustible, con los que se han realizado los cálculos que han dado lugar a los valores de tarifas y primas que figuran en el artículo 35 del presente Real Decreto, son:
 
-Índice de precios del gas natural de cogeneración (IGN0): 100
+Índice de precios CIF del crudo importado por España (PF0): 100.
 
-Índice de precios CIF del crudo importado por España (PF0): 100
+Porcentaje de variación del IPC: -0,556 %.
 
-Porcentaje de variación en el trimestre del IPC -0,556%
+Coste base de la materia prima del gas natural en el 3.er trimestre de 2009 (CbmpGN): 1,9131.
 
 a) Actualización de tarifas y primas para los subgrupos a.1.1 y a.1.2.
 
@@ -102,6 +126,8 @@ A aquellas instalaciones de los grupos a.1.1 y a.1.2 que hayan superado el núme
 β=1 - 0,17 (Pv /Cr)
 
 función de la relación Pv/Cr distinta para cada nivel de potencia
+
+> Se modifica por la disposición final 1 de la Orden ITC/3519/2009, de 28 de diciembre. Ref. BOE-A-2009-21173.
 
 > Se modifica por la disposición final 1 de la Orden ITC/2794/2007, de 27 de septiembre. Ref. BOE-A-2007-17078.
 
