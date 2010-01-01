@@ -137,9 +137,13 @@ Período de garantía: 6 meses.
 
 | CÓDIGO | DESCRIPCIÓN | LÍMITE DE LA PRESTACIÓN | PLAZO RENOV. (en meses) |
 | --- | --- | --- | --- |
-| 06 90 00 | ORTOPRÓTESIS PARA AGENESIAS |  |  |
-| 06 90 00 000A | Ortoprótesis para Agenesias de miembro superior. | Según Presupuesto | 12 |
-| 06 90 00 100A | Ortoprótesis para Agenesias de miembro inferior. | Según Presupuesto | 12 |
+| 03 90 00 | ORTOPRÓTESIS PARA AGENESIAS |  |  |
+| 03 90 00 000A | Ortoprótesis para Agenesias de miembro superior. | Según Presupuesto | 12 |
+| 03 90 00 100A | Ortoprótesis para Agenesias de miembro inferior. | Según Presupuesto | 12 |
+| 06 24 03 | PRÓTESIS PARCIALES DE PIE INCLUYENDO PRÓTESIS DE DEDOS |  |  |
+| 06 24 03 000A | Prótesis para amputación parcial o total de dedos del pie. Plantilla preprotésica. | 190 € | 12 |
+| 06 24 03 100A | Prótesis para amputación transmetatarsiana o de desarticulación de Lisfranc con o sin botín y férula. | 460 € | 12 |
+| 06 24 03 200A | Prótesis completa para amputación de Chopart, con cualquier aditamento. | 910 € | 12 |
 
 06 30 PRÓTESIS DISTINTAS DE LAS DE MIEMBROS
 
@@ -201,13 +205,13 @@ Periodo de garantía: 12 meses.
 | 12 21 27 | SILLAS DE RUEDAS CON MOTOR ELÉCTRICO Y DIRECCIÓN ELÉCTRICA |  |  |
 | 12 21 27 000A | Sillas de ruedas dotadas de motor eléctrico. | 4.200 € | 36 |
 
-12 24 ACCESORIOS PARA SILLAS DE RUEDAS
+12 21 ACCESORIOS PARA SILLAS DE RUEDAS
 
 Periodo de garantía: 9 meses.
 
 | CÓDIGO | DESCRIPCIÓN | LÍMITE DE LA PRESTACIÓN | PLAZO RENOV. (en meses) |
 | --- | --- | --- | --- |
-| 12 24 15 | MESAS O BANDEJAS PORTÁTILES |  |  |
+| 12 21 15 | MESAS O BANDEJAS PORTÁTILES |  |  |
 | 12 24 15 000A | Bandeja desmontable especial. | 150 € | 12 |
 | 12 24 24 | BATERÍAS |  |  |
 | 12 24 24 000A | Baterías para sillas eléctricas (par). | 380 € | 12 |
@@ -325,16 +329,10 @@ Periodo de garantía: 3 meses.
 | 06 06 15 200C | Férula activa de codo para la flexión o extensión progresiva del codo mediante articulación y sistema de control a elección. | 550 € | 12 |
 | 06 06 24 | ORTESIS DE HOMBRO Y CODO |  |  |
 | 06 06 24 000A | Férula pasiva de brazo para inmovilización ósea. | 310 € | 12 |
-| 06 06 27 | ÓRTESIS DE HOMBRO, CODO Y MUÑECA |  |  |
+| 06 06 27 | ORTESIS DE HOMBRO, CODO Y MUÑECA |  |  |
 | 06 06 27 000A | Férula pasiva de hombro, codo y muñeca, sin articulación. | 300 € | 12 |
-| 06 06 27 000B | Órtesis pasiva con articulación de codo para inmovilización ósea. (Brazal articulado de extremidad superior). | 340 € | 12 |
-| 06 06 27 000C | Órtesis pasiva para mantener la articulación de hombro, codo y muñeca en una posición determinada. Prefabricada. | 285 € | 12 |
-| 06 06 27 000D | Órtesis pasiva para mantener la articulación de hombro, codo y muñeca en una posición determinada. Hecha sobre molde. | 481 € | 12 |
-| 06 06 27 010A | Férula para parálisis braquial infantil, a medida | 370 € | 12 |
-| 06 06 27 100A | Férula pasiva de hombro, codo y muñeca, con articulaciones. | 560 € | 12 |
-| 06 06 27 110A | Férula para parálisis del plexo braquial del adulto. | 275 € | 12 |
-| 06 06 27 110B | Férula aeroplano pasiva para mantener la articulación del hombro, codo y mano en una posición determinada, con posibilidad de modificar las posiciones articulares mediante múltiples articulaciones. | 740 € | 12 |
-| 06 06 27 110C | Férula activa multiarticulada de miembro superior para control de las articulaciones de hombro, codo y muñeca. Con articulaciones de hombro y codo | 926 € | 12 |
+| 06 06 27 000B | Ortesis pasiva con articulación de codo para inmovilización ósea. (Brazal articulado de extremidad superior). | 340 € | 12 |
+| 06 06 27 000C | Ortesis pasiva para mantener la articulación de hombro, codo y muñeca en una posición determinada. Prefabricada. | 285 € | 12 |
 | 06 06 36 | ARTICULACIONES CODO. |  |  |
 | 06 06 36 000A | Articulación de codo monocéntrica (par). | 91 € | 12 |
 | 06 06 36001A | Articulación de codo tipo tornillo sin fin. | 190 € | 12 |
@@ -473,10 +471,10 @@ Sin periodo de garantía.
 | 12 03 09 100A | Muleta con soporte en antebrazo y empuñadura anatómica (unidad). | 37 € | 12 |
 | 12 03 09 100B | Bastón de material ligero para apoyo de antebrazo en pacientes con artritis |  |  |
 |  | reumatoide, amputaciones parciales o limitaciones funcionales en codo (unidad). | 61 € | 12 |
-| 12 03 16 | MULETAS CON TRES O MÁS PATAS. |  |  |
-| 12 03 16 000A | Bastón con tres o más patas (unidad). | 57 € | 12 |
+| 12 03 90 | MULETAS CON TRES O MÁS PATAS. |  |  |
+| 12 03 90 000A | Bastón con tres o más patas (unidad). | 57 € | 12 |
 
-12 06 AYUDAS PARA CAMINAR MANEJADAS POR LOS DOS BRAZOS
+12 03 AYUDAS PARA CAMINAR MANEJADAS POR LOS DOS BRAZOS
 
 Sin periodo de garantía.
 
@@ -494,36 +492,36 @@ Sin periodo de garantía.
 | --- | --- | --- | --- |
 |  | PRENDAS DE COMPRESIÓN PARA BRAZOS, PIERNAS Y OTRAS PARTES DEL CUERPO PARA QUEMADOS, LINFEDEMAS DE MIEMBROS SUPERIORES, LINFEDEMAS GRAVES DE MIEMBROS INFERIORES Y GRANDES QUELOIDES |  |  |
 |  | Prendas de compresión para cabeza |  |  |
-| 04 06 06 000A | Soporte de cuello. | 133 € | 6 |
-| 04 06 06 001A | Soporte para el mentón. | 133 € | 6 |
-| 04 06 06 002A | Soporte de cuello y mentón. | 181 € | 6 |
-| 04 06 06 010A | Máscara con rostro abierto. | 211 € | 6 |
-| 04 06 06 011A | Máscara con banda labial. | 240 € | 6 |
-| 04 06 06 012A | Máscara con banda labial, nariz y boca. | 250 € | 6 |
-| 04 06 06 013A | Máscara de termoplástico. | 285 € | 6 |
+| 03 06 06 000A | Soporte de cuello. | 133 € | 6 |
+| 03 06 06 001A | Soporte para el mentón. | 133 € | 6 |
+| 03 06 06 002A | Soporte de cuello y mentón. | 181 € | 6 |
+| 03 06 06 010A | Máscara con rostro abierto. | 211 € | 6 |
+| 03 06 06 011A | Máscara con banda labial. | 240 € | 6 |
+| 03 06 06 012A | Máscara con banda labial, nariz y boca. | 250 € | 6 |
+| 03 06 06 013A | Máscara de termoplástico. | 285 € | 6 |
 |  | Prendas de compresión para tronco. |  |  |
-| 04 06 06 100A | Tronco entero sin mangas. | 340 € | 6 |
-| 04 06 06 101A | Tronco entero con mangas cortas. | 400 € | 6 |
-| 04 06 06 102A | Tronco entero con mangas largas. | 430 € | 6 |
-| 04 06 06 110A | Camiseta sin mangas. | 211 € | 6 |
-| 04 06 06 111A | Camiseta con mangas cortas. | 280 € | 6 |
-| 04 06 06 112A | Camiseta con mangas largas. | 310 € | 6 |
+| 03 06 06 100A | Tronco entero sin mangas. | 340 € | 6 |
+| 03 06 06 101A | Tronco entero con mangas cortas. | 400 € | 6 |
+| 03 06 06 102A | Tronco entero con mangas largas. | 430 € | 6 |
+| 03 06 06 110A | Camiseta sin mangas. | 211 € | 6 |
+| 03 06 06 111A | Camiseta con mangas cortas. | 280 € | 6 |
+| 03 06 06 112A | Camiseta con mangas largas. | 310 € | 6 |
 |  | Prendas de compresión para miembro superior (Unidad). |  |  |
-| 04 06 06 200A | Manga. | 170 € | 6 |
-| 04 06 06 201A | Manga con guantelete. | 180 € | 6 |
-| 04 06 06 202A | Manga abarcando el hombro. | 190 € | 6 |
-| 04 06 06 203A | Manga abarcando el hombro con guantelete. | 245 € | 6 |
-| 04 06 06 210A | Guante con protección distal. | 181 € | 6 |
-| 04 06 06 211A | Guante sin protección distal. | 133 € | 6 |
-| 04 06 06 212A | Guante hasta el codo. | 181 € | 6 |
+| 03 06 06 200A | Manga. | 170 € | 6 |
+| 03 06 06 201A | Manga con guantelete. | 180 € | 6 |
+| 03 06 06 202A | Manga abarcando el hombro. | 190 € | 6 |
+| 03 06 06 203A | Manga abarcando el hombro con guantelete. | 245 € | 6 |
+| 03 06 06 210A | Guante con protección distal. | 181 € | 6 |
+| 03 06 06 211A | Guante sin protección distal. | 133 € | 6 |
+| 03 06 06 212A | Guante hasta el codo. | 181 € | 6 |
 |  | Prendas de compresión para miembro inferior (Unidad). |  |  |
-| 04 06 06 300A | Media hasta la rodilla a medida. | 133 € | 6 |
-| 04 06 06 301A | Media entera a medida (hasta el muslo). | 151 € | 6 |
-| 04 06 06 302A | Media/panty de dos piernas a medida (leotardo). | 343 € | 6 |
-| 04 06 06 302B | Media/panty de una pierna a medida (leotardo). | 241 € | 6 |
-| 04 06 06 310A | Calzón de pernera corta. | 195 € | 6 |
-| 04 06 06 311A | Pantalón. | 250 € | 6 |
-| 04 06 06 320A | Tobillera a medida. | 79 € | 6 |
+| 03 06 06 300A | Media hasta la rodilla a medida. | 133 € | 6 |
+| 03 06 06 301A | Media entera a medida (hasta el muslo). | 151 € | 6 |
+| 03 06 06 302A | Media/panty de dos piernas a medida (leotardo). | 343 € | 6 |
+| 03 06 06 302B | Media/panty de una pierna a medida (leotardo). | 241 € | 6 |
+| 03 06 06 310A | Calzón de pernera corta. | 195 € | 6 |
+| 03 06 06 311A | Pantalón. | 250 € | 6 |
+| 03 06 06 320A | Tobillera a medida. | 79 € | 6 |
 
 04 33 AYUDAS PARA LA PREVENCIÓN DE ÚLCERAS POR PRESIÓN
 
@@ -532,10 +530,10 @@ Sin período de garantía.
 | CÓDIGO | DESCRIPCIÓN | LÍMITE DE LA PRESTACIÓN | PLAZO RENOV. (en meses) |
 | --- | --- | --- | --- |
 |  | COJINES PARA PREVENIR LOS DAÑOS POR PRESIÓN PARA PACIENTES LESIONADOS MEDULARES. |  |  |
-| 04 33 00 000A | Cojín de asiento para prevenir los daños por presión en silicona. | 250 € | 24 |
-| 04 33 00 001A | Cojín antiescaras de flotación líquida con celdas independientes de aire o geles de diferentes densidades. | 495 € | 24 |
-| 04 33 00 001B | Cojín antiescaras de flotación líquida de material viscoelástico. | 194 € | 24 |
-| 04 33 00 002A | Cojín antiescaras de flotación por aire o de fluido. | 210 € | 24 |
+| 03 33 00 000A | Cojín de asiento para prevenir los daños por presión en silicona. | 250 € | 24 |
+| 03 33 00 001A | Cojín antiescaras de flotación líquida con celdas independientes de aire o geles de diferentes densidades. | 495 € | 24 |
+| 03 33 00 001A | Cojín antiescaras de flotación líquida de material viscoelástico. | 194 € | 24 |
+| 03 33 00 002A | Cojín antiescaras de flotación por aire o de fluido. | 210 € | 24 |
 
 04 48 EQUIPAMIENTO PARA EL ENTRENAMIENTO DEL MOVIMIENTO, LA FUERZA Y EL EQUILIBRIO
 
@@ -548,5 +546,3 @@ Periodo de garantía: 9 meses.
 | 04 48 06 000A | Parapodium. Bipedestador o posicionador. | 2.100 € | 24 |
 | 04 48 21 | PLANOS INCLINABLES |  |  |
 | 04 48 21 000A | Plano inclinable. | 1.800 € | 24 |
-
-> Se corrigen errores por Resolución 4B0/38010/2010, de 18 de diciembre de 2012. Ref. BOE-A-2010-1658.
