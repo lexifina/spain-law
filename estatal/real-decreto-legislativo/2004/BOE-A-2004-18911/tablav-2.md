@@ -4,26 +4,28 @@
 
 A) Indemnización básica (incluidos daños morales):
 
+(1) Se entiende por día de baja impeditivo aquel en que la víctima está incapacitada para desarrollar su ocupación o actividad habitual.
+
 | Día de baja | Indemnización diaria – Euros |
 | --- | --- |
-| Durante la estancia hospitalaria | 65,48 |
+| Durante la estancia hospitalaria | 66,00 |
 | Sin estancia hospitalaria: |  |
-| Impeditivo (1) | 53,20 |
-| No impeditivo | 28,65 |
-
-(1) Se entiende por día de baja impeditivo aquel en que la víctima está incapacitada para desarrollar su ocupación o actividad habitual.
+| Impeditivo (1) | 53,66 |
+| No Impeditivo | 28,88 |
 
 B) Factores de corrección:
 
 | Descripción | Porcentajes aumento | Porcentajes disminución |
 | --- | --- | --- |
-| Perjuicios económicos: |  |  |
+| Perjuicios económicos |  |  |
 | Ingresos netos anuales de la víctima por trabajo personal: |  |  |
-| Hasta 26.209,38 euros | Hasta el 10 | – |
-| De 26.209,39 a 52.418,76 euros | Del 11 al 25 | – |
-| De 52.418,77 hasta 87.364, 59 euros | Del 26 al 50 | – |
-| Más de 87.364,59 euros | Del 51 al 75 | – |
-| Elementos correctores de disminución del apartado primero.7 de este anexo | – | Hasta el 75 |
+| Hasta 26.419,06 euros | Hasta el 10. | – |
+| De 26.419,07 a 52.838,11 euros | Del 11 al 25. | – |
+| De 52.838,12 hasta 88.063,51 euros | Del 26 al 50. | – |
+| Más de 88.063,51 euros | Del 51 al 75. | – |
+| Elementos correctores de disminución del apartado primero.7 de este anexo | – | Hasta el 75. |
+
+> Se actualizan las cuantías con vigencia durante el año 2010 por Anexo de la Resolución de 31 de enero de 2010. Ref. BOE-A-2010-1819.
 
 > Se actualizan las cuantías con vigencia durante el año 2009 por Anexo de la Resolución de 20 de enero de 2009. Ref. BOE-A-2009-1669.
 
