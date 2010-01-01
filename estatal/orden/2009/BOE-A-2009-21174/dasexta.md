@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Solicitud de retribución definitiva.
+
+Los titulares de instalaciones de transporte, regasificación y almacenamiento de gas natural, deberán solicitar la inclusión definitiva en el régimen retributivo de las mismas antes del 1 de junio del segundo año posterior al del acta de puesta en marcha. A tales efectos deberán presentar, junto con la solicitud, la correspondiente auditoría de las inversiones realizadas. En caso contrario, la retribución a cuenta o provisional que vinieran percibiendo se reducirá en un cincuenta por ciento a partir del uno de enero del año siguiente.

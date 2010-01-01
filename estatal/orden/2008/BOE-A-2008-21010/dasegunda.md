@@ -14,7 +14,7 @@ b) Que la retribución por la actividad de distribución, teniendo en cuenta las
 
 c) Que la situación del núcleo requiera inversiones en la instalación de conexión con la red gasista existente que hagan económicamente inviable el proyecto. En el caso de plantas satélite de G.N.L., se deberán considerar factores tales como el coste de sustitución de la planta satélite por una conexión con la red de gasoductos, la mejora de la seguridad de suministro, la seguridad y los aspectos medioambientales.
 
-d) Que la construcción de las instalaciones se inicie antes del final del año siguiente al de la convocatoria. Además, la construcción de las instalaciones deberá concluir antes del 31 de diciembre del segundo año posterior al de la convocatoria.
+d) Que la construcción de las instalaciones se inicie antes del final del año siguiente al de la convocatoria. Además, la construcción de las instalaciones deberá concluir antes de que transcurran 18 meses desde la fecha en que dicte la resolución de asignación de la retribución específica.
 
 3. Las solicitudes de retribución específica de distribución deberán realizarse con anterioridad al 30 de abril de cada año, acompañando la solicitud de la siguiente documentación:
 
@@ -83,3 +83,5 @@ Esta retribución específica podrá destinarse, además de a las instalaciones 
 La Dirección General de Política Energética y Minas establecerá en la resolución de inclusión la forma y condicionantes para la liquidación de la retribución correspondiente a las instalaciones de distribución.
 
 Si la retribución específica obtenida por los proyectos presentados en el archipiélago canario no alcanzase la retribución máxima reservada, la Dirección General de Política Energética y Minas podrá utilizar el monto remanente para otorgar retribución específica a los proyectos presentados en el resto del territorio nacional que cumplan los requisitos establecidos en la presente orden.
+
+> Se modifica el apartado 2.d) por la disposición final 2.1 de la Orden ITC/3520/2009, de 28 de diciembre. Ref. BOE-A-2009-21174.
