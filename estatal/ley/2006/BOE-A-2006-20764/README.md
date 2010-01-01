@@ -210,6 +210,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria duodécima](dtduodecima.md)
 - [Disposición transitoria decimotercera](dtdecimotercera.md)
 - [Disposición transitoria decimocuarta](dtdecimocuarta.md)
+- [Disposición transitoria decimoquinta](dtdecimoquinta.md)
+- [Disposición transitoria decimosexta](dtdecimosexta.md)
 - [Disposición derogatoria primera](ddprimera.md)
 - [Disposición derogatoria segunda](ddsegunda.md)
 - [Disposición final primera](dfprimera.md)
