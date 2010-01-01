@@ -8,4 +8,6 @@ En particular, las entidades que realicen actividades no mercantiles que vengan 
 
 3. Se mantiene expresamente en vigor el régimen transitorio, aprobado por Orden del Ministerio de Economía y Hacienda de 29 de diciembre de 1999, a aplicar contablemente en la exteriorización de los compromisos por pensiones regulada en el Reglamento sobre la Instrumentación de los Compromisos por Pensiones de las Empresas con los Trabajadores y Beneficiarios, aprobado por Real Decreto 1588/1999, de 15 de octubre.
 
-4. Los criterios por los que se establece la delimitación entre fondos propios y fondos ajenos en las normas sobre los aspectos contables de las sociedades cooperativas, aprobadas por Orden del Ministerio de Economía 3614/2003, de 16 de diciembre, podrán seguir aplicándose hasta 31 de diciembre de 2009.
+4. Los criterios por los que se establece la delimitación entre fondos propios y fondos ajenos en las normas sobre los aspectos contables de las sociedades cooperativas, aprobadas por Orden ECO/3614/2003, de 16 de diciembre, podrán seguir aplicándose hasta 31 de diciembre de 2010.
+
+> Se modifica el apartado 4 por el art. único del Real Decreto 2003/2009, de 23 de diciembre. Ref. BOE-A-2009-21045.
