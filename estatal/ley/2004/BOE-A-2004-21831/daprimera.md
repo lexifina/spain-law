@@ -2,7 +2,9 @@
 
 Se modifica el apartado nueve del artículo 42 de la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, que quedará redactado como sigue:
 
-«Nueve. El importe de lo recaudado por esta tasa, disminuido en el importe transferido a la Agencia Estatal de Seguridad Aérea, formará parte del presupuesto de ingresos de la Entidad pública empresarial Aeropuertos Españoles y Navegación Aérea. No obstante, el 5 por 100 de la recaudación por la tasa, o el porcentaje que se fije en la Ley de Presupuestos, se ingresará en el Tesoro Público.»
+«Nueve. El importe íntegro de lo recaudado por esta tasa, disminuido en el importe transferido a la Agencia Estatal de Seguridad Aérea, formará parte del presupuesto de ingresos de la Entidad pública empresarial Aeropuertos Españoles y Navegación Aérea.»
+
+> Se modifica, con efectos de 1 de enero de 2010, por el art. 85.2 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765.
 
 > Se modifica, con efectos de 1 de enero de 2009, por el art. 83.3 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744.
 

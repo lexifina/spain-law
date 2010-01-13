@@ -4,17 +4,19 @@
 
 a) La percepción de las siguientes ayudas de la política agraria comunitaria:
 
-1.º Abandono definitivo del cultivo del viñedo.
+1.ª Abandono definitivo del cultivo del viñedo.
 
-2.º Prima al arranque de plantaciones de manzanos.
+2.ª Prima al arranque de plantaciones de manzanos.
 
-3.º Prima al arranque de plataneras.
+3.ª Prima al arranque de plataneras.
 
-4.º Abandono definitivo de la producción lechera.
+4.ª Abandono definitivo de la producción lechera.
 
-5.º Abandono definitivo del cultivo de peras, melocotones y nectarinas.
+5.ª Abandono definitivo del cultivo de peras, melocotones y nectarinas.
 
-6.º Arranque de plantaciones de peras, melocotones y nectarinas.
+6.ª Arranque de plantaciones de peras, melocotones y nectarinas.
+
+7.ª Abandono definitivo del cultivo de la remolacha azucarera y de la caña de azúcar.
 
 b) La percepción de las siguientes ayudas de la política pesquera comunitaria: por la paralización definitiva de la actividad pesquera de un buque y por su transmisión para la constitución de sociedades mixtas en terceros países, así como por el abandono definitivo de la actividad pesquera.
 
@@ -22,8 +24,8 @@ c) La percepción de ayudas públicas que tengan por objeto reparar la destrucci
 
 d) La percepción de las ayudas al abandono de la actividad de transporte por carretera satisfechas por el Ministerio de Fomento a transportistas que cumplan los requisitos establecidos en la normativa reguladora de la concesión de dichas ayudas.
 
-e) La percepción de indemnizaciones públicas, a causa del sacrificio obligatorio de la cabaña ganadera, en el marco de actuaciones destinadas a la erradicación de epidemias o enfermedades.
-
-Esta disposición sólo afectará a los animales destinados a la reproducción.
+e) La percepción de indemnizaciones públicas, a causa del sacrificio obligatorio de la cabaña ganadera, en el marco de actuaciones destinadas a la erradicación de epidemias o enfermedades. Esta disposición sólo afectará a los animales destinados a la reproducción.
 
 2. Para calcular la renta que no se integrará en la base imponible se tendrá en cuenta tanto el importe de las ayudas percibidas como las pérdidas patrimoniales que, en su caso, se produzcan en los elementos afectos a las actividades. Cuando el importe de estas ayudas sea inferior al de las pérdidas producidas en los citados elementos, podrá integrarse en la base imponible la diferencia negativa. Cuando no existan pérdidas, sólo se excluirá de gravamen el importe de las ayudas.
+
+> Se modifica el apartado 1, con efectos para los períodos impositivos iniciados a partir de 1 de enero de 2007, por la disposición final 14.3 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765.

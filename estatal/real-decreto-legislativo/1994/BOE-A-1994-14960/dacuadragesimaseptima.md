@@ -1,0 +1,17 @@
+## Disposición adicional cuadragésima séptima. Coeficientes reductores de la edad de jubilación de los miembros del Cuerpo de la Ertzaintza.
+
+1. La edad ordinaria de 65 años exigida para el acceso a la pensión de jubilación se reducirá en un período equivalente al que resulte de aplicar el coeficiente reductor del 0,20 a los años completos efectivamente trabajados como miembros del Cuerpo de la Ertzaintza o como integrantes de los colectivos que quedaron incluidos en el mismo.
+
+La aplicación de la reducción de la edad de jubilación prevista en el párrafo anterior en ningún caso dará ocasión a que el interesado pueda acceder a la pensión de jubilación con una edad inferior a los 60 años, o a la de 59 años en los supuestos en que se acrediten 35 o más años de actividad efectiva y cotización en el Cuerpo de la Ertzaintza, o en los colectivos que quedaron incluidos en el mismo, sin cómputo de la parte proporcional correspondiente por pagas extraordinarias, por el ejercicio de la actividad a que se refiere el párrafo anterior.
+
+2. El período de tiempo en que resulte reducida la edad de jubilación del trabajador, de acuerdo con lo establecido en el apartado anterior, se computará como cotizado al exclusivo efecto de determinar el porcentaje aplicable a la correspondiente base reguladora para calcular el importe de la pensión de jubilación.
+
+Tanto la reducción de la edad como el cómputo, a efectos de cotización, del tiempo en que resulte reducida aquélla, que se establecen en el apartado anterior, serán de aplicación a los miembros del Cuerpo de la Ertzaintza que hayan permanecido en situación de alta por dicha actividad hasta la fecha en que se produzca el hecho causante de la pensión de jubilación.
+
+Asimismo, mantendrán el derecho a estos mismos beneficios quienes habiendo alcanzado la edad de acceso a la jubilación que en cada caso resulte de la aplicación de lo establecido en el apartado 1 de esta Disposición adicional cesen en su actividad como miembro de dicho Cuerpo pero permanezcan en alta por razón del desempeño de una actividad laboral diferente, cualquiera que sea el régimen de la Seguridad Social en el que por razón de ésta queden encuadrados.
+
+3. En relación con el colectivo al que se refiere esta disposición procederá aplicar un tipo de cotización adicional sobre la base de cotización por contingencias comunes, tanto para la empresa como para el trabajador. Durante el año 2010 dicho tipo de cotización adicional será del 4,00 por ciento, del que el 3,34 por ciento será a cargo de la empresa y el 0,66 por ciento a cargo del trabajador. Estos tipos de cotización se ajustarán en los años siguientes a la situación del colectivo de activos y pasivos.
+
+4. El sistema establecido en la presente Disposición adicional será de aplicación después de que en la Comisión Mixta de Cupo se haga efectivo un acuerdo de financiación por parte del Estado de la cuantía anual correspondiente a las cotizaciones recargadas que se deban implantar como consecuencia de la pérdida de cotizaciones por el adelanto de la edad de jubilación y por el incremento en las prestaciones en los años en que se anticipe la edad de jubilación, en cuantía equiparable a la que la Administración del Estado abona en los casos de jubilación anticipada de los miembros de los Cuerpos y Fuerzas de Seguridad del Estado en el Régimen de Clases Pasivas.
+
+> Se añade, con efectos desde el 1 de enero de 2010, por la disposición final 3.13 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-18003.

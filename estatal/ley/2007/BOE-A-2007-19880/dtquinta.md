@@ -14,7 +14,7 @@ A los militares de complemento que posean las titulaciones exigidas para el ingr
 
 5. Cumplido el compromiso de larga duración se pasará a reservista de especial disponibilidad en las condiciones establecidas en la Ley de Tropa y Marinería, percibiendo una asignación por disponibilidad de 1,9 veces la correspondiente a los militares de tropa y marinería y quedando incluidos en el artículo 122.3 de esta ley. En su caso, se tendrá derecho a percibir la prima por servicios prestados en los casos y con la cuantía que se determine reglamentariamente.
 
-El militar de complemento con un compromiso de larga duración, que con 45 años de edad no haya cumplido los 18 de servicios y tenga posibilidad de alcanzarlos antes de cumplir los 50 años de edad podrá ampliar su compromiso hasta que adquiera el tiempo de servicios mencionado.
+El militar de complemento con un compromiso de larga duración, que con 45 años de edad no haya cumplido los 18 de servicios y tenga posibilidad de alcanzarlos antes de cumplir los 50 años de edad podrá ampliar su compromiso hasta que adquiera el tiempo de servicios mencionados. Si hubiera adquirido la condición de militar de complemento con más de 31 años de edad, podrá prorrogar su compromiso hasta alcanzar el tiempo de servicio mencionado si tiene posibilidad de hacerlo antes de cumplir los 52 años de edad.
 
 También podrán prorrogar su compromiso hasta los 50 años los militares de complemento que, a la entrada en vigor de la presente Ley, tengan cumplidos 42 años.
 
@@ -29,3 +29,5 @@ Les serán de aplicación las situaciones administrativas reguladas para los mil
 8. El Ministro de Defensa, teniendo en cuenta lo previsto en esta disposición, determinará las plantillas por empleos de los militares de complemento adscritos a los diversos cuerpos y escalas, diferenciando las de militares de carrera.
 
 9. Los reservistas de especial disponibilidad, tanto los procedentes de militar de complemento como de tropa y marinería, mantendrán, si lo solicitan, una especial relación con las Fuerzas Armadas, mediante su adscripción a la unidad militar que elijan, previa conformidad del Mando o Jefatura de Personal del Ejército correspondiente. Podrán asistir a actos y ceremonias militares en los que dicha unidad participe, usar el uniforme en actos militares y sociales solemnes y disponer de la correspondiente tarjeta de identificación. Se les facilitará el acceso a información sobre prestaciones a las que tienen derecho y otros asuntos que puedan ser de su interés.
+
+> Se modifica el segundo párrafo del apartado 5, con efectos de 1 de enero de 2010 por la disposición adicional 62.2 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765.

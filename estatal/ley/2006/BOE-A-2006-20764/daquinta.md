@@ -4,17 +4,19 @@
 
 a) La percepción de las siguientes ayudas de la política agraria comunitaria:
 
-1.º Abandono definitivo del cultivo del viñedo.
+1.ª Abandono definitivo del cultivo del viñedo.
 
-2.º Prima al arranque de plantaciones de manzanos.
+2.ª Prima al arranque de plantaciones de manzanos.
 
-3.º Prima al arranque de plataneras.
+3.ª Prima al arranque de plataneras.
 
-4.º Abandono definitivo de la producción lechera.
+4.ª Abandono definitivo de la producción lechera.
 
-5.º Abandono definitivo del cultivo de peras, melocotones y nectarinas.
+5.ª Abandono definitivo del cultivo de peras, melocotones y nectarinas.
 
-6.º Arranque de plantaciones de peras, melocotones y nectarinas.
+6.ª Arranque de plantaciones de peras, melocotones y nectarinas.
+
+7.ª Abandono definitivo del cultivo de la remolacha azucarera y de la caña de azúcar.
 
 b) La percepción de las siguientes ayudas de la política pesquera comunitaria: paralización definitiva de la actividad pesquera de un buque y por su transmisión para la constitución de sociedades mixtas en terceros países, así como por el abandono definitivo de la actividad pesquera.
 
@@ -29,3 +31,5 @@ e) La percepción de indemnizaciones públicas, a causa del sacrificio obligator
 3. Las ayudas públicas, distintas de las previstas en el apartado 1 anterior, percibidas para la reparación de los daños sufridos en elementos patrimoniales por incendio, inundación, hundimiento u otras causas naturales, se integrarán en la base imponible en la parte en que excedan del coste de reparación de los mismos. En ningún caso, los costes de reparación, hasta el importe de la citada ayuda, serán fiscalmente deducibles ni se computarán como mejora.
 
 No se integrarán en la base imponible de este Impuesto, las ayudas públicas percibidas para compensar el desalojo temporal o definitivo por idénticas causas de la vivienda habitual del contribuyente o del local en el que el titular de la actividad económica ejerciera la misma.
+
+> Se modifica el apartado 1, con efectos desde el 1 de enero de 2007 por la disposición final 14.4 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
