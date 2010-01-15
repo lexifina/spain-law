@@ -34,6 +34,8 @@ Museo Nacional de Cerámica y de las Artes Suntuarias «González Martí».
 
 Museo Sefardí.
 
+Museo Nacional del Romanticismo.
+
 ## Museos adscritos al Ministerio de Defensa
 
 Museo del Ejército.
@@ -51,3 +53,5 @@ Museo Nacional de Arquitectura y Urbanismo.
 Museo Nacional de Ciencia y Tecnología.
 
 Museo Nacional de Ciencias Naturales.
+
+> Se modifica por la disposición final 2 del Real Decreto 1827/2009, de 27 de noviembre. Ref. BOE-A-2010-562.

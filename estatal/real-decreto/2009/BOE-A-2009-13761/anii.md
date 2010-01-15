@@ -12,8 +12,6 @@ Museo Cerralbo.
 
 Museo Sorolla.
 
-Museo Romántico.
-
 ## MUSEOS PERTENECIENTES AL SECTOR PÚBLICO ESTATAL CON PARTICIPACIÓN DEL MINISTERIO DE CULTURA EN SUS ÓRGANOS DE GOBIERNO
 
 Museo Thyssen-Bornemisza.
@@ -41,3 +39,5 @@ Museo del Ferrocarril de Vilanova i la Geltrú.
 Real Jardín Botánico.
 
 Museo Geominero.
+
+> Se modifica por la disposición final 2 del Real Decreto 1827/2009, de 27 de noviembre. Ref. BOE-A-2010-562.
