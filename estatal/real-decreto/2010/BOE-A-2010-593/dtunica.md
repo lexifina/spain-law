@@ -1,0 +1,3 @@
+## Disposición transitoria única. Transferencia de archivos judiciales militares.
+
+Los procedimientos judiciales militares concluidos antes del 22 de noviembre de 1980 y actualmente archivados bajo la custodia de los Tribunales Militares Territoriales, se transferirán progresivamente al correspondiente archivo histórico militar, conforme a los criterios recogidos en el Reglamento de Archivos Militares, de acuerdo con las disponibilidades presupuestarias existentes y conforme a las prioridades que establezca la Junta de Archivos Militares, previo informe del Presidente del Tribunal Militar Central.
