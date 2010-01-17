@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Apoyo a la promoción profesional.
+
+Por parte del Ministerio de Defensa se promoverá la colaboración con universidades y centros educativos que proporcionen titulaciones del sistema educativo general, en especial con aquellas universidades a las que están adscritos los centros universitarios de la defensa y con la Universidad Nacional de Educación a Distancia, para facilitar cursar las enseñanzas que permitan a los alumnos de planes de estudios superados conforme a disposiciones anteriores y a los militares profesionales, la obtención de las titulaciones requeridas en cada escala, así como las exigidas para ingresar por promoción.
