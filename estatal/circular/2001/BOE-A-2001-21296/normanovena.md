@@ -2,17 +2,11 @@
 
 Información al público:
 
-1.1 El contenido y alcance de la información al publico sobre tipos de cambio, comisiones y gastos a que se refiere el artículo 6.1 de la Orden del Ministerio de Economía de 16 de noviembre de 2000, será el siguiente:
+1.1 En relación con la información al público sobre tipos de cambio, comisiones y gastos a que se refiere el artículo 6.1 de la Orden del Ministerio de Economía de 16 de noviembre de 2000, de regulación de determinados aspectos del régimen jurídico de los establecimientos de cambio de moneda y sus agentes, los titulares de establecimientos de cambio de moneda que realicen con su clientela operaciones de compra y/o venta de billetes extranjeros o cheques de viajero contra euros deberán publicar los tipos mínimos de compra y máximos de venta de las principales monedas con las que opere, o, en su caso, los tipos únicos que aplicarán para los importes que no excedan de 3.000 euros.
 
-a) Los titulares de establecimientos de cambio de moneda que realicen con su clientela operaciones de compra y/o venta de cheques de viajero de países no integrados en la Unión Económica y Monetaria contra euros, deberán publicar los tipos mínimos de compra y máximos de venta o, en su caso, los tipos únicos que aplicarán para los importes que no excedan de 3.000 euros.
+Estos tipos también serán de aplicación a las operaciones de compra y/o venta de las monedas distintas del euro derivadas de órdenes de transferencia de divisas con el extranjero para los importes que no excedan de la cantidad señalada en el párrafo anterior.
 
-Estos tipos también serán de aplicación a las operaciones de compra y/o venta de esas monedas derivadas de órdenes de transferencia de divisas con el extranjero para los importes que no excedan de la cantidad señalada en el párrafo anterior.
-
-b) Los titulares de establecimientos de cambio de moneda que realicen con su clientela operaciones de compra y/o venta de billetes extranjeros de países no integrados en la Unión Económica y Monetaria contra euros, deberán publicar los tipos mínimos de compra y máximos de venta o, en su caso, los tipos únicos que aplicarán para los importes que no excedan de 3.000 euros.
-
-c) Los titulares de establecimientos de cambio de moneda publicarán, hasta el 28 de febrero de 2002, los tipos de conversión de las monedas integradas en el euro, que será el resultante de su respectiva equivalencia con el euro y que aplicarán, como únicos, a la compra y/o venta de billetes extranjeros y cheques de viajeros de dichas monedas entre sí, y a cualquier operación entre esas monedas.
-
-1.2 La publicación de los tipos de cambio y de conversión se acompañará de la de las comisiones y gastos, incluso mínimos, que apliquen en las operaciones citadas en el apartado precedente, explicando el concepto al que respondan cuando no se derive claramente de la propia denominación adoptada en la comisión.
+1.2 La publicación de los tipos de cambio se acompañará de la de las comisiones y gastos, incluso mínimos, que apliquen en las operaciones citadas en el apartado precedente, explicando el concepto al que respondan cuando no se derive claramente de la propia denominación adoptada en la comisión.
 
 1.3 Los titulares de los establecimientos deberán informar al público de la existencia y funciones del Servicio de Reclamaciones del Banco de España, que, sin perjuicio de las competencias de las autoridades autonómicas y locales a cargo de la protección de los consumidores, recibirá y tramitará las reclamaciones que pudieran realizar los clientes sobre actuaciones de los titulares que puedan quebrantar las normas o las buenas prácticas y usos bancarios aplicables a su actividad.
 
@@ -51,3 +45,5 @@ Medidas organizativas e identificativas:
 3.4 Las cuentas bancarias a través de las que los titulares de establecimientos de cambio canalicen los fondos asociados a la gestión de transferencias con el exterior serán exclusivas para la actividad de cambio de moneda, sin que puedan utilizarse sus fondos para realizar pagos asociados a otros ámbitos de la actividad empresarial de los establecimientos, tales como pagos de gastos de personal, apoyos financieros u otros de explotación. Dichos fondos no podrán tampoco, ni siquiera transitoriamente, destinarse a inversiones que debiliten su necesaria liquidez.
 
 La liquidación con los clientes, ordenantes o beneficiarios de las transferencias, cuya cuantía exceda de 3.005,06 euros (500.000 pesetas), deberá efectuarse necesariamente mediante operaciones de abono o adeudo del importe en las cuentas bancarias de titularidad de los establecimientos de cambio de moneda a las que se refiere el párrafo anterior.
+
+> Se modifican los apartados 1.1 y 1.2 por la norma 1.7 de la Circular 3/2009, de 18 de diciembre. Ref. BOE-A-2009-21185.

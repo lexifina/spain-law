@@ -1,6 +1,6 @@
 ## Norma quinta. Solicitudes de Autorización.
 
-1. Las personas físicas y jurídicas distintas de las entidades de crédito que pretendan realizar la actividad de compra-venta de billetes extranjeros y cheques de viajeros y/o gestión de transferencias con el exterior en establecimientos abiertos al público, deberán solicitar al Banco de España la autorización prevista en el Real Decreto 2660/1998, de 14 de diciembre. Dicha solicitud deberá dirigirse a la Oficina de Instituciones Financieras en Madrid.
+1. Las personas físicas y jurídicas distintas de las entidades de crédito que pretendan realizar la actividad de compra-venta de billetes extranjeros y cheques de viajeros y/o gestión de transferencias con el exterior en establecimientos abiertos al público, deberán solicitar al Banco de España la autorización prevista en el Real Decreto 2660/1998, de 14 de diciembre. Dicha solicitud deberá dirigirse al Departamento de Instituciones Financieras en Madrid.
 
 A la solicitud se acompañará la documentación prevista en el citado Real Decreto acreditativa del cumplimiento de los requisitos establecidos al efecto para obtener la autorización.
 
@@ -17,3 +17,5 @@ A estos efectos, se entiende que ostentan cargos de administración las personas
 6. Una vez notificada la inscripción en el Registro a cargo del Banco de España, el titular del establecimiento podrá iniciar sus actividades.
 
 7. Será necesaria la obtención de una nueva autorización previa cuando un titular autorizado para ejercer alguna de las actividades previstas en este Título o en el Título anterior pretenda ejercer otra de las previstas en este Título o ampliar el concepto objeto de sus transferencias con el exterior.
+
+> Se modifica la referencia a la "Oficina de Instituciones Financieras" del apartado 1 por la norma 1.10 de la Circular 3/2009, de 18 de diciembre. Ref. BOE-A-2009-21185.

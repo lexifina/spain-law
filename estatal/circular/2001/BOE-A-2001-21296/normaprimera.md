@@ -1,6 +1,6 @@
 ## Norma primera. Solicitudes de autorización.
 
-1. Las personas físicas y jurídicas distintas de las entidades de crédito que pretendan efectuar exclusivamente operaciones de compra de billetes extranjeros o cheques de viajeros con pago en euros en establecimientos abiertos al público, deberán solicitar al Banco de España la autorización prevista en el Real Decreto 2660/1998, de 14 de diciembre, dirigiendo su solicitud, ajustada a los modelos que figuran en el anexo 1 de la presente Circular, a la sucursal del Banco de España de la capital de provincia donde el solicitante tenga su domicilio fiscal, si se trata de personas físicas, o su domicilio social, si se trata de personas jurídicas; en el caso de que dichos domicilios estén en Madrid, la solicitud se dirigirá a la Oficina de Instituciones Financieras.
+1. Las personas físicas y jurídicas distintas de las entidades de crédito que pretendan efectuar exclusivamente operaciones de compra de billetes extranjeros o cheques de viajero con pago en euros en establecimientos abiertos al público deberán solicitar al Banco de España la autorización prevista en el Real Decreto 2660/1998, de 14 de diciembre, dirigiendo su solicitud, ajustada al modelo que corresponda de los que figuran en los anejos 1.1 y 1.2 de la presente Circular, al Departamento de Instituciones Financieras del Banco de España.
 
 A la solicitud se acompañará la documentación acreditativa del cumplimiento de los requisitos previstos al efecto en el citado Real Decreto, según las indicaciones incluidas en el correspondiente modelo.
 
@@ -25,3 +25,5 @@ c) Cuando un titular autorizado a efectuar la actividad citada con carácter com
 En otros casos de transmisión mortis causa, es decir, si la actividad de cambio de moneda se ejerce con carácter complementario a otra principal, deberá comunicarse al Banco de España la identidad del nuevo titular, dirigiendo tal comunicación según lo previsto en el apartado 1 de la norma segunda en los tres meses siguientes al fallecimiento del anterior titular.
 
 5. Una vez notificada la autorización e inscripción en el Registro de Titulares de Establecimientos de Cambio de Moneda a cargo del Banco de España, el titular del establecimiento podrá iniciar la actividad de compra de moneda.
+
+> Se modifica el apartado 1 por la norma 1.1 de la Circular 3/2009, de 18 de diciembre de 2009. Ref. BOE-A-2009-21185.
