@@ -1,0 +1,25 @@
+## Disposición adicional primera.
+
+1. Se modifica el apartado 6 de la Disposición Adicional Primera. Presentación de estados y otra información en el Banco de España, de la Circular 4/2004, de 22 de diciembre, a entidades de crédito, sobre Normas de información financiera pública y reservada, y modelos de estados financieros, que quedará redactado como sigue:
+
+«La presentación de estados al Banco de España deberá hacerse mediante transmisión telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto.
+
+Con independencia de la responsabilidad de la entidad y de los miembros de su consejo de administración, u órgano equivalente, con respecto a todos los estados que se remitan al Banco de España, los estados correspondientes a otra información pública individual trimestrales, los estados reservados consolidados de información sectorial y los estados total de cambios en el patrimonio neto y de flujos de efectivo, individuales y consolidados, deberán ser firmados electrónicamente por el presidente, consejero delegado, director general o cargo asimilado en el sentido del número 4 del artículo primero de la Ley 26/1988, de 29 de julio, de Disciplina e intervención de las entidades de crédito, o por cualquier otro directivo con funciones limitadas a un área de actividad entre cuyas responsabilidades se encuentre la elaboración de la información financiera de la entidad, que dependa directamente del órgano de administración, o de comisiones ejecutivas o de consejeros delegados de ese órgano, al menos a los efectos de la elaboración de la información financiera, siempre que, en este último caso de directivo con funciones limitadas, el Consejo de Administración, u órgano equivalente, le haya designado expresamente como responsable a tales efectos.
+
+En el caso de las sucursales de entidades de crédito extranjeras, los estados deberán ser firmados electrónicamente por cualquiera de los directivos que sean responsables directos de la gestión de la sucursal en España, o por cualquier otra persona cuyos datos figuren anotados en el Registro de Altos Cargos del Banco de España siempre que haya sido expresamente designado para ello por aquellos responsables.
+
+Las entidades pueden designar a más de una persona para que, de manera indistinta, puedan firmar electrónicamente la citada información financiera.
+
+Los directivos con funciones limitadas a los que se refiere el párrafo segundo deberán acreditar, además de su designación para firmar electrónicamente los estados, la amplitud de sus poderes y su dependencia directa de los órganos mencionados en ese párrafo. Los datos de estos directivos se comunicarán al Banco de España a través del procedimiento establecido para los restantes cargos ejecutivos, que los anotará con los restantes altos directivos de la entidad a efectos meramente informativos y de control del remitente de los estados.
+
+Los estados a los que se refiere esta disposición deberán enviarse, en todo caso, dentro del plazo máximo que se establece para ello en las respectivas normas. No obstante, y sin perjuicio de esa obligación de remisión, la firma electrónica de los estados podrá realizarse dentro de los diez días naturales siguientes al vencimiento del citado plazo máximo.
+
+El Banco de España, además, podrá solicitar de manera individual la confirmación en impreso, debidamente cumplimentado, de cualquiera de los estados enviados mediante transmisión telemática.
+
+Excepcionalmente, y solo por causas debidamente justificadas, el Departamento de Información Financiera y Central de Riesgos podrá autorizar la presentación de todos o alguno de los estados en impresos preparados por el Banco de España, que se entregarán fechados, sellados y visados en todas sus páginas, y firmados por persona con poder bastante de la entidad remitente, excepto cuando se trate de los estados a los que se refiere el segundo párrafo de este apartado, que deberán ser firmados por alguna de las personas de las señaladas en dicho párrafo.»
+
+2. Se modifica el apartado 13 de la Disposición Adicional Primera. Presentación de estados y otra información en el Banco de España, de la Circular 4/2004, de 22 de diciembre, a entidades de crédito, sobre Normas de información financiera pública y reservada, y modelos de estados financieros, que quedará redactado como sigue:
+
+«13. La remisión de la información requerida en los apartados 8 a 12 anteriores se realizará mediante transmisión telemática de conformidad con las especificaciones técnicas que se comuniquen al efecto. Los documentos enumerados en el apartado 8 deberán ser firmados electrónicamente por alguna de las personas autorizadas a firmar electrónicamente los estados enumerados en el párrafo segundo del apartado 6.
+
+Con independencia de la obligación de firma electrónica a que se refiere el párrafo anterior, la entidad será responsable, en todo caso, de que los documentos enviados por vía telemática sean copia fiel de los originales, los cuales deberán estar a disposición del Banco de España en todo momento.»
