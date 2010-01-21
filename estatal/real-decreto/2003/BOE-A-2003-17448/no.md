@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 246, de 14 de octubre de 2003. Ref. BOE-A-2003-18926
+Se derogan todas las disposiciones que regulen retribuciones complementarias fijas del régimen retributivo del Cuerpo de Secretarios Judiciales, según establece la disposición derogatoria única del Real Decreto 2033/2009, de 30 de diciembre. Ref. BOE-A-2010-884

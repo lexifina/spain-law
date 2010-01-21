@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Mantenimiento de las retribuciones complementarias.
+
+Si la confirmación o la adscripción con carácter no voluntario, consecuencia del proceso de acoplamiento previsto en la disposición transitoria cuarta de la Ley Orgánica 19/2003, de 23 de diciembre, del Poder Judicial, determinase una disminución de las retribuciones complementarias fijas, los funcionarios del Cuerpo de Secretarios Judiciales continuarán percibiendo éstas conforme al Real Decreto 1130/2003, en tanto no se produzca un cambio voluntario a un puesto de trabajo en el que el importe de las retribuciones complementarias fijas asignadas por el presente real decreto sea superior.
