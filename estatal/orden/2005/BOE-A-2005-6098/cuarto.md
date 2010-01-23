@@ -14,9 +14,13 @@ El Director General de la Policía ejercerá por delegación de las autoridades 
 
 2. Del Ministro Titular del Departamento y del Secretario de Estado de Seguridad, salvo las facultades delegadas en otros órganos:
 
-2.1 La gestión de la nómina, aprobación y compromiso de los gastos correspondientes al Servicio 03, Capítulo I «Gastos de personal», el reconocimiento de las obligaciones que de ellos se derive, así como la propuesta al Ministro de Economía y Hacienda de la ordenación de los pagos correspondientes, sin límite de cuantía.
+2.1 Respecto de los gastos del Capítulo I “Gastos de personal” del Servicio Presupuestario 03, la gestión de la nómina, aprobación y compromiso de los gastos, el reconocimiento de las obligaciones que de ellos se derive y proponer al Ministro de Economía y Hacienda la ordenación de los pagos correspondientes, sin límite de cuantía.
 
-2.2 Respecto de los gastos del Servicio 03, Capítulos 1, 2 y 6, y siempre que su cuantía no exceda de 450.000 euros, las facultades que el Texto Refundido de la Ley de Contratos de las Administraciones Públicas atribuye al órgano de contratación en relación con el acuerdo de inicio del expediente, adjudicación, prórroga, modificación y resolución del contrato, así como los reajustes de anualidades, salvo las delegadas en otros órganos.
+2.2 Respecto de los gastos del Servicio 03, cuando su cuantía no exceda de 1.500.000 euros:
+
+2.2.1 Las facultades que la legislación le confiere en materia de contratación administrativa, incluidos los negocios jurídicos y las encomiendas de gestión que puedan formalizarse al amparo de lo previsto en el artículo 15 de la Ley 30/1992, de 26 de noviembre, y en el artículo 4.1.n), en relación con el artículo 24.6, de la Ley 30/2007, de 30 de octubre, en relación con el acuerdo de iniciación del expediente, su adjudicación, prórroga, modificación y resolución, así como la resolución del recurso al que se refiere el artículo 37 de la Ley 30/2007, de 30 de octubre, y los reajustes de anualidades.
+
+2.2.2 La concesión de ayudas y subvenciones.
 
 2.3 La imposición de sanciones disciplinarias a funcionarios del Cuerpo Nacional de Policía excepto la de separación del servicio.
 
@@ -31,6 +35,16 @@ El Director General de la Policía ejercerá por delegación de las autoridades 
 4. Del Subsecretario del Interior, las siguientes facultades:
 
 4.1 Designar las comisiones de servicio con derecho a indemnización respecto a todo el personal adscrito al centro directivo, hasta el límite del crédito, salvo las facultades delegadas en otros órganos.
+
+4.2 Respecto del personal funcionario destinado en el centro directivo, no perteneciente al Cuerpo Nacional de Policía, las siguientes atribuciones:
+
+4.2.1 La declaración de las situaciones de servicio en Comunidades Autónomas.
+
+4.2.2 Acordar las comisiones de servicio y la atribución temporal de funciones en los términos y condiciones previstos en el Reglamento aprobado por Real Decreto 364/1995, de 10 de marzo.
+
+4.2.3 Conceder el reingreso al servicio activo de los funcionarios en situaciones de servicios especiales y de excedencia para el cuidado de familiares y por violencia de género que tengan derecho a reserva de puesto de trabajo.
+
+> Se modifican los puntos 2.1 y 2.2 y 4 por el art. 1.1 y 2 de la Orden INT/50/2010, de 12 de enero. Ref. BOE-A-2010-1002.
 
 > Las delegaciones efectuadas en los órganos de la Dirección General de la Policía se ratifican en los órganos de la Dirección General de la Policía que los sustituyen, y las delegaciones efectuadas por el Director General del Policía en los órganos dependientes del mismo se ratifican en los órganos dependientes del mismo que los sustituyen, según establece el apartado segundo y tercero de la Orden INT/2853/2006, de 13 de septiembre. Ref. BOE-A-2006-16193
 
