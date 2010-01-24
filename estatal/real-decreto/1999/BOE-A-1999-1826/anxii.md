@@ -1,31 +1,19 @@
 ## ANEXO XII
 
-## ACCESORIOS, REPUESTOS Y HERRAMIENTAS DE LOS VEHÍCULOS EN CIRCULACIÓN
+## Accesorios, repuestos y herramientas de los vehículos
 
-Los vehículos de motor y los conjuntos de vehículos en circulación deben llevar, como mínimo, la siguiente dotación:
+Los vehículos de motor y los conjuntos de vehículos en circulación deben llevar los siguientes accesorios, repuestos y herramientas:
 
-1. Un juego de lámparas de las luces que esté obligado a llevar de acuerdo con el artículo 16, en estado de servicio. Se exceptúa de llevar repuesto de la luz de cruce a los vehículos que incorporen un tipo de lámparas que garantice el encendido permanente de la luz de cruce (por ejemplo, las lámparas de descarga).
+1. Los turismos, así como los vehículos mixtos y los automóviles destinados al transporte de mercancías, estos dos últimos de masa máxima autorizada no superior a 3.500 kg, excepto los vehículos de tres ruedas y cuatriciclos, llevarán la siguiente dotación:
 
-Herramientas indispensables para cambio de lámparas.
+a) Dos dispositivos portátiles de preseñalización de peligro, que cumplan las condiciones establecidas en el anexo XI.
 
-2.1 Los turismos, además del equipo señalado en el apartado 1:
+b) Un chaleco reflectante de alta visibilidad, certificado según el Real Decreto 1407/1992, de 20 de noviembre, por el que se regulan las condiciones para la comercialización y libre circulación intracomunitaria de los equipos de protección individual, que exige el marcado CE, y que deberá ser conforme con la norma UNE EN 471, mínimo clase 2 (tanto en superficie mínima de materiales como en nivel de retrorreflexión de las bandas). Para una mejor verificación del material retrorreflectante, las bandas deberán llevar integrado el nombre del fabricante de forma visible, legible e indeleble y sin que disminuyan las propiedades de retrorreflexión del citado material.
 
-Dos dispositivos portátiles de preseñalización de peligro que cumplan con las condiciones establecidas en el anexo XI.
+En el caso de que se realicen funciones de vehículo piloto de protección y acompañamiento, se deberán llevar chalecos tanto para el conductor como para cada uno de los miembros del personal auxiliar.
 
-Una rueda completa de repuesto o una rueda de uso temporal, con las herramientas necesarias para el cambio de ruedas, o un sistema alternativo al cambio de las mismas que ofrezca suficientes garantías para la movilidad del vehículo. En estos casos se circulará respetando las limitaciones propias de cada alternativa.
+c) Una rueda completa de repuesto o una rueda de uso temporal, con las herramientas necesarias para el cambio de ruedas, o un sistema alternativo al cambio de las mismas que ofrezca suficientes garantías para la movilidad del vehículo. En estos casos se circulará respetando las limitaciones propias de cada alternativa.
 
-2.2 Los turismos destinados a servicio público, además del equipo señalado en los apartados 1 y 2.1: un equipo homologado de extinción de incendios, adecuado y en condiciones de uso.
+2. Los autobuses, así como los vehículos mixtos y los automóviles destinados al transporte de mercancías, estos dos últimos de masa máxima autorizada superior a 3.500 kg, y los conjuntos de vehículos no especiales, deberán llevar, además de la dotación que se establece en el apartado 1 a) y b), un equipo homologado de extinción de incendios, adecuado y en condiciones de uso.
 
-3. Los camiones de masa máxima autorizada no superior a 3.500 kg deberán llevar el equipo señalado en los apartados 1, 2.1 y 2.2, y además: un juego de lámparas, en estado de servicio, de las luces que esté obligado a llevar el remolque de acuerdo con el artículo 16.
-
-4. Los autobuses, los camiones de masa máxima autorizada superior a 3.500 kg y los conjuntos de vehículos no agrícolas solamente estarán obligados a llevar la dotación siguiente:
-
-Un juego de lámparas de las luces que esté obligado a llevar de acuerdo con el artículo 16, en estado de servicio. Se exceptúa de llevar repuesto de la luz de cruce a los vehículos que incorporen un tipo de lámparas que garantice el encendido permanente de la luz de cruce (por ejemplo, las lámparas de descarga).
-
-Un equipo homologado de extinción de incendios adecuado y en condiciones de uso.
-
-Herramientas indispensables para cambio de lámparas.
-
-Dos dispositivos portátiles de preseñalización de peligro, que cumplan con lo establecido en el anexo XI.
-
-5. Los vehículos especiales de motor y conjuntos de vehículos especiales, deberán llevar, además del equipo señalado en el apartado 1: dos dispositivos portátiles de preseñalización de peligro, que cumplan con lo establecido en el anexo XI.
+> Se modifica por el apartado único.4 de la Orden PRE/52/2010, de 21 de enero. Ref. BOE-A-2010-1011.
