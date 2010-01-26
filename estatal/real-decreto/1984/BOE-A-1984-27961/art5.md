@@ -14,7 +14,7 @@ Con carácter enunciativo, no limitativo, las especias pueden clasificarse como 
 
 3. Corteza:
 
-3.1 Canela.–Corteza desecada y privada de la mayor parte de su capa epidérmica, procedente del «Cinnamomum zeylanicum», Breyne ; «Cinnamomum Casia», Blume, y «Cinnamomum Burmani», Blume, y otras especias.
+3.1 Canela.–Corteza desecada y privada de la mayor parte de su capa epidérmica, procedente del «Cinnamomum zeylanicum», Blume; «Cinnamomum Casia», Blume, y «Cinnamomum Burmani», Breyne, y otras especias.
 
 4. Flores y partes florales:
 
@@ -58,6 +58,8 @@ Con carácter enunciativo, no limitativo, las especias pueden clasificarse como 
 
 5.15 Vainilla.–Fruto incompletamente maduro, fermentado y desecado, de la «Vainilla planifolia», Andrews, y de la «Vainilla pompona», Schiede.
 
+5.16 Pimienta rosa.–Frutos sanos, limpios, enteros o molidos y desecados de «Schinus terebinthifolius Raddi.
+
 6. Hojas y sumidades:
 
 6.1 Ajedrea.–Hojas y sumidades floridas, limpias, frescas o desecadas de la «Satureja hortensis», Linneo.
@@ -72,7 +74,7 @@ Con carácter enunciativo, no limitativo, las especias pueden clasificarse como 
 
 6.6 Laurel.–Hojas sanas, limpias y desecadas, del «Laurus nobilis», Linneo.
 
-6.7 Mejorana.–Hojas y sumidades floridas, sanas, limpias, frescas o desecadas, del «Origanum mejorana». L «Mejorana cultivata o de jardín», y «Thymus mastichina», Linneo. Mejorana silvestre.
+6.7 Mejorana.–Hojas y sumidades floridas, sanas, limpias, frescas o desecadas, del «Origanum mejorana». L «Mejorana cultivada o de jardín», y «Thymus mastichina», Linneo. Mejorana silvestre.
 
 6.8 Menta.–Hojas y sumidades floridas, sanas, limpias, frescas o desecadas, de la «Menta piperita», Linneo; «Menta viridis», Linneo, y «Menta aquatica», Linneo, u otras.
 
@@ -87,6 +89,10 @@ Con carácter enunciativo, no limitativo, las especias pueden clasificarse como 
 6.13 Salvia.–Plantas sanas, limpias, frescas o desecadas de la «Salvia officinalis», Linneo, y «Salvia lavandulaefolia», Walp.
 
 6.14 Tomillo.–Planta y sumidades floridas, sanas, limpias y desecadas del «Thymus vulgaris», Linneo; del «Thymus zygis», Linneo, y «Thymus piperella», Linnes.
+
+6.15 Albahaca.–Hojas y sumidades sanas, limpias y desecadas de "Ocimum basilicum" (L.).
+
+6.16 Eneldo.–Hojas y sumidades sanas, limpias y desecadas de "Peucedanum graveolens" (L.).
 
 7. Rizomas y raíces.
 
@@ -105,5 +111,13 @@ Con carácter enunciativo, no limitativo, las especias pueden clasificarse como 
 8.2 Mostaza.–Semillas sanas y limpias del «Brassica juncea» (mostaza marrón); «Brassica nigra», Koch (mostaza negra), y «Sinapis alba», Linneo (mostaza blanca).
 
 8.3 Nuez moscada.–Semilla desprovista de arilo de la «Myristica fragans», Houttyl.
+
+8.4 Eneldo.–Semillas sanas o limpias de "Peucedanum graveolens" (L.).
+
+8.5 Alholva o fenogreco.–Semillas sanas y limpias de "Trigonella foenum-graecum" (L.).
+
+8.6 kaloonji o Neguilla.–Semillas sanas y limpias de "Nigella sativa" (L.).
+
+> Se modifican los apartados 5, 6 y 8 por el art. único.1 del Real Decreto 40/2010, de 15 de enero. Ref. BOE-A-2010-1084.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 89, de 13 de abril de 1985. Ref. BOE-A-1985-5824.

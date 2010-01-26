@@ -46,8 +46,13 @@
 | Mostaza | 10 | 6 | 1,5 | 20-35 | 17 | 3-5 | 0,2 |
 | Nuez moscada | 10 | 5 | 0,5 | 25 (Mín.) | 10 | – | 2 |
 | Cálamo (rizoma entero y seco) | 12 | 6 | 1 | – | 1 | – | – |
-| Cálamo (rizoma descortezado) | 13 | 3 | 0,3 | – | 4,5 | – | – |
-| * Datos expresados sobre sustancia seca. |
+| Albahaca(2) | 12 | 16 | 2,0 | – | – | – | 0,5(1) |
+| Alholva(3) (fenogreco) | 11 | 7 | 1,5 | – | – | – | – |
+| Eneldo Semilla | 12 | 10 | 2,5 | – | – | – | – |
+| Eneldo Hoja | 8 | 15 | 2,0 | – | – | – | – |
+| Kalonji (Neguilla) | 8 | 10 | 2,0 | – | – | – | – |
+| Pimienta rosa | 14 | 7 | 1,8 | – | – | – | – |
+| (1) Los contenidos mínimos de esencia se aplicarán a los productos no tratados por vapor. (2) Según ISO 11163:1995. (3) Según ISO 6575:1982. * Datos expresados sobre sustancia seca. |
 
 Especificaciones complementarias
 
@@ -86,5 +91,7 @@ Orégano.–Extracto alcohólico, 6-13 por 100.
 Nuez moscada.–Aceite volátil que contendrá miristicina, un principio narcótico, pineno, canfeno y safrol. A dosis excesivas, tanto la nuez moscada como su aceite volátil son tóxicos.
 
 Nota: Con carácter general y con las excepciones señaladas se permitirá la presencia de otras partes procedentes del mismo vegetal y materias inofensivas heterogéneas hasta un máximo del 2 por 100. Asimismo queda prohibido en la elaboración y comercialización de las especias la presencia de insectos en cualquiera de sus fases de desarrollo y otras impurezas que denoten un deficiente estado higiénico sanitario.
+
+> Se modifica por el art. único.3 del Real Decreto 40/2010, de 15 de febrero. Ref. BOE-A-2010-1084.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 89, de 13 de abril de 1985. Ref. BOE-A-1984-27961.
