@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+Los actos administrativos dictados desde el 15 de noviembre, fecha de entrada en vigor del Real Decreto 1680/2009, de 13 de noviembre, sobre la aplicación del régimen de pago único en la agricultura y la integración de determinadas ayudas agrícolas en el mismo a partir del año 2010, hasta la fecha de entrada en vigor del presente real decreto y que afecten a la materia regulada por el presente real decreto se entenderán dictados, en función de su naturaleza y contenido, al amparo del presente real decreto o del Real Decreto 1612/2008, de 3 de octubre, sobre aplicación de los pagos directos a la agricultura y la ganadería.

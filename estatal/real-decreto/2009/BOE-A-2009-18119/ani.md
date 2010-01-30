@@ -25,5 +25,8 @@
 | Ayuda transformación forrajes desecados. | 2007-08 y 2008-09. | 100% | 43.725 |
 | Ayudas transformación lino y cáñamo. | 2007-08 y 2008-09. | 100% | 138 |
 | Ayuda a las semillas. | 2007-08 y 2008-09. | 100% | 10.347 |
-| Prima por sacrificio bovino. | 2007-08 y 2008-09. | 33% | 47.735 |
+| Prima por sacrificio bovino. | 2007-08 y 2008-09. | 33% | 47.175 |
+| Prima por sacrificio de teneros | 2007-08 y 2008-09. | 93% | 560 |
 | Tabaco crudo. | Derechos asignados en 2006. | 7% | 8.237 |
+
+> Se modifica por la disposición final 4.2 del Real Decreto 66/2010, de 29 de enero. Ref. BOE-A-2010-1396.
