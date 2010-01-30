@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Centro Nacional de Referencia de Aplicación de las Tecnologías de la Información y la Comunicación (TIC) basadas en fuentes abiertas.
+
+CENATIC, Fundación Pública Estatal, constituida por el Ministerio de Industria, Turismo y Comercio, a través de Red.es, podrá impulsar proyectos de software de fuentes abiertas dirigidos a la mejor implantación de las medidas de interoperabilidad contempladas en el presente real decreto y, al objeto de fomentar la reutilización y facilitar la interoperabilidad, se encargará de la puesta en valor y difusión de todas aquellas aplicaciones que sean declaradas de fuentes abiertas por las Administraciones Públicas.
