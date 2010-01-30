@@ -1,0 +1,1 @@
+Madrid, 22 de enero de 2010.–La Vicepresidente Primera del Gobierno y Ministra de la Presidencia, P. D. (Orden PRE/3545/2009, de 28 de diciembre), el Subsecretario de la Presidencia, Juan José Puerta Pascual.
