@@ -1,0 +1,1 @@
+Véase el Instrumento previsto en el artículo 3(2) del Acuerdo de Extradición entre la Unión Europea y los Estados Unidos de América de 25 de junio de 2003, para la aplicación del presente Tratado en los términos que en él se establecen, con efectos de 1 de febrero de 2020 y se publica un texto integrado. Ref. BOE-A-2010-1173
