@@ -1,0 +1,5 @@
+La Ley 2/2006, de 23 de marzo, por la que se crea el Consejo General de Colegios de Ópticos-Optometristas, preveía en su disposición transitoria primera la constitución de una Comisión gestora compuesta por dos representantes del Colegio Nacional de Ópticos-Optometristas y un representante por cada uno de los demás Colegios Oficiales de Ópticos-Optometristas existentes en el territorio estatal que elaboraría, en el plazo de seis meses, contado desde la entrada en vigor de esa Ley, unos estatutos provisionales reguladores de los órganos de gobierno del Consejo General de Colegios de Ópticos-Optometristas, en los que se debería incluir las normas de constitución y funcionamiento de dichos órganos, con determinación expresa de la competencia independiente, aunque coordinada, de cada uno de ellos.
+
+Elaborados por la citada Comisión gestora los indicados Estatutos provisionales y verificada su adecuación a la legalidad, procede, conforme a lo previsto en dicha disposición transitoria, ordenar su publicación en el «Boletín Oficial del Estado».
+
+En su virtud, dispongo:
