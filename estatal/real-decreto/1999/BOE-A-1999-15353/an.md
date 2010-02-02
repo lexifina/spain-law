@@ -1,0 +1,18 @@
+## ANEXO
+
+## Modelo de declaración responsable para los fabricantes, importadores y distribuidores mayoristas de labores de tabaco
+
+DECLARACIÓN RESPONSABLE PARA LOS FABRICANTES, IMPORTADORES Y DISTRIBUIDORES MAYORISTAS DE LABORES DE TABACO
+
+| Nombre y apellidos/razón social: |
+| --- |
+| NIF/CIF/NIE |
+| Domicilio de notificación: |
+| Representante: |
+| NIF/CIF/NIE |
+| Manifiesta bajo su responsabilidad*, su voluntad de desarrollar la actividad de fabricación/importación/distribución mayorista (táchese lo que no proceda) de labores de tabaco, comprometiéndose expresamente a cumplir con el régimen jurídico aplicable a dicha actividad, y en particular con las obligaciones fiscales relativas a los Impuestos Especiales, a disponer de la documentación que acredita dicho cumplimiento, a mantenerlo durante la vigencia de la actividad, a no estar incurso en las causas que inhabilitan para ser operador establecida en el artículo 1.dos de la Ley 13/1998 y en el artículo 2 del Real Decreto 1199/1999 y a comunicar cualquier variación de los datos y documentos aportados en este momento inicial al Comisionado para el Mercado de Tabacos. |
+| Junto a la presente declaración responsable, y conforme a lo establecido en los artículos 3, 4 y 5 del Real Decreto 1199/1999, se aporta la siguiente documentación justificativa: 1 Para fabricantes de labores de tabaco: ○ Los planos de los almacenes, con indicación, mediando el suficiente detalle, de las condiciones previstas de seguridad, recuento y movimiento de las labores, del cumplimiento de las medidas exigibles en relación con el almacenamiento no frigorífico de productos alimenticios y la indicación de las disposiciones previstas para el almacenamiento que permitan la fácil comprobación del producto depositado y de sus movimientos. ○ Una memoria descriptiva de las labores a fabricar, incluyendo una previsión del volumen de fabricación. 2 Para importadores de labores de tabaco: ○ De disponer de almacenes, propios o contratados, habrán de aportarse los planos de los almacenes con indicación de las condiciones de seguridad de los productos, que permitan el correcto almacenamiento, y en condiciones de seguridad, de los productos así como la fácil comprobación por la Administración de las labores almacenadas, su origen y sus movimientos. ○ De remitirse directamente el producto al almacén de cualquiera de los fabricantes o distribuidores mayoristas habilitados a tal fin, deberá indicar el fabricante o distribuidor mayorista a cuyos almacenes se van a remitir directamente las labores importadas, así como una copia del contrato suscrito al efecto y a la aceptación del fabricante o distribuidor mayorista a la que hace referencia el apartado 2 del artículo 15 del Real Decreto 1199/1999. 3. Para los distribuidores mayoristas de tabaco ○ Los planos de las instalaciones disponibles o contratadas, y la justificación documental de la propiedad o el contrato de los mismos, con descripción de las condiciones de seguridad de los productos, que permitan el correcto almacenamiento, y en condiciones de seguridad, de los productos así como la fácil comprobación por la Administración de las labores almacenadas, su origen y sus movimientos. |
+| Fecha y firma: |
+| * Mediante la presente declaración se manifiesta expresamente conocer que el incumplimiento de lo dispuesto en la presente declaración podrá dar lugar a las responsabilidades establecidas en el artículo 7 de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria y demás normativa sectorial. |
+
+> Se añade por el Real Decreto 36/2010, de 15 de enero. Ref. BOE-A-2010-1454.
