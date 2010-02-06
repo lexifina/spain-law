@@ -60,6 +60,16 @@ Procedimiento de presentación de solicitudes reguladas en el Real Decreto 170/2
 
 Procedimiento de presentación de solicitudes reguladas en el Real Decreto 362/2009, de 20 de marzo, sobre compensación al transporte marítimo y aéreo de mercancías no incluidas en el anexo I del Tratado Constitutivo de la Comunidad Europea, con origen o destino en las Islas Canarias.
 
+Liquidación de la tasa con código 060: Tasa por Controles de Sanidad Exterior Realizados a Carnes y Productos de Origen Animal de Países no Comunitario.
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+Liquidación de la tasa con código 058 «Tasa por Vacunación de Viajeros Internacionales.
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+> Se amplía por las Resoluciones de 27 de octubre de 2009 Ref. BOE-A-2010-1903. y 23 de diciembre de 2009. Ref. BOE-A-2010-1904.
+
 > Se amplía por el apartado 1 de la Resolución de 27 de marzo de 2009. Ref. BOE-A-2009-5386.
 
 > Se amplía por el apartado 1 de la Resolución de 9 de diciembre de 2008. Ref. BOE-A-2008-20062.
