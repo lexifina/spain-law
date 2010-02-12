@@ -1,3 +1,5 @@
 ## TÍTULO VII
 
 ## Del contrato mercantil de transporte terrestre
+
+> Se deroga por la disposición derogatoria única.1.a) de la Ley 15/2009, de 11 de noviembre. Ref. BOE-A-2009-18004.

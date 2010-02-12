@@ -384,6 +384,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 347](art347.md)
 - [Art 348](art348.md)
 - [TÍTULO VII](tvii.md)
+- [Arts 349-379](as349379.md)
 - [Art 349](a349.md)
 - [Art 350](a350.md)
 - [Art 351](a351.md)
