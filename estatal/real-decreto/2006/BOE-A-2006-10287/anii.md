@@ -2,16 +2,6 @@
 
 ## Países terceros en los que se conoce la presencia de Fusarium circinatum Niremberg et O´donnell
 
-Chile.
+(Sin contenido)
 
-Estados Unidos.
-
-Haití.
-
-Irak.
-
-Japón.
-
-México.
-
-Sudáfrica.
+> Se deja sin contenido por el art. único.6 del Real Decreto 65/2010, de 29 de enero. Ref. BOE-A-2010-2695.
