@@ -68,19 +68,17 @@ Sobre fondo blanco, un rombo negro. En su interior y sobre fondo rojo, una llama
 
 2. Siglas:
 
-a) Medicamento publicitario: EFP.
+a) Medicamento de uso hospitalario: H.
 
-b) Medicamento de uso hospitalario: H.
+b) Medicamento de diagnóstico hospitalario o de prescripción por determinados médicos especialistas: DH.
 
-c) Medicamento de diagnóstico hospitalario o de prescripción por determinados médicos especialistas: DH.
+c) Medicamento de especial control médico: ECM.
 
-d) Medicamento de especial control médico: ECM.
+d) Medicamentos de dispensación renovable: TLD.
 
-e) Medicamentos de dispensación renovable: TLD.
+e) Medicamentos tradicionales a base de plantas: MTP.
 
-f) Medicamentos tradicionales a base de plantas: MTP.
-
-Los símbolos comprendidos entre las letras a) y e) inclusive, y las siglas deberán estar situados en el ángulo superior derecho de las dos caras principales del embalaje exterior al lado derecho o debajo del Código Nacional y en el ángulo superior derecho del acondicionamiento primario, cuando proceda, en las mismas condiciones. Los demás símbolos deberán situarse en otro lugar bien visible del embalaje exterior con el fin de garantizar su máxima legibilidad.
+Los símbolos comprendidos entre los párrafos a) y e) inclusive, y las siglas deberán estar situados en el ángulo superior derecho de las dos caras principales del embalaje exterior al lado derecho o debajo del Código Nacional y en el ángulo superior derecho del acondicionamiento primario, cuando proceda, en las mismas condiciones. Los demás símbolos deberán situarse en otro lugar bien visible del embalaje exterior con el fin de garantizar su máxima legibilidad.
 
 3. Leyendas: Los símbolos y siglas previstos en los apartados 1 y 2 se acompañarán en el embalaje exterior con las siguientes leyendas situadas en lugar bien visible:
 
@@ -105,3 +103,5 @@ f) «Medicamento homeopático».
 En los medicamentos tradicionales a base de plantas, se incluirá en el apartado correspondiente a la indicación, del etiquetado y prospecto, la siguiente leyenda:
 
 g) «Basado exclusivamente en su uso tradicional».
+
+> Se modifica el apartado 2 por el art. 5.3 del Real Decreto 109/2010, de 5 de febrero. Ref. BOE-A-2010-2696.

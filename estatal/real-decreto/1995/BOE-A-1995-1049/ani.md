@@ -8,7 +8,7 @@ CONDICIONES
 
 Un almacén farmacéutico debe reunir las condiciones siguientes:
 
-1. Personal. El almacén dispondrá de personal suficiente con la necesaria capacitación profesional, bajo la dirección y dependencia de un Director técnico, responsable sanitario del mismo en los términos previstos en la Ley 25/1990, del Medicamento.
+1. Personal. El almacén dispondrá de un Director técnico, responsable sanitario del mismo en los términos previstos por el artículo 71 de la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios.
 
 2. Instalaciones. El almacén contará con el espacio e instalaciones suficientes para poder realizar las correspondientes actividades profesionales, técnicas y de gestión.
 
@@ -91,3 +91,5 @@ e) Condiciones especiales de conservación, si las requiere.
 Cada producto irá acompañado del correspondiente boletín de análisis que se menciona en el apartado 4.3.
 
 El almacén deberá registrar y archivar toda la información referente a la distribución de todos y cada uno de los productos para facilitar su recogida si fuera necesario.
+
+> Se modifica el epígrafe 1 por el art. 2.2 del Real Decreto 109/2010, de 5 de febrero. Ref. BOE-A-2010-2696
