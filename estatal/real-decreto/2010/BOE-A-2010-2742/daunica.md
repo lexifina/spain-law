@@ -1,0 +1,3 @@
+## Disposición adicional única. Participación de las desmotadoras en el régimen de ayudas al algodón.
+
+Para preservar el equilibrio entre las fases de producción y transformación de algodón alcanzado con el proceso de reestructuración, y establecer las condiciones que posibiliten la viabilidad de las industrias que permanezcan activas tras el mismo, es necesario regular la participación de las plantas de desmotado en el régimen de ayudas al algodón durante el periodo de vigencia del Programa Nacional de Reestructuración limitando la participación a aquellas plantas de desmotado afectadas por la reestructuración que hayan desmotado al menos tres de las cuatro campañas comprendidas entre 2006/07 y 2009/10.
