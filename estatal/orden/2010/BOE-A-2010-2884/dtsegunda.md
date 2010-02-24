@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Verificadores autorizados.
+
+Los organismos autorizados de verificación metrológica designados para la verificación de los surtidores dispensadores de combustible a los que se refiere la Orden ITC/3720/2006, de 22 de noviembre, por la que se regula el control metrológico del Estado de los sistemas de medida de líquidos distintos del agua denominados surtidores o dispensadores podrán verificar los surtidores o dispensadores a los que se refiere esta orden durante el plazo de un año desde su publicación, transcurrido el cual deberán obtener una designación específica.
