@@ -43,6 +43,7 @@
 | 650 (2) | IMP. SUCESIONES Y DONACIONES. MORTIS CAUSA ORDINARIA | 0A |
 | 651 (2) | IMP. SUCESIONES Y DONACIONES. INTERVIVOS | 0A |
 | 652 (2) | IMP. SUCESIONES Y DONACIONES. MORTIS CAUSA SIMPLIFICADA | 0A |
+| 685 | TASA SOBRE APUESTAS Y COMBINACIONES ALEATORIAS, AUTOLIQUIDACIÓN | 0A |
 | 696 | TASA JUDICIAL | 0A |
 | 715 | (Suprimido) | (Suprimido) |
 | 777 | DECLARACIONES-LIQUIDACIONES EXTEMPORÁNEAS Y COMPLEMENTARIAS. | 0A |
@@ -52,6 +53,8 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 685 por la disposición final 1 de la Orden EHA/388/2010, de 19 de febrero. Ref. BOE-A-2010-3024.
 
 > Se suprimen los modelos 201 y 225 por la disposición final 1.1 de la Orden EHA/1375/2009, de 26 de mayo. Ref. BOE-A-2009-8955.
 
