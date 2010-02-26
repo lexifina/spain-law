@@ -98,13 +98,9 @@ El salvado responderá a las siguientes características:
 
 11.4.5 Nivel higiénico: El salvado deberá estar exento de infestación viva debida a insectos, ácaros y roedores; exento de microorganismos tóxicos o desagradables, y exento de olores y sabores anormales. El nivel de contaminación con excrementos o pelos de roedores, con cuerpos, partes o excrementos de insectos y con cuerpos de ácaros, no deberá exceder de los límites que se fijen.
 
-11.5 Norma microbiológica: Las harinas y sémolas de trigo y otros productos de su molienda cumplirán las siguientes especificaciones:
+11.5 (Derogado)
 
-| Recuento de colonias aerobias masófilas (31º C ± 1º C) | Máximo 1 × 106/g. |
-| --- | --- |
-| Recuento de mohos | Máximo 1 × 104/g. |
-| Escherichia coli | Máximo 1 × 102/g. |
-| Salmonella | Ausencia/25 g. |
+> Se deroga el apartado 5 por el art. único.m) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032.
 
 > Se modifica el apartado 2.5 por el art. único del Real Decreto 1166/1990, de 21 de septiembre. Ref. BOE-A-1990-23736.
 

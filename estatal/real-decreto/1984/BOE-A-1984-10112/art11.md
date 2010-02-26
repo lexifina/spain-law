@@ -28,12 +28,8 @@ Ph, inferior a 4.
 
 Contenido en huevo, 3 por 100 mínimo expresado en yema de huevo técnica (contenido mínimo en materia seca referido a yema no preservada, de 42 por 100).
 
-11.3 Normas microbiológicas:
+11.3 (Derogado)
 
-Recuento colonias aerobias mesófilas (31 ºC ± 1 ºC): Máximo 1 x 104 colonias/gramo.
-
-Enterobacteriáceas totales: Máximo 1 x 10 colonias/gramo.
-
-Salmonella-Shigella: Ausencia en 25 gramos.
+> Se deroga el apartado 3 por el art. único.l) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032.
 
 > Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 310, de 27 de diciembre de 1984. Ref. BOE-A-1984-28138

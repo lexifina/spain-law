@@ -114,13 +114,7 @@ Prueba de fosfatasa: Negativa.
 
 Los siguientes niveles de contaminación, relativos a la higiene alimentaria de estos productos, han sido sancionados por la Subsecretaría del Ministerio de Sanidad y Consumo. En virtud del artículo 14 del Real Decreto 3302/1978, de 22 de diciembre, este Ministerio, previo informe de la Comisión Interministerial para la Ordenación Alimentaria, podrá modificar en cualquier momento la presente relación de contaminantes mediante Orden, atendiendo a razones de salud pública.
 
-8.1. Norma microbiológica aplicable a la leche concentrada:
-
-Gérmenes patógenos: Ausencia.
-
-Recuento de colonias aerobias mesófilas (30° ± 1° C): Máximo 1.105 col/ml.
-
-Enterobacteriaceae totales: Máximo: 1.101 col/ml.
+8.1. (Derogado)
 
 8.2 Contaminantes.
 
@@ -177,6 +171,8 @@ El etiquetado de los productos recogidos en esta Norma, deberá cumplir lo dispu
 13. Responsabilidades.
 
 A estos efectos, se estará a lo dispuesto en la Reglamentación Técnico Sanitaria de Industrias, Almacenamiento, Transporte y Comercialización de Leche y Productos Lácteos.
+
+> Se deroga el apartado 8.1 por el art. único.i) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032.
 
 > Se modifican los puntos 6.1.6, 10.2, 10.3 y 12 por el art. único de la Orden de 6 de diciembre de 1995. Ref. BOE-A-1995-20664.
 

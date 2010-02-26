@@ -60,17 +60,7 @@ Cumpliendo las especificaciones de esta norma el producto durante el proceso de 
 
 5.2.2.7. Agua potable, que cumplirá lo dispuesto en la legislación vigente.
 
-6. Norma microbiológica.
-
-Enterobacteriáceas totales: 1 x 102 colonias/gramo.
-
-Salmonella Shiguella: Ausencia en 25 gramos.
-
-Stafilococos aureus enterotoxigénico: 1 x 102 colonias/gramo.
-
-Sulfito reductores anaerobios esporulados: 1 x 102 colonias/gramo.
-
-La toma de muestras y técnicas analíticas serán las recomendadas por ISO y se realizarán sobre piezas en envase original.
+6. Norma microbiológica. (Derogado)
 
 7. Aditivos autorizados. (Derogado)
 
@@ -269,6 +259,8 @@ Los productos importados, además de cumplir lo establecido en el punto 12 de la
 15. Etiquetado facultativo.
 
 Dada la importancia que tiene en estos productos la incorporación o no de fosfato, se reserva la posibilidad de incorporar una frase con tal información de tamaño menor al de la denominación comercial, tan sólo para la categoría «extra», siempre y cuando no existan en dichos productos más de 4.500 pp m de fosfatos totales expresados en anhídrido fosfórico.
+
+> Se deroga el apartado 6 por el art. único.g) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032.
 
 > Se modifican los apartados 12.1.3, 12.1.4.1, 12.1.4.2, 12.1.9, 12.2, 15, se añade el 12.1.4.3 y se deroga el 16 por el apartado 1 y 2 de la Orden de 6 de abril de 1984. Ref. BOE-A-1984-8480.
 

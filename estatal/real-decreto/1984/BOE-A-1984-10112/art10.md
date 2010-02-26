@@ -18,12 +18,8 @@ Cloruros, 4 por 100 máximo, expresado en cloruro sódico.
 
 Consistencia, el producto deberá ser homogéneo, tolerándose sólo una ligera separación de suero. La consistencia medida con el consistómetro Bostwick, tendrá un valor máximo de 10 centímetros a 20º centígrados en 30 segundos.
 
-10.3 Normas microbiológicas:
+10.3 (Derogado)
 
-Recuento colonias aerobias mesófilas (31 ºC ± 1 ºC): Máximo 1 x 104 colonias/gramos.
-
-Enterobacteriáceas, totales: máxima 1 x 10 colonias/gramos.
-
-Salmonella-Shigella: ausencia en 25 gramos.
+> Se deroga el apartado 3 por el art. único.l) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032.
 
 > Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 310, de 27 de diciembre de 1984. Ref. BOE-A-1984-28138

@@ -24,14 +24,8 @@ Cobre, menos de cuatro partes por millón.
 
 Cuando el producto este diluido, los limites deben ser los establecidos para zumos de frutas y vegetales.
 
-12.9 Los microorganismos patógenos o sus toxinas no sobrepasarán los límites microbiológicos siguientes:
+12.9 (Derogado)
 
-Recuento colonias aerobias mesofilas (31 ± 1º C): recuento maximo 1 ∙ 10/ml.
-
-Enterobacteriaceae totales, ausencia/ml.
-
-Salmonella, ausencia/25ml.
-
-Mohos, máximo 1 X104 /ml.
+> Se deroga el apartado 12.9 por el art. único.j) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032.
 
 > Redactados los apartados 12.8 y 9 conforme a las correcciones de errores publicadas en BOE núms. 85, de 9 de abril de 1984. Ref. BOE-A-1984-8479. y 100, de 26 de abril de 1984. Ref. BOE-A-1984-9342.

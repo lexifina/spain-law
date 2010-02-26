@@ -12,7 +12,7 @@
 
 13.1.5 El contenido de nitritos, nitratos y sales amónicas no excederá, expresado en nitrógeno, de 20 mg por kilogramo de sal, excepto en el caso de la sal nitritada.
 
-13.1.6 El producto envasado y dispuesto para el consumo no contendrá más de 20.000 gérmenes banales por gramo y estará libre de agentes patógenos.
+13.1.6 (Derogado)
 
 13.1.7 Se admiten las siguientes tolerancias de residuos de metales pesados:
 
@@ -31,3 +31,5 @@
 13.2.2 No contendrán colorantes artificiales orgánicos o inorgánicos, ni agentes conservadores.
 
 13.2.3 Las salmueras en uso deberán renovarse cuando absorban más del 10 por 100 de yodo 0,1 N.
+
+> Se deroga el apartado 1.6 por el art. único.f) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032.

@@ -20,13 +20,7 @@ Arsénico, 3 ppm.
 
 Plomo, 10 ppm.
 
-7. Las especias y condimentos estarán libres de parásitos en cualquiera de sus formas. No contendrán microorganismos patógenos o sus toxinas, y se tolerarán los siguientes límites máximos:
-
-«Escherichia coli», 1 ∙ 101 col/g.
-
-Sulfito reductores: Esporulados anaerobios, 1 ∙ 103 col/g.
-
-«Salmonella», ausencia en 25 g.
+7. (Derogado)
 
 15.2 Características específicas:
 
@@ -37,3 +31,5 @@ Sulfito reductores: Esporulados anaerobios, 1 ∙ 103 col/g.
 No obstante, el producto que a continuación se indica, cuya definición se incluye, deberá cumplir las especificaciones que se señalan:
 
 2.2 Azúcar vainillado o vainillina azucarada.–Se denomina así al producto constituido por una mezcla de azúcar con vainillina sintética o etilvainillina, en proporciones mínimas de 7 ó 2 por 1.000, respectivamente.
+
+> Se deroga el apartado 1.7 por el art. único.n) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032.

@@ -22,8 +22,6 @@ Consistencia, el aceite podrá estar o no emulsionado.
 
 La salsa será prácticamente homogénea y sin grumos, tolerándose únicamente indicios de separación de suero o de aceite. La consistencia, medida con el consistómetro Bostwick, tendrá un valor máximo de 14 centímetros a 20 centígrados en 30 segundos.
 
-9.3 Normas microbiológicas:
+9.3 (Derogado)
 
-Bacillus cereus: Máximo 1 x 10 colonias/gramo.
-
-Salmonella-Shigella: Ausencia en 25 gramos producto.
+> Se deroga el apartado 3 por el art. único.l) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032.

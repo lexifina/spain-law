@@ -18,12 +18,8 @@ Cloruros, 5 por 100 máximo, expresado en cloruro sódico.
 
 Contenido en aceite de mostaza 2,5 por 100 mínimo.
 
-12.3 Normas microbiológicas:
+12.3 (Derogado)
 
-Recuento de colonias aerobias mesófilas (31 ºC ± 1 ºC): Máximo 1 x 105 colonias/gramo.
-
-Enterobacteriáceas totales: máximo 1 x 10 colonias/gramo.
-
-Salmonella-Shigella: Ausencia en 25 gramos.
+> Se deroga el apartado 3 por el art. único.l) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032.
 
 > Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 310, de 27 de diciembre de 1984. Ref. BOE-A-1984-28138

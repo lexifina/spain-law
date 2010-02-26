@@ -50,11 +50,7 @@ No deberán tener olor ni sabor desagradables. El color podrá variar del blanco
 
 7.1 Norma microbiológica aplicable a las gelatinas comestibles:
 
-| Recuento de colonias aerobias mesófilas 31 ± 1° C. | Máximo 5.103 col/g. |
-| --- | --- |
-| Enterobacteriaceae totales. | Ausencia/g. |
-| Cl. perfringens. | Ausencia/g. |
-| Salmonella-Shigella. | Ausencia/25 g. |
+(Derogado).
 
 7.2 Contaminantes.
 
@@ -189,3 +185,5 @@ Las gelatinas importadas además de cumplir todo lo establecido en el apartado 1
 Las gelatinas comestibles que se elaboren con destino exclusivo para la exportación y no cumplan los requisitos establecidos en esta norma, deberán estar embaladas y etiquetadas de forma que se identifiquen como tales inequívocamente para evitar su consumo en el mercado interior.
 
 En ningún caso podrán comercializarse en el mercado interior gelatinas comestibles que no cumplan todos los requisitos especificados en la presente norma.
+
+> Se deroga el apartado 7.1 por el art. único.k) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032
