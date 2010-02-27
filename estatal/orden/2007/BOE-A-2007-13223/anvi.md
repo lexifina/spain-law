@@ -6,11 +6,14 @@
 | --- | --- | --- |
 | 100 | Devolución IRPF ordinario y borrador | 0A |
 | 150 | Devolución IRPF régimen especial aplicable a los trabajadores desplazados a territorio español | 0A |
+| 200 | Devolución Impuesto sobre Sociedades. | 0A |
 | 206 | Devolución Impuesto Renta no Residentes (establecimiento permanente) | 0A |
 | 303 | Devolución IVA. Autoliquidación | 4T |
 | 308 | Devolución IVA Régimen especial recargo de equivalencia, art. 30 bis RIVA y sujetos pasivos ocasionales | M-T-0A |
 | 311 | Devolución IVA régimen simplificado. Declaración final | 4T |
 | 371 | Devolución IVA régimen general y simplificado. Declaración final | 4T |
+
+> Se modifica por la disposición final 1.2 de la Orden EHA/408/2010, de 24 de febrero. Ref. BOE-A-2010-3095.
 
 > Se modifica por la disposición final 1 de la Orden EHA/1658/2009, de 12 de junio. Ref. BOE-A-2009-10326.
 
