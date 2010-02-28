@@ -1,0 +1,5 @@
+## Disposición adicional única. Informes sobre los efectos de la aplicación del procedimiento de resolución de restricciones por garantía de suministro.
+
+1. El Ministro de Industria, Turismo y Comercio, en el plazo de dos años desde la entrada en vigor del presente real decreto, presentará un informe a la Comisión Delegada del Gobierno para Asuntos Económicos, en el que se analizará el impacto en el mercado de la aplicación del procedimiento de resolución de restricciones por garantía de suministro, para los diferentes agentes del mercado eléctrico en España afectados, poniendo especial énfasis en los efectos que afecten a la competencia.
+
+2. El Ministro de Industria, Turismo y Comercio en el plazo de dos años desde la entrada en vigor del presente real decreto, presentará un informe a la Comisión Delegada del Gobierno para el Cambio Climático, en el que se analizará el impacto en relación a las emisiones de CO2 como consecuencia de la aplicación del procedimiento de resolución de restricciones por garantía de suministro.
