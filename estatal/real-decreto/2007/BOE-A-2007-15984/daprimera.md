@@ -16,13 +16,13 @@ Uno. Los procedimientos que se relacionan a continuación podrán entenderse des
 
 7. Procedimiento para el reconocimiento del derecho a la exención en las entregas de bienes a organismos reconocidos que los exporten fuera del territorio de la Comunidad Europea en el marco de sus actividades humanitarias, caritativas o educativas, previsto en el artículo 9.4.º del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
 
-8. Procedimiento para conceder las autorizaciones administrativas que condicionan determinadas exenciones en importaciones de bienes, regulado por el artículo 17 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de di-ciembre.
+8. Procedimiento para conceder las autorizaciones administrativas que condicionan determinadas exenciones en importaciones de bienes, regulado por el artículo 17 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
 
 9. Procedimiento para el reconocimiento del derecho a la aplicación del tipo impositivo reducido en las entregas, adquisiciones intracomunitarias o importaciones de vehículos destinados a autotaxis o autoturismos especiales para el transporte de personas con minusvalía en sillas de ruedas, bien directamente o previa su adaptación, así como los vehículos a motor que, previa adaptación o no, deban transportar habitualmente a personas con minusvalía en silla de ruedas o con movilidad reducida, previsto en el artículo 91.Dos.1.4.º de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
 
 10. (Derogado)
 
-11. Procedimiento para la realización de devoluciones a empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto sobre el Valor Añadido, regulado en el artículo 31 del reglamento del citado impuesto, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+11. Procedimiento para la realización de devoluciones a empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto sobre el Valor Añadido, regulado en los artículos 31 y 31 bis del reglamento del citado impuesto, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
 
 12. Procedimiento para la devolución del Impuesto sobre el Valor Añadido por entregas a título ocasional de medios de transporte nuevos, previsto en el artículo 32 del reglamento del citado impuesto, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
 
@@ -58,7 +58,7 @@ Uno. Los procedimientos que se relacionan a continuación podrán entenderse des
 
 28. Procedimiento para la devolución de cuotas de los impuestos especiales ingresadas por irregularidades en la circulación intracomunitaria, por la concurrencia de doble imposición, previsto en el artículo 17 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y en el artículo 17.4 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio.
 
-29. Procedimiento para autorizar la sustitución de precintas por otras marcas fiscales, previsto en el ar-tículo 18.7 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y en el artículo 26.3 y 4 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio.
+29. Procedimiento para autorizar la sustitución de precintas por otras marcas fiscales, previsto en el artículo 18.7 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y en el artículo 26.3 y 4 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio.
 
 30. Procedimiento para la devolución de los Impuestos Especiales sobre la Cerveza, sobre Productos Intermedios y sobre el Alcohol y Bebidas Derivadas, previsto en el artículo 23.10 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y en el artículo 57.4 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio.
 
@@ -197,5 +197,7 @@ Dos. Los procedimientos que se relacionan a continuación deberán entenderse es
 2. Procedimiento para el reconocimiento de la condición de entidades o establecimiento de carácter social, regulado en el artículo 6 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
 
 3. Procedimiento para el reconocimiento del derecho a la exención de los servicios prestados directamente a sus miembros por determinadas entidades, previsto en el artículo 20.Uno.6.º de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y en el artículo 5 del reglamento de dicho impuesto, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+
+> Se modifica el apartado 1.11 por la disposición final 2 del Real Decreto 192/2010, de 26 de febrero. Ref. BOE-A-2010-3370
 
 > Se deroga el apartado 1.10 por la disposición derogatoria única del Real Decreto 2126/2008, de 26 de diciembre. Ref. BOE-A-2008-20839
