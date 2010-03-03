@@ -1,0 +1,3 @@
+## Disposición adicional. Cumplimiento de la Decisión de la Comisión Europea relativa a la amortización fiscal del Fondo de comercio financiero para la adquisición de participaciones extranjeras.
+
+A partir de la notificación de la Decisión de la Comisión Europea relativa a la amortización fiscal del Fondo de comercio financiero para la adquisición de participaciones extranjeras, en el asunto Ayuda de Estado n.º C45/2007-España, se procederá a la modificación del artículo 12.5 del Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, al objeto de adoptar las medidas necesarias en aplicación de dicha Decisión.

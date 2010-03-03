@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. Solicitudes de devolución presentadas por empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto sobre el Valor Añadido correspondientes a cuotas soportadas en 2009.
+
+Las solicitudes de devolución de empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto sobre el Valor Añadido pero establecidos en la Comunidad, Islas Canarias, Ceuta o Melilla presentadas hasta el 31 de diciembre de 2009, se tramitarán de acuerdo con el artículo 119 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, según su redacción vigente hasta esa fecha.

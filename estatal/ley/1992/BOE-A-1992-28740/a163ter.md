@@ -26,10 +26,14 @@ Este registro de operaciones deberá conservarse por el empresario o profesional
 
 e) Expedir y entregar factura o documento sustitutivo cuando el destinatario de las operaciones se encuentre establecido o tenga su residencia o domicilio habitual en el territorio de aplicación del impuesto.
 
-Dos. En caso de que el empresario o profesional no establecido hubiera elegido cualquier otro Estado miembro distinto de España para presentar la declaración de inicio en este régimen especial, y en relación con las operaciones que, de acuerdo con lo dispuesto por la letra c) de la letra A) del número 4.º del apartado uno del artículo 70 de esta Ley, deban considerarse efectuadas en el territorio de aplicación del impuesto, el ingreso del impuesto correspondiente a las mismas deberá efectuarse mediante la presentación en el Estado miembro de identificación de la declaración a que se hace referencia en el apartado anterior.
+Dos. En caso de que el empresario o profesional no establecido hubiera elegido cualquier otro Estado miembro distinto de España para presentar la declaración de inicio en este régimen especial, y en relación con las operaciones que, de acuerdo con lo dispuesto por el número 4.º del apartado Uno del artículo 70 de esta Ley, deban considerarse efectuadas en el territorio de aplicación del Impuesto, el ingreso del Impuesto correspondiente a las mismas deberá efectuarse mediante la presentación en el Estado miembro de identificación de la declaración a que se hace referencia en el apartado anterior.
 
-Además, el empresario o profesional no establecido deberá cumplir el resto de obligaciones contenidas en el apartado uno anterior en el Estado miembro de identificación y, en particular, las establecidas en la letra d) de dicho apartado. Asimismo, el empresario o profesional deberá expedir y entregar factura o documento sustitutivo cuando el destinatario de las operaciones se encuentre establecido o tenga su residencia o domicilio habitual en el territorio de aplicación del Impuesto.
+Además, el empresario o profesional no establecido deberá cumplir el resto de obligaciones contenidas en el apartado Uno anterior en el Estado miembro de identificación y, en particular, las establecidas en la letra d) de dicho apartado. Asimismo, el empresario o profesional deberá expedir y entregar factura o documento sustitutivo cuando el destinatario de las operaciones se encuentre establecido o tenga su residencia o domicilio habitual en el territorio de aplicación del Impuesto.
 
 Tres. El Ministro de Hacienda dictará las disposiciones necesarias para el desarrollo y aplicación de lo establecido en el presente capítulo.
+
+> Se modifica el apartado 2 por el art. 1.16 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366.
+
+> Esta modificación surte efectos desde el 1 de enero de 2010, según establece la disposición final 4.
 
 > Se añade por el art. 4.24 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
