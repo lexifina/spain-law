@@ -2084,7 +2084,7 @@ h) Tabla de agrupaciones del balance de situación de las Entidades Gestoras y S
 | 133040 | (597),(598) | 4. Provisiones. |
 | 134000 | 57 | IV. Tesorería. |
 | 135000 | 55 | V. Partidas pendientes de aplicación. |
-| 135010 | 555,558 | 1. Partidas pendientes de aplicación. |
+| 135010 | 5510,5515,555, 558 | 1. Partidas pendientes de aplicación. |
 | 135020 | 559 | 2. Otras partidas pendientes de aplicación. |
 | 136000 | 480,580 | VI. Ajustes por periodificación. |
 | 199999 |  | Total general (A+B+C). |
@@ -2124,7 +2124,7 @@ h) Tabla de agrupaciones del balance de situación de las Entidades Gestoras y S
 | 233050 | 521,523,527 | 5. Otros acreedores. |
 | 233060 | 560,561 | 6. Fianzas y depósitos recibidos a corto plazo. |
 | 234000 |  | IV. Partidas pendientes de aplicación. |
-| 234010 | 554,556 | 1. Partidas pendientes de aplicación. |
+| 234010 | 5516,554,556 | 1. Partidas pendientes de aplicación. |
 | 234020 | 559 | 2. Otras partidas pendientes de aplicación. |
 | 235000 | 485,585 | V. Ajustes por periodificación. |
 | 299999 |  | Total general (A+B+C+D). |
@@ -2660,3 +2660,7 @@ n) Tabla de agregaciones de la cuenta del resultado económico-patrimonial de la
 | 404040 | 779 | d) Ingresos y beneficios de otros ejercicios. |
 | 410000 |  | Desahorro. |
 | 499999 |  | Total haber. |
+
+> Se modifica la tabla h) por el apartado 3 de la Resolución de 26 de enero de 2010. Ref. BOE-A-2010-3516.
+
+> Redactada conforme a la corrección de errores publicada en el BOE núm. 63 de 13 de marzo de 2010. Ref. BOE-A-2010-4170.
