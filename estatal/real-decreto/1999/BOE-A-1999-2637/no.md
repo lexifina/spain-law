@@ -1,1 +1,1 @@
-> Las disposiciones relativas a las autorizaciones singulares no producirán efecto hasta que entren en vigor las normas reguladoras de las tasas por prestación de servicios postales según la disposición final 2.
+Las menciones hechas a la «autorización administrativa general» se entenderán hechas a la «autorización general» según establece la disposición adicional única del Real Decreto 101/2010, de 5 de febrero. Ref. BOE-A-2010-3750
