@@ -1,0 +1,3 @@
+## Quinta.
+
+Cuando la solicitud de opción por los apellidos correspondientes a la ley del lugar del nacimiento se formalice ante el encargado del Registro Civil Consular español en un momento posterior a la inscripción del nacimiento del niño/a en el citado Registro, y siempre que el nacido mantenga su residencia habitual en el país de su nacimiento, habrá de tramitarse a través del cauce procedimental de los expedientes registrales de cambio de apellidos regulados por los artículos 57 y siguientes de la Ley del Registro Civil, pero debiendo aplicarse en su resolución los criterios materiales de la Sentencia del Tribunal de Luxemburgo de 14 de octubre de 2008 que resultan de esta Instrucción, que prevalecen sobre los requisitos materiales fijados en la citada Ley.
