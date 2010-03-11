@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Anticipos de ayudas vinculadas a determinados préstamos para la mejora y modernización de estructuras agrarias.
+
+En los términos municipales afectados de acuerdo con el artículo 1, con carácter preferente, podrá efectuarse el pago anticipado del importe total de las ayudas de minoración de anualidades de amortización del principal de los préstamos acogidos al Real Decreto 613/2001, de 8 de junio, para la Mejora y Modernización de las Estructuras de Producción de las Explotaciones Agrarias, de aquellos expedientes de los que se disponga de la correspondiente certificación final de cumplimiento de compromisos y realización de inversiones.

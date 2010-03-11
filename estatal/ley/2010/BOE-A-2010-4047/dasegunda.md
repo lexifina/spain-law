@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Créditos presupuestarios.
+
+La reparación de los daños en los bienes de titularidad estatal, así como las indemnizaciones que se concedan por daños en producciones agrícolas y ganaderas, se financiarán con cargo a los presupuestos de los respectivos departamentos ministeriales; a estos efectos, se realizarán las transferencias de crédito que sean necesarias, sin que resulten de aplicación las limitaciones contenidas en el artículo 52.1.a de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, respecto de la realización de transferencias de crédito desde operaciones de capital a operaciones corrientes.
