@@ -12,6 +12,10 @@ Corresponde asimismo a los Juzgados de lo Penal la ejecución de las sentencias 
 
 Corresponde asimismo a los Juzgados Centrales de lo Penal la ejecución de las sentencias dictadas en causas por delito por los Juzgados Centrales de Instrucción.
 
+4. Corresponde a los Juzgados de lo Penal el reconocimiento y ejecución de las resoluciones de decomiso transmitidas por las autoridades competentes de otros Estados miembros de la Unión Europea, cuando las mismas deban cumplirse en territorio español.
+
+> Se añade el apartado 4 por el art. único de la Ley Orgánica 3/2010, de 10 de marzo. Ref. BOE-A-2010-4046.
+
 > Se añade el último párrafo de los apartados 2 y 3 por el art. único.2 y 3 de la Ley Orgánica 2/2008, de 4 de diciembre. Ref. BOE-A-2008-19660.
 
 > Se añade el párrafo segundo del apartado 2 por la disposición adicional 10.3 bis de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760.
