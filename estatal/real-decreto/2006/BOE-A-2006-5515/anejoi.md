@@ -35,7 +35,7 @@
 | 3. Cumplimiento del CTE: | Justificación de las prestaciones del edificio por requisitos básicos y en relación con las exigencias básicas del CTE. La justificación se realizará para las soluciones adoptadas conforme a lo indicado en el CTE. También se justificarán las prestaciones del edificio que mejoren los niveles exigidos en el CTE. |
 | 3.1 Seguridad Estructural. |  |
 | 3.2 Seguridad en caso de incendio*. |  |
-| 3.3 Seguridad de utilización. |  |
+| 3.3 Seguridad de utilización y accesibilidad. |  |
 | 3.4 Salubridad. |  |
 | 3.5 Protección contra el ruido. |  |
 | 3.6 Ahorro de energía. |  |
@@ -79,3 +79,5 @@
 |  | Resumen por capítulos, con expresión del valor final de ejecución y contrata. |
 |  | Incluirá el presupuesto del control de calidad. |
 |  | Presupuesto del Estudio de Seguridad y Salud. |
+
+> Se modifica por el art. único.6 del Real Decreto 173/2010, de 19 de febrero. Ref. BOE-A-2010-4056.
