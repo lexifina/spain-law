@@ -24,7 +24,7 @@ b) En peligro de extinción:
 
 2.º Especie ovina: Alcarreña, Ansotana, Aranesa, Canaria, Canaria de Pelo, Carranzana (variedad negra), Cartera, Castellana (variedad negra), Chamarita, Churra Lebrijana, Churra Tensina, Colmenareña, Gallega, Guirra, Ibicenca, Lojeña, Maellana, Mallorquina, Manchega (variedad negra), Menorquina, Merina (variedad negra), Merina de Grazalema, Montesina, Ojalada, Palmera, Ripollesa, Roja Mallorquina, Roya Bilbilitana, Rubia del Molar, Sasi Ardi, Talaverana, Xalda y Xisqueta.
 
-3.º Especie caprina: Agrupación de las Mesetas, Azpi Gorri, Blanca Andaluza o Serrana, Blanca Celtibérica, Bermeya, Del Guadarrama, Florida, Gallega, Ibicenca, Jurdana, Mallorquina, Moncayo, Negra Serrana, Payoya, Pirenaica, Retinta y Verata.
+3.º Especie caprina: Agrupación de las Mesetas, Azpi Gorri, Blanca Andaluza o Serrana, Blanca Celtibérica, Bermeya, Del Guadarrama, Florida, Gallega, Ibicenca, Jurdana, Mallorquina, Moncaína, Negra Serrana, Payoya, Pirenaica, Retinta y Verata.
 
 4.º Especie porcina: Celta, Chato Murciano, EuskalTxerria, Gochu Asturcelta, Ibérico (variedades Torbiscal, Lampiño y Manchado de Jabugo), Negra Canaria y Negra Mallorquina.
 
@@ -32,7 +32,7 @@ b) En peligro de extinción:
 
 6.º Especie equina asnal: Andaluza, Asno de las Encartaciones, Balear, Catalana, Majorera y Zamorano-Leonés.
 
-7.º Especies aviares: Andaluza Azul, Valenciana de Chulilla, Euskal Oiloa, Gallina Empordanesa, Galiña de Mos, Gallina del Prat, Mallorquina, Menorquina, Murciana, Pita Pinta, Penedesenca, Utrerana, Oca Empurdanesa y Euskal Antzara.
+7.º Especies aviares: Andaluza Azul, Valenciana de Chulilla, Euskal Oiloa, Gallina Empordanesa, Galiña de Mos, Gallina del Prat, Mallorquina, Menorquina, Murciana, Pita Pinta, Penedesenca, Utrerana, Indio de León, Pardo de León, Gallina Castellana Negra, Oca Empurdanesa y Euskal Antzara.
 
 2. Razas integradas en España:
 
@@ -61,3 +61,5 @@ a) Especie ovina: Salz.
 6. Otros équidos registrados.
 
 a) Caballo de Deporte Español (C.D.E.).
+
+> Se modifican los números 3 y 7 del apartado 1.b) por el art. único.1 y 2 de la Orden ARM/574/2010, de 4 de marzo. Ref. BOE-A-2010-4134
