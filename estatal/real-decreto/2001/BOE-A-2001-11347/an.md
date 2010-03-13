@@ -34,6 +34,8 @@ Mastín del Pirineo.
 
 Mastín Español.
 
+Pachón Navarro.
+
 Pastor Garafiano.
 
 Perdigueiro Galego.
@@ -57,6 +59,8 @@ Ratonero-Bodeguero Andaluz.
 Sabueso Español.
 
 Villano de las Encartaciones.
+
+> Se modifica por el art. único de la Orden ARM/573/2010, de 4 de marzo. Ref. BOE-A-2010-4133.
 
 > Se modifica por el art. único.6 y anexo del Real Decreto 1557/2005, de 23 de diciembre. Ref. BOE-A-2006-415.
 
