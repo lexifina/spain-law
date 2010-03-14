@@ -1,3 +1,5 @@
 ## Disposición final cuarta. Entrada en vigor.
 
-El presente real decreto entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado».
+(Sin contenido)
+
+> Se renumera como disposición final 3 por el art. 2.10 del Real Decreto 200/2010, de 26 de febrero. Ref. BOE-A-2010-4174

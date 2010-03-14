@@ -1,3 +1,5 @@
-## Disposición final tercera. Inscripción de las empresas.
+## Disposición final tercera. Entrada en vigor.
 
-En el plazo máximo de seis meses desde la entrada en vigor de este real decreto, las empresas de ventas a distancia cuyas propuestas se difundan por medios que abarquen el territorio de más de una comunidad autónoma deberán presentar la solicitud de autorización, en su caso, y de inscripción en las comunidades autónomas donde tengan su domicilio social.
+El presente real decreto entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado».
+
+> Se deroga y se renumera con el contenido de la disposición final 4 por la disposición derogatoria única.c) y el art. 2.10 del Real Decreto 200/2010, de 26 de febrero. Ref. BOE-A-2010-4174
