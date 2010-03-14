@@ -336,36 +336,70 @@ La información de los apartados 1 y 2 deberá remitirse cuando se solicite la i
 
 Anualmente se enviarán los datos que figuran en los apartados 3) y 4) durante el primer trimestre del año siguiente al que se produzcan.
 
-6.1 Información y datos para la inscripción de los agentes externos que compren energía en España.
+6.1 Modelo de comunicación de inicio de actividad de empresa comercializadora.
 
-1) Datos de la sociedad:
+COMUNICACIÓN DE INICIO DE ACTIVIDAD
 
-Denominación o razón social:
+D.ª/D.………………………………………………, mayor de edad, con documento nacional de identidad número …………………………., en nombre y representación de...................., con CIF.......……, domicilio social en……………………………………… y domicilio a efectos de notificaciones en……………………………………………....., en plena posesión de su capacidad jurídica y de obrar, comunica a [órgano ante el que se presenta] el inicio de la actividad de comercialización de energía eléctrica, que se desarrollará en el ámbito territorial de………………………………………… a cuyos efectos presenta declaración responsable sobre el cumplimiento de los requisitos establecidos para el ejercicio de la misma.
 
-Domicilio social:
+En…………………………….… a…… de………………………… de......
 
-Dirección:
+Firma
 
-Población:
+6.2 Modelo de declaración responsable de empresa comercializadora.
 
-Provincia:
+DECLARACIÓN RESPONSABLE
 
-Código postal:
+D.ª/D.................................................................., mayor de edad, con documento nacional de identidad número........................, en nombre y representación de............., con domicilio social en…………………………………………… y CIF…………
 
-País:
+Declaro bajo mi responsabilidad, a efectos de la comunicación de inicio de la actividad de comercialización que dicha sociedad cumple los requisitos necesarios para el ejercicio de dicha actividad exigidos en la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico y su normativa de desarrollo, en particular:
 
-Teléfono:
+a) Ser sociedades mercantiles debidamente inscritas en el registro correspondiente o equivalente en su país de origen, y contar con un objeto social que acredita la capacidad para vender y comprar energía eléctrica sin limitaciones o reservas al ejercicio de dicha actividad.
 
-Fax y correo electrónico, en su caso:
+En el caso de empresas con sede en España: el cumplimiento en los estatutos de las exigencias de separación de actividades y de cuentas establecidas en los artículos 14 y 20 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
 
-Representantes legales:
+En el caso de empresas de otros países: cumplimiento de los requisitos de separación de actividades y cuentas de las actividades desarrolladas en el ámbito del sistema eléctrico español.
 
-Fecha de constitución de la sociedad:
+b) Cumplir con los requisitos exigidos a los sujetos compradores en el mercado de producción de energía eléctrica conforme a los Procedimientos de Operación Técnica y, en su caso, las Reglas de Funcionamiento y Liquidación del mercado de producción.
 
-6.2 Requisitos y periodicidad de la información.
+c) Haber presentado ante el Operador del Sistema y ante el Operador del Mercado las garantías que resultan exigibles para la adquisición de energía en el mercado de producción de electricidad en los Procedimientos de Operación Técnica y en las correspondientes Reglas de Funcionamiento y Liquidación del Mercado, respectivamente.
 
-La información a que hace referencia el apartado anterior deberá estar debidamente acreditada mediante la firma de un representante legal de la sociedad.
+Asimismo manifiesto que dispongo de la documentación que acredita el cumplimiento de los citados requisitos, y que me comprometo a mantenerlos durante el periodo de tiempo inherente al ejercicio de la actividad de comercialización y a notificar los hechos que supongan una modificación de los mismos, asumiendo las responsabilidades legales en caso de incumplimiento, falsedad u omisión.
 
-La información del apartado anterior deberá remitirse cuando se solicite la inscripción de la sociedad en el registro y cuando se produzca algún cambio de los datos que figuran en el mismo.
+En…………………………….… a…… de………………………… de......
+
+Firma
+
+6.3 Modelo de comunicación de inicio de actividad de consumidor directo en mercado.
+
+COMUNICACIÓN DE INICIO DE ACTIVIDAD
+
+D.ª/D.................................................................., mayor de edad, con documento nacional de identidad número........................, en nombre y representación de............., con CIF............., domicilio social en............................................................. y domicilio a efectos de notificaciones en.........................................., en plena posesión de su capacidad jurídica y de obrar, comunica a [órgano ante el que se presenta] el inicio de la actividad de consumidor directo en mercado en su instalación de ..........., a cuyos efectos presenta declaración responsable sobre el cumplimiento de los requisitos establecidos para el ejercicio de la misma.
+
+En…………………………….… a…… de………………………… de......
+
+Firma
+
+6.4 Modelo de declaración responsable de consumidor directo en mercado.
+
+DECLARACIÓN RESPONSABLE
+
+D.ª/D.................................................................., mayor de edad, con documento nacional de identidad número........................, en nombre y representación de............., con domicilio social en................................................. y CIF................
+
+Declaro bajo mi responsabilidad, a efectos de la comunicación de inicio de la actividad de consumidor directo en mercado que dicha sociedad cumple los requisitos necesarios para el ejercicio de dicha actividad exigidos en la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico y su normativa de desarrollo, en particular:
+
+a) Haber prestado al operador del sistema garantía suficiente para dar cobertura a las obligaciones económicas que se puedan derivar de la actuación de la sociedad y cumplir los requisitos establecidos en los Procedimientos de Operación relativos al proceso de cobros y pagos.
+
+b) En caso de participar en el mercado diario e intradiario de producción de energía eléctrica: tener la condición de agente de mercado habiendo suscrito el contrato de adhesión a las reglas y condiciones de funcionamiento y liquidación del mercado de producción y haber presentado las garantías que correspondan ante el operador del mercado.
+
+Asimismo manifiesto que dispongo de la documentación que acredita el cumplimiento de los citados requisitos, y que me comprometo a mantenerlos durante el periodo de tiempo inherente al ejercicio de la actividad y a notificar los hechos que supongan una modificación de los mismos,, asumiendo las responsabilidades legales en caso de incumplimiento, falsedad u omisión.
+
+En…………………………….… a…… de………………………… de......
+
+Firma
+
+> Se modifican los apartados 6.1 y 6.2 y se añaden el 6.3 y 6.4 por el art. 3.10 a 13 del Real Decreto 198/2010, de 26 de febrero. Ref. BOE-A-2010-4172.
+
+> Redactados los apartados 6.3 y 6.4 conforme a la corrección de errores publicada en BOE núm. 122, de 19 de mayo de 2010. Ref. BOE-A-2010-8031.
 
 > Se derogan los apartados 2.1 y 2.2 por la disposición derogatoria única.1.a) del Real Decreto 485/2009, de 3 de abril. Ref. BOE-A-2009-5618
