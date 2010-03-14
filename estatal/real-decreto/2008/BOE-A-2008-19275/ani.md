@@ -6,7 +6,9 @@ Servicio Público de Empleo Estatal (SPEE)
 
 Consejo General.
 
-Comisión Ejecutiva.
+Comisión Ejecutiva Central.
+
+Comisiones Ejecutivas Territoriales.
 
 Comisiones Ejecutivas Provinciales e Insulares.
 
@@ -14,7 +16,7 @@ Comisión de Seguimiento de la Contratación Laboral.
 
 Consejos Comarcales.
 
-Comisiones Regionales y Provinciales de Seguimiento del Acuerdo para el Empleo y Protección Social Agrarios (AEPSA).
+Comisiones Regionales y Provinciales de Seguimiento del Programa de Fomento de Empleo Agrario (PFEA).
 
 Instituto Nacional de la Seguridad Social (INSS)
 
@@ -93,3 +95,5 @@ Consejo General del Sistema Nacional de Empleo
 Pleno.
 
 Comisión Permanente.
+
+> Se modifica por el art. único de la Orden TIN/581/2010, de 4 de marzo. Ref. BOE-A-2010-4171.
