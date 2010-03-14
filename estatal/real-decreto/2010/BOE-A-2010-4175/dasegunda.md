@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Datos comunicados directamente al registro de franquiciadores del Ministerio de Industria, Turismo y Comercio.
+
+Los datos comunicados directamente al registro de franquiciadores del Ministerio de Industria, Turismo y Comercio se incorporarán al mismo de manera automática, y se pondrán a disposición de las comunidades autónomas de forma que se garantice que puedan disponer de un censo actualizado de las mismas. Se procederá de igual manera con las modificaciones sobre los datos que se comuniquen directamente al registro de franquiciadores del Ministerio de Industria, Turismo y Comercio.
