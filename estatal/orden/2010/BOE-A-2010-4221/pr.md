@@ -1,0 +1,11 @@
+La creación del marco jurídico para facilitar y extender la implantación de las Tecnologías de la Información y las Comunicaciones en las Administraciones Públicas, conservando las garantías constitucionales y legales de los derechos de los ciudadanos y, en general, de las personas que se relacionen con ellas, ha sido el principal objetivo de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
+
+Dentro de ese marco jurídico destaca el establecimiento del régimen aplicable a la administración electrónica en el que se regula la novedosa figura de las «sedes electrónicas». En el capítulo I de la Ley 11/2007, de 22 de junio, se define «sede electrónica» como aquella dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad, gestión y administración corresponde a una Administración Pública, órgano o entidad administrativa en el ejercicio de sus competencias. Asimismo, se establece que cada Administración Pública determinará las condiciones e instrumentos de creación de las sedes electrónicas, con sujeción a los principios de publicidad oficial, responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, neutralidad e interoperabilidad.
+
+En desarrollo de estas disposiciones legales sobre sede electrónica, el Título II del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, regula su creación, características, condiciones de identificación y seguridad, contenidos y servicios y reglas especiales de responsabilidad.
+
+Con la creación de sedes electrónicas se pretende reducir la dispersión de los servicios electrónicos que ofrecen las Administraciones Públicas y crear un espacio para la gestión administrativa con las garantías suficientes para los administrados, diferenciado del concepto de portal de comunicación.
+
+De acuerdo con lo dispuesto en el artículo 3.2 del Real Decreto 1671/2009, de 6 de noviembre, la creación de las sedes electrónicas se realizará por Orden del Ministro correspondiente, que deberá publicarse en el «Boletín Oficial del Estado», con el contenido mínimo, características y demás requisitos previstos expresamente en dicho Real Decreto.
+
+En su virtud, dispongo:
