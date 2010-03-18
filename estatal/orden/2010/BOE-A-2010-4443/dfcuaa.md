@@ -1,0 +1,3 @@
+## Disposición final cuarta. Modificación de la Orden INT/3516/2009, de 29 de diciembre, por la que se crea un registro electrónico, en la Dirección General de la Policía y de la Guardia Civil (ámbito Cuerpo Nacional de Policía).
+
+En el momento que comience a operar la sede electrónica de la Dirección General de la Policía y de la Guardia Civil (ámbito del Cuerpo Nacional de Policía), las direcciones electrónicas www.policia.es y www.policia.es/ServiciosElectronicos recogidas, respectivamente, en el artículo 7 y en la disposición transitoria única de la Orden INT/3516/2009, de 29 de diciembre, serán sustituidas por la de https://sede.policia.gob.es.

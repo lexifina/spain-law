@@ -1,0 +1,11 @@
+La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, creó el concepto de «sede electrónica», justificado por «la necesidad de definir claramente la sede administrativa electrónica con la que se establecen las relaciones, promoviendo un régimen de identificación, autenticación, contenido mínimo, protección jurídica, accesibilidad, disponibilidad y responsabilidad».
+
+El artículo 10.1 de la misma Ley define la sede electrónica como «aquella dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad, gestión y administración corresponde a una Administración Pública, órgano o entidad administrativa en el ejercicio de sus competencias». El apartado 3 del mismo artículo establece que cada «Administración Pública determinará las condiciones e instrumentos de creación de las sedes electrónicas».
+
+Por otra parte, el Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, además de regular esta figura en sus artículos 3 al 9, determina específicamente en su artículo 3.2 que «las sedes electrónicas se crearán mediante Orden del Ministro correspondiente o Resolución del titular del Organismo Público, que deberá publicarse en el «Boletín Oficial del Estado», determinando el contenido mínimo de esta norma aprobatoria.
+
+Con ello se aportan a los ciudadanos garantías de plena certeza y seguridad que sólo alcanzaban parcialmente las oficinas virtuales que, hasta el momento, han venido canalizando las relaciones electrónicas con los ciudadanos.
+
+La presente orden ha sido informada favorablemente por la Comisión Ministerial de Administración Electrónica, de acuerdo con lo dispuesto en la letra l) del apartado segundo de la Orden INT/3192/2008, de 4 de noviembre, por la que se regula la composición y funciones de la referida Comisión.
+
+En su virtud, dispongo:
