@@ -33,6 +33,8 @@
 | 371 | IVA REG. GENERAL Y SIMPLIFICADO. DECLARACIÓN FINAL | 4T |
 | 380 | IVA EN OPERAC. ASIMILADAS A IMPORTACIONES | M, T , 0A |
 | 440 | IMPUESTO GRAL. DEL TRÁFICO DE EMPRESAS | T |
+| 568 | IMPUESTO ESPECIAL SOBRE DETERMINADOS MEDIOS DE TRANSPORTE | T |
+|  |
 | 576 | I.E. S/DETERMINADOS MEDIOS DE TRANSPORTE | 0A |
 | 595 | I.E. S/ EL CARBON | T |
 | 600 (2) | TRANSMISIONES PATRIMONIALES | 0A |
@@ -49,7 +51,7 @@
 | 684 | TASA POR LA PRESTACIÓN DE SERVICIOS DE GESTIÓN DE RESIDUOS RADIACTIVOS GENERADOS EN OTRAS INSTALACIONES | 0A |
 | 685 | TASA SOBRE APUESTAS Y COMBINACIONES ALEATORIAS, AUTOLIQUIDACIÓN | 0A |
 | 696 | TASA JUDICIAL | 0A |
-| 715 | (Suprimido) | (Suprimido) |
+| 714 | (Suprimido) | (Suprimido) |
 | 777 | DECLARACIONES-LIQUIDACIONES EXTEMPORÁNEAS Y COMPLEMENTARIAS. | 0A |
 
 (1) Sólo en algunas Comunidades.
@@ -57,6 +59,8 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se modifica por la disposición final 1 de la Orden EHA/1338/2010, de 13 de mayo. Ref. BOE-A-2010-8230.
 
 > Se añaden los modelos 681 a 684 por la disposición final 1.1 de la Orden EHA/408/2010, de 24 de febrero. Ref. BOE-A-2010-3095.
 
