@@ -12,7 +12,7 @@
 | 126 | RET. CAP. MOB. INTERESES | M-T |
 | 128 | IRPF, IS, RTOS. DEL CAPITAL MOBILIARIO DE OPERACIONES. DE CAPITALIZACIÓN Y CONTRATOS DE SEGURO DE VIDA E INVAL. | M-T |
 | 216 | IRPF RETENCIONES NO RESIDENTES SIN EST. PERMANENTE | M-T |
-| 218 | IS E IRNR PAGO FRACCIONADO GRANDES EMPRESAS | 1P,2P,3P |
+| 218 | (Suprimido) | (Suprimido) |
 | 220 | IS. REGIMEN GRUPOS FISCALES | 0A |
 | 222 | IS. PAGO FRACCIONADO GRUPOS FISCALES | 1P,2P,3P |
 | 320 | (Suprimido) | (Suprimido) |
@@ -30,6 +30,8 @@
 | 569 | I. VENTAS MINORISTAS DE HIDROCARBUROS | T |
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se suprime el modelo 218 por la disposición final 1 de la Orden EHA/664/2010, de 11 de marzo. Ref. BOE-A-2010-4507.
 
 > Se suprimen los modelos 320, 330 y 332 por la disposición final 4.3 de la Orden EHA/3786/2008, de 29 de diciembre. Ref. BOE-A-2008-20953.
 
