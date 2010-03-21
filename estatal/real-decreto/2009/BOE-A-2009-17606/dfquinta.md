@@ -1,0 +1,3 @@
+## Disposición final quinta. Facultad de desarrollo.
+
+Se faculta al titular del Ministerio de Sanidad y Política Social para dictar cuantas disposiciones sean necesarias para la aplicación y desarrollo de este real decreto, así como para actualizar las relaciones de productos establecidas en el artículo 33 y para adoptar las disposiciones que, en relación con la clasificación o reclasificación de los productos sanitarios o la modificación o adaptación, en su caso, de las reglas de clasificación de estos productos, se adopten en el nivel comunitario o resulten aconsejables por razones técnicas o científicas.
