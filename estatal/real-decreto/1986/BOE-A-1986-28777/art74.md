@@ -1,7 +1,9 @@
-## Art. 74.
+## Artículo 74.
 
-Los Agentes serán suspendidos en el ejercicio de la profesión por alguna de las siguientes causas:
+En el caso de reconocimiento del derecho no será de abono ninguna cantidad hasta el momento del pago de la tasa correspondiente a la cuarta anualidad. En el mismo acto se habrán de satisfacer las cantidades devengadas por todos los conceptos hasta el momento anterior a la solicitud del informe sobre el estado de la técnica más el importe de la tercera anualidad.
 
-a) Cuando la fianza constituida no alcance el nivel ordenado en este Reglamento y hasta tanto no la repongan a dicho nivel.
+Con la quinta anualidad será de abono el resto de las cantidades devengadas.
 
-b) Cuando dejen de acreditar la vigencia de la póliza de responsabilidad civil y hasta tanto no la acrediten.
+> Se modifica por el art. único.3 del Real Decreto 245/2010, de 5 de marzo. Ref. BOE-A-2010-4766
+
+> Su anterior numeración era art. 79.

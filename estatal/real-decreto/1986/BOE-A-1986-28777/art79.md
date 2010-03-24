@@ -1,5 +1,7 @@
-## Art. 79.
+## Artículo 79.
 
-En el caso de reconocimiento del derecho no será de abono ninguna cantidad hasta el momento del pago de la tasa correspondiente a la cuarta anualidad. En el mismo acto se habrán de satisfacer las cantidades devengadas por todos los conceptos hasta el momento anterior a la solicitud del informe sobre el estado de la técnica más el importe de la tercera anualidad.
+(Sin contenido)
 
-Con la quinta anualidad será de abono el resto de las cantidades devengadas.
+> Se reenumera como art. 74 por el art. único.3 del Real Decreto 245/2010, de 5 de marzo. Ref. BOE-A-2010-4766
+
+> Se interpreta que el art. 79 queda sin contenido.

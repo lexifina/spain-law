@@ -1,42 +1,14 @@
-## Art. 59.
+## Artículo 59. Inicio de la actividad.
 
-1. Las personas que deseen obtener la inscripción en el Registro Especial de Agentes de la Propiedad Industrial deberán presentar una solicitud dirigida al Director de la Oficina Española de Patentes y Marcas en la que se incluirá la fecha en que se superó el examen de aptitud a que se refiere el artículo 157.4 de la Ley 11/1986, de 20 de marzo, de Patentes, y a la que acompañarán los documentos a los que se refiere el siguiente párrafo.
+1. Para iniciar el ejercicio de la actividad de agente de la propiedad industrial será necesario haber presentado previamente ante la Oficina Española de Patentes y Marcas, una declaración responsable, según modelo que se adjunta como anexo a este reglamento, en la que los interesados manifiesten, bajo su responsabilidad, que cumplen todos los requisitos establecidos en el artículo 157 de la Ley de Patentes, que disponen de la documentación que así lo acredita y que se comprometen a mantener su cumplimiento en tanto no se produzca su baja en la actividad, por cualquiera de las circunstancias previstas en el artículo 158 de la Ley de Patentes.
 
-2. Los documentos a que se refiere el párrafo anterior son los siguientes:
+2. La declaración responsable habilita para el ejercicio de la actividad, desde su presentación, en todo el territorio nacional y por un periodo indefinido. Una vez recibida la declaración responsable, la Oficina Española de Patentes y Marcas procederá de oficio a la inscripción del agente de la propiedad industrial en el Registro Especial de agentes de la propiedad industrial. Si la declaración responsable careciera de alguno de los datos de carácter no esencial establecidos en el modelo que se adjunta como anexo a este reglamento, la Oficina Española de Patentes y Marcas requerirá al interesado para que, en un plazo de diez días, la complete, con indicación de que, si así no lo hiciera, se tendrá por no presentada la declaración responsable.
 
-a) Título facultativo o testimonio notarial del mismo.
+3. No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación ante la Oficina Española de Patentes y Marcas cuando ésta así lo requiera.
 
-b) Fotocopia compulsada del documento de identidad.
+A los efectos de acreditar el cumplimiento de los requisitos exigidos por la normativa vigente, se aceptarán los documentos procedentes de otro Estado miembro de la Unión Europea, de los que se desprendan que se cumplen tales requisitos, en los términos previstos en el artículo 17.2 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
 
-c) Declaración de no estar procesado ni haber sido condenado por delitos dolosos.
-
-d) Documento de alta en el epígrafe correspondiente del Impuesto sobre Actividades Económicas acreditativo de tener despacho profesional en España, o documento equivalente acreditativo de tener despacho profesional en un Estado miembro de la Unión Europea.
-
-e) Declaración de no estar incurso en las causas de incompatibilidad previstas en el artículo 159 de la Ley.
-
-f) Resguardo de haber constituido fianza a disposición del Director de la Oficina Española de Patentes y Marcas en los términos establecidos en los artículos 60 y 61.
-
-g) Copia de la póliza de seguro de responsabilidad civil concertado según lo dispuesto en el artículo 62.
-
-3. Para la realización del examen de aptitud a que se refiere el apartado 4 del artículo 157 de la Ley se efectuarán las correspondientes convocatorias públicas con la periodicidad que acuerde el Director de la Oficina Española de Patentes y Marcas.
-
-4. Las bases de las convocatorias regularán el procedimiento de acceso a las pruebas y el de su realización y calificación, de conformidad con las siguientes directrices:
-
-a) El examen de aptitud tendrá por finalidad valorar si el aspirante posee los conocimientos necesarios para desempeñar la actividad profesional definida en el artículo 156 de la Ley, en particular, si el aspirante posee un conocimiento suficientemente amplio de las normas nacionales e internacionales que regulan y afectan a la propiedad industrial y si está familiarizado con el manejo de tal conocimiento, para aplicarlo en las condiciones que se plantean habitualmente a un agente de la propiedad industrial durante el ejercicio de su profesión.
-
-b) El examen constará de pruebas teóricas y prácticas, realizándose sobre la base del programa que se hará público junto con la convocatoria.
-
-c) Entre la publicación de la convocatoria y el comienzo de las pruebas deberá transcurrir un período de, al menos, cuatro meses.
-
-5. El tribunal calificador será designado en la convocatoria y estará compuesto por un número impar de miembros, no inferior a cinco, designándose también a los miembros suplentes. Los miembros del Tribunal se designarán entre especialistas en materia de propiedad industrial que tengan una titulación igual o superior a la exigida en el artículo 157.3 de la Ley 11/1986, de 20 de marzo, de Patentes.
-
-Al tribunal corresponderá el desarrollo y la calificación de las pruebas selectivas, de conformidad con las bases de la convocatoria.
-
-La acreditación de haber superado estudios del tercer ciclo universitario en materia de propiedad industrial con una duración superior a quinientas horas en su conjunto, incrementará la calificación obtenida en las pruebas teóricas del examen de aptitud en un 25 por 100 de la puntuación máxima posible asignada a las pruebas teóricas en la correspondiente convocatoria.
-
-6. Los aspirantes que no superen el examen de aptitud en una convocatoria podrán participar en convocatorias posteriores.
-
-7. El tribunal calificador elevará al Director de la Oficina Española de Patentes y Marcas la relación de los aspirantes que hayan superado el examen de aptitud. El Director de la Oficina Española de Patentes y Marcas dará adecuada publicidad a la lista de aspirantes aprobados y expedirá los correspondientes certificados de aptitud, acreditativos del requisito establecido en el apartado 4 del artículo 157 de la Ley.
+> Se modifica por el art. único.2 del Real Decreto 245/2010, de 5 de marzo. Ref. BOE-A-2010-4766
 
 > Se modifica por el art. único del Real Decreto 151/1996, de 2 de febrero. Ref. BOE-A-1996-2538
 

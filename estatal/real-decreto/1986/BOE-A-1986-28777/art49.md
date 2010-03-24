@@ -1,14 +1,14 @@
-## Art. 49. Datos inscribibles
+## Artículo 49. Datos inscribibles.
 
-En el Registro de Patentes al que se refiere el artículo 79 de la Ley, y que estará abierto a la consulta pública, se inscribirán, particularmente, tanto por lo que se refiere a las solicitudes de patentes como a las patentes concedidas, las siguientes menciones:
+1. En el Registro de Patentes al que se refiere el artículo 79 de la Ley de Patentes, que estará abierto a la consulta pública, se inscribirán particularmente las siguientes menciones referidas tanto a las solicitudes de patentes como a las patentes concedidas:
 
-a) El número de la solicitud de patente.
+a) El número de la solicitud.
 
-b) La fecha de presentación de la solicitud de patente.
+b) La fecha de presentación de la solicitud.
 
 c) El título de la invención.
 
-d) El símbolo de la clasificación asignado a la solicitud.
+d) El símbolo de la clasificación asignado.
 
 e) El nombre y domicilio del solicitante o del titular de la patente.
 
@@ -18,22 +18,28 @@ g) El nombre y domicilio profesional del mandatario del solicitante o del titula
 
 h) Las indicaciones relativas a la prioridad (fecha, estado y número de depósito de la solicitud anterior).
 
-i) En el caso de la división de la solicitud de patente, los números de las solicitudes divisionales.
+i) En caso de división de la solicitud de patente, los números de las solicitudes divisionales.
 
-j) La fecha de publicación de la solicitud de patente y, en su caso, la fecha de publicación del informe sobre el estado de la técnica.
+j) La fecha de publicación de la solicitud y, en su caso, la fecha de publicación del informe sobre el estado de la técnica.
 
-k) La fecha en la que la solicitud de patente hasta sido concedida, denegada, retirada o se considere retirada.
+k) La fecha en la que la solicitud de patente haya sido concedida, denegada, retirada o se considere retirada.
 
 l) La fecha de publicación de la mención de concesión de la patente.
 
 m) La fecha de caducidad de la patente.
 
-n) La constitución de derechos sobre la solicitud de patente o sobre la patente y la transmisión de estos derechos siempre que la inscripción de estas menciones se efectúe en aplicación de las disposiciones del presente Reglamento.
+n) La constitución de derechos sobre la solicitud de patente o sobre la patente y la transmisión de estos derechos efectuada de acuerdo con lo previsto en este reglamento.
 
-ñ) La fecha del certificado de explotación de la patente.
+ñ) En su caso, la fecha del certificado de explotación de la patente.
 
 o) Los pagos realizados.
 
+p) Los datos correspondientes a los certificados complementarios de protección solicitados.
+
 2. En el Registro de Patentes, constituyendo una sección anexa al mismo, también se inscribirán de manera análoga a lo señalado en el presente capítulo los datos relativos a las solicitudes de modelos de utilidad y a los modelos de utilidad concedidos.
+
+3. Las inscripciones en el Registro de Patentes se realizarán en cualquier tipo de soporte capaz de recoger y expresar de modo indubitado, con absoluta garantía jurídica, seguridad de conservación y facilidad de acceso y comprensión, todos los datos inscribibles previstos por la Ley de Patentes y el presente reglamento.
+
+> Se modifica por el art. único.1 del Real Decreto 245/2010, de 5 de marzo. Ref. BOE-A-2010-4766
 
 > Redactada la letra j) del apartado 1 conforme a la corrección de errores publicada en BOE núm. 294, de 9 de diciembre de 1986. Ref. BOE-A-1986-32160

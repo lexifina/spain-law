@@ -1,3 +1,5 @@
-## Art. 68.
+## Artículo 68. Formación continua de los agentes.
 
-El Director del Registro y por delegación el Secretario general podrán, mediante resolución motivada, oponerse a la actuación. de un empleado o auxiliar, poniéndolo en conocimiento del Agente del que dependa. Contra esta resolución podrá interponerse recurso de alzada ante el Ministro del Departamento.
+El Ministerio de Industria, Turismo y Comercio, a propuesta de la Oficina Española de Patentes y Marcas, convocará periódicamente cursos en materia de propiedad industrial, a fin de facilitar la formación continua de agentes de la propiedad industrial. El Ministerio otorgará a los agentes que asistan a los mencionados cursos o que, en su caso, superen las pruebas de que consten, un diploma acreditativo.
+
+> Se modifica por el art. único.2 del Real Decreto 245/2010, de 5 de marzo. Ref. BOE-A-2010-4766

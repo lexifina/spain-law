@@ -1,3 +1,5 @@
 ## TÍTULO IV
 
-## De los Agentes y Mandatarios
+## De los agentes y mandatarios
+
+> Se modifica por el art. único.2 del Real Decreto 245/2010, de 5 de marzo. Ref. BOE-A-2010-4766

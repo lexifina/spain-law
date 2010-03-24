@@ -1,7 +1,5 @@
-## Art. 69.
+## Artículo 69. Obligaciones de información de los agentes.
 
-Los Agentes de la Propiedad Industrial podrán delegar su representación en un compañero, pero en este caso el Agente actuante deberá usar siempre la antefirma: «Por mi compañero don...», haciendo constar el número de inscripción en el Registro, de ambos.
+Las personas inscritas en el Registro Especial de agentes de la propiedad industrial deberán cumplir con la obligación de informar a los destinatarios de sus servicios, en los términos establecidos por el artículo 22 de la Ley 17/2009, de 23 de noviembre.
 
-En los expedientes en que intervenga un sustituto, quedará afectada su responsabilidad juntamente con la del sustituido, y no podrá intervenir en el ejercicio de esa delegación en aquellos expedientes en que sea parte, llevando otra representación cuyos intereses sean distintos.
-
-Cuando esto ocurra, se declarará en suspenso el, curso del expediente y se le notificará directamente al peticionario, concediéndole un plazo de quince días para personarse o, en su caso, nombrar a otro Agente que lo represente.
+> Se modifica por el art. único.2 del Real Decreto 245/2010, de 5 de marzo. Ref. BOE-A-2010-4766
