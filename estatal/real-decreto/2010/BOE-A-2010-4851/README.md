@@ -1,0 +1,24 @@
+# Real Decreto 244/2010, de 5 de marzo, por el que se aprueba el Reglamento regulador de la actividad de instalación y mantenimiento de equipos y sistemas de telecomunicación.
+
+- Identificador: BOE-A-2010-4851
+- Rango: Real Decreto
+- Fecha de disposición: 2010-03-05
+- Publicación: 2010-03-24
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2010-4851
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [preambulo](preambulo.md)
+- [Artículo único](aunico.md)
+- [Disposición transitoria única](dtunica.md)
+- [Disposición derogatoria única](ddunica.md)
+- [Disposición final primera](dfprimera.md)
+- [Disposición final segunda](dfsegunda.md)
+- [Disposición final tercera](dftercera.md)
+- [firma](firma.md)
+- [REGLAMENTO](reglamento.md)
+- [Artículo 1](a1.md)
+- [Artículo 2](a2.md)
+- [Artículo 3](a3.md)
