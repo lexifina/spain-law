@@ -7,3 +7,7 @@
 3. Si terminados los trabajos y cumplidas satisfactoriamente las prescripciones impuestas quedase un remanente del importe cuya inversión fue ordenada, quedará libremente a disposición del propietario.
 
 4. El incumplimiento de lo que antecede dará lugar a la imposición de las sanciones correspondientes, de acuerdo con lo dispuesto en el título VI de este Reglamento.
+
+> Se deroga por el art. 4 del Real Decreto 367/2010, de 26 de marzo. Ref. BOE-A-2010-5037.
+
+> Téngase en cuenta que mantendrá su vigencia en aquellas comunidades y ciudades autónomas que no tengan normativa aprobada en la materia, en tanto no se dicte dicha normativa.

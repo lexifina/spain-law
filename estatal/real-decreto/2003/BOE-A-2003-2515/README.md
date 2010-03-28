@@ -24,6 +24,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 10](a10.md)
 - [Artículo 11](a11.md)
 - [Disposición transitoria única](dtunica.md)
+- [Disposición adicional única](daunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
 - [Disposición final tercera](dftercera.md)

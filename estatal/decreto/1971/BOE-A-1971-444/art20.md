@@ -1,6 +1,6 @@
 ## Art. 20. De los Cotos sociales de Caza.
 
-1. Se denominan cotos sociales de caza, aquellos cuyo establecimiento responde a la finalidad de facilitar el ejercicio de la caza en régimen de igualdad de oportunidades a todos los cazadores españoles que lo deseen.
+1. Se denominan cotos sociales de caza, aquellos cuyo establecimiento responde a la finalidad de facilitar el ejercicio de la caza en régimen de igualdad de oportunidades a todos los cazadores que lo deseen.
 
 2. El establecimiento de los cotos sociales podrá llevarse a cabo sobre los siguientes terrenos:
 
@@ -22,6 +22,6 @@ c) Los constituidos en cotos locales de caza sobre los que el Servicio haga uso 
 
 8. La fijación del importe de los permisos necesarios para poder practicar la caza en los cotos sociales se hará por el Servicio de forma tal que los ingresos percibidos por este concepto no excedan del 80 por 100 del total de los gastos precisos para atender al establecimiento y adecuada protección, conservación y fomento de la riqueza cinegética del coto. A estos efectos el Servicio confeccionará para cada coto social un presupuesto de ingresos y gastos, en el que no se incluirá ningún gasto que corresponda a haberes del personal técnico o administrativo.
 
-9. El disfrute de los cotos sociales de caza queda reservado exclusivamente a ciudadanos españoles, si bien la mitad de los permisos se otorgarán con carácter preferente a los cazadores residentes en la provincia o provincias en que estén localizados, los cuales además no abonarán por ellos más del 75 por 100 del importe que se fije para los permisos que se concedan a los cazadores no residentes. La distribución de los permisos se realizará de acuerdo con las normas que para cada coto fije el Servicio.
+> Se modifica el apartado 1 y se deroga el 9 por el art. 3 del Real Decreto 367/2010, de 26 de marzo. Ref. BOE-A-2010-5037#a3.
 
 > Redactado el apartado 8 conforme a la corrección de errores publicada en BOE núm. 112, de 11 de mayo de 1971. Ref. BOE-A-1971-618.

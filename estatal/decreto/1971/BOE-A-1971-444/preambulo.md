@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 112, de 11 de mayo de 1971. Ref. BOE-A-1971-618.
+Este Reglamento queda derogado; no obstante, mantendrá su vigencia en aquellas comunidades y ciudades autónomas que no tengan normativa aprobada en la materia, en tanto no se dicte dicha normativa, según establece el art. 3 del Real Decreto 367/2010, de 26 de marzo. Ref. BOE-A-2010-5037#a3.

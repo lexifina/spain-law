@@ -1,7 +1,5 @@
 ## Art. 66. Menores de edad y extranjeros.
 
-Cuando el solicitante sea soltero, no emancipado ni habilitado civilmente y menor de veintitrés años, su instancia tendrá que avalarse por el padre, la madre o el tutor, como personas responsables.
+(Derogado)
 
-Los menores de catorce años satisfarán la licencia más económica.
-
-Los extranjeros que estén provistos de pasaporte se proveerán de la licencia de 300 pesetas.
+> Se deroga por el art. 1 del Real Decreto 367/2010, de 26 de marzo. Ref. BOE-A-2010-5037.

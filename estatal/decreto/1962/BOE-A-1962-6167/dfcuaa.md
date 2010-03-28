@@ -1,3 +1,5 @@
 ## Disposición final cuarta.
 
-Se faculta al Ministerio de Agricultura para que pueda aprobar las Órdenes que juzgue pertinentes para el mejor cumplimiento de este Reglamento.
+(Derogada)
+
+> Se deroga en la forma indicada por el art. 2 del Real Decreto 367/2010, de 26 de marzo. Ref. BOE-A-2010-5037#a2.

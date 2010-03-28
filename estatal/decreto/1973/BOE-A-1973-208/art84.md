@@ -7,3 +7,7 @@
 3. También podrá el propietario suscribir un consorcio con el ICONA para llevar a efecto la repoblación.
 
 4. Si el propietario no adopta las disposiciones convenientes para llevar a efecto lo dispuesto en los párrafos anteriores, el ICONA podrá promover el oportuno expediente de repoblación obligatorio conforme lo prescrito en los artículos 50 y siguientes de la Ley de Montes de 8 de junio de 1957 y concordantes de su Reglamento, y, en su caso, realizar con carácter subsidiario la repoblación de acuerdo con lo previsto en el artículo 106 de la Ley de Procedimiento Administrativo.
+
+> Se deroga por el art. 4 del Real Decreto 367/2010, de 26 de marzo. Ref. BOE-A-2010-5037.
+
+> Téngase en cuenta que mantendrá su vigencia en aquellas comunidades y ciudades autónomas que no tengan normativa aprobada en la materia, en tanto no se dicte dicha normativa.

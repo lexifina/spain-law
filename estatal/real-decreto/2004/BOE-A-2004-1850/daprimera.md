@@ -1,6 +1,6 @@
 ## Disposición adicional primera. Registro central.
 
-De conformidad con lo establecido en la disposición adicional tercera de la Ley 9/2003, de 25 de abril, por la que se establece el régimen jurídico de la utilización confinada, liberación voluntaria y comercialización de organismos modificados genéticamente, se crea el Registro central de organismos modificados genéticamente, adscrito al Ministerio de Medio Ambiente, cuya gestión corresponde a la Dirección General de Calidad y Evaluación Ambiental.
+De conformidad con lo establecido en la disposición adicional tercera de la Ley 9/2003, de 25 de abril, por la que se establece el régimen jurídico de la utilización confinada, liberación voluntaria y comercialización de organismos modificados genéticamente, se crea el Registro central de organismos modificados genéticamente, adscrito al Ministerio de Medio Ambiente, y Medio Rural y Marino, cuya gestión corresponde a la Dirección General de Desarrollo Sostenible del Medio Rural.
 
 El Registro central es único en todo el territorio nacional y tiene su sede en Madrid.
 
@@ -15,3 +15,5 @@ Los datos estarán contenidos en un fichero apropiado para recibir, almacenar y 
 El suministro de datos podrá realizarse por medios telemáticos, siempre que el soporte utilizado garantice la autenticidad de la comunicación y de su contenido, y quede constancia de la remisión y recepción íntegras y del momento en que se hicieron.
 
 El acceso del público a la información recogida en el registro se efectuará teniendo en cuenta lo dispuesto en la Ley 38/1995, de 12 de diciembre, de derecho de acceso a la información en materia de medio ambiente, y de conformidad con lo previsto en las disposiciones relativas al secreto comercial e industrial, al secreto de obtención y a la protección de datos personales.
+
+> Se modifica el párrafo primero por el art. 19.1 del Real Decreto 367/2010, de 26 de marzo. Ref. BOE-A-2010-5037.

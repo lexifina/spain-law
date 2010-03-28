@@ -14,4 +14,8 @@
 
 3. En dicho expediente, que se tramitará con sujeción a las normas de la Ley de Procedimiento Administrativo, se recabará el informe de la Asesoría Jurídica.
 
-4. Al expediente pondrá fin la resolución que en el mismo se dicte por la Dirección del ICONA, la cual será susceptible de recurso de alzada ante el Ministro de Agricultura:
+4. Al expediente pondrá fin la resolución que en el mismo se dicte por la Dirección del ICONA, la cual será susceptible de recurso de alzada ante el Ministro de Agricultura.
+
+> Se deroga por el art. 4 del Real Decreto 367/2010, de 26 de marzo. Ref. BOE-A-2010-5037.
+
+> Téngase en cuenta que mantendrá su vigencia en aquellas comunidades y ciudades autónomas que no tengan normativa aprobada en la materia, en tanto no se dicte dicha normativa.
