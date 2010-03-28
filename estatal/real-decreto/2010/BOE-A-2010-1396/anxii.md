@@ -49,3 +49,7 @@ Alubia de Guernika.
 Alubia de Tolosa.
 
 Alubia Pinta Alavesa.
+
+Garbanzo de Pedrosillo.
+
+> Se modifica el tercer inciso por el art. único del Real Decreto 366/2010, de 26 de marzo. Ref. BOE-A-2010-5036.
