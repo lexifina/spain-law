@@ -1,3 +1,5 @@
-## Séptimo. Fundamento legal.
+## Séptimo. Estaciones radioeléctricas con potencia isotrópica radiada equivalente igual o inferior a 1 W.
 
-La presente disposición se dicta al amparo de lo establecido en el artículo 149.1.21.ª de la Constitución.
+Los operadores de radiocomunicaciones que pretendan la puesta en funcionamiento de estaciones radioeléctricas con potencia isotrópica radiada equivalente igual o inferior a 1 W, presentarán previamente, ante el Ministerio de Industria, Turismo y Comercio, para su aprobación un proyecto técnico, individualizado para cada tipo o modelo de estación, realizado por técnico competente en materia de telecomunicaciones en el que se indiquen las características técnicas de las mismas, estudio de los niveles de emisión radioeléctrica, así como las condiciones de instalación que aseguren las distancias mínimas de seguridad que en función de los citados niveles, permitan el cumplimiento de los umbrales especificados en el Real Decreto 1066/2001, de 28 de septiembre. La aprobación de dicho proyecto técnico constituirá condición suficiente para la puesta en funcionamiento de dichas estaciones. Además, semestralmente remitirán la relación de estaciones instaladas indicando la ubicación y tipo de estación.
+
+> Se modifica por el art. único.2 de la Orden ITC/749/2010, de 17 de marzo. Ref. BOE-A-2010-5032.
