@@ -113,6 +113,10 @@ Asimismo, con carácter temporal y experimental, y en los plazos y condiciones t
 
 3K00J3E: Telefonía con modulación de amplitud, banda lateral única con portadora suprimida.
 
+Por último, con carácter experimental, podrán ser utilizadas emisiones con modulaciones digitales cuyos niveles de emisiones no deseadas no superen los correspondientes a las anteriormente citadas.
+
 4. Potencia del transmisor.
 
-La potencia de los equipos de CB-27 no será superior a 4 vatios para las clases de emisión F3E y A3E y 12 vatios de potencia de cresta de la envolvente en los distintos casos de modulación de amplitud con banda lateral única.
+La potencia de los equipos de CB-27 no será superior a 4 vatios para las clases de emisión F3E, A3E y modulaciones digitales y a 12 vatios de potencia de cresta de la envolvente en los distintos casos de modulación de amplitud con banda lateral única.
+
+> Se modifican los apartados 3 y 4 por el art. único.9 de la Orden ITC/751/2010, de 22 de marzo. Ref. BOE-A-2010-5034

@@ -1,7 +1,5 @@
 ## ANEXO III
 
-## Modelo de autorización CB-27 (anverso)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/75/05034_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/6/00286_003.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/6/00286_004.png)
+> Se modifica por el art. único.11 de la Orden ITC/751/2010, de 22 de marzo. Ref. BOE-A-2010-5034
