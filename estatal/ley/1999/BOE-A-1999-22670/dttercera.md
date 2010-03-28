@@ -14,6 +14,8 @@ A los efectos del párrafo anterior, se entenderá como retribuciones del person
 
 En las retribuciones a que se refiere el párrafo anterior se considerará comprendido el complemento específico de carácter singular asignado a los puestos de trabajo desempeñados por Oficiales General y Coroneles, a tenor de lo dispuesto en el artículo 4.º.II.4 del Real Decreto 311/1988, de 30 de marzo, de Retribuciones del Personal de las Fuerzas y Cuerpos de Seguridad del Estado.
 
-2. Los guardias civiles que, a la entrada en vigor de esta Ley, integren la Escala de Cabos y Guardias pasarán a la situación de reserva al cumplir los cincuenta y seis años. No obstante, podrán continuar hasta los cincuenta y ocho los que voluntariamente lo soliciten.
+2. Los guardias civiles que, a la entrada en vigor de esta Ley, integren la Escala de Cabos y Guardias pasarán a la situación de reserva al cumplir los cincuenta y seis años. No obstante, podrán posponer su pase a la situación de reserva hasta los sesenta años de edad los que voluntariamente lo soliciten.
+
+> Se modifica el apartado 2 por el art. único.2 del Real Decreto-ley 3/2010, de 26 de marzo. Ref. BOE-A-2010-5029.
 
 > Se añaden los párrafos tercero y cuarto al apartado 1 por el art. 64.3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
