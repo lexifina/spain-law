@@ -1,3 +1,5 @@
 ## Disposición adicional segunda. Medidas en las zonas donde se considera establecida la enfermedad.
 
-Comprobado por los procedimientos reglamentados el hecho de que la enfermedad se encuentra establecida en las zonas que figuran relacionadas en el anexo I de la presente disposición y hasta tanto tales zonas queden reseñadas en los anexos correspondientes de la Directiva 77/93/CEE, del Consejo, de 21 de diciembre, relativa a las medidas de protección contra la introducción en los Estados miembros de organismos nocivos para los vegetales o productos vegetales y de la Directiva 92/76/CEE, de la Comisión, de 6 de octubre, por la que se reconocen zonas protegidas en la Comunidad expuestas a riesgos fitosanitarios específicos, dichas zonas tendrán la consideración de zonas no protegidas y les será de aplicación lo determinado en el artículo 9.
+(Suprimida)
+
+> Se suprime por el art. único.5 del Real Decreto 246/2010, de 5 de marzo. Ref. BOE-A-2010-5103
