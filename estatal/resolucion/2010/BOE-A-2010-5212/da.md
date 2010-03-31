@@ -1,0 +1,3 @@
+## Disposición adicional primera. Normativa aplicable.
+
+El funcionamiento del registro electrónico del Servicio Público de Empleo Estatal se regirá, además de por lo previsto en esta resolución, por lo establecido en la Ley 30/1992, de 26 de noviembre; en la Ley 11/2007, de 22 de junio; en el Real Decreto 1671/2009, de 6 de noviembre; en el Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias de documentos y devolución de originales y el régimen de las oficinas de registro; así como en las demás normas que le sean aplicables.
