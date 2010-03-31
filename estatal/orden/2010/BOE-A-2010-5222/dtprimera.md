@@ -1,0 +1,19 @@
+## Disposición transitoria primera. Militares de complemento de la Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas.
+
+Los que el 1 de enero de 2008, fecha de entrada en vigor de la Ley 39/2007, de 19 de noviembre, de la carrera militar, tuvieran la condición de militar de complemento, así como los que encontrándose en la fecha indicada realizando el período de formación correspondiente hayan adquirido la citada condición, y estén adscritos a los Cuerpos Generales, Cuerpo de Infantería de Marina o Cuerpos de Especialistas, podrán acceder, por promoción interna, a la enseñanza de formación de oficiales para la incorporación a las escalas del cuerpo al que estén adscritos, excepto los que lo estén a los Cuerpos de Especialistas que lo harán al Cuerpo General de su respectivo Ejército, conforme a los siguientes criterios:
+
+1. Durante los años 2010, 2011 y 2012, para acceder a la enseñanza de formación de oficiales para incorporarse a los Cuerpos Generales y de Infantería de Marina, el sistema de selección, la valoración del concurso, las pruebas de que consta la oposición y la calificación final, se atendrán a lo establecido en la Orden Ministerial 73/2002, de 19 de abril, por la que se aprueban las normas por las que han de regirse los procesos selectivos de acceso por promoción interna a las enseñanzas de formación para la incorporación a las Escalas Superiores de Oficiales de los Cuerpos Generales de los Ejércitos y de Infantería de Marina, así como a lo que disponga la correspondiente convocatoria, teniendo en cuenta lo siguiente:
+
+a) Las pruebas de conocimientos específicos, sus programas y el baremo a aplicar en la fase de concurso, se regirán por las siguientes disposiciones:
+
+1.º Instrucción 221/2002, de 14 de octubre, del Subsecretario de Defensa, por la que se aprueban las normas para la realización de la prueba de conocimientos específicos, sus programas y el baremo a aplicar en la fase de concurso, de los procesos selectivos de acceso por promoción interna a la enseñanza de formación para la incorporación a la escala superior de oficiales del Cuerpo General de las Armas del Ejército de Tierra.
+
+2.º Instrucción 222/2002, de 14 de octubre, del Subsecretario de Defensa, por la que se aprueban las normas para la realización de la prueba de conocimientos específicos, sus programas y el baremo a aplicar en la fase de concurso, de los procesos selectivos de acceso por promoción interna a la enseñanza de formación para la incorporación a la escala superior de oficiales del Cuerpo General y del Cuerpo de Infantería de Marina de la Armada.
+
+3.º Instrucción 8/2003, de 24 de enero, del Subsecretario de Defensa, por la que se aprueban las normas de realización de la prueba de conocimientos específicos, sus programas y el baremo a aplicar en la fase de concurso de los procesos selectivos de acceso por promoción interna a las enseñanzas de formación para la incorporación a la escala superior de oficiales del Cuerpo General del Ejército del Aire.
+
+b) El ejercicio de lengua inglesa al que hace referencia la norma 2 de la Orden Ministerial 73/2002, de 19 de abril, verificará que el aspirante posee un conocimiento equivalente al de un perfil lingüístico con un grado de conocimiento de al menos dos en todos los rasgos que lo conforman.
+
+c) Los programas de las pruebas de conocimientos específicos contenidos en las Instrucciones citadas, se adaptarán, en las convocatorias, a la normativa en vigor. En el ejercicio sobre conocimientos militares de carácter general se incluirá algún tema sobre género e igualdad en las Fuerzas Armadas.
+
+2. A partir del 2013 se regirán por lo que para los militares de complemento, para la forma de ingreso por promoción para cambio de escala cuando se exija titulación universitaria, se dispone en las normas que se aprueban.

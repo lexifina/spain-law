@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Promoción cuando se requiera titulación universitaria.
+
+Durante los años 2010, 2011 y 2012, para el ingreso de los suboficiales y de la tropa y marinería en los centros docentes militares de formación para incorporarse a las escalas de oficiales de los Cuerpos Generales y de Infantería de Marina, por promoción para cambio de escala, con exigencia de titulación universitaria, la valoración del concurso, las pruebas de que consta la oposición y la calificación final, se atendrán a lo establecido en la Orden Ministerial 73/2002, de 19 de abril, así como a lo que disponga la correspondiente convocatoria, aplicándose lo indicado en los apartados 1.a), 1.b) y 1.c) de la disposición transitoria primera.

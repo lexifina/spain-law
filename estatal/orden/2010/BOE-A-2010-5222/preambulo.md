@@ -1,0 +1,13 @@
+El artículo 8.6 del Reglamento de ingreso y promoción y de ordenación de la enseñanza de formación en las Fuerzas Armadas, aprobado por el Real Decreto 35/2010, de 15 de enero, determina que el Ministro de Defensa aprobará las normas por las que han de regirse los procesos de selección para ingresar en los centros docentes militares de formación para acceder a las Fuerzas Armadas como militar de carrera, militar de tropa y marinería y militar de complemento. Cumpliendo este mandato, esta disposición recoge las normas antedichas y, por razones de oportunidad y claridad, las circunscribe exclusivamente para el acceso a las escalas de oficiales de los Cuerpos Generales y de Infantería de Marina.
+
+El sistema de selección empleado, con independencia de la forma de ingreso, es el concurso-oposición, pues así se dispone en la Ley 39/2007, de 19 de noviembre, de la carrera militar, ya que, por un lado, el artículo 129.4, indica que en las convocatorias para el acceso a la enseñanza de formación hay que considerar como mérito el tiempo permanecido como reservista voluntario, circunstancia ésta que sólo puede entenderse mediante el concurso y, por otra parte, las pruebas a superar por los aspirantes servirán para verificar, al menos, que reúnen las aptitudes psicofísicas necesarias para cursar los respectivos planes de estudios, tal y como dispone el artículo 56.5, lo que se realizará mediante el sistema de oposición.
+
+Cuando el número de aspirantes sea muy elevado en relación con el de plazas convocadas para el ingreso en el centro docente militar de formación, en la forma de ingreso directo sin exigencia de titulación universitaria, se arbitra un procedimiento basado en la puntuación obtenida en el concurso, que permite limitar el número de los que continúan en el proceso de selección.
+
+Será imprescindible acreditar conocimientos del idioma inglés que, para la forma de ingreso directo, se evaluarán mediante una prueba específica, que será eliminatoria, y para la de promoción, exigiendo estar en posesión de un perfil lingüístico determinado.
+
+Las pruebas de conocimiento que no sean para verificar el nivel de inglés, solamente se realizarán en el ingreso por promoción cuando no se requiera titulación universitaria, así como en el ingreso directo para adscribirse como militar de complemento. En el primero de los casos, lo justifica la heterogeneidad de vías de acceso; en el segundo, está motivado por la corta duración de los planes de estudios, lo que obliga a introducir materias que serán de gran utilidad en el posterior ejercicio profesional.
+
+En su virtud,
+
+DISPONGO:

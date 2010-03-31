@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Acceso a la condición de militar de complemento.
+
+1. En tanto no se regule la prueba de conocimientos teóricos o teórico-prácticos a la que hace referencia la norma decimocuarta de las normas que se aprueban, se aplicará la prueba de conocimientos teóricos que se determina en la norma cuarta de las «Normas por las que han de regirse los procesos selectivos de acceso a las enseñanzas de formación que capacitan para adquirir la condición de militar de complemento adscrito a los cuerpos y escalas de los cuerpos específicos de los ejércitos», aprobadas por Orden DEF/1277/2002, de 22 de mayo. La calificación final de la prueba se ajustará entre 0 y 100 puntos, correspondiendo el 0 a la calificación de cero puntos o inferior y el 100 a la máxima que pueda alcanzarse.
+
+2. Los programas de las pruebas de conocimientos teóricos o teórico-prácticos, se adaptarán, en las convocatorias, a la normativa en vigor. En el ejercicio sobre conocimientos de Geografía e Historia se incluirá algún tema sobre «El principio de igualdad efectiva entre mujeres y hombres en el empleo público».
