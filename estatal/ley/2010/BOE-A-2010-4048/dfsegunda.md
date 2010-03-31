@@ -1,0 +1,3 @@
+## Disposición final segunda. Incorporación de Derecho de la Unión Europea.
+
+En esta ley se incorpora al Derecho español la Decisión Marco 2006/783/JAI del Consejo, de 6 de octubre de 2006, relativa a la aplicación del principio de reconocimiento mutuo de resoluciones de decomiso, así como la modificación que de esta norma efectúa la Decisión marco 2009/299/JAI del Consejo, de 26 de febrero, por la que se modifican las Decisiones Marco 2002/584/JAI, 2005/214/JAI, 2006/783/JAI, 2008/909/JAI y 2008/947/JAI, destinada a reforzar los derechos procesales de las personas y a propiciar la aplicación del principio de reconocimiento mutuo de las resoluciones dictadas a raíz de juicios celebrados sin comparecencia del imputado.
