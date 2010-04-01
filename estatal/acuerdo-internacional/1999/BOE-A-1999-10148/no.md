@@ -11,3 +11,5 @@ El Protocolo número 12 entró en vigor de forma general el 1 de abril de 2005 y
 El Protocolo número 4 entró en vigor de forma general el 2 de mayo de 1968 y para España el 16 de septiembre de 2009.
 
 El Protocolo número 7 entró en vigor de forma general el 1 de noviembre de 1988 y para España el 1 de diciembre de 2009.
+
+El Protocolo número 13 entró en vigor de forma general el 1 de julio de 2003 y para España el 1 de abril de 2010.
