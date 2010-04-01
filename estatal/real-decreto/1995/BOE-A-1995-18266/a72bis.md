@@ -1,0 +1,7 @@
+## Artículo 72 bis. Obtención residual de alcohol en fábricas de productos intermedios.
+
+Cuando, como consecuencia de las operaciones de desalcoholización del vino u otras bebidas fermentadas en fábricas de productos intermedios se obtuviere residualmente alcohol, tal circunstancia deberá ser comunicada al servicio de intervención no pudiendo el fabricante disponer de dicho alcohol sin la previa autorización del referido servicio o transcurridos diez días desde la presentación de la comunicación sin haber recibido respuesta. A la obtención, almacenaje de alcohol por los elaboradores de productos intermedios y a su ulterior expedición desde la fábrica le serán de aplicación las mismas normas que regulan la obtención, el almacenaje y expedición de alcohol desde una fábrica de alcohol.
+
+Los elaboradores de productos intermedios que obtengan alcohol como consecuencia de los procesos de desalcoholización les será de aplicación lo dispuesto en el apartado 2.b.1.º del artículo 43 de este Reglamento, en relación exclusiva con el alcohol que salga de fábrica con cualquier destino, con exclusión de su destrucción. Asimismo, estos elaboradores serán inscritos en el registro de la oficina gestora correspondiente con una clave de actividad que les distinga de aquéllos que solo obtienen y comercializan productos intermedios o, en caso de obtener alcohol, se utilice o se destruya en las mismas instalaciones.
+
+> Se añade por el art. único.57 del Real Decreto 191/2010, de 26 de febrero. Ref. BOE-A-2010-3369
