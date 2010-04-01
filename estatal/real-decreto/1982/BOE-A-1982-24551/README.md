@@ -15,6 +15,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo segundo](asegundo.md)
 - [Artículo tercero](atercero.md)
 - [Artículo cuarto](acuao.md)
+- [Artículo cuarto bis](acuaobis.md)
 - [Artículo quinto](aquinto.md)
 - [Artículo sexto](asexto.md)
 - [Disposición final primera](primera.md)

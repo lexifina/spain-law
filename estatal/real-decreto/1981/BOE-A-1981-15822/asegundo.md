@@ -44,6 +44,8 @@ l) Promover y fomentar la acción cooperativa, así como la mutualista de promoc
 
 ll) Colaborar con el Instituto Nacional de Servicios Sociales en aquellas acciones del mismo que afecten a los trabajadores del mar.
 
-m) La gestión de las acciones del Estado que tengan como receptores a los trabajadores del mar y se concierten con el Instituto Social de la Marina.
+m) La gestión de las acciones del Estado que tengan como receptores a los trabajadores del mar que se puedan concertar o encomendar al Instituto Social de la Marina, especialmente en materia de ayudas públicas por parada de la flota.
 
 n) La ejecución de aquellas funciones que le sean encomendadas por la Subsecretaría de Pesca o la Dirección General de Marina Mercante.
+
+> Se modifica el apartado 6.m) por el art. 1 del Real Decreto 171/2010, de 19 de febrero. Ref. BOE-A-2010-3472.
