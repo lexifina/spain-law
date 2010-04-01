@@ -129,3 +129,5 @@ El acogimiento por las sociedades concesionarias a una cualquiera de las medidas
 Otras fórmulas de financiación
 
 Cuando se ponga de manifiesto que estas medidas no posibiliten el reequilibrio de la concesión, podrá acordarse, previo informe del Ministerio de Economía y Hacienda, la adopción de otras fórmulas de financiación que permitan reequilibrar la concesión, salvaguardando los elementos fundamentales del contrato en cuanto a riesgo del concesionario.
+
+> Se prorroga, hasta el 31 de diciembre de 2010, el plazo previsto en el apartado 3 por el art. 2 de la Real Decreto-ley 5/2010. de 31 de marzo. Ref. BOE-A-2010-5294.

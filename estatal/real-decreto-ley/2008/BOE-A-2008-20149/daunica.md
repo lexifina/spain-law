@@ -3,3 +3,5 @@
 1. A los solos efectos de la determinación de las pérdidas para la reducción obligatoria de capital regulada en el segundo párrafo del artículo 163.1 del texto refundido de la Ley de Sociedades Anónimas, aprobado por Real Decreto Legislativo 1564/1989, de 22 de diciembre, y para la disolución prevista en los artículos 260.1.4.º del citado texto refundido de la Ley de Sociedades Anónimas y 104.1.e) de la Ley 2/1995, de 23 de marzo, de Sociedades de Responsabilidad Limitada, no se computarán las pérdidas por deterioro reconocidas en las cuentas anuales, derivadas del Inmovilizado Material, las Inversiones Inmobiliarias y las Existencias.
 
 2. Lo dispuesto en el apartado anterior únicamente será de aplicación excepcional en los dos ejercicios sociales que se cierren a partir de la entrada en vigor de la presente disposición.
+
+> Se prorroga la aplicación de lo dispuesto en el apartado 1 por el art. 1 del Real Decreto-Ley 5/2010, de 31 de marzo. Ref. BOE-A-2010-5294
