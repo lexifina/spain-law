@@ -7,3 +7,7 @@ a) Expedición de certificados por el Registro Central de Penados y Rebeldes y p
 b) Expedición de certificados por el Registro de contratos de seguro de cobertura de fallecimiento. Esta tasa fue establecida a través de la disposición adicional séptima de la Ley 20/2005, de 14 de noviembre, sobre la creación del Registro de Contratos de Seguros de cobertura de fallecimiento.
 
 2. Asimismo, la presente resolución, a través de sus apartados décimo y undécimo, también establece las condiciones para el pago por vía telemática de la tasa por expedición de certificados del Registro de Contratos de Seguros de cobertura de fallecimiento, en el supuesto contemplado en el artículo 4.1.e) del Real Decreto 398/2007, de 23 de marzo, por el que se desarrolla la Ley 20/2005, de 14 de noviembre, sobre la creación del Registro de contratos de seguros de cobertura de fallecimiento.
+
+3. Igualmente, la presente resolución, a través de su apartado duodécimo, también establece las condiciones para el pago por vía telemática de las tasas con código 004 «Derechos de examen (gestión por la Comisión de Selección de las pruebas de acceso a las carreras judicial y fiscal)» y las tasas con código 007 «Derechos de examen para Pruebas selectivas en la Administración de Justicia».
+
+> Se añade el punto 3 por el apartado 2 de la Resolución de 22 de marzo de 2010. Ref. BOE-A-2010-5295
