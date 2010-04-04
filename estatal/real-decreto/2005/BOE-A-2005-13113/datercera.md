@@ -4,17 +4,17 @@
 
 Asimismo, por Acuerdo del Consejo de Ministros, la sociedad que resulte adjudicataria del concurso público al que se refiere el párrafo segundo del apartado 3 de la disposición adicional segunda, accederá, previa solicitud y tras el cese de las emisiones de televisión terrestre con tecnología analógica, a un múltiple digital de cobertura estatal, siempre que se den las condiciones de competencia en el mercado y se acredite por el concesionario el cumplimiento de sus obligaciones en materia de impulso y desarrollo de la televisión digital terrestre.
 
-Las sociedades concesionarias del servicio público de televisión de ámbito estatal que accedan al múltiple digital a que se refieren los párrafos anteriores no tendrán derecho a efectuar desconexiones territoriales.
+(Párrafo tercero derogado)
 
 El múltiple digital al que, en su caso, accedan las sociedades concesionarias del servicio público de televisión de ámbito estatal con tecnología analógica existentes a la entrada en vigor de este real decreto utilizará canales radioeléctricos que garanticen el uso eficiente del espectro radioeléctrico y reduzcan en lo posible el impacto sobre los usuarios.
 
 2. Se reservan al Ente Público Radiotelevisión Española, tras el cese de las emisiones de televisión terrestre con tecnología analógica, dos múltiples digitales de cobertura estatal para su explotación en régimen de gestión directa.
 
-Uno de estos múltiples digitales será el múltiple con capacidad para efectuar desconexiones territoriales de ámbito autonómico a que se refiere el apartado 2 de la disposición adicional segunda.
+(Párrafo segundo derogado)
 
-El Ente Público Radiotelevisión Española no tendrá derecho a efectuar desconexiones territoriales sobre el otro múltiple digital y este utilizará canales radioeléctricos que garanticen el uso eficiente del espectro radioeléctrico y reduzcan en lo posible el impacto sobre los usuarios.
+(Párrafo tercero derogado)
 
-Los restantes canales analógicos que el Ente Público Radiotelevisión Española ha utilizado hasta el momento en que se produzca el cese de las emisiones de televisión terrestre con tecnología analógica dejarán de estar disponibles para el citado ente a partir de ese momento.
+(Párrafo cuarto derogado)
 
 3. Cada una de las comunidades autónomas dispondrá, tras el cese de las emisiones de televisión terrestre con tecnología analógica, de dos múltiples digitales de cobertura autonómica.
 
@@ -22,7 +22,7 @@ Uno de estos múltiples digitales será el múltiple con capacidad para efectuar
 
 En el otro múltiple digital se utilizarán canales radioeléctricos que garanticen el uso eficiente del espectro radioeléctrico y reduzcan en lo posible el impacto sobre los usuarios. La capacidad de efectuar desconexiones de este múltiple estará supeditada a la disponibilidad del espectro radioeléctrico.
 
-Los demás canales analógicos que se hayan venido utilizando en cada una de las comunidades autónomas hasta el momento en que se produzca el cese de las emisiones de televisión terrestre con tecnología analógica dejarán de estar disponibles para las comunidades autónomas a partir de ese momento.
+(Párrafo cuarto derogado)
 
 Sin perjuicio de lo establecido en los párrafos anteriores, los múltiples digitales de cobertura autonómica cuya explotación íntegra se haya otorgado a una empresa privada por los órganos competentes de las comunidades autónomas con anterioridad a la entrada en vigor de este real decreto no se entenderán incluidos dentro de los dos múltiples digitales mencionados en los párrafos anteriores.
 
@@ -31,3 +31,5 @@ A solicitud de las comunidades autónomas y siempre que las disponibilidades del
 Los órganos competentes de cada comunidad autónoma decidirán, dentro de los múltiples digitales que se le reservan, los canales digitales de ámbito autonómico que serán explotados por la entidad pública creada a tenor de lo establecido en la Ley 46/1983, de 26 de diciembre, reguladora del tercer canal de televisión, y los que serán explotados por empresas privadas en régimen de gestión indirecta, mediante concesión otorgada por concurso público.
 
 En el supuesto de que los órganos competentes de la comunidad autónoma decidan que alguno o algunos de los canales digitales de ámbito autonómico sean explotados por la entidad pública creada a tenor de lo establecido en la Ley 46/1983, de 26 de diciembre, aquellos deberán solicitar al Gobierno la asignación de dichos canales.
+
+> Se deroga lo indicado por la disposición derogatoria única.2 del Real Decreto 365/2010, de 26 de marzo. Ref. BOE-A-2010-5400.
