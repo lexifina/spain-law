@@ -1,0 +1,3 @@
+## Disposición transitoria única. Implantación progresiva de la estructura y organización de los servicios de orientación educativa.
+
+La estructura y organización que se establece en esta Orden para los servicios de orientación educativa, en especial en lo que afecta a la modificación de los antiguos equipos de orientación educativa y psicopedagógica y la implantación de las unidades de orientación en los centros de educación infantil y primaria y en los centros de educación especial se implantará en un periodo máximo de tres años, de modo que los profesionales se vayan incorporando progresivamente a los centros que determine la Dirección provincial.
