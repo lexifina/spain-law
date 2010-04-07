@@ -8,6 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+BOE records this act as repealed with effect from 2010-04-07. The recorded cause is disposición derogatoria única del Real Decreto 1635/2009, de 30 de octubre, Ref. BOE-A-2009-17431#ddunica, sin perjuicio de lo establecido en la disposición transitoria única, según la cual se seguirá aplicando hasta la publicación de la normativa que, en desarrollo del citado real decreto, regule la atención al alumnado con necesidad específica de apoyo educativo en el ámbito de gestión del Ministerio de Educación. Téngase en cuenta que la atención al alumnado con necesidad específica de apoyo educativo se ha regulado mediante la Orden EDU/849/2010, de 18 de marzo, por lo que el presente Real Decreto ha dejado de estar vigente (BOE-A-2010-5493). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
 ## Bloques
 
 - [no](no.md)
