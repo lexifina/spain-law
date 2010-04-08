@@ -14,7 +14,7 @@ d) NIF.
 
 e) N.º del registro de establecimientos industriales.
 
-f) N.º de certificado de acreditación de la instalación y nombre del organismo de control autorizado.
+f) (Suprimida)
 
 2. Empresa que solicita el servicio
 
@@ -31,3 +31,5 @@ f) N.º de certificado de acreditación de la instalación y nombre del organism
 Observaciones:
 
 Firma del operario del lavadero Firma del conductor
+
+> Se suprime el apartado 1.f) por el art. único.9 del Real Decreto 340/2010, de 19 de marzo. Ref. BOE-A-2010-5549.

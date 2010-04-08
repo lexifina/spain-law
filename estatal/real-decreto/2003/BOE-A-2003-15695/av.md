@@ -28,7 +28,7 @@ Segundo. Procedimientos que deben seguirse para la modificación o reparación d
 
 1. Previamente a cualquier reparación o modificación que afecte a la cisterna, batería de recipientes o CGEM, se exigirá que ésta esté limpia y vacía, acreditado por un certificado de instalación de lavado interior de cisternas autorizado, o en el caso de cisternas de clase 2, de instalación de lavado interior y desgasificación y despresurización de cisternas.
 
-2. Los procedimientos de soldadura utilizados en las reparaciones o modificaciones de cisternas, batería de recipientes o CGEM estarán de acuerdo con el código técnico de diseño original del proyecto técnico de la homologación o certificado de conformidad de tipo registrado en el Registro de contraseñas del Ministerio de Ciencia y Tecnología, según el artículo 10 del Real Decreto 2115/1998, de 2 de octubre, y el artículo 9 del Real Decreto 412/2001, de 20 de abril.
+2. Los procedimientos de soldadura utilizados en las reparaciones o modificaciones de cisternas, batería de recipientes o CGEM estarán de acuerdo con el código técnico de diseño original del proyecto técnico de la homologación o certificado de conformidad de tipo registrado en el Registro de contraseñas, al que se refieren el artículo 9 del Real Decreto 412/2001, de 20 de abril, y el artículo 13 del Real Decreto 551/2006, de 5 de mayo.
 
 No obstante, en caso de que se desconozca documentalmente el código utilizado en la construcción de la cisterna, batería de recipientes o CGEM se utilizará el procedimiento de soldadura del código ASME (American Society of Mechanical Engineers-International Code), incluso en las cisternas que no trabajan a presión.
 
@@ -40,7 +40,7 @@ Igualmente, en el caso de modificación o reparación de los equipos de servicio
 
 3. Cuando haya que realizar radiografías en cisternas de aluminio o aleación de aluminio, éstas serán siempre con rayos X únicamente.
 
-4. Previamente a hacer el informe de aprobación de reparación o modificación de una cisterna, batería de recipientes o CGEM, según modelo del apéndice E-18 del Real Decreto 2115/1998, de 2 de octubre, sobre transporte de mercancías peligrosas por carretera en el caso de vehículos cisternas, batería de recipientes o CGEM de carretera o contenedores cisternas, y según el modelo del apéndice 3.16 del Real Decreto 412/2001, de 20 de abril, por el que se regulan diversos aspectos relacionados con el transporte de mercancías peligrosas por ferrocarril, para vagones cisternas, en el taller del constructor o reparador y bajo la supervisión y control del técnico del organismo de control autorizado, se harán ensayos no destructivos de los golpes, abolladuras o fisuras de las zonas anexas a las mismas, mediante partículas magnéticas en materiales ferromagnéticos y líquidos penetrantes en materiales no magnéticos.
+4. Previamente a hacer el informe de aprobación de reparación o modificación de una cisterna, batería de recipientes o CGEM, según modelo del apéndice E-18 del Real Decreto 551/2006, de 5 de mayo, por el que se regulan las operaciones de transporte de mercancías peligrosas por carretera en territorio español, en el caso de vehículos cisternas, batería de recipientes o CGEM de carretera o contenedores cisternas, y según el modelo del apéndice 3.16 del Real Decreto 412/2001, de 20 de abril, por el que se regulan diversos aspectos relacionados con el transporte de mercancías peligrosas por ferrocarril, para vagones cisternas, en el taller del constructor o reparador y bajo la supervisión y control del técnico del organismo de control autorizado, se harán ensayos no destructivos de los golpes, abolladuras o fisuras de las zonas anexas a las mismas, mediante partículas magnéticas en materiales ferromagnéticos y líquidos penetrantes en materiales no magnéticos.
 
 Se utilizarán partículas magnéticas del tipo fluorescente por el interior de la cisterna, mediante lámpara de luz negra sobre las zonas afectadas y adyacentes.
 
@@ -72,8 +72,10 @@ En cisternas construidas inicialmente con λ = 1 o λ = 0,9, dos ensayos de dobl
 
 En todos los casos, además, se realizarán pruebas de estanqueidad e hidráulica, en todas aquellas modificaciones o reparaciones que se hayan realizado en la envolvente interna o externamente a la cisterna. No obstante, no serán necesarias las pruebas de estanqueidad hidráulicas en aquellas reparaciones o modificaciones que se hayan realizado sobre la superficie de la envolvente, sin penetración de su chapa.
 
-4. Una vez finalizada la reparación se enviarán a la autoridad competente los siguientes documentos:
+7. Una vez finalizada la reparación se enviarán a la autoridad competente los siguientes documentos:
 
-a) Informe previo a reparación, con modelo del apéndice E-18 del Real Decreto 2115/1998, de 2 de octubre, y documentación gráfica inicial, para vehículos cisterna de carretera y contenedores cisterna y el modelo del apéndice 3.16 del Real Decreto 412/2001, de 20 de abril, para vagones cisterna.
+a) Informe previo a reparación, con modelo del apéndice E-18 del Real Decreto 551/2006, de 5 de mayo, y documentación gráfica inicial, para vehículos cisterna de carretera y contenedores cisterna y el modelo del apéndice 3.16 del Real Decreto 412/2001, de 20 de abril, para vagones cisterna.
 
-b) Informe final de reparación con los resultados de los ensayos y documentos gráficos finales con el Informe del apéndice E-19, según modelo del Real Decreto 2115/1998, de 2 de octubre, para vehículos cisterna de carretera y contenedores cisternas, batería de recipientes o CGEM, y el informe del apéndice 3.17 del Real Decreto 412/2001, de 20 de abril, para vagones cisternas.
+b) Informe final de reparación con los resultados de los ensayos y documentos gráficos finales con el Informe del apéndice E-19, según modelo del Real Decreto 551/2006, de 5 de mayo, para vehículos cisterna de carretera y contenedores cisternas, batería de recipientes o CGEM, y el informe del apéndice 3.17 del Real Decreto 412/2001, de 20 de abril, para vagones cisternas.
+
+> Se modifican los apartados 1.h), 2 y 7 por el art. único.12 a 15 del Real Decreto 340/2010, de 19 de marzo. Ref. BOE-A-2010-5549.
