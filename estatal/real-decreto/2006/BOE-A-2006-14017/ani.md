@@ -1,6 +1,6 @@
 ## ANEXO I
 
-## Identificación de marcados y de registro de control metrológico
+## Identificación de marcados, registro de control metrológico y precintos
 
 Marcados de conformidad
 
@@ -90,3 +90,22 @@ Tabla 2: Código de identificación de sectores de actividad.
 | T | Tiempo y frecuencia. |
 | N | Preenvasados. |
 | 1 | Instrumentos especiales. |
+
+Identificación de precintos
+
+17. Los precintos a emplear cuando así este previsto en la reglamentación que sea de aplicación para el ejercicio del control metrológico del Estado deberán incorporar un número de identificación con el siguiente formato:
+
+| XX-Y-NNNNNNNN |
+| --- |
+
+donde:
+
+“XX” representan los dos dígitos que identifican a la Administración pública competente, de acuerdo con la relación de códigos de identificación contenida en el anexo I.
+
+“Y” es la letra que sirve para identificar el sector de actividad, de acuerdo con los códigos de identificación relacionados en el anexo I.
+
+“NNNNNNN” son los dígitos o letras correspondientes a la identificación del precinto. Podrán tener la longitud que cada Administración pública competente establezca.
+
+En el supuesto de que se trate de precintos embutidos, electrónicos o de cualquier otro tipo que técnicamente impidan la incorporación de la identificación precedente, deberán ser identificados por un código compatible con el tipo de precinto a utilizar, que deberá quedar vinculado, en el documento que acredite la actuación de reparación o modificación y precintado realizada, con la identificación de precinto establecida con carácter general en el presente anexo.
+
+> Se modifica el título del anexo y se añade el apartado 17 por el art. único.19 y 20 del Real Decreto 339/2010, de 19 de marzo. Ref. BOE-A-2010-5548.

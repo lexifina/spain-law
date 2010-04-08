@@ -16,7 +16,7 @@ Por ello, teniendo en cuenta que mediante la presente norma se transpone la menc
 
 En consonancia con lo anterior la regulación que se establece en este real decreto se ajusta al contenido de la Directiva 2004/22/CE del Parlamento Europeo y del Consejo, de 31 de marzo de 2004, relativa a los instrumentos de medida, de modo que las fases del control metrológico del Estado a que se refiere el apartado 2.a) y b) del artículo séptimo de la Ley 3/1985, de 18 de marzo, de Metrología, se corresponden con el procedimiento definido en la directiva como evaluación de la conformidad y que afectan, en tanto no se incorporen nuevas clases de instrumentos, a los regulados en los anexos V a XIV. Paralelamente, y en lo que se refiere a los instrumentos no regulados en la directiva y sí sujetos al control metrológico del Estado a través de diversas disposiciones, se establece en las citadas fases un procedimiento similar.
 
-Las fases del control metrológico del Estado a las que se refiere el apartado 2.c), d) y e) del artículo séptimo de la Ley de Metrología se desarrollan en este real decreto y se aplican a la totalidad de instrumentos regulados.
+Las fases del control metrológico del Estado a las que se refiere el artículo séptimo de la Ley 3/1985, de Metrología, se desarrollan en el presente real decreto y se aplican a la totalidad de instrumentos regulados.
 
 Por todo ello, esta norma pretende, al tiempo que adapta la legislación española a la de la Unión Europea, regular la misma de conformidad con las citadas sentencias del Tribunal Constitucional e incorporar a la normativa nacional los principios de las directivas de nuevo enfoque.
 
@@ -25,3 +25,5 @@ Esta disposición ha sido sometida al procedimiento de información en materia d
 En su virtud, a propuesta del Ministro de Industria Turismo y Comercio, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 21 de julio de 2006.
 
 DISPONGO:
+
+> Se modifica el párrafo décimo por el art. único.1 del Real Decreto 339/2010, de 19 de marzo. Ref. BOE-A-2010-5548.
