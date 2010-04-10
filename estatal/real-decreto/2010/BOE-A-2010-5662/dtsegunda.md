@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Equivalencia de la docencia impartida a la formación pedagógica y didáctica.
+
+La acreditación de una experiencia docente durante dos cursos académicos completos o, en su defecto, 12 meses en períodos continuos o discontinuos, en centros públicos o privados de enseñanzas artísticas profesionales debidamente autorizados, se les reconocerá dicha docencia como equivalente a la formación pedagógica y didáctica establecida en el artículo 16 de este real decreto hasta tanto no se regule el título universitario oficial de máster o el título de máster de los regulados en el artículo 9 del Real Decreto 1614/2009, por el que se establece la ordenación de las enseñanzas artísticas superiores.
