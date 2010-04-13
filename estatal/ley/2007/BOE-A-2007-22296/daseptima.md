@@ -4,4 +4,4 @@
 
 2. Este derecho también se reconocerá a los nietos de quienes perdieron o tuvieron que renunciar a la nacionalidad española como consecuencia del exilio.
 
-> Esta disposición entra en vigor el 27 de diciembre de 2008, según establece la disposición final 2.
+> Se amplía el plazo del apartado 1 por el anexo de la Resolución de 17 de marzo de 2010. Ref. BOE-A-2010-4853
