@@ -20,6 +20,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo séptimo](aseptimo.md)
 - [Artículo octavo](aoctavo.md)
 - [Artículo noveno](anoveno.md)
+- [Disposición adicional primera](primera.md)
 - [Disposición final primera](primera-2.md)
 - [Disposición final segunda](segunda-2.md)
 - [Disposición final tercera](tercera.md)

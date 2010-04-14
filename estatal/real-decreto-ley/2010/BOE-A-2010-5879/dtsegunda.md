@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Reducción en el IVA de los módulos aplicables a las actividades de renovación y reparación de viviendas particulares.
+
+Antes del 1 de mayo de 2010, deberá publicarse en el «Boletín Oficial del Estado» la modificación de la Orden EHA/99/2010, de 28 de enero, por la que se desarrollan para el año 2010 el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido, con el objeto de reflejar en el importe de los signos, índices o módulos la reducción del tipo impositivo establecida por este real decreto-ley a los empresarios o profesionales que desarrollan actividades relacionadas con la renovación y reparación de viviendas particulares.
