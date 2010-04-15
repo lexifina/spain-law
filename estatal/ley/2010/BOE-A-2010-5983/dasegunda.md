@@ -1,0 +1,13 @@
+## Disposición adicional segunda. Servicios de tránsito aéreo prestados por Aeropuertos Españoles y Navegación Aérea.
+
+1. En los aeródromos gestionados en la actualidad por AENA los servicios de tránsito aéreo podrán ser prestados por la citada entidad o por cualquier otro proveedor de servicios de tránsito aéreo debidamente certificado por una autoridad nacional de supervisión de la Unión Europea.
+
+2. En los dos meses siguientes a la entrada en vigor de esta ley, AENA deberá presentar al Ministerio de Fomento los estudios de seguridad que permitan identificar en qué aeródromos de los que gestiona se empezará a prestar el servicio de tránsito aéreo bajo la modalidad de servicio de información de vuelo de aeródromo (AFIS). El Ministerio de Fomento determinará mediante orden en qué aeródromos se prestará dicho servicio de información de vuelo.
+
+En el plazo que se establezca en dichas órdenes, AENA, o el gestor aeroportuario que la suceda, conforme a la Ley 31/2007, de 30 de octubre, deberá iniciar los procedimientos para la selección de los correspondientes proveedores civiles de servicios de información de vuelo de aeródromo.
+
+3. Para aquellos aeródromos que se determinen por orden del Ministerio de Fomento y en el plazo que en las mismas se establezca, AENA, o el gestor aeroportuario que la suceda, deberá igualmente iniciar los procedimientos para la selección de nuevos proveedores civiles de servicios de tránsito aéreo de aeródromo, de acuerdo con lo establecido en la Ley 31/2007, de 30 de octubre. En función de las características del aeródromo y de los estudios de seguridad pertinentes, estos servicios podrán prestarse bajo la modalidad de control, información de vuelo, o ambas, según se determine en las referidas órdenes ministeriales.
+
+4. Los controladores de tránsito aéreo que vinieran prestando sus servicios para AENA en las dependencias a las que se refieren los párrafos precedentes, cuando se inicie la prestación del servicio por los nuevos proveedores de servicios de tránsito aéreo, podrán optar, siempre en el marco del Estatuto del Trabajador, entre aceptar el puesto de trabajo que debe ofrecerles AENA, o dar por extinguido su contrato de trabajo, con el derecho a percibir, en este último caso, las indemnizaciones que procedan, o bien, a voluntad del controlador, quedar subrogados en el nuevo proveedor de servicios, conforme a las condiciones económicas y laborales aplicables a dicho nuevo proveedor.
+
+5. En los aeródromos a los que se refieren los apartados 2 y 3 de la presente disposición AENA continuará prestando los servicios de control de tránsito aéreo hasta que se produzca el inicio efectivo de la prestación de servicios por los nuevos proveedores.
