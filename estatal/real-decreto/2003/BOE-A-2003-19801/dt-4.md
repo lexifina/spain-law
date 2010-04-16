@@ -1,3 +1,7 @@
-## Disposición transitoria cuarta. Cursos y pruebas para la obtención de los certificados de aptitud de profesor de formación vial y de director de escuelas particulares de conductores.
+## Disposición transitoria cuarta.
 
-Hasta que por orden del Ministro del Interior se regulen los cursos y pruebas para la obtención de los certificados de aptitud de profesor de formación vial y de director de escuelas particulares de conductores, dichos cursos y pruebas continuarán rigiéndose por las disposiciones vigentes a la entrada en vigor de este reglamento.
+(Sin contenido)
+
+> Se reenumera como disposición transitoria 3 por el art. 1.50 del Real Decreto 369/2010, de 26 de marzo. Ref. BOE-A-2010-5038
+
+> Se interpreta que la disposición transitoria 4 queda sin contenido.
