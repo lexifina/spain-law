@@ -12,6 +12,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 - [no](no.md)
 - [pr](pr.md)
+- [Artículo 1](a1.md)
+- [Artículo 2](a2.md)
 - [Disposición transitoria primera](dt.md)
 - [Disposición transitoria segunda](dt-2.md)
 - [Disposición derogatoria única](dd.md)
