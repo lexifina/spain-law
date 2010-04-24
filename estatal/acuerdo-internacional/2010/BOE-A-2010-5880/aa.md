@@ -1,0 +1,3 @@
+## ACUERDO ADMINISTRATIVO ENTRE EL MINISTERIO DE SANIDAD Y CONSUMO DE ESPAÑA Y EL MINISTERIO DE SALUD DE PORTUGAL RELATIVO A LAS MODALIDADES DE APLICACIÓN DEL ACUERDO MARCO ENTRE EL REINO DE ESPAÑA Y LA REPÚBLICA PORTUGUESA SOBRE COOPERACIÓN SANITARIA TRANSFRONTERIZA FIRMADO EL 22 DE ENERO DE 2009
+
+De conformidad con las disposiciones del artículo 4 del Acuerdo Marco entre el Reino de España y la República Portuguesa sobre cooperación sanitaria transfronteriza, firmado el 22 de enero de 2009, en adelante denominado «Acuerdo Marco», las autoridades competentes, es decir, por España, el Ministerio de Sanidad y Consumo, y por Portugal, el Ministerio de Salud, han decidido de común acuerdo las siguientes modalidades de aplicación.
