@@ -1,0 +1,3 @@
+## Disposición adicional única. Generadores procedentes de otros Estados miembros.
+
+De acuerdo con el artículo 30 y siguientes del Tratado constitutivo de la Comunidad Europea (TCE) y sin perjuicio de lo establecido en el presente real decreto, se admitirán en el mercado español, además de los aerosoles fabricados de conformidad con lo establecido en la presente disposición, aquellos otros que puedan ser fabricados y controlados de acuerdo con los reglamentos técnicos de los Estados miembros, siempre que garanticen y les sea reconocido, al menos, el mismo nivel de protección y seguridad que el que se alcanza con la legislación que ahora se establece.
