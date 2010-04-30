@@ -41,6 +41,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria primera](primera.md)
 - [Disposición transitoria segunda](segunda.md)
 - [Disposición adicional](da.md)
+- [Disposición adicional primera](primera-2.md)
+- [Disposición adicional segunda](segunda-2.md)
 - [Disposición final primera](primera-3.md)
 - [Disposición final segunda](segunda-3.md)
 - [firma](firma.md)
