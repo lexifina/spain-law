@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 19/2003, de 4 de julio, sobre régimen jurídico de los movimientos de capitales y de las transacciones económicas con el exterior", según establece la disposición final 2.1 de la Ley 10/2010, de 28 de abril. Ref. BOE-A-2010-6737#dfsegunda
