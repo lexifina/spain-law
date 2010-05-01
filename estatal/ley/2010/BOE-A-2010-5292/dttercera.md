@@ -1,0 +1,7 @@
+## Disposición transitoria tercera. Conversión de los actuales Registros de Sociedades Concesionarias para la gestión indirecta del servicio público esencial de la televisión; de Empresas Radiodifusoras, Especial de Operadores de Cable y creación del Registro Estatal de prestadores del servicio de comunicación audiovisual.
+
+1. La creación del Registro estatal de prestadores del servicio de comunicación audiovisual extinguirá los actuales Registros de Sociedades Concesionarias para la gestión indirecta del servicio público esencial de la televisión, de Empresas Radiodifusoras y el Especial de Operadores de Cable.
+
+2. Tras la entrada en vigor de esta Ley, la Comisión del Mercado de las Telecomunicaciones procederá a transferir al Consejo Estatal de Medios Audiovisuales el Registro de Sociedades Concesionarias para la gestión indirecta del servicio público esencial de la televisión, el Registro de Empresas Radiodifusoras y las inscripciones contenidas en el Registro creado en aplicación de lo dispuesto en la disposición adicional décima de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, así como todos los expedientes que contengan las autorizaciones administrativas para el servicio de difusión de televisión por satélite y sus modificaciones, otorgadas para la prestación de este servicio de difusión.
+
+3. Los órganos competentes inscribirán en los nuevos registros a los anteriores titulares, una vez transformado su título habilitante según lo previsto en la disposición transitoria segunda.

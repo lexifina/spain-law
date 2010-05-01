@@ -1,3 +1,5 @@
 ## Disposición adicional cuadragésima cuarta. Empresas operadoras de televisión por cable.
 
-Las empresas operadoras de televisión por cable a las que se refiere el apartado 4 de la disposición transitoria primera de la Ley 42/1995, de 22 de diciembre, reguladora de las Telecomunicaciones por Cable, que se encontrasen en explotación comercial en una determinada localidad, podrán continuar realizando esa actividad hasta que una entidad que hubiese obtenido la oportuna concesión para la prestación del servicio, comience a ofrecerlo en aquélla y así se acredite mediante acta levantada por la Inspección de Telecomunicaciones del Ministerio de Fomento.
+(Derogada)
+
+> Se deroga por la disposición derogatoria.11 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
