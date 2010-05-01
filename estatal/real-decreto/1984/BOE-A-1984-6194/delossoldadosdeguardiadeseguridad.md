@@ -1,3 +1,7 @@
 ## De los Soldados de Guardia de Seguridad
 
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 194/2010, de 26 de febrero. Ref. BOE-A-2010-4219.
+
 > Redactado conforme a la corrección de errores publicada en BOE núm. 78, de 31 de marzo de 1984. Ref. BOE-A-1984-7808.

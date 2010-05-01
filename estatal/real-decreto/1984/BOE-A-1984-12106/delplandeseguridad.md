@@ -1,1 +1,5 @@
 ## Del Plan de Seguridad
+
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 194/2010, de 26 de febrero. Ref. BOE-A-2010-4219.
