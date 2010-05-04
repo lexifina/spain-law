@@ -1,5 +1,7 @@
 ## Artículo trece.
 
-1. Recibido el expediente, el Tribunal lo pondrá de manifiesto en Secretaría al Fiscal y al Abogado defensor por plazo sucesivo de tres días, y podrá reclamar, a petición de cualquiera de ambos o de oficio, los antecedentes que juzgue convenientes en relación con el artículo siguiente, sin que contra la resolución del Tribunal sobre este extremo quepa recurso alguno.
+1. Recibido el expediente, el Secretario judicial lo pondrá de manifiesto en la Oficina judicial al Fiscal y al Abogado defensor por plazo sucesivo de tres días, y el Tribunal podrá reclamar, a petición de cualquiera de ambos o de oficio, los antecedentes que juzgue convenientes en relación con el artículo siguiente, sin que contra la resolución del Tribunal sobre este extremo quepa recurso alguno.
 
-2. Si el reclamado de extradición no tuviera defensor se le nombrará de oficio antes de ponerle de manifiesto el expediente.
+2. Si el reclamado de extradición no tuviera defensor, el Secretario judicial interesará que se le nombre de oficio antes de ponerle de manifiesto el expediente.
+
+> Se modifica por el art. 6.2 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493

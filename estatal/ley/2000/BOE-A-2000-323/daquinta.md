@@ -62,10 +62,6 @@ A estos efectos, el procurador acreditará, bajo su responsabilidad personal, la
 
 En las comunicaciones por medio de entrega de copia de la resolución o cédula en el domicilio del destinatario, se estará a lo dispuesto en el artículo 161 en lo que sea aplicable, debiendo el procurador acreditar la concurrencia de las circunstancias contempladas en dicho precepto, para lo que podrá auxiliarse de dos testigos o de cualquier otro medio idóneo.
 
-> Se modifica el apartado 2.b) por el art. 2.20 de la Ley 19/2009, de 23 de noviembre. Ref. BOE-A-2009-18733
-
-> Téngase en cuenta que los apartados 2 y 3 entran en vigor el 4 de mayo de 2010, según la redacción dada por la Ley 13/2009.
-
 > Se modifican los apartados 2 y 3 por el art. 15.379 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
 > Se añade por la disposición adicional 12.3 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -8,7 +8,7 @@ La comunicación podrá dirigirse a la autoridad judicial en el plazo de los tre
 
 Lo dispuesto en este apartado no conllevará la revisión de las resoluciones que hubieran reconocido el derecho a las prestaciones por desempleo derivadas de la finalización de los reiterados contratos temporales, que se considerarán debidas al trabajador.
 
-2. El Juez examinará la demanda antes de decretar su admisión, al efecto de comprobar si reúne todos los requisitos exigidos, advirtiendo a la Entidad Gestora, en su caso, los defectos u omisiones de que adolezca, a fin de que sean subsanados en el término de diez días.
+2. El Secretario judicial examinará la demanda, al efecto de comprobar si reúne todos los requisitos exigidos, advirtiendo a la entidad gestora, en su caso, los defectos u omisiones de carácter formal de que adolezca, a fin de que sean subsanados en el término de diez días. Realizada la subsanación, se admitirá la demanda. En otro caso, dará cuenta al Tribunal para que por el mismo se resuelva sobre la admisión de la demanda.
 
 3. Admitida a trámite la demanda, continuará el procedimiento con arreglo a las normas generales de la presente Ley, con las especialidades siguientes:
 
@@ -21,5 +21,7 @@ b) Las afirmaciones de hechos que se contengan en la comunicación base del proc
 5. Cuando la sentencia adquiera firmeza se comunicará a la Inspección de Trabajo y Seguridad Social.
 
 En el supuesto de que con base en la declaración de hechos probados que figure en la sentencia se extienda, en su caso, acta de infracción por la Inspección de Trabajo y Seguridad Social, no será de aplicación lo dispuesto en el artículo 149.2 de la presente Ley.
+
+> Se modifican los apartados 2 y 3 por el art. 10.84 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
 > Se añade por el art. 6.2 de la Ley 45/2002, de 12 de diciembre. Ref. BOE-A-2002-24244

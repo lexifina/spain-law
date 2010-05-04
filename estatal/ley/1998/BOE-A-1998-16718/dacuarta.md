@@ -10,11 +10,13 @@ Serán recurribles:
 
 4. Las resoluciones de la Junta Arbitral regulada por la Ley Orgánica 3/1996, de 27 de diciembre, de Modificación parcial de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, directamente, en única instancia, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
 
-5. Los actos administrativos dictados por la Agencia de Protección de Datos, Comisión del Sistema Eléctrico Nacional, Comisión del Mercado de las Telecomunicaciones, Consejo Económico y Social, Instituto «Cervantes», Consejo de Seguridad Nuclear y Consejo de Universidades, directamente, en única instancia, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+5. Los actos administrativos dictados por la Agencia Española de Protección de Datos, Comisión Nacional de Energía, Comisión del Mercado de las Telecomunicaciones, Consejo Económico y Social, Instituto ‘‘Cervantes’’, Consejo de Seguridad Nuclear y Consejo de Universidades, directamente, en única instancia, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
 
 6. Las resoluciones del Ministro de Economía y Hacienda que resuelvan recursos de alzada contra actos o disposiciones dictados por el Instituto de Contabilidad y Auditoría de Cuentas, directamente, en única instancia, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
 
-7. Los actos administrativos no susceptibles de recurso ordinario dictados por la Comisión Nacional de Energía y las resoluciones del Ministro de Industria y Energía que resuelven recursos ordinarios contra actos dictados por la Comisión Nacional de Energía, así como las disposiciones dictadas por la citada entidad, directamente, en única instancia, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+7. Las resoluciones administrativas dictadas por el Ministro de Industria, Turismo y Comercio, que resuelven recursos de alzada contra actos dictados por la Comisión Nacional de Energía, así como las disposiciones dictadas por la citada entidad, directamente, en única instancia, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+
+> Se modifican los apartados 5 y 7 por el art. 14.66 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
 
 > Se modifica el apartado 3 por la disposición adicional 7.3 de la Ley 15/2007, de 3 de julio. Ref. BOE-A-2007-12946.
 

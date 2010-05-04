@@ -10,13 +10,13 @@ Sin perjuicio del deber general de denuncia previsto en el artículo 262 de esta
 
 Los servicios sociales y las instituciones referidas anteriormente facilitarán a las víctimas de la violencia doméstica a las que hubieran de prestar asistencia la solicitud de la orden de protección, poniendo a su disposición con esta finalidad información, formularios y, en su caso, canales de comunicación telemáticos con la Administración de Justicia y el Ministerio Fiscal.
 
-4. Recibida la solicitud de orden de protección, el juez de guardia, en los supuestos mencionados en el apartado 1 de este artículo, convocará a una audiencia urgente a la víctima o su representante legal, al solicitante y al agresor, asistido, en su caso, de abogado. Asimismo será convocado el Ministerio Fiscal.
+4. Recibida la solicitud de orden de protección, el Juez de guardia, en los supuestos mencionados en el apartado 1 de este artículo, convocará a una audiencia urgente a la víctima o su representante legal, al solicitante y al presunto agresor, asistido, en su caso, de Abogado. Asimismo será convocado el Ministerio Fiscal.
 
-Esta audiencia se podrá sustanciar simultáneamente con la prevista en el artículo 504 bis 2 cuando su convocatoria fuera procedente, con la audiencia regulada en el artículo 798 en aquellas causas que se tramiten conforme al procedimiento previsto en el título III del libro IV de esta ley o, en su caso, con el acto del juicio de faltas. Cuando excepcionalmente no fuese posible celebrar la audiencia durante el servicio de guardia, el juez ante el que hubiera sido formulada la solicitud la convocará en el plazo más breve posible. En cualquier caso la audiencia habrá de celebrarse en un plazo máximo de 72 horas desde la presentación de la solicitud.
+Esta audiencia se podrá sustanciar simultáneamente con la prevista en el artículo 505 cuando su convocatoria fuera procedente, con la audiencia regulada en el artículo 798 en aquellas causas que se tramiten conforme al procedimiento previsto en el Título III del Libro IV de esta Ley o, en su caso, con el acto del juicio de faltas. Cuando excepcionalmente no fuese posible celebrar la audiencia durante el servicio de guardia, el Juez ante el que hubiera sido formulada la solicitud la convocará en el plazo más breve posible. En cualquier caso la audiencia habrá de celebrarse en un plazo máximo de setenta y dos horas desde la presentación de la solicitud.
 
-Durante la audiencia, el juez de guardia adoptará las medidas oportunas para evitar la confrontación entre el agresor y la víctima, sus hijos y los restantes miembros de la familia. A estos efectos dispondrá que su declaración en esta audiencia se realice por separado.
+Durante la audiencia, el Juez de guardia adoptará las medidas oportunas para evitar la confrontación entre el presunto agresor y la víctima, sus hijos y los restantes miembros de la familia. A estos efectos dispondrá que su declaración en esta audiencia se realice por separado.
 
-Celebrada la audiencia, el juez de guardia resolverá mediante auto lo que proceda sobre la solicitud de la orden de protección, así como sobre el contenido y vigencia de las medidas que incorpore. Sin perjuicio de ello, el juez de instrucción podrá adoptar en cualquier momento de la tramitación de la causa las medidas previstas en el artículo 544 bis.
+Celebrada la audiencia, el Juez de guardia resolverá mediante auto lo que proceda sobre la solicitud de la orden de protección, así como sobre el contenido y vigencia de las medidas que incorpore. Sin perjuicio de ello, el Juez de instrucción podrá adoptar en cualquier momento de la tramitación de la causa las medidas previstas en el artículo 544 bis.
 
 5. La orden de protección confiere a la víctima de los hechos mencionados en el apartado 1 un estatuto integral de protección que comprenderá las medidas cautelares de orden civil y penal contempladas en este artículo y aquellas otras medidas de asistencia y protección social establecidas en el ordenamiento jurídico.
 
@@ -28,13 +28,15 @@ La orden de protección podrá hacerse valer ante cualquier autoridad y Administ
 
 Las medidas de carácter civil contenidas en la orden de protección tendrán una vigencia temporal de 30 días. Si dentro de este plazo fuese incoado a instancia de la víctima o de su representante legal un proceso de familia ante la jurisdicción civil las medidas adoptadas permanecerán en vigor durante los treinta días siguientes a la presentación de la demanda. En este término las medidas deberán ser ratificadas, modificadas o dejadas sin efecto por el juez de primera instancia que resulte competente.
 
-8. La orden de protección será notificada a las partes, y comunicada por el juez inmediatamente, mediante testimonio íntegro, a la víctima y a las Administraciones públicas competentes para la adopción de medidas de protección, sean éstas de seguridad o de asistencia social, jurídica, sanitaria, psicológica o de cualquier otra índole. A estos efectos se establecerá reglamentariamente un sistema integrado de coordinación administrativa que garantice la agilidad de estas comunicaciones.
+8. La orden de protección será notificada a las partes, y comunicada por el Secretario judicial inmediatamente, mediante testimonio íntegro, a la víctima y a las Administraciones públicas competentes para la adopción de medidas de protección, sean éstas de seguridad o de asistencia social, jurídica, sanitaria, psicológica o de cualquier otra índole. A estos efectos se establecerá reglamentariamente un sistema integrado de coordinación administrativa que garantice la agilidad de estas comunicaciones.
 
-9. La orden de protección implicará el deber de informar permanentemente a la víctima sobre la situación procesal del imputado así como sobre el alcance y vigencia de las medidas cautelares adoptadas. En particular, la víctima será informada en todo momento de la situación penitenciaria del agresor. A estos efectos se dará cuenta de la orden de protección a la Administración penitenciaria.
+9. La orden de protección implicará el deber de informar permanentemente a la víctima sobre la situación procesal del imputado así como sobre el alcance y vigencia de las medidas cautelares adoptadas. En particular, la víctima será informada en todo momento de la situación penitenciaria del presunto agresor. A estos efectos se dará cuenta de la orden de protección a la Administración penitenciaria.
 
-10. La orden de protección será inscrita en el Registro Central para la Protección de las Víctimas de la Violencia Doméstica.
+10. La orden de protección será inscrita en el Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género.
 
 11. En aquellos casos en que durante la tramitación de un procedimiento penal en curso surja una situación de riesgo para alguna de las personas vinculadas con el imputado por alguna de las relaciones indicadas en el apartado 1 de este artículo, el Juez o Tribunal que conozca de la causa podrá acordar la orden de protección de la víctima con arreglo a lo establecido en los apartados anteriores.
+
+> Se modifican los apartados 4, 8, 9 y 10 por el art. 2.61 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
 
 > Se modifica el apartado 1 por la disposición final 1.2.f) de la Ley Orgánica 15/2003, de 25 de noviembre. Ref. BOE-A-2003-21538.
 
