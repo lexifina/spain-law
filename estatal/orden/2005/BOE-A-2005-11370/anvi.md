@@ -15,8 +15,11 @@
 | Portbou. | Comisaría Provincial de Girona. |
 | Puigcerdá. | Comisaría Provincial de Girona. |
 | Salvaterra de Miño. | Comisaría Provincial de Pontevedra. |
+| Tomelloso | Comisaría Provincial de Ciudad Real. |
 | Valcarlos. | Jefatura Superior de Policía de Navarra. |
 | Valencia de Alcántara. | Comisaría Provincial de Cáceres. |
-| Verín. | Comisaría Provincial de Ourense. |
+| Verín. | Comisaría Provincial de Ourense.» |
+
+> Se modifica por el art. único de la Orden INT/1098/2010, de 26 de abril. Ref. BOE-A-2010-6959.
 
 > Se modifica por el art. único de la Orden INT/1926/2009, de 15 de julio. Ref. BOE-A-2009-11929.
