@@ -34,8 +34,36 @@ Los Directores o Gerentes de los Centros Penitenciarios, en el ámbito del centr
 
 4. Del Subsecretario del Interior, la designación de las comisiones de servicio con derecho a indemnización en territorio nacional, cuya duración no exceda de cinco días, respecto del personal funcionario y laboral que preste sus servicios en el Centro Penitenciario.
 
+5. Los Gerentes y Directores de los Centros Penitenciarios y Centros de Inserción Social, por delegación del titular de la Dirección General de Coordinación Territorial y Medio Abierto, ejercerán las siguientes atribuciones respecto a los internos no vinculados a organizaciones terroristas o internos cuyos delitos no se hayan cometido en el seno de organizaciones criminales:
+
+5.1 Acordar la clasificación inicial en segundo grado de tratamiento de los penados con condena superior a cinco años, siempre que el acuerdo de la Junta de Tratamiento se haya adoptado por unanimidad.
+
+5.2 Dejar sin efecto la clasificación en grado de los penados en los supuestos legalmente establecidos.
+
+5.3 Resolver las revisiones de grado, interesadas por los internos al amparo del apartado segundo del artículo 105 del Reglamento Penitenciario, aprobado por el Real Decreto 190/1996, de 9 de febrero, siempre que el acuerdo de la Junta de Tratamiento de continuidad sea en segundo grado, se haya adoptado por unanimidad y el penado no haya cumplido la mitad de una condena superior a cinco años o tenga dos o más sanciones graves o muy graves sin cancelar.
+
+5.4 Autorizar la aplicación de las diferentes fases y modalidades de vida dentro del régimen abierto a los penados ya clasificados en tercer grado.
+
+5.5 Aprobar la aplicación de las previsiones del apartado cuarto del artículo 86 del Reglamento Penitenciario, aprobado por el Real Decreto 190/1996, de 9 de febrero, a los penados ya clasificados en tercer grado, siempre que consistan en la instalación de los adecuados dispositivos de control telemático.
+
+5.6 Ordenar el traslado de los penados clasificados en tercer grado al Centro de Inserción Social de la misma provincia, previa autorización del Centro Directivo.
+
+5.7 Ordenar el traslado provisional de los penados desde el Centro de Inserción Social al Centro Penitenciario de la misma provincia, en los supuestos de acuerdo de regresión a segundo grado adoptado por la Junta de Tratamiento.
+
+5.8 Autorizar los permisos ordinarios de salida a los penados clasificados en tercer grado.
+
+5.9 Autorizar los permisos extraordinarios a los penados clasificados en segundo grado por razón de nacimiento de hijo o fallecimiento o enfermedad grave de padres, hijos, hermanos o cónyuge, con custodia policial sin traslado de establecimiento o bien sin custodia para internos que disfrutan habitualmente de permisos ordinarios de salida, siempre que su duración en este caso no supere las veinticuatro horas.
+
+5.10 Autorizar los permisos extraordinarios de salida a los penados clasificados en tercer grado.
+
+5.11 Aprobar salidas de fin de semana en horarios diferentes a los reglamentariamente establecidos, a los penados en régimen abierto.
+
+5.12 Aprobar las salidas programadas a los penados clasificados en tercer grado o en segundo grado con aplicación del principio de flexibilidad, sin perjuicio en este último supuesto de la competencia de los Jueces de Vigilancia Penitenciaria para su autorización cuando la duración sea superior a dos días.
+
+> Se añade el punto 5 por el art. único.1 de la Orden INT/1127/2010, de 19 de abril. Ref. BOE-A-2010-7032.
+
 > Se modifica por el art. 1.9 de la Orden INT/50/2010, de 12 de enero. Ref. BOE-A-2010-1002.
 
-> Redactado conforme a las correcciones de errores publicadas en BOE núm. 52, de 1 de marzo de 2010. Ref. BOE-A-2010-3306 y núm. 31, de 5 de febrero de 2010. Ref. BOE-A-2010-1871.
+> Redactado conforme a las correcciones de errores publicadas en BOE núm. 52, de 1 de marzo de 2010, Ref. BOE-A-2010-3306 y núm. 31, de 5 de febrero de 2010. Ref. BOE-A-2010-1871.
 
 > Se derogan los puntos 3 y 3.1 por la disposición derogatoria única de la Orden INT/2089/2005, de 17 de junio. Ref. BOE-A-2005-11340.
