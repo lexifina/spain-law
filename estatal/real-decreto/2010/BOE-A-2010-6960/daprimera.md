@@ -1,0 +1,3 @@
+## Disposición adicional primera. Supuestos especiales.
+
+Sin perjuicio de lo previsto en el artículo 2.b) y c) de este real decreto, estará incluido en el ámbito de aplicación del mismo, el reconocimiento de efectos profesionales a los títulos de Especialista o de Matrona expedidos por terceros países y reconocidos por otro Estado miembro de la Unión Europea, cuando el poseedor del título extracomunitario de que se trate no tenga la nacionalidad de algún Estado miembro, o cuando no haya acreditado reunir los requisitos de experiencia profesional y de formación previstos en el artículo 6.2 del Real Decreto 1837/2008, de 8 de noviembre.
