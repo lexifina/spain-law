@@ -117,6 +117,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](dasegunda.md)
 - [Disposición adicional tercera](datercera.md)
+- [Disposición adicional cuarta](dacuaa.md)
 - [Disposición final primera](primera-2.md)
 - [Disposición final segunda](segunda-2.md)
 - [firma](firma.md)
