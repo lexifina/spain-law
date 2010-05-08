@@ -16,9 +16,9 @@ La ejecución de anticipos de tesorería, concedidos en aplicación del artícul
 
 La gestión y control de proyectos de gasto.
 
-b) Registrar, una vez que se regulen los procedimientos, en relación con los ingresos de carácter no tributario cuya gestión corresponda a los Servicios gestores del Departamento, las operaciones derivadas tanto de la ejecución del Presupuesto corriente como de derechos pendientes de cobro de presupuestos de ingresos cerrados y, en su caso, de la información necesaria para el control individualizado de liquidaciones de contraído previo, de acuerdo con los procedimientos contables que se regulen al respecto.
+b) Registrar las propuestas de pago por devolución de ingresos relativas a los ingresos no tributarios cuya gestión corresponda a los Servicios Gestores del Departamento.
 
-c) Registrar las operaciones no presupuestarias que se produzcan en el ámbito de los Servicios gestores del Departamento, de acuerdo con los procedimientos contables que se regulen al respecto.
+c) Registrar las operaciones no presupuestarias que se produzcan en el ámbito de los Servicios Gestores del Departamento.
 
 d) Registrar las operaciones de control de los pagos a justificar y anticipos de caja fija que se deban tramitar por el Departamento.
 
@@ -31,3 +31,5 @@ g) La gestión, dentro del ámbito de cada Departamento ministerial, de los usua
 h) Registrar datos en el fichero central de terceros, de acuerdo con las competencias que tengan atribuidas.
 
 i) Aquellas otras funciones que les puedan ser encomendadas.
+
+> Se modifican las letras b) y c) por el art. 3.2 de la Orden EHA/1160/2010, de 29 de abril. Ref. BOE-A-2010-7252.

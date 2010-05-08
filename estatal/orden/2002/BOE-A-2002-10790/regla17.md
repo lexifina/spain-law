@@ -6,7 +6,7 @@ a) Registrar las operaciones de ejecución de la sección presupuestaria de la D
 
 b) Registrar las operaciones de ordenación de pagos que se realicen en el ámbito de la Dirección General del Tesoro y Política Financiera, así como los pagos que se efectúen en dicho ámbito.
 
-c) Registrar, en su caso, en relación con los ingresos de carácter no tributario cuya gestión corresponda al ámbito de la Dirección General del Tesoro y Política Financiera o hayan de aplicarse de forma centralizada por la misma, las operaciones derivadas tanto de la ejecución del Presupuesto de ingresos corriente como de derechos pendientes de cobro de presupuestos de ingresos cerrados y de la información necesaria para el control individualizado de liquidaciones de contraído previo, de acuerdo con los procedimientos contables que se regulen al respecto.
+c) Registrar, en su caso, en relación con los ingresos no tributarios cuya gestión corresponda al ámbito de la Dirección General del Tesoro y Política Financiera o hayan de aplicarse de forma centralizada por la misma, las operaciones derivadas de la ejecución del Presupuesto corriente, incluidas las propuestas de pago por devolución de ingresos, de los derechos pendientes de cobro de presupuestos de ingresos cerrados, y de la información necesaria para el control individualizado de liquidaciones de contraído previo.
 
 d) Registrar las operaciones no presupuestarias que se produzcan en el ámbito de la Dirección General del Tesoro y Política Financiera, así como las que tengan lugar en relación con la Caja General de Depósitos.
 
@@ -20,4 +20,8 @@ h) La gestión, dentro del ámbito de la Dirección General del Tesoro y Políti
 
 i) Registrar datos en el fichero central de terceros, de acuerdo con las competencias que tenga atribuidas.
 
-j) Aquellas otras funciones que le puedan ser encomendadas
+j) Aquellas otras funciones que le puedan ser encomendadas.
+
+> Se modifica la letra c) por el art. 3.5 de la Orden EHA/1160/2010, de 29 de abril. Ref. BOE-A-2010-7252.
+
+> Esta modificación es aplicable a partir del 10 de mayo de 2010, según establece la disposición final única.

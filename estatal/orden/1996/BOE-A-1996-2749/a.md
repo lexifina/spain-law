@@ -1,6 +1,6 @@
 ## A) DOCUMENTOS CONTABLES DEL PRESUPUESTO DE GASTOS
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_001.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_004.png)
 
@@ -50,7 +50,11 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/51/03740_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_002.png)
+
+> Se modifican determinados modelos por el art. 1.6.1 y anexo I de la Orden EHA/1160/2010, de 29 de abril. Ref. BOE-A-2010-7252.
+
+> Esta modificación es aplicable a partir del 10 de mayo de 2010, según establece la disposición final única.
 
 > Se añade el modelo de documento "Anexo información adicional" y se modifican determinados modelos por el art. único.4.1 y 4 y los anexos I y III de la Orden EHA/ 818/2009, de 27 de marzo. Ref. BOE-A-2009-5488.
 

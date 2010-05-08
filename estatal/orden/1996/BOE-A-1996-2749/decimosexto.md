@@ -24,10 +24,18 @@ h) Propuesta de mandamiento de pago no presupuestaria.
 
 i) Anexo: Permite incluir más de cinco aplicaciones contables en las propuestas de mandamiento de pago por devolución de ingresos y no presupuestarias.
 
+j) Anexo datos adicionales: Se utilizará para complementar los documentos contables del Presupuesto de Ingresos y de operaciones no presupuestarias, cuando para el registro de la operación sea necesario cumplimentar algún campo del mismo.
+
+k) Mandamiento de ingreso de Fondos Europeos: Se utilizará para la aplicación de los ingresos procedentes de Fondos Europeos.
+
 2. Para el registro de las órdenes de cobro de Departamentos ministeriales, así como sus anulaciones, se utilizarán los propios documentos remitidos por dichos Departamentos, debidamente comprobados y codificados.
 
 La Intervención General de la Administración del Estado podrá dictar las disposiciones necesarias para la normalización de estos documentos, así como para su remisión a través de medios informáticos.
 
 3. Para el resto de documentos se utilizarán los modelos que figuran en el anexo II.
+
+> Se añaden la letras j) y k) al punto 1 por el art. 1.2 de la Orden EHA/1160/2010, de 29 de abril. Ref. BOE-A-2010-7252.
+
+> Esta modificación es aplicable a partir del 10 de mayo de 2010, según establece la disposición final única.
 
 > Se modifican las letras a) y d) del punto 1 por el art. único.2 de la Orden EHA/818/2009, de 27 de marzo. Ref. BOE-A-2009-5488.

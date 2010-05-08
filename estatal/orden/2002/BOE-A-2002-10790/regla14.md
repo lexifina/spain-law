@@ -4,7 +4,7 @@ Corresponde a la Central Contable el ejercicio de las siguientes funciones:
 
 a) Registrar en el SIC las operaciones de la Administración General del Estado sin perjuicio de lo que se establece en las siguientes reglas.
 
-b) Integrar en el SIC las operaciones relacionadas con la gestión de los tributos estatales y recursos de otras Administraciones Públicas, que deban ser registradas en la Central Contable, de acuerdo con los procedimientos contables que se regulen al respecto.
+b) Integrar en el SIC las operaciones relacionadas con la gestión de los tributos estatales, de los ingresos no tributarios de la Administración General del Estado, y de los recursos de otras Administraciones Públicas, que deban ser registradas en la Central Contable.
 
 c) Vigilar e impulsar la actividad de las oficinas de contabilidad, realizando:
 
@@ -25,3 +25,7 @@ g) La gestión de las tablas y de los procesos de usuario, de ámbito centraliza
 h) La definición y gestión de los perfiles de autorización para el acceso al sistema informático en que se soporta el SIC, que corresponden a cada oficina contable.
 
 i) La gestión de los usuarios del sistema informático en que se soporta el SIC, tanto dentro del ámbito de la Central Contable, como con respecto a aquellos usuarios que no están asignados a ninguna otra oficina, de acuerdo con los perfiles asignados.
+
+> Se modifica la lebra b) por el art. 3.1 de la Orden EHA/1160/2010, de 29 de abril. Ref. BOE-A-2010-7252.
+
+> Esta modificación es aplicable a partir del 10 de mayo de 2010, según establece la disposición final única.

@@ -610,7 +610,9 @@ Cuando se utilicen documentos «Anexo», en aquellos documentos a los que comple
 
 196. Importe de los títulos convertidos valorados al precio de conversión.
 
-197. IB: Se indicará el número de operación de inventario procedente del subsistema CIMA a que corresponda la inversión.
+197. IB: Se indicará el número de operación de inventario procedente del Subsistema CIBI a que corresponda la inversión.
+
+También se indicará el IB en el caso de alquileres de inmuebles, salvo cuando se tramiten por pagos a justificar, anticipos de caja fija o pagos en el exterior.
 
 198. Tipo de desglose: Se indicará el tipo de desglose que se efectúe: Orgánico, funcional o económico.
 
@@ -636,7 +638,7 @@ Cuando se utilicen documentos «Anexo», en aquellos documentos a los que comple
 
 209. Fecha cesión del cobro: En este campo figurará la fecha de entrada de la comunicación de la cesión del derecho de cobro en el órgano competente para proponer el pago, siempre que en el correspondiente documento contable figure cumplimentado el campo «Cesionario».
 
-210. Número de perceptores: Se consignará en este campo el número de perceptores finales, siempre que en el correspondiente documento contable figure el tipo de pago 02 «Habilitado personal (Decreto 680/74)» ó el 07 «Cajero clases pasivas».
+210. Número de perceptores: Se consignará en este campo el número de perceptores finales, siempre que en el correspondiente documento contable figure el tipo de pago 02 "Habilitado personal (Decreto 680/74)", el 07 "Cajero clases pasivas", el 45 "Pago masivo", o alguno de los siguientes tipos de pago relativos a los pagos al exterior: 30, 31, 32, 33, 34 ó 35.
 
 211. Normativa/Finalidad de las subvenciones/transferencias: Se cumplimentarán los campos de este apartado cuando el correspondiente documento contable incorpore la fase D.
 
@@ -660,11 +662,17 @@ En el campo «Regulación armonizada S/N» se indicará si se trata de un contra
 
 En el campo «Tipo de operación» se consignará el código y la denominación relativos al tipo de operación que corresponda.
 
-213. Pagos a Juzgados: Cuando en el correspondiente documento contable que incorpore la fase OK figure como interesado o cesionario el tercero «Juzgados y Audiencias MJU», deberá cumplimentarse el campo de este apartado «Código de Juzgado», así como los tres campos que identifican el procedimiento: Tipo, número y ejercicio.
+213. Pagos a Juzgados: Cuando en el correspondiente documento contable que incorpore la fase OK, u otro tipo de propuesta de pago, figure como interesado o cesionario el tercero "Juzgados y Audiencias MJU", deberá cumplimentarse el campo de este apartado «N.º expediente judicial».
 
-214. Pagos masivos y al exterior: Cuando en un documento contable que incorpore la fase OK figure el tipo de pago 45 «Pago masivo», se deberá cumplimentar el campo de este apartado «Número de referencia del fichero adjunto», que tendrá la estructura establecida en la normativa que regula el procedimiento de pagos masivos.
+214. Pagos masivos y al exterior: Cuando en un documento contable que incorpore la fase OK figure el tipo de pago 45 "Pago masivo" se deberá cumplimentar el campo de este apartado "Número de referencia del fichero adjunto", que tendrá la siguiente estructura GGGGG DDMMAAAA NNNNN, en el que:
 
-Asimismo, en el caso de pagos al exterior, se cumplimentará dicho campo con el código del fichero que contenga los datos complementarios especificados en la normativa que regula el procedimiento de pagos en divisas.
+Los dígitos GGGGG identificarán el Centro Gestor del pago masivo, o del pago al exterior, según el código asignado al mismo por la Dirección General del Tesoro y Política Financiera,
+
+Los dígitos DDMMAAAA se referirán a la fecha de generación del fichero, dos para el día, dos para el mes y cuatro para el año, respectivamente, y
+
+Los dígitos NNNNN incluirán un número secuencial de los pagos masivos, o de los pagos al exterior, para el Centro Gestor. Dicho número secuencial se iniciará todos los años en 1 y será correlativo.
+
+También se cumplimentará este campo cuando en un documento contable que incorpore la fase OK figure alguno de los siguientes tipos de pago relativos a los pagos al exterior: 30, 31, 32, 33, 34 ó 35, excepto cuando el pago al exterior tenga un único perceptor final y la relación de perceptores no se tramite en soporte fichero, a partir del momento en que la Intervención General de la Administración del Estado y la Dirección General del Tesoro y Política Financiera establezcan, conjuntamente, el procedimiento de remisión de la relación de perceptores en soporte fichero.
 
 215. Compensación de ingresos del exterior (RD 938/2005): Cuando se expidan documentos que incorporen la fase OK a favor de servicios en el exterior, en los que figuren como descuento cantidades reservadas por saldos pendientes de compensar, se cumplimentarán los campos de este apartado «Código de reserva», «Servicio exterior», «Tipo de cambio» e «Importe de reserva».
 
@@ -682,7 +690,61 @@ En las aplicaciones no presupuestarias, las dos primeras posiciones no se cumpli
 
 219. Compensación de deudas: Se marcará la casilla de este apartado cuando el interesado haya solicitado la compensación de la deuda en los términos previstos en el apartado Decimosegundo de la Orden PRE/1576/2002, de 19 de junio, por la que se regula el procedimiento para el pago de obligaciones de la Administración General del Estado.
 
+220. Código GFA: Se indicará el código asignado en el SIC al gasto con financiación afectada de que se trate.
+
+Cuando se expida el documento «Gestión de gastos con financiación afectada» con el tipo de operación «alta» no se cumplimentará este campo, ya que será asignado por SIC.
+
+En el caso de ingresos relativos a gastos con financiación afectada que se hayan aplicado como descuentos en pagos, se deberá expedir, una vez aplicados, el documento «Resumen contable de rectificación» a los efectos de capturar el «Código GFA» que corresponda a dichos ingresos.
+
+221. Operación de enlace con el ingreso: Los campos de este apartado se cumplimentarán cuando se expidan propuestas de pago por devolución de ingresos y propuestas de pago no presupuestarias.
+
+No obstante, en el caso de propuestas de pago no presupuestarias únicamente se cumplimentará para los conceptos que determine la Intervención General de la Administración del Estado, mediante su publicación en el portal de Internet de la IGAE.
+
+A los efectos de la tramitación del documento contable en el que deba figurar cumplimentado este apartado, el Servicio gestor solicitará a la oficina de contabilidad de la Dirección General del Tesoro y Política Financiera, a la oficina de contabilidad de la Delegación de Economía y Hacienda, o a la oficina de contabilidad del respectivo Departamento Ministerial, según el servicio gestor de que se trate, el certificado de ingreso y no devolución relativo al ingreso que se devuelve.
+
+No obstante, en el caso de ingresos que no se hayan registrado individualizadamente en el SIC, el certificado a expedir por la oficina de contabilidad se referirá a la existencia de saldo pendiente de devolución en la operación mediante la que se aplicó el correspondiente ingreso.
+
+222. N.º operación del ingreso: Se consignará el número de operación que el sistema asignó al ingreso que se devuelve.
+
+223. Importe: Se consignará el importe que se devuelve de cada ingreso recibido.
+
+224. Se marcará la opción que corresponda, según se trate de alta, baja, modificación o cancelación de los datos generales del gasto con financiación afectada.
+
+225. Año de inicio: Se indicará el año de inicio de la ejecución del gasto con financiación afectada.
+
+226. Año de finalización: Se indicará el año que está previsto finalice la ejecución del gasto con financiación afectada.
+
+227. Gasto previsto: Se indicará el gasto total previsto a lo largo de la vida del gasto con financiación afectada para cada aplicación presupuestaria a través de la que se vaya a ejecutar dicho gasto.
+
+228. Código identificativo: Se indicará el código identificativo del agente financiador del gasto, que será el NIF para aquellos agentes financiadores que lo tengan.
+
+Para los que no tengan NIF, este campo figurará sin cumplimentar en el documento de alta, ya que el SIC les asignará un código secuencial. A tal efecto, el Servicio gestor deberá consignar en el texto libre de dicho documento que se trata de un agente financiador sin NIF.
+
+Previamente a la asignación por el SIC del código secuencial al que se refiere el párrafo anterior, la oficina de contabilidad deberá comprobar si al agente financiador ya se le ha asignado un código secuencial en otra operación anterior, en cuyo caso se deberá registrar el documento con este último código.
+
+229. Denominación: Se indicará la denominación del agente financiador.
+
+230. Ingreso previsto: Se indicará el ingreso total previsto a lo largo de la vida del gasto con financiación afectada para cada agente financiador-concepto.
+
+231. Disposición que regula el gasto: Se indicará la disposición que regula el gasto con financiación afectada de que se trate.
+
+232. N.º asociado a la contratación: En este campo se podrá consignar el número asociado a la contratación que haya sido asignado por el Centro Gestor.
+
+233. Fecha inicio plazo abono del precio (Ley 30/2007): Se consignará la fecha en la que se inicia el cómputo de los plazos establecidos en la Ley 30/2007, de Contratos del Sector Público, para el abono del precio.
+
+Deberá cumplimentarse este campo en los documentos contables expedidos a favor de los acreedores directos que incorporen la fase OK aplicados a los capítulos 2 y 6 del Presupuesto de gastos.
+
+234. Tercero: Se consignará el NIF y la denominación del tercero que realiza el ingreso.
+
+235. Hoja de control de cobros: Se indicarán los datos identificativos de la hoja de control de cobros a que corresponde el ingreso que se aplica: fecha, canal, ordinal y línea de arqueo.
+
+236. Tipo de mandamiento de ingreso: Se indicará el código relativo al mandamiento de ingreso de que se trate.
+
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifica por el art. 1.5 de la Orden EHA/1160/2010, de 29 de abril. Ref. BOE-A-2010-7252.
+
+> Esta modificación es aplicable a partir del 10 de mayo de 2010, salvo la que afecte a los gastos con financiación afectada que es aplicable a partir del 1 de enero de 2011, según establece la disposición final única.
 
 > Se modifica por el art. único.3 de la Orden EHA/ 818/2009, de 27 de marzo. Ref. BOE-A-2009-5488.
 
