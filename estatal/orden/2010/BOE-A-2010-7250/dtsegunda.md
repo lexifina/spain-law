@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Planes de estudios para el ingreso por promoción con exigencia de titulación.
+
+Los planes de estudios elaborados conforme a lo indicado en la disposición transitoria cuarta del Real Decreto 35/2010, de 15 de enero, por el que se aprueba el Reglamento de ingreso y promoción y de ordenación de la enseñanza de formación en las Fuerzas Armadas, que durante los años 2010, 2011 y 2012, deberán cursar los suboficiales y la tropa y marinería que accedan a la enseñanza de formación de oficiales para integrarse en los cuerpos generales y de Infantería de Marina, para la forma de ingreso por promoción para cambio de escala, con exigencia de titulación universitaria, deberán aprobarse no más tarde del 31 de mayo de 2010.
