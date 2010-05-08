@@ -1,0 +1,3 @@
+## Disposición transitoria única.
+
+Las autorizaciones concedidas en virtud del Real Decreto 194/2002, de 15 de febrero, por el que se establecen las modalidades de aplicación de la ayuda al suministro de leche y productos lácteos a los alumnos de centros escolares seguirán siendo válidas hasta agotar el plazo de autorización establecido por la autoridad competente. No obstante, la comunidad autónoma donde tengan su sede social los solicitantes deberá regularizar esta situación, comunicando al FEGA, en el plazo de tres meses, los datos y código de autorización del solicitante a que se refiere el anexo II de este real decreto, una vez publicados en la web, serán los únicos válidos a efectos del presente real decreto.
