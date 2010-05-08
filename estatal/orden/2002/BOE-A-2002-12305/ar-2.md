@@ -1,6 +1,6 @@
 ## Artículo 2. Ámbito de aplicación.
 
-1. Lo dispuesto en la presente Orden se aplicará a las operaciones que se realicen en la cadena alimentaria cárnica a partir de la venta del animal vivo a cualquier tipo de empresa cárnica, sin incluir esta venta.
+1. Lo dispuesto en la presente orden se aplicará a las operaciones que se realicen en la cadena alimentaria cárnica a partir del momento de sacrificio del animal en matadero u otra instalación autorizada para el sacrificio de animales con destino a consumo humano, momento de inicio de la generación de los subproductos y de la correspondiente repercusión de costes hacia delante a lo largo del resto de la cadena alimentaria, quedando fuera del ámbito de aplicación de esta Orden la operación por la cual el ganadero entrega el animal a un operador comercial o a una empresa o industria cárnica para su sacrificio.
 
 2. A los efectos de aplicación de esta Orden se entienden incluidas en la cadena alimentaria cárnica las operaciones que, teniendo por objeto la comercialización de las canales, carnes, carnes picadas, preparados de carne, productos cárnicos elaborados, así como sus productos derivados o los subproductos generados a lo largo de dicha cadena, se realicen por los sujetos y bajo las condiciones que se relacionan a continuación:
 
@@ -15,3 +15,5 @@ d) Operaciones realizadas por las plantas transformadoras de subproductos con lo
 e) Operaciones realizadas por las empresas cárnicas, de distribución comercial y los establecimientos de venta al público, que tengan por objeto la comercialización de subproductos con destino a las fábricas de alimentos para animales de compañía u otros establecimientos autorizados distintos de las plantas de transformación.
 
 f) Operaciones realizadas por los servicios de recogida y traslado de subproductos cárnicos, tanto con las empresas cárnicas, de distribución comercial y los establecimientos de venta al público, como con las plantas transformadoras y las fábricas de alimentos para animales de compañía u otros destinos autorizados.
+
+> Se modifica el apartado 1 por el art. único.2 de la Orden ARM/1163/2010, de 29 de abril. Ref. BOE-A-2010-7258
