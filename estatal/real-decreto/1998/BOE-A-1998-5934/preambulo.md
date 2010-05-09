@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 157, de 2 de julio de 1998. Ref. BOE-A-1998-15589.
+Téngase en cuenta que esta norma queda derogada en lo relativo a pirotecnia y cartuchería por la disposición derogatoria única.1 del Real Decreto 563/2010, de 7 de mayo. Ref. BOE-A-2010-7333.

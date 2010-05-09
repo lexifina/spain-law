@@ -1,3 +1,5 @@
 ## TÍTULO III
 
 ## Talleres
+
+> Se deja sin contenido por la disposición derogatoria única.1 del Real Decreto 563/2010, de 7 de mayo. Ref. BOE-A-2010-7333.

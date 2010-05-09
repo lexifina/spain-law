@@ -1,0 +1,3 @@
+## Disposición final tercera. Habilitación para la actualización de los contenidos técnicos.
+
+En virtud de orden de la Ministra de la Presidencia, dictada a propuesta de los Ministros de Industria, Turismo y Comercio y del Interior se actualizarán los contenidos técnicos de las Instrucciones técnicas complementarias y Especificaciones técnicas del Reglamento de artículos pirotécnicos y cartuchería teniendo en cuenta la evolución de la técnica y lo que dispongan las normas legales y reglamentarias que se dicten sobre las materias a que aquellas se refieren. Esta actualización se llevará a cabo, en su caso, conjuntamente con los restantes departamentos ministeriales que tengan competencias en las respectivas materias.
