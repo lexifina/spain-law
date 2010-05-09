@@ -12,17 +12,19 @@ En la cabecera figurará el código identificativo de la caja pagadora, así com
 
 En el cuerpo se consignará el trimestre al que se refiera la información, así como el nombre de la caja pagadora.
 
-En el Debe se anotará, para cada uno de los libramientos recibidos, el número de operación de la orden de pago, la fecha de su percepción (de abono en cuenta) y el importe, así como el saldo inicial para el caso en que el libramiento se hubiera percibido en un trimestre anterior y todavía no se hubiera cancelado su importe al inicio del actual.
+En el Debe se anotará para cada uno de los libramientos recibidos, el número de operación de la orden de pago, el número de referencia del pago masivo, el número de perceptores, la fecha de su percepción (de abono en cuenta) y el importe, así como el saldo inicial para el caso en que el libramiento se hubiera percibido en un trimestre anterior y todavía no se hubiera cancelado su importe al inicio del actual.
 
-En el Haber se anotarán, con respecto a los libramientos que figuren en la misma fila, en el Debe:
+Se anotarán, relacionándose con su libramiento de origen, cada una de las transferencias que no hubieran podido ser abonadas en la cuenta designada por el perceptor, su importe, la fecha de abono y demás datos identificativos, así como el saldo inicial para el caso en que la devolución se hubiera anotado en un trimestre anterior y todavía no se hubiera cancelado su importe al inicio del actual.
 
-Los datos relativos al pago a los perceptores: Fecha de remisión al Banco de España del soporte informático para que ejecute las transferencias e importe del pago.
+En el Haber se anotarán, con respecto a los libramientos y transferencias devueltas que figuren en la misma fila en el Debe:
+
+Los datos relativos al pago a los perceptores: Fecha de remisión al Banco de España del soporte informático para que efectúe las transferencias e importe del pago.
 
 Los datos relativos a la ejecución de las incidencias: Tipo de incidencia (según códigos recogidos en el pie de la cuenta), fecha de pago e importe.
 
-El saldo final del libramiento, en el caso en que no se hubieran satisfecho la totalidad de los importes correspondientes al mismo.
+El saldo final del libramiento o transferencia devuelta en el caso en que no se hubieran satisfecho la totalidad de los importes correspondientes a los mismos.
 
-Existen al pie de la cuenta espacios reservados para las firmas del Cajero Pagador, del Interventor delegado y del Ordenador de pagos (punto 2.3.4 de la Resolución conjunta de la Dirección General del Tesoro y Política Financiera y la Intervención General de la Administración del Estado sobre el procedimiento para la realización de ciertos pagos a través de agentes mediadores).
+Existen al pie de la cuenta espacios reservados para las firmas del Cajero Pagador, del Interventor Delegado y del Ordenador de Pagos.
 
 3. Instrucciones para la formación de la cuenta de pagos especiales «pago de obligaciones a una pluralidad de acreedores».
 
@@ -32,19 +34,21 @@ En la cabecera figurará el código identificativo de la caja pagadora, así com
 
 2. Cuerpo.
 
-En el cuerpo se consignará el trimestre al que se refiere la información, así como el nombre de la caja pagadora.
+En el cuerpo se consignará el trimestre al que se refiera la información, así como el nombre de la caja pagadora.
 
-En el Debe se anotará, para cada uno de los libramientos recibidos, el número de operación de la orden de pago, la fecha de su percepción (de abono en cuenta) y el importe, así como el saldo inicial para el caso en que el libramiento se hubiera percibido en un trimestre anterior y todavía no se hubiera cancelado su importe al inicio del actual.
+En el Debe se anotará para cada uno de los libramientos recibidos, el número de operación de la orden de pago, la fecha de su percepción (de abono en cuenta) y el importe, así como el saldo inicial para el caso en que el libramiento se hubiera percibido en un trimestre anterior y todavía no se hubiera cancelado su importe al inicio del actual.
 
-En el Haber se anotarán, con respecto a los libramientos que figuren en la misma fila, en el Debe:
+Se anotarán, relacionándose con su libramiento de origen, cada una de las transferencias que no hubieran podido ser abonadas en la cuenta designada por el perceptor, su importe, la fecha de abono y demás datos identificativos, así como el saldo inicial para el caso en que la devolución se hubiera anotado en un trimestre anterior y todavía no se hubiera cancelado su importe al inicio del actual.
+
+En el Haber se anotarán, con respecto a los libramientos y transferencias devueltas que figuren en la misma fila en el Debe:
 
 Los datos relativos al pago a los perceptores: Fecha de pago (la de la orden de transferencia o de entrega del cheque), forma de pago (transferencia o cheque) e importe.
 
 Los datos relativos a la ejecución de las incidencias: Tipo de incidencia (según códigos recogidos en el pie de la cuenta), fecha de pago e importe.
 
-El saldo final del libramiento, en el caso en que no se hubieran satisfecho la totalidad de los importes correspondientes al mismo.
+El saldo final del libramiento o transferencia devuelta en el caso en que no se hubieran satisfecho la totalidad de los importes correspondientes a los mismos.
 
-Existen al pie de la cuenta espacios reservados para las firmas del Cajero Pagador, del Interventor delegado y del Ordenador de pagos (punto 2.3.4 de la Resolución conjunta de la Dirección General del Tesoro y Política Financiera y la Intervención General de la Administración del Estado sobre el procedimiento para la realización de ciertos pagos a través de agentes mediadores).
+Existen al pie de la cuenta espacios reservados para las firmas del Cajero Pagador, del Interventor Delegado y del Ordenador de Pagos.
 
 4. Instrucciones para la formación de la cuenta de pagos especiales «terceros no individualizables mediante número de identificación fiscal».
 
@@ -53,3 +57,5 @@ El contenido es el mismo que el de la cuenta de pagos especiales «pago de oblig
 5. Documentación a adjuntar a las cuentas justificativas.
 
 Para cada uno de los libramientos se elaborará una relación de los justificantes que se adjuntan al mismo. La citada relación se identificará por el número de operación de la orden de pago por la que se efectuó el libramiento, que habrá de figurar en el margen superior derecho de la misma.
+
+> Se modifican los apartados 2.2 y 3.2 por la disposición adicional única.1 y 2 de la Resolución de 30 de abril de 2010. Ref. BOE-A-2010-7328
