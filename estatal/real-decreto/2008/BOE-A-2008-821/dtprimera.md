@@ -4,13 +4,21 @@ En tanto se sigan impartiendo los estudios conducentes al título de Licenciado,
 
 1. Se requerirá que el solicitante quede matriculado en el curso para el que solicita la beca, como mínimo, del número de créditos que resulte de dividir el total de los que integran el plan de estudios, excepción hecha de los de libre elección, entre el número de años que lo compongan. En todo caso, dicho número de años deberá ajustarse a lo establecido en el Real Decreto 1497/1987 de 27 de noviembre (B.O.E. de 14 de diciembre) y modificaciones posteriores, por el que se establecen directrices generales comunes de los planes de estudio de los títulos universitarios de carácter oficial y validez en todo el territorio nacional.
 
-2. Los alumnos de cualquier curso de estudios universitarios no presenciales deberán matricularse, al menos, de treinta y cinco créditos, debiendo ser superados todos ellos para obtener la beca. En el supuesto de matricularse de un número superior de créditos, todos ellos, incluso los de libre elección, serán tenidos en cuenta para la valoración de los requisitos académicos del solicitante.
+2. No obstante, podrán obtener también beca los alumnos que se matriculen, al menos, del 50 por ciento de los créditos establecidos en el apartado anterior. En este caso, serán de aplicación las siguientes reglas:
 
-3. En el supuesto de planes de estudios con matrícula semestral/cuatrimestral, podrá obtener la beca el alumno que se matricule en un semestre/cuatrimestre del cincuenta por ciento de los créditos establecidos en el apartado 1 anterior. No obstante, para la renovación de su beca, deberá completar la matrícula en el siguiente semestre/cuatrimestre, hasta alcanzar el número de créditos matriculados a que se refiere dicho apartado.
+a) Quienes opten por la matrícula parcial y no se matriculen de todos aquellos créditos de los que les fuera posible podrán obtener únicamente los componentes de matrícula, gastos de desplazamiento, transporte urbano y material escolar. Si, además, dichos créditos se cursan en un único cuatrimestre/semestre, la cuantía de la beca será del cincuenta por ciento de los componentes de desplazamiento o transporte urbano que le hubiesen correspondido más los componentes de matrícula y material escolar que se abonarán en su totalidad. Para obtener beca en el curso siguiente deberán aprobar la totalidad de los créditos de que hubieran estado matriculados.
 
-4. Excepcionalmente, en los casos en que la universidad, en virtud de su normativa propia, limite el número de créditos en que pueda quedar matriculado el alumno, podrá obtenerse la beca si éste se matricula en todos los créditos en que le sea posible, aunque no alcance los mínimos a que se refiere el presente artículo.
+b) Quienes cursen estudios en modalidad distinta a la presencial podrán obtener los componentes de matrícula, material para estudios y una cantidad única en concepto de desplazamiento. En este caso se requerirá que el solicitante se matricule, al menos de 30 créditos. Si, además, dichos créditos se cursan en un único cuatrimestre/semestre, la cuantía de la beca será del cincuenta por ciento de la cantidad que le hubiese correspondido en concepto de desplazamiento más los componentes de matrícula y material para estudios que se abonarán en su totalidad. Para mantener la beca en el siguiente curso deberán aprobar la totalidad de los créditos en que hubieran estado matriculados.
 
-5. El número mínimo de créditos fijado en los apartados anteriores en que el alumno debe quedar matriculado en el curso para el que solicita la beca, no será exigible en el caso de alumnos que, para finalizar sus estudios, le resten un número de créditos inferior a dicho número mínimo, siempre que no haya disfrutado de la condición de becario durante más años de los previstos en el apartado 13 siguiente.
+c) En aquellos casos en los que, en virtud de la normativa propia de la universidad, resulte limitado el número de créditos en que pueda quedar matriculado el alumno, éste podrá obtener todos los componentes de beca que le correspondan si se matricula en todos aquellos en los que le sea posible. Si dichos créditos se cursan en un cuatrimestre/semestre, la cuantía de la beca será del cincuenta por ciento de la cantidad que le hubiese correspondido con excepción de los componentes de material escolar y matrícula que se abonarán en su totalidad. En el supuesto de que el alumno se matricule también en el segundo cuatrimestre/semestre correspondiente al curso académico, se completará la cuantía de la beca con el cincuenta por ciento restante.
+
+d) El número mínimo de créditos fijado en los párrafos anteriores en que el alumno debe quedar matriculado en el curso para el que solicita la beca no será exigible, por una sola vez, en el caso de los alumnos a los que, para finalizar sus estudios, les reste un número de créditos inferior a dicho número mínimo, siempre que no haya disfrutado de la condición de becario durante más años de los previstos en el apartado 13 siguiente.
+
+3. (Sin contenido)
+
+4. (Sin contenido)
+
+5. (Sin contenido)
 
 6. Los créditos convalidados y adaptados no se tendrán en cuenta a efectos del cumplimiento de los requisitos académicos.
 
@@ -46,3 +54,5 @@ Enseñanzas técnicas de una titulación de sólo primer ciclo o enseñanzas té
 Resto de licenciaturas universitarias: un año más de los establecidos en el plan de estudios.
 
 b) Los alumnos que cursen la totalidad de sus estudios universitarios en centros de educación a distancia podrán disfrutar de la condición de becario durante un año más de los previstos en los apartados anteriores.
+
+> Se modifica el apartado 2 y se interpreta que se dejan sin contenido los apartados 3, 4 y 5 por la disposición final 2.4 del Real Decreto 557/2010, de 7 de mayo. Ref. BOE-A-2010-7329.
