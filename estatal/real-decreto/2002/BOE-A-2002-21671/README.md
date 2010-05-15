@@ -52,3 +52,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 23](a23.md)
 - [CAPÍTULO X](cx.md)
 - [Artículo 24](a24.md)
+- [Disposición adicional única](daunica-2.md)
