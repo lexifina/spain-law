@@ -1,0 +1,25 @@
+El Decreto 2484/1967, de 21 de septiembre, por el que se aprueba el texto del Código Alimentario Español, establece la normativa relativa a los productos de bollería en la sección 4.ª «Productos de panadería», los productos de pastelería y repostería en la sección 5.ª «Otros derivados de harinas» pertenecientes al capítulo XX «Harinas y derivados», y los productos de confitería en la sección 4.ª «Productos de confitería» del capítulo XXIII «Edulcorantes naturales y derivados».
+
+Esa normativa se complementa con lo establecido en el Real Decreto 2419/1978, de 19 de mayo, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio de productos de confitería-pastelería, bollería y repostería.
+
+Asimismo, aun cuando no existe normativa armonizada en la Unión Europea sobre los productos de confitería, pastelería, bollería y repostería, son aplicables diversas disposiciones comunitarias de carácter horizontal, relacionadas con los alimentos en general, que inciden sobre determinados aspectos regulados por la mencionada reglamentación técnico-sanitaria, dejándolos sin aplicación.
+
+En lo que respecta a las normas sanitarias, actualmente se encuentran armonizadas en la UE mediante el Reglamento (CE) 852/2004, del Parlamento Europeo y del Consejo, de 29 de abril de 2004, relativos a la higiene de los productos alimenticios, y el Reglamento (CE) 2073/2005 de la Comisión, de 15 de noviembre, relativo a los criterios microbiológicos aplicables a los productos alimenticios.
+
+La simplificación y actualización de la norma se realiza a petición del sector, que desea conservarla para evitar distorsiones en la aplicación y mantener los productos definidos, de larga tradición en todo el territorio nacional, contribuyendo a la transparencia del mercado.
+
+Las actuales tendencias de los consumidores van encaminadas a la compra de productos que se ajusten a las recomendaciones científicas nutricionales, para ello es aconsejable modificar las vigentes definiciones para permitir la elaboración de productos cuya composición pueda reformularse, permitiendo el cambio de ciertos ingredientes, tales como grasas por aceites y eliminación de azúcares y sal, y al mismo tiempo, permitirá a la industria diversificar sus productos, para hacerlos más competitivos frente a los productos procedentes de otros Estados miembros.
+
+Asimismo, los nuevos avances tecnológicos, tanto en el proceso de elaboración de los productos de confitería, pastelería, bollería y repostería, como en las formas de comercio para la venta, han dado lugar a una transformación del sector que hace conveniente adecuar la citada reglamentación técnico-sanitaria para adaptarla a dichos cambios; por esta razón se han incluido los productos «semielaborados», que deberán ser sometidos posteriormente a un tratamiento térmico para finalizar su elaboración, presentes en el mercado y actualmente no incluidos en la normativa vigente, a efectos de que los controles oficiales tengan una interpretación única.
+
+Esta nueva normativa, complementaria a la normativa horizontal comunitaria, trata de mantener unos mínimos requisitos de elaboración, elimina algunas restricciones que existen en las definiciones y permite elaboraciones que actualmente no están contempladas. Todo ello con el objetivo de una aplicación uniforme en todo el territorio nacional y al mismo tiempo favorecer la competencia del sector.
+
+En consecuencia, procede sustituir el contenido de los apartados 3.20.46 de la sección 4.ª, 3.20.50 de la sección 5.ª, pertenecientes al Capítulo XX y del apartado 3.23.39 de la sección 4.ª del capítulo XXIII del Código Alimentario Español, aprobado por el Decreto 2484/1967, de 21 de septiembre, por las definiciones contenidas en la norma de calidad que se detalla a continuación, y derogar el mencionado Real Decreto 2419/1978, de 19 de mayo de 1978, con objeto de establecer una nueva norma de calidad para los productos de confitería, pastelería, bollería y repostería que se recoge en este real decreto.
+
+En el proceso de tramitación de ese real decreto han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados, habiendo emitido informe favorable la Comisión Interministerial para la Ordenación Alimentaria.
+
+Este real decreto ha sido sometido al procedimiento previsto en la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 22 de junio, por la que se establece un procedimiento de información en materia de normas y reglamentaciones técnicas, incorporado al ordenamiento jurídico interno por Real Decreto 1337/1999, de 31 de julio, por el que se regula la remisión de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, y Medio Rural y Marino, de la Ministra de Sanidad y Política Social, y del Ministro de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día de 30 de abril de 2010,
+
+DISPONGO:
