@@ -254,6 +254,32 @@ s) Datos relativos al nombre de dominio ''.es'' solicitado:
 
 7. En su caso, datos técnicos de los servidores DNS (Domain Name System).
 
+t) Datos relativos a la notificación de los ficheros de datos personales de clientes y de recursos humanos:
+
+1. Denominación social del responsable del fichero.
+
+2. Actividad de la empresa.
+
+3. Domicilio Social.
+
+4. Domicilio para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición.
+
+5. Identificación y finalidad del fichero.
+
+6. Origen y procedencia de los datos.
+
+7. Tipos de datos, estructura y organización del fichero.
+
+8. Indicación del nivel de medidas de seguridad; básico, medio o alto.
+
+9. Destinatario de cesiones y/o transferencia internacional de datos.
+
+u) Datos relativos a la solicitud de registro de marca y nombre comercial:
+
+1. Los datos relativos a la solicitud de registro marca o nombre comercial, de conformidad con los requisitos establecidos en artículos 1 y 4.2 del Real Decreto 687/2002, de 12 de julio, por el que se aprueba Reglamento para la ejecución de la Ley 17/2001, de 7 de diciembre, de Marcas.
+
 2. Cuando haya de figurar en el DUE un domicilio o el lugar donde se halle un establecimiento, se expresarán los datos necesarios para su correcta localización, tales como tipo de vía pública, nombre de la vía pública, carretera, kilómetro, número de identificación del piso o local, localidad, municipio, código postal, código municipal, provincia, número de teléfono, fax o dirección de correo electrónico. Si se encontrara fuera de poblado, se indicará el término municipal y el nombre del lugar o cualquier otro dato que permita su localización.
+
+> Se añade las letras t) y u) al apartado 1 por la disposición final 1.4 del Real Decreto 368/2010, de 26 de marzo. Ref. BOE-A-2010-6044
 
 > Se añade la letra s) al apartado 1 por la disposición final 1.3 del Real Decreto 1332/2006, de 21 de noviembre. Ref. BOE-A-2006-20846
