@@ -280,6 +280,14 @@ U.101 Terapias no convencionales: unidad asistencial en la que un médico es res
 
 U.900 Otras unidades asistenciales: unidades bajo la responsabilidad de profesionales con titulación oficial o habilitación profesional que, aun cuando no tengan la consideración legal de «profesiones sanitarias tituladas y reguladas» en el sentido previsto en el artículo 2.1 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, llevan a cabo actividades sanitarias que no se ajustan a las características de ninguna de las unidades anteriormente definidas, por su naturaleza innovadora, por estar en fase de evaluación clínica, o por afectar a profesiones cuyo carácter polivalente permite desarrollar, con una formación adecuada, actividades sanitarias vinculadas con el bienestar y salud de las personas en centros que tengan la consideración de sanitarios.
 
+> Téngase en cuenta que se declara la nulidad de la referencia U.900, en la redacción dada por el art. único.5 de la Orden SCO/1741/2006, de 29 de mayo, por Sentencia de la AN de 26 de septiembre de 2007. Ref. BOE-B-2010-17345
+
+> Redacción anterior:
+
+> "U.900 Otras unidades asistenciales: unidades que, bajo la responsabilidad de profesionales sanitarios, capacitados por su titulación oficial o habilitación profesional, no se ajustan a las características de ninguna de las anteriormente definidas por realizar actividades sanitarias innovadoras o en fase de evaluación clínica."
+
+> Se declara la nulidad de la "referencia U.900", en la redacción dada por el art. único.5 de la Orden SCO/1741/2006, de 29 de mayo, por Sentencia de la AN de 26 de septiembre de 2007. Ref. BOE-B-2010-17345
+
 > Se modifican los apartados "Centros sanitarios" y "Oferta asistencial" por el art. único.2 a 5 de la Orden SCO/1741/2006, de 29 de mayo. Ref. BOE-A-2006-9963.
 
 > Redactado el apartado "Oferta asistencial" conforme a la corrección de errores publicada en BOE núm. 162, de 6 de julio de 2004. Ref. BOE-A-2004-12572
