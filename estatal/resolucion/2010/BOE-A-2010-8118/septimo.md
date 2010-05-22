@@ -1,0 +1,11 @@
+## Séptimo. Revocación del poder.
+
+1. La revocación de los apoderamientos dados de alta en el Registro que regula esta Resolución sólo surtirá efectos desde el momento en que sea comunicada fehacientemente a la Agencia Tributaria. En concreto, la revocación podrá realizarse:
+
+a) Mediante comparecencia en las Delegaciones y Administraciones de la Agencia Tributaria, en cuyo caso cumplimentará el formulario del Anexo II, haciendo constar la firma del poderdante que revoca el poder y del funcionario, debidamente autorizado, en cuya presencia se realiza la revocación, así como su identificación. Éste procederá en ese momento a dar de baja el poder en el Registro de apoderamientos.
+
+b) Mediante documento público o documento privado con firma notarialmente legitimada presentado ante la Agencia Tributaria, con el contenido recogido en el formulario del Anexo II. Recibida la comunicación fehaciente de la revocación, el funcionario autorizado procederá inmediatamente a dar de baja el poder en el Registro de apoderamientos.
+
+c) Por Internet, mediante el uso de alguno de los sistemas de identificación y autenticación previstos en el artículo 13 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos -ya sea persona física, persona jurídica o una de las entidades carentes de personalidad jurídica a las que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria- y utilizando el formulario disponible en la Sede Electrónica de la Agencia Estatal de Administración Tributaria, cuyo contenido será el mismo que el establecido en el Anexo II. En este caso, la aplicación informática que soporta el Registro dará de baja automáticamente el poder.
+
+2. En el caso de apoderamientos revocados mediante comparecencia en las oficinas de la Agencia Tributaria o en documento público o documento privado con firma notarialmente legitimada, la baja en el Registro se realizará por el funcionario debidamente cualificado y autorizado por el titular de la Delegación Central de Grandes Contribuyentes o por los titulares de las Delegaciones Especiales y Delegaciones de la Agencia. Dicho funcionario comprobará que la revocación se ajusta a las condiciones establecidas en esta Resolución.

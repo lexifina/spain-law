@@ -1,0 +1,3 @@
+## Noveno. Ámbito de aplicación.
+
+Los apartados noveno a decimocuarto de esta Resolución son de aplicación al registro y gestión de la sucesión, en los términos referidos en los artículos 39 y 40 de la Ley 58/2003, de 17 de diciembre, General Tributaria, de las personas físicas fallecidas y de las personas jurídicas o entidades carentes de personalidad jurídica a las que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, extinguidas. También resulta de aplicación al registro y gestión de la representación legal de aquellas personas que carezcan de capacidad de obrar conforme a derecho.

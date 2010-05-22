@@ -1,0 +1,9 @@
+## Tercero. Otorgamiento de poder para la recepción de comunicaciones y notificaciones.
+
+1. En el caso de otorgamiento de poder para la recepción de comunicaciones y notificaciones, además de los requisitos a los que se refiere el apartado anterior, para ser dados de alta en el registro, será necesaria la aceptación del apoderado que se acreditará de idéntica forma al apoderamiento otorgado –por comparecencia, en documento público o privado con firma legitimada notarialmente, o a través de Internet–. En este último caso, será necesario el uso por el apoderado de alguno de los sistemas de identificación y autenticación previstos en el artículo 13 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, y conforme a lo dispuesto en la Orden HAC/1181/2003, de 12 de mayo, por la que se establecen normas específicas sobre el uso de la firma electrónica en las relaciones tributarias por medios electrónicos, informáticos y telemáticos con la Agencia Estatal de Administración Tributaria.
+
+No surtirá efectos el otorgamiento de poder para la recepción de comunicaciones y notificaciones en tanto no conste la aceptación del apoderamiento por alguno de los medios establecidos en el párrafo anterior.
+
+2. En todo caso, el apoderamiento para la recepción de notificaciones implicará el consentimiento del poderdante a la utilización de medios electrónicos para la práctica de notificaciones por parte de la Agencia Tributaria, cuando la notificación se practique al representante, de conformidad con la normativa reguladora de las notificaciones electrónicas.
+
+3. Otorgado y aceptado el apoderamiento para la recepción de comunicaciones y notificaciones, éstas se realizarán al representante preferentemente de forma telemática, si bien también podrán practicarse, en su caso, en soporte papel.
