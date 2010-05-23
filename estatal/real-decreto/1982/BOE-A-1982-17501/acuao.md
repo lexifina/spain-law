@@ -2,6 +2,8 @@
 
 El ingreso en la Real Orden del Mérito Deportivo podrá concederse:
 
-Uno. A propuesta de la Ministra de Cultura o del Presidente del Consejo Superior de Deportes.
+1. A propuesta del Presidente del Consejo Superior de Deportes.
 
-Dos. En virtud de moción razonada de las Federaciones Españolas, Clubs o Agrupaciones Deportivas o de Corporaciones, Entidades u Organismos públicos.
+2. En virtud de moción razonada de las Federaciones Españolas, Clubes o Agrupaciones Deportivas o de Corporaciones, Entidades u Organismos públicos.
+
+> Se modifica por el art. único.1 del Real Decreto 694/2010, de 20 de mayo. Ref. BOE-A-2010-8192.
