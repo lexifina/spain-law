@@ -1,6 +1,6 @@
 ## APÉNDICE III
 
-## Programa teórico-práctico para obtener el carné de instalador autorizado de P.P.L. de categoría II
+## Conocimientos teórico-prácticos - Categoría II
 
 ## A. Requerimientos teóricos
 
@@ -146,4 +146,6 @@ Grupos de trasiego.
 
 Aparatos de medida en general. Surtidores.
 
-B.3 Práctica final: Realización práctica de una instalación con tanque, equipo de trasiego y equipo de medida.
+B.3 Realización práctica de una instalación con tanque, equipo de trasiego y equipo de medida.
+
+> Se modifica por el art. 11.16 y 17 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.

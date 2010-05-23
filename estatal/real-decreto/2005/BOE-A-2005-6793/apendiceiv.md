@@ -1,6 +1,6 @@
 ## APÉNDICE IV
 
-## Programa teórico-práctico para obtener el carné de reparador autorizado de P.P.L. de categoría III
+## Conocimientos teórico-prácticos - Categoría III
 
 ## A. Requerimientos teóricos
 
@@ -165,3 +165,5 @@ Pruebas y tarado de válvulas de seguridad.
 Pruebas hidráulicas y neumáticas.
 
 Reparación y revestimiento de depósitos (se podrá elegir uno de los diferentes sistemas que prevé el informe UNE 53 991: Epoxi, Poliéster, Viniléster...).
+
+> Se modifica por el art. 11.18 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.

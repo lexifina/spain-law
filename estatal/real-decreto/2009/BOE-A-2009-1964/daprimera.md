@@ -28,11 +28,11 @@ e) La instalación y puesta en servicio por cambio de emplazamiento de los equip
 
 f) La reparación de los equipos a presión del epígrafe a) que se asimilen a las categorías I a IV a que se refieren el artículo 9 y el anexo II del Real Decreto 769/1999, de 7 de mayo, se realizará de acuerdo con lo indicado en el artículo 7 del Reglamento de equipos a presión y, en su caso, la correspondiente ITC, considerando sus condiciones originales de diseño y fabricación.
 
-g) Para modificar de forma importante un equipo a presión del epígrafe «a» que se asimile a las categorías I a IV a que se refieren el artículo 9 y el anexo II del Real Decreto 769/1999, de 7 de mayo, será necesario la presentación, ante el órgano competente de la comunidad autónoma, de un proyecto técnico firmado por técnico competente y visado por el correspondiente colegio oficial, en el que se justifiquen los cálculos de resistencia mecánica y los accesorios de seguridad adoptados, junto con los correspondientes planos. Este proyecto deberá acompañarse de un certificado de conformidad emitido por un organismo de control autorizado.
+g) Para modificar de forma importante un equipo a presión del epígrafe «a» que se asimile a las categorías I a IV a que se refieren el artículo 9 y el anexo II del Real Decreto 769/1999, de 7 de mayo, será necesario la presentación, ante el órgano competente de la comunidad autónoma, de un proyecto técnico firmado por técnico competente, en el que se justifiquen los cálculos de resistencia mecánica y los accesorios de seguridad adoptados, junto con los correspondientes planos. Este proyecto deberá acompañarse de un certificado de conformidad emitido por un organismo de control autorizado.
 
-Tras la ejecución de la modificación deberá emitirse un certificado de dirección técnica por técnico titulado competente y visado por el correspondiente colegio oficial.
+Tras la ejecución de la modificación deberá emitirse un certificado de dirección técnica por técnico titulado competente.
 
-En caso que la modificación no sea considerada como importante de acuerdo con los criterios del artículo 8 del Reglamento de equipos a presión o de la correspondiente ITC, se cumplirán los requisitos indicados para las reparaciones en el artículo 7 del mismo Reglamento.
+En caso que la modificación no sea considerada como importante de acuerdo con los criterios del artículo 8 del Reglamento de equipos a presión o de la correspondiente Instrucción técnica Complementaria, se cumplirán los requisitos indicados para las reparaciones en el artículo 7 del mismo reglamento.
 
 No tendrán la consideración de modificaciones las indicadas en el artículo 8.3 del Reglamento de equipos a presión.
 
@@ -47,5 +47,7 @@ i) Los usuarios de los equipos a presión del epígrafe a) deberán cumplir los 
 a) Estos equipos a presión deberán cumplir los requisitos del capítulo III, IV y, en su caso, del capítulo II del Reglamento de equipos a presión.
 
 b) Estos equipos a presión que a la entrada en vigor de este real decreto hayan sido puestos en servicio se les colocará la placa de instalación e inspecciones periódicas, indicada en el anexo II del Reglamento de equipos a presión, cuando realicen la correspondiente inspección periódica de nivel B o C, indicada en el anexo III de este Reglamento.
+
+> Se modifica el apartado 1.g) por el art. 16.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.
 
 > Redactado el apartado 1.b) y c) conforme a la corrección de errores publicada en BOE núm. 260, de 28 de octubre de 2009. Ref. BOE-A-2009-17080.

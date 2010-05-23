@@ -48,4 +48,6 @@ No podrán utilizarse las tuberías de la instalación de gas como conductores p
 
 Los titulares o, en su defecto, los usuarios de las instalaciones de GLP, serán los responsables de la conservación y buen uso de dicha instalación, siguiendo los criterios establecidos en la presente ITC, de tal forma que se halle permanentemente en disposición de servicio, con el nivel de seguridad adecuado. Asimismo atenderán las recomendaciones e instrucciones que, en orden a la seguridad, les sean comunicadas por la empresa instaladora de acuerdo con la norma UNE-EN 1949.
 
-El titular de la instalación deberá encargar cada cuatro años a una empresa instaladora autorizada la revisión de la instalación y aparatos de GLP.
+El titular de la instalación deberá encargar cada cuatro años a una empresa instaladora la revisión de la instalación y aparatos de GLP.
+
+> Se sustituye la expresión «empresa instaladora autorizada» por «empresa instaladora» por el art. 13.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimotercero.

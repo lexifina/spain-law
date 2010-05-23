@@ -54,7 +54,7 @@ Los planos serán los suficientes en número y detalle, tanto para dar una idea 
 
 2.2 Memoria Técnica de Diseño.
 
-La Memoria Técnica de Diseño (MTD) se redactará sobre impresos, según modelo determinado por el Órgano competente de la Comunidad Autónoma, con objeto de proporcionar los principales datos y características de diseño de las instalaciones. El instalador autorizado para la categoría de la instalación correspondiente o el técnico titulado competente que firme dicha Memoria será directamente responsable de que la misma se adapte a las exigencias reglamentarias.
+La Memoria Técnica de Diseño (MTD) se redactará sobre impresos, según modelo determinado por el Órgano competente de la Comunidad Autónoma, con objeto de proporcionar los principales datos y características de diseño de las instalaciones. La empresa instaladora para la categoría de la instalación correspondiente o el técnico titulado competente que firme dicha Memoria será directamente responsable de que la misma se adapte a las exigencias reglamentarias.
 
 En especial, se incluirán los siguientes datos:
 
@@ -116,31 +116,31 @@ Requerirán Memoria Técnica de Diseño todas las instalaciones sean nuevas, amp
 
 5. EJECUCIÓN Y TRAMITACIÓN DE LAS INSTALACIONES.
 
-5.1 Todas las instalaciones en el ámbito de aplicación del Reglamento deben ser efectuadas por los instaladores autorizados en baja tensión a los que se refiere la Instrucción Técnica complementaria ITC-BT-03.
+5.1 Todas las instalaciones en el ámbito de aplicación del Reglamento deben ser efectuadas por las empresas instaladoras en baja tensión a las que se refiere la Instrucción Técnica complementaria ITC-BT-03.
 
 En el caso de instalaciones que requirieron Proyecto, su ejecución deberá contar con la dirección de un técnico titulado competente.
 
-Si, en el curso de la ejecución de la instalación, el instalador autorizado considerase que el Proyecto o Memoria Técnica de Diseño no se ajusta a lo establecido en el Reglamento, deberá, por escrito, poner tal circunstancia en conocimiento del autor de dichos Proyecto o Memoria, y del propietario. Si no hubiera acuerdo entre las partes se someterá la cuestión al Organo competente de la Comunidad Autónoma, para que ésta resuelva en el más breve plazo posible.
+Si, en el curso de la ejecución de la instalación, la empresa instaladora considerase que el Proyecto o Memoria Técnica de Diseño no se ajusta a lo establecido en el Reglamento, deberá, por escrito, poner tal circunstancia en conocimiento del autor de dichos Proyecto o Memoria, y del propietario. Si no hubiera acuerdo entre las partes se someterá la cuestión al Órgano competente de la Comunidad Autónoma, para que ésta resuelva en el más breve plazo posible.
 
-5.2 Al término de la ejecución de la instalación, el instalador autorizado realizará las verificaciones que resulten oportunas, en función de las características de aquélla, según se especifica en la ITC-BT-05 y en su caso todas las que determine la dirección de obra.
+5.2 Al término de la ejecución de la instalación, la empresa instaladora realizará las verificaciones que resulten oportunas, en función de las características de aquélla, según se especifica en la ITC-BT-05 y en su caso todas las que determine la dirección de obra.
 
 5.3 Asimismo, las instalaciones que se especifican en la ITC-BT-05, deberán ser objeto de la correspondiente Inspección Inicial por Organismo de Control.
 
-5.4 Finalizadas las obras y realizadas las verificaciones e inspección inicial a que se refieren los puntos anteriores, instalador autorizado deberá emitir un Certificado de Instalación, según modelo establecido por la Administración, que deberá comprender, al menos, lo siguiente:
+5.4 Finalizadas las obras y realizadas las verificaciones e inspección inicial a que se refieren los puntos anteriores, la empresa instaladora deberá emitir un Certificado de Instalación, suscrito por un instalador en baja tensión que pertenezca a la empresa, según modelo establecido por la Administración, que deberá comprender, al menos, lo siguiente:
 
 a) los datos referentes a las principales características de la instalación;
 
-b) la potencia prevista de la instalación.;
+b) la potencia prevista de la instalación;
 
 c) en su caso, la referencia del certificado del Organismo de Control que hubiera realizado con calificación de resultado favorable, la inspección inicial;
 
-d) identificación del instalador autorizado responsable de la instalación;
+d) identificación de la empresa instaladora responsable de la instalación y del instalador en baja tensión que suscribe el certificado de instalación;
 
-e) declaración expresa de que la instalación ha sido ejecutada de acuerdo con las prescripciones del Reglamento Electrotécnico para Baja Tensión y, en su caso, con las especificaciones particulares aprobadas a la Compañía eléctrica, así como, según corresponda, con el Proyecto o la Memoria Técnica de Diseño.
+e) declaración expresa de que la instalación ha sido ejecutada de acuerdo con las prescripciones del Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y, en su caso, con las especificaciones particulares aprobadas a la Compañía eléctrica, así como, según corresponda, con el Proyecto o la Memoria Técnica de Diseño.
 
-5.5 Antes de la puesta en servicio de las instalaciones, el instalador autorizado deberá presentar ante el Órgano competente de la Comunidad Autónoma, al objeto de su inscripción en el correspondiente registro, el Certificado de Instalación con su correspondiente anexo de información al usuario, por quintuplicado, al que se acompañará, según el caso, el Proyecto o la Memoria Técnica de Diseño, así como el certificado de Dirección de Obra firmado por el correspondiente técnico titulado competente, y el certificado de inspección inicial con calificación de resultado favorable, del Organismo de Control, si procede.
+5.5 Antes de la puesta en servicio de las instalaciones, la empresa instaladora deberá presentar ante el Órgano competente de la Comunidad Autónoma, al objeto de su inscripción en el correspondiente registro, el Certificado de Instalación con su correspondiente anexo de información al usuario, por quintuplicado, al que se acompañará, según el caso, el Proyecto o la Memoria Técnica de Diseño, así como el certificado de Dirección de Obra firmado por el correspondiente técnico titulado competente, y el certificado de inspección inicial con calificación de resultado favorable, del Organismo de Control, si procede.
 
-El Órgano competente de la Comunidad Autónoma deberá diligenciar las copias del Certificado de Instalación y, en su caso, del certificado de inspección inicial, devolviendo cuatro al instalador autorizado, dos para sí y las otras dos para la propiedad, a fin de que ésta pueda, a su vez, quedarse con una copia y entregar la otra a la Compañía eléctrica, requisito sin el cual ésta no podrá suministrar energía a la instalación, salvo lo indicado en el Artículo 18.3 del Reglamento Electrotécnico para Baja Tensión.
+El Órgano competente de la Comunidad Autónoma deberá diligenciar las copias del Certificado de Instalación y, en su caso, del certificado de inspección inicial, devolviendo cuatro a la empresa instaladora, dos para sí y las otras dos para la propiedad, a fin de que ésta pueda, a su vez, quedarse con una copia y entregar la otra a la Compañía eléctrica, requisito sin el cual ésta no podrá suministrar energía a la instalación, salvo lo indicado en el Artículo 18.3 del Reglamento Electrotécnico para Baja Tensión.
 
 5.6 Instalaciones temporales en ferias, exposiciones y similares.
 
@@ -157,3 +157,5 @@ La Empresa suministradora podrá realizar, a su cargo, las verificaciones que co
 Cuando los valores obtenidos en la indicada verificación sean inferiores o superiores a los señalados respectivamente para el aislamiento y corrientes de fuga en la ITC-BT-19, las Empresas suministradoras no podrán conectar a sus redes las instalaciones receptoras.
 
 En esos casos, deberán extender un Acta, en la que conste el resultado de las comprobaciones, la cual deberá ser firmada igualmente por el titular de la instalación, dándose por enterado. Dicha acta, en el plazo más breve posible, se pondrá en conocimiento del Órgano competente de la Comunidad Autónoma, quien determinará lo que proceda.
+
+> Se modifica el apartado 5.4 y se sustituye la expresión "instalador/es autorizado/s" por "empresa/s instaladora/s" por el art. 7, apartados 1 y 15 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#aseptimo

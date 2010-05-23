@@ -64,9 +64,9 @@ Las instalaciones no incluidas en el anterior apartado 1 se considerarán de men
 
 La puesta en servicio de las instalaciones con equipos a presión que correspondan a las categorías I a IV a que se refieren el artículo 9 y el anexo II del Real Decreto 769/1999, de 7 de mayo, o asimilados a dichas categorías según el artículo 3.2, requerirá la presentación de al menos la siguiente documentación:
 
-a) Certificado de dirección técnica emitido por técnico titulado competente y visado por el correspondiente colegio oficial, en caso de instalaciones que requieran proyecto de instalación.
+a) Certificado de dirección técnica emitido por técnico titulado competente, en caso de instalaciones que requieran proyecto de instalación.
 
-b) Certificado de instalación suscrito tanto por empresa instaladora de equipos a presión inscrita como por su responsable técnico, en el que se haga constar que los equipos cumplen el presente reglamento, que disponen de las instrucciones de todos los equipos (incluidos los mencionados en el artículo 3.3 de Real Decreto 769/1999, de 7 de mayo), que se han realizado las pruebas requeridas, incluyendo en su caso, la correspondiente prueba hidrostática de resistencia de los elementos no probados y que el funcionamiento es correcto.
+b) Certificado de instalación suscrito tanto por empresa instaladora de equipos a presión habilitada como por su responsable técnico, en el que se haga constar que los equipos cumplen el presente reglamento, que disponen de las instrucciones de todos los equipos (incluidos los mencionados en el artículo 3.3 del Real Decreto 769/1999, de 7 de mayo), que se han realizado las pruebas requeridas, incluyendo en su caso, la correspondiente prueba hidrostática de resistencia de los elementos no probados y que el funcionamiento es correcto.
 
 Cuando sea necesario realizar la prueba hidrostática de resistencia indicada en el párrafo anterior, se efectuará a una presión de prueba que como mínimo será el valor más elevado de los dos siguientes:
 
@@ -76,7 +76,7 @@ Cuando sea necesario realizar la prueba hidrostática de resistencia indicada en
 
 No obstante lo anterior, en ningún caso podrá superarse la presión de prueba que corresponda a cada equipo a presión.
 
-En las instalaciones que requieran proyecto de instalación, el certificado de instalación será emitido y firmado por el técnico titulado competente de la empresa EIP-2 y visado por el correspondiente colegio oficial. En este caso, el certificado de instalación podrá sustituir al certificado de dirección técnica indicado en el anterior apartado “a” si incluye lo indicado en los apartados 1 y 2 del anexo IV.
+En las instalaciones que requieran proyecto de instalación, el certificado de instalación será emitido y firmado por el técnico titulado competente de la empresa EIP-2. En este caso, el certificado de instalación podrá sustituir al certificado de dirección técnica indicado en el anterior apartado «a» si incluye lo indicado en los apartados 1 y 2 del anexo IV.
 
 En las instalaciones de menor riesgo, el certificado de instalación podrá realizarse por empresas instaladoras EIP-1.
 
@@ -122,5 +122,7 @@ En la cumplimentación de las placas se indicarán los datos siguientes:
 6. Instalaciones con equipos de categoría inferior a la categoría I.
 
 Las instalaciones en las que todos los equipos a presión sean de categoría inferior a la categoría I prevista en el artículo 9 y anexo II del Real Decreto 769/1999, de 7 de mayo, o asimilados de acuerdo con lo establecido en su artículo 3.2 cumplirán con el artículo 9 de este reglamento y en particular requerirán que los usuarios tengan a disposición del órgano competente de la comunidad autónoma, la documentación indicada en el apartado 3 de dicho artículo 9 del presente reglamento de equipos presión.
+
+> Se modifica el apartado 4 por el art. 16.16 a 18 del Real Decreto 560/2010, de 7 de de mayo. Ref. BOE-A-2010-8190.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 260, de 28 de octubre de 2009. Ref. BOE-A-2009-17080.

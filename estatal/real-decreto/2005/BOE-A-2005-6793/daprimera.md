@@ -1,0 +1,5 @@
+## Disposición adicional primera. Cobertura de seguro u otra garantía equivalente suscrito en otro Estado.
+
+Cuando la empresa instaladora o reparadora de P.P.L. que se establece o ejerce la actividad en España, ya esté cubierta por un seguro de responsabilidad civil profesional u otra garantía equivalente o comparable en lo esencial en cuanto a su finalidad y a la cobertura que ofrezca en términos de riesgo asegurado, suma asegurada o límite de la garantía en otro Estado miembro en el que ya esté establecido, se considerará cumplida la exigencia establecida en el párrafo c) del apartado 5.8 de la ITC aprobada por este real decreto. Si la equivalencia con los requisitos es sólo parcial, la empresa instaladora o reparadora de P.P.L. deberá ampliar el seguro o garantía equivalente hasta completar las condiciones exigidas. En el caso de seguros u otras garantías suscritas con entidades aseguradoras y entidades de crédito autorizadas en otro Estado miembro, se aceptarán a efectos de acreditación los certificados emitidos por éstas.
+
+> Se añade por el art. 11.2 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.

@@ -72,7 +72,7 @@ Del carro.
 
 a) Ficha técnica de la grúa torre.
 
-b) Documentación acreditativa de las características del terreno (informe facilitado por la dirección facultativa de la obra) o estudio geotécnico, visados por el correspondiente colegio oficial.
+b) Documentación acreditativa de las características del terreno (informe facilitado por la dirección facultativa de la obra) o estudio geotécnico.
 
 8. Planos:
 
@@ -83,3 +83,5 @@ b) Plano del emplazamiento de la grúa torre dentro de la obra con indicación e
 c) Plano de la fundación.
 
 d) Plano del arriostramiento, en su caso.
+
+> Se modifica el apartado 7.b) por el art. 8.14 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#aoctavo

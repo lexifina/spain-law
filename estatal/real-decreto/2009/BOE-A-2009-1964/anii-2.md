@@ -2,7 +2,7 @@
 
 ## Operadores industriales de calderas.
 
-1. Para la obtención del carné de operador industrial de calderas, deberán acreditarse los siguientes conocimientos:
+1. Los operadores industriales de calderas deberán disponer de los siguientes conocimientos:
 
 1.1– Conceptos básicos.
 
@@ -170,16 +170,8 @@ b) Realización de pruebas hidráulicas
 
 c) Partes diarios de operación
 
-2. Los cursos de capacitación para la obtención del carné tendrán una duración mínima de 50 horas.
+2. (Suprimido)
 
-3. Las entidades que pretendan realizar cursos de capacitación deberán acreditar ante el órgano competente de la comunidad autónoma, al menos, los siguientes requisitos:
+3. (Suprimido)
 
-a) Disponer de los recursos humanos necesarios para la impartición de los cursos. Deberá indicarse el nombre del responsable técnico de los cursos, con indicación de su titulación y experiencia.
-
-b) Disponer de los recursos técnicos y materiales adecuados. Material didáctico disponible, descripción de la ubicación y características de las aulas, …
-
-c) Disponer de experiencia en la impartición de cursos para formación profesional o similares, con especial referencia de los relacionados con el carné de operador de calderas.
-
-d) Metodología de la enseñanza con indicación de la organización de la misma y sistemas de evaluación previstos.
-
-e) Alumnado máximo por curso.
+> Se modifica el párrafo primero del apartado 1 y se suprimen los apartados 2 y 3 por el art. 16.25 y 26 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.

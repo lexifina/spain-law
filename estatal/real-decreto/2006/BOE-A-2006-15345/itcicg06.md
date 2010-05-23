@@ -162,6 +162,8 @@ La empresa instaladora, una vez realizadas con resultado positivo las pruebas y 
 
 Los titulares o, en su defecto, los usuarios de las instalaciones de envases de GLP, serán los responsables de la conservación y buen uso de dicha instalación, siguiendo los criterios establecidos en la presente ITC, de tal forma que se halle permanentemente en disposición de servicio, con el nivel de seguridad adecuado. Asimismo atenderán las recomendaciones que, en orden a la seguridad, les sean comunicadas por el operador al por mayor o el comercializador de GLP que les suministre.
 
-El titular de la instalación deberá encargar a una empresa instaladora autorizada la revisión de las instalaciones de envases de GLP, coincidiendo con la revisión periódica de la instalación receptora a la que alimentan, de acuerdo con el apartado 4.2 de la ITC-ICG 07.
+El titular de la instalación deberá encargar a una empresa instaladora la revisión de las instalaciones de envases de GLP, coincidiendo con la revisión periódica de la instalación receptora a la que alimentan, de acuerdo con el apartado 4.2 de la ITC-ICG 07.
 
 La revisión anterior no es obligatoria en las instalaciones con un único envase de GLP de capacidad inferior a 15 kg conectado por tubería flexible o acoplado directamente a un solo aparato de gas móvil.
+
+> Se sustituye la expresión «empresa instaladora autorizada» por «empresa instaladora» por el art. 13.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimotercero.

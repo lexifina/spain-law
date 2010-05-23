@@ -6,31 +6,27 @@ Los documentos a utilizar para acreditar la instalación, reparación, modificac
 
 1. Certificado de dirección técnica.
 
-– Identificación del técnico titulado competente, DN o NIE (en su defecto número de pasaporte), colegio oficial al que pertenece y nº de colegiado.
+Identificación del técnico titulado competente, DNI o NIE (en su defecto número de pasaporte), y, en su caso, colegio oficial al que pertenece y n.º de colegiado.
 
-– Localización de la instalación (titular, dirección y Nº R.E.I.)
+Localización de la instalación (titular, dirección y N.º de Registro Integrado Industrial)
 
-– Características técnicas de la instalación:
+Características técnicas de la instalación:
 
 Identificación de todos los equipos a presión, denominación, PS, V, PT y clasificación.
 
-Presión máxima de servicio de la instalación (Pms) y fluido contenido.
+Presión máxima de servicio de la instalación (Pms) y fluido contenido. Accesorios de seguridad y presión de precinto (Pp).
 
-Accesorios de seguridad y presión de precinto (Pp).
+Si procede, otras características específicas según el tipo de equipo (TS,…)
 
-Si procede, otras características específicas según el tipo de equipo (TS,…).
+Que la instalación se ha realizado de acuerdo al proyecto (identificación del proyecto).
 
-– Que la instalación se ha realizado de acuerdo al proyecto (identificación del proyecto).
+Que la instalación cumple los requisitos reglamentarios, habiéndose observado las indicaciones del fabricante y realizado las pruebas en el lugar del emplazamiento.
 
-– Que la instalación cumple los requisitos reglamentarios, habiéndose observado las indicaciones del fabricante y realizado las pruebas en el lugar del emplazamiento.
+Que su funcionamiento es correcto.
 
-– Que su funcionamiento es correcto.
+Identificación de la documentación que se acompaña.
 
-– Identificación de la documentación que se acompaña.
-
-– Fecha y firma.
-
-– Visado del colegio oficial al que pertenece.
+Fecha y firma.
 
 2. Certificado de instalación.
 
@@ -179,5 +175,9 @@ Si procede, otras características específicas según el tipo de instalación.
 – Fecha y firma.
 
 – Identificación del responsable técnico de la empresa instaladora que suscribe el certificado y sello de la empresa.
+
+> Se modifica el apartado 1 por el art. 16.20 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 149, de 19 de junio de 2010. Ref. BOE-A-2010-9716.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 260, de 28 de octubre de 2009. Ref. BOE-A-2009-17080.

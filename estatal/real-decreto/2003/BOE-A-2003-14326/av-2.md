@@ -12,17 +12,19 @@ El manejo de las grúas torre a las que se refiere esta ITC requerirá la posesi
 
 3. Requisitos para la obtención del carné.
 
-La obtención del carné requerirá la concurrencia de los siguientes requisitos:
+La obtención del carné se puede realizar por dos vías. Por un lado requerirá la concurrencia de los siguientes requisitos:
 
 a) Ser mayor de edad.
 
-b) Estar en posesión de un certificado de estudios primarios.
+b) Estar en posesión del título de graduado en educación secundaria obligatoria.
 
 c) Superar un examen médico sobre agudeza visual, sentido de la orientación, equilibrio y agudeza auditiva y aptitudes psicológicas.
 
 d) La superación de un curso teórico-práctico impartido por una entidad acreditada por el órgano competente de la comunidad autónoma donde se realice el curso.
 
 e) La superación de un examen realizado por el órgano competente de la comunidad autónoma donde se ha realizado el curso indicado en el párrafo anterior.
+
+Por otro lado, se obtendrá directamente el carné de gruista u operador de grúa torre cuando se disponga de un título de formación profesional o de un certificado de profesionalidad incluido en el Catálogo Nacional de Cualificaciones Profesionales, cuyo ámbito competencial coincida con las materias objeto del Reglamento de Aparatos de elevación y manutención de los mismos, aprobado por el Real Decreto 2291/1985, de 8 de noviembre, y de esta Instrucción Técnica Complementaria. También en este caso, superar un examen médico sobre agudeza visual, sentido de la orientación, equilibrio, y agudeza auditiva y aptitudes psicológicas.
 
 4. Curso teórico-práctico.
 
@@ -81,3 +83,7 @@ b) Disponer de grúas tipo torre desmontables y autodesplegables, en propiedad o
 6.1 El carné de gruista u operador de grúa torre será expedido por órgano competente de la comunidad autónoma, una vez acreditado por el solicitante el cumplimiento de los requisitos establecidos en el apartado 3 de este anexo.
 
 6.2 El carné tendrá una validez de cinco años, transcurridos los cuales podrá ser objeto de renovación por iguales períodos, previa acreditación del requisito establecido en el apartado 3.c) de este anexo.
+
+> Se modifica el apartado 3 por el art. 8.16 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#aoctavo
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 207, de 26 de agosto de 2010. Ref. BOE-A-2010-13429

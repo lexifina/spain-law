@@ -112,7 +112,7 @@ En la reapertura de instalaciones después de una resolución de contrato, que e
 
 El titular de la instalación o en su defecto los usuarios, serán los responsables del mantenimiento, conservación, explotación y buen uso de la instalación de tal forma que se halle permanentemente en servicio, con el nivel de seguridad adecuado. Asimismo atenderán las recomendaciones que, en orden a la seguridad, les sean comunicadas por el suministrador.
 
-Las modificaciones de las instalaciones deberán ser realizadas en todos los casos por instaladores autorizados quienes, una vez finalizadas, emitirán el correspondiente certificado que quedará en poder del usuario.
+Las modificaciones de las instalaciones deberán ser realizadas en todos los casos por instaladores quienes, una vez finalizadas, emitirán el correspondiente certificado que quedará en poder del usuario.
 
 4.1 Inspección periódica de las instalaciones receptoras alimentadas desde redes de distribución.–Cada cinco años, y dentro del año natural de vencimiento de este período, los distribuidores de gases combustibles por canalización deberán efectuar una inspección de las instalaciones receptoras de sus respectivos usuarios, repercutiéndoles el coste derivado de aquéllas, según se establezca reglamentariamente, y teniendo en cuenta lo siguiente:
 
@@ -148,7 +148,7 @@ e) El distribuidor dispondrá de una base de datos, permanentemente actualizada,
 
 f) El titular o, en su defecto, el usuario, es el responsable de la corrección de las anomalías detectadas en la instalación, incluyendo la acometida interior enterrada, y en los aparatos de gas, utilizando para ello los servicios de un instalador de gas o de un servicio técnico, que entregará al usuario un justificante de corrección de anomalías según el modelo incluido en el anexo de esta ITC, y enviará copia al distribuidor.
 
-4.2 Revisión periódica de las instalaciones receptoras no alimentadas desde redes de distribución.–Los titulares o, en su defecto, los usuarios actuales de las instalaciones receptoras no alimentadas desde redes de distribución, son responsables de encargar una revisión periódica de su instalación, utilizando para dicho fin los servicios de una empresa instaladora de gas autorizada de acuerdo con lo establecido en la ITC-ICG 09.
+4.2 Revisión periódica de las instalaciones receptoras no alimentadas desde redes de distribución.–Los titulares o, en su defecto, los usuarios actuales de las instalaciones receptoras no alimentadas desde redes de distribución, son responsables de encargar una revisión periódica de su instalación, utilizando para dicho fin los servicios de una empresa instaladora de gas de acuerdo con lo establecido en la ITC-ICG 09.
 
 Dicha revisión se realizará cada cinco años, y comprenderá desde la llave de usuario hasta los aparatos de gas, incluidos estos, cuando la potencia instalada sea inferior o igual a 70 kW, o desde la llave de usuario hasta la llave de conexión de los aparatos, excluidos estos, cuando la potencia instalada supere dicho valor.
 
@@ -171,3 +171,5 @@ Las anomalías secundarias se comunicarán al usuario para que proceda a su corr
 Siempre que se modifique una instalación receptora, la empresa instaladora que realice los trabajos deberá comunicar tal circunstancia al suministrador. A estos efectos, se entenderá por modificación de una instalación receptora cualquier modificación de la instalación de gas que conlleve un cambio de material o de trazado en una longitud superior a 1 m, así como cualquier ampliación de consumo o sustitución de aparatos por otros de diferentes características técnicas.
 
 Una vez comunicada la modificación al suministrador, este solicitará el enganche al distribuidor, quien realizará las pruebas previas establecidas reglamentariamente, repercutiéndose el coste de los derechos de enganche al usuario final.
+
+> Se sustituye la expresión «empresa instaladora autorizada» por «empresa instaladora» e «instalador autorizado» por «instalador» por el art. 13.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimotercero.

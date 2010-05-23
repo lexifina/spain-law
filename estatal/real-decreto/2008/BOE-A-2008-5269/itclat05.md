@@ -40,7 +40,7 @@ Los órganos competentes de la Administración podrán efectuar, por sí mismos 
 
 Todas las líneas deben ser objeto de una verificación previa a la puesta en servicio y de una inspección periódica, al menos cada tres años. Para las líneas de tensión nominal menor o igual a 30 kV la inspección periódica puede ser sustituida por una verificación periódica. Las líneas de tensión nominal superior a 30 kV deberán ser objeto, también, de una inspección inicial antes de su puesta en servicio.
 
-Las verificaciones previas a la puesta en servicio de las líneas eléctricas de alta tensión deberán ser realizadas por las empresas instaladoras autorizadas que las ejecuten.
+Las verificaciones previas a la puesta en servicio de las líneas eléctricas de alta tensión deberán ser realizadas por las empresas instaladoras que las ejecuten.
 
 Sin perjuicio de las atribuciones que, en cualquier caso, ostenta la Administración pública, los agentes que lleven a cabo las inspecciones de las líneas eléctricas de alta tensión de tensión nominal mayor de 30 kV deberán tener la condición de organismos de control, según lo establecido en el Real Decreto 2200/1995, de 28 de diciembre, acreditados para este campo reglamentario.
 
@@ -62,7 +62,7 @@ Para líneas eléctricas con conductores aislados con pantalla se efectuarán, a
 
 3.2.1 Inspección inicial.
 
-En la inspección inicial se comprobará que los ensayos a realizar por la empresa instaladora autorizada, correspondientes a las verificaciones previas a la puesta en servicio, se ejecutan correctamente, con los medios técnicos apropiados y en correcto estado de calibración, así como el resultado obtenido es satisfactorio. También se comprobará que existe coincidencia entre las condiciones reales de tendido con las condiciones de cálculo del proyecto.
+En la inspección inicial se comprobará que los ensayos a realizar por la empresa instaladora, correspondientes a las verificaciones previas a la puesta en servicio, se ejecutan correctamente, con los medios técnicos apropiados y en correcto estado de calibración, así como el resultado obtenido es satisfactorio. También se comprobará que existe coincidencia entre las condiciones reales de tendido con las condiciones de cálculo del proyecto.
 
 3.2.2 Inspección periódica.
 
@@ -74,7 +74,7 @@ Las inspecciones y verificaciones de las instalaciones se realizarán sobre la b
 
 3.3.1 Procedimiento de inspección inicial o periódica.
 
-La empresa instaladora autorizada que haya ejecutado la instalación o la responsable del mantenimiento, según se trate de inspecciones iniciales o periódicas, deberá asistir al organismo de control para la realización de las pruebas y ensayos necesarios.
+La empresa instaladora que haya ejecutado la instalación o la responsable del mantenimiento, según se trate de inspecciones iniciales o periódicas, deberá asistir al organismo de control para la realización de las pruebas y ensayos necesarios.
 
 Como resultado de la inspección, el agente encargado de la inspección emitirá un certificado de inspección, en el cual figurarán los datos de identificación de la línea y la posible relación de defectos, con su clasificación, y la calificación de la línea, así como el registro de las últimas operaciones de mantenimiento realizadas por la empresa, responsable del mantenimiento de la línea.
 
@@ -191,3 +191,5 @@ Los equipos se mantendrán en correcto estado de funcionamiento y calibración. 
 1.2 Equipos y medios de protección individual.
 
 Estarán de acuerdo con la normativa vigente y las necesidades de la instalación.
+
+> Se sustituye la expresión indicada por el art. 15.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimoquinto.

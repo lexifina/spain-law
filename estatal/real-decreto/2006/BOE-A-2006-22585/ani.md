@@ -32,7 +32,7 @@ Las operaciones a realizar para la anulación de los tanques de almacenamiento d
 
 11. Consolidación del terreno.
 
-En determinados casos, a petición del propietario o recomendación del reparador autorizado a la vista del estado del tanque y sus posibilidades, después de realizar el paso 8, podrá procederse a su extracción y posterior consolidación de los terrenos afectados.
+En determinados casos, a petición del propietario o recomendación del reparador a la vista del estado del tanque y sus posibilidades, después de realizar el paso 8, podrá procederse a su extracción y posterior consolidación de los terrenos afectados.
 
 En los tanques no enterrados se deberán seguir los pasos del 1 al 8, ambos inclusive.
 
@@ -79,3 +79,5 @@ Requisitos de compactación del fondo del foso y del relleno.
 Previsión de los materiales de relleno, incluido un aumento de los mismos si las condiciones del terreno fuesen propicias a la formación de derrumbes o cavidades.
 
 Posible existencia de hidrocarburos empapando en el terreno o formando bolsas, en cuyo caso se procederá a la extracción de combustibles y la tierra contaminada, debiendo realizar su gestión de acuerdo con la normativa ambiental recogida en la Ley 10/1998, de 21 de abril, de Residuos, en el citado Real Decreto 9/2005, de 14 de enero, y en la legislación autonómica reguladora de los suelos contaminados, y aplicando las mejores técnicas disponibles.
+
+> Se modifica por el art. 14 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.

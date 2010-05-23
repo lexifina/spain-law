@@ -96,7 +96,7 @@ Previa limpieza de los accesorios, se inspeccionarán los reguladores y limitado
 
 Las válvulas de seguridad se desmontarán para comprobar que sus distintos elementos no presentan anomalías y que su interior esté limpio de óxido, incrustaciones o sustancias extrañas. Se procederá a su ajuste, prueba y precintado.
 
-La inspección y limpieza de los elementos de las válvulas de seguridad, cámaras de flotación y accesorios puede ser realizada por el fabricante o por la empresa reparadora autorizada ERP-2, previa a la visita del inspector responsable de la inspección y prueba periódica. Deberá procederse a desmontar todas las válvulas de seguridad, ajustarlas correctamente, probándolas a continuación y precintándolas. En este caso, el fabricante o la empresa reparadora extenderán un certificado acreditativo de haber efectuado las operaciones indicadas.
+La inspección y limpieza de los elementos de las válvulas de seguridad, cámaras de flotación y accesorios puede ser realizada por el fabricante o por la empresa reparadora habilitada ERP-2, previa a la visita del inspector responsable de la inspección y prueba periódica. Deberá procederse a desmontar todas las válvulas de seguridad, ajustarlas correctamente, probándolas a continuación y precintándolas. En este caso, el fabricante o la empresa reparadora extenderán un certificado acreditativo de haber efectuado las operaciones indicadas.
 
 La comprobación del funcionamiento de los elementos indicados, así como la regulación y precinto de las válvulas de seguridad, será necesariamente certificada por el inspector del organismo de control autorizado. En el caso de las válvulas de seguridad de calderas, estas inspecciones, además, se realizarán conjuntamente con la prueba de presión y, en su defecto, con prueba por medio de equipo hidráulico sustitutivo.
 
@@ -251,5 +251,7 @@ c) En las calderas pirotubulares se efectuarán los siguientes ensayos, no destr
 d) Prueba hidráulica.
 
 e) Ensayo de funcionamiento.
+
+> Se modifica el párrafo tercero del apartado 2.11 por el art. 16.27 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.
 
 > Redactados los apartados 2.10.b) y 2.12 conforme a la corrección de errores publicada en BOE núm. 260, de 28 de octubre de 2009. Ref. BOE-A-2009-17080.

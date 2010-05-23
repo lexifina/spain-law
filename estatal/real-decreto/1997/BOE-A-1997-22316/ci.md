@@ -58,7 +58,7 @@ En general, se consideran como susceptibles de estar contaminadas las aguas en c
 
 3.13 Resistencia al fuego: es la cualidad de un elemento constructivo que lo hace capaz de mantener durante cierto tiempo las condiciones de estabilidad mecánica, estanqueidad a las llamas y humos, ausencia de emisión de gases inflamables y aislamiento térmico cuando se le somete a la acción del fuego. Esta cualidad se valora por el tiempo que el material mantiene las condiciones citadas expresado en minutos, y se expresa por las siglas RF seguidas de la expresión numérica de tiempo. Su determinación se hará de acuerdo con las normas UNE 23 093, UNE 23 801 y UNE 23 802.
 
-3.14 Revisión periódica: toda revisión o prueba posterior a la puesta en servicio de los aparatos o equipos, realizada por instalador autorizado u organismo de control.
+3.14 Revisión periódica: toda revisión o prueba posterior a la puesta en servicio de los aparatos o equipos, realizada por una empresa instaladora habilitada según lo establecido en la Instrucción Técnica Complementaria MI-IP05 «Instaladores o reparadores y empresas instaladoras o reparadoras de productos petrolíferos líquidos», aprobada por Real Decreto 365/2005, de 8 de abril, u organismo de control.
 
 3.15 Titular de la instalación: persona física o jurídica que figura como responsable ante la Administración, de las obligaciones impuestas en la normativa y reglamentación vigente. Podrá ser el propietario, arrendatario, administrador, gestor o cualquier otra cuyo título le confiere esa responsabilidad.
 
@@ -125,6 +125,8 @@ Semienterrados.
 Bajo el nivel del terreno, que pueden estar enterrados o en fosa.
 
 Los recipientes móviles se podrán apilar, en función de su forma, material y dimensiones, en las mismas condiciones que los recipientes fijos, excepto la de enterrados.
+
+> Se modifica el apartado 3.14 por el art. 6.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#asexto
 
 > Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. Ref. BOE-A-1999-20723
 

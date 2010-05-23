@@ -1,132 +1,98 @@
 ## Instrucción Técnica Complementaria ITC-LAT 03
 
-## INSTALADORES AUTORIZADOS Y EMPRESAS INSTALADORAS AUTORIZADAS PARA LÍNEAS DE ALTA TENSIÓN
+## INSTALADORES Y EMPRESAS INSTALADORAS DE LÍNEAS DE ALTA TENSIÓN
 
 ## 0. ÍNDICE
 
 1. OBJETO.
 
-2. INSTALADOR AUTORIZADO Y EMPRESA INSTALADORA AUTORIZADA PARA LÍNEAS DE ALTA TENSIÓN.
+2. INSTALADOR Y EMPRESA INSTALADORA PARA LÍNEAS DE ALTA TENSIÓN.
 
-3. CLASIFICACIÓN DE LOS INSTALADORES AUTORIZADOS Y DE LAS EMPRESAS INSTALADORAS AUTORIZADAS PARA LÍNEAS DE ALTA TENSIÓN.
+3. CLASIFICACIÓN DE LOS INSTALADORES Y DE LAS EMPRESAS INSTALADORAS DE LÍNEAS DE ALTA TENSIÓN.
 
-4. CARNÉ PROFESIONAL DE INSTALADOR.
+4. INSTALADOR DE LÍNEAS DE ALTA TENSIÓN.
 
-5. AUTORIZACIÓN DE LAS ENTIDADES DE EVALUACIÓN.
+6. EMPRESA INSTALADORA DE LÍNEAS DE ALTA TENSIÓN.
 
-6. CERTIFICADO COMO EMPRESA INSTALADORA AUTORIZADA PARA LÍNEAS DE ALTA TENSIÓN.
+7. OBLIGACIONES DE LAS EMPRESAS INSTALADORAS.
 
-7. OBLIGACIONES DE LAS EMPRESAS INSTALADORAS AUTORIZADAS.
+ANEXO 1. MEDIOS MÍNIMOS, TÉCNICOS Y HUMANOS, REQUERIDOS A LAS EMPRESAS INSTALADORAS DE LÍNEAS DE ALTA TENSIÓN.
 
-ANEXO 1. MEDIOS MÍNIMOS, TÉCNICOS Y HUMANOS, REQUERIDOS A LAS EMPRESAS INSTALADORAS AUTORIZADAS PARA LÍNEAS DE ALTA TENSIÓN.
-
-ANEXO 2. REQUISITOS, CRITERIOS Y CONTENIDOS MÍNIMOS DE LAS PRUEBAS TEÓRICO PRÁCTICAS PARA LA OBTENCIÓN DE LOS CARNÉS PROFESIONALES DE INSTALADOR.
+ANEXO 2. CONOCIMIENTOS MÍNIMOS NECESARIOS PARA INSTALADORES DE LÍNEAS DE ALTA TENSIÓN.
 
 ## 1. OBJETO.
 
-La presente instrucción técnica complementaria tiene por objeto desarrollar las previsiones del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión, estableciendo las condiciones y requisitos que deben observarse para la acreditación de la competencia y la autorización administrativa correspondiente de los instaladores autorizados y empresas instaladoras autorizadas en el ámbito de aplicación de este reglamento.
+La presente instrucción técnica complementaria tiene por objeto desarrollar las previsiones del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión, estableciendo las condiciones y requisitos que deben cumplir los instaladores y las empresas instaladoras en el ámbito de aplicación de dicho reglamento.
 
-## 2. INSTALADOR AUTORIZADO Y EMPRESA INSTALADORA AUTORIZADA PARA LÍNEAS DE ALTA TENSIÓN.
+## 2. INSTALADOR Y EMPRESA INSTALADORA DE LÍNEAS DE ALTA TENSIÓN.
 
-2.1 Instalador autorizado en líneas de alta tensión es la persona física que, además de poseer conocimientos teórico-prácticos de la tecnología de las líneas de alta tensión y de su normativa, acreditados mediante carné profesional de instalador, está capacitado para el montaje, reparación, mantenimiento, revisión y desmontaje de las líneas de alta tensión correspondientes a su categoría. Los instaladores ejercerán su profesión en el seno de una empresa instaladora.
+2.1 Instalador de líneas de alta tensión es la persona física que posee conocimientos teórico-prácticos de la tecnología de las líneas de alta tensión y de su normativa, en particular los conocimientos mínimos establecidos en el anexo 2 de esta ITC, para el montaje, reparación, mantenimiento, revisión y desmontaje de las líneas de alta tensión correspondientes a su categoría, y que cumple los requisitos establecidos en el apartado 4 de esta ITC.
 
-2.2 Empresa instaladora autorizada en líneas de alta tensión es toda empresa con naturaleza de persona jurídica, o empresario autónomo con personal técnico contratado que, ejerciendo las actividades de montaje, reparación, mantenimiento, revisión y desmontaje de líneas de alta tensión y cumpliendo los requisitos de esta instrucción técnica complementaria, se encuentra acreditada mediante el correspondiente certificado de empresa instaladora autorizada para líneas de alta tensión emitido por el órgano competente de la comunidad autónoma, y se halla inscrita en el correspondiente registro.
+2.2 Empresa instaladora en líneas de alta tensión es toda persona física o jurídica que, ejerciendo las actividades de montaje, reparación, mantenimiento, revisión y desmontaje de líneas de alta tensión cumple los requisitos de esta instrucción técnica complementaria.
 
-## 3. CLASIFICACIÓN DE LOS INSTALADORES AUTORIZADOS Y DE LAS EMPRESAS INSTALADORAS AUTORIZADAS PARA LÍNEAS DE ALTA TENSIÓN.
+## 3. CLASIFICACIÓN DE LOS INSTALADORES Y DE LAS EMPRESAS INSTALADORAS DE LÍNEAS DE ALTA TENSIÓN.
 
-Los instaladores autorizados y empresas instaladoras autorizadas se clasifican en las siguientes categorías:
+Los instaladores y las empresas instaladoras se clasifican en las siguientes categorías:
 
 – LAT1: Para líneas aéreas o subterráneas de alta tensión de hasta 30 kV.
 
-– LAT2: Para líneas aéreas o subterráneas de alta tensión superior a 30 kV.
+– LAT2: Para líneas aéreas o subterráneas de alta tensión sin límite de tensión.
 
-En los certificados de cualificación individual y de empresa instaladora autorizada deberán constar expresamente la categoría o categorías para las que se haya sido autorizado.
+## 4. INSTALADOR DE LÍNEAS DE ALTA TENSIÓN.
 
-## 4. CARNÉ PROFESIONAL DE INSTALADOR.
+El instalador de líneas de alta tensión deberá desarrollar su actividad en el seno de una empresa instaladora de líneas de alta tensión habilitada y deberá cumplir y poder acreditar ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control, y para la categoría que corresponda de las establecidas en el apartado 3 anterior, una de las siguientes situaciones:
 
-4.1 Concepto
+a) Disponer de un título universitario cuyo plan de estudios cubra las materias objeto del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión, aprobado por el Real Decreto 223/2008, de 15 de febrero, y de sus Instrucciones Técnicas Complementarias.
 
-El carné profesional como instalador de líneas de alta tensión es el documento por el cual se reconoce a una persona física la capacidad personal para desempeñar alguna de las actividades correspondiente a las categorías indicadas en el apartado anterior.
+b) Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Catálogo Nacional de Cualificaciones Profesionales, cuyo ámbito competencial coincida con las materias objeto del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión, aprobado por el Real Decreto 223/2008, de 15 de febrero, y de sus Instrucciones Técnicas Complementarias.
 
-El carné profesional como instalador será expedido por el órgano competente de la comunidad autónoma, conforme a los requisitos del apartado 4.2.
-
-Los criterios y contenidos mínimos para la obtención del carné profesional como instalador están definidos en el anexo 2 de esta instrucción técnica complementaria. Los criterios y contenidos deberán ser actualizados periódicamente, a propuesta de los instaladores, empresas instaladoras, distribuidoras, comercializadoras u operadoras, corporaciones que representen a los profesionales titulados técnicos y entidades de evaluación, para adaptarse a los avances tecnológicos.
-
-4.2 Requisitos
-
-Para obtener el carné profesional como instalador, las personas físicas deberán acreditar, ante el órgano competente de la comunidad autónoma, el cumplimiento de los siguientes requisitos:
-
-a) Ser mayor de edad en el momento de cursar la solicitud.
-
-b) Titulación: Técnico superior en instalaciones electrotécnicas o titulado de escuelas técnicas de ingeniería de grado medio o superior con atribuciones en este ámbito. Se admitirán titulaciones declaradas por el órgano competente de la comunidad autónoma como equivalentes a las mencionadas, así como las titulaciones equivalentes que se determinen por aplicación de la legislación comunitaria o de otros acuerdos internacionales con terceros países, ratificados por España.
-
-c) Los técnicos superiores en instalaciones electrotécnicas deberán cumplir además los requisitos siguientes:
-
-– Disponer de conocimientos prácticos para las categorías en las que solicita la cualificación, obtenidos mediante al menos un año de experiencia en el ámbito de este reglamento en una empresa de instalación de líneas eléctricas de alta tensión o en una compañía eléctrica.
-
-– Superar un examen teórico-práctico, ante el órgano competente de la comunidad autónoma, sobre las disposiciones del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus Instrucciones Técnicas Complementarias, correspondientes a la categoría en la que se desea obtener la cualificación, cuyos contenidos mínimos se definen en el anexo 2.
-
-El órgano competente de la comunidad autónoma podrá autorizar entidades de evaluación en el ámbito de este reglamento con el fin de elaborar, realizar y corregir el mencionado examen.
-
-4.3 Concesión y validez
-
-Cumplidos los requisitos de 4.2, el órgano competente de la comunidad autónoma expedirá el correspondiente carné profesional de instalador, con la anotación de la categoría o categorías correspondientes.
-
-El carné profesional como instalador tendrá validez en todo el territorio español. En caso de variación importante de la reglamentación que constituyó la base para la concesión del carné, y siempre que en la disposición correspondiente se determine expresamente que, en razón de la misma, sea preciso hacerlo, el titular del carné deberá solicitar la actualización del mismo, cumpliendo los requisitos que dicha disposición establezca para ello.
-
-Las comunidades autónomas podrán establecer, en el ámbito de sus competencias, requisitos complementarios para armonizar la regulación de este carné profesional con otros expedidos en materia de seguridad industrial, en cuanto su vigencia, renovaciones y causas de actualización.
+c) Tener reconocida una competencia profesional adquirida por experiencia laboral, de acuerdo con lo estipulado en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, en las materias objeto del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión, aprobado por el Real Decreto 223/2008, de 15 de febrero, y de sus Instrucciones Técnicas Complementarias.
 
 ## 5. ENTIDADES DE EVALUACIÓN
 
-5.1 Requisitos.
+(Suprimido)
 
-Para obtener la calificación de entidad de evaluación autorizada, a la que se refiere el apartado 4 de esta instrucción técnica complementaria, las entidades interesadas deberán cumplir los siguientes requisitos:
+## 6. EMPRESA INSTALADORA DE LÍNEAS DE ALTA TENSIÓN.
 
-a) Contar con los titulados de grado medio o superior de las áreas de conocimientos correspondientes a los programas de los contenidos teóricos y prácticos exigidos para obtención del carné profesional de instalador definidos por el Ministerio de Industria,Turismo y Comercio, a que se refiere el apartado 4 de esta instrucción técnica complementaria.
+6.1 Antes de comenzar sus actividades como empresas instaladoras de líneas de alta tensión, las personas físicas o jurídicas que deseen establecerse en España deberán presentar ante el órgano competente de la comunidad autónoma en la que se establezcan una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare para qué categoría va a desempeñar la actividad, que cumple los requisitos que se exigen por esta ITC, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus respectivas instrucciones técnicas complementarias.
 
-b) Disponer de los medios técnicos, para efectuar las pruebas prácticas exigidas para la obtención del carné profesional de instalador, definidos por el Ministerio de Industria, Turismo y Comercio, a que se refiere el apartado 4 de esta instrucción técnica complementaria.
+6.2 Las empresas instaladoras de líneas de alta tensión legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad, una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare para qué categoría va a desempeñar la actividad, que cumple los requisitos que se exigen por esta ITC, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus respectivas instrucciones técnicas complementarias.
 
-c) Tener suscrito seguro de responsabilidad civil que cubra los riesgos que puedan derivarse de sus actuaciones, mediante póliza de seguro, por importe de 300.000 euros, cantidad que se actualizará anualmente, a partir del 1 de enero de 2011, según la variación del índice de precios al consumo, certificada por el Instituto Nacional de Estadística. La entidad de evaluación deberá trasladará justificante de cada actualización al órgano competente de la comunidad autónoma.
+Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 1837/2008, de 8 de noviembre, por el que se incorporan al ordenamiento jurídico español la Directiva 2005/36/CE, del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, y la Directiva 2006/100/CE, del Consejo, de 20 de noviembre de 2006, relativas al reconocimiento de cualificaciones profesionales así como a determinados aspectos del ejercicio de la profesión de abogado. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del Real Decreto 1837/2008, de 8 de noviembre.
 
-5.2 Autorización.
+6.3 Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
 
-La autorización como entidad de evaluación autorizada será otorgada por la comunidad autónoma competente por razón de territorio. Con carácter anual y a efectos estadísticos e informativos, las comunidades autónomas comunicarán al Ministerio de Industria,Turismo y Comercio las autorizaciones concedidas.
+No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.
 
-La autorización como entidad de evaluación autorizada se otorgará por un período inicial de tres años y se renovará cada tres años por la misma comunidad autónoma que otorgó la concesión inicial, siempre que acredite el mantenimiento de las condiciones que dieron lugar a la anterior autorización.
+6.4 El órgano competente de la comunidad autónoma, asignará, de oficio, un número de identificación a la empresa y remitirá los datos necesarios para su inclusión en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.
 
-## 6. EMPRESA INSTALADORA AUTORIZADA PARA LÍNEAS DE ALTA TENSIÓN.
+6.5 De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido a la empresa instaladora, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.
 
-6.1 Requisitos.
+6.6 Al amparo de lo previsto en el apartado 3 del artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.
 
-Para obtener el certificado de empresa instaladora autorizada a que se refiere el apartado 2 de la presente instrucción, deberán acreditarse ante la comunidad autónoma donde radique su sede social, los siguientes requisitos:
+En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad y, si procede, se inhabilite temporalmente para el ejercicio de la actividad sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas.
 
-a) Estar legalmente constituida, mediante los documentos que acrediten la personalidad jurídica de la empresa interesada.
+6.7 Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de las actividades, deberá ser comunicado por el interesado al órgano competente de la comunidad autónoma donde presentó la declaración responsable en el plazo de un mes.
 
-b) Contar con los medios técnicos y humanos que se determinan en el anexo 1 de la presente instrucción técnica complementaria, de acuerdo con la normativa vigente y con las necesidades de las actividades a realizar. Además, deberán aportarse cumplimentados los datos de los carnés identificativos de las personas físicas poseedoras de carnés profesionales de instalador para las categorías que solicita autorización.
+6.8 Las empresas instaladoras cumplirán lo siguiente:
 
-c) Tener suscrito seguro de responsabilidad civil que cubra los riesgos que puedan derivarse de sus actuaciones a terceros así como seguro de responsabilidad civil patronal que cubra su propio personal, mediante póliza por una cuantía mínima de un millón de euros, actualizado anualmente, a partir del año siguiente al de entrada en vigor del reglamento, según la variación del índice de precios al consumo, certificada por el Instituto Nacional de Estadística. De la actualización que realice la empresa instaladora, trasladará justificante al órgano competente de la comunidad autónoma.
+a) Disponer de la documentación que identifique a la empresa instaladora, que en el caso de persona jurídica deberá estar constituida legalmente.
 
-d) Estar dado de alta en el impuesto de actividades económicas, en el censo de obligaciones tributarias y en el correspondiente régimen de la seguridad social.
+b) Contar con los medios técnicos y humanos mínimos necesarios para realizar sus actividades en condiciones de seguridad que se determinan en el anexo I de la presente instrucción técnica complementaria, para las respectivas categorías, de acuerdo con la normativa vigente y con las necesidades de las actividades a realizar.
 
-6.2 Autorización.
+c) Tener suscrito seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio por una cuantía mínima de un millón de euros. Esta cuantía mínima se actualizará por orden del Ministro de Industria, Turismo y Comercio, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
 
-6.2.1 El órgano competente de la comunidad autónoma, en caso de que se cumplan los requisitos indicados en el apartado anterior, expedirá el correspondiente certificado de empresa instaladora autorizada para líneas de alta tensión, en el cual constará la categoría o categorías que comprenda.
+6.9 La empresa instaladora habilitada no podrá facilitar, ceder o enajenar certificados de instalación no realizadas por ella misma.
 
-La empresa deberá inscribirse en el Registro de Establecimientos Industriales de ámbito estatal, aprobado por Real Decreto 697/1995, de 28 de abril.
+6.10 El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.
 
-6.2.2 El certificado de empresa instaladora autorizada tendrá validez en todo el territorio español, y por un período inicial de cinco años, siempre y cuando se mantengan las condiciones que permitieron su concesión.
+La autoridad competente, en este caso, abrirá un expediente informativo al titular de la instalación, que tendrá quince días naturales a partir de la comunicación para aportar las evidencias o descargos correspondientes.
 
-Se renovará, por un período igual al inicial, siempre que la empresa instaladora autorizada lo solicite al órgano competente de la comunidad autónoma con anterioridad a los tres meses previos inmediatos a la finalización de su vigencia, y se acredite el mantenimiento de las condiciones que dieron lugar a su anterior autorización.
+6.11 El órgano competente de la comunidad autónoma dará traslado inmediato al Ministerio de Industria, Turismo y Comercio de la inhabilitación temporal, las modificaciones y el cese de la actividad a los que se refieren los apartados precedentes para la actualización de los datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, tal y como lo establece su normativa reglamentaria de desarrollo.
 
-La autorización se considerará renovada por silencio positivo, si no hubiera resolución expresa en el plazo de tres meses desde la fecha en la que la solicitud hubiera tenido entrada en el órgano territorial competente para su tramitación, sin perjuicio del cumplimiento los requisitos exigibles, en todo momento, por la empresa interesada.
+## 7. OBLIGACIONES DE LAS EMPRESAS INSTALADORAS.
 
-6.2.3 Cualquier variación en las condiciones y requisitos establecidos para la concesión del certificado deberá ser comunicada al órgano competente de la comunidad autónoma, en el plazo de un mes, si no afecta a la validez del mismo. En caso de que dicha variación supusiera dejar de cumplir los requisitos necesarios para la concesión del certificado, la comunicación deberá ser realizada en el plazo de 15 días inmediatos posteriores a producirse la incidencia, a fin de que el órgano competente de la comunidad autónoma, a la vista de las circunstancias, pueda determinar la cancelación del mismo o, en su caso, la suspensión o prórroga condicionada de la actividad, en tanto se restablezcan los referidos requisitos.
-
-La falta de notificación en el plazo señalado en el párrafo anterior, podrá suponer, además de las posibles sanciones que figuran en el reglamento, la inmediata suspensión cautelar del certificado de empresa instaladora autorizada para líneas de alta tensión.
-
-## 7. OBLIGACIONES DE LAS EMPRESAS INSTALADORAS AUTORIZADAS
-
-Las empresas instaladoras autorizadas deben, en sus respectivas categorías:
+Las empresas instaladoras deben, en sus respectivas categorías:
 
 a) Ejecutar, modificar, ampliar, mantener, reparar o desmontar las líneas que les sean adjudicadas o confiadas, de conformidad con la normativa vigente y con el proyecto de ejecución de la línea, utilizando, en su caso, materiales y equipos que sean conformes a la legislación que les sea aplicable.
 
@@ -148,19 +114,19 @@ i) Conservar, a disposición del órgano competente de la Administración, copia
 
 ## ANEXO I
 
-## MEDIOS MÍNIMOS, TÉCNICOS Y HUMANOS, REQUERIDOS A LAS EMPRESAS INSTALADORAS AUTORIZADAS PARA LÍNEAS DE ALTA TENSIÓN
+## MEDIOS MÍNIMOS, TÉCNICOS Y HUMANOS, REQUERIDOS A LAS EMPRESAS INSTALADORAS PARA LÍNEAS DE ALTA TENSIÓN
 
 ## 1. Medios humanos.
 
-1.1 Al menos, una persona dotada del carné profesional como instalador de categoría igual a cada una de las de la empresa instaladora autorizada en la plantilla. En caso de que una misma persona ostente dichas categorías, bastará para cubrir el presente requisito.
+1.1 Personal contratado que realice la actividad en condiciones de seguridad, con un mínimo de un instalador de líneas de alta tensión de categoría igual a cada una de las categorías de la empresa instaladora. En el caso de que una misma persona ostente dichas categorías, bastará para cubrir este requisito.
 
 1.2 Al menos, una persona dotada de carné profesional como instalador por cada 25 operarios.
 
 ## 2. Medios técnicos.
 
-2.1 Local: Superficie mínima de 50 m2.
+2.1 Local: (Suprimido)
 
-2.2 Equipos: Las empresas instaladoras autorizadas deberán disponer, en propiedad, los siguientes equipos mínimos:
+2.2 Equipos: Las empresas instaladoras deberán disponer, en propiedad, los siguientes equipos mínimos:
 
 2.2.1 Equipo general:
 
@@ -210,9 +176,9 @@ Estarán de acuerdo con la normativa vigente y las necesidades de la instalació
 
 ## ANEXO 2
 
-## CONTENIDOS MÍNIMOS DE LAS PRUEBAS TEÓRICO PRÁCTICAS PARA LA OBTENCIÓN DE LOS CARNÉS PROFESIONALES DE INSTALADOR
+## CONOCIMIENTOS MÍNIMOS NECESARIOS PARA INSTALADORES DE LÍNEAS DE ALTA TENSIÓN
 
-## 1. CONTENIDOS TEÓRICOS.
+## 1. CONOCIMIENTOS TEÓRICOS.
 
 1.1 Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctrica de alta tensión y sus Instrucciones Técnicas Complementarias ITC-LAT 01 a 09.
 
@@ -304,7 +270,7 @@ Estarán de acuerdo con la normativa vigente y las necesidades de la instalació
 
 1.10.4 Técnicas de primeros auxilios.
 
-## 2. CONTENIDOS PRÁCTICOS.
+## 2. CONOCIMIENTOS PRÁCTICOS.
 
 2.1 Instalación y tendido de líneas eléctricas aéreas de alta tensión.
 
@@ -349,3 +315,7 @@ Estarán de acuerdo con la normativa vigente y las necesidades de la instalació
 2.4.3 Manejo de aparatos de medida de magnitudes eléctricas (medidores de resistencia, tensiones de paso y contacto).
 
 2.4.4 Manejo de aparatos de medida para verificación y control (medidores de tangente de delta, medidores de aislamiento, etc.).
+
+> Se modifica por el art. 15 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimoquinto.
+
+> Redactado el apartado 6.2 conforme a la corrección de errores publicada en BOE núm.149, de 19 de junio de 2010. Ref. BOE-A-2010-9716.

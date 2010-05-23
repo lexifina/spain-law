@@ -6,11 +6,23 @@
 
 La presente instrucción técnica complementaria (en adelante, también denominada ITC) tiene por objeto establecer los requisitos que deben cumplir los instaladores de gas, las empresas instaladoras y los agentes de puesta en marcha y adecuación de aparatos, a que se refiere el artículo 8 del reglamento técnico de distribución y utilización de combustibles gaseosos (en adelante, también denominado reglamento).
 
-2. Instalador autorizado de gas
+2. Instalador de gas.
 
-Instalador autorizado de gas es la persona física que, en virtud de poseer conocimientos teórico-prácticos de la tecnología de la industria del gas y de su normativa, está autorizado para realizar y supervisar las operaciones correspondientes a su categoría, por medio de un carné de instalador de gas expedido por una Comunidad Autónoma. Los instaladores de gas ejercerán su profesión en el seno de una empresa instaladora de gas.
+Instalador de gas es la persona física que, en virtud de poseer conocimientos teórico-prácticos de la tecnología de la industria del gas y de su normativa, está capacitado para realizar y supervisar las operaciones correspondientes a su categoría.
 
-2.1 Operaciones que pueden realizar los instaladores autorizados de gas.–Los instaladores de gas, con las limitaciones que se establecen en función de su categoría, se consideran habilitados para realizar las siguientes operaciones:
+El instalador de gas deberá desarrollar su actividad en el seno de una empresa instaladora de gas habilitada y deberá cumplir y poder acreditar ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control y para la categoría que corresponda de las establecidas en el apartado 2.2 siguiente, una de las siguientes situaciones:
+
+a) Disponer de un título universitario cuyo plan de estudios cubra los contenidos mínimos que se indican en el anexo 1 de esta Instrucción Técnica Complementaria.
+
+b) Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Catálogo Nacional de Cualificaciones Profesionales, cuyo ámbito competencial incluya los contenidos mínimos que se indican en el anexo 1 de esta Instrucción Técnica Complementaria.
+
+c) Haber superado un examen teórico-práctico ante la comunidad autónoma sobre los contenidos mínimos que se indican en el anexo 1 de esta Instrucción Técnica Complementaria.
+
+d) Tener reconocida una competencia profesional adquirida por experiencia laboral, de acuerdo con lo estipulado en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, en las materias que se indican en el anexo 1 de esta Instrucción Técnica Complementaria.
+
+e) Poseer una certificación otorgada por entidad acreditada para la certificación de personas, según lo establecido en el Real Decreto 2200/1995, de 28 de diciembre, que incluya como mínimo los contenidos que se indican en el anexo 1 de esta Instrucción Técnica Complementaria.
+
+2.1 Operaciones que pueden realizar los instaladores de gas.–Los instaladores de gas, con las limitaciones que se establecen en función de su categoría, se consideran habilitados para realizar las siguientes operaciones:
 
 2.1.1 En instalaciones de gas.–Montaje, modificación o ampliación, revisión, mantenimiento y reparación de:
 
@@ -34,9 +46,9 @@ Revisiones de aquellas instalaciones en donde lo establezcan las correspondiente
 
 2.1.2 En aparatos de gas.–Conexión a la instalación de gas y montaje, de acuerdo con la normativa vigente.
 
-Puesta en marcha de aparatos de gas, mantenimiento y reparación, de acuerdo con el apartado 5.3 de la ITC-ICG 08, excepto cuando se trate de aparatos conducidos (aparatos de tipo B y C) de potencia útil superior a 24,4 kW, de vitrocerámicas de gas de fuegos cubiertos o de adecuación de aparatos por cambio de familia de gas, para lo cual los instaladores de gas deberán disponer adicionalmente de la acreditación especial de puesta en marcha, mantenimiento, reparación y adecuación de aparatos a que se refiere el apartado 4 de la presente ITC.
+Puesta en marcha de aparatos de gas, mantenimiento y reparación, de acuerdo con el apartado 5.3 de la ITC-ICG 08, excepto cuando se trate de aparatos conducidos (aparatos de tipo B y C) de potencia útil superior a 24,4 kW, de vitrocerámicas de gas de fuegos cubiertos o de adecuación de aparatos por cambio de familia de gas, para lo cual los instaladores de gas deberán cumplir adicionalmente los requisitos establecidos en apartado 4 de la presente Instrucción Técnica Complementaria.
 
-2.2 Categorías de los instaladores autorizados de gas.–Se establecen tres tipos o categorías de instaladores de gas:
+2.2 Categorías de los instaladores de gas.–Se establecen tres tipos o categorías de instaladores de gas:
 
 Instalador de gas de categoría A. Los instaladores de gas de categoría A podrán realizar todas las operaciones señaladas en el apartado 2.1 en instalaciones y aparatos.
 
@@ -52,7 +64,7 @@ Conexión y montaje de aparatos de gas.
 
 Puesta en marcha, mantenimiento y reparación de aparatos de gas no conducidos (aparatos de tipo A) y de aparatos de gas conducidos (aparatos de tipo B y C) de potencia útil hasta 24,4 kW inclusive, que estén adaptados al tipo de gas suministrado, con la excepción de las vitrocerámicas a gas de fuegos cubiertos.
 
-Puesta en marcha, mantenimiento y reparación de aparatos de gas conducidos (aparatos de tipo B y C) de potencia útil superior a 24,4 kW y vitrocerámicas a gas de fuegos cubiertos, que estén adaptados al tipo de gas suministrado, previa formación y acreditación específicas, según el apartado 2.1.2.
+Puesta en marcha, mantenimiento y reparación de aparatos de gas conducidos (aparatos de tipo B y C) de potencia útil superior a 24,4 kW y vitrocerámicas a gas de fuegos cubiertos, que estén adaptados al tipo de gas suministrado, cumpliendo requisitos específicos, según se indica el apartado 2.1.2.
 
 Instalador de gas de categoría C. Los instaladores de gas de categoría C podrán realizar las operaciones señaladas en el apartado 2.1, únicamente en instalaciones receptoras individuales que no requieren proyecto ni cambio de familia de gas y limitadas a:
 
@@ -62,144 +74,126 @@ Conexión y montaje de aparatos de gas.
 
 Puesta en marcha, mantenimiento y reparación de aparatos de gas no conducidos (aparatos de tipo A) y de aparatos de gas conducidos (aparatos de tipo B y C) de potencia útil hasta 24,4 kW inclusive, que estén adaptados al tipo de gas suministrado, con la excepción de las vitrocerámicas a gas de fuegos cubiertos.
 
-Puesta en marcha, mantenimiento y reparación de aparatos de gas conducidos (aparatos de tipo B y C) de potencia útil superior a 24,4 kW y vitrocerámicas a gas de fuegos cubiertos, que estén adaptados al tipo de gas suministrado, previa formación y acreditación específicas, según el apartado 2.1.2.
+Puesta en marcha, mantenimiento y reparación de aparatos de gas conducidos (aparatos de tipo B y C) de potencia útil superior a 24,4 kW y vitrocerámicas a gas de fuegos cubiertos, que estén adaptados al tipo de gas suministrado, cumpliendo requisitos específicos, según se indica el apartado 2.1.2.
 
-2.3 Certificado de cualificación individual como instalador de gas.–El certificado de cualificación individual como instalador de gas es el documento por el cual se reconoce a una persona física la capacidad personal para desempeñar alguna de las actividades correspondientes a las categorías indicadas en el apartado 2.2 de esta ITC.
+2.3 (Suprimido)
 
-2.3.1 Obtención del certificado.–El certificado de cualificación individual en instalaciones de gas en sus diferentes categorías se concederá por la Comunidad Autónoma correspondiente:
-
-a) Cuando el interesado se encuentre en posesión de una titulación que, en virtud del ordenamiento legal vigente, otorgue a su titular atribuciones suficientes para la realización de la actividad;
-
-b) En otro caso, a criterio de la Comunidad Autónoma:
-
-b.1) Mediante superación, ante la propia Comunidad Autónoma, de un examen teórico-práctico sobre los contenidos que se indican en el anexo 1 de esta ITC.
-
-b.2) Mediante certificación realizada por una entidad acreditada para la certificación de personas, según lo establecido en el Real Decreto 2200/1995, de 28 de diciembre, de haber superado un examen teórico-práctico incluyendo los contenidos que se indican en el anexo 1 de esta ITC.
-
-2.3.2 Validez del certificado.
-
-2.3.2.1 El certificado de cualificación individual tendrá validez en todo el territorio nacional por un período inicial de cinco años, pudiéndose renovar por períodos sucesivos iguales al inicial.
-
-2.3.2.2 Para solicitar la renovación, el interesado deberá, antes de los tres meses anteriores a su caducidad:
-
-a.1) Presentar ante la Comunidad Autónoma justificación de haber realizado, como mínimo, dos instalaciones al año, o bien quince instalaciones durante el período de vigencia del certificado que se desea renovar; o bien,
-
-a.2) Superar unas pruebas teórico-prácticas adecuadas a la categoría.
-
-De no procederse así, el certificado se consideraría cancelado y para volver a obtenerlo debería procederse como si se tratase de un nuevo certificado.
-
-2.4 Carné de instalador de gas autorizado.–El carné de instalador de gas es el documento acreditativo por el que la Comunidad Autónoma autoriza a su titular para desarrollar su actividad profesional en el seno de cualquier empresa instaladora de gas autorizada y en todo el territorio nacional.
-
-2.4.1 Obtención del carné.–Para la obtención del carné de instalador de gas el interesado deberá presentar una solicitud ante el órgano competente de la Comunidad Autónoma, acompañada del certificado de cualificación individual adecuado a la categoría correspondiente y de documentación que acredite su inclusión en una empresa instaladora de gas.
-
-Cuando el órgano competente de la Comunidad Autónoma expida el carné de instalador, anotará en el mismo los datos correspondientes a la empresa instaladora de gas y la categoría.
-
-2.4.2 Validez del carné.
-
-2.4.2.1 El carné de Instalador de gas autorizado tendrá validez en todo el territorio nacional por período inicial igual al que figure en el certificado de cualificación individual, debiendo ser actualizado en caso de cambio de empresa instaladora en la que preste sus servicios.
-
-2.4.2.2 Podrá renovarse por períodos sucesivos de cinco años, con ocasión de la renovación del certificado de cualificación individual.
-
-2.4.3 Cancelación del carné de instalador.–Se podrá proceder a la cancelación y retirada del carné de instalador a un instalador autorizado de gas por iniciativa del órgano competente de la Comunidad Autónoma, o a instancia del interesado, por:
-
-a) Modificación sustancial de las condiciones básicas que dieron lugar a su autorización.
-
-b) Incumplimiento de las obligaciones contraídas.
-
-En cualquier caso, el correspondiente expediente de retirada del carné de instalador autorizado se tramitará conforme a la Ley 30/1992, de 26 de diciembre, de régimen jurídico de las Administraciones Públicas y de procedimiento administrativo común.
-
-No obstante, en caso de grave infracción, el órgano competente de la Comunidad Autónoma podrá suspender cautelarmente las actuaciones de un instalador autorizado de gas, mientras se resuelva el expediente, por un periodo no superior a tres meses.
+2.4 (Suprimido)
 
 3. Empresa instaladora de gas
 
-Empresa instaladora de gas es una persona física o jurídica que ejerciendo las actividades de montaje, reparación, mantenimiento y control periódico de instalaciones de gas y cumpliendo los requisitos de esta ITC, se encuentra autorizada mediante el correspondiente certificado de empresa instaladora de gas emitido por el órgano competente de la Comunidad Autónoma, hallándose inscrita en el Registro de Establecimientos Industriales creado al amparo del artículo 21 de la Ley 21/1992, de 16 de julio, de industria, y desarrollado por el Real Decreto 697/1995, de 28 de abril.
+Empresa instaladora de gas es la persona física o jurídica que ejerce las actividades de montaje, reparación, mantenimiento y control periódico de instalaciones de gas, cumpliendo los requisitos establecidos en esta Instrucción Técnica Complementaria.
 
-3.1 Competencias de las empresas instaladoras de gas.–Las competencias de una empresa instaladora de gas serán idénticas a las que se indican en el apartado 2 de esta ITC para los instaladores de gas de la misma categoría.
+Las competencias de una empresa instaladora de gas serán idénticas a las que se indican en el apartado 2 de esta Instrucción Técnica Complementaria para los instaladores de gas de la misma categoría.
 
-3.2 Certificado de empresa instaladora de gas.
+3.1 Antes de comenzar sus actividades como empresas instaladoras de gas, las personas físicas o jurídicas que deseen establecerse en España deberán presentar ante el órgano competente de la comunidad autónoma en la que se establezcan una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare para qué categoría va a desempeñar la actividad y, en su caso, si va a realizar las actividades de puesta en marcha, mantenimiento, reparación y/o adecuación de aparatos, que cumple los requisitos correspondientes que se exigen por esta Instrucción Técnica Complementaria, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento técnico de distribución y utilización de combustibles gaseosos y sus instrucciones técnicas complementarias.
 
-3.2.1 Obtención.–El certificado de empresa instaladora de gas en sus diferentes categorías se obtendrá mediante solicitud dirigida al órgano competente de la Comunidad Autónoma correspondiente a su domicilio social, previa justificación de los requisitos que se indican a continuación, con independencia de las exigencias legales por su condición de empresa:
+3.2 Las empresas instaladoras de gas legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad, una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare para qué categoría va a desempeñar la actividad y, en su caso, si va a realizar las actividades de puesta en marcha, mantenimiento, reparación y/o adecuación de aparatos, que cumple los requisitos correspondientes que se exigen por esta Instrucción Técnica Complementaria, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento técnico de distribución y utilización de combustibles gaseosos y sus instrucciones técnicas complementarias.
 
-3.2.1.1 Para la categoría A:
+Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 1837/2008, de 8 de noviembre, por el que se incorporan al ordenamiento jurídico español la Directiva 2005/36/CE, del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, y la Directiva 2006/100/CE, del Consejo, de 20 de noviembre de 2006, relativas al reconocimiento de cualificaciones profesionales así como a determinados aspectos del ejercicio de la profesión de abogado. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del Real Decreto 1837/2008, de 8 de noviembre.
 
-Disponer al menos de un instalador de gas de categoría A, a jornada completa, incluido en su plantilla.
+3.3 Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
 
-Que la relación entre el número total de obreros especialistas e instaladores de categorías C y B y el de instaladores autorizados de categoría A no sea superior a siete.
+No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.
 
-Haber suscrito una póliza de seguro, aval u otra garantía financiera, otorgada por entidad debidamente autorizada, que cubra los riesgos de su responsabilidad, respecto a daños materiales y personales a terceros por un importe mínimo de 900.000 euros por siniestro. Dicha cantidad se actualizará anualmente en función del índice de precios al consumo certificado por el Instituto Nacional de Estadística. De tal actualización se trasladará justificante al órgano competente de la Comunidad Autónoma.
+3.4 El órgano competente de la comunidad autónoma, asignará, de oficio, un número de identificación a la empresa y remitirá los datos necesarios para su inclusión en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.
 
-Disponer de un local y de los medios técnicos para el desarrollo de sus actividades.
+3.5 De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido a la empresa instaladora de gas, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.
 
-3.2.1.2 Para la categoría B:
+3.6 Al amparo de lo previsto en el apartado 3 del artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.
 
-Disponer al menos de un instalador de gas de categoría B, a jornada completa, incluido en su plantilla.
+En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad y, si procede, se inhabilite temporalmente para el ejercicio de la actividad sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas.
 
-Que la relación entre el número total de obreros especialistas e instaladores de categoría C y el de instaladores autorizados de categoría B no sea superior a cinco.
+3.7 Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de las actividades, deberá ser comunicado por el interesado al órgano competente de la comunidad autónoma donde presentó la declaración responsable en el plazo de un mes.
 
-Haber suscrito una póliza de seguro, aval u otra garantía financiera, otorgada por entidad debidamente autorizada, que cubra los riesgos de su responsabilidad, respecto a daños materiales y personales a terceros por un importe mínimo de 600.000 euros por siniestro. Dicha cantidad se actualizará anualmente en función del índice de precios al consumo certificado por el Instituto Nacional de Estadística. De tal actualización se trasladará justificante al órgano competente de la Comunidad Autónoma.
+3.8 Las empresas instaladoras de gas cumplirán lo siguiente:
 
-Disponer de un local y de los medios técnicos para el desarrollo de sus actividades.
+3.8.1 Requisitos para la categoría A:
 
-3.2.1.3 Para la categoría C:
+a) Disponer de la documentación que identifique a la empresa instaladora de gas, que en el caso de persona jurídica, deberá estar constituida legalmente.
 
-Disponer al menos de un instalador de gas de categoría C, a jornada completa, incluido en su plantilla.
+b) Contar con personal contratado que realice la actividad en condiciones de seguridad, con un mínimo de un instalador de gas de categoría A.
 
-Que la relación entre el número total de obreros especialistas y el de instaladores autorizados de gas de categoría C no sea superior a tres.
+c) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio por un importe mínimo de 900.000 euros por siniestro. Esta cuantía mínima se actualizará por orden del Ministro de Industria, Turismo y Comercio siempre que sea necesario para mantener la equivalencia económica de la garantía.
 
-Haber suscrito una póliza de seguro, aval u otra garantía financiera, otorgada por entidad debidamente autorizada, que cubra los riesgos de su responsabilidad, respecto a daños materiales y personales a terceros por un importe mínimo de 300.000 euros por siniestro. Dicha cantidad se actualizará anualmente en función del índice de precios al consumo certificado por el Instituto Nacional de Estadística. De tal actualización se trasladará justificante al órgano competente de la Comunidad Autónoma.
+d) Disponer de los medios técnicos necesarios para realizar su actividad en condiciones de seguridad.
 
-Disponer de los medios técnicos para el desarrollo de sus actividades.
+3.8.2 Requisitos para la categoría B:
 
-3.2.2 Validez y renovación.
+a) Disponer de la documentación que identifique a la empresa instaladora de gas, que en el caso de persona jurídica, deberá estar constituida legalmente.
 
-3.2.2.1 El certificado de empresa instaladora de gas otorgado por la Comunidad Autónoma tendrá validez en todo el territorio nacional, de acuerdo con lo estipulado en el artículo 13.3 de la Ley 21/1992, de 16 de julio, por un período inicial de cinco años, prorrogables por períodos iguales sucesivos, siempre que se mantengan las condiciones básicas que sirvieron para su concesión.
+b) Contar con personal contratado que realice la actividad en condiciones de seguridad, con un mínimo de un instalador de gas de categoría B.
 
-Cualquier variación en las condiciones y requisitos establecidos para la concesión del certificado deberá ser comunicada al órgano competente de la Comunidad Autónoma en el plazo de un mes.
+c) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio por un importe mínimo de 600.000 euros por siniestro. Esta cuantía mínima se actualizará por orden del Ministro de Industria, Turismo y Comercio siempre que sea necesario para mantener la equivalencia económica de la garantía.
 
-En el certificado constará la advertencia de que el mismo no tendrá validez si la empresa no ha sido inscrita en el Registro de Establecimientos Industriales, creado al amparo del artículo 21 de la Ley 21/1992, de 16 de julio, y desarrollado por el Real Decreto 697/1995, de 28 de abril, para lo cual deberá reservarse un apartado en el certificado para su cumplimentación por el Registro.
+d) Disponer de los medios técnicos necesarios para realizar su actividad en condiciones de seguridad.
 
-3.2.2.2 Para la renovación del certificado la empresa instaladora lo solicitará al órgano competente de la Comunidad Autónoma con anterioridad a los tres meses previos inmediatos a la finalización de su vigencia, acreditando el mantenimiento de las condiciones que dieron lugar a su concesión.
+3.8.3 Requisitos para la categoría C:
 
-3.2.3 Cancelación del certificado.–Se podrá proceder a la cancelación y a la retirada del certificado de empresa instaladora de gas por iniciativa del órgano competente de la Comunidad Autónoma o a instancia de parte interesada por:
+a) Disponer de la documentación que identifique a la empresa instaladora de gas, que en el caso de persona jurídica, deberá estar constituida legalmente.
 
-Incumplimiento de las condiciones básicas que dieron lugar a la autorización.
+b) Contar con personal contratado que realice la actividad en condiciones de seguridad, con un mínimo de un instalador de gas de categoría C.
 
-Incumplimiento de las obligaciones y responsabilidades contraídas.
+c) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio por un importe mínimo de 300.000 euros por siniestro. Esta cuantía mínima se actualizará por orden del Ministro de Industria, Turismo y Comercio siempre que sea necesario para mantener la equivalencia económica de la garantía.
 
-En todo caso, el correspondiente expediente de retirada del certificado de empresa instaladora se tramitará conforme a la Ley 30/1992, de 26 de diciembre.
+d) Disponer de los medios técnicos necesarios para realizar su actividad en condiciones de seguridad.
 
-No obstante, en caso de grave infracción, el órgano competente de la Comunidad Autónoma podrá suspender cautelarmente las actuaciones de una empresa instaladora de gas, mientras se resuelva el expediente, por un periodo no superior a tres meses.
+3.9 La empresa instaladora de gas habilitada no podrá facilitar, ceder o enajenar certificados de instalación no realizadas por ella misma.
 
-3.2.4 Actuaciones de las empresas instaladoras de gas en Comunidades Autónomas distintas de aquella en la que fueron autorizadas.–Para desarrollar su actividad en una Comunidad Autónoma distinta de aquella que les autorizó, las empresas instaladoras de gas deberán comunicarlo al órgano competente de la Comunidad Autónoma correspondiente, aportando copia legal del correspondiente certificado.
+3.10 El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.
 
-3.3 Obligaciones de las empresas instaladoras de gas.–Serán obligaciones de las empresas instaladoras de gas:
+La autoridad competente, en este caso, abrirá un expediente informativo al titular de la instalación, que tendrá quince días naturales a partir de la comunicación para aportar las evidencias o descargos correspondientes.
 
-Disponer del certificado de empresa instaladora de gas en vigor.
+No obstante, en caso de grave infracción, el órgano competente de la comunidad autónoma podrá suspender cautelarmente las actuaciones de una empresa instaladora de gas, mientras se resuelva el expediente, por un periodo no superior a tres meses.
 
-Cumplir con las condiciones mínimas establecidas para la categoría en la que se encuentre inscrita.
+3.11 El órgano competente de la comunidad autónoma dará traslado inmediato al Ministerio de Industria, Turismo y Comercio de la inhabilitación temporal, las modificaciones y el cese de la actividad a los que se refieren los apartados precedentes para la actualización de los datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, tal y como lo establece su normativa reglamentaria de desarrollo.
 
-Tener vigente, en todo momento, la póliza de seguro, aval u otra garantía financiera.
+3.12 Obligaciones de las empresas instaladoras de gas.–Serán obligaciones de las empresas instaladoras de gas:
 
-Emplear para la ejecución de los trabajos instaladores de gas de la categoría correspondiente con el tipo de operación a realizar, que podrán ser auxiliados por operarios especialistas capacitados.
+a) Presentar la declaración responsable que se establece en los apartados 3.1 y 3.2 anteriores.
 
-La correcta ejecución, montaje, modificación, mantenimiento, revisión y reparación de las instalaciones de gas, así como de la inspección periódica de las instalaciones receptoras de gas alimentadas desde redes de distribución, de acuerdo con las prescripciones reglamentarias.
+b) Cumplir con las condiciones mínimas establecidas para la categoría en la que se encuentre inscrita.
 
-Efectuar las pruebas y ensayos reglamentarios bajo su directa responsabilidad, o, en su caso, bajo el control y responsabilidad del técnico director de obra.
+c) Tener vigente, en todo momento, el seguro de responsabilidad civil profesional u otra garantía equivalente.
 
-Emitir los certificados reglamentarios.
+d) Emplear para la ejecución de los trabajos instaladores de gas de la categoría correspondiente con el tipo de operación a realizar, que podrán ser auxiliados por operarios especialistas capacitados.
 
-Asistir a las inspecciones iniciales de las instalaciones establecidas por el reglamento, o las realizadas por la Administración, si fuera requerido por el procedimiento.
+e) La correcta ejecución, montaje, modificación, mantenimiento, revisión y reparación de las instalaciones de gas, así como de la inspección periódica de las instalaciones receptoras de gas alimentadas desde redes de distribución, de acuerdo con las prescripciones reglamentarias.
 
-Garantizar, durante un período de cuatro años, las deficiencias atribuidas a una mala ejecución de las operaciones que les hayan sido encomendadas, así como de las consecuencias que de ellas se deriven.
+f) Efectuar las pruebas y ensayos reglamentarios bajo su directa responsabilidad o, en su caso, bajo el control y responsabilidad del técnico director de obra.
 
-Mantener un registro de los certificados emitidos, a disposición de los órganos competentes de las Comunidades Autónomas.
+g) Emitir los certificados reglamentarios.
 
-4. Requisitos adicionales de los instaladores para la puesta en marcha, mantenimiento, reparación y adecuación de aparatos
+h) Asistir a las inspecciones iniciales de las instalaciones establecidas por el reglamento, o las realizadas por la Administración, si fuera requerido por el procedimiento.
 
-4.1 Los instaladores que pretendan realizar operaciones de puesta en marcha, mantenimiento y reparación de aparatos de gas conducidos (aparatos de tipo B y C) de más de 24,4 kW de potencia útil o de vitrocerámicas a gas de fuegos cubiertos, de acuerdo con lo indicado en el apartado 5.3 de la ITC-ICG 08, deberán, adicionalmente:
+i) Garantizar, durante un período de cuatro años, las deficiencias atribuidas a una mala ejecución de las operaciones que les hayan sido encomendadas, así como de las consecuencias que de ellas se deriven.
 
-a) Poseer acreditación del fabricante a tal fin; o
+j) Mantener un registro de los certificados emitidos, a disposición de los órganos competentes de las comunidades autónomas.
 
-b) Poseer certificación de una entidad acreditada para la certificación de personas, según lo establecido en el Real Decreto 2200/1995, de 28 de diciembre, y específicamente para estas operaciones, sobre la base de los contenidos que se indican en los puntos 1 a 17 del anexo 2 de esta ITC.
+4. Requisitos adicionales de los instaladores para la puesta en marcha, mantenimiento, reparación y adecuación de aparatos.
 
-4.2 Los instaladores de categoría A que pretendan adecuar aparatos por cambio de familia de gas, de acuerdo con lo indicado en el apartado 5.3 de la ITC-ICG 08, deberán poseer una acreditación del fabricante de acuerdo a lo indicado en el punto a) anterior, donde figure explícitamente el reconocimiento de tal capacidad o una certificación de acuerdo a lo indicado en el punto b) anterior, sobre la base del contenido global del anexo 2 de esta ITC.
+4.1 Para poder realizar su actividad, el instalador que pretenda realizar operaciones de puesta en marcha, mantenimiento y reparación de aparatos de gas conducidos (aparatos de tipo B y C) de más de 24,4 kW de potencia útil o de vitrocerámicas a gas de fuegos cubiertos, de acuerdo con lo indicado en el apartado 5.3 de la ITC-ICG 08, deberá cumplir y tendrá que poder acreditar ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control, una de las siguientes situaciones:
+
+a) Poseer acreditación del fabricante a tal fin.
+
+b) Disponer de un título universitario cuyo plan de estudios cubra los contenidos que se indican en los apartados 1 a 17 del anexo 2 de esta Instrucción Técnica Complementaria.
+
+c) Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Catálogo Nacional de Cualificaciones Profesionales, cuyo ámbito competencial incluya los contenidos que se indican en los puntos 1 a 17 del anexo 2 de esta Instrucción Técnica Complementaria.
+
+d) Tener reconocida una competencia profesional adquirida por experiencia laboral, de acuerdo con lo estipulado en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, en las materias que se indican en los apartados 1 a 17 del anexo 2 de esta Instrucción Técnica Complementaria.
+
+e) Poseer una certificación otorgada por entidad acreditada para la certificación de personas, según lo establecido en el Real Decreto 2200/1995, de 28 de diciembre, que incluya los contenidos que se indican en los apartados 1 a 17 del anexo 2 de esta Instrucción Técnica Complementaria.
+
+4.2 Para poder realizar su actividad, el instalador de categoría A o B que pretenda adecuar aparatos por cambio de familia de gas, de acuerdo con lo indicado en el apartado 5.3 de la ITC-ICG 08, deberá cumplir y tendrá que poder acreditar ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control, una de las siguientes situaciones:
+
+a) Poseer acreditación del fabricante a tal fin, donde figure explícitamente el reconocimiento de tal capacidad.
+
+b) Disponer de un título universitario cuyo plan de estudios cubra los contenidos que se indican en el anexo 2 de esta Instrucción Técnica Complementaria.
+
+c) Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Catálogo Nacional de Cualificaciones Profesionales, cuyo ámbito competencial incluya los contenidos que se indican en el anexo 2 de esta Instrucción Técnica Complementaria.
+
+d) Tener reconocida una competencia profesional adquirida por experiencia laboral, de acuerdo con lo estipulado en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, en las materias que se indican en el anexo 2 de esta Instrucción Técnica Complementaria.
+
+e) Poseer una certificación otorgada por entidad acreditada para la certificación de personas, según lo establecido en el Real Decreto 2200/1995, de 28 de diciembre, que incluya los contenidos que se indican en el anexo 2 de esta Instrucción Técnica Complementaria.
+
+> Se modifica por el art. 13, apartados 1 y del 10 al 17, del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimotercero.

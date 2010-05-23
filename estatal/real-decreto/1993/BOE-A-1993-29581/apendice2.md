@@ -4,9 +4,9 @@
 
 1. Los medios materiales de protección contra incendios se someterán al programa mínimo de mantenimiento que se establece en las tablas I y II.
 
-2. Las operaciones de mantenimiento recogidas en la tabla I serán efectuadas por personal de un instalador o un mantenedor autorizado, o por el personal del usuario o titular de la instalación.
+2. Las operaciones de mantenimiento recogidas en la tabla I serán efectuadas por personal de una empresa instaladora o mantenedora autorizada, o por el personal del usuario o titular de la instalación.
 
-3. Las operaciones de mantenimiento recogidas en la tabla II serán efectuadas por personal del fabricante, instalador o mantenedor autorizado para los tipos de aparatos, equipos o sistemas de que se trate, o bien por personal del usuario, si ha adquirido la condición de mantenedor por disponer de medios técnicos adecuados, a juicio de los servicios competentes en materia de industria de la Comunidad Autónoma.
+3. Las operaciones de mantenimiento recogidas en la tabla II serán efectuadas por personal del fabricante, empresa instaladora o mantenedora autorizada para los tipos de aparatos, equipos o sistemas de que se trate, o bien por personal del usuario, si ha adquirido la condición de mantenedor por disponer de medios técnicos adecuados, a juicio de los servicios competentes en materia de industria de la Comunidad Autónoma.
 
 4. En todos los casos, tanto el mantenedor como el usuario o titular de la instalación, conservarán constancia documental del cumplimiento del programa de mantenimiento preventivo, indicando, como mínimo: las operaciones efectuadas, el resultado de las verificaciones y pruebas y la sustitución de elementos defectuosos que se hayan realizado. Las anotaciones deberán llevarse al día y estarán a disposición de los servicios de inspección de la Comunidad Autónoma correspondiente.
 
@@ -43,5 +43,7 @@ Operaciones a realizar por el personal especializado del fabricante o instalador
 | Bocas de incendio equipadas (BIE). | Desmontaje de la manguera y ensayo de ésta en lugar adecuado. Comprobación del correcto funcionamiento de la boquilla en sus distintas posiciones y del sistema de cierre. Comprobación de la estanquidad de los racores y manguera y estado de las juntas. Comprobación de la indicación del manómetro con otro de referencia (patrón) acoplado en el racor de conexión de la manguera. | La manguera debe ser sometida a una presión de prueba de 15 kg/cm2. |
 | Sistemas fijos de extinción: Rociadores de agua. Agua pulverizada. Polvo. Espuma. Anhídrido carbónico. | Comprobación integral, de acuerdo con las instrucciones del fabricante o instalador, incluyendo en todo caso: Verificación de los componentes del sistema, especialmente los dispositivos de disparo y alarma. Comprobación de la carga de agente extintor y del indicador de la misma (medida alternativa del peso o presión). Comprobación del estado del agente extintor. Prueba de la instalación en las condiciones de su recepción. |  |
 | Sistema de abastecimiento de agua contra incendios | Gama de mantenimiento anual de motores y bombas de acuerdo con las instrucciones del fabricante. Limpieza de filtros y elementos de retención de suciedad en alimentación de agua. Prueba del estado de carga de baterías y electrolito de acuerdo con las instrucciones del fabricante. Prueba, en las condiciones de su recepción, con realización de curvas del abastecimiento con cada fuente de agua y de energía. |  |
+
+> Se sustituye lo indicado por el art. 3.6 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.
 
 > Se modifican las tablas 1 y 2 por el punto 10 de la Orden de 16 de abril de 1998. Ref. BOE-A-1998-9961.

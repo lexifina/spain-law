@@ -16,9 +16,9 @@ Tabla 1. Recipientes para gases y líquidos incluidos o asimilados, según lo in
 | Nivel B | O.C.A. 8 años | O.C.A. 6 años | O.C.A. 4 años |
 | Nivel C | No obligatorio | O.C.A. 12 años | O.C.A. 12 años |
 
-Notas:– Los extintores de incendios, como excepción, se someterán exclusivamente a las pruebas de NIVEL C cada cinco años por empresas mantenedoras autorizadas por el Reglamento de instalaciones de protección contra incendios, aprobado por Real Decreto 1942/1993, de 5 de noviembre y tendrán una vida útil de veinte años a partir de la fecha de fabricación.
+Notas:– Los extintores de incendios, como excepción, se someterán exclusivamente a las pruebas de NIVEL C cada cinco años por empresas mantenedoras habilitadas por el Reglamento de instalaciones de protección contra incendios, aprobado por Real Decreto 1942/1993, de 5 de noviembre, y tendrán una vida útil de veinte años a partir de la fecha de fabricación.
 
-– Los recipientes frigoríficos, como excepción, al no tener regulación expresa sobre inspecciones periódicas de los equipos a presión, serán inspeccionados por empresas instaladoras frigoristas autorizadas de acuerdo con el Reglamento de Seguridad para Plantas e Instalaciones Frigoríficas, aprobado por Real Decreto 3099/1977, de 8 de septiembre y no requieren la realización de inspecciones de nivel C, a no ser que el equipo haya sufrido daños, haya estado fuera de servicio por un tiempo superior a dos años, se cambie el fluido por otro de mayor riesgo o haya sufrido una reparación.
+– Los recipientes frigoríficos, como excepción, al no tener regulación expresa sobre inspecciones periódicas de los equipos a presión, serán inspeccionados por empresas instaladoras frigoristas habilitadas de acuerdo con el Reglamento de Seguridad para Plantas e Instalaciones Frigoríficas, aprobado por Real Decreto 3099/1977, de 8 de septiembre, y no requieren la realización de inspecciones de nivel C, a no ser que el equipo haya sufrido daños, haya estado fuera de servicio por un tiempo superior a dos años, se cambie el fluido por otro de mayor riesgo o haya sufrido una reparación.
 
 – En los recipientes de aire comprimido cuyo producto de la presión máxima de servicio en bar por el volumen en litros sea menor de 5.000 podrán realizarse por las empresas instaladoras de equipos a presión.
 
@@ -107,5 +107,7 @@ En la cumplimentación de las placas se indicarán los datos siguientes:
 | Nivel / Sello | Indicación del nivel de inspección B o C y el punzón del Agente que realice la inspección periódica. |
 | Presión de prueba | La presión de la prueba hidrostática del equipo a presión o conjunto. |
 | Categoría y grupo | Categoría del aparato, equipo a presión o conjunto y grupo de fluido, de acuerdo con el Real Decreto 769/1999, de 7 de mayo. |
+
+> Se modifican las dos primeras notas del apartado 1 por el art. 16.19 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 260, de 28 de octubre de 2009. Ref. BOE-A-2009-17080.

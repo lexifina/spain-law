@@ -42,7 +42,7 @@ b) Informe técnico con resultado favorable, de las verificaciones previas a la 
 
 c) Declaración expresa de que la línea ha sido ejecutada de acuerdo con las prescripciones del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus Instrucciones Técnicas Complementarias y, en su caso, con las especificaciones particulares aprobadas a la empresa de transporte y distribución de energía eléctrica.
 
-d) Identificación, en su caso, de la empresa instaladora autorizada responsable de la ejecución de la línea.
+d) Identificación, en su caso, de la empresa instaladora responsable de la ejecución de la línea.
 
 Para obtener la autorización de explotación, el certificado de final de obra se presentará, junto con la solicitud de puesta en servicio, ante el órgano competente de la Administración, conforme a lo prescrito en el título VII del Real Decreto 1955/2000, de 1 de diciembre.
 
@@ -52,15 +52,15 @@ La empresa de transporte o distribución de energía eléctrica será la respons
 
 Las líneas de conexión de centrales de generación, las de consumidores a redes de transporte o distribución, las líneas directas, acometidas y las que por estar destinadas a mas de un consumidor tengan la consideración de redes de distribución estarán sujetas al régimen de autorización administrativa previa debiendo seguir para su puesta en servicio el procedimiento establecido en el título VII del Real Decreto 1955/2000, de 1 de diciembre.
 
-Todas las líneas que no sean propiedad de empresas de transporte y distribución de energía eléctrica deben ser ejecutadas por las empresas instaladoras autorizadas en alta tensión a las que se refiere la ITC-LAT 03. La ejecución de las líneas deberá contar con la dirección de técnicos titulados competentes.
+Todas las líneas que no sean propiedad de empresas de transporte y distribución de energía eléctrica deben ser ejecutadas por las empresas instaladoras en alta tensión a las que se refiere la ITC-LAT 03. La ejecución de las líneas deberá contar con la dirección de técnicos titulados competentes.
 
-Si, en el curso de la ejecución de la instalación, la empresa instaladora autorizada considerase que el proyecto no se ajusta a lo establecido en el reglamento, deberá, por escrito, poner tal circunstancia en conocimiento del director de obra, y del titular. Si no hubiera acuerdo entre las partes, se someterá la cuestión al órgano competente de la Administración, para que éste resuelva en el más breve plazo posible.
+Si, en el curso de la ejecución de la instalación, la empresa instaladora considerase que el proyecto no se ajusta a lo establecido en el reglamento, deberá, por escrito, poner tal circunstancia en conocimiento del director de obra, y del titular. Si no hubiera acuerdo entre las partes, se someterá la cuestión al órgano competente de la Administración, para que éste resuelva en el más breve plazo posible.
 
-Al término de la ejecución de la línea, la empresa instaladora autorizada realizará las verificaciones que resulten oportunas, en función de las características de aquélla, según se especifica en la ITC-LAT 05, contando para ello con el técnico director de obra.
+Al término de la ejecución de la línea, la empresa instaladora realizará las verificaciones que resulten oportunas, en función de las características de aquélla, según se especifica en la ITC-LAT 05, contando para ello con el técnico director de obra.
 
 Las líneas de tensión nominal superior a 30 kV deberán ser objeto de la correspondiente inspección inicial por organismo de control, según lo establecido en la ITC-LAT 05.
 
-Finalizadas las obras y realizadas las verificaciones e inspección inicial a que se refieren los puntos anteriores, la empresa instaladora autorizada deberá emitir un certificado de instalación, según modelo establecido por la Administración, que deberá comprender, al menos, lo siguiente:
+Finalizadas las obras y realizadas las verificaciones e inspección inicial a que se refieren los puntos anteriores, la empresa instaladora deberá emitir un certificado de instalación, según modelo establecido por la Administración, que deberá comprender, al menos, lo siguiente:
 
 a) Los datos referentes a las principales características técnicas de la línea y de su instalación.
 
@@ -68,9 +68,9 @@ b) Informe técnico con resultado favorable, de las verificaciones previas a la 
 
 c) Declaración expresa de que la línea ha sido ejecutada de acuerdo con las prescripciones del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus instrucciones técnicas complementarias ITC-LAT 01 a 09 y, cuando se prevea que las líneas vayan a ser cedidas a empresas de transporte o distribución de energía eléctrica, con las especificaciones particulares aprobadas a la empresa de transporte y distribución de energía eléctrica.
 
-d) Identificación de la empresa instaladora autorizada responsable de la ejecución de la línea.
+d) Identificación de la empresa instaladora responsable de la ejecución de la línea.
 
-Antes de la puesta en servicio de la línea, el titular de la misma deberá presentar ante el órgano competente de la Administración, al objeto de su inscripción en el correspondiente registro, el certificado de instalación, al que se acompañará el proyecto, así como el certificado de dirección facultativa de obra firmado por el correspondiente técnico titulado competente, el certificado acreditativo de la existencia de un contrato de mantenimiento suscrito con una empresa instaladora autorizada para líneas de alta tensión y, en su caso, el certificado de inspección inicial, con calificación de resultado favorable, del organismo de control.
+Antes de la puesta en servicio de la línea, el titular de la misma deberá presentar ante el órgano competente de la Administración, al objeto de su inscripción en el correspondiente registro, el certificado de instalación, al que se acompañará el proyecto, así como el certificado de dirección facultativa de obra firmado por el correspondiente técnico titulado competente, el certificado acreditativo de la existencia de un contrato de mantenimiento suscrito con una empresa instaladora para líneas de alta tensión y, en su caso, el certificado de inspección inicial, con calificación de resultado favorable, del organismo de control.
 
 Cuando el titular de la línea precise conectarse a la red de una empresa suministradora de energía eléctrica, deberá solicitar el suministro a la empresa suministradora mediante entrega del correspondiente ejemplar del certificado de instalación de la línea. En este caso, la empresa suministradora podrá realizar las verificaciones que considere oportunas, en lo que se refiere al cumplimiento de las prescripciones del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus Instrucciones Técnicas Complementarias, así como del proyecto, como requisito previo para la conexión de la línea a la red eléctrica.
 
@@ -87,3 +87,5 @@ Las instalaciones de líneas promovidas por terceros, que posteriormente deban s
 Antes de la cesión, la empresa eléctrica podrá realizar las verificaciones que considere oportunas, en lo que se refiere al cumplimiento de las prescripciones del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus Instrucciones Técnicas Complementarias y, cuando corresponda, de sus especificaciones particulares, como requisito previo para la aceptación de la línea, antes de la conexión a su red eléctrica. La empresa eléctrica aceptará por escrito la cesión de la titularidad de la línea cedida.
 
 Si los resultados de las verificaciones no son favorables, la empresa eléctrica deberá extender un acta, en la que conste el resultado de las comprobaciones, la cual deberá ser firmada igualmente por el autor del proyecto y el propietario de la línea, dándose por enterados. Dicha acta, en el plazo más breve posible, se pondrá en conocimiento del órgano competente de la Administración, quien determinará lo que proceda.
+
+> Se sustituye la expresión indicada por el art. 15.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimoquinto.

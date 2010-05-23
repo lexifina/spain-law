@@ -120,7 +120,7 @@ Todos los aparatos deberán llevar en un lugar visible una placa de característ
 
 5.1 Autorización administrativa.–La instalación de los aparatos de gas no precisa autorización administrativa.
 
-5.2 Conexión de aparatos de gas.–La conexión de los aparatos de gas a instalaciones receptoras se deberá realizar según lo indicado en la norma UNE 60670-7, y siempre por un instalador autorizado, salvo cuando dicha conexión se haga a través de un tubo flexible elastomérico con abrazadera, en cuyo caso podrá ser realizada por el usuario.
+5.2 Conexión de aparatos de gas.–La conexión de los aparatos de gas a instalaciones receptoras se deberá realizar según lo indicado en la norma UNE 60670-7, y siempre por un instalador, salvo cuando dicha conexión se haga a través de un tubo flexible elastomérico con abrazadera, en cuyo caso podrá ser realizada por el usuario.
 
 Los aparatos no conectados a una instalación receptora deberán cumplir las condiciones de ubicación indicadas en el capítulo 4 de la norma UNE 60670-6.
 
@@ -132,10 +132,12 @@ a) Por el servicio técnico de asistencia del fabricante, siempre que posea un s
 
 b) Por el servicio de asistencia técnica del fabricante o una empresa instaladora de gas, para el resto de aparatos.
 
-5.3.2 La adecuación de aparatos por cambio de familia de gas podrá ser realizada por el servicio técnico del fabricante siempre que posea un sistema de calidad certificado o por instaladores de gas de categoría A que cumplan los requisitos indicados en el capítulo 4 de la ITC-ICG 09. Para este fin, siempre se utilizarán componentes de características técnicas iguales a las aprobadas en la certificación de tipo.
+5.3.2 La adecuación de aparatos por cambio de familia de gas podrá ser realizada por el servicio técnico del fabricante siempre que posea un sistema de calidad certificado o por instaladores de gas de categoría A o B que cumplan los requisitos indicados en el capítulo 4 de la ITC-ICG 09. Para este fin, siempre se utilizarán componentes de características técnicas iguales a las aprobadas en la certificación de tipo.
 
 5.4 Comprobaciones para la puesta en marcha de los aparatos de gas.–Las comprobaciones mínimas a realizar para la puesta en marcha de los aparatos de gas conectados a instalaciones receptoras, serán las indicadas en la norma UNE 60670-10, junto con las indicaciones adicionales del fabricante.
 
 El agente que realice la puesta en marcha de un aparato de gas deberá emitir y entregar al cliente un certificado de puesta en marcha, conforme al contenido del modelo del anexo 4 de esta ITC. Asimismo, archivará dicha documentación y la mantendrá a disposición del órgano competente de la Comunidad Autónoma por un período mínimo de cinco años.
 
 5.5 Comunicación a la Administración.–No se precisa ninguna comunicación.
+
+> Se sustituye la expresión «instalador autorizado» por «instalador» y se modifica el apartado 5.3.2 por el art. 13.1 y 9 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimotercero.

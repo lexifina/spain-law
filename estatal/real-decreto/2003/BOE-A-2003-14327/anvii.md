@@ -16,19 +16,21 @@ Categoría A: habilita a su titular para el montaje y manejo de grúas móviles 
 
 Categoría B: habilita a su titular para el montaje y manejo de grúas móviles autopropulsadas de más de 130 t de carga nominal.
 
-3. Requisitos para la obtención del carné
+3. Requisitos para la obtención del carné.
 
-La obtención del carné requerirá la concurrencia de los siguientes requisitos:
+La obtención del carné se puede realizar por dos vías. Por un lado requerirá la concurrencia de los siguientes requisitos:
 
-a) Estar en posesión del título de estudios primarios.
+a) Estar en posesión del título de graduado en Educación Secundaria Obligatoria.
 
-b) Tener cumplidos 18 años en el momento de realizar la solicitud del curso que se cita en el párrafo c).
+b) Tener cumplidos 18 años en el momento de realizar la solicitud del curso que se cita en el apartado c).
 
 c) La superación de un curso teórico-práctico impartido por una entidad acreditada por el órgano competente de la comunidad autónoma.
 
 d) La superación de un examen teórico-práctico realizado por el órgano competente de la comunidad autónoma en la que radique la entidad que impartió el curso.
 
-e) Superar un examen médico, psicotécnico y físico, específico para este tipo de actividades, que incluye examen sobre agudeza visual, sentido de la orientación, equilibrio y agudeza auditiva.
+e) Superar un examen médico, psicotécnico y físico, específico para este tipo de actividad, que incluye examen de agudeza visual, sentido de la orientación, equilibrio y agudeza auditiva.
+
+Por otro lado, se obtendrá directamente el carné de operador de grúa móvil autopropulsada cuando se disponga de un título de formación profesional o de un certificado de profesionalidad incluido en el Catálogo Nacional de Cualificaciones Profesionales, cuyo ámbito competencial coincida con las materias objeto del Reglamento de aparatos de elevación y manutención de los mismos, aprobado por el Real Decreto 2291/1985, de 8 de noviembre, y de esta Instrucción Técnica Complementaria. También, en este caso, superar un examen médico, psicotécnico y físico, específico para este tipo de actividades, que incluye examen sobre agudeza visual, sentido de la orientación, equilibrio y agudeza auditiva.
 
 4. Curso teórico-práctico
 
@@ -138,3 +140,7 @@ Elementos de grúas, motores, cables, rodamientos, manuales de mantenimiento, ap
 6.1 El carné de operador de grúa móvil autopropulsada será expedido por el órgano competente de la comunidad autónoma, una vez acreditado por el solicitante el cumplimiento de los requisitos establecidos en el apartado 3 de este anexo.
 
 6.2 El carné tendrá una validez de cinco años, transcurridos los cuales podrá ser objeto de renovación por períodos quinquenales, previa acreditación del requisito establecido en el apartado 3.1.e) de este anexo.
+
+> Se modifica el apartado 3 por el art. 9.7 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 207, de 26 de agosto de 2010. Ref. BOE-A-2010-13429.

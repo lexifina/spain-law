@@ -62,7 +62,7 @@ Instrucciones de utilización, mantenimiento y emergencia.
 
 El proyecto de la instalación de almacenamiento de GLP en establecimientos o edificios no industriales podrá desarrollarse como parte del proyecto general del edificio o establecimiento, o bien en un proyecto específico. En caso de realizarse un proyecto específico, éste será redactado y firmado por un técnico facultativo competente, y deberá atenerse a los aspectos básicos reflejados en el proyecto general del edificio o establecimiento. Cuando se trate de edificios o establecimientos de nueva planta o rehabilitados, el autor del proyecto específico, en caso de ser distinto del que realice el proyecto general, deberá actuar coordinadamente con éste.
 
-5.3 Instalaciones que no necesitan proyecto.–Se ejecutarán conforme a una memoria técnica que proporcione los principales datos y características de diseño de las instalaciones, suscrita por técnico facultativo competente o instalador autorizado para la instalación de depósitos fijos de GLP, y que constará de los siguientes datos:
+5.3 Instalaciones que no necesitan proyecto.–Se ejecutarán conforme a una memoria técnica que proporcione los principales datos y características de diseño de las instalaciones, suscrita por técnico facultativo competente o instalador para la instalación de depósitos fijos de GLP, y que constará de los siguientes datos:
 
 Datos del titular.
 
@@ -130,7 +130,7 @@ El mantenimiento y la revisión periódica de las instalaciones se realizarán d
 
 6.1 Mantenimiento.–El titular de la instalación o en su defecto los usuarios, serán los responsables del mantenimiento, conservación, explotación y buen uso de la instalación de tal forma que se halle permanentemente en disposición de servicio, con el nivel de seguridad adecuado. Asimismo atenderán las recomendaciones que, en orden a la seguridad, les sean comunicadas por el suministrador.
 
-Para ello, deberán disponer de un contrato de mantenimiento suscrito con una empresa instaladora autorizada, que disponga de un servicio de atención de urgencias permanente, por el que ésta se encargue de conservar las instalaciones en el debido estado de funcionamiento, de la realización de las revisiones dentro de las prescripciones contenidas en esta norma y de forma especial, del funcionamiento de la protección contra la corrosión, protección catódica y del control anual del potencial de protección o trimestral en el caso de corriente impresa.
+Para ello, deberán disponer de un contrato de mantenimiento suscrito con una empresa instaladora, que disponga de un servicio de atención de urgencias permanente, por el que ésta se encargue de conservar las instalaciones en el debido estado de funcionamiento, de la realización de las revisiones dentro de las prescripciones contenidas en esta norma y de forma especial, del funcionamiento de la protección contra la corrosión, protección catódica y del control anual del potencial de protección o trimestral en el caso de corriente impresa.
 
 Para cada instalación existirá un Libro de Mantenimiento o bien, si la empresa instaladora encargada del mantenimiento dispone de acreditación de su sistema de gestión de calidad implantado, un archivo documental con copia de las actas de todas las operaciones realizadas, que deberá poder ser consultado por el órgano competente de la Comunidad Autónoma, cuando éste lo considere conveniente.
 
@@ -263,7 +263,7 @@ A la vista de la documentación presentada y si ésta fuera favorable, el organi
 
 6.6 Depósitos provisionales.–Durante la realización de las pruebas periódicas de presión o en reparaciones que conlleven el vaciado de los depósitos se podrán utilizar envases o depósitos estacionarios, si fuera necesario para seguir dando servicio a la instalación receptora o de distribución. El proyecto para la legalización del depósito, si es oportuno, se realizará solamente la primera vez, no siendo necesario la realización de un proyecto cada vez que se instale el depósito estacionario provisional. En cualquier caso, los depósitos provisionales deberán cumplir los siguientes requisitos:
 
-La instalación será realizada por una empresa instaladora autorizada.
+La instalación será realizada por una empresa instaladora.
 
 El volumen de almacenamiento no excederá de 5 m3.
 
@@ -280,3 +280,5 @@ Una instalación deberá ser retirada de servicio por deseo expreso del titular,
 Se entenderá que una instalación cesa en su actividad si transcurren dos años consecutivos sin que se efectúe consumo alguno, no exista contrato de mantenimiento de la misma o transcurran cinco años sin la realización del mantenimiento oportuno, salvo causas de fuerza mayor.
 
 En el caso en que una instalación sea retirada de servicio, el titular de la instalación será responsable de encargar la realización y certificación a una empresa instaladora del inertizado con nitrógeno, u otro gas inerte, o del desgasificado mediante agua de la misma. Asimismo, el titular deberá entregar copia de dicho certificado al órgano competente de la Comunidad Autónoma.
+
+> Se sustituye la expresión «empresa instaladora autorizada» por «empresa instaladora» e «instalador autorizado» por «instalador» por el art. 13.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimotercero.

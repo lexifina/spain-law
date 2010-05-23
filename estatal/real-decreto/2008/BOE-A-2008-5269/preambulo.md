@@ -1,1 +1,3 @@
+Se sustituye la expresión "empresa instaladora autorizada" por "empresa instaladora" por el art. 15.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimoquinto.
+
 > Incluye la corrección de erratas publicada en BOE núm. 120, de 17 de mayo de 2008. Ref. BOE-A-2008-8664 y la corrección de errores publicada en BOE núm. 174, de 19 de julio de 2008. Ref. BOE-A-2008-12385.

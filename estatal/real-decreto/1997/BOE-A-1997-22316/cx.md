@@ -66,11 +66,11 @@ Se inspeccionarán cada diez años todas aquellas instalaciones que necesiten pr
 
 La inspección consistirá, fundamentalmente, en la comprobación del cumplimiento, por parte del titular responsable de la instalación, de haberse realizado en tiempo y forma, las revisiones, pruebas, verificaciones periódicas u ocasionales indicadas para cada tipo de instalación en la presente instrucción. El procedimiento a seguir, sin que éste tenga carácter limitativo, será el siguiente:
 
-1. Identificación del establecimiento o instalación respecto a los datos de su titular, emplazamiento, registros y resoluciones administrativas que dieron lugar a la autorización de puesta en marcha.
+1. Identificación del establecimiento o instalación respecto a los datos de su titular, emplazamiento y registros.
 
-2. Comprobar de no haberse realizado ampliaciones o modificaciones que alteren las condiciones de seguridad por las que se aprobó la instalación inicial, o que en caso de haberse producido éstas, lo han sido con la debida autorización administrativa.
+2. Comprobación de que no se han realizado ampliaciones o modificaciones que alteren las condiciones de seguridad por las que se aprobó la instalación inicial, o que en caso de haberse producido éstas, se ha presentado ante el órgano competente de la comunidad autónoma la documentación correspondiente según lo establecido en el Reglamento de instalaciones petrolíferas, aprobado por el Real Decreto 2085/1994, de 20 de octubre.
 
-3. Comprobación de que la forma y capacidad del almacenamiento, así como la clase de los productos almacenados, siguen siendo los mismos que los autorizados inicialmente, o como consecuencia de ampliaciones o modificaciones posteriores autorizadas.
+3. Comprobación de que la forma y capacidad del almacenamiento, así como la clase de los productos almacenados, siguen siendo los mismos que los declarados inicialmente, o como consecuencia de ampliaciones o modificaciones posteriores.
 
 4. Comprobación de las distancias de seguridad y medidas correctoras.
 
@@ -87,6 +87,8 @@ La inspección consistirá, fundamentalmente, en la comprobación del cumplimien
 10. Se comprobará que se han realizado, en tiempo y forma, las revisiones y pruebas periódicas.
 
 Del resultado de la inspección se levantará un acta en triplicado ejemplar, la cual será suscrita por el técnico inspector de la Administración o del organismo de control autorizado actuante, invitando al titular o representante autorizado por éste a firmarla, expresando así su conformidad o las alegaciones que en su derecho corresponda, quedando un ejemplar en poder del titular, otro en poder del técnico inspector y el tercero para unirlo al expediente que figure en los archivos del organismo de la Administración competente a los efectos que procedan.
+
+> Se modifican los apartados 39.1, 2 y 3 por el art. 6.10 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#asexto
 
 > Se modifica por el art. 2, según se indica en el Anexo I, del Real Decreto 1523/1999, de 1 de octubre. Ref. BOE-A-1999-20723
 

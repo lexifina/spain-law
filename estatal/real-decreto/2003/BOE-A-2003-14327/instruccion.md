@@ -222,29 +222,67 @@ Las grúas móviles autopropulsadas objeto de esta ITC deberán cumplir con las 
 
 ## 4. Procedimiento
 
-1. Antes de que se realice la primera utilización de la grúa móvil autopropulsada, a partir de la entrada en vigor de esta ITC, su titular deberá presentar por duplicado, ante el órgano competente de la comunidad autónoma en que radique su domicilio social, una declaración de adecuación individualizada del parque de grúas móviles autopropulsadas que integren la empresa.
+1. Antes de que se realice la primera utilización de la grúa móvil autopropulsada, su titular deberá presentar ante el órgano competente de la comunidad autónoma en que radique su domicilio social, o en su caso donde desee realizar la primera utilización de la grúa móvil autopropulsada en territorio español, una declaración de adecuación individualizada del parque de grúas móviles autopropulsadas que integren la empresa o vayan a utilizarse.
 
-Estas declaraciones de adecuación, en el caso de grúas que no están en posesión del marcado «CE», contendrán como mínimo la información indicada en el anexo II, incluyendo para el resto de las grúas únicamente los párrafos a) y b) del señalado anexo II y la declaración «CE» de conformidad.
+Estas declaraciones de adecuación, en el caso de grúas que no están en posesión del marcado ‘‘CE’’, contendrán como mínimo la información indicada en el anexo II, incluyendo para el resto de las grúas únicamente los párrafos a) y b) del señalado anexo II y la declaración ‘‘CE’’ de conformidad.
 
-2. El órgano competente de dicha comunidad autónoma registrará la declaración «CE» de conformidad o la declaración de adecuación de cada grúa, asignándole un número en el Registro de aparatos de elevación (grúas móviles autopropulsadas), sellando una copia en la que se incluirá el número de registro asignado, copia que devolverá a la empresa propietaria, la cual deberá conservarla para las posteriores inspecciones periódicas u otras comprobaciones que fuesen pertinentes.
+Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
 
-En el caso de que el titular de la grúa móvil autopropulsada realice el cambio de su domicilio social a otra comunidad autónoma, deberá proceder al registro de las máquinas en la comunidad autónoma correspondiente al nuevo domicilio, pudiendo recabar los datos registrales que fueron la base del primer registro, que se respetarán en su integridad.
+La presentación de la declaración de adecuación realizada ante el órgano competente de la comunidad autónoma habilita, desde el momento de su presentación, para la utilización de la grúa móvil autopropulsada en todo el ámbito estatal.
+
+2. El órgano competente de dicha comunidad autónoma registrará la declaración ‘‘CE’’ de conformidad o la declaración de adecuación de la grúa asignándole un número de identificación de la misma, el cual deberá conservarse para posteriores inspecciones periódicas y otras comprobaciones que fuesen pertinentes.
+
+La comunidad autónoma remitirá al Ministerio de Industria, Turismo y Comercio los datos necesarios para la inclusión de la grúa móvil autopropulsada en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.
 
 3. La fecha de la declaración «CE» de conformidad o de fabricación que figure en la declaración de adecuación, en su caso, constituirá la fecha de inicio a tener en cuenta para la realización de las inspecciones oficiales en los plazos que se fijan en el apartado 6.
 
 ## 5. Mantenimiento y revisiones
 
-Las grúas móviles autopropulsadas objeto de esta ITC serán revisadas de acuerdo con lo establecido por el fabricante de la grúa móvil o de los conjuntos incorporados a ésta, en los manuales específicos para revisión y mantenimiento, cumpliendo lo establecido en el capítulo 5 de la norma UNE 58-508-78.
+1. Las grúas móviles autopropulsadas objeto de esta Instrucción Técnica Complementaria serán revisadas de acuerdo con lo establecido por el fabricante de la grúa móvil o de los conjuntos incorporados a ésta, en los manuales específicos para revisión y mantenimiento, cumpliendo lo establecido en el capítulo 5 de la norma UNE 58-508-78.
 
 El mantenimiento y revisiones de las grúas serán responsabilidad del propietario.
 
-Las revisiones se efectuarán por las empresas conservadoras que cumplan lo establecido en los artículos 10 y 12 del Reglamento de aparatos de elevación y manutención.
+2. Las revisiones se efectuarán por las empresas conservadoras que cumplan lo establecido en los artículos 10 y 12 del Reglamento de Aparatos de Elevación y Manutención aprobado por el Real Decreto 2291/1985, de 8 de noviembre.
 
-Dichas empresas conservadoras deberán contar en su plantilla y a jornada completa, en la comunidad autónoma en que desarrollen sus actividades, como mínimo, con un operario cualificado por cada 30 grúas o fracción a conservar, de los cuales al menos uno dispondrá de carné de operador de grúa móvil autopropulsada correspondiente a la categoría de las grúas a conservar. Estas empresas deberán inscribirse en el Registro de establecimientos industriales, y dispondrán de local con equipamiento necesario.
+3. Antes de comenzar sus actividades como empresas conservadoras, las personas físicas o jurídicas que deseen establecerse en España deberán presentar ante el órgano competente de la comunidad autónoma en la que se establezcan una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria y su reglamento correspondiente, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que las operaciones de revisión de las grúas se efectúan de acuerdo con las normas y requisitos que se establecen en esta Instrucción Técnica Complementaria.
 
-La responsabilidad civil de aquéllas deberá estar cubierta mediante una póliza de seguros que cubra el riesgo derivado de sus actuaciones, o mediante aval u otra garantía suficiente contratada con entidad debidamente autorizada, con una cobertura mínima, por siniestro, de 1.000.000 de euros, la cual será revisada anualmente de acuerdo con las revisiones del índice de precios de consumo publicado por el Instituto Nacional de Estadística para dicho período.
+4. Las empresas conservadoras legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria y su reglamento correspondiente, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que las operaciones de revisión de las grúas se efectúan de acuerdo con las normas y requisitos que se establecen en esta Instrucción Técnica Complementaria.
 
-Las revisiones que deba efectuar la empresa conservadora se realizarán, como mínimo, cada seis meses, conforme a las prescripciones de la norma UNE 58-508-78, y deberá quedar reflejado el resultado de esta revisión en el libro historial de la grúa móvil autopropulsada.
+Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 1837/2008, de 8 de noviembre, por el que se incorporan al ordenamiento jurídico español la Directiva 2005/36/CE, del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, y la Directiva 2006/100/CE, del Consejo, de 20 de noviembre de 2006, relativas al reconocimiento de cualificaciones profesionales así como a determinados aspectos del ejercicio de la profesión de abogado. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del Real Decreto 1837/2008, de 8 de noviembre.
+
+5. Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
+
+No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.
+
+6. El órgano competente de la comunidad autónoma, asignará, de oficio, un número de identificación a la empresa y remitirá los datos necesarios para su inclusión en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.
+
+7. De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido a la empresa conservadora, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.
+
+8. Al amparo de lo previsto en el apartado 3 del artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.
+
+En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad y, si procede, se inhabilite temporalmente para el ejercicio de la actividad sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas.
+
+9. Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de las actividades, deberá ser comunicado por el interesado al órgano competente de la comunidad autónoma donde presentó la declaración responsable en el plazo de un mes.
+
+10. Las empresas conservadoras cumplirán los siguientes requisitos:
+
+a) Disponer de la documentación que identifique a la empresa conservadora, que en el caso de persona jurídica, deberá estar constituida legalmente.
+
+b) Disponer de los medios técnicos necesarios para realizar su actividad en condiciones de seguridad.
+
+c) Contar con personal contratado que realice la actividad en condiciones de seguridad y en número suficiente para atender todas las grúas que deban conservar.
+
+d) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio con una cobertura mínima, por siniestro, de 1.000.000 de euros. Esta cuantía mínima se actualizará por orden del Ministro de Industria, Turismo y Comercio, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+11. La empresa conservadora habilitada no podrá facilitar, ceder o enajenar certificados de actuaciones no realizadas por ella misma.
+
+12. El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.
+
+La autoridad competente, en este caso, abrirá un expediente informativo al titular de la instalación, que tendrá quince días naturales a partir de la comunicación para aportar las evidencias o descargos correspondientes.
+
+13. El órgano competente de la comunidad autónoma dará traslado inmediato al Ministerio de Industria, Turismo y Comercio de la inhabilitación temporal, las modificaciones y el cese de la actividad a los que se refieren los apartados precedentes para la actualización de los datos en el Registro Integrado Industrial, regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, tal y como lo establece su normativa reglamentaria de desarrollo.
+
+14. Las revisiones que deba efectuar la empresa conservadora se realizarán, como mínimo, cada seis meses, conforme a las prescripciones de la norma UNE 58-508-78, y deberá quedar reflejado el resultado de esta revisión en el libro historial de la grúa móvil autopropulsada.
 
 ## 6. Inspecciones oficiales
 
@@ -345,3 +383,7 @@ La eliminación de obstáculos que impliquen riesgos, incluidas las líneas elé
 La comprobación de que el terreno sobre el que va a trabajar y circular la grúa tenga la resistencia suficiente.
 
 Ejecutar, con personas debidamente formadas, las técnicas y labores de estrobaje y señalización.
+
+> Se modifican los apartados 4.1, 4.2 y 5, por el art. 9.5 y 9.6 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.
+
+> Redactado el apartado 5.4 conforme a la corrección de errores publicada en BOE núm. 149, de 19 de junio de 2010. Ref. BOE-A-2010-9716.
