@@ -1,8 +1,12 @@
 ## ANEXO I
 
+> Véanse los Anexos II, IX y X del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, que contienen los conceptos básicos. Ref. BOE-A-1999-1826#iia.
+
 A los efectos de esta Ley y sus disposiciones complementarias, se entiende por:
 
 1. Conductor: Persona que, con las excepciones del párrafo segundo del apartado 2 de este artículo, maneja el mecanismo de dirección o va al mando de un vehículo, o a cuyo cargo está un animal o animales. En vehículos que circulen en función de aprendizaje de la conducción, es conductor la persona que está a cargo de los mandos adicionales.
+
+1.bis. Conductor habitual.–A los exclusivos efectos previstos en esta Ley será la persona que, contando con el permiso o licencia de conducción necesario, que estará inscrito en el Registro de Conductores e Infractores, ha sido designada por el titular de un vehículo, previo su consentimiento, en virtud de lo dispuesto en el artículo 9 bis, por ser aquella que de manera usual o con mayor frecuencia conduce dicho vehículo.
 
 2. Peatón: Persona que, sin ser conductor, transita a pie por las vías o terrenos a que se refiere el artículo 2.
 
@@ -16,7 +20,7 @@ Son también peatones quienes empujan o arrastran un coche de niño o de impedid
 
 6. Bicicleta: Ciclo de dos ruedas.
 
-7. Ciclomotor:tienen la condición de ciclomotores los vehículos que se definen a continuación:
+7. Ciclomotor: tienen la condición de ciclomotores los vehículos que se definen a continuación:
 
 a) Vehículo de dos ruedas, provistos de un motor de cilindrada no superior a 50 cm3, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h.
 
@@ -211,6 +215,8 @@ c) Constar de distintas calzadas para cada sentido de circulación, separadas en
 79. Glorieta. Se entiende por glorieta un tipo especial de intersección caracterizado por que los tramos que en él confluyen se comunican a través de un anillo en el que se establece una circulación rotatoria alrededor de una isleta central. No son glorietas propiamente dichas las denominadas glorietas partidas en las que dos tramos, generalmente opuestos, se conectan directamente a través de la isleta central, por lo que el tráfico pasa de uno a otro y no la rodea.
 
 80. Carril para vehículos con alta ocupación. Es aquel especialmente reservado o habilitado para la circulación de los vehículos con alta ocupación.
+
+> Se añade el apartado 1 bis por el art. único.15 de la Ley 18/2009, de 23 de noviembre. Ref. BOE-A-2009-18732
 
 > Se numera como anexo I por el art. único.26 de la Ley 17/2005, de 19 de julio. Ref. BOE-A-2005-12458
 

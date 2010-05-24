@@ -215,6 +215,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional sexta](dasexta.md)
 - [Disposición adicional séptima](daseptima.md)
 - [Disposición adicional octava](daoctava.md)
+- [Disposición adicional octava bis](daoctavabis.md)
 - [Disposición adicional novena](danovena.md)
 - [Disposición adicional décima](dadecima.md)
 - [Disposición adicional undécima](daundecima.md)
