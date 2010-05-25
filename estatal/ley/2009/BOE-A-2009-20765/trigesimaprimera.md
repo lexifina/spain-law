@@ -17,3 +17,5 @@ d) Los organismos públicos a que se refiere el artículo 4.1.g de la Ley 30/200
 Dos. Las Agencias estatales que se creen en total durante el ejercicio 2010 no podrán exceder, en ningún caso, de cuatro.
 
 La creación de nuevas Agencias prevista en el apartado Uno de esta disposición, en la disposición adicional tercera de la Ley 28/2006, de 18 de julio, de Agencias estatales para la mejora de los servicios públicos, y las previstas o que se prevean en otras normas, deberá ir precedida de un informe conjunto de los Ministerios de la Presidencia y de Economía y Hacienda, de carácter preceptivo y vinculante que determine la oportunidad de su creación, así como los efectos de dicha creación sobre el gasto público teniendo en cuenta la política del Gobierno y la necesidad de contención del gasto público.
+
+> Se suspende para el 2010 la creación de Agencias Estatales por la disposición adicional 5 del Real Decreto-ley 8/2010, de 20 de mayo. Ref. BOE-A-2010-8228.

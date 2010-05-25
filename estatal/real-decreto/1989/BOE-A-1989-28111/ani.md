@@ -114,6 +114,8 @@ Número 7. Folios de matriz.-Los folios de matriz, a partir del quinto folio inc
 
 En los casos de subrogación y novación modificativa de préstamos hipotecarios acogidas a la Ley 2/1994, de 30 de marzo, sobre Subrogación y Modificación de Préstamos Hipotecarios, los folios de la matriz no devengarán cantidad alguna hasta el décimo folio inclusive.
 
+> Véase la disposición adicional 8.1.1 del Real Decreto-ley 8/2010 de 20 de mayo. Ref. BOE-A-2010-8228., que aplica una rebaja del 5% al importe de los derechos notariales resultantes de la aplicación del número 2.1
+
 > Se convierten a euros las cuantías contempladas por el art. 1 de la Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
 
 > Se convierten a euros las cuantías contempladas por el art. 1 de la Instrucción de 14 de diciembre de 2001. Ref. BOE-A-2001-24394.

@@ -1,3 +1,5 @@
 ## Disposición adicional primera. Nacimientos y adopciones que dan derecho a la presente ayuda.
 
-Lo dispuesto en la presente Ley solamente resultará de aplicación respecto de los nacimientos que se hubieran producido a partir de 1 de julio de 2007, así como de las adopciones que se hubieran constituido a partir de dicha fecha.
+(Derogada)
+
+> Se deroga con efectos desde el 1 de enero de 2011, por la disposición derogatoria única.1 b) del Real Decreto-Ley 8/2010, de 20 de mayo. Ref. BOE-A-2010-8228

@@ -22,6 +22,8 @@ Gozarán de la bonificación del 50 por 100 de los derechos que resulten por apl
 
 En todo caso, el arancel global aplicable regulado en este número no podrá superar los 2.181,673939 euros.
 
+> Véase la disposición adicional 8.1.3 del Real Decreto-ley 8/2010 de 20 de mayo. Ref. BOE-A-2010-8228., que aplica una rebaja del 5% al importe de los derechos de los registradores.
+
 > Se sustituye la conversión a euros de las cuantías contempladas por el art. 16 de la Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
 
 > Se convierten a euros las cuantías contempladas por el art. 16 de la Instrucción de 14 de diciembre de 2001. Ref. BOE-A-2001-24394.

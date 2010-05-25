@@ -492,6 +492,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional trigésimo primera](datrigesimoprimera.md)
 - [Disposición adicional trigésimo segunda](datrigesimosegunda.md)
 - [Disposición adicional trigésimo tercera](datrigesimotercera.md)
+- [Disposición adicional trigésimo cuarta](datrigesimocuarta.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)

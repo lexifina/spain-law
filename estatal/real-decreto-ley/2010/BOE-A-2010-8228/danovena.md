@@ -1,0 +1,3 @@
+## Disposición adicional novena. Normas especiales en relación con determinadas entidades del sector público a efectos de la aplicación de la reducción salarial prevista en este Real Decreto-ley con efectos 1 de junio de 2010.
+
+Lo dispuesto en la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para 2010, en la redacción dada por el presente Real Decreto-Ley en lo relativo a la reducción salarial, no será de aplicación al personal laboral no directivo de las sociedades mercantiles a que se refiere el apartado Uno.g) del artículo 22 de la citada Ley ni al personal laboral no directivo de las Entidades Públicas Empresariales RENFE, ADIF y AENA, salvo que por negociación colectiva las partes decidan su aplicación.

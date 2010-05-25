@@ -295,6 +295,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO VIII](anviii.md)
 - [ANEXO IX](anix.md)
 - [ANEXO X](anx.md)
+- [ANEXO X.Bis](anx.bis.md)
 - [ANEXO XI](anxi.md)
 - [ANEXO XII](anxii.md)
 - [ANEXO XIII](anxiii.md)

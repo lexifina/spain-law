@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Registro de personal directivo del sector público estatal.
+
+Se crea, dependiente del Ministerio de Economía y Hacienda, el registro de personal directivo del sector público estatal y que incluirá al personal que tenga tal condición cuando les corresponda el ejercicio de funciones ejecutivas de máximo nivel de las fundaciones del sector público estatal, de los consorcios participados mayoritariamente por la Administración General del Estado y sus Organismos y de las sociedades mercantiles públicas que perciban aportaciones de cualquier naturaleza con cargo a los presupuestos públicos o con cargo a los presupuestos de los entes o sociedades que pertenezcan al sector público destinadas a cubrir déficit de explotación.

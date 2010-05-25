@@ -58,9 +58,11 @@ No obstante, cuando los estatutos o reglas especiales del régimen de propiedad 
 
 10. En las inscripciones de obras públicas en que haya de practicarse inscripción principal y otras de referencia, se cobrarán por aquélla los derechos correspondientes según las escalas del número 2 del Arancel, y por cada una de las otras 6,010121 euros.
 
-> Se convierten a euros las cuantías contempladas en los apartados 1 y 10 por el art. 8 de la Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
+> Véase la disposición adicional 8.1.2 del Real Decreto-ley 8/2010 de 20 de mayo. Ref. BOE-A-2010-8228., que aplica una rebaja del 5% al importe de los derechos de los registradores, previsto en el apartado 1.
 
-> Se convierten a euros las cuantías contempladas en los apartados 1 y 10 por el art. 8 de la Instrucción de 14 de diciembre de 2001. Ref. BOE-A-2002-24394.
+> Se convierten a euros las cuantías contempladas en los apartados 1 y 10 y la letra c) del apartado 4 por los arts. 8 y 9 de la Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
+
+> Se convierten a euros las cuantías contempladas en los apartados 1 y 10 y se modifica la letra c) del apartado 4 por los arts. 8 y 9 de la Instrucción de 14 de diciembre de 2001. Ref. BOE-A-2002-24394.
 
 > Se modifica la letra f) del apartado 1 por el art. 36.2 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836.
 
