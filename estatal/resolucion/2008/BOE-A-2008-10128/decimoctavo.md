@@ -1,8 +1,8 @@
 ## Decimoctavo.
 
-Para los expedientes de subvenciones y ayudas públicas a los que resulte de aplicación la Ley 38/2003, de 17 de noviembre, General de Subvenciones, los extremos adicionales a que se refiere el apartado primero.1.g) del presente acuerdo serán los siguientes.
+Para los expedientes de subvenciones y ayudas públicas a los que resulte de aplicación la Ley 38/2003, de 17 de noviembre, General de Subvenciones, los extremos adicionales a que se refiere el apartado primero.1.g) del presente Acuerdo serán los siguientes:
 
-1. Subvenciones a conceder en régimen de concurrencia competitiva.
+1. Subvenciones a conceder en régimen de concurrencia competitiva:
 
 A) Aprobación del gasto:
 
@@ -13,6 +13,8 @@ b) Que en la convocatoria figuran los créditos presupuestarios a los que se imp
 c) Que en la convocatoria figuran los criterios de valoración de las solicitudes y que éstos son conformes con los establecidos en las correspondientes bases reguladoras.
 
 d) Cuando se trate de expedientes de aprobación de gasto por la cuantía adicional del artículo 58 del Reglamento de la Ley General de Subvenciones, una vez obtenida la financiación adicional, se verificará como extremo adicional a los previstos en el apartado primero.1.g), que no se supera el importe establecido en la convocatoria.
+
+e) Que existe, en su caso, el informe favorable del Ministerio de Economía y Hacienda a que se refiere el artículo 63 de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2010.
 
 B) Compromiso del gasto:
 
@@ -32,7 +34,7 @@ c) Acreditación en la forma establecida en la normativa reguladora de la subven
 
 d) Que se acompaña certificación a que se refiere el artículo 88.3 del Reglamento de la Ley General de Subvenciones, expedida por el órgano encargado del seguimiento de la subvención.
 
-2. Subvenciones de concesión directa.
+2. Subvenciones de concesión directa:
 
 A) Aprobación y compromiso del gasto:
 
@@ -40,6 +42,8 @@ a) Que la concesión directa de la subvención se ampara en alguna de las normas
 
 b) Acreditación en la forma establecida en la normativa reguladora de la subvención, que el beneficiario se halla al corriente de obligaciones tributarias y frente a la Seguridad Social y no está incurso en las prohibiciones para obtener dicha condición, previstas en los apartados 2 y 3 del artículo 13 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
 
-B) Reconocimiento de obligaciones:
+c) Que existe, en su caso, el informe favorable del Ministerio de Economía y Hacienda a que se refiere el artículo 63 de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2010.
 
-Se comprobarán los mismos extremos previstos en el apartado relativo al reconocimiento de la obligación de las subvenciones concedidas en régimen de concurrencia competitiva.
+B) Reconocimiento de obligaciones.–Se comprobarán los mismos extremos previstos en el apartado relativo al reconocimiento de la obligación de las subvenciones concedidas en régimen de concurrencia competitiva.
+
+> Se modifica por el apartado 1 del acuerdo publicado por Resolución de 22 de abril de 2010. Ref. BOE-A-2010-7132
