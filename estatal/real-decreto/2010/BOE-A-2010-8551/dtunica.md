@@ -1,0 +1,7 @@
+## Disposición transitoria única. Régimen especial para la transformación en entidades de pago de los establecimientos de cambio de moneda a la que se refiere la disposición transitoria segunda de la Ley 16/2009, de 13 de noviembre.
+
+1. Los establecimientos de cambio de moneda que hubieren sido autorizados para la gestión de transferencias con el exterior con anterioridad a la entrada en vigor del presente real decreto, al amparo de lo previsto en el último párrafo del apartado 1 de la disposición transitoria segunda de la Ley 16/2009, de 13 de noviembre, deberán convalidar su autorización o transformarse en entidad de pago en la forma prevista en los párrafos anteriores del citado apartado.
+
+2. A efectos de la convalidación de la autorización prevista en el segundo párrafo del apartado 1 de la Disposición transitoria segunda de la Ley 16/2009, de 13 de noviembre, los establecimientos de cambio de moneda autorizados para la gestión de transferencias con el exterior tendrán que acreditar ante el Banco de España el cumplimiento de todos los requisitos establecidos en dicha Ley y en el presente Real Decreto, a excepción de los previstos en los apartados a), c), d) y e) del artículo 2 de este real decreto.
+
+3. El Banco de España podrá requerir de los establecimientos de cambio de moneda, a efectos de la convalidación de su autorización, la acreditación del cumplimiento de cualquier otro extremo del régimen jurídico de las entidades de pago.
