@@ -20,3 +20,12 @@
 6. Para participar en los procesos de selección que se convoquen durante los años 2010, 2011 y 2012 para adscribirse como militar de complemento, no se deberá cumplir ni haber cumplido en el año en que se publique la correspondiente convocatoria la edad máxima de 33 años, excepto en el caso de aquellos a los que sea preciso impartir formación de vuelo para quienes se mantiene la edad de 30 años a la que hace referencia el artículo 16.1.c) del reglamento que se aprueba.
 
 7. Para participar en los procesos de selección que se convoquen durante los años 2011, 2012, 2013 y 2014 para incorporarse por promoción para cambio de escala, a la escala de oficiales del Cuerpo de Músicas Militares, especialidad fundamental de Instrumentista, los suboficiales músicos quedan exentos de los límites de edad establecidos.
+
+8. Para participar en los procesos de selección que se convoquen durante los años 2010, 2011 y 2012 para cursar las enseñanzas de formación que se indican, los militares de tropa y marinería no deberán cumplir ni haber cumplido en el año en que se publique la correspondiente convocatoria, las siguientes edades máximas:
+
+| Enseñanzas para la incorporación a escalas | Ingreso por promoción | Año-edad |
+| --- | --- | --- |
+| 2010 | 2011 | 2012 |
+| De Suboficiales Cuerpos Generales y de Infantería de Marina. | Sin titulación técnico superior. | 33 | 33 | 32 |
+
+> Se añade el apartado 8 por la disposición final 2 del Real Decreto 711/2010, de 28 de mayo. Ref. BOE-A-2010-8698

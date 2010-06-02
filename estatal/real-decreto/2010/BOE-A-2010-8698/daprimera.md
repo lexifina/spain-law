@@ -1,0 +1,9 @@
+## Disposición adicional primera. Cometidos de carácter logístico de los cuerpos de intendencia de los ejércitos.
+
+1. Los miembros del Cuerpo de Intendencia del Ejército de Tierra tendrán como cometidos de carácter logístico los correspondientes al abastecimiento en todos sus campos, a excepción de las actividades que son propias de la especialidad fundamental de Farmacia del Cuerpo Militar de Sanidad, que figura en el anexo IV del reglamento que se aprueba.
+
+2. Los miembros del Cuerpo de Intendencia de la Armada tendrán como cometidos de carácter logístico los correspondientes al abastecimiento en todas sus fases, a excepción de las actividades que son propias de la especialidad fundamental de Farmacia del Cuerpo Militar de Sanidad, que figura en el anexo IV del reglamento que se aprueba. Tales cometidos se extenderán a la provisión de aquellos medios materiales que satisfagan las necesidades de los sistemas de la Armada y de los que afecten a la vida y funcionamiento de sus unidades, la dirección, gestión y control de la catalogación, de los inventarios y de su correspondiente documentación técnica, la dirección, gestión y control de los servicios de carácter general asociados a la vida y funcionamiento de la Armada, del transporte de personal y material, y la enajenación del material declarado inútil.
+
+3. Los miembros del Cuerpo de Intendencia del Ejército del Aire tendrán como cometidos de carácter logístico los correspondientes al transporte administrativo de personal y material y al abastecimiento en todos sus campos, a excepción de las actividades que son propias de la especialidad fundamental de Farmacia del Cuerpo Militar de Sanidad, que figura en el anexo IV del reglamento que se aprueba.
+
+4. En el cumplimiento de sus cometidos, los miembros de los cuerpos de intendencia de los ejércitos, ejercerán las funciones logísticas y administrativas y desarrollarán las acciones directivas y de gestión que les correspondan.
