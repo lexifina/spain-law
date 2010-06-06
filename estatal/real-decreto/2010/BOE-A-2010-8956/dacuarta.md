@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Incorporación de alumnos procedentes de planes anteriores.
+
+1. El alumno que hubiera iniciado los estudios de Danza conforme al plan de estudios regulado en el Real Decreto 1463/1999, de 17 de septiembre, por el que se establecen los aspectos básicos del currículo de las enseñanzas del grado superior de Danza y se regula la prueba de acceso a estos estudios podrá finalizar los mismos hasta el curso académico 2014-2015. Los alumnos que tras finalizar dicho curso académico no hubieran obtenido el Título conforme al plan de estudios iniciado, deberán incorporarse al nuevo plan de estudios en su correspondiente especialidad.
+
+2. A los efectos de lo regulado en el apartado anterior, las Administraciones educativas establecerán un procedimiento especial de reconocimiento de créditos individualizado, mediante el cual se determinarán aquellos créditos que, habiendo sido obtenidos en las enseñanzas de Danza del plan de estudios que se extingue, son computados a efectos de la obtención del título oficial regulado en el presente real decreto.
