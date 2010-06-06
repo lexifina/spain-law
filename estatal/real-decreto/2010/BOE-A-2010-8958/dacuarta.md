@@ -1,0 +1,9 @@
+## Disposición adicional cuarta. Extinción del plan de estudios anterior e incorporación a las nuevas enseñanzas.
+
+1. En el curso académico 2010-2011 se iniciará la extinción progresiva del plan de estudios regulado en el Real Decreto 2398/1998, de 6 de noviembre, conducente al Título Superior de Cerámica y en el Real Decreto 1090/2000, de 9 de junio, conducente al Título Superior de Vidrio, no pudiéndose ofertar plazas de nuevo ingreso para estos planes de estudios en dicho curso.
+
+2. Para quienes, habiendo iniciado las enseñanzas anteriores, se vieran afectados por la extinción progresiva y su incorporación al nuevo plan de estudios, las Administraciones educativas establecerán un procedimiento especial de reconocimiento de créditos individualizado, mediante el cual determinarán aquellos créditos que, habiendo sido obtenidos en las enseñanzas de Cerámica o de Vidrio del plan de estudios que se extingue, son computados a efectos de la obtención del actual Título de Graduado o Graduada en Artes Plásticas.
+
+3. Quienes estando en posesión del Título Superior de Cerámica o del Título Superior de Vidrio, deseen obtener el Título de Graduado o Graduada en Artes Plásticas en la especialidad de Cerámica o de Vidrio respectivamente, podrán obtener el reconocimiento de, al menos, 180 créditos atendiendo a la afinidad entre la especialidad cursada y los posibles itinerarios del plan de estudios, debiendo superar la formación adicional que la Administración educativa determine.
+
+4. Quienes estando en posesión del Título Superior de Cerámica o del Título Superior de Vidrio deseen obtener el Título de Graduado o Graduada en Artes Plásticas en otra especialidad, obtendrán el reconocimiento de los créditos correspondientes a las materias de formación básica y, además, les será de aplicación los criterios de reconocimiento de créditos recogidos en los apartados a) y d) del artículo 10 del presente real decreto.
