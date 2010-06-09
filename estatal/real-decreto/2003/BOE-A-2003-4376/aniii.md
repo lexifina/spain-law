@@ -296,4 +296,6 @@ Si el responsable de la comercialización elige estos ensayos, éstos deberán r
 
 Además, los ensayos se efectuarán en cada una de las tres especies previstas con arreglo a los criterios del anexo VI del Reglamento de sustancias (algas, dafnias y peces), a menos que se haya atribuido ya al preparado, tras el ensayo en una de las especies, la clasificación de peligro más elevada relativa a la toxicidad acuática aguda o que se encuentre ya disponible el resultado de un ensayo antes de la entrada en vigor del presente reglamento.
 
+> Las referencias contenidas en la Introducción al anexo I del Reglamento sobre clasificación, envasado y etiquetado de sustancias peligrosas aprobado por el Real Decreto 363/1995, de 10 de marzo, deben entenderse hechas a la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008, según establece el art. 2 del Real Decreto 717/2010, de 28 de mayo. Ref. BOE-A-2010-9104
+
 > Se suprime el apartado A.B).2 y se modifican los cuadros 1, 2 y 5 por el art. único y anexo.2 de la Orden PRE/164/2007, de 29 de enero. Ref. BOE-A-2007-2205

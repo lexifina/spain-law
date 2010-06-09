@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 56, de 5 de marzo de 2004. Ref. BOE-A-2004-4020
+Las referencias al anexo I del Reglamento sobre clasificación, envasado y etiquetado de sustancias peligrosas aprobado por el Real Decreto 363/1995, de 10 de marzo, deben entenderse hechas a la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008, según establece el art. 2 del Real Decreto 717/2010, de 28 de mayo. Ref. BOE-A-2010-9104

@@ -2,6 +2,8 @@
 
 [El Reglamento se publicó en suplemento aparte. Los Anexos se han omitido. Consúltese el PDF oficial del suplemento.]
 
+> Véase el art. único.6 del Real Decreto 717/2010, de 28 de mayo, por el que se suprime el Anexo I. Ref. BOE-A-2010-9104.
+
 > Véase el art. único.10 a 12 del Real Decreto 1802/2008, de 3 de noviembre, por el que se modifica el Anexo VI y se suprimen los anexos V, VII-A, VII-B, VII-C, VII-D, VIII, X y XI. Ref. BOE-A-2008-17630.
 
 > Véase la Orden PRE/1244/2006, de 20 de abril, por la que se modifican los anexos I y V. Ref. BOE-A-2006-7581.
