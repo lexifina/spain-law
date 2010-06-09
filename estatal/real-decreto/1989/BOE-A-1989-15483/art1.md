@@ -6,4 +6,6 @@ El Consejo Rector.
 
 El Director.
 
-Dos.–El Instituto de Astrofísica de Canarias se relacionará con la Administración del Estado a través del Ministerio de Educación y Ciencia.
+Dos.–El Instituto de Astrofísica de Canarias se relacionará con la Administración del Estado a través del Ministerio de Ciencia e Innovación.
+
+> Se modifica el apartado 2 por el art. 1.1 del Real Decreto 718/2010, de 28 de mayo. Ref. BOE-A-2010-9105.
