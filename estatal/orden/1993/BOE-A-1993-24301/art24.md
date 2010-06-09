@@ -4,4 +4,6 @@
 
 2. La enajenación de los bienes inmuebles, en el caso de disolución del Fondo, se realizará previa tasación de los mismos.
 
-3. Si en el plazo de dos años desde el inicio de la liquidación no se hubiesen podido enajenar todos los bienes y derechos sobre inmuebles integrantes del patrimonio del Fondo, se procederá por la Sociedad Gestora a la cancelación del Fondo e inscripción de los bienes y derechos sobre inmuebles en el Registro de la Propiedad a favor de todos los partícipes.
+3. (Derogado)
+
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto 749/2010, de 7 de junio. Ref. BOE-A-2010-9101.
