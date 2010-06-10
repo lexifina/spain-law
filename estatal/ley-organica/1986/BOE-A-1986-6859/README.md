@@ -97,6 +97,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional tercera](tercera-2.md)
 - [Disposición adicional cuarta](cuarta-2.md)
 - [Disposición adicional quinta](quinta.md)
+- [Disposición adicional sexta](sexta.md)
 - [Disposición final primera](primera-3.md)
 - [Disposición final segunda](segunda-3.md)
 - [Disposición final tercera](tercera-3.md)
