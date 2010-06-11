@@ -457,11 +457,11 @@ Límites laterales: Comprendidos por las alineaciones de los puntos cuyas coorde
 
 36º 19’ 51’’ N - 006º 09’ 40’’ W,
 
-siguiendo la línea de la costa hasta
+siguiendo la línea de costa hasta:
 
-36º 41’ 07’’ N - 006º 25’ 09’’ W,
+36º 41’ 07’’ N - 006º 25’ 09’’ W.
 
-Límites verticales: Desde tierra hasta nivel de vuelo 300.
+Límites verticales: Desde tierra hasta 6.000 pies de altitud.
 
 B.16 Bahía de Algeciras (Cádiz)
 
@@ -1097,6 +1097,8 @@ desde esta coordenada, siguiendo la línea paralela a la costa de dos millas ná
 36° 26' 37'' N – 005° 16' 20'' W.
 
 Límites verticales: Desde tierra o mar hasta nivel de vuelo 300.
+
+> Se modifica el apartado B. B.15 por el art. único de la Orden PRE/1491/2010, de 8 de junio. Ref. BOE-A-2010-9188.
 
 > Se modifica por el apartado único de la Orden PRE/3797/2006, de 12 de diciembre. Ref. BOE-A-2006-21904.
 
