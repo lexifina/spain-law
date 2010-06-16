@@ -4,6 +4,8 @@ Las reglas del sistema de cargos, abonos y garantías que regirán en los SEIE s
 
 Las garantías de los agentes se calcularán considerando su intervención conjunta en el sistema peninsular y en los sistemas extrapeninsulares e insulares.
 
-Los cobros y pagos de los sistemas peninsulares, extrapeninsulares e insulares podrán realizarse conjuntamente, sin perjuicio de que en los SEIE la facturación se calcule para cada sistema eléctrico aislado de forma independiente.
+Los cobros y pagos de los sistemas peninsulares, extrapeninsulares e insulares podrán realizarse conjuntamente, sin perjuicio de que en los SEIE la facturación se calcule para cada sistema eléctrico de forma independiente.
+
+> Se modifica el tercer párrafo por la disposición final 1.10 de la Orden ITC/1559/2010, de 11 de junio. Ref. BOE-A-2010-9417.
 
 > Se modifica el primer párrafo por la disposición final 2.5 de la Orden ITC/3801/2008, de 26 de diciembre. Ref. BOE-A-2008-21009.

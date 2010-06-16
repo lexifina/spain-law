@@ -1,0 +1,5 @@
+## Disposición adicional primera. Cierre de los saldos excedentarios de determinadas cuentas abiertas en régimen de depósitos por la Comisión Nacional de Energía.
+
+1. Los saldos de la cuenta en régimen de depósito abierta por la Comisión Nacional de Energía destinada a la realización de planes de mejora de calidad de servicio con cargo a la tarifa de 2008, no comprometidos en los correspondientes Convenios de Colaboración firmados antes del 30 de junio de 2010, pasarán a incorporarse como ingresos de actividades reguladas correspondientes al año 2010.
+
+2. Una vez que la Dirección General de Política Energética y Minas haya procedido a aprobar las cuantías definitivas de los programas nacionales de gestión de la demanda para 2004 convocados mediante la Orden ITC/4142/2004, de 30 de noviembre y la Comisión Nacional de la Energía haya liquidado a cada una de las empresas, los saldos de la cuenta en régimen de depósito abierta a estos efectos, correspondientes a la diferencia entre los costes compensables previstos y los costes definitivos aprobados, pasarán a incorporarse como ingresos de actividades reguladas correspondientes al año 2010.
