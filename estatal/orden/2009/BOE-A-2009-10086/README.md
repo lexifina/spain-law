@@ -21,6 +21,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [1. Objeto y ámbito de aplicación](A1.md)
 - [2. Puesta en servicio de equipos de trabajo](A2.md)
 - [3. Mantenimiento y reparación de equipos en servicio](A3.md)
+- [4. Talleres autorizados de reparación de elementos de seguridad](A4.md)
 - [5. Inspección técnica de maquinaria móvil o semimóvil](A5.md)
 - [ANEXO](an.md)
 - [ANEXO II](ai.md)
