@@ -40,6 +40,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO I](ci-3.md)
 - [Artículo 20](a20.md)
 - [Artículo 21](a21.md)
+- [Artículo 21 bis](a21bis.md)
 - [Artículo 22](a22.md)
 - [Artículo 22 bis](a22bis.md)
 - [CAPÍTULO II](cii-3.md)

@@ -182,6 +182,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria décima](dtdecima.md)
 - [Disposición transitoria undécima](dtundecima.md)
 - [Disposición transitoria duodécima](dtduodecima.md)
+- [Disposición transitoria decimotercera](dtdecimotercera.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
