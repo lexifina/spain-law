@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Instalaciones de almacenamientos existentes que no puedan cumplir las exigencias establecidas en la instrucción técnica complementaria MIE APQ-9.
+
+No obstante lo dispuesto en la disposición transitoria primera, para la autorización de aquellas instalaciones de almacenamiento de peróxidos orgánicos existentes o en trámite de autorización en la fecha de entrada en vigor de este real decreto, en las que se acredite la imposibilidad de cumplir alguna de las prescripciones establecidas en la instrucción técnica complementaria MIE APQ-9, el titular de la instalación deberá presentar la solicitud de autorización acompañada de un proyecto suscrito por un técnico titulado competente, en el que se justifiquen las razones de tal imposibilidad y en el que se especifiquen las medidas sustitutorias, que van a tomarse, teniendo en cuenta el riesgo que presentan las instalaciones actuales para las personas, los bienes y el medio ambiente.
+
+Además del citado proyecto, se presentará junto con la solicitud de autorización un certificado extendido por un organismo de control autorizado para la aplicación del Reglamento de almacenamiento de productos químicos, en el que se haga constar que las medidas adoptadas tienen un grado de seguridad equivalente o superior que aquellas a las que sustituyen.
+
+La documentación mencionada se presentará ante el órgano competente de la comunidad autónoma donde radique el almacenamiento en el plazo de seis meses contados a partir de la fecha de entrada en vigor de este real decreto.

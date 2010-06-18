@@ -1,0 +1,31 @@
+## Artículo cuarto. Modificación de la ITC MIE APQ-2 «Almacenamiento de óxido de etileno».
+
+El segundo párrafo del artículo 21 (incluyendo sus nueve apartados) de la instrucción técnica complementaria MIE APQ-2 «Almacenamiento de óxido de etileno» del Real Decreto 379/2001, de 6 de abril, por el que se aprueba el Reglamento de almacenamiento de productos químicos y sus instrucciones técnicas complementarias MIE APQ-1, MIE APQ-2, MIE APQ-3, MIE APQ-4, MIE APQ-5, MIE APQ-6 y MIE APQ-7 queda redactado del modo siguiente:
+
+«Este plan se ajustará a los requerimientos del Real Decreto 1254/1999, de 16 de julio, por el que se aprueban medidas de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas, y sus modificaciones. Para el resto de almacenamientos, será de aplicación lo dispuesto en el Real Decreto 393/2007, de 23 de marzo, por el que se aprueba la Norma Básica de Autoprotección de los centros, establecimientos y dependencias dedicados a actividades que puedan dar origen a situaciones de emergencia, siempre que las cantidades almacenadas superen las mínimas señaladas en dicha Norma Básica. En cualquier caso, será de aplicación lo dispuesto en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales en relación con el establecimiento de medidas de emergencia y, en particular, lo dispuesto en su artículo 20.
+
+Los planes de emergencia de las Instalaciones de Clasificación relativas a la infraestructura ferroviaria se ajustarán a lo establecido en el Capítulo 1.11 del RID, Reglamento referente al transporte internacional por ferrocarril de mercancías peligrosas, Apéndice C del COTIF.
+
+El personal encargado de poner en práctica estas medidas conocerá el plan de emergencia y comprobará periódicamente su correcto funcionamiento. La realización de simulacros se ajustará a lo dispuesto en la normativa específica que, en su caso, sea de aplicación.
+
+Se deberá tener equipos adecuados para intervención en emergencias, incluidos los equipos de protección individual y el material de primeros auxilios necesarios.
+
+Contemplará, al menos, los siguientes extremos:
+
+1. Designación del responsable de la autoprotección y organigrama del servicio.
+
+2. Información sobre los riesgos que comporta la manipulación del óxido de etileno.
+
+3. Definición de las situaciones de alarma, análisis de las secuencias que las desencadenan y fases de ejecución: Alerta e intervención.
+
+4. Información sobre el manejo y empleo de los medios materiales de protección de que disponga el establecimiento.
+
+5. Información sobre la actuación del personal en las situaciones de alarma.
+
+6. Enlace y cooperación con los servicios públicos de extinción, policía y sanitarios de urgencia. Cooperación con otros servicios privados.
+
+7. Entrenamiento regular del personal propio. Ejercicios de coordinación con otros servicios externos.
+
+8. Redacción de unas instrucciones resumidas para la actuación del personal en caso de alarma; dicho resumen se fijará de forma que sea fácilmente legible y de manera que quede asegurada su fijación permanente. Se colocará al menos un ejemplar en cada dependencia o departamento laboral.
+
+9. Instrucciones para primeros auxilios.»
