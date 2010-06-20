@@ -76,6 +76,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO III](tiii.md)
 - [CAPÍTULO I](ci-2.md)
 - [Artículo 39](a39.md)
+- [Artículo 39 bis](a39bis.md)
 - [Artículo 40](a40.md)
 - [Artículo 41](a41.md)
 - [Artículo 42](a42.md)
