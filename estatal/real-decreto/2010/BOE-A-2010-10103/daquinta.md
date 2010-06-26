@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Certificación del personal en instalaciones de tratamiento de residuos de aparatos eléctricos y electrónicos.
+
+Los requisitos de certificación del personal especificados en el artículo 3.2 no serán exigibles al personal encargado de recuperar gases fluorados de equipos amparados por el Real Decreto 208/2005, de 25 de febrero, sobre aparatos eléctricos y electrónicos y la gestión de sus residuos, con una carga de gases fluorados inferior a 3 kg, siempre que realicen dicha actividad en las instalaciones de tratamiento previstas en dicha norma y se den las condiciones previstas en el artículo 4.3.c del Reglamento (CE) n.º 303/2008 de la Comisión, de 2 de abril de 2008.
