@@ -1,0 +1,18 @@
+## Norma segunda. Ámbito de aplicación y presentación de estados en el Banco de España.
+
+1. Las entidades de crédito españolas y las sucursales en España de entidades de crédito extranjeras que cumplan los requisitos establecidos en los párrafos que siguen (en adelante, entidades declarantes) deberán presentar mensualmente al Banco de España, dentro de los quince primeros días del mes siguiente (o en el primer día hábil en Madrid posterior a dicha quincena si el último día de la misma fuese festivo en dicha localidad), la información que se detalla a continuación, de acuerdo con los modelos que se incluyen en el anejo de la presente Circular:
+
+| Estado | Denominación |
+| --- | --- |
+| I.1 | Tipos de interés de los saldos vivos. |
+| I.2 | Tipos de interés de las nuevas operaciones. |
+
+Serán entidades declarantes aquellas que el 31 de diciembre de 2009 tengan en el estado UEM.1, Balance resumido, un activo total por un importe igual o superior a 1.500 millones de euros, y además, en el estado UEM.2, Clasificación por sujetos y residencia de algunos activos y pasivos, tengan depósitos o créditos, denominados en euros, frente a los hogares (incluidas las instituciones sin fines de lucro al servicio de los hogares) y las sociedades no financieras residentes en España o en alguno de los restantes Estados participantes en la Unión Económica y Monetaria, por un importe igual o superior a 500 millones de euros. No obstante, el Banco de España podrá requerir a otras entidades y sucursales que no alcancen el citado importe la remisión de los estados antes señalados, siempre que lo considere necesario para que la información declarada alcance la representatividad requerida. En este último caso, el Banco de España comunicará por escrito a las entidades correspondientes su obligación de remitir las citadas estadísticas, dándoles, como mínimo, un plazo de seis meses desde la fecha de la comunicación para que comiencen a presentar los estados.
+
+Las entidades declarantes continuarán presentando los estados citados, aunque con posterioridad al 31 de diciembre de 2009 el activo total del estado UEM.1 y los créditos y depósitos declarables no alcancen los umbrales señalados en este apartado, hasta que el Banco de España les comunique por escrito el período a partir del cual ya no tendrán que presentarlos.
+
+Las entidades y sucursales que después del 31 de diciembre de 2009 alcancen los umbrales señalados en este apartado no tendrán que presentar los estados referidos sobre tipos de interés mientras el Banco de España no les comunique por escrito, con una antelación mínima de seis meses, que deben remitirlos.
+
+2. La presentación de estados al Banco de España deberá hacerse mediante transmisión telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto. Excepcionalmente, y solo por causas debidamente justificadas, el Banco de España podrá autorizar su presentación en impresos que deberán estar fechados, sellados y visados en todas sus páginas, y firmados por alguna de las personas autorizadas para firmar electrónicamente la información a la que se refieren el apartado 6 de la disposición adicional primera de la Circular del Banco de España 4/2004, de 22 de diciembre, a entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros, o el apartado 7 de la norma centésima vigésima primera de la Circular del Banco de España 3/2008, de 22 de mayo, a entidades de crédito, sobre determinación y control de los recursos propios mínimos.
+
+3. La Dirección General de Regulación podrá elaborar aplicaciones técnicas para facilitar la confección de los estados a remitir al Banco de España.
