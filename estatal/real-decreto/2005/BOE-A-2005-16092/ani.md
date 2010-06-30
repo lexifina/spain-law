@@ -4,15 +4,17 @@
 
 ## A) Condiciones generales para todas las explotaciones
 
-a) Formación.-El titular de la explotación deberá garantizar que todo el personal encargado de cuidar y manipular a los animales posea la formación, los conocimientos y la competencia profesional necesaria para asegurar el bienestar de estos.
+a) Formación. El personal encargado de cuidar y manipular a los animales deberá poseer la formación, los conocimientos y la competencia profesional necesaria para asegurar el bienestar de los animales. El titular de la explotación deberá garantizar dichos aspectos.
 
-A tal fin, las autoridades competentes se asegurarán de que se realice la formación a que se refiere el párrafo anterior mediante cursos que tendrán una duración mínima de 20 horas e incluirán, al menos, contenidos teóricos y prácticos sobre fisiología animal, comportamiento animal, sanidad animal, funcionamiento de los equipos e instalaciones de producción y legislación en materia de bienestar animal.
+En lo que se refiere a la formación, se acreditará mediante cursos que tendrán una duración mínima de 20 horas e incluyan, al menos, contenidos teóricos y prácticos sobre fisiología animal, comportamiento animal, sanidad animal, funcionamiento de los equipos e instalaciones de producción y normativa en materia de bienestar animal.
 
-b) Mutilaciones de los animales.-Se entenderá por «mutilación» una operación practicada a un ave para fines distintos de los terapéuticos y que entrañe daño o pérdida de una parte sensible del cuerpo o modificación de la estructura ósea, o que provoque dolor o angustia significativos.
+Las autoridades competentes realizarán los controles oportunos para comprobar la formación, los conocimientos y la competencia profesional necesaria para asegurar el bienestar de los animales.
 
-Solo en casos imprescindibles se podrán realizar mutilaciones (incluidas las castraciones). Serán llevadas a cabo por un veterinario o, bajo su supervisión, por personal con formación específica reconocida por la autoridad competente.
+b) Intervenciones quirúrgicas. Se prohíben todas las intervenciones quirúrgicas por motivos que no sean terapéuticos o de diagnóstico y que puedan dar lugar a una lesión o a la pérdida de una parte sensible del cuerpo o bien a la alteración de la estructura ósea. No obstante, la autoridad competente podrá autorizar:
 
-Sin perjuicio a lo anterior, las autoridades competentes podrán autorizar la castración de aves de la especie Gallus gallus, para la producción de capones y pulardas, siempre que lo solicite el titular de la explotación, se trate de producciones tradicionales y se garantice que el personal que lo realiza esta formado específicamente y se lleva a cabo con la analgesia y anestesia adecuadas.
+1.º El recorte del pico de las aves, una vez agotadas las demás medidas destinadas a evitar el picoteo de las plumas y el canibalismo. En tales casos, la operación únicamente se efectuará tras haber consultado con un veterinario y por consejo de este, y será practicada por personal cualificado y solo a los polluelos de menos de diez días.
+
+2.º La castración de los pollos, que solo podrá realizarse bajo supervisión veterinaria y por parte de personal con una formación específica.
 
 Se prohíbe arrancar pluma o plumón a los animales vivos.
 
@@ -42,11 +44,7 @@ Explotaciones con sistema de ventilación forzada: aquellas explotaciones en las
 
 Explotaciones con ventilación forzada con refrigeración o calefacción: aquellas explotaciones con sistema de ventilación forzada que, además, cuentan con dispositivos de refrigeración o calefacción para el control de la temperatura en el interior de las naves.
 
-b) Explotaciones de producción y cría de carne en sistema convencional de animales de la especie Gallus gallus.
-
-1. En cada nave de la explotación no se podrá superar una densidad de 30 kilos de peso vivo de animales por metro cuadrado de superficie útil de la nave. No obstante, cuando a través de sistemas mecánicos auxiliares se pueda garantizar el control y modificación de los parámetros ambientales de temperatura, humedad relativa y renovación de aire, se podrá permitir hasta un máximo de 38 kilos de peso vivo de animales por metro cuadrado. En tal caso, la concentración de amoniaco (NH3) en el aire no excederá de 20 ppm y la concentración de dióxido de carbono no excederá de las 3000 ppm, medidos al nivel de la cabeza de los pollos.
-
-2. No obstante lo dispuesto en el párrafo anterior, la autoridad competente podrá modificar a la baja estas cifras máximas cuando compruebe que el bienestar de los animales se encuentre comprometido.
+b) (Sin contenido)
 
 c) Explotaciones de patos, ocas y sus cruces.-Será de aplicación lo dispuesto en las siguientes recomendaciones:
 
@@ -55,3 +53,5 @@ Recomendación relativa a los patos domésticos (Anas platyrhynchos), adoptada e
 d) Explotaciones de producción de pavos.-Será de aplicación lo dispuesto en la Recomendación relativa a los pavos (Meleagridis gallovapo ssp), adoptada el 21 de junio de 2001, según el artículo 9 del Convenio Europeo de protección de los animales en explotaciones ganaderas, hecho en Estrasburgo el 10 de marzo de 1976, y ratificado por España con fecha 21 de abril de 1988.
 
 e) Explotaciones de aves corredoras (ratites).-Será de aplicación la Recomendación relativa a aves corredoras (avestruces, emúes y ñandús), adoptada por el Comité Permanente el 22 de abril de 1997, según el artículo 9 del Convenio Europeo de protección de los animales en explotaciones ganaderas, hecho en Estrasburgo el 10 de marzo de 1976, y ratificado por España con fecha 21 de abril de 1988.
+
+> Se modifican las letras a) y b) del apartado A) y queda sin contenido la letra b) del apartado B) por la disposición final 3.3 y 4 del Real Decreto 692/2010, de 20 de mayo. Ref. BOE-A-2010-8824.
