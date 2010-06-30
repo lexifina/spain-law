@@ -1,0 +1,3 @@
+## Disposición final segunda. Desarrollo reglamentario.
+
+Se autoriza al Gobierno a dictar cuantas disposiciones sean necesarias para la aplicación y desarrollo de la presente Ley. En el plazo de seis meses a partir de la entrada en vigor de la presente Ley, el Gobierno aprobará el desarrollo reglamentario del FIEM. El Reglamento incluirá, entre otras, las combinaciones de otorgamiento del FIEM junto a otras actuaciones de carácter financiero; y las estipulaciones relativas a la gestión, incluidas las condiciones financieras de los créditos, la financiación de los gastos locales, la participación de material extranjero o la financiación de comisiones comerciales, así como cualquier otra circunstancia a tener en cuenta en las operaciones con cargo al FIEM.

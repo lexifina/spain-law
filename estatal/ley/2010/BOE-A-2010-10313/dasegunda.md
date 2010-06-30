@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Transferencia de operaciones.
+
+En el momento de la entrada en vigor de esta Ley, quedarán transferidas al FIEM el conjunto de operaciones y propuestas que son iniciativa del Ministerio de Industria, Turismo y Comercio con cargo al FAD y que, en el momento de la entrada en vigor de esta Ley, se encuentren en tramitación. Igualmente se transferirán las líneas de crédito aprobadas por el Consejo de Ministros con cargo al FAD a iniciativa de dicho Departamento y pendientes de utilización, así como las obligaciones de pago no formalizadas que se deriven de operaciones aprobadas con cargo al FAD a iniciativa de dicho Ministerio.
