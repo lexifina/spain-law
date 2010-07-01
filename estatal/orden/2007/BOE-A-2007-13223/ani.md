@@ -60,7 +60,7 @@
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
 
-> Se modifica por la disposición final 1 de la Orden EHA/1338/2010, de 13 de mayo. Ref. BOE-A-2010-8230.
+> Se añade el modelo 568 por la disposición final 1 de la Orden EHA/1338/2010, de 13 de mayo. Ref. BOE-A-2010-8230.
 
 > Se añaden los modelos 681 a 684 por la disposición final 1.1 de la Orden EHA/408/2010, de 24 de febrero. Ref. BOE-A-2010-3095.
 
