@@ -14,8 +14,10 @@ e) Que reciban subvenciones, ayudas o realicen obras, prestaciones, servicios o 
 
 2. Además, quedarán sometidas a la auditoría de cuentas establecida en el artículo 1, apanado 2 de esta Ley de Auditoría de Cuentas, las empresas, incluidas las sociedades cooperativas, y demás entidades que superen los limites que reglamentariamente fije el Gobierno por Real Decreto. Dichos limites se referirán, al menos, a la cifra de negocios, al importe total del activo según balance y al número anual medio de empleados, y se aplicarán, todos o cada uno de ellos, según lo permita la respectiva naturaleza jurídica de cada empresa o entidad.
 
-3. Lo previsto en esta Disposición Adicional no es aplicable a las empresas o entidades incluidas en el ámbito de las Administraciones Públicas ni a las Sociedades Estatales del artículo 6.1.b) de la Ley 11/1977, General Presupuestaria. Esta excepción no afectará a aquellas sociedades que emitan valores negociables y vengan obligadas a publicar un folleto informativo.
+3. Lo previsto en esta disposición adicional no es aplicable a las entidades que formen parte del sector público estatal, autonómico o local, sin perjuicio de lo que disponga la normativa que regula dichas entidades del sector público. En todo caso, lo previsto en esta disposición adicional será aplicable a las sociedades mercantiles que formen parte del sector público estatal, autonómico o local.
 
 4. Las sucursales en España de entidades de crédito extranjeras, cuando no tengan que presentar cuentas anuales de su actividad en España, deberán someter a auditoría las informaciones contables que con carácter anual deban hacer públicas, y las que con carácter reservado remitan al Banco de España, de conformidad con las reglas contables que sean de aplicación.
+
+> Se modifica el apartado 3 por el art. único.21 de la Ley 12/2010, de 30 de junio. Ref. BOE-A-2010-10421
 
 > Se añade el apartado 4 por la disposición adicional 6 de la Ley 3/1994, de 14 de abril. Ref. BOE-A-1994-8489
