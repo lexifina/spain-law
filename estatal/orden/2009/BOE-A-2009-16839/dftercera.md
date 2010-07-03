@@ -1,3 +1,5 @@
 ## Disposición final tercera. Entrada en vigor.
 
-La presente orden entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Estado, excepto el régimen establecido para las ayudas para la amortización de largometrajes en la Subsección 5.ª, Sección 3.ª, del Capítulo III de esta Orden, que entrará en vigor para las películas estrenadas con posterioridad al día 30 de septiembre del año 2010. Excepcionalmente, y previa presentación de solicitud razonada al Instituto de la Cinematografía y de las Artes Audiovisuales, las películas estrenadas entre el 1 de octubre de 2010 y el 31 de diciembre de 2010 podrán acogerse al sistema de cálculo de las ayudas a la amortización anterior, siempre que el rodaje de la película hubiera comenzado con anterioridad al 1 de enero de 2010.
+La presente orden entrará en vigor el día siguiente al de su publicación en el “Boletín Oficial del Estado”.
+
+> Se modifica por el art. único.4 de la Orden CUL/1767/2010, de 30 de junio. Ref. BOE-A-2010-10491.
