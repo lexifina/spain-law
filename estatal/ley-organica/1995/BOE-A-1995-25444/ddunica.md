@@ -2,7 +2,7 @@
 
 1. Quedan derogados:
 
-a) El texto refundido del Código Penal publicado por el Decreto 3096/1973, de 14 de septiembre, conforme a la Ley 44/1971, de 15 de noviembre, con sus modificaciones posteriores, excepto los artículos 8.2, 9.3, la regla 1.ª del artículo 20 en lo que se refiere al número 2.º del artículo 8, el segundo párrafo del artículo 22, 65, 417 bis y las disposiciones adicionales primera y segunda de la Ley Orgánica 3/1989, de 21 de junio.
+a) El texto refundido del Código Penal publicado por el Decreto 3096/1973, de 14 de septiembre, conforme a la Ley 44/1971, de 15 de noviembre, con sus modificaciones posteriores, excepto los artículos 8.2, 9.3, la regla 1.ª del artículo 20 en lo que se refiere al número 2.º del artículo 8, el segundo párrafo del artículo 22, 65 y las disposiciones adicionales primera y segunda de la Ley Orgánica 3/1989, de 21 de junio.
 
 b) La Ley de 17 de marzo de 1908 de condena condicional, con sus modificaciones posteriores y disposiciones complementarias.
 
@@ -47,3 +47,5 @@ Los términos «activo y» del artículo 137 de la Ley Orgánica 5/1985, de 19 d
 El artículo 6 de la Ley 57/1968, de 27 de julio, sobre Percibo de Cantidades Anticipadas en la Construcción y Venta de Viviendas.
 
 2. Quedan también derogadas cuantas normas sean incompatibles con lo dispuesto en este Código.
+
+> Se modifica el apartado 1.a) por la disposición final 1.3 de la Ley Orgánica 2/2010, de 3 de marzo. Ref. BOE-A-2010-3514
