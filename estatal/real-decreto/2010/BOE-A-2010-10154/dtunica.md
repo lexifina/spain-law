@@ -1,0 +1,5 @@
+## Disposición transitoria única. Plazo de adaptación y nueva acreditación.
+
+Los centros o establecimientos sanitarios privados que, a la entrada en vigor de este real decreto, estén acreditados para la prestación de la interrupción voluntaria del embarazo deberán adecuarse, en el plazo de cuatro meses desde la entrada en vigor del mismo, a las condiciones establecidas en esta norma y solicitar una nueva acreditación a la autoridad sanitaria competente, que deberá resolver de acuerdo con lo previsto en el artículo 42 y siguientes de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Los centros o establecimientos sanitarios privados que hayan solicitado la nueva acreditación prevista en el párrafo anterior, podrán seguir realizando las actividades para las que hubiesen sido acreditados, conforme a las normas vigentes antes de la entrada en vigor de este real decreto, hasta que la autoridad sanitaria competente resuelva la solicitud de nueva acreditación.
