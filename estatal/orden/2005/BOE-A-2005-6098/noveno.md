@@ -14,7 +14,7 @@ El titular de la Secretaría General de Instituciones Penitenciarias por delegac
 
 2.1.3 La concesión de ayudas y subvenciones.
 
-2.2 Respecto de los contratos de cuantía superior a 1.500.000 euros, el ejercicio de todas las atribuciones a las que se refieren los puntos 2.1.1 y 2.1.2 anteriores, con excepción de los acuerdos de inicio del expediente de contratación, adjudicación, prórroga, modificación y resolución, así como de resolución del recurso al que se refiere el artículo 37 de la Ley 30/2007, de 30 de octubre, que se reservará el órgano delegante.
+2.2 Respecto de los gastos contractuales y no contractuales de cuantía superior a 1.500.000 euros, el ejercicio de todas las atribuciones a las que se refieren los puntos 2.1.1 y 2.1.2 anteriores, con excepción de los acuerdos de inicio del expediente de contratación, adjudicación, prórroga, modificación y resolución, así como de resolución del recurso al que se refiere el artículo 37 de la Ley 30/2007, de 30 de octubre, que se reservará el órgano delegante.
 
 2.3 La suscripción de los Convenios de Colaboración con entidades públicas, a excepción de las Comunidades Autónomas, y con personas físicas o jurídicas sujetas al Derecho privado.
 
@@ -27,6 +27,8 @@ El titular de la Secretaría General de Instituciones Penitenciarias por delegac
 3.3 La iniciativa, concesión y acreditación del otorgamiento al personal, de menciones honoríficas y medallas al mérito penitenciario y al mérito social penitenciario con excepción de las medallas de oro.
 
 4. Del Subsecretario del Interior, en relación con el personal adscrito a la Secretaría General de Instituciones Penitenciarias: acordar la adopción de medidas provisionales en materia de régimen disciplinario.
+
+> Se modifica el punto 2.2 por el art. único.2 de la Orden INT/1797/2010, de 2 de julio. Ref. BOE-A-2010-10665.
 
 > Se modifica por el art. 1.3 de la Orden INT/50/2010, de 12 de enero. Ref. BOE-A-2010-1002.
 

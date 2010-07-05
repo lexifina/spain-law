@@ -12,6 +12,8 @@ El Subdirector General de Planificación y Gestión de Infraestructuras y Medios
 
 2.3 La concesión de ayudas y subvenciones.
 
-3. Respeto de los contratos de cuantía superior a 120.000 euros e inferior a 450.000 euros, el ejercicio de todas las atribuciones a las que se refieren los puntos 2.1 y 2.2 anteriores, con excepción de los acuerdos de iniciación del expediente de contratación, adjudicación, prórroga, modificación y resolución, así como de resolución del recurso al que se refiere el artículo 37 de la Ley 30/2007, de 30 de octubre, que se delegan en el Titular de la Dirección General de Infraestructuras y Material de la Seguridad.
+3. Respecto de los gastos contractuales y no contractuales de cuantía superior a 120.000 euros e inferior a 450.000 euros, el ejercicio de todas las atribuciones a las que se refieren los puntos 2.1 y 2.2 anteriores, con excepción de los acuerdos de iniciación del expediente de contratación, adjudicación, prórroga, modificación y resolución, así como de resolución del recurso al que se refiere el artículo 37 de la Ley 30/2007, de 30 de octubre, que se delegan en el Titular de la Dirección General de Infraestructuras y Material de la Seguridad.
+
+> Se modifica el punto 3 por el apartado único.8 de la Orden INT/1797/2010, de 2 de julio. Ref. BOE-A-2010-10665.
 
 > Se modifica por el art. 1.8 de la Orden INT/50/2010, de enero. Ref. BOE-A-2010-1002.

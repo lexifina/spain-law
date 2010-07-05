@@ -2,7 +2,11 @@
 
 El Subdirector General de Personal, Costes y Planificación de Recursos Humanos e Inspección ejercerá por delegación de las autoridades que se expresan las siguientes atribuciones:
 
-1. Del Ministro Titular del Departamento la convocatoria de pruebas selectivas y la provisión de puestos de trabajo vacantes en relación con el personal sujeto a Derecho laboral, con excepción del personal destinado en la Secretaría General de Instituciones Penitenciarias.
+1. Del Ministro titular del Departamento:
+
+1.1 La convocatoria de pruebas selectivas y la provisión de puestos de trabajo vacantes en relación con el personal sujeto a Derecho laboral, con excepción del personal destinado en la Secretaría General de Instituciones Penitenciarias
+
+1.2 En relación con los funcionarios destinados en el Departamento y sin perjuicio de lo delegado en otras autoridades, la convocatoria y resolución de concursos para la provisión de puestos de trabajo.
 
 2. Del Subsecretario del Interior las siguientes atribuciones, salvo lo delegado en otros órganos.
 
@@ -67,5 +71,15 @@ El Subdirector General de Personal, Costes y Planificación de Recursos Humanos 
 2.4.9 La concesión de excedencias.
 
 2.4.10. Todos aquellos actos de administración y gestión ordinaria no atribuidos expresamente por esta Orden a otros órganos con excepción de los relacionados con el ejercicio de la potestad disciplinaria.
+
+2.5 La propuesta o informe sobre autorización o reconocimiento de compatibilidades, así como la autorización o denegación del ejercicio por los miembros de la Guardia Civil de actividades profesionales, laborales, mercantiles o industriales de carácter privado.»
+
+2.6. La atribución temporal de funciones, la adscripción provisional de puestos de trabajo y las comisiones de servicio, en los términos y condiciones previstos en el Reglamento aprobado por el Real Decreto 364/1995, de 10 de marzo.
+
+2.7 La movilidad por razones de salud o rehabilitación y por razón de violencia de género.
+
+3. Del Secretario de Estado de Seguridad, en relación con los funcionarios destinados en el Departamento y sin perjuicio de lo delegado en otras autoridades, la convocatoria y resolución de concursos para la provisión de puestos de trabajo.
+
+> Se modifica por el apartado único.6 de la Orden INT/1797/2010, de 2 de julio. Ref. BOE-A-2010-10665.
 
 > Se modifica por el apartado 1.2 de la Orden INT/849/2009, de 31 de marzo. Ref. BOE-A-2009-5730.

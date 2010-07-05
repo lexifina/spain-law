@@ -22,9 +22,11 @@ El Subdirector General de Servicios Penitenciarios ejercerá, en su ámbito mate
 
 2.2.4 La concesión de ayudas y subvenciones.
 
-2.3 Respecto de los contratos de cuantía superior a 300.000 euros e inferior a 600.000 euros, el ejercicio de todas las atribuciones a las que se refieren los puntos 2.2.1 y 2.2.2 anteriores, con excepción de los acuerdos de inicio del expediente de contratación, adjudicación, prórroga, modificación y resolución, así como de resolución del recurso al que se refiere el artículo 37 de la Ley 30/2007, de 30 de octubre, que se delegan en el Titular de la Dirección General de Gestión de Recursos.
+2.3 Respecto de los gastos contractuales y no contractuales de cuantía superior a 300.000 euros e inferior a 600.000 euros, el ejercicio de todas las atribuciones a las que se refieren los puntos 2.2.1 y 2.2.2 anteriores, con excepción de los acuerdos de inicio del expediente de contratación, adjudicación, prórroga, modificación y resolución, así como de resolución del recurso al que se refiere el artículo 37 de la Ley 30/2007, de 30 de octubre, que se delegan en el Titular de la Dirección General de Gestión de Recursos.
 
 3. Del Subsecretario del Interior, salvo lo delegado en otras autoridades, la facultad de designar comisiones de servicio con derecho a indemnización en territorio nacional respecto del personal funcionario y laboral que preste sus servicios en la Secretaría General de Instituciones Penitenciarias.
+
+> Se modifica el punto 2.3 por el apartado único.5 de la Orden INT/1797/2010, de 2 de julio. Ref. BOE-A-2010-10665.
 
 > Se modifica por el art. 1.7 de la Orden INT/50/2010, de 12 de enero. Ref. BOE-A-2010-1002.
 

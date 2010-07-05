@@ -66,7 +66,9 @@ El Subsecretario del Interior ejercerá por delegación de las autoridades que s
 
 1.28 Autorizar la ampliación del plazo de rendición de las cuentas justificativas de la aplicación de las cantidades recibidas a justificar
 
-1.29 El despacho y resolución de cuantos expedientes y asuntos que, cualquiera que sea su índole, estén atribuidos al Titular del Departamento por precepto legal o reglamentario y no estén delegados en otras autoridades.
+1.29 La convocatoria de pruebas selectivas en relación con los Cuerpos o Escalas adscritos al Organismo Autónomo Jefatura Central de Tráfico.
+
+1.30 El despacho y resolución de cuantos expedientes y asuntos que, cualquiera que sea su índole, estén atribuidos al Titular del Departamento por precepto legal o reglamentario y no estén delegados en otras autoridades.
 
 2. Del Ministro Titular del Departamento y del Secretario de Estado de Seguridad:
 
@@ -77,6 +79,8 @@ El Subsecretario del Interior ejercerá por delegación de las autoridades que s
 2.3 El nombramiento y el cese del personal eventual.
 
 3. Del Secretario de Estado de Seguridad, la resolución de los recursos que se interpongan contra resoluciones de las autoridades centrales del Departamento, en cualesquiera de las materias objeto de la competencia del mismo, así como la declaración de lesividad de los actos administrativos cuando le corresponda.
+
+> Se añade el punto 1.29 y renumera el anterior como 1.30 por el apartado único.1 de la Orden INT/1797/2010, de 2 de julio. Ref. BOE-A-2010-10665.
 
 > Se modifica el punto 1.14 por el apartado único.1 de la Orden INT/3162/2009, de 25 de noviembre. Ref. BOE-A-2009-18872.
 

@@ -44,7 +44,7 @@ Los Subdirectores Generales, los Jefes de Zona, el de la Jefatura de Enseñanza,
 
 2.5 Los Jefes de Zona, los Generales Jefes de Unidad o Jefatura, de la Agrupación de Tráfico y de la Secretaría de Cooperación Internacional, respecto del personal dependiente orgánica y funcionalmente de los mismos, las comisiones de servicio en territorio nacional, sin límite temporal.
 
-2.6 Los Subdirectores Generales y el Jefe del Gabinete del Director General, respecto del personal directamente dependiente, las comisiones de servicio en territorio nacional y en el territorio de la Unión Europea, sin límite temporal.
+2.6 Los Subdirectores Generales, respecto del personal directamente dependiente, las comisiones de servicio en territorio nacional, sin límite temporal.
 
 En el ámbito de la Agrupación de Tráfico de la Guardia Civil se estará a lo dispuesto en la Orden de 10 de mayo de 1980, sobre relaciones de dicha Agrupación con la Dirección General de Tráfico, modificada por las Órdenes de 29 de diciembre de 1994 y de 5 de abril de 2001, y demás normativa aplicable.
 
@@ -85,3 +85,5 @@ En el ámbito de la Agrupación de Tráfico de la Guardia Civil se estará a lo 
 3.8.2 Respecto del personal directamente dependiente, de baja para el servicio, las autorizaciones para trasladar, temporalmente y por razones médicas, la residencia a un lugar distinto de aquél donde radique el destino del interesado.
 
 3.9 Los Jefes de la Agrupación Rural de Seguridad, de la Unidad de Acción Rural y de la Unidad de Protección y Seguridad, respecto del personal directamente dependiente, de baja para el servicio, las autorizaciones para trasladar, temporalmente y por razones médicas, la residencia a un lugar distinto de aquél donde radique el destino del interesado.
+
+> Se modifica el punto 2.6 por el apartado único.4 de la Orden INT/1797/2010, de 2 de julio. Ref. BOE-A-2010-10665.
