@@ -4,7 +4,7 @@
 
 a) Emitir los informes preceptivos sobre la participación voluntaria en los proyectos de desarrollo limpio y aplicación conjunta, de acuerdo con lo previsto en la normativa internacional y comunitaria vigente.
 
-b) Proponer al Consejo de Ministros el reconocimiento de unidades de reducción de emisiones o reducciones certificadas de emisiones como derechos de emisión válidos a efectos de lo dispuesto en el artículo 20.6.d).
+b) Proponer al Consejo de Ministros el reconocimiento de unidades de reducción de emisiones o reducciones certificadas de emisiones como derechos de emisión válidos a efectos de cumplir con la obligación de entrega previstas en el artículo 27.
 
 c) Actuar como punto focal de España en la relación con la autoridad nacional designada por otros países para la promoción y desarrollo de proyectos de desarrollo limpio y aplicación conjunta.
 
@@ -21,3 +21,5 @@ La secretaría de la comisión se encomendará a un funcionario de la Oficina Es
 4. La comisión se reunirá siempre que lo estimen necesario su presidente o los representantes de, al menos, dos de los ministerios, y, como mínimo, dos veces al año.
 
 La comisión se regirá por lo dispuesto en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se modifica la letra b) del apartado 1 por el art. único.23 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706

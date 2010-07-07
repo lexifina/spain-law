@@ -1,6 +1,10 @@
 ## ANEXO IV
 
-## Criterios de la verificación
+## PARTE A
+
+## Verificación de las emisiones de las instalaciones fijas
+
+Criterios de la verificación
 
 ## Principios generales
 
@@ -59,3 +63,39 @@ a) Las disposiciones de esta Ley, así como, en su caso, de las normas y directr
 b) Los requisitos legales, reglamentarios y administrativos aplicables a las actividades verificadas.
 
 c) La generación de toda la información relacionada con cada fuente de emisiones de la instalación, en especial la relativa a la recogida, medición, cálculo y notificación de los datos.
+
+## PARTE B
+
+## Verificación de las emisiones de las actividades de aviación
+
+13. Los principios generales y los métodos establecidos en el presente anexo se aplicarán a la verificación de los informes de las emisiones procedentes de los vuelos que correspondan a una actividad de aviación enumerada en el Anexo I.
+
+A estos efectos:
+
+a) en el apartado 3, la referencia al titular se entenderá como referencia al operador aéreo, y en la letra, c) la referencia a la instalación se entenderá como referencia a la aeronave utilizada para realizar las actividades de aviación a las que se refiere el informe;
+
+b) en el apartado 5, la referencia a la instalación se entenderá como referencia al operador aéreo;
+
+c) en el apartado 6, la referencia a las actividades llevadas a cabo en la instalación se entenderá como referencia a las actividades de aviación a las que se refiere el informe, realizadas por el operador aéreo;
+
+d) en el apartado 7, la referencia al emplazamiento de la instalación se entenderá como referencia a los emplazamientos utilizados por el operador aéreo para realizar las actividades de aviación a las que se refiere el informe;
+
+e) en los apartados 8 y 9, las referencias a las fuentes de emisiones de la instalación se entenderán como referencia a la aeronave de la que es responsable el operador, y
+
+f) en los apartados 10 y 12, las referencias al titular se entenderán como referencias al operador aéreo.
+
+Disposiciones adicionales relativas a la verificación de los informes de emisiones procedentes de la aviación:
+
+14. el verificador comprobará en particular que:
+
+a) se han tenido en cuenta todos los vuelos correspondientes a una actividad de aviación enumerada en el Anexo I; en esta tarea, el verificador se servirá de los datos sobre los horarios y de otros datos sobre tráfico del operador aéreo, en particular los datos solicitados a Eurocontrol por dicho operador;
+
+b) los datos agregados sobre consumo de combustible y los datos sobre el combustible comprado o suministrado de otro modo a las aeronaves que realizan la actividad de aviación son totalmente coherentes.
+
+Disposiciones adicionales relativas a la verificación de los datos sobre toneladas-kilómetro presentados a efectos las solicitudes de asignación a los operadores aéreos:
+
+15. los principios generales y los métodos aplicados para verificar los informes de emisiones de conformidad con el artículo 22, tal y como se establecen en el presente Anexo, también se aplicarán, en su caso, de la misma manera a la verificación de los datos sobre toneladas-kilómetro de aviación.
+
+16. el verificador comprobará en particular que, en la solicitud presentada por el operador de conformidad con los artículos 38 y 41 solamente se han tenido en cuenta los vuelos realmente efectuados y correspondientes a una actividad de aviación enumerada en el Anexo I de la que es responsable el operador aéreo. En esta tarea, el verificador se servirá de los datos sobre tráfico del operador aéreo, incluidos los datos solicitados a Eurocontrol por dicho operador. Además, el verificador comprobará que la carga útil notificada por el operador aéreo corresponde a la que figura en el registro que lleva dicho operador con fines de seguridad.
+
+> Se reordena como Parte A y se añade la Parte B por el art. único.42 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
