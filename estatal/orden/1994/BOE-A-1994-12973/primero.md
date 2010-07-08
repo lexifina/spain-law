@@ -4,13 +4,15 @@
 
 2. Existirán igualmente, con el rango de dirección adjunta, los siguientes órganos centrales:
 
-Servicio Jurídico.
+a) Servicio Jurídico.
 
-Servicio de Auditoría Interna.
+b) Servicio de Auditoría Interna.
 
-Servicio de Gestión Económica.
+c) Servicio de Gestión Económica.
 
-Servicio de Estudios Tributarios y Estadísticas.
+d) Servicio de Estudios Tributarios y Estadísticas.
+
+e) Servicio de Planificación y Relaciones Institucionales.
 
 3. Asimismo existirá, con el rango de Dirección Adjunta, dependiendo directamente del Director general de la Agencia, como órgano central de la misma y competencias en todo el territorio nacional, la Delegación Central de Grandes Contribuyentes.
 
@@ -19,6 +21,8 @@ Servicio de Estudios Tributarios y Estadísticas.
 5. El Comité de Coordinación de la Dirección Territorial, integrado por los miembros del Comité de Dirección, por el Delegado Central de Grandes Contribuyentes y por los Delegados especiales de la Agencia, será el cauce institucional de coordinación e información entre la Dirección de la Agencia y su organización territorial.
 
 6. La Comisión de Seguridad y Control, presidida por el Presidente de la Agencia Estatal de Administración Tributaria e integrada, por su Director general, el Interventor general de la Administración del Estado, el Inspector general de Economía y Hacienda y los miembros del Comité Permanente de Dirección de la Agencia, tendrá como cometido básico la elaboración de criterios y la propuesta de normas que aseguren el ajuste estricto de las actividades de la Agencia a las disposiciones que las regulan, el mantenimiento de la seguridad interna del Ente y la defensa de la integridad de los intereses económicos de la Hacienda. La Comisión de Seguridad y Control supervisará los trabajos de las Comisiones Sectoriales de Seguridad y Control que se establezcan en el seno de la Agencia y tendrá acceso a los informes de control financiero o de auditoría relativos a las anteriores cuestiones.
+
+> Se modifica el apartado 2 por el art. único.1 de la Orden EHA/1813/2010, de 23 de junio. Ref. BOE-A-2010-10790.
 
 > Se modifican los apartados 1 y 2 por el art. único.1 de la Orden EHA/2150/2008, de 15 de julio. Ref. BOE-A-2008-12524.
 
