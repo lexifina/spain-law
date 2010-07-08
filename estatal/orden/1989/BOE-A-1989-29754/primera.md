@@ -6,7 +6,7 @@ a) Determinar la forma en que se publicarán los tipos de interés mencionados e
 
 b) Definir el concepto de tipo de interés preferencial mencionado en el punto 1 del número tercero.
 
-c) Establecer, atendiendo a circunstancias objetivas, los desfases máximos admisibles entre fechas de realización y valoración de las distintas operaciones a que se refiere el número cuarto, velando por eliminar las prácticas que, sin causa justificada, perjudiquen a la clientela.
+c) (Derogada)
 
 d) Examinar las reglas sobre fechas de valoración y las tarifas de comisiones y gastos a que se refieren los números cuarto y quinto, y requerir su modificación cuando no cumplan los criterios establecidos en el número sexto.
 
@@ -23,3 +23,5 @@ i) Establecer, en los contratos de duración indefinida y en las operaciones al 
 j) Desarrollar lo dispuesto en esta Orden en relación con la organización y funcionamiento del Servicio de Reclamaciones, pudiendo señalar los requisitos mínimos a cumplir por el defensor del cliente u órgano equivalente de las Entidades de crédito a efecto de lo previsto en el número noveno b).
 
 k) Desarrollar lo dispuesto en esta orden en materia de publicidad.
+
+> Se deroga la letra c) por la disposición derogatoria única.b) de la Orden EHA/1608/2010, de 14 de junio. Ref. BOE-A-2010-9641.

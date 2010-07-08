@@ -1,0 +1,3 @@
+## Disposición adicional primera. Régimen aplicable a las determinadas operaciones y contratos.
+
+Conforme al último párrafo del artículo 8 de la Ley 22/2007, de 11 de julio, sobre comercialización a distancia de servicios financieros destinados a los consumidores, serán de aplicación especial los artículos 6, 7, 11 y 12 de esta orden, en lo que se refiere a prestación de servicios de pago, en lugar de las disposiciones en materia de información recogidas en el artículo 7.1 de la citada ley. No obstante será aplicable lo previsto en las letras c) y g) del artículo 7.1.2; a), b) y e) del artículo 7.1.3, y b) del artículo 7.1.4 de la Ley 22/2007, de 11 de julio.

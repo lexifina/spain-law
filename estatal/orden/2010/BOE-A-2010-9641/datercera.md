@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Información contable y habilitación al Banco de España.
+
+En los términos previstos en el artículo 14 de la Ley 16/2009, de 13 de noviembre, las entidades de pago ajustarán su información contable a los principios contenidos en el Plan General de Contabilidad, con las adaptaciones que se establezcan mediante Circular del Banco de España, que requerirá, en lo que se refiera a estados públicos, informe previo del Instituto de Contabilidad y Auditoría de Cuentas. En todo caso, la normativa contable que se establezca de forma específica para las entidades de pago deberá tomar en consideración los criterios y la terminología establecidos en la normativa contable aplicable a las entidades de crédito.

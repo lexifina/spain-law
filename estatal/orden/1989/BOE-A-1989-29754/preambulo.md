@@ -1,0 +1,1 @@
+Se derogan todas las disposiciones relativas a la actividad de prestación de servicios de pago de las entidades de crédito por la disposición derogatoria única.b) de la Orden EHA/1608/2010, de 14 de junio. Ref. BOE-A-2010-9641.
