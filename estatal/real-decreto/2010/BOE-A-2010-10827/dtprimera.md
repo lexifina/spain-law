@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Adecuación de las autorizaciones actuales al nuevo régimen de autorización.
+
+En el plazo de seis meses desde la entrada en vigor del presente real decreto deberán presentarse las solicitudes que sean necesarias para adecuar las autorizaciones actuales a lo dispuesto en el mismo, transcurrido este plazo, se entenderán revocadas las autorizaciones cuyos titulares no hubieran solicitado su adecuación al nuevo régimen. La tasa a pagar en este supuesto será la prevista en el artículo 109.4 de la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios

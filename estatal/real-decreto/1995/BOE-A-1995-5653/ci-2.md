@@ -1,3 +1,5 @@
 ## CAPÍTULO I
 
 ## Importación de terceros países y envío desde otros Estados miembros
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 824/2010, de 25 de junio. Ref. BOE-A-2010-10827.
