@@ -18,6 +18,10 @@ Uno. Para el cumplimiento de sus fines, la Comisión de Control tendrá atribuid
 
 8.ª Requerir al Presidente la convocatoria de la Asamblea General con carácter extraordinario, en el supuesto previsto en el punto 5.º de este apartado.
 
+9.ª En su caso, las previstas en la disposición adicional decimoctava de la Ley 24/1988, de 28 de julio, del Mercado de Valores, salvo cuando las hubiese asumido un Comité de Auditoría creado al efecto.
+
 Dos. Para el cumplimiento de estas funciones podrá recabar del Consejo de Administración cuantos antecedentes e información Considere necesarios.
 
 Tres. El Presidente de la Comisión de Control deberá informar al Ministerio de Economía y Hacienda y a la Comunidad Autónoma respectiva, sobre las materias relacionadas en el punto 7.º del apartado primero del presente artículo.
+
+> Se añade el número 9ª al apartado 1 por el art. 3.16 del Real Decreto-Ley 11/2010, de 9 de julio. Ref. BOE-A-2010-11086

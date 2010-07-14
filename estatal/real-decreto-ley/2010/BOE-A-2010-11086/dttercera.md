@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Adaptación de los Estatutos de las cajas de ahorros.
+
+En el plazo máximo de tres meses a contar desde la publicación del desarrollo legislativo por las Comunidades Autónomas de las normas básicas del presente Real Decreto-Ley, y, en todo caso dentro del término de los ocho meses desde la publicación de este Real Decreto-Ley las cajas de ahorros procederán a la adaptación de sus Estatutos y Reglamentos a las disposiciones que en la misma se contienen, elevándolos al Ministerio de Economía y Hacienda o a la Comunidad Autónoma respectiva para su aprobación en el plazo de un mes.

@@ -40,7 +40,7 @@ El Fondo de Participación, el Fondo de Reservas de los Cuotapartícipes y, en c
 
 El Fondo de Participación y el Fondo de Reservas de Cuotapartícipes tendrán la consideración de recursos propios.
 
-4. Las cuotas participativas confieren a sus titulares los siguientes derechos de carácter económico:
+4. Las cuotas participativas confieren a sus titulares, en todo caso, los siguientes derechos:
 
 a) Participación en el reparto del excedente de libre disposición de la caja en la proporción que el volumen de cuotas en circulación suponga sobre el patrimonio de la caja más el volumen de cuotas en circulación. Se entiende por volumen de cuotas en circulación la suma del Fondo de Participación y el Fondo de Reserva de Cuotapartícipes y el Fondo de Estabilización de las emisiones de cuotas participativas en circulación, y por patrimonio el Fondo Fundacional, las reservas generales de la caja y el Fondo para riesgos bancarios generales.
 
@@ -48,19 +48,15 @@ b) Suscripción preferente de cuotas participativas en nuevas emisiones, sin per
 
 c) Obtención de su valor liquidativo en el caso de liquidación.
 
-d) Obtención, en los casos de amortización previstos en el apartado 9 de este artículo, del valor de mercado de las cuotas participativas.
+d) Canje de las cuotas en los términos previstos en el apartado 9 de este artículo.
 
 e) Percepción de una retribución de carácter variable con cargo a la parte del excedente de libre disposición que les corresponda o, en su caso, al Fondo de Estabilización.
+
+Adicionalmente, las cuotas participativas podrán conferir a sus titulares la representación de sus intereses en los órganos de gobierno de la entidad emisora, en los términos previstos en la Ley 31/1985, de 2 de agosto, de regulación de las normas básicas sobre Órganos Rectores de las Cajas de Ahorros.
 
 Se entiende por valor liquidativo de cada cuota la parte que corresponda a cada cuota del Fondo de Participación, del Fondo de Reserva de Cuotapartícipes y del Fondo de Estabilización, minorada o incrementada por la parte que le sea atribuible de la pérdida o beneficio del balance de liquidación no distribuido anteriormente.
 
 Se entiende por valor de mercado la media de la cotización en mercado secundario de las últimas 30 sesiones previas a la determinación del hecho que conlleva la operación de amortización. Caso de no ser posible esta determinación, el valor vendrá determinado por la valoración efectuada por un auditor independiente elegido por sorteo de entre los auditores de cuentas y sociedades de auditoría inscritos como ejercientes en el Registro Oficial de Auditores de Cuentas, que hayan auditado entidades de crédito excluyendo al propio auditor de cuentas de la Caja.
-
-Las cuotas carecen de todo derecho político.
-
-Podrá crearse un sindicato de cuotapartícipes, cuyo Presidente podrá asistir a las Asambleas Generales de la Caja con voz y sin voto. En sus normas de funcionamiento, el sindicato se regulará por lo que se disponga en las normas de desarrollo de esta Ley.
-
-Las Cajas de Ahorros habrán de consignar en la emisión de las cuotas participativas una cláusula de amortización automática para el supuesto de producirse una modificación del régimen jurídico relativo a los derechos políticos de los cuotapartícipes. La amortización a que se refiere el presente párrafo deberá llevarse a cabo de acuerdo con un plan específico, que deberá ser aprobado por el Banco de España, de modo que no se vea afectada la solvencia de la Entidad.
 
 5. Las cuotas participativas no podrán emitirse por un valor inferior a su nominal. Su emisión deberá efectuarse con prima cuando sea necesario para evitar la dilución de los derechos preexistentes sobre el patrimonio y los excedentes futuros. La prima se asignará a las reservas generales de la caja y al fondo de reserva de los cuotapartícipes en la proporción que determine el acuerdo de emisión. El punto de partida para la valoración de la prima de emisión será el valor económico de la Caja de Ahorros que deberá tener en cuenta, entre otros, el valor del fondo de comercio, plusvalías latentes y capacidad real de generación de beneficios en el futuro.
 
@@ -70,33 +66,33 @@ Podrán emitirse cuotas participativas de distinta clase o serie, correspondiend
 
 6. El volumen de cuotas participativas en circulación, no podrá superar el 50 por 100 del patrimonio de la Caja.
 
-7. Las cuotas participativas cotizarán en mercados secundarios organizados. No obstante, ninguna persona, natural o jurídica, o grupo económico, podrá ostentar, directa o indirectamente, cuotas participativas por importe superior al 5 por 100 de las cuotas totales vigentes. Caso de superarse el mismo, se procederá a la suspensión de todos los derechos económicos de las cuotas adquiridas por la persona o grupo económico.
+7. Las cuotas participativas cotizarán necesariamente en mercados secundarios organizados siempre y cuando su emisión se dirija al público en general. Siempre que coticen en tales mercados resultarán de aplicación las obligaciones previstas en la Ley 24/1988, de 28 de julio, del Mercado de Valores para los accionistas y emisores de acciones. Asimismo, será de aplicación a los titulares de cuotas participativas el régimen de control de participaciones significativas en entidades de crédito previsto en el Título VI de la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito.
 
-Lo anterior se entenderá sin perjuicio de la posibilidad de que el Fondo de Garantía de Depósitos, el Fondo de Reestructuración Ordenada Bancaria u otras entidades del sector de cajas de ahorro, previamente autorizadas por el Banco de España, puedan superar el límite del 5 por 100 de cuotas participativas emitidas por una Caja de Ahorros en situaciones de excepcional gravedad que pongan en peligro la efectividad de sus recursos propios, así como la estabilidad, liquidez y solvencia de la entidad emisora. En tales supuestos, tampoco será de aplicación el límite establecido en el apartado 6 del presente artículo.
+No será de aplicación a las cuotas participativas el régimen de las ofertas públicas de adquisición de valores.
 
-8. El órgano competente para acordar cada emisión de cuotas participativas será la Asamblea General, que podrá delegar esta competencia en el Consejo de Administración de la Caja. La citada competencia se entenderá delegada, en todo caso, en los administradores provisionales designados por el Banco de España al amparo de lo dispuesto en el título III de la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito.
+8. El órgano competente para acordar cada emisión de cuotas participativas será la Asamblea General, que podrá delegar esta competencia en el Consejo de Administración de la Caja. La citada competencia se entenderá delegada, en todo caso, en los administradores provisionales designados por el Banco de España al amparo de lo dispuesto en el Título III de la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito. Conforme al artículo 25.1 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, la emisión de cuotas participativas no requerirá autorización administrativa previa.
 
-Estará prohibida la adquisición originaria de cuotas participativas por parte de la Caja o su grupo económico. No obstante, sí se podrá realizar una adquisición derivativa, siempre que el valor nominal de las cuotas que obren en poder de la entidad o su grupo consolidable no exceda del 5 por 100 de las cuotas totales en circulación.
+Estará prohibida la adquisición originaria de cuotas participativas por parte de la Caja o su grupo económico. No obstante, sí se podrá realizar una adquisición derivativa, siempre que el valor nominal de las cuotas que obren en poder de la entidad o su grupo económico no exceda del 5 por 100 de las cuotas totales en circulación. En caso de superar dicho límite, la Caja deberá proceder a la enajenación o amortización del exceso en el plazo máximo de tres meses aplicando en lo restante lo establecido en el artículo 76 del Texto Refundido de la Ley de Sociedades Anónimas aprobado por el Real Decreto Legislativo 1564/1989, de 22 de diciembre.». La prohibición y el límite a los que se refiere este párrafo no serán, sin embargo, de aplicación cuando las cuotas participativas sean adquiridas por la entidad central del sistema institucional de protección al que pertenezca la caja emisora.
 
-9. En los casos de fusión, la Caja de Ahorros emisora otorgará a los cuotapartícipes un plazo mínimo de un mes, contado desde la inscripción del correspondiente acuerdo en el Registro Mercantil, para que éstos puedan, si lo desean, ceder sus cuotas a la Caja. Ésta deberá abonar por ellas el valor de mercado determinado en el apartado 4.
-
-Caso de superar el límite previsto en el apartado anterior la Caja deberá proceder a la enajenación o amortización, en el plazo máximo de tres meses, de ese exceso sobre el límite máximo permitido.
+9. En los casos de fusión, las cuotas participativas de las cajas que se extingan se canjearán por cuotas de la caja resultante de la fusión, de forma que el valor económico de sus derechos no sufra alteración.
 
 10. El excedente de libre disposición que, de acuerdo con el apartado 4, corresponda a las cuotas participativas se distribuirá entre los siguientes destinos:
 
-Fondo de Reserva de los Cuotapartícipes.
+a) Fondo de Reserva de los Cuotapartícipes.
 
-Retribución efectiva de los Cuotapartícipes.
+b) Retribución efectiva de los Cuotapartícipes.
 
-Fondo de Estabilización, en su caso.
+c) Fondo de Estabilización, en su caso.
 
-La retribución anual de las cuotas y su distribución deberá ser aprobada por la Asamblea General, quien tendrá en cuenta el coeficiente de solvencia de la Caja a la hora de realizar tal distribución.
+La retribución anual de las cuotas y su distribución deberá ser aprobada por la Asamblea General, quien tendrá en cuenta el coeficiente de solvencia de la Caja a la hora de realizar tal distribución. Sin perjuicio de las atribuciones del Banco de España, dicha distribución no requerirá ninguna autorización administrativa en el ámbito de la ordenación del crédito.
 
-Cuando la Caja de Ahorros o grupo consolidado al que pertenezca presente un déficit de recursos propios sobre el mínimo legalmente exigido, se destinará al Fondo de Reserva de Cuotapartícipes el 100 por 100 del excedente anual correspondiente a las cuotas y la retribución de los cuotapartícipes con cargo al Fondo de Estabilización requerirá previa autorización del Banco de España.
+Cuando la Caja de Ahorros o grupo consolidado al que pertenezca presente un déficit de recursos propios sobre el mínimo legalmente exigido, se destinará al Fondo de Reserva de Cuotapartícipes el 100 % del excedente anual correspondiente a las cuotas y la retribución de los cuotapartícipes con cargo al Fondo de Estabilización requerirá previa autorización del Banco de España.
 
 11. La Confederación Española de Cajas de Ahorros podrá emitir cuotas participativas de asociación, siéndoles de aplicación lo dispuesto en los apartados anteriores con las adaptaciones que establezca el Gobierno.
 
 12. Se habilita al Gobierno para regular los criterios para la asignación de las primas de emisión, la retribución en efectivo a que se refiere el párrafo e) del apartado 4, y la atribución de reservas que no procedan de aplicación de resultados, en su caso, de las cuotas participativas, así como las partidas que integran los recursos propios y sus deducciones, pudiendo establecer límites o condiciones a aquellas que presenten una eficacia reducida para la cobertura de pérdidas.
+
+> Se modifican los apartados 4, 7, 8, 9 y 10 por el art. 2 del Real Decreto-Ley 11/2010, de 9 de julio. Ref. BOE-A-2010-11086
 
 > Se modifican los apartados 7 y 8 por la disposición final 3 del Real Decreto-Ley 9/2009, de 26 de junio. Ref. BOE-A-2009-10575
 

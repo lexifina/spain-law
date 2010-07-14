@@ -1,3 +1,5 @@
 ## Artículo veinticinco.
 
-En el ejercicio de las funciones de los miembros de los órganos de gobierno de las Cajas de Ahorros, con excepción del Presidente del Consejo de Administración, no se podrán originar percepciones distintas de las dietas por asistencia y desplazamiento.
+El ejercicio de las funciones de los miembros de los Órganos de Gobierno de las cajas de ahorros diferentes de las de consejeros generales de la Asamblea podrá ser retribuido. Corresponderá a la Asamblea General la determinación de dicha remuneración.
+
+> Se modifica por el art. 3.17 del Real Decreto-Ley 11/2010, de 9 de julio. Ref. BOE-A-2010-11086

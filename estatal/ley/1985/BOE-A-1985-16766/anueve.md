@@ -4,9 +4,11 @@ Uno. Los Consejeros Generales serán nombrados por un período que será el señ
 
 La duración del mandato no podrá superar los doce años, sea cual sea la representación que ostente. Cumplido el mandato de doce años de forma continuada o interrumpida, y transcurridos ocho años desde dicha fecha, podrá volver a ser elegido en las condiciones establecidas en la presente Ley.
 
-Dos. La renovación de los Consejeros generales será acometida por mitades, respetando la proporcionalidad de las representaciones que componen la Asamblea General.
+Dos. La renovación de los Consejeros generales no podrá suponer una renovación total o una renovación parcial que pueda asimilarse a la total dado el porcentaje renovado o la proximidad temporal entre renovaciones y se efectuará, en todo caso, respetando la proporcionalidad de las representaciones que componen la Asamblea general.
 
-Tres. El procedimiento y condiciones para la renovación, la reelección y provisión de vacantes de Consejeros generales se determinará en las normas que desarrollen la presente Ley.
+Tres. El procedimiento y condiciones para la renovación, la reelección y provisión de vacantes de Consejeros generales se determinará en las normas que desarrollen la presente ley.
+
+> Se modifica por el art. 3.6 del Real Decreto-Ley 11/2010, de 9 de julio. Ref. BOE-A-2010-11086
 
 > Se modifica el apartado 1 por el art. 8.5 de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807
 
