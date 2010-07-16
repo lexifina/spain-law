@@ -1,0 +1,5 @@
+## Disposición final primera. Títulos competenciales.
+
+1. Este real decreto tiene carácter de legislación básica al dictarse al amparo de las competencias que corresponden al Estado en el artículo 149.1.13.ª y 23.ª de la Constitución para dictar las bases de la actividad económica y de protección del medio ambiente, respectivamente, salvo los artículos 14, 15, 19 y 21 que se dictan en base a la competencia exclusiva que corresponde al Estado en materia de seguridad pública, conforme al artículo 149.1.29.ª de la Constitución y el artículo 20 que se dicta en virtud de lo dispuesto en el artículo 149.1.3.ª de la Constitución que atribuye al Estado la competencia exclusiva en materia de relaciones internacionales.
+
+2. Las competencias que se atribuyen a los organismos de cuenca en este real decreto se enmarcan en la cláusula 22.ª del artículo 149.1 de la Constitución que otorga al Estado la competencia exclusiva en materia de recursos y aprovechamientos hidráulicos de las aguas intercomunitarias.
