@@ -57,6 +57,10 @@ Posiciones posteriores obra lineal: 1,15
 
 Elemento de Transporte secundario: 0,62
 
+(1) Una posición se realiza con simultaneidad cuando se incluye en el proyecto inicial o cuando se solicita su inclusión por parte del distribuidor o transportista al menos un año antes de la fecha de puesta en servicio de la línea.
+
+(2) Una posición con trampas de lanzamiento y recepción se considera formada por dos posiciones de trampa de rascadores.
+
 Estaciones de Compresión en Gasoductos de Transporte Primario
 
 |  | Año de Puesta en Marcha |
@@ -99,9 +103,9 @@ Líneas Adicionales en: ERM /EM (3) 0,31
 
 Elementos de Transporte: Secundario 0,97
 
-(1) Aplicable a EM equivalentes a un tamaños de G-1000 o superior.
+(1) Aplicable a EM equivalentes a un tamaño de G-1000 o superior.
 
-(2) Una ERM/EM es posterior cuando se inserte una nueva posición de derivación (tipo D), o se transforme en una posición de seccionamiento (tipo S) existente en posición de derivación (tipo D).
+(2) Una ERM/EM es posterior cuando se inserte una nueva posición de derivación (tipo D), o se transforme una posición de seccionamiento (tipo S) existente en posición de derivación (tipo D).
 
 (3) Aplicable a nuevas líneas construidas sobre ERM/EM existentes y puesta en marcha después de 5 años.
 
@@ -132,10 +136,10 @@ Tercero. Valores unitarios de Explotación de Instalaciones de Transporte
 
 Gasoductos Transporte Primario
 
-|  | Año de Retribución |
+|  | Año de retribución |
 | --- | --- |
-| 2008 | 2009 | 2010 |
-| €/m /pulg | 0,4584 | 0,4693 | 0,4627 |
+|  | 2008 | 2009 | 2010 |
+| €/m/pulg | 0,4584 | 0,4693 | 0,4628 |
 
 Coeficiente corrector.
 
@@ -188,3 +192,5 @@ IPC: variación anual en tanto por uno, entre octubre del año n-1 y octubre del
 IPRI bienes de equipo: variación anual en tanto por uno, entre octubre del año n-1 y octubre del año n-2, del índice de Precios Industriales, correspondiente a la clasificación por destino económico de los componentes de bienes de equipo.
 
 “x” e “y”: Coeficientes cuyos valores serán iguales 0,005 y 0,01 respectivamente.
+
+> Se modifican los apartados 1, 2 y 3 por la disposición final 2.8 a 10 de la Orden ITC/1890/2010, de 13 de julio. Ref. BOE-A-2010-11181.

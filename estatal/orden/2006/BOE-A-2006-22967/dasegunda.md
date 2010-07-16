@@ -6,4 +6,6 @@ La primera revisión de los costes unitarios de operación y mantenimiento fijos
 
 El Ministerio de Industria, Turismo y Comercio podrá actualizar los valores del anexo V de esta orden siempre que concurran causas que así lo justifiquen.
 
+> Se modifica el último párrafo por la disposición final 4 de la Orden ITC/3520/2009, de 28 de diciembre. Ref. BOE-A-2009-21174., en la redacción dada por la disposición final 2.4 de la Orden ITC/1890/2010, de 13 de julio. Ref. BOE-A-2010-11181.
+
 > Se modifica el último párrafo por la disposición final 4 de la Orden ITC/3520/2009, de 28 de diciembre. Ref. BOE-A-2009-21174.
