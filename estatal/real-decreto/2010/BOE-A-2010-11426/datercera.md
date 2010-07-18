@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Enseñanza de lengua extranjera en educación primaria.
+
+El profesorado que reúna los requisitos para impartir docencia de lenguas extranjeras en la Educación Secundaria Obligatoria o Bachillerato podrá excepcionalmente y por un tiempo limitado, impartir enseñanzas de las lenguas extranjeras respectivas en la etapa de Educación primaria, por extensión y analogía con lo dispuesto en la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. A estos efectos, las Administraciones educativas deberán fijar en su ámbito de gestión, el tiempo máximo durante el que este profesorado podrá impartir docencia en educación primaria.
