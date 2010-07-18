@@ -1,41 +1,41 @@
 ## Disposición adicional segunda.
 
-1. Se ceden a la Comunidad Autónoma de Aragón, en los términos previstos en el apartado 3 de esta disposición, los siguientes tributos:
+1. Se cede a la Comunidad Autónoma de Aragón el rendimiento de los siguientes tributos:
 
-a) Tributos estatales cedidos totalmente:
+a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial, en el porcentaje del 50 por ciento.
 
-– Impuesto sobre el Patrimonio.
+b) Impuesto sobre el Patrimonio.
 
-– Impuesto sobre Sucesiones y Donaciones.
+c) Impuesto sobre Sucesiones y Donaciones.
 
-– Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+d) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
 
-– Los Tributos sobre el Juego.
+e) Los Tributos sobre el Juego.
 
-– El Impuesto Especial sobre la Electricidad.
+f) El Impuesto sobre el Valor Añadido, con carácter parcial, en el porcentaje del 50 por ciento.
 
-– El Impuesto Especial sobre Determinados Medios de Transporte.
+g) El Impuesto Especial sobre la Cerveza, con carácter parcial, en el porcentaje del 58 por ciento.
 
-– El Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
+h) El Impuesto Especial sobre el Vino y Bebidas Fermentadas, con carácter parcial, en el porcentaje del 58 por ciento.
 
-b) Tributos estatales cedidos parcialmente:
+i) El Impuesto Especial sobre Productos Intermedios, con carácter parcial, en el porcentaje del 58 por ciento.
 
-– Impuesto sobre la Renta de las Personas Físicas.
+j) El Impuesto Especial sobre el Alcohol y Bebidas Derivadas, con carácter parcial, en el porcentaje del 58 por ciento.
 
-– El Impuesto sobre el Valor Añadido.
+k) El Impuesto Especial sobre Hidrocarburos, con carácter parcial, en el porcentaje del 58 por ciento.
 
-– El Impuesto Especial sobre la Cerveza.
+l) El Impuesto Especial sobre las Labores del Tabaco, con carácter parcial, en el porcentaje del 58 por ciento.
 
-– El Impuesto Especial sobre el Vino y Bebidas Fermentadas.
+m) El Impuesto Especial sobre la Electricidad.
 
-– El Impuesto Especial sobre Productos Intermedios.
+n) El Impuesto Especial sobre Determinados Medios de Transporte.
 
-– El Impuesto Especial sobre el Alcohol y Bebidas Derivadas.
-
-– El Impuesto Especial sobre Hidrocarburos.
-
-– El Impuesto Especial sobre las Labores del Tabaco.
+ñ) El Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
 
 2. El contenido de esta disposición se podrá modificar mediante acuerdo del Gobierno del Estado con el de Aragón, que será tramitado por aquél como proyecto de ley. A estos efectos, la modificación de la presente disposición no se considerará modificación del Estatuto.
 
 3. El alcance y condiciones de la cesión se establecerán por la Comisión Mixta, que, en todo caso, los referirá a rendimientos en Aragón. El Gobierno del Estado tramitará el acuerdo de la Comisión como proyecto de ley.
+
+> Se modifica el apartado 1 por el art. 1 de la Ley 24/2010, de 16 de julio. Ref. BOE-A-2010-11418
+
+> Esta modificación tendrá efectos desde el 1 de enero de 2009, según establece la disposición final única de la citada ley.
