@@ -1,3 +1,5 @@
 ## CAPÍTULO II
 
 ## Autorizaciones temporales de circulación para vehículos con dispositivos retrorreflectantes
+
+> Se deroga por la disposición derogatoria única de la Orden PRE/52/2010, de 21 de enero. Ref. BOE-A-2010-1011.

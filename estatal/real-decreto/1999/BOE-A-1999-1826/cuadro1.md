@@ -1,4 +1,4 @@
-Cuadro 1
+## Cuadro 1
 
 | TIPO PLACA MATRÍCULA | Medidas (mm) | Caracteres (mm) | Sepa- ración entre carac- teres (mm) | Espacio entre grupos de carac- teres (mm) | Separación a bordes (mm) | Color | Tolerancia entre caracteres, grupo de caracteres y distancia a bordes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -7,15 +7,18 @@ Cuadro 1
 | Ordinaria larga (1) | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 41 | 11,5 | – | 62 | 22 | – | – | B | N | ± 3 mm |
 | Ordinaria alta (1) | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 10 | - | 15 | 26 | 80 | 40 | 87,5 | 87,5 | B | N |
 | Ordinaria larga delantera (2) | 340 × 110 | 330 × 100 | 30 | 60 | 6 | 8 | 24 | 20 | – | 48 | 8 | – | – | B | N |
-| Motocicletas ordinaria | 220 × 160 | 210 × 150 | 30 | 60 | 6 | 10 | - | 10 | 10 | 50 | 10 | 50 | 50 | B | N |
-| Ordinaria larga con siglas de provincia (1)* | 520 × 110 | 510 × 110 | 45 | 77 | 10 | 8 | 27 | 11,5 | - | 48 | 8 | - | - | B | N |
-| Ordinaria alta con siglas de provincia (1) (3)* | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 10 | 50 | 15 | 26 | 60 | 20 | 60 | 60 | B | N |
-| Ordinaria larga delantera con siglas de provincia (2)* | 340 × 110 | 330 × 100 | 30 | 60 | 6 | 6 | 6 | 20 | - | 44 | 4 | - | - | B | N |
-| Motocicletas ordinaria con siglas de provincia (3)* | 220 × 160 | 210 × 150 | 30 | 60 | 6 | 8 10 | 18 | 10 | 10 | 48 | 8 | 50 | 10 | B | N |
-| Vehículos especiales | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 10 15 | 40 | 20 | 30 | 25 | 25 | 75 | 75 | B | R |
+| Motocicletas ordinaria (4) | 220 × 160 | 210 × 150 | 30 | 60 | 6 | 10 | - | 10 | 10 | 50 | 10 | 50 | 50 | B | N |
+| Motocicletas corta (5) | 132 x 96 | 122 × 86 | 13 | 30 | 3,5 | 6 10 | - | 7 | 12 | 40 | 8 | 31,5 | 31,5 | B | N |
+| Ordinaria larga con siglas de provincia (1) * | 520 × 110 | 510 × 110 | 45 | 77 | 10 | 8 | 27 | 11,5 | - | 48 | 8 | - | - | B | N |
+| Ordinaria alta con siglas de provincia (1) (3) * | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 10 | 50 | 15 | 26 | 60 | 20 | 60 | 60 | B | N |
+| Ordinaria larga delantera con siglas de provincia (2) * | 340 × 110 | 330 × 100 | 30 | 60 | 6 | 6 | 6 | 20 | - | 44 | 4 | - | - | B | N |
+| Motocicletas ordinaria con siglas de provincia (3) (4) * | 220 × 160 | 210 × 150 | 30 | 60 | 6 | 8 10 | 18 | 10 | 10 | 48 | 8 | 50 | 10 | B | N |
+| Vehículos especiales larga | 340 x10 | 330 x 100 | 30 | 60 | 6 | 8 | 15 | 20 | - | 10 | 10 | - | - | B | R |
+| Vehículos especiales alta | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 10 15 | 40 | 20 | 30 | 25 | 25 | 75 | 75 | B | R |
 | Remolques y semirremolques larga | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 12 | 30 | 11,5 | – | 15 | 15 | – | – | R | N |
 | Remolques y semirremolques alta | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 9 10 | 40 | 15 | 26 | 19 | 19 | 87,5 | 87,5 | R | N |
-| Ciclomotores | 100 × 168 | 90 × 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | AM | N |
+| Ciclomotores | 100 × 168 | 90 x 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | AM | N |
+| Cuatriclos ligeros (6) | 210 x 85 | 200 × 75 | 13 | 30 | 3,5 | 7 | 16 | 22,5 | – | 14,5 | 14,5 | – | – | AM | N |
 | Cuerpo Diplomático | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 48 | 11,5 | – | 35 | 35 | – | – | R | B |
 | Organizaciones internacionales | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 48 | 11,5 | – | 35 | 35 | – | – | AZ | B |
 | Oficina consular | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 48 | 11,5 | – | 35 | 35 | – | – | V | B |
@@ -35,17 +38,25 @@ Cuadro 1
 | Temporal empresas ciclomotores (vehículos no matriculados) | 100 × 168 | 90 × 158 | 13 | 30 | 3,5 | 10 | 10 | 12 32 | 12 | 27 | 27 | 15,5 | 15,5 | R | B |
 | Temporal empresas ciclomotores (vehículos matriculados) | 100 × 168 | 90 × 158 | 13 | 30 | 3,5 | 10 | 10 | 12 32 | 12 | 27 | 27 | 15,5 | 15,5 | R | B |
 
-(1) Para automóviles, excepto motocicletas.
+(1) Para automóviles, excepto motocicletas, vehículos de tres ruedas y cuatriciclos.
 
-(2) Para vehículos de categoría M1 que, por construcción, el emplazamiento para la placa de matrícula delantera no permite la colocación de la placa ordinaria larga.
+(2) Para vehículos de categoría M1 que, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa ordinaria larga y para vehículos de tres ruedas y cuatriciclos.
 
 (3) Cuando existan dos grupos de caracteres alfabéticos contiguos, y uno de ellos conste de un solo carácter, se procederá a repartir los espacios sobrantes entre ambos lados.
 
-Cuando se indican dos cantidades en los apartados «Separación entre caracteres» y «Separación a bordes horizontales» se entiende que la cifra superior es para la línea de caracteres de arriba, y la inferior, para la de abajo.
+(4) Esta placa se utilizará también para los vehículos de tres ruedas, cuatriciclos y vehículos de categoría M-1 que, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa ordinaria larga delantera.
+
+(5) Para motocicletas de dos ruedas de las especialidades de trial y enduro.
+
+(6) Para cuatriciclos ligeros y ciclomotores de tres ruedas. Cuando en estos vehículos, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa de cuatriciclos ligeros, se utilizará la placa de ciclomotores.
+
+Cuando se indican dos cantidades en los apartados "Separación entre caracteres" y "Separación a bordes horizontales", se entiende que la cifra superior es para la línea de caracteres de arriba, y la inferior, para la de abajo.
 
 Espacio entre grupos de caracteres: cuando se indican dos cantidades, se entiende que la cifra superior se refiere a la distancia entre el primer y el segundo grupo de caracteres, y la cifra inferior, a la distancia entre el segundo y el tercer grupo de caracteres.
 
-* Placas de matrícula con arreglo a lo dispuesto en las disposiciones transitorias de la Orden de 15 de septiembre de 2000.
+* Placas de matrícula con arreglo a lo establecido en las disposiciones transitorias de la Orden de 15 de septiembre de 2000.
+
+> Se modifica por el apartado único.5.c) y d) de la Orden PRE/52/2010, de 21 de enero. Ref. BOE-A-2010-1011.
 
 > Se modifica por el art. único.C) de la Orden 15 de septiembre de 2000. Ref. BOE-A-2000-16805.
 

@@ -8,10 +8,13 @@
 | ORDINARIA ALTA |
 | ORDINARIA LARGA DELANTERA |
 | MOTOCICLETAS ORDINARIA |
-| VEHÍCULOS ESPECIALES |
+| MOTOCICLETA CORTA |
+| VEHÍCULOS ESPECIALES LARGA |
+| VEHÍCULOS ESPECIALES ALTA |
 | REMOLQUES Y SEMI-REMOLQUES LARGA |
 | REMOLQUES Y SEMI-REMOLQUES ALTA |
 | CICLOMOTORES |
+| CUATRICICLOS LIGEROS |
 | CUERPO DIPLOMÁTICO |
 | ORGANIZACIONES INTERNACIONALES |
 | OFICINA CONSULAR |
@@ -21,7 +24,9 @@
 | VEHÍCULO HISTÓRICO LARGA |  |
 | VEHÍCULO HISTÓRICO ALTA |
 | VEHÍCULO HISTÓRICO MOTOCICLETAS |
-| TEMPORAL PARTICULAR LARGA |
+| TIPO PLACA MATRÍCULA | CARACTERÍSTICAS ESPECIALES | TOLERANCIA EN LA HOMOLOGACIÓN | TOLERANCIA EN LA FABRICACIÓN | REBORDE DE LA PLACA EN TODO SU CONTORNO | RADIOS DE LA PLACA | CARACTERES | NÚMERO DE MANIPULADOR |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| TEMPORAL PARTICULAR LARGA |  | ±0,5 mm en la placa y en los caracteres Grueso del trazo ± 0,1 mm | 1 mm en la placa y en los caracteres ± 0,2 mm grueso del trazo | Reborde plano sin cubrir ni pintar con una anchura de 5 mm en todo su contorno y una embutición de 0,8 ± 0,1 mm | INTERIOR: 6 mm ± 1 mm EXTERIOR: 10 mm ± 1 mm | Embutición en relieve con una altura sobre el fondo de 0,9 mm +0,3/–0,2 | Se troquelará en el borde izquierdo de la placa dentro del bordón, en un rectángulo de 35 x 5 mm |
 | TEMPORAL PARTICULAR ALTA |
 | TEMPORAL PARTICULAR CICLOMOTORES |
 | TEMPORAL EMPRESAS LARGA VEHÍCULOS NO MATRICULADOS | A |
@@ -70,6 +75,8 @@
 | Y | 0,171 | 0,220 | 0,160 | 0,038 |
 | Amarillo | X | 0,545 | 0,487 | 0,427 | 0,465 | > 0,27 |
 | Y | 0,454 | 0,423 | 0,483 | 0,534 |
+
+> Se modifica por el apartado único.5.f) de la Orden PRE 52/2010, de 21 de enero. Ref. BOE-A-2010-1011.
 
 > Se modifica por el art. único.E) de la Orden de 15 de septiembre de 2000. Ref. BOE-A-2000-16805.
 
