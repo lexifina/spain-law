@@ -1,0 +1,3 @@
+## Disposición adicional primera. Acceso preferente a las enseñanzas universitarias oficiales de Grado.
+
+De acuerdo con lo establecido en el apartado 2 del artículo 26 del Real Decreto 1892/2008, de 14 de noviembre, por el que se regulan las condiciones para el acceso a las enseñanzas universitarias oficiales de grado y los procedimientos de admisión a las universidades públicas españolas, a efectos de ordenar, cuando ello sea necesario, las correspondientes solicitudes, la equivalencia establecida en el artículo 3 de esta orden tendrá el acceso preferente determinado mediante la adscripción establecida en el anexo II de dicho Real Decreto, de los títulos de Técnico Superior de formación profesional a la rama de conocimiento de Ciencias Sociales y Jurídicas.
