@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Extensiones de homologaciones de tipo nacionales.
+
+Las extensiones de homologación de tipo nacionales se podrán seguir concediendo según el presente real decreto o según el Real Decreto 2140/1985, de 9 de octubre, por el que se dictan normas de homologación de tipos de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos y tendrán validez para nuevas matriculaciones hasta las fechas de homologación CE obligatorias definidas en las Directivas 2002/24/CE, del Parlamento Europeo y del Consejo, de 18 de marzo, 2003/37/CE, del Parlamento Europeo y del Consejo, de 26 de marzo, y 2007/46/CE, del Parlamento Europeo y del Consejo, de 5 de septiembre.

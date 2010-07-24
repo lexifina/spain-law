@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Carrozado inicial de vehículos.
+
+El carrozado inicial de vehículos al que hace referencia el anexo 11 del Real Decreto 2140/1985, de 9 de octubre, por el que se dictan normas de homologación de tipos de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos, podrá seguir realizándose según el Real Decreto 736/1988, de 8 de julio, por el que se regula la tramitación de las reformas de importancia de vehículos de carretera y se modifica el artículo 252 del Código de la Circulación hasta las fechas de la obligatoriedad de homologación de tipo para los tipos de vehículos ya existentes determinadas en la última columna del anexo XIX de la Directiva 2007/46/CE, de 5 de septiembre.
