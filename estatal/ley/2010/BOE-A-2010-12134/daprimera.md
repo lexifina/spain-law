@@ -1,0 +1,7 @@
+## Disposición adicional primera. Servicios de seguridad competentes y punto o puntos de contacto nacionales.
+
+1. A los efectos previstos en el artículo 3 de la presente Ley, los Ministerios del Interior y de Economía y Hacienda, en su ámbito respectivo de competencias, remitirán a la Secretaría General del Consejo, para su depósito, la declaración como «servicios de seguridad competentes» de las Fuerzas y Cuerpos de Seguridad del Estado, los Cuerpos de Policía de las Comunidades Autónomas y el Servicio de Vigilancia Aduanera. Esta declaración podrá modificarse en cualquier momento por el mismo procedimiento descrito anteriormente.
+
+2. El Ministerio del Interior remitirá a la Secretaría General del Consejo la declaración de la Secretaría de Estado de Seguridad de dicho Ministerio como punto de conexión a los efectos del apartado sexto del artículo noveno de esta Ley. Esta declaración podrá ser modificada en los términos y condiciones que reglamentariamente se determinen y se remitirá a la Secretaría General del Consejo.
+
+El Ministerio de Economía y Hacienda, en el ámbito de sus competencias, remitirá a la Secretaría General del Consejo la declaración donde se designe el servicio o servicios de seguridad que actuarán como punto o puntos de contacto nacionales a los efectos previstos en el apartado sexto del artículo 9 de esta Ley. Esta declaración podrá ser modificada en cualquier momento por una ulterior declaración que también deberá ser remitida a la Secretaría General del Consejo.
