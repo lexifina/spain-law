@@ -22,7 +22,7 @@
 
 3.4 Reforma o modificación de equipos.
 
-4. Talleres autorizados de reparación de elementos de seguridad.
+4. Talleres habilitados de reparación de elementos de seguridad.
 
 4.1 Generalidades.
 
@@ -43,3 +43,5 @@
 3.3 Resultado de las inspecciones periódicas.
 
 5.4 Registro de inspecciones periódicas.
+
+> Se modifica el apartado 4 del índice por el art. único.1 de la Orden ITC/2060/2010, de 21 de julio. Ref. BOE-A-2010-12203
