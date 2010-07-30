@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en la presente Orden y, en particular, quedan derogadas la Resolución de 22 de septiembre de 2008, de la IGAE por la que se regula el procedimiento de remisión a la IGAE de la información de carácter anual y trimestral por las entidades del sector público estatal empresarial y del fundacional y la Orden de 24 de abril de 1996 por la que se regula la estructura de las cuentas a rendir por las sociedades estatales y otros entes del sector público estatal.
