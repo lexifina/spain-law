@@ -181,7 +181,7 @@
 | 127 | Acetatos de alcoholes terpénicos n° CAS 69103-01-1 |  |  | índice de peróxidos inferior a 10 mmol/L (6) |  |
 | 128 | Hidrocarburos terpénicos n° CAS 68956-56-9 |  |  | índice de peróxidos inferior a 10 mmol/L (6) |  |
 | 129 | Terpenos y terpenoides excepto limoneno (isómeros d-, l-y dl-limoneno), números de orden 167, 168 y 88 de la parte 1 de este anexo III n° CAS 65996-98-7 |  |  | índice de peróxidos inferior a 10 mmol/L (6) |  |
-| 130 | Terpenos y terpenoides «sinpine» n° CAS 68917-63-5 |  |  | Índice de peróxidos inferior a 10 mmol/L (6) |  |
+| 130 | Terpenes y terpenoids «sinpine» n° CAS 68917-63-5 |  |  | Índice de peróxidos inferior a 10 mmol/L (6) |  |
 | 131 | cx-terpineno n° CAS 99-86-5 p-menta-1,3-dieno |  |  | índice de peróxidos inferior a 10 mmol/L (6) |  |
 | 132 | y-terpineno n° CAS 99-85-4p-menta-1,4-dieno |  |  | índice de peróxidos inferior a 10 mmol/L (6) |  |
 | 133 | Terpinoleno n° CAS 586-62-9p-menta-1,4(8)-dieno |  |  | índice de peróxidos inferior a 10 mmol/L (6) |  |
@@ -203,6 +203,7 @@
 | 149 | Nonanoato de alilo n° CAS 7493-72-3 |  |  | El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1% |  |
 | 150 | Propionato de alilo n° CAS 2408-20-0 |  |  | El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1% |  |
 | 151 | Trimetilhexanoato de alilo n° CAS 68132-80-9 |  |  | El nivel de alcohol alílico libre en el éster debe ser inferior al 0,1% |  |
+| 151 bis | Allyl phenethyl ether N.º CAS 14289-65-7 N.º CE 238-212-2 |  |  | El nivel de alcohol alílico libre en el éter debería ser inferior al 0,1 %. |  |
 | 152 | Heptincarbonato de alilo n° CAS 73157-43-4 (Oct-2-inoato de alilo) |  | 0,002% | Este material no debe utilizarse en combinación con ningún otro éster de un ácido 2‑alquinoico (por ejemplo, heptincarbonato de metilo) |  |
 | 153 | Amilciclopentenona n° CAS 25564-22-1 2-pentilciclopent-2-en-1-ona |  | 0,1% |  |  |
 | 154 | Extractos y destilados de Myroxylon balsamum var. pereirae n° CAS 8007-00-9 Aceite de bálsamo del Perú, absoluto y extracto etanólico (Aceite de bálsamo del Perú) |  | 0,4% |  |  |
@@ -257,6 +258,10 @@
 | 203 | Clorhidrato de 6-metoxi-N2- metil-2,3-piridindiamina y su diclorhidrato (8) 6-Methoxy-2-methylamino-3- aminopyridine HCl (INCI) CAS 90817-34-8 (HCl) CAS 83732-72-3 (2HCl) EINECS 280-622-9 (2HCl) | a) Sustancia para tintes capilares oxidantes. b) Sustancia para tintes capilares no oxidantes. | b) 0,68% en base libre (1,0% en diclorhidrato). | a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 0,68% calculada en base libre (1,0% en diclorhidrato). Para a) y b): No emplear con agentes nitrosantes. Contenido máximo de nitrosaminas: 50 μg/kg. Conservar en recipientes que no contengan nitritos. | a) La proporción de mezcla se consignará obligatoriamente en la etiqueta. Los colorantes del cabello pueden causar reacciones alérgicas graves. Lea y siga las instrucciones. Este producto no está destinado a utilizarse en personas menores de dieciséis años. Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia. No utilice el tinte capilar: – si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado, – si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello, – si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra". Para b): Puede causar una reacción alérgica. |
 | 204 | 2,3-Dihidro-1H-indol-5,6-diol y su bromhidrato (8) Dihydroxyindoline (INCI) CAS 29539-03-5 Dihydroxyindoline HBr (INCI) CAS 138937-28-7 EINECS 421-170-6 | Sustancia para tintes capilares oxidantes. | 2,0% |  | Puede causar una reacción alérgica. |
 | 205 | 4-Hidroxipropilamino-3-nitrofenol (8) 4-Hydroxypropylamino-3-nitrophenol (INCI) CAS 92952-81-3 EINECS 406-305-9 | a) Sustancia para tintes capilares oxidantes. b) Sustancia para tintes capilares no oxidantes. | b) 2,6%. | a) Después de mezclarse en condiciones oxidantes, la concentración máxima aplicada al cabello no deberá exceder de un 2,6% calculada en base libre. Para a) y b): No emplear con agentes nitrosantes. Contenido máximo de nitrosaminas: 50 μg/kg. Conservar en recipientes que no contengan nitritos. | a) La proporción de mezcla se consignará obligatoriamente en la etiqueta. Los colorantes del cabello pueden causar reacciones alérgicas graves. Lea y siga las instrucciones. Este producto no está destinado a utilizarse en personas menores de dieciséis años. Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia. No utilice el tinte capilar: – si tiene una erupción cutánea en el rostro o tiene el cuero cabelludo sensible, irritado o dañado, – si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello, – si alguna vez ha experimentado una reacción a los tatuajes temporales de "henna negra". |
+| 206 | Absoluto de verbena (Lippia citriodora Kunth.) N.º CAS 8024-12-2 |  | 0,2%. |  |  |
+| 207 | Clorhidrato de N2-dodecanoil-L-argininato de Etilo. Ethyl Lauroyl Arginate HCl (INCI) (9). N.º CAS: 60372-77-2 N.º CE: 434-630-6 | a) jabones. b) champús anticaspa. c) desodorantes, no en forma de aerosol (spray). | 0,8% | Con otros fines que no sean la inhibición del crecimiento de microorganismos en el producto. La presentación del producto debe poner en evidencia estos fines. |  |
+| 208 | 1-(2- Aminoetil)amino- 4-(2-hidroxietil)oxi-2- nitrobenceno y sus sales HC Orange N° 2 N° CAS 85765-48-6 EINECS 416-410-1 | Sustancia para tintes capilares no oxidantes | 1,0% | – No usar con agentes nitrosantes. – Contenido máximo en nitrosaminas 50pg/kg – Conservar en recipientes que no contengan nitritos. | Los colorantes del cabello pueden causar reacciones alérgicas graves. Lea y siga las instrucciones. Este producto no esta destinado a utilizarse en personas menores de 16 años. Los tatuajes temporales de "henna negra" pueden aumentar el riesgo de alergia. No utilice el tinte capilar: – si tiene una erupción cutánea en el rostro el cuero cabelludo sensible, irritado o dañado. – Si alguna vez ha experimentado cualquier tipo de reacción después de la coloración del cabello. – Si alguna vez ha experimentado alguna reacción a los tatuajes temporales de "henna negra" |
+| 209 | 2-[2-Metoxi-4- nitrofenil)amino]etan ol y sus sales. 2- Hydroxyethylamino- 5-nitroanisole N° CAS 66095-81-6 EINECS 266-138-0 | Sustancia para tintes capilares no oxidantes | 0,2% | – No usar con agentes nitrosantes – Contenido máximo en nitrosaminas 50pg/kg – Conservar en recipientes que no contengan nitritos. |  |
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07262_001.png)
 
@@ -288,6 +293,8 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07262_009.png)
 
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/184/12210_001.png)
+
 * Esta sustancia podrá emplearse por separado o mezclada en cantidades tales que la suma de las proporciones de los contenidos del producto cosmético en cada una de estas sustancias respecto al contenido máximo autorizado respecto a cada una de ellas no exceda de 2.
 
 (1) Estas sustancias pueden ser utilizadas solas o mezclas entre ellas en cantidad tal que la suma de los «cocientes relativos» de cada una de las sustancias no sobrepase la unidad.
@@ -309,6 +316,10 @@ Se denomina «cociente relativo» a la relación entre la concentración de una 
 (7) La suma de estas sustancias utilizadas juntas no debe exceder los límites indicados en la columna d.
 
 (8) Salvo que se prohíba en el anexo II, está autorizado el uso de la base libre y las sales de este ingrediente de tinte capilar.
+
+(9) Para su uso como conservante, véase el anexo VI, primera parte, n.º 58.
+
+> Se añaden los números 151 bis, 206 a 209 y se modifica el 130 por el art. único. de la Orden SAS/2061/2010, de 23 de julio. Ref. BOE-A-2010-12210., Orden SAS/2062/2010, de 23 de julio. Ref. BOE-A-2010-12211. y Orden SAS/2063/2010, de 23 de julio. Ref. BOE-A-2010-12212.
 
 > Se modifica por el art. único.1 de la Orden SAS/1166/2010, de 30 de abril. Ref. BOE-A-2010-7262.
 
