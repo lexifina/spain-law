@@ -924,7 +924,7 @@ Colorante C.I. 42555-2
 
 447. 3,6,10-Trimetil-3,5,9-undecatrien-2-ona (número CAS 1117-41-5), en su uso como ingrediente de fragancia.
 
-448. Aceite de verbena (Lippia citriodora Kunth.) (número CAS 8024-12-2), en su uso como ingrediente de fragancia.
+448. Aceites esenciales de verbena (Lippia citriodora Kunth) y derivados distintos del absoluto (número CAS 8024-12-2), en su uso como ingrediente de fragancia.
 
 449. Metileugenol (número CAS 93-15-2), excepto los contenidos normales que aparezcan en las esencias naturales utilizadas y siempre que la concentración no sobrepase:
 
@@ -2559,6 +2559,8 @@ e) 0,0002 por 100 en otros productos de contacto y productos de higiene bucal.
 | --- | --- | --- |
 | 1370 | Dietilenglicol (DEG); véase el límite de trazas en el anexo III. 2,2´-oxidietanol. | N.º CAS 1111-46-6. N.º CE 203-872-2. |
 | 1371 | Fitomenadiona [INN]; Phytonadione [INCI]. | N.º CAS 84-80-0/81818-54-4. N.º CE 201-564-2. |
+
+> Se modifica el número 448 por el art. único.1 de la Orden SAS/2062/2010, de 23 de julio. Ref. BOE-A-2010-12211.
 
 > Se modifica el número 167 y se añaden el 1370 y 1371 por el art. único.1 de la Orden SAS/1868/2009, de 8 de julio. Ref. BOE-A-2009-11601.
 
