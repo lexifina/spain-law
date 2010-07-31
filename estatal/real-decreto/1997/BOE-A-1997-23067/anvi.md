@@ -84,10 +84,13 @@ LISTA DE AGENTES CONSERVADORES ADMITIDOS
 |  | Butilcarbamato de 3-yodo-2-propinilo Nº CAS 55406-53-6. | a) productos que se aclaran: 0,02%. | a) No debe utilizarse en preparados para niños menores de 3 años, excepto en productos de baño, gel de ducha y champú | a) "No debe utilizarse en niños menores de 3 años" (únicamente en caso de productos, distintos de los productos de baño, gel de ducha y champú, que podrían utilizarse en niños menores de 3 años). |
 |  |  | b) productos que no se aclaran: 0,01%, excepto en desodorantes y antitranspirantes: 0,0075%. | b) - No debe utilizarse en locio-nes y cremas corporales (productos destinados a ser aplicados en grandes extensiones corporales) - No debe utilizarse en pre-parados para niños menores de 3 años. | b) "No debe utilizarse en niños menores de 3 años". (únicamente en caso de productos que podrían utilizarse con niños menores de 3 años). |
 | 57 | Methylisothiazolinone (INCI). | 0,01% |  |  |
+| 58 | Clorhidrato de N2-dodecanoil-L-argininato de etilo. Ethyl Lauroyl Arginate HCl (INCI) (3). N.º CAS: 60372-77-2 N.º CE: 434-630-6 | 0,4 % | No utilizar en productos labiales, productos bucales ni aerosoles (sprays). |  |
 
 (1) Únicamente en los productos que podrían ser utilizados eventualmente para cuidados de niños menores de 3 años y que permanezcan en contacto prolongado con la piel.
 
 (2) Se entiende por productos aclarados aquellos destinados a ser enjuagados después de su aplicación.
+
+(3) Con usos distintos del uso como conservante, véase el anexo III, primera parte, n.º 207.
 
 ## SEGUNDA PARTE
 
@@ -97,6 +100,8 @@ LISTA DE AGENTES CONSERVADORES ADMITIDOS PROVISIONALMENTE
 | --- | --- | --- | --- | --- | --- |
 | a | b | c | d | e | f |
 |  |  |  |  |  |  |
+
+> Se añade el número 58 en la primera parte por el art. único.2 de la Orden SAS/2063/2010, de 23 de julio. Ref. BOE-A-2010-12212.
 
 > Se modifica la primera parte por el art. 1.3 de la Orden SCO/3089/2007, de 19 de octubre. Ref. BOE-A-2007-18584.
 
