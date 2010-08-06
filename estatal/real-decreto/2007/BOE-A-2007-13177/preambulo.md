@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 220, de 13 de septiembre de 2007. Ref. BOE-A-2007-16258.
+Las referencias realizadas a "indicadores de seguridad" se entienden efectuadas a "Indicadores Comunes de Seguridad" (ICS) y aquellas realizadas a la Dirección General de Ferrocarriles se entienden efectuadas a la Dirección General de Infraestructuras Ferroviarias, según establece el art. 1.2 y 3 del Real Decreto 918/2010, de 16 de julio. Ref. BOE-A-2010-12533.
