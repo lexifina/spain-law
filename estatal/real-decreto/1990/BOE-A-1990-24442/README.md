@@ -252,6 +252,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 186](a186.md)
 - [Artículo 187](a187.md)
 - [CAPÍTULO VI](cvi.md)
+- [Artículos 188 a 192](as188a192.md)
 - [Artículo 188](a188.md)
 - [Artículo 189](a189.md)
 - [Artículo 190](a190.md)
