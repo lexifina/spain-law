@@ -1,0 +1,1 @@
+Téngase en cuenta que los términos «preparado» o «preparados» en el sentido del artículo 3, apartado 2, del Reglamento (CE) n.º 1907/2006 en su versión de 30 de diciembre de 2006, se entenderán sustituidos respectivamente por los términos «mezcla» o «mezclas» en todo el texto, según establece el art. único.1 del Real Decreto 944/2010, de 23 de julio. Ref. BOE-A-2010-12537.
