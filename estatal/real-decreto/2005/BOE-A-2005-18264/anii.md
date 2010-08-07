@@ -26,6 +26,7 @@
 | Veza vellosa: Vicia villosa Roth. |
 | Esparceta: Onobrychis viciifolia Scop. | 2 kg. de semillas (1) |
 | Zulla: Hedysarum coronarium L. |
+| Alverjón (Vicia narbonensis L.) | 1 de agostoo | 3 Kg (1). | 1 de septiembre |
 | ESPECIES HORTÍCOLAS |
 | Acelga: Beta vulgaris L. var. vulgaris | 1 de marzo | 200 g. (1) | 1 de abril | Salvo en el caso del ajo, el material deberá entregarse sólo el primer año. |
 | Ajo: Allium sativum L. | 1 de septiembre | Primer año: 75 cabezas. Segundo año: 5 cabezas y 75 dientes (1) | 15 de octubre |
@@ -52,10 +53,10 @@
 | Achicoria industrial: Cichorium intybus L | 100 g. (1) |
 | Endivia y achicoria silvestre: Cichorium intybus L. (partim) | Endivia 60 g. Achicoria silvestre 100 g. (1) |
 | Escarola: Cichorium endivia L. | 50 g. (1) |
-| Espárrago: Asparagus officinalis L | 1 de enero | –250 g de semillas y 120 zarpas (1) | 1 de febrero | El material deberá entregarse sólo el primer año. |
-| Espinaca: Spinacia oleracea L. | 1 de abril | –300 g. (1) |  |
-| Hinojo: Foeniculum vulgare millar | 1 de marzo | –50 g. (1) | 1 de abril |
-| Judía escarlata: Phaseolus coccineus L. | 1 de febrero | –6 g. (1) | 1 de marzo |
+| Espárrago: Asparagus officinalis L | 1 de enero | ?250 g de semillas y 120 zarpas (1) | 1 de febrero | El material deberá entregarse sólo el primer año. |
+| Espinaca: Spinacia oleracea L. | 1 de abril | ?300 g. (1) |  |
+| Hinojo: Foeniculum vulgare millar | 1 de marzo | ?50 g. (1) | 1 de abril |
+| Judía escarlata: Phaseolus coccineus L. | 1 de febrero | ?6 g. (1) | 1 de marzo |
 | Lombarda: Brassica oleracea L. convar capitata (L.) Alef var rubra DC. | 1 de marzo | 60 g. (1) | 1 de abril |
 | Nabo: Brassica rapa L. var. Rapa. | 1 de abril | 300 g. (1) | 1 de mayo |
 | Pepino: Cucumis sativus L. | 1 de junio y 1 de noviembre | 70 g. (1) | 1 de julio y 1 de diciembre |
@@ -69,6 +70,9 @@
 | Salsifi blanco: Tragopogon porrífolíum L. Salsifi negro o escorzonera: Scorzonera hispánica L. | 50 g. (1) |
 | Tomate: Lycopersicum lycopersicum (L.) | 1 de junio y 1 de noviembre | 20 g. (1) | 1 de julio y 1 de diciembre |
 | Zanahoria: Daucus carota L. | 1 de marzo | 50 g. (1) | 1 de abril |
+| Colinabo (Brássica napus L. var. napobrassica (L.) Rchb.) | 1 de marzo | 60 g. (1) | 1 de abril |
+| Híbridos interespecífico del Género Lycopersicom. | 1 de junio | 20 g. (1) | 1 de julio |
+| Nabo (B rássica napus L.) | 1 de abril. | 300 g. (1) | 1 de mayo. |
 | INDUSTRIALES |
 | Cártamo | 1 de diciembre | 1 kg de semillas. (1) | 1 de enero | Entrega sólo el primer año. Semilla sin tratar. |
 | Lino | 3 kg de semillas. (1) |
@@ -87,3 +91,9 @@
 | Vid | 1 de diciembre | Patrones: 25 barbados. Variedades viníferas o de mesa: 25 plantas injertadas sobre patrón 110 RICHTER. (7) | 10 de enero a 10 de febrero |
 | Nogal | 15 de enero | 5 varetas de 40 cm de madera del año bien lignificadas, tomas de los dos primeros tercios de la rama del año, o 8 plantas injertadas de un año sobre patrón híbrido MJ 209 x RA. (11) | 15 de febrero al 15 de marzo |
 | Avellano | 1 de diciembre | 8 plantas autoenraizadas de un año. (11) | Del 1 al 31 de enero |
+| Fortunela (todas las especies) y sus híbridos. | 15 de abril. | 4 varetas de 6 a 10 mm. de diámetro de un año de edad con al menos 20 yemas útiles(4). | Entre el 15 de mayo y 30 de junio. |
+| Híbridos interespecífico del Género Citrus. | 15 de abril. | 4 varetas de 6 a 10 mm. de diámetro, de un año de edad con al menos 20 yemas útiles (4). | Entre 15 de mayo y 30 de junio. |
+| Higuera (Ficus carica). | 1 de marzo. | 7 plantas de un año enraizadas en macetas (12). | Entre el 1 de abril y el 15 de mayo. 15 de marzo |
+| Todas las especies cultivadas del Género Vitis, así como sus híbridos interespecíficos e intervarietales. | 1 de diciembre. | 15 barbados en caso de patrones. 10 plantas injertos sobre patrón 110 Richter, en caso de variedades viníferas o de mesa, o yemas suficientes para obtener 10 plantas (6). | Entre el 10 de enero y el 1 de febrero. 15 de marzo |
+
+> Se modifica por el art. único.1 de la Orden ARM/2152/2010, de 29 de julio. Ref. BOE-A-2010-12624

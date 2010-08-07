@@ -14,4 +14,7 @@
 | 8 | DEPARTAMENTO DE AGRONOMÍA. Escuela Técnica Superior de Ingenieros Agrónomos y de Montes. UNIVERSIDAD DE CÓRDOBA. Avda. Menéndez Pidal, s/n. 14009-CÓRDOBA. |
 | 9 | CENTRO DE INVESTIGACIÓN Y TECNOLOGÍA AGROALIMENTARIA (CITA). Avda. de Montañana, 930. 50016-ZARAGOZA. |
 | 10 | CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS. Estación Experimental Aula Dei. Avda. de Montañana, 1005. 50016 ZARAGOZA. |
-| 11 | CENTRO EXPERIMENTAL MAS BOVÉ (IRTA). Ctra. Reus – El Morell, km 4,500. 43120- CONSTANTÍ (TARRAGONA). |
+| 11 | CENTRO EXPERIMENTAL MAS BOVÉ (IRTA). Ctra. Reus ? El Morell, km 4,500. 43120- CONSTANTÍ (TARRAGONA). |
+| 12 | Junta de Extremadura. Centro de investigación de la Finca de la Orden y Valdequesada. |
+
+> Se modifica por el art. único.2 de la Orden ARM/2152/2010, de 29 de julio. Ref. BOE-A-2010-12624
