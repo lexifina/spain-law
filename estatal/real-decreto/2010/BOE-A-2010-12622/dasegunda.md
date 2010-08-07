@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Creación de la subsección denominada Registro de régimen especial sin retribución primada.
+
+Para el adecuado seguimiento de las instalaciones de régimen especial sin derecho a tarifa regulada, prima o prima equivalente, se establece una subsección de la sección segunda del Registro administrativo de instalaciones de producción de energía eléctrica a que se refiere el artículo 21.4 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, dependiente del Ministerio de Industria, Turismo y Comercio. Dicha subsección será denominada, en lo sucesivo, Registro de régimen especial sin retribución primada.
