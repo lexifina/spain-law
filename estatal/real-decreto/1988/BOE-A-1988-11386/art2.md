@@ -8,4 +8,4 @@ Secretaría General.
 
 Cuarto Militar y Guardia Real.
 
-Servicio de Seguridad.
+> Se suprime el párrafo último por el art. único.A) del Real Decreto 999/2010, de 5 de agosto. Ref. BOE-A-2010-12704.

@@ -16,8 +16,12 @@ Compete especialmente al Jefe de la Casa:
 
 – Establecer las normas de coordinación precisas entre la Guardia Real y el Servicio de Seguridad.
 
+– Aprobar las cuentas anuales correspondientes a la liquidación de cada ejercicio económico.
+
 2. Dependerán del Jefe de la Casa de Su Majestad todos los Servicios de la misma.
 
-3. Directamente dependiente del Jefe de la Casa existirá una Oficina, como órgano de apoyo y asistencia inmediata, cuyo titular tendrá la consideración de personal de Dirección y a la que podrán incorporarse hasta cinco miembros, como personal técnico de asesoramiento.
+3. Dependerá directamente del Jefe de la Casa la Oficina de Intervención, a cuyo frente estará un Interventor que ejercerá las funciones de control de la gestión económico-financiera, presupuestaria y contable conforme a las técnicas empleadas en la Administración del Estado. Tras la liquidación de cada ejercicio económico, elevará al Jefe de la Casa un informe resumen de los emitidos durante el año, expresivo del grado de eficacia lograda en su actividad de control.
+
+> Se añade el párrafo último del apartado 1 y se modifica el 3 por el art. único.B) y C) del Real Decreto 999/2010, de 5 de agosto. Ref. BOE-A-2010-12704.
 
 > Se añade al apartado 3 por el art. único del Real Decreto 657/1990, de 25 de mayo. Ref. BOE-A-1990-11723.

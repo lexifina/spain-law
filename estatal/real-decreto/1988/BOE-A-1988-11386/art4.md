@@ -20,20 +20,28 @@ El Secretario General será el Segundo Jefe de la Casa de Su Majestad el Rey y l
 
 – Elaborar los proyectos de planes de actualización y los programas de necesidades de la Casa.
 
-3. La Secretaria General se estructura en las siguientes Unidades:
+– Confeccionar, una vez aprobada en los Presupuestos del Estado la cantidad global a que se refiere el artículo 65.1 de la Constitución, el proyecto del presupuesto propio de la Casa, con arreglo a los principios de rigor, economía y eficiencia, y elevarlo al Jefe de la Casa para su aprobación por Su Majestad el Rey.
 
-Secretaría de Despacho.
+– Ordenar los pagos.
 
-Actividades y programas.
+– Elevar al Jefe de la Casa las cuentas anuales formuladas por la Unidad de Administración, Infraestructura y Servicios.
 
-Relaciones con los medios de comunicación.
+– Cuidar de que tanto las operaciones económicas, como las liquidaciones e ingresos en la Hacienda Pública y Seguridad Social, de los diversos tributos y cotizaciones sociales, se realicen con los mismos criterios que los empleados por la Administración del Estado.
+
+3. La Secretaría General se estructura en las siguientes Unidades:
+
+Gabinete de Planificación y Coordinación.
+
+Secretaría de Su Majestad la Reina.
+
+Secretaría de Su Alteza Real el Príncipe de Asturias.
+
+Servicio de Seguridad.
+
+Relaciones con los Medios de Comunicación.
 
 Protocolo.
 
-Intendencia.
+Administración, Infraestructura y Servicios.
 
-Centro de Comunicaciones e Informática.
-
-También se integran en la Secretaría General el Registro y Archivo General de la Casa y la Secretaría de Su Majestad la Reina.
-
-Cuando las circunstancias lo aconsejen podrán agruparse dos o más unidades bajo una misma Jefatura de nivel superior.
+> Se añaden los cuatro últimos párrafos al apartado 2 y se modifica el apartado 3 por el art. único.D) y E) del Real Decreto 999/2010, de 5 de agosto. Ref. BOE-A-2010-12704.
