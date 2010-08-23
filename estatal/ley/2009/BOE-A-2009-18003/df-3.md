@@ -1,3 +1,5 @@
 ## Disposición final tercera. Habilitación al Gobierno.
 
-Se habilita al Gobierno para, teniendo en cuenta las disponibilidades presupuestarias, las perspectivas económicas y la situación de desempleo, prorrogar este programa por períodos de seis meses.
+(Derogada)
+
+> Se deroga por la Disposición derogatoria única del Real Decreto-ley 12/2010, de 20 de agosto. Ref. BOE-A-2010-13336
