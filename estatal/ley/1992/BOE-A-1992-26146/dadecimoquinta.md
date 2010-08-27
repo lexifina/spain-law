@@ -16,9 +16,7 @@ Dos. Gestión y administración del Registro.
 
 Tres. Matrícula, abanderamiento y patente de navegación de los buques.
 
-1. La inscripción en el Registro especial de buques que realicen exclusivamente navegación exterior o extranacional, supondrá la baja simultánea del Registro a que se refiere el artículo 75 de la presente Ley.
-
-El régimen jurídico aplicable será el del Registro ordinario para la navegación de cabotaje y el del Registro especial se aplicará para la navegación exterior o extranacional.
+1. La inscripción de buques en el Registro Especial, supondrá la baja simultánea, en su caso, en el Registro de Buques y Empresas Navieras.
 
 2. La patente de navegación de los buques inscritos en el Registro especial será otorgada por el Ministro de Obras Públicas y Transportes y expedida por el Director general de la Marina Mercante.
 
@@ -44,17 +42,13 @@ d) Condiciones de los buques: Los buques procedentes de otros Registros que se p
 
 3. Con carácter previo a la matriculación de un buque en el Registro especial, el titular del mismo deberá aportar el justificante que acredite el pago de los tributos de aduanas, en el caso de buques importados sujetos a esta formalidad.
 
-Cinco. Requisitos de las navegaciones.
-
-1. Se podrán inscribir en el Registro especial los buques de las Empresas navieras que cumplan los requisitos del apartado anterior cuando se destinen a navegación exterior o extranacional.
-
-2. A la vista del proceso de liberalización de la navegación de cabotaje determinado en el marco comunitario europeo, el Gobierno podrá permitir, mediante Real Decreto, la inscripción en el Registro especial de los buques que se destinen a navegación de cabotaje, con la modulación del régimen aplicable que, en su caso, se determine.
+Cinco. Se podrán inscribir en el Registro Especial los buques de las Empresas navieras que cumplan los requisitos del apartado anterior y la normativa comunitaria en materia de ayudas de Estado al transporte marítimo.
 
 Seis. De las dotaciones de los buques.
 
 La dotación de los buques inscritos en el Registro especial deberá reunir las siguientes características:
 
-a)Nacionalidad: El Capitán y el primer Oficial de los buques deberán tener, en todo caso, la nacionalidad de un Estado miembro de la Unión Europea o del Espacio Económico Europeo, salvo en los supuestos en que se establezca, por la Administración Marítima, que estos empleos han de ser desempeñados por ciudadanos de nacionalidad española por implicar el ejercicio efectivo de forma habitual de prerrogativas de poder público que no representen una parte muy reducida de sus actividades.
+a) Nacionalidad: El Capitán y el primer Oficial de los buques deberán tener, en todo caso, la nacionalidad de un Estado miembro de la Unión Europea o del Espacio Económico Europeo, salvo en los supuestos en que se establezca, por la Administración Marítima, que estos empleos han de ser desempeñados por ciudadanos de nacionalidad española por implicar el ejercicio efectivo de forma habitual de prerrogativas de poder público que no representen una parte muy reducida de sus actividades.
 
 El resto de la dotación deberá ser de nacionalidad española o de algún otro Estado miembro de la Unión Europea o del Espacio Económico Europeo al menos, en su 50 por ciento.
 
@@ -69,6 +63,8 @@ Las condiciones laborales y de Seguridad Social de los trabajadores no nacionale
 Ocho. Normativa aplicable en materia de jornada laboral y descansos.
 
 En materia de jornada laboral y descansos, los buques inscritos en el Registro Especial se regirán por lo dispuesto en la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto legislativo 1/1995, de 24 de marzo, y en la normativa sectorial específica, constituida por el Real Decreto 1561/1995, de 21 de septiembre, sobre jornadas especiales de trabajo, o la norma que lo sustituya, con excepción de lo dispuesto en el apartado 2 del artículo 35 del Estatuto de los Trabajadores, que no será de aplicación.
+
+> Se modifican los apartados 3.1 y 5 por la disposición final 2.44 y 45 de la Ley 30/2010, de 5 de agosto. Ref. BOE-A-2010-12703
 
 > Se modifica el apartado 6.a) por el art. 23.2 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
 

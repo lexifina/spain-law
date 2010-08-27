@@ -1,3 +1,5 @@
 ## Disposición transitoria novena. Licencias otorgadas con anterioridad a la transformación de las sociedades estatales de estiba y desestiba de buques en las agrupaciones portuarias de interés económico.
 
-Los titulares de licencias para la prestación del servicio portuario de carga, estiba, desestiba, descarga y transbordo de mercancías, que deban integrarse en las agrupaciones portuarias de interés económico, de conformidad con lo previsto en el artículo 85.6 de esta ley, y que hayan obtenido la licencia con anterioridad a la transformación de las sociedades estatales de estiba y desestiba de buques en las agrupaciones portuarias de interés económico a que se refiere la disposición adicional sexta de la ley, se integrarán en la sociedad estatal del puerto correspondiente, sin perjuicio de la posterior transformación de la misma.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 33/2010, de 5 de agosto. Ref. BOE-A-2010-12703

@@ -2,4 +2,6 @@
 
 ## De los precios privados por servicios prestados por las Autoridades Portuarias
 
-> Este capítulo entra en vigor el 1 de enero de 2004, según establece la disposición final 5.
+(Sin contenido)
+
+> Se interpreta que queda sin contenido por el art. 1 de la Ley 33/2010, de 5 de agosto. Ref. BOE-A-2010-12703

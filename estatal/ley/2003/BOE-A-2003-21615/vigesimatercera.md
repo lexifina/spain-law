@@ -1,0 +1,5 @@
+## Disposición adicional vigésimo tercera. Suspensión temporal del régimen jurídico que regula el régimen de gestión de los trabajadores para la prestación del servicio portuario de manipulación de mercancías.
+
+El Gobierno, teniendo en cuenta las circunstancias económicas concretas en las que se desarrolla el servicio de manipulación de mercancías en cada puerto, así como su eventual repercusión negativa sobre la economía nacional o sobre distintos sectores económicos afectados por el régimen de gestión de los trabajadores para la prestación de dicho servicio, podrá suspender temporalmente la aplicación de cualquiera de las previsiones contenidas en la presente Ley respecto a dicho régimen, estableciendo al efecto las medidas necesarias para mantener la regularidad y continuidad precisas para la prestación del servicio portuario de manipulación de mercancías. Tal suspensión se mantendrá mientras permanezcan las circunstancias y condiciones que la justifiquen, con objeto de garantizar una adecuada ordenación y desarrollo de la actividad económica en el sector afectado.
+
+> Se añade por el art. 3.30 de la Ley 33/2010, de 5 de agosto. Ref. BOE-A-2010-12703

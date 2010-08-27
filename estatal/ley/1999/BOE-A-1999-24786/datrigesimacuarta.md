@@ -1,8 +1,8 @@
 ## Disposición adicional trigésima cuarta. Liquidación de tarifas por servicios portuarios al amparo de la Ley 1/1966, de 28 de enero, sobre régimen financiero de los puertos españoles, modificada por la Ley 18/1985, de 1 de julio, y de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante, modificada por la Ley 62/1997, de 26 de diciembre.
 
-1. (Anulado)
+(Derogada)
 
-2. (Anulado)
+> Se deroga por la disposición derogatoria única.1 de la Ley 33/2010, de 5 de agosto. Ref. BOE-A-2010-12703
 
 > Se declara la inconstitucionalidad y nulidad del apartado 2 por Sentencia del TC 161/2009, de 29 de junio. Ref. BOE-A-2009-12524
 

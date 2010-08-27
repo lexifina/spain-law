@@ -1,5 +1,7 @@
-## TITULO I
+## TÍTULO I
 
 ## Régimen económico del sistema portuario de titularidad estatal
 
-> Este título entra en vigor el 1 de enero de 2004, según establece la disposición final 5.
+> Se modifica por el art. 1 de la Ley 33/2010, de 5 de agosto. Ref. BOE-A-2010-12703
+
+> Esta modificación entra en vigor conforme lo dispuesto en la disposición final 6.

@@ -1,4 +1,4 @@
-## ANEXO
+## ANEXO I
 
 ## Asignación de grupos de mercancías
 
@@ -24,13 +24,13 @@ Para determinar el código asignable a las mercancías podrá consultarse, cuand
 | 0210 | 5 | Carne y despojos comestibles, salados o en salmuera, secos o ahumados, harina y polvo comestibles, de carne o de despojos. |
 | 0301 | 5 | Peces vivos. |
 | 0302A | – | Pescado fresco. |
-| 0302B | 5 | Pescado refrigerado (excepto los filetes y demás carne de pescado de la partida n.º 0304). |
-| 0303A | 5 | Pescado congelado (excepto los filetes y demás carne de pescado de la partida n.º 0304). |
-| 0303B | 4 | Atunes, sardinas y caballas congelados, con exclusión de los filetes y demás carne de pescado de la partida 0304. |
-| 0304 | 5 | Filetes y demás carne de pescado, incluso picada, frescos, refrigerados o congelados. |
-| 0305 | 5 | Pescado seco, salado o en salmuera; pescado ahumado, incluso cocido antes o durante el ahumado; harina, polvo y «pellets» de pescado, aptos para la alimentación humana. |
-| 0306 | 5 | Crustáceos, incluso pelados, vivos, frescos, refrigerados, congelados, secos, salados o en salmuera; crustáceos sin pelar, cocidos con agua o vapor, incluso refrigerados, congelados, secos, salados o en salmuera; harina, polvo y «pellets» de crustáceos, aptos para la alimentación humana. |
-| 0307 | 5 | Moluscos, incluso separados de sus valvas, vivos, frescos, refrigerados, congelados, secos, salados o en salmuera; invertebrados acuáticos (excepto los crustáceos y moluscos), vivos, frescos, refrigerados, congelados, secos, salados o en salmuera; harina, polvo y «pellets» de invertebrados acuáticos (excepto los crustáceos), aptos para la alimentación humana. |
+| 0302B | 3 | Pescado refrigerado (excepto los filetes y demás carne de pescado de la partida n.º 0304). |
+| 0303A | 3 | Pescado congelado (excepto los filetes y demás carne de pescado de la partida n.º 0304). |
+| 0303B | 3 | Atunes, sardinas y caballas congelados, con exclusión de los filetes y demás carne de pescado de la partida 0304. |
+| 0304 | 3 | Filetes y demás carne de pescado, incluso picada, frescos, refrigerados o congelados. |
+| 0305 | 3 | Pescado seco, salado o en salmuera; pescado ahumado, incluso cocido antes o durante el ahumado; harina, polvo y «pellets» de pescado, aptos para la alimentación humana. |
+| 0306 | 3 | Crustáceos, incluso pelados, vivos, frescos, refrigerados, congelados, secos, salados o en salmuera; crustáceos sin pelar, cocidos con agua o vapor, incluso refrigerados, congelados, secos, salados o en salmuera; harina, polvo y «pellets» de crustáceos, aptos para la alimentación humana. |
+| 0307 | 3 | Moluscos, incluso separados de sus valvas, vivos, frescos, refrigerados, congelados, secos, salados o en salmuera; invertebrados acuáticos (excepto los crustáceos y moluscos), vivos, frescos, refrigerados, congelados, secos, salados o en salmuera; harina, polvo y «pellets» de invertebrados acuáticos (excepto los crustáceos), aptos para la alimentación humana. |
 | 0401 | 5 | Leche y nata (crema), sin adición de azúcar ni otro edulcorante |
 | 0402 | 5 | Leche y nata (crema), concentradas o con adición de azúcar u otro edulcorante. |
 | 0403 | 5 | Suero de mantequilla (de manteca), leche y nata (crema), cuajadas, yogur, kéfir y demás leches y natas (crema), fermentadas o acidificadas, incluso concentrados, adición de azúcar u otro edulcorante, aromatizadas o con frutas u otros frutos o cacao. |
@@ -508,7 +508,8 @@ Para determinar el código asignable a las mercancías podrá consultarse, cuand
 | 3822 | 5 | Reactivos de diagnóstico o de laboratorio sobre cualquier soporte y reactivos de diagnóstico o de laboratorio preparados, incluso sobre soporte, excepto los de las partidas 3002 ó 3006; materiales de referencia certificados. |
 | 3823 | 5 | Acidos grasos monocarboxílicos industriales; aceites ácidos del refinado; alcoholes grasos industriales. |
 | 3824 | 2 | Preparaciones aglutinantes para moldes o núcleos de fundición; productos químicos y preparaciones de la industria química o de las industrias conexas (incluidas las mezclas de productos naturales), no expresados ni comprendidos en otra parte. |
-| 3825 | 5 | Productos residuales de la industria química o de las industrias conexas, no expresados ni comprendidos en otra parte; desechos y desperdicios municipales; lodos de depuración; los demás desechos citados en la Nota 6 del presente Capítulo. |
+| 3825 A | 5 | Productos residuales de la industria química o de las industrias conexas, no expresados ni comprendidos en otra parte; lodos de depuración; los demás desechos citados en la Nota 6 de este capítulo. |
+| 3825 B | 5 | Desechos y desperdicios municipales, asignándose al grupo 2 las mercancías con el código 3825 B. |
 | 3901 | 5 | Polímeros de etileno en formas primarias. |
 | 3902 | 5 | Polímeros de propileno o de otras olefinas, en formas primarias. |
 | 3903 | 5 | Polímeros de estireno en formas primarias. |
@@ -1193,8 +1194,10 @@ Para determinar el código asignable a las mercancías podrá consultarse, cuand
 | 8609A | 5 | Contenedores (incluidos los contenedores cisterna y los contenedores depósito) especialmente proyectados y equipados para uno o varios medios de transporte. |
 | 8609B | – | Taras de contenedores y cisternas, matriculados y en régimen de carga. |
 | 8701 | 5 | Tractores (excepto las carretillas tractor de la partida n.º 8709). |
-| 8702 | 5 | Vehículos automóviles para el transporte de diez personas o más, conductor incluido. |
-| 8703 | 5 | Coches de turismo y demás vehículos automóviles proyectados principalmente para el transporte de personas (excepto los de la partida n.º 8702), incluidos los vehículos del tipo familiar y los de carreras. |
+| 8702 A | 5 | Vehículos automóviles para el transporte de diez personas o más, conductor incluido, excluidos los vehículos eléctricos o híbridos. |
+| 8702 B | 5 | Vehículos automóviles eléctricos o híbridos para el transporte de diez personas o más, asignándose al grupo 4 las mercancías con el código 8702 B. |
+| 8703 A | 5 | Coches de turismo y demás vehículos automóviles proyectados principalmente para el transporte de personas (excepto los de la partida n.º 8702), incluidos los vehículos del tipo familiar y los de carreras, que no sean eléctricos o híbridos. |
+| 8703 B | 5 | Coches de turismo y demás vehículos automóviles proyectados principalmente para el transporte de personas (excepto los de la partida n.º 8702), incluidos los vehículos del tipo familiar y los de carreras, que sean eléctricos o híbridos, asignándose al grupo 4 las mercancías con el código 8703 B. |
 | 8704A | 5 | Vehículos automóviles para el transporte de mercancías. |
 | 8704B | – | Taras de vehículos automóviles matriculados y en régimen de carga. |
 | 8705 | 5 | Vehículos automóviles para usos especiales (excepto los concebidos principalmente para transporte de personas o mercancías) [por ejemplo: coches para reparaciones (auxilio mecánico) camiones grúa, camiones de bomberos, camiones hormigonera, coches barredera, coches esparcidores, coches taller, coches radiológicos]. |
@@ -1336,4 +1339,6 @@ Para determinar el código asignable a las mercancías podrá consultarse, cuand
 | 9930 | 5 | Provisiones. |
 | 9990 | 5 | Efectos personales. |
 
-> Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 29, de 3 de febrero de 2004. Ref. BOE-A-2004-1972
+> Se modifica y se numera como Anexo I por el art. 3.40 de la Ley 33/2010, de 5 de agosto. Ref. BOE-A-2010-12703
+
+> Redactado el código 7209 conforme a la corrección de errores y erratas publicada en BOE núm. 29, de 3 de febrero de 2004. Ref. BOE-A-2004-1972
