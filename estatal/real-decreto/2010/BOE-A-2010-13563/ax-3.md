@@ -1,0 +1,8 @@
+## ANEXO XII
+
+## Formación a distancia
+
+|  | Grado superior |
+| --- | --- |
+| Módulos bloque común. | MED-C301: Factores fisiológicos del alto rendimiento. MED-C302: Factores psicosociales del alto rendimiento. MED-C303: Formación de formadores deportivos. MED-C304: Organización y gestión aplicada al alto rendimiento. |
+| Módulos bloque específico. | MED-HIHI302: Planificación y programación del alto rendimiento en hípica. MED-HIHI303: Preparación física del jinete o la amazona. MED-HIHI305: Dirección y gestión de un centro ecuestre. MED-HIHI306: Entrenamiento técnico táctico en hípica. MED-HIHI307: Dirección técnica en competiciones hípicas de ARD. MED-HIHI308: Organización y gestión de competiciones hípicas de ARD. |
