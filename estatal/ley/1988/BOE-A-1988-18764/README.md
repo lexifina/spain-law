@@ -205,6 +205,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO I](ci-3.md)
 - [Artículo 111](a111.md)
 - [Artículo 111 bis](a111bis.md)
+- [Artículos 111 y 111 bis](as111y111bis.md)
 - [CAPÍTULO II](cii-9.md)
 - [Artículo 112](a112.md)
 - [CAPÍTULO III](ciii-3.md)

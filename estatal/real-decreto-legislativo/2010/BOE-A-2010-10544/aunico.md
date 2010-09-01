@@ -1,0 +1,3 @@
+## Artículo único. Aprobación del texto refundido de la Ley de Sociedades de Capital.
+
+Se aprueba el texto refundido de la Ley de Sociedades de Capital, al que se incorpora el contenido de la sección 4.ª del título I del libro II del Código de Comercio de 1885, relativa a las sociedades comanditarias por acciones; el Real Decreto Legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el texto refundido de la Ley de Sociedades Anónimas; la Ley 2/1995, de 23 de marzo, de Sociedades de Responsabilidad Limitada; y el contenido del título X de la Ley 24/1988, de 28 de julio, del Mercado de Valores, relativo a las sociedades anónimas cotizadas.
