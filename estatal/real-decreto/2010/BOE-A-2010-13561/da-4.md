@@ -1,0 +1,7 @@
+## Disposición adicional cuarta. Efectos de los títulos de Buceador Monitor y Buceador Instructor expedidos de acuerdo con lo dispuesto en el Decreto 2055/1969, de 25 de septiembre, por el que se regula el ejercicio de las actividades subacuáticas.
+
+1. Los títulos de Buceador Monitor y Buceador Instructor, establecidos por el Decreto 2055/1969, de 25 de septiembre, por el que se regula el ejercicio de actividades subacuáticas, o aquellos equivalentes expedidos por las comunidades autónomas en el ejercicio de sus competencias, podrán ser objeto de homologación, convalidación y equivalencia a efectos profesionales, siempre que los títulos hayan sido expedidos antes del 1 de septiembre del año 2011 establecido para la implantación del título, en la disposición final tercera.
+
+2. A los efectos de la homologación, convalidación y equivalencia profesional, las Comunidades Autónomas, a las que se refiere el apartado anterior, podrán acreditar la formación ante el Consejo Superior de Deportes, dentro de un plazo de noventa días naturales contados desde el día siguiente a la fecha límite establecida en el punto anterior.
+
+3. La determinación de los criterios que hayan de aplicarse a la modalidad de buceo deportivo, y la tramitación y resolución de los expedientes individuales, se llevarán a cabo de conformidad con el procedimiento legalmente establecido para las enseñanzas deportivas de régimen especial.
