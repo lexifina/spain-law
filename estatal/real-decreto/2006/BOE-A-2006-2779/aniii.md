@@ -1,47 +1,60 @@
 ## ANEXO III
 
-## ESPECIFICACIONES DE LOS GASOLEOS PARA USOS AGRICOLA Y MARITIMO (CLASE B) Y DE CALEFACCION (CLASE C)
+## Especificaciones del gasóleo de automoción (clase A)
 
-| Características | Unidades de medida | Gasóleo Clase B | Gasóleo Calefaccion Clase C | Métodos de ensayo |
-| --- | --- | --- | --- | --- |
-| Normas UNE (2) | Normas ASTM (2) |
-| Densidad a 15º (máximo) | kg/m3 | 880/820 | 900/– | EN ISO 3675 | D-4052 |
-|  |  |  |  | EN ISO 1285 |  |
-| Color |  | Rojo | Azul |  | D-1500 |
-| Azufre, máx. | % m/m | 0,20 (1) | 0,20 (1) | EN 874 EN 24260 |  |
-| Índice de cetano, mín. |  | 46 |  | EN ISO 4264 | D-4737 |
-| Número de cetano, mín. |  | 49 |  | ISO 5165 | D-613 |
-| Destilación |  |  |  | EN ISO 3405 | D-86 |
-| 65% recogido, mín. | ºC | 250 | 250 |  |  |
-| 80% recogido, máx. | ºC |  | 390 |  |  |
-| 85% recogido, máx. | ºC | 350 |  |  |  |
-| 95% recogido, máx. | ºC | 370 | Anotar |  |  |
-| Viscosidad cinemática a 40 ºC mín/máx | mm2/s | 2,0/4,5 | –/7,0 | EN ISO 3104 | D-445 |
-| Punto de inflamación, mín. | ºC | 60 | 60 | EN 22179 | D-93 |
-| Punto de obstrucción filtro frío |  |  |  | EN 116 |  |
-| Invierno (1 octubre-31 marzo), máx | ºC | -10 | -6 |  |  |
-| Verano (1 abril-30 septiembre), máx | ºC | 0 | -6 |  |  |
-| Punto de enturbiamento |  |  |  | EN 23015 | D-2500 |
-| Invierno (1 octubre-31 marzo), máx | ºC |  | 4 |  | D-5772 |
-| Verano (1 abril-30 septiembre), máx | ºC |  | 4 |  |  |
-| Residuo carbonoso (sobre 10% V/V final destilación), máx | % m/m | 0,30 | 0,35 | EN ISO 10370 | D-4530 |
-| Agua y sedimentos, máx. | % V/V |  | 0,1 | UNE 51083 | D-2709 |
-| Agua, máx. | mg/kg | 200 |  | EN ISO 12937 | D-1744 |
-| Contaminación total (partículas sólidas), máx. | mg/kg | 24 |  | EN ISO 12662 |  |
-| Contenido en cenizas, max. | % m/m | 0,01 |  | EN ISO 6245 | D-482 |
-| Corrosión lámina de cobre (3 horas a 50 ºC), máx. | Escala | Clase 1 | Clase 2 | EN ISO 2160 | D-130 |
-| Transparencia y brillo |  | Cumple |  |  | D-4176 |
-| Estabilidad a la oxidación, máx. | g/m3 | 25 |  | EN ISO 12205 | D-2274 |
-| Aditivos y agentes trazadores | Regulados por la Orden del Ministerio de la Presidencia PRE/1724/2002, de 5 de julio, modificada por la Orden del Ministerio de la Presidencia PRE/3493/2004, de 22 de octubre. |
+| Características | Unidad de medida | Límites (1) | Métodos de ensayo |
+| --- | --- | --- | --- |
+| Mínimos | Máximos | En EN 590 (2) | Normas ASTM (5) | Normas UNE (5) |
+| Número de cetano |  | 51,0 | - | EN ISO 5165/ EN 15195 (6) | D 613 | UNE-EN ISO 5165 / |
+|  |  |  |  |  |  | UNE-EN 15195 |
+| Índice de cetano |  | 46,0 | - | EN ISO 4264 | D 4737 | UNE-EN ISO 4264 |
+| Densidad a 15ºC | kg/m3 | 820 | 845 | EN ISO 3675 | D 4052 | UNE-EN ISO 3675 |
+|  |  |  |  | EN ISO 12185 |  | UNE-EN ISO 12185 |
+| Hidrocarburos policíclicos aromáticos (3) | %m/m | - | 8 | EN 12916 |  | UNE-EN 12916 |
+| Contenido en azufre (4) | mg/kg | - | 10 | EN ISO 20846 |  | UNE-EN ISO 20846 |
+|  |  |  |  | EN ISO 20884 |  | UNE-EN ISO 20884 |
+| Destilación: | ºC |  |  | EN ISO 3405 | D 86 | UNE-EN ISO 3405 |
+| · 65% recogido |  | 250 |  |  |  |  |
+| · 85% recogido |  |  | 350 |  |  |  |
+| · 95% recogido |  |  | 360 |  |  |  |
+| Viscosidad cinemática a 40ºC | mm2/s | 2,00 | 4,50 | EN ISO 3104 | D 445 | UNE-EN ISO 3104 |
+| Punto de inflamación | ºC | superior a 55 |  | EN ISO 2719 | D 93 | UNE-EN ISO 2719 |
+| Punto de obstrucción filtro frío: | ºC |  |  | EN 116 |  | UNE-EN 116 |
+| · Invierno (1 oct.-31 marzo) |  | - | - 10 |  |  |  |
+| · Verano (1 abril-30 sept.) |  | - | 0 |  |  |  |
+| Residuo carbonoso (sobre 10 %v/v residuo de destilación) | %m/m | - | 0,30 | EN ISO 10370 | D 4530 | UNE-EN ISO 10370 |
+| Lubricidad, diámetro huella corregido (wsd 1.4) a 60 ºC | µm | - | 460 | EN ISO 12156-1 |  | UNE-EN ISO 12156-1 |
+| Contenido en agua | mg/kg | - | 200 | EN ISO 12937 |  | UNE-EN ISO 12937 |
+| Contaminación total (partículas sólidas) | mg/kg | - | 24 | EN 12662 |  | UNE-EN 12662 |
+| Contenido de cenizas | %m/m | - | 0,01 | EN ISO 6245 | D 482 | UNE-EN ISO 6245 |
+| Corrosión lámina de cobre (3 h. a 50 ºC) | escala | - | clase 1 | EN ISO 2160 | D 130 | UNE-EN ISO 2160 |
+| Estabilidad a la oxidación | g/m3 | - | 25 | EN ISO 12205 | D 2274 | UNE-EN ISO 12205 |
+|  | horas | 20 (7) |  | EN 15751 |  | UNE-EN 15751 |
+| Color |  |  | 2 |  | D 1500 |  |
+| Contenido en FAME (8) | %v/v |  | 7 |  |  | UNE-EN 14078 |
+| Transparencia y brillo |  | Cumple |  | D 4176 |  |
+| Aditivos y agentes trazadores | Regulados por la Orden PRE/1724/2002, de 5 de julio, por la que se aprueban los trazadores y marcadores que deben incorporarse a determinados hidrocarburos para la aplicación de los tipos reducidos establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, modificada por la Orden PRE/3493/2004, de 22 de octubre. |
 
-NOTAS:
+Notas:
 
-(1) Con las excepciones recogidas en el artículo 3 de este real decreto.
+(1) Los valores indicados en la especificación son «valores reales». Para determinar los valores límite, se ha recurrido a los términos del documento EN ISO 4259 «Petroleum products - Determination and application of precision data in relation to methods of test». Para determinar un valor mínimo, se ha tenido en cuenta una diferencia mínima de 2 R por encima de cero (R = reproducibilidad). Los resultados de las mediciones individuales se interpretarán sobre la base de los criterios descritos en la norma EN ISO 4259.
 
-El método de referencia adoptado para determinar el contenido de azufre en el gasóleo clase B para uso marítimo será el definido en las normas UNE EN ISO 8754 (1996) y UNE EN ISO 14596 (1999).
+(2) Se han tenido en cuenta los especificados en la norma UNE-EN 590, pudiendo, no obstante, adoptarse otros métodos analíticos, siempre que éstos ofrezcan, al menos, la misma exactitud y el mismo nivel de precisión que los especificados en la norma citada.
 
-Del mismo modo, el método de referencia adoptado para determinar el contenido de azufre en el gasóleo clase C será el definido en las normas UNE EN 24260 (1996), UNE EN ISO 8754 (1996) y UNE EN ISO 14596 (1999).
+Para más información sobre métodos analíticos y su prevalencia en caso de discrepancia, ver la norma UNE-EN 590.
 
-El método de arbitraje será el UNE EN ISO 14596 (1999). La interpretación estadística de la comprobación del contenido de azufre de los gasóleos utilizados se efectuará conforme a la norma UNE EN ISO 4259 (1997).
+Los métodos de ensayo a aplicar serán los correspondientes a la última versión publicada.
 
-(2) Los métodos de ensayo a aplicar serán los correspondientes a la última versión publicada.
+(3) Definido como los hidrocarburos aromáticos totales menos los hidrocarburos monoaromáticos.
+
+(4) Para la determinación hasta 10 ppm de azufre, se utilizarán indistintamente las EN ISO 20846 y EN ISO 20884.
+
+(5) Los métodos de ensayo a aplicar serán los correspondientes a la última versión publicada.
+
+(6) En caso de controversia el método de referencia a utilizar es el de la EN ISO 5165.
+
+(7) Esta norma sólo se aplicará cuando el gasóleo A contenga más del 2% v/v de FAME. En caso de modificación de la norma, se aplicará según lo dispuesto en la última versión publicada.
+
+(8) Se recomienda añadir aditivos antioxidantes al FAME puro que aporten un efecto similar al de 1.000 mg/kg de BHT (butil hidroxitolueno) con el propósito de preservar las propiedades de estabilidad a la oxidación. El FAME cumplirá la norma UNE-EN 14214.
+
+> Se modifica por el art. único.9 del Real Decreto 1088/2010, de 3 de septiembre. Ref. BOE-A-2010-13704.
