@@ -23,3 +23,7 @@ i) Los formatos de los documentos electrónicos que integran los expedientes de 
 j) Como requisito para la tramitación de procedimientos de adjudicación de contratos por medios electrónicos, los órganos de contratación podrán exigir a los licitadores la previa inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas que corresponda de los datos a que se refieren las letras a) a d) del artículo 303.1.
 
 2. Ajustándose a los requisitos establecidos en el apartado anterior y a los señalados en las normas que regulen con carácter general su uso en el tráfico jurídico, las disposiciones de desarrollo de esta Ley establecerán las condiciones en que podrán utilizarse facturas electrónicas en la contratación del sector público.
+
+3. En cumplimiento del principio de transparencia en la contratación y de eficacia y eficiencia de la actuación administrativa, se fomentará y preferirá el empleo de medios electrónicos, informáticos y telemáticos en los procedimientos contemplados en esta Ley por parte de los licitadores o los candidatos. En todo caso en el ámbito de la Administración General del Estado y los organismos públicos vinculados o dependientes de ésta, dichos medios deberán estar disponibles en relación con la totalidad de los procedimientos de contratación de su competencia.
+
+> Se añade un apartado 3 por el art. 1.36 de la Ley 34/2010, de 5 de agosto. Ref. BOE-A-2010-12765
