@@ -11,6 +11,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 ## Bloques
 
 - [(preambulo)](pr.md)
+- [Artículo primero](ap.md)
 - [Artículo segundo](as.md)
 - [Disposición adicional única](da.md)
 - [Disposición transitoria primera](dt.md)
