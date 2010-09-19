@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 148, de 18 de junio de 2010. Ref. BOE-A-2010-9640
+Esta disposición queda sustituida por la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301

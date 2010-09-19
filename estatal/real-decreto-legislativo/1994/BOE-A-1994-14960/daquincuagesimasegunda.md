@@ -1,0 +1,7 @@
+## Disposición adicional quincuagésima segunda. Competencias sobre los procesos de Incapacidad Temporal.
+
+Hasta el cumplimiento de la duración máxima de trescientos sesenta y cinco días de los procesos de incapacidad temporal del Sistema de la Seguridad Social, el Instituto Nacional de la Seguridad Social, y, en su caso, el Instituto Social de la Marina, a través de los Inspectores Médicos adscritos a dichas entidades, ejercerán las mismas competencias que la Inspección de Servicios Sanitarios de la Seguridad Social u órgano equivalente del respectivo Servicio Público de Salud, para emitir un alta médica a todos los efectos. Cuando el alta haya sido expedida por el Instituto Nacional de la Seguridad Social o el Instituto Social de la Marina, éstos serán los únicos competentes, a través de sus propios médicos, para emitir una nueva baja médica en la situación de incapacidad temporal si aquélla se produce en un plazo de ciento ochenta días siguientes a la citada alta médica por la misma o similar patología.
+
+La Secretaría de Estado de la Seguridad Social, a propuesta del Instituto Nacional de la Seguridad Social, y mediante resolución publicada en el Boletín Oficial del Estado, determinará la fecha a partir de la cual se asumirán las funciones atribuidas en el párrafo anterior.
+
+> Se añade por la disposición adicional 19.5 de la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301.

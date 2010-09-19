@@ -1,0 +1,5 @@
+## Disposición adicional quincuagésima primera. Gastos por la anticipación de la readaptación de los trabajadores en incapacidad temporal por contingencias comunes.
+
+La Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social asumirán a su cargo, sin perjuicio del posible resarcimiento posterior por los Servicios de Salud o por las Entidades Gestoras de la Seguridad Social el coste originado por la realización de pruebas diagnósticas, tratamientos y procesos de recuperación funcional dirigidos a evitar la prolongación innecesaria de los procesos de baja laboral por contingencias comunes de los trabajadores del sistema de la Seguridad Social, y que deriven de los acuerdos o convenios a que se refieren los artículos 12.4 y 83 del Reglamento General sobre colaboración en la gestión de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, aprobado por Real Decreto 1993/1995, de 7 de diciembre.
+
+> Se añade por la disposición adicional 19.4 de la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301.
