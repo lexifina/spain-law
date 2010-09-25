@@ -1,0 +1,3 @@
+## Disposición final tercera. Circulares Aeronáuticas.
+
+El Director General de Aviación Civil mediante circular aeronáutica, de conformidad con el procedimiento y los límites previstos en el artículo 8 de la Ley 21/2003, de 7 de julio, de Seguridad Aérea, a propuesta de la Agencia Estatal de Seguridad Aérea, podrá actualizar los siguientes contenidos de los anexos: (1) El apartado B) del anexo I; (2) las categorías de equipamientos que figuran en el punto 5 del anexo II; (3) el anexo III; 4) la relación de materias de los planes de formación inicial que figuran en el punto 9 del anexo IV; y (4) los anexos V a VII.
