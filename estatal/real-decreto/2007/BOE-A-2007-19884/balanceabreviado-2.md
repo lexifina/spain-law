@@ -16,7 +16,7 @@
 |  | III. Deudores comerciales y otras cuentas a cobrar. |  |  |  |
 | 430,431,432,433,434,435,436, (437),(490),(493) | 1. Clientes por ventas y prestaciones de servicios. |  |  |  |
 | 5580 | 2. Accionistas (socios) por desembolsos exigidos. |  |  |  |
-| 44,460,470,471,472,5531,5533,544 | 3. Otros deudores. |  |  |  |
+| 44,460,470,471,472,544 | 3. Otros deudores. |  |  |  |
 | 5303,5304,5313,5314,5323,5324,5333,5334, 5343,5344,5353,5354,(5393),(5394),5523,5524, (593),(5943),(5944),(5953),(5954) | IV. Inversiones en empresas del grupo y asociadas a corto plazo. |  |  |  |
 |  |
 | 5305,5315,5325,5335, 5345,5355,(5395),540,541,542,543,545,546,547,548, (549),551, 5525,5590,5593,565,566,(5945),(5955),(597),(598) | V. Inversiones financieras a corto plazo. |  |  |  |
@@ -55,7 +55,7 @@
 |  | III. Deudas a corto plazo. |  |  |  |
 | 5105,520,527 | 1. Deudas con entidades de crédito. |  |  |  |
 | 5125,524 | 2. Acreedores por arrendamiento financiero. |  |  |  |
-| (1034),(1044), (190),(192),194,500,501,505,506,509,5115, 5135,5145, 521,522, 523,525,526,528,551,5525,5530,5532, 555,5565,5566,5595, 5598, 560,561,569 | 3. Otras deudas a corto plazo. |  |  |  |
+| (1034),(1044), (190),(192),194,500,501,505,506,509,5115, 5135,5145, 521,522, 523,525,526,528,551,5525, 555,5565,5566,5595, 5598, 560,561,569 | 3. Otras deudas a corto plazo. |  |  |  |
 |  |  |  |
 |  |  |  |
 | 5103,5104,5113,5114,5123,5124,5133,5134, 5143,5144,5523,5524,5563,5564 | IV. Deudas con empresas del grupo y asociadas a corto plazo. |  |  |  |
@@ -64,5 +64,9 @@
 | 41,438,465,466,475,476,477 | 2. Otros acreedores. |  |  |  |
 | 485,568 | VI. Periodificaciones a corto plazo. |  |  |  |
 |  | TOTAL PATRIMONIO NETO Y PASIVO (A + B + C) |  |  |  |
+
+> Se modifica por el art. 4.6.2 del Real Decreto 1159/2010, de 17 de septiembre. Ref. BOE-A-2010-14621#a4.
+
+> Téngase en cuenta que el citado Real Decreto será de aplicación a las cuentas anuales individuales y consolidadas de los ejercicios que se inicien a partir de 1 de enero de 2010.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 312, de 29 de diciembre de 2007. Ref. BOE-A-2007-22441.

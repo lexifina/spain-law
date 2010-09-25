@@ -44,7 +44,7 @@ BALANCE AL CIERRE DEL EJERCICIO 200X
 |  | III. Deudores comerciales y otras cuentas a cobrar. |  |  |  |
 | 430,431,432,435,436,(437),(490), (4935) | 1. Clientes por ventas y prestaciones de servicios. |  |  |  |
 | 433,434,(4933),(4934) | 2. Clientes, empresas del grupo y asociadas. |  |  |  |
-| 44,5531,5533 | 3. Deudores varios. |  |  |  |
+| 44 | 3. Deudores varios. |  |  |  |
 | 460,544 | 4. Personal. |  |  |  |
 | 4709 | 5. Activos por impuesto corriente. |  |  |  |
 | 4700,4708,471,472 | 6. Otros créditos con las Administraciones Públicas. |  |  |  |
@@ -113,7 +113,7 @@ BALANCE AL CIERRE DEL EJERCICIO 200X
 | 5105,520,527 | 2. Deudas con entidades de crédito. |  |  |  |
 | 5125,524 | 3. Acreedores por arrendamiento financiero. |  |  |  |
 | 5595,5598 | 4. Derivados. |  |  |  |
-| (1034),(1044) (190), (192),194, 509, 5115, 5135, 5145, 521, 522, 523, 525,526,528,551,5525,5530,5532,555,5565,5566,560,561,569 | 5. Otros pasivos financieros. |  |  |  |
+| (1034),(1044) (190), (192),194, 509, 5115, 5135, 5145, 521, 522, 523, 525,526,528,551,5525,555,5565,5566,560,561,569 | 5. Otros pasivos financieros. |  |  |  |
 | 5103,5104,5113,5114,5123,5124,5133,5134,5143,5144,5523, 5524 5563,5564 | IV. Deudas con empresas del grupo y asociadas a corto plazo. |  |  |  |
 |  | V. Acreedores comerciales y otras cuentas a pagar. |  |  |  |
 | 400,401,405,(406) | 1. Proveedores |  |  |  |
@@ -125,5 +125,9 @@ BALANCE AL CIERRE DEL EJERCICIO 200X
 | 438 | 7. Anticipos de clientes. |  |  |  |
 | 485,568 | VI. Periodificaciones a corto plazo. |  |  |  |
 |  | TOTAL PATRIMONIO NETO Y PASIVO (A + B + C) |  |  |  |
+
+> Se modifica por el art. 4.6.1 del Real Decreto 1159/2010, de 17 de septiembre. Ref. BOE-A-2010-14621#a4.
+
+> Téngase en cuenta que el citado Real Decreto será de aplicación a las cuentas anuales individuales y consolidadas de los ejercicios que se inicien a partir de 1 de enero de 2010.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 312, de 29 de diciembre de 2007. Ref. BOE-A-2007-22441.

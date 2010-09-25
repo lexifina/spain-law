@@ -173,6 +173,8 @@ a) Se abonará, con cargo, generalmente, a la cuenta 111 ó 194.
 
 b) Se cargará por la disposición que de la prima pueda realizarse.
 
+Cuando se produzca una adquisición inversa, de acuerdo con lo dispuesto en la norma de registro y valoración relativa a combinaciones de negocios, en la fecha de inscripción de la fusión o escisión, los ingresos y gastos del negocio adquirido, es decir, la adquirente legal, devengados hasta la fecha de adquisición, deberán cancelarse, cargando o abonando, según proceda, esta cuenta.
+
 111. Otros instrumentos de patrimonio neto
 
 1110. Patrimonio neto por emisión de instrumentos financieros compuestos
@@ -207,9 +209,7 @@ b) Se cargará por la disposición que se haga de esta reserva.
 
 113. Reservas voluntarias
 
-Son las constituidas libremente por la empresa.
-
-Su movimiento es análogo al señalado para la cuenta 112, sin perjuicio de lo indicado en los siguientes párrafos:
+Son las constituidas libremente por la empresa. Su movimiento es análogo al señalado para la cuenta 112, sin perjuicio de lo indicado en los siguientes párrafos:
 
 Cuando se produzca un cambio de criterio contable o la subsanación de un error, el ajuste por el efecto acumulado calculado al inicio del ejercicio, de las variaciones de los elementos patrimoniales afectados por la aplicación retroactiva del nuevo criterio o la corrección del error, se imputará a reservas de libre disposición. Con carácter general, se imputará a las reservas voluntarias, registrándose del modo siguiente:
 
@@ -217,15 +217,11 @@ a) Se abonará por el importe resultante del efecto neto acreedor de los cambios
 
 b) Se cargará por el importe resultante del efecto neto deudor de los cambios experimentados por la aplicación de un nuevo criterio contable comparado con el antiguo o por la corrección de un error contable, con abono o cargo, en su caso, a las respectivas cuentas representativas de los elementos patrimoniales afectados por este hecho, incluyendo las relacionadas con la contabilización del efecto impositivo del ajuste.
 
-Cuando se produzca una combinación de negocios por etapas, de acuerdo con lo dispuesto en las normas de registro y valoración, la diferencia entre el valor razonable de la participación de la adquirente en los elementos identificables de la empresa adquirida en cada una de las fechas de las transacciones individuales y su valor razonable en la fecha de adquisición, se imputará a reservas de libre disposición. Con carácter general, se abonará esta cuenta de reservas voluntarias, con cargo a las correspondientes cuentas representativas de los elementos patrimoniales, incluyendo las relacionadas con la contabilización del efecto impositivo.
-
-En particular, en el caso de que con carácter previo a una combinación de negocios por etapas en la que deba aplicarse el método de adquisición, la inversión en la adquirida se hubiera clasificado como un activo financiero mantenido para negociar o activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias, se abonará o cargará la cuenta de reservas voluntarias con cargo o abono a las cuentas en las que estuviese registrada la participación.
-
 Los gastos de transacción de instrumentos de patrimonio propio se imputarán a reservas de libre disposición. Con carácter general, se imputarán a las reservas voluntarias, registrándose del modo siguiente:
 
 a) Se cargará por el importe de los gastos, con abono a cuentas del subgrupo 57.
 
-b) Se abonará por el gasto por impuesto sobre beneficios relacionado con los gastos de transacción, con cargo a la correspondiente cuenta del subgrupo 47.
+b) Se abonará por el gasto por impuesto sobre beneficios relacionado con los gastos de transacción, con cargo a la cuenta 6301.
 
 114. Reservas especiales
 
@@ -434,9 +430,7 @@ a3) Al cierre del ejercicio, cuando se hubieran realizado inversiones previas a 
 
 a4) Por el gasto por impuesto sobre beneficios originado por estos ajustes, con cargo a las cuentas del subgrupo 83.
 
-a5) Por las variaciones de valor negativas imputadas directamente al patrimonio neto en activos financieros disponibles para la venta, cuando se haya producido una combinación de negocios por etapas, con cargo a la cuenta en la que esté registrada la participación.
-
-b) Se cargarán:
+b) Se cargará:
 
 b1) Al cierre del ejercicio, por las variaciones negativas en el valor razonable de los activos financieros disponibles para la venta, con abono a la cuenta 800.
 
@@ -445,8 +439,6 @@ b2) Al cierre del ejercicio, por la transferencia de beneficios en activos finan
 b3) Al cierre del ejercicio, por el deterioro en inversiones en patrimonio de empresas del grupo, multigrupo y asociadas que previamente hubieran ocasionado ajustes valorativos por aumento de valor, con abono a las correspondientes cuentas del subgrupo 89.
 
 b4) Por el gasto por impuesto sobre beneficios originado por estos ajustes, con abono a las cuentas del subgrupo 83.
-
-b5) Por las variaciones de valor positivas imputadas directamente al patrimonio neto en activos financieros disponibles para la venta, cuando se haya producido una combinación de negocios por etapas, con abono a la cuenta en la que esté registrada la participación.
 
 134. Operaciones de cobertura
 
@@ -910,7 +902,7 @@ a) Se abonará por las cantidades concedidas a la empresa con cargo, generalment
 
 b) Se cargará:
 
-b1) Por cualquier circunstancia que determine la reducción total o parcial de las mis-mas, con arreglo a los términos de su concesión, con abono, generalmente, a la cuenta 4758.
+b1) Por cualquier circunstancia que determine la reducción total o parcial de las mismas, con arreglo a los términos de su concesión, con abono, generalmente, a la cuenta 4758.
 
 b2) Si pierde su carácter de reintegrable, con abono de su saldo a las cuentas 940, 941 ó 942 o a cuentas del subgrupo 74.
 
@@ -1203,3 +1195,7 @@ b) Se cargará:
 b1) En el momento de la inscripción del capital en el Registro Mercantil, con abono, a las cuentas 150 y 502.
 
 b2) En los supuestos en que no se suscriban acciones o participaciones emitidas, con abono a la cuenta 195.
+
+> Se modifican las cuentas 110, 113 y 133 por el art. 4.12 del Real Decreto 1159/2010, de 17 de septiembre. Ref. BOE-A-2010-14621.
+
+> Téngase en cuenta que el citado Real Decreto será de aplicación a las cuentas anuales individuales y consolidadas de los ejercicios que se inicien a partir de 1 de enero de 2010.

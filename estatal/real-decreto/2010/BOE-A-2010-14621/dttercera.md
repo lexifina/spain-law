@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Reglas para la aplicación de las modificaciones incluidas en el Plan General de Contabilidad en el primer ejercicio que se inicie a partir de 1 de enero de 2010.
+
+1. Sin perjuicio de lo previsto en la disposición transitoria quinta, las modificaciones incluidas en el Plan General de Contabilidad se aplicarán de forma prospectiva en el primer ejercicio que se inicie a partir de 1 de enero de 2010.
+
+2. No obstante, cuando proceda contabilizar algún hecho o transacción relacionado con los acuerdos de contraprestación contingente regulados en la norma de registro y valoración 19.ª Combinaciones de negocios se aplicarán los criterios vigentes hasta la entrada en vigor del presente real decreto, siempre que se correspondan con combinaciones de negocios realizadas en los ejercicios iniciados a partir de 1 de enero de 2008 y que finalicen antes del 31 de diciembre de 2010. A tal efecto, se entenderán realizadas en dichos ejercicios las combinaciones de negocios cuya fecha de adquisición estuviera comprendida en ese periodo.

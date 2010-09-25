@@ -25,6 +25,8 @@ a1) En el momento en que se produzca la baja o enajenación del activo financier
 
 a2) En caso de reclasificación a una inversión mantenida hasta el vencimiento, por el saldo positivo acumulado en el patrimonio neto que se reconoce en la cuenta de pérdidas y ganancias, a lo largo de su vida residual, como un incremento de los ingresos financieros en los términos establecidos en la norma de registro y valoración, con abono a la cuenta 761.
 
+a3) Cuando se haya producido una combinación de negocios por etapas, de acuerdo con lo dispuesto en las normas de registro y valoración, por las variaciones de valor positivas imputadas directamente al patrimonio neto correspondientes a cualquier participación previa en la adquirida que estuviera clasificada como activos financieros disponibles para la venta, con abono a la cuenta 7632.
+
 b) Se abonará, al cierre del ejercicio, con cargo a la cuenta 133.
 
 | 81. | GASTOS EN OPERACIONES DE COBERTURA |
@@ -277,3 +279,7 @@ Su movimiento es el siguiente:
 a) Se cargarán en el momento en que se produzca el deterioro de valor del activo financiero, hasta el límite de los ajustes valorativos positivos previos, con abono a las cuentas 240 ó 530.
 
 b) Se abonarán, al cierre del ejercicio, con cargo a la cuenta 133.
+
+> Se modifica la cuenta 802 por el art. 4.12 del Real Decreto 1159/2010, de 17 de septiembre. Ref. BOE-A-2010-14621#a4.
+
+> Téngase en cuenta que el citado Real Decreto será de aplicación a las cuentas anuales individuales y consolidadas de los ejercicios que se inicien a partir de 1 de enero de 2010.
