@@ -1,0 +1,3 @@
+## Disposición final segunda. Referencias a las tarifas de acceso.
+
+De conformidad con el artículo 17 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, las referencias a las «tarifas de acceso» que se realizan en el Real Decreto 1164/2001, de 26 de octubre, por el que se establecen tarifas de acceso a las redes de transporte y distribución de energía eléctrica, en el Real Decreto 485/2009, de 3 de abril, por el que se regula la puesta en marcha del suministro de último recurso en el sector de la energía eléctrica, y, en general, en las disposiciones relativas al sector eléctrico de igual o inferior rango normativo, se entenderán efectuadas a «peajes de acceso».
