@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Mantenimiento de requisitos para la impartición de formación en materia preventiva.
+
+Las entidades formativas que hubieran sido autorizadas por las autoridades laborales y que, conforme a lo previsto en el segundo párrafo de la disposición adicional primera del Real Decreto 337/2010, de 19 de marzo, estuvieran impartiendo formación en materia preventiva para la acreditación de los niveles formativos fijados en los artículos 36 y 37 del Reglamento de los Servicios de Prevención en la fecha de publicación de esta orden, deberán mantener las condiciones y requisitos en que se basó su autorización hasta la finalización de la formación en curso.
