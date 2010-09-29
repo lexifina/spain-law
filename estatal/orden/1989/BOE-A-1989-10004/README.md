@@ -8,23 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2010-09-29 by BOE-A-2010-14846. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [preambulo](preambulo.md)
-- [pr](pr.md)
-- [Primero](primero.md)
-- [Segundo](segundo.md)
-- [Tercero](tercero.md)
-- [Cuarto](cuarto.md)
-- [firma](firma.md)
-- [ANEXO](an.md)
-- [DEFINICIONES](definiciones.md)
-- [CAPÍTULO 1](cprimero.md)
-- [CAPÍTULO 2](c2.md)
-- [CAPÍTULO 3](c3.md)
-- [CAPÍTULO 4](c4.md)
-- [CAPÍTULO 5](c5.md)
-- [CAPÍTULO 6](c6.md)
-- [CAPÍTULO 7](c7.md)
-- [CAPÍTULO 8](c8.md)
-- [CAPÍTULO 9](c9.md)
+- [BOE publisher notice](preambulo.md)
