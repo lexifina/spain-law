@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Depósito de convenios y acuerdos de eficacia limitada y acuerdos de empresa.
+
+Cuando se solicite el depósito de convenios o acuerdos colectivos de eficacia limitada o acuerdos de empresa no incluidos en el artículo 2.1.h) de este real decreto en los registros de las autoridades laborales, deberá remitirse por medios electrónicos el texto del mismo, así como cumplimentar los datos estadísticos e identificativos que figuran en los anexos 1 y 2. Asimismo, se podrá solicitar el depósito de los acuerdos que aprueben los planes de igualdad de empresa que carezcan de convenio colectivo propio que y no deriven de lo establecido en un convenio sectorial.
