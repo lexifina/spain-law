@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Autoridad de coordinación de los controles de conformidad en la comercialización.
+
+La referencia efectuada en el artículo 1 del Real Decreto 175/2004 de 30 de enero por el que se designa la autoridad de coordinación a efectos del Reglamento (CE) nº 1148/2001 de la Comisión, de 12 de junio de 2001 –sustituido por el Reglamento (CE) nº 1580/2007 de la Comisión, de 21 de diciembre de 2007– sobre los controles de conformidad con las normas de comercialización aplicables en el sector de las frutas y hortalizas frescas al Secretario General de Comercio Exterior, se entenderá efectuada al Secretario de Estado de Comercio Exterior.
