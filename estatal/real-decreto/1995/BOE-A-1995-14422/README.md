@@ -62,6 +62,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 41](a41.md)
 - [Artículo 42](a42.md)
 - [CAPITULO IX](cix-2.md)
+- [Artículo 42 bis](a42bis-2.md)
 - [Artículo 43](a43.md)
 - [Artículo 44](a44.md)
 - [Artículo 45](a45.md)
