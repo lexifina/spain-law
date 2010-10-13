@@ -4,36 +4,42 @@
 
 1. Envases y embalajes:
 
-a) Orden del Ministro de Industria y Energía de 17 de marzo de 1986 por la que se dictan normas para la homologación de envases y embalajes destinados al transporte de mercancías peligrosas.
+a) Orden del Ministerio de Industria y Energía, de 17 de marzo de 1986, por la que se dictan normas para la homologación de envases y embalajes destinados al transporte de mercancías peligrosas.
 
-b) Orden del Ministro de Industria y Energía de 28 de febrero de 1989 que modifica el apartado 7.1 de la de 17 de marzo de 1986 por la que se dictan normas para la homologación de envases y embalajes destinados al transporte de mercancías peligrosas.
+b) Orden del Ministerio de Industria y Energía, de 28 de febrero de 1989, por la que se modifica la Orden de 17 de marzo de 1986 que dicta normas para la homologación de envases y embalajes destinados al transporte de mercancías peligrosas.
 
-c) Real Decreto 473/1988, de 30 de marzo, por el que se dictan las disposiciones de aplicación de la Directiva del Consejo de las Comunidades Europeas 76/767/CEE sobre aparatos a presión.
+c) Real Decreto 222/2001, de 2 de marzo, por el que se dictan las disposiciones de aplicación de la Directiva 1999/36/CE del Consejo, de 29 de abril, relativa a equipos transportables a presión.
 
-d) Real Decreto 222/2001, de 2 de marzo, por el que se dictan disposiciones de aplicación de la Directiva 1999/36/CE, del Consejo, de 29 de abril, relativa a equipos transportables a presión.
+d) Real Decreto 769/1999, de 7 de mayo, por el que se dictan disposiciones de aplicación de la Directiva del Parlamento Europeo y del Consejo 97/23/CE, relativa a los equipos a presión y se modifica el Real Decreto 1244/1979, de 4 de abril, que aprobó el Reglamento de aparatos a presión.
 
-e) Real Decreto 769/1999, de 7 de mayo, por el que se dictan disposiciones de aplicación de la Directiva del Parlamento Europeo y del Consejo 97/23/CE, relativa a los equipos a presión y se modifica el Real Decreto 1244/1979, de 4 de abril, que aprobó el Reglamento de aparatos a presión.
+e) Instrucción técnica complementaria ITC EP-6, recipientes a presión transportables.
 
-2. Vehículos
+2. Vehículos:
 
-a) Real Decreto 2140/1985, de 9 de octubre, por el que se dictan normas para la homologación de tipo de vehículos a motor y sus remolques.
+a) Real Decreto 750/2010, de 4 de junio, por el que se regulan los procedimientos de homologación de vehículos de motor y sus remolques, máquinas autopropulsadas o remolcadas, vehículos agrícolas, así como de sistemas, partes y piezas de dichos vehículos.
 
-b) Real Decreto 2028/1986, de 6 de junio, por el que dictan normas para la aplicación de determinadas Directivas de la CEE, relativas a la homologación de tipos de vehículos automóviles, remolque y semirremolques.
+b) Real Decreto 2028/1986, de 6 de junio, por el que dictan normas para la aplicación de determinadas Directivas de la CEE, relativas a la homologación de tipos de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos.
 
-c) Orden ITC/3079/2005, de 3 de octubre, sobre actualización de los anexos I y II del Real Decreto 2028/1986, sobre aplicación de determinadas directivas CE.
+c) Orden ITC/2816/2009, de 16 de octubre, por la que se actualizan los anexos I y II del Real Decreto 2028/1986, de 6 de junio, sobre las normas para la aplicación de determinadas directivas de la CE, relativas a la homologación de tipo de vehículos automóviles, remolques, semirremolques, motocicletas, ciclomotores y vehículos agrícolas, así como de partes y piezas de dichos vehículos.
 
-3. Cisternas y contenedores cisterna
+3. Cisternas y contenedores cisterna:
 
-a) Orden del Ministro de Industria y Energía de 20 de septiembre de 1985, sobre normas de construcción, aprobación de tipo, ensayos e inspección de cisternas para el transporte de mercancías peligrosas.
+a) Orden del Ministerio de Industria y Energía, de 20 de septiembre de 1985, sobre normas de construcción, aprobación de tipo, ensayos e inspección de cisternas para el transporte de mercancías peligrosas.
 
-b) Orden del Ministro de Industria y Energía de 30 de diciembre de 1994, por la que se modifica la de 20 de septiembre de 1985, sobre normas de construcción, aprobación de tipo, ensayos e inspección de cisternas para el transporte de mercancías peligrosas.
+b) Orden del Ministerio de Industria y Energía, de 30 de diciembre de 1994, por la que se modifica la de 20 de septiembre de 1985, sobre normas de construcción, aprobación de tipo, ensayos e inspección de cisternas para el transporte de mercancías peligrosas.
 
-c) Orden del Ministro de Industria y Energía de 16 de octubre 1996, por la que se modifica la de 20 de septiembre de 1985, sobre normas de construcción, aprobación de tipo, ensayos e inspección de cisternas para el transporte de mercancías peligrosas.
+c) Orden del Ministerio de Industria y Energía, de 16 de octubre 1996, por la que se modifica la de 20 de septiembre de 1985, sobre normas de construcción, aprobación de tipo, ensayos e inspección de cisternas para el transporte de mercancías peligrosas.
 
-d) Real Decreto 749/2001, de 29 de junio (BOE 18 de julio de 2001), por el que se establecen las características mínimas que deben cumplir las bocas de hombre e inspección de las cisternas de carburantes (gasolinas, gasóleos y fuel-oils ligeros) así como combustibles de calefacción domésticos u otros combustibles de uso industrial que están clasificados en el ADR como materias de la clase 3 y que además tengan una presión de cálculo de la cisterna de menos de 0,75 kilogramos por centímetro cuadrado de presión manométrica.
+d) Real Decreto 749/2001, de 29 de junio, por el que se establecen las características mínimas que deben cumplir las bocas de hombre e inspección de las cisternas de carburantes (gasolinas, gasóleos y fuel-oils ligeros) así como combustibles de calefacción doméstica u otros combustibles de uso industrial que están clasificados en el ADR como materias de la clase 3 y que además tengan una presión de cálculo de la cisterna de menos de 0,75 Kg/cm2 de presión manométrica.
 
-e) Real Decreto 1437/2002, de 27 de diciembre (BOE 23-enero-2003), por el que se adecuan las cisternas de gasolina al Real Decreto 2102/1996, de 20 de septiembre, sobre control de emisiones de compuestos orgánicos volátiles (COV).
+e) Real Decreto 1437/2002, de 27 de diciembre, por el que se adecuan las cisternas de gasolina al Real Decreto 2102/1996, de 20 de septiembre, sobre control de emisiones de compuestos orgánicos volátiles (COV).
 
-f) Real Decreto 948/2003, de 18 de julio (BOE 6 de agosto de 2003), por el que se establecen las condiciones mínimas que deben reunir las instalaciones de lavado interior o desgasificación y despresurización, así como las de reparación y modificación, de cisternas de mercancías peligrosas.
+f) Real Decreto 948/2003, de 18 de julio, por el que se establecen las condiciones mínimas que deben reunir las instalaciones de lavado interior o desgasificación y despresurización, así como las de reparación y modificación, de cisternas de mercancías peligrosas.
 
-g) Real Decreto 222/2001, de 2 de marzo, por el que se dictan disposiciones de aplicación de la Directiva 1999/36/CE, del Consejo, de 29 de abril, relativa a equipos transportables a presión,
+g) Real Decreto 340/2010, de 19 de marzo, por el que se modifica el Real Decreto 948/2003, de 18 de julio, por el que se establecen las condiciones mínimas que deben reunir las instalaciones de lavado interior o desgasificación y despresurización, así como las de reparación y modificación, de cisternas de mercancías peligrosas.
+
+h) Orden ITC/2765/2005, de 2 de septiembre, por la que se modifican los anexos I, II y IV del Real Decreto 948/2003, de 18 de julio, por el que se establecen las condiciones mínimas que deben reunir las instalaciones de lavado interior o desgasificación y despresurización, así como las de reparación y modificación, de cisternas de mercancías peligrosas.
+
+i) Real Decreto 222/2001, de 2 de marzo, por el que se dictan las disposiciones de aplicación de la Directiva 1999/36/CE del Consejo, de 29 de abril, relativa a equipos transportables a presión.
+
+> Se modifica por el art. único.1 de la Orden ITC/2632/2010, de 5 de octubre. Ref. BOE-A-2010-15602.
