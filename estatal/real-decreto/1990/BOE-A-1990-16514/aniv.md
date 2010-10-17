@@ -24,9 +24,40 @@ Irán, además, acompañados por instrucciones de uso o empleo en las que se men
 
 Por juguetes funcionales se entenderá aquellos que tengan las mismas funciones que aparatos o instalaciones destinados a adultos y de los cuales constituyen a menudo un modelo a escala reducida.
 
-4. Juguetes que contengan, en tanto que tales, sustancias o preparados peligrosos. Juguetes químicos
+| Atención, el Real Decreto 1285/2010, de 15 de octubre, da dos redacciones distintas al título y a la letra a) del apartado 4 con efectos en fechas diferentes, a continuación se incorporan ambas redacciones: |
+| --- |
 
-a) Sin perjuicio de la aplicación de las disposiciones relativas a la clasificación, el envasado y el etiquetado de las sustancias y preparados peligrosos, en las instrucciones de uso o modo de empleo de los juguetes que contengan, en tanto que tales, dichas sustancias o preparados se indicará su carácter peligroso, así como las precauciones que deberán adoptar los usuarios con el fin de evitar los riesgos que puedan presentar, riesgos que se habrán de especificar de forma concisa según sea el tipo de juguete. Se mencionarán también los primeros auxilios que deberán administrarse en caso de accidentes graves provocados por el uso de dichos juguetes. Se indicará, asimismo, que dichos juguetes han de mantenerse fuera del alcance de los niños de muy corta edad.
+[Redacción dada por el art. único.2.c), con efectos desde el 1 de diciembre de 2010 a 31 de mayo de 2015]:
+
+«4. Juguetes que contengan, como tales, sustancias o mezclas peligrosas. Juguetes químicos
+
+a) Sin perjuicio de la aplicación de las disposiciones previstas por el Reglamento (CE) n.º 1272/2008, en las instrucciones de uso de los juguetes que contengan, como tales, mezclas peligrosas o sustancias que reúnan los criterios de cualquiera de las siguientes clases o categorías de peligro establecidas en el anexo I del Reglamento (CE) n.º 1272/2008:
+
+i) clases de peligro 2.1 a 2.4, 2.6, 2.7, 2.8 tipos A y B, 2.9, 2.10, 2.12, 2.13 categorías 1 y 2, 2.14 categorías 1 y 2, 2.15 tipos A a F,
+
+ii) clases de peligro 3.1 a 3.6, 3.7 efectos adversos sobre la función sexual y la fertilidad o sobre el desarrollo, 3.8 efectos distintos de los narcóticos, 3.9 y 3.10,
+
+iii) clase de peligro 4.1,
+
+iv) clase de peligro 5.1.
+
+Se incluirá una advertencia sobre el carácter peligroso de estas sustancias o mezclas, así como una indicación de las precauciones que deberá adoptar el usuario con el fin de evitar los peligros que conlleven, que se habrán de especificar, de forma concisa, según sea el tipo de juguete. Se mencionarán también los primeros auxilios que deberán prestarse en caso de accidentes graves provocados por el uso de dichos juguetes. Se indicará asimismo que dichos juguetes han de mantenerse fuera del alcance de niños de muy corta edad.»
+
+[Redacción dada por el art. único.3.c), con efectos desde el 1 de junio de 2015]:
+
+«4. Juguetes que contengan, como tales, sustancias o mezclas peligrosas. Juguetes químicos:
+
+a) Sin perjuicio de la aplicación de las disposiciones previstas por el Reglamento (CE) n.º 1272/2008, en las instrucciones de uso de los juguetes que contengan sustancias o mezclas que reúnan los criterios de cualquiera de las siguientes clases o categorías de peligro establecidas en el anexo I de dicho Reglamento:
+
+i) clases de peligro 2.1 a 2.4, 2.6, 2.7, 2.8 tipos A y B, 2.9, 2.10, 2.12, 2.13 categorías 1 y 2, 2.14 categorías 1 y 2, 2.15 tipos A a F,
+
+ii) clases de peligro 3.1 a 3.6, 3.7 efectos adversos sobre la función sexual y la fertilidad o sobre el desarrollo, 3.8 efectos distintos de los narcóticos, 3.9 y 3.10,
+
+iii) clase de peligro 4.1,
+
+iv) clase de peligro 5.1.
+
+Se incluirá una advertencia sobre el carácter peligroso de esas sustancias o mezclas, así como una indicación de las precauciones que deberá adoptar el usuario con el fin de evitar los peligros que conlleven, que se habrán de especificar, de forma concisa, según sea el tipo de juguete. Se mencionarán también los primeros auxilios que deberán prestarse en caso de accidentes graves provocados por el uso de dichos juguetes. Se indicará asimismo que dichos juguetes han de mantenerse fuera del alcance de niños de muy corta edad.»
 
 b) Además de las indicaciones que se citan en la letra a), los juguetes químicos exhibirán en sus envases la inscripción: «¡Atención! Únicamente para niños mayores de XX años (2). Utilícese bajo la vigilancia de adultos».
 
@@ -43,5 +74,7 @@ Además, las instrucciones de uso o empleo recordarán que la utilización del j
 6. Juguetes náuticos
 
 Los juguetes náuticos definidos en el punto II.1, f). del anexo II llevarán la inscripción: «¡Atención! Utilizar sólo en agua donde el niño pueda permanecer de pie y bajo vigilancia».
+
+> Se modifica el título y la letra a) del apartado 4, conforme a lo indicado, por el art. único.2.c) del Real Decreto 1285/2010, de 15 de octubre. Ref. BOE-A-2010-15787.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. Ref. BOE-A-1990-23085

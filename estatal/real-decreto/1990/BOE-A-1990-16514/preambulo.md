@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm.224, de 18 de septiembre de 1990. Ref. BOE-A-1990-23085
+Las referencias a los términos "preparado" o "preparados" se entenderán efectuadas a los términos "mezcla" o "mezclas", según establece el art. único.1 del Real Decreto 1285/2010, de 15 de octubre. Ref. BOE-A-2010-15787.
