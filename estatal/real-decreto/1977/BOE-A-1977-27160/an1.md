@@ -41,6 +41,10 @@
 | 10 Pipradrol. |  | 1,1-fifenil-1-(2-peperidi) metanol. |
 | 11 | SPA. | (-)-1-dimetiIamino-1,2-difeniletano. |
 
+> Véase el art. 1 de la Orden SAS/2712/2010, de 13 de octubre Ref. BOE-A-2010-16025, en relación a la inclusión de sustancias en la lista IV.
+
+> Téngase en cuenta para su aplicación el art. 2.
+
 > Véase el art. 1 de la Orden SAS/1916/2009, de 8 de julio Ref. BOE-A-2009-11877, en relación a la inclusión de sustancias en la lista IV.
 
 > Téngase en cuenta para su aplicación el art. 2.
