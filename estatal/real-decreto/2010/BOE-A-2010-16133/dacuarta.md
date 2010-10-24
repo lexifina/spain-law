@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Plan director.
+
+En las materias relativas al pago de la compensación económica, la adjudicación de viviendas militares en régimen de arrendamiento especial y la concesión de ayudas para el acceso a la propiedad de vivienda, la Subsecretaría de Defensa elaborará un plan director anual, que deberá ser aprobado por el Pleno del Consejo Rector del organismo, con carácter previo a su ejecución, en el que se establecerán las medidas y criterios a seguir en el desarrollo y ejecución de dichas materias. Corresponderá al Consejo rector el seguimiento y control de la ejecución de dicho plan.
