@@ -24,7 +24,7 @@ A los efectos de su representación en los órganos rectores de las cajas de aho
 
 El porcentaje de representación del grupo de empleados oscilará entre un mínimo de un 5% y un máximo de un 15% de los derechos de voto en cada órgano.
 
-El porcentaje de representación de las entidades representativas de intereses colectivos será como máximo del 10% de los derechos de voto en cada órgano.
+El porcentaje de representación de las entidades representativas de intereses colectivos será como mínimo del 5% de los derechos de voto en cada órgano.
 
 Cuando las cajas de ahorros tengan abiertas oficinas en más de una Comunidad Autónoma, la representación en la Asamblea General de los distintos grupos, con excepción de los que, en su caso, representen a las Comunidades Autónomas y los previstos en el apartado 1 c) y d) del presente artículo, deberá ser, en observancia del principio de igualdad, proporcional a la cifra de depósitos entre las diferentes Comunidades Autónomas en que tengan abiertas oficinas, dentro del porcentaje atribuido a cada uno de ellos.
 
@@ -35,6 +35,8 @@ La legislación de desarrollo se ajustará en todo caso a lo establecido en este
 Cuatro. Presidirá la Asamblea General el Presidente del Consejo de Administración, y actuarán de Vicepresidente o Vicepresidentes, en su caso, quienes lo sean del Consejo, cuyo Secretario ejercerá las correspondientes funciones también en ambos órganos.
 
 En ausencia del Presidente y Vicepresidentes, la Asamblea nombrará a uno de sus miembros Presidente en funciones, para dirigir la sesión de que se trate.
+
+> Se modifica el apartado 3 por la disposición final 3.1 de la Ley 36/2010, de 22 de octubre. Ref. BOE-A-2010-16131
 
 > Se modifica por el art. 3.2 del Real Decreto-Ley 11/2010, de 9 de julio. Ref. BOE-A-2010-11086
 
