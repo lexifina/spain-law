@@ -43,3 +43,5 @@ Nota: Los objetivos de calidad aplicables en el espacio interior están referenc
 | Educativo o cultural | 72 |
 
 A los efectos de lo establecido en el punto 4 del Anexo III del Real decreto 1513/2005, de 16 de diciembre, se considerarán como valores admisibles de referencia, en relación con las molestias y alteraciones del sueño, los que se establecen en las tablas de este y el siguiente anexo.
+
+> Se declara la nulidad de lo indicado en la tabla A por Sentencia del TS de 20 de julio de 2010. Ref. BOE-A-2010-16302.
