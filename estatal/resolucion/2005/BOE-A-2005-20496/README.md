@@ -19,6 +19,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](da-2.md)
 - [Disposición adicional tercera](da-3.md)
+- [Disposición adicional cuarta](da-4.md)
 - [Disposición transitoria primera](dt.md)
 - [Disposición transitoria segunda](dt-2.md)
 - [Disposición final única](df.md)
