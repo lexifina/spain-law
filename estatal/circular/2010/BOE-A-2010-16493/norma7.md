@@ -1,0 +1,3 @@
+## Norma 7.ª Cambios en el consejo de administración y de directores generales y asimilados de SCR y SGECR.
+
+Las modificaciones que tengan lugar en el seno del consejo de administración de las SCR o SGECR, incluyendo el cambio de representante persona física de los consejeros que sean personas jurídicas, así como los cambios de directores generales y asimilados de las mismas deberán comunicarse a la CNMV en el plazo máximo de los 7 días siguientes a la fecha en que se haya producido tal modificación o cambio. En el caso de las personas que accedan por primera vez a dichos cargos, junto a la comunicación del nombramiento, se adjuntará el historial profesional debidamente firmado, así como las condiciones sobre la honorabilidad comercial, empresarial o profesional.
