@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 287, de 1 de diciembre de 1998. Ref. BOE-A-1998-27531
+Norma derogada por la disposición derogatoria única.b) del Real Decreto 1364/2010, de 29 de octubre. Ref. BOE-A-2010-16551#ddunica
