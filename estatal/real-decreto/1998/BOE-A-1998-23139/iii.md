@@ -1,1 +1,0 @@
-## III. Disposiciones aplicables a los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria, Técnicos de Formación Profesional y de los Cuerpos que imparten enseñanzas de régimen especial
