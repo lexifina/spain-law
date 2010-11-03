@@ -10,4 +10,8 @@ Las autoridades exigirán la presentación de acreditación, por parte de la aut
 
 Las autoridades competentes estudiarán detenidamente las circunstancias personales en las solicitudes de entrada, visado o autorizaciones de residencia presentadas y justificarán toda denegación de las mismas.
 
+> Se anulan los incisos destacados del apartado a) por Sentencia del TS de 1 de junio de 2010. Ref. BOE-A-2010-16822.
+
+> Redactado conforme al auto de 13 de enero de 2011, de rectificación de sentencia, publicado en BOE núm. 54, de 4 de marzo de 2011. Ref. BOE-A-2011-4085.
+
 > Se añade por la disposición final 3.1 del Real Decreto 240/2007, de 16 de febrero. Ref. BOE-A-2007-4184
