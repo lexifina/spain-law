@@ -1,0 +1,3 @@
+## Disposición transitoria única. Plazo especial de opción para la cobertura de las contingencias profesionales de los trabajadores por cuenta propia o autónomos.
+
+A efectos de la cobertura de la prestación por cese de actividad, los trabajadores que en la fecha de entrada en vigor de esta Ley figuren en alta en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos y no tengan cubierta la protección por contingencias profesionales, podrán optar por esta última protección dentro de los tres meses siguientes a la fecha indicada, con efectos desde el día primero del mes siguiente al de dicha opción.

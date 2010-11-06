@@ -425,6 +425,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional cuadragésima séptima](dacuadragesimaseptima.md)
 - [Disposición adicional cuadragésima octava](dacuadragesimaoctava.md)
 - [Disposición adicional cuadragésima novena](dacuadragesimanovena.md)
+- [Disposición adicional quincuagésima](daquincuagesima.md)
 - [Disposición adicional quincuagésima primera](daquincuagesimaprimera.md)
 - [Disposición adicional quincuagésima segunda](daquincuagesimasegunda.md)
 - [Disposición transitoria primera](dtprimera.md)
