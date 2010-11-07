@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Vigencia de la Orden FOM/233/2006, de 31 de enero, por la que se regulan las condiciones para la homologación del material rodante ferroviario y de los centros de mantenimiento y se fijan las cuantías de la tasa por certificación de dicho material.
+
+La Orden FOM/233/2006, de 31 de enero, por la que se regulan las condiciones para la homologación del material rodante ferroviario y de los centros de mantenimiento y se fijan las cuantías de la tasa por certificación de dicho material, seguirá vigente hasta que entre en vigor la orden a la que se refiere el artículo 16 de este real decreto.
