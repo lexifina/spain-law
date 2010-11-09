@@ -1,0 +1,3 @@
+## Disposición final primera. Norma supletoria.
+
+Todas las cuestiones referentes al régimen jurídico de los Consejos de Residentes Españoles en el Extranjero y de la comisión electoral; sus presidentes, secretarios y miembros; convocatorias y desarrollo de las reuniones y actas de las mismas que no estén reguladas expresamente ni en el Real Decreto 1960/2009, de 18 de diciembre, por el que se regulan los Consejos de Residentes Españoles en el Extranjero, ni en esta orden ministerial, se regirán por lo dispuesto en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
