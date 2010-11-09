@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Alteraciones de la condiciones psicofísicas del personal ferroviario.
+
+Cuando el personal ferroviario afectado por la orden considere que su estado de salud pone en riesgo su aptitud para el trabajo, deberá informar inmediatamente a la entidad ferroviaria de la que dependa.
+
+Cuando la entidad ferroviaria tenga conocimiento, por sí misma o por un médico, de que el estado de salud del referido personal se ha deteriorado hasta el punto de poner en riesgo su aptitud para el trabajo, adoptará inmediatamente las medidas necesarias, incluido exámenes de aptitud psicofísica y si fuera necesario, procederá a la suspensión o en su caso revocación del certificado o habilitación correspondiente y a la actualización en su registro. Además, tomará las medidas necesarias para que, en ningún momento durante el servicio, pueda verse afectada su concentración, atención o conducta por estar bajo la influencia de cualquier sustancia que pudiera afectarles. En los casos de incapacidad laboral de más de tres meses se informará de inmediato al Registro Especial Ferroviario.

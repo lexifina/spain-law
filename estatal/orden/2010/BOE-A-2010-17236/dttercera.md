@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Convalidación al personal de RENFE de los requisitos de nivel académico mínimo exigibles para el acceso a la formación para los títulos y habilitaciones.
+
+A los efectos de lo regulado en esta orden, se establece, para el personal que, a la entrada en vigor de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, pertenecía a la entidad Red Nacional de los Ferrocarriles Españoles y que actualmente está integrado en las plantillas de personal de las entidades RENFE-Operadora o Administrador de Infraestructuras Ferroviarias, un plazo transitorio para la adaptación de su cualificación profesional, durante el cual, en virtud de la experiencia profesional acumulada y de los procesos de formación continua existente en dichas entidades, se le considerará convalidado el cumplimiento de los requisitos de nivel académico mínimo previsto en esta orden, para poder acceder a la formación que permita la obtención de los títulos de conducción y de los diferentes tipos de habilitaciones que se regulan en la misma.
+
+Este plazo transitorio finalizará el 31 de diciembre de 2011.

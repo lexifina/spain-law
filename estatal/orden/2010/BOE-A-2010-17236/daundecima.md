@@ -1,0 +1,3 @@
+## Disposición adicional undécima. Habilitaciones de piloto de seguridad y de operador de maquinaria de infraestructuras.
+
+Cuando una persona en posesión de la habilitación de piloto de seguridad o de operador de maquinaria de infraestructura otorgada al amparo de lo establecido en el apartado 5 del artículo 13, cambie de empresa, el responsable de seguridad en la circulación del Administrador de Infraestructuras Ferroviarias podrá proponer, mediante resolución motivada, el otorgamiento de otra idéntica sin necesidad de que la citada persona siga el correspondiente curso de formación, siempre que dicha persona cumpla los requisitos establecidos para el mantenimiento de las mencionadas habilitaciones.
