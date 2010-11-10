@@ -2,7 +2,7 @@
 
 ## Tratamiento selectivo de materiales y componentes de aparatos eléctricos o electrónicos
 
-1. Como mínimo, deberán extraerse los siguientes componentes, sustancias y preparados de todos los aparatos eléctricos o electrónicos recogidos por medios selectivos:
+1. Como mínimo, deberán extraerse los siguientes componentes, sustancias y mezclas de todos los aparatos eléctricos o electrónicos recogidos por medios selectivos:
 
 Condensadores que contengan policlorobifenilos (PCB), de conformidad con el Real Decreto 1378/1999, de 27 de agosto, por el que se establecen medidas para la eliminación y gestión de los policlorobifenilos, policloroterfenilos y aparatos que los contengan.
 
@@ -28,13 +28,13 @@ Pantallas de cristal líquido (junto con su carcasa si procede) de más de 100 c
 
 Cables eléctricos exteriores.
 
-Componentes que contengan fibras cerámicas refractarias según la descripción de la Orden de 11 de septiembre de 1998, por el que se modifican partes de los anexos I y VI del Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, aprobado por el Real Decreto 363/1995, de 10 de marzo.
+Componentes que contengan fibras cerámicas refractarias según la descripción de la parte 3 del anexo VI del Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas.
 
 Componentes que contengan sustancias radiactivas, excepto los componentes que se encuentran por debajo de los umbrales de exención establecidos en el Reglamento sobre instalaciones nucleares y radiactivas, aprobado por el Real Decreto 1836/1999, de 3 de diciembre.
 
 Condensadores electrolíticos que contengan substancias peligrosas de acuerdo con lo establecido en la Orden MAM/304/2002, de 8 de febrero (altura > 25 mm, diámetro > 25 mm o volumen de proporciones similares).
 
-Estos componentes, sustancias y preparados se eliminarán o se valorizarán de conformidad con lo estipulado en la Ley 10/1998, de 21 de abril, de Residuos.
+Estos componentes, sustancias y mezclas se eliminarán o se valorizarán de conformidad con lo estipulado en la Ley 10/1998, de 21 de abril, de Residuos.
 
 2. Los siguientes componentes de aparatos eléctricos o electrónicos recogidos por medios selectivos deberán someterse al tratamiento indicado.
 
@@ -45,3 +45,5 @@ Aparatos que contengan gases que agotan la capa de ozono o tienen un potencial d
 Lámparas de descarga de gas: se extraerá y eliminará el mercurio.
 
 3. Desde el punto de vista ambiental y teniendo en cuenta la conveniencia de reutilizar o reciclar componentes o el aparato completo, los apartados 1 y 2 se aplicarán de tal modo que no se dificulte su reutilización y reciclado correctos.
+
+> Se modifica el apartado 1 por el art. 3.1 y .3 del Real Decreto 1436/2010, de 5 de noviembre. Ref. BOE-A-2010-17240.

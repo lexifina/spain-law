@@ -22,9 +22,9 @@ Las siguientes definiciones sirven para calcular el balance de masa.
 
 Entrada de disolventes orgánicos (I):
 
-I1. Cantidad de disolventes orgánicos o su cantidad en preparados adquiridos utilizados como materia prima en el proceso durante el período a lo largo del cual se calcula el balance de masa.
+I1. Cantidad de disolventes orgánicos o su cantidad en mezclas adquiridas utilizadas como materia prima en el proceso durante el período a lo largo del cual se calcula el balance de masa.
 
-I2. Cantidad de disolventes orgánicos o su cantidad en preparados recuperados y reutilizados como entrada de disolventes en el proceso (se cuenta el disolvente reciclado cada vez que se utilice para realizar la actividad).
+I2. Cantidad de disolventes orgánicos o su cantidad en mezclas recuperadas y reutilizadas como entrada de disolventes en el proceso (se cuenta el disolvente reciclado cada vez que se utilice para realizar la actividad).
 
 Salida de disolventes orgánicos (O):
 
@@ -40,9 +40,9 @@ O5. Disolventes orgánicos o compuestos orgánicos perdidos debido a reacciones 
 
 O6. Disolventes orgánicos contenidos en los residuos recogidos.
 
-O7. Disolventes orgánicos o disolventes orgánicos contenidos en preparados, vendidos como productos comerciales.
+O7. Disolventes orgánicos o disolventes orgánicos contenidos en mezclas, vendidas como productos comerciales.
 
-O8. Disolventes orgánicos contenidos en preparados recuperados para su reutilización en la medida en que no se contabilicen en O7.
+O8. Disolventes orgánicos contenidos en mezclas recuperadas para su reutilización en la medida en que no se contabilicen en O7.
 
 O9. Disolventes orgánicos liberados por otras vías.
 
@@ -83,3 +83,5 @@ El valor de emisión difusa se expresa como proporción de la entrada, que puede
 I = I1 + I2
 
 b) Frecuencia: la determinación de las emisiones difusas puede hacerse mediante un breve pero exhaustivo conjunto de mediciones. No es necesario volver a hacerlo hasta que se modifique el equipo.
+
+> Se modifica por el art. 2.2 del Real Decreto 1436/2010, de 5 de noviembre. Ref. BOE-A-2010-17240.

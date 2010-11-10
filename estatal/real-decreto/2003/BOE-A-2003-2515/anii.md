@@ -21,10 +21,10 @@
 | 14 | Fabricación de calzado (>5). |  |  |  | 25 g por par |  | Los valores límite de emisión total se expresan en gramos de disolvente emitido por par completo de calzado producido. |
 | 15 | Laminación de madera y plástico (>5). |  |  |  | 30 g/m2 |  |  |
 | 16 | Recubrimiento con adhesivos (>5). | 5-15 >15 | 50(1) 50(1) | 25 20 |  | (1) Si se utilizan técnicas que permiten la reutilizacion del disolvente recuperado, el límite de emisión será de 150. |
-| 17 | Fabricación de preparados de recubrimientos, barnices, tintas y adhesivos (> 100). | 100-1.000 >1.000 | 150 150 | 5 3 | 5 por 100 de entrada de disolvente. 3 por 100 de entrada de disolvente. | El límite de emisión difusa no incluye los disolventes vendidos como parte de un preparado de recubrimiento en un recipiente cerrado. |
-| 18 | Conversión de caucho (>15). |  | 20(1) | 25(2) |  | 25 por 100 de entrada de disolvente. | (1) Si se utilizan técnicas que permiten la reutilización del disolvente recuperado, el valor límite de emisión en gases residuales será de 150. (2) El valor límite de emisión difusa no incluye el disolvente vendido como parte de productos o preparados en un recipiente hermético. |
+| 17 | Fabricación de mezclas de recubrimientos, barnices, tintas y adhesivos (> 100). | 100-1.000 >1.000 | 150 150 | 5 3 | 5 por 100 de entrada de disolvente. 3 por 100 de entrada de disolvente. | El límite de emisión difusa no incluye los disolventes vendidos como parte de una mezcla de recubrimiento en un recipiente cerrado. |
+| 18 | Conversión de caucho (>15). |  | 20(1) | 25(2) |  | 25 por 100 de entrada de disolvente. | (1) Si se utilizan técnicas que permiten la reutilización del disolvente recuperado, el valor límite de emisión en gases residuales será de 150. (2) El valor límite de emisión difusa no incluye el disolvente vendido como parte de productos o mezclas en un recipiente hermético. |
 | 19 | Extracción de aceite vegetal y grasa animal y actividades de refinado de aceite vegetal (>10). |  |  |  |  | Grasa animal: 1,5 kg/t. Ricino: 3,0 kg/t. Colza: 1,0 kg/t. Girasol: 1,0 kg/t. Soja (prensada normal): 0,8 kg/t. Soja (láminas blancas): 1,2 kg/t. Otras semillas y otra materia vegetal: 3 kg/t (1). 1,5 kg/t (2). 4 kg/t (3). | (1) Los valores límite de emisión total para instalaciones que procesan series especiales de semillas y otras materias vegetales deberán ser establecidos por las autoridades competentes sobre la base de casos individuales, aplicando las mejores técnicas disponibles. (2) Se aplica a todo proceso de fraccionamiento, excluido el desgomado (eliminacion de la goma del aceite). (3) Se aplica al desgomado |
-| 20 | Fabricación de productos farmacéuticos (> 50). |  | 20(1) | 5(2) | 15(2) | 5 por 100 de entrada de disolvente. | 15 por 100 de entrada de disolvente. | (1) Si se utilizan técnicas que permiten la reutilización del disolvente recuperado, el valor límite de emisión en gases residuales será de 150. (2) El valor límite de emisión difusa no incluye el disolvente vendido como parte de productos o preparados en un recipiente hermético. |
+| 20 | Fabricación de productos farmacéuticos (> 50). |  | 20(1) | 5(2) | 15(2) | 5 por 100 de entrada de disolvente. | 15 por 100 de entrada de disolvente. | (1) Si se utilizan técnicas que permiten la reutilización del disolvente recuperado, el valor límite de emisión en gases residuales será de 150. (2) El valor límite de emisión difusa no incluye el disolvente vendido como parte de productos o mezclas en un recipiente hermético. |
 
 ## B) Umbrales de consumo y valores límite de emisión total para las industrias de recubrimiento de vehículos
 
@@ -55,6 +55,8 @@ El valor límite de emisión total del cuadro que figura más abajo se refiere a
 | Recubrimiento de autobuses nuevos (>15). | ≤2000 >2000 | 210 150 | 290 225 |
 
 Las instalaciones de recubrimiento de vehículos que estén por debajo de los umbrales de consumo de disolventes indicados en el cuadro anterior deberán cumplir los requisitos del sector de renovación del acabado de vehículos mencionados en el presente anexo II.
+
+> Se modifica por el art. 2.2 del Real Decreto 1436/2010, de 5 de noviembre. Ref. BOE-A-2010-17240.
 
 > Se modifica el apartado A) por la disposición final 1 del Real Decreto 795/2010, de 16 de junio. Ref. BOE-A-2010-10103.
 
