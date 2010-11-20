@@ -378,6 +378,70 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | Sopas de valor energético reducido. | 50 mg/I. |
 |  |  | Otros |  |
 |  |  | Feinkostsalat. | 50 mg/I. |
+| E-961 | Neotamo |  |  |
+|  |  | Bebidas alcohólicas |  |
+|  |  | Sidra y perada. | 20 mg/I. |
+|  |  | Bebidas constituidas por una mezcla de cerveza, sidra, perada, bebidas espirituosas o vino con bebidas no alcohólicas. | 20 mg/I. |
+|  |  | Bebidas espirituosas con un contenido de alcohol inferior a 15 % vol. | 20 mg/I. |
+|  |  | Bebidas no alcohólicas |  |
+|  |  | Bebidas aromatizadas a base de agua, de valor energético reducido o sin azúcares añadidos. | 20 mg/I. |
+|  |  | Bebidas a base de leche y productos derivados o de zumos de frutas, de valor energético reducido o sin azúcares añadidos. | 20 mg/I. |
+|  |  | Cereales para desayuno |  |
+|  |  | Cereales para el desayuno, con un contenido de fibra superior al 15 % y que contengan al menos un 20 % de salvado, de valor energético reducido o sin azúcares añadidos. | 32 mg/Kg. |
+|  |  | Cervezas |  |
+|  |  | Cerveza sin alcohol o con un grado alcohólico inferior a 1,2 % vol. | 20 mg/I. |
+|  |  | “Bière de table/Tafelbier/Table Beer” (que contenga menos de un 6 % de mosto primitivo) excepto “Obergäriges Einfachbier”. | 20 mg/I |
+|  |  | Cervezas con una acidez mínima de 30 miliequivalentes expresada en NaOH. | 20 mg/I |
+|  |  | Cervezas negras del tipo “oud bruin”. | 20 mg/I |
+|  |  | Cervezas de valor energético reducido. | 1 mg/I. |
+|  |  | Complementos alimenticios |  |
+|  |  | Complementos alimenticios suministrados en forma líquida. | 20 mg/I. |
+|  |  | Complementos alimenticios suministrados en forma sólida. | 60 mg/I. |
+|  |  | Complementos alimenticios a base de vitaminas y/o elementos minerales, en forma masticable o de jarabe. | 1 mg/I. |
+|  |  | Conservas y semiconservas de productos de mesa |  |
+|  |  | Conservas y semiconservas agridulces de pescado y escabeches de pescado, crustáceos y moluscos. | 10 mg/Kg. |
+|  |  | Edulcorantes de mesa |  |
+|  |  | Edulcorantes de mesa. | Quantum salis. |
+|  |  | Frutas y hortalizas elaboradas |  |
+|  |  | Fruta enlatada o embotellada, de valor energético reducido o sin azúcares añadidos. | 32 mg/Kg. |
+|  |  | Confituras, jaleas y mermeladas de valor energético reducido. | 32 mg/Kg. |
+|  |  | Preparados de frutas y hortalizas de valor energético reducido. | 32 mg/Kg. |
+|  |  | Conservas agridulces de frutas y hortalizas. | 10 mg/Kg. |
+|  |  | Goma de mascar |  |
+|  |  | Goma de mascar sin azúcares añadidos. | 250 mg/Kg. |
+|  |  | Helados |  |
+|  |  | Helados, sorbetes y tartas heladas de valor energético reducido o sin azúcares añadidos. | 26 mg/Kg. |
+|  |  | Pastas y cremas para extender |  |
+|  |  | Pasta para untar a base de cacao, leche, frutos secos o grasas, de valor energético reducido o sin azúcares añadidos. | 32 mg/Kg. |
+|  |  | Postres |  |
+|  |  | Postres aromatizados a base de agua, de valor energético reducido o sin azúcares añadidos. | 32 mg/Kg. |  |
+|  |  | Preparados a base de leche y productos derivados, de valor energético reducido o sin azúcares añadidos. | 32 mg/Kg. |
+|  |  | Postres a base de frutas y hortalizas, de valor energético reducido o sin azúcares añadidos. | 32 mg/Kg. |
+|  |  | Postres a base de huevo, de valor energético reducido o sin azúcares añadidos. | 32 mg/Kg. |
+|  |  | Postres a base de cereales, de valor energético reducido o sin azúcares añadidos. | 32 mg/Kg. |
+|  |  | Postres a base de materias grasas, de valor energético reducido o sin azúcares añadidos. | 32 mg/Kg. |
+|  |  | Productos alimenticios destinados a una alimentación especial |  |
+|  |  | Productos de panadería fina para usos nutritivos específicos. | 55 mg/Kg. |
+|  |  | Alimentos destinados a ser utilizados en dietas de bajo valor energético para reducción de peso. | 26 mg/Kg. |
+|  |  | Alimentos dietéticos destinados a usos médicos especiales. | 32 mg/Kg. |
+|  |  | Productos de aperitivo |  |
+|  |  | Productos a base de almidón salados, secos y preenvasados de distintos sabores, listos para consumir, y frutos secos con cobertura. | 18 mg/Kg. |
+|  |  | Productos de confitería a base de azúcares: caramelos, confites y golosinas |  |
+|  |  | Caramelos, confites y golosinas sin azúcares añadidos. | 32 mg/Kg. |
+|  |  | Productos a base de cacao o de frutos secos, de valor energético reducido o sin azúcares añadidos. | 65 mg/Kg. |
+|  |  | Productos a base de almidón, de valor energético reducido o sin azúcares añadidos. | 65 mg/Kg. |
+|  |  | Micropastillas para refrescar el aliento sin azúcares añadidos. | 200 mg/Kg. |
+|  |  | Pastillas refrescantes muy aromatizadas para la garganta, sin azúcares añadidos. | 15 mg/Kg. |
+|  |  | Productos de pastelería, repostería, bollería y galletería |  |
+|  |  | Cucuruchos y galletas de barquillo para helado sin azúcares añadidos. | 60 mg/Kg. |
+|  |  | "Essoblaten" (obleas). | 60 mg/Kg. |
+|  |  | Salsa |  |
+|  |  | Salsas. | 12 mg/Kg. |
+|  |  | Mostaza. | 12 mg/Kg. |
+|  |  | Sopas. |  |
+|  |  | Sopas de valor energético reducido. | 5 mg/I. |
+|  |  | Otros |  |
+|  |  | “Feinkostsalat”. | 12 mg/Kg. |
 | E-955 | Sucralosa | Bebidas alcohólicas |  |
 |  |  | Sidra y perada. | 50 mg/I. |
 |  |  | Bebidas constituidas por una mezcla de cerveza, sidra, perada, bebidas espirituosas o vino con bebidas no alcohólicas. | 250 mg/I. |
@@ -519,6 +583,8 @@ La dosis máxima de empleo de los edulcorantes E-950, E-951, E-952, E-954, E-957
 |  |  | Sopas de valor energético reducido. | 110 mg/I.(b) |
 
 * Las dosis máximas de empleo de sal de aspartamo y acesulfamo se derivan de las dosis máximas de empleo correspondientes a sus componentes, aspartamo (E-951) y acesulfamo K (E-950). Las dosis máximas de empleo tanto de aspartamo (E-951) como de acesulfamo K (E-950) no deberán sobrepasarse al utilizarlos en forma de sal de dichas sustancias, bien sola o en combinación con E-950 o E-951. Los límites de esta columna se expresan en equivalentes de acesulfamo K (a) o equivalente de aspartamo (b).
+
+> Se modifica por el art. único.1 de la Orden SPI/2957/2010, de 16 de noviembre. Ref. BOE-A-2010-17759.
 
 > Se modifica por el art. único de la Orden SCO/2274/2007, de 23 de julio. Ref. BOE-A-2007-14404.
 
