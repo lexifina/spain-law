@@ -96,6 +96,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO IV](tiv.md)
 - [CAPÍTULO PRIMERO](cprimero-3.md)
 - [Artículo 59](a59.md)
+- [Artículo 59 bis](a59bis.md)
 - [CAPÍTULO II](cii-3.md)
 - [Artículo 60](a60.md)
 - [CAPÍTULO III](ciii-2.md)
