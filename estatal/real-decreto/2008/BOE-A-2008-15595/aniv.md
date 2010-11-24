@@ -8,6 +8,8 @@
 
 3. En los dos casos previstos en los apartados 1 y 2 anteriores, la potencia adicional traspasada al tipo I, ya sea desde el tipo II, o desde el tipo I (suma de las potencias no cubiertas de los dos subtipos), se repartirá en cada uno de los dos subtipos de acuerdo con el porcentaje de las potencias base de cada uno de los subtipos que les sea de aplicación. En el caso de que la nueva convocatoria corresponda a un nuevo año, y los porcentajes de las potencias base de cada subtipo se vean afectados por el mecanismo previsto en el artículo 5.3 la potencia traspasada del tipo II al tipo I se repartirá de acuerdo con los nuevos porcentajes de reparto entre subtipos.
 
-4. La potencia correspondiente a aquellos proyectos de instalaciones, que de acuerdo con lo previsto en el artículo 8 fueran cancelados en el Registro de preasignación de retribución, será incorporada como potencia adicional a la convocatoria siguiente a su cancelación, en el mismo tipo o subtipo, según corresponda.
+4. (Sin contenido)
 
 5. Las potencias adicionales no se verán afectadas, por los incrementos o decrementos que pudieran ser de aplicación a las potencias bases de acuerdo con lo previsto en el artículo 5.3 de este real decreto.
+
+> Se deja sin contenido el apartado 4 por el art. 3.7 del Real Decreto 1565/2010, de 19 de noviembre. Ref. BOE-A-2010-17976.

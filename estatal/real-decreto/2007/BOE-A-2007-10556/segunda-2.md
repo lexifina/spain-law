@@ -46,4 +46,8 @@ Será motivo suficiente para que el órgano competente proceda a revocar la auto
 
 5. Cualquiera de estas instalaciones podrán optar por acogerse plenamente a este real decreto, mediante comunicación expresa a la Dirección General de Política Energética y Minas En todo caso, vencido su periodo transitorio, la instalación que aún no se haya acogido a este real decreto quedará automáticamente acogida al mismo, manteniendo su inscripción. En ambos casos, la migración se llevará a cabo a la categoría a), dentro del grupo y subgrupo que le corresponda por potencia y tipo de combustible, no pudiendo volver al régimen económico descrito en esta disposición transitoria.
 
+6. Las instalaciones acogidas a la presente disposición, o aquellas que utilicen la cogeneración para el tratamiento y reducción de residuos de los sectores agrícola, ganadero y de servicios y que se hubieran acogido plenamente al presente real decreto, en la categoría a), no tendrán derecho a la percepción del complemento por eficiencia previsto en el artículo 28.
+
+> Se añade el párrafo 6 por el art. 1.13 del Real Decreto 1565/2010, de 19 de noviembre. Ref. BOE-A-2010-17976.
+
 > Redactado conforme a la corrección de errores publicada en BOE núm. 177, de 25 de julio de 2007. Ref. BOE-A-2007-14234

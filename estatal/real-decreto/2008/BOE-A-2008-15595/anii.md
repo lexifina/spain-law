@@ -6,7 +6,7 @@
 
 a) Autorización administrativa de la instalación, otorgada por el órgano competente, y concesión del acceso y conexión a la red de transporte o distribución correspondiente. En el caso de instalaciones del tipo I.1, se aportará exclusivamente concesión del acceso y conexión a la red de transporte o distribución correspondiente.
 
-b) Licencia de obras del proyecto de instalación, otorgado por el órgano competente.
+b) Licencia de obras del proyecto de instalación, otorgado por el órgano competente. En el caso de instalaciones del tipo I.1, no será necesaria la aportación de este documento.
 
 c) Resguardo de constitución del aval a que hace referencia el artículo 59 bis o 66 bis del Real Decreto 1955/2000, de 1 de diciembre, o, en su caso, el previsto en el artículo 9 del presente real decreto otorgado por el gestor de la red.
 
@@ -21,5 +21,7 @@ d) Inscripción definitiva en el Registro administrativo de instalaciones de pro
 5. A los efectos de la ordenación cronológica de las instalaciones y asignación de retribución prevista en el artículo 6.3 de este real decreto, hasta la finalización de la convocatoria del segundo trimestre de 2009, se comenzará la asignación por aquellas instalaciones que dispongan de inscripción definitiva en el Registro administrativo de instalaciones de régimen especial dependiente del órgano competente, manteniendo el criterio cronológico de los documentos a que hacen referencia los párrafos a), b) y c) del apartado 1 de este anexo. Una vez asignada la retribución para las instalaciones que dispusieran de inscripción definitiva, si no se hubiera cubierto el cupo de potencia previsto para esa convocatoria, continuará la asignación para el resto de solicitudes.
 
 A partir de la convocatoria del tercer trimestre de 2009, no se considerará la fecha del apartado 1.d) de este anexo a los efectos de la ordenación cronológica de las instalaciones prevista en el artículo 6.3 del presente real decreto
+
+> Se modifica el apartado 1.b) por el art. 3.6 del Real Decreto 1565/2010, de 19 de noviembre. Ref. BOE-A-2010-17976.
 
 > Redactados los apartados 2 y 5 conforme a la corrección de errores publicada en BOE núm. 251, de 17 de octubre de 2008. Ref. BOE-A-2008-16721.

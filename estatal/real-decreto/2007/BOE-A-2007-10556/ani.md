@@ -47,6 +47,8 @@ Para aquellas instalaciones cuya potencia instalada sea menor o igual 1MW, el va
 
 5. Quedan excluidos del cálculo del promedio de un período anual a que hace referencia el apartado anterior aquellas horas en las que la instalación haya sido programada por el operador del sistema para mantener su producción cuando el proceso consumidor asociado reduzca la potencia demandada en respuesta a una orden de reducción de potencia. Por tanto, los valores de Q, V y E serán los correspondientes al resto del período anual.
 
-6. En las instalaciones que usen varios combustibles convencionales se aplicará a cada uno el rendimiento mínimo exigido, en función de la proporción de Q y E que les sean técnicamente imputables.
+6. En las instalaciones que usen varios combustibles convencionales se aplicará un rendimiento eléctrico equivalente único, calculado a partir de los rendimientos de referencia para cada combustible. Por orden del Ministro de Industria, Turismo y Comercio se aprobará la metodología para el cálculo y justificación del citado rendimiento eléctrico equivalente único.
 
 7. Para la verificación del rendimiento eléctrico equivalente, tanto para las instalaciones existentes como nuevas, se instalarán equipos de medida locales y totalizadores. Cada uno de los parámetros Q, V y E deberá tener como mínimo un equipo de medida.
+
+> Se modifica el apartado 6 por el art. 1.18 del Real Decreto 1565/2010, de 19 de noviembre. Ref. BOE-A-2010-17976.
