@@ -26,6 +26,18 @@ e) Buques distintos de los de pasaje y buques tanque, de un arqueo bruto igual o
 
 La Administración marítima podrá eximir a los buques de pasaje de un arqueo bruto inferior a 300 toneladas utilizados para la navegación entre puertos españoles de la aplicación de los requisitos relativos a AIS establecidos en este anexo.
 
+3. Buques pesqueros.
+
+Los buques pesqueros de eslora total superior a 15 metros habrán de llevar el equipo previsto en el artículo 6 bis de acuerdo con el siguiente calendario:
+
+Buques pesqueros de eslora total igual o superior a 24 metros e inferior a 45 metros, a más tardar el 31 de mayo de 2012,
+
+buques pesqueros de eslora total igual o superior a 18 metros e inferior a 24 metros, a más tardar el 31 de mayo de 2013,
+
+buques pesqueros de eslora total igual o superior a 15 metros e inferior a 18 metros, a más tardar el 31 de mayo de 2014.
+
+Los buques pesqueros de nueva construcción con una eslora superior a 15 metros estarán sometidos al requisito de llevar el equipo previsto en el artículo 6 bis a partir del 30 de noviembre de 2010.
+
 II. Sistema de registro de los datos de la travesía (RDT).
 
 1. Los buques de las categorías a), b) y c) siguientes que hagan escala en un puerto español deberán ir equipados con un sistema de registro de los datos de la travesía que cumpla las normas de funcionamiento previstas en la Resolución A.861(20) de la OMI y las normas de ensayo definidas en la norma n.º 61996 de la Comisión Electrotécnica Internacional (CEI):
@@ -45,3 +57,5 @@ a) Los buques de carga de un arqueo bruto igual o superior a 20.000 toneladas: a
 b) Los buques de carga de un arqueo bruto igual o superior a 3.000 toneladas, pero inferior a 20.000 toneladas, a más tardar en la fecha fijada por la OMI, o, a falta de una decisión de la OMI, a más tardar el 1 de enero de 2008.
 
 4. La Administración marítima podrá eximir a los buques de pasaje utilizados en navegaciones entre puertos españoles en zonas marítimas B, C y D según la clasificación del artículo 4 del Real Decreto 1247/1999, de 16 de julio, sobre reglas y normas de seguridad aplicables a los buques de pasaje que realicen travesías entre puertos españoles, de los requisitos relativos al registro de los datos de la travesía exigida en este real decreto.
+
+> Se añade el apartado 3 al punto I por el art. único.24 del Real Decreto 1593/2010, de 26 de noviembre. Ref. BOE-A-2010-18370.

@@ -68,12 +68,12 @@ J. Dirección para la comunicación de información relativa a la carga.
 
 K. Número total de personas a bordo.
 
-L. Cualquiera otra información relevante, en especial la siguiente:
+L. Otra información:
 
-Características y cantidad estimada del combustible para los buques que transporten más de 5000 toneladas de combustible.
+Características y cantidad estimada de combustible para los buques de arqueo bruto igual o superior a 1.000 toneladas.
 
 Condiciones de navegación.
 
-Copia del certificado de gestión de la seguridad (IGS).
-
 5. El capitán del buque informará inmediatamente a la Administración marítima o a la Administración portuaria correspondiente de cualquier modificación en la información notificada en virtud de este anexo.
+
+> Se modifica la letra L del apartado 4 por el art. único.23 del Real Decreto 1593/2010, de 26 de noviembre. Ref. BOE-A-2010-18370.
