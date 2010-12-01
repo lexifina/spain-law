@@ -62,6 +62,10 @@ El primer registro del fichero (tipo 1), contendrá un campo de 13 caracteres, e
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/256/16973_025.png)
 
+> Téngase en cuenta que se añade un nuevo campo en las posiciones 130 a 133, por el art. 1.2 de la Orden EHA/3061/2010, de 22 de noviembre, Ref. BOE-A-2010-18367. con el siguiente contenido:
+
+> «Ejercicio: Se consignarán las cuatro cifras del ejercicio en el que se hubieran declarado las operaciones que dan origen al cobro en metálico por importe superior a 6.000 euros.»
+
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/256/16973_026.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/256/16973_027.png)
@@ -73,3 +77,5 @@ El primer registro del fichero (tipo 1), contendrá un campo de 13 caracteres, e
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/256/16973_030.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/256/16973_031.png)
+
+> Se añade un campo en las posiciones 130 a 133 de los registros tipo 2- Registro de declarado por el el art. 1.2 de la Orden EHA/3061/2010, de 22 de noviembre, Ref. BOE-A-2010-18367.
