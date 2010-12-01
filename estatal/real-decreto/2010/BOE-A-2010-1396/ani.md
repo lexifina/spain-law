@@ -46,9 +46,9 @@ Deberán declararse todas las parcelas agrícolas de la explotación, indicándo
 
 3. Los regímenes para los que se solicita la ayuda.
 
-4. La utilización de las parcelas indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, en el caso de la patata si es para fécula o para consumo humano, pudiéndose indicar «no cultivo’» en el caso de parcelas no cultivadas y declaradas exclusivamente para justificar derechos de pago único.
+4. La utilización de las parcelas indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, en el caso de la patata si es para fécula o para consumo humano, las superficies plantadas con plantas forestales de rotación corta (código NC ex 0602 90 41), pudiéndose indicar «no cultivo» en el caso de parcelas no cultivadas y declaradas exclusivamente para justificar derechos de pago único.
 
-5. Se declararán por separado el barbecho medioambiental y la repoblación forestal con arreglo al Reglamento (CE) n.º 1698/2005 del Consejo, de 20 de septiembre.
+5. Se declarará por separado el barbecho medioambiental con arreglo al Reglamento (CE) n.º 1698/2005 del Consejo, de 20 de septiembre de 2005, y la repoblación forestal conforme al mismo Reglamento o al Reglamento (CE) 1257/1999, del Consejo, de 17 de mayo de 1999 sobre la ayuda al desarrollo rural a cargo del Fondo Europeo de Orientación y de Garantía Agrícola (FEOGA) y por el que se modifican y derogan determinados Reglamentos.
 
 6. El sistema de explotación: secano o regadío, según proceda.
 
@@ -158,7 +158,7 @@ Para los pagos específicos por ganado ovino y caprino, se deberá adjuntar foto
 
 No obstante, no será necesario que los agricultores aporten el Libro de Registro cuando todas las Unidades de producción ganaderas del titular estén radicadas en la misma Comunidad Autónoma.
 
-b) En el caso de las primas por sacrificio por animales sacrificados en otro estado miembro o exportados vivos a un tercer país será necesario aportar originales o copias legibles de los ejemplares n.º 2 ‘‘para el interesado’’ de los documentos de identificación de los animales. La autoridad competente podrá decidir que la presentación de dichos documentos no sea obligatoria, cuando se aplique lo establecido en el apartado 3 del artículo 16 del Reglamento (CE) n.º 1122/2009 de la Comisión de 29 de octubre de 2009.
+b) En el caso de las primas por sacrificio por animales sacrificados en otro estado miembro o exportados vivos a un tercer país será necesario aportar originales o copias legibles de los ejemplares n.º 2 ??para el interesado?? de los documentos de identificación de los animales. La autoridad competente podrá decidir que la presentación de dichos documentos no sea obligatoria, cuando se aplique lo establecido en el apartado 3 del artículo 16 del Reglamento (CE) n.º 1122/2009 de la Comisión de 29 de octubre de 2009.
 
 c) En el caso de la prima por vaca nodriza, las ayudas específicas destinadas a agricultores de ovino y caprino cuya producción esté amparada por denominaciones de producción de calidad y las ayudas específicas destinadas a los titulares de explotaciones de vacuno de leche para fomentar la producción de productos lácteos de calidad, certificado oficial sobre rendimiento lechero cuando sea necesario.
 
@@ -199,3 +199,7 @@ Documentación que pruebe que existen los compromisos de permanencia de la agrup
 En el caso de las ayudas específicas destinadas a compensar las desventajas específicas que afectan a los agricultores del sector lácteo en zonas económicamente vulnerables, el productor que solicite la ayuda complementaria a las explotaciones que dispongan de base territorial para la alimentación del ganado productor de leche, y justifiquen dicha base territorial en base a pastos comunales, deberán aportar un justificante documental de la disponibilidad de dichos recursos para su ganado.
 
 Sin perjuicio de lo anterior, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al solicitante de la necesidad de presentación de dicha documentación, sustituyéndose en su caso por una autorización expresa a la autoridad competente para acceder a dicha información.
+
+> Se modifican los puntos 4 y 5 del apartado III por el art. único.16 del Real Decreto 1597/2010, de 26 de noviembre. Ref. BOE-A-2010-18373.
+
+> Esta modificación es de aplicación a partir del 2011, según establece la disposición adicional única.
