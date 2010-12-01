@@ -52,3 +52,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 32](a3-4.md)
 - [Artículo 33](a3-5.md)
 - [fi](fi.md)
+- [(Información relacionada)](ir.md)
