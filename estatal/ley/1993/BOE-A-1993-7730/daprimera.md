@@ -1,3 +1,5 @@
 ## Disposición adicional primera.
 
-La regulación del recuso cameral permanente contenida en la presente Ley se entenderá sin perjuicio de los regímenes financieros forales de los Territorios Históricos del País Vasco y de Navarra.
+(Derogada)
+
+> Se deroga por el art. 4.13 del Real Decreto-ley 13/2010, de 3 de diciembre. Ref. BOE-A-2010-18651.

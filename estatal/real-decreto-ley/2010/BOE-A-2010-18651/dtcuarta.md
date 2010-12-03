@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Régimen transitorio aplicable al personal incluido a 31 de diciembre de 2010 en el ámbito personal de cobertura del Régimen de Clases Pasivas.
+
+Los derechos pasivos causados, y los que de futuro puedan causar, los colectivos incluidos a 31 de diciembre de 2010 en el ámbito personal de cobertura del Régimen de Clases Pasivas del Estado, así como los que pudieran causar los que a esa misma fecha tuvieran la condición de alumnos de Academias y Escuelas Militares, se regirán por lo dispuesto en el Texto Refundido de la Ley de Clases Pasivas del Estado, aprobado por Real Decreto Legislativo 670/1987, de 30 de abril, y sus disposiciones de desarrollo.

@@ -1,3 +1,5 @@
 ## Disposición adicional segunda.
 
-Para determinar las bases de las exacciones que integran el recurso cameral permanente, cuando recaigan sobre cuotas tributarias bonificadas por referirse a Ceuta o Melilla, se tomarán las respectivas cuotas tributarias íntegras sin considerar, a estos efectos, la antedicha bonificación.
+(Derogada)
+
+> Se deroga por el art. 4.14 del Real Decreto-ley 13/2010, de 3 de diciembre. Ref. BOE-A-2010-18651.
