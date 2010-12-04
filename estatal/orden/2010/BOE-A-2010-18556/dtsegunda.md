@@ -1,0 +1,13 @@
+## Disposición transitoria segunda. Instrumentos y cabinas en servicio.
+
+1. Los cinemómetros que se encontraban en servicio antes del 7 de diciembre de 2006 podrán seguir siendo utilizados mientras superen la verificación periódica o después de reparación o modificación en los términos establecidos en la presente orden, con las excepciones de que los errores máximos permitidos serán los establecidos en los artículos 13.b), 20 y 26 de la Orden de 11 de febrero de 1994, por la que se regulan los cinemómetros destinados a medir la velocidad de circulación de vehículos a motor y de que no se les exigirá el cumplimiento de requisitos adicionales a los determinados durante el proceso de su aprobación de modelo.
+
+2. Aquellos que hayan entrado en servicio a partir del 7 de diciembre de 2006 y antes de la entrada en vigor de esta orden, podrán seguir siendo utilizados mientras superen la verificación periódica o después de reparación o modificación en los términos establecidos en la presente orden. No se les exigirá el cumplimiento de requisitos adicionales a los determinados durante el proceso de su evaluación de la conformidad.
+
+3. Los cinemómetros que se encuentren en servicio antes de la entrada en vigor de esta orden podrán recibir un certificado de verificación después de reparación o modificación que expresará, el tipo o tipos de cabina en los que puede ser operativo y, si esto no fuera posible, la identificación indubitable de las ubicaciones geográficas donde existen cabinas aptas para su correcto funcionamiento. Las cabinas que se identifiquen como aptas deberán haber sido instaladas al amparo de la presente orden o, si hubieran sido instaladas con anterioridad, deberán haber incorporado la placa de características y los precintos necesarios para garantizar la estabilidad de los elementos de orientación y obtenido un certificado de evaluación de conformidad de acuerdo con el módulo G al que se refiere el artículo 4 de esta orden.
+
+4. Las cabinas instaladas al amparo de la Orden ITC/3699/2006, de 22 de noviembre, y que hayan superado la primera verificación periódica, deberán superar la siguiente verificación periódica antes del plazo de seis años desde su primera verificación.
+
+5. Las cabinas instaladas al amparo de la Orden ITC/3699/2006, de 22 de noviembre, y que no hayan superado la primera verificación periódica deberán superar su primera verificación periódica antes del plazo de seis años desde su entrada en servicio.
+
+6. Las cabinas instaladas con anterioridad al 7 de diciembre de 2006 deberán pasar su primera verificación periódica dentro de los seis años siguientes a la obtención, en su caso, del certificado de evaluación de conformidad de acuerdo con el módulo G al que se refiere el artículo 4 de esta orden.
