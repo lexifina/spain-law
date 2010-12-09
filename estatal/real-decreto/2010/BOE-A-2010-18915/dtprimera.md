@@ -1,0 +1,11 @@
+## Disposición transitoria primera. Instalaciones de régimen especial inscritas en el Registro de preasignación de retribución asociadas a una fase posterior a la primera.
+
+1. Las instalaciones de régimen especial inscritas en el Registro de preasignación de retribución al amparo de la disposición transitoria cuarta del Real Decreto-ley 6/2009, de 30 de abril, asociadas a una fase posterior a la primera, podrán comenzar el vertido de energía eléctrica a través de la red de distribución o transporte, en régimen de pruebas, nueve meses antes del 1 de enero de la fase a la que hubiera sido asociada, en las siguientes condiciones:
+
+a) El comienzo del vertido de energía eléctrica será comunicado a la Dirección General de Política Energética y Minas, con, al menos, un mes de antelación, junto con una memoria en la que se establezca la previsión del régimen de funcionamiento en pruebas, en cuanto a energía producida y disponibilidad. En el caso de instalaciones que cuenten con acta de puesta en servicio provisional para la realización de pruebas en la fecha de la entrada en vigor de este real decreto, la citada memoria se remitirá en un plazo de un mes a partir de dicha fecha.
+
+b) La instalación percibirá por la energía vendida exclusivamente la retribución del mercado, conforme a lo establecido en el artículo 14 del Real Decreto 661/2007, de 25 de mayo, sin posibilidad de percepción ni de prima, ni de prima equivalente, ni de complemento por energía reactiva, hasta la finalización del régimen de pruebas, que se producirá, en todo caso, en fecha no anterior al 1 de enero de la fase a la que hubiera sido asociada.
+
+c) En el caso en el que el operador del sistema deba restringir la producción de energía eléctrica de instalaciones de tecnología solar termoeléctrica o eólica por razones de seguridad del sistema, las instalaciones a las que se refiere esta disposición transitoria serán restringidas de forma prioritaria, en tanto en cuanto no dé comienzo la fase a la que hubieran sido asociadas.
+
+2. El cómputo de plazo durante el cual la instalación tendrá derecho a prima o prima equivalente, se realizará desde la fecha de comienzo de la percepción de prima o prima equivalente, según corresponda.
