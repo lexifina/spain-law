@@ -66,6 +66,8 @@ Notas:
 
 4. No se permite la presencia de gorgojo vivo («Acanthoscelides obctetus» o «Bruchus sp.») en las semillas de garbanzo, guisante, haba, judía y lenteja.
 
+5. Para variedades de “Zea mays” (maíz dulce de tipo superdulce), la capacidad germinativa mínima exigida se reduce al 80% de semillas puras. En la etiqueta oficial o la etiqueta del proveedor, cuando proceda, deberá figurar el texto “facultad germinativa mínima del 80 %”.
+
 B) Porcentajes mínimos de pureza varietal (plantas que correspondan al tipo varietal).
 
 Especies autógamas (garbanzo, guisante, judía, lechuga, lenteja y tomate).
@@ -83,6 +85,8 @@ Especies alógamas (el resto de las especies citadas en el epígrafe I).
 – Semilla Certificada: 98 por 100.
 
 – Semilla standard: 95 por 100.
+
+> Se añade la nota 5 por el art. único.2 de la Orden ARM/3187/2010, de 3 de diciembre. Ref. BOE-A-2010-19102.
 
 > Se modifica por el art. 1.2 de la Orden APA/1818/2007, de 13 de junio. Ref. BOE-A-2007-12197.
 
