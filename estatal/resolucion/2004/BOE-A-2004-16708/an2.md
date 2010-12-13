@@ -182,8 +182,8 @@
 | 36042 | Ponteareas | Pontevedra. |
 | 36055 | Tui | Pontevedra. |
 | 36060 | Vilagarcía de Arousa | Pontevedra. |
-| Delegación Especial de Madrid |  |
-| --- | --- |
+| Delegación Especial de Madrid |
+| --- |
 | Código | Administración de la Agencia |
 | 28005 | Alcalá de Henares. |
 | 28006 | Alcobendas. |
@@ -205,10 +205,9 @@
 | 28607 | Hortaleza-Barajas. |
 | 28608 | Latina. |
 | 28609 | Villa de Vallecas. |
-| 28610 | Moratalaz-Vicálvaro. |
 | 28612 | María de Molina. |
 | 28613 | San Blas. |
-| 28614 | Puente de Vallecas. |
+| 28614 | Vinateros |
 | 28615 | Villaverde-Usera. |
 | 28616 | Guzmán el Bueno. |
 | Delegación Especial de Murcia |  |
@@ -250,6 +249,8 @@
 | 46601 | Valencia-Grao | Valencia. |
 | 46602 | Valencia-Norte | Valencia. |
 | 46603 | Valencia-Guillem de Castro | Valencia. |
+
+> Se modifica, en la parte referida a las Administraciones de la Delegación Especial de Madrid, por el apartado 1 de la Resolución de 2 de noviembre de 2010. Ref. BOE-A-2010-17393.
 
 > Se sustituye por la disposición final.1 y el Anexo II de la Resolución de 21 de marzo de 2006. Ref. BOE-A-2006-5950.
 
