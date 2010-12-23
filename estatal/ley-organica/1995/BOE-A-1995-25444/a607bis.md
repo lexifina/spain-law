@@ -4,7 +4,7 @@
 
 En todo caso, se considerará delito de lesa humanidad la comisión de tales hechos:
 
-1.º Por razón de la pertenencia de la víctima a un grupo o colectivo perseguido por motivos políticos, raciales, nacionales, étnicos, culturales, religiosos o de género u otros motivos universalmente reconocidos como inaceptables con arreglo al derecho internacional.
+1.º Por razón de pertenencia de la víctima a un grupo o colectivo perseguido por motivos políticos, raciales, nacionales, étnicos, culturales, religiosos, de género, discapacidad u otros motivos universalmente reconocidos como inaceptables con arreglo al derecho internacional.
 
 2.º En el contexto de un régimen institucionalizado de opresión y dominación sistemáticas de un grupo racial sobre uno o más grupos raciales y con la intención de mantener ese régimen.
 
@@ -43,5 +43,7 @@ Cuando las conductas previstas en el párrafo anterior y en el artículo 188.1 s
 10.º Con la pena de prisión de cuatro a ocho años si sometieran a alguna persona a esclavitud o la mantuvieran en ella. Esta pena se aplicará sin perjuicio de las que, en su caso, correspondan por los concretos atentados cometidos contra los derechos de las personas.
 
 Por esclavitud se entenderá la situación de la persona sobre la que otro ejerce, incluso de hecho, todos o algunos de los atributos del derecho de propiedad, como comprarla, venderla, prestarla o darla en trueque.
+
+> Se modifica el apartado 1.1º por el art. único.156 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953
 
 > Se añade por el art. único.160 de la Ley Orgánica 15/2003, de 25 de noviembre. Ref. BOE-A-2003-21538

@@ -16,4 +16,8 @@ Tendrán la consideración de intromisiones ilegítimas en el ámbito de protecc
 
 7. La imputación de hechos o la manifestación de juicios de valor a través de acciones o expresiones que de cualquier modo lesionen la dignidad de otra persona, menoscabando su fama o atentando contra su propia estimación.
 
+8. La utilización del delito por el condenado en sentencia penal firme para conseguir notoriedad pública u obtener provecho económico, o la divulgación de datos falsos sobre los hechos delictivos, cuando ello suponga el menoscabo de la dignidad de las víctimas.
+
+> Se añade el apartado 8 por la disposición final 2.2 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953.
+
 > Se modifica el apartado 7 por la disposición final 4 de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444.

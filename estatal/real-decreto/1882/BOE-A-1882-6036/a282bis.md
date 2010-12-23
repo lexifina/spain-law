@@ -14,33 +14,41 @@ Ningún funcionario de la Policía Judicial podrá ser obligado a actuar como ag
 
 4. A los efectos señalados en el apartado 1 de este artículo, se considerará como delincuencia organizada la asociación de tres o más personas para realizar, de forma permanente o reiterada, conductas que tengan como fin cometer alguno o algunos de los delitos siguientes:
 
-a) Delito de secuestro de personas previsto en los artículos 164 a 166 del Código Penal.
+a) Delitos de obtención, tráfico ilícito de órganos humanos y trasplante de los mismos, previstos en el artículo 156 bis del Código Penal.
 
-b) Delitos relativos a la prostitución previstos en los artículos 187 a 189 del Código Penal.
+b) Delito de secuestro de personas previsto en los artículos 164 a 166 del Código Penal.
 
-c) Delitos contra el patrimonio y contra el orden socioeconómico previstos en los artículos 237, 243, 244, 248 y 301 del Código Penal.
+c) Delito de trata de seres humanos previsto en el artículo 177 bis del Código Penal.
 
-d) Delitos relativos a la propiedad intelectual e industrial previstos en los artículos 270 a 277 del Código Penal.
+d) Delitos relativos a la prostitución previstos en los artículos 187 a 189 del Código Penal.
 
-e) Delitos contra los derechos de los trabajadores previstos en los artículos 312 y 313 del Código Penal.
+e) Delitos contra el patrimonio y contra el orden socioeconómico previstos en los artículos 237, 243, 244, 248 y 301 del Código Penal.
 
-f) Delitos de tráfico de especies de flora o fauna amenazada previstos en los artículos 332 y 334 del Código Penal.
+f) Delitos relativos a la propiedad intelectual e industrial previstos en los artículos 270 a 277 del Código Penal.
 
-g) Delito de tráfico de material nuclear y radiactivo previsto en el artículo 345 del Código Penal.
+g) Delitos contra los derechos de los trabajadores previstos en los artículos 312 y 313 del Código Penal.
 
-h) Delitos contra la salud pública previstos en los artículos 368 a 373 del Código Penal.
+h) Delitos contra los derechos de los ciudadanos extranjeros previstos en el artículo 318 bis del Código Penal.
 
-i) Delito de falsificación de moneda previsto en el artículo 386 del Código Penal.
+i) Delitos de tráfico de especies de flora o fauna amenazada previstos en los artículos 332 y 334 del Código Penal.
 
-j) Delito de tráfico y depósito de armas, municiones o explosivos previsto en los artículos 566 a 568 del Código Penal.
+j) Delito de tráfico de material nuclear y radiactivo previsto en el artículo 345 del Código Penal.
 
-k) Delitos de terrorismo previstos en los artículos 571 a 578 del Código Penal.
+k) Delitos contra la salud pública previstos en los artículos 368 a 373 del Código Penal.
 
-l) Delitos contra el Patrimonio Histórico previstos en el artículo 2.1.e) de la Ley Orgánica 12/1995, de 12 de diciembre, de represión del contrabando.
+l) Delitos de falsificación de moneda, previsto en el artículo 386 del Código Penal, y de falsificación de tarjetas de crédito o débito o cheques de viaje, previsto en el artículo 399 bis del Código Penal.
+
+m) Delito de tráfico y depósito de armas, municiones o explosivos previsto en los artículos 566 a 568 del Código Penal.
+
+n) Delitos de terrorismo previstos en los artículos 572 a 578 del Código Penal.
+
+o) Delitos contra el patrimonio histórico previstos en el artículo 2.1.e de la Ley Orgánica 12/1995, de 12 de diciembre, de represión del contrabando.
 
 5. El agente encubierto estará exento de responsabilidad criminal por aquellas actuaciones que sean consecuencia necesaria del desarrollo de la investigación, siempre que guarden la debida proporcionalidad con la finalidad de la misma y no constituyan una provocación al delito.
 
 Para poder proceder penalmente contra el mismo por las actuaciones realizadas a los fines de la investigación, el Juez competente para conocer la causa deberá, tan pronto tenga conocimiento de la actuación de algún agente encubierto en la misma, requerir informe relativo a tal circunstancia de quien hubiere autorizado la identidad supuesta, en atención al cual resolverá lo que a su criterio proceda.
+
+> Se modifica el apartado 4 por la disposición final 1.2 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953.
 
 > Se añade la letra d) al apartado 4 y se reordenan las antiguas letras como e), f), g), h), i), j), k) y l) por la disposición final 1.1.a) de la Ley Orgánica 15/2003, de 25 de noviembre. Ref. BOE-A-2003-21538.
 

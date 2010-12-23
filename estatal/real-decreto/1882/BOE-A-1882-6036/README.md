@@ -422,6 +422,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 367 quáter](a367quater.md)
 - [Artículo 367 quinquies](a367quinquies.md)
 - [Artículo 367 sexies](a367sexies.md)
+- [Artículo 367 septies](a367septies.md)
 - [CAPÍTULO III](ciii-3.md)
 - [Artículo 368](a368.md)
 - [Artículo 369](a369.md)
