@@ -19,3 +19,7 @@ f) Las demás que le atribuyan las Leyes y disposiciones generales.
 3. Los representantes de la Administración en el Consejo de Policía serán designados por el Ministro del Interior.
 
 La representación de los miembros del Cuerpo Nacional de Policía en el Consejo se estructurará por Escalas, sobre la base de un representante por cada 6.000 funcionarios o fracción, de cada una de las cuatro Escalas que constituyen el Cuerpo.
+
+> Se declara la inconstitucionalidad del párrafo destacado por Sentencia del TC 120/2010, de 24 de noviembre. Ref. BOE-A-2010-19818.
+
+> Se declara la inconstitucionalidad del párrafo segundo del apartado 3 por Sentencia del TC 120/2010, de 24 de noviembre. Ref. BOE-A-2010-19818.
