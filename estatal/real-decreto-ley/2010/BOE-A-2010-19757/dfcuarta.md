@@ -1,0 +1,5 @@
+## Disposición final cuarta. Modificación de la Ley 2/2008, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2009.
+
+Se añade un párrafo segundo en el apartado cinco de la disposición adicional quincuagésima cuarta de la Ley 2/2008, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2009, con la siguiente redacción:
+
+«No obstante, las cantidades satisfechas en el año 2011 en concepto de patrocinio por los espónsores o patrocinadores al Consorcio para la celebración del Año Internacional para la Investigación en Alzheimer y Enfermedades Neurodegenerativas: Alzheimer Internacional 2011, entidades de titularidad pública o entidades a que se refiere el artículo 2 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo, encargadas de la realización de programas y actividades del acontecimiento, se tendrán en cuenta a efectos del cálculo del límite previsto en el segundo párrafo del artículo 27.3.Primero de la Ley 49/2002, de 23 de diciembre.»
