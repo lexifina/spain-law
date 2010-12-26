@@ -1,0 +1,9 @@
+La aprobación de la Ley 41/2007, de 7 de diciembre (que modificó ampliamente la Ley 2/1981, de 25 de marzo, de regulación del mercado hipotecario), y del Real Decreto 716/2009, de 24 de abril, que desarrolla esta última Ley, ha supuesto una significativa actualización normativa de nuestro mercado hipotecario, con atribución al Banco de España de competencias técnicas sobre determinados extremos, a cuyo ejercicio se contrae la presente Circular.
+
+Así, se establecen los datos esenciales del registro contable especial a que se refiere el artículo 21 del citado Real Decreto, que deberán incorporarse a las cuentas anuales de la entidad emisora, en virtud de la habilitación establecida en el apartado 6 de dichos artículo y norma.
+
+Asimismo, en uso de la habilitación otorgada en el artículo 1 de la Orden de 31 de marzo de 1989, por la que se faculta al Banco de España para establecer y modificar las normas contables de las entidades de crédito, se especifica técnicamente el contenido mínimo de la nota de la memoria anual de actividades en la que se incluye la manifestación expresa del Consejo de Administración u órgano equivalente de la entidad de crédito en relación con la existencia de políticas y procedimientos expresos atinentes a sus actividades en el mercado hipotecario.
+
+Finalmente, se incluyen también otros criterios técnicos de menor trascendencia en cuestiones relacionadas con la movilización de hipotecas que tengan, además, el aval de una entidad de crédito, y en orden al juicio que debe llevarse a cabo sobre la posible equivalencia de las garantías otorgadas sobre bienes inmuebles ubicados en otros países de la Unión Europea.
+
+En consecuencia, en uso de las facultades que tiene concedidas, el Consejo de Gobierno del Banco de España, a propuesta de la Comisión Ejecutiva, ha aprobado la presente Circular, que contiene las siguientes normas:
