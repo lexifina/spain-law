@@ -2,6 +2,8 @@
 
 ## Campos y áreas científicas
 
+Campo 0. Transferencia del Conocimiento e Innovación
+
 Campo 1. Matemáticas y Física
 
 005. «Álgebra».
@@ -461,3 +463,5 @@ Campo 11. Filosofía, Filología y Lingüística
 585. «Lógica y Filosofía de las Ciencias».
 
 795. «Teoría de la Literatura».
+
+> Se añade el Campo 0 por la Resolución de 23 de noviembre de 2010. Ref. BOE-A-2010-18882.
