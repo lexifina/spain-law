@@ -6,9 +6,13 @@
 
 a) 1.000 euros cuando el hijo o menor acogido a cargo tenga un grado de discapacidad igual o superior al 33 por ciento.
 
-b) 4.076,40 euros, cuando el hijo a cargo sea mayor de 18 años y esté afectado por una minusvalía en un grado igual o superior al 65 por ciento.
+b) 4.171,20 euros, cuando el hijo a cargo sea mayor de 18 años y esté afectado por una minusvalía en un grado igual o superior al 65 por ciento.
 
-c) 6.115,20 euros, cuando el hijo a cargo, sea mayor de 18 años, esté afectado por una minusvalía en un grado igual o superior al 75 por ciento y, como consecuencia de pérdidas anatómicas o funcionales, necesite el concurso de otra persona para realizar los actos más esenciales de la vida, tales como vestirse, desplazarse, comer o análogos.
+c) 6.256,80 euros, cuando el hijo a cargo, sea mayor de 18 años, esté afectado por una minusvalía en un grado igual o superior al 75 por ciento y, como consecuencia de pérdidas anatómicas o funcionales, necesite el concurso de otra persona para realizar los actos más esenciales de la vida, tales como vestirse, desplazarse, comer o análogos.
+
+> Se actualizan las cuantías de los apartados 1 y 2, con efectos desde el 1 de enero de 2011, por la disposición adicional 5.2 del Real Decreto 1794/2010, de 30 de diciembre. Ref. BOE-A-2010-20149.
+
+> Se actualizan las cuantías de los apartados 1 y 2, con efectos desde el 1 de enero de 2011, por la disposición adicional primera 1 y 2 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
 
 > Se modifica el apartado 1, con efectos dede el 1 de enero de 2011, por el art. 7.2 del Real Decreto-Ley 8/2010, de 20 de mayo. Ref. BOE-A-2010-8228.
 
