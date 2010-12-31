@@ -174,4 +174,10 @@ d) En el caso de explotaciones mixtas, en las que coexistan animales de los apar
 
 11.1 Instalaciones para la fabricación de carbono sinterizado o electrografito por combustión o grafitación.
 
+12. Instalaciones de captura de CO2 con fines de almacenamiento de dióxido de carbono.
+
+12.1 Instalaciones de captura de CO2 procedentes de instalaciones reguladas por esta ley con fines de almacenamiento geológico de dióxido de carbono de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono.
+
+> Se añade el apartado 12 por la disposición final 5 de la Ley 40/2010, de 29 de diciembre. Ref. BOE-A-2010-20049.
+
 > Se modifican las categorías 4.1b) y 9.3 por la disposición final 2.6 de la Ley 27/2006, de 18 de julio. Ref. BOE-A-2006-13010

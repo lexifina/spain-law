@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Títulos concedidos al amparo de la Ley 22/1973, de 21 de julio, de Minas.
+
+1. Las autorizaciones para reconocimiento de estructuras subterráneas para su utilización como almacenamiento de CO2 tramitadas con arreglo a la Ley 22/1973, de 21 de julio, de Minas con anterioridad a la entrada en vigor de esta ley deberán adaptarse a lo dispuesto en ésta para los permisos de investigación, a cuyos efectos, sus titulares dispondrán de un plazo de dieciocho meses para presentar ante el órgano competente la documentación a la que se refiere el artículo 7 de esta ley.
+
+Los titulares de estas autorizaciones podrán solicitar concesiones de almacenamiento con arreglo a esta ley, gozando de prioridad para el otorgamiento de la misma en los términos contemplados en el artículo 11 de esta ley.
+
+2. Los titulares de autorizaciones obtenidas para el almacenamiento de CO2 con arreglo a la Ley 22/1973, de 21 de julio, de Minas con anterioridad a la entrada en vigor de esta ley, dispondrán de un plazo de 2 años para la adaptación de las condiciones de la autorización a las disposiciones de esta ley. A estos efectos, deberán presentar ante el Ministerio de Industria, Turismo y Comercio la documentación relacionada en el artículo 11 de esta ley junto con la autorización obtenida con arreglo a la Ley 22/1973, de 21 de julio, de Minas. En caso de que cumplan con los requisitos para obtener una concesión con arreglo a esta ley, se les otorgará.

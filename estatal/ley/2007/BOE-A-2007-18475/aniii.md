@@ -41,3 +41,7 @@ d) Los biocidas definidos en el artículo 2.a) del Real Decreto 1054/2002, de 11
 13. El traslado transfronterizo de residuos dentro, hacia o desde la Unión Europea sujeto a autorización o prohibido según lo dispuesto en el Reglamento (CE) número 1013/2006, del Parlamento Europeo y del Consejo, de 14 de junio de 2006, relativo al traslado de residuos.
 
 14. La gestión de los residuos de las industrias extractivas, según lo dispuesto en la Directiva 2006/21/CE del Parlamento Europeo y del Consejo, de 15 de marzo de 2006, sobre la gestión de los residuos de industrias extractivas y por la que se modifica la Directiva 2004/35/CE.
+
+15. La explotación de los lugares de almacenamiento de carbono de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono.
+
+> Se añade el apartado 15 por la disposición final 3 de la Ley 40/2010, de 29 de diciembre. Ref. BOE-A-2010-20049.

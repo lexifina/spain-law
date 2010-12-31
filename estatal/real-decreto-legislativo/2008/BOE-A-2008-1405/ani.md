@@ -96,7 +96,9 @@ d. Instalaciones diseñadas para cualquiera de los siguientes fines:
 
 e. Instalaciones industriales para la producción de electricidad, vapor y agua caliente con potencia térmica superior a 300 MW.
 
-f. Tuberías para el transporte de gas y petróleo con un diámetro de más de 800 milímetros y una longitud superior a 40 kilómetros.
+f. Tuberías con un diámetro de más de 800 milímetros y una longitud superior a 40 kilómetros:
+
+Para el transporte de gas, petróleo o productos químicos y para el transporte de flujos de dióxido de carbono con fines de almacenamiento geológico, incluidas las estaciones de bombeo asociadas.
 
 g. Construcción de líneas aéreas para el transporte de energía eléctrica con un voltaje igual o superior a 220 kV y una longitud superior a 15 kilómetros.
 
@@ -232,7 +234,7 @@ b. Los siguientes proyectos correspondientes a actividades listadas en el anexo 
 
 6. Explotaciones y frentes de una misma autorización o concesión a cielo abierto de yacimientos minerales y demás recursos geológicos de las secciones A, B, C y D, cuyo aprovechamiento está regulado por la Ley de Minas y normativa complementaria, cuando la superficie de terreno afectado por la explotación supere las 2,5 hectáreas o la explotación se halle ubicada en terreno de dominio público hidráulico, o en la zona de policía de un cauce.
 
-7. Tuberías para el transporte de productos químicos y para el transporte de gas y petróleo con un diámetro de más de 800 milímetros y una longitud superior a 10 kilómetros.
+7. Tuberías para el transporte de productos químicos y para el transporte de gas y petróleo, con un diámetro de más de 800 milímetros y una longitud superior a 10 kilómetros y tuberías para el transporte de flujos de dióxido de carbono con fines de almacenamiento geológico, incluidas las estaciones de bombeo asociadas.
 
 8. Líneas aéreas para el transporte de energía eléctrica con una longitud superior a 3 kilómetros.
 
@@ -264,4 +266,10 @@ d. Todos los proyectos incluidos en el anexo II cuando sea exigida la evaluació
 
 e. Cualquier modificación o extensión de un proyecto consignado en el presente anexo, cuando dicha modificación o extensión cumple, por sí sola, los posibles umbrales establecidos en el presente anexo.
 
+f. Emplazamientos de almacenamiento de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono.
+
+g. Instalaciones para la captura de flujos de CO2 con fines de almacenamiento geológico de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono, procedente de instalaciones incluidas en este anexo, o cuando la captura total anual de CO2 sea igual o superior a 1,5 megatoneladas.
+
 Nota: el fraccionamiento de proyectos de igual naturaleza y realizados en el mismo espacio físico no impedirá la aplicación de los umbrales establecidos en este anexo, a cuyos efectos se acumularán las magnitudes o dimensiones de cada uno de los proyectos considerados.
+
+> Se modifica el punto f. del grupo 3 y la letra b) del punto 7 del grupo 9 y se añaden las letras f. y g. al grupo 9, por la disposición final 2.1 a 3 de la Ley 40/2010, de 29 de diciembre. Ref. BOE-A-2010-20049.

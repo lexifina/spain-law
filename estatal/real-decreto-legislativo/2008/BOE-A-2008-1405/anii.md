@@ -86,6 +86,8 @@ e. Explotaciones (no incluidas en el anexo I) que se hallen ubicadas en terreno 
 
 f. Dragados fluviales (no incluidos en el anexo I) cuando el volumen de producto extraído sea superior a 100.000 metros cúbicos.
 
+g. Instalaciones para la captura de flujos de CO2 con fines de almacenamiento geológico de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono, procedente de instalaciones no incluidas en el anexo I.
+
 Grupo 4. Industria energética.
 
 a. Instalaciones industriales para el transporte de gas, vapor y agua caliente; transporte de energía eléctrica mediante líneas aéreas (proyectos no incluidos en el anexo I), que tengan una longitud superior a 3 kilómetros.
@@ -94,7 +96,7 @@ b. Fabricación industrial de briquetas de hulla y de lignito.
 
 c. Instalaciones para la producción de energía hidroeléctrica (cuando, según lo establecido en el anexo I, no lo exija cualquiera de las obras que constituyen la instalación).
 
-d. Instalaciones de oleoductos y gasoductos (proyectos no incluidos en el anexo I), excepto en suelo urbano, que tengan una longitud superior a 10 kilómetros.
+d. Instalaciones de oleoductos y gasoductos, excepto en el suelo urbano, que tengan una longitud superior a 10 kilómetros y tuberías para el transporte de flujos de CO2 con fines de almacenamiento geológico (proyectos no incluidos en el anexo I).
 
 e. Almacenamiento de gas natural sobre el terreno. Tanques con capacidad unitaria superior a 200 toneladas.
 
@@ -209,3 +211,5 @@ m. Urbanizaciones de vacaciones y complejos hoteleros fuera de áreas urbanas y 
 n. Los proyectos que no estando recogidos en el anexo I ni II cuando así lo requiera la normativa autonómica y a solicitud del órgano ambiental de la comunidad autónoma en la que esté ubicado el proyecto, acreditando para ello que puedan tener efectos significativos en el medio ambiente. La exigencia de evaluación de impacto ambiental por la normativa autonómica podrá servir de acreditación a efectos de este apartado.
 
 Nota: el fraccionamiento de proyectos de igual naturaleza y realizados en el mismo espacio físico no impedirá la aplicación de los umbrales establecidos en este anexo, a cuyos efectos se acumularán las magnitudes o dimensiones de cada uno de los proyectos considerados.
+
+> Se añade la letra g. al Grupo 3 y se modifica el apartado d. del Grupo 4 por la Disposición final 2.4 y 5 de la Ley 40/2010, de 29 de diciembre. Ref. BOE-A-2010-20049.
