@@ -508,9 +508,9 @@ Las inversiones en el patrimonio de entidades del grupo, multigrupo y asociadas,
 
 2.5.1. Valoración inicial.
 
-Las inversiones en el patrimonio de entidades del grupo, multigrupo y asociadas se valorarán inicialmente al coste, que equivaldrá al valor razonable de la contraprestación entregada más los costes de transacción que les sean directamente atribuibles, debiéndose aplicar, en su caso, el criterio incluido en el apartado 2.1 contenido en la norma 20ª relativa a operaciones entre empresas del grupo.
+Las inversiones en el patrimonio de empresas del grupo, multigrupo y asociadas se valorarán inicialmente al coste, que equivaldrá al valor razonable de la contraprestación entregada más los costes de transacción que les sean directamente atribuibles, debiéndose aplicar, en su caso, en relación con las empresas del grupo, el criterio incluido en el apartado 2 de la norma 20.ª relativa a operaciones entre empresas del grupo y los criterios para determinar el coste de la combinación establecidos en el apartado 2.3 de la norma 18.ª sobre combinaciones de negocios.
 
-No obstante, si existiera una inversión anterior a su calificación como entidad del grupo, multigrupo o asociada, se considerará como coste de dicha inversión el valor contable que debiera tener la misma inmediatamente antes de que la entidad pase a tener esa calificación. En su caso, los ajustes valorativos previos asociados con dicha inversión contabilizados directamente en el patrimonio neto, se mantendrán en éste hasta que se produzca alguna de las circunstancias descritas en el apartado 2.5.3 siguiente.
+No obstante, si existiera una inversión anterior a su calificación como empresa del grupo, multigrupo o asociada, se considerará como coste de dicha inversión el valor contable que debiera tener la misma inmediatamente antes de que la empresa pase a tener esa calificación. En su caso, los ajustes valorativos previos asociados con dicha inversión contabilizados directamente en el patrimonio neto, se mantendrán en éste hasta que se produzca alguna de las circunstancias descritas en el apartado 2.5.3 siguiente.
 
 Formará parte de la valoración inicial el importe de los derechos preferentes de suscripción y similares que, en su caso, se hubiesen adquirido.
 
@@ -582,9 +582,27 @@ En el caso de instrumentos de patrimonio que se valoren por su coste, por no pod
 
 2.7. Reclasificación de activos financieros.
 
-La entidad no podrá reclasificar ningún activo financiero incluido inicialmente en la categoría de mantenidos para negociar o a valor razonable con cambios en la cuenta de pérdidas y ganancias a otras categorías, ni de éstas a aquéllas, salvo cuando proceda calificar al activo como inversión en el patrimonio de entidades del grupo, multigrupo o asociadas.
+La entidad, como regla general, no podrá reclasificar ningún activo financiero incluido inicialmente en la categoría de mantenidos para negociar o a valor razonable con cambios en la cuenta de pérdidas y ganancias a otras categorías, ni de éstas a aquéllas, salvo cuando proceda calificar al activo como inversión en el patrimonio de entidades del grupo, multigrupo o asociadas.
 
-No se podrá clasificar o tener clasificado ningún activo financiero en la categoría de inversiones mantenidas hasta el vencimiento si en el ejercicio a que se refieren las cuentas anuales o en los dos precedentes, se han vendido o reclasificado activos incluidos en esta categoría por un importe que no sea insignificante en relación con el importe total de la categoría de inversiones mantenidas hasta el vencimiento, salvo aquéllas que correspondan a ventas o reclasificaciones:
+No obstante lo anterior, se podrán realizar las siguientes reclasificaciones con los siguientes requisitos:
+
+a) Los activos financieros valorados al valor razonable con cambios en resultados, excluidos los derivados, a las categorías de "activos financieros disponibles para la venta" o "inversiones mantenidas hasta el vencimiento", siempre que concurran circunstancias excepcionales y hubieran resultado incluibles en dichas categorías en el momento del reconocimiento inicial. A estos efectos, se entenderá por circunstancias excepcionales aquellas que surgen de un evento aislado, ajeno al control de la entidad, que es inusual y altamente improbable que se repita en un futuro previsible.
+
+b) Los activos financieros valorados al valor razonable con cambios en resultados, excluidos los derivados, a la categoría de "préstamos y partidas a cobrar", siempre que los mismos hubieran resultado incluibles en la categoría de "préstamos y partidas a cobrar" en el momento del reconocimiento inicial y la entidad tenga la intención y la capacidad de conservarlos en cartera en un futuro previsible o hasta el vencimiento.
+
+Los activos financieros asignados en la categoría de "activos financieros disponibles para la venta" se podrán reclasificar a la categoría de "préstamos y partidas a cobrar", siempre que los mismos hubieran resultado incluibles en la categoría de «préstamos y partidas a cobrar» en el momento del reconocimiento inicial y la entidad tenga la intención y la capacidad de conservarlos en cartera en un futuro previsible o hasta el vencimiento.
+
+Si se reclasifican activos financieros valorados al valor razonable con cambios en resultados a las categorías de "activos financieros disponibles para la venta", "inversiones mantenidas hasta el vencimiento" o "préstamos y partidas a cobrar", o bien se hubiesen reclasificado activos financieros asignados a la categoría de "activos financieros disponibles para la venta" a la categoría de "préstamos y partidas a cobrar", su valor razonable en la fecha de la reclasificación, se convertirá en su nuevo coste o coste amortizado, no revirtiendo ninguna pérdida o ganancia que hubiese sido reconocida con carácter previo a la reclasificación en la cuenta de resultados o en el patrimonio neto. Las diferencias reconocidas a través del patrimonio neto se reconocerán en la cuenta de resultados atendiendo al vencimiento de los activos:
+
+1. Si el activo financiero cuenta con vencimiento fijo, a lo largo de la vida residual de la inversión hasta su vencimiento, conforme al tipo de interés efectivo y, anticipadamente, en caso de deterioro de valor.
+
+2. Si el activo financiero carece de vencimiento fijo, en el momento de su enajenación o disposición por otra vía y, anticipadamente, en caso de deterioro de valor.
+
+La fecha de la reclasificación será aquella en la que la entidad proceda a reasignar los activos previamente clasificados una vez cumplidos los requisitos exigidos.
+
+En los casos en los que se hubiese procedido a reclasificar activos financieros valorados al valor razonable con cambios en resultados a las categorías de "activos financieros disponibles para la venta", "inversiones mantenidas hasta el vencimiento" o "préstamos y partidas a cobrar", o bien se hubiesen reclasificado activos financieros asignados a la categoría de "activos financieros disponibles para la venta" a la categoría de "préstamos y partidas a cobrar", no podrán volverse a reclasificar los mismos a las categorías a las que inicialmente hubiesen sido asignados.
+
+No se podrá clasificar o tener clasificado ningún activo financiero en la categoría de inversiones mantenidas hasta el vencimiento si en el ejercicio a que se refieren las cuentas anuales o en los dos precedentes, se han vendido o reclasificado activos incluidos en esta categoría por un importe que no sea insignificante en relación con el importe total de la categoría de inversiones mantenidas hasta el vencimiento, salvo aquellas que correspondan a ventas o reclasificaciones:
 
 a) Muy próximas al vencimiento, o
 
@@ -1028,7 +1046,7 @@ Las reglas sobre el IVA soportado no deducible serán aplicables, en su caso, al
 
 Las reglas sobre el IVA repercutido serán aplicables, en su caso, al IGIC y a cualquier otro impuesto indirecto que grave las operaciones realizadas por la entidad y que sea recibido por cuenta de la Hacienda Pública. Sin embargo, se contabilizarán como gastos, aquellos tributos que para determinar la cuota a ingresar tomen como referencia la cifra de negocios u otra magnitud relacionada, pero cuyo hecho imponible no sea la operación por la que se transmiten los activos o se prestan los servicios.
 
-12º Impuestos sobre beneficios.
+12ª Impuestos sobre beneficios.
 
 Los impuestos sobre el beneficio a los que se refiere esta norma son aquellos impuestos directos, ya sean nacionales o extranjeros, que se liquidan a partir de un resultado empresarial calculado de acuerdo con las normas fiscales que sean de aplicación.
 
@@ -1078,11 +1096,9 @@ a) El reconocimiento inicial de un fondo de comercio. Sin embargo, los pasivos p
 
 b) El reconocimiento inicial de un activo o pasivo en una transacción que no es una combinación de negocios y además no afectó ni al resultado contable ni a la base imponible del impuesto.
 
-c) Inversiones en entidades dependientes, asociadas y negocios conjuntos, si la inversora puede controlar el momento de la reversión de la diferencia y además es probable que tal diferencia no revierta en un futuro previsible.
-
 2.3. Activos por impuesto diferido.
 
-De acuerdo con el principio de prudencia sólo se reconocerán activos por impuesto diferido en la medida en que resulte probable que la entidad disponga de ganancias fiscales futuras que permitan la aplicación de estos activos.
+De acuerdo con el principio de prudencia sólo se reconocerán activos por impuesto diferido en la medida en que resulte probable que la empresa disponga de ganancias fiscales futuras que permitan la aplicación de estos activos.
 
 Siempre que se cumpla la condición anterior, se reconocerá un activo por impuesto diferido en los supuestos siguientes:
 
@@ -1092,13 +1108,9 @@ b) Por el derecho a compensar en ejercicios posteriores las pérdidas fiscales;
 
 c) Por las deducciones y otras ventajas fiscales no utilizadas, que queden pendientes de aplicar fiscalmente.
 
-Sin perjuicio de lo anterior, se tendrán en cuenta las siguientes excepciones:
+Sin perjuicio de lo anterior, no se reconocerá un activo por impuesto diferido cuando la diferencia temporaria deducible haya surgido por el reconocimiento inicial de un activo o pasivo en una transacción que no sea una combinación de negocios y además no afectó ni al resultado contable ni a la base imponible del impuesto.
 
-a) Cuando la diferencia temporaria deducible haya surgido por el reconocimiento inicial de un activo o pasivo en una transacción que no sea una combinación de negocios y además no afectó ni al resultado contable ni a la base imponible del impuesto, no se reconocerá un activo por impuesto diferido.
-
-b) Cuando la diferencia temporaria deducible haya surgido por inversiones en entidades dependientes, asociadas o negocios conjuntos, sólo se reconocerá un activo por impuesto diferido si se espera que dicha diferencia revierta en un futuro previsible y sea probable que la entidad disponga de ganancias fiscales futuras en cuantía suficiente.
-
-En la fecha de cierre de cada ejercicio, la entidad reconsiderará los activos por impuesto diferido reconocidos y aquéllos que no haya reconocido anteriormente. En ese momento, la entidad dará de baja un activo reconocido anteriormente si ya no resulta probable su recuperación, o registrará cualquier activo de esta naturaleza no reconocido anteriormente, siempre que resulte probable que la entidad disponga de ganancias fiscales futuras en cuantía suficiente que permitan su aplicación.
+En la fecha de cierre de cada ejercicio, la empresa reconsiderará los activos por impuesto diferido reconocidos y aquéllos que no haya reconocido anteriormente. En ese momento, la empresa dará de baja un activo reconocido anteriormente si ya no resulta probable su recuperación, o registrará cualquier activo de esta naturaleza no reconocido anteriormente, siempre que resulte probable que la empresa disponga de ganancias fiscales futuras en cuantía suficiente que permitan su aplicación.
 
 3. Valoración de los activos y pasivos por impuesto corriente y diferido.
 
@@ -1114,25 +1126,31 @@ Los activos y pasivos por impuesto diferido no deben ser descontados.
 
 El gasto (ingreso) por impuesto sobre beneficios del ejercicio comprenderá la parte relativa al gasto (ingreso) por el impuesto corriente y la parte correspondiente al gasto (ingreso) por el impuesto diferido.
 
-El gasto o el ingreso por impuesto corriente se corresponderá con la cancelación de las retenciones y pagos a cuenta así como con el reconocimiento de los pasivos y activos por impuesto corriente. El gasto o el ingreso por impuesto diferido se corresponderá con el reconocimiento y la cancelación de los pasivos y activos por impuesto diferido, así como, en su caso, por el reconocimiento e imputación a la cuenta de pérdidas y ganancias del ingreso directamente imputado al patrimonio neto que pueda resultar de la contabilización de aquellas deducciones y otras ventajas fiscales que tengan la naturaleza económica de subvención.
+El gasto o el ingreso por impuesto corriente se corresponderá con la cancelación de las retenciones y pagos a cuenta así como con el reconocimiento de los pasivos y activos por impuesto corriente.
+
+El gasto o el ingreso por impuesto diferido se corresponderá con el reconocimiento y la cancelación de los pasivos y activos por impuesto diferido, así como, en su caso, por el reconocimiento e imputación a la cuenta de pérdidas y ganancias del ingreso directamente imputado al patrimonio neto que pueda resultar de la contabilización de aquellas deducciones y otras ventajas fiscales que tengan la naturaleza económica de subvención.
 
 Tanto el gasto o el ingreso por impuesto corriente como diferido, se inscribirán en la cuenta de pérdidas y ganancias. No obstante, en los siguientes casos los activos y pasivos por impuesto corriente y diferido tendrán como contrapartida las que a continuación se indican:
 
 a) Si se relacionasen con una transacción o suceso que se hubiese reconocido directamente en una partida del patrimonio neto, se reconocerán con cargo o abono a dicha partida.
 
-b) Si hubiesen surgido a causa de una combinación de negocios, se reconocerán con cargo o abono al fondo de comercio o como ajuste al exceso que suponga la participación de la entidad adquirente en el valor razonable neto de los activos y pasivos identificables de la entidad adquirida, sobre el coste de la combinación.
+b) Si hubiesen surgido a causa de una combinación de negocios, se reconocerán como los demás elementos patrimoniales del negocio adquirido, salvo que constituyan activos o pasivos de la adquirente, en cuyo caso, su reconocimiento o baja no formará parte de la combinación de negocios. El gasto por impuesto corriente que se ponga de manifiesto como consecuencia de la anulación de la participación previa en la sociedad adquirida, se inscribirá en la cuenta de pérdidas y ganancias.
 
-Cuando la modificación de la legislación tributaria o la evolución de la situación económica de la entidad hayan dado lugar a una variación en el importe de los pasivos y activos por impuesto diferido, dichos ajustes constituirán un ingreso o gasto, según corresponda, por impuesto diferido, en la cuenta de pérdidas y ganancias, excepto en la medida en que se relacionen con partidas que por aplicación de las normas de este Plan debieron ser previamente cargadas o abonadas directamente a patrimonio neto, en cuyo caso se imputarán directamente en éste.
+Cuando la modificación de la legislación tributaria o la evolución de la situación económica de la empresa hayan dado lugar a una variación en el importe de los pasivos y activos por impuesto diferido, dichos ajustes constituirán un ingreso o gasto, según corresponda, por impuesto diferido, en la cuenta de pérdidas y ganancias, excepto en la medida en que se relacionen con partidas que por aplicación de las normas de este Plan General de Contabilidad debieron ser previamente cargadas o abonadas directamente a patrimonio neto, en cuyo caso se imputarán directamente en éste.
 
-En el caso de combinaciones de negocios, cuando en la contabilización inicial de la combinación no se reconocieron separadamente activos por impuesto diferido de la entidad adquirida, por no cumplir los criterios de reconocimiento, y posteriormente proceda reconocer dichos activos, además de los ajustes indicados en el párrafo anterior, se deberá reducir, en su caso, el importe en libros del fondo de comercio hasta el importe que hubiera sido contabilizado de haberse reconocido en la fecha de adquisición el mencionado activo por impuesto diferido. La reducción del importe en libros del fondo de comercio lucirá como un gasto en la cuenta de pérdidas y ganancias.
+En el caso de combinaciones de negocios, cuando en la contabilización inicial de la combinación no se reconocieron separadamente activos por impuesto diferido de la empresa adquirida, por no cumplir los criterios de reconocimiento, y posteriormente proceda reconocer dichos activos, se actuará de la forma siguiente:
 
-En el caso particular de una entidad en la que todas las diferencias temporarias al inicio y cierre del ejercicio hayan sido originadas por diferencias temporales entre la base imponible y el resultado contable antes de impuestos, el gasto ingreso por impuesto diferido se podrá valorar directamente mediante la suma algebraica de las cantidades siguientes, cada una con el signo que corresponda:
+a) Los activos por impuesto diferido que se reconozcan dentro del periodo de valoración al que hace referencia el apartado 2.6 de la norma de registro y valoración sobre combinaciones de negocios, y que procedan de nueva información sobre hechos y circunstancias que existían en la fecha de adquisición, reducirán, en su caso, el importe en libros del fondo de comercio relacionado con esa adquisición. Si el importe en libros de ese fondo de comercio es nulo, cualquier activo por impuesto diferido se deberá reconocer como un ajuste a la diferencia negativa.
 
-a) Los importes que resulten de aplicar el tipo de gravamen apropiado al importe de cada una de las diferencias indicadas, reconocidas o aplicadas en el ejercicio, y a las bases imponibles negativas a compensar en ejercicios posteriores, reconocidas o aplicadas en el ejercicio;
+b) Los activos por impuesto diferido que se reconozcan después del citado periodo de valoración, o dentro del periodo de valoración pero que traigan causa de hechos o circunstancias que no existían en la fecha de adquisición, no darán lugar a ajustes en el importe en libros del fondo de comercio o de la diferencia negativa, debiendo reconocerse en resultados, o si la norma lo requiere, directamente en el patrimonio neto.
 
-b) Los importes de las deducciones y otras ventajas fiscales pendientes de aplicar en ejercicios posteriores, reconocidas o aplicadas en el ejercicio, así como, en su caso, por el reconocimiento e imputación a la cuenta de pérdidas y ganancias del ingreso directamente imputado al patrimonio neto que pueda resultar de la contabilización de aquellas deducciones y otras ventajas fiscales en la cuota del impuesto que tengan una naturaleza económica asimilable a las subvenciones;
+En el caso particular de una empresa en la que todas las diferencias temporarias al inicio y cierre del ejercicio hayan sido originadas por diferencias temporales entre la base imponible y el resultado contable antes de impuestos, el gasto (ingreso) por impuesto diferido se podrá valorar directamente mediante la suma algebraica de las cantidades siguientes, cada una con el signo que corresponda:
 
-c) Los importes derivados de cualquier ajuste valorativo de los pasivos o activos por impuesto diferido, normalmente por cambios en los tipos de gravamen o de las circunstancias que afectan a la eliminación o reconocimiento posteriores de tales pasivos o activos.
+a) los importes que resulten de aplicar el tipo de gravamen apropiado al importe de cada una de las diferencias indicadas, reconocidas o aplicadas en el ejercicio, y a las bases imponibles negativas a compensar en ejercicios posteriores, reconocidas o aplicadas en el ejercicio;
+
+b) los importes de las deducciones y otras ventajas fiscales pendientes de aplicar en ejercicios posteriores, reconocidas o aplicadas en el ejercicio, así como, en su caso, por el reconocimiento e imputación a la cuenta de pérdidas y ganancias del ingreso directamente imputado al patrimonio neto que pueda resultar de la contabilización de aquellas deducciones y otras ventajas fiscales en la cuota del impuesto que tengan una naturaleza económica asimilable a las subvenciones;
+
+c) los importes derivados de cualquier ajuste valorativo de los pasivos o activos por impuesto diferido, normalmente por cambios en los tipos de gravamen o de las circunstancias que afectan a la eliminación o reconocimiento posteriores de tales pasivos o activos.
 
 También en este caso particular, el gasto (ingreso) total por el impuesto sobre beneficios comprenderá la parte relativa al impuesto corriente y la parte correspondiente al impuesto diferido calculado de acuerdo con lo expresado en este caso.
 
@@ -1304,145 +1322,261 @@ No obstante, en el caso de entidades pertenecientes al sector público que recib
 
 1. Ámbito y normas de aplicación.
 
-La presente norma regula la forma en que las entidades deben contabilizar las combinaciones de negocios en las que participen, entendidas como aquellas operaciones en las que una entidad adquiere el control de uno o varios negocios.
+La presente norma regula la forma en que las empresas deben contabilizar las combinaciones de negocios en las que participen, entendidas como aquellas operaciones en las que una empresa adquiere el control de uno o varios negocios.
 
-A efectos de esta norma, un negocio es un conjunto de elementos patrimoniales constitutivos de una unidad económica dirigida y gestionada con el propósito de obtener un rendimiento, menores costes u otros beneficios económicos a sus propietarios o partícipes; y control es el poder de dirigir la política financiera y de explotación de un negocio con la finalidad de obtener beneficios económicos de sus actividades.
+A efectos de esta norma, un negocio es un conjunto integrado de actividades y activos susceptibles de ser dirigidos y gestionados con el propósito de proporcionar un rendimiento, menores costes u otros beneficios económicos directamente a sus propietarios o partícipes, y control es el poder de dirigir las políticas financiera y de explotación de un negocio con la finalidad de obtener beneficios económicos de sus actividades.
+
+Para cada transacción la empresa deberá determinar si se trata de una combinación de negocios conforme a la definición del párrafo anterior; en particular, si el conjunto de elementos patrimoniales adquiridos constituye un negocio. En caso contrario, no será de aplicación el método de adquisición salvo en aquello en que no se oponga a lo previsto en la correspondiente norma de registro y valoración, debiendo contabilizarse la transacción como una adquisición de activos y, en su caso, asunción de pasivos, de acuerdo con lo que a tal efecto disponga la citada norma. En este supuesto, el coste de la transacción deberá distribuirse entre los activos identificables adquiridos y los pasivos asumidos, sobre la base de sus valores razonables relativos. Estas operaciones no darán lugar a un fondo de comercio ni a una diferencia negativa, en los términos regulados en el apartado 2.5 de esta norma.
 
 Las combinaciones de negocios, en función de la forma jurídica empleada, pueden originarse como consecuencia de:
 
-a) La fusión o escisión de varias entidades.
+a) La fusión o escisión de varias empresas.
 
-b) La adquisición de todos los elementos patrimoniales de una entidad o de una parte que constituya uno o más negocios.
+b) La adquisición de todos los elementos patrimoniales de una empresa o de una parte que constituya uno o más negocios.
 
-c) La adquisición de las acciones o participaciones en el capital de una entidad, incluyendo las recibidas en virtud de una aportación no dineraria en la constitución de una sociedad o posterior ampliación de capital.
+c) La adquisición de las acciones o participaciones en el capital de una empresa, incluyendo las recibidas en virtud de una aportación no dineraria en la constitución de una sociedad o posterior ampliación de capital.
 
-d) Otras operaciones o sucesos cuyo resultado es que una entidad, que posee o no previamente participación en el capital de una sociedad, adquiere el control sobre esta última sin realizar una inversión.
+d) Otras operaciones o sucesos cuyo resultado es que una empresa, que posee o no previamente participación en el capital de una sociedad, adquiere el control sobre esta última sin realizar una inversión.
 
-En las combinaciones de negocios a que se refieren las letras a) y b) anteriores, deberá aplicarse el método de adquisición descrito en el apartado siguiente de esta norma. Por su parte, las operaciones de fusión, escisión y aportación no dineraria de un negocio, entre entidades del grupo en los términos señalados en la norma relativa a operaciones entre entidades del grupo, se registrarán conforme a lo establecido en ella.
+En las combinaciones de negocios a que se refieren las letras a) y b) anteriores, deberá aplicarse el método de adquisición descrito en el apartado siguiente de esta norma.
 
-En las combinaciones de negocios a que se refieren las letras c) y d) anteriores, la entidad inversora, en sus cuentas anuales individuales, valorará la inversión en el patrimonio de otras entidades del grupo conforme a lo previsto para dichas entidades en el apartado 2.5 de la norma relativa a instrumentos financieros. En las cuentas anuales consolidadas, estas combinaciones de negocios se contabilizarán de acuerdo con lo que dispongan las normas de consolidación aplicables.
+En las combinaciones de negocios a que se refieren las letras c) y d) anteriores, la empresa inversora, en sus cuentas anuales individuales, valorará la inversión en el patrimonio de otras empresas del grupo conforme a lo previsto para dichas empresas en el apartado 2.5 de la norma relativa a instrumentos financieros. En las cuentas anuales consolidadas, estas combinaciones de negocios se contabilizarán de acuerdo con lo que dispongan las normas de consolidación aplicables.
 
-Las entidades que se extingan en la combinación de negocios, deberán registrar el traspaso de los activos y pasivos, cancelando las correspondientes partidas de activo y pasivo así como las partidas de patrimonio neto.
+Salvo en los supuestos de adquisición inversa, definida en el último párrafo del apartado 2.1, y las operaciones entre empresas del grupo, las empresas adquiridas que se extingan o escindan en una combinación de negocios, deberán registrar el traspaso de los activos y pasivos integrantes del negocio transmitido cancelando las correspondientes partidas del balance y reconociendo el resultado de la operación en la cuenta de pérdidas y ganancias, por diferencia entre el valor en libros del negocio transmitido y el valor razonable de la contraprestación recibida a cambio, neta de los costes de transacción. En los supuestos de adquisición inversa, la citada diferencia se contabilizará como un ingreso o gasto en la cuenta de pérdidas y ganancias de la empresa absorbente o beneficiaria adquirida, sin perjuicio de su posterior eliminación de acuerdo con lo dispuesto en el apartado 2.2.
 
 2. Método de adquisición.
 
-El método de adquisición supone que la entidad adquirente contabilizará, en la fecha de adquisición, los activos adquiridos y los pasivos asumidos en una combinación de negocios, así como, en su caso, la diferencia entre el valor de dichos activos y pasivos y el coste de la combinación de negocios de acuerdo con lo indicado en los siguientes apartados. A partir de dicha fecha se registrarán los ingresos y gastos, así como los flujos de tesorería que correspondan.
+El método de adquisición supone que la empresa adquirente contabilizará, en la fecha de adquisición, los activos identificables adquiridos y los pasivos asumidos en una combinación de negocios, así como, en su caso, el correspondiente fondo de comercio o diferencia negativa. A partir de dicha fecha se registrarán los ingresos y gastos, así como los flujos de tesorería que correspondan de acuerdo con lo dispuesto en el apartado 2.2 de esta norma.
 
-En consecuencia, la aplicación del método de adquisición requiere:
+En particular, la aplicación del método de adquisición requiere:
 
-a) Identificar la entidad adquirente;
+a) Identificar la empresa adquirente;
 
 b) Determinar la fecha de adquisición;
 
 c) Cuantificar el coste de la combinación de negocios;
 
-d) Valorar los activos identificables adquiridos y los pasivos asumidos; y
+d) Reconocer y valorar los activos identificables adquiridos y los pasivos asumidos; y
 
 e) Determinar el importe del fondo de comercio o de la diferencia negativa.
 
-La valoración de los activos y pasivos de la entidad adquirente no se verá afectada por la combinación ni se reconocerán activos o pasivos como consecuencia de la misma.
+La valoración de los activos y pasivos de la empresa adquirente no se verá afectada por la combinación ni se reconocerán activos o pasivos como consecuencia de la misma.
 
-2.1. Entidad adquirente.
+2.1 Empresa adquirente.
 
-Entidad adquirente es aquella que obtiene el control sobre el negocio o negocios adquiridos. A los efectos de la presente norma, se considerará también entidad adquirente a la parte de una entidad, constitutiva de un negocio, que como consecuencia de la combinación se escinde de la entidad en la que se integraba y obtiene el control sobre otro u otros negocios.
+Empresa adquirente es aquella que obtiene el control sobre el negocio o negocios adquiridos. A los efectos de la presente norma, se considerará también empresa adquirente a la parte de una empresa, que como consecuencia de la combinación se escinde de la entidad en la que se integraba y obtiene el control sobre otro u otros negocios.
 
-Cuando se constituya una nueva entidad, se identificará como entidad adquirente a una de las entidades o negocios que participen en la combinación y que existían con anterioridad a ésta.
+Cuando, como consecuencia de una operación de fusión, escisión o aportación no dineraria, se constituya una nueva empresa, se identificará como empresa adquirente a una de las empresas que participen en la combinación y que existían con anterioridad a ésta.
 
-Para identificar la entidad adquirente se atenderá a la realidad económica y no sólo a la forma jurídica de la combinación de negocios. Como regla general, se considerará como entidad adquirente la que entregue una contraprestación a cambio del negocio o negocios adquiridos. No obstante, para determinar qué entidad es la que obtiene realmente el control también se tomarán en consideración, entre otros, los siguientes criterios:
+Para identificar la empresa que adquiere el control se atenderá a la realidad económica y no sólo a la forma jurídica de la combinación de negocios.
 
-a) Si el valor razonable de una de las entidades o negocios es significativamente mayor que el del otro u otros que intervienen en la operación, en cuyo caso la entidad adquirente normalmente será la de mayor valor razonable.
+Si bien, como regla general, se considerará como empresa adquirente la que entregue una contraprestación a cambio del negocio o negocios adquiridos, para determinar qué empresa es la que obtiene realmente el control también se tomarán en consideración, entre otros, los siguientes criterios:
 
-b) Si la combinación diera lugar a que la dirección de una de las entidades que se combinan tenga la facultad de designar el equipo de dirección del negocio combinado, en cuyo caso normalmente la entidad que designe el equipo de gestión será la adquirente.
+a) Si la combinación diera lugar a que los socios o propietarios de una de las empresas o negocios que se combinan retengan o reciban la mayoría de los derechos de voto en la entidad combinada o tengan la facultad de elegir, nombrar o cesar a la mayoría de los miembros del órgano de administración de la entidad combinada, o bien representen a la mayoría de las participaciones minoritarias con voto en la entidad combinada si actúan de forma organizada sin que otro grupo de propietarios tenga una participación de voto significativa, la adquirente será generalmente dicha empresa.
 
-c) Si en la combinación de negocios participan más de dos entidades o negocios, se considerarán otros factores, tales como cuál es la entidad que inició la combinación o si el volumen de activos, ingresos o resultados de una de las entidades o negocios que se combinan es significativamente mayor que el de los otros.
+b) Si la combinación diera lugar a que los socios o propietarios de una de las empresas o negocios que se combinan tenga la facultad de designar el equipo de dirección del negocio combinado, dicha empresa será normalmente la adquirente.
 
-Por tanto, puede suceder que, como consecuencia de la aplicación de los criterios anteriores, el negocio adquirido sea el de la sociedad absorbente, de la beneficiaria o de la que realiza la ampliación de capital.
+c) Si el valor razonable de una de las empresas o negocios es significativamente mayor que el del otro u otros que intervienen en la operación, la empresa adquirente normalmente será la de mayor valor razonable.
 
-2.2. Fecha de adquisición.
+d) La sociedad adquirente suele ser aquella que paga una prima sobre el valor razonable de los instrumentos de patrimonio de las restantes sociedades que se combinan.
 
-La fecha de adquisición es aquélla en la que la entidad adquirente adquiere el control del negocio o negocios adquiridos.
+Si en la combinación de negocios participan más de dos empresas o negocios, se considerarán otros factores, tales como cuál es la empresa que inició la combinación o si el volumen de activos, ingresos o resultados de una de las empresas o negocios que se combinan es significativamente mayor que el de los otros.
 
-2.3. Coste de la combinación de negocios.
+Para formarse un juicio sobre cuál es la empresa adquirente, se considerará de forma preferente el criterio incluido en la letra a), o, en su defecto, el recogido en la letra b).
 
-El coste de una combinación de negocios vendrá determinado por la suma de:
+Puede suceder que, como consecuencia de la aplicación de los criterios anteriores, el negocio adquirido sea el de la sociedad absorbente, de la beneficiaria o de la que realiza la ampliación de capital. A los efectos de esta norma, estas operaciones se denominan adquisiciones inversas, debiéndose tener en cuenta los criterios incluidos en las Normas para la Formulación de las Cuentas Anuales Consolidadas que desarrollan el Código de Comercio, con las necesarias adaptaciones por razón del sujeto que informa.
 
-a) Los valores razonables, en la fecha de adquisición, de los activos entregados, de los pasivos incurridos o asumidos y de los instrumentos de patrimonio emitidos a cambio de los negocios adquiridos.
+2.2 Fecha de adquisición.
 
-b) El valor razonable de cualquier contraprestación adicional que dependa de eventos futuros o del cumplimiento de ciertas condiciones, siempre que tal contraprestación se considere probable y su valor razonable pueda ser estimado de forma fiable.
+La fecha de adquisición es aquella en la que la empresa adquirente adquiere el control del negocio o negocios adquiridos.
 
-c) Cualquier coste directamente atribuible a la combinación, como los honorarios abonados a asesores legales u otros profesionales que intervengan en la operación.
+En los supuestos de fusión o escisión, con carácter general, dicha fecha será la de celebración de la Junta de accionistas u órgano equivalente de la empresa adquirida en que se apruebe la operación, siempre que el acuerdo sobre el proyecto de fusión o escisión no contenga un pronunciamiento expreso sobre la asunción de control del negocio por la adquirente en un momento posterior.
 
-En ningún caso formarán parte del coste de la combinación de negocios, los gastos relacionados con la emisión de los instrumentos de patrimonio o de los pasivos financieros entregados a cambio de los elementos patrimoniales adquiridos, que se contabilizarán de acuerdo con lo dispuesto en la norma relativa a instrumentos financieros.
+Sin perjuicio de lo anterior, las obligaciones registrales previstas en el artículo 28.2 del Código de Comercio se mantendrán en la sociedad adquirida o escindida hasta la fecha de inscripción de la fusión o escisión en el Registro Mercantil. En esta fecha, fecha de inscripción, la sociedad adquirente, reconocerá los efectos retroactivos de la fusión o escisión a partir de la fecha de adquisición, circunstancia que a su vez motivará el correspondiente ajuste en el libro diario de la sociedad adquirida o escindida para dar de baja las operaciones realizadas desde la fecha de adquisición. Una vez inscrita la fusión o escisión la adquirente reconocerá los elementos patrimoniales del negocio adquirido, aplicando los criterios de reconocimiento y valoración recogidos en el apartado 2.4 de esta norma.
 
-El valor razonable de la contraprestación adicional que dependa de eventos futuros o del cumplimiento de ciertas condiciones será ajustado cuando, como consecuencia de circunstancias sobrevenidas, proceda modificar las estimaciones de los importes, se altere la probabilidad de ocurrencia de la contraprestación o cuando se pueda realizar una estimación fiable del valor razonable, no habiendo sido posible realizar ésta con anterioridad.
+En las adquisiciones inversas, los efectos contables de la fusión o escisión deben mostrar el fondo económico de la operación. Por lo tanto, en la fecha de inscripción, los ingresos y gastos del negocio adquirido, es decir, la adquirente legal, devengados hasta la fecha de adquisición, deberán contabilizarse contra la cuenta prima de emisión o asunción, y los ingresos y gastos de la empresa adquirente lucirán en las cuentas anuales de la sociedad absorbente o beneficiaria de la escisión desde el inicio del ejercicio económico.
 
-Con carácter general y salvo que exista una valoración más fiable, el valor razonable de los instrumentos de patrimonio o de los pasivos financieros emitidos que se entreguen como contraprestación en una combinación de negocios será su precio cotizado, si dichos instrumentos están admitidos a cotización en un mercado activo.
+En cualquier caso, la eficacia de la fusión o escisión quedará supeditada a la inscripción de la nueva sociedad o, en su caso, a la inscripción de la absorción o escisión, y por tanto la obligación de formular cuentas anuales subsiste hasta la fecha en que las sociedades que participan en la fusión o escisión se extingan, con el contenido que de ellas proceda de acuerdo con lo expuesto anteriormente y las precisiones que se realizan a continuación. En particular, serán de aplicación las siguientes reglas:
 
-2.4. Reconocimiento y valoración de los activos identificables adquiridos y los pasivos asumidos.
+a) Si la fecha de cierre del ejercicio social de las sociedades que participan en la operación se situase en el periodo que media entre la fecha de adquisición del control y la inscripción registral de la nueva sociedad o, en su caso, de la absorción o escisión, sus cuentas anuales recogerán los efectos contables de la fusión o escisión desde la fecha de adquisición, siempre que la inscripción se haya producido antes de que finalice el plazo previsto en la legislación mercantil para formular cuentas anuales.
 
-En la fecha de adquisición, los activos identificables adquiridos y los pasivos asumidos se registrarán, con carácter general, por su valor razonable siempre y cuando dicho valor razonable pueda ser medido con suficiente fiabilidad.
+En estos casos, la sociedad adquirente recogerá en sus cuentas anuales los ingresos y gastos y los flujos de efectivo correspondientes a la sociedad adquirida desde la fecha de adquisición, así como sus activos y pasivos identificables de acuerdo con el apartado 2.4 de esta norma. La sociedad adquirida recogerá en sus cuentas anuales los ingresos y gastos y los flujos de efectivo anteriores a la fecha de adquisición y dará de baja del balance, con efectos contables en dicha fecha, la totalidad de sus activos y pasivos.
 
-No obstante lo anterior, en la valoración y registro de los activos adquiridos y pasivos asumidos que a continuación se relacionan se seguirán las reglas indicadas:
+En el supuesto general en el que la fusión o escisión se inicie y complete en el mismo ejercicio económico, serán de aplicación estos mismos criterios.
 
-1. Los activos que se clasifiquen como mantenidos para la venta de acuerdo con lo establecido al respecto en la norma correspondiente a estos activos, se reconocerán por su valor razonable menos los costes de venta.
+b) Por el contrario, si la fecha de inscripción es posterior al plazo previsto en la legislación mercantil para formular cuentas anuales, éstas no recogerán los efectos de la retrocesión a que hace referencia el párrafo tercero de este apartado. En consecuencia, la sociedad adquirente no mostrará en estas cuentas anuales los activos, pasivos, ingresos, gastos y flujos de efectivo de la adquirida, sin perjuicio de la información que sobre el proceso de fusión o escisión debe incluirse en la memoria de las sociedades que intervienen en la operación.
 
-2. Los activos y pasivos por impuesto diferido se valorarán por la cantidad que se espere recuperar o pagar de la autoridad fiscal, según los tipos de gravamen que vayan a ser de aplicación en los ejercicios en los que se esperen realizar los activos o pagar los pasivos, a partir de la normativa en vigor o que se haya aprobado y esté pendiente de publicación, en la fecha de adquisición. Los activos y pasivos por impuesto diferido no deben descontarse, de acuerdo con lo dispuesto en la norma relativa a impuestos sobre beneficios.
+Una vez inscrita la fusión o escisión la sociedad adquirente deberá mostrar los efectos contables de la retrocesión, circunstancia que motivará el correspondiente ajuste en la información comparativa del ejercicio anterior.
 
-3. Si en la fecha de adquisición, el negocio adquirido mantiene un contrato de arrendamiento operativo en condiciones favorables o desfavorables respecto a las condiciones de mercado, la entidad adquirente ha de reconocer, respectivamente, un inmovilizado intangible o una provisión.
+c) En las adquisiciones inversas los criterios incluidos en las letras anteriores se aplicarán de la siguiente forma:
 
-4. Los activos y pasivos asociados a planes de pensiones de prestación definida se contabilizarán, en la fecha de adquisición, por el valor actual de las retribuciones comprometidas menos el valor razonable de los activos afectos a los compromisos con los que se liquidarán las obligaciones.
+c1) En el supuesto descrito en la letra a), las cuentas anuales de la sociedad adquirente legal no incluirán los ingresos y gastos devengados hasta la fecha de adquisición, sin perjuicio de la obligación de informar en la memoria sobre su importe y naturaleza. La sociedad adquirente, absorbida legal, no formulará cuentas anuales en la medida que sus activos y pasivos, así como sus ingresos, gastos y flujos de efectivo desde el inicio del ejercicio económico deberán lucir en las cuentas anuales de la sociedad adquirida, absorbente legal.
 
-El valor actual de las obligaciones incluirá, en todo caso, los costes de los servicios pasados que procedan de cambios en las prestaciones o de la introducción de un plan, antes de la fecha de adquisición.
+c2) En el supuesto descrito en la letra b), las sociedades que intervienen en la operación no recogerán los efectos de la retrocesión descritos en el párrafo cuarto de este apartado. Una vez inscrita la fusión o escisión, la sociedad absorbente legal mostrará los citados efectos de acuerdo con lo indicado en la letra c.1), circunstancia que motivará el correspondiente ajuste en la información comparativa del ejercicio anterior
 
-5. En el caso de que el registro de un inmovilizado intangible identificado cuya valoración no pueda ser calculada por referencia a un mercado activo, implicara la contabilización de un ingreso en la cuenta de pérdidas y ganancias, de acuerdo con lo previsto en el apartado 2.5 de la presente norma, dicho activo se valorará deduciendo del importe de su valor razonable, la diferencia negativa inicialmente calculada. Si el importe de dicha diferencia negativa fuera superior al valor total del inmovilizado intangible, dicho activo no deberá ser registrado.
+Estas reglas también serán aplicables para el caso de la cesión global de activos y pasivos, con las necesarias adaptaciones.
 
-Los activos y pasivos reconocidos por la entidad adquirente serán los que se reciban y asuman como consecuencia de la operación en que consista la combinación y cumplan la definición de activos y pasivos establecida en el Marco Conceptual de la Contabilidad, con independencia de que algunos de estos activos y pasivos no hubiesen sido previamente reconocidos en las cuentas anuales de la entidad adquirida o a la que perteneciese el negocio adquirido por no cumplir los criterios de reconocimiento en dichas cuentas anuales. En el caso de que el negocio adquirido incorpore obligaciones calificadas como contingencias, la entidad adquirente reconocerá como pasivo el valor razonable de asumir tales obligaciones, siempre y cuando dicho valor razonable pueda ser medido con suficiente fiabilidad.
+2.3 Coste de la combinación de negocios.
 
-2.5. Determinación del importe del fondo de comercio o de la diferencia negativa.
+El coste de una combinación de negocios para la empresa adquirente vendrá determinado por la suma de:
 
-El exceso, en la fecha de adquisición, del coste de la combinación de negocios sobre el correspondiente valor de los activos identificables adquiridos menos el de los pasivos asumidos en los términos recogidos en el apartado anterior, se reconocerá como un fondo de comercio. Al fondo de comercio le serán de aplicación los criterios contenidos en la norma relativa a normas particulares sobre el inmovilizado intangible.
+a) Los valores razonables, en la fecha de adquisición, de los activos entregados, los pasivos incurridos o asumidos y los instrumentos de patrimonio emitidos por la adquirente. No obstante, cuando el valor razonable del negocio adquirido sea más fiable, se utilizará éste para estimar el valor razonable de la contrapartida entregada.
 
-En el supuesto excepcional de que el valor de los activos identificables adquiridos menos el de los pasivos asumidos en los términos recogidos en el apartado anterior, fuese superior al coste de la combinación de negocios, el exceso se contabilizará en la cuenta de pérdidas y ganancias como un ingreso.
+b) El valor razonable de cualquier contraprestación contingente que dependa de eventos futuros o del cumplimiento de ciertas condiciones, que deberá registrarse como un activo, un pasivo o como patrimonio neto de acuerdo con su naturaleza, salvo que la contraprestación diera lugar al reconocimiento de un activo contingente que motivase el registro de un ingreso en la cuenta de pérdidas y ganancias, en cuyo caso, el tratamiento contable del citado activo deberá ajustarse a lo previsto en el apartado 2.4.c.4) de la presente norma.
 
-2.6. Contabilidad provisional.
+En ningún caso formarán parte del coste de la combinación, los gastos relacionados con la emisión de los instrumentos de patrimonio o de los pasivos financieros entregados a cambio de los elementos patrimoniales adquiridos, que se contabilizarán de acuerdo con lo dispuesto en la norma relativa a instrumentos financieros.
+
+Los restantes honorarios abonados a asesores legales, u otros profesionales que intervengan en la operación se contabilizarán como un gasto en la cuenta de pérdidas y ganancias. En ningún caso se incluirán en el coste de la combinación los gastos generados internamente por estos conceptos, ni tampoco los incurridos por la entidad adquirida relacionados con la combinación.
+
+Con carácter general y salvo que exista una valoración más fiable, el valor razonable de los instrumentos de patrimonio o de los pasivos financieros emitidos que se entreguen como contraprestación en una combinación de negocios será su precio cotizado, si dichos instrumentos están admitidos a cotización en un mercado activo. Si no lo están, en el caso particular de la fusión y escisión, dicho importe será el valor atribuido a las acciones o participaciones de la empresa adquirente a los efectos de determinar la correspondiente ecuación de canje.
+
+Cuando el valor contable de los activos entregados por la adquirente como contraprestación no coincida con su valor razonable, en su caso, se reconocerá en la cuenta de pérdidas y ganancias el correspondiente resultado de acuerdo con lo establecido al respecto en la norma sobre permutas del inmovilizado material.
+
+2.4 Reconocimiento y valoración de los activos identificables adquiridos y los pasivos asumidos.
+
+En la fecha de adquisición, los activos identificables adquiridos y los pasivos asumidos se reconocerán y valorarán aplicando los siguientes criterios:
+
+a) Criterio de reconocimiento.
+
+1. Los activos identificables adquiridos y los pasivos asumidos deben cumplir la definición de activo o pasivo incluida en el Marco Conceptual de la Contabilidad, y ser parte de lo que la adquirente y adquirida intercambian en la combinación de negocios, con independencia de que algunos de estos activos y pasivos no hubiesen sido previamente reconocidos en las cuentas anuales de la empresa adquirida o a la que perteneciese el negocio adquirido por no cumplir los criterios de reconocimiento en dichas cuentas anuales.
+
+En particular, si en la fecha de adquisición, el negocio adquirido mantiene un contrato de arrendamiento operativo, del que es arrendatario en condiciones favorables o desfavorables respecto a las condiciones de mercado, la empresa adquirente ha de reconocer, respectivamente, un inmovilizado intangible o una provisión.
+
+2. En la fecha de adquisición, la adquirente clasificará o designará los activos identificables adquiridos y pasivos asumidos de acuerdo con lo dispuesto en las restantes normas de registro y valoración, considerando los acuerdos contractuales, condiciones económicas, criterios contables y de explotación y otras condiciones pertinentes que existan en dicha fecha.
+
+Sin embargo, por excepción a lo previsto en el párrafo anterior, la clasificación de los contratos de arrendamiento y otros de naturaleza similar, se realizará sobre la base de las condiciones contractuales y otras circunstancias existentes al comienzo de los mismos o, si las condiciones han sido modificadas de forma que cambiarían su clasificación, en la fecha de dicha modificación, que puede ser la de adquisición.
+
+b) Criterio de valoración.
+
+La adquirente valorará los activos identificables adquiridos y los pasivos asumidos a sus valores razonables en la fecha de adquisición, siempre que dichos valores puedan determinarse con suficiente fiabilidad.
+
+c) Excepciones a los criterios de reconocimiento y valoración.
+
+No obstante lo anterior, en el reconocimiento y valoración de los activos identificables adquiridos y pasivos asumidos que a continuación se relacionan se seguirán las siguientes reglas:
+
+1. Los activos no corrientes que se clasifiquen por la adquirente como mantenidos para la venta se valorarán de acuerdo con lo establecido al respecto en la norma sobre activos no corrientes y grupos enajenables de elementos, mantenidos para la venta.
+
+2. Los activos y pasivos por impuesto diferido se reconocerán y valorarán de acuerdo con lo dispuesto en la norma relativa a impuestos sobre beneficios.
+
+3. Los activos y pasivos asociados a retribuciones a largo plazo al personal de prestación definida se contabilizarán, en la fecha de adquisición, por el valor actual de las retribuciones comprometidas menos el valor razonable de los activos afectos a los compromisos con los que se liquidarán las obligaciones.
+
+El valor actual de las obligaciones incluirá en todo caso los costes de los servicios pasados que procedan de cambios en las prestaciones o de la introducción de un plan, antes de la fecha de adquisición, así como las ganancias y pérdidas actuariales que hayan surgido antes de la citada fecha.
+
+4. En el caso de que el registro de un inmovilizado intangible identificado cuya valoración, que no puede ser calculada por referencia a un mercado activo, implicara la contabilización de un ingreso en la cuenta de pérdidas y ganancias, de acuerdo con lo previsto en el apartado 2.5 de la presente norma, dicho activo se valorará deduciendo la diferencia negativa, inicialmente calculada, del importe de su valor razonable. Si el importe de dicha diferencia negativa fuera superior al valor total del inmovilizado intangible, dicho activo no deberá ser registrado.
+
+5. Si el adquirente recibe un activo como indemnización frente a alguna contingencia o incertidumbre relacionada con la totalidad o con parte de un activo o pasivo específico, reconocerá y valorará el activo en el mismo momento y de forma consistente con el elemento que genere la citada contingencia o incertidumbre.
+
+6. La adquirente valorará un derecho readquirido reconocido como un inmovilizado intangible sobre la base del periodo contractual que reste hasta su finalización, con independencia de que un tercero considerase en la determinación de su valor razonable las posibles renovaciones contractuales.
+
+7. En el caso de que el negocio adquirido incorpore obligaciones calificadas como contingencias, la empresa adquirente reconocerá como pasivo el valor razonable de asumir tales obligaciones, siempre y cuando dicho pasivo sea una obligación presente que surja de sucesos pasados y su valor razonable pueda ser medido con suficiente fiabilidad, aunque no sea probable que para liquidar la obligación vaya a producirse una salida de recursos que incorporen beneficios económicos.
+
+2.5 Determinación del importe del fondo de comercio o de la diferencia negativa.
+
+El exceso, en la fecha de adquisición, del coste de la combinación de negocios sobre el valor de los activos identificables adquiridos menos el de los pasivos asumidos en los términos recogidos en el apartado anterior, se reconocerá como un fondo de comercio.
+
+Al fondo de comercio le serán de aplicación los criterios contenidos en la norma relativa a normas particulares sobre el inmovilizado intangible.
+
+En el supuesto excepcional de que el valor de los activos identificables adquiridos menos el de los pasivos asumidos, fuese superior al coste de la combinación de negocios, el exceso se contabilizará en la cuenta de pérdidas y ganancias como un ingreso.
+
+No obstante, antes de reconocer el citado ingreso la empresa evaluará nuevamente si ha identificado y valorado correctamente tanto los activos identificables adquiridos y pasivos asumidos, como el coste de la combinación. Si en el proceso de identificación y valoración surgen activos de carácter contingente o elementos del inmovilizado intangible para los que no exista un mercado activo, no serán objeto de reconocimiento con el límite de la diferencia negativa anteriormente indicada.
+
+2.6 Contabilidad provisional.
 
 Si en la fecha de cierre del ejercicio en que se ha producido la combinación de negocios no se pudiese concluir el proceso de valoración necesario para aplicar el método de adquisición, las cuentas anuales se elaborarán utilizando valores provisionales.
 
-Los valores provisionales serán ajustados en el período necesario para obtener la información requerida para completar la contabilización inicial. Dicho período en ningún caso será superior a un año desde la fecha de la adquisición.
+Los valores provisionales serán ajustados en el periodo necesario para obtener la información requerida para completar la contabilización inicial (en adelante, periodo de valoración). Dicho periodo en ningún caso será superior a un año desde la fecha de adquisición.
 
 En cualquier caso, los ajustes a los valores provisionales únicamente incorporarán información relativa a los hechos y circunstancias que existían en la fecha de adquisición y que, de haber sido conocidos, hubieran afectado a los importes reconocidos en dicha fecha.
 
+Algunos cambios en el valor razonable de una contraprestación contingente que reconozca la adquirente después de la fecha de adquisición pueden ser el resultado de información adicional que la adquirente obtenga después de esa fecha sobre hechos y circunstancias que existían en la fecha de adquisición. Estos cambios son ajustes del período de valoración. Por ejemplo, si se pacta una contraprestación contingente en función de los beneficios que se obtengan en los próximos tres ejercicios, en la fecha de adquisición la empresa adquirente deberá calcular la mejor estimación del citado importe, que será ajustado un año más tarde considerando la información existente en esa fecha sobre los resultados de la entidad.
+
+Sin embargo, los cambios en la contraprestación contingente que procedan de sucesos ocurridos tras la fecha de adquisición, tales como alcanzar un precio por acción determinado o un hito concreto en un proyecto de investigación y desarrollo, no son ajustes del periodo de valoración.
+
 Los ajustes que se reconozcan para completar la contabilización inicial se realizarán de forma retroactiva, es decir, de forma tal que los valores resultantes sean los que se derivarían de haber tenido inicialmente la información que se incorpora. Por lo tanto:
 
-– Los ajustes al valor inicial de los activos y pasivos identificables se considerarán realizados en la fecha de adquisición.
+a) Los ajustes al valor inicial de los activos identificables y pasivos asumidos se considerarán realizados en la fecha de adquisición.
 
-– El valor del fondo de comercio o de la diferencia negativa se corregirá, con efectos desde la fecha de adquisición, por un importe igual al ajuste que se realiza al valor inicial de los activos y pasivos identificables.
+b) El valor del fondo de comercio o de la diferencia negativa se corregirá, con efectos desde la fecha de adquisición, por un importe igual al ajuste que se realiza al valor inicial de los activos identificables y pasivos asumidos o al coste de la combinación.
 
-– La información comparativa incorporará los ajustes.
+c) La información comparativa incorporará los ajustes.
 
-Transcurrido el período mencionado en este apartado, sólo se practicarán ajustes a las valoraciones iniciales cuando:
+Transcurrido el periodo mencionado en este apartado, sólo se practicarán ajustes a las valoraciones iniciales cuando proceda corregir errores conforme a lo establecido en la norma relativa a cambios en criterios contables, errores y estimaciones contables. Las restantes modificaciones que se produzcan con posterioridad se reconocerán como cambios en las estimaciones conforme a lo señalado en la citada norma relativa a cambios en criterios contables, errores y estimaciones contables.
 
-– Proceda ajustar las contraprestaciones adicionales que dependan de eventos futuros o del cumplimiento de ciertas condiciones, según lo establecido en el apartado 2.3 de esta norma.
+2.7 Combinaciones de negocios realizadas por etapas.
 
-– Se reconozcan activos por impuesto diferido no contabilizados previamente conforme a lo establecido en el apartado 4 de la norma relativa a impuestos sobre beneficios.
+Las combinaciones de negocios realizadas por etapas son aquellas en las que la empresa adquirente obtiene el control de la adquirida mediante varias transacciones independientes realizadas en fechas diferentes.
 
-– Proceda corregir errores conforme a lo establecido en la norma relativa a cambios en criterios contables, errores y estimaciones contables.
+En estos casos, el fondo de comercio o diferencia negativa se obtendrá por diferencia entre los siguientes importes:
 
-Las restantes modificaciones que se produzcan con posterioridad se reconocerán como cambios en las estimaciones conforme a lo señalado en la norma relativa a cambios en criterios contables, errores y estimaciones contables.
+a) El coste de la combinación de negocios, más el valor razonable en la fecha de adquisición de cualquier inversión previa de la empresa adquirente en la adquirida, y
 
-2.7. Combinaciones de negocios realizadas por etapas.
+b) El valor de los activos identificables adquiridos menos el de los pasivos asumidos en los términos recogidos en el apartado 2.4.
 
-Las combinaciones de negocios realizadas por etapas son aquellas en las que la entidad adquirente obtiene el control de la adquirida mediante varias transacciones independientes realizadas en fechas diferentes.
+Cualquier beneficio o pérdida que surja como consecuencia de la valoración a valor razonable en la fecha en que se obtiene el control de la participación previa de la adquirente en la adquirida, se reconocerá en la cuenta de pérdidas y ganancias. Si con anterioridad, la inversión en la participada se hubiera valorado por su valor razonable, los ajustes de valoración pendientes de ser imputados al resultado del ejercicio se transferirán a la cuenta de pérdidas y ganancias.
 
-Estas combinaciones se contabilizarán aplicando el método de adquisición con las siguientes precisiones:
+Se presume que el coste de la combinación de negocios es el mejor referente para estimar el valor razonable en la fecha de adquisición, de cualquier participación previa en la empresa adquirida. En caso de evidencia en contrario, se utilizarán otras técnicas de valoración para determinar el valor razonable de la citada participación.
 
-a) En la determinación del coste de la combinación de negocios, se considerará el coste de cada una de las transacciones individuales.
+2.8 Registro y valoración de las transacciones separadas.
 
-b) En cada una de las transacciones individuales se determinará el fondo de comercio o diferencia negativa conforme al apartado 2.5 de la presente norma.
+Adquirente y adquirida pueden tener una relación previa a la combinación de negocios o pueden iniciar un acuerdo separado de la combinación de negocios de forma simultánea a ésta. En ambos casos la adquirente identificará las transacciones separadas que no formen parte de la combinación de negocios, que deberán contabilizarse de acuerdo con lo previsto en la correspondiente norma de registro y valoración y, originar, en su caso, un ajuste en el coste de la combinación.
 
-c) La diferencia entre el valor razonable de la participación de la adquirente en los elementos identificables de la entidad adquirida en cada una de las fechas de las transacciones individuales y su valor razonable en la fecha de adquisición se reconocerá directamente en las reservas de la entidad neta del efecto impositivo.
+Una transacción formalizada por o en nombre de la adquirente o que beneficia principalmente a la adquirente o a la entidad combinada, en lugar de a la adquirida (o sus anteriores propietarios) antes de la combinación, constituirá probablemente una transacción separada. En particular, son ejemplos de transacciones separadas en las que el método de adquisición debe excepcionarse:
 
-d) Si con anterioridad, la inversión en la participada se hubiera valorado por su valor razonable, se desharán los ajustes de valoración realizados previamente para dejar valorada la participación por su coste histórico.
+a) La cancelación de relaciones preexistentes entre la adquirente y la adquirida.
+
+En aquellas ocasiones en las que exista una relación previa entre adquirente y adquirida, de carácter contractual o no, la empresa adquirente reconocerá un beneficio o pérdida por la cancelación de la mencionada relación previa cuyo importe se determinará como sigue:
+
+1.1 Si la relación previa no fuera de carácter contractual (por ejemplo, un litigio), por su valor razonable; y
+
+1.2 Si la relación preexistente fuera de carácter contractual por el menor del:
+
+i) importe por el que el contrato es favorable o desfavorable para la adquirente en relación a las condiciones de mercado.
+
+ii) importe de cualquier cláusula de liquidación establecida en el contrato que pueda ser ejecutada por la parte para la que el contrato sea desfavorable.
+
+Si el segundo importe es menor que el primero, la diferencia se incluirá como parte del coste de la combinación de negocios. No obstante, si la cancelación diese lugar a la adquisición de un derecho previamente cedido por la adquirente, ésta última deberá reconocer un inmovilizado intangible de acuerdo con lo dispuesto en el apartado 2.4.c.6).
+
+En ambos casos, es decir, tanto si la cancelación es de una relación de naturaleza contractual o no, en la determinación del resultado, la empresa adquirente debe considerar los activos y pasivos relacionados que hubiese reconocido previamente.
+
+Cualquier gasto o ingreso que proceda reconocer de acuerdo con los criterios anteriores, se contabilizará empleando como contrapartida la contraprestación transferida. En consecuencia, en el importe del citado gasto o ingreso, deberá minorarse o aumentarse, respectivamente, el coste de la combinación a los efectos de calcular el fondo de comercio o la diferencia negativa.
+
+En todo caso, cualquier pérdida por deterioro previamente reconocida por la adquirente o la adquirida en relación con créditos y débitos recíprocos, deberá revertir y contabilizarse como un ingreso en la cuenta de pérdidas y ganancias de la empresa que hubiera contabilizado la pérdida por deterioro. En la fecha de adquisición, los citados créditos y débitos recíprocos deberán cancelarse en la contabilidad de la empresa adquirente.
+
+b) La sustitución de acuerdos de remuneración a los trabajadores o a los anteriores propietarios de la adquirida.
+
+Si por causa de la combinación de negocios se sustituyen voluntaria u obligatoriamente los compromisos de pagos basados en instrumentos de patrimonio de la empresa adquirida con sus empleados, por los basados en los instrumentos de patrimonio de la adquirente, el importe de los acuerdos de sustitución que forman parte del coste de la combinación de negocios será equivalente a la parte del acuerdo mantenido por la adquirida que es atribuible a servicios anteriores a la fecha de adquisición. Este importe se determinará aplicando al valor razonable en la fecha de adquisición de los acuerdos de la adquirida, el porcentaje resultante de comparar el periodo de irrevocabilidad completado en dicha fecha y el mayor entre el periodo inicial y el nuevo periodo de irrevocabilidad resultante de los acuerdos alcanzados.
+
+Si los nuevos acuerdos exigen que los empleados presten servicios adicionales, cualquier exceso del valor razonable del nuevo acuerdo sobre el citado coste se reconocerá como un gasto de personal conforme a lo señalado en la norma de transacciones con pagos basados en instrumentos de patrimonio. En caso contrario, cualquier exceso se reconocerá en la fecha de adquisición como un gasto de personal.
+
+No obstante, cuando la adquirente reemplace voluntariamente acuerdos de pagos basados en instrumentos de patrimonio, que expiran por causa de la combinación de negocios, la totalidad de la valoración en la fecha de adquisición de los nuevos incentivos deberá reconocerse como gasto de personal conforme a lo señalado en la norma sobre transacciones con pagos basados en instrumentos de patrimonio. En consecuencia, en este último supuesto, los citados incentivos no formarán parte de la contraprestación trasferida en la combinación de negocios.
+
+c) La compensación por haber recibido un negocio deficitario.
+
+Si la adquirente recibe un activo o el compromiso de recibir un activo como compensación por haber asumido un negocio deficitario, por ejemplo, para hacer frente al coste de un futuro expediente de regulación de empleo, deberá contabilizar este acuerdo como una transacción separada de la combinación de negocios, circunstancia que exigirá reconocer una provisión como contrapartida del citado activo en la fecha en que se cumplan los criterios de reconocimiento y valoración del mismo.
+
+2.9 Valoración posterior.
+
+Con posterioridad a su registro inicial, y sin perjuicio de los ajustes exigidos por el apartado 2.6 de la presente norma, con carácter general, los pasivos e instrumentos de patrimonio emitidos como coste de la combinación y los activos identificables adquiridos y pasivos asumidos en una combinación de negocios se contabilizarán de acuerdo con las normas de registro y valoración que correspondan en función de la naturaleza de la transacción o elemento patrimonial.
+
+Sin embargo, por excepción a la citada regla, a las transacciones y elementos que a continuación se indican se les aplicarán los siguientes criterios:
+
+a) Pasivos reconocidos como contingencias. Con posterioridad al reconocimiento inicial, y hasta que el pasivo se cancele, liquide o expire, se valorarán por el mayor de los siguientes importes:
+
+1. El que resulte de acuerdo con lo dispuesto en la norma relativa a provisiones y contingencias.
+
+2. El inicialmente reconocido menos, cuando proceda, la parte del mismo imputada a la cuenta de pérdidas y ganancias porque corresponda a ingresos devengados de acuerdo con la norma que resulte aplicable en función de la naturaleza del pasivo.
+
+b) Activos por indemnización. Se valorarán de forma consistente con el elemento que genere la contingencia o incertidumbre, sujeto a cualquier limitación contractual sobre su importe y, para un activo por indemnización que no se valora posteriormente por su valor razonable, teniendo en consideración la evaluación de la dirección sobre las circunstancias relativas a su cobro. La adquirente los dará de baja únicamente cuando se cobre, venda o se extinga de cualquier otra forma el derecho sobre estos activos.
+
+c) Un derecho readquirido reconocido como un inmovilizado intangible deberá amortizarse a lo largo del periodo que reste hasta la finalización del plazo correspondiente a la cesión inicial.
+
+d) Contraprestación contingente. Una vez concluida la contabilización provisional de la combinación de negocios, se seguirá el siguiente criterio respecto a los cambios posteriores en el valor razonable de la contraprestación contingente:
+
+1. La contraprestación contingente clasificada como patrimonio neto no deberá valorarse de nuevo y su liquidación posterior deberá contabilizarse dentro del patrimonio neto.
+
+2. La contraprestación contingente clasificada como un activo o un pasivo que sea un instrumento financiero dentro del alcance de la norma relativa a los mismos deberá valorarse en todo caso por su valor razonable, registrando cualquier ganancia o pérdida en la cuenta de pérdidas y ganancias. Si no está dentro del alcance de la citada norma, deberá contabilizarse de acuerdo con lo previsto en la norma sobre provisiones y contingencias, o la norma que resulte aplicable en función de la naturaleza de la contraprestación.
+
+En particular, en el caso de activos contingentes que no hayan sido reconocidos por originar una diferencia negativa, el reconocimiento y valoración posterior se realizará de forma consistente con el elemento que genere la contingencia o incertidumbre.
 
 19ª Negocios conjuntos.
 
@@ -1490,19 +1624,57 @@ En consecuencia, con carácter general, y sin perjuicio de lo dispuesto en el ap
 
 2. Normas particulares.
 
-2.1. Aportaciones no dinerarias de un negocio.
+Las normas particulares solo serán de aplicación cuando los elementos objeto de la transacción deban calificarse como un negocio. A estos efectos, las participaciones en el patrimonio neto que otorguen el control sobre una empresa que constituya un negocio, también tendrán esta calificación.
 
-En las aportaciones no dinerarias a una entidad del grupo en las que el objeto sea un negocio, según se define en la norma sobre combinaciones de negocios, la inversión en el patrimonio en el aportante se valorará por el valor contable de los elementos patrimoniales que integren el negocio.
+El valor en cuentas consolidadas de estas participaciones es el importe representativo de su porcentaje de participación en el valor de los activos y pasivos de la sociedad dependiente reconocidos en el balance consolidado, deducida la participación de socios externos.
 
-2.2. Operaciones de fusión, escisión y aportación no dineraria de un negocio.
+2.1 Aportaciones no dinerarias.
 
-En las operaciones de fusión, escisión y aportación no dineraria en las que el objeto sea un negocio, según se define en la norma sobre combinaciones de negocios, se seguirán los siguientes criterios:
+En las aportaciones no dinerarias a una empresa del grupo, el aportante valorará su inversión por el valor contable de los elementos patrimoniales entregados en las cuentas anuales consolidadas en la fecha en que se realiza la operación, según las Normas para la Formulación de las Cuentas Anuales Consolidadas, que desarrollan el Código de Comercio.
 
-En las operaciones entre entidades del grupo en las que intervenga la entidad dominante del mismo o la dominante de un subgrupo y su dependiente, directa o indirectamente, los elementos constitutivos del negocio adquirido se valorarán por el importe que correspondería a los mismos, una vez realizada la operación, en las cuentas anuales consolidadas del grupo o subgrupo según las Normas para la Formulación de las Cuentas Anuales Consolidadas, que desarrollan el Código de Comercio.
+La sociedad adquirente los reconocerá por el mismo importe.
 
-En el caso de operaciones entre otras entidades del grupo, los elementos patrimoniales del negocio se valorarán según los valores contables existentes antes de la operación en las cuentas anuales individuales. La diferencia que pudiera ponerse de manifiesto en el registro contable por la aplicación de los criterios anteriores, se registrará en una partida de reservas.
+Las cuentas anuales consolidadas que deben utilizarse a estos efectos serán las del grupo o subgrupo mayor en el que se integren los elementos patrimoniales, cuya sociedad dominante sea española. En el supuesto de que las citadas cuentas no se formulasen, al amparo de cualquiera de los motivos de dispensa previstos en las normas de consolidación, se tomarán los valores existentes antes de realizarse la operación en las cuentas anuales individuales de la sociedad aportante.
 
-A los efectos de lo dispuesto en esta norma, no se considerará que las participaciones en el patrimonio neto de otras entidades constituyen en sí mismas un negocio.
+2.2 Operaciones de fusión y escisión.
+
+2.2.1 Criterios de reconocimiento y valoración.
+
+En las operaciones de fusión y escisión, se seguirán las siguientes reglas:
+
+a) En las operaciones entre empresas del grupo en las que intervenga la empresa dominante del mismo o la dominante de un subgrupo y su dependiente, directa o indirectamente, los elementos patrimoniales adquiridos se valorarán por el importe que correspondería a los mismos, una vez realizada la operación, en las cuentas anuales consolidadas del grupo o subgrupo según las citadas Normas para la Formulación de las Cuentas Anuales Consolidadas.
+
+La diferencia que pudiera ponerse de manifiesto en el registro contable por la aplicación de los criterios anteriores, se registrará en una partida de reservas.
+
+Sin perjuicio de lo anterior, cuando la vinculación dominante-dependiente, previa a la fusión, trae causa de la transmisión entre empresas del grupo de las acciones o participaciones de la dependiente, sin que esta operación origine un nuevo subgrupo obligado a consolidar, el método de adquisición se aplicará tomando como fecha de referencia aquella en que se produce la citada vinculación, siempre que la contraprestación entregada sea distinta a los instrumentos de patrimonio de la adquirente.
+
+Se aplicará este mismo criterio en los supuestos de dominio indirecto, cuando la dominante deba compensar a otras sociedades del grupo que no participan en la operación por la pérdida que, en caso contrario, se produciría en el patrimonio neto de estas últimas.
+
+b) En el caso de operaciones entre otras empresas del grupo, los elementos patrimoniales adquiridos también se valorarán según sus valores contables en las cuentas anuales consolidadas en la fecha en que se realiza la operación.
+
+En el caso particular de la fusión, la diferencia que pudiera ponerse de manifiesto entre el valor neto de los activos y pasivos de la sociedad adquirida, ajustado por el saldo que deba lucir en las subagrupaciones B-2) y B-3) del patrimonio neto, y cualquier importe correspondiente al capital y prima de emisión que, en su caso, hubiera emitido la sociedad absorbente, se contabilizará en una partida de reservas.
+
+Este mismo criterio será de aplicación en el caso de las escisiones.
+
+Las cuentas anuales consolidadas que deben utilizarse a estos efectos serán las del grupo o subgrupo mayor en el que se integren los elementos patrimoniales, cuya sociedad dominante sea española. En el supuesto de que las citadas cuentas no se formulasen, al amparo de cualquiera de los motivos de dispensa previstos en las normas de consolidación, se tomarán los valores existentes antes de realizarse la operación en las cuentas anuales individuales de la sociedad aportante.
+
+Sin perjuicio de lo anterior, cuando la sociedad absorbente deba compensar a otras sociedades del grupo que no participan en la operación por la pérdida que, en caso contrario, se produciría en el patrimonio neto de estas últimas, los elementos patrimoniales de la sociedad absorbida se contabilizarán aplicando las reglas generales.
+
+2.2.2 Fecha de efectos contables.
+
+En las operaciones de fusión y escisión entre empresas del grupo, la fecha de efectos contables será la de inicio del ejercicio en que se aprueba la fusión siempre que sea posterior al momento en que las sociedades se hubiesen incorporado al grupo. Si una de las sociedades se ha incorporado al grupo en el ejercicio en que se produce la fusión o escisión, la fecha de efectos contables será la fecha de adquisición.
+
+En el supuesto de que las sociedades que intervienen en la operación formasen parte del grupo con anterioridad al inicio del ejercicio inmediato anterior, la información sobre los efectos contables de la fusión no se extenderá a la información comparativa.
+
+Si entre la fecha de aprobación de la fusión y la de inscripción en el Registro Mercantil se produce un cierre, la obligación de formular cuentas anuales subsiste para los sociedades que participan en la operación, con el contenido que de ellas proceda de acuerdo con los criterios generales recogidos en el apartado 2.2 de la norma de registro y valoración 18.ª Combinaciones de negocios.
+
+2.3 Operaciones de reducción de capital, reparto de dividendos y disolución de sociedades.
+
+En las operaciones de reducción de capital, reparto de dividendos y disolución de sociedades se seguirán los siguientes criterios, siempre que el negocio en que se materializa la reducción de capital, se acuerda el pago del dividendo o se cancela la cuota de liquidación del socio o propietario permanezca en el grupo.
+
+La empresa cedente contabilizará la diferencia entre el importe de la deuda con el socio o propietario y el valor contable del negocio entregado con abono a una cuenta de reservas.
+
+La empresa cesionaria lo contabilizará aplicando los criterios establecidos en el apartado 2.2 de esta norma.
 
 21ª Cambios en criterios contables, errores y estimaciones contables.
 
@@ -1531,3 +1703,5 @@ En todo caso, en la formulación de las cuentas anuales deberá tenerse en cuent
 Se entenderá por estados intermedios al conjunto de la información financiera que se refiera a un período contable inferior al ejercicio económico anual de la entidad. Tendrán tal carácter, los elaborados para el ejercicio de la supervisión financiera.
 
 A las correcciones valorativas por deterioro: (i) del fondo de comercio, (ii) de los derechos económicos derivados de carteras de pólizas adquiridas a un mediador, (iii) de las inversiones en instrumentos de patrimonio incluidas en la categoría de activos financieros disponibles para la venta y (iv) de los activos financieros valorados al coste distintos de las inversiones en el patrimonio de entidades del grupo, multigrupo y asociadas, que hubiesen sido reconocidos en los estados financieros intermedios, se les aplicará el régimen contable que disponen las normas de registro y valoración correspondientes a efectos de su posible reversión.
+
+> Se modifican las normas de registro y valoración 8ª, 12ª, 18ª y 20ª por el art. único.1 a 4 del Real Decreto 1736/2010, de 23 de diciembre. Ref. BOE-A-2010-20052.

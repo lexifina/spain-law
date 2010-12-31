@@ -336,7 +336,7 @@ b) Se abonará por la reducción de capital, con cargo a la cuenta 100 por el im
 
 11. Reservas y otros instrumentos de patrimonio neto.
 
-110. Prima de emisión.
+110. Prima de emisión o asunción.
 
 111. Otros instrumentos de patrimonio neto.
 
@@ -376,15 +376,17 @@ b) Se abonará por la reducción de capital, con cargo a la cuenta 100 por el im
 
 Las cuentas de este subgrupo figurarán en el patrimonio neto del balance, formando parte de los fondos propios.
 
-110. Prima de emisión.
+110. Prima de emisión o asunción.
 
-Aportación realizada por los accionistas o socios en el caso de emisión y colocación de acciones a un precio superior a su valor nominal. En particular, incluye las diferencias que pudieran surgir entre los valores de escritura y los valores por los que deben registrarse los bienes recibidos en concepto de aportación no dineraria, de acuerdo con lo dispuesto en las normas de registro y valoración.
+Aportación realizada por los accionistas o socios en el caso de emisión y colocación de acciones o participaciones a un precio superior a su valor nominal. En particular, incluye las diferencias que pudieran surgir entre los valores de escritura y los valores por los que deben registrarse los bienes recibidos en concepto de aportación no dineraria, de acuerdo con lo dispuesto en las normas de registro y valoración.
 
 Su movimiento es el siguiente:
 
 a) Se abonará, con cargo, generalmente, a la cuenta 111 ó 194.
 
 b) Se cargará por la disposición que de la prima pueda realizarse.
+
+Cuando se produzca una adquisición inversa, de acuerdo con lo dispuesto en la norma de registro y valoración relativa a combinaciones de negocios, en la fecha de inscripción de la fusión o escisión, los ingresos y gastos del negocio adquirido, es decir, la adquirente legal, devengados hasta la fecha de adquisición, deberán cancelarse, cargando o abonando, según proceda, esta cuenta.
 
 111. Otros instrumentos de patrimonio neto.
 
@@ -418,27 +420,25 @@ a) Se abonará, generalmente, con cargo a la cuenta 129.
 
 b) Se cargará por la disposición que se haga de esta reserva.
 
-113. Reservas voluntarias Son las constituidas libremente por la entidad.
+113. Reservas voluntarias.
+
+Son las constituidas libremente por la entidad.
 
 Su movimiento es análogo al señalado para la cuenta 112, sin perjuicio de lo indicado en los siguientes párrafos:
 
-– Cuando se produzca un cambio de criterio contable o la subsanación de un error, el ajuste por el efecto acumulado calculado al inicio del ejercicio, de las variaciones de los elementos patrimoniales afectados por la aplicación retroactiva del nuevo criterio o la corrección del error, se imputará a reservas de libre disposición. Con carácter general, se imputará a las reservas voluntarias, registrándose del modo siguiente:
+Cuando se produzca un cambio de criterio contable o la subsanación de un error, el ajuste por el efecto acumulado calculado al inicio del ejercicio, de las variaciones de los elementos patrimoniales afectados por la aplicación retroactiva del nuevo criterio o la corrección del error, se imputará a reservas de libre disposición. Con carácter general, se imputará a las reservas voluntarias, registrándose del modo siguiente:
 
 a) Se abonará por el importe resultante del efecto neto acreedor de los cambios experimentados por la aplicación de un nuevo criterio contable comparado con el antiguo o por la corrección del error, con cargo y abono, en su caso, a las respectivas cuentas representativas de los elementos patrimoniales afectados por este hecho, incluyendo las relacionadas con la contabilización del efecto impositivo del ajuste.
 
 b) Se cargará por el importe resultante del efecto neto deudor de los cambios experimentados por la aplicación de un nuevo criterio contable comparado con el antiguo o por la corrección de un error contable, con abono o cargo, en su caso, a las respectivas cuentas representativas de los elementos patrimoniales afectados por este hecho, incluyendo las relacionadas con la contabilización del efecto impositivo del ajuste.
 
-– Cuando se produzca una combinación de negocios por etapas, de acuerdo con lo dispuesto en las normas de registro y valoración, la diferencia entre el valor razonable de la participación de la adquirente en los elementos identificables de la entidad adquirida en cada una de las fechas de las transacciones individuales y su valor razonable en la fecha de adquisición, se imputará a reservas de libre disposición. Con carácter general, se abonará esta cuenta de reservas voluntarias, con cargo a las correspondientes cuentas representativas de los elementos patrimoniales, incluyendo las relacionadas con la contabilización del efecto impositivo.
+Cuando se aplique por primera vez el presente Plan, los ajustes que de ello deriven en la fecha de transito al mismo se reconocerán en esta rúbrica, a través de una cuenta de cuatro dígitos específica creada al efecto.
 
-En particular, en el caso de que con carácter previo a una combinación de negocios por etapas en la que deba aplicarse el método de adquisición, la inversión en la adquirida se hubiera clasificado como un activo financiero mantenido para negociar o activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias, se abonará o cargará la cuenta de reservas voluntarias con cargo o abono a las cuentas en las que estuviese registrada la participación.
+Los costes de transacción de instrumentos de patrimonio propio se imputarán a reservas de libre disposición. Con carácter general, se imputarán a las reservas voluntarias, registrándose del modo siguiente:
 
-– Cuando se aplique por primera vez el presente Plan, los ajustes que de ello deriven en la fecha de transito al mismo se reconocerán en esta rúbrica, a través de una cuenta de cuatro dígitos específica creada al efecto.
+a) Se cargará por el importe de los costes, con abono a cuentas del subgrupo 57.
 
-– Los costes de transacción de instrumentos de patrimonio propio se imputarán a reservas de libre disposición. Con carácter general, se imputarán a las reservas voluntarias, registrándose del modo siguiente:
-
-a) Se cargará por el importe de los gastos, con abono a cuentas del subgrupo 57.
-
-b) Se abonará por el gasto por impuesto sobre beneficios relacionado con los costes de transacción, con cargo a la correspondiente cuenta del subgrupo 47.
+b) Se abonará por el gasto por impuesto sobre beneficios relacionado con los costes de transacción, con cargo a la cuenta 6301.
 
 114. Reservas especiales.
 
@@ -688,23 +688,19 @@ a1) Al cierre del ejercicio, por las variaciones positivas en el valor razonable
 
 a2) Al cierre del ejercicio, por las transferencias de pérdidas de activos financieros disponibles para la venta, con cargo a la cuenta 902.
 
-a3) Al cierre del ejercicio, cuando se hubieran realizado inversiones previas a la consideración de participaciones en el patrimonio como de entidades del grupo, multigrupo o asociadas, por la recuperación o la transferencia a la cuenta de pérdidas y ganancias por deterioro de los ajustes valorativos por reducciones de valor imputados directamente en el patrimonio neto, con cargo a subgrupo 99.
+a3) Al cierre del ejercicio, cuando se hubieran realizado inversiones previas a la consideración de participaciones en el patrimonio como de empresas del grupo, multigrupo o asociadas, por la recuperación o la transferencia a la cuenta de pérdidas y ganancias por deterioro de los ajustes valorativos por reducciones de valor imputados directamente en el patrimonio neto, con cargo a las correspondientes cuentas del subgrupo 99.
 
 a4) Por el gasto por impuesto sobre beneficios originado por estos ajustes, con cargo a las cuentas del subgrupo 83.
 
-a5) Por las variaciones de valor negativas imputadas directamente al patrimonio neto en activos financieros disponibles para la venta, cuando se haya producido una combinación de negocios por etapas, con cargo a la cuenta en la que esté registrada la participación.
-
-b) Se cargarán:
+b) Se cargará:
 
 b1) Al cierre del ejercicio, por las variaciones negativas en el valor razonable de los activos financieros disponibles para la venta, con abono a la cuenta 800.
 
 b2) Al cierre del ejercicio, por la transferencia de beneficios en activos financieros disponibles para la venta, con abono a la cuenta 802.
 
-b3) Al cierre del ejercicio, por el deterioro en inversiones en patrimonio de entidades del grupo, multigrupo y asociadas que previamente hubieran ocasionado ajustes valorativos por aumento de valor, con abono a las correspondientes cuentas del subgrupo 89.
+b3) Al cierre del ejercicio, por el deterioro en inversiones en patrimonio de empresas del grupo, multigrupo y asociadas que previamente hubieran ocasionado ajustes valorativos por aumento de valor, con abono a las correspondientes cuentas del subgrupo 89.
 
 b4) Por el gasto por impuesto sobre beneficios originado por estos ajustes, con abono a las cuentas del subgrupo 83.
-
-b5) Por las variaciones de valor positivas imputadas directamente al patrimonio neto en activos financieros disponibles para la venta, cuando se haya producido una combinación de negocios por etapas, con abono a la cuenta en la que esté registrada la participación.
 
 134. Operaciones de cobertura.
 
@@ -6002,6 +5998,8 @@ a1) En el momento en que se produzca la baja o enajenación del activo financier
 
 a2) En caso de reclasificación a una inversión mantenida hasta el vencimiento, por el saldo positivo acumulado en el patrimonio neto que se reconoce en la cuenta de pérdidas y ganancias, a lo largo de su vida residual, como un incremento de los ingresos financieros en los términos establecidos en la norma de registro y valoración, con abono a la cuenta 761.
 
+a3) Cuando se haya producido una combinación de negocios por etapas, de acuerdo con lo dispuesto en las normas de registro y valoración, por las variaciones de valor positivas imputadas directamente al patrimonio neto correspondientes a cualquier participación previa en la adquirida que estuviera clasificada como activos financieros disponibles para la venta, con abono a la cuenta 7632.
+
 b) Se abonará, al cierre del ejercicio, con cargo a la cuenta 133.
 
 81. Gastos en operaciones de cobertura.
@@ -6320,6 +6318,8 @@ a2) En el momento en que se produzca el deterioro del instrumento financiero, po
 
 a3) En caso de reclasificación a una inversión mantenida hasta el vencimiento, por el saldo negativo acumulado en el patrimonio neto que se reconoce en la cuenta de pérdidas y ganancias a lo largo de su vida residual, con una minoración de los ingresos financieros en los términos establecidos en la norma de registro y valoración, con cargo a la cuenta 761.
 
+a4) Cuando se haya producido una combinación de negocios por etapas de acuerdo con lo dispuesto en las normas de registro y valoración, por las variaciones de valor negativas imputadas directamente al patrimonio neto correspondientes a cualquier participación previa en la adquirida que estuviera clasificada como activos financieros disponibles para la venta, con cargo a la cuenta 6632.
+
 b) Se cargará, al cierre del ejercicio, con abono a la cuenta 133.
 
 91. Ingresos en operaciones de cobertura.
@@ -6509,5 +6509,7 @@ b) Se cargarán, al cierre del ejercicio, con abono a la cuenta 133.
 a) Se abonarán en el momento en que se produzca el deterioro del activo financiero, por los ajustes valorativos negativos previos, con cargo a las cuentas 696 ó 698.
 
 b) Se cargarán, al cierre del ejercicio, con abono a la cuenta 133.
+
+> Se modifican las descripciones y relaciones contables de las cuentas 110, 113, 133, 802 y 902 por el art. único.13 del Real Decreto 1736/2010, de 23 de diciembre. Ref. BOE-A-2010-20052.
 
 > Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 265, de 3 de noviembre de 2008. Ref. BOE-A-2008-17565.

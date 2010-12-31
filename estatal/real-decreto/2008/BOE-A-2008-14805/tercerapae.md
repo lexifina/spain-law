@@ -36,6 +36,12 @@ Las cuentas anuales de las entidades aseguradoras deberán ajustarse a los Sin p
 
 3. Las entidades que participen en uno o varios negocios conjuntos que no tengan personalidad jurídica (uniones temporales de empresas, comunidades de bienes, etc.) deberán presentar esta información, atendiendo a lo dispuesto en la norma de registro y valoración relativa a negocios conjuntos, integrando en cada partida de los modelos de los distintos estados financieros las cantidades correspondientes a los negocios conjuntos en los que participen, e informando sobre su desglose en la memoria.
 
+4. Las cuentas anuales que resultan de una adquisición inversa, en aplicación de los criterios recogidos en la norma de registro y valoración relativa a combinaciones de negocios, se elaborarán por la empresa adquirida. En consecuencia, el capital social que debe lucir en el patrimonio neto será el correspondiente a la empresa adquirida. No obstante, se considerarán una continuación de las de la empresa adquirente, y en consecuencia:
+
+a) La información comparativa de periodos anteriores a la combinación estará referida a la de la empresa adquirente. A tal efecto, los fondos propios de la empresa adquirida deberán ajustarse retroactivamente para mostrar los que teóricamente hubiesen correspondido a la empresa adquirente. Este ajuste se realizará considerando que la variación relativa del capital social debe corresponderse con la que se hubiera producido en el supuesto de que la adquirente, legal y económica, fuese la misma empresa.
+
+b) En el ejercicio en que se realiza la operación de adquisición, la cuenta de pérdidas y ganancias y el estado de cambios en el patrimonio neto incluirá los ingresos y gastos de la empresa adquirente correspondientes a dicho ejercicio y los ingresos y gastos de la empresa adquirida desde la fecha en que tiene lugar la operación hasta el cierre. Se aplicarán estos mismos criterios en la elaboración del estado de flujos de efectivo.
+
 5ª Balance.
 
 El balance, que comprende, con la debida separación, el activo, el pasivo y el patrimonio neto de la entidad, se formulará teniendo en cuenta que:
@@ -801,7 +807,11 @@ En este apartado se incluirán los principales elementos que describan la activi
 
 2. Una descripción de los ramos de seguros en los que opera, riesgos cubiertos y actividades accesorias que desarrolla.
 
-3. En el caso de pertenecer a un grupo de sociedades, en los términos previstos en el artículo 42 del Código de Comercio, incluso cuando la sociedad dominante esté domiciliada fuera del territorio español, se informará sobre su nombre, así como el de la sociedad dominante directa y de la dominante última del grupo, la residencia de estas sociedades y el Registro Mercantil donde estén depositadas las cuentas anuales consolidadas, la fecha de formulación de las mismas o, si procediera, las circunstancias que eximan de la obligación de consolidar.
+3. Obligación de consolidar.
+
+3.1 En el caso de ser la empresa dominante de un grupo, en los términos previstos en el artículo 42 del Código de Comercio, se informará sobre la formulación de cuentas anuales consolidadas o, en su caso, sobre el tipo de dispensa que justifica la falta de formulación de las mismas, de entre los contemplados en el artículo 43 del susodicho Código.
+
+3.2 En el caso de pertenecer a un grupo de sociedades, en los términos previstos en el artículo 42 del Código de Comercio, incluso cuando la sociedad dominante esté domiciliada fuera del territorio español, se informará sobre su nombre, así como el de la sociedad dominante directa y de la dominante última del grupo, la residencia de estas sociedades y el Registro Mercantil donde estén depositadas las cuentas anuales consolidadas, la fecha de formulación de las mismas o, si procediera, las circunstancias que eximan de la obligación de consolidar.
 
 4. Cuando exista una moneda funcional distinta del euro, se pondrá claramente de manifiesto esta circunstancia, indicando los criterios tenidos en cuenta para su determinación.
 
@@ -1140,19 +1150,17 @@ Tratándose de combinaciones de negocios que individualmente carezcan de importa
 
 Esta información también deberá expresarse para las combinaciones de negocios efectuadas entre la fecha de cierre de las cuentas anuales y la de su formulación, a menos que no sea posible, señalándose, en este caso, las razones por las que esta información no puede proporcionarse.
 
-2. La entidad realizará una conciliación entre el importe en libros del fondo de comercio al principio y al final del ejercicio, mostrando por separado:
+2. La empresa realizará una conciliación entre el importe en libros del fondo de comercio al principio y al final del ejercicio, mostrando por separado:
 
 a) El importe bruto del mismo y las correcciones valorativas por deterioro acumuladas al principio del ejercicio.
 
-b) El fondo de comercio adicional reconocido durante el período, diferenciando el fondo de comercio incluido en un grupo enajenable de elementos que se haya clasificado como mantenido para la venta, de acuerdo con las normas de registro y valoración. Asimismo se informará sobre el fondo de comercio dado de baja durante el período sin que hubiera sido incluido previamente en ningún grupo enajenable de elementos clasificado como mantenido para la venta.
+b) El fondo de comercio adicional reconocido durante el periodo, diferenciando el fondo de comercio incluido en un grupo enajenable de elementos que se haya clasificado como mantenido para la venta, de acuerdo con las normas de registro y valoración. Asimismo se informará sobre el fondo de comercio dado de baja durante el periodo sin que hubiera sido incluido previamente en ningún grupo enajenable de elementos clasificado como mantenido para la venta.
 
-c) Los ajustes que procedan del reconocimiento posterior de activos por impuesto diferido efectuado durante el ejercicio.
+c) Las correcciones valorativas por deterioro reconocidas durante el ejercicio.
 
-d) Las correcciones valorativas por deterioro reconocidas durante el ejercicio.
+d) Cualesquiera otros cambios en el importe en libros durante el ejercicio, y
 
-e) Cualesquiera otros cambios en el importe en libros durante el ejercicio, y
-
-f) El importe bruto del fondo de comercio y las correcciones valorativas por deterioro acumuladas al final del ejercicio.
+e) El importe bruto del fondo de comercio y las correcciones valorativas por deterioro acumuladas al final del ejercicio.
 
 3. Descripción de los factores que hayan contribuido al registro del fondo de comercio así como, se justificará e indicará el importe del fondo de comercio y de otros inmovilizados intangibles de vida útil indefinida, atribuidos a cada unidad generadora de efectivo.
 
@@ -1377,6 +1385,14 @@ c) Reclasificaciones.
 
 Si de acuerdo con lo establecido en la norma de registro y valoración relativa a instrumentos financieros se hubiese reclasificado un activo financiero de forma que éste pase a valorarse al coste o al coste amortizado, en lugar de al valor razonable, o viceversa, se informará sobre los importes de dicha reclasificación por cada categoría de activos financieros y se incluirá una justificación de la misma.
 
+Adicionalmente si se hubiesen reclasificado activos financieros valorados al valor razonable con cambios en resultados a las categorías de "activos financieros disponibles para la venta", "inversiones mantenidas hasta el vencimiento" o «préstamos y partidas a cobrar" o bien se hubiesen reclasificado activos financieros asignados a la categoría de "activos financieros disponibles para la venta" a la categoría de "préstamos y partidas a cobrar" se informará de:
+
+1.º El importe reclasificado en cada una de las categorías o detraído de ellas.
+
+2.º El importe en libros y valor razonable de todos los activos financieros reclasificados en el ejercicio corriente y en los ejercicios anteriores.
+
+3.º Si la reclasificación es de la categoría de "al valor razonable con cambios en resultados" a las de "activos financieros disponibles para la venta" o "inversiones mantenidas hasta el vencimiento", de los hechos y circunstancias que acrediten la situación excepcional.
+
 d) Clasificación por vencimientos.
 
 Para los activos financieros y pasivos financieros que tengan un vencimiento determinado o determinable, se deberá informar sobre los importes que venzan en cada uno de los cinco años siguientes al cierre del ejercicio y del resto hasta su último vencimiento. Estas indicaciones figurarán separadamente para cada una de las partidas de activos financieros y pasivos financieros conforme al modelo de balance.
@@ -1434,6 +1450,12 @@ a) Las pérdidas o ganancias netas procedentes de las distintas categorías de i
 b) Los ingresos y gastos financieros calculados por aplicación del método del tipo de interés efectivo.
 
 c) El importe de las correcciones valorativas por deterioro para cada clase de activos financieros, así como el importe de cualquier ingreso financiero imputado en la cuenta de pérdidas y ganancias relacionado con tales activos.
+
+Adicionalmente y como complemento de lo anterior, si se hubiesen reclasificado activos financieros valorados al valor razonable con cambios en resultados a las categorías de "activos financieros disponibles para la venta" o "inversiones mantenidas hasta el vencimiento" o bien se hubiesen reclasificado activos financieros asignados a la categoría de "activos financieros disponibles para la venta» a la categoría de «préstamos y partidas a cobrar" se informará de:
+
+1.º En el ejercicio de la reclasificación y, en su caso, para el precedente, las pérdidas y ganancias reconocidas en resultados con carácter previo a la reclasificación.
+
+2.º Para el ejercicio de la reclasificación y, en todo caso, para cada ejercicio posterior hasta la baja en cuentas de los activos financieros, las pérdidas y ganancias al valor razonable que hubiesen sido reconocidas en resultados de no haberse procedido a la reclasificación.
 
 10.2.3 Otra información a incluir en la memoria.
 
@@ -1644,7 +1666,7 @@ Además, deberá indicarse la siguiente información:
 
 3. El importe y plazo de aplicación de diferencias temporarias deducibles, bases imponibles negativas y otros créditos fiscales, cuando no se haya registrado en el balance el correspondiente activo por impuesto diferido.
 
-4. El importe de las diferencias temporarias imponibles por inversiones en dependientes, asociadas y negocios conjuntos cuando no se haya registrado en balance el correspondiente pasivo por impuesto diferido, en los términos señalados en la norma de registro y valoración.
+4. (Suprimido)
 
 5. El importe de los activos por impuesto diferido, indicando la naturaleza de la evidencia utilizada para su reconocimiento, incluida, en su caso, la planificación fiscal, cuando la realización del activo depende de ganancias futuras superiores a las que corresponden a la reversión de las diferencias temporarias imponibles, o cuando la entidad haya experimentado una pérdida, ya sea en el presente ejercicio o en el anterior, en el país con el que se relaciona el activo por impuesto diferido.
 
@@ -1772,57 +1794,71 @@ Se informará sobre:
 
 19. Combinaciones de negocios.
 
-1. La entidad adquirente indicará, para cada una de las combinaciones de negocios que haya efectuado durante el ejercicio, la siguiente información:
+1. La entidad adquirente indicará, para cada una de las combinaciones de negocios que tenga lugar durante el ejercicio, la siguiente información:
 
-a) Los nombres y descripciones de las entidades o negocios que se combinen.
+a) El nombre y descripción de la empresa o empresas adquiridas.
 
 b) La fecha de adquisición.
 
 c) La forma jurídica empleada para llevar a cabo la combinación.
 
-d) Los motivos por los que se realiza la operación, así como una descripción de los factores que dan lugar al reconocimiento del fondo de comercio.
+d) Las razones principales que han motivado la combinación de negocios, así como una descripción cualitativa de los factores que dan lugar al reconocimiento del fondo de comercio, tales como sinergias esperadas de las operaciones de combinación de la adquirida y la adquirente, inmovilizados intangibles que no cumplen las condiciones para su reconocimiento por separado u otros factores.
 
-e) El coste de la combinación y una descripción de los componentes del mismo, desagregando por categorías de elementos tales como:
+e) El valor razonable en la fecha de adquisición del total de la contraprestación transferida y de cada clase principal de contraprestación, tales como:
 
-– Efectivo.
+Efectivo.
 
-– Otros activos materiales o intangibles, tales como un negocio o entidad dependiente de la adquirente.
+Otros activos materiales o intangibles, incluyendo un negocio o una dependiente de la adquirente.
 
-– Pagos contingentes.
+Importe de la contraprestación contingente; la descripción del acuerdo deberá suministrarse en la letra g).
 
-– Instrumentos de deuda.
+Instrumentos de deuda.
 
-– Participación en el patrimonio del adquirente, incluyendo el número de instrumentos de patrimonio emitidos o a emitir y el método para estimar su valor razonable.
+Participación en el patrimonio de la adquirente, incluyendo el número de instrumentos de patrimonio emitidos o a emitir y el método para estimar su valor razonable.
 
-– Las participaciones previas en el patrimonio de la entidad adquirida que no hayan dado lugar al control de la misma, en las combinaciones de negocio por etapas.
+Adicionalmente se informará de las participaciones previas en el patrimonio de la entidad adquirida que no hayan dado lugar al control de la misma, en las combinaciones de negocio por etapas.
 
 f) Los importes reconocidos, en la fecha de adquisición, para cada clase de activos y pasivos de la entidad adquirida, indicando aquellos que de acuerdo con la norma de registro y valoración no se recogen por su valor razonable.
 
-g) El importe máximo potencial de los pagos futuros que la adquirente pudiera estar obligada a realizar conforme a las condiciones de la adquisición, o la circunstancia de que tal importe no existe, si así fuera.
+g) Para cualquier contraprestación contingente que dependa de eventos futuros así como para los activos recibidos como indemnización frente a alguna contingencia o incertidumbre: importe reconocido en la fecha de adquisición, descripción del acuerdo y, una estimación del intervalo de posibles resultados así como del importe máximo potencial de los pagos futuros que la adquirente pudiera estar obligada a realizar conforme a las condiciones de la adquisición, o si no pueden ser estimados se comunicará esta circunstancia así como los motivos por los que no pueden ser estimados.
 
-h) Respecto al fondo de comercio que pueda haber surgido en las combinaciones de negocio, la entidad deberá suministrar la información solicitada en el apartado 2 de la nota relativa al inmovilizado intangible.
+Se proporcionará esta misma información sobre los activos contingentes o activos por indemnización; por ejemplo, cuando en el acuerdo se incluya una cláusula en cuya virtud la adquirente deba ser indemnizada de la responsabilidad que se pudiera derivar por litigios pendientes de la adquirida.
 
-i) En las combinaciones de negocios en las que el coste de la combinación resulte inferior al valor de los activos identificables adquiridos menos el de los pasivos asumidos, el importe y la naturaleza de cualquier exceso que se reconozca en la cuenta de pérdidas y ganancias de acuerdo con lo establecido en la norma de registro y valoración y la partida en la que figure. Asimismo, en su caso, se describirán los activos intangibles que no hayan podido ser registrados por no poder calcularse su valoración por referencia a un mercado activo.
+h) Valor razonable de las cuentas a cobrar adquiridas, los importes contractuales brutos a cobrar, y la mejor estimación en la fecha de adquisición de los flujos de efectivo contractuales que no se espera cobrar. La información a revelar deberá proporcionarse por clase principal de cuenta a cobrar, tales como préstamos, arrendamientos financieros directos y cualquier otra clase de cuentas a cobrar.
 
-j) En las combinaciones de negocio en las cuales existiese una relación previa entre adquirente y adquirido, en la fecha de adquisición, se señalará la naturaleza de dicha relación y, en su caso, la valoración del importe para liquidar dicha relación previa, el método utilizado para su determinación y cualquier resultado reconocido como consecuencia de dicha liquidación así como la partida en la que figure.
+i) Respecto al fondo de comercio que pueda haber surgido en las combinaciones de negocio, la entidad deberá suministrar la información solicitada en el apartado 2 de la nota 7. Asimismo, deberá informarse del importe total del fondo de comercio que se espera que sea deducible fiscalmente.
 
-2. La información requerida en el apartado anterior se revelará de forma agregada para las combinaciones de negocios, efectuadas durante el ejercicio económico, que individualmente carezcan de importancia relativa.
+j) Para aquellos casos de «relación preexistente» donde la adquirida y adquirente mantuvieran una relación que existía antes de que se produjera la combinación de negocios: una descripción de la transacción, el importe reconocido de cada transacción, y si la transacción es la cancelación efectiva de una relación preexistente, el método utilizado para determinar el importe de dicha cancelación.
 
-Adicionalmente, la entidad adquirente proporcionará la información contenida en el apartado anterior para cada una de las combinaciones de negocios efectuadas o en curso entre la fecha de cierre de las cuentas anuales y la de su formulación, a menos que esto no sea posible. En este caso se señalarán las razones por las que esta información no puede ser proporcionada.
+2. En las combinaciones de negocios en las que el coste de la combinación resulte inferior al valor de los activos identificables adquiridos menos el de los pasivos asumidos, el importe y la naturaleza de cualquier exceso que se reconozca en la cuenta de pérdidas y ganancias de acuerdo con lo establecido en la norma de registro y valoración, así como, una descripción de las razones por las que la transacción dio lugar a una ganancia. Asimismo, en su caso, se describirán los inmovilizados intangibles y activos contingentes que no hayan podido ser registrados por no poder calcularse su valoración por referencia a un mercado activo.
 
-3. La entidad adquirente revelará, de forma separada para cada combinación de negocios efectuada durante el ejercicio, o agregadamente para las que carezcan individualmente de importancia relativa, la parte de los ingresos y el resultado imputable a la combinación desde la fecha de adquisición. También indicará los ingresos y el resultado del ejercicio que hubiera obtenido la entidad resultante de la combinación de negocios bajo el supuesto de que todas las combinaciones de negocio realizadas en el ejercicio se hubiesen efectuado en la fecha de inicio del mismo.
+3. En una combinación de negocios realizada por etapas:
+
+a) El valor razonable en la fecha de adquisición de las participaciones en el patrimonio de la adquirida, mantenidas por la adquirente inmediatamente antes de la fecha de adquisición.
+
+b) El importe de cualquier ganancia o pérdida reconocida procedente de valorar nuevamente a valor razonable la participación en el patrimonio de la adquirida mantenida por la adquirente antes de la combinación de negocios y la partida de la cuenta de pérdidas y ganancias en la que está reconocida dicha ganancia o pérdida.
+
+4. La información requerida en el apartado 1 se revelará de forma agregada para las combinaciones de negocios, efectuadas durante el ejercicio económico, que individualmente carezcan de importancia relativa.
+
+Adicionalmente, la entidad adquirente proporcionará la información contenida en el apartado primero de esta nota para cada una de las combinaciones de negocios efectuadas o en curso entre la fecha de cierre de las cuentas anuales y la de su formulación, a menos que esto no sea posible. En este caso se señalarán las razones por las que esta información no puede ser proporcionada.
+
+La sociedad o negocio adquirido deberá informar en sus cuentas anuales de los aspectos más significativos del proceso en marcha.
+
+5. La entidad adquirente revelará, de forma separada para cada combinación de negocios efectuada durante el ejercicio, o agregadamente para las que carezcan individualmente de importancia relativa, la parte de los ingresos y el resultado imputable a la combinación desde la fecha de adquisición. También indicará los ingresos y el resultado del ejercicio que hubiera obtenido la entidad resultante de la combinación de negocios bajo el supuesto de que todas las combinaciones de negocio realizadas en el ejercicio se hubiesen efectuado en la fecha de inicio del mismo.
 
 En el caso de que esta información no pudiese ser suministrada, se señalará este hecho y se motivará.
 
-4. Se indicará la siguiente información en relación con las combinaciones de negocios efectuadas durante el ejercicio o en los ejercicios anteriores:
+6. Se indicará la siguiente información en relación con las combinaciones de negocios efectuadas durante el ejercicio o en los ejercicios anteriores:
 
-a) Si el importe reconocido en cuentas se ha determinado provisionalmente, se señalarán los motivos por los que el reconocimiento inicial no es completo, los activos adquiridos y compromisos asumidos para los que el período de valoración está abierto y el importe y naturaleza de cualquier ajuste en la valoración efectuado durante el ejercicio.
+a) Si el importe reconocido en cuentas se ha determinado provisionalmente, se señalarán los motivos por los que el reconocimiento inicial no es completo, los activos adquiridos y compromisos asumidos para los que el periodo de valoración está abierto y el importe y naturaleza de cualquier ajuste en la valoración efectuado durante el ejercicio.
 
 b) Una descripción de los hechos o circunstancias posteriores a la adquisición que han dado lugar al reconocimiento durante el ejercicio de impuestos diferidos adquiridos como parte de la combinación de negocios.
 
 c) El importe y una justificación de cualquier ganancia o pérdida reconocida en el ejercicio que esté relacionada con los activos adquiridos o pasivos asumidos y sea de tal importe, naturaleza o incidencia que esta información sea relevante para comprender las cuentas anuales de la entidad resultante de la combinación de negocios.
 
-5. Los desgloses de información previstos en este apartado resultarán igualmente exigibles, cuando procedan, a las adquisiciones de carteras de pólizas y a los derechos de económicos de una cartera de pólizas adquiridas a favor de un mediador.
+d) Hasta que la entidad cobre, enajene o pierda de cualquier otra forma el derecho a un activo por una contraprestación contingente, o hasta que la entidad liquide un pasivo derivado de una contraprestación contingente o se cancele el pasivo o expire, se señalarán todos los cambios en los importes reconocidos incluyendo las diferencias que surjan en la liquidación, todos los cambios en el rango de resultados posibles sin descontar y sus razones de cambio, y las técnicas de valoración para valorar la contraprestación contingente.
+
+7. Los desgloses de información previstos en este apartado resultarán igualmente exigibles, cuando procedan, a las adquisiciones de carteras de pólizas y a los derechos de económicos de una cartera de pólizas adquiridas a favor de un mediador.
 
 20. Negocios conjuntos.
 
@@ -1846,7 +1882,7 @@ a) Cualquier compromiso de inversión de capital, que haya asumido en relación 
 
 b) Su participación en los compromisos de inversión de capital asumidos por los propios negocios conjuntos.
 
-4. Se desglosará para cada partida significativa del balance, de la cuenta de pérdidas y ganancias, del estado de flujos de efectivo y del estado de cambios en el patrimonio neto, los importes correspondientes a cada negocio conjunto.
+4. Se desglosarán para cada partida significativa del balance, de la cuenta de pérdidas y ganancias, del estado de flujos de efectivo y del estado de cambios en el patrimonio neto, los importes correspondientes a los negocios conjuntos. Esta información se incluirá de forma agregada para el total de negocios conjuntos en los que participa la empresa.
 
 21. Activos en venta y operaciones interrumpidas.
 
@@ -2296,5 +2332,7 @@ d) Saldo final.
 4. Se informará asimismo sobre la naturaleza y amplitud de las diferencias entre la provisión para prestaciones constituida al comienzo del ejercicio por los siniestros pendientes a esa fecha y la suma de los importes pagados durante el ejercicio por los siniestros incluidos en aquélla y el de la provisión constituida al final del ejercicio por dichos siniestros pendientes.
 
 No obstante, si existe alguna información significativa que no se incluye en ninguno de los apartados anteriores, deberá asimismo contemplarse.
+
+> Se modifica la norma 4ª y el modelo de memoria por el art. único.5 a 12 del Real Decreto 1736/2010, de 23 de diciembre. Ref. BOE-A-2010-20052.
 
 > Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 265, de 3 de noviembre de 2008. Ref. BOE-A-2008-17565.
