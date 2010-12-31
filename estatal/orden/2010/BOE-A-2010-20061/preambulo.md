@@ -4,6 +4,10 @@ Dichas Directivas y sus sucesivas modificaciones ya fueron incorporadas al orden
 
 Dado que estos Reglamentos Técnicos han sufrido importantes modificaciones a lo largo de estos años y que la Directiva 2009/74/CE, introduce igualmente amplias modificaciones en los anexos, se ha considerado más adecuado aprobar un nuevo Reglamento Técnico de Control y Certificación de Semillas de Maíz.
 
+Las características de las semillas de maíz descritas en el Reglamento serán tenidas en cuenta y serán aplicables a las importaciones de semillas de países terceros o a la comercialización de los procedentes del Espacio Europeo en aplicación del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero aprobado por Orden de 23 de mayo de 1986, con la excepción de las distancias mínimas de cultivo, donde se aplicarán las de los respectivos Estados de origen a partir de la certificación que, en el caso de terceros Estados, haga la Comisión Europea teniendo en cuenta las normas de la OCDE o simplemente en aplicación de las distancias que regule cada Estado del Espacio Europeo.
+
 En la elaboración de la presente disposición han sido consultadas las Comunidades Autónomas y las entidades representativas de los sectores afectados.
 
 En su virtud, de acuerdo con el Consejo de Estado, dispongo:
+
+> Se corrigen errores, añadiendo el párrafo cuarto, por Orden ARM/2553/2011, de 21 de septiembre. Ref. BOE-A-2011-15170.
