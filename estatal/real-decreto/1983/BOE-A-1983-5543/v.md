@@ -122,7 +122,7 @@ Composición de los ácidos grasos (porcentaje m/m).
 
 Ácido palmítico: 7-18 por 100.
 
-Ácido palmitoleico: 0,3-3 por 100.
+Ácido palmitoleico; 0,3-3 por 100.
 
 Ácido esteárico: 0,5-5 por 100.
 
@@ -368,7 +368,13 @@ Composición porcentual de los ésteres metílicos sobre el total de los ácidos
 
 Prueba del frío.
 
-Todos aquellos aceites en los que se haga constar que han sido sometidos al tratamiento de invernación (Winteración) deberán dar la prueba del frío negativa.
+Todos aquellos aceites en los que se haga constar que han sido sometidos al tratamiento de invernación (Winterización) deberán dar la prueba del frío negativa.
+
+3.3. Pruebas de pureza de los aceites de girasol alto esteárico-alto oleico.
+
+Estos aceites cumplirán con las características establecidas en el Anexo Pruebas de pureza de los aceites de girasol procedente de semillas con alto esteárico-alto oleico. Características que deben cumplir estos aceites, que se añade a esta reglamentación.
+
+Por tanto, los aceites refinados de girasol deberán cumplir o bien el conjunto de las características de pureza establecidas en el apartado V.3.2. o bien el conjunto de las características de pureza establecidas en el apartado V.3.3.
 
 4. Otras características.
 
@@ -397,6 +403,8 @@ b) Deberán ser fácilmente separables, por destilación con o sin arrastre de v
 c) Destilarán, como mínimo, en un 99,99 por 100 a una temperatura que no sobrepase los 95º centígrados.
 
 d) No contendrán residuos de azufre y metálicos, especialmente plomo, que puedan quedar retenidos por el aceite, en cantidades superiores a las que se establezcan.
+
+> Se añade el apartado 3.3 por el art. 2.1 del Real Decreto 1716/2010, de 17 de diciembre. Ref. BOE-A-2010-20067.
 
 > Se modifica el apartado 3.2 por el art. único.2 del Real Decreto 478/2007, de 13 de abril. Ref. BOE-A-2007-8579.
 
