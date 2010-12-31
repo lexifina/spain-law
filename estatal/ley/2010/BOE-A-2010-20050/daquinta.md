@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Aplicación de la norma de mayor protección ambiental a las aguas costeras.
+
+Cuando la legislación de aplicación del Texto Refundido de la Ley de Aguas, aprobado por Real Decreto Legislativo 1/2001, de 20 de julio, y en particular la planificación hidrológica, respecto de las aguas costeras, no contemple medidas para alcanzar los objetivos ambientales establecidos en la presente ley y en sus normas de desarrollo, o bien dichas medidas sean insuficientes para alcanzar dichos objetivos, será de aplicación la presente ley y sus normas de desarrollo. Sin perjuicio de lo anterior, será de aplicación en todo caso la norma que resulte más exigente respecto de la protección ambiental de dichas aguas.
