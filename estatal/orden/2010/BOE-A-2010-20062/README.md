@@ -10,11 +10,15 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [preambulo](preambulo.md)
 - [Artículo único](aunico.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
 - [Disposición final tercera](dftercera.md)
 - [firma](firma.md)
+- [ANEXO](an.md)
+- [ANEJO I](anejoi.md)
+- [ANEJO II](anejoii.md)
 - [ANEJO III](anejoiii.md)
 - [ANEJO IV](anejoiv.md)
