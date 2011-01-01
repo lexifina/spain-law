@@ -6,10 +6,10 @@
 | --- | --- | --- |
 | Perjuicios económicos |  |  |
 | Ingresos netos anuales de la víctima por trabajo personal: |  |  |
-| Hasta 26.419,06 euros (1) | Hasta el 10. | – |
-| De 26.419,07 a 52.838,11 euros | Del 11 al 25. | – |
-| De 52.838,12 hasta 88.063,51 euros | Del 26 al 50. | – |
-| Más de 88.063,51 euros | Del 51 al 75. | – |
+| Hasta 27.211,63 euros (1) | Hasta el 10. | – |
+| De 27.211,64 a 54.423,25 euros | Del 11 al 25. | – |
+| De 54.423,26 hasta 90.705,42 euros | Del 26 al 50. | – |
+| Más de 90.705,42 euros | Del 51 al 75. | – |
 | Circunstancias familiares especiales |  |  |
 | Discapacidad física o psíquica acusada (anterior al accidente) del perjudicado/beneficiario: |  |  |
 | Si es cónyuge o hijo menor | Del 75 al 100 (2). | – |
@@ -19,19 +19,19 @@
 | Si es menor | Del 30 al 50. | – |
 | Si es mayor, con menos de veinticinco años | Del 20 al 40. | – |
 | Si es mayor, con más de veinticinco años | Del 10 al 25. | – |
-| Fallecimiento de ambos padres en el accidente: |  |  |
+| Fallecimiento de ambos padres en el accidente |  |  |
 | Con hijos menores | Del 75 al 100 (3). | – |
 | Sin hijos menores: |  |  |
 | Con hijos menores de veinticinco años | Del 25 al 75 (3). | – |
 | Sin hijos menores de veinticinco años | Del 10 al 25 (3). | – |
 | Víctima embarazada con pérdida de feto a consecuencia del accidente |  |  |
 | Si el concebido fuera el primer hijo: |  |  |
-| Hasta el tercer mes de embarazo | 13.209,53 | – |
-| A partir del tercer mes | 35.225,41 | – |
+| Hasta el tercer mes de embarazo | 13.605,81 | – |
+| A partir del tercer mes | 36.282,17 | – |
 | Si el concebido fuera el segundo hijo o posteriores: |  |  |
-| Hasta el tercer mes | 8.806,35 | – |
-| A partir del tercer mes | 17.612,70 | – |
-| Elementos correctores del apartado primero. 7 de este anexo | – | Hasta el 75. |
+| Hasta el tercer mes | 9.070,54 | – |
+| A partir del tercer mes | 18.141,08 | – |
+| Elementos correctores del apartado primero.7 de este anexo |  | Hasta el 75. |
 
 (1) Se incluirá en este apartado cualquier víctima en edad laboral, aunque no se justifiquen ingresos.
 
@@ -39,9 +39,11 @@
 
 (3) Sobre la indemnización básica que corresponda a cada perjudicado.
 
-> Se actualizan las cuantías con vigencia durante el año 2010 por el anexo de la Resolución de 31 de enero de 2010. Ref. BOE-A-2010-1819.
+> Se actualizan las cuantías con vigencia durante el año 2011 por el Anexo de la Resolución de 20 de enero de 2011. Ref. BOE-A-2011-1494.
 
-> Se actualizan las cuantías con vigencia durante el año 2009 por el anexo de la Resolución de 20 de enero de 2009. Ref. BOE-A-2009-1669.
+> Se actualizan las cuantías con vigencia durante el año 2010 por el Anexo de la Resolución de 31 de enero de 2010. Ref. BOE-A-2010-1819.
+
+> Se actualizan las cuantías con vigencia durante el año 2009 por el Anexo de la Resolución de 20 de enero de 2009. Ref. BOE-A-2009-1669.
 
 > Se actualizan las cuantías con vigencia durante el año 2008 por el Anexo de la Resolución de 17 de enero de 2008. Ref. BOE-A-2008-1262.
 
