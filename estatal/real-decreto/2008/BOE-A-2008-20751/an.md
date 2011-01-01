@@ -181,7 +181,7 @@ En promociones de vivienda protegida de nueva construcción (para venta o alquil
 
 En actuaciones protegidas financiadas únicamente con subvención (ayudas a inquilinos, ayudas RENOVE para actuaciones de rehabilitación y ayudas para erradicación del chabolismo): el reconocimiento del derecho a la misma por parte de las Comunidades autónomas y ciudades de Ceuta y Melilla.
 
-En las áreas de rehabilitación integral y renovación urbana y en las de urbanización prioritaria de suelo: la suscripción del preceptivo acuerdo tripartito (Ministerio de Vivienda, Comunidad Autónoma y Ayuntamiento), en el marco de una comisión bilateral de seguimiento.
+En las áreas de urbanización integral y renovación urbana y en las de urbanización prioritaria de suelo, así como en la promoción de alojamientos protegidos: la suscripción del preceptivo acuerdo tripartito (Ministerio de Fomento, Comunidad Autónoma y Ayuntamiento), en el marco de una comisión bilateral de seguimiento.
 
 Opción de compra.
 
@@ -274,3 +274,5 @@ b) Viviendas libres de nueva construcción, adquiridas cuando haya transcurrido 
 c) Viviendas rurales usadas, en las condiciones que determinen las Comunidades autónomas y ciudades de Ceuta y Melilla.
 
 d) Viviendas libres a las que se refiere la disposición transitoria primera, 2.c).
+
+> Se modifica el último párrafo del apartado 2 del concepto "objetivos y su consecución o logro" por el art. único.25 del Real Decreto 1713/2010, de 17 de diciembre. Ref. BOE-A-2010-19461.
