@@ -1,5 +1,0 @@
-## ANEXO
-
-## SOLICITUD PARA LA AUTORIZACIÓN DE AGENCIAS DE COLOCACIÓN SIN FINES LUCRATIVOS
-
-![imagen](https://www.boe.es/datos/imagenes/disp/1995/109/10881-001.png)
