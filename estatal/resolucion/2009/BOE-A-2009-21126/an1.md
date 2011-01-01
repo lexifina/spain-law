@@ -2,14 +2,16 @@
 
 ## Límites de las ayudas por traslado de enfermos, salud mental y productos sanitarios para diabéticos
 
-| PRESTACIÓN | LÍMITE DE LA AYUDA |
+| Prestación | Límite de la ayuda |
 | --- | --- |
-| AYUDA PARA GASTOS DE HOSPEDAJE Y MANUTENCIÓN | 25 € por día |
-| AYUDA PARA MANUTENCIÓN | 12 € por día |
-| AYUDA POR TRANSPORTE ORDINARIO DE ACOMPAÑANTE | Importe de los billetes del medio de transporte utilizado |
-| HOSPITALIZACIÓN PSIQUIÁTRICA EN RÉGIMEN DE INTERNAMIENTO (AYUDA POR CADA ESTANCIA) | 84,70 euros |
-| HOSPITALIZACIÓN PSIQUIÁTRICA EN RÉGIMEN DE HOSPITAL DE DÍA (AYUDA POR CADA ESTANCIA DIURNA) | 49 euros |
-| PSICOTERAPIA (IMPORTE MÁXIMO POR CADA SESIÓN) | 41,60 euros |
-| AGUJAS PARA INYECTORES DE INSULINA (IMPORTE MENSUAL MÁXIMO) | 27,20 euros |
-| MATERIAL FUNGIBLE PARA BOMBAS DE INSULINA (IMPORTE MENSUAL MÁXIMO) | 251,80 euros |
-| REFLECTÓMETRO (AYUDA POR EQUIPO) | 54,70 euros |
+| Ayuda para gastos de hospedaje y manutención | 25 euros por día. |
+| Ayuda para manutención. | 12 euros por día. |
+| Ayuda por transporte ordinario de acompañante | Importe de los billetes del medio de transporte utilizado. |
+| Hospitalización psiquiátrica en régimen de internamiento (ayuda por cada estancia) | 85,70 euros. |
+| Hospitalización psiquiátrica en régimen de hospital de día (ayuda por cada estancia diurna) | 49 euros. |
+| Psicoterapia (importe máximo por cada sesión) | 41,60 euros. |
+| Agujas para inyectores de insulina (importe mensual máximo) | 27,20 euros. |
+| Material fungible para bombas de insulina (importe mensual máximo) | 254,80 euros. |
+| Reflectómetro (ayuda por equipo) | 54,70 euros. |
+
+> Se actualiza por Resolución 4B0/38257/2010, de 9 de diciembre. Ref. BOE-A-2010-19455.
