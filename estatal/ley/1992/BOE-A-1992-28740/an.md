@@ -22,9 +22,9 @@ Quinto. Régimen de depósito distinto de los aduaneros:
 
 Definición del régimen:
 
-a) En relación con los bienes objeto de Impuestos Especiales, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable en los supuestos de fabricación, transformación o tenencia de productos objeto de los Impuestos Especiales de fabricación en fábricas o depósitos fiscales, de circulación de los referidos productos entre dichos establecimientos y de importación de los mismos con destino a fábrica o depósito fiscal.
+a) En relación con los bienes objeto de Impuestos Especiales, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable en los supuestos de fabricación, transformación o tenencia de los productos objeto de los Impuestos Especiales de fabricación en fábricas o depósitos fiscales, de circulación de los referidos productos entre dichos establecimientos y de importación de los mismos con destino a fábrica o depósito fiscal.
 
-A los efectos del párrafo anterior, la electricidad no tendrá la consideración de bien objeto de los Impuestos Especiales.
+Lo dispuesto en el párrafo anterior resultará igualmente aplicable al gas natural entregado a través de una red situada en el territorio de la Comunidad o de cualquier red conectada a dicha red.
 
 b) En relación con los demás bienes, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable a los bienes excluidos del régimen de depósito aduanero por razón de su origen o procedencia con sujeción, en lo demás, a las mismas normas que regulan el mencionado régimen aduanero.
 
@@ -126,6 +126,8 @@ Se considerarán oro de inversión a efectos de esta Ley los lingotes o láminas
 | 5 | tael. |
 | 1 | tael. |
 | 10 | tolas. |
+
+> Se modifica el apartado 5 a) por el art. 79.13 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
 
 > Se modifica el apartado 7º por el art. 7.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
 
