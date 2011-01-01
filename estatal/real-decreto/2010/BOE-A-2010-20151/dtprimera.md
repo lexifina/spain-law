@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Agencias de colocación sin ánimo de lucro autorizadas.
+
+Según lo dispuesto en la disposición transitoria décima de la Ley 35/2010, de 17 de septiembre, las agencias de colocación autorizadas de acuerdo con el Real Decreto 735/1995, de 5 de mayo, dispondrán de un plazo de seis meses desde la entrada en vigor de este real decreto para adecuarse a la nueva regulación de las agencias de colocación y solicitar la correspondiente autorización. No obstante lo dispuesto en la disposición derogatoria, estas agencias podrán seguir desarrollando su actividad al amparo del citado Real Decreto 735/1995, de 5 de mayo, hasta en tanto sean autorizadas con arreglo a lo dispuesto en este real decreto o finalice el plazo de adecuación anteriormente señalado.
+
+Las solicitudes de autorización presentadas y no aprobadas a la entrada en vigor de este real decreto, quedarán sin efecto a partir de esa fecha, sin perjuicio de que deba dictarse resolución expresa en tal sentido, de acuerdo con lo establecido en el artículo 42 de la Ley 30/1992, de 26 de noviembre.
