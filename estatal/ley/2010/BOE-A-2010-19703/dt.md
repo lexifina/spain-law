@@ -1,3 +1,5 @@
 ## Disposición transitoria séptima. Incentivos fiscales para las empresas de reducida dimensión en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
 
-Durante los años 2011 y 2012, se exoneran de la modalidad de operaciones societarias los aumentos de capital social de todas las entidades que cumplan con los requisitos establecidos para la aplicación del régimen de incentivos fiscales para las empresas de reducida dimensión, regulado en el Capítulo XII del Título VII del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto-ley 14/2010, de 23 de diciembre. Ref. BOE-A-2010-19757.
