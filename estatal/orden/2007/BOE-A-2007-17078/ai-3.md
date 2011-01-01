@@ -114,6 +114,10 @@ Decimoséptimo. Plazos para la realización de propuestas.
 
 2. Asimismo, el Operador del Sistema en coordinación con su homólogo portugués, en el plazo de tres meses contados a partir de la publicación del presente anexo, presentará al Ministerio de Industria, Turismo y Comercio la propuesta donde se determine el servicio de disponibilidad del sistema y los productos asociados al mismo, y la propuesta de procedimiento de contratación de cada uno de los productos y de verificación del cumplimiento del contrato a que se refieren los puntos quinto y séptimo respectivamente del presente anexo.
 
+> Véase la disposición adicional 4 de la Orden ITC/3353/2010, de 28 de diciembre. Ref. BOE-A-2010-20002#dacuarta, sobre precio unitario para la financiación de los pagos por capacidad de los peajes de acceso, a partir del 1 de enero de 2011.
+
+> Redactado conforme a la corrección publicada por el art. único. 4 de la Orden ITC/1068/2011, de 28 de abril. Ref. BOE-A-2011-7633
+
 > Se modifica el párrafo final del apartado 10 por la disposición final 1 de la Orden ITC/3801/2008, de 26 de diciembre. Ref. BOE-A-2008-21009
 
 > Se deroga el apartado 18 y se añade el párrafo final al apartado 10 por la disposición derogatora única y la final 1, respectivamente, de la Orden ITC/3860/2007, de 28 de diciembre. Ref. BOE-A-2007-22458

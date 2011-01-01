@@ -1,0 +1,13 @@
+## Disposición transitoria segunda. Consumidores que sin tener derecho a acogerse a la tarifa de último recurso, transitoriamente carecen de un contrato de suministro en vigor con un comercializador y continúen consumiendo electricidad.
+
+1. Los consumidores conectados en alta tensión que a 31 de diciembre de 2010 estén siendo suministrados por un comercializador de último recurso y el 1 de enero de 2011 carezcan de un contrato de suministro en el mercado libre, siempre que no estén incluidos en la excepción establecida en el artículo 3.3 del Real Decreto 485/2009, de 3 de abril, podrán seguir siendo suministrados por dicho comercializador de último recurso hasta el 31 de diciembre del 2011.
+
+El precio que deberán pagar estos clientes por la electricidad consumida al comercializador de último recurso durante este periodo será el correspondiente a la aplicación de la facturación de la tarifa de último recurso, TUR sin aplicación de la modalidad de discriminación horaria, incrementado sus términos un 20 por ciento.
+
+2. Los consumidores conectados en baja tensión sin derecho a tarifa de último recurso que a 30 de septiembre de 2011 estén siendo suministrados por un comercializador de último recurso y el 1 de octubre de 2011 carezcan de un contrato de suministro en el mercado libre, siempre que no estén incluidos en la excepción establecida en el artículo 3.3 del Real Decreto 485/2009, de 3 de abril, podrán seguir siendo suministrados por dicho comercializador de último recurso hasta el 31 de diciembre del 2011.
+
+El precio que deberán pagar estos clientes por la electricidad consumida al comercializador de último recurso durante este periodo será el correspondiente a la aplicación de la facturación de la tarifa de último recurso, TUR sin aplicación de la modalidad de discriminación horaria, incrementado sus términos un 20 por ciento.
+
+3. Si el 1 de enero de 2012 los consumidores a que se refieren los párrafos anteriores no han procedido a contratar su suministro en el mercado libre, se considerará rescindido el contrato entre el consumidor y el comercializador de último recurso siendo de aplicación a estos efectos lo establecido en el artículo 86.2 del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministros y procedimientos de autorización de instalaciones de energía eléctrica.
+
+Asimismo será de aplicación lo dispuesto en el artículo 21.3 de la Orden ITC/1659/2009, de 22 de junio, por la que se establece el mecanismo de traspaso de clientes del mercado a tarifa al suministro de último recurso de energía eléctrica y el procedimiento de cálculo y estructura de las tarifas de último recurso de energía eléctrica.
