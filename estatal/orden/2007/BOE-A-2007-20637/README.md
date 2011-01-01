@@ -41,6 +41,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO VI](av-2.md)
 - [ANEXO VII](av-3.md)
 - [ANEXO VIII](av-4.md)
+- [ANEXO VIII bis](av-6.md)
 - [ANEXO IX](ai-5.md)
 - [ANEXO X](ax.md)
 - [ANEXO XI](ax-2.md)
