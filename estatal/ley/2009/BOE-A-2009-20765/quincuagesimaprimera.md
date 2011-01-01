@@ -12,8 +12,12 @@ Cuatro. El Ministerio de Defensa podrá encomendar al Organismo la utilización 
 
 Cinco. Los ingresos procedentes de la actividad de este organismo podrán ser aplicados por el mismo a los fines de profesionalización y modernización de la Defensa y del personal al servicio de la misma y a programas específicos de investigación, desarrollo e innovación en este mismo ámbito.
 
+Así mismo, el Organismo, de conformidad con el procedimiento que se determine reglamentariamente, podrá remitir fondos al Estado para atender necesidades operativas o de inversión de las Fuerzas Armadas mediante la oportuna generación de crédito en el Presupuesto del Ministerio de Defensa. La competencia para autorizar la generación corresponderá a la Ministra de Economía y Hacienda.
+
 Seis. Durante el plazo de tres años a partir de la entrada en vigor de esta Ley, y sin perjuicio de lo expuesto en el apartado uno de este artículo, el Organismo Autónomo Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa, podrá enajenar las viviendas militares y los demás bienes inmuebles que estuvieren inscritos en los diferentes registros de la propiedad a favor del Instituto para la Vivienda de las Fuerzas Armadas o de los extintos patronatos de casas militares del Ejército de Tierra, de casas de la Armada y de casas del Ejército del Aire, y de la Gerencia de Infraestructura y Equipamiento de la Defensa, sin necesidad de actualizar las titularidades registrales de dichos bienes o de los que se pusieren a su disposición, así como, en su caso, de los bienes muebles de los que sea titular.
 
 Siete. En el plazo de seis meses a partir de la publicación de esta Ley se procederá a adaptar su estructura y la normativa rectora de su actividad para la plena asunción y ejecución de sus competencias.
 
 Ocho. En el citado plazo se procederá a modificar el Real Decreto 1126/2008, de 4 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa para acoger la nueva organización.
+
+> Se modifica el apartado 5, con efectos desde el 1 de enero de 2010, por la disposición final 14.3 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
