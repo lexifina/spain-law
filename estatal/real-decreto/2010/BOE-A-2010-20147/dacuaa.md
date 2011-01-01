@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Centros universitarios de la defensa.
+
+De acuerdo con lo establecido en los artículos 67 y 68 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, los estudiantes que cursen sus enseñanzas en el sistema de centros universitarios de la defensa, creados por Real Decreto 1723/2008, de 24 de octubre, unen a su condición de universitarios la de militares, por lo que en el ejercicio de los derechos y deberes recogidos en este Estatuto del Estudiante Universitario se atenderá al régimen jurídico que rige para las Fuerzas Armadas que les sea de aplicación, así como a los correspondientes convenios de adscripción firmados con universidades públicas.
