@@ -1,0 +1,3 @@
+## Disposición adicional primera. Aplicabilidad del Real Decreto 1027/1989, de 28 de julio, por el que se regula el abanderamiento, matriculación de buques y registro marítimo.
+
+Lo dispuesto en el Real Decreto 1027/1989, de 28 de julio, por el que se regula el abanderamiento, matriculación de buques y registro marítimo, no será de aplicación a las embarcaciones abanderadas y registradas ni a las que pretendan abanderarse y registrarse en las listas sexta o séptima, en relación con los supuestos regulados en este real decreto, para los que serán de aplicación los procedimientos establecidos en el mismo.
