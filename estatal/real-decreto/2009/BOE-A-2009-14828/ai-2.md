@@ -714,17 +714,7 @@ Secuencia:
 
 Criterios de acceso para los alumnos
 
-Se debe demostrar o acreditar un nivel de competencia en los ámbitos señalados a continuación que asegure la formación mínima necesaria para cursar el módulo con aprovechamiento:
-
-• Comunicación en lengua castellana.
-
-• Competencia matemática.
-
-• Competencia en ciencia.
-
-• Competencia en tecnología.
-
-• Competencia digital.
+Serán los establecidos en el artículo 4 del real decreto que regula el certificado de profesionalidad de la familia profesional al que acompaña este anexo.
 
 MÓDULO FORMATIVO 2
 
@@ -1186,17 +1176,7 @@ Secuencia:
 
 Criterios de acceso para los alumnos
 
-Se debe demostrar o acreditar un nivel de competencia en los ámbitos señalados a continuación que asegure la formación mínima necesaria para cursar el módulo con aprovechamiento:
-
-• Comunicación en lengua castellana.
-
-• Competencia matemática.
-
-• Competencia en ciencia.
-
-• Competencia en tecnología.
-
-• Competencia digital.
+Serán los establecidos en el artículo 4 del real decreto que regula el certificado de profesionalidad de la familia profesional al que acompaña este anexo.
 
 MÓDULO DE PRÁCTICAS PROFESIONALES NO LABORALES ENGORDE DE PECES, CRUSTÁCEOS Y CEFALÓPODOS
 
@@ -1322,7 +1302,7 @@ Contenidos
 
 IV. PRESCRIPCIONES DE LOS FORMADORES
 
-| Módulo Formativo | Titulación requerida | Experiencia profesional requerida en el ámbito de la unidad de competencia |
+| Módulo Formativo | Acreditación | Experiencia profesional requerida en el ámbito de la unidad de competencia |
 | --- | --- | --- |
 | MF0019_2: Engorde en jaulas. | • Licenciado en Biología. • Licenciado en Ciencias del Mar. • Licenciado en Ciencia y Tecnología de los Alimentos. • Licenciado en Veterinaria. • Técnico Superior en Producción Acuícola. • Certificado de profesionalidad de nivel 3 de la familia Marítimo-pesquera (área de acuicultura). | 2 años |
 | MF0020_2: Engorde en instalaciones en tierra. | • Licenciado en Biología. • Licenciado en Ciencias del Mar. • Licenciado en Ciencia y Tecnología de los Alimentos. • Licenciado en Veterinaria. • Técnico Superior en Producción Acuícola. • Certificado de profesionalidad de nivel 3 de la familia Marítimo-pesquera (área de acuicultura). | 2 años |
@@ -1360,3 +1340,5 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se sustituye en el apartado IV la denominación «Titulación requerida» por el término «Acreditación», y se modifican en el apartado III los criterios de acceso para los alumnos, por el art. 2.3 y 4 del Real Decreto 1675/2010, de 10 de diciembre. Ref. BOE-A-2010-20148

@@ -510,15 +510,7 @@ Para acceder a la unidad formativa 2 debe haberse superado la unidad formativa 1
 
 Criterios de acceso para los alumnos
 
-Se debe demostrar o acreditar un nivel de competencia en los ámbitos señalados a continuación que asegure la formación mínima necesaria para cursar el módulo con aprovechamiento:
-
-• Comunicación en lengua castellana.
-
-• Competencia matemática.
-
-• Competencia digital.
-
-• Competencias sociales en el ámbito histórico.
+Serán los establecidos en el artículo 4 del real decreto que regula el certificado de profesionalidad de la familia profesional al que acompaña este anexo.
 
 MÓDULO FORMATIVO 2
 
@@ -711,15 +703,7 @@ Secuencia:
 
 Criterios de acceso para los alumnos
 
-Se debe demostrar o acreditar un nivel de competencia en los ámbitos señalados a continuación que asegure la formación mínima necesaria para cursar el módulo con aprovechamiento:
-
-• Comunicación en lengua castellana.
-
-• Competencia matemática.
-
-• Competencia digital.
-
-• Competencias sociales en el ámbito histórico.
+Serán los establecidos en el artículo 4 del real decreto que regula el certificado de profesionalidad de la familia profesional al que acompaña este anexo.
 
 MÓDULO DE PRÁCTICAS PROFESIONALES NO LABORALES DE CONFECCIÓN Y MANTENIMIENTO DE ARTES Y APAREJOS
 
@@ -823,7 +807,7 @@ Contenidos
 
 IV. PRESCRIPCIONES DE LOS FORMADORES
 
-| Módulos Formativo | Titulación requerida | Experiencia profesional requerida en el ámbito de la unidad de competencia |
+| Módulos Formativo | Acreditación | Experiencia profesional requerida en el ámbito de la unidad de competencia |
 | --- | --- | --- |
 | Si se cuenta con titulación | Si no se cuenta con titulación |
 | MF00013_2: Montaje de artes y aparejos de pesca. | – Capitán de pesca. – Técnico Superior de Navegación, pesca y transporte marítimo. – Certificado de profesionalidad de nivel 3 de la familia Marítimo-pesquera (área de pesca y navegación). | 3 años | 4 años |
@@ -851,3 +835,5 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se sustituye en el apartado IV la denominación «Titulación requerida» por el término «Acreditación», y se modifican en el apartado III los criterios de acceso para los alumnos, por el art. 2.3 y 4 del Real Decreto 1675/2010, de 10 de diciembre. Ref. BOE-A-2010-20148
