@@ -1,3 +1,5 @@
 ## Disposición adicional segunda. Régimen especial de los pequeños establecimientos de hostelería y restauración en los que está permitido fumar.
 
-Los establecimientos de hostelería y restauración, en los que no existe prohibición legal de fumar, por tratarse de establecimientos cerrados, que sirvan alimentos y/o bebidas para su consumo, con una superficie útil destinada a clientes y/o visitantes inferior a cien metros cuadrados, deberán informar, en la forma que se señale en la normativa autonómica, en castellano y en la lengua cooficial, acerca de la de la decisión de permitir fumar o no en su interior. Igualmente, se regulará autonómicamente la información que se deberá incorporar a los anuncios publicitarios, propaganda y demás medios en que anuncie o informe sobre el establecimiento.
+(Suprimida)
+
+> Se suprime por el art. único.19 de la Ley 42/2010, de 30 de diciembre. Ref. BOE-A-2010-20138.
