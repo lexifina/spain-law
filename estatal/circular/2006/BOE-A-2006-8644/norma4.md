@@ -6,4 +6,6 @@
 
 3. Las sociedades gestoras deberán establecer planes de formación y evaluación continuada para asegurar la adecuada formación del personal.
 
-4. Con el fin de cubrir mejor eventuales riesgos operacionales, los recursos propios exigibles a las sociedades gestoras sujetas a esta Circular serán la suma de los requeridos con carácter general por el artículo 70 del Reglamento de la Ley de IIC más el 4 por 100 de los ingresos brutos por comisiones que obtengan por la gestión de las IIC reguladas en esta Circular. Las exigencias de recursos propios así calculadas se determinarán como promedio de los tres últimos años.
+4. Con el fin de cubrir eventuales riesgos operacionales, los recursos propios exigibles a las sociedades gestoras sujetas a esta Circular serán la suma de los requeridos con carácter general por el artículo 70 del reglamento de la Ley de IIC más el 4 por 100 de los ingresos brutos por comisiones que obtengan por la gestión de instituciones de inversión libre reguladas en la presenta circular, así como sobre las extranjeras asimilables. Las exigencias de recursos propios así calculadas se determinarán como promedio de los tres últimos años.
+
+> Se modifica el apartado 4 por la disposición adicional 5 de la Circular 6/2010, de 21 de diciembre. Ref. BOE-A-2011-551.
