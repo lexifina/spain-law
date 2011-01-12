@@ -30,9 +30,13 @@ Cuatro. Requisitos de inscripción de las Empresas navieras y de los buques.
 
 Para la inscripción de las empresas navieras, será necesaria únicamente la aportación del certificado de su inscripción en el Registro Mercantil donde se refleje que el objeto social incluye la explotación económica de buques mercantes bajo cualquier modalidad que asegure la disponibilidad sobre la totalidad del buque.
 
+También podrán solicitar su inscripción en el Registro especial los organismos públicos o la Administración pública que, cumpliendo los requisitos anteriormente establecidos, ostenten la titularidad o la posesión por cualquier título que garantice la disponibilidad sobre la totalidad de los buques civiles a que se refiere el apartado Cuatro.2.a), aportando una certificación del órgano competente que acredite la titularidad o posesión del buque.
+
 2. Las empresas a que se refiere el número anterior podrán solicitar la inscripción en el Registro especial de aquellos buques que cumplan los siguientes requisitos:
 
 a) Tipo de buques: todo buque civil apto para la navegación con un propósito mercantil, excluidos los dedicados a la pesca, ya estén los buques construidos o en construcción.
+
+Se considerarán también inscribibles los buques civiles de titularidad o posesión pública que desempeñen funciones que pudieran tener propósito mercantil si pertenecieran al sector privado.
 
 b) Tamaño mínimo: 100 GT.
 
@@ -63,6 +67,8 @@ Las condiciones laborales y de Seguridad Social de los trabajadores no nacionale
 Ocho. Normativa aplicable en materia de jornada laboral y descansos.
 
 En materia de jornada laboral y descansos, los buques inscritos en el Registro Especial se regirán por lo dispuesto en la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto legislativo 1/1995, de 24 de marzo, y en la normativa sectorial específica, constituida por el Real Decreto 1561/1995, de 21 de septiembre, sobre jornadas especiales de trabajo, o la norma que lo sustituya, con excepción de lo dispuesto en el apartado 2 del artículo 35 del Estatuto de los Trabajadores, que no será de aplicación.
+
+> Se añade el tercer párrafo al apartado 4.1 y el segundo párrafo al apartado 4.2.a), con efectos de 1 de enero de 2011, por la disposición final 2 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
 
 > Se modifican los apartados 3.1 y 5 por la disposición final 2.44 y 45 de la Ley 30/2010, de 5 de agosto. Ref. BOE-A-2010-12703
 

@@ -30,6 +30,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 9 bis Dos.](a9bisdos.md)
 - [Artículo 9 bis Tres.](a9bistres.md)
 - [Artículo 9 bis Cuatro.](a9biscuatro.md)
+- [Artículo 9 bis Cinco.](a9biscinco.md)
 - [Artículo 10](a10.md)
 - [Artículo 11](a11.md)
 - [Artículo ](a.md)

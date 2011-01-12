@@ -15,3 +15,9 @@ En el caso del integrado Montepío de Funcionarios de la Organización Sindical,
 5. Cuando coincida en una misma situación o contingencia la protección que se otorga con cargo al Fondo especial por la Mutualidades integradas y la que se dispensa por la Mutualidad General, el Reglamento General del Mutualismo Administrativo establecerá las normas a aplicar, sin que en ningún caso pueda percibirse más de una prestación, ni pueda exigirse doble cotización por prestaciones sustancialmente idénticas.
 
 6. Las pensiones abonadas por el Fondo especial de la Mutualidad General de Funcionarios Civiles del Estado tienen el carácter de públicas y, consiguientemente, les resultan de aplicación los límites legalmente establecidos tanto para el señalamiento inicial como para su revalorización, así como para la concurrencia de pensiones.
+
+7. Las prestaciones y pensiones citadas en el apartado 1 anterior que, una vez reconocidas, exijan un pago económico a los socios o beneficiarios, serán abonadas únicamente en la cuenta corriente o libreta ordinaria abierta a su nombre.
+
+8. Respecto de las prestaciones de MUFACE, que exijan un pago periódico o vitalicio al mutualista o sus beneficiarios y que hayan sido reconocidas o solicitadas antes de 1 de enero de 2011, los habilitados de Clases Pasivas estarán obligados a abonar a su mandante, ya sea mediante transferencia bancaria o mediante cheque el importe íntegro de la prestación que le haya sido pagado por MUFACE, sin practicar deducción alguna. Las comisiones, gastos de gestión, o impuestos derivados del ejercicio de la actividad profesional que repercuta en su cliente deberán cobrarlos de forma separada.
+
+> Se añaden los apartados 7 y 8, con efectos de 1 de enero de 2011, por la disposición final 7.5 y 6 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.

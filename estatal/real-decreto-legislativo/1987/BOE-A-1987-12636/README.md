@@ -108,6 +108,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional novena](novena.md)
 - [Disposición adicional décima](decima.md)
 - [Disposición adicional undécima](undecima.md)
+- [Disposición adicional duodécima](duodecima.md)
 - [Disposición transitoria primera](primera-2.md)
 - [Disposición transitoria segunda](segunda-2.md)
 - [Disposición transitoria tercera](tercera-2.md)
