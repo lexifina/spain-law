@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Delegación de atribuciones y adscripciones provisionales.
+
+1. Las delegaciones de atribuciones, otorgadas por los distintos órganos del Departamento y no revocadas hasta la fecha de entrada en vigor de este real decreto, continuarán siendo válidas y podrán hacer uso de ellas los órganos competentes por razón de la materia que vengan a sustituir a los delegados, hasta que sean expresamente revocadas o nuevamente otorgadas a los diferentes órganos resultantes de la aplicación de este real decreto.
+
+2. Las Unidades y puestos de trabajo encuadrados en los órganos suprimidos, o cuya dependencia orgánica haya sido modificada por este real decreto, se adscribirán provisionalmente, mediante resolución del titular de la Subsecretaría, y previo acuerdo, en su caso, del Secretario de Estado correspondiente, hasta tanto entre en vigor la nueva relación de puestos de trabajo, a los órganos regulados en este real decreto, en función de las atribuciones que éstos tengan asignadas.
