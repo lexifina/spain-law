@@ -6,4 +6,6 @@ Asimismo, aquellos aplazamientos concedidos con anterioridad a la fecha indicada
 
 Los beneficiarios de aplazamientos concedidos con anterioridad a 1 de enero de 2011 con vencimientos pendientes de ingreso a dicha fecha, podrán optar por domiciliar tales vencimientos previa solicitud y en los términos establecidos en el artículo 17 bis de esta orden. Ejercitada la opción, la domiciliación en cuenta se mantendrá durante toda la vigencia del aplazamiento concedido.
 
+> Véase la Resolución de 12 de enero de 2011. Ref. BOE-A-2011-739. que fija a partir de 1 de febrero de 2011, la obligación prevista en esta disposición adicional.
+
 > Se añade por el art. único.9 de la Orden TIN/2777/2010, de 29 de octubre. Ref. BOE-A-2010-16552.
