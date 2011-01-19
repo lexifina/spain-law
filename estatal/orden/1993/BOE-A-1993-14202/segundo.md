@@ -8,8 +8,10 @@
 
 4. La declaración deberá efectuarse de forma perfectamente clara y legible, a cuyo efecto habrá de utilizarse papel claro y cumplimentar los datos necesarios con letra oscura.
 
-5. Las declaraciones habrán de efectuarse en dos ejemplares, uno de los cuales se devolverá al declarante haciendo constar la fecha de presentación, y el otro permanecerá en las dependencias de la Dirección General de la Guardia Civil para efectuar la transmisión de su contenido al Estado comunitario de destino y, en su caso, a los de tránsito.
+5. Las declaraciones habrán de efectuarse en dos ejemplares, uno de los cuales se devolverá al declarante haciendo constar la fecha de presentación, y el otro permanecerá en las dependencias de la Dirección General de la Policía y de la Guardia Civil (ámbito de la Guardia Civil) para efectuar la transmisión de su contenido al Estado comunitario de destino y, en su caso, a los de tránsito.
 
-6. La presentación de la declaración habrá de dirigirse, necesariamente, a la Intervención de Armas de la Guardia Civil que corresponda al lugar desde el que haya de iniciarse la expedición de transferencia, que no podrá dar comienzo hasta que dicha Intervención haya visado la declaración, haciendo constar la fecha de recepción de la misma con total corrección de su contenido.
+6. La presentación de la declaración habrá de dirigirse, necesariamente, a la Intervención de Armas y Explosivos de la Guardia Civil que corresponda al lugar desde el que haya de iniciarse la expedición de transferencia, que no podrá dar comienzo hasta que dicha Intervención haya visado la declaración, haciendo constar la fecha de recepción de la misma con total corrección de su contenido.
 
 7. El modelo de Declaración de Transferencia deberá utilizarse a partir de la fecha de publicación de la presente Orden en el «Boletín Oficial del Estado».
+
+> Se modifican los párrafos 5 y 6 por el art. único.2 de la Orden INT/3532/2010, de 30 de diciembre. Ref. BOE-A-2011-914.

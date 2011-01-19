@@ -1,13 +1,13 @@
 ## Primero. Tarjeta Europea de Armas de Fuego.
 
-1. Queda aprobado el modelo de Tarjeta Europea de Armas de Fuego, plegable, dividido en cuatro cuerpos, cuyo anverso y reverso se publican como anexo I de la presente Orden.
+1. Se aprueba el modelo de Tarjeta Europea de Armas de Fuego, plegable, cuyo anverso y reverso se publican como Anexo de la presente Orden.
 
-2. Cada cuerpo integrante de los impresos, que habrán de edictarse para la expedición de las tarjetas, deberá tener 110 mm de ancho por 152,50 mm de alto, con un margen de tolerancia de hasta 20 mm por cada una de las dos dimensiones.
+2. Los cuerpos que la forman quedarán integrados, tanto el anverso como el reverso, en un único impreso tamaño DIN-A4.
 
-3. La fotografía del titular de la tarjeta será de tamaño carné, en blanco y negro o color, y en posición de frente y descubierto, debiendo medir la parte correspondiente al rostro un mínimo de dos centímetros de alto por uno y medio de ancho.
+3. La fotografía del titular de la tarjeta será de tamaño carné, en posición de frente y descubierto.
 
-4. Será competencia de la Dirección General de la Guardia Civil la confección de los impresos para la expedición de las tarjetas, determinando sus dimensiones, el color adecuado y el gramaje de la cartulina a utilizar y adoptando las medidas de seguridad que considere necesarias.
+4. Será competencia de la Dirección General de la Policía y de la Guardia Civil (ámbito de la Guardia Civil) la confección de los impresos para la expedición de las tarjetas, determinando sus dimensiones, el color adecuado y el gramaje de la cartulina a utilizar y adoptando las medidas de seguridad que considere necesarias.
 
-5. La Dirección General de la Guardia Civil adoptará, asimismo, las medidas necesarias sobre numeración para evitar la existencia de tarjetas con idéntico número, especialmente en el caso de que acuerde delegar en órganos territoriales el ejercicio de la competencia para su expedición.
+5. La Dirección General de la Policía y de la Guardia Civil (ámbito de la Guardia Civil) adoptará, asimismo, las medidas necesarias sobre numeración para evitar la existencia de tarjetas con idéntico número, especialmente en el caso de que acuerde delegar en órganos territoriales el ejercicio de la competencia para su expedición.
 
-6. La Tarjeta Europea de Armas de Fuego deberá comenzar a expedirse, con arreglo al modelo aprobado, el día 1 de julio de 1993.
+> Se modifica por el art. único.1 de la Orden INT/3532/2010, de 30 de diciembre. Ref. BOE-A-2011-914.
