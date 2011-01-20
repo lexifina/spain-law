@@ -1,0 +1,3 @@
+## Disposición final segunda. Título competencial.
+
+Este real decreto se dicta al amparo de lo establecido en el artículo 149.1.16.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación general de la sanidad. Se exceptúan los artículos 3.2 y 12, que se dictan al amparo de la competencia que sobre sanidad exterior atribuye al Estado el artículo 149.1.16.ª de la Constitución, y el artículo 3.1 y la disposición final primera, que se dictan al amparo de lo establecido en el artículo 149.1.25.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre las bases del régimen minero y energético.
