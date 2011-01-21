@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Opción de bases de cotización, en determinados supuestos, en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos.
+
+Los trabajadores comprendidos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos que, en la fecha de surtir efectos las bases de cotización previstas en el artículo 14, hubieran optado por las bases máximas permitidas hasta ese momento, podrán elegir, hasta el último día del mes siguiente al de la publicación de esta orden en el «Boletín Oficial del Estado», cualquier base de cotización de las comprendidas entre aquella por la que vinieran cotizando y el límite máximo que les sea de aplicación. La nueva base elegida surtirá efectos a partir de 1 de enero de 2011.
