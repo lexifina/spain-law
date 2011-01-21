@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Comprobante de la dispensación de las recetas médicas electrónicas del Sistema Nacional de Salud.
+
+En tanto no esté implantada la identificación unívoca de cada unidad de presentación de los medicamentos y productos sanitarios que permita su lectura óptica, electrónica o automatizada, los servicios de salud de las comunidades autónomas y Administraciones competentes, de acuerdo con los requisitos generales de facturación, establecerán el procedimiento así como el documento de comprobación de la dispensación efectuada, donde se adjuntarán los cupones precintos o comprobantes asimilados como justificantes de la misma.
