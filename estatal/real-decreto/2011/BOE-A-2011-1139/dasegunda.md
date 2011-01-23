@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Concepto de sustancia peligrosa.
+
+A efectos de la aplicación de las obligaciones derivadas de la protección de las aguas superficiales frente a sustancias peligrosas previstas en el Reglamento de Dominio Público Hidráulico aprobado por el Real Decreto 849/1986 de 11 de abril, y en el Reglamento de Planificación Hidrológica, aprobado por el Real Decreto 907/2007, del 6 de julio, se entenderán como sustancias peligrosas a todas las sustancias contenidas en los Anexos I y II de este real decreto.
+
+Durante el período de vigencia de la Directiva 76/464/CEE del Consejo, de 4 de mayo, relativa a la contaminación causada por determinadas sustancias peligrosas vertidas en el medio acuático de la Comunidad (disposición derogada por la versión codificada de título Directiva 2006/11/CE), las sustancias recogidas en el Anexo I de este real decreto corresponden a la Lista I y Lista II prioritaria, y las sustancias del Anexo II corresponden a la Lista II preferente que figuran en el Anexo IV del Reglamento de Planificación Hidrológica citado anteriormente.
