@@ -1,0 +1,1 @@
+Véase la Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura, por la que se modifica íntegramente y se publica un nuevo texto revisado. Ref. BOE-A-2011-1638.

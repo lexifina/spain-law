@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Seguridad.
+
+Corresponde a la Comunidad Autónoma de Extremadura, en materia de seguridad pública, la creación de un cuerpo de policía autonómica propia o la adscripción permanente o la colaboración temporal de unidades del Cuerpo Nacional de Policía, en ambos casos en los términos previstos en la legislación estatal. Autorización, inspección y sanción de las empresas de seguridad privada que tengan actividad en la Comunidad Autónoma y la formación del personal que realiza tales funciones. Medidas de coordinación de los servicios de seguridad e investigación privados con las policías locales y, en su caso, con la policía dependiente de la Comunidad Autónoma.
