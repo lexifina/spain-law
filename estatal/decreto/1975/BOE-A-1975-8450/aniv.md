@@ -2,6 +2,10 @@
 
 ## NIVELES DE EMISIÓN DE CONTAMINANTES A LA ATMÓSFERA PARA LAS PRINCIPALES ACTIVIDADES INDUSTRIALES POTENCIALMENTE CONTAMINADORAS DE LA ATMÓSFERA
 
+> Téngase en cuenta que este Anexo se deroga por la disposición derogatoria única.1 del Real Decreto 100/2011, de 28 de enero. Ref. BOE-A-2011-1643#ddunica. (redactada conforme a la corrección de errores publicada en BOE núm. 83, de 7 de abril de 2011). No obstante, será de aplicación a aquellas instalaciones no consideradas en el artículo 5.1 y podrá usarse como referencia a los efectos del apartado e) del artículo 5.2, en tanto no exista ninguna normativa que establezca otros valores límite de emisión y seguirán igualmente siendo aplicables las referencias a los valores límite de emisión de este anexo en las autorizaciones otorgadas con anterioridad a la entrada en vigor de este real decreto, según establece la citada disposición derogatoria.
+
+> Véase la disposición adicional única del presente Decreto: "Eficacia jurídica del anexo IV".
+
 1. Centrales térmicas.
 
 1.1 Centrales térmicas de carbón.
@@ -293,9 +297,9 @@ Instalaciones de fabricación de aluminio primario
 
 7. Refinerías de petróleo.
 
-|  |
-| --- |
-| Niveles de emisión mg/Nm3 Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
+|  | Niveles de emisión – mg/Nm3 |
+| --- | --- |
+| Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
 | Emisión de partículas sólidas: |  |  |  |
 | Calderas y hornos | 180 | 150 | 120 |
 | Regeneración de catalizadores de las unidades de craqueo catalítico en lecho fluido (FCC) | - | 150 | 150 |
@@ -308,14 +312,13 @@ La opacidad no será superior al 20 por 100 o al número 1 de la escala de Riuge
 | --- | --- |
 | Regeneración de catalizadores | 500 ppm |
 | Otras unidades | 1.500 ppm |
-|  |
-| --- |
-| Niveles de emisión mg/Nm3 Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
-| Emisión de H2 S |  |  |  |
-| Cualquier proceso | 10 | 7,5 | 5 |
-| Emisión SO2 | mg/Nm3 |
+|  | Niveles de emisión – mg/Nm3 |
 | --- | --- |
 | Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
+| Emisión de H2 S |  |  |  |
+| Cualquier proceso | 10 | 7,5 | 5 |
+| Emisión SO2 |
+|  |
 | Otras Instalaciones (nota 1) | 3.400 | 3.400 | 2.500 |
 
 Nota 1: excluidas las instalaciones de regeneración de catalizadores de las unidades de craqueo catalítico y las plantas de recuperación de azufre.
@@ -364,9 +367,9 @@ Se admitirá una opacidad del 10 por 100 como máximo en todas las fuentes.
 
 11 bis. Fritas de vidrio para esmaltes.
 
-|  |
-| --- |
-| Niveles de emisión mg/Nm3 Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
+|  | Niveles de emisión – mg/Nm3 |
+| --- | --- |
+| Instalaciones existentes | Instalaciones nuevas | Previsión 1980 |
 | Emisión de flúor en partículas |  |  |  |
 | Zona húmeda de pastizales | 20 | 20 | 20 |
 | Otras zonas | 40 | 40 | 40 |
@@ -582,6 +585,10 @@ La opacidad de los humos no superará el número 1 de la escala de Ringelmann.
 Opacidad:
 
 El índice de ennegrecimiento no será superior al número 1 de la escala de Ringelmann o al número 2 de la escala de Bacharach, que equivale al 20 por 100 de opacidad.
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 100/2011, de 28 de enero. Ref. BOE-A-2011-1643#ddunica. (redactada conforme a la corrección de errores publicada en BOE núm. 83, de 7 de abril de 2011)
+
+> No obstante, será de aplicación a aquellas instalaciones no consideradas en el artículo 5.1 y podrá usarse como referencia a los efectos del apartado e) del artículo 5.2, en tanto no exista ninguna normativa que establezca otros valores límite de emisión y seguirán igualmente siendo aplicables las referencias a los valores límite de emisión de este anexo en las autorizaciones otorgadas con anterioridad a la entrada en vigor del citado real decreto.
 
 > Se modifican los valores de emisión contenidos en los apartados 5.1 y 25 por la disposición final 1 del Real Decreto 509/2007, de 20 de abril. Ref. BOE-A-2007-8352#dfprimera.
 

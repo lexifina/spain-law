@@ -1,0 +1,3 @@
+## Disposición final segunda. Coordinación de formatos y procedimientos de comunicación.
+
+Los formatos y procedimientos en relación a las comunicaciones establecidas en el artículo 8.3 se establecerán en colaboración con las comunidades autónomas con los objetivos de simplificación, compatibilidad, coordinación y en su caso, integración con los requisitos ya previstos en las distintas normativas aplicables, en especial, los considerados en el Real Decreto 508/2007, de 20 de abril, por el que se regula el suministro de información sobre emisiones del Reglamento E-PRTR y de las autorizaciones ambientales integradas.
