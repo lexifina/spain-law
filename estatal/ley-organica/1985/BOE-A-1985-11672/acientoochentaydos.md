@@ -8,4 +8,8 @@ Estos suplentes serán designados por el partido, coalición, federación o agru
 
 3. En el caso de que el número de hecho de miembros elegidos en la correspondiente convocatoria electoral llegase a ser inferior a la mitad del número legal de miembros de la corporación, se constituirá una comisión gestora integrada por todos los miembros de la corporación que continúen y los ciudadanos que hubiesen sido designados para cubrir las vacantes, conforme a lo previsto en el párrafo anterior.
 
+Cuando resulte imposible conformar la comisión gestora, la Diputación Provincial o, en su caso, el órgano competente de la Comunidad Autónoma asumirá directamente la gestión ordinaria de la Entidad Local, no pudiendo adoptar acuerdos para los que se requiera una mayoría cualificada.
+
+> Se añade un párrafo al apartado 3 por el art. único.11 de la Ley Orgánica 3/2011, de 28 de enero. Ref. BOE-A-2011-1640.
+
 > Se modifica por el ar. 5 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923.
