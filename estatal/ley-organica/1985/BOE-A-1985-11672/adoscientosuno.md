@@ -36,17 +36,19 @@ d) La aprobación que ponga fin a la tramitación insular de los planes de orden
 
 En caso de no obtenerse la confianza, el nuevo Presidente se elegirá de acuerdo con el sistema previsto en el artículo 197 bis para los Alcaldes de municipios de más de 250 habitantes.
 
-8. Para la elección de Consejeros Insulares regirán los mismos derechos de sufragio pasivo y las incompatibilidades previstos en los artículo 202 y 203 de esta Ley.
+8. Para la elección de Consejeros Insulares regirán los mismos derechos de sufragio pasivo y las incompatibilidades previstos en los artículos 202 y 203 de esta Ley.
 
 9. El Estado subvencionará los gastos que originen las elecciones a los Cabildos Insulares de acuerdo con las siguientes reglas:
 
-a) Ciento cincuenta mil pesetas por cada Consejero insular electo.
+a) 1.625,44 euros por cada Consejero Insular electo.
 
-b) Sesenta pesetas por cada uno de los votos obtenidos por cada candidatura, uno de cuyos miembros, al menos, hubiera sido proclamado Consejero insular.
+b) 0,65 euros por cada uno de los votos obtenidos por cada candidatura, uno de cuyos miembros, al menos, hubiera sido proclamado Consejero Insular.
 
-10. Para las elecciones a Cabildos Insulares el límite de los gastos electorales será el que resulte de multiplicar por 15 pesetas el número de habitantes correspondientes a la población de derecho de cada una de las islas donde presente sus candidaturas cada partido, federación, coalición o agrupación.
+10. Para las elecciones a Cabildos Insulares el límite de los gastos electorales será el que resulte de multiplicar por 0,16 euros el número de habitantes correspondientes a la población de derecho de cada una de las islas donde presente sus candidaturas cada partido, federación, coalición o agrupación.
 
 11. En materia de subvenciones electorales habrán de respetarse las limitaciones establecidas en los apartados 2, 3 y 4 del artículo 127 de la presente ley.
+
+> Se modifican los apartados 9 y 10 por el art. único.58 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.
 
 > Se añade un párrafo al apartado 3 por la disposición adicional 2.3 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
 

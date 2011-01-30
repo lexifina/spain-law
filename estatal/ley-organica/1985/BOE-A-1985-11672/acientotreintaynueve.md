@@ -1,6 +1,6 @@
 ## Artículo ciento treinta y nueve
 
-Serán castigados con las penas de arresto mayor y multa de 30.000 a 300.000 pesetas los funcionarios públicos que dolosamente:
+Serán castigados con las penas de seis meses a dos años y de multa de seis a veinticuatro meses los funcionarios públicos que:
 
 1. Incumplan las normas legalmente establecidas para la formación, conservación y exhibición al público del censo electoral.
 
@@ -17,3 +17,5 @@ Serán castigados con las penas de arresto mayor y multa de 30.000 a 300.000 pes
 7. Causen, en el ejercicio de sus competencias, manifiesto perjuicio a un candidato.
 
 8. Incumplan los trámites establecidos para el voto por correspondencia.
+
+> Se modifica el primer párrafo por el art. único.38 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.

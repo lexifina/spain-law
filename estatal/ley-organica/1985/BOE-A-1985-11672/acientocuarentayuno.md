@@ -1,7 +1,9 @@
-## Artículo ciento cuarenta y uno
+## Artículo ciento cuarenta y uno. Delito por infracción de los trámites para el voto por correo.
 
-1. El particular que dolosamente vulnere los trámites establecidos para el voto por correo será castigado con las penas de arresto mayor y multa de 30.000 a 300.000 pesetas.
+1. El particular que vulnere los trámites establecidos para el voto por correo será castigado con las penas de prisión de tres meses a un año o la de multa de seis a veinticuatro meses.
 
-2. El particular que participe dolosamente en alguna de las falsedades señaladas en el artículo anterior será castigado con las penas de prisión menor y multa de 30.000 a 300.000 pesetas. En estos supuestos los Tribunales se atendrán igualmente a lo dispuesto en el artículo 318 del Código Penal.
+2. El particular que participe en alguna de las falsedades señaladas en el artículo anterior será castigado con la pena de prisión de seis meses a tres años.
 
-> Se añade el apartado 1 y se numera el apartado anterior como 2 por el art. único .3 y 4 de la Ley Orgánica 6/1992, de 2 de noviembre. Ref. BOE-A-1992-24305.
+> Se modifica por el art. único.40 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.
+
+> Se añade el apartado 1 y se numera el apartado anterior como 2 por el art. único.3 y 4 de la Ley Orgánica 6/1992, de 2 de noviembre. Ref. BOE-A-1992-24305.

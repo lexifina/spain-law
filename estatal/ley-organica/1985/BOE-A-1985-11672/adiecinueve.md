@@ -26,7 +26,7 @@ k) Corregir las infracciones que se produzcan en el proceso electoral siempre qu
 
 l) Expedir las credenciales a los Diputados, Senadores, Concejales, Diputados Provinciales y Consejeros Insulares en caso de vacante por fallecimiento, incapacidad o renuncia, una vez finalizado el mandato de las Juntas Electorales Provinciales y de Zona.
 
-2. Además de las competencias expresamente mencionadas en esta Ley, corresponderán, dentro de su ámbito territorial, a las Juntas Provinciales y de Zona las atribuidas a la Junta Electoral Central por los párrafos h), j) y k) del apartado anterior. La competencia en materia de imposición de multas se entenderá limitada a la cuantía máxima de 100.000 pesetas para las Juntas Provinciales y de 50.000 pesetas para las de Zona.
+2. Además de las competencias expresamente mencionadas en esta Ley, corresponderán, dentro de su ámbito territorial, a las Juntas Provinciales y de Zona las atribuidas a la Junta Electoral Central por los párrafos h), j) y k) del apartado anterior. La competencia en materia de imposición de multas se entenderá limitada a la cuantía máxima de 1.200 euros para las Juntas Provinciales y de 600 euros para las de Zona.
 
 3. Las Juntas Electorales Provinciales, atendiendo siempre al superior criterio de la Junta Electoral Central, podrán además:
 
@@ -42,8 +42,10 @@ d) Unificar los criterios interpretativos de las Juntas Electorales de Zona en c
 
 5. En caso de impago de las multas a que se refiere el presente artículo, la Junta Electoral correspondiente remitirá al órgano competente del Ministerio de Economía y Hacienda certificación del descubierto para exacción de la multa por la vía de apremio.
 
+> Se modifica el apartado 2 por el art. único.5 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.
+
 > Se modifican los apartados 1 y 2 por el art. 1.1 y 2 de la Ley Orgánica 3/1995, de 23 de marzo. Ref. BOE-A-1995-7239.
 
-> Se modifica el apartado 1 por el art. 7.1 de la Ley Orgánica 13/1994, de 30 de marzo. Ref. BOE-A-1994-7420.
+> Se modifica el apartado 1 por el art.7.1 de la Ley Orgánica 13/1994, de 30 de marzo. Ref. BOE-A-1994-7420.
 
-> Se modifica por el art. único .8 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
+> Se modifica por el art. único.8 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.

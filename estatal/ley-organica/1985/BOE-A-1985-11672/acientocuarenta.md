@@ -1,6 +1,6 @@
-## Artículo ciento cuarenta
+## Artículo ciento cuarenta. Delitos por abuso de oficio o falsedad.
 
-1. Serán castigados con las penas, de prisión mayor y multa de 30.000 a 300.000 pesetas los funcionarios que abusando de su oficio o cargo dolosamente realicen alguna de las siguientes falsedades:
+1. Serán castigados con las penas de prisión de tres a siete años y multa de dieciocho a veinticuatro meses los funcionarios que abusando de su oficio o cargo realicen alguna de las siguientes falsedades:
 
 a) Alterar sin autorización las fechas, horas o lugares en que deba celebrarse cualquier acto electoral incluso de carácter preparatorio, o anunciar su celebración de forma que pueda inducir a error a los electores.
 
@@ -22,8 +22,8 @@ i) Incumplir las obligaciones relativas a certificaciones en materia de subvenci
 
 j) Cometer cualquier otra falsedad en materia electoral, análoga a las anteriores, por alguno de los modos señalados en el artículo 302 del Código Penal.
 
-2. Si las alteraciones de la verdad a las que se refiere este artículo fueran producidas por imprudencia temeraria, serán sancionadas con la pena de prisión menor.
+2. Si las falsedades a las que se refiere este artículo se cometieran por imprudencia grave, serán sancionadas con la pena de multa de doce a veinticuatro meses.
 
-3. En la apreciación de los supuestos a que se refiere el presente artículo los Tribunales se atendrán a lo dispuesto en el artículo 318 del Código Penal.
+> Se modifica por el art. único.39 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.
 
-> Se añade el párrafo i) al apartado 1 y se rordena el anterior i) como j) por el art. 5 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923.
+> Se añade el párrafo i) al apartado 1 y se reordena el anterior i) como j) por el art. 5 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923.
