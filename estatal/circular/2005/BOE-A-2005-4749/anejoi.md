@@ -226,69 +226,69 @@ Nivel: Medio.
 
 ## Estructura de capital de entidades supervisadas por el Banco de España (*)
 
+Responsable del fichero.–Banco de España.
+
+Derechos de acceso, rectificación, cancelación y oposición.–Departamento de Información Financiera y Central de Riesgos. Calle Alcalá, 48, 28014 Madrid.
+
 Normativa de referencia:
 
-Art. 61.2 de la Ley 26/1988, de 29 de julio, redactado por Ley 3/1994, de 14 de abril (BOE de 15 de abril).
+Artículo 61 de la Ley 26/1988, de 29 de julio.
 
-Art. 19.1 del Real Decreto 1245/1995, de 14 de julio, redactado por Real Decreto 692/1996, de 26 de abril (BOE de 24 de mayo).
+Artículo 19 del Real Decreto 1245/1995, de 14 de julio.
 
-Circular del Banco de España 6/1995, de 31 de octubre (BOE de 14 de noviembre).
+Artículo 16 del Real Decreto 322/2008, de 29 de febrero.
 
-Real Decreto 775/1997, de 30 de mayo (BOE de 13 de junio).
+Circular del Banco de España 1/2009, de 18 de diciembre.
 
-Circular 3/1998, de 27 de enero (BOE de 13 de febrero).
+Real Decreto 775/1997, de 30 de mayo.
 
-Real Decreto 2660/1998, de 14 de diciembre (BOE de 15 de diciembre).
+Circular 3/1998, de 27 de enero.
 
-Circular 6/2001, de 29 de octubre (BOE de 15 de noviembre).
+Real Decreto 2660/1998, de 14 de diciembre.
 
-Finalidad del fichero y usos previstos del mismo: Disponer de la información actualizada de la estructura de capital de entidades supervisadas por el Banco de España.
+Circular 6/2001, de 29 de octubre.
 
-Personas físicas afectadas:
+Real Decreto Legislativo 1298/1986, de 28 de junio.
 
-Accionistas de bancos con participación mayor o igual al 0,25 % del capital social.
+Finalidad del fichero y usos previstos del mismo.–Disponer de la información actualizada de la estructura de capital de entidades supervisadas por el Banco de España.
 
-Tenedores de aportaciones al capital social de cooperativas de crédito con participación mayor o igual al 1 % del capital social.
+Tipo de finalidad y usos previstos del fichero: Otras finalidades.
 
-Accionistas de establecimientos financieros de crédito con participación mayor o igual al 2,5% del capital social.
+Origen de los datos.–Entidad privada.
 
-Accionistas de sociedades de tasación con participación mayor al 10 % del capital social.
-
-Accionistas de determinados establecimientos de cambio de moneda con participación o derechos de voto mayor o igual al 10 % del capital social.
-
-Procedencia y procedimiento de recogida de los datos de carácter personal:
-
-Los datos proceden de bancos, cooperativas de crédito, establecimientos financieros de crédito, sociedades de tasación y establecimientos de cambio de moneda.
-
-El soporte utilizado para su obtención es:
-
-1. Para entidades de crédito: archivos enviados mediante transmisión electrónica por vía telemática, archivos en soporte magnético/informático y excepcionalmente, papel.
-
-2. Para establecimientos de cambio de moneda: papel; en proyecto, mediante transmisión electrónica por vía telemática.
+Colectivos o categorías de interesados.–Propietarios o arrendatarios.
 
 Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
 
-NIF o número de tarjeta de residencia.
+Datos especialmente protegidos: No incluye datos de este tipo.
+
+Relativos a la comisión de infracciones: No incluye datos de este tipo.
+
+Datos de carácter identificativo:
+
+NIF/DNI.
 
 Nombre y apellidos.
 
-País cuya nacionalidad ostente el socio.
+Dirección.
 
-Valor nominal de la participación.
+Otros datos de carácter identificativo: pasaporte, tarjeta de residencia.
 
-Porcentaje sobre capital social.
+Otros datos tipificados:
 
-Cesiones de datos de carácter personal: Las cesiones, actuales o previstas, tienen como destinatarias a las Comunidades Autónomas con competencias sobre cooperativas de crédito, por lo que se refiere exclusivamente a los socios de estas y al Ministerio de Economía y Hacienda, en cuanto a las transmisiones de acciones de una entidad de crédito que impliquen un cambio de control de la misma.
+Académicos y profesionales.
 
-Cesiones previstas en el art. 6 del Real Decreto Legislativo 1298/1986, de 28 de junio, redactado según la Ley 37/1998, de 16 de noviembre.
+Económicos, financieros y de seguros.
 
-Transferencias de datos de carácter personal a países terceros: No se prevén transferencias.
+Transacciones de bienes y servicios.
 
-Responsable del fichero: Banco de España.
+Sistema de tratamiento.–Mixto.
 
-Servicio o unidad ante el que se pueden ejercer los derechos de acceso, rectificación, cancelación y oposición: Departamento de Información Financiera y Central de Riesgos.
+Medidas de seguridad.–Básico.
 
-Medidas de seguridad: Nivel: Básico.
+Cesiones de datos de carácter personal.–No hay previstas cesiones de datos.
+
+Transferencias de datos de carácter personal a países terceros.–No hay previstas transferencias de datos.
 
 (*) Nombre anterior: Datos correspondientes a la estructura de capital de las entidades de crédito.
 
@@ -400,117 +400,193 @@ Nivel: Básico.
 
 ## Fichero
 
-## Registro de agentes de entidades supervisadas por el Banco de España (*)
+## Registro de Agentes de Entidades de Crédito y de Pago
+
+Responsable del fichero.–Banco de España.
+
+Derechos de acceso, rectificación, cancelación y oposición.–Departamento de Instituciones Financiaras. Calle Alcalá, 48, 28014 Madrid.
 
 Normativa de referencia:
 
-Artículo 22 del Real Decreto 1245/1995, de 14 de julio (BOE de 31 de julio).
+Artículo 22 del Real Decreto 1245/1995, de 14 de julio.
 
-Circular del Banco de España 6/2002.
+Circular del Banco de España 4/2010.
 
-Real Decreto 2660/1998, de 14 de diciembre (BOE de 15 de diciembre).
+Real Decreto 2660/1998, de 14 de diciembre.
 
-Orden del Ministerio de Economía de 16 de noviembre de 2000 (BOE de 25 de noviembre) de regulación de determinados aspectos del régimen jurídico de los establecimientos de cambio de moneda y sus agentes.
+Orden del Ministerio de Economía de 16 de noviembre de 2000, de regulación de determinados aspectos del régimen jurídico de los establecimientos de cambio de moneda y sus agentes.
 
 Circular del Banco de España 6/2001, de 29 de octubre.
 
-Finalidad del fichero y usos previstos del mismo: Relación de agentes con poderes para actuar habitualmente frente a los clientes, en nombre y por cuenta de las entidades de crédito y de los Titulares de establecimientos abiertos al público para cambio de moneda extranjera autorizados para gestionar transferencias con el exterior.
+Real Decreto 712/2010, de 28 de mayo.
 
-Personas físicas afectadas: Los que hayan recibido poderes de las entidades para actuar habitualmente frente a los clientes en nombre y por cuenta de aquéllas, siempre que no estén ligadas por una relación laboral.
+Finalidad del fichero y usos previstos del mismo.–Relación de agentes apoderados o designados para actuar habitualmente frente a los clientes, en nombre y por cuenta de las entidades de crédito; de los titulares de establecimientos abiertos al público para cambio de moneda extranjera autorizados para gestionar transferencias con el exterior; y de las entidades de pago, incluidas las comunitarias que prestan servicios en España.
 
-Procedencia y procedimiento de recogida de los datos de carácter personal:
+Tipo de finalidad y usos previstos del fichero: Procedimiento administrativo.
 
-Los datos proceden de las entidades.
+Origen de los datos.–Entidad privada.
 
-Los datos se recogen mediante declaraciones o formularios. Los soportes utilizados para la obtención de los datos son: papel y transmisión electrónica por vía telemática.
+Colectivos o categorías de interesados:
+
+Solicitantes.
+
+Otros colectivos: Agentes de entidades supervisadas.
 
 Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
 
-NIF/Número de tarjeta de residencia.
+Datos especialmente protegidos: No incluye datos de este tipo.
+
+Relativos a la comisión de infracciones: No incluye datos de este tipo.
+
+Datos de carácter identificativo:
+
+NIF/DNI.
 
 Nombre y apellidos.
 
-Domicilio.
+Dirección.
 
-País de nacionalidad.
+Otros datos de carácter identificativo: nacionalidad, fecha de nacimiento en caso de no residentes.
 
-Fecha de otorgamiento de poderes.
+Otros datos tipificados:
 
-Fecha de finalización del mandato.
+Detalles del empleo.
 
-Detalles de los poderes recibidos.
+Información comercial.
 
-Ámbito geográfico de actuación.
+Sistema de tratamiento.–Mixto.
 
-Fecha de nacimiento en el caso de agentes extranjeros sin residencia en España.
+Medidas de seguridad.–Básico.
 
-Cesiones de datos de carácter personal: Comisión Nacional del Mercado de Valores.
+Cesiones de datos de carácter personal:
 
-Transferencias de datos de carácter personal a países terceros: No se prevén transferencias.
+Hacienda Pública y Administración Tributaria.
 
-Responsable del fichero: Banco de España.
+Órganos judiciales.
 
-Servicio o unidad ante el que se pueden ejercer los derechos de acceso, rectificación, cancelación y oposición: Departamento de Instituciones Financieras.
+Órganos de la Unión Europea.
 
-Medidas de seguridad: Nivel: Básico.
+Otros órganos de la Administración del Estado.
 
-(*) Nombre anterior: Datos correspondientes a los agentes de entidades de crédito.
+Otros órganos de la Comunidad Autónoma.
+
+Otros órganos de la Administración Local.
+
+Otros: Comisión Nacional del Mercado de Valores, Servicio Ejecutivo de la Comisión de Prevención de Blanqueo de Capitales e Infracciones Monetarias.
+
+Transferencias de datos de carácter personal a países terceros:
+
+Otros órganos públicos de otros Estados.
+
+Organismos internacionales.
+
+Órganos judiciales.
+
+Otras categorías: Órganos Supervisores de Instituciones financieras o mercados financieros y a países miembros de la Unión Europea y otros con los que exista reciprocidad.
 
 ## Fichero
 
 ## Registros oficiales de altos cargos de entidades inscritas en el Banco de España (*)
 
-Normativa de referencia: La normativa de referencia sobre requisitos de acceso a la condición de alto cargo y sobre incompatibilidades, prohibiciones y limitaciones aplicables a éstos varía según el estatuto de la entidad de que se trate. El régimen disciplinario aplicable a los altos cargos de las entidades de crédito se contiene en la Ley 26/1988, de 29 de julio.
+Responsable del fichero.–Banco de España.
 
-Finalidad del fichero y usos previstos del mismo: Varía según el estatuto jurídico de las entidades, desde conocimiento y constancia de altos cargos de las Cajas de Ahorro a Registro de las personas que ostentan cargos en la administración y dirección del resto de entidades supervisadas con control de requisitos de acceso, incompatibilidades, prohibiciones y limitaciones en el desempeño de cargos y la anotación de las sanciones impuestas a aquéllas por la comisión de infracciones administrativas.
+Derechos de acceso, rectificación, cancelación y oposición.–Departamento de Instituciones Financieras. Calle Alcalá, 48, 28014 Madrid.
 
-Personas físicas afectadas: Personas con cargos directivos y de administración en entidades de crédito y otras entidades inscritas en los Registros a cargo del Banco de España.
+Normativa de referencia:
 
-Procedencia y procedimiento de recogida de los datos de carácter personal:
+La normativa de referencia sobre requisitos de acceso a la condición de alto cargo y sobre incompatibilidades, prohibiciones y limitaciones aplicables a estos varía según el estatuto de la entidad de que se trate. El régimen disciplinario aplicable a los altos cargos de las entidades de crédito se contiene en la Ley 26/1988, de 29 de julio.
 
-Los datos proceden del interesado a través de las entidades.
+Circular del Banco de España 1/2009, de 18 de diciembre, a entidades de crédito y otras supervisadas, en relación con la información sobre la estructura de capital y cuotas participativas de las entidades de crédito, y sobre sus oficinas, así como sobre los altos cargos de las entidades supervisadas.
 
-Los datos se recogen mediante declaraciones o formularios.
+Real Decreto Legislativo 1298/1986, de 28 de junio.
 
-El soporte utilizado para la obtención de los datos es papel.
+Finalidad del fichero y usos previstos del mismo.–Varía según el estatuto jurídico de las entidades, desde conocimiento y constancia de altos cargos de las cajas de ahorros a registro de las personas que ostentan cargos en la administración y dirección del resto de entidades supervisadas con control de requisitos de acceso, incompatibilidades, prohibiciones y limitaciones en el desempeño de cargos y la anotación de las sanciones impuestas a aquellas por la comisión de infracciones administrativas.
+
+Tipo de finalidad y usos previstos del fichero:
+
+Procedimiento administrativo.
+
+Gestión sancionadora.
+
+Otras finalidades.
+
+Origen de los datos:
+
+El propio interesado o su representante legal.
+
+Registros públicos.
+
+Entidad privada.
+
+Administraciones Públicas.
+
+Colectivos o categorías de interesados:
+
+Representantes legales.
+
+Personas de contacto.
+
+Solicitantes.
+
+Otros colectivos: Personas con cargos directivos y de administración en entidades de crédito y otras entidades inscritas en los Registros a cargo del Banco de España.
 
 Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
 
-Datos relativos a infracciones administrativas.
+Datos especialmente protegidos: No incluye datos de este tipo.
 
-DNI/NIF/número de pasaporte/tarjeta de residencia.
+Relativos a la comisión de infracciones: Datos relativos a infracciones administrativas.
+
+Datos de carácter identificativo:
+
+NIF/DNI.
 
 Nombre y apellidos.
 
-Domicilio.
+Dirección.
 
-Número de registro personal.
+Firma electrónica.
 
-Datos del estado civil.
+Otros datos de carácter identificativo: Datos del estado civil y familia, nacionalidad, fecha y lugar de nacimiento.
 
-Datos de familia.
+Otros datos tipificados:
 
-Nacionalidad, fecha y lugar de nacimiento.
+Académicos y profesionales.
 
-Sexo.
+Detalles del empleo.
 
-Profesión.
+Otros tipos de datos: motivo de cese en el cargo.
 
-Cargos de administración y dirección en entidades supervisadas y en otras sociedades.
+Sistema de tratamiento.–Mixto.
 
-Motivo de cese en el cargo.
+Medidas de seguridad.–Medio.
 
-Cesiones de datos de carácter personal: Las cesiones tienen como destinatarios a:
+Cesiones de datos de carácter personal:
 
-El Ministerio de Economía y Hacienda.
+Hacienda Pública y Administración Tributaria.
 
-Las Comunidades Autónomas con competencias sobre cajas de ahorros y cooperativas de crédito.
+Órganos judiciales.
 
-Transferencias de datos de carácter personal a países terceros: No se prevén transferencias.
+Órganos de la Unión Europea.
 
-Responsable del fichero: Banco de España.
+Otros órganos de la Administración del Estado.
 
-Servicio o unidad ante el que se pueden ejercer los derechos de acceso, rectificación, cancelación y oposición: Departamento de Instituciones Financieras: Medidas de seguridad: Nivel: Medio.
+Otros órganos de la Comunidad Autónoma.
+
+Diputaciones provinciales.
+
+Otros órganos de la Administración Local.
+
+Otros: Comisión Nacional del Mercado de Valores, Servicio Ejecutivo de la Comisión de Prevención de Blanqueo de Capitales e Infracciones Monetarias.
+
+Transferencias de datos de carácter personal a países terceros:
+
+Otros órganos públicos de otros Estados.
+
+Organismos internacionales.
+
+Órganos judiciales.
+
+Otras categorías: Órganos supervisores de instituciones financieras o mercados financieros y a países miembros de la Unión Europea y otros con los que exista reciprocidad.
 
 (*) Nombre anterior: Datos correspondientes a los Registros oficiales de altos cargos de entidades inscritas en el Banco de España.
 
@@ -574,71 +650,109 @@ Medidas de seguridad: Nivel: Básico.
 
 ## Registro de titulares de establecimientos abiertos al público para cambio de moneda extranjera (*)
 
+Responsable del fichero.–Banco de España.
+
+Derechos de acceso, rectificación, cancelación y oposición.–Departamento de Instituciones Financieras. Calle Alcalá, 48, 28014 Madrid.
+
 Normativa de referencia:
 
 Ley 13/1996, de 30 de diciembre.
 
-Real Decreto 2660/1998, de 14 de diciembre (BOE de 15 de diciembre).
+Real Decreto 2660/1998, de 14 de diciembre («BOE» de 15 de diciembre).
 
-Orden del Ministerio de Economía 16 de noviembre de 2000 (BOE de 25 de noviembre) de regulación de determinados aspectos del régimen jurídico de los establecimientos de cambio de moneda y sus agentes.
+Orden del Ministerio de Economía de 16 de noviembre de 2000 («BOE» de 25 de noviembre), de regulación de determinados aspectos del régimen jurídico de los establecimientos de cambio de moneda y sus agentes.
 
-Circular del Banco de España 6/2001, de 29 de octubre (BOE de 15 de noviembre).
+Circular del Banco de España 6/2001, de 29 de octubre («BOE» de 15 de noviembre).
 
-Circular Interna del Banco de España/1999, de 6 de abril.
+Circular del Banco de España 3/2009, de 18 de diciembre («BOE» de 31 de diciembre).
 
-Finalidad del fichero y usos previstos del mismo: Datos de carácter público con finalidad de Control y registro de titulares de establecimientos abiertos al público para cambio de moneda extranjera.
+Circular Interna del Banco de España 1/1999, de 6 de abril.
 
-Personas físicas afectadas:
+Real Decreto Legislativo 1298/1986, de 28 de junio.
 
-Titulares de establecimientos abiertos al público para cambio de moneda extranjera.
+Finalidad del fichero y usos previstos del mismo.–Datos de carácter público con finalidad de control y registro de titulares de establecimientos abiertos al público para cambio de moneda extranjera.
 
-Representantes de personas jurídicas Titulares de establecimientos abiertos al público para cambio de moneda extranjera.
+Tipo de finalidad y usos previstos del fichero:
 
-Procedencia y procedimiento de recogida de los datos de carácter personal:
+Gestión económico-financiera pública.
 
-Los datos provienen de:
+Procedimiento administrativo.
 
-El propio interesado, cuando el titular del establecimiento es persona física.
+Gestión sancionadora.
 
-El Titular de establecimiento, cuando los datos corresponden a su representante.
+Origen de los datos:
 
-Los datos se recogen mediante declaraciones o formularios.
+El propio interesado o su representante legal.
 
-El soporte utilizado para la obtención de los datos es papel.
+Entidad privada.
+
+Colectivos o categorías de interesados:
+
+Representantes legales.
+
+Personas de contacto.
+
+Solicitantes.
 
 Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
 
-DNI/NIF.
+Datos especialmente protegidos: No incluye datos de este tipo.
+
+Relativos a la comisión de infracciones: Datos relativos a infracciones administrativas.
+
+Datos de carácter identificativo:
+
+NIF/DNI.
 
 Nombre y apellidos.
 
-Bienes y servicios suministrados por el afectado.
-
-Representante.
-
-Cargo.
-
-Domicilio.
-
-Nacionalidad.
-
-Persona de contacto.
+Dirección.
 
 Teléfono.
 
-Locales que tiene el titular.
+Otros datos tipificados:
 
-Situación de la autorización (baja/expedientado).
+Circunstancias sociales.
 
-Cesiones de datos de carácter personal: Las cesiones actuales tienen como destinatario al Servicio Ejecutivo de la Comisión PBCIM.
+Detalles del empleo.
 
-Transferencias de datos de carácter personal a países terceros: No se prevén transferencias.
+Información comercial.
 
-Responsable del fichero: Banco de España.
+Económicos, financieros y de seguros.
 
-Servicio o unidad ante el que se pueden ejercer los derechos de acceso, rectificación, cancelación y oposición: Departamento de Instituciones Financieras.
+Transacciones de bienes y servicios.
 
-Medidas de seguridad: Nivel: Medio.
+Sistema de tratamiento.–Mixto.
+
+Medidas de seguridad.–Medio.
+
+Cesiones de datos de carácter personal:
+
+Hacienda Pública y Administración Tributaria.
+
+Órganos judiciales.
+
+Órganos de la Unión Europea.
+
+Otros órganos de la Administración del Estado.
+
+Otros órganos de la Comunidad Autónoma.
+
+Diputaciones provinciales.
+
+Otros órganos de la Administración Local.
+
+Otros: Comisión Nacional del Mercado de Valores, Servicio Ejecutivo de la Comisión de Prevención de Blanqueo de Capitales e Infracciones Monetarias.
+
+Transferencias de datos de carácter personal a países terceros:
+
+Otros órganos públicos de otros Estados.
+
+Organismos internacionales.
+
+Órganos judiciales.
+
+Otras categorías: Órganos supervisores de instituciones financieras o mercados financieros y a países miembros de la Unión Europea y otros con los que exista reciprocidad.
 
 (*) Nombre anterior: Datos correspondientes al registro de establecimientos abiertos al público para cambio de moneda extranjera.
 
@@ -712,73 +826,77 @@ Nivel medio.
 
 ## Servicio de Reclamaciones (*)
 
+Responsable del fichero.–Banco de España.
+
+Derechos de acceso, rectificación, cancelación y oposición.–Servicio de Reclamaciones. Calle Alcalá, 48, 28014 Madrid.
+
 Normativa de referencia:
 
-Orden del Ministerio de Economía de 12 de diciembre de 1989 (BOE de 19 de diciembre).
+Orden del Ministerio de Economía de 12 de diciembre de 1989 («BOE» del 19).
 
-Orden del Ministerio de Economía de 16 de noviembre de 2000 (BOE de 25 de noviembre).
+Orden del Ministerio de Economía de 16 de noviembre de 2000 («BOE» del 25).
 
-Circular del Banco de España 8/1990, de 7 de septiembre (BOE de 20 de septiembre).
+Circular del Banco de España 8/1990, de 7 de septiembre («BOE» del 20).
 
-Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero (BOE de 23 de noviembre).
+Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema financiero («BOE» del 23).
 
-Real Decreto 303/2004, de 20 de febrero, por el que se aprueba el Reglamento de los Comisionados para la defensa del cliente de servicios financieros (BOE de 3 de marzo).
+Real Decreto 303/2004, de 20 de febrero, por el que se aprueba el Reglamento de los Comisionados para la defensa del cliente de servicios financieros («BOE» del 3 de marzo).
 
-Orden ECO/734/2004, de 11 de marzo, sobre los departamentos y servicios de atención al cliente y el defensor del cliente de las entidades financieras (BOE de 24 de marzo).
+Orden ECO/734/2004, de 11 de marzo, sobre los departamentos y servicios de atención al cliente y el defensor del cliente de las entidades financieras («BOE» del 24).
 
-Finalidad del fichero y usos previstos del mismo:
+Finalidad del fichero y usos previstos del mismo.–Gestión y tramitación de las reclamaciones, quejas y consultas que formulen los usuarios de servicios financieros, así como la obtención de datos estadísticos de las mismas. Remisión de publicaciones del Servicio.
 
-Gestión y tramitación de las reclamaciones, quejas y consultas que formulen los usuarios de servicios financieros, así como la obtención de datos estadísticos de las mismas.
+Tipo de finalidad y usos previstos del fichero: Otras finalidades.
 
-Los usos que se dan del fichero son los derivados de la tramitación, control y seguimiento de los expedientes de queja, reclamación o consulta.
+Origen de los datos:
 
-Personas físicas afectadas:
+El propio interesado o su representante legal.
 
-Las personas designadas al efecto por las entidades sujetas a nuestro ámbito competencial (entidades de crédito, sociedades de tasación, establecimientos de cambio de moneda autorizados para realizar operaciones de venta de billetes extranjeros y cheques de viajero o gestión de transferencias en el exterior, sucursales en España de las entidades de crédito con domicilio social en otro Estado, y entidades de crédito que hayan sido autorizadas en otros Estados miembros del Espacio Económico Europeo, cuando ejerzan su actividad en España en régimen de libre prestación de servicios), así como los titulares del defensor del cliente de aquellas.
+Administraciones Públicas.
 
-Personas físicas y representantes de las personas jurídicas que tengan la condición de usuarios de servicios financieros y que hayan planteado una reclamación, queja o consulta.
+Colectivos o categorías de interesados.–Otros colectivos: usuarios de servicios financieros y personas físicas que sean destinatarias de las publicaciones del Servicio.
 
-Procedencia y procedimiento de recogida de los datos de carácter personal:
+Estructura básica del fichero y tipos de datos de carácter personal incluidos en él.
 
-Los datos proceden del propio interesado o de su representante legal, de los diferentes entes de la Administración Central del Estado, Autonómica o Local, del Ministerio de Economía y Hacienda, así como de las entidades sometidas a nuestro ámbito competencial, y son objeto de queja o reclamación.
-
-Los datos se recogen mediante declaraciones o formularios mediante soporte papel o vía telemática. Los datos se transmiten mediante soporte papel o mediante transmisión electrónica.
-
-Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
-
-Datos especialmente protegidos. No incluye datos de este tipo.
+Datos especialmente protegidos: No incluye datos de este tipo.
 
 Relativos a la comisión de infracciones: No incluye datos de este tipo.
 
-Datos de carácter identificativo: NIF/DNI. Nombre y apellidos. Dirección. Teléfono. Firma/Huella. Imagen/Voz. Firma electrónica.
+Datos de carácter identificativo:
 
-Otros datos de carácter identificativo (Número de pasaporte, Nacionalidad, Dirección de correo electrónico, Fax).
+NIF/DNI.
 
-Otros tipos de datos (Cargo, Datos relativos a operación financiera objeto de reclamación).
+Nombre y apellidos.
 
-Sistema de tratamiento:
+Dirección.
 
-Automatizado.
+Teléfono.
+
+Firma/huella.
+
+Imagen/voz.
+
+Firma electrónica.
+
+Otros datos de carácter identificativo: número de pasaporte, nacionalidad, dirección de correo electrónico, fax.
+
+Otros datos tipificados: Económicos, financieros y de seguros.
+
+Sistema de tratamiento.–Mixto.
+
+Medidas de seguridad Básico.
 
 Cesiones de datos de carácter personal:
 
-Las cesiones tienen por destinatarias las entidades reclamadas o las implicadas en la queja o reclamación, así como la Agencia Española de Protección de Datos, el Comisionado para la Defensa del Inversor, el Comisionado para la Defensa del Asegurado y del Partícipe de Planes de Pensiones, y el Ministerio de Economía y Hacienda, que asume la responsabilidad de establecer los mecanismos de comunicación telemática entre los diferentes Comisionados y sus respectivos servicios de reclamaciones o unidades administrativas (disposición adicional única del Real Decreto 303/2004, de 20 de febrero), no siendo preciso el consentimiento del afectado [artículo 11.2, letra c), de la LOPD].
+Otros órganos de la Administración del Estado.
 
-Transferencias de datos de carácter personal a países terceros:
+Bancos, cajas de ahorros y cajas rurales.
 
-Podrán efectuarse transferencias a los distintos organismos del Espacio Común Europeo competentes para la resolución extrajudicial de litigios transfronterizos entre consumidores y proveedores de servicios en el ámbito de los servicios financieros, integrados en la red FIN-NET.
+Otras entidades financieras.
 
-Responsable del fichero:
+Otros: Organismos del Espacio Común Europeo competentes para la resolución extrajudicial de litigios transfronterizos entre consumidores y proveedores de servicios en el ámbito de los servicios financieros, integrados en la red FIN-NET.
 
-Banco de España.
-
-Servicio o unidad ante el que se pueden ejercer los derechos de acceso, rectificación, cancelación y oposición:
-
-Servicio de Reclamaciones.
-
-Medidas de seguridad:
-
-Nivel medio.
+Transferencias de datos de carácter personal a países terceros.–No hay previstas transferencias de datos.
 
 (*) Nombre anterior: Datos correspondientes al Servicio de reclamaciones.
 
@@ -1037,6 +1155,192 @@ Planificación de Supervisión.
 Medidas de seguridad:
 
 Nivel medio.
+
+## Fichero
+
+## Proveedores y profesionales del efectivo
+
+Responsable del fichero.–Banco de España.
+
+Derechos de acceso, rectificación, cancelación y oposición.–Departamento de Emisión y Caja. Calle Alcalá, 48, 28014 Madrid
+
+Finalidad del fichero y usos previstos del mismo.–Gestión de las solicitudes para la realización de pruebas de maquinaria de tratamiento de efectivo y para la apertura de centros de selección de billetes y gestión de las prestaciones de servicios relacionados con el efectivo.
+
+Tipo de finalidad y usos previstos del fichero: Otras finalidades.
+
+Origen de los datos.–El propio interesado o su representante legal.
+
+Colectivos o categorías de interesados:
+
+Proveedores.
+
+Representantes legales.
+
+Solicitantes.
+
+Beneficiarios.
+
+Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
+
+Datos especialmente protegidos: No incluye datos de este tipo.
+
+Relativos a la comisión de infracciones: No incluye datos de este tipo.
+
+Datos de carácter identificativo:
+
+NIF/DNI.
+
+Nombre y apellidos.
+
+Dirección.
+
+Teléfono.
+
+Firma/huella.
+
+Otros datos tipificados: Académicos y profesionales.
+
+Sistema de tratamiento.–Mixto.
+
+Medidas de seguridad.–Básico.
+
+Cesiones de datos de carácter personal.–No hay previstas cesiones de datos.
+
+Transferencias de datos de carácter personal a países terceros.–No hay previstas transferencias de datos.
+
+## Fichero
+
+## Estructura de las cuotas participativas de las Cajas de Ahorros
+
+Responsable del fichero.–Banco de España.
+
+Derechos de acceso, rectificación, cancelación y oposición.–Departamento de Información Financiera y Central de Riesgos. Calle Alcalá, 48, 28014 Madrid.
+
+Normativa de referencia:
+
+Artículo 11 del Real Decreto 302/2004, de 20 de febrero.
+
+Circular del Banco de España 1/2009, de 18 de diciembre.
+
+Real Decreto Legislativo 1298/1986, de 28 de junio.
+
+Finalidad del fichero y usos previstos del mismo.–Disponer de la información actualizada de la estructura de las cuotas participativas de las Cajas de Ahorros.
+
+Tipo de finalidad y usos previstos del fichero: Otras finalidades.
+
+Origen de los datos.–Entidad privada.
+
+Colectivos o categorías de interesados.–Propietarios o arrendatarios.
+
+Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
+
+Datos especialmente protegidos: No incluye datos de este tipo.
+
+Relativos a la comisión de infracciones: No incluye datos de este tipo.
+
+Datos de carácter identificativo:
+
+NIF/DNI.
+
+Nombre y apellidos.
+
+Otros datos de carácter identificativo: Pasaporte, tarjeta de residencia.
+
+Otros datos tipificados: Económicos, financieros y de seguros.
+
+Sistema de tratamiento.–Automatizado.
+
+Medidas de seguridad.–Básico.
+
+Cesiones de datos de carácter personal.–No hay previstas cesiones de datos.
+
+Transferencias de datos de carácter personal a países terceros.–No hay previstas transferencias de datos.
+
+## Fichero
+
+## Registro de Servicios de Atención al Cliente y Defensores del Cliente
+
+Responsable del fichero.–Banco de España.
+
+Derechos de acceso, rectificación, cancelación y oposición.–Departamento de Instituciones Financieras. Calle Alcalá, 48, 28014 Madrid.
+
+Normativa de referencia:
+
+Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema financiero.
+
+Orden ECO/734/2004, de 11 de marzo, sobre los departamentos y servicios de atención al cliente y el defensor del cliente de las entidades financieras.
+
+Real Decreto Legislativo 1298/1986, de 28 de junio.
+
+Finalidad del fichero y usos previstos del mismo.–Gestión del Registro de Servicios de Atención al Cliente y Defensores del Cliente que trata los datos de contacto que las entidades supervisadas por el Banco de España tienen que poner a disposición de sus clientes para la presentación de reclamaciones y quejas.
+
+Tipo de finalidad y usos previstos del fichero: Procedimiento administrativo.
+
+Origen de los datos:
+
+El propio interesado o su representante legal.
+
+Entidad privada.
+
+Colectivos o categorías de interesados:
+
+Representantes legales.
+
+Solicitantes.
+
+Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
+
+Datos especialmente protegidos: No incluye datos de este tipo.
+
+Relativos a la comisión de infracciones: No incluye datos de este tipo.
+
+Datos de carácter identificativo:
+
+NIF/DNI.
+
+Nombre y apellidos.
+
+Dirección.
+
+Teléfono.
+
+Otros datos de carácter identificativo: Fax, dirección de correo electrónico.
+
+Otros datos tipificados: Detalles del empleo.
+
+Sistema de tratamiento.–Mixto.
+
+Medidas de seguridad.–Básico.
+
+Cesiones de datos de carácter personal:
+
+Hacienda Pública y Administración Tributaria.
+
+Órganos judiciales.
+
+Órganos de la Unión Europea.
+
+Otros órganos de la Administración del Estado.
+
+Otros órganos de la Comunidad Autónoma.
+
+Diputaciones provinciales.
+
+Otros órganos de la Administración Local.
+
+Otros: Comisión Nacional del Mercado de Valores, Servicio Ejecutivo de la Comisión de Prevención de Blanqueo de Capitales e Infracciones Monetarias.
+
+Transferencias de datos de carácter personal a países terceros:
+
+Otros órganos públicos de otros Estados.
+
+Organismos internacionales.
+
+Órganos judiciales.
+
+Otras categorías: órganos supervisores de instituciones financieras o mercados financieros y a países miembros de la Unión Europea y otros con los que exista reciprocidad.
+
+> Se modifica por la Circular 1/2011, de 26 de enero. Ref. BOE-A-2011-2378.
 
 > Se modifica por la Circular 4/2008, de 31 de octubre. Ref. BOE-A-2008-18886.
 
