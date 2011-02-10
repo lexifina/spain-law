@@ -1,3 +1,5 @@
+> Téngase en cuenta que el listado de sustancias se encuentra en proceso de actualización, consulte las notas de la versión completa del documento.
+
 ## ANEXO 1
 
 ## Sustancias enumeradas en las listas al Convenio sobre Sustancias Psicotrópicas, hecho en Viena el 21 de febrero de 1971 («Boletín Oficial del Estado» de 10 de septiembre de 1978)
@@ -40,6 +42,10 @@
 | 9 Fenobarbital. |  | Ácido 5-etil-5-fenilbarbitúrico. |
 | 10 Pipradrol. |  | 1,1-fifenil-1-(2-peperidi) metanol. |
 | 11 | SPA. | (-)-1-dimetiIamino-1,2-difeniletano. |
+
+> Véase el art. 1 de la Orden SPI/201/2011, de 3 de febrero Ref. BOE-A-2011-2490, en relación a la inclusión de sustancias en la lista I.
+
+> Téngase en cuenta para su aplicación el art. 2.
 
 > Véase el art. 1 de la Orden SAS/2712/2010, de 13 de octubre Ref. BOE-A-2010-16025, en relación a la inclusión de sustancias en la lista IV.
 
@@ -87,16 +93,20 @@
 
 > Téngase en cuenta para su aplicación los apartados 2 a 4 de la Orden de 20 de diciembre y arts. 2 a 4 de la Orden de 28 de septiembre de 1989.
 
-> Véanse los apartados 1 y 2 de la Orden de 6 de octubre de 1987 Ref. BOE-A-1987-24340, en relación a la inclusión de sustancias en las listas III y IV.
+> Véase los apartados 1 y 2 de la Orden de 6 de octubre de 1987 Ref. BOE-A-1987-24340, en relación a la inclusión de sustancias en las listas III y IV.
 
 > Téngase en cuenta para su aplicación los apartados 2 a 4.
 
-> Véanse los apartados 1 a 3 de la Orden de 30 de mayo de 1986 Ref. BOE-A-1986-14543, en relación a la inclusión de sustancias en las listas I, II, III y IV.
+> Véase los apartados 1 a 3 de la Orden de 30 de mayo de 1986 Ref. BOE-A-1986-14543, en relación a la inclusión de sustancias en las listas I, II, III y IV.
 
 > Téngase en cuenta para su aplicación los apartados 4 a 6.
 
 > Véase el apartado 1 de la Orden de 12 de julio de 1985 Ref. BOE-A-1985-15521, en relación a la inclusión de sustancias en la lista I.
 
-> Véanse los apartados 1 de las Órdenes de 30 de mayo de 1984 Ref. BOE-A-1984-12894 y Ref. BOE-A-1984-12895, en relación a la inclusión de sustancias en las listas III y IV.
+> Véase los apartados 1 de las Órdenes de 30 de mayo de 1984 Ref. BOE-A-1984-12894 y Ref. BOE-A-1984-12895, en relación a la inclusión de sustancias en las listas III y IV.
 
 > Téngase en cuenta para su aplicación los apartados 2 a 4.
+
+> Véase los apartados 1 de las Órdenes de 22 de julio de 1983 Ref. BOE-A-1983-21199. , Ref. BOE-A-1983-21200. y Ref. BOE-A-1983-21201.
+
+> Ténganse en cuenta para su aplicación el apartado 2.
