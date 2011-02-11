@@ -66,19 +66,7 @@ Que los estudiantes sepan comunicar sus conclusiones –y los conocimientos y ra
 
 Que los estudiantes posean las habilidades de aprendizaje que les permitan continuar estudiando de un modo que habrá de ser en gran medida autodirigido o autónomo.
 
-3.4 Se garantizarán, como mínimo las siguientes competencias básicas, en el caso del Doctorado, y aquellas otras que figuren en el Marco Español de Cualificaciones para la Educación Superior, MECES:
-
-Que los estudiantes hayan demostrado una comprensión sistemática de un campo de estudio y el dominio de las habilidades y métodos de investigación relacionados con dicho campo;
-
-Que los estudiantes hayan demostrado la capacidad de concebir, diseñar, poner en práctica y adoptar un proceso sustancial de investigación con seriedad académica;
-
-Que los estudiantes hayan realizado una contribución a través de una investigación original que amplíe las fronteras del conocimiento desarrollando un corpus sustancial, del que parte merezca la publicación referenciada a nivel nacional o internacional;
-
-Que los estudiantes sean capaces de realizar un análisis crítico, evaluación y síntesis de ideas nuevas y complejas;
-
-Que los estudiantes sepan comunicarse con sus colegas, con la comunidad académica en su conjunto y con la sociedad en general acerca de sus áreas de conocimiento;
-
-Que se les suponga capaces de fomentar, en contextos académicos y profesionales, el avance tecnológico, social o cultural dentro de una sociedad basada en el conocimiento.
+3.4 (Sin contenido)
 
 4. Acceso y admisión de estudiantes
 
@@ -185,5 +173,7 @@ a. Cronograma de implantación del título.
 b. Procedimiento de adaptación, en su caso, al nuevo plan de estudios por parte de los estudiantes procedentes de la anterior ordenación universitaria.
 
 c. Enseñanzas que se extinguen por la implantación del correspondiente título propuesto.
+
+> Se deja sin contenido el apartado 3.4 por la disposición final 1.2 del Real Decreto 99/2011, de 28 de enero. Ref. BOE-A-2011-2541.
 
 > Se modifica por el art. único.21 del Real Decreto 861/2010, de 2 de julio. Ref. BOE-A-2010-10542.
