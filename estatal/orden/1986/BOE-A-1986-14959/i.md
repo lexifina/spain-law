@@ -1,1 +1,0 @@
-## I. Solicitud de inscripción
