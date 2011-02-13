@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Estrategia global para el empleo de las personas trabajadoras de más edad.
+
+El Gobierno, en el plazo de seis meses, en colaboración con las Comunidades Autónomas y las organizaciones sindicales y empresariales más representativas, elaborará una Estrategia global de empleo de las personas trabajadoras de más edad que incluya medidas en materia de empleo, formación y condiciones de trabajo, con los objetivos de favorecer el mantenimiento en el mercado de trabajo de dichas personas y promover la reincorporación al mismo de aquellas que pierden su empleo en los últimos años de su vida laboral.
