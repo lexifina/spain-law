@@ -8,7 +8,7 @@ b) La certificación de las distintas categorías de semillas y plantas de viver
 
 c) Efectuar análisis oficiales de semillas y los controles de plantas de vivero, así como extender los certificados oportunos, y en especial los certificados de análisis con validez internacional.
 
-d) Llevar el Registro de Variedades Comerciales de Plantas, y a efectos de derecho de obtentor, el correspondiente Registro de Variedades Protegidas, así como proponer o informar, en su caso, el establecimiento de Listas de Variedades Comerciales Recomendadas o Listas de Variedades Comerciales Restringidas.
+d) (Derogado)
 
 e) Llevar el Registro de Productores a que se refiere el artículo octavo del presente Reglamento.
 
@@ -21,3 +21,5 @@ h) Servir a la política de producción que dicte el Ministerio de Agricultura.
 i) Estudiar los problemas técnicos que plantee el comercio exterior de semillas y plantas de vivero y emitir, cuando proceda, los informes y certificados necesarios para realizar las importaciones y exportaciones, exceptuada la competencia del Servicio de Inspección Fitopatológica.
 
 j) Cualesquiera otras que legalmente se le atribuyan.
+
+> Se deroga el apartado d) por la disposición derogatoria única del Real Decreto 170/2011, de 11 de febrero. Ref. BOE-A-2011-2705.

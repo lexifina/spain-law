@@ -16,6 +16,8 @@ b) Variedad comercial local (cultivar local), es la que procede de una región g
 
 c) Variedad de conservación, es, sin perjuicio de lo previsto en el artículo 3.5 de la Ley 30/2006, de 26 de julio, de semillas y plantas de vivero y de recursos filogenéticos, aquella variedad local adaptada de forma natural a las condiciones locales y regionales y, amenazadas por la erosión genética.
 
+d) Variedad de especie hortícola desarrollada para ser cultivada en condiciones determinadas es, aquella variedad de especie hortícola sin valor intrínseco para la producción comercial, pero desarrollada para su cultivo en condiciones agro-técnicas, climatológicas o edafológicas determinadas.
+
 Región de origen de una variedad de conservación: Es la región o regiones en las que históricamente se haya cultivado o a las que esté adaptada de forma natural. Para identificarla se debe tomar en cuenta la información proporcionada por las autoridades en materia de recursos fitogenéticos o las organizaciones reconocidas al efecto.
 
 Erosión genética: Pérdida de diversidad genética entre poblaciones o variedades de la misma especie, y dentro de ellas, a lo largo del tiempo, o la reducción de la base genética de una especie debido a la intervención humana o al cambio medioambiental.
@@ -87,6 +89,8 @@ Los Reglamentos Técnicos indicarán, para cada especie, las categorías y el n�
 En el caso de la patata y otras especies de multiplicación asexual, las categorías base y certificada podrán subdividirse en clases.
 
 En plantas de vivero, dada su especificidad, las categorías de éstas, así como, en su caso, los materiales con determinadas características que procedan, se establecerán en la normativa específica que se dicte.
+
+> Se añade la letra d) al apartado 5 por la disposición final 1.1 del Real Decreto 170/2011, de 11 de febrero. Ref. BOE-A-2011-2705#dfprimera.
 
 > Se modifican los apartados 5 y 6 por el art. 2.1 a 3 de la Orden ARM/2308/2009, de 12 de agosto. Ref. BOE-A-2009-13930.
 

@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 187, de 6 de agosto de 1986. Ref. BOE-A-1986-21092.
+Norma derogada por la disposición derogatoria única.k) del Real Decreto 170/2011, de 11 de febrero. Ref. BOE-A-2011-2705.

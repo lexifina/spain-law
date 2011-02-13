@@ -74,9 +74,11 @@ Cuando se autoricen esas regiones adicionales, es necesario asegurarse de que se
 
 d) Estas regiones adicionales para la comercialización no podrán autorizarse si se autorizan las regiones adicionales para la producción de semilla mencionadas en el apartado 15 bis.
 
-e) Por cada variedad de conservación, la cantidad de semilla comercializada no excederá del 0,5% del total de la semilla de la misma especie utilizada en España en una campaña de cultivo, o de la cantidad necesaria para sembrar 100 ha, si esta cantidad es mayor. Para las especies Pisum sativum, Triticum spp., Hordeum vulgare, Zea mays, Solanum tuberosum, Brassica napus y Helianthus annuus, ese porcentaje no excederá del 0,3%, o de la cantidad necesaria para sembrar 100 ha, si esta cantidad es mayor.
+e) Por cada variedad de conservación, excepto para las especies de plantas hortícolas, la cantidad de semilla comercializada no excederá del 0,5 por ciento del total de la semilla de la misma especie utilizada en España en una campaña de cultivo, o de la cantidad necesaria para sembrar 100 hectáreas, si esta cantidad es mayor. Para las especies (salvo las variedades hortícolas, en el caso que corresponda) Pisum sativum, Triticum., Hordeum vulgare, Zea mays, Solanum tuberosum, Brassica napus y Helianthus annuus, ese porcentaje no excederá del 0,3 por ciento, o de la cantidad necesaria para sembrar 100 hectáreas, si esta cantidad es mayor.
 
-No obstante, la cantidad total de semilla de variedades de conservación comercializadas no excederá del 10 % del total de la semilla de la especie de que se trate utilizada anualmente en España. En los casos en que ese porcentaje sea inferior a la cantidad necesaria para sembrar 100 ha, la cantidad máxima de semilla de la especie de que se trate utilizada anualmente en España podrá incrementarse hasta alcanzar la cantidad necesaria para sembrar 100 ha.
+No obstante, la cantidad total de semilla de variedades de conservación comercializadas no excederá del 10 por ciento del total de la semilla de la especie de que se trate utilizada anualmente en España, excepto para las especies de plantas hortícolas. En los casos en que ese porcentaje sea inferior a la cantidad necesaria para sembrar 100 hectáreas, la cantidad máxima de semilla de la especie de que se trate utilizada anualmente en España podrá incrementarse hasta alcanzar la cantidad necesaria para sembrar 100 hectáreas.
+
+Para cada variedad de conservación de especies de plantas hortícolas, la cantidad de semilla que se comercialice no podrá superar la cantidad necesaria para producir las plantas que fueren menester para la plantación en España de la superficie máxima establecida en el anexo V para cada especie.
 
 f) Los productores notificarán al órgano competente de cada Comunidad Autónoma, las dimensiones y la localización de la zona de producción de semilla antes del comienzo de cada temporada de producción.
 
@@ -133,6 +135,8 @@ La Estación de Ensayos de Semillas del Instituto es la acreditada en la Asociac
 En los casos en que esté autorizado el fraccionamiento de los envases originales, los productores están obligados a conservar los albaranes de venta correspondientes durante un plazo superior en un año al de validez del precintado. Si existiese alguna reclamación, el Productor estará obligado a exhibir ante los servicios oficiales de control dichos albaranes en los que constará la especie y variedad de la semilla vendida, nombre y domicilio del comprador y número de lote o lotes, con las cantidades vendidas de cada uno.
 
 51. Las posibles infracciones en el comercio de semillas se clasificarán y sancionarán de acuerdo con lo preceptuado en la Ley 11/1971, de 30 de marzo, y disposiciones complementarias.
+
+> Se modifica la letra e) del apartado 41 bis por la disposición final 1.5 del Real Decreto 170/2011, de 11 de febrero. Ref. BOE-A-2011-2705#dfprimera.
 
 > Se modifica el apartado 40 y se añade el 41 bis por el art 2.7 y 8 de la Orden ARM/2308/2009, de 12 de agosto. Ref. BOE-A-2009-13930.
 

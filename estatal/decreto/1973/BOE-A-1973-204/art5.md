@@ -1,4 +1,4 @@
-## Art. 5.º
+## Art. 5.
 
 En orden a la aplicación del artículo 5.º de la Ley 11/1971, se estable lo siguiente:
 
@@ -50,9 +50,9 @@ B.2 Las semillas y plantas de vivero que se certifiquen de acuerdo con los siste
 
 C. Registro de variedades comerciales de plantas
 
-C.1 En el Registro de Variedades Comerciales de Plantas se inscribirán todas las variedades que puedan ser distinguibles de las que figuran o hayan figurado en el mismo; sean identificables, es decir, sean variedades fijadas si se trata de plantas autógamas o sus características morfológicas presenten una estabilidad suficiente en el curso de sucesivas generaciones, si se trata de plantas alógamas; posean un valor agronómico comprobado siguiendo métodos oficialmente aprobados, salvo en los casos en que los Reglamentos Técnicos específicos indiquen que no precisa comprobarse el valor agronómico del cultivar.
+C.1 (Derogado)
 
-C.2 Por el Ministerio de Agricultura, Pesca y Alimentación se publicarán listas de variedades comerciales de las especies cultivadas, y se podrán publicar listas de variedades comerciales recomendadas y lista de variedades comerciales restringidas. También se podrán publicar listas de variedades comerciales cuyas semillas y plantas de vivero puedan obtenerse en España con destino exclusivo a la exportación.
+C.2 (Derogado)
 
 La inscripción de una variedad en la lista de variedades comerciales tendrá una vigencia de diez años, transcurridos los cuales y a petición razonada del obtentor o su causahabiente, podrá renovarse la inscripción.
 
@@ -101,6 +101,8 @@ F.6 En los casos en que las correspondientes partidas arancelarias incluyan, par
 G. Autorizaciones temporales.
 
 De acuerdo con la normativa comunitaria y el procedimiento comunitario previsto y en caso de dificultades temporales de suministro de semillas y plantas de vivero, el MAPA podrá dictar las normas y adoptar las medidas que sean necesarias en orden a la producción y entrada temporal en España, con fines comerciales, de variedades de semillas y plantas de vivero de cultivares que, no habiendo sido contemplados en los puntos C y F, no estén inscritos en las listas de variedades comerciales ni en los catálogos comunes de variedades de plantas agrícolas o de plantas hortícolas de la Unión Europea, o procedan de países sin equivalencia reconocida.
+
+> Se deroga el apartado 2.C.1 y 2 por la disposición derogatoria única del Real Decreto 170/2011, de 11 de febrero. Ref. BOE-A-2011-2705.
 
 > Se modifica el apartado 2.A, C.3, F y se añade la letra G por el art. único del Real Decreto 2273/1993, de 22 de diciembre. Ref. BOE-A-1993-30467.
 
