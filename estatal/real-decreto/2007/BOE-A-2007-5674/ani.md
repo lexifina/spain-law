@@ -932,11 +932,7 @@ Illes Balears
 
 Registro de la Propiedad de Calvià número 3
 
-Se forma por segregación del Registro de la Propiedad de Calvià número 1.
-
-Capitalidad: Calvià.
-
-Circunscripción: Comprende la zona delimitada de esta forma: Tomando como línea divisoria del término municipal de Calvià la carretera nacional 719 Andrax-Palma de Mallorca y la autopista que conduce a este mismo lugar, está formado por los territorios situados al sur de la línea que marca dicha carretera desde la salida de Peguera- cuyo núcleo urbano corresponde al Registro de Calvià N° 2- hasta la rotonda que lleva al casino, siguiendo desde ese punto hacia el sur por la carretera que va hasta el Cap de Cala Figuera, comprendiendo toda la zona que queda al oeste del área delimitada.
+(Anulado)
 
 Del Registro de la Propiedad de Eivissa número 1 y Mercantil, resultan los Registros de la Propiedad de Eivissa número 1 y Mercantil y el Registro de la Propiedad de Eivissa número 3:
 
@@ -3671,5 +3667,7 @@ Se forma por segregación del Registro de la Propiedad de Xàtiva.
 Capitalidad: Xàtiva.
 
 Circunscripción: El término municipal de Xàtiva.
+
+> Se declara la nulidad de lo indicado por Sentencia del TS de 19 de enero de 2011. Ref. BOE-A-2011-3100.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 138, de 9 de julio de 2007. Ref. BOE-A-2007-11444.
