@@ -58,6 +58,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 35](a3-7.md)
 - [Artículo 36](a3-8.md)
 - [Disposición transitoria primera](dt.md)
+- [Disposición transitoria primera bis](dt-2.md)
 - [Disposición transitoria segunda](dt-3.md)
 - [Disposición transitoria tercera](dt-4.md)
 - [Disposición transitoria cuarta](dt-5.md)
