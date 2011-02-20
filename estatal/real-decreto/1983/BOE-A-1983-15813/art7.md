@@ -12,6 +12,10 @@ Cuando el contrato por tiempo indefinido se concierte a tiempo parcial, se mante
 
 3. Los beneficios aquí previstos no podrán, en concurrencia con otras ayudas públicas para la misma finalidad, superar el 60 por 100 del coste salarial anual correspondiente al contrato que da derecho a los mismos.
 
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto-ley 3/2011, de 18 de febrero. Ref. BOE-A-2011-3255.
+
+> Téngase en cuenta que este precepto permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
 > Se modifica el apartado 1 por el art. único.1 del Real Decreto 170/2004, de 30 de enero. Ref. BOE-A-2004-1847
 
 > Se modifica el apartado 3 por la disposición adicional 2.2 del Real Decreto 27/2000, de 14 de enero. Ref. BOE-A-2000-1547

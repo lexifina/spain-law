@@ -4,4 +4,8 @@ Las empresas que contraten trabajadores minusválidos mediante un contrato indef
 
 Si la empresa no solicitase esta ayuda, podrá hacerlo el propio trabajador.
 
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto-ley 3/2001, de 18 de febrero. Ref. BOE-A-2011-3255.
+
+> Téngase en cuenta que este precepto permanecerá en vigor hasta que se aprueben la Estrategía Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establece la disposición transitoria 3.
+
 > Se modifica por el art. único.3 del Real Decreto 170/2004, de 30 de enero. Ref. BOE-A-2004-1847

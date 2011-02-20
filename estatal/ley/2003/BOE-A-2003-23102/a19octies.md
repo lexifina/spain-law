@@ -1,0 +1,9 @@
+## Artículo 19 octies. Colectivos prioritarios.
+
+1. El Gobierno y las Comunidades Autónomas adoptarán, de acuerdo con los preceptos constitucionales y estatutarios, así como con los compromisos asumidos en el ámbito de la Unión Europea y en la Estrategia Española de Empleo, programas específicos destinados a fomentar el empleo de las personas con especiales dificultades de integración en el mercado de trabajo, especialmente jóvenes, con particular atención a aquellos con déficit de formación, mujeres, parados de larga duración, mayores de 45 años, personas con discapacidad o en situación de exclusión social, e inmigrantes, con respeto a la legislación de extranjería, u otros que se puedan determinar, en el marco del Sistema Nacional de Empleo.
+
+2. Teniendo en cuenta las especiales circunstancias de estos colectivos, los Servicios Públicos de Empleo asegurarán el diseño de itinerarios individuales y personalizados de empleo que combinen las diferentes medidas y políticas, debidamente ordenadas y ajustadas al perfil profesional de las personas que los integran y a sus necesidades específicas. Cuando ello sea necesario, los servicios públicos de empleo valorarán la necesidad de coordinación con los servicios sociales para dar una mejor atención a estas personas.
+
+> Se añade por el art. 9 del Real Decreto-ley 3/2011, de 18 de febrero. Ref. BOE-A-2011-3255.
+
+> Su anterior numeración era art. 26.

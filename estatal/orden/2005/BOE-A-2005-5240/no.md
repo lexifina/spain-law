@@ -1,0 +1,1 @@
+Téngase en cuenta que esta norma queda derogada, aunque permanecerá en vigor hasta que se aprueben la Estrategia Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establecen las disposiciones derogatoria única.1.g) y transitoria 3 del Real Decreto-ley 3/2011, de 18 de febrero. Ref. BOE-A-2011-3255
