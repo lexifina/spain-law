@@ -1,0 +1,3 @@
+## Disposición adicional quinta.
+
+Sin perjuicio de las competencias legal y estatutariamente atribuidas a la Asamblea General, los estatutos sociales de las Cajas de Ahorro podrán determinar que el consejo de administración, como órgano que conforme al artículo 13 de la Ley 31/1985, de regulación de las normas básicas sobre Órganos Rectores de las Cajas de Ahorro, tiene encomendada la administración y gestión financiera de la entidad para el cumplimiento de sus fines, será el competente para aprobar, en su caso, los acuerdos de la caja relativos a su participación en el banco a través del cual desarrolle, en su caso, su actividad como entidad de crédito.

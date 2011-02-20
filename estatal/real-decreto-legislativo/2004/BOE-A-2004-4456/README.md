@@ -247,6 +247,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria vigésima novena](dtvigesimanovena.md)
 - [Disposición transitoria trigésima](dttrigesima.md)
 - [Disposición transitoria trigésimo primera](dttrigesimoprimera.md)
+- [Disposición transitoria trigésimo tercera](dttrigesimotercera.md)
+- [Disposición transitoria trigésimo cuarta](dttrigesimocuarta.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
 - [Disposición final tercera](dftercera.md)
