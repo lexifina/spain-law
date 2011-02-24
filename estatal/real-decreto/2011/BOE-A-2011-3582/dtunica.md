@@ -1,0 +1,5 @@
+## Disposición transitoria única. Estrategias de conservación de especies amenazadas y de lucha contra las principales amenazas para la biodiversidad aprobadas.
+
+Las estrategias de conservación de especies amenazadas y de lucha contra las principales amenazas para la biodiversidad aprobadas con anterioridad a la entrada en vigor de este real decreto que no se ajusten a lo dispuesto en el artículo 57 de la Ley 42/2007, de 13 de diciembre, deberán adaptarse a ésta, para lo que se procederá, si la adaptación o actualización fuera necesaria, según lo previsto en el artículo 10 de este real decreto. En el plazo de un año la Comisión Estatal para el Patrimonio Natural y la Biodiversidad deberá revisar las estrategias ya aprobadas para determinar si debe realizarse dicha adaptación.
+
+Asimismo, las estrategias de conservación de especies y de lucha contra las principales amenazas para la biodiversidad aprobadas con anterioridad a la entrada en vigor de este real decreto deberán publicarse en el Boletín Oficial del Estado.
