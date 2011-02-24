@@ -70,8 +70,11 @@
 |  | Fibra de papel. |  |
 | 45 | Elastomultiéster | 1,50 |
 | 46 | Elastolefina | 1,50 |
+| 47 | Melamina | 7,00 |
 
 (1) El porcentaje convencional del 17 por 100 se aplicará en aquellos casos en que no sea posible afirmar si el producto textil que contiene lana y/o pelo pertenece al proceso de peinado o al proceso de cardado.
+
+> Se añade la fila 47 por el art. único.2 de la Orden PRE/348/2011, de 21 de febrero. Ref. BOE-A-2011-3584.
 
 > Se añade la fila 46 por el art. único.3 del Real Decreto 1523/2007, de 16 de noviembre. Ref. BOE-A-2007-20276.
 
