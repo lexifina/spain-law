@@ -1,0 +1,3 @@
+En ejercicio de las competencias conferidas por el artículo 10.2.b) de la Ley 10/1990, de 15 de octubre del Deporte, la Comisión Directiva del Consejo Superior de Deportes, en su sesión de 30 de noviembre de 2010, han aprobado definitivamente los Estatutos de la Real Federación Española de Caza, y autorizado su inscripción en el Registro de Asociaciones Deportivas.
+
+En cumplimiento de lo previsto en el artículo 31.7 de la Ley del Deporte y artículo 12.3 del Real Decreto 1835/1991, de 20 de diciembre, sobre Federaciones deportivas españolas, esta Secretaría de Estado acuerda disponer la publicación de los Estatutos de la Real Federación Española de Caza, contenida en el anexo a la presente Resolución.
