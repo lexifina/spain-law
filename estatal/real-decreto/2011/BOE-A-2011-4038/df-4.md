@@ -1,0 +1,5 @@
+## Disposición final cuarta. Incorporación de derecho de la Unión Europea y actualización de remisiones normativas.
+
+1. Mediante este real decreto se incorpora al derecho español la Directiva 2009/125/CE, del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicable a los productos relacionados con la energía.
+
+2. Las referencias hechas, en las disposiciones legales, reglamentarias y administrativas vigentes, a Directiva 2005/32/CE del Parlamento Europeo y del Consejo, de 6 de julio de 2005, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos que utilizan energía y por la que se modifica la Directiva 92/42/CEE del Consejo y las Directivas 96/57/CE y 2000/55/CE del Parlamento Europeo y del Consejo se entenderán hechas a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía.
