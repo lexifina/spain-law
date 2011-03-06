@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Procedimiento de presentación de reclamaciones ante el Banco de España, la Comisión Nacional del Mercado de Valores y la Dirección General de Seguros y Fondos de Pensiones.
+
+Hasta la aprobación de las disposiciones reglamentarias a las que se refiere el artículo 30.2 de la Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero, en la redacción dada por la disposición final undécima de esta Ley, continuará aplicándose el procedimiento previsto en los artículos 7 a 15 del Real Decreto 303/2004, de 20 de febrero, por el que se aprueba el Reglamento de los comisionados para la defensa del cliente de servicios financieros.

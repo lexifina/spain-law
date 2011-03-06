@@ -1,0 +1,5 @@
+## Artículo 84 bis.
+
+Sin perjuicio de lo dispuesto en el artículo anterior, con carácter general, el ejercicio de actividades no se someterá a la obtención de licencia u otro medio de control preventivo. No obstante, podrán someterse a licencia o control preventivo aquellas actividades que afecten a la protección del medio ambiente o del patrimonio histórico-artístico, la seguridad o la salud públicas, o que impliquen el uso privativo y ocupación de los bienes de dominio público, siempre que la decisión de sometimiento esté justificada y resulte proporcionada. En caso de existencia de licencias o autorizaciones concurrentes entre una entidad local y alguna otra Administración, la entidad local deberá motivar expresamente en la justificación de la necesidad de la autorización o licencia el interés general concreto que se pretende proteger y que éste no se encuentra ya cubierto mediante otra autorización ya existente.
+
+> Se añade por el art. 41.1 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.

@@ -1,0 +1,27 @@
+## Disposición final undécima. Modificación de la Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero.
+
+El artículo 30 de la Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero, queda redactado como sigue:
+
+«Artículo 30. Presentación de reclamaciones ante el Banco de España, la Comisión Nacional del Mercado de Valores y la Dirección General de Seguros y Fondos de Pensiones.
+
+1. Los servicios de reclamaciones del Banco de España, la Comisión Nacional del Mercado de Valores y la Dirección General de Seguros y Fondos de Pensiones atenderán las quejas y reclamaciones que presenten los usuarios de servicios financieros, que estén relacionadas con sus intereses y derechos legalmente reconocidos, y que deriven de presuntos incumplimientos por las entidades reclamadas, de la normativa de transparencia y protección de la clientela o de las buenas prácticas y usos financieros.
+
+Los servicios de reclamaciones atenderán también las consultas que formulen los usuarios de servicios financieros sobre las normas aplicables en materia de transparencia y protección a la clientela, así como sobre los cauces legales existentes para el ejercicio de sus derechos.
+
+La organización y el funcionamiento de los servicios de reclamaciones se ajustarán a los principios de independencia, transparencia, contradicción, eficacia, legalidad, libertad y representación.
+
+Los servicios de reclamaciones funcionarán bajo el principio de ventanilla única, debiendo remitir al competente las reclamaciones que no sean de su competencia.
+
+Los servicios de reclamaciones informarán a los servicios de supervisión correspondientes cuando aprecien indicios de incumplimientos graves o reiterados de las normas de transparencia y protección a la clientela o de las buenas prácticas y usos financieros por parte de una misma entidad.
+
+2. Los servicios de reclamaciones del Banco de España, la Comisión Nacional del Mercado de Valores y la Dirección General de Seguros y Fondos de Pensiones resolverán las quejas y reclamaciones a las que se refiere el apartado anterior, mediante informes motivados, que no tendrán en ningún caso carácter de acto administrativo recurrible.
+
+3. El Ministro de Economía y Hacienda desarrollará el procedimiento de presentación de reclamaciones ante los servicios de reclamaciones del Banco de España, la Comisión Nacional del Mercado de Valores y la Dirección General de Seguros y Fondos de Pensiones, que deberá ajustarse a las siguientes reglas:
+
+a) Para la admisión y tramitación de reclamaciones será imprescindible acreditar haberlas formulado previamente, por escrito, dirigido al departamento o servicio de atención al cliente o, en su caso, al Defensor del Cliente de la entidad contra la que se reclame. Éstos deberán acusar recibo por escrito de las reclamaciones que se les presenten y resolverlas o denegarlas igualmente por escrito y motivadamente. Asimismo, el reclamante deberá acreditar que ha transcurrido el plazo de dos meses desde la fecha de presentación de la reclamación sin que haya sido resuelta o que ha sido denegada la admisión de la reclamación o desestimada su petición.
+
+b) Recibida la reclamación por el servicio de reclamaciones competente por razón de la materia se verificará la concurrencia de las circunstancias previstas en los apartados anteriores y, si se cumplen los requisitos necesarios, se procederá a la apertura de un expediente por cada reclamación, en el que se incluirán todas las actuaciones relacionadas con la misma; en caso contrario, se requerirá al reclamante para completar la información en el plazo de diez días, con apercibimiento de que si así no lo hiciese se le tendrá por desistido de su reclamación.
+
+c) Formulado el correspondiente informe, y si éste fuera desfavorable a la entidad reclamada, ésta estará obligada a informar al servicio de reclamaciones competente si ha procedido a la rectificación voluntaria en un plazo no superior a un mes desde su notificación.
+
+4. El Banco de España, la Comisión Nacional del Mercado de Valores y la Dirección General de Seguros y Fondos de Pensiones publicarán anualmente una memoria de sus respectivos servicios de reclamaciones en la que, al menos, deberá incluirse el resumen estadístico de las consultas y reclamaciones atendidas y los criterios mantenidos por dichos servicios, en relación con las materias sobre las que versan las reclamaciones presentadas, así como las entidades afectadas, con indicación en su caso del carácter favorable o desfavorable del informe.»

@@ -1,0 +1,3 @@
+## Disposición final quincuagésima primera. Autorización al Gobierno para la aprobación del procedimiento básico de certificación energética en edificios existentes.
+
+Se autoriza al Gobierno para que, mediante Real Decreto y en el plazo de seis meses, a contar desde la entrada en vigor de esta Ley, apruebe el procedimiento básico para la certificación de eficiencia energética en los edificios existentes establecida en el artículo 83. Dicho desarrollo reglamentario incorporará los supuestos de excepción y los sistemas de certificación previstos en los artículos 4 y 7, respectivamente, de la Directiva 2002/91/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 2002, relativa a la eficiencia energética de los edificios.

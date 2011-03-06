@@ -26,7 +26,7 @@ El Ministerio de Economía y Hacienda podrá autorizar participaciones superiore
 
 10. La realización de operaciones cooperativizadas con terceros no socios, fuera de los casos permitidos en las leyes, así como el incumplimiento de las normas sobre contabilización separada de tales operaciones y destino al Fondo de Reserva Obligatorio de los resultados obtenidos en su realización.
 
-Ninguna cooperativa, cualquiera que sea su clase, podrá realizar un volumen de operaciones con terceros no socios superior al 50 por ciento del total de las de la cooperativa, sin perder la condición de cooperativa fiscalmente protegida. Dicha limitación no será aplicable a las cooperativas agrarias respecto de las operaciones de distribución al por menor de productos petrolíferos a terceros no socios.
+Ninguna cooperativa, cualquiera que sea su clase, podrá realizar un volumen de operaciones con terceros no socios superior al 50 por ciento del total de las de la cooperativa, sin perder la condición de cooperativa fiscalmente protegida.
 
 A los efectos de la aplicación del límite establecido en el párrafo anterior, se asimilan a las operaciones con socios los ingresos obtenidos por las secciones de crédito de las cooperativas procedentes de cooperativas de crédito, inversiones en fondos públicos y en valores emitidos por empresas públicas.
 
@@ -41,6 +41,8 @@ A los efectos de la aplicación del límite establecido en el párrafo anterior,
 15. La conclusión de la empresa que constituye su objeto o la imposibilidad manifiesta de desarrollar la actividad cooperativizada.
 
 16. La falta de auditoría externa en los casos señalados en las normas legales.
+
+> Se modifica el apartado 10, con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2011, por la disposición final 42. 2.3 de la Ley 2/2011, de 4 de marzo.Ref. BOE-A-2011-4117.
 
 > Se modifica el apartado 10 por el art. 9.4 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
 

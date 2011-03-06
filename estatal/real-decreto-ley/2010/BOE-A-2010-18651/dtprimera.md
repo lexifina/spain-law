@@ -4,4 +4,8 @@
 
 2. Las exacciones que constituyen el recurso cameral permanente que todavía no hayan sido exigibles a la fecha de entrada en vigor del presente Real Decreto-ley cuyo devengo se haya producido o vaya a producirse durante 2010 no serán ya exigibles. No obstante lo anterior, cuando se trate de entidades sujetas al Impuesto sobre Sociedades cuyo importe neto de cifra de negocios haya sido igual o superior a diez millones de euros, en el ejercicio inmediatamente anterior, las exacciones que todavía no hayan sido exigibles a la fecha de entrada en vigor del presente Real Decreto-ley lo serán de acuerdo con la normativa hasta ahora en vigor siempre que su devengo se haya producido o vaya a producirse en 2010. En ningún caso originarán derecho a la devolución las exacciones devengadas, exigibles e ingresadas en 2010.
 
+El régimen transitorio del recurso cameral permanente regulado en este apartado se entenderá sin perjuicio de los regímenes forales de los Territorios Históricos del País Vasco y Navarra.
+
 3. En el plazo de un año desde la entrada en vigor de este Real Decreto-ley, las Cámaras y su Consejo Superior adaptarán a lo en él dispuesto el contenido sus actuales Reglamentos de Régimen Interior, que deberán ser aprobados por la respectiva Administración tutelante.
+
+> Se añade un párrafo al apartado 2 por la disposición final 46 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.

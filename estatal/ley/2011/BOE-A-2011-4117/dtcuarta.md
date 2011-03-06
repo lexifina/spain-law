@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Régimen transitorio de los recursos propios de las entidades gestoras de fondos de pensiones.
+
+Las entidades gestoras de fondos de pensiones autorizadas antes de la entrada en vigor de esta Ley dispondrán de un plazo de doce meses desde la entrada en vigor para alcanzar las cuantías mínimas de recursos propios adicionales exigidas en función de los fondos gestionados, conforme a lo dispuesto en el artículo 20 del Texto Refundido de la Ley de regulación de los Planes y Fondos de Pensiones, aprobado por el Real Decreto Legislativo 1/2002, de 29 de noviembre, en la redacción dada por la disposición final decimotercera de la presente Ley.

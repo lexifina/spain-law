@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Norma provisional sobre el seguro de responsabilidad civil profesional para ejercer como agencia de suscripción.
+
+En tanto que el Ministerio de Economía y Hacienda no fije normas sobre el seguro de responsabilidad civil profesional para ejercer como agencia de suscripción, el seguro de responsabilidad civil profesional que cubra todo el territorio del Espacio Económico Europeo u otra garantía financiera, para las responsabilidades que pudieran surgir por negligencia profesional, será de al menos un millón y medio de euros por siniestro y, en suma, dos millones de euros para todos los siniestros correspondientes a un determinado año.
+
+Las cuantías establecidas en el párrafo anterior se actualizarán con efectos de 1 de enero de 2015 y cada 5 años desde esa fecha, para tener en cuenta la evolución del índice europeo de precios de consumo publicado por Eurostat. A dichos efectos, para facilitar su conocimiento y aplicación, se harán públicas dichas actualizaciones por resolución de la Dirección General de Seguros y Fondos de Pensiones.

@@ -1,0 +1,7 @@
+## Disposición final vigésima novena. Modificación de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos.
+
+Se añade una disposición transitoria vigésima segunda a la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, con la siguiente redacción:
+
+«Disposición transitoria vigésima segunda. Régimen transitorio de instalaciones en dominio público.
+
+Los titulares de las actividades referidas en el artículo 103.1 de la presente Ley que con anterioridad a su entrada en vigor hayan requerido resolución de la Administración del Estado previa al inicio de su ejercicio en la que se establezca una determinada localización de las instalaciones e infraestructuras, con obligación de aprobación administrativa de su proyecto de instalación, resultando la necesidad de ocupación de terrenos deslindados, anterior o posteriormente, como dominio público estatal de cualquier naturaleza, tendrán derecho a la prórroga de dichas concesiones o, en su caso, al otorgamientos de nuevas concesiones de ocupación de dominio al término de la primera, en tanto no se declare extinguido el interés general que motivó dicha localización mediante resolución motivada de rango equivalente a aquella en que se adoptó dicha decisión, o hubieren perdido, por causa prevista en el ordenamiento, el título o condiciones que habilitan para el ejercicio de la actividad. En tanto no se resuelva dicha prórroga o, en su caso, una nueva concesión, se considerará prorrogada la existente.»

@@ -1,0 +1,9 @@
+## Artículo 92 bis. Supuestos
+
+1. Sin perjuicio de los supuestos previstos en esta Ley de sucesión en la persona del contratista, cesión del contrato, revisión de precios y prórroga del plazo de ejecución, los contratos del sector público sólo podrán modificarse cuando así se haya previsto en los pliegos o en el anuncio de licitación o en los casos y con los límites establecidos en el artículo 92 quáter.
+
+En cualesquiera otros supuestos, si fuese necesario que la prestación se ejecutase en forma distinta a la pactada, inicialmente deberá procederse a la resolución del contrato en vigor y a la celebración de otro bajo las condiciones pertinentes. Este nuevo contrato deberá adjudicarse de acuerdo con lo previsto en el Libro III.
+
+2. La modificación del contrato no podrá realizarse con el fin de adicionar prestaciones complementarias a las inicialmente contratadas, ampliar el objeto del contrato a fin de que pueda cumplir finalidades nuevas no contempladas en la documentación preparatoria del mismo, o incorporar una prestación susceptible de utilización o aprovechamiento independiente. En estos supuestos, deberá procederse a una nueva contratación de la prestación correspondiente, en la que podrá aplicarse el régimen establecido para la adjudicación de contratos complementarios si concurren las circunstancias previstas en los artículos 155.b) y 158.b).
+
+> Se añade por la disposición final 16.7 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.

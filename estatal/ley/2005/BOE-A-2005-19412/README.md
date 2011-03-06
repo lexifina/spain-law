@@ -80,6 +80,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 52](a52.md)
 - [Artículo 53](a53.md)
 - [Artículo 54](a54.md)
+- [Artículo 55](a55.md)
 - [Disposición transitoria](dt.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final primera](dfprimera.md)

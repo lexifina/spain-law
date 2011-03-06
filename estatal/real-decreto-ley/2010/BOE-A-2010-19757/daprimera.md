@@ -15,4 +15,6 @@ A estos efectos se define el número de horas equivalentes de funcionamiento de 
 
 3. La Comisión Nacional de Energía aplicará la limitación de horas que se establece en esta disposición a las liquidaciones de primas correspondientes a las instalaciones de tecnología solar fotovoltaica. Asimismo aplicará la limitación que se establece en la disposición transitoria segunda a las liquidaciones que se refieran a las instalaciones de tecnología solar fotovoltaica acogidas al régimen económico establecido en el Real Decreto 661/2007, de 25 de mayo. Para ambos casos, podrá recabar la información que precise de los titulares de las instalaciones y de los órganos competentes para la autorización de las mismas.
 
-4. Se habilita al Gobierno a modificar mediante real decreto lo dispuesto en el apartado 2, para adecuarlo a la evolución de la tecnología.»
+4. Se habilita al Gobierno a modificar mediante Real Decreto lo dispuesto en el apartado 2, para adecuarlo a la evolución de la tecnología. Las eventuales modificaciones sólo afectarán a las instalaciones que no se encuentren en funcionamiento en el momento de la entrada en vigor de dicho Real Decreto, para lo cual se considerará la fecha de inscripción en el registro de preasignación de retribución para instalaciones fotovoltaicas.
+
+> Se modifica el apartado 4 por la disposición final 44.1 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117#dfcuadragesimacuarta.

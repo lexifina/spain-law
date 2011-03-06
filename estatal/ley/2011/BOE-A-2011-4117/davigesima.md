@@ -1,0 +1,3 @@
+## Disposición adicional vigésima. Informe del Gobierno sobre inclusión del IVA en procedimientos de contratación pública.
+
+El Gobierno elaborará un informe en un plazo de tres meses en el que analice la posibilidad, en el marco de la normativa comunitaria, de incluir en el precio de los procedimientos de contratación pública el IVA cuando intervengan licitadores exentos del impuesto, en particular entidades del Tercer sector, teniendo en cuenta el principio de adjudicación de los servicios a la oferta económicamente más ventajosa para la Administración Pública, así como los demás principios que deben regir la contratación pública.

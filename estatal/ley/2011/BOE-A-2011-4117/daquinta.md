@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Centros de formación profesional y Campus de Excelencia Internacional.
+
+El Gobierno adoptará las medidas adecuadas para promover la participación de los centros de formación profesional, en el marco de los proyectos de Campus de Excelencia Internacional, para favorecer una mayor coordinación entre ambos niveles educativos y una mejor relación con el sector productivo de referencia. Las Entidades locales podrán participar en la financiación de estas iniciativas en los términos que establezcan en los contratos o convenios de colaboración que suscriban con las universidades y las administraciones educativas.

@@ -208,6 +208,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria decimonovena](decimonovena-2.md)
 - [Disposición transitoria vigésima](vigesima-2.md)
 - [Disposición transitoria vigésima primera](vigesimaprimera-2.md)
+- [Disposición transitoria vigésima segunda](vigesimasegunda-2.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final primera](primera-3.md)
 - [Disposición final segunda](segunda-3.md)

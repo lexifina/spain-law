@@ -118,6 +118,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 83](a83.md)
 - [CAPÍTULO II](cii-4.md)
 - [Artículo 84](a84.md)
+- [Artículo 84 bis](a84bis.md)
+- [Artículo 84 ter](a84ter.md)
 - [Artículo 85](a85.md)
 - [Artículo 85 bis.](a85bis.md)
 - [Artículo 85 ter.](a85ter.md)

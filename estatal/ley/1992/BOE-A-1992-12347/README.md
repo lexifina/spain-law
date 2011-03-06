@@ -51,5 +51,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 30](a30.md)
 - [Artículo 31](a31.md)
 - [Disposición adicional](da.md)
+- [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
 - [Disposición transitoria](dt.md)
 - [firma](firma.md)
