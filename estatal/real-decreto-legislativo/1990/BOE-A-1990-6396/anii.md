@@ -34,6 +34,8 @@ La pérdida de puntos únicamente se producirá cuando el hecho del que se deriv
 
 El crédito de puntos es único para todas las autorizaciones administrativas de las que sea titular el conductor.
 
+> Véase sobre detracción de puntos, con vigencia desde el 7 de marzo hasta el 30 de junio de 2011, el art. 2 del Real Decreto 303/2011, de 4 de marzo. Ref. BOE-A-2011-4120.
+
 > Se modifica por el art. único.16 de la Ley 18/2009, de 23 de noviembre. Ref. BOE-A-2009-18732
 
 > Téngase en cuenta que los efectos de esta Ley que sean favorables para el infractor entran en vigor el 25 de noviembre de 2009, según lo establecido en la disposición final 7.
