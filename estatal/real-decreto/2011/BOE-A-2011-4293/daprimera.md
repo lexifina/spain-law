@@ -1,0 +1,7 @@
+## Disposición adicional primera. Inscripción de empresas y establecimientos de otros estados miembros.
+
+En el Registro se podrán también inscribir las empresas y establecimientos situados en cualquier otro Estado miembro de la Unión Europea que voluntariamente lo soliciten a la Agencia Española de Seguridad Alimentaria y Nutrición, directamente en su registro o en cualquier otro lugar de los previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre. A tal efecto acompañaran a su solicitud una certificación oficial del organismo competente del país donde esté ubicada la empresa o establecimiento en la que se haga constar que éstos se encuentran legalmente establecidos. Asimismo, podrán remitirlas por vía electrónica, de conformidad con lo establecido por el Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos.
+
+En caso de que hubiera alguna duda, la citada Agencia iniciará las gestiones necesarias para proceder a un examen más detallado del asunto en colaboración con las autoridades del Estado miembro en que esté situada la empresa o establecimiento, quedando en suspenso la tramitación de la inscripción.
+
+A los efectos previstos en el artículo 6, los titulares de las empresas o establecimientos inscritos en el Registro al amparo de la presente disposición adicional deberán dirigir las comunicaciones que afecten a su situación registral a la Agencia Española de Seguridad Alimentaria y Nutrición.
