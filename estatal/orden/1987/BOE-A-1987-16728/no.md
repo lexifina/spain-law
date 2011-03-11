@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 241, de 8 de octubre de 1987. Ref. BOE-A-1987-22837
+Norma derogada en todo lo referente al queso "Ibérico", con efectos de 11 de marzo de 2011, por la disposición derogatoria única del Real Decreto 262/2011, de 28 de febrero. Ref. BOE-A-2011-4396#ddunica
