@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Prolongación voluntaria del servicio activo de los funcionarios pertenecientes a los cuerpos docentes universitarios y profesores de investigación del CSIC una vez alcanzada la edad de jubilación forzosa.
+
+1. El Gobierno, previo informe de las Comunidades Autónomas y del Consejo de Universidades, promoverá la puesta en marcha, en el curso de los próximos seis meses, de mecanismos que faciliten la prolongación en el servicio activo, por un período máximo de cinco años adicionales, de los funcionarios pertenecientes a los cuerpos docentes universitarios y profesores de investigación del CSIC en los que concurran méritos excepcionales.
+
+2. La permanencia en el servicio activo de los profesores e investigadores que voluntariamente lo soliciten conllevará asumir las obligaciones que de ordinario conforman sus obligaciones como profesor universitario o profesor de investigación. A tales efectos, el alargamiento del servicio activo estará sometido a informe anual según fijen las normas de aplicación, pudiendo tanto el interesado como la Universidad, la Comunidad Autónoma o el CSIC renunciar a su renovación.
+
+3. Lo establecido en los apartados anteriores se entiende sin perjuicio de los mecanismos ya establecidos para la designación de profesores eméritos que, en consecuencia, y de acuerdo con lo establecido en su normativa reguladora, podrán seguir participando en toda la docencia universitaria.

@@ -168,6 +168,8 @@ g) Cualesquiera otros definidos como incumplimientos graves en el presente títu
 
 No obstante lo anterior, cuando del expediente administrativo instruido al efecto resulte que el incumplimiento se produjo sin ánimo de lucro, sin intencionalidad evidente y sin perturbación en la prestación de la enseñanza y que no existe reiteración ni reincidencia en el incumplimiento, éste será calificado de leve.
 
+2 bis. Son causas de incumplimiento muy grave del concierto la reiteración o reincidencia de incumplimientos graves.
+
 3. La reiteración de incumplimientos a los que se refieren los apartados anteriores se constatará por la Administración educativa competente con arreglo a los siguientes criterios:
 
 a) Cuando se trate de la reiteración de los incumplimientos cometidos con anterioridad, bastará con que esta situación se ponga de manifiesto mediante informe de la inspección educativa correspondiente.
@@ -185,3 +187,5 @@ b) Si el titular no subsanase el incumplimiento leve, la administración impondr
 6. El incumplimiento muy grave del concierto dará lugar a la rescisión del concierto. En este caso, con el fin de no perjudicar a los alumnos ya escolarizados en el centro, las Administraciones educativas podrán imponer la rescisión progresiva del concierto.
 
 7. El incumplimiento y la sanción muy grave prescribirán a los tres años, el grave a los dos años y el leve al año. El plazo de prescripción se interrumpirá con la constitución de la Comisión de Conciliación para la corrección del incumplimiento cometido por el centro concertado.»
+
+> Se modifica el apartado 10 por el art. 2.4 de la Ley Orgánica 4/2011, de 11 de marzo. Ref. BOE-A-2011-4551.

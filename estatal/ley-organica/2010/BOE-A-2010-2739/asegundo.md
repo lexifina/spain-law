@@ -1,5 +1,7 @@
 ## Artículo segundo. Modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
 
-El apartado 4 del artículo 9 de esta Ley quedará redactado como sigue:
+El párrafo primero del apartado 4 del artículo 9 de esta Ley quedará redactado como sigue:
 
 «Los del orden contencioso-administrativo conocerán de las pretensiones que se deduzcan en relación con la actuación de las Administraciones públicas sujeta al derecho administrativo, con las disposiciones generales de rango inferior a la ley y con los reales decretos legislativos en los términos previstos en el artículo 82.6 de la Constitución, de conformidad con lo que establezca la Ley de esa jurisdicción. También conocerán de los recursos contra la inactividad de la Administración y contra sus actuaciones materiales que constituyan vía de hecho. Quedan excluidos de su conocimiento los recursos directos o indirectos que se interpongan contra las Normas Forales fiscales de las Juntas Generales de los Territorios Históricos de Álava, Guipúzcoa y Vizcaya, que corresponderán, en exclusiva, al Tribunal Constitucional, en los términos establecidos por la disposición adicional quinta de su Ley Orgánica.»
+
+> Se modifica por la disposición final 1 de la Ley Orgánica 4/2011, de 11 de marzo. Ref. BOE-A-2011-4551.
