@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Actuaciones sin proyecto aprobado.
+
+Las actuaciones cuyo proyecto en alguna de sus fases no haya sido aprobado provisionalmente antes de la entrada en vigor de las Directrices a las que se refiere el artículo 9 por la Dirección General de Carreteras o en su caso por el Ministro de Fomento, según lo establecido en el artículo 32 del Reglamento General de Carreteras, serán objeto de auditoría de seguridad viaria en aquellas fases que no hubieran sido aprobadas y en las fases previa a la puesta en servicio e inicial en servicio de acuerdo con lo establecido en el capítulo III.
