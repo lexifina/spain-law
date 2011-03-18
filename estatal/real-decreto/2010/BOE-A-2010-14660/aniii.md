@@ -108,5 +108,8 @@
 | MPAA13 | Gramo de aminoácidos esenciales | 1,0362 |
 | MPAA14 | Gramo de aminoácidos ramificados | 0,5270 |
 | MPAA15 | Gramo de mezcla de aminoácidos esenciales y no esenciales | 0,6781 |
+| MPAA16 | Gramo de L-serina. | 0,6701 |
 | MPEN1 | Gramo de proteína | 0,0828 |
 | MPPE1 | Gramo de equivalente proteico | 0,1381 |
+
+> Se modifica por la disposición final 1.2 de la Orden SPI/573/2011, de 11 de marzo. Ref. BOE-A-2011-4884.

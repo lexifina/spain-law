@@ -108,6 +108,7 @@
 | MPAA13 | Módulos de aminoácidos esenciales. |
 | MPAA14 | Módulos de aminoácidos ramificados. |
 | MPAA15 | Módulos mezcla de aminoácidos esenciales y no esenciales. |
+| MPAA16 | Módulos de L-serina. |
 | MPEN | Módulos de proteína entera. | MPEN1 | Módulos de proteína entera. |
 | MPPE | Módulos de péptidos. | MPPE1 | Módulos de péptidos. |
 
@@ -126,3 +127,5 @@ a) Productos con fibra para niños: Aquellos cuya cantidad de fibra añadida es 
 b) Productos con fibra para adultos: Aquellos cuya cantidad de fibra añadida es igual o superior a 1,4 gramos por 100 mililitros. En el caso de los productos que se presenten en forma de polvo, la cantidad de fibra se referirá a 100 mililitros de la solución estándar.
 
 5. Solución estándar: Gramos de producto por 100 ml de solución.
+
+> Se modifica por la disposición final 1.1 de la Orden SPI/573/2011, de 11 de marzo. Ref. BOE-A-2011-4884.
