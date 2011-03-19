@@ -9,7 +9,8 @@
 | 045 (1) | TASA MÁQUINAS RECREATIVAS | T |
 | 100 | IRPF - DECLARACIÓN ANUAL/BORRADOR DEL IRPF | 0A |
 | 102 | IRPF - SEGUNDO PLAZO | 0A |
-| 110 | IRPF RETENCIONES E ING. A CTA. RENDIMIENTOS DEL TRABAJO. ACTIV. ECON. PREMIOS Y DETERMINADAS IMPUTACIONES DE RENTAS. | T |
+| 110 | (Suprimido) | (Suprimido) |
+| 111 | IRPF RETENCIONES E INGRESOS A CUENTA. RENDIMIENTOS DEL TRABAJO. ACTIVIDADES ECONÓMICAS, PREMIOS Y DETERMINADAS GANANCIAS PATRIMONIALES E IMPUTACIONES DE RENTAS | M-T |
 | 130 | IRPF PAGO FRACCIONADO. ACTIVIDADES ECONÓMICAS EN ESTIMACIÓN DIRECTA | T |
 | 131 | IRPF PAGO FRACCIONADO. ACTIVIDADES ECONOMICAS EN ESTIMACIÓN OBJETIVA | T |
 | 150 | IRPF-RÉGIMEN ESPECIAL DE TRIBUTACIÓN POR EL IRNR. | 0A |
@@ -59,6 +60,10 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se suprime el modelo 110 y se añade el 111 por la disposición final 1.1 y 2 de la Orden EHA/586/2011, de 9 de marzo. Ref. BOE-A-2011-4948.
+
+> Esta modificación surte efectos según lo indicado en la disposición final 3.
 
 > Se añade el modelo 568 por la disposición final 1 de la Orden EHA/1338/2010, de 13 de mayo. Ref. BOE-A-2010-8230.
 

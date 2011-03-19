@@ -6,8 +6,7 @@
 | --- | --- |
 | 100 | Impuesto sobre la Renta de las Personas Físicas. Declaración anual o borrador de declaración. |
 | 102 | Impuesto sobre la Renta de las Personas Físicas. Declaración anual. Segundo plazo. |
-| 110 | Retenciones e ingresos a cuenta del Impuesto sobre la Renta de las Personas Físicas. Rendimientos del trabajo y de actividades económicas, premios y determinadas ganancias patrimoniales e imputaciones de renta. |
-| 111 | Retenciones e ingresos a cuenta del Impuesto sobre la Renta de las Personas Físicas. Rendimientos del trabajo y de actividades económicas, premios y determinadas ganancias patrimoniales e imputaciones de renta. Grandes Empresas. |
+| 111 | Retenciones e ingresos a cuenta del Impuesto sobre la Renta de las Personas Físicas. Rendimientos del trabajo y de actividades económicas, premios y determinadas ganancias patrimoniales e imputaciones de renta. |
 | 115 | Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre Sociedades e Impuesto sobre la Renta de no Residentes (establecimientos permanentes). Retenciones e ingresos a cuenta sobre determinadas rentas o rendimientos procedentes del arrendamiento o subarrendamiento de inmuebles urbanos. Declaración-documento de ingreso. |
 | 117 | Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre Sociedades e Impuesto sobre la Renta de no Residentes. Retenciones e Ingresos a cuenta/Pago a cuenta. Rentas o ganancias patrimoniales obtenidas como consecuencia de las transmisiones o reembolsos de acciones y participaciones representativas del capital o del patrimonio de las instituciones de inversión colectiva. Declaración-documento de ingreso. |
 | 123 | Impuesto sobre la Renta de las Personas Físicas. Retenciones e ingresos a cuenta sobre determinados rendimientos del capital mobiliario. Impuesto sobre Sociedades e Impuesto sobre la Renta de no Residentes (establecimientos permanentes). Retenciones e ingresos a cuenta sobre determinadas rentas. Declaración-documento de ingreso. |
@@ -42,5 +41,9 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se modifica por la disposición final 2.1 de la Orden EHA/586/2011, de 9 de marzo. Ref. BOE-A-2011-4948.
+
+> Esta modificación surte efectos respecto de las autoliquidaciones de retenciones e ingresos a cuenta que correspondan al primer trimestre o, en su caso, a las del mes de marzo cuando se trate de autoliquidaciones mensuales, ambas de 2011 y siguientes, según establece la disposición final 3.
 
 > Se sustituye por la disposición final 1.1 de la Orden EHA/3062/2010, de 22 de noviembre. Ref. BOE-A-2010-18368.

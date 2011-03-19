@@ -6,8 +6,7 @@
 | --- | --- |
 | 100 | Desde el día 2 de mayo hasta el 23 de junio. |
 | 102 | Desde el día 2 de mayo hasta el 23 de junio. |
-| 110 | Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. |
-| 111 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
+| 111 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
 | 115 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
 | 117 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
 | 123 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
@@ -40,5 +39,9 @@
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
+
+> Se modifica por la disposición final 2.2 de la Orden EHA/586/2011. de 9 de marzo. Ref. BOE-A-2011-4948.
+
+> Esta modificación surte efectos respecto de las autoliquidaciones de retenciones e ingresos a cuenta que correspondan al primer trimestre o, en su caso, a las del mes de marzo cuando se trate de autoliquidaciones mensuales, ambas de 2011 y siguientes, según establece la disposición final 3.
 
 > Se sustituye por la disposición final 1.2 de la Orden EHA/3062/2010, de 22 de noviembre. Ref. BOE-A-2010-18368.

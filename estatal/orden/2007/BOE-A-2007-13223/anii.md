@@ -4,7 +4,7 @@
 
 | MODELO | DENOMINACIÓN | PERIODOS INGRESO |
 | --- | --- | --- |
-| 111 | IRPF.RETENC. E ING. A CTA. GRANDES EMPRESAS | M |
+| 111 | (Suprimido) | (Suprimido) |
 | 115 | IRPF e IS. RETENCIONES POR RENDIMIENTOS DE ALQUILER DE INM. URBANOS. | M-T |
 | 117 | IRPF, IS e IRNR. RETENCIONES POR TRANSM. DE PARTICIPACIONES EN INSTITUCIONES DE INVERSIÓN COLECTIVA. | M-T |
 | 123 | RET. CAP. MOB. (EXCEPTO INT. E IMPLIC.) | M-T |
@@ -30,6 +30,10 @@
 | 569 | I. VENTAS MINORISTAS DE HIDROCARBUROS | T |
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se suprime el modelo 111 por la disposición final 1.3 de la Orden EHA/586/2011, de 9 de marzo. Ref. BOE-A-2011-4948.
+
+> Esta modificación surte efectos según lo indicado en la disposición final 3.
 
 > Se suprime el modelo 218 por la disposición final 1 de la Orden EHA/664/2010, de 11 de marzo. Ref. BOE-A-2010-4507.
 
