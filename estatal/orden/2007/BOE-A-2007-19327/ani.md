@@ -12,6 +12,12 @@ c) Recursos extraordinarios de revisión interpuestos al amparo del artículo 11
 
 d) Presentación de solicitudes y documentos electrónicos normalizados correspondientes a la convocatoria anual de concesión de ayudas de la Acción Estratégica de Salud, en el marco del Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica. Estas solicitudes quedarán sujetas a las condiciones, el contenido y los plazos que determine la Resolución anual de convocatoria de estas ayudas.
 
-> Se modifica por el apartado único de la Resolución de 22 de febrero de 2010. Ref. BOE-A-2010-3667.
+e) Presentación de solicitudes y peticiones genéricas, en relación a procedimientos no incluidos en los apartados anteriores.—Procedimiento electrónico que permite presentar cualquier solicitud o escrito, y sus documentos adjuntos, dirigidos al Instituto de Salud Carlos III, excepto aquellos para los que exista un procedimiento específico en el Registro Electrónico o posean un modelo de solicitud normalizado en formato papel.
+
+f) Presentación de sugerencias y quejas.—Procedimiento electrónico para poner en conocimiento del Instituto de Salud Carlos III disfunciones o mejoras. Las quejas no tendrán en ningún caso la calificación de recurso administrativo ni su interposición paralizará los plazos establecidos en la normativa vigente.
+
+> Se añaden las letras e) y f) por el apartado único de la Resolución de 7 de marzo de 2011. Ref. BOE-A-2011-4949.
+
+> Se modifica la letra d) por el apartado único de la Resolución de 22 de febrero de 2010. Ref. BOE-A-2010-3667.
 
 > Se añaden las letras d) a f) por el apartado único de la Resolución de 25 de febrero de 2009. Ref. BOE-A-2009-5078.

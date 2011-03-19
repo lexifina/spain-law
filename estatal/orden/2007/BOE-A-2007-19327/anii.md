@@ -4,7 +4,7 @@
 
 1. Criterios para la presentación electrónica de recursos y reclamaciones.
 
-1.1 El interesado deberá acceder mediante el navegador a la dirección www.isciii.es/registro y seleccionar la sección Registro Electrónico. Dentro de esta elegirá el formulario del procedimiento de presentación de solicitud, al recurso o reclamación correspondiente.
+1.1 El interesado deberá acceder mediante el navegador a la dirección https://sede.isciii.gob.es y seleccionar la sección Registro Electrónico. Dentro de esta elegirá el formulario del procedimiento de presentación de solicitud, al recurso o reclamación correspondiente.
 
 1.2 Deberá cumplimentar los datos solicitados en el formulario.
 
@@ -43,3 +43,5 @@ c) Mozilla, Firefox 1.6 o compatible con máquina virtual de Java v1.4 o superio
 d) Para instalar el control ActiveX hace falta tener derecho de administrador sobre la máquina.
 
 e) Adobe Acrobat Reader para visualizar el acuse de recibo.
+
+> Se modifica la referencia a la dirección electrónica del apartado 1.1 por la disposición final 1 de la Resolución de 7 de marzo de 2011. Ref. BOE-A-2011-4949.
