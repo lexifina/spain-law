@@ -26,15 +26,7 @@ Tvd: Término variable del peaje de descarga de GNL: 0,0025 cent/kWh.
 
 2. El peaje aplicable por la introducción de gas natural por las conexiones internacionales por gasoducto es el siguiente:
 
-Conexiones internacionales de Larrau e Irún: 0 cent/kWh.
-
-Conexión internacional de Badajoz: 0 cent/kWh.
-
-Conexión internacional de Tuy: 0 cent/kWh
-
-Conexión internacional GME: 0 cent/kWh.
-
-Conexión internacional MEDGAZ: 0 cent/kWh.
+(Anulado)
 
 Tercero. Peaje de carga de cisternas.–El peaje del servicio de descarga de GNL incluirá el derecho al uso de las instalaciones necesarias para la carga en vehículos cisternas del GNL.
 
@@ -182,4 +174,4 @@ Décimo. Peaje aplicable a los contratos de acceso de duración inferior a doce 
 
 El término variable (Tvij) a aplicar es el del peaje correspondiente.
 
-> El apartado 9 entra en vigor a las cero horas del 1 de octubre de 2009, según establece la disposición final.
+> Se declara la nulidad del apartado 2º.2 por Sentencia del TS, de 15 de febrero de 2011. Ref. BOE-A-2011-5201.
