@@ -4,17 +4,19 @@
 
 2. Su composición y funcionamiento será el siguiente:
 
-a) Estará constituido por 15 vocales.
+a) Estará constituido por el número de vocales que se establezca en los Estatutos, que no podrá ser inferior a once ni superior a quince.
 
 b) Todos los vocales del Consejo serán elegidos por y entre los afiliados, mediante sufragio secreto, con arreglo a las normas electorales aprobadas por el propio Consejo General.
 
-c) Los vocales elegirán de entre ellos al Presidente del Consejo y hasta 4 Vicepresidentes en los términos que en cada caso establezca el Consejo General.
+c) Los vocales elegirán de entre ellos al Presidente del Consejo, quien ostentará la máxima representación institucional de la ONCE, y un número de Vicepresidentes no superior a 4, conforme a los criterios que se establezca en los Estatutos.
 
 d) Los estatutos de la organización determinarán el plazo de renovación del Consejo, que no podrá ser superior a cuatro años, la periodicidad de sus reuniones y el procedimiento de adopción de acuerdos.
 
 e) Actuará como Secretario del Consejo, con voz y sin voto, el Secretario general del Consejo General. Su nombramiento corresponderá al Pleno del Consejo General, que determinará sus funciones y nivel directivo, recayendo en un afiliado a la ONCE.
 
-3. A las sesiones del Consejo General asistirán, con voz y sin voto, el Director General de la ONCE y los máximos responsables ejecutivos de las áreas que en cada momento determine el Consejo, y, cuando sean convocados al efecto por la presidencia del Consejo, aquellos ejecutivos o expertos que se considere preciso en función de la materia que se vaya a tratar.
+f) El Consejo General estructura sus órganos de gobierno en Pleno y, subordinado a éste, Comisión Ejecutiva Permanente conforme a la composición y competencias que se establezca en los Estatutos.
+
+3. A las sesiones de los órganos de gobierno del Consejo General asistirán los responsables ejecutivos y cualesquiera otros ejecutivos o expertos que fueran convocados, en los términos que se establezca en los estatutos.
 
 4. Son funciones del Consejo General:
 
@@ -67,6 +69,10 @@ s) Adoptar, cuando se forme parte de manera directa, la decisión de participar,
 t) Aprobar la remisión al Consejo de Protectorado de informes donde se recojan propuestas de medidas concretas, tanto de modificaciones normativas como de índole administrativa, para garantizar la efectiva persecución y represión de los juegos ilegales.
 
 u) Adoptar todas las medidas que se estimen oportunas para el correcto funcionamiento de la organización respecto de cualquier materia o asunto que no haya sido atribuido a otro órgano en el presente Real Decreto.
+
+v) Cualquier otra competencia que le sea atribuida por los estatutos de la ONCE.
+
+> Se modifican los apartados 2 y 3 y se añade el apartado 4.v) por el art. único.3 del Real Decreto 394/2011, de 18 de marzo. Ref. BOE-A-2011-5198.
 
 > Se modifican los apartados 3 y 4 por el art. único.6 a 12 del Real Decreto 1359/2005, de 18 de noviembre. Ref. BOE-A-2005-19791.
 

@@ -20,6 +20,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 6](art6.md)
 - [Art 7](art7.md)
 - [Art 8](art8.md)
+- [Art 9](art9.md)
 - [Disposición adicional](da.md)
 - [Disposición transitoria](dt.md)
 - [Disposición derogatoria](dd.md)
