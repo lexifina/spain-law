@@ -62,7 +62,7 @@ Un 0,4% en valor absoluto, para los contenidos en micronutrientes superiores al 
 
 1.2.a Elementos nutrientes secundarios:
 
-Un 25% del contenido declarado en CaO, MgO, Na2O y SO3, con un máximo del 0,9% en valor absoluto.
+Un 25% del contenido declarado en CaO, MgO, Na2O y SO3, con un máximo del 0,9% en valor absoluto, cuando el contenido en SO3 sea inferior al 60%, y un máximo del 2,5% en valor absoluto cuando sea igual o superior al 60%.
 
 1.2.b CaO y MgO quelados o complejados
 
@@ -145,6 +145,8 @@ Extracto húmico total.15% del valor declarado, con un máximo del 3% en valor a
 
 Diciandiamida y DMPP 10% del valor declarado, referido al porcentaje del inhibidor sobre el nitrógeno nitrificable.
 
+Monocarbamida dihidrógeno sulfato (MCDHS): 10 por ciento del valor declarado, referido al porcentaje del inhibidor sobre el nitrógeno ureico.
+
 5. Enmiendas calizas
 
 Un 25% del contenido declarado en CaO, MgO y SO3, con un máximo del 3% en valor absoluto.
@@ -169,7 +171,11 @@ Para los contenidos en cualquier elemento nutriente, un 10% del valor declarado,
 
 7. Otras enmiendas
 
-Un 25% del contenido declarado en CaO y SO3, con un máximo del 3% en valor absoluto.
+Un 25 por ciento del contenido declarado en CaO y SO3, con un máximo del 3 por ciento en valor absoluto.
+
+Capacidad de absorción en agua destilada: 10 por ciento del valor declarado.
+
+Porcentaje de polímeros hidroadsorbentes: 10 por ciento del valor declarado, con un máximo del 1 por ciento en valor absoluto.
 
 Otros requisitos y caracteristicas de caracter general
 
@@ -178,5 +184,7 @@ Cuando existan diferentes formas de nitrógeno o distintas solubilidades del pen
 Conductividad eléctrica: ± 2,0 dS/m (± 200,0 mS/m).
 
 pH: ± 1,0 salvo en los productos clasificados como peligrosos, en los que no se admitirá tolerancia alguna.
+
+> Se modifican los apartados 1.2.a), 4 y 7 por el art. único.3 de la Orden PRE/630/2011, de 23 de marzo. Ref. BOE-A-2011-5401.
 
 > Se modifica por el art. único.3 y anexo I de la Orden APA/863/2008, de 25 de marzo. Ref. BOE-A-2008-5880.

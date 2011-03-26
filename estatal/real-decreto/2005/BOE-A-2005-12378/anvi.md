@@ -2,123 +2,122 @@
 
 ## MÉTODOS ANALÍTICOS
 
-1. NORMAS DE ACREDITACIÓN PARA LOS LABORATORIOS COMPETENTES Y AUTORIZADOS PARA PRESTAR LOS SERVICIOS NECESARIOS PARA COMPROBAR LA CONFORMIDAD DE LOS PRODUCTOS FERTILIZANTES CON LO DISPUESTO EN EL PRESENTE REAL DECRETO.
+1. Laboratorios competentes, públicos designados y privados autorizados para prestar los servicios necesarios para comprobar la conformidad de los productos fertilizantes con lo dispuesto en el presente real decreto.
 
-## Norma aplicable a los laboratorios:
+– Laboratorios acreditados de acuerdo con la norma EN ISO/IEC 17025 Requisitos generales para la competencia de los laboratorios de ensayo y de calibración, en relación con al menos uno de los métodos del presente anexo.
 
-ENISO/IEC 17025, Requisitos generales para la competencia de los laboratorios de ensayo y calibración.
+– Durante cinco años a partir de la entrada en vigor de la presente orden, los laboratorios aún no acreditados que demuestren que han iniciado y están siguiendo los procedimientos de acreditación necesarios conforme a la norma EN ISO/IEC 17025 en relación con uno o varios de los métodos del presente anexo, y que demuestren a la autoridad competente que participan en ensayos interlaboratorios con resultados positivos.
 
-## Norma aplicable a los organismos de acreditación:
+El laboratorio Arbitral Agroalimentario del Ministerio de Medio Ambiente, y Medio Rural y Marino actuará de laboratorio nacional de referencia.
 
-EN 45003, Sistema de acreditación de laboratorios de calibración y ensayo, requisitos generales de funcionamiento y reconocimiento.
+El Ministerio de Medio Ambiente, Medio Rural y Marino difundirá y actualizará a través de su página de Internet, la lista de laboratorios competentes, públicos designados y privados autorizados, que puedan intervenir en la realización de los análisis (inicial y contradictorio) establecidos por el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria.
 
-2. MÉTODOS OFICIALES DE ANÁLISIS DE LOS PRODUCTOS FERTILIZANTES MINERALES
+2. Métodos oficiales de análisis de los productos fertilizantes minerales.
 
-| Tipo de determinación | Ámbito aplicación/ Producto fertilizante concernido | Normativa oficial |
+| Tipo de determinación | Ámbito aplicación/Producto fertilizante concernido | Normativa oficial |
 | --- | --- | --- |
-| Método de toma de muestras para el control de los abonos |  | Anexo Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Anexo I |
-| Grado de finura de molienda en seco |  | Método 1(a) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 7.1 |
-| Grado de finura de molienda en los fosfatos naturales blandos | Fosfatos naturales blandos | Método 1(b) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 7.2 |
-| Granulometría | Fertilizantes simples a base de nitrato de amonio y con alto contenido en nitrógeno | Método 1(c) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 87/94/CEE. Método 5 |
-| Preparación de la muestra |  | Método 2 Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 87/94/CEE. Método 1 |
+| Método de toma de muestras para el control de los abonos |  | Anexo IV. A Reglamento (CE) n° 2003/2003 |
+| Grado de finura de molienda en seco |  | Método 7.1. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Grado de finura de molienda en los fosfatos naturales blandos | Fosfatos naturales blandos | Método 7.2. Anexo IV Reglamento (CE) n° 2003/2003 |
+| Granulometría | Fertilizantes simples a base de nitrato de amonio y con alto contenido en nitrógeno | Método 5. Anexo III Reglamento (CE) n° 2003/2003 |
+| Preparación de la muestra |  | Método 1. Anexo IV Reglamento (CE) n° 2003/2003 |
 | Agua total |  | Método 3 Orden 1 de diciembre de 1981 (BOE de 20 de enero de 1982) |
 | Agua libre |  | Método 4 Orden 30 de noviembre de 1976 (BOE de 4 de enero de 1977) |
 | Nitrógeno (detección de nitratos) |  | Método 5 Orden 30 de noviembre de 1976 (BOE de 4 de enero de 1977) |
-| Nitrógeno total en la cianamida cálcica con nitratos | Cianamida cálcica que contenga nitratos | Método 6(b) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 2.3.2 |
-| Nitrógeno total en la urea | Urea exenta de nitratos | Método 6(c) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 2.3.3 |
-| Diferentes formas de nitrógeno presentes simultáneamente en los abonos que lo contienen en forma nítrica, amoniacal, ureica y cianamídica |  | Método 6(d) Orden 18 de julio de 1989 BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 2.6.1 |
-| Diferentes formas de nitrógeno presentes simultáneamente en los abonos que solo lo contienen en forma nítrica, amoniacal y ureica |  | Método 6(e) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 2.6.2 |
-| Nitrógeno amoniacal | Abonos nitrogenados y compuestos, en los que el nitrógeno se encuentre exclusivamente en forma de sales de amonio o de sales de amonio y de nitratos | Método 7 Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 2.1 |
-| Nitrógeno nítrico y amoniacal (Método Ulsch) | Abonos nitrogenados y compuestos, en los que el nitrógeno se encuentre exclusivamente en forma nítrica o en forma amoniacal y nítrica | Método 8(a) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 2.2.1 |
-| Nitrógeno nítrico y amoniacal (Método Arnd) | Abonos nitrogenados y compuestos, en los que el nitrógeno se encuentre exclusivamente en forma nítrica o en forma amoniacal y nítrica | Método 8(b) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 2.2.2 |
-| Nitrógeno nítrico y amoniacal (Método Devarda) | Abonos nitrogenados y compuestos, en los que el nitrógeno se encuentre exclusivamente en forma nítrica o en forma amoniacal y nítrica | Método 8(c) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 2.2.3 |
-| Biuret de la urea | Urea | Método 11 Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 2.5 |
-| Nitrógeno cianamídico | Cianamida cálcica y a la cianamida cálcica con nitratos | Método 12 Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 2.4 |
-| Fósforo soluble en los ácidos minerales |  | Método 15 Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 3.1.1 y 3.2 |
-| Fósforo soluble en agua |  | Método 16 Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 3.1.6 y 3.2 |
-| Fósforo soluble en citrato de amonio neutro |  | Método 17 Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 3.1.4 y 3.2 |
-| Fósforo soluble en citrato de amonio alcalino (Método de Petermann a 65ºC) | Fosfato ácido de calcio dihidrato precipitado (PO4Hca·2H2O) | Método 18(a) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 3.1.5.1 y 3.2 |
-| Fósforo soluble en citrato de amonio alcalino (Método de Petermann a la temperatura ambiente) | Fosfatos calcinados | Método 18(b) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 3.1.5.2 y 3.2 |
-| Fósforo soluble en el citrato de amonio alcalino (Método de Joulie) | Abonos fosfatados simples o compuestos a base de fosfatos aluminocálcicos | Método 18(c) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 3.1.5.3 y 3.2 |
-| Fósforo soluble en ácido cítrico al 2% | Escorias de defosforación | Método 19(a) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 3.1.2 |
-| Fósforo soluble en ácido fórmico al 2% | Fosfatos naturales blandos | Método 19(b) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 3.1.3 |
-| Potasio soluble en agua |  | Método 20 Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Método 4.1 |
-| Determinación cuantitativa del boro en los extractos de abonos por espectrometría de la azometina-H | Abonos con un contenido de micronutrientes inferior al 10% | Método 22 R.D. 2490/1994 (BOE nº 34 de 9 de febrero de 1995) Transposición de la Directiva 93/1/CEE. Método 9.5 |
-| Determinación cuantitativa del boro en los extractos de abonos por acidimetría | Abonos con un contenido de micronutrientes superior al 10% | Método 22(b) R.D. 575/1996 (BOE nº 94 de 18 de abril de 1996) Transposición de la Directiva 95/8/CEE. Método 10.5 |
-| Extracción de los micronutrientes totales | Abonos con un contenido de micronutrientes inferior al 10% | Método 23(a) R.D. 2490/1994 (BOE nº 34 de 9 de febrero de 1995) Transposición de la Directiva 93/1/CEE. Método 9.1 |
-| Extracción de los micronutrientes solubles en agua | Abonos con un contenido de micronutrientes inferior al 10% | Método 23(b) R.D. 2490/1994 (BOE nº 34 de 9 de febrero de 1995) Transposición de la Directiva 93/1/CEE. Método 9.2 |
-| Eliminación de los compuestos orgánicos en los extractos de abonos | Abonos con un contenido de micronutrientes inferior al 10% | Método 23(c) R.D. 2490/1994 (BOE nº 34 de 9 de febrero de 1995) Transposición de la Directiva 93/1/CEE. Método 9.3 |
-| Extracción de los micronutrientes totales | Abonos con un contenido de micronutrientes superior al 10% | Método 23(e) R.D. 575/1996 (BOE nº 94 de 18 de abril de 1996) Transposición de la Directiva 95/8/CEE. Método 10.1 |
-| Extracción de los micronutrientes solubles en agua | Abonos con un contenido de micronutrientes superior al 10% | Método 23(f) R.D. 575/1996 (BOE nº 94 de 18 de abril de 1996) Transposición de la Directiva 95/8/CEE. Método 10.2 |
-| Eliminación de los compuestos orgánicos en los extractos de abonos | Abonos con un contenido de micronutrientes superior al 10% | Método 23(g) R.D. 575/1996 (BOE nº 94 de 18 de abril de 1996) Transposición de la Directiva 95/8/CEE. Método 10.3 |
-| Determinación cuantitativa de micronutrientes en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de micronutrientes superior al 10% | Método 23(h) R.D. 575/1996 (BOE nº 94 de 18 de abril de 1996) Transposición de la Directiva 95/8/CEE. Método 10.4 |
-| Extracción del calcio total, del magnesio total, del sodio total y del azufre total en forma de sulfato |  | Método 24(a) R.D. 1163/1991 (BOE nº 178 de 26 de julio de 1991) Transposición de la Directiva 89/519/CEE. Método 8.1 |
-| Extracción del azufre total presente en diversas formas | Abonos que contienen azufre en forma de elemental, tiosulfato, sulfito y sulfatos | Método 24(b) R.D. 1163/1991 (BOE nº 178 de 26 de julio de 1991) Transposición de la Directiva 89/519/CEE. Método 8.2 |
-| Extracción de las formas solubles en agua del calcio, del magnesio, del sodio y del agua presente en forma de sulfato |  | Método 24(c) R.D. 1163/1991 (BOE nº 178 de 26 de julio de 1991) Transposición de la Directiva 89/519/CEE. Método 8.3 |
-| Extracción del azufre soluble en agua, presente en diversas formas |  | Método 24(d) R.D. 1163/1991 (BOE nº 178 de 26 de julio de 1991) Transposición de la Directiva 89/519/CEE. Método 8.4 |
-| Extracción y determinación cuantitativa del azufre elemental | Abonos que contienen azufre en forma elemental | Método 24(e) R.D. 1163/1991 (BOE nº 178 de 26 de julio de 1991) Transposición de la Directiva 89/519/CEE. Método 8.5 |
-| Determinación manganimétrica del calcio extraído por precipitación en forma de oxalato |  | Método 24(f) R.D. 1163/1991 (BOE nº 178 de 26 de julio de 1991) Transposición de la Directiva 89/519/CEE. Método 8.6 |
-| Determinación cuantitativa del magnesio por espectrometría de absorción atómica | Abonos que declaren el magnesio total y/o el magnesio soluble en agua a excepción de los abonos especificados en el ámbito de aplicación del método 24(h) | Método 24(g) R.D. 1163/1991 (BOE nº 178 de 26 de julio de 1991) Transposición de la Directiva 89/519/CEE. Método 8.7 |
-| Determinación cuantitativa del magnesio por complexometría | Abonos que declaren el magnesio total y/o magnesio soluble en agua: Nitrato de calcio y de magnesio, sulfonitrato de magnesio, abono nitrogenado con magnesio, sal bruta de potasa enriquecida, cloruro de potasio con magnesio y sulfato de potasio con sal de magnesio, kieserita, sulfato de magnesio y kieserita con sulfato de potasio | Método 24(h) R.D. 1163/1991 (BOE nº 178 de 26 de julio de 1991) Transposición de la Directiva 89/519/CEE. Método 8.8 |
-| Determinación cuantitativa de los sulfatos |  | Método 24(i) R.D. 1163/1991 (BOE nº 178 de 26 de julio de 1991) Transposición de la Directiva 89/519/CEE. Método 8.9 |
-| Determinación cuantitativa del sodio extraído |  | Método 24(j) R.D. 1163/1991 (BOE nº 178 de 26 de julio de 1991) Transposición de la Directiva 89/519/CEE Método 8.10 |
-| Cloro | Abonos que no tengan materia orgánica | Método 28(a) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE Método 6 |
-| Cloro (en forma de ión cloruro) | Abonos simples a base de nitrato de amonio con alto contenido en nitrógeno, | Método 28(b) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 87/94/CEE. Método 6 |
-| Determinación cuantitativa del zinc en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos inferior al 10% | Método 29 R.D. 2490/1994 (BOE nº 34 de 9 de febrero de 1995) Transposición de la Directiva 93/1/CEE. Método 9.11 |
-| Determinación cuantitativa del zinc en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos superior al 10% | Método 29(b) R.D. 575/1996 (BOE nº 94 de 18 de abril de 1996) Transposición de la Directiva 95/8/CEE. Método 10.11 |
-| Determinación cuantitativa del cobre en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos inferior al 10% | Método 30(a) R.D. 2490/1994 (BOE nº 34 de 9 de febrero de 1995) Transposición de la Directiva 93/1/CEE. Método 9.7 |
-| Cobre | Abonos simples a base de nitrato de amonio con alto contenido en nitrógeno | Método 30(b) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 87/94/CEE. Método 7 |
-| Determinación cuantitativa del cobre en los extractos de abonos por volumetría | Abonos con un contenido de oligoelementos superior al 10% | Método 30(c) R.D. 575/1996 (BOE nº 94 de 18 de abril de 1996) Transposición de la Directiva 95/8/CEE. Método 10.7 |
-| Determinación cuantitativa del hierro en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos inferior al 10% | Método 32 R.D. 2490/1994 (BOE nº 34 de 9 de febrero de 1995) Transposición de la Directiva 93/1/CEE. Método 9.8 |
-| Determinación cuantitativa del hierro en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos superior al 10% | Método 32(b) R.D. 575/1996 (BOE nº 94 de 18 de abril de 1996) Transposición de la Directiva 95/8/CEE. Método 10.8 |
-| Determinación cuantitativa del manganeso en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos inferior al 10% | Método 33 R.D. 2490/1994 (BOE nº 34 de 9 de febrero de 1995) Transposición de la Directiva 93/1/CEE. Método 9.9 |
-| Determinación cuantitativa del manganeso en los extractos de abonos por valoración como permanganato | Abonos con un contenido de oligoelementos superior al 10% | Método 33(b) R.D. 575/1996 (BOE nº 94 de 18 de abril de 1996) Transposición de la Directiva 95/8/CEE. Método 10.9 |
-| Determinación cuantitativa del molibdeno en los extractos de abonos por espectrofotometría de un complejo con tiocianato amónico | Abonos con un contenido de oligoelementos inferior al 10% | Método 35 R.D. 2490/1994 BOE nº 34 de 9 de febrero de 1995) Transposición de la Directiva 93/1/CEE. Método 9.10 |
-| Determinación cuantitativa del molibdeno en los extractos de abonos por gravimetría con 8- hidroxiquinoleína | Abonos con un contenido de oligoelementos superior al 10% | Método 35(b) R.D. 575/1996 (BOE nº 94 de 18 de abril de 1996) Transposición de la Directiva 95/8/CEE. Método 10.10 |
-| Determinación cuantitativa del cobalto en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos inferior al 10% | Método 37 R.D. 2490/1994 (BOE nº 34 de 9 de febrero de 1995) Transposición de la Directiva 93/1/CEE. Método 9.6 |
-| Determinación cuantitativa del cobalto en los extractos de abonos por gravimetría con 1-nitroso-2-naftol | Abonos con un contenido de oligoelementos superior al 10% | Método 37(b) R.D. 575/1996 (BOE nº 94 de 18 de abril de 1996) Transposición de la Directiva 95/8/CEE. Método 10.6 |
+| Nitrógeno total en la cianamida cálcica sin nitratos | Cianamida cálcica exenta de nitratos | Método 2.3.1. Anexo IV Reglamento (CE) n° 2003/2003 |
+| Nitrógeno total en la cianamida cálcica con nitratos | Cianamida cálcica que contenga nitratos | Método 2.3.2. Anexo IV Reglamento (CE) n° 2003/2003 |
+| Nitrógeno total en la urea | Urea exenta de nitratos | Método 2.3.3. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Diferentes formas de nitrógeno presentes simultáneamente en los abonos que lo contienen en forma nítrica, amoniacal, ureica y cianamídica |  | Método 2.6.1. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Diferentes formas de nitrógeno presentes simultáneamente en los abonos que solo lo contienen en forma nítrica, amoniacal y ureica |  | Método 2.6.2. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Nitrógeno amoniacal | Abonos nitrogenados y compuestos, en los que el nitrógeno se encuentre exclusivamente en forma de sales de amonio o de sales de amonio y de nitratos | Método 2.1. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Nitrógeno nítrico y amoniacal (Método Ulsch) | Abonos nitrogenados y compuestos, en los que el nitrógeno se encuentre exclusivamente en forma nítrica o en forma amoniacal y nítrica | Método 2.2.1. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Nitrógeno nítrico y amoniacal (Método Arnd) | Abonos nitrogenados y compuestos, en los que el nitrógeno se encuentre exclusivamente en forma nítrica o en forma amoniacal y nítrica | Método 2.2.2. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Nitrógeno nítrico y amoniacal (Método Devarda) | Abonos nitrogenados y compuestos, en los que el nitrógeno se encuentre exclusivamente en forma nítrica o en forma amoniacal y nítrica | Método 2.2.3. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Biuret de la urea | Urea | Método 2.5. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Nitrógeno cianamídico | Cianamida cálcica y a la cianamida cálcica con nitratos | Método 2.4. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Fósforo soluble en los ácidos minerales |  | Método 3.1.1. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Fósforo soluble en agua |  | Método 3.1.6. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Fósforo soluble en citrato de amonio neutro |  | Reglamento (CE) n° 2003/2003 Anexo IV. Método 3.1.4 |
+| Fósforo soluble en citrato de amonio alcalino (Método de Petermann a 65°C) | Fosfato ácido de calcio dihidrato precipitado (PO4Hca 2H2O) | Método 3.1.5.1. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Fósforo soluble en citrato de amonio alcalino (Método de Petermann a la temperatura ambiente) | Fosfatos calcinados | Método 3.1.5.2. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Fósforo soluble en el citrato de amonio alcalino (Método de Joulie) | Abonos fosfatados simples o compuestos a base de fosfatos aluminocálcicos | Método 3.1.5.3. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Fósforo soluble en ácido cítrico al 2% | Escorias de defosforación | Método 3.1.3. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Fósforo soluble en ácido fórmico al 2% | Fosfatos naturales blandos | Método 3.1.2. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Potasio soluble en agua |  | Método 4.1. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del boro en los extractos de abonos por espectrometría de la azometina-H | Abonos con un contenido de micronutrientes inferior al 10% | Método 9.5. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del boro en los extractos de abonos por acidimetría | Abonos con un contenido de micronutrientes superior al 10% | Método 10.5. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Extracción de los micronutrientes totales | Abonos con un contenido de micronutrientes inferior al 10% | Método 9.1. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Extracción de los micronutrientes solubles en agua | Abonos con un contenido de micronutrientes inferior al 10% | Método 9.2. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Eliminación de los compuestos orgánicos en los extractos de abonos | Abonos con un contenido de micronutrientes inferior al 10% | Método 9.3. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Extracción de los micronutrientes totales | Abonos con un contenido de micronutrientes superior al 10% | Método 10.1. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Extracción de los micronutrientes solubles en agua | Abonos con un contenido de micronutrientes superior al 10% | Método 10.2. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Eliminación de los compuestos orgánicos en los extractos de abonos | Abonos con un contenido de micronutrientes superior al 10% | Método 10.3. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa de micronutrientes en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de micronutrientes inferior al 10% | Reglamento (CE) n° 2003/2003 Anexo IV. Método 9.4 |
+| Determinación cuantitativa de micronutrientes en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de micronutrientes superior al 10% | Método 10.4. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Extracción del calcio total, del magnesio total, del sodio total y del azufre total en forma de sulfato |  | Método 8.1. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Extracción del azufre total presente en diversas formas | Abonos que contienen azufre en forma de elemental, tiosulfato, sulfito y sulfatos | Método 8.2. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Extracción de las formas solubles en agua del calcio, del magnesio, del sodio y del azufre presente en forma de sulfato |  | Método 8.3. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Extracción del azufre soluble en agua, presente en diversas formas |  | Método 8.4. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Extracción y determinación cuantitativa del azufre elemental | Abonos que contienen azufre en forma elemental | Método 8.5. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Trióxido de azufre soluble en agua, en forma de tiosulfato |  | Valoración lodométrica. |
+| Determinación manganimétrica del calcio extraído por precipitación en forma de oxalato |  | Método 8.6. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del magnesio por espectrometría de absorción atómica | Abonos que declaren el magnesio total y/o el magnesio soluble en agua a excepción de los abonos especificados en el ámbito de aplicación del método 24(h) | Método 8.7. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del magnesio por complexometría | Abonos que declaren el magnesio total y/o magnesio soluble en agua: Nitrato de calcio y de magnesio, sulfonitrato de magnesio, abono nitrogenado con magnesio, sal bruta de potasa enriquecida, cloruro de potasio con magnesio y sulfato de potasio con sal de magnesio, kieserita, sulfato de magnesio y kieserita con sulfato de potasio | Método 8.8. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa de los sulfatos |  | Método 8.9. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del sodio extraído |  | Método 8.10. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Cloro | Abonos que no tengan materia orgánica | Método 6.1. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Cloro (en forma de ión cloruro) | Abonos simples a base de nitrato de amonio con alto contenido en nitrógeno, | Método 6. Anexo III. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del zinc en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos inferior al 10% | Método 9.11. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del zinc en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos superior al 10% | Método 10.11. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del cobre en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos inferior al 10% | Método 9.7. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Cobre | Abonos simples a base de nitrato de amonio con alto contenido en nitrógeno | Método 7. Anexo III. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del cobre en los extractos de abonos por valoración | Abonos con un contenido de oligoelementos superior al 10% | Método 10.7. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del hierro en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos inferior al 10% | Método 9.8. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del hierro en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos superior al 10% | Método 10.8. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del manganeso en los extractos de abonos por espectrometría de absorción atómica | Abonos con un contenido de oligoelementos inferior al 10% | Método 9.9. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del manganeso en los extractos de abonos por valoración | Abonos con un contenido de oligoelementos superior al 10% | Método 10.9. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del molibdeno en los extractos de abonos por espectrometría de un complejo con tiocianato amónico | Abonos con un contenido de oligoelementos inferior al 10% | Método 9.10. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del molibdeno en los extractos de abonos por gravimetría con 8-hidroxiquinoleína | Abonos con un contenido de oligoelementos superior al 10% | Método 10.10. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del cobalto en los extractos de abonos por espectrometría de absorción atómca | Abonos con un contenido de oligoelementos inferior al 10% | Método 9.6. Anexo IV. Reglamento (CE) n° 2003/2003 |
+| Determinación cuantitativa del cobalto en los extractos de abonos por gravimetría con 1-nitroso-2-naftol | Abonos con un contenido de oligoelementos superior al 10% | Método 10.6. Anexo IV. Reglamento (CE) n° 2003/2003 |
 | Indice de actividades de liberación lenta del nitrógeno | Compuestos de urea-formaldehído y mezclas que contengan tales compuestos | Método 36 Publicación Métodos Oficiales del Ministerio de Agricultura, Pesca y Alimentación |
-| Inhibidores de la nitrificación | Abonos con nitrógeno en forma nitrificable | Pendiente de publicación |
 | Valor neutralizante | Enmiendas calizas | Norma UNE-EN 12945 |
-| Valor pH | Abonos simples a base de nitrato de amonio y con alto contenido en nitrógeno | Método 38 Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 87/94/CEE. Método 4 |
-| Métodos para la aplicación de ciclos térmicos | Abonos simples a base de nitrato de amonio y con alto contenido en nitrógeno, como análisis previo a la determinación de la retención de aceite del abono | Método 39(a) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 87/94/CEE. Método 1 |
-| Métodos para la aplicación de ciclos térmicos | Abonos simples a base de nitrato de amonio y con alto contenido en nitrógeno, como proceso previo a la prueba de detonabilidad | Método 39(b) Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 87/94/CEE Método 1 |
-| Retención de aceite | Abonos simples a base de nitrato de amonio y con alto contenido en nitrógeno | Método 40 Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 87/94/CEE. Método 2 |
-| Componentes combustibles | Abonos simples a base de nitrato de amonio y con alto contenido en nitrógeno | Método 41 Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 87/94/CEE. Método 3 |
-| Ensayo de detonabilidad | Abonos simples a base de nitrato de amonio y con alto contenido en nitrógeno | Método 42 Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 87/94/CEE. Anexo III |
+| Valor pH | Abonos simples a base de nitrato de amonio y con alto contenido en nitrógeno | Método 4. Anexo III Reglamento (CE) n° 2003/2003 |
+| Métodos para la aplicación de ciclos térmicos | Abonos simples y compuestos a base de nitrato de amonio y con alto contenido en nitrógeno, como análisis previo a la determinación de la retención de aceite del abono y del ensayo de detonabilidad | Método 1. Anexo III Reglamento (CE) n° 2003/2003 |
+| Retención de aceite | Abonos simples a base de nitrato de amonio y con alto contenido en nitrógeno | Método 2. Anexo III Reglamento (CE) n° 2003/2003 |
+| Componentes combustibles | Abonos simples a base de nitrato de amonio y con alto contenido en nitrógeno | Método 3. Anexo III Reglamento (CE) n° 2003/2003 |
+| Ensayo de detonabilidad | Abonos simples a base de nitrato de amonio y con alto contenido en nitrógeno | Punto 4. Anexo III Reglamento (CE) n° 2003/2003 Orden PRE/988/2004, de 15 de abril (BOE N° 92 de 16 de abril de 2004) |
 
-Nota.- Los métodos de análisis de fertilizantes minerales aprobados por Directivas comunitarias indicadas en la columna 3, en cada caso, han sido incluidas en el Reglamento (CE) nº 2003/2003
+3. Métodos de análisis de los productos fertilizantes orgánicos y órgano-minerales.
 
-3. MÉTODOS DE ANÁLISIS DE LOS PRODUCTOS FERTILIZANTES ORGÁNICOS Y ORGANO‑MINERALES
-
-| TIPO DE DETERMINACIÓN | Ámbito de aplicación/ Producto fertilizante concernido | Normativa oficial española | Métodos o técnicas recomendados |
+| Tipo de determinación | Ámbito de aplicación/Producto fertilizante concernido | Normativa oficial española | Métodos o técnicas recomendados |
 | --- | --- | --- | --- |
-| Método de toma de muestras de fertilizantes sólidos orgánicos y afines |  | Anexo Orden 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) Transposición de la Directiva 77/535/CEE. Anexo I |  |
-| Preparación de la muestra |  | Método 1 Orden 17 de septiembre de 1981 (BOE de 14 de octubre de 1981 |  |
+| Método de toma de muestras de fertilizantes sólidos orgánicos y afines |  | Anexo III Orden de 13 de mayo de 1982 |  |
+| Preparación de la muestra |  | Método 1 Orden 17 de septiembre de 1981 (BOE de 14 de octubre de 1981) |  |
 | Humedad | No aplicable a muestras que producen sustancias volátiles diferentes del agua a la temperatura de desecación | Método 2 Orden 17 de septiembre de 1981 (BOE de 14 de octubre de 1981) Referencia: Norma U44-171 AFNOR 1976 |  |
 | Materia orgánica total por calcinación | Aplicable a enmiendas orgánicas sin el lavado previo con ácido clorhídrico | Método 3(a) Orden 1 de diciembre de 1981 (BOE de 20 de enero de 1982) Referencia: Norma U44-160 AFNOR 1976 |  |
-| Extracto húmico total y ácidos húmicos |  | Método 4 R.D. 1110/1991 (BOE nº 170 de 17 de julio de 1991) |  |
+| Extracto húmico total y ácidos húmicos |  | Método 4 R.D. 1110/1991 (BOE n° 170 de 17 de julio de 1991) |  |
 | Cenizas |  | Método 5 Orden 17 de septiembre de 1981 (BOE de 14 de octubre de 1981) |  |
 | Carbono orgánico |  |  | Métodos de combustión seca y de oxidación por vía húmeda |
 | pH |  | Método 6 Orden 1 de diciembre de 1981 (BOE de 20 de enero de 1982) |  |
-| Grado de finura |  | Método 7 R.D. 1110/1991 (BOE nº 170 de 17 de julio de 1991) |  |
-| Nitrógeno total |  | Método 8 R.D. 1110/1991 (BOE nº 170 de 17 de julio de 1991) | Método 6(d) de la Orden de 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) |
-| Nitrógeno ureico (amídico) |  | Método 9 R.D. 1110/1991 (BOE nº 170 de 17 de julio de 1991) Referencia: AOAC | Método 6(d) de la Orden de 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) |
-| Nitrógeno nítrico |  | Método 10 (método de Robertson) R.D. 1110/1991 (BOE nº 170 de 17 de julio de 1991) Referencia: AOAC | Método 6(d) de la Orden de 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) |
-| Nitrógeno amoniacal |  |  | Método 6(d) de la Orden de 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) |
-| Nitrógeno orgánico |  | Método 12 R.D. 1110/1991 (BOE nº 170 de 17 de julio de 1991) Referencia: AOAC |  |
-| Fósforo total |  | Método 13 Orden 17 de septiembre de 1981 (BOE de 14 de octubre de 1981) Referencia: AOAC | Método 15 de la Orden de 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) |
-| Fósforo soluble en agua y en citrato amónico |  | Método 14 R.D. 1110/1991 (BOE nº 170 de 17 de julio de 1991) Referencia: AOAC | Método 17 de la Orden de 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) |
-| Fósforo soluble en agua |  |  | Método 16 de la Orden de 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) |
-| Potasio soluble en agua |  | Método 16 (por fotometría de llama) Orden 17 de septiembre de 1981 (BOE de 14 de octubre de 1981) Referencia: AOAC | Método 20 de la Orden de 18 de julio de 1989 (BOE nº 176 de 25 de julio de 1989) |
-| Potasio total |  | Método 17 R.D. 1110/1991 (BOE nº 170 de 17 de julio de 1991) |  |
-| Aminoácidos libres |  | Método 18 R.D. 1110/1991 (BOE nº 170 de 17 de julio de 1991) |  |
+| Grado de finura |  | Método 7 R.D. 1110/1991 (BOE n° 170 de 17 de julio de 1991) |  |
+| Nitrógeno total |  | Método 8 R.D. 1110/1991 (BOE n° 170 de 17 de julio de 1991) | Método 2.6.1. Anexo IV Reglamento (CE) n° 2003/2003. |
+| Nitrógeno ureico (amídico) |  | Método 9 R.D. 1110/1991 (BOE n° 170 de 17 de julio de 1991) Referencia: AOAC | Método 2.6.1. Anexo IV Reglamento (CE) n° 2003/2003. |
+| Nitrógeno nítrico |  | Método 10 (método de Robertson) R.D. 1110/1991 (BOE n° 170 de 17 de julio de 1991) Referencia: AOAC | Método 2.6.1. Anexo IV Reglamento (CE) n° 2003/2003. |
+| Nitrógeno amoniacal |  |  | Método 2.6.1. Anexo IV Reglamento (CE) n° 2003/2003. |
+| Nitrógeno orgánico |  | Método 12 R.D. 1110/1991 (BOE n° 170 de 7 de julio de 1991) Referencia: AOAC |  |
+| Fósforo total |  | Método 13 Orden 17 de septiembre de 1981 (BOE de 14 de octubre de 1981) Referencia: AOAC | Método 3.1.1 y 3.2. Anexo IV Reglamento (CE) n° 2003/2003. |
+| Fósforo soluble en agua y en citrato amónico |  | Método 14 R.D. 1110/1991 (BOE n° 170 de 7 de julio de 1991) Referencia: AOAC | Método 3.1.4 y 3.2. Anexo IV Reglamento (CE) n° 2003/2003. |
+| Fósforo soluble en agua |  |  | Método 3.1.6 y 3.2. Anexo IV Reglamento (CE) n° 2003/2003. |
+| Potasio soluble en agua |  | Método 16 (por fotometría de llama) Orden 17 de septiembre de 1981 (BOE de 14 de ctubre de 1981) Referencia: AOAC | Método 4.1. Anexo IV Reglamento (CE) n° 2003/2003. |
+| Potasio total |  | Método 17 R.D. 1110/1991 (BOE n° 170 de 17 de julio de 1991) |  |
+| Aminoácidos libres |  | Método 18 R.D. 1110/1991 (BOE n° 170 de 17 de julio de 1991) |  |
 | Conductividad eléctrica |  |  | Norma UNE-EN 13038 |
 | Boro |  |  | Norma UNE-EN 13650 |
 | Calcio |  |  | Norma UNE-EN 13650 |
 | Cadmio |  |  | Norma UNE-EN 13650 |
 | Cromo |  |  | Norma UNE-EN 13650 |
-| Cromo hexavalente |  |  | Ministero delle Politiche Agricole e Forestali de Italia Decreto 8 de marzo de 2003 Suplemento nº 8 |
+| Cromo hexavalente |  |  | Ministero delle Politiche Agricole e Forestali de Italia Decreto 8 de marzo de 2003 Suplemento n° 8 |
 | Cobre |  |  | Norma UNE-EN 13650 |
 | Hierro |  |  | Norma UNE-EN 13650 |
 | Magnesio |  |  | Norma UNE-EN 13650 |
@@ -129,27 +128,34 @@ Nota.- Los métodos de análisis de fertilizantes minerales aprobados por Direct
 | Zinc |  |  | Norma UNE-EN 13650 |
 | Escherichia coli |  |  | ISO-7251 |
 | Salmonella |  |  | UNE-EN-ISO 6579 |
+| Contenido en polifenoles expresados en Ac. cumárico | Enmiendas orgánicas a base de alperujos |  | Kuwatsuka y Shindo |
 
-4. OTROS MÉTODOS DE ANÁLISIS PARA PRODUCTOS FERTILIZANTES
+4. Otros métodos de análisis para productos fertilizantes.
 
-| TIPO DE DETERMINACIÓN | Ámbito de aplicación/ Producto fertilizante concernido | Normativa oficial | Métodos o técnicas recomendados |
+| Tipo de determinación | Ámbito de aplicación/Producto fertilizante concernido | Normativa oficial | Métodos o técnicas recomendados |
 | --- | --- | --- | --- |
-| Fracción quelada de micronutrientes |  |  | Norma EN 13366 |
-| Contenido de micronutrientes quelados y agentes quelantes por cromatografía: EDTA, HEEDTA y DTPA | Abonos con micronutrientes, Ca y Mg |  | Norma EN 13368-1 |
-| Contenido de micronutrientes quelados y agentes quelantes por cromatografía: (o–o) EDDHA y (o–o) EDDHMA | Abonos con micronutrientes |  | Norma EN 13368-2 |
-| Contenido de micronutrientes quelados y agente quelante EDDCHA | Abonos con micronutrientes |  | Pendiente de publicación |
-| Contenido de micronutrientes quelados y agente quelante (o-p) EDDHA | Abonos con micronutrientes | CEN/TS 15452 |  |
-| Contenido de micronutrientes quelados y agente quelante EDDHSA y sus productos de condensación | Abonos con micronutrientes | CEN/TS 15451 |  |
-| Fracción complejada de micronutrientes | Abonos con micronutrientes |  | Pendiente de publicación |
+| Fracción quelada de micronutrientes |  | Norma EN 13366 |  |
+| Contenido de micronutrientes quelados y agentes quelantes por cromatografía: EDTA, HEDTA y DTPA | Abonos con micronutrientes, Ca y Mg | Norma EN 13368-1 |  |
+| Contenido de micronutrientes quelados y agentes quelantes por cromatografía: (o-o) EDDHA y (o-o) EDDHMA | Abonos con micronutrientes | Norma EN 13368-2 2007 |  |
+| Contenido de micronutrientes quelados y agente quelante (o-p) EDDHA | Abonos con micronutrientes | Norma EN 15452 |  |
+| Contenido de micronutrientes quelados y agente quelante EDDHSA y sus productos decondensación | Abonos con micronutrientes | Norma EN 15451 |  |
+| Fracción complejada de micronutrientes | Abonos con micronutrientes |  | prEN 15962 |
 | Fracción complejada de secundarios | Abonos con Ca y Mg |  | Pendiente de publicación |
-| Contenido de nutrientes complejados y agente complejante Ac. Lignosulfónico | Abonos con micronutrientes, Ca y Mg |  | Pendiente de publicación |
-| Contenido de nutrientes complejados y agente complejante Ac. Glucónico | Abonos con micronutrientes, Ca y Mg |  | Pendiente de publicación |
-| Contenido de nutrientes complejados y agente complejante Ac. Heptaglucónico | Abonos con micronutrientes, Ca y Mg |  | Pendiente de publicación |
-| Contenido de micronutrientes complejados y agentes complejantes Acidos húmicos | Abonos con Fe, Cu y Zn | Método 4 R.D. 1110/ 1991 (BOE. nº 170 de 17 de julio de 1991) |  |
+| Contenido de nutrientes complejados y agente complejante Ac. Lignosulfónico | Abonos con micronutrientes, Ca y Mg |  | TC 260 WI 00260129 |
+| Contenido de nutrientes complejados y agente complejante Ac. Glucónico | Abonos con micronutrientes, Ca y Mg |  | MA-F-AS313-05 Recueil Internacional des Methodes D'Analyses 0IV |
+| Contenido de nutrientes complejados y agente complejante Ac. Heptaglucónico | Abonos con micronutrientes, Ca y Mg |  |  |
+| Contenido de micronutrientes complejados y agentes complejantes Ácidos húmicos | Abonos con Fe, Cu y Zn | Método 4 R.D. 1110/1991 (BOE. n° 170 de 17 de julio de 1991) |  |
 | Contenido de micronutrientes complejados y agentes complejantes Aminoácidos libres | Abonos con Cu y Zn | Método 18 R.D.110/1991 (BOE n°170 de 17 de julio de 1991) |  |
-| Contenido de nutrientes complejados y agente complejante Ac. Cítrico | Abonos con Fe y Ca |  | Pendiente de publicación |
-| Determinación de Inhibidor de la nitrificación: Diciandiamida (DCD) | Abonos con N en forma nitrificable |  | CEN/TS 15360 |
-| Determinación de isobutilidendiurea y de Crotonilidendiurea | Abonos de liberación lenta |  | CEN/TS 260/TF3 WI 00260062 N-788 |
-| Determinación de acetilendiurea | Abonos de liberación lenta |  | CAD/DT, M505 (BASE) Rev. 1 (13-12-01) |
+| Contenido de nutrientes complejados y agente complejante Ac. Cítrico | Abonos con Fe y Ca |  | MA-F-AS313-05 Recueil Internacional des Methodes D'Analyses 0IV |
+| Determinación de Inhibidor de la nitrificación: Diciandiamida (DCD) | Abonos con N en forma nitrificable | Norma EN 15360 |  |
+| Determinación de inhibidor de la nitrificación: Dimetil dihidrógeno fosfato (DMPP) | Abonos con N en forma nitrificable |  | prEN 15905 |
+| Determinación de inhibidor de la ureasa: monocarbamida dihidrógeno sulfato (MCDHS) | Abonos nitrogenados, cuyo contenido en nitrógeno ureico es al menos el 50% del nitrógeno total |  | Volumetría por neutralización |
+| Contenido de hierro quelado y agente quelante HBED |  |  | prEN 13368-2: 2009 |
+| Contenido en 2-furaldehido (furfural) | Abonos que contengan como materia prima, lignosulfonatos, lodos procedentes de la industria del papel o de la elaboración de azúcar |  | GENO 18/2003 Codex Enológico Internacional |
+| Contenido en monómeros de acrilamida | Enmiendas a base de polímeros de acrilamida |  | Pendiente de publicación |
+| Capacidad de absorción de agua | Enmiendas a base de polímeros de acrilamida |  | Pendiente de publicación |
+| Contenido en polímeros hidroabsorbentes | Enmiendas a base de polímeros de acrilamida |  | Pendiente de publicación |
+
+> Se modifica por el art. único. 6 y anexo III de la Orden PRE/630/2011, de 23 de abril. Ref. BOE-A-2011-5401.
 
 > Se modifica por el art. único.4 y anexo VI de la Orden APA/863/2008, de 25 de marzo. Ref. BOE-A-2008-5880.

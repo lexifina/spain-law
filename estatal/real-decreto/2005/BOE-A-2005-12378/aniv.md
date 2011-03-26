@@ -90,6 +90,8 @@
 
 04 01 07 Lodos, en particular los procedentes del tratamiento in situ de efluentes que, no contienen cromo
 
+04 01 99 Residuos no especificados en otra categoría: residuos del curtido vegetal de piel (virutas) que no contienen cromo
+
 04 02 Residuos de la industria textil
 
 04 02 10 Materia orgánica de productos naturales (por ejemplo grasa, cera)
@@ -145,3 +147,5 @@
 20 03 02 Residuos de mercados de origen vegetal y animal
 
 20 03 04 Lodos de fosas sépticas
+
+> Se añade el apartado 04 01 99 por el art. único.4 de la Orden PRE/630/2011, de 23 de marzo. Ref. BOE-A-2011-5401.

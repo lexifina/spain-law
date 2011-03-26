@@ -26,10 +26,9 @@ Escherichia coli: < 1000 número más probable (NMP) por gramo de producto elabo
 
 5. Límite máximo de metales pesados
 
-Los productos fertilizantes elaborados con materias primas de origen animal o vegetal no podrán superar el contenido de metales pesados indicado en el Cuadro siguiente, según sea su clase A, B o C:
-
-| Metal pesado | Límites de concentración Sólidos: mg/kg de materia seca Líquidos: mg/kg |
+| Metal pesado | Límites de concentración Sólidos: mg/kg de materia seca |
 | --- | --- |
+| Líquidos: mg/kg |
 | Clase A | Clase B | Clase C |
 | Cadmio | 0,7 | 2 | 3 |
 | Cobre | 70 | 300 | 400 |
@@ -38,7 +37,9 @@ Los productos fertilizantes elaborados con materias primas de origen animal o ve
 | Zinc | 200 | 500 | 1.000 |
 | Mercurio | 0,4 | 1,5 | 2,5 |
 | Cromo (total) | 70 | 250 | 300 |
-| Cromo (VI) | 0 | 0 | 0 |
+| Cromo (VI) | No detectable según el método oficial | No detectable según el método oficial | No detectable según el método oficial |
+
+Los productos fertilizantes elaborados con materias primas de origen animal o vegetal no podrán superar el contenido de metales pesados indicado en el Cuadro siguiente, según sea su clase A, B o C:
 
 Clase A: Productos fertilizantes cuyo contenido en metales pesados no superan ninguno de ellos los valores de la columna A.
 
@@ -51,3 +52,9 @@ Clase C: Productos fertilizantes cuyo contenido en metales pesados no superan ni
 1. Sin perjuicio de las limitaciones establecidas en el capítulo IV, los productos fertilizantes elaborados con componentes de origen orgánico se aplicarán al suelo siguiendo los códigos de buenas prácticas agrarias.
 
 2. Los productos de la clase C no podrán aplicarse sobre suelos agrícolas en dosis superiores a cinco toneladas de materia seca por ha y año. En zonas de especial protección, particularmente a efectos del cumplimiento del Real Decreto 140/2003, de 7 de febrero, por el que se establecen los criterios sanitarios de la calidad del agua de consumo humano, las comunidades autónomas modificarán, en su caso, la cantidad anterior.
+
+7. Límite máximo de furfural.
+
+En los productos que contengan como materia prima, lignosulfonatos, lodos procedentes de la industria del papel o de la elaboración de azúcar, se acreditará que no supera el 0,05% p/p como límite máximo de contenido de furfural (2-furaldehido).
+
+> Se modifica el apartado 5 y se añade el 7 por el art. único.5 de la Orden PRE/630/2011, de 23 de marzo. Ref. BOE-A-2011-5401.
