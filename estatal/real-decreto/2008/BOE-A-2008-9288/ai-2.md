@@ -152,7 +152,7 @@ LME(T) = Límite de migración específica en alimentos o en simulantes alimenti
 | 13380 | 000077-99-6 | 2,2-Bis(hidroximetil)-1-butanol | Ver «1,1,1-Trimetilolpropano» |
 | 13390 | 000105-08-8 | 1,4-Bis(hidroximetil)ciclohexano |  |
 | 13395 | 004767-03-7 | Ácido 2,2-bis(hidroximetil)propiónico | CMA = 0,05 mg/6 dm2 |
-| 13480 | 000080-05-7 | 2,2-bis(4-hidroxifenil)propano | LME(T) = 0,6 mg/kg (28) |
+| 13480 | 000080-05-7 | 2,2-bis(4-hidroxifenil)propano | LME(T) = 0,6 mg/kg (28) . No utilizar en la fabricación de biberones de policarbonato para lactantes* |
 | 13510 | 001675-54-3 | 2,2-Bis(4-hidroxifenil)propano bis(2,3-epoxipropil) éter (= BADGE) | De conformidad con el Real Decreto 293/2003, de 7 de marzo, relativo a la utilización de determinados derivados epoxídicos en materiales y objetos destinados a entrar en contacto con alimentos |
 | 13530 | 038103-06-9 | Bis(anhídrido ftálico) de 2,2-bis(4-hidroxi-fenil)propano | LME = 0,05 mg/kg |
 | 13550 | 000110-98-5 | Éter Bis(hidroxipropílico) | Ver «Dipropilengicol» |
@@ -427,6 +427,8 @@ LME(T) = Límite de migración específica en alimentos o en simulantes alimenti
 | 26320 | 002768-02-7 | Viniltrimetoxisilano | CM = 5 mg/kg en PT |
 | 26360 | 007732-18-5 | Agua | De acuerdo con el Real Decreto 140/2003, de 7 de febrero, por el que se establecen los criterios sanitarios de la calidad del agua de consumo humano |
 
+* Lactantes tal y como se definen en el Real Decreto 867/2008, de 23 de mayo, por el que se aprueba la reglamentación técnico-sanitaria específica de los preparados para lactantes y de los preparados de continuación.
+
 (1) Advertencia: existe el riesgo de superar el LME en simulantes alimenticios grasos.
 
 (2) LME(T) significa en este caso que la suma de la migración de las sustancias siguientes, señaladas con los nos de ref. 10060 y 23920, no debe superar la restricción indicada.
@@ -479,5 +481,7 @@ LME(T) = Límite de migración específica en alimentos o en simulantes alimenti
 | 15730 | 000077-73-6 | Diciclopentadieno |  |
 | 18370 | 000592-45-0 | 1,4-Hexadieno |  |
 | 26230 | 000088-12-0 | Vinilpirrolidona |  |
+
+> Se modifica la sección A por el art. único de la Orden PRE/628/2011, de 22 de marzo. Ref. BOE-A-2011-5399
 
 > Se modifica la sección A por el art. único.1 y anexo I del Real Decreto 103/2009, de 6 de febrero. Ref. BOE-A-2009-2638
