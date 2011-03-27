@@ -1,6 +1,6 @@
 ## ANEXO V
 
-## Propuesta de documentación a presentar en caso de cambio de titularidad de los derechos provisionales establecidos en base al artículo 17
+## Propuesta de documentación a presentar en caso de cambio de titularidad de los derechos provisionales establecidos en base al artículo 19
 
 1. En todas las solicitudes de cambio de titularidad:
 
@@ -14,7 +14,7 @@ Autorización a los órganos competentes de las comunidades autónomas para reca
 
 Otros documentos a especificar por el interesado o solicitados por la autoridad competente.
 
-2. Herencia real o anticipada (incluido el usufructo):
+2. Herencia real o transmisión “inter vivos” (incluido el usufructo):
 
 En caso de transferencia parcial de explotación indicar el porcentaje de la explotación que pasa al nuevo titular, y adjuntar la información sobre la localización de las parcelas transferidas.
 
@@ -39,3 +39,5 @@ Documento público o privado que refleje la escisión firmado por todas las part
 6. Contrato de compraventa de unidades de producción con derechos:
 
 Documento público o privado de transferencia firmado por ambas partes en el que se indique el porcentaje de la explotación que pasa al comprador, adjuntando la información sobre la localización de las parcelas transferidas o certificación del Registro de la propiedad.
+
+> Se modifican el título y el apartado 2 por el art. único.15 del Real Decrto 420/2011, de 25 de marzo. Ref. BOE-A-2011-5464.
