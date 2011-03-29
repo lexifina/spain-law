@@ -1,0 +1,5 @@
+## Tercero. Prohibición de inauguraciones.
+
+1. Asimismo, de acuerdo con lo dispuesto en el artículo 50.3 de la LOREG, «durante el periodo electoral queda prohibido realizar cualquier acto de inauguración de obras o servicios públicos o proyectos de éstos, cualquiera que sea la denominación utilizada, sin perjuicio de que dichas obras o servicios puedan entrar en funcionamiento en dicho periodo».
+
+2. No se consideran incluidas en la prohibición establecida en el artículo 50.3 de la LOREG, las inauguraciones institucionales por autoridades de eventos de carácter comercial, industrial, profesional, económico, cultural, deportivo o lúdico, tales como congresos, ferias de muestras, festivales o fiestas populares, que se celebren de forma regular y periódica en fechas coincidentes con un periodo electoral, siempre que ni en la organización del evento ni en las intervenciones se contengan alusiones a las realizaciones o a los logros de las autoridades intervinientes, ni tampoco se induzca, directa o indirectamente, mediata o inmediatamente, el sentido del voto de los electores.
