@@ -1,0 +1,11 @@
+## Cuarto. Planes de cobertura informativa de la campaña electoral.
+
+1. Los órganos de dirección de los medios de titularidad pública someterán a las Juntas Electorales competentes sus planes de cobertura informativa de la campaña electoral, en los que incluirán los debates, entrevistas y programas específicos de naturaleza electoral que pretendan realizar, así como los criterios sobre la información específica relativa a la campaña electoral.
+
+2. La información específica relativa a la campaña electoral deberá responder a los principios de pluralismo, igualdad, proporcionalidad y neutralidad informativa. La duración de la información dedicada a cada formación política se ajustará proporcionalmente a los resultados obtenidos en las últimas elecciones equivalentes en el ámbito de difusión del medio y se emitirá de conformidad con los criterios previamente acordados en los planes de cobertura informativa, y, en su defecto, aplicando el criterio de mayor a menor, por el orden de los resultados logrados por cada formación política en dichas elecciones, pudiendo en cualquier caso proporcionar otra información sobre aquellas candidaturas que no se presentaron o no obtuvieron representación en las últimas elecciones, sin que en ningún caso éstas últimas puedan obtener una cobertura informativa mayor que ninguna de las formaciones políticas que obtuvieron representación en las últimas elecciones.
+
+3. Corresponde a los órganos de dirección de los medios la decisión de organizar o difundir entrevistas o debates electorales, pero de hacerlo deberán respetar los principios de pluralismo político, neutralidad informativa, igualdad y proporcionalidad.
+
+En la organización de esos debates o entrevistas deberán tener particularmente en cuenta los resultados obtenidos por cada formación política en las últimas elecciones equivalentes.
+
+En el caso de que un medio decida emitir un debate entre representantes de las dos candidaturas que obtuvieron mayor número de votos en las últimas elecciones equivalentes, deberá emitir otros debates bilaterales o plurilaterales, o proporcionar información compensatoria suficiente sobre las demás candidaturas que también hayan conseguido representación en las últimas elecciones equivalentes.
