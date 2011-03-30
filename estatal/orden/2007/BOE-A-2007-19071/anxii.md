@@ -10,8 +10,12 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2007/264/19071_012a.png)
 
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/59/04393_001.png)
+
 ![imagen](https://www.boe.es/datos/imagenes/disp/2007/264/19071_012b.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2007/264/19071_013.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2007/264/19071_014.png)
+
+> Se modifica por la Resolución de 31 de enero de 2011. Ref. BOE-A-2011-4393.
