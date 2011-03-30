@@ -1,32 +1,36 @@
-## ANEXO 3
+## ANEXO 3. Modelos de papeletas de votación
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/310/22299_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/305/24911_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/299/21501_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/305/24911_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_017.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1999/92/8583_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_015.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/104/07113_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_016.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_017.png)
+
+> Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. Ref. BOE-A-2011-5607.
 
 > Se modifica el modelo EPE 3.1 por el apartado único de la Orden INT/1025/2009, de 28 de abril. Ref. BOE-A-2009-7113.
 
