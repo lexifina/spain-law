@@ -32,17 +32,7 @@ Tfd: Término fijo del peaje descarga de GNL: 0 €/buque.
 
 Tvd: Término variable de peaje de descarga de GNL: 0 cent/kWh.
 
-El peaje aplicable por la introducción de gas natural por las conexiones internacionales por gasoducto es el siguiente:
-
-Conexiones internacionales de Larrau e Irún: 0 cent/kWh.
-
-Conexión internacional de Badajoz: 0 cent/kWh.
-
-Conexión internacional de Tuy: 0 cent/kWh
-
-Conexión internacional GME: 0 cent/kWh.
-
-Conexión internacional MEDGAZ: 0 cent/kWh.
+(Último párrafo anulado)
 
 Tercero. Peaje de carga de cisternas.
 
@@ -191,3 +181,7 @@ Los coeficientes a aplicar al término fijo de caudal de los peajes correspondie
 | diciembre | 0,10 | 2,00 |
 
 El término variable (Tvij) a aplicar es el del peaje correspondiente.
+
+> Se anula el último párrafo del apartado 2 por Sentencia del TS de 28 de febrero de 2011. Ref. BOE-A-2011-5766.
+
+> En el mismo sentido se pronuncia la Sentencia del TS de 11 de octubre de 2011. Ref. BOE-A-2011-19545.
