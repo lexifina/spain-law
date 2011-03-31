@@ -95,6 +95,25 @@
 |  | E-471 Mono y diglicéridos de ácidos grasos | Quantum satis |
 | Mantequilla de nata agria | E-500 Carbonatos de sodio | Quantum satis |
 | Leche de cabra UHT | E-331 Citratos de sodio | 4g/l |
+| Productos lácteos sin aromatizantes fermentados por la acción de organismos vivos y sus sucedáneos con un contenido de grasas inferior al 20% | E 406 Agar | Quantum satis |
+| E 407 Carragenano |
+| E 410 Goma garrofín |
+| E 412 Goma guar |
+| E 415 Goma xantana |
+| E 440 Pectinas |
+| E 460 Celulosa |
+| E 466 Carboximetilcelulosa |
+| E 471 Monoglicéridos y diglicéridos de ácidos grasos |
+| E 1404 Almidón oxidado |
+| E 1410 Fosfato de monoalmidón E 1412 Fosfato de dialmidón |
+| E 1413 Fosfato fosfatado de dialmidón |
+| E 1414 Fosfato acetilado de dialmidón |
+| E 1420 Almidón acetilado |
+| E 1422 Adipato acetilado de dialmidón |
+| E 1440 Hidroxipropil almidón |
+| E 1442 Fosfato de hidroxipropil almidón |
+| E 1450 Octenil succinato sódico de almidón |
+| E 1451 Almidón acetilado oxidado |
 
 ## Pan y panes especiales
 
@@ -151,7 +170,14 @@
 
 | Productos Alimenticios | Aditivos | Dosis máxima |
 | --- | --- | --- |
-| Preparados envasados de carne picada fresca | E 300 Ácido ascórbico E 301 Ascorbato sódico E 302 Ascorbato cálcico E 330 Ácido cítrico E 331 Citratos de sodio E 332 Citratos de potasio E 333 Citratos de calcio | Quantum satis Quantum satis Quantum satis Quantum satis Quantum satis Quantum satis Quantum satis |
+| Preparados envasados de carne picada fresca | E 261 Acetato potásico E 262i Acetato sódico E 262ii Acetato ácido de sodio (diacetato sódico) E 300 Ácido ascórbico E 301 Ascorbato sódico E 302 Ascorbato cálcico E 325 Lactato sódico E 326 Lactato potásico E 330 Ácido cítrico E 331 Citratos de sodio E 332 Citratos de potasio E 333 Citratos de calcio | Quantum satis |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
 |  |
 |  |
 |  |
@@ -362,6 +388,8 @@
 |  | E-332 Citratos potásicos | Quantum satis |
 |  | E-333 Citratos cálcicos | Quantum satis |
 
+> Se modifica por el art. único y anexo I de la Orden SPI/681/2011, de 28 de marzo. Ref. BOE-A-2011-5716.
+
 > Se modifica por el art. único.3 y anexo II del Real Decreto 1118/2007, de 24 de agosto. Ref. BOE-A-2007-16339.
 
-> Se modifica por art. único.3 y anexo.2 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.
+> Se modifica por el art. único.3 y anexo.2 del Real Decreto 2196/2004, de 25 de noviembre. Ref. BOE-A-2004-20548.

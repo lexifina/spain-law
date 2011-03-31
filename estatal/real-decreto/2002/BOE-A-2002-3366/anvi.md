@@ -134,6 +134,8 @@ Las dosis máximas de utilización se refieren a los alimentos listos para el co
 | Nota: |  |  |
 | (1) Sólo para los que contengan grasa. |  |  |
 | (2) Sólo la forma L (+). |  |  |
+|  | E-920(3) | 1 g/kg |
+| Nota:(3)Sólo para galletas para lactantes y niños de corta edad |  |  |
 | 1.2 ALIMENTOS PARA NIÑOS DE CORTA EDAD DISTINTOS DE LOS ELABORADOS A BASE DE CEREALES |
 | Alimentos para niños de corta edad distintos de los elaborados a base de cereales | E-300 a E-302 | 0,3 g/Kg por separado o en combinación. Expresados como ácido ascórbico. |
 |  | E-304(1); E-306(1) E-307(1); E-308(1); E-309(1) | 0,1 g/Kg por separado o en combinación |
@@ -173,6 +175,8 @@ Se aplicarán las tablas contenidas en las partes primera a tercera del Anexo VI
 | E-472c | Ésteres cítricos de los mono- y diglicéridos de los ácidos grasos. | 7,5 g/l para productos en polvo. 9 g/l para productos en forma líquida. | Desde el nacimiento. |
 | E-473 | Sucroésteres de ácidos grasos | 120 mg/l | Productos que contengan proteínas, péptidos y aminoácidos hidrolizados |
 | E-1450 | Octenil succinato sódico de almidón | 20 g/l | Preparados para lactantes y preparados de continuación para lactantes |
+
+> Se modifica por el art. único.1 y anexo V de la Orden SPI/681/2011, de 28 de marzo. Ref. BOE-A-2011-5716
 
 > Se modifica por el art. único.3 y anexo VI del Real Decreto 1118/2007, de 24 de agosto. Ref. BOE-A-2007-16339.
 

@@ -84,7 +84,8 @@
 | E-319 | Terbutilhidroquinona (TBHQ) |
 | E-320 | Butil hidroxianisol (BHA) |
 | E-321 | Butil hidroxitoluol (BHT) |
-| E-586 | 4-Hexilresorcinol |
+| E-392 | Extractos de romero |
+| E-586 | 4- Hexilresorcinol |
 | (1) | La dosis de estas sustancias se expresan como galatos. |
 | --- | --- |
 | (2) | La dosis de estas sustancias se expresan como Ácido eritórbico. |
@@ -96,11 +97,18 @@
 | Tocino, aceite de pescado y grasas de vacuno, ovino y ave | E-310 a E-312 E-319 a E-321 | 200* (Galatos, TBHQ y BHA, por separado o en combinación) 100* BHT Expresados en ambos casos respecto del contenido de grasa |
 | Preparados grasos, incluídas las emulsiones grasas (excluída la mantequilla) con un contenido mínimo de grasa del 60% | Sa | 1.000 |
 | Preparados grasos con un contenido de grasa inferior al 60% (incluídas las emulsiones grasas) | Sa | 2.000 |
+| Aceites vegetales (excepto aceites vírgenes y aceites de oliva) y grasas con un contenido de ácidos grasos poliinsaturados superior al 15% p/p del ácido graso total, para ser utilizados en productos alimenticios no sometidos a tratamiento térmico | E-392 | 30 (expresado como la suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa |
+| Aceites de pescado y de alga | E-392 | 50 (expresado como la suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa |
+| Grasas y aceites para la fabricación profesional de productos alimenticios con tratamiento térmico | E-392 | 50 (expresado como la suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa |
+| Aceite y grasas para freír, excluido el aceite de oliva y el aceite de orujo de oliva | E-392 | 50 (expresado como la suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa |
+| Manteca de cerdo y grasa de vacuno, de ave, de ovino y porcino | E-392 | 50 (expresado como la suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa |
 | Nota: El asterisco se refiere a la regla de proporcionalidad: cuando se utilicen combinaciones de galatos, TBHQ, BHA y BHT, deben reducirse proporcionalmente las dosis individuales. |
 | AROMAS |  |  |
-| Aromas | Sa+Ba. | 1500. |
+| Aromas | Sa+Ba. | 1500 |
+|  | E-392 | 1000 (expresado como suma de carnosol y ácido carnósico) |
 | Aceites esenciales | E-310 a E-312 E-319 y E-320 | 1000 (Galatos, TBHQ y BHA, por separado o en combinación) |
 | Aromas distintos de los aceites esenciales. | E-310 a E-312 E-319 y E-320 | 100* (Galatos, por separado o en combinación) 200* (TBHQ y BHA, por separado o en combinación). |
+| E-392 | 1000 (expresado como suma de carnosol y ácido carnósico) |
 | Nota: El asterisco se refiere a la regla de proporcionalidad: cuando se utilicen combinaciones de Galatos, TBHQ y BHA, deben reducirse proporcionalmente las dosis individuales. |
 | AZÚCARES |  |  |
 | Azúcares en el sentido del Real Decreto 1261/1987 de 11 de septiembre, excepto azúcar terciado, azúcar moreno de caña, azúcar en polvo, azúcar cande y el jarabe de glucosa deshidratado o no | SO2 | 10 |
@@ -112,6 +120,9 @@
 | Bebidas espirituosas de grado alcohólico volumétrico inferior al 15% | Sa Ba Sa + Ba | 200 200 400 |
 | Sidra y perada, incluídas las sin alcohol | Sa SO2 | 200 200 |
 | Bebidas alcohólicas destiladas que contengan peras enteras | SO2 | 50 |
+| Cervezas de barril que contengan más de un 0,5 % de azúcares fermentables o bien de zumos o concentrados de frutas añadidos | Sa Ba Sa + Ba | 200 200 400 |
+| Sidra y perada, incluídas las sin alcohol | E-242(1) | 250 de cantidad añadida, residuos no detectables |
+| Nota: (1) Para sidra, perada y vinos afrutados. |
 | BEBIDAS NO ALCOHÓLICAS |  |  |
 | 1. Bebidas no alcohólicas aromatizadas | Sa (1) | 300 |
 |  | Ba (1) | 150 |
@@ -126,20 +137,28 @@
 | CALDOS Y SOPAS |  |  |
 | Caldos y sopas líquidos (excluidos los enlatados) | Sa + Ba | 500 |
 | Caldos y sopas deshidratadas | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, por separado o en combinación) Expresados respecto del contenido de grasa |
+| E-392 | 50 (expresado como suma de carnosol y ácido carnósico) |
 | CERVEZAS |  |  |
 | Cervezas, incluidas las cervezas bajas en alcohol y sin alcohol | SO2 | 20 |
 | Cerveza de barril sin alcohol | Ba SO2 | 200 20 |
 | Cerveza sometida a una segunda fermentación en barril | SO2 | 50 |
 | COMPLEMENTOS ALIMENTICIOS |
-| Complementos alimenticios, tal y como se definen en el Real Decreto 1275/2003, de 10 de octubre, relativo a los complementos alimenticios | Sa + Ba | 2000 (solo para complementos alimenticios suministrados en forma líquida) |
-| E-310 a E-312 E-319 a E-321 | 400 (Galatos, TBHQ, BHA y BHT, por separado o en combinación) |
+| Complementos alimenticios, tal y como se definen en el Real Decreto 1487/2009, de 26 de septiembre, relativo a los complementos alimenticios | Sa+Ba | 2000 (solo para complementos alimenticios suministrados en forma líquida) |
+| 1.000 (solo para complementos suministrados en forma seca que contengan preparados de vitamina A o de combinaciones de vitaminas A y D) En el producto listo para el consumo |
+| E-310 a E-312 E-319 a E-321 | 400 (galatos, TBHQ, BHA y BHT por separado o en combinación) |
+| E-392 | 400 (expresado como la suma de carnosol y ácido carnósico) |
 | Goma de mascar o chicle | Sa + Ba | 1500 |
 | E-310 a E-312 E-319 a E-321 | 400 (Galatos, TBHQ, BHA y BHT, por separado o en combinación) |
+| E-392 | 200(expresado como la suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa |
 | HUEVOS Y OVOPRODUCTOS |  |  |
-| Huevo líquido (clara, yema o huevo completo) | Sa + Ba | 5.000 |
-| Ovoproductos deshidratados concentrados, congelados o ultracongelados | Sa | 1.000 |
+| Huevo líquido (clara, yema o huevo completo) | Sa+Ba | 5.000 |
+| E-234 | 6,25 (solo para huevo líquido pasteurizado) |
+| Ovoproductos | Sa | 1.000 (solo para deshidratados, concentrados, congelados o ultracongelados) |
+| E-392 | 200 (expresado como la suma de carnosol y ácido carnósico) |
 | LECHE |  |  |
 | Leche en polvo para máquinas automáticas | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA por separado o en combinación) Expresados respecto del contenido de grasa |
+| Leche en polvo para máquinas automáticas | E-392 | 200 (expresado como suma de carnosol y ácido carnósico) Expresado respecto del contenido de grasa |
+| Leche en polvo para la elaboración de helado | E-392 | 30 (expresado como suma de carnosol y ácido carnósico) |
 | MASAS PARA REBOZAR |  |  |
 | Masas para rebozar | Sa | 2.000 |
 | PAN, PANES ESPECIALES Y BOLLERÍA |  |  |
@@ -150,6 +169,7 @@
 | Pan de valor energético reducido destinado a la venta al por menor | E-280 a E-283 | 2.000 |
 | Productos de bollería fina con una actividad acuosa superior al 0,65 | Sa | 2.000 |
 | Productos de bollería envasados con una actividad acuosa superior a 0,65 | Sa E-280 a E-283 | 2.000 2.000 |
+| Productos de bollería fina | E-392 | 200 (expresado como la suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa |
 | PASTELERÍA, REPOSTERÍA Y GALLETERÍA |  |  |
 | Productos de pastelería, repostería y galletería con una actividad acuosa superior a 0,65 | Sa | 2.000 |
 | Productos de pastelería, repostería y galletería envasados con una actividad acuosa superior a 0,65 | Sa E-280 a E-283 | 2.000 2.000 |
@@ -159,20 +179,25 @@
 | POSTRES |  |  |
 | Postres a base de leche no tratados por calor | Sa + Ba | 300 |
 | Leche cuajada | Sa | 1.000 |
-| Postres a base de semolina y tapioca | E-234 | 3 |
+| Postres de semolina y tapioca y productos similares | E-234 | 3 |
 | PRODUCTOS ALIMENTICIOS DESTINADOS A UNA ALIMENTACIÓN ESPECIAL |  |  |
 | Alimentos dietéticos destinados a usos médicos especiales tal como se definen en el Real Decreto 1091/2000, de 9 de junio, excluidos los alimentos para lactantes y niños de corta edad a que hace referencia el Real Decreto 1809/1991, de 13 de diciembre. | Sa+Ba | 1.500 |
 | Preparados completos de régimen para el control de peso que reemplacen una comida o el régimen alimenticio de un día | Sa + Ba | 1.500 |
 | PRODUCTOS DE APERITIVO |  |  |
 | Productos de aperitivo a base de cereales o patata y frutos secos transformados o recubiertos | Sa + PHB | 1.000 (de ellos 300 de PHB máximo) |
-|  | SO2 | 50 |
-|  | E-310 a E-312 E-319 y E-320 | 200 (galatos, TBHQ y BHA, solos o en combinación) Expresados respecto del contenido de grasa Sólo para productos de aperitivo a base de cereales y para frutos secos transformados |
+| SO2 | 50 |
+| E-310 a E-312 E-319 y E-320 | 200 (galatos, TBHQ y BHA, solos o en combinación) Expresados respecto del contenido de grasa Sólo para productos de aperitivo a base de cereales y para frutos secos transformados |
+| E-392 | 50 (expresado como la suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa Solo para productos de aperitivo basados en cereales, patatas o almidón 200 (expresado como suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa Solo para frutos secos transformados |
 | PRODUCTOS CÁRNICOS |  |  |
 | Longaniza fresca y butifarra fresca | SO2 | 450 |
 | Pastas de higado, pastas de carne, patés de higado y patés de carne | Sa + PHB | 1.000 |
 | Tratamiento de superficie de productos cárnicos crudos-curados | Sa + Ba + PHB | Quantum satis |
 | Tratamiento de superficie de embutidos crudos-curados | Sa + Ba+ PHB E-235 | Quantum satis 1 mg/dm2 de superficie (no presente a 5 mm de profundidad) |
 | Cobertura de gelatina de los productos cárnicos (crudos-curados ó cocidos) | Sa + PHB | 1.000 |
+| Productos cárnicos excepto la carne deshidratada y los embutidos secos | E-392 | 150 (expresado como la suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa |
+| Embutidos secos | 100 (expresado como la suma de carnosol y ácido carnósico) |
+| Carne deshidratada | 150 (expresado como suma de carnosol y ácido carnósico) |
+|  |
 | Productos alimenticios | Aditivos | Cantidad máxima que puede añadirse durante la fabricación (expresada en mg/kg como NaNO2) | Dosis residual máxima (expresada en mg/kg como NaNO2) |
 | --- | --- | --- | --- |
 | Productos cárnicos | E-249 y E-250 (x) | 150 |  |
@@ -304,6 +329,9 @@ Notas:
 | Sa + Ba | 2000 |
 | Crustáceos cocidos de las familias Penaeidae, Solenoceridae y Aristaeidae -hasta 80 unidades/kg -entre 80 y 120 unidades/kg -más de 120 unidades/kg | SO2 | 135 (en las partes comestibles) 180 (en las partes comestibles) 270 (en las partes comestibles) |
 | Arenque y espadín escabechados | E-251 y E-252 | 500 (Cantidad máxima que puede añadirse durante la fabricación expresada como NaNO2). |
+| Sucedáneos de productos pesqueros basados en algas | Sa | 1.000 |
+| Ba | 500 |
+| Productos pesqueros | E-392 | 150 (expresado como la suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa |
 | PRODUCTOS VEGETALES ELABORADOS |  |  |
 | Confituras, jaleas, mermeladas y marmalades de frutas como se menciona en el R.D. 670/1990 de 25 de mayo (excepto la confitura extra y la jalea extra) | SO2 | 50 |
 | Confituras, jaleas, mermeladas y marmalade de frutas de valor energético reducido o sin azúcares añadidos | Ba Sa + Ba SO2 | 500 1.000 50 |
@@ -342,6 +370,7 @@ Notas:
 | Patatas transformadas (incluidas las congeladas y ultracongeladas) | SO2 | 100 |
 | Patatas deshidratadas | SO2 | 400 |
 | E-310 a E-312 E-319 y E-320 | 25 (Galatos, TBHQ y BHA, por separado o en combinación) |
+| E-392 | 200 (expresado como suma de carnosol y ácido carnósico) |
 | Masa de patata | Sa SO2 | 2.000 100 |
 | Maíz dulce envasado al vacío | SO2 | 100 |
 | Tratamiento de superficie de los cítricos | E-231* E-232* | 12. |
@@ -349,6 +378,9 @@ Notas:
 | PRODUCTOS VEGETALES SIN ELABORAR |  |  |
 | Uvas de mesa | SO2 | 10 |
 | Lichis frescos | SO2 | 10, medidos en la parte comestible |
+| Cítricos frescos sin pelar (solo con tratamiento de superficie) | Sa | 20 |
+| Arándanos (solo Vaccinium corymbosum) | SO2 | 10 |
+| Canela (solo Cinnamomum ceylanicum) | SO2 | 150 |
 | QUESOS |  |  |
 | Queso en lonchas envasado | Sa | 1.000 |
 | Queso fundido | Sa E-234 | 2.000 12,5 |
@@ -375,6 +407,7 @@ Notas:
 |  | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, por separado o en combinación) Expresados respecto del contenido de grasa |
 | Salsas a base de fruta | Sa | 1.000 |
 |  | E-310 a E-312 E-319 y E-320 | 200 (Galatos, TBHQ y BHA, por separado o en combinación) Expresados respecto del contenido de grasa |
+| Salsas | E-392 | 100 (expresado como la suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa |
 | SUCEDÁNEOS |  |  |
 | Sucedáneos de carne, pescado y crustáceos y cefalópodos a base de proteínas | Sa SO2(1) | 2.000 200 |
 | Sucedáneos de queso a base de proteínas | Sa | 2.000 |
@@ -394,6 +427,9 @@ Notas:
 | Vinos de frutas incluidos los sin alcohol | Sa SO2 | 200 200 |
 | Vino espumoso de frutas | SO2 | 200 |
 | Vino sin alcohol | Sa SO2 E-242 | 200 200 250 de cantidad añadida, residuos no detectables |
+| Vino con un grado alcohólico menor | E-242 | 250 de cantidad añadida, residuos no detectables |
+| Bebidas y otros productos a base de vino definidos en el Reglamento (CEE) nº 1601/91*** | E-242 | 250 de cantidad añadida, residuos no detectables |
+| *** Reglamento (CEE) nº 1601/91 del Consejo, de 10 de junio de 1991, por el que se establecen las reglas generales relativas a la definición, designación y presentación de vinos aromatizados, de bebidas aromatizadas a base de vino y de cócteles aromatizados de productos vitivinícolas (DO L 149 de 14.6.1991, p.1); Reglamento cuya última modificación la constituye el Reglamento (CE) nº 1334/2008 del Parlamento Europeo y del Consejo (DO L 354 de 31.12.2008, p. 34) |
 | ZUMOS |  |  |
 | Zumo de lima y limón | SO2 | 350 |
 | Zumos de naranja, pomelo, manzana y piña, destinados a la distribución a granel por establecimientos proveedores de comidas preparadas | SO2 | 50 |
@@ -432,6 +468,7 @@ Notas:
 | Rellenos para raviolis y productos similares | Sa | 1.000 |
 | Coberturas (jarabes para tortitas, jarabes aromatizados para batidos y helados; productos similares) | Sa SO2 | 1.000 40 |
 | Condimentos y aderezos | Sa + Ba E-310 a E-312 E-320 | 1.000 200 (Galatos y BHA, por separado ó en combinación) expresados sobre la grasa |
+|  | E-392 | 200 (expresado como suma de carnosol y ácido carnósico) Expresados respecto del contenido de grasa |
 | Aderezos a base de Zumos cítricos | SO2 | 200 |
 | Almidones (con exclusión de los preparados para lactantes, los preparados de continuación y los alimentos elaborados a base de cereales y alimentos infantiles). | SO2 | 50 |
 | Envolturas a base de colágeno con una actividad acuosa de más del 0,6 | Sa | Quantum satis |
@@ -439,6 +476,8 @@ Notas:
 | Gelatina | SO2 | 50 |
 | Ensaladas preparadas | Sa + Ba | 1.500 |
 | Frutos secos transformados | E-310 a E-312 E-320 | 200 (galatos y BHA, separados ó en combinación) expresados sobre la grasa. |
+
+> Se modifica por el art. único y anexo II de la Orden SPI/681/2011, de 28 de marzo. Ref. BOE-A-2011-5716.
 
 > Se modifica por el art. único.3 y anexo III del Real Decreto 1118/2007, de 24 de agosto. Ref. BOE-A-2007-16339.
 

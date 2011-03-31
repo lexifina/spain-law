@@ -12,7 +12,7 @@ Nota: No se incluyen en esta lista:
 
 | Nº E | Denominaciones | Uso restringido |
 | --- | --- | --- |
-|  | Polietilenglicol 600 | Edulcorantes |
+| E-1521 | Polietilenglicol | Edulcorantes |
 | E-170 | Carbonatos cálcicos |  |
 | E-263 | Acetato cálcico |  |
 | E-322 | Lecitinas | En colorantes y antioxidantes liposolubles y agentes de recubrimiento para frutas |
@@ -111,6 +111,8 @@ Nota: No se incluyen en esta lista:
 | E-1505 | Citrato de trietilo |  |
 | E-1518 | Triacetato de glicerilo (triacetina) |  |
 | E-1520 | Propano-1-2-diol(propilenglicol) | Colorantes, emulgentes, antioxidantes y enzimas (máximo 1 g/Kg en el producto alimenticio) |
+
+> Se modifica por el art. único.1 y anexo IV de la Orden SPI/681/2011, de 28 de marzo. Ref. BOE-A-2011-5716
 
 > Se modifica por el art. único.3 y anexo V del Real Decreto 1118/2007, de 24 de agosto. Ref. BOE-A-2007-16339.
 

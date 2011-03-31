@@ -149,6 +149,10 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-968 | Eritritol | Para fines distintos de la edulcoración |
 | E-1204 | Pullulan |  |
 | E-1452 | Octenil succinato alumínico de almidón |  |
+| E-427 | Goma cassia |  |
+| E-961 | Neotamo | Para fines distintos de la edulcoración |
+| E-1203 | Alcohol polivinílico |  |
+| E-1521 | Polietilenglicol |  |
 | Productos alimenticios | Aditivo permitido | Dosis máxima |
 | --- | --- | --- |
 | ALIMENTOS EN GENERAL |  |  |
@@ -200,6 +204,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | 2.2 Alimentos que contienen aromas de humo liquido y aromas basados en oleorresinas de especias. | E-432 a E-436. | 1 g/kg. |
 | 2.3 Aromas encapsulados para: a) Tes aromatizados y bebidas en polvo instantáneas aromatizadas. b) Productos de aperitivo aromatizados | E-459 Betaciclodextrina. | 500 mg/l en productos alimenticios consumidos o reconstituidos con arreglo a las instrucciones del fabricante. 1 g/kg en productos alimenticios consumidos o reconstituidos con arreglo a las instrucciones del fabricante. |
 | 2.4 Aromas para: a) Licores, vinos aromatizados, bebidas aromatizadas a base de vino y cócteles aromatizados de productos vitivinícolas. b) Confitería, incluido el chocolate y bollería fina. | E-1519 Alcohol bencílico. | 100 mg/l procedentes de todas las fuentes en productos alimenticios consumidos o reconstituidos con arreglo a las instrucciones del fabricante. 250 mg/kg procedentes de todas las fuentes en productos alimenticios consumidos o reconstituidos con arreglo a las instrucciones del fabricante. |
+| 2.5 Aromas para bebidas no alcohólicas aromatizadas | E-901 | 0,2 g/kg en las bebidas aromatizadas |
 
 * Las oleorresinas de especias se definen como extractos de especias de los que se ha evaporado el disolvente de extracción, dejando una mezcla de aceite volátil y el material resinoso de la especia.
 
@@ -244,6 +249,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-445 (1) | 100 mg/l |
 |  | E-900 | 10 mg/l |
 |  | E-957 (2) | 0,5 mg/l |
+|  | E-961(4) | 2 mg/l (sólo como potenciador del sabor) |
 |  | E-999 (2) | 200 mg/l |
 | 1.1 Bebidas no alcohólicas a base de anís o de coco y almendras | E-473 y E-474 | 5 g/l Sólos o en combinación |
 | 1.2 Sustancias sólidas en polvo para la preparación casera de bebidas | E-355 a E-357 | 10 g/l Sólos o en combinación |
@@ -251,7 +257,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-473 (3) y E-474 (3) | 10 g/l Sólos o en combinación |
 |  | E-481 (3) y E-482 (3) | 2 g/l Sólos o encombinación |
 | 1.2.1 Sustancias sólidas en polvo para la preparación instantánea de bebidas a base de frutas. | E-297 | 1 g/l |
-| Notas: (1) Sólo para bebidas turbias. (2) Sólo para bebidas no alcohólicas aromatizadas a base de agua. (3) Sólo para la preparación de bebidas calientes. |
+| Notas: (1) Sólo para bebidas turbias. (2) Sólo para bebidas no alcohólicas aromatizadas a base de agua. (3) Sólo para la preparación de bebidas calientes. (4) Sólo para bebidas no alcohólicas aromatizadas a base de agua, de valor energético reducido o sin azúcares añadidos. |
 | 2. Té, infusiones de hierbas y otras bebidas calientes | E-297 | 1 g/Kg productos instantáneos para la preparación de té aromatizado e infusiones de hierbas |
 |  | E-338 a E-341 E-343 E-450 a E-452 | 2 g/l Sólos o en combinación |
 |  | E-473 y E-474 | 10 g/l Sólo para polvos para preparar bebidas calientes (Sólos o en combinación) |
@@ -265,7 +271,12 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-491 a E-495 | 5g/Kg Sólos o en combinación |
 | 4. Bebidas a base de leche | E-473 y E-474 | 5 g/l Sólos o en combinación |
 | 4.1 Bebidas lácteas de chocolate y malta | E-338 a E-341 E-343 E-450 a E-452 | 2 g/l Sólos o en combinación |
-| 4.2 Bebidas a base de leche destinadas a la venta al por menor | E-426 | 5 g/l |
+| Bebidas a base de leche destinadas a la venta al por menor | E-426 | 5 g/l |
+| 4.3 Bebidas para deportistas con proteínas de lactosuero | E-338 a E-341 | 4 g/kg |
+| E-343 |  |
+| E-450 a E-452 |  |
+| 4.4 Bebidas a base de leche y productos derivados, de valor energético reducido o sin azúcares añadidos | E-961 | 2 mg/l (sólo como potenciador del sabor) |
+| 5. Bebidas a base de zumos de frutas, de valor energético reducido o sin azúcares añadidos | E-961 | 2 mg/l (sólo como potenciador del sabor) |
 | CACAO Y CHOCOLATE |  |  |
 | Productos de cacao y chocolate (Real Decreto 822/1990 de 22 de junio. BOE de 28 de junio) | E-442 E-476 E-492 | 10 g/Kg 5 g/Kg 10 g/Kg |
 | Rellenos de y para productos de Cacao y chocolate | E-442 | 10 g/Kg |
@@ -285,6 +296,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-473 y E-474 | 2 g/l Sólos o en combinación |
 |  | E-900 | 10 mg/l |
 | Nota: (1) Sólo para sopas. |
+| Caldos y sopas deshidratados | E-427 | 2,5 g/kg |
 | CEREALES PARA DESAYUNO |  |  |
 | Cereales para desayuno | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
 |  | E-475(1) | 10g/Kg |
@@ -292,17 +304,21 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | Nota: (1) Sólo para cereales tipo granola. |
 | CERVEZAS |  |  |
 | Cervezas | E-405 | 100 mg/l |
-| COMPLEMENTOS ALIMENTICIOS |
-| Complementos alimenticios, tal y como se definen en el Real Decreto 1275/2003, de 10 de octubre, relativo a los complementos alimenticios | E-338 a E-341 E-343 | Quantum satis |
+| COMPLEMENTOS ALIMENTICIOS, TAL Y COMO SE DEFINEN EN EL REAL DECRETO 1275/2003, DE 10 DE OCTUBRE, RELATIVO A LOS COMPLEMENTOS ALIMENTICIOS |
+| Complementos alimenticios, tal y como se definen en el Real Decreto 1487/2009, de 26 de septiembre, relativo a los complementos alimenticios | E-338 a E-341 E-343 | Quantum satis |
 | E-405 | 1 g/kg |
 | E-416 | Quantum satis |
 | E-426(1) | 1,5 g/l |
 | E-432 a E-436 E-450 a E-452 | Quantum satis |
 | E-468(2) | 30 g/kg |
 | E-901 a E-904(3) | Quantum satis |
-| E-473 a E-475 E-491 a E-495 E-551 a E-556 E-559 E-1201(4) y E-1202(4) E-1204(5) | Quantum satis |
+| E-473 a E-475 E-491 a E-495 E-551 a E-556 E-559 E-1201(4)) y E-1202(4) E-1204(5) | Quantum satis |
 | E-1452(6) | 35 g/kg como complemento alimenticio |
-| Nota: (1) Sólo para complementos líquidos. (2) Sólo para complementos suministrados en forma sólida. (3) Sólo como agentes de recubrimiento. (4) Sólo para complementos en forma de tabletas y grageas. (5) Sólo para complementos en forma de cápsulas y tabletas. (6) Solo para preparados vitamínicos encapsulados en complementos. |
+| E-961(7) | 2 mg/kg (sólo como potenciador del sabor) |
+| E-1203(5) | 18 g/kg |
+| E-1505(5) | 3,5 g/kg |
+| E-1521(5) | 10 g/kg |
+| Nota: (1) Sólo para complementos líquidos. (2) Sólo para complementos suministrados en forma sólida. (3) Sólo como agentes de recubrimiento. (4) Sólo para complementos en forma de tabletas y grageas. (5) Sólo para complementos en forma de cápsulas y tabletas. (6) Sólo para preparados vitamínicos encapsulados en complementos. (7) Sólo para complementos suministrados en forma líquida, en forma sólida y los elaborados a base de vitaminas o elementos minerales en forma no masticable o de jarabe. |
 | Agentes de recubrimiento para complementos de la dieta | E-901 a E-902 | Quantum satis |
 | E-903 Cera Carnauba. | 200 mg/kg |
 | E-904 | Quantum satis |
@@ -327,7 +343,8 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-957(2) | 10 mg/Kg |
 |  | E-959(2) | 150 mg/Kg |
 |  | E-1518 | Quantum satis |
-| Notas: (1) Sólo para chicles sin azúcares añadidos. (2) Sólo para chicles con azúcares añadidos. Se aplicará la regla de la proporcionalidad. |
+|  | E-961(3) | 3 mg/kg (sólo como potenciador del sabor |
+| Notas: (1) Sólo para chicles sin azúcares añadidos. (2) Sólo para chicles con azúcares añadidos. Se aplicará la regla de la proporcionalidad. (3) Sólo para chicles con azúcares añadidos |
 | Agentes de recubrimiento para goma de mascar | E-901 a E-902 | Quantum Satis |
 | E-903 Cera Carnauba. | 1200 mg/kg |
 | E-904 | Quantum Satis |
@@ -343,6 +360,8 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 |  | E-473 y E-474 | 5 g/Kg Sólos o en combinación |
 |  | E-477 | 3 g/Kg |
 |  | E-491 a E-495 | 0,5 g/Kg Sólos o en combinación |
+| Helados, sorbetes y tartas heladas | E-427 | 2,5 g/kg |
+| Agentes de recubrimiento para sándwiches rellenos de helado envasados | E-901 | Quantum satis |
 | Nota: (1) Sólo para helados a base de agua. |
 | HUEVOS Y OVOPRODUCTOS |  |  |
 | 1. Huevo líquido (clara, yema o huevo completo) | E-338 a E-341 E-343 E-450 a E-452 | 10 g/Kg Sólos o en combinación |
@@ -361,6 +380,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | Natas pasterizadas, esterilizadas, UHT y Nata batida | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
 | Nata esterilizada y nata esterilizada con bajo contenido de materia grasa | E-473 y E-474 | 5 g/Kg Sólos o en combinación |
 | Mantequilla de nata agria | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
+| Productos lácteos fermentados, a excepción de los no aromatizados fermentados por la acción de organismos vivos | E-427 | 2,5 g/kg |
 | MASAS PARA REBOZAR |  |  |
 | Masas para rebozar | E-338 a E-341 E-343 E-450 a E-452 | 12g/Kg Sólos o en combinación |
 | E-900 | 10 mg/Kg |
@@ -390,6 +410,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-405 | 5 g/Kg |
 | E-416 | 5 g/Kg |
 | E-491(4) a E-495(4) | 5 g/Kg Sólos o en combinación |
+| E-427 | 2,5 g/Kg |
 | Notas: (4) Sólo para Coberturas. |  |  |
 | PASTELERÍA, REPOSTERÍA, GALLETERÍA |  |  |
 | 1. Pastelería, repostería y galletería | E-338 a E-341 E-343 E-450 a E-452 | 20 g/Kg Sólos o en combinación |
@@ -434,6 +455,8 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-957 | 5 mg/Kg (sólo como potenciador del sabor) |
 | Rellenos, coberturas y recubrimientos para postres | E-405 | 5 g/Kg |
 | Coberturas batidas para postres (distintas de la nata) | E-477 | 30 g/Kg |
+| Postres a base de leche y productos similares | E-427 | 2,5 g/kg |
+| Rellenos, coberturas y recubrimientos para postres | 2,5 g/kg |
 | PRODUCTOS ALIMENTICIOS DESTINADOS A UNA ALIMENTACIÓN ESPECIAL |
 | Alimentos dietéticos destinados a usos médicos especiales tal como se definen en el Real Decreto 1091/2000, de 9 de junio. | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Sólos o en combinación |
 | E-405 | 1,2 g/Kg |
@@ -451,11 +474,13 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-477 | 1 g/Kg |
 | E-481 y E-482 | 2 g/Kg Solos o en combinación |
 | E-491 a E-495 | 5 g/Kg Sólos o en combinación |
+| 1.2 Productos de aperitivo a base de almidón salados, secos y envasados de distintos sabores, listos para consumir, y frutos secos con cobertura | E-961 | 2 mg/kg (sólo como potenciador del sabor) |
 | PRODUCTOS DE APERITIVO |  |  |
 | 1. Productos de aperitivo | E-338 a E-341 E-343 E-450 a E-452 | 5 g/Kg Solos o en combinación |
 | 1.1 Productos de aperitivo a base de cereales y patata | E-405 | 3 g/Kg |
 | E-416 | 5 g/Kg |
 | E-461(1) y E-482(1) | 5 g/Kg Sólos o en combinación |
+| 1.2 Productos de aperitivo a base de almidón salados, secos y envasados de distintos sabores, listos para consumir, y frutos secos con cobertura | E-961 | 2 mg/kg (sólo como potenciador del sabor) |
 | Nota: (1) 2 g/Kg para Productos de aperitivo sólo a base de cereales. |  |  |
 | 2. Agentes de recubrimiento para productos de aperitivo (incluidos los frutos secos) | E-416(2) | 10 g/Kg |
 | E-901 a E-902 | Quantum Satis |
@@ -470,6 +495,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | Notas : (1) Sólo para los tratados por el calor. (2) Sólo para los productos enlatados a base de carne picada y troceada. |  |  |
 | Tratamiento de superficie de embutidos | E-553b | Quantum Satis |
 | Agentes de recubrimiento para productos cárnicos | E-338 a E-341 E-343 E-450 a E-452 | 4 g/Kg Sólos o en combinación |
+| Productos cárnicos sometidos a tratamiento térmico | E-427 | 1,5 g/kg |
 | PRODUCTOS DE CONFITERÍA |  |  |
 | 1. Confitería | E-900 | 10 mg/Kg |
 | 1.1 Confitería a base de azúcar | E-297 | 1 g/Kg |
@@ -491,6 +517,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-905 | Quantum Satis |
 | Agente de recubrimiento para confitería a base de azúcar. | E-907 Poli-1-deceno hidrogenado. | 2 g /kg. |
 | 3. Productos de confitería a base de gelatina, excepto las minicápsulas de gelatina | E-426 | 10 g/kg |
+| 5. Productos de confitería a base de almidón, de valor energético reducido o sin azúcares añadidos | E-961 | 3 mg/kg (sólo como potenciador del sabor) |
 | PRODUCTOS DE LA PESCA |  |  |
 | 1. Pescados congelados y ultracongelados sin elaborar | E-338(1) a E-341(1) E-343(1) E-450(1) a E-452(1) | 5 g/Kg Sólos o en combinación |
 | E-420 y E-421 | Quantum Satis |
@@ -510,11 +537,11 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | 5. Conservas a base de crustáceos | E-338 a E-341 E-343 E-450 a E-452 | 1 g/Kg Sólos o en combinación |
 | E-385 | 75 mg/kg |
 | PRODUCTOS VEGETALES |  |  |
-| Confituras, jaleas, mermeladas y marmalades según lo dispuesto en el Real Decreto 670/1990 y preparados de fruta similares para extender, Incluidos los productos bajos en calorías | E-900 | 10 mg/kg |
+| Confituras, jaleas, mermeladas y marmalades según lo dispuesto en el Real Decreto 670/1990 y Real Decreto 863/2003 y preparados de fruta similares para extender, incluidos los productos bajos en calorías | E-900 | 10 mg/kg |
 | E-493(1) | 25 mg/Kg |
 | E-959(2) | 5 mg/Kg |
-|  |  |
-| Notas: (1) Sólo para Marmalade y jalea. (2) Para jaleas de frutas. |  |  |
+| E-961(3) | 2 mg/kg (sólo como potenciador del sabor) |
+| Notas: (1) Sólo para Marmalade y jalea. (2) Para jaleas de frutas. (3) Sólo para compotas, jaleas y mermeladas de valor energético reducido |  |  |
 | Frutas, legumbres, hortalizas, setas y alcachofas envasadas | E-385(3) | 250 mg/Kg |
 | E-900 | 10 mg/Kg |
 | E-512(4) | 25 mg/Kg |
@@ -543,6 +570,7 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | Queso no madurado (excepto Mozarella) | E-338 a E-341 E-343 E-450 a E-452 | 2 g/Kg Sólos o en combinación |
 | Queso fundido | E-338 a E-341 E-343 E-450 a E-452 | 20 g/Kg Sólos o en combinación |
 | E-551(1) a E-559(1) | 10 g/Kg Sólos o en combinación |
+| E-427 | 2,5 g/kg |
 | Notas: (1) Sólo para queso en lonchas o rallado. |  |  |
 | Queso duro o semiduro en lonchas o rallado | E-551 a E-559 | 10 g/Kg Sólos o en combinación |
 | SAL Y SUSTITUTOS DE LA SAL |  |  |
@@ -554,12 +582,14 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | E-405 | 8 g/Kg |
 | E-473 y E-474 | 10 g/l Sólos o en combinación |
 | E-475(1) | 4 g/l |
+| E-961 | 2 mg/kg (sólo como potenciador del sabor) |
 | Nota: (1) Sólo para salsas de bajo y muy bajo contenido en grasa. |  |  |
 | 1.1 Salsas emulsionadas | E-385 | 75 mg/Kg |
 | E-416 | 10 g/Kg |
 | E-432 a E-436 | 5 g/Kg Sólos o en combinación |
 | E-491 a E-495 | 5 g/Kg Sólos o en combinación |
 | E-426 | 30 g/l |
+| 1.2 Salsas y aliños para ensalada | E-427 | 2,5 g/kg |
 | SUCEDÁNEOS |  |  |
 | Sucedáneos de grasas vegetales | E-338 a E-341 E-343 E-450 a E-452 | 5 g/ Kg Sólos o en combinación |
 | Sucedáneos de queso fundido | E-338 a E-341 E-343 E-450 a E-452 | 20 g/Kg Sólos o en combinación |
@@ -588,7 +618,10 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | Aerosoles de emulsiones acuosas | E-944 | Quantum Satis |
 | Coberturas (jarabes para tortitas, Jarabes aromatizados para batidos y helados; Productos similares) | E-338 a E-341 E-343 E-450 a E-452 | 3 g/Kg Sólos o en combinación |
 | Proteínas vegetales | E-959 | 5 mg/Kg |
-| Micropastillas para refrescar el aliento en forma de láminas | E-1204 | Quantum Satis |
+| Micropastillas para refrescar el aliento | E-1204(2) | Quantum Satis |
+|  | E-961(3) | 3 mg/kg (sólo como potenciador del sabor) |
+| (2)Sólo para micropastillas en forma de láminas (3)Sólo para micropastillas sin azúcares añadidos |
+| Pastillas refrescantes muy aromatizadas para la garganta, sin azúcares añadidos | E-961 | 3 mg/kg (sólo como potenciador del sabor) |
 | ALIMENTOS CON DENOMINACIÓN NO ESPAÑOLA |  |  |
 | Soda bread | E-338 a E-341 E-343 E-450 a E-452 | 20 g/Kg Sólos o en combinación |
 | Noodles (Fideos orientales) | E-338 a E-341 E-343 | 2 g/kg (sólos o en combinación) |
@@ -597,6 +630,8 @@ Las dosis máximas de uso indicadas se refieren a los productos alimenticios lis
 | Sod... Saft | E-900 | 10 mg/l |
 | Made wine | E-353 | 100 mg/l |
 | Libamáj, egészben és tömbben | E-385 | 250 mg/kg |
+
+> Se modifica por el art. único.3 y anexo III de la Orden SPI/681/2011, de 28 de marzo. Ref. BOE-A-2011-5716
 
 > Se modifica por el art. único.3 y anexo IV del Real Decreto 1118/2007, de 24 de agosto. Ref. BOE-A-2007-16339.
 
