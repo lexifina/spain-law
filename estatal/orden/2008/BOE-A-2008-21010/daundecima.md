@@ -5,3 +5,5 @@
 A estos efectos, la Dirección General de Política Energética y Minas determinará las plantas que corresponden a cada gasoducto de transporte, a partir de la información sobre la ubicación geográfica y modo de conexión con la red de transporte que facilitarán las empresas distribuidoras en el plazo de 2 meses.
 
 2. El precio de cesión a considerar como coste liquidable de las empresas distribuidoras que suministren aire propanado será de 0,023326 €/kWh.
+
+> Se declara la nulidad del inciso destacado por Sentencia del TS de 8 de marzo de 2011. Ref. BOE-A-2011-5767.
