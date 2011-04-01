@@ -18,6 +18,7 @@
 | Hibridación |  |
 | Potencia nominal total de la instalación (KW) |  |
 | Potencia neta total de la instalación (KW) resultante de la prueba de potencia |  |
+| Potencia pico total de la instalación (KWp) (3) |  |
 | Datos de la fase o ampliación: |  |
 | Nombre de la fase |  |
 | Identificador CIL |  |
@@ -26,6 +27,8 @@
 | RD en el que se inscribe |  |
 | Grupo al que pertenece (artículo 2) |  |
 | Tipo de Tecnología (1) |  |
+| Potencia pico de fase (KWp) (3) |  |
+| Tecnología de seguimiento (4) |  |
 | Hidráulica |  |
 | Río |  |
 | Salto (altura en m) |  |
@@ -52,5 +55,11 @@
 (1) Tipo de tecnología: Cogeneración, fotovoltaica, solar termoeléctrica, eólica, hidráulica, térmica, residuos, tratamiento de residuos.
 
 (2) Combustible principal: Gas natural, gasóleo, fuel, propano, carbón, calor residual, GLP, Biocombustibles líquidos, estiércoles, RSU, residuos industriales, gas residual, cultivos energéticos agrícolas o forestales, residuos actividad agrícolas o jardinería, residuo aprovechamiento forestal o silvícola, biogás de vertedero, biogás de digestión, biomasa industrial agrícola, biomasa industrial forestal, licores negros.
+
+(3) Potencia pico: Suma de las potencias unitarias de los paneles fotovoltaicos.
+
+(4) Tecnología de seguimiento: Fija, seguimiento a un eje, seguimiento a dos ejes.
+
+> Se modifica por la disposición final 2 de la Orden ITC/688/2011, de 30 de marzo. Ref. BOE-A-2011-5757.
 
 > Se modifica por el art. 1.19 del Real Decreto 1565/2010, de 19 de noviembre. Ref. BOE-A-2010-17976.
