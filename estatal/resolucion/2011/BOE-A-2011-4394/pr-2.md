@@ -1,0 +1,7 @@
+## Primero. Objeto de la resolución y alcance del servicio de apoyo a la cotización.
+
+1. Esta resolución tiene por objeto establecer los términos y condiciones para la prestación de un servicio de asistencia técnica y asesoramiento en materia de cotización, bajo la denominación de servicio de apoyo a la cotización (SAC), de acuerdo y en cumplimiento de las previsiones de la disposición adicional cuarta de la Orden TAS/1562/2005, de 25 de mayo, por la que se establecen normas para la aplicación y desarrollo del Reglamento general de recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio.
+
+2. A través de dicho servicio, la Tesorería General de la Seguridad Social facilitará a los empresarios que reúnan las condiciones establecidas en el apartado segundo el cumplimiento de sus obligaciones de cotización a la Seguridad Social, mediante la elaboración y puesta a disposición, con carácter mensual, del documento electrónico de pago para la liquidación e ingreso de cuotas a la Seguridad Social.
+
+Los documentos electrónicos de pago se expedirán por la Tesorería General de la Seguridad Social de acuerdo con la información proporcionada por el empresario, sin que ello impida el ejercicio de las funciones de gestión liquidatoria atribuidas a dicha Tesorería General por el Reglamento general sobre cotización y liquidación de otros derechos de la Seguridad Social, aprobado por el Real Decreto 2064/1995, de 22 de diciembre.
