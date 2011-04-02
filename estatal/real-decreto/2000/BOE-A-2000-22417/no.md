@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 306, de 22 de diciembre de 2000. Ref. BOE-A-2000-23506
+Norma derogada por la disposición derogatoria única del Real Decreto 353/2011, de 11 de marzo. Ref. BOE-A-2011-5836.
