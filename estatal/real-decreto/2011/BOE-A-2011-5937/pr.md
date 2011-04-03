@@ -1,0 +1,19 @@
+La Directiva 2009/28/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, relativa al fomento del uso de energía procedente de fuentes renovables y por la que se modifican y se derogan las Directivas 2001/77/CE y 2003/30/CE, establece que cada Estado miembro velará porque la cuota de energía procedente de fuentes renovables en todos los tipos de transporte en 2020 sea como mínimo equivalente al 10 % de su consumo final de energía en el transporte.
+
+La disposición adicional decimosexta de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, establece objetivos anuales de biocarburantes y otros combustibles renovables con fines de transporte hasta el año 2010 y habilita al Gobierno a modificar estos objetivos establecidos, así como a establecer objetivos adicionales.
+
+El Real Decreto 1738/2010, de 23 de diciembre, por el que fijan objetivos obligatorios de biocarburantes para los años 2011, 2012 y 2013, establece objetivos anuales de consumo y venta de biocarburantes tanto globales, como por producto en dicho periodo.
+
+En el Consejo de Ministros del 4 de marzo 2011 se estableció, como parte del Plan de medidas urgentes de ahorro y eficiencia energética, la necesidad de incrementar la obligación de introducir biodiesel en carburantes hasta el 7% en contenido energético para los años 2011, 2012 y 2013.
+
+Dadas las circunstancias actuales, con objeto de reducir el consumo de combustibles fósiles en el sector del transporte, contribuir a diversificar las fuentes de energía primaria, incrementar la seguridad de abastecimiento energético, acrecentar la independencia energética y reducir el coste de las importaciones de petróleo, se considera conveniente, establecer nuevos objetivos más ambiciosos de venta y consumo de biocarburantes. Esta medida permitirá contribuir, además, al desarrollo de los biocarburantes como elemento sustancial de las políticas de protección del medio ambiente y de reducción de las emisiones de gases de efecto invernadero, así como al cumplimento de los objetivos obligatorios de uso de energía de fuentes renovables fijados en la normativa comunitaria.
+
+Por ello, los objetivos establecidos en el Real Decreto 1738/2010, de 23 de diciembre, de biocarburantes en diesel se elevan del 3,9%, 4,1% y 4,1% en 2011, 2012 y 2013 respectivamente, hasta el 7,0% y los objetivos globales de biocarburantes, se elevan del 5,9%, 6,0% y 6,1% hasta el 6,4%, 6,5% y 6,5%, en los mismos años.
+
+Teniendo en cuenta la fecha de entrada en vigor del presente real decreto y el tiempo necesario para consumir el producto actualmente en el sistema, el objetivo global para 2011 se establece en el 6,2% y el objetivo de biocarburantes en diesel en el 6,0%.
+
+De conformidad con lo dispuesto en la disposición adicional undécima, apartado tercero, 1, función segunda de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, la Comisión Nacional de Energía ha emitido el correspondiente informe. Asimismo, el trámite de audiencia a los interesados se ha efectuado a través del Consejo Consultivo de Hidrocarburos, cuyas observaciones y comentarios, se han tomado en consideración para la elaboración del mencionado informe de la Comisión Nacional de Energía. Finalmente, la presente norma ha sido objeto de informe por la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+El artículo 149.1.25.ª de la Constitución atribuye al Estado competencia exclusiva sobre las bases del régimen energético. Este real decreto se ampara en dicho título competencial, así como en la citada disposición adicional decimosexta de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos.
+
+En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 1 de abril de 2011, dispongo:
