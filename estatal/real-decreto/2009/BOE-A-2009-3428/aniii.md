@@ -117,15 +117,19 @@ Repercusión previsible y método(s) de evaluación:
 
 III. PRESUPUESTO
 
-– PRESUPUESTO RECAPITULATIVO: €
+– PRESUPUESTO RECAPITULATIVO:
 
-| Actuación | Ejercicio I | Ejercicio II | Ejercicio III | Total |
-| --- | --- | --- | --- | --- |
-| 1. |  |  |  |  |
-| 2. |  |  |  |  |
-| 3. |  |  |  |  |
-|  |  |  |  |  |
-| TOTAL |  |  |  |  |
+| Acción | Actividades | Ejercicio I Anualidad I | Ejercicio II Anualidad II | Ejercicio III Anualidad III | Total |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 1.1 |  |  |  |  |
+|  | 1.2 |  |  |  |  |
+|  | 1.3 |  |  |  |  |
+| 2 | 2.1 |  |  |  |  |
+|  | 2.2 |  |  |  |  |
+|  | 2.3 |  |  |  |  |
+| Garantías |  |  |  |  |  |
+| Costes indirectos |  |  |  |  |  |
+| Total» |  |  |  |  |  |
 
 – Plan de FINANCIACIÓN: €
 
@@ -133,3 +137,7 @@ III. PRESUPUESTO
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | UE PROPONENTE |  | 50 50 |  | 50 50 |  | 50 50 |  | 50 50 |
 | TOTAL |  | 100 |  | 100 |  | 100 |  | 100 |
+
+> Se modifica el apartado III por el art. 1.15 del Real Decreto 461/2011, de 1 de abril. Ref. BOE-A-2011-5939.
+
+> Téngase en cuenta para su aplicación el párrafo segundo de la disposición final única.

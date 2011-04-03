@@ -150,11 +150,15 @@ Resto Comunidad: 40 hl/ha.
 
 Comunidad Autónoma del País Vasco
 
-Álava: 45 hl/ha.
+Zonas de producción de la Denominación de Origen:
 
-Guipúzcoa: 78 hl/ha.
+Rioja: 45 hl/ha.
 
-Vizcaya: 71 hl/ha.
+Txakolí de Álava: 70hl/ha.
+
+Txacolí de Bizkaia: 71 hl/ha.
+
+Txacolí de Getaria: 78 hl/ha.
 
 Comunidad Valenciana
 
@@ -163,3 +167,5 @@ Alicante: 21 hl/ha.
 Castellón: 20 hl/ha.
 
 Valencia: 36 hl/ha.
+
+> Se modifica en lo que se refiere a la "Comunidad Autónoma del País Vasco" por el art. 3.7 del Real Decreto 461/2011, de 1 de abril. Ref. BOE-A-2011-5939.

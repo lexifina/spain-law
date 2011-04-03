@@ -1,22 +1,7 @@
 ## ANEXO V
 
-## Lista provisional de programas de promoción del vino en países terceros seleccionados por la comunidad autónoma
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/79/05939_001.png)
 
-Comunidad Autónoma:
+> Se modifica por el art. 1.16 del Real Decreto 461/2011, de 1 de abril. Ref. BOE-A-2011-5939.
 
-Total programas presentados:
-
-Total presupuesto programas presentados:
-
-Total programas seleccionados:
-
-Total presupuesto programas seleccionados:
-
-Puntuación programas seleccionados:
-
-| Nº programa | Presupuesto | Subtotal 1 | Subtotal 2 | Subtotal 3 | Subtotal 4 | Subtotal 5 | Total puntos |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| a) | b) | a) | b) | c) | d) | e) | a) | b) | c) | a) | b) | c) |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Total programas | Total presupuesto |  |
+> Téngase en cuenta para su aplicación el párrafo segundo de la disposición final única.
