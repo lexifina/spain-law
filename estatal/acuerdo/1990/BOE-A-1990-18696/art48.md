@@ -1,3 +1,5 @@
 ## Art. 48.
 
-Por razones de necesidad o urgencia, podrá nombrarse funcionarios interinos, para ocupar cualquier plaza de plantilla del Tribunal Constitucional, en tanto no se provea la misma por funcionarios de carrera al servicio del Tribunal.
+(Derogado)
+
+> Se deroga por el art. único.21 del Acuerdo de 1 de abril de 2011. Ref. BOE-A-2011-6009.

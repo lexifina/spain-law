@@ -50,6 +50,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 28](art28.md)
 - [Art 29](art29.md)
 - [Archivo Judicial y Registro General](archivojudicialyregistrogeneral.md)
+- [Registro General y Archivo General](registrogeneralyarchivogeneral.md)
 - [Art 30](art30.md)
 - [Art 31](art31.md)
 - [Art 32](art32.md)

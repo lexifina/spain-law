@@ -1,3 +1,5 @@
 ## Art. 56.
 
-El nombramiento de los Letrados y del Gerente corresponde al Tribunal Constitucional. El de los funcionarios de carreta adscritos a éste compete al Ministerio de Justicia o al Departamento del que dependan los Cuerpos o Escalas a que pertenezcan.
+El nombramiento de los letrados, del Gerente y de los funcionarios adscritos corresponde al Presidente del Tribunal Constitucional.
+
+> Se modifica por el art. único.27 del Acuerdo de 1 de abril de 2011. Ref. BOE-A-2011-6009.

@@ -8,7 +8,9 @@ Las retribuciones de los funcionarios a los que se refiere este título se orden
 
 3. El Pleno establecerá los complementos específicos que correspondan a los puestos de trabajo determinados en la relación de puestos de trabajo, en atención a las condiciones particulares concurrentes en los mismos.
 
-4. El Pleno podrá establecer, en atención a la Administración de procedencia de los funcionarios, y en virtud de las equiparaciones que a tal efecto se determinen, los pertinentes complementos de adecuación.
+4. El Pleno podrá establecer, atendiendo a la Administración de procedencia de los funcionarios, los pertinentes complementos de adecuación.
+
+> Se modifica el apartado 4 por el art. único.40 del Acuerdo de 1 de abril de 2011. Ref. BOE-A-2011-6009.
 
 > Se modifica por el art. 1.26 del Acuerdo de 19 de diciembre de 2002. Ref. BOE-A-2002-25041.
 

@@ -6,10 +6,10 @@
 
 El transcurso de dos años desde la toma de posesión será también condición necesaria para que los funcionarios adscritos puedan, de conformidad con la normativa que resulte aplicable, concursar a otra plaza de las reservadas a su Cuerpo.
 
-3. El Presidente del Tribunal, a propuesta de la Junta de Gobierno, podrá acordar el cese en la adscripción, con reincorporación del funcionario a la plaza que tuviese reservada, en cualquiera de los siguientes supuestos:
+3. Sin perjuicio de lo dispuesto en el artículo 14 c) de este Reglamento, el Presidente del Tribunal, a propuesta de la Junta de Gobierno, podrá acordar el cese en la adscripción, con reincorporación del funcionario a la Administración de procedencia, en cualquiera de los siguientes supuestos:
 
-a) Cuando, de conformidad con lo previsto en el artículo 55.2 de este Reglamento, no proceda declarar la adscripción indefinida del funcionario al servicio del Tribunal Constitucional.
+a) Cuando el puesto de trabajo específico que ocupare el funcionario desapareciera de la plantilla del Tribunal y no procediera la continuación de la adscripción en puesto de carácter análogo.
 
-b) Cuando el puesto de trabajo específico que ocupare el funcionario desapareciera de la plantilla del Tribunal y no procediera la continuación de la adscripción en puesto de carácter análogo. En este supuesto, el cese en la adscripción será efectivo cuando transcurra un mes desde su comunicación al funcionario.
+b) Cuando el funcionario adscrito hubiere incurrido en responsabilidad disciplinaria, por falta grave o muy grave, de conformidad con lo dispuesto en el artículo 97 de este Reglamento.
 
-c) Cuando el funcionario adscrito hubiere incurrido en responsabilidad disciplinaria, por falta grave o muy grave, de conformidad con lo dispuesto en el artículo 97 de este Reglamento.
+> Se modifica el apartado 3 por el art. único.38 del Acuerdo de 1 de abril de 2011. Ref. BOE-A-2011-6009.

@@ -1,11 +1,5 @@
 ## Art. 49.
 
-Podrá contratarse personal en régimen laboral para aquellos puestos no reservados a funcionarios de carrera en la relación de puestos de trabajo, siempre que se refieran a alguna de las siguientes funciones:
+Podrá contratarse personal en régimen laboral para el desempeño de puestos que no impliquen participación directa ni indirecta en el ejercicio de las atribuciones del Tribunal y cuyas funciones sean propias de oficios, auxiliares de carácter instrumental o de apoyo administrativo. Además de por lo dispuesto en la Ley Orgánica del Tribunal Constitucional, en el presente Reglamento y en las demás normas y resoluciones del propio Tribunal, este personal se regirá por la legislación laboral y, en lo que proceda, por lo dispuesto en las normas convencionales aplicables.
 
-a) Actividades de naturaleza no permanente, o que se dirijan a satisfacer necesidades de carácter periódico o discontinuo.
-
-b) Actividades propias de oficios, así como las de custodia, porteo y otras análogas.
-
-c) Actividades correspondientes a las áreas de mantenimiento y conservación de edificios, equipos e instalaciones y comunicación social.
-
-d) Actividades que requieran conocimientos técnicos especializados, cuando no existan Cuerpos o Escalas de funcionarios cuyos miembros tengan la preparación específica necesaria para su desempeño o resulte inviable la adscripción de tales funcionarios al Tribunal Constitucional.
+> Se modifica por el art. único.22 del Acuerdo de 1 de abril de 2011. Ref. BOE-A-2011-6009.

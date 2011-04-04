@@ -1,9 +1,7 @@
 ## Art. 92.
 
-1. Convocado un concurso de méritos de coformidad con lo dispuesto en el artículo 55 de este Reglamento, las instancias presentadas se remitirán, informadas por el servicio de personal del Ministerio correspondiente, al Tribunal Constitucional.
+1. Los concursos de méritos serán resueltos por el Presidente del Tribunal a propuesta de la correspondiente comisión de valoración. En los procedimientos de libre designación, la propuesta de nombramiento corresponderá al Secretario general, previo informe, en su caso, del jefe de la unidad o servicio correspondiente.
 
-2. La Junta de Gobierno del Tribunal, previo informe del Secretario general, valorará los méritos de los aspirantes y seleccionará aquellos que, a su juicio, deban ser nombrados para cubrir las vacantes.
+2. La adscripción al Tribunal se formalizará con la toma de posesión del funcionario nombrado ante el Secretario general.
 
-3. El Presidente del Tribunal Constitucional comunicará al Ministerio correspondiente la selección realizada.
-
-4. El nombramiento se llevará a cabo por el Ministerio correspondiente, perfeccionándose la adscripción por la toma de posesión del funcionario ante el Secretario general del Tribunal.
+> Se modifica por el art. único.37 del Acuerdo de 1 de abril de 2011. Ref. BOE-A-2011-6009.
