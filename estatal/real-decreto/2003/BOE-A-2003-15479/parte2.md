@@ -8,7 +8,7 @@ En el caso de los cítricos, el zumo de frutas procederá del endocarpio. No obs
 
 El agua añadida deberá presentar las características adecuadas, especialmente desde el punto de vista químico, microbiológico y organoléptico, con el fin de garantizar las propiedades esenciales del zumo.
 
-El producto así obtenido deberá presentar características organolépticas y analíticas por lo menos equivalentes a las del tipo medio de zumo obtenido, conforme a las disposiciones del apartado 1, de frutas de la misma especie.
+El producto así obtenido deberá presentar características organolépticas y analíticas por lo menos equivalentes a las del tipo medio de zumo obtenido, conforme a las disposiciones del apartado 1, de frutas de la misma especie. En la parte 8 se indican los niveles mínimos de grados Brix para los zumos de frutas elaborados a partir de concentrados.
 
 3. Zumo de frutas concentrado.–Se entiende por «zumo de frutas concentrado» el producto obtenido a partir de zumo de frutas de una o varias especies, por eliminación física de una parte determinada del agua. Cuando el producto esté destinado al consumo directo, dicha eliminación será de al menos un 50 por cien.
 
@@ -23,3 +23,5 @@ La adición de azúcares y/o miel se autoriza en una cantidad no superior al 20 
 En el caso de la elaboración de néctares de frutas sin azúcares añadidos o de valor energético reducido, los azúcares podrán sustituirse total o parcialmente por edulcorantes conforme al Real Decreto 2002/1995, de 7 de diciembre, por el que se aprueba la lista positiva de aditivos edulcorantes autorizados para su uso en la elaboración de productos alimenticios, así como sus condiciones de utilización.
 
 b) No obstante lo dispuesto en el párrafo a), las frutas que figuran en los apartados II y III de la parte 7, así como el albaricoque, pueden utilizarse, individualmente o mezclándolos entre sí, para la elaboración de néctares sin adición de azúcares, miel o edulcorantes.
+
+> Se modifica el párrafo tercero del apartado 2 por el art. único.1 del Real Decreto 462/2011, de 1 de abril. Ref. BOE-A-2011-6359.

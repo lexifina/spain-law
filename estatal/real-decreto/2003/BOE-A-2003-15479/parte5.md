@@ -14,8 +14,10 @@ La Norma general de etiquetado, presentación y publicidad de los productos alim
 
 Deberá indicarse en el etiquetado la incorporación al zumo de frutas de una cantidad añadida de pulpa o de celdillas.
 
-6. Sin perjuicio de lo dispuesto en los apartados 1 y 6 del artículo 8 de la Norma general de etiquetado, presentación y publicidad de los productos alimenticios, en el caso de mezclas de zumo de fruta y de zumo de fruta a base de concentrado, y en el caso de néctar de frutas obtenido total o parcialmente a partir de uno o más productos concentrados, el etiquetado deberá incluir la indicación elaborado a base de concentrado(s) o elaborado parcialmente a base de concentrado(s), según proceda. Esta indicación deberá figurar junto a la denominación de venta, en caracteres claramente visibles y que destaquen del fondo con nitidez.
+6. Sin perjuicio de lo dispuesto en los apartados 1 y 6 del artículo 8 de la Norma general de etiquetado, presentación y publicidad de los productos alimenticios, en el caso de mezclas de zumo de fruta y de zumo de fruta a base de concentrado, y en el caso de néctar de frutas obtenido total o parcialmente a partir de uno o más productos concentrados, el etiquetado deberá incluir la indicación a partir de concentrado(s) y parcialmente a partir de concentrado(s), respectivamente según proceda. Esta indicación deberá figurar junto a la denominación de venta, en caracteres claramente visibles y que destaquen del fondo con nitidez.
 
 7. En el caso del néctar de frutas, el etiquetado deberá incluir la indicación del contenido mínimo de zumo de frutas, de puré de frutas o de la mezcla de estos ingredientes, mediante los términos contenido de fruta: mínimo ...%. Esta mención deberá figurar en el mismo campo visual que la denominación de venta.
 
 8. En el etiquetado de los zumos de frutas concentrados no destinados al consumidor final, deberá mencionarse la presencia y la cantidad de azúcares añadidos o de zumo de limón o agentes acidificantes u otros ingredientes añadidos que permita el Real Decreto 142/2002. Esta indicación figurará en el envase, en una etiqueta unida al envase o en un documento que lo acompañe.
+
+> Se modifica el apartado 6 por el art. único.2 del Real Decreto 462/2011, de 1 de abril. Ref. BOE-A-2011-6359.
