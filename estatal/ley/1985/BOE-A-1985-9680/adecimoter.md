@@ -1,14 +1,16 @@
 ## Artículo décimo ter.
 
-1. Los grupos consolidables de entidades de crédito y las entidades de crédito no integradas en uno de estos grupos consolidables harán pública, tan pronto como sea viable, al menos con periodicidad anual y debidamente integrada en un solo documento denominado «información con relevancia prudencial», información concreta sobre aquellos datos de su situación financiera y actividad en los que el mercado y otras partes interesadas puedan tener interés con el fin de evaluar los riesgos a los que se enfrentan, su estrategia de mercado, su control de riesgos, su organización interna y su situación al objeto de dar cumplimiento a las exigencias mínimas de recursos propios previstas en esta Ley.
+1. Los grupos consolidables de entidades de crédito y las entidades de crédito no integradas en uno de estos grupos consolidables harán pública, tan pronto como sea viable, al menos con periodicidad anual y debidamente integrada en un solo documento denominado Información con relevancia prudencial, información concreta sobre aquellos datos de su situación financiera y actividad en los que el mercado y otras partes interesadas puedan tener interés con el fin de evaluar los riesgos a los que se enfrentan, su estrategia de mercado, su control de riesgos, su organización interna y su situación al objeto de dar cumplimiento a las exigencias mínimas de recursos propios previstas en esta Ley.
 
 También se publicará la siguiente información relativa a las prácticas y políticas de remuneración de las entidades de crédito para aquellas categorías de empleados cuyas actividades profesionales puedan tener impacto en sus perfiles de riesgo:
 
 a) Información sobre el proceso de decisión utilizado para determinar la política de remuneración.
 
-b) Información sobre las características fundamentales del sistema de remuneración, en especial los que tengan carácter variable o prevean la entrega de acciones o derechos sobre ellas; e
+b) Información sobre las características fundamentales del sistema de remuneración, en especial en relación con los componentes que tengan carácter variable o prevean la entrega de acciones o derechos sobre ellas;
 
-c) Información respecto a la relación entre remuneración, funciones desempeñadas, su desempeño y los riesgos de la entidad.
+c) Información respecto a la relación entre remuneración, funciones desarrolladas, su efectivo desempeño y los riesgos de la entidad;
+
+d) Información cuantitativa agregada sobre las remuneraciones, desglosada por ámbito de actividad;
 
 El Banco de España determinará la información mínima que deberá ser objeto de publicación con arreglo a los párrafos anteriores. En todo caso, las entidades podrán omitir las informaciones que no tengan importancia relativa y, con la oportuna advertencia, los datos que consideren reservados o confidenciales; también podrán determinar el medio, lugar y modo de divulgación del citado documento.
 
@@ -27,6 +29,8 @@ a) La verificación por auditores o expertos independientes, o por otros medios 
 b) Que divulguen una o varias de dichas informaciones, bien de manera independiente en cualquier momento, bien con frecuencia superior a la anual, y a que establezcan plazos máximos para la divulgación,
 
 c) Que empleen para la divulgación medios y lugares distintos de los estados financieros.
+
+> Se modifica el apartado 1 por el art. 1.8 de la Ley 6/2011, de 11 de abril. Ref. BOE-A-2011-6548.
 
 > Se modifica el apartado 1 por la disposición final 9ª.2 de la Ley 2/2011, de 4 de marzo.Ref. BOE-A-2011-4117.
 

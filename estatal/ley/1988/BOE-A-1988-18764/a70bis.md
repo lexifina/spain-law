@@ -6,15 +6,21 @@ La Comisión Nacional del Mercado de Valores determinará la información mínim
 
 También se publicará la siguiente información relativa a las prácticas y políticas de remuneración de los grupos consolidables de empresas de servicios de inversión, así como de las empresas de servicios de inversión no integradas en uno de estos grupos consolidables, para aquellas categorías de empleados cuyas actividades profesionales puedan tener impacto en sus perfiles de riesgo:
 
-a) Información sobre el proceso de decisión utilizado para determinar la política de remuneración.
+a) Información sobre el proceso de decisión utilizado para determinar la política de remuneración;
 
-b) Información sobre las características fundamentales del sistema de remuneración, en especial los que tengan carácter variable o prevean la entrega de acciones o derechos sobre ellas.
+b) Información sobre las características fundamentales del sistema de remuneración, en especial en relación con los componentes que tengan carácter variable o prevean la entrega de acciones o derechos sobre ellas;
 
-c) Información de la relación entre remuneración, funciones desempeñadas, su desempeño y los riesgos de la entidad.
+c) Información de la relación entre remuneración, funciones desarrolladas, su efectivo desempeño y los riesgos de la entidad;
+
+d) Información cuantitativa agregada sobre las remuneraciones, desglosada por ámbito de actividad.
 
 A esos mismos efectos, los grupos y entidades adoptarán una política formal para el cumplimiento de dichos requisitos de divulgación y para la verificación de la suficiencia y exactitud de los datos divulgados y de la frecuencia de su divulgación, y dispondrán de procedimientos que les permitan evaluar la adecuación de dicha política.
 
-La Comisión Nacional del Mercado de Valores podrá requerir a los grupos y entidades a los que se refiere este apartado que limiten las remuneraciones variables cuando sean incoherentes con el mantenimiento de una base sólida de capital.
+La Comisión Nacional del Mercado de Valores, para dar cumplimiento a la normativa sobre políticas y prácticas de remuneración que reglamentariamente se establezca, podrá requerir a los grupos y entidades a los que se refiere este apartado que dispongan de políticas y prácticas remunerativas que sean compatibles con una gestión adecuada y eficaz del riesgo y la promuevan y que limiten las remuneraciones variables cuando sean incoherentes con el mantenimiento de una base sólida de capital.
+
+La Comisión Nacional del Mercado de Valores utilizará la información recopilada de conformidad con los criterios de divulgación establecidos en esta Ley para comparar las tendencias y prácticas en materia de remuneración. La Comisión Nacional del Mercado de Valores facilitará dicha información a la Autoridad Europea de Valores y Mercados.
+
+La Comisión Nacional del Mercado de Valores recopilará información sobre el número de personas, en cada empresa de servicios de inversión, con remuneraciones de al menos 1 millón de euros, incluido el ámbito de negocio implicado y los principales componentes del sueldo, los incentivos, las primas a largo plazo y la contribución a la pensión. Esta información se transmitirá a la Autoridad Europea de Valores y Mercados.
 
 2. Esas mismas obligaciones de divulgación serán exigibles, de forma individual o subconsolidada, a las empresas de servicios de inversión, españolas o constituidas en otro Estado miembro de la Unión Europea, que sean filiales de empresas de servicios de inversión españolas, en los casos que la Comisión Nacional del Mercado de Valores así lo considere en atención a su actividad o importancia relativa dentro del grupo. En el caso de que la filial esté constituida en otro Estado miembro de la Unión Europea, la Comisión Nacional del Mercado de Valores remitirá la correspondiente resolución a la entidad española dominante, que estará obligada a adoptar las medidas necesarias para darle cumplimiento efectivo.
 
@@ -31,6 +37,8 @@ b) que divulguen una o varias de dichas informaciones, bien de manera independie
 c) que empleen para la divulgación medios y lugares distintos de los estados financieros.
 
 6. Lo establecido en este artículo no será de aplicación a las empresas de servicios de inversión que únicamente estén autorizadas a prestar el servicio de asesoramiento en materia de inversión o a recibir y transmitir órdenes de inversores sin mantener fondos o valores mobiliarios que pertenezcan a clientes, y que por esta razón nunca puedan hallarse en situación deudora respecto de dichos clientes.
+
+> Se modifica el apartado 1 por el art. 2.2 de la Ley 6/2011, de 11 de abril. Ref. BOE-A-2011-6548.
 
 > Se modifican los apartados 1 y 3 por la disposición final 5.4 y 5 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
 

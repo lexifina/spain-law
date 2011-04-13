@@ -4,9 +4,9 @@
 
 a) Respecto de todas sus actividades con excepción de las de cartera de negociación, las exigencias de recursos propios determinadas con arreglo al método de cálculo establecido reglamentariamente para el riesgo de crédito y el riesgo de dilución;
 
-b) Respecto de sus actividades de cartera de negociación, las exigencias de recursos propios determinadas con arreglo al método de cálculo establecido reglamentariamente para el riesgo de posición, el riesgo de liquidación y el riesgo de contraparte y, en la medida en que se autorice, para los grandes riesgos que superen los límites establecidos reglamentariamente;
+b) Respecto de sus actividades de cartera de negociación, las exigencias de recursos propios determinadas con arreglo al método de cálculo establecido reglamentariamente para el riesgo de posición y el riesgo de contraparte y, en la medida en que se autorice, para los grandes riesgos que superen los límites establecidos reglamentariamente;
 
-c) Respecto de todas sus actividades, las exigencias de recursos propios determinadas con arreglo al método de cálculo establecido reglamentariamente para el riesgo de tipo de cambio y el riesgo sobre materias primas;
+c) Respecto de todas sus actividades, las exigencias de recursos propios determinadas con arreglo al método de cálculo establecido reglamentariamente para el riesgo de tipo de cambio, el riesgo de liquidación y el riesgo sobre materias primas;
 
 d) Respecto de todas sus actividades, las exigencias de recursos propios determinadas con arreglo al método de cálculo establecido reglamentariamente para el riesgo operacional.
 
@@ -22,9 +22,13 @@ b) La obligación de disponer de una cantidad mínima de activos líquidos que p
 
 c) Un límite máximo a la relación entre los recursos propios de la entidad y el valor total de sus exposiciones a los riesgos derivados de su actividad.
 
+d) Las condiciones en las que una entidad de crédito podrá exponerse al riesgo de una posición de titulización, o mantener dichas exposiciones, así como las condiciones que deberán aplicar las entidades de crédito originadoras o patrocinadoras a las exposiciones que vayan a titulizar. A estos efectos, una entidad de crédito que no sea originadora, patrocinadora o acreedora original se considerará expuesta al riesgo de crédito de una posición de titulización en su cartera de negociación o fuera de ella solamente si la entidad originadora, patrocinadora o acreedora original ha revelado de manera explícita a la entidad de crédito que se dispone a retener, de manera constante, un interés económico neto significativo que, en cualquier caso, no podrá ser inferior al 5 por ciento.
+
 Las obligaciones previstas en las letras b) y c) anteriores podrán ser más estrictas en función de la capacidad de cada entidad de crédito para obtener recursos propios básicos.
 
 4. Los grupos consolidables de entidades de crédito, así como las entidades de crédito no integradas en uno de estos grupos consolidables, dispondrán específicamente de estrategias y procedimientos sólidos, eficaces y exhaustivos a fin de evaluar y mantener de forma permanente los importes, los tipos y la distribución del capital interno que consideren adecuados para cubrir la naturaleza y el nivel de los riesgos a los cuales estén o puedan estar expuestos. Dichas estrategias y procedimientos serán periódicamente objeto de examen interno a fin de garantizar que sigan siendo exhaustivos y proporcionales a la índole, escala y complejidad de las actividades de la entidad de crédito interesada.
+
+> Se modifica el apartado 1 y se añade el 3 d) por el art. 1.1 y 2 de la Ley 6/2011, de 11 de abril. Ref. BOE-A-2011-6548.
 
 > Se modifica el apartado 3 por el art. 8 del Real Decreto-Ley 11/2010, de 9 de julio. Ref. BOE-A-2010-11086
 
