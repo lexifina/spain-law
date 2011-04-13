@@ -35,3 +35,7 @@ Las anteriores compensaciones se establecen sin perjuicio del derecho de indemni
 8. La competencia para el conocimiento de las acciones derivadas del contrato de distribución comercial de vehículos automóviles e industriales corresponderá al Juez del domicilio del distribuidor, siendo nulo cualquier pacto en sentido distinto.»
 
 Dos. La actual disposición adicional pasa a ser disposición adicional segunda.
+
+> Téngase en cuenta que queda suspendida la aplicación y efectos de esta disposición hasta la entrada en vigor de la Ley de contratos de distribución comercial, según establece la disposición final 4 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
+
+> Se suspende la aplicación y efectos hasta la entrada en vigor de la Ley de contratos de distribución comercial, por la disposición final 4 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
