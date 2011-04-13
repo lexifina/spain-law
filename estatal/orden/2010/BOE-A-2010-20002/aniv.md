@@ -8,7 +8,7 @@ Coeficientes de pérdidas para contratos de tarifas y de accesos de baja tensió
 | --- | --- |
 | Período 1 | Período 2 | Período 3 |
 | Tarifas y peajes sin discriminación horaria | 14 |  |  |
-| Tarifas y peajes con discriminación horaria de 2 periodos | 14,8 | 14,6 |  |
+| Tarifas y peajes con discriminación horaria de 2 periodos | 14,8 | 10,7 |  |
 | Tarifas y peajes con discriminación horaria de 3 periodos | 15,3 | 14,6 | 10,7 |
 
 Coeficientes de pérdidas para contratos de accesos de de alta tensión con discriminación horaria de 3 periodos (en % de la energía consumida en cada período)
@@ -37,3 +37,5 @@ Coeficientes de pérdidas para otros contratos de suministro o acceso (en % de l
 | AT (36 > kV ≥ 72,5) | 4,00 |
 | AT (72,5 > kV ≥ 145) | 3,00 |
 | MAT (145 > kV) | 1,62 |
+
+> Se corrigen errores por el apartado 11 de la Orden ITC/619/2011, de 18 de marzo. Ref. BOE-A-2011-5334.
