@@ -1046,5 +1046,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final vigésima primera](dfvigesimaprimera.md)
 - [Disposición final vigésima segunda](dfvigesimasegunda.md)
 - [Disposición final vigésima tercera](dfvigesimatercera.md)
+- [Disposición final vigésima cuarta](dfvigesimacuarta.md)
 - [Disposición final vigésimo quinta](dfvigesimoquinta.md)
+- [Disposición final vigésimo sexta](dfvigesimosexta.md)
 - [firma](firma.md)
