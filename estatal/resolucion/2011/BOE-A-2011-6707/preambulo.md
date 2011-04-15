@@ -1,0 +1,17 @@
+El desarrollo de la sociedad de la información obliga a las Administraciones públicas a incorporar a su funcionamiento las nuevas tecnologías, con la finalidad de aumentar el nivel de eficacia en la prestación de los servicios a los ciudadanos y ciudadanas.
+
+La Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en su artículo 45 insta a las Administraciones públicas a promover el uso y la aplicación de técnicas y medios electrónicos, informáticos y telemáticos en el desarrollo de su actividad y en el ejercicio de sus competencias.
+
+Esta tarea de promoción recibió un impulso legislativo con la reforma efectuada por la Ley 24/2001, de 27 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social, cuyo artículo 68 modificó el 38 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, para habilitar la creación de registros electrónicos que facilitaran e impulsaran las comunicaciones entre las Administraciones públicas y los ciudadanos, modificando también el artículo 59 de la misma ley, a fin de dar cobertura legal al régimen jurídico de las notificaciones practicadas por medios telemáticos.
+
+La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, vino a consagrar el derecho de los ciudadanos a comunicarse con las Administraciones por medios electrónicos, estableciendo la obligación de éstas de dotarse de los medios y sistemas electrónicos para que ese derecho pueda ejercerse y dedicando la sección 1.ª de su capítulo III del titulo segundo a los registros electrónicos y a los requisitos para su creación.
+
+Por último, el Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, regula aquellos aspectos relacionados con la transmisión de datos, sedes electrónicas y punto de acceso general, identificación y autenticación, registros electrónicos, comunicaciones y notificaciones y documentos electrónicos y copias, procediendo a derogar en su totalidad el Real Decreto 263/1996, de 16 de febrero, y, parcialmente, el Real Decreto 772/1999, de 7 de mayo, en concreto los artículos 14 al 18 dedicados a los registros electrónicos.
+
+En aplicación de esas previsiones legales, la presente resolución tiene por objeto la creación y regulación de un registro electrónico en la Mutualidad General Judicial, habilitado para la recepción y remisión de solicitudes, escritos y comunicaciones presentados electrónicamente, relacionados con determinados procedimientos que se especifican en el anexo I y cuya resolución es competencia de la Mutualidad. En todo caso, la presentación de estos documentos por vía electrónica se contempla en esta resolución como vía adicional y no obligatoria para el interesado.
+
+A fin de lograr la flexibilidad necesaria en un campo de continuo desarrollo, la resolución habilita al Gerente de la Mutualidad General Judicial para modificar el contenido de los anexos, con facultades, dentro de su ámbito de aplicación, para incluir o dar de baja procedimientos, trámites y comunicaciones con acceso al registro electrónico.
+
+Esta resolución ha sido informada por la Comisión Ministerial de Administración Electrónica del Ministerio de Justicia.
+
+En su virtud, previa aprobación, en su día, de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, dispongo:
