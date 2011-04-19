@@ -1,0 +1,3 @@
+## Disposición adicional primera. Concurrencia de procesos electorales y consultas populares.
+
+En el supuesto de que se celebren de manera concurrente procesos electorales o consultas populares cuya gestión competa a la Administración General del Estado y uno o varios procesos electorales o consultas populares cuya gestión corresponda a las Administraciones autonómicas, ambas administraciones públicas colaborarán para garantizar que las condiciones básicas para la participación de las personas con discapacidad en los procesos electorales y consultas populares se cumplan de manera homogénea, eficaz y eficiente.
