@@ -10,6 +10,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [co](co.md)
 - [preambulo](preambulo.md)
 - [Artículo único](aunico.md)
 - [Disposición transitoria primera](dtprimera.md)
@@ -161,3 +162,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 108](a108.md)
 - [TÍTULO VIII](tviii.md)
 - [Artículo 109](a109.md)
+- [TÍTULO IX](tix.md)
+- [Artículo 110](a110.md)
+- [Artículo 111](a111.md)
+- [Artículo 112](a112.md)
