@@ -1140,6 +1140,36 @@ Disposiciones específicas. Las autorizaciones se supeditarán a las condiciones
 
 3. Los productos deben contener ingredientes que disuadan de la ingestión.
 
+N.º 36. Metoflutrina (nombre común).
+
+Denominación UIQPA: Isómero RTZ: (1R,3R)-2,2-dimetil-3-(Z)-(prop-1-enil) ciclopropanocarboxilato de 2, 3, 5, 6-tetrafluoro-4-(metoximetil) bencilo.
+
+Suma de todos los isómeros: (EZ)-(1RS,3RS;1SR,3SR)-2,2-dimetil-3-prop-1-enilciclopropanocarboxilato de 2,3,5,6-tetrafluoro-4-(metoximetil)bencilo.
+
+Números de identificación:
+
+N.º CE: No aplicable.
+
+N.º CAS: Isómero RTZ: 240494-71-7 y suma de todos los isómeros: 240494-70-6.
+
+Pureza mínima de la sustancia activa en el producto biocida comercializado: La sustancia activa debe respetar las dos purezas mínimas siguientes:
+
+Isómero RTZ: 754 g/kg.
+
+Suma de todos los isómeros: 930 g/kg.
+
+Fecha de inclusión: 1 de mayo de 2011.
+
+Plazo para la aplicación de las condiciones de inclusión (excepto en el caso de los biocidas que contengan más de una sustancia activa, cuyo plazo será el último fijado en la última de las decisiones de inclusión relacionadas con las sustancias activas): No aplicable.
+
+Fecha de vencimiento de la inclusión: 30 de abril de 2021.
+
+Tipo de biocida: 18 (insecticida, acaricida, producto para controlar otros artrópodos).
+
+Disposiciones específicas: Al evaluar la solicitud de autorización de un producto, conforme el artículo 5 y el anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, los usos o los supuestos de exposición y los riesgos para los compartimentos y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a escala europea.
+
+> Se añade el apartado Nº 36 por el art. único y anexo de la Orden PRE/1069/2011, de 26 de abril. Ref. BOE-A-2011-7634.
+
 > Se añaden los apartados Nº 34 y 35 por el art. único y anexo de la Orden PRE/777/2011, de 4 de abril. Ref. BOE-A-2011-6177.
 
 > Se añaden los apartados Nº 26.bis y Nº 30 a 33 por el art. único y anexo de la Orden PRE/2439/2010, de 16 de septiembre. Ref. BOE-A-2010-14481.
