@@ -1,0 +1,3 @@
+## Disposición adicional primera. Información estadística sobre las entidades de la economía social.
+
+El Ministerio de Trabajo e Inmigración adoptará, en colaboración y coordinación con los departamentos ministeriales y las Administraciones que pudieran tener competencia en materia registral de las entidades de la economía social, y previo informe del Consejo para el Fomento de la Economía Social, las medidas necesarias para garantizar una información estadística de dichas entidades así como de sus organizaciones de representación, periódicamente actualizada y ajustada en su clasificación al catálogo previsto en el artículo 6 de esta Ley.

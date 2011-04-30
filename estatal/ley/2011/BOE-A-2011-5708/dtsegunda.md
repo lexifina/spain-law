@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Cooperativas de viviendas.
+
+Sin perjuicio de lo dispuesto en el artículo 89.4 de la Ley 27/1999, de 16 de julio, de Cooperativas, las cooperativas de viviendas podrán enajenar o arrendar a terceros no socios, las viviendas de su propiedad iniciadas con anterioridad a la entrada en vigor de la presente Ley. En este supuesto, la enajenación o arrendamiento de las viviendas y sus condiciones generales deberán haber sido acordadas previamente por la Asamblea General. Adicionalmente, estas operaciones con terceros no socios podrán alcanzar como límite máximo el 50 por ciento de las realizadas con los socios. La Asamblea General acordará también el destino del importe obtenido por la enajenación o arrendamiento.
