@@ -10,6 +10,8 @@
 
 5. A efectos de lo establecido en el artículo 101.2 de la presente Ley, las Juntas Electorales de Zona comunicarán a los Jueces correspondientes, antes del día de la votación, los datos de identificación de las personas que, en calidad de titulares y suplentes, formen las Mesas Electorales.
 
+> Véase, sobre interpretación del apartado 3, la Instrucción 6/2011, de 28 de abril, de la Junta Electoral Central. Ref. BOE-A-2011-7705
+
 > Se modifica el apartado 3 por el art. único.8 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.
 
 > Se modifican los apartados 2 y 3 y se renumeran los anteriores 3 y 4 como 4 y 5 por el art. único.9 y 10 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
