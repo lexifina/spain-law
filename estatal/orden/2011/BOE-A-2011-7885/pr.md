@@ -1,0 +1,7 @@
+La Orden de 18 de enero de 1996 de desarrollo del Real Decreto 63/1995, de 20 de enero, para la regulación de la prestación ortoprotésica, creó en el punto 2 del apartado octavo la Comisión Técnica Asesora sobre Prestación Ortoprotésica. La Orden de 30 de marzo de 2000 cambia la denominación de esta Comisión por la de Comité Asesor para la Prestación Ortoprotésica y vincula su actividad a la Comisión de Ordenación de Prestaciones del Consejo Interterritorial del Sistema Nacional de Salud (actual Comisión de Prestaciones, Aseguramiento y Financiación). Finalmente, la Orden de 19 de julio de 2001 actualiza la composición de dicho Comité.
+
+El tiempo transcurrido desde la publicación de la citada normativa y los cambios ocurridos tanto en la estructura del Ministerio de Sanidad, Política Social e Igualdad como en la regulación de la prestación ortoprotésica, hacen necesario actualizar su composición y funciones para adaptarlos a la normativa vigente y unificar en una sola norma la regulación del citado Comité Asesor.
+
+Esta norma fue informada por el Consejo Interterritorial del Sistema Nacional de Salud, en la sesión plenaria celebrada el 18 de octubre de 2010 y por el Comité Consultivo del Consejo Interterritorial del Sistema Nacional de Salud el 13 de octubre de 2010.
+
+En su virtud, y con la aprobación previa del Ministro de Política Territorial y Administración Pública, dispongo:
