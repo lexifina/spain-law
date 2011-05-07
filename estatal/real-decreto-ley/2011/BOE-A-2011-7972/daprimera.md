@@ -1,0 +1,7 @@
+## Disposición adicional primera. Incumplimiento del régimen jurídico de la regularización.
+
+1. Los empresarios que se hubieran acogido al proceso voluntario de regularización contenido en el capítulo I de este Real Decreto-ley sin reunir los requisitos establecidos al respecto o los que, aún reuniéndolos, hubieren procedido a la extinción del contrato de trabajo de los trabajadores afectados por la regularización antes de seis meses, cualquiera que fuera la modalidad de contratación utilizada, perderán automáticamente el derecho a acogerse a los beneficios y efectos establecidos en los artículos 2, 3 y 4 de este Real Decreto-ley, con efectos desde la fecha de la regularización. Asimismo deberán reintegrar las ayudas, bonificaciones y, en general, los beneficios derivados de la aplicación de los programas de empleo, obtenidos como consecuencia de esta contratación.
+
+Lo dispuesto en el párrafo anterior no será aplicable a las extinciones por despido disciplinario declarado como procedente, o por dimisión, muerte, jubilación o incapacidad permanente total, absoluta o gran invalidez del trabajador.
+
+2. Asimismo, los empresarios que incumplan el régimen jurídico de la regularización deberán proceder al ingreso de las cuotas de Seguridad Social que procedan; todo ello sin perjuicio de la aplicación de lo establecido en el texto refundido de la Ley de Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto.
