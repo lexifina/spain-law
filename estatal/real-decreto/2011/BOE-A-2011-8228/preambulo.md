@@ -1,0 +1,37 @@
+Durante las últimas décadas ha tenido lugar un incremento de la conciencia y el conocimiento ambiental en España, así como la aparición de normas reguladoras de los recursos naturales, sus usos y su conservación, que en muchos casos han emanado de la normativa comunitaria. En paralelo, se ha multiplicado en el ámbito internacional y nacional la demanda de información técnica de calidad acerca de los elementos del patrimonio natural y la biodiversidad, su estado, presiones, usos, impactos y las actuaciones para su mejora. La aplicación de ciertos instrumentos -como la evaluación del impacto ambiental o la evaluación ambiental estratégica- así como la imprescindible planificación para la protección y gestión del territorio y de los elementos bióticos y abióticos que lo integran, requiere disponer de la mejor información actualizada. El desarrollo de nuevas tecnologías para el almacenamiento, manejo y referencia geográfica de los datos ha contribuido a mejorar su calidad simplificando y generalizando su uso en la sociedad de la información.
+
+Para que los ciudadanos puedan disfrutar del derecho de un medio ambiente saludable, respetarlo y protegerlo, deben poder conocer el valor y la diversidad de su patrimonio natural. Para ello se establecen los mecanismos necesarios para que se pueda acceder a la información que esté en poder de las administraciones públicas según lo dispuesto en la Ley 27/2006 de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.
+
+Consciente de estas circunstancias, la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, de acuerdo con el artículo 45 de la Constitución española, articula, por primera vez en nuestro ordenamiento, la creación de un instrumento para el conocimiento del medio natural en España, con un marcado carácter generalista. Se trata del Inventario Español del Patrimonio Natural y de la Biodiversidad, dotando así al Ministerio de Medio Ambiente, y Medio Rural y Marino, tal y como establece el artículo 5.2.e) de la ley, de «las herramientas que permitan conocer el estado de conservación del patrimonio natural y de la biodiversidad y las causas que determinan sus cambios, para diseñar las medidas que proceda adoptar».
+
+La competencia para desarrollar el Inventario Español recae, según el Real Decreto 1130/2008, de 4 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Medio Ambiente, y Medio Rural y Marino, en la Dirección General de Medio Natural y Política Forestal.
+
+El Ministerio de Medio Ambiente, y Medio Rural y Marino, junto con las comunidades y ciudades autónomas, impulsará la participación de cuantos agentes contribuyan a la producción o desarrollo del Inventario.
+
+El Inventario Español del Patrimonio Natural y de la Biodiversidad, en lo sucesivo el Inventario, está integrado por tres instrumentos: por una parte, sus componentes básicos como inventarios, catálogos, registros, listados y bases de datos; por otro lado un sistema de indicadores que nos permita evaluar de forma sintética su estado y evolución; y, como resumen de todo ello, un informe anual.
+
+El Inventario se concibe con un carácter holístico, es decir, un todo distinto a la suma de las partes que lo componen. Para ello se han identificado aquellos componentes que aparecen citados en el acervo legislativo a nivel internacional, europeo o nacional. En concreto, incluye todos los enunciados en el artículo 9.2 de la Ley 42/2007, de 13 de diciembre, relativos al patrimonio natural y a la biodiversidad, estando algunos de ellos recogidos en su legislación específica, como ocurre con la información forestal regulada por la ley 43/2003, de 21 de noviembre, de Montes.
+
+Los componentes se agrupan en Ecosistemas, Fauna y Flora, Recursos Genéticos, Recursos Naturales, Espacios Protegidos y/o de Interés y Efectos Negativos sobre el Patrimonio Natural y la Biodiversidad y otros temas relacionados. Se establecen los mecanismos para que en el futuro se puedan incorporar aquellos otros que contribuyan al cumplimiento de los objetivos de la Ley 42/2007, de 13 de diciembre.
+
+En el anexo I se han descrito las características principales de todos los componentes, identificándose en el anexo II los prioritarios para el Ministerio de Medio Ambiente, y Medio Rural y Marino. Se trata de información básica que identifica el territorio o las especies presentes en él, para conocer la situación del Patrimonio Natural y la Biodiversidad, desde un punto de vista descriptivo.
+
+Aplicando las tecnologías de la información disponibles en la actualidad, se constituye un Sistema Integrado de Información para el almacenamiento, la armonización, la calidad y la puesta en común de la información relativa al Patrimonio Natural y la Biodiversidad.
+
+De acuerdo a la Directiva 2007/2/CE, del Parlamento y del Consejo, de 14 de marzo de 2007, por la que se establece una infraestructura de información espacial en la Comunidad Europea (INSPIRE), y con su norma de incorporación al ordenamiento jurídico español, la Ley 14/2010, de 5 de julio, sobre las infraestructuras y los servicios de información geográfica en España, se crea el nodo sectorial sobre el medio natural y la biodiversidad denominado Infraestructura de Datos Espaciales del Medio Natural (IDENAT). Se crearán servicios de información a nivel estatal, sin perjuicio de su interoperabilidad con otros sistemas análogos disponibles en otras administraciones publicas.
+
+Por otra parte, dentro del Inventario se integra un Sistema de Indicadores, que se inspira en los sistemas internacionales más relevantes en la materia: en concreto, en el desarrollado en el marco del Convenio de Diversidad Biológica, de Río de Janeiro (junio de 1992), ratificado en 1993 por España, y en el elaborado por la Agencia Europea de Medio Ambiente. El Sistema de Indicadores facilita una síntesis de los extensos contenidos del Inventario Español, permitiendo generar en cualquier momento información sobre el estado de conservación y uso de nuestro patrimonio natural y nuestra biodiversidad.
+
+Todo ello se plasma, anualmente, en un informe sobre el Estado del Patrimonio Natural y de la Biodiversidad, cuya presentación a la Conferencia Sectorial de Medio Ambiente supone asegurar la cesión de sus contenidos a las administraciones gestoras del territorio en España.
+
+Son aspectos fundamentales que se contemplan en este reglamento la coordinación y la cooperación entre las administraciones públicas para alcanzar los objetivos del Inventario. Para ello se crea el Comité del Inventario, órgano adscrito a la Comisión Estatal del Patrimonio Natural y de la Biodiversidad.
+
+Este reglamento desarrolla el capítulo I del título I de la Ley 42/2007, de 13 de diciembre, y supone un importante impulso a la aplicación de lo dispuesto en el artículo 7 del Convenio de Diversidad Biológica.
+
+En la tramitación del presente real decreto han sido consultadas las comunidades autónomas y las entidades representativas del sector afectado.
+
+El texto ha sido igualmente puesto a disposición del público, de acuerdo con lo previsto en el artículo 16 de la Ley 27/2006, de 18 de julio.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, y Medio Rural y Marino, con la aprobación previa de la Ministra de la Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 15 de abril de 2011,
+
+DISPONGO:
