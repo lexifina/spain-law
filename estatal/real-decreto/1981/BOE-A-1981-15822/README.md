@@ -10,6 +10,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [co](co.md)
 - [preambulo](preambulo.md)
 - [NATURALEZA Y DEPENDENCIA ORGÁNICA](naturalezaydependenciaorganica.md)
 - [Artículo primero](aprimero.md)
