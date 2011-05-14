@@ -1,0 +1,11 @@
+## Disposición adicional única. Información a enviar en caso de escalas en puertos de titularidad de una comunidad autónoma.
+
+1. En caso de buques de pabellón extranjero que escalen en puertos españoles de titularidad de una comunidad autónoma, y que puedan estar sujetos a una inspección MOU ampliada, de acuerdo a lo establecido en el artículo 9 del Real Decreto 1737/2010, de 23 de diciembre, el consignatario del buque, su capitán, o la empresa naviera enviarán a la Dirección General de la Marina Mercante, por medios electrónicos, y al menos con setenta y dos horas de antelación sobre la fecha y hora estimadas de llegada a puerto, o antes de abandonar el puerto de origen en caso de que se prevea que el viaje va a durar menos de setenta y dos horas, la información señalada en el anexo VII de esta orden.
+
+Asimismo, estos buques deberán enviar, al menos con veinticuatro horas de antelación a la hora prevista de llegada del buque a aguas portuarias, salvo en caso de emergencia u otras circunstancias excepcionales debidamente motivadas, que se comunicarán en la mayor brevedad posible, la información del apartado 1 del anexo I del Real Decreto 210/2004, de 6 de febrero.
+
+2. En el resto de casos, al menos con veinticuatro horas de antelación a la hora prevista de llegada del buque a aguas portuarias, salvo en caso de emergencia u otras circunstancias excepcionales debidamente motivadas, que se comunicarán en la mayor brevedad posible, la información contenida en el apartado 1 del anexo I del Real Decreto 210/2004, de 6 de febrero.
+
+3. El consignatario transmitirá al jefe de distrito marítimo correspondiente, por medios electrónicos, y mediante un mensaje estructurado, como máximo tres horas después de la entrada o salida del puerto, la información relativa a la fecha y hora real de llegada y salida, junto con los datos especificados en el anexo V de esta orden, de cualquier buque que haga escala en un puerto español titularidad de una comunidad autónoma.
+
+4. El jefe de distrito marítimo, a través de la Dirección General de la Marina Mercante, transmitirá por medios electrónicos la información de los apartados 1, 2 y 3 al organismo público Puertos del Estado quien, a su vez, la remitirá a EMSA a través del sistema SafeSeaNet.
