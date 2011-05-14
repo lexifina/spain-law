@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Inscripción en el Registro General de Protección de Datos.
+
+Los diferentes Centros Directivos del Ministerio del Interior, como Órganos responsables de sus ficheros, darán traslado de la presente Orden a la Agencia Española de Protección de Datos, en el plazo de treinta días desde su publicación en el Boletín Oficial del Estado, para que se proceda a la inscripción de sus respectivos ficheros en el Registro General de Protección de Datos, conforme a lo dispuesto en el párrafo a) del apartado segundo del artículo 39 de la Ley Orgánica 15/1999, de 13 de diciembre, así como en los artículos 55 y 58 de su Reglamento de desarrollo.
