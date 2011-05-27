@@ -32,7 +32,7 @@ c) Cuando no sean necesarias las mediciones continuas, se exigirán mediciones d
 
 4. Se informará a la Administración competente sobre los cambios sustanciales en el tipo de combustible empleado o en el modo de explotación de la instalación. Ésta decidirá si los requisitos de control establecidos en el apartado 2 anterior son aún adecuados o exigen ser adaptados.
 
-5.1. Las mediciones continuas efectuadas con arreglo al apartado 2 incluirán los parámetros pertinentes del proceso de explotación relativos al contenido de oxígeno, la temperatura, la presión y el contenido de vapor de agua de los gases residuales de combustión. La medición continua del contenido de vapor de agua no será necesaria, siempre que la muestra del gas residual de combustión se haya secado antes de que se analicen las emisiones, ni cuando pueda demostrarse que la estimación de aquel por cálculo a partir de los combustibles utilizados y las condiciones de operación tenga la precisión adecuada.
+5.1. Las mediciones continuas efectuadas con arreglo al apartado 2 incluirán los parámetros pertinentes del proceso de explotación relativos al contenido de oxígeno, la temperatura, la presión y el contenido de vapor de agua de los gases residuales de combustión. La medición continua del contenido de vapor de agua no será necesaria siempre que la muestra del gas residual de combustión se haya secado antes de que se analicen las emisiones.
 
 5.2 Las mediciones representativas, por ejemplo muestreos y análisis, de los contaminantes pertinentes y los parámetros del proceso, así como los métodos de medición de referencia para calibrar los sistemas de medición automáticos, se llevarán a cabo con arreglo a las normas CEN tan pronto como se disponga de ellas. En caso de no disponerse de normas CEN, se aplicarán las normas ISO u otras normas nacionales o internacionales que garanticen la obtención de datos de calidad científica equivalente.
 
@@ -77,3 +77,5 @@ Un inventario general para las demás instalaciones de combustión a las que apl
 2. El método utilizado para la realización de dichos inventarios deberá ajustarse al utilizado en 1980 para determinar las emisiones de SO2 y NOx de las instalaciones de combustión.
 
 3. Los resultados de dicho inventario, debidamente recopilados, se comunicarán por la Administración General del Estado a la Comisión Europea en los nueve meses siguientes al final del año de que se trate.
+
+> Se modifica el apartado 5.1 por el art. único.3 del Real Decreto 687/2011, de 13 de mayo. Ref. BOE-A-2011-9139.
