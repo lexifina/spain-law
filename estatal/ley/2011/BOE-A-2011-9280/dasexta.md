@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Régimen de participación en la recaudación de las Apuestas Deportivas.
+
+Mediante Ley se fijará el porcentaje o su equivalente, aplicable a la recaudación obtenida de las Apuestas Deportivas para determinar la cantidad que será objeto de retorno al Deporte y a las competiciones deportivas organizadas en España, sin perjuicio de lo previsto en el apartado dos de la Disposición adicional tercera. La citada Ley establecerá asimismo el régimen de participación y distribución que corresponda por las obligaciones de proporcionar los datos y resultados oficiales de las competiciones y de garantía de la integridad en el desarrollo de las mismas.

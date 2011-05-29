@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 251, de 19 de octubre de1985. Ref. BOE-A-1985-21595.
+Norma derogada por la disposición derogatoria.9 de la Ley 13/2011, de 27 de mayo. Ref. BOE-A-2011-9280#dd.

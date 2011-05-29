@@ -1,7 +1,7 @@
 ## Disposición adicional decimonovena.
 
-Uno. De conformidad con la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando, queda prohibida en todo el territorio nacional la venta, importación, circulación y producción de billetes, boletos, sellos o cualquier otro soporte de loterías, apuestas y demás juegos organizados o emitidos por personas o Entidades extranjeras.
+(Derogada)
 
-Dos. Las Entidades que lleven a cabo, por cualquier medio, la publicación de los programas, anuncios o reclamos de las actividades mencionadas en el punto 1 de esta disposición adicional, o de las previstas en el punto 1 de la letra b) del apartado uno de la disposición adicional decimoctava de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986, cuando estas carezcan de la autorización administrativa necesaria, deberán suspender dicha publicación en el período de 6 meses contado desde la notificación del requerimiento en el que se ponga de manifiesto la ilicitud de dichas actividades. Transcurrido dicho plazo sin que se lleve a cabo la cesación, estarán sometidas al régimen sancionador previsto en el punto b) del apartado uno de la disposición adicional decimoctava de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986.
+> Se deroga por la disposición derogatoria 2.8 de la Ley 13/2011, de 27 de mayo. Ref. BOE-A-2011-9280#dd
 
 > Se modifica por la disposición final 14.2 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865#dfdecimocuarta
