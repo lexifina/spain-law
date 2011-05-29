@@ -54,11 +54,13 @@ iii) Los locales, laboratorios, fábricas e instalaciones que produzcan, manipul
 
 Se exceptuarán de esta clasificación las instalaciones, aparatos y materiales cuando la intensidad del campo de irradiación creado por ellas no entrañe riesgo. En el Reglamento de aplicación de esta Ley se detallarán las normas para la excepción.
 
-14.«Explotador» de una instalación nuclear, de una instalación radiactiva o de un buque o aeronave nuclear es la persona natural o jurídica titular de la autorización necesaria para la puesta en marcha de cualquiera de dichas actividades.
+14. Titular de una autorización o explotador de una instalación nuclear o radiactiva es una persona física o jurídica que es responsable en su totalidad de una instalación nuclear o radiactiva, tal como se especifica en la correspondiente autorización. Esta responsabilidad no podrá delegarse.
 
 15.«Zona controlada» se denomina a toda área en que, por existir una fuente de radiación ionizante, los individuos que trabajen en ella puedan estar expuestos a recibir dosis de radiación que excedan de uno con cinco rems al año.
 
-16.«Daños nucleares» son:
+16. Seguridad nuclear es la consecución de condiciones de explotación adecuadas de una instalación nuclear, la prevención de accidentes y la atenuación de sus consecuencias, cuyo resultado sea la protección de los trabajadores y del público en general y del medio ambiente, de los riesgos producidos por las radiaciones ionizantes procedentes de instalaciones nucleares.
+
+16 bis. «Daños nucleares» son:
 
 i) La pérdida de vidas humanas, las lesiones corporales y los daños y perjuicios materiales que se produzcan como resultado directo o indirecto de las propiedades radiactivas o de su combinación con las propiedades tóxicas, explosivas u otras peligrosas de los combustibles nucleares o de los productos o desechos radiactivos que se encuentren en una instalación nuclear o de las sustancias nucleares que procedan, se originen o se envíen a ella.
 
@@ -73,6 +75,8 @@ iii) La pérdida de vidas humanas, las lesiones corporales y los daños y perjui
 19.«Buque de guerra» es todo buque que pertenezca a las fuerzas navales de un Estado y lleve los signos exteriores que caracterizan a los buques de guerra de su nacionalidad, que esté bajo el mando de un Oficial debidamente autorizado por el Gobierno de dicho Estado y cuyo nombre figure en el Escalafón de la Marina y cuya tripulación se halle bajo la disciplina naval militar.
 
 20.«Aeronave militar» es toda aeronave que tenga como misión la defensa nacional o esté mandada por un militar comisionado al efecto.
+
+> Se modifica el apartado 14, se renumera el 16 como 16 bis y se añade el apartado 16 por la disposición adicional 3.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
 
 > Se modifica el apartado 12 bis por la disposición adicional 2.2 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
 
