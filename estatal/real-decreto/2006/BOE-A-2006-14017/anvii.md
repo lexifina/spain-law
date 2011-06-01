@@ -94,6 +94,8 @@ Para los contadores polifásicos electromecánicos, el intervalo de corriente pa
 
 Cuando un contador funcione a diferentes intervalos de temperatura, se aplicarán los valores correspondientes de los errores máximos permitidos.
 
+El contador no explotará el error máximo permitido ni favorecerá sistemáticamente a ninguna de las partes.
+
 4. Efecto permitido de las perturbaciones.
 
 4.1 Generalidades: Como los contadores de energía eléctrica están conectados directamente a la red de alimentación, y como la corriente de la red es también una de las magnitudes sometidas a medición, para los contadores de energía eléctrica se utiliza un entorno electromagnético especial.
@@ -171,3 +173,5 @@ Contadores instalados en emplazamiento exterior: - 25 °C a + 55 °C
 Evaluación de la conformidad: Los procedimientos de evaluación de la conformidad mencionados en el artículo 6, entre los que el fabricante puede optar son:
 
 B+F o B+D o H1.
+
+> Se añade el último párrafo al apartado 3 por el art. único.4 del Real Decreto 1284/2010, de 15 de octubre. Ref. BOE-A-2010-16440.

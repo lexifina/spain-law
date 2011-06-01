@@ -66,6 +66,8 @@ Para la clase 2: E = Ef + Et + Ec, siendo Ef, Et, Ec con arreglo a los puntos 7.
 
 Para la clase 3: E = Ef + Et + Ec, siendo Ef, Et, Ec con arreglo a los puntos 7.1 a 7.3.
 
+El contador de energía térmica completo no explotará el error máximo permitido ni favorecerá sistemáticamente a ninguna de las partes.
+
 4. Influencias permitidas de las perturbaciones electromagnéticas:
 
 4.1 El instrumento no sufrirá la influencia de campos magnéticos estáticos ni de campos electromagnéticos a la frecuencia de la red.
@@ -165,3 +167,5 @@ Evaluación de la conformidad:
 9. Los procedimientos de evaluación de la conformidad mencionados en el artículo 6, entre los cuales puede optar el fabricante son:
 
 B+F o B+D o H1.
+
+> Se añade el último párrafo al apartado 3 por el art. único.5 del Real Decreto 1284/2010, de 15 de octubre. Ref. BOE-A-2010-16440.

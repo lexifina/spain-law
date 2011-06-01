@@ -58,7 +58,7 @@ Cuadro 1
 | Qmín ≤ Q ≤ Qt | 3% | 2% |
 | Qt ≤ Q ≤ Qmáx | 1,5% | 1% |
 
-Cuando los errores entre Qt y Qmáx tengan todos el mismo signo, no deberán exceder del 1% para la clase de exactitud 1,5. y del 0,5% para la clase de exactitud 1,0.
+El contador de gas no explotará el error máximo permitido ni favorecerá sistemáticamente a ninguna de las partes;
 
 2.2 En el caso de que exista un contador de gas con conversión de temperatura que sólo indique el volumen convertido, el error máximo permitido del contador se aumentará en un 0,5% en un intervalo de 30 °C que se extenderá de forma simétrica en torno a la temperatura señalada por el fabricante, que se situará entre los 15 °C y los 25 °C. Fuera de este intervalo, está permitido un aumento adicional del 0,5% en cada intervalo de 10 °C.
 
@@ -138,6 +138,8 @@ Los requisitos esenciales aplicables a los contadores de gas son, en su caso, ig
 
 Nota: no se tiene en cuenta el error del contador de gas.
 
+El dispositivo de conversión volumétrica no explotará el error máximo permitido ni favorecerá sistemáticamente a ninguna de las partes.
+
 9. Aptitud:
 
 9.1 Un dispositivo de conversión electrónico deberá poder detectar cuándo funciona fuera del intervalo de funcionamiento señalado por el fabricante para cada uno de los parámetros que intervienen en la exactitud de la medición. Si eso sucediera, el dispositivo de conversión deberá interrumpir la integración de la cantidad convertida y poder totalizar por separado la cantidad convertida durante el tiempo que se encuentre fuera del intervalo o intervalos de funcionamiento.
@@ -157,3 +159,5 @@ b) En lo que se refiere a los requisitos contemplados en los anteriores puntos 1
 Evaluación de la conformidad: Los procedimientos de evaluación de la conformidad a que hace referencia el artículo 6, entre los que el fabricante puede optar son:
 
 B+F o B+D o H1.
+
+> Se modifica el apartado 2.1 y se añade el último párrafo al apartado 8 por el art. único.2 y 3 del Real Decreto 1284/2010, de 15 de octubre. Ref. BOE-A-2010-16440.

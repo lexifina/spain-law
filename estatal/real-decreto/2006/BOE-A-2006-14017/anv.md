@@ -52,6 +52,8 @@ Error máximo permitido:
 
 6. El error máximo permitido, positivo o negativo, sobre los volúmenes suministrados bajo caudales comprendidos entre el caudal mínimo (Q1) y el caudal de agua de transición (Q2) (excluido) es del 5% independientemente de la temperatura del agua.
 
+6 bis. El contador no explotará el error máximo permitido ni favorecerá sistemáticamente a ninguna de las partes.
+
 Efecto permitido de las perturbaciones:
 
 7.1 Inmunidad electromagnética:
@@ -111,3 +113,5 @@ Puesta en servicio:
 Evaluación de la conformidad: Los procedimientos de evaluación de la conformidad a que hace referencia el artículo 6, entre los cuales puede optar el fabricante son:
 
 B+F o B+D o H1.
+
+> Se añade el apartado 6 bis por el art. único.1 del Real Decreto 1284/2010, de 15 de octubre. Ref. BOE-A-2010-16440.

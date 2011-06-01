@@ -149,6 +149,8 @@ c) Exactitud de la función de cálculo: El error máximo permitido para el cál
 
 2.7 El requisito a) del punto 2.6 se aplica a cualquier cálculo y no solamente a la conversión.
 
+2.8 El sistema de medida no explotará el error máximo permitido ni favorecerá sistemáticamente a ninguna de las partes.
+
 3. Efectos máximos permitidos de las perturbaciones:
 
 3.1 El efecto de una perturbación electromagnética sobre un sistema de medida deberá ser uno de los siguientes:
@@ -232,3 +234,5 @@ Nota: No obstante, el fabricante podrá especificar una mejor clase de exactitud
 Evaluación de la conformidad: Los procedimientos de evaluación de la conformidad mencionados en el artículo 6, entre los que puede optar el fabricante son:
 
 B+F o B+D o H1 o G.
+
+> Se añade el subapartado 2.8 al apartado 2 por el art. único.6 del Real Decreto 1284/2010, de 15 de octubre. Ref. BOE-A-2010-16440.
