@@ -25,3 +25,5 @@ a) Órganos de gobierno y de dirección. (Si el centro es una asociación se ind
 b) Estructura organizativa del centro.
 
 c) Organización comercial y sistema de gestión.
+
+> Se modifica el apartado 1.c) por el art. único.5 del Real Decreto 652/2011, de 9 de mayo. Ref. BOE-A-2011-9676.

@@ -4,6 +4,8 @@
 
 2. Esta inscripción provisional tendrá una duración máxima de dos años, a contar desde su notificación, durante los cuales la entidad solicitante procederá a adecuar sus estatutos y su régimen jurídico y económico a los requerimientos de este real decreto.
 
-3. Trascurrido dicho plazo, previas las comprobaciones y verificaciones oportunas y de acuerdo con el expediente tramitado al efecto, el Secretario de Estado de Investigación dictará resolución motivada acordando o denegando la inscripción definitiva, a propuesta del Director General de Planificación y Coordinación, y previo informe de la Comisión de Evaluación.
+3. Trascurrido dicho plazo, previas las comprobaciones y verificaciones oportunas y de acuerdo con el expediente tramitado al efecto, el titular de la Secretaría General de Innovación dictará resolución motivada, que pondrá fin a la vía administrativa, acordando o denegando la inscripción definitiva, a propuesta del Director General de Transferencia de Tecnología y Desarrollo Empresarial, y previo informe de la Comisión de Evaluación.
 
 4. Finalizada la vigencia de la inscripción provisional sin haber obtenido la inscripción definitiva, aquella quedará cancelada sin más trámite, dejando constancia en el Registro.
+
+> Se modifica el apartado 3 por el art. único.4 del Real Decreto 652/2011, de 9 de mayo. Ref. BOE-A-2011-9676.
