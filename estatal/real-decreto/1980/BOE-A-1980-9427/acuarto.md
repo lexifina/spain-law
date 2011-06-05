@@ -1,3 +1,5 @@
 ## Artículo cuarto.
 
-La Comisión Presupuestaria, bajo la presidencia del Subsecretario del Departamento, estará integrada por los Directores generales de Justicia, Instituciones Penitenciarias, de los Registros y del Notariado y de Asuntos Religiosos, el Secretario general Técnico, el Oficial Mayor del Ministerio y los Presidentes de la Obra de Protección de Menores y del Patronato de Protección a la Mujer.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única y anexo del Real Decreto 776/2011, de 3 de junio. Ref. BOE-A-2011-9736.

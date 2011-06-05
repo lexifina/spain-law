@@ -1,3 +1,5 @@
 ## Artículo cuarto.
 
-Para coordinar la actuación de los distintos Departamentos interesados se constituirá una Subcomisión de investigación científica-marina en el seno de la Comisión Interministerial de Política Marítima Internacional.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única y anexo del Real Decreto 776/2011, de 3 de junio. Ref. BOE-A-2011-9736.

@@ -182,15 +182,9 @@ Instituto de Bachillerato «Carlos Haya», de Sevilla.
 
 2. La exclusión de algún Centro del presente Convenio o la inclusión de alguno nuevo se realizará previo acuerdo de la Comisión de Seguimiento a que se refiere la cláusula segunda.
 
-## Segunda.
+## Segunda
 
-Con el fin de velar por el correcto desarrollo de lo dispuesto en eI presente Convenio existirá una Comisión de Seguimiento con las siguienes atribuciones:
-
-Garantizar su cumplimiento.
-
-Coordinar y canalizar las iniciativas y proyectos.
-
-Acordar, en su caso, con los servicios correspondientes de las Comunidades Autónomas con competencias educativas, la escolarización en los Centros objeto de este Convenio de alumnos residentes en la zona en que esté situado el Centro que no sean hijos de personal militar.
+(Derogada)
 
 ## Tercera.
 
@@ -251,3 +245,5 @@ Corresponde al Ministerio de Defensa proveer el personal administrativo y subalt
 ## Séptima.
 
 Los Centros objeto del presente Convenio estarán sometidos, al igual que el resto de los Centros públicos dependientes del Ministerio de Educación Ciencia, al control del Servicio de Inspección Técnica de Educación e Inspección General de Servicios.
+
+> Se deroga la cláusula 2 por la disposición derogatoria única del Real Decreto 776/2011, de 3 de junio. Ref. BOE-A-2011-9736.

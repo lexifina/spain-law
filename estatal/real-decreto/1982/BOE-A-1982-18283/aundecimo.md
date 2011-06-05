@@ -1,11 +1,5 @@
 ## Artículo undécimo.
 
-La Comisión Interministerial para la Artesanía, tendrá las siguientes funciones:
+(Derogado)
 
-a) Estudiar y proponer al Gobierno, a través de los Departamentos interesados, disposiciones y medidas de todo orden conducentes al fomento, promoción y protección de la Artesanía.
-
-b) Estudiar y proponer disposiciones de desarrollo del Plan de Fomento de la Artesanía.
-
-c) Informar preceptivamente sobre los proyectos de disposiciones relativas al sector artesano.
-
-d) Cualquier otra que le sea encomendada.
+> Se deroga por la disposición derogatoria única y anexo del Real Decreto 776/2011, de 3 de junio. Ref. BOE-A-2011-9736.

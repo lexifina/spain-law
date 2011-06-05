@@ -1,11 +1,5 @@
 ## Art. 12.
 
-En el seno del Ministerio de Transporte, Turismo y Comunicaciones se crea la Comisión para la renovación y modernización de la flota mercante española que, además de su presidencia, que ostentará el Director general de la Marina Mercante, contará con dos representantes de cada uno de los siguientes Ministerios:
+(Derogado)
 
-– Industria y Energía.
-
-– Economía y Hacienda
-
-– Transportes, Turismo y Comunicaciones.
-
-La Comisión dispondrá de un Secretario designado entre los funcionarios que prestan sus servicios en la Dirección General de la Marina Mercante.
+> Se deroga por la disposición derogatoria única y anexo del Real Decreto 776/2011, de 3 de junio. Ref. BOE-A-2011-9736.

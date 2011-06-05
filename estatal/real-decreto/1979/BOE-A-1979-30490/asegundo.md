@@ -1,7 +1,5 @@
 ## Artículo segundo.
 
-Igualmente, en cada Ministerio se constituirá una Comisión Presupuestaria, bajo la presidencia del Subsecretario del Departamento, en la que estarán representados los Centros directivos, Organismos autónomos y cualesquiera otras unidades que se consideren necesarias.
+(Derogado)
 
-El Jefe de la Oficina Presupuestaria desempeñará las funciones de Secretario de la Comisión.
-
-Corresponde a esta Comisión elevar al Ministro las propuestas que procedan respecto a la aprobación del anteproyecto de presupuesto, la formulación de criterios de prioridad, la revisión de programas existentes y el seguimiento de su ejecución.
+> Se deroga por la disposición derogatoria única. a) del Real Decreto 776/2011, de 3 de junio. Ref. BOE-A-2011-9736.
