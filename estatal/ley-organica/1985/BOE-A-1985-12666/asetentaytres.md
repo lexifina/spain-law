@@ -6,6 +6,8 @@ a) Del recurso de casación que establezca la ley contra resoluciones de órgano
 
 b) Del recurso extraordinario de revisión que establezca la ley contra sentencias dictadas por órganos jurisdiccionales del orden civil con sede en la comunidad autónoma, en materia de derecho civil, foral o especial, propio de la comunidad autónoma, si el correspondiente Estatuto de Autonomía ha previsto esta atribución.
 
+c) De las funciones de apoyo y control del arbitraje que se establezcan en la ley, así como de las peticiones de exequátur de laudos o resoluciones arbitrales extranjeros, a no ser que, con arreglo a lo acordado en los tratados o las normas de la Unión Europea, corresponda su conocimiento a otro Juzgado o Tribunal.
+
 2. Esta Sala conocerá igualmente:
 
 a) En única instancia, de las demandas de responsabilidad civil, por hechos cometidos en el ejercicio de sus respectivos cargos, dirigidas contra el Presidente y miembros del Consejo de Gobierno de la comunidad autónoma y contra los miembros de la Asamblea legislativa, cuando tal atribución no corresponda, según los Estatutos de Autonomía, al Tribunal Supremo.
@@ -29,6 +31,8 @@ d) La decisión de las cuestiones de competencia entre órganos jurisdiccionales
 5. Le corresponde, igualmente, la decisión de las cuestiones de competencia entre Juzgados de Menores de distintas provincias de la comunidad autónoma.
 
 6. En el caso de que el número de asuntos lo aconseje, podrán crearse una o más secciones e incluso Sala de lo Penal con su propia circunscripción territorial en aquellas capitales que ya sean sedes de otras Salas del Tribunal Superior, a los solos efectos de conocer los recursos de apelación a los que se refiere el párrafo c) del apartado 3 de este artículo y aquellas otras apelaciones atribuidas por las leyes al Tribunal Superior. Los nombramientos para magistrados de estas Secciones, a propuesta del Consejo General del Poder Judicial, recaerán en aquellos magistrados que, habiendo permanecido durante los 10 años inmediatamente anteriores en el orden penal, ostenten mayor antigüedad escalafonal.
+
+> Se añade la letra c) al apartado 1 por el art. único.1 de la Ley Orgánica 5/2011, de 20 de mayo. Ref. BOE-A-2011-8846.
 
 > Se modifica por el art. único.8 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

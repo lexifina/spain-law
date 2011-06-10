@@ -1,4 +1,4 @@
-## Artículo ochenta y seis ter
+## Artículo 86 ter.
 
 1. Los juzgados de lo mercantil conocerán de cuantas cuestiones se susciten en materia concursal, en los términos previstos en su Ley reguladora. En todo caso, la jurisdicción del juez del concurso será exclusiva y excluyente en las siguientes materias:
 
@@ -8,7 +8,7 @@
 
 3.º Toda ejecución frente a los bienes y derechos de contenido patrimonial del concursado, cualquiera que sea el órgano que la hubiera ordenado.
 
-4.º Toda medida cautelar que afecte al patrimonio del concursado, excepto las que se adopten en los procesos civiles que quedan excluidos de su jurisdicción en el número 1.º
+4.º Toda medida cautelar que afecte al patrimonio del concursado, excepto las que se adopten en los procesos civiles que quedan excluidos de su jurisdicción en el número 1.º y sin perjuicio de las medidas cautelares que puedan decretar los árbitros durante un procedimiento arbitral.
 
 5.º Las que en el procedimiento concursal debe adoptar en relación con la asistencia jurídica gratuita.
 
@@ -28,9 +28,11 @@ e) Los recursos contra las resoluciones de la Dirección General de los Registro
 
 f) De los procedimientos de aplicación de los artículos 81 y 82 del Tratado constitutivo de la Comunidad Europea y su derecho derivado, así como los procedimientos de aplicación de los artículos que determine la Ley de Defensa de la Competencia.
 
-g) De los asuntos atribuidos a los Juzgados de Primera Instancia en el artículo 8 de la Ley de Arbitraje cuando vengan referidos a materias contempladas en este apartado.
+g) (Derogada)
 
-3. Los juzgados de lo mercantil tendrán competencia para el reconocimiento y ejecución de sentencias y demás resoluciones judiciales y arbitrales extranjeras, cuando éstas versen sobre materias de su competencia, a no ser que, con arreglo a lo acordado en los tratados y otras normas internacionales, corresponda su conocimiento a otro juzgado o tribunal.
+3. Los Juzgados de lo Mercantil tendrán competencia para el reconocimiento y ejecución de sentencias y demás resoluciones judiciales extranjeras, cuando éstas versen sobre materias de su competencia, a no ser que, con arreglo a lo acordado en los tratados y otras normas internacionales, corresponda su conocimiento a otro Juzgado o Tribunal.
+
+> Se modifican los apartados 1.4º y 3 y se deroga el 2.g) por el art. único.3 y disposición derogatoria de la Ley Orgánica 5/2011, de 20 de mayo. Ref. BOE-A-2011-8846.
 
 > Se modifica la letra f) del apartado 2 y se añade el apartado 3 por la disposición final 1.1 y 2 de la Ley Orgánica 13/2007, de 19 de noviembre. Ref. BOE-A-2007-19879.
 

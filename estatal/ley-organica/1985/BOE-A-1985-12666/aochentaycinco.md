@@ -10,6 +10,8 @@ Los Juzgados de Primera Instancia conocerán en el orden civil:
 
 4. De las cuestiones de competencia en materia civil entre los Juzgados de Paz del partido.
 
-5. De las solicitudes de reconocimiento y ejecución de sentencias y demás resoluciones judiciales y arbitrales extranjeras, a no ser que, con arreglo a lo acordado en los tratados y otras normas internacionales, corresponda su conocimiento a otro juzgado o tribunal.
+5. De las solicitudes de reconocimiento y ejecución de sentencias y demás resoluciones judiciales extranjeras y de la ejecución de laudos o resoluciones arbitrales extranjeros, a no ser que, con arreglo a lo acordado en los tratados y otras normas internacionales, corresponda su conocimiento a otro Juzgado o Tribunal.
+
+> Se modifica el apartado 5 por el art. único.2 de la Ley Orgánica 5/2011, de 20 de mayo. Ref. BOE-A-2011-8846.
 
 > Se modifica por el art. único.11 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
