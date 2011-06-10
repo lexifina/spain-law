@@ -4,10 +4,16 @@ Al artículo 7.º, párrafo 3. España declara que, a los efectos de lo previsto
 
 Al artículo 15, párrafo 6. España declara que cuando, en caso de urgencia, se curse directamente una comisión rogatoria a sus autoridades judiciales por las autoridades judiciales de la parte requirente, éstas deben remitir al mismo tiempo una copia de la comisión rogatoria al Ministerio de Justicia español.
 
-Al artículo 24. A los efectos del presente Convenio serán consideradas como autoridades judiciales:
+Al artículo 24. A los efectos del presente Convenio, serán consideradas como autoridades judiciales:
 
 a) Los Jueces y Tribunales de la jurisdicción ordinaria;
 
-b) Los miembros del Ministerio Fiscal;
+b) Los Secretarios Judiciales;
 
-c) Las autoridades judiciales militares.
+c) Los miembros del Ministerio Fiscal;
+
+d) Las autoridades judiciales militares.
+
+La presente Declaración también es de aplicación al Protocolo adicional al Convenio Europeo de asistencia judicial en materia penal, hecho en Estrasburgo el 17 de marzo de 1978.
+
+> Se modifica la declaración de España relativa al art. 24 por Nota Verbal de 9 de junio de 2011. Ref. BOE-A-2011-19394
