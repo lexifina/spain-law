@@ -1,0 +1,5 @@
+## Disposición adicional primera. Procedimientos no judiciales.
+
+1. Sin perjuicio de la autonomía colectiva, las organizaciones empresariales y sindicales más representativas en el ámbito estatal y de Comunidad Autónoma adoptarán antes del 30 de junio de 2012 las iniciativas que correspondan para la adaptación de los procedimientos no judiciales de solución de conflictos establecidos mediante los acuerdos interprofesionales de ámbito estatal o autonómico previstos en el artículo 83 del Estatuto de los Trabajadores a las previsiones contenidas en este real decreto-ley.
+
+2. Hasta tanto los acuerdos interprofesionales a que se refiere el apartado anterior establezcan los procedimientos previstos en el artículo 86.3 del Estatuto de los Trabajadores, según la redacción dada al mismo por este real decreto-ley, en caso de imposibilidad de acuerdo en el seno de la comisión negociadora y transcurrido el plazo máximo de negociación de los convenios colectivos, las partes se someterán a un procedimiento de arbitraje.
