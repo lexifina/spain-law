@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Normas relativas a la bonificación por mantenimiento del empleo y de reposición de las prestaciones por desempleo.
+
+La bonificación de las cuotas empresariales por contingencias comunes para el mantenimiento del empleo y la reposición del derecho de prestaciones por desempleo de los trabajadores afectados previstas en el artículo 9 y en la disposición transitoria quinta de la Ley 35/1010, de 17 de septiembre, serán de aplicación en los procedimiento de regulación de empleo de suspensión del contrato de trabajo y de reducción de jornada por causas económicas, técnicas, organizativas o de producción regulados en este real decreto mientras se cumplan los requisitos exigidos para su reconocimiento.

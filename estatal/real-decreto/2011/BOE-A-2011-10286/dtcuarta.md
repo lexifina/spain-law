@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Datos estadísticos.
+
+Mientras no se desarrolle lo previsto en la disposición adicional única respecto a la forma y contenido de la información estadística de los procedimientos de regulación de empleo, las comunidades autónomas seguirán facilitando a la Administración del Estado información individualizada de los expedientes de regulación de empleo presentados y/o resueltos por las mismas, conforme a lo dispuesto en los correspondientes reales decretos sobre traspaso de funciones y servicios del Estado a cada comunidad autónoma en materia de expediente de regulación de empleo.
