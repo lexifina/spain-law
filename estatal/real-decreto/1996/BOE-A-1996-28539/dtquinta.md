@@ -1,5 +1,7 @@
-## Disposición transitoria quinta. Movimiento de animales de explotaciones del tipo M3.
+## Disposición transitoria quinta. Explotaciones de precebo de ganado bovino no calificadas.
 
-Hasta el 31 de diciembre de 2005, y para el movimiento dentro de España, los ovinos o caprinos vacunados de edad inferior a dos años, procedentes de explotaciones del tipo M3, podrán acceder a ferias y mercados calificados, siempre que cumplan el resto de condiciones sanitarias exigibles, y estén identificados individualmente de acuerdo con lo dispuesto en el artículo 4.1.a) del Real Decreto 2121/1993, de 3 de diciembre, relativo a las normas de policía sanitaria que regulan los intercambios intracomunitarios y las importaciones de terceros países de animales de las especies ovina y caprina.
+No obstante lo establecido en este real decreto, las explotaciones de precebo de ganado bovino no calificadas definidas en el Real Decreto 51/2004, de 19 de enero, por el que se modifica este real decreto, y que venían operando como tales hasta la entrado en vigor del presente real decreto, podrán enviar transitoriamente, hasta el 31 de octubre de 2011, animales de edad inferior a ocho meses hacia explotaciones de cebo no calificadas, para lo cual será necesaria la realización, en el caso de animales de la especie bovina mayores de seis semanas, de pruebas de diagnóstico de tuberculosis en los treinta días anteriores a la realización del movimiento, con resultado negativo.
+
+> Se modifica por el art. único.8 del Real Decreto 727/2011, de 20 de mayo. Ref. BOE-A-2011-10458.
 
 > Se añade por el art. único.5 del Real Decreto 51/2004, de 19 de enero. Ref. BOE-A-2004-1071

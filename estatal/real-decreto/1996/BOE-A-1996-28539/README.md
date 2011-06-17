@@ -70,6 +70,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO V](tv.md)
 - [Artículo 43](a43.md)
 - [Disposición adicional única](daunica.md)
+- [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)
