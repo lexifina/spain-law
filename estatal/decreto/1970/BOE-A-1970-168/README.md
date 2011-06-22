@@ -30,6 +30,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 11](art11.md)
 - [Art 12](art12.md)
 - [Art 13](art13.md)
+- [Art 13 bis](art13bis.md)
 - [Art 14](art14.md)
 - [Art 15](art15.md)
 - [CAPÍTULO III](ciii.md)
