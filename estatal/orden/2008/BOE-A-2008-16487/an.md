@@ -16,5 +16,10 @@
 | Aceite vegetal | 0,8290 |
 | BioDME | 0,4529 |
 | Biohidrógeno | 0,0003 |
+| Hidrobiodiesel | 0,8121 |
 
 2. Para el cálculo de los referidos volúmenes, la fracción volumétrica del bioETBE que se computará como biocarburante será del 47 por ciento, y la del bioMTBE será del 36 por ciento.
+
+3. Por su parte, el rendimiento en volumen para el proceso de transformación de aceite vegetal en hidrobiodiésel será del 97 por ciento. No se aplicará este rendimiento en los casos de mezclas de hidrobiodiésel con gasóleo de origen fósil.
+
+> Se modifica el apartado 1 y se añade el 3 por los puntos 1.1 y 2 de la Resolución de 14 de junio de 2011. Ref. BOE-A-2011-10940.
