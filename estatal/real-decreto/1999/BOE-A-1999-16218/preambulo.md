@@ -6,12 +6,14 @@ La gestión directa de la radiodifusión sonora digital terrenal corresponde al 
 
 Para facilitar el desarrollo de la radiodifusión sonora digital terrenal en España es preciso partir, desde el primer momento, de un escenario cierto que permita a todos los sectores involucrados conocer los plazos y el marco normativo con arreglo a los cuales se producirá la implantación de esta nueva tecnología, aun cuando no sea previsible la completa sustitución de la tecnología analógica por la digital en la radiodifusión.
 
-Por otra parte, en la elaboración del Plan técnico nacional de la radiodifusión sonora digital terrenal se ha procurado que exista una oferta de frecuencias equivalente para la cobertura estatal y para la autonómica y local, y se ha tenido especialmente en cuenta la especificidad del hecho insular, conforme establece el artículo 62 de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones.
+Por otra parte, en la elaboración del Plan técnico nacional de la radiodifusión sonora digital terrestre se ha procurado que exista una oferta de frecuencias equivalente para la cobertura estatal y para la autonómica y local, y se ha tenido especialmente en cuenta la especificidad del hecho insular, conforme establece el artículo 62 de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones.
 
-La Ley 66/1997, de Medidas Fiscales, Administrativas y del Orden Social, en su disposición adicional cuadragésima cuarta, regula el régimen jurídico de la radiodifusión sonora digital terrenal, fijando, en su apartado 3, la necesidad de la aprobación, por el Ministerio de Fomento, del Reglamento técnico y de prestación de los servicios, con carácter previo al comienzo de la actuación de los operadores que empleen esta tecnología. Su apartado 4 exige también, como requisito previo, la aprobación, por el Gobierno, del Plan técnico nacional de la radiodifusión sonora digital terrenal. Este mismo apartado determina que las concesiones para la gestión indirecta del servicio se otorgarán por el Estado, si su ámbito es estatal, y por las Comunidades Autónomas, si es autonómico o local.
+La Ley 66/1997, de Medidas Fiscales, Administrativas y del Orden Social, en su disposición adicional cuadragésima cuarta, regula el régimen jurídico de la radiodifusión sonora digital terrenal, fijando, en su apartado 3, la necesidad de la aprobación, por el Ministerio de Fomento, del Reglamento técnico y de prestación de los servicios, con carácter previo al comienzo de la actuación de los operadores que empleen esta tecnología. Su apartado 4 exige también, como requisito previo, la aprobación, por el Gobierno, del Plan técnico nacional de la radiodifusión sonora digital terrestre. Este mismo apartado determina que las concesiones para la gestión indirecta del servicio se otorgarán por el Estado, si su ámbito es estatal, y por las Comunidades Autónomas, si es autonómico o local.
 
 En cumplimiento de la previsión contenida en la referida disposición adicional, se aprueba el presente Real Decreto.
 
 En su virtud, a propuesta del Ministro de Fomento, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de julio de 1999,
 
 DISPONGO:
+
+> Se modifica el título del Plan técnico nacional por la disposición adicional única del Real Decreto 802/2011, de 10 de junio. Ref. BOE-A-2011-11109
