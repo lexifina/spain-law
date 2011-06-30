@@ -1,0 +1,5 @@
+## Disposición adicional decimocuarta. Recursos.
+
+Las resoluciones que dicten los órganos competentes de los Ministerios de Asuntos Exteriores y de Cooperación, del Interior, y de Trabajo e Inmigración, los Delegados del Gobierno y Subdelegados del Gobierno, bajo la dependencia funcional de estos dos últimos Ministerios, con base en lo dispuesto en este Reglamento, sobre concesión o denegación de visados, prórrogas de estancia o autorizaciones de residencia y de trabajo, cédulas de inscripción, así como sobre sanciones gubernativas y expulsiones de extranjeros, pondrán fin a la vía administrativa, y contra éstas podrán interponerse los recursos administrativos o jurisdiccionales legalmente previstos. Se exceptúan las resoluciones sobre denegación de entrada y devolución, las cuales no agotan la vía administrativa.
+
+Los actos y resoluciones administrativas adoptados serán recurribles con arreglo a lo dispuesto en las leyes, y su régimen de ejecutividad será el previsto con carácter general en la legislación vigente, salvo lo dispuesto en la Ley Orgánica 4/2000, de 11 de enero, para la tramitación de expedientes de expulsión con carácter preferente.

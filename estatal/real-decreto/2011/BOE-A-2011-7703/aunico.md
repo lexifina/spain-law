@@ -1,0 +1,5 @@
+## Artículo único. Aprobación y ámbito de aplicación del Reglamento.
+
+1. Se aprueba el Reglamento de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, cuyo texto se inserta a continuación.
+
+2. Las normas del Reglamento de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, se aplicarán con carácter supletorio, o a los efectos que pudieran ser más favorables, a los nacionales de los Estados miembros de la Unión Europea y a las demás personas incluidas en el ámbito del Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Asimismo, las normas del Reglamento de la Ley Orgánica 4/2000, de 11 de enero, se aplicarán con carácter supletorio a quienes sea de aplicación la Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria.

@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en el BOE núm. 130, de 1 de junio de 2005. Ref. BOE-A-2005-8987
+Norma derogada por la disposición derogatoria única del Real Decreto 557/2011, de 20 de abril. Ref. BOE-A-2011-7703. No obstante, según establece la citada disposición, las previsiones relativas al régimen de internamiento de los extranjeros permanecerán vigentes hasta la fecha de entrada en vigor del Reglamento previsto en la disposición adicional tercera de la Ley Orgánica 2/2009. Ref. BOE-A-2009-19949.

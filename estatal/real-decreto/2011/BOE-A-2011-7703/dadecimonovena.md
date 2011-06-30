@@ -1,0 +1,3 @@
+## Disposición adicional decimonovena. Entidades acreditadas para impartir formación a reconocer en los informes sobre esfuerzo de integración.
+
+La Secretaría de Estado de Inmigración y Emigración impulsará la adopción de mecanismos de colaboración y cooperación relativos a las condiciones de solvencia técnica, material y financiera a acreditar por entidades privadas que desarrollen actuaciones de formación, en orden a su reconocimiento en informes sobre el esfuerzo de integración del extranjero a emitir por las Comunidades Autónomas y que podrán ser presentados en los procedimientos relativos a la renovación de autorizaciones de residencia temporal o de residencia temporal y trabajo.

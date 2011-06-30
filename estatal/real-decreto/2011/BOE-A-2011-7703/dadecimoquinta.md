@@ -1,0 +1,5 @@
+## Disposición adicional decimoquinta. Cobertura de puestos de confianza.
+
+A los efectos del artículo 40.2.a) de la Ley Orgánica 4/2000, de 11 de enero, se considera que ocupan puestos de confianza aquellos trabajadores que desempeñen únicamente actividades propias de alta dirección por cuenta de la empresa que los contrate, basadas en la recíproca confianza y que ejerzan legalmente la representación de la empresa o tengan extendido a su favor un poder general.
+
+Asimismo, tendrán la misma consideración los trabajadores altamente cualificados que tengan conocimiento esencial para la realización de la inversión y sean especialistas o desempeñen funciones relacionadas con la dirección, gestión y administración necesarias para el establecimiento, desarrollo o liquidación de la citada inversión. Estos trabajadores deben poseer acreditada experiencia en la realización de dichas funciones o haber realizado trabajos en puestos similares en la empresa inversora o en el grupo de empresas en el que puede estar integrada esta última.
