@@ -8,4 +8,6 @@
 
 4. Los acuerdos de garantía financiera no se verán limitados, restringidos o afectados en cualquier forma por la apertura de un procedimiento concursal o de liquidación administrativa, y podrán ejecutarse, inmediatamente, de forma separada, de acuerdo con lo pactado entre las partes y lo previsto en esta sección.
 
-5. No obstante lo dispuesto en la Ley 22/2003, de 9 de julio, Concursal, sólo podrán anularse acuerdos de garantías financieras o la aportación de estas, formalizados o aportadas en un período anterior a la apertura de un procedimiento concursal o de liquidación administrativa, cuando la autoridad administrativa o judicial competente resolviera que el acuerdo de garantías financieras o la aportación de estas se han realizado en perjuicio de acreedores.
+5. Los acuerdos de garantías financieras o la aportación de estas, formalizados o aportadas, anteriores a la apertura de un procedimiento concursal o de liquidación administrativa sólo podrán rescindirse o impugnarse al amparo de lo previsto en el artículo 71 de la Ley 22/2003, de 9 de julio, Concursal, por la administración concursal, que tendrá que demostrar que se han realizado en fraude de acreedores.
+
+> Se modifica el apartado 5 por el art. 2.11 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.

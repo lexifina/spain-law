@@ -11,3 +11,7 @@ b) Los requisitos para perfeccionar un acuerdo de garantía financiera, así com
 c) El rango del título o derecho de una persona sobre la garantía, en relación con otros títulos o derechos reivindicados o si ha tenido lugar una adquisición de buena fe.
 
 d) El procedimiento para la realización de la garantía tras un supuesto de ejecución.
+
+3. Cuando el objeto de garantía sean derechos de crédito, la ley aplicable a la eficacia frente al deudor o frente a terceros de la cesión o de la prenda será la que rige el crédito cedido o pignorado.
+
+> Se añade el apartado 3 por el art. 2.14 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.

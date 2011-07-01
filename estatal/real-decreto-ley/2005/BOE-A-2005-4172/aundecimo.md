@@ -1,6 +1,6 @@
 ## Artículo undécimo. Ejecución de las garantías.
 
-1. Se considera como supuesto de ejecución un incumplimiento de obligaciones o cualquier hecho pactado entre las partes que en caso de producirse permita al beneficiario de la garantía, en virtud del acuerdo de garantía o de la ley, realizar o apropiarse del objeto de dicha garantía; o produce la aplicación de una cláusula de liquidación por compensación exigible anticipadamente, si tal cláusula estuviera prevista por el acuerdo de garantía.
+1. Se considera como supuesto de ejecución un incumplimiento de obligaciones o cualquier hecho pactado entre las partes que en caso de producirse permita al beneficiario de la garantía, en virtud del acuerdo de garantía o de la ley, realizar o apropiarse del objeto de dicha garantía; o que produce la aplicación de una cláusula de liquidación por compensación exigible anticipadamente si tal cláusula estuviera prevista por el acuerdo de garantía.
 
 A los efectos de lo dispuesto en el párrafo anterior, se considerará como cláusula de liquidación por compensación exigible anticipadamente aquella con arreglo a la cual, al producirse un supuesto de ejecución del contrato, tienen lugar los siguientes efectos:
 
@@ -14,12 +14,16 @@ a) Si se trata de valores negociables u otros instrumentos financieros, mediante
 
 b) Si se trata de efectivo, mediante compensación de su importe o utilizándolo para ejecutar las obligaciones financieras principales.
 
-3. La apropiación sólo será posible cuando:
+c) Si se trata de derechos de crédito, mediante venta o apropiación y mediante compensación de su valor o aplicación del mismo al cumplimiento de las obligaciones financieras principales.
+
+3. La apropiación será posible cuando:
 
 a) Se haya previsto entre las partes en el acuerdo de garantía financiera, y
 
-b) Las partes hayan previsto en el acuerdo de garantía las modalidades de valoración de los valores negociables.
+b) Las partes hayan previsto en el acuerdo de garantía las modalidades de valoración de los valores negociables u otros instrumentos financieros y los derechos de crédito.
 
-4. La ejecución de una garantía se hará de conformidad con lo previsto en el acuerdo de garantía financiera correspondiente, sin que pueda supeditarse, salvo pacto en contrario, a ninguna exigencia de notificación previa, ni a su aprobación por un tribunal, un funcionario público u otra persona, ni a que deba efectuarse mediante subasta pública o de cualquier otro modo regulado normativamente, ni que deba subordinarse al cumplimiento de cualquier plazo adicional.
+La ejecución de una garantía se hará de conformidad con lo previsto en el acuerdo de garantía financiera correspondiente, sin que, no obstante las condiciones acordadas en el acuerdo de garantía financiera, pueda supeditarse a ninguna exigencia de notificación previa, ni a su aprobación por un tribunal, un funcionario público u otra persona, ni a que deba efectuarse mediante subasta pública o de cualquier otro modo regulado normativamente, ni que deba subordinarse al cumplimiento de cualquier plazo adicional.
 
-5. En los supuestos de disposición del objeto de la garantía regulados en el artículo noveno, cuando se produzca un supuesto de ejecución mientras esté pendiente una obligación de aportar el objeto equivalente, dicha obligación podrá ser extinguida mediante su inclusión en una cláusula de liquidación por compensación exigible anticipadamente.
+4. En los supuestos de disposición del objeto de la garantía regulados en el artículo noveno, cuando se produzca un supuesto de ejecución mientras esté pendiente una obligación de aportar el objeto equivalente, dicha obligación podrá ser extinguida mediante su inclusión en una cláusula de liquidación por compensación exigible anticipadamente.
+
+> Se modifican los apartados 1 a 4 y se suprime el 5 por el art. 2.10 y 11 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
