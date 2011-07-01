@@ -1,0 +1,1 @@
+El Reino de España y Georgia, deseando fomentar y reforzar las relaciones económicas, culturales y científicas mediante la conclusión de un Convenio para evitar la doble imposición en materia de impuestos sobre la renta y sobre el patrimonio, han acordado lo siguiente:
