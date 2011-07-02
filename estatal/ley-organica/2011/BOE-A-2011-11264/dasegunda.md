@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Remanente de la Jefatura Central de Tráfico.
+
+Una vez cumplida la afectación a que se refiere la disposición adicional tercera de la Ley 18/2009, de 23 de noviembre, por la que se modifica el Texto Articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, de que los ingresos por sanciones económicas se destinen en su totalidad a seguridad vial, lo que supone un gasto mínimo en cada ejercicio por el importe de dichos ingresos, el remanente de la Jefatura Central de Tráfico a 31 de diciembre de 2010, así como el que se produzca al final de cada ejercicio, podrá generar crédito en el Presupuesto del Ministerio del Interior, previo ingreso en el Tesoro Público, por Acuerdo de la Ministra de Economía y Hacienda.
