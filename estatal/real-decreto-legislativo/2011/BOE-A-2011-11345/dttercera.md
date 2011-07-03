@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Licenciados, Ingenieros, Profesores Mercantiles, Arquitectos o Diplomados universitarios.
+
+Quienes a la fecha de entrada en vigor de la Ley 12/2010, de 30 de junio, por la que se modifica la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, posean los títulos de Licenciado, Ingeniero, Profesor Mercantil, Arquitecto o Diplomado universitario conservarán el derecho de dispensa en el examen de aptitud profesional, en aquellas materias que hayan superado en los estudios requeridos para la obtención de dichos títulos, en los términos establecidos mediante Resolución del Instituto de Contabilidad y Auditoría de Cuentas.

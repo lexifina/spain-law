@@ -1,3 +1,5 @@
 ## Disposición adicional decimocuarta. Transparencia en la remuneración de auditores.
 
-Los auditores de cuentas deben comunicar al Instituto de Contabilidad y Auditoría de Cuentas anualmente las horas y honorarios facturados a cada cliente, distinguiendo las que corresponden a auditoría de cuentas y otros servicios prestados, así como cualquier otra información que precise el Instituto de Contabilidad y Auditoría de Cuentas para el ejercicio de sus funciones. El importe de estos honorarios anteriormente mencionados será público, y se informará específicamente en la memoria de las cuentas anuales, desglosando las abonadas a los auditores de cuentas, así como las abonadas a cualquier sociedad del mismo grupo de sociedades a que perteneciese el auditor de cuentas, o a cualquier otra sociedad con la que el auditor esté vinculado por propiedad común, gestión o control.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.8 del Real Decreto Legislativo 1/2011, de 1 de julio. Ref. BOE-A-2011-11345.
