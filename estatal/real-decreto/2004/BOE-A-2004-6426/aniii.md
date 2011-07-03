@@ -30,4 +30,8 @@ Asimismo, se incluirán en este tipo las explotaciones que no pertenezcan a ning
 
 2.11 Establecimientos de transformación autorizados para el sacrificio de animales de la acuicultura a efectos de control de enfermedades, así como centros de recogida y centros de depuración, de expedición o centros similares de moluscos.
 
+3. La clasificación de las explotaciones equinas se regirá por lo dispuesto en la normativa básica en materia de ordenación zootécnica y sanitaria de dicho sector.
+
+> Se añade el apartado 3 por la disposición final 1.2 del Real Decreto 804/2011, de 10 de junio. Ref. BOE-A-2011-11344.
+
 > Se añade el apartado 2.11 por la disposición final 3 del Real Decreto 1614/2008, de 3 de octubre. Ref. BOE-A-2008-16090

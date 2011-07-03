@@ -76,6 +76,8 @@ Granja de cría en libertad.
 
 19. Información sanitaria relativa a las restricciones de entrada y salida que afecten a la especie considerada dentro de la explotación, con indicación de sus causas.
 
-La información de los apartados 5, 6, 8, 9, 10, 11, 15, 17 y 18 se recogerá siempre que proceda, de acuerdo con las disposiciones normativas aplicables de carácter sectorial y/o sanitaria.
+La información de los apartados 5, 6, 8, 9, 10, 11, 15, 17 y 18 se recogerá siempre que proceda, de acuerdo con las disposiciones normativas aplicables de carácter sectorial y/o sanitaria. En ningún caso se recogerá para las explotaciones equinas la información de los apartados 10 y 11, sin perjuicio de lo previsto en su normativa específica respecto de la entrega de los DIE por los mataderos que sacrifiquen caballos para consumo humano.
+
+> Se modifica el último párrafo del apartado B por la disposición final 1.3 del Real Decreto 804/2011, de 10 de junio. Ref. BOE-A-2011-11344.
 
 > Se modifica el apartado B.11 por la disposición final 1 del Real Decreto 1084/2005, de 16 de septiembre. Ref. BOE-A-2005-16092

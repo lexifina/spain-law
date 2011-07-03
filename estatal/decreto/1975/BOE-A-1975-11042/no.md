@@ -1,0 +1,1 @@
+Esta norma queda derogada en lo relativo a núcleos zoológicos que alberguen équidos, según establece la disposición derogatoria única b) del Real Decreto 804/2011, de 10 de junio. Ref. BOE-A-2011-11344#ddunica.
