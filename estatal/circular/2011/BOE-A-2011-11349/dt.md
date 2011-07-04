@@ -1,0 +1,3 @@
+## Disposición transitoria.
+
+Los depósitos a plazo constituidos antes del 15 de julio de 2011 y los depósitos a la vista constituidos con anterioridad a la entrada en vigor de la presente Circular que se liquiden (real o teóricamente) en el primer período de declaración que finaliza el 14 de octubre de 2011, cuya remuneración exceda del correspondiente tipo de interés publicado por el Banco de España en julio de 2011, no deberán incluirse en el estado anejo correspondiente a dicho período trimestral. Consiguientemente, los saldos de los depósitos a la vista no quedarán sujetos al eventual pago de contribuciones adicionales en dicha declaración, pero sí en los siguientes períodos trimestrales.
