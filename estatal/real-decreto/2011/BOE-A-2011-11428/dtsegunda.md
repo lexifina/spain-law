@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Criterios de flexibilización temporales en materia de recursos humanos.
+
+Hasta el 31 de diciembre de 2014, en aquellas comunidades autónomas en las que no se puedan alcanzar los ratios básicos establecidos en el artículo 4, la autoridad sanitaria autonómica podrá habilitar criterios de flexibilización en materia de recursos humanos que permitan garantizar la calidad de la actividad sanitaria de los servicios de prevención siempre que la especialidad de medicina y enfermería del trabajo este incluida en el Catálogo de Ocupaciones de difícil cobertura publicado por el Ministerio de Trabajo e Inmigración como puestos de difícil cobertura.
