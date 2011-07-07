@@ -1,0 +1,3 @@
+## Disposición adicional novena. Aplicación de la Ley al Ministerio Fiscal.
+
+Las referencias contenidas en el texto y articulado de la presente Ley a las oficinas judiciales, actividad judicial, juzgados y tribunales, sede judicial electrónica, órganos judiciales, expediente judicial electrónico, documento judicial electrónico, registro judicial electrónico y procedimiento judicial, serán de aplicación equivalente y se entenderán referidas igualmente a las oficinas fiscales, actividad fiscal, fiscalías, sedes fiscales electrónicas, expedientes fiscales electrónicos, registros fiscales electrónicos y procedimientos de cualquier tipo que se realicen y tramiten por el Ministerio Fiscal.

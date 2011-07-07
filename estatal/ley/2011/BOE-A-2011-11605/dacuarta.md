@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Accesibilidad a los servicios electrónicos.
+
+Las Administraciones con competencias en materia de justicia garantizarán que todos los ciudadanos, con especial atención a las personas mayores o con algún tipo de discapacidad, que se relacionan con la Administración de Justicia puedan acceder a los servicios electrónicos en igualdad de condiciones con independencia de sus circunstancias personales, medios o conocimientos. Las características de los medios que permitan la universalización del acceso a los servicios electrónicos serán desarrolladas reglamentariamente por el Gobierno, mediante Real Decreto, previo informe de las Comunidades Autónomas con competencias en la materia.
