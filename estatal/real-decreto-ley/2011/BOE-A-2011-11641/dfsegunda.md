@@ -1,0 +1,3 @@
+## Disposición final segunda. Datos del catastro.
+
+Lo dispuesto en el Capítulo V de este Real Decreto-ley se entiende sin perjuicio de lo previsto en la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social y en el texto refundido de la Ley del Catastro Inmobiliario, aprobado por el Real Decreto Legislativo 1/2004, de 5 de marzo, en particular en lo que se refiere a la utilización de la referencia catastral, la incorporación de la certificación catastral descriptiva y gráfica y las obligaciones de comunicación, colaboración y suministro de información previstas por la normativa catastral.

@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Informatización de registros en las Comunidades Autónomas y en las Entidades Locales.
+
+Las Comunidades Autónomas y las Entidades integradas en la Administración Local, en las que los registros no se encuentren plenamente incorporados a soporte informático en los términos del artículo 38.3 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, deberán aprobar y hacer públicos los programas y calendarios de trabajo precisos para ello, atendiendo a las respectivas previsiones presupuestarias, en el plazo de seis meses desde la entrada en vigor del presente Real Decreto-ley.

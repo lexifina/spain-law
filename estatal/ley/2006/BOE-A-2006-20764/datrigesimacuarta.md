@@ -1,0 +1,47 @@
+## Disposición adicional trigésima cuarta. Medidas para favorecer la capitalización de empresas de nueva o reciente creación.
+
+1. Estarán exentas las ganancias patrimoniales derivadas de la transmisión de acciones o participaciones en empresas de nueva o reciente creación que cumplan los requisitos establecidos en el apartado 2 siguiente, cuyo valor total de adquisición no exceda, para el conjunto de entidades, de 25.000 euros anuales, ni de 75.000 euros por entidad durante todo el período de tres años a que se refiere la letra a) del apartado 3 siguiente, siempre que se cumplan las condiciones y requisitos establecidos en esta disposición adicional.
+
+2. A los efectos de poder aplicar la exención prevista en el apartado anterior, la entidad deberá cumplir los siguientes requisitos:
+
+a) Deberá revestir la forma de Sociedad Anónima, Sociedad de Responsabilidad Limitada, Sociedad Anónima Laboral o Sociedad de Responsabilidad Limitada Laboral, en los términos previstos en el texto refundido de la Ley de Sociedades de Capital, aprobada por el Real Decreto Legislativo 1/2010, de 2 de julio y en la Ley 4/1997, de 24 de marzo, de Sociedades Laborales.
+
+b) No estar admitida a cotización en alguno de los mercados regulados de valores definidos en la Directiva 2004/39/CE del Parlamento Europeo y del Consejo de 21 de abril de 2004 relativa a los mercados de instrumentos financieros, y representativos de la participación en fondos propios de sociedades o entidades.
+
+c) La entidad debe desarrollar una actividad económica. En particular, no podrá tener por actividad principal la gestión de un patrimonio mobiliario o inmobiliario a que se refiere el artículo 4.8.Dos.a) de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio, en ninguno de los períodos impositivos de la entidad concluidos con anterioridad a la transmisión de la participación.
+
+d) Que para la ordenación de la actividad económica se utilice, al menos, una persona empleada con contrato laboral y a jornada completa.
+
+e) El importe de la cifra de los fondos propios de la entidad no podrá ser superior a 200.000 euros en los períodos impositivos de la misma en los que el contribuyente adquiera las acciones o participaciones.
+
+Cuando la entidad forme parte de un grupo de sociedades en el sentido del artículo 42 del Código de Comercio, con independencia de la residencia y de la obligación de formular cuentas anuales consolidadas, el importe de los fondos propios se referirá al conjunto de entidades pertenecientes a dicho grupo.
+
+f) Que la entidad no tenga ninguna relación laboral ni mercantil, al margen de la condición de socio, con el contribuyente.
+
+Los requisitos establecidos en este apartado, excepto el previsto en la letra e) anterior, deberán cumplirse por la entidad durante todos los años de tenencia de la acción o participación.
+
+3. A efectos de aplicar lo dispuesto en el apartado 1 anterior deberán cumplirse las siguientes condiciones:
+
+a) Las acciones o participaciones en la entidad deberán adquirirse por el contribuyente a partir de la entrada en vigor del Real Decreto-ley 8/2011, de 1 de julio, bien en el momento de la constitución de aquélla o mediante ampliación de capital efectuada en los tres años siguientes a dicha constitución, contados de fecha a fecha, aun cuando se trate de entidades ya constituidas con anterioridad a la entrada en vigor del Real Decreto-ley 8/2011.
+
+b) La participación del contribuyente, junto con la que posean en la misma entidad su cónyuge o cualquier persona unida al contribuyente por parentesco, en línea recta o colateral, por consanguinidad o afinidad, hasta el tercer grado incluido, no puede ser, durante ningún día de los años naturales de tenencia de la participación, superior al 40 por ciento del capital social de la entidad o de sus derechos de voto.
+
+c) Que el tiempo de permanencia de la acción o participación en el patrimonio del contribuyente sea superior a tres años e inferior a diez años, contados de fecha a fecha.
+
+4. En ningún caso resultará de aplicación lo dispuesto en el apartado 1 anterior en los siguientes supuestos:
+
+a) Cuando se trate de participaciones suscritas por el contribuyente con el saldo de la cuenta ahorro-empresa. Dichas participaciones no se tendrán en cuenta para el cálculo del porcentaje de participación a que se refiere la letra b) del apartado 3 anterior.
+
+b) Cuando se trate de acciones o participaciones en una entidad a través de la cual se ejerza la misma actividad que se venía ejerciendo anteriormente mediante otra titularidad.
+
+c) Cuando el contribuyente hubiera adquirido valores homogéneos en el año anterior o posterior a la transmisión de las acciones o participaciones. En este caso, la exención no procederá respecto de los valores que como consecuencia de dicha adquisición permanezcan en el patrimonio del contribuyente.
+
+d) Cuando las acciones o participaciones se transmitan a una entidad vinculada con el contribuyente, su cónyuge, cualquier persona unida al contribuyente por parentesco, en línea recta o colateral, por consanguinidad o afinidad, hasta el tercer grado incluido, o un residente en país o territorio considerado como paraíso fiscal.
+
+5. La entidad a que se refiere el apartado 2 anterior deberá presentar una declaración informativa con el contenido que reglamentariamente se establezca en relación con el cumplimiento de los requisitos exigidos a la entidad, la identificación de sus accionistas o partícipes, porcentaje y período de tenencia de la participación.
+
+El Ministro de Economía y Hacienda establecerá el modelo, así como el plazo y forma de presentación de la declaración informativa a que se refiere este apartado.
+
+> Se añade por el art. 14.2 del Real Decreto-ley 8/2011, de 1 de julio. Ref. BOE-A-2011-11641.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 167, de 13 de julio de 2011. Ref. BOE-A-2011-12067.
