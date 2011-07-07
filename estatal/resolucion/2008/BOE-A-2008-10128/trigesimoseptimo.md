@@ -1,6 +1,6 @@
 ## Trigésimo séptimo.
 
-En los expedientes de prestaciones económicas y otros expedientes relacionados con las mismas, gestionados por las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1.g) del presente acuerdo serán los siguientes.
+En los expedientes de prestaciones económicas y otros expedientes relacionados con las mismas, gestionados por las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1.g) del presente Acuerdo serán los siguientes:
 
 I. Requisitos comunes:
 
@@ -60,13 +60,9 @@ b) Que se acredita el período de antigüedad en la empresa exigido por la norma
 
 c) Que se acredita que el solicitante procede de un trabajo a tiempo completo y que se ha reducido la jornada de trabajo en un porcentaje comprendido dentro de los límites previstos en la normativa de aplicación.
 
-1.2.B.3.3 Jubilación parcial sujeta al régimen establecido en el apartado 5 de la Disposición transitoria decimoséptima del Texto refundido de la Ley General de la Seguridad Social: Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo y los comunes a las distintas modalidades de pensión de jubilación.
-
 1.2.B.4 Jubilación total procedente de una parcial:
 
-a) Que se acredita la extinción de la relación laboral a tiempo parcial.
-
-b) En los supuestos de jubilación anticipada, que se acreditan los extremos establecidos en este Acuerdo para la modalidad de la que se trate.
+En los supuestos de jubilación anticipada, que se acreditan los extremos establecidos en este Acuerdo para la modalidad de la que se trate.
 
 1.2.B.5 Jubilación especial a los sesenta y cuatro años:
 
@@ -102,15 +98,15 @@ Que existen hijos comunes, o que el matrimonio se ha celebrado con la antelació
 
 1.3.B.1.2 Pensión de viudedad solicitada por el cónyuge en los supuestos de separación o por el ex-cónyuge en los supuestos de divorcio o nulidad matrimonial:
 
-a) Que no se hubiese contraído nuevas nupcias o se hubiera constituido una pareja de hecho en los términos del artículo 174.3 del texto refundido de la Ley General de la Seguridad Social.
+a) Que no se hubiese contraído nuevas nupcias o se hubiera constituido una pareja de hecho en los términos del artículo 174.3 del Texto Refundido de la Ley General de la Seguridad Social.
 
-b) Que en el momento del fallecimiento se es acreedor de la pensión compensatoria establecida en la legislación civil para los supuestos de separación o divorcio y que ésta se ve extinguida, o que se haya reconocido la indemnización establecida para los supuestos de nulidad matrimonial.
+b) Que en el momento del fallecimiento se es acreedor de la pensión compensatoria establecida en la legislación civil para los supuestos de separación o divorcio y que ésta se ve extinguida, o que se haya reconocido la indemnización establecida para los supuestos de nulidad matrimonial. La condición de ser acreedor de la pensión compensatoria no se exigirá en los supuestos en los que se acredite la condición de víctima de violencia de género, en los términos establecidos en el artículo 174.2 del Texto Refundido de la Ley General de la Seguridad Social, ni en los supuestos contemplados en la disposición transitoria decimoctava del mismo texto legal, siempre que se cumplan las condiciones establecidas en dicha disposición.
 
 c) En el supuesto especial de fallecimiento por enfermedad común sobrevenida con anterioridad al matrimonio, además deberá verificarse el requisito contenido en el apartado 1.3.B.1.1 anterior.
 
 1.3.B.1.3 Pensión de viudedad solicitada por la pareja de hecho:
 
-a) Que se acredita la constitución de una pareja de hecho en los términos establecidos, a los efectos de esta prestación, en el artículo 174.3 del texto refundido de la Ley General de la Seguridad Social.
+a) Que se acredita la constitución de una pareja de hecho en los términos establecidos, a los efectos de esta prestación, en el artículo 174.3 del Texto Refundido de la Ley General de la Seguridad Social.
 
 b) Que los ingresos del solicitante no superen el límite establecido en la normativa.
 
@@ -136,7 +132,9 @@ b) Madre y abuelas: Que se acredita el estado civil previsto en la normativa y, 
 
 c) Padre y abuelos: Que alcanzan la edad reglamentaria o se hallan incapacitados para el trabajo en el grado exigido por la normativa de aplicación.
 
-d) Hijos y hermanos de pensionistas de jubilación o incapacidad permanente en su modalidad contributiva: Que se acreditan la edad y el estado civil exigidos por la normativa de aplicación.
+d) Hijos y hermanos de pensionistas de jubilación o incapacidad permanente en su modalidad contributiva:
+
+Que se acreditan la edad y el estado civil exigidos por la normativa de aplicación.
 
 2. Expedientes de reconocimiento inicial de subsidios o asignaciones mensuales.
 
@@ -148,7 +146,7 @@ b) Que se acredita el período mínimo de cotización exigido por la normativa d
 
 c) Que la contingencia está asegurada con la Entidad gestora correspondiente.
 
-d) Que se aporta parte médico de baja. En los casos procedentes de pago delegado, que se aporta el parte de confirmación siguiente al último abonado por la empresa.
+d) Que se aporta parte médico de baja. En los casos procedentes de pago delegado, que se aporta el parte de confirmación siguiente al último abonado por la empresa en los supuestos en que sea exigible, según la normativa de aplicación, o que existe la resolución correspondiente en aquellos casos en que proceda.
 
 e) En los supuestos en que resulte exigible, que el trabajador se encuentra prestando servicios por cuenta ajena en la fecha en la que se ha iniciado la enfermedad común o se ha producido el accidente no laboral.
 
@@ -166,7 +164,7 @@ B) Requisitos específicos para cada modalidad de maternidad.
 
 2.2.B.1 Maternidad en el supuesto de parto:
 
-a) Que se acredita el inicio del período de descanso como consecuencia de nacimiento de hijo mediante el informe de maternidad cumplimentado en los términos establecidos en la normativa de aplicación.
+a) Que se acredita el inicio del período de descanso mediante la documentación que sea procedente.
 
 b) En los supuestos en los que el beneficiario sea el otro progenitor, que se acredita su derecho aportando el libro de familia o certificado de la inscripción del nacimiento en el Registro Civil y, según proceda, el documento de opción ejercida por la madre, el documento en el que conste que la madre no tiene derecho a la suspensión de su actividad profesional, o el certificado de defunción en caso de fallecimiento de la misma.
 
@@ -180,13 +178,13 @@ c) En el supuesto de acogimiento simple, que se acredita que su duración se aju
 
 2.3 Prestación por paternidad:
 
-a) Requisitos comunes para todas las modalidades de paternidad.
+A) Requisitos comunes para todas las modalidades de paternidad.
 
 a) Que el beneficiario está afiliado y en alta o situación asimilada al alta.
 
 b) Que el beneficiario reúne el período mínimo de cotización exigido en la normativa de aplicación.
 
-b) Requisitos específicos para cada modalidad de paternidad.
+B) Requisitos específicos para cada modalidad de paternidad.
 
 2.3.B.1 Paternidad en el supuesto de parto:
 
@@ -254,9 +252,23 @@ d) En los supuestos en los que resulte exigible, que se acredita la convivencia 
 
 e) Que no se supera el límite de ingresos anuales para tener derecho a la prestación, en su caso.
 
+2.8 Cuidado de menores afectados por cáncer u otra enfermedad grave:
+
+a) Cuando existan dos progenitores, adoptantes o acogedores de carácter preadoptivo o permanente, acreditar que ambos trabajan.
+
+b) Que el beneficiario figura afiliado y en alta y que reúne el periodo mínimo de cotización exigido en la normativa de aplicación.
+
+c) Que se acredita que el menor se encuentra afectado por cáncer o por cualquier otra enfermedad grave, conforme se establece en la normativa de aplicación.
+
+d) Que se acredita el ingreso hospitalario de larga duración del menor y la necesidad de tratamiento continuado de la enfermedad mediante informe emitido por el Servicio Público de Salud u órgano administrativo sanitario de la Comunidad Autónoma correspondiente.
+
+e) Que se acredita que la contingencia está asegurada con la Entidad gestora correspondiente.
+
+f) Que el beneficiario acredita una reducción de jornada acorde con la exigida en la normativa de aplicación.
+
 3. Expedientes de reconocimiento de prestaciones de pago único.
 
-3.1 Auxilio por defunción. Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
+3.1 Auxilio por defunción. Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente Acuerdo.
 
 3.2 Indemnización especial a tanto alzado, derivada de muerte por accidente de trabajo o enfermedad profesional:
 
@@ -342,65 +354,31 @@ b) Que se acredita que se ha realizado el traslado del cadáver del tripulante a
 
 c) Que se acredita que los gastos de traslado han sido por cuenta del solicitante.
 
-5. Expedientes de reconocimiento de prestaciones por desempleo.
+5. Otros supuestos.
 
-5.1 Prestación por desempleo:
+5.1 Prestaciones devengadas y no percibidas: Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente Acuerdo.
 
-a) Que el causante está afiliado y en alta o situación asimilada a la de alta.
-
-b) Que se acredita la situación legal de desempleo.
-
-c) Que se acredita el período mínimo de cotización exigible.
-
-5.2 Subsidio por desempleo:
-
-a) Que se mantiene la situación de demanda de empleo durante un mes sin rechazar oferta de trabajo, en los casos en que dicho requisito sea exigido por la normativa vigente.
-
-b) Que se acreditan la carencia de rentas y las cargas familiares, de acuerdo con lo dispuesto en la normativa vigente.
-
-c) Que se acredita la situación que da lugar al subsidio de desempleo.
-
-5.3 Reanudación de prestaciones y subsidios por desempleo:
-
-a) Que se acredita la desaparición de la causa de suspensión.
-
-b) Que se mantiene la situación que supuso el reconocimiento de la prestación o subsidio suspendidos.
-
-5.4 Expedientes de reconocimiento de ayudas establecidas mediante el Real Decreto 1369/2006, de 24 de noviembre, por el que se regula el programa de renta activa de inserción para desempleados con especiales necesidades económicas y dificultad para encontrar empleo:
-
-a) Que se acredita la edad exigida por la normativa de aplicación.
-
-b) Que no se tiene derecho a la prestación o el subsidio por desempleo, o a la renta agraria.
-
-c) Que no se supera el límite de ingresos establecido en la normativa de aplicación.
-
-d) En su caso, que se acreditan los extremos previstos en el artículo 2.2 del Real Decreto 1369/2006.
-
-6. Otros supuestos.
-
-6.1 Prestaciones devengadas y no percibidas: Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
-
-6.2 Formalización de la colaboración obligatoria y voluntaria por incapacidad temporal. Prestaciones de incapacidad temporal derivada de colaboración obligatoria y voluntaria.
+5.2 Formalización de la colaboración obligatoria y voluntaria por incapacidad temporal. Prestaciones de incapacidad temporal derivada de colaboración obligatoria y voluntaria.
 
 Que se aporta certificación expedida por el órgano competente en materia de gestión contable acreditando el importe de la deducción mensual practicada por las empresas en los boletines de cotización.
 
-6.3 Recargos por falta de medidas de seguridad e higiene en el trabajo.
+5.3 Recargos por falta de medidas de seguridad e higiene en el trabajo.
 
 Que existe comunicación de la Tesorería General de la Seguridad Social acreditando el ingreso del recargo por parte de la empresa responsable o, en su caso, la concesión del aplazamiento de la deuda.
 
-6.4 Reintegros a Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de los gastos derivados de las prestaciones por accidentes de trabajo, anticipadas por éstas, cuando la empresa responsable del pago es insolvente.
+5.4 Reintegros a Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de los gastos derivados de las prestaciones por accidentes de trabajo, anticipadas por éstas, cuando la empresa responsable del pago es insolvente.
 
 Que se aporta resolución administrativa o judicial declarando la insolvencia de la empresa responsable.
 
-6.5 Ayudas previas a la jubilación ordinaria:
+5.5 Ayudas previas a la jubilación ordinaria:
 
 a) Que se aporta resolución de la Tesorería General de la Seguridad Social en la que se acredita el ingreso de las aportaciones establecidas en el expediente de ayudas previas a la jubilación ordinaria.
 
 b) Que el solicitante de la ayuda previa a la jubilación ordinaria se encuentra incluido en el expediente aprobado por la Dirección General de Trabajo o, en su caso, por el órgano correspondiente de la Comunidad Autónoma.
 
-7. Nóminas de prestaciones económicas.
+6. Nóminas de prestaciones económicas.
 
-7.1 Nóminas de pago periódico de pensiones:
+6.1 Nóminas de pago periódico de pensiones:
 
 a) Que se acompaña resumen numérico mensual de movimientos, por cada régimen y prestación, con la siguiente información.
 
@@ -420,6 +398,8 @@ Importe íntegro de la nómina del mes actual.
 
 b) Que se aporta por cada régimen y prestación relación nominal de las altas, bajas, traslados y variaciones con indicación del número de expediente y causa de las mismas.
 
-7.2 Resto de nóminas correspondientes a expedientes de prestaciones económicas. Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
+6.2 Resto de nóminas correspondientes a expedientes de prestaciones económicas. Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente Acuerdo.
 
-8. El resto de las obligaciones reflejadas en las nóminas, así como los actos que las generen, se incluirán en el ámbito de las actuaciones propias del control financiero permanente.
+7. El resto de las obligaciones reflejadas en las nóminas, así como los actos que las generen, se incluirán en el ámbito de las actuaciones propias del control financiero permanente.
+
+> Se modifica por el apartado 16 del acuerdo publicado por Resolución de 4 de julio de 2011. Ref. BOE-A-2011-11643.

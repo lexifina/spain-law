@@ -22,6 +22,8 @@ f) La existencia de autorización del titular del departamento ministerial en lo
 
 g) Aquellos extremos adicionales que, atendiendo a la naturaleza de los distintos actos, documentos o expedientes, se contienen en el presente Acuerdo.
 
-2. En los expedientes en que, de conformidad con el presente Acuerdo, deba verificarse la existencia de dictamen del Consejo de Estado, se comprobarán, con anterioridad al mismo, los extremos contemplados en los correspondientes apartados de este Acuerdo y, con posterioridad a su emisión, únicamente se constatará su existencia material y carácter favorable, en cumplimiento del artículo 13.1 del Real Decreto 2188/1995, de 28 de diciembre y del Real Decreto 706/1997, de 16 de mayo.
+2. En los expedientes en que, de conformidad con el presente Acuerdo, deba verificarse la existencia de dictamen del Consejo de Estado, se comprobarán, con anterioridad al mismo, los extremos contemplados en los correspondientes apartados de este Acuerdo y, con posterioridad a su emisión, únicamente se constatará su existencia material y carácter favorable, en cumplimiento del artículo 13.1 del Real Decreto 2188/1995, de 28 de diciembre, y del Real Decreto 706/1997, de 16 de mayo.
 
 3. Cuando de los informes preceptivos a los que se hace referencia en los diferentes apartados de este Acuerdo se dedujera que se han omitido requisitos o trámites que sean esenciales o que la continuación de la gestión administrativa pudiera causar quebrantos económicos al Tesoro Público, a la Seguridad Social o a un tercero, se procederá al examen exhaustivo del documento o documentos objeto del informe y si, a juicio del Interventor, se dan las mencionadas circunstancias, habrá de actuar conforme a lo preceptuado en el artículo 154.1 de la Ley General Presupuestaria.
+
+> Se modifica por el apartado 1 del acuerdo publicado por Resolución de 4 de julio de 2011. Ref. BOE-A-2011-11643.

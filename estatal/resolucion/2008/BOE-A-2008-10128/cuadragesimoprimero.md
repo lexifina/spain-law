@@ -1,6 +1,6 @@
 ## Cuadragésimo primero.
 
-En los expedientes de reconocimiento del derecho a otras prestaciones, ayudas y otros gastos en el ámbito de las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1.g) del presente acuerdo serán los siguientes:
+En los expedientes de reconocimiento del derecho a otras prestaciones, ayudas y otros gastos en el ámbito de las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1.g) del presente Acuerdo serán los siguientes:
 
 1. A organizaciones sindicales y empresariales, en compensación por participación en Consejos Generales y Comisiones Ejecutivas: Que los importes a liquidar se ajustan a los establecidos en la normativa vigente.
 
@@ -46,7 +46,7 @@ b) Que se aportan los boletines de cotización del mes anterior a la baja, del m
 
 c) Que dichos trabajadores tienen cubierto el período mínimo de cotización exigible.
 
-8. Reintegro a las Comunidades Autónomas de los importes correspondientes a prestaciones sanitarias, farmacéuticas y recuperadoras derivadas de contingencias profesionales, percibidas por los afiliados con cobertura por dichas contingencias con las Entidades Gestoras: se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
+8. Reintegro a las Comunidades Autónomas de los importes correspondientes a prestaciones sanitarias, farmacéuticas y recuperadoras derivadas de contingencias profesionales, percibidas por los afiliados con cobertura por dichas contingencias con las Entidades Gestoras: se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente Acuerdo.
 
 9. Reintegro a las empresas de gastos de botiquines de primeros auxilios en caso de accidente de trabajo:
 
@@ -57,3 +57,7 @@ b) Que se aporta factura, de acuerdo con lo previsto en el Real Decreto 1496/200
 10. Expedientes correspondientes a aranceles de los Notarios y Registradores de la Propiedad.
 
 Que se aporta factura, de acuerdo con lo previsto en el Real Decreto 1496/2003, de 28 de noviembre, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación y se modifica el Reglamento del Impuesto sobre el Valor Añadido.
+
+11. Expedientes de reducción de las cotizaciones por contingencias profesionales a las empresas que hayan contribuido especialmente a la disminución y prevención de la siniestralidad laboral (aprobación del gasto): Sólo se comprobarán los requisitos generales establecidos en el apartado primero de este acuerdo.
+
+> Se modifica por el apartado 17 del acuerdo publicado por Resolución de 4 de julio de 2011. Ref. BOE-A-2011-11643.
