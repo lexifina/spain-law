@@ -53,6 +53,7 @@
 | 685 | TASA SOBRE APUESTAS Y COMBINACIONES ALEATORIAS, AUTOLIQUIDACIÓN | 0A |
 | 696 | TASA JUDICIAL | 0A |
 | 714 | (Suprimido) | (Suprimido) |
+| 763 | IMPUESTO SOBRE ACTIVIDADES DE JUEGO EN LOS SUPUESTOS DE ACTIVIDADES ANUALES O PLURIANUALES | T |
 | 777 | DECLARACIONES-LIQUIDACIONES EXTEMPORÁNEAS Y COMPLEMENTARIAS. | 0A |
 
 (1) Sólo en algunas Comunidades.
@@ -60,6 +61,8 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 763 por la disposición final 1.1 de la Orden EHA/1881/2011, de 5 de julio. Ref. BOE-A-2011-11704.
 
 > Se modifica por la disposición final 1 de la Orden EHA/1259/2011, de 28 de abril. Ref. BOE-A-2011-8627.
 
