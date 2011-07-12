@@ -1,0 +1,31 @@
+El Reglamento (CE) n.º 1935/2004, de 27 de octubre de 2004, del Parlamento Europeo y del Consejo, sobre los materiales y objetos destinados a entrar en contacto con alimentos y por el que se derogan las Directivas 80/590/CEE y 89/109/CEE, constituye el marco normativo actual aplicable a todos los materiales y objetos destinados a entrar en contacto con alimentos.
+
+El artículo 3 de este reglamento establece los requisitos generales que deben cumplir estos materiales y objetos, de manera que habrán de estar fabricados de conformidad con las buenas prácticas de fabricación para que, en las condiciones normales o previsibles de empleo, no transfieran sus componentes a los alimentos en cantidades que puedan representar un peligro para la salud humana, provocar una modificación inaceptable de la composición de los alimentos o provocar una alteración de las características organolépticas de éstos.
+
+Uno de los aspectos que incluye este reglamento es la conveniencia, por razones de carácter medioambiental, de fomentar en la Unión Europea la utilización de materiales y objetos reciclados, siempre que se establezcan requisitos estrictos para garantizar la seguridad de los alimentos y la protección del consumidor. Para ello otorga prioridad a la armonización de normas sobre materiales y objetos de plástico reciclado ya que su utilización va en aumento y las normativas y disposiciones nacionales al respecto, cuando existen, no son uniformes.
+
+Como consecuencia, se publicó el Reglamento (CE) n.º 282/2008, de 27 de marzo de 2008, de la Comisión, sobre los materiales y objetos de plástico reciclado destinados a entrar en contacto con alimentos y por el que se modifica el Reglamento (CE) n.º 2023/2006, como medida específica en el ámbito del Reglamento 1935/2004.
+
+Este Reglamento establece el procedimiento a seguir para evaluar la seguridad de los materiales y objetos de plástico reciclado, que será realizada por la Autoridad Europea de Seguridad Alimentaria (EFSA) y la autorización para su comercialización y uso. Su entrada en vigor se produjo el 17 de abril de 2008, pero hasta que EFSA no finalice todas las evaluaciones de las solicitudes recibidas en el plazo previsto en el Reglamento, que finalizó el 31 de diciembre de 2009, la Comisión Europea no podrá establecer la lista inicial de procesos autorizados.
+
+Por ello, el Reglamento estableció, en su artículo 16, que hasta que no esté disponible dicha lista, las disposiciones nacionales referentes a materiales y objetos de plástico reciclado y al plástico reciclado seguirían aplicándose en los Estados miembros. De acuerdo con este artículo, estas disposiciones nacionales únicamente podrán regular los aspectos contemplados en los artículos 3, 9, 10 y 12 del Reglamento.
+
+Hasta la entrada en vigor del Reglamento 282/2008, la regulación de esta materia en España se realizaba mediante el Real Decreto 2814/1983, de 13 de octubre, por el que se prohíbe la utilización de materiales poliméricos recuperados o regenerados que hayan de estar en contacto con los alimentos. Este real decreto establecía la prohibición de la utilización de materiales poliméricos procedentes de objetos acabados, fragmentos de objetos, semielaborados, análogos, usados o no como materias primas, solos o en mezcla con material virgen, en la fabricación o transformación de envases y objetos que hayan de entrar en contacto con productos alimenticios o alimentarios.
+
+Este real decreto quedó derogado parcialmente, en lo que respecta a los materiales plásticos, a partir del 17 de abril de 2008 al aplicarse el Reglamento 282/2008. No obstante, en el periodo transitorio que se abre desde esta fecha hasta que se disponga de la lista inicial de procesos autorizados no existe en España ningún proceso autorizado para obtener plástico reciclado que se pueda emplear en la fabricación de materiales y objetos de plástico destinados a entrar en contacto con los alimentos.
+
+Esta situación se ha dado también en otros países de nuestro entorno, que han elaborado disposiciones aplicables durante este periodo transitorio. Estas excepciones han sido concedidas a materiales fabricados con polietilentereftalato (PET) reciclado para su uso en agua mineral natural.
+
+En consecuencia, procede aplicar estas mismas condiciones a los procesos de reciclado de PET en España, siempre y cuando se garanticen una serie de condiciones sanitarias. Dado que EFSA es el organismo europeo encargado de la evaluación de estos procesos de reciclado, una condición imprescindible para poder admitir la utilización de este PET reciclado durante el periodo transitorio es que se haya presentado una solicitud válida a EFSA.
+
+Por otro lado, de acuerdo con el Tratado de la Unión Europea no es posible restringir el comercio y uso de productos legalmente fabricados en otros Estados miembros de la Unión Europea, por lo que nos encontramos con una situación de desventaja de la industria española con respecto a la europea. Por ello, procede derogar el Real Decreto 2814/1983, de 13 de octubre.
+
+Finalmente, la disposición se adopta con rango reglamentario ya que, de acuerdo con el Tribunal Constitucional, se considera que este real decreto constituye un complemento indispensable para asegurar el mínimo común denominador establecido en las normas nacionales y comunitarias que resultan de aplicación a la materia regulada.
+
+Este real decreto se ha sometido al procedimiento de información en materia de normas y reglamentaciones técnicas y de reglamentos relativos a los servicios de la sociedad de la información, previsto en la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 22 de junio, así como en el Real Decreto 1337/1999, de 31 de julio, que incorpora esta Directiva al ordenamiento jurídico español.
+
+En su tramitación han sido oídas las comunidades autónomas, los sectores afectados, las asociaciones de consumidores y ha emitido informe preceptivo la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de la Ministra de Sanidad, Política Social e Igualdad, con la aprobación previa de la Ministra de la Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 17 de junio de 2011,
+
+DISPONGO:
