@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Información a incluir en las cuentas anuales del primer ejercicio en el que se aplique la adaptación del Plan General de Contabilidad Pública a las entidades que integran el Sistema de la Seguridad Social.
+
+Las primeras cuentas anuales que se formulen aplicando la adaptación del Plan General de Contabilidad Pública a las entidades que integran el Sistema de la Seguridad Social, se deberán elaborar con los criterios establecidos en la disposición transitoria tercera, «Información a incluir en las cuentas anuales del primer ejercicio en el que se aplique el Plan General de Contabilidad Pública», de la Orden EHA/1037/2010, de 13 de abril, por la que se aprueba el Plan General de Contabilidad Pública.
