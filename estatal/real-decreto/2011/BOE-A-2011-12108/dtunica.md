@@ -1,0 +1,5 @@
+## Disposición transitoria única. Plazos de adecuación de las ADSG ya autorizadas.
+
+1. Las ADSG que se encuentren autorizadas en el momento de la entrada en vigor del presente real decreto dispondrán de un plazo máximo de seis meses para comunicar a las autoridades competentes los datos que se relacionan en el anexo I del presente real decreto siempre que no los hubieran comunicado con anterioridad o hubieran sufrido alguna modificación, a fin de transferirlos al RADSG. Dicha comunicación podrá efectuarse por medios telemáticos. Si transcurrido dicho plazo no se han transferido los citados datos a dicho Registro, se procederá a la baja automática de la agrupación en el Registro Nacional.
+
+2. Asimismo, las ADSG que se encuentren autorizadas en el momento de la entrada en vigor del presente real decreto dispondrán de un plazo máximo de seis meses para su adaptación a los requisitos previstos en este real decreto. Si transcurrido dicho plazo no se ha procedido a dicha adaptación, la autoridad competente podrá declarar extinguido su reconocimiento.
