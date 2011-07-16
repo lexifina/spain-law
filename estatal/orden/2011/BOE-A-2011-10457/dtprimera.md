@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Adecuación de los proyectos técnicos, certificaciones de fin de obra y boletines de instalación.
+
+Los proyectos técnicos, actas de replanteo, anexos, certificaciones de fin de obra, boletines de instalación y protocolos de pruebas que se presenten ante la Administración en el plazo de los seis meses siguientes a la entrada en vigor de la presente orden, podrán adaptar su contenido bien a lo dispuesto en la presente orden, bien a lo establecido en la Orden CTE/1296/2003, de 14 de mayo, por la que se desarrolla el Reglamento regulador de las infraestructuras comunes de telecomunicaciones, aprobado por el Real Decreto 401/2003, de 4 de abril.
