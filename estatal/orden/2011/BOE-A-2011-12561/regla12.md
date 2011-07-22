@@ -1,0 +1,3 @@
+## Regla 12. Organización del Sistema.
+
+Cada Organismo Autónomo del Estado, en virtud de las competencias que tiene atribuidas por el Real Decreto 2145/1985, de 23 de octubre, por el que se regulan las competencias contables en la Administración Institucional del Estado, y cada Entidad de Derecho Público, por las que le atribuya su normativa específica, organizará su Sistema de Información Contable al servicio del correcto cumplimiento del objeto y los fines establecidos para el mismo en las reglas 10 y 11, sin perjuicio de lo previsto en punto 2 de la regla 13, y de conformidad con las restantes normas contenidas en esta Instrucción y, especialmente, con las que regulan en el Título IV las cuentas anuales y el resto de información a obtener del Sistema.

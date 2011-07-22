@@ -1,0 +1,3 @@
+## Regla 38. Publicación de las cuentas anuales.
+
+La publicación en el Boletín Oficial del Estado de la información relativa a las cuentas anuales que determine la Intervención General de la Administración del Estado, de acuerdo con lo establecido en el artículo 136.4 de la Ley General Presupuestaria, se deberá efectuar en el plazo de un mes, contado desde la fecha en la que la Intervención General de la Administración del Estado presente las respectivas cuentas ante el Tribunal de Cuentas. Las entidades tendrán conocimiento de dicha fecha a través de los medios informáticos y telemáticos habilitados al efecto por la Intervención General de la Administración del Estado.

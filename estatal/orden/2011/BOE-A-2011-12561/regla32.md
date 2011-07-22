@@ -1,0 +1,3 @@
+## Regla 32. Requisitos de seguridad en los procedimientos.
+
+Los procedimientos que se regulan en las siguientes reglas de este Título se deberán ajustar a los requisitos que, para la transmisión y recepción de comunicaciones a través de medios y aplicaciones informáticas, telemáticas y electrónicas, se establecen en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal; en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común; en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos; en la vigente normativa sobre firma electrónica; así como en la normativa de desarrollo de las normas indicadas en esta regla.

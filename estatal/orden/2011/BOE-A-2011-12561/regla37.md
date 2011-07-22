@@ -1,0 +1,5 @@
+## Regla 37. Remisión de las cuentas anuales al Tribunal de Cuentas.
+
+Una vez recibido el fichero informático que se señala en el punto 1 de la regla anterior, la Intervención General de la Administración del Estado lo pondrá a disposición del Tribunal de Cuentas, junto con el fichero a que se refiere la regla 35 en que se contenga el respectivo informe de auditoría, dentro del plazo legalmente establecido y a través de los medios o el soporte que convengan entre ambas partes.
+
+Sin perjuicio de lo anterior, la Intervención General de la Administración del Estado obtendrá una copia o duplicado de los ficheros que se hubiesen recibido de cada una de las entidades, así como de los ficheros en que se contengan los respectivos informes de auditoría. Esta copia o duplicado quedará en poder de dicho Centro Directivo, tanto a efectos estadísticos como de obtención de la Cuenta General del Sector Público Administrativo que ha de formar parte de la Cuenta General del Estado, conservándose de acuerdo con las normas establecidas al respecto en esta Instrucción.
