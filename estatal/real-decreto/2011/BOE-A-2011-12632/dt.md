@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Extinción de la formación del período transitorio en Salvamento y Socorrismo en las modalidades o especialidades reguladas en el presente real decreto.
+
+1. De acuerdo con lo establecido en el apartado 1 de la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, por el que establece la ordenación general de las enseñanzas deportivas de régimen especial, el período transitorio en la modalidad de salvamento y socorrismo, según la Orden EDU/3186/2010, de 7 de diciembre, por la que se regulan los aspectos curriculares, los requisitos generales y los efectos de la formación en materia deportiva, a los que se refiere la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, se extinguirá durante el curso académico establecido en la disposición final segunda del presente real decreto.
+
+2. La extinción se producirá durante el curso académico establecido en la disposición final segunda del presente real decreto.
+
+3. Los órganos competentes en materia de deportes o, en su caso, de formación deportiva de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla establecerán el procedimiento adecuado, en el territorio de su competencia, para que quienes hubieran iniciado formaciones reguladas en la mencionada Orden ECD/3310/2002, de 16 de diciembre, en la modalidad de salvamento y socorrismo puedan completarla hasta su tercer nivel, durante los dos cursos académicos siguientes al de la implantación de las enseñanzas de este real decreto.
