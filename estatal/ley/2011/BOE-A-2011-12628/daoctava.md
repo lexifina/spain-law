@@ -1,0 +1,3 @@
+## Disposición adicional octava. Inscripción de defunción de desaparecidos durante la guerra civil y la dictadura.
+
+El expediente registral, resuelto favorablemente, será título suficiente para practicar la inscripción de la defunción de las personas desaparecidas durante la Guerra Civil y la represión política inmediatamente posterior, siempre que, de las pruebas aportadas, pueda inferirse razonablemente su fallecimiento, aunque no sean inmediatas a éste. En la valoración de las pruebas se considerará especialmente el tiempo transcurrido, las circunstancias de peligro y la existencia de indicios de persecución o violencia.
