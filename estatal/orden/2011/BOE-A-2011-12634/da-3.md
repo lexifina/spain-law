@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Tiempo de vuelo aceptable para el cumplimiento de los requisitos de experiencia exigidos para la obtención de la licencia de piloto de transporte de línea aérea.
+
+Para el cumplimiento de los requisitos de experiencia de vuelo exigidos para la obtención de la licencia de piloto de transporte de línea aérea para helicópteros de matrícula española, será aceptable el tiempo de vuelo efectuado conforme a las reglas JAR-FCL 2, de acuerdo con los procedimientos operacionales determinados por la normativa reguladora de las operaciones de transporte aéreo comercial por helicópteros civiles y en los tipos de helicópteros que figuran en el anexo III.
