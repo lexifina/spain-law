@@ -4,6 +4,8 @@
 
 Índice
 
+Abreviaturas y símbolos.
+
 Capítulo 1. Generalidades.
 
 1.1 Definiciones.
@@ -12,11 +14,11 @@ Capítulo 1. Generalidades.
 
 1.3 Sistemas de referencia comunes.
 
-Sistema de referencia horizontal.
+1.3.1 Sistema de referencia horizontal.
 
-Sistema de referencia vertical.
+1.3.2 Sistema de referencia vertical.
 
-Sistema de referencia temporal.
+1.3.3 Sistema de referencia temporal.
 
 Capítulo 2. Datos de los helipuertos.
 
@@ -36,65 +38,17 @@ Capítulo 3. Características físicas.
 
 3.1 Helipuertos de superficie.
 
-Áreas de aproximación final y de despegue.
-
-Zonas libres de obstáculos para helicópteros.
-
-Áreas de toma de contacto y de elevación inicial.
-
-Áreas de seguridad.
-
-Calles de rodaje en tierra para helicópteros.
-
-Calles de rodaje aéreo.
-
-Rutas de desplazamiento aéreo.
-
-Plataformas.
-
-Emplazamiento de un área de aproximación final y de despegue en relación con una pista o calle de rodaje.
-
 3.2 Helipuertos elevados.
-
-Área de aproximación final y de despegue y área de toma de contacto y de elevación inicial.
-
-Área de seguridad.
 
 3.3 Heliplataformas.
 
-Área de aproximación final y de despegue y área de toma de contacto y de elevación inicial.
-
 3.4 Helipuertos a bordo de buques.
-
-Área de aproximación final y de despegue y área de toma de contacto y de elevación inicial.
 
 Capítulo 4. Restricción y eliminación de obstáculos.
 
 4.1 Superficies y sectores limitadores de obstáculos.
 
-Superficie de aproximación.
-
-Superficie de transición.
-
-Superficie horizontal interna.
-
-Superficie cónica.
-
-Superficie de ascenso en el despegue.
-
-Sector/superficie despejada de obstáculos – heliplataformas.
-
-Superficie con obstáculos sujetos a restricciones – heliplataformas.
-
 4.2 Requisitos de limitación de obstáculos.
-
-Helipuertos de superficie.
-
-Helipuertos elevados.
-
-Heliplataformas.
-
-Helipuertos a bordo de buques.
 
 Capítulo 5. Ayudas visuales.
 
@@ -110,25 +64,31 @@ Capítulo 5. Ayudas visuales.
 
 5.2.3 Señal de masa máxima permisible.
 
-5.2.4 Señal o baliza de área de aproximación final y de despegue.
+5.2.4 Señal de valor D máximo permisible.
 
-5.2.5 Señal de designación de área de aproximación final y de despegue.
+5.2.5 Señal o baliza de área de aproximación final y de despegue.
 
-5.2.6 Señal de punto de visada.
+5.2.6 Señal de designación de área de aproximación final y de despegue.
 
-5.2.7 Señal de área de toma de contacto y de elevación inicial.
+5.2.7 Señal de punto de visada.
 
-5.2.8 Señal de punto de toma de contacto.
+5.2.8 Señal de área de toma de contacto y de elevación inicial.
 
-5.2.9 Señal de nombre de helipuerto.
+5.2.9 Señal de punto de toma de contacto y posicionamiento.
 
-5.2.10 Señal de sector despejado de obstáculos de heliplataforma.
+5.2.10 Señal de nombre de helipuerto.
 
-5.2.11 Señal de calle de rodaje.
+5.2.11 Señal de sector despejado de obstáculos de heliplataforma.
 
-5.2.12 Balizas de calle de rodaje aéreo.
+5.2.12 Señal de superficie de heliplataforma.
 
-5.2.13 Balizas de ruta de desplazamiento aéreo.
+5.2.13 Señal de sector de aterrizaje prohibido en la heliplataforma.
+
+5.2.14 Señal de calle de rodaje.
+
+5.2.15 Balizas de calle de rodaje aéreo.
+
+5.2.16 Balizas de ruta de desplazamiento aéreo.
 
 5.3 Luces.
 
@@ -158,17 +118,9 @@ Capítulo 5. Ayudas visuales.
 
 Capítulo 6. Servicios en los helipuertos.
 
-6.1 Salvamento y extinción de incendios
+6.1 Salvamento y extinción de incendios.
 
-Generalidades.
-
-Nivel de protección que ha de proporcionarse.
-
-Agentes extintores.
-
-Equipo de salvamento.
-
-Tiempo de respuesta.
+Apéndice 1. Requisitos de calidad de los datos aeronáuticos.
 
 ## Abreviaturas y símbolos
 
@@ -204,3 +156,5 @@ Símbolos
 | = | Igual |
 | ± | Más o menos |
 | % | Porcentaje |
+
+> Se sustituye por el que figura como anexo de la Orden FOM/2086/2011, de 8 de julio, según establece su art. único. Ref. BOE-A-2011-12867

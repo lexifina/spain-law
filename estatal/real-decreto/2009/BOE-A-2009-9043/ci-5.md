@@ -4,17 +4,13 @@
 
 Nota 1. La finalidad de las especificaciones del presente capítulo es definir el espacio aéreo que debe mantenerse libre de obstáculos alrededor de los aeródromos para que puedan llevarse a cabo con seguridad las operaciones de aviones previstas y evitar que los aeródromos queden inutilizados por la multiplicidad de obstáculos en sus alrededores. Esto se logra mediante una serie de superficies limitadoras de obstáculos que marcan los límites hasta donde los objetos pueden proyectarse en el espacio aéreo.
 
-Nota 2. Los objetos que atraviesan las superficies limita-doras de obstáculos especificadas en este capítulo, pueden, en ciertas circunstancias, dar lugar a una mayor altitud o altura de franqueamiento de obstáculos en el procedimiento de aproximación por instrumentos o en el correspondiente procedimiento de aproximación visual en circuito o ejercer otro impacto operacional en el diseño de procedimientos de vuelo. Los criterios de diseño de procedimientos de vuelo se indican en los Procedimientos para los servicios de navegación aérea Operación de aeronaves (PAN-OPS) (Doc 8168).
+Nota 2. Los objetos que atraviesan las superficies limitadoras de obstáculos especificadas en este capítulo, pueden, en ciertas circunstancias, dar lugar a una mayor altitud o altura de franqueamiento de obstáculos en el procedimiento de aproximación por instrumentos o en el correspondiente procedimiento de aproximación visual en circuito o ejercer otro impacto operacional en el diseño de procedimientos de vuelo. Los criterios de diseño de procedimientos de vuelo se indican en los Procedimientos para los servicios de navegación aérea ‒Operación de aeronaves (PAN-OPS) (Doc 8168).
 
 Nota 3. En 5.3.5.41 a 5.3.5.45 se indica lo relativo al establecimiento y a los requisitos de las superficies de protección contra obstáculos para los sistemas visuales indicadores de pendiente de aproximación.
 
 4.1 Superficies limitadoras de obstáculos
 
 Nota. Véase la Figura 4-1.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/132/09043_04-01_fmt.png)
-
-Figura 4-1 Superficies limitadoras de obstáculos
 
 Superficie horizontal externa
 
@@ -42,7 +38,7 @@ Nota. No es preciso que la superficie horizontal interna sea necesariamente circ
 
 4.1.6 La altura de la superficie horizontal interna se medirá por encima del punto de referencia para la elevación que se fije con este fin.
 
-Nota. En el Manual de servicios de aeropuertos(Doc 9137), Parte 6, se da orientación sobre la determinación del punto de referencia para la elevación.
+Nota. En el Manual de servicios de aeropuertos (Doc 9137), Parte 6, se da orientación sobre la determinación del punto de referencia para la elevación.
 
 Superficie de aproximación
 
@@ -60,11 +56,9 @@ d) las superficies mencionadas variarán cuando se realicen aproximaciones con d
 
 4.1.9 La elevación del borde interior será igual a la del punto medio del umbral.
 
-4.1.10 La pendiente o pendientes de la superficie de aproximación se medirán en el plano vertical que contenga aleje de pista y continuará conteniendo al eje de toda derrota con desplazamiento lateral o en curva.
+4.1.10 La pendiente o pendientes de la superficie de aproximación se medirá n en el plano vertical que contenga aleje de pista y continuará conteniendo al eje de toda derrota con desplazamiento lateral o en curva.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/132/09043_04-02_fmt.png)
-
-Figura 4-2 Superficies limitadoras de obstáculos de aproximación interna, de transición interna y de aterrizaje interrumpido
+Nota. Véase la Figura 4-1.
 
 Superficie de aproximación interna
 
@@ -77,6 +71,14 @@ a) un borde interior que coincide con el emplazamiento del borde interior de la 
 b) dos lados que parten de los extremos del borde interior y se extienden paralelamente al plano vertical que contiene el eje de pista; y
 
 c) un borde exterior paralelo al borde interior.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/178/12867_6428795_image6.png)
+
+Figura 4-1 Superficies limitadoras de obstáculos
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/178/12867_6428795_image7.png)
+
+Figura 4-2 Superficies limitadoras de obstáculos de aproximación interna, de transición interna y de aterrizaje interrumpido
 
 Superficie de transición
 
@@ -156,29 +158,29 @@ c) un borde exterior horizontal y perpendicular a la derrota de despegue especif
 
 4.2 Requisitos de la limitación de obstáculos
 
-Nota. Los requisitos relativos a las superficies limitadoras de obstáculos se determinan en función de la utilización prevista de la pista (despegue o aterrizaje y tipo de aproximación) y se han de aplicar cuando la pista se utilice de ese modo. En el caso de que se realicen operaciones en las dos direcciones de la pista, cabe la posibilidad de que ciertas superficies queden anuladas debido a los requisitos más rigurosos a que se ajustan otras superficies más bajas.
+Nota Los requisitos relativos a las superficies limitadoras de obstáculos se determinan en función de la utilización prevista de la pista (despegue o aterrizaje y tipo de aproximación) y se han de aplicar cuando la pista se utilice de ese modo. En el caso de que se realicen operaciones en las dos direcciones de la pista, cabe la posibilidad de que ciertas superficies queden anuladas debido a los requisitos más rigurosos a que se ajustan otras superficies más bajas.
 
 Pistas de vuelo visual
 
 4.2.1 En las pistas de vuelo visual se establecerán las siguientes superficies limitadoras de obstáculos:
 
-– superficie cónica;
+‒ superficie cónica;
 
-– superficie horizontal interna;
+‒ superficie horizontal interna;
 
-– superficie de aproximación; y
+‒ superficie de aproximación; y
 
-– superficies de transición.
+‒ superficies de transición.
 
-4.2.2 Las alturas y pendientes de las superficies no serán superiores, ni sus otras dimensiones inferiores, a las que se especifican en la Tabla 41.
+4.2.2 Las alturas y pendientes de las superficies no serán superiores, ni sus otras dimensiones inferiores, a las que se especifican en la Tabla 4-1.
 
 4.2.3 No se permitirá la presencia de nuevos objetos ni agrandar los existentes por encima de una superficie de aproximación o de una superficie de transición, excepto cuando el nuevo objeto o el objeto agrandado esté apantallado por un objeto existente e inamovible.
 
 Nota. Las circunstancias en las cuales puede aplicarse razonablemente el principio de apantallamiento se describen en el Manual de servicios de aeropuertos (Doc 9137), Parte 6.
 
-4.2.4 Recomendación. No deberían permitirse la presencia de nuevos objetos ni agrandar los existentes por encima de la superficie cónica o de la superficie horizontal interna, excepto cuando el objeto estuviera apantallado por otro objeto existente e inamovible, o se determine, tras un estudio aeronáutico, que el objeto no comprometería la seguridad, ni afectaría de modo importante la regularidad de las operaciones de aviones.
+4.2.4 Recomendación. No deberían permitirse la presencia de nuevos objetos ni agrandar los existentes por encima de la superficie cónica o de la superficie horizontal interna, excepto cuando el objeto estuviera apantallado por otro objeto existente e inamovible, o se determine, tras un estudio aeronáutico de seguridad, que el objeto no comprometería la seguridad, ni afectaría de modo importante la regularidad de las operaciones de aviones.
 
-4.2.5 Recomendación. En la medida de lo posible, deberían eliminarse los objetos existentes por encima de cualquiera de las superficies prescritas en 4.2.1, excepto cuando el objeto estuviera apantallado por otro objeto existente e inamovible, o se determine, tras un estudio aeronáutico, que el objeto no comprometería la seguridad, ni afectaría de modo importante la regularidad de las operaciones de aviones.
+4.2.5 Recomendación. En la medida de lo posible, deberían eliminarse los objetos existentes por encima de cualquiera de las superficies prescritas en 4.2.1, excepto cuando el objeto estuviera apantallado por otro objeto existente e inamovible, o se determine, tras un estudio aeronáutico de seguridad, que el objeto no comprometería la seguridad, ni afectaría de modo importante la regularidad de las operaciones de aviones.
 
 Nota. Debido a las pendientes transversales o longitudinales que pueden existir en una franja, es posible que en ciertos casos el borde interior de la superficie de aproximación o partes del mismo se encuentren por debajo de la elevación correspondiente a dicha franja. No se pretende que se nivele la franja para que coincida con el borde interior de la superficie de aproximación, ni esto quiere decir que haya que eliminar las partes del terreno o los objetos que se encuentren por encima de dicha superficie más allá del borde de la franja pero por debajo del nivel de la misma, a menos que se considere que pueden representar un peligro para los aviones.
 
@@ -188,71 +190,21 @@ Pistas para aproximaciones que no son de precisión
 
 4.2.7 En las pistas para aproximaciones que no son de precisión se establecerán las siguientes superficies limitadoras de obstáculos:
 
-– superficie cónica;
+‒ superficie cónica;
 
-– superficie horizontal interna;
+‒ superficie horizontal interna;
 
-– superficie de aproximación; y
+‒ superficie de aproximación; y
 
-– superficies de transición.
+‒ superficies de transición.
 
 4.2.8 Las alturas y pendientes de las superficies no serán superiores, ni sus otras dimensiones inferiores, a las que se especifican en la Tabla 4-1, excepto en el caso de la sección horizontal de la superficie de aproximación (véase 4.2.9).
 
-4.2.9 La superficie de aproximación será horizontal a partir del punto en el que la pendiente de 2,5 % corta:
+4.2.9 La superficie de aproximación será horizontal a partir del punto en el que la pendiente de 2,5% corta:
 
 a) un plano horizontal a 150 m por encima de la elevación del umbral; o
 
 b) el plano horizontal que pasa por la parte superior de cualquier objeto que determine la altitud/altura de franqueamiento de obstáculos (OCA/H); tomándose el que sea más alto.
-
-4.2.10 No se permitirá la presencia de nuevos objetos ni agrandar los existentes por encima de una superficie de aproximación, dentro de la distancia de 3 000 m del borde interior o por encima de una superficie de transición, excepto cuando el nuevo objeto o el objeto agrandado esté apantallado por un objeto existente e inamovible.
-
-Nota. Las circunstancias en las cuales puede aplicarse razonablemente el principio de apantallamiento se describen en el Manual de servicios de aeropuertos, Parte 6.
-
-4.2.11 Recomendación. No deberían permitirse nuevos objetos ni agrandar los existentes por encima de la superficie de aproximación, a partir de un punto situado más allá de 3 000 m del borde interno, o por encima de la superficie cónica o de la superficie horizontal interna, excepto cuando el objeto estuviera apantallado por otro objeto existente e inamovible, o se determine, tras un estudio aeronáutico, que el objeto no comprometería la seguridad, ni afectaría de modo importante la regularidad de las operaciones de aviones.
-
-4.2.12 Recomendación. En la medida de lo posible, deberían eliminarse los objetos existentes que sobresalgan por encima de cualquiera de las superficies prescritas en 4.2.7, excepto cuando el objeto estuviera apantallado por otro objeto existente e inamovible, o se determine, tras un estudio aeronáutico, que el objeto no comprometería la seguridad, ni afectaría de modo importante la regularidad de las operaciones de aviones.
-
-Nota. Debido a las pendientes transversales o longitudinales que pueden existir en una franja, es posible que en ciertos casos el borde interior de la superficie de aproximación o partes del mismo se encuentren por debajo de la elevación correspondiente a dicha franja. No se pretende que se nivele la franja para que coincida con el borde interior de la superficie de aproximación, ni esto quiere decir que haya que eliminar las partes del terreno o los objetos que se encuentren por encima de dicha superficie más allá del borde de la franja pero por debajo del nivel de la misma, a menos que se considere que pueden representar un peligro para los aviones.
-
-Pistas para aproximaciones de precisión
-
-Nota 1. En 9.9 se ofrece información con respecto al emplazamiento y construcción de equipo e instalaciones en las zonas de operaciones.
-
-Nota 2. En el Manual de servicios de aeropuertos, Parte 6, se da orientación sobre las superficies limitadoras de obstáculos para las pistas para aproximaciones de precisión.
-
-4.2.13 Respecto a las pistas para aproximaciones de precisión de Categoría I se establecerán las siguientes superficies limitadoras de obstáculos:
-
-– superficie cónica;
-
-– superficie horizontal interna;
-
-– superficie de aproximación; y
-
-– superficies de transición.
-
-4.2.14 Recomendación. Respecto a las pistas para aproximaciones de precisión de Categoría I deberían establecerse las siguientes superficies limitadoras de obstáculos:
-
-– superficie de aproximación interna;
-
-– superficies de transición interna; y
-
-– superficie de aterrizaje interrumpido.
-
-4.2.15 Respecto a las pistas para aproximaciones de precisión de Categoría II o III se establecerán las siguientes superficies limitadoras de obstáculos.
-
-– superficie cónica;
-
-– superficie horizontal interna;
-
-– superficie de aproximación y superficie de aproximación interna;
-
-– superficies de transición;
-
-– superficies de transición interna; y
-
-– superficie de aterrizaje interrumpido.
-
-4.2.16 Las alturas y pendientes de las superficies no serán superiores, ni sus otras dimensiones inferiores, a las que se especifican en la Tabla 4-1, excepto en el caso de la sección horizontal de la superficie de aproximación (véase 4.2.17).
 
 Tabla 4-1 Dimensiones y pendientes de las superficies limitadoras de obstáculos
 
@@ -307,9 +259,59 @@ c. Distancia hasta el extremo de la franja.
 
 d. O distancia hasta el extremo de pista, si esta distancia es menor.
 
-e. Cuando la letra de clave sea F [columna (3) de la Tabla 1-1], la anchura se aumenta a 155 m. Véase la Circular 301 de la OACI – Nuevos aviones más grandes – Transgresión de la zona despejada de obstáculos: medidas operacionales y estudios aeronáuticos, para obtener información sobre los aviones de letra de clave F equipados con aviónica digital para ofrecer mandos de dirección para mantener una ruta establecida durante una maniobra de «motor y al aire».
+e. Cuando la letra de clave sea F [columna 3) de la Tabla 1-1], la anchura se aumenta a 155 m. Véase la Circular 301 de la OACI - Nuevos aviones de mayor tamaño - Transgresión de la zona despejada de obstáculos: medidas operacionales y estudio aeronáutico, para obtener información sobre los aviones de letra de clave F equipados con aviónica digital para ofrecer mandos de dirección para mantener una ruta establecida durante una maniobra de «motor y al aire».
 
-4.2.17 La superficie de aproximación será horizontal a partir del punto en el que la pendiente de 2,5 % corta:
+4.2.10 No se permitirá la presencia de nuevos objetos ni agrandar los existentes por encima de una superficie de aproximación, dentro de la distancia de 3 000 m del borde interior o por encima de una superficie de transición, excepto cuando el nuevo objeto o el objeto agrandado esté apantallado por un objeto existente e inamovible.
+
+Nota. Las circunstancias en las cuales puede aplicarse razonablemente el principio de apantallamiento se describen en el Manual de servicios de aeropuertos, Parte 6.
+
+4.2.11 Recomendación. No deberían permitirse nuevos objetos ni agrandar los existentes por encima de la superficie de aproximación, a partir de un punto situado más allá de 3 000 m del borde interno, o por encima de la superficie cónica o de la superficie horizontal interna, excepto cuando el objeto estuviera apantallado por otro objeto existente e inamovible, o se determine, tras un estudio aeronáutico de seguridad, que el objeto no comprometería la seguridad, ni afectaría de modo importante la regularidad de las operaciones de aviones.
+
+4.2.12 Recomendación. En la medida de lo posible, deberían eliminarse los objetos existentes que sobresalgan por encima de cualquiera de las superficies prescritas en 4.2.7, excepto cuando el objeto estuviera apantallado por otro objeto existente e inamovible, o se determine, tras un estudio aeronáutico de seguridad, que el objeto no comprometería la seguridad, ni afectaría de modo importante la regularidad de las operaciones de aviones.
+
+Nota. Debido a las pendientes transversales o longitudinales que pueden existir en una franja, es posible que en ciertos casos el borde interior de la superficie de aproximación o partes del mismo se encuentren por debajo de la elevación correspondiente a dicha franja. No se pretende que se nivele la franja para que coincida con el borde interior de la superficie de aproximación, ni esto quiere decir que haya que eliminar las partes del terreno o los objetos que se encuentren por encima de dicha superficie más allá del borde de la franja pero por debajo del nivel de la misma, a menos que se considere que pueden representar un peligro para los aviones.
+
+Pistas para aproximaciones de precisión
+
+Nota 1. En 9.9 se ofrece información con respecto al emplazamiento y construcción de equipo e instalaciones en las zonas de operaciones.
+
+Nota 2. En el Manual de servicios de aeropuertos, Parte 6, se da orientación sobre las superficies limitadoras de obstáculos para las pistas para aproximaciones de precisión.
+
+4.2.13 Respecto a las pistas para aproximaciones de precisión de Categoría I se establecerán las siguientes superficies limitadoras de obstáculos:
+
+‒ superficie cónica;
+
+‒ superficie horizontal interna;
+
+‒ superficie de aproximación; y
+
+‒ superficies de transición.
+
+4.2.14 Recomendación. Respecto a las pistas para aproximaciones de precisión de Categoría I deberían establecerse las siguientes superficies limitadoras de obstáculos:
+
+‒ superficie de aproximación interna;
+
+‒ superficies de transición interna; y
+
+‒ superficie de aterrizaje interrumpido.
+
+4.2.15 Respecto a las pistas para aproximaciones de precisión de Categoría II o III se establecerán las siguientes superficies limitadoras de obstáculos.
+
+‒ superficie cónica;
+
+‒ superficie horizontal interna;
+
+‒ superficie de aproximación y superficie de aproximación interna;
+
+‒ superficies de transición;
+
+‒ superficies de transición interna; y
+
+‒ superficie de aterrizaje interrumpido.
+
+4.2.16 Las alturas y pendientes de las superficies no serán superiores, ni sus otras dimensiones inferiores, a las que se especifican en la Tabla 4-1, excepto en el caso de la sección horizontal de la superficie de aproximación (véase 4.2.17).
+
+4.2.17 La superficie de aproximación será horizontal a partir del punto en el que la pendiente de 2,5% corta:
 
 a) un plano horizontal a 150 m por encima de la elevación del umbral; o
 
@@ -321,9 +323,9 @@ b) el plano horizontal que pasa por la parte superior de cualquier objeto que de
 
 Nota. Las circunstancias en las cuales puede aplicarse razonablemente el principio de apantallamiento se describen en el Manual de servicios de aeropuertos, Parte 6.
 
-4.2.20 Recomendación. No debería permitirse la presencia de nuevos objetos ni agrandar los existentes por encima de la superficie cónica y de la superficie horizontal interna, excepto cuando el objeto estuviera apantallado por otro objeto existente e inamovible, o se determine, tras un estudio aeronáutico, que el objeto no comprometería la seguridad, ni afectaría de modo importante la regularidad de las operaciones de aviones.
+4.2.20 Recomendación. No debería permitirse la presencia de nuevos objetos ni agrandar los existentes por encima de la superficie cónica y de la superficie horizontal interna, excepto cuando, el objeto estuviera apantallado por otro objeto existente e inamovible, o se determine, tras un estudio aeronáutico de seguridad, que el objeto no comprometería la seguridad, ni afectaría de modo importante la regularidad de las operaciones de aviones.
 
-4.2.21 Recomendación. En la medida de lo posible, deberían eliminarse los objetos existentes que sobresalgan por encima de la superficie de aproximación, de la superficie de transición, de la superficie cónica y de la superficie horizontal interna, excepto cuando un objeto estuviera apantallado por otro objeto existente e inamovible, o se determine, tras un estudio aeronáutico, que el objeto no comprometería la seguridad, ni afectaría de modo importante la regularidad de las operaciones de aviones.
+4.2.21 Recomendación. En la medida de lo posible, deberían eliminarse los objetos existentes que sobresalgan por encima de la superficie de aproximación, de la superficie de transición, de la superficie cónica y de la superficie horizontal interna, excepto cuando un objeto estuviera apantallado por otro objeto existente e inamovible, o se determine, tras un estudio aeronáutico de seguridad, que el objeto no comprometería la seguridad, ni afectaría de modo importante la regularidad de las operaciones de aviones.
 
 Nota. Debido a las pendientes transversales o longitudinales que pueden existir en una franja, es posible que en ciertos casos el borde interior de la superficie de aproximación o partes del mismo se encuentren por debajo de la elevación correspondiente a dicha franja. No se pretende que se nivele la franja para que coincida con el borde interior de la superficie de aproximación, ni esto quiere decir que haya que eliminar las partes del terreno o los objetos que se encuentren por encima de dicha superficie más allá del borde de la franja pero por debajo del nivel de la misma, a menos que se considere que pueden representar un peligro para los aviones.
 
@@ -331,9 +333,19 @@ Pistas destinadas al despegue
 
 4.2.22 En las pistas destinadas al despegue se establecerá la siguiente superficie limitadora de obstáculos:
 
-– superficie de ascenso en el despegue.
+‒ superficie de ascenso en el despegue.
 
 4.2.23 Las dimensiones de las superficies no serán inferiores a las que se especifican en la Tabla 4-2 salvo que podrá adoptarse una longitud menor para la superficie de ascenso en el despegue cuando dicha longitud sea compatible con las medidas reglamentarias adoptadas para regular el vuelo de salida de los aviones.
+
+4.2.24 Recomendación. Deberían examinarse las características operacionales de los aviones para los que dicha pista esté prevista para determinar si es conveniente reducir la pendiente especificada en la Tabla 4-2 cuando se hayan de tener en cuenta condiciones críticas de operación. Si se reduce la pendiente especificada, debería hacerse el correspondiente ajuste en la longitud del área de ascenso en el despegue, para proporcionar protección hasta una altura de 300 m.
+
+Nota. Cuando las condiciones locales sean muy distintas de las condiciones de la atmósfera tipo al nivel del mar, puede ser aconsejable reducir la pendiente especificada en la Tabla 4-2. La importancia de esta reducción depende de la diferencia entre las condiciones locales y las condiciones de la atmósfera tipo al nivel del mar, así como de las características de performance y de los requisitos de operación de los aviones para los que dicha pista esté prevista.
+
+4.2.25 No se permitirá la presencia de nuevos objetos ni agrandar los existentes por encima de una superficie de ascenso en el despegue, excepto cuando, el nuevo objeto o el objeto agrandado esté apantallado por un objeto existente e inamovible.
+
+Nota. Las circunstancias en las cuales puede aplicarse razonablemente el principio de apantallamiento se describen en el Manual de servicios de aeropuertos, Parte 6.
+
+4.2.26 Recomendación. Si ningún objeto llega a la superficie de ascenso en el despegue, de 2% (1:50) de pendiente, debería limitarse la presencia de nuevos objetos a fin de preservar la superficie libre de obstáculos existente, o una superficie que tenga una pendiente de 1,6% (1:62,5).
 
 Tabla 4-2 Dimensiones y pendientes de las superficies limitadoras de obstáculos
 
@@ -360,23 +372,13 @@ c 1 800 m cuando la derrota prevista incluya cambios de rumbo mayores de 15° en
 
 d Véanse 4.2.24 y 4.2.26.
 
-4.2.24 Recomendación. Deberían examinarse las características operacionales de los aviones para los que dicha pista esté prevista para determinar si es conveniente reducir la pendiente especificada en la Tabla 42 cuando se hayan de tener en cuenta condiciones críticas de operación. Si se reduce la pendiente especificada, debería hacerse el correspondiente ajuste en la longitud del área de ascenso en el despegue, para proporcionar protección hasta una altura de 300 m.
-
-Nota. Cuando las condiciones locales sean muy distintas de las condiciones de la atmósfera tipo al nivel del mar, puede ser aconsejable reducir la pendiente especificada en la Tabla 42. La importancia de esta reducción depende de la diferencia entre las condiciones locales y las condiciones de la atmósfera tipo al nivel del mar, así como de las características de performance y de los requisitos de operación de los aviones para los que dicha pista esté prevista.
-
-4.2.25 No se permitirá la presencia de nuevos objetos ni agrandar los existentes por encima de una superficie de ascenso en el despegue, excepto cuando el nuevo objeto o el objeto agrandado esté apantallado por un objeto existente e inamovible.
-
-Nota. Las circunstancias en las cuales puede aplicarse razonablemente el principio de apantallamiento se describen en el Manual de servicios de aeropuertos, Parte 6.
-
-4.2.26 Recomendación. Si ningún objeto llega a la superficie de ascenso en el despegue, de 2 % (1:50) de pendiente, debería limitarse la presencia de nuevos objetos a fin de preservar la superficie libre de obstáculos existente, o una superficie que tenga una pendiente de 1,6 % (1:62,5).
-
-4.2.27 Recomendación. En la medida de lo posible, deberían eliminarse los objetos existentes que sobresalgan por encima de una superficie de ascenso en el despegue, excepto cuando en opinión de la autoridad competente un objeto esté apantallado por otro objeto existente e inamovible o se determine, tras un estudio aeronáutico, que el objeto no comprometería la seguridad ni afectaría de modo importante la regularidad de las operaciones de aviones.
+4.2.27 Recomendación. En la medida de lo posible, deberían eliminarse los objetos existentes que sobresalgan por encima de una superficie de ascenso en el despegue, excepto cuando un objeto esté apantallado por otro objeto existente e inamovible o se determine, tras un estudio aeronáutico de seguridad, que el objeto no comprometería la seguridad ni afectaría de modo importante la regularidad de las operaciones de aviones.
 
 Nota. Es posible que, en algunos casos, debido a las pendientes transversales que puedan existir en una franja o una zona libre de obstáculos, algunas partes del borde interior de la superficie de ascenso en el despegue se encuentren por debajo de la elevación correspondiente a dicha franja o zona libre de obstáculos. No se pretende que la franja o la zona libre de obstáculos se nivele para que coincida con el borde interior de la superficie de ascenso en el despegue, ni tampoco esto quiere decir que haya que eliminar las partes del terreno o los objetos que se encuentren por encima de dicha superficie, pero por debajo del nivel de la franja o zona libre de obstáculos, a menos que se considere que pueden representar un peligro para los aviones. Se pueden hacer consideraciones de orden similar en el caso de la unión de la zona libre de obstáculos con la franja, cuando existan diferencias en las pendientes transversales.
 
 4.3 Objetos situados fuera de las superficies limitadoras de obstáculos
 
-4.3.1 ç.
+4.3.1
 
 4.3.2 N/A.
 
@@ -384,6 +386,8 @@ Nota. Es posible que, en algunos casos, debido a las pendientes transversales qu
 
 4.4.1 Recomendación. Los objetos que no sobresalgan por encima de la superficie de aproximación pero que sin embargo puedan comprometer el emplazamiento o el funcionamiento óptimo de las ayudas visuales o las ayudas no visuales, deberían eliminarse en la medida de lo posible.
 
-4.4.2 Recomendación. Dentro de los límites de las superficies horizontal interna y cónica debería considerarse como obstáculo, y eliminarse siempre que sea posible, todo lo que pueda constituir un peligro para los aviones que se encuentren en el área de movimiento o en vuelo.
+4.4.2 Recomendación. Dentro de los límites de las superficies horizontal interna y cónica debería considerarse como obstáculo, y eliminarse siempre que sea posible, todo lo que puede constituir un peligro para los aviones que se encuentren en el área de movimiento o en vuelo.
 
-Nota. En ciertas circunstancias, incluso objetos que no sobresalgan por encima de ninguna de las superficies enumeradas en 4.1 pueden constituir un peligro para los aviones como por ejemplo, uno o más objetos aislados en las inmediaciones de un aeródromo.
+Nota. En ciertas circunstancias, incluso objetos que no sobresalgan por encima de ninguna de las superficies enumeradas en 4.1 pueden constituir un peligro para los aviones, como por ejemplo, uno o más objetos aislados en las inmediaciones de un aeródromo.
+
+> Se sustituye por el que figura como anexo de la Orden FOM/2086/2011, de 8 de julio, según establece su art. único. Ref. BOE-A-2011-12867

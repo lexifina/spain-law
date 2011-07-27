@@ -2,7 +2,7 @@
 
 ## Generalidades
 
-Nota de introducción. Este texto contiene las normas y métodos recomendados (especificaciones) que prescriben las características físicas y las superficies limitadoras de obstáculos con que deben contar los aeródromos, y ciertas instalaciones y servicios técnicos que normalmente se suministran en un aeródromo. No se tiene la intención de que estas especificaciones limiten o regulen la operación de una aeronave. Consta de las siguientes partes, y cada una de ellas tiene el carácter que se indica:
+Nota de introducción. Este texto contiene las normas y métodos recomendados (especificaciones) que prescriben las características físicas y las superficies limitadoras de obstáculos con que deben contar los aeródromos, y ciertas instalaciones y servicios técnicos que normalmente se suministran en un aeródromo. Contiene además especificaciones relativas a obstáculos que se encuentran fuera de esas superficies limitadoras. No se tiene la intención de que estas especificaciones limiten o regulen la operación de una aeronave. Consta de las siguientes partes, y cada una de ellas tiene el carácter que se indica:
 
 a) Normas y métodos recomendados:
 
@@ -14,13 +14,13 @@ b) Apéndices con texto que por conveniencia se agrupa por separado, pero que fo
 
 c) Definiciones de la terminología empleada en las normas y métodos recomendados, que no es explícita porque no tiene el significado corriente. Las definiciones no tienen carácter independiente, pero son parte esencial de cada una de las normas y métodos recomendados en que se usa el término, ya que cualquier cambio en el significado de éste afectaría la disposición.
 
-d) Tablas y Figuras que aclaran o ilustran una norma o método recomendado y a las cuales éstos hacen referencia, forman parte de la norma o método recomendado correspondiente y tienen el mismo carácter.
+d) Tablas y Figuras que aclaran o ilustran una norma o método recomendado y a las cuales éstos hacen referencia, forman parte de la norma o método recomendado correspondiente y tienen el mismo carácter
 
-Por lo general, las especificaciones correspondientes a cada una de las instalaciones se han relacionado entre sí por un sistema de clave de referencia descrito en este capítulo, y mediante la designación del tipo de pista para el que se han de proporcionar, según se especifica en las definiciones. Esto no sólo simplifica la lectura, sino que, en la mayoría de los casos, permite obtener aeródromos cuyas proporciones reúnan las debidas características de eficiencia, cuando se siguen las especificaciones.
+Por lo general, las especificaciones correspondientes a cada una de las instalaciones indicadas se han relacionado entre sí por un sistema de clave de referencia descrito en este capítulo, y mediante la designación del tipo de pista para el que se han de proporcionar, según se especifica en las definiciones. Esto no sólo simplifica la lectura sino que, en la mayoría de los casos, permite obtener aeródromos cuyas proporciones reúnan las debidas características de eficiencia, cuando se siguen las especificaciones.
 
 En este documento se establecen las especificaciones mínimas de aeródromo para aeronaves con las características de las que están actualmente en servicio o para otras semejantes que estén en proyecto. Por consiguiente, no se tienen en cuenta las demás medidas de protección que podrían considerarse adecuadas en el caso de aeronaves con mayores exigencias. En el Manual de diseño de aeródromos (Doc 9157), Parte 2, se ofrece orientación sobre algunos de los posibles efectos de futuras aeronaves en estas especificaciones.
 
-Debe tomarse nota de que las especificaciones relativas a las pistas para aproximaciones de precisión de las Categorías II y III sólo son aplicables a las pistas destinadas a ser utilizadas por aviones con números de clave 3 y 4.
+Debe tomarse nota de que las especificaciones relativas a las pistas para aproximaciones de precisión, de las Categorías II y III, sólo son aplicables a las pistas destinadas a ser utilizadas por aviones con números de clave 3 y 4.
 
 Este texto no contiene especificaciones relativas a la planificación general de aeródromos (tales como la separación entre aeródromos adyacentes o la capacidad de los distintos aeródromos) ni las relativas a los efectos en el medio ambiente, los aspectos económicos u otros factores no técnicos que deben considerarse en el desarrollo de un aeródromo. El Manual de planificación de aeropuertos (Doc 9184), Parte 1, contiene información sobre estas cuestiones. Los textos de orientación sobre los aspectos relativos al medio ambiente del desarrollo y la explotación de un aeródromo se incluyen en el Manual de planificación de aeropuertos (Doc 9184), Parte 2.
 
@@ -28,7 +28,7 @@ La seguridad de la aviación es parte integrante de la planificación y operacio
 
 1.1 Definiciones
 
-Los términos y expresiones indicados a continuación que figuran en este Anexo, tienen el significado siguiente:
+Los términos y expresiones indicados a continuación que figuran en este texto, tienen el significado siguiente:
 
 Actuación humana. Capacidades y limitaciones humanas que repercuten en la seguridad y eficiencia de las operaciones aeronáuticas.
 
@@ -68,8 +68,6 @@ Barreta. Tres o más luces aeronáuticas de superficie, poco espaciadas y situad
 
 Calendario. Sistema de referencia temporal discreto que sirve de base para definir la posición temporal con resolución de un día (ISO 19108*).
 
-* Todas las Normas ISO figuran al final de este capítulo.
-
 Calendario gregoriano. Calendario que se utiliza generalmente; se estableció en 1582 para definir un año que se aproxima más estrechamente al año tropical que el calendario juliano (ISO 19108*).
 
 Nota. En el calendario gregoriano los años comunes tienen 365 días y los bisiestos 366, y se dividen en 12 meses sucesivos.
@@ -88,7 +86,7 @@ Certificado de aeródromo. Certificado otorgado por la autoridad competente de c
 
 Coeficiente de utilización. El porcentaje de tiempo durante el cual el uso de una pista o sistema de pistas no está limitado por la componente transversal del viento.
 
-Nota. Componente transversal del viento significa la componente .del viento en la superficie que es perpendicular al eje de la pista
+Nota. Componente transversal del viento significa la componente del viento en la superficie que es perpendicular al eje de la pista.
 
 Declinación de la estación. Variación de alineación entre el radial de cero grados del VOR y el norte verdadero, determinada en el momento de calibrar la estación VOR.
 
@@ -100,7 +98,7 @@ b) Media. Cuando el número de movimientos durante la hora punta media es del or
 
 c) Intensa. Cuando el número de movimientos durante la hora punta media es del orden de 26 o más por pista, o típicamente superior a un total de 35 movimientos en el aeródromo.
 
-Nota 1. El número de movimientos durante la hora punta media es la media aritmética del año del número de movimientos s durante la hora punta diaria.
+Nota 1. El número de movimientos durante la hora punta media es la media aritmética del año del número de movimientos durante la hora punta diaria.
 
 Nota 2. Tanto los despegues como los aterrizajes constituyen un movimiento.
 
@@ -124,7 +122,7 @@ Faro aeronáutico. Luz aeronáutica de superficie, visible en todos los azimutes
 
 Faro de aeródromo. Faro aeronáutico utilizado para indicar la posición de un aeródromo desde el aire.
 
-Faro de identificación. Faro aeronáutico que emite una señalen clave, por medio de la cual puede identificarse un punto determinado que sirve de referencia.
+Faro de identificación. Faro aeronáutico que emite una señal en clave, por medio de la cual puede identificarse un punto determinado que sirve de referencia.
 
 Faro de peligro. Faro aeronáutico utilizado a fin de indicar un peligro para la navegación aérea.
 
@@ -138,7 +136,7 @@ a) reducir el riesgo de daños a las aeronaves que se salgan de la pista; y
 
 b) proteger a las aeronaves que la sobrevuelan durante las operaciones de despegue o aterrizaje.
 
-Geoide. Superficie equipotencial en el campo de gravedad de la Tierra que coincide con el nivel medio del mar (MSL) encalma y su prolongación continental.
+Geoide. Superficie equipotencial en el campo de gravedad de la Tierra que coincide con el nivel medio del mar (MSL) en calma y su prolongación continental.
 
 Nota. El geoide tiene forma irregular debido a las perturbaciones gravitacionales locales (mareas, salinidad, corrientes, etc.) y la dirección de la gravedad es perpendicular al geoide en cada punto.
 
@@ -147,6 +145,8 @@ Helipuerto. Aeródromo o área definida sobre una estructura destinada a ser uti
 Indicador de sentido de aterrizaje. Dispositivo para indicar visualmente el sentido designado en determinado momento, para el aterrizaje o despegue.
 
 Instalación de deshielo/antihielo. Instalación donde se eliminan del avión la escarcha, el hielo o la nieve (deshielo) para que las superficies queden limpias, o donde las superficies limpias del avión reciben protección (antihielo) contra la formación de escarcha o hielo y la acumulación de nieve o nieve fundente durante un período limitado.
+
+Nota. En el Manual de operaciones de deshielo y antihielo para aeronaves en tierra (Doc 9640) se proporciona información más detallada.
 
 Integridad (datos aeronáuticos). Grado de garantía de que no se han perdido ni alterado ninguna de las referencias aeronáuticas ni sus valores después de la obtención original de la referencia o de una enmienda autorizada.
 
@@ -162,7 +162,7 @@ b) Letrero de mensaje variable. Letrero con capacidad de presentar varios mensaj
 
 Longitud del campo de referencia del avión. Longitud de campo mínima necesaria para el despegue con la masa máxima certificada de despegue al nivel del mar, en atmósfera tipo, sin viento y con pendiente de pista cero, como se indica en el correspondiente manual de vuelo del avión, prescrito por la autoridad que otorga el certificado, según los datos equivalentes que proporcione el fabricante del avión. Longitud de campo significa longitud de campo compensado para los aviones, si corresponde, o distancia de despegue en los demás casos.
 
-Nota. En el Adjunto A, Sección 2, se proporciona información sobre el concepto de la longitud de campo compensado.
+Nota. En el Adjunto A, Sección 2, se proporciona información sobre el concepto de la longitud de campo compensado
 
 Luces de protección de pista. Sistema de luces para avisar a los pilotos o a los conductores de vehículos que están a punto de entrar en una pista en activo.
 
@@ -172,7 +172,7 @@ Luz de descarga de condensador. Lámpara en la cual se producen destellos de gra
 
 Luz fija. Luz que posee una intensidad luminosa constante cuando se observa desde un punto fijo.
 
-Margen. Banda de terreno que bordea un pavimento, tratada deforma que sirva de transición entre ese pavimento y el terreno adyacente.
+Margen. Banda de terreno que bordea un pavimento, tratada de forma que sirva de transición entre ese pavimento y el terreno adyacente.
 
 Nieve (en tierra).
 
@@ -194,11 +194,17 @@ Número de clasificación de pavimentos (PCN). Cifra que indica la resistencia d
 
 Objeto frangible. Objeto de poca masa diseñado para quebrarse, deformarse o ceder al impacto, de manera que represente un peligro mínimo para las aeronaves.
 
-Obstáculo. Todo objeto fijo (ya sea temporal o permanente) o móvil, o partes del mismo, que esté situado en un área destinada al movimiento de las aeronaves en la superficie o que sobresalga de una superficie definida destinada a proteger a las aeronaves en vuelo.
+Obstáculo. Todo objeto fijo (ya sea temporal o permanente) o móvil, o partes del mismo, que:
+
+a) esté situado en un área destinada al movimiento de las aeronaves en la superficie; o
+
+b) sobresalga de una superficie definida destinada a proteger las aeronaves en vuelo; o
+
+c) esté fuera de las superficies definidas y sea considerado como un peligro para la navegación aérea.
 
 Ondulación geoidal. La distancia del geoide por encima (positiva) o por debajo (negativa) del elipsoide matemático de referencia.
 
-Nota. Con respecto al elipsoide definido del Sistema Geodésico Mundial – 1984 (WGS-84), la diferencia entre la altura elipsoidal y la altura ortométrica en el WGS-84 representa la ondulación geoidal en el WGS-84.
+Nota. Con respecto al elipsoide definido del Sistema Geodésico Mundial - 1984 (WGS-84), la diferencia entre la altura elipsoidal y la altura ortométrica en el WGS-84 representa la ondulación geoidal en el WGS-84.
 
 Operaciones paralelas segregadas. Operaciones simultáneas en pistas de vuelo por instrumentos, paralelas o casi paralelas, cuando una de las pistas se utiliza exclusivamente para aproximaciones y la otra exclusivamente para salidas.
 
@@ -212,15 +218,17 @@ a) Pista para aproximaciones que no sean de precisión. Pista de vuelo por instr
 
 b) Pista para aproximaciones de precisión de Categoría I. Pista de vuelo por instrumentos servida por ILS o MLS y por ayudas visuales destinadas a operaciones con una altura de decisión no inferior a 60 m (200 ft) y con una visibilidad de no menos de 800 m o con un alcance visual en la pista no inferior a 550 m.
 
-c) Pista para aproximaciones de precisión de Categoría II. Pista de vuelo por instrumentos servida por ILS o MLS y por ayudas visuales destinadas a operaciones con una altura de decisión inferior a 60 m (200 ft) pero no inferior a 30 m (100 ft) y con un alcance visual en la pista no inferior a 350 m.
+c) Pista para aproximaciones de precisión de Categoría II. Pista de vuelo por instrumentos servida por ILS o MLS y por ayudas visuales destinadas a operaciones con una altura de decisión inferior a 60 m (200 ft) pero no inferior a 30 m (100 ft) y con un alcance visual en la pista no inferior a 300 m.
 
 d) Pista para aproximaciones de precisión de Categoría III. Pista de vuelo por instrumentos servida por ILS o MLS hasta la superficie de la pista y a lo largo de la misma; y
 
-A. Destinada a operaciones con una altura de decisión inferior a 30 m (100 ft), o sin altura de decisión y un alcance visual en la pista no inferior a 200 m.
+A. Destinada a operaciones con una altura de decisión inferior a 30 m (100 ft), o sin altura de decisión y un alcance visual en la pista no inferior a 175 m.
 
-B. Destinada a operaciones con una altura de decisión inferior a 15 m (50 ft), o sin altura de decisión, y un alcance visual en la pista inferior a 200 m pero no inferior a 50 m.
+B. Destinada a operaciones con una altura de decisión inferior a 15 m (50 ft), o sin altura de decisión, y un alcance visual en la pista inferior a 175 m pero no inferior a 50 m.
 
 C. Destinada a operaciones sin altura de decisión y sin restricciones de alcance visual en la pista.
+
+Nota 1. Para las especificaciones ILS o MLS relacionadas con estas categorías, véase el Anexo 10, Volumen I.
 
 Nota 2. Las ayudas visuales no tienen necesariamente que acomodarse a la escala que caracterice las ayudas no visuales que se proporcionen. El criterio para la selección de las ayudas visuales se basa en las condiciones en que se trata de operar.
 
@@ -228,17 +236,17 @@ Pista de vuelo visual. Pista destinada a las operaciones de aeronaves que utilic
 
 Pista para aproximaciones de precisión. Véase Pista de vuelo por instrumentos.
 
-Pistas casi paralelas. Pistas que no se cortan pero cuyas prolongaciones de eje forman un ángulo de convergencia o de divergencia de 15° o menos.
+Pistas casi paralelas. Pistas que no se cortan pero cuyas prolongaciones de eje forman un ángulo de convergencia o de divergencia de 15.º o menos.
 
 Pistas principales. Pistas que se utilizan con preferencia a otras siempre que las condiciones lo permitan.
 
 Plataforma. Área definida, en un aeródromo terrestre, destinada a dar cabida a las aeronaves para los fines de embarque o desembarque de pasajeros, correo o carga, abastecimiento de combustible, estacionamiento o mantenimiento.
 
-Plataforma de viraje en la pista. Una superficie definida en el terreno de un aeródromo adyacente a una pista con la finalidad de completar un viraje de 180° sobre una pista.
+Plataforma de viraje en la pista. Una superficie definida en el terreno de un aeródromo adyacente a una pista con la finalidad de completar un viraje de 180.º sobre una pista.
 
 Principios relativos a factores humanos. Principios que se aplican al diseño, certificación, instrucción, operaciones y mantenimiento aeronáuticos y cuyo objeto consiste en establecer una interfaz segura entre los componentes humano y de otro tipo del sistema mediante la debida consideración de la actuación humana.
 
-Programa de seguridad operacional. Conjunto integrado de reglamentos y actividades encaminados a mejorar la seguridad operacional.
+Programa estatal de seguridad operacional. El definido como tal por la legislación aplicable.
 
 Puesto de estacionamiento de aeronave. Área designada en una plataforma, destinada al estacionamiento de una aeronave.
 
@@ -252,7 +260,7 @@ Punto de espera intermedio. Punto designado destinado al control del tránsito, 
 
 Punto de referencia de aeródromo. Punto cuya situación geográfica designa al aeródromo.
 
-Referencia (datum). Toda cantidad o conjunto de cantidades que pueda servir como referencia o base para el cálculo de otras cantidades.
+Referencia (datum). Toda cantidad o conjunto de cantidades que pueda servir como referencia o base para el cálculo de otras cantidades (ISO 19104*).
 
 Referencia geodésica. Conjunto mínimo de parámetros requerido para definir la ubicación y orientación del sistema de referencia local con respecto al sistema/marco de referencia mundial.
 
@@ -266,7 +274,7 @@ Servicio de dirección en la plataforma. Servicio proporcionado para regular las
 
 Sistema de gestión de la seguridad operacional. Enfoque sistemático para la gestión de la seguridad operacional, que incluye la estructura orgánica, líneas de responsabilidad, políticas y procedimientos necesarios.
 
-Tiempo de conmutación (luz). El tiempo requerido para que la intensidad efectiva de la luz medida en una dirección dada disminuya a un valor inferior al 50 % y vuelva a recuperar el 50 % durante un cambio de la fuente de energía, cuando la luz funciona a una intensidad del 25 % o más.
+Tiempo de conmutación (luz). El tiempo requerido para que la intensidad efectiva de la luz medida en una dirección dada disminuya a un valor inferior al 50% y vuelva a recuperar el 50% durante un cambio de la fuente de energía, cuando la luz funciona a una intensidad del 25% o más.
 
 Tiempo máximo de efectividad. Tiempo estimado durante el cual el anticongelante (tratamiento) impide la formación de hielo y escarcha, así como la acumulación de nieve en las superficies del avión que se están protegiendo (tratadas).
 
@@ -288,11 +296,11 @@ Zona de vuelo crítica de rayos láser (LCFZ). Espacio aéreo en la proximidad d
 
 Zona de vuelo normal (NFZ). Espacio aéreo no definido como LFFZ, LCFZ o LSFZ pero que debe estar protegido de radiaciones láser que puedan causar daños biológicos a los ojos.
 
-Zona de vuelo sensible de rayos láser (LSFZ). Espacio aéreo exterior, y no necesariamente contiguo a las LFFZ y LCFZ en que la irradiación queda limitada a un nivel en el que no sea posible que los rayos enceguezcan o tengan efectos post-imagen.
+Zona de vuelo sensible de rayos láser (LSFZ). Espacio aéreo exterior, y no necesariamente contiguo a las LFFZ y LCFZ en que la irradiación queda limitada a un nivel en el que no sea posible que los rayos enceguezcan o tengan efectos postimagen.
 
 Zona de vuelo sin rayos láser (LFFZ). Espacio aéreo en la proximidad del aeródromo donde la radiación queda limitada a un nivel en el que no sea posible que cause interrupciones visuales.
 
-Zona libre de obstáculos. Área rectangular definida en el terreno o en el agua designada o preparada como área adecuada sobre la cual un avión puede efectuar una parte del ascenso inicial hasta una altura especificada.
+Zona libre de obstáculos. Área rectangular definida en el terreno o en el agua, designada o preparada como área adecuada sobre la cual un avión puede efectuar una parte del ascenso inicial hasta una altura especificada.
 
 Zonas de vuelo protegidas. Espacio aéreo específicamente destinado a moderar los efectos peligrosos de la radiación por rayos láser.
 
@@ -300,21 +308,21 @@ Zonas de vuelo protegidas. Espacio aéreo específicamente destinado a moderar l
 
 1.2.1 Corresponde a la autoridad competente la interpretación de algunas de las especificaciones contenidas en este texto así como la decisión sobre cualquier determinación o medida que sea necesaria.
 
-1.2.2 Las especificaciones, a menos que se indique de otro modo en un determinado texto, se referirán a todos los aeródromos abiertos al uso público. Las especificaciones del Capítulo 3, se aplicarán sólo a los aeródromos terrestres. Las especificaciones de este Volumen se aplicarán, cuando proceda, a los helipuertos, pero no se aplicarán a los aeródromos STOL.
+1.2.2 Las especificaciones, a menos que se indique de otro modo en un determinado texto, se referirán a todos los aeródromos abiertos al uso público. Las especificaciones Capítulo 3, se aplicarán sólo a los aeródromos terrestres. Las especificaciones de este Volumen se aplicarán, cuando proceda, a los helipuertos, pero no se aplicarán a los aeródromos STOL.
 
-Nota. El texto de orientación para los aeródromos y helipuertos STOL se recoge en el Manual de aeropuertos STOL (Doc 9150).
+Nota. Aunque actualmente no existen especificaciones que se refieran a los helipuertos y aeródromos STOL, se tiene el propósito de incluir las especificaciones para este tipo de aeródromo a medida que se vayan preparando. Mientras tanto, puede consultarse el texto de orientación sobre este tipo de aeródromos en el Manual de aeropuertos STOL (Doc 9150).
 
-1.2.3 Siempre que en este Anexo se haga referencia a un color, se aplicará la especificación dada en el Apéndice 1 para el color de que se trate.
+1.2.3 Siempre que en este texto se haga referencia a un color, se aplicará la especificación dada en el Apéndice 1 para el color de que se trate.
 
-1.3 Sistemas de referencia comunes.
+1.3 Sistemas de referencia comunes
 
-1.3.1 Sistema de referencia horizontal.
+1.3.1 Sistema de referencia horizontal
 
-El Sistema Geodésico Mundial – 1984 (WGS84) se utilizará como sistema de referencia (geodésica) horizontal. Las coordenadas geográficas aeronáuticas publicadas (que indiquen la latitud y la longitud) se expresarán en función de la referencia geodésica del WGS84.
+El Sistema Geodésico Mundial - 1984 (WGS-84) se utilizará como sistema de referencia (geodésica) horizontal. Las coordenadas geográficas aeronáuticas publicadas (que indiquen la latitud y la longitud) se expresarán en función de la referencia geodésica del WGS-84.
 
-Nota. En el Manual del Sistema Geodésico Mundial – 1984 (WGS-84) (Doc 9674) figuran textos de orientación amplios relativos al WGS84.
+Nota. En el Manual del Sistema Geodésico Mundial - 1984 (WGS-84) (Doc 9674) figuran textos de orientación amplios relativos al WGS-84.
 
-1.3.2 Sistema de referencia vertical.
+1.3.2 Sistema de referencia vertical
 
 La referencia al nivel medio del mar (MSL) que proporciona la relación de las alturas (elevaciones) relacionadas con la gravedad respecto de una superficie conocida como geoide, se utilizará como sistema de referencia vertical.
 
@@ -322,7 +330,7 @@ Nota 1. El geoide a nivel mundial se aproxima muy estrechamente al nivel medio d
 
 Nota 2. Las alturas (elevaciones) relacionadas con la gravedad también se denominan alturas ortométricas y las distancias de un punto por encima del elipsoide se denominan alturas elipsoidales.
 
-1.3.3 Sistema de referencia temporal.
+1.3.3 Sistema de referencia temporal
 
 1.3.3.1 El calendario gregoriano y el tiempo universal coordinado (UTC) se utilizarán como sistema de referencia temporal.
 
@@ -330,23 +338,23 @@ Nota 2. Las alturas (elevaciones) relacionadas con la gravedad también se denom
 
 1.4 Certificación de aeródromos
 
-Nota. El objeto de estas especificaciones consiste en garantizar el establecimiento de un régimen normativo que permita hacer cumplir en forma eficaz las especificaciones incluidas en este texto.
+Nota. El objeto de estas especificaciones consiste en garantizar el establecimiento de un régimen normativo que permita hacer cumplir en forma eficaz las especificaciones incluidas en este texto. Se reconoce que los métodos de propiedad, explotación y vigilancia de los aeródromos difieren entre los Estados. El medio más eficaz y transparente de garantizar el cumplimiento de las especificaciones aplicables es contar con una entidad separada de vigilancia de la seguridad operacional y un mecanismo bien definido de vigilancia de la seguridad operacional apoyado por legislación apropiada para poder ejercer la función de regular la seguridad operacional de los aeródromos. Cuando se otorga un certificado al aeródromo, para los explotadores de aeronaves y otras organizaciones que operan en él significa que, en el momento de la certificación, cumple las especificaciones relativas a la instalación y a su funcionamiento y que tiene, de acuerdo con la autoridad de certificación, la capacidad de seguir cumpliendo esas especificaciones durante la validez del certificado. El proceso de certificación establece también el punto de referencia para la vigilancia continua del cumplimiento de las especificaciones. Será necesario proporcionar a los servicios de información aeronáutica pertinentes información sobre la situación de certificación de los aeródromos para promulgarla en la publicación de información aeronáutica (AIP). Véase 2.13.1 y el Anexo 15, Apéndice 1, AD 1.5.
 
-1.4.1 Se certificarán los aeropuertos utilizados para operaciones internacionales de conformidad con las especificaciones contenidas en este Anexo y otras especificaciones pertinentes de la OACI.
+1.4.1 La Agencia Estatal de Seguridad Aérea, conforme a la normativa aplicable, certificará o verificará los aeródromos utilizados para operaciones internacionales de conformidad con las especificaciones contenidas en este texto y otras especificaciones pertinentes de la OACI.
 
 1.4.2 N/A.
 
-1.4.3 N/A.
+1.4.3 N/A
 
-1.4.4 Como parte del proceso de certificación, el solicitante presentará para que sea aprobado/aceptado un manual que incluya toda la información correspondiente sobre el sitio del aeródromo, sus instalaciones y servicios, su equipo, sus procedimientos operacionales, su organización y su administración, incluyendo un sistema de gestión de la seguridad operacional.
+1.4.4 Como parte del proceso de certificación, l, el solicitante presentará para que sea aprobado/aceptado un manual que incluya toda la información correspondiente sobre el sitio del aeródromo, sus instalaciones y servicios, su equipo, sus procedimientos operacionales, su organización y su administración, incluyendo un sistema de gestión de la seguridad operacional.
 
-Nota. El objetivo de un sistema de gestión de la seguridad operacional es contar en el aeródromo con un procedimiento organizado y ordenado para la gestión de la seguridad operacional del aeródromo por parte del gestor del mismo. Las directrices sobre el sistema de gestión de la seguridad operacional de aeródromos figuran en el Manual de gestión de la seguridad operacional (Doc 9859), de la OACI, y en el Manual de certificación de aeródromos (Doc 9774).
+Nota. El objetivo de un sistema de gestión de la seguridad operacional es que el explotador del aeródromo cuente con un procedimiento organizado y ordenado para la gestión de la seguridad operacional del aeródromo por parte del gestor del mismo. Las directrices sobre el sistema de gestión de la seguridad operacional de aeródromos figuran en el Manual de gestión de la seguridad operacional (Doc 9859), y en el Manual de certificación de aeródromos (Doc 9774).
 
 1.5 Gestión de la seguridad operacional
 
-1.5.1 N/A.
+1.5.1 N/A
 
-1.5.2 N/A.
+1.5.2 N/A
 
 1.5.3 El gestor certificado del aeródromo implantará un sistema de gestión de la seguridad operacional que sea aceptable por la autoridad y que, como mínimo:
 
@@ -358,9 +366,9 @@ c) prevea la supervisión permanente y la evaluación periódica del nivel de se
 
 d) tenga como meta mejorar continuamente el nivel global de seguridad operacional.
 
-1.5.4 El sistema de gestión de la seguridad operacional definirá claramente las líneas de responsabilidad sobre seguridad operacional en la organización del gestor certificado del aeródromo, incluyendo la responsabilidad directa de la seguridad operacional por parte del personal administrativo superior.
+1.5.4 El sistema de gestión de la seguridad operacional definirá claramente las líneas de responsabilidad sobre seguridad operacional en la organización del explotador certificado del aeródromo, incluyendo la responsabilidad directa de la seguridad operacional por parte del personal administrativo superior.
 
-Nota. En el Manual sobre gestión de la seguridad operacional (Doc 9859) y en el Manual de certificación de aeródromos (Doc 9774) de la OACI figura orientación sobre los sistemas de gestión de la seguridad operacional.
+Nota. En el Manual sobre gestión de la seguridad operacional (Doc 9859) y en el Manual de certificación de aeródromos (Doc 9774) figura orientación sobre los sistemas de gestión de la seguridad operacional.
 
 1.6 Diseño de aeropuertos
 
@@ -374,25 +382,11 @@ Nota. La orientación sobre medidas de utilización del terreno y controles ambi
 
 1.7 Clave de referencia
 
-Nota de introducción. El propósito de la clave de referencia es proporcionar un método simple para relacionar entre sí las numerosas especificaciones concernientes a las características de los aeródromos, a fin de suministrar una serie de instalaciones aeroportuarias que convengan a los aviones destinados a operar en el aeródromo. No se pretende que esta clave se utilice para determinar los requisitos en cuanto a la longitud de la pista ni en cuanto a la resistencia del pavimento. La clave está compuesta de dos elementos que se relacionan con las características y dimensiones del avión. El elemento 1 es un número basado en la longitud del campo de referencia del avión y el elemento 2 es una letra basada en la envergadura del avión y en la anchura exterior entre las ruedas del tren de aterrizaje principal. Una especificación determinada está relacionada con el más apropiado de los dos elementos de la clave o con una combinación apropiada de estos dos elementos. La letra o número de la clave dentro de un elemento seleccionado para fines del proyecto está relacionado con las características del avión crítico para el que se proporcione la instalación. Al aplicar las disposiciones, se indican en primer lugar los aviones para los que se destine el aeródromo y después los dos elementos de la clave.
+Nota de introducción. El propósito de la clave de referencia es proporcionar un método simple para relacionar entre sí las numerosas especificaciones concernientes a las características de los aeródromos, a fin de suministrar una serie de instalaciones aeroportuarias que convengan a los aviones destinados a operar en el aeródromo. No se pretende que esta clave se utilice para determinar los requisitos en cuanto a la longitud de la pista ni en cuanto a la resistencia del pavimento. La clave está compuesta de dos elementos que se relacionan con las características y dimensiones del avión. El elemento 1 es un número basado en la longitud del campo de referencia del avión y el elemento 2 es una letra basada en la envergadura del avión y en la anchura exterior entre las ruedas del tren de aterrizaje principal. Una especificación determinada está relacionada con el más apropiado de los dos elementos de la clave o con una combinación apropiada de estos dos elementos. La letra o número de la clave dentro de un elemento seleccionado para fines del proyecto está relacionado con las características del avión crítico para el que se proporcione la instalación. Al aplicar las disposiciones se indican en primer lugar los aviones para los que se destine el aeródromo y después los dos elementos de la clave.
 
-1.7.1 Se determinará una clave de referencia de aeródromo –número y letra de clave– que se seleccione para fines de planificación del aeródromo de acuerdo con las características de los aviones para los que se destine la instalación del aeródromo.
+1.7.1 Se determinará una clave de referencia de aeródromo −número y letra de clave− que se seleccione para fines de planificación del aeródromo de acuerdo con las características de los aviones para los que se destine la instalación del aeródromo.
 
 1.7.2 Los números y letras de clave de referencia de aeródromo tendrán los significados que se les asigna en la Tabla 1-1.
-
-Tabla 1-1 Clave de referencia de aeródromo (véanse 1.7.2 a 1.7.4)
-
-| Elementos 1 de la clave | Letra de clave (3) | Elementos 2 de la clave |
-| --- | --- | --- |
-| Núm. De clave (1) | Longitud de campo de referencia del avión (2) | Envergadura (4) | Anchura exterior entre ruedas del tren de aterrizaje principalª (5) |
-| 1 | Menos de 800 m. | A | Hasta 15 m (exclusive). | Hasta 4,5 m (exclusive). |
-| 2 | Desde 800 m hasta 1 200 m (exclusive). | B | Desde 15 m hasta 24 m (exclusive). | Desde 4,5 m hasta 6 m (exclusive). |
-| 3 | Desde 1 200 m hasta 1 800 m (exclusive). | C | Desde 24 m hasta 36 m (exclusive). | Desde 6 m hasta 9 m (exclusive). |
-| 4 | Desde 1 800 m en adelante. | D | Desde 36 m hasta 52 m (exclusive). | Desde 9 m hasta 14 m (exclusive). |
-|  |  | E | Desde 52 m hasta 65 m (exclusive). | Desde 9 m hasta 14 m (exclusive). |
-|  |  | F | Desde 65 m hasta 80 m (exclusive). | Desde 14 m hasta 16 m (exclusive). |
-
-a Distancia entre los bordes exteriores de las ruedas del tren de aterrizaje principal.
 
 1.7.3 El número de clave para el elemento 1 se determinará por medio de la Tabla 1-1, columna 1, seleccionando el número de clave que corresponda al valor más elevado de las longitudes de campo de referencia de los aviones para los que se destine la pista.
 
@@ -400,12 +394,30 @@ Nota. La longitud del campo de referencia del avión se determina únicamente pa
 
 1.7.4 La letra de clave para el elemento 2 se determinará por medio de la Tabla 1-1, columna 3, seleccionando la letra de clave que corresponda a la envergadura más grande, o a la anchura exterior más grande entre ruedas del tren de aterrizaje principal, la que de las dos dé el valor más crítico para la letra de clave de los aviones para los que se destine la instalación.
 
-Nota. En el Manual de diseño de aeródromos (Doc 9157),Partes 1 y 2, se da para determinar la clave de referencia de aeródromo.
+Nota. En el Manual de diseño de aeródromos (Doc 9157), Partes 1 y 2, se da orientación para determinar la clave de referencia de aeródromo.
 
-* Norma ISO.
+* Norma ISO
 
-19104, Información geográfica – Terminología.
+19104 Información geográfica -Terminología
 
-19108, Información geográfica – Modelo temporal.
+19108, Información geográfica - Modelo temporal
 
 Las normas ISO de la Serie 19100 sólo existen en inglés. Los términos y definiciones extraídos de esas normas fueron traducidos por la OACI.
+
+Tabla 1-1 Clave de referencia de aeródromo (véanse 1.7.2 a 1.7.4)
+
+| Elementos 1 de la clave | Letra de clave (3) | Elementos 2 de la clave |
+| --- | --- | --- |
+| Núm. de clave (1) | Longitud de campo de referencia del avión (2) | Envergadura (4) | Anchura exterior entre ruedas del tren de aterrizaje principalª (5) |
+| 1 | Menos de 800 m. | A | Hasta 15 m (exclusive). | Hasta 4,5 m (exclusive). |
+| 2 | Desde 800 m hasta 1 200 m (exclusive). | B | Desde 15 m hasta 24 m (exclusive). | Desde 4,5 m hasta 6 m (exclusive). |
+| 3 | Desde 1 200 m hasta 1 800 m (exclusive). | C | Desde 24 m hasta 36 m (exclusive). | Desde 6 m hasta 9 m (exclusive). |
+| 4 | Desde 1 800 m en adelante. | D | Desde 36 m hasta 52 m (exclusive). | Desde 9 m hasta 14 m (exclusive). |
+|  |  | E | Desde 52 m hasta 65 m (exclusive). | Desde 9 m hasta 14 m (exclusive). |
+|  |  | F | Desde 65 m hasta 80 m (exclusive). | Desde 14 m hasta 16 m (exclusive). |
+
+a. Distancia entre los bordes exteriores de las ruedas del tren de aterrizaje principal.
+
+Nota. En el Manual de diseño de aeródromos (Doc 9157), Partes 1 y 2, se proporciona orientación sobre planificación con respecto a los aviones de más de 80 m de envergadura.
+
+> Se sustituye por el que figura como anexo de la Orden FOM/2086/2011, de 8 de julio, según establece su art. único. Ref. BOE-A-2011-12867
