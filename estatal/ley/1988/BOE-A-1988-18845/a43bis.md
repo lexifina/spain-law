@@ -10,7 +10,7 @@ A tales efectos, el acceso a las informaciones y datos requeridos por el Banco d
 
 1 ter. En los términos previstos por el artículo 4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, los órganos y organismos de cualquier Administración Pública quedan sujetos al deber de colaborar con el Banco de España y están obligados a proporcionar, a requerimiento de éste y en plazo, toda clase de datos e informaciones de que dispongan y puedan resultar necesarios para el ejercicio por parte de éste de las funciones que le confiere la normativa vigente.
 
-1 quáter. El Banco de España podrá comunicar y requerir a las entidades sujetas a sus facultades de supervisión, inspección y sanción previstas en esta Ley, por medios electrónicos, las informaciones y medidas recogidas en esta Ley y en sus disposiciones de desarrollo. Las entidades referidas tendrán obligación de comunicarse con el Banco de España a través de, y habilitar en el plazo que se fije para ello, los medios técnicos requeridos por el Banco de España para la eficacia de sus sistemas de comunicación electrónica, en los términos que éste adopte al efecto.
+1 quáter. El Banco de España podrá comunicar y requerir a las entidades sujetas a sus facultades de supervisión, inspección y sanción previstas en esta Ley, por medios electrónicos, las informaciones y medidas recogidas en esta Ley y en sus disposiciones de desarrollo. Las entidades referidas tendrán obligación de habilitar, en el plazo que se fije para ello, los medios técnicos requeridos por el Banco de España para la eficacia de sus sistemas de comunicación electrónica, en los términos que éste adopte al efecto.
 
 2. En el caso de las sucursales de entidades de crédito autorizadas en otros Estados miembros de la Comunidad Europea, el Banco de España podrá inspeccionarlas:
 
@@ -31,6 +31,8 @@ c) Para controlar que la actividad de la sucursal se realiza de conformidad con 
 7. Las resoluciones que dicte el Banco de España en el ejercicio de las funciones a que se refieren los apartados anteriores serán susceptibles de recurso ante el Ministro de Economía y Hacienda.
 
 8. Lo dispuesto en este artículo y en el anterior se entiende sin perjuicio de las competencias que tengan atribuidas las Comunidades Autónomas y de lo que resulte de los convenios entre el Banco de España, y las Comunidades Autónomas a que se refiere la disposición adicional primera, apartado 3 de la Ley 31/1985, de 2 de agosto, sobre Organos Rectores de las Cajas de Ahorro. En todo caso, la inscripción en los correspondientes registros del Banco de España y, cuando proceda, de la Comunidad Autónoma competente será indispensable para que las entidades a que se refiere este artículo puedan desarrollar sus actividades.
+
+> Se modifica el apartado 1 quáter por la disposición final 3.2 de la Ley 21/2011, de 26 de julio. Ref. BOE-A-2011-12909.
 
 > Se modifica el apartado 1 bis y se añaden los apartados 1 ter y 1 quáter por la disposición final 10.10 a 12 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
 

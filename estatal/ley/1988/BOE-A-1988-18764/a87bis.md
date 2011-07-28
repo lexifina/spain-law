@@ -20,13 +20,11 @@ b) el modo en que se han ejercido en España las opciones y potestades discrecio
 
 c) los criterios y metodología seguidos por la Comisión Nacional del Mercado de Valores para revisar los acuerdos, estrategias, procedimientos y mecanismos aplicados por las empresas de servicios de inversión y sus grupos a fin de dar cumplimiento a la normativa y para evaluar los riesgos a los que las mismas están o podrían estar expuestas.
 
-3. Asimismo, cuando una empresa de servicios de inversión no cumpla con las exigencias que, contenidas en esta Ley o en su normativa de desarrollo, determinen requerimientos mínimos de recursos propios o requieran una estructura organizativa o mecanismos y procedimientos de control interno adecuados, la Comisión Nacional del Mercado de Valores podrá adoptar, entre otras, las siguientes medidas:
+3. Asimismo, cuando una empresa de servicios de inversión no cumpla con las exigencias que, contenidas en esta Ley o en su normativa de desarrollo, determinen requerimientos mínimos de recursos propios o requieran una estructura organizativa o mecanismos y procedimientos de control interno, contables o de valoración adecuados, la Comisión Nacional del Mercado de Valores podrá adoptar, entre otras, las siguientes medidas:
 
-a) Obligar a las empresas de servicios de inversión y sus grupos a mantener recursos propios adicionales a los exigidos con carácter mínimo.
+a) Obligar a las empresas de servicios de inversión y sus grupos a mantener recursos propios adicionales a los exigidos con carácter mínimo. La Comisión Nacional del Mercado de Valores deberá hacerlo, al menos, siempre que aprecie deficiencias graves en la estructura organizativa de la empresa de servicios de inversión o en los procedimientos y mecanismos de control interno, contables o de valoración, incluyendo en especial los mencionados en el artículo 70.3 de la presente Ley, o siempre que determine, de acuerdo con lo previsto en el artículo 87 bis 1.c), que los sistemas y los fondos propios mantenidos a que se refiere dicho precepto no garantizan una gestión y cobertura sólidas de los riesgos. En ambos casos la medida deberá ser adoptada cuando la Comisión Nacional del Mercado de Valores considere improbable que la mera aplicación de otras medidas mejore dichas deficiencias o situaciones en un plazo adecuado.
 
-La Comisión Nacional del Mercado de Valores deberá hacerlo, al menos, siempre que aprecie deficiencias graves en la estructura organizativa de la empresa de servicios de inversión o en los procedimientos y mecanismos de control interno, incluyendo en especial los mencionados en el artículo 70.3 de la presente Ley, o siempre que determine, de acuerdo con lo previsto en el artículo 87 bis.1.c, que los sistemas y los fondos propios mantenidos a que se refiere dicho precepto no garantizan una gestión y cobertura sólidas de los riesgos. En ambos casos la medida deberá ser adoptada cuando la Comisión Nacional del Mercado de Valores considere improbable que la mera aplicación de otras medidas mejore dichas deficiencias o situaciones en un plazo adecuado.
-
-b) Exigir a las empresas de servicios de inversión y sus grupos que refuercen los procedimientos, mecanismos y estrategias adoptados para el cumplimiento de dichas exigencias.
+b) Exigir a las empresas de servicios de inversión y sus grupos que refuercen o modifiquen los procedimientos de control interno, contables o de valoración, los mecanismos o las estrategias adoptados para el cumplimiento de dichas exigencias organizativas o de recursos.
 
 c) Exigir a las empresas de servicios de inversión y sus grupos la aplicación de una política específica, bien de dotación de provisiones, bien de reparto de dividendos o de otro tipo de tratamiento para los activos sujetos a ponderación a efectos de las exigencias de recursos propios, bien de reducción del riesgo inherente a sus actividades, productos o sistemas.
 
@@ -43,6 +41,8 @@ Lo dispuesto en este apartado se entiende sin perjuicio de la aplicación de las
 a) Tomará debidamente en consideración la posible incidencia de sus decisiones en la estabilidad del sistema financiero de todos los demás Estados miembros afectados, en particular, en situaciones de urgencia, basándose en la información disponible en el momento; y,
 
 b) Tendrá en cuenta la convergencia de instrumentos y prácticas de supervisión en el ámbito de la Unión Europea.
+
+> Se modifica el apartado 3 por la disposición final 2.3 de la Ley 21/2011, de 26 de julio. Ref. BOE-A-2011-12909.
 
 > Se modifica el apartado 3 y se añade el apartado 4 por el art. 2.3 y 4 de la Ley 6/2011, de 11 de abril. Ref. BOE-A-2011-6548.
 

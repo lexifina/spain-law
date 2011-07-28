@@ -3,3 +3,9 @@
 Se añade una nueva letra i) al apartado 2 de la disposición adicional segunda de la Ley 26/2003, de 17 de julio, con el siguiente tenor literal:
 
 «i) Una descripción de las principales características de los sistemas internos de control y gestión de riesgos en relación con el proceso de emisión de información financiera regulada.»
+
+Se añade una nueva letra j) en el apartado dos del artículo 31 bis de la Ley 31/1985, de 2 de agosto, de regulación de las normas básicas sobre órganos rectores de las cajas de ahorros, con el siguiente tenor literal:
+
+«j) Una descripción de las principales características de los sistemas internos de control y gestión de riesgos en relación con el proceso de emisión de información financiera regulada.»
+
+> Se modifica por la disposición final 9.2 de la Ley 21/2011, de 26 de julio. Ref. BOE-A-2011-12909.
