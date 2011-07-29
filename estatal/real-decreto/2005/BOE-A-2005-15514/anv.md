@@ -34,27 +34,27 @@
 | Hemólisis | Inferior al 0,8 % de la masa eritrocítica al finalizar el periodo máximo de conservación |
 | Plaquetas aféresis | Volumen | El necesario para garantizar las especificaciones relativas a pH de acuerdo a las condiciones de conservación |
 | Número de plaquetas | Se admiten variaciones en el número de plaquetas por donación si se encuentran dentro de límites que se ajusten a las condiciones validadas de preparación y conservación |
-| pH | 6,4 - 7,4 corregido para 22 °C, al caducar |
+| pH | Mínimo 6,4 corregido para 22 ºC, al caducar |
 | Plaquetas, aféresis leucodeplecionadas | Volumen | El necesario para garantizar las especificaciones relativas a pH en relación a las condiciones de conservación |
 | Número de plaquetas | Se admiten variaciones en el número de plaquetas por donación si se encuentran dentro de límites que se ajusten a las condiciones validadas de preparación y conservación |
 | Contenido en leucocitos | Inferior a 1 x 106 por unidad |
-| pH | 6,4 - 7,4 corregido para 22 °C, al caducar |
+| pH | Mínimo 6,4 corregido para 22 ºC, al caducar |
 | Plaquetas recuperadas, mezcla | Volumen | El necesario para garantizar las especificaciones relativas a pH en relación a las condiciones de conservación |
 | Número de plaquetas | Se admiten variaciones en el número de plaquetas por donación si se encuentran dentro de límites que se ajusten a las condiciones validadas de preparación y conservación |
 | Contenido en leucocitos | Inferior a 0,2 x 109 por unidad simple (método PRP) Inferior a 0,05 x 109 por unidad simple (método capa leucocitaria) |
-| pH | 6,4 – 7,4 corregido para 22 °C, al caducar |
+| pH | Mínimo 6,4 corregido para 22 ºC, al caducar |
 | Plaquetas recuperadas, mezcla, leucodeplecionadas | Volumen | El necesario para garantizar las especificaciones relativas a pH en relación a las condiciones de conservación |
 | Número de plaquetas | Se admiten variaciones en el número de plaquetas por donación si se encuentran dentro de límites que se ajusten a las condiciones validadas de preparación y conservación |
 | Contenido en leucocitos | Inferior a 1 x 106 por mezcla |
-| pH | 6,4 – 7,4 corregido para 22 °C, al caducar |
+| pH | Mínimo 6,4 corregido para 22 ºC, al caducar |
 | Plaquetas recuperadas, unidad | Volumen | El necesario para garantizar las especificaciones relativas a pH en relación a las condiciones de conservación |
 | Número de plaquetas | Se admiten variaciones en el número de plaquetas por donación si se encuentran dentro de límites que se ajusten a las condiciones validadas de preparación y conservación |
 | Contenido en leucocitos | Inferior a 0,2 x 109 por unidad simple (método PRP) Inferior a 0,05 x 109 por unidad simple (método capa leucocitaria) |
-| pH | 6,4 – 7,4 corregido para 22 °C, al caducar |
+| pH | Mínimo 6,4 corregido para 22 ºC, al caducar |
 | Plaquetas recuperadas, unidad, leucodeplecionadas | Volumen | El necesario para garantizar las especificaciones relativas a pH en relación a las condiciones de conservación |
 | Número de plaquetas | Se admiten variaciones en el número de plaquetas por donación si se encuentran dentro de límites que se ajusten a las condiciones validadas de preparación y conservación |
 | Contenido en leucocitos | Inferior a 1 x 106 por unidad |
-| pH | 6,4 – 7,4 corregido para 22 ºC, al caducar |
+| pH | Mínimo 6,4 corregido para 22 ºC, al caducar |
 | Plasma fresco congelado | Volumen | Volumen indicado +/- 10 % |
 | Factor Vlllc (*) | Media (tras congelación y descongelación): 70 % o más del valor de la unidad de plasma recién extraída |
 | Proteína total (*) | No inferior a 50 g/l |
@@ -73,3 +73,5 @@
 | Contenido en factor Vlllc | Superior o igual a 70 unidades internacionales por unidad |
 | Granulocitos de aféresis | Volumen | Inferior a 500 ml |
 | Contenido en granulocitos | >1 x 1010 granulocitos por unidad |
+
+> Se modifica por el art. único de la Orden SPI/2101/2011, de 22 de julio. Ref. BOE-A-2011-12968.
