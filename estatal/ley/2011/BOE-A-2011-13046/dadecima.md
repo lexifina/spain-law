@@ -1,0 +1,3 @@
+## Disposición adicional décima. Sobre compensación de emisión de gases de efecto invernadero en el sector de residuos.
+
+En el plazo máximo de un año desde la entrada en vigor de esta Ley, el Gobierno, previa consulta a las Comunidades Autónomas y Entes Locales, remitirá a las Cortes Generales un Proyecto de Ley en el que se establezcan sistemas de compensación e intercambio de cuotas de emisión de gases de efecto invernadero asociadas al sector residuos entre administraciones. El techo global de emisiones asociado a estas cuotas deberá ser coherente con los compromisos de reducción de emisiones asumidos por España.

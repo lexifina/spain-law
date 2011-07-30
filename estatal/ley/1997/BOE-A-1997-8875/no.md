@@ -1,0 +1,1 @@
+Se declara la vigencia con carácter reglamentario de los preceptos que no se opongan a la Ley 22/2011, de 28 de julio. Ref. BOE-A-2011-13046#ddunica. según establece su disposición derogatoria única.2.
