@@ -1,26 +1,45 @@
 ## ANEXO III
 
-## Asignación de materias de la educación secundaria obligatoria a las especialidades docentes de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria
+## Asignación de materias de la Educación Secundaria Obligatoria a las especialidades docentes de los Cuerpos de Catedráticos de Enseñanza Secundaria y de Profesores de Enseñanza Secundaria
 
-| Especialidades de los cuerpos | Materias de la educación secundaria obligatoria |
+| Especialidades de los Cuerpos | Materias de la Educación Secundaria Obligatoria |
 | --- | --- |
 | Alemán. | Lengua extranjera (Alemán). |
-| Biología y geología. | Ciencias de la naturaleza. Biología y geología. |
-| Dibujo. | Educación plástica y visual. |
-| Educación física. | Educación física. |
-| Filosofía. | Educación ético-cívica. Educación para la ciudadanía y los derechos humanos. Historia y cultura de las religiones. |
-| Física y química. | Ciencias de la naturaleza. Física y química. |
+| Biología y Geología. | Biología y Geología. |
+| Ciencias de la Naturaleza. |
+| Alimentación, Nutrición y Salud. |
+| Dibujo. | Educación Plástica y Visual. |
+| Economía. | Orientación Profesional e Iniciativa Emprendedora. |
+| Educación Física. | Educación Física. |
+| Filosofía. | Educación Ético-Cívica. |
+| Educación para la Ciudadanía y los Derechos Humanos. |
+| Historia y Cultura de las Religiones. |
+| Física y Química. | Física y Química. |
+| Ciencias de la Naturaleza. |
+| Ciencias Aplicadas a la Actividad Profesional. |
 | Francés. | Lengua extranjera (Francés). |
-| Geografía e historia. | Ciencias sociales, Geografía e historia. Educación para la ciudadanía y los derechos humanos. Historia y cultura de las religiones. |
-| Griego. | Cultura clásica. |
+| Geografía e Historia. | Ciencias Sociales, Geografía e Historia. |
+| Orientación Profesional e Iniciativa Emprendedora. |
+| Educación para la Ciudadanía y los Derechos Humanos. |
+| Historia y Cultura de las Religiones. |
+| Griego. | Cultura Clásica. |
 | Inglés. | Lengua extranjera (Inglés). |
 | Italiano. | Lengua extranjera (Italiano). |
-| Latín. | Latín. Cultura clásica. |
-| Lengua castellana y literatura. | Lengua castellana y literatura. |
+| Latín. | Latín. |
+| Cultura Clásica. |
+| Lengua Castellana y Literatura. | Lengua Castellana y Literatura. |
 | Matemáticas. | Matemáticas. |
 | Música. | Música. |
+| Orientación Educativa. | Orientación Profesional e Iniciativa Emprendedora. |
 | Portugués. | Lengua extranjera (Portugués). |
-| Tecnología. | Tecnologías. Tecnología. Informática. |
+| Tecnología. | Tecnologías. |
+| Tecnología. |
+| Informática. |
 | Informática. | Informática. |
+| Formación y Orientación Laboral. | Orientación Profesional e Iniciativa Emprendedora. |
 
-Nota: En los centros en los que haya profesores de la especialidad de Informática, éstos tendrán preferencia sobre los de Tecnología para impartir la materia de Informática.
+Nota: En los centros en los que haya Profesores de la especialidad de Informática, éstos tendrán preferencia sobre los de Tecnología para impartir la materia de Informática. En los centros en los que haya Profesores de la especialidad de Economía, Orientación Educativa, Formación y Orientación Laboral y Geografía e Historia, se seguirá este orden de prelación para impartir la materia de Orientación Profesional e Iniciativa Emprendedora.
+
+> Se modifica por el art. 2 del Real Decreto 1146/2011, de 29 de julio. Ref. BOE-A-2011-13117.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 230, de 24 de septiembre de 2011. Ref. BOE-A-2011-15093.
