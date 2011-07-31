@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Convalidación entre módulos profesionales de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre de 1990, de Ordenación General del Sistema Educativo y módulos profesionales de los títulos establecidos al amparo de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+1. Los módulos profesionales de títulos de la Ley 14/1990, excepto el de Formación en Centros de Trabajo, que figuren como convalidados en el anexo de los títulos elaborados al amparo de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, darán derecho a la convalidación del correspondiente módulo profesional que aparezca en dicho anexo, independientemente del título de formación profesional al que perteneciera.
+
+2. Dicha convalidación será reconocida por la Dirección del centro educativo donde conste el expediente del alumno e irá acompañada de la documentación acreditativa de cumplir los requisitos exigidos, conforme con lo dispuesto en el artículo 40 de este real decreto.
