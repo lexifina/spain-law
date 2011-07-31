@@ -42,11 +42,11 @@ En particular, la utilización de los helipuertos eventuales para los trabajos a
 
 Se realizarán de conformidad con lo dispuesto en el apartado 2.3.9.
 
-5.1.3. Plan de vuelo de acuerdo con las normas generales de este Reglamento.
+5.1.3. Plan de Vuelo de acuerdo con las normas generales de este Reglamento.
 
-En los vuelos de helicópteros es obligatoria la formalización del plan de vuelo. Quedan exentos, sin que tal exención pueda hacerse extensiva a los supuestos cruces de fronteras, los helicópteros que operen desde helipuertos eventuales o de emergencia, en los que no exista la posibilidad material de presentar plan de vuelo, en cuyo caso se presentará en el primer contacto radio con la dependencia de Control apropiada, siempre que la aeronave cuente con medios materiales para ello.
+En los vuelos de helicópteros es obligatoria la formalización del Plan de Vuelo. Quedan exentos, sin que tal exención pueda hacerse extensiva a los supuestos cruce de fronteras, los helicópteros que operen desde helipuertos eventuales o de emergencia, en los que no exista la posibilidad material de presentar plan de vuelo, en cuyo caso se presentará en el primer contacto radio con la dependencia de Control apropiada, siempre que la aeronave cuente con medios materiales para ello.
 
-También son una excepción a esta norma los helicópteros que operen bajo una "Carta Operacional", si en ésta se contempla esta posibilidad y en las condiciones que se determinen.
+También son una excepción a esta Norma los helicópteros que operen bajo una "Carta de exenciones para operaciones especiales", si en ésta se contempla esta posibilidad y en las condiciones que se determinen.
 
 5.1.4. Entradas y salidas en los helipuertos.
 
@@ -95,5 +95,7 @@ Los helicópteros podrán realizar vuelos VFR nocturnos en las condiciones que d
 5.1.7. Sobrevuelo de los núcleos urbanos.
 
 No podrán sobrevolar núcleos urbanos de más de 50.000 habitantes helicópteros equipados con un sólo motor, salvo en misiones urgentes de evacuación y transporte sanitario, en su caso debidamente justificado.
+
+> Se modifica el Capítulo 1 por el art. único 18 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268
 
 > Se modifica el Capítulos 1 por el art. único.5 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637

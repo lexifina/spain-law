@@ -134,17 +134,23 @@ Ninguna aeronave volará en una zona prohibida, o restringida, cuyos detalles se
 
 2.3.2. Prevención de colisiones.
 
-Es esencial, con objeto de prevenir posibles colisiones, no descuidar la vigilancia a bordo de las aeronaves en vuelo, sea cual fuere el tipo de vuelo o la clase de espacio aéreo en que vuele la aeronave, ni mientras circule en el área de movimiento de un aeródromo.
+Ninguna de estas reglas eximirá al piloto al mando de una aeronave de la responsabilidad de proceder en la forma más eficaz para evitar una colisión, lo que incluye llevar a cabo las maniobras anticolisión necesarias basándose en los avisos de resolución proporcionados por el equipo ACAS.
 
-2.3.2.1. Proximidad.
+Nota 1.–Es importante, con objeto de prevenir posibles colisiones, ejercer la vigilancia a bordo de las aeronaves, sea cual fuere el tipo de vuelo o la clase de espacio aéreo en que vuele la aeronave, y mientras circule en el área de movimiento de un aeródromo.
 
-Ninguna aeronave volará tan cerca de otra de modo que pueda ocasionar peligro de colisión.
+Nota 2.–Los procedimientos operacionales relativos al uso del ACAS en los que se detallan las responsabilidades del piloto al mando figuran en el punto 2.3.2.2.8.
 
-2.3.2.2. Derecho de paso.
+Nota 3.–Los requisitos de llevar equipo ACAS figuran en la normativa aplicable correspondiente.
 
-La aeronave que tenga el derecho de paso mantendrá su rumbo y velocidad, pero ninguna de estas reglas eximirá al piloto al mando de ella de la obligación de proceder en la forma más eficaz para evitar una colisión, lo que incluye llevar a cabo las maniobras anticolisión necesarias basándose en los avisos de resolución proporcionados por el equipo ACAS.
+2.3.2.1 Proximidad.
 
-Nota.-El uso de las indicaciones del ACAS vienen descritos en los apartados 2.3.2.2.8 y siguientes.
+Ninguna aeronave operará tan cerca de otra de modo que pueda ocasionar peligro de colisión.
+
+2.3.2.2 Derecho de paso.
+
+La aeronave que tenga el derecho de paso mantendrá su rumbo y velocidad.
+
+Nota.–El uso de las indicaciones del ACAS vienen descritos en los apartados 2.3.2.2.8 y siguientes.
 
 2.3.2.2.1. La aeronave que por las reglas siguientes esté obligada a mantenerse fuera de la trayectoria de otra, evitará pasar por encima, por debajo o por delante de ella, a menos que lo haga a suficiente distancia y que tenga en cuenta, en la medida de lo posible, el efecto de la estela turbulenta de la aeronave.
 
@@ -237,6 +243,8 @@ Nota: Salvo si el piloto informa, el ATC no sabe cuándo el ACAS expide RA. Es p
 7) prontamente volverán a atenerse a los términos de la instrucción o autorización del ATC al resolverse el conflicto; y
 
 8) notificarán al ATC al volver a los términos de la autorización vigente.
+
+2.3.2.2.8.4 Después de un suceso RA, o de cualquier otro suceso ACAS significativo, los pilotos y los controladores deberán completar una notificación de incidente de tránsito aéreo.
 
 2.3.2.3. Luces que deben ostentar las aeronaves.
 
@@ -720,21 +728,23 @@ en c) o la hora prevista de aproximación de que últimamente se haya acusado re
 
 2.3.7.1. Toda aeronave que esté siendo objeto de actos de interferencia ilícita hará lo posible por notificar a la dependencia ATS pertinente este hecho, toda circunstancia significativa relacionada con el mismo y cualquier desviación del plan de vuelo actualizado que las circunstancias hagan necesaria, a fin de permitir a la dependencia ATS dar prioridad a la aeronave y reducir al mínimo los conflictos de tránsito que puedan surgir con otras aeronaves.
 
-2.3.7.2. Los siguientes procedimientos servirán de orientación para las aeronaves que sean objeto de interferencia ilícita y que no puedan notificar el hecho a una dependencia ATS.
+2.3.7.2. Si una aeronave es objeto de interferencia ilícita, el piloto al mando intentará aterrizar lo antes posible en el aeródromo apropiado más cercano o en un aeródromo asignado para ese propósito por la autoridad competente, a menos que la situación de a bordo de la aeronave le dicte otro modo de proceder.
 
-2.3.7.2.1. A menos que la situación a bordo de la aeronave le dicte otro modo de proceder, el piloto al mando tratará de continuar el vuelo a lo largo de la derrota asignada y al nivel de crucero asignado, por lo menos hasta que pueda comunicarse con una dependencia ATS o esté dentro de su cobertura radar.
+Los siguientes procedimientos servirán de orientación para las aeronaves que sean objeto de interferencia ilícita y que no puedan notificar el hecho a una dependencia ATS.
 
-2.3.7.2.2. Cuando una aeronave objeto de un acto de interferencia ilícita deba apartarse de la derrota asignada o del nivel de crucero asignado, sin poder establecer contacto radiotelefónico con el ATS, el piloto al mando deberá, de ser posible:
+2.3.7.2.1 Si el piloto al mando no puede proceder hacia un aeródromo de acuerdo con lo indicado en 2.3.7.2, tratará de continuar el vuelo en la derrota asignada y al nivel de crucero asignado, por lo menos hasta que pueda comunicarse con una dependencia ATS o hasta que esté dentro de su cobertura radar o de ADS-B.
 
-a) tratar de radiodifundir advertencias en la frecuencia VHF de urgencia y en otras frecuencias apropiadas a menos que la situación a bordo de la aeronave le dicte otro modo de proceder. De ser conveniente y si las circunstancias lo permiten, también recurrirá para ello a otro equipo como transpondedores de a bordo, enlaces de datos etc.; y
+2.3.7.2.2 Cuando una aeronave objeto de un acto de interferencia ilícita deba apartarse de la derrota asignada o del nivel de crucero asignado, sin poder establecer contacto radiotelefónico con el ATS, el piloto al mando deberá, de ser posible:
 
-b) continuar el vuelo de conformidad con los procedimientos suplementarios regionales especiales para contingencias en vuelo, si se han establecido; o c) si no se hubieran establecido procedimientos regionales aplicables al caso, continuar el vuelo a un nivel que difiera de los niveles de crucero utilizados normalmente por los vuelos IFR en:
+a) tratar de radiodifundir advertencias en el canal VHF en uso o en la frecuencia VHF de urgencia y en otros canales apropiados a menos que la situación a bordo de la aeronave le dicte otro modo de proceder. De ser conveniente y si las circunstancias lo permiten, también recurrirá para ello a otro equipo como transpondedores de a bordo, enlaces de datos, etc.; y
 
-1. 150 m (500 ft) en una zona en que se aplican mínimos de separación vertical de 300 m (1.000 ft), o
+b) continuar el vuelo de conformidad con los procedimientos suplementarios regionales especiales para contingencias en vuelo, si se han establecido; o
 
-2. 300 m (1.000 ft) en una zona en que se aplican mínimos de separación vertical de 600 m (2.000 ft);
+c) si no se hubieran establecido procedimientos regionales aplicables al caso, continuar el vuelo a un nivel que difiera de los niveles de crucero utilizados normalmente por los vuelos IFR en:
 
-y
+1.º 150 m (500 ft) en una zona en que se aplican mínimos de separación vertical de 300 m (1.000 ft), o
+
+2.º 300 m (1.000 ft) en una zona en que se aplican mínimos de separación vertical de 600 m (2.000 ft); y
 
 d) tomar las medidas indicadas en 2.3.8 cuando la aeronave sea interceptada mientras es objeto de un acto de interferencia ilícita.
 
@@ -752,7 +762,17 @@ La palabra «interceptación», en este contexto, no incluye los servicios de in
 
 2.3.8.2.2. Generalidades.
 
-2.3.8.2.2.1. La interceptación de aeronaves civiles deberá evitarse y únicamente deberá emprenderse como último recurso. Si se emprende, la interceptación deberá limitarse a determinar la identidad de la aeronave, a menos que sea necesario hacerla regresar a su derrota planeada, dirigirla más allá de los límites del espacio aéreo nacional, guiarla fuera de una zona prohibida, restringida o peligrosa o darle instrucciones para que aterrice en un aeródromo designado. Los vuelos de las aeronaves civiles no serán objeto de prácticas de interceptación.
+2.3.8.2.2.1. Respecto a la interceptación de aeronaves civiles se tendrá en cuenta lo siguiente:
+
+a) La interceptación de aeronaves civiles deberá evitarse y únicamente deberá emprenderse como último recurso.
+
+b) Si se emprende, la interceptación deberá limitarse a determinar la identidad de la aeronave, a menos que sea necesario hacerla regresar a su derrota planeada, dirigirla más allá de los límites del espacio aéreo nacional, guiarla fuera de una zona prohibida, restringida o peligrosa o darle instrucciones para que aterrice en un aeródromo designado.
+
+c) Los vuelos de las aeronaves civiles no serán objeto de prácticas de interceptación.
+
+d) Si se puede establecer contacto por radio, se proporcionará por radiotelefonía a la aeronave interceptada la guía para la navegación y toda la información correspondiente.
+
+e) En el caso en que se exija a una aeronave interceptada que aterrice en el territorio sobrevolado, el aeródromo designado a esos efectos será el adecuado para el aterrizaje seguro del tipo de aeronave en cuestión.
 
 2.3.8.2.2.2. A fin de eliminar o disminuir la necesidad de interceptar aeronaves civiles,
 
@@ -776,7 +796,7 @@ e) se den instrucciones claras e inequívocas a las dependencias de control de i
 
 f) las dependencias de control de interceptación y las aeronaves interceptoras estén provistas de equipo de radiotelefonía compatible con las especificaciones técnicas establecidas por la OACI, para que puedan comunicar con la aeronave interceptada en la frecuencia de emergencia de 121,5 MHz;
 
-g) se disponga en la medida de lo posible, de instalaciones de radar secundario de vigilancia para que las dependencias de control de interceptación puedan identificar a las aeronaves civiles en zonas en las que éstas, dado el caso, pudieran ser interceptadas. Estas instalaciones deberán permitir el reconocimiento de los códigos discretos de cuatro dígitos en Modo A, incluso el reconocimiento inmediato de los códigos 7500, 7600 y 7700 en el modo A.
+g) se disponga en la medida de lo posible, de instalaciones de radar secundario de vigilancia y/o ADS-B para que las dependencias de control de interceptación puedan identificar a las aeronaves civiles en zonas en las que éstas, dado el caso, pudieran ser interceptadas. Estas instalaciones deberán permitir el reconocimiento de la identidad de las aeronaves y el reconocimiento inmediato de condiciones de emergencia o urgencia.
 
 2.3.8.2.3. Maniobras de interceptación.
 
@@ -842,7 +862,9 @@ b) lo notificará inmediatamente, si es posible, a la dependencia de los servici
 
 c) tratará inmediatamente de comunicarse por radio con la aeronave interceptora o con la dependencia de control de interceptación apropiada, efectuando una llamada general en la frecuencia de emergencia de 121,5 MHz, indicando la identidad de la aeronave interceptada y la índole del vuelo y, si no se ha establecido contacto y es posible, repitiendo esta llamada en la frecuencia de emergencia de 243 MHz;
 
-d) si está equipada con respondedor SSR, seleccionará inmediatamente el Código 7700, en Modo A, a no ser que reciba otras instrucciones de la dependencia de los servicios de tránsito aéreo apropiada.
+d) si está equipada con transpondedor SSR, seleccionará inmediatamente el Código 7700, en Modo A, a no ser que reciba otras instrucciones de la dependencia de los servicios de tránsito aéreo apropiada;
+
+e) si está equipada con ADS-B o ADS-C, seleccionará la función de emergencia apropiada, si está disponible, a no ser que reciba otras instrucciones de la dependencia de servicios de tránsito aéreo apropiada.
 
 2.3.8.2.5.2. Si alguna instrucción recibida por radio de cualquier fuente estuviera en conflicto con las instrucciones dadas por la aeronave interceptora mediante señales visuales, la aeronave interceptada requerirá aclaración inmediata mientras continúa cumpliendo con las instrucciones visuales dadas por la aeronave interceptora.
 
@@ -902,7 +924,9 @@ En caso de interceptación de aeronaves civiles el Estado se atendrá a los comp
 
 2.3.8.2.9.1. Se mantendrá una estrecha coordinación entre la dependencia de control de interceptación y la dependencia correspondiente de los servicios de tránsito aéreo durante todas las fases de la interceptación de una aeronave que sea, o pudiera ser una aeronave civil, a fin de que se mantenga bien informada a la dependencia de los servicios de tránsito aéreo de los acontecimientos, así como de las medidas que se exigen de la aeronave interceptada.
 
-2.3.9 Operaciones Especiales. Serán catalogadas como Operaciones Especiales las realizadas por aeronaves en:
+2.3.9 Operaciones Especiales.
+
+Serán catalogadas como operaciones especiales las realizadas por aeronaves en:
 
 a) Misiones militares de cualquier naturaleza.
 
@@ -912,19 +936,21 @@ c) Misiones de vigilancia y persecución del tráfico en carreteras.
 
 d) Misiones de vigilancia y persecución aduanera sobre tierra o mar.
 
-e) Todas aquellas que se lleven a cabo para la realización de misiones de:
+e) Misiones de vigilancia del tráfico marítimo y de lucha contra la contaminación marina.
 
-1.º Búsqueda y Salvamento Marítimo o Terrestre.
+f) Todas aquellas que se lleven a cabo para la realización de misiones de:
 
-2.º Transporte Sanitario de Urgencia.
+1.º Búsqueda y salvamento marítimo o terrestre.
+
+2.º Transporte sanitario de urgencia.
 
 3.º Evacuaciones.
 
 4.º Servicios de Extinción de Incendios.
 
-Los operadores de las aeronaves que realizan estas misiones, total o parcialmente, deberán contar con una "Carta Operacional" debidamente justificada y aprobada, en la que se establezcan los criterios de operación y posibles exenciones a las normas establecidas.
+Los operadores de las aeronaves no militares que realizan estas misiones, total o parcialmente, deberán contar con una ‟Carta de exenciones para operaciones especiales” debidamente justificada y aprobada, en la que se establezcan los criterios de operación y posibles exenciones a las normas establecidas.
 
-La "Carta Operacional" deberá contener al menos la siguiente información:
+La ‟Carta de exenciones para operaciones especiales” deberá contener al menos la siguiente información:
 
 a) Características y justificación de las Operaciones Especiales que se realizarán en el cumplimiento de las misiones que el organismo solicitante tiene asignadas.
 
@@ -934,11 +960,13 @@ c) Identificación de los aeródromos y helipuertos permanentes y eventuales, ho
 
 d) Procedimientos de coordinación con la correspondiente Dependencia de Control de Tránsito Aéreo.
 
-e) Datos relativos a la flota de aeronaves, pilotos, permisos administrativos a las empresas.
+e) En su caso, datos relativos a la flota de aeronaves, pilotos, permisos administrativos a las empresas.
 
-Se entenderá que las exenciones al Reglamento de Circulación Aérea incluidas en una Carta Operacional podrán otorgarse a cualquiera de las disposiciones contenidas en el Reglamento de Circulación Aérea, siempre que sean imprescindibles para el cumplimiento eficaz y seguro de las Operaciones Especiales objeto de dicha Carta Operacional, con motivo de las exigencias planteadas para la realización de dichas operaciones.
+Se entenderá que las exenciones al Reglamento de Circulación Aérea incluidas en una Carta de exenciones para operaciones especiales podrán otorgarse a cualquiera de las disposiciones contenidas en el Reglamento de Circulación Aérea, siempre que sean imprescindibles para el cumplimiento eficaz y seguro de las Operaciones Especiales objeto de dicha Carta de exenciones para operaciones especiales, con motivo de las exigencias planteadas para la realización de dichas operaciones.
 
-Las aeronaves no podrán ajustarse a estas exenciones cuando no estén realizando las Operaciones Especiales que se especifiquen en la correspondiente Carta Operacional.
+Las aeronaves no podrán ajustarse a estas exenciones cuando no estén realizando las Operaciones Especiales que se especifiquen en la correspondiente Carta de exenciones para operaciones especiales. No obstante, por la importancia y naturaleza de estas operaciones, cuyo fin es el interés público, podrán aplicarse exenciones específicas en el marco de la misma Carta de exenciones para operaciones especiales a aquellos vuelos de entrenamiento o simulacro que resulten esenciales para la efectividad de las mencionadas operaciones especiales. En todo caso, para estos vuelos de entrenamiento o simulacro se requerirá la coordinación oportuna con los servicios de tránsito aéreo y, en particular, la presentación de los planes de vuelo correspondientes.
+
+En la correspondiente publicación de información aeronáutica se recogerá el formato que se utilizará para las Cartas de exenciones de operaciones especiales.
 
 ## CAPÍTULO 4
 
@@ -988,9 +1016,13 @@ b) respondedor SSR en estado operativo con Modo A/3 y capacidad para 4096 claves
 
 2.4.4. A menos que lo autorice la autoridad ATS competente civil/militar, no se realizarán vuelos VFR:
 
-a) por encima del nivel de vuelo 200 en la región EUR y por encima del nivel de vuelo 150 en la región AFI;
+a) por encima del nivel de vuelo 195 en las FIR/UIR de Madrid, Barcelona y Canarias;
 
 b) a velocidades transónicas o supersónicas.
+
+Nota.–De conformidad con lo recogido en el Reglamento (CE) n.º 730/2006, en el espacio aéreo por encima del nivel de vuelo 195, el Estado podrá establecer espacios aéreos reservados en los que, siempre que sea factible, los vuelos VFR pueden ser permitidos.
+
+En el espacio aéreo por encima del nivel de vuelo 195 hasta el nivel de vuelo 285 inclusive, los vuelos VFR también podrán ser autorizados por las dependencias de servicios de tránsito aéreo responsables, de acuerdo con los procedimientos de autorización establecidos y publicados por el Estado en las publicaciones de información aeronáutica pertinentes.
 
 2.4.5. No se otorgará autorización para vuelos VFR por encima del FL 290 en áreas donde se aplica una separación vertical mínima de 300 m (1.000 ft) por encima de dicho nivel de vuelo.
 
@@ -1002,7 +1034,7 @@ b) En cualquier otra parte distinta de la especificada en 2.4.6. a), a una altur
 
 Las limitaciones especificadas en los apartados a) y b) podrán ser modificadas por la autoridad competente cuando las circunstancias lo aconsejen.
 
-2.4.7. A no ser que se indique de otro modo en las autorizaciones de control de tránsito aéreo o por disposición de la autoridad ATS competente, los vuelos VFR en vuelo horizontal de crucero cuando operen por encima de 900 m (3000 ft) con respecto al terreno o al agua, o de un plano de comparación más elevado según especifique la autoridad ATS competente, se efectuarán a un nivel de vuelo apropiado a la derrota, como se especifica en la tabla de niveles que figura en el Apéndice B.
+2.4.7. A no ser que se indique de otro modo en las autorizaciones de control de tránsito aéreo o por disposición de la autoridad ATS competente, los vuelos VFR en vuelo horizontal de crucero cuando operen por encima de 900 m (3000 ft) con respecto al terreno o al agua, o de un plano de comparación más elevado según especifique la autoridad ATS competente, se efectuarán a un nivel de crucero apropiado a la derrota, como se especifica en la tabla de niveles que figura en el Apéndice B.
 
 2.4.8. Los vuelos VFR observarán las disposiciones de 2.3.6.:
 
@@ -1107,6 +1139,8 @@ b) mantenga la escucha en la radiofrecuencia adecuada y establezca comunicación
 notificará la posición de acuerdo con lo especificado en 2.3.6.3. para vuelos controlados.
 
 2.5.3.3.2. Las aeronaves que decidan utilizar el servicio de asesoramiento de tránsito aéreo mientras vuelan en condiciones IFR dentro de áreas especificadas con servicio de asesoramiento, se espera que cumplan las disposiciones de 2.3.6., pero el plan de vuelo y los cambios que se hagan en él no están supeditados a autorizaciones y las comunicaciones en ambos sentidos se mantendrán con la dependencia que suministre el servicio de asesoramiento de tránsito aéreo.
+
+> Se modifican los Capítulos 3 y 4 por el art. único 3 y 4 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268
 
 > Se modifican los Capítulos 2 a 4 por el art. único. 2 de la Orden PRE/3531/2007, de 29 de noviembre. Ref. BOE-A-2007-20912
 

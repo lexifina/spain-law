@@ -528,7 +528,7 @@ La gran variabilidad de los valores que seguramente se asociarán con cada uno d
 
 La palabra «retención», utilizada en la presente sección, sirve para indicar que el espacio aéreo protegido contendrá el tránsito durante el 95% del tiempo total de vuelo (es decir, acumulado para todas las aeronaves) durante el cual el tránsito opera a lo largo de la ruta considerada. Cuando se proporciona, por ejemplo, un nivel de retención de 95% resulta implícito que, durante el 5% del tiempo total de vuelo, el tránsito se hallará fuera del espacio aéreo protegido. No es posible cuantificar la distancia máxima a la que es probable que dicho tránsito se desvíe más allá del espacio aéreo protegido.
 
-3.1. El texto de orientación siguiente se refiere a las rutas definidas por VOR, cuando no se usa el radar para ayudar a las aeronaves a permanecer dentro del espacio aéreo protegido. Sin embargo, cuando las desviaciones laterales de las aeronaves se controlen sirviéndose de supervisión radar, puede reducirse la dimensión del espacio aéreo protegido necesario, según indique la experiencia práctica adquirida en el espacio aéreo considerado.
+3.1. El texto de orientación siguiente se refiere a las rutas definidas por VOR, cuando no se usa el radar o la ADS-B, para ayudar a las aeronaves a permanecer dentro del espacio aéreo protegido. Sin embargo, cuando las desviaciones laterales de las aeronaves se controlen sirviéndose de supervisión radar o ADS-B, puede reducirse la dimensión del espacio aéreo protegido necesario, según indique la experiencia práctica adquirida en el espacio aéreo considerado.
 
 3.2. Como mínimo, la protección contra la actividad en el espacio aéreo adyacente a las rutas debería ofrecer una retención de 95%.
 
@@ -643,9 +643,9 @@ a) que las aeronaves pueden, durante el ascenso, descenso o en vuelo horizontal,
 
 b) que las densidades de tránsito son de 25.000 a 50.000 vuelos por un período de mayor ocupación de dos meses;
 
-c) que las transmisiones VOR, las cuales son comprobadas en vuelo periódicamente de acuerdo con el Doc 8071 de la OACI, Manual sobre ensayo de radioayudas para la navegación, han sido consideradas satisfactorias, de acuerdo con los procedimientos contenidos en ese documento, para la navegación en las rutas definidas; y
+c) que las transmisiones VOR, las cuales son comprobadas en vuelo periódicamente de acuerdo con el Documento 8071 de la OACI, Manual sobre ensayo de radioayudas para la navegación, han sido consideradas satisfactorias, de acuerdo con los procedimientos contenidos en ese documento, para la navegación en las rutas definidas; y
 
-d) que no hay supervisión ni control radar en tiempo real de las desviaciones laterales.
+d) que no hay supervisión ni control radar o ADS-B en tiempo real de las desviaciones laterales.
 
 4.3 El trabajo preliminar realizado indica que, en las circunstancias descritas en a) a c), que siguen, quizá sería posible reducir la distancia mínima entre las rutas.¶Sin embargo, los valores facilitados no han sido calculados con precisión, por lo cual, en cada caso es esencial hacer un estudio detallado de las circunstancias particulares:
 
@@ -655,31 +655,33 @@ b) si las características de tránsito difieren de modo significativo de las qu
 
 c) los emplazamientos relativos de los VOR que definen las dos derrotas y la distancia entre los VOR, tendrán un efecto en el espaciado, pero no se ha determinado su magnitud.
 
-4.4. La aplicación de la supervisión radar y del control de las desviaciones laterales de las aeronaves, pueden tener un efecto importante en la distancia mínima admisible entre rutas. Los estudios sobre el efecto de la supervisión radar indican que:
+4.4. La aplicación de la supervisión radar o ADS-B y del control de las desviaciones laterales de las aeronaves, pueden tener un efecto importante en la distancia mínima admisible entre rutas.
 
-– habrán de efectuarse otros trabajos antes de que pueda prepararse un modelo matemático plenamente satisfactorio;
+Los estudios sobre el efecto de la supervisión radar indican que:
 
-– cualquier reducción de la separación se encuentra estrechamente relacionada:
+a) Habrán de efectuarse otros trabajos antes de que pueda prepararse un modelo matemático plenamente satisfactorio;
 
-• con el tránsito (volumen, características);
+b) Cualquier reducción de la separación se encuentra estrechamente relacionada:
 
-• con la cobertura y tratamiento radar, así como la disponibilidad de una alarma automática;
+1.º Con el tránsito (volumen, características).
 
-• con la continuidad de la supervisión radar;
+2.º Con la cobertura y procesamiento de datos, así como la disponibilidad de una alarma automática.
 
-• con la carga de trabajo en distintos sectores; y
+3.º Con la continuidad de la supervisión.
 
-• con la calidad de la radiotelefonía.
+4.º Con la carga de trabajo en distintos sectores; y
+
+5.º Con la calidad de la radiotelefonía.
 
 Con arreglo a dichos estudios y habida cuenta de la experiencia que han adquirido durante muchos años algunos Estados que tienen sistemas de rutas paralelas donde es continuo el control radar, cabe esperar que sea posible efectuar una reducción del orden de 15 a 18,5 km (8 a 10 NM), pero muy probablemente de no más de 13 km (7 NM), siempre y cuando ello no aumente apreciablemente la carga de trabajo de la supervisión radar. La utilización real de tales sistemas con un espaciado lateral reducido ha revelado que:
 
-– es muy importante definir y promulgar los puntos de cambio (véase también 6);
+a) Es muy importante definir y promulgar los puntos de cambio (véase también 6);
 
-– de ser posible, deberían evitarse grandes virajes; y
+b) A ser posible, deberían evitarse grandes virajes; y
 
-– cuando no sea posible evitar grandes virajes, los perfiles de viraje necesarios deberían definirse para los de más de 20°.
+c) Cuando no sea posible evitar grandes virajes, los perfiles de viraje necesarios deberían definirse para los de más de 20°.
 
-Aun cuando la probabilidad de la falla radar total es muy pequeña, habría que considerar procedimientos aplicables en tales casos.
+Aun cuando la probabilidad de la falla radar o ADS-B total es muy pequeña, habría que considerar procedimientos aplicables en tales casos.
 
 5. Espaciado de rutas adyacentes no paralelas definidas por VOR.
 
@@ -934,5 +936,7 @@ Tabla B-1. Valores máximos aceptables de desviaciones laterales superiores o ig
 | 1,8 | 2,35 x 10-5 | 2,22 x 10-5 | 2,09 x 10-5 | 1,42 x 10-5 |
 | 1,9 | 2,29 x 10-5 | 2,17 x 10-5 | 2,05 x 10-5 | 1,41 x 10-5 |
 | 2 | 2,24 x 10-5 | 2,13 x 10-5 | 2,01 x 10-5 | 1,41 x 10-5 |
+
+> Se modifica el Adjunto 5 por el art. único.21 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268
 
 > Se modifica el Adjunto 6 por el art.único.5 de la Orden PRE/697/2008, de 12 de marzo. Ref. BOE-A-2008-5008

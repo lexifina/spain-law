@@ -36,7 +36,7 @@ Capítulo 7: 4.7.1 y 4.7.2;
 
 Capítulo 10 y Apéndices A, L, Y.
 
-4.2.1.2. Entre los objetivos del control de tránsito aéreo previstos en el Libro Tercero, no se incluye la prevención de colisiones con el terreno. Por lo tanto, los procedimientos prescritos en este Libro no eximen al piloto de su responsabilidad de cerciorarse de que todas las autorizaciones expedidas por las dependencias de control de tránsito aéreo ofrecen seguridad a este respecto, excepto cuando un vuelo IFR es guiado por vectores radar.
+4.2.1.2. Entre los objetivos del servicio de control de tránsito aéreo, según lo prescrito en el Libro Tercero, no se incluye prevenir colisiones con el terreno. Por lo tanto, los procedimientos prescritos en este Libro no eximen al piloto de su responsabilidad de cerciorarse de que cualquier autorización expedida por las dependencias de control de tránsito aéreo ofrece seguridad a este respecto, excepto cuando un vuelo IFR recibe guía vectorial radar o se le da una ruta directa que desvía a la aeronave de una ruta ATS, para lo cual se aplican los procedimientos que figuran en el capítulo 6, apartado 4.6.6.5.2.
 
 4.2.2. Contenido del Libro Cuarto.
 
@@ -92,7 +92,7 @@ b) dentro del espacio aéreo controlado y en aeródromos controlados: por las pe
 
 4.2.5.1.1.1. Aeronaves que llegan.
 
-La responsabilidad del control de una aeronave que se aproxima para aterrizar, se transferirá de la dependencia que proporcione servicio de control de aproximación a la que proporcione servicio de control de aeródromo, cuando la aeronave:
+La responsabilidad del control de una aeronave que se aproxima para aterrizar se transferirá de la dependencia que proporcione servicio de control de aproximación a la que proporcione servicio de control de aeródromo, cuando la aeronave:
 
 a) se halle en la proximidad del aeródromo, y;
 
@@ -100,29 +100,33 @@ i) se considere que la aproximación y el aterrizaje se terminarán por referenc
 
 ii) haya llegado a un punto en que reinen condiciones meteorológicas de vuelo visual ininterrumpidas, o
 
-b) haya aterrizado;
+b) haya llegado a un punto o nivel prescritos; o
 
-lo primero que ocurra.
+c) haya aterrizado;
+
+según lo especificado en cartas de acuerdo o instrucciones de la dependencia ATS.
 
 4.2.5.1.1.1.1. Aunque haya una oficina de control de aproximación, se podrá transferir el control de ciertos vuelos, directamente de un centro de control de área a una torre de control de aeródromo, mediante arreglos previos entre las dependencias interesadas respecto a la parte pertinente del servicio de control de aproximación que ha de proporcionar el centro de control de área o la torre de control de aeródromo, según corresponda.
 
 4.2.5.1.1.2. Aeronaves que salen.
 
-La responsabilidad del control de una aeronave que sale, se transferirá de la dependencia que proporciona servicio de control de aeródromo, a la que proporciona servicio de control de aproximación:
+La responsabilidad del control de una aeronave que sale se transferirá de la dependencia que proporciona servicio de control de aeródromo a la que proporciona servicio de control de aproximación:
 
 a) cuando predominen condiciones meteorológicas de vuelo visual en las proximidades del aeródromo:
 
-i) antes de que la aeronave salga de las proximidades del aeródromo, o
+i) antes de que la aeronave salga de las proximidades del aeródromo,
 
-ii) antes de que entre en espacio en que reinen condiciones meteorológicas de vuelo por instrumentos,
+ii) antes de que entre en espacio en que reinen condiciones meteorológicas de vuelo por instrumentos, o
 
-lo primero que ocurra;
+iii) cuando la aeronave haya llegado a un punto o nivel prescritos,
 
 b) cuando predominen condiciones meteorológicas de vuelo por instrumentos en las proximidades del aeródromo:
 
-i) inmediatamente antes de que la aeronave entre en la pista en uso para el despegue, o
+i) inmediatamente después de que la aeronave esté en el aire, o
 
-ii) inmediatamente después de que la aeronave esté volando, si los procedimientos locales consideran preferible tal medida.
+ii) cuando la aeronave haya llegado a un punto o nivel prescritos,
+
+según lo especificado en cartas de acuerdo o instrucciones de la dependencia ATS.
 
 4.2.5.1.1.2.1. Aunque haya una oficina de control de aproximación, se podrá transferir el control de ciertos vuelos, directamente de una torre de control de aeródromo a un centro de control de área, mediante arreglos previos entre las dependencias interesadas respecto a la parte pertinente del servicio de control de aproximación que ha de proporcionar la torre de control de aeródromo o el centro de control de área, según corresponda.
 
@@ -134,7 +138,7 @@ a) las aeronaves que llegan, que le haya transferido el centro de control de ár
 
 b) las aeronaves que salen, hasta que éstas se transfieran al centro de control de área.
 
-4.2.5.2.1.1. En condiciones que requieran establecer una secuencia de aproximación, la dependencia que proporcione servicio de control de área, será normalmente responsable de autorizar a las aeronaves hasta el punto de espera, y de incluir en las autorizaciones instrucciones para la espera y la hora prevista de aproximación.
+4.2.5.2.1.1. En condiciones que requieran establecer una secuencia de aproximación, la dependencia que proporcione servicio de control de área, será normalmente responsable de autorizar a las aeronaves hasta el punto de referencia de espera, y de incluir en las autorizaciones instrucciones para la espera y la hora prevista de aproximación.
 
 4.2.5.2.1.2. La dependencia que suministre servicio de control de aproximación asumirá el control de las aeronaves que llegan, siempre que se le hayan transferido tales aeronaves, al l legar éstas al punto acordado de transferencia de control, y seguirá controlándolas durante la aproximación al aeródromo.
 
@@ -860,15 +864,15 @@ Las instrucciones para la anotación y notificación pueden imprimirse en el rev
 
 4.2.16. Transmisión de información meteorológica.
 
-4.2.16.1. Al recibir informes ADS que contengan un bloque de información meteorológica, las dependencias de servicios de tránsito aéreo trasmitirán sin dilación los bloques de información básica ADS y meteorológica a los centros mundiales de pronósticos de área (WAFCS) y, cuando corresponda, a los centros regionales de pronósticos de área (RAFCS).
+4.2.16.1. Al recibir informes ADS que contengan un bloque de información meteorológica, las dependencias de servicios de tránsito aéreo transmitirán sin dilación los bloques de información básica ADS y meteorológica a los centros mundiales de pronósticos de área (WAFCS).
 
-4.2.16.2. Al recibir aeronotificaciones especiales por comunicaciones de enlace de datos, las dependencias de servicios de tránsito aéreo las remitirán sin dilación a sus oficinas de vigilancia meteorológica correspondientes, a los WAFC y, cuando corresponda, a los RAFC.
+4.2.16.2 Al recibir aeronotificaciones especiales por comunicaciones de enlace de datos, las dependencias de servicios de tránsito aéreo las remitirán sin dilación a sus oficinas de vigilancia meteorológica correspondientes, y a los WAFC.
 
 4.2.16.3. Al recibir aeronotificaciones ordinarias por comunicaciones orales, las dependencias de los servicios de tránsito aéreo los transmitirán sin demora a sus oficinas de vigilancia meteorológica asociadas. Cuando se trate de aeronotificaciones ordinarias que contengan una Sección 3, la dependencia de servicios de tránsito aéreo transmitirá la Sección 1, subpartidas 1 a 3, y la Sección 3.
 
 4.2.17. Notificación de incidentes de tránsito aéreo
 
-4.2.17.1. Podrá presentarse, normalmente a la dependencia de servicios de tránsito aéreo interesada, una notificación de incidente de tránsito aéreo en el caso de incidentes que estén específicamente relacionados con el suministro de servicios de tránsito aéreo en los que se haya producido proximidad de aeronaves (AIRPROX) o una dificultad grave causada por procedimientos defectuosos, por no haberse respetado los procedimientos aplicables o por fallo de las instalaciones y servicios terrestres.
+4.2.17.1. Se deberá enviar una notificación de todo incidente de tránsito aéreo que esté específicamente relacionado con el suministro de servicios de tránsito aéreo debido, entre otros, a procedimientos erróneos, incumplimiento de los procedimientos o fallo de las instalaciones terrestres, conforme a lo dispuesto en el Real Decreto 1334/2005 de 14 de noviembre, por el que se establece el sistema de notificación obligatoria de sucesos en la aviación civil.
 
 4.2.17.2. La autoridad competente establecerá procedimientos para la notificación de incidentes de proximidad de aeronaves y su investigación, con miras a promover la seguridad de las aeronaves.
 
@@ -949,6 +953,98 @@ d) Cinco millas náuticas de separación lateral.
 4.2.20.5. La información que se facilite a la aeronave que va a efectuar una operación de vaciado rápido de combustible fuera de espacio aéreo controlado incluirá la posición, nivel y dirección del tránsito conocido con el que tenga una separación inferior a la indicada en 4.2.20.4.
 
 4.2.20.6. Tan pronto como la aeronave haya finalizado el vaciado de combustible lo comunicará a la dependencia que proporciona servicios de tránsito aéreo en el área de que se trate.
+
+4.2.21. Instrucciones para control de la velocidad horizontal.
+
+4.2.21.1 Generalidades.
+
+4.2.21.1.1 Para facilitar una circulación segura y ordenada del tránsito pueden impartirse instrucciones a la aeronave, a reserva de condiciones especificadas por la autoridad competente, a que ajuste su velocidad de una forma específica. Debería proporcionarse a las tripulaciones de vuelo un aviso adecuado del control proyectado de la velocidad.
+
+Nota 1. La aplicación del control de velocidad por un período prolongado de tiempo puede influir en las reservas de combustible de la aeronave.
+
+Nota 2. En el capítulo 3 de este Libro figuran disposiciones relativas a la separación longitudinal aplicándose la técnica del número de Mach.
+
+4.2.21.1.2 No se aplicará control de velocidad a aeronaves que entren o se hayan establecido en un circuito de espera.
+
+4.2.21.1.3 Los ajustes de la velocidad deberán limitarse a los necesarios para establecer o mantener una separación mínima deseada o una distancia entre aeronaves. Deberán evitarse impartir instrucciones que impliquen cambios frecuentes de la velocidad, incluidos los aumentos y disminuciones alternados de velocidad.
+
+4.2.21.1.4 La tripulación de vuelo informará a la dependencia ATC interesada si en cualquier momento no tiene posibilidad de cumplir con una instrucción de velocidad. En tales casos, el controlador aplicará un método de alternativa para lograr la separación deseada entre las aeronaves de que se trate.
+
+4.2.21.1.5 A los niveles de 7 600 m (FL 250) y superiores, deberán expresarse los ajustes de la velocidad en múltiplos de 0,01 Mach; a niveles por debajo de 7 600 m (FL 250) deberían expresarse los ajustes de velocidad en múltiplos de 20 km/h (10 kt) en base a la velocidad aerodinámica indicada (IAS).
+
+Nota 1.-Mach 0,01 es aproximadamente igual a 11 km/h (6 kt) IAS a niveles de vuelo más elevados.
+
+Nota 2.-Cuando se trate de una aeronave muy cargada y a un nivel alto su posibilidad de cambiar la velocidad puede ser en algunos casos muy limitada.
+
+4.2.21.1.6 Se notificará a la aeronave el momento en el que ya no se requiere una restricción para control de velocidad.
+
+4.2.21.2 Métodos de aplicación.
+
+4.2.21.2.1 Para establecer una separación deseada entre dos o más aeronaves sucesivas, el controlador deberá en primer lugar, o bien reducir la velocidad de la última aeronave o bien aumentar la velocidad de la aeronave que precede, después ajustar las velocidades de las otras aeronaves en orden.
+
+4.2.21.2.2 Para mantener una separación deseada entre aeronaves aplicando las técnicas de control de la velocidad, es necesario asignar determinadas velocidades a todas las aeronaves de que se trate.
+
+Nota 1.-La velocidad aerodinámica verdadera (TAS) de una aeronave disminuirá durante el descenso cuando se mantiene una IAS constante. Cuando dos aeronaves que descienden, mantienen la misma IAS, y la aeronave delantera está a un nivel inferior, la TAS de la aeronave delantera será inferior a la de la aeronave siguiente. Por lo tanto, la distancia entre las dos aeronaves disminuirá, a no ser que se aplique una diferencia suficiente de velocidad. Para fines de calcular una diferencia deseada de velocidades entre dos aeronaves sucesivas, puede utilizarse como regla general 11 km/h (6 kt) IAS por cada 300 m (1 000 ft) de diferencia de altura. A niveles por debajo de 2 450 m (FL 80)la diferencia entre IAS y TAS es despreciable para fines de control de la velocidad.
+
+Nota 2.-El tiempo y la distancia requerida para lograr una separación deseada aumentará a niveles superiores, a velocidades más elevadas y cuando la aeronave está en una configuración limpia.
+
+4.2.21.3 Aeronaves descendiendo y a la llegada.
+
+4.2.21.3.1 Cuando sea posible, deberá darse a las aeronaves autorización para absorber un período de retraso en el terminal que se le haya notificado, volando en crucero a velocidad reducida durante la última parte del vuelo.
+
+4.2.21.3.2 Pueden darse instrucciones a una aeronave que llegue para mantener su «velocidad máximaˮ, "velocidad mínima limpiaˮ, "velocidad mínimaˮ, o una determinada velocidad.
+
+Nota.-"Velocidad mínima limpiaˮ significa la velocidad mínima a la cual una aeronave puede volar en una configuración limpia, es decir sin desplegar dispositivos de aumento de la sustentación, frenos aerodinámicos o tren de aterrizaje.
+
+4.2.21.3.3 Las reducciones de la velocidad a menos de 460 km/h (250 kt) IAS para aeronaves de turborreacción durante el descenso inicial solamente deberán aplicarse con el consentimiento de la tripulación de vuelo.
+
+4.2.21.3.4 Se evitará impartir instrucciones a una aeronave para que simultáneamente mantenga regímenes elevados de descenso y disminuya su velocidad puesto que tales maniobras son normalmente incompatibles. Cualquier reducción significativa de la velocidad durante el descenso puede requerir que la aeronave se ponga temporalmente en vuelo horizontal para reducir la velocidad antes de continuar el descenso.
+
+4.2.21.3.5 Deberá permitirse que la aeronave que llega se mantenga en una configuración limpia por un período tan prolongado como sea posible. Por debajo de 4 550 m (FL 150), pueden aplicarse reducciones de velocidad de aeronaves de turborreacción a no menos de 410 km/h (220 kt) IAS, que normalmente se acercará mucho a la velocidad mínima de las aeronaves de turborreacción en una configuración limpia.
+
+4.2.21.3.6 Solamente se deberán utilizar para aeronaves en la aproximación intermedia y final ajustes menores de la velocidad que no excedan de más/menos 40 km/h (20 kt) IAS.
+
+4.2.21.3.7 No se aplicará el control de velocidad para una aeronave después de que pase por un punto a 7 km (4 NM) del umbral en la aproximación final.
+
+4.2.22 Instrucciones para control de la velocidad vertical.
+
+4.2.22.1 Generalidades.
+
+4.2.22.1.1 Para facilitar una circulación segura y ordenada del tránsito, pueden impartirse instrucciones a la aeronave para que ajuste el régimen de ascenso o el régimen de descenso.
+
+Puede aplicarse el control de la velocidad vertical entre dos aeronaves que asciendan o dos aeronaves que desciendan a fin de establecer o mantener una determinada mínima de separación vertical.
+
+4.2.22.1.2 Los ajustes de la velocidad vertical deberán limitarse a lo necesario para establecer o mantener una mínima deseada de separación. Deberá evitarse impartir instrucciones que impliquen cambios frecuentes de velocidades verticales de ascenso/ descenso.
+
+4.2.22.1.3 La tripulación de vuelo informará a la dependencia ATC de que se trate si, en cualquier momento, no puede cumplir con una determinada velocidad vertical de ascenso o de descenso. En tales casos, el controlador aplicará sin demora un método de alternativa para lograr una separación mínima adecuada entre las aeronaves.
+
+4.2.22.1.4 Se comunicará a la aeronave si ya no se requiere aplicar ninguna restricción de la velocidad vertical de ascenso o de descenso.
+
+4.2.22.2 Métodos de aplicación.
+
+4.2.22.2.1 Pueden darse instrucciones a una aeronave para que acelere el ascenso o el descenso según corresponda hacia o pasando por un nivel determinado, o pueden darse instrucciones a la aeronave para que reduzca su régimen de ascenso o su régimen de descenso.
+
+4.2.22.2.2 Pueden darse instrucciones a la aeronave en ascenso para que mantenga un régimen determinado de ascenso, un régimen de ascenso igual o superior a un valor especificado o un régimen de ascenso igual o inferior a un valor especificado.
+
+4.2.22.2.3 Pueden darse instrucciones a la aeronave que desciende para que mantenga un régimen especificado de descenso, un régimen de descenso igual o superior a un valor especificado o un régimen de descenso igual o inferior a un valor especificado.
+
+4.2.22.2.4 Al aplicar el control de velocidad vertical, el controlador deberá asegurarse de cuál o cuáles son los niveles en los que la aeronave que asciende pueda mantener un régimen determinado de ascenso o, en el caso de aeronaves que descienden, pueda mantener el régimen especificado de descenso y se asegurará de que puedan aplicarse de forma oportuna, de ser necesario, los métodos de alternativa para mantener la separación.
+
+Nota.-Los controladores han de ser conscientes de las características y limitaciones de la «performanceˮ de las aeronaves en relación con la aplicación simultánea de limitaciones de velocidad en el plano horizontal y en el plano vertical.
+
+4.2.23 Presentación de información y de datos. Fichas de progresión de vuelo (FPS).
+
+4.2.23.1 El plan de vuelo y los datos de control requeridos, relativos al progreso actualizado de los vuelos a los que se suministra los ATS, se presentarán normalmente en fichas impresas de progresión del vuelo, fichas electrónicas de progresión del vuelo, o mediante otras formas de presentación electrónica o una combinación de diversos métodos de presentación.
+
+4.2.23.2 Deberá haber una ficha para cada vuelo, por lo menos. El número de fichas para cada vuelo será suficiente para satisfacer los requisitos de la dependencia ATS en cuestión. Los procedimientos para anotar los datos y las disposiciones por las que se determinan los tipos de datos que han de incluirse en las fichas, incluso los símbolos, serán los especificados por la autoridad ATS competente.
+
+Nota.-En el Manual de planificación de los servicios de tránsito aéreo (Documento 9426) de OACI se presentan textos de orientación sobre el uso de FPS impresas.
+
+4.2.23.3 En una ficha de progresión de vuelo se registrarán los detalles esenciales referentes a cada vuelo. A medida que el vuelo progresa, la información contenida en la ficha de progresión de vuelo se enmendará según sea necesario, con arreglo a la información más reciente disponible.
+
+4.2.23.4 Sólo se registrarán en las fichas de progresión de vuelo los datos que se necesiten para el funcionamiento eficaz de un determinado puesto de servicio. Sin embargo, debe tenerse presente que, además de servir de recopilación, la información registrada deberá ser suficiente para que pueda efectuarse el relevo de servicio con el mínimo aleccionamiento posible, o para que pueda realizarse la reconstrucción de la situación del tránsito en la sucesión correcta de circunstancias, de ser necesario.
+
+4.2.23.5 Las FPS impresas se conservarán por un período de 45 días. Los datos de la marcha del vuelo y de la coordinación electrónicos se grabarán y conservarán por lo menos durante el mismo período de tiempo.
 
 ## CAPÍTULO 3
 
@@ -1323,6 +1419,8 @@ b) condiciones adicionales a las prescritas para el uso de una mínima determina
 4.3.8.1.1. La separación longitudinal se aplicará de forma que el espacio entre las posiciones estimadas de las aeronaves que han de separarse no sea nunca menor que la mínima prescrita.
 
 La separación longitudinal entre aeronaves que sigan la misma derrota o derrotas divergentes puede mantenerse mediante la aplicación de la técnica basada en el número de Mach, cuando así se prescriba de conformidad con acuerdos regionales de navegación aérea.
+
+Nota.-La técnica del número de Mach se aplica utilizando el número de Mach verdadero.
 
 4.3.8.1.2. La separación longitudinal se establecerá exigiendo a las aeronaves que salgan a horas determinadas, para pasar sobre un punto geográfico a una hora dada, o que estén en circuito de espera sobre un lugar geográfico hasta una hora determinada.
 
@@ -1848,17 +1946,17 @@ Al vuelo así autorizado le corresponde garantizar que, mientras dure la autoriz
 
 Los vuelos VFR deben permanecer, en todo momento, en condiciones meteorológicas visuales. Por tanto, el expedir una autorización a un vuelo VFR a reserva de que cuide su propia separación y permanezca en condiciones meteorológicas de vuelo visual, no tiene otro objeto que el de indicar que, mientras dure la autorización, ésta no implicará suministro de separación por parte del control de tránsito aéreo.
 
-4.3.13.1. Cuando lo solicite una aeronave, o lo proponga una dependencia ATC y lo acepte la aeronave, se podrá dar autorización a un vuelo controlado que opere en condiciones meteorológicas visuales durante las horas diurnas para que vuele cuidando su propia separación y permaneciendo en condiciones meteorológicas de vuelo visual.
+4.3.13.1. Cuando lo solicite una aeronave, y con tal de que el piloto de la otra aeronave dé su consentimiento y el procedimiento haya sido previamente aprobado por la autoridad ATS competente, una dependencia ATC podrá dar autorización a un vuelo controlado que opere en el espacio aéreo de Clases D y E en condiciones meteorológicas visuales durante las horas diurnas para que vuele cuidando su propia separación con respecto únicamente a otra aeronave y permaneciendo en condiciones meteorológicas de vuelo visual. Cuando así se permita a un vuelo controlado, regirá lo siguiente:
 
-Cuando así se permita a un vuelo controlado, regirá lo siguiente:
+a) la autorización será para una parte específica del vuelo a 3.050 m (10.000 ft) o por debajo durante la subida o el descenso, quedando sujeto a las demás restricciones que se prescriban a base de acuerdos regionales de navegación aérea;
 
-a) la autorización será para una parte específica del vuelo durante la subida o el descenso quedando sujeto a las demás restricciones que se prescriban a base de acuerdos regionales de navegación aérea;
-
-b) si existe la posibilidad de que el vuelo no pueda realizarse en condiciones meteorológicas visuales, se proporcionarán a un vuelo IFR instrucciones de alternativa que habrán de cumplirse en el caso de que el vuelo en VMC no pueda mantenerse durante el plazo de validez de la autorización;
+b) si existe la posibilidad de que el vuelo no pueda realizarse en condiciones meteorológicas visuales, se proporcionarán a un vuelo IFR las instrucciones de alternativa que habrán de cumplirse en el caso de que el vuelo no pueda mantenerse en VMC durante el plazo de validez de la autorización;
 
 c) si el piloto de un vuelo IFR observa que las condiciones se están deteriorando y considera que el operar en VMC llegará a ser imposible, informará al ATC antes de entrar en IMC y procederá de conformidad con las instrucciones de alternativa proporcionadas;
 
-d) se proporcionará información sobre el tránsito esencial a los vuelos controlados pertinentes cuando constituyan entre sí tránsito esencial. (Véase Sección 4.3.14.)
+d) se proporcionará información sobre el tránsito esencial a los vuelos controlados pertinentes cuando constituyan entre sí tránsito esencial.
+
+Nota.–Esta información se referirá inevitablemente a los vuelos controlados que hayan sido autorizados a reserva de cuidar su propia separación y permanecer en condiciones meteorológicas de vuelo visual y también siempre que se haya infringido la mínima de separación deseada’
 
 4.3.14. Información sobre el tránsito esencial.
 
@@ -1872,11 +1970,19 @@ Esta información se referirá inevitablemente a los vuelos controlados que haya
 
 a) dirección que haya de seguir el vuelo de las aeronaves de que se trate;
 
-b) tipo de las aeronaves de que se trate;
+b) tipo y categoría de estela turbulenta (de ser pertinente) de las aeronaves de que se trate;
 
-c) nivel de crucero de las aeronaves de que se trate y hora prevista en la vertical del punto de notificación más próximo a aquél en que se cruzará el nivel.
+c) nivel de crucero de las aeronaves de que se trate; y
 
-El ATC dará a las aeronaves bajo su control cualquier otra información de que disponga, con objeto de mejorar la seguridad aérea, de conformidad con los objetivos ATS que se definen en el Capítulo 2 del Libro Tercero.
+1.º hora prevista en la vertical del punto de notificación más próximo a aquél en que se cruzará el nivel; o
+
+2.º marcación relativa de la aeronave en cuestión en términos de un reloj de 12 horas, así como la distancia al tránsito que está en conflicto; o
+
+3.º posición actual o prevista de la aeronave en cuestión.
+
+El ATC dará a las aeronaves bajo su control cualquier otra información de que disponga, con objeto de mejorar la seguridad aérea, de conformidad con los objetivos ATS, que se definen en el Capítulo 2 del Libro Tercero.
+
+Nota.-La categoría de estela turbulenta solamente será información de tránsito esencial si la aeronave en cuestión es de una categoría más pesada de estela turbulenta que la aeronave a la que se dirige la información de tránsito.
 
 4.3.15. Autorización de una solicitud de cambio en el plan de vuelo.
 
@@ -1996,109 +2102,69 @@ c) Tan pronto como sea posible, proporcionar la separación adecuada con otros t
 
 4.3.17. Fallo de las comunicaciones aeroterrestres.
 
-Nota: Las aeronaves equipadas con respondedor que experimenten una falla de radiocomunicaciones, harán funcionar el respondedor SSR en el Modo A, Código 7600.
+Nota.-Las aeronaves equipadas con respondedor que experimenten una falla de radiocomunicaciones, harán funcionar el respondedor SSR en el Modo A, Código 7600. Se prevé que una aeronave equipada con transmisores de otros sistemas de vigilancia, ADS-B y ADS-C inclusive, indique la pérdida de comunicaciones aeroterrestres por todos los medios disponibles.
 
-4.3.17.1. Cuando las dependencias de control de tránsito aéreo no puedan mantener comunicación en ambos sentidos con una aeronave que vuele en un área de control o en una zona de control, tomarán las medidas siguientes:
+4.3.17.1. Cuando las dependencias de control de tránsito aéreo no puedan mantener comunicación en ambos sentidos con una aeronave que vuele en un área de control o en una zona de control, tomarán las medidas siguientes.
 
-4.3.17.2. En cuanto se sepa que la comunicación en ambos sentidos ha fallado, se tomarán medidas para cerciorarse de si la aeronave puede recibir las transmisiones de la dependencia de control de tránsito aéreo pidiéndole que ejecute una maniobra especificada que pueda observarse por radar, o que transmita, de ser posible, una señal especificada con el fin de indicar que acusa recibo.
+4.3.17.2. En cuanto se sepa que la comunicación en ambos sentidos ha fallado, se tomarán medidas para cerciorarse de si la aeronave puede recibir las transmisiones de la dependencia de control de tránsito aéreo pidiéndole que ejecute una maniobra especificada que pueda observarse por radar o ADS-B, o que transmita, de ser posible, una señal especificada con el fin de indicar que acusa recibo.
 
 4.3.17.3. Si la aeronave no indica que puede recibir y acusar recibo de las transmisiones, se mantendrá una separación entre la aeronave que tenga el fallo de comunicaciones y las demás, suponiendo que la aeronave hará lo siguiente:
 
-4.3.17.3.1 Si en vuelo controlado opera en condiciones meteorológicas de vuelo visual o de vuelo visual nocturno, a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea:
+4.3.17.3.1. Si en vuelo controlado opera en condiciones meteorológicas de vuelo visual, a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea:
 
 a) hará funcionar el transpondedor en Código 7600;
 
-b) proseguirá su vuelo en condiciones meteorológicas de vuelo visual o de vuelo visual nocturno, según corresponda;
+b) proseguirá su vuelo en condiciones meteorológicas de vuelo visual;
 
 c) aterrizará en el aeródromo adecuado más próximo; y
 
 d) notificará su llegada, por el medio más rápido, a la dependencia apropiada del control de tránsito aéreo.
 
-4.3.17.3.2 En las FIR/UIRs Barcelona y Madrid, a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea, si en vuelo IFR opera en condiciones meteorológicas de vuelo por instrumentos o cuando las condiciones sean tales que no parezca posible terminar el vuelo de acuerdo con lo prescrito arriba en 4.3.17.3.1:
+4.3.17.3.2. En las FIR/UIRs Barcelona y Madrid, a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea, si en vuelo IFR opera en condiciones meteorológicas de vuelo por instrumentos o cuando las condiciones sean tales que no parezca posible terminar el vuelo de acuerdo con lo prescrito arriba en 4.3.17.3.1:
 
-a) hará funcionar el transpondedor en Código 7600;
+1.º Hará funcionar el transpondedor en Código 7600;
 
-b) mantendrá por un periodo de 7 minutos la última velocidad y nivel asignados, o la altitud mínima de vuelo si ésta es superior que el último nivel asignado. El periodo de 7 minutos comienza:
-
-1) si opera en una ruta sin puntos de notificación obligatoria o si ha recibido instrucciones para omitir los informes de posición:
+2.º Mantendrá por un periodo de 7 minutos la última velocidad y nivel asignados, o la altitud mínima de vuelo si ésta es superior que el último nivel asignado. El periodo de 7 minutos comienza:
 
 i) en el momento que se alcance el último nivel asignado o la altitud mínima de vuelo, o
 
-ii) en el momento que se haga funcionar el transpondedor en Código 7600, lo que sea más tarde; o
+ii) en el momento que se haga funcionar el transpondedor en Código 7600, o el transmisor ADS-B se haga funcionar para indicar la pérdida de comunicaciones aeroterrestres; o
 
-2) si opera en una ruta con puntos de notificación obligatoria y no ha recibido instrucciones para omitir los informes de posición:
+iii) el momento en que la aeronave deje de notificar su posición al pasar por un punto de notificación obligatoria;
 
-i) en el momento que se alcance el último nivel asignado o la altitud mínima de vuelo, o
+lo que ocurra más tarde, y a partir de ese momento, ajustarán el nivel y la velocidad de acuerdo con el plan de vuelo presentado;
 
-ii) a la hora estimada previamente notificada por el piloto para el punto de notificación obligatoria, o
+3.º si está recibiendo guía vectorial radar o el ATC le ha dado instrucciones de desplazarse utilizando una ruta RNAV sin límite especificado, procederá en la forma más directa para retomar la ruta del plan de vuelo actualizado antes del siguiente punto significativo, teniendo en cuenta la altitud de vuelo mínima aplicable;
 
-iii) a la hora en que no se pudo notificar la posición sobre un punto de notificación obligatoria,
+4.º Proseguirá según la ruta de plan de vuelo actualizado hasta la ayuda para la navegación o punto de referencia que corresponda y que haya sido designada para servir al aeródromo de destino y, cuando sea necesario para asegurar que se satisfagan los requisitos señalados en 5), la aeronave se mantendrá en circuito de espera sobre esta ayuda o punto de referencia hasta iniciar el descenso;
 
-lo que sea más tarde;
+5.º Iniciará el descenso desde la ayuda para la navegación o punto de referencia especificada en 4), a la última hora prevista de aproximación recibida y de la que se haya acusado recibo, o lo más cerca posible de dicha hora; o si no se ha recibido y acusado recibo de la hora prevista de aproximación, iniciará el descenso a la hora prevista de llegada resultante del plan de vuelo actualizado o lo más cerca posible de dicha hora;
 
-c) después, ajustará el nivel y la velocidad de acuerdo con el plan de vuelo presentado; d) si está recibiendo guía vectorial radar o está procediendo desplazado de ruta RNAV sin límite especificado, se dirigirá de la manera más directa para reincorporarse a la ruta del plan de vuelo actualizado antes del siguiente punto significativo, teniendo en cuenta la altitud de vuelo mínima aplicable;
+6.º Realizará un procedimiento normal de aproximación por instrumentos especificado para la ayuda de navegación o punto de referencia designada; y
 
-e) proseguirá según la ruta de plan de vuelo actualizado hasta la ayuda para la navegación que corresponda designada para servir al aeródromo de destino y, cuando sea necesario para asegurar que se satisfagan los requisitos señalados en f), se mantendrá en circuito de espera sobre esta ayuda hasta iniciar el descenso;
+7.º Aterrizará, de ser posible, dentro de los 30 minutos siguientes a la hora prevista de llegada especificada en 5) ó de la hora prevista de aproximación de que últimamente se haya acusado recibo, lo que resulte más tarde.
 
-f) iniciará el descenso desde la ayuda para la navegación especificada en e) a la última hora prevista de aproximación recibida y de la que se haya acusado recibo, o lo más cerca posible de dicha hora; o si no se ha recibido y acusado recibo de la hora prevista de aproximación, iniciará el descenso a la hora prevista de llegada resultante del plan de vuelo actualizado o lo más cerca posible de dicha hora;
+4.3.17.3.3. En la FIR/UIR Canarias, a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea, si en vuelo IFR opera en condiciones meteorológicas de vuelo por instrumentos o cuando las condiciones sean tales que no parezca posible terminar el vuelo de acuerdo con lo prescrito arriba en 4.3.17.3.1. se operara de acuerdo a lo siguiente:
 
-g) completará un procedimiento normal de aproximación por instrumentos especificado para la ayuda de navegación designada; y
+4.3.17.3.3.1. Dentro del TMA de Canarias se procederá de igual modo que en el punto 4.3.17.3.2. anterior.
 
-h) aterrizará, de ser posible, dentro de los 30 minutos siguientes a la hora prevista de llegada especificada en f) o a la hora prevista de aproximación de que últimamente se haya acusado recibo, lo que resulte más tarde.
+4.3.17.3.3.2. Fuera del TMA de Canarias la aeronave con fallo de comunicaciones procederá como sigue:
 
-4.3.17.3.3 En la FIR/UIR Canarias, a menos que se prescriba de otro modo en base a un acuerdo regional de navegación aérea, si en vuelo IFR opera en condiciones meteorológicas de vuelo por instrumentos o cuando las condiciones sean tales que no parezca posible terminar el vuelo de acuerdo con lo prescrito arriba en 4.3.17.3.1
+1.º hará funcionar el transpondedor en Código 7600;
 
-a) mantendrá el último nivel y velocidad asignados, o la altitud mínima de vuelo, si ésta es superior, por un período de 20 minutos desde el momento en que la aeronave deje de notificar su posición al pasar por un punto de notificación obligatoria y después de ese período de 20 minutos ajustará el nivel y velocidad conforme al plan de vuelo presentado;
+2.º mantendrá el último nivel y velocidad asignados, o la altitud mínima de vuelo, si ésta es superior, por un período de 20 minutos desde el momento en que la aeronave deje de notificar su posición al pasar por un punto de notificación obligatoria y después de ese período de 20 minutos ajustará el nivel y velocidad conforme al plan de vuelo presentado;
 
-b) proseguirá según la ruta del plan de vuelo actualizado hasta la ayuda para la navegación que corresponda y que haya sido designada para servir al aeródromo de destino y, cuando sea necesario para asegurar que se satisfagan los requisitos señalados en el inciso c) siguiente, la aeronave se mantendrá en circuito de espera sobre esta ayuda hasta iniciar el descenso;
+3.º proseguirá según la ruta de plan de vuelo actualizado hasta la ayuda para la navegación o punto de referencia que corresponda y que haya sido designada para servir al aeródromo de destino y, cuando sea necesario para asegurar que se satisfagan los requisitos señalados en 4), la aeronave se mantendrá en circuito de espera sobre esta ayuda o punto de referencia hasta iniciar el descenso;
 
-c) iniciará el descenso desde la ayuda para la navegación especificada en b), a la última hora prevista de aproximación recibida y de la que se haya acusado recibo, o lo más cerca posible de dicha hora; o si no se ha recibido y acusado recibo de la hora prevista de aproximación, iniciará el descenso a la hora prevista de llegada resultante del plan de vuelo actualizado o lo más cerca posible de dicha hora;
+4.º iniciará el descenso desde la ayuda para la navegación o punto de referencia especificada en 3), a la última hora prevista de aproximación recibida y de la que se haya acusado recibo, o lo más cerca posible de dicha hora; o si no se ha recibido y acusado recibo de la hora prevista de aproximación, iniciará el descenso a la hora prevista de llegada resultante del plan de vuelo actualizado o lo más cerca posible de dicha hora;
 
-d) realizará un procedimiento normal de aproximación por instrumentos especificado para la ayuda de navegación designada; y
+5.º realizará un procedimiento normal de aproximación por instrumentos especificado para la ayuda de navegación o punto de referencia designada; y
 
-e) aterrizará, de ser posible, dentro de los 30 minutos siguientes a la hora prevista de llegada especificada en c) o la hora prevista de aproximación de que últimamente se haya acusado recibo, lo que resulte más tarde.
+6.º aterrizará, de ser posible, dentro de los 30 minutos siguientes a la hora prevista de llegada especificada en 4) ó de la hora prevista de aproximación de que últimamente se haya acusado recibo, lo que resulte más tarde.
 
-Nota: La autoridad competente podrá establecer y publicar en AIP las partes del espacio aéreo de la FIR/UIR Canarias donde sean de aplicación los procedimientos recogidos en 4.3.17.3.2.
+Nota.-La autoridad ATS competente podrá establecer y publicar en AIP las partes del espacio aéreo de la FIR/UIR Canarias donde sean de aplicación los procedimientos recogidos en 4.3.17.3.2.
 
-4.3.17.4. Las medidas tomadas para mantener adecuada separación dejarán de basarse en las suposiciones indicadas en 4.3.17.3., cuando:
-
-a) se determine que la aeronave está siguiendo un procedimiento que difiere del que se indica en 4.3.17.3.; o
-
-b) mediante el uso de ayudas electrónicas o de otra clase, las dependencias de control de tránsito aéreo determinen que, sin peligro para la seguridad, pueden tomar medidas distintas de las previstas en 4.3.17.3.; o
-
-c) se reciba información segura de que la aeronave ha aterrizado.
-
-4.3.17.5. En cuanto se sepa que la comunicación en ambos sentidos ha fallado, todos los datos pertinentes que describan las medidas tomadas por la dependencia de control de tránsito aéreo o las instrucciones que cualquier caso de emergencia justifique, se transmitirán a ciegas, para conocimiento de las aeronaves interesadas, en las frecuencias disponibles en que se suponga que escucha la aeronave, incluso en las frecuencias radiotelefónicas de las radioayudas para la navegación o de las ayudas para la aproximación.
-
-También se dará información sobre:
-
-a) condiciones meteorológicas favorables para seguir el procedimiento de perforación de nubes en áreas donde pueda evitarse la aglomeración de tránsito; y
-
-b) condiciones meteorológicas en aeródromos apropiados.
-
-4.3.17.6. Se darán todos los datos que se estimen pertinentes a las demás aeronaves que se encuentren cerca de la posición presunta de la aeronave que tenga el fallo.
-
-4.3.17.7. En cuanto se sepa que una aeronave que opera en su área de responsabilidad sufre un evidente fallo de radiocomunicaciones, la dependencia de los servicios de tránsito aéreo transmitirá información relativa al fallo de comunicaciones a todas las dependencias de los servicios de tránsito aéreo interesadas a lo largo de la ruta del vuelo.
-
-El centro de control de área en cuya área esté situado el aeródromo de destino, tomará medidas para obtener información sobre el aeródromo o aeródromos de alternativa y demás información pertinente especificada en el plan de vuelo presentado, si no se dispone de tal información.
-
-4.3.17.8. Si las circunstancias indican que un vuelo controlado que sufre fallo de comunicaciones desea dirigirse al aeródromo de alternativa o a alguno de los demás aeródromos de alternativa especificados en el plan de vuelo presentado, se informará a las dependencias de control de tránsito aéreo que sirvan al aeródromo o aeródromos de alternativa y a cualquier otra dependencia de control de tránsito aéreo que pudiera resultar afectada por una posible desviación, acerca de las circunstancias del fallo, y se les pedirá que traten de establecer comunicación con la aeronave en el momento en que ésta pueda hallarse dentro del alcance de las comunicaciones.
-
-Esto regirá especialmente cuando, por acuerdo con el explotador o con su representante designado, se haya transmitido a ciegas una autorización a la aeronave en cuestión para que se dirija a un aeródromo de alternativa, o cuando las condiciones meteorológicas en el aeródromo de aterrizaje previsto sean tales que se considere probable la desviación hacia un aeródromo de alternativa.
-
-4.3.17.9. Cuando una dependencia de control de tránsito aéreo reciba información de que una aeronave, después de un fallo de comunicaciones, las ha vuelto a establecer o ha aterrizado, lo notificará a la dependencia de los servicios de tránsito aéreo en cuya área operaba la aeronave al ocurrir el fallo, así como a las demás dependencias de los servicios de tránsito aéreo interesadas a lo largo de la ruta de vuelo, dándoles todos los datos necesarios para que sigan ejerciendo el control si la aeronave continua en vuelo.
-
-4.3.17.10. Si la aeronave no ha comunicado dentro de los treinta minutos siguientes a:
-
-a) la hora prevista de llegada suministrada por el piloto,
-
-b) la hora prevista de llegada calculada por el centro de control de área, o
-
-c) la última hora prevista de aproximación de que haya acusado recibo,
-
-la más tardía, se transmitirá la información necesaria relativa a la aeronave a los explotadores o a sus representantes designados, y a los pilotos al mando a quienes pueda interesar, y se reanudará el control normal si así lo desean.
-
-Es responsabilidad del explotador de la aeronave o de sus representantes designados y de los pilotos al mando, determinar si se reanudarán las operaciones normales o si se tomarán otras medidas.
+> Téngase en cuenta que la supresión de los apartados 4.3.17.4 a 4.3.17.10, no afecta a los apartados correlativos del Doc. 4444 de la Organización de Aviación Civil Internacional (OACI), Procedimientos para los servicios de navegación aérea. Gestión del Tránsito Aéreo (PANS-ATM), apartados 15.3.4 a 15.3.10, que se mantienen inalterados.
 
 4.3.18. Aeronaves extraviadas o no identificadas.
 
@@ -2210,6 +2276,26 @@ Es responsabilidad del piloto al mando decidir si despega en tales condiciones o
 
 4.4.2.4. Las dependencias de control de tránsito aéreo notificarán a los explotadores de las aeronaves o a sus representantes designados, si preven demoras prolongadas por razón de las condiciones del tránsito, y en todo caso, si se se espera que excedan de treinta minutos.
 
+4.4.2.5 Los aeródromos en los que se hayan establecido las salidas normalizadas por instrumentos (SID), deberá normalmente darse autorización a las aeronaves que salen para que sigan la SID apropiada.
+
+4.4.2.6 En las autorizaciones normalizadas para las aeronaves que salen se incluirán los siguientes elementos:
+
+a) identificación de aeronave;
+
+b) límite de la autorización, normalmente el aeródromo de destino;
+
+c) designador de la SID asignada, de ser aplicable;
+
+d) nivel inicial, excepto cuando tal elemento se incluya en la descripción de la SID;
+
+e) el código SSR asignado;
+
+f) toda instrucción o información necesarias que no se incluyan en la descripción de la SID, p. ej., instrucciones relativas a cambios de frecuencia.
+
+4.4.2.7 Autorización para ascender por encima de los niveles especificados en una SID
+
+Cuando en una SID se autoriza a una aeronave que sale a ascender a un nivel superior al que inicialmente se autorizó o al nivel o niveles especificados en una SID, la aeronave seguirá el perfil publicado de una SID, a menos que el ATC cancele explícitamente esas restricciones.
+
 4.4.3. Separación mínima entre aeronaves que salen.
 
 Las siguientes disposiciones son complementarias de las mínimas de separación longitudinal especificadas en el Capítulo 3.
@@ -2285,6 +2371,24 @@ c) la aeronave esté realizando una aproximación visual; o
 
 d) se haya determinado con certeza la posición de la aeronave mediante el uso de radar.
 
+4.4.7.4 En los aeródromos en que se hayan establecido llegadas normalizadas de vuelo por instrumentos (STAR), deberá normalmente darse autorización a las aeronaves que llegan para que sigan la STAR apropiada. Se informará a la aeronave acerca del tipo de aproximación previsto y acerca de la pista en servicio con la mayor antelación posible.
+
+4.4.7.5 En las autorizaciones normalizadas para las aeronaves que llegan se incluirán los siguientes elementos:
+
+a) identificación de aeronave;
+
+b) designador de la STAR asignada;
+
+c) pista en servicio, excepto cuando forme parte de la descripción de STAR;
+
+d) nivel inicial, excepto cuando este elemento esté incluido en la descripción de STAR; y
+
+e) toda otra instrucción o información necesarias que no se incluyan en la descripción de STAR, p. ej., cambio de comunicaciones.
+
+4.4.7.6 Descenso por debajo de los niveles especificados en una STAR.
+
+Cuando en una STAR se autoriza a una aeronave que llega a descender a un nivel inferior al nivel o niveles especificados en una STAR, la aeronave seguirá el perfil vertical publicado de una STAR, a menos que el ATC cancele explícitamente esas restricciones. Siempre se aplicarán los niveles mínimos publicados basados en el margen sobre el terreno.
+
 4.4.8. Autorización de descenso a reserva de que las aeronaves cuiden su propia separación y se mantengan en condiciones meteorológicas de vuelo visual.
 
 4.4.8.1. Cuando lo solicite una aeronave, o cuando lo proponga una dependencia ATC y lo acepte la aeronave, se podrá dar autorización a un vuelo controlado que llega y que opere en condiciones meteorológicas visuales durante horas diurnas para que descienda cuidando su propria separación y permaneciendo en condiciones meteorológicas de vuelo visual. Cuando así se permita a un vuelo controlado, regirá lo dispuesto en los apartados a), b), c) y d) del párrafo 4.3.13.1.
@@ -2335,17 +2439,15 @@ El procedimiento de aproximación frustrada se especificará cuando se estime ne
 
 Si no se han publicado procedimientos de entrada y de espera, o si el piloto al mando de la aeronave los desconoce, la dependencia apropiada de control de tránsito aéreo le indicará los procedimientos que han de seguirse.
 
-4.4.11.2. Las aeronaves deberán permanecer en el punto de espera designado.
+4.4.11.2. Las aeronaves deberán permanecer en el punto de referencia de espera designado.
 
-Se facilitará la separación mínima vertical, lateral o longitudinal requerida respecto a otras aeronaves, de acuerdo con el método utilizado en dicho punto de espera.
+Se facilitará la separación mínima vertical, lateral o longitudinal requerida respecto a otras aeronaves, de acuerdo con el método utilizado en dicho punto de referencia de espera.
 
 4.4.11.3. Cuando se haga esperar a aeronaves en vuelo, entre ellas y las que estén en ruta se seguirán manteniendo las separaciones verticales mínimas apropiadas mientras las que estén en ruta se hallen a cinco minutos de vuelo, o menos, del área de espera, a no ser que exista separación lateral (véase Fig. 4-26).
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image49.png)
 
-4.4.11.4. Los niveles en los puntos de espera se asignarán de modo que sea más fácil autorizar la aproximación de cada aeronave en su debido orden de precedencia. Normalmente, la primera aeronave que llegue a un punto de espera debería ocupar el nivel más bajo, y las siguientes aeronaves niveles sucesivamente más altos.
-
-Sin embargo, a las aeronaves que consumen elevadas cantidades de combustible a niveles inferiores, como son las aeronaves supersónicas, debería autorizárselas a esperar a niveles superiores a los indicados en su orden de prioridad, sin perder su turno, cuando existan trayectorias separadas de descenso o radar que permitan después a la aeronave descender a través de los niveles ocupados por otras aeronaves.
+4.4.11.4. Los niveles en un punto de referencia de espera o lugar de espera por referencia visual se asignarán de modo que sea más fácil autorizar la aproximación de cada aeronave en su debido orden de precedencia. Normalmente, la primera aeronave que llegue a un punto de referencia de espera o lugar de espera por referencia visual debería ocupar el nivel más bajo, y las siguientes aeronaves niveles, sucesivamente más altos.
 
 4.4.11.5. Si el piloto al mando notifica que no puede seguir los procedimientos de espera o de comunicaciones del control de aproximación, se aprobará el procedimiento o procedimientos de alternativa que haya solicitado, si las condiciones conocidas del tránsito lo permiten.
 
@@ -2511,7 +2613,9 @@ No existe requisito alguno de notificar a la aeronave que ha terminado la vigila
 
 4.4.13.3. Suspensión de aproximaciones paralelas independientes a pistas paralelas poco separadas.
 
-4.4.13.3.1. Las aproximaciones paralelas independientes a pistas paralelas con separación inferior a 1525 m pero no inferior a 1035 m entre sus ejes de pista se suspenderán en ciertas condiciones meteorológicas, cuando lo prescriba la autoridad ATS competente, incluyendo la cizalladura del viento, turbulencia, ráfagas descendentes, vientos cruzados y fenómenos meteorológicos violentos tales como tormentas, que podrían ocasionar un aumento en las desviaciones del rumbo del localizador ILS y/o de la derrota de aproximación final MLS hasta tal punto que se produciría un nivel inaceptable de alertas de desviación.
+4.4.13.3.1. Las aproximaciones paralelas independientes a pistas paralelas con separación inferior a 1525 m entre sus ejes de pista se suspenderán en ciertas condiciones meteorológicas, cuando lo prescriba la autoridad ATS competente, incluyendo la cizalladura del viento, turbulencia, ráfagas descendentes, vientos cruzados y condiciones meteorológicas significativas tales como tormentas, que podrían ocasionar un aumento en las desviaciones del rumbo del localizador ILS y/o de la derrota de aproximación final MLS hasta tal punto que se ponga en peligro la seguridad.
+
+Nota.-Conforme al anexo 14 de la OACI, no se autorizarán aproximaciones paralelas independientes a pistas paralelas con separación entre sus ejes de pista inferior a 1035 m.
 
 4.4.13.4. Aproximaciones paralelas dependientes.
 
@@ -2580,7 +2684,7 @@ Se transmitirá a la aeronave, a la mayor brevedad, la hora revisada a que se pr
 
 4.4.14.2. Siempre que se prevea que la aeronave tendrá que esperar durante treinta minutos o más, se le transmitirá por el medio más rápido, la hora prevista de aproximación.
 
-4.4.14.3. El punto de espera con el cual se relaciona una hora prevista de aproximación, habrá de identificarse junto con la hora prevista de aproximación, siempre que las circunstancias sean tales que dicha hora prevista no sea evidente para el piloto.
+4.4.14.3. El punto de referencia de espera con el cual se relaciona una hora prevista de aproximación, habrá de identificarse junto con la hora prevista de aproximación, siempre que las circunstancias sean tales que dicha hora prevista no sea evidente para el piloto.
 
 4.4.15. Información para las aeronaves que llegan.
 
@@ -2620,15 +2724,15 @@ a) cambios significativos en la dirección y velocidad del viento medio en la su
 
 b) la información más reciente, caso de haberla, sobre el gradiente del viento y/o la turbulencia en el área de aproximación final;
 
-c) la visibilidad existente, representativa del sentido de la aproximación y el aterrizaje o, cuando se facilite, el valor o valores actuales del alcance visual en la pista y, si es factible, la tendencia, complementada por el valor o valores del alcance visual oblicuo, si se proporciona.
+c) la visibilidad existente, representativa del sentido de la aproximación y el aterrizaje o, cuando se facilite, el valor o valores actuales del alcance visual en la pista y la tendencia, complementada por el valor o valores del alcance visual oblicuo, si se proporciona.
 
-(1) Los cambios significativos serán determinados por el Servicio de Meteorológico local. Sin embargo, si el controlador posee información del viento en forma de componentes, los cambios significativos son:
+(1) Los cambios significativos serán determinados por el Servicio Meteorológico local. Sin embargo, si el controlador posee información del viento en forma de componentes, los cambios significativos son:
 
-Valor medio de la componente frontal: 19 km/h (10 kt)
+Valor medio de la componente frontal.–19 km/h (10 kt)
 
 Valor medio de la componente de cola: 4 km/h (2 kt)
 
-Valor medio de la componente transversal: 9 km/h (5 kt)
+Valor medio de la componente transversal: 9 km/h (5 kt).
 
 4.4.15.4. Durante la aproximación final, si es factible, se transmitirá sin demora la información siguiente:
 
@@ -2668,241 +2772,217 @@ ii) antes de que la aeronave que llega cruce un punto de referencia designado en
 
 ## Servicio de control de aeródromo
 
-En la Sección 4.5.6 de este capítulo se incluyen los procedimientos para la utilización de las luces aeronáuticas de superficie.
+En la sección 4.5.16 de este capítulo se incluyen los procedimientos para la utilización de las luces aeronáuticas de superficie.
 
-Funciones de las torres de control de aeródromo
+Funciones del servicio de control de aeródromo.
 
-4.5.1. Generalidades.
+4.5.1 Generalidades.
 
-Las torres de control de aeródromo transmitirán información y expedirán autorizaciones a las aeronaves bajo su control, para conseguir un movimiento de tránsito aéreo seguro, ordenado y rápido en el aeródromo y en sus inmediaciones, con el fin de prevenir colisiones entre:
+4.5.1.1 El servicio de control de aeródromo transmitirá información y expedirá autorizaciones a las aeronaves bajo su control, para conseguir un movimiento de tránsito aéreo seguro, ordenado y rápido en el aeródromo y en sus inmediaciones, con el fin de prevenir colisiones entre:
 
-a) las aeronaves que vuelan en los circuitos de tránsito de aeródromo alrededor del aeródromo;
+a) las aeronaves que vuelan dentro del área designada de responsabilidad de la torre de control, incluidos los circuitos de tránsito de aeródromo alrededor del aeródromo;
 
-b) las aeronaves que operan en el área de maniobras; (1)
+b) las aeronaves que operan en el área de maniobras;
 
 c) las aeronaves que aterrizan y despegan;
 
-d) las aeronaves y los vehículos que operan en el área de maniobras; (1)
+d) las aeronaves y los vehículos que operan en el área de maniobras;
 
-e) las aeronaves en el área de maniobras y los obstáculos que haya en dicha área. (1)
+e) las aeronaves en el área de maniobras y los obstáculos que haya en dicha área.
 
-(1) Por definición, el área de maniobras excluye las plataformas.
+4.5.1.2 Las funciones del servicio de control de aeródromo pueden ser asumidas por distintos puestos de control o de trabajo, tales como:
 
-4.5.2. Servicio de alerta prestado por las torres de control de aeródromo.
+a) controlador de aeródromo, normalmente responsable de las operaciones en la pista y de las aeronaves que vuelan dentro del área de responsabilidad de la torre de control de aeródromo;
 
-4.5.2.1. Las torres de control de aeródromo son también responsables de alertar a los servicios de seguridad, y de notificar inmediatamente todo fallo o irregularidad de funcionamiento de cualquier aparato, luz u otro dispositivo instalado en un aeródromo para guiar el tránsito del mismo y a los pilotos al mando de aeronaves.
+b) controlador de movimiento en superficie (1), normalmente responsable del tránsito en el área de maniobras, a excepción de las pistas;
 
-4.5.2.2. Deberá informarse al centro de control de área o al centro de información de vuelo acerca de las aeronaves que dejen de notificar después de haber sido transferidas a una torre de control de aeródromo o que, después de haber hecho una notificación, suspenden el contacto por radio, y que, en uno u otro caso, dejen de aterrizar cinco minutos después de la hora prevista.
+c) puesto de entrega de autorizaciones, normalmente responsable de la entrega de autorizaciones de puesta en marcha y ATC, para los vuelos IFR que salen.
 
-4.5.3. Suspensión por las torres de control de aeródromo, de las operaciones que se realizan de acuerdo con las reglas de vuelo visual.
+(1) Véase el sufijo del distintivo de llamada en 10.5.2.1.6.1.2
 
-4.5.3.1. Cuando la seguridad lo exija, cualquiera de las siguientes dependencias, personas o autoridades, podrá suspender una o todas las operaciones que se efectúen de acuerdo con las reglas de vuelo visual sobre un aeródromo o en sus proximidades:
+4.5.1.3 Los controladores de aeródromo mantendrán bajo vigilancia constante todas las operaciones de vuelo que se efectúen en el aeródromo o en su proximidad, así como los vehículos y personal que se encuentren en el área de maniobras. Se vigilará por observación visual, mejorándola especialmente en condiciones de baja visibilidad, por medio de un sistema de vigilancia ATS de estar disponible. Se controlará el tránsito de acuerdo con los procedimientos que aquí se formulan y con todas las disposiciones aplicables de tránsito especificadas por la autoridad ATS competente. Si existen otros aeródromos dentro de la zona de control, el tránsito de todos los aeródromos dentro de tal zona se coordinará de manera que se eviten interferencias entre los circuitos de tránsito.
 
-a) el centro de control de área en cuya área de control se halle situado el aeródromo;
+Nota.-En el apartado 4.6.10 figuran las disposiciones relativas al empleo del radar en el servicio de control de aeródromo. En el apartado 3.3.9. y en el Adjunto 3 del Apéndice Z figuran otras disposiciones relativas al uso del Radar de movimiento en superficie (SMR).
 
-b) el controlador de aeródromo que esté de servicio;
+4.5.1.4 Cuando se utilizan pistas paralelas o casi paralelas para operaciones simultáneas, cada uno de los controladores del aeródromo deberá, normalmente, asumir la responsabilidad de las operaciones en cada una de las pistas.
 
-c) la autoridad ATS competente.
+4.5.2 Servicio de alerta prestado por las torres de control de aeródromo.
 
-4.5.3.2. La suspensión de las operaciones que se estén llevando a cabo de acuerdo con las reglas de vuelo visual, se hará por mediación de la torre de control de aeródromo o notificando a ésta.
+4.5.2.1 Las torres de control de aeródromo son responsables de alertar a los servicios de salvamento y extinción de incendios, siempre que:
 
-4.5.3.3. La torre de control de aeródromo observará los siguientes procedimientos siempre que se suspendan las operaciones que se estén realizando de acuerdo con las reglas de vuelo visual:
+a) haya ocurrido un accidente de aeronave en el aeródromo o en sus cercanías; o
 
-a) suspenderá todas las salidas excepto aquéllas respecto a las cuales se presente un plan de vuelo de acuerdo con las reglas de vuelo por instrumentos, que apruebe el centro de control de área;
+b) se reciba información de que pueda ponerse en peligro o ya se haya puesto en peligro la seguridad de una aeronave que esté o que estará bajo la jurisdicción de la torre de control de aeródromo; o
 
-b) suspenderá todos los vuelos locales que se estén efectuando de acuerdo con las reglas de vuelo visual u obtendrá aprobación para operaciones VFR especiales;
+c) lo solicite la tripulación de vuelo; o
 
-c) notificará al centro de control de área de las medidas tomadas;
+d) cuando se juzgue necesario o conveniente por otros motivos.
 
-d) notificará a todos los explotadores o a sus representantes designados, si es necesario o se solicita, las razones que han obligado a tomar tales medidas.
+4.5.2.2 Se incluirán entre las instrucciones locales los procedimientos relativos a dar la alerta a los servicios de salvamento y extinción de incendios. En tales instrucciones se especificará el tipo de información que haya de proporcionarse a los servicios de salvamento y extinción de incendios, incluidos el tipo de aeronave y tipo de emergencia y, si se conoce, el número de personas a bordo si se transportan en la aeronave mercancías peligrosas.
 
-Circuitos de tránsito y de rodaje
+4.5.2.3 Deberá informarse a la dependencia de control de aproximación, ACC o centro de información de vuelo o al centro de coordinación de salvamento o subcentro de salvamento, de conformidad con las instrucciones locales, acerca de las aeronaves que dejen de notificar después de haber sido transferidas a una torre de control de aeródromo o que, después de haber hecho una notificación, suspenden el contacto por radio, y que, en uno u otro caso, dejen de aterrizar cinco minutos después de la hora prevista.
 
-4.5.4. Posiciones críticas de las aeronaves en los circuitos de tránsito y de rodaje de aeródromo.
+4.5.3 Fallo o irregularidad de las ayudas y del equipo.
 
-4.5.4.1. Los controladores de aeródromo mantendrán vigilancia constante sobre todas las operaciones visibles de vuelo que se efectúen en el aeródromo o en sus cercanías, incluso de las aeronaves, vehículos y personal que se encuentren en el área de maniobras, y controlarán este tránsito de acuerdo con los procedimientos que aquí se formulan y con todas las disposiciones aplicables de tránsito aéreo.
+4.5.3.1 Las torres de control de aeródromo son también responsables de notificar inmediatamente todo fallo o irregularidad de funcionamiento de cualquier aparato, luz u otro dispositivo instalado en un aeródromo para guiar el tránsito del mismo y a los pilotos al mando de aeronaves.
 
-Si existen otros aeródromos dentro de la zona de control, el tránsito de todos los aeródromos dentro de tal zona se coordinará de manera que se eviten interferencias entre los circuitos de tránsito.
+4.5.4 Selección de la pista en uso.
 
-4.5.4.2. Las siguientes posiciones de las aeronaves en los circuitos de tránsito y de rodaje, son aquellas en que las aeronaves reciben normalmente autorización de las torres de control, ya se den por señales luminosas o por radio.
+4.5.4.1 La expresión "pista en usoˮ se empleará para indicar la pista o pistas que la torre de control de aeródromo considera más adecuada, en un momento dado, para los tipos de aeronaves que se esperan aterrizarán o despegarán en dicho aeródromo.
 
-Debe observarse cuidadosamente a las aeronaves a medida que se aproximan a estas posiciones para poder darles las autorizaciones correspondientes sin demora.
+Nota.-Pistas separadas o múltiples pueden ser designadas como pista en uso para las aeronaves que lleguen y para las aeronaves que salgan.
 
-Siempre que sea posible, todas las autorizaciones deben expedirse sin aguardar a que la aeronave las pida (véase Fig. 4-31 y 4-32).
+4.5.4.2 Normalmente, la aeronave aterrizará y despegará contra el viento, a menos que consideraciones de seguridad, la configuración de la pista, o las condiciones meteorológicas, los procedimientos de aproximación por instrumentos disponibles o las condiciones de tránsito aéreo determinen que otro sentido sería preferible. Sin embargo, para seleccionar la pista en uso, la torre de control de aeródromo tendrá en cuenta otros factores pertinentes, además de la velocidad y dirección del viento en superficie, tales como los circuitos de tránsito del aeródromo, la longitud de las pistas, y las ayudas para la aproximación y el aterrizaje disponibles.
 
-Posición 1. La aeronave pide autorización para iniciar el rodaje previo al despegue. Se le dan las autorizaciones correspondientes al rodaje y pista en uso.
+4.5.4.3 Para atenuar el ruido, se puede designar una pista para el despegue o aterrizaje adecuada a la operación con el fin de utilizar, siempre que sea posible, las pistas que permitan a los aviones evitar las áreas sensibles al ruido durante la fase inicial de salida y la fase de aproximación final del vuelo.
 
-Posición 2. Si existe tránsito que interfiera, la aeronave que vaya a salir se mantendrá en este punto. Normalmente se calentarán en él los motores.
+4.5.4.3.1 No deberán elegirse, con el fin de atenuar el ruido, pistas para operaciones de aterrizaje que no estén equipadas con una guía adecuada para la trayectoria de planeo (Ej. ILS) o, para operaciones en condiciones meteorológicas de vuelo visual, un sistema visual indicador de pendiente de aproximación.
 
-Posición 3. Se da en este punto la autorización de despegue, si no ha sido posible hacerlo en la posición 2.
+4.5.4.3.2 Un piloto al mando puede rechazar, por motivos de seguridad operacional, una pista que se le haya designado para atenuar ruido.
 
-Posición 4. Aquí se da la autorización de aterrizar.
+4.5.4.3.3 La atenuación de ruido no constituirá un factor determinante para la designación de pista en las siguientes circunstancias:
 
-Posición 5. Aquí se da la autorización para rodar hasta los hangares o el área de estacionamiento.
+a) Cuando el estado de la superficie de la pista esté negativamente afectado (ej. nieve, nieve fundente, hielo, agua, lodo, caucho, aceite u otras sustancias);
 
-Posición 6. Cuando es necesario se proporciona en esta posición la información para el estacionamiento.
+b) Para el aterrizaje, cuando:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image54.png)
+1.º El techo de nubes se encuentre a una altura inferior a 150 m (500 ft) por encima de la elevación del aeródromo o la visibilidad sea inferior a 1900 m; o
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image55.png)
+2.º Cuando la aproximación requiera el uso de mínimas verticales superiores a 100 m (300 ft) por encima de la elevación del aeródromo y:
 
-4.5.4.3. No deberían expedirse cambios de frecuencia a los helicópteros tripulados por un solo piloto durante las situaciones de emergencia, rodaje aéreo o vuelo a bajo nivel. Siempre que sea posible, las instrucciones de control necesarias de la dependencia ATS siguiente deberían retransmitirse hasta que el piloto pueda cambiar de frecuencia.
+i) el techo de nubes se encuentre a una altura inferior a 240 m (800 ft) por encima de la elevación del aeródromo; o
 
-Nota: Los helicópteros ligeros están en su mayor parte tripulados por un solo piloto y requieren la continua utilización de ambas manos y pies para mantener el control durante el vuelo de baja altitud o a bajo nivel. Aunque los dispositivos de fricción para mando de vuelo ayuden al piloto, el cambiar de frecuencia cerca del suelo podría llevar a una toma de contacto involuntaria y la consiguiente pérdida de control.
+ii) la visibilidad sea inferior a 3000 m;
 
-4.5.5. Selección de la pista en uso.
+c) Para el despegue, cuando la visibilidad sea inferior a 1900 m;
 
-4.5.5.1. La expresión «pista en uso» se empleará para indicar la pista que la dependencia que suministra el servicio de control de aeródromo considera más adecuada, en un momento dado, para los tipos de aeronaves que se esperan aterrizarán o despegarán en dicho aeródromo.
+d) Cuando se haya notificado o pronosticado cizalladura de viento, o cuando se prevean tormentas que afecten la aproximación o la salida; y
 
-4.5.5.2. Normalmente, la aeronave aterrizará y despegará contra el viento, a menos que las condiciones de seguridad o de tránsito aéreo o la configuración de la pista determinen que otro sentido sería preferible.
+e) Cuando la componente transversal del viento, incluidas las ráfagas, exceda de 37 km/h (20 kt), o la componente de viento en cola, incluidas las ráfagas, exceda de 19 km /h (10 kt).
 
-Sin embargo, para seleccionar la pista en uso, la dependencia que suministra el servicio de control de aeródromo tendrá en cuenta otros factores pertinentes, además de la velocidad y dirección del viento en la superficie, tales como los circuitos de tránsito del aeródromo, la longitud de las pistas, y las ayudas para la aproximación y aterrizaje disponibles.
+4.5.5 Información de las torres de control de aeródromo a las aeronaves
 
-4.5.5.3. Si el piloto al mando considera que la pista en uso no es apropiada para la operación que tenga que realizar, podrá solicitar la autorización para utilizar otra pista.
+Los servicios apropiados facilitarán a la torre de control de aeródromo la información que corresponda de conformidad con lo dispuesto en las secciones 4.5.5.2. y 4.5.5.8.
 
-Luces aeronáuticas de superficie
+4.5.5.1 Información relativa a la operación de aeronaves.
 
-4.5.6. Utilización.
+4.5.5.1.1 Procedimientos relativos a la hora de la puesta en marcha.
 
-Los procedimientos de esta Sección tienen aplicación en todos los aeródromos, se proporcione o no servicio de control de aeródromo.
+4.5.5.1.1.1 Cuando así lo solicite el piloto antes de poner en marcha los motores, se le comunicará la hora prevista de despegue, a menos que se empleen procedimientos de hora de puesta en marcha de los motores.
 
-Además, los procedimientos contenidos en 4.5.6.1.1. se aplican a todas las luces aeronáuticas de superficie, estén o no en el aeródromo o en sus proximidades (véase Capítulo 2, párrafo 4.2.2.3.).
+4.5.5.1.1.2 Se pondrán en práctica los procedimientos relativos a la hora de puesta en marcha cuando sea necesario evitar la congestión y demoras excesivas en el área de maniobras o cuando esté justificado por la reglamentación ATFM. Los procedimientos relativos a la hora de puesta en marcha se incluirán en las instrucciones locales y se especificarán los criterios y condiciones para determinar cuando y como se calcularán las horas de puesta en marcha y se expedirán a las salidas.
 
-4.5.6.1. Generalidades.
+4.5.5.1.1.3 Cuando una aeronave esté sujeta a la reglamentación ATFM, se le notificará que ponga en marcha de conformidad con la hora de intervalo asignada.
 
-4.5.6.1.1. Salvo lo dispuesto en 4.5.6.1.2. y 4.5.6.2., todas las luces aeronáuticas de superficie funcionarán:
+4.5.5.1.1.4 Cuando se prevé que la demora de una aeronave que sale es inferior al periodo de tiempo especificado por la autoridad ATS competente, debería autorizarse a poner en marcha la aeronave según su propio juicio.
 
-a) continuamente durante las horas de obscuridad o durante el período en que el centro del disco solar esté a más de 6 grados por debajo del horizonte, eligiéndose el más prolongado de estos dos periodos, a menos que se especifique de otro modo, o lo exija el control de tránsito aéreo;
+4.5.5.1.1.5 Cuando se prevé que la demora de una aeronave que sale exceda de un periodo de tiempo especificado por la autoridad ATS competente, la torre de control de aeródromo calculará y expedirá la hora prevista de puesta en marcha para una aeronave que solicite la puesta en marcha.
 
-b) a cualquier otra hora cuando por las condiciones meteorológicas, se considere conveniente para la seguridad del tránsito aéreo.
+4.5.5.1.1.6 Se retirará solamente la autorización de puesta en marcha en circunstancias o condiciones especificadas por la autoridad ATS competente. Si se retira la autorización de puesta en marcha, se notificará el motivo a la tripulación de vuelo.
 
-4.5.6.1.2. Las luces instaladas en los aeródromos y en sus alrededores que no vayan a usarse para fines de navegación en ruta podrán apagarse, a reserva de las disposiciones que se dan a continuación, si no hay probabilidad de que se efectúen operaciones regulares o de emergencia, con tal de que puedan encenderse de nuevo por lo menos una hora antes de la llegada prevista de una aeronave.
+4.5.5.2 Información de aeródromo y meteorológica.
 
-4.5.6.1.3. En aeródromos equipados con luces de intensidad variable, se proporcionará una tabla de reglajes de intensidad, basados en condiciones de visibilidades y de luz ambiental, para que sirva de guía a los controladores de tránsito aéreo en el ajuste de estas luces a las condiciones reinantes. Cuando lo soliciten las aeronaves, y siempre que sea posible, podrá hacerse un nuevo ajuste de la intensidad.
-
-4.5.6.2. Luces de aproximación.
-
-Entre las luces de aproximación están comprendidas las de los sistemas de iluminación sencilla de aproximación, las de los sistemas de iluminación de aproximación de precisión, las de los sistemas visuales indicadores de pendiente de aproximación, las de guía durante el vuelo en circuito, los faros luminosos de aproximación y los indicadores de alineación de pista.
-
-4.5.6.2.1. Además de lo prescrito en 4.5.6.1.1., las luces de aproximación se encenderán también:
-
-a) de día, cuando lo solicite una aeronave que se aproxima;
-
-b) cuando esté funcionando la iluminación correspondiente de pista.
-
-4.5.6.2.2. Las luces del sistema visual indicador de pendiente de aproximación se encenderán tanto durante el día como durante las horas de obscuridad, independientemente de las condiciones de visibilidad, cuando esté usándose la pista correspondiente.
-
-4.5.6.3. Luces de pista.
-
-Entre las luces de pista están comprendidas las de borde de pista, de umbral, de eje de pista, de extremo de pista, de zona de toma de contacto y de barra de ala.
-
-4.5.6.3.1. No se encenderán las luces de pista si dicha pista no se usa para fines de aterrizaje, despegue o rodaje.
-
-4.5.6.3.2. Si las luces de pista no funcionan continuamente, se proporcionarán después de un despegue según se especifica a continuación:
-
-a) en los aeródromos en que se suministre servicio de control de tránsito aéreo y en los que el control de las luces sea central, las luces de pista permanecerán encendidas después de un despegue durante el tiempo que se considere necesario para que regrese la aeronave por emergencias durante el despegue o inmediatamente después;
-
-b) en los aeródromos sin servicio de control de tránsito aéreo o en los que el control de las luces no sea central, las luces de una pista permanecerán encendidas después de un despegue durante el tiempo que normalmente se necesitaría para reactivarlas si la aeronave regresara para hacer un aterrizaje de emergencia y, en cualquier caso, por lo menos durante 15 minutos después del despegue.
-
-(Cuando se enciendan las luces de obstáculos al mismo tiempo que las de pista, de acuerdo con lo dispuesto en 4.5.6.7.1., se tendrá especial cuidado de que no se apaguen mientras la aeronave las necesite.)
-
-4.5.6.4. Luces de zona de parada.
-
-4.5.6.4.1. Se encenderán las luces de zona de parada cuando lo estén las luces de pista correspondientes.
-
-4.5.6.5. Luces de calle de rodaje.
-
-Entre las luces de calle de rodaje están comprendidas las de borde, de eje, de barras de parada y de barras de cruce.
-
-4.5.6.5.1. Las luces de calle de rodaje se encenderán en tal orden que den a la aeronave que circule una indicación continua del camino que debe seguir.
-
-Podrán apagarse las luces de calle de rodaje o parte de ellas cuando la aeronave que esté efectuando el rodaje ya no las necesite.
-
-4.5.6.6. Barras de parada.
-
-4.5.6.6.1. Se encenderán las barras de parada para indicar que todo el tráfico debe detenerse, y se apagarán para indicar que el tráfico puede continuar.
-
-4.5.6.7. Luces de obstáculos.
-
-Entre las luces de obstáculos están comprendidas las de obstáculos propiamente dichas, las indicadoras de zonas fuera de servicio y los faros de peligro.
-
-4.5.6.7.1. Las luces de obstáculos correspondientes a la aproximación o a la salida de una pista o canal podrán apagarse o encenderse al mismo tiempo que las luces de la pista o canal, cuando el obstáculo no se proyecta por encima de la superficie horizontal interna.
-
-4.5.6.7.2. No está permitido, de conformidad con 4.5.6.1.2., apagar las luces indicadoras de zonas fuera de servicio, mientras el aeródromo esté abierto.
-
-4.5.6.8. Vigilancia y control de las ayudas visuales.
-
-4.5.6.8.1. Los controladores de aeródromo utilizarán, si estuvieran instalados, dispositivos monitores automáticos, para determinar si las luces están en buenas condiciones y funcionan de acuerdo con la selección realizada.
-
-4.5.6.8.2. De no existir dispositivos monitores automáticos, o como suplemento, el controlador de aeródromo observará visualmente las luces que alcance a ver desde la torre de control del aeródromo y utilizará la información obtenida de otras fuentes, tales como inspecciones visuales e informes de aeronaves, para mantenerse al corriente de la situación operacional de las ayudas visuales.
-
-4.5.6.8.3. Al recibir información de que falla alguna luz, el controlador de aeródromo determinará su importancia en las operaciones, tomará las medidas pertinentes para proteger cualesquiera aeronaves o vehículos afectados e iniciará medidas para que se corrija el fallo.
-
-Información suministrada a las aeronaves por las torres de control de aeródromo
-
-Los servicios apropiados facilitarán a la torre de control de aeródromo la información que corresponda de conformidad con lo dispuesto en las secciones 4.5.7. y 4.5.8.
-
-4.5.7. Información relativa a la operación de las aeronaves.
-
-4.5.7.1. Cuando así lo solicite el piloto antes de poner en marcha los motores, se le comunicará la hora prevista de despegue, a menos que se empleen procedimientos de hora de puesta en marcha de los motores.
-
-4.5.7.2. Antes de iniciar el rodaje para el despegue se notificarán a la aeronave los siguientes datos en el orden en que figuran, excepto cuando se sepa que la aeronave ya los ha recibido:
+4.5.5.2.1 Antes de iniciar el rodaje para el despegue se notificarán a la aeronave los siguientes datos en el orden en que figuran, excepto cuando se sepa que la aeronave ya los ha recibido:
 
 a) la pista que ha de utilizarse;
 
-b) la dirección y velocidad del viento en la superficie, incluyendo variaciones importantes;
+b) la dirección y velocidad del viento en la superficie, incluyendo variaciones importantes de las mismas;
 
 c) el reglaje QNH de altímetro y, bien sea regularmente de conformidad con acuerdos locales o si la aeronave lo solicita, el reglaje QFE de altímetro;
 
 d) la temperatura del aire ambiente en la pista que ha de utilizarse, en el caso de aeronaves con motor de turbinas;
 
-e) la visibilidad existente, representativa del sentido de despegue y ascenso inicial, si es inferior a 10 km, o si se proporciona el valor del RVR correspondiente a la pista que ha de utilizarse;
+e) la visibilidad representativa del sentido de despegue y ascenso inicial, si es inferior a 10 km, o de ser aplicable el valor del RVR correspondiente a la pista que ha de utilizarse;
 
 f) la hora exacta.
 
-4.5.7.3. Antes del despegue, se notificará a las aeronaves:
+4.5.5.2.2 Antes del despegue, se notificará a las aeronaves:
 
-a) todo cambio importante de la dirección y velocidad del viento en la superficie, de la temperatura del aire ambiente, y el valor de la visibilidad o del RVR, de conformidad con 4.5.7.2.;
+a) todo cambio en el reglaje QNH de altímetro;
 
-b) las condiciones meteorológicas significativas en el área de despegue y de ascenso inicial, a menos que se sepa que la información ya ha sido recibida por la aeronave.
+b) todo cambio importante de la dirección y velocidad del viento en la superficie, de la temperatura del aire ambiente, y del valor de la visibilidad o del RVR, de conformidad con 4.5.5.2.1;
 
-En este contexto son condiciones meteorológicas significativas la existencia, o el pronóstico, de cumulonimbus o tormenta, turbulencia moderada o fuerte, cortante del viento, granizo, engelamiento moderado o fuerte, línea de turbonada fuerte, precipitación engelante, ondas orográficas fuertes, tempestad de arena, tempestad de polvo, ventisca alta, tornado o tromba marina, en el área de despegue y de ascenso inicial.
+c) las condiciones meteorológicas significativas en el área de despegue y de ascenso inicial, a menos que se sepa que la información ya ha sido recibida por la aeronave.
 
-4.5.7.4. Antes de que la aeronave entre en el circuito de tránsito se le facilitarán los siguientes datos, en el orden en que figuran, excepto aquellos que se sepa que la aeronave ya haya recibido:
+Nota.-En este contexto son condiciones meteorológicas significativas la existencia, o el pronóstico, de cumulonimbus o tormenta, turbulencia moderada o fuerte, cortante del viento, granizo, engelamiento moderado o fuerte, línea de turbonada fuerte, precipitación engelante, ondas orográficas fuertes, tempestad de arena, tempestad de polvo, ventisca alta, tornado o tromba marina, en el área de despegue y de ascenso inicial.
+
+4.5.5.2.3 Antes de que la aeronave entre en el circuito de tránsito o inicie la aproximación para aterrizar se le facilitarán los siguientes datos, en el orden en que figuran, excepto aquellos que se sepa que la aeronave ya haya recibido:
 
 a) la pista que ha de utilizarse;
 
-b) la dirección y velocidad del viento medio en la superficie, con las variaciones importantes;
+b) la dirección y velocidad del viento medio en la superficie, con las variaciones importantes de éstos;
 
 c) el reglaje QNH de altímetro y, bien sea regularmente, de conformidad con acuerdos locales, o si la aeronave lo solicita, el reglaje QFE de altímetro.
 
-4.5.7.5. Cuando opere en condiciones meteorológicas de vuelo visual, el piloto al mando es responsable de evitar colisiones con otras aeronaves.
+4.5.5.3 Información sobre tránsito esencial local.
 
-Sin embargo, debido al espacio restringido en las áreas de maniobras y alrededor de ellas, es frecuentemente indispensable expedir información sobre el tránsito para ayudar al piloto al mando a evitar colisiones.
+4.5.5.3.1 Se considerará información indispensable sobre el tránsito la referente a toda aeronave, vehículo o personal que se hallen en el área de maniobras o cerca de ella, o al que opera en la proximidad del aeródromo, que pueda constituir un peligro para la aeronave en cuestión.
 
-4.5.7.6. Se considerará información indispensable sobre el tránsito la referente a toda aeronave, vehículo o personal que se hallen en el área de maniobras o cerca de ella, o al que opera en la proximidad del aeródromo, que pueda constituir un peligro para las aeronaves en cuestión.
+4.5.5.3.2 Se dará información sobre el tránsito esencial local, ya sea directamente o por conducto de la dependencia que proporcione el servicio de control de aproximación cuando, a juicio del controlador de aeródromo, sea necesaria dicha información en interés de la seguridad, o cuando la solicite la aeronave.
 
-4.5.7.7. Se dará información sobre el tránsito esencial local, ya sea directamente o por conducto de la dependencia que proporcione el servicio de control de aproximación cuando, a juicio del controlador de aeródromo, sea necesaria dicha información en interés de la seguridad, o cuando la solicite la aeronave.
+4.5.5.3.3 El tránsito esencial local se describirá de forma que facilite su reconocimiento.
 
-4.5.7.8. El tránsito esencial local se describirá de forma que facilite su reconocimiento.
+4.5.5.4 Incursión en la pista o pista con obstáculos.
 
-4.5.7.9. Los controladores de aeródromo deberán, siempre que sea factible, advertir a las aeronaves cuando se espere que vaya a haber riesgos inherentes a la estela turbulenta.
+4.5.5.4.1 En caso de que el controlador del aeródromo, después de dar una autorización de despegue o una autorización de aterrizaje, advierta una incursión en la pista o la inminencia de que se produzca, o la existencia de cualquier obstáculo en la pista o en su proximidad que pusiera probablemente en peligro la seguridad de un despegue o de un aterrizaje de aeronave, adoptará las siguientes medidas apropiadas:
 
-La ocurrencia de los riesgos debidos a estela turbulenta no pueden predecirse con precisión, por lo cual los controladores de aeródromo no pueden asumir la responsabilidad de hacer la oportuna advertencia en todo tiempo, ni pueden garantizar la precisión de la misma.
+a) cancelar la autorización de despegue en el caso de una aeronave que sale;
 
-La información sobre los peligros de los vórtices de estela figura en el Apéndice G.
+b) dar instrucciones a una aeronave que aterriza para que inicie un procedimiento de motor y al aire o de aproximación frustrada;
 
-4.5.7.10. Los controladores de tránsito aéreo, al expedir autorizaciones o instrucciones, deberán tener en cuenta los peligros que los chorros de los reactores y las corrientes de las hélices pueden ocasionar a las aeronaves en rodaje, a las aeronaves que despegan o aterrizan, particularmente cuando se utilizan pistas que se cruzan, y a los vehículos y personal que circulan y actúan en el aeródromo.
+c) en todo caso informar a la aeronave acerca de la incursión en la pista o del obstáculo y de su posición en relación con la pista.
 
-El chorro de los reactores, los gases de escape de turbina y, o, las corrientes de aire de las hélices pueden dar lugar a velocidades del viento en zonas localizadas de suficiente intensidad para causar daño a otras aeronaves, vehículos y personal que se encuentren dentro del área afectada.
+Nota.-Los animales o bandadas de pájaros pueden constituir un obstáculo para las operaciones en la pista. Además, un despegue interrumpido o un procedimiento de motor y al aire después de la toma de contacto pueden exponer a la aeronave al riesgo de rebasar los límites de la pista. Por otra parte, una aproximación frustrada a baja altitud puede exponer a la aeronave al riesgo de un choque en la cola. Por lo tanto es posible que los pilotos deban hacer uso de su juicio de conformidad con el punto 2.2.4 del Libro Segundo, en lo que respecta a la autoridad del piloto al mando de la aeronave.
 
-4.5.8. Información sobre las condiciones del aeródromo.
+4.5.5.4.2 Después de un suceso que suponga una obstrucción o una incursión en la pista, los pilotos y controladores deberán cumplimentar un informe de incidentes de tránsito aéreo, de conformidad con el modelo de formulario de notificación de incidentes de tránsito aéreo.
 
-4.5.8.1. Información esencial sobre las condiciones del aeródromo, es la necesaria para la seguridad de la operación de aeronaves, referente al área de movimiento o a las instalaciones generalmente relacionadas con ella. Una obra de construcción en una calle de rodaje no conectada con la pista en uso, no constituiría información esencial para ninguna aeronave, excepto para la que pudiera tener que pasar cerca de la obra de construcción.
+4.5.5.5 Incertidumbre respecto de la posición en el área de maniobras.
 
-Por otra parte, si todo el tránsito debe limitarse a las pistas, ello debería considerarse como información esencial para toda aeronave no familiarizada con el aeródromo.
+4.5.5.5.1 Salvo lo dispuesto en 4.5.5.5.2 un piloto que duda respecto de la posición de la aeronave en relación con el área de maniobras inmediatamente:
 
-4.5.8.2. La información esencial sobre las condiciones del aeródromo incluirá lo siguiente (véase Fig. 4-33):
+a) Detendrá la aeronave; y
+
+b) Notificará simultáneamente a la dependencia ATS competente las circunstancias (incluida la última posición conocida).
+
+4.5.5.5.2 En las situaciones en las que el piloto dude respecto de la posición de la aeronave en relación con el área de maniobras, pero reconozca que la aeronave se encuentra en una pista, el piloto inmediatamente.
+
+a) notificará a la dependencia ATS competente las circunstancias (incluida la última posición conocida);
+
+b) evacuará, lo antes posible, la pista, si es capaz de localizar una calle de rodaje cercana apropiada, a menos que la dependencia ATS le indique otra cosa; y después,
+
+c) detendrá la aeronave.
+
+4.5.5.5.3 El conductor de un vehículo que dude sobre la posición del vehículo con respecto al área de maniobras inmediatamente:
+
+a) notificará a la dependencia ATS competente las circunstancias (incluida la última posición conocida);
+
+b) evacuará, en forma simultánea, a menos que la dependencia ATS indique otra cosa, el área de aterrizaje, la calle de rodaje o cualquier otra parte del área de maniobras, para alejarse a una distancia segura lo antes posible; y después,
+
+c) detendrá el vehículo.
+
+4.5.5.5.4 En caso de que el controlador del aeródromo se dé cuenta de que una aeronave o vehículo ha perdido la posición en el área de maniobras, o no esté seguro de su posición, se tomarán de inmediato las medidas apropiadas para salvaguardar las operaciones y ayudar a la aeronave o vehículo en cuestión a determinar su posición.
+
+4.5.5.6 Turbulencia de estela y peligros por el chorro de los reactores.
+
+4.5.5.6.1 Los controladores de aeródromo deberán, cuando proceda, establecer las mínimas de separación por estela turbulenta especificadas en 4.5.15.2. Cuando la responsabilidad de evitar la estela turbulenta incumba al piloto al mando, los controladores de aeródromo deberán, siempre que sea factible, advertir a las aeronaves cuando se espere que vaya a haber riesgos inherentes a la estela turbulenta.
+
+Nota.-La ocurrencia de los riesgos debidos a estela turbulenta no puede predecirse con precisión, por lo cual los controladores de aeródromo no pueden asumir la responsabilidad de hacer la oportuna advertencia en todo tiempo, ni pueden garantizar la precisión de la misma. La información sobre los peligros de los vórtices de estela figura en el Apéndice G.
+
+4.5.5.6.2 Los controladores de tránsito aéreo, al expedir autorizaciones o instrucciones, deberán tener en cuenta los peligros que los chorros de los reactores y las corrientes de las hélices pueden ocasionar a las aeronaves en rodaje, a las aeronaves que despegan o aterrizan, particularmente cuando se utilizan pistas que se cruzan, y a los vehículos y personal que circulan y actúan en el aeródromo.
+
+Nota.-El chorro de los reactores, los gases de escape de turbina o las corrientes de aire de las hélices pueden dar lugar a velocidades del viento en zonas localizadas de suficiente intensidad para causar daño a otras aeronaves, vehículos y personal que se encuentren dentro del área afectada.
+
+4.5.5.7 Configuración y condiciones anómalas de las aeronaves
+
+4.5.5.7.1 Siempre que una configuración o condición anómalas de una aeronave, incluidas condiciones tales como tren de aterrizaje sin desplegar o semidesplegado, o emisiones desacostumbradas de humo desde cualquier parte de la aeronave, hayan sido observadas o notificadas al controlador de aeródromo, se notificará el caso sin demora a la aeronave en cuestión.
+
+4.5.5.7.2 Cuando lo pida la tripulación de vuelo de una aeronave que sale si sospecha que la aeronave ha sufrido daños, se inspeccionará la pista utilizada para el despegue y se notificará a la tripulación de vuelo, de la forma más expedita posible, si se han encontrado o no restos de aeronave o de aves o de animales.
+
+4.5.5.8 Información esencial sobre las condiciones del aeródromo.
+
+4.5.5.8.1 Información esencial sobre las condiciones del aeródromo, es la necesaria para la seguridad de la operación de aeronaves, referente al área de movimiento o a las instalaciones generalmente relacionadas con ella. Por ejemplo, una obra de construcción en una calle de rodaje no conectada con la pista en uso, no constituiría información esencial para ninguna aeronave, excepto para la que pudiera tener que pasar cerca de la obra de construcción. Por otra parte, si todo el tránsito debe limitarse a las pistas, ello debería considerarse como información esencial para toda aeronave no familiarizada con el aeródromo.
+
+4.5.5.8.2 La información esencial sobre las condiciones del aeródromo incluirá lo siguiente:
 
 a) obras de construcción o de mantenimiento en el área de movimiento o inmediatamente adyacente a la misma;
 
@@ -2920,412 +3000,666 @@ g) la avería o el funcionamiento irregular de una parte o de todo el sistema de
 
 h) cualquier otra información pertinente.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image56.png)
+Nota.-La torre de control de aeródromo no siempre dispone de información actualizada sobre las condiciones en las plataformas. La responsabilidad de la torre de control de aeródromo respecto a las plataformas, está limitada, en relación con las disposiciones de 4.5.5.8.1. y 4.5.5.8.2. a transmitir a la aeronave la información que le proporcione la autoridad responsable de las plataformas.
 
-4.5.8.3. La información esencial sobre las condiciones del aeródromo se dará a todas las aeronaves, excepto cuando se sepa que la aeronave ya ha recibido de otras fuentes (1) toda o parte de la información.
+4.5.5.8.3 La información esencial sobre las condiciones del aeródromo se dará a todas las aeronaves, excepto cuando se sepa que la aeronave ya ha recibido de otras fuentes (1) toda o parte de la información. La información se dará con tiempo suficiente para que la aeronave pueda usarla debidamente, y los peligros se identificarán tan claramente como sea posible.
 
-La información se dará con tiempo suficiente para que la aeronave pueda usarla debidamente, y los peligros se identificarán tan claramente como sea posible.
+(1) "Otras fuentes" incluyen los NOTAM, las radiodifusiones ATIS, y la exhibición de señales adecuadas.
 
-(1) «Otras fuentes» incluyen los NOTAM, las radiodifusiones ATIS, y la exhibición de señales adecuadas.
+4.5.5.8.4 Cuando se informe al controlador o éste observe una condición que no hubiera sido anteriormente notificada en cuanto a la utilización segura por parte de las aeronaves del área de maniobras, esto será notificado al correspondiente gestor del aeródromo y se darán por terminadas las operaciones en esa parte del área de maniobras hasta que lo indique de otro modo el correspondiente gestor del aeródromo.
 
-Control del tránsito de aeródromo
+4.5.6 Control del tránsito de aeródromo.
 
-4.5.9. Orden de prioridad correspondiente a las aeronaves que llegan y que salen.
+4.5.6.1 Generalidades.
 
-4.5.9.1. Una aeronave que aterriza o se halla en las últimas fases de una aproximación final para aterrizar, tendrá normalmente prioridad sobre una aeronave que está a punto de salir.
+Puesto que el campo de visión desde el puesto de pilotaje de una aeronave está normalmente restringido, el controlador se asegurará de que las instrucciones y la información acerca de elementos que requieren que la tripulación de vuelo haga uso de la detección, reconocimiento y observación por medios visuales, se expresen de forma clara, concisa y completa.
 
-4.5.9.2. Las salidas se despacharán, normalmente, en el orden en que las aeronaves estén listas para el despegue, pero puede seguirse un orden distinto para facilitar el mayor número de salidas con la mínima demora media.
+4.5.6.2 Posiciones designadas de las aeronaves en los circuitos de tránsito y de rodaje de aeródromo.
 
-4.5.10. Control de las aeronaves en rodaje.
+4.5.6.2.1 Las siguientes posiciones de las aeronaves en los circuitos de tránsito y de rodaje, son aquellas en que las aeronaves reciben normalmente autorizaciones de las torres de control de aeródromo. Debe observarse cuidadosamente a las aeronaves a medida que se aproximan a estas posiciones para poder darles las autorizaciones correspondientes sin demora.
 
-4.5.10.1. Durante el rodaje la visión del piloto es limitada. Es necesario por lo tanto, que las dependencias de control de aeródromo cursen instrucciones concisas y suficiente información al piloto para ayudarle a determinar la debida vía de rodaje e impedir colisiones con otras aeronaves u objetos.
+Siempre que sea posible, todas las autorizaciones deben expedirse sin aguardar a que la aeronave las pida. (véase fig. 4-31).
 
-4.5.10.2. A fin de acelerar el tránsito aéreo, puede permitirse el rodaje de las aeronaves por la pista en uso, siempre que ello no entrañe riesgo ni demora para las demás aeronaves.
+Posición 1. La aeronave pide autorización para iniciar el rodaje previo al despegue. Se le dan las autorizaciones correspondientes al rodaje y pista en uso.
 
-4.5.10.3. Con excepción de lo dispuesto en 4.5.10.3.1. o a menos que otra cosa prescriba la autoridad ATS competente, las aeronaves no se mantendrán esperando a una distancia de la pista en uso inferior a la de un punto de espera en rodaje.
+Posición 2. Si existe tránsito que interfiera, la aeronave que vaya a salir se mantendrá en esta posición. Normalmente se calentarán en este lugar los motores, cuando sea necesario.
 
-4.5.10.3.1. No se permitirá a las aeronaves que esperen en el extremo de aproximación de la pista en uso mientras otra aeronave está efectuando un aterrizaje, hasta que ésta última haya pasado del punto previsto para la espera. (Véase Fig. 4-34A y 4-34B).
+Posición 3. Se da en este punto la autorización de despegue, si no ha sido posible hacerlo en la posición 2.
 
-|  |  |
-| --- | --- |
+Posición 4. Aquí se da la autorización de aterrizar, de ser factible.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image57.png)
+Posición 5. Aquí se da la autorización para rodar hasta la plataforma o el área de estacionamiento.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image58.png)
+Posición 6. Cuando es necesario se proporciona en esta posición la información para el estacionamiento.
 
-4.5.10.4. Deberá enviarse al puesto de estacionamiento aislado designado a las aeronaves que se sepa o se sospeche que están siendo objeto de interferencia ilícita o que, por cualquier otra razón, sea conveniente apartar de las actividades normales de un aeródromo. En los casos en que no se haya designado tal puesto de estacionamiento aislado, o si no se dispone de él, se enviará a la aeronave a un puesto dentro del área o las áreas elegidas de común acuerdo con las autoridades del aeródromo. La autorización de rodaje especificará la ruta que ha de seguirse hasta el puesto de estacionamiento. Esta ruta se elegirá de modo que se reduzcan al mínimo los riesgos para el público, otras aeronaves y las instalaciones del aeródromo (1).
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/156/11268_12753.png)
+
+Figura 4-31
+
+Nota.-Las aeronaves que llegan ejecutando un procedimiento de aproximación por instrumentos entrarán normalmente en el circuito de tránsito en el tramo final salvo cuando se requieran maniobras visuales hacia la pista de aterrizaje
+
+4.5.6.3 Llamada inicial a la torre de control de aeródromo
+
+Para aeronaves a las que se les proporcione servicio de control de aeródromo, la llamada inicial contendrá:
+
+a) La designación de la estación a la que se llama;
+
+b) El distintivo de llamada y, para las aeronaves comprendidas en la categoría de estela turbulenta pesada la palabra “pesada”.
+
+c) La posición; y
+
+d) Los elementos adicionales que requiera la autoridad ATS competente.
+
+4.5.6.4 Tránsito en el área de maniobras.
+
+4.5.6.4.1 Control de las aeronaves en rodaje.
+
+4.5.6.4.1.1 Antes de expedir una autorización de rodaje, el controlador determinará donde está estacionada la aeronave en cuestión. Las autorizaciones de rodaje incluirán instrucciones concisas y suficiente información para ayudar a la tripulación de vuelo a determinar la debida vía de rodaje, impedir colisiones con otras aeronaves u objetos y reducir al mínimo la posibilidad de que la aeronave entre inadvertidamente en una pista activa.
+
+4.5.6.4.1.2 Cuando en una autorización de rodaje se incluye un límite de rodaje más allá de una pista, se incluirá una autorización explícita para cruzar o una instrucción para mantenerse fuera de esa pista.
+
+4.5.6.4.1.3 La autoridad ATS competente deberá, siempre que sea factible, incluir en la AIP nacional las vías normalizadas de rodaje que hayan de utilizarse en un aeródromo. Deberán identificarse las vías normalizadas de rodaje mediante los designadores apropiados y ser utilizados en las autorizaciones de rodaje.
+
+4.5.6.4.1.4 Allí donde no se hayan publicado vías normalizadas de rodaje, deberá describirse siempre que sea posible, una vía de rodaje mediante el uso de designadores de calles de rodaje y de pistas. Se proporcionará también a la aeronave en rodaje toda otra instrucción o información pertinente, tal como la de seguir a una aeronave o ceder el paso a una aeronave.
+
+4.5.6.4.1.5 Rodaje en una pista en uso.
+
+4.5.6.4.1.5.1 A fin de acelerar el tránsito aéreo, puede permitirse el rodaje de las aeronaves por la pista en uso, siempre que ello no entrañe riesgo ni demora para las demás aeronaves. Cuando el controlador de tierra se encarga del control de las aeronaves en rodaje y el controlador de aeródromo se encarga del control de las operaciones en las pistas, se coordinará el uso de una pista por parte de las aeronaves en rodaje con el controlador de aeródromo y éste dará su aprobación. Debe transferirse la comunicación con la aeronave en cuestión desde el controlador de tierra al controlador de aeródromo antes de que la aeronave entre en la pista.
+
+4.5.6.4.1.5.2 Si la torre de control no puede determinar, ni por medios visuales ni por un sistema de vigilancia ATS, si una aeronave ha dejado libre la pista al salir de ella o al cruzarla, se pedirá a la aeronave que informe cuando haya salido de la pista. El informe se transmitirá cuando toda la aeronave ya esté más allá del punto de espera de la pista pertinente.
+
+4.5.6.4.1.6 Uso de puntos de espera de la pista.
+
+4.5.6.4.1.6.1 Con excepción de lo dispuesto en 4.5.6.4.1.6.2. o a menos que otra cosa prescriba la autoridad ATS competente, las aeronaves no se mantendrán esperando a una distancia de la pista en uso inferior a la de un punto de espera de la pista.
+
+4.5.6.4.1.6.2 No se permitirá a las aeronaves que se pongan en cola y esperen en el extremo de aproximación de la pista en uso mientras otra aeronave está efectuando un aterrizaje, hasta que ésta última haya pasado del punto previsto para la espera. (véase fig. 4-32).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/156/11268_12803.png)
+
+Fig. 4-32
+
+4.5.6.4.1.6.3 Deberá enviarse al puesto de estacionamiento aislado designado a las aeronaves que se sepa o se sospeche que están siendo objeto de interferencia ilícita o que, por cualquier otra razón, sea conveniente apartar de las actividades normales de un aeródromo. En los casos en que no se haya designado tal puesto de estacionamiento aislado, o si no se dispone de él, se enviará a la aeronave a un puesto dentro del área o las áreas elegidas de común acuerdo con las autoridades del aeródromo. La autorización de rodaje especificará la ruta que ha de seguirse hasta el puesto de estacionamiento. Esta ruta se elegirá de modo que se reduzcan al mínimo los riesgos para el público, otras aeronaves y las instalaciones del aeródromo (1).
 
 (1) Las autoridades del aeropuerto tendrán en cuenta lo dispuesto sobre el particular por OACI.
 
-4.5.10.5. Cuando un helicóptero con ruedas o VTOL necesite efectuar un rodaje en la superficie, se aplican las disposiciones que figuran en esta sección.
+4.5.6.4.1.7 Operaciones de rodaje de helicópteros.
 
-Nota: El rodaje en tierra utiliza menos combustible que el rodaje aéreo y reduce al mínimo la turbulencia del aire. Sin embargo, en determinadas condiciones, tales como terreno rugoso, blando o irregular puede resultar necesario efectuar un rodaje aéreo por consideraciones de seguridad. Los helicópteros con rotores (generalmente diseños con tres o más palas del rotor principal) están sujetos a la «resonancia del suelo» y pueden, en raras ocasiones, elevarse repentinamente del suelo para evitar graves daños o destrucción.
+4.5.6.4.1.7.1 Cuando un helicóptero con ruedas o VTOL necesite efectuar un rodaje en la superficie, se aplican las disposiciones siguientes.
 
-4.5.10.5.1. Cuando un helicóptero solicite o necesite proseguir a baja velocidad sobre la superficie, normalmente a menos de 37 km/h (20 kt) y en caso de efecto de suelo, puede autorizarse el rodaje aéreo.
+Nota.–El rodaje en tierra utiliza menos combustible que el rodaje aéreo y reduce al mínimo la turbulencia del aire. Sin embargo, en determinadas condiciones, tales como terreno rugoso, blando o irregular puede resultar necesario efectuar un rodaje aéreo por consideraciones de seguridad. Los helicópteros con rotores (generalmente diseños con tres o más palas del rotor principal) están sujetos a la “resonancia del suelo” y pueden, en raras ocasiones, elevarse repentinamente del suelo para evitar graves daños o destrucción.
 
-Nota: El rodaje aéreo consume combustible a una alta velocidad de combustión, y la turbulencia descendente del helicóptero (producida en caso de efecto de suelo) aumenta considerablemente al tratarse de helicópteros más grandes y más pesados.
+4.5.6.4.1.7.2 Cuando un helicóptero solicite o necesite proseguir a baja velocidad sobre la superficie, normalmente a menos de 37 km/h (20 kt) y en caso de efecto de suelo, puede autorizarse el rodaje aéreo.
 
-4.5.10.5.2. Deberían evitarse las instrucciones que exijan a las pequeñas aeronaves o helicópteros efectuar un rodaje a gran proximidad de helicópteros en rodaje, y debería tenerse en cuenta el efecto de turbulencia que los helicópteros en rodaje pueden causar a las aeronaves ligeras que llegan o salen.
+Nota.–El rodaje aéreo consume combustible a una alta velocidad de combustión, y la turbulencia descendente del helicóptero (producida en caso de efecto de suelo) aumenta considerablemente al tratarse de helicópteros más grandes y más pesados.
 
-4.5.11. Control del tránsito que no sea de aeronaves en el área de maniobras.
+4.5.6.4.1.7.3 Deben evitarse las instrucciones que exijan a las pequeñas aeronaves o helicópteros efectuar un rodaje a gran proximidad de helicópteros en rodaje, y deberá tenerse en cuenta el efecto de turbulencia que los helicópteros en rodaje pueden causar a las aeronaves ligeras que llegan o salen.
 
-4.5.11.1. El movimiento de peatones y vehículos en el área de maniobras estará sujeto a la autorización de la torre de control de aeródromo.
+4.5.6.4.1.7.4 No deberán expedirse cambios de frecuencia a los helicópteros tripulados por un solo piloto en vuelo estacionario o rodaje aéreo. Siempre que sea posible, las instrucciones de control necesarias de la dependencia ATS siguiente deberán retransmitirse hasta que el piloto pueda cambiar de frecuencia.
 
-Se exigirá al personal, incluso a los conductores de todos los vehículos, que obtengan autorización de la torre de control de aeródromo antes de entrar en el área de maniobras.
+Nota.-Los helicópteros ligeros están en su mayor parte tripulados por un solo piloto y requieren la continua utilización de ambas manos y pies para mantener el control durante el vuelo de baja altitud o a bajo nivel. Aunque los dispositivos de fricción para mando de vuelo ayuden al piloto, el cambiar de frecuencia cerca del suelo podría llevar a una toma de contacto involuntaria y la consiguiente pérdida de control.
 
-Aunque exista dicha autorización la entrada en la pista o franja de pista, o cualquier cambio en la operación autorizada, estarán sujetos a la autorización específica de la torre de control de aeródromo.
+4.5.6.4.2 Control del tránsito que no sea de aeronaves en el área de maniobras.
 
-4.5.11.2. En los aeródromos controlados, todos los vehículos que se utilicen en el área de maniobras estarán en condiciones de mantener radiocomunicaciones en ambos sentidos con la torre de control de aeródromo, excepto cuando el vehículo sólo se utilice de vez en cuando en el área de maniobras, y:
+4.5.6.4.2.1 El movimiento de peatones y vehículos en el área de maniobras estará sujeto a la autorización de la torre de control de aeródromo. Se exigirá al personal, incluso a los conductores de todos los vehículos, que obtengan autorización de la torre de control de aeródromo antes de entrar en el área de maniobras. Aunque exista dicha autorización la entrada en la pista o franja de pista, o cualquier cambio en la operación autorizada, estarán sujetos a la autorización específica de la torre de control de aeródromo.
+
+4.5.6.4.2.2 Todos los vehículos y peatones cederán el paso a aeronaves que estén aterrizando, en rodaje o despegando, pero los vehículos de emergencia que estén en camino de ayudar a una aeronave accidentada, tendrán derecho de paso por delante de cualquier otro tráfico de movimientos en superficie. En este último caso, todo el tráfico de movimientos en la superficie deberá, en la medida de lo posible detenerse hasta que se determine que no se ha producido ningún impedimento al avance de los vehículos de emergencia.
+
+4.5.6.4.2.3 Mientras una aeronave está aterrizando o despegando, no se permitirá que los vehículos esperen, respecto a la pista en uso, a una distancia inferior a:
+
+a) la de un punto de espera de la pista, en una intersección de calle de rodaje con la pista; y
+
+b) la de separación del punto de espera de la pista, en cualquier lugar que no sea el de intersección de calle de rodaje con la pista.
+
+4.5.6.4.2.4 En los aeródromos controlados, todos los vehículos que se utilicen en el área de maniobras estarán en condiciones de mantener radiocomunicaciones en ambos sentidos con la torre de control de aeródromo, excepto cuando el vehículo sólo se utilice de vez en cuando en el área de maniobras, y:
 
 a) vaya acompañado de un vehículo dotado del equipo de comunicaciones requerido; o
 
 b) se utilice de acuerdo con un plan preestablecido con la torre de control de aeródromo.
 
-4.5.11.2.1. Cuando la comunicación mediante un sistema de señales visuales se considere adecuada, o en el caso de fallo de las radiocomunicaciones, se utilizarán las señales reseñadas a continuación y con el significado que se indica (1):
+4.5.6.4.2.5 Cuando la comunicación mediante un sistema de señales visuales se considere adecuada, o en el caso de fallo de las radiocomunicaciones, se utilizarán las señales reseñadas a continuación y con el significado que se indica (1):
 
 | Señal luminosa del control de aeródromo | Significado |
 | --- | --- |
-| Destellos verdes | Permiso para cruzar el área de aterrizaje o pasar a la calle de rodaje |
-| Señal roja fija | Parar |
-| Destellos rojos | Apartarse del área de aterrizaje o calle de rodaje y tener cuidado con las aeronaves |
-| Destellos blancos | Desalojar el área de maniobras de conformidad con las instrucciones locales |
+| Destellos verdes. | Permiso para cruzar el área de aterrizaje o pasar a la calle de rodaje. |
+| Señal roja fija. | Parar. |
+| Destellos rojos. | Apartarse del área de aterrizaje o calle de rodaje y tener cuidado con las aeronaves. |
+| Destellos blancos. | Desalojar el área de maniobras de conformidad con las instrucciones locales. |
 
-(1) Véase también Apéndice C, Adjunto 4.
+(1) Véase también apéndice C, adjunto 4.
 
-4.5.11.2.2. En condiciones de emergencia o en el caso de que no se respeten las señales indicadas en 4.5.11.2.1., la señal que se indica a continuación se usará en pistas o calles de rodaje equipadas con sistemas de iluminación, y tendrá el significado que se indica:
+4.5.6.4.2.6 En condiciones de emergencia o en el caso de que no se respeten las señales indicadas en. 4.5.6.4.2.5, la señal que se indica a continuación se usará en pistas o calles de rodaje equipadas con sistemas de iluminación, y tendrá el significado que se indica:
 
 | Señal luminosa | Significado |
 | --- | --- |
-| Destello de las luces de pista o calle de rodaje | Desalojar la pista o calle de rodaje y observar la torre en espera de una señal luminosa |
+| Destello de las luces de pista o calle de rodaje. | Desalojar la pista o calle de rodaje y observar la torre en espera de una señal luminosa. |
 
-4.5.11.2.3. Cuando se utilice de acuerdo con un plan preestablecido con la torre de control de aeródromo, no debería requerirse normalmente que el personal de construcción y de mantenimiento esté en condiciones de mantener comunicación en ambos sentidos con la torre de control de aeródromo.
+4.5.6.4.2.7 Cuando se utilice de acuerdo con un plan preestablecido con la torre de control de aeródromo, normalmente no se requerirá que el personal de construcción y de mantenimiento esté en condiciones de mantener comunicación en ambos sentidos con la torre de control de aeródromo.
 
-4.5.11.3. Mientras una aeronave está aterrizando o despegando, no se permitirá que los vehículos esperen, respecto a la pista en uso, a una distancia inferior a:
+4.5.7 Control del tránsito en el circuito de tránsito.
 
-a) la de un punto de espera en rodaje, en una intersección de calle de rodaje con la pista; y
-
-b) la de separación del punto de espera en rodaje, en cualquier lugar que no sea el de intersección de calle de rodaje, con la pista.
-
-4.5.11.4. Antes de un período en el que se sigan procedimientos con mala visibilidad, la torre de control de aeródromo llevará un registro de los vehículos y personal que se encuentren en el área de maniobras y mantendrá este registro durante el período en el que se sigan dichos procedimientos con el propósito de colaborar en el aspecto seguridad de las operaciones realizadas en dicha área.
-
-4.5.12. Separación entre aeronaves y entre aeronaves y vehículos en el área de maniobras.
-
-4.5.12.1. Cuando el tránsito deba operar en el área de maniobras con una visibilidad que exija que el control de aeródromo aplique la separación entre aeronaves y entre aeronaves y vehículos, que no sean los reseñados en 4.5.10.3. y 4.5.11.3., se aplicará lo siguiente:
-
-4.5.12.1.1. En la intersección de las calles de rodaje, no se permitirá que ninguna aeronave o vehículo situado en una calle de rodaje se mantenga más cerca de la otra calle de rodaje, que lo indicado por el límite de la posición de espera determinado por una barra de cruce, barra de parada o señal de intersección de calle de rodaje, de conformidad con las especificaciones establecidas (1).
-
-(1) Las autoridades del aeropuerto tendrán en cuenta lo dispuesto sobre el particular por OACI.
-
-4.5.12.1.2. La separación longitudinal en las calles de rodaje será la especificada para cada aeródromo por la autoridad ATS competente.
-
-Esta separación tendrá en cuenta las características de las ayudas disponibles para la vigilancia y control de tránsito en tierra, la complejidad del trazado del aeródromo y las características de las aeronaves que lo utilicen (1).
-
-(1) El movimiento de aeronaves en estas condiciones de mala visibilidad presupone instalaciones apropiadas para la operación. Las autoridades del aeropuerto y la autoridad ATS competente tendrán en cuenta las directrices de OACI sobre los elementos y procedimientos de guía y control del movimiento en la superficie.
-
-4.5.13. Control del tránsito en el circuito de tránsito.
-
-4.5.13.1. Se controlarán las aeronaves que se hallen en el circuito de tránsito para proporcionar las separaciones mínimas detalladas en 4.5.14.1., 4.5.15.1. y 4.5.16. pero:
+4.5.7.1 Se controlarán las aeronaves que vuelan en el circuito de aeródromo y se dispondrá que haya suficiente separación entre ellas para que puedan mantenerse las separaciones mínimas detalladas en 4.5.9, 4.5.10 y 4.5.11 entre las aeronaves que llegan, las que salen y entre las que llegan y salen, pero:
 
 a) las aeronaves que vuelen en formación quedan exceptuadas de mantener las separaciones mínimas respecto a otras aeronaves que formen parte del mismo vuelo;
 
-b) las aeronaves que operen en diferentes áreas o vías de aeródromos que posean pistas o esteras metálicas que permitan aterrizajes o despegues simultáneos, quedan exceptuadas de las mínimas de separación;
+b) las aeronaves que operen en diferentes áreas o diferentes pistas de aeródromos que permitan aterrizajes o despegues simultáneos, quedan exentas de las mínimas de separación;
 
-c) las mínimas de separación no se aplicarán a las aeronaves que operen por necesidades militares de conformidad con el Capítulo 2, Sección 4.2.6.
+c) las mínimas de separación no se aplicarán a las aeronaves que operen por necesidades militares de conformidad con el apartado 4.2.6.
 
-4.5.13.2. Se dispondrá que haya suficiente separación entre las aeronaves que vuelan en el circuito de tránsito, para que pueda mantenerse la separación descrita en 4.5.14.1., 4.5.15.1. y 4.5.16. entre las aeronaves que llegan y las aeronaves que salen.
+4.5.7.2 Se expedirá autorización a una aeronave para entrar en el circuito de tránsito cuando se desee que ésta se aproxime al área de aterrizaje de acuerdo con los circuitos de tránsito en uso y cuando las condiciones del tránsito sean tales que no sea posible autorizar el aterrizaje inmediato. Dependiendo de las circunstancias y de las condiciones del tránsito, puede darse autorización a una aeronave para que se incorpore en cualquier punto al circuito de tránsito. Con la autorización de entrada en el circuito de tránsito, se proporciona información relativa al sentido de aterrizaje o pista en uso, para que el piloto al mando pueda planificar correctamente su entrada en el circuito de tránsito.
 
-4.5.13.3. Se expedirá autorización a una aeronave para entrar en el circuito de tránsito cuando se desee que ésta se aproxime al área de aterrizaje de acuerdo con los circuitos de tránsito en uso, y cuando las condiciones de tránsito sean tales que no sea posible autorizar el aterrizaje inmediato.
+4.5.7.3 Se dará normalmente la autorización de aterrizaje directo a las aeronaves que lleguen ejecutando una aproximación por instrumentos, a no ser que se requieran maniobras visuales hacia la pista de aterrizaje.
 
-Con la autorización de entrada en el circuito de tránsito, se proporciona información relativa al sentido de aterrizaje o pista en uso, para que el piloto al mando pueda planificar correctamente su entrada en el circuito de tránsito.
+4.5.7.4 Si una aeronave entra en el circuito de tránsito de aeródromo sin la debida autorización, se le permitirá que aterrice si sus maniobras indican que así lo desea. Cuando las circunstancias lo justifiquen, un controlador podrá pedir a las aeronaves con quienes esté en contacto que se aparten, tan pronto como sea posible, para evitar el riesgo originado por tal operación no autorizada. En ningún caso deberá suspenderse indefinidamente la autorización para aterrizar.
 
-4.5.13.4. Si una aeronave entra en el circuito de tránsito de aeródromo sin la debida autorización, se le permitirá que aterrice si sus maniobras indican que así lo desea.
+4.5.7.5 En casos de emergencia puede ser necesario, por motivos de seguridad, que una aeronave entre en el circuito de tránsito y efectúe un aterrizaje sin la debida autorización. Los controladores deberán reconocer los casos de emergencia y prestar toda la ayuda posible.
 
-Cuando las circunstancias lo justifiquen, un controlador podrá pedir a las aeronaves con quienes esté en contacto que se aparten, tan pronto como sea posible, para evitar el riesgo originado por tal operación no autorizada. En ningún caso deberá suspenderse indefinidamente la autorización para aterrizar.
-
-4.5.13.5. En casos de emergencia puede ser necesario, por motivos de seguridad, que una aeronave entre en el circuito de tránsito y efectúe un aterrizaje sin la debida autorización. Los controladores deberán reconocer los casos de emergencia y prestar toda la ayuda posible.
-
-4.5.13.6. Se podrá dar autorización especial para el uso del área de maniobras:
+4.5.7.6 Se concederá prioridad para el aterrizaje:
 
 a) a toda aeronave que prevea verse obligada a aterrizar debido a causas que afecten la seguridad de operación de la misma (fallo de motor, escasez de combustible, etc.);
 
-b) a las aeronaves ambulancias o a las que lleven enfermos o lesionados graves que requieran urgentemente atención médica.
+b) a las aeronaves ambulancias o a las que lleven enfermos o lesionados graves que requieran urgentemente atención médica;
 
-4.5.14. Control de las aeronaves que salen.
+c) a las aeronaves que realizan operaciones de búsqueda y salvamento;
 
-4.5.14.1. Separación de aeronaves.
+d) a otras aeronaves según lo determine la autoridad competente.
 
-4.5.14.1.1. Salvo lo especificado en 4.5.14.1.1.1. y 4.5.16., no se permitirá, en general, que inicie el despegue ninguna aeronave:
+4.5.8 Orden de prioridad correspondiente a las aeronaves que llegan y que salen.
 
-a) Aeronaves que usan la misma pista:
+4.5.8.1 Una aeronave que aterriza o se halla en las últimas fases de una aproximación final para aterrizar, tendrá normalmente prioridad sobre una aeronave que está a punto de salir desde la misma pista o una pista intersecante.
 
-i) hasta que la aeronave que la preceda en el orden de salidas haya cruzado el final de la pista en uso (B), o haya iniciado un viraje (C) (véase Fig.4-35A) ); y
+4.5.9 Control de las aeronaves que salen.
 
-ii) hasta que las aeronaves que acaben de aterrizar (B) hayan dejado la pista libre (véase Fig. 4-35B).
+4.5.9.1 Las salidas se despacharán, normalmente, en el orden en que las aeronaves estén listas para el despegue, pero puede seguirse un orden distinto para facilitar el mayor número de salidas con la mínima demora media. Entre los factores que deben tenerse en cuenta para el orden de salida se incluyen, entre otros, los siguientes:
 
-|  |  |
-| --- | --- |
+a) tipos de aeronave y su «performance» relativa;
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image59.png)
+b) rutas por seguir después del despegue;
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image60.png)
+c) cualquier intervalo mínimo especificado de salida entre un despegue y otro;
 
-b) Aeronaves que usan pistas que se cruzan:
+d) necesidad de aplicar mínimas de separación por estela turbulenta;
 
-i) hasta que la aeronave que la preceda en el orden de salidas haya cruzado la intersección de ambas pistas (B) o haya iniciado un viraje (C) (véase Fig. 4-35C); y
+e) aeronaves a las que debe concederse prioridad, tales como vuelos ambulancia; y
 
-ii) hasta que las aeronaves que acaben de aterrizar hayan dejado ambas pistas libres (B), hayan cruzado la intersección de ambas pistas (C) o hayan completado la carrera de aterrizaje y se mantendrán fuera de la pista de despegue (D) (véase Fig 4-35D).
+f) aeronaves sujetas a requisitos ATFM.
 
-|  |  |
-| --- | --- |
+Nota.–En el caso de aeronaves sujetas a requisitos ATFM, es responsabilidad del piloto y del explotador asegurarse de que la aeronave está preparada para el rodaje en tiempo para satisfacer cualquier hora de salida requerida, teniendo en cuenta que una vez establecido el orden de salidas en el sistema de calles de rodaje, puede ser difícil y a veces imposible cambiar el orden.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image61.png)
+4.5.9.2 Separación entre aeronaves que utilizan la misma pista.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image62.png)
+4.5.9.2.1 Salvo lo especificado en 4.5.11 y 4.5.15., no se permitirá, en general, que inicie el despegue ninguna aeronave hasta que la aeronave que la preceda en el orden de salidas haya cruzado el extremo de la pista en uso (B); o haya iniciado un viraje (C) o hasta que las aeronaves que acaben de aterrizar (A) hayan dejado la pista libre (véase fig. 4-33)
 
-4.5.14.1.1.1. Reducción de la separación entre aeronaves.
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/156/11268_12859.png)
 
-4.5.14.1.1.1.1. Cuando así lo prescriba la autoridad ATS competente, previa consulta con los explotadores, una aeronave que sale a continuación de otra puede comenzar el despegue de la misma pista si existe entre ellas la siguiente distancia mínima:
+Fig. 4-33
 
-a) 3.000 ft (900 m) cuando ambas aeronaves sean de categoría I (véase Fig. 4-23);
+Figura 4-33: Posiciones límite de una aeronave que ha aterrizado (A) o de aeronaves que salen (B o C), antes de que una aeronave que sale (D) pueda iniciar el despegue, a menos que la autoridad ATS competente prescriba otra cosa de conformidad con 4.5.11 y 4.5.15.
 
-b) 3.000 ft (900 m) cuando una aeronave de categoría II preceda a otra de categoría I (véase Fig. 4-23);
+4.5.9.2.1.1 Puede concederse la autorización de despegue a una aeronave si se tiene un grado razonable de seguridad de que la separación que figura en 4.5.9.2.1. o la que se prescriba de acuerdo con 4.5.11. existirá cuando la aeronave comience el despegue.
 
-c) 4.500 ft (1.350 m) cuando la aeronave que siga o ambas sean de categoría II (véase Fig. 4-23);
+4.5.9.3 Separación entre aeronaves que utilizan pistas que se cruzan.
 
-d) 6.000 ft (1.800 m) cuando una de las aeronaves sea de categoría III (véase Fig. 4-23);
+4.5.9.3.1 Sin perjuicio de lo especificado en la sección 4.5.15., no se permitirá, en general, que inicie el despegue ninguna aeronave:
 
-e) separación visual cuando un helicóptero despegue detrás de otra aeronave.
+a) hasta que la aeronave que la preceda en el orden de salidas haya cruzado completamente la intersección de ambas pistas (B), o esté en el aire y haya iniciado un viraje divergente que evite cualquier conflicto (C) (véase fig. 4-34 A); o
 
-Las distancias serán determinadas por el controlador con relación a puntos adecuados de referencia sobre el terreno.
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/156/11268_12911.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image63.png)
+Fig. 4-34 A
 
-4.5.14.1.1.1.2. Las mínimas reducidas prescritas en 4.5.14.1.1.1.1. no se aplicarán:
+Figura 4.34 A: Posiciones límite de aeronaves que salen (B o C), antes de que una aeronave que sale (A) pueda iniciar el despegue, a menos que la autoridad ATS competente prescriba otra cosa de conformidad con 4.5.15.
 
-a) Entre una aeronave que sale y una aeronave precedente que aterriza;
+b) hasta que las aeronaves que acaben de aterrizar:
 
-b) Entre la puesta y la salida del sol, o en cualquier otro periodo que pudiera prescribirse entre la puesta y la salida del sol;
+i. hayan dejado ambas pistas libres (B); o
 
-c) Cuando la eficacia de frenado pueda estar adversamente afectada por la existencia de residuos de precipitación en la pista (nieve fundente, agua, etc);
+ii. hayan cruzado completamente la intersección de ambas pistas (C); o
 
-d) En condiciones meteorológicas que impidan al piloto la pronta evaluación de las condiciones del tránsito en la pista.
+iii. hayan completado el recorrido de aterrizaje y se hayan detenido fuera de la zona protegida de la pista de despegue (D). (véase Fig. 4-34 B)
 
-4.5.14.1.1.1.3. A los efectos de las separaciones prescritas en 4.5.14.1.1.1.1, las aeronaves se clasifican en las categorías siguientes:
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/156/11268_12961.png)
 
-i) Categoría I-Aeronaves ligeras (5.670 kg/12.500 lbs o menos), monomotoras y propulsadas por hélice;
+Fig. 4-34 B
 
-ii) Categoría II-Aeronaves ligeras (5.670 kg/12.500 lbs o menos), bimotoras y propulsadas por hélice;
+Figura 4.34 B: Posiciones límite de las aeronaves que han aterrizado (B) (C) (D), antes de que una aeronave que sale (A) pueda permitirse iniciar el despegue, a menos que la autoridad ATS competente prescriba otra cosa de conformidad con 4.5.15.
 
-iii) Categoría III-Todas las demás aeronaves.
+4.5.9.3.1.1 Puede concederse la autorización de despegue a una aeronave si se tiene un grado razonable de seguridad de que la separación que figura en 4.5.9.3.1 o la que se prescriba de acuerdo con 4.5.15 existirá cuando la aeronave comience el despegue.
 
-4.5.14.2. Puede concederse la autorización de despegue a una aeronave si se tiene un grado razonable de seguridad de que la separación que figura en 4.5.14.1.1. o la que se prescriba de acuerdo con 4.5.14.1.1.1. existirán cuando la aeronave comience el despegue.
+4.5.9.4 Cuando se necesite una autorización ATC antes del despegue, no se expedirá la autorización de despegue hasta que la correspondiente autorización ATC haya sido transmitida a la aeronave interesada y ésta haya acusado recibo. La autorización se transmitirá a la torre de control de aeródromo con la menor demora posible después de que la torre la solicite, o antes, si fuera posible.
 
-4.5.14.3. Cuando se necesite autorización de control de tránsito aéreo del centro de control de área antes del despegue, no se expedirá la autorización de despegue hasta que la correspondiente autorización del centro de control de área haya sido transmitida a la aeronave interesada y ésta haya acusado recibo.
+4.5.9.5 A reserva de lo estipulado en 4.5.9.4. la autorización de despegue se expedirá cuando la aeronave esté dispuesta para el despegue y en la pista en uso o acercándose a ella, y la situación del tránsito lo permita. Para que disminuya la posibilidad de un malentendido, en toda autorización de despegue se incluirá el designador de la pista de salida.
 
-El centro de control de área enviará la autorización a la torre de control de aeródromo con la menor demora posible después de que la torre la solicite, o antes, si fuera posible.
+4.5.9.5.1 En ningún caso se detendrá el recorrido de despegue de una aeronave por motivos ATFM.
 
-4.5.14.4. A reserva de lo estipulado en 4.5.14.3. y en 4.5.14.7., la autorización de despegue se expedirá cuando la aeronave esté dispuesta para el despegue y en la pista en uso o acercándose a ella, y la situación del tránsito lo permita.
+4.5.9.5.1.1 A fin de acelerar el tránsito, se puede autorizar el despegue inmediato de una aeronave antes de que ésta entre en la pista. Al aceptar tal autorización, la aeronave circulará por la calle de rodaje hasta la pista y despegará sin detenerse en ella.
 
-4.5.14.5. A fin de acelerar el tránsito, se puede autorizar el despegue inmediato de una aeronave antes de que ésta entre en la pista.
+4.5.9.6 Despegue desde intersección.
 
-Al aceptar tal autorización, la aeronave circulará por la calle de rodaje hasta la pista y despegará sin detenerse en ella.
+4.5.9.6.1 Podrá autorizarse la salida de una aeronave desde una posición de despegue en una intersección publicada si el piloto así lo solicita, o a iniciativa del ATC con el consentimiento del piloto, siempre que se satisfagan las condiciones previstas en 4.5.9.6.2.
 
-4.5.14.6. No debe autorizarse el recorrido de despegue de una aeronave pesada si el chorro de sus motores de reacción puede ser peligroso para una aeronave o vehículo que le sigan, o para las estructuras terrestres.
+4.5.9.6.2 Las distancias declaradas reducidas de pista correspondientes a cada posición de despegue en una intersección se publicarán en la AIP correspondiente, distinguiéndolas claramente de las distancias declaradas completas de la pista y consistirán en lo siguiente:
 
-4.5.14.7. Despegue desde intersección.
+a) recorrido de despegue disponible reducido (TORA reducido);
 
-4.5.14.7.1. Se podrá dar autorización a una aeronave que sale para efectuar el despegue desde una intersección:
+b) distancia de despegue disponible reducida (TODA reducida);
 
-a) cuando lo solicite la aeronave, o
+c) distancia disponible de aceleración –parada reducida (ASDA reducida)
 
-b) cuando lo proponga el controlador y lo acepte la aeronave.
+Nota.–El punto de referencia a partir del cual se miden las distancias declaradas de pista para una posición de despegue en una intersección publicada se ajustará a las disposiciones pertinentes del Plan de Navegación Aérea–Región Europa, Volumen II–FASID (Documento 7754) Parte III–AOP. Los carteles de señalización se ajustarán a las disposiciones del anexo 14 de la OACI.
 
-4.5.14.7.2. Cuando lo solicite el piloto se informará de la distancia existente desde la intersección hasta el final de la pista.
+4.5.9.6.3 La autorización de despegue desde una intersección se expedirá cuando la aeronave esté dispuesta para el despegue y se halle en la intersección o próxima a ella y la situación del tránsito lo permita. En el permiso de despegue se incluirá el designador de la intersección correspondiente.
 
-4.5.14.7.3. La autorización de despegue se expedirá cuando la aeronave esté dispuesta para el despegue y se halle en la intersección o acercándose a ella y la situación del tránsito lo permita.
+4.5.9.6.4 Cuando así lo solicite el piloto se le informará del correspondiente recorrido de despegue disponible reducido de la pista.
 
-4.5.15. Control de las aeronaves que llegan.
+4.5.9.7 Entrada de múltiples aeronaves a la misma pista.
 
-4.5.15.1. Separación de aeronaves.
+4.5.9.7.1 Se podrán dar instrucciones de entrar y mantener a más de una aeronave en diferentes puntos de una misma pista, teniendo en cuenta que los criterios de despegue desde intersección deben cumplirse, siempre que se den las siguientes condiciones:
 
-4.5.15.1.1. Salvo lo especificado en 4.5.15.1.1.1. y 4.5.16., no se permitirá, en general, cruzar el comienzo de la pista, en su aproximación final, a ninguna aeronave que vaya a aterrizar:
+a) La autoridad ATS competente haya establecido una visibilidad mínima que permita al controlador y al piloto observar continuamente, por referencia visual, la posición de las aeronaves pertinentes en el área de maniobras;
 
-a) Aeronaves que usan la misma pista:
+b) se han determinado las características locales, tales como la configuración del aeródromo, los equipos radar disponibles y los fenómenos meteorológicos locales. Se deberán tener en cuenta los efectos que puedan ocasionar los chorros de los reactores y el torbellino de las hélices;
 
-i) hasta que la aeronave que la preceda en despegue haya cruzado el final de la pista en uso (B), o haya iniciado un viraje (C) (véase Fig. 4-35 E ); y
+c) el servicio de control a las aeronaves que formen parte de la entrada múltiple a la misma pista se proporciona en una misma radiofrecuencia;
 
-ii) hasta que todas las aeronaves que acaben de aterrizar (B) hayan dejado la pista libre (véase Fig.4-35F).
+d) se ha notificado a los pilotos la posición del tránsito esencial en la misma pista;
 
-b) Aeronaves que usan pistas que se cruzan:
+e) la pendiente de la pista no impide que la aeronave precedente en la secuencia de salida quede fuera de la vista de la aeronave subsiguiente en la misma pista;
 
-i) hasta que la aeronave que la preceda en el orden de salida haya cruzado la intersección de ambas pistas (B) o esté en el aire y haya iniciado un viraje (C) para evitar cualquier conflicto (véase Fig. 4-35 G); y
+f) se requiere que el piloto colacione las instrucciones de entrar a la pista y mantener posición indicando el designador de la pista, el nombre de la intersección (si corresponde) y el número en la secuencia de salida; y
 
-ii) hasta que la aeronave precedente en aterrizaje haya dejado ambas pistas libres (B), haya cruzado la intersección de ambas pistas (C) o haya completado la carrera de aterrizaje y se mantendrá fuera de la intersección de ambas pistas (D) (véase Fig. 4-35H).
+g) se aplica separación por estela turbulenta.
 
-|  |  |
-| --- | --- |
-|  |  |
+4.5.10 Control de las aeronaves que llegan.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image64.png)
+4.5.10.1 Separación entre aeronaves que utilizan la misma pista
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image65.png)
+4.5.10.1.1 Salvo lo especificado en 4.5.11. y 4.5.15., no se permitirá, en general, cruzar el umbral de la pista, en su aproximación final, a ninguna aeronave que vaya a aterrizar hasta que la aeronave precedente en despegue haya cruzado el extremo de la pista en uso (B), o haya iniciado un viraje (C) o hasta que todas las aeronaves que acaben de aterrizar (D) hayan dejado la pista libre (véase fig. 4-35 A).
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image66.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/156/11268_13011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image67.png)
+Fig. 4-35 A
 
-4.5.15.1.1.1. Reducción de la separación entre aeronaves.
+Figura 4.35 A: Posiciones límite de una aeronave que ha aterrizado (D) o de aeronaves que salen (B o C), antes de que una aeronave que aterriza (A) pueda cruzar el umbral de la pista, a menos que la autoridad ATS competente prescriba otra cosa de conformidad con 4.5.11 y 4.5.15.
 
-4.5.15.1.1.1.1. Cuando así lo prescriba la autoridad ATS competente, previa consulta con los explotadores, toda aeronave que llega estará separada de toda aeronave que utilice la misma pista, de modo que la aeronave que llega no cruce el umbral de aterrizaje hasta que se dé una de las condiciones siguientes:
+4.5.10.1.1.1 Puede concederse la autorización de aterrizar a una aeronave si se tiene un grado razonable de seguridad de que la separación que figura en 4.5.10.1.1., o la que se prescriba de acuerdo con 4.5.11., existirá cuando la aeronave cruce el umbral de la pista, con tal de que la autorización de aterrizar, no se conceda hasta que la aeronave precedente en la secuencia de aterrizaje haya cruzado dicho umbral. Para que disminuya la posibilidad de un malentendido, en la autorización de aterrizaje se incluirá el designador de la pista de aterrizaje.
 
-a) que la otra aeronave haya aterrizado y que desde el umbral de aterrizaje se de alguna de las distancias mínimas siguientes:
+4.5.10.2 Separación entre aeronaves que utilizan pistas que se cruzan.
 
-i) 3.000 ft (900 m) cuando una aeronave de categoría I aterrice detrás de otra de categoría I o II (véase Fig.4-24A);
+4.5.10.2.1 Sin perjuicio de lo especificado en el apartado 4.5.15., no se permitirá en general cruzar el umbral de la pista, en su aproximación final, a ninguna aeronave que vaya a aterrizar:
 
-ii) 4.500 ft (1.350 m) cuando una aeronave de categoría II aterrice detrás de otra de categoría I o II (véase Fig 4-24B);
+1.º Hasta que la aeronave precedente que sale:
 
-|  |  |
-| --- | --- |
+a) haya cruzado la intersección de ambas pistas (B); o
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image68.png)
+b) esté en el aire y haya iniciado un viraje divergente para evitar cualquier conflicto (C); o
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image69.png)
+2.º Hasta que la aeronave precedente que aterriza:
 
-b) que la otra aeronave esté en el aire y que desde el umbral de aterrizaje se dé alguna de las distancias mínimas siguientes:
+a) haya dejado ambas pistas libres (B); o
 
-i) 3.000 ft (900 m) cuando una aeronave de categoría I aterrice detrás de otra de categoría I o II (véase Fig. 4-24C);
+b) haya cruzado completamente la intersección de ambas pistas (C); o
 
-ii) 4.500 ft (1.350 m) cuando una aeronave de categoría II aterrice detrás de otra de categoría I o II (véase Fig. 4-24C);
+c) haya completado el recorrido de aterrizaje y detenido fuera de la zona protegida de la pista intersecante (D).
 
-iii) 6.000 ft (1.800 m) cuando una de las aeronaves sea de categoría III (véase Fig. 4-24C).
+(Véase figuras 4-35B y 4-35C);
 
-Las distancias serán determinadas por el controlador con relación a puntos adecuados de referencia sobre el terreno.
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/156/11268_13064.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image70.png)
+Fig. 4-35 B
 
-4.5.15.1.1.1.2. Las mínimas reducidas prescritas en 4.5.15.1.1.1.1. no se aplicarán:
+Figura 4-35 B: Posiciones límite de aeronaves que salen (B) (C), antes de que una aeronave que llega (A) pueda cruzar el umbral de la pista, a menos que la autoridad ATS competente prescriba otra cosa de conformidad con 4.5.15.
 
-a) Entre la puesta y la salida del sol, o en cualquier otro periodo que pudiera prescribirse entre la puesta y la salida del sol;
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/156/11268_13127.png)
 
-b) Cuando la eficacia de frenado pueda estar adversamente afectada por la existencia de residuos de precipitación en la pista (nieve fundente, agua, etc);
+Fig. 4-35 C
 
-c) En condiciones meteorológicas que impidan al piloto la pronta evaluación de las condiciones del tránsito en la pista.
+Figura 4-35 C: Posiciones límite de las aeronaves que hayan aterrizado (B) (C) (D) antes de que una aeronave que llega (A) pueda cruzar el umbral de la pista a menos que la autoridad ATS competente prescriba otra cosa de conformidad con 4.5.15.
 
-4.5.15.1.1.1.3. A los efectos de las separaciones prescritas en 4.5.15.1.1.1.1, las aeronaves se clasifican en las categorías siguientes:
+4.5.10.2.1.1 Puede concederse la autorización de aterrizar a una aeronave si se tiene un grado razonable de seguridad de que la separación que figura en 4.5.10.2.1, existirá cuando la aeronave cruce el umbral de la pista, con tal de que, en caso de aterrizajes sucesivos, la autorización de aterrizaje no se conceda hasta que la aeronave precedente en la secuencia de aterrizaje haya aterrizado.
 
-i) Categoría I-Aeronaves ligeras (5.670 kg/12.500 lbs o menos), monomotoras y propulsadas por hélice;
+4.5.10.2.2 Cuando una aeronave que se aproxima para aterrizar notifique sobre una posición en la que debiera estar a la vista de la torre de control de aeródromo y no esté a la vista de ésta, podrá ser no obstante autorizada para aterrizar. En tales circunstancias, a menos que mediante el empleo de un sistema de vigilancia ATS se supervise la posición de la aeronave, en la autorización para aterrizar se informará a la aeronave de que no está a la vista.
 
-ii) Categoría II-Aeronaves ligeras (5.670 kg/12.500 lbs o menos), bimotoras y propulsadas por hélice;
+4.5.10.3 Maniobras de aterrizaje y recorrido en tierra.
 
-iii) Categoría III-Todas las demás aeronaves.
+4.5.10.3.1 A reserva de lo previsto en 4.5.10.3.1.1. cuando sea operacionalmente necesario o conveniente para acelerar el tránsito, puede pedirse a la aeronave que aterrice que:
 
-4.5.15.2. Puede concederse la autorización de aterrizar a una aeronave si se tiene un grado razonable de seguridad de que la separación que figura en 4.5.15.1.1., o la que se prescriba de acuerdo con 4.5.15.1.1.1., existirá cuando la aeronave cruce el umbral de la pista, con tal de que, en el caso de aterrizajes sucesivos, la autorización de aterrizar no se conceda hasta que la aeronave precedente en la secuencia de aterrizaje haya cruzado el umbral de la pista.
+a) espere fuera de una pista intersecante después del aterrizaje;
 
-4.5.15.3. Cuando una aeronave que se aproxima para aterrizar notifique sobre una posición en la que debiera estar a la vista de la torre de control de aeródromo y no esté a la vista de ésta, podrá ser no obstante autorizada para aterrizar.
+b) aterrice más allá de la zona de toma de contacto con la pista;
 
-En tales circunstancias, en la autorización para aterrizar se incluirá información de que la aeronave no está a la vista.
+c) abandone la pista en una calle de rodaje de salida especificada;
 
-4.5.16. Clasificación de las aeronaves por categorías de estela turbulenta y aumento de las mínimas de separación longitudinal.
+d) acelere la maniobra de abandonar la pista.
+
+4.5.10.3.1.1 Al pedirse a una aeronave que ejecute determinada maniobra de aterrizaje o de recorrido en tierra, se tendrán en cuenta el tipo de aeronave, la longitud de la pista, el emplazamiento de las calles de rodaje de salida, la eficacia de frenado notificada sobre la pista y sobre calles de rodaje y las condiciones meteorológicas reinantes. No se pedirá a una aeronave PESADA que aterrice más allá de la zona de toma de contacto de una pista.
+
+Nota.–Véase 10.5.2.1.6.3.1.1.
+
+4.5.10.3.1.2 Si el piloto al mando considera que no puede cumplir con la operación solicitada lo notificará consiguientemente sin demora al controlador.
+
+4.5.10.3.2 Cuando sea necesario o conveniente, por ejemplo debido a malas condiciones de visibilidad, pueden darse instrucciones a una aeronave que aterrice o que esté en rodaje de que notifique el momento en que ha abandonado la pista. El informe de que se ha dejado la pista libre se transmitirá cuando la aeronave esté más allá del punto de espera de la pista pertinente.
+
+4.5.11 Mínimas de separación reducidas entre aeronaves que utilizan la misma pista.
+
+4.5.11.1 A condición de que una evaluación adecuada y documentada de la seguridad haya demostrado que puede alcanzarse un nivel aceptable de seguridad, la autoridad ATS competente puede prescribir mínimas inferiores a las que se mencionan en las secciones 4.5.9. y 4.5.10, previa consulta con los explotadores. Se realizará una evaluación de la seguridad de cada una de las pistas en las que se prevea aplicar las mínimas reducidas, teniendo en cuenta factores tales como los siguientes:
+
+a) longitud de la pista;
+
+b) configuración del aeródromo; y
+
+c) tipos/categorías de aeronaves de que se trate.
+
+4.5.11.2 Todos los procedimientos pertinentes relativos a la aplicación de mínimas de separación reducidas en la pista se publicarán en la Publicación de información aeronáutica y en las instrucciones locales de control de tránsito aéreo. Los controladores recibirán una capacitación apropiada y suficiente en el uso de esos procedimientos.
+
+4.5.11.3 Sólo se aplicarán las mínimas de separación reducidas en la pista durante el día, a partir de los 30 minutos después de la salida del sol hasta 30 minutos antes de la puesta de sol.
+
+4.5.11.4 En lo que respecta a la separación reducida en la pista, las aeronaves se clasificarán de la manera siguiente:
+
+a) Aeronave de categoría 1: avión monomotor propulsado por hélice con una masa máxima certificada de despegue de hasta 2.000 kg.
+
+b) Aeronave de categoría 2: avión monomotor propulsado por hélice con una masa máxima certificada de despegue de entre 2.000 y 7.000 kg; y avión turbohélice con una masa máxima certificada de despegue de menos de 7.000 kg.
+
+c) Aeronave de categoría 3: todas las demás aeronaves.
+
+4.5.11.5 Las mínimas de separación reducidas en la pista no se aplicarán entre una aeronave que sale y una aeronave precedente que aterriza.
+
+4.5.11.6 Las mínimas de separación reducidas en la pista estarán sujetas a las condiciones siguientes:
+
+a) se aplicarán las mínimas de separación por estela turbulenta;
+
+b) la visibilidad deberá ser de 5 km como mínimo y el techo de nubes no podrá ser inferior a 300 m (1.000 ft);
+
+c) la componente de viento en cola no excederá de 5 kt;
+
+d) se contará con medios, tales como puntos de referencia adecuados, para ayudar al controlador a evaluar las distancias entre aeronaves. Se podrá utilizar un sistema de vigilancia de superficie que proporcione al controlador de tránsito aéreo la información relativa a la posición de la aeronave, con la condición de que el uso de ese equipo para las operaciones incluya previamente una evaluación de la seguridad, con el propósito de garantizar que se cumpla con todos los requisitos operacionales y de «performance»;
+
+e) continuará existiendo una separación mínima entre dos aeronaves que salgan inmediatamente después del despegue de la segunda aeronave;
+
+f) se proporcionará información sobre el tránsito a la tripulación de vuelo de la aeronave sucesiva pertinente; y
+
+g) la eficacia de frenado no resultará afectada negativamente por contaminantes de la pista, tales como hielo, nieve fundente, nieve y agua.
+
+4.5.11.7 Las mínimas de separación reducidas en la pista que puedan aplicarse en un aeródromo se determinarán para cada pista por separado. La separación que se aplique en ningún caso será inferior a las mínimas siguientes:
+
+a) Aeronave que aterriza:
+
+1.º Una aeronave de categoría 1 que siga a otra en el aterrizaje podrá cruzar el umbral de la pista cuando la aeronave precedente sea de categoría 1 ó 2 y que:
+
+i. haya aterrizado y haya pasado por un punto ubicado a 600 m del umbral de la pista, como mínimo, se encuentre en movimiento y vaya a abandonar la pista sin dar marcha atrás; o bien que
+
+ii. se encuentre en el aire y haya pasado por un punto ubicado a 600 m del umbral de la pista, como mínimo;
+
+2.º Una aeronave de categoría 2 que siga a otra en el aterrizaje podrá cruzar el umbral de la pista cuando la aeronave precedente sea de categoría 1 ó 2 y que:
+
+i. haya aterrizado y haya pasado por un punto ubicado a 1.500 m del umbral de la pista, como mínimo, se encuentre en movimiento y vaya a abandonar la pista sin dar marcha atrás; o bien que
+
+ii. se encuentre en el aire y haya pasado por un punto ubicado a 1.500 m del umbral de la pista, como mínimo;
+
+3.º Una aeronave que siga a otra en el aterrizaje podrá cruzar el umbral de la pista cuando una aeronave precedente de categoría 3:
+
+i. haya aterrizado y haya pasado por un punto ubicado a 2.400 m del umbral de la pista, como mínimo, se encuentre en movimiento y vaya a abandonar la pista sin dar marcha atrás; o bien que
+
+ii. se encuentre en el aire y haya pasado por un punto ubicado a 2.400 m del umbral de la pista, como mínimo;
+
+b) Aeronave que sale:
+
+1.º Se podrá autorizar el despegue de una aeronave de categoría 1 cuando la aeronave que la preceda en la salida sea de categoría 1 ó 2, se encuentre en el aire y haya pasado por un punto ubicado a 600 m de la posición de la aeronave que le sigue, como mínimo;
+
+2.º Se podrá autorizar el despegue de una aeronave de categoría 2 cuando la aeronave que la preceda en la salida sea de categoría 1 ó 2, se encuentre en el aire y haya pasado por un punto ubicado a 1.500 m de la posición de la aeronave que le sigue, como mínimo; y
+
+3.º Se podrá autorizar el despegue de una aeronave cuando la aeronave que la preceda en la salida sea de categoría 3, se encuentre en el aire y haya pasado por un punto ubicado a 2.400 m de la posición de la aeronave que le sigue, como mínimo.
+
+4.5.11.7.1 Deberá considerarse la posibilidad de que exista una separación mayor entre aviones monomotores propulsados por hélice de alta «performance» y las aeronaves de categoría 1 ó 2 que las preceden.
+
+4.5.12 Procedimientos para operaciones en condiciones de baja visibilidad.
+
+4.5.12.1 Control del tránsito en la superficie del aeródromo en condiciones de baja visibilidad.
+
+4.5.12.1.1 Antes de un período en el que se sigan procedimientos de baja visibilidad, la torre de control de aeródromo llevará un registro de los vehículos y personal que se encuentren en el área de maniobras y mantendrá este registro durante el período en el que se sigan dichos procedimientos con el propósito de colaborar en el aspecto seguridad de las operaciones realizadas en dicha área
+
+4.5.12.1.2 Cuando el tráfico deba realizar operaciones en el área de maniobras en condiciones de visibilidad que exijan que el control de aeródromo aplique la separación entre aeronaves por medios no visuales y entre aeronaves y vehículos, se aplicará lo siguiente:
+
+4.5.12.1.2.1 En la intersección de las calles de rodaje, no se permitirá que ninguna aeronave o vehículo situado en una calle de rodaje se mantenga más cerca de la otra calle de rodaje, que lo indicado por el límite de la posición de espera determinado por una barra de cruce, barra de parada o señal de intersección de calle de rodaje, de conformidad con las especificaciones establecidas (1).
+
+(1) Las autoridades del aeropuerto tendrán en cuenta lo dispuesto sobre el particular por OACI.
+
+4.5.12.1.2.2 La separación longitudinal en las calles de rodaje será la especificada para cada aeródromo por la autoridad ATS competente. Esta separación tendrá en cuenta las características de las ayudas disponibles para la vigilancia y control de tránsito en tierra, la complejidad del trazado del aeródromo y las características de las aeronaves que lo utilicen (1).
+
+(1) El movimiento de aeronaves en estas condiciones de mala visibilidad presupone instalaciones apropiadas para la operación. Las autoridades del aeropuerto y la autoridad ATS competente tendrán en cuenta las directrices de OACI sobre los elementos y procedimientos de guía y control del movimiento en la superficie para operaciones con escasa visibilidad..
+
+4.5.12.2 Procedimientos para controlar el tránsito de aeródromo cuando están en vigor aproximaciones de categoría II/III.
+
+4.5.12.2.1 La autoridad ATS competente establecerá disposiciones aplicables al inicio y continuación de operaciones de aproximaciones de precisión de categoría II/III así como a operaciones de salida en condiciones de RVR inferior a un valor de 550 m.
+
+4.5.12.2.2 Se iniciarán las operaciones en baja visibilidad directamente por la torre de control de aeródromo, o a través de ésta.
+
+4.5.12.2.3 La torre de control de aeródromo informará a la dependencia de control de aproximación correspondiente cuando se apliquen procedimientos para operaciones de aproximación de precisión de categoría II/III y para operaciones en baja visibilidad y también cuando ya no estén en vigor tales procedimientos.
+
+4.5.12.2.4 En las disposiciones de 4.5.12.2.1, relativas a operaciones en baja visibilidad deberán especificarse:
+
+a) Los valores RVR a los cuales se aplicarán los procedimientos de operaciones en baja visibilidad.
+
+b) Los requisitos de equipo mínimo ILS/MLS para operaciones de categoría II/III.
+
+c) Otras instalaciones y ayudas requeridas para operaciones de categoría II/III, incluidas las luces aeronáuticas de superficie cuyo funcionamiento normal será supervisado.
+
+d) Los criterios y las circunstancias en virtud de los cuales se reducirá la categoría del equipo ILS/MLS desde funciones para operaciones de categoría II/III.
+
+e) El requisito de notificar cualquier fallo y deterioro del equipo pertinente sin demora, a las tripulaciones de vuelo de que se trate, a la dependencia de control de aproximación y a cualquier otra organización adecuada.
+
+f) Procedimientos especiales para el control del tránsito en el área de maniobras, incluido lo siguiente:
+
+1.º los puntos de espera de la pista que hayan de utilizarse;
+
+2.º la distancia mínima entre una aeronave que llega y una aeronave que sale para asegurar la protección de las áreas sensibles y críticas;
+
+3.º procedimientos para verificar si una aeronave y vehículos han abandonado la pista;
+
+4.º procedimientos aplicables a la separación entre aeronaves y vehículos;
+
+g) Separación aplicable entre sucesivas aeronaves en aproximación.
+
+h) Medidas a adoptar en el caso de que sea necesario interrumpir las operaciones en baja visibilidad (Ej. debido a falla de equipos); y
+
+i) Cualesquiera otros procedimientos o requisitos pertinentes.
+
+4.5.13 Suspensión por las torres de control de aeródromo, de las operaciones que se realizan de acuerdo con las reglas de vuelo visual.
+
+4.5.13.1 Cuando la seguridad lo exija, cualquiera de las siguientes dependencias, personas o autoridades, podrá suspender una o todas las operaciones que se efectúen de acuerdo con las reglas de vuelo visual sobre un aeródromo o en sus proximidades:
+
+a) la dependencia de control de aproximación o el ACC apropiado;
+
+b) la torre de control de aeródromo;
+
+c) la autoridad ATS competente.
+
+4.5.13.2 La suspensión de las operaciones VFR, se hará por mediación de la torre de control de aeródromo o notificando a ésta.
+
+4.5.13.3 La torre de control de aeródromo observará los siguientes procedimientos siempre que se suspendan las operaciones VFR:
+
+a) suspenderá todas las salidas VFR;
+
+b) suspenderá todos los vuelos locales VFR u obtendrá aprobación para operaciones VFR especiales;
+
+c) notificará las medidas tomadas a la dependencia de control de aproximación o al ACC, según corresponda;
+
+d) notificará a todos los explotadores o a sus representantes designados, si es necesario o se solicita, las razones que han obligado a tomar tales medidas.
+
+4.5.14 Autorización de vuelos VFR especiales.
+
+4.5.14.1 Cuando las condiciones del tránsito lo permitan, podrán autorizarse vuelos VFR especiales a reserva de la aprobación de la dependencia que suministra servicio de control de aproximación y de lo dispuesto en 4.5.14.4 y 4.5.14.4.1.
+
+4.5.14.2 Las solicitudes para tales autorizaciones se tramitarán separadamente.
+
+4.5.14.3 Se mantendrá la separación entre todos los vuelos IFR y vuelos VFR especiales de conformidad con las mínimas de separación estipuladas en los capítulos 3 y 4 y, cuando así lo prescriba la autoridad ATS competente, entre todos los vuelos VFR especiales de conformidad con las mínimas de separación prescritas por dicha autoridad.
+
+4.5.14.4 Cuando la visibilidad en tierra no sea inferior a 1.500 metros podrá autorizarse a los vuelos VFR especiales a que entren en una zona de control para aterrizar, despegar o salir desde una zona de control o a que crucen la zona de control. Dentro del espacio aéreo de Clase E, pueden realizarse vuelos VFR especiales vayan equipadas o no las aeronaves con un radiorreceptor que funcione.
+
+4.5.14.4.1 Podrá autorizarse a los vuelos VFR especiales a que operen localmente dentro de una zona de control, cuando la visibilidad en tierra no sea inferior a 1.500 metros, siempre que:
+
+a) la aeronave esté equipada con un radiorreceptor que funcione y el piloto haya convenido en mantenerse a la escucha en la frecuencia correspondiente; o
+
+b) dentro del espacio aéreo Clase E, si la aeronave no está equipada con un radiorreceptor, se hayan hecho los arreglos oportunos para la terminación del vuelo.
+
+4.5.15 Clasificación de las aeronaves por categoría de estela turbulenta y mínimas de separación longitudinal, en función del tiempo, por razón de estela turbulenta.
 
 La expresión «estela turbulenta» se utiliza en este contexto para describir el efecto de las masas de aire en rotación que se generan detrás de los extremos de las alas de las grandes aeronaves de reacción, con preferencia a la expresión «vórtice de estela», que describe la naturaleza de las masas de aire.
 
-4.5.16.1. Clasificación de las aeronaves por categorías de estela turbulenta.
+4.5.15.1 Clasificación de las aeronaves por categoría de estela turbulenta.
 
-4.5.16.1.1. Las mínimas de separación por estela turbulenta se basarán en la clasificación de tipos de aeronaves en las tres categorías siguientes, según su masa máxima certificada de despegue:
+4.5.15.1.1 Las mínimas de separación por estela turbulenta se basarán en la clasificación de tipos de aeronaves en las tres categorías siguientes, según su masa máxima certificada de despegue:
 
-a) PESADA (H): todos los tipos de aeronaves de 136.000 kg. o más;
+a) PESADA (H) - todos los tipos de aeronaves de 136.000 kg o más;
 
-b) MEDIA (M): los tipos de aeronave de peso inferior a 136.000 kg y de más de 7.000 kg; y
+b) MEDIA (M) - los tipos de aeronave de peso inferior a 136.000 kg y de más de 7.000 kg; y
 
-c) LIGERA (L): los tipos de aeronaves de 7.000 kg o menos.
+c) LIGERA (L) - los tipos de aeronaves de 7.000 kg o menos.
 
-Nota: La autoridad ATS competente incluirá en la AIP información sobre la categoría de aeronaves por estela turbulenta que no se corresponda con la de su masa máxima certificada de despegue. Los controladores tendrán en cuenta dicha categoría para la aplicación de separación y la insertarán en la ficha de progresión de vuelo y en la etiqueta radar, a menos que ya se haya hecho automáticamente.
+Nota.–La autoridad ATS competente incluirá en la AIP información sobre la categoría de aeronaves por estela turbulenta que no se corresponda con la de su masa máxima certificada de despegue. Los controladores tendrán en cuenta dicha categoría para la aplicación de separación y la insertarán en la ficha de progresión de vuelo y en la etiqueta radar, a menos que ya se haya hecho automáticamente.
 
-4.5.16.1.2. Los helicópteros deberán mantenerse bastante distanciados de las aeronaves ligeras cuando se encuentren en vuelo estacionario o en rodaje aéreo.
+4.5.15.1.2 Los helicópteros deberán mantenerse bastante distanciados de las aeronaves ligeras cuando se encuentren en vuelo estacionario o en rodaje aéreo. Los helicópteros producen vórtices mientras vuelan y existen algunas pruebas que demuestran que, por kilogramo de masa bruta, sus vórtices son más intensos que los de las aeronaves de alas fijas.
 
-Los helicópteros producen vórtices mientras vuelan y existen algunas pruebas que demuestran que, por kilogramo de masa bruta, sus vórtices son más intensos que los de las aeronaves de alas fijas.
-
-4.5.16.2. Mínimas de separación por estela turbulenta.
+4.5.15.2 Mínimas de separación por estela turbulenta basadas en tiempo.
 
 Las disposiciones que rigen las mínimas de separación radar por estela turbulenta figuran en la sección 4.6.7.
 
-4.5.16.2.1. Se aplicarán las siguientes mínimas de separación no radar.
+4.5.15.2.1 Aplicación.
 
-4.5.16.2.2. Aeronaves que llegan.
+No se requerirá de la dependencia ATC en cuestión que aplique la separación por estela turbulenta:
 
-4.5.16.2.2.1. Para las aproximaciones cronometradas, deberán aplicarse las mínimas siguientes a las aeronaves que aterricen detrás de una aeronave PESADA (1) o MEDIA:
+a) para vuelos VFR que aterricen en la misma pista que una aeronave precedente PESADA o MEDIA; y
 
-a) aeronave MEDIA o PESADA detrás de una aeronave PESADA (1)-2 minutos
+b) entre vuelos IFR que lleguen en aproximación visual cuando la aeronave haya notificado que tiene a la vista la aeronave precedente y que ha recibido instrucciones para que siga y mantenga su propia separación de esa aeronave.
 
-b) aeronave LIGERA detrás de una aeronave PESADA (1) ó MEDIA-3 minutos
+La dependencia ATC expedirá respecto a los vuelos especificados en a) y b), así como cuando por otros motivos se juzgue necesario, un aviso de precaución por estela turbulenta posible. El piloto al mando de la aeronave en cuestión tendrá la responsabilidad de asegurarse de que es aceptable la separación de una aeronave precedente que sea de una categoría más pesada de estela turbulenta. Si se determina que se requiere una separación adicional, la tripulación de vuelo lo notificará consiguientemente a la dependencia ATC, manifestando sus requisitos.
 
-4.5.16.2.3 Aeronaves que salen.
+4.5.15.2.2 Aeronaves que llegan.
 
-4.5.16.2.3.1 Salvo lo previsto en 4.5.16.2.3.2., deberá aplicarse un mínimo de DOS MINUTOS entre una aeronave LIGERA o MEDIA o PESADA que despegue detrás de una aeronave PESADA (1) o entre una aeronave LIGERA que despegue detrás de una aeronave MEDIA cuando las aeronaves utilicen:
+Salvo lo previsto en el punto 4.5.15.2.1, a) y b), se aplicarán las siguientes mínimas de separación por estela turbulenta:
+
+4.5.15.2.2.1 Deberán aplicarse las mínimas siguientes a las aeronaves que aterricen detrás de una aeronave PESADA o MEDIA:
+
+a) aeronave MEDIA detrás de una aeronave PESADA-2 minutos.
+
+b) aeronave LIGERA detrás de una aeronave PESADA o MEDIA-3 minutos.
+
+4.5.15.2.3 Aeronaves que salen.
+
+4.5.15.2.3.1 Se aplicará una separación mínima de dos minutos entre una aeronave LIGERA, MEDIA o PESADA que despegue detrás de una aeronave PESADA o entre una aeronave LIGERA que despegue detrás de una aeronave MEDIA, cuando las aeronaves utilicen:
 
 a) la misma pista;
 
 b) pistas paralelas separadas menos de 760 m;
 
-c) pistas que se cruzan, si la trayectoria de vuelo prevista de la segunda aeronave se cruzará con la trayectoria de vuelo prevista de la primera aeronave a la misma altitud o a menos de 300 m (1.000 ft) por detrás;
+c) pistas que se cruzan, si la trayectoria de vuelo prevista de la segunda aeronave se cruzará con la trayectoria de vuelo prevista de la primera aeronave a la misma altitud o a menos de 300 m (1.000 ft) por debajo;
 
-d) pistas paralelas separadas 760 m o más, si la trayectoria de vuelo prevista de la segunda aeronave se cruzará con la trayectoria de vuelo prevista de la primera aeronave a la misma altitud o a menos de 300 m (1.000 ft) por debajo.
+d) pistas paralelas separadas 760 m o más, si la trayectoria de vuelo prevista de la segunda aeronave se cruzará con la trayectoria de vuelo prevista de la primera aeronave a la misma altitud o a menos de 300 m (1.000 ft) por debajo (Véase fig. 4-36A y 4-36B).
 
-(Véase Fig. 4-36A y Fig. 4-36B).
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/156/11268_13178.png)
 
-|  |  |
-| --- | --- |
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image71.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image72.png)
-
-4.5.16.2.3.2 Se aplicará una mínima separación de TRES MINUTOS entre una aeronave LIGERA o MEDIA o PESADA cuando despegue detrás de una aeronave PESADA (1), o entre una aeronave LIGERA cuando despegue detrás de una aeronave MEDIA, desde:
+4.5.15.2.3.2 Se aplicará una mínima separación de tres minutos entre una aeronave LIGERA, MEDIA o PESADA cuando despeguen detrás de una aeronave PESADA, o entre una aeronave LIGERA cuando despegue detrás de una aeronave MEDIA, desde:
 
 a) una parte intermedia de la misma pista; y
 
-b) una parte intermedia de una pista paralela separada menos de 760 m (véase Fig. 4-37).
+b) una parte intermedia de una pista paralela separada menos de 760 m.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image73.png)
+(Véase fig. 4-37)
 
-4.5.16.2.4 Umbral de aterrizaje desplazado.
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/156/11268_13228.png)
 
-4.5.16.2.4.1 Se aplicará una mínima separación de DOS MINUTOS entre una aeronave LIGERA o MEDIA o PESADA y una aeronave PESADA (1), y entre una aeronave LIGERA y una aeronave MEDIA, en caso de que operen en una pista con umbral de aterrizaje desplazado, cuando:
+4.5.15.2.4 Umbral de aterrizaje desplazado.
 
-a) la salida de una aeronave LIGERA o MEDIA siga a la llegada de una aeronave PESADA (1), y la salida de una aeronave LIGERA siga a la llegada de una aeronave MEDIA: o
+4.5.15.2.4.1 Se aplicará una mínima separación de dos minutos entre una aeronave LIGERA o MEDIA y una aeronave PESADA, y entre una aeronave LIGERA y una aeronave MEDIA, en caso de que operen en una pista con umbral de aterrizaje desplazado, cuando:
 
-b) la llegada de una aeronave LIGERA o MEDIA siga a la salida de una aeronave PESADA (1) y la llegada de una aeronave LIGERA siga a la salida de una aeronave MEDIA, si se espera que las trayectorias de vuelo previstas se crucen.
+a) la salida de una aeronave LIGERA o MEDIA siga a la llegada de una aeronave PESADA, y la salida de una aeronave LIGERA siga a la llegada de una aeronave MEDIA; o
 
-4.5.16.2.5 Sentidos opuestos.
+b) la llegada de una aeronave LIGERA o MEDIA siga a la salida de una aeronave PESADA y la llegada de una aeronave LIGERA siga a la salida de una aeronave MEDIA, si se espera que las trayectorias de vuelo previstas se crucen.
 
-4.5.16.2.5.1 Se aplicará una mínima separación de DOS MINUTOS entre una aeronave LIGERA o MEDIA o PESADA y una aeronave PESADA (1), o entre una aeronave LIGERA y una aeronave MEDIA cuando la más pesada efectúe una aproximación baja o frustrada, y la más ligera:
+4.5.15.2.5 Sentidos opuestos.
 
-a) utilice para el despegue una pista en sentido opuesto; o (véase Fig. 4-38A)
+4.5.15.2.5.1 Se aplicará una mínima separación de dos minutos entre una aeronave LIGERA, MEDIA o PESADA y una aeronave PESADA, o entre una aeronave LIGERA y una aeronave MEDIA cuando la más pesada efectúe una aproximación baja o frustrada, y la más ligera:
 
-b) aterrice en la misma pista en sentido opuesto o en una pista paralela de sentido opuesto separada menos de 760 m (Véase Fig. 4-38B).
+a) utilice para el despegue una pista en sentido opuesto; o (véase fig. 4-38A).
 
-|  |  |
-| --- | --- |
+b) aterrice en la misma pista en sentido opuesto o en una pista paralela de sentido opuesto separada menos de 760 m (véase fig. 4-38B).
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image74.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/156/11268_13319.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image75.png)
+4.5.16 Luces aeronáuticas de superficie.
 
-4.5.17. Autorización de vuelos VFR especiales.
+4.5.16.1 Utilización.
 
-4.5.17.1. Cuando las condiciones del tránsito lo permitan, podrán autorizarse vuelos VFR especiales a reserva de la aprobación de la dependencia que suministra servicio de control de aproximación y de las disposiciones de 4.5.17.2. y 4.5.17.3. que figuran a continuación.
+Los procedimientos de este apartado 4.5.16 tienen aplicación en todos los aeródromos, se proporcione o no servicio de control de aeródromo.
 
-4.5.17.1.1. Las solicitudes para tales autorizaciones se tramitarán separadamente.
+Además, los procedimientos contenidos en 4.5.16.2.1 se aplican a todas las luces aeronáuticas de superficie, estén o no en el aeródromo o en sus proximidades (véase capítulo 2, apartado 4.2.2.3).
 
-4.5.17.1.2. Se mantendrá la separación entre todos los vuelos IFR y vuelos VFR especiales de conformidad con las mínimas de separación estipuladas en los Capítulos 3 y 4 y, cuando así lo prescriba la autoridad ATS competente, entre todos los vuelos VFR especiales de conformidad con las mínimas de separación prescritas por dicha autoridad.
+4.5.16.2 Generalidades.
 
-4.5.17.2. Cuando la visibilidad en tierra no sea inferior a 1.500 metros podrá autorizarse a los vuelos VFR especiales a que entren en una zona de control para aterrizar o despegar y a que salgan directamente desde una zona de control. Dentro del espacio aéreo de Clase E, pueden realizarse vuelos VFR especiales vayan equipadas o no las aeronaves con un radiorreceptor que funcione.
+4.5.16.2.1 Salvo lo dispuesto en 4.5.16.2.2 y 4.5.16.3 todas las luces aeronáuticas de superficie funcionarán:
 
-4.5.17.3. Podrá autorizarse a los vuelos VFR especiales a que operen localmente dentro de una zona de control, cuando la visibilidad en tierra no sea inferior a 1.500 metros, siempre que:
+a) continuamente durante las horas de oscuridad o durante el período en que el centro del disco solar esté a más de 6 grados por debajo del horizonte, eligiéndose el más prolongado de estos dos periodos, a menos que se especifique de otro modo, o lo exija el control de tránsito aéreo;
 
-a) la aeronave esté equipada con un radiorreceptor que funcione y el piloto haya convenido en mantenerse a la escucha en la frecuencia correspondiente; o
+b) a cualquier otra hora cuando por las condiciones meteorológicas, se considere conveniente para la seguridad del tránsito aéreo.
 
-b) dentro del espacio aéreo Clase E, si la aeronave no está equipada con un radiorreceptor, se hayan hecho los arreglos oportunos para la terminación del vuelo.
+4.5.16.2.2 Las luces instaladas en los aeródromos y en sus alrededores que no vayan a usarse para fines de navegación en ruta podrán apagarse, a reserva de las disposiciones que se dan a continuación, si no hay probabilidad de que se efectúen operaciones regulares o de emergencia, con tal de que puedan encenderse de nuevo por lo menos una hora antes de la llegada prevista de una aeronave.
+
+4.5.16.2.3 En aeródromos equipados con luces de intensidad variable, se proporcionará una tabla de reglajes de intensidad, basados en condiciones de visibilidades y de luz ambiental, para que sirva de guía a los controladores de tránsito aéreo en el ajuste de estas luces a las condiciones reinantes. Cuando lo soliciten las aeronaves, y siempre que sea posible, podrá hacerse un nuevo ajuste de la intensidad.
+
+4.5.16.3. Luces de aproximación.
+
+Entre las luces de aproximación están comprendidas las de los sistemas de iluminación sencilla de aproximación, las de los sistemas de iluminación de aproximación de precisión, las de los sistemas visuales indicadores de pendiente de aproximación, las de guía durante el vuelo en circuito, los faros luminosos de aproximación y los indicadores de alineación de pista.
+
+4.5.16.3.1 Además de lo prescrito en 4.5.16.2.1, las luces de aproximación se encenderán también:
+
+a) de día, cuando lo solicite una aeronave que se aproxima;
+
+b) cuando esté funcionando la iluminación correspondiente de pista.
+
+4.5.16.3.2 Las luces del sistema visual indicador de pendiente de aproximación se encenderán tanto durante el día como durante las horas de oscuridad, independientemente de las condiciones de visibilidad, cuando esté usándose la pista correspondiente.
+
+4.5.16.4 Luces de pista.
+
+Entre las luces de pista están comprendidas las de borde de pista, de eje de pista, de extremo de pista, de zona de toma de contacto y de barra de ala.
+
+4.5.16.4.1 No se encenderán las luces de pista si dicha pista no se usa para fines de aterrizaje, despegue o rodaje; salvo si fuera necesario para la inspección o mantenimiento de la pista.
+
+4.5.16.4.2 Si las luces de pista no funcionan continuamente, se proporcionarán después de un despegue según se especifica a continuación:
+
+a) en los aeródromos en que se suministre servicio de control de tránsito aéreo y en los que el control de las luces sea central, las luces de pista permanecerán encendidas después de un despegue durante el tiempo que se considere necesario para que regrese la aeronave por emergencias durante el despegue o inmediatamente después;
+
+b) en los aeródromos sin servicio de control de tránsito aéreo o en los que el control de las luces no sea central, las luces de una pista permanecerán encendidas después de un despegue durante el tiempo que normalmente se necesitaría para reactivarlas si la aeronave regresara para hacer un aterrizaje de emergencia y, en cualquier caso, por lo menos durante 15 minutos después del despegue.
+
+(Cuando se enciendan las luces de obstáculos al mismo tiempo que las de pista, de acuerdo con lo dispuesto en 4.5.16.8.1, se tendrá especial cuidado de que no se apaguen mientras la aeronave las necesite.)
+
+4.5.16.5 Luces de zona de parada.
+
+4.5.16.5.1 Se encenderán las luces de zona de parada cuando lo estén las luces de pista correspondientes.
+
+4.5.16.6 Luces de calle de rodaje.
+
+Entre las luces de calle de rodaje están comprendidas las de borde, de eje, de barras de parada y de barras de cruce.
+
+4.5.16.6.1 Cuando se requiera proporcionar guía de rodaje las luces de calle de rodaje se encenderán en tal orden que den a la aeronave que circule una indicación continua del camino que debe seguir. Podrán apagarse las luces de calle de rodaje o parte de ellas cuando la aeronave que esté efectuando el rodaje ya no las necesite.
+
+4.5.16.7 Barras de parada.
+
+4.5.16.7.1 Se encenderán las barras de parada para indicar que todo el tráfico debe detenerse, y se apagarán para indicar que el tráfico puede continuar.
+
+4.5.16.8 Luces de obstáculos.
+
+Entre las luces de obstáculos están comprendidas las de obstáculos propiamente dichas, las indicadoras de zonas fuera de servicio y los faros de peligro.
+
+4.5.16.8.1 Las luces de obstáculos correspondientes a la aproximación o a la salida de una pista o canal podrán apagarse o encenderse al mismo tiempo que las luces de la pista o canal, cuando el obstáculo no se proyecta por encima de la superficie horizontal interna, descrita en el Anexo 14 de la OACI.
+
+4.5.16.8.2 No está permitido, de conformidad con 4.5.16.2.2, apagar las luces indicadoras de zonas fuera de servicio mientras el aeródromo esté abierto.
+
+4.5.16.9 Vigilancia y control de las ayudas visuales.
+
+4.5.16.9.1 Los controladores de aeródromo utilizarán, si estuvieran instalados, dispositivos monitores automáticos, para determinar si las luces están en buenas condiciones y funcionan de acuerdo con la selección realizada.
+
+4.5.16.9.2 De no existir dispositivos monitores automáticos, o como suplemento, el controlador de aeródromo observará visualmente las luces que alcance a ver desde la torre de control del aeródromo y utilizará la información obtenida de otras fuentes, tales como inspecciones visuales e informes de aeronaves, para mantenerse al corriente de la situación operacional de las ayudas visuales.
+
+4.5.16.9.3 Al recibir información de que falla alguna luz, el controlador de aeródromo determinará su importancia en las operaciones, tomará las medidas pertinentes para proteger cualesquiera aeronaves o vehículos afectados e iniciará medidas para que se corrija el fallo.
 
 ## CAPÍTULO 6
 
@@ -3697,9 +4031,11 @@ d) no se guiará vectorialmente a los vuelos controlados de modo que entren en e
 
 e) cuando una aeronave haya notificado que no puede confiar en sus instrumentos indicadores de dirección, antes de expedir instrucciones de maniobra se pedirá al piloto que haga todos los virajes a una velocidad angular convenida, y que dé cumplimiento a las instrucciones inmediatamente cuando las reciba.
 
-4.6.6.5.2. Cuando el controlador radar esté proporcionando guía vectorial a un vuelo IFR, expedirá las autorizaciones de modo que el margen de franqueamiento de obstáculos se cumplimente en todo momento, hasta que la aeronave llegue a un punto en que el piloto reanude su propia navegación.
+4.6.6.5.2. Cuando el controlador radar esté proporcionando guía vectorial a un vuelo IFR, o dándole una ruta directa que desvía a la aeronave de una ruta ATS, expedirá las autorizaciones de modo que el margen de franqueamiento de obstáculos se cumplimente en todo momento, hasta que la aeronave llegue a un punto en que el piloto reanude su propia navegación. Siempre que sea necesario en la altitud mínima para guía vectorial radar se incluirá una corrección para tener en cuenta el efecto de bajas temperaturas.
 
-Nota: Cuando un vuelo IFR recibe guía vectorial, a menudo el piloto no puede determinar la posición exacta de la aeronave y, por consiguiente, tampoco pueda determinar la altitud de franqueamiento de obstáculos necesaria.
+Nota 1.–Cuando un vuelo IFR recibe guía vectorial, a menudo el piloto no puede determinar la posición exacta de la aeronave con respecto a los obstáculos en ese área y, por consiguiente, tampoco puede determinar la altitud de franqueamiento de obstáculos necesaria.
+
+Nota 2.–Corresponde a la autoridad ATS proporcionar al controlador las altitudes mínimas corregidas para tener en cuenta el efecto de la temperatura.
 
 4.6.6.5.3. Siempre que sea posible, las altitudes mínimas de guía vectorial serán lo suficientemente elevadas como para minimizar la activación de los sistemas de advertencia de la proximidad del terreno de la aeronave.
 
@@ -3745,7 +4081,7 @@ Nota: Debe tenerse en cuenta que, en ciertas circunstancias, el área más activ
 
 4.6.6.10. Notificación de información meteorológica significativa a las oficinas meteorológicas.
 
-4.6.6.10.1. Aunque no se requiere que el controlador radar mantenga una vigilancia especial para la detección de tormentas, etc., cuando sea factible, se notificará a la oficina meteorológica correspondiente información sobre la posición, intensidad, amplitud y movimiento del tiempo significativo (es decir, tormentas o superficies frontales bien definidas) observados en las presentaciones radar.
+4.6.6.10.1 Aunque no se requiere que el controlador radar mantenga una vigilancia especial de precipitaciones fuertes, etc., cuando sea factible, deberá notificarse a la oficina meteorológica correspondiente información sobre la posición, intensidad, amplitud y movimiento de las condiciones meteorológicas significativas (es decir, chubascos fuertes o superficies frontales bien definidas) observados en las presentaciones de la situación.
 
 4.6.7. Empleo del radar en el servicio de control de tránsito aéreo.
 
@@ -3841,23 +4177,15 @@ viii) los procedimientos relativos a la aplicación de la separación mínima re
 
 4.6.7.4.3. La mínima de separación radar o los mínimos aplicables serán los prescritos por la autoridad ATS competente, de acuerdo con la capacidad del sistema o de los sensores de que se trate, para poder identificar con exactitud la posición de la aeronave en relación con el centro de una traza RPS, PSR o respuesta SSR y teniéndose en cuenta factores que pueden influir en la precisión de la información proveniente del radar, tales como la distancia desde la aeronave hasta el emplazamiento radar.
 
-4.6.7.4.4. En las circunstancias que se indican en 4.6.7.4.4.1, se aplicarán a las aeronaves en las fases de aproximación y salida las siguientes mínimas de separación radar por estela turbulenta
+4.6.7.4.4. En las circunstancias que se indican en 4.6.7.4.4.1, se aplicarán a las aeronaves en las fases de aproximación y salida las siguientes mínimas de separación radar por estela turbulenta.
 
 | Categoría de aeronaves | Mínimas de separación radar por estela turbulenta |
 | --- | --- |
 | Aeronave que precede | Aeronave que sigue |
-| PESADA (1) | PESADA | 7,4 km (4 NM) |
-|  | MEDIA | 9,3 km (5 NM) |
-|  | LIGERA | 11,1 km (6 NM) |
+| PESADA | PESADA MEDIA LIGERA | 7,4 km (4 NM) 9,3 km (5 NM) 1 1, 1 km (6 NM) |
 | MEDIA | LIGERA | 9,3 km (5 NM) |
 
-Nota. ‒Las disposiciones que rigen la clasificación de aeronaves según la estela turbulenta se presentan en el capítulo 5, Sección 4.5.16.
-
-(1) A los efectos de aplicación de separación por estela turbulenta, las aeronaves B757 y B737 (800/900) serán consideradas:
-
-— aeronaves PESADAS cuando vayan seguidas de otra aeronave, debido a la estela turbulenta que generan, y
-
-— aeronaves MEDIAS cuando sigan a otra aeronave.
+Nota.–Las disposiciones que rigen la clasificación de aeronaves según la estela turbulenta se presentan en el capítulo 5, apartado 4.5.15.
 
 4.6.7.4.4.1. Las mínimas establecidas en 4.6.7.4.4 se aplicarán cuando:
 
@@ -4388,7 +4716,7 @@ d) enlace de datos.
 
 4.7.1.3.2. Transmisión de aeronotificaciones especiales, de información SIGMET y AIRMET.
 
-4.7.1.3.2.1. La información SIGMET y AIRMET apropiada y las aeronotificaciones especiales que no se han utilizado en la preparación de SIGMET, se difundirán a las aeronaves por uno de los medios que se especifican en 4.7.1.3.1.1. a) o 4.7.3.1.1. b).
+4.7.1.3.2.1. La información SIGMET y AIRMET apropiada y las aeronotificaciones especiales que no se han utilizado en la preparación de SIGMET, se difundirán a las aeronaves por uno o más de los medios que se especifican en 4.7.1.3.1.1.a) ó 4.7.3.1.1.b). Se difundirán aeronotificaciones especiales a las aeronaves respecto a un período de 60 minutos después de su expedición.
 
 4.7.1.3.2.2. La transmisión de información SIGMET, AIRMET y de aeronotificaciones especiales a la aeronave por iniciativa de tierra debe cubrir una parte de la ruta de hasta una hora de vuelo, dos horas en la región AFI, por delante de la posición de la aeronave.
 
@@ -4400,15 +4728,15 @@ d) enlace de datos.
 
 4.7.1.3.4.1. La información sobre la liberación en la atmósfera de material radioactivo o sustancias tóxicas que podrían afectar al espacio aéreo dentro de la zona de responsabilidad de la dependencia ATS, se transmitirá a las aeronaves por uno o más de los medios especificados en 4.7.1.3.1.1.
 
-4.7.1.3.5. Transmisión de informes especiales seleccionados y de pronósticos de aeródromos enmendados.
+4.7.1.3.5. Transmisión de SPECI y de TAF enmendados.
 
-4.7.1.3.5.1. Los informes especiales seleccionados y los pronósticos de aeródromo enmendados se transmitirán a solicitud, e irán complementados por:
+4.7.1.3.5.1 Los informes especiales en la forma de clave SPECI y los TAF enmendados se transmitirán a solicitud, e irán complementados por:
 
-a) transmisión directa, por la correspondiente dependencia de los servicios de tránsito aéreo, de informes especiales seleccionados y de los pronósticos de aeródromo enmendados para los aeródromos de salida, destino y alternativa, previstos en el plan de vuelo; o
+a) transmisión directa, por la correspondiente dependencia de los servicios de tránsito aéreo, de informes especiales seleccionados y de los TAF enmendados para los aeródromos de salida, destino y alternativa, previstos en el plan de vuelo; o
 
-b) una llamada general, en las frecuencias apropiadas, para la transmisión sin acuse de recibo, a todas las aeronaves interesadas, de informes especiales seleccionados y de pronósticos de aeródromo enmendados; o
+b) una llamada general, en las frecuencias apropiadas, para la transmisión sin acuse de recibo, a todas las aeronaves interesadas, de informes especiales seleccionados y de TAF enmendados; o
 
-c) radiodifusiones continuas o frecuentes de los informes y pronósticos de aeródromo vigentes en áreas determinadas a base de acuerdos regionales de navegación aérea cuando la congestión del tránsito lo requiera.
+c) radiodifusiones continuas o frecuentes o el uso de enlace de datos para poner a disposición los METAR y TAF vigentes en áreas determinadas por acuerdos regionales de navegación aérea cuando la congestión del tráfico lo requiera. Deberán utilizarse para este fin las radiodifusiones VOLMET o D-VOLMET.»
 
 4.7.1.3.5.2. La transmisión a las aeronaves por iniciativa de la correspondiente dependencia de los servicios de tránsito aéreo de pronósticos de aeródromo enmendados, se hará con una antelación de 60 minutos a la llegada al aeródromo de destino, a no ser que se haya facilitado la información por otros medios.
 
@@ -4856,9 +5184,9 @@ La información concerniente a cualquier corrección igual o superior a tres min
 
 4.8.4.2.3.2. En el caso de una aeronave que solicite un cambio de su plan de vuelo actualizado, o de un centro transferidor que proponga cambiar el plan de vuelo actualizado de una aeronave en las proximidades del límite, en circunstancias similares a las descritas, no se concederá la autorización revisada hasta que el centro adyacente haya aceptado la propuesta.
 
-4.8.4.2.4. Cuando los datos de estimación del límite hayan de transmitirse en las circunstancias mencionadas en 4.8.4.2.3., la hora, respecto a una aeronave que aún no haya salido se basará en la hora prevista de salida determinada por la dependencia ATC en el aeródromo de salida.
+4.8.4.2.4. Cuando los datos de estimación del límite hayan de transmitirse en las circunstancias mencionadas en 4.8.4.2.3, la hora, respecto a una aeronave que aún no haya salido se basará en la hora prevista de salida determinada por la dependencia ATC en el aeródromo de salida.
 
-Respecto a una aeronave en vuelo que solicite una autorización inicial, la hora se basará en el tiempo que se estima ha transcurrido desde el punto de espera hasta el límite, más el tiempo que se calcula que hace falta para coordinación.
+Respecto a una aeronave en vuelo que solicite una autorización inicial, la hora se basará en el tiempo que se estima ha transcurrido desde el punto de referencia de espera hasta el límite, más el tiempo que se calcula que hace falta para coordinación.
 
 4.8.4.2.5. Respecto a la información proporcionada por el centro transferidor de acuerdo con 4.8.4.2.1. y 4.8.4.2.3., el centro aceptante notificará al centro transferidor que puede aceptar a la aeronave de que se trate en las condiciones especificadas, o le indicará los cambios que sea necesario hacer en el plan de vuelo para que la aeronave pueda ser aceptada, con la excepción de que cuando existan acuerdos especiales entre las dependencias ATC interesadas, esta notificación sólo se requerirá si la aeronave no puede ser aceptada en las condiciones ofrecidas por el centro transferidor.
 
@@ -4924,7 +5252,7 @@ Cuando se establezca una oficina de control de aproximación, el centro de contr
 
 La dependencia que suministre el servicio de control de aproximación notificará inmediatamente al centro de control de área, datos pertinentes al tránsito controlado tales como:
 
-a) el nivel vacante más bajo en el punto de espera que pueda ponerse a disposición del centro de control de área;
+a) el nivel vacante más bajo en el punto de referencia de espera que pueda ponerse a disposición del centro de control de área;
 
 b) el tipo previsto de procedimiento de aproximación por instrumentos;
 
@@ -4932,23 +5260,23 @@ c) el intervalo medio de tiempo entre aproximaciones sucesivas, determinado por 
 
 d) revisión de la hora prevista de aproximación expedida por el centro de control de área, cuando la calculada por la dependencia que suministra servicio de control de aproximación indique una variación de cinco minutos o cualquier otro lapso que haya sido convenido entre las dos dependencias ATC en cuestión;
 
-e) las horas de llegada sobre el punto de espera, cuando exista una diferencia de tres minutos, o cualquier otro lapso que haya sido convenido entre las dos dependencias ATC en cuestión, respecto a las horas anteriormente calculadas;
+e) las horas de llegada sobre el punto de referencia de espera, cuando exista una diferencia de tres minutos, o cualquier otro lapso que haya sido convenido entre las dos dependencias ATC en cuestión, respecto a las horas anteriormente calculadas;
 
-f) las cancelaciones por las aeronaves de sus vuelos IFR, si éstas afectan a los niveles en el punto de espera o a las horas previstas de aproximación de otras aeronaves;
+f) las cancelaciones por las aeronaves de sus vuelos IFR, si éstas afectan a los niveles en el punto de referencia de espera o a las horas previstas de aproximación de otras aeronaves;
 
 g) las horas de salida de las aeronaves;
 
-h) toda la información disponible relacionada con las aeronaves demoradas o de que no se tengan noticias;
+h) toda la información disponible relacionada con las aeronaves demoradas o de las que no se tengan noticias;
 
 i) las aproximaciones frustradas.
 
-4.8.4.3.2.2. Del centro de control de área a la dependencia que suministra el servicio de control de aproximación.
+4.8.4.3.2.2 Del centro de control de área a la dependencia que suministra el servicio de control de aproximación.
 
 El centro de control de área notificará inmediatamente a la dependencia que suministra el servicio de control de aproximación datos pertinentes al tránsito controlado, tales como:
 
 a) identificación, tipo y punto de salida de las aeronaves que llegan;
 
-b) hora prevista de llegada y nivel propuesto sobre el punto de espera para las aeronaves que llegan, u hora exacta si se transfiere la aeronave a la dependencia que presta servicio de control de aproximación cuando aquélla haya llegado al punto de espera;
+b) hora prevista de llegada y nivel propuesto sobre el punto de referencia de espera para las aeronaves que llegan, u hora exacta si se transfiere la aeronave a la dependencia que presta servicio de control de aproximación cuando aquélla haya llegado al punto de referencia de espera;
 
 c) categoría solicitada de procedimiento de aproximación por instrumentos, si es diferente a la indicada en 4.8.4.3.2.1. b);
 
@@ -4984,7 +5312,7 @@ La torre de control de aeródromo informará rápidamente a la dependencia que s
 
 a) horas de llegada y salida;
 
-b) indicación de que la primera aeronave de la secuencia de aproximación está en comunicación con la torre de control de aeródromo y a la vista de ésta, y haya razón para creer que podrá efectuar un aterrizaje normal;
+b) si se requiere, indicación de que la primera aeronave de la secuencia de aproximación está en comunicación con la torre de control de aeródromo y a la vista de ésta, y haya razón para creer que podrá efectuar un aterrizaje normal;
 
 c) toda la información disponible relacionada con las aeronaves demoradas o de las que no se tengan noticias;
 
@@ -5050,11 +5378,11 @@ Esta categoría de mensajes comprende:
 
 a) mensajes de socorro y tráfico de socorro, incluyendo los mensajes de alerta relacionados con una fase de peligro (SS);
 
-b) mensajes de urgencia, incluyendo los mensajes de alerta o con una fase de incertidumbre (SS);
+b) mensajes de urgencia, incluyendo los mensajes de alerta o con una fase de incertidumbre (DD);
 
 c) otros mensajes relativos a situaciones de emergencia conocidas o de cuya existencia se sospecha no comprendidas en a) ni en b) anteriores, y los mensajes de fallo de comunicaciones de radio (FF, o más alta, según corresponda).
 
-Cuando los mensajes indicados en a), b) y, si corresponde, en c) se depositen en el servicio público de telecomunicaciones, deberá utilizarse el indicador de prioridad SVH, asignado a los telegramas relacionados con la seguridad de la vida humana, de acuerdo con el Artículo 25 del Convenio Internacional de Telecomunicaciones, Málaga, 1973.
+Cuando los mensajes indicados en a), b) y, si corresponde, en c) se depositen en el servicio público de telecomunicaciones, deberá utilizarse el indicador de prioridad SVH, asignado a los telegramas relacionados con la seguridad de la vida humana, de acuerdo con el artículo 25 del Convenio Internacional de Telecomunicaciones, Málaga, 1973.
 
 4.9.1.3. Mensajes de movimiento y control.
 
@@ -5660,6 +5988,8 @@ e) instrucciones detalladas concernientes a la salida o a los niveles de aproxim
 
 En aquellos casos en que el personal que transmite autorizaciones a las aeronaves no forma parte de los servicios de tránsito aéreo, es esencial que se hagan los arreglos apropiados para cumplir este requisito.
 
+4.9.4.2.5.2.5 Las restricciones de nivel emitidas por ATC en las comunicaciones aire-tierra se repetirán junto con las autorizaciones de nivel subsiguientes para que sigan en efecto.
+
 4.9.4.2.5.3. Mensajes de transferencia de control.
 
 Las disposiciones que rigen la transferencia de control figuran en 3.3.6.2. del Libro Tercero y en el Capítulo 8 del Libro Cuarto. La fraseología que ha de usarse en las comunicaciones orales figura en el Capítulo 10 del Libro Cuarto. El formato y la representación convencional de los datos para el intercambio automático de mensajes de transferencia de control aún no han sido elaborados.
@@ -5742,111 +6072,33 @@ c) GG en caso de otros datos.
 
 (INSTRUMENT METEOROLOGICAL CONDITIONS REPORTED (or forecast) IN THE VICINITY OF (location)
 
-4.9.4.3.2.2. La información meteorológica sobre las condiciones meteorológicas en los aeródromos, si la dependencia ATS correspondiente la debe transmitir a las aeronaves, se extraerá de los mensajes meteorológicos siguientes, proporcionados por la oficina meteorológica correspondiente, complementados respecto a aeronaves que llegan y salen, según se requiera, por información procedente de indicadores relacionados con sensores meteorológicos (especialmente los que se relacionan con el viento en la superficie y el alcance visual en la pista) situados en las dependencias ATS:
+4.9.4.3.2.2. La información meteorológica sobre las condiciones meteorológicas en los aeródromos, si la dependencia ATS correspondiente la debe transmitir a las aeronaves, se extraerá de los mensajes meteorológicos siguientes, proporcionados por la oficina meteorológica correspondiente, complementados respecto a aeronaves que llegan y salen, según se requiera, por información procedente de presentadores relacionados con sensores meteorológicos (especialmente los que se relacionan con el viento en la superficie y el alcance visual en la pista) situados en las dependencias ATS:
 
 a) informes meteorológicos difundidos en forma local en el aeródromo, destinados a aeronaves que llegan y salen;
 
 b) informes meteorológicos difundidos fuera del aeródromo, comunicados en formas de código METAR y SPECI, destinados a aeronaves en ruta.
 
-4.9.4.3.2.3. La información meteorológica mencionada en 4.9.4.3.2.2. se extraerá, según corresponda, de los informes meteorológicos que proporcionan información de conformidad con lo siguiente:
+4.9.4.3.2.3 La información meteorológica mencionada en 4.9.4.3.2.2 se extraerá, según corresponda, de los informes meteorológicos que proporcionan información sobre los elementos siguientes:
 
-4.9.4.3.2.3.1. Dirección y velocidad del viento medio en la superficie y sus variaciones significativas.
+a) dirección y velocidad del viento medio en la superficie y sus variaciones significativas;
 
-4.9.4.3.2.3.1.1. En los informes meteorológicos la dirección se dará en grados respecto al norte verdadero y la velocidad en km/h (kt). Todas las variaciones de velocidad y dirección se referirán al período precedente de 10 minutos. Se dará la variación direccional cuando la variación total sea de 60° o más, cuando las velocidades medias sean superiores a 6 km/h (3 kt), y el viento varíe en menos de 180° ello se expresará como las dos direcciones extremas entre las cuales el viento ha variado; en el resto de los casos, seguido de la velocidad media sin indicar la dirección media del viento, se anotará VRB. Las variaciones de velocidad (ráfagas) sólo se notificarán cuando la variación respecto a la velocidad media sea de 20 km/h (10 kt) o más.
+Nota.–La información sobre la dirección del viento en la superficie que proporciona a las dependencias ATS la oficina meteorológica correspondiente, se da en grados respecto al norte verdadero. La información sobre la dirección del viento en la superficie obtenida del indicador ATS del viento en la superficie, y que transmiten a los pilotos las dependencias ATS, se da en grados respecto al norte magnético.
 
-Nota: La información sobre la dirección del viento en la superficie que proporciona a las dependencias ATS la oficina meteorológica correspondiente, se da en grados respecto al norte verdadero. La información sobre la dirección del viento en la superficie obtenida del indicador ATS del viento en la superficie, y que transmiten a los pilotos las dependencias ATS, se da en grados respecto al norte magnético.
+b) visibilidad, incluyendo variaciones direccionales significativas;
 
-4.9.4.3.2.3.1.2. En los informes meteorológicos difundidos en forma local en el aeródromo.
+c) alcance visual en la pista;
 
-a) el período de cálculo de promedios para las observaciones del viento en la superficie será de 2 minutos;
+d) condiciones meteorológicas presentes;
 
-b) las variaciones de la velocidad se expresarán como valores máximos y mínimos alcanzados;
+e) cantidad y altura de la base de nubes bajas;
 
-c) en informes destinados a aeronaves que salen, los vientos en la superficie ligeros y variables de 6 km/h (3 kt) o inferiores incluirán una gama de direcciones del viento, siempre que sea posible.
+f) temperatura del aire y del punto de rocío;
 
-4.9.4.3.2.3.1.3. En los informes meteorológicos difundidos fuera del aeródromo:
+g) reglaje o reglajes de altímetro; y
 
-a) el período de cálculo de promedios para las observaciones del viento en la superficie será de 10 minutos;
+h) otra información significativa complementaria.
 
-b) las variaciones de la velocidad se expresarán como valores máximos y mínimos alcanzados. No se incluirá la velocidad mínima del viento.
-
-4.9.4.3.2.3.2. Visibilidad, incluyendo variaciones direccionales significativas.
-
-4.9.4.3.2.3.2.1. Cuando la visibilidad sea menos de 500 m., se expresará en incrementos de 50 m; cuando sea de 500 m o más, pero menos de 5.000 m, se expresará en incrementos de 100 m; cuando sea de 5.000 m o más pero menos de 10 km, se expresará en incrementos de 1 km; y cuando sea 10 km o más, solamente se dará el valor 10 km, excepto cuando se presenten las condiciones para el uso de CAVOK.
-
-4.9.4.3.2.3.2.2. En los informes meteorológicos difundidos en forma local en el aeródromo, la visibilidad será representativa de:
-
-a) las zonas de despegue y ascenso inicial para las aeronaves que salen;
-
-b) la zona de aproximación y aterrizaje para las aeronaves que llegan.
-
-4.9.4.3.2.3.2.3. En los informes meteorológicos difundidos fuera del aeródromo, la visibilidad será representativa del aeródromo y de sus alrededores inmediatos. En caso de variaciones direccionales significativas de la visibilidad:
-
-a) se notificará la visibilidad menor;
-
-b) se darán valores adicionales indicando la dirección de observación.
-
-4.9.4.3.2.3.3. Alcance visual en la pista.
-
-4.9.4.3.2.3.3.1. Los valores del alcance visual en la pista de hasta 800 metros se darán en incrementos de 25 a 60 metros, de conformidad con las observaciones disponibles, y los valores superiores a 800 metros se darán en incrementos de 100 metros.
-
-Los valores del alcance visual en la pista que no se ajusten a la escala de notificación utilizada se redondearán al escalón inferior inmediato de la escala de notificación.
-
-4.9.4.3.2.3.3.2. En los informes meteorológicos difundidos en forma local en el aeródromo, el período de cálculo de promedios será de 1 minuto y:
-
-a) Cuando el alcance visual en la pista sea superior al valor máximo que puede ser determinado por el sistema que se utilice, se notificará como superior a la distancia especificada; p. ej., RVR RWY 14 ABV 1200M cuando la cifra indicada de 1200 sea el valor máximo que el sistema puede determinar; o
-
-cuando el alcance visual en la pista sea inferior al valor mínimo que puede medirse con el sistema utilizado, se notificará como inferior a la distancia especificada; p. ej., RVR RWY 10 BLW 150M.
-
-b) cuando se observe el alcance visual en la pista desde un lugar situado a lo largo de la pista, a unos 300 m del umbral, se incluirá sin ninguna indicación de lugar; p. ej., RVR RWY 20 600M; o
-
-cuando se observe el alcance visual en la pista desde más de un lugar a lo largo de la pista, debe darse primero el valor representativo de la zona de toma de contacto, seguido de los valores representativos del punto medio y del extremo de parada. Los lugares respecto a los cuales estos valores son representativos se notificarán en los informes meteorológicos como TDZ, MID, y END, p. ej., RVR RWY 16 TDZ 600M MID 400M END 400M;
-
-Nota: Cuando se den informes sobre tres lugares, puede omitirse la indicación de estos lugares, siempre que los informes se transmitan en el orden estipulado anteriormente; p. ej., RVR RWY 16 600M 400M 400M.
-
-c) cuando se esté utilizando más de una pista, se darán los valores disponibles del alcance visual en la pista correspondientes a cada pista, y se indicarán las pistas a las cuales se refieren los valores; p. ej., RVR RWY 26 800M RVR RWY 20 700M; si se dispone el alcance visual en la pista correspondiente a una sola pista, se indicará esa pista; p. ej., RVR RWY 20 600M.
-
-4.9.4.3.2.3.3.3. En los informes meteorológicos difundidos fuera del aeródromo, el período de cálculo de promedios será de 10 minutos y;
-
-a) se dará solamente el valor representativo de la zona de toma de contacto, y no se incluirá ninguna indicación sobre la posición en la pista;
-
-b) cuando se disponga de más de una pista para el aterrizaje, los valores del alcance visual en la pista de la zona de toma de contacto se incluirán respecto a todas esas pistas, hasta un máximo de cuatro, y se indicarán las pistas a las cuales se refieren los valores; p. ej., RVR RWY 26 500M RVR RWY 20 800M;
-
-c) cuando los valores del alcance visual en la pista durante el período de 10 minutos inmediatamente anterior a la observación ha mostrado una tendencia clara, de tal modo que el valor promedio durante los primeros 5 minutos varíe en 100 m o más del promedio durante los segundos 5 minutos del período, se indicará esta situación por medio de la abreviatura «U» respecto a una tendencia ascendente y por medio de la abreviatura «D» respecto a la tendencia descendente, p. ej. RVR RWY 12 300M/D.
-
-d) cuando las fluctuaciones del alcance visual en la pista durante el período de 10 minutos inmediatamente anterior a la observación no han mostrado una tendencia clara, se indicará esta situación por medio de la abreviatura «N».
-
-e) cuando los valores de 1 minuto del alcance visual en la pista durante el período de 10 minutos inmediatamente anterior a la observación se desvíen del valor promedio por más de 50 m o más del 20% del valor promedio, prefiriéndose el valor más elevado, se incluirá el valor promedio mínimo de 1 minuto y el valor promedio máximo de 1 minuto, en vez del valor promedio del período de 10 minutos; p. ej., RVR RWY 18 MNM700M MAX1100M.
-
-4.9.4.3.2.3.4. Tiempo presente.
-
-4.9.4.3.2.3.4.1. Los tipos de tiempo presente se notificarán en los informes meteorológicos utilizando algunos de los términos siguientes: llovizna, lluvia, nieve, cinarra, hielo granulado, agujas de hielo (prismas de hielo), granizo, granizo menudo, nieve granulada, niebla, neblina, arena, polvo (extendido), calima, humo, ceniza volcánica, remolinos de polvo/arena (remolinos de polvo), turbonada, tromba (tornado o tromba marina) tempestad de polvo y tempestad de arena.
-
-4.9.4.3.2.3.4.2. Las características que se indican a continuación respecto de los fenómenos de tiempo presente, se reseñarán según corresponda al referirse a los tipos de fenómenos enumerados en 4.9.4.3.2.3.4.1: tormenta, chubasco, engelamiento, ventisca alta, ventisca baja, bajo o baja, bancos aislados parcial.
-
-4.9.4.3.2.3.4.3. Se indicará la intensidad pertinente (ligera, moderada, fuerte) o, de ser apropiado la proximidad al aeródromo (vecindad) de los fenómenos meteorológicos correspondientes al tiempo presente que se hubieran notificado.
-
-4.9.4.3.2.3.5. Cantidad y altura de la base de nubes bajas.
-
-La cantidad de nubes indicada mediante FEW (1-2 octas) SCT (3-4 octas), BKN (5-7 octas) o bien OVC (8 octas), el tipo [solamente si son cumulonimbus (CB) o cumulus en forma de torre (TCU)], y la altura de la base en metros (pies), se darán en dicho orden. Si la base de la nube más baja es difusa, fragmentada o fluctúa rápidamente, la altura mínima de la nube o de los fragmentos de nubes se dará juntamente con una descripción apropiada de sus características. Si no hay nubes ni restricciones de la visibilidad vertical, y la abreviatura CAVOK no es apropiada, se empleará SKC. Cuando el cielo esté oscurecido y se disponga de información sobre la visibilidad vertical, esto debería notificarse mediante VER VIS, seguido del valor de la visibilidad vertical.
-
-4.9.4.3.2.3.6. Temperatura del aire y del punto de rocío.
-
-La temperatura del aire y la temperatura del punto de rocío se darán en grados Celsius enteros, redondeados al grado más cercano, y cuando se registre exactamente el valor 0,5° C entre grados, se redondeará al grado siguiente superior.
-
-4.9.4.3.2.3.7. Reglaje o reglajes de altímetro.
-
-Se dará el reglaje QNH de altímetro y, bien sea regularmente de conformidad con acuerdos locales, o si el piloto lo solicita, el reglaje QFE de altímetro.
-
-Los reglajes de altímetro se darán en hectopascales (milibares) y se redondearán al hectopascal (milibar) entero inferior más próximo.
-
-4.9.4.3.2.3.8. Otra información significativa.
-
-4.9.4.3.2.3.8.1. Comprenderá toda la información disponible sobre las condiciones meteorológicas en el área de aeródromo y en las áreas de aproximación, de aproximación frustrada, o de ascenso inicial, con área del aeródromo y en las áreas de aproximación frustrada, o de ascenso inicial, con referencia a la ubicación de los comulonimbus o tormentas, turbulencia moderada o fuerte, cortante del viento, granizo, línea de turbonada fuerte, engelamiento moderado o fuerte, precipitación engelante, ondas orográficas fuertes, tempestad de arena, tempestad de polvo, ventisca alta, tornado o tromba marina, así como toda información relativa a las condiciones meteorológicas recientes que tengan significación operacional (p. ej., precipitación engelante; precipitación moderada o fuerte; ventisca alta, moderada o fuerte; tempestades de polvo o de arena; tormenta; tornado o tromba marina; cenizas volcánicas) observadas durante el período posterior a la expedición del último informe ordinario o la última hora, prefiriéndose el período más breve, pero no en el momento de la observación.
-
-4.9.4.3.2.3.8.2. En los informes meteorológicos difundidos fuera del aeródromo se incluirá solamente la información sobre la cizalladura del viento y sobre las condiciones meteorológicas recientes que tengan significación operacional, según se estipula en 4.9.4.3.2.3.8.1.
-
-4.9.4.3.2.3.9. Cuando la visibilidad sea de 10 km o más, y no exista ninguna nubosidad por debajo de 1.500 m (5.000 ft) o por debajo de la mayor altitud mínima de sector, de ambos valores el mayor, ni exista ninguna condición meteorológica de importancia según se indica en 4.9.4.3.2.3.4.1 y 4.9.4.3.2.3.4.2, la información sobre visibilidad, alcance visual en la pista, tiempo presente, y cantidad, tipo y altura de nubes se sustituirá por el término «CAVOK».
+Nota.–Las disposiciones relativas a la información meteorológica que ha de proporcionarse con arreglo a 4.9.4.3.2.3 figuran en el anexo 3 de OACI–Servicio meteorológico para la navegación aérea internacional, capítulo 4 y apéndice 3.
 
 4.9.4.3.3. Mensajes respecto al funcionamiento de las instalaciones aeronáuticas.
 
@@ -5896,23 +6148,37 @@ d) breves detalles del incidente.
 
 4.10.2.2. Para facilitar la consulta, la fraseología se agrupa según tipos de servicio de tránsito aéreo. Sin embargo, los usuarios deberán conocer y utilizar, en la medida necesaria, fraseología de grupos distintos de los que se refieran específicamente al tipo de servicio de tránsito aéreo que se suministre. Toda la fraseología se utilizará junto con los distintivos de llamada (aeronave, vehículo terrestre, ATC u otros) según corresponda. A fin de que pueda distinguirse claramente la fraseología de la Sección 4.10.3, se han omitido los distintivos de llamada. En el Anexo 10 de OACI, Volumen II, Capítulo 5, que se ha incluido en el Libro Décimo, se indican las disposiciones relativas a la compilación de los mensajes RTF, distintivos de llamada y procedimientos pertinentes.
 
-4.10.2.3. La Sección 4.10.3 incluye frases que han de usar los pilotos, el personal del ATS y demás personal de tierra. No se enumera por separado una fraseología para el movimiento de vehículos, aparte de los remolcadores, en el área de maniobras, ya que se aplica la fraseología relativa al movimiento de aeronaves, con excepción de las instrucciones para el rodaje, en cuyo caso se sustituirá el término «RUEDE» («TAXI») por el término «SIGA» («PROCEED») cuando se comunique con vehículos.
+4.10.2.3. La sección 4.10.3 incluye frases que han de usar los pilotos, el personal del ATS y demás personal de tierra.
 
-4.10.2.4. No se utilizarán frases condicionales, como «detrás de la aeronave que aterriza» («behind landing aircraft») o «después de la aeronave que sale» («after departing aircraft») para movimientos que afecten la pista o pistas en actividad, salvo cuando la aeronave o vehículo en cuestión esté a la vista del controlador y del piloto pertinentes. En todos los casos la autorización condicional se concederá en el orden siguiente y constará de:
+4.10.2.3.1 Durante las operaciones en un espacio aéreo de separación vertical mínima reducida (RVSM) con aeronaves sin aprobación para operaciones RVSM o en tránsito vertical a través del mismo, los pilotos notificarán la condición de aeronave sin aprobación RVSM de la siguiente manera:
 
-i) la identificación
+a) una llamada inicial en cualquier canal dentro del espacio aéreo RVSM;
 
-ii) la condición (especifíquese); y
+b) en todas las solicitudes de cambio de nivel; y
 
-iii) la autorización;
+c) en todas las colaciones de autorizaciones de nivel.
 
-por ejemplo:
+4.10.2.3.2 Los controladores de tránsito aéreo acusarán recibo explícitamente de los mensajes de las aeronaves que notifiquen la condición de aeronave sin aprobación RVSM.
 
-«SAS 941, DETRÁS DEL DC9 EN FINAL CORTA, RUEDE A POSICIÓN».
+4.10.2.3.3 La fraseología para el movimiento de vehículos, aparte de los remolcadores, en el área de maniobras será la misma que se utiliza para el movimiento de aeronaves, con excepción de las instrucciones para el rodaje; en cuyo caso se sustituirá la palabra "RUEDE" por "SIGA" cuando se comunique con vehículos.
 
-(«SAS 941, BEHIND DC9 ON SHORT FINAL, LINE UP»)
+4.10.2.4 No se utilizarán frases condicionales, como "detrás de la aeronave que aterriza" ("behind landing aircraft") o "después de la aeronave que sale" ("after departing aircraft") para movimientos que afecten la pista o pistas en actividad, salvo cuando la aeronave o vehículo en cuestión esté a la vista del controlador y del piloto pertinentes. La aeronave o vehículo que ocasiona la condición en la autorización expedida será la primera aeronave o vehículo que pase delante de las otras aeronaves afectadas. En todos los casos la autorización condicional se concederá en el orden siguiente y constará de:
 
-Nota: Esto implica la necesidad de que la aeronave que reciba la autorización condicional identifique la aeronave o vehículos a que hace referencia dicha autorización condicional.
+a) la identificación;
+
+b) la condición (especifíquese);
+
+c) la autorización; y
+
+d) la repetición breve de la condición.
+
+Por ejemplo:
+
+“SAS 941, DETRÁS DEL DC9 EN FINAL CORTA, ENTRE Y MANTENGA DETRÁS”.
+
+(“SAS 941, BEHIND DC9 ON SHORT FINAL, LINE UP BEHIND”)
+
+Nota.–Esto implica la necesidad de que la aeronave que reciba la autorización condicional identifique la aeronave o vehículos a que hace referencia dicha autorización condicional.
 
 4.10.2.5. Las autorizaciones ATC de ruta deberán ser colacionadas de forma completa siempre por el piloto a menos que la autoridad ATS apropiada autorice lo contrario, en cuyo caso deberá acusarse positivamente recibo.
 
@@ -5920,19 +6186,11 @@ Nota: Esto implica la necesidad de que la aeronave que reciba la autorización c
 
 4.10.2.7 Otras autorizaciones o instrucciones, incluidas las autorizaciones condicionales, se colacionarán completamente o se acusará recibo de las mismas indicándose claramente que han sido comprendidas y que se cumplirán.
 
-4.10.2.8. Las instrucciones sobre pista en uso, reglaje del altímetro, códigos SSR, niveles, rumbo y velocidad y cuando lo requiera la autoridad ATS competente, niveles de transición, deberán ser colacionados siempre por el piloto, por ejemplo:
+4.10.2.8. La fraseología de la Sección 4.10.3. no incluye las frases ni las palabras corrientes de los procedimientos radiotelefónicos contenidas en el Anexo 10 de OACI, Volumen II, e incluidas en el Libro 10.
 
-| Servicio de tránsito aéreo: (distintivo de llamada de la aeronave) «UTILICE RESPONDEDOR TRES CUATRO DOS CINCO»; | Air traffic services: (aircraft call sign) «SQUAWK THREE OUR TWO FIVE»; |
-| --- | --- |
-| Respuesta de la aeronave: «TRES CUATRO DOS CINCO (distintivo de llamada de la aeronave)». | Aircraft reply: «TRHEE FOUR TWO FIVE (Aircraft call sign)». |
+4.10.2.9. Las palabras entre paréntesis indican que debe insertarse información correcta, tal como un nivel, un lugar o una hora, etc., para completar la frase, o bien que pueden utilizarse variantes. Las palabras entre corchetes indican palabras facultativas adicionales o información complementaria que puedan ser necesarias en determinados casos.
 
-Nota: Si la posición vertical de la aeronave se notifica con respecto a la presión normalizada de 1 013,2 hPa, las palabras «NIVEL DE VUELO» (FLIGHT LEVEL) deberán preceder a las cifras que indiquen dicho nivel. Si la posición vertical de la aeronave se notifica con relación a QNH/QFE, la cifra correspondiente debería ir seguida de la palabra «METROS» (METRES) o «PIES» (FEET), según proceda.
-
-4.10.2.9. La fraseología de la Sección 4.10.3. no incluye las frases ni las palabras corrientes de los procedimientos radiotelefónicos contenidas en el Anexo 10 de OACI, Volumen II, e incluidas en el Libro 10.
-
-4.10.2.10. Las palabras entre paréntesis indican que debe insertarse información correcta, tal como un nivel, un lugar o una hora, etc., para completar la frase, o bien que pueden utilizarse variantes. Las palabras entre corchetes indican palabras facultativas adicionales o información complementaria que puedan ser necesarias en determinados casos.
-
-4.10.2.11. En el Manual de Radiotelefonía de OACI pueden encontrarse ejemplos de la aplicación de la fraseología contenida en los Capítulos 6 y 10.
+4.10.2.10. En el Manual de Radiotelefonía de OACI pueden encontrarse ejemplos de la aplicación de la fraseología contenida en los Capítulos 6 y 10.
 
 4.10.3. Fraseología bilingüe.
 
@@ -5952,49 +6210,50 @@ La transmisión de piloto se indica con un asterisco.
 | a) ASCIENDA (o DESCIENDA); | a) CLIMB (or DESCEND); |
 | --- | --- |
 | seguido, si es necesario, de: | followed as necessary by: |
-| i) A (nivel); | i) TO (level); |
-| ii) HASTA ALCANZAR (nivel) A (o ANTES DE) LAS (hora) [o EN (punto significativo)]; | ii) TO REACH (level) AT (or BY) (time or significant point); |
-| iii) NOTIFIQUE DEJANDO (o ALCANZANDO o PASANDO POR) (nivel); | iii) REPORT LEAVING (or REACHING, or PASSING) (level); |
-| iv) NOTIFIQUE PASANDO NIVELES; | iv) REPORT PASSING LEVELS; |
-| v) A (número) METROS POR SEGUNDO (o PIES POR MINUTO) [MÍNIMO (o MÁXIMO)]; | v) AT (number) METRES PER SECOND (or FEET PER MINUTE) [MINIMUM (or MAXIMUM)]; |
+| i. A (nivel); | i. TO (level); |
+| ii. HASTA ALCANZAR (nivel) A (o ANTES DE) LAS (hora) (o EN punto significativo); | ii. TO REACH (level) AT (or BY) (time or significant point); |
+| iii. NOTIFIQUE DEJANDO (o ALCANZANDO o PASANDO POR) (nivel); | iii. REPORT LEAVING (or EACHING or PASSING) (level); |
+| iv. NOTIFIQUE PASANDO NIVELES; | iv. REPORT PASSING LEVELS; |
+| v. A (número) METROS POR SEGUNDO (o PIES POR MINUTO) [MÍNIMO (o MÁXIMO)]; | v. AT (number) METRES PER SECOND (or FEET PER MINUTE) [MINIMUM (or MAXIMUM)]; |
 | ... sólo para aeronaves SST: |  |
-| vi) NOTIFIQUE COMENZANDO LA ACELERACIÓN (o DECELERACIÓN); | vi) REPORT STARTING ACCELERATION (or DECELERATION); |
-| b) ASCIENDA ESCALONADAMENTE (identificación de la aeronave) POR ENCIMA (o POR DEBAJO) DE USTED; | b) STEP CLIM B (aircraft identification) ABOVE (or BENEATH) YOU; |
+| vi. NOTIFIQUE COMENZANDO LA ACELERACIÓN (o DECELERACIÓN); | vi. REPORT STARTING ACCELERATION (or DECELERATION); |
+| b) ASCIENDA ESCALONADAMENTE (identificación de la aeronave) POR ENCIMA (o POR DEBAJO) DE USTED; | b) STEP CLIMB (aircraft identification) ABOVE (or BENEATH) YOU; |
 | c) SOLICITE CAMBIO DE NIVEL A (nombre de la dependencia) A LAS (hora) (o EN (punto significativo)); | c) REQUEST LEVEL CHANGE FROM (name of unit) AT (time or significant point); |
-| d) INTERRUMPA ASCENSO (o DESCENSO A (nivel); | d) STOP CLIM B (or DESCENT) AT (level); |
-| e) SIGA ASCENSO (o DESCENSO) HASTA (nivel); | e) CONTINUE CLIM B (or DESCENT) TO (level); |
+| d) INTERRUMPA ASCENSO (o DESCENSO A (nivel); | d) STOP CLIMB (or DESCENT) AT (level); |
+| e) CONTINUE ASCENSO (o DESCENSO) HASTA (nivel); | e) CONTINUE CLIMB (or DESCENT) TO (level); |
 | f) ACELERE ASCENSO (o DESCENSO) [HASTA PASAR POR (nivel)]; | f) EXPEDITE CLIMB (or DESCENT) [UNTIL PASSING (level)]; |
-| g) CUANDO ESTE LISTO ASCIENDA (o DESCIENDA) HASTA (nivel); | g) WHEN READY CLIM B (or DESCEND) TO (level); |
+| g) CUANDO ESTÉ LISTO ASCIENDA (o DESCIENDA) HASTA (nivel); | g) WHEN READY CLIMB (or DESCEND) TO (level); |
 | h) DESCENSO PREVISTO A LAS (hora); | h) EXPECT DESCENT AT (time); |
 | *i) SOLICITO DESCENSO A LAS (hora); | *i) REQUEST DESCENT AT (time); |
 | ... para indicar una instrucción que ha de cumplirse a una hora o en lugar determinados: |  |
-| j) INMEDIATAMENTE; | j) IMMEDIATELY; |
+| j) INMEDIATAMENTE;k) DESPUÉS DE PASAR POR (punto significativo); | j) IMMEDIATELY; |
 | k) DESPUÉS DE PASAR POR (punto significativo); | k) AFTER PASSING (significant point); |
 | l) A LAS (hora) (o EN (punto significativo)); | l) AT (time or significant point); |
 | ... para indicar una instrucción que ha de cumplirse cuando corresponda: |  |
-| m) CUANDO ESTE LISTO (instrucciones); | m) WHEN READY (instruction); |
-| ... para indicar que la aeronave debe ascender o descender manteniendo su propia separación y VM C: |  |
-| n) CUIDANDO PROPIA SEPARACIÓN Y VMC [DESDE (nivel)] [HASTA (nivel)]; | n) MAINTAIN OWN SEPARATION AND VMC [FROM (level)] [TO (level)]; |
-| o) CUIDANDO PROPIA SEPARACIÓN Y VMC POR ENCIMA DE (o POR DEBAJO DE o HASTA ÉL) (nivel); | o) MAINTAIN OWN SEPARATION AND VMC ABOVE (or BELOW, or TO) (level); |
+| m) CUANDO ESTÉ LISTO (instrucciones); | m) WHEN READY (instruction); |
+| ... para indicar que la aeronave debe ascender o descender manteniendo su propia separación y VMC: |  |
+| n) MANTENIENDO PROPIA SEPARACIÓN Y VMC [DESDE (nivel)] [HASTA (nivel)]; | n) MAINTAIN OWN SEPARATION AND VMC [FROM (level)] [TO (level)]; |
+| o) MANTENIENDO PROPIA SEPARACIÓN Y VMC POR ENCIMA DE (o POR DEBAJO DE o HASTA EL) (nivel); | o) MAINTAIN OWN SEPARATION AND VMC ABOVE (or BELOW, or TO) (level); |
 | ... cuando exista la duda de que una aeronave pueda cumplir con una autorización o instrucción: |  |
 | p) SI NO ES POSIBLE (otras instrucciones). Y AVISE; | p) IF NOT POSSIBLE (alternative instructions). AND ADVISE; |
 | ... cuando un piloto no pueda cumplir con una autorización o instrucción: |  |
 | *q) IMPOSIBLE CUMPLIR. | *q) UNABLE TO COMPLY. |
-| ... después de modificada la velocidad vertical para cumplir un aviso de resolución ACAS (intercambio entre el piloto y el controlador) |  |
-| *r) ASCENSO TCAS (o DESCENSO); | *r) TCAS CLIM B (or DESCENT); |
-| s) (confirmación) | s) (acknowledgement); |
-| ... después de anunciar «conflicto terminado »ACAS (intercambio entre el piloto y el controlador) |  |
-| *t) REGRESO A (autorización asignada); | *t) RETURNING TO (assigned clearance); |
-| u) (confirmación) (o cambio de instrucciones); | u) (acknowledgement) (or alternative instructions); |
-| ... después de cumplido el aviso de resolución ACAS (intercambio entre el piloto y el controlador) |  |
-| *v) ASCENSO TCAS (o DESCENSO), REGRESO A (autorización asignada); | *v) TCAS CLIM B (or DESCENT), RETURNING TO (assigned clearance); |
-| w) (confirmación) (o cambio de instrucciones); | w) (acknowledgement) (or alternative instructions); |
-| ... después de reanudar la autorización anterior tras responder al aviso de resolución ACAS (intercambio entre el piloto y el controlador) |  |
-| x) ASCENSO TCAS (o DESCENSO), COMPLETADO, REANUDADA (autorización asignada); | x) TCAS CLIM B (or DESCENT), COMPLETED (assigned clearance) RESUMED; |
-| y) (confirmación) (o cambio de instrucciones); | y) (acknowledgement) (or alternative instructions); |
-| ... cuando sea imposible cumplir una autorización debido a un aviso de resolución ACAS (intercambio entre el piloto y el controlador) |  |
-| *z) IMPOSIBLE CUMPLIR AVISO DE RESOLUCIÓN TCAS; | *z) UNABLE TO COMPLY TCAS RESOLUTION ADVISORY; |
-| aa) (confirmación. | aa) (acknowledgement). |
+| ... después de que la tripulación de vuelo empiece a apartarse de la autorización o instrucción ATC para cumplir con un aviso de resolución (RA) ACAS (intercambio entre el piloto y el controlador) |  |
+| *r) RA TCAS [pronúnciese TI-CAS]; | *r) TCAS RA; |
+| s) RECIBIDO; | s) ROGER; |
+| ... después de cumplido un RA ACAS y de reanudada la autorización o instrucción ATC (intercambio entre el piloto y el controlador) |  |
+| *t) CONFLICTO TERMINADO, REGRESO A (autorización asignada); | *t) CLEAR OF CONFLICT, RETURNING TO (assigned clearance); |
+| u) RECIBIDO (o cambio de instrucciones); | u) ROGER (or alternative instructions); |
+| ... después de cumplido un RA ACAS y de reanudada la autorización o instrucción ATC asignada (intercambio entre el piloto y el controlador) |  |
+| *v) CONFLICTO TERMINADO (autorización asignada) REANUDADA; | *v) CLEAR OF CONFLICT (assigned clearance) RESUMED; |
+| w) RECIBIDO (o cambio de instrucciones); | w) ROGER (or alternative instructions); |
+| ... después de recibir una autorización o instrucción contraria a un RA ACAS, la tripulación de vuelo cumplirá con el RA y notificará directamente al ATC (intercambio entre el piloto y el controlador) |  |
+| *x) IMPOSIBLE CUMPLIR RA TCAS; | *x) UNABLE, TCAS RA; |
+| y) RECIBIDO. | y) ROGER |
+| … autorización para cancelar la(s) restricción o restricciones del perfil vertical de una SID durante el ascenso |  |
+| z) ASCIENDA A (nivel) [RESTRICCIÓN O RESTRICCIONES DE NIVEL (designador SID) CANCELADA(o) RESTRICCIÓN O RESTRICCIONES DE NIVEL (designador SID) EN (punto) CANCELADA] | z) CLIMB TO (level) [LEVEL RESTRICTION(S) (SID designator) CANCELLED (or) LEVEL RESTRICTION(S) (SID designator) AT (point) CANCELLED] |
+| … autorización para cancelar la(s) restricción o restricciones del perfil vertical de una STAR durante el descenso |  |
+| aa) DESCIENDA A (nivel) [RESTRICCIÓN O RESTRICCIONES DE NIVEL CANCELADA (designador STAR) (o) RESTRICCIÓN O RESTRICCIONES DE NIVEL (designador STAR) EN (punto) CANCELADA] | aa) DESCEND TO (level) [LEVEL RESTRICTION(S) (STAR designator) CANCELLED (or) LEVEL RESTRICTION(S) (STAR designator) AT (point) CANCELLED] |
 | * Indica una transmisión del piloto. | * Denotes pilot transmission. |
 
 4.10.3.1.3. Fraseología que se empleará en el espacio aéreo donde se utiliza una separación entre canales de 8,33 kHz.
@@ -6025,21 +6284,21 @@ La transmisión de piloto se indica con un asterisco.
 | --- | --- |
 | b) *CONFIRMO CANAL (nombre) OCHO COMA TRES TRES. | b) * AFFIRM EIGHT POINT THREE THREE CHANNEL (name). |
 
-4.10.3.1.3.3 Transferencia de control y cambio de frecuencia/ canal.
+4.10.3.1.3.3. Transferencia de control y cambio de frecuencia/canal
 
-| a) LLAME A (distintivo de llamada de la dependencia) (frecuencia) [o CANAL (nombre)]. | a) CONTA CT (unit call sign) (frequency) [or CHANNEL (name)]. |
+| a) CONTACTE CON ( distintivo de llamada de la dependencia) (frecuencia) o CANAL (nombre) | a) CONTACT (unit call sign) (frequency) (or CHANNEL (name)) |
 | --- | --- |
-| b) A LAS ( o SOBRE) (hora o lugar) [o CUANDO] [PASANDO/ ABANDONANDO / ALCANZANDO] (nivel) LLAME A ( distintivo de llamada de la dependencia) (frecuencia) [o CANAL (nombre)]. | b) AT (or OVER) (time or place) [ or WHEN ] [PASSING / LEAVING/ REACHING] (level) CONTACT (unit call sign) (frequency) (or CHANNEL (name)]. |
-| c) SI NO ESTABLECE CONTACTO (instrucciones) | c) IF NO CONTACT (instruction). |
-| d) ESCUCHE A (distintivo de llamada de la dependencia) (frecuencia) [o EN CANAL (nombre)] (1) | d) STAND BY (frequency) [or CHANNEL (name)]. |
-| e) *SOLICITO CAMBIO A (frecuencia) [o CANAL (nombre)]. | e) * REQUEST CHANGE TO (frequency) [or CHANNEL (name)]. |
-| f) CAMBIO DE FRECUENCIA (o CANAL) APROBADO. | f) FREQUENCY (or CHANNEL) CHANGE APPROVED |
-| g) VIGILE (distintivo de llamada de la dependencia) (frecuencia) (o CANAL (nombre)) | g) MONITOR (unit call sign) (frequency) (or CHANNEL (name)) |
-| h) * VIGILANDO (frecuencia) (o CANAL (nombre)) | h) *MONITORING (frequency) [or CHANNEL (name)]. |
-| i) CUANDO ESTÉ LISTO LLAME A (distintivo de llamada de la dependencia) (frecuencia) [o CANAL (nombre)]. | i) WHEN READY CONTACT (unit call sign) (frequency) [or CHANNEL (name)]. |
-| j) MANTENGA ESTA FRECUENCIA (o ESTE CANAL). | j) REMAIN THIS FREQUENCY ( or CHANNEL). |
-
-Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DOS DECIMAL CERO UNO CERO». («AIR FRANCE TWO SEVEN FOUR CONTACT FRANCE CONTROL CHANNEL ONE THREE TWO DECIMAL ZERO ONE ZERO.»
+| b) A LAS ( o SOBRE) (hora o lugar) [o CUANDO] [PASANDO/ ABANDONANDO / ALCANZANDO] (nivel) LLAME A ( distintivo de llamada de la dependencia) (frecuencia) o CANAL (nombre) | b) AT (or OVER) (time or place) [ or WHEN ] [PASSING / LEAVING/ REACHING] (level) CONTACT (unit call sign) (frequency) or CHANNEL (name) |
+| c) SI NO ESTABLECE CONTACTO (instrucciones) | c) IF NO CONTACT (instruction) |
+| d) VIGILE PARA (distintivo de llamada de la dependencia)(frecuencia) o EN CANAL (nombre) | d) STAND BY (frequency) or CHANNEL (name) FOR (unit call sign) |
+| e)* SOLICITO CAMBIO A (frecuencia) o CANAL (nombre) | e)* REQUEST CHANGE TO (frequency) or CHANNEL (name) |
+| f) CAMBIO DE FRECUENCIA (o CANAL) APROBADO | f) FREQUENCY (or CHANNEL) CHANGE APPROVED |
+| g) ESCUCHE (distintivo de llamada de la dependencia) (frecuencia) o CANAL (nombre) | g) MONITOR (unit call sign) (frequency) or CHANNEL (name) |
+| NOTA.–Puede pedirse a una aeronave que “VIGILE” una frecuencia dada, cuando exista el propósito de que la dependencia ATS inicie pronto las comunicaciones con ella y “ESCUCHE” la frecuencia cuando la información se radiodifunda en ella. |  |
+| h)* ESCUCHANDO (frecuencia) o CANAL (nombre) | h)* MONITORING (frequency) or CHANNEL (name) |
+| i) CUANDO ESTÉ LISTO LLAME A (distintivo de llamada de la dependencia) (frecuencia) o CANAL (nombre) | i) WHEN READY CONTACT (unit call sign) (frequency) or CHANNEL (name). |
+| j) MANTENGA ESTA FRECUENCIA o ESTE CANAL. | j) REMAIN THIS FREQUENCY or CHANNEL. |
+| Ejemplo: “AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DOS DECIMAL CERO UNO CERO”. (“AIR FRANCE TWO SEVEN FOUR CONTACT FRANCE CONTROL CHANNEL ONE THREE TWO DECIMAL ZERO ONE ZERO.”» |
 
 4.10.3.1.4. Cambio de distintivo de llamada.
 
@@ -6095,11 +6354,15 @@ Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DO
 | a) NOTIFIQUE PASANDO POR (punto significativo); | a) REPORT PASSING (significant point); |
 | --- | --- |
 | ... para solicitar un informe en un lugar o a una distancia determinados: |  |
-| b) NOTIFIQUE (distancia) DESDE (nombre de la estación DME) DME; | b) REPORT (distance) FROM (name of DME station) DME; |
-| c) NOTIFIQUE PASANDO (tres cifras) RADIAL (nombre del VOR) VOR; | c) REPORT PASSING (three digits) RADIAL (name of VOR) VOR; |
+| b) NOTIFIQUE (distancia) MILLAS (GNSS o DME) DESDE DME (nombre de la estación DME) (o punto significativo); | b) REPORT (distance) MILES (GNSS or DME) FROM (name of DME station) DME (or significant point); |
+| …para notificar en un lugar o a una distancia determinados: |  |
+| *c) (distancia) MILLAS (GNSS o DME) DE (nombre de la estación DME) (o punto significativo) | *c) (distance) MILES (GNSS or DME) FROM (name of DME station) (or significant point) |
+| d) NOTIFIQUE PASANDO (tres cifras) RADIAL (nombre del VOR) VOR; | d) REPORT PASSING (three digits) RADIAL (name of VOR) VOR. |
 | ... para solicitar un informe de la posición actual: |  |
-| d) NOTIFIQUE DISTANCIA DESDE (punto significativo); | d) REPORT DISTANCE FROM (significant point); |
-| e) NOTIFIQUE DISTANCIA DESDE (nombre de la estación DME) DME. | e) REPORT DISTANCE FROM (name of DME station) DME. |
+| e) NOTIFIQUE (GNSS o DME) DISTANCIA DESDE (punto significativo) (o nombre de la estación DME); | e) REPORT (GNSS or DME) DISTANCE FROM (significant point) or (name of DME station); |
+| … para notificar la posición presente: |  |
+| *f) (distancia) MILLAS (GNSS o DME) DE (nombre de la estación DME) DME (o punto significativo) | *f) (distance) MILES (GNSS or DME) FROM (name of DME station) DME (or significant point) |
+| * Indica una transmisión del piloto. | * Denotes pilot transmission. |
 
 4.10.3.1.9. Información relativa al aeródromo.
 
@@ -6183,9 +6446,9 @@ Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DO
 
 | a) CRUCE (punto significativo) A (o POR ENCIMA DE, o POR DEBAJO DE) (nivel); | a) CROSS (significant point) AT (or ABOVE, or BELOW) (level); |
 | --- | --- |
-| b) CRUCE (punto significativo) A LAS (hora) o DESPUÉS (o ANTES) A (nivel) [CUIDANDO PROPIA SEPARACIÓN Y VM C]; | b) CROSS (significant point) AT (time) or LATER (or BEFORE) AT (level) [MAINTAN ING OWN SEPARATION AND VMC]; |
-| c) ASCIENDA EN CRUCERO ENTRE (niveles) (o POR ENCIMA DEL (nivel)); | c) CRU ISE CLIM B BETWEEN (levels) (or ABOVE (level)); |
-| d) CRUCE (distancia) (nombre de estación DME) DME A (o POR ENCIMA DEL o POR DEBAJO DEL) (nivel). | d) CROSS (distance) (nam e of DME station) DME AT (or ABOVE, or BELOW) (level). |
+| b) CRUCE (punto significativo) A LAS (hora) o DESPUÉS (o ANTES) A (nivel) [CUIDANDO PROPIA SEPARACION Y VMC]; | b) CROSS (significant point) AT (time) or LATER (or BEFORE) AT (level) [MAINTANING OWN SEPARATION AND VMC]; |
+| c) ASCIENDA EN CRUCERO ENTRE (niveles) (o POR ENCIMA DEL (nivel)); | c) CRUISE CLIMB BETWEEN (levels) (or ABOVE (level)); |
+| d) CRUCE (distancia) MILLAS, (GNSS o DME) [(dirección)] DE (nombre de estación DME) (o (distancia) [(dirección)] DE (punto significativo) A (o POR ENCIMA DE o POR DEBAJO DE) (nivel). | d) CROSS (distance) MILES, (GNSS or DME) [(direction)] OF (name of DME station) (or (distance) [(direction)] OF (significant point) AT (or ABOVE or BELOW) (level).» |
 
 4.10.3.2.5. Descenso de emergencia.
 
@@ -6204,14 +6467,20 @@ Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DO
 | A LAS (hora) (o EN (posición) DESCIENDA HASTA (nivel) PARA UN RETRASO EN RUTA DE (número) MINUTOS. | AT (time or position) DESCEND TO (level) FOR EN-ROUTE DELAY OF (number) MINUTES. |
 | --- | --- |
 
-4.10.3.2.8. Instrucciones sobre separación.
+4.10.3.2.8. Si no se puede conceder la autorización para la desviación.
 
-| a) CRUCE (punto significativo) A LAS (hora); | a) CROSS (significant point) AT (time); |
+| IMPOSIBLE, TRÁNSITO (dirección) (tipo de aeronave) (nivel) ESTIMADO (o SOBRE) (punto significativo) A LAS (hora) DISTINTIVO DE LLAMADA (distintivo de llamada) NOTIFIQUE INTENCIONES. | UNABLE, TRAFFIC (direction) BOUND (type of aircraft) (level) ESTIMATED (or OVER) (significant point) AT (time) CALL SIGN (call sign) ADVISE INTENTIONS. |
 | --- | --- |
-| b) AVISE SI PUEDE CRUZAR (punto significativo) A LAS (hora); | b) ADVISE IF ABLE TO CROSS (signicant point) AT (time); |
-| c) MANTENGA MACH (número). | c) MAINTAIN MACH (number). |
 
-4.10.3.2.9 Operaciones RVSM en el espacio aéreo EUR RVSM.
+4.10.3.2.9. Instrucciones sobre separación.
+
+| a) CRUCE (punto significativo) A LAS (hora) [O DESPUÉS (o ANTES)]; | a) CROSS (significant point) AT (time) [OR LATER (or BEFORE)]; |
+| --- | --- |
+| b) NOTIFIQUE SI PUEDE CRUZAR (punto significativo) A LAS (hora o nivel); | b) ADVISE IF ABLE TO CROSS (significant point) AT (time or level); |
+| c) MANTENGA MACH (número) [O MAYOR (O MENOR)] [HASTA (punto significativo)]. | c) MAINTAIN MACH (number) [OR GREATER (OR LESS)] [UNTIL (significant point)]. |
+| d) NO SUPERE MACH (número) | d) DO NOT EXCEED MACH (number) |
+
+4.10.3.2.10 Operaciones RVSM en el espacio aéreo EUR RVSM.
 
 | Para que un controlador averigüe el estado de aprobación RVSM de una aeronave... |  |
 | --- | --- |
@@ -6236,23 +6505,41 @@ Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DO
 | Para que un controlador confirme que una aeronave ha recuperado su aprobación RVSM o para confirmar que el piloto está listo para reanudar las operaciones RVSM. |  |
 | i) NOTIFIQUE LISTO PARA REANUDAR RVSM | i) REPORT READY TO RESUME RVS |
 
-4.10.3.2.10 Operaciones RNAV.
+4.10.3.2.11 Operaciones RNAV.
 
 | Para que un piloto informe al ATC de que no puede aceptar un procedimiento RNAV de salida o llegada debido al equipo RNAV o a circunstancias relacionadas con la operación... |  |
 | --- | --- |
 | *a) IMPOSIBLE SALIDA (o LLEGADA) (designador) DEBIDO AL TIPO RNAV | *a) UNABLE (designator) DEPARTURE (or ARRIVAL) DUE RNAV TYPE |
 | Para que un piloto informe al ATC que no puede cumplir con el procedimiento de área terminal asignado... |  |
-| *b) IMPOSIBLE SALIDA (O LLEGADA) (designador) (razones) | *b) U NABLE (designator) DEPARTURE (or ARRIVAL) (reasons) |
+| *b) IMPOSIBLE SALIDA (O LLEGADA) (designador) (razones) | *b) UNABLE (designator) DEPARTURE (or ARRIVAL) (reasons) |
 | Para que el ATC informe que no puede asignar un procedimiento RNAV de salida o llegada, solicitado por el piloto, debido al tipo de equipo RNAV... |  |
-| c) IMPOSIBLE CONCEDER SALIDA (O LLEGADA) (designador) DEBIDO AL TIPO RNAV | c) U NABLE TO ISSUE (designator) DEPARTURE (or ARRIVAL) DUE RNAV TYPE |
+| c) IMPOSIBLE CONCEDER SALIDA (O LLEGADA) (designador) DEBIDO AL TIPO RNAV | c) UNABLE TO ISSUE (designator) DEPARTURE (or ARRIVAL) DUE RNAV TYPE |
 | Para que el ATC informe que no puede asignar un procedimiento de llegada o salida solicitado por el piloto por cualquier otra razón... |  |
-| d) IMPOSIBLE CONCEDER SALIDA (O LLEGADA) (designador) (razones) | d) U NABLE TO ISSUE (designator) DEPARTURE (or ARRIVAL) (reasons) |
+| d) IMPOSIBLE CONCEDER SALIDA (O LLEGADA) (designador) (razones) | d) UNABLE TO ISSUE (designator) DEPARTURE (or ARRIVAL) (reasons) |
 | Para que el ATC pida confirmación al piloto para aceptar un procedimiento RNAV de salida o llegada específico... |  |
-| e) CONFIRME SI PUEDE SALIDA (O LLEGADA) (designador) | e) A DVISE IF ABLE (designator) DEPARTURE (or ARRIVAL) |
+| e) CONFIRME SI PUEDE SALIDA (O LLEGADA) (designador) | e) ADVISE IF ABLE (designator) DEPARTURE (or ARRIVAL) |
 | Para que el piloto informe al ATC en la primera comunicación en cada frecuencia que no dispone de sistema RNAV... |  |
 | * f) (identificación de la aeronave) RNAV NEGATIVO | *f) (call sign) NEGATIVE RNAV |
 | Para que el piloto comunique al ATC la falla o degradación del sistema RNAV... |  |
 | * g) (identificación de la aeronave) IMPOSIBLE RNAV DEBIDO A EQUIPO. | *g) (call sign) UNABLE RNAV DUE EQUIPMENT |
+
+4.10.3.2.12 Estado de funcionamiento del GNSS (*).
+
+| a) SEÑAL GNSS TRANSMITIDA NO FIABLE [o SERVICIO GNSS TAL VEZ NO ESTÉ DISPONIBLE (DEBIDO A INTERFERENCIA)]: | a) GNSS REPORTED UNRELIABLE (or GNSS MAY NOT BE AVAILABLE [DUE TO INTERFERENCE]) |
+| --- | --- |
+| 1. EN LAS PROXIMIDADES DE (nombre del lugar) (radio) [ENTRE (niveles)] | 1. IN THE VICINITY OF (location) (radius) [BETWEEN(levels)] |
+| 2. EN EL ÁREA (descripción) [o EN (nombre) FIR] [ENTRE (niveles)] | 2. IN THE AREA (description) [or IN (name) FIR] [BETWEEN (levels)] |
+| b) (tipo de aproximación) LA APROXIMACIÓN PUEDE NO ESTAR DISPONIBLE [DE (hora) A (hora) (o HASTA NUEVO AVISO)]; | b) BASIC GNSS (or SBAS, or GBAS) UNAVAILABLE FOR (specify operation) [FROM (time) TO (time) (or UNTIL FURTHER NOTICE)] |
+| *c) GNSS BÁSICO NO DISPONIBLE [DEBIDO A (razón, p. Ej., PÉRDIDA DE RAIM o ALERTA RAIM]; | *c) BASIC GNSS UNAVAILABLE [DUE TO reason, e.g. LOSS OF RAIM or RAIM ALERT]; |
+| *d) GBAS (o SBAS) NO DISPONIBLE. | *d) GBAS (o SBAS) UNAVAILABLE. |
+| * Indica una transmisión del piloto. | * Denotes pilot transmission. |
+
+* Nota: El uso de esta fraseología está sujeto a la existencia del correspondiente Servicio GNSS certificado de acuerdo al marco de Cielo Único.
+
+4.10.3.2.13 Degradación de la «perfomance» de navegación de la aeronave.
+
+| IMPOSIBLE RNP (especificar tipo) (o RNAV) [DEBIDO A (razón, p. ej. PÉRDIDA DE RAIM o ALERTA RAIM)] | UNABLE RNP (specify type) (or RNAV) [DUE TO (reason e.g. LOSS OF RAIM or RAIM ALERT)]. |
+| --- | --- |
 
 4.10.3.3. Servicio de control de aproximación.
 
@@ -6270,29 +6557,36 @@ Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DO
 
 4.10.3.3.2. Instrucciones para la aproximación.
 
-| a) AUTORIZADO VÍA (designación); | a) CLEARED VIA (designation); |
+| a) AUTORIZADO (o PROCEDA)VÍA (designación); | a) CLEARED (or PROCEED) VIA (designation); |
 | --- | --- |
 | b) AUTORIZADO A (límite de la autorización) VÍA (designación); | b) CLEARED TO (clearance limit) VIA (designation); |
-| c) AUTORIZADO VÍA (detalles de la ruta que se ha de seguir); | c) CLEARED VIA (details of route to be followed); |
+| c) AUTORIZADO (o PROCEDA) VÍA (detalles de la ruta que se ha de seguir); | c) CLEARED (or PROCEED)VIA (details of route to be followed); |
 | d) AUTORIZADO APROXIMACIÓN (tipo de aproximación) [PISTA (número)]; | d) CLEARED (type approach) APPROACH [RUNWAY (number)]; |
-| e) AUTORIZADO APROXIMACIÓN [PISTA (número)]; | e) CLEARED APPROACH [RUNWAY (number)]; |
-| f) INICIE APROXIMACIÓN A LAS (hora); | f) COMMENCE APPROACH AT (time); |
-| *g) SOLICITO APROXIMACIÓN [(tipo)] DIRECTA; | *g) REQUEST STRAIGHT-IN [(type)] APPROACH; |
-| h) AUTORIZADO APROXIMACIÓN [(tipo)] DIRECTA [PISTA (número)]; | h) CLEARED STRAIGHT-IN [(type)] APPROACH [RUNWAY (number)]; |
-| i) NOTIFIQUE CONTACTO VISUAL; | i) REPORT VISUAL; |
-| j) NOTIFIQUE [LUCES DE] PISTA A LA VISTA; | j) REPORT RUNWAY [LIGHTS] IN SIGHT; |
-| *k) SOLICITO APROXIMACIÓN VISUAL; | *k) REQUEST VISUAL APPROACH; |
-| l) AUTORIZADO APROXIMACIÓN VISUAL PISTA (número); | l) CLEARED VISUAL APPROACH RUNWAY (number); |
-| m) NOTIFIQUE (punto significativo); (EN ALEJAMIENTO o ACERCAMIENTO); | m) REPORT (significant point); (OUTBOUND or INBOUND); |
-| *n) SOLICITO DESCENSO VMC; | *n) REQUEST VMC DESCENT; |
-| o) MANTENGA SU PROPIA SEPARACIÓN; | o) MAINTAIN OWN SEPARATION; |
-| p) MANTENGA VMC; | p) MAINTAIN VMC; |
-| q) ¿CONOCE PROCEDIMIENTO APROXIMACIÓN (nombre)? | q) ARE YOU FAMILIAR WITH (name) APPROACH PROCEDURE? |
-| r) NOTIFIQUE CAPACIDAD MLS; | r) REPORT MLS CAPABILITY; |
-| *s) SOLICITO APROXIMACIÓN (tipo de aproximación [PISTA (número)]; | *s) REQUEST (type of approach) APPROACH [RUNWAY (number)]; |
-| *t) SOLICITO (designador MLS/RNAV en lenguaje claro). | *t) REQUEST (MLS/RNAV plain language designator). |
-| u) AUTORIZADO (designador MLS/RNAV en lenguaje claro). | u) CLEARED (MLS/RNAV plain language designator). |
-| v) AUTORIZADO APROXIMACIÓN (tipo de aproximación) PISTA (número). DESPLAZAMIENTO LATERAL A PISTA (número). | v) CLEARED (type of approach) APPROACH RUNWAY (number). SIDE STEP TO RUNWAY (number). |
+| e) AUTORIZADO (tipo de aproximación) PISTA (número) SEGUIDO DE CIRCUITO A PISTA (número); | e) CLEARED (type of approach) RUNWAY (number) FOLLOWED BY CIRCLING TO RUNWAY (number); |
+| f) AUTORIZADO APROXIMACIÓN [PISTA (número)]; | f) CLEARED APPROACH [RUNWAY (number)]; |
+| g) INICIE APROXIMACIÓN A LAS (hora); | g) COMMENCE APPROACH AT (time); |
+| *h) SOLICITO APROXIMACIÓN DIRECTA [(tipo de aproximación)] [PISTA (número)]; | *h) REQUEST STRAIGHT-IN [(type of approach)] APPROACH [RUNWAY (number)]; |
+| i) AUTORIZADO APROXIMACIÓN DIRECTA [(tipo de aproximación)] [PISTA (número)]; | i) CLEARED STRAIGHT-IN [(type of approach)] APPROACH [RUNWAY (number)]; |
+| j) NOTIFIQUE CONTACTO VISUAL; | j) REPORT VISUAL; |
+| k) NOTIFIQUE [LUCES DE] PISTA A LA VISTA; | k) REPORT RUNWAY [LIGHTS] IN SIGHT; |
+| … cuando el piloto solicita una aproximación visual |  |
+| *l) SOLICITO APROXIMACIÓN VISUAL; | *l) REQUEST VISUAL APPROACH; |
+| m) AUTORIZADO APROXIMACIÓN VISUAL PISTA (número); | m) CLEARED VISUAL APPROACH RUNWAY (number); |
+| … para consultar si un piloto puede aceptar una aproximación visual |  |
+| n) NOTIFIQUE SI ES CAPAZ DE ACEPTAR APROXIMACIÓN VISUAL PISTA (número); | n) ADVISE ABLE TO ACCEPT VISUAL APPROACH RUNWAY (number); |
+| Nota.— Véanse en 4.4.9 las disposiciones relativas a los procedimientos de aproximación visual. |  |
+| … en caso de aproximaciones visuales sucesivas cuando el piloto de una aeronave sucesiva ha notificado tener a la vista la aeronave precedente |  |
+| o) AUTORIZADO APROXIMACIÓN VISUAL PISTA (número), MANTENGA SU PROPIA SEPARACIÓN DE LA PRECEDENTE (tipo de aeronave y categoría de estela turbulenta, según convenga) [PRECAUCIÓN ESTELA TURBULENTA] | o) CLEARED VISUAL APPROACH RUNWAY (number), MAINTAIN OWN SEPARATION FROM PRECEDING (aircraft type and wake turbulence category as appropriate) [CAUTION WAKE TURBULENCE] |
+| p) NOTIFIQUE (punto significativo); (EN ALEJAMIENTO o ACERCAMIENTO); | p) REPORT (significant point); (OUTBOUND or INBOUND); |
+| q) NOTIFIQUE INICIO VIRAJE REGLAMENTARIO; | q) REPORT COMMENCING PROCEDURE TURN; |
+| *r) SOLICITO DESCENSO VMC; | *r) REQUEST VMC DESCENT; |
+| s) MANTENGA SU PROPIA SEPARACIÓN; | s) MAINTAIN OWN SEPARATION; |
+| t) MANTENGA VMC; | t) MAINTAIN VMC; |
+| u) ¿CONOCE PROCEDIMIENTO APROXIMACIÓN (nombre)? | u) ARE YOU FAMILIAR WITH (name) APPROACH PROCEDURE? |
+| *v) SOLICITO APROXIMACIÓN (tipo de aproximación [PISTA (número)]; | *v) REQUEST (type of approach) APPROACH[RUNWAY (number)]; |
+| *w) SOLICITO (designador MLS/RNAV en lenguaje claro). | *w) REQUEST (MLS/RNAV plain language designator). |
+| x) AUTORIZADO (designador MLS/RNAV en lenguaje claro). | x) CLEARED (MLS/RNAV plain language designator). |
+| y) AUTORIZADO APROXIMACIÓN (tipo de aproximación) PISTA (número). DESPLAZAMIENTO LATERAL A PISTA (número). | y) CLEARED (type of approach) APPROACH RUNWAY (number). SIDE STEP TO RUNWAY (number). |
 | * Indica una transmisión del piloto. | * Denotes pilot transmission. |
 
 4.10.3.3.3. Instrucciones para la espera.
@@ -6399,30 +6693,28 @@ Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DO
 
 | ... para la salida: |  |
 | --- | --- |
-| *a) [tipo de aeronave] [categoría de estela turbulenta si es «pesada»] [emplazamiento de la aeronave] SOLICITO RODAJE [intenciones] | *a) [aircraft type] [wake turbulence category if «heavy»] [aircraft location] REQUEST TAXI [intentions]; |
-| *b) [tipo de aeronave] [categoría de estela turbulenta si es «pesada»] [emplazamiento de la aeronave] (reglas de vuelo) A (aeródromo de destino) SOLICITO RODAJE [intenciones]; | *b) [aircraft type] [wake turbulence category if «heavy»] [aircraft location] (flight rules) TO (aerodrome of destination) REQUEST TAXI [intentions]; |
-| c) RUEDE A PUNTO DE ESPERA [número] [PISTA (número) [HORA (minutos)]; | c) TAXI TO HOLDING POINT [number] [RUNWAY (number)] [TIME (minutes)]. |
-| Cuando se necesitan instrucciones detalladas para el rodaje: |  |
-| *d) [tipo de aeronave] [categoría de estela turbulenta si es «pesada»] SOLICITO INSTRUCCIONES DE RODAJE DETALLADAS; | *d) [aircraft type] [wake turbulence category if «heavy»] REQUEST DETAILED TAXI INSTRUCTIONS; |
-| e) RUEDE VÍA (trayecto concreto que ha de seguirse) A PUNTO DE ESPERA [número] [PISTA (número)] [HORA (minutos)]; | e) TAXI VÍA (specific routing to be followed) TO HOLDING POSITION [number] [RUNWAY (number)] [TIME (minutes)]. |
-| Cuando no se dispone de información de aeródromo proveniente de otra fuente, por ejemplo ATIS: |  |
-| f) RUEDE A PUNTO DE ESPERA [número] (seguido de información de aeródromo cuando corresponda) [HORA (minutos)]; | f) TAXI TO HOLDING POSITION [number] (followed by aerodrome information as applicable) [TIME (minutes)]; |
-| g) TOME (o VIRE) PRIMERA (o SEGUNDA) INTERSECCIÓN IZQUIERDA (o DERECHA); | g)TAKE (or TURN) FIRST (or SECOND) LEFT (or RIGHT); |
-| h) RUEDE VÍA (identificación de calle de rodaje); | h) TAXI VÍA (identification of taxiway) |
-| i) RUEDE VÍA PISTA (número); | i) TAXI VÍA RUNWAY (number); |
-| j) RUEDE A TERMINAL (u otro emplazamiento, por ejemplo, ZONA DE AVIACIÓN GENERAL) [PUESTO ESTACIONAMIENTO (número)]; | j) TAXI TO TERMINAL (or other location, e.g. GENERAL AVIATION AREA) [STAND (number)]. |
-| Para operaciones de helicópteros: |  |
-| *k) SOLICITO RODAJE AÉREO DESDE o VÍA) HASTA (emplazamiento o encaminamiento, según corresponda); | *k) REQUEST AIR-TAXIING FROM (or VIA) TO (location or routing as appropriate); |
+| *a) [tipo de aeronave] [categoría de estela turbulenta si es “pesada”] [emplazamiento de la aeronave] SOLICITO RODAJE [intenciones]; | *a) [aircraft type] [wake turbulence category if “heavy”] [aircraft location] REQUEST TAXI [intentions]; |
+| *b) [tipo de aeronave] [categoría de estela turbulenta si es “pesada”] [emplazamiento de la aeronave] (reglas de vuelo) A (aeródromo de destino SOLICITO RODAJE [intenciones]; | *b) [aircraft type] [wake turbulence category if “heavy”] [aircraft location] (flight rules) TO (aerodrome of destination) REQUEST TAXI [intentions]; |
+| c) RUEDE A PUNTO DE ESPERA [número] [PISTA (número)] [ESPERE FUERA DE PISTA (número) (o CRUCE PISTA (número))] [HORA (hora y minutos)]; | c) TAXI TO HOLDING POINT [number] [HOLD SHORT OF RUNWAY (number) (or CROSS RUNWAY (number))] [TIME (time)]; |
+| *d) [tipo de aeronave] [categoría de estela turbulenta si es “pesada”] SOLICITO INSTRUCCIONES DE RODAJE DETALLADAS; | *d) [aircraft type] [wake turbulence category if “heavy”] REQUEST DETAILED TAXI INSTRUCTIONS; |
+| e) RUEDE A PUNTO DE ESPERA [(número)] [PISTA (número)] VÍA (trayecto concreto que ha de seguirse) [HORA (hora y minutos)]; [ESPERE FUERA DE PISTA (número) (o CRUCE PISTA (número)]; | e) TAXI TO HOLDING POINT [(number)] [RUNWAY (number)] VÍA (specific routing to be followed) [TIME (hour and minutes)] [HOLD SHORT OF RUNWAY (number) (or CROSS RUNWAY (number)] |
+| f) RUEDE A PUNTO DE ESPERA [número] (seguido de información de aeródromo cuando corresponda) [HORA (hora y minutos)]; | f) TAXI TO HOLDING POINT [number] (followed by aerodrome information as applicable) [TIME (time)]; |
+| g) TOME (o VIRE) PRIMERA (o SEGUNDA) INTERSECCIÓN A IZQUIERDA) (O DERECHA); | g) TAKE (or TURN) FIRST (or SECOND) LEFT (or RIGHT); |
+| h) RUEDE VÍA (identificación de calle de rodaje): | h) TAXI VIA (identification of taxiway); |
+| i) RUEDE VÍA PISTA (número); | i) TAXI VIA RUNWAY (number); |
+| j) RUEDE A TERMINAL (u otro emplazamiento, por ejemplo, ZONA DE AVIACIÓN GENERAL) [PUESTO ESTACIONAMIENTO (número)]; | j) TAXI TO TERMINAL (or other location, e.g. GENERAL AVIATION AREA) [STAND (number)]; |
+| ... para operaciones de helicópteros |  |
+| *k) SOLICITO RODAJE AÉREO DESDE (o VÍA) HASTA (emplazamiento o encaminamiento, según corresponda); | *k) REQUEST AIR-TAXIING FROM (or VIA) TO (location or routing as appropriate); |
 | l) EFECTÚE RODAJE AÉREO HASTA (o VÍA) (emplazamiento o encaminamiento según corresponda) [PRECAUCIÓN (polvo, ventisca alta, detritos libres, aeronaves ligeras en rodaje, personal, etc.)]; | l) AIR-TAXI TO (or VIA) (location or routing as appropriate) [CAUTION (dust, blowing snow, loose debris, taxiing light aircraft, personnel, etc)]; |
 | m) EFECTÚE RODAJE AÉREO VÍA (ruta directa, solicitada o especificada) HASTA (emplazamiento, helipuerto, área de operaciones o movimiento, pista activa o inactiva). EVITE (aeronave o vehículos o personal). | m) AIR TAXI VIA (direct, as requested, or specified route) TO (location, heliport, operating or movement area, active or inactive runway). AVOID (airacraft or vehicles or personnel); |
 | ... después del aterrizaje: |  |
-| *n) SOLICITO REGRESAR POR PISTA; | *n) REQUEST BACKTRACK; |
-| o) REGRESO POR PISTA APROBADO; | o) BACKTRACK APPROVED; |
+| *n) SOLICITO REGRESAR POR LA PISTA; | *n) REQUEST BACKTRACK; |
+| o) REGRESO POR LA PISTA APROBADO; | o) BACKTRACK APPROVED; |
 | p) PISTA DE REGRESO (número); | p) BACKTRACK RUNWAY (number); |
 | ... en general: |  |
-| *q) [emplazamiento de la aeronave] SOLICITO RODAJE A (destino en el aeródromo); | *q) [aircraft location] REQUEST TAXI TO (destination on aerodrome); |
-| r) RUEDE EN LÍNEA RECTA; | r) TAXI STRAIGHT AHEAD; |
-| s) RUEDE CON CUIDADO; | s) TAXI WITH CAUTION; |
+| *q) [emplazamiento de la aeronave] SOLICITO RODAJE HASTA (destino en el aeródromo); | *q) [aircraft location] REQUEST TAXI TO (destination on aerodrome); |
+| r) RUEDE EN LINEA RECTA; | r) TAXI STRAIGHT AHEAD; |
+| s) RUEDE CON PRECAUCIÓN; | s) TAXI WITH CAUTION; |
 | t) CEDA PASO A (descripción y posición de otras aeronaves); | t) GIVE WAY TO (description and position of other aircraft); |
 | *u) CEDO PASO A (tránsito); | *u) GIVING WAY TO (traffic); |
 | *v) TRÁNSITO (o tipo de aeronave) A LA VISTA; | *v) TRAFFIC (or type of aircraft) IN SIGHT; |
@@ -6450,47 +6742,53 @@ Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DO
 
 4.10.3.4.10. Para cruzar una pista.
 
-| *a) SOLICITO CRUZAR PISTA (número); Nota: Si la torre de control no pudiera ver la aeronave que cruza (por ser de noche, por la escasa visibilidad, etc.), la instrucción debe ir acompañada en todos los casos de una petición de notificación cuando la aeronave haya dejado la pista libre. | *a) REQUEST CROSS RUNWAY (number); Note: If the control tower is unable to see the crossing aircraft (e.g. night, low visibility, etc), the instruction should always be accompanied by a request to report when the aircraft has vacated and is clear of the runway. |
+| *a) SOLICITO CRUZAR PISTA (número); | *a) REQUEST CROSS RUNWAY (number); |
 | --- | --- |
+| NOTA.–Si la torre de control no pudiera ver la aeronave que cruza (por ser de noche, por la escasa visibilidad, etc.), la instrucción debe ir acompañada en todos los casos de una petición de notificación cuando la aeronave haya dejado la pista libre. | NOTE.–If the control tower is unable to see the crossing aircraft (e.g. night, low visibility, etc), the instruction should always be accompanied by a request to report when the aircraft has vacated and is clear of the runway. |
 | b) CRUCE PISTA (número) [NOTIFIQUE PISTA LIBRE]; | b) CROSS RUNWAY (number) [REPORT VACATED]; |
-| c) APRESURE CRUCE PISTA (número) TRÁNSITO (tipo de aeronave) (distancia) KILÓMETROS (o MILLAS) FINAL; | c) EXPEDITE CROSSING RUNWAY (number) TRAFFIC (ai rcraft type) (d istance) KILOMETRES (or MILES) FINAL; |
-| *d) PISTA LIBRE. | *d) RU NWAY VACATED. |
-| * Indica una transmisión del piloto, Nota 1: Salvo especificación en contrario por el A TC, una instrucción de rodaje que contiene un límite de rodaje más allá de una pista, lleva en sí la autorización para cruzar esa pista. Nota 2: Cuando se le pida, el piloto notificará «PISTA LIBRE» cuando la aeronave haya despejado por completo la pista. | * Denotes pilot transmission. |
+| c) ACELERE CRUCE PISTA (número) TRÁNSITO (tipo de aeronave) (distancia) KILÓMETROS (o MILLAS) FINAL; | c) EXPEDITE CROSSING RUNWAY (number) TRAFFIC (aircraft type) (distance) KILOMETRES (or MILES) FINAL; |
+| d) RUEDE A PUNTO DE ESPERA [número] [PISTA (número)] VÍA (ruta específica a seguir), [ESPERE FUERA DE PISTA (número)] o [CRUCE PISTA (número)]; | d) TAXI TO HOLDING POINT [number] [RUNWAY (number)] VÍA (specific route to be followed), [HOLD SHORT OF RUNWAY (number)] or [CROSS RUNWAY (number)]; |
+| *e) PISTA LIBRE. | *e) RUNWAY VACATED. |
+| * Indica una transmisión del piloto. | * Denotes pilot transmission. |
+| Nota.–Cuando se le pida, el piloto notificará «PISTA LIBRE» cuando toda la aeronave esté más allá del punto de espera de la pista pertinente. |  |
 
-4.10.3.4.11. Preparación para el despegue.
+4.10.3.4.11 Preparación para el despegue.
 
 | a) IMPOSIBLE CONCEDER RUTA SALIDA (designador) DEBIDO (razones); | a) UNABLE TO ISSUE (designator) DEPARTURE (reasons); |
 | --- | --- |
-| b) NOTIFIQUE CUANDO LISTO [PARA SALIDA]; | b) REPORT WHEN READY [FOR DEPARTURE]; |
+| b) NOTIFIQUE LISTO [PARA SALIDA]; | b) REPORT WHEN READY [FOR DEPARTURE]; |
 | c) ¿ESTÁ LISTO [PARA SALIDA]?; | c) ARE YOU READY [FOR DEPARTURE]?; |
 | d) ¿ESTÁ LISTO PARA SALIDA INMEDIATA?; | d) ARE YOU READY FOR IMMEDIATE DEPARTURE?; |
 | *e) LISTO; | *e) READY; |
 | ... si no se puede autorizar el despegue: |  |
 | f) ESPERE [motivo]; | f) WAIT [reason]; |
 | ... autorización para entrar a la pista y esperar la autorización de despegue: |  |
-| g) ENTRE Y MANTENGA; Nota: A continuación puede ir f). | g) LINE UP; Note: May be followed by phraseology f). |
+| g) ENTRE Y MANTENGA; | g) LINE UP AND WAIT; |
+| Nota.–A continuación puede ir f). |  |
 | +h) ENTRE Y MANTENGA PISTA (número); | +h) LINE UP RUNWAY (number); |
 | i) ENTRE Y MANTENGA. ESTÉ LISTO PARA SALIDA INMEDIATA; | i) LINE UP. BE READY FOR IMMEDIATE DEPARTURE; |
 | ... autorizaciones condicionales: |  |
-| ++j) (condición) ENTRE Y MANTENGA; | ++j) (condition) LINE UP; |
+| ++j) (condición) ENTRE Y MANTENGA (breve reiteración de la condición); | ++j) (condition) LINE UP (brief reiteration of the condition); |
 | ... acuse de recibo de una autorización condicional: |  |
-| *k) (condición) ENTRAR Y MANTENER; | *k) (condition) LINING UP; |
-| ... confirmación, o no confirmación de la colación de autorización condicional: |  |
-| l) CORRECTO (o REPITO... (según corresponda)). | l) [THAT IS] CORRECT (or I SAY AGAIN... (as appropriate)). |
-| *m) SOLICITO SALIDA DESDE INTERSECCIÓN PISTA (número) CON (CALLE DE RODAJE (designador)) (o PISTA (número); | *m) REQUEST DEPARTURE FROM RUNWAY (number) INTERSECTION WITH (TAXIWAY (designator) (or RUNWAY (number)); |
-| n) NOTIFIQUE SI PUEDE SALIR DESDE INTERSECCIÓN PISTA (número) CON (CALLE DE RODAJE (designador) (o PISTA (número); | n) REPORT IF ABLE TO DEPART FROM RUNWAY (number) INTERSECTION WITH (TAXIWAY (designator)) (or RUNWAY (number)); |
-| o) DESDE INTERSECCIÓN PISTA (número) CON (CALLE DE RODAJE (designador) (o PISTA número)) (distancia) METROS DISPONIBLES | o) FROM RUNWAY (number) INTERSECTION WITH (TAXYWAY (designator)) (or RUNWAY (number)) (distance) METRES AVAILABLE |
-| * Indica una transmisión del piloto. + Cuando exista posibilidad de confusión durante operaciones en varias pistas a la vez. ++ Las disposiciones relativas al uso de las autorizaciones condicionales figuran en 4.10.2.4. | * Denotes pilot transmission. + When there is the possibility of confusion during multiple runway operations ++ Provisions concerning the use of conditional clearances are contained in 4.10.2.4. |
+| *k) (condición) ENTRAR Y MANTENER (breve reiteración de la condición); | *k) (condition) LINING UP (brief reiteration of the condition); |
+| ... confirmación, o no confirmación de la colación de autorización condicional |  |
+| l) CORRECTO (o NEGATIVO [REPITO]... (según corresponda)). | l) [THAT IS] CORRECT (or NEGATIVE I SAY AGAIN]... (as appropriate)). |
+| *m) SOLICITO SALIDA DESDE INTERSECCIÓN PISTA (número) CON (CALLE DE RODAJE (designador)) (o PISTA (número)); | *m) REQUEST DEPARTURE FROM RUNWAY(number) INTERSECTION WITH (TAXIWAY(designator) (or RUNWAY (number)); |
+| n) NOTIFIQUE SI PUEDE SALIR DESDE INTERSECCIÓN PISTA (número) CON (CALLE DE RODAJE (designador) (o PISTA (número) | n) REPORT IF ABLE TO DEPART FROM RUNWAY(number) INTERSECTION WITH (TAXIWAY (designator)) (or RUNWAY (number)); |
+| o) DESDE INTERSECCION PISTA (número) CON (CALLE DE RODAJE (designador) (o PISTA (número)) (distancia) METROS DISPONIBLES | o) FROM RUNWAY (number) INTERSECTION WITH (TAXIWAY (designator)) (or RUNWAY (number)) (distance) METRES AVAILABLE |
+| * Indica una transmisión del piloto. | * Denotes pilot transmission. |
+| + Cuando exista posibilidad de confusión durante operaciones en varias pistas a la vez. | + When there is the possibility of confusion during multiple runway operations |
+| ++ Las disposiciones relativas al uso de las autorizaciones condicionales figuran en 4.10.2.4. | ++ Provisions concerning the use of conditional clearances are contained in 4.10.2.4. |
 
-4.10.3.4.12. Autorización de despegue.
+4.10.3.4.12 Autorización de despegue.
 
-| a) AUTORIZADO A DESPEGAR [NOTIFIQUE EN EL AIRE]; | a) CLEARED FOR TAKE-OFF [REPORT AIRBORNE]; |
+| a) PISTA (número) AUTORIZADO A DESPEGAR [NOTIFIQUE EN EL AIRE]; | a) RUNWAY (number) CLEARED FOR TAKE-OFF [REPORT AIRBORNE]; |
 | --- | --- |
-| ... cuando haya posibilidad de confusión: |  |
-| b) AUTORIZADO A DESPEGAR PISTA (número); | b) CLEARED FOR TAKE-OFF RUNWAY (number); |
-| ... cuando no se ha cumplido con la autorización de despegue: |  |
-| c) DESPEGUE INMEDIATO O DEJE LA PISTA LIBRE; | c) TAKE OFF IM M EDIATELY OR VACATE RUNWAY; |
-| d) DESPEGUE INMEDIATO O ESPERE CERCA DE LA PISTA; | d) TAKE OFF IM M EDIATELY OR HOLD SHORT OF RUNWAY; |
+| ...cuando se utiliza separación en la pista reducida: |  |
+| b) (información de tránsito) PISTA (número) AUTORIZADO A DESPEGAR; | b) (traffic information) RUNWAY (number) CLEARED FOR TAKE-OFF; |
+| ...cuando no se ha cumplido con la autorización de despegue: |  |
+| c) DESPEGUE INMEDIATO O DEJE LA PISTA LIBRE [instrucciones)]; | c) TAKE OFF IMMEDIATELY OR VACATE RUNWAY [instructions)]; |
+| d) DESPEGUE INMEDIATO O ESPERE CERCA DE LA PISTA; | d) TAKE OFF IMMEDIATELY OR HOLD SHORT OF RUNWAY; |
 | ... para cancelar autorización de despegue: |  |
 | e) MANTENGA POSICIÓN, CANCELE REPITO CANCELE DESPEGUE (motivo); | e) HOLD POSITION, CANCEL I SAY AGAIN CANCEL TAKE-OFF (reasons); |
 | *f) MANTENGO POSICIÓN; | *f) HOLDING; |
@@ -6500,8 +6798,9 @@ Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DO
 | ... para operaciones de helicópteros desde áreas que no sean las de maniobras |  |
 | i) AUTORIZADO A DESPEGAR DESDE (posición actual, calle de rodaje, área de aproximación final y de despegue, pista, número); | i) CLEARED FOR TAKE-OFF FROM (present position, taxiway, final approach and take-off area, runway and number); |
 | *j) SOLICITO INSTRUCCIONES DE SALIDA; | *j) REQUEST DEPARTURE INSTRUCTIONS; |
-| k) DESPUÉS DE LA SALIDA, VIRE DERECHA (o IZQUIERDA, o ASCIENDA) instrucciones según corresponda). | k) AFTER DEPARTURE TURN RIGHT (or LEFT, or CLIM B) (instructions as appropriate). |
-| * Indica transmisión del piloto. MANTENGO POSICIÓN y PARO son las respuestas reglamentarias a e) y g), respectivamente. | * Denotes pilot transmission. HOLDING and STOPPING are the procedural responses to e) and g) respectively. |
+| k) DESPUÉS DE LA SALIDA, VIRE DERECHA (o IZQUIERDA, o ASCIENDA) instrucciones según corresponda). | k) AFTER DEPARTURE TURN RIGHT (or LEFT, or CLIMB) (instructions as appropriate). |
+| * Indica transmisión del piloto. | * Denotes pilot transmission. |
+| MANTENGO POSICIÓN y PARO son las respuestas reglamentarias a e) y g), respectivamente. | HOLDING and STOPPING are the procedural responses to e) and g) respectively. |
 
 4.10.3.4.13. Después del despegue.
 
@@ -6522,14 +6821,12 @@ Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DO
 
 | *a) [tipo de aeronave] (posición) (nivel) PARA ATERRIZAR; | *a) [aircraft type] (position) (level) FOR LANDING; |
 | --- | --- |
-| b) ENTRE EN (posición en el circuito) (número de pista) VIENTO [EN LA SUPERFICIE] (dirección y velocidad) [TEMPERATURA (grados Celsius)] QNH (o QFE) (detalle) [HECTOPASCALES] [TRÁNSITO (detalles)]; | b) JOIN (position in circuit) (runway number) [SURFACE] WIND (direction and speed) [TEMPERATURE (degrees Celsius)] QNH (or QFE) (detail) [HECTOPASCALS] [TRAFFIC (detail)]; .../... |
-| c) EFECTÚE APROXIMACIÓN DIRECTA, PISTA (número) VIENTO [EN LA SUPERFICIE] (dirección y velocidad) [TEMPERATURA (grados Celsius)] QNH (o QFE) (detalles) [HECTOPASCALES] [TRÁNSITO (detalles)]; | c) MAKE STRAIGHT-IN APPROACH, RUNWAY (number) [SURFACE] WIND (direction and speed) [TEMPERATURE (degrees Celsius)] QNH (or QFE) (detail) [HECTOPASCALS] [TRAFFIC (detail)]; |
-| ... cuando se usa el circuito de tránsito por la derecha: |  |
-| d) ENTRE POR LA DERECHA (posición en circuito) (número de pista) VIENTO [EN LA SUPERFICIE] (dirección y velocidad) [TEMPERATURA (grados Celsius)] QNH (o QFE) (detalles) [HECTOPASCALES] [TRÁNSITO (detalles)]; | d) JOIN RIGHT HAND (position in circuit) (runway number) [SURFACE] WIND (direction and speed) [TEMPERATURE (degrees Celsius)] QNH (or QFE) (detail) [HECTOPASCALS] [TRAFFIC (detail)]; |
+| b) ENTRE EN [(sentido del circuito)] (posición en el circuito) (número de pista) VIENTO [EN LA SUPERFICIE] (dirección y velocidad) [TEMPERATURA (grados Celsius)] QNH (o QFE) (detalle) [HECTOPASCALES [TRÁNSITO (detalles)]; | b) JOIN [(direction of the circuit)] (position in circuit) (runway number) [SURFACE] WIND(direction and speed) [TEMPERATURE(degrees Celsius)] QNH (or QFE)] (detail) [HECTOPASCALS] [TRAFFIC (detail)]; |
+| c) EFECTÚE APROXIMACIÓN DIRECTA, PISTA (número) VIENTO [EN LA SUPERFICIE] (dirección y velocidad) [TEMPERATURA (grados Celsius)] QNH (o QFE) (detalles) [HECTOPASCALES] [TRÁNSITO (detalles)]; | c) MAKE STRAIGHT-IN APPROACH, RUNWAY(number) [SURFACE] WIND (direction and speed) [TEMPERATURE (degrees Celsius)] QNH (or QFE) (detail) [HECTOPASCALS] [TRAFFIC (detail)]; |
 | ... cuando se dispone de información ATIS: |  |
-| *e) (tipo de aeronave) (posición) (nivel) INFORMACIÓN (identificación ATIS) PARA ATERRIZAR; | *e) (aircraft type) (position) (level) INFORMATION (ATIS identification) FOR LANDING; |
-| f) ENTRE EN (posición en circuito) [PISTA (número)] QNH (o QFE) (detalles) [HECTO- PASCALES] [TRÁNSITO (detalle)]. | f) JOIN (position in circuit) [RUNWAY (number)] QNH (or QFE) (detail) [HECTOPASCALS] [TRAFFIC (detail)]. |
-| * Indica una transmisión del piloto. | * Denotes pilot transmission. |
+| *d) (tipo de aeronave) (posición) (nivel) INFORMACIÓN (identificación ATIS) PARA ATERRIZAR; | *d) (aircraft type) (position) (level) INFORMATION (ATIS identification) FOR LANDING; |
+| e) ENTRE EN (posición en circuito) [PISTA (número)] QNH (o QFE) (detalles) HECTOPASCALES] [TRÁNSITO (detalle)]. | e) JOIN (position in circuit) [RUNWAY (number)] QNH (or QFE) (detail) [HECTOPASCALS] [TRAFFIC (detail)]. |
+| * Indica una transmisión del piloto. | * Denotes pilot transmission.» |
 
 4.10.3.4.15. En el circuito.
 
@@ -6546,35 +6843,35 @@ Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DO
 | c) NOTIFIQUE TRAMO BÁSICO (o FINAL, o FINAL LARGA); | c) REPORT BASE (or FINAL, or LONG FINAL); |
 | d) CONTINÚE LA APROXIMACIÓN. Nota: Se efectúa la notificación «FINAL LARGA» cuando la aeronave se dirige a la aproximación final a una distancia mayor de 7 km (4 NM) desde el punto de toma de contacto, o cuando la aeronave, en una aproximación directa, se halla a 15 km (9 NM) del punto de toma de contacto. En ambos casos se requiere la notificación «FINAL» a 7 km (4 NM) del punto de toma de contacto. | d) CONTINUE APPROACH. |
 
-4.10.3.4.17. Aterrizaje.
+4.10.3.4.17. Autorización de aterrizaje.
 
-| a) AUTORIZADO A ATERRIZAR; | a) CLEARED TO LAND; |
+| a) PISTA (número) AUTORIZADO A ATERRIZAR; | a) RUNWAY (number) CLEARED TO LAND; |
 | --- | --- |
-| ... operaciones en varias pistas: |  |
-| b) AUTORIZADO A ATERRIZAR PISTA (número); | b) CLEARED TO LAND RUNWAY (number); |
+| ... cuando se utiliza separación reducida en la pista |  |
+| b) (información de tránsito) PISTA (número) AUTORIZADO A ATERRIZAR; | b) (traffic information) RUNWAY (number) CLEARED TO LAND; |
 | ... operaciones especiales: |  |
 | c) AUTORIZADO A TOMA Y DESPEGUE; | c) CLEARED TOUCH AND GO; |
 | d) ATERRIZAJE COMPLETO; | d) MAKE FULL STOP; |
 | ... para hacer una aproximación a lo largo de una pista, o paralelamente a ella, descendiendo a un nivel mínimo convenido: |  |
 | *e) SOLICITO APROXIMACIÓN BAJA (razones); | *e) REQUEST LOW APPROACH (reasons); |
-| f) AUTORIZADO A APROXIMACIÓN BAJA [PISTA (número)] [(restricción) de altitud si fuera necesario) (instrucciones para dar otra vuelta al circuito)]; | f) CLEARED LOW APPROACH [RUNWAY (number)] [(altitude restriction if required) (go around instructions)]; |
+| f) AUTORIZADO A APROXIMACIÓN BAJA [PISTA (número)] [(restricción) de altitud si fuera necesario) (instrucciones para dar otra vuelta al circuito)]; | o |
 | ... para sobrevolar la torre de control u otro punto de observación para inspección visual por personas en tierra: |  |
 | *g) SOLICITO PASADA BAJA (razones); | *g) REQUEST LOW PASS (reasons); |
 | h) AUTORIZADO A PASADA BAJA [como en (f)]. | h) CLEARED LOW PASS [as in (f)]. |
 | ... para operaciones de helicópteros |  |
-| *i) SOLICITO APROXIMACIÓN DIRECTA (o EN CIRCUITO, VIRAJE IZQUIERDA (o DERECHA) HASTA (emplazamiento)); | *i) REQUEST STRAIGHT-IN (or CIRCLING APPROACH, LEFT (or RIGHT) TURN TO (location)); |
-| j) EFECTÚE APROXIMACIÓN DIRECTA (o EN CIRCUITO), VIRE IZQUIERDA (o DERECHA) HACIA (emplazamiento, pista, calle de rodaje, área de aproximación final y de despegue) [LLEGADA (o RUTA DE LLEGADA) (número, nombre o código)]. [MANTENGA POSICIÓN ANTES DE (pista activa, prolongación del eje de la pista, otros lugares)]. [PERMANEZCA (orientación con respecto a o distancia) DE (la pista, el eje de la pista, otro helicóptero o aeronave)]. [PRECAUCIÓN (líneas de conducción de energía eléctrica, obstrucciones sin iluminar estela turbulenta, etc)]. AUTORIZADO A ATERRIZAR. | j) MAKE STRAIGHT-IN (or CIRCLING APPROACH, LEFT (or RIGHT) TURN TO (location, runway, taxiway, final approach and take-off area)) [ARRIVAL (or ARRIVAL ROUTE) (number, name, or code)]. [HOLD SHORT OF (active runway, extended runway centre line, other)]. [REMAIN (direction or distance) FROM (runway, runway centre line, other helicopter or aircraft)]. [CAUTION (power lines, unlighted obstructions, wake turbulence, etc.)]. CLEARED TO LAND. |
-| ... para autorizar un aterrizaje en cumplimiento de 4.5.15.2. y en aplicación de 4.5.15.1.1.1.1. |  |
+| *i) SOLICITO APROXIMACIÓN DIRECTA (o EN CIRCUITO, VIRAJE IZQUIERDA (o DERECHA) HASTA (emplazamiento)); | *i) REQUEST STRAIGHT-IN (or CIRCLING APPROACH, LEFT (or RIGHT) TURN TO(location)); |
+| j) EFECTÚE APROXIMACIÓN DIRECTA (o EN CIRCUITO), VIRE IZQUIERDA (o DERECHA) HACIA (emplazamiento, pista, calle de rodaje, área de aproximación final y de despegue) [LLEGADA (o RUTA DE LLEGADA) (número, nombre o código)]. [MANTENGA POSICIÓN ANTES DE (pista activa, prolongación del eje de la pista, otros lugares)]. [PERMANEZCA (orientación con respecto a o distancia) DE (la pista, el eje de la pista, otro helicóptero o aeronave)]. PRECAUCIÓN (líneas de conducción de energía eléctrica, obstrucciones sin iluminar estela turbulenta, etc.)]. AUTORIZADO A ATERRIZAR. | j) MAKE STRAIGHT-IN (or CIRCLING APPROACH, LEFT (or RIGHT) TURN TO (location, runway, taxiway, final approach and take-off area)) [ARRIVAL (or ARRIVAL ROUTE) (number, name, or code)]. [HOLD SHORT OF (active runway, extended runway centre line, other)]. [REMAIN(direction or distance) FROM (runway, runway centre line, other helicopter or aircraft)]. [CAUTION (power lines, unlighted obstructions, wake turbulence, etc.)]. CLEARED TO LAND. |
+| ... para autorizar un aterrizaje en cumplimiento de 4.5.10.1.1.1. |  |
 | k) DETRÁS DEL (tipo de aeronave) ATERRIZANDO (o DESPEGANDO) AUTORIZADO A ATERRIZAR. | k) BEHIND LANDING (or DEPARTING) (type of aircraft) CLEARED TO LAND. |
-| ... para autorizar un aterrizaje en cumplimiento de 4.5.15.2. y en aplicación de 4.5.15.1.1.b) |  |
+| ... para autorizar un aterrizaje en cumplimiento de 4.5.10.2.1.1. |  |
 | l) DETRÁS DEL (tipo de aeronave) ATERRIZANDO EN PISTA (o DESPEGANDO DE PISTA) (número) AUTORIZADO A ATERRIZAR. | l) BEHIND (type of aircraft) LANDING RUNWAY (or TAKING OFF RUNWAY) (number) CLEARED TO LAND. |
 | * Indica una transmisión del piloto. | * Denotes pilot transmission. |
 
-4.10.3.4.18. Para demorar aeronaves.
+4.10.3.4.18 Para demorar aeronaves.
 
-| a) CIRCULE ALREDEDOR AERÓDROMO; | a) CIRCLE THE AERODROME; |
+| a) CIRCULE ALREDEDOR AERÓDROMO | a) CIRCLE THE AERODROME; |
 | --- | --- |
-| b) VUELE EN CIRCUITOS (HACIA LA DERECHA o HACIA LA IZQUIERDA) [DESDE SU POSICIÓN ACTUAL]; | b) ORBIT (RIGHT, or LEFT) [FROM PRESENT POSITION]; |
+| b) VUELE EN CÍRCULOS (HACIA LA DERECHA o HACIA LA IZQUIERDA) [DESDE SU POSICIÓN ACTUAL] | b) ORBIT (RIGHT, or LEFT) [FROM PRESENT POSITION]; |
 | c) DE OTRA VUELTA. | c) MAKE ANOTHER CIRCUIT. |
 
 4.10.3.4.19. Aproximación frustrada.
@@ -6673,9 +6970,9 @@ Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DO
 | a) TRANSFERENCIA LLEGADA (distintivo de llamada de la aeronave) [RESPONDEDOR (código SSR)] (tipo) DE (punto de salida) TRANSFERENCIA EN (punto significativo) (o A LAS (hora) o A (nivel) AUTORIZADA Y PREVISTA (límite de la autorización) (hora) A (nivel) [HORA PREVISTA DE APROXIMACIÓN o NO HAY DEMORA PREVISTA] LLAME A LAS (hora). | a) INBOUND RELEASE (aircraft call sign) [SQUAWKING (SSR code)] (type) FROM (departure point) RELEASED AT (significant point, or time, or level) CLEARED TO AND ESTIMATING (clearance limit) (time) AT (level) [EXPECTED APPROACH TIME or NO DELAY EXPECTED] CONTACT AT (time). |
 | --- | --- |
 
-4.10.3.5.6. Relevo de radar.
+4.10.3.5.6 Transferencia.
 
-| a) RELEVO DE RADAR (distintivo de llamada de la aeronave) [RESPONDEDOR (código SSR)] POSICIÓN (posición de la aeronave o punto significativo) (nivel) | a) RADAR HAN DOVER (aircraft call sign) [SQUAWKING (SSR code)] POSITION (aircraft position or significant point) (level). |
+| a) TRANSFERENCIA (distintivo de llamada de la aeronave) [RESPONDEDOR (código SSR)] POSICIÓN (posición de la aeronave o punto significativo) (nivel). | a) HANDOVER (aircraft call sign) [SQUAWKING (SSR code)] POSITION (aircraft position or significant point) (level). |
 | --- | --- |
 
 4.10.3.5.7. Concesión de autorización.
@@ -6700,11 +6997,27 @@ Ejemplo: «AIR FRANCE DOS SIETE CUATRO LLAME A CONTROL FRANCIA CANAL UNO TRES DO
 | Para comunicar la falla o degradación del sistema RNAV. |  |
 | b) RNAV FUERA DE SERVICIO | b) RNAV OUT OF SERVICE |
 
-4.10.4. Fraseología radar.
+4.10.3.5.10 Fraseología para usar en CPDLC.
 
-Nota: A continuación se incluye la fraseología específicamente aplicable cuando se utiliza el radar en el suministro de servicios de tránsito aéreo. La fraseología detallada de las secciones anteriores para utilizarla en el suministro de los servicios de tránsito aéreo es también aplicable, según sea apropiado, cuando se utiliza el radar.
+4.10.3.5.10.1 Estado operacional.
 
-4.10.4.1. Fraseología general de radar.
+| ...fallo de CPDLC |  |
+| --- | --- |
+| a) [A TODAS LAS ESTACIONES] FALLA CPDLC (instrucciones); | a) [ALL STATIONS] CPDLC FAILURE (instructions); |
+| ... fallo de un solo mensaje CPDLC |  |
+| b) FALLO DE MENSAJE CPDLC (autorización, instrucción, información o solicitud correctas); | b) CPDLC MESSAGE FAILURE (appropriate clearance, instruction, information or request); |
+| ... para corregir las autorizaciones, instrucciones, información o solicitudes de CPDLC |  |
+| c) IGNORE EL MENSAJE CPDLC (tipo de mensaje), INTERRUPCIÓN (autorización, instrucción, información o solicitud correctas); | c) DISREGARD CPDLC (message type) MESSAGE, BREAK (correct clearance, instruction, information or request); |
+| ... para dar instrucciones a todas las estaciones o a un vuelo específico para que eviten enviar solicitudes de CPDLC durante un período de tiempo limitado |  |
+| d) [A TODAS LAS ESTACIONES] DEJEN DE ENVIAR SOLICITUDES CPDLC [HASTA RECIBIR AVISO] [(motivos)]; | d) [ALL STATIONS] STOP SENDING CPDLC REQUESTS [UNTIL ADVISED] [(reason)]; |
+| ... para reanudar el uso normal de CPDLC |  |
+| e) [A TODAS LAS ESTACIONES] REANUDEN LAS OPERACIONES CPDLC NORMALES. | e) [ALL STATIONS] RESUME NORMAL CPDLC OPERATIONS.» |
+
+4.10.4. Fraseología del servicio de vigilancia ATS.
+
+Nota.–A continuación se incluye la fraseología específicamente aplicable cuando se utiliza un servicio de vigilancia ATS en el suministro de servicios de tránsito aéreo. La fraseología detallada de las secciones anteriores para utilizarla en el suministro de los servicios de tránsito aéreo es también aplicable, según sea apropiado, cuando se utiliza un servicio de vigilancia ATS.
+
+4.10.4.1. Fraseología general de servicios de vigilancia ATS.
 
 4.10.4.1.1. Identificación de aeronave.
 
@@ -6733,25 +7046,25 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 | g) VUELE RUMBO (tres cifras), CUANDO PUEDA DIRÍJASE DIRECTAMENTE A (nombre) (ayuda para la navegación o punto de recorrido); | g) FLY HEADING (three digits), WHEN ABLE PROCEED DIRECT (name) (navaid or waypoint); |
 | h) RUMBO CORRECTO. | h) HEADING IS GOOD. |
 
-4.10.4.1.4. Terminación de guía vectorial radar.
+4.10.4.1.4. Terminación de guía vectorial:
 
-| a) REANUDE SU NAVEGACIÓN (posición de la aeronave) (instrucciones específicas); | a) RESUME OWN NAVIGATION (position of aircraft) (specific instructions); |
+| a) REANUDE PROPIA NAVEGACIÓN (posición de la aeronave) (instrucciones específicas); | a) RESUME OWN NAVIGATION (position of aircraft) (specific instructions); |
 | --- | --- |
-| b) REANUDE SU NAVEGACIÓN [DIRECTO A] (punto significativo) [DERROTA MAGNÉTICA (tres cifras) DISTANCIA (número) KILÓMETROS (o MILLAS)]. | b) RESUME OWN NAVIGATION [DIRECT] (significant point) [MAGNETIC TRACK (three digits) DISTANCE (number) KILOMETRES (or MILES)]. |
+| b) REANUDE PROPIA NAVEGACIÓN [DIRECTO A] (punto significativo) [DERROTA MAGNÉTICA (tres cifras) DISTANCIA (número) KILÓMETROS (o MILLAS)]. | b) RESUME OWN NAVIGATION [DIRECT] (significant point) [MAGNETIC TRACK (three digits) DISTANCE (number) KILOMETRES (or MILES)]. |
 
-4.10.4.1.5. Maniobras.
+4.10.4.1.5 Maniobras.
 
-| a) VIRE TRES, SEIS, CERO GRADOS A LA IZQUIERDA ( o A LA DERECHA) [motivo]; | a) MAKE A THREE SIXTY TU RN LEFT (or RIGHT) [reason]; |
+| a) HAGA UN TRES, SEIS, CERO A LA IZQUIERDA (o A LA DERECHA) [motivo]; | a) MAKE A THREE SIXTY TURN LEFT (or RIGHT) [reason]; |
 | --- | --- |
-| b) VIRE EN ÓRBITA A LA IZQUIERDA (o A LA DERECHA) [motivo]; | b) ORBIT LEFT (or RIGHT [reason]; |
-| c) HAGA TODOS LOS VIRAJES A RÉGIMEN UNO (o MITAD o (número) GRADOS POR SEGUNDO) EJECUTE INSTRUCCIONES TAN PRONTO LAS RECIBA; | c) MAKE ALL TU RNS RATE ON E (or RATE HALF, or (number) DEGREES PER SECOND) EXECUTE INSTRUCTIONS IMMEDIATELY UPON RECEIPT; |
+| b) ORBITE (VIRAJE IZQUIERDA o DERECHA, si necesario)SOBRE [motivo]; | b) ORBIT LEFT (or RIGHT [reason]); |
+| c) HAGA TODOS LOS VIRAJES A REGIMEN UNO (o MITAD o (número) GRADOS POR SEGUNDO) EJECUTE INSTRUCCIONES TAN PRONTO LAS RECIBA; | c) MAKE ALL TURNS RATE ONE (or RATE HALF, or (number) DEGREES PER SECOND) EXECUTE INSTRUCTIONS IMMEDIATELY UPON RECEIPT; |
 | d) VIRE A LA IZQUIERDA (o A LA DERECHA) AHORA; | d) TURN LEFT (or RIGHT) NOW; |
 | e) INTERRUMPA VIRAJE AHORA. | e) STOP TURN NOW. |
-| Nota: Cuando sea necesario especificar un motivo para la guía vectorial radar o para las maniobras mencionadas debería utilizarse la fraseología siguiente: |  |
-| a) TRÁNSITO PREVISTO; | a) DUE TRAFFIC; |
-| b) PARA SEPARACIÓN; | b) FOR SPACING; |
-| c) PARA SECUENCIA CON TRÁNSITO (POSICIÓN) | c) FOR DELAY; |
-| d) PARA TRAMO A FAVOR DEL VIENTO (o BÁSICO o FINAL). | d) FOR DOWNWIND (or BASE, or FINAL). |
+| NOTA.–Cuando sea necesario especificar un motivo para la guía vectorial o para las maniobras mencionadas debería utilizarse la fraseología siguiente: |  |
+| a) DEBIDO A TRÁFICO; | a) DUE TO TRAFFIC; |
+| b) PARA SEPARACIÓN DE TRÁFICO; | b) FOR TRAFFIC SEPARATION; |
+| c) PARA SECUENCIA DE TRÁFICO (POSICIÓN) | c) FOR TRAFFIC SECUENCY (POSITION); |
+| d) PARA PROCEDER A TRAMO VIENTO EN COLA (BASE o FINAL). | d) FOR DOWNWIND (BASE, or FINAL). |
 
 4.10.4.1.6. Control de velocidad.
 
@@ -6768,9 +7081,9 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 | j) SIN LIMITACIONES DE VELOCIDAD [POR ATC]. | j) NO [ATC] SPEED RESTRICTIONS. |
 | * Indica una transmisión del piloto. | * Denotes pilot transmission. |
 
-4.10.4.1.7. Notificación de posición.
+4.10.4.1.7. Notificación de la posición.
 
-| ...para omitir los informes de posición durante el vuelo bajo control radar: |  |
+| ...para omitir los informes de posición durante el vuelo: |  |
 | --- | --- |
 | a) OMITA INFORMES DE POSICIÓN [HASTA (especificar)]; | a) OMIT POSITION REPORTS [UNTIL (specify)]; |
 | b) PRÓXIMO INFORME EN (punto significativo); | b) NEXT REPORT AT (significant point); |
@@ -6803,25 +7116,31 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 
 4.10.4.1.9. Comunicaciones y pérdida de comunicaciones.
 
-| a) EN CASO DE FALLA DE RADIO (instrucciones); | a) [IF] RADIO CONTACT LOST (instructions); |
+| a) EN CASO DE FALLO DE RADIO (instrucciones); | a) [IF] RADIO CONTACT LOST (instructions); |
 | --- | --- |
 | b) SI NO RECIBE COMUNICACIÓN DURANTE (número) MINUTOS (o SEGUNDOS) (instrucciones); | b) IF NO TRANSMISSIONS RECEIVED FOR (number) MINUTES (or SECONDS) (instructions); |
 | c) RESPUESTA NO RECIBIDA (instrucciones); | c) REPLY NOT RECEIVED (instructions); |
 | ...si se sospecha que se han interrumpido las comunicaciones: |  |
 | d) SI ME RECIBE [instrucciones de maniobras] o TRANSPONDEDOR (código o IDENT)]; | d) IF YOU READ [manoeuvre instructions or SQUAWK (code or IDENT)]; |
-| e) (maniobra o TRANSPONDEDOR) OBSERVADA. POSICIÓN (posición de la aeronave). CONTINUARÉ DANDO INSTRUCCIONES. | e) (manoeuvre or SQUAWK) OBSERVED. POSITION (position of aircraft). WILL CONTINUE TO PASS INSTRUCTIONS. |
+| e) (maniobra, TRANSPONDEDOR o IDENTIFIQUE) OBSERVADA. POSICIÓN (posición de la aeronave). [(instrucciones)]. | e) (manoeuvre, SQUAWK or IDENT) OBSERVED. POSITION (position of aircraft). [(instructions)]. |
 
-4.10.4.1.10. Terminación de servicio radar.
+4.10.4.1.10 Terminación de servicio radar o de servicio ADS-B.
 
-| a) CONTROL RADAR TERMINADO [DEBIDO A motivos)]; | a) RADAR CONTROL TERM INATED [DUE (reason)]; |
+| a) SERVICIO RADAR (o IDENTIFICACIÓN) TERMINADO [DEBIDO A (motivos)] (instrucciones); | a) RADAR SERVICE (or IDENTIFICATION) TERMINATED [DUE (reason)] (instructions); |
 | --- | --- |
-| b) SERVICIO RADAR TERMINADO (instrucciones) | b) RADAR SERVICE TERMINATED (instructions); |
-| c) LA IDENTIFICACIÓN SE PERDERÁ PRONTO (instrucciones o información apropiadas); | c) WILL SHORTLY LOSE IDENTIFICATION (appropriate instructions or information); |
-| d) IDENTIFICACIÓN PERDIDA [motivos] (instrucciones). | d) IDENTIFICATION LOST [reasons] (instructions). |
+| b) LA IDENTIFICACIÓN SE PERDERÁ PRONTO (instrucciones o información apropiadas); | b) WILL SHORTLY LOSE IDENTIFICATION (appropriate instructions or information); |
+| c) IDENTIFICACIÓN PERDIDA [motivos] (instrucciones). | c) IDENTIFICATION LOST [reasons] (instructions). |
 
-4.10.4.1.11. Información sobre presencia de aves.
+4.10.4.1.11 Degradación del equipo radar o ADS-B.
 
-| BANDADA (o NUMEROSAS BANDADAS) DE (tamaño, si se conoce) (especie, si se conoce) (o AVES) A LAS (número) horas (número) MILLAS (dirección de vuelo, si se conoce) ÚLTIMA ALTITUD NOTIFICADA (altitud notificada por un piloto) [o ALTITUD DESCONOCIDA]. | FLOCK (or NUMEROUS FLOCKS) of (size if) known (species if known) (or BIRDS) AT (number) O'CLOCK (number) MILES (flying direction, if known) LAST REPORTED ALTITUDE (altitude reported by a pilot) [or ALTITU DE UNKNOWN]. |
+| a) RADAR SECUNDARIO FUERA DE SERVICIO (información apropiada necesaria); | a) SECONDARY RADAR OUT OF SERVICE (appropriate information as necessary); |
+| --- | --- |
+| b) RADAR PRIMARIO FUERA DE SERVICIO (información apropiada necesaria); | b) PRIMARY RADAR OUT OF SERVICE (appropriate information as necessary); |
+| c) ADS-B FUERA DE SERVICIO (información apropiada necesaria). | c) ADS-B OUT OF SERVICE (appropriate information as necessary). |
+
+4.10.4.1.12 Información sobre presencia de aves.
+
+| BANDADA (o NUMEROSAS BANDADAS) DE (tamaño, si se conoce) (especie, si se conoce) (o AVES) A LAS (número) horas (número) MILLAS (dirección de vuelo, si se conoce) ÚLTIMA ALTITUD NOTIFICADA (altitud notificada por un piloto) [o ALTITUD DESCONOCIDA]. | FLOCK (or NUMEROUS FLOCKS) of (size if) known (species if known) (or BIRDS) AT (number) O’CLOCK (number) MILES (flying direction, if known) LAST REPORTED ALTITUDE (altitude reported by a pilot) [or ALTITUDE UNKNOWN]. |
 | --- | --- |
 
 4.10.4.2. Radar para servicio de control de aproximación.
@@ -6838,32 +7157,34 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 
 4.10.4.2.2. Guía vectorial para ILS y otras ayudas interpretadas por el piloto.
 
-| a) POSICIÓN (número de) KILÓMETROS (o MILLAS) desde (punto de referencia). VIRE A IZQUIERDA (o DERECHA) RUMBO (tres dígitos) | a) POSITION (number) KILOMETRES (or MILES) FROM (fix). TURN LEFT (or RIGHT) HEADING (three digits). |
+| a) POSICIÓN (número de) KILÓMETROS (o MILLAS) desde (punto de referencia). VIRE A IZQUIERDA (o DERECHA) RUMBO (tres dígitos). | a) POSITION (number) KILOMETRES (or MILES) FROM (fix). TURN LEFT (or RIGHT) HEADING (three digits). |
 | --- | --- |
 | b) INTERCEPTARA (radioayuda o derrota) A (distancia) DE (punto significativo o PUNTO DE TOMA DE CONTACTO); | b) YOU WILL INTERCEPT (radio aid or track) (distance) FROM (significant point or TOUCHDOWN); |
-| ...cuando el piloto desea que se le ubique a determinada distancia del punto de toma de contacto: |  |
+| ... cuando el piloto desea que se le ubique a determinada distancia del punto de toma de contacto: |  |
 | *c) SOLICITO (distancia) FINAL; | *c) REQUEST (distance) FINAL; |
 | d) AUTORIZADO A APROXIMACIÓN (tipo) PISTA (número); | d) CLEARED FOR (type) APPROACH RUNWAY (number); |
-| ... instrucciones e información: |  |
-| e) NOTIFIQUE ESTABLECIDO [SOBRE DERROTA DE APROXIMACIÓN M LS] o [SOBRE ILS (LOCALIZADOR) o TRAYECTORIA DE PLANEO)]; | e) REPORT ESTABLISHED [ON M LS APPROACH TRACK] or [ON ILS (LOCALIZER) or GLIDE PATH)]; |
+| .... instrucciones e información |  |
+| e) NOTIFIQUE ESTABLECIDO SOBRE LOCALIZADOR [ILS] (o SOBRE CURSO DE APROXIMACIÓN GBAS/SBAS/MLS); | e) REPORT ESTABLISHED ON [ILS] LOCALIZER (or ON GBAS/SBAS/MLS APPROACH COURSE); |
 | f) SE ACERCA DESDE LA IZQUIERDA (o LA DERECHA) [NOTIFIQUE ESTABLECIDO]; | f) CLOSING FROM LEFT (or RIGHT) [REPORT ESTABLISHED]; |
 | g) VIRE A LA IZQUIERDA (o A LA DERECHA) RUMBO (tres cifras) [HASTA INTERCEPTAR] o [NOTIFIQUE ESTABLECIDO]; | g) TURN LEFT (or RIGHT) HEADING (three digits) [TO INTERCEPT] or [REPORT ESTABLISHED]; |
 | h) PREVEA GUÍA VECTORIAL PARA CRUZAR (rumbo del localizador o ayuda) (motivo); | h) EXPECT VECTOR ACROSS (localizer course or aid) (reason); |
-| i) ESTE VIRAJE LE HARÁ PASAR POR (ayuda) [motivo]; | i) THIS TURN WILL TAKE YOU THROUGH (aid) [reason]; |
+| i) ESTE VIRAJE LE HARA PASAR POR (ayuda) [motivo]; | i) THIS TURN WILL TAKE YOU THROUGH (aid) [reason]; |
 | j) LE LLEVAMOS A PASAR POR (ayuda) [motivo]; | j) TAKING YOU THROUGH (aid) [reason]; |
 | k) MANTENGA (altitud) HASTA INTERCEPTACIÓN TRAYECTORIA DE PLANEO; | k) MAINTAIN (altitude) UNTIL GLIDE PATH INTERCEPTION; |
 | l) NOTIFIQUE ESTABLECIDO SOBRE TRAYECTORIA DE PLANEO; | l) REPORT ESTABLISHED ON GLIDE PATH; |
 | m) INTERCEPTE (radioayuda)] [NOTIFIQUE ESTABLECIDO]. | m) INTERCEPT (radio aid) [REPORT ESTABLISHED]. |
 | * Indica una transmisión del piloto. | * Denotes pilot transmission. |
 
-4.10.4.2.3. Maniobra durante aproximaciones paralelas independientes y dependientes.
+4.10.4.2.3 Maniobra durante aproximaciones paralelas independientes y dependientes.
 
-| a) AUTORIZADO A APROXIMACIÓN ILS (o M LS) PISTA (número) IZQUIERDA (o DERECHA). | a) CLEARED FOR ILS (or M LS) APPROACH RUNWAY (number) LEFT (or RIGHT). |
+| a) AUTORIZADO A APROXIMACIÓN (tipo de aproximación) PISTA (número) IZQUIERDA (o DERECHA). | a) CLEARED FOR (type of approach) APPROACH RUNWAY (number) LEFT (or RIGHT). |
 | --- | --- |
-| b) USTED HA CRUZADO EL RUMBO DEL LOCALIZADOR (o DERROTA DE APROXIMACIÓN FINAL MLS). VIRE IZQUIERDA (o DERECHA) INMEDIATAMENTE Y VUELVA AL LOCALIZADOR (o DERROTA DE APROXIMACIÓN FINAL M LS); | b) YOU HAVE CROSSED THE LOCALIZER (or MLS FINAL APPROACH TRACK). TURN LEFT (or RIGHT) IMMEDIATELY AND RETURN TO THE LOCALIZER (or MLS FINAL APPROACH TRACK); |
-| c) ILS (o MLS) PISTA (número) IZQUIERDA (o DERECHA) LA FRECUENCIA DEL LOCALIZADOR (o M LS) ES (frecuencia) | c) ILS (or MLS) RUNWAY (number) LEFT (or RIGHT) LOCALIZER (or MLS) FREQUENCY IS (frequency). |
+| b) HA CRUZADO EL LOCALIZADOR (o RUMBO DE APROXIMACIÓN FINAL GBAS/SBAS/MLS). VIRE IZQUIERDA (o DERECHA) INMEDIATAMENTE Y VUELVA AL LOCALIZADOR (o RUMBO DE APROXIMACIÓN FINAL GBAS/SBAS/MLS) | b) YOU HAVE CROSSED THE LOCALIZER (or GBAS/SBAS/MLS FINAL APPROACH COURSE). TURN LEFT (or RIGHT) IMMEDIATELY AND RETURN TO THE LOCALIZER (or GBAS/SBAS/MLS FINAL APPROACH COURSE); |
+| c) ILS (o MLS) PISTA (número) IZQUIERDA (o DERECHA) LA FRECUENCIA DEL LOCALIZADOR (o MLS) ES (frecuencia) | c) ILS (or MLS) RUNWAY (number) LEFT (or RIGHT) LOCALIZER (or MLS) FREQUENCY IS (frequency). |
 | ... para medidas de evasión si se observa que la aeronave penetra en la NTZ: |  |
-| d) VIRE IZQUIERDA (o DERECHA) (número) GRADOS O (RUMBO) (tres dígitos) INMEDIATAMENTE PARA EVADIR TRÁNSITO [DESVIARSE DE APROXIMACIÓN ADYACENTE, ASCIENDA A (altitud)]. | d) TURN LEFT (or RIGHT) (number) DEGREES (or HEADING) (three digits) IMMEDIATELY TO AVOID TRAFFIC [DEVIATING FROM ADJACENT APPROACH], CLIM B TO (altitude). |
+| d) VIRE IZQUIERDA (o DERECHA) (número) GRADOS O (RUMBO) (tres dígitos) INMEDIATAMENTE PARA EVADIR TRÁNSITO [DESVIARSE DE APROXIMACIÓN ADYACENTE, ASCIENDA A (altitud)]. | d) TURN LEFT (or RIGHT) (number) DEGREES (or HEADING) (three digits) IMMEDIATELY TO AVOID TRAFFIC [DEVIATING FROM ADJACENT APPROACH], CLIMB TO (altitude). |
+| ... para medidas de evasión por debajo de 120 m (400 ft) sobre la elevación del umbral de la pista, cuando se están aplicando las superficies de evaluación de obstáculos para aproximaciones paralelas (PAOAS) |  |
+| e) ASCIENDA A (altitud) INMEDIATAMENTE PARA EVADIR TRÁNSITO [DESVIÁNDOSE DE LA APROXIMACIÓN ADYACENTE] (nuevas instrucciones). | e) CLIMB TO (altitude) INMEDIATELY TO AVOID TRAFFIC [DEVIATING FROM ADJACENT APPROACH] (further instructions). |
 
 4.10.4.2.4. Aproximación por radar de vigilancia.
 
@@ -6966,15 +7287,21 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 | *e) METO MOTOR. | *e) GOING AROUND. |
 | * Indica una transmisión del piloto. | * Denotes pilot transmission. |
 
-4.10.4.3. Fraseología de radar secundario de vigilancia.
+4.10.4.3. Fraseología de radar secundario de vigilancia (SSR) y de ADS-B.
 
-4.10.4.3.1. Para preguntar sobre capacidad del equipo SSR de a bordo.
+4.10.4.3.1 Para preguntar sobre capacidad del equipo SSR y del ADS-B.
 
-| a) INDIQUE TIPO DE TRANSPONDEDOR; | a) ADVISE TYPE OF TRANSPON DER; |
+| Para preguntar sobre capacidad del equipo SSR de a bordo |  |
 | --- | --- |
+| a) NOTIFIQUE TIPO DE TRANSPONDEDOR; | a) ADVISE TYPE OF TRANSPONDER; |
 | *b) TRANSPONDEDOR (como se haya indicado en el plan de vuelo); | *b) TRANSPONDER (as shown in the flight plan); |
 | *c) NEGATIVO TRANSPONDEDOR; | *c) NEGATIVE TRANSPONDER; |
-| * Indica una transmisión del piloto. | * Denotes pilot transm ission. |
+| Para preguntar cuál es la capacidad del equipo ADS-B |  |
+| d) NOTIFIQUE CAPACIDAD ADS-B; | d) ADVISE ADS-B CAPABILITY; |
+| *e) TRANSMISOR ADS-B (enlace de datos); | *e) ADS-B TRANSMITTER (data link); |
+| *f) RECEPTOR ADS-B (enlace de datos); | *f) ADS-B RECEIVER (data link); |
+| *g) NEGATIVO ADS-B. | *g) NEGATIVE ADS-B; |
+| * Indica una transmisión del piloto. | * Denotes pilot transmission. |
 
 4.10.4.3.2. Para dar instrucciones relativas al reglaje del transpondedor.
 
@@ -6991,7 +7318,7 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 
 4.10.4.3.4. Para pedir nueva selección de identificación de aeronave.
 
-| CAMBIE A IDENTIFICACIÓN EN MODOS. | RESET MODES IDENTIFICATION. |
+| VUELVA A INTRODUCIR [ADS-B o MODO S] LA IDENTIFICACIÓN DE LA AERONAVE. | REENTER [ADS-B or MODE S] AIRCRAFT IDENTIFICATION. |
 | --- | --- |
 
 4.10.4.3.5. Para pedir al piloto que confirme el código en Modo A seleccionado en el transpondedor de la aeronave.
@@ -7003,10 +7330,11 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 
 4.10.4.3.6. Para solicitar que se active el dispositivo IDENTIFICACIÓN.
 
-| a) RESPONDA IDENTIFICACIÓN; | a) SQUAWK IDENT; |
+| a) RESPONDA [(código)] [E] IDENTIFICACIÓN; | a) SQUAWK [(code)] [AND] IDENT; |
 | --- | --- |
 | b) RESPONDA BAJO; | b) SQUAWK LOW; |
-| c) RESPONDA NORMAL. | c) SQUAWK NORMAL |
+| c) RESPONDA NORMAL; | c) SQUAWK NORMAL; |
+| d) TRANSMITA ADS-B IDENTIFICACIÓN. | d) TRANSMIT ADS-B IDENT. |
 
 4.10.4.3.7 Para solicitar la suspensión temporal de la operación del transpondedor.
 
@@ -7018,15 +7346,21 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 | RESPONDA MAY DAY. | SQUAWK MAYDAY. |
 | --- | --- |
 
-4.10.4.3.9. Para solicitar la terminación del transpondedor.
+4.10.4.3.9. Para solicitar la terminación del transpondedor o del transmisor ADS-B (*).
 
-| APAGUE TRANSPONDEDOR. | STOP SQUAWK. |
+Nota.–Quizás no sean posibles en todas las aeronaves las operaciones independientes de transpondedor en Modo S y ADS-B (p.ej., cuando se proporciona ADS-B únicamente por medio de señales espontáneas de 1090 MHz emitidas desde el transpondedor). En esos casos, es posible que las aeronaves no puedan cumplir con las instrucciones ATC relativas a la operación ADS-B.
+
+| a) INTERRUMPA TRANSPONDEDOR; [TRANSMITA ADS-B ÚNICAMENTE]; | a) STOP SQUAWK; [TRANSMIT ADS-B ONLY]; |
 | --- | --- |
+| b) INTERRUMPA LA TRANSMISIÓN ADS-B [RESPONDA (código) ÚNICAMENTE]. | b) STOP ADS-B TRANSMISSION [SQUAWK (code) ONLY]. |
 
-4.10.4.3.10. Para solicitar la transmisión de la altitud de presión.
+(*) El uso de la fraseología correspondiente a ADS-B está sujeto a la existencia del Servicio ADS-B certificado de acuerdo al marco de Cielo Único.
 
-| RESPONDA CHARLIE. | SQUAWK CHARLIE. |
+4.10.4.3.10 Para solicitar la transmisión de la altitud de presión.
+
+| a) RESPONDA CHARLIE; | a) SQUAWK CHARLIE; |
 | --- | --- |
+| b) TRANSMITA LA ALTITUD ADS-B. | b) TRANSMIT ADS-B ALTITUDE. |
 
 4.10.4.3.11. Para solicitar la comprobación del reglaje de presión y la confirmación del nivel.
 
@@ -7035,8 +7369,11 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 
 4.10.4.3.12. Para solicitar que se interrumpa la transmisión relativa a la altitud de presión debido a funcionamiento defectuoso.
 
-| APAGUE TRANSPONDEDOR CHARLIE. INDICACIÓN ERRÓNEA. | STOP SQUAWK CHARLIE. WRONG INDICATION. |
+Nota.–Véase la Nota al apartado 4.10.4.3.9.
+
+| a) INTERRUMPA TRANSPONDEDOR CHARLIE. INDICACION ERRÓNEA; | a) STOP SQUAWK CHARLIE. WRONG INDICATION; |
 | --- | --- |
+| b) INTERRUMPA LA TRANSMISIÓN DE LA ALTITUD ADS-B [(INDICACIÓN ERRÓNEA, o motivos)]. | b) STOP ADS-B ALTITUDE TRANSMISSION [(WRONG INDICATION, or reason)]. |
 
 4.10.4.3.13. Para solicitar verificación de altitud.
 
@@ -7049,15 +7386,56 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 | APAGUE MODO TRES. | STOP SQUAWK MODE THREE. |
 | --- | --- |
 
-4.10.4.3.15 Fraseología de la vigilancia dependiente automática (ADS).
+4.10.4.3.15 Fraseología de la Vigilancia Dependencia Automática (ADS) – Contrato (ADS-C).
 
-4.10.4.3.15.1. Fraseología general ADS. Circunstancias.
+4.10.4.3.15.1. Fraseología general ADS-C.
 
-4.10.4.3.15.1.1 Degradación ADS.
+Circunstancias.
 
-| Fraseología | Phraseologies |
+4.10.4.3.15.1.1 Degradación ADS-C.
+
+| ADS-C (o ADS CONTRATO) FUERA DE SERVICIO (información apropiada si necesaria). | ADS-C (or ADS-CONTRACT) OUT OF SERVICE (appropriate information as necessary). |
 | --- | --- |
-| ADS (o VIGILANCIA DEPENDIENTE AUTOMÁTICA) FUERA DE SERVICIO (información apropiada si necesaria). | ADS (or AUTOMATIC DEPENDENT SURVEILLANCE) OUT OF SERVICE (appropriate information as necessary). |
+
+4.10.4.3.16 Fraseología de alerta.
+
+4.10.4.3.16.1 Aviso de baja altitud.
+
+| (distintivo de llamada de la aeronave) AVISO DE BAJA ALTITUD, COMPRUEBE SU ALTITUD INMEDIATAMENTE, QNH ES (número) [(unidad)]. [LA ALTITUD DE VUELO MÍNIMA ES (altitud)]. | (aircraft call sign) LOW ALTITUDE WARNING, CHECK YOUR ALTITUDE IMMEDIATELY, QNH IS (number) [(units)]. [THE MINIMUM FLIGHT ALTITUDE IS (altitude)]. |
+| --- | --- |
+
+4.10.4.3.16.2 Aviso de proximidad del terreno.
+
+| (distintivo de llamada de la aeronave) ALERTA DE PROXIMIDAD DEL TERRENO, (maniobra sugerida al piloto, si es posible realizarla). | (aircraft call sign) TERRAIN ALERT (suggested pilot action, if possible). |
+| --- | --- |
+
+4.10.4.3.17 Fraseología del personal de tierra/tripulación de vuelo.
+
+4.10.4.3.17.1 Procedimientos de puesta en marcha (personal de tierra y de a bordo).
+
+| a) ¿[ESTÁ] LISTO PARA PUESTA EN MARCHA?; | a) [ARE YOU] READY TO START UP?; |
+| --- | --- |
+| *b) PONIENDO EN MARCHA NÚMERO [número (de motores)]. | *b) STARTING NUMBER (engine number(s)). |
+| Nota 1.- Después de este diálogo el personal de tierra deberá responder mediante el intercomunicador, o bien mediante una señal visual clara, para indicar que está todo despejado y que la puesta en marcha puede tener lugar como se ha indicado. | Note 1.- The ground crew should follow this exchange by either a reply on the intercom or a distinct visual signal to indicate that all is clear and that the start-up as indicated may proceed. |
+| Nota 2.- La identificación inequívoca de las partes interesadas es indispensable en cualquier comunicación entre el personal de tierra y los pilotos. | Note 2.- Unambiguous identification of the parties concerned is essential in any communications between ground crew and pilots. |
+| * Indica una transmisión del piloto. | * Denotes pilot transmission. |
+
+4.10.4.3.17.2 Procedimiento de retroceso remolcado.
+
+| a) ¿LISTO PARA RETROCESO REMOLCADO? | a) ARE YOU READY FOR PUSHBACK; |
+| --- | --- |
+| *b) LISTO PARA RETROCESO REMOLCADO; | *b) READY FOR PUSHBACK; |
+| c) CONFIRME FRENOS SUELTOS; | c) CONFIRM BRAKES RELEASED; |
+| *d) FRENOS SUELTOS; | *d) BRAKES RELEASED; |
+| e) INICIANDO REMOLQUE; | e) COMMENCING PUSHBACK; |
+| f) REMOLQUE COMPLETADO; | f) PUSHBACK COMPLETED; |
+| *g) INTERRUMPA REMOLQUE; | *g) STOP PUSHBACK; |
+| h) CONFIRME FRENOS PUESTOS; | h) CONFIRM BRAKES SET; |
+| *i) FRENOS PUESTOS; | *i) BRAKES SET; |
+| *j) DESCONECTE; | *j) DISCONNECT; |
+| k) DESCONECTANDO, ESPERE INDICACIÓN VISUAL A SU IZQUIERDA (o DERECHA). | k) DISCONNECTING STAND BY FOR VISUAL AT YOUR LEFT (or RIGHT). |
+| Nota.- Después de este diálogo viene una señal visual al piloto para indicar que se ha terminado la desconexión y que todo está despejado para el rodaje. | Note.- This exchange is followed by a visual signal to the pilot to indicate that disconnect is completed and all is clear for taxiing. |
+| * Indica una transmisión del piloto. | * Denotes pilot transmission. |
 
 CAPÍTULO 11
 
@@ -8139,6 +8517,10 @@ Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede estab
 Las aeronaves que utilicen CPDLC deberán cumplimentar debidamente el plan de vuelo asignando la letra correspondiente de enlace de datos, de conformidad con las disposiciones del Apéndice A y con las publicaciones de información aeronáutica correspondientes (AIP).
 
 Para rellenar la casilla del plan de vuelo correspondiente a enlace de datos (CPDLC), las aeronaves deben contar con el equipamiento y procedimientos operacionales de aeronave adecuados, autorizados a través de la correspondiente aprobación operacional o autorización equivalente emitida por el Estado de matrícula o del operador.
+
+> Se modifican los Capítulos 2 a 10 por el art. único 9 a 17 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268
+
+> Redactado conforme a la Orden PRE/2071/2011, de 18 de julio por la que se corrigen errores en la Orden citada. Ref. BOE-A-2011-12727
 
 > Se modifican los Capítulos 3 y 10 y se añaden los Capítulo 11 y 12 por el art.único.3 de la Orden PRE/697/2008, de 12 de marzo. Ref. BOE-A-2008-5008
 

@@ -138,7 +138,7 @@ Nota: En caso de operación radiotelefónica se proporcionará registro de la vo
 
 10.3.5.1.4. En los registros escritos, cualquier corrección que sea necesaria se hará solamente por la persona que originalmente hizo la anotación. La corrección se efectuará trazando una sola línea a mano o a máquina sobre la anotación incorrecta, agregando las iniciales de la persona que hace la corrección y hora y fecha en que se hizo. La anotación correcta se hará en la línea siguiente a la última anotación.
 
-10.3.5.1.5. Los registros de telecomunicaciones, escritos o automáticos, se conservarán por un término de 30 días, por lo menos. En caso de necesitarse con motivo de alguna averiguación o investigación, se retendrán todos los registros por períodos de mayor duración, hasta que se compruebe que ya no serán necesarios.
+10.3.5.1.5. Los registros de telecomunicaciones, escritos o automáticos, se conservarán por un término de 45 días, por lo menos. En caso de necesitarse con motivo de alguna averiguación o investigación, se retendrán todos los registros por períodos de mayor duración, hasta que se compruebe que ya no serán necesarios.
 
 10.3.5.1.6. Se anotará en los registros escritos la información siguiente:
 
@@ -547,19 +547,19 @@ SVC ® QSP ® CNL ® C ® K ® BG ® BIˉ<°ˉ
 
 10.4.4.1.6. Conservación de los registros del tráfico de la AFTN durante largos períodos.
 
-10.4.4.1.6.1. Se conservarán copias de todos los mensajes completos transmitidos por una estación AFTN de origen durante un período de 30 días por lo menos.
+10.4.4.1.6.1. Se conservarán copias de todos los mensajes completos transmitidos por una estación AFTN de origen durante un período de 45 días por lo menos.
 
-Nota: Aunque la estación AFTN de origen sea siempre responsable de que se conserven los registros del tráfico AFTN, no es necesariamente la dependencia donde se llevan y mantienen dichos registros. Mediante acuerdos locales, el Estado puede permitir que los remitentes lleven a cabo esas funciones.
+Nota.–Aunque la estación AFTN de origen sea siempre responsable de que se conserven los registros del tráfico AFTN, no es necesariamente la dependencia donde se llevan y mantienen dichos registros. Mediante acuerdos locales, el Estado puede permitir que los remitentes lleven a cabo esas funciones.
 
-10.4.4.1.6.2. Las estaciones AFTN de destino conservarán, durante un período de 30 días por lo menos, un registro que contenga la información necesaria para identificar a todos los mensajes recibidos y las medidas tomadas sobre los mismos.
+10.4.4.1.6.2 Las estaciones AFTN de destino conservarán, durante un período de 45 días por lo menos, un registro que contenga la información necesaria para identificar a todos los mensajes recibidos y las medidas tomadas sobre los mismos.
 
-Nota: Se puede cumplir con la disposición referente a la identificación de los mensajes que se menciona en 10.4.4.1.6.2 mediante el registro de las partes del encabezamiento, dirección y procedencia de los mensajes.
+Nota.–Se puede cumplir con la disposición referente a la identificación de los mensajes que se menciona en 10.4.4.1.6.2 mediante el registro de las partes del encabezamiento, dirección y procedencia de los mensajes.
 
-10.4.4.1.6.3. Los centros de comunicaciones AFTN conservarán, durante un período de 30 días por lo menos, un registro que contenga la información necesaria para identificar todos los mensajes retransmitidos y las medidas tomadas sobre los mismos.
+10.4.4.1.6.3 Los centros de comunicaciones AFTN conservarán, durante un período de 45 días por lo menos, un registro que contenga la información necesaria para identificar todos los mensajes retransmitidos y las medidas tomadas sobre los mismos.
 
-Nota 1: Se puede cumplir con la disposición referente a la identificación de los mensajes que se menciona en 10.4.4.1.6.3 mediante el registro de las partes del encabezamiento, dirección y procedencia de los mensajes.
+Nota 1. Se puede cumplir con la disposición referente a la identificación de los mensajes que se menciona en 10.4.4.1.6.3 mediante el registro de las partes del encabezamiento, dirección y procedencia de los mensajes.
 
-Nota 2: Las disposiciones relativas a la conservación de los registros del tráfico de la AFTN en los centros de comunicaciones AFTN figuran en 10.4.4.1.7.
+Nota 2. Las disposiciones relativas a la conservación de los registros del tráfico de la AFTN en los centros de comunicaciones AFTN figuran en 10.4.4.1.7.»
 
 10.4.4.1.7. Conservación de los registros del tráfico de la AFTN durante cortos períodos.
 
@@ -3401,6 +3401,8 @@ Nota: No se esperará ninguna respuesta a tal llamada general a no ser que se ll
 10.8.2.14.4.1 Únicamente el sistema de a bordo iniciará la terminación del servicio de entrega de autorización anticipada.
 
 10.8.2.14.4.2 Se terminará el servicio de entrega de autorización anticipada con una dependencia ATC siempre que la autoridad de datos posterior pase a ser la autoridad de datos vigente.
+
+> Se modifican los Capítulos 3 y 4 por el art. único.19 y 20 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268
 
 > Se añade el Capítulo 8 por el art.único.4 de la Orden PRE/697/2008, de 12 de marzo. Ref. BOE-A-2008-5008
 

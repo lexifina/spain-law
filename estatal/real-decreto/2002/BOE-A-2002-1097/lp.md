@@ -42,9 +42,9 @@ Actuación humana.
 
 Capacidades y limitaciones humanas que repercuten en la seguridad y eficiencia de las operaciones aeronáuticas.
 
-Acuerdo ADS.
+Acuerdo ADS-C.
 
-Plan de notificación ADS que rige las condiciones de notificación de datos ADS (o sea, aquéllos que exige la dependencia de servicios de tránsito aéreo, así como la frecuencia de dichas notificaciones, que deben acordarse antes de proporcionarse los servicios ADS).
+Plan de notificación que rige las condiciones de notificación de datos ADS-C (o sea, aquellos que exige la dependencia de servicios de tránsito aéreo, así como la frecuencia de dichas notificaciones, que deben acordarse antes de utilizar la ADS-C en el suministro de servicios de tránsito aéreo).
 
 Acuerdos de tránsito directo.
 
@@ -541,6 +541,18 @@ Aviónica de a bordo.
 
 Expresión que designa todo dispositivo electrónico y su parte eléctrica utilizado a bordo de las aeronaves, incluyendo las instalaciones de radio, los mandos de vuelo automáticos y los sistemas de instrumentos.
 
+Aviso de Tránsito.
+
+Indicación dada a la tripulación de vuelo en cuanto a que determinado intruso constituye una amenaza posible.
+
+Aviso de Resolución.
+
+Indicación transmitida a la tripulación de vuelo recomendando:
+
+a) una maniobra destinada a proporcionar separación de todas las amenazas; o
+
+b) restricción de las maniobras con el fin de que se mantenga la separación actual.
+
 Baliza.
 
 Objeto expuesto sobre el nivel del terreno para indicar un obstáculo o trazar un límite.
@@ -635,9 +647,11 @@ Carta de altitudes mínimas de guía vectorial radar.
 
 Carta en la que figuran las altitudes MSL más bajas a las que un controlador radar puede proporcionar guía vectorial radar a las aeronaves.
 
-Carta Operacional.
+Carta de exenciones para operaciones especiales.
 
-Carta que recoge el acuerdo suscrito entre el Estado Mayor del Ejército del Aire, la Dirección General de Aviación Civil y el Director General o cargo equivalente del Organismo Público encargado de las operaciones, puntualizando las condiciones, medios y procedimientos necesarios para regular la cooperación mutua o la forma de llevar a cabo ciertas operaciones especiales para la realización de misiones de interés público, que por su urgencia o características pudieran verse afectadas por la estricta observación del Reglamento de Circulación Aérea.
+Carta que recoge el acuerdo suscrito a alto nivel entre el Estado Mayor del Ejército del Aire, la Dirección General de Aviación Civil y el Director General o cargo equivalente del Organismo Público encargado de las operaciones, puntualizando las condiciones, medios y procedimientos necesarios para regular la cooperación mutua o la forma de llevar a cabo ciertas operaciones especiales para la realización de misiones de interés público, que por su urgencia o características pudieran verse afectadas por la estricta observación del Reglamento de Circulación Aérea.
+
+Nota.–Anteriormente este tipo de carta se conocía como Carta Operacional.
 
 Centro coordinador de salvamento.
 
@@ -779,10 +793,6 @@ Comunicaciones necesarias para ejercer la autoridad respecto a la iniciación, c
 
 (1) Tales comunicaciones son normalmente necesarias para el intercambio de mensajes entre las aeronaves y las empresas explotadoras de aeronaves.
 
-Comunicación de tierra a aire.
-
-Comunicación en un sólo sentido, de las estaciones o puntos situados en la superficie de la tierra a las aeronaves.
-
 Comunicaciones «en conferencia».
 
 Instalaciones de comunicaciones por las que se pueden llevar a cabo comunicaciones orales directas entre tres o más lugares simultáneamente.
@@ -832,10 +842,6 @@ Diálogo con un meteorólogo o con otra persona calificada sobre las condiciones
 Contacto radar.
 
 (Ver Identificación radar).
-
-Contrato ADS.
-
-Medio que permite al sistema de tierra y a la aeronave establecer las condiciones de un acuerdo ADS, en el cual se indican las condiciones en que han de iniciarse los informes ADS, así como los datos que deben figurar en los mismos.
 
 Control de calidad.
 
@@ -1029,10 +1035,6 @@ Elevación de aeródromo.
 
 La elevación del punto más alto del área de aterrizaje.
 
-Embudo de aproximación.
-
-Espacio aéreo especificado, alrededor de una trayectoria nominal de aproximación, dentro del cual una aeronave que efectúa una aproximación se considera que ejecuta una aproximación normal.
-
 Empresa explotadora de aeronaves.
 
 (Ver Explotador)
@@ -1079,7 +1081,7 @@ Espacio aéreo RVSM.
 
 Volumen de espacio aéreo determinado, desde nivel de vuelo 290 y hasta un nivel de vuelo superior especificado, dentro del cual se aplica, en virtud de un acuerdo regional de navegación aérea, una separación vertical mínima entre aeronaves de 300 metros (1.000 pies).
 
-Nota; Por espacio aéreo EUR RVSM deberá entenderse un espacio aéreo RVSM que comprende aquella parte del espacio aéreo de las regiones EUR y AFI indicada en AIP por la autoridad ATS competente.
+Nota: Por espacio aéreo EUR RVSM deberá entenderse un espacio aéreo RVSM que comprende aquella parte del espacio aéreo de las regiones EUR y AFI indicada en AIP por la autoridad ATS competente.
 
 Estación aeronáutica.
 
@@ -1104,10 +1106,6 @@ Estación móvil del servicio móvil aeronáutico instalada a bordo de una aeron
 Estación de la red.
 
 Estación aeronáutica que forma parte de una red radiotelefónica.
-
-Estación de radio de control aeroterrestre.
-
-Estación de telecomunicaciones aeronáuticas que, como principal responsabilidad, tiene a su cargo las comunicaciones relativas a la operación y control de aeronaves en determinada área.
 
 Estación de radio de control de aeródromo.
 
@@ -1391,6 +1389,10 @@ Incidente.
 
 Todo suceso relacionado con la utilización de una aeronave, que no llegue a ser un accidente, que afecte o pueda afectar la seguridad de las operaciones aéreas.
 
+Incursión en la pista.
+
+Todo suceso en un aeródromo que suponga la presencia incorrecta de una aeronave, vehículo o persona en la zona protegida de una superficie designada para el aterrizaje o despegue de una aeronave.
+
 Indicación de posición radar (RPI).
 
 Indicación visual, en una presentación radar, en forma asimbólica o simbólica, de la posición de una aeronave obtenida por radar primario o secundario de vigilancia.
@@ -1595,9 +1597,11 @@ Navegación a estima.
 
 Estimación o determinación de una posición futura a partir de una posición conocida, a base de dirección, tiempo y velocidad.
 
-Navegación de Área.
+Navegación de área (RNAV).
 
-Método de navegación que permite la operación de aeronaves en cualquier trayectoria de vuelo deseada, dentro de la cobertura de las ayudas para la navegación referidas a la estación, o dentro de los límites de las posibilidades de las ayudas autónomas, o de una combinación de ambas.
+Método de navegación que permite la operación de aeronaves en cualquier trayectoria de vuelo deseada, dentro de la cobertura de las ayudas para la navegación basadas en tierra o en el espacio, o dentro de los límites de capacidad de las ayudas autónomas, o de una combinación de ambas.
+
+Nota.–La navegación de área incluye la navegación basada en la ‟performance” así como otras operaciones no incluidas en la definición de navegación basada en la ‟performance”.
 
 Nefanálisis.
 
@@ -1697,6 +1701,10 @@ Toda característica natural del terreno u objeto fijo, permanente o temporal, e
 
 Nota: La expresión «obstáculo destacado» se usa en el Anexo 4 de OACI con el fin exclusivo de especificar los objetos que han de indicarse en las cartas. Los obstáculos se especifican de otro modo en el Anexo 14 de OACI, Volúmenes I y II, para los fines de despeje y señalamiento.
 
+Obstrucción en la pista.
+
+Todo suceso en un aeródromo provocado por la existencia de cualquier obstáculo en la pista o en su proximidad, que pondría probablemente en peligro la seguridad de un despegue o de un aterrizaje de aeronave. Son ejemplos de posibles obstáculos en pista los animales, las bandadas de pájaros.
+
 Oficina de Control de Aproximación.
 
 Dependencia establecida para suministrar servicio de control de tránsito aéreo a los vuelos controlados que lleguen a uno o más aeródromos o salgan de ellos.
@@ -1765,7 +1773,7 @@ Nota: Cuando los valores de la altura de decisión (DH) y del alcance visual en 
 
 Operaciones Especiales.
 
-Se denominan operaciones especiales las que, por motivos de interés público se realicen por aeronaves en cumplimiento de una Carta Operacional, debidamente aprobada por los Organismos competentes, en la que se establecen los criterios de operación y las exenciones a cualquiera de las disposiciones contenidas en el Reglamento de la Circulación Aérea, derivadas de la urgencia o características de la misión encomendada.
+Se denominan operaciones especiales las que, por motivos de interés público se realicen por aeronaves en cumplimiento de una Carta de exenciones para operaciones especiales, debidamente aprobada por los Organismos competentes, en la que se establecen los criterios de operación y las exenciones a cualquiera de las disposiciones contenidas en el Reglamento de Circulación Aérea, derivadas de la urgencia o características de la misión encomendada.
 
 Operaciones paralelas segregadas.
 
@@ -1784,6 +1792,10 @@ Si el criterio numérico es tal que la suma debe ser un número par, la disposic
 Perfil.
 
 La proyección ortogonal de una trayectoria de vuelo o parte de la misma sobre la superficie vertical que contiene la derrota nominal.
+
+Performance de comunicación requerida (RCP).
+
+Declaración de los requisitos de ‟performance” para comunicaciones operacionales en relación con funciones ATM específicas.
 
 Performance de navegación requerida (RNP).
 
@@ -2019,15 +2031,15 @@ Punto de espera en la vía de vehículos.
 
 Un punto designado en el que puede requerirse que los vehículos esperen.
 
-Punto de espera en rodaje.
+Punto de espera en rodaje. (Punto de espera de la pista).
 
-Punto designado destinado a proteger una pista, una superficie limitadora de obstáculos o un área crítica o sensible para los sistemas ILS/MLS, en el que las aeronaves en rodaje y los vehículos se detendrán y mantendrán a la espera, a menos que haya una autorización en contrario por parte de la torre de control de aeródromo.
+Punto designado destinado a proteger una pista, una superficie limitadora de obstáculos o un área crítica/sensible para los sistemas ILS/MLS, en el que las aeronaves en rodaje y los vehículos se detendrán y se mantendrán a la espera, a menos que la torre de control de aeródromo autorice otra cosa.
 
-Nota.–En la fraseología radiotelefónica la expresión «punto de espera» designa el punto de espera en rodaje.
+Nota.–En la fraseología radiotelefónica, la expresión ‟punto de espera” se utiliza para designar el punto de espera de la pista.
 
-Punto de espera en vuelo.
+Punto de espera en vuelo. (Punto de referencia de espera).
 
-Lugar especificado, que se identifique visualmente o por otros medios, en las inmediaciones del cual mantiene su posición una aeronave en vuelo, de acuerdo con las autorizaciones del control de tránsito aéreo.
+Lugar geográfico que sirve como una referencia para un procedimiento de espera.
 
 Punto de notificación.
 
@@ -2056,6 +2068,10 @@ Punto de un procedimiento de aproximación por instrumentos en que comienza el t
 Punto de referencia de aproximación inicial.
 
 Punto que identifica el comienzo del segmento de aproximación inicial.
+
+Punto de referencia de espera.
+
+(Ver punto de espera en vuelo).
 
 Punto de salida RVSM.
 
@@ -2593,10 +2609,6 @@ Validación.
 
 Confirmación mediante examen y aporte de pruebas objetivas de que se satisfacen completamente los requisitos concretos para un uso específico previsto.
 
-Valor de D.
-
-La magnitud (positiva o negativa) en que la altitud (Z) de un punto en una superficie isobárica difiere de la altitud (Zp) de la misma superficie isobárica en la atmósfera tipo de la OACI (es decir, valor de D=Z-Zp).
-
 Velocidad calibrada.
 
 Velocidad indicada corregida por los errores de instrumento y posición.
@@ -2651,9 +2663,15 @@ VIFNO (hora).
 
 Símbolo utilizado para indicar la hora de cancelación de la autorización de salida expedida por un Centro de Control de Área o una Oficina de Control de Aproximación.
 
-Vigilancia dependiente automática (ADS.).
+Vigilancia dependiente automática-contrato (ADS-C).
 
-Técnica de vigilancia que permite a las aeronaves proporcionar automáticamente, mediante enlace de datos, aquellos datos extraídos de sus sistemas de navegación y determinación de la posición instalados a bordo, lo que incluye la identificación de la aeronave, su posición en cuatro dimensiones y otros datos adicionales, de ser apropiado.
+Medio que permite al sistema de tierra y a la aeronave establecer, mediante enlace de datos, las condiciones de un acuerdo ADS-C, en el cual se indican las condiciones en que han de iniciarse los informes ADS-C, así como los datos que deben figurar en los mismos.
+
+Nota. El término abreviado ‟contrato ADS” se utiliza comúnmente para referirse a contrato ADS relacionado con un suceso, contrato de solicitud ADS, contrato ADS periódico o modo de emergencia.
+
+Vigilancia dependiente automática-radiodifusión (ADS-B).
+
+Medio por el cual las aeronaves, los vehículos aeroportuarios y otros objetos pueden transmitir y/o recibir, en forma automática, datos como identificación, posición y datos adicionales, según corresponda, en modo de radiodifusión mediante enlace de datos.
 
 Viraje de base.
 
@@ -2677,13 +2695,13 @@ a) la distancia máxima a la que pueda verse y reconocerse un objeto de color ne
 
 b) la distancia máxima a la que puedan verse e identificarse las luces de aproximadamente mil candelas ante un fondo no iluminado.
 
-Nota 1.–Estas dos distancias tienen distintos valores en una masa de aire de determinado coeficiente de extinción y la distancia de b) varía con la iluminación del fondo. La distancia de a) está representada por el alcance óptico meteorológico (MOR)
+Nota 1. Estas dos distancias tienen distintos valores en una masa de aire de determinado coeficiente de extinción y la distancia de b) varía con la iluminación del fondo. La distancia de a) está representada por el alcance óptico meteorológico (MOR)
 
-Nota 2.–La definición se aplica a las observaciones de visibilidad en los informes locales ordinarios y especiales, a las observaciones de la visibilidad reinante y mínima notificadas en los informes METAR y SPECI y a las observaciones de la visibilidad en tierra.
+Nota 2. La definición se aplica a las observaciones de visibilidad en los informes locales ordinarios y especiales, a las observaciones de la visibilidad reinante y mínima notificadas en los informes METAR y SPECI y a las observaciones de la visibilidad en tierra.
 
 Visibilidad en tierra.
 
-Visibilidad en un aeródromo, indicada por un observador competente.
+Visibilidad en un aeródromo, indicada por un observador competente o por sistemas automatizados.
 
 Visibilidad en vuelo.
 
@@ -2734,6 +2752,10 @@ a) que opera en el circuito de tránsito de aeródromo o a la vista de la torre 
 b) que se sabe que va a salir o llegar de un vuelo en un área de prácticas de las inmediaciones del aeródromo, o
 
 c) que ejecuta aproximaciones por instrumentos de práctica en el aeródromo.
+
+Vuelo visual (VFR) nocturno.
+
+Vuelo efectuado de acuerdo con las reglas de vuelo visual que se realiza entre la puesta y la salida del sol.
 
 Zona de cobertura (sistema mundial de pronóstico de área).
 
@@ -2907,7 +2929,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | ATFM | Gestión de afluencia del Tránsito Aéreo |
 | ATIS | Servicio automático de información terminal |
 | ATM | Gestión del Tránsito Aéreo |
-| ATP | A las...(hora) o en...(lugar) |
+| ATP | A las...(hora) o en...(lugar) |  |
 | ATS | Servicios de tránsito aéreo |
 | ATTN | Atención |
 | ATZ | Zona de tránsito de aeródromo |
@@ -3153,6 +3175,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | G/A | Tierra a aire |
 | G/A/G | Tierra a aire y aire a tierra |
 | GAT | Tránsito Aéreo General |
+| GBAS | (Debe pronunciarse ‟CHI-BAS”) Sistema de aumentación basado en tierra (también puede figurar como ‟GLS”) |
 | GCA | Sistema de aproximación dirigida desde tierra o aproximación dirigida desde tierra |
 | GEN | General |
 | GEO | Geográfico o verdadero |
@@ -3491,6 +3514,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | R | Rojo |
 | R... | Zona restringida (seguida de la identificación) |
 | R | Derecha (identificación de pista) |
+| RA | Aviso de resolución. |
 | RA | Lluvia |
 | RAC | Reglamento del aire y servicio de tránsito aéreo |
 | RAFC | Centro regional de pronósticos de aérea |
@@ -3576,6 +3600,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | SARPS | Normas y Métodos Recomendados (OACI) |
 | SAT | Sábado |
 | SB | Dirección sur |
+| SBAS | (Debe pronunciarse ‟ES-BAS”) Sistema de aumentación basado en satélite. |
 | SC | Estratocúmulos |
 | SCT | Dispersas |
 | SDBY | Estar a la escucha o de reserva |
@@ -3600,7 +3625,6 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | SIMUL | Simultáneo o simultáneamente |
 | SITA | Sociedad Internacional de Telecomunicaciones Aeronáuticas |
 | SIWL | Carga de rueda simple aislada |
-| SKC | Cielo despejado |
 | SKED | Horario o sujeto a horario o regular |
 | SLP | Punto de limitación de velocidad |
 | SLW | Despacio |
@@ -3650,6 +3674,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | SWY | Zona de parada |
 | T | Temperatura |
 | TA | Altitud de transición |
+| TA | Aviso de tránsito |
 | TACAN | Sistema TACAN |
 | TACC | Centro de Control de Área Terminal |
 | TAF | Pronóstico de aeródromo |
@@ -3800,6 +3825,10 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | YES | Sí (afirmativo) |
 | YR | Su (de usted) |
 | ZS | Zona de seguridad |
+
+> Se modifican los Capítulos 1 y 2 por el art. único 1 y 2 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268
+
+> Redactado conforme a la Orden PRE/2071/2011, de 18 de julio, por la que se corrigen errores en la citada Orden. Ref. BOE-A-2011-12727
 
 > Se modifica el Capítulo 1 por el art. único.1 de la Orden PRE/697/2008, de 12 de marzo. Ref. BOE-A-2008-5008
 

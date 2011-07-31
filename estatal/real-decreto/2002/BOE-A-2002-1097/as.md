@@ -58,7 +58,11 @@ c) la envoltura del globo esté equipada con uno o varios dispositivos que refle
 
 (1) Los globos de superpresión no necesitan estos dispositivos, ya que ascienden rápidamente después de haber lanzado la carga útil y explotan sin necesidad de un dispositivo o sistema para perforar la envoltura del globo. En este contexto, debe entenderse que un globo a superpresión es una envoltura simple, no extensible, capaz de soportar una diferencia de presión más alta al interior que al exterior. Este globo se infla de modo que la presión del gas, menor durante la noche, también pueda extender totalmente la envoltura. Un globo a superpresión de este tipo se mantendrá esencialmente a un nivel constante hasta que se difunda demasiado gas hacia el exterior.
 
-3.4. No se utilizarán globos libres no tripulados pesados en áreas en las que se utilicen equipos SSR terrestres, a menos que dichos globos estén dotados de un respondedor de radar secundario de vigilancia, con capacidad para informar altitud, que funcione continuamente en un código asignado, o que cuando sea necesario pueda poner en funcionamiento la estación de seguimiento.
+3.4. No se utilizarán globos libres no tripulados pesados en las condiciones siguientes:
+
+a) en áreas donde se utiliza equipo SSR basado en tierra, a menos que dichos globos estén dotados de un transpondedor de radar secundario de vigilancia, con capacidad para notificar altitud de presión, que funcione continuamente en un código asignado, o que, cuando sea necesario, la estación de seguimiento pueda poner en funcionamiento; o
+
+b) en áreas donde se utiliza equipo ADS-B basado en tierra, a menos que dichos globos estén dotados de un transmisor ADS-B, con capacidad para notificar altitud de presión, que funcione continuamente o que, cuando sea necesario, la estación de seguimiento pueda poner en funcionamiento.
 
 3.5. Los globos libres no tripulados equipados con una antena de arrastre que exija una fuerza mayor de 230 newtons para quebrarse en cualquier punto, no podrán utilizarse a menos que la antena tenga gallardetes o banderines de color colocados a intervalos no mayores de 15 metros.
 
@@ -151,3 +155,5 @@ c) hora prevista de penetración en la capa correspondiente a la altitud de pres
 d) hora y punto de impacto en tierra previstos.
 
 6.5. El operador de un globo libre no tripulado pesado o mediano notificará a la dependencia de los servicios de tránsito aéreo correspondiente el momento en que la operación ha concluido.
+
+> Se modifica el apartado 3.4 por el art. único.22 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268

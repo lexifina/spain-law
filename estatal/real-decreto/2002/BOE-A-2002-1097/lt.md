@@ -508,7 +508,9 @@ Dichas rutas deberán ser directas, simples y, siempre que fuera posible, conceb
 
 3.2.15.1. Las dependencias de los servicios de tránsito aéreo, al desempeñar sus funciones, tendrán debidamente en cuenta las necesidades del explotador inherentes al cumplimiento de sus obligaciones especificadas en las normas para la operación de aeronaves, y si el explotador la necesita, pondrán a su disposición o a la de su representante autorizado la información de que dispongan, para que el explotador o su representante autorizado pueda cumplir sus responsabilidades.
 
-3.2.15.2. Cuando lo solicite un explotador, los mensajes (comprendidos los informes de posición), recibidos por las dependencias de los servicios de tránsito aéreo y relacionados con el vuelo de la aeronave respecto a la cual se suministre servicio de control de operaciones por dicho explotador, se pondrán, en la medida que sea posible, a la inmediata disposición del explotador o de su representante designado, de conformidad con los procedimientos convenidos localmente.
+3.2.15.2. Cuando lo solicite un explotador, los mensajes (incluidos los informes de posición) recibidos por las dependencias de los servicios de tránsito aéreo y relacionados con el vuelo de la aeronave respecto a la cual se suministre servicio de control de operaciones por dicho explotador, se pondrán, en la medida de lo posible, a la inmediata disposición del explotador o de su representante designado, de conformidad con los procedimientos convenidos localmente.
+
+Nota.–Para aeronaves objeto de interferencia ilícita, véase 3.2.22.4.
 
 3.2.16. Coordinación entre las autoridades militares y los servicios de tránsito aéreo.
 
@@ -521,6 +523,8 @@ Dichas rutas deberán ser directas, simples y, siempre que fuera posible, conceb
 3.2.16.3.1. Los servicios de tránsito aéreo facilitarán a las dependencias militares correspondientes el plan de vuelo pertinente y otros datos relativos a los vuelos de las aeronaves civiles, sea periódicamente o a solicitud, de acuerdo con los procedimientos convenidos localmente.
 
 A fin de evitar o reducir la necesidad de recurrir a la interceptación, las autoridades encargadas de los servicios de tránsito aéreo designarán las áreas o rutas en las que se apliquen a todos los vuelos las disposiciones del Libro Segundo relativas a los planes de vuelo, a las comunicaciones en ambos sentidos y a la notificación de la posición, con objeto de garantizar que las correspondientes dependencias de los servicios de tránsito aéreo dispongan de todos los datos pertinentes para el fin específico de facilitar la identificación de las aeronaves civiles.
+
+Nota.–Para aeronaves objeto de interferencia ilícita, véase 3.2.22.4 y 3.2.23.1.3.
 
 3.2.16.3.2. Se establecerán procedimientos especiales para asegurar que:
 
@@ -622,25 +626,35 @@ El Estado determinará y promulgará las altitudes mínimas de vuelo respecto a 
 
 3.2.22.1. Se dará la mayor atención, asistencia y prioridad sobre otras aeronaves a la aeronave que se sepa, o se sospeche, que se encuentra en estado de emergencia, incluido el caso de que esté siendo objeto de interferencia ilícita, según exijan las circunstancias.
 
-Para indicar que se encuentra en estado de emergencia una aeronave equipada con un respondedor SSR podría hacer funcionar el equipo en la forma siguiente:
+Para indicar que se encuentra en estado de emergencia una aeronave equipada con una capacidad apropiada de enlace de datos o un transpondedor SSR podría hacer funcionar el equipo en la forma siguiente:
 
 a) en el Modo A, código 7700; o
 
-b) en el Modo A, código 7500, para indicar en forma específica que está siendo objeto de interferencia ilícita.
+b) en el Modo A, código 7500, para indicar en forma especifica que está siendo objeto de interferencia ilícita; y/o
 
-c) activar la capacidad de emergencia o urgencia apropiada de la ADS; o
+c) activar la capacidad de emergencia o urgencia apropiada de la ADS-B o ADS-C; y/o
 
-d) transmitir el mensaje de emergencia apropiado mediante el CPDLC.
+d) transmitir el mensaje de emergencia apropiado mediante CPDLC.
 
 3.2.22.2. Cuando se sepa o sospeche que una aeronave es objeto de interferencia ilícita, las dependencias ATS atenderán con prontitud las solicitudes de dicha aeronave. Seguirá transmitiéndose la información que proceda para que el vuelo se realice con seguridad, y se tomarán las medidas necesarias para facilitar la realización de todas las fases de vuelo, especialmente el aterrizaje, en condiciones de seguridad.
 
 3.2.22.3 En caso de una emergencia, en las comunicaciones entre las dependencias ATS y las aeronaves deberían observarse los principios relativos a factores humanos.
 
+3.2.22.4 Cuando se sepa o sospeche que una aeronave es objeto de interferencia ilícita, las dependencias ATS, de conformidad con los procedimientos acordados localmente, informarán inmediatamente a la autoridad competente designada por el Estado e intercambiarán la información necesaria con el explotador o su representante designado.
+
+Nota 1.–En el caso de una aeronave extraviada o no identificada, puede haber sospecha de que sea objeto de interferencia ilícita. Véase 3.2.23.1.3.
+
+Nota 2.–En el 3.2.23.1, figuran procedimientos para afrontar situaciones de aeronaves extraviadas o no identificadas.
+
+Nota 3.–En el Libro Cuarto, Capítulo 3, punto 4.3.16.3., figuran procedimientos más concretos relacionados con la interferencia ilícita.
+
 3.2.23. Contingencias en vuelo.
 
 3.2.23.1. Aeronaves extraviadas o no identificadas.
 
-Una aeronave puede ser considerada como «aeronave extraviada» por una dependencia y simultáneamente como «aeronave no identificada» por otra dependencia.
+Una aeronave puede ser considerada como ‟aeronave extraviada” por una dependencia y simultáneamente como ‟aeronave no identificada” por otra dependencia.
+
+En el caso de una aeronave extraviada o no identificada puede haber sospecha de que sea objeto de interferencia ilícita.
 
 3.2.23.1.1. Tan pronto como una dependencia de los servicios de tránsito aéreo tenga conocimiento de que hay una aeronave extraviada, tomará, de conformidad con 3.2.23.1.1.1. y 3.2.23.1.1.2, todas las medidas necesarias para auxiliar a la aeronave y proteger su vuelo.
 
@@ -679,6 +693,8 @@ c) preguntará a las dependencias de los servicios de tránsito aéreo de las re
 d) tratará de obtener información de otras aeronaves que se encuentren en la misma zona.
 
 3.2.23.1.2.1. Tan pronto como se haya establecido la identidad de la aeronave, la dependencia de los servicios de tránsito aéreo lo notificará, si fuera necesario, a la dependencia militar apropiada.
+
+3.2.23.1.3 Si la dependencia ATS considera que una aeronave extraviada o no identificada puede ser objeto de interferencia ilícita, deberá informarse inmediatamente a la autoridad competente designada por el Estado, de conformidad con los procedimientos acordados localmente.
 
 3.2.23.2. Interceptación de aeronaves civiles.
 
@@ -736,45 +752,17 @@ Las autoridades de los servicios de tránsito aéreo elaborarán y promulgarán 
 
 3.2.28 Gestión de la seguridad del ATS.
 
-3.2.28.1 El Estado implantará programas sistemáticos y adecuados de gestión de la seguridad ATM para garantizar que se mantiene la seguridad en el suministro del ATS dentro del espacio aéreo y en los aeródromos.
+3.2.28.1 Examen de informes de incidentes y otros relacionados con la seguridad.
 
-3.2.28.2 El Estado establecerá el nivel aceptable y los objetivos de seguridad aplicables al suministro del ATS dentro del espacio aéreo y en los aeródromos. De ser aplicable, se establecerán los niveles de seguridad y los objetivos de seguridad mediante acuerdos regionales de navegación aérea.
+3.2.28.1.1 Los informes relacionados con la seguridad que atañen al funcionamiento de los servicios de tránsito aéreo, incluidos los informes de incidentes de tránsito aéreo, serán examinados de forma sistemática por la autoridad ATS competente a fin de detectar cualquier tendencia adversa en el número y en los tipos de incidentes que ocurren.
 
-Nota. Puede especificarse el nivel aceptable de seguridad en términos cualitativos o cuantitativos. Los siguientes son ejemplos de medidas que podrían aplicarse para expresar el grado de seguridad aceptable:
+3.2.28.1.2 La autoridad ATS competente examinará de forma sistemática los informes relativos a las condiciones de servicio de las instalaciones y sistemas ATS, tales como falla o deterioro de los sistemas y equipo de comunicaciones, vigilancia y otros importantes para la seguridad a fin de detectar cualquier tendencia en el funcionamiento de tales sistemas que pueda tener un impacto adverso en la seguridad.
 
-a) una probabilidad máxima de un suceso indeseable, como colisión, pérdida de la separación o incursión en la pista;
+3.2.28.2 Evaluación de la seguridad.
 
-b) un número máximo de accidentes por hora de vuelo;
+3.2.28.2.1 Se realizarán evaluaciones de la seguridad en las dependencias ATS de forma regular y sistemática a cargo de personal cualificado mediante la instrucción, la experiencia y conocimientos y que tenga una comprensión completa de las normas y métodos recomendados, (SARPS) pertinentes, los procedimientos para los servicios de navegación aérea (PANS), y las prácticas de funcionamiento seguras, así como los principios relativos a factores humanos.
 
-c) un número máximo de incidentes por movimientos de aeronaves; y
-
-d) un número máximo de alertas de conflicto a corto plazo válidas por movimiento de aeronaves.
-
-3.2.28.3 En el programa de gestión de la seguridad ATS, entre otras cosas:
-
-a) Se identificarán los peligros reales y posibles y se determinará la necesidad de medidas correctoras;
-
-b) Se asegurará que se aplican las medidas correctoras necesarias para mantener un nivel aceptable de seguridad; y
-
-c) Se preverá la supervisión permanente y evaluación periódica del nivel de seguridad logrado.
-
-3.2.28.4 Cualquier cambio significativo del sistema ATM relacionado con la seguridad, incluida la implantación de una mínima reducida de separación o de un nuevo procedimiento, solamente entrará en vigor después de que una evaluación de la seguridad haya demostrado que se satisfará un nivel aceptable de seguridad y se haya consultado a los usuarios. Cuando proceda, la autoridad responsable asegurará que se tomen las medidas adecuadas para que haya supervisión después de la implantación de un cambio o modificación sustancial con el objeto de verificar que se satisface el nivel definido de seguridad.
-
-3.2.28.5 Recopilación y evaluación de datos relacionados con la seguridad.
-
-3.2.28.5.1 La autoridad ATS competente establecerá un sistema oficial de notificación de incidentes destinado al personal ATS que facilite la recopilación de información sobre riesgos de la seguridad, reales o posibles o deficiencias relacionadas con el suministro de ATS, incluidas las estructuras de rutas, procedimientos, sistemas de comunicaciones, navegación y vigilancia, y otros sistemas y equipo importantes para la seguridad, así como la carga de trabajo de los controladores.
-
-Nota.–En el Manual de prevención de accidentes (Doc. 9422) de OACI figura orientación relativa a los sistemas obligatorios y voluntarios de notificación de incidentes de los Estados.
-
-3.2.28.6 Examen de informes de incidentes y otros relacionados con la seguridad.
-
-3.2.28.6.1 Los informes relacionados con la seguridad que atañen al funcionamiento de los servicios de tránsito aéreo, incluidos los informes de incidentes de tránsito aéreo, serán examinados de forma sistemática por la autoridad ATS competente a fin de detectar cualquier tendencia adversa en el número y en los tipos de incidentes que ocurren, así como sus causas y la aplicación de medidas correctoras.
-
-3.2.28.6.2 La autoridad ATS competente examinará de forma sistemática los informes relativos a las condiciones de servicio de las instalaciones y sistemas ATS, tales como fallo o deterioro de los sistemas y equipo de comunicaciones, vigilancia y otros importantes para la seguridad a fin de detectar cualquier tendencia en el funcionamiento de tales sistemas que pueda tener un impacto adverso en la seguridad.
-
-3.2.28.7 Evaluación de la seguridad.
-
-3.2.28.7.1 Se realizarán evaluaciones de la seguridad en las dependencias ATS de forma regular y sistemática a cargo de personal cualificado mediante la instrucción, la experiencia y conocimientos y que tenga una comprensión completa de las normas y métodos recomendados, (SARPS) pertinentes, los procedimientos para los servicios de navegación aérea (PANS), y las prácticas de funcionamiento seguras, así como los principios relativos a factores humanos.
+3.2.28.3 a 3.2.28.7.1 (Suprimidos).
 
 3.2.29 Sistema de referencias comunes.
 
@@ -986,9 +974,9 @@ Incluso cuando exista una oficina de control de aproximación, el control de cie
 
 3.3.6.2.2. La dependencia de control transferidora comunicará a la dependencia de control aceptante las partes apropiadas del plan de vuelo actualizado, así como toda información de control pertinente a la transferencia solicitada.
 
-3.3.6.2.2.1. Cuando haya de realizarse la transferencia del control utilizando datos radar, la información de control pertinente a dicha transferencia incluirá información referente a la posición y si se requiere, la derrota y la velocidad de la aeronave observada por radar inmediatamente antes de la transferencia.
+3.3.6.2.2.1. Cuando haya de realizarse la transferencia del control radar utilizando datos radar o ADS-B, la información de control pertinente a dicha transferencia incluirá información referente a la posición y, si se requiere, la derrota y la velocidad de la aeronave observada por radar o ADS-B inmediatamente antes de la transferencia.
 
-3.3.6.2.2.2. Cuando haya de realizarse la transferencia del control utilizando datos ADS, la información de control pertinente a dicha transferencia incluirá la posición en cuatro dimensiones y otras informaciones, según corresponda.
+3.3.6.2.2.2 Cuando haya de realizarse la transferencia del control utilizando datos ADS-C, la información de control pertinente a dicha transferencia incluirá la posición en cuatro dimensiones y otras informaciones, según corresponda.
 
 3.3.6.2.3. La dependencia de control aceptante deberá:
 
@@ -998,7 +986,9 @@ b) especificar cualquier otra información o autorización referente a la parte 
 
 3.3.6.2.4. A no ser que se haya acordado lo contrario entre las dos dependencias de control interesadas, la dependencia aceptante notificará a la dependencia transferidora el momento en que haya establecido la comunicación por radio en ambos sentidos con la aeronave de que se trate y asumido el control de la misma.
 
-3.3.6.2.5 Se especificarán en cartas de acuerdo o instrucciones de la dependencia ATS, según corresponda, los procedimientos de coordinación aplicables, incluidos los puntos de transferencia de control. Nota: Se entiende por Carta de Acuerdo (LoA) el acuerdo concertado entre dos o mas dependencias ATS (civiles) adyacentes que tratan de la forma en que las partes interesadas tienen que proporcionar los servicios de tránsito aéreo.
+3.3.6.2.5 Se especificarán en cartas de acuerdo o instrucciones de la dependencia ATS, según corresponda, los procedimientos de coordinación aplicables, incluidos los puntos de transferencia de control.
+
+Nota.–Se entiende por Carta de Acuerdo (LoA) el acuerdo concertado entre dos o más dependencias ATS adyacentes que tratan de la forma en que las partes interesadas tienen que proporcionar los servicios de tránsito aéreo.
 
 3.3.7. Autorizaciones del control de tránsito aéreo.
 
@@ -1742,9 +1732,9 @@ e) la dependencia que proporcione el servicio de dirección en la plataforma, cu
 
 3.6.2.2.3. Descripción de las instalaciones de comunicaciones.
 
-3.6.2.2.3.1. Las instalaciones de comunicaciones estipuladas en 3.6.2.2.1., 3.6.2.2.2.1 a) y 3.6.2.2.2.2 a), b) y c), estarán en condiciones de proporcionar:
+3.6.2.2.3.1. Las instalaciones de comunicaciones estipuladas en 3.6.2.2.1, 3.6.2.2.2.1 a) y 3.6.2.2.2.2. a), b) y c), estarán en condiciones de proporcionar:
 
-a) comunicaciones orales directas solas o en combinación con comunicaciones por enlace de datos, que puedan establecerse instantáneamente para fines de transferencia de control radar, o normalmente en 15 segundos para otros fines; y
+a) comunicaciones orales directas solas o en combinación con comunicaciones por enlace de datos, que puedan establecerse instantáneamente para fines de transferencia del control utilizando radar o la ADS-B, o normalmente en 15 segundos para otros fines; y
 
 b) comunicaciones impresas, cuando sea necesario que quede constancia por escrito; el tiempo de tránsito del mensaje en esta clase de comunicaciones no excederá de cinco minutos.
 
@@ -1772,7 +1762,7 @@ b) comunicaciones impresas, cuando sea necesario que quede constancia por escrit
 
 3.6.2.3.1.1. Estas comunicaciones se efectuarán en todos los casos de modo que los mensajes estén en la forma adecuada para conservarlos como registro permanente, y se reciban de conformidad con los tiempos de tránsito estipulados en los acuerdos regionales de navegación aérea.
 
-3.6.2.3.1.2. A no ser que lo determinen de otro modo los acuerdos regionales de navegación aérea, las instalaciones de comunicaciones entre centros de control de área que presten servicio a áreas de control contiguas dispondrán de comunicaciones orales directas y, cuando corresponda, por enlace de datos con registro automático que puedan establecerse instantáneamente respecto a transferencia de control utilizando datos radar o ADS; para otros fines lo harán normalmente en 15 segundos.
+3.6.2.3.1.2. A no ser que lo determinen de otro modo los acuerdos regionales de navegación aérea, las instalaciones de comunicaciones entre centros de control de área que presten servicio a áreas de control contiguas dispondrán de comunicaciones orales directas y, cuando corresponda, por enlace de datos con registro automático que puedan establecerse instantáneamente respecto a transferencia de control utilizando datos radar, ADS-B o ADS-C; para otros fines lo harán normalmente en 15 segundos.
 
 3.6.2.3.1.3. Cuando sea necesario por acuerdo entre los Estados interesados, con el objeto de eliminar o disminuir la necesidad de interceptación por el hecho de que una aeronave se haya desviado de la derrota asignada, se dispondrá que las instalaciones de comunicaciones entre centros de información de vuelo o centros de control de área adyacentes que no sean los mencionados en 3.6.2.3.1.2, tengan capacidad de comunicaciones orales directas solas o en combinación con comunicaciones por enlace de datos. Las instalaciones de comunicaciones contarán con registro automático.
 
@@ -1784,7 +1774,7 @@ Pueden darse circunstancias especiales por razón de la densidad del tránsito, 
 
 3.6.2.3.3. Siempre que las condiciones locales obliguen a autorizar a una aeronave, antes de la salida, a penetrar en un área de control adyacente, una oficina de control de aproximación y/o torre de control de aeródromo estarán conectadas con el centro de control de área que presta servicios al área adyacente.
 
-3.6.2.3.4. Las instalaciones de comunicaciones citadas en 3.6.2.3.2 y 3.6.2.3.3, deberían poder proporcionar comunicaciones orales directas solas o en combinación con comunicaciones por enlace de datos con registro automático que puedan establecerse instantáneamente a fines de transferencia de control utilizando datos radar o ADS, y normalmente en 15 segundos para otros fines.
+3.6.2.3.4. Las instalaciones de comunicaciones citadas en 3.6.2.3.2. y 3.6.2.3.3. deberán proporcionar comunicaciones orales directas solas o en combinación con comunicaciones por enlace de datos con registro automático que puedan establecerse instantáneamente a fines de transferencia de control utilizando datos radar, ADS-B o ADS-C o ADS, y normalmente en 15 segundos para otros fines.
 
 3.6.2.3.5. En todos los casos en que sea necesario el intercambio automático de datos entre las computadoras de los servicios de tránsito aéreo, se contará con dispositivos apropiados de registro automático.
 
@@ -1810,7 +1800,7 @@ Todos estos canales contarán con dispositivos de registro automático.
 
 3.6.4.1. Registro automático de datos de vigilancia.
 
-3.6.4.1.1. Los datos de vigilancia obtenidos del equipo radar primario y secundario o de la ADS u otros sistemas de vigilancia que se utilizan como ayuda a los servicios de tránsito aéreo se registrarán automáticamente, para poder utilizarlos en la investigación de accidentes e incidentes, búsqueda y salvamento, control del tránsito aéreo, y en la evaluación de los sistemas de vigilancia e instrucción del personal.
+3.6.4.1.1. Los datos de vigilancia obtenidos del equipo radar primario y secundario o de otros sistemas (p. ej., ADS-B, ADS-C) que se utilizan como ayuda a los servicios de tránsito aéreo se registrarán automáticamente, para poder utilizarlos en la investigación de accidentes e incidentes, búsqueda y salvamento, control del tránsito aéreo, y en la evaluación de los sistemas de vigilancia e instrucción del personal.
 
 3.6.4.1.2 Las grabaciones automáticas se conservarán por un período mínimo de 45 días. Cuando las grabaciones sean pertinentes a la investigación de accidentes e incidentes, se conservarán más tiempo, hasta que sea evidente que ya no son necesarias.
 
@@ -1826,17 +1816,15 @@ Todos estos canales contarán con dispositivos de registro automático.
 
 La información se facilitará de tal manera que exija un mínimo de interpretación por parte del personal de los servicios de tránsito aéreo y con una frecuencia que satisfaga las necesidades de las dependencias de los servicios de tránsito aéreo de que se trate.
 
-3.7.1.1.2. Las oficinas meteorológicas estarán situadas de tal forma que se facilite la consulta personal entre el personal meteorológico y el personal de las dependencias que suministran los servicios de tránsito aéreo.
+3.7.1.1.2. A las dependencias de los servicios de tránsito aéreo se suministrará información detallada sobre el emplazamiento, la extensión vertical, la dirección y la velocidad de desplazamiento de los fenómenos meteorológicos en la proximidad del aeródromo, que puedan representar un peligro para las operaciones de las aeronaves, particularmente en las áreas de ascenso inicial y de aproximación.
 
-Cuando no fuera posible el emplazamiento conjunto, la consulta requerida se llevará a cabo por otros medios.
-
-3.7.1.1.3. A las dependencias de los servicios de tránsito aéreo se suministrará información detallada sobre el emplazamiento, la extensión vertical, la dirección y la velocidad de desplazamiento de los fenómenos meteorológicos en la proximidad del aeródromo, que puedan representar un peligro para las operaciones de las aeronaves, particularmente en las áreas de ascenso inicial y de aproximación.
-
-3.7.1.1.4. Cuando los datos en altura tratados mediante computadora sean facilitados en forma digital a las dependencias de los servicios de tránsito aéreo, para utilizarse en las computadoras de los servicios de tránsito aéreo, el contenido, formato y arreglos para su transmisión serán los convenidos entre la Autoridad Meteorológica y la Autoridad ATS competente.
+3.7.1.1.3. Cuando los datos en altura tratados mediante computadora sean facilitados en forma digital a las dependencias de los servicios de tránsito aéreo, para utilizarse en las computadoras de los servicios de tránsito aéreo, el contenido, formato y arreglos para su transmisión serán los convenidos entre la Autoridad Meteorológica y la Autoridad ATS competente.
 
 3.7.1.2. Centros de información de vuelo y centros de control de área.
 
-3.7.1.2.1. Se proporcionarán a los centros de información de vuelo y a los centros de control de área información SIGMET y AIRMET, aeronotificaciones especiales, e informes y pronósticos meteorológicos actuales, dando especial importancia al acaecimiento o acaecimiento probable del empeoramiento de un elemento meteorológico tan pronto como pueda determinarse. Dichos informes y pronósticos se referirán a la región de información de vuelo o al área de control y a todas las demás áreas que puedan determinarse a base de los acuerdos regionales de navegación aérea.
+3.7.1.2.1. Se proporcionarán a los centros de información de vuelo y a los centros de control de área información meteorológica, de acuerdo con lo descrito en el Anexo 3, Apéndice 9, 1.3, de OACI, dando especial importancia al acaecimiento o acaecimiento probable del empeoramiento de las condiciones meteorológicas tan pronto como pueda determinarse.
+
+Dichos informes y pronósticos se referirán a la región de información de vuelo o al área de control y a todas las demás áreas que puedan determinarse a base de los acuerdos regionales de navegación aérea.
 
 3.7.1.2.1.1 Ciertos cambios de las condiciones meteorológicas se interpretan como empeoramiento de un elemento meteorológico aunque corrientemente no se considere así (1).
 
@@ -1846,11 +1834,9 @@ Cuando no fuera posible el emplazamiento conjunto, la consulta requerida se llev
 
 3.7.1.3. Dependencias que suministran servicio de control de aproximación.
 
-3.7.1.3.1. Se proporcionará a las dependencias que suministran servicio de control de aproximación, informes y pronósticos meteorológicos actualizados correspondientes al espacio aéreo y a los aeródromos que les concierna.
+3.7.1.3.1. Se proporcionará a las dependencias que suministran servicio de control de aproximación información meteorológica, de acuerdo con lo descrito en el Anexo 3, Apéndice 9, 1.2, de OACI, para el espacio aéreo y a los aeródromos que les concierna.
 
-Los informes especiales y las enmiendas de los pronósticos se comunicarán a las dependencias que suministran servicio de control de aproximación tan pronto como sean necesarios, de conformidad con los criterios establecidos, sin esperar el próximo informe o pronóstico ordinario.
-
-Cuando se utilicen sensores múltiples se señalarán claramente los presentadores visuales con los que están conectados, con objeto de identificar la pista y la sección de ésta que corresponde a cada sensor (1).
+Los informes especiales y las enmiendas de los pronósticos se comunicarán a las dependencias que suministran servicio de control de aproximación tan pronto como sean necesarios, de conformidad con los criterios establecidos, sin esperar el próximo informe o pronóstico ordinario. Cuando se utilicen anemómetros múltiples se señalarán claramente los indicadores con los que están conectados, con objeto de identificar la pista y la sección de ésta que corresponde a cada anemómetro (1).
 
 (1) Véase 3.7.1.2.1.1.
 
@@ -1870,11 +1856,9 @@ Se recomienda que las dependencias que suministran servicios de control de aprox
 
 3.7.1.4. Torres de control de aeródromo.
 
-3.7.1.4.1. Se proporcionará a las torres de control de aeródromo informes y pronósticos meteorológicos actuales respecto al aeródromo que les concierna.
+3.7.1.4.1. Se proporcionará a las torres de control de aeródromo información meteorológica, de acuerdo con lo descrito en el Anexo 3, Apéndice 9, 1.1, de OACI, para el aeródromo que les concierna. Los informes especiales y las enmiendas de los pronósticos se comunicarán a las torres de control de aeródromo tan pronto como sean necesarios, de conformidad con los criterios establecidos, sin esperar al próximo informe o pronóstico ordinario (1).
 
-Los informes especiales y las enmiendas de los pronósticos se comunicarán a las torres de control de aeródromo tan pronto como sean necesarios, de conformidad con los criterios establecidos, sin esperar al próximo informe o pronóstico ordinario (1).
-
-(1) Véase 3.7.12.1.1.
+(1) Véase 3.7.1.2.1.1.
 
 3.7.1.4.2. Se suministrarán a las torres de control de aeródromo datos de presión actuales para el reglaje de altímetros, correspondientes al aeródromo en cuestión.
 
@@ -1927,6 +1911,8 @@ Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter
 3.7.6. Información sobre ''nubes'' de materiales radiactivos y de sustancias químicas tóxicas.
 
 Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter local, acerca de la liberación en la atmósfera de materiales radiactivos o sustancias químicas tóxicas que podrían afectar al espacio aéreo utilizado por los vuelos dentro de su zona de responsabilidad.
+
+> Se modifican los Capítulos 2, 3, 6 y 7 por el art. único 5 a 8 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268
 
 > Se modifican los Capítulos 2 y 3 por el art. único.2 de la Orden PRE/697/2008, de 12 de marzo. Ref. BOE-A-2008-5008
 
