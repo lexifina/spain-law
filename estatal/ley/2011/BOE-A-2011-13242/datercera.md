@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Seguridad Social de las personas que participan en programas de formación.
+
+1. El Gobierno, en el plazo de tres meses a partir de la publicación de la presente Ley y en base a las previsiones contenidas en el artículo 97.2.m) de la Ley General de la Seguridad Social y en los términos y condiciones que se determinen reglamentariamente, establecerá los mecanismos de inclusión de la misma de los participantes en programas de formación financiados por organismos o entidades públicos o privados, que, vinculados a estudios universitarios o de formación profesional, conlleven contraprestación económica para los afectados, siempre que, en razón de la realización de dichos programas, y conforme a las disposiciones en vigor, no viniesen obligados a estar de alta en el respectivo Régimen de la Seguridad Social.
+
+2. Las personas que, en la fecha de entrada en vigor de la disposición reglamentaria referida en el apartado anterior se hubieran encontrado en la situación indicada en el mismo, podrán suscribir un Convenio especial, por una única vez, en el plazo, términos y condiciones que determine el Ministerio de Trabajo e Inmigración, que les posibilite el cómputo de cotización por los periodos de formación realizados antes de la señalada fecha, hasta un máximo de dos años.
+
+> Esta disposición entra en vigor el 2 de agosto de 2011, según establece la disposición final 12.1.a).

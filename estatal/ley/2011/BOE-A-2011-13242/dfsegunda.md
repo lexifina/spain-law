@@ -1,0 +1,13 @@
+## Disposición final segunda. Modificación de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+
+Se da nueva redacción a la letra e) del artículo 49 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, que tendrá la siguiente redacción:
+
+«e) Permiso por cuidado de hijo menor afectado por cáncer u otra enfermedad grave: el funcionario tendrá derecho, siempre que ambos progenitores, adoptantes o acogedores de carácter preadoptivo o permanente trabajen, a una reducción de la jornada de trabajo de al menos la mitad de la duración de aquélla, percibiendo las retribuciones íntegras con cargo a los presupuestos del órgano o entidad donde venga prestando sus servicios, para el cuidado, durante la hospitalización y tratamiento continuado, del hijo menor de edad afectado por cáncer (tumores malignos, melanomas o carcinomas) o por cualquier otra enfermedad grave que implique un ingreso hospitalario de larga duración y requiera la necesidad de su cuidado directo, continuo y permanente acreditado por el informe del servicio Público de Salud u órgano administrativo sanitario de la Comunidad Autónoma o, en su caso, de la entidad sanitaria concertada correspondiente y, como máximo, hasta que el menor cumpla los 18 años.
+
+Cuando concurran en ambos progenitores, adoptantes o acogedores de carácter preadoptivo o permanente, por el mismo sujeto y hecho causante, las circunstancias necesarias para tener derecho a este permiso o, en su caso, puedan tener la condición de beneficiarios de la prestación establecida para este fin en el Régimen de la Seguridad Social que les sea de aplicación, el funcionario tendrá derecho a la percepción de las retribuciones íntegras durante el tiempo que dure la reducción de su jornada de trabajo, siempre que el otro progenitor, adoptante o acogedor de carácter preadoptivo o permanente, sin perjuicio del derecho a la reducción de jornada que le corresponda, no cobre sus retribuciones íntegras en virtud de este permiso o como beneficiario de la prestación establecida para este fin en el Régimen de la Seguridad Social que le sea de aplicación. En caso contrario, sólo se tendrá derecho a la reducción de jornada, con la consiguiente reducción de retribuciones.
+
+Asimismo, en el supuesto de que ambos presten servicios en el mismo órgano o entidad, ésta podrá limitar su ejercicio simultáneo por razones fundadas en el correcto funcionamiento del servicio.
+
+Reglamentariamente se establecerán las condiciones y supuestos en los que esta reducción de jornada se podrá acumular en jornadas completas.»
+
+> Esta disposición entra en vigor el 2 de agosto de 2011, según establece la disposición final 12.1.a).

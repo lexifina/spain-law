@@ -16,4 +16,8 @@ Cuando concurran en ambos progenitores, adoptantes o acogedores de carácter pre
 
 La gestión y el pago de la prestación económica corresponderá a la Mutua de Accidentes de Trabajo y Enfermedades Profesionales o, en su caso, a la Entidad Gestora con la que la empresa tenga concertada la cobertura de los riesgos profesionales.
 
-> Se añade, con efectos desde el 1 de enero de 2011, por la disposición final 21.2 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703. .
+Las previsiones contenidas en este artículo no serán aplicables a los funcionarios públicos, que se regirán por lo establecido en el artículo 49.e) de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público y la normativa que lo desarrolle.
+
+> Se añade el último párrafo por la disposición final 7.2 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
+
+> Se añade, con efectos desde el 1 de enero de 2011, por la disposición final 21.2 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.

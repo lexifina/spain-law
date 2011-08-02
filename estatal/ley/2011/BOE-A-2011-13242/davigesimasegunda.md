@@ -1,0 +1,3 @@
+## Disposición adicional vigésima segunda. Información presupuestaria de la Seguridad Social.
+
+El Gobierno realizará las actuaciones necesarias para mejorar el tratamiento presupuestario de los recursos de la Seguridad Social que favorezcan su control parlamentario. En concreto, en los Presupuestos Generales del Estado para el año 2013 se incluirá una subdivisión a la actual Sección 60 (Seguridad Social) para separar las pensiones y las prestaciones económicas del Sistema de la Seguridad Social de las prestaciones sanitarias y sociales, así como dar un tratamiento presupuestario diferenciado al Fondo de Reserva de la Seguridad Social.
