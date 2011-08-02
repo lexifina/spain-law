@@ -14,7 +14,8 @@
 |  | - Licenciado en Ciencias: |
 |  | ** División: Biología. |
 |  | - Licenciado en Ciencias Biológicas, en todas sus especialidades. |
-| - Licenciado en Bioquímica. |  |
+| - Licenciado en Bioquímica. | - Licenciado en Ciencias Biológicas: |
+|  | *especialidad Bioquímica y Biología Molecular |
 | - Licenciado en Ciencia y Tecnología de los Alimentos. |  |
 | - Licenciado en Ciencias del Mar. | - Licenciado en Ciencias del Mar. |
 | - Licenciado en Farmacia. | - Licenciado en Farmacia. |
@@ -51,6 +52,7 @@
 | - Licenciado en Ciencias de la Actividad Física y del Deporte. | - Licenciado en Educación Física. |
 | - Licenciado en Ciencias Actuariales y Financieras. | - Licenciado en Ciencias Económicas y Empresariales: |
 |  | * Sección Actuarial y de la Empresa Financiera. |
+|  | * Sección de Ciencias Empresariales (especialidad actuarial) |
 | - Licenciado en Ciencias Políticas y de la Administración. | - Licenciado en Ciencias Políticas y Económicas: |
 |  | * Sección de Ciencias Políticas. |
 |  | - Licenciado en Ciencias Políticas, Económicas y Comerciales: |
@@ -444,6 +446,8 @@
 | - Licenciado en Lingüística. |  |
 | - Licenciado en Teoría de la Literatura y Literatura Comparada. |  |
 | - Licenciado en Traducción e interpretación. |  |
+
+> Se modifican los epígrafes I y II por la Orden EDU/2158/2011, de 13 de junio. Ref. BOE-A-2011-13178.
 
 > Se modifica el apartado II, III y IV por el apartado 1 de la Orden ECJ/576/2007, de 12 de marzo. Ref. BOE-A-2007-5442.
 
