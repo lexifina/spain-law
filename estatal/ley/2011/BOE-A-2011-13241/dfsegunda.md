@@ -1,0 +1,3 @@
+## Disposición final segunda. Autorización al Gobierno para la refundición de textos legales.
+
+El Gobierno elaborará y aprobará, en el plazo de un año desde la entrada en vigor de esta Ley y previa consulta al Consejo Nacional de la Discapacidad, un texto refundido en el que se regularicen, aclaren y armonicen la Ley 13/1982, de 7 de abril, de integración social de los minusválidos, la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, y la Ley 49/2007, de 26 de diciembre, de infracciones y sanciones en materia de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad.

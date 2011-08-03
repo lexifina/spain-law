@@ -111,6 +111,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 68](a68.md)
 - [Artículo 69](a69.md)
 - [Artículo 70](a70.md)
+- [Artículo 70. bis](a70.bis.md)
 - [Artículo 71](a71.md)
 - [Subsección 4](ss4-2.md)
 - [Artículo 72](a72.md)

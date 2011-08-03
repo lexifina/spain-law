@@ -36,4 +36,8 @@ Las Administraciones Públicas, a través de sus Servicios de Salud y de los Ór
 
 17. El tratamiento de los datos contenidos en registros, encuestas, estadísticas u otros sistemas de información médica para permitir el análisis de género, incluyendo, siempre que sea posible, su desagregación por sexo.
 
+18. La promoción, extensión y mejora de los sistemas de detección precoz de discapacidades y de los servicios destinados a prevenir y reducir al máximo la aparición de nuevas discapacidades o la intensificación de las preexistentes.
+
+> Se modifica por el art. 6.2 de la Ley 26/2011, de 1 de agosto. Ref. BOE-A-2011-13241.
+
 > Se modifican los apartados 1, 4, 9, 14 y 15 y se añade el apartado 17 por la disposición adicional 8.3 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
