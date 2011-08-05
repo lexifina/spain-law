@@ -6,7 +6,7 @@
 
 a) Hallarse en situación de servicio activo en los cuerpos docentes que se especifiquen en cada convocatoria.
 
-b) Contar con una antigüedad mínima de tres años como funcionario de carrera en activo en el respectivo cuerpo docente desde el que se participa en el concurso, computados hasta la fecha de conclusión del plazo de presentación de instancias señalado en las respectivas convocatorias.
+b) Contar con una antigüedad mínima de tres años como funcionario de carrera en activo en el respectivo cuerpo docente desde el que se participa en el concurso, computados hasta la fecha de conclusión del plazo de presentación de instancias señalado en las respectivas convocatorias. A los efectos del cómputo del período mínimo antes señalado, al personal funcionario de carrera de los cuerpos de catedráticos se le tendrá en cuenta el tiempo de servicios prestados como personal funcionario de carrera de los respectivos cuerpos de profesores.
 
 c) Reunir los requisitos exigidos por la normativa vigente en materia de provisión de puestos de trabajo de cada uno de los cuerpos.
 
@@ -17,3 +17,5 @@ e) Conocer el idioma o uno de los idiomas que para cada puesto se señale en la 
 3. Para aquellos puestos en los que se considere necesario el conocimiento de una lengua distinta del castellano, las convocatorias establecerán el procedimiento por el que los aspirantes acreditarán el nivel de conocimiento del idioma que para cada puesto se determine o, en su caso, las titulaciones académicas o certificados que se consideren necesarios para acreditar documentalmente este conocimiento.
 
 4. Aquellos funcionarios de los Cuerpos docentes clasificados en el Grupo A de los que establece el artículo 25 de la Ley 30/1984, de 2 de agosto, que sean titulares de la especialidad correspondiente al idioma cuyo conocimiento se requiera para ocupar la vacante, serán eximidos de la acreditación señalada en el apartado anterior.
+
+> Se modifica el apartado 2.b) por el art. único de la Orden EDU/2191/2011, de 29 de julio. Ref. BOE-A-2011-13385.
