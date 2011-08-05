@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Miembros de las Carreras, Cuerpos y Escalas de la Administración de Justicia que hubieran ejercitado el derecho de transferencia a la Unión Europea a efectos de derechos pasivos.
+
+Los miembros de las Carreras, Cuerpos y Escalas de la Administración de Justicia que hayan causado baja en la Mutualidad General Judicial como consecuencia de haber ejercitado el derecho de transferencia establecido en el artículo 11.2 del anexo VIII del Estatuto de los Funcionarios de las Comunidades Europeas, aprobado por el Reglamento 259/1968, del Consejo, de 29 de febrero, causarán alta obligatoria en la Mutualidad General Judicial, cuando pasen a una situación administrativa de las mencionadas en el artículo 10 de este Reglamento.
