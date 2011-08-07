@@ -1,0 +1,3 @@
+## Decimoséptimo. Imputación de Costes de Actividades Auxiliares de Nivel Superior a Actividades Auxiliares de Último Nivel.
+
+Como consecuencia del desarrollo «en árbol» en que se materializa la determinación de estructuras del modelo, es posible que existan costes asociados con actividades auxiliares de nivel superior, debiéndose producir, de manera similar a como se ha procedido en relación con centros en el apartado decimoquinto, a la imputación del coste de las actividades auxiliares de nivel superior a las de último nivel, consistiendo el resultado de esta fase en que todos los costes de actividades auxiliares deberán estar asignados a actividades auxiliares de último nivel.
