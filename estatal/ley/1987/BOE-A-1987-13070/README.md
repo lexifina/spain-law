@@ -8,23 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2011-08-11 by BOE-A-2011-8222. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [co](co.md)
-- [preambulo](preambulo.md)
-- [Artículo primero](aprimero.md)
-- [Artículo segundo](asegundo.md)
-- [Artículo tercero](atercero.md)
-- [Artículo cuarto](acuarto.md)
-- [Artículo quinto](aquinto.md)
-- [Artículo sexto](asexto.md)
-- [Artículo séptimo](aseptimo.md)
-- [Artículo octavo](aoctavo.md)
-- [Artículo noveno](anoveno.md)
-- [Disposición adicional](da.md)
-- [Disposición transitoria](dt.md)
-- [Disposición derogatoria](dd.md)
-- [Disposición final primera](primera.md)
-- [Disposición final segunda](segunda.md)
-- [Disposición final tercera](tercera.md)
-- [firma](firma.md)
+- [BOE publisher notice](co.md)
