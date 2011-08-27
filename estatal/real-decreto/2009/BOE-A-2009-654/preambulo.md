@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 225, de 17 de septiembre de 2005. Ref. BOE-A-2009-14720.
+Norma derogada por la disposición derogatoria única.2 del Real Decreto 1193/2011, de 19 de agosto. Ref. BOE-A-2011-14146.
