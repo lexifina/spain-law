@@ -14,7 +14,11 @@ Agricultura y Pesca.
 
 Medio Ambiente.
 
-Educación, Juventud y Cultura.
+Educación, Juventud, Cultura y Deporte.
+
+Competitividad-Consumo.
+
+Competitividad-Juego.
 
 Además, el Embajador Representante Permanente y el Representante Permanente Adjunto pueden, en el uso de sus atribuciones, designar otros Grupos de Trabajo en los que se considere de utilidad o interés que asista un consejero de la Consejería para Asuntos Autonómicos.
 
@@ -33,3 +37,5 @@ Además, el Embajador Representante Permanente y el Representante Permanente Adj
 6. A partir del informe que la Consejería para Asuntos Autonómicos presente tras la aplicación durante 2005 del presente Acuerdo, la Conferencia para Asuntos Relacionados con las Comunidades Europeas examinará la procedencia de revisar el sistema de participación autonómica en los Grupos de Trabajo del Consejo de la Unión Europea.
 
 Para la elaboración del informe, la Consejería recabará el parecer de los responsables a que se refiere el apartado II.1.
+
+> Se modifica el apartado 2 por los Acuerdos de 2 de julio de 2009, 15 de abril de 2010, y 7 de febrero de 2011 publicados por la Resolución de 22 de julio de 2011. Ref. BOE-A-2011-13747.
