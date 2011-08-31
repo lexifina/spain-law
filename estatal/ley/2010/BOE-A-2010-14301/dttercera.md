@@ -2,7 +2,11 @@
 
 1. En los contratos de carácter indefinido, sean ordinarios o de fomento de la contratación indefinida, celebrados a partir del 18 de junio de 2010, cuando el contrato se extinga por las causas previstas en los artículos 51 y 52 del Estatuto de los Trabajadores o en el artículo 64 de la Ley 22/2003, de 9 de julio, Concursal, una parte de la indemnización que corresponda al trabajador será objeto de resarcimiento al empresario por el Fondo de Garantía Salarial en una cantidad equivalente a ocho días de salario por año de servicio, prorrateándose por meses los períodos de tiempo inferiores al año.
 
-2. La indemnización se calculará según las cuantías por año de servicio y los límites legalmente establecidos en función de la extinción de que se trate y de su calificación judicial o empresarial. No será de aplicación en este supuesto el límite señalado para la base del cálculo de la indemnización previsto en el artículo 33.2 del Estatuto de los Trabajadores.
+2. Cuando se trate de contratos de carácter indefinido, sean ordinarios o de fomento de la contratación indefinida, celebrados entre el 18 de junio de 2010 y el 31 de diciembre de 2011, la indemnización se calculará según las cuantías por año de servicio y los límites legalmente establecidos en función de la extinción de que se trate y de su calificación judicial o empresarial.
+
+Cuando se trate de contratos de carácter indefinido, sean ordinarios o de fomento de la contratación indefinida, celebrados a partir del 1 de enero de 2012, la indemnización se calculará según las cuantías por año de servicio y los límites legalmente establecidos en función de la extinción de que se trate, no siendo de aplicación el resarcimiento por el Fondo de Garantía Salarial en las extinciones por las causas previstas en el artículo 52 del Estatuto de los Trabajadores reconocidas por el empresario o declaradas judicialmente como improcedentes.
+
+No será de aplicación en estos supuestos el límite señalado para la base del cálculo de la indemnización previsto en el artículo 33.2 del Estatuto de los Trabajadores.
 
 3. El abono procederá siempre que el contrato haya tenido una duración superior a un año y cualquiera que sea el número de trabajadores de la empresa. En los contratos de duración inferior la indemnización establecida legalmente será abonada totalmente y a su cargo por el empresario.
 
@@ -12,4 +16,6 @@
 
 6. El abono de parte de la indemnización a que se refiere esta disposición se financiará con cargo al Fondo de Garantía Salarial.
 
-7. Lo establecido en esta disposición será de aplicación hasta la entrada en funcionamiento del Fondo de capitalización a que se refiere la disposición adicional décima.
+7. Lo establecido en esta disposición será de aplicación hasta el 31 de diciembre de 2013, fecha en la que deberá haberse adoptado la decisión que corresponda sobre la constitución y entrada en funcionamiento de un fondo de capitalización conforme a lo establecido en la disposición adicional décima de esta Ley.
+
+> Se modifican los apartados 2 y 7 por el art. 3.2 y 3 del Real Decreto-ley 10/2011, de 26 de agosto. Ref. BOE-A-2011-14220.

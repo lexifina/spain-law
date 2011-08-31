@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Fondo de Garantía Salarial.
+
+En el marco del Consejo Rector del Fondo de Garantía Salarial, el Gobierno y las organizaciones empresariales y sindicales más representativas procederán a la evaluación de la situación financiera del organismo, teniendo presente la evolución de sus ingresos y gastos conforme a lo dispuesto en el artículo 33 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, y su normativa de desarrollo, y en la disposición transitoria tercera de la Ley 35/2010, de 17 de septiembre, de medidas urgentes para la reforma del mercado de trabajo.

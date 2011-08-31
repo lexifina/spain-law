@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Referencias normativas.
+
+1. Sin perjuicio de lo establecido en la disposición transitoria primera, las referencias realizadas en las disposiciones legales, reglamentarias o en los convenios colectivos al contrato para la formación, deberán entenderse realizadas, a partir de la fecha de entrada en vigor del presente real decreto-ley, al contrato para la formación y el aprendizaje a que se refiere el artículo 11.2 del Texto Refundido de la Ley del Estatuto de los Trabajadores aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, en la redacción dada al mismo por este real decreto-ley, en la medida en que no se opongan o contradigan lo establecido en esta disposición.
+
+2. De acuerdo con lo establecido en el apartado anterior, la cotización a la Seguridad Social y demás contingencias protegidas de los contratos para la formación conforme a la normativa vigente, se efectuará en idénticos términos respecto de los contratos para la formación y el aprendizaje.
