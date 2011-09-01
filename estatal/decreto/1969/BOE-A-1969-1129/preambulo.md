@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 248, de 16 de octubre de 1969. Ref. BOE-A-1969-1190.
+Queda derogada la reglamentación contenida en este Decreto en lo referido a los títulos de buceo deportivo de: Buceador Monitor y Buceador Instructor desde el 1 de septiembre de 2011, según se establece en la disposición derogatoria 1 del Real Decreto 932/2010, de 23 de julio. Ref. BOE-A-2010-13561.
