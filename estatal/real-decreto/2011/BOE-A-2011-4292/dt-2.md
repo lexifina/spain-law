@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Revisiones e inspecciones periódicas de las instalaciones existentes.
+
+1. Las instalaciones frigoríficas existentes a la entrada en vigor del presente real decreto que se hubiesen autorizado de acuerdo con el Real Decreto 3099/1977, de 8 de septiembre, por el que se aprueba el Reglamento de Seguridad para Plantas e Instalaciones Frigoríficas, serán revisadas e inspeccionadas de acuerdo con las exigencias técnicas de la instrucción técnica complementaria según la cual fueron realizadas. No obstante, la periodicidad y los criterios para realizar las revisiones e inspecciones serán los indicados en las Instrucciones técnicas complementarias IF-14 e IF-17 aprobadas por el presente real decreto.
+
+2. El plazo para realizar la primera revisión e inspección se contará a partir de la última inspección periódica realizada, de acuerdo con las anteriores instrucciones técnicas complementarias, o en su defecto, desde la fecha de la puesta en servicio de la instalación frigorífica.
