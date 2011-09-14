@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Infraestructuras de los centros y equipos.
+
+Los centros y equipos que no se encontrasen autorizados para el comercio intracomunitario, previamente a la entrada en vigor de esta norma, dispondrán de un periodo de 24 meses desde la entrada en vigor del presente real decreto, para adaptar sus infraestructuras a los requisitos establecidos en el artículo 3.1. Dichos centros y equipos deberán solicitar una autorización provisional al órgano competente de la comunidad autónoma donde se localicen, y una vez obtenida ésta, sólo podrán comercializar material genético en el territorio nacional.

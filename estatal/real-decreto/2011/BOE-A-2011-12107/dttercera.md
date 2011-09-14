@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Entrada en vigor del artículo 3.
+
+Se establece un periodo transitorio de 24 meses desde la entrada en vigor del presente real decreto para la obligatoriedad del cumplimiento de las condiciones sanitarias descritas en los puntos 1 d) y 1.e) del artículo 3 que son necesarias para la comercialización nacional con fines reproductivos del semen, los óvulos y los embriones de los animales de las especies ovina y caprina.
+
+Durante el período transitorio establecido en el párrafo anterior el semen, los óvulos y los embriones de los animales de las especies ovina y caprina que no cumplan con las condiciones descritas en los puntos 1d) y 1e) del artículo 3 no podrán ser comercializados con fines reproductivos dentro del ámbito nacional. Sin embargo, la autoridad competente de la comunidad autónoma donde radique la explotación ganadera en la que se encuentren los animales que los originaron podrá autorizar su comercialización para fines reproductivos dentro del ámbito territorial de su comunidad autónoma.
