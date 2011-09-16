@@ -182,6 +182,32 @@ Al conceder la autorización de un producto, se evaluarán los riesgos y se esta
 
 La autorización de los productos sólo podrá concederse cuando la solicitud demuestre que los riesgos pueden reducirse a niveles aceptables.
 
+(Condiciones de inclusión de la sustancia activa biocida dióxido de carbono para tipo de producto 18)
+
+Pureza mínima de la sustancia activa en el biocida comercializado: 990 ml/l.
+
+Fecha de inclusión: 1 de noviembre de 2012.
+
+Plazo para la aplicación de las condiciones de inclusión (excepto en el caso de los biocidas que contengan más de una sustancia activa, cuyo plazo será el último fijado en la última de las decisiones de inclusión relacionadas con las sustancias activas): 31 de octubre de 2014.
+
+Fecha de vencimiento de la inclusión: 31 de octubre de 2022.
+
+Tipo de biocida: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas:
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y el anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, los usos o los supuestos de exposición y los riesgos para los compartimentos y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel europeo.
+
+Al conceder la autorización de un producto, se evaluarán los riesgos y, a continuación, se tomaran las medidas adecuadas o se impondrán condiciones específicas a fin de mitigar los riesgos detectados.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1) Los productos solo se venderán a profesionales formados para utilizarlos, y solo ellos los podrán usar.
+
+2) Se adoptarán las medidas adecuadas para proteger a los operarios a fin de minimizar el riesgo, incluida la disponibilidad de equipos de protección individual si resulta necesario.
+
+3) Se tomarán las medidas adecuadas para proteger a las personas ajenas, como la exclusión de esas personas de la zona de tratamiento durante la fumigación.
+
 N.º 7. Difenacum (nombre común).
 
 Denominación UIQPA: 3-(3-bifenil-4-il-1,2,3,4-tetrahidro-1-naftil)-4-hidroxicumarina.
@@ -1167,6 +1193,8 @@ Fecha de vencimiento de la inclusión: 30 de abril de 2021.
 Tipo de biocida: 18 (insecticida, acaricida, producto para controlar otros artrópodos).
 
 Disposiciones específicas: Al evaluar la solicitud de autorización de un producto, conforme el artículo 5 y el anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, los usos o los supuestos de exposición y los riesgos para los compartimentos y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a escala europea.
+
+> Se añade al apartado Nº 6, el tipo de producto 18, por el art. único y anexo de la Orden PRE/2421/2011, de 7 de septiembre. Ref. BOE-A-2011-14700.
 
 > Se añade el apartado Nº 36 por el art. único y anexo de la Orden PRE/1069/2011, de 26 de abril. Ref. BOE-A-2011-7634.
 
