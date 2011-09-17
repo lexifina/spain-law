@@ -8,6 +8,8 @@ Los grupos de generación del sistema eléctrico balear, durante el periodo en q
 
 3. Que todas las plantas que tengan previsto utilizar este combustible hayan terminado su reconversión antes del 31 de diciembre de 2010.
 
-No obstante, por causas excepcionales, la Dirección General de Política Energética y Minas, previo informe del operador del sistema, podrá autorizar la ampliación de estos plazos hasta el 31 de mayo de 2011.
+No obstante, por causas excepcionales, la Dirección General de Política Energética y Minas, previo informe del operador del sistema, podrá autorizar la ampliación de estos plazos hasta el 31 de octubre de 2011.
+
+> Se modifica el párrafo último por la disposición final 1 de la Orden ITC/2452/2011, de 13 de septiembre. Ref. BOE-A-2011-14782.
 
 > Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 194, de 11 de agosto de 2010. Ref. BOE-A-2010-12972.
