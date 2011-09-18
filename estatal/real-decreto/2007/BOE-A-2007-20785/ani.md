@@ -252,14 +252,13 @@ d) Se tomarán los medios y medidas precisas para que ese viajero pueda utilizar
 
 3.3 Espacios para viajeros que no abandonen su silla de ruedas.
 
-De acuerdo con la longitud del tren, deberá haber en el mismo, por lo menos, el número de espacios para viajeros en silla de ruedas que indica la tabla siguiente:
+De acuerdo con la longitud del tren, deberá haber en el mismo, por lo menos, el número de espacios para viajeros en silla de ruedas, que realicen el viaje sin abandonar su silla, que indica la tabla siguiente:
 
-| Longitud del tren | Número de espacios para viajeros en silla de ruedas |
+| Longitud del tren | Número de espacios para viajeros en sillas de ruedas |
 | --- | --- |
-| Menos de 110 metros. | 1 espacio para silla de ruedas |
-| 110 a 205 metros. | 2 espacios para sillas de ruedas |
-| 205 a 300 metros. | 3 espacios para sillas de ruedas |
-| Más de 300 metros. | 4 espacios para sillas de ruedas |
+| Inferior a 205 metros. | 2 espacios para sillas de ruedas. |
+| 205 a 300 metros. | 3 espacios para sillas de ruedas. |
+| Superior a 300 metros. | 4 espacios para sillas de ruedas. |
 
 Para asegurar la estabilidad, el espacio para las sillas de ruedas deberá diseñarse de forma que éstas puedan situarse de frente o de espalda al sentido de la marcha. Su espalda tendrá un respaldo con reposacabezas.
 
@@ -530,3 +529,5 @@ Se instalará un mecanismo adecuado para asegurar la estabilidad de las planchas
 La superficie de la plancha-puente será no deslizante de textura y coloración diferente y contrastada con respecto al resto, y tendrá una anchura efectiva y sin obstáculos igual a la del vano de la puerta. Asimismo se señalará con color amarillo reflectante los laterales donde se encuentra insertada al rampa.
 
 La plancha-puente incorporará un método de emergencia para desplegarla y guardarla si falta la alimentación en corriente.
+
+> Se modifica el párrafo primero del apartado 3.3 por el art. 1.3 del Real Decreto 1276/2011, de 16 de septiembre. Ref. BOE-A-2011-14812.

@@ -90,6 +90,8 @@ Los Planes Autonómicos se circunscribirán a su ámbito territorial y competenc
 
 El Plan Estatal establecerá los mecanismos de apoyo a los Planes Autonómicos, cuando lo solicite su correspondiente órgano de dirección, así como los mecanismos para asumir la dirección y coordinación de la emergencia si la situación se declara de interés nacional.
 
+En todo caso, estos planes deberán prever protocolos de actuación específicos para garantizar la asistencia a las personas con discapacidad, tanto en el nivel de respuesta interior como en el nivel de respuesta exterior.
+
 6. Bases para la planificación
 
 Los Planes Autonómicos tendrán en cuenta los siguientes elementos básicos para la planificación:
@@ -121,3 +123,5 @@ i) Implantación material y mantenimiento de la efectividad: Los Planes Autonóm
 7. Definiciones
 
 A los efectos de esta Directriz Básica, los conceptos y términos fundamentales quedan definidos en el anexo II.
+
+> Se añade el último párrafo al apartado 5 por el art. 5 del Real Decreto 1276/2011, de 16 de septiembre. Ref. BOE-A-2011-14812.
