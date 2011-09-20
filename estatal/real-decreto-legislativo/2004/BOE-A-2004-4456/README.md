@@ -251,6 +251,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria trigésimo segunda](dttrigesimosegunda.md)
 - [Disposición transitoria trigésimo tercera](dttrigesimotercera.md)
 - [Disposición transitoria trigésimo cuarta](dttrigesimocuarta.md)
+- [Disposición transitoria trigésimo quinta](dttrigesimoquinta.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
 - [Disposición final tercera](dftercera.md)
