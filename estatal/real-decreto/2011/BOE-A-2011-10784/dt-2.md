@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Asunción de competencias sancionadoras por el Servicio Público de Empleo Estatal y por el Instituto Social de la Marina.
+
+Las competencias sancionadoras atribuidas a las Direcciones Provinciales del Servicio Público de Empleo Estatal y del Instituto Social de la Marina respecto de las infracciones reguladas en la Sección Primera del Capítulo III del texto refundido de la Ley de Infracciones y Sanciones en el Orden Social relativas a las prestaciones por desempleo serán de aplicación una vez que el Servicio Público de Empleo Estatal y el Instituto Social de la Marina dispongan de los recursos necesarios para ello y así se establezca por Orden del Ministerio de Trabajo e Inmigración. Hasta entonces, la competencia para sancionar las infracciones mencionadas corresponderá a los Jefes de las Inspecciones Provinciales de Trabajo y Seguridad Social de la Administración General del Estado.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 200, de 20 de agosto de 2011. Ref. BOE-A-2011-14023

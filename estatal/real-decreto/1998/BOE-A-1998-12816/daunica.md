@@ -1,3 +1,5 @@
 ## Disposición adicional única. Asunción de competencias.
 
-Cuando se supriman las Direcciones Provinciales de Trabajo, Seguridad Social y Asuntos Sociales de conformidad con lo previsto en la disposición final primera del Real Decreto 1330/1997, de 1 de agosto, de integración de servicios periféricos y de estructura de las Delegaciones del Gobierno, la competencia para sancionar las infracciones en el orden social, atribuidas actualmente a los Directores provinciales de Trabajo, Seguridad Social y Asuntos Sociales, serán asumidas, en el ámbito de la Administración General del Estado, por los Jefes de las Inspecciones Provinciales de Trabajo y Seguridad Social y por la autoridad central para el desarrollo de las funciones previstas en el artículo 18.3.9 de la Ley 42/1997, de 14 de noviembre, ordenadora de la Inspección de Trabajo y Seguridad Social.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 772/2011, de 3 de junio. Ref. BOE-A-2011-10784.

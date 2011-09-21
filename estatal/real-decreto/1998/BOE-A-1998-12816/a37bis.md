@@ -1,0 +1,15 @@
+## Artículo 37 bis. Procedimiento para la imposición de sanciones leves y graves a los solicitantes o beneficiarios de prestaciones del Sistema de Seguridad Social.
+
+1. El procedimiento para sancionar las infracciones leves y graves se iniciará por comunicación de la Inspección de Trabajo y Seguridad Social a la entidad gestora competente, o como resultado de los antecedentes o datos obrantes en la propia entidad.
+
+2. El escrito de iniciación del procedimiento sancionador deberá exponer los hechos constatados, forma de su comprobación, la infracción presuntamente cometida con expresión del precepto vulnerado, la reincidencia, en su caso, y la propuesta de sanción. Iniciado el procedimiento sancionador, se podrá proceder a la suspensión cautelar del disfrute de la prestación en los términos establecidos en el texto refundido de la Ley de Infracciones y Sanciones en el Orden Social, que en el supuesto de prestaciones o subsidios por desempleo supondrá la interrupción del abono de la prestación económica y de la cotización a la Seguridad Social.
+
+3. El documento iniciador del procedimiento sancionador y, en su caso, la suspensión cautelar, se notificará por la entidad gestora al sujeto responsable, concediéndole un plazo de quince días hábiles para que alegue por escrito lo que a su derecho convenga y aporte las pruebas que considere necesarias, pudiendo solicitar el examen de la documentación que fundamente la iniciación del procedimiento sancionador en el plazo para alegaciones y pruebas.
+
+4. A la vista de lo actuado el órgano competente dictará la resolución correspondiente, que pondrá fin a la vía administrativa, deberá notificarse al sujeto responsable, y será inmediatamente ejecutiva y recurrible ante los órganos jurisdiccionales del orden social, de conformidad con lo establecido en el artículo 2 del texto refundido de la Ley de Procedimiento Laboral y en el artículo 233 del texto refundido de la Ley General de la Seguridad Social.
+
+5. La sanción impuesta sustituirá a la suspensión cautelar si ésta se hubiese adoptado; si se impusiera sanción de suspensión de la prestación o subsidio por desempleo supondrá la reducción del período de cotización a la Seguridad Social por tiempo igual al de la suspensión acordada. Si no se impusiese sanción, se reanudará de oficio la percepción de las prestaciones suspendidas cautelarmente, incluso con atrasos, siempre que el beneficiario reúna los requisitos para ello, o desde o hasta el momento en que estos concurran.
+
+6. A los efectos previstos en el texto refundido de la Ley de Infracciones y Sanciones en el Orden Social, existirá reincidencia cuando el sujeto responsable cometa una infracción del mismo tipo y calificación que otra ya sancionada en firme en el plazo de los 365 días anteriores al de comisión de la que se examine conforme a lo previsto en el artículo 21 de este Reglamento. Si no se apreciase reincidencia, la comisión de posterior infracción será objeto de la sanción prevista en su calificación ordinaria.
+
+> Se añade por el art. único.20 del Real Decreto 772/2011, de 3 de junio. Ref. BOE-A-2011-10784.
