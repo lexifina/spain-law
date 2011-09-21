@@ -44,7 +44,7 @@ Los valores en que se materialice el Fondo de políticas de empleo serán títul
 
 8. Para el control y ordenación de la gestión económica del Fondo de políticas de empleo se crea el Comité de Gestión del mencionado fondo.
 
-Dicho Comité estará presidido por la persona titular de la Dirección General del Servicio Público de Empleo Estatal, y se compondrá, además, de cinco miembros: dos designados por el Ministerio de Economía y Hacienda, uno de los cuales realizará las funciones de vicepresidente; uno designado por la Intervención General de la Administración del Estado; y dos designados por la Secretaría de Estado de Empleo, uno de los cuales actuará como secretario del Comité, con voz pero sin voto.
+Dicho Comité estará presidido por la persona titular de la Dirección General del Servicio Público de Empleo Estatal y se compondrá, además, de seis miembros: dos designados por el Ministerio de Economía y Hacienda, uno de los cuales realizará las funciones de vicepresidente; uno designado por la Intervención General de la Administración del Estado; dos designados por la Secretaría de Estado de Empleo, uno de los cuales actuará como secretario del Comité, con voz y sin voto; y uno en representación de las Comunidades Autónomas, con voz y sin voto, que será quien ostente, en cada momento, la vicepresidencia del Consejo General del Sistema Nacional de Empleo.
 
 Este Comité tendrá las funciones de formular propuestas de ordenación, asesoramiento y selección de valores que han de constituir la cartera del Fondo, enajenación de activos financieros que lo integren y demás actuaciones que los mercados financieros aconsejen, así como elaborar un informe anual.
 
@@ -57,3 +57,5 @@ El Comité de Gestión del Fondo de políticas de empleo podrá contar con el as
 11. El Gobierno presentará a las Cortes Generales un informe anual sobre la evolución y composición del Fondo de políticas de empleo.
 
 12. El Consejo General del Sistema Nacional de Empleo, a través de su Comisión Permanente, realizará el seguimiento de las propuestas de ordenación, selección de valores que han de constituir la cartera del Fondo, enajenación de activos financieros que lo integren y demás actuaciones que los mercados financieros aconsejen, así como de su evolución.
+
+> Se modifica el apartado 8 por el art. 2 del Real Decreto-Ley 14/2011, de 16 de septiembre. Ref. BOE-A-2011-14910.

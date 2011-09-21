@@ -4,7 +4,7 @@
 
 1.1 Diagnóstico individualizado sobre el perfil, las necesidades y expectativas de la persona desempleada mediante entrevistas personalizadas, para poder encontrar un empleo.
 
-1.2 Información y gestión de ofertas de empleo adecuadas, incluyendo las procedentes de los otros países de la Unión Europea, así como información sobre el mercado de trabajo, y los incentivos y medios disponibles para el fomento de la contratación y el apoyo a las iniciativas emprendedoras.
+1.2 Información y gestión de ofertas de empleo adecuadas, incluyendo las procedentes de los otros países de la Unión Europea, así como información sobre el mercado de trabajo, y los incentivos y medios disponibles para el fomento de la contratación y el apoyo a las iniciativas emprendedoras, con especial atención a las fórmulas de autoempleo, de trabajo autónomo o de economía social.
 
 1.3 Diseño, elaboración y realización de un itinerario individual y personalizado de empleo que podrá incluir servicios de orientación e información para el empleo y el autoempleo, de mejora de su cualificación profesional y de su empleabilidad, y contactos con las empresas, entidades y organismos públicos para facilitar su inserción laboral.
 
@@ -35,5 +35,7 @@
 3.3 Comunicación telemática de la contratación laboral y de las altas, períodos de actividad y certificados de empresa a través del portal del Sistema Nacional de Empleo.
 
 3.4 Información, asesoramiento y tutorización para la creación, gestión y funcionamiento de empresas, por parte de emprendedores, trabajadores autónomos y otras empresas de la economía social.
+
+> Se modifica el apartado 1.2 por el art. 1.1 del Real Decreto-ley 14/2011, de 16 de septiembre. Ref. BOE-A-2011-14910.
 
 > Se añade por el art. 7.2 del Real Decreto-ley 3/2011, de 18 de febrero. Ref. BOE-A-2011-3255.
