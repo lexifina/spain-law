@@ -6,13 +6,41 @@
 
 1. Los controles en el ganado bovino se llevarán a cabo de conformidad con los métodos de laboratorio establecidos en la vigente normativa.
 
-2. Controles de animales sacrificados para el consumo humano:
+2.Controles de animales sacrificados para el consumo humano. Se realizarán pruebas de EEB a todos los animales bovinos de los siguientes grupos de edad:
 
-a) Se realizarán pruebas de EEB a todos los animales bovinos de más de veinticuatro meses de edad que deban someterse a un sacrificio especial de urgencia según se define en el punto 14 del artículo 2 del Real Decreto 147/1993, de 29 de enero, por el que se establecen las condiciones sanitarias de producción y comercialización de carnes frescas, y a todos los bovinos de más de veinticuatro meses de edad animales sacrificados en virtud de la letra c) del punto 28 del capítulo VI del anexo I del citado Real Decreto 147/1993.
+a) Animales nacidos en países incluidos en el anexo de la Decisión 2009/719/CE, por la que se autoriza a determinados Estados miembros a revisar su programa anual de seguimiento de la EEB:
 
-b) Se realizarán pruebas de la EEB a todos los animales bovinos de más de veinticuatro meses de edad que deban sacrificarse por el procedimiento habitual para el consumo humano.
+a.1) Mayores de setenta y dos meses siempre que se trate de:
 
-3. Controles de animales cuyo sacrificio no está destinado al consumo humano: Se realizarán pruebas de la EEB a todos los animales bovinos mayores de veinticuatro meses de edad que hayan muerto o hayan sido sacrificados, pero que no fueron sacrificados en el marco de una epidemia, como es el caso de la fiebre aftosa.
+1.º Animales sacrificados de manera normal para el consumo humano,
+
+2.º Animales sacrificados en el marco de la ejecución del Real Decreto 2611/1996, de 20 de diciembre, por el que se regulan los programas nacionales de erradicación de enfermedades de los animales, siempre que no presenten signos clínicos de la enfermedad.
+
+a.2) Mayores de treinta y seis meses siempre que se trate de:
+
+1.º Animales sometidos a un sacrificio de urgencia.
+
+2.º Animales que durante la inspección ante mortem sean sospechosos de padecer una enfermedad o hallarse en un estado de salud que pueda perjudicar a la salud de las personas, salvo los previstos en el párrafo a.1).2.º anterior.
+
+b) Animales nacidos en países no incluidos en el anexo de la Decisión 2009/719/CE y que por lo tanto son países no autorizados a revisar su programa anual de seguimiento de la EEB:
+
+b.1) Mayores de treinta meses de edad siempre que se trate de:
+
+1.º Animales sacrificados de manera normal para el consumo humano.
+
+2.º Animales sacrificados en el marco de la ejecución del Real Decreto 2611/1996, de 20 de diciembre.
+
+b.2) Mayores de veinticuatro meses de edad si se trata de:
+
+1.º Animales sometidos a un sacrificio de urgencia.
+
+2.º Animales que durante la inspección ante mortem sean sospechosos de padecer una enfermedad o hallarse en un estado de salud que pueda perjudicar a la salud de las personas, salvo los previstos en el párrafo a.1).2.º anterior.
+
+3. Controles en animales muertos o cuyo sacrificio no está destinado al consumo humano: Se realizarán pruebas de EEB a todos los animales bovinos:
+
+a) De cualquier edad, si han sido sacrificados como medida de erradicación de un foco de EEB.
+
+b) Mayores de cuarenta y ocho meses de edad que hayan muerto o hayan sido sacrificados, pero que no fueron sacrificados en el marco de una epidemia, como es el caso de la fiebre aftosa. No obstante, si se trata de animales nacidos en países no recogidos en el anexo de la Decisión 2009/719/CE se realizarán pruebas de EEB a todos los animales mayores de veinticuatro meses de edad.
 
 4. Medidas posteriores a la realización de pruebas:
 
@@ -85,6 +113,12 @@ b) Todas las partes del cuerpo de un animal que dé positivo en las pruebas de d
 a) Se determinará el genotipo de la proteína del prión por cada caso positivo de EET en el ganado ovino. En los casos de EET en que se encuentren genotipos resistentes (ovinos de genotipos que codifican alanina en ambos alelos en el codon 136, arginina en los dos alelos en el codon 154 y arginina en ambos alelos en el codon 171), se informará de inmediato a la Dirección General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación, para su traslado a la Comisión de las Comunidades Europeas. En la medida de lo posible, los casos de este tipo se someterán a la caracterización de cepas. Cuando no sea posible identificar las cepas de tales casos, el rebaño de origen y todos los otros rebaños en los que haya estado el animal se someterán a un control más intensivo por si pudieran encontrarse otros casos de la enfermedad para la caracterización de las cepas.
 
 b) Además de los animales a los que se determine el genotipo conforme a lo dispuesto en el punto 5.1 anterior, deberá determinarse también el genotipo de la proteína del prión de una submuestra aleatoria de los animales ovinos a los que se realicen pruebas con arreglo a lo dispuesto en el punto 2 de este anexo II.B. Esta submuestra será representativa de, al menos, el 1 por 100 de la muestra total anual para cada Comunidad Autónoma. Como excepción, la Comunidad Autónoma podrá optar por determinar el genotipo de un número equivalente de animales vivos de la misma edad.
+
+> Se modifican los apartados A.2 y 3 por el art. único de la Orden PRE/2493/2011, de 16 de septiembre. Ref. BOE-A-2011-14954.
+
+> Se modifican los apartados A.2 y 3 por el art. único de la Orden PRE/1431/2009, de 29 de mayo. Ref. BOE-A-2009-9180.
+
+> Esta modificación tiene efectos desde el 1 de enero de 2009, según establece la disposición final única.
 
 > Se modifica por el art. único y anexo de la Orden APA/718/2002, de 2 de abril. Ref. BOE-A-2002-6474.
 
