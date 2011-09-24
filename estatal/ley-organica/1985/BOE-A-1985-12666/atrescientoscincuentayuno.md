@@ -12,7 +12,11 @@ d) Cuando sean nombrados o adscritos como Letrados al servicio del Tribunal de J
 
 e) Cuando presten servicio, en virtud de nombramiento por real decreto, o por decreto en las comunidades autónomas, en cargos que no tengan rango superior a director general.
 
-f) Cuando presten servicio en el Ministerio de Justicia en virtud de nombramiento por Real Decreto o en las Consejerías de Justicia, o asimiladas, de las Comunidades Autónomas, en virtud de nombramiento por Decreto, en cargos que tengan rango inferior al de Ministro o Consejero de Comunidad Autónoma.
+f) Cuando sean nombrados para cargo político o de confianza en virtud de Real Decreto o Decreto autonómico, o elegidos para cargos públicos representativos en el Parlamento Europeo, Congreso de los Diputados, Senado, Asambleas legislativas de las Comunidades Autónomas o Corporaciones locales.
+
+En este caso, así como en el supuesto previsto en la letra f) del artículo 356, los Jueces y Magistrados, y los funcionarios de otros Cuerpos, que reingresen en la Carrera correspondiente, deberán de abstenerse de conocer de los asuntos concretos vinculados con su actividad política.
+
+> Se modifica la letra f) por el art. único.1 de la Ley Orgánica 12/2011, de 22 de septiembre. Ref. BOE-A-2011-15037.
 
 > Se añade la letra f) y se modifica la letra d) por el art. 1.12 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
 

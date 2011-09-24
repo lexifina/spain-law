@@ -10,11 +10,15 @@
 
 5. El plazo de diez años a que se refiere el apartado 3 del artículo 357 comenzará a contarse, para los Jueces y Magistrados que se encontraran en situación de excedencia voluntaria el día de la entrada en vigor de la presente ley, a partir de esta última fecha.
 
-6. Los miembros de la Carrera Judicial o de otros Cuerpos que, a la entrada en vigor de los apartados 6, 7 y 8 de la presente disposición transitoria, se encontraren en situación de excedencia voluntaria por la causa prevista en el apartado f) del art. 356 y, conforme al apartado f) del art. 351, les correspondiere la de servicios especiales, pasarán a esta última situación, computándose como servicios efectivos en la Carrera Judicial el tiempo que hayan permanecido en dicha excedencia voluntaria.
+6. Los miembros de la Carrera Judicial que, a la fecha de aprobación de los apartados 6, 7 y 8 de la presente disposición transitoria, se encontraren en situación de excedencia voluntaria por la causa prevista en la letra f) del artículo 356, serán considerados, cuando así lo soliciten, en situación de servicios especiales desde la fecha de su nombramiento o aceptación del cargo, computándose como servicios efectivos en la Carrera Judicial el tiempo que hayan permanecido en dicha excedencia voluntaria.
+
+Este régimen, y lo dispuesto en las letras f) de los artículos 351 y 356, es aplicable a los miembros de la Carrera Fiscal y del Cuerpo de Secretarios, cualquiera que fuera su categoría.
 
 7. Cuando cesen en la situación de servicios especiales, salvo que hubiesen obtenido nueva plaza por concurso, quedarán adscritos con carácter provisional a las Salas del Tribunal Supremo, a las de los Tribunales Superiores de Justicia o de la Audiencia o a los Juzgados de la población en los que se encontraban destinados al cesar en el servicio activo, en función de la categoría y orden jurisdiccional en que servían.
 
 8. Esta adscripción se mantendrá hasta que se produzca la primera vacante de su categoría y, en su caso, turno en el Tribunal Supremo, Tribunales Superiores de Justicia, Audiencia o Juzgados a que estuvieren adscritos, la que se les adjudicará fuera de concurso y con carácter preferente.
+
+> Se modifican los apartados 6 a 8 por el art. único.3 de la Ley Orgánica 12/2011, de 22 de septiembre. Ref. BOE-A-2011-15037.
 
 > Se añaden los apartados 6 a 8 por el art. 1.20 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
 

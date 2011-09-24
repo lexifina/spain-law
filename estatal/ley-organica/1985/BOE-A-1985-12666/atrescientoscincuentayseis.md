@@ -18,7 +18,9 @@ El período de excedencia será único por cada sujeto causante. Cuando un nuevo
 
 Esta excedencia y la regulada en el apartado anterior constituyen un derecho individual de los miembros de la carrera judicial. En caso de que dos de sus miembros generasen el derecho a disfrutarlas por el mismo sujeto causante, el Consejo General del Poder Judicial podrá limitar su ejercicio simultáneo por razones justificadas relacionadas con las necesidades y el funcionamiento de los servicios.
 
-f) Cuando sea nombrado para cargo político o de confianza, salvo los supuestos enunciados en el artículo 351, o cuando se presente como candidato en elecciones para acceder a cargos públicos representativos en el Parlamento Europeo, Congreso de los Diputados, Senado, Asambleas Legislativas de las comunidades autónomas o corporaciones locales. De no resultar elegido, deberá optar, comunicándolo así al Consejo General del Poder Judicial, en el plazo de treinta días, por continuar en la situación de excedencia voluntaria o por reingresar en el servicio activo.
+f) Cuando se presente como candidato en elecciones para acceder a cargos públicos representativos en el Parlamento Europeo, Congreso de los Diputados, Senado, Asambleas legislativas de las Comunidades Autónomas o Corporaciones locales. De no resultar elegido, deberá optar, comunicándolo así al Consejo General del Poder Judicial, en el plazo de treinta días, por continuar en la situación de excedencia voluntaria o por reingresar en el servicio activo.
+
+> Se modifica la letra f) por el art. único.2 de la Ley Orgánica 12/2011, de 22 de septiembre. Ref. BOE-A-2011-15037.
 
 > Se modifica el párrafo primero de la letra e) por la disposición adicional 3.6 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
 
