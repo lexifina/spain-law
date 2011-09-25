@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 113, de 12 de mayo de 1995. Ref. BOE-A-1995-11341
+Norma derogada por la disposición derogatoria.a) de la Ley 16/2011, de 24 de junio. Ref. BOE-A-2011-10970#dd.
