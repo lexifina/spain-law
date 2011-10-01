@@ -1,3 +1,5 @@
+> Denuncia por España del Convenio, con efectos desde el 1 de octubre de 2011, por notificación de 1 de julio de 2011. Ref. BOE-A-2011-12419.
+
 FRANCISCO FRANCO BAHAMONDE
 
 JEFE DEL ESTADO ESPAÑOL,
