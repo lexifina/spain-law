@@ -10,4 +10,6 @@ c) Las que celebren los Partidos políticos, Sindicatos, Organizaciones empresar
 
 d) Las que celebren los profesionales con sus clientes en lugares cerrados para los fines propios de su profesión.
 
-e) Las que se celebren en unidades, buques y recintos militares, a las que se refieren las Reales Ordenanzas de las Fuerzas Armadas, que se regirán por su legislación específica.
+e) Las que se celebren en unidades, buques y demás establecimientos militares, que se regirán por su legislación específica.
+
+> Se modifica la letra e) por la disposición final 1 de la Ley Orgánica 9/2011, de 27 de julio. Ref. BOE-A-2011-12961.
