@@ -1194,6 +1194,42 @@ Tipo de biocida: 18 (insecticida, acaricida, producto para controlar otros artr�
 
 Disposiciones específicas: Al evaluar la solicitud de autorización de un producto, conforme el artículo 5 y el anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, los usos o los supuestos de exposición y los riesgos para los compartimentos y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a escala europea.
 
+N.º 37. Espinosad (nombre común).
+
+Números de identificación:
+
+N.º CE: 434-300-1.
+
+N.º CAS: 168316-95-8.
+
+Denominación UIQPA: El espinosad es una mezcla de un 50-95 % de espinosina A y un 5-50 % de espinosina D.
+
+Espinosina A(2R,3aS,5aR,5bS,9S,13S,14R,16aS,16bR)-2-[(6-desoxi-2,3,4-tri-O-metil-α-L-manopiranosil)oxi]-13-{[(2R,5S,6R)-5-(dimetilamino)tetrahidro-6-metil-2H-piran-2-il]oxi}-9-etil-2,3,3a,5a,5b,6,9,10,11,12,13,14,16a,16b-tetradecahidro-14-metil- 1H-as-indaceno[3,2-d]oxaciclododecin-7,15-diona. N.º CAS: 131929-60-7.
+
+Espinosina D(2S,3aR,5aS,5bS,9S,13S,14R,16aS,16bS)-2-[(6-desoxi-2,3,4-tri-O-metil-α-L-manopiranosil)oxi]-13-{[(2R,5S,6R)-5-(dimetilamino)tetrahidro-6-metil-2H-piran-2-il]oxi}-9-etil-2,3,3a,5a,5b,6,9,10,11,12,13,14,16a,16b tetradecahidro-4,14-dimetil-1H-as-indaceno[3,2-d]oxaciclododecin-7,15-diona.N.º CAS: 131929-63-0.
+
+Pureza mínima de la sustancia activa en el biocida comercializado: 850g/kg.
+
+Fecha de inclusión: 1 de noviembre de 2012.
+
+Plazo para la aplicación de las condiciones de inclusión (excepto en el caso de los biocidas que contengan más de una sustancia activa, cuyo plazo será el último fijado en la última de las decisiones de inclusión relacionadas con las sustancias activas): 31 de octubre de 2014.
+
+Fecha de vencimiento de la inclusión: 31 de octubre de 2022.
+
+Tipo de biocida: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas:
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, los usos o los supuestos de exposición y los riesgos para los compartimentos y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel europeo.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+– Los biocidas autorizados para uso profesional mediante pulverización deberán utilizarse con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del biocida que los riesgos para los usuarios profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+– En caso de biocidas que contengan espinosad que pueden dar lugar a residuos en alimentos o piensos, se comprobará la necesidad de establecer límites máximos de residuos (LMR) nuevos o modificar los existentes de conformidad con el Reglamento (CE) n.º 470/2009 y/o el Reglamento (CE) n.º 396/2005, y adoptar las medidas de reducción del riesgo necesarias para garantizar que no se superen los LMR aplicables.
+
+> Se añade el apartado Nº 37 por el art. único y anexo de la Orden PRE/2610/2011, de 27 de septiembre. Ref. BOE-A-2011-15452.
+
 > Se añade al apartado Nº 6, el tipo de producto 18, por el art. único y anexo de la Orden PRE/2421/2011, de 7 de septiembre. Ref. BOE-A-2011-14700.
 
 > Se añade el apartado Nº 36 por el art. único y anexo de la Orden PRE/1069/2011, de 26 de abril. Ref. BOE-A-2011-7634.
