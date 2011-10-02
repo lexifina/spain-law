@@ -4,7 +4,11 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/237/15449_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/237/15449_002.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/237/15449_003.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_006.png)
 
@@ -29,6 +33,8 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_016.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_017.png)
+
+> Se modifica el modelo P.2 por el art. único.1 de la Orden INT/2609/2011, de 28 de septiembre. Ref. BOE-A-2011-15449.
 
 > Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. Ref. BOE-A-2011-5607.
 

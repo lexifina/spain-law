@@ -28,13 +28,15 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_031.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_032.png)
+(Suprimido)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_033.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_034.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_035.png)
+
+> Se suprime el modelo S.6 por el art. único.3 de la Orden INT/2609/2011, de 28 de septiembre. Ref. BOE-A-2011-15449.
 
 > Se modifica por el art. único de la Orden INT662/2011, de 23 de marzo. Ref. BOE-A-2011-5607.
 
