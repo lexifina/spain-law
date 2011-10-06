@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Esta orden tiene carácter de norma básica y se dicta al amparo de lo dispuesto en el artículo 149.1.18.ª y 30.ª que atribuyen al Estado la competencia exclusiva para establecer las bases del régimen jurídico de las administraciones públicas y el régimen estatuario de los funcionarios y para regular las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y dictar normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
