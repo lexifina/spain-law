@@ -1,3 +1,5 @@
 ## Artículo veintidós
 
-Los empresarios y trabajadores a través de sus organizaciones representativas participarán en la planificación, programación, organización y control de la gestión relacionada con la salud laboral, en los distintos niveles territoriales.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única de la Ley 33/2011, de 4 de octubre. Ref. BOE-A-2011-15623.

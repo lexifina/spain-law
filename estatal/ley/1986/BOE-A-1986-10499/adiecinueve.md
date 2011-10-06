@@ -1,6 +1,6 @@
 ## Artículo diecinueve
 
-1. Los poderes públicos prestarán especial atención a la sanidad ambiental, que deberá tener la correspondiente consideración en los programas de salud.
+1. (Derogado)
 
 2. Las autoridades sanitarias propondrán o participarán con otros Departamentos en la elaboración y ejecución de la legislación sobre:
 
@@ -29,3 +29,5 @@ k) El medio laboral.
 l) Lugares, locales e instalaciones de esparcimiento público.
 
 m) Cualquier otro aspecto del medio ambiente relacionado con la salud.
+
+> Se deroga el apartado 1 por la disposición derogatoria única de la Ley 33/2011, de 4 de octubre. Ref. BOE-A-2011-15623.
