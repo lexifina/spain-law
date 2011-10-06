@@ -1,0 +1,13 @@
+## Artículo 12 bis. Derecho de separación ante concurso de entidades encargadas de la llevanza del registro y de entidades participantes en el sistema de registro y regla de la prorrata.
+
+1. Declarado el concurso de una entidad encargada de la llevanza del registro de valores representados mediante anotaciones en cuenta o de una entidad participante en el sistema de registro, los titulares de valores anotados en dichos registros gozarán del derecho de separación respecto a los valores inscritos a su favor y lo podrán ejercitar solicitando su traslado a otra entidad, todo ello sin perjuicio de lo dispuesto en los artículos 44 bis.9 y 70 ter. 1 f) de la presente Ley.
+
+2. A efectos de lo previsto en este artículo, el Juez del concurso y los órganos de la administración concursal velarán por los derechos que deriven de operaciones en curso de liquidación en el momento en que se declare el concurso de una entidad encargada de la llevanza del registro de valores representados mediante anotaciones en cuenta o de una entidad participante en el sistema de registro, atendiendo para ello a las reglas del correspondiente sistema de compensación, liquidación y registro.
+
+3. El sistema de registro deberá ofrecer las mayores garantías para que no existan descuadres entre los valores anotados y los valores efectivamente depositados en las entidades encargadas de la llevanza del registro y en las entidades participantes en el sistema de registro. Reglamentariamente podrán establecerse las situaciones en las que las posibles incidencias tendrán que ser notificadas a las autoridades supervisoras, así como los mecanismos y plazos para la resolución de las mismas.
+
+En todo caso y sin perjuicio de lo previsto en el párrafo anterior, cuando los valores con un mismo código de identificación ISIN (International Securities Identification Number) separados de la masa no resulten suficientes para satisfacer completamente los derechos de los titulares inscritos de los valores con el mismo código de identificación ISIN, el déficit se distribuirá a prorrata entre todos ellos sin perjuicio de la pretensión de resarcimiento frente a la entidad por el valor de la parte no satisfecha en valores, la cual habrá de ser satisfecha pecuniariamente.
+
+4. Cuando existan derechos reales limitados u otra clase de gravámenes sobre los valores, y sin perjuicio de los pactos entre el garante y el beneficiario de la garantía, una vez aplicada la regla de la prorrata, dichos gravámenes se entenderán constituidos sobre el resultado de la prorrata y de los créditos por la parte no satisfecha en valores.
+
+> Se añade por el art. único.1 de la Ley 32/2011, de 4 de octubre. Ref. BOE-A-2011-15622.
