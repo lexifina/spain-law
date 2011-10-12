@@ -1,15 +1,29 @@
-## Disposición adicional cuarta. Acuerdos de refinanciación.
+## Disposición adicional cuarta. Homologación de los acuerdos de refinanciación.
 
-1. A los efectos de esta disposición, tendrán la consideración de acuerdos de refinanciación los alcanzados por el deudor en virtud de los cuales se proceda al menos a la ampliación significativa del crédito disponible o a la modificación de sus obligaciones, bien mediante la prórroga de su plazo de vencimiento, bien mediante el establecimiento de otras contraídas en sustitución de aquéllas. Tales acuerdos habrán de responder, en todo caso, a un plan de viabilidad que permita la continuidad de la actividad del deudor en el corto y el medio plazo.
+1. Podrá homologarse judicialmente el acuerdo de refinanciación que reúna las condiciones del artículo 71.6 y haya sido suscrito por acreedores que representen al menos el setenta y cinco por ciento del pasivo titularidad de entidades financieras en el momento de la adopción del acuerdo. Por la homologación judicial los efectos de la espera pactada para las entidades financieras que lo hayan suscrito se extienden a las restantes entidades financieras acreedoras no participantes o disidentes cuyos créditos no estén dotados de garantía real.
 
-2. En caso de concurso, los acuerdos de refinanciación a que se refiere el apartado anterior, y los negocios, actos y pagos realizados y las garantías constituidas en ejecución de tales acuerdos, no estarán sujetos a la rescisión prevista en el artículo 71.1 de esa Ley siempre que cumplan los siguientes requisitos:
+2. La competencia para conocer de esta homologación corresponderá al juez de lo mercantil que, en su caso, fuera competente para la declaración del concurso.
 
-a) Que el acuerdo sea suscrito por acreedores cuyos créditos representen al menos tres quintos del pasivo del deudor en la fecha de adopción del acuerdo de refinanciación.
+La solicitud deberá ser formulada por el deudor y se acompañará del acuerdo de refinanciación adoptado y del informe evacuado por el experto. En la misma solicitud se podrá interesar la paralización de ejecuciones singulares.
 
-b) Que el acuerdo sea informado por un experto independiente designado por el registrador mercantil del domicilio del deudor conforme al procedimiento establecido en los artículos 338 y siguientes del Reglamento del Registro Mercantil. El informe del experto contendrá un juicio técnico sobre la suficiencia de la información proporcionada por el deudor, sobre el carácter razonable y realizable del plan en las condiciones definidas en el apartado 1, y sobre la proporcionalidad de las garantías conforme a las condiciones normales de mercado en el momento de la firma del acuerdo.
+El secretario judicial, examinada la solicitud de homologación, dictará decreto admitiéndola a trámite y, caso de ser solicitada, declarando la paralización de las ejecuciones singulares hasta la homologación y en todo caso por plazo máximo de un mes. No obstante, dará cuenta al juez para que resuelva sobre la admisión cuando estime la falta de competencia o la existencia de un defecto formal y no se hubiese subsanado por el promotor en el plazo concedido para ello, que no podrá exceder de un mes. El secretario judicial ordenará la publicación del decreto en el Registro Público Concursal por medio de un anuncio que contendrá los datos que identifiquen el deudor, el juez competente, el número de expediente registral de nombramiento de experto y del procedimiento judicial de homologación, la fecha del acuerdo de refinanciación y los efectos de la espera que en el mismo se contienen, con la indicación de que el acuerdo está a disposición de los acreedores en el Registro Mercantil competente donde se hubiere depositado para su publicidad, incluso telemática de su contenido.
 
-c) Que el acuerdo se formalice en instrumento público, al que se unirán todos los documentos que justifiquen su contenido y el cumplimiento de los requisitos anteriores.
+3. El juez otorgará la homologación siempre que el acuerdo reúna los requisitos previstos en el apartado primero y no suponga un sacrificio desproporcionado para las entidades financieras acreedoras que no lo suscribieron.
 
-3. Declarado el concurso, solo la administración concursal estará legitimada para el ejercicio de las acciones de impugnación contra estos acuerdos.
+En la homologación el juez, previa ponderación de las circunstancias concurrentes, podrá declarar subsistente la paralización de ejecuciones promovidas por las entidades financieras acreedoras durante el plazo de espera previsto en el acuerdo de refinanciación, que no podrá superar los tres años.
+
+La resolución por la que se apruebe la homologación del acuerdo de refinanciación se adoptará mediante trámite de urgencia en el más breve plazo posible y se publicará mediante anuncio insertado en el Registro Público Concursal y en el "Boletín Oficial del Estado", por medio de un extracto que contendrá los datos previstos en el párrafo tercero del apartado dos anterior.
+
+4. Dentro de los quince días siguientes a la publicación, los acreedores afectados por la homologación judicial que no hubieran prestado su consentimiento podrán impugnarla. Los motivos de la impugnación se limitarán exclusivamente a la concurrencia del porcentaje exigido para la homologación y a la valoración de la desproporción del sacrificio exigido. Todas las impugnaciones se tramitarán conjuntamente por el procedimiento del incidente concursal, y se dará traslado de todas ellas al deudor y al resto de los acreedores que son parte en el acuerdo de refinanciación para que puedan oponerse a la impugnación. La sentencia que resuelva sobre la impugnación de la homologación no será susceptible de recurso de apelación y se le dará la misma publicidad prevista para la resolución de homologación.
+
+5. Los efectos de la homologación del acuerdo de refinanciación se producen en todo caso y sin posibilidad de suspensión desde el día siguiente en que se publique la sentencia en el “Boletín Oficial del Estado”. En todo caso, las entidades financieras acreedoras afectadas por la homologación mantendrán sus derechos frente a los obligados solidariamente con el deudor y frente a sus fiadores o avalistas, quienes no podrán invocar ni la aprobación del acuerdo de refinanciación ni los efectos de la homologación en perjuicio de aquéllos.
+
+6. En caso de no cumplir el deudor los términos del acuerdo de refinanciación, cualquier acreedor, adherido o no al mismo, podrá solicitar, ante el mismo juez que lo hubiera homologado, la declaración de su incumplimiento, a través de un procedimiento equivalente al incidente concursal, del que se dará traslado al deudor y a todos los acreedores comparecidos para que puedan oponerse a la misma.
+
+Declarado el incumplimiento, los acreedores podrán instar la declaración de concurso o iniciar las ejecuciones singulares. La sentencia que resuelva el incidente no será susceptible de recurso de apelación.
+
+7. Solicitada una homologación no podrá solicitarse otra por el mismo deudor en el plazo de un año.
+
+> Se modifica por el art. único.112 de la Ley 38/2011, de 10 de octubre. Ref. BOE-A-2011-15938.
 
 > Se añade por el art. 8.3 del Real Decreto-ley 3/2009, de 27 de marzo. Ref. BOE-A-2009-5311.
