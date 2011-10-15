@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 239, de 6 de octubre de 1982. Ref. BOE-A-1982-25993.
+Norma derogada por la disposición derogatoria única del Real Decreto-ley 16/2011, de 14 de octubre. Ref. BOE-A-2011-16173#ddunica.
