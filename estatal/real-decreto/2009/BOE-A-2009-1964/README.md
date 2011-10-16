@@ -19,6 +19,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional cuarta](dacuarta.md)
 - [Disposición adicional quinta](daquinta.md)
 - [Disposición adicional sexta](dasexta.md)
+- [Disposición adicional sexta (bis)](dasextabis.md)
 - [Disposición adicional septima](daseptima.md)
 - [Disposición adicional octava](daoctava.md)
 - [Disposición adicional novena](danovena.md)
