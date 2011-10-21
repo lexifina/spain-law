@@ -1,0 +1,3 @@
+## Disposición adicional vigésima séptima. Régimen jurídico y funciones del Consorcio Valencia 2007.
+
+Con efectos desde 1 de enero de 2008, las referencias al Consorcio Valencia 2009 contenidas en la disposición adicional séptima de la Ley 41/2007, de 7 de diciembre, por la que se modifica la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario y otras normas del sistema hipotecario financiero, de regulación de las hipotecas inversas y el seguro de dependencia y por la que se establece determinada norma tributaria, y en la disposición adicional trigésima primera de la Ley 51/2007, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2008, se entenderán efectuadas al Consorcio Valencia 2007.

@@ -1,0 +1,3 @@
+## Disposición adicional vigésima primera. Prelación de créditos en los casos de venta judicial de buques.
+
+En los casos de venta judicial de un buque para pago de acreedores en los que fuera parte la Autoridad Portuaria, las tasas devengadas por utilización especial de las instalaciones portuarias tendrán la consideración de créditos a favor de la Hacienda Pública de los previstos en el artículo 580.1 del Código de Comercio, siempre que se justifiquen por certificación expedida por el Director de la Autoridad Portuaria. Los créditos por tarifas devengadas por servicios comerciales prestados al buque tendrán la prelación que resulta del artículo 580.3 del Código de Comercio.

@@ -1,0 +1,5 @@
+## Disposición adicional vigésima sexta. Compensación al transporte marítimo y aéreo de mercancías y productos agrícolas, plantas, flores, esquejes y frutos comestibles en fresco originarios de las Islas Canarias o transformados en éstas y de productos para alimentación del ganado procedentes del resto de España concedidas hasta el 31 de diciembre de 2006.
+
+Las subvenciones concedidas en aplicación del régimen vigente hasta el 31 de diciembre de 2006, para la compensación de los costes del transporte marítimo y aéreo de mercancías y productos agrícolas, plantas, flores, esquejes y frutos comestibles en fresco originarios de las Islas Canarias o transformados en éstas y de productos para alimentación del ganado procedentes del resto de España, incluidas en el anexo 1 del Tratado Constitutivo de la Comunidad Europea, podrán cubrir el coste del flete y de las tarifas portuarias correspondientes, siempre que se haya justificado fehacientemente el gasto realizado en los plazos y condiciones previstos en dicho régimen.
+
+En ningún caso se podrán percibir, como consecuencia de esta disposición, importes superiores a los ya obtenidos.

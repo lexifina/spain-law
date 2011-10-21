@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. Pliegos Reguladores de los servicios portuarios básicos.
+
+Los Pliegos Reguladores de los servicios portuarios básicos, que se hallen vigentes a la entrada en vigor de la Ley 33/2010, de 5 de agosto, mantendrán su vigencia, en cuanto no sean incompatibles con la nueva regulación de los servicios portuarios, hasta la aprobación de los Pliegos de Prescripciones Particulares previstos en el artículo 113 de esta ley o hasta la adaptación a los contenidos de la misma de los Pliegos de Prescripciones Particulares vigentes, de acuerdo con lo dispuesto en la disposición adicional vigésima novena de esta ley.

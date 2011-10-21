@@ -1,0 +1,3 @@
+## Disposición final cuarta. Seguridad Marítima.
+
+Las alusiones a la seguridad marítima efectuadas en esta ley han de entenderse referidas a los aspectos técnicos de la seguridad de los buques y la navegación, la carga y las personas a bordo, no afectando a los aspectos de la seguridad de los espacios marítimos y de los intereses nacionales en la mar regulados en la Ley Orgánica 5/2005, de 17 de noviembre, de la Defensa Nacional. Asimismo, las competencias y funciones atribuidas a los organismos públicos portuarios y a la Marina Mercante, habrán de entenderse sin perjuicio de lo previsto en dicha norma.

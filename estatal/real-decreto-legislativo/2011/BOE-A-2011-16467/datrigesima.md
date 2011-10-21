@@ -1,0 +1,3 @@
+## Disposición adicional trigésima. Reintegro a la Administración General del Estado.
+
+Las Autoridades Portuarias reintegrarán a la Administración General del Estado los importes que ésta hubiera abonado, por cualquier causa, en concepto de cuotas tributarias devengadas por la exacción de los tributos locales que recaigan sobre los bienes inmuebles que aquéllas tuviesen adscritos. El reintegro se producirá en un plazo de tres meses desde el día en que la Administración General del Estado requiera el pago a la Autoridad Portuaria, siempre que aquélla hubiera acreditado el abono de dicho importe.

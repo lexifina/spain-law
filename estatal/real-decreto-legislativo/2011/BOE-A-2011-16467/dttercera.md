@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Aplicación de las tasas de utilización a las concesiones otorgadas con anterioridad a la entrada en vigor de la Ley 33/2010, de 5 de agosto.
+
+1. A partir de la entrada en vigor de la Ley 33/2010, de 5 de agosto, el tráfico portuario que utilice instalaciones en régimen de concesión administrativa estará sujeto al pago a la Autoridad Portuaria de las tasas de utilización reguladas en esta ley.
+
+2. Se respetará la opción realizada por los concesionarios de conformidad con lo previsto en la disposición transitoria tercera de la Ley 48/2003, de 26 de noviembre, sin perjuicio de la aplicación de las nuevas cuotas previstas en esta ley. Además en el supuesto de que se hubiese optado por la aplicación de las cuotas previstas para instalaciones no concesionadas con las bonificaciones previstas en su título concesional, no será posible la aplicación de la bonificación para incentivar la captación, la fidelización y el crecimiento de los tráficos y de los servicios marítimos que coadyuven al desarrollo económico y social, prevista en el artículo 245.3 de esta ley.

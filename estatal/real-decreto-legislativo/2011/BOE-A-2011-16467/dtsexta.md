@@ -1,0 +1,7 @@
+## Disposición transitoria sexta. Régimen transitorio aplicable a los Planes de Utilización de los Espacios Portuarios y a los Planes Directores.
+
+1. Los Planes de Utilización de los Espacios Portuarios aprobados con anterioridad a la entrada en vigor de la Ley 33/2010, de 5 de agosto, mantendrán su vigencia y surtirán todos los efectos previstos en la presente ley para la Orden Ministerial de Delimitación de los Espacios y Usos Portuarios. No obstante lo anterior, cuando se proceda a su primera modificación tras la entrada en vigor de la citada Ley 33/2010, los planes deberán adaptarse a lo dispuesto en los artículos 69 y 70 de esta ley.
+
+2. Los Planes de Utilización de los Espacios Portuarios que, a la entrada en vigor de la Ley 33/2010, de 5 de agosto, se encontraran en tramitación deberán ajustarse a lo previsto en los artículos 96 y 97 de la Ley 48/2003, de 26 de noviembre, en su redacción anterior a la otorgada a los mismos por dicha Ley 33/2010, de 5 de agosto.
+
+3. Los Planes Directores de Infraestructuras del Puerto que se encontraran aprobados con anterioridad a la entrada en vigor de la Ley 33/2010, de 5 de agosto, mantendrán su vigencia. Asimismo los Planes Directores que, a la entrada en vigor de dicha Ley, se encuentren en tramitación, deberán ajustarse a lo dispuesto en el artículo 38 de la Ley 48/2003, de 26 de noviembre, en su redacción anterior a la otorgada al mismo por dicha Ley 33/2010, de 5 de agosto.

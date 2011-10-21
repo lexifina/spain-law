@@ -4,4 +4,6 @@
 
 2. No obstante, el límite del 20 por ciento a que hace referencia el apartado 6 del artículo 10 de esta ley, sólo será de aplicación respecto de aquellas concesiones en las que la cuantía del canon por ocupación o aprovechamiento del dominio público portuario, o de la tasa por ocupación privativa del dominio público portuario, haya sido calculada de acuerdo a valoraciones de terrenos aprobadas con posterioridad a la entrada en vigor de la Ley 62/1997, de 26 de diciembre, de modificación de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante.
 
+> Se mantiene la vigencia, a los solos efectos de la regulación de los supuestos en ella previstos y con el alcance que de ella resulta, en los términos establecidos por la disposición transitoria 2.2.a) del Real Decreto Legislativo 2/2011, de 5 de septiembre. Ref. BOE-A-2011-16467#dtsegunda.
+
 > Se modifica la mención realizada en el apartado 2 al artículo 19 por el art. 3.37 de la Ley 33/2010, de 5 de agosto. Ref. BOE-A-2010-12703
