@@ -1,0 +1,3 @@
+## Disposición transitoria única. Reconocimiento, certificación y registro de actividades realizadas con anterioridad a la presente Orden.
+
+Las acciones formativas que se hayan realizado con anterioridad a la entrada en vigor de la presente Orden se reconocerán, certificarán y registrarán con arreglo a la normativa que recoge la Orden ministerial de 26 de noviembre de 1992 (BOE de 10 de diciembre), las Resoluciones de 27 de abril de 1994 (BOE de 25 de mayo), de 24 de enero de 1996 (BOE de febrero), de 12 de noviembre de 1998 (BOE de 8 de diciembre), y la Resolución de 8 de octubre de 2002 (BOE del 23) que la desarrollan.
