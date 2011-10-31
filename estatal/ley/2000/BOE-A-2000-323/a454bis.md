@@ -1,6 +1,6 @@
 ## Artículo 454 bis. Recurso de revisión.
 
-1. Contra el decreto resolutivo de la reposición no se dará recurso alguno, sin perjuicio de reproducir la cuestión al recurrir, si fuere procedente, la resolución definitiva. Esta reproducción se efectuará, necesariamente, en la primera audiencia ante el Tribunal tras la toma de la decisión y, si no fuera posible por el estado de los autos, se podrá solicitar antes de que se dicte la resolución definitiva para que se solvente en ella.
+1. Contra el decreto resolutivo de la reposición no se dará recurso alguno, sin perjuicio de reproducir la cuestión, necesariamente, en la primera audiencia ante el tribunal tras la toma de la decisión y, si no fuera posible por el estado de los autos, se podrá solicitar mediante escrito antes de que se dicte la resolución definitiva para que se solvente en ella.
 
 Cabrá recurso directo de revisión contra los decretos por los que se ponga fin al procedimiento o impidan su continuación. Dicho recurso carecerá de efectos suspensivos sin que, en ningún caso, proceda actuar en sentido contrario a lo que se hubiese resuelto.
 
@@ -15,5 +15,7 @@ Transcurrido el plazo para impugnación, háyanse presentado o no escritos, el T
 Contra las resoluciones sobre admisión o inadmisión no cabrá recurso alguno.
 
 3. Contra el auto dictado resolviendo el recurso de revisión sólo cabrá recurso de apelación cuando ponga fin al procedimiento o impida su continuación.
+
+> Se modifica el apartado 1 por el art. 4.9 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
 
 > Se añade por el art. 15.189 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493

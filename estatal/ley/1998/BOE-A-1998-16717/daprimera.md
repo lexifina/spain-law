@@ -32,6 +32,10 @@ Lo dispuesto en los párrafos precedentes se entenderá, sin perjuicio del derec
 
 6. Los contratos de arrendamiento financiero se inscribirán en una sección especial del Registro de Venta a Plazos de Bienes Muebles.
 
+7. Lo previsto en los apartados 2, 3, 4 y 5 será de aplicación a los contratos de arrendamiento de bienes muebles.
+
+> Se añade el apartado 7 por el art. 2 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
+
 > Se modifica el apartado 2 y el primer párrafo y la letra c) del 3 por la disposición final 7.4 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 90, de 14 de abril de 2000. Ref. BOE-A-2000-7052
