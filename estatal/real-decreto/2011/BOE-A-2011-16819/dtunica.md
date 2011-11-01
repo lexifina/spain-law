@@ -1,0 +1,7 @@
+## Disposición transitoria única. Inclusión en el Régimen General de los participantes en programas de formación a la fecha de entrada en vigor de este real decreto.
+
+1. Quienes en la fecha de entrada en vigor de este real decreto se encuentren en la situación por él regulada se incorporarán al Régimen General de la Seguridad Social a partir de esa fecha, para lo cual la entidad u organismo a que se refiere el artículo 5 deberá solicitar su inscripción como empresa, en su caso, y la apertura del código de cuenta de cotización señalado en ese artículo, así como la afiliación y/o alta de aquéllos en dicho régimen dentro del plazo de un mes, a contar desde tal día, resultando de aplicación las normas establecidas al respecto en el Reglamento general de inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social.
+
+En este supuesto, el pago de la cotización correspondiente al mes de noviembre de 2011 podrá ingresarse, sin recargo e interés de demora alguno, hasta el 31 de enero de 2012.
+
+2. Si los participantes en los programas de formación a que se refiere esta disposición transitoria solicitan la suscripción de un convenio especial por el período de formación ya realizado a la entrada en vigor de este real decreto, el importe de la cotización a ingresar por dicho convenio será igual a la cotización al Régimen General de la Seguridad Social que corresponda por la participación en tales programas.
