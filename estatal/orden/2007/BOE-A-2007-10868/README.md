@@ -32,6 +32,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO IV](civ.md)
 - [Artículo 15](a15.md)
 - [Artículo 16](a16.md)
+- [Disposición adicional única](daunica.md)
 - [Disposición final única](dfunica.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
