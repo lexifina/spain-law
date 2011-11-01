@@ -1,0 +1,3 @@
+## Disposición adicional única. Acogimiento a las nuevas condiciones de las líneas preferenciales de crédito.
+
+Los prestatarios que hayan formalizado operaciones con las entidades de crédito, al amparo de lo previsto en el artículo 16 del Real Decreto-ley 6/2011, de 13 de mayo, por el que se adoptan medidas urgentes para reparar los daños causados por los movimientos sísmicos acaecidos el 11 de mayo de 2011 en Lorca (Murcia) podrán acogerse a las nuevas condiciones financieras de la línea de préstamos del ICO, establecidas en la disposición final primera. ocho del presente Real Decreto-ley, previa solicitud a la entidad de crédito con la que se haya formalizado la operación.
