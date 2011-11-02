@@ -1,13 +1,5 @@
 ## Artículo 5.
 
-El Consejo del Agua estará integrado por los miembros indicados y en la forma establecida en el artículo 55 del Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, correspondiendo a la representación de las Comunidades Autónomas y de los usuarios los siguientes Vocales:
+(Derogado)
 
-a) Comunidades Autónomas:
-
-Comunidad de Andalucía: Tres representantes.
-
-Comunidad de Castilla-La Mancha: Seis representantes.
-
-Comunidad de Extremadura: Seis representantes.
-
-b) Usuarios: 17 representantes.
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 1389/2011, de 14 de octubre. Ref. BOE-A-2011-17178.
