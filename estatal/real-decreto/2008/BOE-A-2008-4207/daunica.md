@@ -1,3 +1,5 @@
 ## Disposición adicional única. Mesa de Coordinación de Clasificación y Precios.
 
-El Ministerio de Agricultura, Pesca y Alimentación constituirá una Mesa de Coordinación de Clasificación y Precios, que podrá asistirse del dictamen de expertos del Comité de Control Comunitario establecido en el artículo 6 del Reglamento (CE) n.º 1183/2006, de 24 de julio. Su función será asesorar y facilitar la coordinación con las autoridades competentes de las comunidades autónomas en la aplicación de las disposiciones sobre clasificación y precios. Esta mesa, en particular, asesorará en la realización de los ensayos de certificación de los dispositivos de clasificación automatizada.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 1028/2011, de 15 de julio. Ref. BOE-A-2011-13319.
