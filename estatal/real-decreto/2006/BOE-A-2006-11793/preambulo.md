@@ -8,6 +8,8 @@ Estas ayudas se concederán a las empresas que resulten beneficiarias en funció
 
 Existen, además, singulares razones de interés público, económico y social, derivadas de la necesidad de proseguir el proceso de reestructuración de la industria del carbón y del importante impacto social que la reducción de la actividad de las empresas mineras conlleva, que justifican la especial regulación de estas ayudas y su régimen de concesión directa. Por ello, a las ayudas por costes laborales mediante prejubilaciones les resulta de aplicación lo previsto en el artículo 22.2.c) de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, relativo a ayudas en régimen de concesión directa, siendo preciso un real decreto que, de conformidad con el artículo 28.2 de la referida Ley, apruebe las normas especiales de las subvenciones reguladas en el citado articulo 22.2.c).
 
+En este real decreto se establecen además las disposiciones necesarias con el fin de garantizar la aplicación, a partir del 1 de enero de 2011, de la Decisión 2010/787/UE del Consejo, de 10 de diciembre de 2010, relativa a las ayudas estatales destinadas a facilitar el cierre de minas de carbón no competitivas, que ha sido adoptada en sustitución del Reglamento (CE) n.º 1407/2002 del Consejo, de 23 de julio de 2002, sobre ayudas estatales, cuya vigencia expiró el 31 de diciembre de 2010, y exige un cese ordenado de las actividades no competitivas de la minería del carbón en el contexto de un plan de cierre, y así adecuar la concesión de las ayudas por costes laborales mediante prejubilaciones, correspondientes a los años 2011 y 2012, a las nuevas condiciones y criterios que se han impuesto a las ayudas estatales del sector.
+
 El presente real decreto se vincula al Plan de Carbón 2006-20012, por lo que regulará las ayudas por costes laborales mediante prejubilaciones hasta el 31 de diciembre de 2012. Se dicta al amparo del Reglamento (CE) n.º 1407/2002 del Consejo, de 23 de de julio de 2002, que limita su ámbito de aplicación hasta el 31 de diciembre de 2010. En consecuencia, las ayudas correspondientes a los ejercicios 2011-2012 deberán condicionarse al cumplimiento de la nueva normativa comunitaria que en su caso se apruebe y a la observancia de las condiciones y criterios que se establezcan.
 
 La norma que se aprueba cuenta con el informe favorable del Ministerio de Trabajo y Asuntos Sociales.
@@ -15,3 +17,5 @@ La norma que se aprueba cuenta con el informe favorable del Ministerio de Trabaj
 En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, previo informe del Ministerio de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de junio de 2006,
 
 ## D I S P O N G O :
+
+> Se añade el párrafo sexto por el art. único.2 del Real Decreto 1545/2011, de 31 de octubre. Ref. BOE-A-2011-17396.
