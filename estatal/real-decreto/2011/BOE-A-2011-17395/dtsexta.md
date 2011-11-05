@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Trabajos distintos de auditoría encomendados por disposiciones legales a auditores de cuentas.
+
+Todos los trabajos que, sin tener la consideración de auditoría de cuentas, estén atribuidos por disposiciones legales a los auditores de cuentas inscritos en el Registro Oficial de Auditores de Cuentas, seguirán realizándose aplicando las normas técnicas específicas publicadas por resolución del Instituto de Contabilidad y Auditoría de Cuentas, hasta tanto se aprueben conjuntamente por las corporaciones representativas de auditores las guías, a que se refiere el artículo 3.2 del presente reglamento, y sean publicadas por el Instituto de Contabilidad y Auditoría de Cuentas.

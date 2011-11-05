@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Cursos de formación teórica.
+
+1. A los efectos de considerar cumplido el requisito relativo al seguimiento de los cursos de enseñanza teórica a que se refiere el artículo 34 de este Reglamento, se admitirán los cursos de formación de auditores homologados por el Instituto de Contabilidad y Auditoría de Cuentas, de acuerdo con la normativa anterior, sin perjuicio de la obligación de las personas que los hubieren realizado de actualizar los conocimientos adquiridos y de examinarse en la primera fase del examen de las materias que en su día no hubieran cursado.
+
+2. Quienes posean los títulos citados en la disposición transitoria tercera del texto refundido de la Ley de Auditoría de Cuentas podrán completar su formación, en función de la titulación correspondiente, y obtener la dispensa a que se refiere el artículo 36 de este Reglamento acreditando a tal efecto, mediante certificado académico de estudios, la superación de las materias necesarias impartidas en una titulación oficial con validez en todo el territorio nacional, de las recogidas en el artículo 34 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, siempre que tal posibilidad esté contemplada en la homologación realizada por el Instituto de Contabilidad y Auditoría de Cuentas.
+
+3. En tanto no se adopten por la Unión Europea las normas internacionales de auditoría a que se refiere el artículo 34.1 de este Reglamento, los cursos de formación teórica deberán promover su conocimiento general.

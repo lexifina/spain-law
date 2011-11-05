@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Nombramiento de auditores en las entidades sujetas a la obligación de auditar sus cuentas anuales, por las circunstancias previstas en las disposiciones adicionales primera, segunda y tercera de este Reglamento.
+
+El nombramiento de auditores en las entidades sujetas a la obligación de auditar sus cuentas anuales, por las circunstancias previstas en las disposiciones adicionales primera, segunda y tercera de este Reglamento, se hará por aquellas personas u órganos a quienes corresponda tal competencia, de conformidad con las normas aplicables a cada una de ellas según su naturaleza jurídica, antes de que finalice el ejercicio social por auditar.
+
+Los períodos de nombramiento y contratación de auditores se regirán por lo establecido a estos efectos en el artículo 19 del texto refundido de la Ley de Auditoría de Cuentas. No se podrá revocar a los auditores antes de que finalice el período para el que fueron nombrados, a no ser que medie justa causa, considerándose como tal, en todo caso, la extinción de la obligación de auditar las cuentas anuales de la entidad.

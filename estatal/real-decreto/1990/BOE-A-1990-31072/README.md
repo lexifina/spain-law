@@ -10,6 +10,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [(Nota inicial)](ni.md)
 - [preambulo](preambulo.md)
 - [Artículo único](aunico.md)
 - [Disposición derogatoria](dd.md)
