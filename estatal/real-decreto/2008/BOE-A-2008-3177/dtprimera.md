@@ -1,6 +1,8 @@
-## Disposición transitoria primera. Conclusión del proceso de integración.
+## Disposición transitoria primera. Proceso de integración.
 
-El proceso de integración del personal laboral del Área de actividades específicas de la Red Hospitalaria de la Defensa deberá estar concluido con anterioridad a 1 de enero de 2012.
+El proceso de integración del personal laboral del Área de actividades específicas de la Red Hospitalaria de la Defensa deberá estar concluido con anterioridad a 1 de enero de 2013.
+
+> Se modifica por el art. único del Real Decreto 1496/2011, de 24 de octubre. Ref. BOE-A-2011-17561.
 
 > Se modifica por el art. único del Real Decreto 1739/2010, de 23 de diciembre. Ref. BOE-A-2010-20068.
 
