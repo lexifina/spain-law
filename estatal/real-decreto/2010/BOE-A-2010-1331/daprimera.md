@@ -24,6 +24,8 @@ j) Procedimientos de copiado auténtico y conversión entre documentos electrón
 
 k) Modelo de Datos para el intercambio de asientos entre las Entidades Registrales: tratará de aspectos funcionales y técnicos para el intercambio de asientos registrales, gestión de errores y excepciones, gestión de anexos, requerimientos tecnológicos y transformaciones de formatos.
 
+l) Reutilización de recursos de información: tratará de las normas comunes sobre la localización, descripción e identificación unívoca de los recursos de información puestos a disposición del público por medios electrónicos para su reutilización.
+
 2. El Ministerio de la Presidencia, a propuesta del Comité Sectorial de Administración Electrónica previsto en el artículo 40 de la Ley 11/2007, de 22 de junio, aprobará las normas técnicas de interoperabilidad y las publicará mediante Resolución de la Secretaria de Estado para la Función Pública. Para la redacción y mantenimiento de las normas técnicas de interoperabilidad indicadas en el apartado 1 se constituirán los correspondientes grupos de trabajo en los órganos colegiados con competencias en materia de administración electrónica.
 
 3. Se desarrollarán los siguientes instrumentos para la interoperabilidad:
@@ -33,5 +35,7 @@ a) Inventario de procedimientos administrativos y servicios prestados: contendr�
 b) Centro de interoperabilidad semántica de la Administración: publicará los modelos de datos de intercambio tanto comunes como sectoriales, así como los relativos a infraestructuras y servicios comunes, junto con las definiciones y codificaciones asociadas; proporcionará funciones de repositorio, generación de formatos para procesamiento automatizado, colaboración, publicación y difusión de los modelos de datos que faciliten la interoperabilidad semántica entre las Administraciones públicas y de éstas con los ciudadanos; se enlazará con otros instrumentos equivalentes de las Administraciones Públicas y del ámbito de la Unión Europea.
 
 c) Directorio de aplicaciones para su libre reutilización: contendrá la relación de aplicaciones para su libre reutilización, incluyendo, al menos, los datos descriptivos relativos a nombre de la aplicación, breve descripción de sus funcionalidades, uso y características, licencia, principales estándares abiertos aplicados, y estado de desarrollo.
+
+> Se añade la letra l) al apartado 1 por la disposición final 1.1 del Real Decreto 1495/2011, de 24 de octubre. Ref. BOE-A-2011-17560.
 
 > Redactado el apartado 1.e) conforme a la corrección de errores publicada en BOE núm. 61, de 11 de marzo de 2010. Ref. BOE-A-2010-4053
