@@ -1,5 +1,5 @@
 ## Disposición adicional quinta. Especialidades del Cuerpo de Maestros.
 
-A los efectos de la participación en los concursos de traslados de ámbito estatal las especialidades docentes del Cuerpo de Maestros son las que se relacionan en el anexo III.
+(Derogada)
 
-Asimismo, tendrán la consideración de especialidades del Cuerpo de Maestros las propias de la lengua cooficial en aquellas Comunidades Autónomas que así lo tuvieran regulado.
+> Se deroga por la disposición derogatoria única del Real Decreto 1594/2011, de 4 de noviembre. Ref. BOE-A-2011-17630.

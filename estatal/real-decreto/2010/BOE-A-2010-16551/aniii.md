@@ -2,18 +2,6 @@
 
 ## Especialidades docentes del cuerpo de Maestros
 
-Educación Infantil.
+(Derogado)
 
-Primaria.
-
-Pedagogía Terapéutica.
-
-Audición y Lenguaje.
-
-Educación Física.
-
-Música.
-
-Idioma extranjero: Inglés.
-
-Idioma extranjero: Francés.
+> Se deroga por la disposición derogatoria única del Real Decreto 1594/2011, de 4 de noviembre. Ref. BOE-A-2011-17630.

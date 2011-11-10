@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Funcionarios del Cuerpo de Maestros que impartía enseñanzas en la educación básica para personas adultas.
+
+1. El profesorado del Cuerpo de Maestros que, con anterioridad a la entrada en vigor de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, estuviera ocupando plaza definitiva en un Centro de Educación de personas adultas y haya impartido docencia, al menos un curso escolar, en la Educación Secundaria para personas adultas, en el nivel equivalente a 1.º y 2.º de Educación Secundaria Obligatoria, podrá continuar en dichos puestos indefinidamente, así como ejercer su movilidad en relación con las vacantes de este nivel que a tal fin determine cada Administración educativa.
+
+2. Asimismo, podrán ejercer su movilidad a plazas o puestos de Educación Infantil y Primaria para los que esté habilitado y, caso de obtenerlas, perderá toda opción a futuras vacantes en la Educación Secundaria para personas adultas, en el nivel equivalente a 1.º y 2.º de la Educación Secundaria Obligatoria.

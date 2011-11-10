@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Plazo extraordinario de reconocimiento de especialidades.
+
+1. El personal funcionario del Cuerpo de Maestros, que a la entrada en vigor del Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes, reunía los requisitos exigidos para habilitarse para alguna especialidad de las reguladas en el presente Real Decreto, dispondrá de un plazo de 3 meses, a partir de la entrada en vigor del presente Real Decreto, para solicitar el reconocimiento de dicha especialidad.
+
+2. Durante este plazo extraordinario el reconocimiento de la especialidad se realizará de acuerdo con la normativa vigente con anterioridad a la entrada en vigor del RD 1364/2010, de 29 de octubre, es decir, el RD 895/1989, de 14 de julio, que reguló la provisión de puestos de trabajo de los colegios públicos de preescolar, EGB, y Educación especial y la Orden Ministerial de 19 de abril de 1990 que creó el puesto de trabajo de EGB-Educación musical y estableció el procedimiento para reconocer la habilitación para ocupar esos puestos.
+
+3. Asimismo, el personal funcionario que supere cursos de especialización homologados para la habilitación, iniciados con anterioridad a la entrada en vigor del Real Decreto 1364/2010, de 29 de octubre, antes mencionado, podrá solicitar el reconocimiento de la especialidad correspondiente, cuando finalicen los correspondientes cursos.

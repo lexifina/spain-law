@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Enseñanzas en lengua extranjera en Educación Primaria.
+
+Las Administraciones educativas regularán los requisitos de formación añadidos que se exigirán al personal funcionario del Cuerpo de Maestros para impartir en una lengua extranjera, un área distinta a la de dicha lengua, en centros cuyos proyectos educativos comporten un régimen de enseñanza plurilingüe. Dichos requisitos, a partir del curso académico 2013/2014, acreditarán, al menos, competencias de un nivel B2 del Marco Común Europeo de Referencia para las Lenguas, en la lengua extranjera correspondiente.

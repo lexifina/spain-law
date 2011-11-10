@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Enseñanzas en lengua extranjera en Educación Infantil.
+
+Las Administraciones educativas regularán los requisitos de formación añadidos que se exigirán, al personal funcionario del Cuerpo de Maestros especialista en Educación Infantil, para impartir en una lengua extranjera las enseñanzas de esta etapa en los centros cuyos proyectos educativos comporten un régimen de enseñanza plurilingüe. Dichos requisitos acreditarán, a partir del curso académico 2013/2014, al menos, competencias de un nivel B2 del Marco Común Europeo de Referencia para las Lenguas, en la lengua extranjera correspondiente.
