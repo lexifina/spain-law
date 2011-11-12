@@ -96,4 +96,8 @@ Pleno.
 
 Comisión Permanente.
 
+Comisión Estatal de Formación para el Empleo.
+
+> Se modifica por el art. único de la Orden TIN/3027/2011, de 28 de octubre. Ref. BOE-A-2011-17714.
+
 > Se modifica por el art. único de la Orden TIN/581/2010, de 4 de marzo. Ref. BOE-A-2010-4171.
