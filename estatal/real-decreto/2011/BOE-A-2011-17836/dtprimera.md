@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Régimen transitorio aplicable a la publicidad de las actividades de juego.
+
+Hasta la publicación del real decreto por el que se desarrolla el artículo 7 de la Ley 13/2011, de 27 de mayo, de regulación del juego, la publicidad, patrocinio y promoción de las actividades de juego se realizará de conformidad con lo dispuesto en el artículo citado, la Ley 34/1988, de 11 de noviembre, General de publicidad y su normativa de desarrollo, la Ley 3/1991, de 10 de enero, de Competencia Desleal y la Ley 29/2009, de 30 de diciembre, por la que se modifica el régimen legal de la competencia desleal y de la publicidad para la mejora de la protección de los consumidores y usuarios.
