@@ -1,0 +1,3 @@
+## Disposición adicional única. Régimen específico de la Organización Nacional de Ciegos Españoles (ONCE).
+
+De conformidad con lo previsto en el apartado tres de la disposición adicional segunda de la Ley 13/2011, de 27 de mayo, de regulación del juego, con el fin de preservar el estricto control público de la actividad de juego de la ONCE, las competencias que este real decreto atribuye a la Comisión Nacional del Juego y al titular del Ministerio de Economía y Hacienda, serán ejercidas por el Consejo de Protectorado de la ONCE en relación con las actividades sujetas a reserva que dicha organización desarrolla, con la salvedad de las competencias que corresponden al Consejo de Ministros.
