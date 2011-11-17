@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Información en Memoria del inmovilizado no financiero y los bienes en estado de venta.
+
+En tanto no estén operativos los inventarios de bienes y derechos del inmovilizado no financiero en los Departamentos Ministeriales, la información en Memoria de los elementos del inmovilizado material e intangible y de las inversiones inmobiliarias que no estén incluidos en la Central de Información de Bienes Inventariables del Estado (C.I.B.I.) se limitará a la prevista en el apartado 1 de las notas 4, «Inmovilizado material», y 6, «Inmovilizado intangible». Asimismo, la información de la nota 16, «Activos en estado de venta», se limitará a los bienes incluidos en C.I.B.I.
