@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto y, en particular, el Real Decreto 2433/1978, de 2 de octubre, por el que se determinan los funcionarios competentes para realizar la legalización única o Apostilla prevista por el Convenio XII de la Conferencia de La Haya, de 5 de octubre de 1961, así como la Orden del Ministerio de Justicia de 30 de diciembre de 1978, por la que se interpreta y desarrolla el citado Real Decreto 2433/1978, de 2 de octubre, por el que se determinan los funcionarios competentes para realizar la legalización única o Apostilla prevista por el Convenio XII de la Conferencia de La Haya, de 5 de octubre de 1961.
