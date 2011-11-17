@@ -53,3 +53,6 @@
 |  | VII. Efectivo y otros activos líquidos equivalentes |  |  |  |  |  |  |  |  |
 | 577 | 1. Otros activos líquidos equivalentes |  |  |  |  |  |  |  |  |
 | 556, 570, 571, 573, 575, 576 | 2. Tesorería |  |  |  |  |  |  |  |  |
+|  | Total Activo (A+B) |  |  |  |  | Total Patrimonio Neto y Pasivo (A+B+C) |  |  |  |
+
+> Se modifica por el art. 3.4 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.

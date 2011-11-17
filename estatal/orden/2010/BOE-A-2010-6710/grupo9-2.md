@@ -76,9 +76,7 @@ b) Se cargará por su saldo, al cierre del ejercicio, con abono a la cuenta 134,
 
 920. Ajustes positivos en la valoración del inmovilizado no financiero por aumento de su valor razonable.
 
-920.
-
-Ajustes positivos en la valoración del inmovilizado no financiero por aumento de su valor razonable.
+920. Ajustes positivos en la valoración del inmovilizado no financiero por aumento de su valor razonable.
 
 Cuenta que recoge, cuando la entidad siga el modelo de la revalorización en la valoración del inmovilizado no financiero, el aumento del valor razonable por el que se encuentran registrados los correspondientes elementos con respecto a su valor contable. Se incluye también el aumento de valor derivado de reclasificaciones por cambio de uso cuando supongan el cambio del modelo contable del coste al de la revalorización.
 
@@ -138,7 +136,7 @@ Las cuentas de este subgrupo recogerán la recuperación de los ajustes valorati
 
 Su movimiento es el siguiente:
 
-a) Se abonará en el momento en que el importe recuperable sea superior al valor contable de las inversiones, hasta el límite de los ajustes valorativos negativos previos, con cargo a las cuentas 240, «Participaciones a largo plazo en entidades del grupo, multigrupo y asociadas», o 530, «Aportaciones y participaciones a corto plazo en entidades del grupo, multigrupo y asociadas».
+a) Se abonará en el momento en que el importe recuperable sea superior al valor contable de las inversiones, hasta el límite de los ajustes valorativos negativos previos, con cargo a las cuentas 240, «Participaciones a largo plazo en entidades del grupo, multigrupo y asociadas», o 530, «Participaciones a corto plazo en entidades del grupo, multigrupo y asociadas».
 
 b) Se cargará, al cierre del ejercicio, con abono a la cuenta 133, «Ajustes por valoración en activos financieros disponibles para la venta».
 
@@ -149,3 +147,5 @@ Su movimiento es el siguiente:
 a) Se abonará en el momento en que se produzca el deterioro del activo financiero, por los ajustes valorativos negativos previos con cargo a la divisionaria correspondiente de la subcuenta 6961, «Pérdidas por deterioro de participaciones en sociedades del grupo, multigrupo y asociadas».
 
 b) Se cargará, al cierre del ejercicio, con abono a la cuenta 133, «Ajustes por valoración en activos financieros disponibles para la venta».
+
+> Se modifica la referencia a la cuenta 530 por el art. 3.6 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.

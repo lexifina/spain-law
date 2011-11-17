@@ -22,9 +22,13 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/276/17889_001.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_007.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/276/17889_002.png)
+
+> Se modifica el modelo de documento "Anexo datos adicionales" y se añade el modelo del documento "Propuesta de mandamiento de pago por devolución de ingresos multiárea" por el art. 1.6 y anexo de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 
 > Se modifican determinados modelos y se añaden los modelos de documentos "Anexo datos adicionales" y "Mandamiento de ingreso de Fondos Europeos" por el art. 1.6.2 y 3 y anexos II y III de la Orden EHA/1160/2010, de 29 de abril. Ref. BOE-A-2010-7252.
 

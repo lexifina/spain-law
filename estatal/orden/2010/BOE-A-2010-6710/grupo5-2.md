@@ -256,7 +256,7 @@ Su movimiento es análogo al señalado para la cuenta 520, «Deudas a corto plaz
 
 522. Deudas a corto plazo transformables en subvenciones.
 
-Subvenciones reintegrables recibidas de otras entidades o particulares, con vencimiento superior a un año.
+Subvenciones reintegrables recibidas de otras entidades o particulares, con vencimiento no superior a un año.
 
 Su movimiento, generalmente, es el siguiente:
 
@@ -356,13 +356,13 @@ Su movimiento es análogo al señalado para la cuenta 527, «Intereses a corto p
 
 ## 53. INVERSIONES FINANCIERAS A CORTO PLAZO EN ENTIDADES DEL GRUPO, MULTIGRUPO Y ASOCIADAS.
 
-530. Aportaciones y participaciones a corto plazo en entidades del grupo, multigrupo y asociadas.
+530. Participaciones a corto plazo en entidades del grupo, multigrupo y asociadas.
 
-5301. Aportaciones y participaciones a corto plazo en entidades del grupo.
+5301. Participaciones a corto plazo en sociedades del grupo.
 
 5302. Participaciones a corto plazo en sociedades controladas conjuntamente.
 
-5303. Participaciones a corto plazo en otras sociedades del grupo, multigrupo y asociadas.
+5303. Participaciones a corto plazo en sociedades asociadas.
 
 531. Valores representativos de deuda a corto plazo de entidades del grupo, multigrupo y asociadas.
 
@@ -390,7 +390,7 @@ Las cuentas de este subgrupo figurarán en el activo corriente del balance, en e
 
 La parte de las inversiones a largo plazo, con entidades del grupo, multigrupo y asociadas, cuyo vencimiento o cancelación vaya a producirse en el corto plazo deberá figurar en el activo corriente del balance, en el epígrafe IV, «Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas»; a estos efectos se traspasará a este subgrupo el importe que represente la inversión a largo plazo cuyo vencimiento o cancelación vaya a producirse en el corto plazo de las cuentas correspondientes del subgrupo 24, «Inversiones financieras a largo plazo en entidades del grupo, multigrupo y asociadas».
 
-530. Aportaciones y participaciones a corto plazo en entidades del grupo, multigrupo y asociadas.
+530. Participaciones a corto plazo en entidades del grupo, multigrupo y asociadas.
 
 Inversiones en derechos sobre el patrimonio neto de entidades del grupo, multigrupo y asociadas, que se vayan a extinguir en un plazo no superior a un año.
 
@@ -710,7 +710,7 @@ Su movimiento es el siguiente:
 
 a) Se cargará con abono a:
 
-a.1) La cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», a la suscripción o compra de los valores, por el importe de los dividendos acordados con vencimiento en ejercicio posterior.
+a.1) La cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», a la suscripción o compra de los valores, por el importe de los dividendos acordados cuyo vencimiento no sea superior a un año.
 
 a.2) La cuenta 760, «Ingresos de participaciones en el patrimonio neto», por el importe devengado.
 
@@ -724,7 +724,7 @@ Su movimiento es el siguiente:
 
 a) Se cargará con abono a:
 
-a.1) La cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», a la suscripción o compra de los valores, por el importe de los intereses devengados con vencimiento en el ejercicio posterior.
+a.1) La cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», a la suscripción o compra de los valores, por el importe de los intereses devengados cuyo vencimiento no sea superior a un año.
 
 a.2) La cuenta 761, «Ingresos de valores representativos de deuda», por los intereses devengados y no vencidos, en fin de ejercicio y en la cancelación anticipada.
 
@@ -800,7 +800,7 @@ Cuentas corrientes mantenidas con persona natural o jurídica que no sea banco, 
 
 Figurará en el activo corriente del balance en el epígrafe III, «Deudores y otras cuentas a cobrar», la suma de sus saldos deudores, y en el pasivo corriente del balance en el epígrafe IV, «Acreedores y otras cuentas a pagar», la suma de sus saldos acreedores.
 
-Se cargará por las remesas o entregas de fondos efectuadas por la entidad y se abonará por las recepciones de fondos a favor de la entidad, con abono y cargo, respectivamente, a cuentas del subgrupo 57, «Efectivo y activos líquidos equivalentes».
+Se cargará por las remesas o entregas efectuadas por la entidad y se abonará por las recepciones a favor de la entidad, con abono y cargo, respectivamente, a las cuentas que corresponda en función de la naturaleza de la operación.
 
 554. Cobros pendientes de aplicación.
 
@@ -1441,5 +1441,7 @@ Su movimiento es análogo al de la cuenta 594, «Deterioro de valor de valores r
 Correcciones valorativas por deterioro del valor de créditos a corto plazo concedidos a entidades que no son del grupo, multigrupo y asociadas.
 
 Su movimiento es análogo al de la cuenta 595, «Deterioro de valor de créditos a corto plazo a entidades del grupo, multigrupo y asociadas», utilizando como contrapartida las subcuentas 6971, «Pérdidas por deterioro de créditos a otras entidades», y 7971, «Reversión del deterioro de créditos a otras entidades».
+
+> Se modifican las cuentas 522, 530, 545, 546 y 550 y las subcuentas 5301 y 5303 por el art. 3.6 y 7.f) a i) de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 187, de 3 de agosto de 2010. Ref. BOE-A-2010-12422.

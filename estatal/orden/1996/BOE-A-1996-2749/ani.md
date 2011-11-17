@@ -36,7 +36,7 @@ b) Documento RC de ejercicio corriente (Solicitud de retenciones de crédito y r
 
 102 No disponibilidad.
 
-103 Retención de crédito para desconcentrar.
+103 Retención 1% cultural (art. 58.3.a) del R.D. 111/1986).
 
 106 Retención de crédito para bajas por anulación y otras minoraciones.
 
@@ -741,6 +741,8 @@ Deberá cumplimentarse este campo en los documentos contables expedidos a favor 
 236. Tipo de mandamiento de ingreso: Se indicará el código relativo al mandamiento de ingreso de que se trate.
 
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifica por el art. 1.5 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 
 > Se modifica por el art. 1.5 de la Orden EHA/1160/2010, de 29 de abril. Ref. BOE-A-2010-7252.
 

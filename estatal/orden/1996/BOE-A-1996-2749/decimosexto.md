@@ -28,11 +28,15 @@ j) Anexo datos adicionales: Se utilizará para complementar los documentos conta
 
 k) Mandamiento de ingreso de Fondos Europeos: Se utilizará para la aplicación de los ingresos procedentes de Fondos Europeos.
 
+l) Propuesta de mandamiento de pago por devolución de ingresos multiárea: Se utilizará para las devoluciones de ingresos que afecten tanto a conceptos del Presupuesto de ingresos como a conceptos no presupuestarios.
+
 2. Para el registro de las órdenes de cobro de Departamentos ministeriales, así como sus anulaciones, se utilizarán los propios documentos remitidos por dichos Departamentos, debidamente comprobados y codificados.
 
 La Intervención General de la Administración del Estado podrá dictar las disposiciones necesarias para la normalización de estos documentos, así como para su remisión a través de medios informáticos.
 
 3. Para el resto de documentos se utilizarán los modelos que figuran en el anexo II.
+
+> Se añade la letra l) al punto 1 por el art. 1.4 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 
 > Se añaden la letras j) y k) al punto 1 por el art. 1.2 de la Orden EHA/1160/2010, de 29 de abril. Ref. BOE-A-2010-7252.
 

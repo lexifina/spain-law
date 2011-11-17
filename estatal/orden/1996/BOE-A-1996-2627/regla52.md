@@ -2,9 +2,11 @@
 
 Cuando por razones justificadas no se hubiera efectuado dentro de un ejercicio el reconocimiento de obligaciones correspondientes a bienes o servicios efectivamente recibidos en dicho ejercicio, los Centros Gestores de Gasto adoptarán las medidas oportunas para remitir a la Oficina de Contabilidad, antes de que finalice el mes de enero del año siguiente, los documentos necesarios para registrar dichas obligaciones con cargo al presupuesto corriente, una vez constatados todos los requisitos legalmente exigibles y especialmente la existencia de crédito.
 
-Tomando como referencia la fecha de realización del gasto que, según lo dispuesto en el punto 5 de la regla 23, deberá figurar en el documento contable, se registrará en la contabilidad económico patrimonial del ejercicio anterior un acreedor por operaciones pendientes de aplicar al presupuesto, a través de la cuenta 409 prevista en el Plan General de Contabilidad Pública. Dicha cuenta quedará saldada al registrarse simultáneamente la operación en la contabilidad presupuestaria y patrimonial del ejercicio corriente.
+Tomando como referencia la fecha de realización del gasto que, según lo dispuesto en el punto 5 de la regla 23, deberá figurar en el documento contable, se registrará en la contabilidad económico patrimonial del ejercicio anterior un acreedor por operaciones pendientes de aplicar al presupuesto, a través de la cuenta prevista en el Plan General de Contabilidad Pública. Dicha cuenta quedará saldada al registrarse simultáneamente la operación en la contabilidad presupuestaria y patrimonial del ejercicio.
 
 Posteriormente, la Oficina de Contabilidad deberá obtener una relación de todas las operaciones registradas de acuerdo con el procedimiento regulado en esta regla, la cual justificará las citadas anotaciones en la contabilidad económico patrimonial del ejercicio anterior.
+
+> Se modifica el párrafo segundo por el art. 2.3 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 
 > Se modifica por el punto 2.7 de la Orden HAC/240/2004, de 26 de enero. Ref. BOE-A-2004-2499.
 

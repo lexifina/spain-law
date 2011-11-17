@@ -438,7 +438,7 @@ Su movimiento es análogo al señalado para la cuenta 750, «Transferencias».
 
 Ingresos a favor de la entidad, devengados en el ejercicio, procedentes de participaciones en el patrimonio neto de entidades que no sean del grupo, multigrupo y asociadas.
 
-Se abonará, por el importe de los dividendos a percibir, con cargo a la cuenta 430, «Deudores por derechos reconocidos. Presupuesto de ingresos corriente», por los dividendos con vencimiento en el ejercicio, y a la cuenta 545, «Dividendo a cobrar», por los dividendos con vencimiento en ejercicio posterior.
+Se abonará, por el importe de los dividendos a percibir, con cargo a la cuenta 430, «Deudores por derechos reconocidos. Presupuesto de ingresos corriente» por los dividendos vencidos, y a la cuenta 545, «Dividendo a cobrar», por los dividendos no vencidos y con vencimiento no superior a un año.
 
 761. Ingresos de valores representativos de deuda.
 
@@ -448,7 +448,7 @@ Su movimiento es el siguiente:
 
 a) Se abonará:
 
-a.1) Al devengo de los intereses, con cargo a las cuentas correspondientes de los subgrupos 25, «Otras inversiones financieras a largo plazo», o 54, «Inversiones financieras a largo plazo», según proceda.
+a.1) Al devengo de los intereses, con cargo a las cuentas correspondientes de los subgrupos 25, «Otras inversiones financieras a largo plazo», o 54, «Inversiones financieras a corto plazo», según proceda.
 
 a.2) Por el importe de los intereses devengados y vencidos en el ejercicio, con cargo a la cuenta 430, «Deudores por derechos reconocidos. Presupuesto de ingresos corriente».
 
@@ -770,9 +770,7 @@ Corrección valorativa, por la recuperación de valor, del inmovilizado intangib
 
 Se abonarán por el importe de la corrección de valor, con cargo a las cuentas 290, «Deterioro de valor del inmovilizado intangible», 291, «Deterioro de valor del inmovilizado material» y 292, «Deterioro de valor de las inversiones inmobiliarias».
 
-793.
-
-Reversión del deterioro de existencias y otros activos en estado de venta.
+793. Reversión del deterioro de existencias y otros activos en estado de venta.
 
 Esta cuenta funcionará a través de sus divisionarias.
 
@@ -819,5 +817,7 @@ Cuando se utilice la alternativa segunda prevista en la cuenta 490, la definici�
 Corrección valorativa, por la recuperación de valor del inmovilizado cedido en uso.
 
 Se abonará con cargo a la cuenta 299, «Deterioro de valor por usufructo cedido del inmovilizado material», cuando el importe recuperable del inmovilizado cedido en uso sea superior al valor contable con el límite del valor contable si no hubiera habido deterioro.
+
+> Se modifican las cuentas 760 y 761 por el art. 3.7.j) y k) de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 187, de 3 de agosto de 2010. Ref. BOE-A-2010-12422.

@@ -30,7 +30,7 @@ Obligaciones a pagar a cargo de la entidad como consecuencia de la ejecución de
 
 Obligaciones reconocidas durante el periodo de vigencia del presupuesto con cargo a los créditos figurados en el mismo.
 
-Funcionará a través de sus divisionarias atendiendo al origen o naturaleza de las obligaciones.
+Funcionará a través de sus divisionarias atendiendo al origen o naturaleza de las obligaciones, de acuerdo con lo establecido en las normas de elaboración de las cuentas anuales.
 
 Figurará en el pasivo corriente del balance, en el epígrafe IV, «Acreedores y otras cuentas a pagar.», salvo la subcuenta 4002, «Deudas con entidades del grupo, multigrupo y asociadas», que figurará en el epígrafe III, «Deudas con entidades del grupo, multigrupo y asociadas» y la subcuenta 4003, «Otras deudas», que figurará en el epígrafe II, «Deudas a corto plazo».
 
@@ -256,7 +256,7 @@ b.1) La cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de ga
 
 b.2) La cuenta 5581, «Provisiones de fondos para anticipos de caja fija pendientes de justificación», a la reposición del anticipo de caja fija, por los gastos del mismo reconocidos previamente, cuando la entidad haya optado por registrar de forma individualizada los pagos a terceros con cargo al anticipo.
 
-c) A fin de ejercicio, cuando la entidad haya optado por registrar los movimientos en las cuentas de tesorería relativas a anticipos de caja fija mediante regularizaciones periódicas, se cargará por los gastos devengados y no justificados a dicha fecha con abono a cuentas del grupo 6, «Compras y gastos por naturaleza» y simultáneamente se abonará por los gastos devengados que se encontraban pendientes de justificación al finalizar el ejercicio anterior, con cargo a las cuentas del grupo 6, «Compras y gastos por naturaleza» que corresponda.
+c) A fin de ejercicio, cuando la entidad haya optado por registrar los movimientos en las cuentas de tesorería relativas a anticipos de caja fija mediante regularizaciones periódicas, se abonará por los gastos devengados y no justificados a dicha fecha con cargo a cuentas del grupo 6, «Compras y gastos por naturaleza» y simultáneamente se cargará por los gastos devengados que se encontraban pendientes de justificación al finalizar el ejercicio anterior, con abono a las cuentas del grupo 6, «Compras y gastos por naturaleza» que corresponda.
 
 Su saldo, acreedor, recogerá las obligaciones pendientes de aplicar a presupuesto.
 
@@ -388,7 +388,7 @@ Cuenta deudora que recoge los derechos reconocidos durante el periodo de vigenci
 
 Figurará en el activo corriente del balance, en el epígrafe III, «Deudores y otras cuentas a cobrar», salvo la subcuenta 4302, «Inversiones financieras en entidades del grupo, multigrupo y asociadas» que figurará en el epígrafe IV, «Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas», y la subcuenta 4303, «Otras inversiones financieras», que figurará en el epígrafe V, «Inversiones financieras a corto plazo».
 
-Funcionará a través de sus divisionarias, atendiendo al origen o a la naturaleza de los derechos.
+Funcionará a través de sus divisionarias, atendiendo al origen o a la naturaleza de los derechos, de acuerdo con lo establecido en las normas de elaboración de las cuentas anuales.
 
 Su movimiento es el siguiente:
 
@@ -704,7 +704,7 @@ Su saldo, deudor, recogerá el importe pendiente de ingresar.
 
 Recoge derechos a cobrar con vencimiento a corto plazo procedentes de anulaciones por aplazamiento y fraccionamiento de derechos reconocidos en las cuentas 430, «Deudores por derechos reconocidos. Presupuesto de ingresos corriente», y 431, «Deudores por derechos reconocidos. Presupuestos de ingresos cerrados».
 
-Funcionará, a través de sus divisionarias, atendiendo al origen o a la naturaleza de los derechos.
+Funcionará, a través de sus divisionarias, atendiendo al origen o a la naturaleza de los derechos, de acuerdo con lo establecido en las normas de elaboración de las cuentas anuales.
 
 Figurará en el activo corriente del balance, en el epígrafe III, «Deudores y otras cuentas a cobrar», salvo la subcuenta 4432, «Inversiones financieras en entidades del grupo, multigrupo y asociadas» que figurará en el epígrafe IV, «Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas», y la subcuenta 4433, «Otras inversiones financieras», que figurará en el epígrafe V, «Inversiones financieras a corto plazo».
 
@@ -1301,3 +1301,5 @@ b) Se cargará, igualmente al final del ejercicio, por la dotación realizada al
 a) Se abonará, a lo largo del ejercicio, por el importe de los riesgos que se vayan estimando, con cargo a la cuenta 697, «Pérdidas por deterioro de créditos», a través de la subcuenta que corresponda.
 
 b) Se cargará a medida que se vayan dando de baja los saldos de deudores para los que se dotó la cuenta correctora de forma individualizada o cuando desaparezca el riesgo, por el importe de la misma, con abono a la cuenta 797, «Reversión del deterioro de créditos», a través de la subcuenta que corresponda.
+
+> Se modifica la definición de las cuentas 400, 430 y 443 y el movimiento c) de la cuenta 413 por el art. 3.7.b) a e) de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.

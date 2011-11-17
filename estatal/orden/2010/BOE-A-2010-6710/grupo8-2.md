@@ -150,9 +150,9 @@ b) Se abonará, al cierre del ejercicio, con cargo a la cuenta 136, «Ajustes po
 
 8421. Del resto de entidades.
 
-840/841/842. Imputación de…
+840/841/842. Imputación de…...
 
-Cuentas que recogen la transferencia a la cuenta del resultado económico patrimonial de las subvenciones recibidas que han sido imputadas previamente al patrimonio neto. Asimismo, se registrará, a través de la cuenta 840, «Imputación de subvenciones para la financiación del inmovilizado no financiero y de activos en estado de venta», la reversión anticipada de activos cedidos en uso de forma gratuita o recibidos como subvención, por un periodo de cesión indefinido o similar a la vida económica del bien.
+Cuentas que recogen la transferencia a la cuenta del resultado económico patrimonial de las subvenciones recibidas que han sido imputadas previamente al patrimonio neto.
 
 Funcionará a través de sus divisionarias.
 
@@ -162,7 +162,7 @@ a) Se cargarán:
 
 a.1) En el momento de la imputación a la cuenta del resultado económico patrimonial de la subvención recibida, con abono a la correlativa cuenta del subgrupo 75, «Transferencias y subvenciones».
 
-a.2) En el caso de la cuenta 840, «Imputación de subvenciones para la financiación del inmovilizado no financiero y de activos en estado de venta», en el momento de la reversión anticipada de un activo cedido de forma gratuita o recibido como subvención, cuando el periodo de cesión sea indefinido o similar a la vida económica del bien, con abono a la cuenta representativa del bien.
+a.2) (Suprimido)
 
 b) Se abonarán, al cierre de ejercicio, con cargo a la correlativa cuenta del subgrupo 13, «Subvenciones y ajustes por cambio de valor».
 
@@ -174,6 +174,8 @@ Recoge las correcciones valorativas por deterioro de participaciones en entidade
 
 Su movimiento es el siguiente:
 
-a) Se cargará, en el momento en que se produzca el deterioro de valor del activo financiero, hasta el límite de los aumentos valorativos previos, con abono a la subcuenta que corresponda de las cuentas 240, «Participaciones a largo plazo en entidades del grupo, multigrupo y asociadas», o 530, «Aportaciones y participaciones a corto plazo en entidades del grupo, multigrupo y asociadas».
+a) Se cargará, en el momento en que se produzca el deterioro de valor del activo financiero, hasta el límite de los aumentos valorativos previos, con abono a la subcuenta que corresponda de las cuentas 240, «Participaciones a largo plazo en entidades del grupo, multigrupo y asociadas», o 530, «Participaciones a corto plazo en entidades del grupo, multigrupo y asociadas».
 
 b) Se abonarán, al cierre del ejercicio, con cargo a la cuenta 133, «Ajustes por valoración en activos financieros disponibles para la venta».
+
+> Se modifica la referencia a la cuenta 530 y las cuentas 840/841/842 por el art. 3.6 y 3.7.l) y m) de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.

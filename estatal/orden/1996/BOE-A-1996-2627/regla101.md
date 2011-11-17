@@ -1,17 +1,17 @@
 ## Regla 101. Regularizaciones a fin de ejercicio
 
-En relación con las Deudas del Estado, a fin de ejercicio se deberán efectuar las siguientes operaciones, que no afectarán al Presupuesto del Estado:
+En relación con la Deuda del Estado y con los avales y otras garantías concedidas, se deberán efectuar las siguientes operaciones a fin de ejercicio, que no afectarán al Presupuesto del Estado:
 
-a) La imputación a resultados del ejercicio de los rendimientos explícitos devengados y no vencidos.
+a) La imputación a resultados del ejercicio de los rendimientos explícitos devengados y no vencidos y de la diferencia devengada entre el valor de reembolso al vencimiento y el valor inicial de la deuda, en los términos previstos en el PGCP.
 
-b) La imputación a resultados de los gastos financieros diferidos o de los ingresos financieros diferidos registrados en las Deudas del Estado con vencimiento a largo plazo, según el plan financiero que defina la Dirección General del Tesoro y Política Financiera.
+b) El registro por su valor razonable de los instrumentos financieros que según el PGCP deban valorarse con ese criterio.
 
-c) La reclasificación contable de aquellas deudas registradas en rúbricas a largo plazo como a corto plazo, por la parte de las mismas que venza en el ejercicio siguiente.
+c) La reclasificación contable de aquellas deudas registradas en rúbricas a largo plazo a rúbricas a corto plazo, por la parte de las mismas que venza en el ejercicio siguiente.
 
-d) En el caso de deudas en moneda extranjera, se deberán registrar los correspondientes pasivos según el tipo de cambio vigente a fin de ejercicio.
+d) En el caso de deudas en moneda extranjera, el registro de los correspondientes pasivos según el tipo de cambio vigente a fin de ejercicio.
 
-e) En el caso de Letras del Tesoro y Papel comercial, se deberán periodificar aquellos intereses implícitos registrados en el momento de la emisión como gastos financieros, pero que todavía no se han devengado en fin de ejercicio.
+e) El registro de la provisión que proceda dotar por avales y otras garantías concedidas.
 
-f) Con base en el estado de situación de la cuenta del Servicio Financiero de la Deuda que rinda el Banco de España, la oficina de contabilidad registrará los movimientos globales de la citada cuenta en el periodo a que se refiera.
+El registro de las operaciones de los apartados b) y e) anteriores se realizará con base en la información que a tal efecto remitirá la Dirección General del Tesoro y Política Financiera a la Intervención Delegada en dicho Centro Directivo. El registro de las restantes operaciones se realizará con base en los correspondientes documentos contables de la Deuda del Estado que a tal efecto expedirá el Servicio gestor.
 
-En cualquier caso deberán quedar registrados antes del cierre del ejercicio los movimientos habidos en la cuenta hasta 31 diciembre.
+> Se modifica por el art. 2.7 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.

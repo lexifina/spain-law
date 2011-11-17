@@ -97,6 +97,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Regla 51](regla51.md)
 - [Regla 52](regla52.md)
 - [Regla 53](regla53.md)
+- [Regla 53 bis](regla53bis-2.md)
 - [SECCIÓN 8](s8.md)
 - [Regla 54](regla54.md)
 - [Regla 55](regla55.md)

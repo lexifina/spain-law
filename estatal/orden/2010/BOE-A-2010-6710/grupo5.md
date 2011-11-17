@@ -44,10 +44,10 @@
 |  | 528. Intereses a corto plazo de otras deudas. |
 | 53. INVERSIONES FINANCIERAS A CORTO PLAZO EN ENTIDADES DEL GRUPO, MULTIGRUPO Y ASOCIADAS. |
 | --- |
-|  | 530. Aportaciones y participaciones a corto plazo en entidades del grupo, multigrupo y asociadas. |
-|  |  | 5301. Aportaciones y participaciones a corto plazo en entidades del grupo. |
+|  | 530. Participaciones a corto plazo en entidades del grupo, multigrupo y asociadas. |
+|  |  | 5301. Participaciones a corto plazo en sociedades del grupo. |
 |  |  | 5302. Participaciones a corto plazo en sociedades controladas conjuntamente. |
-|  |  | 5303. Participaciones a corto plazo en otras sociedades del grupo, multigrupo y asociadas. |
+|  |  | 5303. Participaciones a corto plazo en sociedades asociadas. |
 |  | 531. Valores representativos de deuda a corto plazo de entidades del grupo, multigrupo y asociadas. |
 |  |  | 5310. Valores representativos de deuda a corto plazo de entidades del grupo, multigrupo y asociadas mantenidos a vencimiento. |
 |  |  | 5311. Valores representativos de deuda a corto plazo de entidades del grupo, multigrupo y asociadas disponibles para la venta. |
@@ -139,3 +139,5 @@
 |  |  | 5970. Deterioro de valor de valores mantenidos a vencimiento. |
 |  |  | 5971. Deterioro de valor de valores disponibles para la venta. |
 |  | 598. Deterioro de valor de créditos a corto plazo. |
+
+> Se modifica la cuenta 530 y las subcuentas 5301 y 5303 por el art. 3.6 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.

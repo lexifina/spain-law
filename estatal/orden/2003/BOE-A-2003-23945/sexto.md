@@ -18,6 +18,10 @@ Los órganos competentes para expedir los citados documentos de ingreso comproba
 
 Los modelos constarán al menos de tres ejemplares: ejemplar para el interesado, ejemplar para la Administración o Autoridad y ejemplar para la entidad colaboradora. El ejemplar para la Administración o Autoridad, una vez validado, se presentará por el obligado al pago ante el órgano gestor o Autoridad, cuando la tramitación administrativa así lo exija.
 
+Los documentos de ingreso 069 podrán ser expedidos por los órganos de otras entidades del sector público distintas de la Administración General del Estado, para la posterior recaudación del ingreso a través de las entidades colaboradoras de acuerdo con el procedimiento establecido en esta Orden, cuando se refieran a ingresos no tributarios que, aún siendo gestionados por dichas entidades, constituyan recursos del Presupuesto del Estado.
+
+> Se añade el último párrafo por la disposición adicional 2 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
+
 > Se modifica por el apartado único.1 de la Orden EHA/3967/2007, de 26 de diciembre. Ref. BOE-A-2008-249.
 
 > Téngase en cuenta para su aplicación la disposición transitoria única.

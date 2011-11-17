@@ -330,7 +330,7 @@ b) Se abonará por las correspondientes entregas a conformidad, con cargo, gener
 
 2402. Participaciones a largo plazo en sociedades controladas conjuntamente.
 
-2403. Participaciones a largo plazo en otras sociedades del grupo, multigrupo y asociadas.
+2403. Participaciones a largo plazo en sociedades asociadas.
 
 241. Valores representativos de deuda a largo plazo de entidades del grupo, multigrupo y asociadas.
 
@@ -710,7 +710,7 @@ Su movimiento es el siguiente:
 
 a) Se abonará, a la adquisición o suscripción de las participaciones, por el importe pendiente de desembolsar, con cargo a la cuenta 250, «Inversiones financieras a largo plazo en instrumentos de patrimonio».
 
-b) Se cargará, por los desembolsos que se vayan exigiendo, con abono, generalmente, a la cuenta 549, «Desembolsos pendientes sobre participaciones en el patrimonio neto a corto plazo», o a la cuenta 250, «Inversiones financieras a largo plazo en instrumentos de patrimonio», cuando se enajenen las participaciones no desembolsadas totalmente.
+b) Se cargará, por los desembolsos que se vayan exigiendo, con abono, generalmente, a la cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», o a la cuenta 250, «Inversiones financieras a largo plazo en instrumentos de patrimonio», cuando se enajenen las participaciones no desembolsadas totalmente.
 
 ## 26. FIANZAS Y DEPÓSITOS CONSTITUIDOS A LARGO PLAZO.
 
@@ -1001,5 +1001,7 @@ Su movimiento, con carácter general, es el siguiente:
 a) Se abonará por el importe estimado del valor del usufructo cedido del bien durante el periodo de la cesión con cargo a la cuenta 651, «Subvenciones».
 
 b) Se cargará con abono a la cuenta 799, «Reversión del deterioro por el usufructo cedido del inmovilizado material», cuando el importe recuperable sea superior al valor contable con el límite del valor contable si no hubiera habido deterioro.
+
+> Se modifica la subcuenta 2403 y el movimiento b) de la cuenta 259 por el art. 3.6 y 7.a) de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 187, de 3 de agosto de 2010. Ref. BOE-A-2010-12422.

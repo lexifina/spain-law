@@ -49,7 +49,7 @@
 |  |  | 2400. Participaciones a largo plazo en entidades de Derecho Público. |
 |  |  | 2401. Participaciones a largo plazo en sociedades del grupo. |
 |  |  | 2402. Participaciones a largo plazo en sociedades controladas conjuntamente. |
-|  |  | 2403. Participaciones a largo plazo en otras sociedades del grupo, multigrupo y asociadas. |
+|  |  | 2403. Participaciones a largo plazo en sociedades asociadas. |
 |  | 241. Valores representativos de deuda a largo plazo de entidades del grupo, multigrupo y asociadas. |
 |  |  | 2410. Valores representativos de deuda a largo plazo de entidades del grupo, multigrupo y asociadas mantenidos a vencimiento. |
 |  |  | 2411. Valores representativos de deuda a largo plazo de entidades del grupo, multigrupo y asociadas disponibles para la venta. |
@@ -143,3 +143,5 @@
 |  |  | 2992. | Deterioro de valor por usufructo cedido de infraestructuras. |
 |  |  | 2993. | Deterioro de valor por usufructo cedido de bienes del patrimonio histórico. |
 |  |  | 2999. | Deterioro de valor por usufructo cedido de otro inmovilizado material. |
+
+> Se modifica la subcuenta 2403 por el art. 3.6 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
