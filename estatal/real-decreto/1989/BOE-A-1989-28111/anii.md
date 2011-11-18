@@ -42,7 +42,13 @@ Octava.–1. El Notario no está obligado a pagar por cuenta del cliente cantida
 
 Novena.–1. El importe de los derechos devengados, la base tenida en cuenta para su cálculo y los números del Arancel aplicados, se harán constar por el Notario, con su firma, al pie de la escritura o documento matriz y de todas sus copias.
 
-2. Los derechos que los Notarios devenguen con arreglo a estos Aranceles se consignarán en la oportuna minuta en la que se expresarán los suplidos, conceptos, bases y números del Arancel aplicados que deberá firmar el Notario. La minuta deberá contener expresa mención del recurso que contra ella cabe y el plazo para su impugnación.
+2. Los derechos que los Notarios devenguen con arreglo a estos aranceles se consignarán en la oportuna minuta en la que se expresarán los suplidos, conceptos, bases y números del arancel aplicados que deberá firmar el Notario, de acuerdo con las obligaciones de información que se establecen en el apartado 2 de la disposición adicional octava del Real Decreto-ley 8/2010, de 20 de mayo, por el que se adoptan medidas extraordinarias para la reducción del déficit público.
+
+La minuta deberá contener expresa mención del recurso que contra ella cabe y el plazo para su impugnación.
+
+El modelo de minuta será uniforme para todas las Notarías y será aprobado por Resolución de la Dirección General de los Registros y del Notariado.
+
+Las operaciones, con independencia de su modo de tramitación, que no tengan señalados derechos en el arancel no devengarán derecho de cobro ninguno.
 
 3. El Notario rendirá cuenta por los gastos anticipados y por los pagos a terceros hechos en nombre o por cuenta del cliente.
 
@@ -61,6 +67,8 @@ Undécima.–Un ejemplar completo del Arancel, con sus normas de aplicación y a
 Duodécima.-Cuando la base exceda de 601.012,10 euros, el Notario aportará a la Mutualidad Notarial una parte de los derechos correspondientes al exceso en la cuantía y forma que fije el Ministerio de Justicia.
 
 Decimotercera.–El Notario podrá dispensar totalmente los derechos devengados por cualquier acto o contrato, cuya documentación autorice, pero no tendrá la facultad de hacer dispensas parciales. Tampoco podrá el Notario dispensar totalmente los derechos correspondientes a uno o varios actos o contratos conexos o económicamente relacionados con otros otorgados por el mismo sujeto respecto de los cuales no conceda la misma dispensa.
+
+> Se modifica la norma 9.2 por el art. 1.3 del Real Decreto 1612/2011, de 14 de noviembre. Ref. BOE-A-2011-17962.
 
 > Se sustituye la conversión a euros de las cuantías contempladas en las normas 11 y 12 por el art. 2 de la Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
 
