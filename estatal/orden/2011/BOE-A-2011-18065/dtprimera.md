@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Fecha de puesta en servicio de centros de mantenimiento anteriores a la entrada en vigor de la orden.
+
+Para los centros de mantenimiento puestos en servicio entre el 1 de enero de 2008 y la fecha de entrada en vigor de la presente orden, para su inclusión en el régimen retributivo, se considerará como fecha de puesta en servicio la correspondiente a la fecha de autorización para el inicio de la actividad industrial de la instalación, y, en su defecto, la fecha de obtención de la cedula de habitabilidad del edificio, y, en su defecto, la fecha del contrato de suministro eléctrico.
