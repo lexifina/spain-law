@@ -25,4 +25,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 5](a5.md)
 - [Capítulo IV](ci-4.md)
 - [Artículo 6](a6.md)
+- [Artículo 7](a7.md)
+- [Disposición adicional única](da.md)
 - [(Información relacionada)](ir.md)
