@@ -1,0 +1,7 @@
+El Real Decreto 460/2011, de 1 de abril, por el que se regula el reconocimiento de las organizaciones de productores de leche y de las organizaciones interprofesionales en el sector lácteo y se explicitan las decisiones de España sobre la contratación en el sector lácteo en relación a la normativa europea que modificará para el sector lácteo el Reglamento (CE) n.º 1234/2007 del Consejo, crea en su artículo 9 el Registro nacional de organizaciones y asociaciones de organizaciones de productores de leche, en el que deben inscribirse las organizaciones y asociaciones de productores de leche reconocidas, de acuerdo con lo establecido en el citado real decreto.
+
+El mencionado real decreto establece que mediante orden ministerial se determinaría la información correspondiente a las organizaciones de productores y asociaciones reconocidas que debe ser remitida al Ministerio de Medio Ambiente, y Medio Rural y Marino por parte de las comunidades autónomas. Dicha información se establece por la presente orden en el formato establecido de mutuo acuerdo, cada vez que reconozcan una organización o asociación de organizaciones.
+
+En la elaboración de esta orden han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados, así como la Agencia Española de Protección de Datos y la Comisión Ministerial de Administración Electrónica.
+
+En su virtud, dispongo:
