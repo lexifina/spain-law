@@ -1,0 +1,3 @@
+## Disposición adicional primera. Delegación de competencias.
+
+La Comisión Ministerial de Administración Electrónica del Ministerio de Trabajo e Inmigración, a propuesta de su presidente, podrá delegar en la Comisión Técnica del Consejo General de Administración Electrónica de la Seguridad social las competencias de las letras i) a l) del artículo 2 de la presente orden, para los expedientes del ámbito de la Seguridad Social y referidos a contrataciones no sujetas a regulación armonizada. La Gerencia de Informática de la Seguridad Social informará al siguiente Pleno de la Comisión Ministerial de Administración Electrónica del contenido de los expedientes informados por la Comisión Técnica del Consejo Superior de Administración Electrónica de la Seguridad Social.
