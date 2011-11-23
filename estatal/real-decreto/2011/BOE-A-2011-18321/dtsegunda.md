@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Tramitación de conciertos con medios privados.
+
+Hasta tanto se establezcan por el Ministerio de Trabajo e Inmigración los términos y condiciones de la adecuación de los conciertos con medios privados a lo establecido en este real decreto, las mutuas podrán seguir tramitando nuevos conciertos al amparo de la Orden TIN/2786/2009, de 14 de octubre, por la que se implanta el proceso telemático normalizado Cas@, para la tramitación de las solicitudes de autorización y comunicaciones de los conciertos con medios privados para hacer efectivas las prestaciones sanitarias y recuperadoras a cargo de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
