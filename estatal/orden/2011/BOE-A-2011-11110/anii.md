@@ -54,4 +54,10 @@ c) Por vía postal, al apartado postal determinado para esta finalidad.
 
 La empresa deberá conservar en su poder, en el local a cuyos datos se refiera, una copia del informe enviado al ICAA durante el plazo de un año para su entrega, en su caso, al personal acreditado por el ICAA para la realización de funciones de inspección y control.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/153/11110_001.png)
+## DECLARACIÓN SEMANAL DE EXHIBICIÓN DE PELÍCULAS
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/266/17455_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/266/17455_002.png)
+
+> Se modifica el modelo de parte por Resolución de 27 de octubre de 2011. Ref. BOE-A-2011-17455.
