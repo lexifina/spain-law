@@ -1,0 +1,9 @@
+El Real Decreto-ley 4/2011, de 8 de abril, de medidas urgentes de impulso a la internacionalización, crea la entidad pública empresarial Instituto Español de Comercio Exterior (ICEX), como transformación de la entidad de Derecho público con la misma denominación creada por el derogado Real Decreto-ley 6/1982, de 2 de abril, sobre inversiones públicas de carácter extraordinario y medidas de fomento de la exportación, previendo en la disposición transitoria del citado Real Decreto-ley 4/2011 que en el plazo de tres meses desde su entrada en vigor, el Gobierno aprobará el Estatuto de la Entidad Pública Empresarial ICEX.
+
+Bajo la forma de entidad pública empresarial, el ICEX podrá obtener una mayor agilidad y eficiencia en su gestión económica, aumentar la oferta de servicios y poner en marcha operaciones de inversión financiera, potenciando la capacidad de actuación y financiación de las empresas, en particular de las pequeñas y medianas empresas (PYMES), en un contexto como el actual en el que resulta fundamental el apoyo institucional a la internacionalización y a la mejora de su competitividad.
+
+El artículo 62.3 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, establece que los estatutos de los organismos autónomos y entidades públicas empresariales se aprobarán por Real Decreto acordado en Consejo de Ministros, a iniciativa del titular del Ministerio de adscripción y a propuesta conjunta de los Ministros de Administraciones Públicas y de Economía y Hacienda.
+
+En su virtud, a iniciativa del Ministro de Industria, Turismo y Comercio, a propuesta del Ministro de Política Territorial y Administración Pública y de la Ministra de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de noviembre de 2011,
+
+DISPONGO:
