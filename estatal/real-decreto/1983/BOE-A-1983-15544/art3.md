@@ -6,9 +6,13 @@ A efectos de esta Reglamentación, las distintas clases de sal se denominan como
 
 3.2 Sal marina.–Es la sal procedente de la evaporación del agua del mar.
 
+Cuando se obtiene exclusivamente por la acción del viento y del sol, recogida a mano y lavada sólo en el cristalizador, sin la adición de ningún ingrediente, se puede denominar «sal marina virgen».
+
+Cuando la capa flotante de la sal cristalizada en la superficie del agua de los cristalizadores, formada exclusivamente por la acción del viento y del sol, se recolecta manualmente y sin lavar ni adicionar ningún ingrediente, se puede denominar «flor de sal».
+
 3.3 Sal de manantial.–Es la sal procedente de manantiales salinos obtenida por evaporación de las salmueras correspondientes.
 
-3.4 Sal refinada.–Es la sal gema, sal marina o sal de manantial purificada por lavado o también por disolución seguida de cristalización. Si esta cristalización se lleva a cabo al vacío se denominará: Sal vacuum.
+3.4 Sal refinada: es la sal gema, la sal de manantial o la sal marina, excepto la sal marina virgen y la flor de sal, purificada por lavado o también por disolución seguida de cristalización. Si esta cristalización se lleva a cabo al vacío se denominará «Sal vacuum».
 
 3.5 Sal de salazón.–Es la sal comestible a la que se le tolera un contenido en magnesio superior al normal por ir destinada a la salazón.
 
@@ -31,3 +35,5 @@ Entre ellas se distinguen las siguientes:
 3.8.5 Otras sales.–Son las que, elaboradas con sal comestible se les pueda añadir otras sustancias alimenticias que en su día pueda autorizar la Dirección General de Salud Pública.
 
 Las sales denominadas en los puntos 3.8.1 al 3.8.5 precisarán autorización, previa a su comercialización, de la Dirección General de Salud Pública.
+
+> Se modifican los apartados 2 y 4 por el art. único.1 del Real Decreto 1634/2011, de 14 de noviembre. Ref. BOE-A-2011-18537.
