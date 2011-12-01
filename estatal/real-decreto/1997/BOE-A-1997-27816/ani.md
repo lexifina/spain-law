@@ -62,13 +62,13 @@ Csti = importe por aplicación de las cuotas para atender los costes de «stock�
 
 Ioi = ingresos establecidos por acometidas, enganches, verificaciones y alquileres de contadores y otros equipos de medida liquidables, obtenidos por aplicación de las tarifas que están reguladas por el Real Decreto 2949/1982 en lo referente a derechos de acometida, enganche y verificación y por el Real Decreto 1725/1984 en lo referente a los alquileres de contadores y equipos de medida.
 
-Inri = ingresos netos facturados por peajes o tarifa de acceso a distribuidores consumidores cualificados y comercializadores, vendedores a otros países, exportadores y los sujetos no nacionales que realicen operaciones de tránsito.
+Inri = Ingresos netos facturados por peajes o tarifas de acceso a generadores, distribuidores, consumidores directos en mercado y comercializadores, vendedores a otros países, exportadores y los sujetos no nacionales que realicen operaciones de tránsito.
 
 ## Inri = Iri - Cei - Comi - Cosi - Censei - Ccesi - Cmni - Csci - Csti
 
 Siendo:
 
-Iri = facturación bruta en concepto de peajes a tarifa de acceso a las redes, así como otras facturaciones derivadas de la aplicación de las cuotas aplicables, todo ello a efectos la facturación a consumidores cualificados y comercializadores. A los sujetos externos que accedan a las redes se les facturan los mismos peajes, y los costes permanentes, excepto la retribución fija, todos ellos establecidos en la disposición que apruebe la tarifa para el año correspondiente.
+Iri = facturación bruta en concepto de peajes o tarifa de acceso a las redes, así como otras facturaciones derivadas de la aplicación de las cuotas aplicables, todo ello a efectos de la facturación a generadores,consumidores directos en mercado y comercializadores. A los sujetos externos que accedan a las redes se les facturan los mismos peajes, y los costes permanentes, todos ellos establecidos en la disposición que apruebe la tarifa para el año correspondiente.
 
 Cei, Comi, Cosi, Censei, Ccesi, Cmni, Csci y Csti, con el mismo significado que el establecido en la regulación de Infi anterior, pero aplicando las cuotas sobre los peajes establecidos en la disposición que apruebe la tarifa para el año correspondiente.
 
@@ -223,6 +223,8 @@ I.11.3. Antes del día 30 de cada mes la CNSE establecerá y notificará a cada 
 I.11.4. Los agentes a los que corresponda efectuar pagos por liquidaciones, los realizarán a los agentes acreedores antes de transcurridos 15 días desde que dichos pagos hayan sido notificados.
 
 I.11.5. Las comunicaciones a los agentes así como las liquidaciones a cuenta y definitivas deberán ser comunicadas por la CNSE a la Dirección General de la Energía en el momento en que se realicen o liquiden.
+
+> Se modifica el apartado I.2 por la disposición final 1.1 y 2 del Real Decreto 1544/2011, de 31 de octubre. Ref. BOE-A-2011-17891.
 
 > Se añaden los cinco últimos párrafos al apartado I.9 por el art. 24 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
 

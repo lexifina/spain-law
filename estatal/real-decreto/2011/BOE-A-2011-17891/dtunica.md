@@ -1,0 +1,5 @@
+## Disposición transitoria única. Peajes de acceso a aplicar a la actividad de generación.
+
+Hasta que se desarrolle la metodología y se establezcan los peajes de acceso de acuerdo a lo dispuesto en el artículo 17 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, el precio del peaje de generación a aplicar será el establecido en la disposición transitoria primera del Real Decreto-ley 14/2010, de 23 de diciembre, por el que se establecen medidas urgentes para la corrección del déficit tarifario del sector eléctrico, que asciende a 0,5 EUR/MWh, y que será también incluido en el coste unitario de generación de los grupos adscritos al Real Decreto 134/2010, de 12 de febrero, por el que se establece el procedimiento de resolución de restricciones por garantía de suministro y se modifica el Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 313, de 29 de diciembre de 2011. Ref. BOE-A-2011-20479
