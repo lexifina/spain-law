@@ -1,0 +1,73 @@
+## Disposición adicional sexta. Escalas de los Organismos Públicos de Investigación de la Administración General del Estado.
+
+1. Se crea la Escala de Profesores de Investigación de Organismos Públicos de Investigación, con adscripción al Ministerio de Ciencia e Innovación y clasificada en el Grupo A, Subgrupo A1, previsto en el artículo 76 de la Ley 7/2007, de 12 de abril.
+
+Para el acceso a esta escala se exigirá estar en posesión del Título de doctor o equivalente. El personal funcionario integrado en esta escala tendrá encomendadas las funciones que correspondían a la Escala de Profesores de Investigación del Consejo Superior de Investigaciones Científicas suprimida y, en concreto, las de especial exigencia y responsabilidad, dentro de las distintas actividades que constituyan la finalidad específica del Organismo, con una labor investigadora propia de singular relevancia.
+
+Se integrará en esta escala el personal funcionario que, en el momento de entrada en vigor de esta ley, pertenezca a la Escala de Profesores de Investigación del Consejo Superior de Investigaciones Científicas suprimida, cualquiera que fuera la situación administrativa en la que se encuentre.
+
+El personal que, a la entrada en vigor de la presente ley, esté participando en procesos selectivos para el ingreso por acceso libre o por promoción interna en la Escala de Profesores de Investigación del Consejo Superior de Investigaciones Científicas suprimida, una vez supere el proceso selectivo correspondiente será nombrado personal funcionario en la nueva Escala de Profesores de Investigación de Organismos Públicos de Investigación.
+
+El personal funcionario perteneciente a la nueva Escala de Profesores de Investigación de Organismos Públicos de Investigación podrá ser acreditado para Catedrático de Universidad, a los efectos de lo dispuesto en el título IX de la Ley Orgánica 6/2001, de 21 de diciembre, cuando obtenga el informe positivo de su actividad docente e investigadora, de acuerdo con el procedimiento que establezca el Gobierno.
+
+2. Se crea la Escala de Investigadores Científicos de Organismos Públicos de Investigación, que queda adscrita al Ministerio de Ciencia e Innovación y clasificada en el Grupo A, Subgrupo A1, previsto en el artículo 76 de la Ley 7/2007, de 12 de abril.
+
+Para el acceso a esta escala se exigirá estar en posesión del Título de doctor o equivalente. El personal funcionario integrado en esta escala tendrá encomendadas las funciones de la Escala de Investigadores Científicos del Consejo Superior de Investigaciones Científicas suprimida, y en concreto las funciones de alto nivel, dentro de las distintas actividades que constituyan la finalidad específica del Organismo.
+
+Se integrará en esta escala el personal funcionario que, en el momento de entrada en vigor de esta ley, pertenezca a la Escala de Investigadores Científicos del Consejo Superior de Investigaciones Científicas suprimida, cualquiera que fuera la situación administrativa en la que se encuentre.
+
+El personal que, a la entrada en vigor de la presente ley, esté participando en procesos selectivos para el ingreso por acceso libre o por promoción interna en la Escala de Investigadores Científicos del Consejo Superior de Investigaciones Científicas suprimida, una vez supere el proceso selectivo correspondiente será nombrado personal funcionario en la nueva Escala de Investigadores Científicos de Organismos Públicos de Investigación.
+
+El personal funcionario perteneciente a la nueva Escala de Investigadores Científicos de Organismos Públicos de Investigación podrá ser acreditado para Profesor Titular de Universidad, a los efectos de lo dispuesto en el título IX de la Ley Orgánica 6/2001, de 21 de diciembre, cuando obtenga el informe positivo de su actividad docente e investigadora, de acuerdo con el procedimiento que establezca el Gobierno.
+
+3. Se crea la Escala de Científicos Titulares de Organismos Públicos de Investigación, que queda adscrita al Ministerio de Ciencia e Innovación y clasificada en el Grupo A, Subgrupo A1, previsto en el Artículo 76 de la Ley 7/2007, de 12 de abril.
+
+Para el acceso a esta escala se exigirá estar en posesión del Título de doctor o equivalente. El personal funcionario integrado en esta escala tendrá encomendadas las funciones que le correspondían a las Escalas de Científicos Titulares del Consejo Superior de Investigaciones Científicas y de Investigadores Titulares de los Organismos Públicos de Investigación suprimidas, y en concreto las funciones que comprendan a las actividades de investigación científica o tecnológica.
+
+Se integrará en esta escala el personal funcionario que, en el momento de entrada en vigor de esta ley, pertenezca a las Escalas de Científicos Titulares del Consejo Superior de Investigaciones Científicas o de Investigadores Titulares de los Organismos Públicos de Investigación suprimidas, cualquiera que fuera la situación administrativa en la que se encuentre.
+
+El personal que, a la entrada en vigor de la presente ley, esté participando en procesos selectivos para el ingreso por acceso libre o por promoción interna en las Escalas de Científicos Titulares del Consejo Superior de Investigaciones Científicas o de Investigadores Titulares de los Organismos Públicos de Investigación suprimidas, una vez supere el proceso selectivo correspondiente será nombrado personal funcionario en la nueva Escala de Científicos Titulares de Organismos Públicos de Investigación.
+
+El personal funcionario incluido en la relación de investigadores en funciones a la que se refiere el artículo 35.4 de la Ley 14/2000, de 29 de diciembre, de medidas fiscales, administrativas y del orden social, podrá solicitar, desde la entrada en vigor de esta ley y durante un plazo máximo de tres años, la integración en la Escala de Científicos Titulares de Organismos Públicos de Investigación, cuando cumpla los requisitos exigidos en los párrafos a) y c) del artículo 35.2 de la Ley 14/2000, de 29 de diciembre, mediante la presentación de instancia dirigida al Secretario de Estado de Investigación del Ministerio de Ciencia e Innovación.
+
+El personal funcionario perteneciente a la nueva Escala de Científicos Titulares de Organismos Públicos de Investigación podrá ser acreditado para Profesor Titular de Universidad, a los efectos de lo dispuesto en el título IX de la Ley Orgánica 6/2001, de 21 de diciembre, cuando obtenga el informe positivo de su actividad docente e investigadora, de acuerdo con el procedimiento que establezca el Gobierno.
+
+4. Se crea la Escala de Tecnólogos de Organismos Públicos de Investigación, que queda adscrita al Ministerio de Ciencia e Innovación y clasificada en el Grupo A, Subgrupo A1, previsto en el artículo 76 de la Ley 7/2007, de 12 de abril.
+
+El personal funcionario perteneciente a esta escala tendrá encomendadas las funciones que supongan especial exigencia y responsabilidad, para desarrollar tareas de dirección de equipos humanos, valorización del conocimiento, formulación de iniciativas tecnológicas y de innovación, o estudio, inspección o supervisión en instalaciones científicas o técnicas, en sus especialidades respectivas dentro de las distintas actividades que constituyan la finalidad específica del Organismo.
+
+5. Se crea la Escala de Científicos Superiores de la Defensa, que queda adscrita al Ministerio de Defensa, y clasificada en el Grupo A, Subgrupo A1, previsto en el artículo 76 de la Ley 7/2007, de 12 de abril.
+
+Las funciones que desarrollará el personal que se adscriba o acceda a esta Escala serán las encomendadas a las Escalas de Científicos Superiores del Instituto Nacional de Técnica Aeroespacial y de Científicos Especializados del Instituto Nacional de Técnica Aeroespacial suprimidas.
+
+Se integrarán en esta Escala los funcionarios que, en el momento de entrada en vigor de esta ley, pertenezcan a las Escalas de Científicos Superiores del Instituto Nacional de Técnica Aeroespacial o de Científicos Especializados del Instituto Nacional de Técnica Aeroespacial suprimidas, cualquiera que fuera la situación administrativa en la que se encuentren.
+
+El personal que a la entrada en vigor de la presente ley se encuentre inmerso en la realización de procesos selectivos para el ingreso por acceso libre o por promoción interna en las Escalas de Científicos Superiores del Instituto Nacional de Técnica Aeroespacial o de Científicos Especializados del Instituto Nacional de Técnica Aeroespacial suprimidas, una vez supere el proceso selectivo correspondiente será nombrado personal funcionario en la nueva Escala de Científicos Superiores de la Defensa.
+
+6. Se crea la Escala de Técnicos Superiores Especializados de Organismos Públicos de Investigación, que queda adscrita al Ministerio de Ciencia e Innovación y clasificada en el Grupo A, Subgrupo A1, previsto en el artículo 76 de la Ley 7/2007, de 12 de abril.
+
+Las funciones que desarrollará el personal funcionario integrado en esta escala serán las encomendadas a las Escalas de Titulados Superiores Especializados del Consejo Superior de Investigaciones Científicas, de Técnicos Superiores Especialistas de los Organismos Públicos de Investigación, de Titulados Superiores de Servicios del Instituto Nacional de Técnica Aeroespacial, y de Técnicos Especialistas del Instituto Nacional de Técnica Aeroespacial suprimidas, y en concreto el desarrollo de tareas de concepción, diseño, aplicación o mejora en instalaciones científicas experimentales, formulación de iniciativas tecnológicas y de innovación, o dirección, asesoramiento, análisis o elaboración de informes en sus especialidades respectivas, dentro de las distintas actividades que constituyan la finalidad específica del Organismo.
+
+Se integrará en esta escala el personal funcionario que, en el momento de entrada en vigor de esta ley, pertenezca a las Escalas de Titulados Superiores Especializados del Consejo Superior de Investigaciones Científicas, de Técnicos Superiores Especialistas de los Organismos Públicos de Investigación, de Titulados Superiores de Servicios del Instituto Nacional de Técnica Aeroespacial, o de Técnicos Especialistas del Instituto Nacional de Técnica Aeroespacial suprimidas, cualquiera que fuera la situación administrativa en la que se encuentre.
+
+El personal que, a la entrada en vigor de la presente ley, esté participando en procesos selectivos para el ingreso por acceso libre o por promoción interna en las Escalas de Titulados Superiores Especializados del Consejo Superior de Investigaciones Científicas, de Técnicos Superiores Especialistas de los Organismos Públicos de Investigación, de Titulados Superiores de Servicios del Instituto Nacional de Técnica Aeroespacial, o de Técnicos Especialistas del Instituto Nacional de Técnica Aeroespacial suprimidas, una vez supere el proceso selectivo correspondiente será nombrado personal funcionario en la nueva Escala de Técnicos Superiores Especializados de Organismos Públicos de Investigación.
+
+7. Se crea la Escala de Técnicos Especializados de Organismos Públicos de Investigación, que queda adscrita al Ministerio de Ciencia e Innovación y clasificada en el Grupo A, Subgrupo A2, previsto en el artículo 76 de la Ley 7/2007, de 12 de abril.
+
+Las funciones que desarrollará el personal funcionario integrado en esta escala serán las de apoyo y colaboración en materia de diseño, aplicación, mantenimiento y mejora de instalaciones científicas, elaboración de informes, estudios o análisis, y en general, participación en la gestión técnica de planes, proyectos, programas o aplicaciones y resultados de la investigación, dentro de las distintas actividades que constituyan la finalidad específica del Organismo.
+
+Se integrará en esta escala el personal funcionario que, en el momento de entrada en vigor de esta ley, pertenezca a las escalas de Técnicos Especialistas de Grado Medio de los Organismos Públicos de Investigación o de Titulados Técnicos Especializados del Instituto Nacional de Técnica Aeroespacial suprimidas, cualquiera que fuera la situación administrativa en la que se encuentre.
+
+El personal que, a la entrada en vigor de la presente ley, esté participando en procesos selectivos para el ingreso por acceso libre o por promoción interna en las escalas de Técnicos Especialistas de Grado Medio de los Organismos Públicos de Investigación o de Titulados Técnicos Especializados del Instituto Nacional de Técnica Aeroespacial suprimidas, una vez supere el proceso selectivo correspondiente será nombrado personal funcionario en la nueva Escala de Técnicos Especializados de Organismos Públicos de Investigación.
+
+8. Se declara la subsistencia de la actual Escala de Ayudantes de Investigación de Organismos Públicos de Investigación.
+
+Se integrará en la Escala de Ayudantes de Investigación de Organismos Públicos de Investigación el personal funcionario que, en el momento de entrada en vigor de esta ley, pertenezca a las Escalas de Especialistas de Aviación del Instituto Nacional de Técnica Aeroespacial, Analistas y Operadores de Laboratorio del Instituto Nacional de Técnica Aeroespacial, Personal de Taller del Instituto Nacional de Técnica Aeroespacial, o Delineantes y Proyectistas del Instituto Nacional de Técnica Aeroespacial suprimidas, cualquiera que fuera la situación administrativa en la que se encuentre.
+
+El personal que, a la entrada en vigor de la presente ley, esté participando en procesos selectivos para el ingreso por acceso libre o por promoción interna en la Escala de Analistas y Operadores de Laboratorio del Instituto Nacional de Técnica Aeroespacial suprimida, una vez supere el proceso selectivo correspondiente será nombrado personal funcionario en la Escala de Ayudantes de Investigación de Organismos Públicos de Investigación.
+
+9. Se declara la subsistencia de la actual Escala de Auxiliares de Investigación de Organismos Públicos de Investigación.
+
+Se integrará en la Escala de Auxiliares de Investigación de Organismos Públicos de Investigación el personal funcionario que, en el momento de entrada en vigor de esta ley, pertenezca a las Escalas de Preparadores del Instituto Nacional de Técnica Aeroespacial o Calcadores del Instituto Nacional de Técnica Aeroespacial suprimidas, cualquiera que fuera la situación administrativa en la que se encuentre.
+
+El personal que, a la entrada en vigor de la presente ley, esté participando en un proceso selectivos para el ingreso por acceso libre o por promoción interna en la Escala de Preparadores del Instituto Nacional de Técnica Aeroespacial suprimida, una vez supere el proceso selectivo correspondiente será nombrado personal funcionario en la Escala de Auxiliares de Investigación de Organismos Públicos de Investigación.

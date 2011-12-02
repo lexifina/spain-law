@@ -1,0 +1,5 @@
+## Disposición final séptima. Modificación de la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y los productos sanitarios.
+
+Se modifica el apartado 1 del artículo 3 de la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y los productos sanitarios, que queda redactado como sigue:
+
+«1. Sin perjuicio de las incompatibilidades establecidas para el ejercicio de actividades públicas, el ejercicio clínico de la medicina, de la odontología y de la veterinaria y otras profesiones sanitarias con facultad para prescribir o indicar la dispensación de los medicamentos será incompatible con cualquier clase de intereses económicos directos derivados de la fabricación, elaboración, distribución y comercialización de los medicamentos y productos sanitarios. Se exceptúa de lo anterior lo establecido en la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, respecto a la participación del personal de los centros de investigación dependientes de las Administraciones Públicas en las entidades creadas o participadas por aquellos, con el objeto previsto en la misma.»

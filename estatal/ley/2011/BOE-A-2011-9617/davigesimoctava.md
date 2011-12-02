@@ -1,0 +1,3 @@
+## Disposición adicional vigesimoctava. Programas de ayudas a la investigación dirigidas al personal de investigación.
+
+Los Programas de ayudas a la investigación que impliquen la realización de tareas de investigación en régimen de prestación de servicios por personal de investigación deberán establecer la contratación laboral de sus beneficiarios por parte de las entidades a las que se adscriban, mediante la formalización de un contrato laboral de acuerdo con lo establecido en el Texto Refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo y en el convenio colectivo vigente en la entidad de adscripción.

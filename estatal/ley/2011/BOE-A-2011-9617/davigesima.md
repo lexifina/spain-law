@@ -1,0 +1,9 @@
+## Disposición adicional vigésima. Regulación de los centros de investigación propios de las Comunidades Autónomas con competencia exclusiva.
+
+Los centros y estructuras de investigación propios de una Comunidad Autónoma que haya asumido estatutariamente la competencia exclusiva para la regulación de sus propios centros de investigación se regirán por la normativa aprobada a tal efecto por su Comunidad Autónoma, sin perjuicio de lo dispuesto en la disposición final novena respecto de la extensión a los mismos de los artículos de carácter básico o de aplicación general de esta Ley.
+
+A los efectos del párrafo anterior, se entenderá por centros y estructuras de investigación propios aquellos que estén participados mayoritariamente en su capital o fondo patrimonial o en su órgano de gobierno por la Comunidad Autónoma o por entidades de su sector público, o cuyos presupuestos se doten ordinariamente en más de un 50% con subvenciones u otros ingresos procedentes de la Administración de la Comunidad Autónoma o de entidades de su sector público.
+
+En el caso de los centros y estructuras de investigación en los que participen de forma mayoritaria entidades que forman parte del sector público de la Administración General del Estado o de Comunidades Autónomas que hayan asumido estatutariamente competencia exclusiva para la regulación de sus propios centros de investigación, se entenderá a los efectos de la aplicación de la normativa pública, que forman parte del sector público que detente una participación que, aunque siendo minoritaria, sea superior a la de cada una de las restantes entidades públicas, consideradas individualmente.
+
+Para el cálculo de los cómputos de participación, no se tendrán en consideración las contribuciones económicas que, con carácter individual y específico, se realicen a cargo de los Presupuestos Generales del Estado.
