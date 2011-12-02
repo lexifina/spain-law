@@ -8,46 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2011-12-02 by BOE-A-2011-9617. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [preambulo](preambulo.md)
-- [CAPÍTULO I](ci.md)
-- [Artículo primero](aprimero.md)
-- [Artículo segundo](asegundo.md)
-- [Artículo tercero](atercero.md)
-- [Artículo cuarto](acuarto.md)
-- [Artículo quinto](aquinto.md)
-- [Artículo sexto](asexto.md)
-- [Artículo séptimo](aseptimo.md)
-- [Artículo octavo](aoctavo.md)
-- [Artículo noveno](anoveno.md)
-- [Artículo décimo](adecimo.md)
-- [Artículo undécimo](aundecimo.md)
-- [Artículo duodécimo](aduodecimo.md)
-- [CAPÍTULO II](cii.md)
-- [Artículo decimotercero](adecimotercero.md)
-- [Artículo decimocuarto](adecimocuarto.md)
-- [Artículo decimoquinto](adecimoquinto.md)
-- [Artículo decimosexto](adecimosexto.md)
-- [Artículo decimoséptimo](adecimoseptimo.md)
-- [Artículo decimoctavo](adecimoctavo.md)
-- [Artículo decimonoveno](adecimonoveno.md)
-- [Disposición adicional primera](primera.md)
-- [Disposición adicional segunda](segunda.md)
-- [Disposición adicional tercera](tercera.md)
-- [Disposición adicional cuarta](cuarta.md)
-- [Disposición adicional quinta](quinta.md)
-- [Disposición adicional sexta](sexta.md)
-- [Disposición adicional séptima](septima.md)
-- [Disposición adicional octava](octava.md)
-- [Disposición adicional novena](novena.md)
-- [Disposición adicional décima](decima.md)
-- [Disposición adicional undécima](undecima.md)
-- [Disposición adicional duodécima](duodecima.md)
-- [Disposición transitoria primera](primera-2.md)
-- [Disposición transitoria segunda](segunda-2.md)
-- [Disposición transitoria tercera](tercera-2.md)
-- [Disposición derogatoria](dd.md)
-- [Disposición final](df.md)
-- [firma](firma.md)
+- [BOE publisher notice](no.md)
