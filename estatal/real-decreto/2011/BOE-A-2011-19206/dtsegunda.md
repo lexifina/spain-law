@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Programación horaria de energía a través del enlace entre el sistema eléctrico balear y el sistema eléctrico peninsular durante el periodo de pruebas de este enlace.
+
+1. A los efectos de determinar el programa horario de energía a través de este enlace durante el periodo de pruebas de dicho enlace, el Operador del Sistema comunicará, antes del cierre del periodo de recepción de ofertas en el mercado diario, a los comercializadores de último recurso en el sistema eléctrico balear y al Operador del Mercado, las cantidades de las ofertas precio aceptantes que éstos deberán presentar en el mercado diario para la programación del intercambio de energía a través del enlace, necesario para la realización de dichas pruebas.
+
+2. Durante este periodo de pruebas, la energía que discurra a través del enlace entre el sistema eléctrico peninsular y el sistema eléctrico balear, será considerada como pérdidas del sistema eléctrico peninsular, que serán valoradas al precio del mercado diario.

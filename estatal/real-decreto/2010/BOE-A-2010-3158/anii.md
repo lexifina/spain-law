@@ -48,13 +48,21 @@ La Comisión Nacional de Energía supervisará e inspeccionará la correcta util
 
 3.1 Los precios de retribución de la energía de las centrales obligadas a participar en el proceso de resolución de restricciones por garantía de suministro se corresponderán con el coste unitario de generación del grupo para una producción anual correspondiente al volumen máximo de producción anual programable por garantía de suministro.
 
+Para dar cumplimiento a lo establecido en el punto 3 del artículo único del presente real decreto, los titulares de las centrales que estén incluidas en el plan de funcionamiento actualizado para la resolución de restricciones por garantía de suministro podrán presentar al mercado diario la condición compleja de ingresos mínimos, sin otras condiciones complejas adicionales, con la siguientes características:
+
+a) El término variable de la oferta será el coste variable regulado en euros/MWh.
+
+b) El término fijo será igual a 0 euros.
+
+c) El primer bloque de energía corresponderá al menos al plan semanal de funcionamiento actualizado y se ofertará a 0 euros/MWh.
+
+En el caso en que no se utilice esta condición compleja, el primer bloque de energía corresponderá al menos al plan semanal de funcionamiento actualizado y se ofertará al coste variable regulado en euros/MWh.
+
+A las centrales incluidas en el presente anexo no les serán de aplicación las condiciones de los párrafos segundo y tercero de la regla 28.1.2.2 de funcionamiento del mercado de producción de energía eléctrica, cuando se encuentren incluidas en el plan de funcionamiento actualizado.
+
 Cuando las centrales obligadas a participar en el proceso de resolución de restricciones por garantía de suministro resulten programadas por el Operador del Sistema para la implementación del mecanismo de restricciones por garantía de suministro la energía producida generará un derecho de cobro del titular de la central en el proceso de liquidación de las restricciones por garantía de suministro, con cargo a los pagos por capacidad igual al producto del coste unitario que se fije para la central por la energía realmente programada en el proceso. Los titulares de las centrales programadas en el mercado diario base de funcionamiento cuya energía tenga que ser retirada del programa por la activación del mecanismo tendrán una obligación de pago igual al producto del precio del mercado diario por la energía desplazada.
 
-Cuando alguna de estas centrales obligadas a participar en el proceso de resolución de restricciones por garantía de suministro resulte programada en el mercado diario y el volumen máximo de producción anual programado no haya sido alcanzado:
-
-Si el precio horario final resultante en el mercado diario es superior al coste unitario regulado, en estas horas, la energía producida generará una obligación de pago del titular de la central en el proceso de liquidación de las restricciones por garantía de suministro, con cargo a los pagos por capacidad, por la diferencia entre el precio del mercado diario y el coste regulado.
-
-Si el precio horario final resultante en el mercado diario es superior al coste variable regulado de una central, pero inferior al coste unitario regulado de la central, en estas horas, la energía producida generará un derecho de cobro del titular de la central en el proceso de liquidación de las restricciones por garantía de suministro, con cargo a los pagos por capacidad, igual al producto de la energía producida en estos casos por la diferencia entre el coste unitario regulado de la central y el precio del mercado diario.
+Cuando alguna de estas centrales obligadas a participar en el proceso de resolución de restricciones por garantía de suministro resulte programada en el mercado diario y el volumen máximo de producción anual programado no haya sido alcanzado, generará un derecho de cobro o, en su caso, una obligación de pago, por la diferencia entre el precio del mercado diario y el coste regulado, por la energía programada dentro del plan de funcionamiento actualizado.
 
 Esta energía producida se tendrá en cuenta a la hora de determinar la energía pendiente para alcanzar el volumen máximo de producción para cada año que puede ser programada en el proceso de resolución de restricciones por garantía de suministro.
 
@@ -137,5 +145,9 @@ CVOMi: Coste variable de operación y mantenimiento unitario, expresado en Euros
 CO2i: El coste unitario de emisión del CO2 en Euros/MWh, para lo que se aplican los últimos factores de emisión disponibles de cada grupo generador (en ton CO2 por MWh generado). Para el cálculo del valor del derecho de emisión, para cada ejercicio se tomará la cotización media del EUA Futures Contracts del mes de noviembre en el mercado ECX para el año siguiente. Corresponderá al Ministro de Industria, Turismo y Comerció desarrollar la metodología de cálculo y el valor será fijado anualmente en la Resolución de la Secretaría de Estado de Energía especificando el coste unitario de emisión de los derechos asignados gratuitamente y será posteriormente calculado por la Comisión Nacional de Energía una vez presentadas las cuentas separadas auditadas por las unidades de generación, quien efectuará el cálculo de los costes reales en función de la energía finalmente producida de acuerdo con las funciones asignadas en este anexo. Para el año 2010 se fijará inicialmente el valor correspondiente al mes de noviembre de 2009 del mercado ECX.
 
 4. Excepcionalmente, para el año 2010 los volúmenes máximos para cada central se fijarán en función del número máximo de horas en que este mecanismo es de aplicación, siendo en cualquier caso la energía programada inferior a la cantidad de energía programable en el año.
+
+> Se modifica el apartado 3.1 por la disposición final 5.2 del Real Decreto 1623/2011, de 14 de noviembre. Ref. BOE-A-2011-19206.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 313, de 29 de diciembre de 2011. Ref. BOE-A-2011-20480.
 
 > Se modifica por el art. 1.8 del Real Decreto 1221/2010, de 1 de octubre. Ref. BOE-A-2010-15121

@@ -46,4 +46,16 @@ Sexto. Supervisión.–Sin perjuicio de lo establecido en la disposición adicio
 
 Cuando detecte la existencia de indicios de prácticas restrictivas de la competencia, lo pondrá en conocimiento de la Comisión Nacional de la Competencia, y aportará todos los elementos de hecho a su alcance y, en su caso, un dictamen no vinculante de la calificación que le merecen dichos hechos.
 
+Séptimo. Medidas adicionales para conseguir el cumplimiento de los objetivos previsto para el año 2011.
+
+1. Los grupos incluidos en el plan de funcionamiento diario al que hace referencia el presente anexo, tendrán derecho al correspondiente coste unitario de generación con respecto al precio medio resultantes de todas sus transacciones en los mercados de gestión de desvíos, regulación terciaria y en el mercado intradiario, aplicada al incremento neto de programa en dichos mercados producido de forma efectiva y que no supere el plan de funcionamiento actualizado diario.
+
+2. Los grupos incluidos en el plan de funcionamiento diario actualizado al que hace referencia el presente anexo, estarán obligados a incorporar un precio igual a 0 €/MWh en las ofertas de energía a bajar presentadas en los mercados de Gestión de Desvíos y de Regulación Terciaria, y al coste variable establecido por la Secretaria de Estado de Energía, en los mercados a subir de Gestión de Desvíos y de Regulación Terciaria y en los mercados intradiarios hasta los valores de producción incluidos en el plan de funcionamiento diario actualizado.
+
+3. En el proceso de solución de los desequilibrios entre producción y demanda derivados de la resolución de restricciones por garantía de suministro, participarán también los programas de energía de las unidades que tengan únicamente programa en el PDBF en uno o varios de los tres primeros periodos horarios que constituyen el horizonte diario de programación, a modo de rampa descendente de carga asociada a un proceso de desacoplamiento de la unidad.
+
+4. En los correspondientes procedimientos de operación se establecerán los criterios necesarios para determinar los derechos de cobro y obligaciones de pago anteriores.
+
+> Se añade el apartado 7º por la disposición final 5.1 del Real Decreto 1623/2011, de 14 de noviembre. Ref. BOE-A-2011-19206.
+
 > Se modifica por el art. 1.4 a 7 del Real Decreto 1221/2010, de 1 de octubre. Ref. BOE-A-2010-15121
