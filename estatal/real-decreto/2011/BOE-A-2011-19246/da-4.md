@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Correspondencia de la superficie y las coordenadas del AMP y ZEC de El Cachucho en función del datum y del sistema de coordenadas.
+
+1. En virtud del anexo II del Reglamento (UE) n.º 1089/2010 de la Comisión, de 23 de noviembre de 2010, por el que se aplica la Directiva 2007/2/CE del Parlamento Europeo y del Consejo, en lo que se refiere a la interoperabilidad de los conjuntos y los servicios de datos espaciales, en el caso de los sistemas de referencia de coordenadas tridimensionales y bidimensionales y el componente horizontal de los sistemas de referencia de coordenadas compuestos utilizados para poner a disposición conjuntos de datos espaciales, el datum será el correspondiente al Sistema de Referencia Terrestre Europeo 1989 (ETRS89) en las áreas que se encuentren dentro de su cobertura geográfica.
+
+2. Las diferencias encontradas entre las coordenadas y la superficie del artículo 1 y las recogidas en normas y textos anteriores, tanto estatales como comunitarios, son debidas a los diferentes sistemas de proyección utilizados y los cambios en los algoritmos empleados en la migración del datum.
