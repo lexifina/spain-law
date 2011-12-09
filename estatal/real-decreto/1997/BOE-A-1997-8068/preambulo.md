@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 261, de 31 de octubre de 1997. Ref. BOE-A-1997-23060
+Norma derogada por la disposición derogatoria única del Real Decreto 1536/2011, de 31 de octubre. Ref. BOE-A-2011-19241.
