@@ -36,6 +36,8 @@ k) En el caso de grupos hidráulicos, una vez determinada la potencia bruta y ne
 
 4. El resultado de la prueba será remitido por el interesado a la Comisión Nacional de Energía. Ésta remitirá a la Dirección General de Política Energética y Minas, con carácter mensual, una relación de las instalaciones que hubieran superado dicha prueba de funcionamiento, indicando la potencia neta resultante.
 
-5. La potencia neta de cada instalación será inscrita por la Dirección General de Política Energética y Minas en el Registro administrativo de instalaciones de producción de energía eléctrica en régimen especial.
+5. La potencia neta de cada instalación será inscrita por la Comisión Nacional de Energía en el Registro administrativo de instalaciones de producción de energía eléctrica en régimen especial.
+
+> Se modifica el apartado 5 por la disposición final 2.20 del Real Decreto 1699/2011, de 18 de noviembre. Ref. BOE-A-2011-19242.
 
 > Se añade por el art. 1.21 del Real Decreto 1565/2010, de 19 de noviembre. Ref. BOE-A-2010-17976.

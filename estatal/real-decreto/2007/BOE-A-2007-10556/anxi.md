@@ -32,7 +32,9 @@ En principio, se consideran como no gestionables los generadores de régimen esp
 
 Cuando varios generadores de régimen especial compartan punto de conexión a la red de transporte, la tramitación de los procedimientos de acceso y conexión, ante el operador del sistema y transportista titular del parque correspondiente, así como la coordinación con éste último tras la puesta en servicio de la generación, deberá realizarse de forma conjunta y coordinada por un Interlocutor Unico de Nudo que actuará en representación de los generadores, en los términos y con las funciones que se establezcan.
 
-6. Para instalaciones o agrupaciones de las mismas de más de 10 MW a conectar a la red de distribución, y tras la conclusión de su aceptabilidad por el gestor de distribución, éste solicitará al operador del sistema su aceptabilidad desde la perspectiva de la red de transporte en los procedimientos de acceso y conexión. Asimismo, el gestor de la red de distribución informará al operador del sistema sobre la resolución de los procedimientos de acceso y conexión de todas las instalaciones incluidas en el ámbito del presente real decreto.
+6. Para instalaciones o agregaciones de las mismas, de más de 10 MW, con conexión existente y prevista a la red de distribución, y tras la conclusión de su aceptabilidad por el gestor de distribución, éste solicitará al operador del sistema su aceptabilidad desde la perspectiva de la red de transporte en los procedimientos de acceso y conexión. Se considera agregación el conjunto de generadores existentes o previstos, o agrupaciones de éstos de acuerdo con la definición de agrupación recogida en el artículo 18, con potencia instalada mayor de 1 MW y con afección mayoritaria sobre un mismo nudo de la red de transporte.
+
+Asimismo, el gestor de la red de distribución informará al operador del sistema sobre la resolución de los procedimientos de acceso y conexión de todas las instalaciones incluidas en el ámbito del presente real decreto.
 
 7. Antes de la puesta en tensión de las instalaciones de generación y de conexión a red asociadas, se requerirá el informe de verificación de las condiciones técnicas de conexión del operador del sistema o del gestor de la red de distribución que acredite el cumplimiento de los requisitos para la puesta en servicio de la instalación según la normativa vigente, sobre la base de la información aportada por los generadores. Su cumplimiento será acreditado, en su caso, por la Comisión Nacional de la Energía o el órgano de la Administración competente.
 
@@ -51,3 +53,5 @@ Las protecciones de mínima frecuencia de los grupos generadores deberán estar 
 La medida de la energía producida en barras de central de las instalaciones de la categoría a) podrá obtenerse como combinación de medidas a partir de la medida de la energía excedentaria entregada a la red de transporte o distribución, o a partir de las medidas de la energía producida en bornes de generadores.
 
 Los transformadores de medida actualmente instalados podrán dedicar sus secundarios simultáneamente a la medida destinada a la liquidación y a otros usos, siempre que la carga soportada por sus secundarios se mantenga dentro del rango especificado en sus ensayos.
+
+> Se modifica el apartado 6 por la disposición final 2.19 del Real Decreto 1699/2011, de 18 de noviembre. Ref. BOE-A-2011-19242.

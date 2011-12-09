@@ -25,14 +25,22 @@ Del mismo modo, previa autorización de la Dirección General de Política Energ
 
 6. Para las instalaciones eólicas, se considerará modificación sustancial, a efectos del régimen económico previsto en este real decreto, de una instalación preexistente la sustitución de, al menos, el generador y las palas, y siempre que las turbinas resultantes fueran más eficientes y la potencia unitaria mayor o igual que la anterior.
 
-7. Para el resto de tecnologías distintas a la cogeneración y a la eólica, se considerará modificación sustancial, a efectos del régimen económico previsto en este real decreto, de una instalación preexistente las sustituciones de los equipos principales que se establezcan por orden del Ministro de Industria, Turismo y Comercio.
+7. Para las instalaciones de tecnología fotovoltaica, se considerará modificada sustancialmente, a efectos del régimen económico, la fracción de potencia de una instalación que sea objeto sustitución de los equipos electromecánicos para variar su tecnología entre fija, con seguimiento a un eje y seguimiento a dos ejes, indistintamente.
 
-8. En todo caso, para que una modificación de una instalación sea considerada como sustancial se debe cumplir necesariamente la condición de que los equipos principales a instalar en ella sean nuevos y sin uso previo.
+En este caso, no se considerará modificación sustancial cuando la fracción de potencia afectada, en el plazo de un año, sea inferior al 5 por ciento de la potencia pico de la instalación.
 
-9. En el caso de que una instalación estuviera constituida por distintos equipos generadores pero con una misma fecha de inscripción definitiva, se entenderá que se ha producido la modificación sustancial cuando se sustituyan todos los equipos generadores existentes correspondientes por nuevos equipos.
+El régimen económico que se aplicará a potencia afectada por la modificación sustancial será el resultante de la convocatoria de preasignación de retribución que se resuelva con posterioridad a la fecha acta de puesta en servicio definitiva de dicha modificación. A estos efectos, cuando no sea preceptiva la expedición de acta de puesta en servicio para este tipo de modificación se considerará fecha de puesta en servicio aquella en la que el órgano competente disponga de constatación documental de la referida modificación.
+
+8. Para el resto de tecnologías distintas a la cogeneración y a la eólica y a la fotovoltaica, se considerará modificación sustancial de una instalación preexistente, a efectos del régimen económico previsto en este real decreto, las sustituciones de los equipos principales que se establezcan por orden del Ministro de Industria, Turismo y Comercio. En tanto en cuanto no sean establecidos éstos, los equipos principales a tener en cuenta a efectos de su consideración como modificación sustancial serán determinados, en cada caso, por la Dirección General de Política Energética y Minas, previa solicitud por parte del interesado.
+
+9. En todo caso, para que una modificación de una instalación sea considerada como sustancial se debe cumplir necesariamente la condición de que los equipos principales a instalar en ella sean nuevos y sin uso previo.
+
+10. En el caso de que una instalación estuviera constituida por distintos equipos generadores pero con una misma fecha de inscripción definitiva, se entenderá que se ha producido la modificación sustancial cuando se sustituyan todos los equipos generadores existentes correspondientes por nuevos equipos.
 
 Si en una instalación existieran equipos con fechas de inscripción diferentes, se podrá aplicar la modificación sustancial a los equipos generadores que compartan la misma fecha de inscripción de acuerdo con lo señalado en el párrafo anterior.
 
-10. La modificación sustancial de una instalación acogida a la disposición transitoria primera o a la disposición transitoria segunda del presente real decreto supondrá su acogimiento pleno al régimen económico vigente para nuevas instalaciones, en la categoría, grupo y subgrupo que le corresponda.
+11. La modificación sustancial de una instalación supondrá su acogimiento pleno al régimen económico vigente para nuevas instalaciones, en la categoría, grupo y subgrupo que le corresponda. En el caso en el que dicha modificación implique una ampliación de potencia, dicha ampliación deberá someterse al procedimiento de preasignación de retribución que le corresponda, salvo en los casos en los que se prevea expresamente algo diferente.
+
+> Se modifican los apartados 7 a 10 y se añade el 11 por la disposición final 2.4 del Real Decreto 1699/2011, de 18 de noviembre. Ref. BOE-A-2011-19242.
 
 > Se añade por el art. 1.3 del Real Decreto 1565/2010, de 19 de noviembre. Ref. BOE-A-2010-17976.

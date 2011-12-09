@@ -1,0 +1,3 @@
+## Disposición final séptima. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto se incorpora al derecho español el contenido de los artículos 13.1.f y 16 de la Directiva 2009/28/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, relativa al fomento del uso de energía procedente de fuentes renovables y por la que se modifican y se derogan las directivas 2001/77/CE y 2003/30/CE, en lo relativo a la simplificación de los procedimientos de autorización para las instalaciones de producción de electricidad de pequeño tamaño y a las condiciones de acceso a las redes.
