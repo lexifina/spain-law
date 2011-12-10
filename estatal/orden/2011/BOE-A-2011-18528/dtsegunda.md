@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Primera declaración responsable sobre el número de asociados.
+
+A efectos de lo establecido en el artículo 15.3 de esta orden ministerial, la presentación de la solicitud de inscripción de la primera declaración responsable sobre el número de asociados que pueda dar acceso a la sesión constitutiva del Consejo de Personal de las Fuerzas Armadas se adaptará al calendario de constitución del citado Consejo que reglamentariamente se prevea, de conformidad con la disposición final décima de la Ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de miembros de las Fuerzas Armadas.
