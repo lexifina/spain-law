@@ -2,32 +2,42 @@
 
 ## Datos mínimos de la base de datos de animales
 
-1. Número permanente único (UELN): código alfanumérico único de quince dígitos que reúne información sobre cada animal equino y la base de datos y el país donde se haya registrado dicha información por primera vez, de conformidad con el sistema de codificación UELN (Universal Equine Life Number).
+() Todas las modificaciones de los datos contenidos en el presente anexo deberán consignarse en su categoría correspondiente a los efectos de mantenerlo actualizado, de acuerdo con lo establecido en el artículo 17 del presente real decreto.
 
-2. Especie, sexo y raza.
+1) Número permanente único (UELN).
 
-3. Capa.
+2) Especie.
 
-4. País de nacimiento.
+3) Sexo.
 
-5. Código de la explotación de nacimiento (REGA).
+4) Raza.
 
-6. Fecha de nacimiento.
+5) Capa.
 
-7. Tipo de identificación del animal.
+6) País de nacimiento.
 
-8. Código de identificación electrónica.
+7) Código de la explotación de identificación.
 
-9. Sistema de lectura del medio de identificación.
+8) Fecha de nacimiento.
 
-10. Datos del titular y, en caso de cambio de titular, datos de los nuevos titulares (se entiende por titular la persona física o jurídica que sea propietaria, posea, o sea responsable de cuidar a un animal equino, con o sin fines lucrativos, y a título permanente o temporal, incluso durante su transporte, en mercados o durante competidores, carreras o actos culturales).
+9) Tipo de identificación del animal.
 
-11. Orientación del animal.
+10) Código de identificación electrónica o, en su caso, código del método alternativo.
 
-12. Nombre de nacimiento del animal y si procede su nombre comercial.
+11) Sistema de lectura del medio de identificación.
 
-13. Aptitud para consumo humano.
+12) Orientación del animal.
 
-14. Duplicados y documento sustitutivo.
+13) Nombre de nacimiento del animal y, si procede, nombre comercial.
 
-15. Fecha de muerte.
+14) Aptitud para el consumo humano.
+
+15) Documento duplicado/documento sustitutivo.
+
+16) Fecha de muerte.
+
+17) Fecha de emisión del documento de identificación.
+
+18) Nombre y dirección del titular y, en caso de cambio, del nuevo titular o posteriores de acuerdo con el artículo 8 del presente real decreto.
+
+> Se sustituye por el art. único.6 del Real Decreto 1701/2011, de 18 de noviembre. Ref. BOE-A-2011-19295.
