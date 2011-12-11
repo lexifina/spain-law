@@ -1,0 +1,3 @@
+## Disposición adicional primera. Exclusión del ámbito de aplicación de la Seguridad Social.
+
+Los mecanismos de inclusión en la Seguridad Social contemplados en Real Decreto 1493/2011 de 24 de octubre, por el que se regulan los términos y las condiciones de inclusión en el Régimen General de la Seguridad Social de las personas que participen en programas de formación, en desarrollo de lo previsto en la disposición adicional tercera de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de la Seguridad Social, no serán de aplicación a los estudiantes universitarios que realicen las prácticas académicas externas a que se refiere este real decreto.
