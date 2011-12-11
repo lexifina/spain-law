@@ -2559,6 +2559,9 @@ e) 0,0002 por 100 en otros productos de contacto y productos de higiene bucal.
 | --- | --- | --- |
 | 1370 | Dietilenglicol (DEG); véase el límite de trazas en el anexo III. 2,2´-oxidietanol. | N.º CAS 1111-46-6. N.º CE 203-872-2. |
 | 1371 | Fitomenadiona [INN]; Phytonadione [INCI]. | N.º CAS 84-80-0/81818-54-4. N.º CE 201-564-2. |
+| 1372 | 2-Aminofenol (o-Aminophenol; CI 76520) y sus sales. | N.º CAS 95-55-6 /67845-79-8/ 51-19-4 N.º CE 202-431-1 /267-335-4 |
+
+> Se añade el número 1372 por el art. único.1 de la Orden SPI/3375/2011, de 1 de diciembre. Ref. BOE-A-2011-19364.
 
 > Se modifica el número 448 por el art. único.1 de la Orden SAS/2062/2010, de 23 de julio. Ref. BOE-A-2010-12211.
 
