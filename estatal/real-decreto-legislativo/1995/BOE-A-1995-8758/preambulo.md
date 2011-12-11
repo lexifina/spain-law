@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 125, de 26 de mayo de 1995. Ref. BOE-A-1995-12422
+Norma derogada por la disposición derogatoria única de la Ley 36/2011, de 10 de octubre. Ref. BOE-A-2011-15936#ddunica.
