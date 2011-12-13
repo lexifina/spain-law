@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Disposiciones específicas para el galápago americano o de Florida («Trachemys scripta»).
+
+Las subespecies «Trachemys scripta scripta» y «Trachemys scripta troosti», se incluyen en el Catálogo a partir del 1 de mayo 2013. Hasta ese momento, se procederá a la sustitución progresiva de dichas subespecies en el comercio de animales de compañía, animales de compañía exóticos o domésticos por especies no invasoras. Asimismo, durante ese periodo, los titulares de las instalaciones y los particulares dedicados a la venta adoptaran medidas de prevención adecuadas para evitar la introducción de las citadas especies en el medio natural.

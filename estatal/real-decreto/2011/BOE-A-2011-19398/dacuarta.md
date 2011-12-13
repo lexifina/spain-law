@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Comercialización de variedades de especies alóctonas por razones fitosanitarias.
+
+De acuerdo al artículo 6 de la Ley 30/2006, de 26 de julio, de semillas y plantas de vivero y de recursos fitogenéticos, se podrán establecer, con carácter excepcional, limitaciones a la comercialización de variedades de especies alóctonas por razones fitosanitarias, cuando existan indicios de riesgos para la salud humana o sanidad animal, así como para el medio ambiente, y por las razones agronómicas que se establezcan, para aquellas variedades o razas que solamente puedan ser utilizadas en determinadas zonas o condiciones de cultivo.
