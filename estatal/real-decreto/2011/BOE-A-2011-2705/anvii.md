@@ -278,59 +278,74 @@ Zanahoria: 50 gramos.
 
 1 de diciembre: Cebolla tardía, chirivía, lechuga, melón, pepino, pimiento, puerro, sandía y tomate.
 
-5. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.–Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2011, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+5. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Especies que cumplen con las directrices de examen de la OCVV:
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2012, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+
+Especies que cumplen con los protocolos de examen de la OCVV:
 
 | Nombre científico | Nombre común | Protocolo |
 | --- | --- | --- |
-| Cichorium intybus L. | Achicoria industrial | TP 172/2 de 1.12.2005. |
-| Cichorium intybus L. | Achicoria silvestre | TP 173/1 de 25.3.2004. |
-| Allium sativum L. | Ajo | TP 162/1 de 25.3.2004. |
-| Cynara cardunculus L. | Alcachofa y cardo | TP 184/1 de 25.3.2004. |
-| Apium graveolens L. | Apio | TP 82/1 de 13.3.2008. |
-| Apium graveolens L. | Apionabo | TP 74/1 de 13.3.2008. |
-| Solanum melongena L. | Berenjena | TP 117/1 de 13.3.2008. |
-| Brassica oleracea L. | Bróculi o brécol | TP 151/2 de 21.3.2007. |
-| Cucurbita pepo L. | Calabacín | TP 119/1 de 25.3.2004. |
-| Valerianella locusta (L.) Laterr. | Canónigo o hierba de los canónigos | TP 75/2 de 21.3.2007. |
-| Allium cepa L. (var. Cepa) | Cebolla | TP 46/2 de 1.04.2009. |
-| Allium cepa L. (var. Aggregatum) Alium fistulosum L. Alium schoenoprasum L. Beta vulgaris L. | Chalota Cebolleta Cebollino Remolacha de mesa | TP 46/2 de 1.04.2009 TP 161/1 de 11.3.2003 TP 198/1 de 1.4.2009 TP 60/1/ de 1.4.2009. |
-| Brassica oleracea L. | Col de Bruselas | TP 54/2 de 1.12.2005. |
-| Brassica rapa L. | Col de China | TP 105/1 de 13.3.2008. |
-| Brassica oleracea L. | Col de Milán, repollo y lombarda | TP 48/2 de 1.12.2005. |
-| Brassica oleracea L. | Coliflor | TP 45/2 de 11.03.2010. |
-| Brassica oleracea L. | Colirrábano | TP 65/1 de 25.3.2004. |
-| Cichorium endivia L. | Escarola y Endivia | TP 118/2 de 1.12.2005. |
-| Asparagus officinalis L. | Espárrago | TP 130/1 de 27.3.2002. |
-| Spinacia oleracea L. | Espinaca | TP 55/2 de 11.3.2010. |
-| Pisum sativum L. (partim) | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo | TP 7/2 de 11.3.2010. |
-| Vicia faba L. (partim) | Haba | TP Broadbean/1 de 25.3.2004. |
-| Foeniculum vulgare Mill. | Hinojo | TP 183/1 de 25.3.2004. |
-| Phaseolus vulgaris L. | Judía de mata baja y judía de enrame | TP 12/3 de 1.4.2009. |
-| Phaseolus coccineus L. | Judía escarlata | TP 9/1 de 21.3.2007. |
-| Lactuca sativa L. | Lechuga | TP 13/4 de 1.4.2009. |
-| Zea mays L. (partim) | Maíz dulce y maíz para palomitas | TP 2/3 de 11.3.2010. |
-| Cucumis melo L. | Melón | TP 104/2 de 21.3.2007. |
-| Cucumis sativus L. | Pepino y pepinillo | TP 61/2 de 13.3.2008. |
-| Petroselinum crispum (Mill.) Nyman ex A. W. Hill | Perejil | TP 136/1 de 21.3.2007. |
-| Capsicum annuum L. | Pimiento | TP 76/2 de 21.3.2007. |
-| Allium porrum L. | Puerro | TP 85/2 de 1.4.2009. |
-| Raphanus sativus L. | Rábano y rabanito | TP 64/1 de 27.3.2002. |
-| Citrullus lanatus (Thunb.) Matsum. et Nakai | Sandía | TP 142/1 de 21.3.2007. |
-| Lycopersicon lycopersicum | Tomate | TP 44/3 de 21.3.2007. |
-| Daucus carota L. | Zanahoria de mesa | TP 49/3 de 13.3.2008. |
+| Cichorium intybus L. | Achicoria industrial | TP 172/2 de 1.12.2005 |
+| Cichorium intybus L. | Achicoria silvestre | TP 173/1 de 25.3.2004 |
+| Allium sativum L. | Ajo | TP 162/1 de 25.3.2004 |
+| Cynara cardunculus L. | Alcachofa y cardo | TP 184/1 de 25.3.2004 |
+| Apium graveolens L. | Apio | TP 82/1 de 13.3.2008 |
+| Apium graveolens L. | Apionabo | TP 74/1 de 13.3.2008 |
+| Solanum melongena L. | Berenjena | TP 117/1 de 13.3.2008 |
+| Brassica oleracea L. | Bróculi o brécol | TP 151/2 de 21.3.2007 |
+| Cucurbita pepo L. | Calabacín | TP 119/1 de 25.3.2004 |
+| Valerianella locusta (L.) Laterr. | Canónigo o hierba de los canónigos | TP 75/2 de 21.3.2007 |
+| Allium cepa L. (var. Cepa) | Cebolla | TP 46/2 de 1.04.2009 |
+| Allium cepa L. (var. Aggregatum) | Chalota | TP 46/2 de 1.04.2009 |
+| Alium fistulosum L. | Cebolleta | TP 161/1 de 11.3.2010 |
+| Alium schoenoprasum L. | Cebollino | TP 198 de 1.4.2009 |
+| Beta vulgaris L. | Remolacha de mesa | TP 60/1/ de 1.4.2009 |
+| Brassica oleracea L. | Col de Bruselas | TP 54/2 de 1.12.2005 |
+| Brassica rapa L. | Col de China | TP 105/1 de 13.3.2008 |
+| Brassica oleracea L. | Col forrajera o berza | TP 90/1 de 16.2.2011 |
+| Brassica oleracea L. | Col de Milán, repollo y lombarda | TP 48/3 de 16.1.2011 |
+| Brassica oleracea L. | Coliflor | TP 45/2 de 11.03.2010 |
+| Brassica oleracea L. | Colirrábano | TP 65/1 de 25.3.2004 |
+| Cichorium endivia L. | Escarola y endivia | TP 118/2 de 1.12.2005 |
+| Asparagus officinalis L. | Espárrago | TP 130/2 de 16.2.2011 |
+| Spinacia oleracea L. | Espinaca | TP 55/3 de 11.3.2010 |
+| Pisum sativum L. (partim) | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo | TP 7/2 de 11.3.2010 |
+| Vicia faba L. (partim) | Haba | TP Broadbean/1 de 25.3.2004 |
+| Foeniculum vulgare Mill. | Hinojo | TP 183/1 de 25.3.2004 |
+| Phaseolus vulgaris L. | Judía de mata baja y judía de enrame | TP 12/3 de 1.4.2009 |
+| Phaseolus coccineus L. | Judía escarlata | TP 9/1 de 21.3.2007 |
+| Lactuca sativa L. | Lechuga | TP 13/5 de 16.2.2011 |
+| Zea mays L. (partim) | Maíz dulce y maíz para palomitas | TP 2/3 de 11.3.2010 |
+| Cucumis melo L. | Melón | TP 104/2 de 21.3.2007 |
+| Cucumis sativus L. | Pepino y pepinillo | TP 61/2 de 13.3.2008 |
+| Petroselinum crispum (Mill.) | Perejil | TP 136/1 de 21.3.2007 |
+| Nyman ex A. W. Hill |  |  |
+| Capsicum annuum L. | Pimiento | TP 76/2 de 21.3.2007 |
+| Allium porrum L. | Puerro | TP 85/2 de 1.4.2009 |
+| Raphanus sativus L. | Rábano y rabanito | TP 64/1 de 27.3.2002 |
+| Citrullus lanatus (Thunb.) Matsum. et Nakai | Sandía | TP 142/1 de 21.3.2007 |
+| Lycopersicon lycopersicum | Tomate | TP 44/3 de 21.3.2007 |
+| Daucus carota L. | Zanahoria de mesa | TP 49/3 de 13.3.2008 |
 
 Especies que cumplen con las directrices de examen de la UPOV:
 
 | Nombre científico | Nombre común | Protocolo |
 | --- | --- | --- |
 | Beta vulgaris L. | Acelga | TG/116/4 de 31.3. 2004 |
-| Brassica napus L. var. napobrassica L. Rchb. | Colinabo | TG/89/6 Rev. 4.4.2001 + 1.4.2009 |
-| Cichorium intybus L. | Achicoria industrial o italiana | TG/172/4 de 6.4.2005 |
-| Cucúrbita maxima L. Duchesne | Calabaza | TG/155/4Rev 28.3.2007 + 1.4.2009 |
-| Brassica oleracea L. | Col forrajera o berza | TG/90/6 de 31.3.2004 |
-| Scorzonera hispanica L. | Escorzonera o salsifí negro. | TG/116/4 de 24.10.2010 |
+| Brassica napus L. var. napobrassica L. Rchb | Colinabo | + 1.4.2009 |
 | Brassica rapa L. | Nabo | TG/37/10 de 4.4.2001 |
+| Cichorium intybus L. | Achicoria industrial o italiana | TG/154/3 de 18.10.1996 |
+| Cucúrbitamaxima | Calabaza | TG/155/4 Rev 28.3.2007 |
+| Duchesne |  | + 1.4.2009 |
 | Raphanus sativus L. | Rábano de invierno o rábano negro | TG/63/6 de 24.3.1999 |
 | Rheum rhabarbum L. | Ruibarbo | TG/62/6 de 24.3.1999 |
+| Scorzonera hispanica L | Escorzonera o salsifí negro | TG/116/4 de 24.10.2010 |
+
+1 El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+2 El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Se modifica el apartado 5 por el art. único.10 de la Orden ARM/3383/2011, de 2 de diciembre. Ref. BOE-A-2011-19442.
+
+> Esta modificación se aplica a partir del 1 de enero de 2012, según establece la disposición final 2.

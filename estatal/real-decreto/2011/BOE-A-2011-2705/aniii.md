@@ -1,6 +1,6 @@
 ## ANEXO III
 
-## Reglamento técnico de inscripción de variedades de maíz, sorgo e híbridos de sorgo y pasto del Sudán
+## Reglamento Técnico de Inscripción de Variedades de Maíz y Sorgo
 
 1. Ámbito de aplicación.–El ámbito de aplicación de este Reglamento comprende todas las variedades de las especies siguientes:
 
@@ -74,16 +74,26 @@ Sorgo: contenido en proteínas, taninos y materia seca en variedades forrajeras.
 
 Pasto del Sudán e híbridos de Sorgo por Pasto del Sudán: contenido en materia seca.
 
-6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.–Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2011, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Especies que cumplen con las directrices de examen de la OCVV:
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2012, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+
+Especies que cumplen con los protocolos de examen de la OCVV:
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Zea mays L. | Maíz. | TP 2/3 de 11-3-2010. |
+| Zea mays L. | Maíz | TP 2/3 de 11.3.2010 |
 
 Especies que cumplen con las directrices de examen de la UPOV:
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Sorghum bicolor L. Moench. | Sorgo. | TG/122/3 de 6-10-1989 |
+| Sorghum bicolor L. Moench | Sorgo | TG/122/3 de 6.10.1989 |
+
+1 El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+2 El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Se modifica el título y el apartado 6 por el art. único.4 y 5 de la Orden ARM/3383/2011, de 2 de diciembre. Ref. BOE-A-2011-19442.
+
+> Esta modificación se aplica a partir del 1 de enero de 2012, según establece la disposición final 2.

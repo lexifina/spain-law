@@ -128,36 +128,46 @@ Lentejas, Guisantes y Habas: contenido en proteínas.
 
 Variedades cespitosas: la finura de las hojas, densidad del césped, persistencia y resistencia al frío y al calor, según comportamiento invernal y al pisoteo.
 
-6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.–Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2011, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Especies que cumplen con las directrices de examen de la OCVV:
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2012, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+
+Especies que cumplen con los protocolos de examen de la OCVV:
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Pisum sativum L. | Guisante forrajero. | TP 7/2 de 11-3-2010. |
+| Pisum sativum L. | Guisante forrajero | TP 7/2 de 11.3.2010 |
 
 Especies que cumplen con las directrices de examen de la UPOV:
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Agróstis estolonifera L. | Agrostis estolonifera o rastrera. | TG/30/6 de 12-10-1990. |
-| Agróstis capillaris L. | Agrostis tenue o común. | TG/30/6 de 12-10-1990. |
-| Medicago sativa L. | Alfalfa. | TG/6/5 de 6-4-2005. |
-| Lupinus albus L. | Altramuz blanco. | TG/66/4 de 31-3-2004. |
-| Lupinus luteus L. | Altramuz amarillo. | TG/66/4 de 31-3-2004. |
-| Lupinus angustifolius L. | Altramuz azul. | TG/66/4 de 31-3-2004. |
-| Dactylis glomerata L. | Dactilo. | TG/31/8 de 17-4-2002. |
-| Festuca arundinacea Schreber. | Festuca alta. | TG/39/8 de 17-4-2002. |
-| Festuca pratensis Huds. | Festuca pratense. | TG/39/8 de 17-4-2002. |
-| Festuca rubra L. | Festuca roja. | TG/67/5 de 5-4-2006. |
-| Poa pratensis L. | Poa de los prados. | TG/33/6 de 12-10-1990. |
-| Lolium multiflorum Lam. | Ray grass Italiano. | TG/4/8 de 5-4-2006. |
-| Lolium perenne. | Ray-grass Inglés. | TG/4/8 de 5-4-2006. |
-| Lolium x boucheanum Kunth. | Ray-grass híbrido. | TG/4/8 de 5-4-2006. |
-| Trifolium pratense L. | Trébol violeta. | TG/5/7 de 4-4-2001. |
-| Trifolium repens L. | Trébol blanco. | TG/38/7 de 9-4-2003. |
-| Trifolium subterrameum L. | Trebol subterráneo. | TG/170/3 de 4-4-2001. |
-| Vicia faba L. | Haba forrajera. | TG/8/6 de 17-4-2002. |
-| Vicia sativa L. | Veza común. | TG/32/6 de 21-10-1988. |
-| Cicer arietinum L. | Garbanzo. | TG/143/4 de 6-04-2005. |
-| Lens culinaris medik. | Lenteja. | TG/21/01 de 9-04-2003. |
+| Agróstis estolonifera L. | Agrostis estolonifera o rastrera | TG/30/6 de 12.10.1990 |
+| Agróstis capillaris L. | Agrostis tenue o común | TG/30/6 de 12.10.1990 |
+| Medicago sativa L. | Alfalfa | TG/6/5 de 6.4.2005 |
+| Lupinus albus L. | Altramuz blanco | TG/66/4 de 31.3.2004 |
+| Lupinus luteus L. | Altramuz amarillo | TG/66/4 de 31.3.2004 |
+| Lupinus angustifolius L. | Altramuz azul | TG/66/4 de 31.3.2004 |
+| Dactylis glomerata L. | Dactilo | TG/31/8 de 17.4.2002 |
+| Festuca arundinacea Schreber | Festuca alta | TG/39/8 de 17.4.2002 |
+| Festuca pratensis Huds. | Festuca pratense | TG/39/8 de 17.4.2002 |
+| Festuca rubra L. | Festuca roja | TG/67/5 de 5.4.2006 |
+| Poa pratensis L. | Poa de los prados | TG/33/6 de 12.10.1990 |
+| Lolium multiflorum Lam. | Ray grass Italiano | TG/4/8 de 5.4.2006 |
+| Lolium perenne | Ray-grass Inglés | TG/4/8 de 5.4.2006 |
+| Lolium x boucheanum Kunth | Ray-grass híbrido | TG/4/8 de 5.4.2006 |
+| Trifolium pratense L. | Trébol violeta | TG/5/7 de 4.4.2001 |
+| Trifolium repens L. | Trébol blanco | TG/38/7 de 9.4.2003 |
+| Trifolium subterrameum L. | Trébol subterráneo | TG/170/3 de 4.4.2001 |
+| Vicia faba L. | Haba forrajera | TG/8/6 de 17.4.2002 |
+| Vicia sativa L. | Veza común | TG/32/6 de 21.10.1988 |
+| Cicer arietinum L. | Garbanzo | TG/143/4 de 6.04.2005 |
+| Lens culinaris medik | Lenteja | TG/21/01 de 9.04.2003 |
+
+1 El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+2 El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Se modifica el apartado 6 por el art. único.6 de la Orden ARM/3383/2011, de 2 de diciembre. Ref. BOE-A-2011-19442.
+
+> Esta modificación se aplica a partir del 1 de enero de 2012, según establece la disposición final 2.

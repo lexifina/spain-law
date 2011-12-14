@@ -1,6 +1,6 @@
 ## ANEXO I
 
-## Reglamento técnico de inscripción de variedades de arroz, avena, cebada, centeno, trigo y triticale
+## Reglamento Técnico de Inscripción de Variedades de Cereales
 
 1. Ámbito de aplicación.–El ámbito de aplicación de este Reglamento comprende todas las variedades de las especies siguientes:
 
@@ -132,19 +132,27 @@ Centeno: Porcentaje de proteínas y peso 1.000 granos.
 
 Triticale: Porcentaje de proteínas y peso 1.000 granos.
 
-Arroz: Rendimiento grano pelado, rendimiento grano elaborado y tipo de grano
+Arroz: Rendimiento grano pelado, rendimiento grano elaborado y tipo de grano.
 
-6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.–Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2011, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Especies que cumplen con las directrices de examen de la OCVV:
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2012, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+
+Especies que cumplen con los protocolos de examen de la OCVV:
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Oriza sativa L. | Arroz. | TP 16/1 de 18-11-2004. |
-| Avena nuda L. | Avena desnuda. | TP 20/1 de 6-11-2003. |
-| Avena sativa L. (incluida la A. byzantina K. Koch). | Avena y Avena roja. | TP 20/1 de 6-1-2003. |
-| Hordeum vulgare L. | Cebada. | TP 19/2rev de 11-3-2010. |
-| Secale cerale L. | Centeno. | TP 58/1 de 31-10-2002. |
-| Triticum aestivum L. | Trigo blando. | TP 3/4rev de 28-10-2009. |
-| Triticum durum Desf. | Trigo duro. | TP 120/2 de 6-11-2003. |
-| Triticosecale Wittm ex A. Camus. | Triticale (Híbridos del cruce de una especie del género Triticum con una especie del género Secale). | TP 121/2 de 22-01-2007. |
+| Oriza sativa L. | Arroz. | TP 16/1 de 18.11.2004 |
+| Avena nuda L. | Avena desnuda | TP 20/1 de 6.11.2003 |
+| Avena sativa L. (incluida la A. byzantina K. Koch). | Avena y Avena roja | TP 20/1 de 6.11.2003 |
+| Hordeum vulgare L. | Cebada | TP 19/2 rev de 11.03.2010 |
+| Secale cerale L. | Centeno | TP 58/1 de 31.10.2002 |
+| Triticum aestivum L. | Trigo blando | TP 3/4 rev 2 de 16.2.2011 |
+| Triticum durum Desf. | Trigo duro | TP 120/2 de 6.11.2003 |
+| Triticosecale Wittm x A. Camus. | Triticale (Híbridos del cruce de una especie del géneroTriticum con una especie del género Secale | TP 121/2 rev 1 de 16.02.2011 |
+
+1 El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+> Se modifica el título y el apartado 6 por el art. único.1 y 2 de la Orden ARM/3383/2011, de 2 de diciembre. Ref. BOE-A-2011-19442.
+
+> Esta modificación se aplica a partir del 1 de enero de 2012, según establece la disposición final 2.

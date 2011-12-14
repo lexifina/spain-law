@@ -42,10 +42,18 @@ Homogeneidad de los tubérculos
 
 Profundidad de los ojos.
 
-6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.–Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2011, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Especies que cumplen con las directrices de examen de la OCVV:
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2012, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
-| Nombre científico | Denominación común. | Protocolo. |
+Especies que cumplen con los protocolos de examen de la OCVV:
+
+| Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Solanum tuberosum L. | Patata | TP 23/2 de 1.12.2005. |
+| Solanum tuberosum L. | Patata | TP 23/2 de 1.12.2005 |
+
+1 El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+> Se modifica el apartado 6 por el art. único.9 de la Orden ARM/3383/2011, de 2 de diciembre. Ref. BOE-A-2011-19442.
+
+> Esta modificación se aplica a partir del 1 de enero de 2012, según establece la disposición final 2.
