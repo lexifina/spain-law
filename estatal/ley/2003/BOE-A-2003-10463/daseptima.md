@@ -1,5 +1,5 @@
 ## Disposición adicional séptima. Procedimiento y competencias en las concesiones de obras públicas de competencia estatal.
 
-1. En los supuestos previstos en los artículos 130 a 134 y 226, o cuando en la financiación de un contrato se prevea cualquier forma de ayuda o aportación estatal, o en la modificación de los referidos contratos, la aprobación por el órgano de contratación del expediente de contratación prevista en el artículo 231.1 requerirá el previo informe del Ministerio de Hacienda.
+(Derogada)
 
-2. Las competencias que en el título V del libro II de la Ley de Contratos de las Administraciones Públicas se reconocen al órgano de contratación se entenderán atribuidas siempre al titular del departamento si, con anterioridad a su entrada en vigor, correspondían al Consejo de Ministros en virtud de lo dispuesto en una norma de carácter sectorial. Ello no obstante, las resoluciones que el Ministro adopte como consecuencia de la asunción de estas nuevas competencias exigirán la autorización previa del Consejo de Ministros.
+> Se deroaga por la disposición derogatoria única del Real Decreto Legislativo 3/2011, de 14 de noviembre. Ref. BOE-A-2011-17887.
