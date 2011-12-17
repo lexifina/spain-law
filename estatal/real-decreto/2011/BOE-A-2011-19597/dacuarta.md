@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Suboficiales de las Fuerzas Armadas anteriores a la Ley 39/2007.
+
+Los suboficiales de las Fuerzas Armadas que cursaron los planes de estudios anteriores a los desarrollados en ejecución de la Ley 39/2007 y cuya formación haya sido declarada equivalente al nivel académico del título de Técnico Superior de conformidad con el Real Decreto 205/2002, de 22 de febrero, sobre directrices generales de los planes de estudios de la enseñanza militar de formación para la incorporación a las Escalas de Suboficiales de las Fuerzas Armadas, podrán solicitar su reconocimiento a efectos de cursar enseñanzas universitarias oficiales de grado en los términos que, en su caso, determine el Ministro de Educación.

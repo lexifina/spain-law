@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Traspasos a las Comunidades Autónomas.
+
+Hasta que las Comunidades Autónomas las asuman de forma efectiva a través de los correspondientes acuerdos de traspasos, el Ministerio de Educación continuará ejerciendo las funciones de convalidación de los estudios oficiales de enseñanzas universitarias y artísticas superiores de grado, de los ciclos formativos de grado superior de formación profesional y de artes plásticas y diseño, y de los ciclos de grado superior de enseñanzas deportivas, a quienes cursen enseñanzas de formación profesional, de artes plásticas y diseño y deportivas.
