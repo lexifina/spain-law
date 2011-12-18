@@ -1,0 +1,3 @@
+## Disposición adicional única. Reglas particulares de las apuestas hípicas mutuas gestionadas por la Sociedad Estatal Loterías y Apuestas del Estado.
+
+La Comisión Nacional del Juego, en el marco del procedimiento de transformación de las habilitaciones de las que es titular la Sociedad Estatal Loterías y Apuestas del Estado requerirá a ésta para que, sin perjuicio de la previsión de la disposición transitoria segunda de la Ley 13/2011, de 27 de mayo, de regulación del juego y de conformidad con esta Reglamentación básica, aporte las reglas particulares que, desde el otorgamiento de la correspondiente licencia singular para la explotación de apuestas hípicas mutuas, regirán el desarrollo de este tipo de apuestas por parte de la sociedad estatal.
