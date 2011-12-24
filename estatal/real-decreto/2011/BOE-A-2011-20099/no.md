@@ -1,0 +1,1 @@
+El presente Real Decreto se entiende implícitamente derogado por el Real Decreto 424/2016, de 11 de noviembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales.Ref. BOE-A-2016-10459
