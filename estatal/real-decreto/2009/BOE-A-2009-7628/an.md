@@ -54,6 +54,8 @@ Sala de extracción: Lugar en el que se realiza la extracción a un deportista d
 
 Técnico de control del dopaje: Personal sanitario habilitado por la Comisión de Control y Seguimiento de la Salud y el Dopaje para la extracción directa de muestras de sangre.
 
+> Se modifica por el art. único. 3 y 4 del Real Decreto 1744/2011, de 25 de noviembre. Ref. BOE-A-2011-20028.
+
 > Se modifica por el art. único.3 y 4 del Real Decreto 1462/2009, de 18 de septiembre. Ref. BOE-A-2009-14829
 
 > Téngase en cuenta que el citado Real Decreto se declara nulo por Sentencia del TS de 13 de octubre de 2011. Ref. BOE-A-2011-20483.
