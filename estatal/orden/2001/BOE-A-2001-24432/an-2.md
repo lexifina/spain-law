@@ -4,21 +4,23 @@
 
 | Ministerios | Códigos |
 | --- | --- |
-| Ministerio de Asuntos Exteriores y de Cooperación | AEC |
+| Ministerio de Asuntos Exteriores y Cooperación | AEC |
 | Ministerio de Justicia | JUS |
 | Ministerio de Defensa | DEF |
-| Ministerio de Economía y Hacienda | EHA |
+| Ministerio de Hacienda y Administraciones Públicas | HAP |
 | Ministerio del Interior | INT |
 | Ministerio de Fomento | FOM |
-| Ministerio de Educación | EDU |
-| Ministerio de Trabajo e Inmigración | TIN |
-| Ministerio de Industria, Turismo y Comercio | ITC |
-| Ministerio de Medio Ambiente, y Medio Rural y Marino | ARM |
+| Ministerio de Educación, Cultura y Deporte | ECD |
+| Ministerio de Empleo y Seguridad Social | ESS |
+| Ministerio de Industria, Energía y Turismo | IET |
+| Ministerio de Agricultura, Alimentación y Medio Ambiente | AAA |
 | Ministerio de la Presidencia | PRE |
-| Ministerio de Política Territorial y Administración Pública | TAP |
-| Ministerio de Cultura | CUL |
-| Ministerio de Sanidad, Política Social e Igualdad | SPI |
-| Ministerio de Ciencia e Innovación | CIN |
+| Ministerio de Economía y Competitividad | ECC |
+| Ministerio de Sanidad, Servicios Sociales e Igualdad | SSI |
+
+> Se modifica por Resolución de 26 de diciembre de 2011. Ref. BOE-A-2011-20371.
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 22 de diciembre de 2011, fecha de la entrada en vigor del Real Decreto 1823/2011, de 21 de diciembre, según establece el apartado segundo de la citada Resolución.
 
 > Se modifica por Resolución de 21 de octubre de 2010. Ref. BOE-A-2010-16089.
 
@@ -32,6 +34,6 @@
 
 > Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 14 de abril de 2008, fecha de la entrada en vigor del Real Decreto 432/2008, de 12 de abril, según establece el apartado segundo de la citada Resolución.
 
-> Se modifica por Resolución de 20 de abril de 2004.Ref. BOE-A-2004-7270.
+> Se modifica por Resolución de 20 de abril de 2004.Ref. BOE-A-2004-7270
 
 > Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 18 de abril de 2004, fecha de la entrada en vigor del Real Decreto 553/2004, de 17 de abril, según establece el apartado segundo de la citada Resolución.
