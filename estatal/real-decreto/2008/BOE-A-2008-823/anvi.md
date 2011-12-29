@@ -12,6 +12,8 @@ c) Domicilio, localidad (comunidad autónoma-provincia-municipio), teléfono, fa
 
 d) Laboratorio o centro lácteo, en su caso, al que pertenecen.
 
+e) Formación.
+
 2. Laboratorios:
 
 a) CIF/NIF.
@@ -47,3 +49,9 @@ d) Teléfono, fax, correo electrónico.
 e) CIF/NIF del responsable de la instalación.
 
 f) Centro lácteo al que está asociada, en su caso.
+
+g) Código de identificación asignado por la Autoridad Competente.
+
+h) Código de Letra Q de la instalación de lavado (si lo tuviera).
+
+> Se añaden las letras e) al apartado 1 y g) y h) al apartado 3 por el art. 2.11 del Real Decreto 1600/2011, de 4 de noviembre. Ref. BOE-A-2011-18720.

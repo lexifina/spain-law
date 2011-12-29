@@ -28,6 +28,8 @@ j) Prueba utilizada para la detección de residuos de antibióticos.
 
 k) Resultado del análisis de la muestra.
 
+l) Fecha de recepción.
+
 En los casos de muestra recibida no analizada, rechazada y válida incompleta habrá que indicar además el motivo del estado o resultado, según la codificación que se establecerá para tal fin.
 
 2. En el caso de las muestras procedentes de la cisterna de transporte:
@@ -42,7 +44,7 @@ d) Código del país de origen de la cisterna.
 
 e) Código de la cisterna. En caso de cisternas no españolas, matrícula de la cisterna.
 
-f) Secuencial de ruta de la cisterna.
+f) Secuencial de ruta de la cisterna, o en su defecto la hora de la toma de muestra.
 
 g) Fecha de toma de muestra. De manera opcional podrá comunicarse la hora en que se tomó la muestra.
 
@@ -50,11 +52,13 @@ h) Fecha de análisis de la muestra.
 
 i) Estado de la muestra: analizada, recibida no analizada.
 
-j) Resultado de la muestra: válida, rechazada, válida incompleta, en reserva.
+j) Resultado: válida, rechazada o válida incompleta.
 
 k) Prueba utilizada para la detección de residuos de antibióticos.
 
 l) Resultado del análisis de la muestra.
+
+m) Fecha de recepción.
 
 La identificación del depósito de la cisterna del que se tomó la muestra será obligatorio en el caso de que se transporte leche con distintos destinos en la misma cisterna aunque en depósitos separados.
 
@@ -68,4 +72,10 @@ B. Para las medias establecidas en el artículo 16.2:
 
 3. CIF/NIF del productor.
 
-3. Medias calculadas de los parámetros.
+4. Medias calculadas de los parámetros.
+
+5. CIF/NIF del operador al que pertenece el centro lácteo de destino.
+
+6. Código del centro lácteo de destino.
+
+> Se modifica por el art. 2.12 del Real Decreto 1600/2011, de 4 de noviembre. Ref. BOE-A-2011-18720.
