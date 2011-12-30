@@ -36,9 +36,9 @@ Inspección oficial: La inspección efectuada por el organismo oficial responsab
 
 Declaración oficial: La declaración hecha por el organismo oficial responsable o bajo su responsabilidad.
 
-Lote de semillas: Partida de semillas de una misma especie o variedad que procede:
+Lote de semillas: Cantidad determinada de semillas de una misma especie o variedad y categoría, que se encuentra física y perfectamente identificable, y que procede:
 
-De una misma parcela, si se trata de semilla de base.
+De una misma parcela, si se trata de semilla base.
 
 De una o varias parcelas de la misma zona, cuando así lo establezca el correspondiente Reglamento Técnico específico, sembradas con semilla procedente del mismo origen, si se trata de semillas de otras categorías.
 
@@ -55,6 +55,10 @@ a) La entrega de semillas a organismos oficiales de experimentación e inspecci�
 b) La entrega de semillas a proveedores de servicios para procesamiento o envase, siempre que el proveedor de servicios no adquiera derecho sobre las semillas que le hayan sido entregadas.
 
 No se considerará comercialización la entrega de semillas en determinadas condiciones a proveedores de servicios para la producción de una determinada materia prima agrícola, destinada a fines industriales, ni para la reproducción de semillas con este fin, siempre que el proveedor de servicios no adquiera derechos ni sobre las semillas que le son entregadas ni sobre el producto de la cosecha. El proveedor de semillas facilitará a la autoridad de certificación una copia de las correspondientes partes del contrato celebrado con el proveedor de servicios, y ello incluirá los requisitos y condiciones realmente cumplidos por la semilla que proporcionó.
+
+Partida: En comercialización a granel, es la cantidad total de semilla de una misma variedad, debidamente identificable en un único recipiente o lugar de confinamiento, procedente de una o varias parcelas de multiplicación que hayan sido controladas y admitidas para la producción de semillas por la correspondiente autoridad competente y que será distribuida y certificada por lotes a la entrega al consumidor final. La cantidad máxima de cada partida no podrá superar las 300 toneladas métricas.
+
+Consumidor final: En comercialización a granel, es el agricultor individual, así como quienquiera que explote directamente superficies agrícolas, según resulte de la declaración única, o relación contractual que lo vincule con aquellas y siempre que sea el último destinatario de la semilla.
 
 6. Categorías de semillas y plantas de vivero:
 
@@ -89,6 +93,8 @@ Los Reglamentos Técnicos indicarán, para cada especie, las categorías y el n�
 En el caso de la patata y otras especies de multiplicación asexual, las categorías base y certificada podrán subdividirse en clases.
 
 En plantas de vivero, dada su especificidad, las categorías de éstas, así como, en su caso, los materiales con determinadas características que procedan, se establecerán en la normativa específica que se dicte.
+
+> Se modifica el apartado 5 por el art. único.1 y 2 de la Orden ARM/3554/2011, de 21 de diciembre. Ref. BOE-A-2011-20481.
 
 > Se añade la letra d) al apartado 5 por la disposición final 1.1 del Real Decreto 170/2011, de 11 de febrero. Ref. BOE-A-2011-2705#dfprimera.
 
