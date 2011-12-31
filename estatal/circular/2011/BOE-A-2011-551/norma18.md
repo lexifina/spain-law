@@ -42,4 +42,6 @@ VaRX-T: Límite máximo de VAR para un cierto nivel de confianza «x» y horizon
 
 Coeficiente: Valor de la distribución normal inversa según el intervalo de confianza «x» elegido.
 
-4. En la sección correspondiente a las medidas de riesgo (dentro del apartado de comportamiento del fondo) del modelo de información pública periódica recogida en los Anexos de la Circular 4/2008 de la CNMV, se deberá aportar sobre los niveles de VAR alcanzados en concreto: el más alto, el más bajo y la media durante el año en curso. Adicionalmente, se deberá aportar información de la cartera de referencia en el caso de ser aplicado VAR Relativo dentro del anexo explicativo del modelo de información pública periódica recogido también en los Anexos de la Circular 4/2008 de la CNMV.
+4. En el Anexo explicativo del modelo de información publica periódica, recogido en los Anexos de la Circular 4/2008 de la CNMV, se deberá aportar sobre los niveles de VAR alcanzados en concreto: el más alto, el más bajo y la media durante el año en curso. Adicionalmente, se deberá aportar información de la cartera de referencia en el caso de ser aplicado VAR Relativo.
+
+> Se modifica el apartado 4 por la norma adicional.2 de la Circular 4/2011, de 16 de noviembre. Ref. BOE-A-2011-19174.
