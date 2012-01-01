@@ -1,0 +1,57 @@
+## Disposición adicional trigésima quinta. Gravamen complementario a la cuota íntegra estatal para la reducción del déficit público en los ejercicios 2012 y 2013.
+
+1. En los períodos impositivos 2012 y 2013, la cuota íntegra estatal a que se refiere el artículo 62 de esta Ley se incrementará en los siguientes importes:
+
+a) El resultante de aplicar a la base liquidable general los tipos de la siguiente escala:
+
+| Base liquidable general – Hasta euros | Incremento en cuota íntegra estatal – Euros | Resto base liquidable general – Hasta euros | Tipo aplicable – Porcentaje |
+| --- | --- | --- | --- |
+| 0 | 0 | 17.707,20 | 0,75 |
+| 17.707,20 | 132,80 | 15.300,00 | 2 |
+| 33.007,20 | 438,80 | 20.400,00 | 3 |
+| 53.407,20 | 1.050,80 | 66.593,00 | 4 |
+| 120.000,20 | 3.714,52 | 55.000,00 | 5 |
+| 175.000,20 | 6.464,52 | 125.000,00 | 6 |
+| 300.000,20 | 13.964,52 | En adelante | 7 |
+
+La cuantía resultante se minorará en el importe derivado de aplicar a la parte de la base liquidable general correspondiente al mínimo personal y familiar a que se refiere el artículo 56 de esta Ley, la escala prevista en esta letra a).
+
+Cuando el contribuyente satisfaga anualidades por alimentos a sus hijos por decisión judicial y el importe de aquéllas sea inferior a la base liquidable general, aplicará la escala prevista en esta letra a) separadamente al importe de las anualidades por alimentos y al resto de la base liquidable general. La cuantía total resultante se minorará en el importe derivado de aplicar la escala prevista en esta letra a) a la parte de la base liquidable general correspondiente al mínimo personal y familiar incrementado en 1.600 euros anuales, sin que el resultado de esta minoración pueda resultar negativo.
+
+b) El resultante de aplicar a la base liquidable del ahorro, en la parte que no corresponda, en su caso, con el mínimo personal y familiar a que se refiere el artículo 56 de esta Ley, los tipos de la siguiente escala:
+
+| Base liquidable del ahorro – Hasta euros | Incremento en cuota íntegra estatal – Euros | Resto base liquidable del ahorro – Hasta euros | Tipo aplicable – Porcentaje |
+| --- | --- | --- | --- |
+| 0 | 0 | 6.000 | 2 |
+| 6.000,00 | 120 | 18.000 | 4 |
+| 24.000,00 | 840 | En adelante | 6 |
+
+2. En los períodos impositivos 2012 y 2013, la cuota de retención a que se refieren los apartados 1 y 2 del artículo 85 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, se incrementará en el importe resultante de aplicar a la base para calcular el tipo de retención los tipos previstos en la siguiente escala:
+
+| Base para calcular el tipo de retención – Hasta euros | Cuota de retención – Euros | Resto base para calcular el tipo de retención – Hasta euros | Tipo aplicable – Porcentaje |
+| --- | --- | --- | --- |
+| 0 | 0 | 17.707,20 | 0,75 |
+| 17.707,20 | 132,80 | 15.300,00 | 2 |
+| 33.007,20 | 438,80 | 20.400,00 | 3 |
+| 53.407,20 | 1.050,80 | 66.593,00 | 4 |
+| 120.000,20 | 3.714,52 | 55.000,00 | 5 |
+| 175.000,20 | 6.464,52 | 125.000,00 | 6 |
+| 300.000,20 | 13.964,52 | En adelante | 7 |
+
+La cuantía resultante se minorará en el importe derivado de aplicar al importe del mínimo personal y familiar para calcular el tipo de retención a que se refiere el artículo 84 del Reglamento del Impuesto, la escala prevista en este apartado, sin que el resultado de esta minoración pueda resultar negativo.
+
+Cuando el perceptor de rendimientos del trabajo satisfaga anualidades por alimentos en favor de los hijos por decisión judicial, siempre que su importe sea inferior a la base para calcular el tipo de retención, se aplicará la escala prevista en este apartado separadamente al importe de dichas anualidades y al resto de la base para calcular el tipo de retención. La cuantía total resultante se minorará en el importe derivado de aplicar la escala prevista en este apartado al importe del mínimo personal y familiar para calcular el tipo de retención incrementado en 1.600 euros anuales, sin que el resultado de esta minoración pueda resultar negativo.
+
+En ningún caso, cuando se produzcan regularizaciones en los citados períodos impositivos, el nuevo tipo de retención aplicable podrá ser superior al 52 por ciento. El citado porcentaje será el 26 por ciento cuando la totalidad de los rendimientos del trabajo se hubiesen obtenido en Ceuta y Melilla y se beneficien de la deducción prevista en el artículo 68.4 de esta Ley.
+
+Reglamentariamente podrán modificarse las cuantías y porcentajes previstos en este apartado.
+
+3. Las retenciones e ingresos a cuenta a practicar sobre los rendimientos del trabajo que se satisfagan o abonen durante el mes de enero de 2012, correspondientes a dicho mes, y a los que resulte de aplicación el procedimiento general de retención a que se refieren los artículos 80.1.1.º y 82 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, deberán realizarse sin tomar en consideración lo dispuesto en el apartado 2 anterior.
+
+En los rendimientos que se satisfagan o abonen a partir del 1 de febrero de 2012, siempre que no se trate de rendimientos correspondientes al mes de enero, el pagador deberá calcular el tipo de retención tomando en consideración lo dispuesto en el apartado 2 anterior, practicándose la regularización del mismo, si procede, de acuerdo con lo señalado en el Reglamento del Impuesto sobre la Renta de las Personas Físicas, en los primeros rendimientos del trabajo que se satisfaga o abone.
+
+4. En los períodos impositivos 2012 y 2013, los porcentajes de pagos a cuenta del 19 por ciento previstos en el artículo 101 de esta Ley y el porcentaje del ingreso a cuenta a que se refiere el artículo 92.8 de esta Ley, se elevan al 21 por ciento.
+
+Asimismo, durante los períodos a que se refiere el párrafo anterior, el porcentaje de retención del 35 por ciento previsto en el apartado 2 del artículo 101 de esta Ley, se eleva al 42 por ciento.
+
+> Se añade por la disposición final.2 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-11641.

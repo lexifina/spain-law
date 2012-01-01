@@ -24,7 +24,7 @@ b) Productos que cumplan las especificaciones técnicas del gasóleo de automoci
 
 El Ministro de Economía y Hacienda podrá revisar, por primera vez con efectos a partir del 1 de enero de 2008, el valor del coeficiente corrector establecido en la letra a) anterior y el factor establecido en la letra b) anterior cuando, sobre la base de los datos disponibles, se aprecien variaciones relevantes de los datos relativos a la temperatura media en el ámbito territorial interno y a la proporción media en que los biocarburantes se hallan finalmente presentes en el gasóleo puesto a consumo en el ámbito territorial interno con aplicación del tipo del epígrafe 1.3.
 
-6. a) El tipo de la devolución, expresado en euros por 1.000 litros, será el importe positivo resultante de restar la cantidad de 278 euros del tipo impositivo del epígrafe 1.3 vigente en el momento de generarse el derecho a la devolución.
+6. a) El tipo de la devolución, expresado en euros por 1.000 litros, será el importe positivo resultante de restar la cantidad de 306 euros del tipo impositivo del epígrafe 1.3 vigente en el momento de generarse el derecho a la devolución.
 
 b) El tipo de la devolución podrá ser modificado por la Ley de Presupuestos Generales del Estado.
 
@@ -43,6 +43,8 @@ c) La obligación, para las entidades emisoras de los referidos medios de pago e
 9. La utilización de gasóleo por el que se solicite la devolución regulada en este artículo en motores distintos de los de los vehículos mencionados en el apartado 2 está prohibida. La inobservancia de esta prohibición constituirá una infracción tributaria grave que será sancionada de acuerdo con lo previsto en el artículo 55.
 
 10. Lo establecido en el apartado anterior se entiende sin perjuicio de las responsabilidades en que incurran quienes suministren gasóleo por el que se solicite la devolución a personas no autorizadas para recibirlo. A efectos de la aplicación de lo previsto en los artículos 8.6 y 15.11, el gasóleo por el que se solicite la devolución tendrá la consideración de gasóleo al que se ha aplicado un tipo reducido en razón de su destino.
+
+> Se modifica el apartado 6.a), con efectos de 1 de enero de 2012, por la disposición final 6 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
 
 > Se modifica el apartado 6.a), con efectos a partir del 1 de enero de 2010, por la disposición final 14.1 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
 

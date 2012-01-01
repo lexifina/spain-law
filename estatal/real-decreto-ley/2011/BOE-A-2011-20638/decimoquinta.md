@@ -1,0 +1,3 @@
+## Disposición adicional decimoquinta. Modificación del Real Decreto 1221/2010, de 1 de octubre, de los precios de retribución de la energía.
+
+Con carácter excepcional para el año 2012, la fijación conforme al Real Decreto 1221/2010, de 1 de octubre, de los precios de retribución de la energía, el volumen máximo de producción que puede ser programado en el proceso de resolución de restricciones por garantía de suministro y las cantidades de carbón autóctono a adquirir por los titulares de las centrales para cada central se determinarán con carácter trimestral por Resolución de la Secretaría de Estado de Energía.

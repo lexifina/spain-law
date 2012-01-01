@@ -2,4 +2,6 @@
 
 Uno. Los actuales Cuerpos Auxiliares de Prisiones, Sección Masculina y Sección Femenina, pasarán a denominarse, respectivamente, Cuerpo Auxiliar Masculino de Instituciones Penitenciarias y Cuerpo Auxiliar Femenino de Instituciones Penitenciarias. Sus funcionarios ejecutarán las instrucciones que en orden al tratamiento de reclusos, se les comuquine; realizarán las tareas de custodia y vigilancia interior de los Establecimientos, cuidarán de que se cumplan las normas sobre aseo y limpieza de reclusos y locales, velarán por el orden, compostura y disciplina, y, en general, colaborarán con su gestión personal en las tareas reeducadoras y de rehabilitación de los internos. Para el ingreso en estos Cuerpos se exigirá el título de Graduado Escolar o equivalente. Las plantillas serán de mil novecientos sesenta y tres funcionarios y doscientos catorce funcionarias, respectivamente.
 
-Dos. La actual Escala Auxiliar de Sanidad de Prisiones pasará a denominarse Cuerpo de Ayudantes Técnicos Sanitarios de Instituciones Penitenciarias. La plantilla estará integrada por setenta y tres funcionarios,
+Dos. El Cuerpo de Ayudantes Técnicos Sanitarios de Instituciones Penitenciarias pasa a denominarse Cuerpo de Enfermeros de Instituciones Penitenciarias.
+
+> Se modifica el apartado 2, con efectos de 1 de enero de 2012, por la disposición final 18.2 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.

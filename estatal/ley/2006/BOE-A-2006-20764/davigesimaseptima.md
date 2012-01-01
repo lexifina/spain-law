@@ -1,6 +1,6 @@
 ## Disposición adicional vigésima séptima. Reducción del rendimiento neto de las actividades económicas por mantenimiento o creación de empleo.
 
-1. En cada uno de los períodos impositivos 2009, 2010 y 2011, los contribuyentes que ejerzan actividades económicas cuyo importe neto de la cifra de negocios para el conjunto de ellas sea inferior a 5 millones de euros y tengan una plantilla media inferior a 25 empleados, podrán reducir en un 20 por 100 el rendimiento neto positivo declarado, minorado en su caso por las reducciones previstas en el artículo 32 de esta Ley, correspondiente a las mismas, cuando mantengan o creen empleo.
+1. En cada uno de los períodos impositivos 2009, 2010, 2011 y 2012, los contribuyentes que ejerzan actividades económicas cuyo importe neto de la cifra de negocios para el conjunto de ellas sea inferior a 5 millones de euros y tengan una plantilla media inferior a 25 empleados, podrán reducir en un 20 por 100 el rendimiento neto positivo declarado, minorado en su caso por las reducciones previstas en el artículo 32 de esta Ley, correspondiente a las mismas, cuando mantengan o creen empleo.
 
 A estos efectos, se entenderá que el contribuyente mantiene o crea empleo cuando en cada uno de los citados períodos impositivos la plantilla media utilizada en el conjunto de sus actividades económicas no sea inferior a la unidad y a la plantilla media del período impositivo 2008.
 
@@ -18,8 +18,10 @@ Cuando el contribuyente no viniese desarrollando ninguna actividad económica co
 
 Cuando en cualquiera de los períodos impositivos la duración de la actividad económica hubiese sido inferior al año, el importe neto de la cifra de negocios se elevará al año.
 
-4. Cuando el contribuyente no viniese desarrollando ninguna actividad económica con anterioridad a 1 de enero de 2009 e inicie su ejercicio en 2009, 2010 ó 2011, y la plantilla media correspondiente al período impositivo en el que se inicie la misma sea superior a cero e inferior a la unidad, la reducción establecida en el apartado 1 de esta disposición adicional se aplicará en el período impositivo de inicio de la actividad a condición de que en el período impositivo siguiente la plantilla media no sea inferior a la unidad.
+4. Cuando el contribuyente no viniese desarrollando ninguna actividad económica con anterioridad a 1 de enero de 2009 e inicie su ejercicio en 2009, 2010, 2011 ó 2012, y la plantilla media correspondiente al período impositivo en el que se inicie la misma sea superior a cero e inferior a la unidad, la reducción establecida en el apartado 1 de esta disposición adicional se aplicará en el período impositivo de inicio de la actividad a condición de que en el período impositivo siguiente la plantilla media no sea inferior a la unidad.
 
 El incumplimiento del requisito a que se refiere el párrafo anterior motivará la no aplicación de la reducción en el período impositivo de inicio de su actividad económica, debiendo presentar una autoliquidación complementaria, con los correspondientes intereses de demora, en el plazo que medie entre la fecha en que se incumpla el requisito y la finalización del plazo reglamentario de declaración correspondiente al período impositivo en que se produzca dicho incumplimiento.
 
-> Se añade, con efectos desde el 1 de enero de 2009 por el art. 72 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
+> Se modifica, con efectos desde 1 de enero de 2012, por la disposición final 2.3º.2 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
+
+> Se añade, con efectos desde 1 de enero de 2009, por el art. 72 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765

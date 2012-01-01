@@ -1,11 +1,7 @@
 ## Disposición transitoria decimoctava. Deducción por inversión en vivienda habitual adquirida con anterioridad a 1 de enero de 2011.
 
-1. Los contribuyentes cuya base imponible sea superior a 17.724,90 euros anuales que hubieran adquirido su vivienda habitual con anterioridad a 1 de enero de 2011 o satisfecho cantidades con anterioridad a dicha fecha para la construcción de la misma, tendrán como base máxima de deducción respecto de dicha vivienda la establecida en el artículo 68.1.1.º de esta ley en su redacción en vigor a 31 de diciembre de 2010, aún cuando su base imponible sea igual o superior a 24.107,20 euros anuales. Igualmente, la base máxima de deducción será la prevista en el párrafo anterior respecto de las obras de rehabilitación o ampliación de la vivienda habitual, siempre que se hubieran satisfecho cantidades con anterioridad a 1 de enero de 2011 y las citadas obras estén terminadas antes de 1 de enero de 2015.
+(Suprimida)
 
-2. Los contribuyentes cuya base imponible sea superior a 17.738,99 euros anuales que hubieran satisfecho cantidades para la realización de obras e instalaciones de adecuación de la vivienda habitual de las personas con discapacidad con anterioridad a 1 de enero de 2011, tendrán como base máxima de deducción respecto de las mismas la establecida en el artículo 68.1.4.º de esta Ley en su redacción en vigor a 31 de diciembre de 2010, siempre y cuando las citadas obras o instalaciones estén concluidas antes de 1 de enero de 2015, aún cuando su base imponible sea igual o superior a 24.107,20 euros anuales.
+> Se suprime, con efectos desde 1 de enero de 2011, por la disposición final 2.2º.3 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
 
-3. En ningún caso, por aplicación de lo dispuesto en esta disposición la base de la deducción correspondiente al conjunto de inversiones en vivienda habitual efectuadas en el período impositivo podrá ser superior al importe de la base máxima de deducción establecida en los artículos 68.1.1.º y 4.º de esta Ley en su redacción en vigor a 31 de diciembre de 2010.
-
-4. Los contribuyentes cuya base imponible sea igual o superior a 24.107,20 euros anuales no perderán el derecho a las deducciones practicadas con anterioridad a 1 de enero de 2011 por las cantidades depositadas en cuentas vivienda, siempre que tales cantidades se destinen exclusivamente a la primera adquisición o rehabilitación de la vivienda habitual en los términos que se establecen reglamentariamente.
-
-> Se añade, con efectos desde el 1 de enero de 2011, por el art. 67.2 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+> Se añade, con efectos desde 1 de enero de 2011, por el art. 67.2 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
