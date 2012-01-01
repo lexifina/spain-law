@@ -269,7 +269,8 @@ TIPO DE REGISTRO 2: REGISTRO DE DETALLE (POSICIONES, NATURALEZA Y DESCRIPCIÓN D
 |  |  | I Inversión del sujeto pasivo (ISP). |
 |  |  | J Tiques. |
 |  |  | K Rectificación de errores registrales. |
-|  |  | L Adquisiciones a comerciantes minoristas del IGIC. Ninguna de las anteriores. |
+|  |  | L Adquisiciones a comerciantes minoristas del IGIC. |
+|  |  | Ninguna de las anteriores. |
 |  |  | Si este campo viene a blanco se considerará que corresponde con «Ninguna de las anteriores». |
 |  |  | La anotación individualizada de las facturas o documentos sustitutivos se podrá sustituir por la de asientos resúmenes en los que se harán constar la fecha o periodo en que se hayan expedido, base imponible global, el tipo impositivo, la cuota global de facturas o documentos sustitutivos numerados correlativamente y expedidos en la misma fecha, y los números inicial y final de los documentos anotados, siempre que se cumplan simultáneamente los requisitos establecidos en el apartado 4 del artículo 63 Reglamento del IVA o en el artículo 31.4 del Decreto 182/1992 del IGIC. |
 |  |  | Podrá hacerse un asiento resumen global de las facturas recibidas en una misma fecha, en el que se harán constar los números inicial y final de las facturas recibidas asignados por el destinatario, siempre que procedan de un único proveedor, la suma global de la base imponible y la cuota impositiva global, siempre que el importe total conjunto de las operaciones, Impuesto sobre el Valor Añadido o Impuesto General Indirecto Canario no incluido, no exceda de 6.000 euros, y que el importe de las operaciones documentadas en cada una de ellas no supere 500 euros, Impuesto sobre el Valor Añadido no incluido. |
@@ -277,10 +278,17 @@ TIPO DE REGISTRO 2: REGISTRO DE DETALLE (POSICIONES, NATURALEZA Y DESCRIPCIÓN D
 |  |  | Con carácter voluntario, se podrán consignar, asimismo, las claves siguientes: |
 |  |  | E IVA/IGIC devengado pendiente de emitir factura. |
 |  |  | M IVA/IGIC facturado pendiente de devengar (emitida factura). |
-|  |  | N Facturación de las prestaciones de servicios de agencias de viaje que actúan como mediadoras en nombre y por cuenta ajena (disposición adicional 4.ª RD 1496/2003). |
+|  |  | N Facturación de las prestaciones de servicios de agencias de viaje que actúan como mediadoras en nombre y por cuenta ajena (disposición adicional 4.ª RD 1496/2003). Deberá consignarse de forma obligatoria cuando se realicen operaciones que se correspondan con la misma. |
 |  |  | O Factura emitida en sustitución de tiques facturados y declarados. |
 |  |  | P Adquisiciones intracomunitarias de bienes. |
 |  |  | Q Operaciones a las que se aplique el Régimen especial de bienes usados, objetos de arte, antigüedades y objetos de colección según los artículos del 135 al 139 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido. |
+|  |  | R–Operación de arrendamiento de local de negocio. |
+|  |  | S–Subvenciones, auxilios o ayudas satisfechas o recibidas, tanto por parte de Administraciones públicas como de entidades privadas. |
+|  |  | T–Cobros por cuenta de terceros de honorarios profesionales o de derechos derivados de la propiedad intelectual, industrial, de autor u otros por cuenta de sus socios, asociados o colegiados efectuados por sociedades, asociaciones, colegios profesionales u otras entidades que, entre sus funciones, realicen las de cobro. |
+|  |  | U–Operación de seguros. |
+|  |  | V–Compras de agencias viajes: operaciones de prestación de servicios de mediación en nombre y por cuenta ajena relativos a los servicios de transporte de viajeros y de sus equipajes que las agencias de viajes presten al destinatario de dichos servicios de transporte, de acuerdo con lo dispuesto en el apartado 3 de la disposición adicional cuarta del Reglamento por el que se regulan las obligaciones de facturación. |
+|  |  | W–Operaciones sujetas al Impuesto sobre la Producción, los Servicios y la Importación en las Ciudades de Ceuta y Melilla. |
+|  |  | X–Operaciones por las que los empresarios o profesionales que satisfagan compensaciones agrícolas, ganaderas y/o pesqueras hayan expedido el recibo correspondiente. |
 | 101-108 | Numérico. | FECHA DE LA EXPEDICIÓN. |
 |  |  | Se consignará la fecha de la expedición de la factura, indicando los cuatro dígitos del año, los dos del mes (de 01 a 12) y los dos del día (de 01 a 31) con el formato AAAAMMDD. |
 | 109-116 | Numérico. | FECHA DE LA OPERACIÓN. |
@@ -336,7 +344,21 @@ TIPO DE REGISTRO 2: REGISTRO DE DETALLE (POSICIONES, NATURALEZA Y DESCRIPCIÓN D
 |  |  | 372-384 IMPORTE: Campo numérico de 13 posiciones. Se consignará (sin coma decimal ni puntuación de miles) el importe descrito anteriormente. Este campo se subdivide en dos: |
 |  |  | 372-382 Parte entera de la Cuota del recargo de equivalencia. |
 |  |  | 383-384 Parte decimal de la Cuota del recargo de equivalencia. |
-| 385-500 |  | BLANCOS. |
+| 385 | Numérico | Situación del inmueble. |
+|  |  | Cuando se consigne la clave de operación ''R'' se consignará de entre las siguientes claves la que corresponda a la situación del local de negocio arrendado: 1. Inmueble con referencia catastral situado en cualquier punto del territorio español, excepto País Vasco y Navarra. 2. Inmueble situado en la Comunidad Autónoma del País Vasco o en la Comunidad Foral de Navarra. 3. Inmueble en cualquiera de las situaciones anteriores pero sin referencia catastral. 4. Inmueble situado en el extranjero. |
+| 386-410 | Alfanumérico | Referencia catastral. |
+|  |  | Cuando se consigne la clave ''R'' se consignará la referencia catastral correspondiente al local de negocio arrendado. |
+| 411-425 | Numérico | Importe percibido en metálico. |
+|  |  | Se consignarán sin signo y sin coma decimal los importes superiores a 6.000 euros que se hubieran percibido en metálico (moneda o billetes de curso legal) de la misma persona o entidad por las operaciones realizadas durante el año natural. Estos importes se reflejarán en las declaraciones mensuales a partir de las cuales se haya superado el citado límite. Cuando las cantidades percibidas en metálico previstas no puedan incluirse en las declaraciones mensuales del año natural en el que se realizan las operaciones por percibirse con posterioridad a su presentación o por no haber alcanzado en ese momento un importe superior a 6.000 euros, los obligados tributarios deberán incluirlas separadamente en la declaración correspondiente al período del año natural posterior en el que se hubiese efectuado el cobro o se hubiese alcanzado el importe señalado anteriormente. Los importes deben consignarse en euros. Este campo se subdivide en dos: |
+|  |  | 411-423 Parte entera del importe percibido en metálico, si no tiene contenido se consignará a ceros. |
+|  |  | 424-425 Parte decimal del importe percibido en metálico, si no tiene contenido se consignará a ceros. |
+| 426-429 | Numérico | Ejercicio. |
+|  |  | Se consignarán las cuatro cifras del ejercicio en el que se hubieran declarado las operaciones que dan origen al cobro en metálico por importe superior a 6.000 euros. |
+| 430-444 | Numérico | Importe percibido por transmisiones de inmuebles sujetas a IVA. |
+|  |  | Se consignará, sin signo y sin coma decimal, separadamente de otras operaciones, las cantidades que se perciban en contraprestación por transmisiones de inmuebles, efectuadas o que se deban efectuar, que constituyan entregas sujetas en el Impuesto sobre el Valor añadido (IVA incluido). Los importes deben consignarse en euros. Este campo se subdivide en dos: |
+|  |  | 430-442 Parte entera del importe percibido por transmisiones de inmuebles sujetas a IVA, si no tiene contenido se consignará a ceros. |
+|  |  | 443-444 Parte decimal del importe percibido por transmisiones de inmuebles sujetas a IVA, si no tiene contenido se consignará a ceros. |
+| 445-500 |  | BLANCOS. |
 
 LIBRO REGISTRO DE FACTURAS RECIBIDAS
 
@@ -422,3 +444,5 @@ LIBRO REGISTRO DE DETERMINADAS OPERACIONES INTRACOMUNITARIAS
 * Todos los campos numéricos ajustados a la derecha y rellenos a ceros por la izquierda
 
 * Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, en mayúsculas, sin caracteres especiales y sin vocales acentuadas, excepto que se especifique lo contrario en la descripción del campo.
+
+> Se modifica por el art. 2.2 a 4 de la Orden EHA/3378/2011, de 1 de diciembre. Ref. BOE-A-2011-19397.
