@@ -1,16 +1,22 @@
 ## Disposición adicional octava. Normas de desarrollo y aplicación a Regímenes Especiales.
 
-1. Será de aplicación a todos los regímenes que integran el sistema de la Seguridad Social lo dispuesto en los artículos 137, apartados 2 y 3; 138; 140, apartados 1, 2 y 3; 143; 161, apartados 1.b), 2 y 3; 161 bis, apartado 1; 162, apartados 1.1, 2, 3, 4 y 5; 163; 165; 174; 174 bis; 175; 176, apartado 4; 177, apartado 1, segundo párrafo; y 179. Igualmente serán de aplicación las normas sobre las prestaciones familiares contenidas en el capítulo IX del título II; las disposiciones adicionales séptima bis y cuadragésima tercera y las disposiciones transitorias cuarta, párrafo primero, quinta, apartado 1, quinta bis, sexta bis y decimosexta.
+1. Será de aplicación a todos los regímenes que integran el sistema de la Seguridad Social lo dispuesto en los artículos 137, apartados 2 y 3; 138; 140, apartados 1, 2 y 3; 143; 161, apartados 1, 2 y 3; 161 bis, apartado 1 y apartado 2. B); 162, apartados 1.1, 2, 3, 4 y 5; 163; 165; 174; 174 bis; 175; 176, apartado 4; 177, apartado 1, segundo párrafo; y 179. Igualmente serán de aplicación las normas sobre las prestaciones familiares contenidas en el Capítulo IX del Título II; las disposiciones adicionales séptima bis y cuadragésima tercera y quincuagésima novena y las disposiciones transitorias cuarta, párrafo primero, quinta, apartado 1, quinta bis, sexta bis y decimosexta.
 
 No obstante lo dispuesto en el párrafo anterior, se exceptúa la aplicación a los regímenes especiales de lo previsto en el artículo 138 en el último párrafo de su apartado 2, así como lo regulado por su apartado 5.
 
-2. En el Régimen Especial de la Minería del Carbón, y para los trabajadores por cuenta ajena de los Regímenes Especiales Agrario y de Trabajadores del Mar, será también de aplicación lo previsto en el artículo 140, apartado 4, y 162, apartado 1.2.
+2. En el Régimen Especial para la Minería del Carbón y para los trabajadores por cuenta ajena del Régimen Especial de los Trabajadores del Mar, será también de aplicación lo previsto en los artículos 140.4 y 162.1.2.
 
 3. Lo previsto en el apartado 2 del artículo 161 bis será de aplicación a los trabajadores por cuenta ajena incluidos en los Regímenes Especiales de la Minería del Carbón y de Trabajadores del Mar.
 
-4. Lo previsto en los artículos 134, 135, 135 bis, 135 ter, 135 quater y 166 será aplicable, en su caso, a los trabajadores por cuenta ajena de los regímenes especiales. Lo previsto en los artículos 112 bis y 162.6 será igualmente aplicable a los trabajadores por cuenta ajena de los regímenes especiales con excepción de los incluidos en los Regímenes Especiales Agrario y de Empleados de Hogar. Asimismo, lo dispuesto en los artículos 134, 135, 135 bis, 135 ter, 135 quater y 166 resultará de aplicación a los trabajadores por cuenta propia incluidos en los Regímenes Especiales de Trabajadores del Mar y de Trabajadores por cuenta propia o Autónomos, en los términos y condiciones que se establezcan reglamentariamente.
+4. Lo previsto en los artículos 134, 135, 135 bis, 135 ter, 135 quáter y 166 será aplicable, en su caso, a los trabajadores por cuenta ajena de los regímenes especiales. Lo previsto en los artículos 112 bis y 162.6 será igualmente aplicable a los trabajadores por cuenta ajena de los regímenes especiales. Asimismo, lo dispuesto en los artículos 134, 135, 135 bis, 135 ter, 135 quáter y 166 resultará de aplicación a los trabajadores por cuenta propia incluidos en los Regímenes Especiales de Trabajadores del Mar y de Trabajadores por Cuenta Propia o Autónomos, en los términos y condiciones que se establezcan reglamentariamente.
 
 5. Lo previsto en el último párrafo del apartado 2 y en el apartado 4 del artículo 139 será de aplicación a todos los regímenes que integran el sistema de la Seguridad Social. A efectos de determinar el importe mínimo de la pensión y del cálculo del complemento a que se refieren, respectivamente, dichos apartados se tomará en consideración como base mínima de cotización la vigente en cada momento en el Régimen General, cualquiera que sea el régimen con arreglo a cuyas normas se reconozcan las pensiones de incapacidad permanente total y de gran invalidez.
+
+> Se modifican los apartados 2 y 4 por la disposición final 1.4 de la Ley 28/2011, de 22 de septiembre. Ref. BOE-A-2011-15038.
+
+> Se modifican los apartados 1 y 4, por las disposiciones final 8 y adicional 40.4 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
+
+> La modificación del apartado 1 entrará en vigor el 1 de enero de 2013, según establece la disposición final 12.1.
 
 > Se modifica el apartado 4, con efectos desde el 1 de enero de 2011, por la disposición final 21.4 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
 

@@ -1,0 +1,3 @@
+## Disposición transitoria única. Alcance de las cotizaciones realizadas al extinguido Régimen Especial Agrario de la Seguridad Social.
+
+Las cotizaciones satisfechas al extinguido Régimen Especial Agrario de la Seguridad Social por los trabajadores por cuenta ajena integrados en el Régimen General de la Seguridad Social, se entenderán efectuadas en este último, teniendo plena validez tanto para perfeccionar el derecho como para determinar la cuantía de las prestaciones previstas en la acción protectora de dicho Régimen General a las que puedan acceder aquellos trabajadores, de acuerdo con lo previsto en la presente ley.

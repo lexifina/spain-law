@@ -1,0 +1,3 @@
+## Disposición final quinta. Incorporación al Sistema Especial para Trabajadores por Cuenta Ajena Agrarios de determinados trabajos agrarios por cuenta ajena.
+
+Reglamentariamente se regulará la posible inclusión de determinados trabajos agrarios actualmente encuadrados en el Régimen General en el Sistema Especial para Trabajadores por Cuenta Ajena Agrarios, observando los requisitos establecidos en la presente Ley y con garantía de los derechos de Seguridad Social reconocidos a los trabajadores de estos colectivos, previa consulta a la Comisión de seguimiento prevista en el apartado 2 de la disposición adicional segunda.
