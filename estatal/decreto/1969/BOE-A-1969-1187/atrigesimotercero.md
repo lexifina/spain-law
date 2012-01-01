@@ -10,4 +10,6 @@ c) Pensión de orfandad.
 
 d) Pensión vitalicia o, en su caso, subsidio temporal en favor de familiares.
 
-Dos. El período de cotización exigido en el Régimen General para causar derecho a estas prestaciones será, en el Régimen Especial regulado en el presente Decreto, de sesenta mensualidades computables, dentro de los diez años anteriores a la fecha del fallecimiento del causante.
+Dos. (Derogado)
+
+> Se deroga el apartado 2 por la disposición derogatoria única del Real Decreto 1596/2011, de 4 de noviembre. Ref. BOE-A-2011-18914.

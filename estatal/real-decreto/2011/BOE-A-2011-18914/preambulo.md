@@ -1,0 +1,21 @@
+La disposición final tercera, nueve, de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, ha añadido una nueva disposición adicional, la quincuagésima tercera, a la Ley General de la Seguridad Social, texto refundido aprobado por el Real Decreto legislativo 1/1994, de 20 de junio, mediante la cual se extiende, con efectos de 1 de enero de 2011, la acción protectora por contingencias profesionales a los trabajadores incluidos en el Régimen Especial de la Seguridad Social de los Empleados de Hogar.
+
+Esta norma cabe enmarcarla en el proceso iniciado como consecuencia del denominado Pacto de Toledo de 1995, en su recomendación cuarta y sus posteriores actualizaciones en 2003 y 2011, que determinan un principio de homogeneización gradual de la regulación de los distintos regímenes especiales y una ampliación de las contingencias protegidas que debe culminar en una equiparación con la acción protectora del Régimen General.
+
+Hasta ahora, en virtud de lo dispuesto en el Decreto 2346/1969, de 25 de septiembre, por el que se regula el Régimen Especial de la Seguridad Social de los Empleados de Hogar, las contingencias protegidas en este régimen eran exclusivamente las establecidas en el Régimen General de la Seguridad Social por contingencias comunes, con independencia de que la enfermedad o el accidente del empleado de hogar tuvieran, respectivamente, carácter profesional o laboral, o no lo tuvieran.
+
+Debido, por tanto, a que el Régimen Especial de la Seguridad Social de los Empleados de Hogar tenía reconocido menor número de contingencias dentro del sistema de Seguridad Social, era necesario hacer efectiva la ampliación de las contingencias protegidas, incluyendo las de carácter profesional, con el objeto de equiparar las condiciones de protección de los trabajadores incluidos en el campo de aplicación del citado régimen con los pertenecientes a los demás regímenes.
+
+La referida disposición adicional quincuagésima tercera de la Ley General de la Seguridad Social establece también que por las contingencias profesionales se reconocerán las prestaciones que, por las mismas, están previstas para los trabajadores incluidos en el Régimen General, en los términos y condiciones que se establezcan reglamentariamente, determinando asimismo la consiguiente obligación de cotizar por las repetidas contingencias y remitiendo a la norma correspondiente la especificación del tipo de cotización previsto al efecto en la tarifa de primas por esas contingencias profesionales que haya de aplicarse a estos trabajadores.
+
+En consecuencia, de acuerdo con lo determinado en la referida disposición adicional y al objeto de hacer plenamente efectiva la nueva extensión de la acción protectora de las personas incluidas en el aludido Régimen Especial de Empleados de Hogar, se hace preciso proceder tanto a la adaptación de los Reglamentos generales sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, y sobre cotización y liquidación de otros derechos de la Seguridad Social, aprobados, respectivamente, por los Reales Decretos 84/1996, de 26 de enero, y 2064/1995, de 22 de diciembre, como al oportuno desarrollo reglamentario en materia de prestaciones.
+
+Este desarrollo reglamentario se hace sin perjuicio de la adaptación que será preciso realizar cuando, con efectos del día 1 de enero de 2012, tengan efectividad las previsiones de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de Seguridad Social, referidas a la integración del Régimen Especial de Empleados de Hogar en el Régimen General de la Seguridad Social.
+
+En la tramitación de este real decreto se han recabado los informes oportunos a los interlocutores sociales y a los órganos afectados de la Administración General del Estado.
+
+El real decreto se dicta de conformidad con la disposición final séptima del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
+
+En su virtud, a propuesta del Ministro de Trabajo e Inmigración, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de noviembre de 2011,
+
+DISPONGO:
