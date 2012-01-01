@@ -68,6 +68,12 @@ Liquidación de la tasa con código 058 «Tasa por Vacunación de Viajeros Inter
 
 Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
 
+Liquidación de la tasa con código 056, Tasa por Reconocimientos, Autorizaciones y Concursos.
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+> Se amplía por el apartado 1 de la Resolución de 17 de noviembre de 2011. Ref. BOE-A-2011-18904.
+
 > Se amplía por las Resoluciones de 27 de octubre de 2009 Ref. BOE-A-2010-1903. y 23 de diciembre de 2009. Ref. BOE-A-2010-1904.
 
 > Se amplía por el apartado 1 de la Resolución de 27 de marzo de 2009. Ref. BOE-A-2009-5386.
