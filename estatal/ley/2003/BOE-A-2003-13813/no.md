@@ -1,0 +1,1 @@
+Téngase en cuenta que las referencias hechas a "los administradores concursales" se entenderán hechas a "la administración concursal", según establece la disposición final 1 de la Ley 38/2011, de 10 de octubre. Ref. BOE-A-2011-15938#dfprimera.

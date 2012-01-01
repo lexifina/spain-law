@@ -26,8 +26,8 @@ La Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, queda modificada en los t
 
 "1. Presentado el escrito de interposición, dentro de los cinco días siguientes se remitirán todos los autos originales al tribunal competente para conocer del recurso de casación, con emplazamiento de las partes ante él por término de 30 días."
 
-7. El artículo 568 queda redactado de la forma siguiente:
+7. El apartado 2 del artículo 568 pasa a tener la siguiente redacción:
 
-"El tribunal suspenderá la ejecución, en el estado en que se halle, en cuanto le sea notificado que el ejecutado se encuentra en situación de concurso. El inicio de la ejecución y la continuación del procedimiento ya iniciado que se dirija exclusivamente contra bienes hipotecados y pignorados estarán sujetos a cuanto establece la Ley Concursal."
+"2. El secretario judicial decretará la suspensión de la ejecución en el estado en que se halle en cuanto conste en el procedimiento la declaración del concurso. El inicio de la ejecución y la continuación del procedimiento ya iniciado que se dirija exclusivamente contra bienes hipotecados y pignorados estarán sujetos a cuanto establece la Ley Concursal."
 
-> Los apartados 4, 5 y 6 entran en vigor el 11 de julio de 2003, tal como establece la disposicion final 35.
+> Se modifica el apartado 7 por el art. único.116 de la Ley 38/2011, de 10 de octubre. Ref. BOE-A-2011-15938.

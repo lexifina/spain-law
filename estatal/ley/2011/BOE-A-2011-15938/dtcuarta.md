@@ -1,0 +1,7 @@
+## Disposición transitoria cuarta. Comunicación, reconocimiento y clasificación de créditos.
+
+1. Los artículos 23.1 párrafo segundo, 29.4 y 6, y el artículo 85.2, 3 y 4 de la Ley Concursal, modificados por esta ley, se aplicarán a los concursos en tramitación a la fecha de su entrada en vigor, si a dicha fecha aún no se hubiese publicado en el «Boletín Oficial del Estado» el anuncio del artículo 23 de la Ley Concursal.
+
+2. Los artículos 49, 84 –salvo los nuevos apartados 3, 4 y 5–, 86.2, 3 y 4, 90.1, 91, números 1.º, 3.º, 5.º, 6.º y 7.º, 92, números 1.º, 3.º y 5.º, 93.2.3.º y 94.4 de la Ley Concursal, modificados por esta ley, a los efectos de la clasificación de los créditos afectados, así como a efectos procedimentales lo dispuesto en los artículos 94.4, 95.1 y 96.4 y 5 de la Ley Concursal, modificados por esta ley, se aplicarán a los concursos en tramitación, al tiempo de la fecha de su entrada en vigor, en los que aún no se hubiese presentado el informe por la administración concursal. A tal fin, y para dichos procedimientos, la entrada en vigor de esta ley, constituye circunstancia extraordinaria que posibilita la ampliación judicial del plazo previsto para la emisión de informe en los términos de lo señalado en el artículo 74 de la Ley Concursal.
+
+3. Los artículos 87.8, 96 bis, 97.1, 3 y 4, 97 bis y 97 ter de la Ley Concursal, modificados por esta ley, se aplicarán a los concursos en tramitación, cuando los textos definitivos no se hubiesen presentado.
