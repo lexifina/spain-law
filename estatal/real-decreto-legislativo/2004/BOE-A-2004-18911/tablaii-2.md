@@ -6,10 +6,10 @@
 | --- | --- | --- |
 | Perjuicios económicos |  |  |
 | Ingresos netos anuales de la víctima por trabajo personal: |  |  |
-| Hasta 27.211,63 euros (1) | Hasta el 10. | – |
-| De 27.211,64 a 54.423,25 euros | Del 11 al 25. | – |
-| De 54.423,26 hasta 90.705,42 euros | Del 26 al 50. | – |
-| Más de 90.705,42 euros | Del 51 al 75. | – |
+| Hasta 27.864,71 euros (1) | Hasta el 10. | – |
+| De 27.864,72 a 55.729,41 euros | Del 11 al 25. | – |
+| De 55.729,42 hasta 92.882,35 euros | Del 26 al 50. | – |
+| Más de 92.882,35 euros | Del 51 al 75. | – |
 | Circunstancias familiares especiales |  |  |
 | Discapacidad física o psíquica acusada (anterior al accidente) del perjudicado/beneficiario: |  |  |
 | Si es cónyuge o hijo menor | Del 75 al 100 (2). | – |
@@ -26,11 +26,11 @@
 | Sin hijos menores de veinticinco años | Del 10 al 25 (3). | – |
 | Víctima embarazada con pérdida de feto a consecuencia del accidente |  |  |
 | Si el concebido fuera el primer hijo: |  |  |
-| Hasta el tercer mes de embarazo | 13.605,81 | – |
-| A partir del tercer mes | 36.282,17 | – |
+| Hasta el tercer mes de embarazo | 13.932,35 | – |
+| A partir del tercer mes | 37.152,94 | – |
 | Si el concebido fuera el segundo hijo o posteriores: |  |  |
-| Hasta el tercer mes | 9.070,54 | – |
-| A partir del tercer mes | 18.141,08 | – |
+| Hasta el tercer mes | 9.288,23 | – |
+| A partir del tercer mes | 18.576,47 | – |
 | Elementos correctores del apartado primero.7 de este anexo |  | Hasta el 75. |
 
 (1) Se incluirá en este apartado cualquier víctima en edad laboral, aunque no se justifiquen ingresos.
@@ -38,6 +38,8 @@
 (2) Sobre la indemnización que corresponda al beneficiario discapacitado.
 
 (3) Sobre la indemnización básica que corresponda a cada perjudicado.
+
+> Se actualizan las cuantías con vigencia durante el año 2012 por el Anexo de la Resolución de 24 de enero de 2012. Ref. BOE-A-2012-1780.
 
 > Se actualizan las cuantías con vigencia durante el año 2011 por el Anexo de la Resolución de 20 de enero de 2011. Ref. BOE-A-2011-1494.
 
