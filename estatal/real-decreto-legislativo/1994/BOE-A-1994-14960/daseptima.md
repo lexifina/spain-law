@@ -30,7 +30,11 @@ Cuarta. Protección por desempleo.
 
 Para determinar los períodos de cotización y de cálculo de la base reguladora de las prestaciones por desempleo se estará a lo que se determine reglamentariamente en su normativa específica.
 
-2. Las reglas contenidas en el apartado anterior serán de aplicación a los trabajadores con contrato a tiempo parcial, contrato de relevo a tiempo parcial y contrato de trabajo fijo-discontinuo, de conformidad con lo establecido en los artículos 12 y 15.8 de la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto legislativo 1/1995, de 24 de marzo, que estén incluidos en el campo de aplicación del Régimen General y del Régimen especial de la minería del carbón, y a los que, siendo trabajadores por cuenta ajena, estén incluidos en el Régimen especial de los trabajadores del mar.
+2. Las reglas contenidas en el apartado anterior serán de aplicación a los trabajadores con contrato a tiempo parcial, contrato de relevo a tiempo parcial y contrato de trabajo fijo-discontinuo, de conformidad con lo establecido en los artículo 12 y 15.8 de la Ley del Estatuto de los Trabajadores, Texto Refundido aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, que estén incluidos en el campo de aplicación del Régimen General y del Régimen Especial de la Minería del Carbón, y a los que, siendo trabajadores por cuenta ajena, estén incluidos en el Régimen Especial de los Trabajadores del Mar.
+
+Dichas reglas serán igualmente aplicables a los trabajadores a tiempo parcial o fijos discontinuos incluidos en el Sistema Especial para Empleados de Hogar, establecido en el Régimen General de la Seguridad Social.
+
+> Se modifica el apartado 2 por la disposición adicional 40.3 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
 
 > Se añade la letra d) de la regla 3, con efectos desde el 1 de enero de 2009, por la disposición final 3.8 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744.
 
