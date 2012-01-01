@@ -1,0 +1,1 @@
+Por CEOE, el Director del Dpto. de Relaciones Laborales, José de la Cavada Hoyo.–Por CEPYME, la Directora del Dpto. Socio-Laboral, Teresa Díaz de Terán López.–Por CCOO, el Secretario de Acción Sindical, Ramón Górriz Vitalla.–Por UGT, el Secretario de Acción Sindical, Antonio Ferrer Sais.
