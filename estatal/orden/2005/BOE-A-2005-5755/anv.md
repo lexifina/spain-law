@@ -96,12 +96,14 @@
 |  | Valencia-Cabanyal. |
 |  | Valencia-Estación del Nord. |
 |  | Valladolid-Campo Grande. |
-|  | Vigo. |
+|  | Vigo-Guixar. |
 |  | Villagarcia de Arousa. |
 |  | Villena. |
 |  | Vinarós. |
 |  | Vitoria/Gasteiz. |
 |  | Zamora. |
 | Categoría 3. | Estaciones no incluidas en la categoría 1 y 2. |
+
+> Se modifica por el apartado 2 de la Orden FOM/3417/2011, de 1 de diciembre. Ref. BOE-A-2011-19653.
 
 > Se modifica por el art. único.2 de la Orden FOM/3852/2007, de 20 de diciembre. Ref. BOE-A-2007-22444.
