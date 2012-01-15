@@ -355,7 +355,7 @@ Podrán comercializarse mezclas de semillas de varios géneros, especies o varie
 
 2.ª Vayan destinadas a un aprovechamiento como plantas forrajeras, pudiendo las mezclas contener semillas de plantas forrajeras y de plantas que estén incluidas en los Reglamentos específicos de cereales, hortícolas y oleaginosas y textiles, con excepción de variedades de gramíneas que, según declaración del obtentor, no sean destinadas a uso forrajero.
 
-3.ª Vayan destinadas a la preservación del medio natural, en el marco de la preservación de los recursos genéticos, pudiendo contener las mezclas semillas de plantas forrajeras y de plantas no forrajeras.
+3.ª Vayan destinadas a la preservación del medio natural, en el marco de la preservación de los recursos genéticos, obtenidas y comercializadas de acuerdo con el anejo V, pudiendo contener las mezclas semillas de plantas forrajeras y de plantas no forrajeras.
 
 En los casos previstos en los párrafos primero y segundo del presente apartado, se entenderá que los componentes de las mezclas deben haber cumplido, antes del momento de la mezcla las exigencias para su comercialización.
 
@@ -434,5 +434,7 @@ VIII.3 Los lotes de semilla que cumplan las condiciones establecidas en el anexo
 VIII.4 Comercialización de semilla certificada a granel.
 
 Se podrá comercializar semilla de categoría certificada a granel, de las especies: Habas y haboncillos [Vicia faba (partim)] y guisante [Pisum sativum (partim)], destinadas directamente al consumidor final, siempre que se cumplan los requisitos establecidos en los apartados 40 y 40 bis del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero.
+
+> Se modifica el párrafo 3 del epígrafe V.3 por el art. único.1 de la Orden AAA/30/2012, de 10 de enero. Ref. BOE-A-2012-530.
 
 > Se corrigen errores por Orden ARM/2554/2011, de 21 de septiembre. Ref. BOE-A-2011-15171.
