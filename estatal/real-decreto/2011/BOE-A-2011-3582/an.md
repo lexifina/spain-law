@@ -382,8 +382,12 @@
 | Lythophyllum byssoides |  | Mediterráneo |  |
 | Ptilophora mediterranea |  | Mediterráneo |  |
 | Schimmelmannia schousboei |  | Mediterráneo |  |
-| Sphaerococcus rhizophyloides |  | Mediterráneo |  |
+| Sphaerococcus rhizophylloides |  | Mediterráneo |  |
+| Tenarea tortuosa (Esper) Lemoine. |  | Mediterráneo |  |
+| Titanoderma ramosissimum (Heydrich) Bressan & Cabioch. |  | Mediterráneo |  |
+| Titanoderma trochanter (Bory) Benhissoune et al. |  | Mediterráneo |  |
 | HETEROKONTOPHYTA |  |  |  |
+| Cystoseira sp. (1) |  | Mediterráneo |  |
 | Laminaria rodriguezi |  | Mediterráneo |  |
 | Sargassum acinarium |  | Mediterráneo |  |
 | Sargassum flavifolium |  | Mediterráneo |  |
@@ -391,6 +395,8 @@
 | Sargassum trichocarpum |  | Mediterráneo |  |
 
 1 Las comunidades autónomas, o en su caso, la Administración General del Estado podrán reglamentar las operaciones de anclaje de embarcaciones u otras similares.
+
+(1) Se incluyen todas las especies del género, salvo Cystoseira compressa.
 
 | Nombre científico | Nombre común | Población referida | Categoría del Catálogo |
 | --- | --- | --- | --- |
@@ -400,6 +406,8 @@
 | Decapoda |  |  |  |
 | Austropotamobius pallipes | Cangrejo de río |  | Vulnerable |
 | Munidopsis polymorpha | Jameíto |  | En peligro de extinción |
+| Ocypode cursor (Linnaeus, 1758) |  | Mediterráneo |  |
+| Pachylasma giganteum (Philippi, 1836) |  | Mediterráneo |  |
 | Panulirus echinatus | Langosta herreña |  | En peligro de extinción |
 | Ostracoda |  |  |  |
 | Candelacypris aragonica |  |  | Vulnerable |
@@ -463,6 +471,7 @@
 | Elona quimperiana |  |  |  |
 | Erosaria spurca |  | Mediterráneo |  |
 | Geomalacus maculosus |  |  |  |
+| Gibbula nivosa (Adams, 1851): |  | Mediterráneo |  |
 | Luria lurida |  | Mediterráneo |  |
 | Mitra zonata |  | Mediterráneo |  |
 | Nucela lapilus |  |  |  |
@@ -497,11 +506,14 @@
 | BRYOZOA |  |  |  |
 | Hornera lichenoides |  | Mediterráneo |  |
 | PORIFERA |  |  |  |
+| Aplysina sp. (2) |  | Mediterráneo |  |
 | Asbestopluma hypogea |  | Mediterráneo |  |
 | Axinella cannabina |  | Mediterráneo |  |
 | Axinela polypoides |  | Mediterráneo |  |
 | Geodia cydonium |  | Mediterráneo |  |
+| Petrobiona massiliana (Vacelet & Lévi, 1958) |  | Mediterráneo |  |
 | Sarcophagus pipetta |  | Mediterráneo |  |
+| Tethya sp. (2) |  | Mediterráneo |  |
 | PECES |  |  |  |
 | PETROMYZONTIFORMES |  |  |  |
 | Petromyzontidae |  |  |  |
@@ -511,13 +523,32 @@
 | Sphyrnidae2 |  |  |  |
 | LAMNIFORMES |  |  |  |
 | Lamnidae |  |  |  |
+| Carcharias taurus (Rafinesque, 1810) | Tiburón toro, Toro bacota | Mediterráneo |  |
 | Carcharodon carcharias | Tiburón blanco | Mediterráneo |  |
 | Cetorhinidae |  |  |  |
 | Cetorhinus maximus | Tiburón peregrino | Mediterráneo y Atlántico ibérico |  |
 | Alopiidae2 |  |  |  |
+| Odontaspididdae |  |  |  |
+| Odontaspis ferox (Risso, 1810) | Solrayo | Mediterráneo |  |
 | RAJIFORMES |  |  |  |
+| Rajidae |  |  |  |
+| Dipturus batis (Linnaeus, 1758) | Noriega | Mediterráneo |  |
+| Rostroraja alba (Lacépéde, 1803) | Raya blanca, Raya bramante | Mediterráneo |  |
+| Gymnuridae |  |  |  |
+| Gymnura altavela (Linnaeus, 1758) | Raya mariposa, Mantellina | Mediterráneo |  |
+| Pristidae |  |  |  |
+| Pristis pectinata (Latham, 1794) | Pez sierra | Mediterráneo |  |
+| Pristis pristis (Linnaeus, 1758) | Pez sierra, Pejesierra | Mediterráneo |  |
 | Mobulidae |  |  |  |
 | Mobula mobular | Manta | Mediterráneo |  |
+| SQUALIFORMES |  |  |  |
+| Oxynotidae |  |  |  |
+| Oxynotus centrina (Linnaeus, 1758) | Cerdo marino | Mediterráneo |  |
+| SQUATINIFORMES |  |  |  |
+| Squatinidae |  |  |  |
+| Squatina aculeata (Dumeril, en Cuvier, 1817) | Angelote espinoso | Mediterráneo |  |
+| Squatina oculata (Bonaparte, 1840) | Angelote manchado | Mediterráneo |  |
+| Squatina squatina (Linnaeus, 1758) | Angelote | Mediterráneo |  |
 | SYNGNATHIFORMES |  |  |  |
 | Syngnathidae |  |  |  |
 | Hippocampus guttulatus (=H. ramulosus) | Caballito de mar | Mediterráneo y Atlántico ibérico |  |
@@ -1155,5 +1186,9 @@
 | Ziphius cavirostris | Zifio de Cuvier |  |  |
 
 2 Todas las especies de las Familias Sphyrnidae (géneros Sphyrna y Eusphyra) y Alopiidae (género Alopias).
+
+(2) Incluyen todas las especies del género.
+
+> Se modifica por el apartado 1 y el anexo de la Orden AAA/75/2012, de 12 de enero. Ref. BOE-A-2012-923.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 76, de 30 de marzo de 2011. Ref. BOE-A-2011-5713.
