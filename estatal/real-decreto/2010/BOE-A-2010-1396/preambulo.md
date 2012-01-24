@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 49, de 25 de febrero de 2010. Ref. BOE-A-2010-3031.
+Norma derogada, a excepción de las disposiciones adicional 1, transitoria 2 y final 3 por la disposición derogatoria única del Real Decreto 202/2012, de 23 de enero. Ref. BOE-A-2012-1035.
