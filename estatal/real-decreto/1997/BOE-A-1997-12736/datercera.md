@@ -1,5 +1,7 @@
 ## Disposición adicional tercera. Nombramiento del Director general del Instituto de la Mujer.
 
-El nombramiento del Director general del Instituto se podrá efectuar, en atención a las características específicas de las funciones del organismo, entre personal que ostente, tanto la condición de funcionario de carrera del Estado, de las comunidades autónomas o de las entidades locales al que se exija para su ingreso el título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente, como entre aquel otro que no reúna dicha condición de funcionario.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 200/2012, de 23 de enero. Ref. BOE-A-2012-1034.
 
 > Se añade por el art. único del Real Decreto 292/2003, de 7 de marzo. Ref. BOE-A-2003-4788
