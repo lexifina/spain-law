@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Adaptación del Plan de Acción de la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios.
+
+La Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios, de acuerdo con las previsiones del Real Decreto 1418/2006, de 1 de diciembre, por el que se aprueba su Estatuto, adaptará su plan de acción para incluir en el mismo las evaluaciones sobre el uso racional de los recursos públicos y eficiencia en la gestión de las Administraciones Públicas en su conjunto, mediante la celebración, en su caso, de convenios de colaboración con las comunidades autónomas, las entidades locales y las entidades que se determinen.

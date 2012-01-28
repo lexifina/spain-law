@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 189, de 6 de agosto de 2008. Ref. BOE-A-2008-13408
+Norma derogada por la disposición derogatoria única del Real Decreto 256/2012, de 27 de enero. Ref. BOE-A-2012-1312.

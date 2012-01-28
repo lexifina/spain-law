@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Órganos Colegiados de Contratación.
+
+Sin perjuicio de lo dispuesto en la disposición transitoria segunda acerca de la subsistencia de unidades y puestos de trabajo y hasta tanto se apruebe la Orden Ministerial y se constituyan los correspondientes órganos colegiados de contratación adaptados a la estructura establecida en el presente real decreto, subsistirán la Junta de Contratación y la Mesa Única de Contratación con la estructura y facultades que les atribuye la Orden EHA/2151/2010, de 29 de julio, con el carácter de órganos interministeriales, así como las mesas de contratación reguladas por la Orden TAP/2225/2011, de 28 de julio.
