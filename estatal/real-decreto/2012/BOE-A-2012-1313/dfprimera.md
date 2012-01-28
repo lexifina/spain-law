@@ -1,0 +1,103 @@
+## Disposición final primera. Modificación del Real Decreto 2195/2004, de 25 de noviembre, por el que se regula la estructura orgánica y las funciones del Consejo Superior de Deportes.
+
+El Real Decreto 2195/2004, de 25 de noviembre, por el que se regula la estructura orgánica y las funciones del Consejo Superior de Deportes, queda modificado como sigue:
+
+Uno. El apartado 1 y el apartado 2 del artículo 5 quedan redactados del siguiente modo:
+
+«1. Depende directamente del Presidente del organismo la Dirección General de Deportes.
+
+2. Dependen, asimismo, directamente del Presidente, con nivel orgánico de subdirección general:
+
+a) Un Gabinete, como órgano de apoyo y asistencia inmediata al Presidente, con la estructura y funciones que se establecen en el artículo 10 de la Ley 50/1997, de 27 de noviembre, del Gobierno, y en el Real Decreto 1887/2011, de 30 de diciembre, por el que se aprueba la estructura orgánica básica de los departamentos ministeriales.
+
+Corresponden, además, al Gabinete las funciones relativas a la planificación de los objetivos, su seguimiento y la evaluación de los resultados, las relaciones internacionales, el desarrollo de la política del Consejo Superior de Deportes en materia de cooperación internacional, las relaciones institucionales y el protocolo, así como la redacción de los informes, estudios y textos que le encomiende el Presidente.
+
+b) La Subdirección General de Inspección, a la que corresponden las siguientes funciones:
+
+1.ª Comprobar la adecuada justificación, la realización de la actividad y el cumplimiento de la finalidad de las subvenciones concedidas por el organismo, de acuerdo con lo previsto en la legislación sobre subvenciones; inspeccionar los libros y documentos oficiales y reglamentarios de los entes beneficiarios de ellas, sin perjuicio de las competencias que la legislación sobre subvenciones atribuye a la Intervención General de la Administración del Estado y proponer las auditorías que se consideren necesarias y el alcance de éstas, en los supuestos legalmente previstos.
+
+2.ª Ejercer el control y el seguimiento del accionariado de las sociedades anónimas deportivas y elevar las propuestas de resolución que procedan de acuerdo con la normativa en vigor.
+
+3.ª Prestar asesoramiento económico-financiero a las federaciones deportivas españolas y demás instituciones deportivas, en la medida en que dichas entidades perciban subvenciones con cargo a fondos públicos. Emitir los informes y estudios de gestión que se le encomienden.
+
+c) La Oficina de Prensa, a través de la cual el Consejo Superior de Deportes se relaciona con los medios de comunicación.»
+
+Dos. El artículo 6 queda redactado del siguiente modo:
+
+«1. Corresponden a la Dirección General de Deportes las siguientes funciones:
+
+a) Elevar al Presidente del Consejo Superior de Deportes las propuestas sobre objetivos, presupuestos, estructuras orgánicas y funcionales y programas deportivos de las federaciones deportivas españolas, colaborando con ellas y con las asociaciones establecidas en el artículo 12.1 de la Ley 10/1990, de 15 de octubre, del Deporte, mediante apoyo técnico y económico para la formación y perfeccionamiento de los deportistas de alto nivel, así como proponer los criterios para la clasificación como tales.
+
+b) Elevar al Presidente del Consejo Superior de Deportes las propuestas sobre el plan estratégico de subvenciones a las federaciones, a las asociaciones deportivas españolas y, en su caso, a otros entes e instituciones, proponiendo la concesión de las que procedan e impulsando su aplicación efectiva.
+
+c) Proponer al Presidente la autorización de los gastos plurianuales de las federaciones deportivas españolas en los supuestos reglamentariamente previstos, el destino de su patrimonio en caso de disolución y la autorización del gravamen y enajenación de sus bienes inmuebles cuando éstos hayan sido financiados total o parcialmente con fondos públicos del Estado.
+
+d) Proponer al Presidente, previa conformidad del Ministerio de Asuntos Exteriores y de Cooperación, la celebración de competiciones deportivas oficiales de carácter internacional en el territorio español, así como la participación de selecciones españolas en competiciones internacionales.
+
+e) Gestionar directamente los centros de alto rendimiento que sean de titularidad del Consejo Superior de Deportes, y coordinar con las federaciones y asociaciones deportivas su utilización.
+
+f) Cooperar con el sostenimiento de los centros de alto rendimiento y de tecnificación deportiva que sean de titularidad de las Comunidades Autónomas, proponiendo a estos efectos los correspondientes convenios de colaboración.
+
+g) Colaborar con las Comunidades Autónomas en la elaboración de planes de promoción de la educación física y de la práctica del deporte en todos los colectivos de población, así como fomentar los valores socioeducativos inherentes al deporte.
+
+h) Impulsar las acciones organizativas y de promoción desarrolladas por las asociaciones deportivas y organizar, en colaboración con las Comunidades Autónomas, competiciones deportivas escolares y universitarias de ámbito nacional e internacional.
+
+i) Elaborar planes y programas de detección de talentos deportivos, en coordinación con las federaciones deportivas españolas, y proponer planes anuales de subvención.
+
+j) Promover e impulsar medidas de prevención, de control y de represión de la utilización de productos, sustancias, métodos no reglamentarios o prohibidos en el deporte, así como adoptar medidas de lucha contra la utilización de estos productos, sustancias y métodos, en los restantes ámbitos de la actividad deportiva; ordenar la publicación de la lista de sustancias y métodos prohibidos e informar sobre la misma, y habilitar al personal sanitario responsable y auxiliar para la recogida de muestras de los controles de dopaje.
+
+k) Impulsar la protección de la salud de los deportistas mediante la realización de pruebas, estudios e investigaciones médico-deportivas, así como mediante la expedición de la Tarjeta de Salud del deportista, y promover las investigaciones científicas y tecnológicas relacionadas con la actividad física y el deporte.
+
+l) Ejercer las competencias en materia de mediación y coordinación de las ligas profesionales con las respectivas federaciones deportivas españolas y elevar al Presidente la propuesta de resolución de los conflictos de competencias que puedan producirse entre ellas.
+
+m) La planificación, proyecto y construcción de las instalaciones deportivas propias del Consejo, la actualización y adecuación de la normativa de diseño y construcción de infraestructuras y equipamientos deportivos, así como el asesoramiento técnico en esta materia a otras Administraciones públicas, federaciones deportivas y demás entidades deportivas.
+
+n) Actualizar el Censo nacional de instalaciones deportivas, en colaboración con las Comunidades Autónomas, y programar, en colaboración con las entidades territoriales, y, en su caso, llevar a cabo los planes de construcción, ampliación y mejora de infraestructuras deportivas.
+
+ñ) Elaborar el anteproyecto del presupuesto, seguimiento y análisis de su ejecución, la gestión económica y financiera del organismo, su contabilidad y tesorería, así como la gestión y tramitación de la contratación administrativa del organismo.
+
+o) La propuesta y ejecución de la política de personal del organismo, la previsión de sus necesidades y la elaboración de las relaciones de puestos de trabajo, de los programas de acción social y de los planes de formación.
+
+p) El régimen interior, el desarrollo de la gestión patrimonial del organismo y el equipamiento, conservación, mantenimiento y seguridad de sus instalaciones.
+
+q) La organización y gestión de los servicios informáticos, así como la elaboración de estudios y propuestas de racionalización de actividades y métodos de trabajo.
+
+r) Proponer, en el marco de las competencias educativas de la Administración General del Estado, la regulación y la ordenación de las enseñanzas deportivas de régimen especial; proponer la resolución de los procedimientos de expedición de titulaciones técnico-deportivas, así como de homologación, convalidación, equivalencia profesional y correspondencia formativa de estudios de carácter deportivo; colaborar con otras entidades para fomentar la creación y el desarrollo de centros que impartan este tipo de enseñanzas, e impulsar y desarrollar las restantes acciones que correspondan al organismo en este ámbito.
+
+s) La elaboración y propuesta de resoluciones de recursos interpuestos ante el Consejo Superior de Deportes, de normativa general y de procedimientos administrativos.
+
+t) Proponer a la Comisión Directiva del organismo:
+
+1.º La aprobación de los estatutos y reglamentos de las federaciones deportivas, agrupaciones de clubes y entes de promoción deportiva de ámbito estatal, así como la autorización de su inscripción en el Registro de asociaciones deportivas y el reconocimiento de nuevas modalidades deportivas.
+
+2.º La autorización de la inscripción de las federaciones deportivas españolas en las correspondientes federaciones deportivas de carácter internacional y en el Registro de asociaciones deportivas.
+
+3.º La aprobación de los estatutos y reglamentos de las ligas profesionales, así como la autorización de su inscripción en el Registro de asociaciones deportivas.
+
+4.º La propuesta sobre la autorización de la inscripción de la sociedades anónimas deportivas en el Registro de las asociaciones deportivas.
+
+u) Instruir los expedientes sancionadores por el incumplimiento de las obligaciones establecidas en la Ley 10/1990, de 15 de octubre, del Deporte, respecto al accionariado de las sociedades anónimas deportivas, y elevar al Presidente del Consejo Superior de Deportes la correspondiente propuesta de resolución.
+
+2. La Dirección General de Deportes se estructura en las siguientes Subdirecciones Generales:
+
+a) La Subdirección General de Alta Competición, a la que corresponde la ejecución de las funciones enumeradas en el apartado 1.a), b), c), d) y l).
+
+b) La Subdirección General de Promoción Deportiva y Deporte Paralímpico, a la que corresponde la ejecución de las funciones enumeradas en el apartado 1.g), h) e i), y con respecto a las federaciones deportivas paralímpicas, las funciones atribuidas en el apartado 1.a), b), c) y d).
+
+c) La Subdirección General de Deporte y Salud, a la que corresponde la ejecución de las funciones enumeradas en el apartado 1, letras j) y k), a la que se adscribe el Centro de Medicina del Deporte y que prestará apoyo administrativo para el funcionamiento de la Comisión de Control y Seguimiento de la Salud y del Dopaje.
+
+d) La Subdirección General de Infraestructuras Deportivas y Administración Económica, a la que corresponde la ejecución de las funciones enumeradas en el apartado 1.m), n) y ñ).
+
+e) La Secretaría General, a la que corresponde la ejecución de las funciones enumeradas en el apartado 1.o), p), q) y r).
+
+f) La Subdirección General de Régimen Jurídico del Deporte, a la que le corresponde el ejercicio de las funciones enumeradas en el apartado 1.s), t) y u) y a la que se adscribe el Registro de asociaciones deportivas.
+
+3. Depende asimismo de la Dirección General de Deportes, con el nivel orgánico que se determine en la relación de puestos de trabajo, la División de Centros de Alto Rendimiento Deportivo, a la que corresponde la ejecución de las funciones enumeradas en el apartado1.e) y f) y expresamente la gestión de los centros de Madrid y de Sierra Nevada.
+
+4. Corresponde al Director General de Deportes la presidencia de la Comisión de Control y Seguimiento de la Salud y el Dopaje, órgano colegiado del Consejo Superior de Deportes.
+
+5. En atención a las características especiales de este órgano directivo, no será preciso que su titular ostente la condición de funcionario, de conformidad con lo previsto en el artículo 18.2 de la Ley 6/1997, de 14 de abril.»
+
+Tres. Se suprime el artículo 7 del Real Decreto 2195/200, de 25 de noviembre.
+
+Cuatro. El artículo 8 y el artículo 9 del Real Decreto 2195/2004, de 25 de noviembre, pasan a tener la numeración de artículo 7 y artículo 8, respectivamente.
