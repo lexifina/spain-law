@@ -1,1 +1,1 @@
-> Incluye las correcciones de errores publicadas en BOE núms. 177, de 25 de julio de 2007 Ref. BOE-A-2007-14234 y 178, de 26 de julio de 2007. Ref. BOE-A-2007-14334
+Téngase en cuenta que se suprimen los valores de las tarifas reguladas, primas y límites previstos en el presente Real Decreto para todas las instalaciones que se encuentren en su ámbito de aplicación por el art. 3.1 del Real Decreto-ley 1/2012, de 27 de enero Ref. BOE-A-2012-1310.

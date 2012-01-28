@@ -1,0 +1,3 @@
+## Disposición transitoria única. Instalaciones que hubieran obtenido autorización administrativa para una modificación sustancial con fecha anterior a la entrada en vigor del presente real decreto-ley.
+
+La derogación del apartado 4 del artículo 4 y del artículo 4.bis del Real Decreto 661/2007, de 25 de mayo, prevista en la disposición derogatoria única, no será de aplicación a aquellas instalaciones que hubieran obtenido autorización administrativa para la modificación sustancial de la misma, en los términos regulados en el citado artículo 4 del Real Decreto 661/2007, de 25 de mayo, con fecha anterior a la entrada en vigor del presente real decreto-ley.
