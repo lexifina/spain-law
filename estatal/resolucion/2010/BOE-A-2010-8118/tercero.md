@@ -4,6 +4,8 @@
 
 No surtirá efectos el otorgamiento de poder para la recepción de comunicaciones y notificaciones en tanto no conste la aceptación del apoderamiento por alguno de los medios establecidos en el párrafo anterior.
 
-2. En todo caso, el apoderamiento para la recepción de notificaciones implicará el consentimiento del poderdante a la utilización de medios electrónicos para la práctica de notificaciones por parte de la Agencia Tributaria, cuando la notificación se practique al representante, de conformidad con la normativa reguladora de las notificaciones electrónicas.
+2. En todo caso, el apoderamiento para la recepción de notificaciones implicará el consentimiento del poderdante a la utilización de medios electrónicos para la práctica de notificaciones por parte de la Agencia Tributaria, cuando la notificación se practique al representante, así como para que el apoderado pueda señalar los días en los que la Agencia Tributaria no pueda poner notificaciones a disposición del poderdante en la dirección electrónica habilitada, de conformidad con la normativa reguladora de las notificaciones electrónicas.
 
 3. Otorgado y aceptado el apoderamiento para la recepción de comunicaciones y notificaciones, éstas se realizarán al representante preferentemente de forma telemática, si bien también podrán practicarse, en su caso, en soporte papel.
+
+> Se modifica el punto 2 por el apartado 1.2 de la Resolución de 24 de enero de 2012. Ref. BOE-A-2012-1577.

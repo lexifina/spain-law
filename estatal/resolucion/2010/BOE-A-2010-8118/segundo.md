@@ -18,4 +18,6 @@ En el caso de apoderamientos otorgados por Internet, la incorporación al Regist
 
 Los apoderamientos a los que se refiere esta Resolución surtirán efecto desde la fecha de su incorporación al Registro de apoderamientos.
 
-3. En cualquier momento el apoderado podrá renunciar al apoderamiento, a través de la Sede Electrónica de la Agencia Estatal de Administración Tributaria, mediante el uso de alguno de los sistemas de identificación y autenticación referidos en este apartado segundo 1.c), de modo que la baja en el Registro se producirá de forma automatizada.
+3. En cualquier momento el apoderado podrá renunciar al apoderamiento siempre que acredite que antes de presentar a la Agencia Tributaria su renuncia se ha comunicado de manera fehaciente al representado, no produciéndose hasta entonces su baja en el Registro.
+
+> Se modifica el punto 3 por el apartado 1.1 de la Resolución de 24 de enero de 2012. Ref. BOE-A-2012-1577.
