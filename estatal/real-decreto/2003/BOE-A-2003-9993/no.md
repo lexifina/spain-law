@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 147, de 20 de junio de 2003. Ref. BOE-A-2003-12298.
+Norma derogada por la disposición derogatoria única del Real Decreto 303/2012, de 3 de febrero. Ref. BOE-A-2012-1679.
