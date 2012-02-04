@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Aplicación del régimen previsto en la Ley 26/2006, de 17 de julio, de mediación de seguros y reaseguros privados, a las entidades participantes en procesos de integración.
+
+A las entidades participantes en procesos de integración conforme a lo previsto en el artículo 2 de este real decreto-ley, les serán de aplicación las previsiones contenidas en el artículo 25, apartado 1, en relación con la puesta a disposición de la red de distribución de las entidades de crédito y la fragmentación de la misma, y en el artículo 25, apartado 4, ambos de la Ley 26/2006, de 17 de julio, de mediación de seguros y reaseguros privados, a partir del 1 de enero de 2014.
