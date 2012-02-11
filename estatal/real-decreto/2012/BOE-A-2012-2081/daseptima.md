@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Instituto de Contabilidad y Auditoría de Cuentas.
+
+El Instituto de Contabilidad y Auditoría de Cuentas solicitará informe del Ministerio de Hacienda y Administraciones Públicas en relación con las propuestas del plan general de contabilidad, las adaptaciones de dicho plan así como todas las propuestas de modificaciones legislativas o reglamentarias en relación con el perfeccionamiento y actualización permanente de la planificación contable a que se refieren los párrafos a) y c) del artículo 2 del Real Decreto 302/1989, de 17 de marzo, por el que se aprueba el Estatuto y la estructura orgánica del Instituto de Contabilidad y Auditoría de Cuentas.

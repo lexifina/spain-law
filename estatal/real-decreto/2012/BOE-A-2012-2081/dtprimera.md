@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Gestión temporal de medios y servicios por los Ministerios de Hacienda y Administraciones Públicas y de Industria, Energía y Turismo.
+
+Hasta que se produzca la integración efectiva de los créditos presupuestarios y de los medios materiales y personales adscritos a las funciones que hayan sido asignadas al Ministerio de Economía y Competitividad, el Ministerio de Hacienda y Administraciones Públicas y el Ministerio de Industria, Energía y Turismo seguirán prestando el apoyo necesario al Ministerio de Economía y Competitividad para mantener el funcionamiento ordinario de los servicios.
