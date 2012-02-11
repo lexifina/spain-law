@@ -1,0 +1,23 @@
+Mediante el Real Decreto 1823/2011, de 21 de diciembre, se ha determinado una nueva estructura de los Departamentos ministeriales, que tiene como objetivo conjugar la necesaria austeridad orgánica con la mayor eficacia en la gestión.
+
+Posteriormente, mediante el Real Decreto 1887/2011, de 30 de diciembre, se ha establecido la estructura organizativa básica de los nuevos Departamentos, hasta el nivel orgánico de dirección general.
+
+Dentro de esta nueva estructura del Gobierno, se ha procedido a la creación del Ministerio de Industria, Energía y Turismo, al que corresponde la propuesta y ejecución de la política del Gobierno en materia de energía, desarrollo industrial, turismo, telecomunicaciones y Sociedad de la Información.
+
+Procede ahora desarrollar la estructura orgánica básica del Ministerio de Industria, Energía y Turismo, determinando los órganos directivos y unidades que lo integran y fijando las funciones y competencias que corresponden a cada uno de ellos.
+
+Con carácter general, la estructura que se establece para el Ministerio busca potenciar sus capacidades de análisis y evaluación de los sectores de su competencia, con el objetivo de elaborar las regulaciones sectoriales más adecuadas desde una triple perspectiva: técnica, económica y jurídica. Dichas regulaciones han de constituirse en palanca adecuada para coadyuvar en el gran objetivo del Gobierno de asentar un crecimiento económico sólido y duradero, que permita una generación de empleo vigorosa y sostenible.
+
+A tal fin, tanto en el ámbito regulatorio como en las actuaciones de promoción que se desarrollen o coordinen desde el Ministerio, se buscará combinar una doble aproximación: por una parte, una metodología rigurosa de identificación y eliminación de las ineficiencias y obstáculos que limitan en el corto plazo la actividad económica; por otra, una actuación continuada y más enfocada al medio plazo, dirigida al fomento de la competitividad de nuestro tejido productivo, mediante un apoyo decidido a la innovación, a la incorporación de las tecnologías más avanzadas, y al empleo intensivo de los recursos de la Sociedad de la Información. De esta forma, fomentando la incorporación a nuestra industria y a nuestros servicios del conocimiento, de la información y de la innovación tecnológica, se espera contribuir significativamente en la tarea de superación de la actual crisis y en el diseño de una senda de progreso económico y social para las próximas décadas.
+
+La nueva estructura orgánica que por este real decreto se establece para el Ministerio atiende asimismo a los objetivos de dotar de la mayor agilidad y eficacia al desarrollo y coordinación de la política turística, como elemento fundamental para la mejora de nuestra imagen país, así como a de la una mayor eficacia en el desarrollo de las políticas públicas en materia de industria, energía y minas y telecomunicaciones y Sociedad de la Información, sectores que constituyen piezas clave en la mejora de nuestra competitividad.
+
+Además, se quiere que la nueva organización ministerial permita una colaboración fácil y directa con los órganos correspondientes de las Comunidades Autónomas, atendiendo a las competencias que a las mismas corresponden en estos ámbitos sectoriales. Igualmente, se ha buscado facilitar y promover una comunicación fluida con las empresas y agentes de los distintos sectores sobre los que se proyecta la acción del Departamento, con especial incidencia en la ejecución de las políticas de apoyo y promoción de las pequeñas y medianas empresas (PYME), con el fin de favorecer e impulsar su actividad empresarial y la mejora de su competitividad.
+
+Por último, el nuevo diseño organizativo está al servicio de la mejora constante en la calidad y eficiencia de los servicios del Ministerio, así como de la transparencia en su funcionamiento y la apertura permanente a las sugerencias e iniciativas de los ciudadanos.
+
+En la actividad interna del Ministerio, se promoverá la eficiencia y austeridad en el funcionamiento de los servicios, velando por obtener la mayor productividad de los recursos humanos y materiales del Departamento. En particular, a tal fin, se continuará impulsando el diseño e incorporación de herramientas y aplicaciones de administración electrónica, tanto en la gestión interna como en las relaciones con los ciudadanos y con otros Departamentos ministeriales u otras Administraciones públicas.
+
+En su virtud, a iniciativa del Ministro de industria, Energía y Turismo, a propuesta del Ministro de Hacienda y Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 10 de febrero de 2012,
+
+DISPONGO:

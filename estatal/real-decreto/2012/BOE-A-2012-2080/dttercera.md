@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Órganos colegiados de contratación.
+
+Sin perjuicio de lo establecido en la disposición transitoria primera acerca de la subsistencia de unidades y puestos de trabajo, y hasta el momento en que se aprueben las correspondientes órdenes ministeriales y se constituyan los órganos colegiados en materia de contratación del Ministerio de Industria, Energía y Turismo y del Ministerio de Economía y Competitividad, quedarán subsistentes la Junta de Contratación y la Mesa Única de Contratación del extinguido Ministerio de Industria, Turismo y Comercio, con la estructura y facultades que le atribuyen la Orden ITC/2411/2011, de 5 de septiembre.

@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 10, de 12 de enero de 2011. Ref. BOE-A-2011-620.
+Norma derogada por la disposición derogatoria única del Real Decreto 344/2012, de 10 de febrero. Ref. BOE-A-2012-2080.

@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Unidades y puestos de trabajo con nivel orgánico inferior a subdirección general.
+
+1. Las unidades y puestos de trabajo con nivel orgánico inferior a subdirección general continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se apruebe la relación de puestos de trabajo adaptada a la estructura orgánica de este real decreto. Dicha adaptación no podrá suponer incremento de gasto público.
+
+2. Las unidades y puestos de trabajo encuadrados en los órganos suprimidos en este real decreto se adscribirán provisionalmente, por resolución del Subsecretario, a los órganos regulados en este real decreto, en función de las atribuciones que estos tienen asignadas.
+
+3. En el caso de las unidades y puestos de trabajo de nivel orgánico inferior a Subdirección General adscritos a los órganos de servicios comunes de la extinguida Subsecretaría de Industria, Turismo y Comercio, la adscripción de los puestos se efectuará mediante resolución conjunta de las Subsecretarías de Industria, Energía y Turismo y de Economía y Competitividad. Hasta entonces, seguirán desempeñando, con carácter provisional, las funciones que tenían asignadas, bajo la dirección de los órganos que se creen por los reales decretos de desarrollo de la estructura orgánica básica de los Ministerios de Industria, Energía y Turismo y de Economía y Competitividad.
