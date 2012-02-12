@@ -1,0 +1,3 @@
+## Disposición transitoria duodécima. Normas transitorias sobre las aportaciones económicas de las empresas con beneficios que realicen despidos colectivos.
+
+Las empresas afectadas por la disposición adicional decimosexta de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de Seguridad Social, que hayan realizado despidos colectivos ya autorizados por la autoridad laboral antes de la entrada en vigor del presente real decreto-ley, únicamente deberán efectuar las aportaciones económicas a que se refiere dicha disposición cuando las resoluciones que hayan autorizado las extinciones afecten, al menos, a 100 trabajadores.

@@ -6,7 +6,7 @@ Las empresas de recolocación son agencias de colocación especializadas en la a
 
 2. Las personas físicas o jurídicas que deseen actuar como agencias de colocación deberán obtener autorización del servicio público de empleo que se concederá de acuerdo con los requisitos que se establezcan reglamentariamente. La autorización, que será única y tendrá validez en todo el territorio español, se concederá por el Servicio Público de Empleo Estatal en el supuesto de que la agencia pretenda realizar su actividad en diferentes Comunidades Autónomas, o por el equivalente de la Comunidad Autónoma, en el caso de que la agencia únicamente pretenda actuar en el territorio de una Comunidad.
 
-El vencimiento del plazo máximo del procedimiento de autorización sin haberse notificado resolución expresa al interesado supondrá la desestimación de la solicitud por silencio administrativo, con el objeto de garantizar una adecuada protección de los trabajadores.
+El vencimiento del plazo máximo del procedimiento de autorización sin haberse notificado resolución expresa al interesado supondrá la estimación de la solicitud por silencio administrativo.
 
 3. Reglamentariamente se regulará un sistema telemático común que permita integrar el conjunto de la información proporcionada por el Servicio Público de Empleo Estatal y por los servicios de las Comunidades Autónomas respecto a las agencias de colocación autorizadas de manera que éstos puedan conocer en todo momento las agencias que operan en su territorio.
 
@@ -29,6 +29,8 @@ f) Cumplir con las normas sobre accesibilidad universal de las personas con disc
 El convenio de colaboración a que se refiere el párrafo anterior deberá regular los mecanismos de comunicación por parte de las agencias de colocación de los incumplimientos de las obligaciones de los trabajadores y de los solicitantes y beneficiarios de prestaciones por desempleo previstas en el artículo 231.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio.
 
 Tal comunicación se realizará a los efectos de la adopción por parte de los servicios públicos de empleo de las medidas que, en su caso, procedan.
+
+> Se modifica el apartado 2 por el art. 1.4 del Real Decreto-ley 3/2012, de 10 de febrero. Ref. BOE-A-2012-2076.
 
 > Se modifica por el art. 14.2 de la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301.
 

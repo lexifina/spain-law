@@ -20,7 +20,7 @@ b) El abono se realizará mensualmente por la entidad gestora al trabajador, pre
 
 3.ª Lo previsto en las reglas 1.ª y 2.ª también será de aplicación a los beneficiarios de la prestación por desempleo de nivel contributivo, que pretendan constituirse como trabajadores autónomos y no se trate de personas con discapacidad igual o superior al 33 por 100.
 
-En el caso de la regla 1.ª, el abono de una sola vez se realizará por el importe que corresponde a la inversión necesaria para desarrollar la actividad, incluido el importe de las cargas tributarias para el inicio de la actividad, con el límite máximo del 60 por 100 del importe de la prestación por desempleo de nivel contributivo pendiente de percibir, siendo el límite máximo del 80 por cien cuando los beneficiarios sean hombres jóvenes hasta 30 años de edad o mujeres jóvenes hasta 35 años, ambos inclusive, considerándose la edad en la fecha de la solicitud.
+En el caso de la regla 1.ª, el abono de una sola vez se realizará por el importe que corresponde a la inversión necesaria para desarrollar la actividad, incluido el importe de las cargas tributarias para el inicio de la actividad, con el límite máximo del 60 por 100 del importe de la prestación por desempleo de nivel contributivo pendiente de percibir, siendo el límite máximo del 100 por cien cuando los beneficiarios sean hombres jóvenes hasta 30 años de edad o mujeres jóvenes hasta 35 años, ambos inclusive, considerándose la edad en la fecha de la solicitud.
 
 4.ª La solicitud del abono de la prestación por desempleo de nivel contributivo, según lo establecido en las reglas 1.ª, 2.ª y 3.ª, en todo caso deberá ser de fecha anterior a la fecha de incorporación a la cooperativa o sociedad laboral, o a la de constitución de la cooperativa o sociedad laboral, o a la de inicio de la actividad como trabajador autónomo, considerando que tal inicio coincide con la fecha que como tal figura en la solicitud de alta del trabajador en la Seguridad Social.
 
@@ -29,6 +29,8 @@ Si el trabajador hubiera impugnado el cese de la relación laboral origen de la 
 Los efectos económicos del abono del derecho solicitado se producirán a partir del día siguiente al de su reconocimiento, salvo cuando la fecha de inicio de la actividad sea anterior, en este caso, se estará a la fecha de inicio de esa actividad.
 
 2. El Gobierno podrá modificar, mediante Real Decreto, lo establecido en el apartado 1 anterior.
+
+> Se modifica el apartado 1.3ª por la disposición final 13 del Real Decreto-ley 3/2012, de 10 de febrero. Ref. BOE-A-2012-2076.
 
 > Se modifica, con efectos de 1 de enero de 2011, por la disposición final 20 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
 

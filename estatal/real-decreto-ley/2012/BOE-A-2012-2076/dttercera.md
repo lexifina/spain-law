@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Normas relativas a la reposición de las prestaciones por desempleo.
+
+Los trabajadores cuyo contrato de trabajo se hubiera extinguido con anterioridad a la fecha de entrada en vigor de este real decreto-ley, en los supuestos establecidos en su artículo 16, y que previamente hubieran sido afectados por expedientes de regulación temporal de suspensión de contratos o de reducción de jornada en los casos referidos en esa disposición, tendrán derecho, en su caso, a la reposición de las prestaciones por desempleo, en los términos y con los límites establecidos en la normativa vigente en el momento en que se produjo el despido o la resolución administrativa o judicial que autorizó la extinción del contrato.

@@ -1,0 +1,7 @@
+## Disposición final decimotercera. Modificación de las reglas del abono de la prestación por desempleo en su modalidad de pago único de la disposición transitoria cuarta de la Ley 45/2002, de 12 de diciembre, de medidas urgentes para la reforma del sistema de protección por desempleo y mejora de la ocupabilidad.
+
+Se modifica la regla 3.ª del apartado 1 de la disposición transitoria cuarta de la Ley 45/2002, de 12 de diciembre, de medidas urgentes para la reforma del sistema de protección por desempleo y mejora de la ocupabilidad, que queda redactada de la siguiente forma:
+
+«3.ª Lo previsto en las reglas 1.ª y 2.ª también será de aplicación a los beneficiarios de la prestación por desempleo de nivel contributivo, que pretendan constituirse como trabajadores autónomos y no se trate de personas con discapacidad igual o superior al 33 por 100.
+
+En el caso de la regla 1.ª, el abono de una sola vez se realizará por el importe que corresponde a la inversión necesaria para desarrollar la actividad, incluido el importe de las cargas tributarias para el inicio de la actividad, con el límite máximo del 60 por 100 del importe de la prestación por desempleo de nivel contributivo pendiente de percibir, siendo el límite máximo del 100 por cien cuando los beneficiarios sean hombres jóvenes hasta 30 años de edad o mujeres jóvenes hasta 35 años, ambos inclusive, considerándose la edad en la fecha de la solicitud.»
