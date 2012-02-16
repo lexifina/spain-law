@@ -11,6 +11,7 @@
 | Avileña Negra Ibérica | BAN |
 | Lidia | BLI |
 | Morucha | BMO |
+| Parda de montaña | BSM |
 | Pirenaica | BPI |
 | Retinta | BRT |
 | Rubia Gallega | BRG |
@@ -53,7 +54,6 @@
 | Frisona | HO* |
 | Limusina | LM* |
 | Parda | BS* |
-| Parda de Montaña | BSM |
 | Frisona Roja | RW* |
 
 * Codificación ICAR.
@@ -189,6 +189,7 @@
 | Burguete | EBU |
 | Caballo de Monte del País Vasco | EMP |
 | Caballo de Pura Raza Gallega | ERG |
+| Cavall Pirinenc Català | EPC |
 | Hispano-Árabe | EHA |
 | Hispano-Bretón | EHB |
 | Jaca Navarra | EJN |
@@ -217,3 +218,5 @@
 | Catalana | ECT |
 | Majorera | EMJ |
 | Zamorano-Leonés | EZL |
+
+> Se modifica por el art. 3 de la Orden AAA/251/2012, de 9 de febrero. Ref. BOE-A-2012-2254.
