@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Evaluación de resultados.
+
+Una vez finalizado el octavo año de aplicación de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y atención a las personas en situación de dependencia, de conformidad con el calendario de aplicación progresiva previsto en el apartado 1 de su disposición final primera, el Consejo Territorial del Sistema para la Autonomía Personal y Atención a la Dependencia, realizará una evaluación de los resultados obtenidos en la aplicación del baremo establecido en este real decreto y propondrá las modificaciones que, en su caso, estime procedentes.
