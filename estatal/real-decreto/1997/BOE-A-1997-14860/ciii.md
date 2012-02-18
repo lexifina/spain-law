@@ -1,3 +1,5 @@
 ## CAPÍTULO III
 
 ## Fondo de Regulación y Organización del Mercado de los Productos de la Pesca y Cultivos Marinos
+
+> Se deroga por la disposición derogatoria única del Real Decreto 401/2012, de 17 de febrero. Ref. BOE-A-2012-2397.

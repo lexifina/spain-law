@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a este real decreto. En particular, queda derogado el Real Decreto 1443/2010, de 5 de noviembre, por el que se desarrolla la estructura orgánica básica del Ministerio de Medio Ambiente, y Medio Rural y Marino; el Real Decreto 1005/2010, de 5 de agosto, por el que se aprueba el Estatuto del Organismo Autónomo Parque de Maquinaria y el Capítulo III del Real Decreto 950/1997, de 20 de junio, por el que se establece la estructura orgánica básica de diferentes organismos autónomos del Ministerio de Agricultura, Pesca y Alimentación.
