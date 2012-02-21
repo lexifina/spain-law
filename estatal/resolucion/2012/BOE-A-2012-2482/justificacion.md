@@ -1,0 +1,7 @@
+JUSTIFICACIÓN
+
+El Real Decreto 1026/2011 de 15 de julio que aprueba el Reglamento del Mutualismo Judicial, regula por primera vez la asistencia sanitaria fuera de territorio nacional, definiendo en el artículo 73 los principios básicos de la prestación: La utilización de servicios sanitarios en el extranjero por mutualista con derecho a ellos se presta en condiciones de equivalencia con la asistencia sanitaria dentro del territorio nacional, y dará derecho a la cobertura de los gastos ocasionados con motivo de dicha asistencia, en los términos, condiciones y formas de gestión que se establezcan por la Mutualidad General Judicial.
+
+Los artículos 74 y 75 distinguen los supuestos para los que la Mutualidad General Judicial debe establecer los términos, condiciones y formas de la prestación sanitaria en el extranjero: La asistencia sanitaria a los mutualistas destinados en el extranjero que puede extenderse a otros casos de mutualistas y beneficiarios con residencia en el extranjero y la asistencia de mutualistas y beneficiarios que se desplacen al extranjero por cualquier causa.
+
+La presente circular se dicta en desarrollo el Reglamento del Mutualismo Judicial con objeto de regular las situaciones y los términos de la asistencia sanitaria fuera del territorio nacional, teniendo en consideración la experiencia práctica que la Mutualidad General Judicial tiene en la gestión de esta prestación.

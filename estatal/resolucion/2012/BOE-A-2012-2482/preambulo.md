@@ -1,0 +1,5 @@
+La Mutualidad General Judicial (MUGEJU), como entidad que tiene a su cargo la gestión del Régimen Especial de la Seguridad Social del personal de la Administración de Justicia, presta a sus mutualistas y beneficiarios la asistencia sanitaria, conforme a lo establecido en el Real Decreto Legislativo 3/2000, de 23 de junio, por el que se aprueba el texto refundido de las Disposiciones Legales vigentes sobre el Régimen Especial de la Seguridad Social del personal al Servicio de la Administración de Justicia. La Mutualidad de Funcionarios del Estado (MUFACE) y el Instituto Social de las Fuerzas Armadas (ISFAS) tienen el mismo cometido con sus mutualistas.
+
+Resulta en consecuencia, imprescindible la publicación de aquellas circulares que atañen al régimen de concesión de prestaciones y que no han sido publicadas anteriormente, para general conocimiento de los beneficiarios del Régimen Especial de Seguridad Social gestionado por la Mutualidad General Judicial.
+
+Por todo lo expuesto anteriormente, esta Gerencia resuelve la publicación en el «Boletín Oficial del Estado» de la siguiente circular: Circular n.º 80.
