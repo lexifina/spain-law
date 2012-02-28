@@ -118,8 +118,8 @@
 | 47086 | Medina del Campo | Valladolid. |
 | 47601 | Valladolid-capital | Valladolid. |
 | 49023 | Benavente | Zamora. |
-| Delegación Especial de Cataluña |  |
-| --- | --- |
+| Delegación Especial de Cataluña |
+| --- |
 | Código | Administración de la Agencia | Delegación |
 | 08006 | Arenys de Mar | Barcelona. |
 | 08015 | Badalona | Barcelona. |
@@ -140,8 +140,7 @@
 | 08308 | Vilanova i la Geltrú | Barcelona. |
 | 08602 | Colom | Barcelona. |
 | 08603 | Sants-Les Corts | Barcelona. |
-| 08604 | Pedralbes-Sarrià | Barcelona. |
-| 08605 | Gràcia | Barcelona. |
+| 08605 | Via Augusta | Barcelona. |
 | 08606 | Horta | Barcelona. |
 | 08607 | Sant Andreu | Barcelona. |
 | 08608 | Poble Nou | Barcelona. |
@@ -249,6 +248,8 @@
 | 46601 | Valencia-Grao | Valencia. |
 | 46602 | Valencia-Norte | Valencia. |
 | 46603 | Valencia-Guillem de Castro | Valencia. |
+
+> Se modifica, en la parte referida a las Administraciones de la Delegación Especial de Cataluña, por la disposición final 1 de la Resolución de 10 de febrero de 2012. Ref. BOE-A-2012-2253.
 
 > Se modifica, en la parte referida a las Administraciones de la Delegación Especial de Madrid, por el apartado 1 de la Resolución de 2 de noviembre de 2010. Ref. BOE-A-2010-17393.
 
