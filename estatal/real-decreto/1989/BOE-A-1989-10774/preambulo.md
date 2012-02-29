@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 121, de 22 de mayo de 1989. Ref. BOE-A-1989-11548.
+Norma derogada por la disposición derogatoria única del Real Decreto 1889/2011, de 30 de diciembre. Ref. BOE-A-2011-20652#ddunica.
