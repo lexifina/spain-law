@@ -1,1 +1,5 @@
-## VII. PERSONAL AL SERVICIO DEL DEFENSOR DEL PUEBLO
+## VII. PRESENTACIÓN, INSTRUCCIÓN E INVESTIGACIÓN DE LAS QUEJAS
+
+> Se modifica y se renumera por el art. único. 9 de la Resolución de 25 de enero de 2012. Ref. BOE-A-2012-2881.
+
+> Su anterior numeración era capítulo VI.

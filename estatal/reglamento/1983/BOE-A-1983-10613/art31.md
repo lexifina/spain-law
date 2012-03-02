@@ -1,7 +1,15 @@
 ## Artículo 31.
 
-1. El régimen de prestación de servicios será el de dedicación exclusiva para todo el personal.
+1. El personal al servicio del Defensor del Pueblo tendrá la consideración de personal al servicio de las Cortes, sin perjuicio de la dependencia orgánica y funcional del Defensor del Pueblo.
 
-2. La condición de asesor del Defensor del Pueblo será, además, incompatible con todo mandato representativo, con todo cargo político o el ejercicio de funciones directivas en un partido político, sindicato, asociación o fundación y con el empleo al servicio de los mismos; así como con el ejercicio de cualquier otra actividad profesional, liberal, mercantil o laboral. No obstante, previo el correspondiente reconocimiento de compatibilidad concedido de acuerdo con lo previsto en el Estatuto del Personal de la Institución, los asesores del Defensor del Pueblo podrán ser contratados para desarrollar funciones docentes o de investigación en Universidades o en otras instituciones académicas que posean naturaleza y fines análogos. En todo caso, tales actividades se desempeñarán en régimen de dedicación a tiempo parcial y sin que puedan menoscabar la prestación del servicio en el Defensor del Pueblo. Quienes deseen obtener el reconocimiento de la compatibilidad deberán presentar una solicitud, a la que acompañarán todos los datos necesarios para que pueda efectuarse el pronunciamiento. El Defensor del Pueblo, oída la Junta de Coordinación y Régimen Interior, previo informe del Secretario general, resolverá lo que proceda.
+2. Cuando se incorpore al servicio del Defensor del Pueblo personal procedente de otras Administraciones públicas quedará en la situación prevista en el artículo 35, 2, de la Ley Orgánica.
+
+3. La selección del personal al servicio del Defensor del Pueblo se realizará por éste libremente, con arreglo a los principios de mérito y capacidad. En estos nombramientos se procurará dar prioridad a funcionarios públicos.
+
+4. El resto del personal que no reúna las condiciones de funcionario de carrera de las Administraciones públicas tendrá el carácter de funcionario eventual al servicio del Defensor del Pueblo.
+
+> Se modifica y se renumera por el art. único. 10 de la Resolución de 25 de enero de 2012. Ref. BOE-A-2012-2881.
+
+> Su anterior numeración era art. 27.
 
 > Se modifica el apartado 2 por el art. único de la Resolución de 3 de octubre de 2000. Ref. BOE-A-2000-19545.

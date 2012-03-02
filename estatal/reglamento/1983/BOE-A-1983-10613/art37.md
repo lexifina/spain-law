@@ -1,5 +1,13 @@
 ## Artículo 37.
 
-Las competencias en materia de ordenación de pagos corresponderán a la Junta de Coordinación y Régimen Interior, al Defensor del Pueblo y al Secretario general en función de la cuantía y en la forma que determine la citada Junta, a propuesta del Defensor del Pueblo.
+1. Las sanciones se impondrán y graduarán de acuerdo con la mayor o menor gravedad de la falta, y serán las siguientes:
 
-La ordenación del Pago corresponde al Defensor del Pueblo.
+a) Por faltas leves, las de apercibimiento y suspensión de uno a diez días de empleo y remuneración.
+
+b) Por faltas graves, suspensión de empleo y remuneración de hasta seis meses de duración.
+
+c) Por faltas muy graves, suspensión de empleo y remuneración o separación del servicio de seis meses a seis años.
+
+> Se modifica y se renumera por el art. único. 11 de la Resolución de 25 de enero de 2012. Ref. BOE-A-2012-2881.
+
+> Su anterior numeración era art. 33.

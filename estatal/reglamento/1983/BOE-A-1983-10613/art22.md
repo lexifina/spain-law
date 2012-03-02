@@ -1,13 +1,17 @@
 ## Artículo 22.
 
-1. Dependiendo del Servicio de Régimen Interior, Estudio, Documentación y Publicaciones, existirá un Registro General y una Oficina de Información.
+Serán funciones del Consejo Asesor del Mecanismo Nacional de Prevención las siguientes:
 
-Todos los escritos dirigidos al Defensor del Pueblo se recibirán a través de la Oficina de Registro, en donde se examinarán y clasificarán.
+a) Realizar propuestas sobre visitas a lugares donde se hallen personas privadas de libertad.
 
-El Secretario general, en cuanto responsable del Registro, informará al Adjunto Primero y, en su defecto, al Segundo, del número y naturaleza de los escritos dirigidos a la Oficina del Defensor del Pueblo, a los efectos que proceda.
+b) Realizar propuestas para la mejora de los protocolos de visita y para el seguimiento de las mismas.
 
-2. Bajo la directa responsabilidad del Secretario general, se constituirá la Sección de Archivo. Se adoptarán las medidas oportunas en orden a la protección y custodia de documentos reservados o secretos, de acuerdo con lo dispuesto por el artículo 22 de la Ley Orgánica y el artículo 26 de este Reglamento.
+c) Evacuar los informes que el Defensor del Pueblo le solicite sobre la normativa de relevancia para la situación de las personas privadas de libertad.
 
-3. La Oficina de Información, a cuyo frente se encontrará un Asesor, informará a cuantas personas lo soliciten en relación con las competencias del Defensor del Pueblo, y orientará sobre la firma y medio de interponer una queja ante el mismo.
+d) Proponer programas de formación y cursos de especialización en materia de prevención de la tortura y de los tratos o penas crueles, inhumanos o degradantes.
 
-La biblioteca, en la que se incluyen los medios de reproducción de documentos, dependerá también de este Servicio.
+e) Realizar el seguimiento de los informes que se elaboren por el Mecanismo Nacional de Prevención y por el Subcomité para la Prevención de la Tortura.
+
+f) Aquellos otros asuntos que se sometan a su consideración.
+
+> Se modifica por el art. único.6 de la Resolución de 25 de enero de 2012. Ref. BOE-A-2012-2881.

@@ -1,9 +1,9 @@
 ## Artículo 27.
 
-1. El personal al servicio del Defensor del Pueblo tendrá la consideración de personal al servicio de las Cortes, sin perjuicio de la dependencia orgánica y funcional del Defensor del Pueblo.
+1. En el ejercicio de las competencias propias del Defensor del Pueblo y los Adjuntos, así como en la tramitación e investigación de las quejas, se estará a lo dispuesto en la Ley Orgánica y en el presente Reglamento.
 
-2. Cuando se incorpore al servicio del Defensor del Pueblo personal procedente de otras Administraciones públicas quedará en la situación prevista en el artículo 35, 2, de la Ley Orgánica.
+2. La presentación de una queja ante el Defensor del Pueblo, así como su posterior admisión, si procediere, no suspenderá en ningún caso los plazos previstos en las Leyes para recurrir, tanto en vía administrativa como jurisdiccional, ni la ejecución de la resolución o acto afectado.
 
-3. La selección del personal al servicio del Defensor del Pueblo se realizará por éste libremente, con arreglo a los principios de mérito y capacidad. En estos nombramientos se procurará dar prioridad a funcionarios públicos.
+> Se modifica y se renumera por el art. único. 9 de la Resolución de 25 de enero de 2012. Ref. BOE-A-2012-2881.
 
-4. El resto del personal que no reúna las condiciones de funcionario de carrera de las Administraciones públicas tendrá el carácter de funcionario eventual al servicio del Defensor del Pueblo.
+> Su anterior numeración era art. 23

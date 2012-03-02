@@ -1,9 +1,9 @@
 ## Artículo 33.
 
-1. Las sanciones se impondrán y graduarán de acuerdo con la mayor o menor gravedad de la falta, y serán las siguientes:
+1. Los Asesores prestarán al Defensor del Pueblo y a los Adjuntos la cooperación técnico-jurídica necesaria para el cumplimiento de sus funciones.
 
-a) Por faltas leves, las de apercibimiento y suspensión de uno a diez días de empleo y remuneración.
+2. Serán nombrados y cesados libremente por el Defensor del Pueblo, de acuerdo con lo dispuesto en el presente Reglamento, y, en todo caso, cesarán al cumplirse las previsiones del artículo 36 de la Ley Orgánica.
 
-b) Por faltas graves, suspensión de empleo y remuneración de hasta seis meses de duración.
+> Se modifica y se renumera por el art. único. 10 de la Resolución de 25 de enero de 2012. Ref. BOE-A-2012-2881.
 
-c) Por faltas muy graves, suspensión de empleo y remuneración o separación del servicio de seis meses a seis años.
+> Su anterior numeración era art. 29.
