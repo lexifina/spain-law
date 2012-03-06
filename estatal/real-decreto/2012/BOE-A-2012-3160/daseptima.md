@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Excepción en los nombramientos de los Directores Generales.
+
+En el Ministerio de Fomento únicamente está excluido de la regla general de nombramiento prevista en el artículo 18.2 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, el titular de la Dirección General de Arquitectura, Vivienda y Suelo.
