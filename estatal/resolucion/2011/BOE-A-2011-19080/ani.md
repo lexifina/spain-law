@@ -2,8 +2,6 @@
 
 ## Trámites mediante documentos electrónicos normalizados
 
-Los trámites mediante documentos electrónicos normalizados referidos en la relación adjunta (*), los modelos, plantillas y programas informáticos a utilizar, estarán debidamente detallados y puestos a disposición de las entidades dadas de alta en el apartado correspondiente de la sede electrónica de la CNMV.
-
 | Código | Descripción |
 | --- | --- |
 | ADA | Certificaciones complementarias de admisiones. |
@@ -27,6 +25,7 @@ Los trámites mediante documentos electrónicos normalizados referidos en la rel
 | FOI | Folletos de IIC. |
 | FTA | Informes de Fondos de Titulización. |
 | HSR | Hecho Significativo o Relevante. |
+| IEE | Informe de experto EAFI personas físicas. |
 | IGC | Informe anual de Gobierno Corporativo. |
 | IPA | Informe de auditores sobre la protección de activos de las ESI y entidades financieras. |
 | IPE | Informes Periódicos de IIC. |
@@ -43,9 +42,10 @@ Los trámites mediante documentos electrónicos normalizados referidos en la rel
 | RPE | Representantes de Empresas de Servicios de Inversión. |
 | SCM | Solicitud de excepción a notificar Participaciones Significativas aplicable a los creadores del mercado. |
 | SLT | Solicitud de autorización a Liquidación de Tasas por vía telemática. |
+| TAR | Folleto informativo de Tarifas. |
 | TAS | Liquidación de Tasas por vía telemática. |
 | TIT | Información de Gestoras de Titulización. |
 | UME | Información estadística para Unión Monetaria Europea. |
 | ZZZ | Envío de un documento con formato libre. |
 
-(*) Relación de trámites a fecha de aprobación de la presente Resolución.
+> Se modifica por el apartado 1 de la Resolución de 28 de febrero de 2012. Ref. BOE-A-2012-3170.
