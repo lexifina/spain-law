@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 301, de 11 de diciembre de 2010.Ref. BOE-A-2010-19105.
+Norma derogada por la disposición derogatoria única.1 del Real Decreto 454/2012, de 5 de marzo. Ref. BOE-A-2012-3162.
