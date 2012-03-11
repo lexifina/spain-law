@@ -6,6 +6,8 @@
 | --- | --- |
 | Ministerio de Economía y Hacienda |  |
 | Instituto de Crédito Oficial (ICO) (1) | 23.000.000,00 |
+| Ministerio de Economía y Competividad |  |
+| Financiación de los Pagos a Proveedores | 35.000.000,00 |
 | Ministerio de Fomento |  |
 | Aeropuertos Españoles y Navegación Aérea (AENA) (2) | 529.334,00 |
 | Puertos del Estado y Autoridades Portuarias (2) | 313.076,00 |
@@ -34,3 +36,5 @@
 (5) Estas operaciones de crédito tienen por objeto cubrir los déficits de tesorería que se produzcan por desfase entre los pagos que realice el Organismo en actuaciones cofinanciadas con Fondos Europeos y los retornos comunitarios correspondientes a dichos pagos. Por ello, con carácter previo a su concertación y a fin de verificar el destino de dicho endeudamiento, el Organismo afectado deberá solicitar autorización al Secretario de Estado de Hacienda y Presupuestos, aportando, a tal fin, un plan económico-financiero justificativo de la operación.
 
 (6) Esta cifra se entenderá como incremento neto máximo de las deudas a largo plazo con entidades financieras, proveedores y por emisiones de valores de renta fija entre el 1 de enero y el 31 de diciembre de 2011.
+
+> Se modifica por la disposición final 1 del Real Decreto-ley 7/2012, de 9 de marzo. Ref. BOE-A-2012-3395.
