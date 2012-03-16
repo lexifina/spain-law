@@ -2,60 +2,52 @@
 
 ## Prescripciones aplicables al equipo de a bordo
 
-I. Sistemas de identificación automática (SIA).
+I. Buques pesqueros.
 
-1. Buques construidos después del 1 de julio de 2002.
+Los buques pesqueros de eslora total superior a 15 metros estarán equipados de un sistema de identificación automática (SIA) según lo dispuesto en el artículo 6 bis, con arreglo al siguiente calendario:
 
-Los buques de pasaje, independientemente de su tamaño, y todos los buques de un arqueo bruto igual o superior a 300 toneladas construidos a partir del 1 de julio de 2002 que hagan escala en un puerto español estarán obligados a cumplir el requisito de emplazamiento a bordo mencionado en el artículo 6.
+– Buques pesqueros de eslora total, igual o superior a 24 metros e inferior a 45 metros: no más tarde del 31 de mayo de 2012.
 
-2. Buques construidos antes del 1 de julio de 2002.
+– Buques pesqueros de eslora total igual o superior a 18 metros e inferior a 24 metros: no más tarde del 31 de mayo de 2013.
 
-Los buques de pasaje, con independencia de su tamaño, están obligados a cumplir el requisito de emplazamiento a bordo mencionado en el artículo 6.
+– Buques pesqueros de eslora total superior a 15 metros e inferior a 18 metros no más tarde del 31 de mayo de 2014.
 
-Los restantes buques, siempre que tengan un arqueo bruto igual o superior a 300 toneladas, estén construidos antes del 1 de julio de 2002 y hagan escala en un puerto español, lo estarán de acuerdo con el calendario siguiente:
+– Los buques pesqueros de nueva construcción y eslora superior a 15 metros se atendrán a lo dispuesto en el artículo 6 bis a partir del 30 de noviembre de 2010.
 
-a) Buques tanque: a más tardar con ocasión de la primera revisión del material de seguridad efectuada después del 1 de julio de 2003.
+II. Buques que realizan travesías internacionales.
 
-b) Buques distintos de los de pasaje y buques tanque, de un arqueo bruto igual o superior a 50.000 toneladas: a más tardar el 1 de julio de 2004.
+Los buques de pasaje, cualquiera que sea su tamaño, así como todos los buques que no sean de pasaje de arqueo bruto igual o superior a 300 toneladas, que realicen travesías internacionales y hagan escala en un puerto español, llevarán instalado un sistema de identificación automática (SIA) de conformidad con las normas técnicas y de rendimiento establecidas en el capítulo V del Convenio SOLAS. Los buques de pasaje, cualquiera que sea su tamaño, así como todos los buques que no sean de pasaje de arqueo bruto igual o superior a 3.000 toneladas, que realicen travesías internacionales y hagan escala en un puerto español, llevarán instalado un registrador de datos de la travesía (RDT) de conformidad con las normas técnicas y de rendimiento establecidas en el capítulo V del Convenio SOLAS. En los buques de carga construidos antes del 1 de julio de 2002, el RDT podrá ser un registrador de datos de la travesía simplificado (RDT-S) que cumpla las normas técnicas y de rendimiento elaboradas con arreglo al capítulo V del Convenio SOLAS.
 
-c) Buques distintos de los de pasaje y buques tanque de un arqueo bruto igual o superior a 10.000 toneladas, pero inferior a 50.000: a más tardar el 1 de julio de 2005, o, en lo que respecta a los buques utilizados en travesías internacionales, en cualquier otra fecha anterior acordada por la OMI.
+III. Buques que realizan travesías no internacionales.
 
-d) Buques distintos de los de pasaje y buques tanque, de un arqueo bruto igual o superior a 3.000 toneladas, pero inferior a 10.000: a más tardar el 1 de julio de 2006, o, en lo que respecta a los buques utilizados en travesías internacionales, en cualquier otra fecha anterior acordada por la OMI.
+1. Sistemas de identificación automática (SIA).
 
-e) Buques distintos de los de pasaje y buques tanque, de un arqueo bruto igual o superior a 300 toneladas, pero inferior a 3.000: a más tardar el 1 de julio de 2007, o, en lo que respecta a los buques utilizados en travesías internacionales, en cualquier otra fecha anterior acordada por la OMI.
+Los buques de pasaje, cualquiera que sea su tamaño, así como todos los demás buques de arqueo bruto igual o superior a 300 toneladas, que realicen travesías no internacionales, llevarán instalado un sistema de identificación automática (SIA) que cumpla las normas técnicas y de rendimiento establecidas en el capítulo V del Convenio SOLAS.
 
-La Administración marítima podrá eximir a los buques de pasaje de un arqueo bruto inferior a 300 toneladas utilizados para la navegación entre puertos españoles de la aplicación de los requisitos relativos a AIS establecidos en este anexo.
+2. Sistemas de registro de datos de la travesía (RDT).
 
-3. Buques pesqueros.
+a) Los buques de pasaje, cualquiera que sea su tamaño, así como todos los buques que no sean de pasaje de arqueo bruto igual o superior a 3.000 toneladas construidos a partir del 1 de julio de 2002 que realicen travesías no internacionales, llevarán instalado un registrador de datos de la travesía (RDT) que cumpla las normas técnicas y de rendimiento elaboradas de conformidad con el capítulo V del Convenio SOLAS.
 
-Los buques pesqueros de eslora total superior a 15 metros habrán de llevar el equipo previsto en el artículo 6 bis de acuerdo con el siguiente calendario:
+b) Los buques de carga de arqueo bruto igual o superior a 3.000 toneladas construidos antes del 1 de julio de 2002 que realicen travesías no internacionales llevarán instalado un registrador de datos de la travesía (RDT) o un registrador de datos de la travesía simplificado (RDT-S) que cumpla las normas técnicas y de rendimiento elaboradas de conformidad con el capítulo V del Convenio SOLAS.
 
-Buques pesqueros de eslora total igual o superior a 24 metros e inferior a 45 metros, a más tardar el 31 de mayo de 2012,
+IV. Exenciones.
 
-buques pesqueros de eslora total igual o superior a 18 metros e inferior a 24 metros, a más tardar el 31 de mayo de 2013,
+1. Exenciones de la obligación de llevar un SIA a bordo.
 
-buques pesqueros de eslora total igual o superior a 15 metros e inferior a 18 metros, a más tardar el 31 de mayo de 2014.
+a) La Dirección General de la Marina Mercante, siempre que no se pongan en riesgo la seguridad marítima ni la integridad del medio marino, podrá eximir de la aplicación de las prescripciones relativas al SIA que figuran en el presente anexo a los buques de pasaje de menos de 15 metros de eslora o arqueo bruto inferior a 300 toneladas dedicados a travesías no internacionales.
 
-Los buques pesqueros de nueva construcción con una eslora superior a 15 metros estarán sometidos al requisito de llevar el equipo previsto en el artículo 6 bis a partir del 30 de noviembre de 2010.
+b) La Dirección General de la Marina Mercante, siempre que no se pongan en riesgo la seguridad marítima ni la integridad del medio marino, podrá eximir de la obligación de llevar instalado un SIA establecida en el presente anexo a los buques distintos de los de pasaje, de arqueo bruto igual o superior a 300 toneladas pero inferior a 500 toneladas que naveguen exclusivamente por aguas marítimas interiores españolas fuera de las rutas normalmente utilizadas por otros buques provistos de SIA.
 
-II. Sistema de registro de los datos de la travesía (RDT).
+2. Exenciones de la obligación de llevar a bordo un registrador de los datos de la travesía (RDT) o un registrador de datos de la travesía simplificado (RDT-S).
 
-1. Los buques de las categorías a), b) y c) siguientes que hagan escala en un puerto español deberán ir equipados con un sistema de registro de los datos de la travesía que cumpla las normas de funcionamiento previstas en la Resolución A.861(20) de la OMI y las normas de ensayo definidas en la norma n.º 61996 de la Comisión Electrotécnica Internacional (CEI):
+La Dirección General de la Marina Mercante, siempre que no se pongan en riesgo la seguridad marítima ni la integridad del medio marino, podrá conceder exenciones a la obligación de llevar instalado un RDT o un RDT-S, en los supuestos que se indican a continuación:
 
-a) Buques de pasaje construidos a partir del 1 de julio de 2002: a más tardar el 5 de agosto de 2002.
+a) Los buques de pasaje que únicamente realicen travesías por zonas marítimas no incluidas en la clase A mencionada en el artículo 4 del Real Decreto 1247/1999, de 16 de julio, sobre reglas y normas de seguridad aplicables a los buques de pasaje que realicen travesías entre puertos españoles podrán ser eximidos de la obligación de llevar instalado un RDT.
 
-b) Buques de pasaje distintos de transbordadores de pasaje de carga rodada, construidos antes del 1 de julio de 2002: a más tardar el 1 de enero de 2004.
+b) Los buques que no sean buques de pasaje de transbordo rodado y hayan sido construidos antes del 1 de julio de 2002 podrán ser eximidos de la obligación de llevar instalado un RDT siempre que se demuestre que la interfaz de un RDT con los aparatos existentes del buque no es razonable ni factible.
 
-c) Buques, que no sean de pasaje, de arqueo bruto igual o superior a 3.000 toneladas construidos a partir del 1 de julio de 2002: a más tardar el 5 de agosto de 2002.
+c) Los buques de carga construidos antes del 1 de julio de 2002 que realicen travesías tanto internacionales como no internacionales, podrán ser eximidos de la obligación de llevar instalado un RDT-S en caso en que vayan a ser retirados permanentemente del servicio durante los dos años siguientes a la fecha de aplicación especificada en el capítulo V del Convenio SOLAS.
 
-2. Los transbordadores de carga rodada construidos antes del 1 de julio de 2002 deberán ir equipados con el mencionado sistema, a más tardar, con motivo de la primera revisión efectuada a partir del 1 de julio de 2002.
-
-3. Los buques de las categorías a) y b) siguientes construidos antes del 1 de julio de 2002 deberán, siempre que hagan escala en un puerto español, estar equipados con un sistema de registro de los datos de la travesía que cumpla las normas pertinentes de la OMI:
-
-a) Los buques de carga de un arqueo bruto igual o superior a 20.000 toneladas: a más tardar en la fecha fijada por la OMI, o, a falta de una decisión de la OMI, a más tardar el 1 de enero de 2007.
-
-b) Los buques de carga de un arqueo bruto igual o superior a 3.000 toneladas, pero inferior a 20.000 toneladas, a más tardar en la fecha fijada por la OMI, o, a falta de una decisión de la OMI, a más tardar el 1 de enero de 2008.
-
-4. La Administración marítima podrá eximir a los buques de pasaje utilizados en navegaciones entre puertos españoles en zonas marítimas B, C y D según la clasificación del artículo 4 del Real Decreto 1247/1999, de 16 de julio, sobre reglas y normas de seguridad aplicables a los buques de pasaje que realicen travesías entre puertos españoles, de los requisitos relativos al registro de los datos de la travesía exigida en este real decreto.
+> Se modifica por el art. único.5 y anexo I del Real Decreto 201/2012, de 23 de enero. Ref. BOE-A-2012-1678.
 
 > Se añade el apartado 3 al punto I por el art. único.24 del Real Decreto 1593/2010, de 26 de noviembre. Ref. BOE-A-2010-18370.
