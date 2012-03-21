@@ -1,78 +1,182 @@
 ## ANEXO I
 
-## Modelo de informe de inspección técnica en carretera que incluye una lista de los puntos objeto de control
+1. Introducción.
 
-1. Lugar de la inspección .....................................................................................................................
+El presente anexo establece el modelo de informe de inspección técnica en carretera, así como las normas para comprobar o controlar los puntos que figuran en su numeral 10.
 
-2. Fecha ......................................................................................................................................
+Los epígrafes 1) dispositivo de frenado y 8) emisiones contaminantes del apartado 10 del informe de inspección se controlarán conforme a los métodos indicados en la segunda columna de la tabla del anexo II. Se considerarán defectos aquellos que se indican en la tercera columna, y dichos defectos se calificarán de acuerdo con lo indicado en las columnas cuarta, quinta y sexta.
 
-3. Hora .......................................................................................................................................
+Tanto para la inspección de los epígrafes 1) y 8), anteriormente indicados, como para los epígrafes 2), 3), 4), 5), 6) y 7) se creará una sección específica de Inspecciones en Carretera en el Manual de Procedimiento de Inspección de las Estaciones ITV, elaborado por el Ministerio de Industria, Energía y Turismo según lo dispuesto en el artículo 12 del Real Decreto 2042/1994, de 14 de octubre, por el que se regula la inspección técnica de vehículos.
 
-4. Signo distintivo del país y número de matriculación del vehículo ...........................................................................
+2. Requisitos de Inspección.
 
-5. Signo distintivo del país y número de matriculación del remolque o semirremolque ...........................................................
+En tanto no se publique la sección de Inspecciones en Carretera del Manual indicado en el apartado anterior, en cada uno de los puntos de control de los epígrafes 2), 3), 4), 5), 6) y 7) que aparecen en el reverso del modelo de informe de inspección, se utilizarán los métodos de inspección e interpretación de defectos de los apartados del Manual que figuran en el siguiente cuadro:
 
-6. Categoría del vehículo .....................................................................................................................
+| Puntos de control | Apartados de la sección I del manual de procedimiento de Inspección de las Estaciones ITV |
+| --- | --- |
+| 2.1 | 7.1, 7.2, 7.3, 7.4, 7.5 |
+| 2.1.1 | 7.1, 7.2, 7.3, 7.4, 7.5 |
+| 2.1.2 | 7.3 |
+| 2.1.3 | 7.4 |
+| 2.1.4 | 7.1, 7.2, 7.3, 7.4, 7.5 |
+| 2.1.5 | 7.5 |
+| 2.2 | 7.2 |
+| 2.2.1 | 7.2 |
+| 2.2.2 | 7.2 |
+| 2.3 | 7.1, 7.2, 7.3, 7.4, 7.5 |
+| 2.4 | 7.1 |
+| 2.5 | 2.3 |
+| 3.1 | 3.6 |
+| 3.2 | 2.12 |
+| 3.3 | 2.9 |
+| 3.4 | 2.5 |
+| 3.5 | 2.5 |
+| 3.6 | 3.4 |
+| 4.1 | 4.1 |
+| 4.1.1 | 4.1 |
+| 4.1.2 | 4.1 |
+| 4.1.3 | 4.1 |
+| 4.1.4 | 4.1 |
+| 4.1.5 | 4.1 |
+| 4.1.6 | 4.1 |
+| 4.2 | 4.7, 4.9 |
+| 4.2.1 | 4.7, 4.9 |
+| 4.2.2 | 4.7, 4.9 |
+| 4.2.3 | 4.7, 4.9 |
+| 4.3 | 4.5 |
+| 4.3.1 | 4.5 |
+| 4.3.2 | 4.5 |
+| 4.4 | 4.3, 4.4 |
+| 4.4.1 | 4.3, 4.4 |
+| 4.4.2 | 4.3, 4.4 |
+| 4.4.3 | 4.3, 4.4 |
+| 4.4.4 | 4.3, 4.4 |
+| 4.5 | 4.8 |
+| 4.5.1 | 4.8 |
+| 4.5.2 | 4.8 |
+| 4.5.3 | 4.5 |
+| 4.5.4 | 4.8 |
+| 4.6. | 4.2 |
+| 4.6.1 | 4.2 |
+| 4.6.2 | 4.2 |
+| 4.6.3 | 4.2 |
+| 4.7 | 4.6 |
+| 4.7.1 | 4.6 |
+| 4.7.2 | 4.6 |
+| 4.8 | 4.10 |
+| 4.8.1 | 4.10 |
+| 4.8.2 | 4.10 |
+| 4.9 | 4.1, 4.3, 4.4, 4.7, 4.8 |
+| 4.9.1 | 4.1, 4.3, 4.4, 4.7, 4.8 |
+| 4.9.2 | 4.1, 4.3, 4.4, 4.7, 4.8 |
+| 4.10 | 2.3 |
+| 4.11 | 2.2 |
+| 4.12 | – |
+| 4.13 | 9.1 |
+| 5.1 | 8.1 |
+| 5.1.1 | 8.1 |
+| 5.1.2 | 8.1 |
+| 5.1.3 | 8.1 |
+| 5.2 | 8.2, 8.3 |
+| 5.2.1 | 8.2 |
+| 5.2.2 | 8.2 |
+| 5.2.3 | 8.2 |
+| 5.3 | 8.4 |
+| 5.3.1 | 8.4 |
+| 5.3.2 | 8.4 |
+| 5.3.3 | 8.4 |
+| 5.3.4 | 8.4 |
+| 5.3.5 | 8.4 |
+| 6.1 | 2.2 |
+| 6.1.1 | 2.2 |
+| 6.1.2 | 9.3 |
+| 6.1.3 | 9.5, 9.2 |
+| 6.1.4 | 2.1, 2.6, 2.7 |
+| 6.1.5 | 2.11 |
+| 6.1.6 | 2.3 |
+| 6.1.7 | 9.4 |
+| 6.1.8 | 9.1 |
+| 6.1.9 | 9.1 |
+| 6.2 | 2.2 |
+| 6.2.1 | 2.2 |
+| 6.2.2 | 2.2 |
+| 6.2.3 | 2.8 |
+| 6.2.4 | 2.2 |
+| 6.2.5 | 3.1 |
+| 6.2.6 | 3.1 |
+| 6.2.7 | – |
+| 6.2.8 | 2.8 |
+| 6.2.9 | 3.9, 2.2 |
+| 6.2.10 | 2.4 |
+| 7.1 | 3.2 |
+| 7.1.1 | 3.2 |
+| 7.1.2 | 3.2 |
+| 7.1.3 | 3.2 |
+| 7.1.4 | 3.2 |
+| 7.1.5 | 3.2 |
+| 7.1.6 | 2.3 |
+| 7.2 | – |
+| 7.3 | 3.5 |
+| 7.4 | – |
+| 7.5 | – |
+| 7.6 | – |
+| 7.7 | 4.12 |
+| 7.8 | 3.8 |
+| 7.9 | 10.4 |
+| 7.10 | 10.5 |
+| 7.11 | – |
+| 7.12 | 6.5 |
 
-a) Camión ligero (3,5-12 toneladas) (1).
+Para realizar las operaciones parciales de inspección se utilizarán métodos de inspección visual o mecanizada según se indique en el apartado específico del Manual.
 
-b) Remolque (2).
+Se entiende por inspección visual aquella que se realiza mediante observación de los órganos o elementos de que se trate, y en su caso de su funcionamiento, atendiendo a probables ruidos o vibraciones anormales, holguras o fuentes de corrosión, soldaduras incorrectas o no autorizadas en determinados órganos o elementos, taladros o cualquiera otras operaciones de mecanizado o plegado incorrectas o no autorizadas en determinados órganos o elementos, etc, que puedan dar lugar a probables causas de peligro para la circulación o el medio ambiente.
 
-c) Tren de carretera (3).
+Las inspecciones visuales estarán sujetas a los principios generales establecidos en el Preámbulo del Manual y a los condicionantes que de ellos se derivan.
 
-d) Autobús o autocar (4).
+Se entiende por inspección mecanizada aquella que se realiza con ayuda de alguno de los equipos que se indican en el correspondiente apartado del Manual.
 
-e) Camión pesado (más de 12 toneladas) (5).
+3. Calificación de los defectos detectados.
 
-f) Semirremolque (6).
+Los defectos se clasifican como:
 
-g) Vehículo articulado (7).
+DL: Defectos leves.
 
-7. Empresa que efectúa el transporte y dirección .............................................................................................
+DG: Defectos graves.
 
-8. Nacionalidad ................................................................................................................................
+DMG: Defectos muy graves.
 
-9. Conductor ...................................................................................................................................
+Defectos graves (DL):
 
-10. Puntos controlados:
+Defectos que no tienen un efecto significativo en la seguridad del vehículo o protección del medio ambiente y con los que el vehículo puede circular temporalmente.
 
-|  | Controlados | No controlados | No conformes |
-| --- | --- | --- | --- |
-| a) Dispositivo de frenado y componentes del dispositivo de frenado (8) |  |  |  |
-| b) Sistema de escape (8) |  |  |  |
-| c) Opacidad del humo (diésel) (8) |  |  |  |
-| d) Emisiones gaseosas [gasolina, gas natural o gas licuado de petróleo (GLP)] (8) |  |  |  |
-| e) Sistema de dirección |  |  |  |
-| f) Luces, dispositivos de alumbrado y de señalización |  |  |  |
-| g) Ruedas y neumáticos |  |  |  |
-| h) Suspensión (defectos visibles) |  |  |  |
-| i) Chasis (defectos visibles) |  |  |  |
-| j) Tacógrafo (instalación) |  |  |  |
-| k) Dispositivo de limitación de velocidad (instalación y funcionamiento) |  |  |  |
-| l) Fugas de carburante o del lubricante |  |  |  |
+Son defectos que deberán repararse lo antes posible. No exigen una nueva inspección para comprobar que han sido subsanados, salvo que el vehículo tenga que volver a ser inspeccionado por haber sido calificada la inspección como desfavorable o negativa.
 
-11. Resultados de la inspección: suspensión de la utilización del vehículo que presenta deficiencias graves.
+Defectos graves (DG):
 
-12. Varios/observaciones.
+Defectos que disminuyen las condiciones de seguridad del vehículo, ponen en riesgo a otros usuarios de las vías públicas o a la protección del medio ambiente.
 
-13. Agente/inspector que ha efectuado la inspección.
+Se actuará conforme a lo establecido en el artículo 7, apartado 1, de este real decreto.
 
-Firma del Agente/Inspector que ha efectuado la inspección.
+Defectos muy graves (DMG):
 
-(1) Vehículo de motor destinado al transporte de mercancías con, al menos, cuatro ruedas y un peso máximo que sobrepase las 3,5 toneladas pero que no supere las 12 toneladas (categoría N2).
+Defectos que constituyen un riesgo directo e inmediato para la seguridad vial.
 
-(2) Todo vehículo destinado a ser acoplado a un vehículo de motor, excepto los semirremolques, y que en virtud de su diseño y su instalación, esté destinado al transporte de mercancías: remolques con un masa máxima superior a 3,5 toneladas, pero que no sobrepase 10 toneladas (categoría O3); remolques con una masa máxima que sobrepase las 10 toneladas (categoría O4).
+Se actuará conforme a lo establecido en el artículo 7, apartado 2, de este real decreto.
 
-(3) Vehículo de motor destinado al transporte de mercancías, con una masa máxima superior a 3,5 toneladas (categorías N2, N3), acoplado a un remolque (categorías O3 y O4).
+Todo vehículo con defectos que correspondan a más de una categoría debe clasificarse con arreglo al defecto más grave. Todo vehículo que presente varios defectos de la misma categoría puede clasificarse en la categoría más grave si sus efectos combinados convierten al vehículo en más peligroso.
 
-(4) Vehículo de motor destinado al transporte de personas con, al menos, cuatro ruedas y con más de ocho asientos, además del asiento del conductor (categorías M2 y M3).
+Para los defectos que puedan clasificarse en más de una categoría, corresponderá al inspector que efectúe la prueba clasificar los defectos según su gravedad de acuerdo con la legislación nacional.
 
-(5) Vehículos de motor destinados al transporte de mercancías que tengan, por lo menos, cuatro ruedas, con una masa máxima superior a 12 toneladas (categoría N3).
+Durante la evaluación del defecto deben tenerse en cuenta los requisitos de homologación en el momento de su primera matriculación o primera puesta en circulación. No obstante, a algunos elementos les serán aplicables los requisitos sobre adaptación.
 
-(6) Todo vehículo destinado a ser acoplado a un vehículo de motor de tal manera que una parte de este semirremolque repose sobre el vehículo de motor y que una parte sustancial de su peso o del peso de su carga sea soportada por dicho vehículo y que, por su concepción y su disposición, esté destinado al transporte de mercancías (categorías O3 y O4).
+Una vez subsanados los defectos, el vehículo deberá ser inspeccionado de nuevo en una estación ITV para comprobación de que los defectos detectados en la primera han sido subsanados.
 
-(7) Vehículo tractor destinado a ser acoplado a un semirremolque.
+4. Modelo de informe de inspección técnica en carretera que incluye una lista de los puntos objeto de inspección.
 
-(8) Estos puntos son objeto de pruebas y controles específicos según las disposiciones establecidas en el anexo II.
+![imagen](https://www.boe.es/datos/imagenes/disp/2012/68/03897_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2012/68/03897_002.png)
+
+> Se modifica por el art. único.1 de la Orden IET/557/2012, de 14 de marzo. Ref. BOE-A-2012-3897.
 
 > Se modifica el apartado 10.k) por el art. único.2 del Real Decreto 122/2004, de 23 de enero. Ref. BOE-A-2004-1438.
