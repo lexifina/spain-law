@@ -108,6 +108,14 @@ Colectiva: 0,10.
 
 2.7 Otras condecoraciones y recompensas concedidas por instituciones oficiales por la realización de actividades ajenas a la función policial: Hasta 2.
 
+2.8 Placa a la Dedicación al Servicio Policial: 2.
+
+2.9 Encomienda a la Dedicación al Servicio Policial: 1,75.
+
+2.10 Cruz a la Dedicación al Servicio Policial: 1,50.
+
+2.11 Medalla a la Dedicación al Servicio Policial: 1,25.
+
 3. Actividades sindicales
 
 3.1 Por cada año ininterrumpido en las situaciones que se citan:
@@ -185,3 +193,5 @@ Por cada año de servicio efectivo prestado en el Cuerpo Nacional de Policía en
 5. Inspector Jefe: 3.
 
 6. Comisario: 3,5.
+
+> Se modifica el punto 2 del Apartado A por el art. único de la Orden INT/575/2012, de 20 de febrero. Ref. BOE-A-2012-4036.
