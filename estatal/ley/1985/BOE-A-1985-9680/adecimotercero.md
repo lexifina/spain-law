@@ -6,11 +6,15 @@
 
 3. El Banco de España deberá comprobar si las entidades de crédito cuya entidad dominante sea una entidad financiera con domicilio fuera de la Unión Europea están sujetas a una supervisión en base consolidada por parte de una autoridad competente de un tercer país, que sea equivalente a la prevista en esta Ley y su normativa de desarrollo.
 
+Para realizar dicha comprobación, el Banco de España deberá tener en cuenta las orientaciones elaboradas por la Autoridad Bancaria Europea a tal efecto. El Banco de España consultará a la Autoridad Bancaria Europea antes de tomar una decisión.
+
 En el caso de que no se apreciase la existencia de un régimen de supervisión equivalente, resultará de aplicación a las entidades de crédito mencionadas en el párrafo anterior el régimen de supervisión en base consolidada previsto en esta Ley y sus disposiciones de desarrollo.
 
 No obstante lo dispuesto en el párrafo anterior, el Banco de España podrá establecer otros métodos para la supervisión en base consolidada de los grupos a que se refiere este apartado. Entre dichos métodos, figurará la potestad del Banco de España de exigir la constitución de una entidad financiera dominante que tenga su domicilio social en la Unión Europea.
 
-Los métodos deberán cumplir los objetivos de la supervisión en base consolidada definidos en esta Ley y ser comunicados a las demás autoridades competentes implicadas y a la Comisión Europea.
+Los métodos deberán cumplir los objetivos de la supervisión en base consolidada definidos en esta Ley y ser comunicados a las demás autoridades competentes implicadas, a la Comisión Europea y a la Autoridad Bancaria Europea.
+
+> Se modifica el apartado 3 por el art. 1º.6 del Real Decreto-ley 10/2012, de 23 de marzo. Ref. BOE-A-2012-4091.
 
 > Se añade el apartado 3 por el art. 9. 3 de la Ley 5/2005, de 22 de abril. Ref. BOE-A-2005-6561
 

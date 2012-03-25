@@ -4,7 +4,7 @@
 
 Los colegios de supervisores constituirán el marco en el que se desarrollen las siguientes tareas:
 
-a) Intercambiar información;
+a) Intercambiar información entre autoridades competentes y con la Autoridad Bancaria Europea de conformidad con el artículo 21 del Reglamento (UE) n.º 1093/2010.
 
 b) Acordar la atribución voluntaria de tareas y delegación voluntaria de responsabilidades si procede;
 
@@ -23,5 +23,7 @@ f) Planificar y coordinar las actividades de supervisión, en colaboración con 
 4. La Comisión Nacional del Mercado de Valores, como miembro de un colegio de supervisores colaborará estrechamente con el resto de autoridades competentes que lo formen. Las exigencias en materia de confidencialidad previstas en la presente Ley no impedirán el intercambio de información confidencial entre la Comisión Nacional del Mercado de Valores y el resto de autoridades competentes en el seno de los colegios de supervisores.
 
 El establecimiento y el funcionamiento de colegios de supervisores no afectarán a los derechos y deberes de la Comisión Nacional del Mercado de Valores recogidos en la presente Ley y en sus respectivos desarrollos reglamentarios.
+
+> Se modifica la letra a) del apartado 1 por el art. 3.25 del Real Decreto-ley 10/2012, de 23 de marzo. Ref. BOE-A-2012-4091.
 
 > Se añade por el art. 2.7 de la Ley 6/2011, de 11 de abril. Ref. BOE-A-2011-6548.

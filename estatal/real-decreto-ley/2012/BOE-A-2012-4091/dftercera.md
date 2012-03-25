@@ -1,0 +1,3 @@
+## Disposición final tercera. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto-ley se incorpora al derecho español la Directiva 2010/78/UE del Parlamento Europeo y del Consejo, de 24 de noviembre de 2010, por la que se modifican las Directivas 98/26/CE, 2002/87/CE, 2003/6/CE, 2003/41/CE, 2003/71/CE, 2004/39/CE, 2004/109/CE, 2005/60/CE, 2006/48/CE, 2006/49/CE y 2009/65/CE en relación con las facultades de la Autoridad Europea de Supervisión (Autoridad Bancaria Europea), la Autoridad Europea de Supervisión (Autoridad Europea de Seguros y Pensiones de Jubilación) y la Autoridad Europea de Supervisión (Autoridad Europea de Valores y Mercados).

@@ -207,6 +207,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 106 ter](a106ter.md)
 - [Artículo 107](a107.md)
 - [Artículo 107 bis](a107bis.md)
+- [Artículo 107 ter](a107ter.md)
 - [TITULO IX](tix.md)
 - [Artículo 108](a108.md)
 - [Artículo 109](a109.md)

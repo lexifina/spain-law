@@ -4,15 +4,15 @@
 
 Los colegios de supervisores constituirán el marco en el que se desarrollen las siguientes tareas:
 
-a) Intercambiar información;
+a) Intercambiar información entre autoridades competentes y con la Autoridad Bancaria Europea de conformidad con el artículo 21 del Reglamento (UE) n.º 1093/2010.
 
-b) Acordar la atribución voluntaria de tareas y delegación voluntaria de responsabilidades si procede;
+b) Acordar la atribución voluntaria de tareas y delegación voluntaria de responsabilidades si procede.
 
-c) Establecer programas de examen prudencial basados en una evaluación de riesgos del grupo, con arreglo al artículo 10 bis.1;
+c) Establecer programas de examen prudencial basados en una evaluación de riesgos del grupo, con arreglo al artículo 10 bis.1.
 
-d) Aumentar la eficiencia de la supervisión, eliminando toda duplicación de requisitos prudenciales innecesarios, concretamente en relación con las solicitudes de información a la que se refieren los apartados 1 y 1 bis del artículo 6 del Real Decreto Legislativo 1298/1986, de 28 de junio, sobre adaptación del derecho vigente en materia de entidades de crédito al de las Comunidades Europeas;
+d) Aumentar la eficiencia de la supervisión, eliminando toda duplicación de requisitos prudenciales innecesarios, concretamente en relación con las solicitudes de información a la que se refieren los apartados 1 y 1 bis del artículo 6 del Real Decreto Legislativo 1298/1986, de 28 de junio, sobre adaptación del derecho vigente en materia de entidades de crédito al de las Comunidades Europeas.
 
-e) Aplicar de manera coherente los requisitos prudenciales previstos en la Directiva 2006/48/CE del Parlamento Europeo y del Consejo, de 14 de junio de 2006, relativa al acceso a la actividad de las entidades de crédito y a su ejercicio en todas las entidades de un grupo bancario, sin perjuicio de las opciones y facultades que ofrece la legislación de la Unión Europea;
+e) Aplicar de manera coherente los requisitos prudenciales previstos en la Directiva 2006/48/CE del Parlamento Europeo y del Consejo, de 14 de junio de 2006, relativa al acceso a la actividad de las entidades de crédito y a su ejercicio, en todas las entidades de un grupo bancario, sin perjuicio de las opciones y facultades que ofrece la legislación de la Unión Europea.
 
 f) Aplicar el artículo 10 bis.2.c) atendiendo a la labor realizada en otros foros que puedan constituirse en este ámbito.
 
@@ -25,5 +25,7 @@ Reglamentariamente podrán desarrollarse las características que deben reunir d
 4. El Banco de España, como miembro de un colegio de supervisores, colaborará estrechamente con el resto de autoridades competentes que lo formen. Las exigencias en materia de confidencialidad previstas en el artículo 6, apartados 2 a 6, del Real Decreto Legislativo 1298/1986, de 28 de junio, sobre adaptación del derecho vigente en materia de entidades de crédito al de las Comunidades Europeas, no impedirán el intercambio de información confidencial entre el Banco de España y el resto de autoridades competentes en el seno de los colegios de supervisores.
 
 El establecimiento y el funcionamiento de colegios de supervisores no afectarán a los derechos y deberes del Banco de España recogidos en la presente Ley, en la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito, y en sus respectivos desarrollos reglamentarios.
+
+> Se modifica el apartado 1 por el art. 1º.5 del Real Decreto-ley 10/2012, de 23 de marzo. Ref. BOE-A-2012-4091.
 
 > Se añade por el art. 1.9 de la Ley 6/2011, de 11 de abril. Ref. BOE-A-2011-6548.

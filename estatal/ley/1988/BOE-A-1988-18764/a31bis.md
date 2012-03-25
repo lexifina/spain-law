@@ -22,7 +22,7 @@ g) Elaborar un proyecto de reglamento de mercado que contendrá como mínimo las
 
 3. Con las excepciones que reglamentariamente se señalen, la modificación de los estatutos sociales de la sociedad rectora o del reglamento del mercado requerirá la previa aprobación por la Comisión Nacional del Mercado de Valores o la Comunidad Autónoma con competencia en la materia, en el caso de mercados de ámbito autonómico.
 
-4. El Ministro de Economía y Hacienda podrá revocar la autorización concedida a un mercado secundario oficial cuando se dé alguno de estos supuestos:
+4. El Ministro de Economía y Competitividad podrá revocar la autorización concedida a un mercado secundario oficial cuando se dé alguno de estos supuestos:
 
 a) El mercado no haga uso de la autorización en un plazo de doce meses o renuncie expresamente a la misma.
 
@@ -32,10 +32,24 @@ c) Haya obtenido la autorización valiéndose de declaraciones falsas o de cualq
 
 d) Deje de cumplir los requisitos a los que estaba supeditada la concesión de la autorización.
 
-e) Incurra en una infracción muy grave, de acuerdo con lo previsto en el Título VIII de esta Ley.
+e) Incurra en una infracción muy grave, de acuerdo con lo previsto en el título VIII de esta Ley.
+
+Toda revocación de una autorización será notificada a la Autoridad Europea de Valores y Mercados.
 
 5. Reglamentariamente se desarrollarán las normas precisas para la aplicación de este precepto.
 
 6. Las Comunidades Autónomas con competencias en la materia y respecto de los mercados de ámbito autonómico, podrán establecer para aquellos las medidas organizativas adicionales que estimen oportunas.
+
+7. Las operaciones sobre acciones y otros valores negociables equivalentes o que den derecho a adquirir acciones, realizadas en los segmentos de contratación multilateral de los mercados secundarios oficiales y de los sistemas multilaterales de negociación, estarán sujetas a mecanismos que permitan su ordenada liquidación y buen fin mediante la necesaria intervención de una entidad de contrapartida central.
+
+> Téngase en cuenta que el apartado 7 entra en vigor en la fecha que determinen las normas de desarrollo, según establece la disposición final 6 de la Ley 32/2011, de 4 de octubre. Ref. BOE-A-2011-15622.
+
+> Se modifica el apartado 4 por el art. 3.4 del Real Decreto-ley 10/2012, de 23 de marzo. Ref. BOE-A-2012-4091.
+
+> Téngase en cuenta que el apartado 7 entra en vigor en la fecha que determinen las normas de desarrollo.
+
+> Se añade el apartado 7 por el art. único.2 de la Ley 32/2011, de 4 de octubre. Ref. BOE-A-2011-15622.
+
+> Esta modificación entra en vigor en la fecha que determinen las normas de desarrollo, según establece la disposición final 6.
 
 > Se añade por el art. único.6 de la Ley 47/2007, de 19 de diciembre. Ref. BOE-A-2007-21913
