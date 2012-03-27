@@ -19,3 +19,7 @@
 2.2 Los ingresos y abonos resultantes de las liquidaciones definitivas se harán efectivas de acuerdo con el mecanismo de pago y cobro establecido en los apartados 1.4 y 1.5 anteriores para las liquidaciones provisionales.
 
 3. Las comunicaciones a los agentes así como las liquidaciones a cuenta y definitivas deberán ser asimismo comunicadas por la Comisión Nacional de Energía a la Dirección General de Política Energética y Minas en el momento en que se realicen o liquiden.
+
+> Se declara inaplicable por Sentencia del TS de 7 de febrero de 2012. Ref. BOE-A-2012-4184.
+
+> Atención: se declara inaplicable por sentencia del TS.

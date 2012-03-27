@@ -31,3 +31,7 @@ Para ello, la facturación debe corresponder a lecturas reales del contador.
 A los nuevos suministros no les será de aplicación como tarifa de referencia la tarifa social.
 
 El bono social que resulte de la aplicación de las tarifas de referencia arriba señaladas, en ningún caso podrá resultar negativo.
+
+> Se declara inaplicable por Sentencia del TS de 7 de febrero de 2012. Ref. BOE-A-2012-4184.
+
+> Atención: se declara inaplicable por sentencia del TS.

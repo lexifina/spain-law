@@ -25,3 +25,7 @@ Asimismo, a partir del 1 de julio de 2009, y hasta el momento en que tenga lugar
 | Bahía de Bizkaia Electricidad, S. L. | 1,42 |
 | Tarragona Power, S. L. | 0,81 |
 | Total | 100,00 |
+
+> Declarado inaplicable el último párrafo por Sentencia del TS de 7 de febrero de 2012. Ref. BOE-A-2012-4184.
+
+> Se declara inaplicable el último párrafo por Sentencia del TS de 7 de febrero de 2012. Ref. BOE-A-2012-4184.
