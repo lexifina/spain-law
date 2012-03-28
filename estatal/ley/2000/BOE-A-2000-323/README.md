@@ -1050,4 +1050,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final vigésima cuarta](dfvigesimacuarta.md)
 - [Disposición final vigésimo quinta](dfvigesimoquinta.md)
 - [Disposición final vigésimo sexta](dfvigesimosexta.md)
+- [Disposición final vigésimo séptima](dfvigesimoseptima.md)
 - [firma](firma.md)
