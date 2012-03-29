@@ -1,0 +1,3 @@
+## Quinto. Servicio de guardia.
+
+La realización de los servicios de guardia se llevará a cabo de conformidad con lo dispuesto en la Resolución de 4 de junio de 2003, de la Secretaría de Estado de Justicia, por la que se modifica la de 5 de diciembre de 1996, por la se dictan instrucciones sobre jornada y horarios en el ámbito de la Administración de Justicia, sin perjuicio de la regulación contenida en esta materia en el Título III del Reglamento 1/2005, de 15 de septiembre, de los Aspectos Accesorios de las Actuaciones Judiciales, y de la regulación que, dentro de su ámbito competencial, pueda establecer el Consejo General del Poder Judicial.
