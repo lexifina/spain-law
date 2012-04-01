@@ -37,10 +37,13 @@
 | 564 | Impuesto sobre Hidrocarburos. Declaración-liquidación. |
 | 566 | Impuesto sobre las Labores del Tabaco. Declaración-liquidación. |
 | 595 | Impuesto Especial sobre el Carbón. Declaración-liquidación. |
+| 714 | Impuesto sobre el Patrimonio. Declaración anual. |
 
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se añade el modelo 714 por la disposición final 2.1 de la Orden HAP/638/2012, de 26 de marzo. Ref. BOE-A-2012-4445.
 
 > Se modifica por la disposición final 2.1 de la Orden EHA/586/2011, de 9 de marzo. Ref. BOE-A-2011-4948.
 
