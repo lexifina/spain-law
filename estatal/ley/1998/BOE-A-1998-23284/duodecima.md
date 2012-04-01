@@ -40,7 +40,7 @@ d) Devengo de la tasa.-La tasa se devengará el día último de cada mes natural
 
 e) Sujetos pasivos.-Los sujetos pasivos de la tasa son las empresas que desarrollan las actividades de transporte y distribución, en los términos previstos en la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
 
-f) Tipos de gravamen y cuota.-El tipo por el que se multiplicará la base imponible para determinar la cuota tributaria a ingresar en la Comisión Nacional de Energía es de 0,201 %, para los peajes a que se refiere el artículo 18 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
+f) Tipos de gravamen y cuota. El tipo por el que se multiplicará la base imponible para determinar la cuota tributaria a ingresar en la Comisión Nacional de Energía es de 0,150 por ciento, para los peajes a que se refiere el artículo 17 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
 
 g) Normas de gestión.-La tasa será objeto de autoliquidación mensual por los sujetos pasivos definidos en la letra e) anterior. El sujeto pasivo cumplimentará el correspondiente impreso de declaración-liquidación, según los modelos que apruebe mediante Resolución la Comisión Nacional de Energía.
 
@@ -60,7 +60,7 @@ c) Devengo.-La tasa se devengará el día último de cada mes natural.
 
 d) Sujetos pasivos.-Los sujetos pasivos de la tasa son las empresas que realicen las actividades de regasificación, almacenamiento en tanques de GNL, almacenamiento básico, transporte y distribución, en los términos previstos en la presente Ley.
 
-e) Tipos de gravamen y cuota.-El tipo por el que se multiplicará la base imponible para determinar la cuota tributaria a ingresar en la Comisión Nacional de Energía es de 0,166 %.
+e) Tipos de gravamen y cuota. El tipo por el que se multiplicará la base imponible para determinar la cuota tributaria a ingresar en la Comisión Nacional de Energía es de 0,140 por ciento.
 
 f) Normas de gestión.-La tasa será objeto de autoliquidación mensual por los sujetos pasivos definidos en la letra d) anterior. El sujeto pasivo cumplimentará el correspondiente impreso de declaración-liquidación, según los modelos que apruebe mediante Resolución la Comisión Nacional de Energía.
 
@@ -81,6 +81,8 @@ Quinto. En lo no previsto en los apartados anteriores será de aplicación lo es
 Sexto. Los tipos de gravamen a que hacen referencia los puntos 1.e, 2.f y 3.e del apartado 2 de la presente disposición, serán revisados por el Gobierno con carácter cuatrienal, adaptándolos a las necesidades de financiación que justifique la Comisión Nacional de Energía, según lo establecido en la disposición adicional undécima de la presente Ley.
 
 La primera revisión se realizará en el año 2007.
+
+> Se modifican los puntos 2 y 3 del apartado 2 por la disposición final 3 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
 
 > Se modifica por el art. único.47 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
 

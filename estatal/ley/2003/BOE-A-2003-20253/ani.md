@@ -14,8 +14,6 @@ A efectos de lo dispuesto en el párrafo anterior, la Ley de Presupuestos Genera
 
 La diferencia entre los ingresos presupuestados por este concepto y los realmente obtenidos será tenida en cuenta a efectos de reducir o incrementar el porcentaje a fijar en la Ley de Presupuestos Generales del Estado del año siguiente. Se tomará como objetivo conseguir el equilibrio entre los ingresos por la tasa y los gastos derivados de la citada actividad realizada por la Comisión del Mercado de las Telecomunicaciones.
 
-No obstante, en caso de ser reducido el porcentaje en la Ley de Presupuestos Generales del Estado al límite del 1,5 por mil del ingreso bruto, el superávit entre ingresos obtenidos y gastos, si lo hubiera, se ingresará por la Comisión del Mercado de las Telecomunicaciones en la Agencia Estatal de Radiocomunicaciones, en los plazos y condiciones que se establezcan reglamentariamente, teniendo en cuenta sus necesidades de financiación.
-
 2. Tasas por numeración telefónica
 
 1. Constituye el hecho imponible de la tasa la asignación por la Comisión del Mercado de las Telecomunicaciones de bloques de numeración o de números a favor de una o varias personas o entidades.
@@ -93,6 +91,8 @@ La realización de pruebas o ensayos para comprobar el cumplimiento de especific
 La Agencia Estatal de Radiocomunicaciones gestionará en período voluntario la tasa que regula en el apartado 3, y gestionará y recaudará en período voluntario las tasas previstas en el apartado 4 cuando se recauden por la prestación de servicios que tenga encomendados la Agencia, de acuerdo con lo previsto en esta ley.
 
 3. En los supuestos no incluidos en el párrafo anterior, corresponderá la gestión en período voluntario de estas tasas al órgano competente del Ministerio de Ciencia y Tecnología.
+
+> Se modifica el apartado 1 por la disposición derogatoria única.d) del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
 
 > Se modifica el apartado 3.7 y se añade el punto 5 al apartado 4 por el art. 7.4 y 5 de la Ley 56/2007, de 28 de diciembre. Ref. BOE-A-2007-22440.
 
