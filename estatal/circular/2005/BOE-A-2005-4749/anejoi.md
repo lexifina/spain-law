@@ -1340,6 +1340,174 @@ Organismos internacionales.
 
 Otras categorías: órganos supervisores de instituciones financieras o mercados financieros y a países miembros de la Unión Europea y otros con los que exista reciprocidad.
 
+## Fichero
+
+## Infraestructura de clave pública - Sistema europeo de Bancos Centrales
+
+Responsable del fichero:
+
+Banco de España.
+
+Responsable de protección de datos del fichero:
+
+Departamento de Sistemas de Información.
+
+Derechos de acceso, rectificación, cancelación y oposición:
+
+Departamento de Sistemas de Información.
+
+C/ Alcalá, 48.
+
+28014 Madrid.
+
+Normativa de referencia.
+
+Ley 59/2003, de 19 de diciembre, de firma electrónica.
+
+Tipo de fichero:
+
+Gestionado por el Banco de España en virtud de las funciones públicas encomendadas al mismo por la Ley 13/1994, de 1 de junio.
+
+Finalidad del fichero y usos previstos del mismo:
+
+Registro y gestión de los certificados electrónicos emitidos por la Infraestructura de Clave Pública del Sistema Europeo de Bancos Centrales y prestación por el Banco de España de los servicios de certificación electrónica.
+
+Tipo de finalidad y usos previstos del fichero:
+
+– Prestación de servicios de certificación electrónica.
+
+Origen de los datos:
+
+– El propio interesado o su representante legal.
+
+Colectivos o categorías de interesados:
+
+– Empleados.
+
+Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
+
+– Datos especialmente protegidos:
+
+No incluye datos de este tipo.
+
+– Relativos a la comisión de infracciones:
+
+No incluye datos de este tipo.
+
+– Datos de carácter identificativo:
+
+• NIF/DNI.
+
+• Número registro de personal.
+
+• Nombre y apellidos.
+
+• Firma/Huella.
+
+• Firma electrónica.
+
+• Otros datos de carácter identificativo: correo electrónico, código de usuario, fecha de nacimiento, lugar de nacimiento.
+
+– Otros datos tipificados:
+
+• Otros tipos de datos: empresa.
+
+Sistema de tratamiento:
+
+Mixto.
+
+Medidas de seguridad:
+
+Nivel básico.
+
+Cesiones de datos de carácter personal.
+
+– Otros: Bancos Centrales de la Unión Europea.
+
+Transferencias de datos de carácter personal a países terceros:
+
+No hay previstas transferencias de datos.
+
+## Fichero:
+
+## Miembros de colegios de Supervisores
+
+Responsable del fichero:
+
+Banco de España.
+
+Responsable de protección de datos del fichero:
+
+Planificación de Supervisión.
+
+Derechos de acceso, rectificación, cancelación y oposición:
+
+Planificación de Supervisión.
+
+C/ Alcalá, 48.
+
+28014 Madrid.
+
+Tipo de fichero:
+
+Gestionado por el Banco de España en virtud de las funciones públicas encomendadas al mismo por la Ley 13/1994, de 1 de junio.
+
+Finalidad del fichero y usos previstos del mismo:
+
+Identificar a las personas miembros de los colegios de supervisores de los que es responsable la Dirección General de Supervisión para facilitar la comunicación entre los mismos.
+
+Tipo de finalidad y usos previstos del fichero:
+
+– Otras finalidades.
+
+Origen de los datos:
+
+– El propio interesado o su representante legal.
+
+Colectivos o categorías de interesados:
+
+– Otros colectivos: empleados de organismos supervisores que participan como miembros en alguno de los colegios de supervisores responsabilidad de la Dirección General de Supervisión.
+
+Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
+
+– Datos especialmente protegidos:
+
+No incluye datos de este tipo.
+
+– Relativos a la comisión de infracciones:
+
+No incluye datos de este tipo.
+
+– Datos de carácter identificativo:
+
+• Nombre y apellidos.
+
+• Dirección.
+
+• Teléfono.
+
+• Imagen/voz.
+
+• Otros datos de carácter identificativo: país, organismo supervisor, cargo, colegio supervisor.
+
+Sistema de tratamiento:
+
+Mixto.
+
+Medidas de seguridad:
+
+Nivel medio.
+
+Cesiones de datos de carácter personal:
+
+No hay previstas cesiones de datos.
+
+Transferencias de datos de carácter personal a países terceros:
+
+No hay previstas transferencias de datos.
+
+> Se modifica por la Circular 3/2012, de 28 de marzo. Ref. BOE-A-2012-4804.
+
 > Se modifica por la Circular 1/2011, de 26 de enero. Ref. BOE-A-2011-2378.
 
 > Se modifica por la Circular 4/2008, de 31 de octubre. Ref. BOE-A-2008-18886.
