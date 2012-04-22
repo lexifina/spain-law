@@ -1,0 +1,3 @@
+## Disposición final primera. Fundamento competencial.
+
+Este real Decreto-ley tiene carácter de legislación básica y se dicta al amparo de las competencias que los apartados 1.ª, 13.ª, 18.ª y 30.ª del artículo 149.1 de la Constitución reservan al Estado en materia de regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, de planificación general de la actividad económica, de régimen estatutario de los funcionarios públicos, y de desarrollo del artículo 27 de la Constitución a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
