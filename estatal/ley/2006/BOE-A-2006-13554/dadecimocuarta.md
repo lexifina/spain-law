@@ -2,7 +2,7 @@
 
 1. A efectos de aplicar los supuestos de dispensación y sustitución establecidos en los artículos 85 y 86 respectivamente de esta Ley, la Dirección General de Farmacia y Productos Sanitarios del Ministerio de Sanidad, Política Social e Igualdad, publicará en su página web, junto al Nomenclátor de productos farmacéuticos del Sistema Nacional de Salud, la información relativa a las agrupaciones homogéneas de las presentaciones de los medicamentos y de los productos sanitarios para pacientes no hospitalizados que requieran para su dispensación receta medica oficial u orden de dispensación.
 
-La citada Dirección General podrá establecer plazos para la solicitud de bajada voluntaria de los precios de los medicamentos y productos sanitarios en función del precio menor de cada agrupación, y en su caso el mantenimiento del código nacional correspondiente de los mismos, así como determinar si fuera necesario los plazos de coexistencia de los precios y devolución de existencias de los productos afectados, incorporando una vez finalizados estos, la información actualizada de los precios menores de cada agrupación en el Nomenclátor de productos farmacéuticos del Sistema Nacional de Salud.
+La información sobre los precios menores se actualizará el primer día hábil de cada mes y se publicará en la página web del Ministerio de Sanidad, Servicios Sociales e Igualdad.
 
 2. En cada agrupación homogénea de medicamentos se integrarán las presentaciones de los medicamentos financiadas con el/los mismo/s principio/s activo/s en cuanto a dosis, contenido, forma farmacéutica o agrupación de forma farmacéutica, y vía de administración, que puedan ser objeto de intercambio en su dispensación.
 
@@ -13,5 +13,7 @@ Se diferenciarán las agrupaciones homogéneas de medicamentos integradas exclus
 4. Si las variaciones experimentadas en los precios de los medicamentos o productos sanitarios así lo aconsejaran, y previo acuerdo de la Comisión Permanente de Farmacia del Consejo Interterritorial del Sistema Nacional de Salud, la mencionada Dirección General podrá actualizar la información de los precios menores, afectando en su caso dicha actualización a todas las agrupaciones, o a las agrupaciones que se estimen pertinentes, así como incorporar nuevas agrupaciones, y establecer plazos de coexistencia de los precios y devolución de existencias, de las presentaciones de medicamentos y productos sanitarios que hubieran reducido voluntariamente su precio en función del precio menor de cada agrupación, pudiéndose autorizar que dicha reducción se realice sin cambio del código nacional.
 
 A efectos informativos las actualizaciones de la información de precios menores se incorporarán en el Nomenclátor de productos farmacéuticos del Sistema Nacional de Salud, finalizados los plazos que en su caso se hubieran establecido.
+
+> Se modifica el apartado 1 por el art. 4.18 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
 
 > Se añade por el art. 1.12 del Real Decreto-Ley 9/2011, de 19 de agosto. Ref. BOE-A-2011-14021.
