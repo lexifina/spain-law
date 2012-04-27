@@ -24,13 +24,13 @@ En la segunda fase, el operador del sistema realizará las modificaciones de pro
 
 En la primera fase del proceso definida en el apartado anterior, participarán todas las unidades de venta, excepto las que representen importaciones de países no pertenecientes a la Unión Europea. Entre las unidades de adquisición, únicamente participarán en esta fase las correspondientes a unidades de bombeo y, cuando no existan otros medios para resolver las restricciones en el sistema de producción español o exista riesgo cierto para el suministro nacional, las unidades de adquisición cuyo destino sea el suministro fuera del sistema eléctrico español.
 
-En la segunda fase del proceso participarán las unidades de venta y las unidades de adquisición correspondientes a unidades de bombeo.
+En la segunda fase del proceso participarán las unidades de venta, excepto las que representen importaciones de energía a través de interconexiones para las que esté establecido un sistema coordinado de gestión de la capacidad de intercambio y las unidades de adquisición correspondientes a unidades de bombeo.
 
 ## Cuarto. Ofertas para el proceso de resolución de restricciones.
 
 Las ofertas para el proceso de resolución de restricciones serán las siguientes:
 
-1. Ofertas de venta de energía.
+1. Ofertas de venta de energía. Los sujetos titulares de unidades que participan en la primera o segunda fase del proceso de resolución de restricciones conforme al apartado tercero podrán presentar ofertas para aumentar o reducir la energía programada de aquellas, según sean unidades de venta o adquisición, respectivamente, excepto las que representen importaciones de energía a través de interconexiones en las que esté establecido un sistema coordinado de gestión de la capacidad de intercambio.
 
 Los sujetos titulares de unidades que participan en la primera o segunda fase del proceso de resolución de restricciones conforme al apartado tercero podrán presentar ofertas para aumentar o reducir la energía programada de aquellas, según sean unidades de venta o adquisición, respectivamente.
 
@@ -105,3 +105,5 @@ Las restricciones técnicas que se originen como consecuencia de la casación en
 Las restricciones e incidencias técnicas que se produzcan tras el cierre del mercado intradiario se resolverán en los términos establecidos para dichas situaciones en los correspondientes procedimientos de operación del sistema.
 
 Los procedimientos de operación del sistema podrán, igualmente, establecer cuantas normas de carácter técnico e instrumental sean necesarias para la ejecución de lo dispuesto en este anexo.
+
+> Se modifican los apartados 3 y 4.1 por la disposición final 1 de la Orden IET/843/2012, de 25 de abril. Ref. BOE-A-2012-5527.
