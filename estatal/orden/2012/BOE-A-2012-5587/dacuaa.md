@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Política de seguridad de la información en el ámbito de la Administración Electrónica en la Secretaría de Estado de Administraciones Públicas.
+
+Sin perjuicio de las cuestiones que se regulen con carácter general para el Ministerio de Hacienda y Administraciones Públicas y en lo que no se oponga al ejercicio de sus competencias en materia de seguridad de la información por la Comisión Ministerial de Administración Electrónica que se crea por la presente Orden, será de aplicación en la Secretaría de Estado de Administraciones Públicas lo dispuesto en la Orden TAP/3148/2011, de 7 de octubre, por la que se aprueba la política de seguridad de la información en el ámbito de la Administración Electrónica en el Ministerio de Política Territorial y Administración Pública.
+
+No obstante lo anterior, el grupo de trabajo regulado en su artículo 5 pasará a depender de la Dirección General de Modernización Administrativa, Procedimientos e Impulso de la Administración Electrónica y tendrá la composición que acuerde el Secretario de Estado de Administraciones Públicas.

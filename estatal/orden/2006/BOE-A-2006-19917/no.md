@@ -1,0 +1,1 @@
+Norma derogada, en lo que se refiere a las competencias del Ministerio de Hacienda y Administraciones Públicas, por la disposición derogatoria única de la Orden HAP/847/2012, de 25 de abril. Ref. BOE-A-2012-5587.

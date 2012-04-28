@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas la Orden EHA/3507/2006, de 8 de noviembre, por la que se regula la composición y funciones de la Comisión Ministerial de Administración Electrónica del Ministerio de Economía y Hacienda, en lo que se refiere a las competencias del Ministerio de Hacienda y Administraciones Públicas, así como la Orden TAP/594/2011, de 8 de marzo, por la que se crea la Comisión Ministerial de Administración Electrónica del Ministerio de Política Territorial y Administración Pública y se regula su composición y funciones, y las disposiciones de igual o inferior rango en lo que se opongan a la presente Orden.
