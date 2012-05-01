@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Autorizaciones de endeudamiento.
+
+Hasta 2020, excepcionalmente, si como consecuencia de circunstancias económicas extraordinarias resultara necesario para garantizar la cobertura de los servicios públicos fundamentales, podrán concertarse operaciones de crédito por plazo superior a un año y no superior a diez, sin que resulten de aplicación las restricciones previstas en el apartado dos del artículo 14 de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas. Las operaciones que se concierten bajo esta excepción deberán ser autorizadas en cualquier caso por el Estado, quién apreciará si se dan las circunstancias previstas en esta disposición.
