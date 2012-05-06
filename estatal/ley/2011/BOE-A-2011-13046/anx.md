@@ -14,8 +14,10 @@
 
 6. En su caso, propuesta de los criterios de financiación a los sistemas públicos.
 
-7. Procedimiento de recogida de datos y de suministro de información a las administraciones públicas.
+7. Procedimiento de recogida de datos de los operadores que realicen actividades relacionadas con el ejercicio de las funciones del sistema colectivo de responsabilidad ampliada y de suministro de información a las administraciones públicas.
 
 8. Previsión de cantidades de residuos (kg y unidades) que se prevé recoger.
 
 9. Porcentajes previstos de preparación para la reutilización, reciclado y valorización con sus correspondientes plazos y mecanismos de seguimiento, control de funcionamiento y verificación del grado de cumplimiento.
+
+> Se modifica el apartado 7 por el art. 3.8 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.

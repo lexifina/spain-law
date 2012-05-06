@@ -1,8 +1,18 @@
-## Disposición adicional decimocuarta. Competencias autonómicas en materia de policía de dominio público hidráulico.
+## Disposición adicional decimocuarta. Cesión de derechos en el ámbito del Plan Especial del Alto Guadiana.
 
-En las cuencas hidrográficas intercomunitarias, corresponderá a las Comunidades Autónomas que tengan prevista la competencia ejecutiva sobre las facultades de policía de dominio público hidráulico en sus Estatutos de Autonomía, el ejercicio, dentro de su ámbito territorial, de las funciones señaladas en el apartado 2 del artículo 94 de esta Ley, así como la tramitación de los procedimientos a que den lugar dichas actuaciones hasta la propuesta de resolución.
+1. Los titulares de aprovechamientos de agua, inscritos en el Registro de Aguas, en las secciones A y C, o anotados en el Catálogo de Aguas privadas, en el ámbito del Plan Especial del Alto Guadiana y sujeto a la vigencia del mismo, podrán transmitirlos de forma irreversible y en su totalidad, a otros titulares de aprovechamientos, que serán adquiridos mediante la correspondiente concesión otorgada por el Organismo de cuenca de conformidad con el procedimiento establecido en el Real Decreto 13/2008, de 11 de enero, por el que se aprueba el Plan Especial del Guadiana y sujeta a las siguientes prescripciones:
 
-En el ejercicio de estas funciones, será aplicable a los órganos competentes de las Comunidades Autónomas lo dispuesto en los apartados 3 y 4 del artículo 94.
+a) El volumen de agua concedido será un porcentaje del volumen objeto de transmisión. Ese porcentaje se determinará en atención a las condiciones técnicas y ambientales que concurran y, en su caso, vinculado al programa de actuación para la recuperación del buen estado de la masa de agua.
+
+b) Cuando el uso al que se destine el agua sea el regadío no se podrá incrementar la superficie que ya tuviera reconocida el cesionario.
+
+c) Se otorgarán por un plazo que finalizará el 31 de diciembre de 2035, teniendo preferencia en ese momento el concesionario para obtener una nueva concesión.
+
+2. La cesión de derechos en los términos establecidos en el anterior apartado, podrá efectuarse sin infraestructuras de conducción cuando el cedente y el cesionario pertenezcan a la misma masa de agua subterránea.
+
+3. De forma excepcional podrán otorgarse nuevas concesiones a titulares de explotaciones agropecuarias, que cumplan las condiciones establecidas en el programa de actuación, si quien las solicita adquiere de manera definitiva, según lo dispuesto en el apartado 1 de esta disposición adicional, el volumen total precisado más el porcentaje que fije la Confederación Hidrográfica del Guadiana.
+
+> Se modifica por el art. 1.9 y 10 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.
 
 > Se añade por la disposición final 1 del Real Decreto-ley 12/2011, de 26 de agosto. Ref. BOE-A-2011-14222.
 
