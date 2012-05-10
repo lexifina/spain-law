@@ -1,0 +1,3 @@
+## Disposición transitoria única.
+
+A partir de la fecha de entrada en vigor del Procedimiento de Operación 3.9 «Contratación y gestión de reserva de potencia adicional a subir», y hasta que se produzca la aprobación de las modificaciones necesarias en los Procedimientos de Operación 3.1 «Programación de la generación», 3.2 «Solución de restricciones técnicas», 9, «Información intercambiada por el operador del sistema» y 14.4 «Derechos de cobro y obligaciones de pago por los servicios de ajuste del Sistema», se autoriza al Operador del Sistema a no programar el arranque y acoplamiento de grupos térmicos para garantizar la reserva de potencia adicional a subir requerida en el proceso de solución de restricciones técnicas del Programa Base de Funcionamiento.
