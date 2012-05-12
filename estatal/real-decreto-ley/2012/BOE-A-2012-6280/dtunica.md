@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen aplicable a los títulos convertibles adquiridos por el Fondo de Reestructuración Ordenada Bancaria antes de la entrada en vigor de este real decreto-ley.
+
+Lo dispuesto en los párrafos quinto y sexto del artículo 10.2 del Real Decreto-ley 9/2009, de 26 de junio, sobre reestructuración bancaria y reforzamiento de los recursos propios de las entidades de crédito, según la nueva redacción introducida por este real decreto-ley, será asimismo aplicable a los títulos convertibles adquiridos por el Fondo de Reestructuración Ordenada Bancaria con anterioridad a la entrada en vigor del presente Real Decreto-ley.

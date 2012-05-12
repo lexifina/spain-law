@@ -219,6 +219,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional decimotercera](dadecimotercera.md)
 - [Disposición adicional decimocuarta](dadecimocuarta.md)
 - [Disposición adicional decimoquinta](dadecimoquinta.md)
+- [Disposición adicional decimosexta](dadecimosexta.md)
 - [Disposición transitoria primera](dtprimera-2.md)
 - [Disposición transitoria segunda](dtsegunda-2.md)
 - [Disposición transitoria tercera](dttercera.md)
