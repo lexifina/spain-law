@@ -66,7 +66,7 @@ Todos los demás pasivos deben clasificarse como no corrientes.
 
 4. En la confección del Balance del Patrimonio Privativo de las MATEPSS y del Balance Integrado de la Mutua, se añadirá dentro del epígrafe A.IV «Inversiones financieras a largo plazo en entidades del grupo, multigrupo y asociadas», la partida 2 «Inversiones financieras en patrimonio de sociedades mercantiles», que recogerá la participación del patrimonio privativo de las MATEPSS en sus sociedades de prevención.
 
-5. La partida 1 «Deudores por operaciones de gestión», del epígrafe, B.III «Deudores y otras cuentas a cobrar», del activo incluirá todos los deudores de carácter presupuestario excepto aquellos relativos a los capítulos de enajenación de inversiones reales, cuando no constituyan actividad habitual de la entidad, o de activos o pasivos financieros. También incluirán los deudores de carácter no presupuestario que se deriven de aplazamientos y fraccionamientos a corto plazo de deudores presupuestarios de esta partida.
+5. La partida 1 «Deudores por operaciones de gestión», del epígrafe, B.III «Deudores y otras cuentas a cobrar», del activo incluirá todos los deudores de carácter presupuestario excepto aquellos relativos al capítulo de enajenación de inversiones reales, cuando no constituyan actividad habitual de la entidad, o referidos a activos o pasivos financieros. También incluirán los deudores de carácter no presupuestario que se deriven de aplazamientos y fraccionamientos a corto plazo de deudores presupuestarios de esta partida.
 
 6. Dentro de la partida 2 «Otras cuentas a cobrar», del epígrafe B.III «Deudores y otras cuentas a cobrar», del activo, se incluirán aquellos deudores presupuestarios derivados del capítulo de pasivos financieros, además de los deudores de carácter no presupuestario que, de acuerdo con estas normas, no deban figurar en otros epígrafes del balance.
 
@@ -184,7 +184,7 @@ En la columna relativa al ejercicio inmediatamente anterior al que se cierra fig
 
 En relación con la información sobre las operaciones patrimoniales con la entidad o entidades propietarias en las partidas 1. «Aportación patrimonial dineraria», y 2. «Aportación de bienes y derechos», se incluirán las aportaciones recibidas de la entidad o entidades propietarias ya sea como aportación patrimonial inicial directa o como posteriores ampliaciones como consecuencia de asunción de nuevas competencias por la entidad contable.
 
-En la partida 3. «Asunción y condonación de pasivos financieros», se incluirán las aportaciones efectuadas por la entidad o entidades propietarias mediante la asunción o condonación de pasivos financieros de la entidad contable.
+En la partida 3. «Asunción y condonación de pasivos financieros», se incluirán las aportaciones efectuadas por la entidad o entidades propietarias mediante la asunción o condonación de pasivos financieros de la entidad contable, ya sea como aportación patrimonial inicial directa o como posteriores ampliaciones como consecuencia de la asunción de nuevas competencias por la misma.
 
 En la partida 5. «Devolución de bienes y derechos», se incluirán las devoluciones a la entidad o entidades propietarias de bienes y derechos, como por ejemplo la reversión de bienes y derechos adscritos.
 
@@ -195,6 +195,8 @@ Cuando alguno de los importes incluidos en las partidas 4. «Otras aportaciones 
 El estado de flujos de efectivo informa sobre el origen y destino de los movimientos habidos en las partidas monetarias de activo representativas de efectivo y otros activos líquidos equivalentes, e indica la variación neta sufrida por las mismas en el ejercicio.
 
 Se entiende por efectivo y otros activos líquidos equivalentes los que como tales figuran en el epígrafe B.VII del activo del balance, es decir, la tesorería depositada en la caja de la entidad y los depósitos bancarios a la vista; también formarán parte los activos financieros que sean convertibles en efectivo y que en el momento de su adquisición, su vencimiento no fuera superior a tres meses, siempre que no exista riesgo significativo de cambios de valor y formen parte de la política de gestión normal de la tesorería de la entidad.
+
+En el caso de las MATEPSS, dada la importancia cuantitativa que tienen sobre el conjunto de sus actividades, los flujos de efectivo asociados a las transacciones administradas por parte de la Tesorería General de la Seguridad Social realizadas por medio de la cuenta corriente no bancaria mantenida con ésta, también se tratarán como flujos y saldos de efectivo de la entidad.
 
 Los movimientos de efectivo y otros activos líquidos equivalentes se muestran en el estado de flujos de efectivo agrupados por tipos de actividades. No se recogen en el estado de flujos de efectivo los pagos por adquisición, ni cobros por amortización o vencimiento de activos financieros a los que se les ha dado la consideración de activos líquidos equivalentes a efectivo. Tampoco se recogen los movimientos internos de tesorería.
 
@@ -266,7 +268,7 @@ El modelo de memoria recoge la información mínima a cumplimentar; no obstante,
 
 Deberá indicarse cualquier otra información no incluida en el modelo de la memoria que sea necesaria para permitir el conocimiento de la situación y actividad de la entidad en el ejercicio, facilitando la comprensión de las cuentas anuales objeto de presentación, con el fin de que las mismas reflejen la imagen fiel del patrimonio, de la situación financiera, del resultado económico patrimonial y de la liquidación del presupuesto de la entidad contable.
 
-2. Modelos de Cuentas Anuales
+## 2. Modelos de Cuentas Anuales
 
 BALANCE
 
@@ -314,8 +316,7 @@ BALANCE
 | 480, 567 | VI. Ajustes por periodificación VII. Efectivo y otros activos líquidos equivalentes |  |  |  |  |  |  |  |  |
 | 577 | 1. Otros activos líquidos equivalentes |  |  |  |  |  |  |  |  |
 | 556, 570, 571, 573, 575 | 2. Tesorería |  |  |  |  |  |  |  |  |
-|  | TOTAL |  |  |  |  | TOTAL |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
+|  | Total Activo (A+B) |  |  |  |  | Total Patrimonio Neto y Pasivo (A+B+C) |  |  |  |
 
 CUENTA DEL RESULTADO ECONÓMICO PATRIMONIAL
 
@@ -646,11 +647,9 @@ Se informará sobre:
 
 1. Imagen fiel:
 
-a) La entidad deberá hacer una declaración explícita de que las cuentas anuales reflejan la imagen fiel del patrimonio, de la situación financiera, del resultado económico patrimonial, y de la ejecución del presupuesto de la entidad contable.
+a) Requisitos de la información, principios contables públicos y criterios contables no aplicados por interferir el objetivo de la imagen fiel y, en su caso, incidencia en las cuentas anuales.
 
-b) Requisitos de la información, principios contables públicos y criterios contables no aplicados por interferir el objetivo de la imagen fiel y, en su caso, incidencia en las cuentas anuales.
-
-c) Principios, criterios contables aplicados e información complementaria necesaria para alcanzar el objetivo de imagen fiel y ubicación de ésta en la memoria.
+b) Principios, criterios contables aplicados e información complementaria necesaria para alcanzar el objetivo de la imagen fiel y ubicación de ésta en la memoria.
 
 2. Comparación de la información:
 
@@ -939,7 +938,7 @@ Estado demostrativo de la rentabilidad alcanzada en el ejercicio por los activos
 | Activos financieros a valor razonable con cambios en resultados |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |
 
-(a) Cada una de las categorías de activos financieros, a efectos de valoración, se desglosarán a su vez en función de los tipos de inversiones financieras que el Reglamento sobre Colaboración, en sus artículos 30 y 31, prevé que podrán realizar las MATEPSS, Entidades y Centros Mancomunados.
+(a) Cada una de las categorías de activos financieros, a efectos de valoración, se desglosarán a su vez en función de los tipos de inversiones financieras que el Reglamento sobre Colaboración, en su artículo 30, prevé que podrán realizar las MATEPSS, Entidades y Centros Mancomunados.
 
 (b) En la columna de saldo medio anual, se consignará el facilitado por las entidades financieras, a partir de la fecha valor de los movimientos en las cuentas bancarias y de valores.
 
@@ -977,7 +976,7 @@ Para los activos financieros que se valoren al coste amortizado, se informará s
 
 — Variación patrimonial experimentada en el ejercicio de las cuentas representativas de estos activos.
 
-VALORES DE RENTA FIJA AFECTOS AL FONDO DE RESERVA DE LA SEGURIDAD SOCIAL
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE RESERVA DE LA SEGURIDAD SOCIAL
 
 SITUACIÓN PATRIMONIAL EJERCICIO N
 
@@ -986,7 +985,7 @@ SITUACIÓN PATRIMONIAL EJERCICIO N
 | Activos financieros con vencimiento a largo plazo |  |  |  |
 | Saldo financiero afecto FRSS |  |  |  |
 | Intereses a largo plazo de valores representativos de deuda |  |  |  |
-| Deterioro de valor de valores representativos de deuda a corto plazo |  |  |  |
+| Deterioro de valor de valores representativos de deuda a largo plazo |  |  |  |
 | Activos financieros con vencimiento a corto plazo |  |  |  |
 | Intereses a corto plazo de valores representativos de deuda |  |  |  |
 | Deterioro de valor de valores representativos de deuda a corto plazo |  |  |  |
@@ -994,7 +993,7 @@ SITUACIÓN PATRIMONIAL EJERCICIO N
 
 — Variación patrimonial experimentada en el ejercicio de estos activos, distinguiendo la procedencia de los mismos, y su tipología.
 
-VALORES DE RENTA FIJA AFECTOS AL FONDO DE RESERVA DE LA SEGURIDAD SOCIAL
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE RESERVA DE LA SEGURIDAD SOCIAL
 
 VARIACIÓN DE ACTIVOS FINANCIEROS EJERCICIO N
 
@@ -1013,7 +1012,7 @@ VARIACIÓN DE ACTIVOS FINANCIEROS EJERCICIO N
 
 — Amortización/enajenación y adquisición de valores distinguiendo su procedencia.
 
-VALORES DE RENTA FIJA AFECTOS AL FONDO DE RESERVA DE LA SEGURIDAD SOCIAL
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE RESERVA DE LA SEGURIDAD SOCIAL
 
 AMORTIZACIÓN/ENAJENACIÓN DE ACTIVOS FINANCIEROS
 
@@ -1030,7 +1029,7 @@ AMORTIZACIÓN/ENAJENACIÓN DE ACTIVOS FINANCIEROS
 | — Corto Plazo |  |  |  |
 | TOTAL |  |  |  |
 
-VALORES DE RENTA FIJA AFECTOS AL FONDO DE RESERVA DE LA SEGURIDAD SOCIAL
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE RESERVA DE LA SEGURIDAD SOCIAL
 
 ADQUISICIÓN DE ACTIVOS FINANCIEROS
 
@@ -1049,7 +1048,7 @@ ADQUISICIÓN DE ACTIVOS FINANCIEROS
 
 — Rendimientos devengados y pendientes de cobro del ejercicio anterior, cupón corrido de los activos adquiridos en el año, intereses devengados, intereses imputados al presupuesto e intereses devengados pendientes de cobro a fin de ejercicio, distinguiendo en todo caso por la procedencia y vencimiento a corto o largo plazo, de los valores que los generan.
 
-VALORES DE RENTA FIJA AFECTOS AL FONDO DE RESERVA DE LA SEGURIDAD SOCIAL
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE RESERVA DE LA SEGURIDAD SOCIAL
 
 RENDIMIENTOS
 
@@ -1070,7 +1069,7 @@ RENDIMIENTOS
 
 — Variación patrimonial experimentada en el ejercicio de las cuentas representativas de estos activos.
 
-VALORES DE RENTA FIJA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
 
 SITUACIÓN PATRIMONIAL EJERCICIO N
 
@@ -1078,7 +1077,7 @@ SITUACIÓN PATRIMONIAL EJERCICIO N
 | --- | --- | --- | --- |
 | Activos financieros con vencimiento a largo plazo |  |  |  |
 | Intereses a largo plazo de valores representativos de deuda |  |  |  |
-| Deterioro de valor de valores representativos de deuda a corto plazo |  |  |  |
+| Deterioro de valor de valores representativos de deuda a largo plazo |  |  |  |
 | Activos financieros con vencimiento a corto plazo |  |  |  |
 | Intereses a corto plazo de valores representativos de deuda |  |  |  |
 | Deterioro de valor de valores representativos de deuda a corto plazo |  |  |  |
@@ -1086,7 +1085,7 @@ SITUACIÓN PATRIMONIAL EJERCICIO N
 
 — Variación patrimonial experimentada en el ejercicio de estos activos, distinguiendo la procedencia de los mismos, y su tipología.
 
-VALORES DE RENTA FIJA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
 
 VARIACIÓN DE ACTIVOS FINANCIEROS EJERCICIO N
 
@@ -1105,7 +1104,7 @@ VARIACIÓN DE ACTIVOS FINANCIEROS EJERCICIO N
 
 — Amortización/enajenación y adquisición de valores distinguiendo su procedencia.
 
-VALORES DE RENTA FIJA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
 
 AMORTIZACIÓN/ENAJENACIÓN DE ACTIVOS FINANCIEROS
 
@@ -1122,7 +1121,7 @@ AMORTIZACIÓN/ENAJENACIÓN DE ACTIVOS FINANCIEROS
 | — Corto Plazo |  |  |  |
 | TOTAL |  |  |  |
 
-VALORES DE RENTA FIJA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
 
 ADQUISICIÓN DE ACTIVOS FINANCIEROS
 
@@ -1141,7 +1140,7 @@ ADQUISICIÓN DE ACTIVOS FINANCIEROS
 
 — Rendimientos devengados y pendientes de cobro del ejercicio anterior, cupón corrido de los activos adquiridos en el año, intereses devengados, intereses imputados al presupuesto e intereses devengados pendientes de cobro a fin de ejercicio, distinguiendo en todo caso por la procedencia y vencimiento a corto o largo plazo, de los valores que los generan.
 
-VALORES DE RENTA FIJA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
 
 RENDIMIENTOS
 
@@ -1307,8 +1306,6 @@ c) En el caso excepcional en que una provisión no se haya podido registrar en e
 a) Una breve descripción de su naturaleza.
 
 b) Evolución previsible, así como los factores de los que depende.
-
-a)
 
 ## 15. Activos en estado de venta.
 
@@ -1517,14 +1514,12 @@ Información para cada gasto efectuado sobre:
 
 — Importe.
 
-— Observaciones, indicando al menos, si en el momento de la elaboración de la cuenta ya se ha realizado la aplicación al presupuesto del ejercicio.
-
 d) Acreedores por operaciones pendientes de aplicar a presupuesto
 
-| EJERCICIO DE PROCEDENCIA | PARTIDA PRESUPUESTARIA | DESCRIPCIÓN | IMPORTE | OBSERVACIONES |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| TOTAL |  |  |
+| EJERCICIO DE PROCEDENCIA | PARTIDA PRESUPUESTARIA | DESCRIPCIÓN | IMPORTE |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| TOTAL |  |
 
 2. Presupuesto de ingresos.
 
@@ -1678,30 +1673,7 @@ c) Derechos cancelados
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 
-3. Derechos presupuestarios pendientes de cobro según su grado de exigibilidad.
-
-Información sobre la situación de los derechos pendientes de cobro, indicando:
-
-— Pendientes de notificar
-
-— Suspendidos
-
-— Aplazamiento o fraccionamiento solicitado
-
-— Aplazamiento o fraccionamiento concedido
-
-— En periodo voluntario
-
-— En periodo ejecutivo
-
-3. DERECHOS PRESUPUESTARIOS PENDIENTES DE COBRO SEGÚN SU GRADO DE EXIGIBILIDAD
-
-| APLICACIÓN PRESUPUESTARIA | DESCRIPCIÓN | PENDIENTES DE NOTIFICAR | SUSPENDIDOS | APLAZAMIENTO O FRACCIONAMIENTO | EN PERIODO VOLUNTARIO | EN PERIODO EJECUTIVO | TOTAL DERECHOS PENDIENTES DE COBRO |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| SOLICITADO | CONCEDIDO |
-|  |  |  |  |  |  |  |  |  |
-
-4. Variación de resultados presupuestarios de ejercicios anteriores.
+3. Variación de resultados presupuestarios de ejercicios anteriores.
 
 Se informará de las variaciones de derechos a cobrar y obligaciones a pagar de presupuestos cerrados, que supongan la alteración de los importes calculados como resultados presupuestarios en ejercicios anteriores.
 
@@ -1709,7 +1681,7 @@ Para el cálculo de la variación de derechos a cobrar de presupuestos cerrados 
 
 Para el cálculo de la variación de obligaciones de presupuestos cerrados pendientes de pago, se tendrán en cuenta las modificaciones del saldo inicial, así como las anulaciones y prescripción de obligaciones producidas en el ejercicio, detalladas en la nota 19.2.1 de esta memoria.
 
-4. VARIACIÓN DE RESULTADOS PRESUPUESTARIOS DE EJERCICIOS ANTERIORES
+3. VARIACIÓN DE RESULTADOS PRESUPUESTARIOS DE EJERCICIOS ANTERIORES
 
 |  | TOTAL VARIACIÓN DERECHOS | TOTAL VARIACIÓN OBLIGACIONES | VARIACIÓN DE RESULTADOS PRESUPUESTARIOS DE EJERCICIOS ANTERIORES |
 | --- | --- | --- | --- |
@@ -1821,7 +1793,7 @@ ESTADO DEL REMANENTE DE TESORERÍA
 |  | 2. (+) Derechos pendientes de cobro |  | _______ |  | _______ |
 | 430 | - (+) del Presupuesto corriente | _______ |  | _______ |  |
 | 431 | - (+) de Presupuestos cerrados | _______ |  | _______ |  |
-| 440, 449, 456, 470, 471, 472, 550, 566 | - (+) de operaciones no presupuestarias | _______ |  | _______ |  |
+| 440, 449, 456, 470, 471, 472, 550, 5661 | - (+) de operaciones no presupuestarias | _______ |  | _______ |  |
 |  |  |  |  |  |  |
 |  | 3. ( - ) Obligaciones pendientes de pago |  | _______ |  | _______ |
 | 400 | - (+) del Presupuesto corriente | _______ |  | _______ |  |
@@ -1830,13 +1802,36 @@ ESTADO DEL REMANENTE DE TESORERÍA
 |  |  |  |  |  |  |
 |  | 4. (+) Partidas pendientes de aplicación |  |  |  |  |
 | 554, 559 | - (-) cobros realizados pendientes de aplicación definitiva | _______ |  | _______ |  |
-| 555, | - (+) pagos realizados pendientes de aplicación definitiva | _______ |  | _______ |  |
+| 555, 5582 | - (+) pagos realizados pendientes de aplicación definitiva | _______ |  | _______ |  |
 |  | I. Remanente de tesorería total (1 + 2 – 3 + 4) |  | _______ |  | _______ |
 |  | II. Exceso de financiación afectada |  | _______ |  | _______ |
 | 298, 490, 598 | III. Saldos de dudoso cobro |  | _______ |  | _______ |
 |  | IV. Remanente de tesorería no afectado = (I – II – III) |  | _______ |  | _______ |
 
-19.6 Gastos de Administración.
+19.6 Derechos presupuestarios pendientes de cobro según su grado de exigibilidad.
+
+Información sobre la situación de los derechos pendientes de cobro indicando tanto para los de presupuesto corriente como para los derivados de presupuestos cerrados:
+
+— Pendientes de notificar
+
+— Suspendidos
+
+— Aplazamiento o fraccionamiento solicitado
+
+— Aplazamiento o fraccionamiento concedido
+
+— En periodo voluntario
+
+— En periodo ejecutivo
+
+DERECHOS PRESUPUESTARIOS PENDIENTES DE COBRO SEGÚN SU GRADO DE EXIGIBILIDAD
+
+| APLICACIÓN PRESUPUESTARIA | DESCRIPCIÓN | PENDIENTES DE NOTIFICAR | SUSPENDIDOS | APLAZAMIENTO O FRACCIONAMIENTO | EN PERIODO VOLUNTARIO | EN PERIODO EJECUTIVO | TOTAL DERECHOS PENDIENTES DE COBRO |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| SOLICITADO | CONCEDIDO |
+|  |  |  |  |  |  |  |  |  |
+
+19.7 Gastos de Administración.
 
 Se dará información de los gastos de administración derivados de la gestión de AT y EP así como los correspondientes a la gestión de la prestación económica de IT derivada de contingencias comunes de los trabajadores al servicio de sus empresas asociadas.
 
@@ -1848,7 +1843,7 @@ GASTOS DE ADMINISTRACIÓN
 | 1. Gastos presupuestarios. 2. Gastos por amortizaciones. |  |  |  |
 | TOTAL |  |  |  |
 
-19.7 Prestaciones concedidas por la Comisión de prestaciones especiales.
+19.8 Prestaciones concedidas por la Comisión de prestaciones especiales.
 
 Se dará información sobre el tipo de prestación concedida y su importe.
 
@@ -1870,20 +1865,7 @@ ENUMERACIÓN Y JUSTIFICACIÓN DE LAS DOTACIONES Y APLICACIONES DE LAS RESERVAS, 
 |  |
 | --- |
 
-20.2 Materialización de la provisión para contingencias en tramitación y de las reservas, correspondientes al ejercicio anterior.
-
-Estado demostrativo de la materialización en el activo de la provisión para contingencias en tramitación y de las reservas, correspondientes al ejercicio anterior.
-
-MATERIALIZACIÓN DE LA PROVISIÓN PARA CONTINGENCIAS EN TRAMITACIÓN Y DE LAS RESERVAS CORRESPONDIENTES AL EJERCICIO ANTERIOR
-
-MUTUA: N º
-
-| RESERVA Y PROVISIÓN | SALDO A 31-12 | EFECTIVO Y ACTIVOS LÍQUIDOS EQUIVALENTES E IMPOSICIONES A PLAZO FIJO | EMISIONES PÚBLICAS CON VTO. NO SUPERIOR A UN AÑO | EMISIONES PRIVADAS CON VTO. NO SUPERIOR A UN AÑO | EMISIONES PÚBLICAS CON VTO. SUPERIOR A UN AÑO | EMISIONES PRIVADAS CON VTO. SUPERIOR A UN AÑO | INMOVILIZADO MATERIAL |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| % DE MATER. | IMPORTE | % DE MATER. | IMPORTE | % DE MATER. | IMPORTE | % DE MATER. | IMPORTE | % DE MATER. | IMPORTE | % DE MATER. | IMPORTE |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-20.3 Materialización del Fondo de prevención y rehabilitación correspondiente al ejercicio anterior.
+20.2 Materialización del Fondo de prevención y rehabilitación correspondiente al ejercicio anterior.
 
 MATERIALIZACIÓN DEL FONDO DE PREVENCIÓN Y REHABILITACIÓN CORRESPONDIENTE AL EJERCICIO ANTERIOR
 
@@ -1895,7 +1877,7 @@ MUTUA: N.º
 
 INMOVILIZADO FINANCIADO CON CARGO AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
 
-| PARTIDA DE BALANCE Y DISPONIBILIDADES LÍQUIDAS PENDIENTES DE INGRESO | DESCRIPCIÓN | SALDO INICIAL | ENTRADAS | AUMENTOS POR TRASPASOS DE OTRAS PARTIDAS | SALIDAS | DISMINUCIONES POR TRASPASOS DE OTRAS PARTIDAS | CORRECCIONES VALORATIVAS NETAS POR DETERIORO DEL EJERCICIO | AMORTIZACIONES DEL EJERCICIO | INCREMENTO POR REVALORIZACIÓN EN EL EJERCICIO | SALDO FINAL |
+| PARTIDA DE BALANCE | DESCRIPCIÓN | SALDO INICIAL | ENTRADAS | AUMENTOS POR TRASPASOS DE OTRAS PARTIDAS | SALIDAS | DISMINUCIONES POR TRASPASOS DE OTRAS PARTIDAS | CORRECCIONES VALORATIVAS NETAS POR DETERIORO DEL EJERCICIO | AMORTIZACIONES DEL EJERCICIO | INCREMENTO POR REVALORIZACIÓN EN EL EJERCICIO | SALDO FINAL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -1939,6 +1921,8 @@ TRANS.: Transferencias y subvenciones recibidas o concedidas.
 
 PS.: Prestación de servicios.
 
+PRESOC.: Prestaciones Sociales
+
 G. PERS.: Gastos de personal.
 
 APROV.: Aprovisionamientos.
@@ -1954,8 +1938,8 @@ APROV.: Aprovisionamientos.
 
 | GASTOS DE GESTIÓN ORDINARIA (GGOR) |
 | --- |
-| G. PERS. / GGOR | TRANFS / GGOR | APROV / GGOR | Resto GGOR / GGOR |
-|  |  |  |  |
+| PRESOC/GGOR | G. PERS./GGOR | TRANFS/GGOR | APROV / GGOR | Resto GGOR/GGOR |
+|  |  |  |  |  |
 
 3) Gasto por trabajador protegido derivado de contingencias profesionales. Recogerá el volumen de gastos de gestión ordinaria de contingencias profesionales, recogido en la Cuenta del Resultado económico patrimonial por contingencias profesionales del apartado 16 de esta Memoria, en relación con el número de trabajadores protegido por esa contingencia.
 
@@ -2089,7 +2073,7 @@ c) De presupuestos cerrados:
 
 2 Previsión Social de Funcionarios.- Coste que para una entidad supondrían las aportaciones que como empleador debería realizar por los funcionarios no sujetos a régimen de Seguridad Social para cubrir tanto las necesidades asistenciales como de pensiones futuras.
 
-2) RESUMEN DE COSTES POR ACTIVIDAD-ACTIVIDADES QUE IMPLICAN LA OBTENCIÓN DE TASAS Y PRECIOS PÚBLICOS.
+2) RESUMEN DEL COSTE POR ELEMENTOS DE LAS ACTIVIDADES QUE IMPLICAN LA OBTENCIÓN DE TASAS Y PRECIOS PÚBLICOS.
 
 ACTIVIDAD…………………………………………… FECHA…………………...
 
@@ -2217,15 +2201,15 @@ c)
 
 Unidad Equivalente de Producción: Parámetro que hace homogénea la producción de un determinado periodo mediante la adición de las unidades totalmente terminadas en el mismo y las incompletas expresadas en términos de unidades terminadas en función de su grado de avance.
 
-3. Indicador de economía:
-
-![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAY0AAAAqCAYAAABPyQczAAAFh0lEQVR4nO2aUZIcKQxE+/6Xsm9W/nK4ByMpU4gCqvJFENMDQhIgyGnvfj5CCCHE4VyrExDbwdZEpoZW1t311cR7Oer8L6CJM1h5Xk+vlRnru5rPT9i/09exc/7b5WYltF2iD2Dmfq7+q/mJzLoDrWjM8n03p9fBjvlv+Q5HorFdwgcj0TiLWetSHezJjvnvmJMrDBKNWvRYiM9HdbArp+d/G8w3jasZs+yZby6IaLHiVTEv4xcdY/cOyYWNifquiu3VTts/q4bQOe08z7cXI/KZ+YY/s8ai/Y/iVdVgb18t31a+6HotO6ROe36iOJEvLz/LBsnB8omcoenEcmz1tZ89n73x3s+eTdQ3a170e9uHFASSG3rwbCymoCI/7Jy2L7pcTFymhpC6a/Po/d6Lb8W0/Ecxe3aZekL7vPvdY3YNIm8K+h5ZuUS5RQ816rf3+w41iNxJdzKiOMgm9vxaY9Z8plhnjUVF2M7NFCoSG7FnYmX2gYk9y4bNLVN3PRuvn7kjmXmZXEfuEvpwzKzBCv+R3xH/kR9EvHaowW9/lGBYiXi2XmBUfCK/O4hGZi7rJ7Nv6IObOY+dRcOb1xsbebxPEQ3E9yrRGHkTThYNNBfP5m7RoKkSDWZOZHOqaPz9nSlK9tCYC5vFuuCrReM7N2+uNz+yWSUabRx07yPfq0Ujg0TjHtHwYpVNkmjYY4gg7C4aUc4rRSPau9NFI7v3kW+Jxv9jEo2fdvRZjYpG1F/xQKwaQ4rDsxk54NF+dr41tqtoZOyRPFaKhteXPfdVosHYVfrfQTSYODvU4DLR8BaZKezZF7IdH82R8YEc2MjjPtvvqA1yIZD1jNhbeVi5rKhRtr6++5D9RvosZtUg6tvzM7uOr87n3pyTahDSgctoqD3iL5rL+kTJzEPmeDZtITHrYc7Bm2MVwh1+2di9saiGWhvLjxcjmoPaRH4Rn+y+juQ9467dWYNsvpm9Yut0JI8dapDJRYjbUTEKFNWKEEIPgYBRrQgh9BAIGNWKEC9G/14qGFQvQgghhBBCCPEafqmpqampqTntB7/V1NTU1NScJoQQQgghhBDiCK7VCRSy41qYnK6P/jfNVWjPxdZcQBM+d+8TG489y6v5rBq4hzfeubet91FYh6dDxbh7jzLxsqJRjerJ523787b1PoZINHSwPk8VjRmolnzetj9vW+9j8IRBohEj0cBRLfm8bX/ett7HwHzTuJoxy5755oKIVubf8r35IzG9//Yzay1sTr3x0RitHTvu+UdjfwKbni90bUw+vfpCGD0nL35lffd8IGtl6iNby2IDokts9bWfPZ+98d7Pnk3U17Nh1uT5R+xnr8XLJ2uDxmPjRr6yfV7tWURn582L/GT2uOqcZtd3b58rai67fgnHhvTUP/orBOlH/pqw5kd/zUSMPE49G++RyjyeI2NMzkicTMy2D8mhZ8esP/N4RGeHxP32E9nM8Mv4ivqq7iK7H0hdjd55cSPMpYoeVVR8Ir8rRCO7jpWigea7QjQQP3eJBmuf2c9oLbPPabS+LT8V902i8TCqRIOZE9msFA027g6iETEqGm28qsdutmj8ncfkV1lfFX5H4lfUyojoRj4kGoci0fj3WaJh93vr2lU0rq+f6D5JNPicsvUh0TiUUdGI+jMFs0I0PN/oOhif2TEmZyROJibqv3Jv2Icj82B6caL1Rv5nn9NofVfOQcZRm2hMLKDqQnnfQjKPR+Zijvrz1sH4yOaTmRfljMby7DJ/xaL7WH32lv3ot40K0Zh5TrNqper+Vt4dsYjLaKg94i+ay/pEiOJ4fdE6rHFkHzNr8eIhOaPnm8mfPUvPpnLvsrl58bK1hPrN3sNMTjPuqeUXvTuejRBCCCGEEEIIIYQQYpw/JCz3TRVx7pkAAAAASUVORK5CYII=)
-
-1 Para determinar el «coste» tanto en este como en los posteriores indicadores se tendrá en cuenta lo establecido en el documento «Contabilidad Analítica en las Administraciones Públicas» (IGAE 2004).
+1Para determinar el «coste» tanto en este como en los posteriores indicadores se tendrá en cuenta lo establecido en el documento «Principios generales de Contabilidad Analítica de las Administraciones Públicas». (IGAE 2004).
 
 2 Ejemplo: Coste de impartición de una asignatura relacionado con el número de alumnos matriculados en esa asignatura en una Universidad.
 
 3 En caso de que no se hayan desarrollado sistemas de determinación de costes «a priori» en el momento de confeccionar estos indicadores, se considerará como coste previsto de la actividad el coste medio de la misma en los cinco años anteriores (convenientemente actualizado).
+
+3. Indicador de economía:
+
+![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAY0AAAAqCAYAAABPyQczAAAFh0lEQVR4nO2aUZIcKQxE+/6Xsm9W/nK4ByMpU4gCqvJFENMDQhIgyGnvfj5CCCHE4VyrExDbwdZEpoZW1t311cR7Oer8L6CJM1h5Xk+vlRnru5rPT9i/09exc/7b5WYltF2iD2Dmfq7+q/mJzLoDrWjM8n03p9fBjvlv+Q5HorFdwgcj0TiLWetSHezJjvnvmJMrDBKNWvRYiM9HdbArp+d/G8w3jasZs+yZby6IaLHiVTEv4xcdY/cOyYWNifquiu3VTts/q4bQOe08z7cXI/KZ+YY/s8ai/Y/iVdVgb18t31a+6HotO6ROe36iOJEvLz/LBsnB8omcoenEcmz1tZ89n73x3s+eTdQ3a170e9uHFASSG3rwbCymoCI/7Jy2L7pcTFymhpC6a/Po/d6Lb8W0/Ecxe3aZekL7vPvdY3YNIm8K+h5ZuUS5RQ816rf3+w41iNxJdzKiOMgm9vxaY9Z8plhnjUVF2M7NFCoSG7FnYmX2gYk9y4bNLVN3PRuvn7kjmXmZXEfuEvpwzKzBCv+R3xH/kR9EvHaowW9/lGBYiXi2XmBUfCK/O4hGZi7rJ7Nv6IObOY+dRcOb1xsbebxPEQ3E9yrRGHkTThYNNBfP5m7RoKkSDWZOZHOqaPz9nSlK9tCYC5vFuuCrReM7N2+uNz+yWSUabRx07yPfq0Ujg0TjHtHwYpVNkmjYY4gg7C4aUc4rRSPau9NFI7v3kW+Jxv9jEo2fdvRZjYpG1F/xQKwaQ4rDsxk54NF+dr41tqtoZOyRPFaKhteXPfdVosHYVfrfQTSYODvU4DLR8BaZKezZF7IdH82R8YEc2MjjPtvvqA1yIZD1jNhbeVi5rKhRtr6++5D9RvosZtUg6tvzM7uOr87n3pyTahDSgctoqD3iL5rL+kTJzEPmeDZtITHrYc7Bm2MVwh1+2di9saiGWhvLjxcjmoPaRH4Rn+y+juQ9467dWYNsvpm9Yut0JI8dapDJRYjbUTEKFNWKEEIPgYBRrQgh9BAIGNWKEC9G/14qGFQvQgghhBBCCPEafqmpqampqTntB7/V1NTU1NScJoQQQgghhBDiCK7VCRSy41qYnK6P/jfNVWjPxdZcQBM+d+8TG489y6v5rBq4hzfeubet91FYh6dDxbh7jzLxsqJRjerJ523787b1PoZINHSwPk8VjRmolnzetj9vW+9j8IRBohEj0cBRLfm8bX/ett7HwHzTuJoxy5755oKIVubf8r35IzG9//Yzay1sTr3x0RitHTvu+UdjfwKbni90bUw+vfpCGD0nL35lffd8IGtl6iNby2IDokts9bWfPZ+98d7Pnk3U17Nh1uT5R+xnr8XLJ2uDxmPjRr6yfV7tWURn582L/GT2uOqcZtd3b58rai67fgnHhvTUP/orBOlH/pqw5kd/zUSMPE49G++RyjyeI2NMzkicTMy2D8mhZ8esP/N4RGeHxP32E9nM8Mv4ivqq7iK7H0hdjd55cSPMpYoeVVR8Ir8rRCO7jpWigea7QjQQP3eJBmuf2c9oLbPPabS+LT8V902i8TCqRIOZE9msFA027g6iETEqGm28qsdutmj8ncfkV1lfFX5H4lfUyojoRj4kGoci0fj3WaJh93vr2lU0rq+f6D5JNPicsvUh0TiUUdGI+jMFs0I0PN/oOhif2TEmZyROJibqv3Jv2Icj82B6caL1Rv5nn9NofVfOQcZRm2hMLKDqQnnfQjKPR+Zijvrz1sH4yOaTmRfljMby7DJ/xaL7WH32lv3ot40K0Zh5TrNqper+Vt4dsYjLaKg94i+ay/pEiOJ4fdE6rHFkHzNr8eIhOaPnm8mfPUvPpnLvsrl58bK1hPrN3sNMTjPuqeUXvTuejRBCCCGEEEIIIYQQYpw/JCz3TRVx7pkAAAAASUVORK5CYII=)
 
 En caso de que no se disponga de información de costes de los años anteriores para confeccionar la información anterior se considerará como «coste previsto» el derivado de la asignación presupuestaria referido a la actividad o servicio con los correspondientes ajustes que determinen una homogeneización de los importes presupuestarios respecto a los determinantes del coste.
 
@@ -2412,3 +2396,7 @@ IV. Ingresos por operaciones internas con el patrimonio privativo
 | --- | --- |
 | COBRADOS | PENDIENTES DE COBRO | TOTAL |
 |  |  |  |  |
+
+> Se modifica por la disposición única.dos a cuatro de la Resolución de 9 de mayo de 2012. Ref. BOE-A-2012-6329
+
+> Esta modificación será aplicable a la formación y rendición de las cuentas anuales correspondientes al ejercicio 2011 y siguientes.

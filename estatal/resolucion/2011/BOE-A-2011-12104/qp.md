@@ -1578,7 +1578,7 @@ Su movimiento es el siguiente:
 
 a) Se abonará, a la adquisición o suscripción de las participaciones, por el importe pendiente de desembolsar, con cargo a la cuenta 250 «Inversiones financieras a largo plazo en instrumentos de patrimonio».
 
-b) Se cargará, por los desembolsos que se vayan exigiendo, con abono, generalmente, a la cuenta 549 «Desembolsos pendientes sobre participaciones en el patrimonio neto a corto plazo», o a la cuenta 250 «Inversiones financieras a largo plazo en instrumentos de patrimonio», cuando se enajenen las participaciones no desembolsadas totalmente.
+b) Se cargará, por los desembolsos que se vayan exigiendo, con abono, generalmente, a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corrientes», o a la cuenta 250 «Inversiones financieras a largo plazo en instrumentos de patrimonio», cuando se enajenen las participaciones no desembolsadas totalmente.
 
 26. Fianzas y depósitos constituidos a largo plazo.
 
@@ -2138,7 +2138,7 @@ Obligaciones a pagar a cargo de la entidad como consecuencia de la ejecución de
 
 Obligaciones reconocidas durante el periodo de vigencia del presupuesto con cargo a los créditos figurados en el mismo.
 
-Funcionará a través de sus divisionarias atendiendo al origen o naturaleza de las obligaciones, y dentro de éstas a la fase en que se encuentren.
+Funcionará a través de sus divisionarias atendiendo al origen o naturaleza de las obligaciones, de acuerdo con lo establecido en las normas de elaboración de las cuentas anuales, y dentro de éstas divisionarias, ateniendo a la fase en que se encuentren.
 
 Figurará en el pasivo corriente del balance, en el epígrafe IV «Acreedores y otras cuentas a pagar», salvo la subcuenta 4003 «Otras deudas», que figurará en el epígrafe II «Deudas a corto plazo».
 
@@ -2446,7 +2446,7 @@ Derechos reconocidos a favor de la entidad como consecuencia de la ejecución de
 
 Cuenta deudora que recoge los derechos reconocidos durante el periodo de vigencia del presupuesto e imputados al mismo.
 
-Funcionará a través de sus divisionarias, atendiendo al origen o a la naturaleza de los derechos.
+Funcionará a través de sus divisionarias, atendiendo al origen o a la naturaleza de los derecho, de acuerdo con lo establecido en las normas de elaboración de las cuentas anuales.
 
 Su movimiento es el siguiente:
 
@@ -3870,7 +3870,7 @@ Su movimiento es el siguiente:
 
 a) Se cargará con abono a:
 
-a.1) La cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», a la suscripción o compra de los valores, por el importe de los dividendos acordados con vencimiento en ejercicio posterior.
+a.1) La cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», a la suscripción o compra de los valores, por el importe de los dividendos acordados cuyo vencimiento no sea superior a un año.
 
 a.2) La cuenta 760 «Ingresos de participaciones en el patrimonio neto», por el importe devengado.
 
@@ -3886,7 +3886,7 @@ Su movimiento es el siguiente:
 
 a) Se cargará con abono a:
 
-a.1) La cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente» o a las cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» si la operación la efectúa el patrimonio privativo de las MATEPSS, a la suscripción o compra de los valores, por el importe de los intereses devengados con vencimiento en el ejercicio posterior.
+a.1) La cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente» o a las cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» si la operación la efectúa el patrimonio privativo de las MATEPSS, a la suscripción o compra de los valores, por el importe de los intereses devengados cuyo vencimiento no sea superior a un año.
 
 a.2) La cuenta 761 «Ingresos de valores representativos de deuda», por los intereses devengados.
 
@@ -4843,6 +4843,8 @@ b) Se cargará con abono a la subcuenta 5400 «Inversiones a corto plazo en inst
 597. Deterioro de valor de valores representativos de deuda a corto plazo.
 
 Correcciones valorativas por deterioro del valor de inversiones a corto plazo en valores representativos de deuda.
+
+Funcionará a través de sus divisionarias.
 
 Su movimiento es el siguiente:
 
@@ -6094,7 +6096,7 @@ Su movimiento es análogo al señalado para la cuenta 750 «Transferencias».
 
 Ingresos a favor de la entidad, devengados en el ejercicio, procedentes de participaciones en el patrimonio neto de entidades.
 
-Se abonará, por el importe de los dividendos a percibir, con cargo a la cuenta 430 «Deudores por derechos reconocidos. Presupuesto de ingresos corriente» o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» si la operación la realiza el patrimonio privativo de las MATEPSS, por los dividendos con vencimiento en el ejercicio, y a la cuenta 545 «Dividendo a cobrar», por los dividendos con vencimiento en ejercicio posterior.
+Se abonará, por el importe de los dividendos a percibir, con cargo a la cuenta 430 «Deudores por derechos reconocidos. Presupuesto de ingresos corriente» o a las cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» si la operación la realiza el patrimonio privativo de las MATEPSS, por los dividendos vencidos, y a la cuenta 545 «Dividendo a cobrar», por los dividendos no vencidos y con vencimiento no superior a un año.
 
 761. Ingresos de valores representativos de deuda.
 
@@ -6704,19 +6706,15 @@ b) Al cierre del cierre del ejercicio, se abonará con cargo a las correspondien
 
 8421. Del resto de entidades.
 
-840/841/842. Imputación de…
+840/841/842. Imputación de subvenciones…
 
-Cuentas que recogen la transferencia a la cuenta del resultado económico patrimonial de las subvenciones recibidas que han sido imputadas previamente al patrimonio neto. Asimismo, se registrará, a través de la cuenta 840 «Imputación de subvenciones para la financiación del inmovilizado no financiero y de activos en estado de venta», la reversión anticipada de activos cedidos en uso de forma gratuita, o recibidos como subvención, por un periodo de cesión indefinido o similar a la vida económica del bien.
+Cuentas que recogen la transferencia a la cuenta del resultado económico patrimonial de las subvenciones recibidas que han sido imputadas previamente al patrimonio neto.
 
 Funcionará a través de sus divisionarias.
 
 Su movimiento es el siguiente:
 
-a) Se cargarán:
-
-a.1) En el momento de la imputación a la cuenta del resultado económico patrimonial de la subvención recibida, con abono a la correlativa cuenta del subgrupo 75 «Transferencias y subvenciones».
-
-a.2) En el caso de la cuenta 840 «Imputación de subvenciones para la financiación del inmovilizado no financiero y de activos en estado de venta», en el momento de la reversión anticipada de un activo cedido de forma gratuita o recibido como subvención, cuando el periodo de cesión sea indefinido o similar a la vida económica del bien, con abono a la cuenta representativa del bien.
+a) Se cargarán en el momento de la imputación a la cuenta del resultado económico patrimonial de la subvención recibida, con abono a la correlativa cuenta del subgrupo 75 "Transferencias y subvenciones".
 
 b) Se abonarán, al cierre de ejercicio, con cargo a la correlativa cuenta del subgrupo 13 «Subvenciones y ajustes por cambio de valor».
 
@@ -7113,3 +7111,7 @@ b) Se abonará con cargo a la cuenta 000 «Presupuesto ejercicio corriente», en
 Su saldo, deudor, recogerá, antes del cierre, las previsiones definitivas de ingresos.
 
 Nota: Las rectificaciones a todas estas cuentas de control presupuestario se efectuarán mediante asientos análogos a los descritos, pero de signo contrario, al objeto de no desvirtuar el significado de las sumas del debe y del haber de las cuentas.
+
+> Se modifica por la disposición única.seis de la Resolución de 9 de mayo de 2012. Ref. BOE-A-2012-6329
+
+> Esta modificación será aplicable a la formación y rendición de las cuentas anuales correspondientes al ejercicio 2011 y siguientes.

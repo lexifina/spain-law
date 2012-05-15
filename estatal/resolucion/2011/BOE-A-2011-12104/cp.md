@@ -1032,6 +1032,10 @@
 
 597. Deterioro de valor de valores representativos de deuda a corto plazo.
 
+5970 Deterioro de valor de valores mantenidos al vencimiento.
+
+5971 Deterioro de valor de valores disponibles para la venta.
+
 598. Deterioro de valor de créditos a corto plazo.
 
 ## Grupo 6. Compras y gastos por naturaleza
@@ -1885,3 +1889,7 @@
 007. Presupuesto de ingresos: modificaciones de previsiones.
 
 008. Presupuesto de ingresos: previsiones definitivas.
+
+> Se modifica la cuenta 597 por la disposición única.cinco de la Resolución de 9 de mayo de 2012. Ref. BOE-A-2012-6329
+
+> Esta modificación será aplicable a la formación y rendición de las cuentas anuales correspondientes al ejercicio 2011 y siguientes.

@@ -1172,8 +1172,6 @@ Las subvenciones tienen por objeto una entrega dineraria o en especie entre los 
 
 Las transferencias y subvenciones suponen un aumento del patrimonio neto del beneficiario de las mismas y, simultáneamente, una correlativa disminución del patrimonio neto del concedente.
 
-En el caso de que existan dudas sobre el cumplimiento de las condiciones y requisitos asociados al disfrute de una subvención, ésta tendrá la consideración de reintegrable y la operación se tratará como un pasivo y un activo en la entidad beneficiaria y en la aportante, respectivamente.
-
 2. Reconocimiento.
 
 a) Transferencias y subvenciones concedidas.
@@ -1184,13 +1182,25 @@ Cuando al cierre del ejercicio esté pendiente el cumplimiento de alguna de las 
 
 En el caso de deudas asumidas de otros entes, la entidad que asume la deuda deberá reconocer la subvención concedida en el momento en que entre en vigor la norma o el acuerdo de asunción, registrando como contrapartida el pasivo surgido como consecuencia de esta operación.
 
+En el caso de entrega de activos la entidad deberá reconocer la transferencia o subvención concedida en el momento de la entrega al beneficiario.
+
 b) Transferencias y subvenciones recibidas.
 
 Las transferencias y subvenciones recibidas se reconocerán como ingresos por el ente beneficiario cuando exista un acuerdo individualizado de concesión de la transferencia o subvención a favor de dicho ente y se hayan cumplido las condiciones asociadas a su disfrute y no existan dudas razonables sobre su percepción, sin perjuicio de la imputación presupuestaria de las mismas, que se efectuará de acuerdo con los criterios recogidos en la primera parte de este texto relativa al marco conceptual de la contabilidad de las entidades que integran el Sistema de la Seguridad Social.
 
-Cuando el cumplimiento de las condiciones asociadas a su disfrute, referidas en el párrafo anterior, se extienda a varios ejercicios, se presumirá el mismo, siempre que así sea en el momento de la elaboración de las cuentas anuales de cada uno de los ejercicios a los que afecte. Asimismo, en el caso de subvenciones para la ejecución de obras, cuando las condiciones asociadas al disfrute exijan la finalización de las mismas y su puesta en condiciones de funcionamiento, y la ejecución se realice en varios ejercicios, se considerará no reintegrable la subvención en proporción a la obra ejecutada hasta el momento de la elaboración de las cuentas anuales, siempre que no existan dudas razonables de la terminación de la misma, tal y como se establezca en el correspondiente acuerdo de concesión.
+Las subvenciones recibidas que no cumplan los requisitos establecidos en el párrafo anterior se considerarán subvenciones reintegrables y se reconocerán como pasivo.
+
+A los exclusivos efectos de su registro contable, se entenderán cumplidas las condiciones asociadas al disfrute de la subvención en los siguientes casos:
+
+– Cuando el cumplimiento de las condiciones asociadas a su disfrute se extienda a varios ejercicios, se presumirá el cumplimiento, una vez adquirido el activo o realizado el gasto, si en el momento de la elaboración de las cuentas anuales de cada uno de los ejercicios a los que afecte, se está cumpliendo y no existen dudas razonables sobre el cumplimiento de las condiciones que afecten a los ejercicios posteriores.
+
+– En el caso de subvenciones para la construcción de activos, cuando las condiciones asociadas al disfrute exijan su finalización y puesta en condiciones de funcionamiento y su ejecución se realice en varios ejercicios, se entenderán cumplidas las condiciones siempre que en el momento de elaboración de las cuentas anuales no existen dudas razonables de que se vayan a cumplir. En este caso, la subvención se considerará no reintegrable en proporción a la obra ejecutada.
+
+Este mismo tratamiento se aplicará a las subvenciones para gastos corrientes de ejecución plurianual cuando se exija la finalización de las actividades subvencionadas.
 
 En el caso de deudas asumidas por otros entes, la entidad cuya deuda ha sido asumida deberá reconocer la subvención recibida en el momento en que entre en vigor la norma o el acuerdo de asunción, registrando simultáneamente la cancelación del pasivo asumido.
+
+En el caso de transferencias y subvenciones de activos se reconocerán como ingreso en el momento de la recepción del activo, o como pasivo si se trata de una subvención reintegrable.
 
 Las transferencias y subvenciones recibidas deberán imputarse a resultados de acuerdo con los criterios que se detallan a continuación, que serán aplicables tanto a las de carácter monetario como a las de carácter no monetario o en especie.
 
@@ -1323,3 +1333,7 @@ Los hechos posteriores que pongan de manifiesto condiciones que ya existían al 
 Los hechos posteriores al cierre del ejercicio que pongan de manifiesto condiciones que no existían al cierre del mismo, no supondrán un ajuste en las cuentas anuales. No obstante, cuando los hechos sean de tal importancia que si no se facilitara información al respecto podría distorsionarse la capacidad de evaluación de los usuarios de las cuentas anuales, se deberá incluir en la memoria información respecto a la naturaleza del hecho posterior conjuntamente con una estimación de su efecto o, en su caso, una manifestación acerca de la imposibilidad de realizar dicha estimación.
 
 En todo caso deberá incluirse información sobre los hechos posteriores que afecte a la aplicación del principio de gestión continuada.
+
+> Se modifica la norma de reconocimiento y valoración 15.ª por la disposición única.uno de la Resolución de 9 de mayo de 2012. Ref. BOE-A-2012-6329
+
+> Esta modificación será aplicable a la formación y rendición de las cuentas anuales correspondientes al ejercicio 2011 y siguientes.
