@@ -2,59 +2,73 @@
 
 | Misión | Porcentaje del complemento de productividad | Porcentaje de indemnización por residencia | % de sueldo, C. de destino y Comp. Gral. del C. específico |
 | --- | --- | --- | --- |
-| Bosnia-Herzegovina: |  |  |  |
+| Bosnia-Herzegovina: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta según RD 462/2002. | 55 % |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta según RD 462/2002. | 80 % |
-| Servia y Montenegro, Macedonia: |  |  |  |
+| Servia y Montenegro, Macedonia: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 65 % de la dieta del resto del mundo. | 55 % |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta del resto del mundo. | 80 % |
-| Haití: |  |  |  |
+| Haití: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta según RD 462/2002. | 55 % |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta según RD 462/2002. | 80 % |
-| Timor: |  |  |  |
+| Timor: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 65 % de la dieta del resto del mundo. | 55 % |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta del resto del mundo. | 80 % |
-| Afganistán: |  |  |  |
+| Afganistán: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales | 80 % | 65 % de la dieta del resto del mundo. | 55 % |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta del resto del mundo. | 80 % |
-| Sudán: |  |  |  |
+| Sudán: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 65 % de la dieta del resto del mundo. | 55 % |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta del resto del mundo. | 80 % |
-| Israel (Misión UE policía Palestina): |  |  |  |
+| Israel (Misión UE policía Palestina): |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 65 % de la dieta según RD 462/2002. | 55 % |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta según RD 462/2002. | 80 % |
-| Congo: |  |  |  |
+| Congo: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, según R. D. 462/2002. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, según R. D. 462/2002. | 80 |
-| Sierra Leona: |  |  |  |
+| Sierra Leona: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta de resto del mundo. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta de resto del mundo. | 80 |
-| Mauritania: |  |  |  |
+| Mauritania: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta según R. D. 462/2002. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta según R. D. 462/2002. | 80 |
-| Senegal: |  |  |  |
+| Senegal: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta según R. D. 462/2002. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta según R. D. 462/2002. | 80 |
-| Cabo Verde: |  |  |  |
+| Cabo Verde: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta de resto del mundo. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta de resto del mundo. | 80 |
-| Gambia: |  |  |  |
+| Gambia: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta de resto del mundo. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta de resto del mundo. | 80 |
-| Líbano: |  |  |  |
-| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, según R. D. 46 2/2002. | 55 |
+| Líbano: |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, según R. D. 462/2002. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, según R. D. 462/2002. | 80 |
-| Georgia: |  |  |  |
+| Georgia: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta de resto del mundo. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta de resto del mundo. | 80 |
-| Guatemala: |  |  |  |
+| Guatemala: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta según R. D. 462/2002. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta según R. D. 462/2002. | 80 |
-| Costa de Marfil: |  |  |  |
+| Costa de Marfil: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta según R. D. 462/2002. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta según R. D. 462/2002. | 80 |
-| Guinea Bissau: |  |  |  |
+| Guinea Bissau: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta de resto del mundo. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta de resto del mundo. | 80 |
+| Mali: |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta de resto del mundo, según R.D. 462/2002 de 24 de mayo. | 55 |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta de resto del mundo, según R.D. 462/2002 de 24 de mayo. | 80 |
+| Níger |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta de resto del mundo, según R.D. 462/2002 de 24 de mayo. | 55 |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta de resto del mundo, según R.D. 462/2002 de 24 de mayo. | 80 |
+| Libia |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, según R.D. 462/2002 de 24 de mayo. | 55 |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, según R.D. 462/2002 de 24 de mayo. | 80 |
+| Irak |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, según R.D. 462/2002 de 24 de mayo. | 55 |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, según R.D. 462/2002 de 24 de mayo. | 80 |
+
+> Se modifica por el apartado único.2 de la Orden INT/995/2012, de 27 de abril. Ref. BOE-A-2012-6367.
 
 > Se modifica por el apartado único.2 de la Orden INT/537/2009, de 2 de marzo. Ref. BOE-A-2009-3904

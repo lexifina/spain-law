@@ -24,4 +24,14 @@ Costa de Marfil: 14 de septiembre de 2008.
 
 Guinea Bissau: 2 de noviembre de 2008.
 
+Malí: 15 de octubre de 2011.
+
+Níger: 4 de mayo de 2012.
+
+Libia: 15 de enero de 2012.
+
+Irak: 7 de marzo de 2012.
+
+> Se modifica por el apartado único.1 de la Orden INT/995/2012, de 27 de abril. Ref. BOE-A-2012-6367.
+
 > Se modifica por el apartado único.1 de la Orden INT/537/2009, de 2 de marzo. Ref. BOE-A-2009-3904.
