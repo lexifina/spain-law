@@ -522,9 +522,39 @@ g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, re
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
-## Dirección General de la Policía y de la Guardia Civil.
+14. FICHERO: PATRONATO.
 
-## Ámbito del Cuerpo Nacional de Policía.
+a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+
+a.1) Identificación del fichero: Patronato.
+
+a.2) Finalidad: Gestión de la contabilidad y financiación de las viviendas que se integraban en el Patronato de viviendas de la Guardia Civil.
+
+a.3) Usos previstos: Gestión administrativa.
+
+b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+
+b.1) Colectivo: Personas y empresas que tengan relaciones con el extinto Patronato de Viviendas de la Guardia Civil.
+
+b.2) Procedencia y procedimiento de recogida: Aportados a través de formularios por los propios interesados.
+
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+
+c.1) Descripción de los datos: Datos de identificación personal (nombre, apellidos, domicilio) y datos económico-financiero, incluyendo, en su caso, datos sobre créditos.
+
+c.2) Sistema de tratamiento: Automatizado.
+
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: A la Administración Tributaria, en virtud de la Ley 40/1998, de 9 de diciembre, del Impuesto de la Renta de las Personas Físicas.
+
+e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
+
+f) Órgano responsable del fichero: Comisión liquidadora del Patronato de Viviendas de la Guardia Civil. Subdirección General de Planificación y Gestión de Infraestructuras y Medios para la Seguridad.
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Comisión Liquidadora del Patronato de Viviendas de la Guardia Civil. Calle Chile, 18. Madrid.
+
+h) Nivel básico, medio o alto de seguridad que resulte exigible: Medio.
+
+## Dirección General de la Policía.
 
 1. FICHERO: ACCESOS EDIFICIOS POLICIALES.
 
@@ -1970,43 +2000,41 @@ g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, re
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
-## Dirección General de la Policía y de la Guardia Civil.
+## Dirección General de la Guardia Civil.
 
-## Ámbito de la Guardia Civil.
-
-1. FICHERO: Acuartelamientos.
+1. FICHERO: ACUARTELAMIENTOS.
 
 a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
 
 a.1) Identificación del fichero: Acuartelamientos.
 
-a.2) Finalidad: Gestión y control de los inmuebles y de los pabellones de la Guardia Civil.
+a.2) Finalidad: Gestión y control de aspectos no económicos de los inmuebles y de los pabellones de la Guardia Civil.
 
 a.3) Usos previstos: Administrativo.
 
 b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
 
-b.1) Colectivo: Personal del Cuerpo, arrendadores de inmuebles para la Dirección General de la Policía y de la Guardia Civil (ámbito Guardia Civil).
+b.1) Colectivo: Titular del derecho de adjudicación a quien le ha sido cedido en uso alguno de los pabellones de la Guardia Civil. Personas físicas o jurídicas que oferten o mantengan contratos administrativos o privados con la Dirección General de Guardia Civil.
 
-b.2) Procedencia y procedimiento de recogida: Del propio interesado y de los contratos de obras o arrendamientos, en soporte papel.
+b.2) Procedencia y procedimiento de recogida: Del propio interesado y de los contratos administrativos o privados, en soporte papel.
 
 c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
 
 c.1) Descripción de los datos:
 
-Datos de carácter identificativo: DNI/NIF, nombre y apellidos, dirección postal y teléfono.
+Datos de carácter identificativo: DNI/NIF, nombre y apellidos, dirección postal, teléfono y correo electrónico.
 
-Datos de detalle de empleo.
+Datos de detalle de empleo: Cuerpo/Escala, Categoría/Grado, Puesto de trabajo.
 
-c.2) Sistema de tratamiento: Automatizado.
+c.2) Sistema de tratamiento: Parcialmente automatizado.
 
 d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé comunicación de datos.
 
 e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
 
-f) Órgano responsable del fichero: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil), c/ Guzmán el Bueno, 110, 28003 Madrid.
+f) Órgano responsable del fichero: Dirección General de Guardia Civil, calle Guzmán el Bueno, 110, 28003 Madrid.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil) - Jefatura de los Servicios de Apoyo, c/ Guzmán el Bueno, 110, 28003 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de Guardia Civil - Jefatura de los Servicios de Apoyo, calle Guzmán el Bueno, 110, 28003 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
@@ -2766,39 +2794,9 @@ h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
 20. FICHERO: SEDEX.
 
-a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+(Suprimido)
 
-a.1) Identificación del fichero: SEDEX.
-
-a.2) Finalidad: Posibilitar consultas sobre incidencias atendidas por los distintos Equipos de Desactivación de Explosivos, así como sobre el diseño y efecto de los artefactos empleados en dichas incidencias.
-
-a.3) Usos previstos: Investigación policial.
-
-b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
-
-b.1) Colectivo: Personas implicadas o afectados por atentados, accidentes o incidencias vinculadas con artefactos. Miembros de los equipos especializados que hayan intervenido en las incidencias. Personas que avisan de objetos sospechosos.
-
-b.2) Procedencia y procedimiento de recogida: Grabación de los partes de incidencias elaborados y remitidos por los Equipos de Desactivación de Explosivos de la Guardia Civil, del Cuerpo Nacional de Policía, de la Policía Autónoma Vasca y otros organismos o instituciones tanto nacionales como extranjeras.
-
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
-
-c.1) Descripción de los datos:
-
-Datos de carácter identificativo: DNI/NIF, nombre y apellidos, y otros documentos identificativos.
-
-Datos de detalle del empleo.
-
-c.2) Sistema de tratamiento: Automatizado.
-
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé comunicación de datos.
-
-e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
-
-f) Órgano responsable del fichero: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil), C/ Guzmán el Bueno, 110, 28003 Madrid.
-
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil) - Jefatura de Unidades Especiales y de Reserva, C/ Guzmán el Bueno, 110, 28003 Madrid.
-
-h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+Destino de los datos: Destrucción.
 
 21. FICHERO: TARJETAS DE IDENTIFICACIÓN.
 
@@ -3700,19 +3698,19 @@ g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, re
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
-43. FICHERO: HELICÓPTEROS.
+43. FICHERO: AÉREO.
 
 a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
 
-a.1) Identificación del fichero: Helicópteros.
+a.1) Identificación del fichero: Aéreo.
 
-a.2) Finalidad: Control administrativo y técnico del material y horas de vuelo del personal del Servicio Aéreo de la Guardia Civil.
+a.2) Finalidad: Control administrativo y técnico del material del Servicio Aéreo de la Guardia Civil y del personal que vuele en sus aeronaves.
 
 a.3) Usos previstos: Administrativo.
 
 b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
 
-b.1) Colectivo: Personal de vuelo destinado en el Servicio Aéreo de la Guardia Civil.
+b.1) Colectivo: Personal que vuele en aeronaves del Servicio Aéreo de la Guardia Civil.
 
 b.2) Procedencia y procedimiento de recogida: Grabación de los datos recogidos en las fichas de vuelo suministrados por el propio interesado.
 
@@ -3722,19 +3720,19 @@ c.1) Descripción de los datos:
 
 Datos de carácter identificativo: DNI/NIF, nombre y apellidos.
 
-Datos académicos y profesionales.
+Datos académicos y profesionales: Formación, titulaciones, historial del estudiante, experiencia profesional.
 
-Datos de detalle de empleo.
+Datos de detalle de empleo: Cuerpo/Escala, Categoría/Grado, puesto de trabajo.
 
-c.2) Sistema de tratamiento: Automatizado.
+c.2) Sistema de tratamiento: Parcialmente automatizado.
 
 d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé comunicación de datos.
 
 e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
 
-f) Órgano responsable del fichero: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil), C/ Guzmán el Bueno, 110, 28003 Madrid.
+f) Órgano responsable del fichero: Dirección General de Guardia Civil, calle Guzmán el Bueno, 110, 28003 Madrid.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil) - Jefatura de Unidades Especiales y de Reserva, C/ Guzmán el Bueno, 110, 28003 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de Guardia Civil - Jefatura de Unidades Especiales y de Reserva, calle Guzmán el Bueno, 110, 28003 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
@@ -3820,13 +3818,13 @@ a) Identificación del fichero o tratamiento, indicando su denominación, así c
 
 a.1) Identificación del fichero: Sanidad.
 
-a.2) Finalidad: Gestión y control de todo el historial clínico del personal de la Guardia Civil.
+a.2) Finalidad: Gestión y control de todo el historial clínico del personal de la Guardia Civil, en cumplimiento de lo previsto en los artículos 45 d), 49, 96.1 y 97 de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal de la Guardia Civil.
 
 a.3) Usos previstos: Administrativo, atención y gestión sanitaria, control del absentismo y epidemiológico.
 
 b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
 
-b.1) Colectivo: Personal del Cuerpo y del Ministerio de Defensa, destinados o adscritos a la Guardia Civil.
+b.1) Colectivo: Personal del Cuerpo y del Ministerio de Defensa destinados o adscritos a la Guardia Civil; personal dependiente del Ministerio del Interior (funcionarios civiles y personal laboral) que prestan servicios en el seno de la Guardia Civil.
 
 b.2) Procedencia y procedimiento de recogida: Del propio interesado o su representante legal, mediante entrevistas y formularios en soporte papel.
 
@@ -3836,25 +3834,25 @@ c.1) Descripción de los datos:
 
 Datos especialmente protegidos: Salud.
 
-Datos de carácter identificativo: DNI/NIF, nombre y apellidos, y domicilio.
+Datos de carácter identificativo: DNI/NIF, nombre y apellidos, dirección postal, teléfono.
 
-Datos de características personales.
+Datos de características personales: Fecha de nacimiento, edad, sexo.
 
-Datos de circunstancias sociales.
+Datos de circunstancias sociales: Situación militar.
 
-Datos académicos y profesionales.
+Datos académicos y profesionales: Formación, titulaciones, historial del estudiante, experiencia profesional e incorporación o integración en colegios o asociaciones profesionales.
 
-Datos de detalle de empleo.
+Datos de detalle de empleo: Cuerpo/Escala, Categoría/Grado, puesto de trabajo.
 
 c.2) Sistema de tratamiento: Parcialmente automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: a las Juntas Médico Periciales del Ministerio de Defensa (Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil).
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: Juntas Médico Periciales del Ministerio de Defensa, en virtud de lo previsto en la Ley 42/1999, de 25 de noviembre.
 
 e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
 
-f) Órgano responsable del fichero: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil), C/ Guzmán el Bueno, 110, 28003 Madrid.
+f) Órgano responsable del fichero: Dirección General de Guardia Civil, calle Guzmán el Bueno, 110, 28003 Madrid.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil) - Jefatura de Asistencia al Personal, C/ Guzmán el Bueno, 110, 28003 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de Guardia Civil - Jefatura de Asistencia al Personal, calle Guzmán el Bueno, 110, 28003 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
@@ -3983,40 +3981,6 @@ f) Órgano responsable del fichero: Dirección General de la Policía y de la Gu
 g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil) – Jefatura de Unidades Especiales y Reserva, C/ Guzmán el Bueno, 110, 28003 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
-
-## Dirección General de Infraestructuras y Material de Seguridad
-
-1. FICHERO: Patronato.
-
-a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
-
-a.1) Identificación del fichero: Patronato.
-
-a.2) Finalidad: Gestión de la contabilidad y financiación de las viviendas que se integraban en el Patronato de viviendas de la Guardia Civil.
-
-a.3) Usos previstos: Gestión administrativa.
-
-b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
-
-b.1) Colectivo: Personas y empresas que tengan relaciones con el extinto Patronato de Viviendas de la Guardia Civil.
-
-b.2) Procedencia y procedimiento de recogida: Aportados a través de formularios por los propios interesados.
-
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
-
-c.1) Descripción de los datos: Datos de identificación personal (nombre, apellidos, domicilio) y datos económico-financiero, incluyendo, en su caso, datos sobre créditos.
-
-c.2) Sistema de tratamiento: Automatizado.
-
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: A la Administración Tributaria, en virtud de la Ley 40/1998, de 9 de diciembre, del Impuesto de la Renta de las Personas Físicas.
-
-e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
-
-f) Órgano responsable del fichero: Comisión liquidadora del Patronato de Viviendas de la Guardia Civil. Dirección General de Infraestructuras y Material de la Seguridad.
-
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Comisión Liquidadora del Patronato de Viviendas de la Guardia Civil. C/ Chile, 18. Madrid.
-
-h) Nivel básico, medio o alto de seguridad que resulte exigible: Medio.
 
 ## Secretaría General de Instituciones Penitenciarias
 
@@ -6055,7 +6019,7 @@ e) Transferencias internacionales de datos previstas a terceros países, con ind
 
 f) Órgano responsable del fichero: Oficialía Mayor.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Oficialía Mayor. Ministerio del Interior. Amador de los Ríos nº 5, 28071 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Oficialía Mayor. Ministerio del Interior. Calle Amador de los Ríos, n.º 7, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
@@ -7558,3 +7522,9 @@ f) Órgano responsable del fichero: Secretaría General Técnica.
 g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica. Subdirección General de Recursos. Amador de los Ríos, n.º 5, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+
+> Se modifica por el art. único.1 a 3 de la Orden INT/1031/2012, de 27 de abril. Ref. BOE-A-2012-6527.
+
+> Téngase en cuenta la disposición transitoria única de la citada Orden en cuanto a los ficheros 3, 4 y 5 del apartado "Secretaría General Técnica".
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 79, de 27 de julio de 2012. Ref. BOE-A-2012-10119.
