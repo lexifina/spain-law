@@ -1,8 +1,8 @@
 ## ANEXO V
 
-## Normas para la elaboración de los planes de explotación en la minería del carbón a cielo abierto
+## Guía de buenas prácticas para la elaboración de los planes de explotación en la minería del carbón a cielo abierto
 
-Los planes de explotación para las explotaciones de carbón a cielo abierto se elaborarán cumplimentando la siguiente normativa:
+Para la elaboración de los planes de explotación de las explotaciones de carbón a cielo abierto, regulados en la disposición adicional cuarta de este real decreto, se atenderá a esta Guía de buenas prácticas.
 
 1. Introducción.–Titular de la explotación que presenta el plan y razones del mismo.
 
@@ -199,3 +199,5 @@ En las planificaciones anteriores se incluirán las operaciones referentes al pl
 10. Previsión de costes.–Previsión de costes por tonelada vendible, adaptados al Plan General de Contabilidad para la minería del carbón a euros constantes del año en que se establece el plan y para la situación y situaciones de régimen.
 
 11. Régimen de la operación.–El titular de la explotación facilitará toda la información y datos precisos, aun cuando la totalidad o parte de las labores se realicen en régimen de contrata. En este supuesto aportará separadamente la correspondiente al contratista y a la propia empresa.
+
+> Se modifica por el art. único.15 del Real Decreto 777/2012, de 4 de mayo. Ref. BOE-A-2012-6500.
