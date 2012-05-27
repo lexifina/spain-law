@@ -1,0 +1,3 @@
+## Disposición final novena. Título competencial.
+
+El presente real decreto-ley, se dicta al amparo de lo dispuesto en las reglas 1.ª, 13.ª, 14.ª, 16.ª y 18.ª del artículo 149.1 de la Constitución Española, que atribuyen al Estado la competencia exclusiva sobre la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, el establecimiento de las bases y la coordinación de la actividad económica, Hacienda General, legislación sobre productos farmacéuticos, así como el establecimiento de las bases del régimen jurídico de las Administraciones Públicas.
