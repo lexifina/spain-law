@@ -1,0 +1,5 @@
+## Sexto. Delegación de competencias en los titulares de las jefaturas de las Oficinas Delegadas.
+
+1. Las competencias enumeradas en los párrafos 1, 2 y 7 del apartado quinto se delegan en los titulares de las jefaturas de las Oficinas Delegadas, excepto para la resolución de los expedientes de ayudas asistenciales, para la resolución de las reclamaciones sobre cumplimiento de los conciertos de asistencia sanitaria, con intervención de la correspondiente Comisión Mixta, en los términos que establezcan los conciertos vigentes, así como para la autorización de comisiones de servicios y de desplazamientos del personal a su cargo. La referencia hecha en dichos apartados a los «colectivos respectivos» debe entenderse efectuada al conjunto del colectivo provincial.
+
+2. Dicha delegación alcanza a la formalización de los instrumentos materiales de pago con la firma mancomunada que corresponda, sin perjuicio de las suplencias que resulten procedentes, de los gastos recogidos en dichos párrafos.
