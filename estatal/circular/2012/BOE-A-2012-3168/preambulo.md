@@ -1,0 +1,11 @@
+El Real Decreto 1360/2011, de 7 de octubre, por el que se modifica el Real Decreto 1816/1991, de 20 de diciembre, y la Orden EHA/2670/2011, de 7 de octubre, por la que se modifica la Orden de 27 de diciembre de 1991, de desarrollo del Real Decreto 1816/1991, de 20 de diciembre, han modificado el régimen de declaración de las transacciones económicas con el exterior. Ambas normas siguen encargando al Banco de España la recogida de la información sobre dichas transacciones, si bien con un contenido diferente al anteriormente establecido. En concreto:
+
+– El artículo 4.º de la Orden del Ministerio de Economía y Hacienda de 27 de diciembre de 1991, sobre transacciones económicas con el exterior, habilita al Banco de España para establecer el procedimiento relativo a las operaciones de envío y recepción de billetes españoles por parte de las entidades registradas con sus corresponsales bancarios en el exterior.
+
+– Asimismo, el artículo 5.º establece la obligación por parte de las entidades registradas de declarar los cobros y pagos transfronterizos en los que intervengan o en los casos de abonos y adeudos en cuentas de clientes no residentes, y faculta al Banco de España para establecer el procedimiento y la frecuencia de la información que ha de ser remitida por estas entidades.
+
+– Por su parte, el artículo 8.º somete a dichas entidades, en los casos de las operaciones, transacciones, actos o negocios con no residentes, así como en las variaciones en cuentas o posiciones financieras deudoras o acreedoras frente al exterior, a la obligación de facilitar a los órganos competentes de la Administración del Estado y al Banco de España los datos que se les requieran, en la forma y periodicidad y por el importe que se determine, para los fines de seguimiento administrativo, fiscal y estadístico de las operaciones.
+
+Se precisa, pues, la promulgación de una nueva circular que sustituya a las circulares 15/1992, de 22 de julio, y 1/1994, de 25 de febrero, que regulaban las normas para la comunicación al Banco de España de dichas operaciones por las entidades registradas bajo el régimen establecido con anterioridad.
+
+Por ello, en uso de las facultades que tiene concedidas, el Consejo de Gobierno del Banco de España, a propuesta de la Comisión Ejecutiva, ha aprobado la presente Circular, que contiene las siguientes normas:
