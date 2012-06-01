@@ -1,0 +1,3 @@
+## Séptimo. Adhesiones anteriores.
+
+Se considerarán automáticamente adheridas al procedimiento regulado en la presente Resolución todas las entidades que lo estaban al establecido en la Resolución de 10 de julio de 2009, de la Dirección General de la Agencia Estatal de Administración Tributaria, por la que se establece el procedimiento para efectuar por medios telemáticos el embargo de dinero en cuentas abiertas en entidades de depósito para diligencias de cuantía igual o inferior a 20.000 euros, salvo que comuniquen expresamente lo contrario al titular del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria.

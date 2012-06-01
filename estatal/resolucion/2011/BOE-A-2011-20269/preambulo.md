@@ -1,0 +1,19 @@
+La Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, al obligar a las Administraciones a promover la utilización de técnicas electrónicas, informáticas y telemáticas en el desempeño de sus competencias, supuso el punto de partida en el proceso de adaptación de las diferentes Administraciones Públicas a la sociedad de la información en España.
+
+La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, consolidó decisivamente este proceso, al consagrar la relación con las Administraciones Públicas por medios electrónicos como un derecho de los ciudadanos y como una obligación para tales Administraciones.
+
+La filosofía de estas normas legales tuvo reflejo, en el ámbito tributario, en la Ley 58/2003, de 17 de diciembre, General Tributaria y el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, que vinieron a ofrecer un marco jurídico tanto para la sistemática incorporación de las tecnologías de la información y comunicación en los procedimientos como para la automatización de la actuación de la Administración Tributaria.
+
+El Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio, al regular en su artículo 79.2 el procedimiento de embargo de dinero en cuentas abiertas en entidades de crédito, dispone que la forma, medio, lugar y demás circunstancias relativas a la presentación de la diligencia de embargo en la entidad depositaria, así como el plazo máximo en que habrá de efectuarse la retención de los fondos, podrá ser convenido, con carácter general, entre la Administración actuante y la entidad de crédito afectada.
+
+En desarrollo de dicho precepto reglamentario, y en consonancia con el objetivo de incorporar lo máximo posible las nuevas tecnologías a los procedimientos de naturaleza recaudatoria, la Agencia Estatal de Administración Tributaria viene utilizando, desde hace más de una década, medios telemáticos en el procedimiento de embargo de cuentas en entidades de crédito.
+
+El primer paso en esta línea fue la aprobación de la Resolución de 14 de diciembre de 2000, de la Dirección General de la Agencia Estatal de Administración Tributaria, por la que se establece el procedimiento para efectuar por medios telemáticos el embargo de dinero en cuentas abiertas en entidades de depósito para diligencias de cuantía igual o inferior a 4.000 euros.
+
+Mediante Resoluciones de la Dirección General de la Agencia Estatal de Administración Tributaria de 20 de diciembre de 2007 y de 10 de julio de 2009 el importe de las diligencias incluidas en el procedimiento de embargo telemático fue elevado a 6.000 y a 20.000 euros, respectivamente.
+
+La experiencia acumulada a lo largo de estos años permite afirmar que este procedimiento viene a evitar la ralentización que origina el sistema de personación de los Agentes tributarios en las sucursales de las entidades de crédito donde se encuentran abiertas las cuentas objeto del embargo, al tiempo que tiene la ventaja adicional para las citadas entidades de que el normal funcionamiento de sus oficinas no se ve afectado por la realización de estas actuaciones de embargo.
+
+El más que satisfactorio funcionamiento de este procedimiento desde su implantación para todas las partes que en él intervienen hace conveniente extenderlo a la totalidad de las diligencias de embargo de cuentas a la vista, independientemente del importe de las mismas. De esta forma, la práctica totalidad de las actuaciones de embargo de los órganos de recaudación de la Agencia Estatal de Administración Tributaria acerca de este tipo de bienes se llevarán a cabo de forma no presencial.
+
+En virtud de lo anterior, dispongo:

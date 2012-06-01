@@ -1,0 +1,3 @@
+## Octavo. Continuación de la tramitación de diligencias de embargo de cuentas a la vista con saldos pignorados o de titularidad de deudores incursos en procesos concursales.
+
+La tramitación de las diligencias de embargo cuyo resultado de traba hubiera sido el 09 (Saldo pignorado) o el 10 (Situación concursal) continuará mediante la puesta a disposición por la Agencia Estatal de Administración Tributaria de la diligencia de embargo a la entidad de crédito que corresponda, centralizada y telemática vía Internet, de acuerdo con el procedimiento y especificaciones técnicas que a tales efectos serán aprobados mediante Resolución de la Dirección General de la Agencia Estatal de Administración Tributaria.
