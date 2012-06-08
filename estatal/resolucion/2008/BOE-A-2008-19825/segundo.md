@@ -52,9 +52,7 @@ La provisionalidad de la referencia catastral asignada se mantendrá hasta la in
 
 El carácter provisional de la referencia catastral figurará en cuanta información sobre el inmueble se pueda consultar en la OVC o en los PIC y en los certificados expedidos, debiendo igualmente significarse en los títulos públicos en los que se consigne.
 
-7. Servicio de comprobación de certificados catastrales. Consiste en la visualización u obtención de copia de los certificados catastrales emitidos electrónicamente, con el fin de verificar su autenticidad mediante el contraste entre el original y la copia conservada en la OVC.
-
-Los certificados catastrales emitidos electrónicamente podrán ser comprobados por cualquier persona que disponga del código electrónico de verificación contenido en el mismo, siempre que no haya sido desactivado por quien lo solicitó y que no haya transcurrido un año desde su obtención, según establece el artículo 84.2 del Real Decreto 417/2006. A tal fin, la Dirección General del Catastro conservará los certificados telemáticos emitidos en un fichero seguro, que garantice su integridad, desde el momento de su expedición y durante el período señalado.
+7. (Derogado)
 
 8. Servicio de consulta de accesos. Consiste en el conocimiento por el titular catastral de las consultas realizadas y de los certificados emitidos sobre los bienes inmuebles de los que ostente la titularidad catastral.
 
@@ -65,3 +63,5 @@ Dichos titulares podrán, en todo momento, conocer las consultas y certificados 
 Este servicio estará a disposición de las Administraciones registradas en la OVC.
 
 10. Servicio de registro de usuarios. Consiste en la solicitud y, en su caso, inscripción o baja de las personas designadas por cada Administración, entidad, corporación pública, notaría o registro de la propiedad para el acceso a los datos catastrales protegidos correspondientes a su ámbito competencial o para el acceso al servicio a que se refiere el apartado anterior.
+
+> Se deroga el apartado 7 por la disposición derogatoria única de la Orden HAP/1200/2012, de 5 de junio. Ref. BOE-A-2012-7576.
