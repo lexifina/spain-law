@@ -1,0 +1,1 @@
+Norma derogada en lo que se refiere a las competencias del Ministerio de Economía y Competitividad, por la disposición derogatoria única de la Orden ECC/1251/2012 , de 13 de junio.Ref. BOE-A-2012-7913.

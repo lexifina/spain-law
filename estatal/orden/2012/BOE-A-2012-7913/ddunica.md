@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas, en lo que se refiere a las competencias del Ministerio de Economía y Competitividad, la Orden ITC/2145/2006, de 27 de junio, por la que se regula la Comisión Ministerial de Administración Electrónica del Ministerio de Industria, Turismo y Comercio, la Orden EHA/3507/2006, de 8 de noviembre, por la que se regula la composición y funcionamiento de la Comisión Ministerial de Administración Electrónica del Ministerio de Economía y Hacienda y la Orden CIN/35/2009, de 15 de enero, por la que se regula la Comisión Ministerial de Administración Electrónica del Ministerio de Ciencia e Innovación, así como cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente orden.

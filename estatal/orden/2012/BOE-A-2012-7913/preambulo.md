@@ -1,0 +1,7 @@
+La entrada en vigor de los Reales Decretos 1823/2011, de 21 de diciembre, por el que se reestructuran los departamentos ministeriales, 1887/2011, de 30 de diciembre, por el que se aprueba la estructura orgánica básica de los departamentos ministeriales, y 345/2012, de 10 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Economía y Competitividad y se modifica el Real Decreto 1887/2011, de 30 de diciembre, articulan la creación y estructura del Ministerio de Economía y Competitividad.
+
+Por otra parte, el Real Decreto 589/2005, de 20 de mayo, por el que se reestructuran los órganos colegiados responsables de la Administración electrónica, regula las Comisiones Ministeriales de Administración Electrónica y establece un nuevo marco de actuación de las mismas, y su relación con los demás órganos colegiados regulados por dicho real decreto.
+
+Estas disposiciones hacen necesaria la creación de la Comisión Ministerial de Administración Electrónica del Ministerio de Economía y Competitividad. Por ello, de acuerdo con lo previsto en el artículo 40.2 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, mediante la presente orden ministerial se procede a crear y regular la composición y funciones de la Comisión Ministerial de Administración Electrónica del Ministerio de Economía y Competitividad.
+
+En su virtud, con la previa aprobación del Ministro de Hacienda y Administraciones Públicas, dispongo:
