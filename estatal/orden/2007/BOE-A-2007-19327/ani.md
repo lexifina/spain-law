@@ -16,6 +16,10 @@ e) Presentación de solicitudes y peticiones genéricas, en relación a procedim
 
 f) Presentación de sugerencias y quejas.—Procedimiento electrónico para poner en conocimiento del Instituto de Salud Carlos III disfunciones o mejoras. Las quejas no tendrán en ningún caso la calificación de recurso administrativo ni su interposición paralizará los plazos establecidos en la normativa vigente.
 
+g) Presentación de comunicaciones de inscripción y de modificación al Registro Nacional de Biobancos para Investigación Biomédica: Procedimiento electrónico que permite presentar los datos a los que se refiere el Título III del Real Decreto 1716/2011, de 18 de noviembre, por el que se establecen los requisitos básicos de autorización y funcionamiento de los biobancos con fines de investigación biomédica y del tratamiento de las muestras biológicas de origen humano, y se regula el funcionamiento y organización del Registro Nacional de Biobancos para investigación biomédica.
+
+> Se añade la letra g) por el art. único de la Resolución de 31 de mayo de 2012. Ref. BOE-A-2012-7989.
+
 > Se añaden las letras e) y f) por el apartado único de la Resolución de 7 de marzo de 2011. Ref. BOE-A-2011-4949.
 
 > Se modifica la letra d) por el apartado único de la Resolución de 22 de febrero de 2010. Ref. BOE-A-2010-3667.
