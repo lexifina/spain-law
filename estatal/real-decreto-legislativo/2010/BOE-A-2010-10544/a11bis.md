@@ -14,6 +14,8 @@ Hasta que la publicación de la página web en el "Boletín Oficial del Registro
 
 Los estatutos sociales podrán exigir que, antes de que se hagan constar en la hoja abierta a la sociedad en el Registro Mercantil, estos acuerdos se notifiquen individualmente a cada uno de los socios.
 
+> Se modifica por el art. 1.1 de la Ley 1/2012, de 22 de junio. Ref. BOE-A-2012-8406.
+
 > Se modifica por el art. 1.1 del Real Decreto-ley 9/2012, de 16 de marzo. Ref. BOE-A-2012-3812.
 
 > Se añade por el art. 1.1 de la Ley 25/2011, de 1 de agosto. Ref. BOE-A-2011-13240.

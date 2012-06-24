@@ -8,4 +8,6 @@
 
 4. Si la interrupción de acceso a la página web fuera superior a dos días consecutivos o cuatro alternos, no podrá celebrarse la junta general que hubiera sido convocada para acordar sobre el asunto a que se refiera el documento inserto en esa página, salvo que el total de días de publicación efectiva fuera igual o superior al término exigido por la ley. En los casos en los que la ley exija el mantenimiento de la inserción después de celebrada la junta general, si se produjera interrupción, deberá prolongarse la inserción por un número de días igual al que el acceso hubiera estado interrumpido.
 
+> Se añade por el art. 1.1 de la Ley 1/2012, de 22 de junio. Ref. BOE-A-2012-8406.
+
 > Se añade por el art. 1.1 del Real Decreto-ley 9/2012, de 16 de marzo. Ref. BOE-A-2012-3812.
