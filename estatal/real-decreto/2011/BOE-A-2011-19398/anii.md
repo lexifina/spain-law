@@ -280,3 +280,9 @@
 | Tamias sibiricus (Laxmann, 1769). |  | Ardilla siberiana. |
 | Callosciurus erythraeus (Pallas, 1779). |  | Ardilla de vientre rojo. |
 | Cuando en el ámbito de aplicación no se especifica nada se refiere a todo el territorio español. 1 Especies introducidas legalmente con fines de aprovechamiento cinegético, piscícola y selvícola antes de la Ley 42/2007 a las que les es de aplicación la disposición transitoria segunda. |
+
+> Téngase en cuenta la suspensión de la vigencia en relación con la inclusión en el catálogo de las especies trucha arco iris (oncorhinchus mykiss) y hucho (hucho hucho), por Auto de 28 de marzo de 2012. Ref. BOE-A-2012-8569, Redactado conforme a la corrección de errores publicada en BOE núm 160, de 5 de julio. Ref. BOE-A-2012-9008.
+
+> Se declara la suspensión de la vigencia en relación con la inclusión en el catálogo de las especies trucha arco iris (oncorhinchus mykiss) y hucho (hucho hucho), por Auto de 28 de marzo de 2012. Ref. BOE-A-2012-8569.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 160, de 5 de julio. Ref. BOE-A-2012-9008.

@@ -153,4 +153,10 @@
 | Sciurus carolinensis (Gmelin, 1788). |  | Ardilla gris. |
 | Cuando en el ámbito de aplicación no se especifica nada se refiere a todo el territorio español. 1 Especies introducidas legalmente con fines de aprovechamiento cinegético, piscícola y selvícola antes de la Ley 42/2007 a las que les es de aplicación la disposición transitoria segunda. 2 Para Trachemys scripta le es de aplicación la disposición adicional sexta. 3 A los ejemplares de la Clase Aves les es de aplicación el artículo 8.2 cuando procedan de origen silvestre. Además, para la especies de aves incluidas en este Anexo I y que procedan de cría en cautividad también le será de aplicación el artículo 8.2 spp. Se refiere a todos los niveles taxonómicos infra-genéricos. |
 
+> Téngase en cuenta la suspensión de la vigencia en relación con la inclusión en el catálogo de las especies salvelino (salvelinus fontinalis) y perca americana o black bass (micropterus salmoides), por Auto del TS de 28 de marzo de 2012. Ref. BOE-A-2012-8569, redactado conforme a la corrección de errores publicada en BOE núm 160, de 5 de julio. Ref. BOE-A-2012-9008.
+
+> Se declara la suspensión de la vigencia en relación con la inclusión en el catálogo de las especies salvelino (salvelinus fontinalis) y perca americana o black bass (micropterus salmoides), por Auto del TS de 28 de marzo de 2012. Ref. BOE-A-2012-8569.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 160, de 5 de julio. Ref. BOE-A-2012-9008.
+
 > Se declara la suspensión de la vigencia en relación con la inclusión en el catálogo de la especie "micropterus salmoides", por Auto del TS de 23 de marzo de 2012. Ref. BOE-A-2012-5594.
