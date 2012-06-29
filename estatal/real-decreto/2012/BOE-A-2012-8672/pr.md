@@ -1,0 +1,11 @@
+La Ley del Gobierno atribuye a su Presidente la dirección de la acción del Gobierno y la coordinación de las funciones de sus miembros. En particular, corresponde al Presidente del Gobierno determinar las directrices de la política interior y exterior y velar por su cumplimiento.
+
+La necesidad de promover la coherencia y eficacia en materia de política exterior determinó la creación del Consejo de Política Exterior, como órgano de apoyo y asesoramiento al Presidente del Gobierno en el ejercicio de su función de dirección y coordinación de la acción del Gobierno en dicho ámbito, coadyuvando en el establecimiento y la elaboración de directrices y estrategias para la consecución de los objetivos de política exterior acordados en dicho Consejo.
+
+El considerable incremento de los sujetos, públicos y privados, que desarrollan actividad en el exterior y la variedad de las actuaciones que por ellos se realizan, ponen de manifiesto la necesidad de articular la planificación y gestión coordinada de su ejecución para optimizar los esfuerzos de todos con una doble finalidad. En primer lugar, mejorar la imagen exterior de España visibilizada bajo la denominación Marca España, que toma como modelo las iniciativas adoptadas por otros Estados en ejecución del concepto marca-país. Y, en segundo lugar, promover la actuación coordinada de cuantas instituciones y entidades resultan comprometidas con iniciativas que coadyuven a la mejora de los resultados y al logro de contribuciones medibles para los intereses de España en los ámbitos económico, cultural, social, científico y tecnológico.
+
+Para alcanzar dichos objetivos, se crea el Alto Comisionado del Gobierno para la Marca España como órgano que asume la planificación, el impulso y la gestión coordinada de las actuaciones de las Administraciones Públicas, de los organismos públicos de ellas dependientes y de cuantas entidades públicas y privadas protagonizan y están implicadas en la promoción de la imagen exterior de España, en el marco de las directrices y estrategias fijadas por el Consejo de Política Exterior.
+
+En su virtud, a propuesta del Presidente del Gobierno, de conformidad con lo previsto en el artículo 2.2 j) de la Ley 50/1997, de 27 de noviembre, del Gobierno,
+
+DISPONGO:
