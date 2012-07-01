@@ -62,11 +62,13 @@ Suiza:
 
 4. Agrupación de Lausana.
 
-5. Agrupación de St. Gallen.
+5. (Suprimido)
 
 6. Agrupación de Zurich.
 
 7. (Suprimido)
+
+> Se suprime el punto 5 de Suiza por el apartado 1 de la Orden ECD/1216/2012, de 29 de mayo. Ref. BOE-A-2012-7678.
 
 > Se suprime el punto 7 de Suiza por el apartado 1 de la Orden EDU/1651/2009, de 1 de junio. Ref. BOE-A-2009-10304.
 
