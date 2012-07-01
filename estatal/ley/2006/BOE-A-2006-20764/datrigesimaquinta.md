@@ -54,4 +54,8 @@ En los rendimientos que se satisfagan o abonen a partir del 1 de febrero de 2012
 
 Asimismo, durante los períodos a que se refiere el párrafo anterior, el porcentaje de retención del 35 por ciento previsto en el apartado 2 del artículo 101 de esta Ley, se eleva al 42 por ciento.
 
+> Se añade, con efectos desde el 1 de enero de 2012, por el art. 61 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+
+> Téngase en cuenta que esta disposición ya fue añadida por el Real Decreto-ley 20/2011, de 30 de diciembre.
+
 > Se añade por la disposición final.2 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-11641.

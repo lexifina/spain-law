@@ -1,0 +1,3 @@
+## Disposición adicional décima octava. Incorporación de remanentes de tesorería del Organismo Autónomo Instituto Nacional de Administración Pública.
+
+Se autoriza al Organismo Autónomo Instituto Nacional de Administración Pública, dependiente del Ministerio de Hacienda y Administraciones Públicas, a incorporar al remanente de tesorería propio del Organismo los importes no utilizados a final del ejercicio 2011, hasta un límite máximo de 512.000,00 euros, de los fondos destinados a ejecución de los Planes de Formación para el Empleo asignados al INAP como promotor, y de los destinados a las actividades complementarias que tengan relación con el programa de formación para el empleo en las Administraciones Públicas.

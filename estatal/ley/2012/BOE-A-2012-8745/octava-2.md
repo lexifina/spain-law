@@ -1,0 +1,5 @@
+## Disposición transitoria octava. Normas transitorias en materia de bonificaciones al transporte marítimo y aéreo.
+
+1. Las compañías navieras dispondrán de un mes de plazo a partir de la entrada en vigor de esta Ley, para tomar las acciones oportunas conducentes a las modificaciones del sistema de bonificaciones preceptuado en el párrafo segundo del apartado uno, de la disposición adicional septuagésima segunda.
+
+2. Los beneficiarios de las bonificaciones al transporte regular de pasajeros, marítimo y aéreo, deberán acreditar documentalmente el cumplimiento de los requisitos establecidos en la normativa de aplicación, en tanto que no se pongan en funcionamiento los mecanismos que permitan el acceso de los órganos gestores a los servicios de verificación y consulta de datos del Ministerio de Hacienda y Administraciones Públicas y éstos no puedan facilitar el acceso a la confirmación del cumplimiento de tales requisitos a las agencias y compañías que comercialicen títulos de transporte bonificados.

@@ -8,9 +8,9 @@ En el segundo y tercer año a quienes sean valorados en el Grado II de Dependenc
 
 En el tercer y cuarto año a quienes sean valorados en el Grado II de Dependencia Severa, nivel 1.
 
-El quinto año, que finaliza el 31 de diciembre de 2011, a quienes sean valorados en el Grado I de Dependencia Moderada, nivel 2.
+El quinto año, que finaliza el 31 de diciembre de 2011, a quienes sean valorados en el Grado I de Dependencia Moderada, Nivel 2, y se les haya reconocido la concreta prestación.
 
-A partir del 1 de enero de 2013 al resto de quienes sean valorados en el Grado I de Dependencia Moderada, nivel 2.
+A partir del 1 de enero de 2014 al resto de quienes sean valorados en el Grado I de Dependencia Moderada, Nivel 2.
 
 A partir del 1 de enero de 2014 a quienes sean valorados en el Grado I de Dependencia Moderada, nivel 1.
 
@@ -24,7 +24,9 @@ Si una vez transcurrido el plazo máximo de seis meses desde la solicitud, no se
 
 5. En la evaluación de los resultados a que se refiere el apartado anterior se efectuará informe de impacto de género sobre el desarrollo de la Ley.
 
-> Se modifica el apartado 1 por la disposición final.14 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
+> Se modifica el apartado 1 por la disposición final 8 de la Ley 2/2012, de 29 de junio, Ref. BOE-A-2012-8745.
+
+> Se modifica el apartado 1 por la disposición final 14 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
 
 > Se modifican, con efectos de 1 de junio de 2010, los apartados 2 y 3 y se reenumeran los anteriores 3 y 4 como 4 y 5 por el art. 5 del Real Decreto-Ley 8/2010, de 20 de mayo. Ref. BOE-A-2010-8228.
 

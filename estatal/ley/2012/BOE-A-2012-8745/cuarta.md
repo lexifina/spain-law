@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Revalorización de las prestaciones de gran invalidez del Régimen Especial de la Seguridad Social de las Fuerzas Armadas.
+
+Las prestaciones de gran invalidez destinadas a remunerar a la persona encargada de la asistencia al gran inválido, causadas hasta el 31 de diciembre de 2011 en el Régimen Especial de Seguridad Social de las Fuerzas Armadas, mantendrán con efectos de 1 de enero de 2012 el incremento del 1 por ciento establecido en el artículo 5 del Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público.

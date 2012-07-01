@@ -104,6 +104,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria cuarta](dtcuarta.md)
 - [Disposición transitoria quinta](dtquinta.md)
 - [Disposición transitoria sexta](dtsexta.md)
+- [Disposición transitoria séptima](dtseptima.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)

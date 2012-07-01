@@ -23,3 +23,7 @@ El Ministro de Hacienda resolverá las reclamaciones que se formulen contra los 
 9. Igualmente SEGIPSA tendrá la consideración de medio propio instrumental y servicio técnico para la realización de los trabajos de formación y mantenimiento del Catastro Inmobiliario que corresponden a la Dirección General del Catastro en virtud de la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, cuya encomienda y realización se efectuarán de acuerdo con lo establecido en esta disposición.
 
 10. Para la realización de los trabajos que se le encomienden de acuerdo con la presente disposición, SEGIPSA podrá recabar de la Dirección General del Catastro, en los términos previstos en el artículo 64 de esta Ley, la información de que disponga en relación con los bienes o derechos objeto de las actuaciones que se le hayan encomendado, sin que sea necesario el consentimiento de los afectados.
+
+11. Las resoluciones por las que se aprueben las tarifas, a las que se refiere el apartado 4 anterior, serán objeto de publicación en el ''Boletín Oficial del Estado'', cuando las tarifas aprobadas resulten aplicables a encomiendas que puedan ser atribuidas por distintos órganos, organismos o entidades del sector público estatal, o cuando por su relevancia así lo estime necesario la autoridad que aprueba las tarifas.
+
+> Se añade el apartado 11 por disposición final 4.6 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.

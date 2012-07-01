@@ -1,0 +1,3 @@
+## Disposición adicional vigésima séptima. Ayudas financiación Fondo para el Patrimonio Natural y la Biodiversidad.
+
+En relación con las Ayudas reguladas por el artículo 86 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, los pagos correspondientes a la financiación de actuaciones recogidas en el Fondo para el Patrimonio Natural y la Biodiversidad regulados en el artículo 74 de la Ley 42/2007, del Patrimonio Natural y de la Biodiversidad, podrán librarse en su totalidad una vez hayan sido acordados en Conferencia Sectorial los criterios objetivos de distribución y la distribución resultante así como el refrendo mediante Acuerdo del Consejo de Ministros.

@@ -4,4 +4,8 @@ La concesión de la presente recompensa, en sus diferentes categorías, a los mi
 
 La concesión de estas recompensas, que se efectuará por Orden del Ministerio de la Gobernación, contará con la previa conformidad del Ministerio del Ejército cuando se trate de miembros de la Guardia Civil, y la propuesta, en todo caso, corresponderá al Director general de la Guardia Civil, oídos en Junta los Oficiales Generales del Cuerpo y previo expediente sumario, que se incoará por la Dirección General.
 
+La Gran Cruz es la máxima categoría dentro de la Orden del Mérito de la Guardia Civil, y se concederá por real decreto del Consejo de Ministros, a propuesta del Ministro del Interior, y oído el Ministro de Defensa cuando se trate miembros de la Guardia Civil.
+
+> Se añade el párrafo tercero, con efectos desde el 1 de julio de 2012, por la disposición final 19.3 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+
 > Redactado conforme a la corrección de errores publicada en BOE núm. 134, de 4 de junio de 1976. Ref. BOE-A-1976-10830.

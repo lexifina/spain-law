@@ -14,7 +14,13 @@ c) Los taxis. A estos efectos se entiende por taxi el turismo destinado al servi
 
 Cuando se trate de titulares no residentes en territorio español con residencia o establecimiento permanente en el resto del territorio de la Unión Europea, deberán hallarse en posesión de las autorizaciones administrativas que establezca la normativa del respectivo Estado miembro para el ejercicio de la actividad correspondiente.
 
-4. La base de la devolución estará constituida por el resultado de multiplicar alguno de los coeficientes correctores a que se refiere el apartado 5 siguiente por el volumen de gasóleo que haya sido adquirido por el interesado y destinado a su utilización como carburante en los vehículos mencionados en el apartado 2 anterior, incluso contenido en mezclas con biocarburantes. La base así determinada se expresará en miles de litros.
+4. La base de la devolución estará constituida por el resultado de multiplicar alguno de los coeficientes correctores a que se refiere el apartado 5 siguiente por el volumen de gasóleo que haya sido adquirido por el interesado y destinado a su utilización como carburante en los vehículos mencionados en el apartado 2 anterior, incluso contenido en mezclas con biocarburantes. La base así determinada se expresará en miles de litros. Para la aplicación del tipo autonómico de la devolución, la base de la devolución estará constituida por el resultado de multiplicar alguno de los coeficientes correctores a que se refiere el apartado 5 siguiente por el volumen de gasóleo que haya sido adquirido por el interesado en el territorio de la Comunidad Autónoma que lo haya establecido y haya sido destinado a su utilización como carburante en los vehículos mencionados en el apartado 2 anterior, incluso contenido en mezclas con biocarburantes. La base así determinada se expresará en miles de litros.
+
+> Atención: esta última actualización del apartado 4 surte efectos desde el 1 de enero de 2013.
+
+> Redacción vigente:
+
+> 4. La base de la devolución estará constituida por el resultado de multiplicar alguno de los coeficientes correctores a que se refiere el apartado 5 siguiente por el volumen de gasóleo que haya sido adquirido por el interesado y destinado a su utilización como carburante en los vehículos mencionados en el apartado 2 anterior, incluso contenido en mezclas con biocarburantes. La base así determinada se expresará en miles de litros.
 
 5. Con el objeto de tomar en consideración la temperatura media de suministro del gasóleo y el volumen medio de biocarburantes presentes en el gasóleo, se establecen los siguientes coeficientes correctores:
 
@@ -24,11 +30,23 @@ b) Productos que cumplan las especificaciones técnicas del gasóleo de automoci
 
 El Ministro de Economía y Hacienda podrá revisar, por primera vez con efectos a partir del 1 de enero de 2008, el valor del coeficiente corrector establecido en la letra a) anterior y el factor establecido en la letra b) anterior cuando, sobre la base de los datos disponibles, se aprecien variaciones relevantes de los datos relativos a la temperatura media en el ámbito territorial interno y a la proporción media en que los biocarburantes se hallan finalmente presentes en el gasóleo puesto a consumo en el ámbito territorial interno con aplicación del tipo del epígrafe 1.3.
 
-6. a) El tipo de la devolución, expresado en euros por 1.000 litros, será el importe positivo resultante de restar la cantidad de 306 euros del tipo impositivo del epígrafe 1.3 vigente en el momento de generarse el derecho a la devolución.
+6.a) El tipo estatal de la devolución, expresado en euros por 1.000 litros, será el importe positivo resultante de restar la cantidad de 306 euros del tipo general del epígrafe 1.3 vigente en el momento de generarse el derecho a la devolución.
 
-b) El tipo de la devolución podrá ser modificado por la Ley de Presupuestos Generales del Estado.
+Las Comunidades Autónomas que hayan establecido un tipo impositivo autonómico podrán establecer un tipo autonómico de la devolución para los productos que hayan sido adquiridos en su territorio, que no podrá ser superior a dicho tipo impositivo autonómico.
 
-c) La cuantía máxima de la devolución a percibir no excederá de la que correspondería a 50.000 litros por vehículo y año, salvo que se trate de taxis, en cuyo caso la cuantía máxima de la devolución no excederá de la que correspondería a 5.000 litros por taxi y año. Por el Ministro de Economía y Hacienda se podrá disponer el fraccionamiento de estos límites para su aplicación en relación con períodos de tiempo inferiores al año.
+b) El tipo estatal de la devolución podrá ser modificado por la Ley de Presupuestos Generales del Estado.
+
+c) La cuantía máxima de la devolución a percibir no excederá de la que correspondería a 50.000 litros por vehículo y año, salvo que se trate de taxis, en cuyo caso la cuantía máxima de la devolución no excederá de la que correspondería a 5.000 litros por taxi y año. Por el Ministro de Hacienda y Administraciones Públicas se podrá disponer el fraccionamiento de estos límites para su aplicación en relación con períodos de tiempo inferiores al año.
+
+> Atención: esta última actualización del apartado 6 surte efectos desde el 1 de enero de 2013.
+
+> Redacción vigente:
+
+> 6. a) El tipo de la devolución, expresado en euros por 1.000 litros, será el importe positivo resultante de restar la cantidad de 306 euros del tipo impositivo del epígrafe 1.3 vigente en el momento de generarse el derecho a la devolución.
+
+> b) El tipo de la devolución podrá ser modificado por la Ley de Presupuestos Generales del Estado.
+
+> c) La cuantía máxima de la devolución a percibir no excederá de la que correspondería a 50.000 litros por vehículo y año, salvo que se trate de taxis, en cuyo caso la cuantía máxima de la devolución no excederá de la que correspondería a 5.000 litros por taxi y año. Por el Ministro de Economía y Hacienda se podrá disponer el fraccionamiento de estos límites para su aplicación en relación con períodos de tiempo inferiores al año.
 
 7. El procedimiento para la práctica de la devolución se establecerá por el Ministro de Economía y Hacienda y podrá comprender, entre otros, los siguientes aspectos:
 
@@ -43,6 +61,8 @@ c) La obligación, para las entidades emisoras de los referidos medios de pago e
 9. La utilización de gasóleo por el que se solicite la devolución regulada en este artículo en motores distintos de los de los vehículos mencionados en el apartado 2 está prohibida. La inobservancia de esta prohibición constituirá una infracción tributaria grave que será sancionada de acuerdo con lo previsto en el artículo 55.
 
 10. Lo establecido en el apartado anterior se entiende sin perjuicio de las responsabilidades en que incurran quienes suministren gasóleo por el que se solicite la devolución a personas no autorizadas para recibirlo. A efectos de la aplicación de lo previsto en los artículos 8.6 y 15.11, el gasóleo por el que se solicite la devolución tendrá la consideración de gasóleo al que se ha aplicado un tipo reducido en razón de su destino.
+
+> Se modifican los apartados 4 y 6, con efectos desde el 1 de enero de 2013, por la disposición final 20.5 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
 
 > Se modifica el apartado 6.a), con efectos de 1 de enero de 2012, por la disposición final 6 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
 
