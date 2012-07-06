@@ -1,4 +1,4 @@
-## Disposición transitoria única. Enseñanzas universitarias.
+## Disposición transitoria primera. Enseñanzas universitarias.
 
 En tanto se sigan impartiendo los estudios conducentes al título de Licenciado, Ingeniero, Arquitecto, Diplomado, Maestro, Ingeniero Técnico y Arquitecto Técnico, podrán concederse becas a los estudiantes que estén cursando dichos estudios conforme a lo dispuesto en este real decreto y en los siguientes apartados:
 
@@ -24,7 +24,7 @@ d) El número mínimo de créditos fijado en los párrafos anteriores en que el 
 
 7. En ningún caso entrarán a formar parte de los mínimos a que se refieren los apartados anteriores, créditos correspondientes a distintas especialidades que superen los necesarios para la obtención del título correspondiente.
 
-8. Se requerirá que el solicitante haya superado en el curso anterior a aquel para el que solicita la beca el sesenta por ciento de los créditos matriculados si se trata de estudios de enseñanzas técnicas o el ochenta por ciento si se trata de los demás estudios universitarios o superiores.
+8. Se requerirá que el solicitante haya superado en el curso anterior a aquel para el que solicita la beca el 90 % de los créditos matriculados si se trata de estudios de las Áreas de Artes y Humanidades y de Ciencias Sociales y Jurídicas; el 80%, si se trata de estudios de las Áreas de Ciencias y Ciencias de la Salud y el 65% en el caso de enseñanzas de Ingeniería y Arquitectura.
 
 9. En todo caso, el número mínimo de créditos en que debió estar matriculado el solicitante en el curso anterior a aquel para el que solicita la beca, será el que, para cada caso, se indica en los apartados anteriores.
 
@@ -32,18 +32,19 @@ d) El número mínimo de créditos fijado en los párrafos anteriores en que el 
 
 11. Para obtener beca para la realización del proyecto de fin de carrera será preciso haber superado todos los créditos del plan de estudios, habiendo disfrutado en el curso inmediato anterior de la condición de becario de la convocatoria general o de movilidad del Ministerio de Educación y Ciencia. Además se requerirá que éste no constituya una asignatura ordinaria del plan de estudios o se realice simultáneamente con alguno de los cursos de la carrera.
 
-12. Se entenderá que cumplen los requisitos académicos los alumnos que obtengan un excepcional aprovechamiento académico.
+12. Se entenderá que cumplen los requisitos académicos los alumnos que obtengan un excepcional aprovechamiento académico. Para determinar si existe excepcional aprovechamiento del alumno se calculará el incremento porcentual de créditos matriculados sobre el número mínimo de los mismos a cuya matriculación obliga el apartado 1 anterior. El porcentaje de créditos a superar en estos casos para obtener beca se determinará mediante las siguientes fórmulas matemáticas:
 
-Para determinar si existe excepcional aprovechamiento del alumno se calculará el incremento porcentual de créditos matriculados sobre el número mínimo de los mismos a cuya matriculación obliga el apartado 1 anterior. El porcentaje de créditos a superar en estos casos para obtener beca se determinará mediante las siguientes fórmulas matemáticas:
-
-| 60 - | Y | para Enseñanzas Técnicas |
+| 65 - | Y | para enseñanzas técnicas |
 | --- | --- | --- |
 | 10 |
-| 80 - | Y | para los demás estudios universitarios |
+| 80 - | Y | para las enseñanzas universitarias adscritas a las ramas de conocimiento de Ciencias y de Ciencias de la Salud. |
+| --- | --- | --- |
+| 10 |
+| 90 - | Y | para las enseñanzas universitarias adscritas a las ramas de conocimiento de Artes y Humanidades y de Ciencias Sociales y Jurídicas. |
 | --- | --- | --- |
 | 10 |
 
-Y = incremento porcentual de créditos matriculados sobre el número mínimo de los mismos a cuya matriculación obliga el apartado 1 anterior.
+Donde Y es el incremento porcentual de créditos matriculados sobre el número mínimo de los mismos a cuya matriculación obliga el apartado 1 anterior.
 
 13. a) Sólo se podrá disfrutar de la condición de becario durante los años de que conste el plan de estudios. Como excepción, se podrá disfrutar de la condición de becario durante un mayor número de años a los determinados en el correspondiente plan de estudios en los siguientes supuestos:
 
@@ -54,5 +55,7 @@ Enseñanzas técnicas de una titulación de sólo primer ciclo o enseñanzas té
 Resto de licenciaturas universitarias: un año más de los establecidos en el plan de estudios.
 
 b) Los alumnos que cursen la totalidad de sus estudios universitarios en centros de educación a distancia podrán disfrutar de la condición de becario durante un año más de los previstos en los apartados anteriores.
+
+> Se renumera como disposición transitoria primera y se modifican los apartados 8 y 12 por la disposición final 2.7 del Real Decreto 1000/2012, de 29 de junio. Ref. BOE-A-2012-9007.
 
 > Se modifica el apartado 2 y se interpreta que se dejan sin contenido los apartados 3, 4 y 5 por la disposición final 2.4 del Real Decreto 557/2010, de 7 de mayo. Ref. BOE-A-2010-7329.
