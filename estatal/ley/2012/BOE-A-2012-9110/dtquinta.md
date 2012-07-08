@@ -1,0 +1,7 @@
+## Disposición transitoria quinta. Indemnizaciones por despido improcedente.
+
+1. La indemnización por despido prevista en el apartado 1 del artículo 56 del Texto Refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, en la redacción dada por la presente Ley, será de aplicación a los contratos suscritos a partir del 12 de febrero de 2012.
+
+2. La indemnización por despido improcedente de los contratos formalizados con anterioridad al 12 de febrero de 2012 se calculará a razón de 45 días de salario por año de servicio por el tiempo de prestación de servicios anterior a dicha fecha, prorrateándose por meses los períodos de tiempo inferiores a un año, y a razón de 33 días de salario por año de servicio por el tiempo de prestación de servicios posterior, prorrateándose igualmente por meses los períodos de tiempo inferiores a un año. El importe indemnizatorio resultante no podrá ser superior a 720 días de salario, salvo que del cálculo de la indemnización por el periodo anterior al 12 de febrero de 2012 resultase un número de días superior, en cuyo caso se aplicará éste como importe indemnizatorio máximo, sin que dicho importe pueda ser superior a 42 mensualidades, en ningún caso.
+
+3. En el caso de los trabajadores con contrato de fomento de la contratación indefinida, se estará a lo dispuesto en la Disposición Transitoria Sexta de esta Ley.

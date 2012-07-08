@@ -1,4 +1,4 @@
-Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014 por las disposiciones derogatoria única.1.h) y final 12.s) del Real Decreto-ley 3/2012, de 10 de febrero. Ref. BOE-A-2012-2076#dfduodecima
+Se deja sin efecto la previsión de derogación y se le da el carácter de medida estatal en el marco de la Estrategia Española de Empleo 2012-2014 por las disposiciones derogatoria única.1.h) y final 12.s) del Real Decreto-ley 3/2012, de 10 de febrero. Ref. BOE-A-2012-2076#dfduodecima. En el mismo sentido se establece por las disposiciones derogatoria única.1.h) y final 12.1.s) de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
 
 Téngase en cuenta que esta norma queda derogada, aunque permanecerá en vigor hasta que se aprueben la Estrategia Española de Empleo y el Plan Anual de Política de Empleo para el ejercicio 2012, según establecen las disposiciones derogatoria única.1.s) y transitoria 3 del Real Decreto-ley 3/2011, de 18 de febrero. Ref. BOE-A-2011-3255
 

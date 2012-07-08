@@ -2,6 +2,10 @@
 
 (Derogada)
 
+> Se deroga por la disposición derogatoria única.1.b) de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
+
+> Téngase en cuenta que esta disposición ya había sido derogada por el Real Decreto-ley 3/2012, de 10 de febrero.
+
 > Se deroga por la disposición derogatoria única.1.a) del Real Decreto-ley 3/2012, de 10 de febrero. Ref. BOE-A-2012-2076.
 
 > Se modifica el apartado 2.b) y c) por el art. 4 del Real Decreto-ley 10/2011, de 26 de agosto. Ref. BOE-A-2011-14220.

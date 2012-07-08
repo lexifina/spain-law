@@ -1,25 +1,17 @@
-## Disposición final segunda. Consejo de Relaciones Laborales y de Negociación Colectiva.
+## Disposición final segunda. Comisión Consultiva Nacional de Convenios Colectivos.
 
-1. Se crea el Consejo de Relaciones Laborales y de Negociación Colectiva como órgano colegiado de consulta y asesoramiento, adscrito al Ministerio de Trabajo e Inmigración, de carácter tripartito y paritario e integrado por representantes de la Administración General del Estado, así como de las organizaciones empresariales y sindicales más representativas.
+1. La Comisión Consultiva Nacional de Convenios Colectivos, como órgano colegiado, adscrito al Ministerio de Empleo y Seguridad Social, de carácter tripartito y paritario e integrado por representantes de la Administración General del Estado, así como de las organizaciones empresariales y sindicales más representativas, tendrá las siguientes funciones:
 
-2. El Consejo de Relaciones Laborales y de Negociación Colectiva desarrollará las siguientes funciones:
+a) El asesoramiento y consulta sobre el ámbito funcional de los convenios colectivos y sobre el convenio colectivo de aplicación a una empresa, así como la consulta en el supuesto de extensión de un convenio colectivo regulado en el artículo 92 de esta Ley.
 
-a) Conocer anualmente el programa de actuación en materia de relaciones laborales a desarrollar por el Ministerio de Trabajo e Inmigración.
+b) El estudio, información y elaboración de documentación sobre la negociación colectiva, así como la difusión de la misma mediante el Observatorio de la Negociación Colectiva.
 
-b) Las funciones de relación entre el Ministerio de Trabajo e Inmigración y la Fundación Servicio Interconfederal de Mediación y Arbitraje, que, en todo caso, mantendrá su carácter bipartito según lo establecido en el IV Acuerdo de Solución Extrajudicial de Conflictos del 10 de febrero de 2009 o los que lo sustituyan.
+c) La intervención en los procedimientos de solución de discrepancias en los casos de desacuerdo en el periodo de consultas para la inaplicación de las condiciones de trabajo establecidas en los convenios colectivos de acuerdo con el artículo 82.3 de esta Ley.
 
-c) El asesoramiento y consulta en las cuestiones referentes al planteamiento y determinación de los ámbitos funcionales de los convenios colectivos y el dictamen preceptivo en el procedimiento administrativo de extensión de convenios colectivos, en los términos establecidos reglamentariamente.
+2. Reglamentariamente se establecerá la composición y organización de la Comisión Consultiva Nacional de Convenios Colectivos, así como sus procedimientos de actuación y las medidas de apoyo para el desarrollo de las funciones de la Dirección General de Empleo del Ministerio de Empleo y Seguridad Social.
 
-d) La elaboración de un informe anual sobre negociación colectiva, salarios y competitividad, a partir del análisis y estudio de la información estadística disponible y de los indicadores públicos sobre los datos y previsiones de la actividad económica general y sectorial, a nivel nacional y de Comunidad Autónoma, utilizando información comparable con la de otros países, particularmente de la Unión Europea.
+3. El funcionamiento y las decisiones de la Comisión Consultiva Nacional de Convenios Colectivos se entenderán siempre sin perjuicio de las atribuciones que correspondan a la jurisdicción y la autoridad laboral en los términos establecidos por las leyes
 
-e) El estudio, información y elaboración de documentación sobre la negociación colectiva, así como la difusión de la misma, mediante un Observatorio de la Negociación Colectiva, integrado en el propio Consejo de Relaciones Laborales y de Negociación Colectiva, y que desarrollará, entre otros, los siguientes cometidos:
-
-1.º La realización y el mantenimiento de un Mapa de la Negociación Colectiva, que refleje de forma sistemática, ordenada y detallada la totalidad de convenios colectivos existentes en España, con la finalidad de obtener información útil y actualizada, de acceso público, sobre su vigencia y efectos.
-
-2.º La realización de informes anuales, de carácter general o sectorial, sobre la situación de la negociación colectiva en España desde una perspectiva jurídica y económica que, sin perjuicio de la autonomía colectiva, puedan resultar de utilidad para los interlocutores sociales para determinar los contenidos de la negociación colectiva.
-
-f) Cualesquiera otras que le sean atribuidas mediante norma con rango legal o reglamentario.
-
-3. Con anterioridad al 31 de diciembre de 2011 y previa consulta y negociación con las organizaciones empresariales y sindicales más representativas, el Gobierno adoptará las disposiciones reglamentarias necesarias para regular la constitución, organización y funcionamiento del Consejo de Relaciones Laborales y de Negociación Colectiva.
+> Se modifica por la disposición adicional 5 de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
 
 > Se modifica por el art. 7 del Real Decreto-ley 7/2011, de 10 de junio. Ref. BOE-A-2011-10131.

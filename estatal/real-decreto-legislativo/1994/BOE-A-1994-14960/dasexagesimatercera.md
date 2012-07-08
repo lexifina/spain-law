@@ -1,0 +1,11 @@
+## Disposición adicional sexagésima tercera. Acreditación de situaciones legales de desempleo que provengan de despido colectivo, o suspensión del contrato y reducción de jornada por causas económicas, técnicas, organizativas o de producción o derivadas de fuerza mayor.
+
+Las situaciones legales de desempleo recogidas en el artículo 208.1.1 a); 1.2) y 1.3) de la Ley General de Seguridad Social que se produzcan al amparo de lo establecido, respectivamente, en los artículos 51 y 47 del Estatuto de los Trabajadores, se acreditarán mediante:
+
+a) Comunicación escrita del empresario al trabajador en los términos establecidos en los artículos 51 o 47 del Estatuto de los Trabajadores. La causa y fecha de efectos de la situación legal de desempleo deberá figurar en el certificado de empresa considerándose documento válido para su acreditación. La fecha de efectos de la situación legal de desempleo indicada en el certificado de empresa habrá de ser en todo caso coincidente con, o posterior a la fecha en que se comunique por el empresario a la autoridad laboral la decisión empresarial adoptada sobre el despido colectivo, o la suspensión de contratos, o la reducción de jornada. Se respetará el plazo establecido en el artículo 51.4 del Estatuto de los Trabajadores para los despidos colectivos.
+
+b) El acta de conciliación administrativa o judicial o la resolución judicial definitiva.
+
+La acreditación de la situación legal de desempleo deberá completarse con la comunicación de la autoridad laboral a la entidad gestora de las prestaciones por desempleo, de la decisión del empresario adoptada al amparo de lo establecido en los artículos 51 o 47 del Estatuto de los Trabajadores, en la que deberá constar la fecha en la que el empresario ha comunicado su decisión a la autoridad laboral, la causa de la situación legal de desempleo, los trabajadores afectados, si el desempleo es total o parcial, y en el primer caso si es temporal o definitivo. Si fuese temporal se deberá hacer constar el plazo por el que se producirá la suspensión o reducción de jornada, y si fuera parcial se indicará el número de horas de reducción y el porcentaje que esta reducción supone respecto a la jornada diaria ordinaria de trabajo.
+
+> Se añade por la disposición final 5.9 de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110#dfquinta.

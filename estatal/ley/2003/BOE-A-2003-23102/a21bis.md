@@ -4,7 +4,7 @@
 
 Las empresas de recolocación son agencias de colocación especializadas en la actividad a que se refiere el artículo 20.2.
 
-2. Las personas físicas o jurídicas que deseen actuar como agencias de colocación deberán obtener autorización del servicio público de empleo que se concederá de acuerdo con los requisitos que se establezcan reglamentariamente. La autorización, que será única y tendrá validez en todo el territorio español, se concederá por el Servicio Público de Empleo Estatal en el supuesto de que la agencia pretenda realizar su actividad en diferentes Comunidades Autónomas, o por el equivalente de la Comunidad Autónoma, en el caso de que la agencia únicamente pretenda actuar en el territorio de una Comunidad.
+2. Las personas físicas o jurídicas, incluidas las empresas de trabajo temporal, que deseen actuar como agencias de colocación deberán obtener autorización del servicio público de empleo que se concederá de acuerdo con los requisitos que se establezcan reglamentariamente. La autorización, que será única y tendrá validez en todo el territorio español, se concederá por el Servicio Público de Empleo Estatal en el supuesto de que la agencia pretenda realizar su actividad en diferentes Comunidades Autónomas o utilizando exclusivamente medios electrónicos o por el equivalente de la Comunidad Autónoma, en el caso de que la agencia únicamente pretenda actuar en el territorio de una Comunidad.
 
 El vencimiento del plazo máximo del procedimiento de autorización sin haberse notificado resolución expresa al interesado supondrá la estimación de la solicitud por silencio administrativo.
 
@@ -29,6 +29,8 @@ f) Cumplir con las normas sobre accesibilidad universal de las personas con disc
 El convenio de colaboración a que se refiere el párrafo anterior deberá regular los mecanismos de comunicación por parte de las agencias de colocación de los incumplimientos de las obligaciones de los trabajadores y de los solicitantes y beneficiarios de prestaciones por desempleo previstas en el artículo 231.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio.
 
 Tal comunicación se realizará a los efectos de la adopción por parte de los servicios públicos de empleo de las medidas que, en su caso, procedan.
+
+> Se modifica el apartado 2 por el art. 1.7 de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
 
 > Se modifica el apartado 2 por el art. 1.4 del Real Decreto-ley 3/2012, de 10 de febrero. Ref. BOE-A-2012-2076.
 

@@ -18,7 +18,7 @@ a) La cuantía de la subvención, calculada en días completos de prestación, s
 
 b) El abono se realizará mensualmente por la entidad gestora al trabajador, previa comprobación de que se mantiene en alta en la Seguridad Social en el mes correspondiente.
 
-3.ª Lo previsto en las reglas 1.ª y 2.ª también será de aplicación a los beneficiarios de la prestación por desempleo de nivel contributivo, que pretendan constituirse como trabajadores autónomos y no se trate de personas con discapacidad igual o superior al 33 por 100.
+3ª. Lo previsto en las reglas 1.ª y 2.ª también será de aplicación a los beneficiarios de la prestación por desempleo de nivel contributivo, que pretendan constituirse como trabajadores autónomos y no se trate de personas con discapacidad igual o superior al 33 por 100.
 
 En el caso de la regla 1.ª, el abono de una sola vez se realizará por el importe que corresponde a la inversión necesaria para desarrollar la actividad, incluido el importe de las cargas tributarias para el inicio de la actividad, con el límite máximo del 60 por 100 del importe de la prestación por desempleo de nivel contributivo pendiente de percibir, siendo el límite máximo del 100 por cien cuando los beneficiarios sean hombres jóvenes hasta 30 años de edad o mujeres jóvenes hasta 35 años, ambos inclusive, considerándose la edad en la fecha de la solicitud.
 
@@ -29,6 +29,8 @@ Si el trabajador hubiera impugnado el cese de la relación laboral origen de la 
 Los efectos económicos del abono del derecho solicitado se producirán a partir del día siguiente al de su reconocimiento, salvo cuando la fecha de inicio de la actividad sea anterior, en este caso, se estará a la fecha de inicio de esa actividad.
 
 2. El Gobierno podrá modificar, mediante Real Decreto, lo establecido en el apartado 1 anterior.
+
+> Se modifica el apartado 1.3ª por la disposición final 13 de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
 
 > Se modifica el apartado 1.3ª por la disposición final 13 del Real Decreto-ley 3/2012, de 10 de febrero. Ref. BOE-A-2012-2076.
 
