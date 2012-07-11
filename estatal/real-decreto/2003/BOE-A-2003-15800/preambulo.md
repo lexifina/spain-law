@@ -62,9 +62,7 @@ Así, todos sus órganos y unidades administrativas y los puestos de trabajo res
 
 Dicha función genérica se desdobla en la inspección de funcionamiento interno y la inspección técnico-jurídica ; esta última tiene por objeto asegurar la efectividad del principio de unidad de doctrina, tanto en las funciones consultivas como en las contenciosas.
 
-Las funciones de inspección serán desempeñadas, bajo la jefatura del Abogado General del Estado-Director del Servicio Jurídico del Estado por la Abogacía del Estado en el Ministerio de Justicia, a la que el reglamento atribuye, además de aquellas funciones, y sin perder su carácter de servicio común propio de toda Abogacía del Estado de ministerio, las tareas de apoyo y asesoramiento al Abogado General del Estado-Director del Servicio Jurídico del Estado, así como la dirección y coordinación de la asistencia jurídica en virtud de convenio y la particular coordinación de las funciones de los Abogados del Estado-Secretarios de los Tribunales Económico-Administrativos.
-
-## VIII
+Las funciones de inspección serán desempeñadas, bajo la jefatura del Abogado General del Estado-Director del Servicio Jurídico del Estado por la Subdirección General de Coordinación, Auditoría y de Gestión del Conocimiento, a la que el Reglamento atribuye, además de aquellas funciones, la coordinación de las relaciones entre las Abogacías del Estado que desempeñen funciones consultivas y las Abogacías del Estado que desempeñen funciones contenciosas, la dirección y coordinación de la asistencia jurídica en virtud de convenio, la particular coordinación de las funciones de los Abogados del Estado-Secretarios de los Tribunales Económico-Administrativos y la gestión del conocimiento.VIII
 
 El título V contiene, finalmente, las "Disposiciones relativas al Cuerpo de Abogados del Estado", que regulan aspectos específicos de este colectivo funcionarial tradicionalmente recogidos en las normas reglamentarias que ahora se derogan, y cuya vigencia se mantuvo, no obstante, por las normas generales reguladoras de la función pública estatal, aplicables en lo previsto por aquellas normas específicas.
 
@@ -73,5 +71,7 @@ Estas últimas contemplan la adscripción del Cuerpo de Abogados del Estado al M
 Un capítulo dedicado al ingreso por oposición como único método de acceso al Cuerpo de Abogados del Estado cierra el título.
 
 En su virtud, a propuesta de los Ministros de Justicia y de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 25 de julio de 2003, D I S P O N G O :
+
+> Se modifica el apartado VII por el art. único.1 del Real Decreto 1003/2012, de 29 de junio. Ref. BOE-A-2012-9217.
 
 > Redactado el apartado VI conforme a la correción de errores publicada en BOE núm. 270, de 11 de noviembre de 2003. Ref. BOE-A-2003-20617
