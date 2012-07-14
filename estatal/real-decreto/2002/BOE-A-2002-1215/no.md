@@ -1,1 +1,1 @@
-> Incluye la corrección de errores y erratas publicada en BOE núm. 47, de 23 de febrero de 2002. Ref. BOE-A-2002-3722.
+Norma derogada por la disposición derogatoria única.f) del Real Decreto 1002/2012, de 29 de junio. Ref. BOE-A-2012-9327.
