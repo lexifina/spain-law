@@ -1,6 +1,10 @@
-## Disposición transitoria undécima. Tipos impositivos.
+## Disposición transitoria undécima. Régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección.
 
-(Derogada)
+Los sujetos pasivos revendedores de bienes usados o de bienes muebles, a que se refiere el artículo 136.Uno.5.º de esta Ley, podrán aplicar el régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección a las entregas de objetos de arte, adquiridos a empresarios o profesionales, distintos de los revendedores a que se refiere el artículo 136 de la Ley, cuando a dicha adquisición hubiera sido de aplicación un tipo reducido del Impuesto.
+
+> Atención: esta disposición surte efectos desde el 1 de septiembre de 2012.
+
+> Se añade, con efectos desde el 1 de septiembre de 2012, por el art. 23.7 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
 
 > Se deroga por la disposición derogatoria única de la Ley 9/1998, de 21 de abril. Ref. BOE-A-1998-9477.
 

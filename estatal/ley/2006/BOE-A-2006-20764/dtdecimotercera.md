@@ -6,4 +6,4 @@ a) Los contribuyentes que perciban un capital diferido derivado de un contrato d
 
 b) Los contribuyentes que perciban rendimientos obtenidos por la cesión a terceros de capitales propios procedentes de instrumentos financieros contratados con anterioridad a 20 de enero de 2006, en el supuesto de que la aplicación del régimen fiscal establecido en esta ley para dichos rendimientos le resulte menos favorable que el regulado en el texto refundido de la Ley del Impuesto sobre la Renta de las Personas Físicas.
 
-c) Los contribuyentes que hubieran adquirido su vivienda habitual con anterioridad a 20 de enero de 2006 y tuvieran derecho a la deducción por adquisición de vivienda, en el supuesto de que la aplicación del régimen establecido en esta ley para dicha deducción les resulte menos favorable que el regulado en el texto refundido de la Ley del Impuesto sobre la Renta de las Personas Físicas como consecuencia de la supresión de los porcentajes de deducción incrementados por utilización de financiación ajena.
+> Se suprime la letra c) por el art. 25.1 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.

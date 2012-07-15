@@ -1,0 +1,5 @@
+## Disposición adicional undécima. Declaración de zonas de gran afluencia turística en los municipios que reuniesen en 2011 los requisitos del artículo 5.5 de la Ley 1/2004, de 21 de diciembre, de Horarios Comerciales, en la redacción dada por este real decreto-ley.
+
+1. En el plazo de seis meses desde la entrada en vigor de este real decreto-ley, las Comunidades Autónomas declararán al menos una zona de gran afluencia turística en los municipios con más de 200.000 habitantes que hayan registrado más de 1.000.000 de pernoctaciones en el año 2011 o que cuenten con puertos en los que operen cruceros turísticos que hayan recibido en 2011 más de 400.000 pasajeros. La declaración de zonas de gran afluencia turística se hará teniendo en cuenta los criterios establecidos en el artículo 5.4 de la Ley 1/2004, de 21 de diciembre.
+
+2. A los efectos de lo establecido en el apartado anterior, los municipios de más de 200.000 habitantes, de elevada ocupación hotelera o elevado número de pasajeros en cruceros turísticos, se recogen en el anexo.

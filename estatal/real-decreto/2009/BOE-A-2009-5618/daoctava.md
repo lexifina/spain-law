@@ -4,7 +4,7 @@
 
 Esta cuantía se recuperará a través de la tarifa eléctrica durante un periodo de quince años a contar desde el 1 de enero de 2007. El importe pendiente de pago devengará intereses de actualización cada año desde el 31 de diciembre de 2006.
 
-(Párrafo tercero anulado)
+El importe de los intereses será anual, aplicando el EURIBOR a tres meses de la media de las cotizaciones del mes de noviembre del año anterior más un diferencial de 65 puntos básicos al importe a recuperar a 31 de diciembre de cada año.
 
 2. La cantidad recaudada será distribuida entre las empresas en los importes establecidos en el cuadro siguiente:
 
@@ -16,6 +16,8 @@ Esta cuantía se recuperará a través de la tarifa eléctrica durante un period
 | ELCOGÁS, S. A. | 53.257.063,23 € |
 
 3. Los titulares de los derechos de cobro podrán cederlos a terceros notificándolo previamente a la Comisión Nacional de Energía y a la Secretaría General de Energía.
+
+> Se modifica el apartado 1 por el art. 40 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
 
 > Se declara la nulidad del párrafo tercero del apartado 1 por Sentencia del TS de 16 de marzo de 2011. Ref. BOE-A-2011-7213.
 

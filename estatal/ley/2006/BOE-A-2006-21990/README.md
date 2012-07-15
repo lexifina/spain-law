@@ -43,6 +43,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 23](a23.md)
 - [Artículo 24](a24.md)
 - [Artículo 25](a25.md)
+- [Sección 4](s4.md)
+- [Artículo 25 bis](a25bis.md)
 - [CAPÍTULO III](ciii.md)
 - [Artículo 26](a26.md)
 - [Artículo 27](a27.md)

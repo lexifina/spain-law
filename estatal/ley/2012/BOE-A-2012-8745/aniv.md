@@ -2,84 +2,84 @@
 
 ## Módulos económicos de distribución de fondos públicos para sostenimiento de centros concertados
 
-Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y desglose de los módulos económicos por unidad escolar en los Centros concertados de los distintos niveles y modalidades educativas quedan establecidos con efectos de 1 de enero, y hasta el 31 de diciembre de 2012 de la siguiente forma:
+Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y desglose de los módulos económicos por unidad escolar en los centros concertados de los distintos niveles y modalidades educativas quedan establecidos con efectos de 1 de enero, y hasta el 31 de diciembre de 2012 de la siguiente forma:
 
 |  | Euros |
 | --- | --- |
 | EDUCACIÓN INFANTIL Y PRIMARIA |  |
-| Salarios de personal docente, incluidas cargas sociales | 27.480,35 |
-| Gastos variables | 3.740,29 |
-| Otros gastos | 5.856,66 |
-| IMPORTE TOTAL ANUAL | 37.077,30 |
-| EDUCACIÓN ESPECIAL * (niveles obligatorios y gratuitos) |  |
+| Salarios de personal docente, incluidas cargas sociales. | 26.243,73 |
+| Gastos variables. | 3.571,98 |
+| Otros gastos. | 5.768,81 |
+| IMPORTE TOTAL ANUAL. | 35.584,52 |
+| EDUCACIÓN ESPECIAL (*) (niveles obligatorios y gratuitos) |  |
 | I. Educación Básica/Primaria. |  |
-| Salarios de personal docente, incluidas cargas sociales | 27.480,35 |
-| Gastos variables | 3.740,29 |
-| Otros gastos | 6.247,14 |
-| IMPORTE TOTAL ANUAL | 37.467,78 |
+| Salarios de personal docente, incluidas cargas sociales. | 26.243,73 |
+| Gastos variables. | 3.571,98 |
+| Otros gastos. | 6.153,43 |
+| IMPORTE TOTAL ANUAL. | 35.969,14 |
 | Personal Complementario (Logopedas, fisioterapeutas, ayudantes técnicos educativos, psicólogo-pedagogo y trabajador social), según deficiencias: |  |
-| Psíquicos | 19.914,76 |
-| Autistas o problemas graves de personalidad | 16.153,95 |
-| Auditivos | 18.529,92 |
-| Plurideficientes | 22.998,27 |
+| Psíquicos. | 19.018,60 |
+| Autistas o problemas graves de personalidad. | 15.427,02 |
+| Auditivos. | 17.696,07 |
+| Plurideficiente. | 21.963,35 |
 | II. Programas de formación para la transición a la vida adulta. |  |
-| Salarios de personal docente, incluidas cargas sociales | 54.960,68 |
-| Gastos variables | 4.907,57 |
-| Otros gastos | 8.899,87 |
-| IMPORTE TOTAL ANUAL | 68.768,12 |
+| Salarios de personal docente, incluidas cargas sociales. | 52.487,45 |
+| Gastos variables. | 4.686,73 |
+| Otros gastos. | 8.766,37 |
+| IMPORTE TOTAL ANUAL. | 65.940,55 |
 | Personal Complementario (Logopedas, fisioterapeutas, ayudantes técnicos educativos, psicólogo-pedagogo y trabajador social), según deficiencias: |  |
-| Psíquicos | 31.796,69 |
-| Autistas o problemas graves de personalidad | 28.440,12 |
-| Auditivos | 24.636,12 |
-| Plurideficientes | 35.357,53 |
-| EDUCACIÓN SECUNDARIA OBLIGATORIA |  |
-| I. Primer y segundo curso 1. |  |
-| Salarios de personal docente, incluidas cargas sociales | 32.976,40 |
-| Gastos variables | 4.400,15 |
-| Otros gastos | 7.613,71 |
-| IMPORTE TOTAL ANUAL | 44.990,26 |
-| I. Primer y segundo curso 2. |  |
-| Salarios de personal docente, incluidas cargas sociales | 38.724,47 |
-| Gastos variables | 7.435,56 |
-| Otros gastos | 7.613,71 |
-| IMPORTE TOTAL ANUAL | 53.773,74 |
+| Psíquicos. | 30.365,84 |
+| Autistas o problemas graves de personalidad. | 27.160,31 |
+| Auditivos. | 23.527,49 |
+| Plurideficientes. | 33.766,44 |
+| EDUCACIÓN SECUNDARIA OBLIGATORIA. |  |
+| I. Primer y segundo curso (1). |  |
+| Salarios de personal docente, incluidas cargas sociales. | 31.492,46 |
+| Gastos variables. | 4.202,14 |
+| Otros gastos. | 7.499,50 |
+| IMPORTE TOTAL ANUAL. | 43.194,10 |
+| I. Primer y segundo curso (2)... |  |
+| Salarios de personal docente, incluidas cargas sociales. | 36.981,87 |
+| Gastos variables. | 7.100,96 |
+| Otros gastos. | 7.499,50 |
+| IMPORTE TOTAL ANUAL. | 51.582,33 |
 | II. Tercer y cuarto curso. |  |
-| Salarios de personal docente, incluidas cargas sociales | 43.887,73 |
-| Gastos variables | 8.426,97 |
-| Otros gastos | 8.403,58 |
-| IMPORTE TOTAL ANUAL | 60.718,28 |
-| BACHILLERATO |  |
-| Salarios de personal docente, incluidas cargas sociales | 52.923,46 |
-| Gastos variables | 10.161,93 |
-| Otros gastos | 9.264,21 |
-| IMPORTE TOTAL ANUAL | 72.349,60 |
-| CICLOS FORMATIVOS |  |
+| Salarios de personal docente, incluidas cargas sociales. | 41.912,78 |
+| Gastos variables. | 8.047,76 |
+| Otros gastos. | 8.277,53 |
+| IMPORTE TOTAL ANUAL. | 58.238,07 |
+| BACHILLERATO. |  |
+| Salarios de personal docente, incluidas cargas sociales. | 50.541,90 |
+| Gastos variables. | 9.704,64 |
+| Otros gastos. | 9.125,25 |
+| IMPORTE TOTAL ANUAL. | 69.371,79 |
+| CICLOS FORMATIVOS. |  |
 | I. Salarios de personal docente, incluidas cargas sociales. |  |
 | Grupo 1. Ciclos formativos de grado medio de 1.300 a 1.700 horas. |  |
-| Primer curso | 49.144,09 |
-| Segundo curso | 0,00 |
+| Primer curso. | 46.932,61 |
+| Segundo curso. | 0,00 |
 | Grupo 2. Ciclos formativos de grado medio de 2.000 horas. |  |
-| Primer curso | 49.144,09 |
-| Segundo curso | 49.144,09 |
+| Primer curso. | 46.932,61 |
+| Segundo curso. | 46.932,61 |
 | Grupo 3. Ciclos formativos de grado superior de 1.300 a 1.700 horas. |  |
-| Primer curso | 45.363,78 |
-| Segundo curso | 0,00 |
+| Primer curso. | 43.322,41 |
+| Segundo curso. | 0,00 |
 | Grupo 4. Ciclos formativos de grado superior de 2.000 horas. |  |
-| Primer curso | 45.363,78 |
-| Segundo curso | 45.363,78 |
+| Primer curso. | 43.322,41 |
+| Segundo curso. | 43.322,41 |
 | II. Gastos variables. |  |
 | Grupo 1. Ciclos formativos de grado medio de 1.300 a 1.700 horas. |  |
-| Primer curso | 6.636,31 |
-| Segundo curso | 0,00 |
+| Primer curso. | 6.337,68 |
+| Segundo curso. | 0,00 |
 | Grupo 2. Ciclos formativos de grado medio de 2.000 horas. |  |
-| Primer curso | 6.636,31 |
-| Segundo curso | 6.636,31 |
+| Primer curso. | 6.337,68 |
+| Segundo curso. | 6.337,68 |
 | Grupo 3. Ciclos formativos de grado superior de 1.300 a 1.700 horas. |  |
-| Primer curso | 6.593,36 |
-| Segundo curso | 0,00 |
+| Primer curso. | 6.296,66 |
+| Segundo curso. | 0,00 |
 | Grupo 4. Ciclos formativos de grado superior de 2.000 horas. |  |
-| Primer curso | 6.593,36 |
-| Segundo curso | 6.593,36 |
+| Primer curso. | 6.296,66 |
+| Segundo curso. | 6.296,66 |
 | III. Otros gastos. |  |
 | Grupo 1. Ciclos formativos de: |  |
 | – Conducción de Actividades Físico Deportivas en el Medio Natural. |  |
@@ -87,8 +87,8 @@ Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y d
 | – Estética Personal Decorativa. |  |
 | – Química Ambiental. |  |
 | – Higiene Bucodental. |  |
-| Primer curso | 10.178,78 |
-| Segundo curso | 2.380,58 |
+| Primer curso. | 10.026,10 |
+| Segundo curso. | 2.344,87 |
 | Grupo 2. Ciclos formativos de: |  |
 | – Secretariado. |  |
 | – Buceo a Media Profundidad. |  |
@@ -105,8 +105,8 @@ Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y d
 | – Documentación Sanitaria. |  |
 | – Curtidos. |  |
 | – Procesos de Ennoblecimiento Textil. |  |
-| Primer curso | 12.376,05 |
-| Segundo curso | 2.380,58 |
+| Primer curso | 12.190,41 |
+| Segundo curso | 2.344,87 |
 | Grupo 3. Ciclos formativos de: |  |
 | – Conservería Vegetal, Cárnica y de Pescado. |  |
 | – Transformación de Madera y Corcho. |  |
@@ -115,9 +115,9 @@ Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y d
 | – Industrias de Proceso de Pasta y Papel. |  |
 | – Plástico y Caucho. |  |
 | – Operaciones de Ennoblecimiento Textil. |  |
-| Primer curso | 14.729,24 |
-| Segundo curso | 2.380,58 |
-| Grupo 4. Ciclos formativos de: |  |
+| Primer curso | 14.508,30 |
+| Segundo curso | 2.344,87 |
+| Grupo 4. Ciclos formativos de |  |
 | – Encuadernados y Manipulados de Papel y Cartón. |  |
 | – Impresión en Artes Gráficas. |  |
 | – Fundición. |  |
@@ -130,20 +130,20 @@ Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y d
 | – Procesos Textiles de Tejeduría de Punto. |  |
 | – Operaciones de Fabricación de Vidrio y Transformados. |  |
 | – Fabricación y Transformación de Productos de Vidrio. |  |
-| Primer curso | 17.041,30 |
-| Segundo curso | 2.380,58 |
+| Primer curso | 16.785,68 |
+| Segundo curso | 2.344,87 |
 | Grupo 5. Ciclos formativos de: |  |
 | – Realización y Planes de Obra. |  |
 | – Asesoría de Imagen Personal. |  |
 | – Radioterapia. |  |
 | – Animación Sociocultural. |  |
 | – Integración Social. |  |
-| Primer curso | 10.178,78 |
-| Segundo curso | 3.849,67 |
+| Primer curso | 10.026,10 |
+| Segundo curso | 3.791,92 |
 | Grupo 6. Ciclos formativos de: |  |
 | – Operaciones de Cultivo Acuícola. |  |
-| Primer curso | 14.729,24 |
-| Segundo curso | 3.849,67 |
+| Primer curso | 14.508,30 |
+| Segundo curso | 3.791,92 |
 | Grupo 7. Ciclos formativos de: |  |
 | – Aceites de oliva y vinos. |  |
 | – Gestión Administrativa. |  |
@@ -199,8 +199,8 @@ Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y d
 | – Dirección de Servicios de Restauración. |  |
 | – Diseño y Producción de Calzado y Complementos. |  |
 | – Proyectos de Edificación. |  |
-| Primer curso | 9.167,25 |
-| Segundo curso | 11.074,12 |
+| Primer curso | 9.029,74 |
+| Segundo curso | 10.908,01 |
 | Grupo 8. Ciclos formativos de: |  |
 | – Producción Agroecológica. |  |
 | – Producción Agropecuaria. |  |
@@ -221,8 +221,8 @@ Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y d
 | – Prótesis Dentales. |  |
 | – Confección y Moda. |  |
 | – Patronaje y Moda. |  |
-| Primer curso | 11.290,71 |
-| Segundo curso | 12.887,91 |
+| Primer curso | 11.121,35 |
+| Segundo curso | 12.694,59 |
 | Grupo 9. Ciclos formativos de: |  |
 | – Animación de Actividades Físicas y Deportivas. |  |
 | – Diseño y Producción Editorial. |  |
@@ -236,7 +236,7 @@ Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y d
 | – Programación de la producción en fabricación mecánica. |  |
 | – Diseño en fabricación mecánica. |  |
 | – Fabricación a medida e instalación de Madera y Mueble. |  |
-| – Carpintería y Mueble. |  |
+| – Carpinteria y Mueble. |  |
 | – Producción de Madera y Mueble. |  |
 | – Montaje y Mantenim. de Instalaciones de Frío, Climatización y Produc. de Calor. |  |
 | – Desarrollo de Proyectos de Instalaciones Térmicas y Fluidos. |  |
@@ -246,8 +246,8 @@ Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y d
 | – Automoción. |  |
 | – Mantenimiento Aeromecánico. |  |
 | – Eficiencia Energética y Energía Solar Térmica. |  |
-| Primer curso | 13.279,90 |
-| Segundo curso | 14.733,80 |
+| Primer curso | 13.080,70 |
+| Segundo curso | 14.512,79 |
 | Grupo 10. Ciclos formativos de: |  |
 | – Producción Acuícola. |  |
 | – Vitivinicultura. |  |
@@ -263,14 +263,14 @@ Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y d
 | – Mantenimiento de Equipo Industrial. |  |
 | – Fabricación de Productos Cerámicos. |  |
 | – Desarrollo y Fabricación de Productos Cerámicos. |  |
-| Primer curso | 15.361,16 |
-| Segundo curso | 16.471,77 |
-| PROGRAMAS DE CUALIFICACIÓN PROFESIONAL INICIAL |  |
-| I. Salarios de personal docente, incluidas cargas sociales. | 49.144,09 |
-| II. Gastos variables | 6.636,31 |
+| Primer curso | 15.130,74 |
+| Segundo curso | 16.224,69 |
+| PROGRAMAS DE CUALIFICACIÓN PROFESIONAL INICIAL. |  |
+| I. Salarios de personal docente, incluidas cargas sociales | 46.932,61 |
+| II. Gastos variables | 6.337,68 |
 | III. Otros Gastos. |  |
-| Grupo 1 | 7.297,84 |
-| * Sobre Cualificaciones Nivel 1 de las Familias Profesionales de: |  |
+| Grupo 1 | 7.188,37 |
+| (*) Sobre Cualificaciones Nivel 1 de las Familias Profesionales de: |  |
 | – Administración. |  |
 | – Administración y Gestión. |  |
 | – Artesanías. |  |
@@ -281,7 +281,7 @@ Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y d
 | – Sanidad. |  |
 | – Seguridad y Medio Ambiente. |  |
 | – Servicios Socioculturales y a la Comunidad. |  |
-| Grupo 2 | 8.343,61 |
+| Grupo 2 | 8.218,46 |
 | * Sobre Cualificaciones Nivel 1 de las Familias Profesionales de: |  |
 | – Actividades Agrarias. |  |
 | – Agraria. |  |
@@ -294,7 +294,7 @@ Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y d
 | – Fabricación Mecánica. |  |
 | – Industrias Alimentarias. |  |
 | – Industrias Extractivas. |  |
-| – Madera y mueble. |  |
+| – Madera y Mueble. |  |
 | – Madera, Mueble y Corcho. |  |
 | – Mantenimiento de Vehículos Autopropulsados. |  |
 | – Transporte y Mantenimiento de Vehículos. |  |
@@ -303,8 +303,12 @@ Conforme a lo dispuesto en el artículo 17 de esta Ley, los importes anuales y d
 | – Instalación y Mantenimiento. |  |
 | – Textil, Confección y Piel. |  |
 
-1. A los maestros que imparten 1.º y 2.º curso de Educación Secundaria Obligatoria las Administraciones Educativas abonarán en 2012 la misma cuantía del complemento que para esta finalidad se les abona a los maestros de la enseñanza pública.
+(1) A los maestros que imparten 1.º y 2.º curso de Educación Secundaria Obligatoria las Administraciones Educativas abonarán en 2012 la misma cuantía del complemento que para esta finalidad se les abona a los maestros de la enseñanza pública.
 
-2. A los licenciados que impartan 1.º y 2.º curso de Educación Secundaria Obligatoria se les aplicará el módulo indicado.
+(2) A los licenciados que impartan 1.º y 2.º curso de Educación Secundaria Obligatoria se les aplicará el módulo indicado.
 
 (*) Las Comunidades Autónomas en pleno ejercicio de competencias educativas, podrán adecuar los módulos de Personal Complementario de Educación Especial, a las exigencias derivadas de la normativa aplicable en cada una de ellas.
+
+> Se modifica por la disposición final 10.2 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 172, de 19 de julio de 2012. Ref. BOE-A-2012-9654.

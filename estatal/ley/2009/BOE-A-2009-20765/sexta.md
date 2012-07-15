@@ -1,5 +1,5 @@
 ## Disposición adicional sexta. Extensión de lo dispuesto en el artículo 21 de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado al resto de funcionarios.
 
-Sin perjuicio de la integración en el régimen general de la Seguridad Social del régimen especial de los funcionarios de la Administración Local y de la integración en dicho régimen de los funcionarios de la Administración General del Estado y de las Administraciones Autonómicas en los casos en los que así proceda, todos los funcionarios integrados en el régimen general de la Seguridad Social, sea cual sea la administración en la que prestan sus servicios, cuando se encuentren en la situación de incapacidad temporal, durante los tres primeros meses, tendrán la misma protección en dicha situación que la prevista para los funcionarios civiles del Estado en el artículo 21.1.a) del texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado aprobado por Real Decreto Legislativo 4/2000, de 23 de junio.
+(Derogada)
 
-Lo dispuesto en el párrafo anterior tendrá vigencia indefinida y retrotraerá sus efectos a la fecha de entrada en vigor de la disposición derogatoria primera de la Ley 2/2008, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2009.
+> Se deroga por la disposición derogatoria única.5 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364#ddunica

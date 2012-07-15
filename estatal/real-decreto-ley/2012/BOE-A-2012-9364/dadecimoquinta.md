@@ -1,0 +1,3 @@
+## Disposición adicional decimoquinta. Suplementos territoriales de aplicación a peajes de acceso y tarifa de último recurso.
+
+Se habilita al Ministro de Industria, Energía y Turismo a determinar, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, los concretos tributos y recargos que serán considerados a efectos de la aplicación del suplemento territorial a los peajes de acceso y tarifas de último recurso, de acuerdo con lo establecido en los artículos 17 y 18 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, así como los mecanismos necesarios para su gestión y liquidación.

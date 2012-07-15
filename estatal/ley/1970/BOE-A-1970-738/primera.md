@@ -1,7 +1,15 @@
-## Disposición adicional primera. Garantías en operaciones con cobertura de crédito por cuenta del Estado.
+## Disposición adicional primera. Otorgamiento de garantías por cuenta del Estado.
 
-Las coberturas otorgadas en nombre propio y por cuenta del Estado por la compañía Española de Seguro de Crédito a la exportación S. A. Cia. De Seguros y Reaseguros (en adelante CESCE), sobre riesgos derivados del comercio exterior de las inversiones exteriores y de las transacciones económicas con el exterior podrán instrumentarse mediante garantías, o seguros de crédito, dentro de los ramos autorizados para dicha compañía.
+1. CESCE podrá garantizar, por cuenta del Estado, hasta el límite máximo que establezca la ley de presupuestos generales del Estado de cada año, las obligaciones económicas derivadas de garantías prestadas por terceros, préstamos, créditos a la exportación o emisiones de instrumentos financieros, destinados a facilitar la financiación de operaciones de comercio exterior e internacionalización de la empresa española. Además podrá garantizar, con las mismas limitaciones, las obligaciones económicas derivadas de instrumentos financieros, incluidos los resultantes de operaciones de titulización, cuya emisión se encuentre respaldada por créditos o préstamos a la exportación de bienes y servicios españoles asegurados por CESCE.
 
-A los efectos del párrafo anterior, el término «garantía» debe remitirse, aunque sin carácter limitativo, a la regulación del contrato de afianzamiento mercantil que se efectúa en los artículos 439 al 442 del Código de Comercio, y subsidiariamente a lo dispuesto en los artículos 1822 a 1856 del Código Civil. En particular se incluye en las garantías citadas la fianza, la garantía a primera demanda, y cualquier otro compromiso de pago o resarcimiento, que resulte exigible en caso de incumplimiento de las obligaciones objeto de garantía y que sean estrictamente necesarias para participar en las licitaciones públicas o en determinados contratos base de exportación.
+A los efectos de lo previsto en el párrafo anterior, CESCE podrá otorgar fianzas, garantías a primera demanda y cualquier otro compromiso de pago o resarcimiento que resulte exigible en caso de incumplimiento de las obligaciones objeto de garantía y que apruebe la Comisión Ejecutiva de Riesgos Políticos por cuenta del Estado del Consejo de Administración de CESCE.
+
+2. Todas y cada una de las operaciones que pretendan ser garantizadas conforme a lo establecido en el apartado anterior habrán de ser previamente aprobadas por la Comisión Ejecutiva de Riesgos Políticos por cuenta del Estado de CESCE.
+
+3. El Estado responderá de las obligaciones asumidas por CESCE por cuenta de aquél, para lo cual las leyes de presupuestos generales del Estado incluirán los créditos necesarios para hacer frente a la cobertura de los riesgos y gastos que se contraigan por cuenta del Estado, siempre y cuando los derechos cobrados y las reservas que, en su caso, se constituyan resultaren insuficientes.
+
+> Se modifica por el art. 29.2 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+
+> Redactado el apartado 2 conforme a la correción de errores publicada en BOE núm. 172, de 19 de julio. Ref. BOE-A-2012-9654.
 
 > Se añade por el art. 9 del Real Decreto-Ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879#a9.

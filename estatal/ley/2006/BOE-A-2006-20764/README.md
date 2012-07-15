@@ -229,6 +229,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria vigésima](dtvigesima.md)
 - [Disposición transitoria vigésima primera](dtvigesimaprimera.md)
 - [Disposición transitoria vigésima segunda](dtvigesimasegunda.md)
+- [Disposición transitoria vigésima tercera](dtvigesimatercera.md)
 - [Disposición derogatoria primera](ddprimera.md)
 - [Disposición derogatoria segunda](ddsegunda.md)
 - [Disposición final primera](dfprimera.md)

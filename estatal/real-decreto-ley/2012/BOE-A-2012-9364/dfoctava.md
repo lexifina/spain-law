@@ -1,0 +1,5 @@
+## Disposición final octava. Derechos sindicales en el ámbito del sector público.
+
+Las fundaciones, sociedades mercantiles y resto de entidades que conforman el sector público deberán efectuar una adecuada gestión, en el marco de la legislación vigente, de las materias relacionadas con la creación, modificación o supresión de órganos de representación, secciones y delegados sindicales, especialmente en lo que afecta a los créditos horarios, cesiones de estos créditos y liberaciones que deriven de la aplicación de normas o pactos que afecten a la obligación o al régimen de asistencia al trabajo. Todo ello con respeto de los derechos sindicales y de representación reconocidos en la legislación vigente.
+
+En el marco de las normas vigentes en materia de transparencia, las entidades mencionadas en el párrafo anterior, deberán informar al Ministerio de Hacienda y Administraciones Públicas u organismo autonómico competente en relación con estas materias, sin perjuicio de la protección de datos de carácter personal.

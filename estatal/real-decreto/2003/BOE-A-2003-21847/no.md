@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 53, de 2 de marzo de 2004. Ref. BOE-A-2004-3812.
+Téngase en cuenta que las referencias a las bonificaciones en materia de Seguridad Social contempladas en esta norma han sido derogadas por la disposición derogatoria única.2.g) del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364#ddunica.
