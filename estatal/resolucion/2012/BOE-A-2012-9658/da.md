@@ -1,0 +1,3 @@
+## Disposición adicional. Régimen especial de los concursos.
+
+A los efectos del cumplimiento de lo establecido en la disposición adicional cuarta del Real Decreto 1614/2011, de 14 de noviembre, por el que se desarrolla la Ley 13/2011, de 27 de mayo, de regulación del juego, en lo relativo a licencias, autorizaciones y registros del juego, los operadores de juego habilitados para el desarrollo y explotación de la modalidad de juego de concursos, en el proceso de pago de los premios obtenidos en esa modalidad de juego y respecto de los ganadores de los mismos, deberán proceder a la apertura de un registro de usuario en los términos y condiciones fijados en esta disposición.
