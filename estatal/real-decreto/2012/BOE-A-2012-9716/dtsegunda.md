@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Régimen transitorio aplicable a las IIC de carácter no financiero y a las IIC de inversión libre e IIC de IIC de inversión libre, en relación al documento con los datos fundamentales para el inversor.
+
+La forma y el contenido del documento con los datos fundamentales para el inversor al que se refiere el artículo 17 de la Ley 35/2003, de 4 de noviembre, se ajustará, en el caso de las IIC de carácter no financiero y las IIC de inversión libre e IIC de IIC de inversión libre, a lo previsto para el folleto simplificado en el Reglamento de IIC conforme a su redacción previa, en tanto no se haya determinado por la CNMV el contenido y la forma de presentar el folleto y el documento con los datos fundamentales para el inversor.

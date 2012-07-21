@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 301, de 17 de diciembre de 2005. Ref. BOE-A-2005-20787
+Norma derogada por la disposición derogatoria única del Real Decreto 1082/2012, de 13 de julio. Ref. BOE-A-2012-9716.
