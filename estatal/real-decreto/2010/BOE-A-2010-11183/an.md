@@ -71,7 +71,7 @@ B) Baremos de reproductoras pesadas
 
 | Semana | Euros/animal |
 | --- | --- |
-|  | 3,27 |
+| 0 | 3,27 |
 | 1 | 3,64 |
 | 2 | 4,03 |
 | 3 | 4,40 |
@@ -120,7 +120,7 @@ B) Baremos de reproductoras pesadas
 | 46 | 6,75 |
 | 47 | 6,49 |
 | 48 | 6,24 |
-| 49 | 6,99 |
+| 49 | 5,99 |
 | 50 | 5,73 |
 | 51 | 5,48 |
 | 52 | 5,22 |
@@ -141,7 +141,7 @@ C) Baremos de reproductoras ligeras y semipesadas
 
 | Semana | Euros/animal |
 | --- | --- |
-|  | 8,95 |
+| 0 | 8,95 |
 | 1 | 9,24 |
 | 2 | 9,53 |
 | 3 | 9,82 |
@@ -424,3 +424,5 @@ F) Baremos de pavos de estirpe medium
 | 58 | 11,99 |
 | 59 | 9,95 |
 | 60 | 8,00 |
+
+> Se modifica la letra B) por el art. único de la Orden AAA/1639/2012, de 18 de julio. Ref. BOE-A-2012-9934.
