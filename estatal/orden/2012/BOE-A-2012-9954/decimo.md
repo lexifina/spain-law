@@ -1,0 +1,5 @@
+## Décimo. Fomento del empleo.
+
+1. Con la previa aprobación prevista en la disposición adicional decimotercera de la Ley 6/1997, de 14 de abril, el Subsecretario delega en el titular de la Oficialía Mayor y en los Jefes de Demarcaciones de Carreteras, el ejercicio de las competencias para formalizar las memorias de obras y servicios cuya subvención se solicite del Servicio Público de Empleo Estatal, así como para los actos relacionados con la posterior gestión, aplicación y justificación de las concedidas por dicho Servicio, y para celebrar y firmar los contratos de trabajo de duración determinada, para obra o servicio determinado, con trabajadores desempleados, de acuerdo con las memorias que el mencionado Servicio Público de Empleo Estatal resuelva subvencionar, en el marco de la Orden de 19 de diciembre de 1997, o disposición que la sustituya.
+
+2. El ejercicio de las competencias delegadas en este apartado décimo se entenderá sin perjuicio de las funciones de coordinación que corresponden a la Inspección General de Fomento respecto de las unidades y servicios periféricos del Departamento.
