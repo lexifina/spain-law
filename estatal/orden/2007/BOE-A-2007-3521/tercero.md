@@ -24,7 +24,7 @@ f.1) Contratos de suministros, servicios, consultoría y asistencia en materia d
 
 f.2) Contratos de servicios, consultoría y asistencia cuyo objeto sea la formación en materia de tecnologías de la información.
 
-g) Estarán excluidos del informe técnico a que se refieren los puntos e) y f) del apartado tercero los contratos menores definidos por la normativa reguladora de Contratos de las Administraciones Públicas, los de adquisición centralizada, cuyo importe sea inferior a treinta mil euros (30.000 €) y los que hayan sido declarados secretos o reservados de acuerdo a lo establecido en los artículos 182 h) y 210 g) del texto refundido de la Ley de Contratos de las Administraciones Públicas.
+g) Estarán excluidos del informe técnico al que se refieren los puntos e) y f) de este apartado, los contratos menores definidos por la normativa reguladora de los Contratos de las Administraciones Públicas, los contratos de adquisición centralizada de bienes y servicios cuyo importe sea inferior al umbral establecido para la tramitación mediante el procedimiento negociado sin publicidad del artículo 177 del texto refundido de la Ley de Contratos del Sector Público, aprobado mediante Real Decreto Legislativo 3/2011, de 14 de noviembre, y los que hayan sido declarados secretos o reservados de acuerdo con lo establecido en el artículo 13.2.d) del citado texto refundido de la Ley de Contratos del Sector Público.
 
 h) Informar los proyectos de disposiciones de carácter general, instrucciones y circulares del Departamento que incidan en sus sistemas de información o afecten al ámbito competencial de la Comisión.
 
@@ -55,5 +55,7 @@ s) Conocer y estudiar los planes de inversión en Tecnologías de la Informació
 t) Comunicar con la adecuada anticipación, a los órganos de contratación competentes, los contratos que se prevean realizar en cada ejercicio presupuestario en materia de Sistemas de Tecnologías de la Información y Administración Electrónica, de modo que éstos puedan dar cumplimiento a lo dispuesto en los artículos 177, 181, 203 y 209 del Real Decreto Legislativo 2/2000, de 16 de junio, por el que se aprueba el texto refundido de la Ley de Contratos de las Administraciones Públicas.
 
 u) Impulsar, coordinar y seguir la implantación en el ámbito del Departamento del plan de medidas, recomendaciones y buenas prácticas en la adquisición y uso de los programas de ordenador por las Administraciones Públicas y de cuantas medidas adopte el Consejo Superior de Administración Electrónica para actuar contra las actividades vulneradoras de los derechos de propiedad intelectual e industrial.
+
+> Se modifica la letra g) por el art. único.2 de la Orden AEC/1636/2012, de 9 de julio. Ref. BOE-A-2012-9930.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 99, de 25 de abril de 2007. Ref. BOE-A-2007-8578.
