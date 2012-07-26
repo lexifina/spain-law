@@ -98,7 +98,6 @@
 | MPAA3 | Gramo de L-arginina | 0,2246 |
 | MPAA4 | Gramo de L-citrulina | 0,6388 |
 | MPAA5 | Gramo de L-cistina | 0,3304 |
-| MPAA6 | Gramo de L-glutamina | 0,4168 |
 | MPAA7 | Gramo de L-isoleucina | 0,6388 |
 | MPAA8 | Gramo de L-leucina | 0,2816 |
 | MPAA9 | Gramo de L-ornitina | 1,5189 |
@@ -111,5 +110,7 @@
 | MPAA16 | Gramo de L-serina. | 0,6701 |
 | MPEN1 | Gramo de proteína | 0,0828 |
 | MPPE1 | Gramo de equivalente proteico | 0,1381 |
+
+> Se actualiza por el art. 2.2 de la Orden SSI/1640/2012, de 18 de julio. Ref. BOE-A-2012-9935.
 
 > Se modifica por la disposición final 1.2 de la Orden SPI/573/2011, de 11 de marzo. Ref. BOE-A-2011-4884.
