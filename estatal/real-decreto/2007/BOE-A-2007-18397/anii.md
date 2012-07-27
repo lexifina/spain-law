@@ -6,15 +6,17 @@
 
 | Tipo de área acústica | Índices de ruido |
 | --- | --- |
-| Ld | Le | Ln |
+| L d | L e | L n |
 | e | Sectores del territorio con predominio de suelo de uso sanitario, docente y cultural que requiera una especial protección contra la contaminación acústica. | 60 | 60 | 50 |
 | a | Sectores del territorio con predominio de suelo de uso residencial. | 65 | 65 | 55 |
 | d | Sectores del territorio con predominio de suelo de uso terciario distinto del contemplado en c). | 70 | 70 | 65 |
 | c | Sectores del territorio con predominio de suelo de uso recreativo y de espectáculos. | 73 | 73 | 63 |
 | b | Sectores del territorio con predominio de suelo de uso industrial. | 75 | 75 | 65 |
-| f | Sectores del territorio afectados a sistemas generales de infraestructuras de transporte, u otros equipamientos públicos que los reclamen (1). | Sin determinar | Sin determinar | Sin determinar |
+| f | Sectores del territorio afectados a sistemas generales de infraestructuras de transporte, u otros equipamientos públicos que los reclamen. (1) | (2) | (2) | (2) |
 
 (1) En estos sectores del territorio se adoptarán las medidas adecuadas de prevención de la contaminación acústica, en particular mediante la aplicación de las tecnologías de menor incidencia acústica de entre las mejores técnicas disponibles, de acuerdo con el apartado a), del artículo 18.2 de la Ley 37/2003, de 17 de noviembre.
+
+(2) En el límite perimetral de estos sectores del territorio no se superarán los objetivos de calidad acústica para ruido aplicables al resto de áreas acústicas colindantes con ellos.
 
 Nota: Los objetivos de calidad aplicables a las áreas acústicas están referenciados a una altura de 4 m.
 
@@ -43,5 +45,7 @@ Nota: Los objetivos de calidad aplicables en el espacio interior están referenc
 | Educativo o cultural | 72 |
 
 A los efectos de lo establecido en el punto 4 del Anexo III del Real decreto 1513/2005, de 16 de diciembre, se considerarán como valores admisibles de referencia, en relación con las molestias y alteraciones del sueño, los que se establecen en las tablas de este y el siguiente anexo.
+
+> Se modifica la tabla A por el art. único del Real Decreto 1038/2012, de 6 de julio. Ref. BOE-A-2012-9984.
 
 > Se declara la nulidad de lo indicado en la tabla A por Sentencia del TS de 20 de julio de 2010. Ref. BOE-A-2010-16302.
