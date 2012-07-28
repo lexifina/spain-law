@@ -1,0 +1,3 @@
+## Disposición transitoria única. Participación en equipos de auditoría.
+
+Una vez transcurrido el período fijado en la disposición transitoria séptima del Real Decreto 345/2011, de 11 de marzo y a efectos de comprobar el cumplimiento por parte de los auditores principales de los requisitos de participación en equipos de auditoría establecidos en el artículo 12 a.2 y 12 b.2 de dicho Real Decreto, se considerarán válidas las auditorías de actuaciones en la Red de Carreteras del Estado que se hubieran realizado durante este período por técnicos que reúnan los requisitos establecidos en la citada disposición transitoria.
