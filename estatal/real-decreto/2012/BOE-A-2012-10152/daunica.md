@@ -1,0 +1,3 @@
+## Disposición adicional única. Órganos colegiados del Servicio Militar de Construcciones.
+
+La creación y funcionamiento de los órganos colegiados previstos en el estatuto que se aprueba por este real decreto será atendido con los medios personales, técnicos y presupuestarios asignados al órgano superior o directivo en el que se encuentren integrados, de conformidad con el artículo 2.2 del Real Decreto 776/2011, de 3 de junio, por el que se suprimen determinados órganos colegiados y se establecen criterios para la normalización en la creación de órganos colegiados de la Administración General del Estado y sus organismos públicos.
