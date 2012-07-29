@@ -6,9 +6,9 @@ Indicaciones generales
 
 Las únicas indicaciones relativas al producto que se admitirán en el interior del recuadro de etiquetas y documentos de acompañamiento serán las siguientes:
 
-Las identificaciones y menciones obligatorias del apartado A.
+Las identificaciones y menciones obligatorias del apartado 1.
 
-Las identificaciones y menciones opcionales del apartado B.
+Las identificaciones y menciones opcionales del apartado 2.
 
 Cualquier otra información adicional que figure en las etiquetas, envases y documentos de acompañamiento deberá estar claramente separada y fuera del recuadro de la propia etiqueta.
 
@@ -88,9 +88,7 @@ d) Las características físico-químicas.
 
 e) La cantidad (volumen).
 
-f) Los elementos de identificación.
-
-Las indicaciones de etiquetado opcionales, pueden figurar en el interior del cuadro. Conviene colocarlas en orden lógico al lado de las indicaciones de etiquetado obligatorias. Por ejemplo: el volumen de aire a continuación de la densidad aparente seca.
+Las indicaciones de etiquetado opcionales del punto 2 y la identificación obligatoria de la partida o lote del punto 1, pueden figurar tanto en el interior del cuadro como fuera del mismo. Es conveniente colocarlas en orden lógico al lado de las indicaciones de etiquetado obligatorias.
 
 La composición del producto [véase punto c) anterior] debe estar escrita íntegra, sea cual sea su emplazamiento.
 
@@ -109,3 +107,7 @@ Las mezclas de sustratos formuladas por un fabricante a demanda del usuario fina
 1. Denominación de los sustratos o componentes de sustratos que componen la mezcla final, con su porcentaje volumétrico correspondiente.
 
 2. Especificaciones del producto final, reflejando sus declaraciones obligatorias y opcionales, según las indicadas para el tipo de producto 5.1 «sustratos de mezcla» del anexo I.
+
+> Se modifica por el art. único.2 del Real Decreto 1039/2012, de 6 de julio. Ref. BOE-A-2012-10153.
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
