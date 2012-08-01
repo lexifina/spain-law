@@ -8,7 +8,7 @@ b) Armada: Escuela Naval Militar.
 
 c) Ejército del Aire: Academia General del Aire.
 
-2. La formación militar general y específica para incorporarse a la escala de oficiales del Cuerpo General del Ejército de Tierra se completará en los siguientes centros docentes militares de formación:
+2. La formación militar general y específica para incorporarse a la escala de oficiales del Cuerpo General del Ejército de Tierra se podrá completar en los siguientes centros docentes militares de formación:
 
 a) Academia de Infantería.
 
@@ -47,5 +47,7 @@ c) Escuela Militar de Sanidad.
 d) Escuela de Músicas Militares.
 
 Por la Subsecretaría de Defensa se adoptarán las medidas necesarias para coordinar las actuaciones en las escuelas mencionadas.
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 1141/2012, de 27 de julio. Ref. BOE-A-2012-10265.
 
 > Redactado el apartado 5.a) conforme a la corrección de errores publicada en BOE núm. 91, de 15 de abril de 2010. Ref. BOE-A-2010-5986

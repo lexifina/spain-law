@@ -118,7 +118,7 @@ Especialidad fundamental de Instrumentista: los títulos de enseñanzas artísti
 
 Se autoriza al Ministro de Defensa a determinar, conforme se vayan inscribiendo en el Registro de Universidades, Centros y Títulos, regulado por Real Decreto 1509/2008, de 12 de septiembre, qué titulaciones universitarias oficiales se exigirán para ingresar en los centros docentes militares de formación para acceder a las diferentes escalas de oficiales.
 
-Para ingresar en los centros docentes militares de formación de oficiales de los Cuerpos Generales y de Infantería de Marina, los títulos oficiales de Graduado deberán estar adscritos a las ramas de conocimiento de Ingeniería y Arquitectura, Ciencias, y Ciencias Sociales y Jurídicas vinculados con la economía y la dirección y administración de empresas. Además, los créditos en materias duales que aporten dichos títulos junto con los que se determinen por exigirse en las pruebas que conforman los procesos de selección para acceder a la enseñanza de oficiales, han de permitir configurar un plan de estudios de formación militar general, específica y de especialidad fundamental igual o inferior a 140 ECTS.
+Para ingresar en los centros docentes militares de formación de oficiales de los Cuerpos Generales y de Infantería de Marina, los títulos oficiales de Graduado deberán estar adscritos a las ramas de conocimiento de Ingeniería y Arquitectura, Ciencias, y Ciencias Sociales y Jurídicas vinculados con la economía y la dirección y administración de empresas.
 
 Los títulos universitarios oficiales para ingresar en los centros docentes militares de formación para acceder a las diferentes escalas de oficiales de los Cuerpos de Ingenieros del Ejército de Tierra, de la Armada y del Ejército del Aire los determinará el Ministro de Defensa una vez se regule su régimen, escalas, empleos y cometidos, de acuerdo con lo indicado en la disposición final sexta de la Ley de la carrera militar.
 
@@ -142,3 +142,5 @@ El Ministro de Defensa determinará los títulos de Técnico Superior que, en el
 B. Cuerpo de Músicas Militares: Se exigirá estar en posesión del título de Bachiller en cualquiera de sus modalidades o haber superado la prueba de acceso a los ciclos formativos de la formación profesional de grado superior a la que hace referencia el artículo 41.2 de la Ley Orgánica 2/2006, de 3 de mayo, de la Educación y, en ambos casos, el título profesional de música.
 
 Las especialidades instrumentales requeridas serán las que de forma expresa figuren en la correspondiente convocatoria.
+
+> Se modifica el apartado 2 por el art. único.16 del Real Decreto 1141/2012, de 27 de julio. Ref. BOE-A-2012-10265.
