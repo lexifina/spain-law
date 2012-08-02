@@ -6,9 +6,15 @@
 
 Las funciones del Departamento de Recaudación son las contempladas en el apartado Cuarto de la Orden de 11 de julio de 1997, por la que se reorganizan los servicios centrales de la Agencia Estatal de Administración Tributaria.
 
-1.2 Estructura.–De acuerdo con lo establecido en la Orden de 2 de junio de 1994, por la que se desarrolla la estructura de la Agencia Estatal de Administración Tributaria, el Departamento de Recaudación estará integrado por las siguientes Subdirecciones Generales:
+1.2 Estructura.
 
-a) Subdirección General de Coordinación y Gestión.–Entre otras funciones, le corresponde la realización de las actuaciones necesarias para la asunción por la Agencia Tributaria de la gestión recaudatoria de deudas de las Administraciones públicas cuando así se establezca por ley o por convenio, el ejercicio de las funciones que la normativa atribuye al Departamento de Recaudación en relación con las tasas del Sector Público Estatal, así como el diseño de sistemas y métodos para la gestión recaudatoria.
+De acuerdo con lo establecido en la Orden de 2 de junio de 1994, por la que se desarrolla la estructura de la Agencia Estatal de Administración Tributaria, el Departamento de Recaudación estará integrado por las siguientes Subdirecciones Generales:
+
+a) Subdirección General de Coordinación y Gestión:
+
+Entre otras funciones, le corresponde la realización de las actuaciones necesarias para la asunción por la Agencia Tributaria de la gestión recaudatoria de deudas de las Administraciones públicas cuando así se establezca por ley o por convenio, el ejercicio de las funciones que la normativa atribuye al Departamento de Recaudación en relación con las tasas del Sector Público Estatal, así como el diseño de sistemas y métodos para la gestión recaudatoria.
+
+También le corresponde la tramitación del procedimiento de extinción de deudas de las entidades de derecho público mediante deducciones sobre las cantidades que la Administración General del Estado deba transferir a los entes territoriales, organismos autónomos, Seguridad Social y demás entidades de Derecho público, así como la dirección, coordinación, homologación y planificación de las acciones de asistencia, colaboración, cooperación y otras de naturaleza análoga que correspondan a la Agencia Tributaria en virtud de la normativa sobre Asistencia Mutua para el cobro entre los Estados miembros de la Unión Europea o en el marco de otros tratados o convenios internacionales.
 
 Bajo la dependencia de la Subdirección General de Coordinación y Gestión, el Equipo Central de Control de Entidades Colaboradoras será competente para llevar a cabo la tramitación de solicitudes de las entidades de crédito para actuar como Entidades colaboradoras y el control y seguimiento de las mismas en su actuación como tales.
 
@@ -32,18 +38,24 @@ En particular, corresponderá a este Equipo:
 
 El Equipo de Control de Entidades Colaboradoras podrá requerir la colaboración de los demás órganos de recaudación para el ejercicio de las competencias que tiene atribuidas.
 
-b) Subdirección General de Organización y Planificación.–Entre otras funciones, le corresponde, la planificación, organización y racionalización de las actuaciones de los órganos de recaudación, la gestión y formación de los recursos humanos y la supervisión del régimen interior del Departamento y su administración económica.
+b) Subdirección General de Organización y Planificación:
 
-c) Subdirección General de Recaudación Ejecutiva. Entre otras funciones, le corresponde la coordinación e impulso de los órganos de recaudación y de las actuaciones coordinadas de éstos con otros órganos de la Agencia Tributaria y la planificación de los trabajos a realizar por las Dependencias.
+Entre otras funciones, le corresponde, la planificación, organización y racionalización de las actuaciones de los órganos de recaudación, la gestión y formación de los recursos humanos y la supervisión del régimen interior del Departamento y su administración económica.
 
-El titular de la Subdirección General de Recaudación Ejecutiva ejercerá la competencia prevista en el apartado Tercero.1.2.3. de esta Resolución.
+c) Subdirección General de Recaudación Ejecutiva:
+
+Entre otras funciones, le corresponde la coordinación e impulso de los órganos de recaudación y de las actuaciones coordinadas de éstos con otros órganos de la Agencia Tributaria y la planificación de los trabajos a realizar por las Dependencias.
 
 Bajo la dependencia de la Subdirección General de Recaudación Ejecutiva, al Equipo Central de Procesos Concursales le corresponderá realizar aquellas tareas que le encomiende el titular de la Subdirección General relativas al establecimiento de mecanismos de planificación, impulso y coordinación de las actuaciones de gestión recaudatoria de las deudas correspondientes a personas o entidades en proceso concursal.
 
-d) Subdirección General de Procedimientos Especiales.–Entre otras funciones, le corresponde la elaboración y elevación de disposiciones normativas, el establecimiento de criterios generales a seguir por los órganos de recaudación y las actuaciones relativas a la planificación y organización de la prevención y lucha contra el fraude a la Hacienda pública en el ámbito recaudatorio.
+d) Subdirección General de Procedimientos Especiales:
 
-Bajo la dependencia de la Subdirección General de Procedimientos Especiales, a los Equipos Centrales de Actuaciones Especiales y Relación con los Tribunales les corresponderá la tramitación del procedimiento de pago en especie, y en concreto, la realización de los requerimientos a que se refiere el artículo 40.2 del Reglamento General de Recaudación, del procedimiento de extinción de deudas de las entidades de derecho público mediante deducciones sobre transferencias y de las tercerías cuya resolución corresponda al titular del Departamento de Recaudación.
+Entre otras funciones, le corresponde la elaboración y elevación de disposiciones normativas, el establecimiento de criterios generales a seguir por los órganos de recaudación y las actuaciones relativas a la planificación y organización de la prevención y lucha contra el fraude a la Hacienda pública en el ámbito recaudatorio.
 
-En caso de vacante, ausencia o enfermedad de los titulares de las Subdirecciones Generales, éstos serán sustituidos por sus Adjuntos, si los hubiera, y en defecto de los anteriores, la Dirección del Departamento de Recaudación acordará la sustitución que proceda.
+Bajo la dependencia de la Subdirección General de Procedimientos Especiales, a los Equipos Centrales de Actuaciones Especiales y Relación con los Tribunales les corresponderá la tramitación del procedimiento de pago en especie, y en concreto, la realización de los requerimientos a que se refiere el artículo 40.2 del Reglamento General de Recaudación, y de las tercerías cuya resolución corresponda al titular del Departamento de Recaudación.
+
+En caso de vacante, ausencia o enfermedad de los titulares de las Subdirecciones Generales serán sustituidos por sus Adjuntos, si los hubiera, y en defecto de los anteriores, la dirección del Departamento de Recaudación acordará la sustitución que proceda.
 
 2. Delegación Central de Grandes Contribuyentes.–A la Dependencia de Asistencia y Servicios Tributarios de la Delegación Central de Grandes Contribuyentes y al titular de la citada Delegación corresponden las funciones y competencias que en materia recaudatoria se establecen en las disposiciones que la regulan.
+
+> Se modifica el punto 1.2 por el art. único.1 de la Resolución de 24 de julio de 2012. Ref. BOE-A-2012-10347.

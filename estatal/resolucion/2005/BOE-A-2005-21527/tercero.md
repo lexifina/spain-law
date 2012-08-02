@@ -10,7 +10,7 @@ En aquellas Delegaciones Especiales de la Agencia cuyo ámbito territorial coinc
 
 1.2 Ámbito competencial.
 
-1.2.1 Reglas generales.–Los órganos territoriales de recaudación serán competentes para desarrollar la gestión recaudatoria y realizar actuaciones coordinadas con otros órganos de la Agencia Tributaria respecto de las deudas de las personas o entidades cuyo domicilio fiscal se encuentre dentro del ámbito territorial de la correspondiente Delegación Especial, salvo que se encuentren adscritos a la Delegación Central de Grandes Contribuyentes, resulte de aplicación alguna de las reglas especiales contempladas en el apartado Tercero.1.2.2. o se hayan adscrito a otra Delegación Especial mediante acuerdo del titular de la Subdirección General de Recaudación Ejecutiva de acuerdo con lo previsto en el apartado Tercero.1.2.3.
+1.2.1 Reglas generales.–Los órganos territoriales de recaudación serán competentes para desarrollar la gestión recaudatoria y realizar actuaciones coordinadas con otros órganos de la Agencia Tributaria respecto de las deudas de las personas o entidades cuyo domicilio fiscal se encuentre dentro del ámbito territorial de la correspondiente Delegación Especial, salvo que se encuentren adscritos a la Delegación Central de Grandes Contribuyentes, resulte de aplicación alguna de las reglas especiales contempladas en el apartado Tercero.1.2.2. o se hayan adscrito a otra Delegación Especial por acuerdo del titular del Departamento de Recaudación.
 
 En concreto, en el ámbito de cada Delegación Especial se distribuye la competencia entre los distintos órganos territoriales de recaudación de acuerdo con los siguientes criterios:
 
@@ -66,25 +66,15 @@ b) El mismo criterio de adscripción del deudor sucedido será el determinante d
 
 Las competencias resolutorias en materia de reembolso del coste de las garantías aportadas para suspender la ejecución de los actos impugnados a través de un recurso de reposición y que no hayan sido objeto de reclamación en vía económico-administrativa corresponderá a la Dependencia Regional de Recaudación en cuyo ámbito territorial se encuentre el órgano competente para la resolución del recurso de reposición.
 
-1.2.3 Adscripción mediante acuerdo del titular de la Subdirección General de Recaudación Ejecutiva.–El titular de la Subdirección General de Recaudación Ejecutiva, mediante acuerdo expreso y de forma motivada, podrá adscribir a una persona o entidad a una Dependencia Regional de Recaudación distinta de aquélla a la que correspondería de conformidad con las reglas generales y especiales anteriores, cuando así lo aconseje alguna de las siguientes circunstancias:
-
-a) Que en el territorio de la Dependencia Regional de Recaudación a la que se adscriba dicha persona o entidad radiquen sus factores productivos, bienes inmuebles, explotaciones económicas o el mayor valor de su inmovilizado.
-
-b) Que exista una relación económica o personal entre obligados tributarios adscritos a distintas Dependencias Regionales de Recaudación o que se realicen, respecto de un obligado tributario, actuaciones coordinadas entre los órganos liquidadores y de recaudación correspondientes a distinta Delegación Especial.
-
-c) Que dicha persona o entidad se encuentre incursa en un proceso concursal que se tramite en un órgano judicial ubicado fuera de la demarcación territorial de la Dependencia Regional de Recaudación que resultaría competente con arreglo a las reglas general y especiales anteriores.
-
-d) Que se haya iniciado la enajenación de bienes y derechos frente a dicha persona o entidad fuera de la demarcación territorial de la Dependencia Regional de Recaudación que resultaría competente con arreglo a las reglas general y especiales anteriores.
-
-El órgano destinatario del cambio de adscripción notificará al interesado la adscripción que resulte del acuerdo del titular de la Subdirección General de Recaudación Ejecutiva.
-
-1.2.4 Continuación de actuaciones.–La modificación del órgano competente como consecuencia de la aplicación de las reglas anteriores surtirá efectos transcurrido un mes desde la concurrencia de la circunstancia determinante del cambio de adscripción, salvo que durante dicho plazo el órgano destinatario del cambio haya realizado la comunicación al obligado al pago de alguna actuación, en cuyo caso surtirá efectos desde que se efectúe dicha comunicación. Si el cambio de adscripción deriva de un acuerdo singular objeto de notificación, el cambio se entenderá producido desde que se efectúe la notificación al interesado de la adscripción que resulte del acuerdo.
+1.2.3 Continuación de actuaciones.–La modificación del órgano competente como consecuencia de la aplicación de las reglas anteriores surtirá efectos transcurrido un mes desde la concurrencia de la circunstancia determinante del cambio de adscripción, salvo que durante dicho plazo el órgano destinatario del cambio haya realizado la comunicación al obligado al pago de alguna actuación, en cuyo caso surtirá efectos desde que se efectúe dicha comunicación. Si el cambio de adscripción deriva de un acuerdo singular objeto de notificación, el cambio se entenderá producido desde que se efectúe la notificación al interesado de la adscripción que resulte del acuerdo.
 
 En tanto no surta efectos el cambio de adscripción, las actuaciones necesarias para el ejercicio de las competencias se continuarán realizando por el órgano de recaudación competente con anterioridad al cambio de adscripción.
 
 Los procedimientos que se encuentren en tramitación en el momento en que surta efectos el cambio de adscripción, serán continuados y finalizados desde ese momento por el órgano destinatario del cambio, al que se remitirán los antecedentes necesarios.
 
-Lo dispuesto en el párrafo anterior no será de aplicación en los procedimientos de declaración de responsabilidad tributaria, en los procedimientos frente a los sucesores ni respecto de las actuaciones de gestión recaudatoria de todas las deudas de los declarados responsables o sucesores, en cuyo caso, tanto las actuaciones iniciadas con anterioridad a dicho cambio como las que se puedan iniciar con posterioridad, continuarán tramitándose por el órgano de recaudación competente con anterioridad al cambio de adscripción, tanto respecto al deudor principal o deudor sucedido como respecto de los declarados responsables o sucesores en tanto no se finalicen las actuaciones de gestión recaudatoria relativas al procedimiento de declaración de responsabilidad o frente a los sucesores, salvo que el cambio de adscripción derive de un acuerdo del titular de la Subdirección General de Recaudación Ejecutiva de los previstos en el apartado Tercero.1.2.3. de esta Resolución.
+Lo dispuesto en el párrafo anterior no será de aplicación en los procedimientos de declaración de responsabilidad tributaria, en los procedimientos frente a los sucesores ni respecto de las actuaciones de gestión recaudatoria de todas las deudas de los declarados responsables o sucesores, en cuyo caso, tanto las actuaciones iniciadas con anterioridad a dicho cambio como las que se puedan iniciar con posterioridad, continuarán tramitándose por el órgano de recaudación competente con anterioridad al cambio de adscripción, tanto respecto al deudor principal o deudor sucedido como respecto de los responsables o sucesores en tanto no se finalicen las actuaciones de gestión recaudatoria relativas al procedimiento de declaración de responsabilidad o frente a los sucesores.
+
+1.2.4 . (Sin contenido)
 
 1.3 Jefatura.
 
@@ -419,5 +409,9 @@ En los casos de ausencia, vacante o enfermedad, los Jefes de Unidad serán susti
 4.3 Competencias de los Administradores en su calidad de Coordinadores de Unidades Administrativas Regionales de Recaudación.–En relación con las Unidades Administrativas Regionales de Recaudación que tengan asignadas, corresponden a los Administradores las competencias enumeradas en el apartado Tercero.2.2.5 de la presente Resolución y además, les corresponderá dictar la providencia de apremio de las deudas, ejecutando los procesos informáticos que correspondan y liquidar los recargos que resulten exigibles, así como declarar la prescripción del derecho a realizar tal liquidación.
 
 En los casos de ausencia, vacante o enfermedad, los Administradores serán sustituidos por la persona que designe el titular de la Delegación.
+
+> Se modifican los punto 1.2.1, párrafo primero y 1.2.3 y se deja sin contenido el 1.2.4 por el art. único.2 de la Resolución de 24 de julio de 2012. Ref. BOE-A-2012-10347.
+
+> Redactado el punto 1.2.3 conforme a la corrección de errores publicada en BOE núm. 190, de 9 de agosto de 2012. Ref. BOE-A-2012-10652.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 57, de 8 de marzo de 2006. Ref. BOE-A-2006-4117.
