@@ -4,7 +4,15 @@
 
 a) Las de coordinación y planificación de las actuaciones de gestión de los órganos y unidades de Aduanas e Impuestos Especiales de las provincias a las que se extienda su ámbito territorial, así como la prestación de asistencia técnica a aquéllos.
 
-b) La inspección de los tributos, beneficios y restituciones, cuya comprobación e investigación esté atribuida o se atribuya por la normativa vigente en la materia al Departamento de Aduanas e Impuestos Especiales, en todo su ámbito territorial.
+b) La inspección de los tributos, beneficios y restituciones, cuya comprobación e investigación esté atribuida o se atribuya por la normativa vigente al Departamento de Aduanas e Impuestos Especiales.
+
+Dicha función y cualquier otra atribuida normativamente a la Inspección de los Tributos se extenderá a todos los obligados tributarios con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia Tributaria sobre los que la Delegación Central de Grandes Contribuyentes no ejerza su competencia.
+
+No obstante, las Dependencias Regionales de Aduanas e Impuestos Especiales extenderán sus competencias sobre los siguientes obligados tributarios:
+
+– Los obligados tributarios que concurran en el presupuesto de hecho de una obligación que sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial o estando adscritos a la Delegación Central de Grandes Contribuyentes, comparezcan en las actuaciones o procedimientos iniciados por la Dependencia Regional de Aduanas e Impuestos Especiales con relación a otro obligado sobre el que tenga competencia de acuerdo con lo establecido en el segundo párrafo de este apartado b).
+
+– Los sucesores de personas físicas fallecidas y de las personas jurídicas y demás entidades disueltas o extinguidas que, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial o estando adscritos a la Delegación Central de Grandes Contribuyentes, comparezcan en las actuaciones o procedimientos iniciados por la Dependencia Regional de Aduanas e Impuestos Especiales con relación a alguno o algunos de los sucesores sobre los que tenga competencia de acuerdo con lo establecido en el segundo párrafo de este apartado b).
 
 c) La intervención de las actividades y locales, en los términos previstos por el Reglamento de los Impuestos Especiales, que se hallen situados en el territorio al que se refieran sus competencias en la materia.
 
@@ -41,5 +49,7 @@ e) Área Regional Químico-Tecnológica de Aduanas e Impuestos Especiales.
 6. (Suprimido)
 
 7. La distribución de las Dependencias Regionales de Aduanas e Impuestos Especiales por Delegaciones Especiales es la desarrollada en el anexo II de la presente Resolución.
+
+> Se modifica el punto 1.b) por el art. único.1 de la Resolución de 27 de julio de 2012. Ref. BOE-A-2012-10421.
 
 > Se suprime el punto 6 por el art. único.1 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22254.
