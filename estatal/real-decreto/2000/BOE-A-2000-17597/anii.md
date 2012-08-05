@@ -8,6 +8,8 @@ Lista A.
 
 — Reactivos y productos reactivos, incluidos los materiales asociados de calibrado y control, para la detección, confirmación y cuantificación en muestras humanas de marcadores de infección por VIH (VIH 1 y 2), HTLV I y II y de hepatitis B, C y D.
 
+— Pruebas de hemocribado, diagnóstico y confirmación de la variante de la enfermedad de Creutzfeldt-Jakob (v-ECJ).
+
 Lista B.
 
 — Reactivos y productos reactivos, incluidos los materiales asociados de calibrado y control, para la determinación de los grupos sanguíneos siguientes: anti-Duffy y anti-Kidd.
@@ -27,3 +29,5 @@ Lista B.
 — Reactivos y productos reactivos, incluidos los materiales asociados de calibrado y control, así como los programas informáticos destinados específicamente a la evaluación del riesgo de la trisomía en el par 21.
 
 — El siguiente producto para autodiagnóstico, incluidos los materiales asociados de calibrado y control: equipo para la medición de la glucemia.
+
+> Se modifica la Lista A por el art. único.1 del Real Decreto 1193/2012, de 3 de agosto. Ref. BOE-A-2012-10478.
