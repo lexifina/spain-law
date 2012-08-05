@@ -16,8 +16,10 @@ En la modalidad de impartición presencial, el módulo de «nivel básico», que
 
 La formación de carácter transversal contemplada en el artículo 6.2 cuando acompañe a una acción de formación que sea específica se valorará de acuerdo con el módulo económico de esta última.
 
-2 Respecto de las actuaciones de evaluación y control de la calidad de la formación a que hace referencia el artículo 33.5, el beneficiario deberá destinar a esta finalidad hasta un 5 por ciento de la subvención que le haya sido concedida para la ejecución de la actividad formativa.
+2. Respecto de las actuaciones de evaluación y control de la calidad de la formación a que hace referencia el artículo 33.5, las correspondientes convocatorias determinarán la parte de la subvención que como máximo el beneficiario deberá destinar a esta finalidad.
 
 3. Las Administraciones públicas competentes podrán incrementar hasta en un 50 por ciento el módulo económico superior de la modalidad presencial, en función de la singularidad de determinadas acciones formativas que por su especialidad y características técnicas precisen de una financiación mayor.
 
 El coste del conjunto de las acciones contempladas en el párrafo anterior no podrá superar el 5 por ciento del total de los fondos destinados a la financiación de la oferta de formación profesional para el empleo.
+
+> Se modifica el apartado 2 por el art. único.11 de la Orden ESS/1726/2012, de 2 de agosto. Ref. BOE-A-2012-10474.
