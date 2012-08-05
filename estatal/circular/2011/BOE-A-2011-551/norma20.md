@@ -1,13 +1,11 @@
 ## Norma 20.ª Requisitos específicos de solvencia exigidos a las contrapartes en operaciones con instrumentos derivados.
 
-1. A los efectos de lo establecido en el artículo 36.1 g) 2.º del Reglamento de la Ley 35/2003, se entenderá una contraparte tiene solvencia suficiente cuando su calificación crediticia sea:
+1. Según lo establecido en el artículo 48.1.g) 2.º del Reglamento de la Ley 35/2003 una IIC podrá realizar operaciones con contrapartes que presenten una solvencia suficiente a juicio de la gestora para atender el cumplimiento de sus obligaciones. A estos efectos, la gestora deberá realizar un análisis del riesgo de crédito de la contraparte, utilizando metodologías apropiadas y considerando diferentes indicadores o parámetros de uso habitual en el mercado.
 
-a) En el largo plazo, aquella que como mínimo signifique una fuerte capacidad de la entidad para atender a tiempo el pago de sus obligaciones. Se entiende que la capacidad del emisor para cumplir con sus compromisos financieros a largo plazo es «fuerte» siempre que haya sido calificada como mínimo con «A-» por Standard & Poor´s, «A3» por Moody´2, «A-» por Fitch o similares por otras ECAI.
+Los requisitos anteriores, no resultarán exigibles a las contrapartidas de instrumentos financieros no negociados en mercados organizados de derivados siempre que se liquiden a través cámaras de contrapartida central en el que se exija el depósito de garantías en función de las cotizaciones, que registre las operaciones realizadas y se interponga entre las partes contratantes actuando como comprador ante el vendedor y como vendedor ante el comprador.
 
-b) En el corto plazo, aquella que como mínimo signifique una satisfactoria capacidad de la entidad para atender a tiempo el pago de sus obligaciones. Se entiende que la capacidad del emisor para cumplir con sus compromisos financieros a corto plazo es «satisfactoria» siempre que haya sido calificada como mínimo con «A-2« por Standard & Poor´s, «P-2» por Moody´2, «F2» por Fitch o similares por otras ECAI. A estos efectos tendrá la consideración de corto plazo un período inferior o igual a 13 meses.
-
-c) En el caso de que una entidad haya calificado por debajo del nivel exigido por otra agencia especializada, será necesario que exista una tercera calificación no inferior al mínimo exigido de cualquier otra agencia especializada.
-
-2. El requisito de solvencia se entenderá igualmente cumplido cuando la operación esté solidariamente afianzada o garantizada por otra entidad que a su vez cuente con la calificación crediticia mínima a que se refieren en el punto 1 anterior y cumpla el resto de requisitos del artículo 36.1 g) 2.º
+2. El requisito de solvencia se entenderá igualmente cumplido cuando la operación esté solidariamente afianzada o garantizada por otra entidad que cumpla lo indicado en el punto 1 anterior y el resto de requisitos del artículo 48.1.g) 2.º
 
 3. No será exigible el requisito de solvencia cuando la contraparte aporte colaterales válidos, según lo establecido en la norma 22.ª, por un importe igual o superior al de los resultados positivos acumulados, realizado o no, pendiente de liquidar por dicha operación.
+
+> Se modifican los apartados 1 y 2 por la norma 1.2 de la Circular 1/2012, de 26 de julio. Ref. BOE-A-2012-10479.

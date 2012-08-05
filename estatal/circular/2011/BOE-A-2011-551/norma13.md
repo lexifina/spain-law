@@ -22,3 +22,7 @@ Las IIC calcularán y consignarán sus posiciones netas primarias en cada IIC di
 Posteriormente determinará su posición neta secundaria para cada IIC, que vendrá constituida por la diferencia entre la suma de las posiciones netas primarias largas y la de las posiciones netas primarias cortas correspondientes.
 
 4. No se podrá efectuar ninguna compensación entre posiciones netas secundarias correspondientes a distintas IIC, por lo que la suma del valor absoluto de las posiciones netas secundarias obtenidas según el cálculo del número anterior constituirá su posición neta secundaria final.
+
+5. La presente norma no aplicará a las inversiones que las IIC de IIC de inversión libre reguladas en el artículo 74 del Reglamento de IIC realicen en IIC de inversión libre y en IIC extranjeras similares.
+
+> Se añade el apartados 5 por la norma 5 de la Circular 1/2012, de 26 de julio. Ref. BOE-A-2012-10479.
