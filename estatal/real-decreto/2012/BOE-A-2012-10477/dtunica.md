@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen transitorio de acceso a la asistencia sanitaria en España.
+
+Las personas que, con anterioridad a la entrada en vigor del Real Decreto-ley 16/2012, de 20 de abril, tuvieran acceso a la asistencia sanitaria en España y no se encuentren comprendidas en alguno de los supuestos del artículo 5.1 de este real decreto, o no sean beneficiarias suyas, o no estén aseguradas en aplicación de reglamentos comunitarios o convenios bilaterales, podrán seguir accediendo a la misma hasta el día 31 de agosto de 2012 sin necesidad de acreditar la condición de aseguradas o de beneficiarias de éstas en los términos previstos en este real decreto.

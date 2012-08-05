@@ -1,6 +1,6 @@
 ## Artículo sexto. Duración de la asistencia sanitaria.
 
-Uno. La asistencia sanitaria será prestada desde el día en que reuniendo las condiciones exigidas para su efectividad, sea solicitada del facultativo correspondiente, mientras sea precisa y concurran los requisitos establecidos para conservar el derecho a recibirla.
+Uno. (Derogado)
 
 Dos. De acuerdo con lo previsto en el número dos del articulo noventa y tres de la Ley de la Seguridad Social, de veintiuno de abril de mil novecientos sesenta y seis, se considerarán situaciones asimiladas a la de alta, a efectos de la conservación del derecho a la asistencia sanitaria y siempre que no exista éste por otro concepto, las que a continuación se indican, en los términos y condiciones que se señalan para cada una de ellas:
 
@@ -12,11 +12,13 @@ Tercera.-La de los trabajadores por cuenta ajena que hayan causado baja en el R�
 
 Tercera bis.-La de los trabajadores por cuenta ajena españoles de origen residentes en el exterior que se desplacen temporalmente a España cuando, de acuerdo con las disposiciones de la legislación de Seguridad Social española, las del Estado de procedencia o de las normas o Convenios Internacionales de Seguridad Social establecidos al efecto, no tuvieran prevista esta cobertura.
 
-Cuarta.-(Suprimido)
+Cuarta.-(Suprimida)
 
 Quinta.-La de los trabajadores que causen baja en el Régimen General, por incorporarse a filas para el cumplimiento del Servicio Militar con carácter obligatorio o voluntariamente para adelantarlo por el tiempo mínimo. En esta situación, los beneficiarlos a cargo de dichos trabajadores, conservarán el derecho a la asistencia sanitaria durante el tiempo de permanencia en filas de éstos y de los dos meses legalmente previsto para su incorporación a la Empresa; durante estos dos últimos meses gozará de igual derecho el propio trabajador.
 
-Tres.-Las situaciones asimiladas a la de alta a que se refiere el número anterior no implicarán obligación de cotizar a este Régimen General.
+Tres.- (Derogado)
+
+> Se deroga, salvo el apartado 2, que se mantiene vigente por la disposición derogatoria única.a) del Real Decreto 1192/2012, de 3 de agosto. Ref. BOE-A-2012-10477#ddunica.
 
 > Se modifica el apartado 2.3 y se añade el apartado 2.3 bis por la disposición final 1 del Real Decreto 8/2008, de 11 de enero. Ref. BOE-A-2008-1264.
 

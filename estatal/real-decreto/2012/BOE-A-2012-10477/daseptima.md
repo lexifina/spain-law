@@ -1,0 +1,7 @@
+## Disposición adicional séptima. Regímenes especiales de funcionarios.
+
+1. Las personas que ostentan la condición de mutualista o beneficiario de los regímenes especiales de la Seguridad Social gestionados por la Mutualidad General de Funcionarios Civiles del Estado, el Instituto Social de las Fuerzas Armadas y la Mutualidad General Judicial, mantienen el régimen de cobertura obligatoria de la prestación sanitaria conforme a la normativa especial reguladora de cada Mutualidad que, asimismo, determina su respectivo colectivo protegido, incluidos los funcionarios que hayan ingresado en cualquier administración pública con posterioridad a 1 de enero de 2011 en cuerpos que formen parte del campo de aplicación del mutualismo. Estos funcionarios mantendrán la condición de mutualistas cuando pasen a la situación de pensionistas.
+
+2. El reconocimiento y control de la condición de mutualista o beneficiario corresponde a cada mutualidad, conforme a su normativa específica, así como a su respectiva estructura organizativa.
+
+3. Las mutualidades y el Instituto Nacional de la Seguridad Social o, en su caso, el Instituto Social de la Marina, establecerán los mecanismos de colaboración y coordinación necesarios para evitar la duplicidad de derechos propios o derivados cuando éstos sean incompatibles, así como para asegurar el acceso al sistema sanitario público al colectivo mutualista que haya optado por esa modalidad de asistencia sanitaria.
