@@ -1,0 +1,13 @@
+La supresión de los obstáculos a la libre circulación de personas y servicios entre los Estados miembros constituye uno de los objetivos de la Comunidad Europea, tal como se consagra en el artículo 3.1.c) del Tratado Constitutivo. Dicha supresión supone, para los nacionales de los Estados miembros, la facultad de ejercer una profesión por cuenta propia o ajena, en un Estado miembro distinto de aquél en que hayan adquirido sus cualificaciones profesionales.
+
+El Real Decreto 1837/2008, de 8 de noviembre, incorpora al ordenamiento jurídico español la Directiva 2005/36/CE, del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, y la Directiva 2006/100/CE, del Consejo, de 20 de noviembre de 2006, relativas al reconocimiento de cualificaciones profesionales, así como a determinados aspectos del ejercicio de la profesión de abogado. En virtud de esta normativa, los nacionales de cualquiera de los Estados miembros de la Unión Europea que estén en posesión de cualificaciones profesionales obtenidas en uno de tales Estados, análogas a las que se exigen en España para ejercer una determinada profesión regulada, han de poder acceder a ésta en nuestro país en las mismas condiciones que quienes hayan obtenido un título español habilitante para dicho ejercicio profesional.
+
+No obstante, el mencionado sistema de reconocimiento no opera siempre de modo automático, ya que el propio Real Decreto 1837/2008, de 8 de noviembre, admite la imposición de exigencias adicionales, como la de que el solicitante deba superar una prueba de aptitud, si el ejercicio de la profesión requiere un conocimiento preciso del derecho español. Tal es el caso de las profesiones que figuran en el anexo IX del mencionado Real Decreto 1837/2008, de 8 de noviembre, entre las que se encuentra la de Graduado Social, que requiere un conocimiento preciso del derecho español en materia laboral y de Seguridad Social.
+
+De acuerdo con lo expuesto, la presente orden regula el procedimiento de reconocimiento de la cualificación profesional relativa a los Graduados Sociales. Este reconocimiento se realiza distinguiendo el procedimiento de reconocimiento de los títulos habilitantes para el ejercicio profesional en el país de origen, por un lado, y una prueba de aptitud, por otro.
+
+En el procedimiento de elaboración de la orden se ha dado audiencia al Consejo General de Colegios Oficiales de Graduados Sociales de España.
+
+La orden se dicta en aplicación de lo establecido en la disposición final cuarta del mencionado Real Decreto 1837/2008, de 8 de noviembre.
+
+En su virtud, a propuesta de los Ministros de Empleo y Seguridad Social, de Justicia y de Educación, Cultura y Deporte, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, dispongo:
