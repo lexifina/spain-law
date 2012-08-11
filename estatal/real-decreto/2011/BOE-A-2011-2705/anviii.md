@@ -48,8 +48,18 @@ Los ensayos se llevaran a cabo en una sola localización.
 
 Cada examen incluirá 10 cepas.
 
-6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.–Especie que cumple con la directriz de examen de la OCVV:
+6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
+
+Aquellas variedades de la especie que se cita a continuación, que hayan comenzado las observaciones de sus caracteres antes de la fecha de entrada en vigor de este nuevo Protocolo de examen, no les será de aplicación el mismo. Resultará de aplicación este nuevo Protocolo de examen para aquellas variedades en las que las primeras observaciones de caracteres en el primer ciclo de fructificación se lleven a cabo después de la entrada en vigor de este.
+
+Especies que cumplen con los protocolos de examen de la OCVV:
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Vitis vinifera L. | Vid | TP/50/1 de 6.11.2003 |
+| Vitis vinifera L. | Vid | TP/50/2 de 1.1.2008 |
+
+1 El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+> Se modifica el apartado 6 por el art. único.3 de la Orden AAA/1772/2012, de 2 de agosto. Ref. BOE-A-2012-10691.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 232, de 26 de septiembre de 2012. Ref. BOE-A-2012-12030.

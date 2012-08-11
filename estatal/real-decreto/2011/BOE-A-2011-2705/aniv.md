@@ -130,12 +130,16 @@ Variedades cespitosas: la finura de las hojas, densidad del césped, persistenci
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2012, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de octubre de 2012, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV:
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
+| Festuca rubra L. | Festuca roja | TP 67/1/ de 23.6.2011. |
+| Lolium multiflorum Lam. | Ray grass Italiano | TP 4/1 de 23.6.2011. |
+| Lolium perenne L. | Ray-grass Inglés | TP 4/1 de 23.6.2011. |
+| Lolium x boucheanum Kunth | Ray-grass híbrido | TP 4/1 de 23.6.2011. |
 | Pisum sativum L. | Guisante forrajero | TP 7/2 de 11.3.2010 |
 
 Especies que cumplen con las directrices de examen de la UPOV:
@@ -167,6 +171,10 @@ Especies que cumplen con las directrices de examen de la UPOV:
 1 El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 2 El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Se modifica el apartado 6 por el art. único.1 de la Orden AAA/1772/2012, de 2 de agosto. Ref. BOE-A-2012-10691.
+
+> Esta modificación se aplica a partir del 1 de octubre de 2012, según establece la disposición final 2.
 
 > Se modifica el apartado 6 por el art. único.6 de la Orden ARM/3383/2011, de 2 de diciembre. Ref. BOE-A-2011-19442.
 
