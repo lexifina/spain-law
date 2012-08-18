@@ -6,4 +6,6 @@
 
 3. Una vez aprobados los planes de explotación, los sucesivos planes de labores que anualmente los desarrollan en virtud de la vigente Ley de Minas se ajustarán al programa de actividades y calendario previstos en aquéllos. Si más adelante procediera a modificarse el plan de explotación, por razones de yacimiento, circunstancias ambientales, tecnológicas o cualquier otra, el plan de restauración habrá de adaptarse y coordinarse simultáneamente al nuevo plan de explotación.
 
-4. La elaboración de los planes de explotación de las explotaciones de carbón a cielo abierto, regulados en los apartados anteriores de esta disposición, se realizará cumpliendo con las normas contenidas en el anexo V de este real decreto.
+4. Para la elaboración de los planes de explotación de las explotaciones de carbón a cielo abierto, regulados en los apartados anteriores de esta disposición, se realizará cumpliendo con las normas establecidas por las autoridades autonómicas competentes. Dichas normas se ajustarán a lo previsto en la guía de buenas prácticas contenida en el anexo V de este real decreto.
+
+> Se modifica el apartado 4 por el art. único.11 del Real Decreto 777/2012, de 4 de mayo. Ref. BOE-A-2012-6500.
