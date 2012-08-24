@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta Orden y, en particular, la Orden del Ministerio de Industria y Energía, de 20 de septiembre de 1985, sobre instalación y homologación de placas de matrícula para los vehículos de motor y remolques, la Orden ITC/1535/2006, de 16 de mayo, por la que se modifica parcialmente la Orden de 20 de septiembre de 1985, sobre instalación y homologación de placas de matrícula para vehículos de motor y remolques y la Orden ITC/3698/2008, de 16 de diciembre, por la que se modifica parcialmente la Orden de 20 de septiembre de 1985, sobre instalación y homologación de placas de matrícula para vehículos de motor y remolques.
