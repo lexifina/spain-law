@@ -6,9 +6,9 @@
 
 a) La Presidencia, que será ejercida por el titular del departamento competente de acuerdo con lo previsto en el apartado 1 de este artículo, quien podrá delegar sus funciones presidenciales en un miembro del Consejo que actúe en representación del propio departamento.
 
-b) Seis vocalías en representación de la Administración General del Estado: Dos en representación del Ministerio de Sanidad, Política Social e Igualdad; dos en representación del Ministerio de Economía y Hacienda; una en representación del Ministerio de Trabajo e Inmigración y una en representación del Ministerio del Interior, todas ellas ejercidas por una persona con rango al menos de director general, designada por el titular del respectivo departamento.
+b) Seis vocalías en representación de la Administración General del Estado: dos en representación del Ministerio de Sanidad, Servicios Sociales e Igualdad, dos en representación del Ministerio de Hacienda y Administraciones Públicas; una en representación del Ministerio de Empleo y Seguridad Social y una en representación del Ministerio del Interior, todas ellas ejercidas por una persona con rango al menos de director general, designada por el titular del respectivo departamento.
 
-Cada uno de los representantes de la administración será sustituido por un vocal suplente, con rango al menos de director general, que designe el titular del correspondiente departamento.
+Cada uno de los representantes de la administración será sustituido por un vocal suplente, con rango al menos de director general, designado por el titular del correspondiente departamento.
 
 c) Seis vocalías en representación de la ONCE ejercidas por el Presidente del Consejo General de la ONCE y por cinco representantes más de dicha organización, nombrados por su órgano de gobierno de entre las personas que pertenezcan a la alta dirección de la entidad.
 
@@ -28,7 +28,7 @@ a) Aprobar, a propuesta del Consejo General de la ONCE, los estatutos de la orga
 
 b) Promover, a iniciativa propia o del Consejo General y oído éste en todo caso, las medidas de carácter normativo, administrativo o de cualquier otra índole, convenientes para el correcto cumplimiento de los fines de la organización.
 
-c) Informar, con la conformidad de los Ministerios de Economía y Hacienda y del Interior y con carácter previo al sometimiento al Consejo de Ministros, las propuestas que se eleven a éste respecto de las autorizaciones que, en materia de modalidades y productos de juego autorizados a la ONCE, sean precisas conforme a lo previsto en el artículo 7 del presente real decreto.
+c) Informar, con la conformidad de los Ministerios de Hacienda y Administraciones Públicas y del Interior y con carácter previo al sometimiento al Consejo de Ministros, las propuestas que se eleven a este respecto de las autorizaciones que, en materia de modalidades y productos de juego autorizados a la ONCE, sean precisas conforme a lo previsto en el artículo 7.
 
 d) Establecer de conformidad con lo dispuesto en el artículo 7 los criterios y procedimientos adecuados para ejercer el control sobre las materias relativas al cupón y otras modalidades de juego autorizadas a la ONCE.
 
@@ -42,7 +42,7 @@ f) Simultáneamente a la presentación e información de las cuentas anuales de 
 
 g) Ser informado de las inversiones realizadas por la organización, así como de los actos de disposición que afecten al patrimonio de la misma, a partir de la cuantía que establezca el Consejo de Protectorado.
 
-h) Ser informado, dentro de los seis meses siguientes al del cierre del ejercicio económico, sobre los programas de los servicios sociales matizados por la organización durante ese ejercicio, para efectuar la evaluación correspondiente en función de los resultados de dichos programas.
+h) Ser informado, dentro de los seis meses siguientes al del cierre del ejercicio económico, sobre los programas de los servicios sociales realizados por la organización durante ese ejercicio, para efectuar la evaluación correspondiente en función de los resultados de dichos programas.
 
 i) Ser informado documentalmente, dentro de los seis meses siguientes al del cierre del ejercicio económico, sobre las cuentas y balances consolidados de la ONCE así como de la liquidación del presupuesto y, en general, de la situación económica, financiera y patrimonial de la organización incluida CEOSA.
 
@@ -65,6 +65,8 @@ n) Informar con carácter previo a la aceptación de herencias, legados y donaci
 o) Verificar, con carácter previo, los acuerdos con otros operadores a que se refiere el apartado 5 del artículo 7 de este real decreto.
 
 p) Cualquier otra competencia o función que se le asigne legal o reglamentariamente, le confiera el Consejo de Ministros o le atribuya el Acuerdo General entre el Gobierno y la ONCE a que se refiere la disposición adicional vigésima de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986. y en general, realizar cuantas actuaciones sean necesarias para el ejercicio de la tutela y control en la materia, el mejor desenvolvimiento de la ONCE, la correcta consecución de sus objetivos y la coordinación más idónea con la Administración General del Estado.
+
+> Se modifican los apartados 2.b), 3.c) y 3.h) por el art. 1.4 a 6 del Real Decreto 1146/2012, de 27 de julio. Ref. BOE-A-2012-11211.
 
 > Se modifica por el art. único.5 del Real Decreto 394/2011, de 18 de marzo. Ref. BOE-A-2011-5198.
 

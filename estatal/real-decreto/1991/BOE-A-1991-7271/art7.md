@@ -4,7 +4,7 @@
 
 Corresponde al Consejo de Ministros la concesión de las autorizaciones a la ONCE relativas al régimen de sorteos del cupón prociegos, así como de cualquier otra modalidad de juego de los definidos en el Acuerdo General entre el Gobierno de la Nación y la ONCE vigente, al amparo de lo previsto en la disposición adicional vigésima de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986, modificada por la disposición adicional cuarta de la Ley 55/1999, de 29 de diciembre, de medidas fiscales, administrativas y del orden social.
 
-2. El Acuerdo del Consejo de Ministros que contenga la autorización se adoptará a propuesta del titular del Ministerio de Sanidad, Política Social e Igualdad, o del Ministerio que en cada momento ostente la competencia sobre el Consejo de Protectorado de la ONCE, de acuerdo con los titulares de los Ministerios de Economía y Hacienda y del Interior, previo informe del Consejo de Protectorado y oído el Consejo General de la Organización y definirá con precisión los términos, alcance y duración de la autorización.
+2. El Acuerdo del Consejo de Ministros que contenga la autorización se adoptará a propuesta del titular del Ministerio de Sanidad, Servicios Sociales e Igualdad, o del Ministerio que en cada momento ostente la competencia sobre el Consejo de Protectorado de la ONCE, de acuerdo con los titulares de los Ministerios de Hacienda y Administraciones Públicas y del Interior, previo informe del Consejo de Protectorado y oído el Consejo General de la Organización y definirá con precisión los términos alcance y duración de la autorización.
 
 A tal fin, serán de aplicación los siguientes criterios:
 
@@ -16,7 +16,7 @@ c) Cuando se trate de modalidades y productos de juego de naturaleza activa, ins
 
 3. El Consejo General de la ONCE podrá adoptar cuantas decisiones sean precisas en materia del régimen de sorteos del cupón, y de otras modalidades de juego autorizadas, que vengan aconsejadas por razones organizativas, económicas o comerciales, siempre que se desarrollen dentro de los límites máximos establecidos en el Acuerdo autorizador.
 
-4. La ONCE explotará una modalidad de lotería, de ámbito estatal, denominada lotería instantánea o presorteada, en los términos, condiciones, alcance y plazos previstos en el Real Decreto 1336/2005, de 11 de noviembre, por el que se autoriza a la Organización Nacional de Ciegos Españoles la explotación de una lotería instantánea o presorteada.
+4. La ONCE explotará una modalidad de lotería de ámbito estatal, denominada lotería instantánea o presorteada, en los términos, condiciones, alcance y plazos previstos en el Real Decreto 1336/2005, de 11 de noviembre, modificado por el Real Decreto 1706/2011, de 18 de noviembre, por el que se autoriza a la Organización Nacional de Ciegos Españoles la explotación de una lotería instantánea o presorteada.
 
 5. El Consejo General de la ONCE podrá suscribir, previa verificación por el Consejo de Protectorado, acuerdos con otros operadores de juego habilitados para operar en países del Espacio Económico Europeo, relativos a la comercialización simultánea de productos comunes de lotería.
 
@@ -36,13 +36,15 @@ f) Las ventas de cada país se asignarán al operador correspondiente, y los pre
 
 g) Las ventas realizadas por la ONCE en el Estado español en la explotación de estos productos comunes computarán en los límites de ventas que la ONCE tiene establecidos para sus diferentes modalidades de juego.
 
-6. Al objeto descrito en el apartado anterior, la ONCE remitirá la correspondiente propuesta al Consejo de Protectorado que la someterá a informe preceptivo del Ministerio de Economía y Hacienda.
+6. Al objeto descrito en el apartado anterior, la ONCE remitirá la correspondiente propuesta al Consejo de Protectorado que la someterá a informe preceptivo del Ministerio de Hacienda y Administraciones Públicas.
 
 A la vista de la propuesta y del citado informe, que deberá ser emitido en el plazo de quince días, y de conformidad con los representantes de la Administración General del Estado, el Consejo de Protectorado, con observancia de los procedimientos y criterios de control y supervisión a los que se refieren el párrafo segundo del apartado anterior y la disposición final segunda del presente real decreto, procederá a verificar que la propuesta de la ONCE se ajusta, con carácter general, a la legislación vigente aplicable, se adecua a las condiciones establecidas en el Acuerdo General respecto de las modalidades y productos de juego autorizados a la ONCE y cumple los requisitos establecidos en el párrafo segundo del apartado anterior.
 
 7. En la explotación y comercialización de las modalidades de juego autorizadas, la ONCE cooperará con el Estado para erradicar los juegos ilegales, para proteger los intereses del Estado contra los riesgos de fraude y criminalidad y para evitar los efectos perniciosos del juego sobre los consumidores.
 
 Asimismo, la ONCE dará cumplimiento a la normativa sobre juego responsable que resulte aplicable y, en particular, aquella que implique la prohibición del juego de los menores de edad, y la prevención del juego excesivo, del fraude y del blanqueo de capitales. Además la ONCE suscribirá y cumplirá los estándares de juego responsable establecidos en cada momento por las asociaciones internacionales de las que forme parte, en especial en lo que afecten a las citadas materias.
+
+> Se modifican los apartados 2, 4 y 6 por el art. 1.1 a 3 del Real Decreto 1146/2012, de 27 de julio. Ref. BOE-A-2012-11211.
 
 > Se modifica por el art. único.4 del Real Decreto 394/2011, de 18 de marzo. Ref. BOE-A-2011-5198.
 
