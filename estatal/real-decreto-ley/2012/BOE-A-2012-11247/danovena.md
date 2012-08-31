@@ -1,0 +1,3 @@
+## Disposición adicional novena. Entidades obligadas a transmitir activos a la Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria.
+
+Vendrán obligadas a transmitir los activos recogidos en la disposición adicional octava a la sociedad de gestión de activos, las entidades de crédito que a la entrada en vigor de este real decreto-ley se encuentren mayoritariamente participadas por el FROB o que, a juicio del Banco de España y tras la evaluación independiente de las necesidades de capital y calidad de los activos en curso a la entrada en vigor de este real decreto-ley, vayan a requerir la apertura de un proceso de reestructuración o de resolución de los previstos en este real decreto-ley.

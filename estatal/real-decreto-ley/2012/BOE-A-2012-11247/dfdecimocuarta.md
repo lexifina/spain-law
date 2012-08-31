@@ -1,0 +1,5 @@
+## Disposición final decimocuarta. Facultad de desarrollo.
+
+1. El Gobierno podrá dictar las normas reglamentarias necesarias para el desarrollo de lo dispuesto en este real decreto-ley.
+
+2. Se faculta al Banco de España para dictar las disposiciones precisas para la debida ejecución de lo previsto en la disposición final séptima y, en particular, establecer la frecuencia y la forma de las declaraciones de cumplimiento de la ratio de capital principal, definir los conceptos contables que hayan de integrar la definición de capital principal así como la forma en que hayan de computarse, y precisar los requisitos de emisión de los instrumentos de deuda obligatoriamente convertibles para su computabilidad como capital principal. Asimismo, podrá determinar cómo podrán ajustarse las exposiciones ponderadas por riesgo para que el requerimiento de recursos propios de cada exposición de riesgo no exceda del valor de la propia exposición y para que se preserve la consistencia entre el valor de las exposiciones y los componentes del capital principal.

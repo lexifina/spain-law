@@ -1,0 +1,9 @@
+## Disposición transitoria primera. Procesos de reestructuración en curso.
+
+1. Lo previsto en el capítulo III de este real decreto-ley resultará de aplicación a los procesos de reestructuración de entidades de crédito que, a la fecha de entrada en vigor de este real decreto-ley, se estén desarrollando de conformidad con lo previsto en el capítulo II del título I del Real Decreto-ley 9/2009, de 26 de junio, sobre reestructuración bancaria y reforzamiento de los recursos propios de las entidades de crédito, y que no se hayan concluido en dicha fecha.
+
+2. Se entenderá que las entidades que hubieran recibido apoyos financieros del FROB de acuerdo con lo previsto en el título II del Real Decreto-ley 9/2009, de 26 de junio, se encuentran en un proceso de reestructuración a efectos de lo previsto en este real decreto-ley, y que aquellas que estuvieran sometidas a un proceso de reestructuración con intervención del FROB de acuerdo con lo previsto en el artículo 7 del Real Decreto-ley 9/2009, de 26 de junio, se encuentran sometidas a un proceso de resolución a efectos de lo previsto en este real decreto-ley. En todo caso, el Banco de España podrá acordar en cualquier momento la apertura del correspondiente proceso de resolución de una entidad que hubiera recibido apoyos financieros del FROB de acuerdo con lo previsto en el título II del Real Decreto-ley 9/2009, de 26 de junio, si se encuentra en la circunstancias descritas en el artículo 19 de este real decreto-ley.
+
+No obstante lo dispuesto en el párrafo anterior, los apoyos financieros que el FROB hubiera concedido de acuerdo con lo previsto en el título II del Real Decreto-ley 9/2009, de 26 de junio, continuarán rigiéndose por la legislación aplicable en la fecha en que hubieran sido concedidos.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 221, de 13 de septiembre de 2012. Ref. BOE-A-2012-11523.

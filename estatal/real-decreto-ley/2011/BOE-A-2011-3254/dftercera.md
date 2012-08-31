@@ -1,3 +1,5 @@
 ## Disposición final tercera. Facultades de desarrollo.
 
-Se habilita al Banco de España para aprobar las disposiciones necesarias para la definición del concepto de financiación mayorista previsto en el artículo 1.2.a) del presente real decreto-ley.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto-ley 24/2012, de 31 de agosto. Ref. BOE-A-2012-11247.

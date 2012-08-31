@@ -1,0 +1,5 @@
+## Disposición adicional primera. Dotación del FROB.
+
+La dotación del FROB a la que se refiere el artículo 51.1, en ningún caso podrá suponer el desembolso de mayores cuantías a las previstas inicialmente con cargo a los Presupuestos Generales del Estado en el Real Decreto-ley 9/2009, de 26 de junio, sobre reestructuración bancaria y reforzamiento de los recursos propios de las entidades de crédito, y en la disposición adicional cuarta del Real Decreto-ley 2/2012, de 3 de febrero, de saneamiento del sector financiero.
+
+A efectos de liquidar la participación del Fondo de Garantía de Depósitos de Entidades de Crédito en el Fondo de Reestructuración Ordenada Bancaria, por la aportación que realizaron los Fondos de Garantía de Depósitos en Establecimientos Bancarios, Cajas de Ahorro y Cooperativas de Crédito en la constitución del Fondo, en virtud del Real Decreto-ley 9/2009, de 26 de junio, se tendrá en cuenta el patrimonio neto resultante de las cuentas anuales correspondientes al ejercicio 2011.
