@@ -1,0 +1,3 @@
+## Disposición final tercera. Facultad de desarrollo y modificación.
+
+Se faculta a la persona titular del Ministerio de Agricultura, Alimentación y Medio Ambiente y a la persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad, en el ámbito de sus competencias, para la modificación de los anexos o de las fechas que se establecen a fin de su adaptación a la normativa comunitaria, así como para publicar las producciones y tipos de explotaciones de baja utilización de productos fitosanitarios, según lo establecido en el artículo 10.3, y los requisitos que deberá cumplir la documentación de asesoramiento, según lo establecido en el artículo 11.2.

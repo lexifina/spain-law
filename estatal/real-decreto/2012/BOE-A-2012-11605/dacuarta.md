@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Normativa sobre seguridad y salud en el trabajo.
+
+Lo dispuesto en este Real Decreto debe entenderse sin perjuicio de las disposiciones en materia de seguridad y salud en el trabajo establecidas en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y en su normativa de desarrollo, en particular en el Real Decreto 374/2001, de 6 de abril, sobre la protección de la salud y seguridad de los trabajadores contra los riesgos relacionados con los agentes químicos durante el trabajo y en el Real Decreto 773/1997, de 30 de mayo, sobre disposiciones mínimas de seguridad y salud relativas a la utilización por los trabajadores de los equipos de protección individual.
