@@ -26,6 +26,8 @@ Acto seguido, la Junta escruta todos estos votos e incorpora los resultados al e
 
 12. El Gobierno, previo informe de la Junta Electoral Central, puede regular los criterios y limitar los supuestos de aplicación de este artículo, así como establecer otros procedimientos para el voto de los residentes ausentes que vivan en Estados extranjeros donde no es practicable lo dispuesto en este artículo.
 
+> Véase, sobre interpretación del apartado 4, la Instrucción 2/2012, de 20 de septiembre, de la Junta Electoral Central. Ref. BOE-A-2012-11896
+
 > Se modifica por el art. único.28 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.
 
 > Véase, sobre interpretación de este artículo, la Instrucción 1/2009, de 20 de enero, de la Junta Electoral Central, Ref. BOE-A-2009-1021, sustituida por la Instrucción 2/2009, de 2 de abril. Ref. BOE-A-2009-6415
