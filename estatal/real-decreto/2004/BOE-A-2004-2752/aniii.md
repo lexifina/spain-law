@@ -14,7 +14,7 @@ La red SafeSeaNet vinculará todos los sistemas nacionales de SafeSeaNet e inclu
 
 2.1 Responsabilidades.
 
-2.1.1 Sistemas nacionales de SafeSeaNet: La Administración marítima establecerá y mantendrá un sistema nacional de SafeSeaNet que permita el intercambio de información marítima entre usuarios autorizados bajo la responsabilidad del Ministerio de Fomento, que será la Autoridad nacional competente de España (ANC).
+2.1.1 Sistema nacional de SafeSeaNet: Puertos del Estado establecerá y mantendrá el sistema nacional de SafeSeaNet, que permite el intercambio de información marítima entre los usuarios autorizados, bajo la responsabilidad del Ministerio de Fomento, que será la Autoridad Nacional competente de España (ANC).
 
 La ANC será responsable de la gestión del sistema nacional, que incluye la coordinación de usuarios y suministradores de datos a nivel nacional, así como de garantizar que se designen UN LOCODES y que se establezca y mantenga la infraestructura informática necesaria y los procedimientos descritos en el «documento de control del interfaz y de las funcionalidades» al que se hace referencia en el punto 2.3.
 
@@ -67,5 +67,7 @@ Cuando la normativa internacional admita el flujo de la información LRIT relati
 El sistema español de SafeSeaNet cumplirá los requisitos de este real decreto relativos a la confidencialidad de la información así como los principios de seguridad y las especificaciones descritas en el IFCD respecto a los derechos de acceso.
 
 La Administración marítima identificará a todos los usuarios a los que, de conformidad con el IFCD, vaya a atribuir algún tipo de funciones y/o el derecho de acceso.
+
+> Se modifica el apartado 2.1.1 por la disposición final 4 del Real Decreto 1334/2012, de 21 de septiembre. Ref. BOE-A-2012-11895.
 
 > Se modifica por el art. único.25 del Real Decreto 1593/2010, de 26 de noviembre. Ref. BOE-A-2010-18370.
