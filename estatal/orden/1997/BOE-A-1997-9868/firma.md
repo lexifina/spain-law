@@ -1,3 +1,0 @@
-Madrid, 25 de abril de 1997.
-
-ARIAS-SALGADO MONTALVO
