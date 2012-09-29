@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Régimen de aplicación al personal laboral al servicio de las Administraciones Públicas.
+
+El ejercicio de las funciones decisorias atribuidas en el Capítulo V a la Comisión Consultiva Nacional de Convenios Colectivos no se extenderá a aquellos convenios o acuerdos colectivos que regulen condiciones de trabajo del personal laboral de las Administraciones Públicas, a los que resulta de aplicación la regulación específica sobre solución extrajudicial de conflictos colectivos establecida en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+
+Lo dispuesto en el párrafo anterior se entenderá sin perjuicio de la aplicación de lo dispuesto en dicho capítulo V a las entidades públicas empresariales, a las sociedades estatales, consorcios, fundaciones del sector público estatal y entidades de análoga naturaleza, facultándose a los Ministerios de Empleo y Seguridad Social y de Hacienda y Administraciones Públicas a dictar cuantas disposiciones sean necesarias en relación con la aplicación de las funciones decisorias de la Comisión a dichas entidades.

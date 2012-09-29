@@ -1,0 +1,5 @@
+## Disposición adicional primera. Medidas de apoyo de la Dirección General de Empleo del Ministerio de Empleo y Seguridad Social a la Comisión.
+
+1. La Comisión Consultiva Nacional de Convenios Colectivos, adscrita a la Dirección General de Empleo del Ministerio de Empleo y Seguridad Social será reforzada en sus actuaciones, referidas a las funciones establecidas en el artículo 82.3 del Estatuto de los Trabajadores, por la citada Dirección General de Empleo cuando resulte necesario en los supuestos de solución de discrepancias por falta de acuerdo sobre la inaplicación de condiciones de trabajo y así lo solicite su Presidente a la Dirección General de Empleo.
+
+2. Para poder cumplir con el refuerzo que sea necesario a la Comisión para el desarrollo de las funciones establecidas en el artículo 82.3 del Estatuto de los Trabajadores, por parte de la Dirección General de Empleo y de la Dirección General de la Inspección de Trabajo y Seguridad Social se establecerán las medidas de colaboración que sean necesarias.
