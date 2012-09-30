@@ -1,6 +1,6 @@
 ## INSTRUCCIÓN TÉCNICA COMPLEMENTARIA NÚMERO 9
 
-## Normas de diseño y emplazamiento para talleres y depósitos de pirotecnia y cartuchería
+## Normas de diseño y emplazamiento para talleres y depósitos de pirotecnia
 
 1. Objeto y ámbito de aplicación
 
@@ -164,7 +164,7 @@ Mediante una pared resistente al fuego EI 60 según Real Decreto 312/2005, de 18
 
 4. Defensas
 
-Esta Instrucción técnica complementaria diferencia en diversos casos el que los edificios o locales peligrosos estén dotados o no de defensas que los protejan de una explosión externa o limiten los efectos al exterior de una explosión ocurrida en el interior de dichos locales y edificios. A estos efectos se admitirá una única defensa para proteger a dos edificios o locales considerándose ambos como dotados de defensas a los efectos se esta Instrucción técnica complementaria.
+Esta Instrucción técnica complementaria diferencia en diversos casos el que los edificios o locales peligrosos estén dotados o no de defensas que los protejan de una explosión externa o limiten los efectos al exterior de una explosión ocurrida en el interior de dichos locales y edificios. A estos efectos se admitirá una única defensa para proteger a dos edificios o locales considerándose ambos como dotados de defensas a los efectos de esta Instrucción técnica complementaria.
 
 Como norma general, las defensas deberían tener como altura mínima la del edificio o local que protegen. En todo caso, deberán superar en un metro la altura de las materias reglamentadas contenidas en dichos locales o edificios.
 
@@ -180,12 +180,14 @@ Los criterios recomendados para el diseño de merlones y muros se deberán ajust
 
 5. Sistemas de protección contra rayos
 
-Todos los edificios del taller de pirotecnia y depósito de productos terminados estarán bajo la cobertura de un sistema de protección contra rayos según lo establecido en el Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación (CTE).
+Todos los edificios del taller de pirotecnia y depósito de productos terminados estarán bajo la cobertura de un sistema de protección contra rayos, según lo establecido en la Sección 8 (SUA 8) del Documento Básico «Seguridad de utilización y accesibilidad», del Código Técnico de la Edificación, aprobado por el Real Decreto 314/2006, de 17 de marzo.
 
-Se efectuará una inspección inicial de la instalación completa una vez ejecutadas las instalaciones de protección contra rayos, sus ampliaciones o modificaciones de importancia. Igualmente deberá efectuarse una revisión periódica de toda la instalación cada cinco años. Por la importancia que ofrece desde el punto de vista de la seguridad, para la comprobación de la puesta a tierra del sistema de protección contra el rayo se establece una periodicidad anual.
+El sistema de protección contra rayos, así como sus ampliaciones o modificaciones sustanciales, requerirá una inspección durante el montaje, una inspección inicial una vez instalado, e inspecciones periódicas, siguiendo el procedimiento y plazos establecidos en la norma UNE-EN 62305-3 «Protección contra el rayo. Parte 3: Daño físico a estructuras y riesgo humano».
 
-Los agentes intervinientes en las inspecciones, así como el procedimiento a seguir serán los establecidos en la ITC-BT-05 «Verificaciones e inspecciones» del Reglamento electrotécnico para baja tensión, aprobado por Real Decreto 842/2002, de 2 de agosto.
+El titular del taller o depósito de pirotecnia se asegurará del cumplimiento de lo dispuesto en el párrafo anterior, para lo cual podrá recurrir a cualquier entidad externa capacitada para ello. La entidad o persona que realice la inspección deberá emitir un certificado o informe de inspección en el que figuren los aspectos verificados y su conformidad con lo establecido en la mencionada norma.
 
 6. Equipos de trabajo
 
 Para la puesta a disposición de los trabajadores de equipos de trabajo, y antes de su puesta en servicio, el empresario deberá asegurarse que adquiere y utiliza únicamente equipos que satisfagan todos los requisitos y disposiciones legales que les sean de aplicación.
+
+> Se modifican los apartados 4 y 5 por el art.11 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

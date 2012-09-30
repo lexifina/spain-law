@@ -1,8 +1,8 @@
 ## INSTRUCCIÓN TÉCNICA COMPLEMENTARIA NÚMERO 11
 
-## Servicios de protección inmediata de los talleres, depósitos y transportes de cartuchería metálica en más de 5.000 unidades y de 12.000 para el calibre 22, así como de mecha explosiva troceada con destino a fabricación de artículos pirotécnicos
+## Servicios de protección inmediata de los talleres, depósitos y transportes de cartuchería metálica en más de 5.000 unidades y de 12.000 para el calibre 22, así como de mecha de seguridad troceada con destino a fabricación de artículos pirotécnicos
 
-Sin perjuicio del cumplimiento de las normas especificas que regulan cada caso y en cumplimiento de cuanto determina el Reglamento de artículos pirotécnicos y cartuchería, en la presente Instrucción técnica complementaria se detallan las medidas de seguridad ciudadana en los distintos establecimientos y durante los transportes.
+Sin perjuicio del cumplimiento de las normas específicas que regulan cada caso y en cumplimiento de cuanto determina el Reglamento de artículos pirotécnicos y cartuchería, en la presente Instrucción técnica complementaria se detallan las medidas de seguridad ciudadana en los distintos establecimientos y durante los transportes. El transporte de cartuchería que consista en una combinación de munición metálica del calibre 22 y de otros calibres quedará exenta de cumplir la presente Instrucción técnica complementaria siempre y cuando no se superen ninguna de las siguientes cantidades: un total máximo de 12.000 unidades transportadas de cartuchería de todos los calibres, de las cuales como máximo 5.000 unidades sean de calibres distintos al 22.
 
 1. Medidas de seguridad en talleres y en depósitos
 
@@ -40,7 +40,7 @@ La conexión entre la instalación y la Guardia Civil lo será con la Unidad de 
 
 Las empresas de seguridad inscritas para el transporte, en el Registro de Empresas de Seguridad del Ministerio del Interior, contarán con los planes de seguridad de transporte que necesiten para su actividad, que serán aprobados por la Intervención de Armas y Explosivos de la Guardia Civil competente, en función del ámbito territorial, los cuales se configuran como Plan de Seguridad de Transporte (Documento Base) y Adenda de Actualización, según modelo aprobado por la Intervención Central de Armas y Explosivos.
 
-Con cuarenta y ocho horas de antelación, toda empresa que pretenda transportar las materias reguladas en el Reglamento de artículos pirotécnicos y cartuchería por el territorio nacional, tanto en actividades interiores, transferencias, importación, exportación o tránsito, presentará para su aprobación, en su caso, ante la Intervención de Armas y Explosivos de la Comandancia de origen o de entrada en el territorio nacional, una solicitud acompañada de la Adenda de Actualización, confeccionada por la empresa de seguridad que deba efectuarlo.
+Con cuarenta y ocho horas de antelación, toda empresa que pretenda transportar las materias reguladas en la presente Instrucción técnica complementaria por el territorio nacional, tanto en actividades interiores, transferencias, importación, exportación o tránsito, presentará para su aprobación ante la Intervención de Armas y Explosivos de origen o de entrada en el territorio nacional la Adenda de Actualización, confeccionada por la empresa de seguridad que deba efectuarlo.
 
 El número de vigilantes de seguridad de explosivos será, al menos, de uno por vehículo.
 
@@ -58,9 +58,9 @@ Todas las incidencias que se produzcan durante el transporte constarán en la gu
 
 Todas las Comandancias conocerán el paso de transportes de las materias reguladas en esta Instrucción técnica complementaria por su demarcación. Para ello la Comandancia de origen lo comunicará con veinticuatro horas de antelación a las Comandancias de paso y de destino.
 
-Se exceptúa de la presentación del Plan de Seguridad a los transportes de mecha explosiva con destino a fabricación de artículos pirotécnicos, siempre que el transporte de la materia se realice cortada en trozos que no superen los 45 centímetros de longitud y la cantidad de materia neta reglamentada transportada no supere los 450 kilogramos. Dicho Plan se sustituirá por el documento de comunicación que figura en el anexo II de la presente Instrucción técnica complementaria, el cual será presentado con 48 horas de antelación ante la Intervención de Armas y Explosivos de origen o de entrada en el territorio nacional.
+Se exceptúa de la presentación del Plan de Seguridad a los transportes de mecha de seguridad con destino a fabricación de artículos pirotécnicos, siempre que la materia transportada esté cortada en trozos que no superen los 45 centímetros de longitud y la cantidad de materia neta reglamentada transportada no supere los 450 kilogramos. Dicho Plan se sustituirá por el documento de comunicación que figura en el anexo II de la presente Instrucción técnica complementaria, el cual será presentado con 48 horas de antelación ante la Intervención de Armas y Explosivos de origen o de entrada en el territorio nacional.
 
-Al transporte de mecha en condiciones distintas de las descritas en el párrafo anterior, le será de plena aplicación la Instrucción técnica complementaria número 1 «Servicios de protección inmediata de las fábricas, talleres, depósitos y transportes de explosivos» del Reglamento de explosivos, aprobado por Real Decreto 230/1998, de 16 de febrero, al igual que al resto de materias explosivas.
+Al transporte de mecha de seguridad en condiciones distintas de las descritas en el párrafo anterior, le será de plena aplicación la Instrucción técnica complementaria número 1 «Servicios de protección inmediata de las fábricas, talleres, depósitos y transportes de explosivos» del Reglamento de explosivos, aprobado por Real Decreto 230/1998, de 16 de febrero, al igual que al resto de materias explosivas.
 
 3. Transporte por ferrocarril
 
@@ -388,7 +388,7 @@ Al menos, las instalaciones contarán con un pulsador de emergencia por cada zon
 
 ## ANEXO II
 
-## Comunicación de transporte por carretera de mecha explosiva con destino a fabricación de artículos pirotécnicos, en trozos no superiores a 45 centímetros de longitud y una cantidad de materia neta no superior a 450 kilogramos
+## Comunicación de transporte por carretera de mecha de seguridad con destino a fabricación de artículos pirotécnicos, en trozos no superiores a 45 centímetros de longitud y una cantidad de materia neta no superior a 450 kilogramos
 
 FECHA:
 
@@ -465,3 +465,5 @@ ENTERADO:
 Intervención de Armas y Explosivos de origen
 
 (Sello y firma)
+
+> Se modifican el título, el párrafo inicial, el apartado 2 y el título del anexo II por el art.12 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

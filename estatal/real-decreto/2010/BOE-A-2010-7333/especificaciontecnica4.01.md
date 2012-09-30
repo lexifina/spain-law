@@ -2,7 +2,7 @@
 
 ## Criterios mínimos para la gestión y el aseguramiento de la calidad
 
-1. Objeto.–La presente Especificación técnica tiene por objeto establecer los requisitos mínimos de control en la fabricación de artificios pirotécnicos en talleres pirotécnicos que únicamente fabriquen artículos para su propio uso.
+1. Objeto.–La presente Especificación técnica tiene por objeto establecer los requisitos mínimos de control en la fabricación de artificios pirotécnicos en talleres pirotécnicos que fabriquen artículos para su propio uso.
 
 2. Criterios de evaluación
 
@@ -38,7 +38,7 @@ n) Cuando proceda, deberá estar documentada la necesidad de formación y adiest
 
 2.2 El control de procesos de fabricación deberá ser definido teniendo en cuenta, tanto la naturaleza del artificio, objeto o materia, como el tipo de fabricación utilizada, y aplicarse como mínimo en la recepción de materias primas o semielaboradas, y en el producto final.
 
-2.3 Si el fabricante dispone de un Sistema de Gestión de la Calidad certificado de acuerdo a normas armonizadas por una entidad acreditada por la Entidad Nacional de Acreditación (ENAC), el organismo de control puede limitar la auditoría a comprobar la adecuación de los procedimientos de fabricación y controles establecidos, para garantizar la conformidad de los productos fabricados con el prototipo aprobado, examinando al menos:
+2.3 Si el fabricante dispone de un Sistema de Gestión de la Calidad certificado de acuerdo a normas armonizadas por una entidad acreditada por la Entidad Nacional de Acreditación (ENAC), el organismo de control puede limitar la auditoría a comprobar la adecuación de los procedimientos de fabricación y controles establecidos, para garantizar la conformidad de los productos, examinando al menos:
 
 Procedimientos de fabricación y técnicas de control.
 
@@ -47,3 +47,5 @@ Controles y ensayos que se realicen antes de, durante y después de la fabricaci
 Medios de vigilancia que permitan obtener la calidad necesaria de los productos.
 
 2.4 El organismo de control comunicará al fabricante mediante un informe de inspección los resultados de las verificaciones realizadas sobre el control de producción y, en su caso, emitirá un certificado de control de adecuación con los requisitos de esta Especificación técnica.
+
+> Se modifican los apartados 1 y 2.3 por el art.5 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

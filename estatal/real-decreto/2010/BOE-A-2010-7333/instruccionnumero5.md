@@ -12,8 +12,10 @@ Trueno de fricción: trueno de mecha o de pólvora negra cuyo dispositivo de ign
 
 3. Requisitos para la puesta a disposición y venta.
 
-1. Queda prohibido la puesta a disposición y venta de los artículos pirotécnicos de doble trueno, triple trueno y truenos de fricción.
+1. Queda prohibida la puesta a disposición y venta al público de los artículos pirotécnicos de múltiple trueno y truenos de fricción.
 
-2. Queda prohibida la puesta a disposición y venta al público de aquellos artificios de las categorías 1, 2 y 3 que, necesitando encendido manual, éste no se realice mediante llama o brasa directa.
+2. Queda prohibida la puesta a disposición y venta al público de aquellos artificios de las categorías 2 y 3 que, necesitando encendido manual, este no se realice mediante llama o brasa directa.
 
 3. Queda prohibida la puesta a disposición y venta al público de diferentes artificios de pirotecnia de las categorías 1, 2 y 3, cada uno de ellos provisto de macado CE, conectados o mecanizados entre sí, excepto aquellos que estén diseñados para tal fin disponiendo de su propio marcado CE.
+
+> Se modifican los apartados 3.1 y 3.2 por el art.6 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

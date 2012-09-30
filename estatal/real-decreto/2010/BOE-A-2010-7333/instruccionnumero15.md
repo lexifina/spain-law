@@ -18,7 +18,7 @@ Esta Instrucción técnica complementaria tiene por objeto establecer los requis
 
 4. Obtener un certificado de una entidad autorizada por la Dirección General de la Policía y de la Guardia Civil de que posee los conocimientos necesarios para realizar la recarga que se pretende.
 
-5. Obtener de la Intervención Central de Armas y Explosivos la correspondiente autorización para recarga de cartuchería, según el procedimiento que se específica en la presente Instrucción técnica complementaria.
+5. Obtener de la Intervención de Armas y Explosivos de la correspondiente Zona de la Guardia Civil la autorización para recarga de cartuchería, según el procedimiento que se específica en la presente Instrucción técnica complementaria.
 
 6. Mantener los límites de depósito y adquisición tanto de materiales componentes como de cartuchería terminada, que se determinan en el artículo 104 del Reglamento de artículos pirotécnicos y cartuchería.
 
@@ -26,9 +26,9 @@ Esta Instrucción técnica complementaria tiene por objeto establecer los requis
 
 8. Conservar la maquinaria junto con la cartuchería y sus componentes, en el domicilio, con las suficientes medidas de seguridad.
 
-9. Las medidas de seguridad mínimas exigibles para el almacenamiento de la pólvora, vainas y pistones utilizadas para la recarga, es la posesión en el domicilio u otro lugar autorizado, de caja fuerte, nivel 1 o superior.
+9. Las medidas de seguridad mínimas exigibles para el almacenamiento de la pólvora, vainas y pistones utilizadas para la recarga, consisten en la posesión en el domicilio u otro lugar autorizado, de una caja fuerte, clase de resistencia I o superior, según norma UNE EN 1143-1 «Unidades de almacenamiento de seguridad. Requisitos, clasificación y métodos de ensayo para resistencia al robo. Parte 1: Cajas fuertes, puertas y cámaras acorazadas.
 
-10. La Intervención Central de Armas y Explosivos, entregará a los solicitantes, simultáneamente a la expedición de la autorización de recarga, un anexo en el que el titular de la autorización reflejará las operaciones correspondientes a las cantidades de pólvora, vainas o pistones adquiridas, fecha de compra y establecimiento vendedor, el cual deberá visar cada asiento que se refleje en el referido anexo.
+10. La Intervención de Armas y Explosivos de la correspondiente Zona de la Guardia Civil, entregará a los solicitantes, simultáneamente a la expedición de la autorización de recarga, un anexo en el que el titular de la autorización reflejará las operaciones correspondientes a las cantidades de pólvora, vainas o pistones adquiridas, fecha de compra y establecimiento vendedor, el cual deberá visar cada asiento que se refleje en el referido anexo.
 
 11. Sin perjuicio de las revisiones esporádicas que pueda realizar la Intervención de Armas y Explosivos Territorial, toda persona autorizada para la recarga de cartuchería metálica, en el momento de renovar la licencia de armas que le autoriza la tenencia y uso de armas que utilizan cartuchería que puede recargar, debe presentar ante la Intervención de Armas de su demarcación la autorización de recarga y el anexo, para revisión y control.
 
@@ -43,3 +43,5 @@ La recarga de cartuchería no metálica no estará sometida a previa autorizaci�
 3. Poseer para el almacenamiento de la pólvora, vainas y pistones, la caja fuerte referida en el apartado 2.9 de la presente Instrucción técnica complementaria, para la recarga de cartuchería metálica.
 
 4. Solicitar de la Intervención de Armas y Explosivos de la Guardia Civil de su demarcación el anexo al que se refiere el apartado 2.10 de la presente Instrucción técnica complementaria, para la recarga de cartuchería metálica, el cual deberá ser diligenciado por dicha Intervención. El titular del anexo tendrá las mismas obligaciones indicadas en el punto 2.10 de la recarga de cartuchería metálica.
+
+> Se modifica el apartado 2 por el art.15 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

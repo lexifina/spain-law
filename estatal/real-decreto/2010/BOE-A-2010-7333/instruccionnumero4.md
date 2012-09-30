@@ -6,7 +6,7 @@
 
 Del mismo modo, esta instrucción técnica será de aplicación para las materias reglamentadas destinadas a ser puestas en el mercado entre fabricantes, de acuerdo a lo establecido en el artículo 18 del Reglamento de artículos pirotécnicos y cartuchería.
 
-Quedan fuera del ámbito de aplicación de la presente instrucción técnica, los artificios pirotécnicos de categoría 2, 3, 4, T1, T2, P1 y P2 que no necesitan marcado CE y vayan a ser utilizados exclusivamente por el propio fabricante.
+Quedan fuera del ámbito de aplicación de la presente instrucción técnica, salvo lo establecido en su apartado 4, los artificios pirotécnicos de categoría 2, 3, 4, T1, T2, P1 y P2 que no necesitan marcado CE y vayan a ser utilizados exclusivamente por el propio fabricante.
 
 2. Generalidades.–El número de catalogación atribuido a un artículo pirotécnico sujeto a la Directiva 2007/23/CE del Parlamento Europeo y del Consejo, de 23 de mayo de 2007, sobre la puesta en el mercado de artículos pirotécnicos, corresponderá con el número de registro del Catálogo Oficial Europeo.
 
@@ -14,7 +14,7 @@ Para los artificios regulados por el Real Decreto 809/1999, de 14 de mayo, el n�
 
 La catalogación de artículos pirotécnicos para las categorías 1, 4 y de utilización en la marina conllevará la autorización de almacenamiento, distribución, puesta a disposición y venta de dichos artículos. Para la puesta a disposición y venta de los artículos pirotécnicos de las categorías 2, 3, T1, T2, P1 y P2 será necesario, además, el cumplimiento de los requisitos adicionales establecidos en la Instrucción técnica complementaria número 5.
 
-A efectos de la presente instrucción técnica complementaria, las materias reglamentadas a las que se refiere el artículo 18 del Reglamento de artículos pirotécnicos y cartuchería se considerarán como artículos pirotécnicos de la categoría P2.
+A efectos de la presente instrucción técnica complementaria, las materias reglamentadas a las que se refiere el artículo 18 del Reglamento de artículos pirotécnicos y cartuchería se considerarán como artículos pirotécnicos de la categoría 4 cuando vayan a ser empleados únicamente como componentes de artificios pirotécnicos, y como artículos pirotécnicos de la categoría P2 cuando vayan a ser empleados como componentes tanto de artificios pirotécnicos como de artículos pirotécnicos.
 
 3. Procedimiento para la catalogación.
 
@@ -48,7 +48,7 @@ Certificado de calidad Módulo H: aseguramiento global de calidad del producto.
 
 Copia de la documentación relativa a los embalajes y a los envases exteriores, en caso de que proceda, de acuerdo con lo dispuesto en la reglamentación vigente en materia de transporte de mercancías peligrosas.
 
-Número ONU, división de riesgo y grupo de compatibilidad.
+Propuesta de número ONU, división de riesgo y grupo de compatibilidad.
 
 Instrucciones de seguridad.
 
@@ -115,3 +115,5 @@ La entidad que sustenta el módulo de control del producto es ………………
 En ………………........................................ a……. de …………………............ de……..
 
 (Firma autorizada)
+
+> Se modifican los apartados 1 a 3 por el art.4 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

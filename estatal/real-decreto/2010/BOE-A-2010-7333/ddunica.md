@@ -16,10 +16,12 @@ e) Instrucción técnica complementaria número 23: ITC 23: Clasificación de lo
 
 2. A la entrada en vigor del presente real decreto quedan derogados los apartados tercero y cuarto de la Orden INT/703/2006, de 3 de marzo, por la que se dictan instrucciones para la adquisición de material explosivos y cartuchería metálica por parte de los Cuerpos de Policía de las Comunidades Autónomas y de las Entidades Locales.
 
-3. A la entrada en vigor del presente real decreto quedan derogadas las siguientes normas:
+3. A la entrada en vigor del presente real decreto quedan derogadas, sin perjuicio de su aplicación en los términos previstos en la disposición transitoria segunda y en la disposición final quinta del presente real decreto, las siguientes normas:
 
 a) Orden de 20 de octubre de 1988, por la que se regula la manipulación y uso de productos pirotécnicos en la realización de espectáculos públicos de fuegos artificiales.
 
 b) Orden de 2 de marzo de 1989 por la que se completa y perfecciona la normativa reguladora de la manipulación y uso de productos pirotécnicos en la realización de espectáculos públicos de fuegos artificiales.
 
 c) Cualquier otra norma de igual o inferior rango que se oponga a lo establecido en el presente real decreto.
+
+> Se modifica el primer párrafo del apartado 3 por el art. 1.6 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

@@ -4,8 +4,8 @@
 
 1. Objeto.–La presente Instrucción técnica complementaria tiene por objeto establecer las normas para la identificación de cartuchería que se comercialice en el mercado nacional.
 
-2. Identificación.
+2. Identificación.–El contenido mínimo que deberá figurar en los envases y embalajes de cartuchería será:
 
-Contenido: El contenido mínimo que deberá figurar en el envase de cartuchería será: Nombre comercial del producto, número de catalogación y NIF / CIF ó el número de registro como fabricante o importador, del responsable de la comercialización.
+Nombre del fabricante, número de identificación del lote, calibre y tipo de munición.
 
-El contenido mínimo que deberá figurar en el embalaje de cartuchería será: Nombre comercial del producto, número de catalogación y NIF / CIF ó el número de registro como fabricante o importador, del responsable de la comercialización y fabricante.
+> Se modifica el apartado 2 por el art.7 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

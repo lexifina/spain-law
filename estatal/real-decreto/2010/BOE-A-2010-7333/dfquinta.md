@@ -10,24 +10,8 @@
 | 4 de julio de 2010 | 1, 2 y 3 |
 | 4 de julio de 2013 | 4, T1, T2, P1 y P2 |
 
-3. Respecto a las siguientes Instrucciones técnicas complementarias del Reglamento de artículos pirotécnicos y cartuchería, su entrada en vigor se producirá al vencimiento de los siguientes plazos, computados desde la entrada en vigor del presente real decreto, transcurridos los cuales serán de plena aplicación sus prescripciones:
+3. La Instrucción técnica complementaria número 11 del Reglamento de artículos pirotécnicos y cartuchería será de aplicación desde la entrada en vigor del presente real decreto para las nuevas instalaciones y para aquellas ya existentes en las que se realice cualquier modificación sustancial.
 
-a) Diez años, las Instrucciones técnicas complementarias 9 y 17 del Reglamento de artículos pirotécnicos y cartuchería.
+4. Los plazos indicados en el apartado anterior y en la disposición transitoria segunda podrán ampliarse, excepto en el caso de los plazos establecidos por la normativa europea que se transpone, mediante orden de la Ministra de la Presidencia, dictada a propuesta de los Ministros de Industria, Energía y Turismo y del Interior, en casos debidamente justificados.
 
-b) Cinco años, las Instrucciones técnicas complementarias 12 y 13 del citado Reglamento.
-
-c) Tres años, la Instrucción técnica complementaria número 8 y las Especificaciones técnicas 8.01, 8.02, 8.03 y 8.04 del citado Reglamento.
-
-d) Dos años, la Instrucción técnica complementaria número 6 del citado Reglamento.
-
-e) Un año, las Instrucciones técnicas complementarias números 10, 14, 19, 20 y 21 del citado Reglamento.
-
-f) Dieciocho meses, la Instrucción técnica complementaria número 18 del citado Reglamento.
-
-Las Instrucciones técnicas complementarias números 2, 3, 4, 5 y 7 del Reglamento de artículos pirotécnicos y cartuchería entrarán en vigor el 4 de julio de 2010 para los artículos pirotécnicos de las categorías 1, 2 y 3, y el 4 de julio de 2013 para las categorías 4, T1, T2, P1 y P2.
-
-Las Instrucciones técnicas complementarias números 1, 15 y 22 y las Especificaciones técnicas 4.01 y 15.01 del Reglamento de artículos pirotécnicos y cartuchería entrarán en vigor desde el día siguiente al de la publicación del presente real decreto en el «Boletín Oficial del Estado».
-
-La Instrucción técnica complementaria número 11 del Reglamento de artículos pirotécnicos y cartuchería será de aplicación desde la entrada en vigor del presente real decreto para las nuevas instalaciones y para aquellas ya existentes en las que se realice cualquier modificación sustancial.
-
-4. Los plazos indicados en el apartado anterior podrán ampliarse, excepto en el caso de los plazos establecidos por la normativa europea que se transpone, mediante orden de la Ministra de la Presidencia, dictada a propuesta de los Ministros de Industria, Turismo y Comercio y del Interior, en casos debidamente justificados.
+> Se modifican los apartados 3 y 4 por el art.1.8 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

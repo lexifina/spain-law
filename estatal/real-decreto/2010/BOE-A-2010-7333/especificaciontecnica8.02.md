@@ -20,9 +20,7 @@ c) Haber recibido y superado una formación teórica y práctica organizada por 
 
 d) Estar en condiciones psicofísicas para la actividad de utilización de artículos pirotécnicos, acreditadas por certificado médico.
 
-Los trabajadores pertenecientes a una empresa de efectos especiales, que a la entrada en vigor de esta Especificación técnica acrediten una experiencia de más de un año en la utilización de artículos pirotécnicos de categoría T2, podrán solicitar al Área o Dependencia de Industria y Energía de la Delegación del Gobierno correspondiente, la obtención del carné de experto. Asimismo deberán acreditar estar en condiciones psicofísicas para dicha actividad.
-
-El plazo para la regularización de su solicitud será de un año desde la publicación en el «Boletín Oficial del Estado» de la presente norma.
+Los trabajadores pertenecientes a una empresa de efectos especiales, que a la entrada en vigor de esta Especificación técnica acrediten, mediante certificación de la empresa de expertos, una experiencia de más de un año en la utilización de artículos pirotécnicos de categoría T2, con permanencia continuada en la empresa, o de más de tres años en períodos discontinuos, podrán solicitar al Área o Dependencia de Industria y Energía de la Delegación del Gobierno correspondiente, la obtención del carné de experto. Asimismo deberán acreditar estar en condiciones psicofísicas para dicha actividad.
 
 3. Contenido mínimo de la formación teórico-práctica.–De acuerdo con lo previsto en el apartado anterior, el titular de la empresa de efectos especiales que pretenda utilizar los artículos de categoría T2 organizará la impartición de la formación correspondiente a los trabajadores que precisen el carné de experto en T2. Para ello deberá disponer de los medios adecuados, tanto materiales como humanos, pudiendo ser propios o ajenos, asegurándose oportunamente de la eficacia de unos u otros para la consecución de los objetivos marcados.
 
@@ -103,3 +101,5 @@ Certificado de aptitud psicofísica del aspirante a experto, para dicha activida
 Acreditación documental de la formación impartida al aspirante de experto, con detalle de la duración y el contenido del curso impartido.
 
 En……………….., a……. de ………………….. de……..
+
+> Se modifica el apartado 2 por el art.10 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

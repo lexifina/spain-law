@@ -22,7 +22,7 @@ Los productos desclasificados incluidos en el ámbito de aplicación de la prese
 | M6 | Artículo pirotécnico o materia reglamentada incautada, prohibida por la legislación vigente o asimilable a éstas. |
 | M7 | Otros artículos pirotécnicos o materias reglamentadas. |
 
-En el caso de que los productos destinados a eliminación o inertización presenten una exposición al exterior de materia reglamentada, como el caso de mezclas de sustancias en forma de polvo, estrellas de color o productos con pérdidas de composición pirotécnica o detonante, será necesario indicar los componentes químicos y características más representativas de las sustancias o mezclas expuestas, ya que esta situación puede suponer un incremento del riesgo asociado a las operaciones de tratamiento (almacenamiento, transporte, eliminación o inertización). Para ello, se establecerá la siguiente clasificación adicional:
+En el caso de que los productos destinados a eliminación o inertización presenten una exposición al exterior de materia reglamentada, como el caso de mezclas de sustancias en forma de polvo, estrellas de color o productos con pérdidas de composición pirotécnica o detonante, será necesario indicar los componentes químicos y características más representativas de las sustancias o mezclas expuestas, ya que esta situación puede suponer un incremento del riesgo asociado a las operaciones de tratamiento (eliminación o inertización). Para ello se establecerá la siguiente clasificación adicional:
 
 | Clase | Descripción |
 | --- | --- |
@@ -42,7 +42,7 @@ En el caso de que los productos destinados a eliminación o inertización presen
 
 3. El requisito establecido en el punto 2 relativo a la disposición del lugar, instalaciones y procedimientos de eliminación o inertización autorizados por la Delegación de Gobierno, y/o bien la cesión de modo controlado de los productos a eliminar o inertizar a empresas o entidades autorizadas para tal fin es obligatoria para todos los talleres de pirotecnia y depósitos de productos terminados e imprescindible para la correspondiente autorización de puesta en marcha del citado taller o depósito.
 
-4. Los establecimientos de venta al público autorizados se responsabilizarán de los productos defectuosos, deteriorados o caducados que hayan vendido y provengan de los consumidores finales. Dichos establecimientos establecerán el procedimiento a seguir para hacer llegar los productos susceptibles de eliminación o inertización a sus proveedores o entidades autorizadas para la llevar a cabo la correspondiente eliminación o inertización. El coste del retorno y tratamiento será asumido por el titular del establecimiento de venta o por el proveedor, según lo establecido en el punto 5.
+4. Los establecimientos de venta al público autorizados se responsabilizarán de los productos defectuosos, deteriorados o caducados que hayan vendido y provengan de los consumidores finales. Dichos establecimientos establecerán el procedimiento a seguir para hacer llegar los productos susceptibles de eliminación o inertización a sus proveedores o entidades autorizadas para llevar a cabo la correspondiente eliminación o inertización. El coste del retorno y tratamiento será asumido por el titular del establecimiento de venta o por el proveedor, según lo establecido en el punto 5.
 
 5. La obligación de efectuar el tratamiento establecido en la presente Instrucción técnica complementaria de los productos afectados recaerá en los distintos agentes del sector en función del origen de los productos susceptibles de eliminación o inertización. En este sentido, se establecen las siguientes responsabilidades:
 
@@ -167,3 +167,5 @@ En vista de la solicitud y documentación presentada el Delegado del Gobierno po
 La autorización podrá recoger condicionantes adicionales en función de factores como el método elegido de eliminación o inertización y la ubicación de las instalaciones.
 
 La validez de la autorización estará condicionada al cumplimiento de los procedimientos establecidos y las condiciones adicionales impuestas por la Delegación del Gobierno.
+
+> Se modifican los apartados 2 y 3.4 por el art.13 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

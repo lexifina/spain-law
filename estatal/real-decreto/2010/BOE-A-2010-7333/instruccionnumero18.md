@@ -4,7 +4,7 @@
 
 1. Objeto y ámbito de aplicación
 
-El objeto de la presente Instrucción técnica complementaria es regular el uso de artificios de pirotecnia exceptuados del ámbito de la Directiva 2007/23/CE, de 23 de mayo de 2007, sobre la puesta en el mercado de artículos pirotécnicos, por Grupos de Consumidores Reconocidos como Expertos (CRE) en manifestaciones festivas religiosas, culturales y tradicionales.
+El objeto de la presente Instrucción técnica complementaria es regular el uso de artificios de pirotecnia exceptuados del ámbito de la Directiva 2007/23/CE, de 23 de mayo de 2007, sobre la puesta en el mercado de artículos pirotécnicos, por Grupos de Consumidores Reconocidos como Expertos (CRE) en manifestaciones festivas religiosas, culturales y tradicionales. La presente Instrucción Técnica no será de aplicación en los actos de arcabucería de las fiestas de moros y cristianos y demás manifestaciones festivas con uso de armas de avancarga.
 
 2. Autorización de manifestaciones festivas
 
@@ -46,7 +46,7 @@ Una vez obtenida la autorización del uso de los artificios pirotécnicos por pa
 
 Únicamente podrán utilizar artificios pirotécnicos en las manifestaciones festivas religiosas, culturales o tradicionales que estén autorizadas por el Ayuntamiento de la localidad donde se realicen, las personas pertenecientes a algún Grupo de Consumidores Reconocidos como Expertos
 
-En el caso de utilización de pólvora negra, la cantidad máxima que cada participante podrá portar en un único recipiente diseñado al efecto, será de un kilogramo.
+En el caso de utilización de pólvora negra, la cantidad que cada participante podrá portar será de un kilogramo en un único recipiente diseñado al efecto y con dicha capacidad máxima.
 
 Será competencia del Ayuntamiento:
 
@@ -54,7 +54,7 @@ a) Autorizar la celebración de la manifestación festiva, de acuerdo con lo est
 
 b) Dar difusión de la celebración del acto para conocimiento del público, así como del espacio o recorrido de la actuación y del horario de realización.
 
-c) Informar de las medidas de seguridad aplicables así como, en su caso, de la indumentaria y de las medidas de protección recomendadas para la participación en el espectáculo de terceras personas.
+c) Informar de las medidas de seguridad aplicables así como, en su caso, de la indumentaria y de las medidas de protección recomendadas para la participación en la manifestación festiva de terceras personas.
 
 d) Velar por el cumplimiento de las medidas de seguridad y requisitos establecidos para cada acto.
 
@@ -66,62 +66,64 @@ Una vez se haya justificado documentalmente el seguimiento y la superación del 
 
 Ningún Consumidor Reconocido como Experto podrá participar en la manifestación festiva si no está en posesión de este certificado. No obstante, durante el periodo transitorio establecido, los participantes que aún no hayan obtenido el certificado acreditativo de formación recibida podrán utilizar productos autorizados y catalogados de acuerdo a la anterior reglamentación en tanto mantengan su vigencia, siguiendo las instrucciones de uso que hubiere recomendado el fabricante.
 
-En el caso de los responsables de los Grupos, la certificación acreditativa de la formación la expedirá el Área de Industria y Energía de la Delegación del Gobierno correspondiente.
+En el caso de los responsables de los Grupos, la certificación acreditativa de la formación la expedirá el Área de Industria y Energía de la Delegación del Gobierno correspondiente tras la comprobación de que dicho responsable es mayor de edad.
 
-El programa formativo mínimo para los Consumidores Reconocidos como Expertos será el siguiente:
+4.1 El programa formativo mínimo para los Consumidores Reconocidos como Expertos será el siguiente:
 
-a) Información sobre los artículos pirotécnicos a emplear en el espectáculo.
+a) Información sobre los artículos pirotécnicos a emplear en la manifestación festiva.
 
-Funcionamiento de los artificios que vayan a emplearse.
+i. Funcionamiento de los artificios que vayan a emplearse.
 
-Correcta utilización.
+ii. Correcta utilización.
 
-Riesgos derivados de su utilización.
+iii. Riesgos derivados de su utilización.
 
-Medidas de prevención específicas.
+iv. Medidas de prevención específicas.
 
-b) Conocimientos sobre el desarrollo del espectáculo.
+b) Conocimientos sobre el desarrollo de la manifestación festiva.
 
-Delimitación del área del espectáculo.
+i. Delimitación del área de la manifestación festiva.
 
-Delimitación del área de seguridad, en su caso.
+ii. Delimitación del área de seguridad, en su caso.
 
-Requisitos para el acceso al espectáculo.
+iii. Requisitos para el acceso a la manifestación festiva.
 
 c) Medidas de seguridad y emergencia.
 
-Medidas de seguridad establecidas para el desarrollo del espectáculo.
+i. Medidas de seguridad establecidas para el desarrollo de la manifestación festiva.
 
-Procedimientos de actuación en caso de accidente.
+ii. Procedimientos de actuación en caso de accidente.
 
 d) Procedimientos de recepción y devolución de los artículos pirotécnicos.
 
 e) Tratamiento de artículos fallidos.
 
-El programa formativo mínimo para los Responsables de los Grupos de Consumidores Reconocidos como Expertos será el siguiente:
+4.2 El programa formativo mínimo para los Responsables de los Grupos de Consumidores Reconocidos como Expertos será el siguiente:
 
 a) Composición y propiedades básicas de los distintos tipos de artificios pirotécnicos a utilizar.
 
-Conocimientos generales sobre el funcionamiento de los artificios pirotécnicos.
+i. Conocimientos generales sobre el funcionamiento de los artificios pirotécnicos.
 
-Aspectos teóricos básicos de los artificios y sus sistemas de iniciación.
+ii. Aspectos teóricos básicos de los artificios y sus sistemas de iniciación.
 
 b) Formación básica en técnicas de preparación de los artificios y de su uso.
 
-Elementos auxiliares para la protección, sujeción, etc.
+i. Elementos auxiliares para la protección, sujeción, etc.
 
-Protección contra la humedad y la lluvia.
+ii. Protección contra la humedad y la lluvia.
 
-Seguridad en el manejo, almacenamiento, transporte y uso de artificios pirotécnicos.
+iii. Seguridad en el manejo, almacenamiento, transporte y uso de artificios pirotécnicos.
 
-Tratamiento de artificios fallidos.
+iv. Tratamiento de artificios fallidos.
 
 c) Conocimiento de la legislación sobre manifestaciones festivas.
 
 d) Ejemplos de incidentes y accidentes ilustrativos, fallos más representativos, y medidas para evitarlos.
 
-5. Adquisición, almacenamiento y eliminación de los artificios pirotécnicos utilizados en los espectáculos
+5. Adquisición, almacenamiento y eliminación de los artificios pirotécnicos utilizados en las manifestaciones festivas
 
 Los artificios pirotécnicos utilizados en los festejos que regula la presente Instrucción técnica complementaria deberán ser adquiridos, bajo pedido, por el responsable del Grupo de Consumidores Reconocidos como Expertos en un depósito de productos terminados de un taller de fabricación debidamente autorizado según lo dispuesto en el Reglamento de artículos pirotécnicos y cartuchería.
 
 La fabricación, adquisición, transporte, almacenamiento y eliminación de los artificios pirotécnicos utilizados en las manifestaciones festivas que regula esta Instrucción técnica complementaria se realizarán de acuerdo con lo establecido en el Reglamento de artículos pirotécnicos y cartuchería y, en su caso, con lo previsto específicamente en los artículos 21, 105 y 167.
+
+> Se modifica por el art.17 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

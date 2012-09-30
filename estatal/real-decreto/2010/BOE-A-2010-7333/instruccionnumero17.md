@@ -32,9 +32,7 @@ Los establecimientos permanentes se clasifican en:
 
 a) Establecimientos de Tipo A: el establecimiento ocupa parcialmente o totalmente un edificio en suelo urbanizado residencial o comercial.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2010/113/07333_010.png)
-
-Ejemplos de Establecimientos Tipo A (A1 y A2)
+![imagen](https://www.boe.es/datos/imagenes/disp/2012/235/12198_002.png)
 
 b) Establecimiento de Tipo B1: el establecimiento ocupa un edificio que está adosado a otros edificios en suelo urbanizado industrial, o bien a una distancia inferior a las exigidas para los establecimientos de Tipo B2.
 
@@ -68,11 +66,11 @@ Todos los establecimientos permanentes de venta de artículos pirotécnicos debe
 
 En el caso de establecimientos permanentes del Tipo A, el acceso al almacén se deberá realizar desde el propio local o zona destinada a la venta. En ningún caso se autorizarán almacenes cuyo acceso requiera atravesar dependencias destinadas a viviendas o patio interior.
 
-Los almacenes ubicados en los almacenamientos tipo N deben ser contiguos al local o zona destinada a la venta.
+Los almacenes ubicados en los establecimientos tipo N deben ser contiguos al local o zona destinada a la venta.
 
 Como regla general, en los establecimientos temporales no podrá permanecer ningún producto pirotécnico durante los periodos del día en los que permanece cerrada al público, debiendo trasladarse y depositarse dichos productos a un almacén autorizado perteneciente a un depósito de productos terminados. Únicamente se permitirá la presencia de material pirotécnico en los establecimientos tipo N que reúnan las medidas de seguridad ciudadana que se establezcan por la Intervención de Armas y Explosivos de la Comandancia de la Guardia Civil correspondiente.
 
-En la zona destinada a la venta se permitirá la presencia de material pirotécnico colocado en estanterías, estando éstas situadas a una distancia mínima de 1 metro del mostrador, quedando siempre fuera del alcance del público. Podrá depositarse hasta un máximo de una tercera parte de la capacidad máxima de almacenamiento.
+En la zona destinada a la venta se permitirá la presencia de material pirotécnico colocado en estanterías, bien estando éstas situadas a una distancia mínima de 1 metro del mostrador, o disponiendo de algún sistema que garantice salvaguardar del público el material pirotécnico, que siempre estará situado en la parte posterior del mostrador. Podrá depositarse hasta un máximo de una tercera parte de la capacidad máxima de almacenamiento.
 
 La cantidad máxima de materia reglamentada tanto en el almacén como en las estanterías existentes en la zona de venta, vendrá condicionada por el tipo de establecimiento y volumen del almacén, así como por la categoría y división de riesgo del producto pirotécnico, tal y como establece el apartado 4 de la presente Instrucción técnica complementaria.
 
@@ -228,7 +226,7 @@ El mostrador y la fachada de venta deberán estar cubiertas por una visera volad
 
 6. Resistencia al fuego de los establecimientos de venta
 
-Este apartado será de aplicación para todos los establecimientos de venta a excepción de los establecimientos temporales de Tipo M y N.
+Este apartado será de aplicación para todos los establecimientos de venta a excepción de los establecimientos temporales de Tipo M y N. No obstante, los establecimientos temporales de Tipo M y N deberán disponer de extintores.
 
 Los requisitos de resistencia al fuego indicados en este apartado serán de aplicación para aquellos locales en cuyo interior se encuentran depositados productos pirotécnicos, es decir, tanto para los almacenes como para la zona destinada a la venta en el caso de existencia de productos pirotécnicos sobre estanterías.
 
@@ -244,15 +242,7 @@ Todos los equipos y sistemas contra incendios, incluyendo la instalación y mant
 
 7. Instalación y equipos eléctricos en los establecimientos de venta al público
 
-Almacén de productos pirotécnicos.
-
-Los materiales y equipos eléctricos existentes en el interior del almacén de productos pirotécnicos serán conformes a los requisitos establecidos para una Zona F2 de acuerdo a la Instrucción técnica complementaria número 13.
-
-Estos requisitos serán igualmente de aplicación para la zona destinada a la venta siempre que se disponga de productos pirotécnicos en estanterías.
-
-Local o zona destinada a la venta de productos pirotécnicos.
-
-En el caso de que en la zona destinada a la venta no exista material pirotécnico, la instalación y material eléctrico será conforme a lo establecido en el Reglamento electrotécnico para baja tensión, aprobado por Real Decreto 842/2002, de 2 de agosto.
+Los materiales y equipos eléctricos existentes en el interior del almacén y en la zona de venta de productos pirotécnicos serán conformes a los requisitos establecidos en la Instrucción técnica complementaria número 13.
 
 8. Disposiciones mínimas de seguridad
 
@@ -350,72 +340,108 @@ No le serán de aplicación estos mínimos de seguridad ciudadana a los establec
 
 10. Autorizaciones
 
-Las solicitudes para la autorización de los establecimientos de venta de artículos pirotécnicos se dirigirán a los Delegados de Gobierno correspondientes, acompañadas de un proyecto técnico que incluirá la siguiente documentación:
+1. Los establecimientos de venta de artículos pirotécnicos están sujetos a las siguientes autorizaciones:
 
-Consentimiento para la consulta de los datos de identidad personal de los titulares del establecimiento, según lo dispuesto en el Real Decreto 522/2006, de 28 de abril, por el que se suprime la aportación de fotocopias de D.N.I. en los procedimientos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes.
+a) Autorización para la instalación del establecimiento de venta de artículos pirotécnicos.
 
-De no constar el consentimiento para la consulta de los datos, deberá acompañarse fotocopia del Documento Nacional de Identidad o, en el caso de extranjeros, fotocopia de la tarjeta de estudiante, de la Tarjeta de Identidad de Extranjero, o de la tarjeta de residencia de familiar de ciudadano de la Unión. En el caso de ciudadanos de la Unión Europea o de Estados parte en el Acuerdo sobre el Espacio Económico Europeo o de cualquier otro Estado al que se extienda por Convenio Internacional el régimen previsto para los anteriores, presentarán copia de su certificado de registro, al que deberán acompañar asimismo copia de su Documento Nacional de Identidad o pasaporte, documentos que deberán estar en vigor.
+b) Autorización para el funcionamiento del establecimiento de venta de artículos pirotécnicos
 
-Memoria descriptiva del establecimiento detallando todos los datos necesarios para justificar el cumplimiento de los requisitos establecidos en la presente Instrucción técnica complementaria. En particular, se indicará:
+2. Autorización para la instalación del establecimiento de venta de artículos pirotécnicos.
 
-Tipo de establecimiento de venta.
+2.1 Las solicitudes para la autorización de la instalación de los establecimientos de venta de artículos pirotécnicos se dirigirán a los Delegados de Gobierno correspondientes, acompañadas de un proyecto técnico que incluirá la siguiente documentación:
 
-Ubicación del establecimiento.
+a) Consentimiento para la consulta de los datos de identidad personal de los titulares del establecimiento, según lo dispuesto en el Real Decreto 522/2006, de 28 de abril, por el que se suprime la aportación de fotocopias de documentos de identidad en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes.
 
-Declaración del titular del almacén autorizado perteneciente a un depósito de productos terminados, aceptando albergar los productos pirotécnicos provenientes de las casetas.
+De no constar el consentimiento para la consulta de los datos, deberá acompañarse fotocopia del Documento Nacional de Identidad o, en el caso de extranjeros, fotocopia de la Tarjeta de Identidad de Extranjero o de la tarjeta de residencia de familiar de ciudadano de la Unión. En el caso de ciudadanos de la Unión Europea o de Estados parte en el Acuerdo sobre el Espacio Económico Europeo o de cualquier otro Estado al que se extienda por Convenio Internacional el régimen previsto para los anteriores, presentarán copia de su certificado de registro, al que deberán acompañar asimismo copia de su Documento Nacional de Identidad o pasaporte, documentos que deberán estar en vigor.
 
-Salidas de que consta el establecimiento.
+b) Certificación de la compañía aseguradora o correduría de seguros de la contratación de una póliza de responsabilidad civil suscrita por la empresa titular del establecimiento que cubra la actividad de venta de artículos pirotécnicos y que, como mínimo deberá cubrir un capital de 181.562 euros de responsabilidad civil, o certificado emitido por la entidad de crédito, si se hubiese contratado un aval o fianza por el mismo importe.
 
-Características del almacén, superficie y volumen útil.
+Si no se dispone de dicha certificación en esta fase inicial del proyecto, se presentarán en la solicitud de entrada en funcionamiento.
 
-Características de la zona destinada a la venta, superficie y volumen útil.
+c) Memoria descriptiva del establecimiento detallando todos los datos necesarios para justificar el cumplimiento de los requisitos establecidos en la presente Instrucción técnica complementaria. En particular, se indicará:
 
-Tipo de productos pirotécnicos (categorías y divisiones de riesgo).
+i) Tipo de establecimiento de venta.
 
-Capacidad máxima de almacenamiento.
+ii) Ubicación del establecimiento.
 
-Medidas de seguridad ciudadana.
+iii) Declaración del titular del almacén autorizado perteneciente a un depósito de productos terminados, aceptando albergar los productos pirotécnicos provenientes de las casetas.
 
-Certificados de la instalación eléctrica, resistencia al fuego y equipos contra incendios, así como de la seguridad de los suelos frente a la ignición debida a chispas por descargas electrostáticas, en su caso.
+iv) Salidas de que consta el establecimiento.
 
-Contratos de mantenimiento de los equipos y sistemas contra incendios.
+v) Características del almacén, superficie y volumen útil.
 
-Planos:
+vi) Características de la zona destinada a la venta, superficie y volumen útil.
 
-a) Detalles constructivos del establecimiento, incluyendo tanto la sección o zona destinada a la venta, como el almacén.
+vii) Tipo de productos pirotécnicos (categorías y divisiones de riesgo).
 
-b) Ubicación de equipos contra incendios.
+viii) Capacidad máxima de almacenamiento.
 
-c) Acceso de vehículos y aparcamientos, en su caso.
+ix) Medidas de seguridad ciudadana.
 
-d) Localización e indicación de las distancias mínimas aplicables, en su caso.
+d) Certificados de la instalación eléctrica, resistencia al fuego y equipos contra incendios, así como de la seguridad de los suelos frente a la ignición debida a chispas por descargas electrostáticas, en su caso.
 
-No será precisa la presentación del citado proyecto técnico en el caso de establecimientos autorizados con anterioridad, supliéndose con una declaración responsable del solicitante declarando no haber realizado modificaciones con respecto al proyecto autorizado en su día. Si hubiera realizado cualquier tipo de modificación, deberá presentarse un nuevo proyecto.
+Si no se dispone de dichos certificados en esta fase inicial del proyecto, se presentarán en la solicitud de entrada en funcionamiento.
 
-Presentada una solicitud, el Delegado de Gobierno comunicará el inicio del procedimiento al Ayuntamiento correspondiente, de acuerdo con las características del establecimiento determinadas por el solicitante. Asimismo, se solicitarán informes al Área de Industria y Energía de la Delegación de Gobierno y a la Intervención de Armas y Explosivos de la Comandancia de la Guardia Civil correspondientes. Si en el plazo de 30 días el Ayuntamiento no emite disconformidad con la ejecución el proyecto se entenderá que cumple con la normativa municipal aplicable respecto a su establecimiento.
+e) Contratos de mantenimiento de los equipos y sistemas contra incendios.
 
-Una vez dictada la resolución de autorización del proyecto por parte de la Delegación de Gobierno, el solicitante podrá iniciar las obras necesarias, siempre y cuando haya obtenido las licencias municipales por parte del Ayuntamiento correspondiente, de acuerdo con el ámbito exclusivo de sus competencias.
+Si no se dispone de dichos contratos en esta fase inicial del proyecto, se presentarán en la solicitud de entrada en funcionamiento.
 
-La entrada en funcionamiento del establecimiento de venta requerirá autorización del Delegado de Gobierno correspondiente, que se otorgará previa inspección e informe favorable del Área de Industria y Energía y de la Intervención de Armas y Explosivos de la Comandancia de la Guardia Civil correspondientes.
+f) Planos: Se incluirá la siguiente información:
 
-Para el desarrollo de estas inspecciones, las Áreas de Industria y Energía podrán solicitar el apoyo de las entidades colaboradoras de la Administración que consideren necesarias.
+i) Detalles constructivos del establecimiento, incluyendo tanto la sección o zona destinada a la venta, como el almacén.
 
-En la resolución de autorización se indicará, al menos, lo siguiente:
+ii) Ubicación de equipos contra incendios.
 
-Datos del interesado y de los responsables de venta.
+iii) Acceso de vehículos y aparcamientos, en su caso.
 
-Características del establecimiento.
+iv) Localización e indicación de las distancias mínimas aplicables, en su caso.
 
-Divisiones de riesgo de los artículos pirotécnicos susceptibles de venta.
+2.2 No será precisa la presentación del citado proyecto técnico en el caso de establecimientos autorizados con anterioridad, supliéndose con una declaración responsable del solicitante declarando no haber realizado modificaciones con respecto al proyecto autorizado en su día. Si hubiera realizado cualquier tipo de modificación, deberá presentarse un nuevo proyecto.
 
-Capacidad máxima de almacenamiento total y para cada una de las divisiones de riesgo.
+2.3 Presentada una solicitud para la autorización de la instalación de un establecimiento de venta de artículos pirotécnicos, el Delegado de Gobierno comunicará el inicio del procedimiento al Ayuntamiento correspondiente, de acuerdo con las características del establecimiento determinadas por el solicitante. Asimismo, se solicitarán informes al Área de Industria y Energía de la Delegación de Gobierno y a la Intervención de Armas y Explosivos de la Comandancia de la Guardia Civil correspondientes. Si en el plazo de 30 días el Ayuntamiento no emite disconformidad con la ejecución el proyecto se entenderá que cumple con la normativa municipal aplicable respecto a su establecimiento.
 
-Cantidad máxima en estanterías de la zona de venta.
+2.4 Una vez dictada la resolución de autorización de instalación de un establecimiento de venta de artículos pirotécnicos por parte de la Delegación de Gobierno, el solicitante podrá iniciar las obras necesarias, siempre y cuando haya obtenido las licencias municipales por parte del Ayuntamiento correspondiente, de acuerdo con el ámbito exclusivo de sus competencias.
 
-Limitaciones de venta.
+2.5 En la resolución de autorización para la instalación del establecimiento de venta de artículos pirotécnicos se indicará, al menos, lo siguiente:
 
-Estas autorizaciones para establecimientos permanentes serán indefinidas siempre que no se modifiquen las condiciones en que fueron otorgadas.
+a) Datos del interesado.
 
-En el caso de establecimientos temporales la autorización tendrá un periodo de validez de un máximo de 3 meses.
+b) Características del establecimiento.
+
+c) Divisiones de riesgo de los artículos pirotécnicos susceptibles de venta.
+
+d) Capacidad máxima de almacenamiento total y para cada una de las divisiones de riesgo.
+
+e) Cantidad máxima en estanterías de la zona de venta.
+
+f) Limitaciones de venta.
+
+3. Autorización para el funcionamiento del establecimiento de venta de artículos pirotécnicos.
+
+3.1 La entrada en funcionamiento del establecimiento de venta requerirá autorización del Delegado de Gobierno correspondiente, que se otorgará previa inspección e informe favorable del Área de Industria y Energía y de la Intervención de Armas y Explosivos de la Comandancia de la Guardia Civil correspondientes.
+
+3.2 Para el desarrollo de estas inspecciones, las Áreas de Industria y Energía podrán solicitar el apoyo de las entidades colaboradoras de la Administración que consideren necesarias.
+
+3.3 En la resolución de autorización para el funcionamiento del establecimiento de venta de artículos pirotécnicos se indicará, al menos, lo siguiente:
+
+a) Datos del interesado y de los responsables de venta en el momento de su apertura.
+
+b) Características del establecimiento.
+
+c) Divisiones de riesgo de los artículos pirotécnicos susceptibles de venta.
+
+d) Capacidad máxima de almacenamiento total y para cada una de las divisiones de riesgo.
+
+e) Cantidad máxima en estanterías de la zona de venta.
+
+f) Limitaciones de venta.
+
+4. Validez y disponibilidad de las autorizaciones.
+
+Las autorizaciones de instalación y de funcionamiento para establecimientos permanentes serán indefinidas siempre que no se modifiquen las condiciones en que fueron otorgadas.
+
+En el caso de establecimientos temporales la autorización de instalación y de funcionamiento se acordará en un solo acto y tendrán un periodo de validez máximo de 3 meses.
 
 Las preceptivas autorizaciones estarán siempre disponibles en los puntos de venta y serán exigibles en todo momento por la autoridad competente.
+
+> Se modifica por el art.16 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

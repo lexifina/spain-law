@@ -5,5 +5,9 @@ Las autorizaciones de catalogación otorgadas antes de la fecha correspondiente 
 | Catalogaciones vigentes |
 | --- |
 | Resoluciones de fecha anterior a | Resoluciones cuya renovación preceptiva sea solicitada antes de |
-| 4 de julio de 2010 | 4 de junio de 2013 | 4 de julio de 2010 | 4 de junio de 2013 |
+| 4 de julio de 2010 | 4 de julio de 2013 | 4 de julio de 2010 | 4 de julio de 2013 |
 | Validez: Hasta su vencimiento | Validez: Máximo 5 años |
+
+En cualquier caso, la vigencia de las catalogaciones nunca excederá de 4 de julio de 2017.
+
+> Se modifica por el art. 1.3 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.

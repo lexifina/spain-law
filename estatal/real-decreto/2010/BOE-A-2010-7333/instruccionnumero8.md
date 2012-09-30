@@ -6,7 +6,7 @@
 
 La presente instrucción técnica será de aplicación en el caso de espectáculos realizados con artificios pirotécnicos de categorías 1, 2 y 3 que en su conjunto superen los 10 kilogramos de materia reglamentada.
 
-Queda prohibida la mecanización por parte de no expertos de artificios de las categorías 1, 2 y 3 entre sí, así como su iniciación por sistema no eléctrico.
+Queda prohibida la mecanización por parte de no expertos de artificios de las categorías 1, 2 y 3 entre sí, así como su iniciación por sistema eléctrico.
 
 La utilización colectiva de artificios de las categorías 1, 2 y 3 provistos de marcado CE no tendrá la consideración de espectáculo pirotécnico.
 
@@ -36,7 +36,7 @@ j) Personal auxiliar: personal de apoyo, no necesariamente vinculada a la empres
 
 k) Encargado: Persona designada por la empresa de expertos que asume la dirección de montaje y disparo, siendo la interlocutora de la empresa de expertos con la entidad organizadora y las autoridades competentes.
 
-3. Autorización de espectáculos.–Los espectáculos con artificios pirotécnicos realizados por expertos cuyo contenido en materia reglamentada sea superior a 10 kilogramos e inferior o igual a 100 kilogramos sólo podrán efectuarse previa notificación a la Delegación del Gobierno por parte de la entidad organizadora del espectáculo, con una antelación mínima de 10 días. El espectáculo se entenderá autorizado salvo denegación expresa emitida en el plazo de 3 días.
+3. Autorización de espectáculos.–Los espectáculos con artificios pirotécnicos realizados por expertos cuyo contenido en materia reglamentada sea superior a 10 kilogramos e inferior o igual a 100 kilogramos solo podrán efectuarse previa notificación a la Delegación del Gobierno por parte de la entidad organizadora del espectáculo, con una antelación mínima de 10 días. El espectáculo se entenderá autorizado salvo denegación expresa emitida en el plazo de 10 días.
 
 Los espectáculos con artificios pirotécnicos realizados por expertos cuyo contenido en materia reglamentada sea superior a 100 kilogramos sólo podrán efectuarse con autorización expresa de la Delegación del Gobierno, previo informe del Área de Industria y Energía y de la Intervención de Armas y Explosivos de la Comandancia correspondiente de la Guardia Civil, a cuyo efecto la entidad organizadora del espectáculo deberá presentar la solicitud correspondiente con una antelación mínima de 15 días hábiles respecto a su celebración.
 
@@ -56,7 +56,7 @@ d) Certificación de compañía aseguradora o correduría de seguros de la contr
 
 e) Certificación de compañía aseguradora o correduría de seguros de la contratación de la póliza de seguros de responsabilidad civil suscrita por la empresa de expertos, que cubra la actividad de realización del espectáculo solicitado, y que como mínimo, deberá cubrir un capital de 600.000 € de responsabilidad civil.
 
-Se admitirá una única póliza que cubra conjuntamente los casos descritos en los puntos d) y e).
+Se admitirá una única póliza que cubra conjuntamente los casos descritos en los puntos d) y e). En ambos casos, en lugar de la certificación de compañía aseguradora o correduría de seguros, se podrá presentar el certificado emitido por la entidad de crédito, si se hubiese contratado un aval o fianza por el mismo importe.
 
 f) Identificación de la empresa de expertos que realice el espectáculo, incluyendo los siguientes datos:
 
@@ -76,17 +76,17 @@ f) Identificación de la empresa de expertos que realice el espectáculo, incluy
 
 8. Si procede, documento contractual entre empresas de expertos de cesión de personal cualificado para la realización del espectáculo.
 
-9. Declaración por parte del empresario titular de la empresa de expertos de cumplir los requisitos establecidos en la Ley 31/1995 de 8 de noviembre, de Prevención de Riesgos Laborales, y su normativa de desarrollo, para la actividad propia del disparo y en particular para el espectáculo previsto.
+9. Declaración responsable por parte del empresario titular de la empresa de expertos de cumplir los requisitos establecidos en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y su normativa de desarrollo, para la actividad propia del disparo y en particular para el espectáculo previsto.
 
 10. Ángulo de lanzamiento previsto en el caso de lanzamiento no vertical.
 
-En caso de que la empresa de expertos sea extranjera deberá presentar estos documentos o equivalentes debidamente traducidos al menos al castellano.
-
 g) Propuesta de distancias mínimas de seguridad y, en su caso, medidas de seguridad adicionales previstas.
 
-En la realización de espectáculos con artificios pirotécnicos realizados por expertos cuyo contenido en materia reglamentada sea superior a 10 kilogramos e inferior o igual a 50 kilogramos en los que sólo deba efectuarse previa notificación a la Delegación del Gobierno por parte de la entidad organizadora del espectáculo, dicha notificación deberá acompañarse de los documentos relacionados en los puntos b), e), f1), f2), f3), f5) y f8).
+En caso de que la empresa de expertos sea extranjera deberá presentar estos documentos o equivalentes debidamente traducidos al menos al castellano.
 
-En la realización de espectáculos con artificios pirotécnicos realizados por expertos cuyo contenido en materia reglamentada sea superior a 50 kilogramos e inferior o igual a 100 kilogramos en los que sólo deba efectuarse previa notificación a la Delegación del Gobierno por parte de la entidad organizadora del espectáculo, dicha notificación deberá acompañarse de los documentos relacionados en los puntos b), c), e), f1), f2), f3), f5), f6), f7) y f8).
+En la realización de espectáculos con artificios pirotécnicos realizados por expertos cuyo contenido en materia reglamentada sea superior a 10 kilogramos e inferior o igual a 50 kilogramos en los que solo deba efectuarse previa notificación a la Delegación del Gobierno por parte de la entidad organizadora del espectáculo, dicha notificación deberá acompañarse de los documentos relacionados en los subapartados b), e), f1), f2), f3), f4), f6), f7), f9), f10) y g) de este apartado 3 de esta Instrucción técnica complementaria.
+
+En la realización de espectáculos con artificios pirotécnicos realizados por expertos cuyo contenido en materia reglamentada sea superior a 50 kilogramos e inferior o igual a 100 kilogramos en los que solo deba efectuarse previa notificación a la Delegación del Gobierno por parte de la entidad organizadora del espectáculo, dicha notificación deberá acompañarse de los documentos relacionados en los subapartados b), c), e), f1), f2), f3), f4), f6), f7), f8), f9), f10) y g) de este apartado 3 de esta Instrucción técnica complementaria.
 
 4. Requisitos para la realización del espectáculo.
 
@@ -218,9 +218,9 @@ b) Su ubicación impedirá que la trayectoria de los artificios coincida con cua
 
 4.24 Deberán inspeccionarse todos los morteros antes de su instalación, en busca de defectos como abolladuras, bordes doblados e interiores dañados, desechándose los defectuosos.
 
-4.25 Los morteros se enterrarán en al menos un 30 % de su longitud, bien en el suelo, o bien en sacos. Los morteros que puedan dañarse con la humedad del terreno se colocarán dentro de una bolsa de plástico hermética antes de enterrarlos.
+4.25 Los morteros individuales se enterrarán en al menos un 30 % de su longitud, bien en el suelo, o bien con sacos de arena. Los morteros que puedan dañarse con la humedad del terreno se colocarán dentro de una bolsa de plástico hermética antes de enterrarlos.
 
-Los morteros colocados en batería deberán cumplir este mismo requisito en toda la extensión longitudinal de la batería.
+Los morteros colocados en batería deberán ir sujetos a la estructura de la misma mediante soldadura, atornillados o sujetos con abrazaderas para imposibilitar el desprendimiento de los mismos, y ayudados mediante sacos de arena en sus extremos y barras de sujeción para imposibilitar cualquier desviación del ángulo de lanzamiento.
 
 4.26 Las unidades de disparo eléctrico deberán disponer de un sistema que obligue a dos acciones positivas para la iniciación del disparo. Las unidades de disparo de actuación automática después de su iniciación, deberán contar además, con un interruptor de emergencia con bloqueo, que permita interrumpir la secuencia de disparo ante la aparición de un suceso fortuito que aporte una situación de riesgo no prevista.
 
@@ -228,9 +228,9 @@ Los morteros colocados en batería deberán cumplir este mismo requisito en toda
 
 4.28 La empresa de expertos deberá disponer del número suficiente de expertos y aprendices para llevar a cabo el lanzamiento de los artificios en cada espectáculo. De conformidad con la normativa en materia de prevención de riesgos laborales, dicho personal deberá conocer en cada caso los riesgos y la seguridad exigible durante cada lanzamiento en particular, así como las medidas a tomar en su caso.
 
-4.29 La entidad organizadora velará por el cumplimiento de los requisitos establecidos en los puntos 1 a 5 de este apartado 4. Del mismo modo, la empresa de expertos será responsable del cumplimiento de lo dispuesto en los puntos 6 a 11 de este apartado 4.
+4.29 La entidad organizadora velará por el cumplimiento de los requisitos establecidos en los subapartados 18 a 22 de este apartado 4. Del mismo modo, la empresa de expertos será responsable del cumplimiento de lo dispuesto en los subapartados 23 a 28 de este apartado 4.
 
-5. Plan de seguridad y de emergencia.–La entidad organizadora del espectáculo presentará un Plan de Seguridad realizado por personal técnico competente, propio o ajeno, en dicha materia a la Delegación de Gobierno correspondiente, que comprenderá las medidas tendentes a prevenir la posibilidad de accidentes, y que incluirá como mínimo la siguiente información:
+5. Plan de seguridad y de emergencia.–1. La entidad organizadora del espectáculo presentará, en el caso de espectáculos realizados por expertos en los que se utilicen más de 50 kilogramos de materia reglamentada, un Plan de Seguridad realizado por personal técnico competente, propio o ajeno, en dicha materia a la Delegación de Gobierno correspondiente, que comprenderá las medidas tendentes a prevenir la posibilidad de accidentes, y que incluirá como mínimo la siguiente información:
 
 a) Protección prevista para la zona de lanzamiento hasta la hora de comienzo del espectáculo, de acuerdo a lo establecido para ello en la presente Instrucción técnica complementaria.
 
@@ -244,7 +244,7 @@ e) Situación exacta de la zona de lanzamiento y su área circundante en un radi
 
 f) Delimitación de la zona de seguridad y los espacios donde se prevea la presencia del público, así como representación del radio de seguridad y su medida en metros.
 
-Igualmente, la entidad organizadora presentará a la Delegación de Gobierno correspondiente, un Plan de Emergencia elaborado por técnicos competentes, conforme a los siguientes contenidos mínimos:
+2. Además del Plan de Seguridad regulado en el subapartado 1 de este apartado 5 de esta Instrucción técnica complementaria, la entidad organizadora presentará, en el caso de espectáculos realizados por expertos en los que se utilicen más de 100 kilogramos de materia reglamentada, a la Delegación del Gobierno correspondiente, un Plan de Emergencia elaborado por técnicos competentes, conforme a los siguientes contenidos mínimos:
 
 a) Análisis de los posibles casos de emergencia y medidas de prevención y protección previstas para ello, incluyendo los medios humanos y materiales en materia de primeros auxilios, lucha contra incendios y evacuación de personas. En este sentido, será obligatorio disponer de al menos:
 
@@ -416,63 +416,66 @@ En.................................. a……. de………………….. de……
 
 |  | A | B | C |
 | --- | --- | --- | --- |
-| Punto 3: Autorización de espectáculos. |  |  |  |
-| Notificación a la Delegación del Gobierno con una antelación mínima de 10 días. | X | X |  |
-| Autorización de la Delegación del Gobierno previo informe del Área de Industria y Energía y de la Intervención de Armas y Explosivos correspondiente. |  |  | X |
+| Punto 3: Autorización de espectáculos |  |  |  |
+| Notificación a la Delegación del Gobierno con una antelación mínima de 10 días .... | X | X |  |
+| Autorización de la Delegación del Gobierno previo informe del Área de Industria y Energía y de la Intervención de Armas y Explosivos correspondiente ................... |  |  | X |
 | Documentación a presentar sea notificación o autorización: |  |  |  |
-| a) Solicitud de autorización. |  |  | X |
-| b) Conformidad de la propiedad del suelo. |  | X | X |
-| c) Plan de seguridad. |  | X | X |
-| c) Plan de emergencia. |  |  | X |
-| d) Seguro de accidentes y de responsabilidad civil del organizador. |  |  | X |
-| e) Seguro de responsabilidad civil de la empresa de expertos. | X | X | X |
-| f) Identificación de la empresa de expertos con los siguientes datos: |  |  |  |
-| f1) Copia de la autorización del taller o depósito. | X | X | X |
-| f2) Relación de artificios pirotécnicos a disparar, detallando tipo, número, y cantidad de materia reglamentada por artificio, tanto para los artificios con marcado CE, como los de fabricación propia sin marcado CE, y el total del conjunto. | X | X | X |
-| f3) Tiempo previsto para el disparo de cada sección o conjunto homogéneo. | X | X | X |
-| f4) Secuencia de comienzo de disparo entre secciones y orden a seguir en los disparos de cada sección, incluyendo el esquema de disparo en representación gráfica y simbólica. |  |  | X |
-| f5) Identificación de los expertos y aprendices que intervendrán en el espectáculo, así como sus posibles suplentes, con copia de los carnés o certificados de aptitud correspondientes, así como la identificación de la persona designada como encargado durante el desarrollo de aquél, o su posible suplente. | X | X | X |
-| f6) Copia de los boletines TC-2 de Cotización a la Seguridad Social de los trabajadores que van a participar en el espectáculo, o documento laboral que justifique su contratación o situación de alta en el empresa. |  | X | X |
-| f7) Declaración por parte del empresario titular de la empresa de expertos de cumplir los requisitos establecidos en la Ley 31/1995 de 8 de noviembre, de Prevención de Riesgos Laborales, para la actividad propia del disparo y en particular para el espectáculo previsto. |  | X | X |
-| f8) Ángulo de lanzamiento previsto en el caso de lanzamiento no vertical. | X | X | X |
+| a) | Solicitud de autorización |  | X |  |
+| b) | Conformidad de la propiedad del suelo | X | X | X |
+| c) | Plan de seguridad |  | X | X |
+| c) | Plan de emergencia |  |  | X |
+| d) | Seguro de accidentes y de responsabilidad civil del organizador |  |  | X |
+| e) | Seguro de responsabilidad civil de la empresa de expertos | X | X | X |
+|  | f1) | Copia de la autorización del taller o depósito ............................... | X | X | X |
+|  | f2) | Justificación de la capacidad de almacenamiento en el taller de preparación y montaje, cantidad que deberá ser superior a la que se va a disparar en el espectáculo .................................................. | X | X | X |
+|  | f3) | Relación de artificios pirotécnicos a disparar, detallando tipo, número, y cantidad de materia reglamentada por artificio, tanto para los artificios con marcado CE, como los de fabricación propia sin marcado CE, y el total del conjunto ............................................................... | X | X | X |
+|  | f4) | Tiempo previsto para el disparo de cada sección o conjunto homogéneo | X | X | X |
+|  | f5) | Secuencia de comienzo de disparo entre secciones y orden a seguir en los disparos de cada sección, incluyendo el esquema de disparo en representación gráfica y simbólica ........................................... |  |  | X |
+|  | f6) | Identificación de los expertos y aprendices que intervendrán en el espectáculo, así como sus posibles suplentes, con copia de los carnés o certificados de aptitud correspondientes, así como la identificación de la persona designada como encargado durante el desarrollo de aquél, o su posible suplente .......................................................... | X | X | X |
+|  | f7) | Copia de los boletines TC-2 de Cotización a la Seguridad Social de los trabajadores que van a participar en el espectáculo, o documento laboral que justifique su contratación o situación de alta en el empresa . | X | X | X |
+|  | f8) | Si procede, documento contractual entre empresas de expertos de cesión de personal cualificado para la realización del espectáculo ....... |  | X | X |
+|  | f9) | Declaración por parte del empresario titular de la empresa de expertos de cumplir los requisitos establecidos en la Ley 31/1995 de 8 de noviembre, de Prevención de Riesgos Laborales, para la actividad propia del disparo y en particular para el espectáculo previsto ............ | X | X | X |
+|  | f10) | Ángulo de lanzamiento previsto en el caso de lanzamiento no vertical. . . | X | X | X |
+| g) | Propuesta de distancias mínimas de seguridad y, en su caso, medidas de seguridad adicionales previstas ...................................................... | X | X | X |
 | Punto 4: Requisitos para la realización del espectáculo. |  |  |  |
 | Requisitos generales: |  |  |  |
-| 4.1 | X | X | X |
-| 4.2 | X | X | X |
-| 4.3 | X | X | X |
-| 4.4 | X | X | X |
-| 4.5 |  | X | X |
-| 4.6 | X | X | X |
-| 4.7 | X | X | X |
-| 4.8 | x | X | x |
+|  | 4.1 | .................................................................................... | X | X | X |
+|  | 4.2 | .................................................................................... | X | X | X |
+|  | 4.3 | .................................................................................... | X | X | X |
+|  | 4.4 | .................................................................................... | X | X | X |
+|  | 4.5 | .................................................................................... |  | X | X |
+|  | 4.6 | .................................................................................... | X | X | X |
+|  | 4.7 | .................................................................................... | X | X | X |
+|  | 4.8 | .................................................................................... | X | X | X |
 | Zona de seguridad: |  |  |  |
-| 4.9 | X | X | X |
-| 4.10 | X | X | X |
-| 4.11 | X | X | X |
-| 4.12 | X | X | X |
-| 4.13 | X | X | X |
-| 4.14 |  | X | X |
-| 4.15 | X | X | X |
-| 4.16 | X | X | X |
-| 4.17 |  | X | X |
+|  | 4.9 | .................................................................................... | X | X | X |
+|  | 4.10 | .................................................................................... | X | X | X |
+|  | 4.11 | .................................................................................... | X | X | X |
+|  | 4.12 | .................................................................................... | X | X | X |
+|  | 4.13 | .................................................................................... | X | X | X |
+|  | 4.14 | .................................................................................... |  | X | X |
+|  | 4.15 | .................................................................................... | X | X | X |
+|  | 4.16 | .................................................................................... | X | X | X |
+|  | 4.17 | .................................................................................... |  | X | X |
 | Zona de lanzamiento: |  |  |  |
-| Del 4.18 al 4.29 (ambos incluidos). | X | X | X |
+|  | Del 4.18 al 4.29 (ambos incluidos) ................................................... | X | X | X |
 | Punto 5: Plan de seguridad y emergencia. |  |  |  |
-| Plan de seguridad. |  | X | X |
-| Plan de emergencia. |  |  | X |
-| Punto 6: Organización. |  |  |  |
-| 6.1 |  | X | X |
-| 6.2 |  | X | X |
-| 6.3 |  | X | X |
-| 6.4 |  | X | X |
-| 6.5 |  | X | X |
-| Punto 7: Montaje del espectáculo. | X | X | X |
-| Punto 8: Disparo del espectáculo. | X | X | X |
-| Punto 9: Prohibición, suspensión e interrupción de los espectáculos. |  | X | X |
-| Punto 10: Actuaciones posteriores al espectáculo. | X | X | X |
+| Plan de seguridad ............................................................................. |  | X | X |
+| Plan de emergencia............................................................................. |  | X |  |
+| Punto 6: Organización |  |  |  |
+|  | 6.1 | .................................................................................... |  | X | X |
+|  | 6.2 | .................................................................................... |  | X | X |
+|  | 6.3 | .................................................................................... |  | X | X |
+|  | 6.4 | .................................................................................... |  | X | X |
+| Punto 7: Montaje del espectáculo ........................................................... | X | X | X |
+| Punto 8: Disparo del espectáculo ............................................................ | X | X | X |
+| Punto 9: Prohibición, suspensión e interrupción de los espectáculos ..................... |  | X | X |
+| Punto 10: Actuaciones posteriores al espectáculo ......................................... | X | X | X |
 
 A: Espectáculos con artificios pirotécnicos realizados por expertos cuyo contenido en materia reglamentada sea superior a 10 kilogramos e inferior o igual a 50 kilogramos.
 
 B: Espectáculos con artificios pirotécnicos realizados por expertos cuyo contenido en materia reglamentada sea superior a 50 kilogramos e inferior o igual a 100 kilogramos.
 
-C: Espectáculos con artificios pirotécnicos realizados por expertos cuyo contenido en materia reglamentada sea superior a 100 kilogramos.
+C: Espectáculos con artificios pirotécnicos realizados por expertos cuyo contenido en materia reglamentada sea superior.
+
+> Se modifica por el art.8 del Real Decreto 1335/2012, de 21 de septiembre. Ref. BOE-A-2012-12198.
