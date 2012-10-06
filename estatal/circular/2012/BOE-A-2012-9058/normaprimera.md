@@ -1,0 +1,3 @@
+## Norma primera. Objeto.
+
+La presente Circular tiene por objeto dictar las normas precisas para el desarrollo y ejecución de las disposiciones de la Orden EHA/2899/2011, de 28 de octubre, de transparencia y protección del cliente de servicios bancarios (en adelante, la Orden) en los términos que esta atribuye al Banco de España, así como las obligaciones de información de los proveedores de servicios de pago que ofrezcan los servicios de cambio de divisa, de conformidad con lo dictado por el artículo 3 de la Orden EHA/1608/2010, de 14 de junio, sobre transparencia de las condiciones y requisitos de información aplicables a los servicios de pago.
