@@ -1,0 +1,3 @@
+## Disposición final primera. Habilitación competencial.
+
+Esta Orden se dicta en ejercicio de la habilitación competencial contenida en el artículo 27.4 y en la disposición final segunda de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, así como en la disposición final segunda del Real Decreto-ley 7/2012, de 9 de marzo, por el que se crea el Fondo para la financiación de los pagos a proveedores y en la disposición adicional tercera del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.

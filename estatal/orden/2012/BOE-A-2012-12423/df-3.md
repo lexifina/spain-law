@@ -1,0 +1,3 @@
+## Disposición final tercera. Modificación del Real Decreto 1463/2007, de 2 de noviembre, por el que se aprueba el reglamento de desarrollo de la Ley 18/2001, de 12 de diciembre, de Estabilidad Presupuestaria, en su aplicación a las Entidades Locales.
+
+De acuerdo con lo previsto en la disposición final tercera del Real Decreto 1463/2007, de 2 de noviembre, por el que se aprueba el reglamento de desarrollo de la Ley 18/2001, de 12 de diciembre, de Estabilidad Presupuestaria, en su aplicación a las Entidades Locales, se modifican los artículos 27,29, 30 y 31 del reglamento de desarrollo de la Ley 18/2001, de 12 de diciembre, de Estabilidad Presupuestaria, en su aplicación a las Entidades Locales, que quedan sin contenido.
