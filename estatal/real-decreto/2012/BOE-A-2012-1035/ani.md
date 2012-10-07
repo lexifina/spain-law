@@ -74,7 +74,7 @@ En la prima por vaca nodriza, y en todas las ayudas a los agricultores que ejerz
 
 No obstante lo anterior, en el caso de la ayuda para la mejora de la calidad de la carne de vacuno, el productor puede aportar, a efectos informativos, certificado en papel expedido por la marca de calidad, con la relación de crotales de los animales sacrificados para ese solicitante.
 
-De acuerdo con el apartado 3 artículo 16 del Reglamento (CE) n.º 1122/2009 de la Comisión de 29 de octubre de 2009, debe figurar en la solicitud la declaración del productor, afirmando que es consciente de que los animales para los que se haya comprobado que no están correctamente identificados o registrados en el sistema de identificación y registro, podrán contar como animales respecto de los cuales se han detectado irregularidades, según se contempla en los artículos 65 y 69 del Reglamento (CE) n.º 1122/2009 de la Comisión de 29 de octubre de 2009.
+De acuerdo con el apartado 3 artículo 16 del Reglamento (CE) n.º 1122/2009 de la Comisión de 29 de octubre de 2009, debe figurar en la solicitud la declaración del productor, afirmando que es consciente de que los animales para los que se haya comprobado que no están correctamente identificados o registrados en el sistema de identificación y registro, podrán contar como animales respecto de los cuales se han detectado irregularidades, según se contempla en los artículos 65, 66 y 69 del Reglamento (CE) n.º 1122/2009 de la Comisión de 29 de octubre de 2009.
 
 4. Declaración de que los datos de su explotación corresponden a los contenidos en la base de datos informatizada, o en caso contrario, compromiso de comunicar al órgano competente la rectificación según lo establecido en el Real Decreto 479/2004, de 26 de marzo.
 
@@ -151,3 +151,5 @@ En el caso de la ayuda para compensar las desventajas específicas que afectan a
 En el caso de la ayuda para compensar desventajas específicas que afectan a los agricultores del sector vacuno de leche, el productor que solicite la ayuda complementaria para las explotaciones que dispongan de base territorial para la alimentación del ganado productor de leche, y justifiquen dicha base territorial en base a pastos comunales, deberán aportar un justificante documental de la disponibilidad de dichos recursos para su ganado.
 
 6. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al solicitante de la necesidad de presentación de dicha documentación, sustituyéndose en su caso por una autorización expresa a la autoridad competente para acceder a dicha información.
+
+> Se modifica el último párrafo del apartado IV.3 por el art. único.7 del Real Decreto 1391/2012, de 5 de octubre. Ref. BOE-A-2012-12486.
