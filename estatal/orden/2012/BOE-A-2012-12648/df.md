@@ -1,0 +1,3 @@
+## Disposición final primera. Modificación de la Orden JUS/1294/2003, de 30 de abril, por la que se determinan los ficheros con datos de carácter personal del departamento y sus organismos públicos.
+
+Se amplía la relación de los ficheros del Ministerio de Justicia que figuran en la Orden JUS/1294/2003, de 30 de abril, por la que se determinan los ficheros con datos de carácter personal del departamento y sus organismos públicos, mediante la incorporación a su Anexo I del fichero de Solicitudes de suministro de información administrativa por parte de personas afectadas por la sustracción de recién nacidos, con el número 119, así como el fichero de Perfiles de ADN de personas afectadas por la Sustracción de Recién Nacidos, con el número 120.
