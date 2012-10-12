@@ -1,4 +1,4 @@
-## ANEXO 3
+## ANEXO 2
 
 ## Baremo para determinar la existencia de dificultades para utilizar transportes colectivos
 
@@ -28,3 +28,7 @@
 – Se considerará la existencia de dificultades de movilidad siempre que el presunto beneficiario se encuentre en alguna de las situaciones descritas en los apartados A, B, C.
 
 – Si el solicitante no se encuentra en ninguna de las situaciones anteriores, se aplicarán los siguientes apartados D, E, F, G y H, sumando las puntuaciones obtenidas en cada uno de ellos. Se considerará la existencia de dificultades de movilidad siempre que el presunto beneficiario obtenga en estos apartados un mínimo de 7 puntos.
+
+> Se renumera por el art. único.6 del Real Decreto 1364/2012, de 27 de septiembre. Ref. BOE-A-2012-12686.
+
+> Su anterior numeración era anexo 3.

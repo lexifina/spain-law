@@ -1,10 +1,10 @@
 ## Disposición adicional primera. Reconocimiento del tipo de minusvalía.
 
-1. En los certificados y resoluciones de reconocimiento del grado de minusvalía, expedidos por organismo competente, se hará constar, en lo sucesivo, como mención complementaria el tipo de minusvalía en las categorías de psíquica, física o sensorial, según corresponda.
+1. A instancia de la persona interesada o de quien ostente su representación, se certificará por el organismo competente el tipo o los tipos de deficiencia o deficiencias que determinan el grado de discapacidad reconocida, conforme a la información que conste en el expediente, a los efectos que requiera la acreditación para la que se solicita.
 
-2. Las personas con discapacidad cuyo grado de minusvalía hubiera sido reconocido por organismo competente con arreglo a lo dispuesto en este real decreto con anterioridad a la entrada en vigor de esta disposición adicional única, y en cuyo certificado o resolución de reconocimiento de grado de minusvalía no figurase la mención al tipo de discapacidad en las categorías de psíquica, física o sensorial, podrán solicitar de organismo competente, por sí mismas o, en su caso, a través de sus representantes legales, la ampliación del reconocimiento, a fin de hacer constar en su certificado o resolución oficial la mención expresa al tipo de discapacidad referido.
+2. El organismo competente emitirá el certificado a que se refiere el apartado anterior en el plazo máximo de 15 días naturales siguientes al de la presentación de la solicitud.
 
-3. El organismo competente atenderá la solicitud a que se refiere el apartado anterior en el plazo máximo de 15 días naturales desde su presentación, con la emisión por escrito de la correspondiente ampliación de reconocimiento.
+> Se modifica por el art. único.5 del Real Decreto 1364/2012, de 27 de septiembre. Ref. BOE-A-2012-12686.
 
 > Se numera por el artículo único.3 del Real Decreto 1856/2009, de 4 de diciembre. Ref. BOE-A-2009-20891.
 
