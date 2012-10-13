@@ -26,6 +26,8 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_012.png)
 
+> Atención: en el apartado E Observaciones, se sustituye «Real Decreto 2115/1998» por «Real Decreto 551/2006, de 5 de mayo».
+
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_013.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_014.png)
@@ -33,6 +35,13 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_015.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_016.png)
+
+> Atención: en las hojas HA2 y HA3, los apartados 6.8.4.b), 6.8.4.c) y 6.8.4.d) quedan redactados del modo siguiente:
+
+> | «6.8.4.b) | Se cumplen los requerimientos especiales sobre equipos establecidos en los códigos TEx del apartado 6.8.4.b) del ADR, aplicables a las materias autorizadas a transportar según el código y el tipo de aprobación de la cisterna, (6.8.2.3.1). |
+> | --- | --- |
+> | 6.8.4.c) | Se cumplen los requerimientos especiales de aprobación establecidos en los códigos TAx del apartado 6.8.4.c) del ADR, aplicables a las materias autorizadas a transportar según el código y el tipo de aprobación de cisterna, (6.8.2.3.1). |
+> | 6.8.4.d) | Se cumplen los requerimientos especiales sobre pruebas establecidos en los códigos TTx del apartado 6.8.4.d) del ADR, aplicables a las materias a transportar según el código y el tipo de aprobación de cisterna, (6.8.2.3.1).» |
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_017.png)
 
@@ -48,15 +57,21 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_023.png)
 
+> Atención: se sustituye «Vehículo portador (excepto contenedores cisterna y C.G.E.M.)» por «Vehículo portador (excepto contenedores cisterna, cisternas portátiles y CGEM)».
+
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_024.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_025.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_026.png)
 
+> Atención: se sustituye «Tipo de vehículo 1» por «Tipo 1».
+
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_027.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_028.png)
+
+> Atención: se sustituye «Tipo de vehículo 1» por «Tipo 1».
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_029.png)
 
@@ -70,37 +85,50 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_034.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_035.png)
+> Atención: en las hojas GA2 y GA3, la redacción de los apartados 6.8.4.b), 6.8.4.c) y 6.8.4.d) será la que sigue:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_036.png)
+> | «6.8.4.b) | Se cumplen los requerimientos especiales sobre equipos establecidos en los códigos TEx del apartado 6.8.4.b) del ADR, aplicables a las materias autorizadas a transportar según el código y el tipo de aprobación de la cisterna, (6.8.2.3.1). |
+> | --- | --- |
+> | 6.8.4.c) | Se cumplen los requerimientos especiales de aprobación establecidos en los códigos TAx del apartado 6.8.4.c) del ADR, aplicables a las materias autorizadas a transportar según el código y el tipo de aprobación de cisterna, (6.8.2.3.1). |
+> | 6.8.4.d) | Se cumplen los requerimientos especiales sobre pruebas establecidos en los códigos TTx del apartado 6.8.4.d) del ADR, aplicables a las materias a transportar según el código y el tipo de aprobación de cisterna, (6.8.2.3.1).» |
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_037.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_038.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_039.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_040.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_041.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_042.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_043.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_044.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_045.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_046.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_047.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_048.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_049.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_013.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_014.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_015.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_016.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/247/15602_017.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_050.png)
+
+> Atención: se sustituye «Vehículo portador, excepto contenedores cisterna» por «Vehículo portador (excepto contenedores cisterna, cisternas portátiles y CGEM)».
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_051.png)
 
@@ -113,6 +141,8 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_055.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_056.png)
+
+> Atención: se sustituye «Vehículo portador (excepto contenedores cisterna y C.G.E.M.)» por «Vehículo portador (excepto contenedores cisterna, cisternas portátiles y CGEM)».
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_057.png)
 
@@ -143,3 +173,5 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_070.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2006/113/08348_071.png)
+
+> Se modifica por el art. único.6 a 14 de la Orden ITC/2632/2010, de 5 de octubre. Ref. BOE-A-2010-15602.
