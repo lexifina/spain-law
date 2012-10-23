@@ -1,5 +1,7 @@
 ## Disposición adicional sexta.
 
-Uno. El importe global de la consignación que se incluya en los Presupuestos Generales del Estado para atender a las subvenciones reguladas en el artículo 3.º de esta Ley se adecuará anualmente, como mínimo, al incremento del índice de Precios al Consumo.
+Uno. La Ley de Presupuestos Generales de cada ejercicio fijará el importe global de la consignación para atender las subvenciones reguladas en el artículo 3 de esta Ley.
 
-Dos. La misma adecuación se efectuará respecto a las cantidades que figuran en los demás artículos de esta Ley.
+Dos. Las cantidades que figuran en los artículos de esta Ley distintas de las contempladas en al apartado primero de esta disposición se adecuarán anualmente al índice de precios al consumo.
+
+> Se modifica por el art. 9 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
