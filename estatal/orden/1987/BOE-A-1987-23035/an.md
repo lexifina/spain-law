@@ -26,11 +26,11 @@ Francia:
 
 1. (Suprimido)
 
-2. Agrupación de Estrasburgo.
+2. (Suprimido)
 
 3. Agrupación de Lyón.
 
-4. Agrupación de Montpellier.
+4. (Suprimido)
 
 5. Agrupación de París.
 
@@ -67,6 +67,8 @@ Suiza:
 6. Agrupación de Zurich.
 
 7. (Suprimido)
+
+> Se suprimen los puntos 2 y 4 de Francia, con efectos a partir del curso 2012-2013, por el apartado 2 de la Orden ECD/2102/2012, de 14 de septiembre. Ref. BOE-A-2012-12400.
 
 > Se suprime el punto 5 de Suiza por el apartado 1 de la Orden ECD/1216/2012, de 29 de mayo. Ref. BOE-A-2012-7678.
 
