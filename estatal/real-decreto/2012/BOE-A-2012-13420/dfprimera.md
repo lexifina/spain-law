@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Conforme a lo establecido en la disposición final quinta de la Ley 27/2011, de 1 de agosto, de actualización, adecuación y modernización del Sistema de Seguridad Social, este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.17.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre la legislación básica y régimen económico de la Seguridad Social, salvo el artículo 5.2, que se dicta al amparo del artículo 149.1.7.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre la legislación laboral.

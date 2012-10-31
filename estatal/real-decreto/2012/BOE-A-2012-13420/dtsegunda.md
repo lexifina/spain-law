@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Certificación de la Autoridad Laboral en los procedimientos de despido colectivo iniciados a partir del 27 de abril de 2011.
+
+Cuando en un procedimiento de despido colectivo iniciado a partir del 27 de abril de 2011 se hubiera dictado a la fecha de entrada en vigor de este real decreto resolución estimatoria por la autoridad laboral competente, ésta emitirá la certificación a que se refiere el artículo 5.2 cuando, según los datos obrantes en el expediente, concurrieran las circunstancias establecidas en el apartado 1 de la disposición adicional decimosexta de la Ley 27/2011, de 1 de agosto, según la redacción aplicable en función de la fecha de inicio del despido colectivo.
+
+La autoridad laboral emitirá igualmente la certificación a que se refiere el párrafo anterior en los procedimientos de despido colectivo iniciados a partir del 12 de febrero de 2012 cuando hubiera recibido la comunicación de la decisión empresarial de despido colectivo y se trate de una empresa en la que, según los datos obrantes en el expediente, concurrieran las circunstancias establecidas en el apartado 1 de la disposición adicional decimosexta de la Ley 27/2011, de 1 de agosto, según la redacción aplicable en función de la fecha de inicio del despido colectivo.
+
+Dicha certificación deberá emitirse en el plazo de un mes a contar desde la fecha de entrada en vigor de este real decreto y será remitida, a los efectos oportunos, al Servicio Público de Empleo Estatal.
