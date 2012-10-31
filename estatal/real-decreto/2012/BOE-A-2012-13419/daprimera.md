@@ -1,0 +1,3 @@
+## Disposición adicional primera. Información estadística.
+
+De acuerdo con lo establecido en la normativa vigente para la elaboración de la estadística de regulación de empleo, incluida en el Plan Estadístico Nacional, las autoridades laborales con competencia en materia de procedimientos de regulación de empleo remitirán en soporte informático a la Subdirección General de Estadística del Ministerio de Empleo y Seguridad Social los datos estadísticos individualizados de cada uno de los procedimientos de despido colectivo y de suspensión de contratos y reducción de jornada tramitados ante las mismas, con el contenido que se establezca en las disposiciones de aplicación y desarrollo de este real decreto.

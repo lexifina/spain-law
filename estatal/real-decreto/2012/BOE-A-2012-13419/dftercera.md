@@ -1,0 +1,9 @@
+## Disposición final tercera. Modificación del Reglamento de Organización y Funcionamiento de la Inspección de Trabajo y Seguridad Social, aprobado por el Real Decreto 138/2000, de 4 de febrero.
+
+Se añade un nuevo apartado 3.bis) al artículo 33 del Reglamento de Organización y Funcionamiento de la Inspección de Trabajo y Seguridad Social, aprobado por el Real Decreto 138/2000, de 4 de febrero:
+
+«3.bis) En los expedientes de despidos colectivos, suspensión de contratos y reducción de jornada que afecten a centros de trabajo de una empresa ubicados en distintas Comunidades Autónomas, el preceptivo informe de la Inspección de Trabajo y Seguridad Social será emitido por la Dirección Especial de la Inspección de Trabajo y Seguridad Social, quien podrá recabar informe o cualquier tipo de colaboración de las estructuras territoriales de la Inspección. Mediante Resolución de la Autoridad Central de la Inspección de Trabajo y Seguridad Social se podrá adscribir el personal inspector o de apoyo necesario a la Dirección Territorial, para la realización de este o de otros cometidos que requieran igualmente unidad y homogeneidad de las actuaciones inspectoras.
+
+En los expedientes de despidos colectivos, suspensión de contratos y reducción de jornada que afecten a centros de trabajo de una empresa ubicados en distintas provincias dentro de la misma Comunidad Autónoma, actuará un solo Inspector de Trabajo y Seguridad Social, designado para éste u otros cometidos que igualmente requieran identidad de criterio, por la Autoridad Central de la Inspección de Trabajo y Seguridad Social.
+
+No obstante, las Comunidades Autónomas que hayan recibido el traspaso de funciones y servicios en materia de Función Pública Inspectora referente a la Inspección de Trabajo y Seguridad Social, tendrán capacidad para designar al inspector de Trabajo a quien corresponda la realización de las funciones a que se refieren los dos párrafos anteriores.»

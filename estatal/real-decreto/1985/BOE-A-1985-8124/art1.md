@@ -2,9 +2,9 @@
 
 La situación legal de desempleo se acreditará de la siguiente forma:
 
-Uno.–Cuando se extinga la relación laboral:
+Uno. Cuando se extinga la relación laboral:
 
-a) En virtud de la autorización conferida al empresario para extinguir las relaciones laborales de sus trabajadores en resolución dictada por la autoridad laboral competente en expediente de regulación de empleo.
+a) (Derogado)
 
 b) (Derogado)
 
@@ -28,15 +28,17 @@ k) Por comunicación escrita del empresario resolviendo el contrato durante el p
 
 l) Por comunicación del empresario extinguiendo el contrato de trabajo cuando el trabajador haya sido declarado incapaz permanente total para su profesión habitual. En caso de desaparición de la Empresa, bastará la resolución de la Entidad Gestora de la Seguridad Social reconociendo tal incapacidad.
 
-Dos.–Cuando se extinga la relación administrativa, por certificación de la Administración Pública correspondiente acreditando tal extremo.
+Dos. Cuando se extinga la relación administrativa, por certificación de la Administración Pública correspondiente acreditando tal extremo.
 
-Tres.–Cuando se suspenda el contrato de trabajo, en virtud de la autorización conferida al empresario para suspender los contratos de trabajo de sus trabajadores en resolución dictada por la autoridad laboral competente en expediente de regulación de empleo.
+Tres. (Derogado)
 
-Cuatro.–Cuando se reduzca temporalmente la jornada ordinaria de trabajo entre un diez y un setenta por ciento de la misma, computada sobre la base de una jornada diaria, semanal, mensual o anual, en virtud de autorización conferida al empresario para reducir la jornada de trabajo de sus trabajadores, por resolución dictada por la autoridad laboral competente en expediente de regulación de empleo.
+Cuatro. (Derogado)
 
-Cinco.–Cuando los trabajadores fijos discontinuos dejen de prestar servicios por haber finalizado o haberse interrumpido la actividad intermitente o de temporada de la Empresa, mediante la presentación de la copia del contrato o de cualquier otro documento que acredite el carácter de la relación laboral y comunicación escrita del empresario acreditando las causas justificativas de la citada finalización o interrupción. En el supuesto de suspensión de la actividad por causas económicas, tecnológicas o por fuerza mayor, se estará a lo previsto en el número 3.
+Cinco. Cuando los trabajadores fijos discontinuos dejen de prestar servicios por haber finalizado o haberse interrumpido la actividad intermitente o de temporada de la Empresa, mediante la presentación de la copia del contrato o de cualquier otro documento que acredite el carácter de la relación laboral y comunicación escrita del empresario acreditando las causas justificativas de la citada finalización o interrupción. En el supuesto de suspensión de la actividad por causas económicas, tecnológicas o por fuerza mayor, se estará a lo previsto en el número 3.
 
 Seis. En los supuestos en los que la situación legal de desempleo se acredite por comunicación, notificación escrita o certificación del empresario, de la Administración empleadora o de la cooperativa, la causa y fecha de efectos de la situación legal de desempleo deberá figurar en el certificado de empresa considerándose documento válido para su acreditación.
+
+> Se deroga el apartado 1.a), 3 y 4 por la disposición derogatoria única.3 del Real Decreto 1483/2012, de 29 de octubre. Ref. BOE-A-2012-13419.
 
 > Se modifican los apartados 1.a), 3 y 4 por la disposición final 2 del Real Decreto 801/2011, de 10 de junio. Ref. BOE-A-2011-10286.
 

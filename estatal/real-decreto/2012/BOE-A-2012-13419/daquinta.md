@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Obligación de depósito de los acuerdos alcanzados en el periodo de consultas que supongan la inaplicación de condiciones de trabajo previstas en convenio colectivo.
+
+Cuando en el acuerdo alcanzado en el periodo de consultas se incluya la inaplicación de lo dispuesto en el convenio colectivo en relación con alguna de las condiciones de trabajo a que hace referencia el artículo 82.3 del Estatuto de los Trabajadores, la empresa deberá proceder en todo caso al depósito del acuerdo de inaplicación, conforme a lo previsto en la disposición adicional cuarta del Real Decreto 713/2010, de 28 de mayo, sobre registro y depósito de convenios y acuerdos colectivos de trabajo.
