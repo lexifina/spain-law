@@ -19,6 +19,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo sexto](asexto.md)
 - [Artículo séptimo](aseptimo.md)
 - [Artículo octavo](aoctavo.md)
+- [Artículo octavo bis](aoctavobis.md)
 - [Artículo noveno](anoveno.md)
 - [Artículo décimo](adecimo.md)
 - [Artículo undécimo](aundecimo.md)
